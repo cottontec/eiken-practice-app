@@ -1,0 +1,23 @@
+# 実際の文字起こしログ（個人情報含む）はコミットしない
+transcripts/raw/*.txt
+transcripts/raw/*.md
+!transcripts/raw/.gitkeep
+!transcripts/raw/SAMPLE-*
+
+# 生徒プロファイル・要約も個人情報のためデフォルトで除外
+# 必要に応じてコメントアウトして共有
+transcripts/summaries/*.md
+!transcripts/summaries/.gitkeep
+students/*.md
+!students/.gitkeep
+next-sessions/*.md
+!next-sessions/.gitkeep
+
+# insights/ は匿名化されたナレッジなのでコミットOK
+
+# 一般的な除外
+.DS_Store
+*.log
+node_modules/
+.env
+.env.local
