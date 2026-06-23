@@ -1,0 +1,258 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<title>英検2級 S-CBT 学習計画</title>
+<style>
+  :root{
+    --green:#2e7d32; --green-d:#1b5e20; --green-l:#e8f5e9; --green-ll:#f1f8f2;
+    --ink:#243027; --mut:#5b6b60; --line:#cfe3d2; --accent:#f9a825;
+  }
+  *{box-sizing:border-box;}
+  @page{ size:A4; margin:13mm 12mm 15mm; }
+  html,body{margin:0;padding:0;}
+  body{
+    font-family:'IPAPGothic','IPAGothic',sans-serif;
+    color:var(--ink); font-size:10.3pt; line-height:1.6;
+    -webkit-print-color-adjust:exact; print-color-adjust:exact;
+  }
+  /* ---- cover / title ---- */
+  .cover{
+    background:linear-gradient(135deg,var(--green) 0%,var(--green-d) 100%);
+    color:#fff; border-radius:10px; padding:22px 26px; margin-bottom:16px;
+  }
+  .cover .kicker{font-size:9.5pt;letter-spacing:.18em;opacity:.92;margin:0 0 4px;}
+  .cover h1{font-size:24pt;margin:0;line-height:1.25;font-weight:bold;letter-spacing:.02em;}
+  .cover .sub{margin:8px 0 0;font-size:10pt;opacity:.95;}
+  .cover .chips{margin-top:12px;}
+  .chip{display:inline-block;background:rgba(255,255,255,.18);border:1px solid rgba(255,255,255,.35);
+    border-radius:999px;padding:3px 11px;font-size:9pt;margin:0 6px 6px 0;}
+  /* ---- section ---- */
+  .sec{margin:0 0 12px;}
+  .sec > h2{
+    display:flex;align-items:center;gap:9px;margin:0;
+    background:var(--green);color:#fff;border-radius:7px 7px 0 0;
+    padding:7px 12px;font-size:12.5pt;font-weight:bold;
+    break-after:avoid;page-break-after:avoid;
+  }
+  .num{display:inline-flex;align-items:center;justify-content:center;
+    width:21px;height:21px;border-radius:50%;background:#fff;color:var(--green-d);
+    font-size:10pt;font-weight:bold;flex:0 0 auto;}
+  .body{border:1px solid var(--line);border-top:none;border-radius:0 0 7px 7px;
+    padding:11px 14px;background:#fff;break-inside:avoid;page-break-inside:avoid;}
+  /* ---- generic ---- */
+  ul{margin:4px 0 4px;padding-left:1.15em;}
+  li{margin:2px 0;}
+  .lead{margin:0 0 7px;}
+  .muted{color:var(--mut);font-size:9pt;}
+  b,strong{color:var(--green-d);}
+  .grid2{display:grid;grid-template-columns:1fr 1fr;gap:11px;}
+  .card{background:var(--green-ll);border:1px solid var(--line);border-radius:7px;padding:9px 11px;}
+  .card h3{margin:0 0 5px;font-size:10.5pt;color:var(--green-d);}
+  .pill{display:inline-block;background:var(--green-l);color:var(--green-d);border-radius:5px;
+    padding:1px 7px;font-size:9pt;font-weight:bold;margin-right:4px;}
+  /* ---- table ---- */
+  table{border-collapse:collapse;width:100%;font-size:9.6pt;margin:3px 0 2px;}
+  th,td{border:1px solid var(--line);padding:5px 8px;text-align:center;}
+  th{background:var(--green);color:#fff;font-weight:bold;}
+  tbody tr:nth-child(even){background:var(--green-ll);}
+  td.l{text-align:left;}
+  .total td{background:var(--green-l);font-weight:bold;color:var(--green-d);}
+  /* ---- day tasks ---- */
+  .task{display:flex;gap:9px;margin:7px 0;}
+  .task .no{flex:0 0 auto;width:22px;height:22px;border-radius:6px;background:var(--green);
+    color:#fff;font-weight:bold;display:flex;align-items:center;justify-content:center;font-size:10pt;}
+  .task .t{flex:1 1 auto;}
+  .task .t .h{font-weight:bold;color:var(--green-d);}
+  /* ---- steps ---- */
+  ol.steps{margin:4px 0;padding-left:1.4em;}
+  ol.steps li{margin:3px 0;}
+  /* ---- 24 koma ---- */
+  .koma h3{margin:2px 0 5px;color:var(--green-d);font-size:11pt;}
+  .koma h3 .pill{font-size:9pt;}
+  /* ---- note ---- */
+  .note{margin-top:6px;background:#fff8e1;border:1px solid #f0d488;border-left:4px solid var(--accent);
+    border-radius:6px;padding:9px 12px;font-size:8.8pt;color:#6b5a16;}
+  .foot{margin-top:10px;text-align:center;color:var(--mut);font-size:8pt;}
+</style>
+</head>
+<body>
+
+  <div class="cover">
+    <p class="kicker">EIKEN GRADE 2 ・ S-CBT ・ STUDY PLAN</p>
+    <h1>英検2級 S-CBT 学習計画</h1>
+    <p class="sub">合格に向けた逆算学習プラン ― 毎日の固定課題と週末の過去問で、3技能合計を安定させる</p>
+    <div class="chips">
+      <span class="chip">受験方式：英検S-CBT（4技能を1日で受験）</span>
+      <span class="chip">学習ボリューム：合計24コマ</span>
+      <span class="chip">7月 13コマ ＋ 8月 11コマ</span>
+    </div>
+  </div>
+
+  <!-- ① -->
+  <div class="sec">
+    <h2><span class="num">1</span>受験概要・目標スコア</h2>
+    <div class="body">
+      <p class="lead">英検S-CBTは <b>リーディング・リスニング・ライティング・スピーキングの4技能を1日で</b> 受験します。各技能の満点はCSEスコアで650点です。</p>
+      <table>
+        <thead>
+          <tr><th>技能</th><th>満点（CSE）</th><th>合格基準点の目安</th><th>本プランの目標</th></tr>
+        </thead>
+        <tbody>
+          <tr><td class="l">リーディング</td><td>650</td><td>―</td><td>得点源にする</td></tr>
+          <tr><td class="l">リスニング</td><td>650</td><td>―</td><td>得点源にする</td></tr>
+          <tr><td class="l">ライティング</td><td>650</td><td>―</td><td>型を固めて安定</td></tr>
+          <tr class="total"><td class="l">3技能合計（一次相当）</td><td>1950</td><td>1520</td><td>1825 を目標</td></tr>
+          <tr><td class="l">スピーキング（二次相当）</td><td>650</td><td>460</td><td>直前期に集中対策</td></tr>
+          <tr class="total"><td class="l">4技能合計</td><td>2600</td><td>―</td><td>―</td></tr>
+        </tbody>
+      </table>
+      <p class="muted">※満点・合格基準点は英検2級の公式値（各技能650／3技能1950／合格基準 一次1520・スピーキング460）。</p>
+      <p style="margin:8px 0 3px;"><b>学習の基本方針</b></p>
+      <ul>
+        <li>リーディング・リスニングを安定した得点源にし、<b>3技能合計で確実に合格ラインを超える</b>。</li>
+        <li>ライティングは「型」を固定し、毎回同じ手順で書けるようにする。</li>
+        <li>スピーキングは直前期に集中して対策する。</li>
+        <li>毎日の固定課題と週末の過去問で、実戦力を積み上げる。</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- ② -->
+  <div class="sec">
+    <h2><span class="num">2</span>学習時間と1週間の進め方</h2>
+    <div class="body">
+      <div class="grid2">
+        <div class="card">
+          <h3>平日（忙しい日）</h3>
+          <p class="pill">1日 1〜2時間</p>
+          <ul><li>でた単（語彙）</li><li>リスニング</li><li>中学文法</li></ul>
+        </div>
+        <div class="card">
+          <h3>平日（通常）</h3>
+          <p class="pill">上記 ＋ α</p>
+          <ul><li>忙しい日の課題に加えて</li><li>ライティング</li></ul>
+        </div>
+      </div>
+      <div class="card" style="margin-top:11px;">
+        <h3>休日</h3>
+        <p class="pill">合計 4〜6時間</p>
+        <ul><li>過去問（本番形式）</li><li>ライティング添削</li><li>復習・音読</li></ul>
+      </div>
+      <p class="muted" style="margin-top:8px;">※1コマにつき 1〜2時間を見込んでください。講師添削が入る課題は、提出から返却まで時間がかかる場合があります。</p>
+    </div>
+  </div>
+
+  <!-- ③ -->
+  <div class="sec">
+    <h2><span class="num">3</span>毎日の固定課題①（語彙・リスニング・文法）</h2>
+    <div class="body">
+      <div class="task"><div class="no">1</div><div class="t">
+        <span class="h">語彙（でた単）</span><br>
+        1日400語を目安に高速で回す。見出語は必須でチェック。忘れてもよいので、毎日くり返して定着させる。
+      </div></div>
+      <div class="task"><div class="no">2</div><div class="t">
+        <span class="h">リスニング</span><br>
+        英検2級レベルのリスニングを毎日（または過去問のリスニング1回分）。シャドーイング・ディクテーションで耳を慣らす。
+      </div></div>
+      <div class="task"><div class="no">3</div><div class="t">
+        <span class="h">中学文法</span><br>
+        『中学英語をひとつひとつわかりやすく。』で土台を固める。苦手な単元を優先して進める。
+      </div></div>
+    </div>
+  </div>
+
+  <!-- ④ -->
+  <div class="sec">
+    <h2><span class="num">4</span>毎日の固定課題②（ライティング・スピーキング）</h2>
+    <div class="body">
+      <div class="task"><div class="no">4</div><div class="t">
+        <span class="h">ライティング</span><br>
+        英作文を1日1題。意見論述・要約を「型」に沿って書く。使える表現はテンプレートとしてストックしていく。
+      </div></div>
+      <div class="task"><div class="no">5</div><div class="t">
+        <span class="h">スピーキング</span><br>
+        例文の音読を毎日続ける。面接形式（音読・Q&amp;A）の練習は直前期に重点的に行う。
+      </div></div>
+    </div>
+  </div>
+
+  <!-- ⑤ -->
+  <div class="sec">
+    <h2><span class="num">5</span>7月・8月の学習計画</h2>
+    <div class="body">
+      <div class="grid2">
+        <div class="card">
+          <h3>7月 ― 土台づくりの期間</h3>
+          <ul>
+            <li>でた単・中学文法・ライティングの「型」作り</li>
+            <li>リーディング／リスニングの基礎固め</li>
+            <li>各パートの解き方を一通り習得する</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>8月 ― 過去問中心の実戦期間</h3>
+          <ul>
+            <li>毎週末に過去問1回分を本番形式で実施</li>
+            <li>弱点の復習と仕上げ</li>
+            <li>スピーキング対策・最終確認</li>
+          </ul>
+        </div>
+      </div>
+      <p class="muted" style="margin-top:8px;">※過去問は毎週末に1回分を、本番と同じ形式・時間で解きます。</p>
+    </div>
+  </div>
+
+  <!-- ⑥ -->
+  <div class="sec">
+    <h2><span class="num">6</span>過去問の実施・報告方法</h2>
+    <div class="body">
+      <p style="margin:0 0 3px;"><b>過去問を解く手順</b></p>
+      <ol class="steps">
+        <li>本番と同じ時間帯・制限時間で設問を解く</li>
+        <li>解答を記録する</li>
+        <li>自己採点する</li>
+        <li>間違いを分析する（なぜ間違えたかを言語化）</li>
+        <li>音読・復習で定着させる</li>
+        <li>結果を講師に報告する</li>
+      </ol>
+      <p class="muted" style="margin-top:6px;">※時間が足りない場合は、リーディングを優先し、リスニングは隙間時間で補います。</p>
+    </div>
+  </div>
+
+  <!-- ⑦ -->
+  <div class="sec">
+    <h2><span class="num">7</span>全24コマの指導計画</h2>
+    <div class="body">
+      <div class="koma">
+        <h3><span class="pill">7月</span>13コマ ― 土台づくり</h3>
+        <ul>
+          <li>オリエンテーション／学習設計・目標確認</li>
+          <li>語彙（でた単）の回し方・文法の基礎</li>
+          <li>リーディング 各パートの解法</li>
+          <li>リスニング 各パートの解法</li>
+          <li>ライティングの「型」作り・添削</li>
+        </ul>
+      </div>
+      <div class="koma" style="margin-top:9px;">
+        <h3><span class="pill">8月</span>11コマ ― 実戦・仕上げ</h3>
+        <ul>
+          <li>過去問演習と解説（毎週末＋授業内で確認）</li>
+          <li>弱点補強・パート別の集中対策</li>
+          <li>ライティング添削の反映</li>
+          <li>スピーキング対策（音読・面接形式）</li>
+          <li>本番前の最終確認</li>
+        </ul>
+      </div>
+      <p class="note">
+        【ご確認のお願い】本資料は、共有いただいた学習計画の画像をもとに書き起こしたものです。
+        満点・合格基準点は英検2級の公式値を用いています。<b>受験日、各技能の目標サブスコア、24コマそれぞれの具体的なテーマ</b>については、
+        原本と細部が異なる場合があります。原本（スライド・テキスト等）を共有いただければ、内容を正確に反映して再作成します。
+      </p>
+    </div>
+  </div>
+
+  <p class="foot">英検2級 S-CBT 学習計画 ／ スタスタLIVE英検</p>
+
+</body>
+</html>
