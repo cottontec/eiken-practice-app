@@ -169,6 +169,13 @@ top3 = "".join(f"<li><b>{e(t)}</b><br>{e(d)}</li>" for t, d in TOP3)
 good = "".join(f"<li>{e(g)}</li>" for g in GOOD)
 check = "".join(f"<div class=ck><span class=box></span>{e(c)}</div>" for c in CHECK)
 
+import math
+pass_int = math.ceil(pass_raw)
+need_lo, need_hi = pass_int - max(D_HI, A_HI), pass_int - min(D_LO, A_LO)
+up_lo, up_hi = min(D_LO, A_LO) + 3, max(D_HI, A_HI) + 4
+cse_pass_int = cse(pass_int)
+assert (need_lo, need_hi, pass_int, cse_pass_int) == (2, 4, 23, 418), (need_lo, need_hi, pass_int, cse_pass_int)
+assert D_KNOWN + 5 + 3 == pass_int and A_KNOWN + 5 + 3 == pass_int
 page = f"""<!doctype html><html lang=ja><head><meta charset=utf-8><style>
 @page {{ size: A4; margin: 14mm 15mm 14mm 15mm; }}
 * {{ box-sizing: border-box; }}
@@ -178,7 +185,7 @@ body {{ font-family: 'Noto Sans JP', sans-serif; font-size: 9.6pt; line-height: 
 .sub {{ font-size: 9pt; margin: 4px 0 10px; }}
 h2 {{ font-size: 13pt; border-bottom: 2px solid #000; padding-bottom: 2px; margin: 11px 0 5px; break-after: avoid; }}
 h3 {{ font-size: 10.5pt; margin: 10px 0 4px; break-after: avoid; }}
-table {{ border-collapse: collapse; width: 100%; }}
+table {{ border-collapse: collapse; width: 100%; line-height: 1.45; }}
 th, td {{ border: 1px solid #000; padding: 1.5px 6px; vertical-align: top; }}
 th {{ background: #e6e6e6; font-weight: 700; }}
 td.c {{ text-align: center; white-space: nowrap; }}
@@ -209,9 +216,9 @@ ul {{ margin: 2px 0; }}
 <h2>推定スコア</h2>
 <table><tr><th>項目</th><th>満点</th><th>カードD</th><th>カードA</th></tr>{score_rows()}</table>
 <p class="note small">合格基準：CSEスコア {CSE_PASS}／{CSE_MAX}（英検公式）。配点は音読5点、No.1〜5が各5点、アティチュード3点の計33点。
-素点とCSEの換算表は公開されていないため、ここでは素点を600点に比例換算した【推定】です。この換算では素点23点で基準を超えます。
+素点とCSEの換算表は公開されていないため、ここでは素点を600点に比例換算した【推定】です。
 今回は No.5 の録音がなく、アティチュード（入退室・態度）も音声では判断できないため、仮置きで幅を持たせています。</p>
-<p class=note>現時点の推定は、両カードとも合格基準の少し手前です。下の3つを直すと、No.2〜No.4で合わせて3〜4点を上積みでき、基準に届く見込みです【推定】。</p>
+<p class=note><b>判定【推定】：現時点では合格基準に届いていません。あと{need_lo}〜{need_hi}点足りない位置です。</b>合格には素点{pass_int}点以上（CSE {cse_pass_int}）が必要で、今のままではNo.5とアティチュードが満点でやっと届く計算です。下の3つを直してNo.2〜No.4で3〜4点を上積みできれば、{up_lo}〜{up_hi}点になり、余裕を持って基準を超える見込みです。</p>
 
 <h2>今回いちばん効く3つ</h2>
 <ol class=top3>{top3}</ol>
