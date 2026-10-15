@@ -62,9 +62,19 @@ function confirmAction(title, text, label, fn, danger = false) {
   modal(`<h2>${esc(title)}</h2><p class="muted">${esc(text)}</p><div class="actions"><button class="btn outline" id="c-cancel">キャンセル</button><button class="btn ${danger ? 'danger' : 'primary'}" id="c-ok">${esc(label)}</button></div>`);
   $('#c-cancel').onclick = closeModal; $('#c-ok').onclick = () => { closeModal(); fn(); };
 }
-function download(name, body, type = 'application/json') {
+// claude.ai で開いたときは、直接のダウンロードと印刷が使えないため、保存は downloads 機能を通す。
+const IN_ARTIFACT = typeof window.claude === 'object' && window.claude !== null && typeof window.claude.use === 'function';
+let downloadsApi = null;
+if (IN_ARTIFACT) window.claude.use('downloads').then(d => { downloadsApi = d; }).catch(() => {});
+async function download(name, body, type = 'application/json') {
+  if (IN_ARTIFACT) {
+    if (!downloadsApi) { toast('この画面ではファイルを保存できません。'); return false; }
+    try { await downloadsApi.save({ filename: name, data: body }); return true; }
+    catch (e) { if (e && e.code !== 'declined') toast('保存できませんでした（' + (e.code || 'error') + '）。'); return false; }
+  }
   const a = document.createElement('a'), u = URL.createObjectURL(body instanceof Blob ? body : new Blob([body], { type }));
   a.href = u; a.download = name; document.body.appendChild(a); a.click(); a.remove(); setTimeout(() => URL.revokeObjectURL(u), 2000);
+  return true;
 }
 function csv(rows) { return '﻿' + rows.map(r => r.map(x => '"' + String(x ?? '').replace(/"/g, '""') + '"').join(',')).join('\r\n'); }
 async function copyText(text) {
@@ -225,12 +235,12 @@ function renderCreate() {
     <label class="field"><span>出題する語</span>${selectHtml('f-target', TARGETS, c.target, TARGET_LABELS)}</label>
     <p class="note" id="f-target-note"></p>
   </section>
-  <div class="create-bar"><div id="f-preview"></div><div id="f-error" role="alert"></div><div class="actions"><button class="btn outline" id="f-paper">紙テストを作る</button><button class="btn primary grow" id="f-start-btn">テストを始める</button></div></div>`;
+  <div class="create-bar"><div id="f-preview"></div><div id="f-error" role="alert"></div><div class="actions">${IN_ARTIFACT ? '' : '<button class="btn outline" id="f-paper">紙テストを作る</button>'}<button class="btn primary grow" id="f-start-btn">テストを始める</button></div></div>`;
   ['f-edition', 'f-section', 'f-start', 'f-end', 'f-target'].forEach(id => $('#' + id).addEventListener('input', previewConfig));
   $$('[name="f-mode"],[name="f-count"]').forEach(x => x.addEventListener('change', previewConfig));
   $$('[data-preset]').forEach(b => b.onclick = () => { const [a, z] = b.dataset.preset.split('-'); $('#f-start').value = a; $('#f-end').value = z; previewConfig(); });
   $('#f-start-btn').onclick = () => { const cfg = readConfig(); if (!configError(cfg)) startTest(cfg); };
-  $('#f-paper').onclick = () => { const cfg = readConfig(); if (!configError(cfg)) createPaper(cfg); };
+  if ($('#f-paper')) $('#f-paper').onclick = () => { const cfg = readConfig(); if (!configError(cfg)) createPaper(cfg); };
   previewConfig();
 }
 function readConfig() {
@@ -251,7 +261,7 @@ function previewConfig() {
   $('#f-target-note').textContent = `「${TARGET_LABELS[c.target]}」は${FAMILY_NAMES[family]}の記録で選びます。` + (c.mode === 'choice' ? '4択には復習日がないため「復習日を迎えた語だけ」は選べません。' : '');
   $('#f-preview').innerHTML = error ? '' : `<div class="preview"><b>${count}<small>問</small></b><span>${esc(MODE_NAMES[c.mode])} · ${esc(c.section)} ${rangeLabel(c)}</span><span class="muted">範囲内 ${num(pool.length)}語 · 条件に合う語 ${num(avail.length)}語${c.mode === 'book' ? '' : ` · データあり ${num(withData)}語`}</span></div>${count < c.count && count > 0 ? `<p class="small muted">条件に合う語が${count}語のため、重複なしで${count}問を出題します。</p>` : ''}${!error && c.mode !== 'book' && withData === 0 ? '<p class="small warn-text">この版・区分・範囲には単語データがありません。区分「全項目」を選ぶか、「本と一緒に確認」を使ってください。</p>' : ''}${!error && count === 0 && withData > 0 ? '<p class="small warn-text">条件に合う語がありません。「出題する語」を変えてください。</p>' : ''}`;
   $('#f-error').innerHTML = error ? `<div class="banner error">${esc(error)}</div>` : '';
-  $('#f-start-btn').disabled = $('#f-paper').disabled = !!error || count === 0;
+  $('#f-start-btn').disabled = !!error || count === 0; if ($('#f-paper')) $('#f-paper').disabled = $('#f-start-btn').disabled;
   if (!error) { state.config = c; save(); }
 }
 function buildQuestions(c, words) {
@@ -476,8 +486,8 @@ function saveReportImage(r) {
   cv.toBlob(async blob => {
     if (!blob) { toast('画像を作れませんでした。画面のスクリーンショットをお使いください。'); return; }
     const file = new File([blob], name, { type: 'image/png' });
-    try { if (navigator.canShare && navigator.canShare({ files: [file] })) { await navigator.share({ files: [file], title: '学習報告' }); return; } } catch (e) { if (e && e.name === 'AbortError') return; }
-    download(name, blob); toast('報告画像を保存しました。');
+    if (!IN_ARTIFACT) try { if (navigator.canShare && navigator.canShare({ files: [file] })) { await navigator.share({ files: [file], title: '学習報告' }); return; } } catch (e) { if (e && e.name === 'AbortError') return; }
+    if (await download(name, blob)) toast('報告画像を保存しました。');
   }, 'image/png');
 }
 
@@ -509,13 +519,13 @@ function renderPaper(id) {
   if (!t) { app.innerHTML = pageHead('紙テスト') + emptyBox('この紙テストは見つかりません。', 'すでに記録済みか、削除された可能性があります。', '<a class="btn primary" href="#history">記録を見る</a>'); return; }
   const c = t.config, done = t.grades.filter(g => g && g.score != null).length;
   app.innerHTML = pageHead('紙テスト', `${esc(MODE_NAMES[c.mode])} · ${esc(c.section)} ${rangeLabel(c)} · ${t.questions.length}問 · ${stamp(t.createdAt)} 作成`) + `
-  <section class="card"><h2>1. 印刷する</h2><p class="small muted">問題と解答は別のページに印刷されます。ブラウザの印刷画面からPDFとしても保存できます。</p><div class="actions"><button class="btn primary" id="pp-print">問題と解答を印刷</button></div>
+  <section class="card"><h2>1. 印刷する</h2><p class="small muted">問題と解答は別のページに印刷されます。ブラウザの印刷画面からPDFとしても保存できます。</p>${IN_ARTIFACT ? '<p class="note warn">この画面からは印刷できません。印刷はダウンロード版のHTMLファイルから行ってください。</p>' : '<div class="actions"><button class="btn primary" id="pp-print">問題と解答を印刷</button></div>'}
   <p class="note">紙で解いた結果は自動では記録されません。採点したら、下で1問ずつ結果を入力してください（記録日時は入力した日時になります）。</p></section>
   <section class="card"><div class="card-head"><h2>2. 採点を入力</h2><span class="muted small">${done} / ${t.questions.length}問</span></div>
   <div class="paper-list">${t.questions.map((q, i) => { const g = t.grades[i] || {}; return `<div class="paper-q" data-i="${i}"><div class="pq-head"><b>${i + 1}.</b><span>No.${q.no} ${esc(paperPrompt(c, q))}</span></div><p class="small muted">答え：${esc(paperAnswer(c, q))}</p><div class="pq-inputs"><input placeholder="生徒の回答（任意）" value="${esc(g.answer || '')}" data-pq-answer aria-label="${i + 1}問目の回答"><select data-pq-conf aria-label="${i + 1}問目の自信">${[['unsure', '自信は不明・迷った'], ['sure', '自信ありと答えた'], ['guess', 'ほぼ勘']].map(([v, l]) => `<option value="${v}" ${(g.confidence || 'unsure') === v ? 'selected' : ''}>${l}</option>`).join('')}</select></div><div class="grades small-grades">${[[1, '正解', 'g-good'], [0.5, 'あいまい', 'g-mid'], [0, '不正解', 'g-bad']].map(([s, l, k]) => `<button class="grade ${k} ${g.score === s ? 'on' : ''}" data-pq-score="${s}">${l}</button>`).join('')}</div></div>`; }).join('')}</div>
   <p class="small muted">自信が不明な場合は「迷った」扱いになり、定着の段階は進みません。</p>
   <div class="actions col"><button class="btn primary" id="pp-save" ${done ? '' : 'disabled'}>${done === t.questions.length ? '採点を記録する' : `採点済みの${done}問を記録する`}</button><button class="btn link danger-text" id="pp-delete">この紙テストを削除</button></div></section>`;
-  $('#pp-print').onclick = () => printPaper(t);
+  if ($('#pp-print')) $('#pp-print').onclick = () => printPaper(t);
   $$('.paper-q').forEach(row => {
     const i = Number(row.dataset.i), grade = () => (t.grades[i] ||= { score: null, answer: '', confidence: 'unsure' });
     $('[data-pq-answer]', row).oninput = e => { grade().answer = e.target.value; saveSoon(); };
@@ -679,8 +689,7 @@ function reportSummary(r) {
 function migrationSummary(m) { return `<p class="small muted">${stamp(m.at)} · ${m.from === 1 ? '旧アプリ' : '新アプリ'}の形式${m.file ? ' · ' + esc(m.file) : ''}</p>` + reportSummary(m.report); }
 function exportBackup() {
   const body = JSON.stringify({ ...state, exportedAt: new Date().toISOString() }, null, 1);
-  download(`単熟語EX_バックアップ_${dayKey(Date.now())}.json`, body);
-  toast('バックアップを保存しました。');
+  download(`単熟語EX_バックアップ_${dayKey(Date.now())}.json`, body).then(ok => { if (ok) toast('バックアップを保存しました。'); });
 }
 function migrateLegacy() {
   let raw;

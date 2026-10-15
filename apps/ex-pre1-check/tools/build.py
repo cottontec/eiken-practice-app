@@ -52,6 +52,13 @@ def main():
     out.parent.mkdir(exist_ok=True)
     out.write_text(html, encoding="utf-8")
     print(f"{out} を作成しました（{len(html.encode('utf-8')):,} バイト、内蔵 {len(rows)} 項目）")
+    # claude.ai 公開用：公開時に doctype / html / head / body が付くため、中身だけにする
+    head = html[html.index("<head>") + 6:html.index("</head>")]
+    body = html[html.index("<body>") + 6:html.rindex("</body>")]
+    keep = "\n".join(l for l in head.splitlines() if not l.startswith(("<meta charset", "<meta name=\"viewport\"")))
+    art = ROOT / "dist" / "artifact.html"
+    art.write_text(keep.strip() + "\n" + body.strip() + "\n", encoding="utf-8")
+    print(f"{art} を作成しました（claude.ai 公開用）")
 
 
 if __name__ == "__main__":
