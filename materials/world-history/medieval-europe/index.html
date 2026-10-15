@@ -91,9 +91,28 @@ article.q { margin-top: 22px; padding-top: 14px; border-top: 1px dashed var(--ru
 .explain li { display: grid; grid-template-columns: 2em 1fr; }
 .explain .point { margin-top: 8px; color: var(--muted); }
 .result { margin-top: 18px; background: var(--sheet); border: 2px solid var(--ink); padding: 16px 18px; display: grid; gap: 10px; }
-.result .score { font-family: var(--font-q); font-size: 28px; font-variant-numeric: tabular-nums; }
-.result table { border-collapse: collapse; font-size: 14px; font-variant-numeric: tabular-nums; }
-.result td, .result th { border-bottom: 1px solid var(--rule); padding: 4px 14px 4px 0; text-align: left; }
+.result .rhead { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 4px 12px; align-items: baseline; }
+.result .when { font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.namefield { display: grid; gap: 4px; font-size: 13px; color: var(--muted); }
+.namefield input { font: 16px var(--font-ui); color: var(--ink); background: var(--paper); border: 1px solid var(--rule); border-radius: 6px; padding: 8px 10px; max-width: 320px; width: 100%; }
+.namefield input:focus-visible, .result textarea:focus-visible { outline: 2px solid var(--lapis); outline-offset: 1px; }
+.result .score { font-family: var(--font-q); font-size: 40px; line-height: 1.1; font-variant-numeric: tabular-nums; }
+.result .score small { font-size: 16px; color: var(--muted); }
+.rmeta { display: flex; flex-wrap: wrap; gap: 4px 16px; font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.result table { border-collapse: collapse; font-size: 14px; font-variant-numeric: tabular-nums; width: 100%; }
+.result td, .result th { border-bottom: 1px solid var(--rule); padding: 5px 14px 5px 0; text-align: left; }
+.result td.num { text-align: right; padding-right: 0; white-space: nowrap; }
+.rlabel { font-size: 13px; font-weight: 700; margin-bottom: 4px; }
+.misses { list-style: none; margin: 0; padding: 0; display: grid; gap: 2px; font-size: 14px; }
+.misses li { display: grid; grid-template-columns: 3.4em minmax(0, 1fr) auto; gap: 8px; padding: 4px 0; border-bottom: 1px solid var(--rule); }
+.misses li.none { display: block; color: var(--muted); }
+.misses a { color: var(--lapis); font-weight: 700; }
+.misses .pick { color: var(--ng); font-size: 13px; white-space: nowrap; }
+@media (max-width: 480px) { .misses li { grid-template-columns: 3.4em minmax(0, 1fr); } .misses .pick { grid-column: 2; } }
+.actions { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; }
+.copymsg { font-size: 13px; color: var(--ok); }
+.result textarea { width: 100%; font: 13px/1.6 var(--font-ui); color: var(--ink); background: var(--paper); border: 1px solid var(--rule); border-radius: 6px; padding: 10px; resize: vertical; }
+.hint { font-size: 12.5px; color: var(--muted); }
 .sheetmap { display: flex; flex-wrap: wrap; gap: 4px; }
 .sheetmap a { width: 34px; height: 30px; display: grid; place-items: center; border: 1px solid var(--rule); border-radius: 4px; font-size: 12px; color: var(--muted); text-decoration: none; background: var(--sheet); font-variant-numeric: tabular-nums; }
 .sheetmap a.done { border-color: var(--lapis); color: var(--lapis); font-weight: 700; }
@@ -173,7 +192,7 @@ footer { margin-top: 40px; font-size: 12px; color: var(--muted); }
   ],
   "questions": [
     {
-      "no": 1, "section": 1, "type": "combo",
+      "no": 1, "tag": "クローヴィスとカール＝マルテル", "section": 1, "type": "combo",
       "stem": "会話文中の空欄 [ア] ・ [イ] に入る語の組合せとして正しいものを、次の①〜④のうちから一つ選べ。",
       "keys": ["ア", "イ"],
       "choices": [["アリウス", "カール＝マルテル"], ["アタナシウス", "カール＝マルテル"], ["アリウス", "ピピン"], ["アタナシウス", "ピピン"]],
@@ -188,7 +207,7 @@ footer { margin-top: 40px; font-size: 12px; color: var(--muted); }
       "point": "多くのゲルマン人がアリウス派だったなかで、フランク人が正統派に改宗したことが、のちのローマ教会との提携につながった。"
     },
     {
-      "no": 2, "section": 1, "type": "order",
+      "no": 2, "tag": "フランク王国と聖像禁止令（年代整序）", "section": 1, "type": "order",
       "stem": "会話文に関連して、次の出来事Ⅰ〜Ⅲが年代の古いものから順に正しく配列されているものを、下の①〜⑥のうちから一つ選べ。",
       "items": ["ピピンが、ランゴバルド王国から奪ったラヴェンナ地方を教皇に寄進した。", "ビザンツ皇帝レオン3世が聖像禁止令を出した。", "メルセン条約によって、のちのドイツ・フランス・イタリアの原形が形づくられた。"],
       "years": [756, 726, 870],
@@ -197,7 +216,7 @@ footer { margin-top: 40px; font-size: 12px; color: var(--muted); }
       "point": "Ⅱ（726年）→Ⅰ（756年）→Ⅲ（870年）。カールの戴冠（800年）とヴェルダン条約（843年）を目印に前後関係を整理するとよい。"
     },
     {
-      "no": 3, "section": 1, "type": "single",
+      "no": 3, "tag": "ビザンツ帝国", "section": 1, "type": "single",
       "stem": "会話文に関連して、ビザンツ帝国について述べた文として最も適当なものを、次の①〜④のうちから一つ選べ。",
       "choices": [
         "ビザンツ帝国の首都コンスタンティノープルは、第1回十字軍によって占領された。",
@@ -215,7 +234,7 @@ footer { margin-top: 40px; font-size: 12px; color: var(--muted); }
       "point": "十字軍の「回」、帝国を滅ぼした「王朝名」の入れ替えは頻出のひっかけ。"
     },
     {
-      "no": 4, "section": 1, "type": "tf",
+      "no": 4, "tag": "カール大帝の戴冠", "section": 1, "type": "tf",
       "stem": "カール大帝とその戴冠について述べた次の文 a と b の正誤の組合せとして正しいものを、下の①〜④のうちから一つ選べ。",
       "statements": [
         "カール大帝の戴冠によって、西ヨーロッパにローマ帝国の皇帝の称号が復活し、ローマ教会はビザンツ皇帝から自立する足場を得た。",
@@ -230,7 +249,7 @@ footer { margin-top: 40px; font-size: 12px; color: var(--muted); }
       "point": "西ヨーロッパの教会・学問の言語はラテン語、ビザンツ側はギリシア語、と対比して覚える。"
     },
     {
-      "no": 5, "section": 1, "type": "single",
+      "no": 5, "tag": "ノルマン人", "section": 1, "type": "single",
       "stem": "下線部 <u>ノルマン人</u> の活動について述べた文として最も適当なものを、次の①〜④のうちから一つ選べ。",
       "choices": [
         "首長ロロが北フランスに進出し、ノルマンディー公国を建てた。",
@@ -248,7 +267,7 @@ footer { margin-top: 40px; font-size: 12px; color: var(--muted); }
       "point": "前半は正しく後半だけが誤り、という文に注意。文の最後まで読む。"
     },
     {
-      "no": 6, "section": 2, "type": "single",
+      "no": 6, "tag": "封建制と荘園", "section": 2, "type": "single",
       "stem": "下線部 <u>封建社会</u> について述べた文として最も適当なものを、次の①〜④のうちから一つ選べ。",
       "choices": [
         "主君と家臣の主従関係は、家臣だけが一方的に義務を負う片務的な関係であった。",
@@ -266,7 +285,7 @@ footer { margin-top: 40px; font-size: 12px; color: var(--muted); }
       "point": "「双務的」「不輸不入権」「十分の一税」は用語の取り違えが狙われる。"
     },
     {
-      "no": 7, "section": 2, "type": "combo",
+      "no": 7, "tag": "クリュニー修道院と叙任権闘争", "section": 2, "type": "combo",
       "stem": "文章中の空欄 [ウ] ・ [エ] に入る語の組合せとして正しいものを、次の①〜④のうちから一つ選べ。",
       "keys": ["ウ", "エ"],
       "choices": [["シトー", "ハインリヒ4世"], ["シトー", "フリードリヒ1世"], ["クリュニー", "ハインリヒ4世"], ["クリュニー", "フリードリヒ1世"]],
@@ -281,7 +300,7 @@ footer { margin-top: 40px; font-size: 12px; color: var(--muted); }
       "point": "叙任権闘争は1122年のヴォルムス協約で妥協が成立したことまでセットで押さえる。"
     },
     {
-      "no": 8, "section": 2, "type": "single",
+      "no": 8, "tag": "十字軍の提唱（資料）", "section": 2, "type": "single",
       "stem": "下線部 <u>十字軍</u> に関連して、次の資料は、ある教皇が会議で行ったとされる呼びかけの内容を要約したものである。この呼びかけが行われた会議と、その背景について述べた文として最も適当なものを、下の①〜④のうちから一つ選べ。",
       "material": "東方に住む我らの兄弟たちが、トルコ人の攻撃を受けて苦しみ、たびたび救援を求めてきている。彼らはすでに多くの土地を奪われ、教会は破壊されている。この遠征に加わる者は、その罪を赦されるであろう。",
       "materialSrc": "シャルトルのフーシェの記録などをもとに作問者が要約",
@@ -301,7 +320,7 @@ footer { margin-top: 40px; font-size: 12px; color: var(--muted); }
       "point": "資料中の「トルコ人」「救援を求めて」から、11世紀末のセルジューク朝とビザンツの状況を読み取る。"
     },
     {
-      "no": 9, "section": 2, "type": "order",
+      "no": 9, "tag": "十字軍（年代整序）", "section": 2, "type": "order",
       "stem": "十字軍に関連する次の出来事Ⅰ〜Ⅲが年代の古いものから順に正しく配列されているものを、下の①〜⑥のうちから一つ選べ。",
       "items": ["アイユーブ朝のサラディンが、イェルサレムを奪回した。", "十字軍がコンスタンティノープルを占領し、ラテン帝国を建てた。", "十字軍がイェルサレムを占領し、イェルサレム王国を建てた。"],
       "years": [1187, 1204, 1099],
@@ -310,7 +329,7 @@ footer { margin-top: 40px; font-size: 12px; color: var(--muted); }
       "point": "Ⅲ（1099年）→Ⅰ（1187年）→Ⅱ（1204年）。第1回で建国、第3回の原因が奪回、第4回で目的がそれた、の流れ。"
     },
     {
-      "no": 10, "section": 2, "type": "tf",
+      "no": 10, "tag": "十字軍の影響", "section": 2, "type": "tf",
       "stem": "十字軍が西ヨーロッパに与えた影響について述べた次の文 a と b の正誤の組合せとして正しいものを、下の①〜④のうちから一つ選べ。",
       "statements": [
         "十字軍の失敗によって教皇の権威はかえって高まり、14世紀初めにはフランス王フィリップ4世が教皇に屈服した。",
@@ -325,7 +344,7 @@ footer { margin-top: 40px; font-size: 12px; color: var(--muted); }
       "point": "十字軍の影響は「教皇権の低下・王権の伸長・東方貿易の発展」の三点で整理する。"
     },
     {
-      "no": 11, "section": 3, "type": "single",
+      "no": 11, "tag": "遠隔地商業", "section": 3, "type": "single",
       "stem": "下線部 <u>遠隔地商業</u> について述べた文として最も適当なものを、次の①〜④のうちから一つ選べ。",
       "choices": [
         "北イタリアの諸都市は、神聖ローマ皇帝に対抗してカルマル同盟を結成した。",
@@ -343,7 +362,7 @@ footer { margin-top: 40px; font-size: 12px; color: var(--muted); }
       "point": "北ヨーロッパ商業圏（ハンザ・フランドル）と地中海商業圏（ヴェネツィア・ジェノヴァ）、その結節点のシャンパーニュ、という地図上の配置で覚える。"
     },
     {
-      "no": 12, "section": 3, "type": "tf",
+      "no": 12, "tag": "中世都市とギルド", "section": 3, "type": "tf",
       "stem": "下線部 <u>ギルド</u> と中世都市について述べた次の文 a と b の正誤の組合せとして正しいものを、下の①〜④のうちから一つ選べ。",
       "statements": [
         "ドイツの都市の中には、皇帝から特許状を得て自治権を認められ、皇帝直属の帝国都市（自由都市）となるものがあった。",
@@ -358,7 +377,7 @@ footer { margin-top: 40px; font-size: 12px; color: var(--muted); }
       "point": "商人ギルドに対して手工業者が同職ギルドをつくり、市政への参加を求めた争いをツンフト闘争という。"
     },
     {
-      "no": 13, "section": 3, "type": "combo",
+      "no": 13, "tag": "中世の大学", "section": 3, "type": "combo",
       "stem": "下線部 <u>大学</u> に関連して、中世の大学とそこで特に有名であった学問の組合せとして正しいものを、次の①〜④のうちから一つ選べ。",
       "keys": ["ボローニャ大学", "パリ大学"],
       "choices": [["医学", "神学"], ["医学", "法学"], ["神学", "法学"], ["法学", "神学"]],
@@ -373,7 +392,7 @@ footer { margin-top: 40px; font-size: 12px; color: var(--muted); }
       "point": "法学＝ボローニャ、神学＝パリ、医学＝サレルノ。イギリスのオクスフォード大学はパリ大学にならって成立した。"
     },
     {
-      "no": 14, "section": 3, "type": "single",
+      "no": 14, "tag": "中世の文化", "section": 3, "type": "single",
       "stem": "中世ヨーロッパの文化について述べた文として最も適当なものを、次の①〜④のうちから一つ選べ。",
       "choices": [
         "トマス＝アクィナスは『神学大全』を著し、スコラ学を大成した。",
@@ -391,7 +410,7 @@ footer { margin-top: 40px; font-size: 12px; color: var(--muted); }
       "point": "ロマネスク＝重厚・半円アーチ、ゴシック＝尖塔・ステンドグラス。時代はロマネスクが先。"
     },
     {
-      "no": 15, "section": 3, "type": "single",
+      "no": 15, "tag": "神聖ローマ帝国", "section": 3, "type": "single",
       "stem": "下線部 <u>神聖ローマ帝国</u> について述べた文として最も適当なものを、次の①〜④のうちから一つ選べ。",
       "choices": [
         "ザクセン家のオットー1世が教皇から帝冠を受けたことが、神聖ローマ帝国の起源とされる。",
@@ -409,7 +428,7 @@ footer { margin-top: 40px; font-size: 12px; color: var(--muted); }
       "point": "神聖ローマ帝国は「イタリア政策→国内分裂→選帝侯・領邦の自立」の因果で理解する。"
     },
     {
-      "no": 16, "section": 4, "type": "tf",
+      "no": 16, "tag": "黒死病と農民反乱", "section": 4, "type": "tf",
       "stem": "下線部 <u>黒死病（ペスト）の流行</u> とその前後の社会について述べた次の文 a と b の正誤の組合せとして正しいものを、下の①〜④のうちから一つ選べ。",
       "statements": [
         "14世紀半ばの黒死病の流行で人口が激減し、労働力が不足したため、農民の地位が向上する傾向がみられた。",
@@ -424,7 +443,7 @@ footer { margin-top: 40px; font-size: 12px; color: var(--muted); }
       "point": "農民反乱は国名とセットで覚える。フランス＝ジャックリー、イギリス＝ワット＝タイラー（ジョン＝ボールの説教）。"
     },
     {
-      "no": 17, "section": 4, "type": "single",
+      "no": 17, "tag": "大憲章（資料）", "section": 4, "type": "single",
       "stem": "イギリスの身分制議会の形成に関連して、次の資料は、中世のイギリスで出された文書の一部を要約したものである。この文書と、それを認めた国王について述べた文として最も適当なものを、下の①〜④のうちから一つ選べ。",
       "material": "いかなる軍役代納金も援助金も、王国の一般評議会によるのでなければ、わが王国において課されてはならない。",
       "materialSrc": "原文（ラテン語）の一条を作問者が要約",
@@ -444,7 +463,7 @@ footer { margin-top: 40px; font-size: 12px; color: var(--muted); }
       "point": "資料の「一般評議会によるのでなければ課されない」は、王の課税に同意を必要とするという大憲章の要点。"
     },
     {
-      "no": 18, "section": 4, "type": "order",
+      "no": 18, "tag": "イギリス議会（年代整序）", "section": 4, "type": "order",
       "stem": "イギリスの身分制議会の発達に関する次の出来事Ⅰ〜Ⅲが年代の古いものから順に正しく配列されているものを、下の①〜⑥のうちから一つ選べ。",
       "items": ["エドワード1世が、いわゆる模範議会を招集した。", "ジョン王が、大憲章（マグナ＝カルタ）を認めた。", "シモン＝ド＝モンフォールが、貴族・聖職者に加えて州や都市の代表を招いて議会を開いた。"],
       "years": [1295, 1215, 1265],
@@ -453,7 +472,7 @@ footer { margin-top: 40px; font-size: 12px; color: var(--muted); }
       "point": "Ⅱ（1215年）→Ⅲ（1265年）→Ⅰ（1295年）。フランスでフィリップ4世が三部会を開いたのは1302年。"
     },
     {
-      "no": 19, "section": 4, "type": "single",
+      "no": 19, "tag": "百年戦争", "section": 4, "type": "single",
       "stem": "下線部 <u>英仏間の長期の戦争</u> について述べた文として最も適当なものを、次の①〜④のうちから一つ選べ。",
       "choices": [
         "ジャンヌ＝ダルクは、イギリス軍に包囲されたカレーを解放し、フランスの反撃のきっかけをつくった。",
@@ -471,7 +490,7 @@ footer { margin-top: 40px; font-size: 12px; color: var(--muted); }
       "point": "百年戦争（1339〜1453年。1337年開戦とする説もある）→バラ戦争→テューダー朝（ヘンリ7世）の順で、イギリスの王権が強まっていく。"
     },
     {
-      "no": 20, "section": 4, "type": "order",
+      "no": 20, "tag": "教会の権威の動揺（年代整序）", "section": 4, "type": "order",
       "stem": "下線部 <u>教会の権威は大きく揺らいだ</u> に関連して、次の出来事Ⅰ〜Ⅲが年代の古いものから順に正しく配列されているものを、下の①〜⑥のうちから一つ選べ。",
       "items": ["コンスタンツ公会議が開かれ、フスが異端として処刑された。", "ローマとアヴィニョンにそれぞれ教皇が立ち、教会大分裂（大シスマ）が始まった。", "教皇庁が南フランスのアヴィニョンに移された。"],
       "years": [1414, 1378, 1309],
@@ -579,11 +598,79 @@ footer { margin-top: 40px; font-size: 12px; color: var(--muted); }
       document.getElementById('m' + q.no).className = ok ? 'ok' : 'ng';
     });
     document.getElementById('count').textContent = `得点 ${total} / 100`;
-    const rows = DATA.sections.map(s => `<tr><td>第${s.no}問 ${s.title}</td><td>${bySec[s.no] || 0} / 25</td></tr>`).join('');
-    document.getElementById('result').innerHTML = `<div class="result"><div class="score">${total} 点 / 100 点</div><table><tbody>${rows}</tbody></table><div>間違えた問題は、解説の「ポイント」を読んでから、もう一度選択肢を一つずつ検討してみましょう。</div></div>`;
     stopTimer();
+    renderReport(total, bySec);
     document.getElementById('gradeBtn').disabled = true;
     document.getElementById('result').scrollIntoView();
+  }
+
+  const NAME_KEY = 'medieval-europe-name-v1';
+  const pad = n => String(n).padStart(2, '0');
+  const esc = t => String(t).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
+
+  function elapsedText() {
+    if (!timerUsed) return '計測なし';
+    const used = 3000 - remain;
+    return `${Math.floor(used / 60)}分${pad(used % 60)}秒`;
+  }
+
+  function reportText(name, total, bySec, when) {
+    const wrong = DATA.questions.filter(q => answers[q.no] && answers[q.no] !== q.answer);
+    const blank = DATA.questions.filter(q => !answers[q.no]);
+    const lines = [
+      '【世界史 中世ヨーロッパ演習20題】',
+      `氏名：${name || '（未入力）'}`,
+      `実施：${when}`,
+      `得点：${total} / 100`,
+      `所要時間：${elapsedText()}`,
+      '大問別：' + DATA.sections.map(s => `第${s.no}問 ${bySec[s.no] || 0}/25`).join('、'),
+      '',
+      `間違えた問題（${wrong.length}問）`
+    ];
+    if (wrong.length) wrong.forEach(q => lines.push(`・問${q.no} ${q.tag}（選択${NUM[answers[q.no] - 1]} → 正解${NUM[q.answer - 1]}）`));
+    else lines.push('・なし');
+    if (blank.length) lines.push('', `未解答（${blank.length}問）：` + blank.map(q => `問${q.no}`).join('、'));
+    return lines.join('\n');
+  }
+
+  function renderReport(total, bySec) {
+    const d = new Date();
+    const when = `${d.getFullYear()}/${pad(d.getMonth() + 1)}/${pad(d.getDate())} ${pad(d.getHours())}:${pad(d.getMinutes())}`;
+    let savedName = '';
+    try { savedName = localStorage.getItem(NAME_KEY) || ''; } catch (e) {}
+    const wrong = DATA.questions.filter(q => answers[q.no] && answers[q.no] !== q.answer);
+    const blank = DATA.questions.filter(q => !answers[q.no]);
+    const secRows = DATA.sections.map(s => `<tr><td>第${s.no}問 ${s.title}</td><td class="num">${bySec[s.no] || 0} / 25</td></tr>`).join('');
+    const missRows = wrong.length
+      ? wrong.map(q => `<li><a href="#q${q.no}">問${q.no}</a><span>${q.tag}</span><span class="pick">選択${NUM[answers[q.no] - 1]} → 正解${NUM[q.answer - 1]}</span></li>`).join('')
+      : '<li class="none">間違えた問題はありません</li>';
+    const box = document.getElementById('result');
+    box.innerHTML = `
+      <div class="result" id="reportCard">
+        <div class="rhead"><span class="eyebrow">先生への報告カード</span><span class="when">${when}</span></div>
+        <label class="namefield" for="studentName">氏名<input id="studentName" type="text" autocomplete="name" placeholder="例：山田 花子" value="${esc(savedName)}"></label>
+        <div class="score">${total}<small> 点 / 100 点</small></div>
+        <div class="rmeta"><span>所要時間 ${elapsedText()}</span><span>正解 ${total / 5} / 20</span>${blank.length ? `<span>未解答 ${blank.length}問</span>` : ''}</div>
+        <table><tbody>${secRows}</tbody></table>
+        <div><div class="rlabel">間違えた問題（${wrong.length}問）</div><ul class="misses">${missRows}</ul></div>
+        <div class="actions"><button type="button" class="primary" id="copyBtn">報告文をコピー</button><span class="copymsg" id="copyMsg" role="status"></span></div>
+        <textarea id="reportText" readonly rows="10" aria-label="報告文"></textarea>
+        <div class="hint">「報告文をコピー」を押して、LINEなどに貼り付けて先生に送ってください。コピーできないときは、上の枠の文を長押しして選択してください。</div>
+      </div>`;
+    const nameEl = document.getElementById('studentName');
+    const ta = document.getElementById('reportText');
+    const refresh = () => { ta.value = reportText(nameEl.value.trim(), total, bySec, when); };
+    refresh();
+    nameEl.addEventListener('input', () => { refresh(); try { localStorage.setItem(NAME_KEY, nameEl.value.trim()); } catch (e) {} });
+    document.getElementById('copyBtn').addEventListener('click', () => {
+      const msg = document.getElementById('copyMsg');
+      if (!nameEl.value.trim()) { msg.textContent = '先に氏名を入力してください'; nameEl.focus(); return; }
+      refresh();
+      const fallback = () => { ta.focus(); ta.select(); msg.textContent = '文を選択しました。コピーして送ってください'; };
+      try {
+        navigator.clipboard.writeText(ta.value).then(() => { msg.textContent = 'コピーしました'; }, fallback);
+      } catch (e) { fallback(); }
+    });
   }
 
   document.getElementById('gradeBtn').addEventListener('click', grade);
@@ -598,16 +685,17 @@ footer { margin-top: 40px; font-size: 12px; color: var(--muted); }
     document.querySelectorAll('.vslot, .exslot').forEach(e => e.innerHTML = '');
     document.getElementById('result').innerHTML = '';
     document.getElementById('gradeBtn').disabled = false;
-    stopTimer(); remain = 3000; drawTimer();
+    stopTimer(); remain = 3000; timerUsed = false; drawTimer();
     updateBar();
   });
 
-  let remain = 3000, tid = null;
+  let remain = 3000, tid = null, timerUsed = false;
   const tEl = document.getElementById('timer'), tBtn = document.getElementById('timerBtn');
   function drawTimer() { const m = Math.floor(remain / 60), s = remain % 60; tEl.textContent = `${String(m).padStart(2, '0')}:${String(s).padStart(2, '0')}`; tBtn.textContent = tid ? 'タイマー停止' : 'タイマー開始'; }
   function stopTimer() { if (tid) { clearInterval(tid); tid = null; } drawTimer(); }
   tBtn.addEventListener('click', () => {
     if (tid) { stopTimer(); return; }
+    timerUsed = true;
     tid = setInterval(() => { remain = Math.max(0, remain - 1); if (remain === 0) { stopTimer(); tEl.textContent = '終了 00:00'; } else drawTimer(); }, 1000);
     drawTimer();
   });
