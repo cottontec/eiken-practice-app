@@ -1,0 +1,705 @@
+<title>中世ヨーロッパ演習20題</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@400;600;700&family=Noto+Sans+JP:wght@400;500;700&display=swap">
+<style>
+/* Layout: 問題冊子とマークシートを一枚にまとめた縦長の紙面。上部に固定の解答状況バー */
+:root {
+  --paper: #f4f6f9;
+  --sheet: #ffffff;
+  --ink: #1c2230;
+  --muted: #5b6475;
+  --rule: #d5dae3;
+  --lapis: #29469a;
+  --lapis-soft: #e6ebf7;
+  --ok: #1f7a4d;
+  --ok-soft: #e3f3ea;
+  --ng: #b3261e;
+  --ng-soft: #fbe7e5;
+  --font-q: "Noto Serif JP", "Hiragino Mincho ProN", "Yu Mincho", serif;
+  --font-ui: "Noto Sans JP", "Hiragino Sans", "Yu Gothic", system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #12151c; --sheet: #1a1f29; --ink: #e5e8ef; --muted: #9aa3b5; --rule: #2e3543;
+    --lapis: #8fa8ec; --lapis-soft: #232c45; --ok: #6fcf9b; --ok-soft: #173326; --ng: #f08a80; --ng-soft: #3a1d1b;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #12151c; --sheet: #1a1f29; --ink: #e5e8ef; --muted: #9aa3b5; --rule: #2e3543;
+  --lapis: #8fa8ec; --lapis-soft: #232c45; --ok: #6fcf9b; --ok-soft: #173326; --ng: #f08a80; --ng-soft: #3a1d1b;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+body { background: var(--paper); color: var(--ink); font-family: var(--font-ui); line-height: 1.7; }
+.wrap { max-width: 820px; margin: 0 auto; padding-block: 24px 80px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+header.cover { display: grid; gap: 6px; padding-block: 8px 20px; border-bottom: 2px solid var(--ink); }
+.eyebrow { font-size: 12px; letter-spacing: .12em; color: var(--muted); }
+h1 { font-family: var(--font-q); font-size: clamp(24px, 5vw, 32px); margin: 0; text-wrap: balance; }
+.meta { display: flex; flex-wrap: wrap; gap: 6px 18px; font-size: 13px; color: var(--muted); }
+.notes { font-size: 13px; color: var(--muted); margin: 14px 0 0; padding-left: 1.2em; }
+.bar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--paper); border-bottom: 1px solid var(--rule); display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px; padding: 10px 0; margin-bottom: 8px; }
+.bar .count { font-variant-numeric: tabular-nums; font-size: 14px; }
+.bar .timer { font-variant-numeric: tabular-nums; font-size: 14px; color: var(--muted); }
+.bar .spacer { flex: 1; }
+button { font-family: var(--font-ui); font-size: 14px; border-radius: 6px; border: 1px solid var(--rule); background: var(--sheet); color: var(--ink); padding: 7px 14px; cursor: pointer; }
+button.primary { background: var(--lapis); border-color: var(--lapis); color: var(--sheet); font-weight: 700; }
+button:focus-visible, .choice:focus-within { outline: 2px solid var(--lapis); outline-offset: 2px; }
+.confirm { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; font-size: 13px; }
+section.daimon { margin-top: 36px; }
+.daimon h2 { font-family: var(--font-q); font-size: 20px; margin: 0 0 10px; display: flex; gap: 12px; align-items: baseline; flex-wrap: wrap; }
+.daimon h2 .no { border: 1.5px solid var(--ink); padding: 0 10px; font-size: 17px; }
+.lead { background: var(--sheet); border: 1px solid var(--rule); padding: 16px 18px; font-family: var(--font-q); font-size: 15px; }
+.lead p { margin: 0 0 8px; }
+.lead p:last-child { margin: 0; }
+.lead .sp { font-family: var(--font-ui); font-weight: 700; font-size: 13px; margin-right: 6px; }
+.blank { display: inline-block; border: 1px solid var(--ink); min-width: 2.2em; text-align: center; padding: 0 4px; margin: 0 2px; font-family: var(--font-ui); font-size: 13px; line-height: 1.5; }
+.u { text-decoration: underline; text-underline-offset: 4px; }
+article.q { margin-top: 22px; padding-top: 14px; border-top: 1px dashed var(--rule); }
+.qhead { font-family: var(--font-q); font-size: 15.5px; }
+.qhead b { font-family: var(--font-ui); margin-right: 8px; }
+.material { margin: 10px 0; border-left: 3px solid var(--rule); padding: 8px 14px; font-family: var(--font-q); font-size: 14.5px; background: var(--sheet); }
+.material .src { font-family: var(--font-ui); font-size: 12px; color: var(--muted); margin-top: 6px; }
+.items { margin: 10px 0; display: grid; gap: 4px; font-family: var(--font-q); font-size: 15px; }
+.items div { display: grid; grid-template-columns: 2.4em 1fr; }
+.choices { display: grid; gap: 6px; margin-top: 10px; }
+.choices.grid6 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+@media (max-width: 520px) { .choices.grid6 { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+.choice { display: grid; grid-template-columns: 30px 1fr; gap: 8px; align-items: start; padding: 8px 10px; border: 1px solid var(--rule); border-radius: 6px; background: var(--sheet); cursor: pointer; font-family: var(--font-q); font-size: 15px; min-width: 0; }
+.choice input { position: absolute; opacity: 0; pointer-events: none; }
+.bubble { width: 26px; height: 26px; border-radius: 50%; border: 1.5px solid var(--lapis); color: var(--lapis); display: grid; place-items: center; font-family: var(--font-ui); font-size: 13px; font-weight: 700; }
+.choice:has(input:checked) { border-color: var(--lapis); background: var(--lapis-soft); }
+.choice:has(input:checked) .bubble { background: var(--lapis); color: var(--sheet); }
+.combo { width: 100%; border-collapse: collapse; font-family: var(--font-q); font-size: 15px; }
+.choice .combo td { padding: 0 10px 0 0; }
+.choice .combo td.k { font-family: var(--font-ui); font-size: 12px; color: var(--muted); white-space: nowrap; width: 1%; }
+.graded .choice { cursor: default; }
+.graded .choice.is-answer { border-color: var(--ok); background: var(--ok-soft); }
+.graded .choice.is-answer .bubble { border-color: var(--ok); color: var(--ok); }
+.graded .choice.is-answer:has(input:checked) .bubble { background: var(--ok); color: var(--sheet); }
+.graded .choice.is-wrong { border-color: var(--ng); background: var(--ng-soft); }
+.graded .choice.is-wrong .bubble { border-color: var(--ng); background: var(--ng); color: var(--sheet); }
+.verdict { display: inline-block; font-size: 12px; font-weight: 700; padding: 1px 10px; border-radius: 999px; margin-left: 6px; font-family: var(--font-ui); }
+.verdict.ok { background: var(--ok-soft); color: var(--ok); }
+.verdict.ng { background: var(--ng-soft); color: var(--ng); }
+.explain { margin-top: 10px; padding: 12px 14px; border: 1px solid var(--rule); border-radius: 6px; background: var(--sheet); font-size: 14px; }
+.explain h4 { margin: 0 0 6px; font-size: 13px; color: var(--lapis); letter-spacing: .04em; }
+.explain ul { margin: 0; padding-left: 0; list-style: none; display: grid; gap: 4px; }
+.explain li { display: grid; grid-template-columns: 2em 1fr; }
+.explain .point { margin-top: 8px; color: var(--muted); }
+.result { margin-top: 18px; background: var(--sheet); border: 2px solid var(--ink); padding: 16px 18px; display: grid; gap: 10px; }
+.result .rhead { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 4px 12px; align-items: baseline; }
+.result .when { font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.namefield { display: grid; gap: 4px; font-size: 13px; color: var(--muted); }
+.namefield input { font: 16px var(--font-ui); color: var(--ink); background: var(--paper); border: 1px solid var(--rule); border-radius: 6px; padding: 8px 10px; max-width: 320px; width: 100%; }
+.namefield input:focus-visible, .result textarea:focus-visible { outline: 2px solid var(--lapis); outline-offset: 1px; }
+.result .score { font-family: var(--font-q); font-size: 40px; line-height: 1.1; font-variant-numeric: tabular-nums; }
+.result .score small { font-size: 16px; color: var(--muted); }
+.rmeta { display: flex; flex-wrap: wrap; gap: 4px 16px; font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.result table { border-collapse: collapse; font-size: 14px; font-variant-numeric: tabular-nums; width: 100%; }
+.result td, .result th { border-bottom: 1px solid var(--rule); padding: 5px 14px 5px 0; text-align: left; }
+.result td.num { text-align: right; padding-right: 0; white-space: nowrap; }
+.rlabel { font-size: 13px; font-weight: 700; margin-bottom: 4px; }
+.misses { list-style: none; margin: 0; padding: 0; display: grid; gap: 2px; font-size: 14px; }
+.misses li { display: grid; grid-template-columns: 3.4em minmax(0, 1fr) auto; gap: 8px; padding: 4px 0; border-bottom: 1px solid var(--rule); }
+.misses li.none { display: block; color: var(--muted); }
+.misses a { color: var(--lapis); font-weight: 700; }
+.misses .pick { color: var(--ng); font-size: 13px; white-space: nowrap; }
+@media (max-width: 480px) { .misses li { grid-template-columns: 3.4em minmax(0, 1fr); } .misses .pick { grid-column: 2; } }
+.actions { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; }
+.copymsg { font-size: 13px; color: var(--ok); }
+.result textarea { width: 100%; font: 13px/1.6 var(--font-ui); color: var(--ink); background: var(--paper); border: 1px solid var(--rule); border-radius: 6px; padding: 10px; resize: vertical; }
+.hint { font-size: 12.5px; color: var(--muted); }
+.sheetmap { display: flex; flex-wrap: wrap; gap: 4px; }
+.sheetmap a { width: 34px; height: 30px; display: grid; place-items: center; border: 1px solid var(--rule); border-radius: 4px; font-size: 12px; color: var(--muted); text-decoration: none; background: var(--sheet); font-variant-numeric: tabular-nums; }
+.sheetmap a.done { border-color: var(--lapis); color: var(--lapis); font-weight: 700; }
+.sheetmap a.ok { border-color: var(--ok); color: var(--ok); background: var(--ok-soft); }
+.sheetmap a.ng { border-color: var(--ng); color: var(--ng); background: var(--ng-soft); }
+footer { margin-top: 40px; font-size: 12px; color: var(--muted); }
+@media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }
+</style>
+
+<div class="wrap">
+  <header class="cover">
+    <div class="eyebrow">共通テスト形式 演習 ／ 歴史総合，世界史探究</div>
+    <h1>中世ヨーロッパ 演習20題</h1>
+    <div class="meta"><span>第1問〜第4問・小問20問</span><span>各5点・100点満点</span><span>目安 50分</span></div>
+    <ul class="notes">
+      <li>解答は各問の選択肢から一つずつ選んでください。全部選んでから「採点する」を押すと、正解と解説が表示されます。</li>
+      <li>資料は、作問者が史料の内容を要約・平易化したものです。</li>
+    </ul>
+  </header>
+
+  <div class="bar" id="bar">
+    <span class="count" id="count">解答 0 / 20</span>
+    <span class="timer" id="timer">50:00</span>
+    <button type="button" id="timerBtn">タイマー開始</button>
+    <span class="spacer"></span>
+    <span class="confirm" id="resetConfirm" hidden>解答を全部消しますか？ <button type="button" id="resetYes">消す</button><button type="button" id="resetNo">やめる</button></span>
+    <button type="button" id="resetBtn">リセット</button>
+    <button type="button" class="primary" id="gradeBtn">採点する</button>
+  </div>
+  <nav class="sheetmap" id="sheetmap" aria-label="マークシート"></nav>
+
+  <main id="exam"></main>
+  <div id="result"></div>
+
+  <footer>作問：スタスタLIVE 教材（中世ヨーロッパ単元）。年代・用語は高校世界史探究の標準的な教科書記述に基づく。</footer>
+</div>
+
+<script type="application/json" id="exam-data">
+{
+  "sections": [
+    {
+      "no": 1,
+      "title": "フランク王国とビザンツ帝国",
+      "lead": [
+        ["生徒", "800年のクリスマスに、カール大帝がローマで教皇から冠を授けられたと習いました。なぜ教皇はフランク王に冠を授けたのですか。"],
+        ["先生", "当時のローマ教会は、東のビザンツ皇帝との関係に悩んでいました。8世紀にビザンツ皇帝が聖像禁止令を出すと、ゲルマン人への布教に聖像を用いていたローマ教会は強く反発しました。そこで教会は、フランク王国を新たな保護者として頼るようになったのです。"],
+        ["生徒", "フランク王国は、それ以前から教会と結びついていたのですか。"],
+        ["先生", "そうです。王国を建てたクローヴィスは、早い時期に [ア] 派に改宗しました。また、宮宰の [イ] は732年にトゥール・ポワティエ間の戦いでイスラーム勢力を退け、その子は教皇の支持を得て王位につき、カロリング朝を開きました。"],
+        ["生徒", "カール大帝の帝国は、その後どうなったのですか。"],
+        ["先生", "帝国は9世紀に分裂し、西ヨーロッパは再び外部の勢力による侵入を受けました。その一つが、北方から来た <u>ノルマン人</u> です。"]
+      ]
+    },
+    {
+      "no": 2,
+      "title": "封建社会とローマ＝カトリック教会",
+      "lead": [
+        ["", "外部勢力の侵入が続くなかで、西ヨーロッパでは有力者が主従関係を結んで身を守る <u>封建社会</u> が成立した。社会の精神的な支えとなったのはローマ＝カトリック教会であったが、聖職者の堕落が進むと、910年に創設された [ウ] 修道院を中心に改革運動がおこった。この運動の流れをくむ教皇グレゴリウス7世は聖職叙任権を教会の手に取り戻そうとし、これに反発したドイツ王（のちの神聖ローマ皇帝） [エ] を破門した。 [エ] は1077年に雪の中で教皇に許しを請うた。"],
+        ["", "教皇権が強まるなかで、教皇の呼びかけにより <u>十字軍</u> が始まった。十字軍はおよそ200年にわたってくり返され、西ヨーロッパの社会に大きな影響を与えた。"]
+      ]
+    },
+    {
+      "no": 3,
+      "title": "商業の発展と中世の都市・文化",
+      "lead": [
+        ["", "11世紀以降、農業生産の拡大を背景に <u>遠隔地商業</u> が活発になり、各地に都市が成長した。都市の商人や手工業者は <u>ギルド</u> を結成して経済活動を統制した。"],
+        ["", "同じころ、教会や修道院を中心に学問が発達し、12世紀以降には各地に <u>大学</u> が生まれた。イスラーム世界から伝わった古代ギリシアの学問は、キリスト教神学の体系化にも影響を与えた。一方で、皇帝がイタリア政策に力を注ぐなかで諸侯が自立した <u>神聖ローマ帝国</u> では、国内の統一が遅れた。"]
+      ]
+    },
+    {
+      "no": 4,
+      "title": "中世後期の危機と国家の形成",
+      "lead": [
+        ["", "14世紀の西ヨーロッパは、気候の寒冷化による凶作や <u>黒死病（ペスト）の流行</u> に見舞われた。荘園制が揺らぐ一方で、イギリスやフランスでは王権が身分制議会を通じて国内の諸身分をまとめ、<u>英仏間の長期の戦争</u> を経て国家の統合が進んだ。"],
+        ["", "これに対し、14世紀に入ると教皇の権威は次第に低下した。教皇庁がローマを離れた時期や、複数の教皇が並び立った時期を経て、<u>教会の権威は大きく揺らいだ</u>。"]
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "no": 1, "tag": "クローヴィスとカール＝マルテル", "section": 1, "type": "combo",
+      "stem": "会話文中の空欄 [ア] ・ [イ] に入る語の組合せとして正しいものを、次の①〜④のうちから一つ選べ。",
+      "keys": ["ア", "イ"],
+      "choices": [["アリウス", "カール＝マルテル"], ["アタナシウス", "カール＝マルテル"], ["アリウス", "ピピン"], ["アタナシウス", "ピピン"]],
+      "answer": 2,
+      "truth": {"ア": "アタナシウス", "イ": "カール＝マルテル"},
+      "explain": [
+        "アが誤り。アリウス派は多くのゲルマン諸部族が信仰した宗派で、ニケーア公会議（325年）で異端とされた。クローヴィスはこれではなく正統派に改宗した。",
+        "正しい。クローヴィスは496年ごろ正統派のアタナシウス派に改宗し、ローマ系住民やローマ教会の支持を得た。732年にウマイヤ朝軍を退けたのは宮宰カール＝マルテル。",
+        "アもイも誤り。",
+        "ピピンはカール＝マルテルの子。732年の戦いで指揮をとったのは父のカール＝マルテルである。"
+      ],
+      "point": "多くのゲルマン人がアリウス派だったなかで、フランク人が正統派に改宗したことが、のちのローマ教会との提携につながった。"
+    },
+    {
+      "no": 2, "tag": "フランク王国と聖像禁止令（年代整序）", "section": 1, "type": "order",
+      "stem": "会話文に関連して、次の出来事Ⅰ〜Ⅲが年代の古いものから順に正しく配列されているものを、下の①〜⑥のうちから一つ選べ。",
+      "items": ["ピピンが、ランゴバルド王国から奪ったラヴェンナ地方を教皇に寄進した。", "ビザンツ皇帝レオン3世が聖像禁止令を出した。", "メルセン条約によって、のちのドイツ・フランス・イタリアの原形が形づくられた。"],
+      "years": [756, 726, 870],
+      "answer": 3,
+      "explain_items": ["Ⅰ ピピンの寄進は756年。教皇領の起源とされる。", "Ⅱ 聖像禁止令は726年。ローマ教会とビザンツ皇帝の対立を深めた。", "Ⅲ メルセン条約は870年。843年のヴェルダン条約でフランク王国は三つに分割され、メルセン条約で中部フランク王国の北部が東西に分けられた。"],
+      "point": "Ⅱ（726年）→Ⅰ（756年）→Ⅲ（870年）。カールの戴冠（800年）とヴェルダン条約（843年）を目印に前後関係を整理するとよい。"
+    },
+    {
+      "no": 3, "tag": "ビザンツ帝国", "section": 1, "type": "single",
+      "stem": "会話文に関連して、ビザンツ帝国について述べた文として最も適当なものを、次の①〜④のうちから一つ選べ。",
+      "choices": [
+        "ビザンツ帝国の首都コンスタンティノープルは、第1回十字軍によって占領された。",
+        "ビザンツ帝国では、建国から滅亡まで、公用語としてラテン語が用いられ続けた。",
+        "ビザンツ帝国は、1453年にセルジューク朝によって滅ぼされた。",
+        "ユスティニアヌス帝は、法学者トリボニアヌスらに命じて『ローマ法大全』を編纂させた。"
+      ],
+      "answer": 4,
+      "explain": [
+        "誤り。コンスタンティノープルを占領したのは第4回十字軍（1204年）で、ラテン帝国が建てられた。",
+        "誤り。7世紀ごろから公用語はギリシア語に変わっていった。",
+        "誤り。1453年にビザンツ帝国を滅ぼしたのはオスマン帝国（メフメト2世）。",
+        "正しい。6世紀のユスティニアヌス帝の事業として、『ローマ法大全』の編纂やハギア＝ソフィア聖堂の再建が知られる。"
+      ],
+      "point": "十字軍の「回」、帝国を滅ぼした「王朝名」の入れ替えは頻出のひっかけ。"
+    },
+    {
+      "no": 4, "tag": "カール大帝の戴冠", "section": 1, "type": "tf",
+      "stem": "カール大帝とその戴冠について述べた次の文 a と b の正誤の組合せとして正しいものを、下の①〜④のうちから一つ選べ。",
+      "statements": [
+        "カール大帝の戴冠によって、西ヨーロッパにローマ帝国の皇帝の称号が復活し、ローマ教会はビザンツ皇帝から自立する足場を得た。",
+        "カール大帝は、アルクインらの学者を宮廷に招き、ギリシア語による学芸の復興を進めた。"
+      ],
+      "truth": [true, false],
+      "answer": 2,
+      "explain_items": [
+        "a 正しい。戴冠により、ローマ＝カトリック教会はフランク王国という保護者を得て、ビザンツ皇帝に頼らない立場を固めた。",
+        "b 誤り。カロリング＝ルネサンスで復興が進められたのはラテン語による学芸。アルクインはイングランド出身の神学者。"
+      ],
+      "point": "西ヨーロッパの教会・学問の言語はラテン語、ビザンツ側はギリシア語、と対比して覚える。"
+    },
+    {
+      "no": 5, "tag": "ノルマン人", "section": 1, "type": "single",
+      "stem": "下線部 <u>ノルマン人</u> の活動について述べた文として最も適当なものを、次の①〜④のうちから一つ選べ。",
+      "choices": [
+        "首長ロロが北フランスに進出し、ノルマンディー公国を建てた。",
+        "首長リューリクがノヴゴロド国を建て、のちにその一派がブルガリア帝国を建てた。",
+        "南イタリアとシチリア島に両シチリア王国を建て、この王国がのちにハンザ同盟の盟主となった。",
+        "ノルマンディー公ウィリアムがイングランドを征服し、ランカスター朝を開いた。"
+      ],
+      "answer": 1,
+      "explain": [
+        "正しい。911年、ロロは西フランク王から北フランスの地を与えられ、ノルマンディー公国を建てた。",
+        "誤り。リューリクがノヴゴロド国を建てた（862年）のは正しいが、その一派が南下して建てたのはキエフ公国。",
+        "誤り。両シチリア王国（1130年）は正しいが、ハンザ同盟は北ドイツの都市同盟で、盟主はリューベック。",
+        "誤り。ウィリアムが1066年に開いたのはノルマン朝。ランカスター朝は14世紀末に始まる。"
+      ],
+      "point": "前半は正しく後半だけが誤り、という文に注意。文の最後まで読む。"
+    },
+    {
+      "no": 6, "tag": "封建制と荘園", "section": 2, "type": "single",
+      "stem": "下線部 <u>封建社会</u> について述べた文として最も適当なものを、次の①〜④のうちから一つ選べ。",
+      "choices": [
+        "主君と家臣の主従関係は、家臣だけが一方的に義務を負う片務的な関係であった。",
+        "荘園の農奴は、移住の自由や職業選択の自由を認められていた。",
+        "領主が国王の役人の立ち入りや課税を拒む権利を、十分の一税という。",
+        "主従関係は、ローマの恩貸地制度とゲルマン人の従士制に起源をもつとされる。"
+      ],
+      "answer": 4,
+      "explain": [
+        "誤り。西ヨーロッパの主従関係は、主君が封土を与え保護し、家臣が軍役などで奉仕する双務的な契約であった。",
+        "誤り。農奴は移動の自由をもたず、領主に賦役や貢納の義務を負った。",
+        "誤り。この権利は不輸不入権（インムニテート）。十分の一税は教会が農民から徴収した税。",
+        "正しい。恩貸地制度（土地を与えて奉仕させる）と従士制（有力者に忠誠を誓う）が結びついて成立したとされる。"
+      ],
+      "point": "「双務的」「不輸不入権」「十分の一税」は用語の取り違えが狙われる。"
+    },
+    {
+      "no": 7, "tag": "クリュニー修道院と叙任権闘争", "section": 2, "type": "combo",
+      "stem": "文章中の空欄 [ウ] ・ [エ] に入る語の組合せとして正しいものを、次の①〜④のうちから一つ選べ。",
+      "keys": ["ウ", "エ"],
+      "choices": [["シトー", "ハインリヒ4世"], ["シトー", "フリードリヒ1世"], ["クリュニー", "ハインリヒ4世"], ["クリュニー", "フリードリヒ1世"]],
+      "answer": 3,
+      "truth": {"ウ": "クリュニー", "エ": "ハインリヒ4世"},
+      "explain": [
+        "ウが誤り。シトー修道会は1098年創設で、開墾運動で知られる。",
+        "ウもエも誤り。",
+        "正しい。910年創設のクリュニー修道院が教会改革の中心。1077年のカノッサの屈辱で教皇グレゴリウス7世に許しを請うたのはハインリヒ4世。",
+        "エが誤り。フリードリヒ1世は12世紀の皇帝で、イタリア政策を進めロンバルディア同盟と戦った。"
+      ],
+      "point": "叙任権闘争は1122年のヴォルムス協約で妥協が成立したことまでセットで押さえる。"
+    },
+    {
+      "no": 8, "tag": "十字軍の提唱（資料）", "section": 2, "type": "single",
+      "stem": "下線部 <u>十字軍</u> に関連して、次の資料は、ある教皇が会議で行ったとされる呼びかけの内容を要約したものである。この呼びかけが行われた会議と、その背景について述べた文として最も適当なものを、下の①〜④のうちから一つ選べ。",
+      "material": "東方に住む我らの兄弟たちが、トルコ人の攻撃を受けて苦しみ、たびたび救援を求めてきている。彼らはすでに多くの土地を奪われ、教会は破壊されている。この遠征に加わる者は、その罪を赦されるであろう。",
+      "materialSrc": "シャルトルのフーシェの記録などをもとに作問者が要約",
+      "choices": [
+        "クレルモン宗教会議で、セルジューク朝の進出に脅かされたビザンツ皇帝の救援要請を受けて行われた。",
+        "クレルモン宗教会議で、アイユーブ朝のサラディンがイェルサレムを奪回したことを受けて行われた。",
+        "コンスタンツ公会議で、セルジューク朝の進出に脅かされたビザンツ皇帝の救援要請を受けて行われた。",
+        "コンスタンツ公会議で、オスマン帝国がバルカン半島に進出したことを受けて行われた。"
+      ],
+      "answer": 1,
+      "explain": [
+        "正しい。1095年、教皇ウルバヌス2世はクレルモン宗教会議で十字軍を提唱した。背景には、セルジューク朝に圧迫されたビザンツ皇帝の救援要請があった。資料の「トルコ人」はセルジューク朝を指す。",
+        "誤り。サラディンのイェルサレム奪回は1187年で、第3回十字軍のきっかけ。1095年より後の出来事。",
+        "誤り。コンスタンツ公会議（1414〜18年）は教会大分裂を終わらせた会議で、十字軍の提唱とは関係しない。",
+        "誤り。会議名も背景も合わない。"
+      ],
+      "point": "資料中の「トルコ人」「救援を求めて」から、11世紀末のセルジューク朝とビザンツの状況を読み取る。"
+    },
+    {
+      "no": 9, "tag": "十字軍（年代整序）", "section": 2, "type": "order",
+      "stem": "十字軍に関連する次の出来事Ⅰ〜Ⅲが年代の古いものから順に正しく配列されているものを、下の①〜⑥のうちから一つ選べ。",
+      "items": ["アイユーブ朝のサラディンが、イェルサレムを奪回した。", "十字軍がコンスタンティノープルを占領し、ラテン帝国を建てた。", "十字軍がイェルサレムを占領し、イェルサレム王国を建てた。"],
+      "years": [1187, 1204, 1099],
+      "answer": 5,
+      "explain_items": ["Ⅰ サラディンのイェルサレム奪回は1187年。", "Ⅱ 第4回十字軍によるラテン帝国の建国は1204年。", "Ⅲ 第1回十字軍によるイェルサレム王国の建国は1099年。"],
+      "point": "Ⅲ（1099年）→Ⅰ（1187年）→Ⅱ（1204年）。第1回で建国、第3回の原因が奪回、第4回で目的がそれた、の流れ。"
+    },
+    {
+      "no": 10, "tag": "十字軍の影響", "section": 2, "type": "tf",
+      "stem": "十字軍が西ヨーロッパに与えた影響について述べた次の文 a と b の正誤の組合せとして正しいものを、下の①〜④のうちから一つ選べ。",
+      "statements": [
+        "十字軍の失敗によって教皇の権威はかえって高まり、14世紀初めにはフランス王フィリップ4世が教皇に屈服した。",
+        "十字軍の輸送などを通じて、ヴェネツィアなどの北イタリア諸都市が東方貿易で富を得た。"
+      ],
+      "truth": [false, true],
+      "answer": 3,
+      "explain_items": [
+        "a 誤り。十字軍の失敗で教皇の権威は低下した。1303年のアナーニ事件では、フィリップ4世と対立した教皇ボニファティウス8世が捕らえられた。屈服したのは教皇の側。",
+        "b 正しい。ヴェネツィアやジェノヴァは十字軍の輸送や東方貿易（レヴァント貿易）で繁栄した。"
+      ],
+      "point": "十字軍の影響は「教皇権の低下・王権の伸長・東方貿易の発展」の三点で整理する。"
+    },
+    {
+      "no": 11, "tag": "遠隔地商業", "section": 3, "type": "single",
+      "stem": "下線部 <u>遠隔地商業</u> について述べた文として最も適当なものを、次の①〜④のうちから一つ選べ。",
+      "choices": [
+        "北イタリアの諸都市は、神聖ローマ皇帝に対抗してカルマル同盟を結成した。",
+        "北ドイツの諸都市はハンザ同盟を結成し、リューベックを盟主として北海・バルト海の交易を担った。",
+        "フランドル地方では香辛料の加工業が発達し、地中海商業圏の中心となった。",
+        "フランス北東部のシャンパーニュ地方では、アウクスブルクのフッガー家が定期市を開いた。"
+      ],
+      "answer": 2,
+      "explain": [
+        "誤り。北イタリア諸都市が皇帝に対抗して結んだのはロンバルディア同盟。カルマル同盟（1397年）はデンマーク・スウェーデン・ノルウェーの同君連合。",
+        "正しい。リューベックを中心とするハンザ同盟は、北海・バルト海で海産物・木材・穀物などを取引した。",
+        "誤り。フランドル地方で栄えたのは毛織物業。香辛料は地中海商業圏の東方貿易でもたらされた。",
+        "誤り。シャンパーニュ地方の定期市（大市）は、北と南の商業圏を結ぶ場として12〜13世紀に栄えた。フッガー家は15〜16世紀に鉱山業や金融で栄えた一族で、定期市の主催者ではない。"
+      ],
+      "point": "北ヨーロッパ商業圏（ハンザ・フランドル）と地中海商業圏（ヴェネツィア・ジェノヴァ）、その結節点のシャンパーニュ、という地図上の配置で覚える。"
+    },
+    {
+      "no": 12, "tag": "中世都市とギルド", "section": 3, "type": "tf",
+      "stem": "下線部 <u>ギルド</u> と中世都市について述べた次の文 a と b の正誤の組合せとして正しいものを、下の①〜④のうちから一つ選べ。",
+      "statements": [
+        "ドイツの都市の中には、皇帝から特許状を得て自治権を認められ、皇帝直属の帝国都市（自由都市）となるものがあった。",
+        "同職ギルド（ツンフト）は、製品の品質・価格・生産量などを細かく定め、自由な競争を制限した。"
+      ],
+      "truth": [true, true],
+      "answer": 1,
+      "explain_items": [
+        "a 正しい。都市は領主から特許状を得て自治権を獲得した。ドイツでは皇帝直属の帝国都市が生まれた。",
+        "b 正しい。同職ギルドは親方の地位を守るため、自由競争を禁じた。親方の下に職人・徒弟がいる厳しい身分秩序があった。"
+      ],
+      "point": "商人ギルドに対して手工業者が同職ギルドをつくり、市政への参加を求めた争いをツンフト闘争という。"
+    },
+    {
+      "no": 13, "tag": "中世の大学", "section": 3, "type": "combo",
+      "stem": "下線部 <u>大学</u> に関連して、中世の大学とそこで特に有名であった学問の組合せとして正しいものを、次の①〜④のうちから一つ選べ。",
+      "keys": ["ボローニャ大学", "パリ大学"],
+      "choices": [["医学", "神学"], ["医学", "法学"], ["神学", "法学"], ["法学", "神学"]],
+      "answer": 4,
+      "truth": {"ボローニャ大学": "法学", "パリ大学": "神学"},
+      "explain": [
+        "ボローニャ大学が誤り。医学で知られたのは南イタリアのサレルノ大学。",
+        "両方とも誤り。",
+        "両方とも誤り。神学と法学が逆。",
+        "正しい。ボローニャ大学（イタリア）はローマ法の研究で、パリ大学（フランス）は神学で知られた。"
+      ],
+      "point": "法学＝ボローニャ、神学＝パリ、医学＝サレルノ。イギリスのオクスフォード大学はパリ大学にならって成立した。"
+    },
+    {
+      "no": 14, "tag": "中世の文化", "section": 3, "type": "single",
+      "stem": "中世ヨーロッパの文化について述べた文として最も適当なものを、次の①〜④のうちから一つ選べ。",
+      "choices": [
+        "トマス＝アクィナスは『神学大全』を著し、スコラ学を大成した。",
+        "ロマネスク様式は高い尖塔とステンドグラスを特徴とし、ケルン大聖堂がその代表例である。",
+        "『ローランの歌』は、ゲルマン人の英雄ジークフリートを主人公とするドイツの叙事詩である。",
+        "イスラーム世界から伝わったアリストテレスの著作は、主にパリでアラビア語からギリシア語に翻訳された。"
+      ],
+      "answer": 1,
+      "explain": [
+        "正しい。13世紀のトマス＝アクィナスは、アリストテレス哲学を用いて信仰と理性の調和を説き、スコラ学を大成した。",
+        "誤り。高い尖塔とステンドグラスはゴシック様式の特徴で、ケルン大聖堂やシャルトル大聖堂が代表例。ロマネスク様式は厚い壁と小さな窓、半円アーチが特徴（ピサ大聖堂など）。",
+        "誤り。『ローランの歌』はカール大帝時代を題材とするフランスの騎士道物語。ジークフリートが登場するのはドイツの『ニーベルンゲンの歌』。",
+        "誤り。12世紀にイベリア半島のトレドやシチリア島などで、アラビア語からラテン語に翻訳された（12世紀ルネサンス）。"
+      ],
+      "point": "ロマネスク＝重厚・半円アーチ、ゴシック＝尖塔・ステンドグラス。時代はロマネスクが先。"
+    },
+    {
+      "no": 15, "tag": "神聖ローマ帝国", "section": 3, "type": "single",
+      "stem": "下線部 <u>神聖ローマ帝国</u> について述べた文として最も適当なものを、次の①〜④のうちから一つ選べ。",
+      "choices": [
+        "ザクセン家のオットー1世が教皇から帝冠を受けたことが、神聖ローマ帝国の起源とされる。",
+        "歴代皇帝がイタリア政策に力を注いだ結果、ドイツでは早くから中央集権化が進んだ。",
+        "皇帝カール4世が発布した金印勅書は、皇帝を選ぶ権限を教皇に与えた。",
+        "ロンバルディア同盟は、リューベックを中心とする北ドイツの都市が皇帝と結んだ同盟である。"
+      ],
+      "answer": 1,
+      "explain": [
+        "正しい。962年、マジャール人を破ったオットー1世が教皇から帝冠を受け、これが神聖ローマ帝国の起源とされる。",
+        "誤り。皇帝がイタリアに介入してドイツ本国を留守にしがちだったため、諸侯の自立が進み、統一は遅れた。",
+        "誤り。1356年の金印勅書は、皇帝選挙の権限を7人の選帝侯に与えた。教皇の関与は排除された。",
+        "誤り。ロンバルディア同盟は北イタリア諸都市が皇帝に対抗して結んだ同盟。リューベックはハンザ同盟の盟主。"
+      ],
+      "point": "神聖ローマ帝国は「イタリア政策→国内分裂→選帝侯・領邦の自立」の因果で理解する。"
+    },
+    {
+      "no": 16, "tag": "黒死病と農民反乱", "section": 4, "type": "tf",
+      "stem": "下線部 <u>黒死病（ペスト）の流行</u> とその前後の社会について述べた次の文 a と b の正誤の組合せとして正しいものを、下の①〜④のうちから一つ選べ。",
+      "statements": [
+        "14世紀半ばの黒死病の流行で人口が激減し、労働力が不足したため、農民の地位が向上する傾向がみられた。",
+        "イギリスでは、領主による束縛の強化に反発して、ジャックリーの乱がおこった。"
+      ],
+      "truth": [true, false],
+      "answer": 2,
+      "explain_items": [
+        "a 正しい。労働力不足から領主は農民の待遇を改善せざるを得ず、イギリスでは独立自営農民（ヨーマン）が増えた。",
+        "b 誤り。ジャックリーの乱（1358年）はフランスの農民反乱。イギリスで1381年におこったのはワット＝タイラーの乱。"
+      ],
+      "point": "農民反乱は国名とセットで覚える。フランス＝ジャックリー、イギリス＝ワット＝タイラー（ジョン＝ボールの説教）。"
+    },
+    {
+      "no": 17, "tag": "大憲章（資料）", "section": 4, "type": "single",
+      "stem": "イギリスの身分制議会の形成に関連して、次の資料は、中世のイギリスで出された文書の一部を要約したものである。この文書と、それを認めた国王について述べた文として最も適当なものを、下の①〜④のうちから一つ選べ。",
+      "material": "いかなる軍役代納金も援助金も、王国の一般評議会によるのでなければ、わが王国において課されてはならない。",
+      "materialSrc": "原文（ラテン語）の一条を作問者が要約",
+      "choices": [
+        "エドワード3世が、百年戦争の戦費を集めるために、自ら進んでこの文書を定めた。",
+        "この文書は、議会の同意のない課税を禁じた17世紀の権利の章典の一部である。",
+        "ジョン王は、フランス王フィリップ2世と争って大陸の領地の多くを失ったうえ、重税を課したため、貴族らにこの文書を認めさせられた。",
+        "この文書が出されたことで、シモン＝ド＝モンフォールの反乱は鎮圧され、王権が強化された。"
+      ],
+      "answer": 3,
+      "explain": [
+        "誤り。資料は1215年の大憲章（マグナ＝カルタ）。エドワード3世は14世紀の国王で、時期が合わない。また「認めさせられた」文書である。",
+        "誤り。権利の章典は1689年。資料は13世紀初めの大憲章。",
+        "正しい。ジョン王はフィリップ2世に敗れて大陸の領地の大半を失い、さらに教皇インノケンティウス3世とも対立した。重税に反発した貴族らが1215年に大憲章を認めさせた。",
+        "誤り。シモン＝ド＝モンフォールは次のヘンリ3世に対して反乱をおこし、1265年に州・都市の代表を加えた議会を招集した人物。大憲章によって鎮圧されたわけではない。"
+      ],
+      "point": "資料の「一般評議会によるのでなければ課されない」は、王の課税に同意を必要とするという大憲章の要点。"
+    },
+    {
+      "no": 18, "tag": "イギリス議会（年代整序）", "section": 4, "type": "order",
+      "stem": "イギリスの身分制議会の発達に関する次の出来事Ⅰ〜Ⅲが年代の古いものから順に正しく配列されているものを、下の①〜⑥のうちから一つ選べ。",
+      "items": ["エドワード1世が、いわゆる模範議会を招集した。", "ジョン王が、大憲章（マグナ＝カルタ）を認めた。", "シモン＝ド＝モンフォールが、貴族・聖職者に加えて州や都市の代表を招いて議会を開いた。"],
+      "years": [1295, 1215, 1265],
+      "answer": 4,
+      "explain_items": ["Ⅰ 模範議会は1295年。", "Ⅱ 大憲章は1215年。", "Ⅲ シモン＝ド＝モンフォールの議会は1265年。イギリス議会の起源とされる。"],
+      "point": "Ⅱ（1215年）→Ⅲ（1265年）→Ⅰ（1295年）。フランスでフィリップ4世が三部会を開いたのは1302年。"
+    },
+    {
+      "no": 19, "tag": "百年戦争", "section": 4, "type": "single",
+      "stem": "下線部 <u>英仏間の長期の戦争</u> について述べた文として最も適当なものを、次の①〜④のうちから一つ選べ。",
+      "choices": [
+        "ジャンヌ＝ダルクは、イギリス軍に包囲されたカレーを解放し、フランスの反撃のきっかけをつくった。",
+        "フランスのカペー朝が断絶してヴァロワ朝が成立すると、イギリス国王エドワード3世がフランスの王位継承権を主張して戦争が始まった。",
+        "戦争の結果、イギリスはボルドーを除く大陸の領土を失った。",
+        "戦争の終結後、イギリスではヨーク家とランカスター家による三十年戦争がおこった。"
+      ],
+      "answer": 2,
+      "explain": [
+        "誤り。ジャンヌ＝ダルクが解放したのはオルレアン（1429年）。",
+        "正しい。1328年にカペー朝が断絶してヴァロワ朝が成立すると、母がカペー家出身のエドワード3世が王位継承権を主張し、1339年に百年戦争が始まった（開戦を1337年とする教科書もある）。フランドル地方をめぐる対立も背景にあった。",
+        "誤り。イギリスが大陸に残したのはカレー。ボルドーなどのギュイエンヌ地方は失った。",
+        "誤り。ヨーク家とランカスター家の争いはバラ戦争（1455〜85年）。三十年戦争は17世紀のドイツを主な舞台とする戦争。"
+      ],
+      "point": "百年戦争（1339〜1453年。1337年開戦とする説もある）→バラ戦争→テューダー朝（ヘンリ7世）の順で、イギリスの王権が強まっていく。"
+    },
+    {
+      "no": 20, "tag": "教会の権威の動揺（年代整序）", "section": 4, "type": "order",
+      "stem": "下線部 <u>教会の権威は大きく揺らいだ</u> に関連して、次の出来事Ⅰ〜Ⅲが年代の古いものから順に正しく配列されているものを、下の①〜⑥のうちから一つ選べ。",
+      "items": ["コンスタンツ公会議が開かれ、フスが異端として処刑された。", "ローマとアヴィニョンにそれぞれ教皇が立ち、教会大分裂（大シスマ）が始まった。", "教皇庁が南フランスのアヴィニョンに移された。"],
+      "years": [1414, 1378, 1309],
+      "answer": 6,
+      "explain_items": ["Ⅰ コンスタンツ公会議は1414〜18年。教会大分裂を終わらせ、フスを処刑した（1415年）。", "Ⅱ 教会大分裂の開始は1378年。", "Ⅲ 教皇庁のアヴィニョン移転は1309年（〜1377年。「教皇のバビロン捕囚」）。"],
+      "point": "Ⅲ（1309年）→Ⅱ（1378年）→Ⅰ（1414年）。アナーニ事件（1303年）→バビロン捕囚→大シスマ→コンスタンツ公会議の順。"
+    }
+  ]
+}
+</script>
+
+<script>
+(function () {
+  const DATA = JSON.parse(document.getElementById('exam-data').textContent);
+  const NUM = ['①','②','③','④','⑤','⑥'];
+  const ROMAN = ['Ⅰ','Ⅱ','Ⅲ'];
+  const ORDERS = [[0,1,2],[0,2,1],[1,0,2],[1,2,0],[2,0,1],[2,1,0]];
+  const TF = [[true,true],[true,false],[false,true],[false,false]];
+  const KEY = 'medieval-europe-answers-v1';
+  const exam = document.getElementById('exam');
+  let answers = {};
+  let graded = false;
+  try { answers = JSON.parse(localStorage.getItem(KEY) || '{}') || {}; } catch (e) { answers = {}; }
+
+  const blanks = s => s.replace(/\[([^\]]+)\]/g, '<span class="blank">$1</span>').replace(/<u>/g, '<span class="u">').replace(/<\/u>/g, '</span>');
+
+  function choiceList(q) {
+    if (q.type === 'order') return ORDERS.map(o => o.map(i => ROMAN[i]).join(' → '));
+    if (q.type === 'tf') return TF.map(t => `a ${t[0] ? '正' : '誤'}　b ${t[1] ? '正' : '誤'}`);
+    return q.choices;
+  }
+
+  function renderQuestion(q) {
+    const art = document.createElement('article');
+    art.className = 'q';
+    art.id = 'q' + q.no;
+    let html = `<div class="qhead"><b>問${q.no}</b>${blanks(q.stem)}<span class="vslot"></span></div>`;
+    if (q.material) html += `<div class="material">${q.material}<div class="src">${q.materialSrc}</div></div>`;
+    if (q.items) html += `<div class="items">${q.items.map((t, i) => `<div><span>${ROMAN[i]}</span><span>${t}</span></div>`).join('')}</div>`;
+    if (q.statements) html += `<div class="items">${q.statements.map((t, i) => `<div><span>${'ab'[i]}</span><span>${t}</span></div>`).join('')}</div>`;
+    const list = choiceList(q);
+    html += `<div class="choices${list.length === 6 ? ' grid6' : ''}">`;
+    list.forEach((c, i) => {
+      const body = q.type === 'combo'
+        ? `<table class="combo"><tr>${q.keys.map((k, j) => `<td class="k">${k}</td><td>${c[j]}</td>`).join('')}</tr></table>`
+        : `<span>${c}</span>`;
+      html += `<label class="choice" data-i="${i + 1}"><input type="radio" name="q${q.no}" id="q${q.no}c${i + 1}" value="${i + 1}"><span class="bubble">${NUM[i]}</span>${body}</label>`;
+    });
+    html += `</div><div class="exslot"></div>`;
+    art.innerHTML = html;
+    const sel = answers[q.no];
+    if (sel) { const r = art.querySelector(`input[value="${sel}"]`); if (r) r.checked = true; }
+    art.addEventListener('change', e => {
+      if (graded) return;
+      answers[q.no] = Number(e.target.value);
+      save(); updateBar();
+    });
+    return art;
+  }
+
+  DATA.sections.forEach(sec => {
+    const s = document.createElement('section');
+    s.className = 'daimon';
+    s.innerHTML = `<h2><span class="no">第${sec.no}問</span>${sec.title}</h2><div class="lead">${sec.lead.map(([sp, t]) => `<p>${sp ? `<span class="sp">${sp}</span>` : ''}${blanks(t)}</p>`).join('')}</div>`;
+    DATA.questions.filter(q => q.section === sec.no).forEach(q => s.appendChild(renderQuestion(q)));
+    exam.appendChild(s);
+  });
+
+  const map = document.getElementById('sheetmap');
+  DATA.questions.forEach(q => { const a = document.createElement('a'); a.href = '#q' + q.no; a.textContent = q.no; a.id = 'm' + q.no; map.appendChild(a); });
+
+  function save() { try { localStorage.setItem(KEY, JSON.stringify(answers)); } catch (e) {} }
+  function updateBar() {
+    const n = Object.keys(answers).length;
+    document.getElementById('count').textContent = graded ? document.getElementById('count').textContent : `解答 ${n} / 20`;
+    DATA.questions.forEach(q => { const m = document.getElementById('m' + q.no); if (!graded) m.className = answers[q.no] ? 'done' : ''; });
+  }
+
+  function explanationHTML(q) {
+    let rows;
+    if (q.explain) rows = q.explain.map((t, i) => `<li><span>${NUM[i]}</span><span>${t}</span></li>`);
+    else rows = q.explain_items.map(t => `<li><span>${t.slice(0, 1)}</span><span>${t.slice(2)}</span></li>`);
+    return `<div class="explain"><h4>正解 ${NUM[q.answer - 1]}　解説</h4><ul>${rows.join('')}</ul><div class="point">${q.point}</div></div>`;
+  }
+
+  function grade() {
+    graded = true;
+    exam.classList.add('graded');
+    let total = 0;
+    const bySec = {};
+    DATA.questions.forEach(q => {
+      const art = document.getElementById('q' + q.no);
+      art.querySelectorAll('input').forEach(i => i.disabled = true);
+      const sel = answers[q.no];
+      const ok = sel === q.answer;
+      if (ok) total += 5;
+      bySec[q.section] = (bySec[q.section] || 0) + (ok ? 5 : 0);
+      art.querySelectorAll('.choice').forEach(l => {
+        const i = Number(l.dataset.i);
+        if (i === q.answer) l.classList.add('is-answer');
+        else if (i === sel) l.classList.add('is-wrong');
+      });
+      art.querySelector('.vslot').innerHTML = `<span class="verdict ${ok ? 'ok' : 'ng'}">${ok ? '正解' : (sel ? '不正解' : '未解答')}</span>`;
+      art.querySelector('.exslot').innerHTML = explanationHTML(q);
+      document.getElementById('m' + q.no).className = ok ? 'ok' : 'ng';
+    });
+    document.getElementById('count').textContent = `得点 ${total} / 100`;
+    stopTimer();
+    renderReport(total, bySec);
+    document.getElementById('gradeBtn').disabled = true;
+    document.getElementById('result').scrollIntoView();
+  }
+
+  const NAME_KEY = 'medieval-europe-name-v1';
+  const pad = n => String(n).padStart(2, '0');
+  const esc = t => String(t).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
+
+  function elapsedText() {
+    if (!timerUsed) return '計測なし';
+    const used = 3000 - remain;
+    return `${Math.floor(used / 60)}分${pad(used % 60)}秒`;
+  }
+
+  function reportText(name, total, bySec, when) {
+    const wrong = DATA.questions.filter(q => answers[q.no] && answers[q.no] !== q.answer);
+    const blank = DATA.questions.filter(q => !answers[q.no]);
+    const lines = [
+      '【世界史 中世ヨーロッパ演習20題】',
+      `氏名：${name || '（未入力）'}`,
+      `実施：${when}`,
+      `得点：${total} / 100`,
+      `所要時間：${elapsedText()}`,
+      '大問別：' + DATA.sections.map(s => `第${s.no}問 ${bySec[s.no] || 0}/25`).join('、'),
+      '',
+      `間違えた問題（${wrong.length}問）`
+    ];
+    if (wrong.length) wrong.forEach(q => lines.push(`・問${q.no} ${q.tag}（選択${NUM[answers[q.no] - 1]} → 正解${NUM[q.answer - 1]}）`));
+    else lines.push('・なし');
+    if (blank.length) lines.push('', `未解答（${blank.length}問）：` + blank.map(q => `問${q.no}`).join('、'));
+    return lines.join('\n');
+  }
+
+  function renderReport(total, bySec) {
+    const d = new Date();
+    const when = `${d.getFullYear()}/${pad(d.getMonth() + 1)}/${pad(d.getDate())} ${pad(d.getHours())}:${pad(d.getMinutes())}`;
+    let savedName = '';
+    try { savedName = localStorage.getItem(NAME_KEY) || ''; } catch (e) {}
+    const wrong = DATA.questions.filter(q => answers[q.no] && answers[q.no] !== q.answer);
+    const blank = DATA.questions.filter(q => !answers[q.no]);
+    const secRows = DATA.sections.map(s => `<tr><td>第${s.no}問 ${s.title}</td><td class="num">${bySec[s.no] || 0} / 25</td></tr>`).join('');
+    const missRows = wrong.length
+      ? wrong.map(q => `<li><a href="#q${q.no}">問${q.no}</a><span>${q.tag}</span><span class="pick">選択${NUM[answers[q.no] - 1]} → 正解${NUM[q.answer - 1]}</span></li>`).join('')
+      : '<li class="none">間違えた問題はありません</li>';
+    const box = document.getElementById('result');
+    box.innerHTML = `
+      <div class="result" id="reportCard">
+        <div class="rhead"><span class="eyebrow">先生への報告カード</span><span class="when">${when}</span></div>
+        <label class="namefield" for="studentName">氏名<input id="studentName" type="text" autocomplete="name" placeholder="例：山田 花子" value="${esc(savedName)}"></label>
+        <div class="score">${total}<small> 点 / 100 点</small></div>
+        <div class="rmeta"><span>所要時間 ${elapsedText()}</span><span>正解 ${total / 5} / 20</span>${blank.length ? `<span>未解答 ${blank.length}問</span>` : ''}</div>
+        <table><tbody>${secRows}</tbody></table>
+        <div><div class="rlabel">間違えた問題（${wrong.length}問）</div><ul class="misses">${missRows}</ul></div>
+        <div class="actions"><button type="button" class="primary" id="copyBtn">報告文をコピー</button><span class="copymsg" id="copyMsg" role="status"></span></div>
+        <textarea id="reportText" readonly rows="10" aria-label="報告文"></textarea>
+        <div class="hint">「報告文をコピー」を押して、LINEなどに貼り付けて先生に送ってください。コピーできないときは、上の枠の文を長押しして選択してください。</div>
+      </div>`;
+    const nameEl = document.getElementById('studentName');
+    const ta = document.getElementById('reportText');
+    const refresh = () => { ta.value = reportText(nameEl.value.trim(), total, bySec, when); };
+    refresh();
+    nameEl.addEventListener('input', () => { refresh(); try { localStorage.setItem(NAME_KEY, nameEl.value.trim()); } catch (e) {} });
+    document.getElementById('copyBtn').addEventListener('click', () => {
+      const msg = document.getElementById('copyMsg');
+      if (!nameEl.value.trim()) { msg.textContent = '先に氏名を入力してください'; nameEl.focus(); return; }
+      refresh();
+      const fallback = () => { ta.focus(); ta.select(); msg.textContent = '文を選択しました。コピーして送ってください'; };
+      try {
+        navigator.clipboard.writeText(ta.value).then(() => { msg.textContent = 'コピーしました'; }, fallback);
+      } catch (e) { fallback(); }
+    });
+  }
+
+  document.getElementById('gradeBtn').addEventListener('click', grade);
+  const confirmBox = document.getElementById('resetConfirm');
+  document.getElementById('resetBtn').addEventListener('click', () => { confirmBox.hidden = false; });
+  document.getElementById('resetNo').addEventListener('click', () => { confirmBox.hidden = true; });
+  document.getElementById('resetYes').addEventListener('click', () => {
+    answers = {}; save(); graded = false; confirmBox.hidden = true;
+    exam.classList.remove('graded');
+    document.querySelectorAll('#exam input').forEach(i => { i.checked = false; i.disabled = false; });
+    document.querySelectorAll('.choice').forEach(l => l.classList.remove('is-answer', 'is-wrong'));
+    document.querySelectorAll('.vslot, .exslot').forEach(e => e.innerHTML = '');
+    document.getElementById('result').innerHTML = '';
+    document.getElementById('gradeBtn').disabled = false;
+    stopTimer(); remain = 3000; timerUsed = false; drawTimer();
+    updateBar();
+  });
+
+  let remain = 3000, tid = null, timerUsed = false;
+  const tEl = document.getElementById('timer'), tBtn = document.getElementById('timerBtn');
+  function drawTimer() { const m = Math.floor(remain / 60), s = remain % 60; tEl.textContent = `${String(m).padStart(2, '0')}:${String(s).padStart(2, '0')}`; tBtn.textContent = tid ? 'タイマー停止' : 'タイマー開始'; }
+  function stopTimer() { if (tid) { clearInterval(tid); tid = null; } drawTimer(); }
+  tBtn.addEventListener('click', () => {
+    if (tid) { stopTimer(); return; }
+    timerUsed = true;
+    tid = setInterval(() => { remain = Math.max(0, remain - 1); if (remain === 0) { stopTimer(); tEl.textContent = '終了 00:00'; } else drawTimer(); }, 1000);
+    drawTimer();
+  });
+
+  updateBar();
+})();
+</script>
