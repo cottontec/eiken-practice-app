@@ -3,7 +3,7 @@
 //   node verify.mjs --e2e    … 上記に加え、ブラウザで全級を「全問正解」「全問不正解」で通しで解き、結果画面の数値を照合する
 // 終了コード 0 = すべて合格、1 = 不合格あり
 import { createRequire } from 'node:module';
-import { writeFileSync } from 'node:fs';
+import { writeFileSync, mkdirSync } from 'node:fs';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import path from 'node:path';
 
@@ -101,6 +101,11 @@ for (const g of BANK.grades) {
   }
 }
 writeFileSync(path.join(here, 'review-sheet.md'), lines.join('\n'));
+
+// 外部AI監査用：問題バンクをJSONで書き出す（audit/verify_bank.py が読む）
+mkdirSync(path.join(here, 'audit'), { recursive: true });
+const plain = { version: BANK.version, grades: BANK.grades.map(({ _stats, ...g }) => g) };
+writeFileSync(path.join(here, 'audit', 'bank.json'), JSON.stringify(plain, null, 2) + '\n');
 
 // 画面での通し確認
 if (process.argv.includes('--e2e')) {
