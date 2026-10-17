@@ -21,3 +21,6 @@ next-sessions/*.md
 node_modules/
 .env
 .env.local
+
+# 監査パッケージのzipは毎回作り直すのでコミットしない
+grammar-check/audit/*.zip
