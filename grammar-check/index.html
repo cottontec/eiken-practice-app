@@ -1,0 +1,492 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>スタスタLIVE英検 文法チェック</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=BIZ+UDPGothic:wght@400;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap">
+<style>
+/* Layout: one narrow answer-sheet column; choices are mark-sheet rows, corrections in red pen. */
+:root {
+  --paper: #f7f8fb;
+  --sheet: #ffffff;
+  --ink: #1d2a44;
+  --ink-soft: #55607a;
+  --rule: #d9deea;
+  --accent: #2446a8;
+  --accent-ink: #ffffff;
+  --ok: #1d7a4c;
+  --ok-bg: #e6f4ec;
+  --pen: #c8352b;
+  --pen-bg: #fbe9e7;
+  --font-ja: "BIZ UDPGothic", "Hiragino Kaku Gothic ProN", "Yu Gothic", Meiryo, sans-serif;
+  --font-en: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --r: 10px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #12161f; --sheet: #1a2030; --ink: #e6e9f2; --ink-soft: #a3abc0; --rule: #2e3750;
+    --accent: #8aa6ff; --accent-ink: #0f1424; --ok: #6fd3a0; --ok-bg: #173226; --pen: #ff8a7d; --pen-bg: #3a1d1b;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #12161f; --sheet: #1a2030; --ink: #e6e9f2; --ink-soft: #a3abc0; --rule: #2e3750;
+  --accent: #8aa6ff; --accent-ink: #0f1424; --ok: #6fd3a0; --ok-bg: #173226; --pen: #ff8a7d; --pen-bg: #3a1d1b;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--paper); color: var(--ink);
+  font-family: var(--font-ja); font-size: 16px; line-height: 1.7;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 20px 48px;
+}
+main { max-width: 640px; margin: 0 auto; display: grid; gap: 20px; }
+h1, h2, h3 { margin: 0; line-height: 1.35; text-wrap: balance; }
+h1 { font-size: 1.45rem; }
+h2 { font-size: 1.15rem; }
+p { margin: 0; }
+button { font: inherit; color: inherit; }
+button:focus-visible, input:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+.eyebrow { font-size: .78rem; letter-spacing: .08em; color: var(--ink-soft); }
+.muted { color: var(--ink-soft); font-size: .9rem; }
+.sheet { background: var(--sheet); border: 1px solid var(--rule); border-radius: var(--r); padding: 20px; display: grid; gap: 16px; min-width: 0; }
+
+/* Start */
+.brand { display: grid; gap: 6px; }
+.field { display: grid; gap: 6px; }
+.field label { font-weight: 700; font-size: .95rem; }
+.field input {
+  font: inherit; padding: 10px 12px; border: 1px solid var(--rule); border-radius: 8px;
+  background: var(--paper); color: var(--ink); width: 100%;
+}
+.grades { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 10px; }
+.grade {
+  text-align: left; border: 1.5px solid var(--rule); background: var(--sheet); border-radius: 8px;
+  padding: 12px; cursor: pointer; display: grid; gap: 2px;
+}
+.grade b { font-size: 1.15rem; }
+.grade span { font-size: .8rem; color: var(--ink-soft); }
+.grade[aria-pressed="true"] { border-color: var(--accent); box-shadow: inset 0 0 0 1.5px var(--accent); }
+.grade-info { font-size: .9rem; color: var(--ink-soft); border-top: 1px dashed var(--rule); padding-top: 12px; }
+.btn {
+  border: 0; border-radius: 8px; padding: 13px 18px; font-weight: 700; cursor: pointer;
+  background: var(--accent); color: var(--accent-ink); font-size: 1rem;
+}
+.btn[disabled] { opacity: .45; cursor: not-allowed; }
+.btn.ghost { background: transparent; color: var(--accent); border: 1.5px solid var(--accent); }
+.row { display: flex; flex-wrap: wrap; gap: 10px; }
+.row .btn { flex: 1 1 160px; }
+
+/* Quiz */
+.qhead { display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap; }
+.chip { font-size: .78rem; padding: 2px 10px; border-radius: 999px; border: 1px solid var(--rule); color: var(--ink-soft); }
+.progress { height: 6px; background: var(--rule); border-radius: 999px; overflow: hidden; }
+.progress i { display: block; height: 100%; background: var(--accent); width: 0; transition: width .25s; }
+.qno { font-variant-numeric: tabular-nums; font-weight: 700; }
+.instr { font-size: .88rem; color: var(--ink-soft); }
+.stem { font-family: var(--font-en); font-size: 1.22rem; line-height: 1.6; white-space: pre-line; overflow-wrap: anywhere; }
+.choices { display: grid; gap: 8px; }
+.choice {
+  display: grid; grid-template-columns: 34px 1fr; align-items: center; gap: 12px; text-align: left;
+  border: 1.5px solid var(--rule); background: var(--sheet); border-radius: 8px; padding: 10px 12px; cursor: pointer;
+}
+.choice .mark {
+  width: 30px; height: 30px; border-radius: 50%; border: 1.5px solid var(--ink-soft);
+  display: grid; place-items: center; font-weight: 700; font-size: .95rem; font-variant-numeric: tabular-nums;
+}
+.choice .txt { font-family: var(--font-en); font-size: 1.08rem; min-width: 0; overflow-wrap: anywhere; }
+.choice:hover:not([disabled]) { border-color: var(--accent); }
+.choice[disabled] { cursor: default; }
+.choice.is-correct { border-color: var(--ok); background: var(--ok-bg); }
+.choice.is-correct .mark { background: var(--ok); border-color: var(--ok); color: var(--sheet); }
+.choice.is-wrong { border-color: var(--pen); background: var(--pen-bg); }
+.choice.is-wrong .mark { background: var(--pen); border-color: var(--pen); color: var(--sheet); }
+.choice .why { grid-column: 2; font-family: var(--font-ja); font-size: .86rem; color: var(--ink-soft); }
+
+/* Order */
+.ja { font-size: 1.02rem; font-weight: 700; }
+.frame { font-family: var(--font-en); font-size: 1.15rem; display: flex; flex-wrap: wrap; gap: 6px 8px; align-items: center; }
+.slot {
+  min-width: 64px; min-height: 42px; padding: 4px 10px; border: 1.5px dashed var(--ink-soft); border-radius: 6px;
+  display: inline-flex; align-items: center; justify-content: center; background: var(--paper); cursor: pointer;
+}
+.slot.filled { border-style: solid; border-color: var(--accent); }
+.slot .n { font-family: var(--font-ja); font-size: .72rem; color: var(--ink-soft); }
+.tokens { display: flex; flex-wrap: wrap; gap: 8px; }
+.token {
+  font-family: var(--font-en); font-size: 1.08rem; padding: 8px 14px; border: 1.5px solid var(--ink-soft);
+  border-radius: 6px; background: var(--sheet); cursor: pointer;
+}
+.token[disabled] { opacity: .3; cursor: default; }
+
+/* Feedback */
+.feedback { border-radius: 8px; padding: 14px; display: grid; gap: 6px; border-left: 4px solid var(--ok); background: var(--ok-bg); }
+.feedback.ng { border-left-color: var(--pen); background: var(--pen-bg); }
+.feedback .verdict { font-weight: 700; }
+.feedback .verdict.ok { color: var(--ok); }
+.feedback .verdict.ng { color: var(--pen); }
+.feedback .en { font-family: var(--font-en); font-size: 1.05rem; }
+.feedback .note { font-size: .92rem; }
+
+/* Result */
+.score { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+.score .big { font-size: 2.6rem; font-weight: 700; font-variant-numeric: tabular-nums; line-height: 1; }
+.score .pct { font-size: 1.1rem; color: var(--ink-soft); font-variant-numeric: tabular-nums; }
+.cats { display: grid; gap: 10px; }
+.cat { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 4px 12px; align-items: center; }
+.cat .name { font-size: .95rem; min-width: 0; }
+.cat .val { font-variant-numeric: tabular-nums; font-size: .9rem; color: var(--ink-soft); }
+.cat .bar { grid-column: 1 / -1; height: 8px; background: var(--rule); border-radius: 999px; overflow: hidden; }
+.cat .bar i { display: block; height: 100%; background: var(--ok); }
+.cat.weak .bar i { background: var(--pen); }
+.cat.weak .name::after { content: "要復習"; margin-left: 8px; font-size: .72rem; color: var(--pen); border: 1px solid var(--pen); border-radius: 4px; padding: 0 5px; }
+.misses { display: grid; gap: 12px; }
+.miss { border-top: 1px solid var(--rule); padding-top: 12px; display: grid; gap: 4px; }
+.miss .en { font-family: var(--font-en); font-size: 1.02rem; white-space: pre-line; }
+.miss .yours { color: var(--pen); font-size: .9rem; }
+.miss .right { color: var(--ok); font-size: .9rem; font-weight: 700; }
+.copybox { font-family: var(--font-ja); font-size: .88rem; white-space: pre-wrap; background: var(--paper); border: 1px solid var(--rule); border-radius: 8px; padding: 12px; overflow-wrap: anywhere; }
+.toast { font-size: .88rem; color: var(--ok); min-height: 1.4em; }
+footer { max-width: 640px; margin: 12px auto 0; font-size: .78rem; color: var(--ink-soft); }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+</head>
+<body>
+<main id="app" aria-live="polite"></main>
+<footer id="foot"></footer>
+<script src="questions.js"></script>
+<script>
+(function () {
+  'use strict';
+  var BANK = window.GRAMMAR_BANK;
+  var app = document.getElementById('app');
+  var MARKS = ['1', '2', '3', '4'];
+  var WEAK_LINE = 0.6; // 正答率がこれ未満の分野を「要復習」と表示する【仮置き】
+
+  var store = {
+    get: function (k) { try { return window.localStorage.getItem('stasta-grammar:' + k); } catch (e) { return null; } },
+    set: function (k, v) { try { window.localStorage.setItem('stasta-grammar:' + k, v); } catch (e) { /* 保存できなくても動く */ } }
+  };
+
+  var state = {
+    name: store.get('name') || '',
+    gradeKey: store.get('grade') || 'g3',
+    queue: [], index: 0, answers: [], picked: [], done: false
+  };
+
+  function el(tag, attrs, children) {
+    var n = document.createElement(tag);
+    if (attrs) Object.keys(attrs).forEach(function (k) {
+      if (k === 'class') n.className = attrs[k];
+      else if (k === 'text') n.textContent = attrs[k];
+      else if (k.slice(0, 2) === 'on') n.addEventListener(k.slice(2), attrs[k]);
+      else n.setAttribute(k, attrs[k]);
+    });
+    (children || []).forEach(function (c) { if (c != null) n.appendChild(typeof c === 'string' ? document.createTextNode(c) : c); });
+    return n;
+  }
+  function shuffle(a) {
+    a = a.slice();
+    for (var i = a.length - 1; i > 0; i--) { var j = Math.floor(Math.random() * (i + 1)); var t = a[i]; a[i] = a[j]; a[j] = t; }
+    return a;
+  }
+  function grade() { return BANK.grades.filter(function (g) { return g.key === state.gradeKey; })[0] || BANK.grades[0]; }
+  function cap(s) { return s.charAt(0).toUpperCase() + s.slice(1); }
+  function orderSentence(q, tokens) {
+    var parts = [q.before].concat(tokens).concat([q.after]).filter(Boolean).join(' ');
+    return cap(parts);
+  }
+  function counts(g) {
+    var c = 0, o = 0;
+    g.items.forEach(function (q) { if (q.type === 'order') o++; else c++; });
+    return { choice: c, order: o };
+  }
+
+  /* ---------- 開始画面 ---------- */
+  function renderStart() {
+    app.replaceChildren();
+    var info = el('p', { class: 'grade-info', id: 'grade-info' });
+    function fillInfo() {
+      var gg = grade(), nn = counts(gg);
+      info.textContent = gg.label + '（' + gg.scope + '・CEFR ' + gg.cefr + '）：4択 ' + nn.choice + '問' +
+        (nn.order ? '＋並べ替え ' + nn.order + '問' : '') + '。' + gg.note;
+    }
+    var gradeButtons = BANK.grades.map(function (gg) {
+      var nn = counts(gg);
+      return el('button', {
+        class: 'grade', type: 'button', id: 'grade-' + gg.key, 'aria-pressed': String(gg.key === state.gradeKey),
+        onclick: function () {
+          state.gradeKey = gg.key; store.set('grade', gg.key);
+          gradeButtons.forEach(function (b) { b.setAttribute('aria-pressed', String(b.id === 'grade-' + gg.key)); });
+          fillInfo();
+        }
+      }, [el('b', { text: gg.label }), el('span', { text: gg.scope }), el('span', { text: (nn.choice + nn.order) + '問' + (nn.order ? '（並べ替えあり）' : '') })]);
+    });
+    fillInfo();
+    var nameInput = el('input', { id: 'student-name', type: 'text', autocomplete: 'off', placeholder: '例：山田 花子', value: state.name });
+    nameInput.addEventListener('input', function () { state.name = nameInput.value.trim(); store.set('name', state.name); });
+
+    app.append(
+      el('header', { class: 'brand' }, [
+        el('p', { class: 'eyebrow', text: 'スタスタLIVE英検' }),
+        el('h1', { text: '英文法チェック' }),
+        el('p', { class: 'muted', text: '級を選んで解くと、分野ごとの正答率と苦手な文法がわかります。1問ごとに解説が出ます。' })
+      ]),
+      el('section', { class: 'sheet' }, [
+        el('div', { class: 'field' }, [el('label', { for: 'student-name', text: 'なまえ（先生に結果を送るときに使います）' }), nameInput]),
+        el('div', { class: 'field' }, [el('span', { class: 'label', text: '受ける級' }), el('div', { class: 'grades' }, gradeButtons)]),
+        info,
+        el('button', { class: 'btn', type: 'button', id: 'start', onclick: startQuiz, text: 'はじめる' })
+      ])
+    );
+  }
+
+  /* ---------- 出題 ---------- */
+  function startQuiz() {
+    var g = grade();
+    // 本番と同じく4択→並べ替えの順。それぞれの中で順番をシャッフルする
+    var choice = shuffle(g.items.filter(function (q) { return q.type !== 'order'; }));
+    var order = shuffle(g.items.filter(function (q) { return q.type === 'order'; }));
+    state.queue = choice.concat(order).map(function (q) {
+      return q.type === 'order'
+        ? { q: q, tokenOrder: shuffleNotIdentity(q.tokens.length) }
+        : { q: q, choiceOrder: shuffle([0, 1, 2, 3]) };
+    });
+    state.index = 0; state.answers = []; state.picked = [];
+    renderQuestion();
+    window.scrollTo(0, 0);
+  }
+  function shuffleNotIdentity(n) {
+    var base = []; for (var i = 0; i < n; i++) base.push(i);
+    var s; do { s = shuffle(base); } while (s.join() === base.join());
+    return s;
+  }
+
+  function header() {
+    var total = state.queue.length, i = state.index;
+    var item = state.queue[i];
+    var bar = el('i'); bar.style.width = (i / total * 100) + '%';
+    return el('div', { class: 'sheet-head' }, [
+      el('div', { class: 'qhead' }, [
+        el('span', { class: 'qno', text: grade().label + '　' + (i + 1) + ' / ' + total }),
+        el('span', { class: 'chip', text: item.q.cat })
+      ]),
+      el('div', { class: 'progress', role: 'progressbar', 'aria-valuemin': '0', 'aria-valuemax': String(total), 'aria-valuenow': String(i) }, [bar])
+    ]);
+  }
+
+  function renderQuestion() {
+    app.replaceChildren();
+    var item = state.queue[state.index];
+    var sheet = el('section', { class: 'sheet' });
+    sheet.append(header());
+    if (item.q.type === 'order') renderOrder(sheet, item); else renderChoice(sheet, item);
+    app.append(sheet);
+  }
+
+  function renderChoice(sheet, item) {
+    var q = item.q;
+    sheet.append(
+      el('p', { class: 'instr', text: '(　　) に入れるのに最も適切なものを 1, 2, 3, 4 の中から一つ選びなさい。' }),
+      el('p', { class: 'stem', text: q.en })
+    );
+    var list = el('div', { class: 'choices' });
+    var buttons = item.choiceOrder.map(function (ci, pos) {
+      return el('button', {
+        class: 'choice', type: 'button', id: 'choice-' + pos,
+        onclick: function () { answerChoice(item, ci, buttons, sheet); }
+      }, [el('span', { class: 'mark', text: MARKS[pos] }), el('span', { class: 'txt', text: q.choices[ci] })]);
+    });
+    buttons.forEach(function (b) { list.append(b); });
+    sheet.append(list);
+  }
+
+  function answerChoice(item, ci, buttons, sheet) {
+    var q = item.q, ok = ci === q.answer;
+    state.answers.push({ q: q, ok: ok, yours: q.choices[ci] });
+    buttons.forEach(function (b, pos) {
+      var idx = item.choiceOrder[pos];
+      b.disabled = true;
+      if (idx === q.answer) b.classList.add('is-correct');
+      else if (idx === ci) b.classList.add('is-wrong');
+      b.append(el('span', { class: 'why', text: q.why[idx] }));
+    });
+    sheet.append(feedback(ok, q.en.replace('(　　)', q.choices[q.answer]), q.ja, null));
+  }
+
+  function renderOrder(sheet, item) {
+    var q = item.q;
+    var picked = [];
+    sheet.append(
+      el('p', { class: 'instr', text: '日本文の意味を表すように 4 つの語句を並べかえなさい。語句をタップすると空所に入ります。もう一度タップすると戻せます。※文のはじめにくる語も小文字になっています。' }),
+      el('p', { class: 'ja', text: q.ja })
+    );
+    var frame = el('div', { class: 'frame' });
+    var tokensBox = el('div', { class: 'tokens' });
+    var submit = el('button', { class: 'btn', type: 'button', id: 'submit-order', disabled: 'disabled', text: '解答する' });
+    var tokenBtns = item.tokenOrder.map(function (ti) {
+      return el('button', {
+        class: 'token', type: 'button', id: 'token-' + ti,
+        onclick: function () { if (picked.length < q.tokens.length && picked.indexOf(ti) < 0) { picked.push(ti); draw(); } }
+      }, [q.tokens[ti]]);
+    });
+    tokenBtns.forEach(function (b) { tokensBox.append(b); });
+    function draw() {
+      frame.replaceChildren();
+      if (q.before) frame.append(el('span', { text: q.before }));
+      for (var s = 0; s < q.tokens.length; s++) {
+        (function (s) {
+          var ti = picked[s];
+          var slot = el('button', {
+            class: 'slot' + (ti != null ? ' filled' : ''), type: 'button', id: 'slot-' + s,
+            'aria-label': (s + 1) + '番目' + (ti != null ? '：' + q.tokens[ti] + '（タップで戻す）' : '（空き）'),
+            onclick: function () { if (ti != null && !submit.dataset.done) { picked.splice(s, 1); draw(); } }
+          }, [ti != null ? q.tokens[ti] : el('span', { class: 'n', text: (s + 1) + '番目' })]);
+          frame.append(slot);
+        })(s);
+      }
+      if (q.after) frame.append(el('span', { text: q.after }));
+      tokenBtns.forEach(function (b) { b.disabled = !!submit.dataset.done || picked.indexOf(Number(b.id.slice(6))) >= 0; });
+      if (picked.length === q.tokens.length && !submit.dataset.done) submit.removeAttribute('disabled'); else submit.setAttribute('disabled', 'disabled');
+    }
+    submit.addEventListener('click', function () {
+      if (picked.length !== q.tokens.length) return;
+      submit.dataset.done = '1';
+      var ok = picked.every(function (ti, s) { return ti === s; });
+      var yours = orderSentence(q, picked.map(function (ti) { return q.tokens[ti]; }));
+      var right = orderSentence(q, q.tokens);
+      state.answers.push({ q: q, ok: ok, yours: yours });
+      draw();
+      submit.hidden = true;
+      sheet.append(feedback(ok, right, q.ja, ok ? null : yours));
+    });
+    draw();
+    sheet.append(frame, tokensBox, submit);
+  }
+
+  function feedback(ok, en, ja, yours) {
+    var q = state.queue[state.index].q;
+    var last = state.index === state.queue.length - 1;
+    var box = el('div', { class: 'feedback' + (ok ? '' : ' ng') }, [
+      el('p', { class: 'verdict ' + (ok ? 'ok' : 'ng'), text: ok ? '○ 正解' : '× 不正解' }),
+      yours ? el('p', { class: 'muted', text: 'あなたの答え：' + yours }) : null,
+      el('p', { class: 'en', text: en.replace(/\n/g, ' ') }),
+      el('p', { class: 'muted', text: ja }),
+      q.type === 'order' ? el('p', { class: 'note', text: q.why }) : null
+    ]);
+    var next = el('button', {
+      class: 'btn', type: 'button', id: 'next', text: last ? '結果を見る' : '次の問題へ',
+      onclick: function () { if (last) renderResult(); else { state.index++; renderQuestion(); } window.scrollTo(0, 0); }
+    });
+    var wrap = el('div', { class: 'choices' }, [box, next]);
+    setTimeout(function () { next.focus({ preventScroll: true }); }, 0);
+    return wrap;
+  }
+
+  /* ---------- 結果 ---------- */
+  function summarize() {
+    var by = {}, orderList = [];
+    state.answers.forEach(function (a) {
+      if (!by[a.q.cat]) { by[a.q.cat] = { name: a.q.cat, ok: 0, n: 0 }; orderList.push(a.q.cat); }
+      by[a.q.cat].n++; if (a.ok) by[a.q.cat].ok++;
+    });
+    var cats = orderList.map(function (k) { return by[k]; });
+    cats.sort(function (a, b) { return (a.ok / a.n) - (b.ok / b.n) || b.n - a.n; });
+    var ok = state.answers.filter(function (a) { return a.ok; }).length;
+    return { ok: ok, n: state.answers.length, cats: cats };
+  }
+  function today() {
+    var d = new Date();
+    return d.getFullYear() + '/' + (d.getMonth() + 1) + '/' + d.getDate();
+  }
+  function reportText(s) {
+    var weak = s.cats.filter(function (c) { return c.ok / c.n < WEAK_LINE; });
+    var lines = [
+      '【英文法チェック結果】',
+      'なまえ：' + (state.name || '（未入力）'),
+      '級：' + grade().label + '　正答 ' + s.ok + '/' + s.n + '（' + Math.round(s.ok / s.n * 100) + '%）',
+      '実施日：' + today(),
+      '分野別：'
+    ];
+    s.cats.forEach(function (c) { lines.push('・' + c.name + ' ' + c.ok + '/' + c.n); });
+    lines.push('要復習：' + (weak.length ? weak.map(function (c) { return c.name; }).join('、') : 'なし'));
+    return lines.join('\n');
+  }
+
+  function renderResult() {
+    app.replaceChildren();
+    var s = summarize();
+    var pct = Math.round(s.ok / s.n * 100);
+    var cats = el('div', { class: 'cats' }, s.cats.map(function (c) {
+      var bar = el('i'); bar.style.width = (c.ok / c.n * 100) + '%';
+      return el('div', { class: 'cat' + (c.ok / c.n < WEAK_LINE ? ' weak' : '') }, [
+        el('span', { class: 'name', text: c.name }),
+        el('span', { class: 'val', text: c.ok + ' / ' + c.n }),
+        el('span', { class: 'bar' }, [bar])
+      ]);
+    }));
+    var missed = state.answers.filter(function (a) { return !a.ok; });
+    var misses = el('div', { class: 'misses' }, missed.map(function (a) {
+      var q = a.q;
+      var right = q.type === 'order' ? orderSentence(q, q.tokens) : q.choices[q.answer];
+      var expl = q.type === 'order' ? q.why : q.why[q.answer];
+      return el('div', { class: 'miss' }, [
+        el('span', { class: 'chip', text: q.cat }),
+        el('p', { class: 'en', text: q.type === 'order' ? q.ja : q.en }),
+        el('p', { class: 'yours', text: 'あなたの答え：' + a.yours }),
+        el('p', { class: 'right', text: '正解：' + right }),
+        el('p', { class: 'muted', text: expl })
+      ]);
+    }));
+    var text = reportText(s);
+    var toast = el('p', { class: 'toast', id: 'copy-status', role: 'status' });
+    var box = el('pre', { class: 'copybox', id: 'report-text', text: text });
+    var copyBtn = el('button', {
+      class: 'btn', type: 'button', id: 'copy', text: '結果をコピー',
+      onclick: function () {
+        var done = function () { toast.textContent = 'コピーしました。LINEに貼りつけて先生に送ってください。'; };
+        var fallback = function () {
+          var r = document.createRange(); r.selectNodeContents(box);
+          var sel = window.getSelection(); sel.removeAllRanges(); sel.addRange(r);
+          toast.textContent = '自動でコピーできませんでした。選択された文字をコピーしてください。';
+        };
+        try { navigator.clipboard.writeText(text).then(done, fallback); } catch (e) { fallback(); }
+      }
+    });
+
+    app.append(
+      el('section', { class: 'sheet' }, [
+        el('p', { class: 'eyebrow', text: grade().label + '　英文法チェック結果' }),
+        el('div', { class: 'score' }, [
+          el('span', { class: 'big', text: s.ok + ' / ' + s.n }),
+          el('span', { class: 'pct', text: '正答率 ' + pct + '%' })
+        ]),
+        el('h2', { text: '分野別の正答' }),
+        el('p', { class: 'muted', text: '正答率の低い分野から並んでいます。' + Math.round(WEAK_LINE * 100) + '%未満の分野に「要復習」がつきます。' }),
+        cats
+      ]),
+      missed.length ? el('section', { class: 'sheet' }, [el('h2', { text: 'まちがえた問題（' + missed.length + '問）' }), misses])
+        : el('section', { class: 'sheet' }, [el('h2', { text: '全問正解です' }), el('p', { class: 'muted', text: '一つ上の級にも挑戦してみましょう。' })]),
+      el('section', { class: 'sheet' }, [
+        el('h2', { text: '先生に送る' }), box, copyBtn, toast
+      ]),
+      el('div', { class: 'row' }, [
+        el('button', { class: 'btn ghost', type: 'button', id: 'retry', text: '同じ級をもう一度', onclick: startQuiz }),
+        el('button', { class: 'btn ghost', type: 'button', id: 'back', text: '級を選びなおす', onclick: renderStart })
+      ])
+    );
+  }
+
+  document.getElementById('foot').textContent = 'スタスタLIVE英検 英文法チェック｜問題バンク ' + BANK.version + '｜本番の出題数とは異なります';
+  renderStart();
+})();
+</script>
+</body>
+</html>
