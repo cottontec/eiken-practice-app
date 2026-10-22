@@ -1,6 +1,7 @@
 ---
 choices: the lives of elderly people | the local school students | people with pets | young parents in the town
 answerText: the lives of elderly people
+reviewed: yes
 ---
 【正解】1 the lives of elderly people（お年寄りの生活）
 【和訳】
@@ -16,7 +17,7 @@ answerText: the lives of elderly people
 どんな人に特に大きな変化があったのかは、すぐあとの2つの文から分かります。
 ・Many of them live on their own and find it difficult to travel to visit family or friends.（彼らの多くは一人で暮らしていて、家族や友人を訪ねるために出かけることを難しいと感じている）
 ・In fact, some seniors do not have the chance to have a conversation for days or even weeks.（実際、何日も、あるいは何週間も、会話をする機会がないお年寄りもいる）
-Many of them の them は、空所に入る人々を指しています。そして次の文で seniors（お年寄り）の話が続きます。seniors は elderly people（お年寄り）の言いかえです。一人で暮らし、人と話す機会が少ないお年寄りにとって、おしゃべりベンチは大きな助けになると考えられます。ですから1が正解です。
+Many of them の them は、空所に入る人々（1なら elderly people）を指しています。そして次の文で seniors（お年寄り）の話が続きます。seniors は elderly people（お年寄り）の言いかえです。一人で暮らし、人と話す機会が少ないお年寄りにとって、おしゃべりベンチは大きな助けになると考えられます。ですから1が正解です。
 【ほかの選択肢】
 2 「地元の学校の生徒たち」を入れると、them が生徒たちを指すことになります。しかしあとの文は seniors（お年寄り）の話で、生徒の話は出てきません。
 3 「ペットを飼っている人々」を入れると、ペットの話になります。本文にはペットのことは書かれておらず、あとに続くお年寄りの話とつながりません。

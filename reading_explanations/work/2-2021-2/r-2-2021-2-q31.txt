@@ -1,6 +1,7 @@
 ---
 choices: Because they did not want to look the same as men in nearby countries. | Because they did not agree with the rules about shaving their beards. | Because they hoped to appear wiser than other people in their community. | Because they were showing their respect for religious leaders in India.
 answerText: Because they did not want to look the same as men in nearby countries.
+reviewed: yes
 ---
 【正解】1 Because they did not want to look the same as men in nearby countries.（近くの国々の男性と同じように見られたくなかったから。）
 【和訳】
@@ -21,7 +22,7 @@ so (that) they would ～ は「～するように、～するために」と目�
 「ほかの国々の人々とは違って見える」が「近くの国々の男性と同じように見られたくない」に、these other nations が nearby countries（近くの国々）に言いかえられています。ですから1が正解です。
 【ほかの選択肢】
 2 本文には there were strict rules preventing men from shaving or cutting their beards（男性がひげをそったり切ったりすることを禁じる厳しい決まりがあった）とあります。しかし、男性たちがその決まりに反対だったとは、本文のどこにも書かれていません。
-3 第2段落の初めに long beards have been seen as a sign of wisdom（長いひげは知恵のしるしと見なされてきた）とありますが、これは「多くの文化で」の話です。歴史家が挙げた古代イスラエルの理由は、ほかの国々の人と違って見えるためで、同じ社会の人より賢く見えるためではありません。
+3 第2段落の初めに long beards have been seen as a sign of wisdom（長いひげは知恵のしるしと見なされてきた）とありますが、これは「多くの文化で」の話です。歴史家が挙げた古代イスラエルの理由は、ほかの国々の人と違って見えるためです。同じ社会のほかの人より賢く見られたかったとは書かれていません。
 4 インドの宗教の指導者の話は、長いひげが知恵のしるしとされてきた文化の例として出てくるものです。古代イスラエルの人々がインドの指導者を尊敬していたとは書かれていません。
 【覚えるポイント】
 ・so (that) ＋主語＋ would ～：「～するように、～するために」と目的を表します。

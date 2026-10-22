@@ -1,0 +1,29 @@
+---
+choices: The sunshine in the area means that some plants can actually grow better there. | The Sonoran Desert gets enough rain twice a year to allow the plants to grow. | There are few human beings or wild animals living in the region that eat them. | There is one kind of soil in the desert that almost any plant can grow in.
+answerText: The Sonoran Desert gets enough rain twice a year to allow the plants to grow.
+---
+【正解】2 The Sonoran Desert gets enough rain twice a year to allow the plants to grow.（ソノラ砂漠には年に2回、植物が育つのに十分な雨が降る。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ソノラ砂漠で2,000種を超えるさまざまな種類の植物が生き延びられる理由の1つは何ですか。
+1 その地域の日光のおかげで、一部の植物は実際にそこでよりよく育つことができる。
+2 ソノラ砂漠には年に2回、植物が育つのに十分な雨が降る。
+3 その地域には、植物を食べる人間や野生動物がほとんど住んでいない。
+4 砂漠には、ほとんどどんな植物でも育つことができる1種類の土がある。
+【考え方】
+第2段落に There are two reasons why the Sonoran Desert has so many species of plants.（ソノラ砂漠にこれほど多くの種類の植物がある理由は2つある）とあり、そのあとに理由が2つ書かれています。
+・1つ目：it contains a variety of types of soil（さまざまな種類の土がある）
+・2つ目：although the desert is mostly dry, it rains a couple of times each year—once in the winter and once in the summer. This rain is enough for some kinds of plants to survive.（砂漠はたいてい乾燥しているが、毎年2回ほど、冬に1回と夏に1回、雨が降る。この雨は、一部の種類の植物が生き延びるのに十分だ）
+本文と選択肢を対にすると、次のようになります。
+本文 once in the winter and once in the summer（冬に1回、夏に1回）＝ 選択肢 twice a year（年に2回）
+本文 This rain is enough for some kinds of plants to survive（この雨は一部の種類の植物が生き延びるのに十分だ）→ 選択肢 gets enough rain ... to allow the plants to grow（植物が育つのに十分な雨が降る）
+2つ目の理由を、選択肢は「年に2回、植物が育つのに十分な雨が降る」とまとめています。2が正解です。
+【ほかの選択肢】
+1 日光（sunshine）については、本文に書かれていません。本文には the Sonoran Desert is hot and dry（暑くて乾燥している）とあるだけで、日光のおかげでよりよく育つという話はありません。
+3 植物を食べる人間や野生動物が少ないという話は、本文にありません。本文に書かれている2つの理由は、土の種類が多いことと、年に2回ほど雨が降ることです。
+4 本文には a variety of types of soil（さまざまな種類の土）があると書かれています。1種類の土ではないので、本文と合いません。
+【覚えるポイント】
+・a variety of ～：「さまざまな～」。
+・enough for ～ to ...：「～が…するのに十分な」。

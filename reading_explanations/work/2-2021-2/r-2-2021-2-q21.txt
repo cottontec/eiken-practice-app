@@ -1,6 +1,7 @@
 ---
 choices: understand technology | find new homes | start talking to others | begin doing exercise
 answerText: start talking to others
+reviewed: yes
 ---
 【正解】3 start talking to others（ほかの人と話し始める）
 【和訳】

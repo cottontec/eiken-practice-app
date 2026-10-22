@@ -1,14 +1,15 @@
 ---
 choices: drive off | make sure | pull down | take over
 answerText: take over
+reviewed: yes
 ---
 【正解】4 take over（引き継ぐ）
 【和訳】
 ビクターは学校の勉強で忙しすぎるので、もうバドミントン部のキャプテンを務めることができません。マイケルがキャプテンを（引き継ぐ）予定です。
 （選択肢の意味）1 車で走り去る、追い払う　2 確かめる、必ず～するようにする　3 引き下ろす、取り壊す　4 引き継ぐ
 【考え方】
-1文目は Victor cannot be captain of the badminton team anymore（ビクターはもうバドミントン部のキャプテンでいることはできない）で、その理由が because he is too busy with his schoolwork（学校の勉強で忙しすぎるから）です。not ～ anymore は「もう～ない」です。
-2文目は Michael is going to (　) as captain.（マイケルがキャプテンとして（　）する予定だ）です。ビクターがキャプテンをやめるので、だれかがその役目を受けつぐ必要があります。
+最初の文は Victor cannot be captain of the badminton team anymore（ビクターはもうバドミントン部のキャプテンでいることはできない）で、その理由が because he is too busy with his schoolwork（学校の勉強で忙しすぎるから）です。not ～ anymore は「もう～ない」です。
+次の文は Michael is going to (　) as captain.（マイケルがキャプテンとして（　）する予定だ）です。ビクターがキャプテンをやめるので、だれかがその役目を受けつぐ必要があります。
 take over は「（仕事や役目を）引き継ぐ」という意味です。take over as captain で「キャプテンとして引き継ぐ」、つまりマイケルが新しいキャプテンになるという意味になります。ですから4が正解です。
 【ほかの選択肢】
 1 drive off は「車で走り去る、追い払う」です。「マイケルがキャプテンとして走り去る」では、ビクターがキャプテンをやめる話とつながりません。

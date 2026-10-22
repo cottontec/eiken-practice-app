@@ -1,6 +1,7 @@
 ---
 choices: led to the creation of a number of beard clubs. | have special categories to allow women to take part. | are held every year in the city of Austin in Texas. | were canceled in the 1930s and returned in the 1960s.
 answerText: have special categories to allow women to take part.
+reviewed: yes
 ---
 【正解】2 have special categories to allow women to take part.（女性が参加できるように、特別な部門がある。）
 【和訳】
@@ -14,12 +15,13 @@ answerText: have special categories to allow women to take part.
 4 1930年代に中止になり、1960年代に再開された。
 【考え方】
 WBMC について書かれているのは第4段落の後半です。段落の最後に、次の文があります。
-The event even included competitions for fake beards in which women could participate.（この大会には、女性も参加できる、つけひげの競技さえあった）
-The event は、直前の文の2017年にオースティンで開かれた WBMC を指します。fake beards は「つけひげ（本物ではないひげ）」、participate は「参加する」です。in which women could participate は前の competitions for fake beards に説明を付け足していて、「女性が参加できる、つけひげの競技」という意味になります。even（さえ）は、「女性も参加できる競技まであった」という意外さを表しています。
+The event even included competitions for fake beards in which women could participate.（この大会には、女性が参加できる、つけひげの競技さえあった）
+The event は、直前の文の2017年にオースティンで開かれた WBMC を指します。fake beards は「つけひげ（本物ではないひげ）」、participate は「参加する」です。in which women could participate は前の competitions for fake beards に説明を付け足していて、「女性が参加できる、つけひげの競技」という意味になります。even（さえ）は、「女性が参加できる競技まであった」という意外さを表しています。
 本文と選択肢を対にすると、次のようになります。
 本文 competitions for fake beards in which women could participate → 選択肢 special categories to allow women to take part
 本文 participate ＝ 選択肢 take part
-「女性も参加できる、つけひげの競技」が、「女性が参加できるようにした特別な部門」とまとめて言いかえられています。take part は participate と同じ「参加する」です。ですから2が正解です。
+「女性が参加できる、つけひげの競技」が、「女性が参加できるようにした特別な部門」とまとめて言いかえられています。take part は participate と同じ「参加する」です。
+なお、本文でこの競技があったと書かれているのは In 2017（2017年）の大会についてです。選択肢2は、それを大会の特徴として現在形の have でまとめた言い方です。ほかの3つの選択肢は、次に見るように本文とはっきり食い違うので、本文に合うのは2だけです。ですから2が正解です。
 【ほかの選択肢】
 1 本文の順番は「ひげクラブ」→ WBMC です。Some of these clubs decided to start the World Beard and Moustache Championships（こうしたクラブのいくつかが、WBMC を始めることに決めた）とあるように、クラブが大会を始めたのであって、大会がクラブを生んだのではありません。関係が逆です。
 3 本文には which are held every two years（2年ごとに開かれている）とあるので、「毎年」ではありません。また、オースティンで開かれたのは In 2017（2017年に）の大会のことで、いつもオースティンで開かれるとは書かれていません。

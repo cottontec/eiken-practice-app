@@ -13,7 +13,7 @@ answerText: react so quickly
 4 lift such weights（そのような重さのものを持ち上げる）
 【考え方】
 空所は第1段落の Athletics organizations argue that no human can (24).（陸上競技の団体は、どんな人間も（24）ことはできないと主張している）です。no human can ～ は「どんな人間も～できない」という意味です。
-空所の前の文を確かめます。if an athlete moves before 0.1 seconds have passed after the shot is fired, this is also a false start（号砲が撃たれたあと0.1秒がたつ前に選手が動いた場合も、これもフライングになる）とあります。つまり、号砲のあと0.1秒より早く動くと、ルール違反になるということです。
+空所の前の文を確かめます。if an athlete moves before 0.1 seconds have passed after the shot is fired, this is also a false start（号砲が撃たれたあと0.1秒がたつ前に選手が動いた場合、これもフライングになる）とあります。つまり、号砲のあと0.1秒より早く動くと、ルール違反になるということです。
 空所のあとの文も見ます。They say that such an athlete must have been guessing when the shot would be fired rather than waiting to hear it.（そのような選手は、号砲を聞くのを待つのではなく、いつ号砲が撃たれるかを予想していたにちがいない、と彼らは言う）とあります。must have ＋過去分詞は「～したにちがいない」という意味です。
 団体の考えは、「人間は号砲を聞いてから0.1秒より早く動くことはできない。だから、そんなに早く動いた選手は、音を聞いて動いたのではなく、予想して動いたのだ」というものです。react so quickly（そんなに速く反応する）を入れると「どんな人間もそんなに速く反応することはできない」となり、前後の文とつながります。ですから1が正解です。
 【ほかの選択肢】

@@ -1,6 +1,7 @@
 ---
 choices: worked for a professional newspaper for three years. | is attaching four articles to his job application. | was the news editor at a college newspaper for a while. | often writes letters to one of his professors in college.
 answerText: was the news editor at a college newspaper for a while.
+reviewed: yes
 ---
 【正解】3 was the news editor at a college newspaper for a while.（しばらくの間、大学新聞のニュース編集者だった。）
 【和訳】
@@ -18,8 +19,8 @@ However, I wrote for the college newspaper, The Campus Daily, for three years.�
 In my third year there, I was also the news editor.（そこでの3年目には、ニュース編集者も務めました）
 news editor は、新聞のニュースの記事をまとめたり直したりする役目の人です。ロバートは大学新聞で3年間記事を書き、そのうちの3年目にはニュース編集者だったことが分かります。
 本文と選択肢を対にすると、次のようになります。
-本文 In my third year there, I was also the news editor ＝ 選択肢 was the news editor at a college newspaper for a while
-there は the college newspaper（大学新聞）を指します。in my third year（3年目に）という限られた期間が、for a while（しばらくの間）に言いかえられています。ですから3が正解です。
+本文 In my third year there, I was also the news editor → 選択肢 was the news editor at a college newspaper for a while
+there は the college newspaper（大学新聞）を指します。in my third year（3年目に）という限られた期間が、for a while（しばらくの間）とまとめて言いかえられています。ですから3が正解です。
 【ほかの選択肢】
 1 3年間記事を書いていたのは、学生が運営する大学新聞『キャンパス・デイリー』です。本文には I do not have any professional experience yet（まだ仕事としての経験はまったくない）とあるので、プロの新聞社で働いたことはありません。
 2 本文の four は I wrote at least four articles a week（1週間に少なくとも4本の記事を書いた）という、書いていた記事の数です。添付しているのは I am attaching one of those（それらのうちの1本を添付する）とあるように、1本だけです。数が違います。

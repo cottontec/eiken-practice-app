@@ -1,6 +1,7 @@
 ---
 choices: Indeed | Equally | On the contrary | For one thing
 answerText: Indeed
+reviewed: yes
 ---
 【正解】1 Indeed（実際、本当に）
 【和訳】

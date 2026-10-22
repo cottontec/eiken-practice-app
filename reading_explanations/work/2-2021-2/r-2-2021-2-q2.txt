@@ -1,6 +1,7 @@
 ---
 choices: manual | routine | domestic | formal
 answerText: domestic
+reviewed: yes
 ---
 【正解】3 domestic（国内の、自国の）
 【和訳】

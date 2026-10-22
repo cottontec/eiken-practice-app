@@ -1,6 +1,7 @@
 ---
 choices: Finding metals in the ocean was thought to be too difficult to do in the past. | New computers and smartphones use smaller amounts of rare metals than old ones. | Scientists discovered how to get metals from hydrothermal sea vents in the 1970s. | Some countries have made it illegal for companies to carry out deep-sea mining.
 answerText: Finding metals in the ocean was thought to be too difficult to do in the past.
+reviewed: yes
 ---
 【正解】1 Finding metals in the ocean was thought to be too difficult to do in the past.（かつては、海の中で金属を見つけることはあまりにも難しいと考えられていた。）
 【和訳】

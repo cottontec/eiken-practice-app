@@ -1,6 +1,7 @@
 ---
 choices: Helping students with English during the day. | Working extra hours late at night for his job. | Meeting with some other people that he knows. | Having an interview with Ms. Robinson for the job.
 answerText: Helping students with English during the day.
+reviewed: yes
 ---
 【正解】1 Helping students with English during the day.（日中に、生徒の英語の勉強を手伝っている。）
 【和訳】

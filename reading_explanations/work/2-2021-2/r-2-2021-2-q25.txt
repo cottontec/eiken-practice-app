@@ -1,6 +1,7 @@
 ---
 choices: Later on | At last | In other words | On the other hand
 answerText: On the other hand
+reviewed: yes
 ---
 【正解】4 On the other hand（一方、それに対して）
 【和訳】

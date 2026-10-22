@@ -1,6 +1,7 @@
 ---
 choices: He read an advertisement for it in the newspaper. | He heard about it from someone at his college. | He saw a posting for it on The Matlock Post website. | He received an e-mail about the job from a friend.
 answerText: He read an advertisement for it in the newspaper.
+reviewed: yes
 ---
 【正解】1 He read an advertisement for it in the newspaper.（彼は新聞でその仕事の広告を読んだ。）
 【和訳】

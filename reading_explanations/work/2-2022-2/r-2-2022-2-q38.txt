@@ -1,0 +1,29 @@
+---
+choices: The method of collecting saguaro fruit is endangering the plants that it grows on. | The name of the Tohono O'odham tribe comes from its people's favorite food. | The soil in the Sonoran Desert is different in the winter and in the summer. | The Tohono O'odham people have a tradition of collecting fruit in family groups.
+answerText: The Tohono O'odham people have a tradition of collecting fruit in family groups.
+---
+【正解】4 The Tohono O'odham people have a tradition of collecting fruit in family groups.（トホノ・オオダムの人々には、家族単位で実を集める伝統がある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：次の記述のうち、正しいものはどれですか。
+1 サワロの実を集める方法が、その実がなる植物を絶滅の危機にさらしている。
+2 トホノ・オオダム族の名前は、その人々の大好物の食べ物に由来している。
+3 ソノラ砂漠の土は、冬と夏とで違う。
+4 トホノ・オオダムの人々には、家族単位で実を集める伝統がある。
+【考え方】
+第3段落に、サワロの実の集め方が書かれています。
+When the fruit is ready to eat, families work together to knock it down from the cactuses and collect it.（実が食べごろになると、家族で協力してサボテンから実をたたき落とし、集める）
+また、第4段落の最後には some Tohono O'odham people have begun bringing back their tribe's endangered traditions, including collecting and eating saguaro fruit（一部のトホノ・オオダムの人々が、サワロの実を集めて食べることを含め、失われかけている部族の伝統を復活させ始めている）とあります。実を集めることが、部族の伝統の1つであることが分かります。
+本文と選択肢を対にすると、次のようになります。
+本文 families work together（家族で協力する）＝ 選択肢 in family groups（家族単位で）
+本文 their tribe's ... traditions, including collecting ... saguaro fruit（サワロの実を集めることを含む部族の伝統）＝ 選択肢 a tradition of collecting fruit（実を集める伝統）
+2つの段落の内容を合わせると、4の内容になります。4が正解です。
+【ほかの選択肢】
+1 本文の endangered（絶滅の危機にある、失われかけている）は、トホノ・オオダムの伝統について使われている語です。実の集め方がサボテンを危険にさらしているという話はありません。
+2 第1段落には the name of this tribe means "desert people" in their own language（この部族の名前は、彼ら自身の言葉で「砂漠の人々」という意味だ）とあります。大好物の食べ物から名前がついたのではありません。
+3 第2段落で冬と夏について書かれているのは、once in the winter and once in the summer（冬に1回、夏に1回）雨が降るということです。土が季節によって違うという話ではありません。土については、a variety of types of soil（さまざまな種類の土）があるとだけ書かれています。
+【覚えるポイント】
+・endangered：「絶滅の危機にある、失われかけている」。生き物だけでなく、伝統などにも使います。
+・work together：「協力する、いっしょに作業する」。

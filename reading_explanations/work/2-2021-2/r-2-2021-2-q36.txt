@@ -1,6 +1,7 @@
 ---
 choices: They contain special metals that were only discovered recently. | They are full of powerful acids that are uncommon in the ocean. | Unusual animals that do not rely on the sun for energy live there. | The heat they create could be used as a source of energy.
 answerText: Unusual animals that do not rely on the sun for energy live there.
+reviewed: yes
 ---
 【正解】3 Unusual animals that do not rely on the sun for energy live there.（エネルギーを太陽に頼らない、めずらしい動物がそこに住んでいる。）
 【和訳】

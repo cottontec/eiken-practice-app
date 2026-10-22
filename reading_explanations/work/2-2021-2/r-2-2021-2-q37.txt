@@ -1,6 +1,7 @@
 ---
 choices: Governments might fight each other for the best deep-sea mining areas. | Scientists will have to work hard to invent the technology needed for it. | It will cost a lot of money to move the creatures living around the vents. | People might try to stop it because of possible damage to the environment.
 answerText: People might try to stop it because of possible damage to the environment.
+reviewed: yes
 ---
 【正解】4 People might try to stop it because of possible damage to the environment.（環境に害を与えるおそれがあるため、人々がそれを止めようとするかもしれない。）
 【和訳】

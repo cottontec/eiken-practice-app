@@ -1,6 +1,7 @@
 ---
 choices: obliged to | capable of | particular about | sufficient for
 answerText: sufficient for
+reviewed: yes
 ---
 【正解】4 sufficient for（～に十分な、～に足りる）
 【和訳】

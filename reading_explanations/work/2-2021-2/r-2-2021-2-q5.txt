@@ -1,6 +1,7 @@
 ---
 choices: evidence | harmony | rhythm | praise
 answerText: evidence
+reviewed: yes
 ---
 【正解】1 evidence（証拠）
 【和訳】
@@ -8,12 +9,12 @@ answerText: evidence
 （選択肢の意味）1 証拠　2 調和、ハーモニー　3 リズム　4 称賛、ほめ言葉
 【考え方】
 空所のあとの that showed the man had robbed the bank に注目します。that は前の名詞（空所の語）に説明を付け足す働きをしていて、「その男が銀行強盗をしたことを示す（　）」という意味になります。rob は「（銀行・人など）から奪う、強盗をする」です。
-2文目には His face could be seen on a video taken by the bank's security cameras.（銀行の防犯カメラで撮影された映像で、彼の顔を見ることができた）とあります。防犯カメラの映像に顔が映っていたことは、その男が強盗をしたことを示すものになります。
+あとの文には His face could be seen on a video taken by the bank's security cameras.（銀行の防犯カメラで撮影された映像で、彼の顔を見ることができた）とあります。防犯カメラの映像に顔が映っていたことは、その男が強盗をしたことを示すものになります。
 このように、ある事実を示すもののことを evidence（証拠）と言います。The police had evidence that ～ で「警察には～を示す証拠があった」となるので、1が正解です。
 【ほかの選択肢】
 2 harmony は「調和、ハーモニー」です。「強盗をしたことを示す調和」では意味が通りません。
 3 rhythm は「リズム」です。音楽などの調子を表す語で、強盗をしたことを示すものにはなりません。
-4 praise は「称賛、ほめ言葉」です。警察が強盗をした男についてのほめ言葉を持っているというのは、2文目の防犯カメラの話とも合いません。
+4 praise は「称賛、ほめ言葉」です。警察が強盗をした男についてのほめ言葉を持っているというのは、あとの文の防犯カメラの話とも合いません。
 【覚えるポイント】
 ・evidence：「証拠」。数えられない名詞なので、ふつう an evidence とは言いません。
 ・rob A：「A（銀行・人など）から奪う、強盗をする」。rob a bank で「銀行強盗をする」。

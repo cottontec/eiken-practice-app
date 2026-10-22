@@ -1,6 +1,7 @@
 ---
 choices: reflect | define | investigate | connect
 answerText: connect
+reviewed: yes
 ---
 【正解】4 connect（つなぐ）
 【和訳】

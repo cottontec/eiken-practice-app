@@ -1,6 +1,7 @@
 ---
 choices: submit | beat | convert | imply
 answerText: submit
+reviewed: yes
 ---
 【正解】1 submit（提出する）
 【和訳】

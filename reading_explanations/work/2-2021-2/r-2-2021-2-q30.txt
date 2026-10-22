@@ -1,6 +1,7 @@
 ---
 choices: studied how attitudes to beards have changed in different cultures over time. | discovered that certain chemicals make hair grow on the faces of teenage boys. | had the idea that beards are a way for men to be more attractive to women. | supported a theory about beards that was suggested by a group of scientists.
 answerText: had the idea that beards are a way for men to be more attractive to women.
+reviewed: yes
 ---
 【正解】3 had the idea that beards are a way for men to be more attractive to women.（ひげは、男性が女性にとってより魅力的になるための手段だという考えを持っていた。）
 【和訳】
@@ -18,7 +19,7 @@ The scientist Charles Darwin suggested that men produce beards in order to be ap
 suggest は「（考えを）唱える、示す」、in order to ～ は「～するために」、appealing は「魅力的な、心をひきつける」です。females は「女性」のことです。
 本文と選択肢を対にすると、次のようになります。
 本文 suggested that ～ ＝ 選択肢 had the idea that ～
-本文 men produce beards in order to be appealing to females ＝ 選択肢 beards are a way for men to be more attractive to women
+本文 men produce beards in order to be appealing to females → 選択肢 beards are a way for men to be more attractive to women
 「～と唱えた」が「～という考えを持っていた」に、「女性にとって魅力的であるためにひげを生やす」が「ひげは女性にとってより魅力的になるための手段だ」に言いかえられています。attractive は appealing とほぼ同じ「魅力的な」という意味です。more attractive は比較級（「より～」を表す形）で、ひげを生やすことで、生やさない場合よりも魅力的になるということです。ですから3が正解です。
 【ほかの選択肢】
 1 ひげに対する考え方が文化によって違うことは、Looking at history, however, it is clear that ～（しかし、歴史を見ると～は明らかだ）と、ダーウィンの説のあとに書き手が述べている内容です。ダーウィンがそれを研究したとは書かれていません。

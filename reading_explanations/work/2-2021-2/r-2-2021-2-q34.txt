@@ -1,6 +1,7 @@
 ---
 choices: Changes in technology have made it easy and cheap to do so. | The metals needed for manufacturing goods cannot be found on land. | There is more demand for certain kinds of metals which are hard to find. | They cannot dig any deeper into the ground to find rare metals.
 answerText: There is more demand for certain kinds of metals which are hard to find.
+reviewed: yes
 ---
 【正解】3 There is more demand for certain kinds of metals which are hard to find.（見つけるのが難しい、ある種の金属の需要が（前より）高まっている。）
 【和訳】

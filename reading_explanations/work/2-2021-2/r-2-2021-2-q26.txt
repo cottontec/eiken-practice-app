@@ -1,6 +1,7 @@
 ---
 choices: feeding cows too much | losing many animals | wild animals attacking | young cows staying healthy
 answerText: losing many animals
+reviewed: yes
 ---
 【正解】2 losing many animals（多くの動物を失う）
 【和訳】

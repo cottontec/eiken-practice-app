@@ -1,6 +1,7 @@
 ---
 choices: The Romans thought that important people should not be allowed to grow them. | Roman boys would never shave their faces until they had grown long beards. | Beards were unpopular for around 300 years before becoming popular again. | Their attitudes had an effect on fashions in Europe during the 17th century.
 answerText: Beards were unpopular for around 300 years before becoming popular again.
+reviewed: yes
 ---
 【正解】3 Beards were unpopular for around 300 years before becoming popular again.（ひげは約300年の間人気がなかったが、その後再び人気になった。）
 【和訳】

@@ -1,19 +1,20 @@
 ---
 choices: rescuing | flattering | composing | declaring
 answerText: composing
+reviewed: yes
 ---
 【正解】3 composing（作曲すること）
 【和訳】
 ヨハンの趣味は、音楽を（作曲すること）です。彼は妻の誕生日のために美しい曲を書き、彼女の誕生日パーティーでそれをピアノでひきました。
 （選択肢の意味）1 救助すること　2 お世辞を言うこと　3 作曲すること　4 宣言すること
 【考え方】
-空所は Johann's hobby is (　) music.（ヨハンの趣味は音楽を（　）することです）の部分です。どの選択肢も -ing の形で、「～すること」という意味になります。music（音楽）とどう結びつくかを、2文目から考えます。
-2文目は He wrote a beautiful song for his wife's birthday（彼は妻の誕生日のために美しい曲を書いた）です。ここでの write a song は「曲を書く」、つまり曲を作るという意味です。そのあと played it on the piano（それをピアノでひいた）と続きます。
+空所は Johann's hobby is (　) music.（ヨハンの趣味は音楽を（　）することです）の部分です。どの選択肢も -ing の形で、「～すること」という意味になります。music（音楽）とどう結びつくかを、あとの文から考えます。
+あとの文は He wrote a beautiful song for his wife's birthday（彼は妻の誕生日のために美しい曲を書いた）です。ここでの write a song は「曲を書く」、つまり曲を作るという意味です。そのあと played it on the piano（それをピアノでひいた）と続きます。
 自分で曲を作っていることから、ヨハンの趣味は音楽を作ることだと分かります。compose は「（曲などを）作る、作曲する」という意味なので、composing music で「音楽を作曲すること」となります。ですから3が正解です。
 【ほかの選択肢】
 1 rescuing は rescue（救助する）の -ing 形です。「音楽を救助すること」では意味が通りません。
 2 flattering は flatter（お世辞を言う、おだてる）の -ing 形です。flatter は人に対して使う語で、「音楽にお世辞を言うこと」は趣味として意味が通らず、曲を作った話ともつながりません。
-4 declaring は declare（宣言する、はっきり言う）の -ing 形です。「音楽を宣言すること」では意味が通らず、2文目の曲を作ってひいた話とも合いません。
+4 declaring は declare（宣言する、はっきり言う）の -ing 形です。「音楽を宣言すること」では意味が通らず、あとの文の、曲を作ってひいた話とも合いません。
 【覚えるポイント】
 ・compose：「（曲などを）作る、作曲する」。曲を作る人を composer（作曲家）と言います。
 ・write a song：「曲を書く」。曲を作るという意味でも使います。

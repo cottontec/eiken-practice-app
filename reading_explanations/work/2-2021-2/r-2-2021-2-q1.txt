@@ -1,6 +1,7 @@
 ---
 choices: luckily | commonly | politely | silently
 answerText: politely
+reviewed: yes
 ---
 【正解】3 politely（礼儀正しく、ていねいに）
 【和訳】

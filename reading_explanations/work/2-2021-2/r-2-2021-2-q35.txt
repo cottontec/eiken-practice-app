@@ -1,6 +1,7 @@
 ---
 choices: began appearing in rocks on the seafloor during the last few decades. | are places where seawater heated by rocks under the seafloor comes out. | absorb substances containing metals and keep them deep inside the earth. | send up rocks from deep inside the earth and drop them on the seafloor.
 answerText: are places where seawater heated by rocks under the seafloor comes out.
+reviewed: yes
 ---
 【正解】2 are places where seawater heated by rocks under the seafloor comes out.（海底の下の岩によって熱せられた海水が出てくる場所である。）
 【和訳】
@@ -19,7 +20,7 @@ answerText: are places where seawater heated by rocks under the seafloor comes o
 seafloor は「海底」、push through ～ は「～を突き抜ける」です。海水が熱い岩のあるところまで流れこんで熱くなり、海底を突き抜けて海へ出てくる、という流れです。また、These places（こうした場所）と呼ばれているように、熱水噴出孔は「場所」です。
 本文と選択肢を対にすると、次のようになります。
 本文 seawater flows deep inside the earth, where the rocks are very hot ／ As the water gets hotter → 読み取れること：海水は、海底の下の深いところにある、とても熱い岩によって熱せられる（選択肢 seawater heated by rocks under the seafloor）
-本文 pushes through the seafloor, and returns to the ocean ＝ 選択肢 comes out
+本文 pushes through the seafloor, and returns to the ocean → 選択肢 comes out
 海水が流れこむ地球の内部深くは、海底のさらに下にあたります。そこで熱い岩にふれて熱くなった海水が、海底を突き抜けて海へ戻る、つまり「出てくる」のです。ですから2が正解です。
 【ほかの選択肢】
 1 第2段落の In the last few decades（ここ数十年の間に）は、希少な金属が見つかる場所が have been discovered（発見されてきた）時期です。熱水噴出孔がその時期に現れ始めたとは書かれていません。発見された時期とできた時期を取り違えています。

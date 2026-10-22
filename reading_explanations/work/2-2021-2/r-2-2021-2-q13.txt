@@ -1,6 +1,7 @@
 ---
 choices: worse | further | better | nothing
 answerText: nothing
+reviewed: yes
 ---
 【正解】4 nothing（to say nothing of ～ で「～は言うまでもなく」）
 【和訳】

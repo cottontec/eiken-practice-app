@@ -1,0 +1,28 @@
+---
+choices: did not know which class to sign up for. | had never studied Spanish before. | wanted more information about teaching methods. | was at high school with one of the instructors.
+answerText: did not know which class to sign up for.
+---
+【正解】1 did not know which class to sign up for.（どのクラスに申しこめばよいか分からなかった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ミッチェルさんは、自分が～と言った。
+1 どのクラスに申しこめばよいか分からなかった
+2 以前にスペイン語を勉強したことが一度もなかった
+3 教え方についてもっと情報がほしかった
+4 講師の1人と同じ高校に通っていた
+【考え方】
+設問は、メールを受け取ったミッチェルさんが言ったこと（カレンに伝えていたこと）をたずねています。メールの中で、ミッチェルさんの言ったことを示しているのは、第2段落の You mentioned that ～（あなたは～とおっしゃっていました）です。
+You mentioned that because you studied Spanish in high school but had not used it for several years, you were not sure which lesson to take.（あなたは、高校でスペイン語を勉強したものの、数年間使っていなかったので、どのレッスンを受ければよいか分からないとおっしゃっていました）
+be not sure ～ は「～がよく分からない、～に自信がない」、which lesson to take は「どのレッスンを受ければよいか」という意味です。
+本文と選択肢を対にすると、次のようになります。
+本文 you were not sure which lesson to take（どのレッスンを受ければよいか分からなかった）＝ 選択肢 did not know which class to sign up for（どのクラスに申しこめばよいか分からなかった）
+were not sure（よく分からなかった）が did not know（知らなかった、分からなかった）に、lesson（レッスン）が class（クラス）に、take（受ける）が sign up for（～に申しこむ）に言いかえられています。ですから1が正解です。
+【ほかの選択肢】
+2 本文に you studied Spanish in high school（あなたは高校でスペイン語を勉強した）とあります。スペイン語を勉強したことはあるので、本文と反対の内容です。
+3 第2段落の最後に、学校の教え方を知るための20分間の無料の個人レッスンがあると書かれていますが、これはカレンが学校の案内として述べていることです。ミッチェルさんが教え方の情報をほしいと言ったとは書かれていません。
+4 本文の high school は、ミッチェルさんがスペイン語を勉強した場所として出てくるだけです。講師と同じ高校に通っていたという話は本文にありません。
+【覚えるポイント】
+・You mentioned that ～：「あなたは～とおっしゃっていました」。メールで相手の言ったことを示す言い方です。
+・be not sure + which ～ to ...：「どの～を…すればよいか分からない」。

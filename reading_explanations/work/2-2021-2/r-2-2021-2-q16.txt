@@ -1,6 +1,7 @@
 ---
 choices: run | burst | talk | divide
 answerText: talk
+reviewed: yes
 ---
 【正解】3 talk（talk ＋人＋ into ～ing で「（人）を説得して～させる」）
 【和訳】
