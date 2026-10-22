@@ -16,7 +16,7 @@
 - r-pre1-2026-2-q31：「この問題の型」の「具体例とまとめ」が中身（楽観的な見方→可能性）に合わないため「推論」に直した（軽微）
 
 ## 要確認
-- r-pre1-2026-2-q3：Emir「エミール」、Corinne「コリーヌ」（「エミル」「コリン」などの読みもありうる。冊子に読みなし）→（エミル・コリンとも）を併記済み
+- r-pre1-2026-2-q3：Emir「エミール」、Corinne「コリーヌ」（「エミル」「コリン」などの読みもありうる。冊子に読みなし）→ エミールに（エミルとも）を併記済み。Corinne の「コリン」は男性名 Colin と紛れるため、取りまとめ役の判断で併記しない
 - r-pre1-2026-2-q27：正解4の「景気後退から立ち直るのが難しくなる」は、本文の loses its ability to protect ～ from deeper economic harm と a source of economic activity that could lessen the impact of job losses を失うことからの読み取り（直接の言いかえではない）。解説でもそう明示した。ほかの3つは本文から読み取れず、正解は一意。出題として許容できるかの最終判断のみ人の目で
 - r-pre1-2026-2-q28：English を「イングランドの」、Britain/British を「イギリス」と書き分けている（17世紀の English explorer / English trading company は「イングランド」が歴史の記述として自然）。表記方針をそろえたい場合のみ全訳 reading28 を調整
 - r-pre1-2026-2-q30：Battle of Waterloo を日本で定着した「ワーテルローの戦い」としている（英語の読みは「ウォータールー」）→（ウォータールーの戦いとも）を併記済み

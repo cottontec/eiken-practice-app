@@ -10,7 +10,7 @@
 - r-pre1-2016-2-q38：全訳（reading38）の suggesting を「示している」から「示唆している」に直し、断定の強さを原文に合わせた（q39～q41 の全訳も同じ）（軽微）
 
 ## 要確認
-- r-pre1-2016-2-q29：Ancient Pueblo people / Ancient Puebloans を「古代プエブロの人々／古代プエブロ人」と訳した。日本語では「アナサジ」「祖先プエブロ人」などの呼び名もあるので、冊子や使う用語集に合わせるか確認（q30・q31 と共通の全訳）
+- r-pre1-2016-2-q29：Ancient Pueblo people / Ancient Puebloans を「古代プエブロの人々／古代プエブロ人」と訳した。日本語では「アナサジ」「祖先プエブロ人」などの呼び名もあるので、冊子や使う用語集に合わせるか確認（q30・q31 と共通の全訳）　→（アナサジとも）を併記済み
 - r-pre1-2016-2-q26：University of Applied Sciences and Arts Northwestern Switzerland を「北西スイス応用科学芸術大学」と訳した（日本語の定訳は未確認。q27・q28 と共通の全訳）
-- r-pre1-2016-2-q32：Federation of Quebec Maple Syrup Producers を「ケベック・メープルシロップ生産者連盟」と訳した（「ケベック州～」とする表記もあるが定訳は未確認。q33・q34 と共通の全訳）
+- r-pre1-2016-2-q32：Federation of Quebec Maple Syrup Producers を「ケベック・メープルシロップ生産者連盟」と訳した（「ケベック州～」とする表記もあるが定訳は未確認。q33・q34 と共通の全訳）　→（ケベック州メープルシロップ生産者連盟とも）を併記済み
 - r-pre1-2016-2-q38：本文の the human stomach / in our stomach は、腸内細菌の話なので「おなかの中」と訳し、選択肢3の stomach illnesses / the stomach は「胃の病気」「胃」と訳した。訳し分けの方針でよいか確認（q39～q41 の全訳にも関係）

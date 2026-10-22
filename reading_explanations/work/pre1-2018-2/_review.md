@@ -13,9 +13,9 @@
 - 全41解答欄に reviewed: yes を付けた
 
 ## 要確認
-- r-pre1-2018-2-q26：Kiril Vaglenov「キリル・バグレノフ」（「ヴァグレノフ」とも書ける）。Ashok Srinivasan「アショク・スリニバサン」。冊子に読みなし（q27・q28も同じ本文）
+- r-pre1-2018-2-q26：Kiril Vaglenov「キリル・バグレノフ」（「ヴァグレノフ」とも書ける）。Ashok Srinivasan「アショク・スリニバサン」。冊子に読みなし（q27・q28も同じ本文）　→（キリル・ヴァグレノフとも）を併記済み
 - r-pre1-2018-2-q30：Dr. Drew Watson は本文から職業が分からないため「ドリュー・ワトソンさん」とした（q29・q31も同じ本文）
-- r-pre1-2018-2-q31：Timothy McGuine「ティモシー・マクギン」（「マクグワイン」の可能性あり）
+- r-pre1-2018-2-q31：Timothy McGuine「ティモシー・マクギン」（「マクグワイン」の可能性あり）　→（ティモシー・マクグワインとも）を併記済み
 - r-pre1-2018-2-q32：voluntourism「ボランツーリズム」（volunteer＋tourism の造語。「ボランティア旅行」とする書き方もある）。Lexy Adams「レクシー・アダムズ」（q33・q34も同じ本文）
 - r-pre1-2018-2-q35：Oregon Department of Environmental Quality「オレゴン州環境品質局」、Orthotrichum lyellii は定着した和名が見当たらず「オルトトリクム・ライエリー」と学名併記（q36・q37も同じ本文）
-- r-pre1-2018-2-q38：Marielitos「マリエリートス」（「マリエリトス」「マリエル難民」とも書かれる）。George Borjas「ジョージ・ボージャス」（q39～q41も同じ本文）
+- r-pre1-2018-2-q38：Marielitos「マリエリートス」（「マリエリトス」「マリエル難民」とも書かれる）。George Borjas「ジョージ・ボージャス」（q39～q41も同じ本文）　→（マリエリトス、マリエル難民とも）を併記済み
