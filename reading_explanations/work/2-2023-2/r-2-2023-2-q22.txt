@@ -1,0 +1,26 @@
+---
+choices: made objects on | rarely visited | had heard stories about | could walk to it from
+answerText: could walk to it from
+---
+【正解】4 could walk to it from（～からそこへ歩いて行くことができた）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 made objects on（～の上で物を作った）
+2 rarely visited（～をめったに訪れなかった）
+3 had heard stories about（～についての話を聞いたことがあった）
+4 could walk to it from（～からそこへ歩いて行くことができた）
+【考え方】
+空所は第2段落の Before that, people (22) the European continent.（それより前には、人々はヨーロッパ大陸（22））です。Before that（それより前には）の that が何を指すかを、直前の文で確かめます。
+In fact, research shows that Britain did not become an island until about 8,000 years ago.（実際、研究によって、イギリスは約8,000年前になるまで島ではなかったことが分かっている）
+not ～ until ... は「…になるまで～しない」、つまり「…になってやっと～する」という意味です。イギリスが島になったのは約8,000年前で、それより前は島ではなかった、つまり大陸と陸でつながっていたということになります。
+さらに、空所のすぐあとの文も手がかりになります。The huge piece of land that once connected Britain and the European continent has been given the name Doggerland.（かつてイギリスとヨーロッパ大陸をつないでいた巨大な陸地は、ドッガーランドという名前を付けられている）とあり、イギリスと大陸が陸でつながっていたことがはっきり書かれています。
+陸でつながっていたなら、人々は大陸からイギリスへ歩いて行けたはずです。4の could walk to it from を入れると people could walk to it from the European continent（人々はヨーロッパ大陸からそこへ歩いて行くことができた）となります。it は前の文の Britain（イギリス）を指しています。ですから4が正解です。
+【ほかの選択肢】
+1 made objects on を入れると「人々はヨーロッパ大陸の上で物を作った」となります。本文には古代の物が見つかった話はありますが、この文は直前の「イギリスがまだ島ではなかった」を受けて、陸のつながりを説明する部分です。大陸で物を作ったことは、そのつながりの説明になりません。
+2 rarely visited を入れると「人々はヨーロッパ大陸をめったに訪れなかった」となります。陸でつながっていて行き来しやすかったという流れとは反対の内容で、本文にもそのようなことは書かれていません。
+3 had heard stories about を入れると「人々はヨーロッパ大陸についての話を聞いたことがあった」となります。話を聞いたかどうかは、イギリスが島ではなかったことや、陸がつながっていたこととは関係がありません。
+【覚えるポイント】
+・not ～ until ...：「…になるまで～しない、…になってやっと～する」。
+・Before that（それより前には）の that のような指示語（前に出た内容を指す語）は、直前の文から何を指すか確かめます。
