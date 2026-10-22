@@ -1,0 +1,20 @@
+---
+choices: seen | from | he was last | driving away | the
+answerText: from
+order: 3 1 4 2 5
+---
+【正解】2 from（この問題の4番目）
+【完成文】
+The police are trying to find the man who robbed Central Bank this morning. ( He was last seen driving away from the ) bank in a blue car. The police hope that anyone with information will contact them.
+並べ方：3 he was last → 1 seen → 4 driving away → 2 from → 5 the（2番目は1、4番目は2）
+【和訳】
+警察は、今朝セントラル銀行で強盗をはたらいた男を探しています。その男は、青い車で銀行から走り去るところを目撃されたのが最後です。警察は、情報を持っている人ならだれでも連絡してくれることを望んでいます。
+【考え方】
+前半の組み立てから確認します。3 he was last の he は、前の文の「セントラル銀行で強盗をはたらいた男」を指します。was のあとに 1 seen を続けると、was last seen（最後に目撃された）という受け身（「～される」という形）になります。
+目撃されたときに何をしていたかは、seen のすぐあとに ～ing の形で続けます。そこで3番目は 4 driving away（車で走り去っている）です。
+では4番目は何でしょうか。空所のすぐあとには bank があり、さらに in a blue car（青い車で）が続きます。「銀行から走り去った」という意味にするには、drive away from ～（～から走り去る）の from が必要です。from のあとに、名詞の前に置く 5 the を続けると from the bank となります。
+したがって4番目は2 from です。
+the from bank のように the を先に置くと、the のあとに名詞ではなく from がきてしまうので、文が成り立ちません。
+【覚えるポイント】
+・away from ～：「～から離れて」。drive away from ～ で「車で～から走り去る」。
+・the ＋ 名詞：the のすぐあとには名詞（またはそれを説明する語）がきます。

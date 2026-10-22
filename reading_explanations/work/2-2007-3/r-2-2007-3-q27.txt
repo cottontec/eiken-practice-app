@@ -1,0 +1,24 @@
+---
+choices: refer | answer | remove | appeal
+answerText: appeal
+---
+【正解】4 appeal（appeal to ～ で「～の心に訴える、～の興味をひく」）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 refer：（refer to ～ で）～に言及する、～を参照する
+2 answer：～に答える
+3 remove：～を取り除く
+4 appeal：（appeal to ～ で）～の心に訴える、～の気に入る
+【考え方】
+空所は第2段落の Part of the skill of being a good contributor is being able to recognize which sites and stories will (　) to other people.（よい投稿者であるための技術の一部は、どのサイトや記事がほかの人々に〜するかを見分けられることだ）という文にあります。contributor は「投稿者」です。
+この段落の前のほうには、投稿者たちは competing to win the most votes（最も多くの票を勝ち取ろうと競い合う）ことを楽しんでいる、とあります。票を集めるには、ほかの人が「おもしろい」と感じる記事を選ぶ必要があります。また段落の最後にも、a title or summary that will catch people's attention（人々の注意をひく題名や要約）を考えることが大切だと書かれています。
+つまり、よい投稿者は「どの記事がほかの人の興味をひくか」を見抜けなければなりません。appeal to ～ は「～の心に訴える、～に気に入られる」という意味なので、4が正解です。空所のあとの to other people ともぴったりつながります。
+【ほかの選択肢】
+1 refer は refer to ～ で「～に言及する、～を参照する」です。「どの記事がほかの人々に言及するか」となり、票を集める技術の話とつながりません。
+2 answer は「～に答える」です。「どの記事がほかの人々に答えるか」となり、記事の選び方の説明として意味が通りません。
+3 remove は「～を取り除く」です。「どの記事がほかの人々に取り除くか」となり、意味が通りません。
+【覚えるポイント】
+・appeal to ～：「～の心に訴える、～の興味をひく」。
+・catch one's attention：「～の注意をひく」。この段落では appeal to と同じような内容を表しています。

@@ -1,0 +1,28 @@
+---
+choices: Hale once worked for a major drug company in India. | The iOWH expects to make a large profit from its drugs. | Many big drug companies are thinking about copying Hale's idea. | The company that first developed paromomycin did not fully test it.
+answerText: The company that first developed paromomycin did not fully test it.
+---
+【正解】4 The company that first developed paromomycin did not fully test it.（最初にパロモマイシンを開発した会社は、それを十分には試験しなかった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：次のうち正しいものはどれですか。
+1 ヘイルは以前、インドの大手製薬会社で働いていた。
+2 iOWHは、自分たちの薬から大きな利益を得ることを見込んでいる。
+3 多くの大手製薬会社が、ヘイルのアイデアをまねしようと考えている。
+4 最初にパロモマイシンを開発した会社は、それを十分には試験しなかった。
+【考え方】
+「正しいものはどれか」という設問なので、選択肢を1つずつ本文と照らし合わせます。選択肢4に出てくるパロモマイシンについては、第3段落に書かれています。
+本文には Hale received a drug called paromomycin, which a company had started developing but had not finished testing.（ヘイルは、パロモマイシンという薬を受け取った。それは、ある会社が開発を始めたものの、試験を終えていなかった薬だった）とあります。which は、前の名詞 paromomycin に説明をつけ加える働きをする語（関係代名詞）です。had started、had not finished は「（ヘイルが受け取る前に）すでに～していた／まだ～していなかった」という過去完了の形です。
+つまり、最初にこの薬を開発した会社は、試験を最後までやりとげていなかったのです。本文と選択肢は次のように対応しています。
+本文 a company had started developing（ある会社が開発を始めていた）＝ 選択肢 The company that first developed paromomycin（最初にパロモマイシンを開発した会社）
+本文 had not finished testing（試験を終えていなかった）＝ 選択肢 did not fully test it（十分には試験しなかった）
+fully は「完全に、十分に」という意味です。正解は4です。
+【ほかの選択肢】
+1 本文には、ヘイルさんは a former scientist（元科学者）とあるだけで、インドの製薬会社で働いていたとは書かれていません。インドは黒熱病が広がっている国として出てくるだけなので、誤りです。
+2 本文には、iOWH は a nonprofit company（非営利の会社、つまりもうけを目的としない会社）だと書かれています。また、薬は at a very low cost（とても安い値段で）販売する計画です。大きな利益を見込んでいるという内容は本文と反対なので、誤りです。
+3 本文には、大手の製薬会社がiOWHに協力していることは書かれていますが、ヘイルさんのアイデアをまねしようとしているという話はありません。本文にない内容なので、誤りです。
+【覚えるポイント】
+・had not finished ～ing：「（その時までに）まだ～し終えていなかった」。
+・nonprofit：「非営利の、もうけを目的としない」。

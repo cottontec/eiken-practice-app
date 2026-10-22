@@ -1,0 +1,29 @@
+---
+choices: Test the drugs mainly on their own employees. | Search for new diseases in other parts of the world. | Ask other companies to give them money for research. | Focus on illnesses that affect people who can pay for treatment.
+answerText: Focus on illnesses that affect people who can pay for treatment.
+---
+【正解】4 Focus on illnesses that affect people who can pay for treatment.（治療のお金を払える人々がかかる病気に力を集中する。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：新しい薬を開発するとき、製薬会社は何をしますか。
+1 主に自分たちの社員で薬を試験する。
+2 世界のほかの地域で新しい病気を探す。
+3 ほかの会社に研究のためのお金を出してくれるよう頼む。
+4 治療のお金を払える人々がかかる病気に力を集中する。
+【考え方】
+設問は、製薬会社が新しい薬を開発するときに何をするかをたずねています。第1段落を見ます。
+初めに、新しい薬の開発には何百万ドルもかかり、販売前に徹底的な試験も必要だと書かれています。そのため、drug companies need to develop drugs that will eventually make enough money to cover their costs（製薬会社は、最終的に費用をまかなえるだけのお金をかせげる薬を開発する必要がある）と続きます。cover はここでは「（費用を）まかなう」という意味です。
+そして Therefore, they spend most of their money developing drugs that can be sold to people who can afford them.（そのため、製薬会社は、お金のほとんどを、薬を買う余裕のある人々に売れる薬の開発に使う）とあります。afford は「（お金を払う）余裕がある」という意味です。
+さらに次の文で、貧しい国の人々がかかる病気は tend to be ignored（無視されがちだ）と述べられています。つまり製薬会社は、お金を払える人のための薬づくりに集中しているのです。本文と選択肢は次のように対応しています。
+本文 spend most of their money developing drugs（お金のほとんどを薬の開発に使う）＝ 選択肢 Focus on（～に集中する）
+本文 people who can afford them（薬を買う余裕のある人々）＝ 選択肢 people who can pay for treatment（治療のお金を払える人々）
+正解は4です。
+【ほかの選択肢】
+1 本文には、薬を販売する前に thorough tests（徹底的な試験）が必要だとは書かれています。しかし、だれで試験をするのかは書かれておらず、社員で試すという話はないので、誤りです。
+2 本文には、製薬会社が新しい病気を探しているという話はありません。むしろ、貧しい国々の人々がかかる病気は無視されがちだと書かれているので、誤りです。
+3 本文で、ほかの会社に頼みごとをしているのはヘイルさんです。しかも彼女が頼んだのは、お金ではなく、中止された研究と使われていない薬を無料でゆずってもらうことでした。人物も、頼んだものも違うので、誤りです。
+【覚えるポイント】
+・afford ～：「～を買う（払う）余裕がある」。people who can afford them は「それを買う余裕のある人々」です。
+・tend to ～：「～しがちである、～する傾向がある」。

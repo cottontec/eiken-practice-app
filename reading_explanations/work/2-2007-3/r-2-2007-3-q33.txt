@@ -1,0 +1,25 @@
+---
+choices: supporting | slowing | applying | identifying
+answerText: slowing
+---
+【正解】2 slowing（遅らせること）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 supporting：支えること、支持すること
+2 slowing：遅らせること、ゆるめること
+3 applying：当てはめること、応用すること
+4 identifying：特定すること、見分けること
+【考え方】
+空所は文章の最後の文にあります。Because the energy used in British homes is responsible for about a third of the greenhouse gases released by the country（イギリスの家庭で使われるエネルギーは、国が排出する温室効果ガスのおよそ3分の1の原因となっているので）と理由が述べられています。be responsible for ～ はここでは「～の原因となっている」という意味です。
+そのあとに the government thinks that reducing this use could play a significant role in (　) global warming（政府は、この使用量を減らすことが地球温暖化を〜するうえで重要な役割を果たしうると考えている）と続きます。play a role in ～ は「～において役割を果たす」です。
+家庭のエネルギー使用を減らせば、温室効果ガスも減ります。温室効果ガスが減れば、地球温暖化の進み方はゆるやかになります。また、文章の最初にも、政府は地球温暖化を止める方法を探していると書かれていました。
+ですから「地球温暖化を遅らせる」という意味になる slowing が合います。正解は2です。
+【ほかの選択肢】
+1 supporting は「支えること、支持すること」です。「地球温暖化を支える」となり、温暖化を止めたいという政府の目的と反対になってしまいます。
+3 applying は「当てはめること、応用すること」です。「地球温暖化を応用する」では意味が通りません。
+4 identifying は「特定すること、見分けること」です。エネルギーの使用を減らすことは、温暖化を見つけ出すことではなく、温暖化をおさえることにつながるので合いません。
+【覚えるポイント】
+・play a (significant) role in ～：「～において（重要な）役割を果たす」。
+・slow ～：「～を遅らせる、～の進みをゆるやかにする」。slow は形容詞「遅い」のほか、動詞としても使います。

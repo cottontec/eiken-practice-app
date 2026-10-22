@@ -6,7 +6,7 @@
 ## 手順
 
 1. `$SRC/batches/<batchId>.source.json` と画像（`$SRC/` + images[].key）を開く。抽出テキストがあっても画像を正とする。
-2. `$WORK/` の各 `<questionId>.txt` と `<unitId>.passage.txt` を、1問ずつ次の観点で点検する。
+2. `$WORK/_writer_notes.md`（作成担当の申し送り。特に「要確認」）を読み、そこに挙がった点は重点的に確かめる。そのうえで `$WORK/` の各 `<questionId>.txt` と `<unitId>.passage.txt` を、1問ずつ次の観点で点検する。
    - 正解の一意性：自分でも解き、正解が1つに決まるか。他の選択肢が確実に誤りといえる根拠が書かれているか。
    - choices / answerText / order が画像どおりか（つづり・語の抜け）。
    - 本文全訳：全文が訳されているか（文の抜け・段落の抜け）、否定・比較・条件・時制・主語・数量の誤訳がないか。大問2の空所表示が正しいか。

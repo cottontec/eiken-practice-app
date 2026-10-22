@@ -1,0 +1,24 @@
+---
+choices: persuading | dividing | employing | reserving
+answerText: persuading
+---
+【正解】1 persuading（説得すること）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 persuading：説得すること
+2 dividing：分けること
+3 employing：雇うこと
+4 reserving：予約すること、取っておくこと
+【考え方】
+空所の文は The government believes that one way to achieve this target is by (　) people to use less energy in their homes.（政府は、この目標を達成する1つの方法は、人々に家庭で使うエネルギーを減らすよう〜することによってだと考えている）です。this target（この目標）は、前の文の「二酸化炭素の量を減らす」という目標のことです。
+空所のあとは people to use less energy（人々が、より少ないエネルギーを使う）という形になっています。persuade ＋ 人 ＋ to ～ で「人を説得して～させる」という意味になります。
+次の文を見ると、In order to do this（これを行うために）、政府はすべての家庭に電気の使用量が分かる無料の装置を配ると書かれています。装置を配って、人々が自分から電気を節約するように働きかけるのは、まさに「説得する」ことにあたります。正解は1です。
+【ほかの選択肢】
+2 dividing は「分けること」です。「人々を分けて、エネルギーを減らす」となり、意味が通りません。
+3 employing は「雇うこと」です。employ ＋ 人 ＋ to ～ は「人を雇って～させる」という意味になりますが、ここで話題になっているのは人々が「自分の家庭で」使うエネルギーです。政府が人を雇う話は本文になく、装置を配って働きかけるという次の文とも合いません。
+4 reserving は「予約すること、取っておくこと」です。「人々を予約する」では意味が通りません。
+【覚えるポイント】
+・persuade ＋ 人 ＋ to ～：「人を説得して～させる」。
+・by ～ing：「～することによって」。方法を表します。

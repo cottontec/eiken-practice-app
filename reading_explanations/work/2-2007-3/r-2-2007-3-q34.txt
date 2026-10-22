@@ -1,0 +1,29 @@
+---
+choices: her store might want to buy one of his company's products. | Ms. Holdsworth works for a company that makes tennis rackets. | Raddle's Department Store already sells Starlight tennis rackets. | he should contact the chief buyer of a sporting-goods store.
+answerText: her store might want to buy one of his company's products.
+---
+【正解】1 her store might want to buy one of his company's products.（彼女の店が、彼の会社の製品の1つを買いたいと思うかもしれない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：今朝、レベッカ・ジョーンズはティム・ニューイーに、（　）と言った。
+1 彼女の店が、彼の会社の製品の1つを買いたいと思うかもしれない
+2 ホールズワースさんは、テニスラケットを作っている会社で働いている
+3 ラドルズ百貨店は、すでにスターライトのテニスラケットを売っている
+4 彼はスポーツ用品店の仕入れ担当の責任者に連絡をとるべきだ
+【考え方】
+設問の This morning（今朝）と Rebecca Jones が手がかりです。メールの第1段落を見ます。
+最初の文に I was given your name and e-mail address by your assistant Rebecca Jones when I called your store this morning.（今朝、御店に電話したとき、アシスタントのレベッカ・ジョーンズさんからあなたの名前とメールアドレスを教えてもらった）とあります。レベッカ・ジョーンズは、ラドルズ百貨店で働くホールズワースさんのアシスタントです。
+さらに Ms. Jones indicated that our new Starlight tennis rackets might be a suitable product for Raddle's Department Store（ジョーンズさんは、当社の新しいスターライト・テニスラケットがラドルズ百貨店にふさわしい商品かもしれないと示した）と書かれています。indicate は「示す、それとなく伝える」という意味です。
+ラケットが店に「ふさわしい商品かもしれない」ということは、店がそのラケットを仕入れたい（買いたい）と思う可能性がある、ということです。本文と選択肢は次のように対応しています。
+本文 our new Starlight tennis rackets（当社の新しいスターライト・テニスラケット）＝ 選択肢 one of his company's products（彼の会社の製品の1つ）
+本文 might be a suitable product for Raddle's Department Store（ラドルズ百貨店にふさわしい商品かもしれない）＝ 選択肢 her store might want to buy（彼女の店が買いたいと思うかもしれない）
+選択肢の her store の her はジョーンズさんのことで、彼女が働くラドルズ百貨店を指します。正解は1です。
+【ほかの選択肢】
+2 ホールズワースさんは chief buyer（仕入れ担当の責任者）として、ラドルズ百貨店という店で働いています。テニスラケットを売りこんでいるのはニューイーさんの会社で、ラケットは中国で製造されています。ホールズワースさんがラケットを作る会社で働いているわけではないので、誤りです。
+3 本文には we have just started selling them in the United States（当社はアメリカでそれらの販売を始めたばかりだ）とあります。また、ジョーンズさんは「ふさわしい商品かもしれない」と言っただけです。ラドルズ百貨店がすでにこのラケットを売っているとは書かれていないので、誤りです。
+4 ジョーンズさんが連絡相手として示したのは、仕入れ担当の責任者であるホールズワースさんです。ただし、彼女が働いているのは Raddle's Department Store（ラドルズ百貨店）で、スポーツ用品店ではありません。店の種類が本文と違うので、誤りです。
+【覚えるポイント】
+・suitable for ～：「～にふさわしい、～に適している」。
+・chief buyer：「仕入れ担当の責任者」。お店で売る商品を選んで買い入れる係のリーダーです。

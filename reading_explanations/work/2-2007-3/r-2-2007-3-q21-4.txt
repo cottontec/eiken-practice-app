@@ -1,0 +1,22 @@
+---
+choices: meeting | I'd | and get | continue the | rather
+answerText: meeting
+order: 2 5 4 1 3
+---
+【正解】1 meeting（この問題の4番目）
+【完成文】
+To be honest, ( I'd rather continue the meeting and get ) everything done. We can have lunch after we finish.
+並べ方：2 I'd → 5 rather → 4 continue the → 1 meeting → 3 and get（2番目は5、4番目は1）
+【和訳】
+A：もう少し話し合わなければならないことがいくつかあるけれど、先にお昼休みにしようか？
+B：正直に言うと、私はむしろ会議を続けて、全部終わらせてしまいたいです。昼食は終わってからとればいいですよ。
+【考え方】
+4番目を決めるには、まず前半の形を固めます。Bの最後の文 We can have lunch after we finish.（終わってから昼食をとればいい）から、Bは昼休みより会議を先に進めたいと分かります。
+2 I'd と 5 rather で I'd rather ～（むしろ～したい）ができます。I'd は I would の短い形で、would rather のあとは動詞の元の形（原形）です。そこで 4 continue the を続けます。
+4番目に入るのは、continue the のあとに必要な名詞です。選択肢の中で名詞は 1 meeting だけです。continue the meeting（会議を続ける）となり、「昼休みより先に会議を続けたい」というBの考えにぴったり合います。
+最後の 3 and get は空所のあとの everything done とつながり、get everything done（すべて終わらせる）になります。
+したがって4番目は1 meeting です。
+もし and get を4番目に置くと、continue the and get … となり、the のあとに名詞がないので文が成り立ちません。
+【覚えるポイント】
+・continue the meeting：「会議を続ける」。the のあとには名詞がくることも、並べるときの手がかりになります。
+・would rather ＋ 動詞の原形：「むしろ～したい」。

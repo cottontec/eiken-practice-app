@@ -1,0 +1,19 @@
+---
+choices: emphasized | accomplished | compromised | postponed
+answerText: emphasized
+---
+【正解】1 emphasized（強調した）
+【和訳】
+そのバイオリンの先生は、毎日練習することの大切さを強調しました。先生は生徒たちに、定期的に練習しなければ技術は上達しないと言いました。
+（選択肢の意味）1 強調した　2 成しとげた　3 妥協した　4 延期した
+【考え方】
+空所の目的語（動詞が「何を」にあたる語）は the importance of practicing daily（毎日練習することの大切さ）です。
+2文目を見ると、He told the students that their skills would not improve without regular practice.（先生は、定期的な練習がなければ技術は上達しないと生徒たちに言った）とあります。これは「毎日の練習が大切だ」ということを、言葉を変えて念を押している内容です。
+「大切さ」を生徒に強く伝えた、という意味になるのは emphasized（強調した）です。正解は1です。
+【ほかの選択肢】
+2 accomplished は「（目標や仕事を）成しとげた」です。「練習の大切さを成しとげた」では意味が通りません。
+3 compromised は「妥協した（相手に合わせて自分の考えをゆずった）」です。2文目で先生は練習の大切さをはっきり伝えており、ゆずる話ではありません。
+4 postponed は「延期した」です。「大切さを延期した」では意味が通らず、2文目の内容ともつながりません。
+【覚えるポイント】
+・emphasize the importance of ～：「～の大切さを強調する」。
+・without regular practice：「定期的な練習がなければ」。without が「もし～がなければ」という条件の意味になっています。

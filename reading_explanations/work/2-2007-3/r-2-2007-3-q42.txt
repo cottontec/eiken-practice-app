@@ -1,0 +1,29 @@
+---
+choices: get companies to donate work on drugs they decided not to sell. | contact scientists who work in poor countries for advice. | use an existing drug to fight a newly discovered disease. | ask companies to lend her their research laboratories.
+answerText: get companies to donate work on drugs they decided not to sell.
+---
+【正解】1 get companies to donate work on drugs they decided not to sell.（製薬会社に、販売しないと決めた薬についての研究成果を寄付してもらうこと。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ヴィクトリア・ヘイルのアイデアは（　）ことだった。
+1 製薬会社に、販売しないと決めた薬についての研究成果を寄付してもらう
+2 貧しい国々で働く科学者に、助言を求めて連絡する
+3 新しく見つかった病気と闘うために、すでにある薬を使う
+4 製薬会社に、研究所を貸してくれるよう頼む
+【考え方】
+ヘイルさんのアイデアは、第2段落に書かれています。
+まず Hale, a former scientist, knew that companies often stop developing a drug if they think that it will not make a profit.（元科学者のヘイルは、製薬会社が、ある薬が利益を生まないと思うと、その薬の開発をやめてしまうことがよくあると知っていた）とあります。profit は「利益、もうけ」です。
+次に She asked companies to give her their abandoned research and unused drugs for free.（彼女は製薬会社に、中止された研究と使われていない薬を無料でゆずってくれるよう頼んだ）と続きます。abandoned は「見捨てられた、中止された」という意味です。
+つまりヘイルさんのアイデアは、会社が「もうからないから売らない」と決めてやめた薬の研究を、ただでゆずってもらうことでした。本文と選択肢は次のように対応しています。
+本文 asked companies to give her ～ for free（会社に～を無料でゆずってくれるよう頼んだ）＝ 選択肢 get companies to donate ～（会社に～を寄付してもらう）
+本文 abandoned research and unused drugs（中止された研究と使われていない薬）＝ 選択肢 work on drugs they decided not to sell（販売しないと決めた薬についての研究成果）
+get ＋ 人 ＋ to ～ は「人に～してもらう」、donate は「寄付する」という意味です。正解は1です。
+【ほかの選択肢】
+2 本文には、ヘイルさんが organized a group of scientists（科学者のグループを組織した）とあります。しかし、その科学者が貧しい国々で働いているとも、助言を求めたとも書かれていないので、誤りです。
+3 黒熱病は、毎年インドで10万人を超える人々がかかる病気として紹介されており、新しく見つかった病気とは書かれていません。また、ヘイルさんのアイデアの中心は、中止された研究や薬をゆずってもらうことなので、誤りです。
+4 ヘイルさんが会社に頼んだのは、研究と使われていない薬をゆずってもらうことです。研究所を貸してもらうという話は本文にないので、誤りです。
+【覚えるポイント】
+・get ＋ 人 ＋ to ～：「人に～してもらう」。
+・for free：「無料で」。本文の give ～ for free が、選択肢では donate（寄付する）と言いかえられています。

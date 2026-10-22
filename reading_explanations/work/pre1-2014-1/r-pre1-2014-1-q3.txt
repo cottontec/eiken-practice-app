@@ -2,12 +2,12 @@
 choices: margin | ascent | portion | intent
 answerText: ascent
 ---
-【正解】2 ascent（登ること、登頂）
+【正解】2 ascent（登ること、登り）
 【和訳】
-登山者たちのその山の（登り）は、強い風と深い雪のせいで大きく遅れた。
+登山者たちによるその山の（登り）は、強い風と深い雪のせいで大きく遅れた。
 （選択肢の意味）1 余白、差、ゆとり　2 登ること、上昇　3 部分、分け前　4 意図、目的
 【考え方】
-空所の前後は The climbers' ( ) of the mountain（登山者たちの、山の〇〇）です。そして、それが was greatly slowed by strong winds and deep snow（強い風と深い雪によって大きく遅くされた）と続きます。
+空所の前後は The climbers' ( ) of the mountain（登山者たちの、山の〇〇）です。そして、それが was greatly slowed by strong winds and deep snow（強い風と深い雪によって大きく遅くなった）と続きます。
 slow は「遅くする、速度を落とさせる」という意味です。風や雪で「遅くなる」のは、何かが進んでいく動きです。登山者たちが山について行う動きといえば「山を登ること」です。
 ascent は動詞 ascend（登る）の名詞の形で、「登ること、上昇」という意味です。the ascent of the mountain で「その山に登ること」になるので、2が正解です。
 【ほかの選択肢】

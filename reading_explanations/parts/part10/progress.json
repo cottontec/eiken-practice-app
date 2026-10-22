@@ -1,0 +1,109 @@
+{
+  "part": 10,
+  "targetAnswerSlots": 574,
+  "batches": [
+    {
+      "batchId": "pre1-2014-1",
+      "target": 41,
+      "written": 41,
+      "contentReviewed": 0,
+      "status": "complete_unreviewed",
+      "blank": 0,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 0
+    },
+    {
+      "batchId": "pre1-2014-2",
+      "target": 41,
+      "written": 0,
+      "contentReviewed": 0,
+      "status": "not_started"
+    },
+    {
+      "batchId": "pre1-2014-3",
+      "target": 41,
+      "written": 0,
+      "contentReviewed": 0,
+      "status": "not_started"
+    },
+    {
+      "batchId": "pre1-2015-1",
+      "target": 41,
+      "written": 0,
+      "contentReviewed": 0,
+      "status": "not_started"
+    },
+    {
+      "batchId": "pre1-2015-2",
+      "target": 41,
+      "written": 0,
+      "contentReviewed": 0,
+      "status": "not_started"
+    },
+    {
+      "batchId": "pre1-2015-3",
+      "target": 41,
+      "written": 0,
+      "contentReviewed": 0,
+      "status": "not_started"
+    },
+    {
+      "batchId": "pre1-2016-1",
+      "target": 41,
+      "written": 0,
+      "contentReviewed": 0,
+      "status": "not_started"
+    },
+    {
+      "batchId": "pre1-2016-2",
+      "target": 41,
+      "written": 0,
+      "contentReviewed": 0,
+      "status": "not_started"
+    },
+    {
+      "batchId": "pre1-2016-3",
+      "target": 41,
+      "written": 0,
+      "contentReviewed": 0,
+      "status": "not_started"
+    },
+    {
+      "batchId": "pre1-2017-1",
+      "target": 41,
+      "written": 0,
+      "contentReviewed": 0,
+      "status": "not_started"
+    },
+    {
+      "batchId": "pre1-2017-2",
+      "target": 41,
+      "written": 0,
+      "contentReviewed": 0,
+      "status": "not_started"
+    },
+    {
+      "batchId": "pre1-2017-3",
+      "target": 41,
+      "written": 0,
+      "contentReviewed": 0,
+      "status": "not_started"
+    },
+    {
+      "batchId": "pre1-2018-1",
+      "target": 41,
+      "written": 0,
+      "contentReviewed": 0,
+      "status": "not_started"
+    },
+    {
+      "batchId": "pre1-2018-2",
+      "target": 41,
+      "written": 0,
+      "contentReviewed": 0,
+      "status": "not_started"
+    }
+  ],
+  "updatedAt": "2026-10-22T04:46:44+00:00"
+}

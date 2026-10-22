@@ -1,0 +1,27 @@
+---
+choices: Take some pictures of the rackets. | Send some samples to the store by Thursday. | Make an appointment to see Ms. Holdsworth. | Answer questions about the rackets by e-mail.
+answerText: Make an appointment to see Ms. Holdsworth.
+---
+【正解】3 Make an appointment to see Ms. Holdsworth.（ホールズワースさんに会う約束をとりつける。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ティム・ニューイーは何をしたいと言っていますか。
+1 ラケットの写真を何枚か撮る。
+2 木曜日までに見本をいくつか店に送る。
+3 ホールズワースさんに会う約束をとりつける。
+4 ラケットについての質問にメールで答える。
+【考え方】
+設問は「ニューイーさんがしたいこと」をたずねています。メールの最後の段落にある I would like to ～（～したいと思う）という言い方に注目します。
+本文には If possible, I would like to visit your store next Thursday to show you some samples and answer any questions you have.（もし可能であれば、来週の木曜日に御店にうかがって、見本をお見せし、ご質問にお答えしたい）とあります。そして Please let me know what time is most convenient for you.（何時がいちばんご都合がよいか、お知らせください）と続けています。
+つまりニューイーさんは、来週の木曜日にホールズワースさんの店を訪ねて会いたいので、都合のよい時間を教えてほしいと頼んでいるのです。これは「会う約束をとりつけたい」ということです。本文と選択肢は次のように対応しています。
+本文 I would like to visit your store next Thursday ／ Please let me know what time is most convenient for you（来週の木曜日に店を訪ねたい／都合のよい時間を知らせてほしい）＝ 選択肢 Make an appointment to see Ms. Holdsworth（ホールズワースさんに会う約束をとりつける）
+appointment は「（人と会う）約束」という意味です。正解は3です。
+【ほかの選択肢】
+1 本文には I have attached a file with pictures of the rackets（ラケットの写真が入ったファイルを添付した）とあります。写真はすでにメールにつけて送ってあるので、これから写真を撮りたいわけではありません。
+2 見本については、木曜日に店を訪ねて to show you some samples（見本をお見せする）と書かれています。見本を「木曜日までに送る」のではなく、自分で持って行って見せるつもりなので、誤りです。
+4 質問については、木曜日に店を訪ねたときに answer any questions you have（ご質問にお答えする）と書かれています。メールで答えるとは書かれていないので、誤りです。
+【覚えるポイント】
+・make an appointment：「（人と会う）約束をする」。
+・let me know ～：「～を知らせてください」。相手に返事を求めるときの言い方です。

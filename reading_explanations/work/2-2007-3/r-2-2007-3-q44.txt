@@ -1,0 +1,28 @@
+---
+choices: They need help finding drugstores to sell their newest drugs. | They hope to reach markets in countries outside the United States. | They want the public to have a better impression of them. | They believe they will get ideas for new drugs.
+answerText: They want the public to have a better impression of them.
+---
+【正解】3 They want the public to have a better impression of them.（世間の人々に、自分たちによい印象を持ってもらいたいから。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：製薬会社がiOWHに協力する理由の1つは何ですか。
+1 最新の薬を売るための薬局を見つける手助けが必要だから。
+2 アメリカ以外の国々の市場に進出したいと思っているから。
+3 世間の人々に、自分たちによい印象を持ってもらいたいから。
+4 新しい薬のアイデアが得られると考えているから。
+【考え方】
+製薬会社がiOWHに協力する理由は、第4段落に書かれています。
+1つ目の理由は、her company does not compete with them（彼女の会社が大手の会社と競争しない）という点です。続いて Moreover, big drug companies have found that they can actually benefit by cooperating with the iOWH.（さらに、大手製薬会社は、iOWHに協力することで、実際に得をすることができると気づいた）とあります。Moreover は「さらに」、benefit は「得をする、利益を得る」という意味です。
+どんな得かというと、By making donations, they can reduce the amount of tax they pay and at the same time improve their public image.（寄付をすることで、納める税金を減らせ、同時に世間でのイメージをよくすることができる）と書かれています。public image は「世間の人々が持つイメージ」です。
+選択肢3は、このうち「イメージがよくなる」という点を言いかえています。本文と選択肢は次のように対応しています。
+本文 improve their public image（世間でのイメージをよくする）＝ 選択肢 want the public to have a better impression of them（世間の人々に自分たちのよりよい印象を持ってもらいたい）
+impression は「印象」という意味です。正解は3です。
+【ほかの選択肢】
+1 本文には、薬局を見つける手助けについては何も書かれていません。本文にない内容なので、誤りです。
+2 本文で、市場が貧しい国々にあると書かれているのは iOWH のほうです。大手の会社が協力するのは、iOWH が自分たちと競争しないからであって、大手の会社がアメリカ以外の市場に進出したいからではありません。人物（会社）と理由を取り違えているので、誤りです。
+4 本文には、大手の会社がiOWHから新しい薬のアイデアを得られるという話はありません。本文で協力の理由として挙げられているのは、競争相手にならないこと、税金が減ること、イメージがよくなることだけなので、誤りです。
+【覚えるポイント】
+・benefit by ～ing：「～することで得をする、利益を得る」。
+・public image：「世間でのイメージ」。選択肢では the public（世間の人々）と impression（印象）で言いかえられています。

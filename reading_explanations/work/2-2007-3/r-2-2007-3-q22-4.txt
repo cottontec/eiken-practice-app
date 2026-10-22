@@ -1,0 +1,21 @@
+---
+choices: in | far the | has by | food | best Italian
+answerText: food
+order: 3 2 5 4 1
+---
+【正解】4 food（この問題の4番目）
+【完成文】
+Yeah. Luigi's Food Garden ( has by far the best Italian food in ) town. You should definitely go there.
+並べ方：3 has by → 2 far the → 5 best Italian → 4 food → 1 in（2番目は2、4番目は4）
+【和訳】
+A：ペギー、おいしいイタリア料理のレストランを教えてくれない？
+B：ええ。ルイージズ・フード・ガーデンには、町でずば抜けて一番おいしいイタリア料理があるわ。絶対に行ってみるべきよ。
+【考え方】
+まず主語 Luigi's Food Garden のあとに動詞が必要なので、3 has by から始めます。by far（ずば抜けて）という組み合わせから、2 far the が続きます。
+the のあとには最上級（「一番～」を表す形）がくるので、5 best Italian を置きます。ここで Italian は「イタリアの」という意味で、あとに名詞がないと「何がイタリアのものなのか」が分かりません。そこで4番目には名詞の 4 food を置き、the best Italian food（一番おいしいイタリア料理）とします。
+最後に 1 in を置くと、空所のあとの town とつながって in town（町で）となり、「町で一番」という意味がまとまります。
+したがって4番目は4 food です。
+food と in の順を逆にして … best Italian in food town とすると、Italian のあとに名詞がなく、in のあとも town ではなく food がきてしまうので、文として成り立ちません。「一番～な料理（the best Italian food）」と「町で（in town）」を分けて考えると、順番が決まります。
+【覚えるポイント】
+・the best ＋ 名詞 ＋ in ＋ 場所：「（場所）で一番の（名詞）」。
+・by far：「ずば抜けて、断然」。最上級を強めます。

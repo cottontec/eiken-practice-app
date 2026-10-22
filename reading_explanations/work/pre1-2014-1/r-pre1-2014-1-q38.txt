@@ -1,0 +1,28 @@
+---
+choices: People who made the transition from farm work to factory work came to enjoy an improvement in job conditions. | Despite initial fears, many farmers found that wages for agricultural work increased due to mechanical advances. | Cloth makers organized protests that drew attention to their skills and gained them new employment opportunities. | Cloth makers initially welcomed weaving machines, but their attitude changed as they began to lose their jobs.
+answerText: People who made the transition from farm work to factory work came to enjoy an improvement in job conditions.
+---
+【正解】1 People who made the transition from farm work to factory work came to enjoy an improvement in job conditions.（農場の仕事から工場の仕事へ移った人々は、労働条件がよくなったことの恩恵を受けるようになった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：イングランドにおける産業革命の結果の一つは何だったか。
+1 農場の仕事から工場の仕事へ移った人々は、労働条件がよくなったことの恩恵を受けるようになった。
+2 初めは不安があったにもかかわらず、多くの農民は、機械の進歩によって農業の仕事の賃金が上がったことに気づいた。
+3 布職人たちは抗議活動を組織し、その活動によって自分たちの技術が注目され、新しい仕事の機会を得た。
+4 布職人たちは初めは織機を歓迎していたが、仕事を失い始めると態度が変わった。
+【考え方】
+産業革命の話が書かれているのは第1段落です。前半では、農業労働者や布職人が、機械に仕事を奪われて抗議や暴動を起こしたことが書かれています。
+そのあとに However, over time, most laborers adjusted to the changes.（しかし、時がたつにつれて、ほとんどの労働者は変化に適応した）とあり、具体例として Many farmers, for example, found work in factories, and even benefited from higher wages and safer working environments.（たとえば、多くの農民は工場で仕事を見つけ、より高い賃金とより安全な労働環境という恩恵まで受けた）と続きます。adjust to ～ は「～に適応する、慣れる」、benefit from ～ は「～から恩恵を受ける、～で得をする」という意味です。
+これを選択肢1と対にすると、次のようになります。
+・本文 Many farmers ... found work in factories（多くの農民が工場で仕事を見つけた）＝ 選択肢 People who made the transition from farm work to factory work（農場の仕事から工場の仕事へ移った人々）
+・本文 benefited from higher wages and safer working environments（より高い賃金とより安全な労働環境の恩恵を受けた）＝ 選択肢 came to enjoy an improvement in job conditions（労働条件の改善を楽しめるようになった）
+transition は「移り変わり、移行」という意味です。よって1が正解です。
+【ほかの選択肢】
+2 賃金が上がったのは「工場の仕事」に移った農民であり、「農業の仕事」の賃金が上がったとは書かれていません。本文では、機械式のすきは農業労働者の仕事を奪ったもの（displaced）として書かれています。
+3 本文では、布職人たちは rioted, destroying the weaving machines（暴動を起こし、織機を打ちこわした）とありますが、その結果、技術が注目されたり新しい仕事を得たりしたとは書かれていません。
+4 本文には、布職人たちが初めは織機を歓迎していたという話はありません。織機は、布職人の技術を不要にしつつあったものとして書かれています。
+【覚えるポイント】
+・benefit from ～：「～から恩恵を受ける、～で得をする」。
+・However, over time のように「しかし、時がたつと」と流れが変わる部分は、「結果」をたずねる設問の答えの場所になりやすいです。
