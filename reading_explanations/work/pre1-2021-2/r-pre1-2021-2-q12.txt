@@ -1,0 +1,31 @@
+---
+choices: miserly | sacred | habitual | stale
+answerText: habitual
+---
+【正解】3 habitual（習慣的な、いつものくせになった）
+【和訳】
+（英文）
+Randy was known for his ［habitual］ lying, so no one believed his stories about his incredible trip even though they were true.
+（訳）
+ランディは（習慣的に）うそをつくことで知られていたので、彼の信じられないような旅についての話は本当だったのに、だれも信じなかった。
+（選択肢の意味）
+1 miserly：けちな
+2 sacred：神聖な
+3 habitual：習慣的な、いつものくせになった
+4 stale：（食べ物などが）古くなった、新鮮でない
+【考え方】
+まず見るところ：後半の no one believed his stories ～ even though they were true
+文の後半を確かめます。
+so no one believed his stories about his incredible trip even though they were true（それで、彼の信じられないような旅についての話は本当だったのに、だれも信じなかった）
+even though は「～なのに、～にもかかわらず」という意味です。本当の話でさえ信じてもらえなかったのは、ふだんからうそばかりついていたからだと考えられます。
+次に、空所のある部分を見ます。
+Randy was known for his ( ) lying（ランディは（　）うそをつくことで知られていた）
+so（それで）の前なので、ここには信じてもらえなかった原因が入ります。一度だけのうそではなく、「いつもうそをつく」ことで有名だったと考えると、話がつながります。habitual は「習慣的な、くせになった」なので、3が正解です。
+この問題の型：因果（習慣的なうそ→so→本当の話も信じてもらえない）
+【ほかの選択肢】
+1 miserly は「けちな」です。「けちなうそ」では意味がはっきりせず、だれにも信じてもらえなくなった理由になりません。
+2 sacred は「神聖な」です。「神聖なうそ」では意味が通りません。
+4 stale は「古くなった、新鮮でない」です。食べ物やにおい、考えなどに使う語で、うそを何度もつくようすを表せず、信じてもらえない理由になりません。
+【覚えるポイント】
+・habitual：「習慣的な」。habit（習慣、くせ）と関係のある語です。
+・even though they were true（本当だったのに）のように「ふつうなら信じるはずなのに信じなかった」という文では、前半にその人のふだんの行いが書かれていることが多く、手がかりになります。

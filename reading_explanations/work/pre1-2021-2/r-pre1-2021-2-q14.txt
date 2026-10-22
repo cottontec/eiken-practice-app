@@ -1,0 +1,31 @@
+---
+choices: steep | lawless | rational | downcast
+answerText: rational
+---
+【正解】3 rational（理にかなった、合理的な）
+【和訳】
+（英文）
+Although Suzanne was puzzled by the bright blue lights in the night sky, as a scientist, she knew there had to be a ［rational］ explanation for them.
+（訳）
+スザンヌは夜空の明るい青い光に頭をひねったが、科学者として、それには（理にかなった）説明があるはずだと分かっていた。
+（選択肢の意味）
+1 steep：（坂などが）険しい、急な
+2 lawless：法律が守られていない、無法の
+3 rational：理にかなった、合理的な
+4 downcast：しょげた、うなだれた
+【考え方】
+まず見るところ：Although ～ puzzled と as a scientist
+文の前半を確かめます。
+Although Suzanne was puzzled by the bright blue lights in the night sky（スザンヌは夜空の明るい青い光に頭をひねったが）
+puzzled は「（わけが分からず）とまどった、頭をひねった」、Although は「～だけれども」という意味です。光の正体はすぐには分かりませんでした。
+次に、空所のある後半を見ます。
+as a scientist, she knew there had to be a ( ) explanation for them（科学者として、それには（　）説明があるはずだと分かっていた）
+had to be は「～であるにちがいない、～のはずだ」という意味です。Although があるので、「わけが分からなかったけれど、科学者としては筋の通る説明があるはずだと考えた」という流れになります。rational は「理にかなった、筋道の通った」なので、3が正解です。
+この問題の型：対比（Although：わけが分からない⇔説明できるはずだ）／語の意味・組み合わせ（rational explanation：理にかなった説明）
+【ほかの選択肢】
+1 steep は「険しい、急な」です。坂や値上がりなどに使う語で、「険しい説明」では意味が通りません。
+2 lawless は「無法の」です。「無法の説明があるはずだ」では、科学者として考えたことにつながりません。
+4 downcast は「しょげた」です。人の気持ちや表情を表す語で、「しょげた説明」では意味が通りません。
+【覚えるポイント】
+・rational：「理にかなった、合理的な」。a rational explanation で「筋の通った説明」。
+・Although ～（～だけれども）で始まる文では、後半に前半とは反対向きの内容が来ます。前半の「わけが分からない」と後半の空所が反対になるように考えることが手がかりになります。

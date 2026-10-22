@@ -1,0 +1,31 @@
+---
+choices: dispatch | mistrust | impair | sustain
+answerText: sustain
+---
+【正解】4 sustain（保つ、維持する）
+【和訳】
+（英文）
+When Bert and Eva were asked how they have been able to ［sustain］ their relationship for 40 years, they said the key is to always communicate honestly with each other.
+（訳）
+バートとエバは、どうやって40年間、関係を（保って）こられたのかとたずねられたとき、大切なのは、いつもお互いに正直に話し合うことだと言った。
+（選択肢の意味）
+1 dispatch：送り出す、派遣する
+2 mistrust：信用しない、疑う
+3 impair：損なう、弱める
+4 sustain：保つ、維持する
+【考え方】
+まず見るところ：for 40 years と後半の the key is to always communicate honestly
+後半を確かめます。
+they said the key is to always communicate honestly with each other（大切なのは、いつもお互いに正直に話し合うことだと言った）
+the key は「秘けつ、大切なこと」という意味です。2人は、うまくいっている理由を答えています。
+次に、空所のある部分を見ます。
+how they have been able to ( ) their relationship for 40 years（どうやって40年間、関係を（　）こられたのか）
+have been able to は「（今まで）～することができてきた」という意味です。40年間という長い期間と、「秘けつ」を答えていることから、2人はよい関係を続けてきたと分かります。sustain は「保つ、維持する」なので、4が正解です。
+この問題の型：語の意味・組み合わせ（sustain a relationship：関係を保つ）／推論（秘けつを答えている→よい関係が続いている）
+【ほかの選択肢】
+1 dispatch は「送り出す、派遣する」です。「関係を送り出す」では意味が通りません。
+2 mistrust は「信用しない、疑う」です。お互いに正直に話し合うことを秘けつとして答えているので、「関係を疑ってこられた」ではつながりません。
+3 impair は「損なう、弱める」です。「40年間関係を損なってこられた方法」をたずねられて、うまくいく秘けつを答えるのは話が合いません。
+【覚えるポイント】
+・sustain：「保つ、維持する」。sustain a relationship で「関係を保つ」。
+・答えの中に the key（秘けつ）が出てくるときは、たずねられたのが「うまくいっていること」だと分かり、空所によい意味の語が入る手がかりになります。

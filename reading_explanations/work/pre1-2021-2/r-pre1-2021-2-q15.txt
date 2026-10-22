@@ -1,0 +1,31 @@
+---
+choices: custody | faculty | retainer | seizure
+answerText: faculty
+---
+【正解】2 faculty（（大学などの）教員、教授陣）
+【和訳】
+（英文）
+The ［faculty］ members at the college have a great reputation, and young people come from across the country to be taught by them.
+（訳）
+その大学の（教員）たちはとても評判がよく、若者たちは、彼らに教わるために全国からやって来る。
+（選択肢の意味）
+1 custody：保護、監督、（警察などによる）身柄の拘束
+2 faculty：（大学などの）教員、教授陣
+3 retainer：（弁護士などに前もって払う）依頼料、（昔の）家来
+4 seizure：差し押さえ、（病気の）発作
+【考え方】
+まず見るところ：後半の to be taught by them
+文の後半を確かめます。
+young people come from across the country to be taught by them（若者たちは、彼らに教わるために全国からやって来る）
+be taught by ～ は「～に教わる」という意味です。them は、前半の ( ) members（（　）のメンバーたち）を指します。つまり、空所のメンバーは、若者たちに教える人たちです。
+次に、空所のある部分を見ます。
+The ( ) members at the college have a great reputation（その大学の（　）メンバーたちはとても評判がよい）
+college は「大学」です。大学で教える人たちを表すのは faculty（教員、教授陣）で、faculty members で「教員たち」となるので、2が正解です。
+この問題の型：指示語（them＝the faculty members）／語の意味・組み合わせ（faculty members：教員たち）
+【ほかの選択肢】
+1 custody は「保護、身柄の拘束」です。「保護メンバー」では、若者に教える人たちを表せません。
+3 retainer は「依頼料、家来」です。大学で若者に教える人たちを表す語ではありません。
+4 seizure は「差し押さえ、発作」です。「差し押さえメンバー」では意味が通りません。
+【覚えるポイント】
+・faculty members：「（大学の）教員たち」。faculty には「能力」という意味もあります。
+・空所のあとの文に them（彼ら）などの指示語があるときは、それが空所の語を指していることがあります。その人たちが何をしているか（ここでは教えている）を確かめることが手がかりになります。
