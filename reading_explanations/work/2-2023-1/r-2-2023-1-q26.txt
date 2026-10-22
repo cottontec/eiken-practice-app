@@ -1,0 +1,27 @@
+---
+choices: Despite this | By chance | As a result | On the other hand
+answerText: As a result
+---
+【正解】3 As a result（その結果）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Despite this（このことにもかかわらず）
+2 By chance（偶然に）
+3 As a result（その結果）
+4 On the other hand（その一方で）
+【考え方】
+空所は第3段落の (26), they are constantly watching each other to make sure they have the latest stories. です。「（26）、それらは、自分たちが最新のニュースを確実に押さえているように、絶えずお互いを見張っている」という意味です。they は、新聞やニュース番組、ニュースサイトを指しています。
+空所の前の2つの文を確かめます。
+・These days, there is more pressure than ever on newspapers, news programs, and news websites to get more readers, viewers, and visitors.（最近では、新聞やニュース番組、ニュースサイトには、より多くの読者や視聴者、訪問者を獲得しなければならないという圧力が、これまでになく強くかかっている）
+・In order to do so, they need to report big news stories as quickly as possible.（そうするために、それらは大きなニュースをできるだけ早く報道する必要がある）
+「できるだけ早く大きなニュースを報道しなければならない」という状況があるから、ほかの会社に後れを取らないように、お互いを絶えず見張っている、という関係です。前の文が原因、空所のあとが結果になっています。
+As a result は「その結果」という意味で、原因から結果へつなぐときに使います。ですから3が正解です。
+【ほかの選択肢】
+1 Despite this は「このことにもかかわらず」で、前の内容から予想されることと反対のことが続くときに使います。早く報道する必要があるからお互いを見張るのは自然な結果なので、反対の内容にはなっていません。
+2 By chance は「偶然に」です。「偶然に、絶えずお互いを見張っている」となり、constantly（絶えず）と合わず、早く報道する必要があるという理由ともつながりません。
+4 On the other hand は「その一方で」で、前の内容と別の面や対照的なことを並べるときに使います。空所のあとは前の内容から生じる結果なので、合いません。
+【覚えるポイント】
+・As a result：「その結果」。原因→結果の流れを表します。
+・make sure ～：「確実に～であるようにする、～を確かめる」。
