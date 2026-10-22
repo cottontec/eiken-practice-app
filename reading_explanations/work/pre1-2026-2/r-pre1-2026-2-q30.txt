@@ -1,0 +1,35 @@
+---
+choices: They took as many precautions as they felt necessary to ensure that there could not be a repetition of the event that had occurred on Elba. | They should have considered relocating him to Ascension, as that island had more secure facilities than those on Saint Helena. | They would have preferred to hold him on the island of Elba because its proximity to Europe made it easier to keep British troops there. | They felt that he should have been kept in a regular prison, but there were no suitable facilities available on Saint Helena at that time.
+answerText: They took as many precautions as they felt necessary to ensure that there could not be a repetition of the event that had occurred on Elba.
+---
+【正解】1 They took as many precautions as they felt necessary to ensure that there could not be a repetition of the event that had occurred on Elba.（イギリスは、エルバ島で起きた出来事がくり返されることのないよう、必要だと感じた限りの用心をした。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What do we learn about the British regarding their treatment of Napoleon I?（ナポレオン1世の扱いに関して、イギリスについて何が分かるか。）
+1 They took as many precautions as they felt necessary to ensure that there could not be a repetition of the event that had occurred on Elba.（イギリスは、エルバ島で起きた出来事がくり返されることのないよう、必要だと感じた限りの用心をした。）
+2 They should have considered relocating him to Ascension, as that island had more secure facilities than those on Saint Helena.（イギリスは、ナポレオンをアセンション島に移すことを考えるべきだった。その島には、セントヘレナ島の施設よりも安全な施設があったからだ。）
+3 They would have preferred to hold him on the island of Elba because its proximity to Europe made it easier to keep British troops there.（イギリスは、できればナポレオンをエルバ島に閉じこめておきたかった。その島はヨーロッパに近いので、イギリス軍の部隊を置いておきやすかったからだ。）
+4 They felt that he should have been kept in a regular prison, but there were no suitable facilities available on Saint Helena at that time.（イギリスは、ナポレオンは普通の監獄に入れられるべきだったと感じていたが、当時のセントヘレナ島には使える適当な施設がなかった。）
+【考え方】
+まず見るところ：第3段落の This time, the British were determined to take no chances と、The British even stationed some soldiers on Ascension Island ～
+The year before, Napoleon had given up his title and been exiled to Elba, a Mediterranean island. However, he later escaped, returned to France, and regained power.（その前の年、ナポレオンは皇帝の位を退き、地中海の島であるエルバ島に追放されていた。しかし、彼はその後脱出してフランスに戻り、再び権力をにぎった）
+exile は「追放する」という意味です。エルバ島で起きた出来事とは、ナポレオンがそこから「脱出した」ことだと分かります。
+This time, the British were determined to take no chances（今回、イギリスは少しの危険も冒さないと固く決めていた）
+take no chances は「少しの危険も冒さない、万全を期す」という意味です。前回のように逃げられないよう、イギリスは強く用心したということです。
+The British even stationed some soldiers on Ascension Island—over one thousand kilometers away—to prevent its use as a base for any French rescue attempt.（イギリスは、アセンション島がフランスによる救出の試みの基地として使われるのを防ぐために、1,000キロメートル以上離れたその島にさえ、何人かの兵士を配置した）
+even は「～さえ」で、そこまでするのかというほどの用心だったことを表しています。さらに、ナポレオンは kept under constant surveillance（常に監視されていた）とも書かれています。
+本文と選択肢を対にすると、次のようになります。
+・本文 take no chances（少しの危険も冒さない）、even stationed some soldiers on Ascension Island（アセンション島にさえ兵士を配置した）→ 選択肢 took as many precautions as they felt necessary（必要だと感じた限りの用心をした）
+・本文 he later escaped（彼はその後脱出した）→ 選択肢 the event that had occurred on Elba（エルバ島で起きた出来事）
+・本文 This time（今回は）、the British were determined to take no chances → 選択肢 ensure that there could not be a repetition（くり返されることのないようにする）
+ですから1が正解です。
+この問題の型：言いかえ（take no chances → took as many precautions as they felt necessary）／指示語（the event that had occurred on Elba ＝ ナポレオンの脱出）
+【ほかの選択肢】
+2 本文にありません。アセンション島には、救出の基地として使われないように兵士が置かれただけで、ナポレオンをそこへ移すべきだったという考えや、セントヘレナ島より安全な施設があったことは書かれていません。
+3 本文にありません。イギリスがナポレオンをエルバ島に置いておきたかったとは書かれていません。エルバ島は、ナポレオンが脱出した場所として出てきます。
+4 本文にありません。本文には Not held in a standard prison（普通の監獄に入れられたのではなく）とありますが、イギリスが普通の監獄に入れるべきだったと感じていたことや、島に適当な施設がなかったことは書かれていません。
+【覚えるポイント】
+・take no chances：「少しの危険も冒さない、万全を期す」。選択肢では took as many precautions as they felt necessary（必要だと感じた限りの用心をした）と言いかえられています。
+・選択肢に the event that had occurred on ～（～で起きた出来事）のようなぼかした言い方があるときは、本文のどの出来事を指しているか（ここでは脱出）を確かめることが手がかりになります。
