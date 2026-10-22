@@ -1,0 +1,20 @@
+---
+choices: to | goes | whichever | he | university
+answerText: university
+order: 3 5 4 2 1
+---
+【正解】5 university（この問題の2番目）
+【完成文】
+However, he knows that ( whichever university he goes to ) study at, it will be very expensive.
+並べ方：3 whichever → 5 university → 4 he → 2 goes → 1 to（2番目は5、4番目は2）
+【和訳】
+ブランドンは大学で生物学を勉強したいので、どの大学に行くべきか決めようとしています。しかし、どの大学に勉強しに行くとしても、とても費用がかかるだろうということが、彼には分かっています。
+【考え方】
+1文目でブランドンは「どの大学に行くべきか決めようとしている」とあります。2文目は However（しかし）で始まり、he knows that ～（～ということが分かっている）と続いています。that のあとには、空所＋study at, it will be very expensive（とても費用がかかるだろう）があります。
+コンマのあとの it will be very expensive が文の中心だと考えると、その前の部分は「どの大学に～しても」という意味になると予想できます。whichever は〈whichever＋名詞〉の形で「どの～を…しても」という意味を表します。そこで 3 whichever のすぐあとに 5 university を置いて、whichever university（どの大学に～しても）というまとまりを作ります。
+そのあとには主語と動詞の 4 he → 2 goes が続き、最後に 1 to を置きます。to のあとに空所の外の study at が続き、goes to study at ～ で「～で勉強するために行く」となります。to はここでは〈to＋動詞の元の形〉で「～するために」という意味です。at のあとに来るはずの「大学」が、whichever university として前に出ている形です。
+したがって2番目は5 university です。
+まちがえやすいのは、whichever he goes to university（3 4 2 1 5）のように、goes to university（大学に行く）という聞きなれた言い方を作ってしまう並べ方です。これだと whichever のあとに名詞がなく、空所のあとの study at の後ろにも何もないことになって、文がつながりません。
+【覚えるポイント】
+・whichever＋名詞＋主語＋動詞：「どの～を…しても」。whichever university he chooses なら「彼がどの大学を選んでも」。
+・go to ～（動詞の元の形）：「～しに行く」。go to study at ～ で「～へ勉強しに行く」。

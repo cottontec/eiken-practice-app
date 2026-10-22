@@ -1,0 +1,21 @@
+---
+choices: a | an oak tree | even tell | from | can't
+answerText: even tell
+order: 5 3 2 4 1
+---
+【正解】3 even tell（この問題の2番目）
+【完成文】
+Not really, Tina. I ( can't even tell an oak tree from a ) maple tree. I wish I knew more about them.
+並べ方：5 can't → 3 even tell → 2 an oak tree → 4 from → 1 a（2番目は3、4番目は4）
+【和訳】
+A：ジョー、木のことをたくさん知っている？
+B：あまり知らないよ、ティナ。オークの木とカエデの木の区別さえつかないんだ。木のことをもっと知っていたらいいのに。
+【考え方】
+まず会話の流れです。Aに「木のことをよく知っているか」と聞かれて、Bは Not really（あまり知らない）と答えています。最後には I wish I knew more about them.（木のことをもっと知っていたらいいのに）とあります。間には「木についてどれほど知らないか」を表す内容が入ると考えられます。
+選択肢の tell と from を見て、tell A from B（AとBを区別する、見分ける）という言い方を思い出します。主語 I のすぐあとには、動詞の前に置く 5 can't（～できない）がきます。can't のあとは動詞の元の形が続くので、3 even tell を置きます。even は「～さえ」という意味で、ここでは動詞 tell の前に置かれて「見分けることさえできない」と強めています。
+そのあとに tell A from B の形で 2 an oak tree → 4 from → 1 a と並べ、空所のあとの maple tree につなげます。I can't even tell an oak tree from a maple tree で「オークの木とカエデの木の区別さえつかない」となります。
+したがって2番目は3 even tell です。
+まちがえやすいのは、can't even tell from an oak tree a（5 3 4 2 1）のように、from をすぐ tell のあとに置いてしまう並べ方です。tell A from B では、区別する1つ目の物（A）を tell と from の間に置くので、この順番では正しい文になりません。
+【覚えるポイント】
+・tell A from B：「AとBを区別する、見分ける」。
+・can't even ～：「～さえできない」。even は強める語なので、訳し落とさないようにしましょう。

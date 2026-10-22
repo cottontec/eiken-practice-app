@@ -1,0 +1,20 @@
+---
+choices: for | drivers | look | should | out
+answerText: should
+order: 2 4 3 5 1
+---
+【正解】4 should（この問題の2番目）
+【完成文】
+Because driving in cold weather can be dangerous, ( drivers should look out for ) ice on the road during the winter.
+並べ方：2 drivers → 4 should → 3 look → 5 out → 1 for（2番目は4、4番目は5）
+【和訳】
+寒い天気の中での運転は危険なこともあるので、運転する人は冬の間、道路の氷に気をつけるべきです。
+【考え方】
+文の前半は Because ～（～なので）で始まる理由の部分で、コンマ（,）で区切られています。空所からが文の中心になる部分なので、まず「だれが」にあたる主語が必要です。選択肢の中で主語になれる名詞は 2 drivers（運転する人たち）です。
+主語のあとには動詞がきます。4 should（～すべきだ）は動詞の前に置いて意味を加える語（助動詞）で、そのあとには動詞の元の形が続きます。そこで drivers should look とします。
+残った out と for は、look と組み合わせて look out for ～（～に気をつける、～に注意する）という熟語になります。for のあとに、空所のあとの ice（氷）が続きます。drivers should look out for ice で「運転する人は氷に気をつけるべきだ」となります。
+したがって2番目は4 should です。
+まちがえやすいのは、should drivers look out for（4 2 3 5 1）と should を先に置く並べ方です。この語順は「運転する人は気をつけるべきですか」という疑問文の形になります。この文はピリオド（.）で終わる、ふつうの文なので、主語 drivers を先に置きます。
+【覚えるポイント】
+・look out for ～：「～に気をつける、～に注意する」。
+・can be ～：「～なこともある、～になりうる」。can は「できる」だけでなく「ありうる」という意味も表します。
