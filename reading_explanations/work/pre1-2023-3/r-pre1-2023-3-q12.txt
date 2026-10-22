@@ -1,0 +1,30 @@
+---
+choices: glances | fabric | installations | compensation
+answerText: compensation
+---
+【正解】4 compensation（補償〈損害やめいわくのうめ合わせとして支払われるもの〉）
+【和訳】
+（英文）
+A: I'm glad you finally made it, Carl. Did you receive any ［compensation］ from the airline because your flight was canceled?
+B: Well, they paid for a hotel for the night, but that's all.
+（訳）
+A：カール、やっと着いてよかったね。飛行機の便が欠航になったことで、航空会社から何か（補償）を受けた？
+B：うーん、その夜のホテル代は払ってくれたけど、それだけだよ。
+（選択肢の意味）
+1 glances：ちらっと見ること
+2 fabric：布地、織物
+3 installations：設置、（取り付けられた）設備
+4 compensation：補償（損害やめいわくのうめ合わせとして支払われるもの）
+【考え方】
+まず見るところ：Aの because your flight was canceled と、Bの they paid for a hotel for the night
+Aは、カールの便が欠航になったことについて、航空会社から何かを受け取ったかをたずねています。Bの答えを見ます。
+Well, they paid for a hotel for the night, but that's all.（うーん、その夜のホテル代は払ってくれたけど、それだけだよ）
+they は the airline（航空会社）を指します。欠航でめいわくをかけたうめ合わせとして、航空会社がホテル代を払ってくれたということです。compensation は「補償」なので、4が正解です。
+この問題の型：因果（便が欠航になった → 航空会社からの補償）
+【ほかの選択肢】
+1 glances は「ちらっと見ること」です。「航空会社から何かちらっと見ることを受けた？」となり、ホテル代を払ってもらったという答えともつながりません。
+2 fabric は「布地」です。欠航と布地には関係がなく、ホテル代を払ってもらったという答えとも合いません。
+3 installations は「設置、設備」です。「航空会社から何か設備を受けた？」となり、欠航の話にもホテル代の答えにも合いません。
+【覚えるポイント】
+・compensation：「補償」。made it：「（目的地に）たどり着いた、間に合った」。
+・会話では、Bの答え（ここではホテル代を払ってくれた）が、Aの質問の空所に入る語をそのまま説明していることが多いので、まずBの答えを見るのが手がかりになります。

@@ -1,0 +1,28 @@
+---
+choices: trance | downfall | rampage | pretext
+answerText: pretext
+---
+【正解】4 pretext（口実、言いわけ）
+【和訳】
+（英文）
+The leader used the political instability in his country as a ［pretext］ for introducing strict new laws aimed at preventing any opposition to his rule.
+（訳）
+その指導者は、自分の国の政治の不安定さを、自分の支配へのあらゆる反対を防ぐことを目的とした厳しい新しい法律を取り入れるための（口実）として利用した。
+（選択肢の意味）
+1 trance：夢うつつの状態、ぼんやりした状態
+2 downfall：没落、転落
+3 rampage：暴れ回ること
+4 pretext：口実（本当の目的をかくして持ち出す、表向きの理由）
+【考え方】
+まず見るところ：空所の前の used ～ as a と、空所のあとの for introducing strict new laws
+use A as B は「AをBとして利用する」という意味です。指導者は「政治の不安定さ」を何かとして利用しました。
+for introducing strict new laws aimed at preventing any opposition to his rule（自分の支配へのあらゆる反対を防ぐことを目的とした、厳しい新しい法律を取り入れるための）
+指導者の本当の目的は、自分への反対をおさえることです。そのために「国が不安定だから」という理由を表向きに持ち出したと読めます。pretext は「口実、表向きの理由」なので、4が正解です。
+この問題の型：語の意味・組み合わせ（use A as a pretext for ～：Aを～の口実にする）
+【ほかの選択肢】
+1 trance は「夢うつつの状態」です。「政治の不安定さを、法律を取り入れるための夢うつつの状態として利用した」では意味が通りません。
+2 downfall は「没落」です。指導者は法律を取り入れて自分の支配を守ろうとしているので、「没落として利用した」ではつながりません。
+3 rampage は「暴れ回ること」です。「政治の不安定さを暴れ回ることとして利用した」では意味が通りません。
+【覚えるポイント】
+・pretext：「口実」。use A as a pretext for ～：「Aを～の口実にする」。opposition：「反対」。
+・use A as a (　) for ～ing の形では、Aが「～をするための何になるか」を考え、目的と理由の関係が成り立つ語かどうかが手がかりになります。

@@ -1,0 +1,28 @@
+---
+choices: devise | prevail | evolve | reconstruct
+answerText: prevail
+---
+【正解】2 prevail（勝つ、打ち勝つ）
+【和訳】
+（英文）
+The war continued for a year, but neither side could ［prevail］. With victory seemingly impossible, the two countries agreed to stop fighting.
+（訳）
+戦争は1年間続いたが、どちらの側も（勝つ）ことができなかった。勝利は不可能に思われ、2つの国は戦いをやめることに合意した。
+（選択肢の意味）
+1 devise：考え出す、工夫する
+2 prevail：勝つ、打ち勝つ
+3 evolve：進化する、発展する
+4 reconstruct：再建する、組み立て直す
+【考え方】
+まず見るところ：空所の前の neither side could と、次の文の With victory seemingly impossible
+neither side は「どちらの側も～ない」という意味です。戦争が1年続いても、どちらの側も何かができなかったと言っています。
+With victory seemingly impossible（勝利は不可能に思われ）
+victory（勝利）が不可能に思われたと書かれているので、どちらの側も勝てなかったことが分かります。prevail は「勝つ、打ち勝つ」なので、2が正解です。
+この問題の型：言いかえ（prevail → victory）
+【ほかの選択肢】
+1 devise は「考え出す」です。ふつう「何を考え出すか」を表す語があとに続きますが、ここにはなく、勝利の話ともつながりません。
+3 evolve は「進化する、発展する」です。「どちらの側も進化できなかった」では、勝利が不可能に思えたという次の文とつながりません。
+4 reconstruct は「再建する」です。何を再建するのかが書かれておらず、勝ち負けの話とも合いません。
+【覚えるポイント】
+・prevail：「勝つ、打ち勝つ」。neither side：「どちらの側も～ない」。
+・空所の動詞の意味に迷ったら、次の文にある名詞（ここでは victory）と同じ意味を表す語かどうかを確かめるのが手がかりになります。

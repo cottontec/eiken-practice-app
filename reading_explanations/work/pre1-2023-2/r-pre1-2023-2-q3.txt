@@ -1,0 +1,29 @@
+---
+choices: depot | canal | valve | panel
+answerText: valve
+---
+【正解】3 valve（バルブ、弁）
+【和訳】
+（英文）
+Emilio discovered a small leak in one of the water pipes in his house. To be safe, he turned off the ［valve］ to stop the water until he knew exactly what the problem was.
+（訳）
+エミリオは、家の水道管の1本に小さな水もれを見つけました。念のため、何が問題なのかが正確に分かるまで水を止めておくために、彼は（バルブ）を閉めました。
+（選択肢の意味）
+1 depot：倉庫、（バスなどの）発着所
+2 canal：運河（船が通るために造った水路）
+3 valve：バルブ、弁（液体や気体の流れを開けたり止めたりする部品）
+4 panel：（四角い）板、操作盤
+【考え方】
+まず見るところ：空所の後ろの to stop the water と、前の文の a small leak in one of the water pipes
+Emilio discovered a small leak in one of the water pipes in his house.（エミリオは、家の水道管の1本に小さな水もれを見つけた）
+leak は「もれ（水やガスがもれること）」、water pipe は「水道管」です。
+he turned off the ( ) to stop the water（彼は水を止めるために（　）を閉めた）
+to stop the water は「水を止めるために」という目的を表します。turn off は、ここでは「（水などの流れを）止める、閉める」という意味です。水道管の水を止めるために閉めるものは、水の流れを開けたり止めたりする部品の valve（バルブ）です。ですから3が正解です。
+この問題の型：語の意味・組み合わせ（turn off the valve ＋ stop the water）
+【ほかの選択肢】
+1 depot は「倉庫、（バスなどの）発着所」です。家の中の水もれを止めるために閉めるものではなく、「倉庫を閉めて水を止める」では意味が通りません。
+2 canal は「運河（船が通るために造った水路）」です。家の水道管の水もれの話なので、運河を止めても家の水を止めることにはなりません。
+4 panel は「板、操作盤」です。「操作盤のスイッチを切る」という意味にはなりえますが、水道管を流れる水を止めることと直接結びつかず、to stop the water の目的に合う語として選べるのは valve です。
+【覚えるポイント】
+・valve：「バルブ、弁」。pipe（管）、water（水）、gas（ガス）などの話題で使われる語です。
+・to stop the water（水を止めるために）のような目的を表す語句が空所の近くにあるときは、その目的を果たせる物を表す名詞を選ぶと手がかりになります。

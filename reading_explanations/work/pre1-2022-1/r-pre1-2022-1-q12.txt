@@ -1,0 +1,28 @@
+---
+choices: stain | slit | bump | blaze
+answerText: stain
+---
+【正解】1 stain（しみ、汚れ）
+【和訳】
+（英文）
+Having spilled red wine on the white carpet, Martha tried to remove the ［stain］ with soap and water. However, she could not remove it completely.
+（訳）
+白いじゅうたんに赤ワインをこぼしてしまい、マーサは石けんと水でその（しみ）を取ろうとした。しかし、それを完全に取り除くことはできなかった。
+（選択肢の意味）
+1 stain：しみ、汚れ
+2 slit：細長い切れ目
+3 bump：こぶ、でこぼこ
+4 blaze：炎、火事
+【考え方】
+まず見るところ：文の始めの Having spilled red wine on the white carpet と、空所の前の tried to remove the
+文の始めの Having spilled ～ は「～をこぼしてしまい」という意味で、そのあとに起きたことにつながります。
+Having spilled red wine on the white carpet（白いじゅうたんに赤ワインをこぼしてしまい）
+白いじゅうたんに赤ワインをこぼせば、赤いしみができます。マーサが石けんと水で取ろうとした（tried to remove）のは、そのしみです。stain は「しみ、汚れ」なので、1が正解です。
+この問題の型：因果（ワインをこぼす→しみができる）
+【ほかの選択肢】
+2 slit は「細長い切れ目」です。ワインをこぼしても切れ目はできず、石けんと水で取るものでもありません。
+3 bump は「こぶ、でこぼこ」です。ワインをこぼしたことと結びつかず、意味が通りません。
+4 blaze は「炎、火事」です。ワインをこぼした話にも、石けんと水で取るという内容にも合いません。
+【覚えるポイント】
+・stain：「しみ」。spill：「こぼす」。remove：「取り除く」。
+・remove（取り除く）の目的語を選ぶときは、文の前の部分（ここでは赤ワインをこぼしたこと）から、何が残ったのかを考えるのが手がかりになります。

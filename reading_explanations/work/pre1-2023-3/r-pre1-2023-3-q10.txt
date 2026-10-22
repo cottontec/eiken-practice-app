@@ -1,0 +1,28 @@
+---
+choices: discreet | artificial | realistic | temporary
+answerText: discreet
+---
+【正解】1 discreet（口が堅い、慎重な）
+【和訳】
+（英文）
+All the staff members at the hotel are very ［discreet］, so famous people who book rooms there know that nothing about their stays will be told to the media.
+（訳）
+そのホテルの従業員は全員がとても（口が堅い）ので、そこに部屋を予約する有名人たちは、自分の滞在について何一つメディアに話されることはないと分かっている。
+（選択肢の意味）
+1 discreet：口が堅い、慎重な
+2 artificial：人工の、わざとらしい
+3 realistic：現実的な
+4 temporary：一時的な
+【考え方】
+まず見るところ：so のあとの nothing about their stays will be told to the media
+so（だから）の後ろは、従業員がどんな人たちであるかによって起きる結果です。
+famous people who book rooms there know that nothing about their stays will be told to the media（そこに部屋を予約する有名人たちは、自分の滞在について何一つメディアに話されることはないと分かっている）
+nothing ～ will be told は「何も～話されない」という否定の意味です。お客さんのことを外にもらさないのは、秘密を守る、口が堅い従業員だからです。discreet は「口が堅い、慎重な」なので、1が正解です。
+この問題の型：因果（従業員が口が堅い → だから何も話されない）
+【ほかの選択肢】
+2 artificial は「人工の、わざとらしい」です。「従業員がわざとらしいので、何もメディアに話されない」となり、理由と結果がつながりません。
+3 realistic は「現実的な」です。従業員が現実的だからといって、お客さんの秘密を守ることにはつながりません。
+4 temporary は「一時的な」です。従業員が一時的な（短い期間だけ働く）人たちだとしても、それは「何もメディアに話されない」理由になりません。
+【覚えるポイント】
+・discreet：「口が堅い、慎重な（秘密をもらさない）」。
+・so の後ろに「何も話されない」のような結果があるときは、その結果を生む性質（ここでは秘密を守ること）を表す語が、空所の答えの手がかりになります。

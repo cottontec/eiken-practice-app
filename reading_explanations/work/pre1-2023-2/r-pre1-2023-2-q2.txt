@@ -1,0 +1,29 @@
+---
+choices: punctuate | compile | bleach | obsess
+answerText: compile
+---
+【正解】2 compile（（資料など）を集めてまとめる）
+【和訳】
+（英文）
+The tax accountant asked the woman to ［compile］ all her financial records over the past year. He needed to see them before he could begin preparing her tax forms.
+（訳）
+その税理士は女性に、過去1年間のお金に関する記録をすべて（集めてまとめる）ように頼みました。彼女の税金の書類を準備し始められるようになる前に、彼はそれらを見る必要があったのです。
+（選択肢の意味）
+1 punctuate：～に句読点を打つ
+2 compile：（資料など）を集めてまとめる
+3 bleach：～を漂白する（色を抜いて白くする）
+4 obsess：～のことで頭がいっぱいになる、とりつかれる
+【考え方】
+まず見るところ：空所の後ろの all her financial records と、次の文の He needed to see them
+tax accountant は「税理士（税金の計算や手続きを手伝う専門家）」、financial records は「お金に関する記録（収入や支出の書類など）」です。
+He needed to see them before he could begin preparing her tax forms.（彼女の税金の書類を準備し始められるようになる前に、彼はそれらを見る必要があった）
+them は「彼女のお金に関する記録」を指します。税理士は、記録を見なければ仕事を始められないのです。
+ですから、女性に頼んだのは「1年分の記録をすべてそろえて見せられるようにすること」だと考えられます。compile は「（資料など）を集めてまとめる」という意味なので、2が正解です。
+この問題の型：語の意味・組み合わせ（compile ＋ records）／因果（記録を見る必要がある→記録をまとめるよう頼む）
+【ほかの選択肢】
+1 punctuate は「～に句読点を打つ」です。「お金の記録すべてに句読点を打つように頼んだ」では、税理士が記録を見るための準備になりません。
+3 bleach は「～を漂白する（色を抜いて白くする）」です。記録の書類を漂白すると、書いてある内容が見えなくなるおそれがあり、「それらを見る必要があった」という次の文と合いません。
+4 obsess は「～のことで頭がいっぱいになる、とりつかれる」です。「お金の記録のことで頭がいっぱいになるように頼んだ」では、税理士が記録を見ることにつながらず、意味が通りません。
+【覚えるポイント】
+・compile：「（資料など）を集めてまとめる」。records（記録）、data（データ）、list（一覧）などと組み合わせて使われます。
+・空所の直後の名詞（ここでは all her financial records）に対して「何をすれば次の文の目的（記録を見る）につながるか」を考えると、動詞を選ぶ手がかりになります。
