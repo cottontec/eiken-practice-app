@@ -16,11 +16,11 @@ answerText: The United States was the only nation in a position to ensure that i
 まず見るところ：第2段落の so as White pointed out, it seemed unlikely the United States would run out
 ホワイトの名前が出てくるのは第2段落です。ブレトンウッズ体制のしくみと、ホワイトが指摘したことを確かめます。
 The Bretton Woods system hinged on an arrangement that directly linked the value of the US dollar to gold.（ブレトンウッズ体制は、アメリカのドルの価値を金と直接結びつける取り決めを軸にしていた）
-At the time, the US Federal Reserve possessed the world's largest reserves of gold, so as White pointed out, it seemed unlikely the United States would run out.（当時、アメリカの連邦準備制度は世界で最も多くの金の蓄えを持っていたので、ホワイトが指摘したように、アメリカが金を使い果たすことはありそうになかった）
+At the time, the US Federal Reserve possessed the world's largest reserves of gold, so as White pointed out, it seemed unlikely the United States would run out.（当時、アメリカの連邦準備制度は世界で最も多くの金の蓄えを持っていたので、ホワイトが指摘したように、アメリカが金を使い果たすことはありそうにないと思われた）
 ドルの価値は金と結びついているので、金がなくならなければドルは安定します。アメリカは世界でいちばん多くの金を持っていたので、ドルを安定させ続けられる、というのがホワイトの指摘です。さらに次の文で、金に裏づけられたドルが「世界の主要な準備通貨」になったと書かれています。
 世界でいちばん多くの金を持つ国はアメリカだけなので、ドルの安定を保証できるのはアメリカだけだった、と考えられます。本文と選択肢を対にすると、次のようになります。
 ・本文 possessed the world's largest reserves of gold（世界で最も多くの金の蓄えを持っていた）→ 読み取れること → 選択肢 the only nation in a position to ensure（保証できる立場にある、ただ1つの国）
-・本文 it seemed unlikely the United States would run out（アメリカが金を使い果たすことはありそうになかった）、the world's primary reserve currency（世界の主要な準備通貨）→ 読み取れること → 選択肢 its currency would be stable enough to be used as a reserve currency（自国の通貨が準備通貨として使えるほど安定している）
+・本文 it seemed unlikely the United States would run out（アメリカが金を使い果たすことはありそうにないと思われた）、the world's primary reserve currency（世界の主要な準備通貨）→ 読み取れること → 選択肢 its currency would be stable enough to be used as a reserve currency（自国の通貨が準備通貨として使えるほど安定している）
 ですから、1が正解です。
 この問題の型：推論（世界最大の金の蓄え・使い果たしそうにない → ドルの安定を保証できるのはアメリカ）
 【ほかの選択肢】

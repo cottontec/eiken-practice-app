@@ -1,0 +1,35 @@
+---
+choices: it became clear that the Pope considered it a priority to recognize Scotland’s independence as a nation. | the Pope attempted to encourage peace between England and Scotland despite not acknowledging either Robert or his country. | the promise of peace between England and Scotland was endangered by Scotland’s attempt to get help from the Pope. | Scotland was able to achieve enough international recognition to get the Pope to admit that Robert was the country’s true king.
+answerText: the Pope attempted to encourage peace between England and Scotland despite not acknowledging either Robert or his country.
+---
+【正解】2 the Pope attempted to encourage peace between England and Scotland despite not acknowledging either Robert or his country.（教皇は、ロバートもその国も認めなかったにもかかわらず、イングランドとスコットランドの間の平和をうながそうとした。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：In the year the Declaration of Arbroath was written,（アーブロース宣言が書かれた年に、）
+1 it became clear that the Pope considered it a priority to recognize Scotland’s independence as a nation.（教皇が、スコットランドの国としての独立を認めることを優先すべきことだと考えていると、はっきりした。）
+2 the Pope attempted to encourage peace between England and Scotland despite not acknowledging either Robert or his country.（教皇は、ロバートもその国も認めなかったにもかかわらず、イングランドとスコットランドの間の平和をうながそうとした。）
+3 the promise of peace between England and Scotland was endangered by Scotland’s attempt to get help from the Pope.（教皇の助けを得ようとするスコットランドの試みによって、イングランドとスコットランドの間の平和の約束が危うくなった。）
+4 Scotland was able to achieve enough international recognition to get the Pope to admit that Robert was the country’s true king.（スコットランドは十分な国際的承認を得て、教皇に、ロバートがこの国の本当の王だと認めさせることができた。）
+【考え方】
+まず見るところ：第3段落の In 1320 と、The response the nobles received later in the year
+最初に、宣言が書かれた年を確かめます。第3段落に In 1320, Scotland’s most powerful nobles therefore gathered to create a document known today as the Declaration of Arbroath.（そのため1320年、スコットランドで最も力のある貴族たちが集まり、今日アーブロース宣言として知られる文書を作った）とあり、1320年だと分かります。
+次に、その年のうちに起きたことを見ます。
+The response the nobles received later in the year, however, indicated that the declaration initially had not been effective.（しかし、その年の後半に貴族たちが受け取った返事は、この宣言が最初は効果がなかったことを示していた）
+later in the year（その年の後半に）なので、これが設問の「宣言が書かれた年」のことです。返事の中身は次のとおりです。
+The Pope not only refused Scotland’s request but also failed to confirm its self-proclaimed independence, although he did urge England to pursue a peaceful resolution in its dealings with the nation.（教皇はスコットランドの求めを断っただけでなく、スコットランドが自ら宣言した独立を認めることもしなかった。ただし、教皇は、イングランドに対して、この国との関係において平和的な解決を目指すよう、確かにうながしはした）
+Scotland’s request（スコットランドの求め）は、ロバートを支配者として認めてほしいという求めです。urge は「強くうながす」です。
+本文と選択肢を対にすると、次のようになります。
+本文 refused Scotland’s request（ロバートを認めてほしいという求めを断った）＋ failed to confirm its self-proclaimed independence（独立を認めなかった）＝ 選択肢 not acknowledging either Robert or his country（ロバートもその国も認めなかった）
+本文 urge England to pursue a peaceful resolution（イングランドに平和的な解決を目指すようにうながした）→ 選択肢 attempted to encourage peace between England and Scotland（イングランドとスコットランドの間の平和をうながそうとした）
+本文 although（～ではあるが）＝ 選択肢 despite（～にもかかわらず）
+したがって、2が正解です。
+この問題の型：言いかえ（refused ～ / failed to confirm ～ → not acknowledging）／対比（although：認めなかった⇔平和はうながした）
+【ほかの選択肢】
+1 本文と反対です。その年の教皇の返事は failed to confirm its self-proclaimed independence（自ら宣言した独立を認めなかった）というもので、独立を認めることを優先していたとは言えません。
+3 本文に書かれていません。教皇の助けを求めたことで平和の約束が危うくなったという話はありません。むしろ、教皇はイングランドに平和的な解決を目指すようにうながしています。
+4 時期が違います。教皇がロバートと彼の王国を認めたのは、A few years later（数年後）に和平条約が結ばれたあとのことです。宣言が書かれた年には、教皇はスコットランドの求めを断っています。
+【覚えるポイント】
+・urge ～ to ...：「～に…するよう強くうながす」。self-proclaimed：「自ら宣言した、自称の」。
+・設問に In the year ～（～の年に）のような時期の指定があるときは、本文の later in the year（その年の後半に）や A few years later（数年後）のような時を表す語句で、出来事がどの時期のものかを区別すると手がかりになります。

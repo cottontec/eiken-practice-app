@@ -1,0 +1,34 @@
+---
+choices: Despite the widespread use of chemical pesticides, modern agriculture is unable to produce enough crops to feed the world's population. | Although pesticides have been shown by research to be safe for humans, their negative reputation has led to their use being restricted. | Despite the positive role of pesticides in food production, scientists are attempting to find different ways to protect crops. | Although pesticides are an effective way to reduce damage caused by pests, they can also lead to reduced crop yields.
+answerText: Despite the positive role of pesticides in food production, scientists are attempting to find different ways to protect crops.
+---
+【正解】3 Despite the positive role of pesticides in food production, scientists are attempting to find different ways to protect crops.（食料生産で農薬がよい役割を果たしているにもかかわらず、科学者たちは作物を守る別の方法を見つけようとしている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Which of the following is true based on the first paragraph?（第1段落の内容から、正しいものはどれですか。）
+1 Despite the widespread use of chemical pesticides, modern agriculture is unable to produce enough crops to feed the world's population.（化学農薬が広く使われているにもかかわらず、現代の農業は、世界の人口を養うのに十分な作物を生産できていない。）
+2 Although pesticides have been shown by research to be safe for humans, their negative reputation has led to their use being restricted.（農薬は人間にとって安全だと研究で示されてきたが、その悪い評判のせいで、使用が制限されるようになった。）
+3 Despite the positive role of pesticides in food production, scientists are attempting to find different ways to protect crops.（食料生産で農薬がよい役割を果たしているにもかかわらず、科学者たちは作物を守る別の方法を見つけようとしている。）
+4 Although pesticides are an effective way to reduce damage caused by pests, they can also lead to reduced crop yields.（農薬は有害生物による被害を減らす効果的な方法だが、作物の収穫量を減らすことにもつながりうる。）
+【考え方】
+まず見るところ：第1段落の Pesticides have made large-scale crop production possible, but ～ と、最後の researchers are constantly looking for alternative crop-protection methods
+第1段落の後半には、農薬のよい面と悪い面が書かれています。
+Pesticides have made large-scale crop production possible, but some are also known to harm the environment or pose risks to human health.（農薬は大規模な作物の生産を可能にしてきたが、一部の農薬は、環境に害を与えたり、人の健康に危険をもたらしたりすることも知られている）
+pesticide は「農薬（害虫や病気から作物を守る薬）」、pose risks to ～ は「～に危険をもたらす」です。
+段落の最後は、次のとおりです。
+Pests also develop resistance to pesticides, especially when the pesticides are used in large amounts, so researchers are constantly looking for alternative crop-protection methods.（また、有害生物は、特に農薬が大量に使われると、農薬に対する抵抗力を身につける。そのため、研究者たちは、作物を守るための別の方法を絶えず探している）
+alternative は「代わりの、別の」です。
+本文と選択肢を対にすると、次のようになります。
+本文 Pesticides have made large-scale crop production possible（農薬は大規模な作物の生産を可能にしてきた）→ 選択肢 the positive role of pesticides in food production（食料生産で農薬が果たしているよい役割）
+本文 researchers are constantly looking for alternative crop-protection methods（研究者たちは作物を守る別の方法を絶えず探している）→ 選択肢 scientists are attempting to find different ways to protect crops（科学者たちは作物を守る別の方法を見つけようとしている）
+農薬は役に立っているけれど、問題もあるので別の方法が探されている、という流れが選択肢の内容と合うので、3が正解です。
+この問題の型：言いかえ（alternative crop-protection methods → different ways to protect crops）
+【ほかの選択肢】
+1 本文には、農薬に頼ることで This level of production（この水準の生産）が達成されてきたと書かれています。現代の農業が世界の人口を養うのに十分な作物を生産できていない、という話は第1段落に書かれていません。
+2 本文には、some are also known to ～ pose risks to human health（一部の農薬は人の健康に危険をもたらすことも知られている）とあり、研究で安全だと示されたとは書かれていません。また、評判のせいで使用が制限されたという話もありません。
+4 本文で、植物の成長をそこない収穫量の大幅な減少につながるとされているのは These pests（こうした有害生物）です。農薬が収穫量を減らすとは書かれていないので、農薬と有害生物を取り違えています。
+【覚えるポイント】
+・alternative：「代わりの、別の」。alternative crop-protection methods で「作物を守るための別の方法」。
+・段落の内容を問う設問では、よい面（ここでは have made large-scale crop production possible）、問題点（but のあと）、その結果（so のあと）という段落の流れをつかんでから選択肢と比べることが手がかりになります。

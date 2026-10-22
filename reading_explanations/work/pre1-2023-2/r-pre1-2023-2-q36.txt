@@ -2,16 +2,16 @@
 choices: a strategy designed to increase overall support for NASA's activities and to help it receive more money. | based on experiments in which children showed an increased interest in robots that looked like humans. | done because psychologists suggested that the strategy would make the engineers work harder to complete it on time. | the result of government pressure on NASA to make its designs more likely to be used in toys.
 answerText: a strategy designed to increase overall support for NASA's activities and to help it receive more money.
 ---
-【正解】1 a strategy designed to increase overall support for NASA's activities and to help it receive more money.（NASAの活動に対する全体的な支持を高め、NASAがより多くのお金を受け取れるようにするために考えられた戦略。）
+【正解】1 a strategy designed to increase overall support for NASA's activities and to help it receive more money.（NASAの活動に対する全体的な支持を高め、NASAがより多くのお金を受け取れるようにするために考えられた戦略だった。）
 【和訳】
 ＜本文の全訳＞
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：According to the second paragraph, it seems likely that making Oppy appear more human was（第2段落によると、オッピーをより人間らしく見せたことは、～だった可能性が高いようだ。）
-1 a strategy designed to increase overall support for NASA's activities and to help it receive more money.（NASAの活動に対する全体的な支持を高め、NASAがより多くのお金を受け取れるようにするために考えられた戦略。）
-2 based on experiments in which children showed an increased interest in robots that looked like humans.（人間に似たロボットに子どもたちがより強い興味を示した実験にもとづくもの。）
-3 done because psychologists suggested that the strategy would make the engineers work harder to complete it on time.（その戦略によって技術者たちが期限どおりに完成させようともっと熱心に働くだろうと心理学者たちが提案したために、行われたもの。）
-4 the result of government pressure on NASA to make its designs more likely to be used in toys.（NASAの設計がおもちゃに使われやすくなるようにという、政府からNASAへの圧力の結果。）
+1 a strategy designed to increase overall support for NASA's activities and to help it receive more money.（NASAの活動に対する全体的な支持を高め、NASAがより多くのお金を受け取れるようにするために考えられた戦略だった。）
+2 based on experiments in which children showed an increased interest in robots that looked like humans.（人間に似たロボットに子どもたちがより強い興味を示した実験にもとづいていた。）
+3 done because psychologists suggested that the strategy would make the engineers work harder to complete it on time.（その戦略によって技術者たちが期限どおりに完成させようともっと熱心に働くだろうと心理学者たちが提案したために行われた。）
+4 the result of government pressure on NASA to make its designs more likely to be used in toys.（NASAの設計がおもちゃに使われやすくなるようにという、政府からNASAへの圧力の結果だった。）
 【考え方】
 まず見るところ：第2段落の最後の It has been suggested that giving Oppy human characteristics was an effective strategy to win over the public and perhaps even attract additional funding
 第2段落の後半には、NASAがオッピーをわざと人間らしく見せたことが書かれています。その目的についての文は次のとおりです。

@@ -1,0 +1,31 @@
+---
+choices: is turning to technology instead | is planning to construct stronger defenses | has stopped all current projects | has requested help from other nations
+answerText: is turning to technology instead
+---
+【正解】1 is turning to technology instead（その代わりに技術に頼ろうとしている）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 is turning to technology instead（その代わりに技術に頼ろうとしている）
+2 is planning to construct stronger defenses（より強い防御の設備を造る計画を立てている）
+3 has stopped all current projects（現在のすべての計画を止めた）
+4 has requested help from other nations（ほかの国々に助けを求めた）
+【考え方】
+まず見るところ：第2段落の空所の前の these measures may be useless in the long term と、後ろの Future Now Project ～ virtual reconstruction
+空所の前では、政府の今の対策について書かれています。
+Sea barriers have been built, and work is underway to create an area of raised land that will provide a habitable area for residents.（防潮堤が造られ、住民が住める場所となる、土地を高く盛り上げた区域を作る工事も進められている）
+However, the government knows these measures may be useless in the long term.（しかし政府は、こうした対策が長い目で見れば役に立たないかもしれないと分かっている）
+these measures（こうした対策）は、防潮堤や土地を高くする工事のことです。So（そこで）のあとの空所には、これらの対策では足りないかもしれないと考えた政府が、次にとった行動が入ります。
+空所の後ろを見ます。
+Part of this project involves creating a virtual reconstruction of the nation.（このプロジェクトの一部には、国を仮想空間に再現することが含まれている）
+virtual は「仮想の（コンピューターの中に作られた）」です。続く文でも a digital record（デジタルの記録）を作ると書かれています。
+防潮堤のような「形のある対策」の代わりに、コンピューターを使った技術に頼るという流れなので、1の is turning to technology instead（その代わりに技術に頼ろうとしている）が合います。instead（その代わりに）が、前の対策との入れかわりをはっきり示しています。ですから1が正解です。
+この問題の型：具体例とまとめ（Future Now Project・仮想空間・デジタルの記録 → 技術に頼る）／因果（対策が役に立たないかもしれない → So）
+【ほかの選択肢】
+2 is planning to construct stronger defenses（より強い防御の設備を造る計画を立てている）は、空所の後ろの内容と合いません。後ろに書かれているのは、防潮堤を強くする話ではなく、国を仮想空間に再現するプロジェクトです。
+3 has stopped all current projects（現在のすべての計画を止めた）は、本文に書かれていません。第2段落の work is underway（工事が進められている）や、政府が新しく Future Now Project を立ち上げたことからも、すべての計画を止めたとは読めません。
+4 has requested help from other nations（ほかの国々に助けを求めた）は、空所の後ろとつながりません。オーストラリアとの協定は第1段落の移住の話で、空所の後ろに書かれているのは、ツバルの政府が自分で立ち上げたプロジェクトです。
+【覚えるポイント】
+・turn to ～：「～に頼る、～に目を向ける」。instead：「その代わりに」。
+・So（そこで）のあとの空所は、すぐ後ろに書かれた具体的な行動（ここでは仮想空間に国を再現すること）をまとめた言い方になることが多いです。後ろの例をまとめると何と言えるかを考えるのが手がかりになります。

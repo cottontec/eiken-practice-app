@@ -1,0 +1,35 @@
+---
+choices: It demonstrates that Robert was actually a much better leader than people had originally thought him to be. | It brought a new way of looking at the duty that a country’s ruler had to the people he or she was governing. | It reveals that there was much more conflict between Scottish rulers and nobles at the time than scholars once believed. | It suggested that a beneficial system of government was not possible with a king or queen ruling a country.
+answerText: It brought a new way of looking at the duty that a country’s ruler had to the people he or she was governing.
+---
+【正解】2 It brought a new way of looking at the duty that a country’s ruler had to the people he or she was governing.（それは、国の支配者が、自分が治めている人々に対して負う義務について、新しい見方をもたらした。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one common interpretation of the Declaration of Arbroath?（アーブロース宣言についての一般的な解釈の一つは何か。）
+1 It demonstrates that Robert was actually a much better leader than people had originally thought him to be.（それは、ロバートが、人々が最初に思っていたよりも、実はずっとすぐれた指導者だったことを示している。）
+2 It brought a new way of looking at the duty that a country’s ruler had to the people he or she was governing.（それは、国の支配者が、自分が治めている人々に対して負う義務について、新しい見方をもたらした。）
+3 It reveals that there was much more conflict between Scottish rulers and nobles at the time than scholars once believed.（それは、当時のスコットランドの支配者と貴族の間に、学者たちがかつて考えていたよりもずっと多くの対立があったことを明らかにしている。）
+4 It suggested that a beneficial system of government was not possible with a king or queen ruling a country.（それは、王や女王が国を治めていては、よい政治の仕組みはありえないことを示した。）
+【考え方】
+まず見るところ：第4段落の Scholars generally agree, however, that と、a pioneering example of a contract
+設問の common interpretation（一般的な解釈）は、第4段落の Scholars generally agree（学者たちは一般に意見が一致している）にあたります。
+Scholars generally agree, however, that what makes the Declaration of Arbroath so historic is the assertion that the king may rule only with the approval of the Scottish people（しかし学者たちは一般に、アーブロース宣言をこれほど歴史的なものにしているのは、王はスコットランドの人々の承認がある場合にのみ統治してよいという主張だという点で、意見が一致している）
+assertion は「主張」、approval は「承認（よいと認めること）」です。王は人々に認められてはじめて国を治めてよい、という考えです。
+次に、段落の最後の文を見ます。
+In this sense, the document was a pioneering example of a contract between a country’s ruler and its people, in which the ruler was responsible for ensuring the people could live in a free society.（この意味で、この文書は、国の支配者とその国の人々との間の契約の、先がけとなる例だった。その契約では、支配者は、人々が自由な社会で暮らせるようにする責任を負っていた）
+pioneering は「先がけとなる（ほかより先に新しいことを始めた）」、be responsible for ～ は「～する責任がある」です。
+本文と選択肢を対にすると、次のようになります。
+本文 Scholars generally agree（学者たちは一般に意見が一致している）→ 設問 common interpretation（一般的な解釈）
+本文 a pioneering example（先がけとなる例）→ 選択肢 brought a new way of looking at（新しい見方をもたらした）
+本文 the ruler was responsible for ensuring the people could live in a free society（支配者は、人々が自由な社会で暮らせるようにする責任を負っていた）→ 選択肢 the duty that a country’s ruler had to the people（国の支配者が人々に対して負う義務）
+したがって、2が正解です。
+この問題の型：言いかえ（pioneering → new、was responsible for → the duty）
+【ほかの選択肢】
+1 本文に書かれていません。宣言によって、ロバートが思われていたよりすぐれた指導者だったと分かった、という解釈はありません。
+3 本文に書かれていません。支配者と貴族の対立が、学者たちが考えていたよりも多かったという話はありません。本文にあるのは、裏切る支配者を退ける権利を貴族たちが主張したことです。
+4 本文と合いません。宣言は the king may rule only with the approval of the Scottish people（王は人々の承認がある場合にのみ統治してよい）と主張しており、王が国を治めること自体を否定しているのではありません。宣言は、ロバートを王として認めるよう教皇に求める文書でもありました。
+【覚えるポイント】
+・pioneering：「先がけとなる」。approval：「承認」。
+・「一般的な解釈」をたずねる設問では、本文の Scholars generally agree（学者たちは一般に意見が一致している）のような部分を探すと手がかりになります。Some historians even argue（～と主張する歴史家さえいる）のような一部の人の意見とは区別して読みます。

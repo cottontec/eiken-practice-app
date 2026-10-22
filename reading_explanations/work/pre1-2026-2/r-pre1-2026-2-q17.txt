@@ -1,0 +1,29 @@
+---
+choices: phase out | swear by | rub in | run up
+answerText: run up
+---
+【正解】4 run up（（借金や請求額を）ためる、かさませる）
+【和訳】
+（英文）
+Debt adds up quickly, so people with credit cards must be careful not to ［run up］ large bills before checking how much they have spent.
+（訳）
+借金はすぐに積み重なるので、クレジットカードを持っている人は、自分がいくら使ったかを確かめる前に、高額の請求をためないように気をつけなければならない。
+（選択肢の意味）
+1 phase out：段階的に廃止する
+2 swear by：～を強く信頼する
+3 rub in：（いやなことを）しつこく言う、すりこむ
+4 run up：（借金や請求額を）ためる、かさませる
+【考え方】
+まず見るところ：文の最初の Debt adds up quickly と、空所の後ろの large bills
+Debt adds up quickly（借金はすぐに積み重なる）
+debt は「借金」、add up は「積み重なる、合計が増える」という意味です。クレジットカードを使うと、あとで払うお金がすぐにふくらむ、という注意から始まっています。
+people with credit cards must be careful not to ( ) large bills before checking how much they have spent（クレジットカードを持っている人は、いくら使ったかを確かめる前に、高額の請求を（　）ないよう気をつけなければならない）
+bill は「請求書、請求額」です。いくら使ったかを確かめないままだと、払うべき額がどんどん大きくなってしまいます。run up は「（借金や請求額を）ためる、かさませる」という意味で、run up large bills で「高額の請求をためる」となるので、4が正解です。
+この問題の型：熟語・決まった形（run up large bills）／因果（借金はすぐ積み重なる→請求をためないよう注意）
+【ほかの選択肢】
+1 phase out は「段階的に廃止する」です。「高額の請求を段階的に廃止しないように気をつける」となり、借金が積み重なるという注意とつながりません。
+2 swear by は「～を強く信頼する」です。「高額の請求を強く信頼しないように」となり、意味が通りません。
+3 rub in は「（いやなことを）しつこく言う、すりこむ」です。「高額の請求をすりこまないように」となり、クレジットカードの使いすぎへの注意になりません。
+【覚えるポイント】
+・run up large bills：「高額の請求をためる」。run up は借金や請求額を「かさませる」という意味で使われています。
+・文の初めに Debt adds up quickly のような警告があるときは、空所に入る語句がその警告の中身（ここでは使いすぎて請求がふくらむこと）を表しているかを確かめることが手がかりになります。

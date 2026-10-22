@@ -1,0 +1,35 @@
+---
+choices: has proved effective at killing pathogens that enter plant cells but is unable to protect plants against insects and other external pests. | helps plants defend themselves against pests in a similar way to how human vaccines work but has a broader effect. | works for the lifetime of a plant just as vaccines do for humans but is not passed on to the plant's offspring because it has no genetic basis. | works well in most cases but can sometimes cause damage to plants because of the stress it causes them.
+answerText: helps plants defend themselves against pests in a similar way to how human vaccines work but has a broader effect.
+---
+【正解】2 helps plants defend themselves against pests in a similar way to how human vaccines work but has a broader effect.（（誘導抵抗性は）人間のワクチンの働き方と似たやり方で、植物が有害生物から自分を守るのを助けるが、より幅広い効果がある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to the author of the passage, induced resistance（この文章の筆者によると、誘導抵抗性は）
+1 has proved effective at killing pathogens that enter plant cells but is unable to protect plants against insects and other external pests.（植物の細胞に入りこむ病原体を殺すのに効果があると分かっているが、昆虫やそのほかの外からの有害生物から植物を守ることはできない。）
+2 helps plants defend themselves against pests in a similar way to how human vaccines work but has a broader effect.（人間のワクチンの働き方と似たやり方で、植物が有害生物から自分を守るのを助けるが、より幅広い効果がある。）
+3 works for the lifetime of a plant just as vaccines do for humans but is not passed on to the plant's offspring because it has no genetic basis.（ワクチンが人間に対してそうであるのとちょうど同じように、植物の一生のあいだ効果が続くが、遺伝的なもとがないので、その植物の子孫には受け継がれない。）
+4 works well in most cases but can sometimes cause damage to plants because of the stress it causes them.（たいていの場合はうまく働くが、植物に与えるストレスのせいで、ときに植物に害を与えることがある。）
+【考え方】
+まず見るところ：第2段落の in much the same way as human vaccines と、Unlike most human vaccines, however, ～
+第2段落では、誘導抵抗性のしくみが人間のワクチンと比べて説明されています。
+Essentially, this "vaccinates" plants against pests in much the same way as human vaccines protect people against diseases such as influenza.（要するに、これは、人間のワクチンがインフルエンザなどの病気から人を守るのとほとんど同じやり方で、植物に有害生物に対する「ワクチン接種をする」のである）
+induced resistance（誘導抵抗性）は、植物がもともと持つ守りの力を、外から働きかけて呼び起こすことです。人間のワクチンと似たやり方だと書かれています。
+そのすぐあとで、ワクチンとの違いも書かれています。
+Unlike most human vaccines, however, this method can protect plants against several pests at the same time.（しかし、人間のほとんどのワクチンとは違って、この方法は、植物をいくつもの有害生物から同時に守ることができる）
+第3段落でも、同じことが比べる形で書かれています。
+while induced resistance provides broader protection than most human vaccines（誘導抵抗性は人間のほとんどのワクチンより幅広い守りをもたらすものの）
+本文と選択肢を対にすると、次のようになります。
+本文 in much the same way as human vaccines protect people（人間のワクチンが人を守るのとほとんど同じやり方で）→ 選択肢 in a similar way to how human vaccines work（人間のワクチンの働き方と似たやり方で）
+本文 can protect plants against several pests at the same time ／ provides broader protection than most human vaccines（いくつもの有害生物から同時に守れる／人間のほとんどのワクチンより幅広い守りをもたらす）→ 選択肢 has a broader effect（より幅広い効果がある）
+ですから2が正解です。
+この問題の型：言いかえ（broader protection → a broader effect）
+【ほかの選択肢】
+1 第2段落には、植物の防御は destroying pathogen-infected cells（病原体に感染した細胞を壊すこと）から releasing toxins to kill insects（昆虫を殺すための毒素を出すこと）まであると書かれています。昆虫から守れないという内容は、この記述と合いません。
+3 第2段落には、the protection can even be carried into the next generation（この守りが次の世代にまで受け継がれることさえある）と書かれています。子孫に受け継がれないという内容は本文と合いません。また、本文は遺伝のしくみが has yet to be determined（まだ明らかになっていない）と述べているだけで、遺伝的なもとがないとは書かれていません。一生のあいだ効果が続くという話もありません。
+4 本文で限界として挙げられているのは、資源を防御に回すことで成長が落ちることと、植物を完全には守れないことです。ストレスは弱い防御反応を引き起こすためにわざと与えるものとして説明されており、そのストレスのせいで植物に害が出るとは書かれていません。たいていの場合うまく働くという話もありません。
+【覚えるポイント】
+・broad：「幅広い」。broader protection で「より幅広い守り」。
+・Unlike ～, however, ...（～とは違って、しかし…）や while ～ provides broader ...（～より幅広い…をもたらすものの）のような比べる形は、選択肢の「似ているが、違いもある」という内容を確かめる手がかりになります。

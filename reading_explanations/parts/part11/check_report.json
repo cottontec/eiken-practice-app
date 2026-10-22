@@ -102,11 +102,22 @@
       "written": 41
     },
     "errors": [],
-    "warnings": [
-      [
-        "r-pre1-2023-2-q36",
-        "性別を決める口調の可能性：もの。（中立的な表現に）"
-      ]
-    ]
+    "warnings": []
+  },
+  "pre1-2022-3": {
+    "stats": {
+      "target": 41,
+      "written": 41
+    },
+    "errors": [],
+    "warnings": []
+  },
+  "pre1-2023-1": {
+    "stats": {
+      "target": 41,
+      "written": 41
+    },
+    "errors": [],
+    "warnings": []
   }
 }

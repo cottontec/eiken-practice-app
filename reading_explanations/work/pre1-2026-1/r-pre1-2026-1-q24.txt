@@ -1,0 +1,30 @@
+---
+choices: is no longer necessary | should not take long to complete | will not only benefit Tuvalu | has no clear purpose
+answerText: will not only benefit Tuvalu
+---
+【正解】3 will not only benefit Tuvalu（ツバルのためになるだけではない）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 is no longer necessary（もはや必要ない）
+2 should not take long to complete（完成までに長くはかからないはずだ）
+3 will not only benefit Tuvalu（ツバルのためになるだけではない）
+4 has no clear purpose（はっきりした目的がない）
+【考え方】
+まず見るところ：第3段落の最後の This could also help to ensure the survival of other island nations facing similar threats from the sea.
+第3段落の初めには、プロジェクトへの批判が書かれています。
+Some critics claim the resources required for the project could be better used to tackle climate change.（このプロジェクトに必要な資源は、気候変動に立ち向かうために使うほうがよりよい使い道になるだろう、と主張する批判者もいる）
+In response（これに対して）のあとの空所には、この批判に対する政府の言い分が入ります。
+その中身は、空所のあとに書かれています。国際条約では、国であるためには「領土」と「住民」が必要とされています。ツバルの政府は、これを仮想の形で満たして、国として存在し続けたいと考えています。そして、最後の文があります。
+This could also help to ensure the survival of other island nations facing similar threats from the sea.（これは、海からの同じような脅威に直面しているほかの島国が生き残れるようにすることにも役立つかもしれない）
+also（～にも）とあるとおり、このプロジェクトはツバルだけでなく、ほかの島国のためにもなるかもしれない、と述べています。
+これは「ツバルのためになるだけではない」という言い方と同じ向きです。ですから3が正解です。
+この問題の型：言いかえ（not only benefit Tuvalu ＝ also help other island nations）
+【ほかの選択肢】
+1 is no longer necessary（もはや必要ない）を入れると、政府が自分たちのプロジェクトはいらないと言っていることになります。後ろの文で政府は、このプロジェクトによって国として存在し続けたいと説明しているので、合いません。
+2 should not take long to complete（完成までに長くはかからないはずだ）は、本文に書かれていません。空所のあとは、完成までの期間ではなく、プロジェクトの目的（国として存在し続けること）を説明しているので、つながりません。
+4 has no clear purpose（はっきりした目的がない）を入れると、政府が自分たちのプロジェクトには目的がないと言っていることになります。空所のあとで、国際条約の条件を仮想の形で満たすという目的がはっきり書かれているので、合いません。
+【覚えるポイント】
+・not only ～：「～だけではない」。あとに also（～も）を使った文が続いて、ほかにも当てはまることが示されることがあります。
+・批判のあとの In response（これに対して）の空所では、続く文に書かれた反論の中身（ここでは最後の文の also ～）をまとめた言い方を選ぶのが手がかりになります。

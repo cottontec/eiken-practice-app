@@ -1,0 +1,34 @@
+---
+choices: Animals did not self-medicate because consuming unknown substances went against their natural instincts. | The kinds of plants that animals used for medicinal purposes changed from one generation to the next. | Animals with low intelligence could not self-medicate because they lacked the ability to learn how to do so. | All animals were born with the ability to recognize natural substances that have medicinal properties.
+answerText: Animals with low intelligence could not self-medicate because they lacked the ability to learn how to do so.
+---
+【正解】3 Animals with low intelligence could not self-medicate because they lacked the ability to learn how to do so.（知能の低い動物は、自己治療のしかたを学ぶ能力がないので、自己治療ができない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What did most scientists believe for many years?（長い間、ほとんどの科学者は何を信じていましたか。）
+1 Animals did not self-medicate because consuming unknown substances went against their natural instincts.（知らない物質を体に取り入れることは生まれつきの本能に反するので、動物は自己治療をしない。）
+2 The kinds of plants that animals used for medicinal purposes changed from one generation to the next.（動物が薬として使う植物の種類は、世代ごとに変わった。）
+3 Animals with low intelligence could not self-medicate because they lacked the ability to learn how to do so.（知能の低い動物は、自己治療のしかたを学ぶ能力がないので、自己治療ができない。）
+4 All animals were born with the ability to recognize natural substances that have medicinal properties.（すべての動物は、薬としての性質を持つ自然の物質を見分ける能力を、生まれつき持っていた。）
+【考え方】
+まず見るところ：第3段落の最初の For many years, it was believed by most scientists that this behavior was limited to animals with advanced intellectual ability.
+第3段落の最初の文は、次のとおりです。
+For many years, it was believed by most scientists that this behavior was limited to animals with advanced intellectual ability.（長い間、ほとんどの科学者は、この行動は高い知能を持つ動物に限られていると考えていた）
+be limited to ～ は「～に限られている」、advanced intellectual ability は「高い知能」です。this behavior は、前の段落の「自己治療の行動」を指します。知能の高い動物だけができる、ということは、知能の低い動物はできない、という意味になります。
+次の文に、そう考えられた理由が書かれています。
+This belief originated mainly from the initial observations of chimpanzees, which suggested that the behavior had to be learned and passed on from generation to generation.（この考えは主に、チンパンジーについての最初の観察から生まれたもので、その観察は、この行動が学習され、世代から世代へと受けつがれなければならないものだということを示唆していた）
+自己治療は「学習しなければできない」と考えられていたのです。だから、学ぶ力の高い動物に限られる、と思われていたと読み取れます。
+本文と選択肢を対にすると、次のようになります。
+本文 limited to animals with advanced intellectual ability（高い知能を持つ動物に限られている）→ 選択肢 Animals with low intelligence could not self-medicate（知能の低い動物は自己治療ができない）
+本文 the behavior had to be learned（この行動は学習されなければならない）→ 選択肢 because they lacked the ability to learn how to do so（そのしかたを学ぶ能力がないので）
+ですから3が正解です。
+この問題の型：言いかえ（limited to animals with advanced intellectual ability → animals with low intelligence could not）
+【ほかの選択肢】
+1 科学者たちが長い間信じていたのは、自己治療は知能の高い動物に限られる、ということで、動物がまったく自己治療をしないと考えていたわけではありません。また、本能に反するという話も本文にはありません。
+2 第3段落の passed on from generation to generation（世代から世代へと受けつがれる）は、自己治療の行動が受けつがれるという意味で、使う植物の種類が世代ごとに変わるという話ではありません。
+4 すべての動物が生まれつきその能力を持っている、という考えは、長い間信じられていたこととは違います。第3段落によると、生まれつきの本能によっても自己治療が起こると考えられるようになったのは、最近の研究のまとめのあとです。また、本文は all animals（すべての動物）とまでは言っていません。
+【覚えるポイント】
+・be limited to ～：「～に限られている」。limited to animals with advanced intellectual ability は「知能の高い動物だけ」ということなので、「知能の低い動物はできない」と裏返して言いかえられます。
+・設問が For many years や once（かつて）など「昔の考え」をたずねているときは、本文の However（しかし）の前に書かれた内容が答えの手がかりになり、However のあとの新しい考えと取りちがえないよう注意が必要です。

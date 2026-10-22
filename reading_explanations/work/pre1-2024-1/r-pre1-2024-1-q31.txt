@@ -1,0 +1,32 @@
+---
+choices: Many of the architectural techniques pioneered by Matrix eventually came to dominate the design processes taught in architecture schools today. | Although the methods Matrix used to include ordinary people in the design process of buildings were too simple to be effective, they helped people feel included. | People who were previously ignored became more confident to give their opinions regarding the design of spaces around them. | Even though the group’s members no longer do architecture-related work, designers of public areas continue to take inspiration from their principles.
+answerText: People who were previously ignored became more confident to give their opinions regarding the design of spaces around them.
+---
+【正解】3 People who were previously ignored became more confident to give their opinions regarding the design of spaces around them.（以前は無視されていた人々が、身の回りの空間の設計について、より自信を持って意見を言うようになった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Which of the following statements best describes Matrix’s impact?（次のうち、マトリックスの影響を最もよく表しているものはどれですか。）
+1 Many of the architectural techniques pioneered by Matrix eventually came to dominate the design processes taught in architecture schools today.（マトリックスが最初に取り入れた建築の手法の多くは、やがて今日の建築学校で教えられる設計の過程の中心になった。）
+2 Although the methods Matrix used to include ordinary people in the design process of buildings were too simple to be effective, they helped people feel included.（マトリックスが一般の人々を建物の設計の過程に加えるために使った方法は、単純すぎて効果はなかったものの、人々が自分も加わっていると感じる助けにはなった。）
+3 People who were previously ignored became more confident to give their opinions regarding the design of spaces around them.（以前は無視されていた人々が、身の回りの空間の設計について、より自信を持って意見を言うようになった。）
+4 Even though the group’s members no longer do architecture-related work, designers of public areas continue to take inspiration from their principles.（グループのメンバーはもう建築に関係する仕事をしていないが、公共の場所を設計する人々は今もその原則から着想を得続けている。）
+【考え方】
+まず見るところ：第5段落の empowering them to have their voices reflected in the public spaces they inhabited
+第5段落では、マトリックスが果たした役割がまとめられています。
+Matrix’s members worked with traditionally overlooked minority groups, empowering them to have their voices reflected in the public spaces they inhabited.（マトリックスのメンバーは、これまで見過ごされてきた少数派の集団と協力し、その人々が暮らす公共の空間に自分たちの声が反映されるよう、力を与えた）
+overlooked は「見過ごされた」、minority group は「少数派の集団（社会の中で人数が少なく、意見が通りにくい人々）」、empower は「（人に）力や自信を与える」です。
+本文と選択肢を対にすると、次のようになります。
+本文 traditionally overlooked minority groups（これまで見過ごされてきた少数派の集団）→ 選択肢 People who were previously ignored（以前は無視されていた人々）
+本文 empowering them to have their voices reflected（自分たちの声が反映されるよう力を与えた）→ 選択肢 became more confident to give their opinions（より自信を持って意見を言うようになった）
+本文 the public spaces they inhabited（その人々が暮らす公共の空間）→ 選択肢 spaces around them（身の回りの空間）
+力を与えられた人々が、空間の設計について意見を言う自信を持つようになったと読み取れます。ですから3が正解です。
+この問題の型：言いかえ（overlooked → previously ignored／empowering → more confident）
+【ほかの選択肢】
+1 本文に書かれていません。マトリックスは建築の教え方を変えることを提案し、元メンバーは今も変化を求めて働きかけていますが、その手法が今日の建築学校で教えられる設計の過程の中心になった、とまでは書かれていません。言い切りすぎです。
+2 本文に書かれていません。第4段落には、模型を使う方法で、建築の知識がほとんどない人々でさえ模型の部屋を自由に並べ替え、設計の過程に加わっていると感じられた、とあります。方法が単純すぎて効果がなかったという話は出てきません。
+4 本文の内容と合いません。第5段落には、メンバーが一緒に活動するのをやめたあとも、学問や社会運動の場で have carried on pushing for change in how architecture is practiced（建築の実践のあり方を変えようと働きかけ続けてきた）とあります。メンバーは建築に関係する活動を続けているので、「もう建築に関係する仕事をしていない」は本文と合いません。
+【覚えるポイント】
+・empower 人 to ～：「人に～する力（自信）を与える」。
+・「影響（impact）」をたずねる設問は、最後の段落にまとめが書かれていることが多いので、そこの言いかえを探すと手がかりになります。

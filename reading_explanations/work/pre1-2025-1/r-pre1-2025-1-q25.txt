@@ -1,0 +1,31 @@
+---
+choices: gave supplies of water and food to the Mary Celeste's crew to prevent them from dying before reaching Italy. | repaired the damage to the Mary Celeste, which was then able to continue its journey to Italy. | contacted British authorities in Gibraltar, who came to salvage the Mary Celeste. | took the Mary Celeste to Gibraltar because they thought they could make money by doing so.
+answerText: took the Mary Celeste to Gibraltar because they thought they could make money by doing so.
+---
+【正解】4 took the Mary Celeste to Gibraltar because they thought they could make money by doing so.（そうすることでお金が得られると考えたので、メアリー・セレスト号をジブラルタルへ運んだ。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：After finding the Mary Celeste drifting at sea, the crew of the Dei Gratia（メアリー・セレスト号が海をただよっているのを見つけたあと、デイ・グラシア号の乗組員は）
+1 gave supplies of water and food to the Mary Celeste's crew to prevent them from dying before reaching Italy.（イタリアに着く前に死んでしまわないように、メアリー・セレスト号の乗組員に水と食料を与えた。）
+2 repaired the damage to the Mary Celeste, which was then able to continue its journey to Italy.（メアリー・セレスト号の損傷を修理し、メアリー・セレスト号はその後、イタリアへの旅を続けることができた。）
+3 contacted British authorities in Gibraltar, who came to salvage the Mary Celeste.（ジブラルタルのイギリス当局に連絡し、当局がメアリー・セレスト号を引き取りに来た。）
+4 took the Mary Celeste to Gibraltar because they thought they could make money by doing so.（そうすることでお金が得られると考えたので、メアリー・セレスト号をジブラルタルへ運んだ。）
+【考え方】
+まず見るところ：第1段落の最後の Hoping to gain a financial reward for salvaging the deserted ship, ～
+デイ・グラシア号の乗組員が最後にしたことは、第1段落の終わりに書かれています。
+Hoping to gain a financial reward for salvaging the deserted ship, the Dei Gratia's crew sailed the Mary Celeste to Gibraltar and handed it over to British authorities there.（乗組員のいなくなったその船を引き取ってお金の報酬を得たいと考えて、デイ・グラシア号の乗組員はメアリー・セレスト号を航海させてジブラルタルまで運び、そこでイギリス当局に引き渡した）
+financial reward は「お金の報酬（お礼のお金）」、salvage は「（船などを）救い出す、引き取る」、deserted は「（人に）見捨てられた、だれもいない」です。
+本文と選択肢を対にすると、次のようになります。
+本文 sailed the Mary Celeste to Gibraltar（メアリー・セレスト号を航海させてジブラルタルまで運んだ）≒ 選択肢 took the Mary Celeste to Gibraltar（メアリー・セレスト号をジブラルタルへ運んだ）
+本文 Hoping to gain a financial reward（お金の報酬を得たいと考えて）≒ 選択肢 because they thought they could make money by doing so（そうすることでお金が得られると考えたので）
+ですから4が正解です。
+この問題の型：言いかえ（sailed ～ to Gibraltar ≒ took ～ to Gibraltar、gain a financial reward ≒ make money）
+【ほかの選択肢】
+1 第1段落に they found nobody aboard the Mary Celeste（メアリー・セレスト号の船上にだれも見つけられなかった）とあり、水や食料を与える相手の乗組員はいませんでした。また、食料と水はメアリー・セレスト号にたっぷり残っていました。
+2 第1段落に The ship was undamaged（船は壊れていなかった）とあり、修理の話は書かれていません。また、船はイタリアへ旅を続けたのではなく、ジブラルタルへ運ばれています。
+3 本文では、デイ・グラシア号の乗組員が自分たちで船をジブラルタルまで航海させ、そこで当局に引き渡しています。当局が船を引き取りに来たのではないので、動いた人物が違います。
+【覚えるポイント】
+・salvage：「（船や荷物などを）救い出す、引き取る」。hand ～ over to ... は「～を…に引き渡す」です。
+・Hoping to ～（～したいと考えて）のように文の初めに置かれた部分は、その人物がなぜそうしたのかという理由や気持ちを表すことがあり、選択肢の because ～ と対にして確かめるのが手がかりになります。
