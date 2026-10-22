@@ -1,0 +1,32 @@
+---
+choices: It is not reliable because it was influenced by the play that was written about Richard III by William Shakespeare. | It provided many important clues that helped researchers involved in the recent discovery of the body of Richard in Leicester. | It strongly influenced people’s image and opinion of Richard despite some of the information in it likely being inaccurate. | It contains evidence that proves that Richard did not actually murder his brother and other family members.
+answerText: It strongly influenced people’s image and opinion of Richard despite some of the information in it likely being inaccurate.
+---
+【正解】3 It strongly influenced people’s image and opinion of Richard despite some of the information in it likely being inaccurate.（その中の情報の一部は不正確である可能性が高いにもかかわらず、それはリチャードについての人々のイメージや意見に強く影響した。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one thing the passage says about Thomas More’s History of King Richard III?（トマス・モアの『リチャード3世史』について、本文が述べていることの一つは何か。）
+1 It is not reliable because it was influenced by the play that was written about Richard III by William Shakespeare.（それは、ウィリアム・シェークスピアがリチャード3世について書いた劇に影響を受けているので、信頼できない。）
+2 It provided many important clues that helped researchers involved in the recent discovery of the body of Richard in Leicester.（それは、最近レスターでリチャードの遺体を発見したことにかかわった研究者たちの助けとなる、多くの大切な手がかりを与えた。）
+3 It strongly influenced people’s image and opinion of Richard despite some of the information in it likely being inaccurate.（その中の情報の一部は不正確である可能性が高いにもかかわらず、それはリチャードについての人々のイメージや意見に強く影響した。）
+4 It contains evidence that proves that Richard did not actually murder his brother and other family members.（それには、リチャードが実際には兄（弟）やほかの家族を殺していないことを証明する証拠がふくまれている。）
+【考え方】
+まず見るところ：第1段落の Modern-day experts view many of the details in More’s book as highly questionable, ～ but the book’s portrayal of Richard as evil became the basis for the negative reputation
+モアの本については、第1段落の後半に書かれています。
+Richard’s reputation does not originate in Shakespeare’s play, but further back, in Thomas More’s History of King Richard III.（リチャードの評判は、シェークスピアの劇から始まったのではなく、さらにさかのぼって、トマス・モアの『リチャード3世史』から始まっている）
+Modern-day experts view many of the details in More’s book as highly questionable, since they were written in support of the family that won the throne from Richard, but the book’s portrayal of Richard as evil became the basis for the negative reputation of him that remains to this day.（現代の専門家たちは、モアの本の細かい内容の多くを非常に疑わしいものと見ている。それらは、リチャードから王位を勝ち取った一族を支持するために書かれたからである。しかし、その本がリチャードを悪人として描いたことが、今日まで残る彼の悪い評判のもとになった）
+questionable は「疑わしい」、portrayal は「描き方」、basis は「もと、土台」という意味です。モアの本は、内容が疑わしいのに、リチャードの悪いイメージのもとになった、という内容です。
+本文と選択肢を対にすると、次のようになります。
+本文 many of the details in More’s book as highly questionable（モアの本の細かい内容の多くは非常に疑わしい）→ 選択肢 some of the information in it likely being inaccurate（その中の情報の一部は不正確である可能性が高い）
+本文 became the basis for the negative reputation of him that remains to this day（今日まで残る彼の悪い評判のもとになった）→ 選択肢 strongly influenced people’s image and opinion of Richard（リチャードについての人々のイメージや意見に強く影響した）
+よって3が正解です。
+この問題の型：言いかえ（highly questionable → likely being inaccurate）／対比（but：内容は疑わしい⇔評判のもとになった）
+【ほかの選択肢】
+1 理由がちがいます。本文では、モアの本の内容が疑わしいのは since they were written in support of the family that won the throne from Richard（リチャードから王位を勝ち取った一族を支持するために書かれたから）です。また、リチャードの評判はシェークスピアの劇より further back（さらにさかのぼって）モアの本から始まったとあり、モアの本がシェークスピアの劇に影響を受けたとは書かれていません。
+2 本文にありません。遺体の発見につながった研究に資金を出す手助けをしたのはリチャード3世協会で、モアの本が発見の手がかりになったという話はありません。
+4 本文と内容がちがいます。モアの本はリチャードを evil（悪人）として描いた本です。リチャードが殺人について無実だと主張しているのは、第3段落のリチャード3世協会です。
+【覚えるポイント】
+・questionable：「疑わしい」。選択肢では likely being inaccurate（不正確である可能性が高い）と言いかえられています。
+・本や資料について問う設問では、「その内容がどう見られているか」と「それが何に影響したか」を分けて読み、but のような逆の流れを示す語の前後を両方確かめることが手がかりになります。

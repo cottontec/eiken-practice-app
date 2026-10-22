@@ -71,9 +71,13 @@
     {
       "batchId": "pre1-2021-1",
       "target": 41,
-      "written": 0,
+      "written": 41,
       "contentReviewed": 0,
-      "status": "not_started"
+      "status": "complete_unreviewed",
+      "blank": 0,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 0
     },
     {
       "batchId": "pre1-2021-2",
@@ -125,5 +129,5 @@
       "status": "not_started"
     }
   ],
-  "updatedAt": "2026-10-22T21:58:01+00:00"
+  "updatedAt": "2026-10-22T21:58:34+00:00"
 }

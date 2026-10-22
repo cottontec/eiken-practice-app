@@ -1,0 +1,29 @@
+---
+choices: mended | deported | perceived | distributed
+answerText: deported
+---
+【正解】2 deported（国外に追放された）
+【和訳】
+（英文）
+In most countries, foreigners working without a proper visa are ［deported］ if they are discovered. However, sending them home can cost a lot of money.
+（訳）
+ほとんどの国では、正式なビザを持たずに働いている外国人は、見つかると（国外に追放されます）。しかし、彼らを母国へ送り返すには多額のお金がかかることがあります。
+（選択肢の意味）
+1 mended：修理された、直された
+2 deported：国外に追放された（強制的に自分の国へ帰された）
+3 perceived：気づかれた、（～だと）受け止められた
+4 distributed：配られた、分配された
+【考え方】
+まず見るところ：次の文の sending them home
+However, sending them home can cost a lot of money.（しかし、彼らを母国へ送り返すには多額のお金がかかることがある）
+them は、前の文の「正式なビザを持たずに働いている外国人」を指します。visa は「ビザ（外国に入ったり、そこで働いたりするための許可）」です。
+次の文では「彼らを母国へ送り返すこと」に費用がかかると書かれています。ですから、前の文では、見つかった外国人は国へ帰される、と書かれていると考えられます。
+deport は「（外国人を）国外に追放する、強制的に自分の国へ帰す」という意味です。are deported で「国外に追放される」となるので、2が正解です。
+この問題の型：言いかえ（are deported → sending them home）
+【ほかの選択肢】
+1 mended は「修理された、直された」です。人について「見つかると修理される」となり、意味が通りません。
+3 perceived は「気づかれた」です。「見つかると気づかれる」では同じことをくり返すだけで、次の文の「母国へ送り返す」ことにつながりません。
+4 distributed は「配られた、分配された」です。人について「見つかると配られる」となり、意味が通りません。
+【覚えるポイント】
+・deport：「（外国人を）国外に追放する」。be deported（国外に追放される）は、send them home（彼らを母国へ送り返す）と同じ内容を表しています。
+・空所の次の文に However（しかし）があるときは、その後ろの内容（ここでは sending them home）が前の文の空所を言いかえていることがあるので、次の文までしっかり読むと手がかりになります。

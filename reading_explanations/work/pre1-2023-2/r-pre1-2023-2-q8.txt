@@ -1,0 +1,29 @@
+---
+choices: dispute | mumble | mistrust | condense
+answerText: condense
+---
+【正解】4 condense（～を（短く）縮める、凝縮する）
+【和訳】
+（英文）
+At first, Enzo listed all six of his previous jobs on his résumé. He had to remove two of them, however, in order to ［condense］ the document into one page.
+（訳）
+エンツォは最初、履歴書に以前の仕事を6つすべて書きました。しかし、その書類を1ページに（縮める）ために、そのうちの2つを消さなければなりませんでした。
+（選択肢の意味）
+1 dispute：～に異議を唱える、～について言い争う
+2 mumble：～をもぐもぐ言う、つぶやく
+3 mistrust：～を信用しない
+4 condense：～を（短く）縮める、凝縮する
+【考え方】
+まず見るところ：He had to remove two of them と、空所の後ろの the document into one page
+résumé は「履歴書（学歴や職歴を書いた書類）」です。最初は6つの仕事をすべて書いていました。
+He had to remove two of them, however, in order to ( ) the document into one page.（しかし、その書類を1ページに（　）ために、そのうちの2つを消さなければならなかった）
+remove は「取り除く、消す」です。in order to ～ は「～するために」という目的を表します。2つを消したのは、書類を1ページにおさめるためだと分かります。
+condense A into B は「AをBに縮める」という意味なので、「書類を1ページに縮める」となり、2つを消した目的とつながります。ですから4が正解です。
+この問題の型：熟語・決まった形（condense A into B）／因果（2つ消す→1ページにおさめる）
+【ほかの選択肢】
+1 dispute は「～に異議を唱える、～について言い争う」です。「書類に異議を唱えるために2つを消した」となり、into one page（1ページに）ともつながりません。
+2 mumble は「～をもぐもぐ言う、つぶやく」です。声に出して言うことを表す語で、書類を1ページにすることとは関係がありません。
+3 mistrust は「～を信用しない」です。「書類を1ページへと信用しない」となり、意味が通りません。
+【覚えるポイント】
+・condense A into B：「AをBに縮める、まとめる」。into one page（1ページに）のように、小さくした結果が into の後ろにきます。
+・in order to ～（～するために）が空所の前にあるときは、その前に書かれた行動（ここでは「2つを消した」）の目的になる動詞を選ぶと手がかりになります。

@@ -1,0 +1,29 @@
+---
+choices: unjust | insubstantial | elastic | abundant
+answerText: abundant
+---
+【正解】4 abundant（豊富な、たっぷりある）
+【和訳】
+（英文）
+Thanks to the country's ［abundant］ natural resources, it is able to earn a great deal of money through exports such as metals, coal, and natural gas.
+（訳）
+その国は、（豊富な）天然資源のおかげで、金属や石炭、天然ガスなどの輸出によって多額のお金をかせぐことができています。
+（選択肢の意味）
+1 unjust：不公平な、不当な
+2 insubstantial：わずかな、中身の乏しい
+3 elastic：伸び縮みする、弾力のある
+4 abundant：豊富な、たっぷりある
+【考え方】
+まず見るところ：文の始めの Thanks to と、後半の earn a great deal of money through exports
+Thanks to the country's ( ) natural resources（その国の（　）天然資源のおかげで）
+thanks to ～ は「～のおかげで」という意味で、よい結果の理由を表します。natural resources は「天然資源（石炭やガスなど、自然から取れる役に立つもの）」です。
+it is able to earn a great deal of money through exports such as metals, coal, and natural gas（金属や石炭、天然ガスなどの輸出によって多額のお金をかせぐことができる）
+export は「輸出（外国に売ること）」です。たくさん輸出して多額のお金をかせげるのは、天然資源がたくさんあるからだと考えられます。abundant は「豊富な、たっぷりある」なので、4が正解です。
+この問題の型：因果（資源が豊富→輸出で多額のお金をかせぐ）
+【ほかの選択肢】
+1 unjust は「不公平な、不当な」です。「不公平な天然資源のおかげで」となり、資源の量や輸出でかせげる理由を表さないので、意味が通りません。
+2 insubstantial は「わずかな、中身の乏しい」です。「わずかな天然資源のおかげで多額のお金をかせげる」となり、thanks to（～のおかげで）とつながりません。
+3 elastic は「伸び縮みする、弾力のある」です。ゴムのような物の性質を表す語で、金属・石炭・天然ガスといった資源の説明になりません。
+【覚えるポイント】
+・abundant：「豊富な、たっぷりある」。natural resources（天然資源）と組み合わせて使われることが多い語です。
+・Thanks to ～（～のおかげで）の後ろの空所には、後半のよい結果（ここでは「多額のお金をかせげる」）を生み出す性質が入ると考えると手がかりになります。

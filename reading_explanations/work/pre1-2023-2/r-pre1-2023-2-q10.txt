@@ -1,0 +1,29 @@
+---
+choices: suspension | extension | seclusion | compulsion
+answerText: compulsion
+---
+【正解】4 compulsion（（～せずにはいられない）強い衝動）
+【和訳】
+（英文）
+Tim is worried that he is spending too much time using his smartphone. He feels a strong ［compulsion］ to check his e-mail every few minutes.
+（訳）
+ティムは、自分がスマートフォンを使うのに時間をかけすぎているのではないかと心配しています。彼は、数分ごとにEメールを確かめたいという強い（衝動）を感じるのです。
+（選択肢の意味）
+1 suspension：一時停止、停学
+2 extension：延長、拡張
+3 seclusion：人を避けて引きこもること、隔離
+4 compulsion：（～せずにはいられない）強い衝動
+【考え方】
+まず見るところ：前の文の spending too much time using his smartphone と、空所の後ろの to check his e-mail every few minutes
+Tim is worried that he is spending too much time using his smartphone.（ティムは、自分がスマートフォンを使うのに時間をかけすぎているのではないかと心配している）
+ティムは、スマートフォンを使いすぎていることを気にしています。
+He feels a strong ( ) to check his e-mail every few minutes.（彼は、数分ごとにEメールを確かめたいという強い（　）を感じる）
+every few minutes は「数分ごとに」です。それほどひんぱんにメールを確かめてしまうのは、やめたくてもやめられない気持ちがあるからだと考えられます。compulsion は「（～せずにはいられない）強い衝動」で、compulsion to ～ で「～したいという強い衝動」となるので、4が正解です。
+この問題の型：具体例とまとめ（使いすぎて心配→数分ごとにメールを確かめたくなる）／語の意味・組み合わせ（a strong compulsion to ～）
+【ほかの選択肢】
+1 suspension は「一時停止、停学」です。「メールを確かめる強い一時停止を感じる」となり、意味が通りません。
+2 extension は「延長、拡張」です。「メールを確かめる強い延長を感じる」となり、意味が通りません。
+3 seclusion は「人を避けて引きこもること、隔離」です。「メールを確かめる強い引きこもりを感じる」となり、意味が通りません。
+【覚えるポイント】
+・compulsion：「（～せずにはいられない）強い衝動」。feel a strong compulsion to ～（～したいという強い衝動を感じる）の形で使われます。
+・feel a strong ( ) to ～ の空所には、「～したい」という気持ちを表す名詞が入りやすいので、前の文の心配ごと（ここでは使いすぎ）とつながる気持ちを選ぶと手がかりになります。

@@ -1,0 +1,34 @@
+---
+choices: control both the people who grew lemons and those who sold them overseas as part of its way to make more money and increase its power. | successfully generate greater profits from the lemon industry by demanding that farmers grow larger amounts of lemons. | persuade a few politicians to ignore its criminal activities, despite overwhelming opposition from the government. | gain control over the entire lemon industry, despite being unable to obtain the cooperation of key members of the police.
+answerText: control both the people who grew lemons and those who sold them overseas as part of its way to make more money and increase its power.
+---
+【正解】1 control both the people who grew lemons and those who sold them overseas as part of its way to make more money and increase its power.（より多くのお金をかせぎ、自分たちの力を強めるやり方の一部として、レモンを育てる人々と、レモンを海外に売る人々の両方を支配した。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：The Mafia used its involvement with lemon farmers to（マフィアはレモン農家との関わりを利用して、～。）
+1 control both the people who grew lemons and those who sold them overseas as part of its way to make more money and increase its power.（より多くのお金をかせぎ、自分たちの力を強めるやり方の一部として、レモンを育てる人々と、レモンを海外に売る人々の両方を支配した。）
+2 successfully generate greater profits from the lemon industry by demanding that farmers grow larger amounts of lemons.（農家により多くのレモンを育てるよう求めることで、レモン産業からより大きな利益を生み出すことに成功した。）
+3 persuade a few politicians to ignore its criminal activities, despite overwhelming opposition from the government.（政府からの圧倒的な反対にもかかわらず、少数の政治家に自分たちの犯罪活動を見逃すよう説得した。）
+4 gain control over the entire lemon industry, despite being unable to obtain the cooperation of key members of the police.（警察の重要な人物たちの協力を得られなかったにもかかわらず、レモン産業全体を支配した。）
+【考え方】
+まず見るところ：第4段落の It began forcing farmers to accept its services against their will と、Mafia members then began acting as middlemen between sellers and exporters
+第4段落には、マフィアがレモン農家との関わりをどう利用したかが順に書かれています。
+It began forcing farmers to accept its services against their will, using violence and intimidation when it encountered resistance.（マフィアは、農家にその意思に反してサービスを受け入れるよう強制し始め、抵抗にあうと暴力や脅しを用いた）
+against one's will は「意思に反して」、intimidation は「脅し」という意味です。
+Mafia members then began acting as middlemen between sellers and exporters, manipulating the market to ensure substantial profits.（そしてマフィアの構成員たちは、売り手と輸出業者の間の仲介役として動き始め、多額の利益を確実に得られるように市場を操った）
+exporter は「輸出業者（品物を海外に売る人）」、manipulate は「（自分に都合よく）操る」という意味です。さらに、eventually their power grew to cover all aspects of lemon production（最終的には、その力はレモン生産のあらゆる面に及ぶまでになった）とあります。
+本文と選択肢1を対にすると、次のようになります。
+本文 forcing farmers to accept its services（農家にサービスを受け入れるよう強制した）→ 選択肢 control the people who grew lemons（レモンを育てる人々を支配した）
+本文 middlemen between sellers and exporters, manipulating the market（売り手と輸出業者の間の仲介役となり、市場を操った）→ 選択肢 control those who sold them overseas（レモンを海外に売る人々を支配した）
+本文 ensure substantial profits（多額の利益を確実に得る）、their power grew（力が大きくなった）＝ 選択肢 make more money and increase its power（より多くのお金をかせぎ、力を強める）
+ですから1が正解です。
+この問題の型：言いかえ（exporters ＝ those who sold them overseas／substantial profits ＝ more money）
+【ほかの選択肢】
+2 本文にありません。マフィアが利益を得たのは、仲介役として市場を操ったことによるものです。農家により多くのレモンを育てるよう求めた、とは書かれていません。
+3 本文と食い違います。本文では、Some politicians attempted to address these activities（一部の政治家はこうした活動に対処しようとした）が、widespread government corruption（政府に広がっていた腐敗）によってマフィアは影響力を広げたと書かれています。政府が圧倒的に反対していた、という内容とは合いません。
+4 本文と食い違います。本文では、マフィアは影響力を many areas of politics and law enforcement（政治や法の執行の多くの分野）にまで広げたと書かれています。警察の協力を得られなかった、という内容とは合いません。
+【覚えるポイント】
+・選択肢に both A and B（AとBの両方）があるときは、AとBのそれぞれに当たる部分が本文にあるかを確かめます。ここでは farmers（農家）と exporters（輸出業者）の両方が本文に出てきました。
+・despite ～（～にもかかわらず）を含む選択肢は、despite のあとの内容が本文と合っているかどうかも確かめると、まちがいを見つける手がかりになります。

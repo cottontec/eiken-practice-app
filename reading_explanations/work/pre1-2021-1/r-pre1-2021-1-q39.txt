@@ -1,0 +1,33 @@
+---
+choices: The government was unable to provide Sicilians with suitable public services, causing some private citizens to find ways to protect their crops. | Owners of lemon farms refused to trade with those who supported Sicily's foreign rulers, causing the economy to worsen and crime to rise. | People were unhappy about profits from Sicilian lemons going to the Spanish royal family and did not mind when thieves stole from wealthy farmers. | The government's desire to profit from lemon farming caused it to accept illegal payments from farmers who were connected with criminals.
+answerText: The government was unable to provide Sicilians with suitable public services, causing some private citizens to find ways to protect their crops.
+---
+【正解】1 The government was unable to provide Sicilians with suitable public services, causing some private citizens to find ways to protect their crops.（政府がシチリアの人々に十分な公共のサービスを提供できず、そのために一部の民間の人々が自分たちの作物を守る方法を見つけることになった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Which of the following statements best describes the situation that led to the rise of the Mafia?（マフィアの台頭につながった状況を最もよく表しているのは、次のうちどの文か。）
+1 The government was unable to provide Sicilians with suitable public services, causing some private citizens to find ways to protect their crops.（政府がシチリアの人々に十分な公共のサービスを提供できず、そのために一部の民間の人々が自分たちの作物を守る方法を見つけることになった。）
+2 Owners of lemon farms refused to trade with those who supported Sicily's foreign rulers, causing the economy to worsen and crime to rise.（レモン農園の持ち主たちが、シチリアの外国出身の支配者を支持する人々との取り引きを断り、そのために経済が悪くなり、犯罪が増えた。）
+3 People were unhappy about profits from Sicilian lemons going to the Spanish royal family and did not mind when thieves stole from wealthy farmers.（人々は、シチリアのレモンの利益がスペイン王家に渡ることに不満を持っており、泥棒が裕福な農家から盗んでも気にしなかった。）
+4 The government's desire to profit from lemon farming caused it to accept illegal payments from farmers who were connected with criminals.（レモン栽培から利益を得たいという政府の思いによって、政府は犯罪者とつながりのある農家から不正なお金を受け取った。）
+【考え方】
+まず見るところ：第3段落の Local poverty and a lack of public funding, ～, led to an increase in crime. This forced farmers to find their own way ～
+第3段落の後半に、マフィアが生まれるまでの流れが書かれています。
+Local poverty and a lack of public funding, particularly in rural areas, led to an increase in crime.（地元の貧しさと、特に農村部での公的な資金の不足によって、犯罪が増加した）
+public funding は「公的な資金（政府などが出すお金）」という意味です。
+This forced farmers to find their own way to deal with the threat of lemon theft.（このことによって、農家はレモン泥棒の脅威に対処する方法を自分たちで見つけざるをえなくなった）
+そして農家は、地元の腕っぷしの強い男たちを雇い、その男たちがやがてマフィアになりました。
+本文と選択肢1を対にすると、次のようになります。
+本文 a lack of public funding（公的な資金の不足）→ 選択肢 The government was unable to provide Sicilians with suitable public services（政府が十分な公共のサービスを提供できなかった）
+本文 forced farmers to find their own way to deal with the threat of lemon theft（農家はレモン泥棒に対処する方法を自分たちで見つけざるをえなかった）＝ 選択肢 causing some private citizens to find ways to protect their crops（一部の民間の人々が作物を守る方法を見つけることになった）
+公的な資金が足りなかったことから、公共のサービス（ここでは犯罪から守ること）が十分でなかったと読み取れます。ですから1が正解です。
+この問題の型：言いかえ（farmers ＝ some private citizens／deal with the threat of lemon theft ＝ protect their crops）／因果（公的な資金の不足→犯罪の増加→農家が自分で守る）
+【ほかの選択肢】
+2 本文にありません。レモン農園の持ち主たちが、支配者を支持する人々との取り引きを断ったという話は出てきません。犯罪が増えた原因として本文に書かれているのは、地元の貧しさと公的な資金の不足です。
+3 一部だけ本文と重なりますが、残りが違います。人々が支配者に不満を持っていたことは書かれていますが、その理由は rulers were regarded as outsiders（支配者がよそ者と見なされた）ことや forced military service（強制的な兵役）のような政策です。レモンの利益がスペイン王家に渡ることへの不満や、泥棒を気にしなかったことは書かれていません。
+4 本文にありません。政府がレモン栽培から利益を得ようとしたことや、農家から不正なお金を受け取ったことは書かれていません。第4段落に government corruption（政府の腐敗）は出てきますが、それはマフィアが力を広げたあとの話です。
+【覚えるポイント】
+・「～につながった状況」をたずねる設問では、led to（～につながった）や This forced ～（このことが～を強いた）のような、原因と結果を結ぶ語句を順にたどると手がかりになります。
+・時期のずれに注意します。マフィアが生まれる前の状況（第3段落）と、生まれたあとのこと（第4段落）を区別して読みます。
