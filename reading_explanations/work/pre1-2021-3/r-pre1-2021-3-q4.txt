@@ -1,0 +1,30 @@
+---
+choices: secular | eccentric | vigilant | apparent
+answerText: eccentric
+---
+【正解】2 eccentric（風変わりな、変わった）
+【和訳】
+（英文）
+The professor is an expert in his field but his ［eccentric］ behavior is a source of embarrassment to his colleagues. "He's always doing or saying strange things," said one.
+（訳）
+その教授は自分の専門分野の第一人者だが、彼の（風変わりな）ふるまいは、同僚たちにとって恥ずかしい思いのもとになっている。「彼はいつも変なことをしたり言ったりしています」と、同僚の一人は言った。
+（選択肢の意味）
+1 secular：宗教と関係のない、世俗の
+2 eccentric：風変わりな、変わった
+3 vigilant：用心深い、油断のない
+4 apparent：明らかな、見たところの
+【考え方】
+まず見るところ：次の文の He's always doing or saying strange things
+空所のある部分は、教授のふるまいが同僚にとってどうなのかを述べています。
+his (　) behavior is a source of embarrassment to his colleagues（彼の〇〇なふるまいは、同僚たちにとって恥ずかしい思いのもとだ）
+a source of embarrassment は「恥ずかしさ、気まずさの原因」です。そして、同僚の一人の言葉が続きます。
+"He's always doing or saying strange things,"（「彼はいつも変なことをしたり言ったりしている」）
+教授のふるまいは strange（変な）ものだと分かります。eccentric は「風変わりな、変わった」なので、2が正解です。
+この問題の型：言いかえ（eccentric ＝ strange）
+【ほかの選択肢】
+1 secular は「宗教と関係のない」です。同僚の言う「変なことばかりする」というふるまいの説明になりません。
+3 vigilant は「用心深い」です。用心深いふるまいは、ふつうは恥ずかしい思いのもとにはならず、strange things とも合いません。
+4 apparent は「明らかな、見たところの」です。「彼の明らかなふるまい」では、どんなふるまいなのかが分からず、次の文の strange things とつながりません。
+【覚えるポイント】
+・eccentric：「風変わりな、変わった」。a source of embarrassment：「恥ずかしい思いのもと」。colleague：「同僚」。
+・空所のあとに人の言葉（" "）が続くときは、その言葉の中に空所の語を言いかえた表現（ここでは strange）があることが多く、手がかりになります。

@@ -8,7 +8,7 @@ answerText: enlist
 A: Before I invest in your new company, I’d like you to ［enlist］ the help of an outside expert to guide you for the first few months.
 B: That seems reasonable. I know a consultant who can help us.
 （訳）
-A：あなたの新しい会社に投資する前に、最初の数か月間あなたたちを導いてくれる外部の専門家の助けを（得て）ほしいんです。
+A：あなたの新しい会社に投資する前に、最初の数か月間あなたたちを導いてくれる外部の専門家の助けを（得て）ほしいのです。
 B：それはもっともですね。私たちを助けてくれるコンサルタントに心当たりがあります。
 （選択肢の意味）
 1 sprint：全力で短い距離を走る

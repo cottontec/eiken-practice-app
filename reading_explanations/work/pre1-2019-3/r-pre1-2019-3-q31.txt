@@ -1,0 +1,27 @@
+---
+choices: Otherwise | In contrast | Surprisingly | Because of this
+answerText: Because of this
+---
+【正解】4 Because of this（このために）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Otherwise（そうでなければ）
+2 In contrast（それに対して、対照的に）
+3 Surprisingly（驚いたことに）
+4 Because of this（このために）
+【考え方】
+まず見るところ：第3段落の空所の前の The researchers noted that domed stadiums trap noise within the stadium ～
+The researchers noted that domed stadiums trap noise within the stadium and that the enthusiasm from fans in the crowd helps teams play better and win more games.（研究者たちは、ドーム球場は球場の中に音を閉じこめること、そして観客席のファンの熱狂が、チームがよりよいプレーをして、より多くの試合に勝つ助けになることを指摘した）
+trap は「閉じこめる」、enthusiasm は「熱狂、熱意」という意味です。ドーム球場では応援の声が中にこもり、その応援がチームを助ける、という理由が書かれています。
+( 31 ), teams whose home stadiums are domed perform especially well at home.（（31）、本拠地がドーム球場のチームは、本拠地で特によい成績をあげる）
+空所の前が「理由」、空所のあとが「結果」になっています。その前には、ドーム球場のチームは本拠地で10.5パーセント多く勝ち、屋外の球場のチームは7.2パーセント多く勝った、という数字もあります。理由と結果をつなぐ Because of this（このために）が入るので、4が正解です。
+この問題の型：因果（音がこもる・ファンの熱狂→ドーム球場のチームは本拠地で特に強い）
+【ほかの選択肢】
+1 Otherwise（そうでなければ）は、「前のことが起きなければ」という条件を示します。空所のあとの文は、前の理由から起きる結果なので合いません。
+2 In contrast（それに対して）は、前と反対のことを比べて示すときに使います。空所の前の「応援がチームを助ける」とあとの「ドーム球場のチームは本拠地で特に強い」は同じ向きの内容なので合いません。
+3 Surprisingly（驚いたことに）は、予想と違うことを述べるときに使います。空所の前に理由がきちんと説明されているので、そのあとの結果は驚くような内容ではなく、合いません。
+【覚えるポイント】
+・Because of this：「このために」。前の文が理由、あとの文が結果のときに使います。
+・研究者の説明（ここでは noted that ～）のすぐあとに空所があるときは、その説明が「理由」で、空所のあとが「結果」になっていないかを確かめることが手がかりになります。

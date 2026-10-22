@@ -1,0 +1,30 @@
+---
+choices: could be good news for shipowners | generally went unreported | were rarer than once thought | led to an additional problem
+answerText: could be good news for shipowners
+---
+【正解】1 could be good news for shipowners（船主にとってはよい知らせになりえた）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 could be good news for shipowners（船主にとってはよい知らせになりえた）
+2 generally went unreported（たいてい報道されなかった）
+3 were rarer than once thought（かつて考えられていたよりもまれだった）
+4 led to an additional problem（さらに別の問題につながった）
+【考え方】
+まず見るところ：第1段落の空所のあとの a ship's sinking would result in a significant insurance payout
+空所の文の These tragic disasters（これらの悲惨な災難）は、前の文に書かれた、積み荷の積みすぎで船が沈み、船員がおぼれ死ぬことを指しています。
+空所のあとを見ます。
+Many of these so-called coffin ships were heavily insured, and a ship's sinking would result in a significant insurance payout.（こうした、いわゆる「棺おけ船」の多くには多額の保険がかけられており、船が沈めば多額の保険金が支払われることになった）
+insured は「保険がかけられた」、insurance payout は「保険金の支払い」です。船が沈むと、船の持ち主はお金を受け取れたということです。
+さらに次の文も確かめます。
+Many of the ships were therefore overloaded in the hope they would wind up at the bottom of the sea.（そのため、多くの船は、最後には海の底に沈むことを期待して、積み荷を積みすぎた状態にされていた）
+船が沈むことを「期待して」いたのは、保険金を受け取る船主だと考えられます。悲惨な災難が、船主にとってはお金が入る、よい知らせになりえたのです。よって1が正解です。
+この問題の型：具体例とまとめ（空所のあとの保険金の話が「船主にとってよい知らせ」の説明）／因果（沈む→保険金→積みすぎにする）
+【ほかの選択肢】
+2 generally went unreported（たいてい報道されなかった）は、本文にない内容です。報道されたかどうかについては何も書かれておらず、空所のあとの保険金の話ともつながりません。
+3 were rarer than once thought（かつて考えられていたよりもまれだった）は、本文にない内容です。本文は毎年1,000人近くが亡くなったと述べており、災難がまれだったという話はありません。空所のあとの保険金の話ともつながりません。
+4 led to an additional problem（さらに別の問題につながった）は、空所のあとの文とつながりません。空所のあとに書かれているのは、災難から生まれた別の問題ではなく、沈没によって船主に保険金が入るという「船主にとっての得」です。
+【覚えるポイント】
+・insurance payout：「保険金の支払い」。heavily insured は「多額の保険がかけられた」です。
+・空所のあとに「お金が入る」「期待して」のような説明が続くときは、それがだれにとっての得なのかを考えると、悲惨な出来事でも「ある人にとってはよいこと」という意外な内容が入る手がかりになります。

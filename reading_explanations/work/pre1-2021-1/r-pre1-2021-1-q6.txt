@@ -1,0 +1,31 @@
+---
+choices: exempted | prosecuted | commanded | quantified
+answerText: exempted
+---
+【正解】1 exempted（免除された）
+【和訳】
+（英文）
+English classes at the university were required, but students were ［exempted］ from them if they could prove they had advanced ability in the language.
+（訳）
+その大学では英語の授業は必修でしたが、その言語（英語）について高い能力を持っていることを証明できれば、学生はその授業を（免除されました）。
+（選択肢の意味）
+1 exempted：免除された（しなければならないことを、しなくてよいとされた）
+2 prosecuted：起訴された（罪をおかした疑いで裁判にかけられた）
+3 commanded：命令された
+4 quantified：数量で表された
+【考え方】
+まず見るところ：文の前半の were required, but と、後半の if they could prove they had advanced ability
+前半は次のとおりです。
+English classes at the university were required（その大学では英語の授業は必修だった）
+required は「必修の（必ず受けなければならない）」という意味です。そのあとに but（しかし）が続くので、後半は「必ず受けなければならない」とは反対向きの内容になると考えられます。
+後半の条件は次のとおりです。
+if they could prove they had advanced ability in the language（その言語について高い能力があることを証明できれば）
+英語の力が高いと証明できれば、授業を受けなくてよい、という流れが自然です。be exempted from ～ で「～を免除される」となるので、1が正解です。them は English classes（英語の授業）を指します。
+この問題の型：対比（必修だった⇔免除された）／熟語・決まった形（be exempted from ～）
+【ほかの選択肢】
+2 prosecuted は「起訴された」です。「英語の力が高いと証明できれば、学生は授業から起訴された」となり、意味が通りません。
+3 commanded は「命令された」です。be commanded from ～ という形にはならず、「必修だったが、しかし」という but の流れにも合いません。
+4 quantified は「数量で表された」です。「学生は授業から数量で表された」となり、意味が通りません。
+【覚えるポイント】
+・be exempted from ～：「～を免除される」。しなければならないことを、特別に「しなくてよい」とされることです。
+・required（必修の）のあとに but が続くときは、後半に「例外」が来ることがあります。後半の if ～（もし～なら）の条件が、どんな場合の例外なのかを示す手がかりになります。

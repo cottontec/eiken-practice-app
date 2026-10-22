@@ -1,0 +1,33 @@
+---
+choices: gratuity | module | arsenal | allotment
+answerText: gratuity
+---
+【正解】1 gratuity（チップ、心づけ）
+【和訳】
+（英文）
+A: Jan, how much of a tip do you think I should leave the waiter?
+B: The ［gratuity］ has already been added to the bill, so you don't have to leave anything.
+（訳）
+A：ジャン、ウエーター（給仕係）にどれくらいチップを置いていけばいいと思う？
+B：（チップ）はもう請求書に加えられているから、何も置いていかなくていいよ。
+（選択肢の意味）
+1 gratuity：チップ、心づけ（サービスへのお礼のお金）
+2 module：（全体を組み立てる）部品、単位
+3 arsenal：兵器庫、（武器などの）たくわえ
+4 allotment：割り当て、分け前
+【考え方】
+まず見るところ：Aの質問の how much of a tip と、Bの答えの so you don't have to leave anything
+Aの質問は次のとおりです。
+how much of a tip do you think I should leave the waiter?（ウエーターにどれくらいチップを置いていけばいいと思う？）
+tip は「チップ（サービスへのお礼として渡すお金）」です。
+Bの答えは次のとおりです。
+The ( ) has already been added to the bill, so you don't have to leave anything.（（　）はもう請求書に加えられているから、何も置いていかなくていい）
+bill は「請求書、勘定書」です。「何も置いていかなくていい」のは、チップがすでに請求書に入っているからだと考えられます。gratuity は tip と同じく「チップ、心づけ」なので、1が正解です。
+この問題の型：言いかえ（tip ＝ gratuity）
+【ほかの選択肢】
+2 module は「部品、単位」です。「部品はもう請求書に加えられている」となり、チップの話とつながりません。
+3 arsenal は「兵器庫、武器のたくわえ」です。「兵器庫はもう請求書に加えられている」となり、意味が通りません。
+4 allotment は「割り当て、分け前」です。「割り当てはもう請求書に加えられている」では、何の割り当てなのか分からず、チップについての質問の答えになりません。
+【覚えるポイント】
+・gratuity：「チップ、心づけ」。tip と同じ意味の、少しかたい言い方です。
+・会話の空所では、相手の質問に出てきた語（ここでは tip）が、答えの中で別の語に言いかえられることが多いので、質問の語と同じ意味の語を探すと手がかりになります。

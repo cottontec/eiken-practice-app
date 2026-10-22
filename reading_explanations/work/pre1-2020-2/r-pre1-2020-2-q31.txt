@@ -1,0 +1,29 @@
+---
+choices: On the other hand | Despite this | Furthermore | In return
+answerText: Furthermore
+---
+【正解】3 Furthermore（さらに、そのうえ）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 On the other hand（一方で、他方では）
+2 Despite this（これにもかかわらず）
+3 Furthermore（さらに、そのうえ）
+4 In return（その見返りに、お返しに）
+【考え方】
+まず見るところ：第3段落の空所の前の Shipowners resisted ～ と、空所のあとの Plimsoll was sued repeatedly
+空所の前の文は、プリムソルがぶつかった1つ目の困難です。
+Shipowners resisted the introduction of the waterline by using their considerable influence in Parliament to block legislation proposed by Plimsoll.（船主たちは、議会での大きな影響力を使って、プリムソルが提案した法律を成立させないようにすることで、喫水線の導入に抵抗した）
+空所のあとを見ます。
+Plimsoll was sued repeatedly over accusations he made against various members of Parliament and shipowners（プリムソルは、さまざまな国会議員や船主に対して行った非難をめぐって、何度も訴えられた）
+sued は「訴えられた（裁判を起こされた）」です。これは2つ目の困難です。
+1つ目の困難に2つ目の困難を付け加えているので、Furthermore（さらに）が入ります。そのあとの He did not give up, however（しかし、彼はあきらめなかった）も、2つの困難をまとめて受けているので、流れに合います。よって3が正解です。
+この問題の型：語の意味・組み合わせ（同じ向きの内容を付け加える Furthermore）／対比（困難が重なる⇔しかし、あきらめなかった）
+【ほかの選択肢】
+1 On the other hand（一方で）は、前と比べて違う面を示すときに使います。法律を止められたことも、訴えられたことも、どちらもプリムソルにとっての困難なので、比べて違いを示す関係ではありません。
+2 Despite this（これにもかかわらず）は、前のことから考えると意外な内容が続くときに使います。船主に抵抗されたのに訴えられた、というつながりは意外なことではなく、困難が重なっているだけなので合いません。
+4 In return（その見返りに）は、何かをしてもらったお返しとして何かをするときに使います。プリムソルが訴えられたのは、自分が行った非難（accusations he made）をめぐってであり、何かの見返りではありません。
+【覚えるポイント】
+・Furthermore：「さらに、そのうえ」。同じ向きの内容を付け加えるときに使います。
+・空所の前後がどちらも同じ人にとっての困難（ここでは抵抗されたこと、訴えられたこと）で、そのあとに however（しかし）が来ているときは、困難を積み重ねる Furthermore が入る手がかりになります。

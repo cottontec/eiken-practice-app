@@ -1,0 +1,34 @@
+---
+choices: Nations today can benefit by studying how the social policies described in the novel harmed the imaginary nation's economy. | More's view about how the degree of punishment should match the seriousness of the crime is relevant to modern society. | Many modern social welfare policies are actually based on the ideas that were explained in it. | More's idea of addressing poverty by giving people a way to meet their most essential needs may be helpful in today's world.
+answerText: More's idea of addressing poverty by giving people a way to meet their most essential needs may be helpful in today's world.
+---
+【正解】4 More's idea of addressing poverty by giving people a way to meet their most essential needs may be helpful in today's world.（人々に最も基本的な必要を満たす手段を与えることで貧困に取り組むというモアの考えが、今日の世界で役に立つかもしれないから。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to the author of the passage, why have some economists and political strategists found Sir Thomas More's novel Utopia useful?（この文章の筆者によると、一部の経済学者や政治戦略家が、トマス・モア卿の小説『ユートピア』を役に立つと考えるようになったのはなぜですか。）
+1 Nations today can benefit by studying how the social policies described in the novel harmed the imaginary nation's economy.（小説に描かれた社会政策が、想像上の国の経済にどのように害を与えたかを学ぶことで、今日の国々が利益を得られるから。）
+2 More's view about how the degree of punishment should match the seriousness of the crime is relevant to modern society.（罰の重さは犯罪の深刻さにつり合うべきだというモアの考えが、現代の社会に当てはまるから。）
+3 Many modern social welfare policies are actually based on the ideas that were explained in it.（現代の社会福祉政策の多くが、実はその小説で説明された考えにもとづいているから。）
+4 More's idea of addressing poverty by giving people a way to meet their most essential needs may be helpful in today's world.（人々に最も基本的な必要を満たす手段を与えることで貧困に取り組むというモアの考えが、今日の世界で役に立つかもしれないから。）
+【考え方】
+まず見るところ：第1段落の It would be far more to the point to provide everyone with some means of livelihood. と、段落の最後の This situation has inspired ～
+第1段落で、『ユートピア』の登場人物の言葉が引用されています。
+"No penalty on earth will stop people from stealing, if it's their only way of getting food. . . . It would be far more to the point to provide everyone with some means of livelihood."（「それが食べ物を手に入れる唯一の方法であるなら、この世のどんな罰も、人々が盗むのを止めはしないだろう。……すべての人に何らかの生活の手段を与えるほうが、はるかに理にかなっているだろう」）
+means of livelihood は「生活の手段（暮らしていくための方法）」です。罰するより、生活できるようにするほうが貧困の問題の解決になる、という考えです。
+続いて、今も所得の格差や経済的な不安定さが大きな問題だと書かれ、段落の最後は次のとおりです。
+This situation has inspired some economists and political strategists to look to More's Utopia for guidance.（この状況から、一部の経済学者や政治戦略家は、手がかりを求めてモアの『ユートピア』に目を向けるようになった）
+本文と選択肢を対にすると、次のようになります。
+本文 More addressed the issue of poverty（モアは貧困の問題を取り上げた）＝ 選択肢 More's idea of addressing poverty（貧困に取り組むというモアの考え）
+本文 provide everyone with some means of livelihood（すべての人に何らかの生活の手段を与える）→ 選択肢 giving people a way to meet their most essential needs（人々に最も基本的な必要を満たす手段を与える）
+本文 look to More's Utopia for guidance（手がかりを求めて『ユートピア』に目を向ける）→ 選択肢 may be helpful in today's world（今日の世界で役に立つかもしれない）
+ですから4が正解です。
+この問題の型：言いかえ（means of livelihood → a way to meet their most essential needs）
+【ほかの選択肢】
+1 本文には、小説に描かれた社会政策が想像上の国の経済に害を与えたという話はありません。『ユートピア』は an imaginary ideal nation（想像上の理想の国）についての小説だと書かれています。
+2 引用された言葉は、食べ物を得る方法が盗みしかないなら、どんな罰でも盗みは止められない、という内容です。罰の重さを犯罪の深刻さにつり合わせるべきだという考えは、本文に書かれていません。
+3 本文には、現代の社会福祉政策の多くが『ユートピア』の考えにもとづいているという話はありません。第2段落では UBI が世界各地で試されていると書かれているだけで、多くの政策がすでにこの考えにもとづいているとは言えません。言い切りすぎです。
+【覚えるポイント】
+・means of livelihood：「生活の手段」。look to ～ for guidance は「手がかりを求めて～に目を向ける」。
+・設問が「なぜ役に立つと考えたか」をたずねているときは、本文の This situation（この状況）のような指示語が何を指すかを確かめ、その前に書かれた問題とその解決の考えを結びつけることが答えの手がかりになります。

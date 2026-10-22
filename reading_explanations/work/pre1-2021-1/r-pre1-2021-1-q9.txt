@@ -1,0 +1,30 @@
+---
+choices: barely | profoundly | improperly | harshly
+answerText: profoundly
+---
+【正解】2 profoundly（深く、心の底から）
+【和訳】
+（英文）
+Lying on the sunny beach with her husband on their vacation, Roberta felt ［profoundly］ happy. She had never been so content.
+（訳）
+休暇中に夫と一緒に日の当たる浜辺に寝そべりながら、ロバータは（心の底から）幸せだと感じました。彼女は、それまでにこれほど満ち足りた気持ちになったことはありませんでした。
+（選択肢の意味）
+1 barely：かろうじて、ほとんど～ない
+2 profoundly：深く、心の底から
+3 improperly：不適切に、ふさわしくない形で
+4 harshly：厳しく、きつく
+【考え方】
+まず見るところ：あとの文の She had never been so content.
+空所には、happy（幸せな）がどのくらいかを表す語が入ります。
+あとの文は次のとおりです。
+She had never been so content.（彼女は、それまでにこれほど満ち足りた気持ちになったことはなかった）
+content は形容詞で「満ち足りた、満足した」という意味です。「これほど満ち足りたことはなかった」とあるので、このときのロバータはとても強く幸せを感じていたと分かります。
+profoundly は「深く、心の底から」なので、felt profoundly happy で「心の底から幸せだと感じた」となり、あとの文とつながります。ですから2が正解です。
+この問題の型：言いかえ（profoundly happy ＝ had never been so content）
+【ほかの選択肢】
+1 barely は「かろうじて、ほとんど～ない」です。「ロバータはかろうじて幸せだと感じた」となり、「これほど満ち足りたことはなかった」というあとの文と合いません。
+3 improperly は「不適切に」です。「ロバータは不適切に幸せだと感じた」となり、意味が通りません。
+4 harshly は「厳しく、きつく」です。「ロバータは厳しく幸せだと感じた」となり、意味が通りません。
+【覚えるポイント】
+・profoundly：「深く、心の底から」。happy（幸せな）のような気持ちを表す語の程度を強めます。
+・空所に「どのくらい」を表す語が入るときは、あとの文の never been so ～（これほど～だったことはない）のような表現が、程度が強いか弱いかを決める手がかりになります。

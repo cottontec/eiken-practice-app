@@ -1,0 +1,32 @@
+---
+choices: The beneficial effects of the program were limited to people who had the most serious drinking or gambling habits. | Many recipients lost money because of bad investments, though a few seem likely to profit from the program in the long term. | Aid workers praised the program, though they expressed concern that it would result in an increase in the prices of some basic necessities. | The overall spending habits of those who received funds are evidence that people are unlikely to waste the money they receive.
+answerText: The overall spending habits of those who received funds are evidence that people are unlikely to waste the money they receive.
+---
+【正解】4 The overall spending habits of those who received funds are evidence that people are unlikely to waste the money they receive.（お金を受け取った人々のお金の使い方の全体的な傾向は、人々が受け取ったお金をむだづかいしそうにないことの証拠である。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What was observed in the UBI experiment in Kenya?（ケニアでのUBIの試験では、何が見られましたか。）
+1 The beneficial effects of the program were limited to people who had the most serious drinking or gambling habits.（その取り組みのよい効果は、飲酒やギャンブルの習慣が最も深刻な人々に限られていた。）
+2 Many recipients lost money because of bad investments, though a few seem likely to profit from the program in the long term.（多くの受け取った人がまずい投資のためにお金を失ったが、長い目で見るとその取り組みから利益を得そうな人も少しはいる。）
+3 Aid workers praised the program, though they expressed concern that it would result in an increase in the prices of some basic necessities.（援助活動をする人々はその取り組みをほめたが、それによって一部の生活必需品の値段が上がるだろうという心配も口にした。）
+4 The overall spending habits of those who received funds are evidence that people are unlikely to waste the money they receive.（お金を受け取った人々のお金の使い方の全体的な傾向は、人々が受け取ったお金をむだづかいしそうにないことの証拠である。）
+【考え方】
+まず見るところ：第4段落の Very few spent the money on dead-end pursuits such as drinking and gambling; in fact, most reduced their spending on such things
+第4段落に、ケニアでの試験の結果が書かれています。
+Initial findings show the majority of UBI recipients in Kenya invested this income in small businesses, children's school fees, medicine, and necessities.（初期の調査結果では、ケニアのUBIを受け取った人の大多数が、この収入を小さな商売、子どもの学費、薬、生活必需品に投じたことが示されている）
+Very few spent the money on dead-end pursuits such as drinking and gambling; in fact, most reduced their spending on such things, ～（飲酒やギャンブルのような、先のないことにお金を使った人はごくわずかだった。それどころか、ほとんどの人はそのようなことへの支出を減らし、～）
+majority は「大多数」、dead-end は「行き止まりの、先のない」です。受け取った人のほとんどが、お金を役に立つことに使い、むだなことにはあまり使わなかったと分かります。
+本文と選択肢を対にすると、次のようになります。
+本文 the majority of UBI recipients ～ invested this income in ～ necessities、most reduced their spending on such things（大多数が必要なことにお金を投じ、ほとんどがむだなことへの支出を減らした）→ 選択肢 The overall spending habits of those who received funds（お金を受け取った人々のお金の使い方の全体的な傾向）
+本文 Very few spent the money on dead-end pursuits（先のないことにお金を使った人はごくわずかだった）→ 選択肢 people are unlikely to waste the money they receive（人々は受け取ったお金をむだづかいしそうにない）
+ですから4が正解です。
+この問題の型：推論（大多数が必要なことに使い、むだづかいはごくわずか → むだづかいしそうにない）
+【ほかの選択肢】
+1 本文には、よい効果が飲酒やギャンブルの習慣が深刻な人だけに限られていたという話はありません。本文では、受け取った人の大多数が商売や学費などにお金を使ったと書かれていて、効果は一部の人に限られていません。
+2 本文には、まずい投資でお金を失った人が多いという話はありません。第4段落の後半には、people have been working more and making investments to increase their wealth（人々が多く働き、財産を増やすための投資をしている）とあります。本文にない内容です。
+3 本文には、援助活動をする人々が取り組みをほめたという話も、生活必需品の値段が上がる心配をしたという話もありません。本文にない内容です。
+【覚えるポイント】
+・dead-end pursuits：「先のない（何にもつながらない）こと」。waste the money は「お金をむだづかいする」。
+・試験や調査の結果をたずねる設問では、本文の the majority（大多数）、very few（ごくわずか）、most（ほとんど）のような「どれくらいの人か」を表す語が、overall（全体的な）のような選択肢の言葉と対応しているかを確かめる手がかりになります。

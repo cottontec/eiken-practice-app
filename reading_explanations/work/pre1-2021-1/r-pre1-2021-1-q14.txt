@@ -1,0 +1,31 @@
+---
+choices: omitted | thawed | cultivated | harassed
+answerText: cultivated
+---
+【正解】3 cultivated（栽培された）
+【和訳】
+（英文）
+People have been growing a variety of plants for thousands of years, but wheat was one of the first food crops to be ［cultivated］ by humans.
+（訳）
+人々は何千年もの間、さまざまな植物を育ててきましたが、小麦は人間によって（栽培された）最初の食用作物の一つでした。
+（選択肢の意味）
+1 omitted：省かれた、抜かされた
+2 thawed：（凍ったものが）とけた、解凍された
+3 cultivated：栽培された、（土地が）耕された
+4 harassed：嫌がらせを受けた、悩まされた
+【考え方】
+まず見るところ：文の前半の growing a variety of plants と、空所の前の food crops
+前半は次のとおりです。
+People have been growing a variety of plants for thousands of years（人々は何千年もの間、さまざまな植物を育ててきた）
+a variety of ～ は「さまざまな～」という意味です。前半は、人が植物を育ててきたという話です。
+後半は次のとおりです。
+wheat was one of the first food crops to be ( ) by humans（小麦は人間によって（　）最初の食用作物の一つだった）
+crop は「作物」です。to be ＋（動詞の過去分詞）で「～される」となるので、「人間によって～された最初の作物」という意味になります。前半の growing（育てる）と同じ話題なので、空所には「育てる」に近い意味の語が入ると考えられます。cultivate は「栽培する」なので、3が正解です。
+この問題の型：言いかえ（growing plants ＝ crops to be cultivated）
+【ほかの選択肢】
+1 omitted は「省かれた」です。「小麦は人間によって省かれた最初の食用作物の一つだった」となり、前半の「植物を育ててきた」という話とつながりません。
+2 thawed は「（凍ったものが）とけた」です。「小麦は人間によって解凍された最初の食用作物の一つだった」となり、意味が通りません。
+4 harassed は「嫌がらせを受けた」です。人について使う語なので、「小麦は人間によって嫌がらせを受けた」となり、意味が通りません。
+【覚えるポイント】
+・cultivate：「栽培する、（土地を）耕す」。crops（作物）や plants（植物）と組み合わせて使われます。
+・前半の growing（育てる）のように、同じ文の中に話題の近い語があるときは、空所の語がその言いかえになっていることがあるので、手がかりになります。

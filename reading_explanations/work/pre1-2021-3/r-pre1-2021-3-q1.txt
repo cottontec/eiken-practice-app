@@ -1,0 +1,29 @@
+---
+choices: villain | patriot | spectator | beggar
+answerText: patriot
+---
+【正解】2 patriot（愛国者）
+【和訳】
+（英文）
+Roberto was a true ［patriot］, so he immediately volunteered to join the army when his country was attacked by its neighbor.
+（訳）
+ロベルトは真の（愛国者）だったので、自分の国が隣の国に攻撃されたとき、すぐに軍隊に入ることを自分から申し出た。
+（選択肢の意味）
+1 villain：悪党、悪役
+2 patriot：愛国者（自分の国を愛し、守ろうとする人）
+3 spectator：観客、見物人
+4 beggar：物ごいをする人
+【考え方】
+まず見るところ：空所の後ろの so he immediately volunteered to join the army
+文の形は「ロベルトは真の〇〇だった、だから（so）～した」です。so のあとに、ロベルトのしたことが書かれています。
+he immediately volunteered to join the army when his country was attacked by its neighbor（自分の国が隣の国に攻撃されたとき、彼はすぐに軍隊に入ることを自分から申し出た）
+volunteer to ～ は「自分から進んで～すると申し出る」という意味です。国が攻撃されたとき、すぐに自分から国を守る側に加わろうとする人は、自分の国を愛する人だと考えられます。
+patriot は「愛国者（自分の国を愛し、守ろうとする人）」なので、2が正解です。a true patriot で「真の愛国者」となります。
+この問題の型：因果（so の前が理由、後ろが結果）
+【ほかの選択肢】
+1 villain は「悪党」です。悪党だから国のためにすぐ軍隊に入った、という理由にはならず、so のあとの内容とつながりません。
+3 spectator は「見物人」です。見ているだけの人という意味なので、自分から進んで軍隊に加わる理由になりません。
+4 beggar は「物ごいをする人」です。物ごいをする人であることは、国を守るために軍隊に入ることの理由になりません。
+【覚えるポイント】
+・patriot：「愛国者」。volunteer to ～：「自分から進んで～すると申し出る」。
+・「～な人だった、so ～した」という形では、so のあとの行動から、その人がどんな人かを考えるのが手がかりになります。

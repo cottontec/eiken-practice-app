@@ -1,0 +1,31 @@
+---
+choices: the financial cost of addressing the rise in alcohol abuse and gambling resulting from UBI would cancel out the economic benefits. | in order to pay for it, government spending on important social services would have to be reduced. | raising the income of certain people while not giving financial assistance to others would worsen existing divisions in society. | it would increase competition in certain areas of the job market and therefore have a harmful effect on the poor.
+answerText: in order to pay for it, government spending on important social services would have to be reduced.
+---
+【正解】2 in order to pay for it, government spending on important social services would have to be reduced.（その費用を払うために、重要な社会福祉サービスへの政府の支出を減らさなければならなくなるだろう〔ということ〕。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：One argument made against UBI is that（UBIに反対する主張の1つは、～ということだ。）
+1 the financial cost of addressing the rise in alcohol abuse and gambling resulting from UBI would cancel out the economic benefits.（UBIによって増える飲酒の乱用やギャンブルに対処するための費用が、経済的な利益を打ち消してしまうだろう〔ということ〕。）
+2 in order to pay for it, government spending on important social services would have to be reduced.（その費用を払うために、重要な社会福祉サービスへの政府の支出を減らさなければならなくなるだろう〔ということ〕。）
+3 raising the income of certain people while not giving financial assistance to others would worsen existing divisions in society.（一部の人の収入を上げる一方で、ほかの人にはお金の援助をしないことで、社会にすでにある分断〔人々の間の溝〕がひどくなるだろう〔ということ〕。）
+4 it would increase competition in certain areas of the job market and therefore have a harmful effect on the poor.（それによって仕事の市場の一部で競争が激しくなり、そのため貧しい人々に悪い影響を与えるだろう〔ということ〕。）
+【考え方】
+まず見るところ：第3段落の that it would take government money away from essential social programs, including food assistance
+第3段落では、UBIへの批判がいくつも挙げられています。そのうちの1つが次の部分です。
+Other criticisms of UBI are that it would encourage employers to decrease wages, that it would take government money away from essential social programs, including food assistance, and that the cost would simply be too high for governments to manage.（UBIに対するほかの批判には、UBIは雇い主に賃金を下げさせることになるだろう、食料支援を含む欠かせない社会福祉の取り組みから政府のお金を奪うことになるだろう、そして、費用がとにかく高すぎて政府が対応しきれないだろう、というものがある）
+take A away from B は「BからAを取り去る、奪う」、essential は「欠かせない、とても重要な」です。UBIにお金を使えば、そのぶん、ほかの大切な取り組みに回せる政府のお金が減ってしまう、という批判です。
+本文と選択肢を対にすると、次のようになります。
+本文 take government money away from ～（～から政府のお金を奪う）→ 選択肢 government spending on ～ would have to be reduced（～への政府の支出を減らさなければならなくなる）
+本文 essential social programs（欠かせない社会福祉の取り組み）→ 選択肢 important social services（重要な社会福祉サービス）
+ですから2が正解です。
+この問題の型：言いかえ（take government money away from essential social programs → spending on important social services would have to be reduced）
+【ほかの選択肢】
+1 第3段落の最初に、受け取った人がお金を飲酒やギャンブルに使ってしまうだろうという批判はあります。しかし、その対処にかかる費用が経済的な利益を打ち消すという話はありません。本文の一部だけを使って、書かれていない内容を付け加えています。
+3 第2段落にあるとおり、UBIは社会のすべての人に収入を与える考え方です。一部の人だけの収入を上げ、ほかの人には援助しないという批判は、本文にありません。
+4 本文の批判にあるのは、UBIが雇い主に賃金を下げさせるだろうということです。仕事の市場で競争が激しくなるという話はなく、本文にない内容です。
+【覚えるポイント】
+・take A away from B：「BからAを取り去る、奪う」。選択肢では「Bへの支出が減らされる」と言いかえられています。
+・反対意見をたずねる設問では、本文の Critics argue that ～ や Other criticisms are that ～ のあとに並ぶ批判を一つずつ確かめ、選択肢と同じ内容があるかを見比べることが答えの手がかりになります。

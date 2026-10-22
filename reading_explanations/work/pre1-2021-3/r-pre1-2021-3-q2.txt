@@ -1,0 +1,30 @@
+---
+choices: parody | resume | impede | erect
+answerText: resume
+---
+【正解】2 resume（再開する）
+【和訳】
+（英文）
+"Let's take a break now," said the chairperson. "We'll ［resume］ the meeting in about 15 minutes to talk about the next item on the agenda."
+（訳）
+「ここで休憩にしましょう」と議長は言った。「約15分後に会議を（再開し）、議題の次の項目について話し合います。」
+（選択肢の意味）
+1 parody：まねてからかう、パロディーにする
+2 resume：再開する
+3 impede：じゃまする、妨げる
+4 erect：建てる、まっすぐに立てる
+【考え方】
+まず見るところ：前の Let's take a break now と、空所の後ろの in about 15 minutes to talk about the next item
+議長はまず、次のように言っています。
+Let's take a break now（ここで休憩にしましょう）
+会議はいったん止まります。そのあと「約15分後に」会議をどうするかを話しています。
+in about 15 minutes to talk about the next item on the agenda（約15分後に、議題の次の項目について話し合うために）
+agenda は「議題（会議で話し合う事がらの一覧）」です。休憩のあとで次の項目を話し合うのですから、止めていた会議をもう一度始めることになります。resume は「（中断していたことを）再開する」なので、2が正解です。
+この問題の型：語の意味・組み合わせ（take a break → resume the meeting）
+【ほかの選択肢】
+1 parody は「まねてからかう」です。「会議をまねてからかう」では、次の項目を話し合うことにつながりません。
+3 impede は「じゃまする」です。議長が自分で「会議をじゃまする」と言うのは、次の項目を話し合うという目的と合いません。
+4 erect は「建てる、立てる」です。建物や柱などに使う語で、「会議を建てる」では意味が通りません。
+【覚えるポイント】
+・resume：「（いったん止まったことを）再開する」。take a break：「休憩する」。agenda：「議題」。
+・前に「休憩」や「中断」があり、そのあとで続きをする話になっていれば、resume（再開する）を考える手がかりになります。

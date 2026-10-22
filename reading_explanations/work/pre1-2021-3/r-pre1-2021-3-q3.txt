@@ -1,0 +1,29 @@
+---
+choices: sufficient | arrogant | subsequent | prominent
+answerText: subsequent
+---
+【正解】3 subsequent（その後の、次に続く）
+【和訳】
+（英文）
+The first time Dan tried skiing, he found it difficult, but on each ［subsequent］ ski trip, he got better. Now he is an expert skier.
+（訳）
+ダンは初めてスキーをしたとき、難しいと感じたが、（その後の）スキー旅行のたびに上達した。今では、彼はスキーの名人だ。
+（選択肢の意味）
+1 sufficient：十分な
+2 arrogant：ごう慢な（えらそうにして人を見下す）
+3 subsequent：その後の、次に続く
+4 prominent：目立つ、有名な
+【考え方】
+まず見るところ：文の最初の The first time と、空所の前の but on each
+文の前半では「初めてスキーをしたとき」のことが書かれています。
+The first time Dan tried skiing, he found it difficult（ダンが初めてスキーをしたとき、彼はそれを難しいと感じた）
+but のあとでは、状況が変わります。on each (　) ski trip, he got better（〇〇スキー旅行のたびに、彼は上達した）とあり、最後に Now he is an expert skier.（今では、彼はスキーの名人だ）と続きます。
+「初めて」→「そのあとの旅行のたびに上達」→「今は名人」という時間の流れになっています。subsequent は「その後の、次に続く」なので、each subsequent ski trip で「その後のスキー旅行のたびに」となり、3が正解です。
+この問題の型：対比（The first time ⇔ each subsequent ～）
+【ほかの選択肢】
+1 sufficient は「十分な」です。「十分なスキー旅行のたびに」では、初めてのときと比べて「その後」という時間の流れが表せません。
+2 arrogant は「ごう慢な」です。人の態度を表す語なので、「ごう慢なスキー旅行」では意味が通りません。
+4 prominent は「目立つ、有名な」です。「有名なスキー旅行のたびに上達した」となり、初めてのときから少しずつ上達していく流れと合いません。
+【覚えるポイント】
+・subsequent：「その後の、次に続く」。expert：「名人、専門家」。
+・The first time ～（初めて～したとき）のあとに but が続くときは、「そのあと」どうなったかが書かれることが多く、時間の流れを表す語が入る手がかりになります。
