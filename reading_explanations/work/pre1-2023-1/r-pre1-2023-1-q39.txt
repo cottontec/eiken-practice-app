@@ -1,0 +1,37 @@
+---
+choices: Although he was a great military leader, his lack of political skills led him to negotiate a poor agreement with England. | The disagreements he had with his rivals about religion caused many Scottish people to stop supporting him. | The religious differences between Scotland and England made it likely that Scotland would be attacked again. | Because of the things he had done to gain power, Scotland could not get the support it needed to be safe from England.
+answerText: Because of the things he had done to gain power, Scotland could not get the support it needed to be safe from England.
+---
+【正解】4 Because of the things he had done to gain power, Scotland could not get the support it needed to be safe from England.（彼が権力を得るためにしてきたことのせいで、スコットランドは、イングランドから安全でいるために必要な支持を得られなかった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What problem did Robert the Bruce face after he became king of Scotland?（ロバート・ザ・ブルースは、スコットランド王になったあと、どんな問題に直面したか。）
+1 Although he was a great military leader, his lack of political skills led him to negotiate a poor agreement with England.（彼はすぐれた軍の指導者だったが、政治的な能力が足りなかったために、イングランドと不利な協定を結ぶことになった。）
+2 The disagreements he had with his rivals about religion caused many Scottish people to stop supporting him.（宗教をめぐって彼がライバルたちと対立したことで、多くのスコットランドの人々が彼を支持しなくなった。）
+3 The religious differences between Scotland and England made it likely that Scotland would be attacked again.（スコットランドとイングランドの宗教の違いによって、スコットランドが再び攻撃される可能性が高くなった。）
+4 Because of the things he had done to gain power, Scotland could not get the support it needed to be safe from England.（彼が権力を得るためにしてきたことのせいで、スコットランドは、イングランドから安全でいるために必要な支持を得られなかった。）
+【考え方】
+まず見るところ：第2段落の he had angered the Pope と、第3段落の without the church’s recognition
+最初に、王になったあとのロバートについて、第2段落を見ます。
+Robert was crowned king of Scotland in 1306, and although he enjoyed tremendous support domestically, he had angered the Pope, the leader of the Roman Catholic Church.（ロバートは1306年にスコットランド王として即位した。国内では非常に大きな支持を得ていたが、彼はローマ・カトリック教会の指導者であるローマ教皇を怒らせていた）
+教皇を怒らせた理由は、次の文に書かれています。
+Not only had he ignored the church’s requests that he make peace with England, but he had also taken the life of his closest rival to the throne in a place of worship before being crowned king.（彼は、イングランドと和平を結ぶようにという教会の求めを無視していただけでなく、王として即位する前に、礼拝の場所で、王位をめぐる最も有力なライバルの命を奪ってもいた）
+王になる前に、王位を争うライバルの命を奪ったことは、権力を得るためにしたことだと考えられます。
+次に、第3段落の初めを見ます。
+Scotland’s leadership knew that the country would remain internationally isolated and vulnerable without the church’s recognition.（スコットランドの指導者たちは、教会に認められなければ、国が国際的に孤立し、攻撃を受けやすい弱い立場のままになると分かっていた）
+vulnerable は「（攻撃などを）受けやすい、弱い」です。教皇を怒らせたことで教会に認めてもらえず、スコットランドは強大なイングランドの前で弱い立場にあった、という問題です。
+本文と選択肢を対にすると、次のようになります。
+本文 had also taken the life of his closest rival to the throne ... before being crowned king（即位する前に王位をめぐるライバルの命を奪っていた）→ 選択肢 the things he had done to gain power（権力を得るためにしてきたこと）
+本文 isolated and vulnerable without the church’s recognition（教会に認められなければ孤立し、弱い立場のまま）→ 選択肢 could not get the support it needed to be safe from England（イングランドから安全でいるために必要な支持を得られなかった）
+したがって、4が正解です。
+この問題の型：因果（教皇を怒らせた → 教会に認められない → 孤立し弱い立場）／言いかえ
+【ほかの選択肢】
+1 本文と合いません。第2段落には、ロバートは gained political dominance（政治的な優位を手に入れた）とあり、政治的な能力が足りなかったとは書かれていません。イングランドと不利な協定を結んだという話もありません。
+2 本文と合いません。第2段落には he enjoyed tremendous support domestically（国内では非常に大きな支持を得ていた）とあり、多くの人が支持しなくなったわけではありません。また、ライバルと宗教をめぐって対立したという話もありません。
+3 本文に書かれていません。スコットランドとイングランドの宗教の違いは本文に出てきません。教皇を怒らせたのは、ロバートが教会の求めを無視したことと、ライバルの命を奪ったことです。
+【覚えるポイント】
+・vulnerable：「（攻撃などを）受けやすい、弱い立場の」。recognition：「承認（正式に認めること）」。
+・Not only A but also B：「AだけでなくBも」。
+・「どんな問題に直面したか」をたずねる設問では、although（～だが）のあとの内容（ここでは he had angered the Pope）に問題が書かれていることが多いので、そのあとの段落で結果まで追うと手がかりになります。

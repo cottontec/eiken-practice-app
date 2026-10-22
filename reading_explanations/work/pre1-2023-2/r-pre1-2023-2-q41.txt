@@ -1,0 +1,32 @@
+---
+choices: The army was used as a political tool, creating a system in which a Roman leader gained his position by military power rather than by being chosen by the people. | The wealth and social standing of people who refused to serve in the army decreased, while former legionaries often obtained high government positions. | The Roman army became so large that the cost of maintaining it became a major cause of the fall of the Roman Republic. | The lack of discipline among the legionaries led to tension between Roman citizens and the army, which eventually resulted in civil wars.
+answerText: The army was used as a political tool, creating a system in which a Roman leader gained his position by military power rather than by being chosen by the people.
+---
+【正解】1 The army was used as a political tool, creating a system in which a Roman leader gained his position by military power rather than by being chosen by the people.（軍が政治の道具として使われ、ローマの指導者が人々に選ばれることによってではなく、軍事力によってその地位を得るしくみが生まれた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What effect did the Marian reforms have on Roman society?（マリウスの改革はローマ社会にどんな影響を与えたか。）
+1 The army was used as a political tool, creating a system in which a Roman leader gained his position by military power rather than by being chosen by the people.（軍が政治の道具として使われ、ローマの指導者が人々に選ばれることによってではなく、軍事力によってその地位を得るしくみが生まれた。）
+2 The wealth and social standing of people who refused to serve in the army decreased, while former legionaries often obtained high government positions.（軍で務めることを断った人々の富と社会的な地位は下がり、一方で、元軍団兵はしばしば政府の高い地位を得た。）
+3 The Roman army became so large that the cost of maintaining it became a major cause of the fall of the Roman Republic.（ローマ軍はとても大きくなったので、軍を保つための費用がローマ共和国の崩壊の大きな原因になった。）
+4 The lack of discipline among the legionaries led to tension between Roman citizens and the army, which eventually resulted in civil wars.（軍団兵の規律のなさがローマ市民と軍の間の緊張を生み、それが最終的に内戦につながった。）
+【考え方】
+まず見るところ：第4段落の generals found it difficult to resist the temptation to use the forces under their command to gain political influence と、Julius Caesar successfully used the army to overthrow the elected government
+ローマ社会への影響は、第4段落に書かれています。
+In consequence, generals found it difficult to resist the temptation to use the forces under their command to gain political influence for themselves rather than to ensure the protection and expansion of the Roman Republic.（その結果、将軍たちは、ローマ共和国の防衛と拡大を確かなものにするためではなく、自分自身が政治的な影響力を得るために、自分が指揮する軍隊を使いたいという誘惑にあらがうのが難しくなった）
+This resulted in civil wars, and eventually, Julius Caesar successfully used the army to overthrow the elected government and declare himself the Roman leader.（これは内戦を引き起こし、ついには、ユリウス・カエサルが軍を使って選挙で選ばれた政府をたおし、自らをローマの指導者だと宣言することに成功した）
+temptation は「誘惑（してはいけないことをしたくなる気持ち）」、overthrow は「（政府など）をたおす」、elected は「選挙で選ばれた」です。さらに、このことが a dictatorship ruled by all-powerful emperors（全権を持つ皇帝たちが支配する独裁政治）への道を開いたと書かれています。
+本文と選択肢1を対にすると、次のようになります。
+本文 use the forces under their command to gain political influence（政治的な影響力を得るために自分の軍隊を使う）→ 選択肢 The army was used as a political tool（軍が政治の道具として使われた）
+本文 used the army to overthrow the elected government and declare himself the Roman leader（軍を使って選挙で選ばれた政府をたおし、自らを指導者だと宣言した）→ 選択肢 a Roman leader gained his position by military power rather than by being chosen by the people（ローマの指導者が人々に選ばれるのではなく、軍事力によって地位を得た）
+ですから1が正解です。
+この問題の型：言いかえ（use the forces ... to gain political influence → used as a political tool）／対比（選挙で選ばれた政府⇔軍事力で得た地位）
+【ほかの選択肢】
+2 本文に書かれていません。第4段落には、軍で務めるのを断った人々の富や地位が下がったことや、元軍団兵が政府の高い地位を得たことは書かれていません。政治の力を得ようとしたのは将軍たちです。
+3 本文に書かれていません。第4段落で共和国の崩壊につながったとされているのは、将軍たちが軍隊を自分の政治的な影響力のために使ったことです。軍を保つための費用については触れていません。
+4 第4段落の内容と合いません。本文では、改革のあと軍団兵は highly disciplined（高度に規律正しく）なったと書かれています。内戦は、規律のなさではなく、将軍たちが軍隊を自分のために使ったことから起きたとされています。
+【覚えるポイント】
+・rather than ～（～ではなく）は、本文と選択肢の両方に出てくることがあります。本文の「何ではなく何なのか」（ここでは「共和国を守るためではなく、自分の影響力のため」）と、選択肢の「何ではなく何なのか」を対にして確かめると手がかりになります。
+・本文の the elected government（選挙で選ばれた政府）は、選択肢の being chosen by the people（人々に選ばれること）と結びつきます。

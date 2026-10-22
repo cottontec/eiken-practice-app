@@ -1,0 +1,35 @@
+---
+choices: Financial problems within the Roman Republic meant a Roman leader had no choice but to reduce funding for the military. | As the number of soldiers in the army increased, it became more difficult to transport them to Western Europe and Africa to defend the Roman Republic. | Complaints arose among soldiers because they were forced to stay in the army for many years and received low pay for their service. | A Roman leader was concerned that the army did not have the manpower or skills required to allow the Roman Republic to achieve its military goals.
+answerText: A Roman leader was concerned that the army did not have the manpower or skills required to allow the Roman Republic to achieve its military goals.
+---
+【正解】4 A Roman leader was concerned that the army did not have the manpower or skills required to allow the Roman Republic to achieve its military goals.（ローマの指導者は、ローマ共和国が軍事上の目標を達成できるようにするのに必要な人手も技能も、軍が持っていないことを心配した。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What was one reason for the Marian reforms?（マリウスの改革が行われた理由の一つは何か。）
+1 Financial problems within the Roman Republic meant a Roman leader had no choice but to reduce funding for the military.（ローマ共和国内のお金の問題のために、ローマの指導者は軍のための資金を減らすしかなかった。）
+2 As the number of soldiers in the army increased, it became more difficult to transport them to Western Europe and Africa to defend the Roman Republic.（軍の兵士の数が増えるにつれて、ローマ共和国を守るために兵士を西ヨーロッパやアフリカへ運ぶことがより難しくなった。）
+3 Complaints arose among soldiers because they were forced to stay in the army for many years and received low pay for their service.（兵士たちは何年も軍にとどまることを強いられ、務めに対して低い給料しか受け取れなかったので、兵士の間で不満が起こった。）
+4 A Roman leader was concerned that the army did not have the manpower or skills required to allow the Roman Republic to achieve its military goals.（ローマの指導者は、ローマ共和国が軍事上の目標を達成できるようにするのに必要な人手も技能も、軍が持っていないことを心配した。）
+【考え方】
+まず見るところ：第1段落の Realizing that the Roman army was no longer able to meet the needs of the rapidly expanding republic
+改革が始まったきっかけは、第1段落に書かれています。
+Realizing that the Roman army was no longer able to meet the needs of the rapidly expanding republic, the Roman leader Gaius Marius set about implementing sweeping reforms.（ローマ軍が、急速に拡大する共和国の必要をもはや満たせなくなっていることに気づいたローマの指導者ガイウス・マリウスは、大がかりな改革の実行に取りかかった）
+no longer は「もはや～ない」、meet the needs は「必要を満たす」です。では、軍の何が足りなかったのかは、同じ段落の後半に書かれています。
+inevitably led to new recruits often having no previous fighting experience（必然的に、新兵には以前の戦いの経験がまったくないことが多くなった）
+increasing poverty within the Roman Republic severely reduced the pool of potential recruits who could meet this requirement（ローマ共和国の中で貧困が広がったため、この条件を満たすことのできる新兵の候補者は大きく減った）
+recruit は「新兵（新しく入った兵士）」、pool はここでは「候補者の集まり」です。つまり、戦いの経験（技能）がない新兵が多く、兵士になれる人の数（人手）も減っていたのです。
+本文と選択肢4を対にすると、次のようになります。
+本文 Realizing that the Roman army was no longer able to meet the needs（軍がもはや必要を満たせないと気づいた）→ 選択肢 A Roman leader was concerned（ローマの指導者は心配した）
+本文 severely reduced the pool of potential recruits（新兵の候補者が大きく減った）→ 選択肢 did not have the manpower（人手を持っていなかった）
+本文 having no previous fighting experience（以前の戦いの経験がない）→ 選択肢 did not have the ... skills（技能を持っていなかった）
+manpower は「人手、人員」です。ですから4が正解です。
+この問題の型：言いかえ（no longer able to meet the needs → did not have the manpower or skills）／具体例とまとめ
+【ほかの選択肢】
+1 本文に書かれていません。第1段落には increasing poverty（貧困が広がった）とありますが、それは軍に入れる人が減った理由として書かれているもので、指導者が軍の資金を減らすしかなかったという話ではありません。
+2 本文に書かれていません。第1段落では、兵士になれる人の数は大きく減ったと書かれており、兵士が増えたことや、兵士を西ヨーロッパやアフリカへ運ぶのが難しくなったことは書かれていません。西ヨーロッパやアフリカは、侵略の脅威や敗北の場所として出てくるだけです。
+3 第1段落の内容と合いません。改革前の入隊は on a temporary basis（一時的なもの）だったと書かれているので、何年も軍にとどまることを強いられたという内容とは食い違います。兵士の不満や低い給料についても書かれていません。
+【覚えるポイント】
+・Realizing that ～（～に気づいて）のような文の始まりは、そのあとの行動（ここでは改革）の理由を表していることが多いので、「理由は何か」という設問の手がかりになります。
+・本文で具体的に書かれた問題（経験のない新兵・候補者の減少）は、選択肢で manpower or skills（人手や技能）のように短くまとめられることがあります。

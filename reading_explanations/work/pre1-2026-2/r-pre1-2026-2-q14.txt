@@ -1,0 +1,29 @@
+---
+choices: inheritance | excerpt | odor | agenda
+answerText: excerpt
+---
+【正解】2 excerpt（抜粋（文章の一部を抜き出したもの））
+【和訳】
+（英文）
+The author provided an ［excerpt］ of his new book on his website. He hoped that readers would enjoy the sample and buy the full version.
+（訳）
+その作家は、自分のウェブサイトで新しい本の抜粋を公開した。彼は、読者がその見本を楽しんで、本全体を買ってくれることを望んでいた。
+（選択肢の意味）
+1 inheritance：遺産、受けつぐこと
+2 excerpt：抜粋（文章の一部を抜き出したもの）
+3 odor：におい
+4 agenda：議題、予定表
+【考え方】
+まず見るところ：後ろの文の the sample と the full version
+The author provided an ( ) of his new book on his website.（その作家は、自分のウェブサイトで新しい本の（　）を提供した）
+空所には、作家がウェブサイトで出した「新しい本の何か」が入ります。選択肢はどれも母音で始まるので、前の an からは決められません。
+He hoped that readers would enjoy the sample and buy the full version.（彼は、読者がその見本を楽しんで、全体版を買ってくれることを望んでいた）
+the sample（その見本）は、前の文の空所の語を言いかえたものです。また、the full version（全体版）と比べていることから、ウェブサイトに出したのは本の一部だと分かります。excerpt は「抜粋（文章の一部を抜き出したもの）」という意味なので、2が正解です。
+この問題の型：言いかえ（an excerpt of his new book → the sample）／対比（一部⇔the full version）
+【ほかの選択肢】
+1 inheritance は「遺産、受けつぐこと」です。「新しい本の遺産を公開した」となり、the sample（その見本）という言いかえと合いません。
+3 odor は「におい」です。「新しい本のにおいをウェブサイトで提供した」となり、意味が通りません。
+4 agenda は「議題、予定表」です。「新しい本の議題」となり、読者が楽しむ見本にはなりません。
+【覚えるポイント】
+・excerpt：「抜粋（文章の一部を抜き出したもの）」。この問題では sample（見本）と言いかえられ、full version（全体版）と対になっています。
+・後ろの文に the ～ と前の内容を指す言い方（ここでは the sample）があるときは、それが空所の語の言いかえになっていないかを確かめることが手がかりになります。
