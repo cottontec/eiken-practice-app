@@ -1,0 +1,25 @@
+---
+choices: opposes | extends | promises | completes
+answerText: opposes
+---
+【正解】1 opposes（反対する）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 opposes：反対する
+2 extends：延ばす、広げる
+3 promises：約束する
+4 completes：完成させる
+【考え方】
+空所の文は The Académie Française (　) this.（アカデミー・フランセーズはこれを～する）です。this（これ）が何を指すかを、前の文で確かめます。
+前の文は Now, though, speakers of these languages are insisting on their right to use them in schools and other areas of public life.（しかし今、これらの言語を話す人々は、学校やそのほかの公共の生活の場でそれらを使う権利を強く求めている）です。these languages は、ブルトン語のような少数言語（その国で少ない人数の人々が話す言語）のことです。つまり this は「少数言語を学校などで使う権利を求めていること」です。
+次の文では、アカデミー・フランセーズの考えが書かれています。They say that allowing the use of other languages would make it even harder to protect the French language.（ほかの言語の使用を認めれば、フランス語を守ることがさらに難しくなるだろうと彼らは言っている）。
+少数言語を使えるようにすると、フランス語を守りにくくなると考えているのですから、アカデミー・フランセーズはその求めに反対していると分かります。oppose は「反対する」なので、1が正解です。
+【ほかの選択肢】
+2 extends は「延ばす、広げる」です。「その求めを広げる」となり、次の文の「フランス語を守るのがさらに難しくなる」という心配とつながりません。
+3 promises は「約束する」です。「少数言語を使う権利を約束する」となると、次の文で「ほかの言語の使用を認めると困る」と言っていることと反対の内容になります。
+4 completes は「完成させる」です。「その求めを完成させる」では意味が通らず、次の文の心配ともつながりません。
+【覚えるポイント】
+・oppose ～：「～に反対する」。be opposed to ～ という言い方もあります。
+・insist on ～：「～を強く求める、言い張る」。

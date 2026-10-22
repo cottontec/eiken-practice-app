@@ -1,0 +1,19 @@
+---
+choices: miniature | physical | thoughtful | financial
+answerText: physical
+---
+【正解】2 physical（体の、身体を使う）
+【和訳】
+子どもは勉強をするべきですが、スポーツのような（体を使う）活動にも参加することが、子どもの健康のためには大切です。
+（選択肢の意味）1 小型の、ミニチュアの　2 体の、身体の　3 思いやりのある、考え深い　4 お金の、財政の
+【考え方】
+文の前半は Children should study（子どもは勉強をするべきだ）です。そのあとに but（しかし）が続くので、後半では勉強とはちがう種類のことが述べられると考えられます。
+後半は it is important for their health that they also take part in (　) activities, such as sports.（スポーツのような〜活動にも参加することが、健康のために大切だ）です。take part in ～ は「～に参加する」という意味です。
+手がかりは2つあります。1つは for their health（健康のために）、もう1つは such as sports（たとえばスポーツのような）です。スポーツの例にあたり、健康のためになる活動は「体を使う活動」です。physical は「体の、身体の」という意味なので、2が正解です。勉強（頭を使うこと）と体を使う活動が、but の前後で比べられています。
+【ほかの選択肢】
+1 miniature は「小型の、ミニチュアの」です。「スポーツのような小型の活動」となり、意味が通りません。
+3 thoughtful は「思いやりのある、考え深い」です。スポーツの例とも、健康のためという理由ともつながりません。
+4 financial は「お金の、財政の」です。「スポーツのようなお金の活動」となり、健康の話と合いません。
+【覚えるポイント】
+・physical：「体の、身体の」。physical activities で「体を動かす活動、運動」。
+・take part in ～：「～に参加する」。

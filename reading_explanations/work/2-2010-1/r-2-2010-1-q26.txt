@@ -1,0 +1,25 @@
+---
+choices: repeat | predict | welcome | explain
+answerText: welcome
+---
+【正解】3 welcome（歓迎する）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 repeat：くり返す
+2 predict：予測する
+3 welcome：歓迎する
+4 explain：説明する
+【考え方】
+空所の文は Some countries (　) this addition to their vocabulary.（自分たちの語彙へのこの追加を～する国もある）です。this addition（この追加）は、前の文の more and more English words are entering other languages（ますます多くの英単語がほかの言語に入りこんでいる）ことを指します。
+次の文が理由を説明しています。This is because people in these countries regard English words as attractive or even fashionable.（これは、それらの国の人々が英単語を魅力的、さらにはおしゃれだと考えているからだ）とあります。regard A as B は「AをBだと考える」という意味です。
+英単語を「魅力的」「おしゃれ」と考えているのですから、それらの国は英単語が入ってくることを喜んで受け入れていると分かります。welcome は「歓迎する、喜んで受け入れる」なので、3が正解です。
+さらにその次の文 Others, however, take a less positive view.（しかし、ほかの国々はそれほど好意的な見方をしていない）とも、うまく対比（2つを比べて違いを示すこと）になります。Some countries（～する国もある）と Others（ほかの国々）が、「歓迎する国」と「好意的でない国」に分かれているのです。
+【ほかの選択肢】
+1 repeat は「くり返す」です。「英単語の追加をくり返す国もある」となり、次の文の「英単語を魅力的だと考えているから」という理由とつながりません。
+2 predict は「予測する」です。英単語はすでに入りこんでいると前の文に書かれているので、「予測する」では合いません。また、「魅力的だと考えているから」という理由とも結びつきません。
+4 explain は「説明する」です。「英単語の追加を説明する国もある」となり、次の文の理由とも、Others ～ take a less positive view（ほかの国はそれほど好意的でない）との対比ともつながりません。
+【覚えるポイント】
+・regard A as B：「AをBだと考える、見なす」。
+・Some ～. Others …：「～するものもあれば、…するものもある」。2つのグループを比べるときの言い方です。
