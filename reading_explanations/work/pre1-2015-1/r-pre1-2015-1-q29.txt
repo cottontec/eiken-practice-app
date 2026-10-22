@@ -1,0 +1,31 @@
+---
+choices: such action was more necessary | this idea was not considered | more dams were being removed | new dams were not being built
+answerText: this idea was not considered
+---
+【正解】2 this idea was not considered（この考えは検討されなかった）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 such action was more necessary（そのような行動は〔今より〕もっと必要だった）
+2 this idea was not considered（この考えは検討されなかった）
+3 more dams were being removed（〔今より〕多くのダムが撤去されていた）
+4 new dams were not being built（新しいダムは建設されていなかった）
+【考え方】
+まず見るところ：空所の前の though と、空所の後ろの Only recently has ～
+空所は第1段落の Several decades ago, though, (29). です。though はここでは「しかし」という意味で、前の文と反対の向きの内容が続くことを表します。
+空所の前の文の最後を見ます。
+a policy of removing the dams has become common（ダムを撤去する方針が一般的になってきた）
+今はダムの撤去が一般的になっています。though があるので、「数十年前は、そうではなかった」という内容が続くと考えられます。
+空所の後ろの文も見ます。
+Only recently has the negative impact of dams come to be seen as greater than their economic benefits.（ダムの悪い影響が、その経済的な利益よりも大きいと見なされるようになったのは、ごく最近になってからである）
+Only recently（ごく最近になって初めて）が文の初めに出ているので、それより前はダムの悪い影響が重く見られていなかったことが分かります。
+2の this idea（この考え）は、前の文の a policy of removing the dams（ダムを撤去する方針）を指します。「数十年前には、ダムを撤去するという考えは検討されなかった」となり、前後どちらともつながります。ですから2が正解です。
+この問題の型：対比（今は撤去が一般的 ⇔ though 数十年前は検討されなかった）／指示語（this idea ＝ ダムを撤去する方針）
+【ほかの選択肢】
+1 「そのような行動は（今より）もっと必要だった」を入れると、数十年前のほうがダムの撤去が必要とされていたことになります。しかし本文では、ダムの悪い影響が重く見られるようになったのは「ごく最近」なので、反対の内容です。
+3 「（今より）多くのダムが撤去されていた」も、本文と反対です。最後の文には、意見が変わった結果、当局が an increasing number of dam removal projects（ますます多くのダム撤去計画）を認めるようになったとあり、撤去が増えているのは最近のことです。
+4 「新しいダムは建設されていなかった」を入れると、ダムを造ることの話になります。本文の話題はダムの撤去についての考え方の変化で、新しいダムを造ったかどうかは書かれておらず、次の Only recently ～ の文ともつながりません。
+【覚えるポイント】
+・this idea のような指示語が選択肢にあるときは、それが前の文の何（ここでは a policy of removing the dams）を指すかを確かめましょう。
+・Only recently ～（ごく最近になって初めて～）は、「それより前はそうではなかった」ことを表す手がかりになります。

@@ -1,0 +1,29 @@
+---
+choices: There was a potential danger | The dam was not to blame | There were few capable workers | This was not the only reason
+answerText: There was a potential danger
+---
+【正解】1 There was a potential danger（危険が起こるおそれがあった）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 There was a potential danger（危険が起こるおそれがあった）
+2 The dam was not to blame（そのダムに責任はなかった）
+3 There were few capable workers（能力のある作業員がほとんどいなかった）
+4 This was not the only reason（これが唯一の理由ではなかった）
+【考え方】
+まず見るところ：空所の後ろの Simply removing the dam would likely have caused this to be carried downstream, killing the fish
+空所は第2段落の (30), however. です。however（しかし）があるので、前の文の「ダムを撤去することを決めた」という内容に対して、何か問題があったと考えられます。
+空所の後ろの2つの文を見ます。
+The dam was blocking large quantities of mud and sand, which had built up over the years.（ダムは、長年の間にたまった大量の泥と砂をせき止めていた）
+Simply removing the dam would likely have caused this to be carried downstream, killing the fish and other wildlife there.（ただダムを取り除いていたら、この泥と砂が下流へ運ばれて、そこにいる魚やほかの野生生物を死なせていた可能性が高い）
+this は前の文の mud and sand（泥と砂）を指します。ダムをそのまま取り除くと、魚を守るための計画なのに、かえって魚を死なせてしまうおそれがあったのです。
+potential は「起こりうる、潜在的な（かくれている）」という意味で、There was a potential danger は「危険が起こるおそれがあった」となります。後ろの2つの文は、その危険の中身を具体的に説明しています。ですから1が正解です。
+この問題の型：具体例とまとめ（泥と砂が流れて魚が死ぬ → potential danger）／対比（撤去を決めた ⇔ however 危険があった）
+【ほかの選択肢】
+2 「そのダムに責任はなかった」を入れると、魚が減ったのはダムのせいではない、という意味になります。しかし前の文では、魚の数が回復できるようにダムを撤去すると決めており、また後ろの文はダムを取り除くときの危険の話なので、つながりません。
+3 「能力のある作業員がほとんどいなかった」を入れると、人手の問題になります。本文には作業員の能力についての話はなく、当局が何年もかけたのは解決策を決めるためでした。
+4 「これが唯一の理由ではなかった」を入れると、ダムを撤去する理由がほかにもあった、という意味になります。しかし後ろの文には、撤去のほかの理由は書かれておらず、書かれているのは撤去にともなう危険です。
+【覚えるポイント】
+・potential：「起こりうる、潜在的な」。a potential danger で「起こるおそれのある危険」。
+・空所の文が短く、後ろに具体的な説明が続くときは、その説明をひとことでまとめる選択肢を選ぶことが手がかりになります。
