@@ -1,0 +1,30 @@
+---
+choices: Despite this | In contrast | Otherwise | Not surprisingly
+answerText: Not surprisingly
+---
+【正解】4 Not surprisingly（当然のことながら、驚くことではないが）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Despite this（これにもかかわらず）
+2 In contrast（対照的に）
+3 Otherwise（そうでなければ）
+4 Not surprisingly（当然のことながら、驚くことではないが）
+【考え方】
+まず見るところ：第3段落の空所の前の technical solutions that do not address the underlying causes
+空所の前の文を見ます。
+All too often, outsiders come in with only limited knowledge of a region and attempt to fix complex problems by offering technical solutions that do not address the underlying causes.（あまりにもよくあることだが、外部の人々は、その地域についての限られた知識しか持たずにやって来て、根本にある原因に取り組まない技術的な解決策を出すことで、複雑な問題を解決しようとする）
+underlying causes は「根本にある原因」、address は、ここでは「（問題に）取り組む」という意味です。根本の原因に取り組まない解決策、というよくないやり方が書かれています。
+空所の後ろを見ます。
+it is unlikely that such solutions will offer a true, long-term benefit to the people they are intended to help（そのような解決策が、助けようとしている人々に本当の、長期的な利益をもたらす見こみは低い）
+such solutions（そのような解決策）は、前の文の「根本の原因に取り組まない解決策」を指しています。
+原因に取り組まない解決策では、本当の利益はもたらされない、というのは、前の文から予想できる自然な結果です。Not surprisingly は「当然のことながら、驚くことではないが」で、予想どおりの結果を述べるときに使います。ですから4が正解です。
+この問題の型：因果（原因に取り組まない → 利益は見こめない）／指示語（such solutions ＝ 原因に取り組まない解決策）
+【ほかの選択肢】
+1 Despite this（これにもかかわらず）を入れると、「原因に取り組まない解決策を出すのに、利益は見こめない」と、予想に反する結果のようになります。実際には予想どおりの結果なので、合いません。
+2 In contrast（対照的に）は、2つの違うものを比べるときに使います。空所の前後は同じ「技術的な解決策」について述べていて、別のものと比べているわけではないので、合いません。
+3 Otherwise（そうでなければ）を入れると、「原因に取り組まない解決策を出すのでなければ、利益をもたらす見こみは低い」となり、話が逆になってしまいます。
+【覚えるポイント】
+・Not surprisingly：「当然のことながら、驚くことではないが」。前の内容から予想できる結果を述べるときに使います。
+・つなぎの語を選ぶときは、後ろの内容が前の内容から「予想どおり」なのか「予想に反する」のかを確かめるのが手がかりになります。

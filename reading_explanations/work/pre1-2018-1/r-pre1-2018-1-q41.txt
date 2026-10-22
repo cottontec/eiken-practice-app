@@ -1,6 +1,7 @@
 ---
 choices: Most people failed to link the riots to the disadvantaged backgrounds of minority youths and their unequal status in society. | People on both sides of the riots chose to give the zoot suit a political significance which it did not, in reality, possess. | The riots were widely regarded as arising from anger over treatment of minority groups in the United States. | The riots were thought to be occurring because disadvantaged youths lacked the political awareness necessary to change their situation peacefully.
 answerText: Most people failed to link the riots to the disadvantaged backgrounds of minority youths and their unequal status in society.
+reviewed: yes
 ---
 【正解】1 Most people failed to link the riots to the disadvantaged backgrounds of minority youths and their unequal status in society.（ほとんどの人は、暴動を、少数派の若者たちの恵まれない境遇や、社会での不平等な立場と結びつけて考えなかった。）
 【和訳】

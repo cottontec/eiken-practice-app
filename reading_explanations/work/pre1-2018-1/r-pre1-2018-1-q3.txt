@@ -1,6 +1,7 @@
 ---
 choices: repeal | diminish | hinder | dispense
 answerText: dispense
+reviewed: yes
 ---
 【正解】4 dispense（〈薬を〉調合して渡す、調剤する）
 【和訳】

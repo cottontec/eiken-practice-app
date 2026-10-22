@@ -1,6 +1,7 @@
 ---
 choices: sink in | sit by | wear off | make out
 answerText: sit by
+reviewed: yes
 ---
 【正解】2 sit by（何もせずに見ている、傍観する）
 【和訳】

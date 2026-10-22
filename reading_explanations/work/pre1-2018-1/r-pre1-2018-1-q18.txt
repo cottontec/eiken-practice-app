@@ -1,6 +1,7 @@
 ---
 choices: abort | summon | mold | stumble
 answerText: abort
+reviewed: yes
 ---
 【正解】1 abort（〈計画などを〉中止する、とりやめる）
 【和訳】

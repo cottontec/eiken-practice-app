@@ -1,6 +1,7 @@
 ---
 choices: dehydration | visibility | chatter | literacy
 answerText: dehydration
+reviewed: yes
 ---
 【正解】1 dehydration（脱水症状。体の水分が足りなくなること）
 【和訳】

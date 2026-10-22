@@ -1,6 +1,7 @@
 ---
 choices: They have been sent there because their parts are too outdated to be useful in modern planes. | They have their weapons removed and are converted so that they can be used for nonmilitary purposes. | They are taken apart so that certain parts can be installed in military planes that are currently in use. | They are kept there so that members of the military can have easy access to them to use for flight practice.
 answerText: They are taken apart so that certain parts can be installed in military planes that are currently in use.
+reviewed: yes
 ---
 【正解】3 They are taken apart so that certain parts can be installed in military planes that are currently in use.（一部の部品を、今使われている軍用機に取りつけられるように、分解されている。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: call on | hang up | show off | tune up
 answerText: tune up
+reviewed: yes
 ---
 【正解】4 tune up（〈エンジンなどを〉調整する、整備する）
 【和訳】

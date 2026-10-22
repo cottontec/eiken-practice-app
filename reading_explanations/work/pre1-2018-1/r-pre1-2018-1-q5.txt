@@ -1,6 +1,7 @@
 ---
 choices: abridged | supreme | notorious | hysterical
 answerText: abridged
+reviewed: yes
 ---
 【正解】1 abridged（短くまとめた、要約版の）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: entrusted | scraped | paved | simmered
 answerText: entrusted
+reviewed: yes
 ---
 【正解】1 entrusted（任せた、預けた）
 【和訳】

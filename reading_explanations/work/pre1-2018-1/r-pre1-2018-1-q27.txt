@@ -1,6 +1,7 @@
 ---
 choices: involved illegal access to public land | had negatively affected the competitor's sales | would influence other companies' actions | was a danger to people in the area
 answerText: was a danger to people in the area
+reviewed: yes
 ---
 【正解】4 was a danger to people in the area（その地域の人々にとって危険である）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: The government encouraged servicemen to use force against companies that manufactured zoot suits. | The zoot suit came to be seen as an indication that the individual wearing it did not support the war effort. | People who continued to wear zoot suits did so mainly to express their belief that Mexican-Americans should refuse to serve in the military. | A fabric shortage led to changes in the design of the zoot suit, which made it even more offensive to servicemen and other groups.
 answerText: The zoot suit came to be seen as an indication that the individual wearing it did not support the war effort.
+reviewed: yes
 ---
 【正解】2 The zoot suit came to be seen as an indication that the individual wearing it did not support the war effort.（ズートスーツは、それを着ている人が戦争に勝つための取り組みを支持していないしるしだと見られるようになった。）
 【和訳】

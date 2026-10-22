@@ -118,10 +118,14 @@
   "pre1-2018-2": {
     "stats": {
       "target": 41,
-      "written": 37,
-      "missing": 4
+      "written": 41
     },
     "errors": [],
-    "warnings": []
+    "warnings": [
+      [
+        "r-pre1-2018-2-q40",
+        "選択肢3「When wages for unskilled workers in a city are already very low, large-scale immigration will likely have a positive effect on them.」が抽出テキストに見つからない（画像で要確認）"
+      ]
+    ]
   }
 }

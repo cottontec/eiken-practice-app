@@ -1,6 +1,7 @@
 ---
 choices: sculptures | boundaries | columns | fatalities
 answerText: fatalities
+reviewed: yes
 ---
 【正解】4 fatalities（〈事故や災害による〉死者）
 【和訳】

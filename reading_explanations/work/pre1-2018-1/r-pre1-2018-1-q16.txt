@@ -1,6 +1,7 @@
 ---
 choices: irregular | dismayed | uneasy | unwarranted
 answerText: unwarranted
+reviewed: yes
 ---
 【正解】4 unwarranted（根拠のない、正当な理由のない）
 【和訳】

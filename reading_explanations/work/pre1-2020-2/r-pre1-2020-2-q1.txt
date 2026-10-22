@@ -1,0 +1,33 @@
+---
+choices: obedient | immense | squeaky | wretched
+answerText: obedient
+---
+【正解】1 obedient（従順な、言うことをよく聞く）
+【和訳】
+（英文）
+A: I wish my children were as ［obedient］ as yours.
+B: Oh, they're only doing what I tell them because you're here. Usually, they pay no attention at all.
+（訳）
+A：うちの子どもたちも、あなたの子どもたちと同じくらい（言うことをよく聞く）といいのに。
+B：ああ、あの子たちが私の言うとおりにしているのは、あなたがここにいるからにすぎないよ。ふだんは、まったく耳を貸さないんだ。
+（選択肢の意味）
+1 obedient：従順な、言うことをよく聞く
+2 immense：巨大な、ばく大な
+3 squeaky：キーキー音を立てる
+4 wretched：みじめな、ひどい
+【考え方】
+まず見るところ：Bの答えの doing what I tell them と pay no attention at all
+Aは、自分の子どもたちがBの子どもたちと同じくらい（　）だったらいいのに、と言っています。I wish ～ were は「～だったらいいのに」と、今そうではないことを願う言い方です。
+Bの答えを見ます。
+they're only doing what I tell them because you're here（あの子たちが私の言うとおりにしているのは、あなたがここにいるからにすぎない）
+Usually, they pay no attention at all.（ふだんは、まったく耳を貸さない）
+Bの子どもたちは、今は親の言うとおりにしています。Aはその様子を見て、うらやましく思ったと考えられます。
+Bは「それは今だけで、ふだんは言うことを聞かない」と答えています。ですから、Aがほめたのは「言うことをよく聞く」という性質です。obedient は「従順な、言うことをよく聞く」という意味なので、1が正解です。
+この問題の型：語の意味・組み合わせ（言うとおりにする→obedient）／対比（今は言うことを聞く⇔ふだんは耳を貸さない）
+【ほかの選択肢】
+2 immense は「巨大な、ばく大な」です。「あなたの子どもたちと同じくらい巨大だったら」となり、Bが「言うとおりにしているのは今だけ」と答える流れにつながりません。
+3 squeaky は「キーキー音を立てる」です。ドアや靴などの音を表す語で、Bの「言うとおりにしている」という答えと結びつきません。
+4 wretched は「みじめな、ひどい」です。自分の子どもがみじめだったらいいのに、と願うのは不自然で、Bの答えとも合いません。
+【覚えるポイント】
+・obedient：「従順な、言うことをよく聞く」。
+・相手の答えに doing what I tell them（私の言うとおりにしている）や pay no attention（耳を貸さない）のような説明があるときは、その説明が空所の語の意味を表していることが多いので、答えの中身から逆にたどると手がかりになります。

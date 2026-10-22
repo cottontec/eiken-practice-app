@@ -1,6 +1,7 @@
 ---
 choices: claimed the pachucos deserved to be punished even more severely for their activities than they had been. | made an effort to convince authorities not to arrest servicemen who were participating in fights with the pachucos. | criticized zoot suit wearers because their fashion was based on clothes traditionally worn by members of the lower classes. | disregarded the fact that not everyone who wore zoot suits was an African-American or Mexican-American male.
 answerText: disregarded the fact that not everyone who wore zoot suits was an African-American or Mexican-American male.
+reviewed: yes
 ---
 【正解】4 disregarded the fact that not everyone who wore zoot suits was an African-American or Mexican-American male.（ズートスーツを着ていたのが、全員アフリカ系アメリカ人かメキシコ系アメリカ人の男性だったわけではないという事実を無視した。）
 【和訳】

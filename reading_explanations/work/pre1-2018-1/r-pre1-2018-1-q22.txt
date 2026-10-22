@@ -1,6 +1,7 @@
 ---
 choices: come into | bring about | close in | sum up
 answerText: come into
+reviewed: yes
 ---
 【正解】1 come into（〈財産などを〉受け継ぐ、手に入れる）
 【和訳】

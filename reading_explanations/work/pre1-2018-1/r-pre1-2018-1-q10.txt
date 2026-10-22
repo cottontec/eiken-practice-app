@@ -1,6 +1,7 @@
 ---
 choices: mellow | eventful | tedious | primary
 answerText: tedious
+reviewed: yes
 ---
 【正解】3 tedious（退屈な、うんざりする）
 【和訳】

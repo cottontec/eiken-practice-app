@@ -1,6 +1,7 @@
 ---
 choices: sheltered | intrigued | modified | dreaded
 answerText: intrigued
+reviewed: yes
 ---
 【正解】2 intrigued（興味をそそられた）
 【和訳】

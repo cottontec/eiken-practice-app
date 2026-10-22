@@ -1,6 +1,7 @@
 ---
 choices: simulation | excess | sincerity | conservation
 answerText: conservation
+reviewed: yes
 ---
 【正解】4 conservation（大切に使うこと、節約、保護）
 【和訳】

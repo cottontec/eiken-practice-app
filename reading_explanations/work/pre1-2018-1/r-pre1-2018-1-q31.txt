@@ -1,6 +1,7 @@
 ---
 choices: had gotten used to | had not become skilled at | decided to focus mainly on | were not entirely dependent upon
 answerText: were not entirely dependent upon
+reviewed: yes
 ---
 【正解】4 were not entirely dependent upon（～に完全に頼っていたわけではなかった）
 【和訳】
@@ -22,7 +23,7 @@ This indicates that the people (　) growing crops on land.（このことは、
 【ほかの選択肢】
 1 had gotten used to は「～に慣れていた」です。たんぱく質の半分を海から得ていたことは、作物づくりに慣れていたことを示す証拠にはなりません。
 2 had not become skilled at は「～が上手になっていなかった」です。食事のたんぱく質がどこから来たかという分析からは、作物づくりの腕前は分かりません。
-3 decided to focus mainly on は「主に～に力を入れることにした」です。たんぱく質の半分を海から得ていたという内容と反対になります。
+3 decided to focus mainly on は「主に～に力を入れることにした」です。「主に作物づくりに力を入れた」では、人々が農業に頼っていたという昔からの説に近くなり、たんぱく質の半分を海から得ていたという分析の内容と合いません。
 【覚えるポイント】
 ・not entirely ～：「完全に～というわけではない」（一部だけを打ち消す言い方）。be dependent upon ～：「～に頼っている」。
 ・空所の前の This indicates that ～（このことは～を示している）の This が指す内容（ここでは「たんぱく質の半分は海から」）から、何が言えるかを考えることが手がかりになります。

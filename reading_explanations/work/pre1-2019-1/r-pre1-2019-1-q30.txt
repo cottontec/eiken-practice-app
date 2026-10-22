@@ -1,0 +1,32 @@
+---
+choices: had warned that this would happen | were unfamiliar with the local culture | tried to profit from the situation | could not cooperate with each other
+answerText: were unfamiliar with the local culture
+---
+【正解】2 were unfamiliar with the local culture（地元の文化をよく知らなかった）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 had warned that this would happen（こうなることを警告していた）
+2 were unfamiliar with the local culture（地元の文化をよく知らなかった）
+3 tried to profit from the situation（その状況から利益を得ようとした）
+4 could not cooperate with each other（おたがいに協力できなかった）
+【考え方】
+まず見るところ：第2段落の空所の後ろの They saw cattle as products ～, whereas cattle owners ～
+空所のある文は、次のとおりです。
+According to Ferguson, the aid workers who were in charge (30).（ファーガソンによれば、担当していた援助関係者たちは（30））
+the aid workers は「援助をする人たち」、in charge は「担当している」です。この文は、直前の「計画はおおむね目標を達成できなかった」の理由を説明しています。
+空所の後ろの文を見ます。
+They saw cattle as products to be bought and sold in a cash economy, whereas cattle owners in Thaba-Tseka were largely unwilling to sell cattle for cash because the animals served as status symbols, particularly for men.（彼らは牛を、現金でやりとりする経済の中で売り買いされる商品だと見ていた。一方、タバ・ツェカの牛の持ち主たちは、大部分が牛を売って現金にすることを望まなかった。牛が、特に男性にとって、地位の象徴の役目を果たしていたからである）
+They（彼ら）は援助関係者を指します。whereas は「～である一方で」で、2つを比べる語です。
+援助関係者：牛は売り買いする商品
+地元の人々：牛は地位の象徴、いざというときの備え（次の文の a form of security）
+援助関係者は、地元の人々が牛をどう考えているかを分かっていませんでした。つまり、地元の文化をよく知らなかったということです。ですから2が正解です。
+この問題の型：対比（whereas 援助関係者の見方 ⇔ 地元の人々の見方）／具体例とまとめ（牛の見方のずれ → 文化を知らない）
+【ほかの選択肢】
+1 「こうなることを警告していた」を入れると、援助関係者が計画の失敗を前もって分かっていたことになります。しかし後ろの文では、援助関係者自身が牛を商品と見ていて、地元の考えとずれていたことが書かれているので、合いません。
+3 「その状況から利益を得ようとした」を入れると、援助関係者が自分たちでもうけようとしたことになります。本文の They saw cattle as products to be bought and sold（牛を売り買いされる商品だと見ていた）は牛についての考え方で、援助関係者が自分の利益を求めたとは書かれていません。
+4 「おたがいに協力できなかった」を入れると、援助関係者どうしの仲の話になります。本文には援助関係者どうしの関係は書かれておらず、後ろの文の牛の見方のずれともつながりません。
+【覚えるポイント】
+・be unfamiliar with ～：「～をよく知らない、～になじみがない」。
+・空所の後ろに whereas（～である一方で）を使った比べる文が続くときは、2つの考え方の「ずれ」を表す選択肢が答えになる手がかりになります。

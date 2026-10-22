@@ -1,6 +1,7 @@
 ---
 choices: menace | contraction | millennium | standstill
 answerText: standstill
+reviewed: yes
 ---
 【正解】4 standstill（停止、止まった状態）
 【和訳】

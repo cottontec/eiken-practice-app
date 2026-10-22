@@ -1,6 +1,7 @@
 ---
 choices: shamelessly | enviously | narrowly | frankly
 answerText: narrowly
+reviewed: yes
 ---
 【正解】3 narrowly（かろうじて、危うく）
 【和訳】

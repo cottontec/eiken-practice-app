@@ -1,6 +1,7 @@
 ---
 choices: indefinite | mandatory | graphic | daring
 answerText: mandatory
+reviewed: yes
 ---
 【正解】2 mandatory（義務の、強制の）
 【和訳】

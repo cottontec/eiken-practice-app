@@ -1,6 +1,7 @@
 ---
 choices: scattered | wrinkled | falsified | destined
 answerText: destined
+reviewed: yes
 ---
 【正解】4 destined（〈～する〉運命にある、～することになっている）
 【和訳】
@@ -18,7 +19,7 @@ From the first time Alice's music teacher heard her play, he knew she was ［des
 空所のあとに to become famous（有名になる）が続いています。be destined to ～ で「～する運命にある」という決まった形があります。
 次の文で、先生がそう思った理由が書かれています。
 He had never taught such a talented young violinist.（彼は、これほど才能のある若いバイオリニストを教えたことがなかった）
-今まで教えた中でいちばん才能があると感じたので、先生は、アリスがきっと有名になると思ったのです。よって4が正解です。
+先生は、これほど才能のある若いバイオリニストを教えたことがなかったので、アリスはきっと有名になると感じたのです。よって4が正解です。
 この問題の型：熟語・決まった形（be destined to ～：～する運命にある）
 【ほかの選択肢】
 1 scattered は「散らばった」です。「彼女は有名になるために散らばっていた」では意味が通りません。

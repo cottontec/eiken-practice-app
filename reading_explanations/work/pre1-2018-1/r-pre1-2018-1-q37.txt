@@ -1,6 +1,7 @@
 ---
 choices: Rules limiting the number of years that aircraft can remain in service have resulted in fewer accidents. | Aircraft manufacturers have created an international agency to ensure the reliability of mechanical parts. | Additional exits are now required on aircraft so that people can escape more quickly if there is an accident. | Aircraft pilots now have better options for responding to emergencies so that potential harm is reduced.
 answerText: Aircraft pilots now have better options for responding to emergencies so that potential harm is reduced.
+reviewed: yes
 ---
 【正解】4 Aircraft pilots now have better options for responding to emergencies so that potential harm is reduced.（被害が起こるおそれを減らせるように、パイロットは今では、緊急事態に対応するための以前よりよい手段を持っている。）
 【和訳】
@@ -16,7 +17,7 @@ answerText: Aircraft pilots now have better options for responding to emergencie
 まず見るところ：第3段落の systems that allow pilots to do things like stopping the flow of fuel if engines catch fire
 第3段落では、1970年代以降、墜落した飛行機の残骸を調べたことで、飛行機がどう変わったかが書かれています。
 As a result, engineers have made changes to plane design, such as the addition of fireproof materials, and systems that allow pilots to do things like stopping the flow of fuel if engines catch fire.（その結果、技術者たちは、燃えにくい素材を加えることや、エンジンが火を噴いたときに燃料の流れを止めるといったことをパイロットができる仕組みなど、飛行機の設計に変更を加えてきた）
-allow A to ～ は「Aが～できるようにする」です。エンジンが燃えるという緊急事態のときに、パイロットが燃料を止められるようになったので、火事がひどくなるのを防げます。
+allow A to ～ は「Aが～できるようにする」です。エンジンが燃えるという緊急事態のときに、パイロットが燃料を止められるようになったので、火事がひどくなるのを防ぎやすくなると考えられます。
 本文と選択肢4を対にすると、次のようになります。
 ・本文 systems that allow pilots to do things like stopping the flow of fuel（パイロットが燃料の流れを止めるといったことをできる仕組み）→ 選択肢 Aircraft pilots now have better options（パイロットは今では、よりよい手段を持っている）
 ・本文 if engines catch fire（エンジンが火を噴いたとき）→ 選択肢 responding to emergencies（緊急事態に対応すること）

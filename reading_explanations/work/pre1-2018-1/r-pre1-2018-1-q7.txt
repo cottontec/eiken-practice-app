@@ -1,6 +1,7 @@
 ---
 choices: attained | empowered | defied | expanded
 answerText: defied
+reviewed: yes
 ---
 【正解】3 defied（逆らった、従わなかった）
 【和訳】

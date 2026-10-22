@@ -1,6 +1,7 @@
 ---
 choices: adhesion | outburst | domestication | recruitment
 answerText: domestication
+reviewed: yes
 ---
 【正解】3 domestication（栽培化・家畜化。野生の植物や動物を、人が育てて利用できるようにすること）
 【和訳】

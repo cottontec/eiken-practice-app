@@ -1,6 +1,7 @@
 ---
 choices: deed | phase | vein | shriek
 answerText: shriek
+reviewed: yes
 ---
 【正解】4 shriek（悲鳴、かん高い叫び声）
 【和訳】

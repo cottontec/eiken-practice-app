@@ -1,6 +1,7 @@
 ---
 choices: there was conflict over resources | climate change caused food shortages | the islanders knew they were coming | the moai attracted dangerous outsiders
 answerText: there was conflict over resources
+reviewed: yes
 ---
 【正解】1 there was conflict over resources（資源をめぐる争いがあった）
 【和訳】
@@ -21,7 +22,7 @@ competition for the remaining food supply turned violent（残された食料を
 【ほかの選択肢】
 2 「気候の変化」は本文に出てきません。第2段落では、食料が足りなくなった原因は、木を切りつくしたことと、農業の技術や豊かな土がなかったことだとされています。
 3 第1段落で、文化はヨーロッパ人が来たときまでにほぼ消えていたとあり、第2段落の説明も島の中での食料の奪い合いの話です。島民がだれかの到着を知っていたという話は本文にありません。
-4 第2段落で争ったのは島の住民どうしで、モアイがよそ者を引き寄せたという話は本文にありません。第3段落の最後でも、この説は「住民に責任があった」という考えだとまとめられています。
+4 第2段落で説明されているのは、島の中の木や食料をめぐる争いです。モアイがよそ者を引き寄せたという話は本文にありません。
 【覚えるポイント】
 ・conflict over ～：「～をめぐる争い」。resources：「資源（生きるために使う物）」。
 ・空所の直後の段落が According to this theory（この説によれば）で始まるときは、その段落の内容をまとめた言い方が空所に入る手がかりになります。

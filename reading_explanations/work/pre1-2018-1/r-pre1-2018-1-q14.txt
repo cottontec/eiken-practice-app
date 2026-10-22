@@ -1,6 +1,7 @@
 ---
 choices: overdue | blurry | consecutive | plural
 answerText: overdue
+reviewed: yes
 ---
 【正解】1 overdue（遅すぎる、予定や期限より遅れた）
 【和訳】

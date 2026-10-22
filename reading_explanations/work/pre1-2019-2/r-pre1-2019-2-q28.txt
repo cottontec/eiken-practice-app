@@ -1,0 +1,29 @@
+---
+choices: criticize other brands | identify loyal customers | put blame on the government | avoid regulation
+answerText: avoid regulation
+---
+【正解】4 avoid regulation（規制を避ける）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 criticize other brands（ほかのブランド〔銘柄〕を批判する）
+2 identify loyal customers（いつも買ってくれるお客を見つけ出す）
+3 put blame on the government（政府に責任を負わせる）
+4 avoid regulation（規制を避ける）
+【考え方】
+まず見るところ：第3段落の Whenever there are proposals to increase alcohol taxes or place limitations on where alcohol can be sold or advertised, ～
+空所のある文は、次のとおりです。
+Some people also complain that alcohol producers use the ads as a way to (28).（また、酒類メーカーが、広告を（28）ための手段として使っていると不満を言う人もいる）
+空所には、酒類メーカーが広告を使って何をしようとしているのかが入ります。次の文がその説明です。
+Whenever there are proposals to increase alcohol taxes or place limitations on where alcohol can be sold or advertised, alcohol manufacturers argue that such measures are not necessary because they already provide responsibility messages in their advertising.（酒にかける税金を上げたり、酒を売ったり宣伝したりできる場所に制限を設けたりする提案が出るたびに、酒類メーカーは、自分たちはすでに広告で責任ある飲酒のメッセージを出しているのだから、そのような対策は必要ないと主張するのだ）
+税金を上げることや、売る場所・宣伝する場所の制限は、国などが決める「規制（ルールで行動を制限すること）」です。メーカーは「もうメッセージを出しているから、規制はいらない」と言って、規制が決まらないようにしているのです。
+regulation は「規制」なので、avoid regulation（規制を避ける）が当てはまり、4が正解です。
+この問題の型：具体例とまとめ（増税や販売・宣伝の制限は必要ないと主張 → 規制を避ける）
+【ほかの選択肢】
+1 本文には、メーカーがほかのブランドを批判するという話はありません。メーカーが「必要ない」と言っているのは、増税や制限の提案に対してです。
+2 本文には、いつも買ってくれるお客を見つけ出すという話はありません。広告のメッセージは、提案された対策に反対するための理由として使われています。
+3 メーカーは増税や制限の提案に反対していますが、本文には、政府に責任を負わせる（政府のせいにする）という話はありません。メーカーの主張は「すでにメッセージを出しているので対策は必要ない」というものです。
+【覚えるポイント】
+・regulation：「規制（ルールで行動を制限すること）」。本文の place limitations on ～（～に制限を設ける）が、具体的な規制の例です。
+・use ～ as a way to (　)（～を…するための手段として使う）の空所は、次の文に書かれた具体的な行動（ここでは対策は必要ないと主張する）が何のためかを考えると、答えの手がかりになります。

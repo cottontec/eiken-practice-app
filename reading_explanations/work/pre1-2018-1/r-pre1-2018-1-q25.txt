@@ -1,6 +1,7 @@
 ---
 choices: count for | go back on | sell out | do away with
 answerText: count for
+reviewed: yes
 ---
 【正解】1 count for（〈not count for anything で〉何の価値もない、何の役にも立たない）
 【和訳】

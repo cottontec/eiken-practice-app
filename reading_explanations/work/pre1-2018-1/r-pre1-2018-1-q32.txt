@@ -1,6 +1,7 @@
 ---
 choices: Although officials claimed it would reduce air pollution, it had little effect when tested in other neighborhoods. | It only covered a limited area, so critics pointed out it would fail to reduce traffic in Manhattan as a whole. | Although it was generally popular, there were concerns it would have a negative economic effect on the area. | The mayor stopped promoting it because citizens complained it would force them to shop at inconvenient times.
 answerText: Although it was generally popular, there were concerns it would have a negative economic effect on the area.
+reviewed: yes
 ---
 【正解】3 Although it was generally popular, there were concerns it would have a negative economic effect on the area.（その計画はおおむね人気があったが、その地域の経済に悪い影響を与えるのではないかという懸念があった。）
 【和訳】

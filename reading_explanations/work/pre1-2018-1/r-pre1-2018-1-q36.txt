@@ -1,6 +1,7 @@
 ---
 choices: the analysis of most data collected in flight requires experts from various fields and specialized equipment. | its facilities enable the analysis of a much wider variety of aircraft than the facilities of other aircraft graveyards do. | the device placed on an airplane to collect information during a flight may be unreliable or missing. | constructing aircraft models that can be studied by pilots and aviation officials requires a huge warehouse space.
 answerText: the device placed on an airplane to collect information during a flight may be unreliable or missing.
+reviewed: yes
 ---
 【正解】3 the device placed on an airplane to collect information during a flight may be unreliable or missing.（飛行中の情報を集めるために飛行機に取りつけられている装置が、頼りにならなかったり、見つからなかったりすることがあるから。）
 【和訳】
@@ -15,7 +16,7 @@ answerText: the device placed on an airplane to collect information during a fli
 【考え方】
 まず見るところ：第2段落の these devices are sometimes too severely damaged to be useful or are not even recoverable, so the USC facility is an invaluable resource
 第2段落では、USC（南カリフォルニア大学）の飛行機の墓場が説明されています。その施設が大切な理由は、次の文に書かれています。
-Many planes are equipped with a flight data recorder intended to help investigators determine the cause of a crash, but these devices are sometimes too severely damaged to be useful or are not even recoverable, so the USC facility is an invaluable resource.（多くの飛行機には、調査員が墜落の原因を突き止めるのに役立つようフライトデータレコーダーが備えつけられているが、こうした装置はひどく壊れすぎて役に立たなかったり、回収することさえできなかったりすることがあるので、USCの施設は非常に貴重な資料の場となっている）
+Many planes are equipped with a flight data recorder intended to help investigators determine the cause of a crash, but these devices are sometimes too severely damaged to be useful or are not even recoverable, so the USC facility is an invaluable resource.（多くの飛行機には、調査員が墜落の原因を突き止めるのに役立つようフライトデータレコーダーが備えつけられているが、こうした装置はひどく壊れすぎて役に立たなかったり、回収することさえできなかったりすることがあるので、USCの施設は非常に貴重な資源となっている）
 too ～ to ... は「～すぎて…できない」、recoverable は「回収できる」、invaluable は「（値段がつけられないほど）非常に貴重な」です。so（だから）の前が、施設が貴重である理由です。
 本文と選択肢3を対にすると、次のようになります。
 ・本文 a flight data recorder（フライトデータレコーダー）→ 選択肢 the device placed on an airplane to collect information during a flight（飛行中の情報を集めるために飛行機に取りつけられた装置）

@@ -1,6 +1,7 @@
 ---
 choices: inefficient | gaudy | cowardly | cumulative
 answerText: inefficient
+reviewed: yes
 ---
 【正解】1 inefficient（能率が悪い、むだが多い）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: abruptly | humorously | exceptionally | sarcastically
 answerText: exceptionally
+reviewed: yes
 ---
 【正解】3 exceptionally（並外れて、特別に）
 【和訳】

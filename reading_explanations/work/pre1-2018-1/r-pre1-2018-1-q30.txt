@@ -1,6 +1,7 @@
 ---
 choices: Instead | On the other hand | Consequently | Even so
 answerText: Consequently
+reviewed: yes
 ---
 【正解】3 Consequently（その結果）
 【和訳】

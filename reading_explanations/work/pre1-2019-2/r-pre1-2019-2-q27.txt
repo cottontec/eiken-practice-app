@@ -1,0 +1,30 @@
+---
+choices: only effective for a short time | directed at the wrong people | too vague to be practical | often quite frightening
+answerText: too vague to be practical
+---
+【正解】3 too vague to be practical（あいまいすぎて実際の役に立たない）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 only effective for a short time（短い間しか効果がない）
+2 directed at the wrong people（間違った人々に向けられている）
+3 too vague to be practical（あいまいすぎて実際の役に立たない）
+4 often quite frightening（しばしばかなり恐ろしい）
+【考え方】
+まず見るところ：第2段落の None, however, defined what this meant or provided health warnings supported by scientific evidence.
+空所のある文は、次のとおりです。
+Another criticism is that the messages are (27).（もう一つの批判は、そのメッセージが（27）というものだ）
+空所には、メッセージへの批判の内容が入ります。そのあとに、研究者の調査が具体的に書かれています。
+Researchers at the Johns Hopkins Bloomberg School of Public Health, in the United States, analyzed dozens of alcohol advertisements from major magazines and found that 87 percent of the ads contained advice to drink responsibly.（アメリカのジョンズ・ホプキンス大学ブルームバーグ公衆衛生大学院の研究者たちは、主要な雑誌に載った数十の酒類の広告を分析し、その87パーセントに、責任を持って飲むようにという助言が入っていることを見出した）
+None, however, defined what this meant or provided health warnings supported by scientific evidence.（しかし、それが何を意味するのかを説明したり、科学的な証拠に裏づけられた健康上の警告を示したりしている広告は、一つもなかった）
+define は「（意味を）はっきり説明する、定義する」です。「責任を持って飲もう」と書いてあっても、どう飲めば「責任を持って」なのかが説明されていなかったのです。これでは、読んだ人は実際に何をすればよいのか分かりません。
+vague は「あいまいな、ぼんやりした」、practical は「実際の役に立つ」です。too ～ to … は「～すぎて…できない」という意味なので、too vague to be practical で「あいまいすぎて実際の役に立たない」となります。ですから3が正解です。
+この問題の型：具体例とまとめ（意味の説明も健康上の警告もない → あいまいすぎる）
+【ほかの選択肢】
+1 本文には、メッセージの効果が続く時間についての話はありません。第3段落の最後で、メッセージに効果があると示した研究はないと書かれていますが、「短い間しか効果がない」という内容ではありません。
+2 本文には、メッセージがどんな人に向けられているかについての話はありません。研究者が問題にしているのは、メッセージの中身が説明されていないことです。
+4 本文には、メッセージが恐ろしいという話はありません。研究では、科学的な証拠に裏づけられた健康上の警告を示した広告は一つもなかったと書かれていて、人をこわがらせるような内容があったとは書かれていません。
+【覚えるポイント】
+・too vague to be practical：「あいまいすぎて実際の役に立たない」。too ～ to … は「～すぎて…できない」。
+・Another criticism is that ～（もう一つの批判は～だ）の空所は、そのあとの調査結果（ここでは None ～ defined what this meant）をまとめて言いかえた選択肢を選ぶ手がかりになります。

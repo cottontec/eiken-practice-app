@@ -1,6 +1,7 @@
 ---
 choices: In other words | In exchange | Despite this | For instance
 answerText: In exchange
+reviewed: yes
 ---
 【正解】2 In exchange（その見返りとして、引きかえに）
 【和訳】
