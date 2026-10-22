@@ -1,0 +1,34 @@
+---
+choices: They are often located on land that is unable to be used in industrial agriculture. | They do not meet the practical needs of farmers as well as they did over a century ago. | The livestock they were built to house are now raised mainly on small, family-operated farms. | The need for a large number of farms decreased when the government began importing more crops.
+answerText: They do not meet the practical needs of farmers as well as they did over a century ago.
+---
+【正解】2 They do not meet the practical needs of farmers as well as they did over a century ago.（納屋は、100年以上前ほどには、農家の実際の必要を満たしていない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one reason for the decline in the number of barns in the United States?（アメリカで納屋の数が減っていることの理由の一つは何か。）
+1 They are often located on land that is unable to be used in industrial agriculture.（納屋は、工業化された農業には使えない土地にあることが多い。）
+2 They do not meet the practical needs of farmers as well as they did over a century ago.（納屋は、100年以上前ほどには、農家の実際の必要を満たしていない。）
+3 The livestock they were built to house are now raised mainly on small, family-operated farms.（納屋がもともと入れておくために建てられた家畜は、今では主に、家族で営む小さな農場で育てられている。）
+4 The need for a large number of farms decreased when the government began importing more crops.（政府がより多くの作物を輸入し始めたとき、多くの農場の必要性が減った。）
+【考え方】
+まず見るところ：第1段落の The family farms that remain have replaced working animals ～ と Livestock such as dairy cows and pigs are now kept ～
+第1段落の初めで、昔の納屋の役割が説明されています。
+In years past, every farm had at least one wooden barn to house animals and store equipment and feed.（昔は、どの農場にも、動物を入れておいたり、道具やえさをしまっておいたりするための木造の納屋が、少なくとも一つはあった）
+house はここでは動詞で「（動物などを）入れておく、収容する」という意味です。
+そのあと、農業の変化によって納屋がどうなったかが書かれています。
+The family farms that remain have replaced working animals such as horses, which were once kept in barns, with machinery that can be stored in metal sheds.（残っている家族経営の農場は、かつて納屋で飼われていた馬のような働く動物を、金属製の小屋にしまっておける機械に置きかえた）
+Livestock such as dairy cows and pigs are now kept in long, low buildings that can house far more animals.（乳牛や豚などの家畜は、今では、ずっと多くの動物を入れることのできる、細長く低い建物で飼われている）
+replace A with B は「AをBに置きかえる」という意味です。つまり、かつて納屋に入れていた馬は機械に代わり、その機械は金属の小屋にしまわれます。家畜も、今は別の細長く低い建物で飼われています。
+本文と選択肢を対にすると、次のようになります。
+本文 働く動物は機械に置きかえられ、機械は metal sheds（金属製の小屋）に、家畜は long, low buildings（細長く低い建物）に入れられている → 読み取れること：納屋は、昔ほど農家の実際の役に立たなくなった（選択肢 They do not meet the practical needs of farmers as well as they did over a century ago.）
+本文の over the last century（この100年の間に）の変化が、選択肢の over a century ago（100年以上前）と比べた形で表されています。ですから2が正解です。
+この問題の型：推論（農業の変化→納屋が使われなくなった理由）
+【ほかの選択肢】
+1 本文に書かれていません。納屋のある土地が工業化された農業に使えないという話はありません。本文にあるのは、小さな農場が納屋を取り壊して土地を売ったということです。
+3 本文と反対です。家族で営む小さな農場の多くは納屋を取り壊して土地を売り、家畜は今では細長く低い建物で飼われている、と書かれています。家畜が主に小さな農場で育てられているとは述べられていません。
+4 本文に書かれていません。農場の数が減ったのは農業が工業化して農場が大きくなったためで、政府が作物を輸入し始めたという話は出てきません。
+【覚えるポイント】
+・replace A with B：「AをBに置きかえる」。何が何に代わったのかを正確につかむことが大切です。
+・「理由」をたずねる設問では、本文の「昔はこうだった→今はこう変わった」という説明から、その変化が何を意味するかを考えるのが手がかりになります。

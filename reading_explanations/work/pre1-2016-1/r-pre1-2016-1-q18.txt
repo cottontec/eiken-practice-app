@@ -1,0 +1,29 @@
+---
+choices: hasty | striking | tragic | towering
+answerText: hasty
+---
+【正解】1 hasty（急いだ、あわただしい）
+【和訳】
+（英文）
+In order to meet the deadline, the office workers took a ［hasty］ lunch at their desks and then continued with their work.
+（訳）
+締め切りに間に合わせるために、会社員たちは自分の机で（急いで）昼食をとり、それから仕事を続けた。
+（選択肢の意味）
+1 hasty：急いだ、あわただしい
+2 striking：目立つ、印象的な
+3 tragic：悲劇的な、いたましい
+4 towering：そびえ立つ、とても高い
+【考え方】
+まず見るところ：文の初めの In order to meet the deadline
+文の初めに、会社員たちがそうした目的が書かれています。
+In order to meet the deadline（締め切りに間に合わせるために）
+in order to ～ は「～するために」、meet the deadline は「締め切りに間に合わせる」です。
+文の後半には、at their desks（自分の机で）昼食をとり、and then continued with their work（それから仕事を続けた）とあります。締め切りに間に合わせるため、昼食の時間を短くして、すぐ仕事に戻ったという様子です。hasty は「急いだ、あわただしい」という意味で、take a hasty lunch で「急いで昼食をとる」となります。ですから1が正解です。
+この問題の型：因果（締め切りに間に合わせるため → 急いで昼食）
+【ほかの選択肢】
+2 striking は「目立つ、印象的な」です。「目立つ昼食をとった」では、締め切りに間に合わせるという目的とつながりません。
+3 tragic は「悲劇的な」です。「悲劇的な昼食」となり、机で食べてすぐ仕事に戻る場面に合いません。
+4 towering は「そびえ立つ」で、建物や山などに使う語です。昼食の様子を表せません。
+【覚えるポイント】
+・take a hasty lunch：「急いで昼食をとる」。
+・In order to meet the deadline（締め切りに間に合わせるために）のような目的の表現は、その目的に合った様子（ここでは「急いで」）を選ぶ手がかりになります。

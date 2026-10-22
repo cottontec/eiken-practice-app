@@ -1,0 +1,34 @@
+---
+choices: the barns will be used for a different purpose than the one they were originally intended for. | the process makes use of too many natural resources and so does more harm than good. | the repairs often made to barns actually result in their structure becoming weaker. | the level of craftsmanship with which the barns were built is difficult to match these days.
+answerText: the barns will be used for a different purpose than the one they were originally intended for.
+---
+【正解】1 the barns will be used for a different purpose than the one they were originally intended for.（納屋が、もともと意図されていたものとはちがう目的に使われることになる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：One criticism of converting barns into living spaces is that（納屋を住まいに改造することへの批判の一つは、～ということだ。）
+1 the barns will be used for a different purpose than the one they were originally intended for.（納屋が、もともと意図されていたものとはちがう目的に使われることになる。）
+2 the process makes use of too many natural resources and so does more harm than good.（その作業は天然資源を使いすぎるので、よいことより害のほうが大きい。）
+3 the repairs often made to barns actually result in their structure becoming weaker.（納屋によく行われる修理は、実際にはその構造を弱くする結果になる。）
+4 the level of craftsmanship with which the barns were built is difficult to match these days.（納屋が建てられたときの職人の技術の高さに、今日では追いつくのが難しい。）
+【考え方】
+まず見るところ：第3段落の最後の文 Furthermore, although barn-to-home conversions do preserve the buildings, purists argue ～
+第3段落は、納屋を住まいに改造する人たちの話です。
+Some people have been renovating barns for residential living rather than maintaining them as historic structures.（納屋を、歴史的な建造物として維持するのではなく、住まいとして使うために改装している人たちもいる）
+renovate は「改装する」、residential は「住まいの」という意味です。
+批判の内容は、段落の最後の文に書かれています。
+Furthermore, although barn-to-home conversions do preserve the buildings, purists argue they do little to conserve their historical character or the agricultural tradition they represent.（さらに、納屋から住宅への改造は、確かに建物を保存はするが、その歴史的な特色や、納屋が表している農業の伝統を守ることにはほとんど役立たない、と純粋主義者たちは主張している）
+purist は「純粋主義者（本来の形や伝統をそのまま守ることにこだわる人）」、do little to ～ は「～にはほとんど役立たない」という意味です。
+納屋はもともと、動物を入れたり道具やえさをしまったりするための、農業の建物でした（第1段落）。それを住宅にすると、建物は残っても、農業の建物としての役割や伝統は失われる、というのが純粋主義者たちの批判です。
+本文と選択肢を対にすると、次のようになります。
+本文 conversions ... do little to conserve their historical character or the agricultural tradition they represent（改造は、歴史的な特色や農業の伝統を守ることにほとんど役立たない）→ 読み取れること：選択肢 the barns will be used for a different purpose than the one they were originally intended for（納屋が、もともと意図されていたものとはちがう目的に使われることになる）
+農業のための建物が住まいという別の目的に使われることが、伝統を守れないという批判の中身なので、1が正解です。
+この問題の型：推論（農業の伝統を守れない→本来とはちがう目的に使われる）
+【ほかの選択肢】
+2 本文に書かれていません。改造に費用がかかることは述べられていますが、天然資源を使いすぎるという話はありません。
+3 本文に書かれていません。本文には、古い納屋は significant structural work（大がかりな構造の工事）が必要だとありますが、修理によって構造が弱くなるとは述べられていません。
+4 本文に書かれていません。納屋を建てた職人の技術について触れた部分はありません。
+【覚えるポイント】
+・do little to ～：「～にはほとんど役立たない」。little は「ほとんど～ない」という否定に近い意味になります。
+・although A, B（Aではあるが、B）の文では、筆者や人物が言いたいことは B のほうにあることが多いです。批判の中身を探すときは B の部分を読むのが手がかりになります。

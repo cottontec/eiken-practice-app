@@ -1,0 +1,31 @@
+---
+choices: State officials cannot provide funding to help organizations record the number of barns in each state. | Critics believe such efforts should not be a main target of federal financial aid. | Organizations are largely dependent on volunteers to raise funds for barn preservation. | Such efforts are slowed by higher taxes on farms in states that do not rely on agriculture.
+answerText: Critics believe such efforts should not be a main target of federal financial aid.
+---
+【正解】2 Critics believe such efforts should not be a main target of federal financial aid.（批判する人たちは、そうした取り組みを連邦政府の資金援助の主な対象にすべきではないと考えている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is true of recent efforts to preserve U.S. barns?（アメリカの納屋を保存しようとする最近の取り組みについて、正しいものはどれか。）
+1 State officials cannot provide funding to help organizations record the number of barns in each state.（州の当局者たちは、各州の納屋の数を記録する団体を助けるための資金を出すことができない。）
+2 Critics believe such efforts should not be a main target of federal financial aid.（批判する人たちは、そうした取り組みを連邦政府の資金援助の主な対象にすべきではないと考えている。）
+3 Organizations are largely dependent on volunteers to raise funds for barn preservation.（団体は、納屋の保存のための資金集めを、主にボランティアに頼っている。）
+4 Such efforts are slowed by higher taxes on farms in states that do not rely on agriculture.（そうした取り組みは、農業に頼っていない州での、農場へのより高い税金によって、進みが遅くなっている。）
+【考え方】
+まず見るところ：第2段落の最後の文 Federal officials have also agreed to provide grants for barn preservation, but ～
+第2段落の最後の文は次のとおりです。
+Federal officials have also agreed to provide grants for barn preservation, but funding has been slow to materialize, with critics saying such funds should rather be used to assist farmers facing low crop yields.（連邦政府の当局者たちも、納屋の保存のために補助金を出すことに同意しているが、資金はなかなか実際には出てきていない。批判する人たちは、そうした資金はむしろ、作物の収穫量が少なくて困っている農家を助けるために使われるべきだと言っている）
+federal は「連邦政府の（州ではなく、アメリカ全体の政府の）」、grant は「補助金（活動を助けるために出すお金）」、materialize は「実現する、形になって現れる」という意味です。
+批判する人たちは、連邦政府のお金を納屋の保存に使うより、むしろ困っている農家を助けるために使うべきだと言っています。つまり「納屋の保存は、連邦政府の資金援助の主な使いみちにすべきではない」と考えているということです。
+本文と選択肢を対にすると、次のようになります。
+本文 critics saying such funds should rather be used to assist farmers facing low crop yields（批判する人たちは、そうした資金はむしろ困っている農家を助けるために使われるべきだと言っている）→ 言いかえると：選択肢 Critics believe such efforts should not be a main target of federal financial aid.（批判する人たちは、そうした取り組みを連邦政府の資金援助の主な対象にすべきではないと考えている）
+本文の rather（むしろ）が、選択肢の should not be a main target（主な対象にすべきではない）に当たります。ですから2が正解です。
+この問題の型：言いかえ（資金はむしろ農家に→保存の取り組みを主な対象にすべきではない）
+【ほかの選択肢】
+1 本文と合いません。本文には A few states offer financial incentives in the form of tax breaks and small state grants（いくつかの州は、税の軽減や州からの少額の補助金という形で奨励策を設けている）とあり、州が資金を出せないとは書かれていません。また、納屋の数を記録するための資金の話も出てきません。
+3 本文に書かれていません。団体がボランティアに頼って資金を集めているという話はありません。本文にあるのは、団体が人々の意識を高めようとしていることや、州や連邦政府の補助金のことです。
+4 本文と合いません。本文で税について出てくるのは tax breaks（税の軽減）で、税が高くなる話ではありません。農業に頼っていない州についても書かれていません。
+【覚えるポイント】
+・A should rather be used to ～：「Aはむしろ～に使われるべきだ」。rather は「（ほかのことより）むしろ」と、優先する順番を表します。
+・with critics saying ～ のように、文の後ろに批判する人の意見が付け加えられていることがあります。設問が「正しいもの」をたずねるときは、こうした付け加えの部分も根拠になることが多いです。

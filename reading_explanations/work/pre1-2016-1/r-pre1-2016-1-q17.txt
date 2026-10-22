@@ -1,0 +1,29 @@
+---
+choices: depicted | disguised | nourished | raided
+answerText: raided
+---
+【正解】4 raided（〔警察が〕強制捜査に入った、急に踏み込んだ）
+【和訳】
+（英文）
+The police ［raided］ the suspected criminal's house in the early hours of the morning. They found large amounts of illegal drugs and weapons.
+（訳）
+警察は、早朝、犯罪の疑いのある人物の家に（強制捜査に入った）。警察は、大量の違法な薬物と武器を見つけた。
+（選択肢の意味）
+1 depicted：描いた、描写した（depict の過去形）
+2 disguised：変装させた；隠した（disguise の過去形）
+3 nourished：栄養を与えた、育てた（nourish の過去形）
+4 raided：（警察が）強制捜査に入った、急に踏み込んだ（raid の過去形）
+【考え方】
+まず見るところ：2文目の They found large amounts of illegal drugs and weapons.
+1文目では、The police (　) the suspected criminal's house（警察は、犯罪の疑いのある人物の家を（　）した）とあります。suspected criminal は「犯罪の疑いのある人、容疑者」です。
+2文目で、その結果が分かります。
+They found large amounts of illegal drugs and weapons.（警察は、大量の違法な薬物と武器を見つけた）
+illegal は「違法な（法律に反する）」です。警察が容疑者の家に入って、中を調べたから見つかったのだと考えられます。raid は「（警察が）不意に踏み込む、強制捜査に入る」という意味です。早朝に容疑者の家に踏み込み、違法な物を見つけたという流れになるので、4が正解です。
+この問題の型：語の意味・組み合わせ（The police raided the house）
+【ほかの選択肢】
+1 depicted は「描いた」です。「警察が容疑者の家を描いた」では、家の中から違法な物を見つけたことにつながりません。
+2 disguised は「変装させた、隠した」です。「警察が容疑者の家を隠した」となり、意味が通りません。
+3 nourished は「栄養を与えた、育てた」です。「警察が容疑者の家に栄養を与えた」となり、意味が通りません。
+【覚えるポイント】
+・raid：「（警察が）強制捜査に入る、急に踏み込む」。
+・主語が The police（警察）で、あとの文に「見つけた」ものが書かれているときは、警察が調べに入る動作を表す語を選ぶ手がかりになります。

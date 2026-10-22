@@ -1,0 +1,29 @@
+---
+choices: disconnect | irrigate | bypass | counter
+answerText: irrigate
+---
+【正解】2 irrigate（〔土地や作物に〕水を引く、かんがいする）
+【和訳】
+（英文）
+Owing to the recent water shortage, the local government has limited the amount of water that farmers can take from the Eastland River to ［irrigate］ their crops.
+（訳）
+最近の水不足のため、地元の自治体は、農家が作物に（水をやる）ためにイーストランド川から取ることのできる水の量を制限している。
+（選択肢の意味）
+1 disconnect：切り離す、（電気などを）止める
+2 irrigate：（土地や作物に）水を引く、かんがいする
+3 bypass：避けて通る、迂回する
+4 counter：反対する、対抗する
+【考え方】
+まず見るところ：空所の前の farmers can take from the Eastland River と、あとの their crops
+文の初めの Owing to the recent water shortage は「最近の水不足のため」という意味です。owing to ～ は「～のために」と理由を表します。
+空所のまわりは、次のようになっています。
+the amount of water that farmers can take from the Eastland River to (　) their crops（農家が作物を（　）するためにイーストランド川から取ることのできる水の量）
+農家が川から水を取るのは、作物を育てるためだと考えられます。irrigate は「（土地や作物に）水を引く、かんがいする（田畑に水を引いて流すこと）」という意味です。irrigate their crops で「作物に水をやる」となり、文の意味が通ります。ですから2が正解です。
+この問題の型：語の意味・組み合わせ（川の水で作物を irrigate する）
+【ほかの選択肢】
+1 disconnect は「切り離す」です。「作物を切り離すために川から水を取る」となり、水を使う目的として意味が通りません。
+3 bypass は「避けて通る」です。「作物を避けて通るために川から水を取る」では、意味が通りません。
+4 counter は「反対する、対抗する」です。「作物に反対するために水を取る」となり、農家が水を使う理由になりません。
+【覚えるポイント】
+・irrigate crops：「作物に水をやる、田畑に水を引く」。
+・to (　) のあとの目的語（ここでは their crops）と、何を使うのか（ここでは川の水）を組み合わせて考えると、目的を表す動詞を選びやすくなります。

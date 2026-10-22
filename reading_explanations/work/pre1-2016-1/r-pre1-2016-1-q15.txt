@@ -1,0 +1,30 @@
+---
+choices: invalid | offensive | unstable | enclosed
+answerText: invalid
+---
+【正解】1 invalid（無効な）
+【和訳】
+（英文）
+Albert was shocked to find he had been driving with an ［invalid］ license. He then remembered he had gotten a reminder notice but had forgotten to get his license renewed.
+（訳）
+アルバートは、自分が（無効な）免許証で運転していたと知って、ショックを受けた。そのとき彼は、更新を知らせる通知を受け取っていたのに、免許証を更新してもらうのを忘れていたことを思い出した。
+（選択肢の意味）
+1 invalid：無効な、効力のない
+2 offensive：不快な、失礼な
+3 unstable：不安定な
+4 enclosed：同封された；囲まれた
+【考え方】
+まず見るところ：2文目の had forgotten to get his license renewed
+1文目では、アルバートが an (　) license（（　）な免許証）で運転していたと知ってショックを受けた、と書かれています。
+2文目で、その理由が分かります。
+He then remembered he had gotten a reminder notice but had forgotten to get his license renewed.（そのとき彼は、更新を知らせる通知を受け取っていたのに、免許証を更新してもらうのを忘れていたことを思い出した）
+reminder notice は「（忘れないように）知らせる通知」、renew は「更新する（期限を延ばして新しくする）」です。
+免許証を更新し忘れたので、期限が切れて使えなくなっていたということです。invalid は「無効な（効き目や力がない）」という意味なので、1が正解です。
+この問題の型：因果（更新を忘れた → 免許証が無効になった）
+【ほかの選択肢】
+2 offensive は「不快な、失礼な」です。「失礼な免許証で運転していた」では意味が通らず、更新を忘れた話ともつながりません。
+3 unstable は「不安定な」です。免許証が不安定ということはなく、2文目の理由と合いません。
+4 enclosed は「同封された」です。手紙に入れられたものに使う語で、「更新を忘れていた」ことからショックを受けた理由になりません。
+【覚えるポイント】
+・invalid：「無効な」。valid（有効な）に in- がついて反対の意味になった語です。
+・ショックを受けた理由があとの文に書かれているときは、その理由（ここでは更新を忘れたこと）から起きる状態を表す語を選ぶ手がかりになります。
