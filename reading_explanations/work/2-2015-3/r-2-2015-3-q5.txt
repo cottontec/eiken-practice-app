@@ -1,0 +1,19 @@
+---
+choices: cruelly | eventually | unfortunately | increasingly
+answerText: eventually
+---
+【正解】2 eventually（最後には、ついに）
+【和訳】
+リディアは長い時間をかけて、その博物館を探しました。彼女は3人の違う人に道をたずねたあと、ついにそれを見つけました。
+（選択肢の意味）1 残酷に　2 最後には、ついに　3 不運にも、残念ながら　4 ますます
+【考え方】
+1文目に Lydia spent a long time searching for the museum.（リディアは長い時間をかけて博物館を探した）とあります。
+2文目は She (　) found it after asking three different people for directions.（3人の違う人に道をたずねたあとで、彼女は（　）それを見つけた）です。directions は「道順」、ask ～ for directions で「～に道をたずねる」です。
+長い間探し、何人もの人にたずねたあとで、やっと見つかったという流れです。eventually は「（いろいろあったあとで）最後には、ついに」という意味なので、eventually found it で「ついにそれを見つけた」となります。正解は2です。
+【ほかの選択肢】
+1 cruelly は「残酷に、ひどく」です。「残酷にそれを見つけた」となり、意味が通りません。
+3 unfortunately は「不運にも、残念ながら」です。探していた博物館が見つかったのはよいことなので、「残念ながら見つけた」では話の流れに合いません。
+4 increasingly は「ますます」です。何かがだんだん強まっていくようすを表す語で、「見つける」という一度きりの出来事には合いません。
+【覚えるポイント】
+・eventually：「（時間がかかったり、いろいろあったりしたあとで）最後には、ついに」。
+・ask ～ for directions：「～に道をたずねる」。
