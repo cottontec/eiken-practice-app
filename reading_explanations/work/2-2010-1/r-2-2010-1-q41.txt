@@ -1,6 +1,7 @@
 ---
 choices: A submarine that had sunk after crashing into a whale. | A new species of whale that lives deep in the ocean. | A whale's body that was being eaten by sea creatures. | A part of the ocean where many whales live together.
 answerText: A whale's body that was being eaten by sea creatures.
+reviewed: yes
 ---
 【正解】3 A whale's body that was being eaten by sea creatures.（海の生き物に食べられているクジラの死がい。）
 【和訳】

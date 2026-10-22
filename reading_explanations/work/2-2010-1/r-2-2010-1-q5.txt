@@ -1,6 +1,7 @@
 ---
 choices: costly | vacant | unique | harmful
 answerText: unique
+reviewed: yes
 ---
 【正解】3 unique（ほかにない、独特の）
 【和訳】

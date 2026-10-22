@@ -1,0 +1,29 @@
+---
+choices: works for a company that makes wheelchairs. | is trying to raise money to help disabled people. | wants Mr. Simmons to organize an event at her college. | will help provide costumes for the Arnfield Community Center.
+answerText: is trying to raise money to help disabled people.
+---
+【正解】2 is trying to raise money to help disabled people.（体の不自由な人々を助けるために、お金を集めようとしている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ジャッキー・ゴールディングは（　）。
+1 車いすを作っている会社で働いている
+2 体の不自由な人々を助けるために、お金を集めようとしている
+3 シモンズさんに、自分の大学でイベントを運営してほしいと思っている
+4 アーンフィールド地域センターに衣装を提供する手伝いをする予定だ
+【考え方】
+ジャッキーさんが自分のことを書いているのは、メールの第1段落です。
+I am a student at Peterson College, and I am writing to ask for your company's support for a charity event that I am helping to organize.（私はピーターソン大学の学生で、私が運営を手伝っている慈善イベントについて、御社の支援をお願いするために書いている）とあります。charity event は「慈善イベント（困っている人を助けるためのもよおし）」です。
+さらに It is being held to raise money for Arnfield Action, which is a charity that provides wheelchairs and other equipment for disabled people.（このイベントは、体の不自由な人々に車いすやその他の器具を提供する慈善団体、アーンフィールド・アクションのための資金を集めるために開かれる）と続きます。raise money は「お金を集める」、disabled people は「体の不自由な人々」です。
+つまりジャッキーさんは、体の不自由な人々を支える団体のためにお金を集めるイベントを、運営する側として手伝っています。本文と選択肢は次のように対応しています。
+本文 a charity event that I am helping to organize ／ to raise money for Arnfield Action（運営を手伝っているイベント／アーンフィールド・アクションのための資金を集める）＝ 選択肢 is trying to raise money（お金を集めようとしている）
+本文 a charity that provides wheelchairs and other equipment for disabled people（体の不自由な人々に車いすなどを提供する団体）＝ 選択肢 to help disabled people（体の不自由な人々を助けるために）
+正解は2です。
+【ほかの選択肢】
+1 ジャッキーさんは I am a student at Peterson College（ピーターソン大学の学生だ）と書いています。また、車いすを提供しているのはアーンフィールド・アクションという慈善団体で、車いすを作る会社ではありません。人物も団体の種類も違うので、誤りです。
+3 イベントを運営しているのはジャッキーさんたちのほうで、会場もアーンフィールド地域センターです。ジャッキーさんがシモンズさんに頼んでいるのは、賞品になる品の寄付です。シモンズさんにイベントの運営を頼んではいないので、誤りです。
+4 イベントは costume party（仮装パーティー）ですが、ジャッキーさんが衣装を用意するという話は本文にありません。衣装は、賞品の対象になる「参加者が着るもの」として出てくるだけなので、誤りです。
+【覚えるポイント】
+・raise money：「お金を集める、資金を集める」。
+・disabled people：「体の不自由な人々、障がいのある人々」。

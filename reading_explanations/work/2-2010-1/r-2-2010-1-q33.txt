@@ -1,6 +1,7 @@
 ---
 choices: trust | combine | ignore | preserve
 answerText: ignore
+reviewed: yes
 ---
 【正解】3 ignore（無視する）
 【和訳】

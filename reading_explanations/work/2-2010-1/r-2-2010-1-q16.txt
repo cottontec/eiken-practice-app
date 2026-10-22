@@ -1,6 +1,7 @@
 ---
 choices: stood by | switched off | graduated from | broken into
 answerText: broken into
+reviewed: yes
 ---
 【正解】4 broken into（（break into の形で）押し入った）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: reply to | cut down | pay for | work out
 answerText: cut down
+reviewed: yes
 ---
 【正解】2 cut down（減らす）
 【和訳】

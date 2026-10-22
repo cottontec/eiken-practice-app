@@ -1,0 +1,19 @@
+---
+choices: scared | negative | previous | separate
+answerText: previous
+---
+【正解】3 previous（以前の、前の）
+【和訳】
+ヘンリーは、ウエーターとして働く最初の日のことでとても緊張していました。以前にレストランで働いた経験がまったくなかったからです。
+（選択肢の意味）1 おびえた、こわがった　2 否定的な、よくない　3 以前の、前の　4 別々の、分かれた
+【考え方】
+文の前半は Henry was very nervous about his first day working as a waiter（ヘンリーはウエーターとして働く初日のことでとても緊張していた）です。nervous は「緊張して、不安で」という意味です。
+後半は because he had no (　) experience working in a restaurant（なぜなら、レストランで働いた〜経験がなかったから）で、緊張していた理由を説明しています。
+初めての仕事の日に緊張するのは、それまでに同じような仕事をしたことがないからだと考えられます。previous は「以前の」という意味で、no previous experience で「以前の経験がない」となります。「以前にレストランで働いた経験がなかったので緊張した」となり、理由として自然です。正解は3です。
+【ほかの選択肢】
+1 scared は「（人が）おびえた、こわがった」という気持ちを表す語です。「こわがった経験がなかった」という言い方は意味がはっきりせず、緊張した理由になりません。
+2 negative は「否定的な、よくない」です。no negative experience は「嫌な経験がなかった」となり、緊張する理由としては合いません。
+4 separate は「別々の」です。「別々の経験がなかった」となり、意味が通りません。
+【覚えるポイント】
+・previous：「以前の、前の」。previous experience で「以前の経験」。
+・be nervous about ～：「～のことで緊張している、不安に思っている」。

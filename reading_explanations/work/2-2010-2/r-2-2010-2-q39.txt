@@ -1,0 +1,27 @@
+---
+choices: has made it possible to help animals that previously could not be cured. | is being produced in China by a charity called the Animal Health Trust. | allowed a group of sea lions in California to be set free in the ocean. | can be used to help certain kinds of animals learn new tricks.
+answerText: has made it possible to help animals that previously could not be cured.
+---
+【正解】1 has made it possible to help animals that previously could not be cured.（以前は治すことのできなかった動物を助けることを可能にした。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：S&Vテクノロジーズの機器は
+1 以前は治すことのできなかった動物を助けることを可能にした。
+2 アニマル・ヘルス・トラストという慈善団体によって中国で製造されている。
+3 カリフォルニアのアシカの群れが海に放されることを可能にした。
+4 ある種類の動物が新しい芸を覚えるのを助けるために使うことができる。
+【考え方】
+第3段落に、この会社の機器が使われた例が2つ書かれています。
+1つ目は、アニマル・ヘルス・トラストが中国へ獣医を送り、目に問題のあるクマの群れを治療した例です。The veterinarians later said that without the new portable equipment, it would have been impossible to cure these bears.（獣医たちは後に、新しい持ち運びできる機器がなければ、これらのクマを治すことは不可能だっただろうと語った）とあります。without ～, it would have been impossible は「～がなければ不可能だっただろう」という意味です。
+つまり、この機器が登場する前なら、このクマたちは治せなかったということです。この機器のおかげで、それまで治せなかった動物を助けられるようになりました。本文と選択肢は次のように対応しています。
+本文 without the new portable equipment, it would have been impossible to cure these bears（新しい機器がなければ、このクマたちを治すことは不可能だっただろう）＝ 選択肢 has made it possible to help animals that previously could not be cured（以前は治すことのできなかった動物を助けることを可能にした）
+本文の impossible（不可能な）が、選択肢では could not be cured（治すことができなかった）と言いかえられています。正解は1です。
+【ほかの選択肢】
+2 機器を作っているのは a small German company（ドイツの小さな会社）であるS&Vテクノロジーズです。アニマル・ヘルス・トラストはイギリスの慈善団体で、中国へは獣医を送っただけです。中国で製造しているという話はありません。
+3 カリフォルニアの例は、ある水族館で a sea lion（1頭のアシカ）が手術を受けて、また芸ができるようになったという話です。アシカの群れを海に放したという話はありません。
+4 アシカは、白内障のせいで芸をするのに苦労していましたが、手術のあと was able to perform perfectly again（再び完璧に芸ができるようになった）とあります。again（再び）なので、もともとできていた芸がまたできるようになったのです。新しい芸を覚えたわけではありません。
+【覚えるポイント】
+・without ～, it would have been impossible to …：「～がなければ…することは不可能だっただろう」。
+・make it possible to ～：「～することを可能にする」。

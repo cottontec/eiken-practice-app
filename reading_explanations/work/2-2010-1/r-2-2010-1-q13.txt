@@ -1,6 +1,7 @@
 ---
 choices: for a change | out of shape | at a distance | by the way
 answerText: at a distance
+reviewed: yes
 ---
 【正解】3 at a distance（離れて見ると、遠くから見ると）
 【和訳】

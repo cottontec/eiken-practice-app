@@ -1,0 +1,24 @@
+---
+choices: accurate | temporary | varied | official
+answerText: accurate
+---
+【正解】1 accurate（正確な）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 accurate：正確な
+2 temporary：一時的な
+3 varied：さまざまな
+4 official：公式の
+【考え方】
+空所の文は The scientists hope that their research will help them develop ways of training that allow everybody to have memories as (　) as those of the waiters in Buenos Aires.（科学者たちは、自分たちの研究が、だれもがブエノスアイレスのウエーターと同じくらい（　）記憶を持てるようにする訓練の方法を開発する助けになることを期待している）です。as ～ as … は「…と同じくらい～」、those は memories（記憶）のことです。
+ブエノスアイレスのウエーターの記憶がどんなものだったかを確かめます。第2段落に remember orders and deliver each one to the right customer without checking（注文を覚え、確かめることなくそれぞれを正しい客へ運ぶ）とあります。まちがえずに覚えている、つまり「正確な」記憶です。
+また、第1段落では、ふつうの人の短期記憶は4つほどの情報しか持てず、18秒ほどで薄れると書かれていました。科学者たちは、だれもがウエーターのようにすぐれた記憶を持てるようにしたいと考えているのです。accurate は「正確な」なので、正解は1です。
+【ほかの選択肢】
+2 temporary は「一時的な」です。すぐに薄れてしまう記憶は、むしろ第1段落のふつうの人の短期記憶にあてはまります。第3段落では、ウエーターは情報を長期記憶へ素早く移すと書かれているので、ウエーターの記憶を「一時的な」と言うのは合いません。
+3 varied は「さまざまな」です。本文はウエーターが注文を正しく覚えている力の話で、記憶の種類が多いことをほめているわけではないので、合いません。
+4 official は「公式の」です。「ウエーターと同じくらい公式の記憶」となり、意味が通りません。
+【覚えるポイント】
+・accurate：「正確な」。
+・as ～ as …：「…と同じくらい～」。本文では as accurate as those of the waiters（ウエーターの記憶と同じくらい正確な）の形です。

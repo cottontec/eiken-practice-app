@@ -1,11 +1,12 @@
 ---
 choices: across | through | past | onto
 answerText: through
+reviewed: yes
 ---
 【正解】2 through（（run through で）通して練習する）
 【和訳】
 A：マーシャ、明日の夜の学校の劇の前に、劇の練習はあるの？
-B：うん、お母さん。準備ができているか確かめるために、最後にもう1回、劇を通して練習するの。
+B：うん、お母さん。準備ができているか確かめるために、最後にもう1回、劇を通して練習するよ。
 （選択肢の意味）1 across（～を横切って）　2 through（～を通して、初めから終わりまで）　3 past（～を過ぎて）　4 onto（～の上へ）
 【考え方】
 Aは drama practice（劇の練習）があるかとたずねています。Bは Yeah（うん）と答え、We're going to run (　) the play one last time（最後にもう1回、劇を～するつもりだ）と言っています。理由は to make sure we're ready（準備ができていることを確かめるために）です。

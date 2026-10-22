@@ -1,6 +1,7 @@
 ---
 choices: the store should refund the money he spent to get there. | the store must change its policy of not repairing damaged items. | he would like her to send some money to him for the sweater. | he thinks he should get a refund despite the store's policy.
 answerText: he thinks he should get a refund despite the store's policy.
+reviewed: yes
 ---
 【正解】4 he thinks he should get a refund despite the store's policy.（店の方針にもかかわらず、自分は返金を受けるべきだと思っている。）
 【和訳】

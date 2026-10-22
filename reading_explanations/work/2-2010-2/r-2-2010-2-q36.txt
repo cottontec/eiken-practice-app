@@ -1,0 +1,29 @@
+---
+choices: inform her of his decision before November 16. | spend four days deciding who should win the contest. | predict how many people will come to the awards ceremony. | keep the names of the winners a secret until November 20.
+answerText: keep the names of the winners a secret until November 20.
+---
+【正解】4 keep the names of the winners a secret until November 20.（11月20日まで入賞者の名前を秘密にしておく。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ティナ・スティーブンスはオースティン教授に
+1 11月16日より前に、自分の決定を彼女に知らせてほしいと思っている。
+2 4日間かけて、だれがコンテストで優勝すべきかを決めてほしいと思っている。
+3 授賞式に何人の人が来るかを予想してほしいと思っている。
+4 11月20日まで入賞者の名前を秘密にしておいてほしいと思っている。
+【考え方】
+設問の wants Professor Austin to ～ は「オースティン教授に～してほしいと思っている」です。ティナが教授にお願いしていることを本文で探します。
+第3段落の最後に Naturally, we ask you not to tell anyone the results before the ceremony.（当然のことですが、授賞式の前にはだれにも結果を話さないようお願いいたします）とあります。ask ＋ 人 ＋ not to ～ は「人に～しないよう頼む」です。
+では、授賞式はいつでしょうか。同じ段落に The awards ceremony will be four days later, on November 20.（授賞式はその4日後の11月20日です）とあります。
+つまり、ティナは教授に「11月20日の授賞式までは結果をだれにも言わないで」と頼んでいます。本文と選択肢は次のように対応しています。
+本文 not to tell anyone the results（だれにも結果を話さない）＝ 選択肢 keep the names of the winners a secret（入賞者の名前を秘密にしておく）
+本文 before the ceremony（授賞式の前に）＝ 選択肢 until November 20（11月20日まで）
+正解は4です。
+【ほかの選択肢】
+1 11月16日は審査が行われる日です。それより前に決定を知らせてほしいというお願いは、本文に書かれていません。
+2 four days（4日）という数字は、審査の日（11月16日）から授賞式（11月20日）までの日数です。審査は11月16日の午後7時から9時までで、むしろ you will only have a short time … to consider each painting（1枚1枚の絵を見る時間は短い）と書かれています。4日間かけて決めるという内容は本文と合いません。
+3 本文で予想されているのは、応募作品の数（about 100 entries、約100点）です。授賞式に来る人数ではありません。また、予想しているのはティナたちのほうで、教授に予想を頼んではいません。
+【覚えるポイント】
+・ask ＋ 人 ＋ not to ～：「人に～しないよう頼む」。
+・keep ～ a secret：「～を秘密にしておく」。

@@ -1,0 +1,25 @@
+---
+choices: clothes | dates | seats | dishes
+answerText: seats
+---
+【正解】3 seats（席、座席）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 clothes：服
+2 dates：日付、デートの相手
+3 seats：席、座席
+4 dishes：料理、皿
+【考え方】
+空所の文は However, after the volunteers ordered a second drink, they changed (　).（しかし、ボランティアたちが2杯目の飲み物を注文したあと、彼らは（　）を替えた）です。they はボランティアたちを指しています。
+そのあとの結果を見ます。Although the waiters were able to remember the orders, they became confused about which customer had ordered what drink.（ウエーターたちは注文を覚えていることはできたが、どの客がどの飲み物を注文したのかが分からなくなった）とあります。confused は「混乱した、分からなくなった」です。
+さらに次の文で It was clear that the waiters were not remembering the customers but the places where they were sitting.（ウエーターたちが覚えていたのは、客ではなく、客が座っていた場所だということがはっきりした）とまとめられています。not A but B は「AではなくB」という意味です。
+ウエーターが「座っていた場所」で客を覚えていることが分かったのは、ボランティアたちが座る場所を変えたからです。change seats で「席を替える」となり、正解は3です。
+【ほかの選択肢】
+1 clothes は「服」です。服を着替えても座る場所が同じなら、場所で覚えているウエーターは混乱しないはずです。これでは「客が座っていた場所を覚えていた」という結論につながりません。
+2 dates は「日付、デートの相手」です。この研究は同じ日にレストランで続けて注文する話で、日付を変えたり相手を替えたりする話とはつながりません。
+4 dishes は「料理、皿」です。ボランティアが注文したのは飲み物で、料理を替えたという話はありません。また、座る場所で覚えていたという結論にもつながりません。
+【覚えるポイント】
+・change seats：「席を替える」。2人以上が席を入れ替えるので、seats と複数形になります。
+・not A but B：「AではなくB」。

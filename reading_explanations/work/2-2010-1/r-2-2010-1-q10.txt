@@ -1,6 +1,7 @@
 ---
 choices: formulated | adored | consumed | disturbed
 answerText: formulated
+reviewed: yes
 ---
 【正解】1 formulated（（計画などを）練り上げた、作成した）
 【和訳】

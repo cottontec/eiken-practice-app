@@ -1,0 +1,28 @@
+---
+choices: need to change their contact lenses every day. | can usually have the problem fixed by surgery. | are able to treat the illness with a new medicine. | often find their eyesight improves as they get older.
+answerText: can usually have the problem fixed by surgery.
+---
+【正解】2 can usually have the problem fixed by surgery.（たいてい手術でその問題を治してもらうことができる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：今日、白内障にかかっている人々は
+1 毎日コンタクトレンズを取りかえる必要がある。
+2 たいてい手術でその問題を治してもらうことができる。
+3 新しい薬でその病気を治療することができる。
+4 年をとるにつれて視力がよくなることが多い。
+【考え方】
+設問の Today（今日、現在）と同じ意味の言葉を本文で探します。第1段落の最後の文に Nowadays, fortunately, most cataracts can be cured by a simple operation in which the lens is removed and replaced with an artificial one.（幸い、現在では、ほとんどの白内障は、レンズを取り除いて人工のレンズと取りかえる簡単な手術で治すことができる）とあります。Nowadays は「現在では」、operation は「手術」です。
+本文と選択肢は次のように対応しています。
+本文 Nowadays（現在では）＝ 設問 Today（今日）
+本文 most cataracts（ほとんどの白内障）＝ 選択肢 usually（たいてい）
+本文 can be cured by a simple operation（簡単な手術で治すことができる）＝ 選択肢 can … have the problem fixed by surgery（手術でその問題を治してもらえる）
+operation（手術）が surgery（手術）に、cured（治される）が fixed（直される）に言いかえられています。have ＋ もの ＋ fixed は「ものを直してもらう」という形です。正解は2です。
+【ほかの選択肢】
+1 本文の手術では、目のレンズを取り除いて artificial one（人工のレンズ）と取りかえます。コンタクトレンズを毎日取りかえるという話は本文にありません。
+3 本文に書かれている治し方は手術です。新しい薬で治療するという話は出てきません。
+4 本文には、白内障は are relatively common as people become older（年をとるにつれて比較的よく見られる）とあります。年をとると白内障が起こりやすくなるという内容で、視力がよくなるわけではありません。本文とは反対の内容です。
+【覚えるポイント】
+・operation / surgery：どちらも「手術」。言いかえによく使われます。
+・have ＋ もの ＋ 過去分詞：「ものを～してもらう」。have the problem fixed で「問題を直してもらう」。

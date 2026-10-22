@@ -1,6 +1,7 @@
 ---
 choices: in private | on duty | above all | for instance
 answerText: in private
+reviewed: yes
 ---
 【正解】1 in private（2人だけで、内緒で）
 【和訳】

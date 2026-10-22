@@ -1,0 +1,20 @@
+---
+choices: in | now | lives | a | that she
+answerText: in
+order: 2 5 3 1 4
+---
+【正解】1 in（この問題の4番目）
+【完成文】
+( Now that she lives in a ) dormitory, though, she has to get up on her own every day.
+並べ方：2 now → 5 that she → 3 lives → 1 in → 4 a（2番目は5、4番目は1）
+【和訳】
+グレースが高校生だったころは、毎朝お父さんが彼女を起こしていました。でも、今は寮に住んでいるので、彼女は毎日自分で起きなければなりません。
+【考え方】
+空所のあとの dormitory, though, she has to get up on her own every day. には、すでに主語 she と動詞 has to get up があります。そこで空所には、その理由を表す前置きのまとまりが入ると考えます。
+2 now と 5 that she を並べると now that ～（今は～なので）という言い方ができます。now that のあとには「主語＋動詞」がくるので、she のあとに動詞の 3 lives（住んでいる）を置きます。
+次に「どこに住んでいるのか」を表します。live in ～ で「～に住む」となるので、lives のすぐあと、4番目に 1 in を置きます。in は場所を表す語の前に置くので、空所のあとの dormitory（寮）より前にきます。最後に 4 a を置くと、in a dormitory（寮に）となります。
+4番目は1 in です。
+lives a in のように並べると、a のあとに名詞がなく、in のあとにも a がこないので、空所のあとの dormitory とつながりません。a は名詞のすぐ前に置くので、in → a → dormitory の順になります。
+【覚えるポイント】
+・live in ～：「～に住む」。
+・now that ＋主語＋動詞：「今は～なので」。

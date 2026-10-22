@@ -1,0 +1,21 @@
+---
+choices: for | blames | people | other | his mistakes
+answerText: other
+order: 2 4 3 1 5
+---
+【正解】4 other（この問題の2番目）
+【完成文】
+He always ( blames other people for his mistakes ).
+並べ方：2 blames → 4 other → 3 people → 1 for → 5 his mistakes（2番目は4、4番目は1）
+【和訳】
+マークは、自分が何か悪いことをしたと決して認めません。彼はいつも、自分の失敗をほかの人のせいにします。
+【考え方】
+空所の前は He always（彼はいつも）です。主語の He のあとには動詞がくるので、5つの中の動詞 2 blames（～を責める）を最初に置きます。
+blame は blame A for B の形で「BのことでAを責める、BをAのせいにする」という意味になります。ここで「だれを責めるのか」を考えると、1文目の「マークは自分が悪いことをしたと決して認めない」から、責める相手は自分以外の「ほかの人」だと分かります。
+other は「ほかの」という意味で、名詞の前に置いて説明する語です。そこで blames のすぐあとの2番目に 4 other を置き、3 people を続けて other people（ほかの人々）とします。
+そのあとに 1 for と 5 his mistakes を続け、blames other people for his mistakes（自分の失敗をほかの人のせいにする）と完成させます。
+2番目は4 other です。
+blames his mistakes for other people とすると、「ほかの人のことで自分の失敗を責める」となり、意味が通りません。責める相手（A）を先に、理由（B）を for のあとに置く順番が決め手です。
+【覚えるポイント】
+・blame A for B：「BのことでAを責める、BをAのせいにする」。
+・admit that ～：「～だと認める」。

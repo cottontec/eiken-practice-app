@@ -1,6 +1,7 @@
 ---
 choices: found that the sweater he had bought was damaged. | wrote to Ms. Turner about a blue Joseph Lamont sweater. | tried to return a Joseph Lamont sweater to Ms. Turner's store. | saw that a sweater he had bought was on sale at a cheaper price.
 answerText: found that the sweater he had bought was damaged.
+reviewed: yes
 ---
 【正解】1 found that the sweater he had bought was damaged.（自分が買ったセーターが傷んでいることに気づいた。）
 【和訳】

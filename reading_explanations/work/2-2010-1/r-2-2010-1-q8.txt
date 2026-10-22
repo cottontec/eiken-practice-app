@@ -1,6 +1,7 @@
 ---
 choices: endanger | undertake | annoy | reflect
 answerText: undertake
+reviewed: yes
 ---
 【正解】2 undertake（引き受ける）
 【和訳】

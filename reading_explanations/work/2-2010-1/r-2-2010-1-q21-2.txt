@@ -2,6 +2,7 @@
 choices: to | wait for | made | everyone was | 30 minutes
 answerText: made
 order: 4 3 1 2 5
+reviewed: yes
 ---
 【正解】3 made（この問題の2番目）
 【完成文】

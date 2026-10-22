@@ -1,6 +1,7 @@
 ---
 choices: repeat | predict | welcome | explain
 answerText: welcome
+reviewed: yes
 ---
 【正解】3 welcome（歓迎する）
 【和訳】

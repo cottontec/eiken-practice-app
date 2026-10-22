@@ -1,6 +1,7 @@
 ---
 choices: down for | up to | out on | over by
 answerText: up to
+reviewed: yes
 ---
 【正解】2 up to（（It's up to you. で）あなた次第だ）
 【和訳】

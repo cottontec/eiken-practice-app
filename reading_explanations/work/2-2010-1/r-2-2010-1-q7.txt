@@ -1,6 +1,7 @@
 ---
 choices: opponent | companion | technician | developer
 answerText: opponent
+reviewed: yes
 ---
 【正解】1 opponent（対戦相手）
 【和訳】

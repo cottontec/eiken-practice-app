@@ -1,6 +1,7 @@
 ---
 choices: he should return to the store when a manager was available. | he could not exchange his sweater for one of the same brand. | he might not be able to find a sweater in the same color in the store. | he would have to pay more money to get another Joseph Lamont sweater.
 answerText: he could not exchange his sweater for one of the same brand.
+reviewed: yes
 ---
 【正解】2 he could not exchange his sweater for one of the same brand.（セーターを同じブランドのものと交換することはできない。）
 【和訳】

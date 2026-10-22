@@ -1,6 +1,7 @@
 ---
 choices: resource | press | economy | factor
 answerText: press
+reviewed: yes
 ---
 【正解】2 press（報道機関、新聞・雑誌）
 【和訳】

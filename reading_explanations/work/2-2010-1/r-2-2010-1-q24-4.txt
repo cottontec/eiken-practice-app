@@ -2,6 +2,7 @@
 choices: faster | is | than | student | no other
 answerText: faster
 order: 5 4 2 1 3
+reviewed: yes
 ---
 【正解】1 faster（この問題の4番目）
 【完成文】
@@ -9,7 +10,7 @@ Oh, definitely Becky. ( No other student is faster than ) she is. She easily won
 並べ方：5 no other → 4 student → 2 is → 1 faster → 3 than（2番目は4、4番目は1）
 【和訳】
 A：土曜日の自転車レースではだれが勝つと思う？
-B：ああ、絶対にベッキーだよ。彼女より速い生徒はほかにいないもの。この前の3つのレースでは楽に勝ったんだ。
+B：ああ、絶対にベッキーだよ。彼女より速い生徒はほかにいないもの。この前の3つのレースで楽に勝ったんだ。
 【考え方】
 Bはベッキーが勝つと言い、その理由を空所の文で述べています。空所のあとが she is. で終わっていることに注目します。than she is（彼女がそうであるより）の形にすると、「彼女より～」と比べる文になります。
 比べる文の中心になる形は、No other ＋ 名詞 ＋ is ＋ 比較級（「より～」を表す形）＋ than …（…より～な（名詞）はほかにない）です。まず 5 no other と 4 student で No other student（ほかのどの生徒も～ない）を作り、2 is を続けます。

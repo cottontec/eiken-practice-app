@@ -1,6 +1,7 @@
 ---
 choices: mode | time | stock | choice
 answerText: time
+reviewed: yes
 ---
 【正解】2 time（（one at a time で）1人ずつ）
 【和訳】

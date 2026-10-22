@@ -2,6 +2,7 @@
 choices: is | there | knowing | no | when
 answerText: knowing
 order: 2 1 4 3 5
+reviewed: yes
 ---
 【正解】3 knowing（この問題の4番目）
 【完成文】

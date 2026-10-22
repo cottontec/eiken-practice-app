@@ -2,6 +2,7 @@
 choices: mistake | his | made | for | up
 answerText: up
 order: 3 5 4 2 1
+reviewed: yes
 ---
 【正解】5 up（この問題の2番目）
 【完成文】

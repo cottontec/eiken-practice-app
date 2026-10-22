@@ -1,6 +1,7 @@
 ---
 choices: use bumps in the road to generate electricity. | remove liquid from the engine to make it lighter. | supply fuel to the engine in a way that saves energy. | stop rough surfaces from damaging the shock absorbers.
 answerText: use bumps in the road to generate electricity.
+reviewed: yes
 ---
 【正解】1 use bumps in the road to generate electricity.（道路のでこぼこを利用して電気を生み出す。）
 【和訳】

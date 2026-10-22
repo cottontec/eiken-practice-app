@@ -1,6 +1,7 @@
 ---
 choices: would give | had given | is giving | gives
 answerText: would give
+reviewed: yes
 ---
 【正解】1 would give（くれるだろう）
 【和訳】

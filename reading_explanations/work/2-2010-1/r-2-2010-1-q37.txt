@@ -1,6 +1,7 @@
 ---
 choices: They help to repair rough parts of the road. | They protect people from bumps in the road. | They save fuel by helping the engine run faster. | They stop vehicles from causing damage to roads.
 answerText: They protect people from bumps in the road.
+reviewed: yes
 ---
 【正解】2 They protect people from bumps in the road.（道路のでこぼこから人々を守る。）
 【和訳】

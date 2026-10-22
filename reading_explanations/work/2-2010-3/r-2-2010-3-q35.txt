@@ -1,0 +1,30 @@
+---
+choices: By contacting other companies that might become sponsors. | By putting up posters in his store to advertise the party. | By donating something from his store to use as a prize. | By helping the winner to appear on a television program.
+answerText: By donating something from his store to use as a prize.
+---
+【正解】3 By donating something from his store to use as a prize.（彼の店の品を、賞品として使うために寄付することによって。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ジャッキー・ゴールディングは、シモンズさんにどのような方法で仮装パーティーを支援してほしいと思っていますか。
+1 スポンサーになってくれそうなほかの会社に連絡をとることによって。
+2 パーティーを宣伝するために、彼の店にポスターをはることによって。
+3 彼の店の品を、賞品として使うために寄付することによって。
+4 優勝者がテレビ番組に出られるように手助けすることによって。
+【考え方】
+ジャッキーさんがシモンズさんにしてほしいことは、メールの第2段落に書かれています。
+まず We are hoping to offer a prize for the person at the party with the best costume.（私たちは、パーティーでいちばんすばらしい衣装の人に賞品を贈りたいと考えている）とあります。prize は「賞品」です。
+続いて As the owner of the largest electronics store in Arnfield, perhaps you would consider donating something that we could give to the winner.（アーンフィールドでいちばん大きな電器店のオーナーとして、優勝者に贈ることのできる品を寄付することを検討していただけないだろうか）とあります。donate は「寄付する」です。そして A television, for instance, would be a very attractive prize.（たとえば、テレビはとても魅力的な賞品になるだろう）と、店で売っている品の例も挙げています。
+本文と選択肢は次のように対応しています。
+本文 donating something（何かを寄付すること）＝ 選択肢 By donating something（何かを寄付することによって）
+本文 the owner of the largest electronics store ／ A television, for instance（いちばん大きな電器店のオーナー／たとえばテレビ）＝ 選択肢 from his store（彼の店の品）
+本文 something that we could give to the winner（優勝者に贈ることのできる品）＝ 選択肢 to use as a prize（賞品として使うために）
+正解は3です。
+【ほかの選択肢】
+1 本文の sponsors（スポンサー）という語は、「御社の名前がスポンサーの一覧に載る」という説明の中に出てくるだけです。ほかの会社に連絡してほしいとは頼んでいないので、誤りです。
+2 ポスターについては We will print posters to advertise the event（私たちがイベントを宣伝するためにポスターを印刷する）とあり、ポスターを作るのはジャッキーさんたちです。シモンズさんの店にポスターをはってほしいとは書かれていないので、誤りです。
+4 テレビは、優勝者への賞品の例として出てくるだけです。優勝者をテレビ番組に出す話は本文にないので、誤りです。
+【覚えるポイント】
+・donate：「寄付する」。donate something で「何かを寄付する」。
+・prize：「賞品、賞」。

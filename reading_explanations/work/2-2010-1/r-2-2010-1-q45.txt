@@ -1,6 +1,7 @@
 ---
 choices: Studying whale falls may help us manage some kinds of waste. | Whale falls can tell us a great deal about how our planet was formed. | Scientists are using a chemical from whale falls to clean up the oceans. | Human beings have come to depend on whale falls for survival.
 answerText: Studying whale falls may help us manage some kinds of waste.
+reviewed: yes
 ---
 【正解】1 Studying whale falls may help us manage some kinds of waste.（ホエールフォールを研究することは、ある種類のごみを処理するのに役立つかもしれない。）
 【和訳】

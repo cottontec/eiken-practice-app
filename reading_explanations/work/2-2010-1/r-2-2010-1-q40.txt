@@ -1,6 +1,7 @@
 ---
 choices: They use huge amounts of electricity to light their supermarkets. | They can easily afford to install the new shock absorbers. | They could use it to reduce the number of their trucks. | They use many heavy trucks to deliver their goods.
 answerText: They use many heavy trucks to deliver their goods.
+reviewed: yes
 ---
 【正解】4 They use many heavy trucks to deliver their goods.（商品を配達するのに、重いトラックをたくさん使っているから。）
 【和訳】

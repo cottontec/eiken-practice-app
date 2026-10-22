@@ -1,6 +1,7 @@
 ---
 choices: how whales can live in cold and dark parts of the ocean. | how creatures can survive under difficult conditions. | how human beings can learn to swim in the deep sea. | how scientists can study the environments of other planets.
 answerText: how creatures can survive under difficult conditions.
+reviewed: yes
 ---
 【正解】2 how creatures can survive under difficult conditions.（生き物が、厳しい条件のもとでどのように生き延びられるのか。）
 【和訳】

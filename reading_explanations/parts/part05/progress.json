@@ -28,8 +28,8 @@
       "batchId": "2-2010-1",
       "target": 50,
       "written": 50,
-      "contentReviewed": 0,
-      "status": "complete_unreviewed",
+      "contentReviewed": 50,
+      "status": "complete_reviewed",
       "blank": 0,
       "issues": 0,
       "checkErrors": 0,
@@ -64,5 +64,5 @@
       "status": "not_started"
     }
   ],
-  "updatedAt": "2026-10-22T05:04:41+00:00"
+  "updatedAt": "2026-10-22T05:06:28+00:00"
 }

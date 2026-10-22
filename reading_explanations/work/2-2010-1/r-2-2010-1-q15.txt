@@ -1,6 +1,7 @@
 ---
 choices: throw | cause | speak | defend
 answerText: speak
+reviewed: yes
 ---
 【正解】3 speak（（speak ill of ～ で）～の悪口を言う）
 【和訳】

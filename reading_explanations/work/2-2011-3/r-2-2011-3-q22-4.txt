@@ -1,0 +1,21 @@
+---
+choices: asked | as | your | do | boss
+answerText: boss
+order: 4 2 3 5 1
+---
+【正解】5 boss（この問題の4番目）
+【完成文】
+Well, I think you should ( do as your boss asked ). You'll get into trouble if the report isn't finished.
+並べ方：4 do → 2 as → 3 your → 5 boss → 1 asked（2番目は2、4番目は5）
+【和訳】
+A：上司が、この売上報告書を仕上げるために今夜は会社に残ってほしいと言ったんだけど、友だちと映画を見に行く予定があるんだ。
+B：うーん、上司に頼まれたとおりにするべきだと思うよ。報告書が仕上がらなかったら困ったことになるよ。
+【考え方】
+should（～するべきだ）のあとには動詞の原形がくるので、4 do を最初に置きます。続いて、as ＋主語＋動詞で「～が…するとおりに」となる形を使い、2 as を置いて do as ～（～のとおりにする）とします。
+as のあとには「だれが・どうした」が続きます。A の話では、残って報告書を仕上げてほしいと言ったのは上司なので、主語は your boss（あなたの上司）です。your は「あなたの」という意味で、あとに必ず名詞が必要です。そのため 3 your のすぐあと、4番目に名詞の 5 boss が入ります。
+最後に動詞の 1 asked（頼んだ）を置き、do as your boss asked（上司が頼んだとおりにする）と完成させます。
+4番目は5 boss です。
+your asked boss のように並べると、your と boss の間に動詞が入りこんでしまい、「あなたの上司」というまとまりがこわれます。your のあとに boss を続けることで主語がはっきりします。
+【覚えるポイント】
+・as ＋主語＋動詞：「～が…するとおりに」。do as your boss asked で「上司が頼んだとおりにする」。
+・your ＋名詞：your（あなたの）のあとには名詞がきます。

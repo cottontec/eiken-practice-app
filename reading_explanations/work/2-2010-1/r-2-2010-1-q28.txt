@@ -1,6 +1,7 @@
 ---
 choices: secret | mixed | polite | fresh
 answerText: mixed
+reviewed: yes
 ---
 【正解】2 mixed（（賛成と反対が）入りまじった、複雑な）
 【和訳】

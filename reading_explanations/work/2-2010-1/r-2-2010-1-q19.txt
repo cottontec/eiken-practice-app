@@ -1,6 +1,7 @@
 ---
 choices: Now that | Even if | Ever since | As though
 answerText: Even if
+reviewed: yes
 ---
 【正解】2 Even if（たとえ～でも）
 【和訳】

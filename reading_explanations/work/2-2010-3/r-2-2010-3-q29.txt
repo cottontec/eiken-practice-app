@@ -1,0 +1,24 @@
+---
+choices: decision | task | profit | warning
+answerText: profit
+---
+【正解】3 profit（利益、もうけ）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 decision：決定、決心
+2 task：（課された）仕事、課題
+3 profit：利益、もうけ
+4 warning：警告
+【考え方】
+空所の文は He believes that growing crops on the land will not only bring him a (　), but also help to make Detroit a much greener city.（彼は、その土地で作物を育てることが、自分に（　）をもたらすだけでなく、デトロイトをずっと緑の多い都市にする助けにもなると信じている）です。not only A but also B は「AだけでなくBも」という意味です。
+He は、裕福な実業家のジョン・ハンツです。前の文を見ると、彼は unused land in Detroit to use for commercial farming（商業的な農業に使うためのデトロイトの使われていない土地）を買い集め始めたとあります。commercial は「商業の、もうけるための」という意味です。また making his business work（事業をうまくいかせること）という言葉もあります。
+ハンツは、作物を売ってもうけるための事業として農業を始めたのです。ですから、作物を育てることが彼自身に「もたらす」ものは、事業のもうけです。bring him a profit で「彼に利益をもたらす」となります。そのうえで but also 以下で、もう1つのよい点として「町を緑の多い都市にすること」が加えられています。正解は3です。
+【ほかの選択肢】
+1 decision は「決定、決心」です。「作物を育てることが彼に決定をもたらす」となり、意味が通りません。
+2 task は「仕事、課題」です。「作物を育てることが彼に課題をもたらす」となると、but also 以下の「町を緑の多い都市にする助けにもなる」という、よい点を並べる形と合いません。課題のことは、前の文で many problems（多くの問題）として、別に書かれています。
+4 warning は「警告」です。「彼に警告をもたらす」となり、自信を持って事業を進めるハンツの考えとつながりません。
+【覚えるポイント】
+・profit：「利益、もうけ」。bring ＋ 人 ＋ a profit で「人に利益をもたらす」。
+・not only A but also B：「AだけでなくBも」。

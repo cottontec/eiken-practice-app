@@ -1,0 +1,21 @@
+---
+choices: asked | as | your | do | boss
+answerText: as
+order: 4 2 3 5 1
+---
+【正解】2 as（この問題の2番目）
+【完成文】
+Well, I think you should ( do as your boss asked ). You'll get into trouble if the report isn't finished.
+並べ方：4 do → 2 as → 3 your → 5 boss → 1 asked（2番目は2、4番目は5）
+【和訳】
+A：上司が、この売上報告書を仕上げるために今夜は会社に残ってほしいと言ったんだけど、友だちと映画を見に行く予定があるんだ。
+B：うーん、上司に頼まれたとおりにするべきだと思うよ。報告書が仕上がらなかったら困ったことになるよ。
+【考え方】
+空所の前は you should です。should（～するべきだ）のあとには動詞の原形がくるので、まず 4 do を置いて you should do（あなたはするべきだ）とします。
+次に「何をするべきか」を考えます。ここで 2 as に注目します。as にはいろいろな働きがありますが、as のあとに「主語＋動詞」が続くと「～が…するとおりに」という意味になります。do as ～ で「～のとおりにする」です。そこで do のすぐあとの2番目に as を置きます。as は「どのようにするか」を do に付け加える語なので、do の直後に入ります。
+as のあとには「主語＋動詞」が続きます。主語は 3 your と 5 boss を合わせた your boss（あなたの上司）、動詞は 1 asked（頼んだ）です。do as your boss asked で「上司が頼んだとおりにする」となります。
+2番目は2 as です。
+do your boss as asked のように並べると、your boss が do の目的語（「～を」に当たる語）になり、「上司をする」というおかしな意味になってしまいます。
+【覚えるポイント】
+・do as ＋主語＋動詞：「～が…したとおりにする」。do as you are told（言われたとおりにする）のようにも使います。
+・get into trouble：「困ったことになる、面倒なことになる」。

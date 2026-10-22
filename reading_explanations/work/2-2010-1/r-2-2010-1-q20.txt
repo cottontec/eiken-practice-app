@@ -1,6 +1,7 @@
 ---
 choices: many more | so much | no more | not much
 answerText: no more
+reviewed: yes
 ---
 【正解】3 no more（（no more than ～ で）～以内、～を超えない）
 【和訳】

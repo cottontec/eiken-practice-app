@@ -1,6 +1,7 @@
 ---
 choices: Vehicles with the system can also use other types of fuel. | The vehicle's lights no longer need to use electricity. | The engine is no longer used to generate electricity. | Trucks with the system can carry more equipment.
 answerText: The engine is no longer used to generate electricity.
+reviewed: yes
 ---
 【正解】3 The engine is no longer used to generate electricity.（電気を作るのに、もうエンジンが使われなくなる。）
 【和訳】

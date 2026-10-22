@@ -1,6 +1,7 @@
 ---
 choices: A chemical that can be used to kill worms. | A method of keeping warm in cold water. | A kind of soap that will help save energy. | A way to create energy using whale bones.
 answerText: A kind of soap that will help save energy.
+reviewed: yes
 ---
 【正解】3 A kind of soap that will help save energy.（エネルギーの節約に役立つ種類の石けん。）
 【和訳】

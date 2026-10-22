@@ -1,6 +1,7 @@
 ---
 choices: eliminate | qualify | solve | release
 answerText: release
+reviewed: yes
 ---
 【正解】4 release（放す、自由にする）
 【和訳】

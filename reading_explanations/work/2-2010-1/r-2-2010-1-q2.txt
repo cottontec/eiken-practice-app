@@ -1,6 +1,7 @@
 ---
 choices: kindly | similarly | considerably | generally
 answerText: generally
+reviewed: yes
 ---
 【正解】4 generally（ふつうは、たいてい）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: The worms that live inside a whale's body. | The oil that is found inside whale bones. | The shellfish that live on the surface of the whale. | The fish and crabs that have been eaten by whales.
 answerText: The oil that is found inside whale bones.
+reviewed: yes
 ---
 【正解】2 The oil that is found inside whale bones.（クジラの骨の中にある油。）
 【和訳】

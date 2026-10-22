@@ -1,11 +1,12 @@
 ---
 choices: features | sensations | instincts | contacts
 answerText: features
+reviewed: yes
 ---
 【正解】1 features（機能、特徴）
 【和訳】
 A：私たちの新しいコンピューターには、前のものよりずっと多くの機能があるね。
-B：うん。そのほとんどの使い方が分からないから、使用説明書を読まなければならないな。
+B：うん。そのほとんどの使い方が分からないから、使用説明書を読まなければならないね。
 （選択肢の意味）1 機能、特徴　2 感覚、大評判　3 本能　4 接触、連絡、知り合い
 【考え方】
 Aは Our new computer has many more (　) than our old one did.（新しいコンピューターには、前のものよりずっと多くの～がある）と言っています。

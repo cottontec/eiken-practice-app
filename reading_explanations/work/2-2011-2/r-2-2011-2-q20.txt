@@ -1,0 +1,20 @@
+---
+choices: talk | talking | talks | talked
+answerText: talk
+---
+【正解】1 talk（話す）
+【和訳】
+A：パーティーでティムがあなたを無視したって聞いたよ。
+B：そうなんだ。彼はひと晩じゅう、一度も私に話しかけることさえしなかったんだよ。
+（選択肢の意味）1 話す（元の形）　2 話すこと（-ing 形）　3 話す（-s のついた形）　4 話した（過去形）
+【考え方】
+Aは I hear that Tim ignored you at the party.（パーティーでティムがあなたを無視したと聞いた）と言っています。ignore は「無視する」です。
+Bは That's right.（そのとおり）と認め、He didn't so much as (　) to me once during the whole evening. と続けています。
+4つの選択肢はどれも talk（話す）の形を変えたものなので、文の形で答えを決めます。not so much as ～ は「～さえしない」という意味で、didn't と動詞の間に so much as がはさまった形です。didn't のあとには、-s や -ed のつかない動詞の元の形がきます。ですから didn't so much as talk to me で「私に話しかけることさえしなかった」となります。「無視した」というAの話とも合います。正解は1です。
+【ほかの選択肢】
+2 talking は -ing 形です。didn't のあとに続く形ではないので、ここには入りません。
+3 talks は -s のついた形です。didn't のあとでは動詞に -s をつけないので、ここには入りません。
+4 talked は過去形です。過去であることはすでに didn't で表しているので、動詞を過去形にはしません。
+【覚えるポイント】
+・not so much as ～：「～さえしない」。He didn't so much as talk to me.（私に話しかけさえしなかった）。
+・didn't のあとの動詞は、-s や -ed のつかない元の形にします。

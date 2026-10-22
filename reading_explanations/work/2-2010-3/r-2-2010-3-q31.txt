@@ -1,0 +1,24 @@
+---
+choices: silent about | afraid of | shocked by | famous for
+answerText: famous for
+---
+【正解】4 famous for（～で有名な）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 silent about：～について黙っている
+2 afraid of：～をこわがっている
+3 shocked by：～にショックを受けている
+4 famous for：～で有名な
+【考え方】
+空所の前の文は The scientists wanted to do this because of the reputation of the city's waiters.（科学者たちがこの研究をしたいと考えたのは、この都市のウエーターの評判のためだった）です。reputation は「評判（多くの人が言っている、よい・悪いといううわさ）」という意味です。
+空所の文は Many of the older waiters in Buenos Aires's restaurants are (　) their ability to remember orders and deliver each one to the right customer without checking.（ブエノスアイレスのレストランの年配のウエーターの多くは、注文を覚え、確かめずにそれぞれを正しい客へ運ぶ能力（　））です。この文は、前の文の「評判」とはどんなものかを説明していると考えられます。
+注文を覚えて正しく運ぶ能力は、ほめられるすぐれた力です。その力が多くの人に知られている、つまり評判になっているのですから、be famous for ～（～で有名だ）が入ります。正解は4です。
+【ほかの選択肢】
+1 silent about は「～について黙っている」です。「その能力について黙っている」となると、ウエーターの評判を説明する文になりません。能力が人に知られていなければ、評判にもならないので、前の文とつながりません。
+2 afraid of は「～をこわがっている」です。「自分の能力をこわがっている」となり、意味が通りません。
+3 shocked by は「～にショックを受けている」です。「自分の能力にショックを受けている」となり、評判の説明になりません。
+【覚えるポイント】
+・be famous for ～：「～で有名だ」。for のあとに、有名である理由がきます。
+・reputation：「評判」。

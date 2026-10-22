@@ -1,6 +1,7 @@
 ---
 choices: sharp | wild | quiet | pure
 answerText: pure
+reviewed: yes
 ---
 【正解】4 pure（純粋な、まじりけのない）
 【和訳】

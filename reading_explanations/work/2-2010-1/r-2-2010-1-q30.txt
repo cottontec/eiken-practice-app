@@ -1,6 +1,7 @@
 ---
 choices: Moreover | Nevertheless | Instead | Rather
 answerText: Moreover
+reviewed: yes
 ---
 【正解】1 Moreover（そのうえ、さらに）
 【和訳】

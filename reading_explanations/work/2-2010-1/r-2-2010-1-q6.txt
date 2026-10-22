@@ -1,6 +1,7 @@
 ---
 choices: stretch | bet | lower | trick
 answerText: lower
+reviewed: yes
 ---
 【正解】3 lower（下げる）
 【和訳】

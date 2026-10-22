@@ -1,6 +1,7 @@
 ---
 choices: figure | escape | desire | approach
 answerText: approach
+reviewed: yes
 ---
 【正解】4 approach（取り組み方、やり方）
 【和訳】

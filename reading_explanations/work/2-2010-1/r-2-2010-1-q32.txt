@@ -1,6 +1,7 @@
 ---
 choices: moral | medical | historical | educational
 answerText: educational
+reviewed: yes
 ---
 【正解】4 educational（教育の）
 【和訳】

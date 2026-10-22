@@ -1,6 +1,7 @@
 ---
 choices: opposes | extends | promises | completes
 answerText: opposes
+reviewed: yes
 ---
 【正解】1 opposes（反対する）
 【和訳】

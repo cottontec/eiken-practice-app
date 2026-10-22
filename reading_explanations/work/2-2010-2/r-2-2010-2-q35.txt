@@ -1,0 +1,27 @@
+---
+choices: Their artwork will be published on a magazine's website. | Their artwork will become better known in the local area. | They will receive some money from the Palms Art Gallery. | They will be able to hold an exhibition at Southfield University.
+answerText: Their artwork will become better known in the local area.
+---
+【正解】2 Their artwork will become better known in the local area.（彼らの作品は地元でよりよく知られるようになる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：2位と3位になった出場者は、コンテストから何を得ますか。
+1 彼らの作品が雑誌のウェブサイトに掲載される。
+2 彼らの作品が地元でよりよく知られるようになる。
+3 パームズ・アートギャラリーからいくらかのお金を受け取る。
+4 サウスフィールド大学で展覧会を開くことができる。
+【考え方】
+設問の contestants who finish second and third（2位と3位になる出場者）と同じ言葉を本文で探します。第2段落に The contestants who finish second and third will have an article about their paintings published in the Southfield Art Review magazine, allowing more Southfield residents to learn about their artwork.（2位と3位になった出場者は、雑誌『サウスフィールド・アート・レビュー』に自分の絵についての記事を載せてもらえるので、より多くのサウスフィールドの住民がその作品について知ることができる）とあります。
+have ＋ もの ＋ published は「ものを載せてもらう」、residents は「住民」です。
+雑誌に記事が出ることで、サウスフィールドに住む人たちが作品を知るようになります。これは「地元で作品がよりよく知られるようになる」ということです。本文と選択肢は次のように対応しています。
+本文 allowing more Southfield residents to learn about their artwork（より多くのサウスフィールドの住民が作品について知ることができる）＝ 選択肢 Their artwork will become better known in the local area（作品が地元でよりよく知られるようになる）
+本文の Southfield residents（サウスフィールドの住民）が、選択肢では the local area（地元）と言いかえられています。正解は2です。
+【ほかの選択肢】
+1 記事が載るのは雑誌『サウスフィールド・アート・レビュー』です。雑誌のウェブサイトに載るとは書かれていません。メールに出てくるウェブサイトは、コンテストの詳細が見られるパームズ・アートギャラリーのものです。
+3 第2段落に there are no cash prizes（賞金はない）とあるので、お金を受け取るという内容は本文と反対です。
+4 展覧会を開けるのは The overall winner（総合優勝者）で、場所もパームズ・アートギャラリーです。2位と3位の人の話ではなく、サウスフィールド大学で開くとも書かれていません。
+【覚えるポイント】
+・have ＋ もの ＋ 過去分詞：「ものを～してもらう」。have an article published で「記事を載せてもらう」。
+・resident：「住民」。local area（地元）との言いかえに注意。
