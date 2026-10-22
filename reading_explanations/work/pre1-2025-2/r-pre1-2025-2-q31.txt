@@ -1,0 +1,35 @@
+---
+choices: produce a substance that can protect themselves and their colony from bacterial and fungal infections. | leave their colony when they are suffering from infectious diseases to prevent the disease from spreading. | use natural medication in a way that benefits their whole colony rather than just themselves. | have the ability to teach other members of their colony how to deal with bacterial and fungal infections.
+answerText: use natural medication in a way that benefits their whole colony rather than just themselves.
+---
+【正解】3 use natural medication in a way that benefits their whole colony rather than just themselves.（自分自身だけでなく、群れ全体のためになるやり方で、自然の薬を使う。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Research has shown that some social insects（研究によって、一部の社会性昆虫は～ことが分かっている。）
+1 produce a substance that can protect themselves and their colony from bacterial and fungal infections.（自分自身と群れを細菌や菌による感染から守ることのできる物質を作り出す。）
+2 leave their colony when they are suffering from infectious diseases to prevent the disease from spreading.（感染症にかかっているとき、病気が広がるのを防ぐために群れをはなれる。）
+3 use natural medication in a way that benefits their whole colony rather than just themselves.（自分自身だけでなく、群れ全体のためになるやり方で、自然の薬を使う。）
+4 have the ability to teach other members of their colony how to deal with bacterial and fungal infections.（細菌や菌による感染への対処のしかたを、群れのほかの仲間に教える能力を持っている。）
+【考え方】
+まず見るところ：第4段落の後半の the use of natural medication by some social insects goes beyond self-medication
+第4段落の後半は、次のとおりです。
+In other studies, it has also been found that the use of natural medication by some social insects goes beyond self-medication.（ほかの研究では、一部の社会性昆虫による自然の薬の使い方が、自己治療の範囲をこえていることも分かっている）
+social insect は「社会性昆虫（群れをつくり、役割を分けて暮らす昆虫）」、go beyond ～ は「～をこえる」です。「自己治療をこえる」とは、自分の体を治すだけではない、という意味です。
+具体例として、アリのことが書かれています。
+When bacterial and fungal infections occur within an ant colony, for example, the insects collect resin from nearby trees and take it back to the colony.（たとえば、アリの巣の中で細菌やカビなどの菌による感染が起こると、アリたちは近くの木から樹脂を集めて、巣に持ち帰る）
+The resin has antibacterial and antifungal properties, so by doing this, the ants are performing a form of "social medication."（樹脂には細菌や菌をおさえる性質があるので、こうすることで、アリたちは一種の「社会的な治療」を行っているのだ）
+colony は「（アリなどの）群れ、巣」、resin は「樹脂（木から出るねばねばした液）」です。アリは樹脂を巣に持ち帰ることで、巣全体を感染から守っています。
+本文と選択肢を対にすると、次のようになります。
+本文 goes beyond self-medication（自己治療の範囲をこえる）→ 選択肢 rather than just themselves（自分自身だけでなく）
+本文 take it back to the colony ／ "social medication"（巣に持ち帰る／社会的な治療）→ 選択肢 benefits their whole colony（群れ全体のためになる）
+ですから3が正解です。
+この問題の型：具体例とまとめ（アリが樹脂を巣に持ち帰る → 群れ全体のための薬の使い方）
+【ほかの選択肢】
+1 本文では、アリは樹脂を近くの木から collect（集める）と書かれています。アリ自身が感染を防ぐ物質を作り出す、という話ではありません。
+2 本文には、病気のアリが群れをはなれるという話はありません。書かれているのは、感染が起こったときに樹脂を巣に持ち帰ることです。
+4 本文には、アリが群れのほかの仲間に感染への対処のしかたを教えるという話はありません。第3段落で「学習」の話は出てきますが、アリが仲間に教えることは書かれていません。
+【覚えるポイント】
+・go beyond ～：「～をこえる」。goes beyond self-medication は「自分を治すだけにとどまらない」という意味です。
+・本文が go beyond ～ のような大まかな言い方のあとに for example（たとえば）で具体例を続けているときは、その具体例（ここでは巣に持ち帰る）から、大まかな言い方の中身を確かめることが手がかりになります。

@@ -30,5 +30,13 @@
     },
     "errors": [],
     "warnings": []
+  },
+  "pre1-2025-2": {
+    "stats": {
+      "target": 31,
+      "written": 31
+    },
+    "errors": [],
+    "warnings": []
   }
 }

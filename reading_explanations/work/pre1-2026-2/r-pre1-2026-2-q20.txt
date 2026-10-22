@@ -1,0 +1,28 @@
+---
+choices: Furthermore | However | In any case | On the contrary
+answerText: Furthermore
+---
+【正解】1 Furthermore（さらに、そのうえ）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Furthermore（さらに、そのうえ）
+2 However（しかし）
+3 In any case（いずれにせよ、とにかく）
+4 On the contrary（それどころか、それとは反対に）
+【考え方】
+まず見るところ：第2段落の空所の前の In the 1990s, governments began to take the threat more seriously. と、空所のあとの the United States funded efforts ～
+In the 1990s, governments began to take the threat more seriously.（1990年代に、各国の政府はこの脅威をより真剣に受け止め始めた）
+Efforts centered around measures to deal with worst-case scenarios or focused on prevention by encouraging organizations in both public and private sectors to fix their computer codes.（取り組みは、最悪の事態に対処するための対策を中心とするか、または公的部門と民間部門の両方の組織にコンピューターのプログラムを直すよう促すことによる予防に重点を置いていた）
+空所の前では、政府がY2Kバグに真剣に取り組み始めたこと、そしてその取り組みの中身が述べられています。
+( 20 ), the United States funded efforts by the World Bank to increase awareness of the Y2K bug in developing nations, and the British government put the armed forces on standby（（20）、アメリカは、発展途上国でY2Kバグへの認識を高めるための世界銀行の取り組みに資金を出し、イギリス政府は軍隊を待機させた）
+空所のあとも、アメリカとイギリスの政府が行った取り組みの話で、前と同じ向きの内容です。前の内容に、さらに具体的な取り組みを付け加えているので、Furthermore（さらに）の1が正解です。
+この問題の型：具体例とまとめ（政府が真剣に取り組んだ→アメリカとイギリスの具体的な取り組みを付け加える）
+【ほかの選択肢】
+2 However（しかし）は、前と反対の内容を述べるときに使います。空所の前もあとも政府が真剣に取り組んだという話なので、反対の関係になっていません。
+3 In any case（いずれにせよ）は、前に述べたことはさておき、大事な点に話を進めるときに使います。空所のあとは前の話を打ち切る内容ではなく、取り組みの話をそのまま続けているので合いません。
+4 On the contrary（それどころか、それとは反対に）は、前の内容を打ち消して、反対のことを言うときに使います。空所の前の内容を打ち消す話にはなっていないので合いません。
+【覚えるポイント】
+・Furthermore：「さらに、そのうえ」。前と同じ向きの内容を付け加えるときに使います。
+・つなぎの言葉を選ぶ空所では、空所の前とあとが「同じ向き」か「反対の向き」かをまず確かめることが手がかりになります。ここではどちらも政府の取り組みの話でした。

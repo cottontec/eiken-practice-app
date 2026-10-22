@@ -15,10 +15,10 @@ answerText: It incorrectly suggested that revenge worked to reduce the amount of
 【考え方】
 まず見るところ：第1段落の One famous psychological theory of the past viewed it as ～ と、続く Psychological studies, however, ～
 設問の an older psychological theory（古い心理学の理論）は、第1段落の次の文に出てきます。
-One famous psychological theory of the past viewed it as a way to release the buildup of rage or hatred that occurs in situations where a person feels victimized, just as releasing steam can decrease pressure in a steam engine.（過去の有名な心理学の理論の一つは、復讐を、人が自分は被害を受けたと感じる状況で生まれる、たまった激しい怒りや憎しみを解き放つ方法だと見ていた。ちょうど、蒸気を逃がすことで蒸気機関の中の圧力を下げられるのと同じように、というわけだ）
+One famous psychological theory of the past viewed it as a way to release the buildup of rage or hatred that occurs in situations where a person feels victimized, just as releasing steam can decrease pressure in a steam engine.（過去の有名な心理学の理論の一つは、ちょうど蒸気を逃がすと蒸気機関の中の圧力を下げられるのと同じように、復讐を、人が自分は被害を受けたと感じる状況で生まれる、たまった激しい怒りや憎しみを解き放つ方法だと見ていた）
 release は「解き放つ、外に出す」、buildup は「たまったもの」、rage は「激しい怒り」、victimized は「被害を受けた」です。この理論は、復讐をすると怒りが外に出て減る、と考えていました。
 続く文を見ます。
-Psychological studies, however, have revealed that aggressive acts associated with revenge can actually leave people with increased levels of anger compared with those who do not attempt to get even.（しかし心理学の研究によって、復讐に関わる攻撃的な行動は、仕返しをしようとしない人と比べて、実際には人々の怒りの度合いを高めたままにすることがあると明らかになった）
+Psychological studies, however, have revealed that aggressive acts associated with revenge can actually leave people with increased levels of anger compared with those who do not attempt to get even.（しかし心理学の研究によって、復讐に関わる攻撃的な行動は、仕返しをしようとしない人と比べて、実際には人々により高い度合いの怒りを残すことがあると明らかになった）
 however（しかし）のあとで、研究の結果は理論と反対だったことが示されています。つまり、古い理論の考えは誤りだったということです。
 本文と選択肢を対にすると、次のようになります。
 本文 release the buildup of rage or hatred（たまった激しい怒りや憎しみを解き放つ）≒ 選択肢 reduce the amount of negative emotion, such as anger（怒りのような負の感情の量を減らす）

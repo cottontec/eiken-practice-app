@@ -1,0 +1,27 @@
+---
+choices: governments wanted their money back | problems could not be fixed | new bugs were found | people saw it differently
+answerText: people saw it differently
+---
+【正解】4 people saw it differently（人々はそれを違ったふうに見ていた）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 governments wanted their money back（政府はお金を返してほしいと思っていた）
+2 problems could not be fixed（問題は解決できなかった）
+3 new bugs were found（新しいバグが見つかった）
+4 people saw it differently（人々はそれを違ったふうに見ていた）
+【考え方】
+まず見るところ：第3段落の空所の前の was seen as a success と、空所のあとの They questioned whether ～
+For supporters of Y2K-bug initiatives, the ongoing viability of major computer systems and essential services was seen as a success; disaster had been avoided.（Y2Kバグへの取り組みを支持する人々にとっては、主要なコンピューターシステムや欠かせないサービスが引き続き機能していることが、成功だと見なされた。大災害は避けられたのである）
+initiative は「（新しい）取り組み」という意味です。空所の前では、取り組みを支持する人々が、結果を「成功」と見ていたことが書かれています。
+They questioned whether the threat had ever been as dangerous as predicted, and they suggested that governments had wasted billions of dollars on unnecessary prevention measures.（彼らは、その脅威がそもそも予測されたほど危険だったのかどうかを疑問視し、各国の政府が不要な予防策に何十億ドルもむだに使ったのではないかとほのめかした）
+空所のあとの They（彼ら）は、空所の Some ～ を指しています。「本当に危険だったのか」「お金のむだだったのでは」と疑う人々で、支持する人々とは違う見方をしています。Some people saw it differently（一部の人々は、それを違ったふうに見ていた）とすると、支持する人々との対比になり、あとの文ともつながるので、4が正解です。
+この問題の型：対比（成功と見る支持者⇔むだだったと疑う人々）／指示語（They ＝ 空所の Some ～）
+【ほかの選択肢】
+1 governments wanted their money back（政府はお金を返してほしいと思っていた）を入れると、あとの They は「政府」を指すことになります。しかし、その They が「政府がお金をむだに使った」とほのめかしているので、話がかみ合いません。お金を返してほしがったという内容も本文にはありません。
+2 problems could not be fixed（問題は解決できなかった）は、空所の少し前の they were generally relatively minor and easy to resolve（おおむね比較的小さく、解決しやすかった）と合いません。また、あとの They questioned ～ の They が「問題」を指すことになり、意味が通りません。
+3 new bugs were found（新しいバグが見つかった）は、本文に書かれていません。また、あとの They questioned ～ の They が「バグ」を指すことになり、「バグが疑問視した」となって意味が通りません。
+【覚えるポイント】
+・see ～ differently：「～を違ったふうに見る、～について別の見方をする」。
+・空所のすぐあとの文が They ～ で始まるときは、They が空所の中のどの語を指すことになるかを確かめると、選択肢をしぼる手がかりになります。
