@@ -1,6 +1,7 @@
 ---
 choices: occupy | polish | illustrate | congratulate
 answerText: illustrate
+reviewed: yes
 ---
 【正解】3 illustrate（～を〔例や図などで〕分かりやすく示す、説明する）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: a series of | the edge of | a member of | the back of
 answerText: a series of
+reviewed: yes
 ---
 【正解】1 a series of（一連の、いくつも続く）
 【和訳】

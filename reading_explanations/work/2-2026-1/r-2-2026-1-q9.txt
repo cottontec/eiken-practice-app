@@ -1,6 +1,7 @@
 ---
 choices: secretly | gently | barely | repeatedly
 answerText: barely
+reviewed: yes
 ---
 【正解】3 barely（かろうじて、やっとのことで）
 【和訳】

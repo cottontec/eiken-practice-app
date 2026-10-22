@@ -1,6 +1,7 @@
 ---
 choices: The ground is perfect for camping. | The staff working there is helpful. | It is located near public transportation. | It is popular among schoolchildren.
 answerText: It is located near public transportation.
+reviewed: yes
 ---
 【正解】3 It is located near public transportation.（公共の交通機関の近くにある。）
 【和訳】

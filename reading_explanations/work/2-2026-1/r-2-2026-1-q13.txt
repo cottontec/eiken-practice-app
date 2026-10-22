@@ -1,6 +1,7 @@
 ---
 choices: take away from | go along with | bring out in | watch out for
 answerText: go along with
+reviewed: yes
 ---
 【正解】2 go along with（～に賛成する、～に従う）
 【和訳】

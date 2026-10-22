@@ -1,6 +1,7 @@
 ---
 choices: gradual | chemical | typical | false
 answerText: typical
+reviewed: yes
 ---
 【正解】3 typical（典型的な、いつもの）
 【和訳】

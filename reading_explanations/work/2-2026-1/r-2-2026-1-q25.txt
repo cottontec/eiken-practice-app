@@ -1,6 +1,7 @@
 ---
 choices: the number of people will likely be appropriate for the space. | it will happen only on weekends this September or October. | only the students from the school will attend this year. | it will last all day until the end of the year.
 answerText: the number of people will likely be appropriate for the space.
+reviewed: yes
 ---
 【正解】1 the number of people will likely be appropriate for the space.（人数は、おそらくその場所にちょうど合うだろう。）
 【和訳】

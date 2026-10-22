@@ -1,6 +1,7 @@
 ---
 choices: hate | foster | divide | pronounce
 answerText: foster
+reviewed: yes
 ---
 【正解】2 foster（～を育てる、はぐくむ）
 【和訳】

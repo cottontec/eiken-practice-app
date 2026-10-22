@@ -1,6 +1,7 @@
 ---
 choices: Alexander finished writing a book about the functions of nature before he went on a journey. | The Humboldt brothers desired to become rich and chose their own study subjects accordingly. | The Humboldts' father wanted to teach them piano himself and took steps to make it happen. | Wilhelm wrote a proposal that has had a great impact on the German university system.
 answerText: Wilhelm wrote a proposal that has had a great impact on the German university system.
+reviewed: yes
 ---
 【正解】4 Wilhelm wrote a proposal that has had a great impact on the German university system.（ヴィルヘルムは、ドイツの大学制度に大きな影響を与えてきた提案書を書いた。）
 【和訳】

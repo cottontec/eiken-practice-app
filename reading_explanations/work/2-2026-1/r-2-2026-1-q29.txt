@@ -1,6 +1,7 @@
 ---
 choices: It developed in similar ways across different cultures and societies. | It reflected both the German cultural background and educational systems. | It was a tool that helped individuals see and understand the world around them. | It was closely related to education and played a role in creating university systems.
 answerText: It was a tool that helped individuals see and understand the world around them.
+reviewed: yes
 ---
 【正解】3 It was a tool that helped individuals see and understand the world around them.（それは、一人一人が身の回りの世界を見て理解するのに役立つ道具だった。）
 【和訳】

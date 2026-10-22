@@ -1,6 +1,7 @@
 ---
 choices: Their childhood provided them with access to knowledge and learning. | Their jobs were flexible enough to allow them a lot of free time for research. | They had a lot of volunteer workers who were willing to work for them. | They worked with teams of several great assistants on each project.
 answerText: Their childhood provided them with access to knowledge and learning.
+reviewed: yes
 ---
 【正解】1 Their childhood provided them with access to knowledge and learning.（子ども時代が、2人に知識や学びに触れる機会を与えた。）
 【和訳】

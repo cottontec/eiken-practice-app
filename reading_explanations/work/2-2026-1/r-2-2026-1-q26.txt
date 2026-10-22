@@ -1,6 +1,7 @@
 ---
 choices: To suggest changing the time of the event to the morning. | To ask if the facility staff can help prepare for the event. | To explain that the school needs more teachers than it has. | To show that visiting her in the office is not too difficult.
 answerText: To show that visiting her in the office is not too difficult.
+reviewed: yes
 ---
 【正解】4 To show that visiting her in the office is not too difficult.（事務所にいる彼女を訪ねるのはあまり難しくないと示すため。）
 【和訳】

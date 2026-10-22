@@ -1,6 +1,7 @@
 ---
 choices: occur | swell | tap | weep
 answerText: weep
+reviewed: yes
 ---
 【正解】4 weep（涙を流して泣く）
 【和訳】

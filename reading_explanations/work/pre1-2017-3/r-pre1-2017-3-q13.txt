@@ -1,0 +1,31 @@
+---
+choices: drain | subscribe | propel | reconstruct
+answerText: reconstruct
+---
+【正解】4 reconstruct（再建する、作り直す）
+【和訳】
+（英文）
+Although many of the bones in Drew's hand were crushed in the accident, his surgeon was able to ［reconstruct］ it. Today, he is able to use it normally, and it looks as if it had never been injured.
+（訳）
+ドリューの手の骨の多くは事故でつぶれてしまいましたが、彼の担当の外科医は、その手を（再建する）ことができました。今では、彼はその手をふつうに使うことができ、まるで一度もけがをしたことがないかのように見えます。
+（選択肢の意味）
+1 drain：（液体を）抜く、流し出す
+2 subscribe：（雑誌などを）定期購読する、申しこむ
+3 propel：前へ進める、推進する
+4 reconstruct：再建する、作り直す
+【考え方】
+まず見るところ：Although ～ were crushed と、2文目の he is able to use it normally
+1文目は Although（～だけれども）で始まっています。
+Although many of the bones in Drew's hand were crushed in the accident（ドリューの手の骨の多くは事故でつぶれたけれども）
+crush は「つぶす、くだく」です。Although があるので、後ろには「つぶれた」と反対の、よい結果が続くと考えられます。surgeon は「外科医（手術をする医者）」で、空所の後ろの it は Drew's hand（ドリューの手）を指しています。
+2文目では、手術の結果が書かれています。
+Today, he is able to use it normally, and it looks as if it had never been injured.（今では、彼はその手をふつうに使うことができ、まるで一度もけがをしたことがないかのように見える）
+つぶれた手が元どおりになったのですから、外科医は手を「作り直した」と分かります。reconstruct は「再建する、作り直す」という意味なので、4が正解です。
+この問題の型：対比（骨がつぶれた⇔ふつうに使える）
+【ほかの選択肢】
+1 drain は「（液体を）抜く」です。「外科医はその手を抜くことができた」となり、2文目の「ふつうに使えて、けがをしたことがないように見える」という結果につながりません。
+2 subscribe は「定期購読する、申しこむ」です。手について使う語ではなく、意味が通りません。
+3 propel は「前へ進める」です。「外科医はその手を前へ進めることができた」となり、意味が通りません。
+【覚えるポイント】
+・reconstruct：「再建する、作り直す」。re-（再び）＋ construct（組み立てる）でできた語です。
+・Although ～（～だけれども）で始まる文では、後ろに前半と反対の内容が来るので、前半が悪い出来事なら、後ろにはそれを打ち消すよい結果が入ると考えるのが手がかりになります。

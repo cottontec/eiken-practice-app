@@ -1,6 +1,7 @@
 ---
 choices: tendency | discrimination | shelter | content
 answerText: tendency
+reviewed: yes
 ---
 【正解】1 tendency（傾向、くせ）
 【和訳】

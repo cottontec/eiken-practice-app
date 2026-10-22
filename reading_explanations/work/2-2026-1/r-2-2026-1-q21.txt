@@ -1,6 +1,7 @@
 ---
 choices: make people feel sleepy and calm | prepare people for escape or defense | stop people from moving their bodies | help people pretend they are not scared
 answerText: prepare people for escape or defense
+reviewed: yes
 ---
 【正解】2 prepare people for escape or defense（人々に、逃げたり身を守ったりする準備をさせる）
 【和訳】

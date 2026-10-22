@@ -1,6 +1,7 @@
 ---
 choices: For a fresh start | On a specific occasion | In case of emergency | As a general rule
 answerText: As a general rule
+reviewed: yes
 ---
 【正解】4 As a general rule（一般的には、原則として）
 【和訳】

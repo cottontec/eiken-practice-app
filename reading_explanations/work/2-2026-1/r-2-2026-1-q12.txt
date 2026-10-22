@@ -1,6 +1,7 @@
 ---
 choices: on the air | at a distance | to his surprise | on his own
 answerText: on his own
+reviewed: yes
 ---
 【正解】4 on his own（自分ひとりで、自力で）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: distinct from | composed of | absent from | threatening to
 answerText: distinct from
+reviewed: yes
 ---
 【正解】1 distinct from（～とはっきり異なる）
 【和訳】

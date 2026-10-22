@@ -137,7 +137,8 @@
   "2-2026-1": {
     "stats": {
       "target": 31,
-      "written": 31
+      "written": 31,
+      "reviewed": 31
     },
     "errors": [],
     "warnings": []

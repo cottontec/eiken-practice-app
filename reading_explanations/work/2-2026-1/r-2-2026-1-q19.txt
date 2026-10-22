@@ -1,6 +1,7 @@
 ---
 choices: many people worked behind the scenes | some children watched quietly from home | almost no children waited to meet him | several students talked about the costumes
 answerText: many people worked behind the scenes
+reviewed: yes
 ---
 【正解】1 many people worked behind the scenes（多くの人々が裏方として働いた）
 【和訳】

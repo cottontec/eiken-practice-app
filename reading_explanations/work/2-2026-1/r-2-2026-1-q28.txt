@@ -1,6 +1,7 @@
 ---
 choices: The money left to him after his mother passed away. | The sales of the book he wrote about the natural world. | An invitation from his brother to travel to new places. | Support given by a group of scientists in South America.
 answerText: The money left to him after his mother passed away.
+reviewed: yes
 ---
 【正解】1 The money left to him after his mother passed away.（母親が亡くなったあとに、彼に残されたお金。）
 【和訳】

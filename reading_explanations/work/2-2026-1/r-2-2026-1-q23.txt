@@ -1,6 +1,7 @@
 ---
 choices: On the other hand | Fortunately | Without this | In particular
 answerText: In particular
+reviewed: yes
 ---
 【正解】4 In particular（特に）
 【和訳】

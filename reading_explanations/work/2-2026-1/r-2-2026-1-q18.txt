@@ -1,6 +1,7 @@
 ---
 choices: a lack of educational resources | a decline in the number of children | the loss of safe school routes | poor cooperation among villagers
 answerText: a lack of educational resources
+reviewed: yes
 ---
 【正解】1 a lack of educational resources（教育のための資源の不足）
 【和訳】

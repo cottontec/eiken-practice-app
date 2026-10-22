@@ -1,6 +1,7 @@
 ---
 choices: branch | globe | scale | trail
 answerText: globe
+reviewed: yes
 ---
 【正解】2 globe（地球儀）
 【和訳】

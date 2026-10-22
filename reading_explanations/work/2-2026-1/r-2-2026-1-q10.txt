@@ -1,6 +1,7 @@
 ---
 choices: frowned | slipped | guessed | crawled
 answerText: frowned
+reviewed: yes
 ---
 【正解】1 frowned（顔をしかめた）
 【和訳】

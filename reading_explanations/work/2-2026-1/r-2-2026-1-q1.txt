@@ -1,6 +1,7 @@
 ---
 choices: lawyer | warrior | surgeon | bride
 answerText: bride
+reviewed: yes
 ---
 【正解】4 bride（花嫁）
 【和訳】

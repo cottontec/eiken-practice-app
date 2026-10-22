@@ -1,6 +1,7 @@
 ---
 choices: To begin with | Unfortunately | In this way | On the other hand
 answerText: In this way
+reviewed: yes
 ---
 【正解】3 In this way（このようにして）
 【和訳】

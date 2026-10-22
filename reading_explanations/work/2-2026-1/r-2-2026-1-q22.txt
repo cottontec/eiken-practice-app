@@ -1,6 +1,7 @@
 ---
 choices: are even fascinated by this feeling | are often afraid of opening their eyes | forget fear soon after it happens | love surprising their friends and family
 answerText: are even fascinated by this feeling
+reviewed: yes
 ---
 【正解】1 are even fascinated by this feeling（この感覚に夢中にさえなる）
 【和訳】

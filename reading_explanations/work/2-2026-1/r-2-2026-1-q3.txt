@@ -1,6 +1,7 @@
 ---
 choices: glory | balance | difficulty | priority
 answerText: difficulty
+reviewed: yes
 ---
 【正解】3 difficulty（困難、苦労）
 【和訳】

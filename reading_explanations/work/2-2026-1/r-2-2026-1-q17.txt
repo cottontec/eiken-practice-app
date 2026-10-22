@@ -1,6 +1,7 @@
 ---
 choices: flip over | lay off | bring about | catch up
 answerText: lay off
+reviewed: yes
 ---
 【正解】2 lay off（～を解雇する）
 【和訳】

@@ -14,7 +14,7 @@ The tax office has ［initiated］ an investigation into the software company's 
 3 initiated：～を開始した、始めた
 4 converted：～を変えた、転換した
 【考え方】
-まず見るところ：空所のあとの an investigation と、2文目の It suspects the company of ～
+まず見るところ：空所のあとの an investigation と、次の文の It suspects the company of ～
 空所のあとには an investigation（調査）が続いています。調査について、税務署（税金を集めたり、調べたりする役所）が何をしたのかを考えます。
 It suspects the company of giving false information on its tax forms.（税務署は、その会社が税金の書類にうその情報を書いたのではないかと疑っている）
 suspect ～ of ... は「～が…したのではないかと疑う」という意味です。会社を疑っているので、税務署が調査を「始めた」と考えると自然です。initiate は「～を開始する」で、initiate an investigation で「調査を開始する」となります。ですから3が正解です。
@@ -22,7 +22,7 @@ suspect ～ of ... は「～が…したのではないかと疑う」という�
 【ほかの選択肢】
 1 demoted は「（人の地位を）下げた」です。「調査を降格させた」となり、意味が通りません。
 2 agonized は「ひどく苦しんだ、悩んだ」です。「税務署は調査を苦しんだ」となり、意味が通りません。
-4 converted は「～を変えた、転換した」です。「調査を変えた」では、会社を疑っているので調査をするという2文目とうまくつながりません。
+4 converted は「～を変えた、転換した」です。「調査を変えた」では、会社を疑っているので調査をするという次の文とうまくつながりません。
 【覚えるポイント】
 ・initiate：「～を開始する、始める」。start や begin よりかたい言い方で、initiate an investigation（調査を開始する）のように使います。
 ・空所のあとの名詞（an investigation）と、次の文の理由（suspects＝疑っている）を合わせて読むことが、動詞を選ぶ手がかりになります。

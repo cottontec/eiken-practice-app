@@ -1,6 +1,7 @@
 ---
 choices: took them to Berlin to learn languages through their travels. | chose to send them to a famous school for wealthy families. | arranged private lessons with academic experts for them. | had their own parents decide what the brothers should study.
 answerText: arranged private lessons with academic experts for them.
+reviewed: yes
 ---
 【正解】3 arranged private lessons with academic experts for them.（2人のために、学問の専門家による個人授業を手配した。）
 【和訳】

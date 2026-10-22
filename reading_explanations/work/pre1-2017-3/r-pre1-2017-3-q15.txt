@@ -1,0 +1,29 @@
+---
+choices: currency | custody | collapse | configuration
+answerText: custody
+---
+【正解】2 custody（拘留、身柄の拘束）
+【和訳】
+（英文）
+The man was arrested and taken into police ［custody］ after trying to rob a convenience store.
+（訳）
+その男は、コンビニエンスストアに強盗に入ろうとしたあと、逮捕されて警察に（身柄を拘束されました）。
+（選択肢の意味）
+1 currency：通貨（その国で使われるお金）
+2 custody：拘留（こうりゅう：つかまえた人を閉じこめておくこと）、保護・管理
+3 collapse：崩壊、倒れること
+4 configuration：配置、構成
+【考え方】
+まず見るところ：was arrested and taken into police (　)
+文の後半から、何があったのかを確かめます。
+after trying to rob a convenience store（コンビニエンスストアに強盗に入ろうとしたあと）
+rob は「（店などから）物やお金をうばう」です。そのため男は arrested（逮捕された）と書かれています。
+空所の前は taken into police（警察の～の中に連れて行かれた）です。逮捕された人は、警察に連れて行かれ、自由に動けないように閉じこめられます。take ～ into police custody で「～の身柄を警察が拘束する」という決まった言い方になるので、2が正解です。
+この問題の型：熟語・決まった形（taken into police custody）
+【ほかの選択肢】
+1 currency は「通貨」です。「警察の通貨の中に連れて行かれた」となり、意味が通りません。
+3 collapse は「崩壊、倒れること」です。「警察の崩壊の中に連れて行かれた」では、逮捕されたという話とつながりません。
+4 configuration は「配置、構成」です。「警察の配置の中に連れて行かれた」となり、意味が通りません。
+【覚えるポイント】
+・take ～ into police custody：「～の身柄を警察が拘束する」。この文では受け身の was taken into police custody（身柄を拘束された）の形です。
+・arrested（逮捕された）と and でいっしょに並んでいる語句は、逮捕にともなう出来事を表していることが多いので、警察に関わる決まった言い方を思い出すのが手がかりになります。
