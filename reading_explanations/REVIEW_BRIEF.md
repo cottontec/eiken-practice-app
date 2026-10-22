@@ -5,6 +5,7 @@
 
 ## 手順
 
+0. 先に正答抜きデータ（`/tmp/claude-0/-home-user-eiken-practice-app/37990840-d70a-5962-afc7-2daeb13275d4/scratchpad/blind/<batchId>.blind.json`）と画像だけで全問を自分で解き、答えをメモしてから、正式データ・作成担当のファイル・_writer_notes.md を開く（独立に解くため）。
 1. `$SRC/batches/<batchId>.source.json` と画像（`$SRC/` + images[].key）を開く。抽出テキストがあっても画像を正とする。
 2. `$WORK/_writer_notes.md`（作成担当の申し送り。特に「要確認」）を読み、そこに挙がった点は重点的に確かめる。そのうえで `$WORK/` の各 `<questionId>.txt` と `<unitId>.passage.txt` を、1問ずつ次の観点で点検する。
    - 正解の一意性：自分でも解き、正解が1つに決まるか。他の選択肢が確実に誤りといえる根拠が書かれているか。

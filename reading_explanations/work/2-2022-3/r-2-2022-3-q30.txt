@@ -1,0 +1,29 @@
+---
+choices: the river was too dangerous for boats to travel on. | a lower walkway had been destroyed by a sudden flood. | there were rocks in the valley that made it difficult to walk. | people needed it to get to a newly constructed dam.
+answerText: people needed it to get to a newly constructed dam.
+---
+【正解】4 people needed it to get to a newly constructed dam.（人々が、新しく造られたダムへ行くのにそれを必要としていた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：グアダロルセ川の谷の壁の高い所に歩道が造られたのは、～からである。
+1 その川は流れが危険すぎて、船で進むことができなかった
+2 低い所にあった歩道が、突然の洪水で壊されてしまっていた
+3 谷には、歩くのを難しくする岩があった
+4 人々が、新しく造られたダムへ行くのにそれ（歩道）を必要としていた
+【考え方】
+歩道が造られたいきさつは、第1段落に書かれています。
+At the beginning of the 20th century, engineers decided that the fast-flowing river was a good place for a dam that could be used to generate electricity.（20世紀の初め、技術者たちは、流れの速いこの川が、発電に使えるダムを造るのによい場所だと判断した）
+A one-meter-wide concrete walkway was built high up on the walls of the valley for people to reach the dam from a nearby town.（人々が近くの町からダムまで行けるように、幅1メートルのコンクリートの歩道が、谷の壁の高い所に造られた）
+for people to reach the dam は「人々がダムに行き着くために」という意味で、歩道を造った目的を表しています。
+本文と選択肢を対にすると、次のようになります。
+本文 for people to reach the dam（人々がダムに行き着くために）＝ 選択肢 people needed it to get to a ... dam（人々がダムへ行くのにそれを必要とした）
+また、ダムは20世紀の初めに造ることが決まったものなので、選択肢の newly constructed（新しく造られた）とも合います。ですから4が正解です。
+【ほかの選択肢】
+1 本文には the fast-flowing river（流れの速い川）とありますが、船が通れないほど危険だったという話はありません。流れが速いことは、ダムを造るのによい場所だと判断された理由として書かれています。
+2 低い所にあった別の歩道や、突然の洪水の話は、本文にありません。
+3 本文には high rock walls（高い岩の壁）とありますが、谷の岩が歩くのを難しくしていたという話はありません。歩道が高い所に造られた理由として書かれているのは、ダムへ行くためということです。
+【覚えるポイント】
+・for ＋人＋ to ～：「（人）が～するために」。ここでは歩道を造った目的を表しています。
+・generate electricity：「電気を起こす、発電する」。

@@ -1,0 +1,28 @@
+---
+choices: People have to wear special hiking boots when they use it. | A roof has been added to prevent damage caused by rain. | The surface of the walkway is made from a new material. | The number of people who can hike on it has been limited.
+answerText: The number of people who can hike on it has been limited.
+---
+【正解】4 The number of people who can hike on it has been limited.（そこをハイキングできる人の数が制限されている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：新しい歩道が守られている方法の1つは何ですか。
+1 人々は、そこを使うときに特別なハイキング用のブーツをはかなければならない。
+2 雨による傷みを防ぐために、屋根が付けられた。
+3 歩道の表面は、新しい素材で作られている。
+4 そこをハイキングできる人の数が制限されている。
+【考え方】
+設問の is being protected は「（今）守られている」という意味です。新しい歩道を守るための方法は、第4段落の最後に書かれています。
+To keep El Caminito del Rey in good condition for as long as possible, hikers must now buy tickets to use it, and only 300,000 tickets are available each year.（エル・カミニート・デル・レイをできるだけ長くよい状態に保つため、現在、ハイキングをする人はこの歩道を使うのにチケットを買わなければならず、チケットは毎年30万枚しか用意されていない）
+To keep ～ in good condition は「～をよい状態に保つために」という意味で、そのための方法として、チケットを買う決まりと、チケットの枚数が決まっていることが挙げられています。only 300,000 tickets（30万枚だけ）なので、歩ける人の数には上限があります。
+本文と選択肢を対にすると、次のようになります。
+本文 hikers must now buy tickets to use it, and only 300,000 tickets are available each year（チケットを買わなければならず、チケットは毎年30万枚しか用意されていない）＝ 選択肢 The number of people who can hike on it has been limited（そこをハイキングできる人の数が制限されている）
+ですから4が正解です。
+【ほかの選択肢】
+1 特別なハイキング用のブーツをはかなければならないという話は、本文にありません。
+2 屋根を付けたという話も、雨による傷みの話も、本文にありません。
+3 本文には rebuilding the walkway with wood and steel（木と鋼鉄で歩道を造り直した）とありますが、それが「新しい素材」だとは書かれていません。また、歩道をよい状態に保つための方法として本文に書かれているのは、チケットの決まりのほうです。
+【覚えるポイント】
+・keep ～ in good condition：「～をよい状態に保つ」。
+・only ＋数：「～だけ、～しか…ない」。数に上限があることを表します。

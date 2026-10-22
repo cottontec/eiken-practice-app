@@ -1,0 +1,28 @@
+---
+choices: The sound level cannot be changed with the remote control. | The remote control uses up its batteries in just a few hours. | The buttons on the TV do not seem to be working. | The TV sometimes turns itself off unexpectedly.
+answerText: The sound level cannot be changed with the remote control.
+---
+【正解】1 The sound level cannot be changed with the remote control.（リモコンで音の大きさを変えることができない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：マイケル・グリーンは、テレビにどんな問題があると言っていますか。
+1 リモコンで音の大きさを変えることができない。
+2 リモコンがほんの数時間で電池を使い切ってしまう。
+3 テレビ本体のボタンが動いていないようだ。
+4 テレビがときどき、思いがけず勝手に電源が切れる。
+【考え方】
+第1段落の最後に I noticed that there was a problem（問題があることに気づいた）とあり、続く第2段落の初めに、その問題の中身が書かれています。
+I was unable to adjust the volume of the TV with the remote control.（リモコンでテレビの音量を調節することができなかった）
+be unable to ～ は「～できない」、adjust は「調節する」、volume は「音量」です。
+本文と選択肢を対にすると、次のようになります。
+本文 was unable to adjust the volume of the TV with the remote control ＝ 選択肢 The sound level cannot be changed with the remote control
+the volume（音量）が the sound level（音の大きさ）に、adjust（調節する）が change（変える）に言いかえられています。with the remote control（リモコンで）は同じです。1が正解です。
+【ほかの選択肢】
+2 本文には I tried replacing the batteries in the remote control, but this did not fix the problem.（リモコンの電池を交換してみたが、問題は直らなかった）とあります。電池を交換したことは書かれていますが、電池がすぐになくなるという話はありません。
+3 本文には Although I can adjust the volume with the buttons on the TV（テレビ本体のボタンで音量を調節することはできるが）とあります。本体のボタンは使えているので、本文と反対の内容です。
+4 テレビの電源が勝手に切れるという話は、本文のどこにもありません。
+【覚えるポイント】
+・adjust the volume：「音量を調節する」。
+・be unable to ～：「～できない」。
