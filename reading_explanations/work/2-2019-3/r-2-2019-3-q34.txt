@@ -1,0 +1,28 @@
+---
+choices: The organs in the body have more functions than scientists originally believed. | The brains of adults are able to change more than previous researchers thought. | Some children’s experiences prevent their brains from growing over time. | Scientists are better at learning new information than other people.
+answerText: The brains of adults are able to change more than previous researchers thought.
+---
+【正解】2 The brains of adults are able to change more than previous researchers thought.（大人の脳は、以前の研究者たちが考えていたよりも変化することができる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：最近の研究は、何を示し始めていますか。
+1 体の器官には、科学者たちがもともと考えていたよりも多くの働きがある。
+2 大人の脳は、以前の研究者たちが考えていたよりも変化することができる。
+3 子どものころの経験の中には、時間とともに脳が成長するのをさまたげるものがある。
+4 科学者たちは、ほかの人々よりも新しい情報を学ぶのが得意だ。
+【考え方】
+設問の recent research（最近の研究）と同じ言い方が、第1段落にあります。
+In the past, researchers used to think that only children's brains could change easily, but recent research suggests that adult brains are more flexible than originally thought.（以前、研究者たちは子どもの脳だけが簡単に変化できると考えていたが、最近の研究は、大人の脳がもともと考えられていたよりも柔軟であることを示している）
+used to ～ は「以前は～していた」という意味です。この文は、「以前の考え」と「最近の研究」を but（しかし）で比べています。以前は「簡単に変化できるのは子どもの脳だけ」と考えられていましたが、最近の研究では「大人の脳も、考えられていたより変化しやすい」と分かってきた、ということです。flexible はふつう「柔らかい、柔軟な」という意味ですが、この段落は the ability of brains to change over time（脳が時間とともに変化する能力）についての話なので、ここでは「変化しやすい」ことを表しています。
+本文と選択肢を対にすると、次のようになります。
+本文 adult brains are more flexible than originally thought ＝ 選択肢 The brains of adults are able to change more than previous researchers thought
+originally thought（もともと考えられていた）が、previous researchers thought（以前の研究者たちが考えていた）に言いかえられています。2が正解です。
+【ほかの選択肢】
+1 本文では、脳が one of the most mysterious organs in the body（体の中で最も謎の多い器官の1つ）と書かれているだけです。体の器官に、考えられていたより多くの働きがあるという話はありません。originally（もともと）という同じ語が使われていますが、本文で比べているのは脳の変化しやすさです。
+3 子どものころの経験が脳の成長をさまたげるという話は、本文にありません。本文では反対に、以前は子どもの脳は簡単に変化できると考えられていた、と書かれています。
+4 科学者がほかの人々より新しい情報を学ぶのが得意だという話は、本文にありません。
+【覚えるポイント】
+・used to ～：「以前は～していた（今はちがう）」。
+・more ～ than originally thought：「もともと考えられていたよりも～」。何と比べているのかを確かめましょう。

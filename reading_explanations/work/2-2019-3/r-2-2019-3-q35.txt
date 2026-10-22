@@ -1,0 +1,30 @@
+---
+choices: They examined adults to find out if learning to read changed their brains. | They opened a school to help Indian children learn to read and write. | They spent six months creating a special brain activity to improve schools in India. | They created a survey to find out what learning activities adults should participate in.
+answerText: They examined adults to find out if learning to read changed their brains.
+---
+【正解】1 They examined adults to find out if learning to read changed their brains.（彼らは、読み方を学ぶことで脳が変化するかどうかを確かめるために、大人たちを調べた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：国際的な科学者チームは何をしましたか。
+1 彼らは、読み方を学ぶことで脳が変化するかどうかを確かめるために、大人たちを調べた。
+2 彼らは、インドの子どもたちが読み書きを学ぶのを助けるために、学校を開いた。
+3 彼らは、インドの学校をよりよくするために、6か月かけて特別な脳の活動を作り出した。
+4 彼らは、大人がどんな学習活動に参加すべきかを知るために、アンケート調査を作った。
+【考え方】
+設問の an international team of scientists（国際的な科学者チーム）と同じ言い方が、第2段落の始めにあります。
+・The international team of scientists who carried out the study wanted to see if learning something like reading could affect the physical structure of an adult brain.（その研究を行った国際的な科学者チームは、読むことのような何かを学ぶことによって、大人の脳の物理的な構造が影響を受けることがあるかどうかを確かめたかった）
+・They chose 30 adults in India who had never learned to read or write.（チームは、読み書きを一度も学んだことのないインドの大人30人を選んだ）
+・The scientists scanned the brains of all the participants before they began and after they finished.（科学者たちは参加者全員の脳を、始める前と終わったあとにスキャンした）
+see if ～ は「～かどうかを確かめる」という意味です。本文と選択肢を対にすると、次のようになります。
+本文 wanted to see if learning something like reading could affect the physical structure of an adult brain ＝ 選択肢 to find out if learning to read changed their brains
+本文 scanned the brains of all the participants → 選択肢 They examined adults
+see if（～かどうか確かめる）が find out if（～かどうかを知る）に、affect the physical structure（物理的な構造に影響を与える）が changed（変化させた）に言いかえられています。また、参加者の脳をスキャンしたことが、examined adults（大人たちを調べた）とまとめられています。1が正解です。
+【ほかの選択肢】
+2 研究の参加者は children（子どもたち）ではなく adults（大人たち）です。また、学校を開いたとは書かれていません。
+3 本文の six months（6か月）は、21人が読み方を教わった期間です。特別な脳の活動を作り出したとも、インドの学校をよりよくするためだとも書かれていません。
+4 科学者たちが行ったのは脳のスキャンで、survey（アンケート調査）を作ったとは書かれていません。大人がどんな学習活動に参加すべきかを調べる研究でもありません。
+【覚えるポイント】
+・see if ～ / find out if ～：「～かどうかを確かめる、知る」。if はここでは「もし」ではなく「～かどうか」という意味です。
+・affect：「～に影響を与える」。

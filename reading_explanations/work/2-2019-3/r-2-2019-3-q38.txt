@@ -1,0 +1,28 @@
+---
+choices: A group of 30 adults in India spent six months teaching at a school. | Dyslexia is a condition that prevents children from being able to go to school. | One function of deep areas of the brain is to control movements of the body. | Scientists believe that it is difficult for children’s brains to change.
+answerText: One function of deep areas of the brain is to control movements of the body.
+---
+【正解】3 One function of deep areas of the brain is to control movements of the body.（脳の深い部分の働きの1つは、体の動きを調節することである。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：次の記述のうち、正しいものはどれですか。
+1 インドの大人30人のグループが、6か月間、学校で教えた。
+2 ディスレクシアは、子どもたちが学校に行けなくなる状態である。
+3 脳の深い部分の働きの1つは、体の動きを調節することである。
+4 科学者たちは、子どもの脳は変化しにくいと考えている。
+【考え方】
+この設問は本文全体から正しいものを選ぶ問題なので、選択肢を1つずつ本文と照らし合わせます。
+選択肢3は、第3段落の次の文と対応しています。
+These deep areas of the brain control the body's physical movements and also sort the information that comes in through the senses.（脳のこうした深い部分は、体の動きを調節し、また感覚を通して入ってくる情報を整理している）
+本文と選択肢を対にすると、次のようになります。
+本文 These deep areas of the brain control the body's physical movements ＝ 選択肢 One function of deep areas of the brain is to control movements of the body
+本文では、深い部分の働きとして「体の動きを調節する」と「感覚からの情報を整理する」の2つが挙げられています。選択肢の One function（働きの1つ）は、このうちの1つ目を取り上げたものです。3が正解です。
+【ほかの選択肢】
+1 インドの大人30人は、研究のために選ばれた、読み書きを一度も学んだことのない人たちです。そのうち21人が6か月間読み方を教わったのであって、学校で教えたのではありません。教える側と教わる側が逆になっています。
+2 本文では、ディスレクシアは a condition in which people have difficulty learning to read（読むことを学ぶのが難しい状態）と説明されています。学校に行けなくなる状態だとは書かれていません。
+4 本文では、In the past, researchers used to think that only children's brains could change easily（以前、研究者たちは子どもの脳だけが簡単に変化できると考えていた）とあります。子どもの脳は変化しやすいと考えられていたので、選択肢は本文と反対の内容です。
+【覚えるポイント】
+・One function of ～ is to ...：「～の働きの1つは…することだ」。
+・「次のうち正しいものはどれか」という問題では、選択肢の語句を本文で探し、人物・数・内容が合っているかを1つずつ確かめます。
