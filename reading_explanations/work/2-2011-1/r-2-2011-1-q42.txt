@@ -1,0 +1,28 @@
+---
+choices: By replacing the DNA in an animal's egg with the DNA of another animal. | By raising many different kinds of animals to be used for collecting DNA. | By gradually changing DNA to create a new animal. | By using electricity to create DNA in a laboratory.
+answerText: By replacing the DNA in an animal's egg with the DNA of another animal.
+---
+【正解】1 By replacing the DNA in an animal's egg with the DNA of another animal.（ある動物の卵子の中のDNAを、別の動物のDNAと入れかえることによって。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：科学者たちが動物のクローンをつくることができた方法の1つは何か。
+1 ある動物の卵子の中のDNAを、別の動物のDNAと入れかえることによって。
+2 DNAを集めるのに使うために、多くの種類の動物を育てることによって。
+3 新しい動物をつくるために、DNAを少しずつ変えることによって。
+4 研究室で電気を使ってDNAをつくることによって。
+【考え方】
+クローンのつくり方は、第2段落に順番に書かれています。DNA は、生き物の体のつくりを決める情報が入っているもののことです。
+First, an egg is taken out of a female animal and the DNA is removed.（まず、メスの動物から卵子が取り出され、そのDNAが取り除かれる）。Then the DNA of another animal is put into the egg.（次に、別の動物のDNAがその卵子の中に入れられる）。egg はここでは「卵子（赤ちゃんのもとになる、メスの体の中にある細胞）」です。
+そのあと、卵子に電気が流されて育ち始め、母親の体に戻されて赤ちゃんに育ちます。段落の最後に Scientists have so far managed to create a number of animal clones in this way.（科学者たちはこれまでに、この方法でいくつもの動物のクローンをつくることに成功してきた）とあり、設問の「つくることができた方法」がこれだと分かります。
+本文と選択肢は次のように対応しています。
+本文 the DNA is removed. Then the DNA of another animal is put into the egg.（DNAが取り除かれ、次に別の動物のDNAがその卵子に入れられる）＝ 選択肢 replacing the DNA in an animal's egg with the DNA of another animal（ある動物の卵子の中のDNAを別の動物のDNAと入れかえる）
+replace A with B は「AをBと入れかえる」です。したがって1が正解です。
+【ほかの選択肢】
+2 第4段落でドレッサーが集めているのは、世界中の動物のDNAを含む小さな皮膚のかけらです。DNAを集めるために多くの動物を育てるという話は本文にありません。
+3 DNAを少しずつ変えて新しい動物をつくるという話は本文にありません。本文の方法は、別の動物のDNAをそのまま卵子に入れて、その動物のクローンをつくるものです。
+4 本文で電気が使われるのは、Electricity is passed through the egg, causing it to start growing.（卵子に電気が流され、それによって卵子は育ち始める）という場面です。電気でDNAをつくるわけではないので、誤りです。
+【覚えるポイント】
+・replace A with B：「AをBと入れかえる」。
+・in this way：「この方法で」。前に説明されたやり方を指します。

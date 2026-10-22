@@ -1,0 +1,27 @@
+---
+choices: They disliked using dinosaurs for entertainment. | They opposed the idea of creating fake dinosaurs. | They doubted that dinosaurs could ever be cloned. | They thought the dinosaurs in it were the wrong size.
+answerText: They doubted that dinosaurs could ever be cloned.
+---
+【正解】3 They doubted that dinosaurs could ever be cloned.（恐竜がクローンでつくられることなどありうるのか疑った。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：一部の科学者たちは、なぜ『ジュラシック・パーク』を批判したのか。
+1 恐竜を娯楽に使うことがいやだった。
+2 偽物の恐竜をつくるという考えに反対した。
+3 恐竜がクローンでつくられることなどありうるのか疑った。
+4 映画の中の恐竜は大きさがまちがっていると考えた。
+【考え方】
+第1段落の2文目と3文目を見ます。The movie was about a theme park where people could see cloned dinosaurs, but it was criticized by some scientists as unrealistic.（その映画は、クローンでつくられた恐竜を見ることのできるテーマパークの話だったが、一部の科学者たちからは現実的でないと批判された）。clone（クローン）は、ある生き物とまったく同じ遺伝子（体のつくりを決める情報）をもつ生き物のことで、cloned dinosaurs は「クローンでつくられた恐竜」です。unrealistic は「現実的でない」という意味です。
+続く文で、批判の中身が書かれています。Dinosaurs, they said, could never be brought back to life by cloning.（恐竜をクローン技術でよみがえらせることは決してできない、と彼らは言った）。bring ～ back to life は「～を生き返らせる、よみがえらせる」です。
+つまり、科学者たちは「クローンで恐竜をよみがえらせることはできない」と考えたので、映画を現実的でないと批判したのです。本文と選択肢は次のように対応しています。
+本文 Dinosaurs ... could never be brought back to life by cloning（恐竜はクローン技術で決してよみがえらせることはできない）＝ 選択肢 They doubted that dinosaurs could ever be cloned（恐竜がクローンでつくられることなどありうるのか疑った）
+doubt は「疑う、～ではないと思う」という意味です。したがって3が正解です。
+【ほかの選択肢】
+1 恐竜を娯楽に使うことをいやがったという話は本文にありません。科学者たちが批判したのは、映画の内容が現実的でないという点です。
+2 本文の科学者たちは、恐竜をクローンでつくることは「できない」と言っています。つくるという考えに反対した、つまり「つくるべきではない」と言ったわけではありません。
+4 映画の恐竜の大きさについては、本文に何も書かれていません。
+【覚えるポイント】
+・criticize ～ as …：「～を…だとして批判する」。was criticized as unrealistic で「現実的でないと批判された」。
+・bring ～ back to life：「～を生き返らせる、よみがえらせる」。

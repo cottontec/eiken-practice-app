@@ -1,0 +1,28 @@
+---
+choices: They are concerned about the effect of clones on other animals. | They worry that cloning will only be able to help a few species. | They think that it would be better to protect the places where animals live. | They believe that storing animal DNA for the future will be too expensive.
+answerText: They think that it would be better to protect the places where animals live.
+---
+【正解】3 They think that it would be better to protect the places where animals live.（動物がすんでいる場所を守るほうがよいと考えている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：一部の専門家がクローンに反対しているのはなぜか。
+1 クローンがほかの動物に与える影響を心配している。
+2 クローン技術は少しの種しか救えないだろうと心配している。
+3 動物がすんでいる場所を守るほうがよいと考えている。
+4 将来のために動物のDNAを保存するのは、費用がかかりすぎるだろうと考えている。
+【考え方】
+クローンに反対する専門家の話は、第4段落の後半にあります。Not all experts agree with the idea of creating clones.（すべての専門家がクローンをつくるという考えに賛成しているわけではない）。not all ～ は「すべてが～というわけではない」という意味です。
+その理由が次の文に書かれています。Some of them say that it is more important to prevent damage to the environment.（専門家の中には、環境が損なわれるのを防ぐことのほうが大切だと言う人もいる）。environment は「環境（生き物をとりまく自然のようす）」です。
+さらに In this way, animals could continue to live where they are.（そうすれば、動物は今いる場所で生き続けることができるだろう）と続きます。つまり、反対する専門家は、クローンをつくるよりも、動物がすんでいる自然の環境を守るべきだと考えているのです。
+本文と選択肢は次のように対応しています。
+本文 it is more important to prevent damage to the environment（環境が損なわれるのを防ぐことのほうが大切だ）＝ 選択肢 it would be better to protect the places where animals live（動物がすんでいる場所を守るほうがよい）
+本文 animals could continue to live where they are（動物は今いる場所で生き続けられる）も、選択肢の the places where animals live（動物がすんでいる場所）とつながっています。したがって3が正解です。
+【ほかの選択肢】
+1 クローンがほかの動物に与える影響を心配しているという話は本文にありません。
+2 クローン技術が少しの種しか救えないという心配は本文にありません。ドレッサーは何百もの種のDNAを集めていると書かれています。
+4 DNAの保存にかかる費用については、本文に何も書かれていません。
+【覚えるポイント】
+・not all ～：「すべてが～というわけではない」。一部だけを否定する言い方です。
+・prevent damage to ～：「～が損なわれるのを防ぐ」。
