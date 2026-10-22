@@ -1,0 +1,27 @@
+---
+choices: On average | On the other hand | In return | In particular
+answerText: In particular
+---
+【正解】4 In particular（とくに）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 On average（平均して）
+2 On the other hand（一方で、他方では）
+3 In return（お返しに）
+4 In particular（とくに）
+【考え方】
+空所は第1段落の (21), they can prevent people from being able to sleep properly. です。they は前の文の artificial lights（人工の光）を指し、prevent ＋人＋ from -ing は「人が～するのをさまたげる」という意味です。「人工の光は、人々がきちんと眠れないようにしてしまうことがある」となります。
+空所の前の文と比べます。
+・前の文：artificial lights can cause a variety of health problems（人工の光はさまざまな健康上の問題を引き起こしうる）
+・空所の文：they can prevent people from being able to sleep properly（人々がきちんと眠れないようにしうる）
+前の文は「さまざまな健康問題」と広く言っています。空所の文は、その中の1つである「眠れない」という問題を取り出しています。そして、このあと第1段落の終わりまで、なぜ眠れなくなるのかの説明が続きます。
+このように、いくつかあるものの中から1つを取り上げて話すときに使うのが In particular（とくに）です。よって4が正解です。
+【ほかの選択肢】
+1 On average は「平均して」です。平均の数や量の話は出てこないので、つながりません。
+2 On the other hand は「一方で」と、前と反対の面や別の面を示すときに使います。眠れないことは前の文の「健康上の問題」の1つなので、反対の内容ではありません。
+3 In return は「お返しに、その代わりに」です。何かをしてもらったお返しという話ではないので、合いません。
+【覚えるポイント】
+・In particular：「とくに」。広い話のあとで、その中の1つを取り上げるときに使います。
+・prevent ＋人＋ from -ing：「人が～するのをさまたげる」。
