@@ -9,10 +9,10 @@
 
 ## 要確認
 - r-pre1-2024-1-q1：Raoul を「ラウール」とした（冊子に読みなし）。
-- r-pre1-2024-1-q5：Jaina を「ジェイナ」とした（「ジャイナ」とも読める）。
-- r-pre1-2024-1-q14：Caleb を「ケイレブ」とした（「カレブ」と書かれることもある）。
+- r-pre1-2024-1-q5：Jaina を「ジェイナ」とした（「ジャイナ」とも読める）。→（ジャイナとも）を併記済み
+- r-pre1-2024-1-q14：Caleb を「ケイレブ」とした（「カレブ」と書かれることもある）。→（カレブとも）を併記済み
 - r-pre1-2024-1-q22：sudden savant syndrome を「突発性サヴァン症候群」とした（日本語では「後天性サヴァン症候群」と書かれることもある）。q23・q24も同じ本文。
 - r-pre1-2024-1-q25：Toxoplasma gondii を「トキソプラズマ・ゴンディ」、parasite を「寄生生物」とした。q26・q27も同じ本文。
 - r-pre1-2024-1-q25：本文全訳の has more in common behaviorally with humans in prisons を「刑務所の人間とのほうが共通点が多い」とした。直前の「何世代もがともに暮らす人間の家族」との対比（while）で比べる相手は明らかなので、相手は補わず訳したままにした。人の目で最終確認してよい。
-- r-pre1-2024-1-q28：Matrix を「マトリックス」、Le Modulor を「ル・モデュロール」（日本語では「モデュロール」が一般的）、Jagonari Women’s Educational Resource Centre を「ジャゴナリ女性教育資料センター」とした。q29～q31も同じ本文。
+- r-pre1-2024-1-q28：Matrix を「マトリックス」、Le Modulor を「ル・モデュロール」（日本語では「モデュロール」が一般的）、Jagonari Women’s Educational Resource Centre を「ジャゴナリ女性教育資料センター」とした。q29～q31も同じ本文。→（モデュロールとも）を併記済み
 - r-pre1-2024-1-q29：正解4（beneficial in some ways but problematic in other ways）は、本文の did not negatively impact（悪い影響を与えなかった）と完全には同じ意味でない。ほかの3つが本文にないため4が唯一の正解になる、という扱いで【考え方】に「全く同じ意味ではないが両面があった点が対応する」と明記済み。正式解答は4で、自力解答も4。

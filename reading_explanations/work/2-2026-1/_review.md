@@ -11,7 +11,7 @@
 
 ## 要確認
 - r-2-2026-1-q5：校名 Billings Academy を「ビリングズ・アカデミー」とした（冊子に読みなし）
-- r-2-2026-1-q18：Bibliobandido を「ビブリオバンディード」とした（スペイン語風の作り名。英語読みなら「ビブリオバンディド」に近い）。村名 El Pital を「エル・ピタル」とした。q19・q20 も同じ全訳
+- r-2-2026-1-q18：Bibliobandido を「ビブリオバンディード」とした（スペイン語風の作り名。英語読みなら「ビブリオバンディド」に近い）。村名 El Pital を「エル・ピタル」とした。q19・q20 も同じ全訳　→（ビブリオバンディドとも）を併記済み
 - r-2-2026-1-q20：La Dama Violeta を「ラ・ダマ・ビオレタ」とした（スペイン語読み。冊子に読みなし）
 - r-2-2026-1-q24：校名 Polar Village Elementary School を「ポーラー・ビレッジ小学校」、athletic event を「運動会」、main office を「本社」と訳した（athletic event は「スポーツ行事」とも訳せ、main office は「本部」「本店」とも訳せる）。q25・q26 も同じ全訳
 - r-2-2026-1-q27：Wilhelm von Humboldt を「ヴィルヘルム・フォン・フンボルト」、Prussia を「プロイセン」（どちらも日本語で定着した呼び名）、the Ministry of the Interior を「内務省」、education director を「教育局長」とした。q28～q31 も同じ全訳

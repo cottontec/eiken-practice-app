@@ -12,9 +12,9 @@
 - r-pre1-2021-2-q40：【考え方】の「政府が出していたことが読み取れます」は本文の it appears ～ に対して強いため「考えられます」に直した（軽微）。【ほかの選択肢】3の「本文と内容がちがいます」を、本文が宗教に触れていない点をふまえて「本文の内容と合いません。…any citizen …とされ、仏教を受け入れた人に限るとは書かれていない」に具体的に書き直した（軽微）
 
 ## 要確認
-- r-pre1-2021-2-q38：Jayavarman VII を「ジャヤーヴァルマン7世」とした表記（日本の教科書で定着した形。「ジャヤバルマン」とも書かれる）。q39～q41、全訳も同じ。Cham people「チャム人」、Khmer「クメール」、Angkor「アンコール」。冊子に読みはない
+- r-pre1-2021-2-q38：Jayavarman VII を「ジャヤーヴァルマン7世」とした表記（日本の教科書で定着した形。「ジャヤバルマン」とも書かれる）。q39～q41、全訳も同じ。Cham people「チャム人」、Khmer「クメール」、Angkor「アンコール」。冊子に読みはない→（ジャヤバルマンとも）を併記済み
 - r-pre1-2021-2-q38：正解2の other leaders in the region と本文 his allies の対応は、本文に味方の素性が書かれていないため推論（同じ段落の alliances of powerful local warlords から）として説明した。ほかの3択は本文にないか本文と食い違うため、正解は一意（正式解答と一致）
 - r-pre1-2021-2-q26：300 miles に（約480キロメートル）を補った（300マイル＝約483キロメートル）。原文にない換算だが、数字の換算のみで意味は変えていない。q27・q28 の全訳も同じ
-- r-pre1-2021-2-q35：History of King Richard III を『リチャード3世史』、Shakespeare を「シェークスピア」、Thomas More を「トマス・モア」とした（「シェイクスピア」「リチャード三世史」とも書かれる）。brother は年上か年下か不明のため「兄（弟）」。q36・q37 も同じ
-- r-pre1-2021-2-q37：Cardinal Vincent Nichols, archbishop of Westminster を「ウェストミンスター大司教のヴィンセント・ニコルズ枢機卿」とした（「ビンセント」とも）
-- r-pre1-2021-2-q26：Nineveh「ニネベ」（「ニネヴェ」とも）、Sennacherib「センナケリブ」、Nebuchadnezzar II「ネブカドネザル2世」、Stephanie Dalley「ステファニー・ダリー」。q27・q28 も同じ
+- r-pre1-2021-2-q35：History of King Richard III を『リチャード3世史』、Shakespeare を「シェークスピア」、Thomas More を「トマス・モア」とした（「シェイクスピア」「リチャード三世史」とも書かれる）。brother は年上か年下か不明のため「兄（弟）」。q36・q37 も同じ→（シェイクスピアとも）（リチャード三世史とも）を併記済み
+- r-pre1-2021-2-q37：Cardinal Vincent Nichols, archbishop of Westminster を「ウェストミンスター大司教のヴィンセント・ニコルズ枢機卿」とした（「ビンセント」とも）→（ビンセントとも）を併記済み
+- r-pre1-2021-2-q26：Nineveh「ニネベ」（「ニネヴェ」とも）、Sennacherib「センナケリブ」、Nebuchadnezzar II「ネブカドネザル2世」、Stephanie Dalley「ステファニー・ダリー」。q27・q28 も同じ→（ニネヴェとも）を併記済み

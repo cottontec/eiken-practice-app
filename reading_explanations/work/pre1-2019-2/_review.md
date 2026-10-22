@@ -10,6 +10,6 @@
 - 全41問：reviewed: yes を付与。画像と選択肢・本文を照合し、choices／answerText に誤りはなかった（記録のみ）
 
 ## 要確認
-- r-pre1-2019-2-q36：Katrina Virts を「カトリーナ・バーツ」とした（「ヴァーツ」とも書ける）。q35・q37 も同じ全訳を使う。
+- r-pre1-2019-2-q36：Katrina Virts を「カトリーナ・バーツ」とした（「ヴァーツ」とも書ける）。q35・q37 も同じ全訳を使う。→（ヴァーツとも）を併記済み
 - r-pre1-2019-2-q33：書名 In Search of Dracula は日本語の正式な書名を確かめられず、『In Search of Dracula（ドラキュラを探して）』とした。q32・q34 も同じ全訳を使う。
 - r-pre1-2019-2-q3：the president を、nation's economy の話なので「大統領」とした（会社の社長の可能性は低いと判断。答えには影響しない）。

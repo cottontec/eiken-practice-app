@@ -21,7 +21,7 @@
 
 ## 要確認
 - r-pre1-2022-1-q8：more affluent customers は「より多くの裕福な客」と読んだ。「より裕福な客」（比較）と読む余地もあるが、比べる相手が本文にないため前者にした。正解4には影響しない
-- r-pre1-2022-1-q18：Gaspar を「ガスパー」とした（「ガスパール」とも書く。冊子に読みなし）
+- r-pre1-2022-1-q18：Gaspar を「ガスパー」とした（「ガスパール」とも書く。冊子に読みなし）→（ガスパールとも）を併記済み
 - r-pre1-2022-1-q26：The Peter Principle を日本語で定着した「ピーターの法則」とした（q26～q28共通）
 - r-pre1-2022-1-q32：honey fungus を「ナラタケ」、toadstools を「毒キノコ」、fruiting bodies を「子実体」とした（q32～q34共通。「ナラタケ」は日本語の一般名で、オレゴンの菌の種の和名とは限らない可能性がある）
 - r-pre1-2022-1-q35：Damanhur を「ダマヌール」、Foundation for Intentional Communities を「意図的共同体財団」、back-to-the-land movement を「『土地へ帰れ』運動」、constitution を「憲章」とした（q35～q37共通）。Damanhur の読みは冊子にない
