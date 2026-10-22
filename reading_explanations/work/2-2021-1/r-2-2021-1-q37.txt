@@ -1,0 +1,29 @@
+---
+choices: By helping to upgrade 6,000 similar apartment buildings. | By using money that would have been spent on bills. | By carrying out many of the improvements themselves. | By working for the European Union to pay for half of the cost.
+answerText: By using money that would have been spent on bills.
+---
+【正解】2 By using money that would have been spent on bills.（本来なら料金に使われていたはずのお金を使うことによって。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：アパートの住民は、どのようにしてプロジェクトの費用を払うのを手伝っていますか。
+1 似たようなアパートの建物6,000棟を改良するのを手伝うことによって。
+2 本来なら料金に使われていたはずのお金を使うことによって。
+3 改良工事の多くを自分たちで行うことによって。
+4 費用の半分を払うために、欧州連合のために働くことによって。
+【考え方】
+費用の払い方は、第4段落に書かれています。
+The EU paid for half of the cost, and the rest was paid for by residents using money borrowed from banks.（EUが費用の半分を払い、残りは住民が銀行から借りたお金で払った）
+The residents are spending less than they used to on energy bills, so they have extra money to repay the loans.（住民はエネルギーの料金に使うお金が以前より少なくなっているので、借りたお金を返すための余分なお金がある）
+used to ～ は「以前は～していた」、repay the loans は「借りたお金を返す」という意味です。住民は銀行から借りたお金で費用の残りを払い、その借りたお金を、エネルギー料金が安くなった分の余ったお金で返している、という流れです。
+本文と選択肢を対にすると、次のようになります。
+本文 spending less than they used to on energy bills, so they have extra money to repay the loans ＝ 選択肢 using money that would have been spent on bills
+選択肢の would have been spent は「（もし工事をしていなければ）使われていただろう」という意味です。工事の前なら料金として払っていたはずのお金を、借金の返済に回している、ということです。
+【ほかの選択肢】
+1 6,000棟について書かれているのは The Estonian government hopes to upgrade some of the other 6,000 old apartment buildings（エストニア政府はほかの6,000棟の古いアパートのいくつかを改良したいと考えている）です。これは政府の希望であって、住民が手伝っているのではありません。人物も内容も違います。
+3 住民が自分たちで改良工事をしたという話は、本文にありません。住民がしたのは、お金を借りて費用を払うことです。
+4 費用の半分を払ったのはEU自身です（The EU paid for half of the cost）。住民がEUのために働いて半分を払ったわけではありません。
+【覚えるポイント】
+・used to ～：「以前は～していた」。spend less than they used to で「以前より使うお金が少ない」。
+・would have ＋過去分詞：「（もし～だったら）…していただろう」と、実際には起きなかったことを表します。

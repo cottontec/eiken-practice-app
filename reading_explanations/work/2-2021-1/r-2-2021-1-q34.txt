@@ -1,0 +1,28 @@
+---
+choices: there were empty apartment buildings in many parts of the Soviet Union. | Estonia had lost its independence and become part of the Soviet Union. | most people in Europe were living in temporary apartment buildings. | many people in northern Europe had left their countries to find new homes.
+answerText: Estonia had lost its independence and become part of the Soviet Union.
+---
+【正解】2 Estonia had lost its independence and become part of the Soviet Union.（エストニアは独立を失い、ソビエト連邦の一部になっていた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：第二次世界大戦の終わりまでに、
+1 ソビエト連邦の多くの地域に、空き家のアパートの建物があった。
+2 エストニアは独立を失い、ソビエト連邦の一部になっていた。
+3 ヨーロッパのほとんどの人々が、一時的なアパートの建物に住んでいた。
+4 北ヨーロッパの多くの人々が、新しい住まいを見つけるために自分の国を離れていた。
+【考え方】
+設問の By the end of World War II（第二次世界大戦の終わりまでに）と同じ表現が、第1段落の2文目にあります。
+Before World War II, it was an independent country, but by the end of the war, it was part of the Soviet Union.（第二次世界大戦の前、エストニアは独立した国だったが、戦争が終わるまでには、ソビエト連邦の一部になっていた）
+it はエストニアを指しています。independent は「独立した（ほかの国に支配されていない）」という意味です。戦争の前は独立国だったのに、終わるころにはソビエト連邦の一部になっていた、つまり独立を失っていたということです。
+本文と選択肢を対にすると、次のようになります。
+本文 Before World War II, it was an independent country, but ... it was part of the Soviet Union ＝ 選択肢 Estonia had lost its independence and become part of the Soviet Union
+「独立国だったが、ソビエト連邦の一部になった」が、「独立を失い、ソビエト連邦の一部になっていた」と言いかえられています。independence は independent の名詞形で「独立」という意味です。
+【ほかの選択肢】
+1 本文には there was a shortage of houses in many parts of the Soviet Union（ソビエト連邦の多くの地域で住宅が不足していた）とあります。空き家のアパートがあったとはどこにも書かれておらず、むしろ家が足りなかったと書かれています。
+3 本文に出てくる temporary homes（一時的な住まい）は、ソビエト連邦の政府が建てたアパートのことです。「ヨーロッパのほとんどの人々」がそこに住んでいたとは書かれていません。言い過ぎです。
+4 北ヨーロッパの人々が新しい住まいを求めて国を離れたという話は、本文にありません。
+【覚えるポイント】
+・independent：「独立した」。名詞は independence（独立）。lose one's independence で「独立を失う」。
+・by the end of ～：「～の終わりまでに」。設問と同じ語句を本文で探すと、根拠の文が見つけやすくなります。

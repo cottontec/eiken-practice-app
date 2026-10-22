@@ -1,0 +1,27 @@
+---
+choices: traveling and learning about farming | living and working on big ships | studying to become a great chef | writing about interesting cultures
+answerText: traveling and learning about farming
+---
+【正解】1 traveling and learning about farming（旅をして農業について学ぶこと）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 traveling and learning about farming（旅をして農業について学ぶこと）
+2 living and working on big ships（大きな船の上で暮らして働くこと）
+3 studying to become a great chef（すばらしい料理人になるために勉強すること）
+4 writing about interesting cultures（興味深い文化について書くこと）
+【考え方】
+空所は第2段落の He had spent much of his life (22). です。spend ＋時間＋ -ing で「～して時間を過ごす」なので、「彼は人生の多くを（22）して過ごしていた」という意味になります。He は自給自足の考えを広めたジョン・シーモアです。
+すぐあとに For example（たとえば）と続くので、その後の具体例をまとめたものが空所に入ると考えます。
+・he went to South Africa and managed a sheep farm（南アフリカに行って羊の牧場を経営した）
+・local people who taught him how to find food in the wild（彼に自然の中で食べ物を見つける方法を教えた地元の人々）
+・He also made a journey from Europe to India, observing how different agricultural communities lived.（ヨーロッパからインドへ旅をし、さまざまな農業の共同体の暮らし方を観察した）
+外国へ出かけたこと、ヨーロッパからインドへ旅したことは「旅をすること」に当たります。羊の牧場の経営や、農業の共同体の観察は「農業について学ぶこと」に当たります。ですから、1が正解です。
+【ほかの選択肢】
+2 「大きな船の上で暮らして働くこと」は本文に書かれていません。シーモアは旅をしましたが、船で暮らしたとも、船で働いたとも書かれていません。
+3 「すばらしい料理人になるために勉強すること」は本文にありません。食べ物を見つける方法を教わったという話はありますが、それは自然の中で食料を手に入れる方法であり、料理人を目指したわけではありません。
+4 「興味深い文化について書くこと」は、第3段落に本を出版したという話があるため、まぎらわしい選択肢です。しかし、その本は作物の育て方やミツバチの飼い方を説明したもので、文化について書いた話ではありません。また、空所のあとの例は、旅と農業の経験です。
+【覚えるポイント】
+・spend ＋時間＋ -ing：「～して（時間）を過ごす」。
+・For example のあとの具体例をまとめると、その前の空所の内容が分かることが多いです。

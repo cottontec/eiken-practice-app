@@ -1,0 +1,29 @@
+---
+choices: To teach people in Tartu how to make their homes environmentally friendly. | To improve old apartment buildings so that they are more energy-efficient. | To provide financial help for poor people in a city in the south of Estonia. | To reduce the amount of energy used to build houses in the European Union.
+answerText: To improve old apartment buildings so that they are more energy-efficient.
+---
+【正解】2 To improve old apartment buildings so that they are more energy-efficient.（古いアパートの建物を改良して、エネルギー効率をよくすること。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：スマートエンシティ・プロジェクトの目的の1つは何ですか。
+1 タルトゥの人々に、自分の家を環境に優しくする方法を教えること。
+2 古いアパートの建物を改良して、エネルギー効率をよくすること。
+3 エストニア南部の都市の、貧しい人々にお金の援助をすること。
+4 欧州連合で家を建てるのに使われるエネルギーの量を減らすこと。
+【考え方】
+SmartEnCity という名前は、第2段落に出てきます。その段落の内容を確かめます。
+Estonia, however, is turning its apartment buildings into environmentally friendly homes that use energy efficiently.（しかし、エストニアは、自国のアパートの建物を、エネルギーを効率よく使う、環境に優しい住まいに変えつつある）
+The aim is not only to reduce the amount of energy consumed by the apartments, but also to turn them into modern, good-looking homes.（目的は、アパートで消費されるエネルギーの量を減らすことだけでなく、アパートを現代的で見た目のよい住まいに変えることでもある）
+aim は「目的」、not only A but also B は「AだけでなくBも」という意味です。目的の1つ目は「アパートで使うエネルギーを減らすこと」です。第1段落で古いアパートの建物を取り壊す国が多いと述べたあとに、however（しかし）と続いているので、ここでのアパートもソビエト連邦時代の古い建物のことだと分かります。
+本文と選択肢を対にすると、次のようになります。
+本文 turning its apartment buildings into ... homes that use energy efficiently / reduce the amount of energy consumed by the apartments ＝ 選択肢 improve old apartment buildings so that they are more energy-efficient
+energy-efficient は「エネルギー効率がよい（少ないエネルギーでうまく働く）」という意味で、本文の use energy efficiently（エネルギーを効率よく使う）を1語の形容詞にしたものです。
+【ほかの選択肢】
+1 プロジェクトでは、アパートの建物そのものを改修しています。タルトゥの人々に方法を「教える」とは書かれていません。
+3 本文の financial help（お金の援助）は、エストニアがEUから受け取ったものです。貧しい人々にお金の援助をすることが目的とは書かれていません。「南部の都市」（タルトゥの説明）と financial help という語がどちらも本文に出てくるので、まぎらわしい選択肢です。
+4 減らそうとしているのは「アパートで消費されるエネルギー」で、「家を建てるのに使われるエネルギー」ではありません。また、プロジェクトの場所はEU全体ではなくエストニアです。
+【覚えるポイント】
+・not only A but also B：「AだけでなくBも」。目的や特徴が2つ並べられていることを示します。
+・energy-efficient：「エネルギー効率のよい」。use energy efficiently（エネルギーを効率よく使う）と同じ意味です。

@@ -1,0 +1,29 @@
+---
+choices: The president of Bolivia has decided to pursue the case against the wishes of his country's citizens. | It has not been officially determined whether the inhabitants of the area in question are Bolivian or Chilean. | A decision in favor of Bolivia could encourage other countries to make similar claims. | The people of the Atacama Desert have broad support in their campaign for independence.
+answerText: A decision in favor of Bolivia could encourage other countries to make similar claims.
+---
+【正解】3 A decision in favor of Bolivia could encourage other countries to make similar claims.（ボリビアに有利な判決が出ると、ほかの国々が同じような主張をするよううながしかねない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ボリビアが国際司法裁判所で勝訴するのを難しくするかもしれないことの一つは何か。
+1 ボリビアの大統領は、自国民の希望に反して、訴えを進めることを決めた。
+2 問題になっている地域の住民がボリビア人なのかチリ人なのかが、正式には決められていない。
+3 ボリビアに有利な判決が出ると、ほかの国々が同じような主張をするよううながしかねない。
+4 アタカマ砂漠の人々は、独立を求める運動で幅広い支持を得ている。
+【考え方】
+国際司法裁判所（国どうしの争いを裁く国際的な裁判所）の話が出てくるのは第4段落です。モラレス大統領がこの問題を裁判所に持ちこむと約束したものの、the international community is unlikely to side against Chile（国際社会がチリに反対する側につくことはなさそうだ）と書かれています。side against ～ は「～に反対する側につく」という意味です。その理由として、あとに2つのことが挙げられています。
+1つ目は、At the local level, the Atacama region's inhabitants say they are Chilean.（地元のレベルでは、アタカマ地方の住民は自分たちはチリ人だと言っている）です。
+2つ目は、More generally, if Bolivia were to win its case, other long-settled border disputes around the world could be revived.（もっと広く見ると、もしボリビアが裁判に勝つようなことになれば、世界中の、とうの昔に決着したほかの国境争いが再び燃え上がるかもしれない）です。if ～ were to do は「もし（仮に）～するようなことがあれば」、revive は「よみがえらせる、再び起こす」という意味です。
+2つ目の内容を選択肢3と対にすると、次のようになります。
+・本文 if Bolivia were to win its case（ボリビアが裁判に勝てば）＝ 選択肢 A decision in favor of Bolivia（ボリビアに有利な判決）
+・本文 other long-settled border disputes ... could be revived（とうに決着したほかの国境争いが再び起こりうる）＝ 選択肢 could encourage other countries to make similar claims（ほかの国々に同じような主張をするようううながしかねない）
+ほかの国の争いまで再燃させてしまうおそれがあるので、裁判所はボリビアの勝ちを認めにくいのです。よって3が正解です。
+【ほかの選択肢】
+1 本文と食い違っています。本文には、ボリビア人にとって getting back the Atacama Desert is seen as a necessity（アタカマ砂漠を取り戻すことはどうしても必要なことだと考えられている）とあり、国民も取り戻すことを望んでいます。大統領が国民の希望に反しているわけではありません。
+2 本文には、住民がどちらの国の人かが「正式に決まっていない」とは書かれていません。本文にあるのは、住民自身が say they are Chilean（自分たちはチリ人だと言っている）ということだけです。
+4 本文には、アタカマ砂漠の人々が独立を求める運動をしているという話はありません。住民は自分たちはチリ人だと言っているのであり、独立を求めているわけではありません。
+【覚えるポイント】
+・in favor of ～：「～に有利な、～を支持して」。a decision in favor of Bolivia で「ボリビアに有利な判決」。
+・if ～ were to do：「もし（仮に）～するようなことがあれば」。実際には起こりそうにないことを仮に考えるときの言い方です。
