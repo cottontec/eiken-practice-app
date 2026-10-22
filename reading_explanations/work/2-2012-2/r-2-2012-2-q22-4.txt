@@ -9,7 +9,7 @@ A: This neighborhood isn't as safe as it used to be, honey. Last night, somebody
 B: That's horrible. We need to make sure our doors are always locked.
 並べ方：4 broke → 3 into → 5 Mr. Smith's house → 2 and → 1 took（2番目は3、4番目は2）
 【和訳】
-A：ねえ、このあたりは前ほど安全じゃなくなったね。昨夜、だれかがスミスさんの家に押し入って、スミスさんの新しいテレビを持っていったんだよ。
+A：ねえ、このあたりは前ほど安全じゃなくなったね。昨夜、だれかがスミスさんの家に押し入って、新しいテレビを持っていったんだよ。
 B：ひどいね。うちのドアにいつも必ずかぎがかかっているようにしないといけないね。
 【考え方】
 まず、空所の後ろを見ます。空所のすぐあとは his new television（彼の新しいテレビ）です。テレビは「持っていかれた物」なので、空所の最後には「持っていった」という意味の 1 took が来ると分かります。

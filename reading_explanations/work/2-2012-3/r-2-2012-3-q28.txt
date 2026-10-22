@@ -1,0 +1,24 @@
+---
+choices: Before | Despite | Due to | And with
+answerText: Despite
+---
+【正解】2 Despite（～にもかかわらず）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Before：～の前に
+2 Despite：～にもかかわらず
+3 Due to：～のために、～が原因で
+4 And with：そして～とともに
+【考え方】
+空所は第3段落の初めの (　) this, some experts question whether sailing ships will replace fossil-fuel ships.（このこと（　）、帆船が化石燃料の船に取って代わるかどうかを疑問に思う専門家もいる）という文にあります。
+this が指すのは、すぐ前の第2段落の最後の文です。そこには、B9エナジー社の船が The ship carries a much bigger cargo than a traditional sailing ship, and it is cheaper to run than a fossil-fuel ship.（その船は昔ながらの帆船よりもはるかに大きな積み荷を運べ、化石燃料の船よりも安く動かせる）と、よい点が書かれていました。
+ところが空所のある文では、専門家が「帆船が化石燃料の船に取って代わるか」を疑っています。「よい点がある」のに「疑う人もいる」という、反対向きの内容がつながっています。このような関係を表すのが Despite ～（～にもかかわらず）です。Despite this で「こうしたことにもかかわらず」となります。正解は2です。
+【ほかの選択肢】
+1 Before は「～の前に」です。Before this では「このことの前に、専門家は疑問に思っている」となり、時の順番を述べる意味になって、前の段落とのつながりが分かりません。
+3 Due to は「～のために、～が原因で」です。Due to this とすると「帆船が安く大量に運べるので、専門家は疑問に思っている」となり、よい点が疑う理由になってしまって、筋が通りません。
+4 And with は「そして～とともに」です。前の内容に付け加える言い方なので、よい点と疑問という反対向きの内容をつなぐことができません。
+【覚えるポイント】
+・despite ～：「～にもかかわらず」。in spite of ～ と同じ意味です。
+・the latter：「後者（2つのうちあとのほう）」。ここでは fossil-fuel ships を指しています。

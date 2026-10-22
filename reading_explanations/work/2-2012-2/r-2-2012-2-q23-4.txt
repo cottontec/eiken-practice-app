@@ -1,0 +1,21 @@
+---
+choices: avoid | slowly | to | having | so as
+answerText: avoid
+order: 2 5 3 1 4
+---
+【正解】1 avoid（この問題の4番目）
+【完成文】
+When it started to snow, Steve drove his car very ( slowly so as to avoid having ) an accident. He wanted to get to work safely.
+並べ方：2 slowly → 5 so as → 3 to → 1 avoid → 4 having（2番目は5、4番目は1）
+【和訳】
+雪が降り始めたとき、スティーブは事故を起こさないように、とてもゆっくり車を運転しました。彼は安全に職場に着きたかったのです。
+【考え方】
+空所の前の very（とても）のあとには、運転の様子を表す 2 slowly を置きます。雪が降り始めたので、とてもゆっくり運転したという流れです。
+そのあとは「何のためにゆっくり運転したのか」という目的を表す部分です。5 so as と 3 to を続けて so as to ～（～するために）とします。
+to のあとには動詞の原形（形を変えないもとの形）が来ます。選択肢のうち、to のすぐあとに置ける動詞の原形は 1 avoid（避ける）だけです。ですから、to の次の4番目は avoid になります。
+最後に残った 4 having を avoid のあとに置きます。avoid は、あとに動作を続けるときに avoid to have ではなく avoid having のように -ing の形をとる動詞です。avoid having an accident で「事故を起こすのを避ける」となります。
+so as to having avoid のように to のあとに having を置くと、to のあとに動詞の原形が来ないうえ、avoid が後ろに取り残されてしまうので、正しい文になりません。
+したがって4番目は1 avoid です。
+【覚えるポイント】
+・avoid -ing：「～するのを避ける」。avoid のあとは to ～ ではなく -ing の形にします。
+・so as to ～：「～するために」。

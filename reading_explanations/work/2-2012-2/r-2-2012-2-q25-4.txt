@@ -1,0 +1,22 @@
+---
+choices: than | known | to | have | better
+answerText: than
+order: 4 2 5 1 3
+---
+【正解】1 than（この問題の4番目）
+【完成文】
+A: Gloria, what happened to your new bag? It looks terrible.
+B: Well, my dog chewed on it last night. I should ( have known better than to ) leave it on the sofa.
+並べ方：4 have → 2 known → 5 better → 1 than → 3 to（2番目は2、4番目は1）
+【和訳】
+A：グロリア、新しいバッグ、どうしたの？ひどいことになっているね。
+B：それが、昨夜うちの犬がかんだんだ。ソファーの上に置いておくなんてこと、しなければよかったよ。
+【考え方】
+Bは、ソファーの上に置いておいたバッグを犬にかまれてしまいました。ですから、Bの2文目は「置いておくべきではなかった」という、過去のことをくやむ内容になると考えられます。
+should のあとに 4 have と 2 known を続けて、should have known（分かっているべきだった）とします。should have ＋ 過去分詞（動詞を「～してしまった」などの意味にする形）は「～すべきだった（のに、しなかった）」という意味です。
+残りは 5 better、1 than、3 to です。know better than to ～ は「～しないだけの分別がある」という決まった言い方なので、better の次の4番目には比べる相手を示す than が来ます。better（よりよく）と than（～よりも）はいつも better than の順で組になります。そして than のあとに 3 to を置き、空所のあとの leave とつなげて to leave とします。
+than と to の順番を入れかえて better to than leave とすると、to のあとに動詞の原形（形を変えないもとの形）が来ず、than のあとも意味がつながらないので、正しい文になりません。
+したがって4番目は1 than です。
+【覚えるポイント】
+・should have known better than to ～：「～しないだけの分別をもつべきだった」、つまり「～しなければよかった」。
+・chew on ～：「～をかむ、かじる」。
