@@ -1,0 +1,30 @@
+---
+choices: do their own research | suddenly stop using them | believe the medicines are safe | more closely follow doctors' advice
+answerText: believe the medicines are safe
+---
+【正解】3 believe the medicines are safe（その薬は安全だと信じる）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 do their own research（自分で調べる）
+2 suddenly stop using them（それらを使うのを急にやめる）
+3 believe the medicines are safe（その薬は安全だと信じる）
+4 more closely follow doctors' advice（医師の助言により忠実に従う）
+【考え方】
+まず見るところ：第2段落の空所の前の such effects are generally not reported と、空所のあとの In fact, ～ see no reason to even tell their doctors
+空所の前の文は次のとおりです。
+The scientists say such effects are generally not reported in the societies where the medicines are commonly used.（科学者たちによると、そのような影響は、それらの薬が一般的に使われている社会では、ふつう報告されていない）
+such effects（そのような影響）は、その前に書かれた「臓器に害を与える」「ほかの薬と組み合わせると有害になる」という悪い影響を指します。
+空所のある文は This leads patients to ( 27 ).（このことによって、患者は（　）ようになる）です。This は、悪い影響が報告されていないことを指します。悪い影響を知らされていなければ、患者はその薬に危険はないと思うと考えられます。
+さらに、空所のあとの文は次のとおりです。
+In fact, the majority of these people see no reason to even tell their doctors they are using the medicines（実際、こうした人々の大多数は、その薬を使っていることを医師に伝える理由さえないと考えている）
+In fact（実際）は、前の内容を具体的に裏づけるときに使います。医師に伝える必要さえないと思っているのは、薬を安全だと信じているからだと考えられます。ですから3が正解です。
+この問題の型：因果（悪い影響が報告されない→安全だと信じる）／指示語（This ＝ 悪い影響が報告されていないこと）
+【ほかの選択肢】
+1 「自分で調べる」は、空所のあとの文とつながりません。あとの文には、患者が医師に伝える理由さえないと考えていることが書かれているだけで、自分で調べるという話は出てきません。
+2 「それらを使うのを急にやめる」は、あとの文と合いません。あとの文の they are using the medicines（その薬を使っている）から、患者は薬を使い続けていることが分かります。
+4 「医師の助言により忠実に従う」は、あとの文と合いません。患者の大多数は、薬を使っていることを医師に伝える理由さえないと考えているので、医師の助言に忠実に従うという流れにはなりません。
+【覚えるポイント】
+・This leads ～ to ...：「このことによって～は…するようになる」。This が指す内容（ここでは「悪い影響が報告されていないこと」）から、どんな結果になるかを考えます。
+・空所のあとに In fact（実際）が続くときは、そのあとの文が空所の内容を具体的に示していることが多いので、両方を合わせて読むと手がかりになります。

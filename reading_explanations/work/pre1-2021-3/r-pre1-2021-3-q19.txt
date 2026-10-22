@@ -1,0 +1,29 @@
+---
+choices: summoned | hammered | mingled | trembled
+answerText: summoned
+---
+【正解】1 summoned（呼び出した）
+【和訳】
+（英文）
+The queen ［summoned］ her adviser to the palace, but she became extremely angry when he took a long time to arrive.
+（訳）
+女王は相談役を宮殿に（呼び出した）が、彼が到着するまでに長い時間がかかると、ひどく腹を立てた。
+（選択肢の意味）
+1 summoned：（summon「呼び出す、呼び寄せる」の過去形）呼び出した
+2 hammered：（hammer「ハンマーでたたく」の過去形）ハンマーでたたいた
+3 mingled：（mingle「混ぜる、人と交わる」の過去形）混ぜた、人と交わった
+4 trembled：（tremble「震える」の過去形）震えた
+【考え方】
+まず見るところ：空所の後ろの her adviser to the palace と、but 以下の he took a long time to arrive
+空所の後ろは「相談役を宮殿に」となっています。adviser は「相談役（意見を言って助ける人）」です。
+but のあとを見ると、次のように書かれています。
+she became extremely angry when he took a long time to arrive（彼が到着するまでに長い時間がかかると、彼女はひどく腹を立てた）
+相談役が「到着する」のを女王が待っていたのですから、女王は相談役を宮殿に来させようとしたと分かります。summon A to B は「AをBに呼び出す」なので、1が正解です。
+この問題の型：語の意味・組み合わせ（summon ＋ 人 ＋ to ＋ 場所）
+【ほかの選択肢】
+2 hammered は「ハンマーでたたいた」です。「相談役を宮殿へハンマーでたたいた」では意味が通らず、相談役が到着するのを待つ話にもなりません。
+3 mingled は「混ぜた、人と交わった」です。「相談役を宮殿に混ぜた」では意味が通りません。
+4 trembled は「震えた」です。trembled はあとに「だれを」を置かない使い方をする語なので、「相談役を震えた」という形にならず、意味が通りません。
+【覚えるポイント】
+・summon A to B：「AをBに呼び出す」。adviser：「相談役」。take a long time to ～：「～するのに長い時間がかかる」。
+・後半に arrive（到着する）があるときは、前半でその人を「来させた、呼んだ」という内容が書かれている手がかりになります。

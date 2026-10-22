@@ -1,0 +1,35 @@
+---
+choices: The style of the service's bikes was not popular with the public, despite it being far better than that of the previous bike-sharing service. | The service was unable to compete with better-known companies that decided to introduce their own bike-sharing services in the city. | A new program introduced by the city caused the service to become too expensive to keep running for the company that was operating it. | While the public was positive about the service, the company that ran it was criticized by the city for the environmental damage it caused.
+answerText: A new program introduced by the city caused the service to become too expensive to keep running for the company that was operating it.
+---
+【正解】3 A new program introduced by the city caused the service to become too expensive to keep running for the company that was operating it.（市が導入した新しい制度のせいで、そのサービスは、運営していた会社にとって費用がかかりすぎて続けられなくなった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What do we learn about the service provided by Spin?（スピンが提供したサービスについて分かることは何か。）
+1 The style of the service's bikes was not popular with the public, despite it being far better than that of the previous bike-sharing service.（そのサービスの自転車の型は、以前の自転車シェアリングサービスのものよりずっとよかったにもかかわらず、一般の人々には人気がなかった。）
+2 The service was unable to compete with better-known companies that decided to introduce their own bike-sharing services in the city.（そのサービスは、市内で自社の自転車シェアリングサービスを始めることにした、より有名な会社と競争することができなかった。）
+3 A new program introduced by the city caused the service to become too expensive to keep running for the company that was operating it.（市が導入した新しい制度のせいで、そのサービスは、運営していた会社にとって費用がかかりすぎて続けられなくなった。）
+4 While the public was positive about the service, the company that ran it was criticized by the city for the environmental damage it caused.（一般の人々はそのサービスに好意的だったが、運営していた会社は、引き起こした環境被害について市から批判された。）
+【考え方】
+まず見るところ：第3段落の The mandatory costs for the companies, such as permit fees and individual bike fees, proved to be too much.
+第3段落では、スピンが成功したあとのことが書かれています。
+When Spin became successful, similar services started up in Seattle, leading the city to introduce a permanent bike-sharing program in 2018.（スピンが成功すると、似たようなサービスがシアトルで始まり、そのことから市は2018年に恒久的な自転車シェアリング制度を導入した）
+permanent は「恒久的な（ずっと続く）」です。この制度に加わることは、事業を続けたい会社にとって義務になりました。
+The mandatory costs for the companies, such as permit fees and individual bike fees, proved to be too much.（許可料や自転車1台ごとの料金など、会社が義務として払わなければならない費用は、負担が大きすぎることが分かった）
+Two of the firms, including Spin, withdrew their services and left the city immediately following the program's introduction（スピンを含む2つの会社は、制度が導入された直後にサービスをやめてシアトルから撤退した）
+mandatory は「義務的な」、withdraw は「引き上げる、やめる」です。
+本文と選択肢3を対にすると、次のようになります。
+本文 a permanent bike-sharing program（恒久的な自転車シェアリング制度）＝ 選択肢 A new program introduced by the city（市が導入した新しい制度）
+本文 The mandatory costs ～ proved to be too much（義務的な費用は負担が大きすぎた）＝ 選択肢 too expensive（費用がかかりすぎる）
+本文 Spin withdrew their services and left the city（スピンはサービスをやめて撤退した）＝ 選択肢 to keep running（続けられなくなった）
+ですから3が正解です。
+この問題の型：言いかえ（proved to be too much ＝ too expensive）／因果（制度の費用→撤退）
+【ほかの選択肢】
+1 本文にありません。スピンの自転車の型が人気がなかったとは書かれていません。本文では、スピンは The successful introduction（導入に成功した）、Spin became successful（スピンは成功した）と、成功したサービスとして書かれています。
+2 本文にありません。似たサービスが始まったことは書かれていますが、それらがより有名な会社だったとも、スピンが競争に負けたとも書かれていません。スピンが撤退したのは、制度の費用が大きすぎたためです。
+4 本文にありません。市がスピンを環境被害で批判したという話は出てきません。また、本文で a positive move for riders（利用者にとってよい動き）とされているのは、市の制度のことで、スピンのサービスのことではありません。
+【覚えるポイント】
+・mandatory：「義務的な、必ずしなければならない」。mandatory costs で「義務として払わなければならない費用」です。
+・選択肢の a new program（新しい制度）のような語は、本文の a permanent bike-sharing program のように別の言い方で書かれていることが多いので、だれが何をしたのかを本文と1つずつ対にして確かめると手がかりになります。

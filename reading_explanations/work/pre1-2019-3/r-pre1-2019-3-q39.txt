@@ -1,0 +1,32 @@
+---
+choices: They could limit the harm done by free radicals made by the body, but they had little effect on free radicals that came from external sources. | Other researchers' claims that they were made naturally by the body in quantities sufficient to improve health could not be proved. | Large amounts of them were needed to avoid the cell damage and disease that result from the presence of too many free radicals in the body. | Obtaining them from food sources such as fruits and vegetables could actually have a negative effect on a person's health.
+answerText: Large amounts of them were needed to avoid the cell damage and disease that result from the presence of too many free radicals in the body.
+---
+【正解】3 Large amounts of them were needed to avoid the cell damage and disease that result from the presence of too many free radicals in the body.（体の中にフリーラジカルが多すぎることから生じる細胞の損傷や病気を避けるには、抗酸化物質が大量に必要だ。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What did Pauling believe about antioxidants?（ポーリングは抗酸化物質についてどう信じていたか。）
+1 They could limit the harm done by free radicals made by the body, but they had little effect on free radicals that came from external sources.（抗酸化物質は、体が作るフリーラジカルによる害はおさえられるが、外部から来たフリーラジカルにはほとんど効果がない。）
+2 Other researchers' claims that they were made naturally by the body in quantities sufficient to improve health could not be proved.（抗酸化物質は健康をよくするのに十分な量が体内で自然に作られる、というほかの研究者たちの主張は証明できなかった。）
+3 Large amounts of them were needed to avoid the cell damage and disease that result from the presence of too many free radicals in the body.（体の中にフリーラジカルが多すぎることから生じる細胞の損傷や病気を避けるには、抗酸化物質が大量に必要だ。）
+4 Obtaining them from food sources such as fruits and vegetables could actually have a negative effect on a person's health.（果物や野菜のような食べ物から抗酸化物質をとることは、実は人の健康に悪い影響を与えうる。）
+【考え方】
+まず見るところ：第2段落の最後の Pauling had the idea that, since antioxidants can lessen the damage caused by free radicals, increasing antioxidant levels with supplements could prevent illness.
+When there are more free radicals than antioxidants in the body, an imbalance called oxidative stress occurs, which can lead to cancer and other diseases.（体の中でフリーラジカルが抗酸化物質より多いと、酸化ストレスと呼ばれる不つり合いが起こり、それががんやほかの病気につながることがある）
+Pauling had the idea that, since antioxidants can lessen the damage caused by free radicals, increasing antioxidant levels with supplements could prevent illness.（ポーリングは、抗酸化物質はフリーラジカルによる損傷を減らすことができるのだから、サプリメントで抗酸化物質の量を増やせば病気を防げるだろう、という考えを持っていた）
+lessen は「減らす」、levels は「量、度合い」という意味です。ポーリングは「フリーラジカルが多すぎると病気になる→抗酸化物質の量を増やせば防げる」と考えていました。
+また第1段落には、ポーリングが high doses of vitamin C（大量のビタミンC）で風邪が治ると信じ、large doses（大量に）とればあらゆるものが治ると述べたことが書かれています。ビタミンCは第2段落で抗酸化物質の一つとされています。
+本文と選択肢を対にすると、次のようになります。
+・本文 increasing antioxidant levels with supplements（サプリメントで抗酸化物質の量を増やす）、high doses / large doses（大量に）→ 選択肢 Large amounts of them were needed（抗酸化物質が大量に必要だ）
+・本文 more free radicals than antioxidants ～ can lead to cancer and other diseases（フリーラジカルが抗酸化物質より多いと、がんやほかの病気につながりうる）、the damage caused by free radicals（フリーラジカルによる損傷）→ 選択肢 the cell damage and disease that result from the presence of too many free radicals（フリーラジカルが多すぎることから生じる細胞の損傷や病気）
+本文の内容を合わせると、ポーリングは「大量の抗酸化物質で病気を防げる」と考えていた、と読み取れます。ですから3が正解です。
+この問題の型：言いかえ（increasing antioxidant levels → large amounts／prevent illness → avoid ～ disease）／推論（第1段落と第2段落の内容を合わせる）
+【ほかの選択肢】
+1 本文にありません。フリーラジカルが体の中で作られることと外部から来ることは書かれていますが、抗酸化物質が外部から来たものにはほとんど効かない、とポーリングが考えたとは書かれていません。
+2 本文にありません。抗酸化物質が体内で十分に作られる、というほかの研究者たちの主張は出てきません。
+4 本文にありません。ポーリングが、果物や野菜から抗酸化物質をとることは健康に悪いと考えたとは書かれていません。本文には、果物や野菜を多くふくむ食事が長生きなどと結びついているという研究が書かれています。
+【覚えるポイント】
+・lessen the damage：「損傷を減らす」。increase ～ levels（～の量を増やす）は、選択肢で large amounts（大量）と言いかえられています。
+・「ある人が何を信じていたか」をたずねる設問では、本文の had the idea that ～ や believed ～ のあとをまず読み、ほかの段落にあるその人の発言と合わせて考えることが手がかりになります。
