@@ -1,0 +1,20 @@
+---
+choices: brush | before | Korean | up on | her
+answerText: Korean
+order: 1 4 5 3 2
+---
+【正解】3 Korean（この問題の4番目）
+【完成文】
+Betsy wants to ( brush up on her Korean before ) she goes to Korea, so she bought some language CDs to listen to on her way to work.
+並べ方：1 brush → 4 up on → 5 her → 3 Korean → 2 before（2番目は4、4番目は3）
+【和訳】
+ベッツィーは、韓国に行く前に自分の韓国語を磨き直したいと思っています。それで、通勤の途中で聞くための語学CDを何枚か買いました。
+【考え方】
+後半で語学CDを買ったと書かれているので、前半は「韓国語を勉強し直したい」という内容だと考えられます。wants to のあとに動詞 1 brush を置き、決まった言い方 brush up on ～（～をもう一度勉強して磨き直す）を作ります。
+ここで考えたいのは、残った 5 her、3 Korean、2 before の並べ方です。Korean はここでは「韓国語」という意味の名詞です。her は「彼女の」という意味で、名詞の前に置いて「だれのものか」を表します。そこで her Korean（彼女の韓国語）というまとまりを作り、up on のあとに置きます。
+before は「～する前に」という意味で、後ろに主語と動詞の文を続けます。空所のあとが she goes to Korea（彼女が韓国に行く）なので、before は空所の最後に置きます。よって 1 brush → 4 up on → 5 her → 3 Korean → 2 before となります。
+したがって4番目は3 Korean です。
+まちがえやすいのは、1 brush → 4 up on → 3 Korean → 2 before → 5 her（brush up on Korean before her she goes …）のように、her を before のあとに回す並べ方です。これでは before her she goes となり、her と she が続いて文になりません。
+【覚えるポイント】
+・Korean：「韓国語」（名詞）、「韓国の」（形容詞）。her Korean で「彼女の韓国語（の力）」。
+・before は「～する前に」の意味で、後ろに 主語 ＋ 動詞 を続けることができます。

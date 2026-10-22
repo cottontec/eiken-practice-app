@@ -1,6 +1,7 @@
 ---
 choices: To get | Got | Getting | Get
 answerText: Getting
+reviewed: yes
 ---
 【正解】3 Getting（降りて、降りると）
 【和訳】

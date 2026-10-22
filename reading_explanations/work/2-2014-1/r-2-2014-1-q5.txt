@@ -1,6 +1,7 @@
 ---
 choices: suspect | passion | destruction | gravity
 answerText: passion
+reviewed: yes
 ---
 【正解】2 passion（情熱、熱中）
 【和訳】

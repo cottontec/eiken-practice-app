@@ -1,6 +1,7 @@
 ---
 choices: According to | Thanks to | In spite of | Except for
 answerText: According to
+reviewed: yes
 ---
 【正解】1 According to（～によれば）
 【和訳】

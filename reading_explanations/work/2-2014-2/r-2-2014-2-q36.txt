@@ -1,6 +1,7 @@
 ---
 choices: Explain how people can help with his organization's activities. | Give a lecture to managers about library-building projects. | Answer questions that people have about the organization. | Record a video of a lecture which will be shown at an event.
 answerText: Explain how people can help with his organization's activities.
+reviewed: yes
 ---
 【正解】1 Explain how people can help with his organization's activities.（人々がどのように彼の団体の活動を手伝えるかを説明する。）
 【和訳】

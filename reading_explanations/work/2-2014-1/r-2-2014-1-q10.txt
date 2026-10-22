@@ -1,6 +1,7 @@
 ---
 choices: commonly | anxiously | impossibly | thickly
 answerText: anxiously
+reviewed: yes
 ---
 【正解】2 anxiously（心配して、不安な気持ちで）
 【和訳】

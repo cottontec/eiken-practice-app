@@ -1,6 +1,7 @@
 ---
 choices: fast | long | far | late
 answerText: far
+reviewed: yes
 ---
 【正解】3 far（遠くへ。go too far で「やりすぎる」）
 【和訳】

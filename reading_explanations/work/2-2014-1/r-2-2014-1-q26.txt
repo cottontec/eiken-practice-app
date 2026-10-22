@@ -1,6 +1,7 @@
 ---
 choices: send out | search for | escape from | cover up
 answerText: escape from
+reviewed: yes
 ---
 【正解】3 escape from（～から逃れる）
 【和訳】

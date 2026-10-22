@@ -1,6 +1,7 @@
 ---
 choices: evidence | cooperation | luggage | relief
 answerText: evidence
+reviewed: yes
 ---
 【正解】1 evidence（証拠）
 【和訳】

@@ -2,6 +2,7 @@
 choices: rid | some things | get | that | of
 answerText: some things
 order: 3 1 5 2 4
+reviewed: yes
 ---
 【正解】2 some things（この問題の4番目）
 【完成文】

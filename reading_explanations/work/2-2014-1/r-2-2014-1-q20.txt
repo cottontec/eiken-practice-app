@@ -1,6 +1,7 @@
 ---
 choices: did | ought | shall | must
 answerText: must
+reviewed: yes
 ---
 【正解】4 must（～にちがいない）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: doubt | include | need | publish
 answerText: doubt
+reviewed: yes
 ---
 【正解】1 doubt（～を疑う、本当かどうか疑問に思う）
 【和訳】

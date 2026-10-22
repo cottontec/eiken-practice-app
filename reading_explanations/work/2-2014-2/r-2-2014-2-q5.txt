@@ -1,6 +1,7 @@
 ---
 choices: restored | greeted | permitted | followed
 answerText: permitted
+reviewed: yes
 ---
 【正解】3 permitted（許可した）
 【和訳】

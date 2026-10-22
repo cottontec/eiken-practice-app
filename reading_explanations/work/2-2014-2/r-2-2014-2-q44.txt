@@ -1,6 +1,7 @@
 ---
 choices: Cities decided to stop using the state's system and create a new one. | The experiment caused economic growth in the state to slow down. | Some residents wanted government offices to be open five days a week. | People were more worried about global warming than working conditions.
 answerText: Some residents wanted government offices to be open five days a week.
+reviewed: yes
 ---
 【正解】3 Some residents wanted government offices to be open five days a week.（一部の住民が、役所が週5日開いていることを望んだから。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: build houses and offices entirely from recycled materials. | create products that have a positive effect on the environment. | find items that do not cause any air pollution when they are made. | make sure that we only buy items that have been previously used.
 answerText: create products that have a positive effect on the environment.
+reviewed: yes
 ---
 【正解】2 create products that have a positive effect on the environment.（環境によい影響を与える製品を作る。）
 【和訳】

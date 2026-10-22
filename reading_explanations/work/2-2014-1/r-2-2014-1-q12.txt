@@ -1,6 +1,7 @@
 ---
 choices: By no means | With any luck | At all costs | In other words
 answerText: In other words
+reviewed: yes
 ---
 【正解】4 In other words（言いかえれば、つまり）
 【和訳】

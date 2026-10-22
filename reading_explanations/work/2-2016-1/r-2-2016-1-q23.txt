@@ -1,0 +1,26 @@
+---
+choices: once a day | in a group | at school | with a microphone
+answerText: in a group
+---
+【正解】2 in a group（集団で）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 once a day（1日に1回）
+2 in a group（集団で）
+3 at school（学校で）
+4 with a microphone（マイクを使って）
+【考え方】
+空所は第3段落の最初の New research has shown that singing (23) can also have positive effects. です。「新しい研究によって、（23）歌うことにもよい効果がありうることが分かった」という意味です。どのように歌うことについての研究なのかを、そのあとの内容から考えます。
+・Don Stewart ... surveyed elderly members of a chorus.（ドン・スチュワートは、ある合唱団の高齢のメンバーを調査した）
+・they were actually happier than those who did not sing or those who sang alone（その人たちは、歌わなかった人や一人で歌っていた人よりも実際に幸せだった）
+・some governments are considering promoting choruses（いくつかの国の政府は、合唱を広めることを検討している）
+chorus（合唱団、合唱）は、大勢で一緒に歌うことです。また、合唱団のメンバーは、一人で歌っていた人（those who sang alone）と比べて幸せだったと書かれています。ここから、研究で分かったのは「みんなで一緒に歌うこと」のよい効果だと分かります。ですから、「集団で」という2が正解です。
+【ほかの選択肢】
+1 「1日に1回」歌うことは、本文に書かれていません。調査は、どのくらいの回数歌うかではなく、合唱団で歌う人と、歌わない人や一人で歌う人を比べたものです。
+3 「学校で」歌うことは、本文に書かれていません。調べられたのは合唱団の高齢のメンバーで、学校の話は出てきません。
+4 「マイクを使って」歌うことは、本文に書かれていません。調査で比べられていたのは、一緒に歌うか一人で歌うかという点です。
+【覚えるポイント】
+・in a group：「集団で、グループで」。反対の意味は alone（一人で）です。
+・空所のあとの具体的な研究の内容（だれを調べ、何と比べたか）から、空所に入る言葉を決めます。

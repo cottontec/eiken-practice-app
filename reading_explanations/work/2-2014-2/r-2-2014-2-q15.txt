@@ -1,6 +1,7 @@
 ---
 choices: open to | pleased about | bored with | convinced by
 answerText: bored with
+reviewed: yes
 ---
 【正解】3 bored with（～にあきて、退屈して）
 【和訳】

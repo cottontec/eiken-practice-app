@@ -1,0 +1,29 @@
+---
+choices: It has the effect of making mice's heart cells grow larger. | It can be used to increase the size of farm animals. | It expands dramatically when added to the blood of other animals. | It reduces the size of mice's hearts while the mice are sleeping.
+answerText: It has the effect of making mice's heart cells grow larger.
+---
+【正解】1 It has the effect of making mice's heart cells grow larger.（それには、マウスの心臓の細胞を大きくする効果がある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：レスリー・ラインワンドのチームがビルマニシキヘビの血液について知ったことの1つは何ですか。
+1 それには、マウスの心臓の細胞を（もとより）大きくする効果がある。
+2 それは、家畜の体を大きくするのに使うことができる。
+3 それは、ほかの動物の血液に加えられると、劇的にふくらむ。
+4 それは、マウスが眠っている間に、マウスの心臓を小さくする。
+【考え方】
+設問は、ラインワンドのチームがヘビの血液について分かったことをたずねています。第2段落に、チームの研究が書かれています。
+The team found that certain chemicals in the snake's blood cause the heart to grow.（チームは、ヘビの血液の中にあるある種の化学物質が、心臓を大きくしていることを発見した）
+When the team added the snake's blood to cells taken from mice's hearts, they were surprised to find that the cells also began to grow.（チームがヘビの血液を、マウスの心臓から取った細胞に加えたところ、その細胞も大きくなり始めたことが分かり、彼らは驚いた）
+cells taken from mice's hearts は「マウスの心臓から取られた細胞」、つまりマウスの心臓の細胞です。ヘビの血液を加えるとその細胞が大きくなり始めた、ということは、ヘビの血液にはマウスの心臓の細胞を大きくする働きがある、ということです。
+本文と選択肢を対にすると、次のようになります。
+本文 added the snake's blood to cells taken from mice's hearts ... the cells also began to grow ＝ 選択肢 It has the effect of making mice's heart cells grow larger
+ですから1が正解です。
+【ほかの選択肢】
+2 farm animals（家畜）の話は本文に出てきません。実験に使われたのはマウスで、研究が役立つかもしれないと考えられているのは人間の心臓病です。
+3 本文では、ヘビの血液を加えたのはほかの動物の「血液」ではなく、マウスの心臓の「細胞」です。また、大きくなったのはヘビの血液ではなく、その細胞です。何が何に加えられ、何が大きくなったのかが違います。
+4 本文と逆の内容です。第3段落には the mice's hearts grew dramatically（マウスの心臓は劇的に大きくなった）とあり、小さくなってはいません。また、マウスが眠っている間の話も本文にありません。
+【覚えるポイント】
+・have the effect of -ing：「～する効果がある」。
+・cause ～ to ...：「～に…させる、～が…する原因になる」。例：cause the heart to grow（心臓を大きくする）。

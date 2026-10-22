@@ -1,6 +1,7 @@
 ---
 choices: been announced | announced | being announced | been announcing
 answerText: been announced
+reviewed: yes
 ---
 【正解】1 been announced（発表されて〔いた〕）
 【和訳】

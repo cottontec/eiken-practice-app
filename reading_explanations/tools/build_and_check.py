@@ -155,7 +155,7 @@ def check_batch(src_root, part, batch_id):
             # 抽出テキストとの照合（テキストがある回のみ・警告）
             if ntext:
                 for i, c in enumerate(choices, 1):
-                    if c and norm(c) not in ntext:
+                    if c and norm(c) not in ntext and norm(c).replace('-', '') not in ntext.replace('-', ''):
                         warns.append((qid, f'選択肢{i}「{c}」が抽出テキストに見つからない（画像で要確認）'))
             g = GENDERED.findall(body)
             if g:

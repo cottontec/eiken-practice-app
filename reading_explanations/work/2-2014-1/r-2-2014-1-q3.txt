@@ -1,6 +1,7 @@
 ---
 choices: renovations | relatives | ingredients | institutions
 answerText: relatives
+reviewed: yes
 ---
 【正解】2 relatives（親戚）
 【和訳】

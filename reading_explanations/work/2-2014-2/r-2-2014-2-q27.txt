@@ -1,6 +1,7 @@
 ---
 choices: question | shortage | responsibility | solution
 answerText: solution
+reviewed: yes
 ---
 【正解】4 solution（解決策）
 【和訳】

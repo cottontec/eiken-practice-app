@@ -1,6 +1,7 @@
 ---
 choices: abruptly | delicately | suitably | factually
 answerText: abruptly
+reviewed: yes
 ---
 【正解】1 abruptly（突然、いきなり）
 【和訳】

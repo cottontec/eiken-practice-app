@@ -2,6 +2,7 @@
 choices: all that work | for | was | to do | asked
 answerText: asked
 order: 3 5 4 1 2
+reviewed: yes
 ---
 【正解】5 asked（この問題の2番目）
 【完成文】

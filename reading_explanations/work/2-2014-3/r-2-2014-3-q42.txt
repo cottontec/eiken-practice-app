@@ -1,0 +1,29 @@
+---
+choices: It was difficult to find workers who were willing to dig it up. | It became harder to transport because fewer boats were being built. | People began to doubt how effective fertilizers were for growing food. | Scientists began to create new types of fertilizers that were less expensive.
+answerText: Scientists began to create new types of fertilizers that were less expensive.
+---
+【正解】4 Scientists began to create new types of fertilizers that were less expensive.（科学者たちが、より安い新しい種類の肥料を作り始めたから。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：20世紀に、グアノの使用が減ったのはなぜですか。
+1 グアノを掘り出すことをいとわない労働者を見つけるのが難しかったから。
+2 造られる船が少なくなっていたため、グアノを運ぶのが難しくなったから。
+3 食べ物を育てるのに肥料がどれほど効果があるのか、人々が疑い始めたから。
+4 科学者たちが、より安い新しい種類の肥料を作り始めたから。
+【考え方】
+第2段落の最後の文に、グアノの人気が落ちたことが書かれています。
+However, after cheaper artificial fertilizers were developed by chemists in Europe in the 1900s, guano became less popular.（しかし、1900年代にヨーロッパの化学者たちによって、より安い人工の肥料が開発されたあと、グアノは人気が落ちた）。cheaper は cheap（安い）の比較級で「より安い」、artificial fertilizers は「人工の肥料」、were developed は「開発された」、chemists は「化学者」です。
+1900年代は20世紀にあたるので、設問の in the 20th century（20世紀に）と合います。また、設問の the use of guano go down（グアノの使用が減った）は、本文の guano became less popular（グアノは人気が落ちた）にあたります。
+本文と選択肢は次のように対応しています。
+本文 chemists（化学者たち）→ 選択肢 Scientists（科学者たち）
+本文 cheaper artificial fertilizers were developed（より安い人工の肥料が開発された）＝ 選択肢 create new types of fertilizers that were less expensive（より安い新しい種類の肥料を作る）
+本文の cheaper（より安い）を、選択肢では less expensive（より高くない＝より安い）と言いかえています。正解は4です。
+【ほかの選択肢】
+1 本文には Hundreds of workers went to the islands and collected the guano（何百人もの労働者が島々に行ってグアノを集めた）とあります。労働者が見つからなかったとは書かれていません。
+2 本文で船が出てくるのは、グアノを外国へ運んだという話だけです。造られる船が少なくなったとは書かれていません。
+3 本文には、人々が肥料の効果を疑い始めたとは書かれていません。グアノの人気が落ちたのは、より安い人工の肥料が開発されたからです。
+【覚えるポイント】
+・artificial：「人工の」。反対の意味の語は natural（自然の）。
+・less expensive：「より高くない＝より安い」。cheaper と同じ意味で使われます。

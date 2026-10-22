@@ -1,6 +1,7 @@
 ---
 choices: jealous | magnificent | tough | competitive
 answerText: magnificent
+reviewed: yes
 ---
 【正解】2 magnificent（壮大な、すばらしい）
 【和訳】

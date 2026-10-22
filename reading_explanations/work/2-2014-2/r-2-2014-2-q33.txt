@@ -1,6 +1,7 @@
 ---
 choices: forgive | defend | punish | influence
 answerText: influence
+reviewed: yes
 ---
 【正解】4 influence（影響を与える）
 【和訳】
@@ -13,7 +14,7 @@ answerText: influence
 4 influence：影響を与える
 【考え方】
 空所の文は The boxes have also been used to (　) mothers' behavior.（箱はまた、母親たちの行動を（　）するためにも使われてきた）です。behavior は「行動、ふるまい」、be used to ～ はここでは「～するために使われる」という意味です。
-空所のあとで、具体的な例が説明されています。In the past, the boxes contained bottles for giving milk to babies（以前、箱には赤ちゃんにミルクを飲ませるための哺乳びんが入っていた）、but recent research suggests that it is healthier for babies to drink their mothers' milk（しかし最近の研究では、赤ちゃんにとっては母親の母乳を飲むほうが健康によいと示されている）とあります。
+空所のあとで、具体的な例が説明されています。In the past, the boxes contained bottles for giving milk to babies（以前、箱には赤ちゃんにミルクを飲ませるための哺乳びんが入っていた）、but recent research suggests that it is healthier for babies to drink their mothers' milk（しかし最近の研究によると、赤ちゃんにとっては母親の母乳を飲むほうが健康によいようだ）とあります。
 そして To encourage mothers to stop using bottles, the government is no longer putting them in the boxes.（母親たちに哺乳びんを使うのをやめるよう促すため、政府はもう箱に哺乳びんを入れていない）と続きます。encourage 人 to ～ は「人に～するよう促す、勧める」、no longer は「もはや～ない」です。
 政府は、箱の中身を変えることで、母親たちが哺乳びんではなく母乳を選ぶように働きかけています。これは母親たちの行動に「影響を与える」ことです。influence は「影響を与える」という意味なので、正解は4です。
 【ほかの選択肢】

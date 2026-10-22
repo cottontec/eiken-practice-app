@@ -1,6 +1,7 @@
 ---
 choices: supply | wipe | interfere | combine
 answerText: interfere
+reviewed: yes
 ---
 【正解】3 interfere（じゃまをする）
 【和訳】

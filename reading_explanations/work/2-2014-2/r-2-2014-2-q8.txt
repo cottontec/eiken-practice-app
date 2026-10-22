@@ -1,6 +1,7 @@
 ---
 choices: rhythm | discipline | property | attraction
 answerText: discipline
+reviewed: yes
 ---
 【正解】2 discipline（規律、しつけ）
 【和訳】

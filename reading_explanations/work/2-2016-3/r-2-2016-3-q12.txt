@@ -1,0 +1,20 @@
+---
+choices: make | take | set | get
+answerText: take
+---
+【正解】2 take（take ～ for granted で「～を当たり前だと思う」）
+【和訳】
+A：私たちは、食べ物と水と住む場所があるという事実を、ときどき（当たり前だと思って）しまっている気がするよ。
+B：そのとおりだね。私たちほど運がよくない人が、とてもたくさんいるからね。
+（選択肢の意味）1 作る　2 取る（take ～ for granted で「～を当たり前だと思う」）　3 置く、定める　4 手に入れる、～になる
+【考え方】
+空所のあとの for granted に注目します。take ～ for granted で「～を当たり前だと思う（ありがたみを感じない）」という決まった言い方です。
+この文では、～に当たる the fact that we have food, water, and a place to live in（食べ物と水と住む場所があるという事実）が長いので、for granted のあとに回されています。もとの形にすると take the fact that ～ for granted です。
+Bの There are so many people who aren't as lucky as we are.（私たちほど運がよくない人がとてもたくさんいる）も、「食べ物などがあるのは当たり前ではない」という考えに賛成している内容です。ですから、2が正解です。
+【ほかの選択肢】
+1 make は「作る」です。make ～ for granted という言い方はありません。
+3 set は「置く、定める」です。set ～ for granted という言い方はありません。
+4 get は「手に入れる、～になる」です。get ～ for granted という言い方はありません。
+【覚えるポイント】
+・take ～ for granted：「～を当たり前だと思う」。～が長いときは take for granted ～ の順になることがあります。
+・not as ～ as …：「…ほど～ではない」。aren't as lucky as we are は「私たちほど運がよくない」。

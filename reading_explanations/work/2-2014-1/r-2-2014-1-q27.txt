@@ -1,6 +1,7 @@
 ---
 choices: Nevertheless | Indeed | Otherwise | Unfortunately
 answerText: Indeed
+reviewed: yes
 ---
 【正解】2 Indeed（実際に、本当に）
 【和訳】

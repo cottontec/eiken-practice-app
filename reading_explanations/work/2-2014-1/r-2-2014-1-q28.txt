@@ -1,6 +1,7 @@
 ---
 choices: strict | costly | strange | short
 answerText: short
+reviewed: yes
 ---
 【正解】4 short（短い）
 【和訳】

@@ -1,0 +1,26 @@
+---
+choices: had economic advantages | caused medical problems | reduced environmental damage | decreased the availability of food
+answerText: had economic advantages
+---
+【正解】1 had economic advantages（経済的な利点があった）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 had economic advantages（経済的な利点があった）
+2 caused medical problems（医学的な問題〔健康上の問題〕を引き起こした）
+3 reduced environmental damage（環境への害を減らした）
+4 decreased the availability of food（食べ物の手に入りやすさを減らした〔食べ物を手に入れにくくした〕）
+【考え方】
+空所は第1段落の They were surprised to find that this change (21) as well. です。They は老人ホーム、this change は「工場で作られた包装済みの食べ物から、地元の材料を使った手作りの料理に切りかえたこと」を指します。「老人ホームは、この変化が（21）もしたと分かって驚いた」という意味です。
+as well は「～もまた」という意味です。第1段落の初めに、地元の食べ物は better for both people's health and the environment（人々の健康と環境の両方にとってよい）とあり、老人ホームは Seeing these benefits（こうした利点を見て）切りかえました。つまり、健康と環境の利点は最初から分かっていて、それに加えて、思ってもいなかった別の利点が見つかって驚いた、という流れです。
+その別の利点は、すぐあとの文に書かれています。
+They found that by preparing meals at the retirement home, they were able to reduce the overall amount of money spent on food.（老人ホームで食事を作ることによって、食べ物に使うお金の全体の額を減らせると分かった）
+食べ物にかかるお金が減ったというのは、お金の面での得、つまり経済的な利点です。ですから、1 had economic advantages（経済的な利点があった）が正解です。第2段落でも、費用が下がって老人ホームがお金を節約できるしくみが説明されていて、この答えと合います。
+【ほかの選択肢】
+2 「医学的な問題を引き起こした」を入れると、「この変化が健康上の問題も引き起こしたと分かって驚いた」となります。しかし本文は、地元の食べ物は健康によいと述べており、すぐあとの文もお金が減ったという「よいこと」なので、つながりません。
+3 「環境への害を減らした」を入れると、「この変化が環境への害も減らしたと分かって驚いた」となります。環境によいことは第1段落の初めで述べられていて、老人ホームはその利点を見て切りかえたので、新しく分かって驚くことではありません。また、すぐあとの文の内容（食べ物にかかるお金が減った）とも合いません。
+4 「食べ物を手に入れにくくした」を入れると、悪い結果になります。本文には食べ物が手に入りにくくなったという話はなく、すぐあとの文の「お金を減らせた」ともつながりません。
+【覚えるポイント】
+・as well：「～もまた」。すでに述べたことに、別のことを付け加える働きがあります。
+・空所のすぐあとの文が、空所の内容を具体的に説明していることがよくあります。

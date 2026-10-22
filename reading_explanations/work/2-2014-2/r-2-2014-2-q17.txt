@@ -1,6 +1,7 @@
 ---
 choices: head | nerves | stomach | bones
 answerText: nerves
+reviewed: yes
 ---
 【正解】2 nerves（神経）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: sniffed | collapsed | transported | interpreted
 answerText: interpreted
+reviewed: yes
 ---
 【正解】4 interpreted（通訳した）
 【和訳】

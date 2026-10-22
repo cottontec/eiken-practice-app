@@ -1,0 +1,29 @@
+---
+choices: More people in wealthy countries want to buy organic food. | Companies can grow more vegetables when using natural fertilizers. | Food grown with guano has a better flavor than other food. | Artificial fertilizers have been made illegal in many places.
+answerText: More people in wealthy countries want to buy organic food.
+---
+【正解】1 More people in wealthy countries want to buy organic food.（豊かな国々で、有機食品を買いたいと思う人が増えているから。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：最近グアノの人気が高まっている理由の1つは何ですか。
+1 豊かな国々で、有機食品を買いたいと思う人が増えているから。
+2 天然の肥料を使うと、会社がより多くの野菜を育てられるから。
+3 グアノを使って育てた食べ物は、ほかの食べ物より味がよいから。
+4 多くの場所で、人工の肥料が法律で禁止されたから。
+【考え方】
+グアノの人気が再び高まっている理由は、第3段落に2つ書かれています。
+1つ目は2文目の One reason for this rise in demand is that many artificial fertilizers have risen in price（この需要の高まりの理由の1つは、多くの人工肥料の値段が上がったことだ）です。それによって、グアノが農業にとってより経済的になりました。
+2つ目は3文目の Another reason is the increasing demand for organic food in wealthy countries（もう1つの理由は、豊かな国々で有機食品の需要が高まっていることだ）です。demand は「需要（それをほしがる人の多さ）」、organic food は「有機食品（化学的に作られた肥料などを使わずに育てた食べ物）」、wealthy は「豊かな、裕福な」です。そのあとに、because the chemicals that are used in man-made fertilizers can be harmful to human health（人工の肥料に使われる化学物質は、人間の健康に害を与えることがあるから）と、有機食品の需要が高まっている理由も書かれています。
+本文と選択肢は次のように対応しています。
+本文 the increasing demand for organic food（有機食品の需要が高まっていること）＝ 選択肢 More people … want to buy organic food（有機食品を買いたいと思う人が増えている）
+本文 in wealthy countries（豊かな国々で）＝ 選択肢 in wealthy countries（豊かな国々で）
+「需要が高まる」とは、それを買いたい人が増えることなので、選択肢1はこの2つ目の理由を言いかえたものです。正解は1です。
+【ほかの選択肢】
+2 本文には、天然の肥料を使うと野菜がより多く育つとは書かれていません。本文に書かれている理由は、人工肥料の値上がりと、有機食品の需要の高まりです。
+3 本文には、グアノで育てた食べ物の味についての話はありません。
+4 本文では、人工の肥料について、値段が上がったこと、化学物質が健康に害を与えることがあること、環境を傷つけることがよくあることは書かれていますが、法律で禁止されたとは書かれていません。
+【覚えるポイント】
+・demand for ～：「～への需要（～をほしがる人の多さ）」。the increasing demand for ～ で「～への高まる需要」。
+・organic：「有機の（化学的に作られた肥料などを使わない）」。organic food で「有機食品」。

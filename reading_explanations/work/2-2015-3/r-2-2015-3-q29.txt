@@ -1,0 +1,25 @@
+---
+choices: delayed | respected | reached | opposed
+answerText: opposed
+---
+【正解】4 opposed（反対した）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 delayed：遅らせた
+2 respected：尊重した、尊敬した
+3 reached：（場所や結論などに）たどり着いた
+4 opposed：反対した
+【考え方】
+空所の前の文は In 2015, the city cut all the locks from the bridge.（2015年、市は橋からすべての南京錠を切り取った）です。空所の文の this decision（この決定）は、この「南京錠をすべて切り取る」という市の決定を指しています。
+空所の文は Many visitors have (　) this decision.（多くの訪問者がこの決定を（　）してきた）です。訪問者たちがこの決定をどう受け止めたのかを考えます。
+すぐあとの文が手がかりです。They believe that this action destroyed an important symbol of love in the city.（彼らは、この行動がこの都市の大切な愛の象徴を壊してしまったと考えている）とあります。They は Many visitors（多くの訪問者）を指します。訪問者たちは市の決定をよくないことだと思っているのです。
+oppose は「～に反対する」という意味なので、have opposed this decision で「この決定に反対してきた」となり、次の文の内容とつながります。正解は4です。
+【ほかの選択肢】
+1 delayed は「遅らせた」です。南京錠はすでに2015年に切り取られているので、訪問者が「決定を遅らせた」という内容は前の文と合いません。また、次の文の「大切な愛の象徴を壊した」という不満ともつながりません。
+2 respected は「尊重した」です。訪問者たちは「この行動が大切な愛の象徴を壊した」と考えているので、決定を尊重したというのは、次の文と反対の内容になります。
+3 reached は「たどり着いた」で、reach a decision は「決定を下す」という意味になります。しかし、南京錠を取り除くと決めたのは市（the city）で、訪問者ではありません。
+【覚えるポイント】
+・oppose ～：「～に反対する」。be opposed to ～ の形でも使います。
+・this decision や this action のように this が付く語は、直前に出てきた内容を指すことが多いので、前の文を確かめましょう。

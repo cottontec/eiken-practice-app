@@ -1,0 +1,29 @@
+---
+choices: Government rules make it hard to start new companies that provide fuel for cars. | It is difficult to compete with big businesses that already have many customers. | They cannot afford the type of engines that are able to run on biofuel. | The number of cars that can use biofuel will probably not increase in the future.
+answerText: Government rules make it hard to start new companies that provide fuel for cars.
+---
+【正解】1 Government rules make it hard to start new companies that provide fuel for cars.（政府の規則のために、車の燃料を提供する新しい会社を始めるのが難しい。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：リサイクルした食用油からバイオ燃料を作りたい会社が直面している課題の1つは何ですか。
+1 政府の規則のために、車の燃料を提供する新しい会社を始めるのが難しい。
+2 すでに多くの顧客を持つ大企業と競争するのは難しい。
+3 彼らは、バイオ燃料で走ることのできる種類のエンジンを買う余裕がない。
+4 バイオ燃料を使える車の数は、将来おそらく増えないだろう。
+【考え方】
+バイオ燃料を作る会社が抱える問題は、第4段落に書かれています。According to Uptown Oil, there are two major problems that make it difficult for companies to recycle cooking oil into biofuel.（アップタウン・オイルによると、会社が食用油をリサイクルしてバイオ燃料にするのを難しくしている大きな問題が2つある）とあります。
+1つ目の問題は the government's policies（政府の政策）です。The government has very strict rules controlling companies that want to provide fuel for cars.（政府には、車の燃料を提供したいと考える会社を管理する、とても厳しい規則がある）、These rules make it very expensive to establish a new company.（これらの規則のために、新しい会社を設立するのにとてもお金がかかる）と続きます。strict は「厳しい」、establish は「設立する」です。
+本文と選択肢を対にすると、次のようになります。
+本文 very strict rules（政府のとても厳しい規則）＝ 選択肢 Government rules（政府の規則）
+本文 establish a new company（新しい会社を設立する）＝ 選択肢 start new companies（新しい会社を始める）
+本文 make it very expensive（とてもお金がかかるようにする）→ 選択肢 make it hard（難しくする）
+お金がとてもかかると、新しい会社を始めることは難しくなります。正解は1です。
+【ほかの選択肢】
+2 本文には、すでに多くの顧客を持つ大企業との競争の話は出てきません。本文にない内容です。
+3 2つ目の問題は only a few cars have engines that can run entirely on biofuel（バイオ燃料だけで走れるエンジンを持つ車がごくわずかしかない）ということです。車が少ないという問題で、会社がエンジンを買えないという話ではありません。
+4 本文には at present（現在）車がごくわずかしかないと書かれているだけで、将来その数が増えないだろうとは書かれていません。むしろ最後の文で、困難を取り除ければ大きな事業になりうると書かれています。
+【覚えるポイント】
+・make it ～ to …：「…することを～にする」。make it very expensive to establish a new company で「新しい会社を設立するのをとてもお金のかかるものにする」。
+・at present：「現在、今のところ」。

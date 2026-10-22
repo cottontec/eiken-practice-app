@@ -1,6 +1,7 @@
 ---
 choices: make up for | walk over | inquire about | put up with
 answerText: put up with
+reviewed: yes
 ---
 【正解】4 put up with（～をがまんする）
 【和訳】

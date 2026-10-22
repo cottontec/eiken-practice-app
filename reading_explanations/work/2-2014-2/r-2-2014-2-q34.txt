@@ -1,6 +1,7 @@
 ---
 choices: wants to write a book on how to raise money for charity. | volunteers at a library to help students with their homework. | works for an organization that helps children learn to read. | is looking for some teachers to work at schools in rural areas.
 answerText: works for an organization that helps children learn to read.
+reviewed: yes
 ---
 【正解】3 works for an organization that helps children learn to read.（子どもたちが読むことを学ぶのを手助けする団体で働いている。）
 【和訳】

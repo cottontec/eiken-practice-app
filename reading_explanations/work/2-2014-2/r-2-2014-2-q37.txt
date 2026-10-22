@@ -1,6 +1,7 @@
 ---
 choices: made the lives of many people all over the world better. | led to inventions that help people solve environmental issues. | helped some people to get rich and caused others to become poor. | caused more people to search for ways to live without buying goods.
 answerText: made the lives of many people all over the world better.
+reviewed: yes
 ---
 【正解】1 made the lives of many people all over the world better.（世界中の多くの人々の生活をよくしてきた。）
 【和訳】

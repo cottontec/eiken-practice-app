@@ -1,6 +1,7 @@
 ---
 choices: They want to work over eight hours per day but are not allowed to. | They work much longer than what is thought to be average. | They are able to take at least three days off every week. | They are being asked to take more days off during the week.
 answerText: They work much longer than what is thought to be average.
+reviewed: yes
 ---
 【正解】2 They work much longer than what is thought to be average.（平均だと考えられている時間よりもずっと長く働いている。）
 【和訳】

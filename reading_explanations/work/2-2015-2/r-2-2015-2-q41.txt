@@ -1,0 +1,30 @@
+---
+choices: Children will study hard to get educational funds from the government. | The government will pay health workers to improve children's health. | Researchers have been gathering various data about children over a long period. | Specialists have been employing children to collect data about the environment.
+answerText: Researchers have been gathering various data about children over a long period.
+---
+【正解】3 Researchers have been gathering various data about children over a long period.（研究者たちは、長い期間にわたって、子どもたちについてのさまざまなデータを集め続けている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：研究「グローイング・アップ・イン・オーストラリア」について分かることの1つは何ですか。
+1 子どもたちは、政府から教育のための資金をもらうために一生懸命勉強する。
+2 政府は、子どもたちの健康をよくするために、医療で働く人たちにお金を払う。
+3 研究者たちは、長い期間にわたって、子どもたちについてのさまざまなデータを集め続けている。
+4 専門家たちは、環境についてのデータを集めるために、子どもたちを雇っている。
+【考え方】
+第1段落と第3段落に注目します。
+第1段落には Since 2004, Australia has been holding its largest study of children's health ever.（2004年から、オーストラリアは、子どもの健康についてのこれまでで最大の研究を行っている）とあり、さらに This project ... is tracking two groups of children from early childhood until they become adults.（このプロジェクトは、2つのグループの子どもたちを、幼いころから大人になるまで追い続けている）とあります。track は「追う、追跡する」です。2004年から始まり、子どもが大人になるまで続く研究なので、長い期間の研究だと分かります。
+第3段落には The researchers visit the participants' homes every two years to gather data.（研究者たちは、データを集めるために2年ごとに参加者の家を訪ねる）とあります。集めるのは、子育てのしかたや毎日の活動、健康、学校での成績、家庭の収入など、いろいろな種類のデータです。
+本文と選択肢を対にすると、次のようになります。
+本文 visit the participants' homes every two years to gather data（データを集めるために2年ごとに家を訪ねる）＝ 選択肢 Researchers have been gathering ... data（研究者たちはデータを集め続けている）
+本文 Since 2004 ... from early childhood until they become adults（2004年から、幼いころから大人になるまで）→ 選択肢 over a long period（長い期間にわたって）
+本文 parenting styles, daily activities, health, school, income など → 選択肢 various data（さまざまなデータ）
+正解は3です。
+【ほかの選択肢】
+1 本文にあるのは The project is being funded by the Australian government（このプロジェクトはオーストラリア政府から資金を出してもらっている）ということで、資金を受けているのはプロジェクトです。子どもたちが資金をもらうために勉強するという話はありません。
+2 政府が資金を出しているのは研究のプロジェクトで、医療で働く人たちにお金を払うとは書かれていません。家を訪ねるのは researchers（研究者たち）です。
+4 本文の子どもたちは研究に参加している人たちで、雇われてデータを集めているわけではありません。また、研究が調べているのは子どもたちの健康や家庭環境などで、自然環境についてのデータではありません。
+【覚えるポイント】
+・track ～：「～を追う、追跡する」。
+・over a long period：「長い期間にわたって」。

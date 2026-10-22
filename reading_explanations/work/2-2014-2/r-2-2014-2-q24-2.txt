@@ -2,6 +2,7 @@
 choices: costs | than | less | no | $200
 answerText: no
 order: 1 4 3 2 5
+reviewed: yes
 ---
 【正解】4 no（この問題の2番目）
 【完成文】

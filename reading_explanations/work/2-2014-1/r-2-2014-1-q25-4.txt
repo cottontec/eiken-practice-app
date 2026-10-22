@@ -2,6 +2,7 @@
 choices: half | have | the amount | of | they
 answerText: the amount
 order: 5 2 1 3 4
+reviewed: yes
 ---
 【正解】3 the amount（この問題の4番目）
 【完成文】

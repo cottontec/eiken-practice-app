@@ -1,0 +1,19 @@
+---
+choices: recreation | conflict | planet | assistance
+answerText: assistance
+---
+【正解】4 assistance（手助け、援助）
+【和訳】
+友だちの（手助け）のおかげで、ジョーは1日で自分の持ち物をすべて新しい家に運び込むことができました。手伝ってくれたお礼に、彼は友だちみんなを夕食に連れて行きました。
+（選択肢の意味）1 娯楽、気晴らし　2 争い、対立　3 惑星　4 手助け、援助
+【考え方】
+まず、空所のあとを見ます。Joe was able to move all of his things into his new house in one day（ジョーは1日で持ち物をすべて新しい家に運び込むことができた）とあります。
+次の文に To thank them for their help（彼らの助けに感謝するために）とあります。them は his friends（友だち）のことです。つまり、友だちが引っ越しを手伝ってくれたことが分かります。
+With his friends' (　) は「友だちの（　）があって、友だちの（　）のおかげで」という意味です。assistance は「手助け、援助」なので、With his friends' assistance で「友だちの手助けのおかげで」となります。あとの文の their help（彼らの助け）を言いかえた語になっているので、4が正解です。
+【ほかの選択肢】
+1 recreation は「娯楽、気晴らし」です。「友だちの娯楽のおかげで1日で引っ越せた」となり、意味が通りません。
+2 conflict は「争い、対立」です。友だちとの争いがあったら、引っ越しが1日で終わる理由にはならず、お礼に夕食に連れて行く流れとも合いません。
+3 planet は「惑星」です。「友だちの惑星」では意味が通りません。
+【覚えるポイント】
+・assistance：「手助け、援助」。動詞は assist（手伝う）です。help とほぼ同じ意味で使われます。
+・with one's help / with one's assistance：「（人）の助けのおかげで、助けを借りて」。

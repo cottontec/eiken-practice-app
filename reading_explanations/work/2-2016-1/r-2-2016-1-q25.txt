@@ -1,0 +1,28 @@
+---
+choices: misunderstood that acrylic | accepted that polyester | suggested that plastic | denied that clothing
+answerText: denied that clothing
+---
+【正解】4 denied that clothing（衣服が（問題であること）を否定した）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+空所のあとの was the problem（～が問題であった）と組み合わせた意味です。
+1 misunderstood that acrylic（アクリルが問題だと誤解した）
+2 accepted that polyester（ポリエステルが問題だと認めた）
+3 suggested that plastic（プラスチックが問題だと示した、言い出した）
+4 denied that clothing（衣服が問題であることを否定した）
+【考え方】
+空所は第2段落の However, many of these companies (25) was the problem. です。「しかし、これらの会社の多くは、（25）が問題であった」という形です。
+まず、前の内容を確かめます。ブラウンは、プラスチックの繊維が衣服から洗い流されて海へ流れていると考え、衣料品会社に recommended that they make clothes that were stronger and less likely to lose plastic fibers（（今の衣服より）丈夫で、繊維が抜け落ちにくい服を作るよう勧めた）とあります。
+空所の前には However（しかし）があるので、会社の反応は、ブラウンの考えと反対のものだと分かります。
+さらに、空所のあとの文に注目します。
+Instead, they said that these plastics could be coming from many other things, such as blankets, rugs, or even paint.（そうではなく、彼らは、これらのプラスチックは、毛布や敷物、さらにはペンキなど、ほかの多くの物から出ている可能性があると言った）
+Instead（そうではなく、その代わりに）は、前のことを打ち消して別のことを言うときに使います。会社は「原因は衣服ではなく、ほかの物だ」と言ったのですから、その前の空所では「衣服が問題だということを否定した」と考えられます。deny that ～ は「～ということを否定する」です。ですから4が正解です。
+【ほかの選択肢】
+1 「アクリルが問題だと誤解した」では、However とつながりません。また、会社がアクリルについて何か思い違いをしたという話は本文にありません。会社が言ったのは、プラスチックは衣服以外の物から出ているかもしれない、ということです。
+2 「ポリエステルが問題だと認めた」では、ブラウンの考えに賛成したことになり、However（しかし）や、次の文の Instead（そうではなく、ほかの物が原因だと言った）と合いません。
+3 「プラスチックが問題だと示した」では、会社が衣服の責任を打ち消したことになりません。次の文の Instead のあとで会社は「これらのプラスチックはほかの物から出ている可能性がある」と言っているので、その前には、ブラウンの考え（衣服が原因）を打ち消す内容が必要です。
+【覚えるポイント】
+・deny that ～：「～ということを否定する」。名詞は denial（否定）です。
+・Instead,（そうではなく）があれば、その前の文には打ち消される内容（否定や拒否）が来ていることが多いです。

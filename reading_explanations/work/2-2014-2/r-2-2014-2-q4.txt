@@ -1,6 +1,7 @@
 ---
 choices: guesses | tasks | gains | beliefs
 answerText: beliefs
+reviewed: yes
 ---
 【正解】4 beliefs（信じていること、信仰）
 【和訳】

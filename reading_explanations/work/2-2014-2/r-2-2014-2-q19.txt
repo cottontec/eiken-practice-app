@@ -1,6 +1,7 @@
 ---
 choices: have kept | keeping | kept | to keep
 answerText: to keep
+reviewed: yes
 ---
 【正解】4 to keep（（so as to keep で）～しておくために）
 【和訳】

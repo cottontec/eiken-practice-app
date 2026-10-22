@@ -1,6 +1,7 @@
 ---
 choices: By allowing companies to sell their games on its website. | By asking players to buy rice in order to use the website. | By charging players a small fee every time they make a mistake. | By showing advertisements when players answer correctly.
 answerText: By showing advertisements when players answer correctly.
+reviewed: yes
 ---
 【正解】4 By showing advertisements when players answer correctly.（プレーヤーが正しく答えたときに、広告を表示することによって。）
 【和訳】

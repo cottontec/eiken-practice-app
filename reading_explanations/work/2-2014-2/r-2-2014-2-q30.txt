@@ -1,6 +1,7 @@
 ---
 choices: cost | failure | decrease | criticism
 answerText: decrease
+reviewed: yes
 ---
 【正解】3 decrease（減少）
 【和訳】

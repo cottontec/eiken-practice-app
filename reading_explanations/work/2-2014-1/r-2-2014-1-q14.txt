@@ -1,6 +1,7 @@
 ---
 choices: to | with | off | for
 answerText: to
+reviewed: yes
 ---
 【正解】1 to（～に）
 【和訳】

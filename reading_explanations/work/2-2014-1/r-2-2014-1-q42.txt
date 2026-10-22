@@ -1,6 +1,7 @@
 ---
 choices: It has been teaching children in developing countries how to farm rice. | It gives food to people who answer the most questions. | It can be used to provide food to an international charity. | It was created by the United Nations World Food Programme.
 answerText: It can be used to provide food to an international charity.
+reviewed: yes
 ---
 【正解】3 It can be used to provide food to an international charity.（国際的な慈善団体に食べ物を提供するために使うことができる。）
 【和訳】

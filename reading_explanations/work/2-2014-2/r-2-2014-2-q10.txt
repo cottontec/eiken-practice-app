@@ -1,6 +1,7 @@
 ---
 choices: confessed | registered | supposed | repaired
 answerText: confessed
+reviewed: yes
 ---
 【正解】1 confessed（白状した、認めた）
 【和訳】

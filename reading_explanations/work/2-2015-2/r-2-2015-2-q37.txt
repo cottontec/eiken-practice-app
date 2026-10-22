@@ -1,0 +1,29 @@
+---
+choices: make both the air and the local sewer system cleaner. | help restaurants that have no way to get rid of their kitchen waste. | invent cars with special engines that run on cleaner fuel than gasoline. | save more money for both the transportation and food businesses.
+answerText: make both the air and the local sewer system cleaner.
+---
+【正解】1 make both the air and the local sewer system cleaner.（空気と地元の下水道の両方を、（今より）きれいにする。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ロンドンの2つの小さな会社は、～しようとしている。
+1 空気と地元の下水道の両方を、（今より）きれいにする。
+2 台所のごみを処分する方法がないレストランを助ける。
+3 ガソリンよりもきれいな燃料で走る、特別なエンジンを持つ車を発明する。
+4 運輸業と飲食業の両方のために、（今より）多くのお金を節約する。
+【考え方】
+2つの小さな会社については、第1段落に書かれています。
+まず、ロンドンが直面している環境問題が2つ挙げられています。1つ目は the greenhouse gases being released into the air by cars（車によって空気中に出されている温室効果ガス）、2つ目は the huge amount of used cooking oil being put into the city's sewer system by restaurants and other food businesses（レストランやその他の飲食業者によって市の下水道に流されている、大量の使用済みの食用油）です。sewer system は「下水道」です。
+そのあとに Uptown Oil and Pure Fuels, two small companies in London, are trying to solve both of these problems at the same time.（ロンドンにある2つの小さな会社、アップタウン・オイルとピュア・フューエルズが、これらの問題を両方同時に解決しようとしている）とあります。
+「空気中に出るガス」と「下水道に流される油」という2つの問題を解決するということは、空気と下水道の両方をきれいにすることにつながります。
+本文と選択肢を対にすると、次のようになります。
+本文 trying to solve both of these problems（空気中のガスと下水道の油という2つの問題を両方解決しようとしている）→ 選択肢 make both the air and the local sewer system cleaner（空気と地元の下水道の両方をきれいにする）
+cleaner は clean（きれいな）の比較級（「より～」を表す形）で、今の状態よりきれいにするという意味です。正解は1です。
+【ほかの選択肢】
+2 2つの会社がレストランなどから使用済みの食用油を集めていることは書かれていますが、レストランに台所のごみを処分する方法がないとは書かれていません。本文にない内容です。
+3 2つの会社がしているのは、食用油からバイオ燃料を作ることです。車やエンジンを発明しているわけではありません。第4段落にバイオ燃料だけで走れるエンジンを持つ車が少ないことが書かれていますが、それは会社にとっての問題として挙げられているだけです。
+4 2つの会社が運輸業や飲食業のためにお金を節約しようとしている、とは書かれていません。本文にない内容です。
+【覚えるポイント】
+・both A and B：「AとBの両方」。本文の both of these problems（これらの問題の両方）と、選択肢の both the air and the local sewer system が対応しています。
+・at the same time：「同時に」。

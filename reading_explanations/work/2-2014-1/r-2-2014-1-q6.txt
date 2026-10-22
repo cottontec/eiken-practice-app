@@ -1,6 +1,7 @@
 ---
 choices: knitting | soaking | transmitting | limiting
 answerText: knitting
+reviewed: yes
 ---
 【正解】1 knitting（編んでいる）
 【和訳】

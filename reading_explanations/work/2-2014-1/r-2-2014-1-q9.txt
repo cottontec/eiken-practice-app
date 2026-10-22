@@ -1,6 +1,7 @@
 ---
 choices: trial | landmark | detail | vehicle
 answerText: vehicle
+reviewed: yes
 ---
 【正解】4 vehicle（乗り物、車）
 【和訳】

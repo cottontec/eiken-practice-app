@@ -1,6 +1,7 @@
 ---
 choices: need | had | need not | had not
 answerText: need not
+reviewed: yes
 ---
 【正解】3 need not（～する必要はない）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: bothered | observed | ignored | guided
 answerText: bothered
+reviewed: yes
 ---
 【正解】1 bothered（悩ませた、手出しをした）
 【和訳】
@@ -22,4 +23,4 @@ bother は「（人を）悩ませる、困らせる、～に手出しをする�
 4 guided は「案内した」です。「サメが人間をめったに案内しなかった」となり、意味が通りません。
 【覚えるポイント】
 ・bother：「（人を）悩ませる、困らせる、～に手出しをする」。
-・very rarely ～：「めったに～しない」。rarely は否定の意味をふくむ語なので、ignored のような語と組み合わせると意味が反対になることに注意します。
+・very rarely ～：「めったに～しない」。rarely は「ほとんど～ない」という否定に近い意味をふくむので、空所に入れた語と合わせて、文全体がどんな意味になるかを確かめます。

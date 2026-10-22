@@ -1,0 +1,26 @@
+---
+choices: Additionally | At first | Disappointingly | Since then
+answerText: Additionally
+---
+【正解】1 Additionally（それに加えて、さらに）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Additionally：それに加えて、さらに
+2 At first：最初は
+3 Disappointingly：残念なことに、がっかりしたことに
+4 Since then：そのとき以来
+【考え方】
+第3段落は The Foldscope has many advantages over normal microscopes.（フォールドスコープには、ふつうの顕微鏡と比べてすぐれた点がたくさんある）で始まります。advantage は「すぐれた点、有利な点」です。このあと、すぐれた点が1つずつ挙げられていきます。
+・It is very easy to use（とても使いやすい）
+・people can attach a smartphone to take photographs（スマートフォンを取り付けて写真を撮れる）
+・Moreover, it is very tough and will not break even if it is dropped.（さらに、とても丈夫で、たとえ落としても壊れない）
+空所のあとの it is very cheap（とても安い）も、すぐれた点の1つです。すぐれた点をさらに付け加える流れなので、「それに加えて」という意味のつなぎの言葉が入ると考えられます。Additionally は「それに加えて、さらに」という意味で、前の文の Moreover（さらに）と同じように、情報を付け足すときに使います。正解は1です。
+【ほかの選択肢】
+2 At first は「最初は」です。「最初はとても安い」とすると、あとで値段が上がるかのような意味になりますが、本文にはそのような話はありません。
+3 Disappointingly は「残念なことに」です。安いことはすぐれた点なので、「残念なことに、とても安い」では、段落の流れと反対になります。
+4 Since then は「そのとき以来」です。前の文に「そのとき」にあたる特定の時の出来事がなく、何以来なのかが分かりません。
+【覚えるポイント】
+・Additionally：「それに加えて、さらに」。Moreover、In addition、Also なども、情報を付け足すときに使います。
+・advantages over ～：「～と比べてすぐれた点、～より有利な点」。

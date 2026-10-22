@@ -1,0 +1,30 @@
+---
+choices: humans should drink snake blood in order to live a healthy life. | the drug she makes will benefit snakes and other wild animals. | her research can be used to develop medicine for some heart diseases. | Burmese pythons can protect humans from diseases spread by mice.
+answerText: her research can be used to develop medicine for some heart diseases.
+---
+【正解】3 her research can be used to develop medicine for some heart diseases.（自分の研究は、いくつかの心臓病の薬を開発するのに使うことができる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ラインワンドは、～と考えている。
+1 人間は、健康な生活を送るためにヘビの血を飲むべきだ
+2 自分が作る薬は、ヘビやほかの野生動物のためになるだろう
+3 自分の研究は、いくつかの心臓病の薬を開発するのに使うことができる
+4 ビルマニシキヘビは、マウスが広める病気から人間を守ることができる
+【考え方】
+設問は Leinwand believes that（ラインワンドは～と考えている）です。本文で Leinwand believes や She believes が出てくる部分を確かめます。
+第3段落：Leinwand believes that her research may be able to help humans with heart diseases.（ラインワンドは、自分の研究が心臓病の人々を助けることができるかもしれないと考えている）
+第4段落：She believes that if she could make a drug from these chemicals, it could cure certain heart diseases in humans.（彼女は、もしこれらの化学物質から薬を作ることができれば、それが人間のある種の心臓病を治せるだろうと考えている）
+2つを合わせると、ラインワンドは「自分の研究から、心臓病を治す薬を作れるかもしれない」と考えていることが分かります。
+本文と選択肢を対にすると、次のようになります。
+本文 make a drug from these chemicals（これらの化学物質から薬を作る）＝ 選択肢 develop medicine（薬を開発する）
+本文 cure certain heart diseases in humans（人間のある種の心臓病を治す）＝ 選択肢 for some heart diseases（いくつかの心臓病のための）
+本文は may be able to（～できるかもしれない）や if ～ could（もし～できれば）と、可能性として述べています。選択肢の can be used も「使うことができる（可能性がある）」という意味なので、ラインワンドの考えとして合っています。ですから3が正解です。
+【ほかの選択肢】
+1 本文には、人間がヘビの血を飲むべきだとは書かれていません。ラインワンドが考えているのは、血液から化学物質を取り出し、それをもとに薬を作ることです。
+2 薬が役立つ相手が違います。本文では、薬は cure certain heart diseases in humans（人間のある種の心臓病を治す）ためのものです。ヘビや野生動物のためになるという話はありません。
+4 マウスは実験に使われた動物です。マウスが病気を広めるという話も、ビルマニシキヘビが人間を病気から守るという話も、本文にはありません。
+【覚えるポイント】
+・make a drug from ～：「～から薬を作る」。drug と medicine はどちらも「薬」です。
+・certain ～：名詞の前で「ある種の～、特定の～」。本文の certain heart diseases は、選択肢では some heart diseases と言いかえられています。

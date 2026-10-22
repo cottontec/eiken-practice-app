@@ -1,6 +1,7 @@
 ---
 choices: younger people should use brain training to avoid memory problems later in life. | people under 60 can best take care of their brains by staying physically healthy. | people should avoid doing too many activities at once because it can stress the brain. | older people are less likely to benefit from using computers than younger people are.
 answerText: people under 60 can best take care of their brains by staying physically healthy.
+reviewed: yes
 ---
 【正解】2 people under 60 can best take care of their brains by staying physically healthy.（60歳未満の人は、体の健康を保つことで、最もよく脳を大切にすることができる。）
 【和訳】

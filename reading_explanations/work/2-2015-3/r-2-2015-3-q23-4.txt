@@ -1,0 +1,21 @@
+---
+choices: do | good | would | to | you
+answerText: good
+order: 3 1 5 2 4
+---
+【正解】2 good（この問題の4番目）
+【完成文】
+Robert, you've been working all weekend! It ( would do you good to ) have some rest.
+並べ方：3 would → 1 do → 5 you → 2 good → 4 to（2番目は1、4番目は2）
+【和訳】
+A：ロバート、週末ずっと働いているじゃないですか！少し休むと、あなたのためになりますよ。
+B：ねえ、分かっていますよ。でも月曜日に大事な会議があるので、準備しておきたいのです。
+【考え方】
+Bが I know（分かっている）と答え、But I've got an important meeting on Monday（でも月曜日に大事な会議がある）と、休めない理由を言っています。ですからAは「休んだほうがいい」とすすめていると考えられます。
+この問題のかぎは、do ＋ 人 ＋ good（人のためになる、人に良い効果がある）という決まった言い方です。good はここでは「ためになること、利益」という意味の名詞で、do の後ろに「だれのためか」を表す人を置き、そのあとに good を置きます。
+文の初めの It は仮の主語（本当の主語を後ろに回すための It）で、本当の主語は空所のあとに続く to have some rest（少し休むこと）です。そこで 3 would → 1 do → 5 you と並べ、4番目に 2 good を置き、最後に 4 to を置いて have some rest につなげます。
+したがって4番目は2 good です。
+まちがえやすいのは、3 would → 1 do → 2 good → 5 you → 4 to（It would do good you to …）のように、do good を先に並べてしまう並べ方です。do good のあとに人を続けるなら do good to you のように to が必要ですが、この問題の to は have some rest の前で使うので、人は do と good の間に置きます。
+【覚えるポイント】
+・do ＋ 人 ＋ good：「人のためになる、人に良い効果がある」。
+・It ～ to …：「…することは～だ」。It は仮の主語で、本当の主語は to … の部分です。

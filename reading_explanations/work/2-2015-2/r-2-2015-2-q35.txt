@@ -1,0 +1,28 @@
+---
+choices: They have to take their plants home. | They have to bring their boxes to the closet. | They must give their desk keys to John Willoughby. | They must pack up their computers and put labels on them.
+answerText: They have to take their plants home.
+---
+【正解】1 They have to take their plants home.（彼らは自分の植物を家に持ち帰らなければならない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：引っ越し業者が来る前に、社員は何をしなければなりませんか。
+1 彼らは自分の植物を家に持ち帰らなければならない。
+2 彼らは自分の箱を物置へ持っていかなければならない。
+3 彼らは自分の机の鍵をジョン・ウィロビーに渡さなければならない。
+4 彼らは自分のコンピューターを箱に詰め、それにラベルを貼らなければならない。
+【考え方】
+引っ越しの手順は第2段落に書かれています。The moving company will be coming to the office in two weeks, on October 23.（引っ越し業者は2週間後の10月23日にオフィスに来る）とあり、そのあとに業者が来るまでにすることが書かれています。設問の movers は「引っ越し業者」で、本文の the moving company と同じ意味です。
+段落の最後の文に注目します。The moving company will not transport any plants, so if there are any plants on the desks, employees need to take them home and carry them to the new office building by themselves.（引っ越し業者は植物を一切運ばないので、机の上に植物がある場合は、社員がそれを家に持ち帰り、自分で新しいオフィスビルへ運ぶ必要がある）とあります。transport は「運ぶ」、by themselves は「自分たちで」です。
+業者は植物を運ばないので、業者が来て荷物を運び出すときに植物が残っていても、新しいオフィスには届きません。ですから、植物は業者が来る前に家に持ち帰っておく必要がある、と読み取れます。
+本文と選択肢を対にすると、次のようになります。
+本文 employees need to take them home（社員はそれ（植物）を家に持ち帰る必要がある）＝ 選択肢 They have to take their plants home（彼らは自分の植物を家に持ち帰らなければならない）
+本文の need to ～（～する必要がある）が、選択肢では have to ～（～しなければならない）に言いかえられています。なお本文では if there are any plants on the desks（机の上に植物がある場合は）と条件がついているので、これは植物を置いている社員がすることです。正解は1です。
+【ほかの選択肢】
+2 本文には The boxes and labels can be found in the closet on the fifth floor.（箱とラベルは5階の物置にある）とあります。物置は箱を取りに行く場所で、箱を物置へ持っていくとは書かれていません。向きが反対です。
+3 本文の Please ask John Willoughby for the key. は「鍵はジョン・ウィロビーさんに頼んでください」という意味で、箱とラベルのある物置の鍵を借りる話だと考えられます。社員が自分の机の鍵をジョンに渡すとは書かれていません。
+4 本文で箱に詰めるように言われているのは all the items in their desks（机の中のものすべて）です。コンピューターを箱に詰めるとは書かれていないので、本文にない内容です。
+【覚えるポイント】
+・by oneself：「自分で、ひとりで」。本文では by themselves（自分たちで）。
+・pack up ～：「～を（箱などに）詰める、荷造りする」。

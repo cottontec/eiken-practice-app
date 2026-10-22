@@ -2,6 +2,7 @@
 choices: impossible | at | had | what | seemed
 answerText: impossible
 order: 4 3 5 1 2
+reviewed: yes
 ---
 【正解】1 impossible（この問題の4番目）
 【完成文】

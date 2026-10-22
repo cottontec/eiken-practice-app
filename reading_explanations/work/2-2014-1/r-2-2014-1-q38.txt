@@ -1,6 +1,7 @@
 ---
 choices: To discover why the brainpower of certain participants did not increase. | To test scientifically how effective brain-training programs actually are. | To find out which age groups are better at different mental exercises. | To develop a new way of using computers to help people's thinking skills.
 answerText: To test scientifically how effective brain-training programs actually are.
+reviewed: yes
 ---
 【正解】2 To test scientifically how effective brain-training programs actually are.（脳トレーニングのプログラムが実際にどれくらい効果があるのかを、科学的に調べるため。）
 【和訳】
@@ -10,7 +11,7 @@ answerText: To test scientifically how effective brain-training programs actuall
 設問：BBCラボUKが行った研究の目的は何でしたか。
 1 特定の参加者の脳の力が、なぜ高まらなかったのかを見つけるため。
 2 脳トレーニングのプログラムが実際にどれくらい効果があるのかを、科学的に調べるため。
-3 どの年齢層が、さまざまな頭の練習を得意としているのかを明らかにするため。
+3 どの年齢層が、さまざまな頭の練習をより得意としているのかを明らかにするため。
 4 人々の考える力を助けるために、コンピューターを使う新しい方法を開発するため。
 【考え方】
 BBCラボUKの研究については、第2段落に書かれています。

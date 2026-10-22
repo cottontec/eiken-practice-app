@@ -1,6 +1,7 @@
 ---
 choices: case | person | place | control
 answerText: person
+reviewed: yes
 ---
 【正解】2 person（人、本人。in person で「直接、じかに」）
 【和訳】

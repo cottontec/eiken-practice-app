@@ -1,0 +1,26 @@
+---
+choices: difficult to remove | coming from somewhere else | more dangerous than before | spreading to new places
+answerText: coming from somewhere else
+---
+【正解】2 coming from somewhere else（どこかほかのところから来ている）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 difficult to remove（取り除くのが難しい）
+2 coming from somewhere else（どこかほかのところから来ている）
+3 more dangerous than before（以前より危険である）
+4 spreading to new places（新しい場所へ広がっている）
+【考え方】
+空所は第1段落の最後の From this, he knew that this plastic waste must be (24). です。「このことから、彼はこのプラスチックごみは（24）にちがいないと分かった」という意味です。must be ～ は「～にちがいない」と、強く確信していることを表します。
+From this（このことから）の this が指す、直前の文を確かめます。
+He was surprised to find large amounts of plastic, such as polyester and acrylic, which are not used to make plastic bottles or bags.（彼は、ポリエステルやアクリルのような、プラスチックのボトルや袋を作るのには使われないプラスチックが大量にあるのを見つけて驚いた）
+段落の初めでは、海に浮かぶプラスチックといえばボトルや袋だと多くの人が聞いている、と書かれています。ところが浜辺で見つかったのは、ボトルや袋の材料ではないプラスチックでした。ということは、そのごみはボトルや袋から出たものではなく、別の何かから来ていると考えるのが筋道です。
+実際、第2段落では、そのプラスチックが衣服から出ているのだろうとブラウンが考えたことが書かれています。ですから、「どこかほかのところから来ている」という2が正解です。
+【ほかの選択肢】
+1 「取り除くのが難しい」は、本文で述べられていません。直前の文で分かったのは「ボトルや袋に使われない種類のプラスチックが多い」ということで、そこから取り除きやすさは判断できません。
+3 「以前より危険である」も、本文に書かれていません。プラスチックの種類が分かったことから、危険さが以前と比べてどうなったかは判断できません。
+4 「新しい場所へ広がっている」も、直前の文とつながりません。ブラウンが驚いたのは見つかったプラスチックの「種類」であり、ごみが見つかる場所が広がったという話ではありません。
+【覚えるポイント】
+・must be ～：「～にちがいない」。根拠のある強い推測を表します。
+・From this（このことから）のような語句があれば、this が指す直前の内容から結論を考えます。

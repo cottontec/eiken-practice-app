@@ -1,6 +1,7 @@
 ---
 choices: at issue | in progress | on condition | with time
 answerText: on condition
+reviewed: yes
 ---
 【正解】3 on condition（～という条件で）
 【和訳】

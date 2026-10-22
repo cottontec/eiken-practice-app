@@ -2,6 +2,7 @@
 choices: not | trouble | much | it's | too
 answerText: much
 order: 4 1 5 3 2
+reviewed: yes
 ---
 【正解】3 much（この問題の4番目）
 【完成文】

@@ -1,6 +1,7 @@
 ---
 choices: do away | work out | join up | get along
 answerText: do away
+reviewed: yes
 ---
 【正解】1 do away（（with ～ で）～を廃止する）
 【和訳】

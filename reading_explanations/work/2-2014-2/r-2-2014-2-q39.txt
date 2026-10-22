@@ -1,6 +1,7 @@
 ---
 choices: It tries to figure out how safe they are for use in buildings. | It considers how much energy is needed to create them. | It looks at the price of the materials from which they are made. | It compares them with similar products and chooses the best one.
 answerText: It considers how much energy is needed to create them.
+reviewed: yes
 ---
 【正解】2 It considers how much energy is needed to create them.（製品を作るのにどれだけのエネルギーが必要かを考慮する。）
 【和訳】

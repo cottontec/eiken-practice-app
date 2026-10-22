@@ -2,6 +2,7 @@
 choices: on | from | she | had | the smile
 answerText: the smile
 order: 2 5 3 4 1
+reviewed: yes
 ---
 【正解】5 the smile（この問題の2番目）
 【完成文】

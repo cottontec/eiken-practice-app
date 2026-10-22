@@ -1,6 +1,7 @@
 ---
 choices: of | over | by | with
 answerText: of
+reviewed: yes
 ---
 【正解】1 of（（expect ～ of 人で）人に～を期待する）
 【和訳】

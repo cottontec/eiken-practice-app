@@ -1,6 +1,7 @@
 ---
 choices: Help him agree on a price with an important client. | Choose the materials for some new designs. | Write a report about a new kind of clothing fabric. | Send him notes from a meeting with a store manager.
 answerText: Help him agree on a price with an important client.
+reviewed: yes
 ---
 【正解】1 Help him agree on a price with an important client.（彼が大事な取引先と価格を取り決めるのを手伝う。）
 【和訳】

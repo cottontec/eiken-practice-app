@@ -1,0 +1,29 @@
+---
+choices: The number of jobs available in factories stopped growing. | Its economy went from being agriculture- to manufacturing-based. | It began to be called "post-industrial" by economic experts. | The service industry became the most important source of jobs.
+answerText: Its economy went from being agriculture- to manufacturing-based.
+---
+【正解】2 Its economy went from being agriculture- to manufacturing-based.（経済が、農業中心から製造業中心へと変わった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：南北戦争のころ、アメリカ合衆国に何が起こりましたか。
+1 工場で得られる仕事の数が増えなくなった。
+2 経済が、農業中心から製造業中心へと変わった。
+3 経済の専門家から「脱工業化」と呼ばれ始めた。
+4 サービス業が、最も重要な仕事の源になった。
+【考え方】
+設問の the Civil War（南北戦争）は、第1段落2文目に出てきます。
+Originally, it was an almost entirely agricultural economy, but by around the time of the Civil War in the 1860s, manufacturing had become more important than agriculture.（もともと、アメリカはほとんど完全に農業中心の経済だったが、1860年代の南北戦争のころまでには、製造業が農業よりも重要になっていた）
+agricultural は「農業の」、manufacturing は「製造業（工場などで製品を作る産業）」です。南北戦争のころまでに、経済の中心が農業から製造業へ移ったことが分かります。
+本文と選択肢は次のように対応しています。
+本文 an almost entirely agricultural economy（ほとんど完全に農業中心の経済）＝ 選択肢 agriculture-based（農業中心の）
+本文 manufacturing had become more important than agriculture（製造業が農業より重要になっていた）→ 読み取れること：経済の中心が製造業になった ＝ 選択肢 manufacturing-based（製造業中心の）
+選択肢の go from A to B は「AからBへ変わる」という意味です。正解は2です。
+【ほかの選択肢】
+1 製造業が衰えたのは、Since then（20世紀後半にサービス業が製造業と同じ水準になって以来）のことです。南北戦争のころとは時期が違います。また、工場の仕事の数が「増えなくなった」とは書かれていません。
+3 「脱工業化」と呼ばれているのは now（今）のことで、工場で働く人がとても少なくなったためです。南北戦争のころとは時期が違います。
+4 サービス業が製造業と same level（同じ水準）に達したのは by the late 20th century（20世紀後半まで）のことで、時期が違います。また、「最も重要な仕事の源になった」とも書かれていません。
+【覚えるポイント】
+・go from A to B：「AからBへ変わる」。
+・～-based：「～中心の、～に基づいた」。agriculture-based（農業中心の）、manufacturing-based（製造業中心の）。

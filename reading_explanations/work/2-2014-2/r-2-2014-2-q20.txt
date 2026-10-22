@@ -1,6 +1,7 @@
 ---
 choices: Been designed | Designed | Been designing | Designing
 answerText: Designed
+reviewed: yes
 ---
 【正解】2 Designed（設計されて、作られて）
 【和訳】

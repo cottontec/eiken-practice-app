@@ -1,0 +1,29 @@
+---
+choices: is looking for ways to pay for damage caused by flooding. | is paying drivers to use fuel made from waste. | spends a lot of money every month cleaning up oil. | says that too much car oil has been getting into the water.
+answerText: spends a lot of money every month cleaning up oil.
+---
+【正解】3 spends a lot of money every month cleaning up oil.（油を掃除するのに、毎月多額のお金を使っている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ロンドンの地元の水道会社は、
+1 洪水によって起きた被害の費用を払う方法を探している。
+2 ごみから作られた燃料を使うよう、運転手にお金を払っている。
+3 油を掃除するのに、毎月多額のお金を使っている。
+4 車の油があまりにも多く水に入りこんできていると言っている。
+【考え方】
+地元の水道会社については、第3段落に書かれています。
+まず large amounts of cooking oil are still released into the sewer system every year（今でも毎年大量の食用油が下水道に流されている）とあります。still は「今でも、まだ」です。
+続く文に Indeed, the local water company spends about $1.5 million every month cleaning the city's sewer system so that it does not become blocked with the oil（実際、地元の水道会社は、市の下水道が油でつまらないように、その掃除に毎月約150万ドルを使っている）とあります。spend ＋ お金 ＋ ～ing は「～するのにお金を使う」、so that ～ は「～するように」、be blocked は「ふさがれる、つまる」です。
+本文と選択肢を対にすると、次のようになります。
+本文 spends about $1.5 million every month（毎月約150万ドルを使う）＝ 選択肢 spends a lot of money every month（毎月多額のお金を使う）
+本文 cleaning the city's sewer system so that it does not become blocked with the oil（下水道が油でつまらないように掃除する）→ 選択肢 cleaning up oil（油を掃除する）
+150万ドルは大きな金額なので、a lot of money（多額のお金）と言いかえられています。正解は3です。
+【ほかの選択肢】
+1 本文の flooding（洪水）は、下水道が油でつまった場合に起こりうることとして書かれています（which would cause flooding and other problems）。水道会社が洪水の被害の費用を払う方法を探しているとは書かれていません。
+2 本文で燃料のことが書かれているのは、2つの小さな会社がタクシーにバイオ燃料を売る話です。水道会社が運転手にお金を払っているという話はありません。
+4 下水道に流されているのは cooking oil（食用油）で、車の油ではありません。また、水道会社がそう言っているという話も本文にはありません。
+【覚えるポイント】
+・spend ＋ お金 ＋ ～ing：「～するのに（お金）を使う」。
+・so that ～：「～するように」。目的を表します。

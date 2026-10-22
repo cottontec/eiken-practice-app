@@ -1,6 +1,7 @@
 ---
 choices: established | treated | packed | modified
 answerText: packed
+reviewed: yes
 ---
 【正解】3 packed（いっぱいの、ぎっしり詰まった）
 【和訳】

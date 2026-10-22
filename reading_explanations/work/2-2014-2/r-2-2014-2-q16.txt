@@ -1,6 +1,7 @@
 ---
 choices: all the same | by all means | as a rule | as you know
 answerText: as you know
+reviewed: yes
 ---
 【正解】4 as you know（知ってのとおり）
 【和訳】

@@ -1,0 +1,24 @@
+---
+choices: weight | length | storm | fire
+answerText: weight
+---
+【正解】1 weight（重さ）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 weight：重さ
+2 length：長さ
+3 storm：嵐
+4 fire：火事、火
+【考え方】
+空所の文は The (　) caused some parts of the bridge to break off and fall into the river.（その（　）のせいで、橋の一部が壊れて川に落ちた）です。cause ～ to … は「～が…する原因となる」という意味です。空所には、橋が壊れた原因が入ります。
+空所の前に The があることに注目します。The は「その」という意味で、すでに話に出てきたものを指すときに使います。そこで直前の文を見ると、Before long, the locks on the bridge were as heavy as 20 elephants.（まもなく、その橋の南京錠は、ゾウ20頭分ほどの重さになった）とあります。as heavy as ～ は「～と同じくらい重い」です。
+南京錠がゾウ20頭分ほども重くなったので、その重さで橋の一部が壊れた、という流れになります。weight は「重さ」という意味なので、The weight で「その重さ」となり、直前の heavy（重い）を受けています。正解は1です。
+【ほかの選択肢】
+2 length は「長さ」です。直前の文で述べられているのは南京錠の「重さ」で、長さの話は出てきません。The length では、何の長さなのかが分かりません。
+3 storm は「嵐」です。本文に嵐の話はなく、The storm（その嵐）と言える嵐は、それまでに出てきていません。
+4 fire は「火事、火」です。本文に火事の話はなく、The fire（その火事）が何を指すのか分かりません。
+【覚えるポイント】
+・cause ～ to …：「～が…する原因となる、～に…させる」。
+・as heavy as ～：「～と同じくらい重い」。名詞の形は weight（重さ）です。

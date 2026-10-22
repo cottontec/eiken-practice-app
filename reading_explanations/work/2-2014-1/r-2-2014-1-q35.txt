@@ -1,6 +1,7 @@
 ---
 choices: called Family Fashions to introduce some men's clothing designs. | talked with a client about making some new clothes for them. | drew some new designs for children's shirts and dresses. | presented some new designs to his company's president.
 answerText: talked with a client about making some new clothes for them.
+reviewed: yes
 ---
 【正解】2 talked with a client about making some new clothes for them.（取引先と、その取引先のために新しい服を作ることについて話した。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: spared | renewed | led | healed
 answerText: spared
+reviewed: yes
 ---
 【正解】1 spared（（いやなことを）させずにすませてもらった、免れた）
 【和訳】

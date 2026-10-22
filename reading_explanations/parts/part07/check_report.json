@@ -48,7 +48,8 @@
   "2-2014-1": {
     "stats": {
       "target": 50,
-      "written": 50
+      "written": 50,
+      "reviewed": 50
     },
     "errors": [],
     "warnings": []

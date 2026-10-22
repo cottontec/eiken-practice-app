@@ -1,6 +1,7 @@
 ---
 choices: Originally | Instead | By contrast | In short
 answerText: Originally
+reviewed: yes
 ---
 【正解】1 Originally（もともとは、最初は）
 【和訳】

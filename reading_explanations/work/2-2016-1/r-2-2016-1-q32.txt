@@ -1,0 +1,30 @@
+---
+choices: It becomes able to produce more blood to pump around the body. | It becomes weak and damaged as a result of becoming bigger. | It has to be supported by various muscles in the body. | It has to be given a special medicine to help it grow.
+answerText: It becomes weak and damaged as a result of becoming bigger.
+---
+【正解】2 It becomes weak and damaged as a result of becoming bigger.（大きくなった結果、弱って傷ついてしまう。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：高血圧の人の心臓には何が起こりますか。
+1 体中に送り出すための血液を（前より）多く作れるようになる。
+2 （前より）大きくなった結果、弱って傷ついてしまう。
+3 体のさまざまな筋肉によって支えられなければならない。
+4 大きくなるのを助けるために、特別な薬を与えられなければならない。
+【考え方】
+設問の high blood pressure（高血圧：血管の中で血液が押す力が強すぎる状態）が出てくる部分を探します。第3段落にあります。
+When people have high blood pressure, for example, the muscles in their hearts grow to help the heart push blood around the body.（たとえば、人が高血圧であるとき、心臓が血液を体中に押し出すのを助けるために、心臓の筋肉が大きくなる）
+This kind of growth actually damages the heart and makes it weaker.（この種類の大きくなり方は、実は心臓を傷つけ、（前より）弱くしてしまう）
+その直前に、人間の心臓が大きくなるには one unhealthy and one healthy（1つは不健康な形、1つは健康的な形）がある、と書かれています。高血圧で大きくなるのは、不健康なほうの例です。
+本文と選択肢を対にすると、次のようになります。
+本文 the muscles in their hearts grow（心臓の筋肉が大きくなる）＝ 選択肢 becoming bigger（大きくなること）
+本文 This kind of growth actually damages the heart and makes it weaker（この大きくなり方が心臓を傷つけ、弱くする）＝ 選択肢 It becomes weak and damaged as a result of ～（～の結果、弱って傷つく）
+ですから2が正解です。
+【ほかの選択肢】
+1 本文では、心臓の筋肉が大きくなるのは血液を「押し出す」のを助けるためです。心臓が血液を（前より）多く「作れる」ようになるとは書かれていません。
+3 本文で大きくなるのは the muscles in their hearts（心臓の中の筋肉）です。体のさまざまな筋肉が心臓を支えなければならない、という話はありません。
+4 高血圧の人の心臓は、すでに大きくなって弱っていく例として書かれています。大きくするために特別な薬が必要だ、という話はありません。薬の話は第4段落にありますが、それはヘビの化学物質から作る薬で、ある種の心臓病を治すためのものです。
+【覚えるポイント】
+・as a result of ～：「～の結果として」。
+・make ～ weaker：「～を（前より）弱くする」。weaker は weak（弱い）の比較級（「より～」の形）です。

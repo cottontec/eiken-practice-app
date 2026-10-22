@@ -1,6 +1,7 @@
 ---
 choices: For all I know | At heart | At most | For the time being
 answerText: For all I know
+reviewed: yes
 ---
 【正解】1 For all I know（〔よく分からないが〕ひょっとすると）
 【和訳】
@@ -12,7 +13,7 @@ Bは電話に出ない理由を、it doesn't say who's calling（だれがかけ
 空所のあとは it could be a salesperson trying to sell me something（私に何かを売ろうとしているセールスの人かもしれない）です。could be は「～かもしれない」という、はっきりしない推測を表します。
 for all I know は「（私が知っていることは少ないので）よく分からないけれど、ひょっとすると」という意味です。相手が分からないから、ひょっとするとセールスの人かもしれない、という流れになり、前の文とつながります。正解は1です。
 【ほかの選択肢】
-2 At heart は「心の底では、根は」です。He is kind at heart.（彼は根はやさしい）のように人の本当の性格を言うときに使うので、相手が分からないという話とつながりません。
+2 At heart は「心の底では、根は」です。He is kind at heart.（彼は根はやさしい）のように人の本当の性格を言うときに使います。入れると「根は、セールスの人かもしれない」となり、だれがかけているのか分からないという前の文ともつながりません。
 3 At most は「多くても、せいぜい」です。数や量の上限を言うときに使う語なので、電話の相手がだれかを推測する文には合いません。
 4 For the time being は「当分の間、さしあたり」です。「当分の間、セールスの人かもしれない」となり、意味が通りません。
 【覚えるポイント】

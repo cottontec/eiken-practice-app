@@ -2,6 +2,7 @@
 choices: impossible | at | had | what | seemed
 answerText: had
 order: 4 3 5 1 2
+reviewed: yes
 ---
 【正解】3 had（この問題の2番目）
 【完成文】
@@ -12,7 +13,7 @@ Yoshi thought he was too old to learn Spanish. However, ( what had seemed imposs
 【考え方】
 まず文の形を見ます。空所のあとは first was not that difficult です。was が動詞なので、空所の部分が文の主語（「～は」にあたる部分）にならなければなりません。
 主語のまとまりを作るのに使えるのが 4 what です。what は「～すること、～するもの」という意味で、what ＋ 動詞 … で名詞のまとまりを作ることができます。
-what のあとには「どう思えたか」を続けます。seem ～ は「～のように思える」で、seemed impossible で「不可能に思えた」となります。ここで 3 had を seemed の前に置き、had seemed（（それより前に）思えていた）とします。「難しくなかった」と分かったときより前、つまり学び始める前にそう思えていた、という時間の差を表す形です。
+what のあとには「どう思えたか」を続けます。seem ～ は「～のように思える」で、seemed impossible で「不可能に思えた」となります。ここで 3 had を seemed の前に置き、had seemed（（それより前に）思えていた）とします。「難しくなかった」と分かったときより前、つまり最初のころにはそう思えていた、という時間の差を表す形です。
 最後に 2 at を置くと、空所のあとの first とつながって at first（最初は）となります。
 これで what had seemed impossible at first（最初は不可能に思えていたこと）が主語になり、「それほど難しくなかった」と続きます。1文目の「年をとりすぎていると思っていた」という内容とも合います。
 したがって2番目は3 had です。

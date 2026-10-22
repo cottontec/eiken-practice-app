@@ -1,6 +1,7 @@
 ---
 choices: resigned | preserved | surfaced | bloomed
 answerText: resigned
+reviewed: yes
 ---
 【正解】1 resigned（辞職した）
 【和訳】

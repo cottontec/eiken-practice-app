@@ -1,6 +1,7 @@
 ---
 choices: Designers should limit the number of technical nutrients used in their products to two. | Publishers should try to plant new trees to replace the ones they cut down to make paper. | People should only buy products that are biological and can be returned to nature. | Metals and plastics should only be used if they can be recycled without damaging the environment.
 answerText: Metals and plastics should only be used if they can be recycled without damaging the environment.
+reviewed: yes
 ---
 【正解】4 Metals and plastics should only be used if they can be recycled without damaging the environment.（金属やプラスチックは、環境に害を与えずにリサイクルできる場合にだけ使われるべきだ。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: Give copies of the newspaper to children so they can practice reading. | Publish an announcement about a book-collecting event. | Ask a reporter to write an article about the history of Books-for-All. | Put an ad in the newspaper asking for money to build a library.
 answerText: Publish an announcement about a book-collecting event.
+reviewed: yes
 ---
 【正解】2 Publish an announcement about a book-collecting event.（本を集める催しについてのお知らせを掲載する。）
 【和訳】

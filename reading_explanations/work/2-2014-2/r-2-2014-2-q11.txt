@@ -1,6 +1,7 @@
 ---
 choices: to | from | by | out
 answerText: from
+reviewed: yes
 ---
 【正解】2 from（～から（区別して））
 【和訳】

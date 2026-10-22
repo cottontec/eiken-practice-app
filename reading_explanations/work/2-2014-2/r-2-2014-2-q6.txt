@@ -1,6 +1,7 @@
 ---
 choices: arrival | sympathy | survival | reality
 answerText: reality
+reviewed: yes
 ---
 【正解】4 reality（現実）
 【和訳】

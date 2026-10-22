@@ -1,0 +1,19 @@
+---
+choices: arrest | detective | collaboration | democracy
+answerText: collaboration
+---
+【正解】3 collaboration（共同作業、協力）
+【和訳】
+その2人の生物学者の（共同作業）は、大成功でした。協力することで、彼らはわずか1週間で、アマゾンの熱帯雨林で2つの新種を発見したのです。
+（選択肢の意味）1 逮捕　2 刑事、探偵　3 共同作業、協力　4 民主主義
+【考え方】
+空所のあとの between the two biologists（その2人の生物学者の間の）に注目します。2人の間にある何かが very successful（とてもうまくいった）と言っています。
+次の文が、その中身を説明しています。By working together（一緒に働くことで、協力することで）, they discovered two new species（2つの新種を発見した）とあります。2人が協力して成果を上げたのですから、空所には「協力して一緒に取り組むこと」を表す語が入ると考えられます。
+collaboration は「共同作業、協力」という意味です。The collaboration between the two biologists で「2人の生物学者の共同作業」となり、次の文の working together とぴったり合うので、3が正解です。
+【ほかの選択肢】
+1 arrest は「逮捕」です。「2人の生物学者の間の逮捕が成功した」となり、協力して新種を見つけたという次の文とつながりません。
+2 detective は「刑事、探偵」という人を表す語です。「2人の間の探偵が成功した」となり、意味が通りません。
+4 democracy は「民主主義（国民が政治のことを決める仕組み）」です。生物学者2人の研究の話とは関係がありません。
+【覚えるポイント】
+・collaboration：「共同作業、協力」。collaboration between A and B（AとBの共同作業）の形でよく使います。
+・by ～ing：「～することによって」。By working together で「協力することで」。

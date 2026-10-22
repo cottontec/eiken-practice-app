@@ -1,6 +1,7 @@
 ---
 choices: plain | due | solid | wise
 answerText: due
+reviewed: yes
 ---
 【正解】2 due（〔提出や支払いの〕期限が来て、期限である）
 【和訳】

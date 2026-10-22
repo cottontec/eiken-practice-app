@@ -1,6 +1,7 @@
 ---
 choices: boredom | notice | warmth | reality
 answerText: warmth
+reviewed: yes
 ---
 【正解】3 warmth（暖かさ）
 【和訳】

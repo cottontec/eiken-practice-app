@@ -1,6 +1,7 @@
 ---
 choices: leadership | weather | diet | lifestyle
 answerText: lifestyle
+reviewed: yes
 ---
 【正解】4 lifestyle（生活様式、暮らし方）
 【和訳】

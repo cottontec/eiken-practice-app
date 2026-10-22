@@ -1,6 +1,7 @@
 ---
 choices: announced that it would be illegal to drive downtown on Fridays. | created a law that required companies to cut carbon emissions. | shut down government buildings on Mondays and Thursdays. | introduced a new idea for saving money in the state of Utah.
 answerText: introduced a new idea for saving money in the state of Utah.
+reviewed: yes
 ---
 【正解】4 introduced a new idea for saving money in the state of Utah.（ユタ州でお金を節約するための新しい考えを取り入れた。）
 【和訳】
@@ -24,7 +25,7 @@ The economy was doing poorly, and the state needed to cut its spending.（経済
 正解は4です。
 【ほかの選択肢】
 1 本文には、金曜日に state vehicles were left in their garages（州の車は車庫に置かれたままになった）とあります。州の車が使われなかったという話で、町の中心部を車で走ることを法律で禁じたとは書かれていません。
-2 炭素の排出量は、週4日勤務の結果として14パーセント減りました。会社に排出量を減らすよう義務づける法律を作ったとは書かれていません。
+2 炭素の排出量については、ユタ州の実験で起きたこととして carbon emissions were cut by 14 percent（炭素の排出量が14パーセント減った）と書かれているだけです。知事が会社に排出量を減らすよう義務づける法律を作ったとは書かれていません。
 3 本文では、公務員は月曜日から木曜日まで働き、Each Friday（毎週金曜日）に建物が閉められたと書かれています。月曜日と木曜日に閉めたのではありません。
 【覚えるポイント】
 ・cut one's spending：「支出を減らす」。spending は「支出」。

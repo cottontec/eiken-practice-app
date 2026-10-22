@@ -1,6 +1,7 @@
 ---
 choices: The games that Breen created for Freerice were not very popular with teenagers at first. | The idea for Freerice was first thought of by two boys who were living in the U.S. | Some people think Freerice is successful because its users can enjoy helping people. | Charities get donations even when visitors to Freerice's website do not play the games.
 answerText: Some people think Freerice is successful because its users can enjoy helping people.
+reviewed: yes
 ---
 【正解】3 Some people think Freerice is successful because its users can enjoy helping people.（フリーライスが成功しているのは、利用者が人を助けることを楽しめるからだと考える人もいる。）
 【和訳】

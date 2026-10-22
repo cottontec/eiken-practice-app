@@ -2,6 +2,7 @@
 choices: picture | think | fine | would be | either
 answerText: would be
 order: 2 5 1 4 3
+reviewed: yes
 ---
 【正解】4 would be（この問題の4番目）
 【完成文】

@@ -1,0 +1,30 @@
+---
+choices: The price of guano is so high that local people in Peru can no longer buy it. | Peru must protect both anchoveta and the seabirds to save the guano industry. | The trade that developed around guano caused other industries in Peru to lose money. | Traditional guano collecting in Peru is more harmful to human health than first thought.
+answerText: Peru must protect both anchoveta and the seabirds to save the guano industry.
+---
+【正解】2 Peru must protect both anchoveta and the seabirds to save the guano industry.（グアノ産業を守るために、ペルーはアンチョベータと海鳥の両方を守らなければならない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：次の記述のうち、正しいものはどれですか。
+1 グアノの値段がとても高いので、ペルーの地元の人々はもうそれを買うことができない。
+2 グアノ産業を守るために、ペルーはアンチョベータと海鳥の両方を守らなければならない。
+3 グアノをめぐって発展した取引のせいで、ペルーのほかの産業がお金を失った。
+4 ペルーの昔ながらのグアノ集めは、最初に考えられていたよりも人間の健康に害がある。
+【考え方】
+「正しいものはどれか」という設問なので、選択肢を1つずつ本文と照らし合わせます。手がかりになるのは第4段落です。
+1文目で、グアノ産業が上向き始めたときに a new threat to it（それ〔グアノ産業〕に対する新たな脅威）が現れたと書かれています。その脅威とは、グアノを生み出す海鳥が主に食べるアンチョベータという魚が、多くの国の漁船にたくさんとられていることです。
+最後の文は Both the fish and the birds might disappear from the area if the fishing is not controlled, and Peru is working hard to get countries to agree to limit the number they catch.（漁が管理されなければ、魚と鳥の両方がその海域からいなくなってしまうかもしれない。そして、ペルーは、とる数を制限することに各国が同意するよう、懸命に働きかけている）です。
+グアノは海鳥のふんなので、海鳥がいなくなればグアノもとれなくなります。そして、その海鳥が主に食べているのがアンチョベータです。本文には、漁が管理されなければ Both the fish and the birds（魚と鳥の両方）がいなくなるかもしれないとあり、ペルーはとる数を制限するよう各国に働きかけています。ここから、グアノ産業を守るには魚と海鳥の両方を守る必要があることが読み取れます。
+本文と選択肢は次のように対応しています。
+本文 Both the fish and the birds（魚と鳥の両方）＝ 選択肢 both anchoveta and the seabirds（アンチョベータと海鳥の両方）
+本文 a new threat to it（グアノ産業に対する新たな脅威）→ 選択肢 to save the guano industry（グアノ産業を守るために）
+本文の「漁を管理しなければ魚も鳥もいなくなるかもしれない」という内容を、選択肢では「両方を守らなければならない」とまとめて言っています。正解は2です。
+【ほかの選択肢】
+1 本文で値段が上がったと書かれているのは、artificial fertilizers（人工の肥料）です。そのため、グアノはむしろ more economical（より経済的）になりました。グアノが高すぎて地元の人々が買えないとは書かれていません。
+3 本文の第2段落には、グアノの大きな取引が生まれ、グアノがペルーの主要な輸出品になったと書かれています。ほかの産業がお金を失ったとは書かれていません。
+4 本文で人間の健康に害を与えることがあると書かれているのは、人工の肥料に使われる化学物質です。グアノは completely organic（完全に有機のもの）とされており、グアノ集めが健康に害を与えるとは書かれていません。
+【覚えるポイント】
+・both A and B：「AとBの両方」。
+・get ～ to …：「～に…してもらう、～が…するように働きかける」。get countries to agree で「各国に同意してもらう」。
