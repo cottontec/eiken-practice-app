@@ -1,0 +1,33 @@
+---
+choices: The system may have been more successful if the IMF had insisted that the US dollar remained tied to gold. | Although the system itself ended in failure, some economic organizations that play an important role today owe their existence to it. | The United States should have ended the system earlier to prevent a loss of confidence in the US dollar as a global currency. | Although both the IMF and the World Bank are influential today, their actions were considered the main reason for the system's downfall.
+answerText: Although the system itself ended in failure, some economic organizations that play an important role today owe their existence to it.
+---
+【正解】2 Although the system itself ended in failure, some economic organizations that play an important role today owe their existence to it.（この体制そのものは失敗に終わったが、今日重要な役割を果たしているいくつかの経済の組織は、この体制のおかげで存在している。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What can be concluded about the Bretton Woods system?（ブレトンウッズ体制について、どのようなことが結論づけられるか。）
+1 The system may have been more successful if the IMF had insisted that the US dollar remained tied to gold.（もしIMFが、アメリカのドルは金と結びついたままであるべきだと強く主張していたら、この体制はより成功していたかもしれない。）
+2 Although the system itself ended in failure, some economic organizations that play an important role today owe their existence to it.（この体制そのものは失敗に終わったが、今日重要な役割を果たしているいくつかの経済の組織は、この体制のおかげで存在している。）
+3 The United States should have ended the system earlier to prevent a loss of confidence in the US dollar as a global currency.（アメリカは、世界の通貨としてのアメリカのドルへの信頼が失われるのを防ぐために、この体制をもっと早く終わらせるべきだった。）
+4 Although both the IMF and the World Bank are influential today, their actions were considered the main reason for the system's downfall.（IMFと世界銀行はどちらも今日大きな影響力を持っているが、それらの行動が、この体制が崩れた主な原因だと考えられた。）
+【考え方】
+まず見るところ：第4段落の effectively ending the Bretton Woods system と、Nevertheless, its legacy lives on ～
+第4段落では、ブレトンウッズ体制が終わるまでと、そのあとに残ったものが書かれています。
+In 1971, the United States suspended the dollar's convertibility to gold, effectively ending the Bretton Woods system.（1971年、アメリカはドルを金に交換することを停止し、事実上ブレトンウッズ体制を終わらせた）
+その前には、ドイツとフランスが体制から離れたこと、インフレが進んだこと、ドルへの信頼に影響が出たことなど、さまざまな困難が書かれています。体制はうまくいかずに終わったと読み取れます。
+Nevertheless, its legacy lives on in the shape of the International Monetary Fund (IMF) and the World Bank, which emerged out of the system.（それでも、その遺産は、この体制から生まれた国際通貨基金〔IMF〕と世界銀行という形で、今も生き続けている）
+さらに最後の文で、IMFと世界銀行の働きは form a core element of the modern financial order（現代の金融の秩序の中心となる部分を形づくっている）と書かれています。本文と選択肢を対にすると、次のようになります。
+・本文 further economic challenges（さらなる経済的な困難）、effectively ending the Bretton Woods system（事実上ブレトンウッズ体制を終わらせた）→ 読み取れること → 選択肢 the system itself ended in failure（この体制そのものは失敗に終わった）
+・本文 the IMF and the World Bank, which emerged out of the system（この体制から生まれたIMFと世界銀行）→ 言いかえると → 選択肢 some economic organizations ～ owe their existence to it（いくつかの経済の組織は、この体制のおかげで存在している）
+・本文 form a core element of the modern financial order（現代の金融の秩序の中心となる部分を形づくっている）→ 言いかえると → 選択肢 play an important role today（今日重要な役割を果たしている）
+ですから、2が正解です。
+この問題の型：対比（Nevertheless：体制は終わった ⇔ その遺産は今も生きている）
+【ほかの選択肢】
+1 IMFがドルと金の結びつきを続けるよう主張していたら、体制がより成功していたかもしれない、という内容は本文に書かれていません。本文でIMFは、体制が終わったあとに残った遺産として述べられています。
+3 アメリカが体制をもっと早く終わらせるべきだった、という筆者の考えは本文に書かれていません。本文は、ドルへの信頼に影響が出たことと、1971年に体制が事実上終わったことを述べているだけです。
+4 本文で、ドルへの信頼に影響を与えた要因として挙げられているのは、ドイツとフランスが体制から離れたこと、多くの国でインフレが進んだこと、アメリカの国内と軍事の支出が増えたことです。IMFと世界銀行の行動が体制が崩れた主な原因だとは書かれていません。
+【覚えるポイント】
+・owe A to B：「A は B のおかげである」。owe their existence to it で「それのおかげで存在している」です。本文の emerged out of the system（この体制から生まれた）の言いかえになっています。
+・What can be concluded ～?（何が結論づけられるか）の設問では、最後の段落の Nevertheless（それでも）のような言葉の前後に注目しましょう。「悪い結果」と「それでも残ったよいもの」の両方を含む選択肢が正解になることが多いです。
