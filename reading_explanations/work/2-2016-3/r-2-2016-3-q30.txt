@@ -1,0 +1,29 @@
+---
+choices: They are studying the brains of people who have good memories in their old age. | They are focusing on cases where memory loss is not caused by brain disease. | They are trying to reduce the effects of brain diseases on people's memories. | They are looking for a way to reduce the inconvenience of memory loss.
+answerText: They are studying the brains of people who have good memories in their old age.
+---
+【正解】1 They are studying the brains of people who have good memories in their old age.（彼らは、年をとっても記憶力がよい人々の脳を研究している。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ノースウェスタン大学の研究者たちは、記憶力の低下について何をしていますか。
+1 彼らは、年をとっても記憶力がよい人々の脳を研究している。
+2 彼らは、記憶力の低下が脳の病気によって起こるのではない場合に注目している。
+3 彼らは、脳の病気が人々の記憶力に与える影響を減らそうとしている。
+4 彼らは、記憶力の低下による不便さを減らす方法を探している。
+【考え方】
+設問の researchers at Northwestern University（ノースウェスタン大学の研究者たち）が出てくるのは、第1段落の後半です。
+Researchers at Northwestern University in Chicago, however, decided to take a different approach. They began looking at the brains of people who still have strong and healthy memories even as they get older.（しかし、シカゴにあるノースウェスタン大学の研究者たちは、違う方法をとることにした。彼らは、年をとってもなお、しっかりした健康な記憶力を持っている人々の脳を調べ始めた）
+however（しかし）と a different approach（違う方法）から、ほかの科学者たちが記憶力の低下に苦しむ人の脳を研究してきたのに対して、この研究者たちは反対側の、記憶力のよい高齢者の脳を調べたことが分かります。
+本文と選択肢を対にすると、次のようになります。
+本文 looking at the brains ＝ 選択肢 studying the brains（脳を調べる・研究する）
+本文 people who still have strong and healthy memories even as they get older ＝ 選択肢 people who have good memories in their old age（年をとっても記憶力がよい人々）
+ですから、1が正解です。
+【ほかの選択肢】
+2 「脳の病気によって起こるのではない記憶力の低下」に注目しているという話は、本文にありません。研究者たちが調べたのは、記憶力が低下した人ではなく、記憶力がよいままの高齢者です。
+3 脳の病気の影響を減らそうとしているという話は、本文にありません。第1段落の Scientists have been studying the brains of people suffering from memory loss in the hope of finding a way to treat the problem.（科学者たちは、この問題を治療する方法を見つけたいと願って、記憶力の低下に苦しむ人々の脳を研究してきた）は、ほかの科学者たちのやり方です。ノースウェスタン大学の研究者たちは「違う方法」をとったと書かれています。
+4 本文には inconvenience（不便）という言葉が出てきますが、「記憶力の低下はふつう単に不便なだけだ」という説明の中で使われているだけです。研究者たちが不便さを減らす方法を探しているとは書かれていません。
+【覚えるポイント】
+・take a different approach：「違う方法をとる」。however と組み合わさると、前に書かれたやり方と反対・別のやり方が続きます。
+・even as they get older：「年をとっても」。in their old age（年をとってから、老年期に）と言いかえられています。

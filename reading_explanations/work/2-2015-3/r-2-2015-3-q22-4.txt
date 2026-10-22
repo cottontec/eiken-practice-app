@@ -8,7 +8,7 @@ order: 5 2 1 4 3
 Although his family had a reservation, ( they were made to wait outside ) for over 20 minutes until their table was ready.
 並べ方：5 they → 2 were → 1 made → 4 to → 3 wait outside（2番目は2、4番目は4）
 【和訳】
-ジョージは、その新しいレストランのサービスに不満でした。彼の家族は予約をしていたのに、テーブルの準備ができるまで、20分以上も外で待たされたのです。
+ジョージは、その新しいレストランのサービスに不満でした。彼の家族は予約をしていたのに、テーブルの準備ができるまで、20分以上外で待たされたのです。
 【考え方】
 1文目の George was unhappy with the service（ジョージはサービスに不満だった）と、Although his family had a reservation（予約をしていたのに）から、空所には「不満に思った出来事」が入ると考えられます。空所のあとの for over 20 minutes until their table was ready（テーブルの準備ができるまで20分以上）から、それは「外で長く待たされたこと」だと分かります。
 「待たされた」という受け身を作るには、make ＋ 人 ＋ 動詞の元の形（人に～させる）を使います。「～させる」側から言う能動の文（例：「（だれかが）彼らを外で待たせた」）では made them wait outside となり、wait の前に to はありません。ところが、これを受け身にすると they were made to wait outside のように、made のあとに to が必要になります。
