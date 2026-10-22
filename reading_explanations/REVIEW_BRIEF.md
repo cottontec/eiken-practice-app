@@ -17,7 +17,9 @@
    - 定型文の使い回しになっていないか。
 3. 問題があればファイルを直接直す。直せない疑問（正式解答への疑問、画像の判読不能）は、ヘッダを `status: issue` と `issueReason:` にして本文を空にする。
 4. 点検を終えた問題ファイルのヘッダに `reviewed: yes` を加える（直した場合も、問題がなかった場合も）。passageファイルにはヘッダを付けない。
-5. `$WORK/_review.md` に、直した箇所の一覧（問題ID・直した内容・理由）と、自動では確かめられず人の目で確認が要る点（要確認）を書く。
+5. `$WORK/_review.md` に次の2つの見出しで書く（見出しの文字は変えない。取りまとめ時に機械的に抜き出す）。
+   - `## 修正一覧`：1行1件、`- <問題ID>：<直した内容>（重大/軽微）`
+   - `## 要確認`：1行1件、`- <問題ID>：<人の目で確認が要る点>`。なければ `- なし`
 6. 次を実行し ERROR 0 を確認する。
    ```
    python3 -I /home/user/eiken-practice-app/reading_explanations/tools/build_and_check.py --src-root /tmp/claude-0/-home-user-eiken-practice-app/37990840-d70a-5962-afc7-2daeb13275d4/scratchpad/zips --part <分割番号> --batch <batchId>
