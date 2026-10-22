@@ -1,0 +1,32 @@
+---
+choices: realized that they had traveled off course and tried to find their way again using a different method. | been less independent and therefore swum back toward the equator to return to the females. | known to follow the lead of the females, which generally travel more and have better navigation skills. | been unable to use sonar clicks to request help from other whales that were nearby.
+answerText: realized that they had traveled off course and tried to find their way again using a different method.
+---
+【正解】1 realized that they had traveled off course and tried to find their way again using a different method.（自分たちが進路からはずれてしまったことに気づき、別の方法を使って再び道を見つけようとした〔だろう〕。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：If the whales had been older, they would have（もしそのクジラたちがもっと年をとっていたら、～だろう。）
+1 realized that they had traveled off course and tried to find their way again using a different method.（自分たちが進路からはずれてしまったことに気づき、別の方法を使って再び道を見つけようとした〔だろう〕。）
+2 been less independent and therefore swum back toward the equator to return to the females.（〔今より〕独立心が弱く、そのため、メスのところへ戻るために赤道の方へ泳いで帰った〔だろう〕。）
+3 known to follow the lead of the females, which generally travel more and have better navigation skills.（メスについて行くべきだと分かっていた〔だろう〕。メスはふつう、より多く移動し、より優れた方向を決める技術を持っているからだ。）
+4 been unable to use sonar clicks to request help from other whales that were nearby.（ソナーのクリック音を使って、近くにいたほかのクジラに助けを求めることができなかった〔だろう〕。）
+【考え方】
+まず見るところ：第3段落の最後の In contrast, more experienced whales would have known to use other navigation methods
+設問は If ～ had been ..., they would have ～（もし～だったら、～しただろう）の形で、「もしクジラがもっと年をとっていたら」という、実際とはちがう場合を考えています。第3段落の最後の2つの文を見ます。
+Scientists believe the young males were relying on magnetic sensing and did not realize they had strayed from their migration route.（科学者たちは、若いオスたちは磁気を感じ取る力に頼っていて、自分たちが移動の経路からはずれてしまったことに気づかなかったのだと考えている）
+In contrast, more experienced whales would have known to use other navigation methods, such as sonar clicks, to reorient themselves before it was too late.（それとは対照的に、もっと経験のあるクジラなら、手遅れになる前に、ソナーのクリック音のような別の方法を使って、自分の向きを立て直すことを知っていただろう）
+若いオスは「経路からはずれたことに気づかなかった」のに対して、経験のあるクジラなら「別の方法で向きを立て直した」と書かれています。In contrast（それとは対照的に）があるので、経験のあるクジラは、はずれたことに気づけたと読み取れます。本文と選択肢を対にすると、次のようになります。
+・本文 did not realize they had strayed from their migration route（経路からはずれたことに気づかなかった）の反対 → 読み取れること → 選択肢 realized that they had traveled off course（進路からはずれたことに気づいた）
+・本文 use other navigation methods（別の方法を使う）→ ほぼ同じ内容 → 選択肢 using a different method（別の方法を使って）
+・本文 to reorient themselves（自分の向きを立て直す）→ 言いかえると → 選択肢 tried to find their way again（再び道を見つけようとした）
+ですから1が正解です。
+この問題の型：対比（若いオスは気づかなかった ⇔ 経験のあるクジラなら別の方法で立て直した）
+【ほかの選択肢】
+2 本文では、年をとった経験豊富なオスは are more solitary and travel alone（群れずに過ごすことが多く、ひとりで移動する）と書かれています。年をとると独立心が弱くなるという話も、メスのいる赤道の方へ帰るという話も書かれていません。
+3 本文には、メスのマッコウクジラは赤ちゃんといっしょに remain in waters around the equator（赤道の周りの海にとどまる）と書かれているだけです。メスのほうが多く移動するとも、方向を決める技術が優れているとも書かれていません。
+4 本文では、経験のあるクジラなら、ソナーのクリック音を使って向きを立て直すことを知っていただろうと書かれています。ソナーを使えないという内容は、この説明と合いません。また、ほかのクジラに助けを求めるという話も書かれていません。
+【覚えるポイント】
+・stray from ～：「～からはずれる、迷い出る」。選択肢では travel off course（進路からはずれる）と言いかえられています。reorient oneself は「自分の向きを立て直す」です。
+・If ～ had been ..., they would have ～ の設問では、本文で「実際にはどうだったか」と、In contrast などのあとの「そうでなかったらどうだったか」を比べて読むと、答えの場所が見つかりやすくなります。

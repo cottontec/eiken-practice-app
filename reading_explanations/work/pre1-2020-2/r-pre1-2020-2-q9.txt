@@ -1,0 +1,30 @@
+---
+choices: corruption | evaluation | justification | devastation
+answerText: devastation
+---
+【正解】4 devastation（壊滅的な被害、荒廃）
+【和訳】
+（英文）
+After viewing the ［devastation］ caused by the hurricane, the president promised government aid to help rebuild the affected areas.
+（訳）
+ハリケーンによって引き起こされた（壊滅的な被害）を見たあと、大統領は、被害を受けた地域の再建を助けるために、政府の援助を約束した。
+（選択肢の意味）
+1 corruption：汚職、腐敗（地位を悪用して不正をすること）
+2 evaluation：評価
+3 justification：正当化、正当な理由
+4 devastation：壊滅的な被害、荒廃
+【考え方】
+まず見るところ：空所のあとの caused by the hurricane と、文の後半の rebuild the affected areas
+空所のあとは caused by the hurricane（ハリケーンによって引き起こされた）です。空所には、ハリケーンが引き起こしたものが入ります。
+文の後半を見ます。
+the president promised government aid to help rebuild the affected areas（大統領は、被害を受けた地域の再建を助けるために、政府の援助を約束した）
+rebuild（再建する）や affected areas（被害を受けた地域）から、ハリケーンで町が大きく壊されたことが分かります。
+devastation は「壊滅的な被害、荒廃」という意味なので、4が正解です。
+この問題の型：因果（ハリケーン→大きな被害→再建の援助）／語の意味・組み合わせ（caused by the hurricane→devastation）
+【ほかの選択肢】
+1 corruption は「汚職、腐敗」です。地位を悪用した不正を表す語で、ハリケーンが引き起こすものではありません。
+2 evaluation は「評価」です。「ハリケーンによって引き起こされた評価」となり、意味が通りません。
+3 justification は「正当化、正当な理由」です。ハリケーンが引き起こすものではなく、再建の援助を約束する流れにもつながりません。
+【覚えるポイント】
+・devastation：「壊滅的な被害、荒廃」。動詞 devastate（壊滅させる）の名詞の形です。
+・空所のあとに caused by ～（～によって引き起こされた）があるときは、その原因（ここではハリケーン）が生み出すものを考え、後半の rebuild（再建する）などの語と合うかを確かめると手がかりになります。

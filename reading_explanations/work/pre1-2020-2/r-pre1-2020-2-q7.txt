@@ -1,0 +1,30 @@
+---
+choices: evade | revoke | commend | seclude
+answerText: commend
+---
+【正解】3 commend（ほめる、たたえる）
+【和訳】
+（英文）
+The soldier was given a special medal to ［commend］ him for the bravery he showed during the battle.
+（訳）
+その兵士は、戦いの間に示した勇敢さを（たたえる）ために、特別な勲章（国などが功績のあった人に与える記章）を授けられた。
+（選択肢の意味）
+1 evade：避ける、逃れる
+2 revoke：取り消す、無効にする
+3 commend：ほめる、たたえる
+4 seclude：引き離す、隔離する
+【考え方】
+まず見るところ：空所のあとの him for the bravery he showed
+文の前半は、兵士が特別な勲章を与えられたと言っています。to ( ) は「（　）するために」と、勲章を与えた目的を表しています。
+空所のあとを見ます。
+( ) him for the bravery he showed during the battle（戦いの間に彼が示した勇敢さのことで、彼を（　）する）
+A for B の形で「BのことでAを～する」という意味になります。勇敢さ（bravery）を理由に勲章を与えるのですから、「ほめる、たたえる」という意味の語が合います。
+commend A for B は「BのことでAをほめる」という意味なので、3が正解です。
+この問題の型：語の意味・組み合わせ（medal・bravery→commend）／熟語・決まった形（commend A for B）
+【ほかの選択肢】
+1 evade は「避ける、逃れる」です。勲章を与えて兵士を避けるというのは、勇敢さに勲章を与える目的として意味が通りません。
+2 revoke は「取り消す、無効にする」です。許可や資格などを取り消すときに使う語で、勲章を与えることとは反対の向きの動きになります。
+4 seclude は「引き離す、隔離する」です。勇敢さを理由に兵士を人から引き離す、となり、勲章を与える目的として意味が通りません。
+【覚えるポイント】
+・commend A for B：「BのことでAをほめる、たたえる」。
+・medal（勲章、メダル）や bravery（勇敢さ）のような「よい行いへのごほうび」を表す語があるときは、空所に「ほめる」向きの動詞が入ることが多いので、文の中のプラスの語を手がかりにします。

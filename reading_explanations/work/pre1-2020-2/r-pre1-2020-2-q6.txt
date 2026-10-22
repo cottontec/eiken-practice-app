@@ -1,0 +1,32 @@
+---
+choices: densely | remarkably | charitably | inevitably
+answerText: inevitably
+---
+【正解】4 inevitably（必然的に、どうしても避けられずに）
+【和訳】
+（英文）
+A: Is everything ready for the restaurant's grand opening tomorrow?
+B: I think so. There will ［inevitably］ be some problems on the first day, but hopefully nothing major will go wrong.
+（訳）
+A：明日のレストランのグランドオープン（開店記念の初営業）の準備は、全部できている？
+B：できていると思うよ。初日には（どうしても）いくつか問題が起こるだろうけれど、大きな失敗は何も起こらないといいな。
+（選択肢の意味）
+1 densely：密集して、ぎっしりと
+2 remarkably：著しく、驚くほど
+3 charitably：寛大に、情け深く
+4 inevitably：必然的に、どうしても避けられずに
+【考え方】
+まず見るところ：空所のある文の There will ( ) be some problems ～, but hopefully nothing major will go wrong
+Bは準備はできていると思うと答えたうえで、初日について話しています。
+There will ( ) be some problems on the first day（初日には（　）いくつか問題が起こるだろう）
+but hopefully nothing major will go wrong（でも、大きな失敗は何も起こらないといい）
+but のあとで「大きな失敗はないといい」と願っています。その前では、「いくつかの問題は起こるものだ」と、さけられないことを認めていると考えられます。
+inevitably は「必然的に、どうしても避けられずに」という意味なので、4が正解です。準備ができていても、初日にいくつかの問題が出るのはさけられない、という意味になります。
+この問題の型：対比（but：いくつかの問題は起こる⇔大きな失敗は起こらないといい）／語の意味・組み合わせ（some problems→inevitably）
+【ほかの選択肢】
+1 densely は「密集して、ぎっしりと」です。人や木などが集まっている様子を表す語で、問題が起こるかどうかを話すこの文には合いません。
+2 remarkably は「著しく、驚くほど」です。「驚くほど問題が起こる」となると、but のあとの「大きな失敗は起こらないといい」という控えめな願いと、うまくつながりません。
+3 charitably は「寛大に、情け深く」です。人の態度を表す語で、「問題が情け深く起こる」となり、意味が通りません。
+【覚えるポイント】
+・inevitably：「必然的に、どうしても避けられずに」。
+・There will ( ) be some problems ～, but hopefully nothing major ～ のように「いくつかは起こる、でも大きな失敗はないといい」という形では、前半に「さけられない」という意味の語が入ることが多いので、but の前後の関係を確かめると手がかりになります。

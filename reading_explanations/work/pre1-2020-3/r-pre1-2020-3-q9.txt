@@ -1,0 +1,30 @@
+---
+choices: feasible | fierce | inventive | eventful
+answerText: feasible
+---
+【正解】1 feasible（実現可能な、実行できる）
+【和訳】
+（英文）
+Domingo's boss told him his plan for a new factory was not ［feasible］. It would cost too much and take too long to finish.
+（訳）
+ドミンゴの上司は彼に、新しい工場の計画は（実現可能）ではないと言いました。その計画は費用がかかりすぎ、完成するまでに時間がかかりすぎるだろうということでした。
+（選択肢の意味）
+1 feasible：実現可能な、実行できる
+2 fierce：激しい、どう猛な
+3 inventive：発明の才のある、独創的な
+4 eventful：出来事の多い、波乱に富んだ
+【考え方】
+まず見るところ：後半の文の It would cost too much and take too long to finish.
+It would cost too much and take too long to finish.（費用がかかりすぎ、完成するまでに時間がかかりすぎるだろう）
+too ～ は「～すぎる」という意味です。お金も時間もかかりすぎるということは、その計画を実際に進めるのは難しいということです。
+空所のある文は次のとおりです。
+his plan for a new factory was not (　)（新しい工場の計画は（　）ではない）
+空所の前に not があることに注意します。「実現可能ではない」とすると、お金と時間がかかりすぎるという後半の文とつながります。feasible は「実現可能な、実行できる」という意味なので、1が正解です。
+この問題の型：語の意味・組み合わせ（not feasible）／因果（費用と時間がかかりすぎる→実現できない）
+【ほかの選択肢】
+2 fierce は「激しい、どう猛な」です。「工場の計画は激しくない」となり、費用や時間がかかりすぎるという話とつながりません。
+3 inventive は「発明の才のある、独創的な」です。「計画は独創的ではない」と言えなくはありませんが、後半の文はお金と時間の話で、計画が新しいかどうかの話ではありません。
+4 eventful は「出来事の多い、波乱に富んだ」です。ふつう一日や人生などについて使う語で、「計画は波乱に富んでいない」となり、後半の文とつながりません。
+【覚えるポイント】
+・feasible：「実現可能な、実行できる」。a feasible plan（実行できる計画）のように、計画やアイデアについて使われることが多い語です。
+・空所の前に not があるときは、後ろの文の内容と合わせて「～ではない」と考えます。cost too much（費用がかかりすぎる）や take too long（時間がかかりすぎる）は、計画が実行しにくいことの手がかりになります。

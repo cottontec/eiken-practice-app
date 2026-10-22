@@ -1,0 +1,30 @@
+---
+choices: conspired | inhaled | diminished | identified
+answerText: conspired
+---
+【正解】1 conspired（共謀した、ひそかにたくらんだ）
+【和訳】
+（英文）
+The man and his friend ［conspired］ to rob a local bank. However, someone else found out and told the police, so they were caught before they could do anything.
+（訳）
+その男と友人は、地元の銀行で強盗をしようと（たくらみました）。しかし、ほかのだれかがそのことを知って警察に知らせたので、彼らは何もできないうちに捕まりました。
+（選択肢の意味）
+1 conspired：共謀した、ひそかにたくらんだ
+2 inhaled：（息などを）吸い込んだ
+3 diminished：減った、減らした
+4 identified：特定した、見分けた
+【考え方】
+まず見るところ：後半の文の someone else found out and told the police, so they were caught before they could do anything
+someone else found out and told the police, so they were caught before they could do anything（ほかのだれかがそのことを知って警察に知らせたので、彼らは何もできないうちに捕まった）
+found out は「（隠されていたことを）知った、気づいた」、before they could do anything は「何かができる前に」です。つまり、2人はまだ実際には何もしておらず、計画の段階で見つかったことが分かります。
+空所のある文は次のとおりです。
+The man and his friend (　) to rob a local bank.（その男と友人は、地元の銀行で強盗をしようと（　））
+rob は「（銀行などを）襲って金品を奪う」です。2人でこっそり悪いことを計画することを conspire と言い、conspire to ～ で「～しようとたくらむ」となります。ですから1が正解です。
+この問題の型：語の意味・組み合わせ（conspire to ～）／推論（何もできないうちに捕まった→計画の段階だった）
+【ほかの選択肢】
+2 inhaled は「（息などを）吸い込んだ」です。「銀行で強盗をしようと吸い込んだ」となり、意味が通りません。
+3 diminished は「減った、減らした」です。「銀行で強盗をしようと減った」となり、意味が通りません。
+4 identified は「特定した、見分けた」です。「銀行で強盗をしようと特定した」となり、意味が通りません。だれかが計画を知って警察に知らせたという後半とも合いません。
+【覚えるポイント】
+・conspire to ～：「（何人かで）～しようとひそかにたくらむ」。悪いことの計画に使われることが多い語です。
+・before they could do anything（何もできないうちに）のような語句があれば、行動の前の「計画」の段階の話だと考える手がかりになります。
