@@ -1,6 +1,7 @@
 ---
 choices: dazed | vicious | heartfelt | superior
 answerText: vicious
+reviewed: yes
 ---
 【正解】2 vicious（凶暴な、激しく危険な）
 【和訳】

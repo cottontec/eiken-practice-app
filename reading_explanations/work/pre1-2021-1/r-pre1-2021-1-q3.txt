@@ -1,6 +1,7 @@
 ---
 choices: indefinite | ironic | restless | superficial
 answerText: ironic
+reviewed: yes
 ---
 【正解】2 ironic（皮肉な）
 【和訳】

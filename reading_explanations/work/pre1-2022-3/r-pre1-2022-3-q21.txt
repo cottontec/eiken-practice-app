@@ -1,0 +1,30 @@
+---
+choices: withdraw | bypass | upgrade | overload
+answerText: withdraw
+---
+【正解】1 withdraw（退く、身を引く）
+【和訳】
+（英文）
+Ruth watched from the bench as her team ran up and down the court. Unfortunately, a shoulder injury had forced her to ［withdraw］ from the game.
+（訳）
+ルースは、自分のチームがコートを行ったり来たり走るのを、ベンチから見ていました。残念なことに、肩のけがのせいで、彼女は試合から（退か）なければならなかったのです。
+（選択肢の意味）
+1 withdraw：退く、身を引く
+2 bypass：よけて通る、（手順などを）飛ばす
+3 upgrade：（性能や等級を）上げる
+4 overload：（荷物を）積みすぎる、負担をかけすぎる
+【考え方】
+まず見るところ：最初の文の watched from the bench と、空所の文の a shoulder injury
+最初の文で、ルースは試合に出ずにベンチから見ています。
+Ruth watched from the bench as her team ran up and down the court.（ルースは、自分のチームがコートを行ったり来たり走るのを、ベンチから見ていた）
+その理由が空所の文に書かれています。
+a shoulder injury had forced her to (　) from the game（肩のけがのせいで、彼女は試合から（　）しなければならなくなっていた）
+force A to ～ は「Aに（いやでも）～させる」です。had forced は過去完了（ある過去の時点よりもさらに前のことを表す形）で、ベンチで見ていた時より前に、けがのせいで試合から出られなくなっていたことを表しています。withdraw from ～ で「～から退く」となるので、1が正解です。
+この問題の型：因果（肩のけが → 試合から退く → ベンチで見る）
+【ほかの選択肢】
+2 bypass は「よけて通る」です。「けがのせいで試合からよけて通らなければならなかった」となり、意味が通りません。
+3 upgrade は「（等級などを）上げる」です。けがのせいでいやでもさせられたこととして合わず、ベンチで見ていたことともつながりません。
+4 overload は「積みすぎる、負担をかけすぎる」です。「けがのせいで試合から積みすぎなければならなかった」となり、意味が通りません。
+【覚えるポイント】
+・withdraw from ～：「～から退く、身を引く」。
+・force A to ～：「Aに（いやでも）～させる」。主語がけがや病気のときは、「できなくなる・やめる」という意味の動詞が続く手がかりになります。

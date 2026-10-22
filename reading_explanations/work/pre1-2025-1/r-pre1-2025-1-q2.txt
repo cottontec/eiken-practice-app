@@ -1,0 +1,30 @@
+---
+choices: intake | outburst | breakup | layout
+answerText: outburst
+---
+【正解】2 outburst（感情の爆発、急に怒りだすこと）
+【和訳】
+（英文）
+The teacher suddenly lost his temper and shouted at the class to be quiet. Following his ［outburst］, all the students in the classroom went silent.
+（訳）
+その先生は突然かっとなって、クラスに向かって静かにするようにどなった。彼の（感情の爆発）のあと、教室の生徒は全員静まり返った。
+（選択肢の意味）
+1 intake：取り入れる量、（食べ物などの）摂取（体に取り入れること）
+2 outburst：（感情の）爆発、急に怒りだすこと
+3 breakup：解散、（関係の）終わり、分裂
+4 layout：配置、レイアウト（ものの並べ方）
+【考え方】
+まず見るところ：前の文の suddenly lost his temper and shouted と、空所の前の Following his
+前の文で、先生が何をしたかが書かれています。
+The teacher suddenly lost his temper and shouted at the class to be quiet.（その先生は突然かっとなって、クラスに向かって静かにするようにどなった）
+lose one's temper は「かっとなる、急に怒りだす」という意味の決まった言い方です。
+空所の前の Following ～ は「～のあとで」です。his（彼の）＋空所は、前の文で先生がしたこと、つまり急に怒ってどなったことを、ひとことで言いかえた名詞だと考えられます。
+outburst は「感情が急にあふれ出ること、急に怒りだすこと」です。「先生が急に怒ってどなったあと、生徒たちが静かになった」となり、話がつながります。ですから2が正解です。
+この問題の型：言いかえ（lost his temper and shouted ≒ outburst）
+【ほかの選択肢】
+1 intake は「取り入れる量、摂取」です。「彼の摂取のあと、生徒は全員静まり返った」となり、前の文の「どなった」ことを表す語になりません。
+3 breakup は「解散、（関係の）終わり」です。先生が何かを解散させたり、だれかとの関係が終わったりした話は書かれていないので、合いません。
+4 layout は「配置、レイアウト」です。「彼の配置のあと」では意味が通らず、どなったこととも結びつきません。
+【覚えるポイント】
+・lose one's temper：「かっとなる、急に怒りだす」。outburst は、その怒りが急に外へあふれ出ることを表す名詞です。
+・「Following his ＋空所」のように、所有を表す語（his など）のあとが空所のときは、前の文でその人がしたことをまとめた名詞が入ることが多く、前の文の動詞が手がかりになります。

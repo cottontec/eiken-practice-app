@@ -1,6 +1,7 @@
 ---
 choices: gratuity | module | arsenal | allotment
 answerText: gratuity
+reviewed: yes
 ---
 【正解】1 gratuity（チップ、心づけ）
 【和訳】

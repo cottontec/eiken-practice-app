@@ -1,6 +1,7 @@
 ---
 choices: The government was unable to provide Sicilians with suitable public services, causing some private citizens to find ways to protect their crops. | Owners of lemon farms refused to trade with those who supported Sicily's foreign rulers, causing the economy to worsen and crime to rise. | People were unhappy about profits from Sicilian lemons going to the Spanish royal family and did not mind when thieves stole from wealthy farmers. | The government's desire to profit from lemon farming caused it to accept illegal payments from farmers who were connected with criminals.
 answerText: The government was unable to provide Sicilians with suitable public services, causing some private citizens to find ways to protect their crops.
+reviewed: yes
 ---
 【正解】1 The government was unable to provide Sicilians with suitable public services, causing some private citizens to find ways to protect their crops.（政府がシチリアの人々に十分な公共のサービスを提供できず、そのために一部の民間の人々が自分たちの作物を守る方法を見つけることになった。）
 【和訳】
@@ -26,7 +27,7 @@ This forced farmers to find their own way to deal with the threat of lemon theft
 この問題の型：言いかえ（farmers ＝ some private citizens／deal with the threat of lemon theft ＝ protect their crops）／因果（公的な資金の不足→犯罪の増加→農家が自分で守る）
 【ほかの選択肢】
 2 本文にありません。レモン農園の持ち主たちが、支配者を支持する人々との取り引きを断ったという話は出てきません。犯罪が増えた原因として本文に書かれているのは、地元の貧しさと公的な資金の不足です。
-3 一部だけ本文と重なりますが、残りが違います。人々が支配者に不満を持っていたことは書かれていますが、その理由は rulers were regarded as outsiders（支配者がよそ者と見なされた）ことや forced military service（強制的な兵役）のような政策です。レモンの利益がスペイン王家に渡ることへの不満や、泥棒を気にしなかったことは書かれていません。
+3 一部だけ本文と重なりますが、不満の理由などが本文と違います。人々が支配者に不満を持っていたことは書かれていますが、その理由は rulers were regarded as outsiders（支配者がよそ者と見なされた）ことや forced military service（強制的な兵役）のような政策です。レモンの利益がスペイン王家に渡ることへの不満や、泥棒を気にしなかったことは書かれていません。
 4 本文にありません。政府がレモン栽培から利益を得ようとしたことや、農家から不正なお金を受け取ったことは書かれていません。第4段落に government corruption（政府の腐敗）は出てきますが、それはマフィアが力を広げたあとの話です。
 【覚えるポイント】
 ・「～につながった状況」をたずねる設問では、led to（～につながった）や This forced ～（このことが～を強いた）のような、原因と結果を結ぶ語句を順にたどると手がかりになります。

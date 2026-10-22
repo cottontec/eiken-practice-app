@@ -1,6 +1,7 @@
 ---
 choices: restoration | credibility | contention | probability
 answerText: probability
+reviewed: yes
 ---
 【正解】4 probability（見込み、可能性）
 【和訳】

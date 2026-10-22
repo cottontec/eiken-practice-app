@@ -1,6 +1,7 @@
 ---
 choices: Concerns expressed by the Sámi are being used to shape government policies and actions as a way to avoid causing them further harm. | Volunteer groups are being established to promote wider understanding of Sámi culture throughout countries with large Sámi populations. | Greater efforts are being made to encourage younger Sámi to enter politics and represent their communities in local governments. | Financial support is being offered to Sámi suffering from mental health issues that arise due to the stress of living in urban areas.
 answerText: Concerns expressed by the Sámi are being used to shape government policies and actions as a way to avoid causing them further harm.
+reviewed: yes
 ---
 【正解】1 Concerns expressed by the Sámi are being used to shape government policies and actions as a way to avoid causing them further harm.（サーミの人々がさらなる害を受けないようにする方法として、サーミの人々が示した心配ごとが、政府の政策や行動を形づくるのに役立てられている。）
 【和訳】

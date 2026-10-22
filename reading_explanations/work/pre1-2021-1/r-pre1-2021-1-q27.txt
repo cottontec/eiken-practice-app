@@ -1,6 +1,7 @@
 ---
 choices: do their own research | suddenly stop using them | believe the medicines are safe | more closely follow doctors' advice
 answerText: believe the medicines are safe
+reviewed: yes
 ---
 【正解】3 believe the medicines are safe（その薬は安全だと信じる）
 【和訳】

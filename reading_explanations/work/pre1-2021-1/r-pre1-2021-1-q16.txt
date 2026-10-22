@@ -1,6 +1,7 @@
 ---
 choices: delighted | retraced | revolted | exhausted
 answerText: exhausted
+reviewed: yes
 ---
 【正解】4 exhausted（使い果たした、出しつくした）
 【和訳】

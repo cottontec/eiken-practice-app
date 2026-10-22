@@ -1,6 +1,7 @@
 ---
 choices: spotless | minute | rugged | impartial
 answerText: spotless
+reviewed: yes
 ---
 【正解】1 spotless（しみ一つない、とても清潔な）
 【和訳】

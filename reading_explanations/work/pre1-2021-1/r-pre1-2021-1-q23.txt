@@ -1,6 +1,7 @@
 ---
 choices: living down | clearing out | snapping off | wrestling with
 answerText: wrestling with
+reviewed: yes
 ---
 【正解】4 wrestling with（（問題などに）取り組む、格闘する）
 【和訳】

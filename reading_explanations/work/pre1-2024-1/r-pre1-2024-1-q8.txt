@@ -1,0 +1,30 @@
+---
+choices: coincidence | symptom | limitation | recession
+answerText: coincidence
+---
+【正解】1 coincidence（偶然の一致）
+【和訳】
+（英文）
+By ［coincidence］, Sarah met an old high school friend from England while she was on vacation in Australia. She was surprised to meet someone she knew so far from home.
+（訳）
+（偶然）にも、サラはオーストラリアで休暇を過ごしていたときに、イギリスの高校時代の古い友人に出会いました。彼女は、家からこんなに遠く離れた場所で知り合いに会って驚きました。
+（選択肢の意味）
+1 coincidence：偶然の一致
+2 symptom：症状（病気のときに体に表れる様子）
+3 limitation：制限、限界
+4 recession：（景気の）後退、不景気
+【考え方】
+まず見るところ：後半の文の She was surprised to meet someone she knew so far from home.
+空所のある文は次のとおりです。
+By (　), Sarah met an old high school friend from England while she was on vacation in Australia.（（　）によって、サラはオーストラリアで休暇を過ごしていたときに、イギリスの高校時代の古い友人に出会った）
+サラはイギリスの高校時代の友人に、遠く離れたオーストラリアで会いました。どのようにして会ったのかは、後半の文が手がかりになります。
+She was surprised to meet someone she knew so far from home.（彼女は、家からこんなに遠く離れた場所で知り合いに会って驚いた）
+驚いたということは、会う約束をしていたのではなく、たまたま出会ったと考えられます。By coincidence は「偶然に、たまたま」という決まった言い方なので、1が正解です。
+この問題の型：熟語・決まった形（by coincidence）
+【ほかの選択肢】
+2 symptom は「症状」です。「症状によって友人に会った」となり、意味が通りません。
+3 limitation は「制限、限界」です。「制限によって友人に会った」となり、意味が通りません。
+4 recession は「不景気」です。「不景気によって友人に会った」となり、休暇中に知り合いに会って驚いたという内容とつながりません。
+【覚えるポイント】
+・by coincidence：「偶然に、たまたま」。
+・後ろの文に surprised（驚いた）があり、予定していなかった出来事が書かれているときは、「偶然」を表す語が答えの手がかりになります。

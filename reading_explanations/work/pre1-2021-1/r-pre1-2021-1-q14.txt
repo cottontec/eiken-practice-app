@@ -1,6 +1,7 @@
 ---
 choices: omitted | thawed | cultivated | harassed
 answerText: cultivated
+reviewed: yes
 ---
 【正解】3 cultivated（栽培された）
 【和訳】

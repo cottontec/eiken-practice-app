@@ -1,6 +1,7 @@
 ---
 choices: garments | descendants | inhabitants | compartments
 answerText: descendants
+reviewed: yes
 ---
 【正解】2 descendants（子孫）
 【和訳】

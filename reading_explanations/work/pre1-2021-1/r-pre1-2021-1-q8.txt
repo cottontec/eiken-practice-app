@@ -1,6 +1,7 @@
 ---
 choices: milestone | vigor | backlog | confession
 answerText: milestone
+reviewed: yes
 ---
 【正解】1 milestone（画期的な出来事、大事な節目）
 【和訳】

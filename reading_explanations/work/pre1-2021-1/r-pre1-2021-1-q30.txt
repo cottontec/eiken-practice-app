@@ -1,6 +1,7 @@
 ---
 choices: expected to be asked something different | been told that the accident was fake | remembered something that never happened | described the wrong part of the video
 answerText: remembered something that never happened
+reviewed: yes
 ---
 【正解】3 remembered something that never happened（実際には起こらなかったことを覚えていた）
 【和訳】

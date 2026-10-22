@@ -1,6 +1,7 @@
 ---
 choices: revolved | renewed | relieved | restrained
 answerText: revolved
+reviewed: yes
 ---
 【正解】1 revolved（（周りを）回った）
 【和訳】

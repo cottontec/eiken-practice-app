@@ -1,0 +1,28 @@
+---
+choices: packing up | looking into | watching over | showing up
+answerText: watching over
+---
+【正解】3 watching over（見守る、世話をする）
+【和訳】
+（英文）
+The cat was ［watching over］ her newborn kittens. She became nervous whenever anyone stepped too close to them.
+（訳）
+その猫は、生まれたばかりの子猫たちを（見守って）いました。だれかが子猫たちに近づきすぎるたびに、その猫は神経をとがらせました。
+（選択肢の意味）
+1 packing up：（荷物を）まとめる、荷造りする
+2 looking into：調べる
+3 watching over：見守る、世話をする
+4 showing up：現れる
+【考え方】
+まず見るところ：空所のあとの文の became nervous whenever anyone stepped too close to them
+空所のあとの文で、猫の様子が説明されています。
+She became nervous whenever anyone stepped too close to them.（だれかが子猫たちに近づきすぎるたびに、その猫は神経をとがらせた）
+She はその猫を、them は newborn kittens（生まれたばかりの子猫たち）を指しています。whenever ～ は「～するたびに」です。人が子猫に近づくと神経をとがらせるのは、子猫を守ろうとして気をつけて見ているからだと考えられます。watch over は「見守る、世話をする」という意味なので、3が正解です。
+この問題の型：指示語（She が猫、them が子猫たちを指す）、推論（近づかれると神経をとがらせる → 見守っている）
+【ほかの選択肢】
+1 packing up は「荷造りする」です。「その猫は子猫たちを荷造りしていた」となり、意味が通りません。
+2 looking into は「調べる」です。「子猫たちを調べていた」と考えても、人が近づくたびに神経をとがらせる理由になりません。
+4 showing up は「現れる」です。「その猫は子猫たちを現れていた」となり、意味が通りません。
+【覚えるポイント】
+・watch over ～：「～を見守る、～の世話をする」。
+・空所のあとの文に whenever ～（～するたびに）を使った様子の説明があるときは、その様子（ここでは近づく人に神経をとがらせる）がなぜ起こるのかを考えると、空所の語句を選ぶ手がかりになります。

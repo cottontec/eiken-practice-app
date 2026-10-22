@@ -1,6 +1,7 @@
 ---
 choices: They feel that they have no choice but to do extra work in order to compensate for their coworkers' weaknesses. | They become afraid they will be fired and attempt to isolate themselves from their coworkers. | It becomes easier for them to dishonestly take credit for the achievements of their coworkers. | It can cause them to exaggerate their experience and abilities when communicating with their coworkers.
 answerText: They become afraid they will be fired and attempt to isolate themselves from their coworkers.
+reviewed: yes
 ---
 【正解】2 They become afraid they will be fired and attempt to isolate themselves from their coworkers.（彼らは解雇されるのではないかと恐れるようになり、同僚から自分を遠ざけようとする。）
 【和訳】

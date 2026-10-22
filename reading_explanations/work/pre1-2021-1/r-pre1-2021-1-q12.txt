@@ -1,6 +1,7 @@
 ---
 choices: gradation | casualty | coalition | warranty
 answerText: coalition
+reviewed: yes
 ---
 【正解】3 coalition（連立、連合）
 【和訳】

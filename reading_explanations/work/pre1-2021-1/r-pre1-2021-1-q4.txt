@@ -1,6 +1,7 @@
 ---
 choices: inflicted | enhanced | vanished | perceived
 answerText: inflicted
+reviewed: yes
 ---
 【正解】1 inflicted（（害などを）与えた）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: While lemons had once been believed to cure a serious disease, profits from growing the fruit declined when this was discovered not to be true. | Although large amounts of money could be earned from growing lemons, setting up a lemon farm could only be done at great expense. | Because of Sicily's unpredictable climate, farmers new to growing lemons regularly had to throw away large amounts of bad lemon crops. | Due to rules about where lemons could be grown, purchasing enough land to make the business profitable was a serious issue.
 answerText: Although large amounts of money could be earned from growing lemons, setting up a lemon farm could only be done at great expense.
+reviewed: yes
 ---
 【正解】2 Although large amounts of money could be earned from growing lemons, setting up a lemon farm could only be done at great expense.（レモンを育てることで多額のお金をかせぐことができたが、レモン農園を始めるには大きな費用をかけるしかなかった。）
 【和訳】

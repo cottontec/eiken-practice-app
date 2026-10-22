@@ -1,6 +1,7 @@
 ---
 choices: monitors | signifies | vomits | regulates
 answerText: signifies
+reviewed: yes
 ---
 【正解】2 signifies（表す、意味する）
 【和訳】

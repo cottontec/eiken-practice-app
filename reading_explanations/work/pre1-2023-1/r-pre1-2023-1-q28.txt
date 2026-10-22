@@ -1,0 +1,32 @@
+---
+choices: communicating clearly would be difficult | other people did not share this desire | their family members would not approve | their privacy should come first
+answerText: other people did not share this desire
+---
+【正解】2 other people did not share this desire（ほかの人々はこの願いを共有していない）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 communicating clearly would be difficult（はっきりと伝え合うのは難しいだろう）
+2 other people did not share this desire（ほかの人々はこの願いを共有していない）
+3 their family members would not approve（自分の家族は賛成しないだろう）
+4 their privacy should come first（自分のプライバシーを第一にすべきだ）
+【考え方】
+まず見るところ：第3段落の空所のあとの The researchers believe that this assumption is incorrect
+最初に、空所の前の文を見ます。
+In fact, the subjects in the study generally expressed a desire to have meaningful conversations with people they did not know more often in their lives.（実際、研究の被験者たちはおおむね、知らない人と意味のある会話をすることを、自分の生活の中でもっと頻繁にしたいという願いを表した）
+desire は「願い、望み」です。被験者自身は、知らない人ともっと深い話をしたいと思っていました。
+空所の文は However, they also thought that ( ).（しかし、彼らはまた、（　）とも考えていた）です。However（しかし）があるので、前の「願い」とは逆向きの考えが入ります。
+次に、空所のあとの文を見ます。
+The researchers believe that this assumption is incorrect, and that, for the most part, strangers are also interested in going beyond casual conversation.（研究者たちは、この思いこみはまちがっており、たいていの場合、見知らぬ人もまた、気軽な会話を超えた話をすることに関心を持っていると考えている）
+assumption は「思いこみ」で、this assumption は空所の内容を指します。研究者たちは「見知らぬ人も深い話に関心がある」と正しています。つまり、被験者の思いこみは「ほかの人は深い話をしたいと思っていない」というものだったと分かります。
+this desire は前の文の「知らない人と意味のある会話をしたいという願い」を指すので、2が正解です。
+この問題の型：指示語（this assumption が空所の内容、this desire が前の文の願いを指す）／対比（However：自分はしたい⇔相手はしたくないと思いこむ）
+【ほかの選択肢】
+1 「はっきりと伝え合うのは難しいだろう」は、本文に書かれていません。研究者たちが正しているのは、見知らぬ人が深い話に関心を持っているかどうかで、伝え方の難しさではありません。
+3 「自分の家族は賛成しないだろう」は、本文に書かれていません。あとの文で研究者たちが取り上げているのは strangers（見知らぬ人）の気持ちで、家族の考えではありません。
+4 「自分のプライバシーを第一にすべきだ」は、本文に書かれていません。あとの文の「見知らぬ人も気軽な会話を超えた話に関心がある」という研究者たちの考えは、プライバシーについての思いこみを正すものになっていません。
+【覚えるポイント】
+・share a desire：「同じ願いを持つ、願いを共有する」。
+・assumption：「思いこみ、前提」。
+・空所のあとに this assumption is incorrect（この思いこみはまちがっている）のような文があるときは、そのあとに書かれた「正しい内容」を裏返すと、空所の思いこみが分かることが多いので手がかりになります。

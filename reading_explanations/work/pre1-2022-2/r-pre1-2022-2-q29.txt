@@ -1,0 +1,27 @@
+---
+choices: was started by car manufacturers | had a surprising origin | created disagreement among drivers | angered many cyclists
+answerText: had a surprising origin
+---
+【正解】2 had a surprising origin（意外な始まり方をした）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 was started by car manufacturers（自動車メーカーによって始められた）
+2 had a surprising origin（意外な始まり方をした）
+3 created disagreement among drivers（運転する人々の間に意見の対立を生んだ）
+4 angered many cyclists（多くの自転車乗りを怒らせた）
+【考え方】
+まず見るところ：第1段落の空所のあとの this is a myth と Actually, the demand started mainly with cyclists.
+While most people today assume that the road system was first developed in response to the needs of automobile drivers, this is a myth.（今日、ほとんどの人は、道路網はまず自動車を運転する人々の必要にこたえて整備されたと思いこんでいるが、これは根拠のない通説である）
+assume は「（確かめずに）思いこむ」、myth は「根拠のない通説（多くの人が信じているが事実ではない話）」という意味です。
+Actually, the demand started mainly with cyclists.（実際には、その要求は主に自転車に乗る人々から始まった）
+多くの人が「自動車のため」と思いこんでいるのに、実際は「自転車乗りから」始まった、と書かれています。思いこみと違う始まり方は「意外な」始まり方です。origin は「始まり、起源」なので、2が正解です。
+この問題の型：対比（思いこみ：自動車から⇔事実：自転車から）
+【ほかの選択肢】
+1 was started by car manufacturers は「自動車メーカーによって始められた」です。本文では、自動車のためという考えは通説（myth）だとされ、実際には自転車に乗る人々から始まったと書かれています。自動車メーカーが始めたとは書かれていません。
+3 created disagreement among drivers は「運転する人々の間に意見の対立を生んだ」です。運転する人どうしが対立したという話は本文に書かれていません。
+4 angered many cyclists は「多くの自転車乗りを怒らせた」です。本文では、自転車に乗る人々は道路を求めた側で、運動に怒ったとは書かれていません。
+【覚えるポイント】
+・origin：「始まり、起源」。assume：「（確かめずに）思いこむ」。myth：「根拠のない通説」。
+・空所のあとに「多くの人は～と思いこんでいるが（most people assume）、実際は…（Actually）」という流れがあるときは、空所に「意外な」「思われているのとは違う」という内容が入る手がかりになります。

@@ -1,0 +1,31 @@
+---
+choices: persuaded the Confederates to let him work on one of its ships so that he could use the ship to get back to his hometown. | lost his job on the docks because the Confederates no longer had a need for enslaved workers. | was made to work on a ship that was used by the Confederates to transport weapons needed to fight the civil war. | gained favor with the Confederates by helping them find a way to get their ships out of Charleston harbor.
+answerText: was made to work on a ship that was used by the Confederates to transport weapons needed to fight the civil war.
+---
+【正解】3 was made to work on a ship that was used by the Confederates to transport weapons needed to fight the civil war.（南北戦争を戦うのに必要な武器を運ぶために南部連合が使っていた船で働かされた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：When the American Civil War began, Smalls（アメリカの南北戦争が始まったとき、スモールズは）
+1 persuaded the Confederates to let him work on one of its ships so that he could use the ship to get back to his hometown.（その船を使って故郷へ帰れるように、南部連合を説得して、その船の1つで働かせてもらった。）
+2 lost his job on the docks because the Confederates no longer had a need for enslaved workers.（南部連合がもう奴隷にされた労働者を必要としなくなったので、波止場の仕事を失った。）
+3 was made to work on a ship that was used by the Confederates to transport weapons needed to fight the civil war.（南北戦争を戦うのに必要な武器を運ぶために南部連合が使っていた船で働かされた。）
+4 gained favor with the Confederates by helping them find a way to get their ships out of Charleston harbor.（南部連合が自分たちの船をチャールストン港から出す方法を見つけるのを手伝って、南部連合に気に入られた。）
+【考え方】
+まず見るところ：第2段落の Smalls was taken to work on a Confederate ship that carried supplies of weapons and ammunition
+第2段落は、1861年に南北戦争が始まったときの話です。
+The Confederates controlled Charleston, and because of his experience working on the docks, Smalls was taken to work on a Confederate ship that carried supplies of weapons and ammunition.（南部連合はチャールストンを支配しており、スモールズは波止場で働いた経験があったため、武器や弾薬の補給品を運ぶ南部連合の船で働くために連れていかれた）
+ammunition は「弾薬（銃弾や砲弾）」です。本文と選択肢3を対にすると、次のようになります。
+・本文 was taken to work on（働くために連れていかれた）→ 選択肢 was made to work on（働かされた）
+・本文 a Confederate ship（南部連合の船）＝ 選択肢 a ship that was used by the Confederates（南部連合が使っていた船）
+・本文 carried supplies of weapons and ammunition（武器や弾薬の補給品を運んだ）→ 選択肢 transport weapons needed to fight the civil war（南北戦争を戦うのに必要な武器を運ぶ）
+奴隷にされていたスモールズは、自分で選んだのではなく、連れていかれて船で働くことになったので、was made to work（働かされた）と言いかえられます。よって3が正解です。
+この問題の型：言いかえ（was taken to work on → was made to work on）
+【ほかの選択肢】
+1 本文とちがいます。本文では、スモールズは was taken to work（働くために連れていかれた）とあり、自分から南部連合を説得して働かせてもらったのではありません。また、故郷へ帰るために船を使おうとしたとも書かれていません。スモールズが説得したのは、ほかの乗組員たちです。
+2 本文に書かれていません。本文では、波止場で働いた経験があったために船で働くことになったとあり、南部連合が奴隷にされた労働者を必要としなくなったという話はありません。
+4 本文に書かれていません。スモールズが船を港から出したのは、自分たちが逃げるためです。南部連合が船を港から出す方法を見つけるのを手伝って、気に入られたという話はありません。
+【覚えるポイント】
+・be taken to work：「働くために連れていかれる」。be made to ～：「～させられる」。ammunition：「弾薬」。
+・設問が「戦争が始まったとき」のように時期を指定しているときは、その時期が書かれた段落（ここでは In 1861 で始まる第2段落）を探すと、根拠の文を見つける手がかりになります。

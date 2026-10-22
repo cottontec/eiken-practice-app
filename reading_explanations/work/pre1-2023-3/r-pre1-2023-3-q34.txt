@@ -1,0 +1,30 @@
+---
+choices: He had managed to obtain a Union flag, which he raised to prevent the Union Navy from attacking his ship. | His knowledge of the harbor allowed him to find a route that avoided Confederate guards. | He had friends in the Union Navy who were sympathetic to his situation and helped him get out of the harbor. | His experience had taught him how to trick the Confederate checkpoints into letting his ship pass safely.
+answerText: His experience had taught him how to trick the Confederate checkpoints into letting his ship pass safely.
+---
+【正解】4 His experience had taught him how to trick the Confederate checkpoints into letting his ship pass safely.（彼は経験から、南部連合の検問所をだまして自分の船を安全に通過させる方法を身につけていた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What was one factor that helped Smalls escape with his family?（スモールズが家族とともに逃げるのに役立った要因の1つは何か。）
+1 He had managed to obtain a Union flag, which he raised to prevent the Union Navy from attacking his ship.（彼は何とか北軍の旗を手に入れていて、北軍の海軍が自分の船を攻撃しないように、その旗をかかげた。）
+2 His knowledge of the harbor allowed him to find a route that avoided Confederate guards.（港についての知識のおかげで、彼は南部連合の見張りをさける航路を見つけることができた。）
+3 He had friends in the Union Navy who were sympathetic to his situation and helped him get out of the harbor.（彼には北軍の海軍に、彼の立場に同情して港から出るのを助けてくれる友人たちがいた。）
+4 His experience had taught him how to trick the Confederate checkpoints into letting his ship pass safely.（彼は経験から、南部連合の検問所をだまして自分の船を安全に通過させる方法を身につけていた。）
+【考え方】
+まず見るところ：第3段落の Fortunately, during his time working on the ship, Smalls had learned the signals for gaining safe passage through Confederate checkpoints.
+第3段落では、計画の危険な点が2つ挙げられたあと、Fortunately（幸いなことに）で、脱出に役立ったことが書かれています。
+Fortunately, during his time working on the ship, Smalls had learned the signals for gaining safe passage through Confederate checkpoints.（幸いなことに、船で働いていた間に、スモールズは南部連合の検問所を安全に通過するための合図を覚えていた）
+checkpoint は「検問所（通る船を調べる場所）」、safe passage は「安全な通行」です。本文と選択肢4を対にすると、次のようになります。
+・本文 during his time working on the ship, Smalls had learned（船で働いていた間に覚えていた）→ 選択肢 His experience had taught him（経験が彼に教えていた）
+・本文 the signals for gaining safe passage through Confederate checkpoints（検問所を安全に通過するための合図）→ 選択肢 how to trick the Confederate checkpoints into letting his ship pass safely（検問所をだまして船を安全に通過させる方法）
+逃げている船なのに、南部連合の合図を使って検問所を通るのですから、検問所の人たちをだますことになります。よって4が正解です。
+この問題の型：言いかえ（had learned the signals for gaining safe passage → how to trick ～ into letting his ship pass safely）
+【ほかの選択肢】
+1 旗の種類が本文とちがいます。本文では、スモールズは南部連合の旗を下ろし、a white flag of surrender（降伏を示す白旗）に取りかえたとあります。北軍の旗を手に入れてかかげたとは書かれていません。
+2 本文に書かれていません。本文には、南部連合の見張りに見つからずに港を出なければならなかったとありますが、港についての知識で見張りをさける航路を見つけたという話はありません。
+3 本文に書かれていません。本文では、北軍の海軍から砲撃される危険があったと書かれていて、北軍の海軍に助けてくれる友人がいたという話はありません。
+【覚えるポイント】
+・safe passage：「安全な通行」。trick A into ～ing：「Aをだまして～させる」。
+・Fortunately（幸いなことに）は、困った状況のあとで「助けになったこと」を述べる合図になることが多いので、「役立った要因」をたずねる設問では、この語の後ろを探すのが手がかりになります。

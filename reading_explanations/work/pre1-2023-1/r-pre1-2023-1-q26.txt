@@ -1,0 +1,32 @@
+---
+choices: In exchange | For instance | In contrast | In short
+answerText: In contrast
+---
+【正解】3 In contrast（それに対して、対照的に）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 In exchange（その代わりに、引きかえに）
+2 For instance（たとえば）
+3 In contrast（それに対して、対照的に）
+4 In short（要するに）
+【考え方】
+まず見るところ：第1段落の空所の前の relationships with people we are close to と、空所のあとの how we interact with strangers
+空所の前の文は次のとおりです。
+So far, most studies have focused on relationships with people we are close to, such as family members or friends.（これまでのところ、ほとんどの研究は、家族や友人のような、私たちが親しくしている人々との関係に焦点を当ててきた）
+This makes sense, as when we have a problem or want to share our thoughts and opinions, we are most likely to talk to such people.（これは筋が通っている。というのも、私たちは、問題を抱えているときや、自分の考えや意見を伝えたいときに、そうした人々に話す可能性が最も高いからだ）
+ここまでは「親しい人との関係」についての研究の話です。
+次に、空所のあとを見ます。
+some recent studies have explored how we interact with strangers（最近のいくつかの研究は、私たちが見知らぬ人とどのように関わるかを調べている）
+stranger は「見知らぬ人」です。空所の前は「ほとんどの研究＝親しい人」、空所のあとは「最近のいくつかの研究＝見知らぬ人」で、2つの研究が比べられています。
+このように、前と後ろのちがいを示すつなぎの言葉が入るので、In contrast（それに対して、対照的に）の3が正解です。
+この問題の型：対比（親しい人についての研究⇔見知らぬ人についての研究）
+【ほかの選択肢】
+1 In exchange は「その代わりに、引きかえに」で、何かを受け取る代わりに何かを渡すときに使います。前の「親しい人についての研究」と、あとの「見知らぬ人についての研究」は、交換の関係ではありません。
+2 For instance は「たとえば」で、前の内容の例を挙げるときに使います。見知らぬ人についての研究は、親しい人との関係についての研究の例ではないので、つながりません。
+4 In short は「要するに」で、前の内容をまとめるときに使います。空所のあとは、見知らぬ人についての新しい研究の話で、前の内容のまとめではありません。
+【覚えるポイント】
+・In contrast：「それに対して、対照的に」。前と後ろでちがうものを比べるときに使います。
+・interact with ～：「～と関わる、やりとりする」。
+・つなぎの言葉の空所では、前の話題（ここでは people we are close to）とあとの話題（ここでは strangers）を並べてみて、「例」「まとめ」「比べ」のどの関係かを確かめると手がかりになります。

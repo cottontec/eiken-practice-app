@@ -1,0 +1,31 @@
+---
+choices: imposing | disposable | elaborate | reluctant
+answerText: disposable
+---
+【正解】2 disposable（使い捨ての）
+【和訳】
+（英文）
+A: Should we use ［disposable］ plates for the barbecue?
+B: Yeah. It’ll make cleaning up really simple as we can just throw them away after they’ve been used.
+（訳）
+A：バーベキューには（使い捨ての）お皿を使ったほうがいいかな。
+B：うん。使ったあとはただ捨てればいいから、片付けがとても簡単になるね。
+（選択肢の意味）
+1 imposing：堂々とした、立派な
+2 disposable：使い捨ての
+3 elaborate：手の込んだ、凝った
+4 reluctant：気が進まない、いやいやながらの
+【考え方】
+まず見るところ：Bの文の we can just throw them away after they’ve been used
+Bの答えは次のとおりです。
+It’ll make cleaning up really simple as we can just throw them away after they’ve been used.（使ったあとはただ捨てればいいので、片付けがとても簡単になるだろう）
+as は、ここでは「～なので」と理由を表します。them は、Aが言った plates（お皿）を指します。
+使い終わったらそのまま捨てられるお皿とは、「使い捨ての」お皿のことです。disposable は「使い捨ての」なので、2が正解です。
+この問題の型：指示語（them＝plates）・言いかえ（throw them away after they’ve been used → disposable）
+【ほかの選択肢】
+1 imposing は「堂々とした、立派な」です。「堂々としたお皿」では、使ったら捨てられるので片付けが簡単になる、というBの理由とつながりません。
+3 elaborate は「手の込んだ、凝った」です。「手の込んだお皿」では、捨てられるから片付けが簡単だというBの答えとつながりません。
+4 reluctant は「気が進まない」で、ふつうは人の気持ちを表します。「気が進まないお皿」となり、意味が通りません。
+【覚えるポイント】
+・disposable：「使い捨ての」。
+・相手の答えの中の them が何を指すかを確かめ、その物について何と言っているか（ここでは throw them away）を見ると、空所の語を決める手がかりになります。

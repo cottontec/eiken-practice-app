@@ -2,7 +2,7 @@
 choices: It is a combination of different mushroom species that started to grow together over time. | It grew slowly at first, but it has been expanding more rapidly in the last thousand years. | It shares the nutrients it collects with the trees and other types of plant life that it grows on. | It is a single organism that has spread throughout a wide area by growing and feeding on trees.
 answerText: It is a single organism that has spread throughout a wide area by growing and feeding on trees.
 ---
-【正解】4 It is a single organism that has spread throughout a wide area by growing and feeding on trees.（それは、木に取りついて育ち、木から栄養をとることで、広い範囲に広がった一つの生き物である。）
+【正解】4 It is a single organism that has spread throughout a wide area by growing and feeding on trees.（それは、木に生えて育ち、木から栄養をとることで、広い範囲に広がった一つの生き物である。）
 【和訳】
 ＜本文の全訳＞
 {{本文全訳}}
@@ -11,7 +11,7 @@ answerText: It is a single organism that has spread throughout a wide area by gr
 1 It is a combination of different mushroom species that started to grow together over time.（それは、時間がたつうちにいっしょに育つようになった、さまざまな種類のキノコが組み合わさったものである。）
 2 It grew slowly at first, but it has been expanding more rapidly in the last thousand years.（それは、最初はゆっくり育ったが、この1,000年間は、それまでより速く広がり続けている。）
 3 It shares the nutrients it collects with the trees and other types of plant life that it grows on.（それは、自分が集めた栄養分を、自分が生えている木やほかの種類の植物と分け合っている。）
-4 It is a single organism that has spread throughout a wide area by growing and feeding on trees.（それは、木に取りついて育ち、木から栄養をとることで、広い範囲に広がった一つの生き物である。）
+4 It is a single organism that has spread throughout a wide area by growing and feeding on trees.（それは、木に生えて育ち、木から栄養をとることで、広い範囲に広がった一つの生き物である。）
 【考え方】
 まず見るところ：第1段落の DNA testing has confirmed that all the honey fungus in the area is from the same organism と、第2段落の The fungus infects the trees and absorbs nutrients
 第1段落では、オレゴン州のナラタケについて次のように書かれています。
@@ -22,7 +22,7 @@ The fungus infects the trees and absorbs nutrients from their roots and trunks�
 本文と選択肢4を対にすると、次のようになります。
 ・本文 all the honey fungus in the area is from the same organism（すべて同じ一つの生き物から来ている）＝ 選択肢 a single organism（一つの生き物）
 ・本文 spread underground throughout a huge area of forest（森の広大な範囲にわたって地下に広がっている）→ 選択肢 has spread throughout a wide area（広い範囲に広がった）
-・本文 infects the trees and absorbs nutrients from their roots and trunks（木に感染して根や幹から栄養分を吸い取る）→ 選択肢 growing and feeding on trees（木に取りついて育ち、木から栄養をとる）
+・本文 infects the trees and absorbs nutrients from their roots and trunks（木に感染して根や幹から栄養分を吸い取る）→ 選択肢 growing and feeding on trees（木に生えて育ち、木から栄養をとる）
 よって4が正解です。
 この問題の型：言いかえ（the same organism → a single organism）
 【ほかの選択肢】

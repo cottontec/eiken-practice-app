@@ -1,6 +1,7 @@
 ---
 choices: are both overused | are essentially the same | should have different roles | both lack evidence that they work
 answerText: should have different roles
+reviewed: yes
 ---
 【正解】3 should have different roles（異なる役割を持つべきだ）
 【和訳】

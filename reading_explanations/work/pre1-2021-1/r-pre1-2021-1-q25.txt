@@ -1,6 +1,7 @@
 ---
 choices: catch up on | change out of | open up to | put up with
 answerText: catch up on
+reviewed: yes
 ---
 【正解】1 catch up on（（遅れていたことを）取り戻す、（知らずにいた情報を）まとめて知る）
 【和訳】

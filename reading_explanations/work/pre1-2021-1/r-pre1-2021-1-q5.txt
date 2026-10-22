@@ -1,6 +1,7 @@
 ---
 choices: temptation | barricade | phobia | famine
 answerText: phobia
+reviewed: yes
 ---
 【正解】3 phobia（恐怖症）
 【和訳】

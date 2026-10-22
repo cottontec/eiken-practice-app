@@ -1,6 +1,7 @@
 ---
 choices: The organizations that provide financial support in their communities have been negatively affected by changes to their society. | Sámi who have been forced to move from rural regions to urban areas are choosing to reject their culture in order to be accepted. | The conflict between younger Sámi and the older generation regarding reindeer farming is leading many to suffer from mental health issues. | Younger Sámi are struggling with mental health issues caused by isolation from their families and the loss of their cultural traditions.
 answerText: Younger Sámi are struggling with mental health issues caused by isolation from their families and the loss of their cultural traditions.
+reviewed: yes
 ---
 【正解】4 Younger Sámi are struggling with mental health issues caused by isolation from their families and the loss of their cultural traditions.（若いサーミの人々は、家族からの孤立と文化的な伝統の喪失によって引き起こされた、心の健康の問題に苦しんでいる。）
 【和訳】
@@ -29,7 +30,7 @@ uprooted は「根こそぎにされた（住みなれた場所から引きは�
 この問題の型：言いかえ（teenagers and young adults ＝ Younger Sámi／cultural traditions being lost ＝ the loss of their cultural traditions）
 【ほかの選択肢】
 1 本文にありません。共同体で経済的な支援をしている団体については、何も書かれていません。
-2 本文と合わない部分があります。都市へ移った若い人々が差別を受けていることは書かれていますが、受け入れてもらうために自分たちの文化を捨てることを選んでいる、とは書かれていません。本文では、文化的な伝統は「失われていく」とされており、自分から捨てているとは書かれていません。また、移ることを「強いられた」とも書かれていません。
+2 本文にない内容を含んでいます。都市へ移った若い人々が差別を受けていることは書かれていますが、受け入れてもらうために自分たちの文化を捨てることを選んでいる、とは書かれていません。本文では、文化的な伝統は「失われていく」とされており、自分から捨てているとは書かれていません。また、移ることを「強いられた」とも書かれていません。
 3 本文にありません。若いサーミの人々と年上の世代がトナカイの飼育をめぐって対立している、という話は出てきません。
 【覚えるポイント】
 ・本文の語がそのまま出てこない選択肢（ここでは families）は、まず「ほかの選択肢に本文の根拠があるか」を確かめ、根拠のある選択肢がほかにないかを比べると判断の手がかりになります。

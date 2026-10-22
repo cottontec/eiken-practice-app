@@ -1,6 +1,7 @@
 ---
 choices: Individuals who avoid discrimination at school are less likely to have impostor syndrome when they start working. | Minorities are more likely to suffer from impostor syndrome if they are treated in the same way as those in the majority. | People who do not see others like themselves in higher positions are more likely to lose hope that they will be promoted. | Minorities are less likely to experience discrimination in schools with a greater amount of diversity.
 answerText: People who do not see others like themselves in higher positions are more likely to lose hope that they will be promoted.
+reviewed: yes
 ---
 【正解】3 People who do not see others like themselves in higher positions are more likely to lose hope that they will be promoted.（自分と似た人がより高い地位にいるのを見ない人々は、自分が昇進するという希望を失いやすい。）
 【和訳】

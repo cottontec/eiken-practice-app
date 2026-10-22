@@ -1,6 +1,7 @@
 ---
 choices: As a result | On the contrary | Surprisingly | Otherwise
 answerText: As a result
+reviewed: yes
 ---
 【正解】1 As a result（その結果）
 【和訳】

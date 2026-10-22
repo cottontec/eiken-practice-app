@@ -1,6 +1,7 @@
 ---
 choices: went for | let up | picked over | set off
 answerText: went for
+reviewed: yes
 ---
 【正解】1 went for（～を取ろうとした、～に飛びかかった）
 【和訳】

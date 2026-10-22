@@ -1,6 +1,7 @@
 ---
 choices: miss out | add up | get over | join in
 answerText: miss out
+reviewed: yes
 ---
 【正解】1 miss out（miss out on ～で「～を逃す、～の機会を失う」）
 【和訳】

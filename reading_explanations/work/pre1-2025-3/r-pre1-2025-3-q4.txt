@@ -1,0 +1,29 @@
+---
+choices: enrolling | rebelling | radiating | solidifying
+answerText: enrolling
+---
+【正解】1 enrolling（入学すること、正式に登録すること）
+【和訳】
+（英文）
+The university will hold an event next month for graduating high school students who are thinking of ［enrolling］ there next semester.
+（訳）
+その大学は来月、次の学期にそこへ（入学する）ことを考えている、卒業を控えた高校生向けのイベントを開く予定だ。
+（選択肢の意味）
+1 enrolling：入学すること、正式に登録すること
+2 rebelling：反抗すること
+3 radiating：（光や熱を）放つこと
+4 solidifying：固まること、固めること
+【考え方】
+まず見るところ：空所のあとの there next semester と、前の graduating high school students
+空所のある部分は、次のとおりです。
+graduating high school students who are thinking of (　) there next semester（次の学期にそこで（　）ことを考えている、卒業を控えた高校生）
+graduating は「卒業を控えた」、semester は「学期」です。there（そこで）は、前に出てきた The university（その大学）を指しています。
+卒業を控えた高校生が、次の学期に大学で何をしようと考えているかを考えます。高校を出たあと大学に入ることだと考えられます。enroll は「入学する、正式に登録する」という意味なので、1が正解です。think of ～ing は「～しようかと考える」という形なので、空所にも -ing の形の語が入っています。
+この問題の型：語の意味・組み合わせ（高校卒業 → 大学に入学）
+【ほかの選択肢】
+2 rebelling は「反抗すること」です。「次の学期にその大学で反抗しようと考えている高校生」となり、大学がその人たちのためにイベントを開く理由になりません。
+3 radiating は「（光や熱を）放つこと」です。高校生が大学で光を放とうと考えている、となり、意味が通りません。
+4 solidifying は「固まること、固めること」です。「その大学で固まることを考えている」となり、意味が通りません。
+【覚えるポイント】
+・enroll：「入学する、正式に登録する」。enroll there next semester で「次の学期にそこ（大学）に入学する」。
+・graduating high school students（卒業を控えた高校生）や next semester（次の学期）のように、空所のまわりに「学校・時期」を表す語があるときは、それが入る動詞を決める手がかりになります。

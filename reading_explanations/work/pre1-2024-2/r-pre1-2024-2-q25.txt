@@ -1,0 +1,31 @@
+---
+choices: The test he developed was not initially intended for the purpose of measuring intelligence in children. | The test he designed became the basis for all IQ tests that have been developed since. | He lost his job with the French government because of his strong opinions regarding IQ tests. | He was not the first person to attempt to create a test that could be used to measure a person's intelligence.
+answerText: The test he designed became the basis for all IQ tests that have been developed since.
+---
+【正解】2 The test he designed became the basis for all IQ tests that have been developed since.（彼が考案したテストは、それ以降に開発されたすべてのIQテストの基礎となった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to the first paragraph, what is true about Alfred Binet?（第1段落によると、アルフレッド・ビネーについて正しいのはどれか。）
+1 The test he developed was not initially intended for the purpose of measuring intelligence in children.（彼が開発したテストは、もともとは子どもの知能を測る目的のためのものではなかった。）
+2 The test he designed became the basis for all IQ tests that have been developed since.（彼が考案したテストは、それ以降に開発されたすべてのIQテストの基礎となった。）
+3 He lost his job with the French government because of his strong opinions regarding IQ tests.（彼は、IQテストについての強い意見のせいで、フランス政府での仕事を失った。）
+4 He was not the first person to attempt to create a test that could be used to measure a person's intelligence.（彼は、人の知能を測るのに使えるテストを作ろうとした最初の人物ではなかった。）
+【考え方】
+まず見るところ：第1段落の The Binet-Simon test that was created as a result provided the foundation for ～
+第1段落では、ビネーがフランス政府に頼まれてテストを作ったことが書かれています。その結果について、次の文があります。
+The Binet-Simon test that was created as a result provided the foundation for all IQ tests that have been produced since.（その結果として作られたビネー・シモン式テストは、それ以降に作られたすべてのIQテストの基礎となった）
+本文と選択肢2を対にすると、次のようになります。
+・本文 The Binet-Simon test that was created as a result（政府に頼まれた結果として作られたビネー・シモン式テスト）→ 選択肢 The test he designed（彼が考案したテスト）
+・本文 provided the foundation for（～の基礎となった）＝ 選択肢 became the basis for（～の基礎となった）
+・本文 all IQ tests that have been produced since（それ以降に作られたすべてのIQテスト）＝ 選択肢 all IQ tests that have been developed since（それ以降に開発されたすべてのIQテスト）
+foundation と basis は、どちらも「土台、基礎」という意味です。よって2が正解です。
+この問題の型：言いかえ（provided the foundation for ＝ became the basis for）
+【ほかの選択肢】
+1 本文に書かれていません。本文には、ビネーは to create a test that could be used to identify children who needed educational support（教育上の支援を必要とする子どもを見分けるのに使えるテストを作る）よう頼まれたとあります。しかし、そのテストがもともと子どもの知能を測る目的ではなかったとは書かれていません。
+3 本文に書かれていません。本文には、ビネーがフランス政府からテスト作りを頼まれたことは書かれていますが、IQテストについての意見のせいで仕事を失ったという話はありません。
+4 本文に書かれていません。本文には The first IQ test was developed ～ by a French psychologist named Alfred Binet（最初のIQテストは、アルフレッド・ビネーというフランスの心理学者によって開発された）とあるだけで、ビネーより前に知能を測るテストを作ろうとした人がいたとは書かれていません。
+【覚えるポイント】
+・provide the foundation for ～ ＝ become the basis for ～：「～の基礎となる」。identify：「見分ける、特定する」。
+・設問に According to the first paragraph（第1段落によると）とあるときは、その段落の中で選択肢と同じ内容を言いかえた文を探すことが手がかりになります。ここでは foundation が basis に言いかえられていました。

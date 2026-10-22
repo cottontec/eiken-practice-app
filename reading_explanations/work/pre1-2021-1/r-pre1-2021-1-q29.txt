@@ -1,6 +1,7 @@
 ---
 choices: who is asking the question | when they see an accident | why they are being questioned | how they are being asked
 answerText: how they are being asked
+reviewed: yes
 ---
 【正解】4 how they are being asked（彼らがどのように質問されるか）
 【和訳】

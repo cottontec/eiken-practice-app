@@ -1,6 +1,7 @@
 ---
 choices: malfunction | institution | assumption | transcription
 answerText: assumption
+reviewed: yes
 ---
 【正解】3 assumption（想定、（たぶんそうだろうという）仮定）
 【和訳】

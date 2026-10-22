@@ -1,6 +1,7 @@
 ---
 choices: transformed | officiated | synthesized | disarmed
 answerText: transformed
+reviewed: yes
 ---
 【正解】1 transformed（大きく変えた、一変させた）
 【和訳】

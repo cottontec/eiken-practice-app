@@ -1,0 +1,32 @@
+---
+choices: a majority of the community was in favor of someone joining, but a small number of individuals opposed it. | people joined the community with genuine interest, but they lacked the skills or knowledge to contribute effectively. | some members worked hard to follow the community's ideals, while others took a more casual approach to communal living. | the community set out to complete an ambitious project, but it could not complete it because of a lack of knowledge and financial resources.
+answerText: some members worked hard to follow the community's ideals, while others took a more casual approach to communal living.
+---
+【正解】3 some members worked hard to follow the community's ideals, while others took a more casual approach to communal living.（一部のメンバーは共同体の理想に従おうと懸命に努力したが、ほかのメンバーは、共同生活に対してそれよりも軽い気持ちで取り組んでいた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：A common issue faced by intentional communities that failed was that（失敗した意図的共同体が直面していた共通の問題は、～ということだった。）
+1 a majority of the community was in favor of someone joining, but a small number of individuals opposed it.（共同体の大多数は、ある人が加わることに賛成したが、少数の人がそれに反対した。）
+2 people joined the community with genuine interest, but they lacked the skills or knowledge to contribute effectively.（人々は本当に関心を持って共同体に加わったが、効果的に役に立つための技術や知識が足りなかった。）
+3 some members worked hard to follow the community's ideals, while others took a more casual approach to communal living.（一部のメンバーは共同体の理想に従おうと懸命に努力したが、ほかのメンバーは、共同生活に対してそれよりも軽い気持ちで取り組んでいた。）
+4 the community set out to complete an ambitious project, but it could not complete it because of a lack of knowledge and financial resources.（共同体は大がかりな計画をやりとげようとしたが、知識と資金が足りなかったために、やりとげることができなかった。）
+【考え方】
+まず見るところ：第2段落の Intentional communities that failed generally faced a similar challenge.
+設問の intentional communities that failed（失敗した意図的共同体）は、第2段落に出てきます。
+Intentional communities that failed generally faced a similar challenge.（失敗した意図的共同体は、たいてい同じような課題に直面していた）
+その課題の中身は、すぐあとの文に書かれています。
+Some people who came to stay were committed to ideals of shared work, growing their own food, and living collectively, but others were less serious.（滞在しにやって来た人々の中には、共同作業、自分たちの食べ物を育てること、共同で暮らすことという理想に真剣に取り組む人もいたが、ほかの人々はそうした人たちほど真剣ではなかった）
+本文と選択肢3を対にすると、次のようになります。
+・本文 Some people ～ were committed to ideals（理想に真剣に取り組む人もいた）→ 選択肢 some members worked hard to follow the community's ideals（一部のメンバーは共同体の理想に従おうと懸命に努力した）
+・本文 others were less serious（ほかの人々はそれほど真剣ではなかった）→ 選択肢 others took a more casual approach（ほかのメンバーはそれよりも軽い気持ちで取り組んでいた）
+共同創設者の言葉にある people who came just to play（ただ遊びに来ただけの人々）も、真剣でない人がいたことを表しています。よって3が正解です。
+この問題の型：言いかえ（less serious → a more casual approach）
+【ほかの選択肢】
+1 本文に書かれていません。誰かが加わることに賛成・反対したという話は、本文にはありません。
+2 本文に書かれていません。本文で問題とされているのは、真剣でない人や、ただ遊びに来ただけの人がいたことです。本当に関心を持って加わった人の技術や知識が足りなかったとは書かれていません。第3段落の not enough collective knowledge（共有された知識が足りない）は、ダマヌールの「家族」の人数が少なすぎる場合の話で、失敗した共同体の問題ではありません。
+4 本文に書かれていません。共同創設者は an impractical but noble vision（現実的ではないけれど気高い理想）があったと言っていますが、それがくずされたのは遊びに来ただけの人々のせいだと言っています。大がかりな計画が知識と資金の不足でやりとげられなかったという話はありません。
+【覚えるポイント】
+・be committed to ～：「～に真剣に取り組む」。less serious：「（ほかと比べて）真剣さが足りない」。casual：「軽い気持ちの、気楽な」。
+・設問の語句（ここでは communities that failed）と同じ表現を本文で探し、そのすぐあとの文の言いかえになっている選択肢を選ぶのが手がかりになります。

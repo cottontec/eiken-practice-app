@@ -1,6 +1,7 @@
 ---
 choices: inclined | clinched | demoted | adapted
 answerText: demoted
+reviewed: yes
 ---
 【正解】3 demoted（降格させられた、地位を下げられた）
 【和訳】

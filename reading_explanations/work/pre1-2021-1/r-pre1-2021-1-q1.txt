@@ -1,6 +1,7 @@
 ---
 choices: decisive | subjective | redundant | distinct
 answerText: redundant
+reviewed: yes
 ---
 【正解】3 redundant（余計な、同じことのくり返しでくどい）
 【和訳】

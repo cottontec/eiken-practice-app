@@ -1,0 +1,34 @@
+---
+choices: although intelligence consists of several different aspects, it is dependent on the function of just one part of the brain. | while most IQ tests are based on valid research, the way they are carried out makes them ineffective. | IQ tests are designed based on the mistaken concept that intelligence is a single ability that can be measured in isolation. | evidence from brain scans indicates there is less variation in people's intelligence than was previously believed.
+answerText: IQ tests are designed based on the mistaken concept that intelligence is a single ability that can be measured in isolation.
+---
+【正解】3 IQ tests are designed based on the mistaken concept that intelligence is a single ability that can be measured in isolation.（IQテストは、知能は単独で測ることのできる1つの能力だという、まちがった考えにもとづいて作られている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：A study in Canada suggested that（カナダでの研究が示したのは、）
+1 although intelligence consists of several different aspects, it is dependent on the function of just one part of the brain.（知能はいくつかの異なる面から成り立っているが、脳のたった1つの部分の働きに頼っているということだ。）
+2 while most IQ tests are based on valid research, the way they are carried out makes them ineffective.（ほとんどのIQテストは妥当な研究にもとづいているが、その実施のしかたのせいで効果がなくなっているということだ。）
+3 IQ tests are designed based on the mistaken concept that intelligence is a single ability that can be measured in isolation.（IQテストは、知能は単独で測ることのできる1つの能力だという、まちがった考えにもとづいて作られているということだ。）
+4 evidence from brain scans indicates there is less variation in people's intelligence than was previously believed.（脳の画像から得られた証拠は、人々の知能のちがいが、以前に考えられていたよりも小さいことを示しているということだ。）
+【考え方】
+まず見るところ：第2段落の IQ tests are based on the principle that ～ と However, a large-scale study carried out in Canada suggests ～
+第2段落では、まずIQテストのもとになっている考え方が書かれています。
+IQ tests are based on the principle that all aspects of intelligence can be measured by one standardized test of general cognitive ability.（IQテストは、知能のあらゆる面が、一般的な認知能力を測る1つの標準化されたテストで測れるという原理にもとづいている）
+次の文で、カナダの研究がこの考え方を問題にしています。
+However, a large-scale study carried out in Canada suggests that this model of intelligence is too simple.（しかし、カナダで行われた大規模な研究は、この知能のとらえ方は単純すぎることを示している）
+研究者たちは、知能を短期記憶・推論・言葉の能力という3つの異なる面で考えなければ説明できないとし、さらに、それぞれの能力は脳の異なる領域が制御しているとしました。
+本文と選択肢3を対にすると、次のようになります。
+・本文 IQ tests are based on the principle that ～（IQテストは～という原理にもとづいている）→ 選択肢 IQ tests are designed based on the concept that ～（IQテストは～という考えにもとづいて作られている）
+・本文 this model of intelligence is too simple（この知能のとらえ方は単純すぎる）→ 選択肢 the mistaken concept（まちがった考え）
+・本文 all aspects of intelligence can be measured by one standardized test（知能のあらゆる面が1つの標準化されたテストで測れる）→ 選択肢 intelligence is a single ability that can be measured in isolation（知能は単独で測ることのできる1つの能力だ）
+「単純すぎる」とされた考え方を、選択肢では「まちがった考え」と言いかえています。よって3が正解です。
+この問題の型：言いかえ（this model of intelligence is too simple → the mistaken concept）
+【ほかの選択肢】
+1 前半の「知能はいくつかの異なる面から成り立っている」は本文に合いますが、後半が本文と合いません。本文には each of these abilities was controlled by a different region in the brain（これらの能力のそれぞれが、脳の異なる領域によって制御されている）とあり、「脳のたった1つの部分の働きに頼っている」のではありません。
+2 本文に書かれていません。カナダの研究が問題にしたのは、IQテストのもとになっている知能の考え方（this model of intelligence）で、テストの実施のしかたのせいで効果がなくなっているという話はありません。
+4 本文に書かれていません。脳の画像（MRI scans）から分かったのは、3つの能力がそれぞれ脳の異なる領域で制御されていることです。人々の知能のちがいが以前に考えられていたより小さいとは書かれていません。
+【覚えるポイント】
+・be based on the principle that ～：「～という原理にもとづいている」。model：「（物事の）とらえ方、考え方の型」。in isolation：「単独で、ほかと切り離して」。
+・本文で However のあとに研究結果が書かれているときは、その直前に書かれた「もとの考え方」をどう否定しているかを確かめることが、正しい選択肢を見つける手がかりになります。

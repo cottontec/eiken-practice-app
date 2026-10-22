@@ -1,6 +1,7 @@
 ---
 choices: barely | profoundly | improperly | harshly
 answerText: profoundly
+reviewed: yes
 ---
 【正解】2 profoundly（深く、心の底から）
 【和訳】

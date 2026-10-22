@@ -1,0 +1,33 @@
+---
+choices: inept | outgoing | awkward | precise
+answerText: outgoing
+---
+【正解】2 outgoing（社交的な、外向的な）
+【和訳】
+（英文）
+A: It seems strange that Susan is so shy, considering her family.
+B: I know. Both of her parents are so ［outgoing］, but Susan hardly ever speaks in class.
+（訳）
+A：家族のことを考えると、スーザンがあんなに内気なのは不思議な気がするね。
+B：そうだね。両親はどちらもとても（社交的）なのに、スーザンは授業中にほとんど話さないよね。
+（選択肢の意味）
+1 inept：不器用な、下手な
+2 outgoing：社交的な、外向的な
+3 awkward：ぎこちない、（人付き合いが）不器用な
+4 precise：正確な、きちょうめんな
+【考え方】
+まず見るところ：Bの文の but Susan hardly ever speaks in class
+Aの言葉から確かめます。
+It seems strange that Susan is so shy, considering her family.（家族のことを考えると、スーザンがあんなに内気なのは不思議な気がする）
+shy は「内気な、恥ずかしがりの」、considering ～ は「～のことを考えると」です。Aは、スーザンの家族はスーザンとは違う性格だと言いたいのだと考えられます。
+空所のあるBの文は次のとおりです。
+Both of her parents are so (　), but Susan hardly ever speaks in class.（両親はどちらもとても（　）なのに、スーザンは授業中にほとんど話さない）
+hardly ever は「ほとんど～ない」です。but（～なのに）でつないでいるので、両親の性格は「ほとんど話さない」スーザンと反対の性格です。outgoing は「社交的な（人と話したり付き合ったりするのが好きな）」なので、2が正解です。
+この問題の型：対比（社交的な両親⇔内気なスーザン）
+【ほかの選択肢】
+1 inept は「不器用な、下手な」です。「両親はとても不器用なのに、スーザンはほとんど話さない」となり、but の前後が反対の内容になりません。
+3 awkward は「ぎこちない、（人付き合いが）不器用な」です。内気なスーザンに近い様子を表すので、but でスーザンと比べる文になりません。
+4 precise は「正確な、きちょうめんな」です。人と話すかどうかとは関係がなく、but の前後が反対の内容になりません。
+【覚えるポイント】
+・outgoing：「社交的な」。この問題の shy（内気な）と反対の性格を表します。
+・but の前後で2つの人や物（ここでは両親とスーザン）を比べている文では、後ろの様子と反対の意味の語を選ぶと手がかりになります。

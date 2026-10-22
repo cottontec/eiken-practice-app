@@ -1,0 +1,12 @@
+---
+choices: misfortune | dialect | aptitude | thorn
+answerText: aptitude
+---
+【正解】3 aptitude（才能、適性）
+【和訳】
+（英文）
+A: Akari has a real ［aptitude］ for math, but I don’t think her current class is challenging enough.
+B: I agree. Let’s look into moving her to an advanced class.
+（訳）
+A：アカリには数学の（才能）が本当にあるけれど、今のクラスは十分に手ごたえがあるとは思えないね。
+B：同じ意見よ。

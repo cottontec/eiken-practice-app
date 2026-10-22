@@ -1,6 +1,7 @@
 ---
 choices: people have difficulty finding a job, mainly due to companies discriminating against them. | adults tend to worry more than they should about criticism they received when they were young. | companies refuse to seriously consider workers' claims that they are feeling anxious or worried. | children are given praise too frequently, even for things that are not actually difficult to do.
 answerText: children are given praise too frequently, even for things that are not actually difficult to do.
+reviewed: yes
 ---
 【正解】4 children are given praise too frequently, even for things that are not actually difficult to do.（子どもが、実際には難しくないことに対してさえ、あまりにひんぱんにほめられること。）
 【和訳】

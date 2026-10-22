@@ -1,6 +1,7 @@
 ---
 choices: exempted | prosecuted | commanded | quantified
 answerText: exempted
+reviewed: yes
 ---
 【正解】1 exempted（免除された）
 【和訳】

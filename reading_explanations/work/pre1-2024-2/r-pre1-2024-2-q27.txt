@@ -1,0 +1,31 @@
+---
+choices: IQ tests are being misused by teachers as a way to determine which students should enter such programs. | Results of IQ tests provide little help in predicting how well students in such programs will perform. | Students from ethnic minorities tend to perform better in such programs than White students do. | The use of IQ tests has given students from ethnic minorities a better chance of entering such programs.
+answerText: The use of IQ tests has given students from ethnic minorities a better chance of entering such programs.
+---
+【正解】4 The use of IQ tests has given students from ethnic minorities a better chance of entering such programs.（IQテストを使うことで、少数民族の生徒がそうしたプログラムに入れる可能性がより高くなっている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What does the author of the passage say about gifted education programs in US schools?（この文章の筆者は、アメリカの学校のギフテッド教育プログラムについて何と言っているか。）
+1 IQ tests are being misused by teachers as a way to determine which students should enter such programs.（IQテストは、どの生徒がそうしたプログラムに入るべきかを決める方法として、教師によって誤った使い方をされている。）
+2 Results of IQ tests provide little help in predicting how well students in such programs will perform.（IQテストの結果は、そうしたプログラムの生徒がどれくらいよい成績をとるかを予測するのに、ほとんど役に立たない。）
+3 Students from ethnic minorities tend to perform better in such programs than White students do.（少数民族の生徒は、そうしたプログラムで、白人の生徒よりもよい成績をとる傾向がある。）
+4 The use of IQ tests has given students from ethnic minorities a better chance of entering such programs.（IQテストを使うことで、少数民族の生徒がそうしたプログラムに入れる可能性がより高くなっている。）
+【考え方】
+まず見るところ：第3段落の However, in US school districts where IQ tests have been used in the selection process, ～
+第3段落では、まず少数民族の子どもがギフテッド教育プログラム（特にすぐれた才能を持つ子どものための教育プログラム）の対象から見落とされがちな理由が書かれています。理由は、教師の推薦で選ばれてきたことと、教師の無意識の偏見が影響しているかもしれないことです。
+そのあとに、IQテストを使った場合のことが書かれています。
+However, in US school districts where IQ tests have been used in the selection process, more students from ethnic minorities have been able to enter the programs.（しかし、選考の過程でIQテストが使われてきたアメリカの学区では、より多くの少数民族の生徒がプログラムに入ることができている）
+本文と選択肢4を対にすると、次のようになります。
+・本文 where IQ tests have been used in the selection process（選考の過程でIQテストが使われてきたところでは）→ 選択肢 The use of IQ tests（IQテストを使うこと）
+・本文 more students from ethnic minorities have been able to enter the programs（より多くの少数民族の生徒がプログラムに入ることができている）→ 選択肢 has given students from ethnic minorities a better chance of entering such programs（少数民族の生徒がそうしたプログラムに入れる可能性をより高くしている）
+「より多くの生徒が入れている」ことを、選択肢では「入れる可能性がより高くなった」と言いかえています。よって4が正解です。
+この問題の型：言いかえ（more students ～ have been able to enter → a better chance of entering）
+【ほかの選択肢】
+1 本文に書かれていません。本文で問題とされているのは、候補者が referrals from teachers（教師からの推薦）で選ばれてきたことです。教師がIQテストを誤った使い方をしているという話はありません。
+2 本文に書かれていません。本文には、IQテストが能力を客観的に測るので公平な選考方法だという支持者の意見はありますが、プログラムでの成績を予測するのに役立つかどうかは書かれていません。
+3 本文に書かれていません。本文で比べられているのは、プログラムに「選ばれる可能性」です。プログラムに入ったあとの成績を、少数民族の生徒と白人の生徒で比べた話はありません。
+【覚えるポイント】
+・ethnic minorities：「少数民族」。selection process：「選考の過程」。referral：「推薦、紹介」。
+・本文で However のあとに「～を使ったところでは、より多くの人が…できた」と書かれているときは、選択肢で「～を使うことで…の可能性が高まった」と言いかえられることが多いので、その対応を確かめることが手がかりになります。

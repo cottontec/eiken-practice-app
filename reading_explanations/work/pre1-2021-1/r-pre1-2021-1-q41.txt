@@ -1,6 +1,7 @@
 ---
 choices: is more closely related to the poor economic performance of a nation than to the level of support its government provides for social issues. | occurs when governments are willing to overlook criminal activities as long as they help boost the country's supply of resources. | is caused by a country's resources being overvalued by its leaders and then failing to generate the amount of profit that was expected. | can happen due to unethical groups taking advantage of a lack of governance to profit from valuable national assets.
 answerText: can happen due to unethical groups taking advantage of a lack of governance to profit from valuable national assets.
+reviewed: yes
 ---
 【正解】4 can happen due to unethical groups taking advantage of a lack of governance to profit from valuable national assets.（道徳に反する集団が、統治の弱さにつけこんで、国の貴重な財産から利益を得ることによって起こりうる。）
 【和訳】

@@ -1,0 +1,29 @@
+---
+choices: may be misleading | was rejected by other researchers | was difficult to explain | may have a practical use
+answerText: may have a practical use
+---
+【正解】4 may have a practical use（実際の役に立つかもしれない）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 may be misleading（誤解をまねくかもしれない）
+2 was rejected by other researchers（ほかの研究者たちに受け入れられなかった）
+3 was difficult to explain（説明するのがむずかしかった）
+4 may have a practical use（実際の役に立つかもしれない）
+【考え方】
+まず見るところ：第3段落の空所のあとの This implies that facial features could be used to identify people at risk ～
+空所のある文の This discovery（この発見）は、前の文の「ドッペルゲンガーどうしは、教育の程度や喫煙の習慣などの生活上の特徴が共通している可能性が平均より高い」という発見を指しています。この発見がどうなのかは、あとの2つの文に書かれています。
+It is known that people with similar DNA are more likely to develop the same genetic diseases.（似たDNAを持つ人どうしは、同じ遺伝性の病気になる可能性がより高いことが知られている）
+This implies that facial features could be used to identify people at risk of developing such diseases so that they can take preventative measures.（このことは、顔の特徴を使って、そのような病気になる危険のある人を見つけ出し、その人たちが予防のための手段をとれるようにすることができるかもしれない、ということを示している）
+顔の特徴を使って病気の危険がある人を見つけ、予防につなげられるかもしれない、というのは、発見を実際の生活に生かす使い道の話です。
+本文 facial features could be used to identify people at risk ～ so that they can take preventative measures（顔の特徴を使って危険のある人を見つけ、予防の手段をとれるようにできるかもしれない）→ 言いかえると → 選択肢 may have a practical use（実際の役に立つかもしれない）
+ですから、4が正解です。
+この問題の型：具体例とまとめ（顔の特徴で病気の危険がある人を見つけて予防する ＝ 実際の役に立つ）
+【ほかの選択肢】
+1 may be misleading（誤解をまねくかもしれない）を入れると、発見の内容を疑う流れになります。しかし、あとの文は発見を土台にして、病気の予防に使える可能性を述べているので、つながりません。
+2 was rejected by other researchers（ほかの研究者たちに受け入れられなかった）は、本文に書かれていません。あとの文も、ほかの研究者の反応ではなく、発見の使い道を述べています。
+3 was difficult to explain（説明するのがむずかしかった）は、本文に書かれていません。あとの文は、説明のむずかしさについてではなく、顔の特徴を病気の予防に使えるかもしれないという内容です。
+【覚えるポイント】
+・practical：「実際の、実用的な」。have a practical use で「実際の役に立つ、実用的な使い道がある」です。
+・This discovery ( ). の空所では、あとの This implies that ～（このことは～を示している）に、その発見がどんな意味を持つかが書かれていることが多いです。「何に使える」と書かれていれば、use（使い道）のような語を含む選択肢が入る手がかりになります。

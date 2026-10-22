@@ -1,0 +1,31 @@
+---
+choices: supernatural | cowardly | spacious | compliant
+answerText: spacious
+---
+【正解】3 spacious（広々とした）
+【和訳】
+（英文）
+Although the bedrooms in the apartment were quite ［spacious］, the kitchen and dining room were small, so the couple decided not to rent it.
+（訳）
+そのアパートの寝室はかなり（広々としていた）が、台所と食堂は狭かったので、その二人はそこを借りないことにした。
+（選択肢の意味）
+1 supernatural：超自然的な（自然の法則では説明できない）
+2 cowardly：臆病な
+3 spacious：広々とした
+4 compliant：（命令や規則に）素直に従う
+【考え方】
+まず見るところ：Although と、後半の the kitchen and dining room were small
+空所のある部分は、次のとおりです。
+Although the bedrooms in the apartment were quite (　)（そのアパートの寝室はかなり（　）だったけれども）
+Although は「～だけれども」という意味で、後ろに反対の内容が続く合図になります。
+後半には、次のように書かれています。
+the kitchen and dining room were small（台所と食堂は狭かった）
+「寝室は（　）だけれども、台所と食堂は狭かった」という形なので、空所には small（狭い）と反対の意味の語が入ります。spacious は「広々とした」という意味なので、3が正解です。台所と食堂が狭かったことが、借りないことにした理由になっています。
+この問題の型：対比（寝室は広い⇔台所と食堂は狭い）
+【ほかの選択肢】
+1 supernatural は「超自然的な」です。「寝室はかなり超自然的だった」となり、意味が通りません。後半の small（狭い）との対比にもなりません。
+2 cowardly は「臆病な」で、人や動物の性格を表す語です。「寝室が臆病だった」となり、意味が通りません。
+4 compliant は「（命令や規則に）素直に従う」です。「寝室が素直に従う」となり、意味が通りません。部屋の広さの話にもなりません。
+【覚えるポイント】
+・spacious：「広々とした」。space（空間、広さ）とつながりのある語です。
+・Although A, B（Aだけれども、B）の形では、AとBが反対の内容になるので、Bの語（ここでは small）が、Aの空所に入る語を決める手がかりになります。

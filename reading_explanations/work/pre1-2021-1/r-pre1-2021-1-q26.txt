@@ -1,6 +1,7 @@
 ---
 choices: In exchange | Similarly | In other words | Nevertheless
 answerText: Nevertheless
+reviewed: yes
 ---
 【正解】4 Nevertheless（それにもかかわらず、それでも）
 【和訳】
