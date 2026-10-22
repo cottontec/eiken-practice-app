@@ -1,0 +1,32 @@
+---
+choices: discovered that the way Bram Stoker had described Transylvania based on his experiences was surprisingly accurate. | found the locals willing to share regional tales about vampires and Dracula despite opposition from authorities. | experienced hostility from residents of Transylvania who were afraid of their history becoming public. | found that few local people had any knowledge about the topic that had drawn them to visit the region.
+answerText: found that few local people had any knowledge about the topic that had drawn them to visit the region.
+---
+【正解】4 found that few local people had any knowledge about the topic that had drawn them to visit the region.（自分たちをその地方の訪問へと引きつけた話題について、何かを知っている地元の人はほとんどいないと分かった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：The earliest Dracula fans visiting Transylvania（トランシルバニアを訪れた最初のころのドラキュラファンは、）
+1 discovered that the way Bram Stoker had described Transylvania based on his experiences was surprisingly accurate.（ブラム・ストーカーが自分の経験にもとづいてトランシルバニアを描写したやり方が、驚くほど正確だと気づいた。）
+2 found the locals willing to share regional tales about vampires and Dracula despite opposition from authorities.（当局の反対にもかかわらず、地元の人々が吸血鬼やドラキュラについての地域の話を進んで伝えてくれると分かった。）
+3 experienced hostility from residents of Transylvania who were afraid of their history becoming public.（自分たちの歴史が世の中に知られることを恐れたトランシルバニアの住民から、敵意を向けられた。）
+4 found that few local people had any knowledge about the topic that had drawn them to visit the region.（自分たちをその地方の訪問へと引きつけた話題について、何かを知っている地元の人はほとんどいないと分かった。）
+【考え方】
+まず見るところ：第1段落の They were generally disappointed, however, as most residents of the region were unfamiliar with Stoker's novel or vampire tales.
+第1段落に、ファンが訪れ始めた時期が書かれています。
+In the 1960s, they began visiting the region in hope of experiencing the culture that had given rise to the legend.（1960年代、ファンたちは、その伝説を生み出した文化を体験したいと願って、この地方を訪れ始めた）
+これが設問の The earliest Dracula fans（最初のころのドラキュラファン）にあたります。続く文は、次のとおりです。
+They were generally disappointed, however, as most residents of the region were unfamiliar with Stoker's novel or vampire tales.（しかし、彼らはたいていがっかりした。その地方の住民のほとんどが、ストーカーの小説や吸血鬼の話をよく知らなかったからだ）
+be unfamiliar with ～ は「～をよく知らない」です。本文と選択肢を対にすると、次のようになります。
+本文 most residents of the region were unfamiliar with ～（その地方の住民のほとんどが～をよく知らなかった）＝ 選択肢 few local people had any knowledge about ～（～について何かを知っている地元の人はほとんどいなかった）
+本文 Stoker's novel or vampire tales（ストーカーの小説や吸血鬼の話）→ 選択肢 the topic that had drawn them to visit the region（彼らをその地方の訪問へと引きつけた話題）
+ですから4が正解です。
+この問題の型：言いかえ（most residents were unfamiliar with ～ ＝ few local people had any knowledge）
+【ほかの選択肢】
+1 第1段落に Although Stoker never visited the region（ストーカーはこの地方を一度も訪れたことがなかったが）とあります。ストーカーは自分の経験にもとづいて描写したのではないので、本文と合いません。描写が正確だったという話もありません。
+2 本文では、住民のほとんどが吸血鬼の話をよく知らなかったと書かれているので、地元の人が進んで話を伝えてくれたとは言えません。また、当局（政府の役人たち）がドラキュラ観光を奨励しないと決めたのは1970年代初めのことで、1960年代の最初のファンが当局の反対を受けたという話はありません。
+3 本文には、住民がファンに敵意を向けたという話も、住民が自分たちの歴史が知られるのを恐れたという話もありません。本文にない内容です。
+【覚えるポイント】
+・be unfamiliar with ～：「～をよく知らない、～になじみがない」。選択肢では few ～ had any knowledge（何かを知っている人はほとんどいない）と言いかえられています。
+・設問に The earliest ～（最初のころの～）とあるときは、本文の In the 1960s のような、いちばん早い時期を示す語の近くを読むことが答えの手がかりになります。
