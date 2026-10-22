@@ -1,0 +1,30 @@
+---
+choices: declaration | attachment | elimination | supplement
+answerText: elimination
+---
+【正解】3 elimination（取り除くこと、なくすこと）
+【和訳】
+（英文）
+After his retirement from office, the former mayor started an organization dedicated to the ［elimination］ of homelessness from his city.
+（訳）
+職を退いたあと、その元市長は、自分の市からホームレスの問題（住む家がない人がいること）を（なくすこと）に力を注ぐ団体を立ち上げた。
+（選択肢の意味）
+1 declaration：宣言
+2 attachment：愛着、取りつけること
+3 elimination：取り除くこと、なくすこと
+4 supplement：補うもの、追加
+【考え方】
+まず見るところ：空所の後ろの of homelessness from his city
+retirement from office は「職（ここでは市長の職）から退くこと」、former mayor は「元市長」です。dedicated to ～ は「～に力を注ぐ、～のための」という意味です。
+空所の前後は、次のようになっています。
+the (　) of homelessness from his city（自分の市からホームレスの問題を（　）こと）
+homelessness は「住む家がない状態」です。from his city（自分の市から）があるので、市からホームレスの問題を「取り去る」という意味の語が合います。
+elimination は eliminate（取り除く）の名詞の形で、「取り除くこと、なくすこと」です。the elimination of A from B で「BからAをなくすこと」となるので、3が正解です。
+この問題の型：語の意味・組み合わせ（elimination of ～ from ～）
+【ほかの選択肢】
+1 declaration は「宣言」です。「市からのホームレスの問題の宣言に力を注ぐ団体」となり、意味が通りません。
+2 attachment は「愛着」です。「ホームレスの問題への愛着に力を注ぐ団体」では、元市長が作る団体の目的としておかしく、from his city ともつながりません。
+4 supplement は「補うもの、追加」です。ホームレスの問題を補う（増やす）団体という意味になり、問題を解決しようとする団体の話として合いません。
+【覚えるポイント】
+・elimination of A from B：「BからAを取り除くこと」。
+・空所の後ろに from（～から）があるときは、「取り去る、なくす」という意味の語が入る手がかりになります。

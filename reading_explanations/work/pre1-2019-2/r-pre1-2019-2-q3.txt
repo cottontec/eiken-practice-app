@@ -1,0 +1,31 @@
+---
+choices: influx | humidity | downturn | lantern
+answerText: downturn
+---
+【正解】3 downturn（〔景気などの〕下降、落ち込み）
+【和訳】
+（英文）
+The ［downturn］ in the nation's economy led to a sudden increase in the unemployment rate. "Times are difficult for everyone," said the president.
+（訳）
+国の経済の（落ち込み）によって、失業率が急に上がった。「誰にとっても苦しい時代です」と大統領は言った。
+（選択肢の意味）
+1 influx：流入（大勢の人や物が流れこむこと）
+2 humidity：湿度、湿気
+3 downturn：（景気などの）下降、落ち込み
+4 lantern：ランタン、手さげランプ
+【考え方】
+まず見るところ：空所のあとの led to a sudden increase in the unemployment rate
+空所のある文は、次のとおりです。
+The (　) in the nation's economy led to a sudden increase in the unemployment rate.（国の経済の（　）によって、失業率が急に上がった）
+led to ～ は「～につながった、～を引き起こした」です。unemployment rate は「失業率（働きたいのに仕事がない人の割合）」です。失業率が急に上がるのは、経済が悪くなったときです。
+次の文でも、大統領が次のように言っています。
+"Times are difficult for everyone,"（「誰にとっても苦しい時代です」）
+経済が悪い方向へ向かったことが分かります。downturn は「（景気などの）下降、落ち込み」という意味なので、3が正解です。
+この問題の型：因果（経済の落ち込み → 失業率の上昇）
+【ほかの選択肢】
+1 influx は「流入（大勢の人や物が流れこむこと）」です。「国の経済の流入」では何が流れこんだのかが分からず、失業率が急に上がった原因として意味が通りません。
+2 humidity は「湿度、湿気」です。天気や空気について使う語で、「国の経済の湿度」では意味が通りません。
+4 lantern は「ランタン、手さげランプ」です。物の名前で、「国の経済のランタン」では意味が通りません。
+【覚えるポイント】
+・downturn in the economy：「経済の落ち込み、景気の下降」。
+・空所のあとに led to ～（～を引き起こした）が続くときは、そのあとの結果（ここでは失業率の急な上昇）から考えて、その原因になる語を選ぶ手がかりになります。

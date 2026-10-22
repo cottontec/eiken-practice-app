@@ -1,0 +1,30 @@
+---
+choices: evade | comply | stare | horrify
+answerText: comply
+---
+【正解】2 comply（〔規則などに〕従う）
+【和訳】
+（英文）
+The government adopted new environmental regulations and stated that companies that fail to ［comply］ will be fined.
+（訳）
+政府は新しい環境規制を取り入れ、（それに従わ）ない会社には罰金が科される、と発表した。
+（選択肢の意味）
+1 evade：～をのがれる、さける
+2 comply：（規則などに）従う
+3 stare：じっと見つめる
+4 horrify：～をぞっとさせる
+【考え方】
+まず見るところ：文の前半の new environmental regulations と、最後の will be fined
+regulations は「規制（決まり、規則）」です。政府が新しい環境の規則を取り入れた、という話です。
+そのあとに、政府が発表した内容が続きます。
+companies that fail to (　) will be fined（（　）ない会社には罰金が科される）
+fail to ～ は「～しない、～しそこなう」、be fined は「罰金を科される」です。
+新しい規則を作った政府が罰金を科すのは、規則を守らない会社です。comply は「（規則などに）従う」なので、fail to comply で「従わない」となります。ですから2が正解です。
+この問題の型：因果（規則に従わない → 罰金）
+【ほかの選択肢】
+1 evade は「～をのがれる」です。fail to evade では「のがれそこなった会社には罰金が科される」となり、規則を守るかどうかではなく、うまくのがれたかどうかの話になってしまいます。新しい規則を守らせようとする流れに合いません。
+3 stare は「じっと見つめる」です。「じっと見つめない会社には罰金」となり、意味が通りません。
+4 horrify は「～をぞっとさせる」です。「ぞっとさせない会社には罰金」となり、規則の話とつながりません。
+【覚えるポイント】
+・comply：「（規則・命令などに）従う」。fail to comply で「従わない」。
+・regulations（規則）と fined（罰金を科される）が同じ文に出てきたら、「規則を守る・破る」に関わる語が入る手がかりになります。

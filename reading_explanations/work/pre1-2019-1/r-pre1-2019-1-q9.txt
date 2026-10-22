@@ -1,0 +1,32 @@
+---
+choices: administrator | inspector | originator | intruder
+answerText: intruder
+---
+【正解】4 intruder（侵入者、勝手に入りこむ人）
+【和訳】
+（英文）
+The couple was awoken in the night by an ［intruder］ who broke a window and entered their home. Whoever it was had left by the time the police arrived.
+（訳）
+その夫婦は夜中に、窓を割って家に入ってきた（侵入者）に起こされた。それがだれだったにせよ、警察が到着したときには、すでにいなくなっていた。
+（選択肢の意味）
+1 administrator：管理者、行政官
+2 inspector：検査官、調査官
+3 originator：創始者、最初に考え出した人
+4 intruder：侵入者（勝手に入りこむ人）
+【考え方】
+まず見るところ：空所の後ろの who broke a window and entered their home
+空所の人は、後ろの who 以下で説明されています。who は、前の人について説明をつけ加える働きをする語です。
+who broke a window and entered their home（窓を割って家に入ってきた）
+窓を割って、他人の家に入ってくる人です。
+後半の文も見ます。
+Whoever it was had left by the time the police arrived.（それがだれだったにせよ、警察が到着したときには、すでにいなくなっていた）
+Whoever it was は「それがだれであれ」で、正体が分からない人だということです。警察が来る前に逃げていたことからも、勝手に入りこんだ人だと分かります。
+intruder は「侵入者」なので、4が正解です。
+この問題の型：語の意味（who 以下の説明に合う人）
+【ほかの選択肢】
+1 administrator は「管理者、行政官」です。管理者が窓を割って家に入り、警察が来る前にいなくなる、という話には合いません。
+2 inspector は「検査官」です。検査官が窓を割って入ってきて、正体も分からないまま去る、という流れには合いません。
+3 originator は「創始者、最初に考え出した人」です。何を始めた人なのかが書かれておらず、窓を割って入った人の説明として意味が通りません。
+【覚えるポイント】
+・intruder：「侵入者」。
+・空所の人の後ろに who ～ が続くときは、who 以下がその人の説明です。その説明（ここでは窓を割って家に入った）にぴったり合う人を選ぶのが手がかりになります。

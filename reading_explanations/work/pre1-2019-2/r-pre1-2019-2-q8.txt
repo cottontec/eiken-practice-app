@@ -1,0 +1,29 @@
+---
+choices: launched | imitated | accelerated | acknowledged
+answerText: acknowledged
+---
+【正解】4 acknowledged（〔存在などに〕気づいたことを示した、認めた）
+【和訳】
+（英文）
+Sara's boss was on the phone when she entered his office. He ［acknowledged］ her presence with a small nod but did not interrupt his conversation to speak to her.
+（訳）
+サラが上司の部屋に入ったとき、上司は電話中だった。上司は小さくうなずいて、サラが来たことに（気づいていると示した）が、彼女に話しかけるために電話での会話を中断することはしなかった。
+（選択肢の意味）
+1 launched：始めた、（ロケットなどを）打ち上げた
+2 imitated：まねた
+3 accelerated：速めた、加速させた
+4 acknowledged：（存在などに）気づいたことを示した、認めた
+【考え方】
+まず見るところ：空所のあとの her presence with a small nod
+空所のある文は、次のとおりです。
+He (　) her presence with a small nod but did not interrupt his conversation to speak to her.（上司は小さくうなずいてサラの存在を（　）が、彼女に話しかけるために会話を中断することはしなかった）
+presence は「（そこに）いること、存在」、nod は「うなずき」です。電話中の上司は、話しかけはしなかったものの、うなずいて「来たのは分かっているよ」と合図をしたと考えられます。
+acknowledge は「（人がいることや物事に）気づいたことを示す、認める」という意味なので、acknowledged her presence で「彼女が来たことに気づいていると示した」となります。ですから4が正解です。
+この問題の型：語の意味・組み合わせ（acknowledge one's presence）
+【ほかの選択肢】
+1 launched は「始めた、打ち上げた」です。「うなずいて彼女の存在を始めた」では意味が通りません。
+2 imitated は「まねた」です。「うなずいて彼女の存在をまねた」では意味が通りません。上司がサラの何かをまねたという話でもありません。
+3 accelerated は「速めた、加速させた」です。「うなずいて彼女の存在を速めた」では意味が通りません。
+【覚えるポイント】
+・acknowledge one's presence：「その人がいることに気づいたと示す」。with a small nod（小さくうなずいて）のような合図といっしょに使われます。
+・but did not ～（しかし～はしなかった）と続くときは、その前に「しなかったこと」より軽い反応が来ることが多く、ここでは「話しかけはしないが、気づいたと示す」という組み合わせを考える手がかりになります。

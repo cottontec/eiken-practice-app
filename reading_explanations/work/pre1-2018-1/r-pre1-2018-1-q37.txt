@@ -1,0 +1,31 @@
+---
+choices: Rules limiting the number of years that aircraft can remain in service have resulted in fewer accidents. | Aircraft manufacturers have created an international agency to ensure the reliability of mechanical parts. | Additional exits are now required on aircraft so that people can escape more quickly if there is an accident. | Aircraft pilots now have better options for responding to emergencies so that potential harm is reduced.
+answerText: Aircraft pilots now have better options for responding to emergencies so that potential harm is reduced.
+---
+【正解】4 Aircraft pilots now have better options for responding to emergencies so that potential harm is reduced.（被害が起こるおそれを減らせるように、パイロットは今では、緊急事態に対応するための以前よりよい手段を持っている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to the author of the passage, what is one way the aviation industry has changed since the 1970s to make air travel safer?（文章の筆者によると、空の旅をより安全にするために、1970年代以降に航空業界が変わった点の一つは何か。）
+1 Rules limiting the number of years that aircraft can remain in service have resulted in fewer accidents.（飛行機が使われ続けられる年数を制限する規則によって、事故が減った。）
+2 Aircraft manufacturers have created an international agency to ensure the reliability of mechanical parts.（飛行機の製造会社が、機械の部品の信頼性を確かなものにするための国際機関を作った。）
+3 Additional exits are now required on aircraft so that people can escape more quickly if there is an accident.（事故が起きたときに人々がより速く逃げられるように、今では飛行機に出口を追加することが求められている。）
+4 Aircraft pilots now have better options for responding to emergencies so that potential harm is reduced.（被害が起こるおそれを減らせるように、パイロットは今では、緊急事態に対応するための以前よりよい手段を持っている。）
+【考え方】
+まず見るところ：第3段落の systems that allow pilots to do things like stopping the flow of fuel if engines catch fire
+第3段落では、1970年代以降、墜落した飛行機の残骸を調べたことで、飛行機がどう変わったかが書かれています。
+As a result, engineers have made changes to plane design, such as the addition of fireproof materials, and systems that allow pilots to do things like stopping the flow of fuel if engines catch fire.（その結果、技術者たちは、燃えにくい素材を加えることや、エンジンが火を噴いたときに燃料の流れを止めるといったことをパイロットができる仕組みなど、飛行機の設計に変更を加えてきた）
+allow A to ～ は「Aが～できるようにする」です。エンジンが燃えるという緊急事態のときに、パイロットが燃料を止められるようになったので、火事がひどくなるのを防げます。
+本文と選択肢4を対にすると、次のようになります。
+・本文 systems that allow pilots to do things like stopping the flow of fuel（パイロットが燃料の流れを止めるといったことをできる仕組み）→ 選択肢 Aircraft pilots now have better options（パイロットは今では、よりよい手段を持っている）
+・本文 if engines catch fire（エンジンが火を噴いたとき）→ 選択肢 responding to emergencies（緊急事態に対応すること）
+本文には燃料を止める「仕組み」が加えられたと書かれており、これを「パイロットが取れる手段が以前よりよくなった」と言いかえています。また、この変化は人の命を救うことにつながった成果として書かれているので、so that potential harm is reduced（被害のおそれが減るように）とも合います。よって4が正解です。
+この問題の型：言いかえ（systems that allow pilots to ～ → pilots have better options）
+【ほかの選択肢】
+1 本文にありません。飛行機を使い続けられる年数を制限する規則の話は書かれていません。
+2 本文と違います。本文では、世界中の民間と軍の航空機関が残骸を調べて結論を共有してきたとありますが、製造会社が部品の信頼性のための国際機関を作ったとは書かれていません。部品の点検と分析で機械の不具合が減った、という話はありますが、それを行ったのが新しい国際機関だという話はありません。
+3 本文と違います。本文にあるのは new evacuation procedures（新しい避難の手順）で、出口を追加することが求められるようになったとは書かれていません。
+【覚えるポイント】
+・allow A to ～：「Aが～できるようにする」。catch fire：「火がつく、燃え出す」。evacuation procedures：「避難の手順」。
+・本文の具体例（ここでは燃料を止める仕組み）が、選択肢ではまとめた言い方（better options for responding to emergencies）になっていることが多いので、具体例とまとめの対応を確かめることが手がかりになります。

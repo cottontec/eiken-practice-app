@@ -1,0 +1,29 @@
+---
+choices: sharpen | crumble | vibrate | stimulate
+answerText: crumble
+---
+【正解】2 crumble（ぼろぼろに崩れる）
+【和訳】
+（英文）
+The house was so old that the walls had begun to ［crumble］. When someone was almost hit by a falling brick, the owner decided the house would have to be taken down.
+（訳）
+その家はとても古かったので、壁が崩れ始めていた。ある人が落ちてきたれんがに当たりそうになったとき、持ち主は、その家を取り壊さなければならないだろうと決めた。
+（選択肢の意味）
+1 sharpen：とがらせる、鋭くする
+2 crumble：ぼろぼろに崩れる
+3 vibrate：振動する（細かくゆれる）
+4 stimulate：刺激する
+【考え方】
+まず見るところ：空所のある文の so old that と、次の文の almost hit by a falling brick
+空所のある文は so ～ that ...（とても～なので…）の形です。that のあとには「家がとても古かった」ことから起こった結果が入ります。
+When someone was almost hit by a falling brick（ある人が落ちてきたれんがに当たりそうになったとき）
+次の文では、壁のれんがが落ちてきています。古くなった壁から、れんががはがれて落ちてくる様子が分かります。crumble は「ぼろぼろに崩れる」という意味で、had begun to crumble で「崩れ始めていた」となります。家が古いことの結果としても、れんがが落ちてきたこととも合うので、2が正解です。
+さらに、持ち主が the house would have to be taken down（家を取り壊さなければならないだろう）と決めたことも、壁が崩れかけていたことと合います。
+この問題の型：因果（とても古い → 壁が崩れ始める）
+【ほかの選択肢】
+1 sharpen は「とがらせる、鋭くする」です。「壁がとがり始めていた」となり、家が古いことの結果としても、れんがが落ちてくることとも合いません。
+3 vibrate は「振動する、細かくゆれる」です。「家が古いので壁がゆれ始めていた」となり、古さから起こることとして不自然です。れんがが落ちてきたことを説明する語としては、崩れることを表す crumble のほうがぴったり合います。
+4 stimulate は「（人や体などを）刺激する」です。ふつう「何を刺激するか」を後ろに置く語なので、「壁が刺激し始めていた」では意味が通りません。
+【覚えるポイント】
+・crumble：「ぼろぼろに崩れる」。古い建物や壁が崩れる様子を表します。
+・so ～ that ... の文では、that のあとに「その結果どうなったか」が来ます。空所が that のあとにあるときは、前の「原因」から起こりそうなことかどうか、さらに次の文の具体的な出来事（ここでは a falling brick）と合うかどうかを確かめましょう。

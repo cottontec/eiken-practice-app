@@ -1,0 +1,32 @@
+---
+choices: gaze | summit | friction | procession
+answerText: procession
+---
+【正解】4 procession（行列）
+【和訳】
+（英文）
+The politician had been very popular, so his funeral ［procession］ stretched over several city blocks. Supporters followed the car carrying his body all the way to the church.
+（訳）
+その政治家はとても人気があったので、彼の葬儀の（行列）は、街のいくつかの区画にわたって続いた。支持者たちは、彼の遺体を運ぶ車のあとについて、教会までずっと進んだ。
+（選択肢の意味）
+1 gaze：じっと見つめること、視線
+2 summit：頂上、首脳会談
+3 friction：摩擦、あつれき（仲が悪くなること）
+4 procession：行列（列を作って進むこと）
+【考え方】
+まず見るところ：空所の後ろの stretched over several city blocks と、後半の文の followed the car
+空所のある文は、次のようになっています。
+so his funeral (　) stretched over several city blocks（それで彼の葬儀の（　）は、街のいくつかの区画にわたって続いた）
+funeral は「葬儀、お葬式」、stretched over ～ は「～にわたって伸びた」、city block は「（道路で区切られた）街の区画」です。とても長く伸びるものが空所に入ります。
+後半の文を見ます。
+Supporters followed the car carrying his body all the way to the church.（支持者たちは、彼の遺体を運ぶ車のあとについて、教会までずっと進んだ）
+たくさんの支持者が車のあとについて進んだので、長い列ができたと分かります。前半の so（それで）も、人気があったから列が長くなった、というつながりを表しています。
+procession は「行列」で、funeral procession は「葬列（葬儀の行列）」です。ですから4が正解です。
+この問題の型：因果（so 人気があった → 長い行列）／具体例とまとめ（支持者が車のあとに続く → 行列）
+【ほかの選択肢】
+1 gaze は「じっと見つめること」です。「葬儀の視線がいくつかの区画にわたって続いた」となり、意味が通りません。
+2 summit は「頂上、首脳会談」です。「葬儀の首脳会談が区画にわたって続いた」となり、意味が通りません。
+3 friction は「摩擦、あつれき」です。人気があったので摩擦が長く続いた、では so のつながりに合わず、支持者が車について行ったという後半の文とも合いません。
+【覚えるポイント】
+・funeral procession：「葬列（葬儀の行列）」。
+・stretch over ～（～にわたって伸びる）や followed（あとに続いた）は、長く続くものや列の手がかりになります。後ろの文の様子から、空所の名詞を考えましょう。

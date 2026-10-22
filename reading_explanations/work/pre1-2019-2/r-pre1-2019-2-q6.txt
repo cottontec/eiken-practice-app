@@ -1,0 +1,28 @@
+---
+choices: sturdy | harsh | barren | vigilant
+answerText: sturdy
+---
+【正解】1 sturdy（頑丈な、がっしりした）
+【和訳】
+（英文）
+The bookshelf was very ［sturdy］, so Ed knew it could support the weight of all of his heavy medical textbooks without breaking.
+（訳）
+その本棚はとても（頑丈）だったので、エドは、本棚が壊れることなく、自分の重い医学の教科書すべての重さを支えられると分かっていた。
+（選択肢の意味）
+1 sturdy：頑丈な、がっしりした
+2 harsh：厳しい、（音などが）耳ざわりな
+3 barren：（土地が）やせた、作物が育たない
+4 vigilant：用心深い、油断なく見張っている
+【考え方】
+まず見るところ：so のあとの it could support the weight of all of his heavy medical textbooks without breaking
+空所には本棚の様子を表す語が入ります。so（だから）のあとに、その結果が書かれています。
+it could support the weight of all of his heavy medical textbooks without breaking（本棚が壊れることなく、自分の重い医学の教科書すべての重さを支えられる）
+support the weight は「重さを支える」、without breaking は「壊れることなく」です。重い本を全部のせても壊れないと分かったのは、本棚が丈夫だったからです。sturdy は「頑丈な、がっしりした」という意味なので、1が正解です。
+この問題の型：因果（本棚が頑丈 → だから重い本をのせても壊れない）
+【ほかの選択肢】
+2 harsh は「厳しい、耳ざわりな」です。「本棚がとても厳しかったので、重い本を支えられる」となり、重さに耐える理由になりません。
+3 barren は「（土地が）やせた、作物が育たない」です。土地について使う語で、本棚が重さを支えられる理由になりません。
+4 vigilant は「用心深い、油断なく見張っている」です。人や動物の態度を表す語で、「本棚が用心深かったので」では意味が通りません。
+【覚えるポイント】
+・sturdy：「頑丈な、がっしりした」。家具や体つきなどについて使います。
+・(　), so ～ の形では、so のあとの結果（ここでは「壊れずに重さを支えられる」）から考えて、その理由になる性質の語を選ぶ手がかりになります。

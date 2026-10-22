@@ -1,0 +1,32 @@
+---
+choices: disposable | admirable | industrious | ingenious
+answerText: disposable
+---
+【正解】1 disposable（使い捨ての）
+【和訳】
+（英文）
+Lately, more people have been trying to reduce the amount of garbage they create by avoiding ［disposable］ items such as paper plates and plastic knives and forks.
+（訳）
+最近、紙の皿やプラスチックのナイフ・フォークのような（使い捨ての）品物を避けることで、自分たちが出すごみの量を減らそうとする人が増えてきている。
+（選択肢の意味）
+1 disposable：使い捨ての
+2 admirable：立派な、感心な
+3 industrious：勤勉な、よく働く
+4 ingenious：工夫に富んだ、独創的な
+【考え方】
+まず見るところ：空所の後ろの such as paper plates and plastic knives and forks
+文の中心は、次の部分です。
+more people have been trying to reduce the amount of garbage they create（自分たちが出すごみの量を減らそうとする人が増えてきている）
+more people は「（以前より）多くの人」です。その方法が by avoiding ～（～を避けることで）で示されています。
+空所の後ろには、具体例が並んでいます。
+such as paper plates and plastic knives and forks（紙の皿やプラスチックのナイフ・フォークのような）
+such as ～ は「～のような」で、例を挙げる言い方です。紙の皿もプラスチックのナイフ・フォークも、1回使ったら捨てるものです。こうした品物を使わなければ、ごみが減ります。
+disposable は「使い捨ての」なので、1が正解です。
+この問題の型：具体例とまとめ（紙皿・プラスチックのナイフやフォーク → 使い捨て）
+【ほかの選択肢】
+2 admirable は「立派な、感心な」です。「立派な品物を避けることでごみを減らす」となり、ごみが減る理由になりません。
+3 industrious は「勤勉な」で、ふつう人の性質を表す語です。品物について使うと意味が通りません。
+4 ingenious は「工夫に富んだ」です。工夫された品物を避けても、ごみが減ることにはつながらず、紙皿などの例とも合いません。
+【覚えるポイント】
+・disposable：「使い捨ての」。
+・such as ～（～のような）の後ろの具体例は、空所の語をまとめた言い方の手がかりになります。例に挙がったものの共通点（ここでは1回使って捨てる）を考えましょう。

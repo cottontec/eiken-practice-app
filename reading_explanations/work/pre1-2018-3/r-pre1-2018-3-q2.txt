@@ -1,0 +1,28 @@
+---
+choices: janitors | stewards | tailors | missionaries
+answerText: missionaries
+---
+【正解】4 missionaries（宣教師たち）
+【和訳】
+（英文）
+In the 1800s, European ［missionaries］ went to Africa to convert people to Christianity. Upon returning home, many of them wrote accounts of their experiences.
+（訳）
+1800年代、ヨーロッパの宣教師たちは、人々をキリスト教に改宗させるためにアフリカへ行った。帰国すると、彼らの多くは自分たちの経験を記録したものを書いた。
+（選択肢の意味）
+1 janitors：（建物の）用務員、管理人
+2 stewards：（船や飛行機の）客室係、（屋敷の）執事
+3 tailors：仕立て屋（服を注文に合わせて作る人）
+4 missionaries：宣教師（宗教を広めるために遠くへ出かける人）
+【考え方】
+まず見るところ：空所のあとの to convert people to Christianity
+空所には、アフリカへ行った人たちがどんな人だったかを表す語が入ります。その人たちが何のために行ったのかは、空所のあとに書かれています。
+went to Africa to convert people to Christianity（人々をキリスト教に改宗させるためにアフリカへ行った）
+convert A to B は「AをBに変える」で、ここでは「人々をキリスト教の信者に変える」、つまり改宗（信じる宗教を変えること）させるという意味です。to convert の to は「～するために」と目的を表します。宗教を広めるために外国へ出かける人は missionary（宣教師）なので、4が正解です。
+この問題の型：語の意味・組み合わせ（missionaries ＝ キリスト教を広めに行く人）
+【ほかの選択肢】
+1 janitors は「用務員、建物の管理人」です。建物のそうじや手入れをする人で、「人々をキリスト教に改宗させるためにアフリカへ行った」という目的と結びつきません。
+2 stewards は「（船や飛行機の）客室係、執事」です。客の世話をする仕事の人で、宗教を広めるという目的とは合いません。
+3 tailors は「仕立て屋」です。服を作る仕事の人で、人々を改宗させるために外国へ行ったという内容とつながりません。
+【覚えるポイント】
+・missionary：「宣教師」。convert A to B は「AをBに変える」で、convert people to Christianity は「人々をキリスト教に改宗させる」です。
+・空所に「どんな人か」を表す名詞が入るときは、その人が「何をしたか・何のために行ったか」（ここでは to convert people to Christianity）が、いちばんの手がかりになります。

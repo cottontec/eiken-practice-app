@@ -1,0 +1,31 @@
+---
+choices: incompetently | mischievously | diligently | passively
+answerText: diligently
+---
+【正解】3 diligently（勤勉に、熱心にこつこつと）
+【和訳】
+（英文）
+The new employee impressed his colleagues by working ［diligently］. He finished every one of his assignments ahead of time.
+（訳）
+その新入社員は（勤勉に）働くことで、同僚たちを感心させた。彼は、割り当てられた仕事を一つ残らず、予定より早く終えた。
+（選択肢の意味）
+1 incompetently：無能に、手際悪く
+2 mischievously：いたずらっぽく、意地悪く
+3 diligently：勤勉に、熱心にこつこつと
+4 passively：受け身で、消極的に
+【考え方】
+まず見るところ：次の文の He finished every one of his assignments ahead of time.
+空所のある文は、次のとおりです。
+The new employee impressed his colleagues by working (　).（その新入社員は（　）働くことで、同僚たちを感心させた）
+impress は「（人を）感心させる」、colleague は「同僚（同じ職場で働く仲間）」です。空所には、同僚が感心するような「働き方」が入ります。
+次の文で、その働き方が具体的に説明されています。
+He finished every one of his assignments ahead of time.（彼は、割り当てられた仕事を一つ残らず、予定より早く終えた）
+assignment は「割り当てられた仕事」、ahead of time は「予定より早く、前もって」です。仕事をすべて早めに終えたのですから、まじめに熱心に働いていたと分かります。diligently は「勤勉に、熱心にこつこつと」という意味なので、3が正解です。
+この問題の型：具体例とまとめ（仕事を全部早く終えた → 熱心に働いた）
+【ほかの選択肢】
+1 incompetently は「無能に、手際悪く」です。「手際悪く働いて同僚を感心させた」となり、impressed（感心させた）とも、仕事を早く終えたこととも合いません。
+2 mischievously は「いたずらっぽく」です。いたずらをしながら働いたのでは、同僚が感心する理由になりません。次の文の「仕事を全部早く終えた」の説明にもなりません。
+4 passively は「受け身で、消極的に」です。言われたことを待つような消極的な働き方では、仕事を全部予定より早く終えて同僚を感心させた様子とつながりません。
+【覚えるポイント】
+・diligently：「勤勉に、熱心にこつこつと」。形容詞は diligent（勤勉な）。
+・by working (　)（～に働くことで）のように働き方を問う空所では、次の文に書かれた具体的な仕事ぶり（ここでは ahead of time）が、どんな働き方かを決める手がかりになります。

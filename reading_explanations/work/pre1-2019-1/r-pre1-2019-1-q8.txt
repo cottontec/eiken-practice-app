@@ -1,0 +1,31 @@
+---
+choices: exceed | endeavor | entice | exhale
+answerText: endeavor
+---
+【正解】2 endeavor（努力する）
+【和訳】
+（英文）
+Jane's boss asked her to ［endeavor］ to finish the work she was given more quickly. She promised that she would do her best.
+（訳）
+ジェーンの上司は彼女に、任された仕事をもっと早く終わらせるよう（努力する）ことを求めた。彼女は、全力をつくすと約束した。
+（選択肢の意味）
+1 exceed：～を超える
+2 endeavor：努力する
+3 entice：～を誘いこむ、気を引く
+4 exhale：息をはく
+【考え方】
+まず見るところ：空所の後ろの to finish と、後半の文の do her best
+空所のある部分は、次のようになっています。
+asked her to (　) to finish the work she was given more quickly（彼女に、任された仕事をもっと早く終わらせるよう（　）ことを求めた）
+the work she was given は「彼女が与えられた仕事（任された仕事）」です。空所の後ろに to finish（終わらせるために）が続いています。endeavor to ～ で「～しようと努力する」という意味になります。
+後半の文も見ます。
+She promised that she would do her best.（彼女は、全力をつくすと約束した）
+do her best（全力をつくす）は、上司に求められたことへの返事です。上司が求めたのは「努力すること」だと分かります。ですから2が正解です。
+この問題の型：言いかえ（endeavor ≒ do her best）
+【ほかの選択肢】
+1 exceed は「～を超える」です。「仕事を早く終わらせることを超えるよう求めた」となり意味が通らず、全力をつくすという約束ともつながりません。
+3 entice は「～を誘いこむ」です。この文では誘う相手が書かれておらず、「早く終わらせるために誘いこむよう求めた」となって意味が通りません。
+4 exhale は「息をはく」です。「仕事を早く終わらせるために息をはくよう求めた」となり、意味が通りません。
+【覚えるポイント】
+・endeavor to ～：「～しようと努力する」。
+・後ろの文の do her best（全力をつくす）のように、空所の内容を別の言葉で言いかえた表現が近くにあることが多いので、前後の文を読んで手がかりを探しましょう。

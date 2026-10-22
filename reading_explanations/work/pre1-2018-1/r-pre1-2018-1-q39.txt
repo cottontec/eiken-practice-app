@@ -1,0 +1,31 @@
+---
+choices: The government encouraged servicemen to use force against companies that manufactured zoot suits. | The zoot suit came to be seen as an indication that the individual wearing it did not support the war effort. | People who continued to wear zoot suits did so mainly to express their belief that Mexican-Americans should refuse to serve in the military. | A fabric shortage led to changes in the design of the zoot suit, which made it even more offensive to servicemen and other groups.
+answerText: The zoot suit came to be seen as an indication that the individual wearing it did not support the war effort.
+---
+【正解】2 The zoot suit came to be seen as an indication that the individual wearing it did not support the war effort.（ズートスーツは、それを着ている人が戦争に勝つための取り組みを支持していないしるしだと見られるようになった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is true of the zoot suit after the United States entered World War II?（アメリカが第二次世界大戦に加わったあとのズートスーツについて、正しいものはどれか。）
+1 The government encouraged servicemen to use force against companies that manufactured zoot suits.（政府は軍人たちに、ズートスーツを製造する会社に対して力を使うよう促した。）
+2 The zoot suit came to be seen as an indication that the individual wearing it did not support the war effort.（ズートスーツは、それを着ている人が戦争に勝つための取り組みを支持していないしるしだと見られるようになった。）
+3 People who continued to wear zoot suits did so mainly to express their belief that Mexican-Americans should refuse to serve in the military.（ズートスーツを着続けた人々は、主に、メキシコ系アメリカ人は兵役を拒否するべきだという考えを表すためにそうした。）
+4 A fabric shortage led to changes in the design of the zoot suit, which made it even more offensive to servicemen and other groups.（布地の不足によってズートスーツのデザインが変わり、そのためにズートスーツは、軍人やほかの集団にとって、さらにいっそう不快なものになった。）
+【考え方】
+まず見るところ：第2段落の zoot suits became not only morally and socially questionable but also unpatriotic
+第2段落では、アメリカが第二次世界大戦に加わったあとのことが書かれています。布地が不足し、政府はズートスーツの製造を事実上禁止しました。それでも隠れて作られ続けたズートスーツについて、次のように書かれています。
+In the eyes of the public and the authorities, zoot suits became not only morally and socially questionable but also unpatriotic, as wearing them represented a refusal to obey laws that were meant to help the United States win the war.（世間の人々や当局の目には、ズートスーツは道徳的にも社会的にも問題があるだけでなく、愛国心に欠けるものにもなった。それを着ることは、アメリカが戦争に勝つのを助けるための法律に従うのを拒むことを表していたからである）
+unpatriotic は「愛国心に欠ける」、represent は「表す」です。この文の as は「～なので」という理由を表しています。
+本文と選択肢2を対にすると、次のようになります。
+・本文 In the eyes of the public and the authorities, zoot suits became（世間や当局の目には、ズートスーツは～になった）＝ 選択肢 The zoot suit came to be seen as（ズートスーツは～と見られるようになった）
+・本文 unpatriotic / a refusal to obey laws that were meant to help the United States win the war（愛国心に欠ける／戦争に勝つための法律に従うのを拒むこと）→ 選択肢 did not support the war effort（戦争に勝つための取り組みを支持していない）
+war effort は「戦争に勝つための国全体の取り組み」です。よって2が正解です。
+この問題の型：言いかえ（a refusal to obey laws ～ win the war → did not support the war effort）
+【ほかの選択肢】
+1 本文にありません。政府が行ったのは仕立ての規制で、軍人に力を使うよう促したという話はありません。また、軍人たちが襲ったのは製造する会社ではなく、ズートスーツを着ている人々です。
+3 本文と違います。兵役を逃れようとしていると「ほのめかした」のは新聞の記者たちで、着ている人々自身の考えではありません。人々がそのような考えを表すために着続けたとは書かれていません。
+4 本文と違います。布地の不足のあとに起きたのは、仕立ての規制によって製造が事実上違法になったことです。デザインが変わったという話はありません。
+【覚えるポイント】
+・unpatriotic：「愛国心に欠ける」。war effort：「戦争に勝つための取り組み」。In the eyes of ～：「～の目には」。
+・not only A but also B（AだけでなくBも）の文では、設問の時期（ここでは第二次世界大戦のあと）に新しく加わった B の部分が、答えの手がかりになることが多いです。

@@ -1,0 +1,28 @@
+---
+choices: striving | distributing | surrendering | discouraging
+answerText: striving
+---
+【正解】1 striving（懸命に努力している）
+【和訳】
+（英文）
+Anyone who is ［striving］ to become an Olympic athlete knows that it takes a tremendous amount of effort to achieve this dream.
+（訳）
+オリンピック選手になろうと懸命に努力している人ならだれでも、この夢をかなえるにはとてつもない量の努力が必要だと知っている。
+（選択肢の意味）
+1 striving：（strive で）懸命に努力する
+2 distributing：（distribute で）配る、分配する
+3 surrendering：（surrender で）降伏する、引き渡す
+4 discouraging：（discourage で）やる気をなくさせる、思いとどまらせる
+【考え方】
+まず見るところ：空所のあとの to become an Olympic athlete と、文の後半の this dream
+空所のある部分は Anyone who is ( ) to become an Olympic athlete（オリンピック選手に（　）している人ならだれでも）です。who は、前の Anyone（だれでも）に説明を付け足す働きをしています。
+knows that it takes a tremendous amount of effort to achieve this dream（この夢をかなえるにはとてつもない量の努力が必要だと知っている）
+this dream（この夢）は、「オリンピック選手になること」を指しています。その夢に向かっている人を表す語が空所に入ります。strive to ～ は「～しようと懸命に努力する」という意味で、目標に向かってがんばっている人を表せるので、1が正解です。
+この問題の型：熟語・決まった形（strive to ～：～しようと努力する）
+【ほかの選択肢】
+2 distributing は「配る、分配する」です。「オリンピック選手になるために配っている人」となり、意味が通りません。
+3 surrendering は「降伏する、あきらめて引き渡す」です。「オリンピック選手になろうと降伏している人」となり、意味が通りません。また、夢をかなえるための努力の話とも合いません。
+4 discouraging は「（人の）やる気をなくさせる」です。ふつう「だれのやる気をなくさせるか」を後ろに置く語で、「オリンピック選手になるためにやる気をなくさせている人」では意味が通りません。
+【覚えるポイント】
+・strive to ～：「～しようと懸命に努力する」。目標に向かってがんばる様子を表します。
+・空所のあとに to become ～（～になること）のような目標が続くときは、「目標に向かう」意味の動詞が入るかどうかを、文の後半（ここでは effort や this dream）と合わせて確かめましょう。

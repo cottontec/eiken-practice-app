@@ -1,0 +1,32 @@
+---
+choices: victorious | needy | conventional | adverse
+answerText: adverse
+---
+【正解】4 adverse（不利な、都合の悪い）
+【和訳】
+（英文）
+Yesterday, many flights to Paris were canceled because of ［adverse］ weather conditions. Now that the weather has improved, flight schedules have returned to normal.
+（訳）
+昨日、（悪）天候のために、パリ行きの多くの便が欠航になった。天候がよくなった今は、運航予定はふだんどおりに戻っている。
+（選択肢の意味）
+1 victorious：勝利を得た
+2 needy：（お金がなく）困っている、貧しい
+3 conventional：ふつうの、従来の
+4 adverse：不利な、都合の悪い
+【考え方】
+まず見るところ：後半の文の Now that the weather has improved
+空所のある文は、次のようになっています。
+many flights to Paris were canceled because of (　) weather conditions（（　）天候のために、パリ行きの多くの便が欠航になった）
+because of ～ は「～のために、～が原因で」です。飛行機が欠航になった原因の天候なので、飛ぶのに都合の悪い天気だと考えられます。
+後半の文で、それがはっきりします。
+Now that the weather has improved, flight schedules have returned to normal.（天候がよくなった今は、運航予定はふだんどおりに戻っている）
+Now that ～ は「今は～なので」です。天気が「よくなった」ということは、昨日は天気が悪かったということです。
+adverse は「不利な、都合の悪い」で、adverse weather conditions で「悪天候」という意味になります。ですから4が正解です。
+この問題の型：対比（昨日の悪天候 ⇔ よくなった今）／因果（because of 悪天候 → 欠航）
+【ほかの選択肢】
+1 victorious は「勝利を得た」です。「勝利を得た天候」は意味が通りません。
+2 needy は「（お金がなく）困っている」で、人について使う語です。天候を説明する語としては合いません。
+3 conventional は「ふつうの」です。「ふつうの天候のために欠航した」となり、後半の「天候がよくなった今は元に戻った」とつながりません。
+【覚えるポイント】
+・adverse weather conditions：「悪天候」。
+・後ろの文に has improved（よくなった）があれば、その前は悪い状態だったと分かります。前後の文の「変化」を見ることが手がかりになります。

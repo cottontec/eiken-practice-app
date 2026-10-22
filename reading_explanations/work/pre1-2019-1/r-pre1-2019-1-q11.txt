@@ -1,0 +1,30 @@
+---
+choices: virtually | tenderly | vividly | diagonally
+answerText: virtually
+---
+【正解】1 virtually（事実上、ほとんど）
+【和訳】
+（英文）
+Jeff would love to go on vacation in Europe, but his low salary makes it ［virtually］ impossible for him to save enough money for such a trip.
+（訳）
+ジェフはヨーロッパへ休暇旅行に行きたいと強く思っているが、給料が低いので、そのような旅行のために十分なお金をためることは（ほとんど）不可能だ。
+（選択肢の意味）
+1 virtually：事実上、ほとんど
+2 tenderly：優しく
+3 vividly：生き生きと、はっきりと
+4 diagonally：ななめに
+【考え方】
+まず見るところ：空所の後ろの impossible
+文の後半は、次のようになっています。
+his low salary makes it (　) impossible for him to save enough money for such a trip（給料が低いので、そのような旅行のために十分なお金をためることは（　）不可能だ）
+makes it impossible for him to ～ は、もとの形のまま訳すと「彼が～することを不可能にする」です。it は、後ろの to save ～（お金をためること）を指しています。
+空所は impossible（不可能な）の前にあります。ここには、「どれくらい不可能なのか」という程度を表す副詞（ほかの語のようすや程度を説明する語）が入ります。
+virtually impossible で「事実上不可能、ほとんど不可能」という意味になります。給料が低くて、旅行のお金をためるのはほぼ無理だ、という内容になるので、1が正解です。
+この問題の型：語の意味・組み合わせ（virtually impossible）
+【ほかの選択肢】
+2 tenderly は「優しく」です。「優しく不可能だ」となり、意味が通りません。
+3 vividly は「生き生きと、はっきりと」です。「生き生きと不可能だ」となり、お金がたまらないという内容の程度を表せません。
+4 diagonally は「ななめに」です。「ななめに不可能だ」となり、意味が通りません。
+【覚えるポイント】
+・virtually impossible：「事実上不可能、ほとんど不可能」。
+・形容詞（ここでは impossible）の前の空所に副詞が入る問題では、その形容詞と自然に結びついて「どれくらい」を表す語を探すのが手がかりになります。

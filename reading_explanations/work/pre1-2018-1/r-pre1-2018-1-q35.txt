@@ -1,0 +1,31 @@
+---
+choices: They have been sent there because their parts are too outdated to be useful in modern planes. | They have their weapons removed and are converted so that they can be used for nonmilitary purposes. | They are taken apart so that certain parts can be installed in military planes that are currently in use. | They are kept there so that members of the military can have easy access to them to use for flight practice.
+answerText: They are taken apart so that certain parts can be installed in military planes that are currently in use.
+---
+【正解】3 They are taken apart so that certain parts can be installed in military planes that are currently in use.（一部の部品を、今使われている軍用機に取りつけられるように、分解されている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is true of planes in the "Boneyard"?（「ボーンヤード」の飛行機について正しいものはどれか。）
+1 They have been sent there because their parts are too outdated to be useful in modern planes.（部品が古すぎて最新の飛行機には役に立たないので、そこへ送られてきた。）
+2 They have their weapons removed and are converted so that they can be used for nonmilitary purposes.（武器を取り外され、軍事以外の目的に使えるように作りかえられている。）
+3 They are taken apart so that certain parts can be installed in military planes that are currently in use.（一部の部品を、今使われている軍用機に取りつけられるように、分解されている。）
+4 They are kept there so that members of the military can have easy access to them to use for flight practice.（軍の人々が飛行訓練に使うために簡単に利用できるよう、そこに置かれている。）
+【考え方】
+まず見るところ：第1段落の their usable parts are removed and recycled for use in active-duty planes at air bases around the world
+第1段落で、アリゾナ州のボーンヤードの説明があります。4,400機を超える軍用機が並べられていて、次のように書かれています。
+their usable parts are removed and recycled for use in active-duty planes at air bases around the world（それらの使える部品は取り外されて、世界中の空軍基地にある現役の飛行機で使うために再利用される）
+active-duty は「現役の、今まさに任務についている」という意味です。
+本文と選択肢3を対にすると、次のようになります。
+・本文 their usable parts are removed（使える部品が取り外される）→ 選択肢 They are taken apart so that certain parts can be installed（一部の部品を取りつけられるように分解される）
+・本文 active-duty planes at air bases（空軍基地の現役の飛行機）＝ 選択肢 military planes that are currently in use（今使われている軍用機）
+部品を取り外すことは、飛行機を分解することにあたります。air bases（空軍基地）の飛行機なので、軍用機だと分かります。よって3が正解です。
+この問題の型：言いかえ（active-duty ＝ currently in use）
+【ほかの選択肢】
+1 本文と反対です。飛行機が送られるのは、航空会社や軍が飛行機を新しいものに入れかえたときですが、部品については usable parts（使える部品）が取り外されて現役の飛行機に再利用されると書かれています。部品が古すぎて役に立たないわけではありません。
+2 本文にありません。武器を外して軍事以外の目的に作りかえるという話はありません。修理して再び使われた例として、B-52爆撃機が returned to military service（軍務に復帰した）と書かれています。
+4 本文にありません。必要に応じて使えるよう待機させられている飛行機はありますが、飛行訓練に使うためだとは書かれていません。
+【覚えるポイント】
+・active-duty：「現役の」。usable parts：「使える部品」。be recycled for use in ～：「～で使うために再利用される」。
+・「～について正しいものはどれか」という設問では、選択肢の言いかえ（ここでは currently in use）が、本文のどの語（active-duty）にあたるかを一つずつ確かめるのが手がかりになります。

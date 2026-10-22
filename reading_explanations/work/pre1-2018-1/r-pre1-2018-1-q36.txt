@@ -1,0 +1,32 @@
+---
+choices: the analysis of most data collected in flight requires experts from various fields and specialized equipment. | its facilities enable the analysis of a much wider variety of aircraft than the facilities of other aircraft graveyards do. | the device placed on an airplane to collect information during a flight may be unreliable or missing. | constructing aircraft models that can be studied by pilots and aviation officials requires a huge warehouse space.
+answerText: the device placed on an airplane to collect information during a flight may be unreliable or missing.
+---
+【正解】3 the device placed on an airplane to collect information during a flight may be unreliable or missing.（飛行中の情報を集めるために飛行機に取りつけられている装置が、頼りにならなかったり、見つからなかったりすることがあるから。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：The aircraft graveyard at the University of Southern California is important because（南カリフォルニア大学にある飛行機の墓場が重要なのは、～からである。）
+1 the analysis of most data collected in flight requires experts from various fields and specialized equipment.（飛行中に集められたデータのほとんどを分析するには、さまざまな分野の専門家と特別な装置が必要だ）
+2 its facilities enable the analysis of a much wider variety of aircraft than the facilities of other aircraft graveyards do.（その施設では、ほかの飛行機の墓場の施設よりもはるかに多くの種類の飛行機を分析できる）
+3 the device placed on an airplane to collect information during a flight may be unreliable or missing.（飛行中の情報を集めるために飛行機に取りつけられている装置が、頼りにならなかったり、見つからなかったりすることがある）
+4 constructing aircraft models that can be studied by pilots and aviation officials requires a huge warehouse space.（パイロットや航空の担当者が研究できる飛行機の模型を作るには、巨大な倉庫の空間が必要だ）
+【考え方】
+まず見るところ：第2段落の these devices are sometimes too severely damaged to be useful or are not even recoverable, so the USC facility is an invaluable resource
+第2段落では、USC（南カリフォルニア大学）の飛行機の墓場が説明されています。その施設が大切な理由は、次の文に書かれています。
+Many planes are equipped with a flight data recorder intended to help investigators determine the cause of a crash, but these devices are sometimes too severely damaged to be useful or are not even recoverable, so the USC facility is an invaluable resource.（多くの飛行機には、調査員が墜落の原因を突き止めるのに役立つようフライトデータレコーダーが備えつけられているが、こうした装置はひどく壊れすぎて役に立たなかったり、回収することさえできなかったりすることがあるので、USCの施設は非常に貴重な資料の場となっている）
+too ～ to ... は「～すぎて…できない」、recoverable は「回収できる」、invaluable は「（値段がつけられないほど）非常に貴重な」です。so（だから）の前が、施設が貴重である理由です。
+本文と選択肢3を対にすると、次のようになります。
+・本文 a flight data recorder（フライトデータレコーダー）→ 選択肢 the device placed on an airplane to collect information during a flight（飛行中の情報を集めるために飛行機に取りつけられた装置）
+・本文 too severely damaged to be useful（ひどく壊れすぎて役に立たない）→ 選択肢 unreliable（頼りにならない）
+・本文 not even recoverable（回収することさえできない）→ 選択肢 missing（見つからない、なくなっている）
+よって3が正解です。
+この問題の型：因果（装置が使えないことがある so 施設が貴重）
+【ほかの選択肢】
+1 本文にありません。施設で学ぶ人として製造会社や保険会社の担当者、事故調査官などさまざまな人が挙げられていますが、飛行中のデータのほとんどを分析するのに専門家や特別な装置が必要だという話はありません。
+2 本文と合いません。USCの施設にあるのは just 11 military and civilian aircraft（軍用機と民間機を合わせてわずか11機）で、ほかの墓場よりはるかに多くの種類を分析できるという比べ方はされていません。
+4 本文と違います。倉庫に広げられているのは、実際の飛行機の何千もの破片で、模型を作るという話はありません。
+【覚えるポイント】
+・too ～ to ...：「～すぎて…できない」。invaluable：「非常に貴重な」（valuable を強めた意味で、「価値がない」ではないので注意）。
+・「～が重要なのは」とたずねる設問では、本文の so the ～ is an invaluable resource（だから～は貴重だ）のように、so の前に理由が書かれた文が手がかりになります。
