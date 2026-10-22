@@ -1,6 +1,7 @@
 ---
 choices: In addition | For instance | Nevertheless | Unfortunately
 answerText: In addition
+reviewed: yes
 ---
 【正解】1 In addition（それに加えて、さらに）
 【和訳】

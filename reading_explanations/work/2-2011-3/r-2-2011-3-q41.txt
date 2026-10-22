@@ -1,6 +1,7 @@
 ---
 choices: will soon have to close unless more people start visiting it. | is used to provide the park's beautiful trees and flowers. | was built for plants that belong to the British Royal Family. | contains the biggest collection of plant samples in the world.
 answerText: contains the biggest collection of plant samples in the world.
+reviewed: yes
 ---
 【正解】4 contains the biggest collection of plant samples in the world.（世界最大の植物標本のコレクションを収めている。）
 【和訳】

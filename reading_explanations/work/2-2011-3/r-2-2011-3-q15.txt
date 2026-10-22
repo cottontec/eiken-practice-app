@@ -1,6 +1,7 @@
 ---
 choices: appearance | experience | account | export
 answerText: account
+reviewed: yes
 ---
 【正解】3 account（考慮）
 【和訳】

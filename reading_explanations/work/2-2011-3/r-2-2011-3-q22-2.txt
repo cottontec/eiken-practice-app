@@ -2,6 +2,7 @@
 choices: asked | as | your | do | boss
 answerText: as
 order: 4 2 3 5 1
+reviewed: yes
 ---
 【正解】2 as（この問題の2番目）
 【完成文】

@@ -1,6 +1,7 @@
 ---
 choices: deliver | delivered | delivering | to deliver
 answerText: delivered
+reviewed: yes
 ---
 【正解】2 delivered（配達される）
 【和訳】

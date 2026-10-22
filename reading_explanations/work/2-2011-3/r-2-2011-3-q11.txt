@@ -1,6 +1,7 @@
 ---
 choices: ears | hands | toes | eyes
 answerText: ears
+reviewed: yes
 ---
 【正解】1 ears（耳）
 【和訳】

@@ -1,0 +1,28 @@
+---
+choices: It grew larger by combining with other volunteer organizations. | It was created to give volunteers more professional experience. | It pays the transportation costs for volunteers to go to other countries. | It is the oldest volunteer organization in the United Kingdom.
+answerText: It pays the transportation costs for volunteers to go to other countries.
+---
+【正解】3 It pays the transportation costs for volunteers to go to other countries.（ボランティアがほかの国へ行くための交通費を支払っている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：VSOについて分かることの1つは何ですか。
+1 ほかのボランティア団体と一緒になることで大きくなった。
+2 ボランティアに、より多くの専門的な経験を与えるためにつくられた。
+3 ボランティアがほかの国へ行くための交通費を支払っている。
+4 イギリスで最も古いボランティア団体である。
+【考え方】
+VSOについての基本的な説明は、第1段落にまとまっています。
+第1段落の5文目に Although these volunteers are not paid, VSO covers all their expenses, including travel.（こうしたボランティアは給料を受け取らないが、VSOは旅費を含めて彼らの費用をすべて負担している）とあります。cover は、ここでは「（費用を）まかなう、負担する」という意味です。expenses は「費用」、including travel は「旅費を含めて」です。
+VSOはボランティアを海外へ送る団体なので、ここでの旅費はほかの国へ行くための費用です。本文と選択肢は次のように対応しています。
+本文 VSO covers all their expenses（VSOは彼らの費用をすべて負担する）＝ 選択肢 It pays ～（それは～を支払う）
+本文 including travel（旅費を含めて）＝ 選択肢 the transportation costs for volunteers to go to other countries（ボランティアがほかの国へ行く交通費）
+したがって、3が正解です。
+【ほかの選択肢】
+1 第1段落の最後に The organization gradually grew so large that it founded partner agencies in countries around the world.（この団体はしだいに大きくなり、世界中の国々に提携機関をつくるほどになった）とあります。大きくなった結果、新しく提携機関をつくったのであって、ほかの団体と一緒になって大きくなったわけではありません。
+2 第1段落2文目によると、VSOのもともとの目的は、イギリスの18歳の若者を海外へ送り、貧しい地域の人々の問題について学べるようにすることでした。専門的な経験を与えるためにつくられたとは書かれていません。第4段落の「国際的な経験が仕事の道に役立つ」は、VSOバハギナンが挙げる利点の話で、VSOがつくられた目的ではありません。
+4 本文には、VSOが1958年にイギリスで設立されたことは書かれていますが、イギリスで最も古いボランティア団体だとは書かれていません。
+【覚えるポイント】
+・cover the expenses：「費用を負担する、まかなう」。
+・grow so large that ～：「とても大きくなって～するほどになる」。so ～ that ... は「とても～なので…」という意味です。

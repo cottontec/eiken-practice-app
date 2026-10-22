@@ -1,6 +1,7 @@
 ---
 choices: demand | serve | attract | reverse
 answerText: reverse
+reviewed: yes
 ---
 【正解】4 reverse（逆にする）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: retirement | achievement | mixture | quantity
 answerText: achievement
+reviewed: yes
 ---
 【正解】2 achievement（達成、業績）
 【和訳】

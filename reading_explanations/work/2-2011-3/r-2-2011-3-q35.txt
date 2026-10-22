@@ -1,6 +1,7 @@
 ---
 choices: he will be on the same team as the author Joan Kent. | the students who will be on his team will contact him in advance. | Karen Stevens will send him a copy of The Outdoor Family. | members of the debating club will write his speech for him.
 answerText: the students who will be on his team will contact him in advance.
+reviewed: yes
 ---
 【正解】2 the students who will be on his team will contact him in advance.（同じチームになる学生たちが、前もって彼に連絡してくる。）
 【和訳】

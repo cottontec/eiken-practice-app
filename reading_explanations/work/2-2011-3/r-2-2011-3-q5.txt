@@ -1,6 +1,7 @@
 ---
 choices: award | trade | route | measure
 answerText: award
+reviewed: yes
 ---
 【正解】1 award（賞）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: permit | restore | suggest | fail
 answerText: permit
+reviewed: yes
 ---
 【正解】1 permit（許す、許可する）
 【和訳】

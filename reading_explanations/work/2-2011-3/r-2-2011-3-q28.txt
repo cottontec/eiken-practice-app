@@ -1,6 +1,7 @@
 ---
 choices: technology | responsibilities | locations | communication
 answerText: technology
+reviewed: yes
 ---
 【正解】1 technology（技術）
 【和訳】

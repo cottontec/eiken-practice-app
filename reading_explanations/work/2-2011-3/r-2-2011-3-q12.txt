@@ -1,6 +1,7 @@
 ---
 choices: pass over | try out | run away | go along
 answerText: run away
+reviewed: yes
 ---
 【正解】3 run away（逃げる）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: space | power | time | money
 answerText: money
+reviewed: yes
 ---
 【正解】4 money（お金）
 【和訳】

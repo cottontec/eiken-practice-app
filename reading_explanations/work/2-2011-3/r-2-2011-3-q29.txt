@@ -1,6 +1,7 @@
 ---
 choices: reserve | delay | replace | encourage
 answerText: encourage
+reviewed: yes
 ---
 【正解】4 encourage（促す、勧める）
 【和訳】

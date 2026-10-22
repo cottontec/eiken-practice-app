@@ -1,6 +1,7 @@
 ---
 choices: gave plant samples from Kew Gardens to experts in other countries. | sent people to different places around the world to gather plant samples. | employed scientists to find new ways to display dried flowers. | built the Herbarium to keep plants that were in danger of extinction.
 answerText: sent people to different places around the world to gather plant samples.
+reviewed: yes
 ---
 【正解】2 sent people to different places around the world to gather plant samples.（植物の標本を集めるために、世界中のさまざまな場所へ人々を送った。）
 【和訳】

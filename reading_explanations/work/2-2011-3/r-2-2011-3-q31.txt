@@ -1,6 +1,7 @@
 ---
 choices: accidental | wasteful | correct | secret
 answerText: correct
+reviewed: yes
 ---
 【正解】3 correct（正しい）
 【和訳】

@@ -2,6 +2,7 @@
 choices: sofa | I | is | saw | the very
 answerText: the very
 order: 3 5 1 2 4
+reviewed: yes
 ---
 【正解】5 the very（この問題の2番目）
 【完成文】

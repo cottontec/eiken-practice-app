@@ -1,0 +1,28 @@
+---
+choices: has suffered little from global warming. | has been getting steadily cooler for many years. | is warmer than in many surrounding countries. | is very different in winter and in summer.
+answerText: is very different in winter and in summer.
+---
+【正解】4 is very different in winter and in summer.（冬と夏で大きく違う。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：モンゴルの天候は…
+1 地球温暖化による被害をほとんど受けていない。
+2 長年にわたって着実に寒くなってきている。
+3 周りの多くの国よりも暖かい。
+4 冬と夏で大きく違う。
+【考え方】
+モンゴルの天候については第1段落の初めに書かれています。
+Mongolia has an extreme climate.（モンゴルは極端な気候だ）とあり、extreme は「極端な、厳しい」という意味です。そのあとに During the winter, temperatures drop to below -30°C, and in the summer, they rise to above 20°C.（冬には気温がマイナス30度より下まで下がり、夏には20度より上まで上がる）と、具体的な数字が続きます。
+冬はマイナス30度より低く、夏は20度より高いのですから、冬と夏で気温が50度以上も違うことになります。つまり、モンゴルの天候は冬と夏で大きく違うのです。
+本文と選択肢は次のように対応しています。
+本文 an extreme climate ／ below -30°C（冬）と above 20°C（夏）＝ 選択肢 is very different in winter and in summer
+正解は4です。
+【ほかの選択肢】
+1 本文には Mongolia is being affected by global warming（モンゴルは地球温暖化の影響を受けている）とあり、さらに they are having mainly negative effects（主に悪い影響を与えている）と書かれています。「ほとんど被害を受けていない」は本文と反対です。
+2 本文には the average temperature has been steadily rising for the last 60 years（平均気温はこの60年間、着実に上がり続けている）とあります。「着実に寒くなっている」は反対です。
+3 モンゴルとまわりの国の気温を比べる話は、本文にありません。
+【覚えるポイント】
+・extreme：「極端な、厳しい」。extreme climate で「極端な（厳しい）気候」です。
+・suffer from ～：「～で苦しむ、～の被害を受ける」。

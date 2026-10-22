@@ -1,6 +1,7 @@
 ---
 choices: complaint | challenge | payment | difference
 answerText: difference
+reviewed: yes
 ---
 【正解】4 difference（違い）
 【和訳】

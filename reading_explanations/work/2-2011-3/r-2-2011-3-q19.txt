@@ -1,6 +1,7 @@
 ---
 choices: would have been | will be | had been | were
 answerText: would have been
+reviewed: yes
 ---
 【正解】1 would have been（～だっただろう）
 【和訳】

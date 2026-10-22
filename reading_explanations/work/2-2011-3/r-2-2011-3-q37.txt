@@ -1,6 +1,7 @@
 ---
 choices: Getting people to agree to DNA analysis. | Preventing athletes from changing their DNA. | Deciding the right way to use DNA research. | Keeping the results of DNA tests private.
 answerText: Deciding the right way to use DNA research.
+reviewed: yes
 ---
 【正解】3 Deciding the right way to use DNA research.（DNA研究の正しい使い方を決めること。）
 【和訳】

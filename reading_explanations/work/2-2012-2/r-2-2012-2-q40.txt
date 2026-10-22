@@ -1,0 +1,29 @@
+---
+choices: It teaches people about the cultural traditions of the Philippines. | It helps the Philippines maintain peaceful relations with other countries. | It results in more efforts to help poor people in the Philippines. | It encourages more foreign volunteers to come to the Philippines.
+answerText: It results in more efforts to help poor people in the Philippines.
+---
+【正解】3 It results in more efforts to help poor people in the Philippines.（それは、フィリピンの貧しい人々を助けるための、より多くの努力につながる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：レイチェル・ナルス・キントスがVSOバハギナンの活動を支持している理由の1つは何ですか。
+1 フィリピンの文化的な伝統について人々に教える。
+2 フィリピンがほかの国々と平和な関係を保つのに役立つ。
+3 フィリピンの貧しい人々を助けるための、より多くの努力につながる。
+4 より多くの外国人ボランティアがフィリピンに来るよう促す。
+【考え方】
+レイチェル・ナルス・キントスは、第4段落に出てくる人物で、VSOバハギナンの広報責任者です。彼女は、フィリピン人のボランティアを海外へ送ることには two advantages（2つの利点）があると言っています。
+1つ目は they gain international experience that can then help them in their own careers（国際的な経験を得て、それがのちに自分自身の仕事の道に役立つ）です。
+2つ目は they often come back to the Philippines after their time abroad determined to do more to end poverty in their home country（海外で過ごしたあと、自分の国の貧困をなくすためにもっと力を尽くそうと決意してフィリピンに戻ってくることが多い）です。poverty は「貧困（貧しいこと）」、determined to ～ は「～しようと決意して」という意味です。
+2つ目の利点は、海外から戻ったボランティアが、フィリピンの貧しい人々のためにもっと努力するようになる、ということです。本文と選択肢は次のように対応しています。
+本文 do more to end poverty in their home country（自分の国の貧困をなくすためにもっと力を尽くす）＝ 選択肢 more efforts to help poor people in the Philippines（フィリピンの貧しい人々を助けるための、より多くの努力）
+本文 come back ... determined to ～（～しようと決意して戻ってくる）＝ 選択肢 It results in ～（それは～という結果になる）
+したがって、3が正解です。
+【ほかの選択肢】
+1 フィリピンの文化的な伝統を教えるという話は、本文に書かれていません。
+2 第4段落の最後に turning them into true global citizens（彼らを真の地球市民に変える）とありますが、これはボランティア本人が変わるという話です。フィリピンとほかの国との平和な関係については書かれていません。
+4 第3段落に、先進国からのボランティアがフィリピンに来ることは書かれていますが、それはVSOバハギナンの活動の結果としてではありません。キントスが挙げた利点の中にも、外国人ボランティアを増やすという内容はありません。
+【覚えるポイント】
+・result in ～：「～という結果になる、～につながる」。
+・be determined to ～：「～しようと決意している」。

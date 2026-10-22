@@ -1,6 +1,7 @@
 ---
 choices: DNA tests should be carried out by doctors rather than parents. | ACTN3 is just one of many things that affect sporting ability. | children should spend much less time on sports than they do now. | the testing kits give some children too much of an advantage.
 answerText: ACTN3 is just one of many things that affect sporting ability.
+reviewed: yes
 ---
 【正解】2 ACTN3 is just one of many things that affect sporting ability.（ACTN3は、運動能力に影響する多くのもののうちの1つにすぎない〔と言う専門家もいる〕。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: Tell students at the college why he stopped playing video games. | Become the next president of the Southbridge College Debating Club. | Help her to find a job at a company that makes educational software. | Argue that video games can have a positive effect on young people.
 answerText: Argue that video games can have a positive effect on young people.
+reviewed: yes
 ---
 【正解】4 Argue that video games can have a positive effect on young people.（テレビゲームが若い人たちによい影響を与えうると主張する。）
 【和訳】

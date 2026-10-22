@@ -1,6 +1,7 @@
 ---
 choices: honest | mistaken | excited | disappointed
 answerText: mistaken
+reviewed: yes
 ---
 【正解】2 mistaken（思い違いをしている、間違っている）
 【和訳】

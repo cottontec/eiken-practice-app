@@ -1,6 +1,7 @@
 ---
 choices: leave out | pass down | warm up | head for
 answerText: pass down
+reviewed: yes
 ---
 【正解】2 pass down（～を伝える、受け継がせる）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: hide | watch | taste | absorb
 answerText: watch
+reviewed: yes
 ---
 【正解】2 watch（見守る、注意して見る）
 【和訳】

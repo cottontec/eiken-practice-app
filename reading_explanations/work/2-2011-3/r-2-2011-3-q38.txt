@@ -1,6 +1,7 @@
 ---
 choices: The R type gives muscles more power for a short time. | The R type is usually found together with another R type. | The X type always comes from the DNA of one's mother. | The X type makes it hard for people to do well at sports.
 answerText: The R type gives muscles more power for a short time.
+reviewed: yes
 ---
 【正解】1 The R type gives muscles more power for a short time.（R型は短い間、筋肉により大きな力を与える。）
 【和訳】

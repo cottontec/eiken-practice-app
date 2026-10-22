@@ -1,6 +1,7 @@
 ---
 choices: To help their children find out about DNA analysis. | To decide what school to send their children to. | To learn about their children's ability at sports. | To find out about their children's likes and dislikes.
 answerText: To learn about their children's ability at sports.
+reviewed: yes
 ---
 【正解】3 To learn about their children's ability at sports.（子どものスポーツの能力について知るため。）
 【和訳】

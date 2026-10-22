@@ -1,0 +1,21 @@
+---
+choices: matter | store | which | doesn't | it
+answerText: doesn't
+order: 5 4 1 3 2
+---
+【正解】4 doesn't（この問題の2番目）
+【完成文】
+B : ( It doesn't matter which store ) we go to. I'm sure that either would have the batteries I need.
+並べ方：5 it → 4 doesn't → 1 matter → 3 which → 2 store（2番目は4、4番目は3）
+【和訳】
+A：ねえ、この駅の近くに電器店が2つあるよ。どちらの店がいい？
+B：どちらの店に行くかは、どうでもいいよ。どちらの店にも、私に必要な電池がきっとあるよ。
+【考え方】
+Aは Which one do you prefer?（どちらがいい？）とたずねています。Bの2文目は I'm sure that either would have the batteries I need.（どちらの店にも、私に必要な電池がきっとある）です。どちらの店でもかまわない、という答えになると考えられます。
+1 matter は動詞で「重要である、問題になる」という意味です。It doesn't matter ～ で「～は問題ではない、どうでもよい」という決まった言い方になります。ここでの It は、あとに続く「どの店に行くか」という内容を先に指しておく語です。
+次に「何がどうでもよいのか」を続けます。3 which と 2 store で which store（どの店）を作り、空所のあとの we go to につなげます。which store we go to は「私たちがどの店に行くか」という意味です。go to which store（どの店に行く）の which store が前に出たので、to が文の終わりに残っています。
+2番目に 4 doesn't が来るのは、It doesn't matter の形で、主語 It のすぐあとに、動詞 matter を打ち消す doesn't を置くからです。
+store which の順にするのはまちがいです。「どの～」と言うときは、which を名詞の前に置いて which store とします。
+【覚えるポイント】
+・It doesn't matter which (what, who など) ～：「どの（何が、だれが）～かは問題ではない、どうでもよい」。
+・either：「（2つのうち）どちらでも」。ここでは either（どちらの店も）が主語になっています。

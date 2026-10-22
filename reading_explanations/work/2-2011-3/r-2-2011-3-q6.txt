@@ -1,6 +1,7 @@
 ---
 choices: produced | encountered | detected | suspended
 answerText: encountered
+reviewed: yes
 ---
 【正解】2 encountered（出会った）
 【和訳】

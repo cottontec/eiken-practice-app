@@ -1,6 +1,7 @@
 ---
 choices: tried to find out how many endangered plants there are in the world. | recorded detailed information about 1,500 different extinct plants. | discovered a large number of plants that had never been seen before. | based their research on the opinions of visitors to the Herbarium.
 answerText: tried to find out how many endangered plants there are in the world.
+reviewed: yes
 ---
 【正解】1 tried to find out how many endangered plants there are in the world.（世界に絶滅の危機にある植物がどれだけあるかを明らかにしようとした。）
 【和訳】

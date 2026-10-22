@@ -1,6 +1,7 @@
 ---
 choices: stuck | connected | folded | caught
 answerText: folded
+reviewed: yes
 ---
 【正解】3 folded（組まれた、折りたたまれた）
 【和訳】

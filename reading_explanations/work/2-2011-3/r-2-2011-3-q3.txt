@@ -1,6 +1,7 @@
 ---
 choices: valuable | effective | opposite | political
 answerText: opposite
+reviewed: yes
 ---
 【正解】3 opposite（正反対の）
 【和訳】

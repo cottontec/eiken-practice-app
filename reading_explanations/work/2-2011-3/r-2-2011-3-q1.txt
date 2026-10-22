@@ -1,6 +1,7 @@
 ---
 choices: confidence | wonder | balance | curiosity
 answerText: confidence
+reviewed: yes
 ---
 【正解】1 confidence（自信）
 【和訳】

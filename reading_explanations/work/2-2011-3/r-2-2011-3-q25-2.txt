@@ -2,6 +2,7 @@
 choices: in | now | lives | a | that she
 answerText: that she
 order: 2 5 3 1 4
+reviewed: yes
 ---
 【正解】5 that she（この問題の2番目）
 【完成文】

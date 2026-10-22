@@ -1,6 +1,7 @@
 ---
 choices: People who answered the survey made many suggestions on how to conserve plants. | Stephen Hopper was asked to try to get the dried plants in the Herbarium to grow again. | Plants that were once thought to be extinct have been found growing at Kew Gardens. | The fact that plants were more endangered than animals was not a surprise to many scientists.
 answerText: The fact that plants were more endangered than animals was not a surprise to many scientists.
+reviewed: yes
 ---
 【正解】4 The fact that plants were more endangered than animals was not a surprise to many scientists.（植物が動物よりも絶滅の危機にあるという事実は、多くの科学者にとって驚きではなかった。）
 【和訳】

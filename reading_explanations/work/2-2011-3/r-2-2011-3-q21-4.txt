@@ -2,6 +2,7 @@
 choices: sofa | I | is | saw | the very
 answerText: I
 order: 3 5 1 2 4
+reviewed: yes
 ---
 【正解】2 I（この問題の4番目）
 【完成文】

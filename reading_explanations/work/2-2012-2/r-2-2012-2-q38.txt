@@ -1,0 +1,29 @@
+---
+choices: It does not form partnerships with other volunteer agencies. | It sends people of any nationality to help with projects. | It relies on money from both wealthy and developing countries. | It does not provide medical help to developing countries.
+answerText: It sends people of any nationality to help with projects.
+---
+【正解】2 It sends people of any nationality to help with projects.（どんな国籍の人でも、事業を手伝うために送り出す。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：VSOをほかの一部のボランティア団体と違うものにしている点の1つは何ですか。
+1 ほかのボランティア機関と提携しない。
+2 どんな国籍の人でも、事業を手伝うために送り出す。
+3 豊かな国と発展途上国の両方からのお金に頼っている。
+4 発展途上国に医療の援助をしない。
+【考え方】
+設問の different from some other volunteer organizations（ほかの一部のボランティア団体と違う）と同じ意味の言葉を本文で探します。
+第2段落の1文目に Unlike some volunteer agencies, VSO accepts volunteers no matter what country they are from.（一部のボランティア機関とは違って、VSOは、ボランティアがどこの国の出身であっても受け入れている）とあります。unlike ～ は「～とは違って」という意味で、設問の different from ～ と対応しています。no matter what country they are from は「彼らがどんな国の出身であっても」という意味です。
+さらにこの段落の後半では、VSOが is recruiting volunteers from one developing country and sending them to help in another（ある発展途上国でボランティアを募集し、別の発展途上国へ手助けに送り出している）と書かれています。どの国の人でも受け入れ、手助けに送り出しているということです。本文と選択肢は次のように対応しています。
+本文 Unlike some volunteer agencies（一部のボランティア機関とは違って）＝ 設問 different from some other volunteer organizations（ほかの一部のボランティア団体と違う）
+本文 accepts volunteers no matter what country they are from（どこの国の出身でもボランティアを受け入れる）＝ 選択肢 people of any nationality（どんな国籍の人でも）
+本文 sending them to help（手助けに送り出す）＝ 選択肢 sends ... to help with projects（事業を手伝うために送り出す）
+したがって、2が正解です。
+【ほかの選択肢】
+1 第1段落の最後に、VSOは it founded partner agencies in countries around the world（世界中の国々に提携機関をつくった）とあり、第2段落でも提携機関があることが書かれています。提携しないという内容は、本文と反対です。
+3 VSOがどこからお金を得ているかについては、本文に書かれていません。
+4 第2段落に A doctor in India, for example, might be sent as a volunteer to look after sick people in an African country.（たとえば、インドの医師が、アフリカのある国で病気の人々の世話をするためにボランティアとして派遣されることもある）とあります。医療の手助けをすることもあるので、本文と反対です。
+【覚えるポイント】
+・unlike ～：「～とは違って」。設問の different from ～ と同じ内容を表します。
+・no matter what ～：「どんな～でも」。no matter what country they are from で「どこの国の出身であっても」です。

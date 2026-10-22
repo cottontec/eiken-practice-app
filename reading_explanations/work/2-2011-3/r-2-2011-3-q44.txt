@@ -1,6 +1,7 @@
 ---
 choices: Many plant habitats are being taken over by endangered animals. | Kew Gardens should give more space to plants that are in danger. | People have not paid enough attention to protecting plant species. | Scientists often overlook the need to search for new plants.
 answerText: People have not paid enough attention to protecting plant species.
+reviewed: yes
 ---
 【正解】3 People have not paid enough attention to protecting plant species.（人々は植物の種を守ることに十分な注意を払ってこなかった。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: the debate will make students want to visit Southbridge Children's Hospital. | Mr. Howard will agree to take part in a program on Southbridge Radio. | Joan Kent's radio interview will help the club sell more tickets. | a local radio station will broadcast the debate on March 3.
 answerText: Joan Kent's radio interview will help the club sell more tickets.
+reviewed: yes
 ---
 【正解】3 Joan Kent's radio interview will help the club sell more tickets.（ジョーン・ケントのラジオのインタビューで、部がもっと多くのチケットを売れるようになる〔ことを望んでいる〕。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: otherwise | instead | furthermore | beforehand
 answerText: beforehand
+reviewed: yes
 ---
 【正解】4 beforehand（前もって、事前に）
 【和訳】

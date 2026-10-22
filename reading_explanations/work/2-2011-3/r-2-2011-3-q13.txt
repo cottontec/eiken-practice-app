@@ -1,6 +1,7 @@
 ---
 choices: line | case | belief | way
 answerText: way
+reviewed: yes
 ---
 【正解】4 way（思いどおりのやり方）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: leave | leaving | left | to leave
 answerText: leaving
+reviewed: yes
 ---
 【正解】2 leaving（辞めること）
 【和訳】

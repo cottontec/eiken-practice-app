@@ -1,6 +1,7 @@
 ---
 choices: get through | wander around | come across | take after
 answerText: get through
+reviewed: yes
 ---
 【正解】1 get through（～を終える、やり終える）
 【和訳】
