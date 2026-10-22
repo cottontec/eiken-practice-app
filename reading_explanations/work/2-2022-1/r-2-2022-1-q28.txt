@@ -1,18 +1,20 @@
 ---
 choices: His company does not have the cups that Mr. Stein wants. | His company's machine cannot print Mr. Stein's logo. | The cups cannot be delivered to Mr. Stein until Friday. | The cups were lost by the delivery company the other day.
 answerText: His company does not have the cups that Mr. Stein wants.
+reviewed: yes
 ---
 【正解】1 His company does not have the cups that Mr. Stein wants.（彼の会社には、スタインさんがほしいカップがない。）
 【和訳】
 ＜本文の全訳＞
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
-設問：ノエル・ランダーによると、注文の問題は何ですか。
+設問：According to Noel Lander, what is the problem with the order?（ノエル・ランダーによると、注文の問題は何ですか。）
 1 His company does not have the cups that Mr. Stein wants.（彼の会社には、スタインさんがほしいカップがない。）
-2 His company's machine cannot print Mr. Stein's logo.（彼の会社の機械では、スタインさんのロゴを印刷できない。）
+2 His company’s machine cannot print Mr. Stein’s logo.（彼の会社の機械では、スタインさんのロゴを印刷できない。）
 3 The cups cannot be delivered to Mr. Stein until Friday.（カップは金曜日まで、スタインさんのもとに配達できない。）
 4 The cups were lost by the delivery company the other day.（カップは先日、配送会社によってなくされた。）
 【考え方】
+まず見るところ：第2段落の始め I am sorry to say that ～
 設問は「注文の何が問題か」です。メールの第2段落が I am sorry to say that ～（申し訳ございませんが～）で始まり、ここに問題が書かれています。
 I am sorry to say that we do not have any medium-sized black coffee cups at this time.（申し訳ございませんが、当社には現在、中サイズの黒いコーヒーカップが一つもございません）
 第1段落によると、スタインさんが注文したのは 500 medium-sized black paper cups（中サイズの黒い紙コップ500個）です。つまり、スタインさんがほしいカップが、ランダーさんの会社には今ないということです。
@@ -20,10 +22,11 @@ I am sorry to say that we do not have any medium-sized black coffee cups at this
 本文 we do not have any medium-sized black coffee cups（中サイズの黒いコーヒーカップが一つもない）＝ 選択肢 His company does not have the cups that Mr. Stein wants（スタインさんがほしいカップがない）
 選択肢では、「中サイズの黒いカップ」が「スタインさんがほしいカップ」と言いかえられています。ですから、1が正解です。
 さらに、カップを作る機械も動いていないので、すぐに作ることもできません。
+この問題の型：言いかえ（中サイズの黒いカップ → スタインさんがほしいカップ）、指示語（your order ＝ 第1段落の注文）
 【ほかの選択肢】
 2 本文で動いていないのは the machine that makes our coffee cups（コーヒーカップを作る機械）で、ロゴを印刷できないとは書かれていません。むしろ、第3段落では we could print your logo on these instead（代わりにこちらにロゴを印刷できる）と、白いカップにロゴを印刷できると言っています。
 3 本文の Friday（金曜日）は、壊れた部品が修理から工場に戻ってくる日です（it will not be returned to our factory until Friday）。カップの配達日ではありません。また、土曜日までに届けるには水曜日までに発送する必要がある、と書かれています。
 4 カップを配送会社がなくしたという話は、本文にありません。the other day（先日）は、壊れた部品を修理に出した時期として使われている語句です。
 【覚えるポイント】
 ・I am sorry to say that ～：「申し訳ないことに～」。メールで問題や悪い知らせを伝えるときの言い方です。
-・not ～ until ...：「…まで～しない」。it will not be returned until Friday で「金曜日まで戻ってこない」。
+・本文の語句（Friday や the other day など）が選択肢に出てきても、本文でそれが何の日付・時期なのかを確かめます。not ～ until ...：「…まで～しない」。it will not be returned until Friday で「金曜日まで戻ってこない」。

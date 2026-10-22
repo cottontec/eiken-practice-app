@@ -8,7 +8,7 @@ answerText: kill time
 A: The bus doesn't come for another hour. How are we going to ［kill time］ until then?
 B: Well, there's a bookstore over there. Let's go and look at some books.
 （訳）
-A：バスはあと1時間来ないね。それまでどうやって（時間をつぶそう）か？
+A：バスはあと1時間来ないね。それまでどうやって（時間をつぶそうか）？
 B：そうだね、あそこに本屋さんがあるよ。本を見に行こう。
 （選択肢の意味）
 1 kill time：時間をつぶす

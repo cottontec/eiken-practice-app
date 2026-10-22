@@ -13,7 +13,7 @@ answerText: With this
 4 In contrast（対照的に、それに対して）
 【考え方】
 まず見るところ：第3段落の空所の前の special computer software was used to analyze the sounds
-Microphones in the forests recorded the sounds made by animals at night, and special computer software was used to analyze the sounds.（森に置いたマイクが夜に動物が出す音を録音し、その音を分析するために特別なコンピューターソフトが使われた）
+Microphones in the forests recorded the sounds made by animals at night, and special computer software was used to analyze the sounds.（森の中のマイクが夜に動物が出す音を録音し、その音を分析するために特別なコンピューターソフトが使われた）
 analyze は「分析する（細かく調べる）」という意味です。この文は、科学者たちが使った「方法」の説明です。
 (26), the scientists were able to pick out the ones made by the owls.（（26）、科学者たちはフクロウが出したものを選び出すことができた）
 the ones は the sounds（音）のくり返しをさけた言い方で、pick out は「選び出す」です。この文は、その方法で「できたこと」になっています。
