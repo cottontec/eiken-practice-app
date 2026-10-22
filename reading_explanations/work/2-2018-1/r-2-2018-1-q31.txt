@@ -1,0 +1,30 @@
+---
+choices: two other teachers had written the famous words to the song. | it is not clear who actually wrote the words for the current song. | neither was able to sing the songs that their students wanted to listen to. | their students decided to write a different song that they would like more.
+answerText: it is not clear who actually wrote the words for the current song.
+---
+【正解】2 it is not clear who actually wrote the words for the current song.（今の歌の歌詞を実際にだれが書いたのかは、はっきりしていない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：パティ・ヒルとミルドレッド・ヒルは「ハッピー・バースデー」の曲を書いたが、
+1 ほかの2人の教師が、その歌の有名な歌詞を書いていた。
+2 今の歌の歌詞を実際にだれが書いたのかは、はっきりしていない。
+3 2人のどちらも、生徒たちが聞きたがっている歌を歌うことができなかった。
+4 生徒たちが、自分たちがもっと気に入る別の歌を書くことにした。
+【考え方】
+設問は Although（～だけれども）で始まっています。「ヒル姉妹は曲を書いたけれども、～」と、曲以外のことについて何か別の事実が続くと考えられます。第2段落を見ます。
+・The music was originally composed in 1893 by Patty and Mildred Hill（曲はもともと1893年にパティ・ヒルとミルドレッド・ヒルによって作曲された）
+・Sometime later, the words were changed and the song became a birthday song.（その後しばらくして歌詞が変えられ、誕生日の歌になった）
+・Nobody knows who wrote the new words（だれが新しい歌詞を書いたのかはだれにも分からない）
+姉妹が書いたのは、もとの「あいさつの歌」でした。今の誕生日の歌の歌詞は、あとで変えられた new words（新しい歌詞）で、それを書いた人は分かっていません。
+本文と選択肢を対にすると、次のようになります。
+本文 Nobody knows who wrote the new words ＝ 選択肢 it is not clear who actually wrote the words for the current song
+Nobody knows（だれも知らない）が it is not clear（はっきりしていない）に、the new words（新しい歌詞）が the words for the current song（今の歌の歌詞）に言いかえられています。
+【ほかの選択肢】
+1 本文に出てくる教師は、ヒル姉妹2人だけです。ほかの2人の教師が歌詞を書いたとは書かれていません。新しい歌詞を書いた人はだれにも分からないので、本文と合いません。
+3 姉妹が生徒の聞きたい歌を歌えなかった、という話は本文にありません。姉妹は生徒が毎朝歌うための歌を書いています。
+4 生徒たちが別の歌を書いた、という話は本文にありません。歌詞が変えられたことは書かれていますが、だれが変えたかは分かっていません。
+【覚えるポイント】
+・Nobody knows who ～：「だれが～したのか、だれにも分からない」。it is not clear who ～（だれが～したのかははっきりしない）と言いかえられます。
+・compose：「（曲を）作曲する」。
