@@ -1,0 +1,30 @@
+---
+choices: radiate | magnify | extract | impart
+answerText: extract
+---
+【正解】3 extract（～を抜き取る、（歯）を抜く）
+【和訳】
+（英文）
+The patient was in so much pain that the dentist had no choice but to ［extract］ the patient's damaged tooth.
+（訳）
+その患者はあまりにもひどく痛がっていたので、歯医者は患者の傷んだ歯を（抜く）しかなかった。
+（選択肢の意味）
+1 radiate：（光や熱など）を放つ、放射する
+2 magnify：～を拡大する
+3 extract：～を抜き取る、（歯）を抜く
+4 impart：（知識など）を伝える、与える
+【考え方】
+まず見るところ：空所の後ろの the patient's damaged tooth と、前の had no choice but to
+この文は so ～ that …（とても～なので…）の形です。
+The patient was in so much pain that ～（その患者はとてもひどく痛がっていたので～）
+後半の had no choice but to ～ は「～するしかなかった（ほかに選べる道がなかった）」という意味です。
+the dentist had no choice but to （　） the patient's damaged tooth（歯医者は患者の傷んだ歯を（　）するしかなかった）
+痛みがひどすぎて、歯医者が傷んだ歯に対して「仕方なく」することといえば、その歯を抜くことです。extract は「～を抜き取る」で、歯について使うと「歯を抜く」となります。ですから3が正解です。
+この問題の型：語の意味・組み合わせ（extract a tooth）／熟語・決まった形（so ～ that …、had no choice but to ～）
+【ほかの選択肢】
+1 radiate は「（光や熱など）を放つ」です。「傷んだ歯を放射する」となり、意味が通りません。
+2 magnify は「～を拡大する」です。歯医者が拡大鏡で歯を大きく見ることはありますが、「痛みがひどいので、歯を拡大するしかなかった」では、痛みを止めるための処置にならず、話がつながりません。
+4 impart は「（知識など）を伝える、与える」です。「傷んだ歯を伝える」となり、意味が通りません。
+【覚えるポイント】
+・extract：「～を抜き取る」。tooth（歯）といっしょに使うと「歯を抜く」。
+・had no choice but to ～ は「～するしかなかった」です。この形の空所では、前に書かれた困った状況（ここではひどい痛み）を解決するために、仕方なくすることは何かを考えるのが手がかりになります。

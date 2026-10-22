@@ -1,0 +1,33 @@
+---
+choices: The characteristics of the men chosen for it and the way it operated were different from those of traditional military units. | Because of its limited budget, it had to manage with fewer resources and older weapons than other units. | There were a large number of men in its patrols, so the officers had to have special training in management techniques. | The success of its missions was heavily dependent on the group having supplies sent to it behind enemy lines on a regular basis.
+answerText: The characteristics of the men chosen for it and the way it operated were different from those of traditional military units.
+---
+【正解】1 The characteristics of the men chosen for it and the way it operated were different from those of traditional military units.（LRDGのために選ばれた隊員の特徴や、部隊の活動のしかたは、従来の軍の部隊とは異なっていた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is true regarding the Long Range Desert Group (LRDG)?（長距離砂漠挺身隊〈LRDG〉について正しいものはどれか。）
+1 The characteristics of the men chosen for it and the way it operated were different from those of traditional military units.（LRDGのために選ばれた隊員の特徴や、部隊の活動のしかたは、従来の軍の部隊とは異なっていた。）
+2 Because of its limited budget, it had to manage with fewer resources and older weapons than other units.（予算が限られていたので、LRDGはほかの部隊よりも少ない物資と古い武器でやりくりしなければならなかった。）
+3 There were a large number of men in its patrols, so the officers had to have special training in management techniques.（LRDGの偵察隊には大勢の隊員がいたので、将校たちは管理の技術について特別な訓練を受けなければならなかった。）
+4 The success of its missions was heavily dependent on the group having supplies sent to it behind enemy lines on a regular basis.（LRDGの任務の成功は、敵の前線の後方にいる部隊に、定期的に物資を送ってもらうことに大きく左右された。）
+【考え方】
+まず見るところ：第3段落の The LRDG was an unconventional unit from the outset.
+The LRDG was an unconventional unit from the outset.（LRDGは、最初から型破りな部隊だった）
+unconventional は「型破りな（ふつうのやり方にとらわれない）」、from the outset は「最初から」という意味です。そのあとに、どこが型破りだったのかが具体的に書かれています。
+Usual distinctions between ranks did not apply; officers and regular soldiers were on first-name terms, and they were all expected to perform the same tasks.（階級による通常の区別は当てはまらなかった。将校と一般の兵士は互いに下の名前で呼び合う間柄で、全員が同じ任務をこなすことを求められた）
+Rather than seeking men who would fight bravely on the battlefield, Bagnold wanted individuals with great stamina, resourcefulness, and mental toughness（バグノルドは、戦場で勇敢に戦う兵士を求めるのではなく、すぐれた持久力、工夫する力、精神的な強さをもった人物を求めた）
+本文と選択肢1を対にすると、次のようになります。
+・本文 an unconventional unit（型破りな部隊）→ 選択肢 were different from those of traditional military units（従来の軍の部隊とは異なっていた）
+・本文 Usual distinctions between ranks did not apply ～ all expected to perform the same tasks → 選択肢 the way it operated（部隊の活動のしかた）
+・本文 Rather than seeking men who would fight bravely ～, Bagnold wanted individuals with great stamina ～ → 選択肢 The characteristics of the men chosen for it（選ばれた隊員の特徴）
+よって1が正解です。
+この問題の型：具体例とまとめ（階級の区別がない・選ぶ人の基準 → 従来の部隊と違う）
+【ほかの選択肢】
+2 本文に書かれていません。予算が限られていたことや、ほかの部隊より古い武器を使っていたことは書かれていません。本文には、さまざまな武器を使うことができた（had access to a range of weaponry）とあります。
+3 本文に書かれていません。偵察隊の人数が多かったことや、将校が管理の技術の訓練を受けたことは出てきません。本文では、将校と一般の兵士は全員が同じ任務をこなした、と書かれています。
+4 本文の内容と合いません。本文には、偵察隊は約3週間ほかからの助けなしに活動でき（operate independently）、必要な物はすべて部隊が自分たちで運んだ（All necessary items ～ were carried by the unit）とあります。物資を定期的に送ってもらっていたのではありません。
+【覚えるポイント】
+・unconventional：「型破りな」。from the outset：「最初から」。rather than ～：「～ではなく、～よりむしろ」。
+・本文に unconventional（型破りな）のような「まとめの言葉」があるときは、そのあとに具体例が続くことが多いので、まとめの言葉と具体例の両方を言いかえた選択肢を探します。

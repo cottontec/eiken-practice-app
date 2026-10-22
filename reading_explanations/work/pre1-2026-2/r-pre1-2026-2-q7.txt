@@ -1,0 +1,29 @@
+---
+choices: rugged | clerical | majestic | apt
+answerText: clerical
+---
+【正解】2 clerical（事務の）
+【和訳】
+（英文）
+Peter spends most of his time at work doing ［clerical］ tasks, like typing letters, answering phones, and filing documents.
+（訳）
+ピーターは仕事中のほとんどの時間を、手紙をタイプしたり、電話に出たり、書類をとじて整理したりといった事務の作業をして過ごしている。
+（選択肢の意味）
+1 rugged：でこぼこした、頑丈な
+2 clerical：事務の
+3 majestic：堂々とした、威厳のある
+4 apt：ぴったりの、適切な、～しがちな
+【考え方】
+まず見るところ：空所の後ろの like typing letters, answering phones, and filing documents
+doing ( ) tasks（（　）作業をして）
+空所には、ピーターがする tasks（作業、仕事）がどんな種類のものかを表す語が入ります。
+like typing letters, answering phones, and filing documents（手紙をタイプしたり、電話に出たり、書類をとじて整理したりといった）
+like ～ は「～のような」と、具体例を挙げる言い方です。手紙を打つ、電話に出る、書類を整理するという例は、どれも会社の事務の仕事です。clerical は「事務の」という意味なので、2が正解です。
+この問題の型：具体例とまとめ（手紙・電話・書類の整理→事務の作業）
+【ほかの選択肢】
+1 rugged は「でこぼこした、頑丈な」です。土地や体などの様子を表す語で、「でこぼこした作業」となり、挙げられた例と合いません。
+3 majestic は「堂々とした、威厳のある」です。山や建物などの様子を表す語で、「堂々とした作業」となり、手紙のタイプや電話の応対の例とつながりません。
+4 apt は「ぴったりの、適切な」です。「適切な作業」としても、手紙・電話・書類という例がどんな種類の仕事かを表していません。
+【覚えるポイント】
+・clerical tasks：「事務の作業」。clerical は「事務の、事務員の」という意味です。
+・空所のあとに like ～（～のような）で具体例が並んでいるときは、それらの例をひとまとめにして言い表す語を選ぶことが手がかりになります。

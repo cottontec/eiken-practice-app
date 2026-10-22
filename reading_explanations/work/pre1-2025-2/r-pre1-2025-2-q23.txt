@@ -1,0 +1,30 @@
+---
+choices: Therefore | In other words | On the other hand | In return
+answerText: On the other hand
+---
+【正解】3 On the other hand（その一方で）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Therefore（したがって、だから）
+2 In other words（言いかえると、つまり）
+3 On the other hand（その一方で、他方では）
+4 In return（お返しに、その代わりに）
+【考え方】
+まず見るところ：第2段落の空所の前の This seems logical と、空所のあとの too much of these things is not always ideal
+空所の前の文は、次のとおりです。
+This seems logical since novelty and diversity should allow artists to produce work that is entertaining to fans over the long term.（これは理にかなっているように思える。新しさと多様性があれば、アーティストは長い期間にわたってファンを楽しませる作品を生み出せるはずだからだ）
+logical は「理にかなった」、novelty は「新しさ」、diversity は「多様性（いろいろな種類があること）」です。ここでは新しさと多様性の「よい面」が述べられています。
+空所のあとは、次のとおりです。
+(23), too much of these things is not always ideal.（（23）、これらがありすぎることは、いつも理想的だとは限らない）
+not always は「いつも～とは限らない」です。続く文では、今はやっているものとあまりにも違う曲は、そもそもランキングを上がっていく確率がより低い、と説明されています。こちらは新しさがありすぎることの「よくない面」です。
+よい面のあとによくない面を述べているので、別の面を示す On the other hand（その一方で）が入り、3が正解です。
+この問題の型：対比（新しさと多様性のよい面 ⇔ ありすぎることのよくない面）
+【ほかの選択肢】
+1 Therefore は「したがって、だから」です。入れると「新しさと多様性はファンを楽しませるので、だから、ありすぎるのはよくない」となり、前の内容から出てくる結論になりません。
+2 In other words は「言いかえると」です。前と同じ内容を別の言葉で言い直すときに使います。前は「よい面」、あとは「よくない面」で、同じ内容の言いかえではありません。
+4 In return は「お返しに、その代わりに」です。何かをしてもらったお返しを述べるときに使う語で、新しさのよい面とよくない面を並べるこの文脈には合いません。
+【覚えるポイント】
+・not always ～：「いつも～とは限らない」。全部を打ち消すのではなく、一部を打ち消す言い方です。
+・空所の前で「よい面」、あとで too much ～ is not always ideal のように「よくない面」が述べられているときは、On the other hand のような別の面を示すつなぎの語が入る手がかりになります。

@@ -1,0 +1,31 @@
+---
+choices: an insufficient number of teachers | how the children were taught | the length of the program | how the schools were chosen
+answerText: how the children were taught
+---
+【正解】2 how the children were taught（子どもたちの教えられ方）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 an insufficient number of teachers（教師の数が足りないこと）
+2 how the children were taught（子どもたちの教えられ方）
+3 the length of the program（プログラムの期間の長さ）
+4 how the schools were chosen（学校の選ばれ方）
+【考え方】
+まず見るところ：第3段落の空所のあとの focused on developing the children's basic skills と emphasize play activities
+空所のある文は、次のとおりです。
+the problem with early-education programs for low-income children, like the one in Tennessee, lies in (21)（テネシー州のもののような、低所得の子どもたち向けの早期教育プログラムの問題は、（21）にある）
+lie in ～ は「～にある」です。空所には、問題がどこにあるのかが入ります。
+あとの文では、テネシー州のプログラムでの教え方が書かれています。
+It had qualified educators who focused on developing the children's basic skills, such as writing letters and numbers.（そのプログラムには、文字や数字を書くことなど、子どもたちの基礎的な技能を伸ばすことに力を注ぐ、資格を持った教育者たちがいた）
+さらに、別の教え方と比べています。
+researchers point out that early education programs that are often chosen by wealthier parents emphasize play activities（研究者たちは、より裕福な親たちがよく選ぶ早期教育プログラムでは、遊びの活動が重視されていると指摘している）
+emphasize は「～を重視する」です。「基礎的な技能を教える方法」と「遊びの活動を重視する方法」を比べ、後者のほうが効果的だという証拠が増えていると述べています。つまり、問題は子どもたちの教え方にあるということです。how the children were taught は「子どもたちの教えられ方」という意味なので、2が正解です。
+この問題の型：具体例とまとめ（基礎の技能中心か、遊び中心か → 教えられ方）
+【ほかの選択肢】
+1 an insufficient number of teachers は「教師の数が足りないこと」です。本文には qualified educators（資格を持った教育者たち）がいたと書かれているだけで、人数が足りなかったという話はありません。
+3 the length of the program は「プログラムの期間の長さ」です。空所のあとはプログラムの中で何を重視して教えたかの話で、期間の長さについては書かれていません。
+4 how the schools were chosen は「学校の選ばれ方」です。本文の chosen は、裕福な親がどんなプログラムを選ぶことが多いかを述べるのに使われているだけで、学校の選び方が問題だとは書かれていません。
+【覚えるポイント】
+・lie in ～：「（問題・原因などが）～にある」。
+・the problem ～ lies in (　) のように「問題はどこにあるか」が空所になっているときは、あとの文で具体的に何が説明されているか（ここでは教え方の比べ合い）が、空所の内容を決める手がかりになります。
