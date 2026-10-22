@@ -1,0 +1,30 @@
+---
+choices: By turning it into a special gas which can then be used as fuel. | By selling it to people so they can burn it to heat their homes. | By adding metal to it to make a new kind of building material. | By creating islands with it which can become sites for power plants.
+answerText: By turning it into a special gas which can then be used as fuel.
+---
+【正解】1 By turning it into a special gas which can then be used as fuel.（それを特別なガスに変え、そのガスを燃料として使えるようにすることによって。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：アドバンスト・プラズマ・パワーは、埋め立て地のごみの一部をどのように利用しますか。
+1 それを特別なガスに変え、そのガスを燃料として使えるようにすることによって。
+2 人々が家を暖めるために燃やせるよう、それを人々に売ることによって。
+3 それに金属を加えて、新しい種類の建築材料を作ることによって。
+4 それで島を作り、その島を発電所の用地にできるようにすることによって。
+【考え方】
+アドバンスト・プラズマ・パワー（APP）のやり方は、第3段落に書かれています。
+5文目に The plant will remove any metals or other materials that can be recycled and then change the remaining waste into a new type of gas called "syngas."（工場は、リサイクルできる金属やほかの材料をすべて取り除き、それから残りのごみを「シンガス」と呼ばれる新しい種類のガスに変える）とあります。the remaining waste は「残りのごみ」です。
+6文目は This gas can then be burned as fuel to make electricity, which can then be sold.（このガスは、燃料として燃やして電気を作ることができ、その電気は売ることができる）です。fuel は「燃料」です。
+設問の some of the waste（ごみの一部）は、リサイクルできるものを取り除いたあとの「残りのごみ」にあたります。それをガスに変え、そのガスを燃料として使うのです。
+本文と選択肢は次のように対応しています。
+本文 change the remaining waste into a new type of gas（残りのごみを新しい種類のガスに変える）＝ 選択肢 turning it into a special gas（それを特別なガスに変える）
+本文 This gas can then be burned as fuel（このガスは燃料として燃やすことができる）＝ 選択肢 which can then be used as fuel（それはそのあと燃料として使える）
+正解は1です。
+【ほかの選択肢】
+2 本文で売ると書かれているのは、ガスを燃やして作った electricity（電気）です。ごみそのものを人々に売るとは書かれておらず、家を暖めるために燃やすという話もありません。
+3 本文では、金属はごみから「取り除いて」リサイクルするものです。ごみに金属を加えて建築材料を作るとは書かれていません。
+4 本文には、ごみで島を作る話はありません。APPの工場は、ベルギーの古い埋め立て地の隣に建てられています。
+【覚えるポイント】
+・change A into B ／ turn A into B：「AをBに変える」。
+・fuel：「燃料」。be burned as fuel で「燃料として燃やされる」。

@@ -1,0 +1,24 @@
+---
+choices: As usual | At first | Amazingly | Additionally
+answerText: Amazingly
+---
+【正解】3 Amazingly（驚いたことに）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 As usual：いつものように
+2 At first：最初は
+3 Amazingly：驚いたことに
+4 Additionally：さらに、加えて
+【考え方】
+第2段落の最初の文は Biohackers are sometimes even able to solve problems that professional scientists have not been able to solve.（バイオハッカーたちは、プロの科学者たちが解決できずにいる問題を解決できることさえある）です。even は「～さえ」で、それが意外なことだと示しています。その例としてダニエル・バードが紹介されます。
+空所の前の文には、For a while, scientists had been trying to find a way to reduce the amount of waste caused by plastic bags（しばらくの間、科学者たちはビニール袋によって生じるごみの量を減らす方法を見つけようとしていた）とあります。
+空所のあとは the 16-year-old schoolboy Daniel did what many scientists could not（16歳の男子生徒だったダニエルは、多くの科学者ができなかったことをやってのけた）です。科学者たちが長い間できなかったことを、まだ16歳の生徒がやってのけたのですから、驚くべきことだと言えます。Amazingly は「驚いたことに」という意味なので、正解は3です。
+【ほかの選択肢】
+1 As usual は「いつものように」です。科学者ができなかったことを16歳の生徒がやってのけるのは、いつものことではありません。even（～さえ）で意外さを示している段落の流れとも合いません。
+2 At first は「最初は」です。「最初は～したが、あとで…」のように、あとで変化が起こるときに使います。ここではダニエルが成功したあと、賞を受けたことが書かれているだけで、最初と後の変化を述べる流れではありません。
+4 Additionally は「さらに、加えて」で、同じ向きの情報を付け足すときに使います。前の文は科学者たちが方法を探していたという話で、それに付け足す流れではなく、合いません。
+【覚えるポイント】
+・Amazingly：「驚いたことに」。文の最初に置いて、そのあとに書かれる内容が驚くべきことだと示します。
+・what many scientists could not：「多くの科学者ができなかったこと」。what は「～すること、～するもの」という意味です。

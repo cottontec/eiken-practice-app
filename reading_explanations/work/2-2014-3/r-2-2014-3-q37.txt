@@ -1,0 +1,29 @@
+---
+choices: is becoming less common because there is not enough room. | is an idea that was not thought of until modern times. | can cause poisons to be released into the local environment. | can improve the value of land in areas with too much waste.
+answerText: can cause poisons to be released into the local environment.
+---
+【正解】3 can cause poisons to be released into the local environment.（毒が地元の環境に放出される原因になることがある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ごみを処分するためにそれを埋めることは、
+1 場所が足りないので、あまり行われなくなってきている。
+2 現代になるまで考えられなかった考えである。
+3 毒が地元の環境に放出される原因になることがある。
+4 ごみが多すぎる地域の土地の価値を高めることがある。
+【考え方】
+ごみを埋めることについては、第1段落に書かれています。
+3文目に However, putting waste into landfills, as these sites are now called, sometimes causes poisonous substances to get into the surrounding area.（しかし、ごみを埋め立て地〔こうした場所は今ではこう呼ばれている〕に入れると、有毒な物質が周りの地域に入りこんでしまうことがある）とあります。landfill は「（ごみの）埋め立て地」、poisonous substances は「有毒な物質」、the surrounding area は「周りの地域」です。cause ～ to … は「～が…する原因になる」という意味です。
+本文と選択肢は次のように対応しています。
+本文 sometimes causes（～の原因になることがある）＝ 選択肢 can cause（～の原因になりうる）
+本文 poisonous substances（有毒な物質）＝ 選択肢 poisons（毒）
+本文 get into the surrounding area（周りの地域に入りこむ）＝ 選択肢 be released into the local environment（地元の環境に放出される）
+本文の sometimes（ときには）を、選択肢では can（～することがある）で表しています。正解は3です。
+【ほかの選択肢】
+1 本文の2文目には This way of dealing with waste has continued in modern times（ごみを処理するこのやり方は、現代でも続いている）とあります。あまり行われなくなってきているとは書かれていません。埋め立て地が貴重な土地を占めてしまうという問題は書かれていますが、場所が足りないせいで減っているという話ではありません。
+2 本文の1文目に Human beings have always produced waste, and they have often gotten rid of it by burying it（人間はいつの時代もごみを出してきて、多くの場合それを埋めて処分してきた）とあります。昔から行われてきたやり方なので、「現代になるまで考えられなかった」は本文と反対です。
+4 本文の最後の文には Landfills also take up valuable land that could be used for other purposes.（埋め立て地は、ほかの目的に使えるかもしれない貴重な土地を占めてしまう）とあります。土地の価値を高めるとは書かれておらず、むしろ土地を使えなくしてしまうという問題が書かれています。
+【覚えるポイント】
+・cause ～ to …：「～が…する原因になる」。
+・get rid of ～：「～を処分する、取り除く」。

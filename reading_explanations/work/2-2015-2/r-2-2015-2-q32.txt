@@ -1,0 +1,25 @@
+---
+choices: tired of | encouraged by | pleased with | worried about
+answerText: worried about
+---
+【正解】4 worried about（～を心配している）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 tired of：～にうんざりしている、あきている
+2 encouraged by：～に励まされている
+3 pleased with：～に満足している、喜んでいる
+4 worried about：～を心配している
+【考え方】
+空所の前までの第3段落では、バイオハッカーが作った役に立つ細菌の例が書かれ、In this way, biohackers are trying to create useful new organisms that can help people.（このようにして、バイオハッカーたちは、人々の役に立つことのできる有用な新しい生物を作り出そうとしている）とまとめられています。organism は「生物」です。ここまではよい面の話です。
+空所の文は Some people, though, are (　) this trend.（しかし、この流れを（　）人たちもいる）です。though（しかし）があるので、よい面とは反対の内容になると考えられます。
+次の文がその理由です。They believe that amateurs may create harmful new diseases.（彼らは、素人が有害な新しい病気を作り出してしまうかもしれないと考えている）とあります。amateur は「素人（プロではない人）」、harmful は「有害な」です。
+有害な病気が生まれるかもしれないと考えている人たちは、この流れを心配していると言えます。worried about ～ は「～を心配している」なので、正解は4です。
+【ほかの選択肢】
+1 tired of は「～にうんざりしている」です。次の文で書かれているのは、有害な病気が生まれるかもしれないという不安です。あきたりうんざりしたりしている理由ではないので合いません。
+2 encouraged by は「～に励まされている」です。though（しかし）でよい面の話から切りかわっているのに、励まされているでは同じ向きの内容になり、次の文の不安ともつながりません。
+3 pleased with は「～に満足している」です。有害な病気を心配する人たちが、この流れに満足しているというのは反対の内容です。
+【覚えるポイント】
+・be worried about ～：「～を心配している」。
+・trend：「流れ、傾向、流行」。
