@@ -1,6 +1,7 @@
 ---
 choices: Teach his son how to read and write for free. | Schedule a visit for him to come and see the center. | Send him a list of the activities that her day-care center offers. | Recommend some educational toys to use at home.
 answerText: Schedule a visit for him to come and see the center.
+reviewed: yes
 ---
 【正解】2 Schedule a visit for him to come and see the center.（彼が保育所を見に来られるように、見学の予定を立てる。）
 【和訳】

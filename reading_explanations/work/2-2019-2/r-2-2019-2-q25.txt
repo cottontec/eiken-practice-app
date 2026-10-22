@@ -1,6 +1,7 @@
 ---
 choices: provide a home to whales | increase in temperature | contain harmful chemicals | produce more fuel
 answerText: contain harmful chemicals
+reviewed: yes
 ---
 【正解】3 contain harmful chemicals（有害な化学物質を含む）
 【和訳】

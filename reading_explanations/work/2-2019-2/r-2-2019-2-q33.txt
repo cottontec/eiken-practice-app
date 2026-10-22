@@ -1,6 +1,7 @@
 ---
 choices: It gives elderly people the chance to move out of retirement homes. | It allows elderly people to save money on their housing costs. | Young people are trained to become healthcare workers for free. | Young people can help reduce the loneliness of elderly people.
 answerText: Young people can help reduce the loneliness of elderly people.
+reviewed: yes
 ---
 【正解】4 Young people can help reduce the loneliness of elderly people.（若者が、高齢者の寂しさを減らす手助けができる。）
 【和訳】

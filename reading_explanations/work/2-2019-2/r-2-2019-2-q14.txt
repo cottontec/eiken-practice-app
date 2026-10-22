@@ -1,6 +1,7 @@
 ---
 choices: sign up | go out | make up | come out
 answerText: make up
+reviewed: yes
 ---
 【正解】3 make up（make up for ～で「～の埋め合わせをする」）
 【和訳】

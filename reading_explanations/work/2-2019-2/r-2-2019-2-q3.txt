@@ -1,6 +1,7 @@
 ---
 choices: raise | trap | bend | deal
 answerText: bend
+reviewed: yes
 ---
 【正解】3 bend（曲げる）
 【和訳】

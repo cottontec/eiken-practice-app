@@ -1,6 +1,7 @@
 ---
 choices: eventually | slightly | mildly | heavily
 answerText: eventually
+reviewed: yes
 ---
 【正解】1 eventually（ついに、最終的に）
 【和訳】

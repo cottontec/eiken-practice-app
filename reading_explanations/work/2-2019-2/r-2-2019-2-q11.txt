@@ -1,6 +1,7 @@
 ---
 choices: caught up | got away | kept up | did away
 answerText: did away
+reviewed: yes
 ---
 【正解】4 did away（do away with ～で「～を廃止する」）
 【和訳】
@@ -8,7 +9,7 @@ answerText: did away
 （選択肢の意味）1 caught up with ～：～に追いつく　2 got away with ～：（悪いことをして）罰を受けずにすむ　3 kept up with ～：～に遅れずについていく　4 did away with ～：～を廃止する、なくす
 【考え方】
 4つの選択肢はどれも、空所のあとの with といっしょに1つのまとまった意味を作る語句です。ですから、「（　）with its uniform」全体の意味で考えます。
-手がかりは2文目の He prefers wearing casual clothes to school.（彼は学校へはふだん着を着ていくほうが好きだ）です。prefer は「（ほかのものより）～のほうを好む」という意味で、ここでは制服よりもふだん着を着たいということです。なお、この文の to school は「学校へ」という意味で、「AよりもBを好む」の prefer A to B の形ではありません。
+手がかりは次の文の He prefers wearing casual clothes to school.（彼は学校へはふだん着を着ていくほうが好きだ）です。prefer は「（ほかのものより）～のほうを好む」という意味で、ここでは制服よりもふだん着を着たいということです。なお、この文の to school は「学校へ」という意味で、「AよりもBを好む」の prefer A to B の形ではありません。
 ふだん着が好きなグレッグが喜ぶのは、学校が制服をやめたときです。do away with ～ は「～を廃止する、なくす」という意味です。過去の文なので did away with となり、「学校が制服を廃止したとき、グレッグは喜んだ」となります。ですから、4が正解です。
 【ほかの選択肢】
 1 caught up with ～ は「～に追いつく」です。「学校が制服に追いついた」となり、意味が通りません。

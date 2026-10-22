@@ -1,6 +1,7 @@
 ---
 choices: move things in a computer game using a device that recognizes what people are saying. | provide medical treatment to people who have problems using their throats to make sounds. | protect newborn babies who are likely to get dangerous diseases. | help people who are trying to increase the size of their muscles.
 answerText: move things in a computer game using a device that recognizes what people are saying.
+reviewed: yes
 ---
 【正解】1 move things in a computer game using a device that recognizes what people are saying.（人が言っていることを見分ける機器を使って、コンピューターゲームの中の物を動かす）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: was worried the rooms in the retirement home were too noisy and dirty. | decided to provide some students with free rooms in the retirement home. | had trouble finding people who were interested in living in her rooms. | wanted to find a way to make housing cheaper for young students.
 answerText: decided to provide some students with free rooms in the retirement home.
+reviewed: yes
 ---
 【正解】2 decided to provide some students with free rooms in the retirement home.（老人ホームの無料の部屋を、何人かの学生に提供することに決めた。）
 【和訳】

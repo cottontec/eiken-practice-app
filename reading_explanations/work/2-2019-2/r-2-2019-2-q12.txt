@@ -1,6 +1,7 @@
 ---
 choices: read through | look through | go after | take after
 answerText: take after
+reviewed: yes
 ---
 【正解】4 take after（～に似ている）
 【和訳】

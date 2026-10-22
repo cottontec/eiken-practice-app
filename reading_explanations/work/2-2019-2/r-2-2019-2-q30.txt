@@ -1,6 +1,7 @@
 ---
 choices: The older generation is not able to afford the high prices of modern cities. | The younger generation is not interested in getting an education or finding jobs. | Young people and elderly people do not have many opportunities to exchange opinions. | Elderly people believe that young people do not spend enough time visiting retirement homes.
 answerText: Young people and elderly people do not have many opportunities to exchange opinions.
+reviewed: yes
 ---
 【正解】3 Young people and elderly people do not have many opportunities to exchange opinions.（若者と高齢者には、意見を交わす機会があまりない。）
 【和訳】

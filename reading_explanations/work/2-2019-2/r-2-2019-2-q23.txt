@@ -1,6 +1,7 @@
 ---
 choices: is worth the price | is a poor way | increases their concerts | reduces costs
 answerText: is worth the price
+reviewed: yes
 ---
 【正解】1 is worth the price（その値段に見合う価値がある）
 【和訳】

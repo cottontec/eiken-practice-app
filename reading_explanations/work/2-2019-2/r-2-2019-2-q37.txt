@@ -1,6 +1,7 @@
 ---
 choices: They could be used as a way for people to speak to each other in secret. | They will be used to encourage people to communicate with the government. | They can be used to monitor the conversations of spies from other countries. | They may prevent information from being shared with other people by mistake.
 answerText: They could be used as a way for people to speak to each other in secret.
+reviewed: yes
 ---
 【正解】1 They could be used as a way for people to speak to each other in secret.（人々がひそかに話し合う手段として使えるかもしれないから。）
 【和訳】

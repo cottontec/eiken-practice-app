@@ -1,6 +1,7 @@
 ---
 choices: visited a museum | decided to go fishing | seen one of these creatures | sold pictures of whales
 answerText: seen one of these creatures
+reviewed: yes
 ---
 【正解】3 seen one of these creatures（この生き物を目にした）
 【和訳】

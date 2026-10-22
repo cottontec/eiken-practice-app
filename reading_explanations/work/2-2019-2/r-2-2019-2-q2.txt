@@ -1,6 +1,7 @@
 ---
 choices: factors | suburbs | vehicles | units
 answerText: factors
+reviewed: yes
 ---
 【正解】1 factors（要因）
 【和訳】

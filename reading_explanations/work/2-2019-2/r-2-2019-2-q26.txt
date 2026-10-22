@@ -1,6 +1,7 @@
 ---
 choices: In spite of this | Thanks to this | On the other hand | For one thing
 answerText: Thanks to this
+reviewed: yes
 ---
 【正解】2 Thanks to this（そのおかげで）
 【和訳】

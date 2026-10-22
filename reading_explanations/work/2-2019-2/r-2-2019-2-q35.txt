@@ -1,6 +1,7 @@
 ---
 choices: A sticker that can be attached to electronic devices to make them more efficient. | A sticker that can be used to record medical information about a patient. | A device that is made of silicon and has the ability to make muscles move. | A device that is used by scientists to make silicon stronger.
 answerText: A sticker that can be used to record medical information about a patient.
+reviewed: yes
 ---
 【正解】2 A sticker that can be used to record medical information about a patient.（患者についての医療に関する情報を記録するのに使えるステッカー。）
 【和訳】

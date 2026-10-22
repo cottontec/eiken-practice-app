@@ -1,6 +1,7 @@
 ---
 choices: accustomed to | relevant to | guilty of | worthy of
 answerText: accustomed to
+reviewed: yes
 ---
 【正解】1 accustomed to（～に慣れて）
 【和訳】

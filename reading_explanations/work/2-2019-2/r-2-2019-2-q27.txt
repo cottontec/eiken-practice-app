@@ -1,6 +1,7 @@
 ---
 choices: Mr. Fletcher asked her about the services provided by Kidland Childcare. | She was unable to speak to Mr. Fletcher when he called yesterday. | Mr. Fletcher's son has started to attend Kidland Childcare. | She needs more information about Mr. Fletcher's son.
 answerText: Mr. Fletcher asked her about the services provided by Kidland Childcare.
+reviewed: yes
 ---
 【正解】1 Mr. Fletcher asked her about the services provided by Kidland Childcare.（フレッチャーさんが、キッドランド・チャイルドケアが行っているサービスについて彼女にたずねた。）
 【和訳】

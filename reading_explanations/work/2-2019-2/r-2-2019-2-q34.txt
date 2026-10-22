@@ -1,6 +1,7 @@
 ---
 choices: The cost of the devices that they need is too high for them. | The devices used to monitor their bodies are inconvenient for them. | They cannot receive treatment without waiting for a long period of time. | They do not have time to record all the information their doctor needs.
 answerText: The devices used to monitor their bodies are inconvenient for them.
+reviewed: yes
 ---
 【正解】2 The devices used to monitor their bodies are inconvenient for them.（体を観察するために使われる機器が、患者にとって不便である。）
 【和訳】

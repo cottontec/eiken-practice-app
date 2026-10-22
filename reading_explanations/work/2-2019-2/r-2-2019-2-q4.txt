@@ -1,6 +1,7 @@
 ---
 choices: informs | figures | belongs | repeats
 answerText: belongs
+reviewed: yes
 ---
 【正解】3 belongs（所属している）
 【和訳】

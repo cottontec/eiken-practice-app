@@ -1,6 +1,7 @@
 ---
 choices: can choose between morning and afternoon sessions. | must bring their children to the center five days each week. | get a discount of $30 each day. | have to prepare their children's lunch.
 answerText: can choose between morning and afternoon sessions.
+reviewed: yes
 ---
 【正解】1 can choose between morning and afternoon sessions.（午前の部と午後の部から選ぶことができる。）
 【和訳】
@@ -22,7 +23,7 @@ For the half day, there are two sessions—the morning session from 6 a.m. to no
 【ほかの選択肢】
 2 本文と合いません。Parents can choose the three-day, four-day, or five-day plan.（3日、4日、5日のプランから選べる）とあるので、5日と決まっているわけではありません。must（～しなければならない）は言い切りすぎです。
 3 数字の意味がちがいます。$30 は a half day is $30（半日は30ドル）という半日保育の料金で、割引の額ではありません。
-4 人がちがいます。昼食を持ってこなければならないのは Parents who choose the full day（全日保育を選んだ保護者）です。半日保育の保護者についてではありません。
+4 人がちがいます。昼食を持ってこなければならないのは Parents who choose the full day（全日保育を選んだ保護者）です。半日保育の保護者が昼食を用意しなければならないとは書かれていません。
 【覚えるポイント】
 ・choose between A and B：「AとBのどちらかを選ぶ」。
 ・数字が出てくる選択肢は、その数字が本文で「何の数字か（料金か、割引か、時間か）」を確かめましょう。

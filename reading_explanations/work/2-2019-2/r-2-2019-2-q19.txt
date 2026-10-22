@@ -1,6 +1,7 @@
 ---
 choices: not more | none | no one | any more
 answerText: none
+reviewed: yes
 ---
 【正解】2 none（少しも～ない）
 【和訳】

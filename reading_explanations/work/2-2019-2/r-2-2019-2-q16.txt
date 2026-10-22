@@ -1,6 +1,7 @@
 ---
 choices: in his favor | behind his back | at his feet | to his joy
 answerText: behind his back
+reviewed: yes
 ---
 【正解】2 behind his back（彼に隠れて、彼に内緒で）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: They spent time with the residents and supported them with their daily needs. | They learned many new computer skills from the residents and used them for school projects. | They designed systems to attract more residents to the facility. | They provided medical care to residents who had fallen ill.
 answerText: They spent time with the residents and supported them with their daily needs.
+reviewed: yes
 ---
 【正解】1 They spent time with the residents and supported them with their daily needs.（入居者と一緒に時間を過ごし、日々の生活に必要なことで入居者を支えた。）
 【和訳】

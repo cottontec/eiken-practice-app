@@ -1,6 +1,7 @@
 ---
 choices: finish | been finished | finishing | finished
 answerText: finished
+reviewed: yes
 ---
 【正解】4 finished（終えた）
 【和訳】
