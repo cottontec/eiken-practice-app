@@ -1,0 +1,28 @@
+---
+choices: Plans to improve the environment are not working. | Their land is being taken over by the Sahara Desert. | Researchers cannot get enough money to study there. | Many people have to move because of the increased heat.
+answerText: Their land is being taken over by the Sahara Desert.
+---
+【正解】2 Their land is being taken over by the Sahara Desert.（国土がサハラ砂漠にのみこまれつつある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：アフリカのいくつかの国は、どんな問題をかかえていますか。
+1 環境をよくするための計画がうまくいっていない。
+2 国土がサハラ砂漠にのみこまれつつある。
+3 研究者が、そこで研究するための十分なお金を得られない。
+4 暑さが増したせいで、多くの人が移り住まなければならない。
+【考え方】
+第1段落を見ます。1文目に the Sahara Desert ... is getting bigger all the time（サハラ砂漠は絶えず大きくなり続けている）とあります。
+2文目では the desert is now spreading southward by up to about 50 kilometers a year（この砂漠は現在、1年に最大で約50キロメートルずつ南へ広がっている）と、広がり方が具体的に書かれています。southward は「南へ」という意味です。
+3文目に This has made life very hard for people in the countries that are directly south of the Sahara.（このことは、サハラ砂漠のすぐ南にある国々の人々の生活をとても苦しいものにしてきた）とあります。
+つまり、サハラ砂漠の南にある国々では、砂漠が広がってきて、国の土地が砂漠に変わっていくという問題をかかえています。本文と選択肢は次のように対応しています。
+本文 the desert is now spreading southward（砂漠が南へ広がっている）＋ the countries that are directly south of the Sahara（サハラ砂漠のすぐ南の国々）＝ 選択肢 Their land is being taken over by the Sahara Desert.（国土がサハラ砂漠にのみこまれつつある）
+take over ～ は「～を乗っ取る、～に取って代わる」という意味で、ここでは「土地が砂漠に取って代わられる」ということです。正解は2です。
+【ほかの選択肢】
+1 本文では、砂漠の拡大を止める計画が is about to be put into practice（まさに実行に移されようとしている）と書かれています。計画はこれから始まるところで、うまくいっていないとは書かれていないので、誤りです。
+3 本文でお金が足りなかったと書かれているのは、グレート・グリーン・ウォールの事業のことです。研究者が研究のお金を得られないという話ではないので、誤りです。
+4 本文には「人々の生活がとても苦しくなった」とは書かれていますが、暑さのせいで多くの人が移り住まなければならないとは書かれていないので、誤りです。
+【覚えるポイント】
+・spread：「広がる」。spread southward で「南へ広がる」。
+・take over ～：「～を乗っ取る、～に取って代わる」。

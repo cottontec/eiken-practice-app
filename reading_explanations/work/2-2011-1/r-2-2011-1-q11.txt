@@ -1,6 +1,7 @@
 ---
 choices: for short | for free | in service | in vain
 answerText: in vain
+reviewed: yes
 ---
 【正解】4 in vain（むだに、むなしく）
 【和訳】

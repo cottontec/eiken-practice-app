@@ -1,6 +1,7 @@
 ---
 choices: fault | property | knowledge | credit
 answerText: credit
+reviewed: yes
 ---
 【正解】4 credit（〔よい働きを〕認めること、評価）
 【和訳】

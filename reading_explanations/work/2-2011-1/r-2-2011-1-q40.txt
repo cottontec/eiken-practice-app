@@ -1,6 +1,7 @@
 ---
 choices: Use robots to teach people how to be more polite to each other. | Program robots to behave more like human beings. | Analyze the reasons why robots sometimes stop working. | Design robots that do more work at night than they do in the day.
 answerText: Program robots to behave more like human beings.
+reviewed: yes
 ---
 【正解】2 Program robots to behave more like human beings.（ロボットがもっと人間のようにふるまうようにプログラムする。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: abuse | preserve | resolve | obtain
 answerText: abuse
+reviewed: yes
 ---
 【正解】1 abuse（悪用する）
 【和訳】

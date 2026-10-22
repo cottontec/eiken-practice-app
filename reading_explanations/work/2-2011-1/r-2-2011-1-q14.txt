@@ -1,6 +1,7 @@
 ---
 choices: mystery | trade | business | hope
 answerText: business
+reviewed: yes
 ---
 【正解】3 business（関わるべき事柄、用事）
 【和訳】

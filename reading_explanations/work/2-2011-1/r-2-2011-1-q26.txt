@@ -1,6 +1,7 @@
 ---
 choices: uneasy | illegal | common | private
 answerText: common
+reviewed: yes
 ---
 【正解】3 common（よくある、ふつうの）
 【和訳】

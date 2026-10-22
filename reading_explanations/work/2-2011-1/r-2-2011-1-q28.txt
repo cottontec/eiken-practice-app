@@ -1,6 +1,7 @@
 ---
 choices: price | aim | hobby | limit
 answerText: aim
+reviewed: yes
 ---
 【正解】2 aim（目標、ねらい）
 【和訳】

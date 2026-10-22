@@ -1,0 +1,19 @@
+---
+choices: source | minority | harvest | connection
+answerText: minority
+---
+【正解】2 minority（少数、少数派）
+【和訳】
+カナダでは、ほとんどの人の第一言語は英語かフランス語のどちらかです。しかし、そこに住む人々の中には、中国語、イタリア語、ドイツ語など、別の第一言語を持つ少数の人々もいます。
+（選択肢の意味）1 源、出どころ　2 少数、少数派　3 収穫　4 つながり、関係
+【考え方】
+1文目は In Canada, the first language of most people is either English or French. です。first language は「第一言語（生まれて最初に身につけた言葉）」、either A or B は「AかBのどちらか」です。「ほとんどの人」の第一言語は英語かフランス語だと言っています。
+2文目は However（しかし）で始まり、a (　) of people there have a different first language（そこの人々の（　）は別の第一言語を持っている）と続きます。
+1文目が most people（ほとんどの人）の話なので、However のあとは「それ以外の、数の少ない人々」の話になると考えられます。minority は「少数、少数派」という意味で、a minority of people で「少数の人々」となります。正解は2です。
+【ほかの選択肢】
+1 source は「源、出どころ」です。「人々の源が別の第一言語を持つ」となり、意味が通りません。
+3 harvest は「収穫」です。「人々の収穫が別の第一言語を持つ」となり、言葉の話とつながりません。
+4 connection は「つながり、関係」です。「人々のつながりが別の第一言語を持つ」となり、most people と比べる形になりません。
+【覚えるポイント】
+・a minority of ～：「少数の～」。反対の意味の語は majority（大多数）です。
+・either A or B：「AかBのどちらか」。

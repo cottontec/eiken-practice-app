@@ -1,6 +1,7 @@
 ---
 choices: end | area | activity | error
 answerText: end
+reviewed: yes
 ---
 【正解】1 end（終わり）
 【和訳】

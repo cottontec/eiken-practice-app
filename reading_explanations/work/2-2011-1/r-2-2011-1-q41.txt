@@ -1,6 +1,7 @@
 ---
 choices: They disliked using dinosaurs for entertainment. | They opposed the idea of creating fake dinosaurs. | They doubted that dinosaurs could ever be cloned. | They thought the dinosaurs in it were the wrong size.
 answerText: They doubted that dinosaurs could ever be cloned.
+reviewed: yes
 ---
 【正解】3 They doubted that dinosaurs could ever be cloned.（恐竜がクローンでつくられることなどありうるのか疑った。）
 【和訳】

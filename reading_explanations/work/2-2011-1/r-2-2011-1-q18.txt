@@ -1,6 +1,7 @@
 ---
 choices: over | through | as | on
 answerText: on
+reviewed: yes
 ---
 【正解】4 on（tap ＋ 人 ＋ on the back で「人の背中を軽くたたく」）
 【和訳】

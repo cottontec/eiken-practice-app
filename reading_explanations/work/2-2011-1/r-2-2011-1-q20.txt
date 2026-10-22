@@ -1,6 +1,7 @@
 ---
 choices: by | of | with | at
 answerText: of
+reviewed: yes
 ---
 【正解】2 of（independent of ～ で「～から自立した」）
 【和訳】

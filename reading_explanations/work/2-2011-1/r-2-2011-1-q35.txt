@@ -1,6 +1,7 @@
 ---
 choices: It was created by one of Matterson International's rivals. | Many employees at Matterson International already have it. | The course on it should be suitable for people who are beginners at using computers. | The sales manager wants members of his department to be able to use it well.
 answerText: The sales manager wants members of his department to be able to use it well.
+reviewed: yes
 ---
 【正解】4 The sales manager wants members of his department to be able to use it well.（営業部長は、自分の部の人たちがそれを上手に使えるようになることを望んでいる。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: formation | contract | theory | monument
 answerText: formation
+reviewed: yes
 ---
 【正解】1 formation（隊形、並び方）
 【和訳】

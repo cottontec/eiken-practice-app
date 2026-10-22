@@ -1,6 +1,7 @@
 ---
 choices: attitude | risk | promise | meaning
 answerText: risk
+reviewed: yes
 ---
 【正解】2 risk（危険、おそれ）
 【和訳】

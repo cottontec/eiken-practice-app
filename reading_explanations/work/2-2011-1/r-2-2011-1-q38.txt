@@ -1,6 +1,7 @@
 ---
 choices: It can guess what task it should do next. | It can move easily from one hospital to another. | It can stop workers from wasting time on simple jobs. | It can help new nurses find their way around the hospital.
 answerText: It can stop workers from wasting time on simple jobs.
+reviewed: yes
 ---
 【正解】3 It can stop workers from wasting time on simple jobs.（働く人たちが単純な仕事に時間をむだにしないようにできる。）
 【和訳】

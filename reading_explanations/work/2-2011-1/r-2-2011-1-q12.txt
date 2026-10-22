@@ -1,6 +1,7 @@
 ---
 choices: spirit | guilt | harm | value
 answerText: harm
+reviewed: yes
 ---
 【正解】3 harm（害、危害）
 【和訳】

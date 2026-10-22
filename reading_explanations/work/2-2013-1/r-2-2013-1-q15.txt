@@ -1,0 +1,19 @@
+---
+choices: controlled | broken | desired | measured
+answerText: desired
+---
+【正解】3 desired（leave nothing to be desired で「申し分ない」）
+【和訳】
+ビレン・ホテルは、新聞ですばらしい評価を受けました。新聞には、部屋はとても快適で、サービスは申し分ないと書かれていました。
+（選択肢の意味）1 管理される　2 こわされる　3 望まれる　4 測られる
+【考え方】
+1文目の got an excellent review（すばらしい評価を受けた）に注目します。新聞はこのホテルをほめていたことが分かります。
+2文目では、新聞が言ったこととして the rooms were very pleasant（部屋はとても快適だった）と、もう1つ the service left nothing to be (　)（サービスは（　）べきことを何も残さなかった）が and で並んでいます。どちらもほめ言葉になるはずです。
+desire は「望む」という意味です。leave nothing to be desired を文字どおりに訳すと「望まれるべきことを何も残さない」、つまり「これ以上望むことがない＝申し分ない」という決まった言い方になります。すばらしい評価という1文目とも合うので、正解は3です。
+【ほかの選択肢】
+1 controlled は「管理される」です。「サービスは管理されるべきことを何も残さなかった」となり、ほめ言葉としての意味がはっきりしません。
+2 broken は「こわされる」です。「こわされるべきことを何も残さなかった」となり、意味が通りません。
+4 measured は「測られる」です。「測られるべきことを何も残さなかった」となり、サービスをほめる言葉になりません。
+【覚えるポイント】
+・leave nothing to be desired：「申し分ない、完ぺきだ」。反対に leave much to be desired は「不満な点が多い」という意味です。
+・review：「評価、批評」。got an excellent review で「すばらしい評価を受けた」。

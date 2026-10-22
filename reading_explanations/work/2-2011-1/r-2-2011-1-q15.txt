@@ -1,6 +1,7 @@
 ---
 choices: even | only | lately | seldom
 answerText: only
+reviewed: yes
 ---
 【正解】2 only（only to ～ で「…したが、結局～しただけだった」）
 【和訳】

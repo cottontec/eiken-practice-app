@@ -1,6 +1,7 @@
 ---
 choices: By replacing the DNA in an animal's egg with the DNA of another animal. | By raising many different kinds of animals to be used for collecting DNA. | By gradually changing DNA to create a new animal. | By using electricity to create DNA in a laboratory.
 answerText: By replacing the DNA in an animal's egg with the DNA of another animal.
+reviewed: yes
 ---
 【正解】1 By replacing the DNA in an animal's egg with the DNA of another animal.（ある動物の卵子の中のDNAを、別の動物のDNAと入れかえることによって。）
 【和訳】

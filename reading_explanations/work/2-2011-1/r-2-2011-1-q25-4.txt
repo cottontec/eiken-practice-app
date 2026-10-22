@@ -2,6 +2,7 @@
 choices: to | wanted | team | whoever | join the
 answerText: join the
 order: 4 2 1 5 3
+reviewed: yes
 ---
 【正解】5 join the（この問題の4番目）
 【完成文】

@@ -1,6 +1,7 @@
 ---
 choices: Have employees choose the person who will teach them. | Send employees to join classes that are open to the public. | Arrange for the classes to be held at Matterson International's office. | Telephone Mr. Davis next week to go over the details of the classes.
 answerText: Arrange for the classes to be held at Matterson International's office.
+reviewed: yes
 ---
 【正解】3 Arrange for the classes to be held at Matterson International's office.（講座がマターソン・インターナショナル社の事務所で開かれるよう手配する。）
 【和訳】

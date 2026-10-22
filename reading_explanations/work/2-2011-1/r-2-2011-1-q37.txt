@@ -1,6 +1,7 @@
 ---
 choices: Pay robots for performing simple tasks. | Prevent robots from replacing human beings. | Build robots that can concentrate on highly skilled jobs. | Create robots that people feel comfortable working with.
 answerText: Create robots that people feel comfortable working with.
+reviewed: yes
 ---
 【正解】4 Create robots that people feel comfortable working with.（人々がいっしょに気持ちよく働けるロボットを作る。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: Increase the variety of pets that people keep. | Create new species that can avoid extinction. | Show that cloned animals are not healthy. | Make it possible to stop species from dying out.
 answerText: Make it possible to stop species from dying out.
+reviewed: yes
 ---
 【正解】4 Make it possible to stop species from dying out.（種が絶滅するのを防げるようにする。）
 【和訳】

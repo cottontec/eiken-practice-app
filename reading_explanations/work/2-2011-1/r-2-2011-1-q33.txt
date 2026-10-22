@@ -1,6 +1,7 @@
 ---
 choices: remove | guard | learn | explain
 answerText: learn
+reviewed: yes
 ---
 【正解】3 learn（学ぶ）
 【和訳】

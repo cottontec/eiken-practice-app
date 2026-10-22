@@ -1,6 +1,7 @@
 ---
 choices: They are concerned about the effect of clones on other animals. | They worry that cloning will only be able to help a few species. | They think that it would be better to protect the places where animals live. | They believe that storing animal DNA for the future will be too expensive.
 answerText: They think that it would be better to protect the places where animals live.
+reviewed: yes
 ---
 【正解】3 They think that it would be better to protect the places where animals live.（動物がすんでいる場所を守るほうがよいと考えている。）
 【和訳】

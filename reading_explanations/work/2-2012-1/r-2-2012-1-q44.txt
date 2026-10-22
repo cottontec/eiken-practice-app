@@ -1,0 +1,29 @@
+---
+choices: The same kinds of trees can be planted in every country. | The trees will help people living nearby to make more money. | The organization will be responsible for looking after the trees. | The plan has been approved by NGOs representing local people.
+answerText: The trees will help people living nearby to make more money.
+---
+【正解】2 The trees will help people living nearby to make more money.（木々が、近くに住む人々がもっとお金をかせぐのに役立つ。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：GEFが、グレート・グリーン・ウォールは成功すると考えている理由の1つは何ですか。
+1 どの国にも同じ種類の木を植えることができる。
+2 木々が、近くに住む人々がもっとお金をかせぐのに役立つ。
+3 その団体が、木の世話をする責任を負う。
+4 その計画は、地元の人々を代表するNGOに認められている。
+【考え方】
+GEFの考えは第4段落に書かれています。
+4文目に As the GEF points out, simply planting trees will not work unless local people have some reason to look after them.（GEFが指摘するように、地元の人々に木の世話をする何らかの理由がなければ、ただ木を植えるだけではうまくいかないだろう）とあります。unless は「～でなければ、～しないかぎり」、look after ～ は「～の世話をする」という意味です。
+最後の文は By choosing trees that offer a source of income, such as fruit trees, the GEF believes that the Great Green Wall will continue to help people long after it has been completed.（果樹のように収入源となる木を選ぶことで、グレート・グリーン・ウォールは、完成したずっとあとまでも人々の役に立ち続けるだろうとGEFは考えている）です。source of income は「収入源（お金を得るもとになるもの）」です。
+収入源となる木であれば、地元の人々にとって、その木の世話をする理由になります。前の文の「世話をする理由がなければうまくいかない」という指摘とつながっていて、GEFは、こうした木を選ぶことで、壁が長く人々の役に立つと考えています。本文と選択肢は次のように対応しています。
+本文 trees that offer a source of income（収入源となる木）＝ 選択肢 The trees will help people ... to make more money（木々が人々がもっとお金をかせぐのに役立つ）
+本文 local people（地元の人々）＝ 選択肢 people living nearby（近くに住む人々）
+正解は2です。
+【ほかの選択肢】
+1 GEFは、それぞれの国に、地元の市民と話し合って計画を考え出すよう求めると書かれています。どの国にも同じ種類の木を植えるという話はないので、誤りです。
+3 本文では、木の世話をするのは地元の人々で、そのためには世話をする理由が必要だと書かれています。GEFという団体が木の世話をする責任を負うとは書かれていないので、誤りです。
+4 地元の人々を代表するNGOは、計画の影響を are concerned about（心配している）と書かれています。計画を認めたとは書かれていないので、誤りです。
+【覚えるポイント】
+・source of income：「収入源」。
+・unless ～：「～でなければ、～しないかぎり」。

@@ -1,6 +1,7 @@
 ---
 choices: felt that the way TUG acted was impolite. | disliked it when TUG came too close to them. | refused to listen to TUG's messages. | thought that TUG worked too hard.
 answerText: felt that the way TUG acted was impolite.
+reviewed: yes
 ---
 【正解】1 felt that the way TUG acted was impolite.（TUGのふるまい方は失礼だと感じていた。）
 【和訳】

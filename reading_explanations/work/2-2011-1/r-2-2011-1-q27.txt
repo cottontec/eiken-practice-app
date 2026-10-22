@@ -1,6 +1,7 @@
 ---
 choices: lose | prefer | control | delay
 answerText: lose
+reviewed: yes
 ---
 【正解】1 lose（失う）
 【和訳】

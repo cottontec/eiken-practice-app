@@ -1,6 +1,7 @@
 ---
 choices: held a training course for senior managers at Matterson International. | told Sarah Fuller that his company could provide training courses at a reduced price. | joined a discussion at Matterson International's Human Resources Department. | accepted a reservation for two training courses from one of Sarah Fuller's co-workers.
 answerText: told Sarah Fuller that his company could provide training courses at a reduced price.
+reviewed: yes
 ---
 【正解】2 told Sarah Fuller that his company could provide training courses at a reduced price.（サラ・フラーに、自分の会社が割引価格で研修講座を提供できると伝えた。）
 【和訳】

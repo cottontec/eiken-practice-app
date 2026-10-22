@@ -1,6 +1,7 @@
 ---
 choices: architecture | biography | responsibility | involvement
 answerText: architecture
+reviewed: yes
 ---
 【正解】1 architecture（建築、建築学）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: similar | basic | cheap | liquid
 answerText: similar
+reviewed: yes
 ---
 【正解】1 similar（似た）
 【和訳】

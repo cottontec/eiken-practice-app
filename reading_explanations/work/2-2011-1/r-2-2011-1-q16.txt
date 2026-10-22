@@ -1,6 +1,7 @@
 ---
 choices: head | nature | word | attitude
 answerText: word
+reviewed: yes
 ---
 【正解】3 word（a man of his word で「約束を守る人」）
 【和訳】

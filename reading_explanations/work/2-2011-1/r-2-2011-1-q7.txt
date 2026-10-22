@@ -1,6 +1,7 @@
 ---
 choices: absorbed | divided | focused | fastened
 answerText: divided
+reviewed: yes
 ---
 【正解】2 divided（分けた）
 【和訳】

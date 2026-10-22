@@ -1,6 +1,7 @@
 ---
 choices: stop by | run out | give in | grow up
 answerText: grow up
+reviewed: yes
 ---
 【正解】4 grow up（成長する、大人になる）
 【和訳】

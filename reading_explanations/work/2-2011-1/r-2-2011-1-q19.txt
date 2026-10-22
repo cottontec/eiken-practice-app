@@ -1,6 +1,7 @@
 ---
 choices: will arrive | will have arrived | would arrive | would have arrived
 answerText: would have arrived
+reviewed: yes
 ---
 【正解】4 would have arrived（〔もしそうでなかったら〕着いていただろう）
 【和訳】

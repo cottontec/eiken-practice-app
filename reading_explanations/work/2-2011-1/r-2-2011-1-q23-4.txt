@@ -2,6 +2,7 @@
 choices: study | he | is | does | in
 answerText: study
 order: 2 4 3 1 5
+reviewed: yes
 ---
 【正解】1 study（この問題の4番目）
 【完成文】

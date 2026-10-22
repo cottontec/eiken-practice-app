@@ -1,6 +1,7 @@
 ---
 choices: duties | enemies | reflections | policies
 answerText: enemies
+reviewed: yes
 ---
 【正解】2 enemies（敵）
 【和訳】

@@ -2,6 +2,7 @@
 choices: her | turn | can | to | he
 answerText: to
 order: 5 3 2 4 1
+reviewed: yes
 ---
 【正解】4 to（この問題の4番目）
 【完成文】

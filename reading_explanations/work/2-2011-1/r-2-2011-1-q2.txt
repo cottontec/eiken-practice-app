@@ -1,6 +1,7 @@
 ---
 choices: separated | calculated | stretched | convinced
 answerText: convinced
+reviewed: yes
 ---
 【正解】4 convinced（納得させた、説得した）
 【和訳】
