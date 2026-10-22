@@ -7,7 +7,7 @@ answerText: batch
 （英文）
 The cookie factory made one ［batch］ of cookies with salt instead of sugar. They had to throw the entire lot away.
 （訳）
-そのクッキー工場は、クッキーの（一回分）を、砂糖の代わりに塩を使って作った。工場の人たちは、そのひとまとまりを全部捨てなければならなかった。
+そのクッキー工場は、クッキーの（一回分）を、砂糖の代わりに塩を使って作った。工場は、そのひとまとまりを全部捨てなければならなかった。
 （選択肢の意味）
 1 aggression：攻撃、攻撃的な態度
 2 substitute：代わりのもの、代用品
@@ -19,7 +19,7 @@ The cookie factory made one ［batch］ of cookies with salt instead of sugar. T
 The cookie factory made one (　) of cookies with salt instead of sugar.（そのクッキー工場は、クッキーの1つの（　）を、砂糖の代わりに塩を使って作った）
 instead of ～ は「～の代わりに」です。one (　) of cookies という形なので、空所にはクッキーの「量のまとまり」を表す語が入ると考えられます。
 次の文は、次のとおりです。
-They had to throw the entire lot away.（工場の人たちは、そのひとまとまりを全部捨てなければならなかった）
+They had to throw the entire lot away.（工場は、そのひとまとまりを全部捨てなければならなかった）
 lot はここでは「（品物の）ひと組、ひとまとまり」、entire は「全部の」です。塩を入れてしまったひとまとまりを全部捨てたのですから、前の文の空所も「一度に作ったひとまとまり」を表す語だと分かります。batch は「（一度に作る）一回分、ひとまとまり」なので、4が正解です。
 この問題の型：言いかえ（one batch of cookies → the entire lot）
 【ほかの選択肢】

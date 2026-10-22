@@ -7,7 +7,7 @@ answerText: carving
 （英文）
 The artist made a living by ［carving］ detailed figures out of stone. In order to cut such a hard substance, she used a number of special tools.
 （訳）
-その芸術家は、石から細かいところまで作りこんだ像を（彫る）ことで生計を立てていました。そのようなかたい物質を切るために、彼女はいくつもの特別な道具を使いました。
+その芸術家は、石から細かな像を（彫る）ことで生計を立てていました。そのようなかたい物質を切るために、彼女はいくつもの特別な道具を使いました。
 （選択肢の意味）
 1 carving：彫ること、刻むこと
 2 luring：おびき寄せること、誘い出すこと
@@ -15,7 +15,7 @@ The artist made a living by ［carving］ detailed figures out of stone. In orde
 4 ranking：順位をつけること
 【考え方】
 まず見るところ：空所のあとの out of stone と、続く文の cut such a hard substance
-空所のあとは detailed figures out of stone（石から細かい像を）です。figures は「像、人形」、out of ～ は「～を材料にして」です。続く文を見ます。
+空所のあとは detailed figures out of stone（石から細かな像を）です。detailed は「細かな、細部までくわしい」、figures は「像、人形」、out of ～ は「～を材料にして」です。続く文を見ます。
 In order to cut such a hard substance, she used a number of special tools.（そのようなかたい物質を切るために、彼女はいくつもの特別な道具を使った）
 such a hard substance（そのようなかたい物質）は stone（石）を指しています。石を切って像を作るのですから、空所には「彫る」が入ります。carve A out of B で「BからAを彫る」となるので、1が正解です。made a living by ～ing は「～して生計を立てた（暮らしのためのお金をかせいだ）」です。
 この問題の型：指示語（such a hard substance が stone を指す）、言いかえ（carving → cut）
