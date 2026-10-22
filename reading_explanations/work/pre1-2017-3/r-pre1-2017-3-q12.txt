@@ -1,0 +1,30 @@
+---
+choices: depiction | grain | oppression | unrest
+answerText: depiction
+---
+【正解】1 depiction（描写）
+【和訳】
+（英文）
+The artist's paintings are famous for their ［depiction］ of life in big cities. She is especially well-known for her paintings of families in urban parks.
+（訳）
+その画家の絵は、大都市の生活の（描写）で有名です。彼女は特に、都会の公園にいる家族を描いた絵でよく知られています。
+（選択肢の意味）
+1 depiction：描写（絵や文章で、ありのままにえがき表すこと）
+2 grain：穀物；（砂などの）粒
+3 oppression：抑圧（力でおさえつけること）
+4 unrest：（社会の）不安、騒ぎ
+【考え方】
+まず見るところ：2文目の her paintings of families in urban parks
+1文目は、画家の絵が何によって有名なのかを述べています。
+The artist's paintings are famous for their (　) of life in big cities.（その画家の絵は、大都市の生活の（　）で有名だ）
+be famous for ～ は「～で有名だ」です。2文目で、その具体例が示されています。
+She is especially well-known for her paintings of families in urban parks.（彼女は特に、都会の公園にいる家族を描いた絵でよく知られている）
+urban は「都会の」という意味です。都会の公園の家族を描いた絵は、「大都市の生活をえがいたもの」の一つです。depiction of life in big cities で「大都市の生活の描写」となり、2文目とつながるので、1が正解です。
+この問題の型：具体例とまとめ（都会の公園の家族の絵→大都市の生活の描写）
+【ほかの選択肢】
+2 grain は「穀物、粒」です。「大都市の生活の穀物で有名だ」となり、意味が通りません。
+3 oppression は「抑圧」です。「大都市の生活の抑圧」で有名だとすると、2文目の、公園にいる家族の絵という具体例と結びつきません。
+4 unrest は「社会の不安、騒ぎ」です。2文目の公園にいる家族の絵は、騒ぎや不安を表すものとしては書かれておらず、具体例とつながりません。
+【覚えるポイント】
+・depiction：「描写」。動詞は depict（えがく、描写する）です。
+・1文目の空所のあとに especially（特に）で始まる文が続くときは、それが1文目の具体例になっていることが多いので、その具体例をまとめて言う語を選ぶのが手がかりになります。
