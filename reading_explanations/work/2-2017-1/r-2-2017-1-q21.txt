@@ -1,6 +1,7 @@
 ---
 choices: a new hope for | less common in | a big concern for | easier to cure in
 answerText: a big concern for
+reviewed: yes
 ---
 【正解】3 a big concern for（～にとっての大きな心配の種）
 【和訳】

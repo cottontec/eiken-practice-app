@@ -1,6 +1,7 @@
 ---
 choices: A majority of people in Cairo were poor during the 1950s. | More young Zabbaleen now have the chance to attend university. | Cities with over 15 million people have found a cheaper way to collect garbage. | European companies can collect garbage at half of the cost of Egyptian companies.
 answerText: More young Zabbaleen now have the chance to attend university.
+reviewed: yes
 ---
 【正解】2 More young Zabbaleen now have the chance to attend university.（今では、より多くの若いザバリーンが、大学に通う機会を持っている。）
 【和訳】

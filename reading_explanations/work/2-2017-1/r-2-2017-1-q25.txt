@@ -1,6 +1,7 @@
 ---
 choices: Furthermore | Similarly | On the other hand | To make matters worse
 answerText: On the other hand
+reviewed: yes
 ---
 【正解】3 On the other hand（その一方で、他方では）
 【和訳】

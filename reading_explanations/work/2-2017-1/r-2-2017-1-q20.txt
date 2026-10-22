@@ -1,6 +1,7 @@
 ---
 choices: will be | to be | had been | are being
 answerText: will be
+reviewed: yes
 ---
 【正解】1 will be（〔未来に〕いるだろう）
 【和訳】

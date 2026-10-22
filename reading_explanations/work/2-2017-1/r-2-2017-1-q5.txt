@@ -1,6 +1,7 @@
 ---
 choices: politely | accidentally | emotionally | frequently
 answerText: frequently
+reviewed: yes
 ---
 【正解】4 frequently（頻繁に、たびたび）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: train | measure | modify | tolerate
 answerText: modify
+reviewed: yes
 ---
 【正解】3 modify（〔一部を〕変える、修正する）
 【和訳】

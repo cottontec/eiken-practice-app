@@ -1,6 +1,7 @@
 ---
 choices: send off | refrain from | result in | look into
 answerText: look into
+reviewed: yes
 ---
 【正解】4 look into（調べる）
 【和訳】

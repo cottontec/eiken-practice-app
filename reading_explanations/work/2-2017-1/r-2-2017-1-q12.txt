@@ -1,6 +1,7 @@
 ---
 choices: put together | went on | used up | turned off
 answerText: put together
+reviewed: yes
 ---
 【正解】1 put together（まとめ上げた、作り上げた）
 【和訳】

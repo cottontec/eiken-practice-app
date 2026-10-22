@@ -1,6 +1,7 @@
 ---
 choices: They used it as food for their animals or turned it into new products. | They took it to garbage collection facilities using their donkeys and carts. | The women sorted it and the men took it back to where it came from. | The men used it to produce the materials they needed to build their farms.
 answerText: They used it as food for their animals or turned it into new products.
+reviewed: yes
 ---
 【正解】1 They used it as food for their animals or turned it into new products.（自分たちの動物のえさとして使ったり、新しい製品に変えたりした。）
 【和訳】

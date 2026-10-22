@@ -1,6 +1,7 @@
 ---
 choices: afraid | dying | slow | heavy
 answerText: dying
+reviewed: yes
 ---
 【正解】2 dying（be dying to ～ で「～したくてたまらない」）
 【和訳】

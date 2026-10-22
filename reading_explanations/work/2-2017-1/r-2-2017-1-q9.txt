@@ -1,6 +1,7 @@
 ---
 choices: prospects | religions | victims | manuals
 answerText: prospects
+reviewed: yes
 ---
 【正解】1 prospects（見通し、見込み）
 【和訳】

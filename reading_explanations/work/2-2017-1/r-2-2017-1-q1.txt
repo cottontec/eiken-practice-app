@@ -1,6 +1,7 @@
 ---
 choices: overlaps | emphasizes | identifies | organizes
 answerText: overlaps
+reviewed: yes
 ---
 【正解】1 overlaps（〔時間などが〕重なる）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: They had poor living conditions and often became sick. | They were unable to make enough money to feed their families. | The government did not allow them to get an education. | The government did not provide them with computers.
 answerText: They had poor living conditions and often became sick.
+reviewed: yes
 ---
 【正解】1 They had poor living conditions and often became sick.（彼らは生活の環境が悪く、よく病気になった。）
 【和訳】

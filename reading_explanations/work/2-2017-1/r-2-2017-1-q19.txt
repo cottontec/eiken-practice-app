@@ -1,6 +1,7 @@
 ---
 choices: Before | Until | Since | Once
 answerText: Once
+reviewed: yes
 ---
 【正解】4 Once（いったん～したら）
 【和訳】

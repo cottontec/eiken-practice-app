@@ -1,6 +1,7 @@
 ---
 choices: A bee learns some important lessons about life. | A cat becomes good friends with a talking tree. | A boy loses his toy and meets some other characters. | A family of bears has trouble finding the way home.
 answerText: A boy loses his toy and meets some other characters.
+reviewed: yes
 ---
 【正解】3 A boy loses his toy and meets some other characters.（男の子がおもちゃをなくし、ほかの何人かの登場人物に出会う。）
 【和訳】

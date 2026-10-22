@@ -1,6 +1,7 @@
 ---
 choices: are smaller and more easily damaged than athletes' brains. | can be cured of dizziness by scientists researching the brain. | produce more liquid to help them process signals more efficiently. | have developed a different way to process signals sent from their ears.
 answerText: have developed a different way to process signals sent from their ears.
+reviewed: yes
 ---
 【正解】4 have developed a different way to process signals sent from their ears.（耳から送られる信号を処理する、ちがうやり方を発達させてきた。）
 【和訳】

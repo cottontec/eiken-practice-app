@@ -1,6 +1,7 @@
 ---
 choices: hire new employees | invite more customers | ask for advice | get rid of tipping
 answerText: get rid of tipping
+reviewed: yes
 ---
 【正解】4 get rid of tipping（チップをなくす）
 【和訳】

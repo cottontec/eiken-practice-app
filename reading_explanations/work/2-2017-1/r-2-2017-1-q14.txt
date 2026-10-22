@@ -1,6 +1,7 @@
 ---
 choices: angle | account | payment | production
 answerText: account
+reviewed: yes
 ---
 【正解】2 account（on account of ～ で「～のために、～が原因で」）
 【和訳】

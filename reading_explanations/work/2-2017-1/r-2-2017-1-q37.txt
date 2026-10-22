@@ -1,6 +1,7 @@
 ---
 choices: They want to find a way to support other developing countries. | They think that it is cleaner and safer to bury garbage in the ground. | They believe that it is cheaper and better for the environment. | They hope that it will provide more jobs for people in the city.
 answerText: They believe that it is cheaper and better for the environment.
+reviewed: yes
 ---
 【正解】3 They believe that it is cheaper and better for the environment.（彼らは、そのほうが費用が安く、環境にもよいと考えている。）
 【和訳】

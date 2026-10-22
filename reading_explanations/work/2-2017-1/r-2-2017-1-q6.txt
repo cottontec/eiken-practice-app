@@ -1,6 +1,7 @@
 ---
 choices: defends | evaluates | cheers | satisfies
 answerText: evaluates
+reviewed: yes
 ---
 【正解】2 evaluates（評価する）
 【和訳】

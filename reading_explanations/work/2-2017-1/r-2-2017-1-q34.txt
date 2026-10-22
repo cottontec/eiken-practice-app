@@ -1,6 +1,7 @@
 ---
 choices: hired a group of people to collect and recycle garbage. | asked its population to make efforts to reduce the amount of garbage. | not provided an official service for dealing with garbage. | not had enough money to pay the people who removed garbage.
 answerText: not provided an official service for dealing with garbage.
+reviewed: yes
 ---
 【正解】3 not provided an official service for dealing with garbage.（ごみを処理するための公式のサービスを提供していなかった。）
 【和訳】

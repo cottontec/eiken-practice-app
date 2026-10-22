@@ -1,6 +1,7 @@
 ---
 choices: district | mess | sense | purpose
 answerText: mess
+reviewed: yes
 ---
 【正解】2 mess（散らかった状態）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: appointments | journeys | prayers | vehicles
 answerText: prayers
+reviewed: yes
 ---
 【正解】3 prayers（祈り）
 【和訳】

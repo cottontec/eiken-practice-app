@@ -1,6 +1,7 @@
 ---
 choices: visible | various | delicious | distant
 answerText: distant
+reviewed: yes
 ---
 【正解】4 distant（遠い、遠く離れた）
 【和訳】

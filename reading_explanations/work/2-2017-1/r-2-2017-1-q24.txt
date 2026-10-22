@@ -1,6 +1,7 @@
 ---
 choices: make money through tips | find a second job | return money to the restaurant | pay fewer taxes
 answerText: make money through tips
+reviewed: yes
 ---
 【正解】1 make money through tips（チップでお金をかせぐ）
 【和訳】

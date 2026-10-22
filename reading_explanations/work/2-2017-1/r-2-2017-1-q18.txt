@@ -1,6 +1,7 @@
 ---
 choices: Will | Had | Might | Were
 answerText: Had
+reviewed: yes
 ---
 【正解】2 Had（Had they allowed ～ で「もし彼らが～を許していたら」）
 【和訳】

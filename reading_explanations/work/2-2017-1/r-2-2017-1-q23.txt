@@ -1,6 +1,7 @@
 ---
 choices: be impossible to create | take time to develop | build demand for | reduce the damage of
 answerText: take time to develop
+reviewed: yes
 ---
 【正解】2 take time to develop（開発するには時間がかかる）
 【和訳】

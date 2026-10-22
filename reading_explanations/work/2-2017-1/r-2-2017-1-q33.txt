@@ -1,6 +1,7 @@
 ---
 choices: To reduce the amount of practice needed to become a good dancer. | To treat health problems that have been difficult to treat. | To help people who have trouble with their hearing. | To show people how to learn to concentrate better.
 answerText: To treat health problems that have been difficult to treat.
+reviewed: yes
 ---
 【正解】2 To treat health problems that have been difficult to treat.（これまで治療が難しかった健康上の問題を治療するために。）
 【和訳】

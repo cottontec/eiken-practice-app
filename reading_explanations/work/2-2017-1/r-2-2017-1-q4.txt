@@ -1,6 +1,7 @@
 ---
 choices: stir | roll | orbit | curl
 answerText: stir
+reviewed: yes
 ---
 【正解】1 stir（かき混ぜる）
 【和訳】

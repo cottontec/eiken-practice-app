@@ -1,6 +1,7 @@
 ---
 choices: drop in | keep up | get along | take over
 answerText: get along
+reviewed: yes
 ---
 【正解】3 get along（仲よくやっていく）
 【和訳】

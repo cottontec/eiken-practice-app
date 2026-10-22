@@ -1,6 +1,7 @@
 ---
 choices: signals cause the brain to think that the body is moving even though it is not. | an object makes people lose their balance by blocking signals between the body and the brain. | they have been standing for such a long time that their body becomes tired. | the liquids that they have drunk cause their brains to feel like they are spinning.
 answerText: signals cause the brain to think that the body is moving even though it is not.
+reviewed: yes
 ---
 【正解】1 signals cause the brain to think that the body is moving even though it is not.（実際には動いていないのに、信号によって脳が、体が動いていると思ってしまう〔から〕。）
 【和訳】

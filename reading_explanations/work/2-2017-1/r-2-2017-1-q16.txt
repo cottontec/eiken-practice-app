@@ -1,6 +1,7 @@
 ---
 choices: With help | In practice | By birth | On schedule
 answerText: In practice
+reviewed: yes
 ---
 【正解】2 In practice（実際には）
 【和訳】

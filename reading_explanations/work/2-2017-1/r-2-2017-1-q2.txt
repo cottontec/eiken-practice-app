@@ -1,6 +1,7 @@
 ---
 choices: arrest | detective | collaboration | democracy
 answerText: collaboration
+reviewed: yes
 ---
 【正解】3 collaboration（共同作業、協力）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: She wants to introduce her friend to him. | She wants his company to publish her book. | He edited another children's book that she wrote. | He gave her his e-mail address at a book event last year.
 answerText: She wants his company to publish her book.
+reviewed: yes
 ---
 【正解】2 She wants his company to publish her book.（彼女は、彼の会社に自分の本を出版してほしいと思っている。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: Fortunately | Therefore | In exchange | What is more
 answerText: What is more
+reviewed: yes
 ---
 【正解】4 What is more（さらに、その上）
 【和訳】

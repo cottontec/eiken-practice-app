@@ -1,6 +1,7 @@
 ---
 choices: asks Mr. Fields to send a copy of her book to some publishers for her. | wants Mr. Fields to recommend a professional artist for her book. | would like Mr. Fields to call her at home by the end of the week. | gives Mr. Fields another way to contact her if he wants to speak to her.
 answerText: gives Mr. Fields another way to contact her if he wants to speak to her.
+reviewed: yes
 ---
 【正解】4 gives Mr. Fields another way to contact her if he wants to speak to her.（フィールズさんが彼女と話したい場合に備えて、彼女に連絡する別の方法を伝えている。）
 【和訳】

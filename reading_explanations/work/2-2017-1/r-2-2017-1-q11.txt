@@ -1,6 +1,7 @@
 ---
 choices: wrap | dig | catch | reach
 answerText: catch
+reviewed: yes
 ---
 【正解】3 catch（catch one's breath で「息を整える、ひと息つく」）
 【和訳】
