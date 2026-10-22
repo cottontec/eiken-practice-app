@@ -1,0 +1,33 @@
+---
+choices: The human remains there indicate the Philistines were far less aggressive than their reputation has suggested. | Analysis of the perfume placed near some of the bodies has revealed that the Philistines traded with other peoples. | The pottery at the site indicates the Philistines were more technologically advanced than previously thought. | Evidence found there suggests the Philistines fought more against each other than against other peoples.
+answerText: The human remains there indicate the Philistines were far less aggressive than their reputation has suggested.
+---
+【正解】1 The human remains there indicate the Philistines were far less aggressive than their reputation has suggested.（そこの人骨は、ペリシテ人が、その評判が示してきたよりもはるかに攻撃的でなかったことを示している。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：How has the recently discovered gravesite changed researchers’ thinking about the Philistines?（最近発見された墓地は、ペリシテ人についての研究者たちの考えをどのように変えましたか。）
+1 The human remains there indicate the Philistines were far less aggressive than their reputation has suggested.（そこの人骨は、ペリシテ人が、その評判が示してきたよりもはるかに攻撃的でなかったことを示している。）
+2 Analysis of the perfume placed near some of the bodies has revealed that the Philistines traded with other peoples.（いくつかの遺体の近くに置かれていた香水を分析したところ、ペリシテ人がほかの民族と交易していたことが明らかになった。）
+3 The pottery at the site indicates the Philistines were more technologically advanced than previously thought.（その場所の陶器は、ペリシテ人が、以前考えられていたよりも技術的に進んでいたことを示している。）
+4 Evidence found there suggests the Philistines fought more against each other than against other peoples.（そこで見つかった証拠は、ペリシテ人が、ほかの民族とよりも、仲間どうしでより多く戦っていたことを示している。）
+【考え方】
+まず見るところ：第3段落の “There is no evidence of any kind of trauma on the bones, from war or inter-personal violence.” と、続く This certainly does not match the traditional impression
+2016年に見つかった墓地については、第3段落に書かれています。アリゾナ州立大学の人類学者シェリー・フォックスは、次のように言っています。
+“There is no evidence of any kind of trauma on the bones, from war or inter-personal violence.”（「骨には、戦争や人と人との暴力による、どんな種類の外傷の証拠もない」）
+trauma は、ここでは「外傷（体が受けたけが）」という意味です。骨に戦いのけがのあとがない、ということです。
+This certainly does not match the traditional impression of the Philistines as a people who constantly engaged in conflict.（これは確かに、絶えず争いをしていた民族という、ペリシテ人についての昔からの印象と一致しない）
+本文と選択肢を対にすると、次のようになります。
+本文 the bones（骨）→ 選択肢 The human remains（人骨）
+本文 the traditional impression of the Philistines as a people who constantly engaged in conflict（絶えず争いをしていた民族という昔からの印象）→ 選択肢 their reputation（彼らの評判）
+本文 no evidence of any kind of trauma on the bones, from war or inter-personal violence（戦争や暴力による外傷の証拠がまったくない）→ 選択肢 far less aggressive than their reputation has suggested（評判が示してきたよりはるかに攻撃的でなかった）と読み取れる
+骨に戦いのあとがないことから、ペリシテ人は言われてきたほど争いばかりしていたわけではない、と考えられるので、1が正解です。
+この問題の型：言いかえ（the traditional impression → their reputation）／推論（骨に外傷がない→評判ほど攻撃的ではなかった）
+【ほかの選択肢】
+2 本文にありません。香水のびんが人骨の鼻のそばに置かれていたことは書かれていますが、香水を分析したという話も、ほかの民族と交易していたという話もありません。本文では、香水のびんは「単なる野蛮な戦士」という考えと食い違う証拠として出てきます。
+3 本文と合いません。陶器については第4段落に、エーゲ海の民族のものに似ていて、ペリシテ人が移住してきた人々だったことを示すと書かれています。技術の進み具合が以前の考えより高かったという話はありません。
+4 本文と反対です。骨には war or inter-personal violence（戦争や人と人との暴力）による外傷の証拠がないと書かれているので、仲間どうしでより多く戦っていたことを示す証拠はありません。
+【覚えるポイント】
+・reputation：「評判」。本文の the traditional impression（昔からの印象）と同じものを指しています。
+・「研究者の考えがどう変わったか」をたずねる設問では、本文の does not match（一致しない）や conflicts with（食い違う）のような言葉を探すと、「昔の考え」と「新しい発見」の違いをつかむ手がかりになります。
