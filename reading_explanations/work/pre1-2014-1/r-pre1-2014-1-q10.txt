@@ -1,6 +1,7 @@
 ---
 choices: hysterical | concise | drowsy | intact
 answerText: hysterical
+reviewed: yes
 ---
 【正解】1 hysterical（ひどく取り乱した、感情をおさえられない）
 【和訳】

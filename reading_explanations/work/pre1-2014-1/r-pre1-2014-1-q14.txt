@@ -1,6 +1,7 @@
 ---
 choices: disgrace | refuge | bundle | scarcity
 answerText: scarcity
+reviewed: yes
 ---
 【正解】4 scarcity（不足、少ないこと）
 【和訳】

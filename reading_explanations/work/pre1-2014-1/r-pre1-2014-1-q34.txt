@@ -1,6 +1,7 @@
 ---
 choices: can be produced more cheaply than the antibacterial medications commonly used in hospitals. | offers a greater nutritional benefit to hospital patients than other foods that are high in sugar. | can form a skin-like barrier when applied to wounds due to its ability to absorb hydrogen peroxide. | contains a protein that, when combined with moisture, produces an antibacterial compound.
 answerText: contains a protein that, when combined with moisture, produces an antibacterial compound.
+reviewed: yes
 ---
 【正解】4 contains a protein that, when combined with moisture, produces an antibacterial compound.（水分と結びつくと抗菌性の化合物を作り出すたんぱく質を含んでいる）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: shown into | relieved of | drawn into | modeled on
 answerText: drawn into
+reviewed: yes
 ---
 【正解】3 drawn into（巻き込まれる、引きずり込まれる）
 【和訳】

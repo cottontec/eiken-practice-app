@@ -1,6 +1,7 @@
 ---
 choices: Chile needs to share some of its ports with Bolivia because of the great expense required to maintain them. | Chile wants to be seen as treating Bolivia fairly in the eyes of the international community. | Chile hopes to convince Bolivia to cancel its plans for a tunnel that would give Bolivia access to nitrate reserves. | Chile wants to prevent an agreement between Bolivia and Peru that would lead to more competition with Chilean ports.
 answerText: Chile wants to be seen as treating Bolivia fairly in the eyes of the international community.
+reviewed: yes
 ---
 【正解】2 Chile wants to be seen as treating Bolivia fairly in the eyes of the international community.（チリは、国際社会から、ボリビアを公平に扱っていると見られたいと思っている。）
 【和訳】

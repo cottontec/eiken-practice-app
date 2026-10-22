@@ -1,6 +1,7 @@
 ---
 choices: The president of Bolivia has decided to pursue the case against the wishes of his country's citizens. | It has not been officially determined whether the inhabitants of the area in question are Bolivian or Chilean. | A decision in favor of Bolivia could encourage other countries to make similar claims. | The people of the Atacama Desert have broad support in their campaign for independence.
 answerText: A decision in favor of Bolivia could encourage other countries to make similar claims.
+reviewed: yes
 ---
 【正解】3 A decision in favor of Bolivia could encourage other countries to make similar claims.（ボリビアに有利な判決が出ると、ほかの国々が同じような主張をするよううながしかねない。）
 【和訳】

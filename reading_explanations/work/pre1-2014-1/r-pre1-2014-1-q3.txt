@@ -1,6 +1,7 @@
 ---
 choices: margin | ascent | portion | intent
 answerText: ascent
+reviewed: yes
 ---
 【正解】2 ascent（登ること、登り）
 【和訳】

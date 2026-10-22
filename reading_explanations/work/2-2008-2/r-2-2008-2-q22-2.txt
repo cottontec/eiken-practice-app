@@ -1,0 +1,20 @@
+---
+choices: as | to | so | kind | help
+answerText: kind
+order: 3 4 1 2 5
+---
+【正解】4 kind（この問題の2番目）
+【完成文】
+Excuse me. Would you be ( so kind as to help ) me find my contact lens? I dropped it somewhere here on the sidewalk.
+並べ方：3 so → 4 kind → 1 as → 2 to → 5 help（2番目は4、4番目は2）
+【和訳】
+A：すみません。コンタクトレンズを探すのを手伝っていただけないでしょうか。この歩道のどこかに落としてしまったんです。
+B：もちろんです、奥さま。ちょっと見てみましょう。
+【考え方】
+まず、場面を確かめます。Aはコンタクトレンズを歩道に落とし、相手に助けを頼んでいます。Bは Of course（もちろん）と引き受けています。ですから、Aの文は「～していただけませんか」というていねいなお願いだと分かります。
+選択肢に so・as・to があることに注目します。so ～ as to ＋ 動詞の原形 は「…するほど～だ」という形です。これを be kind（親切である）と組み合わせると、be so kind as to ～（親切にも～する）となります。Would you be so kind as to ～? は「～していただけませんか」という、とてもていねいな頼み方です。
+そこで be のあとに 3 so → 4 kind → 1 as → 2 to と並べ、to のあとに動詞の原形 5 help を置きます。help のあとは空所の外の me find my contact lens に続き、help 人 ＋ 動詞の原形（人が～するのを手伝う）の形になります。
+まちがえやすいのは、kind so as to のように so と kind を逆にする並べ方です。so は kind の前に置いて「それほど親切な」と強める語なので、so kind の順にします。
+【覚えるポイント】
+・Would you be so kind as to ～?：「～していただけませんか」。とてもていねいなお願いの言い方です。
+・help 人 ＋ 動詞の原形：「人が～するのを手伝う」。

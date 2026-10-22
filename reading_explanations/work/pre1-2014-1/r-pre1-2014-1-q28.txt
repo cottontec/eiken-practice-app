@@ -1,6 +1,7 @@
 ---
 choices: As a consequence | Nonetheless | In addition | Similarly
 answerText: Nonetheless
+reviewed: yes
 ---
 【正解】2 Nonetheless（それでもなお、それにもかかわらず）
 【和訳】

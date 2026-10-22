@@ -1,6 +1,7 @@
 ---
 choices: unorthodox | conclusive | virtuous | victorious
 answerText: unorthodox
+reviewed: yes
 ---
 【正解】1 unorthodox（型破りな、ふつうのやり方と違う）
 【和訳】

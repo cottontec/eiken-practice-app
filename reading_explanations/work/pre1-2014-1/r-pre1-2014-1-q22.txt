@@ -1,6 +1,7 @@
 ---
 choices: call on | kick off | take on | grow into
 answerText: kick off
+reviewed: yes
 ---
 【正解】2 kick off（始める）
 【和訳】

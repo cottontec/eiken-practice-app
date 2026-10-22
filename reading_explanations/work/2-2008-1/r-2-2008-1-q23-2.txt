@@ -1,0 +1,21 @@
+---
+choices: is | important | nothing | more | than
+answerText: is
+order: 3 1 4 2 5
+---
+【正解】1 is（この問題の2番目）
+【完成文】
+Susan makes sure that she eats well and exercises often. She believes that ( nothing is more important than ) good health.
+並べ方：3 nothing → 1 is → 4 more → 2 important → 5 than（2番目は1、4番目は2）
+【和訳】
+スーザンは、必ずしっかり食べて、よく運動するようにしています。彼女は、健康ほど大切なものはないと信じています。
+【考え方】
+選択肢に 4 more と 5 than があるので、比較級（「～より…だ」と比べるときの形）を使った文だと考えます。more important than ～ で「～より大切な」となります。
+that のあとには〈主語＋動詞〉が必要です。主語になれるのは名詞の 3 nothing（何も～ない）、動詞は 1 is です。そこで nothing is more important than と並べます。
+空所のあとは good health（健康）なので、nothing is more important than good health で「健康より大切なものは何もない」、つまり「健康ほど大切なものはない」という意味になります。〈Nothing is ＋比較級＋than ～〉は、意味としては「～が一番…だ」ということを表す言い方です。
+1文目の「スーザンは必ずしっかり食べて、よく運動するようにしている」という話とも合います。makes sure that ～ は「必ず～するようにする」です。
+important more のように more をうしろに置くまちがいに注意します。more は important の前に置いて more important とします。
+したがって2番目は1 is です。
+【覚えるポイント】
+・Nothing is ＋比較級＋than ～：「～ほど…なものはない（～が一番…だ）」。
+・make sure that ～：「必ず～するようにする、～を確かめる」。

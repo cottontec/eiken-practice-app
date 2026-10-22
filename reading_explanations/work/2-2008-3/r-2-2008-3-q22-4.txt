@@ -1,0 +1,21 @@
+---
+choices: strange | it | she | that | thought
+answerText: strange
+order: 3 5 2 1 4
+---
+【正解】1 strange（この問題の4番目）
+【完成文】
+When Linda came home from work on Friday, ( she thought it strange that ) the lights in the living room were on. But then she remembered that her daughter was visiting for a few days.
+並べ方：3 she → 5 thought → 2 it → 1 strange → 4 that（2番目は5、4番目は1）
+【和訳】
+金曜日にリンダが仕事から帰ってくると、彼女は居間の明かりがついているのを変だと思いました。でもそのあと、娘が数日間泊まりに来ていることを思い出しました。
+【考え方】
+4番目を決めるには、think のあとの形に注目します。
+空所の前の When Linda came home from work on Friday,（金曜日にリンダが仕事から帰ってきたとき）のあとには、文の中心となる〈主語＋動詞〉が必要です。3 she と 5 thought で she thought（彼女は思った）とします。
+think には、think ＋ もの ＋ ～（ものを～だと思う）という使い方があります。「ものを」にあたる部分が長いときは、仮に it を置き、本当の内容を that 以下で後ろに回します。ここでは、変だと思った中身が the lights in the living room were on（居間の明かりがついていた）という長い内容なので、thought it strange that ～ の形になります。
+it のすぐあとに、どう思ったのかを表す 1 strange（変な）が入ります。これが4番目です。最後に 4 that を置き、空所のあとの the lights … につなげます。
+したがって4番目は1 strange です。
+もし it と strange の順を逆にして thought strange it that … とすると、think ＋ もの ＋ ～ の順にならず、文が成り立ちません。
+【覚えるポイント】
+・think it strange that ～：「～ということを変だと思う」。it は that 以下を指す仮の語です。
+・find it ～ that … も同じ形で、「…ということを～だと感じる」という意味になります。

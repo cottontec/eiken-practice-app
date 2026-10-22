@@ -1,6 +1,7 @@
 ---
 choices: ensuing | deploying | sprouting | abstaining
 answerText: abstaining
+reviewed: yes
 ---
 【正解】4 abstaining（ひかえている、つつしんでいる）
 【和訳】

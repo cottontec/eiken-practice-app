@@ -1,0 +1,21 @@
+---
+choices: given | out | forms to | fill | was
+answerText: fill
+order: 5 1 3 4 2
+---
+【正解】4 fill（この問題の4番目）
+【完成文】
+When Kathy went to the hospital for the first time, she ( was given forms to fill out ). After she was done writing, she gave them to the nurse and waited to see the doctor.
+並べ方：5 was → 1 given → 3 forms to → 4 fill → 2 out（2番目は1、4番目は4）
+【和訳】
+キャシーが初めてその病院に行ったとき、彼女は記入する用紙を渡されました。書き終えると、彼女はそれを看護師に渡して、医師の診察を待ちました。
+【考え方】
+4番目を決めるには、to のあとに何がくるかを考えます。
+空所の前の she のあとには動詞が必要です。2文目に After she was done writing, she gave them to the nurse（書き終えたあと、それらを看護師に渡した）とあるので、キャシーは書くものを渡されたと分かります。そこで受け身（「～される」という形）を使い、5 was と 1 given で was given（渡された）とします。続けて、何を渡されたのかを表す 3 forms to を置きます。forms は「用紙、書類」です。
+forms to のあとには動詞の元の形がきます。残りの 4 fill と 2 out は fill out ～（～に記入する）という組み合わせになるので、fill を先に置きます。これが4番目です。最後に out を置いて forms to fill out（記入するための用紙）となります。fill out のあとに本来くる「用紙」は、前の forms がその役をしています。
+2文目の writing（書くこと）や gave them（それらを渡した）とも、「用紙に記入して看護師に渡した」という流れでつながります。
+したがって4番目は4 fill です。
+もし out を先にして forms to out fill とすると、to のあとに動詞の元の形がこないので文になりません。
+【覚えるポイント】
+・fill out ～：「（用紙・書類）に記入する」。fill in ～ もほぼ同じ意味です。
+・名詞＋to＋動詞：「～するための（名詞）」。forms to fill out で「記入するための用紙」。

@@ -6,8 +6,8 @@
       "batchId": "pre1-2014-1",
       "target": 41,
       "written": 41,
-      "contentReviewed": 0,
-      "status": "complete_unreviewed",
+      "contentReviewed": 41,
+      "status": "complete_reviewed",
       "blank": 0,
       "issues": 0,
       "checkErrors": 0,
@@ -105,5 +105,5 @@
       "status": "not_started"
     }
   ],
-  "updatedAt": "2026-10-22T04:46:44+00:00"
+  "updatedAt": "2026-10-22T04:52:25+00:00"
 }

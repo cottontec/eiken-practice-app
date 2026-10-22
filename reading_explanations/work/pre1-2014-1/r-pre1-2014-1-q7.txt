@@ -1,6 +1,7 @@
 ---
 choices: bachelor | tenant | mediator | physician
 answerText: mediator
+reviewed: yes
 ---
 【正解】3 mediator（調停者、仲裁者）
 【和訳】

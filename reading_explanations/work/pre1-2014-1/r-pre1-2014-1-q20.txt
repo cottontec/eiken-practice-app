@@ -1,6 +1,7 @@
 ---
 choices: institute | familiarize | disarm | embrace
 answerText: familiarize
+reviewed: yes
 ---
 【正解】2 familiarize（慣れ親しませる、よく知るようにさせる）
 【和訳】

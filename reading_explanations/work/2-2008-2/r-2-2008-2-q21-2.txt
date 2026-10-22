@@ -1,0 +1,21 @@
+---
+choices: to | if | you | quit | were
+answerText: you
+order: 2 3 5 1 4
+---
+【正解】3 you（この問題の2番目）
+【完成文】
+Well, ( if you were to quit ) your job, Penny, what would you do instead?
+並べ方：2 if → 3 you → 5 were → 1 to → 4 quit（2番目は3、4番目は1）
+【和訳】
+A：レストランで働くのは好きだけど、ずっとウェイトレスでいたいわけではないの。
+B：そうか、ペニー、もし仕事をやめるとしたら、代わりに何をするの？
+【考え方】
+まず、空所のあとを見ます。your job, Penny, what would you do instead?（ペニー、代わりに何をするの？）とあり、would が使われています。would は、ここでは「（もし～なら）～するだろう」と、実際とはちがう仮の話をするときの形です。そこで、空所には「もし～なら」という条件の部分が入ると考えます。
+条件を表す 2 if を最初に置き、主語として 3 you を続けます。
+次に、残りの 5 were・1 to・4 quit で were to quit を作ります。if ＋ 主語 ＋ were to ＋ 動詞の原形 は「もし（これから）～するとしたら」と、未来のことを仮に考えるときの言い方です。quit は「やめる」で、空所のあとの your job がその目的語になり、quit your job（仕事をやめる）とつながります。
+こうして if you were to quit your job（もし仕事をやめるとしたら）が完成します。Aが「ずっとウェイトレスでいたくはない」と言ったので、Bが「もしやめたら何をするの」とたずねる流れになり、会話の内容とも合います。
+まちがえやすいのは、you were quit to のように to の位置をずらす並べ方です。were to のあとに動詞の原形 quit を置かないと、「～するとしたら」の意味になりません。
+【覚えるポイント】
+・if ＋ 主語 ＋ were to ＋ 動詞の原形：「もし（仮に）～するとしたら」。後半は would ＋ 動詞の原形で受けます。
+・quit one's job：「仕事をやめる」。

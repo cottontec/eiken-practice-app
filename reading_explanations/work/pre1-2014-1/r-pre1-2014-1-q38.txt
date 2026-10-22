@@ -1,6 +1,7 @@
 ---
 choices: People who made the transition from farm work to factory work came to enjoy an improvement in job conditions. | Despite initial fears, many farmers found that wages for agricultural work increased due to mechanical advances. | Cloth makers organized protests that drew attention to their skills and gained them new employment opportunities. | Cloth makers initially welcomed weaving machines, but their attitude changed as they began to lose their jobs.
 answerText: People who made the transition from farm work to factory work came to enjoy an improvement in job conditions.
+reviewed: yes
 ---
 【正解】1 People who made the transition from farm work to factory work came to enjoy an improvement in job conditions.（農場の仕事から工場の仕事へ移った人々は、労働条件がよくなったことの恩恵を受けるようになった。）
 【和訳】

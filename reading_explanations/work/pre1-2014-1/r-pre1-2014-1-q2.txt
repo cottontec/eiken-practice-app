@@ -1,6 +1,7 @@
 ---
 choices: extensive | external | extravagant | extinct
 answerText: extravagant
+reviewed: yes
 ---
 【正解】3 extravagant（ぜいたくな、お金を使いすぎる）
 【和訳】

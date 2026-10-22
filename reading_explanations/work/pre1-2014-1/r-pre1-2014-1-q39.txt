@@ -1,6 +1,7 @@
 ---
 choices: Trouble in labor markets will result in people making less money from investments. | While robots will replace humans in many fields, the enormous net increase in jobs will eliminate unemployment. | People will use machine intelligence to enhance their own skills, thereby preserving their value in the labor market. | Although some kinds of work will be worth less, certain specialized areas will see a large rise in wages.
 answerText: Although some kinds of work will be worth less, certain specialized areas will see a large rise in wages.
+reviewed: yes
 ---
 【正解】4 Although some kinds of work will be worth less, certain specialized areas will see a large rise in wages.（一部の種類の仕事は価値が下がるが、ある特定の専門的な分野では賃金が大きく上がる。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: courteous | redundant | paranoid | inclusive
 answerText: paranoid
+reviewed: yes
 ---
 【正解】3 paranoid（被害妄想の、疑いすぎる）
 【和訳】

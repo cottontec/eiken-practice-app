@@ -1,6 +1,7 @@
 ---
 choices: contemporary | obsolete | innovative | tactless
 answerText: obsolete
+reviewed: yes
 ---
 【正解】2 obsolete（時代遅れの、すたれた）
 【和訳】

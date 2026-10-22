@@ -1,6 +1,7 @@
 ---
 choices: censored | dismayed | composed | dispelled
 answerText: censored
+reviewed: yes
 ---
 【正解】1 censored（検閲した）
 【和訳】

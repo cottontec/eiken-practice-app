@@ -1,6 +1,7 @@
 ---
 choices: signals from dogs near them | how well they know a given area | whether their owner can see them | how often commands are repeated
 answerText: whether their owner can see them
+reviewed: yes
 ---
 【正解】3 whether their owner can see them（飼い主に自分が見えているかどうか）
 【和訳】

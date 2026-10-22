@@ -1,6 +1,7 @@
 ---
 choices: synchronized | puzzled | tamed | obsessed
 answerText: obsessed
+reviewed: yes
 ---
 【正解】4 obsessed（とりつかれた、夢中になった）
 【和訳】

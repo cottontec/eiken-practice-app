@@ -1,6 +1,7 @@
 ---
 choices: had actually begun much earlier | did not surprise its designers | failed to reach beyond the exhibit | revealed a major problem
 answerText: failed to reach beyond the exhibit
+reviewed: yes
 ---
 【正解】3 failed to reach beyond the exhibit（展示の外にまでは広がらなかった）
 【和訳】

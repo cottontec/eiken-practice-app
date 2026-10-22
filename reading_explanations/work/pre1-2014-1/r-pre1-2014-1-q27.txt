@@ -1,6 +1,7 @@
 ---
 choices: be unrealistic for poor countries | require a big financial investment | pose a serious danger | meet a practical need
 answerText: meet a practical need
+reviewed: yes
 ---
 【正解】4 meet a practical need（現実の必要を満たす）
 【和訳】

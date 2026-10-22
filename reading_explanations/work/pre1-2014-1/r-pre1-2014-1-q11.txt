@@ -1,6 +1,7 @@
 ---
 choices: disorder | specimen | denial | folklore
 answerText: folklore
+reviewed: yes
 ---
 【正解】4 folklore（民間伝承）
 【和訳】

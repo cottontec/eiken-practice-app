@@ -1,6 +1,7 @@
 ---
 choices: backing | descent | notoriety | evasion
 answerText: notoriety
+reviewed: yes
 ---
 【正解】3 notoriety（悪評、悪名）
 【和訳】

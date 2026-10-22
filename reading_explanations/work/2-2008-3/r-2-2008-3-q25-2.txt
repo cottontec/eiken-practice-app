@@ -1,0 +1,20 @@
+---
+choices: given | out | forms to | fill | was
+answerText: given
+order: 5 1 3 4 2
+---
+【正解】1 given（この問題の2番目）
+【完成文】
+When Kathy went to the hospital for the first time, she ( was given forms to fill out ). After she was done writing, she gave them to the nurse and waited to see the doctor.
+並べ方：5 was → 1 given → 3 forms to → 4 fill → 2 out（2番目は1、4番目は4）
+【和訳】
+キャシーが初めてその病院に行ったとき、彼女は記入する用紙を渡されました。書き終えると、彼女はそれを看護師に渡して、医師の診察を待ちました。
+【考え方】
+まず、2文目を確認します。After she was done writing, she gave them to the nurse（書き終えたあと、彼女はそれらを看護師に渡した）とあります。them（それら）は、キャシーが書いたものです。ですから空所の文では、キャシーが何か書くものを受け取ったと考えられます。
+主語は空所の前の she です。キャシーは用紙を「渡された」側なので、受け身（「～される」という形）を使います。受け身は〈be 動詞＋過去分詞（given のような形）〉なので、5 was と 1 given で was given（渡された）とします。したがって2番目は1 given です。
+give は「人にものを与える」という動詞なので、受け身でも was given のあとに「もの」を置けます。そこで 3 forms to を続けます。forms は「用紙、書類」です。
+forms to のあとには動詞の元の形が必要です。4 fill と 2 out で fill out ～（～に記入する）となり、forms to fill out で「記入するための用紙」となります。to fill out が forms に「どんな用紙か」という説明を付け足しています。
+まちがえやすいのは、she given was … のように was と given の順を逆にする並べ方です。受け身では be 動詞が先にくるので、文になりません。
+【覚えるポイント】
+・be given ～：「～を与えられる、渡される」。give ＋ 人 ＋ もの の「人」を主語にした受け身です。
+・fill out ～：「（用紙）に記入する」。

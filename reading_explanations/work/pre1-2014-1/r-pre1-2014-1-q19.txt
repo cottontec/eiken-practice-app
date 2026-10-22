@@ -1,6 +1,7 @@
 ---
 choices: expertise | prejudice | surplus | fraction
 answerText: expertise
+reviewed: yes
 ---
 【正解】1 expertise（専門知識、専門的な技術）
 【和訳】

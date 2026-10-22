@@ -1,6 +1,7 @@
 ---
 choices: obligated | entrusted | pardoned | stunned
 answerText: stunned
+reviewed: yes
 ---
 【正解】4 stunned（ぼうぜんとした、ひどく驚いた）
 【和訳】

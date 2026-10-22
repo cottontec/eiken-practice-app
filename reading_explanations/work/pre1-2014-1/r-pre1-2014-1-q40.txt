@@ -1,6 +1,7 @@
 ---
 choices: The fact that wage earners will continue to mistakenly associate higher education with earning potential. | The inability of workers to afford products and services due to their sharply reduced earning power. | The fact that automation will encourage people to invest too much money in real estate and stocks. | The tendency of developed nations to encourage large companies to relocate to developing nations.
 answerText: The inability of workers to afford products and services due to their sharply reduced earning power.
+reviewed: yes
 ---
 【正解】2 The inability of workers to afford products and services due to their sharply reduced earning power.（稼ぐ力が急に大きく落ちることで、労働者が製品やサービスを買えなくなること。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: audibly | stoically | lawfully | crudely
 answerText: stoically
+reviewed: yes
 ---
 【正解】2 stoically（苦しさを表に出さずに、じっと耐えて）
 【和訳】

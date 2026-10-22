@@ -1,6 +1,7 @@
 ---
 choices: Bolivia objected to Chile's newly acquired independence, as Bolivia had remained politically loyal to Spain. | Bolivia signed treaties with Britain and the United States even though those countries were on unfriendly terms with Chile. | Chile gained increasing economic and political control over a resource-rich area that Bolivia considered its territory. | Chile heavily taxed companies working in the Atacama Desert, which put a strain on Bolivia's weak economy.
 answerText: Chile gained increasing economic and political control over a resource-rich area that Bolivia considered its territory.
+reviewed: yes
 ---
 【正解】3 Chile gained increasing economic and political control over a resource-rich area that Bolivia considered its territory.（チリが、ボリビアが自国の領土だと考えていた資源の豊かな地域に対して、経済的・政治的な支配を強めていった。）
 【和訳】
@@ -13,19 +14,17 @@ answerText: Chile gained increasing economic and political control over a resour
 3 チリが、ボリビアが自国の領土だと考えていた資源の豊かな地域に対して、経済的・政治的な支配を強めていった。
 4 チリはアタカマ砂漠で活動する企業に重い税金をかけ、そのことがボリビアの弱い経済に負担をかけた。
 【考え方】
-設問は、対立が起きるまでの circumstances（状況、いきさつ）をたずねています。争いの始まりが書かれているのは第2段落です。流れを順に確かめます。
-・ボリビアは1825年に独立し、アタカマ砂漠の海岸に港を作りました。
-・When the desert proved to be rich in nitrate ... Chile pressured Bolivia into signing an 1866 treaty that split the region in half.（砂漠に硝酸塩が豊富だと分かると、チリはボリビアに圧力をかけて、地域を半分に分ける条約に署名させた）。pressure A into doing は「Aに圧力をかけて～させる」という意味です。
-・Chile's strong economy, as well as its alliances with British and American companies, allowed it to aggressively exploit the desert's resources（チリの強い経済力とイギリスやアメリカの企業との協力関係によって、チリは砂漠の資源を積極的に開発し利用できた）。exploit は「（資源を）開発して利用する」という意味です。
-・To counter Chile's growing influence（チリの強まる影響力に対抗するため）、ボリビアは税金をかけ、最後は戦争となり、チリがその地域全体を武力で奪いました。
+設問は、現在の対立につながった circumstances（状況、いきさつ）をたずねています。争いの始まりは第2段落に書かれています。
+ボリビアは1825年に独立したとき、アタカマ砂漠の海岸に港を設けました。その後、When the desert proved to be rich in nitrate ... Chile pressured Bolivia into signing an 1866 treaty that split the region in half.（砂漠に硝酸塩が豊富だと分かると、チリはボリビアに圧力をかけて、地域を半分に分ける1866年の条約に署名させた）とあります。pressure A into doing は「Aに圧力をかけて～させる」という意味です。
+さらに、Chile's strong economy ... allowed it to aggressively exploit the desert's resources（チリは強い経済力によって、砂漠の資源を積極的に開発し利用できた）と続きます。exploit は「（資源を）開発して利用する」という意味です。ボリビアは Chile's growing influence（チリの強まる影響力）に対抗しようとしましたが、最後はチリが戦争で地域全体を武力で奪いました。
 これを選択肢3と対にすると、次のようになります。
-・本文 rich in nitrate（硝酸塩が豊富な）、the desert's resources（砂漠の資源）＝ 選択肢 a resource-rich area（資源の豊かな地域）
-・本文 pressured Bolivia ...、exploit the desert's resources、Chile's growing influence（圧力をかけた、資源を利用した、強まる影響力）＝ 選択肢 gained increasing economic and political control（経済的・政治的な支配を強めていった）
-・本文 it established a port on the coastline of the Atacama Desert（ボリビアがアタカマ砂漠の海岸線に港を設けた）、第4段落の who believe their country was unjustly robbed of its coastline（自分たちの国は不当に海岸線を奪われたと信じている）＝ 選択肢 that Bolivia considered its territory（ボリビアが自国の領土だと考えていた）
+・本文 rich in nitrate、the desert's resources（硝酸塩が豊富、砂漠の資源）＝ 選択肢 a resource-rich area（資源の豊かな地域）
+・本文 条約に無理に署名させる、資源を積極的に利用する、強まる影響力、武力で地域全体を奪う ＝ 選択肢 gained increasing economic and political control（経済的・政治的な支配を強めていった）
+・本文 ボリビアが港を設けた土地で、第4段落にも Bolivians ... believe their country was unjustly robbed of its coastline（ボリビア人は、自国が不当に海岸線を奪われたと信じている）とある ＝ 選択肢 that Bolivia considered its territory（ボリビアが自国の領土だと考えていた）
 よって3が正解です。
 【ほかの選択肢】
 1 本文と食い違っています。本文には When Bolivia declared independence from Spain in 1825（ボリビアが1825年にスペインからの独立を宣言した）とあり、ボリビア自身がスペインから独立しています。ボリビアがスペインに忠実だったことや、チリの独立に反対したことは書かれていません。
-2 国が入れかわっています。本文でイギリスやアメリカの企業と協力関係にあったのは、ボリビアではなくチリです。また、イギリスやアメリカがチリと仲が悪かったという話もありません。
+2 国が入れかわっています。本文でイギリスやアメリカの企業と alliances（協力関係）にあったのは、ボリビアではなくチリです。ボリビアがイギリスやアメリカと条約を結んだ話や、両国がチリと仲が悪かったという話もありません。
 4 税金をかけた側が逆です。本文では Bolivia taxed Chilean companies（ボリビアがチリの企業に税金をかけた）とあり、税金をかけたのはボリビアです。チリの税金がボリビアの経済に負担をかけたという話もありません。
 【覚えるポイント】
 ・pressure A into doing：「Aに圧力をかけて～させる」。

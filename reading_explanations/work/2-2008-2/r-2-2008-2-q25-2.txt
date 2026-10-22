@@ -1,0 +1,21 @@
+---
+choices: do | old | with | make | my
+answerText: do
+order: 4 1 3 5 2
+---
+【正解】1 do（この問題の2番目）
+【完成文】
+No. I'll ( make do with my old ) watch for a bit longer. It still works fine.
+並べ方：4 make → 1 do → 3 with → 5 my → 2 old（2番目は1、4番目は5）
+【和訳】
+A：ねえ、デパートで腕時計のセールをやっているわよ。新しいのが要る？
+B：いや。もう少しの間、今の古い時計で間に合わせるよ。まだちゃんと動くからね。
+【考え方】
+まず、Bの答えの内容を確かめます。Bは No.（いや）と言って新しい時計は要らないと答え、最後に It still works fine.（まだちゃんと動く）と理由を述べています。ですから空所には「今の古い時計で済ませる」という意味が入ると考えられます。
+I'll のあとには動詞の原形がきます。選択肢の 4 make と 1 do を合わせると make do with ～ という決まった言い方になります。これは「（十分ではないかもしれないが）～で間に合わせる、～で済ませる」という意味です。make do with の順は決まっているので、4 make → 1 do → 3 with と並べます。
+with のあとは、空所の外の watch につながる名詞のまとまりです。5 my → 2 old と並べて my old watch（私の古い時計）とします。my のような「だれの」を表す語は、old のような形容詞よりも前に置きます。
+こうして I'll make do with my old watch for a bit longer（もう少し古い時計で間に合わせる）が完成します。
+まちがえやすいのは、do make with や old my のように順番を入れかえる並べ方です。make do with は語順が決まった言い方で、my は old の前に置きます。
+【覚えるポイント】
+・make do with ～：「～で間に合わせる、～で済ませる」。
+・for a bit longer：「もう少しの間」。

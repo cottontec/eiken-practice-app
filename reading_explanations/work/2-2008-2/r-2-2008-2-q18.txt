@@ -1,0 +1,19 @@
+---
+choices: this | that | these | which
+answerText: that
+---
+【正解】2 that（前に出た名詞の代わりをする語。ここでは the sound quality の代わり）
+【和訳】
+このCDプレーヤーの音質は、もっと値段の高い多くのCDプレーヤーの音質よりも、ずっとよいです。
+（選択肢の意味）1 これ　2 それ（前に出た単数の名詞の代わり）　3 これら　4 どちら、どれ
+【考え方】
+この文は比べる文です。This CD player's sound quality is much better than ～ は「このCDプレーヤーの音質は～よりずっとよい」という意味です。
+比べるときは、同じ種類のものどうしを比べます。ここでは「このCDプレーヤーの音質」と「ほかの高いCDプレーヤーの音質」を比べています。ですから空所には of many more expensive CD players の前で「音質」を表す語が必要です。
+英語では、同じ名詞をくり返す代わりに that を使い、that of ～（～のそれ）と言います。that は the sound quality の代わりです。sound quality は1つのもの（単数）なので、単数を受ける that が合います。正解は2です。
+【ほかの選択肢】
+1 this も単数を指しますが、this of ～ の形で前の名詞のくり返しを避ける使い方はしません。
+3 these は複数のものを指します。代わりにしたい sound quality は単数なので、合いません。複数の名詞をくり返すときは those of ～ を使います。
+4 which は「どちら、どれ」とたずねたり、前の名詞を説明したりする語です。than which of ～ では文の形として成り立ちません。
+【覚えるポイント】
+・that of ～：比べる文で、前に出た単数の名詞のくり返しを避けて「～のそれ」と言うときに使います。複数なら those of ～ です。
+・much better than ～：「～よりずっとよい」。much は比較の意味を強めます。

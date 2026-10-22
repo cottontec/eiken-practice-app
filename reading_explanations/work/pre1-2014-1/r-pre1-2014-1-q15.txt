@@ -1,6 +1,7 @@
 ---
 choices: recalls | dreads | cherishes | idolizes
 answerText: dreads
+reviewed: yes
 ---
 【正解】2 dreads（ひどく恐れる、とてもいやがる）
 【和訳】

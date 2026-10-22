@@ -1,6 +1,7 @@
 ---
 choices: capacity for self-awareness | memory for details | curiosity about their surroundings | sense of direction
 answerText: capacity for self-awareness
+reviewed: yes
 ---
 【正解】1 capacity for self-awareness（自分を自分だと認識する能力）
 【和訳】

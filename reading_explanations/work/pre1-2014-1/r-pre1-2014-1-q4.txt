@@ -1,6 +1,7 @@
 ---
 choices: allegation | diagram | outlay | itinerary
 answerText: itinerary
+reviewed: yes
 ---
 【正解】4 itinerary（旅程、旅行の日程表）
 【和訳】

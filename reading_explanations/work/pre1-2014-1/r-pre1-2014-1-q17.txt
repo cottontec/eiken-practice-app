@@ -1,6 +1,7 @@
 ---
 choices: customary | lenient | disastrous | cynical
 answerText: lenient
+reviewed: yes
 ---
 【正解】2 lenient（甘い、厳しくない）
 【和訳】

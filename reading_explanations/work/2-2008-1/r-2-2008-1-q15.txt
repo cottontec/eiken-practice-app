@@ -1,0 +1,19 @@
+---
+choices: beneath | under | around | ahead
+answerText: ahead
+---
+【正解】4 ahead（ahead of schedule で「予定より早く」）
+【和訳】
+建設業者たちは予定より1週間早く工事を始めたので、建物を早く完成させました。
+（選択肢の意味）1 ～の真下に　2 ～の下に　3 ～のまわりに、およそ　4 前に、先に（ahead of ～ で「～より前に、～より先に」）
+【考え方】
+空所の前後を見ると a week (　) of schedule となっています。schedule は「予定、スケジュール」です。
+文の後半は so they completed the building early（だから建物を早く完成させた）です。so は「だから」なので、前半が理由になります。早く完成したのは、工事を予定より早く始めたからだと考えられます。
+ahead of schedule は「予定より早く」という決まった言い方です。前に a week をつけると「予定より1週間早く」となり、どれだけ早いかを表せます。正解は4です。
+【ほかの選択肢】
+1 beneath は「～の真下に」という場所を表す語です。beneath of schedule という言い方はなく、意味も通りません。
+2 under は「～の下に、～未満で」です。under of schedule という言い方はありません。「予定より遅れて」と言いたいときは behind schedule を使います。
+3 around は「～のまわりに、およそ」です。around of schedule という言い方はなく、「早く完成させた」理由になりません。
+【覚えるポイント】
+・ahead of schedule：「予定より早く」。反対は behind schedule（予定より遅れて）、予定どおりは on schedule。
+・a week ahead of ～：「～より1週間早く」。前に期間を置いて「どれだけ早いか」を表せます。

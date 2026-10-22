@@ -1,6 +1,7 @@
 ---
 choices: divisive | abstract | adequate | dubious
 answerText: adequate
+reviewed: yes
 ---
 【正解】3 adequate（十分な、足りる）
 【和訳】

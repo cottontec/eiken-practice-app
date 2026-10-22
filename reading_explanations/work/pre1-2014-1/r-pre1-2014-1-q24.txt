@@ -1,6 +1,7 @@
 ---
 choices: marked up | stood down | gave in | set out
 answerText: set out
+reviewed: yes
 ---
 【正解】4 set out（取りかかった、乗り出した）
 【和訳】

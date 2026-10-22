@@ -1,0 +1,21 @@
+---
+choices: able | provided | am | that | I
+answerText: that
+order: 2 4 5 3 1
+---
+【正解】4 that（この問題の2番目）
+【完成文】
+B: I would be happy to, ( provided that I am able ) to take a day off next week.
+並べ方：2 provided → 4 that → 5 I → 3 am → 1 able（2番目は4、4番目は3）
+【和訳】
+A：上司が、月曜日までにこの報告書を仕上げてほしいと言っているんだ。週末に仕事をしてもらえるかな？
+B：喜んでやりますよ。ただし、来週1日休みを取ることができればですが。
+【考え方】
+まず、会話の流れを確認します。Aは「週末に仕事をしてくれるか」と頼んでいます。Bは I would be happy to（喜んでそうします）と引き受けたあと、コンマ（,）で区切って何かを付け加えています。空所のあとには to take a day off next week（来週1日休みを取ること）が続きます。週末に働く代わりに、来週休みがほしいという「条件」を付けていると考えられます。
+次に、条件を表す言い方を探します。2 provided と 4 that を合わせると provided that ～（～という条件で、～ならば）という決まった言い方になります。if（もし～なら）に近い意味で、「ただし～ならば」と条件を付け加えるときに使います。そこで provided that を先頭に置くので、2番目は4 that です。
+that のあとには〈主語＋動詞〉の文が続きます。主語は 5 I、動詞は 3 am で、I am とします。最後に 1 able を置くと、空所のあとの to take とつながり、be able to ～（～することができる）の形になります。
+I am able to take a day off next week で「来週1日休みを取ることができる」となり、全体で「来週休みを取れるのなら、喜んで週末に働きます」という意味になります。
+まちがえやすいのは、that を I am able のあとに回す並べ方です。provided I am able that to take … となり、that の行き場がなく文が成り立ちません。
+【覚えるポイント】
+・provided that ～：「～という条件で、～ならば」。if に近い意味で、条件を付け加えるときに使います。
+・take a day off：「1日休みを取る」。
