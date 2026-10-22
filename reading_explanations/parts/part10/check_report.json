@@ -114,8 +114,8 @@
   "pre1-2018-2": {
     "stats": {
       "target": 41,
-      "written": 19,
-      "missing": 22
+      "written": 25,
+      "missing": 16
     },
     "errors": [],
     "warnings": []

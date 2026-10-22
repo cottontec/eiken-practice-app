@@ -1,0 +1,31 @@
+---
+choices: roll up | stay off | miss out | set aside
+answerText: set aside
+---
+【正解】4 set aside（（時間やお金を）取っておく）
+【和訳】
+（英文）
+Marsha is extremely busy with her job, but she always makes sure to ［set aside］ time for her children in the evening.
+（訳）
+マーシャは仕事でものすごく忙しいのですが、夕方には子どもたちのための時間をいつも必ず（取っておく）ようにしています。
+（選択肢の意味）
+1 roll up：巻き上げる；（そでを）まくり上げる
+2 stay off：（～を）避ける、近寄らない
+3 miss out：（よい機会を）のがす
+4 set aside：（時間やお金を）取っておく
+【考え方】
+まず見るところ：空所の後ろの time for her children と、前半の but
+前半は次のとおりです。
+Marsha is extremely busy with her job（マーシャは仕事でものすごく忙しい）
+extremely は「ものすごく、きわめて」です。
+後半は but（しかし）で始まるので、「忙しいのに、それでも～する」という内容が続くと考えられます。
+she always makes sure to (　) time for her children in the evening（夕方には子どもたちのための時間をいつも必ず（　）ようにしている）
+make sure to ～ は「必ず～するようにする」です。忙しくても子どもたちのための時間を「確保する」という流れが自然です。set aside は「（時間やお金を）別にして取っておく」という意味で、set aside time for ～ で「～のための時間を取っておく」となるので、4が正解です。
+この問題の型：対比（とても忙しい⇔それでも子どものための時間は取る）
+【ほかの選択肢】
+1 roll up は「巻き上げる」です。「子どもたちのための時間を巻き上げる」となり、意味が通りません。
+2 stay off は「（～を）避ける、近寄らない」です。「子どもたちのための時間を避ける」となり、but でつながる「忙しくても子どもを大切にする」という流れと合いません。
+3 miss out は「（よい機会を）のがす」です。「子どもたちのための時間をのがす」となり、always makes sure to（いつも必ず～するようにしている）とつながりません。
+【覚えるポイント】
+・set aside time for ～：「～のための時間を取っておく」。
+・前半に「忙しい」、but のあとに「必ず～する」とある文では、忙しくても大事なことのために何かを確保する、という意味の語句が入る手がかりになります。

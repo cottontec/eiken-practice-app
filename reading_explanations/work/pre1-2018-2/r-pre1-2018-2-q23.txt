@@ -1,0 +1,31 @@
+---
+choices: grow on | hold off | give away | fall for
+answerText: give away
+---
+【正解】3 give away（（秘密など）をもらす、明かしてしまう）
+【和訳】
+（英文）
+Raphael avoids reading film reviews because they often ［give away］ the movie’s ending. He thinks there is no point in watching a movie if you already know what happens.
+（訳）
+ラファエルは、映画の批評を読まないようにしています。批評は、映画の結末を（明かしてしまう）ことがよくあるからです。彼は、何が起こるのかをもう知っているなら、映画を見る意味はないと考えています。
+（選択肢の意味）
+1 grow on：（人に）だんだん好かれるようになる
+2 hold off：延期する、先にのばす；寄せつけない
+3 give away：（秘密など）をもらす、明かしてしまう；ただであげる
+4 fall for：～にだまされる；～を好きになる
+【考え方】
+まず見るところ：後半の文の if you already know what happens
+空所のある文は次のとおりです。
+Raphael avoids reading film reviews because they often (　) the movie’s ending.（ラファエルは映画の批評を読まないようにしている。なぜなら、批評はよく映画の結末を（　）からだ）
+avoid ～ing は「～しないようにする、～を避ける」、review は「批評（作品についての感想や評価を書いた文章）」です。they は film reviews を指します。
+後半の文で、ラファエルの考えが分かります。
+He thinks there is no point in watching a movie if you already know what happens.（彼は、何が起こるのかをもう知っているなら、映画を見る意味はないと考えている）
+there is no point in ～ing は「～しても意味がない」です。ラファエルは、批評を読むと映画で何が起こるか分かってしまうのがいやなのです。ですから、批評は結末を「明かしてしまう」と考えられます。give away には「（秘密など）をもらす、明かしてしまう」という意味があるので、3が正解です。
+この問題の型：因果（結末を明かす→批評を読まない）
+【ほかの選択肢】
+1 grow on は「（人に）だんだん好かれるようになる」で、The song grew on me.（その歌がだんだん好きになった）のように使います。「批評が映画の結末にだんだん好かれる」となり、意味が通りません。
+2 hold off は「延期する、先にのばす」です。「批評が結末を延期する」となり、何が起こるかを知ってしまうという後半の文とつながりません。
+4 fall for は「～にだまされる、～を好きになる」です。「批評が結末にだまされる」となり、意味が通りません。
+【覚えるポイント】
+・give away：「（秘密など）をもらす、明かしてしまう」。「ただであげる」という意味もあります。
+・because の後ろの理由と、次の文の考え（ここでは「結末を知っていたら見る意味がない」）を合わせると、熟語の意味を決める手がかりになります。

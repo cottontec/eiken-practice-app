@@ -1,0 +1,31 @@
+---
+choices: inclination | predator | allegation | ascent
+answerText: allegation
+---
+【正解】3 allegation（（証拠のない）申し立て、疑いをかけること）
+【和訳】
+（英文）
+The athlete hired a lawyer to fight the ［allegation］ that he had used illegal drugs. He said the charges made against him were false.
+（訳）
+その選手は、自分が違法な薬物を使ったという（申し立て）と争うために、弁護士を雇いました。彼は、自分に向けられた告発はまちがっていると言いました。
+（選択肢の意味）
+1 inclination：（～したい）気持ち、傾向
+2 predator：捕食動物（ほかの動物をつかまえて食べる動物）
+3 allegation：（証拠のない）申し立て、疑いをかけること
+4 ascent：上昇、のぼること
+【考え方】
+まず見るところ：後半の文の the charges made against him were false
+空所のある文は次のとおりです。
+The athlete hired a lawyer to fight the (　) that he had used illegal drugs.（その選手は、自分が違法な薬物を使ったという（　）と争うために、弁護士を雇った）
+lawyer は「弁護士」、fight はここでは「（裁判などで）争う」という意味です。空所の後ろの that he had used illegal drugs（彼が違法な薬物を使ったという）は、空所の名詞の中身を説明しています。
+後半の文が、空所の語を言いかえています。
+He said the charges made against him were false.（彼は、自分に向けられた告発はまちがっていると言った）
+charge はここでは「告発、非難（悪いことをしたと責めること）」です。つまり、「違法な薬物を使った」というのは、選手が人から言われている疑いであり、選手本人は「まちがっている」と言っています。allegation は「（まだ証拠で確かめられていない）申し立て、疑いをかけること」という意味なので、3が正解です。
+この問題の型：言いかえ（the allegation ＝ the charges made against him）
+【ほかの選択肢】
+1 inclination は「（～したい）気持ち、傾向」です。「違法な薬物を使ったという気持ちと争う」となり、意味が通りません。
+2 predator は「捕食動物」です。後ろの that he had used illegal drugs の内容を説明される名詞にならず、意味が通りません。
+4 ascent は「上昇、のぼること」です。「違法な薬物を使ったという上昇」となり、意味が通りません。
+【覚えるポイント】
+・allegation：「（証拠のない）申し立て、疑いをかけること」。動詞は allege（～だと申し立てる）です。
+・空所のあとの文に the charges（告発）のような似た意味の語が出てくるときは、それが空所の語の言いかえになっていないかを確かめると手がかりになります。

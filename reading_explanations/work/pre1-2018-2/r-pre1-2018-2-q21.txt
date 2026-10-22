@@ -1,0 +1,31 @@
+---
+choices: eject | twist | unfold | confer
+answerText: unfold
+---
+【正解】3 unfold（（出来事が）展開する、くり広げられる）
+【和訳】
+（英文）
+The house fire quickly spread to nearby buildings and was still burning hours after firefighters arrived. Viewers watching the scene ［unfold］ on television could not believe the damage.
+（訳）
+その住宅火災はすぐに近くの建物へ燃え広がり、消防士たちが到着してから何時間もたっても、まだ燃えていました。その光景が（くり広げられる）のをテレビで見ていた視聴者たちは、その被害の大きさが信じられませんでした。
+（選択肢の意味）
+1 eject：追い出す、外に放り出す
+2 twist：ねじる、ひねる
+3 unfold：（出来事が）展開する、くり広げられる；（たたんだものを）広げる
+4 confer：相談する；（賞などを）授ける
+【考え方】
+まず見るところ：空所の前の Viewers watching the scene と、後ろの on television
+前半の文は、火事の様子を説明しています。
+The house fire quickly spread to nearby buildings and was still burning hours after firefighters arrived.（その住宅火災はすぐに近くの建物へ燃え広がり、消防士たちが到着してから何時間もたっても、まだ燃えていた）
+火事が次々と広がり、長い時間続いていたことが分かります。
+空所のある文は次のとおりです。
+Viewers watching the scene (　) on television could not believe the damage.（その光景が（　）のをテレビで見ていた視聴者たちは、被害が信じられなかった）
+watch ～ ＋動詞の原形（動詞のもとの形）で「～が…するのを見る」という意味です。ですから、空所には「その光景（the scene）がどうなるのか」を表す動詞が入ります。火事の場面が目の前で次々と進んでいく様子を表すのは unfold（展開する、くり広げられる）なので、3が正解です。
+この問題の型：語の意味・組み合わせ（watch the scene unfold）
+【ほかの選択肢】
+1 eject は「追い出す、外に放り出す」です。「光景が追い出すのを見ていた」となり、何を追い出すのかも分からず、意味が通りません。
+2 twist は「ねじる、ひねる」です。「光景がねじれるのを見ていた」となり、火事が広がっていく様子を表せません。
+4 confer は「相談する、（賞などを）授ける」です。光景が相談するわけではないので、意味が通りません。
+【覚えるポイント】
+・unfold：「（出来事が）展開する、くり広げられる」。もとは「（たたんだものを）広げる」という意味です。
+・watch ～ ＋動詞の原形の形では、「～がどうするのか」を考えると、入る動詞を決める手がかりになります。
