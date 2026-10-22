@@ -1,6 +1,7 @@
 ---
 choices: liquefy | swell | lounge | brace
 answerText: swell
+reviewed: yes
 ---
 【正解】2 swell（はれる、ふくらむ）
 【和訳】
@@ -18,7 +19,7 @@ After the carpenter hit his thumb with the hammer by mistake, it began to ［swe
 空所のある部分は it began to ( )（それは（　）し始めた）です。it は、かなづちで打ってしまった his thumb（彼の親指）を指しています。
 Eventually, the thumb was almost twice its normal size.（最後には、親指はふだんの大きさのほぼ2倍あった）
 eventually は「最後には、ついに」です。親指がふだんの2倍近くの大きさだったのですから、打ったところがふくらんでいったことが分かります。swell は「はれる、ふくらむ」なので、2が正解です。
-この問題の型：指示語（it ＝ his thumb）
+この問題の型：推論（ふだんの2倍近くの大きさになった → はれた）
 【ほかの選択肢】
 1 liquefy は「液体になる、とける」です。親指が液体になるのは不自然で、「ふだんの2倍の大きさ」という次の文とも合いません。
 3 lounge は「くつろぐ」です。人がすることで、「親指がくつろぎ始めた」では意味が通りません。

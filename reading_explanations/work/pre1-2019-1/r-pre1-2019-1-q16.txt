@@ -8,7 +8,7 @@ answerText: spoil
 A: I really think the Johnsons ［spoil］ their daughter.
 B: Yes, they give her whatever she wants. She never has to work for anything.
 （訳）
-A：ジョンソン夫妻は、本当に娘を（甘やかしている）と思うよ。
+A：ジョンソンさんたちは、本当に娘を（甘やかしている）と思うよ。
 B：そうだね。娘がほしがるものは何でも与えているよね。あの子は、何かを手に入れるために努力しなければならないことが一度もないんだ。
 （選択肢の意味）
 1 rotate：～を回転させる、交代させる
@@ -17,7 +17,7 @@ B：そうだね。娘がほしがるものは何でも与えているよね。�
 4 gargle：うがいをする
 【考え方】
 まず見るところ：B の答えの they give her whatever she wants と She never has to work for anything.
-A は、ジョンソン夫妻が娘に対して何かをしている、と言っています。B は Yes（そうだね）と賛成して、その様子を具体的に説明しています。
+A は、ジョンソンさんたちが娘に対して何かをしている、と言っています。B は Yes（そうだね）と賛成して、その様子を具体的に説明しています。
 they give her whatever she wants（娘がほしがるものは何でも与えている）
 She never has to work for anything.（あの子は、何かを手に入れるために努力しなければならないことが一度もない）
 whatever she wants は「彼女がほしがるものは何でも」、work for ～ は「～を得るために努力する」です。ほしいものを何でももらえて、努力する必要がない、という様子です。

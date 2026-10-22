@@ -9,13 +9,13 @@ answerText: The Russian children's living circumstances were responsible for the
 ＜この設問と選択肢の訳＞
 設問：What do the researchers who studied children in neighboring Russian and Finnish towns believe?（となり合うロシアとフィンランドの町の子どもたちを調べた研究者たちは、どう考えているか。）
 1 The Russian children were more likely to have celiac disease because of the high amount of bread in their diet.（ロシアの子どもたちは、食事の中のパンの量が多いために、（フィンランドの子どもたちより）セリアック病にかかりやすかった。）
-2 The symptoms of celiac disease were more severe in the Finnish children because they ate a certain type of wheat.（フィンランドの子どもたちは、ある種類の小麦を食べていたので、セリアック病の症状が（ロシアの子どもたちより）重かった。）
+2 The symptoms of celiac disease were more severe in the Finnish children because they ate a certain type of wheat.（フィンランドの子どもたちは、ある種類の小麦を食べていたので、セリアック病の症状がより重かった。）
 3 The Russian children's living circumstances were responsible for their lower rates of celiac disease.（ロシアの子どもたちの生活環境が、彼らのセリアック病の割合が（フィンランドの子どもたちより）低いことの原因だった。）
-4 The Finnish children got sicker because they were exposed to bacteria known to cause allergic reactions.（フィンランドの子どもたちは、アレルギー反応を引き起こすことで知られる細菌にさらされたため、（ロシアの子どもたちより）病気が重くなった。）
+4 The Finnish children got sicker because they were exposed to bacteria known to cause allergic reactions.（フィンランドの子どもたちは、アレルギー反応を引き起こすことで知られる細菌にさらされたため、さらに具合が悪くなった。）
 【考え方】
 まず見るところ：第3段落の five times as many Finnish children と、because sanitation practices are poorer, the Russian children are exposed to more bacteria
 第3段落の研究の結果を見ます。
-A study of children living in towns across the border from each other in Finland and Russia showed that five times as many Finnish children suffered from celiac disease.（フィンランドとロシアの国境をはさんで向かい合う町に住む子どもたちを調べた研究では、セリアック病にかかっているフィンランドの子どもは、ロシアの子どもの5倍の人数であることが分かった）
+A study of children living in towns across the border from each other in Finland and Russia showed that five times as many Finnish children suffered from celiac disease.（フィンランドとロシアの国境をはさんで向かい合う町に住む子どもたちを調べた研究では、セリアック病にかかっていたフィンランドの子どもは、ロシアの子どもの5倍の人数だったことが分かった）
 つまり、ロシアの子どもたちのほうがセリアック病にかかる割合が低い、ということです。
 その理由として、ロシアの町の生活の様子が書かれています。
 The average income in the Russian town, however, is one-fifteenth that of the neighboring Finns, and because sanitation practices are poorer, the Russian children are exposed to more bacteria.（しかし、ロシアの町の平均収入はとなりのフィンランドの人々の15分の1であり、衛生習慣がより劣っているため、ロシアの子どもたちはより多くの細菌にさらされている）

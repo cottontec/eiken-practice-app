@@ -1,0 +1,32 @@
+---
+choices: Areas with the most variety of plants and animals should be given priority when establishing protected areas. | The emphasis should be changed from areas threatened by invading species to those that are lacking in diversity. | The animals that live in areas near where there is human activity should be moved to areas covered in ice. | A larger number of protected areas should be designated in locations that lie outside Antarctica's ice-free zone.
+answerText: Areas with the most variety of plants and animals should be given priority when establishing protected areas.
+---
+【正解】1 Areas with the most variety of plants and animals should be given priority when establishing protected areas.（保護区域を設けるときには、植物や動物の種類が最も多い地域を優先すべきだ。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What does Justine Shaw recommend be done to protect nature in Antarctica?（ジャスティン・ショーは、南極大陸の自然を守るために何をすべきだとすすめているか。）
+1 Areas with the most variety of plants and animals should be given priority when establishing protected areas.（保護区域を設けるときには、植物や動物の種類が最も多い地域を優先すべきだ。）
+2 The emphasis should be changed from areas threatened by invading species to those that are lacking in diversity.（重点を、侵入してくる種におびやかされている地域から、多様性の乏しい地域へと移すべきだ。）
+3 The animals that live in areas near where there is human activity should be moved to areas covered in ice.（人間が活動している場所の近くの地域にすむ動物を、氷におおわれた地域へ移すべきだ。）
+4 A larger number of protected areas should be designated in locations that lie outside Antarctica's ice-free zone.（南極大陸の氷のない地帯の外にある場所に、より多くの保護区域を指定すべきだ。）
+【考え方】
+まず見るところ：第3段落の areas with the greatest number of species should be prioritized when establishing protected zones
+ショーの提案は、第3段落の According to Shaw（ショーによれば）のあとに書かれています。
+According to Shaw, since conserving the continent's biodiversity is essential, areas with the greatest number of species should be prioritized when establishing protected zones.（ショーによれば、大陸の生物多様性を守ることは欠かせないので、保護区域を設けるときには、最も多くの種がいる地域を優先すべきだという）
+conserve は「守る、保護する」、biodiversity は「生物多様性（いろいろな種類の生き物がいること）」、prioritize は「優先する」という意味です。
+本文と選択肢1を対にすると、次のようになります。
+本文 areas with the greatest number of species（最も多くの種がいる地域）＝ 選択肢 Areas with the most variety of plants and animals（植物や動物の種類が最も多い地域）
+本文 should be prioritized（優先されるべきだ）＝ 選択肢 should be given priority（優先されるべきだ）
+本文 when establishing protected zones ＝ 選択肢 when establishing protected areas（保護区域を設けるとき）
+ですから1が正解です。
+この問題の型：言いかえ（prioritized ＝ given priority、the greatest number of species ＝ the most variety of plants and animals）
+【ほかの選択肢】
+2 本文の提案と向きが違います。ショーは「最も多くの種がいる地域」を優先すべきだと言っていて、「多様性の乏しい地域」へ重点を移すべきだとは言っていません。
+3 本文にありません。保護区域がすべて人間の活動の近くにあることは研究で分かったこととして書かれていますが、動物を氷の地域へ移すという提案はありません。
+4 本文にありません。保護区域を氷のない地帯の外に増やすべきだという話は出てきません。ショーが言っているのは、どの地域を優先するかということです。
+【覚えるポイント】
+・prioritize：「優先する」。be given priority（優先される）と同じ意味で、選択肢ではこのように言いかえられることがあります。
+・人物の提案をたずねる設問では、According to ～（～によれば）や should（～すべきだ）のある文を探すと手がかりになります。研究で分かった事実と、その人の提案とを区別して読みます。

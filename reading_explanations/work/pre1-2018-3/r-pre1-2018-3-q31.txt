@@ -1,6 +1,7 @@
 ---
 choices: worsening academic performance | growth in the economy | a decrease in employment opportunities | shifts in moral values
 answerText: a decrease in employment opportunities
+reviewed: yes
 ---
 【正解】3 a decrease in employment opportunities（雇用の機会が減っていること）
 【和訳】

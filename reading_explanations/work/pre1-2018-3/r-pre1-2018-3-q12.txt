@@ -1,13 +1,14 @@
 ---
 choices: hovered | bragged | decayed | conspired
 answerText: decayed
+reviewed: yes
 ---
 【正解】3 decayed（虫歯になった、腐った）
 【和訳】
 （英文）
 Dr. Smith told the patient his tooth had ［decayed］ so badly she would have to pull it. She warned him to start taking better care of his teeth.
 （訳）
-スミス医師はその患者に、彼の歯はひどく虫歯になっているので、抜かなければならないだろうと言った。彼女は彼に、歯をもっと大切に手入れし始めるよう注意した。
+歯医者のスミスさんはその患者に、彼の歯はひどく虫歯になっているので、抜かなければならないだろうと言った。彼女は彼に、歯をもっと大切に手入れし始めるよう注意した。
 （選択肢の意味）
 1 hovered：（hover で）空中に浮かぶ、うろうろする
 2 bragged：（brag で）自慢する

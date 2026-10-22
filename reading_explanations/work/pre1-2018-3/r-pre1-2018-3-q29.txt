@@ -1,6 +1,7 @@
 ---
 choices: In other words | Despite this | For example | Otherwise
 answerText: Despite this
+reviewed: yes
 ---
 【正解】2 Despite this（それにもかかわらず）
 【和訳】

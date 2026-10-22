@@ -1,6 +1,7 @@
 ---
 choices: idle | corrupt | petty | cordial
 answerText: idle
+reviewed: yes
 ---
 【正解】1 idle（仕事がなくて何もしていない）
 【和訳】

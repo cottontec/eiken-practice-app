@@ -1,6 +1,7 @@
 ---
 choices: drastic | nosy | secretive | impaired
 answerText: drastic
+reviewed: yes
 ---
 【正解】1 drastic（急激な、大幅な）
 【和訳】

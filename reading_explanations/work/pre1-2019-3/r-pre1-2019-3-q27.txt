@@ -17,10 +17,12 @@ answerText: contains an unexpected addition
 Ecologist Marcus Drymon of Mississippi State University recently discovered that the diet of tiger sharks ( 27 ).（ミシシッピ州立大学の生態学者マーカス・ドライモンは最近、イタチザメの食べ物は（27）ことを発見した）
 diet は「（ふだん食べている）食べ物」という意味です。ドライモンが何を発見したのかは、そのあとに書かれています。
 he was not particularly shocked. However, analysis revealed the feathers belonged to a so-called backyard bird.（彼は特に驚きはしなかった。しかし、分析すると、その羽はいわゆる「裏庭の鳥」のものだと分かった）
-イタチザメが海鳥を食べることは知られていたので、羽を吐き出しても驚きませんでした。しかし However（しかし）のあとで、その羽が陸にすむ「裏庭の鳥」のものだったと分かります。さらに Analysis of the stomach contents of more tiger sharks confirmed that backyard birds were in fact regularly meeting this fate.（さらに多くのイタチザメの胃の中身を分析すると、裏庭の鳥が実際にたびたびこの運命をたどっていたことが確かめられた）とあります。
+イタチザメが海鳥を食べることは知られていたので、羽を吐き出しても驚きませんでした。しかし However（しかし）のあとで、その羽が陸にすむ「裏庭の鳥」のものだったと分かります。さらに次の文が続きます。
+Analysis of the stomach contents of more tiger sharks confirmed that backyard birds were in fact regularly meeting this fate.（さらに多くのイタチザメの胃の中身を分析したところ、裏庭の鳥が実際にたびたびこの運命をたどっていたことが確かめられた）
+this fate（この運命）は、イタチザメに食べられることを指しています。
 本文と選択肢を対にすると、次のようになります。
-本文 backyard birds（陸にすむ裏庭の鳥）が食べ物に入っていた → 選択肢 an addition（追加の品目）
-本文 he was not particularly shocked. However, ～（特に驚かなかった。しかし～）→ 選択肢 unexpected（思いがけない）
+・本文 backyard birds（陸にすむ裏庭の鳥）が食べ物に入っていた → 選択肢 an addition（追加の品目）
+・本文 he was not particularly shocked. However, ～（特に驚かなかった。しかし～）→ 選択肢 unexpected（思いがけない）
 ですから2が正解です。
 この問題の型：対比（However：海鳥なら予想どおり⇔陸の鳥だった）／具体例とまとめ（裏庭の鳥→unexpected addition）
 【ほかの選択肢】

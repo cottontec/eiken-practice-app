@@ -1,6 +1,7 @@
 ---
 choices: It was so much brighter than usual that many sea animals became distracted by the lights and were unable to orient themselves. | It was a result of the same phenomenon that had likely caused the whales to become confused and navigate incorrectly. | Its presence over the Norwegian Sea caused many birds to fly toward the North Sea, which led the whales to follow. | Its appearance farther south than usual weakened the whales' ability to use sonar clicks to confirm the depth of the waters.
 answerText: It was a result of the same phenomenon that had likely caused the whales to become confused and navigate incorrectly.
+reviewed: yes
 ---
 【正解】2 It was a result of the same phenomenon that had likely caused the whales to become confused and navigate incorrectly.（それは、おそらくクジラを混乱させ、まちがった方向へ進ませた現象と同じ現象の結果だった。）
 【和訳】

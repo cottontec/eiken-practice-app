@@ -1,6 +1,7 @@
 ---
 choices: sharpen | crumble | vibrate | stimulate
 answerText: crumble
+reviewed: yes
 ---
 【正解】2 crumble（ぼろぼろに崩れる）
 【和訳】
@@ -17,7 +18,7 @@ The house was so old that the walls had begun to ［crumble］. When someone was
 まず見るところ：空所のある文の so old that と、次の文の almost hit by a falling brick
 空所のある文は so ～ that ...（とても～なので…）の形です。that のあとには「家がとても古かった」ことから起こった結果が入ります。
 When someone was almost hit by a falling brick（ある人が落ちてきたれんがに当たりそうになったとき）
-次の文では、壁のれんがが落ちてきています。古くなった壁から、れんががはがれて落ちてくる様子が分かります。crumble は「ぼろぼろに崩れる」という意味で、had begun to crumble で「崩れ始めていた」となります。家が古いことの結果としても、れんがが落ちてきたこととも合うので、2が正解です。
+次の文では、れんがが落ちてきています。古くなった壁から、れんががはがれて落ちてきたのだと考えられます。crumble は「ぼろぼろに崩れる」という意味で、had begun to crumble で「崩れ始めていた」となります。家が古いことの結果としても、れんがが落ちてきたこととも合うので、2が正解です。
 さらに、持ち主が the house would have to be taken down（家を取り壊さなければならないだろう）と決めたことも、壁が崩れかけていたことと合います。
 この問題の型：因果（とても古い → 壁が崩れ始める）
 【ほかの選択肢】

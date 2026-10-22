@@ -1,6 +1,7 @@
 ---
 choices: clamp | drizzle | comet | blaze
 answerText: blaze
+reviewed: yes
 ---
 【正解】4 blaze（火事、激しい炎）
 【和訳】

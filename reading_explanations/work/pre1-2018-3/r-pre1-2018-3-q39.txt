@@ -1,6 +1,7 @@
 ---
 choices: It implies that their child may possess special skills or abilities that are not reflected in their performance on written tests. | It encourages their child to apply a range of different approaches when solving problems outside of the classroom. | It allows them to take part in their child's school life even if they themselves have an academic history of performing poorly on tests. | It has been shown to noticeably improve a child's ability in subjects such as art or music.
 answerText: It implies that their child may possess special skills or abilities that are not reflected in their performance on written tests.
+reviewed: yes
 ---
 【正解】1 It implies that their child may possess special skills or abilities that are not reflected in their performance on written tests.（それは、自分の子どもが、筆記テストの成績には表れない特別な技術や能力を持っているかもしれないことをほのめかしている。）
 【和訳】
@@ -19,7 +20,7 @@ The theory has also been embraced by parents whose children are struggling in sc
 embrace は「（考えなどを）受け入れる」です。親にとって魅力的なのは、「テストの成績は悪くても、子どもには絵や音楽の得意さがあるかもしれない」という考えです。本文と選択肢を対にすると、次のようになります。
 ・本文 "picture smart" or "music smart"（「絵が得意」「音楽が得意」）→ まとめると → 選択肢 special skills or abilities（特別な技術や能力）
 ・本文 may perform poorly on written tests because ～（～なので筆記テストでよい成績をとれないかもしれない）→ 言いかえると → 選択肢 not reflected in their performance on written tests（筆記テストの成績には表れない）
-・本文 is appealing（魅力的だ）→ 言いかえると → 設問 reason some parents support（親が支持する理由）
+・本文 is appealing（魅力的だ）→ 読み取れること → 設問 reason some parents support（親が支持する理由）
 ですから1が正解です。
 この問題の型：言いかえ（"picture smart" or "music smart" → special skills or abilities）
 【ほかの選択肢】

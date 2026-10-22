@@ -1,6 +1,7 @@
 ---
 choices: tension | limitation | decency | accuracy
 answerText: decency
+reviewed: yes
 ---
 【正解】3 decency（礼儀、人としての当然の心づかい）
 【和訳】

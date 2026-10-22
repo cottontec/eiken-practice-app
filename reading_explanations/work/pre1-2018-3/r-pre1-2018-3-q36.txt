@@ -1,6 +1,7 @@
 ---
 choices: Their relatively flat shape can lead people to overlook the fact that they could erupt. | They are more likely than typical volcanoes to show obvious warning signs before they erupt. | Their shape makes it clear to scientists that they are not particularly active and are therefore safe to study. | The fact that they are poorly suited for human habitation means they are ideal places to carry out research.
 answerText: Their relatively flat shape can lead people to overlook the fact that they could erupt.
+reviewed: yes
 ---
 【正解】1 Their relatively flat shape can lead people to overlook the fact that they could erupt.（その比較的平らな形のために、人々は、それらが噴火するかもしれないという事実を見落とすことがある。）
 【和訳】
@@ -25,7 +26,7 @@ occur to ～ は「（考えが）～の頭に浮かぶ」です。カルデラ�
 【ほかの選択肢】
 2 本文には、Calderas sit above pools of magma that can erupt with little warning（カルデラは、ほとんど前ぶれなく噴火することのあるマグマだまりの上にある）と書かれています。「はっきりした警告のしるしを示しやすい」は、これと反対の内容です。
 3 本文には、Scientists are particularly concerned about caldera volcanoes（科学者たちは特に、カルデラ火山を心配している）と書かれています。形から活発でないと分かり、研究しても安全だという話は書かれていません。
-4 本文には、the rich soil around such volcanoes tends to attract dense human settlement（そのような火山の周りの豊かな土は、人が密集して住みつくのを引きつけやすい）と書かれています。「人が住むのに向いていない」は、これと反対の内容です。
+4 本文には、the rich soil around such volcanoes tends to attract dense human settlement（そのような火山の周りの豊かな土には、人が密集して住みつくのを引き寄せる傾向がある）と書かれています。「人が住むのに向いていない」は、これと反対の内容です。
 【覚えるポイント】
 ・occur to ～：「（考えが）～の頭に浮かぶ」。does not occur to people は、選択肢の overlook（見落とす）とほぼ同じ内容になります。
 ・設問に In the second paragraph（第2段落で）のように場所が示されているときは、その段落の中で設問の語（ここでは caldera）の特徴を述べた文を探しましょう。本文の ～, so ...（～なので…）の「原因と結果」が、選択肢では A can lead people to ～（Aによって人々が～することがある）の形になることがあります。

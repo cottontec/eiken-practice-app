@@ -1,6 +1,7 @@
 ---
 choices: starve | accumulate | testify | litter
 answerText: accumulate
+reviewed: yes
 ---
 【正解】2 accumulate（積もる、たまる）
 【和訳】

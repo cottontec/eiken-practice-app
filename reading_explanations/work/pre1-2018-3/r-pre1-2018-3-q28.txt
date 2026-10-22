@@ -1,6 +1,7 @@
 ---
 choices: quantity over quality | long-term goals over immediate ones | forests over their inhabitants | natural resources over economic growth
 answerText: quantity over quality
+reviewed: yes
 ---
 【正解】1 quantity over quality（質よりも量）
 【和訳】
@@ -9,7 +10,7 @@ answerText: quantity over quality
 ＜この空所の選択肢の意味＞
 1 quantity over quality（質よりも量）
 2 long-term goals over immediate ones（目の前の目標よりも長期的な目標）
-3 forests over their inhabitants（森林に住む生き物よりも森林そのもの）
+3 forests over their inhabitants（森林に住む人や生き物よりも森林そのもの）
 4 natural resources over economic growth（経済成長よりも天然資源）
 【考え方】
 まず見るところ：第3段落の the countries are paid based on the number of trees planted と、new plantations are less effective than mature forests
@@ -17,11 +18,11 @@ answerText: quantity over quality
 This makes economic sense since the countries are paid based on the number of trees planted.（各国は植えられた木の数にもとづいてお金を支払われるので、これは経済的には理にかなっている）
 お金は「木の数」で支払われます。つまり、REDD+が見ているのは木の量です。
 However, new plantations are less effective than mature forests at absorbing CO2, so there is a net loss in terms of environmental value.（しかし、新しい植林地は、成熟した森林よりもCO2を吸収する効果が低いので、環境的な価値の点では、差し引きで損失になる）
-一方で、新しく植えた木は成熟した森林より役に立たないので、森林の価値、つまり質は下がってしまいます。段落の最後でも、high-value forests（価値の高い森林）を守るべきだと述べています。「木の数（量）を重視して、森林の価値（質）を軽く見ている」という批判なので、1が正解です。
+一方で、新しい植林地は成熟した森林よりCO2を吸収する効果が低いので、森林の価値、つまり質は下がってしまいます。段落の最後でも、high-value forests（価値の高い森林）を守るべきだと述べています。「木の数（量）を重視して、森林の価値（質）を軽く見ている」という批判なので、1が正解です。
 この問題の型：具体例とまとめ（木の数で支払う・価値の低い木に置きかわる → 質よりも量）
 【ほかの選択肢】
 2 long-term goals over immediate ones（目の前の目標よりも長期的な目標）を入れても、あとの文の内容と合いません。あとの文で問題にされているのは、木の数で支払われることと森林の価値が下がることで、目標の期間の長さについては書かれていません。
-3 forests over their inhabitants（森林に住む生き物よりも森林そのもの）を入れると、森林に住む人や動物が軽く見られているという批判になります。しかし、本文には森林に住む人や動物の話は出てきません。
+3 forests over their inhabitants（森林に住む人や生き物よりも森林そのもの）を入れると、森林に住む人や動物が軽く見られているという批判になります。しかし、本文には森林に住む人や動物の話は出てきません。
 4 natural resources over economic growth（経済成長よりも天然資源）を入れると、REDD+がお金よりも自然を大切にしすぎているという批判になります。しかし本文では、成熟した森林を切ってユーカリを植えることが This makes economic sense（経済的には理にかなっている）と書かれていて、その結果、環境の価値が下がることが問題にされています。批判の向きが合いません。
 【覚えるポイント】
 ・emphasize A over B：「BよりもAを重視する」。quantity は「量」、quality は「質」です。

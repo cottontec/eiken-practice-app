@@ -1,6 +1,7 @@
 ---
 choices: striving | distributing | surrendering | discouraging
 answerText: striving
+reviewed: yes
 ---
 【正解】1 striving（懸命に努力している）
 【和訳】

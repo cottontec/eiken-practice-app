@@ -1,6 +1,7 @@
 ---
 choices: janitors | stewards | tailors | missionaries
 answerText: missionaries
+reviewed: yes
 ---
 【正解】4 missionaries（宣教師たち）
 【和訳】

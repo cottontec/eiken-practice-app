@@ -1,6 +1,7 @@
 ---
 choices: banner | seal | assumption | surplus
 answerText: surplus
+reviewed: yes
 ---
 【正解】4 surplus（余り、余った分）
 【和訳】

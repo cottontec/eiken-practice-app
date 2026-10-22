@@ -1,6 +1,7 @@
 ---
 choices: fall away | cut in | fire up | try out
 answerText: fall away
+reviewed: yes
 ---
 【正解】1 fall away（〔気持ちなどが〕消えていく、なくなる）
 【和訳】

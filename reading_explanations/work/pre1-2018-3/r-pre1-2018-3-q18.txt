@@ -1,6 +1,7 @@
 ---
 choices: oath | foe | symptom | compartment
 answerText: compartment
+reviewed: yes
 ---
 【正解】4 compartment（仕切られた収納場所、区画）
 【和訳】

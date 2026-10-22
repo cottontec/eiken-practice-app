@@ -1,6 +1,7 @@
 ---
 choices: gets away with | comes down to | keeps up on | stands up to
 answerText: comes down to
+reviewed: yes
 ---
 【正解】2 comes down to（結局は～しだいである）
 【和訳】

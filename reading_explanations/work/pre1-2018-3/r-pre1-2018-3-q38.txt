@@ -1,6 +1,7 @@
 ---
 choices: help explain the theory that including visual study materials in every subject taught at school is beneficial for all students. | offer an example that shows why presenting students with too many visual aids can weaken their listening and verbal skills. | illustrate the concept that each student has a favored method of acquiring new information and learns better in response to it. | show that most students want educators to keep utilizing traditional methods of teaching certain subjects.
 answerText: illustrate the concept that each student has a favored method of acquiring new information and learns better in response to it.
+reviewed: yes
 ---
 【正解】3 illustrate the concept that each student has a favored method of acquiring new information and learns better in response to it.（生徒一人一人に新しい情報を身につけるための好みの方法があり、それに合わせるとよりよく学ぶ、という考え方を例で示すため。）
 【和訳】

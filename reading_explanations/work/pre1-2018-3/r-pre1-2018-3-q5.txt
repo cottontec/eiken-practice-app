@@ -1,6 +1,7 @@
 ---
 choices: publicized | amended | devised | compelled
 answerText: compelled
+reviewed: yes
 ---
 【正解】4 compelled（せざるをえない）
 【和訳】

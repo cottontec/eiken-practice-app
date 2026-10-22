@@ -1,6 +1,7 @@
 ---
 choices: heroic | malicious | soaked | delighted
 answerText: malicious
+reviewed: yes
 ---
 【正解】2 malicious（悪意のある）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: decisive | grouchy | parasitic | spherical
 answerText: decisive
+reviewed: yes
 ---
 【正解】1 decisive（決定的な、圧倒的な）
 【和訳】
@@ -17,7 +18,7 @@ The presidential candidate won a ［decisive］ victory, receiving over 80 perce
 まず見るところ：空所のあとの receiving over 80 percent of the votes
 空所には、どんな勝利だったかを表す語が入ります。そのくわしい様子が、空所のあとに書かれています。
 receiving over 80 percent of the votes（80パーセントを超える票を得て）
-80パーセントを超える票は、とても大きな差です。次の文の It was clear that ～（～は明らかだった）も、国民の気持ちがはっきりしていたことを示しています。decisive victory は「決定的な勝利、圧倒的な勝利」なので、1が正解です。
+80パーセントを超える票は、とても大きな差です。次の文の It was clear that ～（～は明らかだった）も、その国の人々の気持ちがはっきりしていたことを示しています。decisive victory は「決定的な勝利、圧倒的な勝利」なので、1が正解です。
 この問題の型：具体例とまとめ（80パーセントを超える票 → 圧倒的な勝利）
 【ほかの選択肢】
 2 grouchy は「不機嫌な」です。人の気分を表す語で、「不機嫌な勝利」となり意味が通りません。

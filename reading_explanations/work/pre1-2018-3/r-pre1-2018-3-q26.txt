@@ -1,6 +1,7 @@
 ---
 choices: Nevertheless | By contrast | Surprisingly | In short
 answerText: In short
+reviewed: yes
 ---
 【正解】4 In short（要するに、手短に言えば）
 【和訳】

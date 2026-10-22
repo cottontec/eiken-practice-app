@@ -1,6 +1,7 @@
 ---
 choices: torch | bribe | strain | gem
 answerText: strain
+reviewed: yes
 ---
 【正解】3 strain（負担、重圧）
 【和訳】

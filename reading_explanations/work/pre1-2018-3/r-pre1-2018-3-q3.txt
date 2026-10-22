@@ -1,6 +1,7 @@
 ---
 choices: prescription | detection | sensation | dimension
 answerText: prescription
+reviewed: yes
 ---
 【正解】1 prescription（処方箋）
 【和訳】

@@ -1,0 +1,32 @@
+---
+choices: flooding of the Colorado River suddenly became a much more serious problem than had originally been expected. | no one was able to predict that it would continue to be used for electricity generation so far into the future. | the water shortages it created in other areas were thought to be more significant than the benefits from irrigation and flood control. | it was hoped the money earned by selling the electricity it created could be used to cover some of the costs associated with building it.
+answerText: it was hoped the money earned by selling the electricity it created could be used to cover some of the costs associated with building it.
+---
+【正解】4 it was hoped the money earned by selling the electricity it created could be used to cover some of the costs associated with building it.（ダムが作る電気を売って得たお金を、建設にかかった費用の一部に充てられることが期待された。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：At the time that Hoover Dam was built,（フーバーダムが建設された当時、…）
+1 flooding of the Colorado River suddenly became a much more serious problem than had originally been expected.（コロラド川の洪水が、急に、はじめに予想されていたよりもずっと深刻な問題になった。）
+2 no one was able to predict that it would continue to be used for electricity generation so far into the future.（ダムがこれほど先の時代まで発電に使われ続けることは、だれも予想できなかった。）
+3 the water shortages it created in other areas were thought to be more significant than the benefits from irrigation and flood control.（ダムがほかの地域で引き起こした水不足は、かんがいと洪水の制御による利益よりも重大だと考えられた。）
+4 it was hoped the money earned by selling the electricity it created could be used to cover some of the costs associated with building it.（ダムが作る電気を売って得たお金を、建設にかかった費用の一部に充てられることが期待された。）
+【考え方】
+まず見るところ：第2段落の the dam's hydropower capabilities were seen as a way to recover some of the costs of its construction over the long term
+第2段落に、フーバーダムが建設されたころのことが書かれています。
+Built in the 1930s at enormous expense to control the frequently flooding Colorado River and maintain a water supply for farmland irrigation, the dam's hydropower capabilities were seen as a way to recover some of the costs of its construction over the long term.（1930年代に、ひんぱんに洪水を起こしていたコロラド川を制御し、農地のかんがいのための水の供給を保つために、ばく大な費用をかけて建設されたこのダムの水力発電の能力は、長い期間をかけて建設費用の一部を取り戻す方法だと考えられていた）
+were seen as ～ は「～だと考えられていた」、recover は「（使ったお金を）取り戻す」です。
+本文と選択肢4を対にすると、次のようになります。
+本文 were seen as a way to recover（取り戻す方法だと考えられていた）→ 選択肢 it was hoped ～ could be used to cover（～に充てられることが期待された）
+本文 the dam's hydropower capabilities（ダムの水力発電の能力）→ 選択肢 the money earned by selling the electricity it created（ダムが作る電気を売って得たお金）
+本文 some of the costs of its construction（建設費用の一部）＝ 選択肢 some of the costs associated with building it（建設にかかった費用の一部）
+発電の能力で建設費を取り戻すというのは、作った電気を売ってお金を得る、ということだと読み取れます。よって4が正解です。
+この問題の型：言いかえ（recover some of the costs→cover some of the costs）／推論（発電能力で費用を取り戻す→電気を売ったお金で）
+【ほかの選択肢】
+1 本文にない内容です。本文には the frequently flooding Colorado River（ひんぱんに洪水を起こしていたコロラド川）とありますが、洪水が予想より急に深刻になったとは書かれていません。
+2 本文にない内容です。建設当時の人々が、ダムが将来どれくらい長く使われるかを予想できたかどうかは書かれていません。本文には over the long term（長い期間をかけて）とあり、むしろ長く使って費用を取り戻すことが考えられていました。
+3 本文にない内容です。ダムがほかの地域で水不足を引き起こしたという話はなく、ダムはかんがいのための水の供給を保つために建設されたと書かれています。
+【覚えるポイント】
+・recover the costs：「（かかった）費用を取り戻す」。選択肢では cover the costs（費用をまかなう）と言いかえられています。
+・設問が At the time that ～ was built（建設された当時）のように時期を指定しているときは、本文の Built in the 1930s のような時期を表す語句の近くを探し、「当時の考え（were seen as ～）」と「その後の結果（in recent years ～）」を分けて読むと手がかりになります。

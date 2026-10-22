@@ -1,0 +1,31 @@
+---
+choices: It has not suffered as much environmental damage as other areas of the continent that are a lot colder have. | It offers more potential than other areas as a place for humans to introduce new species to the region. | It is home to animals from other areas of the continent that are escaping from rising human activity. | It is the easiest place to get to for certain species that need to be on land to give birth to their young.
+answerText: It is the easiest place to get to for certain species that need to be on land to give birth to their young.
+---
+【正解】4 It is the easiest place to get to for certain species that need to be on land to give birth to their young.（陸の上で子を産む必要のある一部の種にとって、最も行きやすい場所である。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is said about the significance of Antarctica's ice-free land?（南極大陸の氷のない土地の重要性について、何と述べられているか。）
+1 It has not suffered as much environmental damage as other areas of the continent that are a lot colder have.（そこは、ずっと寒い大陸のほかの地域ほどには環境の被害を受けていない。）
+2 It offers more potential than other areas as a place for humans to introduce new species to the region.（そこは、人間がこの地域に新しい種を持ち込む場所として、ほかの地域より大きな可能性がある。）
+3 It is home to animals from other areas of the continent that are escaping from rising human activity.（そこは、増えていく人間の活動から逃げてきた、大陸のほかの地域の動物のすみかになっている。）
+4 It is the easiest place to get to for certain species that need to be on land to give birth to their young.（陸の上で子を産む必要のある一部の種にとって、最も行きやすい場所である。）
+【考え方】
+まず見るところ：第1段落の because it provides the most accessible environment for species that have their young on land
+設問の significance は「重要性」、ice-free は「氷のない」という意味です。第1段落で、氷のない土地が野生生物にとってなぜ大切なのかが書かれています。
+This tiny area is indispensable to much of the region's wildlife, including birds such as snow petrels, because it provides the most accessible environment for species that have their young on land.（このわずかな地域は、ユキドリのような鳥を含め、この地域の野生生物の多くにとって欠かせないものだ。陸の上で子を産む種にとって、最も近づきやすい環境となっているからである）
+indispensable は「欠かせない」、accessible は「近づきやすい、行きやすい」、have their young は「子を産む」という意味です。
+本文と選択肢4を対にすると、次のようになります。
+本文 the most accessible environment（最も近づきやすい環境）＝ 選択肢 the easiest place to get to（最も行きやすい場所）
+本文 species that have their young on land（陸の上で子を産む種）＝ 選択肢 certain species that need to be on land to give birth to their young（陸の上で子を産む必要のある一部の種）
+ですから4が正解です。
+この問題の型：言いかえ（accessible ＝ easiest to get to、have their young ＝ give birth to their young）
+【ほかの選択肢】
+1 本文にありません。本文には human activity has had a negative impact on 80 percent of the ice-free area（人間の活動は氷のない地域の80パーセントに悪い影響を与えてきた）とありますが、もっと寒い地域と被害の大きさを比べた話は出てきません。
+2 本文の内容と合いません。本文で外国の種が持ち込まれることは、A major ecological concern（生態系に関わる大きな心配）として書かれています。新しい種を持ち込む場所として可能性がある、という話ではありません。
+3 本文にありません。人間の活動から逃げてきた動物がすみついているとは書かれていません。本文で動物にとって大切だとされている理由は、子を産む場所として近づきやすいことです。
+【覚えるポイント】
+・accessible：「近づきやすい、行きやすい、利用しやすい」。選択肢では easiest place to get to（最も行きやすい場所）と言いかえられています。
+・設問の significance（重要性）のような語があるときは、本文の indispensable（欠かせない）や because ～（なぜなら～）の部分に答えがあることが多いので、理由を表す部分を探すと手がかりになります。

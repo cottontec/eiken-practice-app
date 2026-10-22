@@ -1,6 +1,7 @@
 ---
 choices: are making more money at summer jobs | have started working at a younger age | are more concerned about education | make a serious error
 answerText: are more concerned about education
+reviewed: yes
 ---
 【正解】3 are more concerned about education（教育のことをより気にかけている）
 【和訳】

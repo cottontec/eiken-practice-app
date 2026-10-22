@@ -1,6 +1,7 @@
 ---
 choices: The match between the material being taught and the teaching approach matters more than teaching to students' preferred learning styles. | If the idea of learning styles continues to gain acceptance, there will likely be major changes to textbooks on educational theory. | The connection between textbooks on educational theory and actual methods used by teachers is not clear enough. | Mathematics is one area where teachers should make the effort to change their teaching style based on students' preferences.
 answerText: The match between the material being taught and the teaching approach matters more than teaching to students' preferred learning styles.
+reviewed: yes
 ---
 【正解】1 The match between the material being taught and the teaching approach matters more than teaching to students' preferred learning styles.（教えている内容と教え方が合っていることのほうが、生徒の好む学習スタイルに合わせて教えることよりも大切だ。）
 【和訳】

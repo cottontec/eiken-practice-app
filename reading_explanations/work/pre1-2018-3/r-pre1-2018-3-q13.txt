@@ -1,6 +1,7 @@
 ---
 choices: refine | amuse | shred | accompany
 answerText: refine
+reviewed: yes
 ---
 【正解】1 refine（磨きをかける、よりよくする）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: The government will only declare a state of emergency if there is evidence of land rise occurring. | Because so much focus is put on the possibility of an eruption, local residents are quick to react to emergency warnings. | The government is concerned that scientists have not considered all the possible factors that could lead to an eruption. | Even though the volcano has been showing signs it could erupt, it may be difficult to convince local residents of the actual danger.
 answerText: Even though the volcano has been showing signs it could erupt, it may be difficult to convince local residents of the actual danger.
+reviewed: yes
 ---
 【正解】4 Even though the volcano has been showing signs it could erupt, it may be difficult to convince local residents of the actual danger.（その火山は噴火するかもしれないしるしを見せてきているが、地元の住民に本当の危険を納得させるのは難しいかもしれない。）
 【和訳】

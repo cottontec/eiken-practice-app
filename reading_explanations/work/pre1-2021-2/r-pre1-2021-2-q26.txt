@@ -1,0 +1,30 @@
+---
+choices: For example | Because of this | Nonetheless | In short
+answerText: Nonetheless
+---
+【正解】3 Nonetheless（それにもかかわらず、それでも）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 For example（たとえば）
+2 Because of this（このために、このことが原因で）
+3 Nonetheless（それにもかかわらず、それでも）
+4 In short（要するに、手短に言えば）
+【考え方】
+まず見るところ：第1段落の空所の前の Only one ～ survives today と、空所のあとの five more actually existed
+空所の前の文は次のとおりです。
+Only one of these “Seven Wonders of the Ancient World”—the Pyramids of Giza, in Egypt—survives today.（これらの「古代世界の七不思議」のうち、今日まで残っているのは、エジプトのギザのピラミッドただ1つだけである）
+Only one（ただ1つだけ）と survives（残っている）から、7つのうち6つは今はもうない、ということが分かります。
+次に、空所のあとを見ます。
+( 26 ), historians and archaeologists have discovered sufficient evidence to confirm that five more actually existed.（（26）、歴史学者や考古学者たちは、さらに5つが実際に存在したことを確かめるのに十分な証拠を見つけている）
+sufficient は「十分な」、confirm は「確かめる」という意味です。「今は残っていない」のに「存在した証拠は見つかっている」という、予想とは逆向きの内容が続いています。
+Nonetheless は「それにもかかわらず」という意味で、前の内容から予想されることとちがうことを述べるときに使います。「1つしか残っていない。それにもかかわらず、5つは存在した証拠がある」とつながるので、3が正解です。
+この問題の型：対比（1つしか残っていない⇔5つは存在した証拠がある）
+【ほかの選択肢】
+1 For example は「たとえば」です。空所のあとの内容は、「ピラミッドだけが残っている」ことの例ではないので、つながりません。
+2 Because of this は「このために」です。「1つしか残っていないために、5つが存在した証拠が見つかった」となり、原因と結果の関係として筋が通りません。
+4 In short は「要するに」です。空所のあとは前の内容をまとめた文ではなく、新しい事実（5つの存在の証拠）を加えているので、合いません。
+【覚えるポイント】
+・Nonetheless：「それにもかかわらず」。nevertheless とほぼ同じ意味です。
+・空所の前に「残っていない」のような否定的な事実があり、あとに「それでも証拠がある」のような逆向きの内容が続くときは、Nonetheless などの逆の流れを示すつなぎの語が入る手がかりになります。

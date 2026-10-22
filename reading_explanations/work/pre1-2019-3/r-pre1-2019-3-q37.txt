@@ -17,10 +17,11 @@ answerText: The seeds of trees taken from the Outer Hebrides or from similarly h
 第3段落の始めで、the origin of the seeds is critical（種子がどこから来たものかがとても重要だ）と述べられています。マッケイは、以前のシェトランド諸島の計画を例に挙げています。
 That plan initially used young trees brought over from the Scottish mainland, but eventually, seeds and trees from the nearby Faroe Islands had to be introduced.（その計画では、最初はスコットランド本土から運ばれた若い木が使われたが、最終的には、近くのフェロー諸島の種子と木を取り入れなければならなかった）
 Mackay notes that the genetic makeup of trees from the mainland does not enable them to deal with harsh island conditions.（マッケイは、本土の木の遺伝的な性質では、厳しい島の環境に対応できないと指摘している）
-genetic makeup は「遺伝的な性質（親から受けつがれる体の性質）」、harsh は「厳しい」という意味です。本土の木はうまくいかず、近くの島の種子と木に切りかえた、という経験です。そして今回の計画では、seeds are being taken from trees that currently remain on the Outer Hebrides（現在アウター・ヘブリディーズ諸島に残っている木から種子が取られている）と書かれています。
+genetic makeup は「遺伝的な性質（親から受けつがれる体の性質）」、harsh は「厳しい」という意味です。本土の木はうまくいかず、近くの島の種子と木に切りかえた、という経験です。今回の計画については、次のように書かれています。
+For the Hebridean Ark Tree Project, seeds are being taken from trees that currently remain on the Outer Hebrides（ヘブリディーズ・アーク・ツリー・プロジェクトでは、現在アウター・ヘブリディーズ諸島に残っている木から種子が取られている）
 本文と選択肢を対にすると、次のようになります。
 ・本文 trees that currently remain on the Outer Hebrides（アウター・ヘブリディーズ諸島に残っている木）→ 選択肢 taken from the Outer Hebrides（アウター・ヘブリディーズ諸島から取った）
-・本文 the nearby Faroe Islands（近くのフェロー諸島：厳しい島の環境の例）→ 選択肢 similarly harsh environments（同じように厳しい環境）
+・本文 seeds and trees from the nearby Faroe Islands had to be introduced（近くのフェロー諸島の種子と木を取り入れなければならなかった）→ 読み取れること：本土ではなく、近くの島の環境で育った木の種子が必要だった（選択肢 from similarly harsh environments（同じように厳しい環境から））
 ・本文 本土の木は厳しい島の環境に対応できない → 読み取れること：厳しい島の環境の木の種子のほうがうまく育つ見こみが高い（選択肢 the most likely to grow successfully）
 ですから4が正解です。
 この問題の型：推論（シェトランド諸島の例から学べることを考える）／言いかえ（harsh island conditions → similarly harsh environments）

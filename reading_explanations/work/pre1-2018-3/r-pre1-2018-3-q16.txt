@@ -1,6 +1,7 @@
 ---
 choices: weary | verified | cheery | rash
 answerText: weary
+reviewed: yes
 ---
 【正解】1 weary（うんざりした、疲れた）
 【和訳】

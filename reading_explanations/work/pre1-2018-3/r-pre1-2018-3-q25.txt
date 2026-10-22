@@ -1,6 +1,7 @@
 ---
 choices: stick around | step down | play up | take off
 answerText: stick around
+reviewed: yes
 ---
 【正解】1 stick around（その場に残る、とどまる）
 【和訳】

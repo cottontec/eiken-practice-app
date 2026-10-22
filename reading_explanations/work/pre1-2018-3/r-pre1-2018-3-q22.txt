@@ -1,6 +1,7 @@
 ---
 choices: stir up | count on | shut out | lock in
 answerText: stir up
+reviewed: yes
 ---
 【正解】1 stir up（〔もめごとなどを〕引き起こす）
 【和訳】

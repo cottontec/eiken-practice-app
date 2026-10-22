@@ -1,6 +1,7 @@
 ---
 choices: The large amounts of sand and mud in the waters they swam into entered their lungs and affected their breathing. | The squid they were hunting led them to unfamiliar territory, where they consumed harmful plastic waste. | They swam into shallow areas where their heavy weight resulted in their being unable to breathe. | They consumed a type of animal that happened to be toxic, making them too ill to swim to deeper waters.
 answerText: They swam into shallow areas where their heavy weight resulted in their being unable to breathe.
+reviewed: yes
 ---
 【正解】3 They swam into shallow areas where their heavy weight resulted in their being unable to breathe.（浅い場所に泳いで入りこみ、そこで自分たちの重い体重のせいで呼吸ができなくなった。）
 【和訳】
@@ -26,7 +27,7 @@ They became trapped in these shallow areas, and without enough water to support 
 【ほかの選択肢】
 1 本文の砂や泥は、which prevented them from using sonar clicks to navigate（そのせいで、ソナーのクリック音を使って進む方向を決めることができなくなった）と書かれています。砂や泥が肺に入ったとは書かれていません。肺がつぶれたのは、体重を支える水が足りなかったためです。
 2 イカを追ったという説も、プラスチックを飲みこんだという説も、本文では these theories were quickly disproved（これらの説はすぐに誤りだと証明された）とされています。
-4 毒のある動物を食べたという話は、本文に書かれていません。食べ物について書かれているのはイカとプラスチックの説だけで、どちらも誤りだと証明されています。
+4 毒のある動物を食べたという話は、本文に書かれていません。食べた物について書かれているのはイカとプラスチックの説だけで、どちらも誤りだと証明されています。
 【覚えるポイント】
 ・respiratory failure：「呼吸不全（呼吸がうまくできなくなること）」。選択肢では being unable to breathe（呼吸ができない）と、やさしい言い方に言いかえられています。
 ・本文に「初めはこう考えられた」という説が出てきて、そのあとに However, these theories were quickly disproved（しかし、これらの説はすぐに誤りだと証明された）が続くときは、その説を使った選択肢は正解になりません。

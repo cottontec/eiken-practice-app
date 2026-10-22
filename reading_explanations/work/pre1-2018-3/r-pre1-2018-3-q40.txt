@@ -1,6 +1,7 @@
 ---
 choices: has been misused by teachers, who have failed to use it to separate students into groups based on their study habits. | could be improved by expanding the definitions of individual learning styles to include a wider variety of learners. | has been adopted by instructors in spite of a lack of evidence that shows such styles actually exist. | gained popularity only after data showed that its application by teachers results in increased academic achievement by students.
 answerText: has been adopted by instructors in spite of a lack of evidence that shows such styles actually exist.
+reviewed: yes
 ---
 【正解】3 has been adopted by instructors in spite of a lack of evidence that shows such styles actually exist.（そのようなスタイルが実際にあることを示す証拠がないにもかかわらず、教える人たちに取り入れられてきた。）
 【和訳】

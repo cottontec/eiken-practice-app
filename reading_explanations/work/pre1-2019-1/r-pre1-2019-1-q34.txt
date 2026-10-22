@@ -2,13 +2,13 @@
 choices: The use of hostile architecture only lessens the symptoms of societal problems, while ignoring the actual causes. | Homeless people and others who spend time in public spaces must be consulted about their design. | Although homeless people and teenagers often intentionally damage architecture, the damage is usually minor. | Hostile architecture shows that architects are prioritizing their own financial gain over the opportunity to help society.
 answerText: The use of hostile architecture only lessens the symptoms of societal problems, while ignoring the actual causes.
 ---
-【正解】1 The use of hostile architecture only lessens the symptoms of societal problems, while ignoring the actual causes.（敵対的建築を使うことは、社会の問題の表面に出た症状を軽くするだけで、本当の原因は無視している。）
+【正解】1 The use of hostile architecture only lessens the symptoms of societal problems, while ignoring the actual causes.（敵対的建築を使うことは、社会の問題の症状を軽くするだけで、本当の原因は無視している。）
 【和訳】
 ＜本文の全訳＞
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：What is the main point suggested in the third paragraph?（第3段落で示されている主な論点は何か。）
-1 The use of hostile architecture only lessens the symptoms of societal problems, while ignoring the actual causes.（敵対的建築を使うことは、社会の問題の表面に出た症状を軽くするだけで、本当の原因は無視している。）
+1 The use of hostile architecture only lessens the symptoms of societal problems, while ignoring the actual causes.（敵対的建築を使うことは、社会の問題の症状を軽くするだけで、本当の原因は無視している。）
 2 Homeless people and others who spend time in public spaces must be consulted about their design.（ホームレスの人々や、公共の場所で時間を過ごすほかの人々に、その場所のデザインについて意見を聞かなければならない。）
 3 Although homeless people and teenagers often intentionally damage architecture, the damage is usually minor.（ホームレスの人々や十代の若者はよくわざと建物を傷つけるが、その損傷はたいてい小さい。）
 4 Hostile architecture shows that architects are prioritizing their own financial gain over the opportunity to help society.（敵対的建築は、建築家たちが、社会を助ける機会よりも自分たちのお金のもうけを優先していることを示している。）

@@ -1,6 +1,7 @@
 ---
 choices: has led to conflict between countries | has caused financial losses | could reduce some countries' territory | can be difficult to measure
 answerText: can be difficult to measure
+reviewed: yes
 ---
 【正解】4 can be difficult to measure（測るのが難しいことがある）
 【和訳】
@@ -14,7 +15,7 @@ answerText: can be difficult to measure
 【考え方】
 まず見るところ：第2段落の空所の前の However と、空所のあとの Information about forest resources in Africa is often unreliable
 空所のある文は However, progress (27).（しかし、進み具合は（27））です。前の文では、アフリカについてよくない報告が書かれています。
-REDD+ seems to have had less success in African nations, where deforestation is reported to be on the rise.（アフリカの国々では、REDD+は（ブラジルや中国に比べて）成功していないようで、そこでは森林破壊が増えていると報告されている）
+REDD+ seems to have had less success in African nations, where deforestation is reported to be on the rise.（アフリカの国々では、REDD+は（これらの例に比べて）成功が少ないようで、そこでは森林破壊が増えていると報告されている）
 However（しかし）があるので、この「アフリカではうまくいっていない」という報告に、待ったをかける内容が続くと考えられます。そこで、空所のあとの文を読みます。
 Information about forest resources in Africa is often unreliable, and the deforestation rate across the continent is thought to be exaggerated, with the real figure possibly being half of what is reported.（アフリカの森林資源についての情報は信頼できないことが多く、大陸全体の森林破壊の割合は大げさに伝えられていると考えられていて、実際の数字は報告されている数字の半分かもしれない）
 unreliable は「信頼できない」、exaggerated は「大げさに伝えられた」です。情報が正確でなく、本当の数字が分からないのですから、「進み具合を正しく測るのは難しい」ということになります。ですから4が正解です。

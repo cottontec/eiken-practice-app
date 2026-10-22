@@ -1,0 +1,33 @@
+---
+choices: They can increase antioxidants' effectiveness in improving the health of people who are not receiving enough nutrition. | They are released after a person consumes certain vitamins to ensure that those vitamins go where they are needed in the body. | They play an important role in the immune system because they seek out and eliminate threats to healthy cells. | They are similar to viruses and bacteria in that they can actually be made stronger by the presence of antioxidants.
+answerText: They play an important role in the immune system because they seek out and eliminate threats to healthy cells.
+---
+【正解】3 They play an important role in the immune system because they seek out and eliminate threats to healthy cells.（フリーラジカルは、健康な細胞をおびやかすものを探し出して取り除くので、免疫の仕組みの中で大切な役割を果たしている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to the author of the passage, how do free radicals function within the body?（この文章の筆者によると、フリーラジカルは体の中でどのように働くか。）
+1 They can increase antioxidants' effectiveness in improving the health of people who are not receiving enough nutrition.（フリーラジカルは、十分な栄養をとれていない人の健康をよくするうえで、抗酸化物質の効果を高めることができる。）
+2 They are released after a person consumes certain vitamins to ensure that those vitamins go where they are needed in the body.（フリーラジカルは、人がある種のビタミンをとったあと、そのビタミンが体の中の必要な場所へ確実に届くように放出される。）
+3 They play an important role in the immune system because they seek out and eliminate threats to healthy cells.（フリーラジカルは、健康な細胞をおびやかすものを探し出して取り除くので、免疫の仕組みの中で大切な役割を果たしている。）
+4 They are similar to viruses and bacteria in that they can actually be made stronger by the presence of antioxidants.（フリーラジカルは、抗酸化物質があると実際により強くなりうるという点で、ウイルスや細菌に似ている。）
+【考え方】
+まず見るところ：第4段落の When the body releases free radicals as part of its immune response, they target and destroy ～
+a low or moderate level of free radicals serves a beneficial purpose in defending the body from illness（低い量や中くらいの量のフリーラジカルは、体を病気から守るのに役立つ働きをしている）
+moderate は「中くらいの、ほどほどの」、beneficial は「役に立つ、有益な」という意味です。
+When the body releases free radicals as part of its immune response, they target and destroy bacteria, viruses, and damaged cells—including cancerous and precancerous ones.（体が免疫反応の一部としてフリーラジカルを放出すると、フリーラジカルは細菌やウイルス、そして傷ついた細胞――がん細胞やがんになりかけの細胞もふくむ――をねらって破壊する）
+immune response は「免疫反応（体が病原体などと戦う働き）」、target は「ねらう」という意味です。フリーラジカルは、体にとって害になるものを攻撃して、体を守っています。
+本文と選択肢を対にすると、次のようになります。
+・本文 as part of its immune response（免疫反応の一部として）、serves a beneficial purpose（役に立つ働きをしている）→ 選択肢 play an important role in the immune system（免疫の仕組みの中で大切な役割を果たす）
+・本文 target and destroy（ねらって破壊する）→ 選択肢 seek out and eliminate（探し出して取り除く）
+・本文 bacteria, viruses, and damaged cells（細菌、ウイルス、傷ついた細胞）→ 選択肢 threats to healthy cells（健康な細胞をおびやかすもの）
+ですから3が正解です。
+この問題の型：言いかえ（target and destroy → seek out and eliminate）／具体例とまとめ（細菌・ウイルス・傷ついた細胞→threats）
+【ほかの選択肢】
+1 本文にありません。栄養不足については、ビタミンのサプリメントが壊血病のような病気の治療に効果がある、と書かれているだけです。フリーラジカルが抗酸化物質の効果を高めるとは書かれていません。
+2 本文にありません。フリーラジカルは as part of its immune response（免疫反応の一部として）放出されると書かれています。ビタミンを体の必要な場所に届けるために放出されるとは書かれていません。
+4 本文にありません。第4段落には、大量の抗酸化物質をとると allow disease to grow stronger（病気がより強くなるのを許してしまう）かもしれないとありますが、強くなるのは「病気」です。フリーラジカルが抗酸化物質によって強くなるとも、ウイルスや細菌に似ているとも書かれていません。むしろフリーラジカルは、ウイルスや細菌を破壊する側として書かれています。
+【覚えるポイント】
+・target and destroy：「ねらって破壊する」。選択肢では seek out and eliminate（探し出して取り除く）と言いかえられています。
+・選択肢に本文と同じ語句（ここでは stronger）があっても、本文で「何が」強くなるのか、主語を確かめることが大切です。

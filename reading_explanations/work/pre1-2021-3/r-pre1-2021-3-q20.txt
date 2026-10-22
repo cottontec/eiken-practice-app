@@ -1,0 +1,30 @@
+---
+choices: entrust | discard | strangle | retreat
+answerText: retreat
+---
+【正解】4 retreat（退却する、後ろへ下がる）
+【和訳】
+（英文）
+The general knew his troops were losing the battle, so he ordered them to ［retreat］. Once they were safely away from the battlefield, he worked on a new plan to defeat the enemy.
+（訳）
+その将軍は、自分の部隊が戦いに負けつつあると分かっていたので、部隊に（退却する）よう命じた。部隊が戦場から安全に離れると、彼は敵を打ち負かすための新しい作戦に取り組んだ。
+（選択肢の意味）
+1 entrust：任せる、預ける
+2 discard：捨てる
+3 strangle：首をしめる
+4 retreat：退却する（戦いの場から後ろへ下がる）
+【考え方】
+まず見るところ：前半の his troops were losing the battle と、次の文の Once they were safely away from the battlefield
+general は「将軍（軍隊を率いる人）」、troops は「部隊、兵士たち」です。将軍は、自分の部隊が負けつつあると分かっていました。
+so he ordered them to (　)（だから、彼は部隊に〇〇するよう命じた）
+次の文に、そのあとのようすが書かれています。
+Once they were safely away from the battlefield（彼らが戦場から安全に離れると）
+once は「いったん～すると」です。部隊は戦場から離れたのですから、将軍は戦場から下がるように命じたと分かります。retreat は「退却する」なので、4が正解です。
+この問題の型：因果（losing the battle → so ～ retreat）
+【ほかの選択肢】
+1 entrust は「任せる、預ける」です。entrust はふつう「何を・だれに」任せるのかを後ろに置いて使う語で、「部隊に任せるよう命じた」だけでは意味が通りません。また、戦場から離れたこととつながりません。
+2 discard は「捨てる」です。何を捨てるのかが示されておらず、戦場から安全に離れたという次の文とつながりません。
+3 strangle は「首をしめる」です。だれの首をしめるのかが示されておらず、負けそうな部隊に出す命令としても意味が通りません。
+【覚えるポイント】
+・retreat：「退却する、後ろへ下がる」。troops：「部隊」。once ～：「いったん～すると」。
+・次の文に away from the battlefield（戦場から離れて）のような結果が書かれているときは、その結果につながる動きを表す語を選ぶのが手がかりになります。

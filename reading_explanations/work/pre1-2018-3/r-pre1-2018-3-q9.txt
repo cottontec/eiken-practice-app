@@ -1,6 +1,7 @@
 ---
 choices: refund | relay | reinforce | reserve
 answerText: reinforce
+reviewed: yes
 ---
 【正解】3 reinforce（補強する）
 【和訳】
@@ -18,7 +19,7 @@ After inspecting the old dam, engineers reported that urgent measures to ［rein
 空所のある部分は urgent measures to ( ) it（それを（　）するための緊急の対策）です。measure は「対策」、it は the old dam（その古いダム）を指しています。
 Without them, the dam could collapse.（その対策がなければ、ダムは崩れてしまうおそれがある）
 them は urgent measures（緊急の対策）を指します。「対策がなければダムが崩れる」のですから、その対策はダムを崩れないように強くするためのものだと分かります。reinforce は「補強する」という意味なので、3が正解です。
-この問題の型：指示語（it ＝ the old dam、them ＝ urgent measures）
+この問題の型：推論（対策がなければ崩れる → 崩れないように強くする対策）、指示語（it ＝ the old dam、them ＝ urgent measures）
 【ほかの選択肢】
 1 refund は「（お金を）払い戻す」です。「ダムを払い戻すための対策」となり、意味が通りません。
 2 relay は「中継する、伝える」です。「ダムを中継するための対策」となり、ダムが崩れるのを防ぐこととつながりません。

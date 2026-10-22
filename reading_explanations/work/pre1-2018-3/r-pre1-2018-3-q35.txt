@@ -1,6 +1,7 @@
 ---
 choices: Computer analysis of real-time data has proved more useful than satellite measurements. | Satellite data showing changes in the level of Earth's crust can indicate volcanic activity. | Computer models allow scientists to calculate the temperature of magma in a given location. | Satellite data gathered during extreme weather events can be useful in predicting the size of eruptions.
 answerText: Satellite data showing changes in the level of Earth's crust can indicate volcanic activity.
+reviewed: yes
 ---
 【正解】2 Satellite data showing changes in the level of Earth's crust can indicate volcanic activity.（地球の地殻の高さの変化を示す人工衛星のデータが、火山の活動を示すことがある。）
 【和訳】

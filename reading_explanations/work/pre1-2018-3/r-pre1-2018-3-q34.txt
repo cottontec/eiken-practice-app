@@ -1,6 +1,7 @@
 ---
 choices: realized that they had traveled off course and tried to find their way again using a different method. | been less independent and therefore swum back toward the equator to return to the females. | known to follow the lead of the females, which generally travel more and have better navigation skills. | been unable to use sonar clicks to request help from other whales that were nearby.
 answerText: realized that they had traveled off course and tried to find their way again using a different method.
+reviewed: yes
 ---
 【正解】1 realized that they had traveled off course and tried to find their way again using a different method.（自分たちが進路からはずれてしまったことに気づき、別の方法を使って再び道を見つけようとした〔だろう〕。）
 【和訳】
@@ -24,7 +25,7 @@ In contrast, more experienced whales would have known to use other navigation me
 ですから1が正解です。
 この問題の型：対比（若いオスは気づかなかった ⇔ 経験のあるクジラなら別の方法で立て直した）
 【ほかの選択肢】
-2 本文では、年をとった経験豊富なオスは are more solitary and travel alone（群れずに過ごすことが多く、ひとりで移動する）と書かれています。年をとると独立心が弱くなるという話も、メスのいる赤道の方へ帰るという話も書かれていません。
+2 本文では、年をとった経験豊富なオスは are more solitary and travel alone（単独で行動する傾向が強く、ひとりで移動する）と書かれています。年をとると独立心が弱くなるという話も、メスのいる赤道の方へ帰るという話も書かれていません。
 3 本文には、メスのマッコウクジラは赤ちゃんといっしょに remain in waters around the equator（赤道の周りの海にとどまる）と書かれているだけです。メスのほうが多く移動するとも、方向を決める技術が優れているとも書かれていません。
 4 本文では、経験のあるクジラなら、ソナーのクリック音を使って向きを立て直すことを知っていただろうと書かれています。ソナーを使えないという内容は、この説明と合いません。また、ほかのクジラに助けを求めるという話も書かれていません。
 【覚えるポイント】
