@@ -1,0 +1,35 @@
+---
+choices: They are much more effective for reducing unemployment rates when a recession is not as serious. | Evidence suggests that they tend to encourage recipients to relocate to areas where more jobs are available. | They tend to free up resources for other types of government programs that promote economic recovery. | Because SNAP benefits have the effect of stimulating local economies, enforcing work requirements can make it harder to recover from recessions.
+answerText: Because SNAP benefits have the effect of stimulating local economies, enforcing work requirements can make it harder to recover from recessions.
+---
+【正解】4 Because SNAP benefits have the effect of stimulating local economies, enforcing work requirements can make it harder to recover from recessions.（SNAPの給付には地域の経済を活発にする効果があるので、就労要件を実施すると、景気後退から立ち直るのが難しくなることがある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What has research shown about the wider economic effects of employment requirements for SNAP benefits?（SNAPの給付の就労要件がもたらす、より広い経済への影響について、研究は何を示してきたか。）
+1 They are much more effective for reducing unemployment rates when a recession is not as serious.（就労要件は、景気後退がそれほど深刻でないときのほうが、失業率を下げるのにずっと効果がある。）
+2 Evidence suggests that they tend to encourage recipients to relocate to areas where more jobs are available.（就労要件は、受給者に、より多くの仕事がある地域へ移り住むよう促す傾向があることが、証拠から分かる。）
+3 They tend to free up resources for other types of government programs that promote economic recovery.（就労要件は、景気の回復を進めるほかの種類の政府の計画のために、お金などの資源を使えるようにする傾向がある。）
+4 Because SNAP benefits have the effect of stimulating local economies, enforcing work requirements can make it harder to recover from recessions.（SNAPの給付には地域の経済を活発にする効果があるので、就労要件を実施すると、景気後退から立ち直るのが難しくなることがある。）
+【考え方】
+まず見るところ：第3段落の This also has broader consequences beyond individual hardship. のあとの部分
+This also has broader consequences beyond individual hardship.（このことは、個人の苦しみにとどまらない、より広い影響ももたらす）
+設問の wider economic effects（より広い経済への影響）は、この broader consequences（より広い影響）の部分にあたります。ここから先を読みます。
+SNAP benefits are typically spent immediately and within one's own community, helping to sustain demand in the economy.（SNAPの給付は、たいていすぐに、しかも自分の住む地域の中で使われ、経済の中の需要を支える助けとなっている）
+demand は「需要（物を買いたいという求め）」、sustain は「支える」という意味です。給付のお金が地域のお店ですぐに使われるので、地域の経済が回る助けになっている、ということです。
+By restricting access to SNAP benefits during economic downturns, the program loses its ability to protect both families and communities from deeper economic harm.（景気後退の間にSNAPの給付を受けにくくすることで、このプログラムは、家族と地域の両方をより深刻な経済的な打撃から守る力を失う）
+economic downturn は「景気後退」、restrict は「制限する」という意味です。就労要件で給付を受けにくくすると、地域を守る力がなくなると書かれています。
+本文と選択肢を対にすると、次のようになります。
+・本文 spent immediately and within one's own community, helping to sustain demand in the economy（すぐに地域の中で使われ、経済の需要を支える助けとなる）→ 選択肢 have the effect of stimulating local economies（地域の経済を活発にする効果がある）
+・本文 restricting access to SNAP benefits during economic downturns（景気後退の間に給付を受けにくくすること）→ 選択肢 enforcing work requirements（就労要件を実施すること）
+・本文 loses its ability to protect both families and communities from deeper economic harm（より深刻な経済的な打撃から守る力を失う）と、a source of economic activity that could lessen the impact of job losses（失業の影響をやわらげることのできる経済活動の源）を失うこと → 読み取れること：can make it harder to recover from recessions（景気後退から立ち直るのが難しくなることがある）
+立ち直るのが難しくなるという部分は、本文の「守る力を失う」「影響をやわらげる源を失う」から読み取れる内容です。ですから4が正解です。
+この問題の型：言いかえ（sustain demand in the economy → stimulating local economies）／推論（守る力を失う→立ち直りにくくなる）
+【ほかの選択肢】
+1 本文にありません。景気後退が深刻かどうかで就労要件の効果が変わるという話は書かれていません。また、第1段落では、改革は就業率に little or no effect（ほとんど、あるいはまったく影響がない）だったと述べられています。
+2 本文にありません。受給者が仕事の多い地域へ移り住むという話は書かれていません。本文が述べているのは、給付が自分の住む地域の中で使われることです。
+3 本文にありません。就労要件によって、ほかの政府の計画にお金などが回るという話は書かれていません。本文はむしろ、給付が減ることで地域が経済活動の源を失うことを問題にしています。
+【覚えるポイント】
+・stimulate：「活発にする、刺激する」。本文の sustain demand in the economy（経済の需要を支える）が、選択肢では stimulating local economies と言いかえられています。
+・設問に wider effects（より広い影響）のような言葉があるときは、本文の broader consequences のように同じ意味の言葉が出てくる場所を探し、そのあとを読むことが手がかりになります。
