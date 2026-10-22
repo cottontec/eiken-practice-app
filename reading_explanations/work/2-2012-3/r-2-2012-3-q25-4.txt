@@ -1,0 +1,21 @@
+---
+choices: it | how | was | different | from
+answerText: it
+order: 4 5 2 1 3
+---
+【正解】1 it（この問題の4番目）
+【完成文】
+When Nicolas went back to visit his hometown, it seemed quite ( different from how it was ) when he lived there. A new highway had been built, and there were many new buildings.
+並べ方：4 different → 5 from → 2 how → 1 it → 3 was（2番目は5、4番目は1）
+【和訳】
+ニコラスが故郷を訪ねに戻ったとき、故郷は、彼がそこに住んでいたころとはずいぶん違って見えました。新しい幹線道路が造られていて、新しい建物がたくさんありました。
+【考え方】
+空所の前は it seemed quite（それはかなり～に見えた）です。seem のあとには、ようすを表す語（形容詞）がきます。選択肢の中では 4 different（違った）がそれにあたるので、quite different（かなり違った）とします。it は his hometown（彼の故郷）を指しています。
+different from ～ は「～と違った」という決まった言い方なので、5 from を続けます。
+from のあとには、「何と違うのか」がきます。残りの 2 how、1 it、3 was で how it was（それがどうであったか、それの以前のようす）とします。how が文の途中に入るときは、how ＋ 主語 ＋ 動詞 の順になります。空所のあとの when he lived there（彼がそこに住んでいたとき）とつなげると、「彼が住んでいたころの故郷のようす」となります。
+こうして「故郷は、彼が住んでいたころのようすとはかなり違って見えた」となり、次の文の A new highway had been built, and there were many new buildings.（新しい幹線道路が造られていて、新しい建物がたくさんあった）という説明とつながります。
+4番目に 1 it が来るのは、how のあとには主語がきて、そのあとに動詞 was が続くからです。
+まちがえやすいのは、疑問文のように how was it と並べてしまうことです。ここでは文の中に組みこまれているので、主語 it のあとに動詞 was を置きます。
+【覚えるポイント】
+・be different from ～：「～と違う」。
+・how it was：「それが（以前）どうであったか」。文の中では how ＋ 主語 ＋ 動詞 の順になります。

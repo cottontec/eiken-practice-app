@@ -2,25 +2,25 @@
 choices: Cats are less likely to be noticed at a crime scene. | Cats have a wider variety of DNA than other animals. | Cat fur tends to remain at a crime scene for a longer time. | Cat fur is more likely to be found on criminals' clothes.
 answerText: Cat fur is more likely to be found on criminals' clothes.
 ---
-【正解】4 Cat fur is more likely to be found on criminals' clothes.（ネコの毛は、犯人の服に付いて見つかることが多い。）
+【正解】4 Cat fur is more likely to be found on criminals' clothes.（ネコの毛のほうが、犯人の服に付いて見つかりやすい。）
 【和訳】
 ＜本文の全訳＞
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：警察は、なぜネコのDNAがほかの動物のDNAより役に立つと考えているのですか。
-1 ネコは犯罪現場で気づかれにくいから。
+1 ネコのほうが、犯罪現場で気づかれにくいから。
 2 ネコはほかの動物より、DNAの種類が豊富だから。
-3 ネコの毛は、犯罪現場により長い時間残りやすいから。
-4 ネコの毛は、犯人の服に付いて見つかることが多いから。
+3 ネコの毛のほうが、犯罪現場に長い時間残りやすいから。
+4 ネコの毛のほうが、犯人の服に付いて見つかりやすいから。
 【考え方】
 ネコのDNAが特に役に立つ理由は、第4段落に書かれています。
 まず they believe that the cat DNA will be especially useful（科学者たちは、ネコのDNAは特に役に立つだろうと考えている）とあり、その理由が This is because cats leave fur behind wherever they go.（それは、ネコがどこへ行っても毛を残していくからだ）と続きます。fur は「（動物の）毛」、leave ～ behind は「～を残していく」です。
 さらに This makes it almost impossible for people nearby to avoid getting fur on their clothes.（このため、近くにいる人が、服に毛が付かないようにすることはほとんど不可能だ）とあります。avoid ～ing は「～しないようにする、～を避ける」です。
 そして For this reason, police confidently expect the DNA of cats to play a part in many future crime investigations.（こうした理由から、警察は、今後の多くの犯罪捜査でネコのDNAが役割を果たすと自信を持って予想している）とまとめています。
-つまり、ネコの近くにいた人の服には毛が付きやすいので、犯人の服からネコの毛が見つかる可能性が高いということです。第2段落のカナダの事件でも、上着に付いた白いネコの毛が手がかりになりました。
+つまり、ネコの近くにいた人の服には毛が付きやすいので、ほかの動物よりも、犯人の服からネコの毛が見つかる可能性が高いということです。第2段落のカナダの事件でも、上着に付いた白いネコの毛が手がかりになりました。
 本文と選択肢は次のように対応しています。
-本文 almost impossible for people nearby to avoid getting fur on their clothes（近くの人が服に毛が付くのを避けるのはほとんど不可能）＝ 選択肢 Cat fur is more likely to be found on criminals' clothes（ネコの毛は犯人の服に付いて見つかることが多い）
-選択肢の be likely to ～ は「～しやすい、～する可能性が高い」です。正解は4です。
+本文 almost impossible for people nearby to avoid getting fur on their clothes（近くの人が服に毛が付くのを避けるのはほとんど不可能）＝ 選択肢 Cat fur is more likely to be found on criminals' clothes（ネコの毛のほうが犯人の服に付いて見つかりやすい）
+選択肢の be likely to ～ は「～しやすい、～する可能性が高い」で、more likely は「（ほかの動物と比べて）より～しやすい」です。正解は4です。
 【ほかの選択肢】
 1 ネコが犯罪現場で気づかれにくいという話は本文にありません。本文の理由は、ネコの毛が人の服に付きやすいということなので、誤りです。
 2 本文には、ネコのDNAの種類がほかの動物より豊富だとは書かれていないので、誤りです。データベースに1,394匹のネコのDNAがあるという数の話はありますが、DNAの種類の多さとは別の話です。

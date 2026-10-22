@@ -1,0 +1,28 @@
+---
+choices: She replied to his newspaper advertisement. | Paul Jones used to work at her advertising agency. | Her company made advertisements for Synergon Appliances before. | He wants her to help him advertise a new type of microwave oven.
+answerText: Her company made advertisements for Synergon Appliances before.
+---
+【正解】3 Her company made advertisements for Synergon Appliances before.（彼女の会社が、以前シナジョン・アプライアンシズ社の広告を作ったことがあるから。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：スティーブ・リーはなぜテイラーさんに連絡しているのですか。
+1 彼女が彼の新聞広告に返事をしたから。
+2 ポール・ジョーンズが以前、彼女の広告代理店で働いていたから。
+3 彼女の会社が、以前シナジョン・アプライアンシズ社の広告を作ったことがあるから。
+4 彼が、新しい種類の電子レンジの広告を手伝ってほしいと思っているから。
+【考え方】
+メールの第1段落を見ます。リーは、テイラーさんのメールアドレスを同僚のポール・ジョーンズから教えてもらったと書いています。そして2文目に He said that your advertising agency created some newspaper advertisements for one of the microwave ovens that we make.（彼によると、あなたの広告代理店は、当社が作っている電子レンジの1つのために新聞広告をいくつか作ったそうだ）とあります。advertising agency は「広告代理店（ほかの会社にたのまれて広告を作る会社）」です。
+続く3文目で、リーは I would like to get your help making some advertisements for another product（別の製品の広告を作るのにあなたの助けを借りたい）と書いています。
+つまり、リーは、テイラーさんの会社が以前に自分の会社の広告を作ったことをジョーンズから聞き、そのうえで新しい広告づくりを頼もうとしています。本文と選択肢は次のように対応しています。
+本文 your advertising agency（あなたの広告代理店）＝ 選択肢 Her company（彼女の会社）
+本文 created some newspaper advertisements for one of the microwave ovens that we make（当社が作っている電子レンジの広告を作った）＝ 選択肢 made advertisements for Synergon Appliances before（以前シナジョン・アプライアンシズ社の広告を作った）
+「当社（we）」はリーが働くシナジョン・アプライアンシズ社のことです。正解は3です。
+【ほかの選択肢】
+1 本文には、リーが新聞広告を出し、それにテイラーさんが返事をしたという話はありません。新聞広告は、テイラーさんの会社がシナジョン社のために作ったものなので、誤りです。
+2 ポール・ジョーンズは one of my co-workers here in the marketing department of Synergon Appliances（ここシナジョン・アプライアンシズ社のマーケティング部の同僚の1人）です。テイラーさんの広告代理店で働いていたとは書かれていないので、人物の働く場所が違います。
+4 リーが広告を作りたいのは another product—the Rendex 500 refrigerator（別の製品、つまりレンデックス500冷蔵庫）です。電子レンジは、以前テイラーさんの会社が広告を作った製品なので、製品が違います。
+【覚えるポイント】
+・advertising agency：「広告代理店」。advertise は「～を宣伝する」、advertisement は「広告」。
+・get your help ～ing：「～するのにあなたの助けを借りる」。

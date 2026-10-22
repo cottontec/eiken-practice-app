@@ -12,7 +12,7 @@ import argparse, json, re, sys, unicodedata, collections, datetime
 
 HERE = Path(__file__).resolve().parent.parent
 PLACEHOLDER = '{{本文全訳}}'
-GENDERED = re.compile(r'ぼく|僕|俺|おれは|あたし|わよ|わね|かしら|おまえ|(?<=[ただるいすてっ])わ(?=[。！？、])')
+GENDERED = re.compile(r'ぼく|僕|俺|おれは|あたし|わよ|わね|かしら|おまえ|きみ|のよ[。！]|なの。|もの。|(?<=[ただるいすてっ])わ(?=[。！？、])')
 HEAD_COMMON = ['【正解】', '【和訳】', '【考え方】', '【覚えるポイント】']
 FORBIDDEN = [('```', 'コード囲み'), ('|---', 'Markdown表'), ('別の問題を見', '他問参照'),
              ('を参照してください', '他問参照'), ('上の問題を見', '他問参照'), ('前の問題を見', '他問参照')]

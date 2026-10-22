@@ -1,0 +1,28 @@
+---
+choices: Create some examples of advertisements based on his requirements. | Come up with some ideas about which newspapers to advertise in. | Discuss the advertisements at a meeting with his co-workers. | Take a look at the design ideas he is sending with the e-mail.
+answerText: Create some examples of advertisements based on his requirements.
+---
+【正解】1 Create some examples of advertisements based on his requirements.（彼の要望に基づいて、広告の見本をいくつか作る。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：スティーブ・リーがテイラーさんにしてほしいことの1つは何ですか。
+1 彼の要望に基づいて、広告の見本をいくつか作る。
+2 どの新聞に広告を出すかについて、いくつかアイデアを考え出す。
+3 彼の同僚たちとの会議で、広告について話し合う。
+4 彼がEメールといっしょに送るデザインのアイデアに目を通す。
+【考え方】
+メールの第3段落を見ます。リーは、来週シナジョン社の事務所に来てほしいとたのんだあと、次のように書いています。
+I will go into more detail about what I want you to put in the advertisements（広告に入れてほしいことについて、もっと詳しく話す）、and we can discuss ideas for the design（デザインのアイデアについても話し合える）。go into detail は「詳しく話す」という意味です。
+そして Then perhaps you could make some samples I can show to my co-workers.（そのあとで、私が同僚たちに見せられる見本をいくつか作ってもらえるかもしれない）と続けています。Then（そのあとで）とあるので、見本づくりは、リーが広告に入れてほしいことを説明したあとのことです。つまり、テイラーさんには、リーの説明した内容をもとに見本を作ってほしい、ということです。本文と選択肢は次のように対応しています。
+本文 make some samples（見本をいくつか作る）＝ 選択肢 Create some examples of advertisements（広告の見本をいくつか作る）
+本文 what I want you to put in the advertisements（広告に入れてほしいこと）＝ 選択肢 his requirements（彼の要望）
+正解は1です。
+【ほかの選択肢】
+2 リーは「デザインのアイデア」について話し合いたいと書いていますが、どの新聞に広告を出すかについては何も書いていないので、誤りです。
+3 本文で話し合いについて書かれているのは we can discuss ideas for the design（私たちでデザインのアイデアを話し合える）の部分で、事務所に来たテイラーさんとリーとの話し合いです。同僚たちについては、あとでリーが見本を見せると書かれているだけです。同僚との会議でテイラーさんが話し合うという話はないので、誤りです。
+4 デザインのアイデアは、事務所に来てもらって話し合うものです。リーがメールといっしょにデザインのアイデアを送るとは書かれていないので、誤りです。
+【覚えるポイント】
+・go into (more) detail about ～：「～について（もっと）詳しく話す」。
+・sample：「見本」。選択肢では example（例、見本）と言いかえられています。

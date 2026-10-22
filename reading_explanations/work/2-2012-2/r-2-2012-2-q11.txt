@@ -1,0 +1,19 @@
+---
+choices: touch | command | recovery | advance
+answerText: command
+---
+【正解】2 command（指揮、命令）
+【和訳】
+大統領は、その国の軍隊を指揮する立場にあります。彼は、いつでもどこへでも兵士を送ることができます。
+（選択肢の意味）1 ふれること、連絡　2 指揮、命令　3 回復　4 前進、進歩
+【考え方】
+空所は The president is in (　) of the country's army.（大統領はその国の軍隊の～の中にいる）にあります。in と of にはさまれているので、in ～ of という決まった形を考えます。
+2文目に He can send soldiers to any place at any time.（彼はいつでもどこへでも兵士を送ることができる）とあります。兵士をどこへ送るかを決められるのは、軍隊を動かす権限をもっている人です。
+command は「指揮、命令」という意味で、be in command of ～ で「～を指揮している」という意味になります。The president is in command of the country's army. で「大統領はその国の軍隊を指揮している」となり、2文目の内容の理由になります。2が正解です。
+【ほかの選択肢】
+1 touch は「ふれること、連絡」です。in touch はふつう in touch with ～（～と連絡をとって）の形で使います。仮に「大統領は軍隊と連絡をとっている」と考えても、兵士をどこへでも送れる理由にはなりません。
+3 recovery は「回復」です。「大統領は軍隊の回復の中にいる」となり、意味が通りません。
+4 advance は「前進、進歩」です。in advance of ～ は「～より前に、～に先立って」という意味です。「大統領は軍隊より先にいる」となり、兵士を送ることができるという2文目とつながりません。
+【覚えるポイント】
+・be in command of ～：「～を指揮している」。take command of ～ で「～の指揮をとる」です。
+・at any time：「いつでも」。

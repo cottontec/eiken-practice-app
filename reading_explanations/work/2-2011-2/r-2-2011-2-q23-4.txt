@@ -8,12 +8,12 @@ order: 5 4 1 3 2
 Jim is usually very friendly, so his ( co-workers found it strange that ) he did not say hello to anyone when he came into work this morning.
 並べ方：5 co-workers → 4 found → 1 it → 3 strange → 2 that（2番目は4、4番目は3）
 【和訳】
-ジムはふだんとても人なつっこいので、今朝出社したときに彼がだれにもあいさつしなかったことを、同僚たちは不思議に思いました。
+ジムはふだんとても親しみやすい人なので、今朝出社したときに彼がだれにもあいさつしなかったことを、同僚たちは不思議に思いました。
 【考え方】
 空所の直前は his（彼の）です。his のあとには名詞がくるので、最初に 5 co-workers（同僚たち）を置き、his co-workers（彼の同僚たち）とします。これが so のあとの文の主語になります。
 主語の次には動詞がくるので、4 found を続けます。ここで find it ～ that ... という形を使います。これは「…ということを～だと思う」という意味で、it は後ろの that 以下の内容を指しています。found のあとに 1 it、3 strange（不思議な、変な）、2 that と並べます。
 that のあとの he did not say hello to anyone when he came into work this morning（今朝出社したとき、彼はだれにもあいさつしなかった）が、同僚たちが不思議に思った内容です。
-前半の Jim is usually very friendly（ジムはふだんとても人なつっこい）と so（だから）でつながり、「ふだんは人なつっこいのに、あいさつをしなかったので不思議に思った」という流れになります。
+前半の Jim is usually very friendly（ジムはふだんとても親しみやすい）と so（だから）でつながり、「ふだんは親しみやすいのに、あいさつをしなかったので不思議に思った」という流れになります。
 found that it strange や found strange it that のように並べると、find it ～ that ... の形がくずれてしまうので注意しましょう。
 4番目に strange が来るのは、find it ～ that ... の形で、it のすぐあとに「どう思ったか」を表す語が入るからです。したがって4番目は3 strangeです。
 【覚えるポイント】

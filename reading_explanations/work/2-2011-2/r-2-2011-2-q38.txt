@@ -21,7 +21,7 @@ answerText: It was agreed to by more countries than any other treaty.
 正解は4です。
 【ほかの選択肢】
 1 条約によって政府がオゾン層の研究をもっとしなければならなくなった、という話は本文にありません。条約が禁止したのは、CFCという気体の使用です。
-2 CFCがオゾンホールをつくったことを示したのは、Data showed that ～（データが示した）とあるように、条約ができる前のデータです。条約がデータを提供したわけではありません。
+2 本文には Data showed that the ozone hole had been created by gases called chlorofluorocarbons (CFCs)（データは、オゾンホールがCFCと呼ばれる気体によってつくられたことを示した）とあり、それを示したのはデータです。条約は、これらの気体の使用を禁止したもので、データを提供したとは書かれていません。
 3 本文で世界に衝撃を与えたのは、科学者たちがオゾンホールの発見を発表したことです。条約が自然への害に注目を集めたから成功とされた、とは書かれていません。
 【覚えるポイント】
 ・treaty：「条約（国と国との約束）」。sign a treaty で「条約に署名する」。

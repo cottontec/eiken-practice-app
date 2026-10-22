@@ -13,7 +13,7 @@ answerText: locate
 4 donate：寄付する
 【考え方】
 空所は第2段落の2文目、One reason is that new technology is making it much easier to (　) them.（その理由の1つは、新しい技術によってそれらを〜するのがずっと簡単になってきていることだ）にあります。them は難破船を指しています。make it easier to ～ は「～するのをより簡単にする」です。
-次の文を見ると、Underwater robots, in particular, are allowing people to search in deeper parts of the ocean than ever before.（特に水中ロボットのおかげで、人々はこれまでより深い海を探せるようになっている）とあります。さらに Now, a number of commercial companies are using such technology to find more and more shipwrecks.（今では、いくつもの営利企業がそうした技術を使って、ますます多くの難破船を見つけている）と続きます。commercial は「営利の、もうけを目的とする」です。
+次の文を見ると、Underwater robots, in particular, are allowing people to search in deeper parts of the ocean than ever before.（特に水中ロボットのおかげで、人々はこれまでより深い海を探せるようになっている）とあります。さらに Now, a number of commercial companies are using such technology to find more and more shipwrecks.（今では、いくつもの営利企業が、ますます多くの難破船を見つけるために、そうした技術を使っている）と続きます。commercial は「営利の、もうけを目的とする」です。
 新しい技術の話はどれも、難破船を「探す」「見つける」ことについてです。locate は「（～の）場所を突き止める、見つけ出す」という意味なので、「新しい技術で難破船を見つけ出すのがずっと簡単になっている」となり、後ろの文の説明とつながります。正解は1です。
 【ほかの選択肢】
 2 repair は「修理する」です。本文には沈んだ船を修理する話はなく、水中ロボットで海を探す、という次の文ともつながりません。
