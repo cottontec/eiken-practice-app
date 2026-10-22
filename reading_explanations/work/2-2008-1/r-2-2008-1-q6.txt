@@ -1,6 +1,7 @@
 ---
 choices: reserved | guarded | attempted | balanced
 answerText: attempted
+reviewed: yes
 ---
 【正解】3 attempted（～しようと試みた）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: predicting | implying | rejecting | gesturing
 answerText: implying
+reviewed: yes
 ---
 【正解】2 implying（～をほのめかしている、それとなく言っている）
 【和訳】

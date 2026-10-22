@@ -1,6 +1,7 @@
 ---
 choices: Fly to Boston from Atlanta. | Put some flight tickets in the mail. | Book a room at the Majestic Hotel. | Pick Ms. Brenner up from the airport.
 answerText: Pick Ms. Brenner up from the airport.
+reviewed: yes
 ---
 【正解】4 Pick Ms. Brenner up from the airport.（空港でブレナーさんを出迎える。）
 【和訳】

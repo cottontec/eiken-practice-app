@@ -1,6 +1,7 @@
 ---
 choices: The most common sitting position is at a 90-degree angle. | Sitting up straight in a chair can be harmful to the backbone. | The key to sitting comfortably is to put one's feet on a chair. | People tend to sit in a variety of positions during the day.
 answerText: Sitting up straight in a chair can be harmful to the backbone.
+reviewed: yes
 ---
 【正解】2 Sitting up straight in a chair can be harmful to the backbone.（いすに背すじをまっすぐにしてすわることは、背骨に害を与えることがある。）
 【和訳】
@@ -14,7 +15,7 @@ answerText: Sitting up straight in a chair can be harmful to the backbone.
 4 人は1日の間にさまざまな姿勢ですわる傾向がある。
 【考え方】
 研究の結果は第2段落に書かれています。It was found that sitting with the back at a 90-degree angle actually puts a lot of stress on the lower part of the backbone.（背中を90度の角度にしてすわることは、実は背骨の下の部分に大きな負担をかけることが分かった）とあります。It was found that ～ は「～ということが分かった」、put stress on ～ は「～に負担をかける」です。
-「背中を90度にしてすわる」とは、背中と太ももが直角になるように背すじを立ててすわる姿勢、つまり「背すじをまっすぐにしてすわる」ことです。第1段落で親が子どもに言っている sit with their backs straight（背すじをまっすぐにしてすわる）と同じ姿勢です。第1段落で研究が some surprising results（いくつかの驚くべき結果）を得たと書かれているのは、このように親の考えとはちがう結果が出たからです。
+「背中を90度にしてすわる」とは、背中と太ももが直角になるように背すじを立ててすわる姿勢、つまり「背すじをまっすぐにしてすわる」ことです。第1段落で親が子どもに言っている sit with their backs straight（背すじをまっすぐにしてすわる）と同じ姿勢です。第1段落で研究が some surprising results（いくつかの驚くべき結果）を得たと書かれていました。親が「よい」と信じてきた姿勢が背骨に負担をかけると分かったことは、その「驚くべき結果」の1つだと考えられます。
 本文 sitting with the back at a 90-degree angle（背中を90度にしてすわること）＝ 選択肢 Sitting up straight in a chair（いすに背すじをまっすぐにしてすわること）
 本文 puts a lot of stress on the lower part of the backbone（背骨の下の部分に大きな負担をかける）＝ 選択肢 can be harmful to the backbone（背骨に害を与えることがある）
 正解は2です。

@@ -1,6 +1,7 @@
 ---
 choices: People should take more time off from work to avoid getting back pain. | His research may result in a cure for 80 percent of people with back pain. | Companies should use chairs with an appropriate design for their employees. | More research is needed to find the healthiest way of sitting when at work.
 answerText: Companies should use chairs with an appropriate design for their employees.
+reviewed: yes
 ---
 【正解】3 Companies should use chairs with an appropriate design for their employees.（企業は従業員のために、適切な設計のいすを使うべきだ。）
 【和訳】

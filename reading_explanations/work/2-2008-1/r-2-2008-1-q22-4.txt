@@ -2,6 +2,7 @@
 choices: not | mention | main course | the | to
 answerText: the
 order: 1 5 2 4 3
+reviewed: yes
 ---
 【正解】4 the（この問題の4番目）
 【完成文】

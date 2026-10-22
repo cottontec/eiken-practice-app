@@ -1,6 +1,7 @@
 ---
 choices: constantly | greatly | mentally | strictly
 answerText: constantly
+reviewed: yes
 ---
 【正解】1 constantly（絶えず、しょっちゅう）
 【和訳】

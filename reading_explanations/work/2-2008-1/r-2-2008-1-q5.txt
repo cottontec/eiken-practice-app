@@ -1,6 +1,7 @@
 ---
 choices: statement | experiment | replacement | entertainment
 answerText: experiment
+reviewed: yes
 ---
 【正解】2 experiment（実験）
 【和訳】

@@ -2,6 +2,7 @@
 choices: the | look | for | into | problem
 answerText: into
 order: 2 4 1 5 3
+reviewed: yes
 ---
 【正解】4 into（この問題の2番目）
 【完成文】

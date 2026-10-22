@@ -1,6 +1,7 @@
 ---
 choices: will bring a whiteboard with her. | is free for a meal in the evening. | wants to use a larger conference room. | has met the president of Interlink Services.
 answerText: is free for a meal in the evening.
+reviewed: yes
 ---
 【正解】2 is free for a meal in the evening.（夜に食事をする時間があるかどうか（たずねている）。）
 【和訳】

@@ -1,0 +1,27 @@
+---
+choices: trees are being cut down faster than new ones can be planted. | in some forests it has become too hot for most trees to grow. | tree seeds have become too expensive to use in many areas. | the seeds of many tree species are no longer available to buy.
+answerText: trees are being cut down faster than new ones can be planted.
+---
+【正解】1 trees are being cut down faster than new ones can be planted.（新しい木を植えられる速さよりも速く、木が切りたおされている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：森林を植え直す取り組みがうまくいっていない理由の1つは、…ということだ。
+1 新しい木を植えられる速さよりも速く、木が切りたおされている
+2 森林の中には、たいていの木が育つには暑くなりすぎたところがある
+3 多くの地域で、木の種が高くなりすぎて使えない
+4 多くの種類の木の種が、もう買えなくなっている
+【考え方】
+設問の efforts to replant forests have not been successful（森林を植え直す取り組みがうまくいっていない）にあたる内容を、第2段落で探します。
+第2段落では、解決策として新しい木を植えることが挙げられたあと、その問題点が書かれています。Doing this by hand, however, is expensive and takes a lot of time.（しかし、これを手作業で行うと、費用がかかり、多くの時間がかかる）、Moreover, transporting the seeds of trees to areas that need replanting can be very difficult.（さらに、植え直しが必要な地域まで木の種を運ぶのはとても難しいことがある）とあり、As a result, traditional methods cannot replace all the trees that are being lost each year.（その結果、昔からのやり方では、毎年失われていくすべての木を補うことはできない）とまとめられています。replace は「～の代わりになる、～を補う」です。
+つまり、植えるのに時間や手間がかかるため、失われる木のほうが多く、植えるのが追いつかないのです。第1段落の more and more forests are being cut down each year（毎年ますます多くの森林が切りたおされている）とも合わせて読むと、選択肢1の内容になります。本文と選択肢は次のように対応しています。
+本文 traditional methods cannot replace all the trees that are being lost each year（昔からのやり方では、毎年失われていくすべての木を補うことはできない）＝ 選択肢 trees are being cut down faster than new ones can be planted（新しい木を植えられる速さよりも速く、木が切りたおされている）
+faster than ～ は「～よりも速く」と、2つの速さを比べる言い方です。正解は1です。
+【ほかの選択肢】
+2 森林が暑くなりすぎて木が育たない、という話は本文にありません。本文の地球温暖化の話は、森林が二酸化炭素を吸収するという内容です。
+3 本文で「費用がかかる」と書かれているのは、手作業で木を植えることです。種が高すぎるという話ではないので、誤りです。また、種については「運ぶのが難しい」と書かれています。
+4 種がもう買えなくなっているという話は本文にありません。
+【覚えるポイント】
+・As a result：「その結果」。前に書かれた問題点をまとめて、その結果を述べるときに使います。
+・faster than ～：「～よりも速く」。比べるものが何かを確かめて読むことが大切です。

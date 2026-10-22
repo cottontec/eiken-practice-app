@@ -1,6 +1,7 @@
 ---
 choices: began | had begun | would have begun | will begin
 answerText: would have begun
+reviewed: yes
 ---
 【正解】3 would have begun（始めていただろう）
 【和訳】

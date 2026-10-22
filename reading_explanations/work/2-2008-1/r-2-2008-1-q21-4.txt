@@ -2,6 +2,7 @@
 choices: hard | long as | studied | they | so
 answerText: studied
 order: 5 2 4 3 1
+reviewed: yes
 ---
 【正解】3 studied（この問題の4番目）
 【完成文】

@@ -1,6 +1,7 @@
 ---
 choices: vague | capable | faithful | stable
 answerText: vague
+reviewed: yes
 ---
 【正解】1 vague（あいまいな、はっきりしない）
 【和訳】

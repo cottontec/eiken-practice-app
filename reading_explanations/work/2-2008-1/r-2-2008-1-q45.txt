@@ -1,6 +1,7 @@
 ---
 choices: The gates are closed to stop too much traffic from entering the tunnel. | The entire tunnel will be used for floodwater only a few times a year. | The routes of two rivers in Kuala Lumpur were changed by engineers. | The Malaysian government hopes to build a second SMART tunnel in Kuala Lumpur.
 answerText: The entire tunnel will be used for floodwater only a few times a year.
+reviewed: yes
 ---
 【正解】2 The entire tunnel will be used for floodwater only a few times a year.（トンネル全体が洪水の水のために使われるのは、年に数回だけだろう。）
 【和訳】

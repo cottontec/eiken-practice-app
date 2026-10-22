@@ -1,6 +1,7 @@
 ---
 choices: transportation | opposition | recognition | nutrition
 answerText: transportation
+reviewed: yes
 ---
 【正解】1 transportation（交通機関、輸送）
 【和訳】

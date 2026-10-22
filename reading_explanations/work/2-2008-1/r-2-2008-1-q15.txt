@@ -1,6 +1,7 @@
 ---
 choices: beneath | under | around | ahead
 answerText: ahead
+reviewed: yes
 ---
 【正解】4 ahead（ahead of schedule で「予定より早く」）
 【和訳】

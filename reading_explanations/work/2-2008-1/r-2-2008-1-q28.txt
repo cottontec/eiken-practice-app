@@ -1,6 +1,7 @@
 ---
 choices: unfair | flexible | convenient | invisible
 answerText: unfair
+reviewed: yes
 ---
 【正解】1 unfair（不公平な）
 【和訳】

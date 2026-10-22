@@ -1,6 +1,7 @@
 ---
 choices: all the traffic inside has been cleared out. | the storm has continued for more than 48 hours. | monitoring stations have made sure the water level is not too high. | its designers have checked to see if the gates are working efficiently.
 answerText: all the traffic inside has been cleared out.
+reviewed: yes
 ---
 【正解】1 all the traffic inside has been cleared out.（中にいる車がすべて出てしまった（ときに）。）
 【和訳】

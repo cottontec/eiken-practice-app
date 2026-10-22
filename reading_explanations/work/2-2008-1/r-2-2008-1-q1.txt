@@ -1,6 +1,7 @@
 ---
 choices: recommend | criticize | deserve | amaze
 answerText: recommend
+reviewed: yes
 ---
 【正解】1 recommend（～を勧める、推薦する）
 【和訳】

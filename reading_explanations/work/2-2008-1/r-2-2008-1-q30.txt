@@ -1,6 +1,7 @@
 ---
 choices: identify | increase | publish | purchase
 answerText: identify
+reviewed: yes
 ---
 【正解】1 identify（～を見つけ出す、特定する）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: courage | evidence | sorrow | punishment
 answerText: evidence
+reviewed: yes
 ---
 【正解】2 evidence（証拠）
 【和訳】

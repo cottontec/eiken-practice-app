@@ -1,6 +1,7 @@
 ---
 choices: engineers are building flood walls that are several kilometers long. | bad weather often makes the construction of new roads impossible. | the heaviest rainstorms are usually during the morning. | floods sometimes cause traffic jams to get worse.
 answerText: floods sometimes cause traffic jams to get worse.
+reviewed: yes
 ---
 【正解】4 floods sometimes cause traffic jams to get worse.（洪水のせいで、交通渋滞がひどくなることがある。）
 【和訳】

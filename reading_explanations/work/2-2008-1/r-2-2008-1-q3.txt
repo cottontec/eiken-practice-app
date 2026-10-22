@@ -1,6 +1,7 @@
 ---
 choices: disturbed | adjusted | attended | compared
 answerText: compared
+reviewed: yes
 ---
 【正解】4 compared（～を比べた、比較した）
 【和訳】

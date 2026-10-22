@@ -1,6 +1,7 @@
 ---
 choices: effort | source | advantage | purpose
 answerText: source
+reviewed: yes
 ---
 【正解】2 source（発生源、もと）
 【和訳】

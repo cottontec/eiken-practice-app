@@ -1,6 +1,7 @@
 ---
 choices: income | exhibit | industry | account
 answerText: account
+reviewed: yes
 ---
 【正解】4 account（口座）
 【和訳】

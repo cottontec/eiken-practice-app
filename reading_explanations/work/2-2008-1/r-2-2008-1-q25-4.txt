@@ -2,6 +2,7 @@
 choices: the | look | for | into | problem
 answerText: problem
 order: 2 4 1 5 3
+reviewed: yes
 ---
 【正解】5 problem（この問題の4番目）
 【完成文】

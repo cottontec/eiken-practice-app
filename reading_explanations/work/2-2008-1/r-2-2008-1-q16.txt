@@ -1,6 +1,7 @@
 ---
 choices: pie | cookie | bread | cake
 answerText: cake
+reviewed: yes
 ---
 【正解】4 cake（a piece of cake で「とても簡単なこと」）
 【和訳】

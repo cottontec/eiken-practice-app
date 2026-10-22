@@ -1,6 +1,7 @@
 ---
 choices: spread out | lie down | hang on | fold up
 answerText: hang on
+reviewed: yes
 ---
 【正解】3 hang on（ちょっと待つ）
 【和訳】

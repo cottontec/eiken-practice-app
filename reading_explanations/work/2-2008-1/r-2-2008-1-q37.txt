@@ -1,6 +1,7 @@
 ---
 choices: been testing a special kind of chair made for children. | been trying to develop machines that can repair damaged bones. | found a way to scan the backbones of patients who are not lying down. | discovered that scanners can damage people's backs if used incorrectly.
 answerText: found a way to scan the backbones of patients who are not lying down.
+reviewed: yes
 ---
 【正解】3 found a way to scan the backbones of patients who are not lying down.（横になっていない患者の背骨をスキャンする方法を見つけた。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: observe | prepare | imagine | remove
 answerText: observe
+reviewed: yes
 ---
 【正解】1 observe（～を注意深く観察する）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: leadership | feedback | influence | security
 answerText: feedback
+reviewed: yes
 ---
 【正解】2 feedback（意見、感想、反応）
 【和訳】

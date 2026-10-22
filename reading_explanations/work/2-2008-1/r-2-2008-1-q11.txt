@@ -1,6 +1,7 @@
 ---
 choices: over | on | out | at
 answerText: out
+reviewed: yes
 ---
 【正解】3 out（pick out ～ で「～を選ぶ、選び出す」）
 【和訳】

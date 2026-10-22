@@ -1,6 +1,7 @@
 ---
 choices: Special gates open to allow traffic into the bottom level. | Water flows into the upper level from the storage lake. | Moderate storms force people to use the tunnel. | The tunnel is used both for rainwater and traffic.
 answerText: The tunnel is used both for rainwater and traffic.
+reviewed: yes
 ---
 【正解】4 The tunnel is used both for rainwater and traffic.（トンネルが、雨水と車の通行の両方に使われる。）
 【和訳】

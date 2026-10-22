@@ -1,6 +1,7 @@
 ---
 choices: about | by | for | over
 answerText: for
+reviewed: yes
 ---
 【正解】3 for（～に対して、～のお礼として）
 【和訳】

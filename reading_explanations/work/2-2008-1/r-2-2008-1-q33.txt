@@ -1,6 +1,7 @@
 ---
 choices: command | select | judge | encourage
 answerText: encourage
+reviewed: yes
 ---
 【正解】4 encourage（～をうながす、～する気にさせる）
 【和訳】

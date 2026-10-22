@@ -1,6 +1,7 @@
 ---
 choices: preventing | delaying | introducing | separating
 answerText: introducing
+reviewed: yes
 ---
 【正解】3 introducing（～を導入すること）
 【和訳】

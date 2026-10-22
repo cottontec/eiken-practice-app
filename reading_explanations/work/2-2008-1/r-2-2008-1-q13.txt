@@ -1,6 +1,7 @@
 ---
 choices: vain | place | use | tears
 answerText: use
+reviewed: yes
 ---
 【正解】3 use（in use で「使用中で」）
 【和訳】

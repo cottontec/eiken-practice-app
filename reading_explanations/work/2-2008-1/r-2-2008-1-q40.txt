@@ -1,6 +1,7 @@
 ---
 choices: He understands that it is not always possible for people to sit back at an angle of 135 degrees. | He says that it is not practical for parents to tell their children to stop playing video games. | He thinks that a major cause of back pain is changing sitting positions too often. | He found that the best treatment for back pain is different for every individual.
 answerText: He understands that it is not always possible for people to sit back at an angle of 135 degrees.
+reviewed: yes
 ---
 【正解】1 He understands that it is not always possible for people to sit back at an angle of 135 degrees.（彼は、人々がいつも135度の角度で後ろにもたれてすわれるわけではないことを分かっている。）
 【和訳】

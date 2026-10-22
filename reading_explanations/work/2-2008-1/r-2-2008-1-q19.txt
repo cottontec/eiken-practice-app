@@ -1,6 +1,7 @@
 ---
 choices: getting | get | to getting | to get
 answerText: to get
+reviewed: yes
 ---
 【正解】4 to get（manage to ～ で「なんとか～する」）
 【和訳】

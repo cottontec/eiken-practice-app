@@ -2,6 +2,7 @@
 choices: to | stick | you | if | it
 answerText: to
 order: 4 3 2 1 5
+reviewed: yes
 ---
 【正解】1 to（この問題の4番目）
 【完成文】

@@ -1,6 +1,7 @@
 ---
 choices: Meet a famous author in person. | Discuss her ideas for a new book. | Give a presentation on marketing. | Make arrangements for a trip.
 answerText: Give a presentation on marketing.
+reviewed: yes
 ---
 【正解】3 Give a presentation on marketing.（マーケティングについて講演をする。）
 【和訳】

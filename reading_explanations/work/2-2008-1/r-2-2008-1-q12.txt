@@ -1,6 +1,7 @@
 ---
 choices: To my regret | By no means | In the distance | At the moment
 answerText: To my regret
+reviewed: yes
 ---
 【正解】1 To my regret（残念なことに）
 【和訳】

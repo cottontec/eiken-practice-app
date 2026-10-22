@@ -1,6 +1,7 @@
 ---
 choices: equally | in addition | by mistake | on the other hand
 answerText: on the other hand
+reviewed: yes
 ---
 【正解】4 on the other hand（一方で、それに対して）
 【和訳】
