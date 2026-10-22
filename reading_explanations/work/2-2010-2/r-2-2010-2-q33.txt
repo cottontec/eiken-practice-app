@@ -1,0 +1,27 @@
+---
+choices: decorations | combinations | benefits | opportunities
+answerText: benefits
+---
+【正解】3 benefits（利点、よい点）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 decorations：飾り
+2 combinations：組み合わせ
+3 benefits：利点、よい点
+4 opportunities：機会
+【考え方】
+空所は第3段落の New Yorkers say these water towers have many (　).（ニューヨークの人々は、こうした給水塔には多くの〜があると言う）にあります。
+空所のあとの文を見ると、給水塔について次のことが書かれています。
+They are energy efficient（エネルギー効率がよい）。energy efficient は「少ないエネルギーでよく働く」という意味です。
+because the water is often moving, it does not freeze in the winter（水がよく動いているので、冬にこおらない）。
+Above all … the wooden tanks keep their water tasting fresh and delicious（何よりも、木のタンクのおかげで水が新鮮でおいしい味に保たれる）。Above all は「何よりも」です。
+これらはすべて給水塔の「よい点」です。空所のあとで、よい点が3つ並べられていると分かります。benefits は「利点、よい点」なので、3が正解です。
+【ほかの選択肢】
+1 decorations は「飾り」です。続く文では、給水塔の飾りについては何も書かれていません。
+2 combinations は「組み合わせ」です。続く文は「エネルギー効率がよい」「こおらない」「水がおいしい」というよい点の説明で、何かの組み合わせの話ではありません。
+4 opportunities は「機会」です。「給水塔には多くの機会がある」では、続くよい点の説明とつながりません。
+【覚えるポイント】
+・benefit：「利点、よい点」。have many benefits で「多くの利点がある」。
+・Above all：「何よりも、とりわけ」。いくつか挙げたものの中で、いちばん大事なものを言うときに使う。

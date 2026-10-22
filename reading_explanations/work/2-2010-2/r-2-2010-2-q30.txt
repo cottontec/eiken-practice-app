@@ -1,0 +1,25 @@
+---
+choices: expensive | uneasy | good-looking | old-fashioned
+answerText: old-fashioned
+---
+【正解】4 old-fashioned（昔ふうの、旧式の）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 expensive：高価な
+2 uneasy：不安な、落ち着かない
+3 good-looking：見た目のよい
+4 old-fashioned：昔ふうの、旧式の
+【考え方】
+空所は第1段落の There is one thing about New York's buildings, however, that is surprisingly (　).（しかし、ニューヨークの建物には、驚くほど〜な点が1つある）にあります。that is surprisingly (　) は one thing（1つの点）を説明しています。
+まず however（しかし）に注目します。前の文は「ニューヨーク市は、超高層ビルなどがあり、世界で最初の modern city（近代都市）だと考えられてきた」です。however があるので、空所には「近代的」と反対の内容がくると考えられます。
+次に、その「1つの点」の中身を読みます。それは水の供給方法で、最新の超高層ビルでも a tower with a wooden tank on top（木のタンクを上にのせた塔）を備えています。さらに the design of these water towers has hardly changed over the last 100 years（給水塔のデザインはこの100年ほとんど変わっていない）とあります。hardly は「ほとんど～ない」です。
+近代的な都市なのに、100年前とほとんど同じ木のタンクを使っている、というのは「昔ふう」だということです。old-fashioned は「昔ふうの、旧式の」なので、4が正解です。surprisingly（驚くほど）も、「近代都市なのに」という意外さとよく合います。
+【ほかの選択肢】
+1 expensive は「高価な」です。本文には給水塔の値段の話は出てきません。また、modern（近代的な）と対比になる語でもないので、however の流れに合いません。
+2 uneasy は「不安な、落ち着かない」です。人の気持ちを表す語で、「建物の驚くほど不安な点」では意味が通りません。
+3 good-looking は「見た目のよい」です。本文では給水塔の見た目のよさは述べられていません。続く「デザインが100年ほとんど変わっていない」という説明は、古さを伝えるものなので合いません。
+【覚えるポイント】
+・old-fashioned：「昔ふうの、旧式の」。modern（近代的な、現代的な）と反対の意味。
+・hardly：「ほとんど～ない」。has hardly changed で「ほとんど変わっていない」。
