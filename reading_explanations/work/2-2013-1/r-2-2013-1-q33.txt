@@ -1,6 +1,7 @@
 ---
 choices: For instance | In contrast | Nevertheless | At the same time
 answerText: At the same time
+reviewed: yes
 ---
 【正解】4 At the same time（同時に、それと並んで）
 【和訳】

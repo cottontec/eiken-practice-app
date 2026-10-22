@@ -1,6 +1,7 @@
 ---
 choices: threats | invitations | additions | keys
 answerText: threats
+reviewed: yes
 ---
 【正解】1 threats（脅威、おびやかすもの）
 【和訳】

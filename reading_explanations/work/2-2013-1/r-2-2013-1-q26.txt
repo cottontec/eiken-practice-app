@@ -1,6 +1,7 @@
 ---
 choices: improves | discusses | influences | accepts
 answerText: accepts
+reviewed: yes
 ---
 【正解】4 accepts（受け入れる）
 【和訳】

@@ -1,0 +1,19 @@
+---
+choices: amounted to | acted on | adjusted to | agreed on
+answerText: amounted to
+---
+【正解】1 amounted to（合計で～になった）
+【和訳】
+マイクは、チェス部の部長になると自分の時間をとられすぎるのではないかと心配していました。しかし、全部合わせても、彼の仕事は毎週1時間ほどの作業にしかなりませんでした。
+（選択肢の意味）1 合計で～になった　2 ～に基づいて行動した　3 ～に慣れた、合わせた　4 ～について意見が一致した
+【考え方】
+1文目は Mike was afraid that being president of the chess club would take too much of his time.（マイクは、チェス部の部長であることが自分の時間をとりすぎるのではないかと心配していた）です。be afraid that ～ は「～ではないかと心配する」、take too much of his time は「彼の時間をとりすぎる」です。
+2文目は But（しかし）で始まるので、1文目の心配とは反対の内容が続きます。in total は「全部合わせると、合計で」という意味です。そのあとに his duties only (　) about an hour of work each week（彼の仕事は毎週約1時間の作業にしか（　））とあります。duties は「（しなければならない）仕事、務め」です。
+in total（合計で）と about an hour（約1時間）という数量が手がかりです。amount to ～ は「合計で～になる、（総計が）～に達する」という意味です。only amounted to about an hour of work で「約1時間の作業にしかならなかった」となり、「時間をとられすぎる」という心配とは反対に、実際は大した時間ではなかったという流れになります。正解は1です。
+【ほかの選択肢】
+2 acted on は「～に基づいて行動した」です。「彼の仕事が1時間の作業に基づいて行動した」となり、意味が通りません。
+3 adjusted to は「～に慣れた、～に合わせた」です。主語は his duties（彼の仕事）なので、「仕事が1時間の作業に慣れた」となり、意味が通りません。
+4 agreed on は「～について意見が一致した」です。「仕事が1時間の作業について合意した」となり、意味が通りません。
+【覚えるポイント】
+・amount to ～：「合計で～になる」。in total（合計で）と一緒によく使われます。
+・be afraid that ～：「～ではないかと心配する、心配に思う」。

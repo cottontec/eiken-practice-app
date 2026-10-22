@@ -1,0 +1,20 @@
+---
+choices: all that work | for | was | to do | asked
+answerText: all that work
+order: 3 5 4 1 2
+---
+【正解】1 all that work（この問題の4番目）
+【完成文】
+Heather's boss made her spend three months working hard on a project before he decided to cancel it. She is upset that she ( was asked to do all that work for ) nothing.
+並べ方：3 was → 5 asked → 4 to do → 1 all that work → 2 for（2番目は5、4番目は1）
+【和訳】
+ヘザーの上司は、あるプロジェクトを中止すると決める前に、彼女に3か月間そのプロジェクトに一生懸命取り組ませました。彼女は、あれだけの仕事をするよう求められたのに、それがむだになったことに腹を立てています。
+【考え方】
+今回は、空所の最後から考えます。空所のすぐあとの nothing に注目すると、選択肢の 2 for と組み合わせて for nothing（むだに、何にもならずに）という言い方ができます。1文目で、3か月がんばったプロジェクトが中止されたと書かれているので、「むだになった」という内容は話の流れに合います。そこで空所の最後は for にします。
+次に、空所の初めです。She is upset that she (　) の that のあとには「主語 ＋ 動詞」が来るので、she のあとに動詞を置きます。3 was と 5 asked で was asked（求められた）という受け身の形を作り、そのあとに 4 to do を続けると、was asked to do（～するよう求められた）となります。
+残った 1 all that work（あれだけの仕事）は、do の「何を」にあたります。all that work の that は「あの、それほどの」という意味で、前の文の3か月分の仕事を指しています。do all that work for nothing で「あれだけの仕事をむだにする」となります。
+したがって4番目は1 all that work です。
+まちがえやすいのは、all that work を was のすぐあとに置いて was all that work asked to do for のように並べてしまうことです。これでは she was all that work（彼女はあれだけの仕事だった）という意味のつながりになってしまい、文が成り立ちません。all that work は、「何を」するのかを表すので do のあとに置きます。
+【覚えるポイント】
+・for nothing：「むだに、何にもならずに」。
+・all that ～：「あれだけの～、それほどの～」。前に出てきた量の多さを指すときに使います。

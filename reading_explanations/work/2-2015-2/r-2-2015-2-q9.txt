@@ -1,0 +1,19 @@
+---
+choices: contrast | delete | straighten | tolerate
+answerText: tolerate
+---
+【正解】4 tolerate（我慢する、大目に見る）
+【和訳】
+ジョーンズ先生は本当に厳しい先生です。自分の教室でおしゃべりをする生徒を許しません。
+（選択肢の意味）1 対比する、比べて違いを示す　2 削除する、消す　3 まっすぐにする　4 我慢する、大目に見る
+【考え方】
+1文目の Mr. Jones is a really strict teacher.（ジョーンズ先生は本当に厳しい先生だ）に注目します。strict は「厳しい」です。
+2文目は He does not (　) students who talk in his classroom. です。who talk in his classroom は students を説明していて、「自分の教室でおしゃべりをする生徒」という意味です。
+厳しい先生は、授業中のおしゃべりを見のがさないと考えられます。tolerate は「我慢する、大目に見る」で、does not tolerate ～ で「～を許さない、大目に見ない」となります。does not tolerate students who talk in his classroom で「教室でおしゃべりをする生徒を許さない」となり、1文目の「厳しい」と合うので、正解は4です。
+【ほかの選択肢】
+1 contrast は「対比する（2つを比べて違いを示す）」です。「おしゃべりをする生徒を対比しない」では、何と比べるのかが分からず、厳しい先生の説明にもなりません。
+2 delete は「削除する、消す」です。文字やデータなどを消すときに使う語で、「生徒を削除しない」では意味が通りません。
+3 straighten は「まっすぐにする」です。「おしゃべりをする生徒をまっすぐにしない」となり、意味が通りません。
+【覚えるポイント】
+・tolerate ～：「～を我慢する、大目に見る」。not tolerate で「許さない」。
+・strict：「厳しい」。

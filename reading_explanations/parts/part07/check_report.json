@@ -20,7 +20,8 @@
   "2-2013-1": {
     "stats": {
       "target": 50,
-      "written": 50
+      "written": 50,
+      "reviewed": 50
     },
     "errors": [],
     "warnings": []
@@ -30,6 +31,14 @@
       "target": 50,
       "written": 50,
       "selfsolveMismatch": 2
+    },
+    "errors": [],
+    "warnings": []
+  },
+  "2-2013-3": {
+    "stats": {
+      "target": 50,
+      "written": 50
     },
     "errors": [],
     "warnings": []

@@ -1,6 +1,7 @@
 ---
 choices: demand | achieve | pretend | suspect
 answerText: suspect
+reviewed: yes
 ---
 【正解】4 suspect（～ではないかと思う）
 【和訳】

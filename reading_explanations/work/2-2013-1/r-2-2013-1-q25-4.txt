@@ -2,6 +2,7 @@
 choices: live | will never | to | up | she
 answerText: up
 order: 5 2 1 4 3
+reviewed: yes
 ---
 【正解】4 up（この問題の4番目）
 【完成文】

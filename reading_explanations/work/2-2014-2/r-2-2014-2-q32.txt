@@ -1,0 +1,24 @@
+---
+choices: leadership | weather | diet | lifestyle
+answerText: lifestyle
+---
+【正解】4 lifestyle（生活様式、暮らし方）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 leadership：指導力、リーダーシップ
+2 weather：天気
+3 diet：（ふだんの）食事、食生活
+4 lifestyle：生活様式、暮らし方
+【考え方】
+空所の文は Sometimes this reflected changes in (　).（時には、その変化は（　）の変化を反映していた）です。this は前の文の The contents of the baby box have changed over time.（ベビーボックスの中身は、時代とともに変わってきた）を受けています。reflect は「反映する（ある変化がそのまま表れる）」です。
+空所のあとに for example（たとえば）があるので、そのあとの例を見ます。In the beginning, ... the boxes contained cloth for making baby clothes.（初めのころ、箱には赤ちゃんの服を作るための布が入っていた）、At that time, most mothers made baby clothes themselves.（当時は、ほとんどの母親が赤ちゃんの服を自分で作っていた）、Later, this was changed to ready-made clothes.（後に、これはできあがった服に変えられた）とあります。ready-made は「すでにできあがっている、既製の」です。
+つまり、母親が服を自分で作っていた暮らしから、できあがった服を使う暮らしへと変わり、それに合わせて箱の中身も変わったということです。これは人々の暮らし方の変化です。lifestyle は「生活様式、暮らし方」という意味なので、正解は4です。
+【ほかの選択肢】
+1 leadership は「指導力、リーダーシップ」です。例として挙げられている服づくりの話は、だれかの指導力の変化ではありません。
+2 weather は「天気」です。布からできあがった服に変わったのは、天気が変わったからではありません。
+3 diet は「（ふだんの）食事、食生活」です。for example のあとの例は服の話で、食べ物の話ではありません。あとに出てくる哺乳びんと母乳の話は、次の「母親の行動に（33）」という文の例として書かれています。
+【覚えるポイント】
+・reflect：「反映する（ある変化がそのまま表れる）」。reflect changes in ～ で「～の変化を反映する」。
+・ready-made：「すでにできあがっている、既製の」。

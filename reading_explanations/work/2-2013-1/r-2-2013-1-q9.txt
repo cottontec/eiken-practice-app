@@ -1,6 +1,7 @@
 ---
 choices: vacancy | nightmare | qualification | guarantee
 answerText: nightmare
+reviewed: yes
 ---
 【正解】2 nightmare（悪夢、こわい夢）
 【和訳】

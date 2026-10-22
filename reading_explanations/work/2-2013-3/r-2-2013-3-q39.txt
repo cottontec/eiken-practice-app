@@ -1,0 +1,30 @@
+---
+choices: To help professionals visit places that are far away. | To allow patients to move around more easily in hospitals. | To replace factory workers with robots that work faster. | To let salesmen show people products that are too large to carry.
+answerText: To help professionals visit places that are far away.
+---
+【正解】1 To help professionals visit places that are far away.（専門家が遠くの場所を訪れるのを助けるため。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：VGoがもともと開発された理由は何ですか。
+1 専門家が遠くの場所を訪れるのを助けるため。
+2 患者が病院の中でもっと楽に動き回れるようにするため。
+3 工場の働き手を、もっと速く働くロボットに置きかえるため。
+4 販売員が、大きすぎて持ち運べない製品を人々に見せられるようにするため。
+【考え方】
+設問の original reason（もともとの理由）に注目します。第3段落の初めに The VGo was originally developed for use by professionals in business and medicine.（VGoは、もともとはビジネスや医療の分野の専門家が使うために開発された）とあります。originally は「もともと」という意味です。
+続いて、専門家たちがどう使っているかの例が2つ書かれています。
+Business managers, for example, use it to visit distant factories（たとえば、企業の管理職の人たちは遠くの工場を訪れるためにそれを使う）
+Medical specialists also use the robots to meet with patients who are in small, rural hospitals（医療の専門医たちも、小さな田舎の病院にいる患者と会うためにこのロボットを使う）
+どちらも、専門家がその場所まで行かなくても、ロボットを通して遠くの場所を訪れることができる、という使い方です。本文と選択肢は次のように対応しています。
+本文 professionals in business and medicine（ビジネスや医療の専門家）＝ 選択肢 professionals（専門家）
+本文 visit distant factories（遠くの工場を訪れる）＝ 選択肢 visit places that are far away（遠くの場所を訪れる）
+distant（遠くの）が far away に言いかえられています。したがって1が正解です。
+【ほかの選択肢】
+2 医療の専門医はロボットを使って患者と会います。患者が病院の中で動き回るためにロボットを使うという話は本文にありません。
+3 管理職の人たちはロボットを使って工場を訪れ、how to improve working methods（作業のやり方をどう改善するか）を話し合います。工場の働き手をロボットに置きかえるという話は本文にありません。
+4 販売員（salesman）は、ロボットを売るために高校を訪れた人として出てくるだけです。大きな製品を見せるためにVGoが開発されたという話は本文にありません。
+【覚えるポイント】
+・originally：「もともと、初めは」。設問の original（もともとの）と結びつけて探します。
+・distant ＝ far away：「遠くの」。

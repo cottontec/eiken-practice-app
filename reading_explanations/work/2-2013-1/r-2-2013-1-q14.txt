@@ -1,6 +1,7 @@
 ---
 choices: on hand | by nature | in time | at once
 answerText: by nature
+reviewed: yes
 ---
 【正解】2 by nature（生まれつき、もともと）
 【和訳】
@@ -9,7 +10,7 @@ answerText: by nature
 【考え方】
 1文目では、マークの仕事として he often has to take his clients out for dinner（顧客を夕食に連れて行かなければならないことがよくある）と書かれています。client は「顧客、お客」です。
 2文目は He is a very friendly person (　), so he enjoys this part of his job.（彼はとても気さくな人（　）なので、仕事のこの部分を楽しんでいる）です。this part of his job は「顧客との夕食」のことです。
-空所には、彼が「気さくな人」であることを説明する語句が入ります。by nature は「生まれつき、もともとの性格として」という意味で、a very friendly person by nature で「生まれつきとても気さくな人」となります。もともと人と過ごすのが好きな性格なので、顧客との夕食も楽しめる、という流れになります。正解は2です。
+空所には、彼が「気さくな人」であることを説明する語句が入ります。by nature は「生まれつき、もともとの性格として」という意味で、a very friendly person by nature で「生まれつきとても気さくな人」となります。もともと気さくな性格なので、顧客を夕食に連れて行く仕事も楽しめる、という流れになります。正解は2です。
 【ほかの選択肢】
 1 on hand は「手元に、居合わせて」です。「彼は手元でとても気さくな人だ」となり、性格の説明として意味が通りません。
 3 in time は「間に合って、やがて」です。「彼は間に合ってとても気さくな人だ」となり、意味が通りません。

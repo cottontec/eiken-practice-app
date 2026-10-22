@@ -1,6 +1,7 @@
 ---
 choices: engaged to | ignorant of | capable of | visible to
 answerText: ignorant of
+reviewed: yes
 ---
 【正解】2 ignorant of（～を知らない）
 【和訳】

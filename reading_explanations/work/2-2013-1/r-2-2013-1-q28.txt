@@ -1,6 +1,7 @@
 ---
 choices: fights | waste | accidents | hunger
 answerText: accidents
+reviewed: yes
 ---
 【正解】3 accidents（事故）
 【和訳】

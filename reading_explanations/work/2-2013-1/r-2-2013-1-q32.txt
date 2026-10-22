@@ -1,6 +1,7 @@
 ---
 choices: questions | essays | quality | evidence
 answerText: evidence
+reviewed: yes
 ---
 【正解】4 evidence（証拠）
 【和訳】

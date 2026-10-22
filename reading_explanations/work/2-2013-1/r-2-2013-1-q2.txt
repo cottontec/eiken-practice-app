@@ -1,6 +1,7 @@
 ---
 choices: contacted | drowned | gained | published
 answerText: gained
+reviewed: yes
 ---
 【正解】3 gained（得た、もうけた）
 【和訳】

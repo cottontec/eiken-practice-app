@@ -1,6 +1,7 @@
 ---
 choices: deserve | destroy | regret | restore
 answerText: deserve
+reviewed: yes
 ---
 【正解】1 deserve（～を受けるのにふさわしい）
 【和訳】

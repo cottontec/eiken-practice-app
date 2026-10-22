@@ -1,6 +1,7 @@
 ---
 choices: enjoy driving | feel connected | seem limited | stop donating
 answerText: feel connected
+reviewed: yes
 ---
 【正解】2 feel connected（つながりを感じる）
 【和訳】

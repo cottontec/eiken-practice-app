@@ -1,6 +1,7 @@
 ---
 choices: People did not think she was a hard worker. | Typewriters were still very expensive to buy. | She spent a lot of time typing pages over again. | She was too busy to get a high school degree.
 answerText: She spent a lot of time typing pages over again.
+reviewed: yes
 ---
 【正解】3 She spent a lot of time typing pages over again.（彼女は、ページを打ち直すのに多くの時間を使った。）
 【和訳】

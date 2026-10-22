@@ -1,0 +1,21 @@
+---
+choices: on | from | she | had | the smile
+answerText: the smile
+order: 2 5 3 4 1
+---
+【正解】5 the smile（この問題の2番目）
+【完成文】
+No, but judging ( from the smile she had on ) her face this morning, it must have gone well.
+並べ方：2 from → 5 the smile → 3 she → 4 had → 1 on（2番目は5、4番目は4）
+【和訳】
+A：リンダの就職の面接がどうだったか、聞いた？
+B：いや、でも、今朝彼女が顔に浮かべていた笑顔から判断すると、うまくいったに違いないよ。
+【考え方】
+Aは How Linda's job interview went（リンダの就職の面接がどうだったか）を聞いたかとたずねています。Bは「聞いていない」と答えたうえで、it must have gone well（うまくいったに違いない）と言っています。must have ＋ 過去分詞 は「～したに違いない」です。何を手がかりにそう考えたのかが、空所の部分です。
+空所の前の judging に注目します。judging from ～ は「～から判断すると」という決まった言い方です。そこで judging のあとに 2 from を置きます。
+from のあとには、判断の手がかりになるものが来ます。5 the smile（その笑顔）を置き、そのあとに 3 she → 4 had → 1 on と続けます。have a smile on one's face は「顔に笑顔を浮かべている」という言い方で、the smile she had on her face で「彼女が顔に浮かべていた笑顔」となります。the smile のあとの she had … は、前の the smile に説明を付け足しています。the smile (that) she had のように、説明を付け足す that が省かれた形です。
+したがって2番目は5 the smile です。
+まちがえやすいのは、on と from を入れかえて judging on the smile she had from her face としてしまうことです。「～から判断する」は judging from ～ で、「顔に浮かべる」は have ～ on one's face なので、from は judging のあと、on は her face の前に置きます。
+【覚えるポイント】
+・judging from ～：「～から判断すると」。
+・have a smile on one's face：「顔に笑顔を浮かべている」。

@@ -1,6 +1,7 @@
 ---
 choices: disappointing | disappointed | to disappoint | disappoint
 answerText: disappointed
+reviewed: yes
 ---
 【正解】2 disappointed（がっかりした）
 【和訳】

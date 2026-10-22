@@ -1,6 +1,7 @@
 ---
 choices: avoid | avoiding | to avoid | to be avoided
 answerText: to avoid
+reviewed: yes
 ---
 【正解】3 to avoid（so as to ～ で「～するために」）
 【和訳】

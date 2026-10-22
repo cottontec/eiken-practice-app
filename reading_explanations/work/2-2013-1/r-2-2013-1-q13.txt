@@ -1,6 +1,7 @@
 ---
 choices: one after another | up to date | right on time | all of a sudden
 answerText: all of a sudden
+reviewed: yes
 ---
 【正解】4 all of a sudden（突然、不意に）
 【和訳】

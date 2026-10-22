@@ -1,0 +1,25 @@
+---
+choices: improve | match | record | measure
+answerText: improve
+---
+【正解】1 improve（～をよくする、改善する）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 improve：～をよくする、改善する
+2 match：～を合わせる、～と一致する
+3 record：～を記録する
+4 measure：～を測る
+【考え方】
+空所の前では、韓国のチームの実験で They found that two genes became more active when certain notes were played.（特定の音が流されたときに、2つの遺伝子がより活発になることが分かった）と書かれています。
+空所の文は Based on this, Jeong believes that it may be possible in the future to (　) the growth of plants.（このことをもとに、チョンは、将来、植物の成長を（　）ことが可能になるかもしれないと考えている）です。based on ～ は「～をもとにして」という意味です。
+段落の最後の文も手がかりになります。Using sounds rather than chemicals to help plants grow would be not only cheaper but also much less harmful to the environment.（植物の成長を助けるのに、化学物質ではなく音を使えば、費用が安くすむだけでなく、環境への害もずっと少なくなるだろう）とあります。ここでは、音を使って「植物の成長を助ける」ことが話題になっています。
+つまり、チョンは、音を使えば将来、植物の成長をよくできるかもしれないと考えているのです。improve は「～をよくする、改善する」という意味なので、improve the growth of plants で「植物の成長をよくする」となります。正解は1です。
+【ほかの選択肢】
+2 match を入れると「植物の成長を合わせる」となり、何に合わせるのかが分からず、意味が通りません。
+3 record を入れると「植物の成長を記録する」となります。最後の文は、音を使って植物の成長を助けることをよい知らせとしており、成長を記録する話ではないので、合いません。
+4 measure を入れると「植物の成長を測る」となります。3と同じく、音で植物の成長を助けるという最後の文の話とつながりません。
+【覚えるポイント】
+・improve：「～をよくする、改善する」。
+・based on ～：「～をもとにして」。

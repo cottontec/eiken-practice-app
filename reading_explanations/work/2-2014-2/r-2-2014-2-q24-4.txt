@@ -1,0 +1,20 @@
+---
+choices: costs | than | less | no | $200
+answerText: than
+order: 1 4 3 2 5
+---
+【正解】2 than（この問題の4番目）
+【完成文】
+Chez Picard is a very expensive restaurant. It ( costs no less than $200 ) per person to eat there.
+並べ方：1 costs → 4 no → 3 less → 2 than → 5 $200（2番目は4、4番目は2）
+【和訳】
+シェ・ピカールは、とても値段の高いレストランです。そこで食事をするには、1人あたり200ドルもかかります。
+【考え方】
+選択肢の中に 2 than（～より）と 3 less（より少ない）があることに注目します。less は little（少ない）の比較級（「より～」を表す形）で、比べる相手は than のあとに置きます。比べる相手になるのは金額の 5 $200 なので、less than $200 というまとまりができます。
+残りは 1 costs と 4 no です。文の主語は It で、It costs ＋ 金額 ＋ to ～（～するのに（金額）かかる）という形を作るので、It のすぐあとに costs を置きます。no は less の前に置いて no less than $200 とします。no less than ～ は「～も（多くの）」と、金額の多さを強調する言い方です。
+並べると costs no less than $200 となり、1文目の a very expensive restaurant（とても値段の高いレストラン）という内容と合います。
+したがって4番目は2 than です。
+5語の中で、than と $200 の位置を入れかえて costs no less $200 than とすることはできません。than は「～より」と比べる相手の前に置く語なので、than のすぐあとに $200 が来ます。
+【覚えるポイント】
+・less than ～：「～より少ない」。no を前に付けた no less than ～ は「～も（多くの）」。
+・It costs ＋ 金額 ＋ to ～：「～するのに（金額）かかる」。

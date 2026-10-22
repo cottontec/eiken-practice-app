@@ -1,6 +1,7 @@
 ---
 choices: treat | appetite | factor | theme
 answerText: treat
+reviewed: yes
 ---
 【正解】1 treat（おごり、ごちそう）
 【和訳】

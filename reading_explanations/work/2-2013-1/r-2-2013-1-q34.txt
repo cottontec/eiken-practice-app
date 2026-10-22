@@ -1,6 +1,7 @@
 ---
 choices: has been having trouble finding new police officers. | cannot get a local company to recycle its old cars. | is interested in buying police cars that do not use gasoline. | has bought products from Trireme Autos in the past.
 answerText: is interested in buying police cars that do not use gasoline.
+reviewed: yes
 ---
 【正解】3 is interested in buying police cars that do not use gasoline.（ガソリンを使わないパトカーを買うことに関心がある。）
 【和訳】

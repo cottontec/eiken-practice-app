@@ -1,6 +1,7 @@
 ---
 choices: preservations | limitations | enemies | categories
 answerText: categories
+reviewed: yes
 ---
 【正解】4 categories（分類、種類）
 【和訳】

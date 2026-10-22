@@ -1,6 +1,7 @@
 ---
 choices: Many people avoided paying the tax by shopping abroad. | Many people began eating traditional Danish food. | It made healthy foods like fruit and vegetables cost more. | It caused people in Germany and Sweden to spend less money.
 answerText: Many people avoided paying the tax by shopping abroad.
+reviewed: yes
 ---
 【正解】1 Many people avoided paying the tax by shopping abroad.（多くの人が、外国で買い物をすることで、その税金を払わないようにした。）
 【和訳】
@@ -15,13 +16,13 @@ answerText: Many people avoided paying the tax by shopping abroad.
 【考え方】
 税金の結果については、第3段落に書かれています。
 Since these could not be bought in Denmark at reasonable prices, many Danish people began shopping in nearby countries.（こうした食べ物はデンマークでは手ごろな値段で買うことができなかったので、多くのデンマーク人が近くの国で買い物をし始めた）
-these は、前の文のバターやチーズのような食べ物を指します。この段落は There have also been economic problems because of the tax.（その税金のせいで、経済的な問題も起きている）で始まり、政府は「脂肪の多い食べ物の値段（cost）が上がれば、人々はそれほど買わなくなるだろう」と考えていた、と続きます。つまり、税金のせいでデンマーク国内では値段が上がり、手ごろな値段で買えなくなったのです。そこで多くの人が近くの外国で買い物をして、デンマークでかかる税金を払わずに済ませた、ということになります。次の文には、48パーセントものデンマーク人が、買い物をするためにドイツやスウェーデンへ行っていたことも書かれています。本文と選択肢は次のように対応しています。
+these は、前の文のバターやチーズのような食べ物を指します。この段落は There have also been economic problems because of the tax.（その税金のせいで、経済的な問題も起きている）で始まり、政府は「脂肪の多い食べ物の値段（cost）が上がれば、人々はそれほど買わなくなるだろう」と考えていた、と続きます。つまり、税金のせいでデンマーク国内では値段が上がり、手ごろな値段で買えなくなったのです。そこで多くの人が近くの外国で買い物をするようになりました。本文に「税金を払わずに済ませた」とそのまま書かれているわけではありませんが、この税金はデンマーク政府がかけたものなので、外国で買えばその分を払わずに済みます。選択肢1は、このことを avoided paying the tax（税金を払うのを避けた）と言いかえています。次の文には、48パーセントものデンマーク人が、買い物をするためにドイツやスウェーデンへ行っていたことも書かれています。本文と選択肢は次のように対応しています。
 本文 began shopping in nearby countries（近くの国で買い物をし始めた）＝ 選択肢 shopping abroad（外国で買い物をする）
 本文 could not be bought in Denmark at reasonable prices（デンマークでは手ごろな値段で買えなかった）ので外国で買った ＝ 選択肢 avoided paying the tax（税金を払わないようにした）
 正解は1です。
 【ほかの選択肢】
 2 本文には、バターやチーズはもともとデンマークの伝統的な食生活の重要な一部だと書かれています。税金の結果として伝統的な食べ物を食べ始めたのではありません。
-3 本文では、批判をする人々が「政府は野菜のような健康的な食べ物を安くするべきだ」と考えていると書かれているだけです。税金によって果物や野菜の値段が上がったという話はありません。
+3 本文では、批判をする人々が「政府は野菜のような健康的な食べ物をもっと安くするべきだ」と考えていると書かれているだけです。税金によって果物や野菜の値段が上がったという話はありません。
 4 本文では、デンマーク人がドイツやスウェーデンへ買い物に行き、デンマークの経済が約18億ドルを失ったと書かれています。ドイツやスウェーデンの人々のお金の使い方については書かれていません。
 【覚えるポイント】
 ・avoid ～ing：「～するのを避ける」。avoid paying the tax で「税金を払うのを避ける」。

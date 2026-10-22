@@ -1,6 +1,7 @@
 ---
 choices: controlled | broken | desired | measured
 answerText: desired
+reviewed: yes
 ---
 【正解】3 desired（leave nothing to be desired で「申し分ない」）
 【和訳】

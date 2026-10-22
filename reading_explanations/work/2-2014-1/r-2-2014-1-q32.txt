@@ -1,0 +1,24 @@
+---
+choices: According to | Thanks to | In spite of | Except for
+answerText: According to
+---
+【正解】1 According to（～によれば）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 According to：～によれば
+2 Thanks to：～のおかげで
+3 In spite of：～にもかかわらず
+4 Except for：～を除いて
+【考え方】
+空所の前の文は a team of South Korean scientists led by Mi-Jeong Jeong has done research that seems to support Sternheimer's claims（ミジョン・チョンが率いる韓国の科学者チームが、ステルンハイマーの主張を裏づけるように思われる研究を行った）です。led by ～ は「～に率いられた」、claim は「主張」です。
+空所の文は (　) them, certain genes in plants are affected by certain notes.（（　）彼ら、植物の中の特定の遺伝子は、特定の音に影響を受ける）です。them は、前の文の韓国の科学者チームを指しています。
+「特定の遺伝子が特定の音に影響を受ける」というのは、このチームが研究で示した内容です。そのあとにも、チームが行った実験とその結果が続きます。ですから、「彼らによれば」と、だれの考えや研究結果なのかを示す according to ～ が入ります。正解は1です。
+【ほかの選択肢】
+2 Thanks to を入れると「彼らのおかげで、植物の中の特定の遺伝子が特定の音に影響を受ける」となります。遺伝子が音の影響を受けることは、チームが研究で調べた内容であり、チームのおかげで起きるようになったことではないので、合いません。
+3 In spite of を入れると「彼らにもかかわらず」となります。前の文では、このチームの研究がステルンハイマーの主張を裏づけると言っているので、反対の流れを表す in spite of は合いません。
+4 Except for を入れると「彼らを除いて」となり、意味が通りません。
+【覚えるポイント】
+・according to ～：「～によれば」。だれの話や調査にもとづく内容かを示します。
+・support ～'s claims：「～の主張を裏づける」。

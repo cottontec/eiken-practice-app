@@ -1,6 +1,7 @@
 ---
 choices: around | on | under | out
 answerText: out
+reviewed: yes
 ---
 【正解】4 out（die out で「絶滅する、消えてなくなる」）
 【和訳】

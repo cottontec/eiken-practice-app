@@ -1,6 +1,7 @@
 ---
 choices: felt that they were being made to produce too many products. | were worried that the government was planning to ban cheese. | argued that their products are healthier than the government said. | admitted that their products contained an unhealthy amount of fat.
 answerText: argued that their products are healthier than the government said.
+reviewed: yes
 ---
 【正解】3 argued that their products are healthier than the government said.（自分たちの製品は、政府が言ったよりも健康によいと主張した。）
 【和訳】

@@ -1,0 +1,19 @@
+---
+choices: conclude | engage | compare | respond
+answerText: respond
+---
+【正解】4 respond（答える、反応する）
+【和訳】
+記者たちはスキャンダルについて首相にたくさんの質問をしましたが、首相はそのどれにも答えませんでした。
+（選択肢の意味）1 結論を出す、終える　2 従事する、（人を）引きつける　3 比べる　4 答える、反応する
+【考え方】
+文の前半の Even though the reporters asked him many questions about the scandal に注目します。Even though ～ は「～にもかかわらず、～けれども」、scandal は「スキャンダル（世間をさわがせる悪いうわさや事件）」です。「記者たちはスキャンダルについて彼にたくさんの質問をしたけれども」という意味です。
+後半は the prime minister did not (　) to any of them です。prime minister は「首相」、any of them の them は「記者たちの質問」を指します。not ～ any of them で「そのどれにも～しない」となります。
+質問をされたのに「どれにも～しなかった」と言うのですから、「答えなかった」という意味になる語が入ります。respond to ～ で「～に答える、反応する」という意味です。did not respond to any of them で「そのどれにも答えなかった」となるので、正解は4です。
+【ほかの選択肢】
+1 conclude は「結論を出す、終える」です。did not conclude to any of them では「質問のどれにも結論を出さなかった」のような意味にもならず、to ～ とつながりません。
+2 engage は「従事する、（人を）引きつける」です。「～に取り組む」なら engage in ～ の形になり、did not engage to any of them では、質問に対して何をしなかったのかが分かりません。
+3 compare は「比べる」です。比べるなら compare A with B（AとBを比べる）の形を使います。「質問のどれにも比べなかった」では、何と何を比べるのかが分からず、意味が通りません。
+【覚えるポイント】
+・respond to ～：「～に答える、反応する」。
+・even though ～：「～にもかかわらず、～けれども」。

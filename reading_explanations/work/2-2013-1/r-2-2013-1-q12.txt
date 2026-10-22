@@ -1,6 +1,7 @@
 ---
 choices: just in case | on the contrary | at all times | what is more
 answerText: what is more
+reviewed: yes
 ---
 【正解】4 what is more（さらに、その上）
 【和訳】

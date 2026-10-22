@@ -2,6 +2,7 @@
 choices: matter | store | which | doesn't | it
 answerText: doesn't
 order: 5 4 1 3 2
+reviewed: yes
 ---
 【正解】4 doesn't（この問題の2番目）
 【完成文】

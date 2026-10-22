@@ -1,6 +1,7 @@
 ---
 choices: generous | illegal | advanced | realistic
 answerText: illegal
+reviewed: yes
 ---
 【正解】2 illegal（違法な、法律に反する）
 【和訳】

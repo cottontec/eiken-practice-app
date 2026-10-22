@@ -1,6 +1,7 @@
 ---
 choices: series | respect | league | irony
 answerText: irony
+reviewed: yes
 ---
 【正解】4 irony（皮肉なこと、思いがけない成り行き）
 【和訳】

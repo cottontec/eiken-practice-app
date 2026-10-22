@@ -1,0 +1,25 @@
+---
+choices: doubt | include | need | publish
+answerText: doubt
+---
+【正解】1 doubt（～を疑う、本当かどうか疑問に思う）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 doubt：～を疑う、本当かどうか疑問に思う
+2 include：～をふくむ
+3 need：～を必要とする
+4 publish：～を出版する、発表する
+【考え方】
+空所の前の文は Some scientists, both amateur and professional, have been reporting for decades that music can help plants grow better.（アマチュアとプロの両方をふくむ一部の科学者たちは、音楽は植物がよりよく育つのを助けることがあると、何十年も前から報告してきた）です。
+空所の文は However, other scientists (　) these reports.（しかし、ほかの科学者たちはこれらの報告を（　））です。however（しかし）があるので、前の文の「音楽は植物によい」という報告とは反対の立場の話になります。
+次の文では After all, plants have neither ears nor brains, so how can they be affected by music?（何しろ、植物には耳も脳もないのに、どうして音楽に影響を受けることがあるだろうか）と書かれています。neither A nor B は「AもBも～ない」という意味です。この文は、報告の内容を信じられない理由を述べています。
+ですから、ほかの科学者たちはこれらの報告を「疑っている」と考えられます。正解は1です。
+【ほかの選択肢】
+2 include を入れると「ほかの科学者たちはこれらの報告をふくんでいる」となり、意味が通りません。however のあとの、報告に反対する流れにもなりません。
+3 need を入れると「ほかの科学者たちはこれらの報告を必要としている」となります。次の文の「耳も脳もないのに、どうして影響を受けるのか」という疑問とつながりません。
+4 publish を入れると「ほかの科学者たちはこれらの報告を発表している」となります。これでは前の文と同じ立場になり、however（しかし）や、報告を信じられない理由を述べる次の文とつながりません。
+【覚えるポイント】
+・doubt：「～を疑う、本当かどうか疑問に思う」。b は発音しません。
+・neither A nor B：「AもBも～ない」。

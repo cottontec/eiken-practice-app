@@ -1,6 +1,7 @@
 ---
 choices: could have ended the tax on fats much sooner. | is more concerned about money than the health of its citizens. | has enough information to see if taxes on unhealthy foods are effective. | should ask other countries to make laws against selling fatty foods.
 answerText: is more concerned about money than the health of its citizens.
+reviewed: yes
 ---
 【正解】2 is more concerned about money than the health of its citizens.（市民の健康よりもお金のことを気にかけている。）
 【和訳】

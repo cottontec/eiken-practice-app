@@ -1,6 +1,7 @@
 ---
 choices: brightly | neatly | thickly | orally
 answerText: thickly
+reviewed: yes
 ---
 【正解】3 thickly（密に、びっしりと）
 【和訳】

@@ -1,0 +1,21 @@
+---
+choices: all that work | for | was | to do | asked
+answerText: asked
+order: 3 5 4 1 2
+---
+【正解】5 asked（この問題の2番目）
+【完成文】
+Heather's boss made her spend three months working hard on a project before he decided to cancel it. She is upset that she ( was asked to do all that work for ) nothing.
+並べ方：3 was → 5 asked → 4 to do → 1 all that work → 2 for（2番目は5、4番目は1）
+【和訳】
+ヘザーの上司は、あるプロジェクトを中止すると決める前に、彼女に3か月間そのプロジェクトに一生懸命取り組ませました。彼女は、あれだけの仕事をするよう求められたのに、それがむだになったことに腹を立てています。
+【考え方】
+まず1文目の内容です。made her spend three months working hard on a project は「彼女に3か月間、プロジェクトに一生懸命取り組ませた」で、make 人 ～ は「人に（無理に）～させる」です。その後、上司はプロジェクトを cancel（中止）しました。つまり、ヘザーの3か月の努力はむだになってしまいました。
+2文目の She is upset that she (　) nothing. は「彼女は、～ということに腹を立てている」という形です。that のあとには「主語 ＋ 動詞」が続くので、she のあとに動詞を置きます。
+選択肢の 3 was と 5 asked から、was asked（頼まれた、求められた）という受け身（「～される」の形）を作ります。ask 人 to ～ は「人に～するよう頼む」で、受け身にすると 人 was asked to ～（～するよう求められた）となります。そこで was → asked → 4 to do と並べます。
+do のあとには「何を」するのかが来るので、1 all that work（あれだけの仕事）を置きます。最後に 2 for を置くと、空所のあとの nothing とつながって for nothing（むだに、何にもならずに）となります。
+したがって2番目は5 asked です。
+まちがえやすいのは、ask for ～（～を求める）を思い出して was asked for all that work to do nothing のように並べてしまうことです。これでは nothing が to do の後ろに来て「何もしないために」のような意味になり、「3か月の仕事がむだになった」という1文目の内容と合いません。
+【覚えるポイント】
+・be asked to ～：「～するよう頼まれる、求められる」。ask 人 to ～ の受け身の形です。
+・for nothing：「むだに、何にもならずに」。

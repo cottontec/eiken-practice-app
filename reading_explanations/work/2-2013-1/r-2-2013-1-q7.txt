@@ -1,6 +1,7 @@
 ---
 choices: complain | approve | reconsider | dispose
 answerText: approve
+reviewed: yes
 ---
 【正解】2 approve（approve of ～ で「～をよいと認める」）
 【和訳】

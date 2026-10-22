@@ -1,6 +1,7 @@
 ---
 choices: Less of their tax money will be spent on fuel. | The city will become more attractive to tourists. | Gasoline will become less expensive in the city. | They will not have to pay for electricity.
 answerText: Less of their tax money will be spent on fuel.
+reviewed: yes
 ---
 【正解】1 Less of their tax money will be spent on fuel.（燃料に使われる税金が少なくなる。）
 【和訳】

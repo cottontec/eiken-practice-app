@@ -1,6 +1,7 @@
 ---
 choices: She offered childcare services to the women who worked for her. | She gave free bottles of Liquid Paper to her factory workers. | She paid for research that made personal computers better. | She hired workers who had lost their jobs at other companies.
 answerText: She offered childcare services to the women who worked for her.
+reviewed: yes
 ---
 【正解】1 She offered childcare services to the women who worked for her.（自分のところで働く女性たちに、子どもを預かるサービスを提供した。）
 【和訳】

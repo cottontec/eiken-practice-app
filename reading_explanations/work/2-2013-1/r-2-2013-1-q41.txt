@@ -1,6 +1,7 @@
 ---
 choices: By promoting low-fat versions of many popular foods. | By forcing them to pay more for certain kinds of food. | By decreasing the amount of sugar allowed in products. | By creating laws concerning how much people are allowed to eat.
 answerText: By forcing them to pay more for certain kinds of food.
+reviewed: yes
 ---
 【正解】2 By forcing them to pay more for certain kinds of food.（ある種の食べ物に、より多くのお金を払わせることによって。）
 【和訳】
@@ -13,7 +14,7 @@ answerText: By forcing them to pay more for certain kinds of food.
 3 製品に入れてよい砂糖の量を減らすことによって。
 4 人々が食べてよい量についての法律を作ることによって。
 【考え方】
-設問の「人々を健康にしようとする方法」は、第1段落の初めに書かれています。
+設問の「人々をより健康にしようとする方法」は、第1段落の初めに書かれています。
 In many countries, governments are trying to get citizens to eat more healthily.（多くの国で、政府は、市民がもっと健康的な食事をするように仕向けようとしている）
 One way in which governments are trying to do this is by increasing taxes on foods that are unhealthy.（政府がこれを行おうとしている方法の1つは、健康によくない食べ物にかける税金を上げることだ）
 健康によくない食べ物の税金が上がると、その食べ物を買う人は、前よりも多くのお金を払わなければならなくなります。本文と選択肢は次のように対応しています。

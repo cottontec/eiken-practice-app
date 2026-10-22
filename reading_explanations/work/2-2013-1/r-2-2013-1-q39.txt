@@ -1,6 +1,7 @@
 ---
 choices: Her boss was angry because she made a lot of mistakes. | Her own company took away many of the bank's customers. | The other secretaries became jealous of her success. | The bank discovered that she had started her own business.
 answerText: The bank discovered that she had started her own business.
+reviewed: yes
 ---
 【正解】4 The bank discovered that she had started her own business.（銀行が、彼女が自分の事業を始めたことを知った。）
 【和訳】

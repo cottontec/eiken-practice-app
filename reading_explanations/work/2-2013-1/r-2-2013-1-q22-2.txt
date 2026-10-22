@@ -2,6 +2,7 @@
 choices: made | clear | that | she | it
 answerText: made
 order: 4 1 5 2 3
+reviewed: yes
 ---
 【正解】1 made（この問題の2番目）
 【完成文】

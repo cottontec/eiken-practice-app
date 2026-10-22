@@ -1,0 +1,27 @@
+---
+choices: It costs a lot to repair the damage they cause to doors and stairs. | Some younger children have trouble controlling them. | They can make it hard for some children to have a normal life. | Schools are often unable to pay for them without help.
+answerText: Schools are often unable to pay for them without help.
+---
+【正解】4 Schools are often unable to pay for them without help.（学校は、手助けがないとその代金を払えないことが多い。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：VGoロボットの問題点の1つは何ですか。
+1 ロボットがドアや階段に与える損傷を直すのに、多くのお金がかかる。
+2 年下の子どもの中には、ロボットを操作するのに苦労する子がいる。
+3 ロボットのせいで、一部の子どもたちがふつうの生活を送るのが難しくなることがある。
+4 学校は、手助けがないとその代金を払えないことが多い。
+【考え方】
+ロボットの問題点は、第4段落の The VGo robot does have some disadvantages.（VGoロボットには確かにいくつかの欠点がある）のあとに書かれています。disadvantage は「欠点、不利な点」という意味です。
+1つ目は One of these is its high price, which means volunteers often need to raise money to get one for a school.（その1つは値段が高いことで、そのため、学校のためにロボットを1台手に入れるには、ボランティアの人たちがお金を集める必要があることがよくある）です。raise money は「お金を集める」という意味です。
+学校がロボットを手に入れるのに、ボランティアの人たちがお金を集める必要があるということは、学校だけではその値段を払えないことが多い、ということです。本文と選択肢は次のように対応しています。
+本文 volunteers often need to raise money to get one for a school（学校のために1台手に入れるには、ボランティアがお金を集める必要があることがよくある）＝ 選択肢 Schools are often unable to pay for them without help（学校は手助けがないとその代金を払えないことが多い）
+ボランティアがお金を集めることが、選択肢では help（手助け）と言いかえられています。本文の often（よく）も、選択肢の often と対応しています。したがって4が正解です。
+【ほかの選択肢】
+1 本文の2つ目の欠点は it cannot open doors or use stairs（ドアを開けたり階段を使ったりできない）です。ドアや階段をこわしてしまう、という話ではありません。
+2 年下の子どもが操作に苦労するという話は本文にありません。本文で使う人が手助けを頼む必要があるのは、ロボットがドアを開けたり階段を使ったりできないからです。
+3 本文では、VGoによって病気の子どもたちが the life of a schoolchild（学校に通う子どもとしての生活）を楽しめるようになると書かれています。ふつうの生活を送るのが難しくなるという選択肢は、本文の内容と反対です。
+【覚えるポイント】
+・disadvantage：「欠点、不利な点」。advantage（利点）の反対の語です。
+・raise money：「お金を集める」。

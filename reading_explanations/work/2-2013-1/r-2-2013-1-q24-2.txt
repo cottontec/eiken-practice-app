@@ -2,6 +2,7 @@
 choices: have | sent | to | appears | been
 answerText: to
 order: 4 3 1 5 2
+reviewed: yes
 ---
 【正解】3 to（この問題の2番目）
 【完成文】

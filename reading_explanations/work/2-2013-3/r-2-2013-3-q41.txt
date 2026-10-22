@@ -1,0 +1,29 @@
+---
+choices: to avoid being affected by economic problems in other places. | to help the businesses in their own communities grow internationally. | because they want people visiting from elsewhere to buy more things. | because they have trouble selling their goods to countries in Europe.
+answerText: to avoid being affected by economic problems in other places.
+---
+【正解】1 to avoid being affected by economic problems in other places.（ほかの場所の経済問題の影響を受けないようにするために）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：いくつかの地域は、～独自の地域のお金を使うことを考えている。
+1 ほかの場所の経済問題の影響を受けないようにするために
+2 自分たちの地域社会の店や会社が国際的に成長するのを助けるために
+3 ほかの場所から訪れる人々にもっと多くの物を買ってほしいので
+4 ヨーロッパの国々に自分たちの商品を売るのに苦労しているので
+【考え方】
+地域のお金を作る理由は、第1段落に書かれています。
+まず As business becomes more international, it becomes difficult for local economies to protect themselves against economic problems in other places.（ビジネスがより国際的になるにつれて、地域の経済がほかの場所で起きる経済問題から自分たちを守ることは難しくなっている）とあります。
+続けて、ユーロのように同じ通貨を使っていると、If there is a big economic problem in one place, this can make life difficult for everyone who uses the currency.（ある場所で大きな経済問題が起きると、それがその通貨を使うすべての人の生活を苦しくすることがある）と説明しています。
+そして For this reason, some local communities have recently started creating their own local money（こうした理由から、一部の地域社会は最近、自分たち独自の地域のお金を作り始めている）とあります。For this reason（こうした理由から）の this は、ほかの場所の経済問題から自分たちを守りにくい、という内容を指しています。
+本文と選択肢は次のように対応しています。
+本文 protect themselves against economic problems in other places（ほかの場所の経済問題から自分たちを守る）＝ 選択肢 avoid being affected by economic problems in other places（ほかの場所の経済問題の影響を受けないようにする）
+本文の最後の文にも、地域のお金が help to protect Rosenheim from big changes in the European economy（ヨーロッパの経済の大きな変化からローゼンハイムを守る助けになる）とあり、同じ目的が書かれています。したがって1が正解です。
+【ほかの選択肢】
+2 本文には、地域のお金が help local businesses（地元の店や会社を助ける）とありますが、それはお金がその地域にとどまるからだと説明されています。店や会社が国際的に成長するのを助けるという話は本文にありません。
+3 本文には、地域のお金は cannot be used outside of that region（その地域の外では使えない）とありますが、ほかの場所から来る人に物を買ってほしいという話はありません。
+4 ヨーロッパの国々に商品を売るのに苦労しているという話は本文にありません。ヨーロッパはユーロの例として出てくるだけです。
+【覚えるポイント】
+・protect A against B：「AをBから守る」。
+・For this reason：「こうした理由から」。前に書かれた内容が理由になっています。

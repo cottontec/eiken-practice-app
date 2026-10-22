@@ -1,0 +1,28 @@
+---
+choices: called Family Fashions to introduce some men's clothing designs. | talked with a client about making some new clothes for them. | drew some new designs for children's shirts and dresses. | presented some new designs to his company's president.
+answerText: talked with a client about making some new clothes for them.
+---
+【正解】2 talked with a client about making some new clothes for them.（取引先と、その取引先のために新しい服を作ることについて話した。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：先週の水曜日、ニコラスは
+1 男性用の衣類のデザインを紹介するために、ファミリー・ファッションズに電話をかけた。
+2 取引先と、その取引先のために新しい服を作ることについて話した。
+3 子ども用のシャツとワンピースの新しいデザインを描いた。
+4 自分の会社の社長に、新しいデザインをいくつか発表した。
+【考え方】
+設問の Last Wednesday（先週の水曜日）という言葉を本文で探すと、第2段落に出てきます。
+Last Wednesday, I met with one of our main clients, Family Fashions, and they asked our company to make some children's clothing for them.（先週の水曜日、私は当社の主要な取引先の1つであるファミリー・ファッションズと会った。そして、先方は当社に、子ども服をいくつか作ってほしいと頼んだ）とあります。client は「取引先、客」、ask ＋人＋ to ～ は「（人）に～するよう頼む」です。
+ニコラスは取引先と会い、その取引先のために子ども服を作ってほしいという話をしたことが分かります。本文と選択肢は次のように対応しています。
+本文 met with one of our main clients ＝ 選択肢 talked with a client（取引先と話した）
+本文 make some children's clothing for them ＝ 選択肢 making some new clothes for them（その取引先のために新しい服を作ること）
+正解は2です。
+【ほかの選択肢】
+1 ニコラスはファミリー・ファッションズと met with（会った）とあり、電話をかけたとは書かれていません。また、話題になったのは男性用の服ではなく、子ども服です。
+3 本文には I have asked our designers to create some new designs for children's shirts and dresses（私はデザイナーたちに、子ども用のシャツとワンピースの新しいデザインを作るよう頼んだ）とあります。デザインを作るのはデザイナーたちで、ニコラス自身が描いたわけではありません。
+4 新しいデザインを発表するのは、Next Thursday（次の木曜日）にファミリー・ファッションズの本社で開かれる会議です。社長に発表したという話は本文にありません。
+【覚えるポイント】
+・meet with ～：「（話し合いのために）～と会う」。
+・ask ＋人＋ to ～：「（人）に～するよう頼む」。

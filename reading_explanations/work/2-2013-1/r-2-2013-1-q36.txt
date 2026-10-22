@@ -1,6 +1,7 @@
 ---
 choices: Design an electric car that can charge itself when parked. | Tell her about what the city of Walkerton needs the cars to do. | Send her a list of the police officers who will drive the cars. | Come to her office to learn more about electric cars.
 answerText: Tell her about what the city of Walkerton needs the cars to do.
+reviewed: yes
 ---
 【正解】2 Tell her about what the city of Walkerton needs the cars to do.（ウォーカートン市が車にどんなことをさせる必要があるのかを彼女に伝える。）
 【和訳】

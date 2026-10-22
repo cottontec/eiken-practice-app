@@ -1,6 +1,7 @@
 ---
 choices: rough | political | vague | flexible
 answerText: rough
+reviewed: yes
 ---
 【正解】1 rough（でこぼこの、荒れた）
 【和訳】

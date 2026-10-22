@@ -1,6 +1,7 @@
 ---
 choices: hidden | cheap | safe | useful
 answerText: safe
+reviewed: yes
 ---
 【正解】3 safe（安全な）
 【和訳】

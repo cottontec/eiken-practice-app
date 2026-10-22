@@ -1,6 +1,7 @@
 ---
 choices: lent Graham some paints for her invention. | washed the bank's windows with a new cleaning liquid. | taught Graham a way of making Christmas decorations. | made their job easier by covering over their mistakes.
 answerText: made their job easier by covering over their mistakes.
+reviewed: yes
 ---
 【正解】4 made their job easier by covering over their mistakes.（間違いの上から塗って隠すことで、自分たちの仕事を楽にしていた。）
 【和訳】
