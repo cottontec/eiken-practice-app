@@ -1,6 +1,7 @@
 ---
 choices: in contrast | to begin with | by doing so | for once
 answerText: by doing so
+reviewed: yes
 ---
 【正解】3 by doing so（そうすることで）
 【和訳】
@@ -12,10 +13,10 @@ answerText: by doing so
 3 by doing so（そうすることで）
 4 for once（今回だけは、一度だけは）
 【考え方】
-まず見るところ：第3段落の直前の文 Often, they must travel long distances ～
+まず見るところ：第3段落の空所の直前にある Often, they must travel long distances ～
 空所のある文は次のとおりです。
 However, (20), they meet new people with similar interests in different parts of the country and learn more about their favorite kinds of cars.（しかし、（20）、彼らは国内のいろいろな地域で同じような興味を持つ新しい人々と出会い、大好きな種類の車についてもっと学ぶ）
-直前の文は次のとおりです。
+空所の直前の文は次のとおりです。
 Often, they must travel long distances to visit special shops to get the parts that they need.（必要な部品を手に入れるために、遠くまで出かけて特別な店を訪れなければならないことがよくある）
 遠くまで出かけるのは大変なことです。However（しかし）は、その大変さと、よいこともあるという内容をつないでいます。
 では、新しい人に出会ったり車について学んだりできるのは、どうしてでしょうか。それは、遠くの特別な店まで出かけるからだと考えられます。by doing so は「そうすることによって」という意味で、doing so（そうすること）が直前の「遠くまで出かけて特別な店を訪れること」を指します。ですから3が正解です。

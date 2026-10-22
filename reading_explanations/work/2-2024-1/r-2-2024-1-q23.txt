@@ -1,6 +1,7 @@
 ---
 choices: grow longer leaves and roots | can live in dry conditions | have a long growing season | are not the only cause
 answerText: are not the only cause
+reviewed: yes
 ---
 【正解】4 are not the only cause（唯一の原因ではない）
 【和訳】
@@ -19,7 +20,7 @@ In addition, corn crops (23).（さらに、トウモロコシは（23））
 Corn releases more moisture than other plants, but most plants sweat to some degree.（トウモロコシはほかの植物より多くの湿気を放出するが、ほとんどの植物はある程度は汗をかく）
 Soybeans also release a lot of moisture.（大豆もまた、多くの湿気を放出する）
 湿気を出しているのはトウモロコシだけでなく、ほかの植物、特に大豆もだ、という説明です。つまり、湿度が上がる原因はトウモロコシだけではない、ということになります。
-ですから「（トウモロコシは）唯一の原因ではない」という4が正解です。最後の文でも、トウモロコシと大豆の両方の生産を増やすと気象条件がさらに悪くなる、と述べています。
+ですから「（トウモロコシは）唯一の原因ではない」という4が正解です。最後の文でも、トウモロコシと大豆が中西部の作物の約75パーセントを占めるので、生産を増やす計画は不快な気象条件をさらに悪くするだけだ、と述べています。
 この問題の型：具体例とまとめ（ほかの植物も・大豆も→唯一の原因ではない）
 【ほかの選択肢】
 1 「（ほかの植物より）長い葉や根を伸ばす」とすると、そのあとの「ほかの植物や大豆も湿気を出す」という説明とつながりません。本文には葉や根の長さの話はありません。

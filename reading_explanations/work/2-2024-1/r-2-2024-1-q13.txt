@@ -1,6 +1,7 @@
 ---
 choices: up until now | up in the air | at the bottom | at the same time
 answerText: up until now
+reviewed: yes
 ---
 【正解】1 up until now（今までは）
 【和訳】

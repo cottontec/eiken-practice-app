@@ -1,6 +1,7 @@
 ---
 choices: triumph | religion | flame | luggage
 answerText: flame
+reviewed: yes
 ---
 【正解】3 flame（炎）
 【和訳】

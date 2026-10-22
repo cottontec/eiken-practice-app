@@ -1,6 +1,7 @@
 ---
 choices: cure | grant | flee | drop
 answerText: cure
+reviewed: yes
 ---
 【正解】1 cure（治す）
 【和訳】
@@ -15,7 +16,7 @@ Although medicine has made a lot of progress in the past 50 years, researchers s
 4 drop：落とす、やめる
 【考え方】
 まず見るところ：文の初めの Although
-Although（～だけれども）のあとには、後半とは反対向きの内容がくることが多いです。前半は次のとおりです。
+Although（～だけれども）で始まる前半は、あとに続く後半と反対向きの内容になることが多いです。前半は次のとおりです。
 medicine has made a lot of progress in the past 50 years（医学はこの50年間で大きく進歩してきた）
 後半は次のとおりです。
 researchers still have not found a way to ( ) a cold（研究者たちはまだ、かぜを（　）する方法を見つけていない）

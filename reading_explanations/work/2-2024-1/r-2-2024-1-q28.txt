@@ -1,6 +1,7 @@
 ---
 choices: Machines would never be able to make objects as quickly as artists could. | Paintings and sculptures were not worth making because they were not useful. | The lives of people would improve if they returned to making things by hand. | Designers should specialize in producing just one or two types of items.
 answerText: The lives of people would improve if they returned to making things by hand.
+reviewed: yes
 ---
 【正解】3 The lives of people would improve if they returned to making things by hand.（人々が手で物を作ることに戻れば、人々の生活はよくなるだろう。）
 【和訳】

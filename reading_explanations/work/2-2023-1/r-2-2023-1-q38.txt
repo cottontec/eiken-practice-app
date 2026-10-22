@@ -1,6 +1,7 @@
 ---
 choices: People long ago believed that gods spoke to them through dreams. | People dream for more than half of the time that they are asleep. | Participants in Wamsley's study mostly had dreams about future events. | Participants in Wamsley's study were observed in their own homes.
 answerText: People long ago believed that gods spoke to them through dreams.
+reviewed: yes
 ---
 【正解】1 People long ago believed that gods spoke to them through dreams.（昔の人々は、神々が夢を通して自分たちに語りかけると信じていた。）
 【和訳】

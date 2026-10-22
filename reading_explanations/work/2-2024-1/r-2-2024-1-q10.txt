@@ -1,6 +1,7 @@
 ---
 choices: resign | derive | filter | convert
 answerText: convert
+reviewed: yes
 ---
 【正解】4 convert（換算する、変える）
 【和訳】

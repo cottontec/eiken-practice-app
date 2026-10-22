@@ -1,6 +1,7 @@
 ---
 choices: It gives lessons in over 30 different languages. | It is planning to hire a new Spanish teacher. | It has teachers from all over the world. | It offers various types of courses.
 answerText: It offers various types of courses.
+reviewed: yes
 ---
 【正解】4 It offers various types of courses.（さまざまな種類のコースを提供している。）
 【和訳】

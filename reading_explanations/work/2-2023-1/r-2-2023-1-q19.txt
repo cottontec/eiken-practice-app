@@ -1,6 +1,7 @@
 ---
 choices: provide | provided | to provide | only provide
 answerText: provided
+reviewed: yes
 ---
 【正解】2 provided（もし～ならば、～という条件で）
 【和訳】

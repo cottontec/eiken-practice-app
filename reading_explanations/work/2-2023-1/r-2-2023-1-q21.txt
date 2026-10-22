@@ -1,6 +1,7 @@
 ---
 choices: can be lost or stolen | is used for shopping online | can be recycled | is understood by almost everyone
 answerText: can be lost or stolen
+reviewed: yes
 ---
 【正解】1 can be lost or stolen（なくしたり盗まれたりすることがある）
 【和訳】

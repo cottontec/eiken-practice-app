@@ -1,6 +1,7 @@
 ---
 choices: for fear | in charge | on behalf | by way
 answerText: in charge
+reviewed: yes
 ---
 【正解】2 in charge（〔in charge of ～で〕～を担当して）
 【和訳】

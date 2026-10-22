@@ -1,6 +1,7 @@
 ---
 choices: reduce | create | heal | sweep
 answerText: create
+reviewed: yes
 ---
 【正解】2 create（作り出す、創作する）
 【和訳】

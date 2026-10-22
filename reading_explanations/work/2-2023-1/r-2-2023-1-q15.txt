@@ -1,6 +1,7 @@
 ---
 choices: flows into | runs across | hands over | digs up
 answerText: flows into
+reviewed: yes
 ---
 【正解】1 flows into（～に流れ込む）
 【和訳】

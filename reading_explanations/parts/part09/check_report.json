@@ -56,7 +56,8 @@
   "2-2023-1": {
     "stats": {
       "target": 38,
-      "written": 38
+      "written": 38,
+      "reviewed": 38
     },
     "errors": [],
     "warnings": []
@@ -80,7 +81,8 @@
   "2-2024-1": {
     "stats": {
       "target": 31,
-      "written": 31
+      "written": 31,
+      "reviewed": 31
     },
     "errors": [],
     "warnings": []

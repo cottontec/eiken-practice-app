@@ -1,6 +1,7 @@
 ---
 choices: carriages | fantasies | puzzles | luxuries
 answerText: carriages
+reviewed: yes
 ---
 【正解】1 carriages（馬車）
 【和訳】

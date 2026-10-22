@@ -1,0 +1,29 @@
+---
+choices: detain | resort | console | enclose
+answerText: resort
+---
+【正解】2 resort（resort to ～ で「～に訴える、～という手段に頼る」）
+【和訳】
+（英文）
+Harold is strongly opposed to war. He believes governments should never ［resort］ to violence to solve international disagreements.
+（訳）
+ハロルドは戦争に強く反対している。彼は、国と国との意見の対立を解決するために、政府は決して暴力に（訴える）べきではないと考えている。
+（選択肢の意味）
+1 detain：（人）を引き留める、～を拘留する
+2 resort：（resort to ～ で）～に訴える、～という手段に頼る
+3 console：～をなぐさめる
+4 enclose：～を囲む、～を同封する
+【考え方】
+まず見るところ：空所のあとの to violence と、1文目の strongly opposed to war
+1文目で、ハロルドは戦争に strongly opposed（強く反対している）と書かれています。2文目はその考えをくわしく説明しています。
+He believes governments should never (　) to violence（政府は決して暴力に〇〇するべきではないと考えている）
+to solve international disagreements（国際的な意見の対立を解決するために）
+空所のすぐあとに to violence（暴力に）が続いています。resort to ～ は「（ほかに手がなくて）～に訴える、～という手段に頼る」という決まった形です。「意見の対立を解決するために、決して暴力に訴えるべきではない」となり、戦争に反対するハロルドの考えと合います。よって2が正解です。
+この問題の型：熟語・決まった形（resort to ～：～に訴える）
+【ほかの選択肢】
+1 detain は「（人）を引き留める、拘留する」で、あとに「だれを」が必要です。この文では空所のすぐあとが to violence で、「暴力に引き留める」となり意味が通りません。
+3 console は「～をなぐさめる」で、あとに「だれを」が必要です。「暴力になぐさめる」となり、意味が通りません。
+4 enclose は「～を囲む、～を同封する」で、あとに「何を」が必要です。「暴力に同封する」となり、意味が通りません。
+【覚えるポイント】
+・resort to ～：「～に訴える、（ほかに手がなく）～という手段に頼る」。名詞の resort（行楽地）とは別の意味です。
+・動詞の空所のすぐあとに to ～ が続くときは、「動詞＋ to」で決まった形になる語がないかを確かめるのが手がかりになります。

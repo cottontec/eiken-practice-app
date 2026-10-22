@@ -1,6 +1,7 @@
 ---
 choices: requirement | achievement | combination | donation
 answerText: achievement
+reviewed: yes
 ---
 【正解】2 achievement（成果、達成したこと）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: illustrated | reminded | proceeded | defended
 answerText: proceeded
+reviewed: yes
 ---
 【正解】3 proceeded（進んだ）
 【和訳】

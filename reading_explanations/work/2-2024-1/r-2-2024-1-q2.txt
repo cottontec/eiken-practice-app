@@ -1,6 +1,7 @@
 ---
 choices: underneath | upstairs | definitely | downhill
 answerText: underneath
+reviewed: yes
 ---
 【正解】1 underneath（その下に、下側に）
 【和訳】

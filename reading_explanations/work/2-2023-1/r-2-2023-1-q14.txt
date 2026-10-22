@@ -1,6 +1,7 @@
 ---
 choices: bringing out | falling for | picking on | giving off
 answerText: bringing out
+reviewed: yes
 ---
 【正解】1 bringing out（～を発売する、～を世に出す）
 【和訳】

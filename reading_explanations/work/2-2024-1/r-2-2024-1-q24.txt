@@ -1,6 +1,7 @@
 ---
 choices: kept bothering him and his friend during their meal. | seemed to know very little about the items on the menu. | let him and his friend choose which table to sit at. | made some recommendations to him and his friend.
 answerText: made some recommendations to him and his friend.
+reviewed: yes
 ---
 【正解】4 made some recommendations to him and his friend.（彼と友人にいくつかおすすめをした。）
 【和訳】

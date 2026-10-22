@@ -1,6 +1,7 @@
 ---
 choices: spend more time teaching themselves and their children. | use their energy for volunteer activities in their communities. | invent other machines to carry out tasks in the home. | live in parts of the world where there are many rivers and lakes.
 answerText: spend more time teaching themselves and their children.
+reviewed: yes
 ---
 【正解】1 spend more time teaching themselves and their children.（自分自身や自分の子どもたちに教えることに、より多くの時間を使う。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: Discuss the content of their dreams with other participants in the study. | Relate what happened in their dreams to what was happening in their lives. | Try to wake themselves up as soon as they knew that they were dreaming. | Compare their own dreams with a list of dreams that people commonly have.
 answerText: Relate what happened in their dreams to what was happening in their lives.
+reviewed: yes
 ---
 【正解】2 Relate what happened in their dreams to what was happening in their lives.（夢の中で起きたことを、自分の生活の中で起きていたことと結びつける。）
 【和訳】

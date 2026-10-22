@@ -1,6 +1,7 @@
 ---
 choices: thinner and lighter | more colorful and exciting | harder to use | more widely available
 answerText: more widely available
+reviewed: yes
 ---
 【正解】4 more widely available（以前より広く利用できる）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: alter | impress | honor | confront
 answerText: confront
+reviewed: yes
 ---
 【正解】4 confront（〔問題などに〕向き合う、立ち向かう）
 【和訳】

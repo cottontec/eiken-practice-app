@@ -1,6 +1,7 @@
 ---
 choices: harmful | previous | certain | vague
 answerText: vague
+reviewed: yes
 ---
 【正解】4 vague（あいまいな、はっきりしない）
 【和訳】

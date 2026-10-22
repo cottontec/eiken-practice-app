@@ -1,6 +1,7 @@
 ---
 choices: cut down | hung up | took after | set aside
 answerText: set aside
+reviewed: yes
 ---
 【正解】4 set aside（～を取っておいた）
 【和訳】

@@ -1,0 +1,29 @@
+---
+choices: texture | stack | pension | haven
+answerText: haven
+---
+【正解】4 haven（居心地のよい場所、安全な場所）
+【和訳】
+（英文）
+The city's waterfront tourist district is known to be a ［haven］ for thieves, so police warn visitors to be careful with their belongings.
+（訳）
+その市の水辺の観光地区は、どろぼうにとって（居心地のよい場所）として知られているので、警察は訪れる人たちに、持ち物に気をつけるよう注意している。
+（選択肢の意味）
+1 texture：手ざわり、質感
+2 stack：（積み重ねた）山
+3 pension：年金
+4 haven：避難所、安全な場所、（～にとって）居心地のよい場所
+【考え方】
+まず見るところ：空所のあとの for thieves と、so のあとの police warn visitors to be careful with their belongings
+文の前半は「その観光地区は、どろぼうにとっての〇〇だと知られている」です。so（だから）のあとに、その結果が書かれています。
+so police warn visitors to be careful with their belongings（だから、警察は訪れる人たちに持ち物に気をつけるよう注意している）
+warn ～ to ... は「～に…するよう注意する」、belongings は「持ち物」です。持ち物に気をつけるよう注意するのは、その地区でどろぼうがよく活動しているからだと考えられます。
+haven は「避難所、安全な場所」という意味で、a haven for ～ で「～にとって居心地のよい場所、～が集まる場所」となります。「どろぼうにとって居心地のよい場所なので、持ち物に気をつけるよう注意している」となり、so の前後が原因と結果としてつながります。よって4が正解です。
+この問題の型：因果（so の前が原因、あとが結果）
+【ほかの選択肢】
+1 texture は「手ざわり、質感」です。「観光地区がどろぼうにとっての手ざわりだ」となり、意味が通りません。
+2 stack は「（積み重ねた）山」です。「どろぼうのための山」では、持ち物に気をつける理由になりません。
+3 pension は「年金（お年寄りなどに定期的に支払われるお金）」です。観光地区を「どろぼうの年金」と言うことはできず、意味が通りません。
+【覚えるポイント】
+・a haven for ～：「～にとって居心地のよい場所、～の安全な場所」。warn ～ to ...：「～に…するよう注意する」。
+・場所を説明する空所のあとに so ～ が続くときは、その結果（ここでは「持ち物に気をつけて」）から、どんな場所なのかを考えるのが手がかりになります。

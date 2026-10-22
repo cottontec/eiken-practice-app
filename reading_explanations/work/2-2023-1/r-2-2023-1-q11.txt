@@ -1,6 +1,7 @@
 ---
 choices: capable of | inspired by | attracted to | disappointed in
 answerText: disappointed in
+reviewed: yes
 ---
 【正解】4 disappointed in（～にがっかりして）
 【和訳】

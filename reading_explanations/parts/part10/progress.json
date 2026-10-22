@@ -16,10 +16,10 @@
     {
       "batchId": "pre1-2014-2",
       "target": 41,
-      "written": 0,
+      "written": 25,
       "contentReviewed": 0,
-      "status": "not_started",
-      "blank": 41,
+      "status": "in_progress",
+      "blank": 16,
       "issues": 0,
       "checkErrors": 0,
       "checkWarnings": 0
@@ -157,5 +157,5 @@
       "checkWarnings": 0
     }
   ],
-  "updatedAt": "2026-10-22T20:52:32+00:00"
+  "updatedAt": "2026-10-22T21:11:57+00:00"
 }

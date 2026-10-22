@@ -1,6 +1,7 @@
 ---
 choices: they realized that it would be simpler to make the items themselves. | better-quality products were being made abroad. | the products were expensive and not easily available. | other artists and designers began to have a greater influence.
 answerText: the products were expensive and not easily available.
+reviewed: yes
 ---
 【正解】3 the products were expensive and not easily available.（その製品は値段が高く、簡単には手に入らなかった。）
 【和訳】

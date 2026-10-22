@@ -1,6 +1,7 @@
 ---
 choices: It took longer than he expected for it to be served. | The way that it looked was very appealing. | His steak was not cooked as he had asked. | He had never tried a mushroom burger before.
 answerText: The way that it looked was very appealing.
+reviewed: yes
 ---
 【正解】2 The way that it looked was very appealing.（その見た目がとても魅力的だった。）
 【和訳】

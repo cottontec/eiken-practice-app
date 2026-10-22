@@ -1,6 +1,7 @@
 ---
 choices: Even so | For this reason | In exchange | For instance
 answerText: For this reason
+reviewed: yes
 ---
 【正解】2 For this reason（このため）
 【和訳】

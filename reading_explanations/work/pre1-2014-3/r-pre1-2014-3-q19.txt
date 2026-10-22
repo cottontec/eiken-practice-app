@@ -1,0 +1,31 @@
+---
+choices: rallies | vaults | incentives | inscriptions
+answerText: incentives
+---
+【正解】3 incentives（やる気を起こさせるもの、奨励策）
+【和訳】
+（英文）
+The company is offering generous ［incentives］, such as a furnished apartment and bonuses, to encourage executives to accept long-term overseas positions.
+（訳）
+その会社は、重役たちに長期間の海外勤務を引き受けてもらうよう促すため、家具付きのアパートやボーナスなどの、手厚い（奨励策）を用意している。
+（選択肢の意味）
+1 rallies：集会、（株価などの）持ち直し
+2 vaults：金庫室、地下の貯蔵室
+3 incentives：やる気を起こさせるもの、奨励策（何かをしてもらうための特典）
+4 inscriptions：（石などに）刻まれた文字、碑文
+【考え方】
+まず見るところ：空所のあとの such as a furnished apartment and bonuses と、to encourage executives to accept long-term overseas positions
+空所のすぐあとに such as ～（たとえば～のような）があり、空所の具体例が書かれています。
+such as a furnished apartment and bonuses（家具付きのアパートやボーナスのような）
+furnished は「家具付きの」です。さらに、その目的も書かれています。
+to encourage executives to accept long-term overseas positions（重役たちが長期の海外での職を引き受けるよう促すために）
+encourage ～ to ... は「～が…するよう促す」、executive は「重役、幹部」です。海外勤務を引き受けてもらうために、会社が用意する住まいやボーナスは、「引き受けたくなるような特典」です。
+incentive は「やる気を起こさせるもの、奨励策」という意味です。generous incentives で「手厚い特典」となります。よって3が正解です。
+この問題の型：具体例とまとめ（such as ～ が空所の具体例）
+【ほかの選択肢】
+1 rallies は「集会」や「（株価などの）持ち直し」です。家具付きのアパートやボーナスは集会ではないので、such as ～ の具体例と合いません。
+2 vaults は「金庫室、地下の貯蔵室」です。アパートやボーナスは金庫室ではなく、重役に海外勤務を促すものとしても意味が通りません。
+4 inscriptions は「刻まれた文字、碑文」です。アパートやボーナスの例とはまったく合いません。
+【覚えるポイント】
+・incentive：「やる気を起こさせるもの、奨励策」。encourage ～ to ...：「～が…するよう促す」。
+・空所のすぐあとに such as ～ があるときは、その具体例をまとめて言える語を選ぶのが手がかりになります。

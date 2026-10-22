@@ -1,6 +1,7 @@
 ---
 choices: urgency | offspring | empire | impulse
 answerText: empire
+reviewed: yes
 ---
 【正解】3 empire（帝国）
 【和訳】

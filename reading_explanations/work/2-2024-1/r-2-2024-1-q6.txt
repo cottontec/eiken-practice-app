@@ -1,6 +1,7 @@
 ---
 choices: correctly | eventually | loudly | obviously
 answerText: correctly
+reviewed: yes
 ---
 【正解】1 correctly（正しく）
 【和訳】

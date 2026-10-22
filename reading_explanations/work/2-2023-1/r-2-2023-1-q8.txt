@@ -1,6 +1,7 @@
 ---
 choices: sprayed | demanded | awarded | punished
 answerText: sprayed
+reviewed: yes
 ---
 【正解】1 sprayed（〔液体〕を吹きかけた、まいた）
 【和訳】

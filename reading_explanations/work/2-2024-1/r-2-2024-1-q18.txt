@@ -1,6 +1,7 @@
 ---
 choices: was banned in some places | is much easier for children | used to be more popular | can be an expensive hobby
 answerText: can be an expensive hobby
+reviewed: yes
 ---
 【正解】4 can be an expensive hobby（お金のかかる趣味になることがある）
 【和訳】

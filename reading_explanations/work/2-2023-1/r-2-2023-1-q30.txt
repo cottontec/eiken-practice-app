@@ -1,6 +1,7 @@
 ---
 choices: It happened due to an important change in society. | It led to the development of TVs, computers, and smartphones. | It has had a major impact on the natural environment. | It has had a greater effect on society than other modern inventions.
 answerText: It has had a greater effect on society than other modern inventions.
+reviewed: yes
 ---
 【正解】4 It has had a greater effect on society than other modern inventions.（それは、ほかの現代の発明よりも大きな影響を社会に与えてきた。）
 【和訳】

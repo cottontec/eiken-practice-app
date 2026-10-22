@@ -1,6 +1,7 @@
 ---
 choices: engaged | divided | buried | stressed
 answerText: stressed
+reviewed: yes
 ---
 【正解】4 stressed（～を強調した）
 【和訳】

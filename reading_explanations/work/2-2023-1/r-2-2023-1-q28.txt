@@ -1,6 +1,7 @@
 ---
 choices: did not know which class to sign up for. | had never studied Spanish before. | wanted more information about teaching methods. | was at high school with one of the instructors.
 answerText: did not know which class to sign up for.
+reviewed: yes
 ---
 【正解】1 did not know which class to sign up for.（どのクラスに申しこめばよいか分からなかった。）
 【和訳】

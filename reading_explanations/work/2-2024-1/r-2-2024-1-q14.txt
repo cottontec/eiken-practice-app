@@ -1,6 +1,7 @@
 ---
 choices: makes sense of | keeps pace with | keeps track of | makes do with
 answerText: keeps track of
+reviewed: yes
 ---
 【正解】3 keeps track of（～を記録しておく、～の経過を追う）
 【和訳】

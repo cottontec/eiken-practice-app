@@ -1,6 +1,7 @@
 ---
 choices: palaces | manuscripts | victims | factors
 answerText: factors
+reviewed: yes
 ---
 【正解】4 factors（要因、要素）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: heard of | turned over | shut off | ruled out
 answerText: shut off
+reviewed: yes
 ---
 【正解】3 shut off（〔電気・水道・ガスなど〕を止める）
 【和訳】

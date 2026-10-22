@@ -1,6 +1,7 @@
 ---
 choices: large from | size from | the large of | the size of
 answerText: the size of
+reviewed: yes
 ---
 【正解】4 the size of（～の大きさ）
 【和訳】

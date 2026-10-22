@@ -1,6 +1,7 @@
 ---
 choices: were not able to understand each small stage of their work. | did not have enough involvement in the production process. | had to spend too much time dealing with their customers. | could make more money if they worked in small shops.
 answerText: did not have enough involvement in the production process.
+reviewed: yes
 ---
 【正解】2 did not have enough involvement in the production process.（生産の工程に十分にかかわっていなかった。）
 【和訳】
@@ -18,7 +19,7 @@ answerText: did not have enough involvement in the production process.
 These managers divided the process into small stages, with each worker only working on one stage.（そうした経営者たちは作業の工程を小さな段階に分け、それぞれの労働者は1つの段階だけを担当していた）
 次に、モリスの考えです。
 Morris thought workers would be happier and healthier if they were involved in the whole production process（モリスは、労働者たちが生産の工程全体にかかわれば、（今より）幸せで健康になるだろうと考えていた）
-工場の労働者は1つの段階しか担当していませんでした。モリスは、工程全体にかかわるべきだと考えていました。つまり、今の工場の労働者は工程へのかかわりが足りない、と考えていたことになります。
+工場の労働者は1つの段階しか担当していませんでした。モリスは、工程全体にかかわったほうがよいと考えていました。つまり、今の工場の労働者は工程へのかかわりが足りない、と考えていたことになります。
 本文と選択肢を対にすると、次のようになります。
 本文 each worker only working on one stage（それぞれの労働者は1つの段階だけを担当）＋ were involved in the whole production process（工程全体にかかわれば）→ 選択肢 did not have enough involvement in the production process（生産の工程に十分にかかわっていなかった）
 involvement は be involved in ～（～にかかわる）の名詞の形です。ですから2が正解です。
@@ -26,7 +27,7 @@ involvement は be involved in ～（～にかかわる）の名詞の形です�
 【ほかの選択肢】
 1 本文にありません。労働者が1つの段階だけを担当していたとは書かれていますが、その段階を理解できなかったとは書かれていません。
 3 本文の内容と合いません。モリスは、労働者が met the people who bought and used their products（自分たちの製品を買って使う人々と会う）とよい、と考えていました。客の相手に時間をかけすぎていたという話はありません。
-4 一部だけ本文と合います。モリスは small shops（小さな工房）で働くことを勧めていますが、その理由は happier and healthier（（今より）幸せで健康に）なることです。お金を多くかせげるという話はありません。
+4 一部だけ本文と合います。モリスは、small shops（小さな工房）で働けば happier and healthier（（今より）幸せで健康に）なると考えていますが、お金を多くかせげるという話はありません。
 【覚えるポイント】
 ・be involved in ～：「～にかかわる」。名詞の形 involvement（かかわり）に言いかえられることがあります。
 ・「ある人が～と考えていた」という設問では、本文の thought や believed のあとの内容と、その前に書かれた「今の様子」（ここでは only working on one stage）を比べると、選択肢の言いかえを見つける手がかりになります。

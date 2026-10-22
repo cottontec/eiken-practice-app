@@ -1,6 +1,7 @@
 ---
 choices: Several parts of people's brains are involved in dreaming. | Dreams do not usually appear to have a clear meaning. | People often do not want to describe their dreams honestly. | Different people sometimes have exactly the same dream.
 answerText: Dreams do not usually appear to have a clear meaning.
+reviewed: yes
 ---
 【正解】2 Dreams do not usually appear to have a clear meaning.（夢には、たいていはっきりした意味があるようには思えない。）
 【和訳】

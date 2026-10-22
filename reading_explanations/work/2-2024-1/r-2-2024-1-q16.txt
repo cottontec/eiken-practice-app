@@ -1,13 +1,14 @@
 ---
 choices: by no means | on good terms | out of hand | at first sight
 answerText: on good terms
+reviewed: yes
 ---
 【正解】2 on good terms（よい関係で）
 【和訳】
 （英文）
 Before Eric finished working for Top Paper Supplies Inc., he offered to train the person who was going to replace him. He wanted to leave the company ［on good terms］.
 （訳）
-エリックは、トップ・ペーパー・サプライズ社での仕事を終える前に、自分の後任になる人を教育しようと申し出ました。彼は（よい関係のまま）会社を去りたいと思っていました。
+エリックは、トップ・ペーパー・サプライ社での仕事を終える前に、自分の後任になる人を教育しようと申し出ました。彼は（よい関係のまま）会社を去りたいと思っていました。
 （選択肢の意味）
 1 by no means：決して～ない
 2 on good terms：よい関係で
@@ -16,7 +17,7 @@ Before Eric finished working for Top Paper Supplies Inc., he offered to train th
 【考え方】
 まず見るところ：1文目の he offered to train the person who was going to replace him
 1文目は次のとおりです。
-Before Eric finished working for Top Paper Supplies Inc., he offered to train the person who was going to replace him.（エリックはトップ・ペーパー・サプライズ社での仕事を終える前に、自分の後任になる人を教育しようと申し出た）
+Before Eric finished working for Top Paper Supplies Inc., he offered to train the person who was going to replace him.（エリックはトップ・ペーパー・サプライ社での仕事を終える前に、自分の後任になる人を教育しようと申し出た）
 the person who was going to replace him の who は、前の the person（人）に「彼に代わることになっていた」という説明を付け足しています。
 辞める前に自分から後任の人を教えると申し出るのは、会社が困らないようにするための親切な行動です。2文目の He wanted to leave the company ( ).（彼は（　）会社を去りたかった）は、その行動の理由を説明していると考えられます。
 on good terms は「よい関係で、仲よく」という意味です。「会社とよい関係のまま去りたかったので、後任を教育すると申し出た」となり、つながるので2が正解です。

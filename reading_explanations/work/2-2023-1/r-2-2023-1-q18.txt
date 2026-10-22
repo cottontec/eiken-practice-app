@@ -1,6 +1,7 @@
 ---
 choices: none | any | other | few
 answerText: any
+reviewed: yes
 ---
 【正解】2 any（どれでも、どんなものでも）
 【和訳】

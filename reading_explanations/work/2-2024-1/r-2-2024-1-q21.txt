@@ -1,6 +1,7 @@
 ---
 choices: affecting local weather | feeding wild animals | improving soil conditions | changing population trends
 answerText: affecting local weather
+reviewed: yes
 ---
 【正解】1 affecting local weather（地域の天候に影響を与えている）
 【和訳】

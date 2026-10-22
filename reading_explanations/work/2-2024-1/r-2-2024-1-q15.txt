@@ -1,6 +1,7 @@
 ---
 choices: staring at | passing on | hearing from | belonging to
 answerText: staring at
+reviewed: yes
 ---
 【正解】1 staring at（～をじっと見つめる）
 【和訳】
@@ -9,7 +10,7 @@ A: Daisy, is there something wrong? You keep ［staring at］ the top of my head
 B: Sorry, but some of your hair is standing up. It looks really funny!
 （訳）
 A：デイジー、何かおかしいところがあるの？私の頭のてっぺんを（じっと見て）ばかりいるけど。
-B：ごめんね、でも髪の毛が少し立っているんだよ。すごくおかしな感じだよ！
+B：ごめんね、でも髪の毛の一部が立っているんだよ。すごくおかしな感じだよ！
 （選択肢の意味）
 1 staring at：～をじっと見つめる
 2 passing on：～を伝える、次に回す
@@ -18,7 +19,7 @@ B：ごめんね、でも髪の毛が少し立っているんだよ。すごく�
 【考え方】
 まず見るところ：Bの some of your hair is standing up
 Bの答えは次のとおりです。
-Sorry, but some of your hair is standing up. It looks really funny!（ごめんね、でも髪の毛が少し立っているんだよ。すごくおかしな感じだよ！）
+Sorry, but some of your hair is standing up. It looks really funny!（ごめんね、でも髪の毛の一部が立っているんだよ。すごくおかしな感じだよ！）
 デイジーは、Aの髪が立っているのが気になって、頭のほうを見ていたと考えられます。
 Aの文は次のとおりです。
 You keep ( ) the top of my head.（あなたは私の頭のてっぺんを（　）し続けている）

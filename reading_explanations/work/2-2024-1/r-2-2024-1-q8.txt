@@ -1,6 +1,7 @@
 ---
 choices: frighten | grasp | harm | lack
 answerText: grasp
+reviewed: yes
 ---
 【正解】2 grasp（理解する、つかむ）
 【和訳】

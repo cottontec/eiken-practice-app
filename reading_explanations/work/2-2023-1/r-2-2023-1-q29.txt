@@ -1,6 +1,7 @@
 ---
 choices: take place on Monday through Friday every week. | have a limited number of spaces per session. | are only available to advanced students. | focus on using foreign languages to make friends.
 answerText: take place on Monday through Friday every week.
+reviewed: yes
 ---
 【正解】1 take place on Monday through Friday every week.（毎週、月曜日から金曜日まで行われる。）
 【和訳】

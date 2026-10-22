@@ -1,6 +1,7 @@
 ---
 choices: legally | financially | accidentally | individually
 answerText: individually
+reviewed: yes
 ---
 【正解】4 individually（1つずつ別々に、個別に）
 【和訳】

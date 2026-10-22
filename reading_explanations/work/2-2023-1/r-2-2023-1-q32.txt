@@ -1,6 +1,7 @@
 ---
 choices: Many people thought that they would not be as effective as washing laundry by hand. | The use of electricity was limited to a few homes in wealthier parts of the world. | They could not discover how to make a machine to do all the steps involved in washing. | Machines that involve both electricity and water can be very unsafe to work with.
 answerText: Machines that involve both electricity and water can be very unsafe to work with.
+reviewed: yes
 ---
 【正解】4 Machines that involve both electricity and water can be very unsafe to work with.（電気と水の両方を使う機械は、扱うのにとても危険なことがある。）
 【和訳】

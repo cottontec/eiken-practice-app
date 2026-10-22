@@ -1,6 +1,7 @@
 ---
 choices: behavior | composition | attendance | liberty
 answerText: liberty
+reviewed: yes
 ---
 【正解】4 liberty（自由）
 【和訳】

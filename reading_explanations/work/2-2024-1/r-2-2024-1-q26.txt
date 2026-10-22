@@ -1,6 +1,7 @@
 ---
 choices: her to provide food for a party at his college. | to get advice about opening his own restaurant. | her to apologize and offer him a refund. | to talk with her about working at her restaurant.
 answerText: to talk with her about working at her restaurant.
+reviewed: yes
 ---
 【正解】4 to talk with her about working at her restaurant.（彼女のレストランで働くことについて、彼女と話すこと。）
 【和訳】

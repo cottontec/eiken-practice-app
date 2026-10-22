@@ -1,6 +1,7 @@
 ---
 choices: At random | In exchange | For instance | On purpose
 answerText: For instance
+reviewed: yes
 ---
 【正解】3 For instance（たとえば）
 【和訳】

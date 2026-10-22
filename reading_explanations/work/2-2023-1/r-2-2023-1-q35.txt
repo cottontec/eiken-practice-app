@@ -1,6 +1,7 @@
 ---
 choices: people discovered the reason that we have dreams thousands of years ago. | people's brains are able to exercise and grow larger by having dreams. | dreams allow people to hide parts of their personalities that they do not like. | dreams give people an opportunity to make their memories stronger.
 answerText: dreams give people an opportunity to make their memories stronger.
+reviewed: yes
 ---
 【正解】4 dreams give people an opportunity to make their memories stronger.（夢は、人々に記憶を強める機会を与える。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: For now | Until then | With luck | By contrast
 answerText: For now
+reviewed: yes
 ---
 【正解】1 For now（今のところは）
 【和訳】

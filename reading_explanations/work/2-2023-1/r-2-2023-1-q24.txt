@@ -1,6 +1,7 @@
 ---
 choices: these are not the only reasons for | there are rules to stop people from | many popular websites have been | some TV companies began by
 answerText: these are not the only reasons for
+reviewed: yes
 ---
 【正解】1 these are not the only reasons for（これらが～の唯一の理由ではない）
 【和訳】

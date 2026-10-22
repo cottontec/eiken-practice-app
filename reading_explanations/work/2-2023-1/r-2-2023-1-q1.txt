@@ -1,6 +1,7 @@
 ---
 choices: income | convention | judgment | geography
 answerText: judgment
+reviewed: yes
 ---
 【正解】3 judgment（判断、判断力）
 【和訳】

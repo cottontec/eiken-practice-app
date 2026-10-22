@@ -1,6 +1,7 @@
 ---
 choices: attending an event | planning to quit | being paid more | stealing its stories
 answerText: stealing its stories
+reviewed: yes
 ---
 【正解】4 stealing its stories（その新聞の記事を盗んでいる）
 【和訳】

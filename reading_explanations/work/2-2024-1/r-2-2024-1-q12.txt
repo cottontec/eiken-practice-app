@@ -1,6 +1,7 @@
 ---
 choices: As a general rule | In the long run | Over and over | On the contrary
 answerText: As a general rule
+reviewed: yes
 ---
 【正解】1 As a general rule（ふつうは、原則として）
 【和訳】
