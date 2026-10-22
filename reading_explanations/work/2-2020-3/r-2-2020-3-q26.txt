@@ -1,0 +1,27 @@
+---
+choices: at high temperatures | near cool water | under large trees | on cloudy days
+answerText: at high temperatures
+---
+【正解】1 at high temperatures（高い温度では）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 at high temperatures（高い温度では）
+2 near cool water（冷たい水の近くでは）
+3 under large trees（大きな木の下では）
+4 on cloudy days（曇りの日には）
+【考え方】
+空所は第3段落の Solar panels do not perform well (26).（ソーラーパネルは（26）うまく働かない）です。perform well は「うまく働く、よい成果を出す」という意味です。
+第3段落の最初の文は The solar panels were also able to benefit from the crops.（ソーラーパネルもまた、作物から恩恵を受けることができた）です。ここから、作物がパネルの役に立つという話が始まります。
+空所のすぐあとの文に注目します。
+However, crops like lettuce and kale create a cooling effect, which stops the solar panels from overheating and allows them to work more efficiently.（しかし、レタスやケールのような作物は冷やす効果を生み出し、それがソーラーパネルが熱くなりすぎるのを防ぎ、パネルがより効率よく働けるようにする）
+However（しかし）があるので、空所の文で述べたパネルの弱点を、作物が解決するという流れです。作物は「冷やす効果」で「熱くなりすぎるのを防ぐ」のですから、パネルの弱点は「熱い（温度が高い）ときにうまく働かないこと」だと分かります。
+at high temperatures は「高い温度では」という意味です。ですから1が正解です。
+【ほかの選択肢】
+2 「冷たい水の近くではうまく働かない」となります。本文では、作物がパネルを冷やすことでパネルがよく働くと書かれています。冷たいことが弱点なら、冷やす効果が役に立つ理由になりません。
+3 「大きな木の下ではうまく働かない」となります。木の話は本文にありません。また、あとの文の「作物が冷やして熱くなりすぎるのを防ぐ」は、木の下で働かないという弱点を解決する話になっていません。
+4 「曇りの日にはうまく働かない」となります。天気の話は本文になく、作物の冷やす効果で曇りの問題が解決するわけでもないので、However のあとの文とつながりません。
+【覚えるポイント】
+・stop A from -ing：「Aが～するのを防ぐ」。stops the solar panels from overheating は「ソーラーパネルが熱くなりすぎるのを防ぐ」です。
+・However のあとに解決策が書かれているときは、その解決策が何の問題を解決しているのかを考えると、前の空所の内容が分かります。
