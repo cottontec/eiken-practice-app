@@ -8,10 +8,10 @@ reviewed: yes
 A：本屋での新しい仕事はどう？
 B：気に入っているよ。お金の点ではそれほどよくないけれど、いっしょに働く人たちがとてもいい人たちなんだ。
 （選択肢の意味）
-1 （in terms of ～で）～の点では
-2 （in charge of ～で）～を担当して
-3 （a series of ～で）一連の～
-4 （in line で）列に並んで
+1 terms：（in terms of ～で）～の点では
+2 charge：（in charge of ～で）～を担当して
+3 series：（a series of ～で）一連の～
+4 line：（in line で）列に並んで
 【考え方】
 Bの答えは In (　) of money, it's not that good, but my co-workers are really nice. です。but の前後で、仕事の「よくない点」と「よい点」を比べています。
 but のうしろは my co-workers are really nice（同僚はとてもいい人たちだ）で、人間関係の点ではよいということです。それに対して、but の前は「お金の（　）では、それほどよくない」となります。

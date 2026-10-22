@@ -1,6 +1,7 @@
 ---
 choices: reason to celebrate | normal reaction | serious mistake | chance to make money
 answerText: chance to make money
+reviewed: yes
 ---
 【正解】4 chance to make money（お金をかせぐ機会）
 【和訳】
@@ -12,14 +13,16 @@ answerText: chance to make money
 3 serious mistake（重大なまちがい）
 4 chance to make money（お金をかせぐ機会）
 【考え方】
-空所は第2段落の Chapman saw this as a (22). です。see A as B は「AをBとみなす、AをBだと考える」という意味です。
-this（これ）が指すのは、直前の文の many people in the eastern United States were moving west to find cheap land（アメリカ東部の多くの人々が、安い土地を見つけるために西へと移り住んでいた）ということです。
+まず見るところ：第2段落の Chapman saw this as a (22). と、そのあとのチャップマンの行動
+Chapman saw this as a (22).（チャップマンはこれを（　）だと考えた）
+see A as B は「AをBとみなす、AをBだと考える」という意味です。this（これ）が指すのは、直前の many people in the eastern United States were moving west to find cheap land（アメリカ東部の多くの人々が、安い土地を見つけるために西へと移り住んでいた）ということです。
 空所のあとには、チャップマンがしたことが続きます。
-・He got free bags of apple seeds（リンゴの種の入った袋を無料で手に入れた）
-・he bought land and planted apple trees in places that would likely become towns（町になりそうな場所で土地を買い、リンゴの木を植えた）
-・he would return to these places to check his apple trees and sell them（リンゴの木を確かめて売るために、そうした場所に戻ってきた）
-・he also sold his land to people who wanted to settle there（そこに住みつきたい人々に土地を売ることもあった）
+He got free bags of apple seeds（リンゴの種の入った袋を無料で手に入れた）
+he bought land and planted apple trees in places that would likely become towns（町になりそうな場所で土地を買い、リンゴの木を植えた）
+he would return to these places to check his apple trees and sell them（リンゴの木を確かめて売るために、そうした場所に戻ってきた）
+he also sold his land to people who wanted to settle there（そこに住みつきたい人々に土地を売ることもあった）
 種を無料で手に入れ、人が移ってきそうな場所に木を植えて、あとで木や土地を売っています。つまり、チャップマンは人々が西へ移ってくることを、もうけるチャンスと考えたのだと分かります。ですから、4が正解です。
+この問題の型：指示語（this）、具体例とまとめ（木や土地を売る → お金をかせぐ機会）
 【ほかの選択肢】
 1 「祝う理由」を入れると「人々が西へ移ることを祝う理由だと考えた」となりますが、そのあとに祝ったという話はなく、木や土地を売った話とつながりません。
 2 「ふつうの反応」を入れると「これをふつうの反応だと考えた」となります。そのあとに続く、種を手に入れて木を植え、売ったという行動の説明になりません。
@@ -27,3 +30,4 @@ this（これ）が指すのは、直前の文の many people in the eastern Uni
 【覚えるポイント】
 ・see A as B：「AをBとみなす、AをBだと考える」。
 ・make money：「お金をかせぐ、もうける」。
+・空所が「A as (　)」の形のときは、A にあたる内容（ここでは this が指すこと）をまず確かめ、そのあとの行動をまとめると、Bに入る言葉が見えてきます。

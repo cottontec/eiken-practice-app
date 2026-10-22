@@ -1,0 +1,32 @@
+---
+choices: posture | sanctuary | proponent | remainder
+answerText: remainder
+---
+【正解】4 remainder（残り）
+【和訳】
+（英文）
+A: Do you have a busy schedule for your business trip to Paris?
+B: I have meetings for the first three days, but I hope to spend the ［remainder］ of the week visiting my aunt.
+（訳）
+A：パリへの出張は、予定が詰まっているの？
+B：最初の3日間は会議があるけれど、その週の（残り）は、おばを訪ねて過ごしたいと思っているよ。
+（選択肢の意味）
+1 posture：姿勢
+2 sanctuary：聖域、（鳥や動物の）保護区、避難所
+3 proponent：支持者、提唱者（ある考えを広めようとする人）
+4 remainder：残り
+【考え方】
+まず見るところ：Bの答えの the first three days と but
+Bの答えは but（でも）で2つに分かれています。
+I have meetings for the first three days（最初の3日間は会議がある）
+but I hope to spend the (　) of the week visiting my aunt（でも、その週の〇〇はおばを訪ねて過ごしたい）
+spend ＋時間＋ ～ing は「～して（時間）を過ごす」という形です。ですから、空所には時間を表す語が入ります。また、but の前は「最初の3日間」の話なので、but のあとは「それ以外の日」の話だと考えられます。
+remainder は「残り」という意味で、the remainder of the week で「その週の残り」となります。「最初の3日間は会議、週の残りはおばを訪ねる」となり、意味が通ります。よって4が正解です。
+この問題の型：対比（the first three days ⇔ the remainder of the week）
+【ほかの選択肢】
+1 posture は「姿勢」です。「週の姿勢をおばを訪ねて過ごす」となり、時間を表さないので spend ～ ing の形に合いません。
+2 sanctuary は「聖域、保護区、避難所」で、場所を表す語です。spend のあとには過ごす時間が入るので、「週の避難所を過ごす」では意味が通りません。
+3 proponent は「支持者、提唱者」で、人を表す語です。「週の支持者を過ごす」となり、意味が通りません。
+【覚えるポイント】
+・the remainder of ～：「～の残り」。spend ＋時間＋ ～ing：「～して（時間）を過ごす」。
+・the first ～（最初の～）のあとに but があるときは、but のあとが「残りの部分」の話になることが多く、答えを決める手がかりになります。

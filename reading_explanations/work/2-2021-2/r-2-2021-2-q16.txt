@@ -14,7 +14,7 @@ B：心配しないで、ねえ。車の販売員を（説得して）値引き�
 （選択肢の意味）
 1 run：走る、動かす
 2 burst：破裂する
-3 話す（talk ＋人＋ into ～ing で「（人）を説得して～させる」）
+3 talk：話す（talk ＋人＋ into ～ing で「（人）を説得して～させる」）
 4 divide：分ける
 【考え方】
 Aは This car is great, but it costs too much money.（この車はすばらしいけれど、お金がかかりすぎる）と言っています。

@@ -10,7 +10,7 @@ reviewed: yes
 1 beneath：～の真下に
 2 under：～の下に
 3 around：～のまわりに、およそ
-4 前に、先に（ahead of ～ で「～より前に、～より先に」）
+4 ahead：前に、先に（ahead of ～ で「～より前に、～より先に」）
 【考え方】
 空所の前後を見ると a week (　) of schedule となっています。schedule は「予定、スケジュール」です。
 文の後半は so they completed the building early（だから建物を早く完成させた）です。so は「だから」なので、前半が理由になります。早く完成したのは、工事を予定より早く始めたからだと考えられます。

@@ -1,6 +1,7 @@
 ---
 choices: drops out | runs out | gives off | keeps off
 answerText: gives off
+reviewed: yes
 ---
 【正解】3 gives off（（熱・光・においなどを）出す）
 【和訳】
@@ -9,16 +10,18 @@ A: Excuse me. I'm looking for an electric heater for my kitchen.
 B: I recommend this one, ma'am. It's small, but it ［gives off］ plenty of heat. It should warm your kitchen in just a few minutes.
 （訳）
 A：すみません。台所用の電気ヒーターを探しているのですが。
-B：お客様、こちらをおすすめします。小さいですが、たっぷりの熱を（出します）。ほんの数分で台所を暖められるはずです。
+B：こちらをおすすめします（ma'am は女性へのていねいな呼びかけの言葉です）。小さいですが、たっぷりの熱を（出します）。ほんの数分で台所を暖められるはずです。
 （選択肢の意味）
 1 drops out：脱落する、（途中で）やめる
 2 runs out：尽きる、なくなる
 3 gives off：（熱・光・においなどを）出す
 4 keeps off：～を近づけない、～を防ぐ
 【考え方】
-Bは店員で、電気ヒーターをすすめています。It's small, but it (　) plenty of heat.（小さいけれど、たっぷりの熱を（　）する）の but に注目します。but は「しかし」で、前後が反対の内容になります。「小さい」という弱点のあとに、ヒーターのよいところが来ると考えられます。
-さらに次の文 It should warm your kitchen in just a few minutes.（ほんの数分で台所を暖められるはずだ）とあります。
-give off ～ は「（熱・光・においなどを）出す」という意味です。it gives off plenty of heat で「たっぷりの熱を出す」となり、すぐに台所が暖まるという内容とつながるので、3が正解です。
+まず見るところ：It's small, but it (　) plenty of heat. の but
+It's small, but it (　) plenty of heat.（小さいけれど、たっぷりの熱を（　））
+but は「しかし」で、前後が反対の内容になります。「小さい」という弱点のあとに、ヒーターのよいところが来ると考えられます。
+次の文 It should warm your kitchen in just a few minutes.（ほんの数分で台所を暖められるはずだ）とも合うのは、give off ～（熱・光・においなどを出す）です。it gives off plenty of heat で「たっぷりの熱を出す」となるので、3が正解です。
+この問題の型：対比（小さい ⇔ 熱がたっぷり）、熟語・決まった形（give off ～）
 【ほかの選択肢】
 1 drops out は「脱落する、（途中で）やめる」です。「ヒーターがたっぷりの熱を脱落する」となり、意味が通りません。
 2 runs out は「尽きる、なくなる」です。run out of ～ で「～を使い切る」となりますが、「熱を使い切る」ヒーターでは、すぐに台所を暖められるという次の文と合いません。また、この文には of がありません。
@@ -26,4 +29,5 @@ give off ～ は「（熱・光・においなどを）出す」という意味�
 【覚えるポイント】
 ・give off ～：「（熱・光・においなどを）出す」。
 ・plenty of ～：「たっぷりの～、十分な～」。
-・ma'am：女性の客などに使うていねいな呼びかけです。和訳では「お客様」としています。
+・ma'am：女性にていねいに呼びかける言葉です。この会話では、Bが相手のAに呼びかけています。
+・but の前後は反対の内容になります。「小さい」のあとには、小さくてもできること（長所）が来ると考えて、選択肢を見ます。

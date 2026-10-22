@@ -1,0 +1,29 @@
+---
+choices: prime | clumsy | tranquil | pathetic
+answerText: prime
+---
+【正解】1 prime（最もよい、代表的な）
+【和訳】
+（英文）
+I'm really glad Walter is my new mentor. He's a ［prime］ example of a successful salesperson. He has a great attitude and really knows how to get results.
+（訳）
+ウォルターが私の新しい指導役で、本当にうれしい。彼は成功した販売員の（最高の）お手本なんだ。仕事への姿勢がすばらしく、結果の出し方を本当によく分かっている。
+（選択肢の意味）
+1 prime：最もよい、主要な、代表的な
+2 clumsy：不器用な、ぎこちない
+3 tranquil：静かな、穏やかな
+4 pathetic：情けない、哀れな
+【考え方】
+まず見るところ：最初の文の I'm really glad と、最後の文の He has a great attitude and really knows how to get results.
+話し手は、ウォルターが自分の mentor（指導役。仕事などについて助言してくれる先輩）になったことを really glad（本当にうれしい）と言っています。そして、最後の文でその理由を説明しています。
+He has a great attitude and really knows how to get results.（彼はすばらしい姿勢を持っていて、結果の出し方を本当によく分かっている）
+ウォルターは、成功した販売員としてとてもよい見本だと分かります。空所の文 He's a (　) example of a successful salesperson.（彼は成功した販売員の〇〇な例だ）には、ほめる語が入ります。
+prime は「最もよい、代表的な」という意味で、a prime example of ～ で「～の最高の例、～の代表例」となります。よって1が正解です。
+この問題の型：熟語・決まった形（a prime example of ～：～の最高の例）
+【ほかの選択肢】
+2 clumsy は「不器用な」です。「不器用な見本」では、最後の文の「すばらしい姿勢で、結果の出し方を分かっている」という説明と合いません。
+3 tranquil は「静かな、穏やかな」で、景色や心のようすを表す語です。「成功した販売員の穏やかな例」では、うまく結果を出せる人だという説明とつながりません。
+4 pathetic は「情けない、哀れな」です。ウォルターが指導役で本当にうれしいという気持ちと反対になってしまいます。
+【覚えるポイント】
+・a prime example of ～：「～の最高の例、代表例」。mentor：「（仕事などの）指導役、助言者」。
+・人を説明する空所では、前後の文にある気持ち（really glad）やほめ言葉（great attitude）が、プラスの語かマイナスの語かを決める手がかりになります。

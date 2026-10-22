@@ -1,0 +1,29 @@
+---
+choices: vibrant | ambiguous | spiteful | righteous
+answerText: ambiguous
+---
+【正解】2 ambiguous（あいまいな）
+【和訳】
+（英文）
+The letter that Stacey and her husband received from the bank was ［ambiguous］, so they were unsure of exactly what it meant.
+（訳）
+ステイシーと夫が銀行から受け取った手紙は（あいまい）だったので、2人はそれが正確には何を言っているのか分からなかった。
+（選択肢の意味）
+1 vibrant：活気のある、（色が）あざやかな
+2 ambiguous：あいまいな（2通り以上の意味にとれて、はっきりしない）
+3 spiteful：意地の悪い
+4 righteous：正しい、正義の
+【考え方】
+まず見るところ：空所のあとの so they were unsure of exactly what it meant
+文の主語は The letter that Stacey and her husband received from the bank（ステイシーと夫が銀行から受け取った手紙）です。that から bank までが letter（手紙）を説明しています。その手紙が「〇〇だった」と言い、so（だから）で結果が続きます。
+so they were unsure of exactly what it meant（だから、2人はそれが正確に何を意味しているのか分からなかった）
+be unsure of ～ は「～がよく分からない、確信がない」という意味です。手紙の意味がはっきり分からなかったのですから、その原因は、手紙の書き方がはっきりしなかったことだと考えられます。
+ambiguous は「あいまいな（2通り以上の意味にとれて、はっきりしない）」という意味です。「手紙があいまいだったので、正確な意味が分からなかった」となり、so の前後が原因と結果としてつながります。よって2が正解です。
+この問題の型：因果（so の前が原因、あとが結果）
+【ほかの選択肢】
+1 vibrant は「活気のある、あざやかな」です。手紙に活気があっても、意味が分からない理由にはなりません。
+3 spiteful は「意地の悪い」です。意地の悪い手紙なら不愉快にはなるかもしれませんが、「正確に何を意味しているのか分からない」という結果の理由にはなりません。
+4 righteous は「正しい、正義の」です。手紙が正しいことは、意味が分からないことの理由になりません。
+【覚えるポイント】
+・ambiguous：「あいまいな、2通り以上の意味にとれる」。be unsure of ～：「～がよく分からない」。
+・「(　), so ～」の文では、so のあとの結果を先に読み、その原因になる語を選ぶのが手がかりになります。

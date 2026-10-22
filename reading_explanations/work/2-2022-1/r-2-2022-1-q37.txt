@@ -1,33 +1,36 @@
 ---
 choices: Because the kind of mud in the area where it was found makes digging difficult. | Because early humans often destroyed the religious statues made by other groups. | Because few early people had the skills to make something like the Shigir Idol. | Because wood survives for thousands of years only in very special conditions.
 answerText: Because wood survives for thousands of years only in very special conditions.
+reviewed: yes
 ---
 【正解】4 Because wood survives for thousands of years only in very special conditions.（木はとても特別な条件のもとでしか何千年も残らないから。）
 【和訳】
 ＜本文の全訳＞
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
-設問：シギルの偶像の発見が、ほかにない（めったにない）出来事であると考えられるのはなぜですか。
+設問：Why is the discovery of the Shigir Idol likely to be a unique event?（シギルの偶像の発見が、唯一の（めったにない）出来事になりそうなのはなぜですか。）
 1 Because the kind of mud in the area where it was found makes digging difficult.（それが見つかった地域の泥の種類のせいで、掘るのが難しいから。）
 2 Because early humans often destroyed the religious statues made by other groups.（初期の人類は、ほかの集団が作った宗教的な像をよく壊したから。）
 3 Because few early people had the skills to make something like the Shigir Idol.（シギルの偶像のような物を作る技術を持っていた初期の人々は、ほとんどいなかったから。）
 4 Because wood survives for thousands of years only in very special conditions.（木はとても特別な条件のもとでしか何千年も残らないから。）
 【考え方】
-設問の unique は「ほかにない、ただ一つの」という意味で、be likely to ～ は「～である可能性が高い」です。第4段落に、像が残った理由と、発見がめずらしいことが書かれています。
-・At some point in history, the Shigir Idol fell into a kind of mud that kept it safe for thousands of years.（歴史のある時点で、シギルの偶像はある種の泥の中に落ち、その泥が何千年もの間、像を無事に守った）
-・The conditions in which it was found are very rare.（像が見つかったときの条件は、とてもめずらしい）
-・Indeed, no other wooden statues of a similar age have been discovered.（実際、同じくらいの古さの木の像は、ほかに一つも発見されていない）
-・However, few wooden items have survived.（しかし、木の品物はほとんど残っていない）
+まず見るところ：第4段落の The conditions in which it was found are very rare. Indeed, no other wooden statues ～
+設問の unique は「ほかにない、ただ一つの」という意味で、be likely to ～ は「～になりそうだ、～する可能性が高い」です。第4段落に、像が残った理由と、発見がめずらしいことが書かれています。
+At some point in history, the Shigir Idol fell into a kind of mud that kept it safe for thousands of years.（歴史のある時点で、シギルの偶像はある種の泥の中に落ち、その泥が何千年もの間、像を無事に守った）
+The conditions in which it was found are very rare.（像が見つかったときの条件は、とてもめずらしい）
+Indeed, no other wooden statues of a similar age have been discovered.（実際、同じくらいの古さの木の像は、ほかに一つも発見されていない）
+However, few wooden items have survived.（しかし、木の品物はほとんど残っていない）
 木の物はふつうは残りませんが、シギルの偶像は特別な泥に守られていたので、何千年も残りました。こうした条件はとてもめずらしいので、同じような発見はほかにないと考えられます。
 本文と選択肢を対にすると、次のようになります。
 本文 The conditions ... are very rare（条件はとてもめずらしい）＝ 選択肢 very special conditions（とても特別な条件）
 本文 kept it safe for thousands of years（何千年もの間無事に守った）＝ 選択肢 survives for thousands of years（何千年も残る）
 本文 few wooden items have survived（木の品物はほとんど残っていない）→ 選択肢 only in very special conditions（とても特別な条件のもとでしか残らない）と読み取れます。
 ですから、4が正解です。
+この問題の型：因果（特別な泥の条件→木の像が残った→発見がめずらしい）、言いかえ（very rare ＝ very special）
 【ほかの選択肢】
 1 本文の泥（mud）は、像を何千年も守ったものとして書かれています。泥のせいで掘るのが難しいという話はありません。
 2 初期の人類がほかの集団の像を壊したという話は、本文にありません。
 3 本文には Judging from the quality of the Shigir Idol, early humans were skilled at making things from wood.（シギルの偶像の出来ばえから判断すると、初期の人類は木で物を作るのが得意だった）とあります。技術を持つ人がほとんどいなかったのではなく、本文とは反対の内容です。
 【覚えるポイント】
 ・unique：「ほかにない、ただ一つの」。
-・survive：「（長い時間がたっても）残る、生き残る」。few ～ have survived で「～はほとんど残っていない」。
+・survive：「（長い時間がたっても）残る、生き残る」。few ～ have survived で「～はほとんど残っていない」。「なぜめずらしいか」を問う設問では、rare（めずらしい）や few のような「少ない」ことを表す語の前後に、理由が書かれていることが多いです。

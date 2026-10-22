@@ -7,18 +7,20 @@ answerText: Many people say it is the best kind that there has ever been.
 ＜本文の全訳＞
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
-設問：ダッカ・モスリンとして知られる布について、正しいことは何ですか。
+設問：What is true of the cloth known as Dhaka muslin?（ダッカ・モスリンとして知られる布について、正しいことは何ですか。）
 1 Its thin threads are over 20 times stronger than those of silk.（その細い糸は、絹の糸の20倍を超える強さがある。）
 2 It stopped Bangladesh from becoming a major exporter of clothes.（それは、バングラデシュが主要な衣類の輸出国になるのを妨げた。）
 3 Modern techniques have allowed factories to produce it cheaply.（現代的な技術によって、工場はそれを安く作れるようになった。）
 4 Many people say it is the best kind that there has ever been.（多くの人が、それはこれまでにあった中で最もよい種類の布だと言っている。）
 【考え方】
-第1段落で Dhaka muslin（ダッカ・モスリン）が出てくる部分を見ます。
+まず見るところ：第1段落の Many regard this cloth as the finest ever made
+設問は、ダッカ・モスリンについて正しいことをたずねています。この布の説明は、第1段落にあります。
 Many regard this cloth as the finest ever made（多くの人がこの布を、これまでに作られた中で最も上質な布だと考えている）
 regard A as B は「AをBと考える、見なす」という意味です。finest は fine（上質な）の最上級で、「最も上質な」という意味です。最上級は「いちばん～」を表す形です。ever made は「これまでに作られた（中で）」です。
 本文と選択肢を対にすると、次のようになります。
 本文 the finest ever made（これまでに作られた中で最も上質な）＝ 選択肢 the best kind that there has ever been（これまでにあった中で最もよい種類）
 また、本文の Many regard ～（多くの人が～と考えている）が、選択肢では Many people say ～（多くの人が～と言っている）と言いかえられています。どちらも、多くの人がこの布をいちばんよいものと評価しているという意味です。4が正解です。
+この問題の型：言いかえ（the finest ever made → the best kind that there has ever been）
 【ほかの選択肢】
 1 本文の数字20は、it cost over 20 times more than the best silk（最高級の絹の20倍を超える値段だった）という値段の話です。糸の強さの話ではありません。
 2 第1段落の初めに、Bangladesh is one of the largest exporters of clothes in the world（バングラデシュは世界最大級の衣類の輸出国の1つだ）とあります。ダッカ・モスリンがそれを妨げたという話はなく、本文と合いません。
@@ -26,3 +28,4 @@ regard A as B は「AをBと考える、見なす」という意味です。fine
 【覚えるポイント】
 ・regard A as B：「AをBと見なす、考える」。
 ・the finest ever made：「これまでに作られた中で最も上質な」。
+・Many regard ～ や Many people say ～ のような「多くの人が～と考えている（言っている）」の形は、事実ではなく評価を表します。選択肢が評価（best など）を述べているときは、本文の同じ評価の部分と合わせて確かめます。

@@ -12,7 +12,7 @@ B: If you use my car, you might be able to ［make］ it in time.
 A：ああ、どうしよう！郵便局があと5分で閉まるし、この手紙を出さないといけないんだ。
 B：私の車を使えば、（間に合う）かもしれないよ。
 （選択肢の意味）
-1 作る（make it で「間に合う、たどり着く」）
+1 make：作る（make it で「間に合う、たどり着く」）
 2 have：持っている
 3 go：行く
 4 show：見せる

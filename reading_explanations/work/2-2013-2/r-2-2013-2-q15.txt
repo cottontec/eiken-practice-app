@@ -10,7 +10,7 @@ reviewed: yes
 1 through：～を通り抜けて
 2 off：離れて
 3 up：上へ
-4 外へ（try out で「試してみる」）
+4 out：外へ（try out で「試してみる」）
 【考え方】
 まず、Julie went shopping for a new motorcycle last weekend.（ジュリーは先週末、新しいオートバイを買いに出かけた）とあります。
 空所のある文は She tried (　) a few different models and finally decided on the Kougaar 667KL. です。a few different models は「いくつかの違う型」、decided on ～ は「～に決めた」です。

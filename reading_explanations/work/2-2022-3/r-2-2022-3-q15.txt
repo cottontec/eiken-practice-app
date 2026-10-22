@@ -1,6 +1,7 @@
 ---
 choices: at the mercy | on the point | in the hope | off the record
 answerText: at the mercy
+reviewed: yes
 ---
 【正解】1 at the mercy（at the mercy of ～ で「～のなすがままに」）
 【和訳】
@@ -14,9 +15,11 @@ In the heavy rain, the ship's crew members were ［at the mercy］ of the weathe
 3 in the hope：（of ～ と合わせて）～を期待して
 4 off the record：非公式に、記録に残さないで
 【考え方】
-空所のあとに of the weather（天候の）が続いているので、「(　) of ～」という形の熟語を考えます。
-次の文 They had to wait for the storm to pass before they could start the engines safely.（安全にエンジンをかけられるようになるまで、嵐が過ぎ去るのを待たなければならなかった）に注目します。乗組員たちは自分たちでは何もできず、天候が変わるのを待つしかなかった、という様子です。
-at the mercy of ～ は「～のなすがままに、～に左右されて」という意味で、相手に逆らえず、されるままになっている状態を表します。were at the mercy of the weather で「天候のなすがままだった」となり、次の文の内容と合うので、1が正解です。
+まず見るところ：空所のあとの of the weather と、次の文の They had to wait for the storm to pass
+They had to wait for the storm to pass before they could start the engines safely.（安全にエンジンをかけられるようになるまで、嵐が過ぎ去るのを待たなければならなかった）
+乗組員たちは自分たちでは何もできず、天候が変わるのを待つしかなかった、という様子です。空所のあとに of が続くので、「(　) of ～」の形の熟語を考えます。
+at the mercy of ～ は「～のなすがままに、～に左右されて」という意味です。were at the mercy of the weather で「天候のなすがまま（天気に左右される状態）だった」となり、次の文の内容と合うので、1が正解です。
+この問題の型：熟語・決まった形（at the mercy of ～）、具体例とまとめ（待つしかない → なすがまま）
 【ほかの選択肢】
 2 on the point は on the point of -ing（まさに～しようとして）の形で使います。of のあとには動詞の -ing 形が来るので、of the weather とはつながりません。
 3 in the hope は in the hope of ～（～を期待して）の形で使います。「天候を期待して」となり、嵐が過ぎるのを待つしかなかったという内容とうまく合いません。
@@ -24,3 +27,4 @@ at the mercy of ～ は「～のなすがままに、～に左右されて」と
 【覚えるポイント】
 ・at the mercy of ～：「～のなすがままに、～に左右されて」。天候や自然の力についてよく使います。
 ・wait for A to ～：「Aが～するのを待つ」。
+・空所のあとに of があるときは、選択肢の at the mercy・on the point・in the hope のような「(　) of ～」の熟語の意味を、次の文の内容と照らして選びます。

@@ -7,7 +7,7 @@ answerText: did not know which class to sign up for.
 ＜本文の全訳＞
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
-設問：Ms. Mitchell said that she（ミッチェルさんは、自分が～と言った。）
+設問：Ms. Mitchell said that she（ミッチェルさんは、自分は～と述べていた。）
 1 did not know which class to sign up for.（どのクラスに申しこめばよいか分からなかった）
 2 had never studied Spanish before.（以前にスペイン語を勉強したことが一度もなかった）
 3 wanted more information about teaching methods.（教え方についてもっと情報がほしかった）

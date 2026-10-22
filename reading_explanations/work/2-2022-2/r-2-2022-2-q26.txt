@@ -12,9 +12,13 @@ answerText: Similarly
 3 By mistake（間違って）
 4 Similarly（同じように）
 【考え方】
-空所は第3段落の (26), after its first performance on Broadway in New York City in 1982, it ran for 18 years there. の初めです。ran は run の過去形で、劇などについて使うと「（続けて）上演される」という意味になります。「1982年にニューヨーク市のブロードウェイで初めて上演されたあと、そこで18年間上演が続いた」という内容です。
-空所の前の文は It was so popular that it was still being performed there 21 years later.（とても人気があったので、21年後になってもまだそこで上演されていた）です。there は、その前の文にある London（ロンドン）を指します。
-前の文はロンドンで長く上演されたこと、空所の後ろはニューヨークでも長く上演されたことを述べています。場所は違いますが、「長い間上演され続けた」という点は同じです。similarly は「同じように」と、似た内容を付け加えるときに使う語です。4が正解です。
+まず見るところ：空所の前の文 It was so popular that it was still being performed there 21 years later. と、空所のあとの it ran for 18 years there
+It was so popular that it was still being performed there 21 years later.（とても人気があったので、21年後になってもまだそこで上演されていた）
+there は、その前の文にある London（ロンドン）を指します。ロンドンで長く上演されたという内容です。
+(　), after its first performance on Broadway in New York City in 1982, it ran for 18 years there.（（　）、1982年にニューヨーク市のブロードウェイで初めて上演されたあと、そこで18年間上演が続いた）
+ran は run の過去形で、劇などについて使うと「（続けて）上演される」という意味になります。ニューヨークでも長く上演されたという内容です。
+場所は違いますが、「長い間上演され続けた」という点は前の文と同じです。similarly は「同じように」と、似た内容を付け加えるときに使う語です。4が正解です。
+この問題の型：語の意味・組み合わせ（Similarly）、指示語（there）
 【ほかの選択肢】
 1 In any case は「いずれにしても、とにかく」と、それまでの話をまとめたり、話を切り替えたりするときに使います。ロンドンでもニューヨークでも長く上演された、という似た内容の2つの文をつなぐ言葉としては合いません。
 2 Unfortunately は「残念なことに」です。ニューヨークで18年間上演が続いたことは、人気があったことを示すよい話なので、「残念なことに」とはつながりません。
@@ -22,3 +26,4 @@ answerText: Similarly
 【覚えるポイント】
 ・Similarly：「同じように」。前の内容と似たことを付け加える合図です。
 ・run（劇などが）：「（続けて）上演される」。
+・つなぎの言葉が文の最初にある空所では、前の文と空所の文を比べて、「同じ」「反対」「結果」「例」のどれにあたるかを考えると、手がかりになります。

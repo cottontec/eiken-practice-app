@@ -1,0 +1,30 @@
+---
+choices: exempt | exclusive | corrupt | moderate
+answerText: corrupt
+---
+【正解】3 corrupt（腐敗した、不正な）
+【和訳】
+（英文）
+The country's court system is known to be ［corrupt］. It is said that a suspect can buy favorable treatment at trial by offering officials just a few hundred dollars.
+（訳）
+その国の裁判制度は（腐敗している）ことで知られている。容疑者は、担当の役人にわずか数百ドルを差し出すだけで、裁判で自分に有利な扱いを買えると言われている。
+（選択肢の意味）
+1 exempt：（義務などを）免除された、しなくてよい
+2 exclusive：限られた人だけの、独占的な
+3 corrupt：腐敗した（お金などで不正が行われる）
+4 moderate：適度な、穏やかな
+【考え方】
+まず見るところ：2文目の a suspect can buy favorable treatment at trial by offering officials just a few hundred dollars
+1文目は「その国の裁判制度は〇〇だと知られている」で、2文目がその具体例になっています。
+It is said that a suspect can buy favorable treatment at trial（容疑者は裁判で有利な扱いを買うことができると言われている）
+by offering officials just a few hundred dollars（役人にわずか数百ドルを差し出すことによって）
+suspect は「容疑者（罪を犯した疑いのある人）」、favorable treatment は「有利な扱い」です。お金を渡せば裁判の扱いが変わるというのは、裁判が不正に行われているということです。
+corrupt は「腐敗した（お金などで不正が行われる）」という意味です。「裁判制度が腐敗していると知られている。お金で有利な扱いが買えると言われている」となり、1文目のまとめと2文目の具体例が合います。よって3が正解です。
+この問題の型：具体例とまとめ（2文目の具体例を1文目でまとめている）
+【ほかの選択肢】
+1 exempt は「免除された」で、be exempt from ～（～を免除されている）のように、何を免除されているかを示して使います。この文にはそれがなく、お金で有利な扱いを買えるという話ともつながりません。
+2 exclusive は「限られた人だけの」です。2文目は、だれでもわずかなお金で有利な扱いが買えるという話なので、「限られた人だけ」という説明にはなりません。
+4 moderate は「適度な、穏やかな」です。お金で裁判の扱いが変わるという不正の話を「適度な」とまとめることはできません。
+【覚えるポイント】
+・corrupt：「腐敗した、不正な」。名詞は corruption（汚職、腐敗）です。
+・1文目にある空所の内容が、2文目で It is said that ～ のように具体的に説明されることがあります。具体例を読んで、それをひと言でまとめる語を選ぶのが手がかりになります。

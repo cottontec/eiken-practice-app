@@ -1,6 +1,7 @@
 ---
 choices: in a bit | for a change | at the rate | on the air
 answerText: on the air
+reviewed: yes
 ---
 【正解】4 on the air（放送されて、放送中で）
 【和訳】
@@ -14,9 +15,11 @@ The British TV drama Coronation Street first went ［on the air］ in 1960. It h
 3 at the rate：（of ～ と合わせて）～の割合で
 4 on the air：放送されて、放送中で
 【考え方】
-主語は The British TV drama Coronation Street（イギリスのテレビドラマ『コロネーション・ストリート』）です。テレビドラマについて first went (　) in 1960（1960年に初めて（　）した）と言っています。
-次の文に its 10,000th episode was broadcast（その1万回目の回が放送された）とあります。broadcast は「放送する」という意味です。ここから、最初の文も「いつ初めて放送されたか」を述べていると考えられます。
+まず見るところ：次の文の its 10,000th episode was broadcast
+in 2020, its 10,000th episode was broadcast（2020年には、その1万回目の回が放送された）
+broadcast は「放送する」という意味です。ここから、最初の文の first went (　) in 1960（1960年に初めて（　）した）も、「いつ初めて放送されたか」を述べていると考えられます。
 on the air は「放送されて、放送中で」という意味で、go on the air で「放送される、放送が始まる」となります。first went on the air in 1960 で「1960年に初めて放送された」となり、4が正解です。
+この問題の型：熟語・決まった形（go on the air）、推論（次の文の broadcast から考える）
 【ほかの選択肢】
 1 in a bit は「少しして、すぐに」です。「1960年に初めて少ししてから行った」となり、意味が通りません。
 2 for a change は「気分転換に、たまには」です。「1960年に初めて気分転換に行った」となり、テレビドラマについての文として意味が通りません。
@@ -24,3 +27,4 @@ on the air は「放送されて、放送中で」という意味で、go on the
 【覚えるポイント】
 ・go on the air：「放送される、放送が始まる」。be on the air で「放送中である」。
 ・ever since：「それ以来ずっと」。
+・go のあとに空所がある文では、go ＋ on the air のように熟語になることがあります。次の文の語（ここでは broadcast）が、意味の手がかりになります。

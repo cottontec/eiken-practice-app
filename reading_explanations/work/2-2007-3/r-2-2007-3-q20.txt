@@ -7,10 +7,10 @@ reviewed: yes
 【和訳】
 メアリーは仕事が忙しかったので、パーティーに1時間遅れて着きました。彼女が着いたころには、食べる物は何も残っていませんでした。
 （選択肢の意味）
-1 残している（leaving）
-2 残された（left）
-3 残す（leave）
-4 残してしまっていた（had left）
+1 leaving：残している（leaving）
+2 left：残された（left）
+3 leave：残す（leave）
+4 had left：残してしまっていた（had left）
 【考え方】
 メアリーはパーティーに1時間遅れて着きました。By the time she arrived（彼女が着いたころには）、食べ物はもうなくなっていた、という流れです。
 there was nothing (　) to eat の nothing（何もない）を、空所の語が後ろから説明する形になります。leave は「残す」という意味の動詞です。その過去分詞（「～された」という意味を表す形）left を使うと、nothing left で「残されたものが何もない」となります。

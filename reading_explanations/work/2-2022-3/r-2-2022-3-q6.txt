@@ -1,6 +1,7 @@
 ---
 choices: respond | negotiate | collapse | distribute
 answerText: distribute
+reviewed: yes
 ---
 【正解】4 distribute（配る、分配する）
 【和訳】
@@ -14,9 +15,11 @@ Julie's teacher asked her to ［distribute］ the new textbooks to all of the st
 3 collapse：崩れる、倒れる
 4 distribute：配る、分配する
 【考え方】
-空所のあとの the new textbooks to all of the students（新しい教科書を生徒全員に）に注目します。「教科書を生徒全員に（　）する」という形です。
-次の文 She had to place one on each desk in the classroom.（彼女は教室のそれぞれの机に1冊ずつ置かなければならなかった）が大きな手がかりです。one は a textbook（教科書1冊）のことです。机ごとに1冊ずつ置くのは、教科書を「配る」ことにあたります。
-distribute A to B で「AをBに配る」という意味になるので、4が正解です。
+まず見るところ：次の文の She had to place one on each desk in the classroom.
+She had to place one on each desk in the classroom.（彼女は教室のそれぞれの机に1冊ずつ置かなければならなかった）
+one は a textbook（教科書1冊）のことです。机ごとに1冊ずつ置くのは、教科書を生徒全員に「配る」ことにあたります。
+空所のあとは the new textbooks to all of the students（新しい教科書を生徒全員に）という形です。distribute A to B は「AをBに配る」という意味なので、4が正解です。
+この問題の型：具体例とまとめ（1冊ずつ置く → 配る）、語の意味・組み合わせ
 【ほかの選択肢】
 1 respond は「答える、反応する」です。respond to ～（～に答える）の形で使い、「教科書に答える」となって、机に1冊ずつ置くという内容とつながりません。
 2 negotiate は「交渉する（話し合って取り決める）」です。「教科書を生徒全員に交渉する」となり、意味が通りません。
@@ -24,3 +27,4 @@ distribute A to B で「AをBに配る」という意味になるので、4が�
 【覚えるポイント】
 ・distribute A to B：「AをBに配る」。hand out A（Aを配る）もほぼ同じ意味です。
 ・ask ＋人＋ to ～：「（人）に～するように頼む」。
+・空所の動詞が分からないときは、次の文で具体的に何をしたか（ここでは「1冊ずつ置いた」）を読み、それをまとめた動詞を選びます。

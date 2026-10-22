@@ -1,20 +1,21 @@
 ---
 choices: The goal of play in animals is to make other members of their groups laugh. | Experts still have things to learn about how human laughter developed. | One of the benefits of laughter is that it helps people develop strong muscles. | Researchers have found evidence that chimpanzees actually tell each other jokes.
 answerText: Experts still have things to learn about how human laughter developed.
+reviewed: yes
 ---
 【正解】2 Experts still have things to learn about how human laughter developed.（専門家たちには、人間の笑いがどのように発達したかについて、まだ学ぶべきことがある。）
 【和訳】
 ＜本文の全訳＞
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
-設問：次のうち、正しいものはどれですか。
+設問：Which of the following statements is true?（次のうち、正しいものはどれですか。）
 1 The goal of play in animals is to make other members of their groups laugh.（動物の遊びの目的は、群れのほかのメンバーを笑わせることである。）
 2 Experts still have things to learn about how human laughter developed.（専門家たちには、人間の笑いがどのように発達したかについて、まだ学ぶべきことがある。）
 3 One of the benefits of laughter is that it helps people develop strong muscles.（笑いのよい点の1つは、人々が強い筋肉をつけるのに役立つことである。）
 4 Researchers have found evidence that chimpanzees actually tell each other jokes.（研究者たちは、チンパンジーが実際にお互いに冗談を言い合っている証拠を見つけた。）
 【考え方】
-本文全体について正しいものを選ぶ問題なので、選択肢を1つずつ本文と照らし合わせます。
-2の内容は、第4段落の最後に書かれています。
+まず見るところ：第4段落の最後の researchers still have much to learn about how this behavior evolved
+本文全体について正しいものを選ぶ問題なので、選択肢を1つずつ本文と照らし合わせます。2の内容は、第4段落の最後に書かれています。
 Of course, humans laugh for a variety of reasons, so researchers still have much to learn about how this behavior evolved.（もちろん、人間はさまざまな理由で笑うので、この行動がどのように進化したのかについて、研究者たちにはまだ学ぶべきことがたくさんある）
 this behavior（この行動）は、直前の humans laugh（人間が笑うこと）を指しています。
 本文と選択肢を対にすると、次のようになります。
@@ -22,10 +23,12 @@ this behavior（この行動）は、直前の humans laugh（人間が笑うこ
 本文 still have much to learn（まだ学ぶべきことがたくさんある）＝ 選択肢 still have things to learn（まだ学ぶべきことがある）
 本文 how this behavior evolved（この行動〔人間の笑い〕がどのように進化したか）＝ 選択肢 how human laughter developed（人間の笑いがどのように発達したか）
 ですから2が正解です。
+この問題の型：言いかえ（researchers → experts）、指示語（this behavior）
 【ほかの選択肢】
 1 第3段落によると、遊ぶことで動物は develop fighting and hunting skills（戦う技術や狩りの技術を身につける）ことや、build stronger relationships（より強い関係を築く）ことができます。遊びの目的が仲間を笑わせることだとは書かれていません。
 3 第1段落には、笑いは relax muscles（筋肉をほぐす）のに役立つとあります。「強い筋肉をつける」とは書かれていないので、本文と合いません。
-4 第2段落には、these animals do not have the complicated languages needed to tell jokes（これらの動物は冗談を言うのに必要な複雑な言語を持っていない）とあります。チンパンジーが冗談を言い合っている証拠を見つけた、という内容とは反対です。
+4 第2段落には、these animals do not have the complicated languages needed to tell jokes（これらの動物は冗談を言うのに必要な複雑な言語を持っていない）とあります。チンパンジーが冗談を言い合っている証拠を見つけた、という内容とは合いません。
 【覚えるポイント】
 ・have much to learn：「学ぶべきことがたくさんある」。much のところに things が入ると「学ぶべきことがある」。
-・Which of the following statements is true? の問題は、選択肢ごとに本文の該当する段落を探して確かめます。
+・Which of the following statements is true? の問題は、選択肢ごとに本文の該当する段落を探して、書かれている内容と合うかを確かめます。
+・this ＋名詞（this behavior など）が出てきたら、直前に出た内容を指しているので、何を指すのかを確かめてから選択肢と比べます。

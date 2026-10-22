@@ -1,6 +1,7 @@
 ---
 choices: called up | picked out | occurred to | disposed of
 answerText: picked out
+reviewed: yes
 ---
 【正解】2 picked out（選んだ）
 【和訳】
@@ -16,9 +17,11 @@ B：うん。すてきなドレスはかなりたくさん持っているけれ�
 3 occurred to：（考えが）～の心に浮かんだ
 4 disposed of：～を処分した
 【考え方】
-Aは have you (　) what you're going to wear for Helen's wedding?（ヘレンの結婚式に何を着ていくか、もう（　）した？）とたずねています。what you're going to wear は「あなたが何を着ていくつもりか」という意味です。
-Bは Yes. と答え、I've got quite a few nice dresses（すてきなドレスをかなりたくさん持っている）、but I'm going to wear the pink one（でも、ピンクのドレスを着るつもりだ）と言っています。quite a few は「かなりたくさんの」という意味で、「少し」ではありません。たくさんのドレスの中から1着に決めた、という話です。
-pick out は「（たくさんの中から）選ぶ、選び出す」という意味です。have you picked out ～? で「もう～を選んだ？」となり、Bの答えとぴったり合うので、2が正解です。
+まず見るところ：Bの答え I'm going to wear the pink one
+have you (　) what you're going to wear for Helen's wedding?（ヘレンの結婚式に何を着ていくか、もう（　）した？）
+what you're going to wear は「あなたが何を着ていくつもりか」という意味です。Bは Yes. と答え、I've got quite a few nice dresses（すてきなドレスをかなりたくさん持っている）、but I'm going to wear the pink one（でも、ピンクのドレスを着るつもりだ）と言っています。
+quite a few は「かなりたくさんの」という意味で、「少し」ではありません。たくさんのドレスの中から1着に決めたのですから、pick out（たくさんの中から選ぶ）が合います。have you picked out ～? で「もう～を選んだ？」となり、2が正解です。
+この問題の型：熟語・決まった形（pick out）、推論（答えの内容から質問を考える）
 【ほかの選択肢】
 1 called up は「電話をかけた」です。「何を着ていくかに電話をかけた？」となり、意味が通りません。
 3 occurred to は「（考えが）～の心に浮かんだ」です。この言い方では「考え」が主語になり、It occurred to me that ～（～ということが心に浮かんだ）のように使います。人（you）を主語にした have you occurred to ～ という形は作れません。
@@ -26,3 +29,4 @@ pick out は「（たくさんの中から）選ぶ、選び出す」という�
 【覚えるポイント】
 ・pick out ～：「（たくさんの中から）～を選ぶ」。choose とほぼ同じ意味です。
 ・quite a few ～：「かなりたくさんの～」。a few（少しの）とは意味が違うので注意しましょう。
+・Yes と答えたあとの内容（ここでは「ピンクのドレスを着る」）が、どんな動作をした結果なのかを考えると、空所に入る動詞の意味が見えてきます。

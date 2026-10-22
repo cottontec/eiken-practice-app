@@ -9,7 +9,7 @@ reviewed: yes
 （選択肢の意味）
 1 up：上へ
 2 away：遠くへ、離れて
-3 離れて（show off で「見せびらかす」）
+3 off：離れて（show off で「見せびらかす」）
 4 over：～の上に、越えて
 【考え方】
 文の前半は Jill is having a party this weekend（ジルは今週末にパーティーを開く）で、because 以下がその理由です。
