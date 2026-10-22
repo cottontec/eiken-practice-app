@@ -1,0 +1,30 @@
+---
+choices: Other students want to see what he will write about her. | He does not know if she is a good student or not. | So that he can write about things Mira wants him to. | Because he cannot remember her favorite hobbies.
+answerText: So that he can write about things Mira wants him to.
+---
+【正解】3 So that he can write about things Mira wants him to.（ミラが書いてほしいと思っていることについて書けるように。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：クレスマー先生はなぜミラからの一覧をほしいのですか。
+1 ほかの生徒たちが、先生が彼女について何を書くのかを見たがっているから。
+2 先生は、彼女がよい生徒かどうかを知らないから。
+3 ミラが書いてほしいと思っていることについて書けるように。
+4 先生は、彼女の大好きな趣味を思い出せないから。
+【考え方】
+このEメールには「一覧（list）」が2回出てきます。第2段落の「出願する大学の一覧」と、第3段落の「推薦状に入れてほしいことの一覧」です。選択肢はどれも推薦状に書く内容やミラさんのことについて述べているので、理由が書かれている第3段落を見ます。
+・I'd like to know what you would like me to include in the letter.（推薦状にあなたがどんなことを入れてほしいかを知りたい）
+・if there's anything special you would like me to point out, such as your singing ability, please let me know（たとえば歌の才能のように、特に取り上げてほしいことがあれば、知らせてほしい）
+・I'm writing letters for some other students too, so a list of these things will help me make sure what I write is specific to you.（ほかの何人かの生徒のためにも推薦状を書いているので、こうしたことの一覧があれば、私が書く内容が確実にあなたならではのものになるのに役立つ）
+先生は、ミラさんが推薦状に入れてほしいことを一覧にしてもらい、それをもとに書きたいと考えています。
+本文と選択肢を対にすると、次のようになります。
+本文 what you would like me to include / anything special you would like me to point out（あなたが入れてほしいこと、特に取り上げてほしいこと）＝ 選択肢 things Mira wants him to（ミラが〔書いて〕ほしいと思っていること）
+選択肢の最後の wants him to は、wants him to write about の write about が省かれた形です。3が正解です。
+【ほかの選択肢】
+1 本文の other students（ほかの生徒）は、先生がほかの生徒の推薦状も書いている、という話で出てくるだけです。ほかの生徒がミラさんについての内容を見たがっているとは書かれていません。
+2 本文には Of course I'll write about what a good student you are（もちろん、あなたがどんなによい生徒であるかについては書く）とあります。先生はミラさんがよい生徒だと分かっているので、反対の内容です。
+4 本文の your singing ability（歌の才能）は、取り上げてほしいことの例として挙げられているだけです。先生がミラさんの趣味を思い出せないとは書かれていません。
+【覚えるポイント】
+・so that ～ can ...：「～が…できるように」と目的を表します。
+・specific to ～：「～に特有の、～ならではの」。
