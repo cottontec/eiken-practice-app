@@ -1,0 +1,24 @@
+---
+choices: fluent | convenient | disappointing | complicated
+answerText: convenient
+---
+【正解】2 convenient（便利な、都合のよい）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 fluent：（言葉が）流ちょうな、すらすら話せる
+2 convenient：便利な、都合のよい
+3 disappointing：がっかりさせる、期待はずれの
+4 complicated：複雑な、ややこしい
+【考え方】
+空所は第2段落の2文目、Cervantes says that her service is especially (　) for people who frequently have to take business trips.（セルバンテスは、自分のサービスはひんぱんに出張しなければならない人々にとって特に〜だと言う）にあります。business trip は「出張（仕事でよその土地へ行くこと）」です。
+次に、このサービスのしくみを説明している続きの文を見ます。two or three different people share one of the company's dogs（2〜3人の別々の人が会社の犬1匹を共有する）、When one of these people reserves the dog for a day, it is delivered to the customer's home.（その1人がある日に犬を予約すると、犬は客の家に届けられる）、In the evening, the dog is picked up（夕方には犬は引き取られる）とあります。
+出張が多い人は、自分で犬を毎日世話することができません。このサービスなら、家にいる日だけ犬を予約して届けてもらえ、夕方には引き取ってもらえます。ですから、出張の多い人には「便利な、都合のよい」サービスだと言えます。また、第1段落で経営者たちはサービスのよい点を主張しているので、セルバンテスもよい点を述べていると考えられます。convenient を入れると意味が通るので、2が正解です。
+【ほかの選択肢】
+1 fluent は「（言葉が）流ちょうな」です。人が外国語などをすらすら話す様子を表す語なので、サービスの説明には合いません。
+3 disappointing は「がっかりさせる」です。成功した会社の経営者が自分のサービスを悪く言うことになり、そのあとのしくみの説明とも合いません。
+4 complicated は「複雑な」です。犬を予約すれば家に届き、夕方に引き取られるという説明は、出張が多い人にとって楽なしくみです。「特に複雑だ」とする理由は本文にありません。
+【覚えるポイント】
+・convenient for ～：「～にとって便利な、都合のよい」。
+・take a business trip：「出張する」。

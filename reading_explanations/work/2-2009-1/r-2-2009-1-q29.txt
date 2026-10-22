@@ -1,0 +1,24 @@
+---
+choices: describe | promote | return | entertain
+answerText: return
+---
+【正解】3 return（返す）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 describe：～を説明する、描写する
+2 promote：～を宣伝する、促進する
+3 return：～を返す、戻す
+4 entertain：～を楽しませる、もてなす
+【考え方】
+空所は第3段落の Although most of his customers end up buying the dogs, some do (　) them.（客のほとんどは最終的にその犬を買うが、犬を〜する客もいる）という文にあります。end up ～ing は「最終的に～することになる」という意味です。Although（～だけれども）があるので、前半の「ほとんどの客は犬を買う」と、後半の「一部の客は〜する」は逆の内容になると分かります。また、some do ～ の do は「本当に、実際に」と動詞を強める働きをしています。
+「買う」の反対の行動で、レンタルの犬に対してできることは、店に「返す」ことです。
+次の文も確かめます。Tam points out that if they could not do this, then they might stop taking care of the dogs or even abandon them in the streets.（もしこれができなければ、客は犬の世話をやめたり、通りに捨てたりさえするかもしれない、とタムは指摘する）とあります。abandon は「捨てる」です。「これ（＝犬を返すこと）ができなければ、捨ててしまうかもしれない」となり、意味がよくつながります。3が正解です。
+【ほかの選択肢】
+1 describe は「～を説明する」です。「犬を説明する客もいる」では「買う」と逆の内容にならず、「これができなければ犬を捨てるかもしれない」という次の文ともつながりません。
+2 promote は「～を宣伝する、促進する」です。客が犬を宣伝するという話は本文になく、次の文ともつながりません。
+4 entertain は「～を楽しませる」です。「犬を楽しませることができなければ捨ててしまう」という流れは本文の内容と合わず、「買う」の反対の内容にもなりません。
+【覚えるポイント】
+・end up ～ing：「最終的に～することになる」。
+・Although A, B：「Aだけれども、B」。AとBが逆の内容になる目印です。
