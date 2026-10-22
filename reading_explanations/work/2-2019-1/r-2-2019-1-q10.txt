@@ -1,0 +1,19 @@
+---
+choices: orchestra | parliament | foundation | nursery
+answerText: parliament
+---
+【正解】2 parliament（議会）
+【和訳】
+新しい医療に関する法律は、何日も（議会）で議論されましたが、結局、政治家たちはその法律について意見がまとまりませんでした。
+（選択肢の意味）1 オーケストラ　2 議会　3 基礎、財団　4 保育所、子ども部屋
+【考え方】
+空所のある部分は The new healthcare law was debated in (　) for days（新しい医療に関する法律は、何日も（　）で議論された）です。law は「法律」、debate は「議論する」です。
+後半に but in the end the politicians could not agree on it（しかし結局、政治家たちはそれについて合意できなかった）とあります。politician は「政治家」で、it は新しい法律を指します。
+法律について政治家たちが議論する場所は、議会です。parliament は「議会（国の法律を話し合って決める集まり）」という意味です。debated in parliament で「議会で議論された」となり、政治家たちが合意できなかったという後半ともつながります。ですから、2が正解です。
+【ほかの選択肢】
+1 orchestra は「オーケストラ（大勢で演奏する楽団）」です。法律を議論する場所ではないので、意味が通りません。
+3 foundation は「基礎、土台」または「財団（ある目的のためにお金を集めて活動する団体）」です。政治家たちが法律を議論する場所ではないので、合いません。
+4 nursery は「保育所、子ども部屋」です。政治家たちが法律を議論する場所ではありません。
+【覚えるポイント】
+・parliament：「議会」。in parliament のように、the を付けずに使うことがよくあります。
+・agree on ～：「～について意見が一致する、合意する」。
