@@ -1,6 +1,7 @@
 ---
 choices: sturdy | harsh | barren | vigilant
 answerText: sturdy
+reviewed: yes
 ---
 【正解】1 sturdy（頑丈な、がっしりした）
 【和訳】

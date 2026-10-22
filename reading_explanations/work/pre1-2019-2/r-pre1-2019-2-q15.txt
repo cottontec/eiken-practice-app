@@ -1,6 +1,7 @@
 ---
 choices: pact | upside | mold | handout
 answerText: upside
+reviewed: yes
 ---
 【正解】2 upside（よい面、利点）
 【和訳】

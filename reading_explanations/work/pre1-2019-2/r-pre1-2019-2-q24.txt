@@ -1,6 +1,7 @@
 ---
 choices: saw through | won over | told on | rounded up
 answerText: saw through
+reviewed: yes
 ---
 【正解】1 saw through（〔うそなどを〕見抜いた）
 【和訳】

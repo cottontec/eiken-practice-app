@@ -1,6 +1,7 @@
 ---
 choices: Laws designed to protect the environment from carbon emissions are being broken. | Changes in cloud patterns caused by emissions have been less significant than other man-made changes in the atmosphere. | Fuel burned by ships affects cloud formation less than the aerosol particles that naturally exist over the open ocean do. | The large numbers of particles released into the atmosphere by ships in the open ocean are consistently affecting the weather.
 answerText: The large numbers of particles released into the atmosphere by ships in the open ocean are consistently affecting the weather.
+reviewed: yes
 ---
 【正解】4 The large numbers of particles released into the atmosphere by ships in the open ocean are consistently affecting the weather.（外洋で船によって大気中に放出された大量の粒子が、絶えず天気に影響を与えている。）
 【和訳】

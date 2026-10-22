@@ -1,6 +1,7 @@
 ---
 choices: obliged | wrinkled | strangled | scattered
 answerText: obliged
+reviewed: yes
 ---
 【正解】1 obliged（〔～しなければならないと〕義務を感じて、恩を感じて）
 【和訳】

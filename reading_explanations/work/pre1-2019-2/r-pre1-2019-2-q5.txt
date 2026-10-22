@@ -1,6 +1,7 @@
 ---
 choices: wag | stroke | peel | grind
 answerText: wag
+reviewed: yes
 ---
 【正解】1 wag（〔尻尾などを〕振る）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: Advertising a character who was based on Vlad III would suggest there was official praise for the acts he committed. | Vlad III's negative image abroad meant that such attractions would likely be unpopular with tourists. | Promoting the Dracula legend would create an image of Vlad III that differed from the one the government wanted to show. | Allowing people to learn more about Vlad III's actions would cause interest in the Dracula legend to decrease.
 answerText: Promoting the Dracula legend would create an image of Vlad III that differed from the one the government wanted to show.
+reviewed: yes
 ---
 【正解】3 Promoting the Dracula legend would create an image of Vlad III that differed from the one the government wanted to show.（ドラキュラ伝説を宣伝すると、政府が示したいと思っていたものとは違うヴラド3世のイメージができてしまうから。）
 【和訳】

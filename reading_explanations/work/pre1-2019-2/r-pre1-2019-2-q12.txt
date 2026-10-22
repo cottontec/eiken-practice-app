@@ -1,6 +1,7 @@
 ---
 choices: deflated | oppressed | complemented | overstated
 answerText: overstated
+reviewed: yes
 ---
 【正解】4 overstated（大げさに言われた、誇張された）
 【和訳】

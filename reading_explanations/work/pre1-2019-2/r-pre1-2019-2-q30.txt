@@ -1,6 +1,7 @@
 ---
 choices: Instead | Similarly | Even so | In short
 answerText: Similarly
+reviewed: yes
 ---
 【正解】2 Similarly（同じように、同様に）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: discovered that the way Bram Stoker had described Transylvania based on his experiences was surprisingly accurate. | found the locals willing to share regional tales about vampires and Dracula despite opposition from authorities. | experienced hostility from residents of Transylvania who were afraid of their history becoming public. | found that few local people had any knowledge about the topic that had drawn them to visit the region.
 answerText: found that few local people had any knowledge about the topic that had drawn them to visit the region.
+reviewed: yes
 ---
 【正解】4 found that few local people had any knowledge about the topic that had drawn them to visit the region.（自分たちをその地方の訪問へと引きつけた話題について、何かを知っている地元の人はほとんどいないと分かった。）
 【和訳】

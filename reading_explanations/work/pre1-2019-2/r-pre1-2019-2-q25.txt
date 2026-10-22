@@ -1,6 +1,7 @@
 ---
 choices: level off | bring out | ease into | force down
 answerText: bring out
+reviewed: yes
 ---
 【正解】2 bring out（〔才能・よいところなどを〕引き出す）
 【和訳】

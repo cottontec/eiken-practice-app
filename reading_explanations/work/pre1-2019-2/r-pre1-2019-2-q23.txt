@@ -1,6 +1,7 @@
 ---
 choices: pin down | give off | track down | shake up
 answerText: shake up
+reviewed: yes
 ---
 【正解】4 shake up（〔組織などを〕大きく改革する、刷新する）
 【和訳】

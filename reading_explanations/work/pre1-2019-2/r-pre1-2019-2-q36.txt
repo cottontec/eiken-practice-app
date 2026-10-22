@@ -1,6 +1,7 @@
 ---
 choices: It showed that lightning strikes were especially frequent in certain areas over the Indian Ocean and the South China Sea. | It was established to compare the intensity of storms occurring over land with those occurring over water. | It led to the discovery that storms which produce lightning become less powerful as they pass over busy shipping routes. | It helped researchers find that lightning strikes are twice as common over the Indian Ocean as they are over the South China Sea.
 answerText: It showed that lightning strikes were especially frequent in certain areas over the Indian Ocean and the South China Sea.
+reviewed: yes
 ---
 【正解】1 It showed that lightning strikes were especially frequent in certain areas over the Indian Ocean and the South China Sea.（それは、インド洋と南シナ海の上の特定の場所で、落雷が特に多いことを示した。）
 【和訳】
@@ -29,5 +30,5 @@ almost twice as likely（ほぼ2倍起こりやすい）の比べる相手は、
 3 本文では、船の行き来が多い航路で、強い嵐がほぼ2倍起こりやすいと書かれています。航路の上を通ると嵐が弱くなるという話はなく、本文の内容と合いません。
 4 本文の「ほぼ2倍」は、インド洋北部と南シナ海を横切る、船の行き来が多い2つの航路についての話です。インド洋の上と南シナ海の上を比べて、インド洋のほうが2倍多いとは書かれていません。
 【覚えるポイント】
-・twice as likely to ～：「～する可能性が2倍ある、2倍～しやすい」。何と何を比べているのかを必ず確かめましょう。
-・選択肢に twice（2倍）のような数字や比較があるときは、本文で「何と何を比べた数字か」を確かめることが、正しい選択肢を見分ける手がかりになります。
+・twice as likely to ～：「～する可能性が2倍ある、2倍～しやすい」。
+・選択肢に twice（2倍）のような数字や比較があるときは、本文にその比べ方（ここでは「インド洋と南シナ海を比べる」）が書かれているかを確かめることが、正しい選択肢を見分ける手がかりになります。

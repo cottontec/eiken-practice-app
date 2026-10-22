@@ -1,6 +1,7 @@
 ---
 choices: suite | pageant | web | narrative
 answerText: narrative
+reviewed: yes
 ---
 【正解】4 narrative（物語、〔出来事を順に語った〕話）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: nauseated | aligned | dispatched | corroded
 answerText: nauseated
+reviewed: yes
 ---
 【正解】1 nauseated（吐き気がする、むかむかする）
 【和訳】

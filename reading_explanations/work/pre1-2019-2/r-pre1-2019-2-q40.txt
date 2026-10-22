@@ -1,6 +1,7 @@
 ---
 choices: the financial cost of addressing the rise in alcohol abuse and gambling resulting from UBI would cancel out the economic benefits. | in order to pay for it, government spending on important social services would have to be reduced. | raising the income of certain people while not giving financial assistance to others would worsen existing divisions in society. | it would increase competition in certain areas of the job market and therefore have a harmful effect on the poor.
 answerText: in order to pay for it, government spending on important social services would have to be reduced.
+reviewed: yes
 ---
 【正解】2 in order to pay for it, government spending on important social services would have to be reduced.（その費用を払うために、重要な社会福祉サービスへの政府の支出を減らさなければならなくなるだろう〔ということ〕。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: sway | deduct | charm | foster
 answerText: deduct
+reviewed: yes
 ---
 【正解】2 deduct（〔金額などを〕差し引く）
 【和訳】

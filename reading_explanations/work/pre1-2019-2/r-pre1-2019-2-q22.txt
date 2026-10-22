@@ -1,6 +1,7 @@
 ---
 choices: put forth | backed off | fell under | piled up
 answerText: put forth
+reviewed: yes
 ---
 【正解】1 put forth（〔考えなどを〕出す、提案する）
 【和訳】

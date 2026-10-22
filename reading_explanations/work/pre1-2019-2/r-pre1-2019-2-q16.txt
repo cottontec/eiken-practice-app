@@ -1,6 +1,7 @@
 ---
 choices: sneaking | compressing | barking | kneeling
 answerText: sneaking
+reviewed: yes
 ---
 【正解】1 sneaking（こっそり動いている、忍び足で行っている）
 【和訳】

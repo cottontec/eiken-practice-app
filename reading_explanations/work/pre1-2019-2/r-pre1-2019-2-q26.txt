@@ -1,6 +1,7 @@
 ---
 choices: In exchange | Therefore | On the other hand | Furthermore
 answerText: Furthermore
+reviewed: yes
 ---
 【正解】4 Furthermore（さらに、そのうえ）
 【和訳】

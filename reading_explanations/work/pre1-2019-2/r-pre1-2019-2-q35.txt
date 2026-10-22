@@ -1,6 +1,7 @@
 ---
 choices: must involve particles that are both large and warm enough to create electricity in a cold environment. | is more likely to occur when water vapor turns into a relatively small number of water droplets in the atmosphere. | requires water droplets to rise to a height where they freeze and create electricity through contact with each other. | can happen only when greenhouse gases are present in areas of the atmosphere that are not already heavily polluted.
 answerText: requires water droplets to rise to a height where they freeze and create electricity through contact with each other.
+reviewed: yes
 ---
 【正解】3 requires water droplets to rise to a height where they freeze and create electricity through contact with each other.（水滴が、凍る高さまで上がり、たがいにぶつかり合うことで電気を生み出すことが必要である。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: ruin | despair | suppress | thrive
 answerText: thrive
+reviewed: yes
 ---
 【正解】4 thrive（元気にうまくやっていく、生き生きと育つ）
 【和訳】

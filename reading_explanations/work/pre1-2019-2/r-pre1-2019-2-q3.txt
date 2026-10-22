@@ -1,6 +1,7 @@
 ---
 choices: influx | humidity | downturn | lantern
 answerText: downturn
+reviewed: yes
 ---
 【正解】3 downturn（〔景気などの〕下降、落ち込み）
 【和訳】

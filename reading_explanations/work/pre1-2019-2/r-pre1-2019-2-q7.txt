@@ -1,6 +1,7 @@
 ---
 choices: schemes | analogies | glaciers | inquiries
 answerText: inquiries
+reviewed: yes
 ---
 【正解】4 inquiries（問い合わせ、聞きこみ、調査）
 【和訳】

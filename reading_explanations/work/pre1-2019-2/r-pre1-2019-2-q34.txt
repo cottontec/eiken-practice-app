@@ -1,6 +1,7 @@
 ---
 choices: Authorities will not allow the use of Dracula to promote tourism until all historical details relating to the legend are corrected. | Tourists to Romania are encouraged to visit areas that have no connection to either the Dracula legend or Vlad III. | The Ministry of Tourism disagrees with other ministries about whether promoting Dracula is good for the country. | While recognizing Dracula's appeal to tourists, officials direct them to places of interest with a historical focus.
 answerText: While recognizing Dracula's appeal to tourists, officials direct them to places of interest with a historical focus.
+reviewed: yes
 ---
 【正解】4 While recognizing Dracula's appeal to tourists, officials direct them to places of interest with a historical focus.（当局者たちは、ドラキュラが観光客を引きつけることを認めながらも、観光客を歴史に重点を置いた名所へと向かわせている。）
 【和訳】

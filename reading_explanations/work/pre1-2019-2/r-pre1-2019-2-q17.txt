@@ -1,6 +1,7 @@
 ---
 choices: medieval | consecutive | vacant | feeble
 answerText: consecutive
+reviewed: yes
 ---
 【正解】2 consecutive（連続した、続けての）
 【和訳】

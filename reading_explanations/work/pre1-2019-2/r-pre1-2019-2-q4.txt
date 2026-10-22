@@ -1,6 +1,7 @@
 ---
 choices: theological | biographical | proportional | horizontal
 answerText: biographical
+reviewed: yes
 ---
 【正解】2 biographical（伝記の、人の生涯に関する）
 【和訳】

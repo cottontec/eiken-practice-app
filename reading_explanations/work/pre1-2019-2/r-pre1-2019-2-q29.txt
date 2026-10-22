@@ -1,6 +1,7 @@
 ---
 choices: the problem can be easily solved | these facts are likely connected | health is not the only concern | this trend is spreading
 answerText: these facts are likely connected
+reviewed: yes
 ---
 【正解】2 these facts are likely connected（これらの事実はおそらく関連している）
 【和訳】

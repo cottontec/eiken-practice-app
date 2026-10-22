@@ -1,6 +1,7 @@
 ---
 choices: only effective for a short time | directed at the wrong people | too vague to be practical | often quite frightening
 answerText: too vague to be practical
+reviewed: yes
 ---
 【正解】3 too vague to be practical（あいまいすぎて実際の役に立たない）
 【和訳】

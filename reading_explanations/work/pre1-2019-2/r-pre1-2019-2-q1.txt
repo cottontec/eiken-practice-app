@@ -1,6 +1,7 @@
 ---
 choices: incompetently | mischievously | diligently | passively
 answerText: diligently
+reviewed: yes
 ---
 【正解】3 diligently（勤勉に、熱心にこつこつと）
 【和訳】

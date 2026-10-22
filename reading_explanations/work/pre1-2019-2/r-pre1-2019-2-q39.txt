@@ -1,6 +1,7 @@
 ---
 choices: The fact that poverty is declining rapidly means that providing UBI will cost less than it did in the past. | Increasing funding for education is the first step governments should take to help citizens find better-paying employment. | Improving the living standards of individuals would ultimately have large-scale beneficial effects on society as a whole. | Solving the problem of homelessness is the most important issue for developed countries to address if they hope to end poverty.
 answerText: Improving the living standards of individuals would ultimately have large-scale beneficial effects on society as a whole.
+reviewed: yes
 ---
 【正解】3 Improving the living standards of individuals would ultimately have large-scale beneficial effects on society as a whole.（個人の生活水準を高めることは、最終的には社会全体に大きな規模でよい影響を与えるだろう。）
 【和訳】

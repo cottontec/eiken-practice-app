@@ -1,6 +1,7 @@
 ---
 choices: criticize other brands | identify loyal customers | put blame on the government | avoid regulation
 answerText: avoid regulation
+reviewed: yes
 ---
 【正解】4 avoid regulation（規制を避ける）
 【和訳】

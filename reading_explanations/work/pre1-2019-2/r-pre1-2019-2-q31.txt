@@ -1,6 +1,7 @@
 ---
 choices: can be related to its behavior | is not as important as its breed | can be difficult to assess | has less significance in other breeds
 answerText: can be related to its behavior
+reviewed: yes
 ---
 【正解】1 can be related to its behavior（その犬の行動と関係していることがある）
 【和訳】

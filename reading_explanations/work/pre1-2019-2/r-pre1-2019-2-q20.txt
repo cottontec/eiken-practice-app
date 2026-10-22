@@ -1,6 +1,7 @@
 ---
 choices: testimony | visibility | congestion | drainage
 answerText: congestion
+reviewed: yes
 ---
 【正解】3 congestion（混雑、渋滞）
 【和訳】

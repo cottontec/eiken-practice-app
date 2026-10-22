@@ -1,6 +1,7 @@
 ---
 choices: Nations today can benefit by studying how the social policies described in the novel harmed the imaginary nation's economy. | More's view about how the degree of punishment should match the seriousness of the crime is relevant to modern society. | Many modern social welfare policies are actually based on the ideas that were explained in it. | More's idea of addressing poverty by giving people a way to meet their most essential needs may be helpful in today's world.
 answerText: More's idea of addressing poverty by giving people a way to meet their most essential needs may be helpful in today's world.
+reviewed: yes
 ---
 【正解】4 More's idea of addressing poverty by giving people a way to meet their most essential needs may be helpful in today's world.（人々に最も基本的な必要を満たす手段を与えることで貧困に取り組むというモアの考えが、今日の世界で役に立つかもしれないから。）
 【和訳】

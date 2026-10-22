@@ -1,6 +1,7 @@
 ---
 choices: ferocious | ruthless | finite | migratory
 answerText: finite
+reviewed: yes
 ---
 【正解】3 finite（限りのある、有限の）
 【和訳】

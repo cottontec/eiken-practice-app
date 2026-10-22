@@ -1,6 +1,7 @@
 ---
 choices: fizzing | gushing | howling | puffing
 answerText: gushing
+reviewed: yes
 ---
 【正解】2 gushing（〔液体を〕勢いよく噴き出している）
 【和訳】

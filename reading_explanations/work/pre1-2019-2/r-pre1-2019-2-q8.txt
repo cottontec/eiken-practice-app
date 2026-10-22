@@ -1,6 +1,7 @@
 ---
 choices: launched | imitated | accelerated | acknowledged
 answerText: acknowledged
+reviewed: yes
 ---
 【正解】4 acknowledged（〔存在などに〕気づいたことを示した、認めた）
 【和訳】

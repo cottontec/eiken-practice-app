@@ -1,6 +1,7 @@
 ---
 choices: The beneficial effects of the program were limited to people who had the most serious drinking or gambling habits. | Many recipients lost money because of bad investments, though a few seem likely to profit from the program in the long term. | Aid workers praised the program, though they expressed concern that it would result in an increase in the prices of some basic necessities. | The overall spending habits of those who received funds are evidence that people are unlikely to waste the money they receive.
 answerText: The overall spending habits of those who received funds are evidence that people are unlikely to waste the money they receive.
+reviewed: yes
 ---
 【正解】4 The overall spending habits of those who received funds are evidence that people are unlikely to waste the money they receive.（お金を受け取った人々のお金の使い方の全体的な傾向は、人々が受け取ったお金をむだづかいしそうにないことの証拠である。）
 【和訳】

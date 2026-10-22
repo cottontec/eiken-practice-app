@@ -1,6 +1,7 @@
 ---
 choices: denial | grin | substitute | tremor
 answerText: substitute
+reviewed: yes
 ---
 【正解】3 substitute（代わりのもの、代用品）
 【和訳】

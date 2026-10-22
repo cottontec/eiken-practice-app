@@ -1,6 +1,7 @@
 ---
 choices: segment | maze | accent | elegance
 answerText: segment
+reviewed: yes
 ---
 【正解】1 segment（区切り、区間、部分）
 【和訳】
