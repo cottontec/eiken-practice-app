@@ -17,7 +17,7 @@ answerText: He helped his company get a new client to use its services.
 まず Thank you for your hard work as the leader of the sales department at PGH Security.（PGHセキュリティーの営業部の責任者としての、あなたの熱心な働きに感謝しています）とあり、エドがPGHセキュリティーの営業部の責任者だと分かります。sales department は「営業部（商品やサービスを売る部署）」です。
 続いて Thanks to your efforts, PGH has just signed a contract with a new client, Citiborg.（あなたの努力のおかげで、PGHは新しい顧客であるシティボーグ社と契約を結んだところだ）とあり、さらに They will be using our security services for the next two years.（同社はこれから2年間、当社の警備サービスを利用する）と続きます。thanks to ～ は「～のおかげで」、client は「顧客（お金を払ってサービスを受ける相手）」、sign a contract は「契約を結ぶ」です。
 本文と選択肢を対にすると、次のようになります。
-本文 Thanks to your efforts（あなたの努力のおかげで）＝ 選択肢 He helped（彼が手助けした）
+本文 Thanks to your efforts（あなたの努力のおかげで）→ 選択肢 He helped（彼が手助けした）
 本文 signed a contract with a new client ... will be using our security services（新しい顧客と契約を結び、その顧客が警備サービスを利用する）＝ 選択肢 get a new client to use its services（新しい顧客にサービスを利用してもらう）
 選択肢の get ＋ 人 ＋ to ～ は「人に～してもらう」です。正解は3です。
 【ほかの選択肢】
