@@ -1,0 +1,34 @@
+---
+choices: It is a combination of different mushroom species that started to grow together over time. | It grew slowly at first, but it has been expanding more rapidly in the last thousand years. | It shares the nutrients it collects with the trees and other types of plant life that it grows on. | It is a single organism that has spread throughout a wide area by growing and feeding on trees.
+answerText: It is a single organism that has spread throughout a wide area by growing and feeding on trees.
+---
+【正解】4 It is a single organism that has spread throughout a wide area by growing and feeding on trees.（それは、木に取りついて育ち、木から栄養をとることで、広い範囲に広がった一つの生き物である。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to the passage, what is one thing that is true about the honey fungus in Oregon?（本文によると、オレゴン州のナラタケについて正しいことの一つは何か。）
+1 It is a combination of different mushroom species that started to grow together over time.（それは、時間がたつうちにいっしょに育つようになった、さまざまな種類のキノコが組み合わさったものである。）
+2 It grew slowly at first, but it has been expanding more rapidly in the last thousand years.（それは、最初はゆっくり育ったが、この1,000年間は、それまでより速く広がり続けている。）
+3 It shares the nutrients it collects with the trees and other types of plant life that it grows on.（それは、自分が集めた栄養分を、自分が生えている木やほかの種類の植物と分け合っている。）
+4 It is a single organism that has spread throughout a wide area by growing and feeding on trees.（それは、木に取りついて育ち、木から栄養をとることで、広い範囲に広がった一つの生き物である。）
+【考え方】
+まず見るところ：第1段落の DNA testing has confirmed that all the honey fungus in the area is from the same organism と、第2段落の The fungus infects the trees and absorbs nutrients
+第1段落では、オレゴン州のナラタケについて次のように書かれています。
+its rootlike filaments spread underground throughout a huge area of forest in the US state of Oregon（その根のような糸状の部分は、アメリカのオレゴン州の森の広大な範囲にわたって、地下に広がっている）
+DNA testing has confirmed that all the honey fungus in the area is from the same organism（DNA検査によって、その地域のナラタケはすべて同じ一つの生き物から来ていることが確かめられている）
+第2段落では、この菌が木から栄養をとることが書かれています。
+The fungus infects the trees and absorbs nutrients from their roots and trunks（この菌は木に感染して、根や幹から栄養分を吸い取る）
+本文と選択肢4を対にすると、次のようになります。
+・本文 all the honey fungus in the area is from the same organism（すべて同じ一つの生き物から来ている）＝ 選択肢 a single organism（一つの生き物）
+・本文 spread underground throughout a huge area of forest（森の広大な範囲にわたって地下に広がっている）→ 選択肢 has spread throughout a wide area（広い範囲に広がった）
+・本文 infects the trees and absorbs nutrients from their roots and trunks（木に感染して根や幹から栄養分を吸い取る）→ 選択肢 growing and feeding on trees（木に取りついて育ち、木から栄養をとる）
+よって4が正解です。
+この問題の型：言いかえ（the same organism → a single organism）
+【ほかの選択肢】
+1 本文の内容と合いません。DNA検査で、その地域のナラタケはすべて the same organism（同じ一つの生き物）から来ていると確かめられています。さまざまな種類のキノコが組み合わさったものではありません。
+2 本文に書かれていません。本文には、1年あたりの成長の速さ（annual rate of growth）をもとに年齢を推定したとあるだけで、最初はゆっくりで、この1,000年間に速くなったという成長の変化は書かれていません。
+3 本文の内容と合いません。第2段落では、菌は木の根や幹から栄養分を吸い取り（absorbs nutrients）、多くの場合、最終的には木を枯らしてしまうと書かれています。集めた栄養分を木と分け合うという内容は書かれていません。
+【覚えるポイント】
+・organism：「生き物、生物」。absorb：「吸収する、吸い取る」。feed on ～：「～を栄養にする、～を食べて生きる」。
+・選択肢に a single（一つの）や different（さまざまな）のような「数」に関する語があるときは、本文の the same や all などの語と照らし合わせると、正しいかどうかを判断しやすくなります。

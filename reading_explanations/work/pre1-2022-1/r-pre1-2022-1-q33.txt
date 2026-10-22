@@ -1,0 +1,32 @@
+---
+choices: the mushrooms it produces change color depending on the type of tree that it grows on. | it is generally not visible, except when it produces fruiting bodies for a short time each year. | not only does it grow underground, but it also has an appearance that is like that of tree roots. | it is only able to survive in areas that have the specific weather conditions it needs to grow.
+answerText: it is generally not visible, except when it produces fruiting bodies for a short time each year.
+---
+【正解】2 it is generally not visible, except when it produces fruiting bodies for a short time each year.（それは、毎年短い期間だけ子実体を作るときを除いて、ふだんは目に見えない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Honey fungus is difficult to find because（ナラタケが見つけにくいのは、～からである。）
+1 the mushrooms it produces change color depending on the type of tree that it grows on.（それが作るキノコは、生えている木の種類によって色が変わる。）
+2 it is generally not visible, except when it produces fruiting bodies for a short time each year.（それは、毎年短い期間だけ子実体を作るときを除いて、ふだんは目に見えない。）
+3 not only does it grow underground, but it also has an appearance that is like that of tree roots.（それは地下で育つだけでなく、見た目が木の根のようでもある。）
+4 it is only able to survive in areas that have the specific weather conditions it needs to grow.（それは、育つのに必要な特定の気象条件がある地域でしか生きられない。）
+【考え方】
+まず見るところ：第2段落の Unfortunately, affected trees are usually difficult to spot, as ～
+第2段落に、被害を受けた木が見つけにくい理由が書かれています。as は、ここでは「～なので」と理由を表します。
+Unfortunately, affected trees are usually difficult to spot, as the fungus hides under their bark, and its filaments are only visible if the bark is removed.（残念なことに、被害を受けた木は、ふつう見つけるのが難しい。菌は木の皮の下にかくれていて、その糸状の部分は、木の皮がはがされた場合にしか見えないからである）
+続く文には、外から見えるときのことが書かれています。
+In the late fall, the fruiting bodies of the fungus appear on the outside of the trees, but only for a few weeks before winter.（晩秋には、菌の子実体が木の外側に現れるが、それは冬の前の数週間だけである）
+子実体とは、キノコとして外に出てくる部分のことです。本文と選択肢2を対にすると、次のようになります。
+・本文 hides under their bark / only visible if the bark is removed（皮の下にかくれていて、皮をはがさないと見えない）→ 選択肢 is generally not visible（ふだんは目に見えない）
+・本文 the fruiting bodies ～ appear ～ only for a few weeks before winter（子実体が冬の前の数週間だけ現れる）→ 選択肢 except when it produces fruiting bodies for a short time each year（毎年短い期間だけ子実体を作るときを除いて）
+よって2が正解です。
+この問題の型：言いかえ（only visible if ～ / only for a few weeks → generally not visible, except ～）
+【ほかの選択肢】
+1 本文に書かれていません。子実体が晩秋に木の外側に現れることは書かれていますが、木の種類によって色が変わるという話はありません。
+3 一部だけ本文にあります。第1段落に rootlike filaments spread underground（根のような糸状の部分が地下に広がっている）とあります。しかし、本文で見つけにくい理由として挙げられているのは、木の皮の下にかくれていて、皮をはがさないと見えないことです。木の根に似た見た目のせいで見つけにくいとは書かれていません。
+4 本文に書かれていません。子実体が冬の前の数週間だけ現れるという時期の話はありますが、特定の気象条件の地域でしか生きられないという内容はありません。
+【覚えるポイント】
+・difficult to spot：「見つけにくい」。visible：「目に見える」。only ～ if ...：「…の場合にしか～ない」。
+・設問が because（～だから）で終わるときは、本文の as や because など理由を表す語のあとを探すと、答えの根拠を見つけやすくなります。
