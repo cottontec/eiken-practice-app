@@ -1,6 +1,7 @@
 ---
 choices: the most difficult | more useful than smell | the most important | more annoying than taste
 answerText: the most important
+reviewed: yes
 ---
 【正解】3 the most important（最も重要な）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: In contrast | For instance | Unfortunately | Additionally
 answerText: Unfortunately
+reviewed: yes
 ---
 【正解】3 Unfortunately（残念なことに、不運にも）
 【和訳】

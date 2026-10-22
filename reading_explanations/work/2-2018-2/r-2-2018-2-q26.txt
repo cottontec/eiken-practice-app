@@ -1,6 +1,7 @@
 ---
 choices: To make matters worse | As usual | Even so | For this reason
 answerText: For this reason
+reviewed: yes
 ---
 【正解】4 For this reason（このため、こういう理由で）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: relative | generous | cruel | urgent
 answerText: urgent
+reviewed: yes
 ---
 【正解】4 urgent（急を要する、緊急の）
 【和訳】

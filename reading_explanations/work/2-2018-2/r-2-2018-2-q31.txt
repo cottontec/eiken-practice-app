@@ -1,6 +1,7 @@
 ---
 choices: It is easy for mistakes to be made when people stare at the screen. | It is difficult for the camera to see where the user's eyes are looking. | The Tobii Group was worried that users would accidentally break their computers. | The Tobii Group wanted to find a faster way to open programs that people wanted to use.
 answerText: It is easy for mistakes to be made when people stare at the screen.
+reviewed: yes
 ---
 【正解】1 It is easy for mistakes to be made when people stare at the screen.（人々が画面をじっと見つめると、まちがいが起こりやすい。）
 【和訳】

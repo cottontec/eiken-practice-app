@@ -1,6 +1,7 @@
 ---
 choices: rely on | vote for | answer for | insist on
 answerText: answer for
+reviewed: yes
 ---
 【正解】3 answer for（～の責任を負う）
 【和訳】

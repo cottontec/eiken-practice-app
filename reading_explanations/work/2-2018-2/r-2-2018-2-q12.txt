@@ -1,6 +1,7 @@
 ---
 choices: demand | common | advance | detail
 answerText: demand
+reviewed: yes
 ---
 【正解】1 demand（in demand で「需要がある、求められている」）
 【和訳】

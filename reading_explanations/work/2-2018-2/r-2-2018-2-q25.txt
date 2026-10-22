@@ -1,6 +1,7 @@
 ---
 choices: she became cold | she felt pain | feelings became clearer | brain activity dropped
 answerText: brain activity dropped
+reviewed: yes
 ---
 【正解】4 brain activity dropped（脳の活動が低下した）
 【和訳】

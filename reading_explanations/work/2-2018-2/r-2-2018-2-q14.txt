@@ -1,6 +1,7 @@
 ---
 choices: To some extent | At any cost | In the meantime | On the contrary
 answerText: In the meantime
+reviewed: yes
 ---
 【正解】3 In the meantime（その間に）
 【和訳】

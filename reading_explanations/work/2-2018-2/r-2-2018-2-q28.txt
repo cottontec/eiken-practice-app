@@ -1,6 +1,7 @@
 ---
 choices: Help the team advertise its event in the newspaper. | Design a T-shirt with a lion on it for the team. | Allow the team to pay a lower price than usual for T-shirts. | Donate money to help the team with its event.
 answerText: Allow the team to pay a lower price than usual for T-shirts.
+reviewed: yes
 ---
 【正解】3 Allow the team to pay a lower price than usual for T-shirts.（Tシャツの代金を、チームがふだんより安い値段で払えるようにする。）
 【和訳】

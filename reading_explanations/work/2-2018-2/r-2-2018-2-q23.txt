@@ -1,6 +1,7 @@
 ---
 choices: has a better flavor than | has more vitamins than | cannot protect | will not replace
 answerText: will not replace
+reviewed: yes
 ---
 【正解】4 will not replace（～に取って代わることはないだろう）
 【和訳】

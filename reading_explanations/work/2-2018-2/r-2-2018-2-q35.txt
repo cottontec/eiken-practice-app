@@ -1,6 +1,7 @@
 ---
 choices: They have skin that has changed dramatically over the years. | They had become mummies 3,000 years earlier than scientists originally thought. | Their appearance is different from people who currently live in the area. | Their clothes were too thick and heavy to be worn in a desert area.
 answerText: Their appearance is different from people who currently live in the area.
+reviewed: yes
 ---
 【正解】3 Their appearance is different from people who currently live in the area.（その見た目が、現在その地域に住んでいる人々とは違う。）
 【和訳】

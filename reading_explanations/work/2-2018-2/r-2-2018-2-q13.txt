@@ -1,6 +1,7 @@
 ---
 choices: out | over | up | by
 answerText: out
+reviewed: yes
 ---
 【正解】1 out（stand out で「目立つ」）
 【和訳】

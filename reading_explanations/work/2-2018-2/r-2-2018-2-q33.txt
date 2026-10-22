@@ -1,6 +1,7 @@
 ---
 choices: It costs less than most other devices used for the same purposes. | It stops people from accessing dangerous sites on the Internet. | It allows more disabled people to find jobs working with computers. | It makes it cheaper for people to contact their friends and relatives.
 answerText: It allows more disabled people to find jobs working with computers.
+reviewed: yes
 ---
 【正解】3 It allows more disabled people to find jobs working with computers.（それによって、より多くの障がいのある人々が、コンピューターを使って働く仕事を見つけられる。）
 【和訳】

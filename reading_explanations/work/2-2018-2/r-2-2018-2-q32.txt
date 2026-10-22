@@ -1,6 +1,7 @@
 ---
 choices: Those who enjoy using the most attractive types of new technology. | Those who have trouble touching the screen while holding a tablet computer. | Those who are not interested in playing new games on tablet computers. | Those who have not yet learned how to type on a traditional keyboard.
 answerText: Those who have trouble touching the screen while holding a tablet computer.
+reviewed: yes
 ---
 【正解】2 Those who have trouble touching the screen while holding a tablet computer.（タブレット型コンピューターを持ちながら画面に触れるのに苦労する人々。）
 【和訳】

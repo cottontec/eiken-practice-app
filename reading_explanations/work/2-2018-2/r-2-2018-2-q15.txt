@@ -1,6 +1,7 @@
 ---
 choices: forgot | made | took | came
 answerText: came
+reviewed: yes
 ---
 【正解】4 came（came to ～ で「～するようになった」）
 【和訳】

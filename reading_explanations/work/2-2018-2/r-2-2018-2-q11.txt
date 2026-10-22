@@ -1,6 +1,7 @@
 ---
 choices: since | around | from | with
 answerText: from
+reviewed: yes
 ---
 【正解】3 from（from time to time で「ときどき」）
 【和訳】

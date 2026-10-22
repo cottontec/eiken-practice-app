@@ -1,6 +1,7 @@
 ---
 choices: historically | barely | directly | previously
 answerText: directly
+reviewed: yes
 ---
 【正解】3 directly（直接に）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: along | despite | about | worth
 answerText: despite
+reviewed: yes
 ---
 【正解】2 despite（～にもかかわらず）
 【和訳】

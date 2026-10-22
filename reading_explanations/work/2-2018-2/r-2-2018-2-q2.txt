@@ -1,6 +1,7 @@
 ---
 choices: deletes | features | monitors | reminds
 answerText: features
+reviewed: yes
 ---
 【正解】2 features（〔映画などが〕～を出演させている、目玉として取り上げている）
 【和訳】

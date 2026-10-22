@@ -1,6 +1,7 @@
 ---
 choices: provides information on how people use their eyes. | helps disabled people see small items on the screens of computers. | acts like a human eye allowing people to see what is happening around them. | makes it easier for people who have trouble moving their hands to use a computer.
 answerText: makes it easier for people who have trouble moving their hands to use a computer.
+reviewed: yes
 ---
 【正解】4 makes it easier for people who have trouble moving their hands to use a computer.（手を動かすのが難しい人々が、コンピューターを使いやすくなるようにする。）
 【和訳】

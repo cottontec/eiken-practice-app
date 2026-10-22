@@ -1,6 +1,7 @@
 ---
 choices: the bananas will be safe | the disease will soon arrive | people will get sick | production will quickly increase
 answerText: the disease will soon arrive
+reviewed: yes
 ---
 【正解】2 the disease will soon arrive（その病気がまもなく到達するだろう）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: remove | excuse | detect | handle
 answerText: handle
+reviewed: yes
 ---
 【正解】4 handle（うまく扱う、こなす）
 【和訳】

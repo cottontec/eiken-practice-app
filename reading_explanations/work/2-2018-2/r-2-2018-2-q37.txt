@@ -1,6 +1,7 @@
 ---
 choices: The first people to live there originally came from another place. | The first civilization was developed 2,000 years ago by East Asians in the area. | The Western people who moved there 5,000 years ago took the land from East Asians. | The Chinese were responsible for developing its early culture.
 answerText: The first people to live there originally came from another place.
+reviewed: yes
 ---
 【正解】1 The first people to live there originally came from another place.（そこに最初に住んだ人々は、もともと別の場所から来た。）
 【和訳】

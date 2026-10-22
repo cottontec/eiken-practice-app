@@ -1,6 +1,7 @@
 ---
 choices: Lend the team some tables. | Attend every practice with their son. | Call him about their sons' payments. | Reply to his request by Friday.
 answerText: Reply to his request by Friday.
+reviewed: yes
 ---
 【正解】4 Reply to his request by Friday.（金曜日までに彼の依頼に返事をする。）
 【和訳】

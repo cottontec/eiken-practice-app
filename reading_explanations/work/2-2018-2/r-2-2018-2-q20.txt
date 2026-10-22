@@ -1,6 +1,7 @@
 ---
 choices: to inform | informed | have informed | inform
 answerText: to inform
+reviewed: yes
 ---
 【正解】1 to inform（〔regret to inform で〕残念ながらお知らせする）
 【和訳】

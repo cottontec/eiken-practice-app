@@ -1,6 +1,7 @@
 ---
 choices: Feeling | Felt | To have felt | To feel
 answerText: Feeling
+reviewed: yes
 ---
 【正解】1 Feeling（～と感じて、～と感じたので）
 【和訳】

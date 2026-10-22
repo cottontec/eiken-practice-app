@@ -1,6 +1,7 @@
 ---
 choices: They are often created for the purpose of preserving a certain culture. | Techniques for making them spread from ancient Egypt to other cultures. | Most have been found in the Taklamakan Desert area of China. | Some have been created naturally as a result of environmental conditions.
 answerText: Some have been created naturally as a result of environmental conditions.
+reviewed: yes
 ---
 【正解】4 Some have been created naturally as a result of environmental conditions.（環境の条件の結果として、自然にできたものもある。）
 【和訳】

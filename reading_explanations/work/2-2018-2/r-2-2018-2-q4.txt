@@ -1,6 +1,7 @@
 ---
 choices: foundation | celebration | reflection | prediction
 answerText: celebration
+reviewed: yes
 ---
 【正解】2 celebration（お祝い、祝賀会）
 【和訳】

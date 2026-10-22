@@ -1,6 +1,7 @@
 ---
 choices: whispers | deposits | concepts | apologies
 answerText: concepts
+reviewed: yes
 ---
 【正解】3 concepts（概念、考え方）
 【和訳】

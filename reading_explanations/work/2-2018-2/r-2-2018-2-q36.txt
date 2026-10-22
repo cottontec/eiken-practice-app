@@ -1,6 +1,7 @@
 ---
 choices: the ancestors of most Chinese people originally came from the Indus Valley. | the DNA of the mummies had come from a number of places outside of China. | many European-looking people have DNA that comes from China. | most of the mummies were created in the Middle East and later moved to China.
 answerText: the DNA of the mummies had come from a number of places outside of China.
+reviewed: yes
 ---
 【正解】2 the DNA of the mummies had come from a number of places outside of China.（ミイラのDNAが、中国の外のいくつもの場所から来ていたこと。）
 【和訳】

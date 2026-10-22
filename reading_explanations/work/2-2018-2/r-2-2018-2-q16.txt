@@ -1,6 +1,7 @@
 ---
 choices: signal | face | cause | part
 answerText: face
+reviewed: yes
 ---
 【正解】2 face（lose face で「面目を失う、恥をかく」）
 【和訳】

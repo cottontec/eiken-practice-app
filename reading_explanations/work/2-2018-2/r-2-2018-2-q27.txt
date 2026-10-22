@@ -1,6 +1,7 @@
 ---
 choices: some new equipment for this year's season. | some money to pay for travel expenses to games. | sheets for parents to sign if they want to volunteer. | tickets to a special event at the Junior Hockey Association.
 answerText: sheets for parents to sign if they want to volunteer.
+reviewed: yes
 ---
 【正解】3 sheets for parents to sign if they want to volunteer.（保護者がボランティアをしたい場合に記入する用紙。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: established | endured | disposed | deceived
 answerText: deceived
+reviewed: yes
 ---
 【正解】4 deceived（だました）
 【和訳】

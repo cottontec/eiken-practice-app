@@ -1,6 +1,7 @@
 ---
 choices: compromises | statistics | terminals | religions
 answerText: statistics
+reviewed: yes
 ---
 【正解】2 statistics（統計、統計の数字）
 【和訳】
