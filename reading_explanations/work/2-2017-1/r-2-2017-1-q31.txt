@@ -1,0 +1,29 @@
+---
+choices: Female ballet dancers were able to continue dancing as soon as they had stood up. | Female ballet dancers had trouble spinning around when they were in the dark. | Female athletes took less time to stand up from a chair than female dancers. | Female athletes continued to feel dizzy for a longer period of time than female ballet dancers.
+answerText: Female athletes continued to feel dizzy for a longer period of time than female ballet dancers.
+---
+【正解】4 Female athletes continued to feel dizzy for a longer period of time than female ballet dancers.（女性の運動選手は、女性バレエダンサーよりも長い時間、目が回ったように感じ続けた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：インペリアル・カレッジ・ロンドンの脳科学者たちが発見したことの1つは何ですか。
+1 女性バレエダンサーは、立ち上がるとすぐに、踊り続けることができた。
+2 女性バレエダンサーは、暗い所では、ぐるぐる回るのに苦労した。
+3 女性の運動選手は、女性ダンサーよりも短い時間で、いすから立ち上がった。
+4 女性の運動選手は、女性バレエダンサーよりも長い時間、目が回ったように感じ続けた。
+【考え方】
+インペリアル・カレッジ・ロンドンの科学者たちの実験は、第2段落に書かれています。
+実験では、ダンサーを暗い部屋で回るいすに座らせ、いすを止めたあと how long they continued to feel as though they were spinning（まだ回っているように感じる状態がどのくらい続いたか）を記録してもらいました。そのあと、女性の運動選手にも同じことをしました。
+その結果が、段落の最後の文です。
+They found that the ballet dancers felt dizzy for a much shorter time than the athletes did.（バレエダンサーが目が回ったように感じた時間は、運動選手よりもずっと短いことが分かった）
+本文は「ダンサーのほうが短い」と書いていて、選択肢は「運動選手のほうが長い」と書いています。比べる順番を入れかえただけで、同じことを表しています。
+本文 the ballet dancers felt dizzy for a much shorter time than the athletes did ＝ 選択肢 Female athletes continued to feel dizzy for a longer period of time than female ballet dancers
+よって4が正解です。
+【ほかの選択肢】
+1 実験では、いすを止めたあとに目が回る感じがどのくらい続いたかを記録しただけです。立ち上がってすぐに踊り続けられたかどうかは、本文に書かれていません。
+2 実験は in a dark room（暗い部屋で）行われましたが、ダンサーはいすに座って回されていただけです。暗い所で回るのに苦労したという話は本文にありません。
+3 本文で比べているのは、目が回ったように感じる時間の長さです。いすから立ち上がるのにかかった時間は、本文に書かれていません。
+【覚えるポイント】
+・A for a shorter time than B ＝ B for a longer time than A：比べる順番を入れかえると、short（短い）と long（長い）が入れかわります。
+・feel as though ～：「まるで～のように感じる」。

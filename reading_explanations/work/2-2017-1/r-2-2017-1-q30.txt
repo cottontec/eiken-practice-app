@@ -1,0 +1,30 @@
+---
+choices: signals cause the brain to think that the body is moving even though it is not. | an object makes people lose their balance by blocking signals between the body and the brain. | they have been standing for such a long time that their body becomes tired. | the liquids that they have drunk cause their brains to feel like they are spinning.
+answerText: signals cause the brain to think that the body is moving even though it is not.
+---
+【正解】1 signals cause the brain to think that the body is moving even though it is not.（実際には動いていないのに、信号によって脳が、体が動いていると思ってしまう〔から〕。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：人がぐるぐると回ったあとに目が回るのは、
+1 実際には動いていないのに、信号によって脳が、体が動いていると思ってしまうからである。
+2 ある物が、体と脳の間の信号をさえぎることで、人のバランスを失わせるからである。
+3 とても長い間立っていたので、体が疲れてしまうからである。
+4 自分が飲んだ液体のせいで、脳が回っているように感じるからである。
+【考え方】
+目が回るしくみは、第1段落に書かれています。順に見ていきます。
+・a liquid in their ears causes signals to be sent to their brains to help them keep their balance（耳の中にある液体によって脳に信号が送られ、それがバランスを保つ助けになる）
+・if they spin and then stop, the liquid keeps moving（回ってから止まると、その液体は動き続ける）
+・they become confused about whether they are still moving or not（自分がまだ動いているのかどうか分からなくなって混乱する）
+耳の中の液体は、脳に信号を送るもとになっています。体が止まっても液体は動き続けるので、信号も送られ続けると考えられます。そのため、本当は止まっているのに、脳は「まだ動いている」と受け取ってしまい、混乱すると読み取れます。
+本文と選択肢を対にすると、次のようになります。
+本文 the liquid keeps moving ＋ a liquid in their ears causes signals to be sent to their brains ＋ they become confused about whether they are still moving or not → 読み取れること：signals cause the brain to think that the body is moving even though it is not（実際には動いていないのに、信号によって脳が、体が動いていると思ってしまう）
+よって1が正解です。
+【ほかの選択肢】
+2 本文では、耳の中の液体が信号を送ると書かれています。何かの物が信号をさえぎるという話は本文にありません。
+3 長い間立っていて体が疲れる、という話は本文にありません。本文の it is difficult to stand properly（きちんと立つのが難しい）は、目が回ったときの様子で、目が回る原因ではありません。
+4 本文の liquid（液体）は、耳の中にある液体のことです。飲んだ液体のことではありません。
+【覚えるポイント】
+・cause A to ～：「Aに～させる、Aが～する原因となる」。
+・whether ～ or not：「～かどうか」。

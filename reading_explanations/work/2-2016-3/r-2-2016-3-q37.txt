@@ -1,0 +1,28 @@
+---
+choices: manufacturers are looking for ways to make sweets that taste like chocolate. | manufacturers are spending more money on increasing production. | farmers are moving to new places to grow cheaper cocoa beans. | farmers are buying cocoa trees that can produce beans more quickly.
+answerText: manufacturers are spending more money on increasing production.
+---
+【正解】2 manufacturers are spending more money on increasing production.（メーカーは、生産を増やすことに〔以前より〕多くのお金を使っている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：チョコレートの需要に追いつくために、……。
+1 メーカーは、チョコレートのような味がするお菓子を作る方法を探している
+2 メーカーは、生産を増やすことに（以前より）多くのお金を使っている
+3 農家は、（今より）安いカカオ豆を育てるために、新しい場所へ移っている
+4 農家は、（ふつうの木より）速く豆を実らせることができるカカオの木を買っている
+【考え方】
+設問の keep up with demand（需要に追いつく）は、「ほしいと思われる量に、生産が遅れずについていく」という意味です。生産を増やすための取り組みが書かれているのは、第4段落の後半です。
+At the same time, demand for chocolate is rising, so cocoa is becoming more and more valuable. Therefore, chocolate manufacturers are investing more money in the industry so that production will increase in the future.（同時に、チョコレートの需要が高まっているので、カカオの価値はますます高くなっている。そのため、チョコレートメーカーは、将来生産量が増えるように、その業界に〔以前より〕多くのお金を投資している）
+本文と選択肢を対にすると、次のようになります。
+本文 chocolate manufacturers are investing more money ＝ 選択肢 manufacturers are spending more money（メーカーは〔以前より〕多くのお金を使っている）
+本文 so that production will increase in the future（将来生産量が増えるように）＝ 選択肢 on increasing production（生産を増やすことに）
+invest（投資する、お金をつぎこむ）が spend（〔お金を〕使う）に言いかえられています。ですから、2が正解です。
+【ほかの選択肢】
+1 チョコレートのような味のお菓子を作る方法を探しているという話は、本文にありません。メーカーはカカオの生産を増やそうとしています。
+3 農家が新しい場所へ移っているという話は、本文にありません。第4段落で農家がしていることとして書かれているのは、developing new kinds of cocoa trees（新しい種類のカカオの木を開発すること）です。
+4 本文では、農家は新しい種類の木を「買っている」のではなく「開発している」と書かれています。また、新しい種類の木は stronger against disease and produce more beans（病気に強く、より多くの豆を実らせる）とありますが、「より速く」実らせるとは書かれていません。むしろ、木が育つのに時間がかかるので進み具合はゆっくりだと書かれています。
+【覚えるポイント】
+・keep up with ～：「～に遅れずについていく」。keep up with demand で「需要に追いつく」。
+・so that ～ will …：「～が…するように」。目的を表します。
