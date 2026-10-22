@@ -1,0 +1,33 @@
+---
+choices: interacting | outweighing | concealing | shoving
+answerText: interacting
+---
+【正解】1 interacting（交流している、関わり合っている）
+【和訳】
+（英文）
+A: Honey, I'm concerned about Tommy. His teacher says he isn't ［interacting］ much with his new classmates.
+B: Well, some kids are just shy, Martha. Give him some time and he'll start making friends.
+（訳）
+A：ねえ、トミーのことが心配だよ。先生が言うには、トミーは新しいクラスメートとあまり（関わり合って）いないんだって。
+B：まあ、ただ人見知りな子もいるからね、マーサ。少し時間をあげれば、友だちを作り始めるよ。
+（選択肢の意味）
+1 interacting：（人と）交流している、関わり合っている
+2 outweighing：～より重要である、～にまさっている
+3 concealing：隠している
+4 shoving：乱暴に押している
+【考え方】
+まず見るところ：空所の後ろの much with his new classmates と、Bの shy・making friends
+Aの心配は次の部分です。
+His teacher says he isn't (　) much with his new classmates.（先生が言うには、彼は新しいクラスメートとあまり（　）していない）
+空所の後ろに with his new classmates（新しいクラスメートと）があるので、「クラスメートと～する」の形になる語が入ります。
+Bの答えも手がかりになります。
+Well, some kids are just shy, Martha. Give him some time and he'll start making friends.（まあ、ただ人見知りな子もいるからね、マーサ。少し時間をあげれば、友だちを作り始めるよ）
+shy は「内気な、人見知りな」という意味です。Bは「まだ友だちができていないだけ」と考えています。つまりAは、トミーがクラスメートとあまり関わっていないことを心配しているのです。interact with ～ は「～と交流する、関わり合う」という意味なので、1が正解です。
+この問題の型：語の意味・組み合わせ（interact with ～）
+【ほかの選択肢】
+2 outweighing は「～より重要である、～にまさっている」という意味で、outweigh ～ のようにあとに直接目的語を置きます。「クラスメートとあまりまさっていない」となり、意味も文の形も合いません。
+3 concealing は「隠している」という意味で、何を隠すのかを表す語があとに必要です。ここには隠すものが書かれておらず、意味が通りません。
+4 shoving は「乱暴に押している」という意味です。「クラスメートをあまり押していない」なら心配することではなく、Bの「人見知りな子もいる」という答えにもつながりません。
+【覚えるポイント】
+・interact with ～：「～と交流する、関わり合う」。
+・相手の返事（ここでは shy や making friends）は、最初の発言の空所に何が入るかを確かめる手がかりになります。会話の問題では、返事まで読んでから選びましょう。

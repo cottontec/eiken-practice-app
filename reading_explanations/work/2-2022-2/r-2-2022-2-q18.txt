@@ -8,11 +8,21 @@ answerText: Having
 ［Having］ lived in Tokyo for three years, Cassandra knew exactly how to get to Tokyo Skytree from her apartment.
 （訳）
 3年間東京に住んでいたので、カサンドラは自分のアパートから東京スカイツリーへの行き方を正確に知っていました。
-（選択肢の意味）どれも have の形を変えたものです。1 Having（-ing 形）　2 Had（過去形・過去分詞）　3 Have（原形）　4 To have（to ＋原形）
+（選択肢の意味）
+どれも have の形を変えたものです。
+1 Having：have の -ing 形
+2 Had：have の過去形・過去分詞
+3 Have：have の原形（動詞のもとの形）
+4 To have：to ＋ have の原形
 【考え方】
-この文では、コンマのあとの Cassandra knew exactly how to get to ～（カサンドラは～への行き方を正確に知っていた）に、主語（Cassandra）と動詞（knew）がそろっています。コンマの前の (　) lived in Tokyo for three years には主語がありません。ですから、ここは文の中心ではなく、後ろの部分に説明を付け足す部分だと考えられます。
-動詞の -ing 形で始めて、後ろの文に「～なので」「～して」などの意味を付け足す形を、分詞構文（-ing 形などを使って文に説明を付け足す形）といいます。
-ここで、時の順番を考えます。「東京に住んだ」のは、「行き方を知っていた」ときよりも前から続いてきたことです。このように、後ろの文の時よりも前のことを表すときは、Having ＋過去分詞（lived のような形）にします。Having lived in Tokyo for three years で「3年間東京に住んでいたので」となり、だから行き方をよく知っていた、という意味がつながります。1が正解です。
+まず見るところ：コンマの前の (　) lived in Tokyo for three years に主語がないことと、コンマのあとの Cassandra knew exactly how to get to ～
+Cassandra knew exactly how to get to Tokyo Skytree from her apartment（カサンドラは、自分のアパートから東京スカイツリーへの行き方を正確に知っていた）
+コンマのあとには、主語（Cassandra）と動詞（knew）がそろっています。文の中心は、こちらです。
+(　) lived in Tokyo for three years（3年間東京に住んでいて）
+コンマの前には主語がないので、後ろの文に説明を付け足す部分だと考えられます。-ing 形などで始めて、「～なので」「～して」の意味を付け足す形を、分詞構文（-ing 形などを使って文に説明を付け足す形）といいます。
+「東京に住んだ」のは、「行き方を知っていた」ときよりも前から続いてきたことです。このように、後ろの文の時よりも前のことを表すときは、Having ＋過去分詞（lived のような形）にします。
+Having lived in Tokyo for three years で「3年間東京に住んでいたので」となり、だから行き方をよく知っていた、という意味がつながります。1が正解です。
+この問題の型：文法（分詞構文：Having ＋過去分詞）、因果（住んでいた→行き方を知っていた）
 【ほかの選択肢】
 2 Had で始めると、Had lived in Tokyo for three years には主語がなく、文の形が成り立ちません。
 3 Have で始めても、Have lived in Tokyo for three years には主語がなく、コンマのあとの文とうまくつながりません。
@@ -20,3 +30,4 @@ answerText: Having
 【覚えるポイント】
 ・Having ＋過去分詞, ～：「…したので（…してきたので）、～」。後ろの文の時よりも前のことを表します。
 ・know how to get to ～：「～への行き方を知っている」。
+・コンマの前に主語がなく、あとに主語と動詞がそろった文が続くときは、-ing 形で始まる形（ここでは Having）を考えると、手がかりになります。

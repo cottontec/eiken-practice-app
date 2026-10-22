@@ -1,0 +1,31 @@
+---
+choices: intrigued | tainted | dejected | dispatched
+answerText: intrigued
+---
+【正解】1 intrigued（興味をそそられた）
+【和訳】
+（英文）
+Although Frank was ［intrigued］ by his friend's suggestion that they start an editing company together, he decided to stay with his job at the newspaper.
+（訳）
+フランクは、いっしょに編集の会社を始めようという友人の提案に（興味をそそられた）けれども、新聞社での仕事を続けることにしました。
+（選択肢の意味）
+1 intrigued：興味をそそられた
+2 tainted：（評判などを）けがされた、汚された
+3 dejected：がっかりした、落ちこんだ
+4 dispatched：派遣された、送り出された
+【考え方】
+まず見るところ：文の頭の Although と、後半の he decided to stay with his job at the newspaper
+Although は「～だけれども」という意味です。Although の部分と後半は、ふつうなら予想される流れとは反対の関係になります。
+後半は次のとおりです。
+he decided to stay with his job at the newspaper（彼は新聞社での仕事を続けることにした）
+つまりフランクは、友人の提案には乗りませんでした。Although でつながっているので、前半には「提案に乗りそうだった」と思わせる内容、つまり提案に心がひかれたという内容が入ると考えられます。
+(　) by his friend's suggestion that they start an editing company together（いっしょに編集の会社を始めようという友人の提案に（　））
+intrigued は「興味をそそられた」という意味です。「提案に興味をそそられたけれど、今の仕事を続けることにした」となり、Although の前後がうまく反対の関係になります。ですから1が正解です。
+この問題の型：対比（Although：心がひかれた⇔今の仕事を続けた）
+【ほかの選択肢】
+2 tainted は「（評判などを）けがされた、汚された」という意味です。「友人の提案によって汚された」となり、意味が通りません。
+3 dejected は「がっかりした、落ちこんだ」という意味です。「提案にがっかりしたけれども、今の仕事を続けた」では、がっかりしたなら提案を断るのは当然なので、Although（～だけれども）でつなぐ流れになりません。
+4 dispatched は「派遣された、送り出された」という意味です。「友人の提案によって派遣された」となり、意味が通りません。
+【覚えるポイント】
+・be intrigued by ～：「～に興味をそそられる」。
+・Although ～, ... の文では、前半と後半が「予想とは反対」の関係になることが手がかりです。後半の内容から、前半に入る気持ちを逆向きに考えましょう。

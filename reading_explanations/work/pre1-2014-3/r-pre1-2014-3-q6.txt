@@ -1,0 +1,30 @@
+---
+choices: hailed | swayed | restrained | soaked
+answerText: swayed
+---
+【正解】2 swayed（揺れた）
+【和訳】
+（英文）
+During the earthquake, the bridge ［swayed］ so violently that many drivers lost control of their cars.
+（訳）
+地震の間、その橋はとても激しく（揺れた）ので、多くの運転手が車を思うように動かせなくなった。
+（選択肢の意味）
+1 hailed：あられやひょうが降った、（人）を大声で呼んだ、～をほめたたえた
+2 swayed：（左右に）揺れた
+3 restrained：～を抑えた、～を制止した
+4 soaked：～をびしょぬれにした、ずぶぬれになった
+【考え方】
+まず見るところ：文の初めの During the earthquake と、空所のあとの so violently that ～
+この文は so ～ that ...（とても～なので…）の形です。
+the bridge (　) so violently（橋がとても激しく〇〇した）
+that many drivers lost control of their cars（その結果、多くの運転手が車の制御を失った）
+lose control of ～ は「～を思うように動かせなくなる」という意味です。地震の間に、橋の上の運転手が車を思うように動かせなくなったのですから、橋が激しく動いたと考えられます。
+sway は「（左右に）揺れる」という意味です。「地震の間、橋がとても激しく揺れたので、多くの運転手が車を制御できなくなった」となり、意味が通ります。よって2が正解です。
+この問題の型：文法（so ～ that ...：とても～なので…）
+【ほかの選択肢】
+1 hailed は「（人）を大声で呼んだ、～をほめたたえた」、または天気の「あられ・ひょうが降った」です。天気の意味では It hailed. のように it を主語にします。「橋が激しく呼んだ」では意味が通りません。
+3 restrained は「～を抑えた、～を制止した」で、ふつうはあとに「何を抑えたか」が続きます。この文には抑える相手がなく、「橋が激しく抑えた」では、運転手が車を制御できなくなった理由になりません。
+4 soaked は「びしょぬれにした、ずぶぬれになった」です。地震で橋がぬれるという話にはならず、violently（激しく）ともつながりません。
+【覚えるポイント】
+・sway：「（左右に）揺れる」。lose control of ～：「～を思うように動かせなくなる」。
+・so ～ that ... の文では、that のあとの結果（ここでは「車を制御できなくなった」）が、空所の動きを決める手がかりになります。

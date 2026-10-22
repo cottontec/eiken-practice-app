@@ -1,0 +1,29 @@
+---
+choices: declaration | petition | dominance | resemblance
+answerText: dominance
+---
+【正解】3 dominance（圧倒的な強さ、優位）
+【和訳】
+（英文）
+The nation's ［dominance］ in table tennis is clear from the fact that its players usually place first in international tournaments.
+（訳）
+その国が卓球で（圧倒的な強さ）を持っていることは、その国の選手たちが国際大会でたいてい1位になっているという事実から明らかです。
+（選択肢の意味）
+1 declaration：宣言
+2 petition：請願（多くの人の署名を集めて、役所などに求めること）
+3 dominance：（他を圧倒する）強さ、優位、支配
+4 resemblance：似ていること
+【考え方】
+まず見るところ：文の後半の its players usually place first in international tournaments
+文の形を確かめます。The nation's (　) in table tennis（卓球におけるその国の（　））が主語で、それが is clear（明らかだ）と言っています。何によって明らかなのかは、後半の from the fact that ～（～という事実から）に書かれています。
+its players usually place first in international tournaments（その国の選手たちが、国際大会でたいてい1位になる）
+place first は「1位になる」という意味です。国際大会でいつも1位になるということは、その国が卓球で他の国々よりずっと強いということです。
+dominance は「（他を圧倒する）強さ、優位」という意味です。「卓球でのその国の圧倒的な強さは、選手がたいてい1位になるという事実から明らかだ」となり、前半と後半がうまくつながります。ですから3が正解です。
+この問題の型：具体例とまとめ（たいてい1位→dominance）
+【ほかの選択肢】
+1 declaration は「宣言」です。「卓球でのその国の宣言は、選手が1位になるという事実から明らかだ」となり、意味が通りません。
+2 petition は「請願」です。選手が1位になることから「請願」が明らかになるわけではなく、意味がつながりません。
+4 resemblance は「似ていること」です。何と似ているのかが文に出てこず、「たいてい1位になる」という事実とも結びつきません。
+【覚えるポイント】
+・dominance：「圧倒的な強さ、優位」。形容詞は dominant（支配的な、最も強い）です。
+・A is clear from the fact that ～（Aは～という事実から明らかだ）の形では、the fact that の後ろの具体的な事実をまとめて言う語がAに入ると考えると、答えを選ぶ手がかりになります。

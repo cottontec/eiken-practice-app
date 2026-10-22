@@ -10,11 +10,21 @@ B: There's no ［telling］ with traffic during the holidays. It could take thir
 （訳）
 A：あなたの両親の家まで、車でどのくらいかかるの？
 B：休みの期間は、交通の状況が（どうなるか分からない）よ。30分かもしれないし、2時間かかるかもしれないね。
-（選択肢の意味）どれも tell（言う、分かる）の形を変えたものです。1 tell（原形）　2 telling（-ing 形）　3 tells（主語が he や she などのときの今の形）　4 told（過去形・過去分詞）
+（選択肢の意味）
+どれも tell（言う、分かる）の形を変えたものです。
+1 tell：原形（動詞のもとの形）
+2 telling：-ing 形
+3 tells：主語が he や she などのときの今の形
+4 told：過去形・過去分詞
 【考え方】
-空所の前は There's no（～がない）です。There is no ～ing は「～することはできない」という意味の決まった言い方です。tell には「言う」のほかに「分かる、見分ける」という意味があり、There is no telling で「分からない、予測できない」となります。
-次の文 It could take thirty minutes, or it could take two hours.（30分かかるかもしれないし、2時間かかるかもしれない）が手がかりです。could はここでは「～かもしれない」と可能性を表します。かかる時間がどうなるか予想できないということなので、There's no telling with traffic（交通の状況については分からない）とつながります。2が正解です。
-no のあとには、名詞や -ing 形が来ます。-ing 形は、ここでは動詞を「～すること」という名詞の働きにする形です。
+まず見るところ：空所の前の There's no と、次の文の It could take thirty minutes, or it could take two hours.
+How long does it take to drive to your parents' house?（あなたの両親の家まで、車でどのくらいかかる？）
+Aは、車でかかる時間をたずねています。
+It could take thirty minutes, or it could take two hours.（30分かかるかもしれないし、2時間かかるかもしれない）
+could はここでは「～かもしれない」と可能性を表します。かかる時間は、交通の状況しだいで予想できない、ということです。
+There is no ～ing は「～することはできない」という意味の決まった言い方です。tell には「言う」のほかに「分かる、見分ける」という意味があり、There is no telling で「分からない、予測できない」となります。
+no のあとには名詞が来るので、動詞は「～すること」という名詞の働きをする -ing 形（telling）にします。2が正解です。
+この問題の型：熟語・決まった形（There is no ～ing）、具体例とまとめ（30分か2時間か→分からない）
 【ほかの選択肢】
 1 tell は動詞の原形です。no のあとに動詞の原形を置いて There's no tell とは言わないので、文の形が成り立ちません。
 3 tells は He tells ～ のように、主語が he や she などで今のことを言うときの形です。no のあとには置けません。
@@ -22,3 +32,4 @@ no のあとには、名詞や -ing 形が来ます。-ing 形は、ここでは
 【覚えるポイント】
 ・There is no telling ～：「～は分からない、予測できない」。
 ・There is no ～ing：「～することはできない」。
+・空所の前が There is no で、後ろが with traffic のような語句のときは、-ing 形（ここでは telling）を考えると、手がかりになります。

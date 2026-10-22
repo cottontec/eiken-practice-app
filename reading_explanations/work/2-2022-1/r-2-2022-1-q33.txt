@@ -1,18 +1,20 @@
 ---
 choices: It does not release harmful smoke when it is burned. | It does not become dirty easily and needs little washing. | It is tough enough for people to wear it for many years. | It is made by hand in small factories run by families.
 answerText: It is tough enough for people to wear it for many years.
+reviewed: yes
 ---
 【正解】3 It is tough enough for people to wear it for many years.（何年も着られるほど丈夫である。）
 【和訳】
 ＜本文の全訳＞
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
-設問：ツイードが環境にほとんど害を与えない理由の一つは何ですか。
+設問：What is one reason that tweed does little harm to the environment?（ツイードが環境にほとんど害を与えない理由の一つは何ですか。）
 1 It does not release harmful smoke when it is burned.（燃やしたときに有害な煙を出さない。）
 2 It does not become dirty easily and needs little washing.（汚れにくく、ほとんど洗う必要がない。）
 3 It is tough enough for people to wear it for many years.（人々が何年も着られるほど丈夫である。）
 4 It is made by hand in small factories run by families.（家族で経営する小さな工場で、手で作られている。）
 【考え方】
+まず見るところ：第4段落の it does little harm to the environment と、そのすぐあとの In addition to being made from natural wool ～
 設問は「ツイードが環境にほとんど害を与えない理由」です。第4段落に it does little harm to the environment（環境にほとんど害を与えない）という、設問と同じ語句があります。little は「ほとんど～ない」という意味です。そのすぐあとの文に理由が書かれています。
 In addition to being made from natural wool, it is strong enough to last for a very long time, so people do not often need to buy new clothes.（自然の羊毛で作られていることに加えて、ツイードはとても長い間もつほど丈夫なので、人々は新しい服をあまり買う必要がない）
 ここには理由が2つあります。
@@ -21,11 +23,14 @@ In addition to being made from natural wool, it is strong enough to last for a v
 選択肢にあるのは2つ目の理由です。
 本文と選択肢を対にすると、次のようになります。
 本文 strong enough to last for a very long time（とても長い間もつほど丈夫だ）＝ 選択肢 tough enough for people to wear it for many years（人々が何年も着られるほど丈夫だ）
-strong（丈夫な）が tough（丈夫な、強い）に、last for a very long time（とても長い間もつ）が wear it for many years（何年も着る）に言いかえられています。また、Indeed（実際）のあとの some wealthy people in the United Kingdom still wear their grandparents' tweed suits（イギリスの裕福な人々の中には、今でも祖父母のツイードのスーツを着ている人もいる）も、長年着られる例になっています。ですから、3が正解です。
+strong（丈夫な）が tough（丈夫な、強い）に、last for a very long time（とても長い間もつ）が wear it for many years（何年も着る）に言いかえられています。
+Indeed, some wealthy people in the United Kingdom still wear their grandparents’ tweed suits.（実際、イギリスの裕福な人々の中には、今でも祖父母のツイードのスーツを着ている人もいる）
+この文も、長年着られる例になっています。ですから、3が正解です。
+この問題の型：言いかえ（last for a very long time ＝ wear it for many years）、因果（丈夫→新しい服を買わなくてすむ→環境への害が少ない）
 【ほかの選択肢】
 1 燃やしたときの煙についての話は、本文にありません。
 2 汚れにくい、洗う必要があまりない、という話は本文にありません。本文の「長くもつ」は、丈夫だから新しい服を買わなくてすむ、という意味です。
 4 ツイードがどこでどのように作られているかは、第4段落の理由には書かれていません。家族で経営する小さな工場という話は、本文のどこにも出てきません。
 【覚えるポイント】
 ・形容詞＋enough to ～：「～するのに十分なほど（形容詞）だ」。strong enough to last for a very long time で「とても長い間もつほど丈夫だ」。
-・do little harm to ～：「～にほとんど害を与えない」。
+・設問の語句（ここでは does little harm to the environment）が本文に出てくる文の前後に、理由（In addition to ～, so ～）が書かれていることが多いです。do little harm to ～：「～にほとんど害を与えない」。

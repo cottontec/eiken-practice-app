@@ -1,0 +1,30 @@
+---
+choices: violation | succession | acquisition | recession
+answerText: violation
+---
+【正解】1 violation（違反）
+【和訳】
+（英文）
+Charlene was sent home from school to change after she turned up wearing a tank top, which was a clear ［violation］ of the dress code.
+（訳）
+シャーリーンはタンクトップを着て学校に来たあと、着替えるために家に帰された。タンクトップを着ることは、服装規定の明らかな（違反）だった。
+（選択肢の意味）
+1 violation：違反（決まりを破ること）
+2 succession：連続、継承（地位などを受け継ぐこと）
+3 acquisition：獲得（手に入れること）
+4 recession：景気の後退、不景気
+【考え方】
+まず見るところ：文の前半の was sent home from school to change と、空所のあとの of the dress code
+文の前半から、何が起きたかを確かめます。
+Charlene was sent home from school to change（シャーリーンは着替えるために学校から家に帰された）
+after she turned up wearing a tank top（彼女がタンクトップを着て現れたあとで）
+turn up は「現れる、やって来る」という意味です。服を着替えに帰されたのですから、タンクトップは学校で着てはいけない服だったと分かります。
+空所を含む which was a clear (　) of the dress code の which は、「タンクトップを着て来たこと」を指しています。dress code は「服装規定（服装についての決まり）」です。決まりで禁じられた服を着て来たのですから、それは「決まりを破ること」です。violation は「違反」という意味で、a violation of ～ で「～の違反」となります。よって1が正解です。
+この問題の型：因果（家に帰された理由が空所の内容になる）
+【ほかの選択肢】
+2 succession は「連続、継承（受け継ぐこと）」です。「服装規定の明らかな継承」となり、家に帰された理由になりません。
+3 acquisition は「獲得（手に入れること）」です。「服装規定の明らかな獲得」では意味が通りません。
+4 recession は「景気の後退、不景気」で、経済の話で使う語です。学校の服装の決まりとは関係がありません。
+【覚えるポイント】
+・a violation of ～：「～の違反」。動詞 violate は「（決まりなど）を破る」です。
+・dress code（服装規定）や rule（規則）のような「決まり」を表す語の前の空所では、その決まりを守ったのか破ったのかを、前後の出来事から確かめるのが手がかりになります。
