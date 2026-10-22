@@ -1,0 +1,32 @@
+---
+choices: set off | took up | brought off | put in
+answerText: put in
+---
+【正解】4 put in（（設備を）取りつけた、設置した）
+【和訳】
+（英文）
+When the new owners bought the restaurant, they changed a lot of things. They decorated the dining room, made a new menu, and even ［put in］ a new kitchen.
+（訳）
+新しいオーナーたちはそのレストランを買うと、多くのことを変えた。食事をする部屋を飾りつけ、新しいメニューを作り、さらには新しい調理場まで（取りつけた）。
+（選択肢の意味）
+1 set off：出発する、（警報などを）鳴らす、引き起こす
+2 took up：（趣味などを）始めた、（場所や時間を）とった
+3 brought off：（難しいことを）やってのけた
+4 put in：（設備を）取りつけた、設置した
+【考え方】
+まず見るところ：1文目の they changed a lot of things と、空所の前の even
+When the new owners bought the restaurant, they changed a lot of things.（新しいオーナーたちはそのレストランを買うと、多くのことを変えた）
+2文目には、その「多くのこと」の具体例が3つ並んでいます。
+decorated the dining room（食事をする部屋を飾りつけた）
+made a new menu（新しいメニューを作った）
+even ( ) a new kitchen（さらには新しい調理場まで（　））
+even は「さらに～まで、～さえ」という意味で、いちばん大がかりな変化を最後に加えています。kitchen（調理場）は、お店に設備として備えつけるものです。
+put in は「（設備などを）取りつける、設置する」という意味です。put in a new kitchen で「新しい調理場を取りつける」となり、レストランを変えた具体例として自然なので、4が正解です。
+この問題の型：具体例とまとめ（changed a lot of things の具体例）／熟語・決まった形（put in）
+【ほかの選択肢】
+1 set off は「出発する」や「（警報などを）鳴らす、（出来事を）引き起こす」です。「新しい調理場を引き起こした」では意味が通りません。
+2 took up は「（趣味などを）始めた」や「（場所や時間を）とった」です。「新しい調理場を始めた」では意味が通らず、オーナーがレストランを変えた具体例になりません。
+3 brought off は「（難しいことを）うまくやってのけた」です。後ろには計画や作戦などが来る言い方で、「新しい調理場をやってのけた」では意味が通りません。
+【覚えるポイント】
+・put in ～：「（設備などを）取りつける、設置する」。
+・1文目の「多くのことを変えた」の具体例が2文目に並んでいるときは、並んでいるほかの動作（飾りつけた、作った）と同じように「店に手を加える」意味になる語句を選ぶと手がかりになります。

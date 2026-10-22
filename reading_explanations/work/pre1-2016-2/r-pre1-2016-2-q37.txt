@@ -1,0 +1,33 @@
+---
+choices: By changing people's attitudes in order to increase their feelings of responsibility for the people around them. | By educating people about the root causes of serious social problems such as racism and child abuse. | By encouraging people to think for themselves rather than letting themselves be influenced by opinion leaders. | By organizing community events that provide opportunities for people to get to know one another better.
+answerText: By changing people's attitudes in order to increase their feelings of responsibility for the people around them.
+---
+【正解】1 By changing people's attitudes in order to increase their feelings of responsibility for the people around them.（周りの人々に対する責任感を高めるために、人々の考え方を変えることによって。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：How does the author of the passage suggest fighting the bystander effect?（この文章の筆者は、傍観者効果とどのように戦うことを提案しているか。）
+1 By changing people's attitudes in order to increase their feelings of responsibility for the people around them.（周りの人々に対する責任感を高めるために、人々の考え方を変えることによって。）
+2 By educating people about the root causes of serious social problems such as racism and child abuse.（人種差別や子どもへの虐待のような深刻な社会問題の根本的な原因について、人々を教育することによって。）
+3 By encouraging people to think for themselves rather than letting themselves be influenced by opinion leaders.（オピニオンリーダーに影響されるのではなく、自分の頭で考えるよう人々に促すことによって。）
+4 By organizing community events that provide opportunities for people to get to know one another better.（人々がおたがいをもっとよく知る機会となる地域の行事を企画することによって。）
+【考え方】
+まず見るところ：第3段落の A big part of the solution seems to lie in altering social norms and standards of behavior. と By developing a sense of obligation toward their community, ～
+傍観者効果を防ぐ方法は、第3段落に書かれています。
+A big part of the solution seems to lie in altering social norms and standards of behavior.（解決策の大部分は、社会の規範や行動の基準を変えることにあるようだ）
+alter は「変える」、social norms は「社会の規範（社会の中で守るべきだと考えられている決まりや考え方）」という意味です。そのあと、オピニオンリーダーが「困っている人を助けるのは普通で望ましいことだ」とほかの人々に納得させる方法が書かれ、次の文が続きます。
+By developing a sense of obligation toward their community, people can overcome the forces that usually prevent them from getting involved during emergencies.（地域社会に対する義務感を育てることで、人々は、緊急時にかかわることをふだんさまたげている力に打ち勝つことができる）
+obligation は「義務（しなければならないこと）」、overcome は「打ち勝つ」という意味です。
+本文と選択肢を対にすると、次のようになります。
+・本文 altering social norms and standards of behavior（社会の規範や行動の基準を変える）→ 選択肢 changing people's attitudes（人々の考え方を変える）
+・本文 developing a sense of obligation toward their community（地域社会に対する義務感を育てる）→ 選択肢 increase their feelings of responsibility for the people around them（周りの人々に対する責任感を高める）
+obligation（義務）と responsibility（責任）は近い意味の言葉で、ほぼ同じ内容を言いかえています。ですから1が正解です。
+この問題の型：言いかえ（a sense of obligation → feelings of responsibility）
+【ほかの選択肢】
+2 本文にありません。人種差別や子どもへの虐待は、傍観者効果を防ぐ取り組みが行われている状況の例として出てくるだけで、それらの問題の根本的な原因を教えるという話は書かれていません。
+3 本文と反対です。本文は、人気のある生徒や有名人のようなオピニオンリーダーがほかの人々を納得させることで、手助けを普通のことにすると述べています。オピニオンリーダーの影響を受けないようにするのではなく、その影響を生かす方法です。
+4 本文にありません。第1段落に、都市の人々は地域社会とのつながりが弱いと考えられていることは書かれていますが、おたがいを知るための地域の行事を開くという提案は出てきません。
+【覚えるポイント】
+・obligation / responsibility：「義務」「責任」。内容一致問題では、このような近い意味の語で言いかえられることがあります。
+・筆者の提案をたずねる設問では、本文の the solution（解決策）や By ～ing, people can ...（～することで、人々は…できる）の部分が答えの手がかりになります。

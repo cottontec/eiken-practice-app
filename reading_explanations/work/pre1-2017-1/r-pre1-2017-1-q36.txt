@@ -1,0 +1,34 @@
+---
+choices: Because very young children do not understand most of the sensory input they receive, it cannot be made into memories. | The fact that very young children's brains have so few neurons means they cannot retain many memories. | Although neurons are produced quickly in very young children's brains, they are not used to store memories. | The high neuron growth rate in very young children is the reason their memories do not last.
+answerText: The high neuron growth rate in very young children is the reason their memories do not last.
+---
+【正解】4 The high neuron growth rate in very young children is the reason their memories do not last.（ごく幼い子どもはニューロンが増える速度が速いことが、その記憶が長続きしない理由である。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What did Paul Frankland and Sheena Josselyn conclude based on their experiments?（ポール・フランクランドとシーナ・ジョスリンは、実験に基づいて何と結論づけましたか。）
+1 Because very young children do not understand most of the sensory input they receive, it cannot be made into memories.（ごく幼い子どもは、受け取る感覚の情報のほとんどを理解していないので、それを記憶にすることができない。）
+2 The fact that very young children's brains have so few neurons means they cannot retain many memories.（ごく幼い子どもの脳にはニューロンがとても少ないということは、多くの記憶を保てないということである。）
+3 Although neurons are produced quickly in very young children's brains, they are not used to store memories.（ごく幼い子どもの脳ではニューロンが速く作られるが、それらは記憶をたくわえるのには使われない。）
+4 The high neuron growth rate in very young children is the reason their memories do not last.（ごく幼い子どもはニューロンが増える速度が速いことが、その記憶が長続きしない理由である。）
+【考え方】
+まず見るところ：第3段落の Frankland and Josselyn therefore concluded that ～ と、そのあとの It takes multiple neurons ～
+第3段落では、まず実験の結果が書かれています。
+when the growth of neurons in infant mice was slowed down, they were much better able to recall things that the researchers had taught them in the past（幼いマウスのニューロンの成長を遅くすると、研究者たちが以前に教えたことを、ずっとよく思い出せた）
+そこから、次のように結論づけています。
+even though neuron growth can help to expand powers of memory, the process is also destructive（ニューロンの成長は記憶する力を広げるのに役立つことがあるものの、その過程は破壊的でもある）
+It takes multiple neurons to store a memory, but as new neurons rapidly increase in number, the existing patterns that form a young child's memories are replaced by new ones.（1つの記憶をたくわえるには複数のニューロンが必要だが、新しいニューロンが急速に数を増やすにつれて、幼い子どもの記憶を形作っている既存のパターンが、新しいパターンに置きかえられてしまう）
+destructive は「破壊的な（こわしてしまう）」、existing は「すでにある」です。ニューロンが速く増えると、もとの記憶が置きかえられて消えてしまう、という結論です。
+本文と選択肢4を対にすると、次のようになります。
+本文 new neurons rapidly increase in number（新しいニューロンが急速に数を増やす）＝ 選択肢 The high neuron growth rate（ニューロンが増える速度が速いこと）
+本文 the existing patterns that form a young child's memories are replaced by new ones（幼い子どもの記憶を形作る既存のパターンが新しいものに置きかえられる）→ 選択肢 their memories do not last（記憶が長続きしない）
+よって4が正解です。
+この問題の型：言いかえ（rapidly increase in number→high neuron growth rate）／因果（ニューロンが速く増える→記憶が置きかえられる）
+【ほかの選択肢】
+1 フランクランドとジョスリンの結論ではありません。幼い子どもの脳は感覚の情報を記録できないという考えは、第1段落で1980年代までの説として紹介され、フィヴァッシュの研究で崩れたものです。また、本文の説は「記録できない」というもので、「理解していない」とは書かれていません。
+2 本文と逆です。本文には、幼い人間も幼いマウスも produce neurons at an extremely rapid rate（きわめて速い速度でニューロンを作り出す）とあり、ニューロンが少ないのではありません。
+3 本文と食い違っています。本文には It takes multiple neurons to store a memory（1つの記憶をたくわえるには複数のニューロンが必要だ）とあり、ニューロンは記憶をたくわえるのに使われています。
+【覚えるポイント】
+・destructive：「破壊的な、こわしてしまう」。
+・研究者が concluded that ～ と結論を述べたあとに、It takes ～, but … のような説明が続くときは、その説明の中に「なぜそうなるか」のしくみが書かれていることが多いので、選択肢の理由とそのしくみが合っているかを確かめると手がかりになります。

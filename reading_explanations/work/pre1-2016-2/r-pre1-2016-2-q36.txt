@@ -1,0 +1,31 @@
+---
+choices: are often too afraid to take risks in situations where there is a chance they may be injured themselves. | tend to decide whether they will get involved in a particular situation based on the reactions of others. | are more likely to place their own safety above the needs of others in emergency situations such as fires. | tend to react to dangerous situations by panicking when they are part of a group.
+answerText: tend to decide whether they will get involved in a particular situation based on the reactions of others.
+---
+【正解】2 tend to decide whether they will get involved in a particular situation based on the reactions of others.（ある状況にかかわるかどうかを、ほかの人の反応にもとづいて決める傾向がある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：John Darley and Bibb Latané say their experiment showed that people（ジョン・ダーリーとビブ・ラタネは、自分たちの実験が、人は～ということを示したと言っている。）
+1 are often too afraid to take risks in situations where there is a chance they may be injured themselves.（自分がけがをするかもしれない状況では、こわくて危険をおかせないことが多い。）
+2 tend to decide whether they will get involved in a particular situation based on the reactions of others.（ある状況にかかわるかどうかを、ほかの人の反応にもとづいて決める傾向がある。）
+3 are more likely to place their own safety above the needs of others in emergency situations such as fires.（火事のような緊急の状況では、ほかの人が必要としていることより自分の安全を優先する可能性が高い。）
+4 tend to react to dangerous situations by panicking when they are part of a group.（集団の一員であるときは、危険な状況にあわてふためいて反応する傾向がある。）
+【考え方】
+まず見るところ：第2段落の最後の Darley and Latané concluded that ～
+実験の内容は第2段落に書かれています。参加者が1人のときは、75パーセントが火事かもしれないと報告しました。ところが、煙に気づいていないふりをする2人と一緒のときは、報告したのはわずか10パーセントでした。そのうえで、二人は次のように結論づけています。
+Darley and Latané concluded that when people observe that others around them are not responding to an event, they are much less likely to react themselves.（ダーリーとラタネは、人は、周りの人々がある出来事に反応していないのを見ると、（そうでない場合より）自分が反応する可能性がずっと低くなる、と結論づけた）
+conclude は「結論づける」という意味です。人は、周りの人が反応しているかどうかを見て、自分が動くかどうかを決めている、ということです。
+本文と選択肢を対にすると、次のようになります。
+・本文 when people observe that others around them are not responding（周りの人々が反応していないのを見ると）→ 選択肢 based on the reactions of others（ほかの人の反応にもとづいて）
+・本文 they are much less likely to react themselves（自分が反応する可能性がずっと低くなる）→ 選択肢 decide whether they will get involved（かかわるかどうかを決める）
+ですから2が正解です。
+この問題の型：言いかえ（others are not responding → the reactions of others）
+【ほかの選択肢】
+1 本文にありません。実験の煙は火事を示すものでしたが、自分がけがをするのをこわがったという話は書かれていません。二人の結論は、周りの人の反応についてのものです。
+3 本文にありません。参加者が自分の安全を優先したとは書かれていません。報告しなかったのは、周りの人が反応していなかったためだと結論づけられています。
+4 本文と合いません。ほかの人と一緒のとき、参加者はあわてふためいたのではなく、むしろ反応せず、報告したのはわずか10パーセントでした。
+【覚えるポイント】
+・respond / react：どちらも「反応する」。名詞の形 reaction（反応）で言いかえられることがあります。
+・「実験が何を示したか」をたずねる設問では、本文の concluded that ～ や found that ～ のあとをまず読むと、答えの場所を見つける手がかりになります。
