@@ -1,0 +1,31 @@
+---
+choices: They became able to eat different kinds of food in order to compete with brown anoles. | They adapted to living in a different type of tree whose branches were easier to move around on. | Their body weight decreased to enable them to catch prey on thin tree branches. | The structure of their feet changed so that they could move more effectively on certain surfaces.
+answerText: The structure of their feet changed so that they could move more effectively on certain surfaces.
+---
+【正解】4 The structure of their feet changed so that they could move more effectively on certain surfaces.（ある種の表面の上をより効率よく動けるように、足のつくりが変化した。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What happened to the green anoles in Florida?（フロリダ州のグリーンアノールに何が起きましたか。）
+1 They became able to eat different kinds of food in order to compete with brown anoles.（ブラウンアノールと競争するために、違う種類の食べ物を食べられるようになった。）
+2 They adapted to living in a different type of tree whose branches were easier to move around on.（枝の上を動き回りやすい、違う種類の木で暮らすことに適応した。）
+3 Their body weight decreased to enable them to catch prey on thin tree branches.（細い木の枝の上でえものを捕まえられるように、体重が減った。）
+4 The structure of their feet changed so that they could move more effectively on certain surfaces.（ある種の表面の上をより効率よく動けるように、足のつくりが変化した。）
+【考え方】
+まず見るところ：第1段落の最後の developed large toe pads and sticky scales on their feet
+第1段落では、ブラウンアノールが侵入してきたあと、グリーンアノールがどう変わったかが書かれています。段落の最後の文を見ます。
+The green anoles soon began living high in trees, where the heavier brown lizards could not go, and developed large toe pads and sticky scales on their feet in order to be better able to grip the smooth, narrow branches as they walk.（グリーンアノールはまもなく、体の重いブラウンアノールが行けない木の高い所で暮らし始め、歩くときになめらかで細い枝をよりしっかりつかめるように、足の指の大きなパッドと、足のねばねばしたうろこを発達させた）
+toe pads は「足の指のパッド（指の裏のふくらんだ部分）」、sticky scales は「ねばねばしたうろこ」です。どちらも足にできた変化です。また、in order to ～（～するために）のあとに、その目的が書かれています。
+本文と選択肢を対にすると、次のようになります。
+本文 developed large toe pads and sticky scales on their feet（足の指の大きなパッドと、足のねばねばしたうろこを発達させた）＝ 選択肢 The structure of their feet changed（足のつくりが変化した）
+本文 to be better able to grip the smooth, narrow branches as they walk（歩くときになめらかで細い枝をよりしっかりつかめるように）＝ 選択肢 so that they could move more effectively on certain surfaces（ある種の表面の上をより効率よく動けるように）
+certain surfaces（ある種の表面）は、「なめらかで細い枝」をまとめて言いかえたものです。ですから4が正解です。
+この問題の型：言いかえ（smooth, narrow branches ＝ certain surfaces）
+【ほかの選択肢】
+1 本文では、2つの種が食べ物をめぐって争ったとは書かれていますが、グリーンアノールが違う種類の食べ物を食べるようになったとは書かれていません。グリーンアノールが変えたのは、すむ場所と足のつくりです。
+2 本文では、グリーンアノールは high in trees（木の高い所）で暮らし始めたと書かれており、違う種類の木に移ったわけではありません。また、そこの枝は smooth, narrow（なめらかで細い）もので、動き回りやすいのではなく、つかみにくいからこそ足が変化したのです。
+3 本文の heavier（より重い）は、ブラウンアノールのことを説明している語です。グリーンアノールの体重が減ったとは書かれておらず、えものを捕まえる話も出てきません。
+【覚えるポイント】
+・in order to ～：「～するために」。
+・選択肢の certain surfaces（ある種の表面）のように、本文の具体的な語（smooth, narrow branches）が、選択肢ではまとめた言い方に変わっていることがあります。本文の何を指しているかを確かめると、正解を見つける手がかりになります。

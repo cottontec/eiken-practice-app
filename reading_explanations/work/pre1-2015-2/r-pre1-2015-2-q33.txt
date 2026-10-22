@@ -1,0 +1,34 @@
+---
+choices: While smaller animals may evolve more rapidly, larger species take about a million years to change. | The fossil record shows that evolution in a number of species has sped up in the past million years. | Rapid evolutionary changes are possible for local populations, but they are unlikely to affect species over a broad area. | Nature is so unpredictable that it is impossible to know how fast evolution will occur in any animal population.
+answerText: Rapid evolutionary changes are possible for local populations, but they are unlikely to affect species over a broad area.
+---
+【正解】3 Rapid evolutionary changes are possible for local populations, but they are unlikely to affect species over a broad area.（急速な進化上の変化は、限られた地域の集団では起こりうるが、広い地域にわたって種に影響を与えることはありそうにない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What does Josef Uyeda suggest about species evolution?（ジョセフ・ウエダは、種の進化について何を示していますか。）
+1 While smaller animals may evolve more rapidly, larger species take about a million years to change.（より小さな動物はより急速に進化するかもしれないが、より大きな種は変化するのに約100万年かかる。）
+2 The fossil record shows that evolution in a number of species has sped up in the past million years.（化石の記録は、多くの種の進化がこの100万年で速まってきたことを示している。）
+3 Rapid evolutionary changes are possible for local populations, but they are unlikely to affect species over a broad area.（急速な進化上の変化は、限られた地域の集団では起こりうるが、広い地域にわたって種に影響を与えることはありそうにない。）
+4 Nature is so unpredictable that it is impossible to know how fast evolution will occur in any animal population.（自然はとても予測しにくいので、どんな動物の集団においても、進化がどれくらいの速さで起こるかを知ることはできない。）
+【考え方】
+まず見るところ：第2段落の “do not always persist and may be confined to small populations” と、段落の最後の spread across a wide area
+第2段落で、ウエダの考えが書かれています。まず、段落の初めを見ます。
+although rapid changes such as those in the green anoles are remarkable, they are unlikely to last for a significantly long time（グリーンアノールに起きたような急速な変化は注目すべきものではあるが、かなり長い期間続くことはありそうにない）
+次に、ウエダのチームが見つけたことを見ます。
+such changes “do not always persist and may be confined to small populations.”（そうした変化は「必ずしも続くわけではなく、小さな集団に限られることもある」）
+persist は「続く」、be confined to ～ は「～に限られる」です。そして段落の最後には、a million years of gradual evolution is required for a change to become permanent and spread across a wide area（ある変化が永続的なものになり、広い地域に広がるには、100万年のゆるやかな進化が必要だ）とあります。
+本文と選択肢を対にすると、次のようになります。
+本文 rapid changes such as those in the green anoles（グリーンアノールに起きたような急速な変化）＝ 選択肢 Rapid evolutionary changes are possible（急速な進化上の変化は起こりうる）
+本文 may be confined to small populations（小さな集団に限られることもある）＝ 選択肢 for local populations（限られた地域の集団で）
+本文 a million years ～ is required for a change to ～ spread across a wide area（広い地域に広がるには100万年が必要だ）→ 選択肢 unlikely to affect species over a broad area（広い地域にわたって種に影響を与えることはありそうにない）
+ですから3が正解です。
+この問題の型：言いかえ（confined to small populations ＝ local populations、a wide area ＝ a broad area）
+【ほかの選択肢】
+1 本文には、小さな動物と大きな動物で進化の速さを比べる話はありません。「100万年」は、変化が永続的になって広い地域に広がるための一般的な法則として書かれており、大きな種についての話ではありません。
+2 本文の「100万年」は、変化が定着するのに必要な時間です。この100万年で進化が速まってきたとは書かれていません。ウエダのチームは化石の記録を調べましたが、そこから分かったのは、急速な変化は続かないこともあるということです。
+4 ウエダは as a general rule（一般的な法則として）100万年が必要だと述べており、進化の速さについて目安を示しています。「どんな集団でも進化の速さは知ることができない」とまでは言っておらず、言い切りすぎです。
+【覚えるポイント】
+・be confined to ～：「～に限られる」。spread across a wide area：「広い地域に広がる」。
+・本文の small populations（小さな集団）が選択肢で local populations（限られた地域の集団）に、a wide area が a broad area になっているように、意味の近い語に置きかえられていることがよくあります。語が同じでなくても意味が合うかを確かめましょう。

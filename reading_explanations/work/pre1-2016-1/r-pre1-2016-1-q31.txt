@@ -1,0 +1,30 @@
+---
+choices: For instance | In addition to this | Therefore | Contrary to this
+answerText: Therefore
+---
+【正解】3 Therefore（したがって、それゆえ）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 For instance（例えば）
+2 In addition to this（これに加えて）
+3 Therefore（したがって、それゆえ）
+4 Contrary to this（これとは反対に）
+【考え方】
+まず見るところ：空所の前の those containing pieces of the plant were 21 percent more likely to contain insects と、空所のあとの it seems that ～
+第3段落では、ロプレスティが、この植物も化学的な信号（においなどの化学物質による合図）で虫を引き寄せているのではないかと考え、実験をしています。植物の茎と葉を入れた容器と、空の容器を用意し、どちらも中身が見えないようにねばねばした素材でおおいました。
+空所の前の文で、実験の結果が書かれています。
+After collecting the containers, LoPresti found that those containing pieces of the plant were 21 percent more likely to contain insects.（容器を回収したあと、ロプレスティは、植物の一部が入った容器のほうが、（空の容器と比べて）昆虫がついている可能性が21パーセント高いことを発見した）
+中身は見えないのに、植物が入った容器のほうに虫が多く集まったのですから、植物から出る化学物質が虫を呼んでいると考えられます。
+空所のあとの文は、次のとおりです。
+it seems that chemicals work together with the trichomes to trap the bugs（化学物質がトライコームと協力して虫を捕らえているようだ）
+これは、実験の結果から導かれる結論です。結果から結論を導くときに使う「したがって、それゆえ」という意味の Therefore が入ります。ですから3が正解です。
+この問題の型：因果（実験の結果 → 結論）
+【ほかの選択肢】
+1 For instance は「例えば」で、前に述べたことの具体例を挙げるときに使います。あとの文は具体例ではなく、実験から分かったまとめの結論なので合いません。
+2 In addition to this は「これに加えて」で、別の内容を付け加えるときに使います。あとの文は新しい情報を付け加えているのではなく、前の実験の結果から考えた結論なので合いません。
+4 Contrary to this は「これとは反対に」です。実験で植物の容器に虫が多く集まったことと、化学物質が虫を捕らえるのに役立っていることは、反対の関係ではなく、同じ方向の内容です。
+【覚えるポイント】
+・Therefore：「したがって、それゆえ」。前の事実や結果から結論を導くときに使います。
+・空所のあとに it seems that ～（～のようだ）のような「考えた結果」が続き、空所の前に実験の結果があるときは、Therefore のように結論を導く語が入る手がかりになります。

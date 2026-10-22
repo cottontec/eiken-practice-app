@@ -1,0 +1,30 @@
+---
+choices: procedure | altitude | expertise | trickery
+answerText: altitude
+---
+【正解】2 altitude（高度、高さ）
+【和訳】
+（英文）
+After one of the airplane's engines failed, it began to lose ［altitude］ rapidly and had to make an emergency landing.
+（訳）
+その飛行機は、エンジンの1つが故障したあと、急速に（高度）を下げ始め、緊急着陸をしなければなりませんでした。
+（選択肢の意味）
+1 procedure：手順、やり方
+2 altitude：高度、（海面からの）高さ
+3 expertise：専門的な知識や技術
+4 trickery：ごまかし、ぺてん
+【考え方】
+まず見るところ：空所の前の began to lose と、後ろの rapidly and had to make an emergency landing
+文の初めは After one of the airplane's engines failed（飛行機のエンジンの1つが故障したあと）です。fail はここでは「（機械が）故障する、動かなくなる」という意味です。
+空所のあとは次のとおりです。
+it began to lose ( ) rapidly and had to make an emergency landing（それは急速に（　）を失い始め、緊急着陸をしなければならなかった）
+it は the airplane（飛行機）を指します。エンジンが止まった飛行機が急速に失うものは何かを考えます。エンジンの力がなくなると、飛行機は空の高いところにいられなくなり、下がってしまいます。
+altitude は「高度（飛んでいる高さ）」という意味で、lose altitude で「高度を失う、高度が下がる」になります。高度が急に下がっていけば緊急着陸をすることになると考えられるので、後ろの had to make an emergency landing（緊急着陸をしなければならなかった）ともつながります。ですから2が正解です。
+この問題の型：語の意味・組み合わせ（lose altitude）
+【ほかの選択肢】
+1 procedure は「手順、やり方」です。「飛行機が急速に手順を失い始めた」となり、意味が通りません。
+3 expertise は「専門的な知識や技術」で、人が持っているものです。飛行機が「専門知識を失う」ことはなく、意味が通りません。
+4 trickery は「ごまかし、ぺてん（人をだますこと）」です。「飛行機が急速にごまかしを失い始めた」となり、意味が通りません。
+【覚えるポイント】
+・altitude：「高度、（海面からの）高さ」。lose altitude で「高度が下がる」です。
+・空所の前の動詞（ここでは lose）と、文の流れ（故障→緊急着陸）の両方に合う名詞を考えると、乗り物の話題でどんな語が入るかの手がかりになります。

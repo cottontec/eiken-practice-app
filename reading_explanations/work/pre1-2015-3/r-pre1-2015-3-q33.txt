@@ -1,0 +1,30 @@
+---
+choices: The results varied so widely between participants that it was impossible to measure the program's effectiveness. | Some participants discovered that the changes ended up raising their home heating and cooling expenses. | The total cost of home improvements was more than twice as much on average as the savings they would produce. | By trying to make improvements to so many homes, the government ended up doing poor-quality work that reduced cost savings.
+answerText: The total cost of home improvements was more than twice as much on average as the savings they would produce.
+---
+【正解】3 The total cost of home improvements was more than twice as much on average as the savings they would produce.（住宅の改修にかかった費用の合計は、平均すると、改修によって生まれる節約額の2倍より多かった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one criticism of the government's support for energy-efficiency improvements in Michigan?（ミシガン州でのエネルギー効率を高める改修への政府の支援に対する批判の1つは何ですか。）
+1 The results varied so widely between participants that it was impossible to measure the program's effectiveness.（参加者の間で結果があまりにも大きく異なったので、その制度の効果を測ることができなかった。）
+2 Some participants discovered that the changes ended up raising their home heating and cooling expenses.（一部の参加者は、改修によって、結局、家の冷暖房費が上がってしまったことに気づいた。）
+3 The total cost of home improvements was more than twice as much on average as the savings they would produce.（住宅の改修にかかった費用の合計は、平均すると、改修によって生まれる節約額の2倍より多かった。）
+4 By trying to make improvements to so many homes, the government ended up doing poor-quality work that reduced cost savings.（あまりにも多くの家を改修しようとしたために、政府は結局、質の悪い工事をしてしまい、それが節約額を減らした。）
+【考え方】
+まず見るところ：第2段落の an average of $5,000 worth of free upgrades と、just $2,400 ～ less than half the amount of the initial investment
+ミシガン州の話は第2段落にあります。シカゴ大学の経済学者たちは、政府の制度の cost-effectiveness（費用対効果：かけたお金に見合う効果があるかどうか）に批判的でした。その理由となる数字を見ます。
+Around 7,500 households in Michigan were given an average of $5,000 worth of free upgrades（ミシガン州の約7,500世帯が、平均5,000ドル相当の無料の改修を受けた）
+However, these savings would amount to an average of just $2,400 over the lifetime of the upgrades—in other words, less than half the amount of the initial investment.（しかし、これらの節約は、改修したものが使える期間全体を通しても、平均わずか2,400ドルにしかならない見込みだった。言いかえれば、最初の投資額の半分にも満たない）
+改修には平均5,000ドルかかったのに、それで節約できるお金は平均2,400ドルだけです。本文と選択肢を対にすると、次のようになります。
+本文 savings ～ less than half the amount of the initial investment（節約額は最初の投資額の半分より少ない）＝ 選択肢 The total cost ～ was more than twice as much ～ as the savings（費用の合計は節約額の2倍より多い）
+「節約額が費用の半分より少ない」ことを、反対側から見て「費用が節約額の2倍より多い」と言いかえています。5,000ドルは2,400ドルの2倍（4,800ドル）より多いので、数字でも合っています。ですから3が正解です。
+この問題の型：言いかえ（less than half ⇔ more than twice）
+【ほかの選択肢】
+1 本文では、エネルギー消費量が毎月約10～20パーセント減ったという結果がきちんと示されています。結果がばらばらで効果を測れなかった、という話はありません。
+2 本文では、改修によってエネルギー消費量は減っています。冷暖房費が上がってしまった参加者がいたという話は、本文にありません。
+4 改修工事の質が悪かったという話は、本文にありません。批判されているのは、工事の質ではなく、かけたお金に比べて節約額が少ないことです。
+【覚えるポイント】
+・less than half（半分より少ない）と more than twice（2倍より多い）は、比べる2つを入れかえると同じ関係を表します。
+・数字が出てくる内容一致の問題では、本文の「何と何を比べているか」を確かめ、選択肢が比べる順番を入れかえて言いかえていないかに注意しましょう。

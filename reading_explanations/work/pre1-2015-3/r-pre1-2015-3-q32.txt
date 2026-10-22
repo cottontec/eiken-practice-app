@@ -1,0 +1,30 @@
+---
+choices: They tend to believe that energy-efficiency upgrades to their homes are more costly than they really are. | They are forced to reduce their spending on food because of the high cost of heating in winter. | They spend far less money on heating in winter than they spend on air conditioning in summer. | They spend an average of 30 percent less on heating and cooling than people with middle or high incomes.
+answerText: They are forced to reduce their spending on food because of the high cost of heating in winter.
+---
+【正解】2 They are forced to reduce their spending on food because of the high cost of heating in winter.（冬の暖房費が高いために、食べ物にかけるお金を減らさざるをえない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one thing that the Columbia University study showed about low-income earners?（コロンビア大学の研究が、低所得者について示したことの1つは何ですか。）
+1 They tend to believe that energy-efficiency upgrades to their homes are more costly than they really are.（彼らは、自分の家のエネルギー効率を高める改修が、実際よりもお金がかかると思いこむ傾向がある。）
+2 They are forced to reduce their spending on food because of the high cost of heating in winter.（冬の暖房費が高いために、食べ物にかけるお金を減らさざるをえない。）
+3 They spend far less money on heating in winter than they spend on air conditioning in summer.（冬の暖房に使うお金は、夏のエアコンに使うお金よりもずっと少ない。）
+4 They spend an average of 30 percent less on heating and cooling than people with middle or high incomes.（冷暖房に使うお金が、中所得や高所得の人々よりも平均で30パーセント少ない。）
+【考え方】
+まず見るところ：第1段落の Increased heating costs in winter months also used up so much of people's budgets ～
+コロンビア大学の研究は、第1段落に書かれています。研究者たちが見つけたことの1つが、次の文です。
+Increased heating costs in winter months also used up so much of people's budgets they were forced to reduce their calorie intake.（また、冬の数か月間に暖房費が増えることで、人々の家計のとても多くが使われてしまい、彼らは摂取するカロリーを減らさざるをえなかった）
+budget は「家計（生活のためのお金）」、calorie intake は「摂取するカロリー（食事でとるエネルギーの量）」です。暖房にお金がたくさんかかるので、食事を減らすしかなかった、ということです。本文と選択肢を対にすると、次のようになります。
+・本文 Increased heating costs in winter months（冬の数か月間に増える暖房費）＝ 選択肢 the high cost of heating in winter（冬の高い暖房費）
+・本文 were forced to reduce their calorie intake（摂取するカロリーを減らさざるをえなかった）→ 家計が足りずにカロリーを減らした、ということから読み取れること → 選択肢 are forced to reduce their spending on food（食べ物にかけるお金を減らさざるをえない）
+「家計のお金が暖房に使われてしまったので、食事を減らした」という流れを、選択肢では「食べ物にかけるお金を減らした」と表しています。ですから2が正解です。
+この問題の型：言いかえ（reduce their calorie intake → reduce their spending on food）
+【ほかの選択肢】
+1 低所得者が、改修に実際よりもお金がかかると思いこんでいる、という話は本文にありません。第3段落に出てくる思いこみは、「低所得者は制度を知らないから参加しない」という、低所得者についての世間の考えです。
+3 冬の暖房と夏のエアコンにかけるお金を比べた話は、本文にありません。本文にあるのは、暖房費が増えて家計を使ってしまうことと、エアコンの使用を減らすと空気の質が悪くなることです。
+4 本文の around 30 percent（約30パーセント）は、家を改修した人々が報告したエネルギーの節約の割合です。中所得や高所得の人々と比べた数字ではありません。
+【覚えるポイント】
+・be forced to ～：「～せざるをえない、～するしかない」。
+・内容一致の問題では、本文の具体的な言い方（ここでは calorie intake〔摂取カロリー〕）が、選択肢ではもっと身近な言い方（spending on food〔食べ物にかけるお金〕）に言いかえられていることが多いので、原因と結果の組み合わせが同じかどうかで確かめましょう。
