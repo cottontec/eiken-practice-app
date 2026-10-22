@@ -1,0 +1,26 @@
+---
+choices: the bananas will be safe | the disease will soon arrive | people will get sick | production will quickly increase
+answerText: the disease will soon arrive
+---
+【正解】2 the disease will soon arrive（その病気がまもなく到達するだろう）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 the bananas will be safe（バナナは安全だろう）
+2 the disease will soon arrive（その病気がまもなく到達するだろう）
+3 people will get sick（人々が病気になるだろう）
+4 production will quickly increase（生産が急速に増えるだろう）
+【考え方】
+空所は第2段落の Nevertheless, experts believe（22）there. です。「それでも、専門家たちは（22）そこで／そこに、と考えている」という意味になります。there（そこ）は、直前の文に出てくる Central America（中央アメリカ）を指しています。
+まず、空所の前の文を見ます。Luckily, it has not yet reached Central America, where most Cavendish bananas are grown.（幸い、それ〔新しいタイプの病気〕はまだ中央アメリカには届いていない。中央アメリカは、キャベンディッシュのほとんどが栽培されている場所だ）とあります。
+次に、空所の文の始まりの Nevertheless に注目します。Nevertheless は「それでも、それにもかかわらず」という意味で、前の内容とは反対の方向の話が続く合図です。前の文は「まだ届いていない（よかった）」なので、そのあとは「でも、いずれ届くだろう」という心配の話になると考えられます。
+さらに空所のあとの In response, scientists are looking for a banana to replace the Cavendish（これを受けて、科学者たちはキャベンディッシュに代わるバナナを探している）も手がかりです。病気が中央アメリカにも来ると考えるからこそ、代わりのバナナを探していると分かります。
+2を入れると「専門家たちは、その病気がまもなくそこ（中央アメリカ）に到達するだろうと考えている」となり、前後の流れがつながります。ですから、2が正解です。
+【ほかの選択肢】
+1 「バナナは（そこでは）安全だろう」では、前の文の「幸い、まだ届いていない」と同じ方向の内容になり、Nevertheless（それでも）でつなぐことができません。また、科学者が代わりのバナナを探している理由にもなりません。
+3 「人々が（そこで）病気になるだろう」は、本文に書かれていません。パナマ病はバナナを枯らす病気として説明されていて、人がかかる病気だとは書かれていません。
+4 「生産が（そこで）急速に増えるだろう」も、本文にはありません。病気が広がるおそれがあるという話の流れとは反対の内容で、代わりのバナナを探す理由にもなりません。
+【覚えるポイント】
+・Nevertheless：「それでも、それにもかかわらず」。前の内容から予想されることとは反対の内容が続きます。
+・In response：「それを受けて、それに応じて」。前に書かれた出来事への対応が続きます。

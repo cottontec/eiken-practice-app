@@ -1,0 +1,25 @@
+---
+choices: In contrast | For instance | Unfortunately | Additionally
+answerText: Unfortunately
+---
+【正解】3 Unfortunately（残念なことに、不運にも）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 In contrast（対照的に、それに対して）
+2 For instance（たとえば）
+3 Unfortunately（残念なことに、不運にも）
+4 Additionally（さらに、加えて）
+【考え方】
+空所は第1段落の（21）, a fungus called Panama disease began killing Gros Michel bananas. の文頭です。「（21）、パナマ病と呼ばれる菌類が、グロスミッチェルのバナナを枯らし始めた」という意味です。
+空所の前の文は Until the 1960s, a much larger and better tasting banana called the Gros Michel was the most popular.（1960年代までは、グロスミッチェルと呼ばれる、ずっと大きくて味のよいバナナが最も人気があった）です。人気があったよいバナナの話のあとに、そのバナナが病気で枯れ始めたという悪い出来事が続いています。
+さらにあとには、the disease had spread so much that fruit companies could no longer produce enough Gros Michel bananas（その病気はとても広がったので、果物会社はもはや十分な量のグロスミッチェルを生産できなくなった）とあります。このように、空所のあとはよくない出来事の話です。
+よくない出来事を伝える前に置く言葉として、Unfortunately（残念なことに）がぴったり合います。ですから、3が正解です。
+【ほかの選択肢】
+1 In contrast は「対照的に」で、2つのものの違いを比べるときに使います。空所の前後は、同じグロスミッチェルに起こった出来事を時間の順に述べているだけで、何かと何かを比べてはいないので合いません。
+2 For instance は「たとえば」で、前の内容の具体例を示すときに使います。「パナマ病がグロスミッチェルを枯らし始めた」ことは、「グロスミッチェルが最も人気だった」ことの例ではないので合いません。
+4 Additionally は「さらに、加えて」で、同じ方向の内容を付け足すときに使います。空所の前は人気があったというよい話、あとは枯れ始めたという悪い話で、話の向きが変わっているので合いません。
+【覚えるポイント】
+・Unfortunately：「残念なことに、不運にも」。このあとには、よくない出来事が続くことが多いです。
+・no longer ～：「もはや～ない」。could no longer produce で「もはや生産できなかった」。

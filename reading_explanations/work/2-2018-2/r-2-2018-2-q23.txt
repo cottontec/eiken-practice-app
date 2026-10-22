@@ -1,0 +1,25 @@
+---
+choices: has a better flavor than | has more vitamins than | cannot protect | will not replace
+answerText: will not replace
+---
+【正解】4 will not replace（～に取って代わることはないだろう）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 has a better flavor than（～よりもよい風味〔味〕がする）
+2 has more vitamins than（～よりも多くのビタミンを含んでいる）
+3 cannot protect（～を守ることができない）
+4 will not replace（～に取って代わることはないだろう）
+【考え方】
+空所は第3段落の However, because it tastes similar to an apple, it probably（23）the Cavendish. です。it は直前に出てくるゴールドフィンガーを指しています。「しかし、それはリンゴに似た味がするので、おそらくキャベンディッシュ（23）」という意味です。
+空所の前の文には、ゴールドフィンガーは is not affected by Panama disease（パナマ病の影響を受けない）と書かれています。これはよい点です。空所の文は However（しかし）で始まり、because it tastes similar to an apple（リンゴに似た味がするので）と、よくない点が続いています。つまり、空所には「病気には強いが、問題がある」という内容が入ると考えられます。
+ここで、第2段落で科学者たちが探していたのは a banana to replace the Cavendish（キャベンディッシュに取って代わるバナナ）だったことを思い出します。さらに空所のあとには、Aguilar is confident he will one day be able to create a new banana that tastes similar to the Cavendish（アギラールは、いつかキャベンディッシュに似た味の新しいバナナを作り出せると確信している）とあります。キャベンディッシュの代わりになるには、キャベンディッシュに似た味であることが必要だと読み取れます。
+ゴールドフィンガーはリンゴに似た味なので、キャベンディッシュの代わりにはならないだろう、という流れになります。4を入れると「おそらくキャベンディッシュに取って代わることはないだろう」となり、前後とつながります。ですから、4が正解です。
+【ほかの選択肢】
+1 「キャベンディッシュよりもよい味がする」では、However で始まる「よくない点」の文になりません。また、リンゴに似た味であることが、キャベンディッシュよりおいしい理由になるとは本文に書かれていません。
+2 「キャベンディッシュよりも多くのビタミンを含んでいる」は、本文にビタミンの話がまったく出てこないので合いません。リンゴに似た味がするという理由ともつながりません。
+3 「キャベンディッシュを守ることができない」は、意味が合いません。ゴールドフィンガーはキャベンディッシュを守るためのバナナではなく、キャベンディッシュに代わる候補として紹介されています。
+【覚えるポイント】
+・replace：「～に取って代わる、～の代わりになる」。本文の a banana to replace the Cavendish（キャベンディッシュに代わるバナナ）と結びつけて考えます。
+・tastes similar to ～：「～に似た味がする」。

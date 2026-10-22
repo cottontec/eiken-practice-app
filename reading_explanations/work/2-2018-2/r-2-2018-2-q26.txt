@@ -1,0 +1,27 @@
+---
+choices: To make matters worse | As usual | Even so | For this reason
+answerText: For this reason
+---
+【正解】4 For this reason（このため、こういう理由で）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 To make matters worse（さらに悪いことに）
+2 As usual（いつものように）
+3 Even so（たとえそうでも、それでも）
+4 For this reason（このため、こういう理由で）
+【考え方】
+空所は第3段落の（26）, massage could be particularly helpful for people suffering from frequent pain ～ の文頭です。「（26）、マッサージは、ひんぱんに痛みに苦しんでいる人々にとって、特に役立つ可能性がある」という意味です。
+空所の前の2つの文を見ます。
+・it was found that massage causes a decrease in certain chemicals in the body called cytokines（マッサージによって、サイトカインと呼ばれる体内のある種の化学物質が減ることが分かった）
+・These chemicals cause the body to feel pain.（これらの化学物質は、体に痛みを感じさせる）
+この2つを合わせると、「痛みを感じさせる化学物質が、マッサージで減る」ということになります。そうであれば、マッサージは痛みに苦しむ人の役に立つはずです。つまり、前の2文が理由で、空所のあとがその結果になっています。
+理由と結果をつなぐ言葉として、For this reason（このため）がぴったり合います。ですから、4が正解です。
+【ほかの選択肢】
+1 To make matters worse は「さらに悪いことに」で、悪い話に、もっと悪い話を付け足すときに使います。空所のあとは「マッサージが役立つ可能性がある」というよい話なので合いません。
+2 As usual は「いつものように」です。マッサージが痛みに役立つ可能性は、前の研究の発見から導かれたことで、「いつものこと」として述べられているわけではないので合いません。
+3 Even so は「たとえそうでも、それでも」で、前の内容から予想されることとは反対の内容が続くときに使います。「痛みのもとの化学物質がマッサージで減る」から予想される「役に立つ」という内容がそのまま続いているので、合いません。
+【覚えるポイント】
+・For this reason：「このため、こういう理由で」。前に理由、あとに結果が来ます。
+・cause ～ to ...：「～に…させる、～が…する原因となる」。cause the body to feel pain で「体に痛みを感じさせる」。
