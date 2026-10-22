@@ -1,0 +1,29 @@
+---
+choices: tender | abandoned | majestic | dedicated
+answerText: dedicated
+---
+【正解】4 dedicated（（～に）力を注いでいる、専念している）
+【和訳】
+（英文）
+Donna feels there is not enough greenery in urban areas, so she has started a charity ［dedicated］ to educating people about the importance of planting trees.
+（訳）
+ドナは都市部には緑が十分にないと感じているので、木を植えることの大切さについて人々に教えることに（力を注ぐ）慈善団体を立ち上げた。
+（選択肢の意味）
+1 tender：優しい、柔らかい
+2 abandoned：見捨てられた、放棄された
+3 majestic：堂々とした、威厳のある
+4 dedicated：（～に）ささげられた、力を注いでいる
+【考え方】
+まず見るところ：空所のあとの to educating people
+前半では、ドナは都市部に greenery（緑、草木）が足りないと感じている、と書かれています。so（だから）のあとで、彼女が始めたことが書かれています。
+she has started a charity (　) to educating people about the importance of planting trees（彼女は、木を植えることの大切さについて人々に教えることに〇〇な慈善団体を始めた）
+charity は「慈善団体（困っている人や社会のために活動する団体）」です。空所に入る語は charity を後ろから説明していて、そのあとに to educating（教えることに）が続きます。この to は「～に」という意味の前置詞（名詞の前に置いて、ほかの語との関係を示す語）なので、あとに ～ing の形が来ています。
+dedicated は「（～に）ささげられた、力を注いでいる」という意味で、dedicated to ～ing で「～することに力を注ぐ」となります。「木を植える大切さを教えることに力を注ぐ慈善団体」となり、緑が足りないと感じたドナの行動として意味が通ります。よって4が正解です。
+この問題の型：熟語・決まった形（dedicated to ～ing：～することに力を注ぐ）
+【ほかの選択肢】
+1 tender は「優しい、柔らかい」です。tender のあとに to educating（教えることに）を続ける言い方はなく、「教えることに優しい慈善団体」では意味が通りません。
+2 abandoned は「見捨てられた、放棄された」です。ドナは慈善団体を始めたところなので、「見捨てられた慈善団体」では話が合いません。
+3 majestic は「堂々とした、威厳のある」で、山や建物などの立派な様子を表す語です。あとに to educating を続けることはできず、意味が通りません。
+【覚えるポイント】
+・dedicated to ～ing：「～することに力を注いでいる、専念している」。to のあとが ～ing になる点に注意しましょう。
+・空所のあとが to ～ing になっているときは、to が前置詞として使われる決まった形を思い出すと、答えをしぼる手がかりになります。

@@ -1,0 +1,32 @@
+---
+choices: been an unlikely choice for | had much to offer as | appeared to be a safe place for | had a long history as
+answerText: been an unlikely choice for
+---
+【正解】1 been an unlikely choice for（～としては選ばれそうにない所だった）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 been an unlikely choice for（～としては選ばれそうにない所だった）
+2 had much to offer as（～として多くのよい点があった）
+3 appeared to be a safe place for（～にとって安全な場所に見えた）
+4 had a long history as（～として長い歴史があった）
+【考え方】
+まず見るところ：第3段落の空所の後ろの Surrounded by mountains, the canyon is isolated, with short growing seasons and limited rainfall.
+第3段落は、まず学者たちの考えを示します。
+Most scholars now accept that Chaco Canyon was reserved for holding religious ceremonies.（現在では、ほとんどの学者が、チャコ・キャニオンは宗教儀式を行うための場所として取っておかれていたと認めている）
+空所のある文は Indeed（実際）で始まり、この考えを支える内容が続くと分かります。
+Indeed, the region would have ( 28 ) a permanent settlement.（実際、その地域は、ずっと住み続ける集落としては（28）だっただろう）
+permanent settlement は「永住の集落（ずっと住み続ける村や町）」という意味です。
+空所の後ろには、その理由が並んでいます。
+Surrounded by mountains, the canyon is isolated, with short growing seasons and limited rainfall.（山々に囲まれたその峡谷は孤立しており、作物の育つ期間は短く、雨も少ない）
+isolated は「孤立した（ほかの場所から離れている）」という意味です。さらに、建物は長期間の住まいとしては使われていなかった、とも書かれています。どれも「ずっと住むのには向かない」という内容です。
+unlikely choice は「選ばれそうにないもの」という意味です。「永住の集落の場所としては選ばれそうにない所だっただろう」となり、後ろの理由とうまくつながります。ですから1が正解です。
+この問題の型：具体例とまとめ（孤立・短い生育期間・少ない雨→住むのに向かない）
+【ほかの選択肢】
+2 「永住の集落として多くのよい点があった」は、後ろの内容と反対です。孤立していて、作物の育つ期間が短く、雨も少ないことは、住むうえでのよい点ではありません。
+3 「永住の集落にとって安全な場所に見えた」は、後ろの内容と合いません。後ろに並んでいるのは住みにくさを表す内容で、安全かどうかについては述べられていません。
+4 「永住の集落として長い歴史があった」は、本文と合いません。建物は長期間の住まいとしては使われておらず、人々は季節ごとに旅をして訪れていた、と書かれています。
+【覚えるポイント】
+・Indeed（実際）で始まる文は、前の文の考えを支える内容になることが多いです。
+・空所のあとに具体的な事実（ここでは孤立・短い生育期間・少ない雨）が並んでいるときは、それらをまとめた内容が空所に入ると考えるのが手がかりになります。

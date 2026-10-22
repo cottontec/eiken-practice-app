@@ -1,0 +1,29 @@
+---
+choices: conflicting | discriminating | imposing | redeeming
+answerText: conflicting
+---
+【正解】1 conflicting（食い違う、矛盾する）
+【和訳】
+（英文）
+Witnesses gave ［conflicting］ stories about what the bank robber looked like. Some said he was tall and middle-aged, while others said he was young and of average height.
+（訳）
+目撃者たちは、銀行強盗の見た目について、（食い違う）話をした。背が高くて中年だったと言う人もいれば、若くてふつうの背の高さだったと言う人もいた。
+（選択肢の意味）
+1 conflicting：食い違う、矛盾する（たがいに合わない）
+2 discriminating：見分ける力のある、目の肥えた
+3 imposing：堂々とした、立派な
+4 redeeming：（欠点を）補う、救いとなる
+【考え方】
+まず見るところ：2文目の Some said ～, while others said ～
+空所は stories（話、証言）の前にあり、目撃者たちの話がどんなものだったかを説明する語が入ります。2文目を見ます。
+Some said he was tall and middle-aged, while others said he was young and of average height.（背が高くて中年だったと言う人もいれば、若くてふつうの背の高さだったと言う人もいた）
+Some ～, while others ～ は「～な人もいれば、～な人もいる」という形です。「背が高い」と「ふつうの背の高さ」、「中年」と「若い」は、たがいに合いません。
+つまり、目撃者たちの話はばらばらで、食い違っていました。conflicting は「食い違う、矛盾する」という意味なので、1が正解です。
+この問題の型：具体例とまとめ（2文目の具体的な食い違い→1文目の conflicting）
+【ほかの選択肢】
+2 discriminating は「見分ける力のある」です。「見分ける力のある話」となり、2文目の、証言がばらばらだったという内容に合いません。
+3 imposing は「堂々とした、立派な」で、建物や人の姿などに使う語です。「堂々とした話」では、2文目の具体的な内容とつながりません。
+4 redeeming は「（欠点を）補う、救いとなる」です。「救いとなる話」では、証言が合わないという2文目の内容と結びつきません。
+【覚えるポイント】
+・conflicting stories：「食い違う証言、矛盾する話」。
+・Some ～, while others ～（～な人もいれば、～な人もいる）のように、あとの文で具体的な内容が並んでいるときは、それを1語でまとめた語が空所に入る手がかりになります。
