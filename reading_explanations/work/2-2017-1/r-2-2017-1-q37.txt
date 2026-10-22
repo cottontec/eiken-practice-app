@@ -1,0 +1,30 @@
+---
+choices: They want to find a way to support other developing countries. | They think that it is cleaner and safer to bury garbage in the ground. | They believe that it is cheaper and better for the environment. | They hope that it will provide more jobs for people in the city.
+answerText: They believe that it is cheaper and better for the environment.
+---
+【正解】3 They believe that it is cheaper and better for the environment.（彼らは、そのほうが費用が安く、環境にもよいと考えている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：なぜ多くの人は、昔のやり方のごみ集めを広げたいと思っているのですか。
+1 彼らは、ほかの発展途上国（これから経済が発展していく国）を支援する方法を見つけたいと思っている。
+2 彼らは、ごみを地中に埋めるほうが、より清潔で安全だと考えている。
+3 彼らは、そのほうが（新しい仕組みより）費用が安く、環境にもよいと考えている。
+4 彼らは、それによって市の人々のために、より多くの仕事が生まれることを望んでいる。
+【考え方】
+設問の expand（広げる）と同じ語が、第4段落の最後の文にあります。
+Hoping to reduce costs and improve the environment, many people would now like to expand the traditional method of collecting garbage.（費用を減らし、環境をよくしたいと願って、多くの人が今、昔ながらのごみ集めのやり方を広げたいと考えている）
+Hoping to ～ は「～したいと願って」という意味で、昔のやり方を広げたい理由を表しています。
+その前の文では、2003年からのヨーロッパの会社による新しい仕組みについて、it cost more money（より多くのお金がかかった）と far less was recycled（リサイクルされる量がはるかに少なくなった）という2つの問題が書かれています。昔のやり方は、この新しい仕組みと比べて、費用が安く、環境にもよいと考えられているのです。
+本文と選択肢を対にすると、次のようになります。
+本文 reduce costs ＝ 選択肢 cheaper
+本文 improve the environment ＝ 選択肢 better for the environment
+「費用を減らす」が cheaper（より安い）に、「環境をよくする」が better for the environment（環境にとってよりよい）に言いかえられています。よって3が正解です。
+【ほかの選択肢】
+1 ほかの発展途上国を支援するという話は、本文にありません。
+2 本文では、新しい仕組みになって more garbage to be buried in the ground（地中に埋められるごみが以前より多く残った）ことが、問題の1つとして書かれています。ごみを埋めるほうがよいとは書かれておらず、反対の内容です。
+4 市の人々の仕事を増やすという話は、本文にありません。昔のやり方を広げたい理由として書かれているのは、費用と環境のことだけです。
+【覚えるポイント】
+・Hoping to ～, ...：「～したいと願って、…」。文の始めの -ing の形が、理由や気持ちを表しています。
+・reduce costs：「費用を減らす」。選択肢では cheaper（より安い）と言いかえられています。

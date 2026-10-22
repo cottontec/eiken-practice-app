@@ -1,6 +1,7 @@
 ---
 choices: Compared with | In spite of | Apart from | Thanks to
 answerText: Thanks to
+reviewed: yes
 ---
 【正解】4 Thanks to（～のおかげで）
 【和訳】

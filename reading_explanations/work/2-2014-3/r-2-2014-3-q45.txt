@@ -1,6 +1,7 @@
 ---
 choices: The price of guano is so high that local people in Peru can no longer buy it. | Peru must protect both anchoveta and the seabirds to save the guano industry. | The trade that developed around guano caused other industries in Peru to lose money. | Traditional guano collecting in Peru is more harmful to human health than first thought.
 answerText: Peru must protect both anchoveta and the seabirds to save the guano industry.
+reviewed: yes
 ---
 【正解】2 Peru must protect both anchoveta and the seabirds to save the guano industry.（グアノ産業を守るために、ペルーはアンチョベータと海鳥の両方を守らなければならない。）
 【和訳】
@@ -20,7 +21,7 @@ answerText: Peru must protect both anchoveta and the seabirds to save the guano 
 本文と選択肢は次のように対応しています。
 本文 Both the fish and the birds（魚と鳥の両方）＝ 選択肢 both anchoveta and the seabirds（アンチョベータと海鳥の両方）
 本文 a new threat to it（グアノ産業に対する新たな脅威）→ 選択肢 to save the guano industry（グアノ産業を守るために）
-本文の「漁を管理しなければ魚も鳥もいなくなるかもしれない」という内容を、選択肢では「両方を守らなければならない」とまとめて言っています。正解は2です。
+本文の「漁が管理されなければ魚と鳥の両方がいなくなるかもしれない」という内容と、ペルーがとる数の制限を各国に働きかけていることから、「グアノ産業を守るには両方を守らなければならない」と読み取れます。ほかの3つの選択肢は本文の内容と合わないので、正解は2です。
 【ほかの選択肢】
 1 本文で値段が上がったと書かれているのは、artificial fertilizers（人工の肥料）です。そのため、グアノはむしろ more economical（より経済的）になりました。グアノが高すぎて地元の人々が買えないとは書かれていません。
 3 本文の第2段落には、グアノの大きな取引が生まれ、グアノがペルーの主要な輸出品になったと書かれています。ほかの産業がお金を失ったとは書かれていません。

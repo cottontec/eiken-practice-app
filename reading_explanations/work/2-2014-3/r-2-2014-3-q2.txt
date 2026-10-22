@@ -1,6 +1,7 @@
 ---
 choices: revise | persuade | encounter | accompany
 answerText: revise
+reviewed: yes
 ---
 【正解】1 revise（修正する、見直して直す）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: is eating | had been eating | will be eating | will have been eating
 answerText: had been eating
+reviewed: yes
 ---
 【正解】2 had been eating（〔その時までずっと〕食べ続けていた）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: results | experiments | designs | courses
 answerText: results
+reviewed: yes
 ---
 【正解】1 results（結果）
 【和訳】

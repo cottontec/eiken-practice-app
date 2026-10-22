@@ -2,6 +2,7 @@
 choices: a | of | time | is | waste
 answerText: a
 order: 4 1 5 2 3
+reviewed: yes
 ---
 【正解】1 a（この問題の2番目）
 【完成文】

@@ -1,6 +1,7 @@
 ---
 choices: disappointing | complicated | helpful | available
 answerText: complicated
+reviewed: yes
 ---
 【正解】2 complicated（複雑な、こみ入った）
 【和訳】

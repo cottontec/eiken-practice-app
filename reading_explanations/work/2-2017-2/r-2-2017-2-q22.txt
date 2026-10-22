@@ -1,0 +1,28 @@
+---
+choices: make their products healthier | satisfy these rules | improve the taste | change these requirements
+answerText: satisfy these rules
+---
+【正解】2 satisfy these rules（これらの決まりを満たす）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 make their products healthier（自分たちの製品を〔今より〕健康によいものにする）
+2 satisfy these rules（これらの決まりを満たす）
+3 improve the taste（味をよくする）
+4 change these requirements（これらの条件を変える）
+【考え方】
+空所は第2段落の In order to (22), farmers have to produce more crops than necessary. です。In order to ～ は「～するために」という意味なので、「（22）するために、農家は必要以上の作物を生産しなければならない」となります。農家が多めに作る目的を考えます。
+空所の前には、スーパーマーケットの条件が説明されています。
+・supermarkets have strict requirements for farmers（スーパーマーケットは農家に対して厳しい条件を設けている）
+・Farmers agree to provide a certain amount of fruits and vegetables every year.（農家は毎年一定の量の果物と野菜を納めることに同意する）
+・most shops will only accept fruits and vegetables that are a certain shape, color, and size（ほとんどの店は、決まった形、色、大きさの果物と野菜しか受け入れない）
+農家は決まった量を納める約束をしていますが、形・色・大きさが条件に合わないものは受け取ってもらえません。ですから、条件に合うものを約束の量だけそろえるには、多めに作るしかありません。these rules（これらの決まり）は、この形・色・大きさの条件を指しています。「これらの決まりを満たすために、必要以上に作る」となり、流れに合います。
+空所のあとの the fruits and vegetables that do not match the shops' requirements go to waste（店の条件に合わない果物と野菜は無駄になる）も、条件を満たすために多く作り、合わないものが余るという内容で、2とつながります。2が正解です。
+【ほかの選択肢】
+1 「自分たちの製品を健康によいものにする」は、本文の店の条件と合いません。店が求めているのは形・色・大きさで、健康によいかどうかは書かれていません。
+3 「味をよくする」も、店の条件とは関係がありません。条件は見た目（形・色・大きさ）についてで、味の話は本文にありません。
+4 「これらの条件を変える」を入れると、「条件を変えるために、必要以上の作物を作らなければならない」となります。多く作ることで条件が変わるわけではないので、つながりません。本文では、農家は条件に合わせて作る立場として書かれています。
+【覚えるポイント】
+・In order to ～：「～するために」と目的を表します。
+・requirement：「（満たすべき）条件、要求」。satisfy（満たす）と組み合わせて使うことが多い語です。

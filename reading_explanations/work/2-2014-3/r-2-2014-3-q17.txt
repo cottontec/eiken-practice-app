@@ -1,6 +1,7 @@
 ---
 choices: amounted to | acted on | adjusted to | agreed on
 answerText: amounted to
+reviewed: yes
 ---
 【正解】1 amounted to（合計で～になった）
 【和訳】

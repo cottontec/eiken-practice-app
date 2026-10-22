@@ -1,6 +1,7 @@
 ---
 choices: relieved | reviewed | occurred | mentioned
 answerText: mentioned
+reviewed: yes
 ---
 【正解】4 mentioned（話に出した、言った）
 【和訳】

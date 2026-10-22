@@ -2,6 +2,7 @@
 choices: the | mystery | was | exciting | more
 answerText: more
 order: 2 3 1 5 4
+reviewed: yes
 ---
 【正解】5 more（この問題の4番目）
 【完成文】

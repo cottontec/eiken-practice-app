@@ -1,6 +1,7 @@
 ---
 choices: is becoming less common because there is not enough room. | is an idea that was not thought of until modern times. | can cause poisons to be released into the local environment. | can improve the value of land in areas with too much waste.
 answerText: can cause poisons to be released into the local environment.
+reviewed: yes
 ---
 【正解】3 can cause poisons to be released into the local environment.（毒が地元の環境に放出される原因になることがある。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: More people in wealthy countries want to buy organic food. | Companies can grow more vegetables when using natural fertilizers. | Food grown with guano has a better flavor than other food. | Artificial fertilizers have been made illegal in many places.
 answerText: More people in wealthy countries want to buy organic food.
+reviewed: yes
 ---
 【正解】1 More people in wealthy countries want to buy organic food.（豊かな国々で、有機食品を買いたいと思う人が増えているから。）
 【和訳】

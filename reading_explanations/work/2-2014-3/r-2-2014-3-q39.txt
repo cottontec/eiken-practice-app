@@ -1,6 +1,7 @@
 ---
 choices: By turning it into a special gas which can then be used as fuel. | By selling it to people so they can burn it to heat their homes. | By adding metal to it to make a new kind of building material. | By creating islands with it which can become sites for power plants.
 answerText: By turning it into a special gas which can then be used as fuel.
+reviewed: yes
 ---
 【正解】1 By turning it into a special gas which can then be used as fuel.（それを特別なガスに変え、そのガスを燃料として使えるようにすることによって。）
 【和訳】

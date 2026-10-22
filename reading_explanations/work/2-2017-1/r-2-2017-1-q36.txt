@@ -1,0 +1,28 @@
+---
+choices: They had poor living conditions and often became sick. | They were unable to make enough money to feed their families. | The government did not allow them to get an education. | The government did not provide them with computers.
+answerText: They had poor living conditions and often became sick.
+---
+【正解】1 They had poor living conditions and often became sick.（彼らは生活の環境が悪く、よく病気になった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ザバリーンは、どんな問題に直面しましたか。
+1 彼らは生活の環境が悪く、よく病気になった。
+2 彼らは、家族を養うのに十分なお金をかせぐことができなかった。
+3 政府は、彼らが教育を受けることを許さなかった。
+4 政府は、彼らにコンピューターを支給しなかった。
+【考え方】
+第3段落は Life was not easy for the Zabbaleen.（ザバリーンにとって、生活は楽ではなかった）で始まります。このあとに、どんな苦労があったのかが書かれています。
+Their housing was bad, and they often suffered from poor health.（住まいはひどく、彼らはよく体をこわしていた）
+本文と選択肢を対にすると、次のようになります。
+本文 Their housing was bad ＝ 選択肢 They had poor living conditions
+本文 they often suffered from poor health ＝ 選択肢 often became sick
+housing（住まい）が living conditions（生活の環境）に、suffered from poor health（健康状態の悪さに苦しんだ）が became sick（病気になった）に言いかえられています。よって1が正解です。
+【ほかの選択肢】
+2 家族を養うお金が足りなかったという話は、本文にありません。本文には、ザバリーンがごみを集めて生計を立てていたことと、のちにハイテクの材料のリサイクルで以前より多くのお金をかせげるようになったことが書かれています。
+3 本文には、A school ... were built by the government for the Zabbaleen（政府によってザバリーンのために学校が建てられた）とあり、子どもたちは以前よりよい教育を受けるようになりました。政府が教育を許さなかったのではなく、反対の内容です。
+4 本文に出てくるコンピューターは、ザバリーンがリサイクルした computer parts（コンピューターの部品）です。政府がコンピューターを支給しなかったという話はありません。
+【覚えるポイント】
+・suffer from ～：「～に苦しむ、（病気など）をわずらう」。
+・living conditions：「生活環境、暮らしの状態」。

@@ -1,6 +1,7 @@
 ---
 choices: It was difficult to find workers who were willing to dig it up. | It became harder to transport because fewer boats were being built. | People began to doubt how effective fertilizers were for growing food. | Scientists began to create new types of fertilizers that were less expensive.
 answerText: Scientists began to create new types of fertilizers that were less expensive.
+reviewed: yes
 ---
 【正解】4 Scientists began to create new types of fertilizers that were less expensive.（科学者たちが、より安い新しい種類の肥料を作り始めたから。）
 【和訳】

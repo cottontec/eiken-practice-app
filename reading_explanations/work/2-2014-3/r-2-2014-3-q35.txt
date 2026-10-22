@@ -1,6 +1,7 @@
 ---
 choices: Give her money to pay for her meals while attending the seminar. | Reserve a hotel room for her to stay in during her time in New York. | Help her and the other presenters to find cheap airline tickets. | Organize a special party for all of the participants after the event.
 answerText: Reserve a hotel room for her to stay in during her time in New York.
+reviewed: yes
 ---
 【正解】2 Reserve a hotel room for her to stay in during her time in New York.（ニューヨークにいる間に彼女が泊まるホテルの部屋を予約する。）
 【和訳】

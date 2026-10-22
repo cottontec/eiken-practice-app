@@ -1,6 +1,7 @@
 ---
 choices: needn't | can't | won't | wouldn't
 answerText: needn't
+reviewed: yes
 ---
 【正解】1 needn't（～する必要はない）
 【和訳】

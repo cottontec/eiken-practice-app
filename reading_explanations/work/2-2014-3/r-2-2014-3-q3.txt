@@ -1,6 +1,7 @@
 ---
 choices: sensation | funeral | concept | triumph
 answerText: funeral
+reviewed: yes
 ---
 【正解】2 funeral（葬式）
 【和訳】

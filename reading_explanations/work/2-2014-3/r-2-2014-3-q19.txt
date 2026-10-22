@@ -1,6 +1,7 @@
 ---
 choices: either | neither | another | both
 answerText: neither
+reviewed: yes
 ---
 【正解】2 neither（〔2つのうち〕どちらも～ない）
 【和訳】

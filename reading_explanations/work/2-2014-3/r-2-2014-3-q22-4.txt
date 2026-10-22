@@ -2,6 +2,7 @@
 choices: what | say | you | do | to
 answerText: say
 order: 1 4 3 2 5
+reviewed: yes
 ---
 【正解】2 say（この問題の4番目）
 【完成文】

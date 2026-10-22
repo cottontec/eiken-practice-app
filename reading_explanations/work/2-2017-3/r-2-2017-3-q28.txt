@@ -1,0 +1,30 @@
+---
+choices: It was free for only the first three months. | It comes with free telephone service. | It costs more than the service in Clairton. | It is the fastest available in her neighborhood.
+answerText: It is the fastest available in her neighborhood.
+---
+【正解】4 It is the fastest available in her neighborhood.（それは彼女の住む地域で利用できる中で最も速い。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ニクソンさんの現在のインターネットサービスについて、正しいことは何ですか。
+1 最初の3か月だけ無料だった。
+2 無料の電話サービスが付いている。
+3 クレアトンのサービスより料金が高い。
+4 彼女の住む地域で利用できる中で最も速い。
+【考え方】
+設問の now（現在の）に注意します。本文には「現在のサービス」と「引っ越し先で使えるサービス」の2つが出てくるので、取り違えないようにします。
+第2段落を見ます。
+Right now you have the FlashWeb25 service, which only has Internet speeds of up to 25 Mbps.（現在、お客様はフラッシュウェブ25をご利用で、これは速度が最大でも25Mbpsしかない）
+This is the fastest in your current neighborhood.（これは、今お住まいの地域では最も速いものだ）
+現在のサービスはフラッシュウェブ25で、それが今の地域でいちばん速いと書かれています。
+本文と選択肢を対にすると、次のようになります。
+本文 the fastest in your current neighborhood（今お住まいの地域で最も速い）＝ 選択肢 the fastest available in her neighborhood（彼女の地域で利用できる中で最も速い）
+4が正解です。
+【ほかの選択肢】
+1 本文の the first three months are free（最初の3か月は無料）は、引っ越し先で使えるフラッシュウェブ100についての説明です。現在のサービスのことではありません。
+2 本文の includes free telephone service（無料の電話サービスが付いている）も、フラッシュウェブ100についての説明です。現在のフラッシュウェブ25に電話サービスが付いているとは書かれていません。
+3 本文に The price difference is only $5 more per month（料金の差は月にわずか5ドル高くなるだけ）とあり、クレアトンで使えるフラッシュウェブ100のほうが月5ドル高いと分かります。現在のサービスのほうが高いのではなく、安いと読み取れるので、本文と反対です。
+【覚えるポイント】
+・up to ～：「最大で～まで」。speeds of up to 25 Mbps で「最大25Mbpsの速さ」。
+・current：「現在の」。current neighborhood は「今住んでいる地域」。

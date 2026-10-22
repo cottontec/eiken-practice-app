@@ -1,6 +1,7 @@
 ---
 choices: efficiently | protectively | emotionally | centrally
 answerText: efficiently
+reviewed: yes
 ---
 【正解】1 efficiently（効率よく、むだなく）
 【和訳】

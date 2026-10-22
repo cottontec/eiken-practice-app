@@ -1,6 +1,7 @@
 ---
 choices: recovery | chance | impact | loss
 answerText: impact
+reviewed: yes
 ---
 【正解】3 impact（影響、効果）
 【和訳】

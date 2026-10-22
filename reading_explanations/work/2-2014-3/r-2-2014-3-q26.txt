@@ -1,6 +1,7 @@
 ---
 choices: vitamins | shortages | cost | preparation
 answerText: preparation
+reviewed: yes
 ---
 【正解】4 preparation（調理、準備）
 【和訳】

@@ -2,6 +2,7 @@
 choices: remembered | she | then | only | that
 answerText: then
 order: 4 3 5 2 1
+reviewed: yes
 ---
 【正解】3 then（この問題の2番目）
 【完成文】

@@ -1,6 +1,7 @@
 ---
 choices: important | dangerous | private | entertaining
 answerText: important
+reviewed: yes
 ---
 【正解】1 important（重要な、大切な）
 【和訳】
@@ -13,7 +14,7 @@ answerText: important
 4 entertaining：楽しませる、おもしろい
 【考え方】
 空所の文は Hervé This, however, believes that his research may someday have an even more (　) use.（しかし、エルヴェ・ティスは、自分の研究はいつか、さらに（　）使い道を持つかもしれないと考えている）です。even more ～ は「さらにいっそう～」と、比べてもっと程度が大きいことを表します。use はここでは「使い道、用途」という名詞です。
-however（しかし）があるので、直前の「変わった料理が批評家にもお客さんにも人気になった」という話とは別の方向の話になります。何と比べて「さらに（　）」なのかは、次の文から分かります。
+however（しかし）があるので、直前の「変わった料理が批評家にもお客さんにも人気になった」という話とは別の方向の話になります。どんな使い道なのかは、次の文から分かります。
 The reason is that his research could help solve the global problem of people eating unhealthily.（その理由は、彼の研究が、人々が健康によくない食事をしているという世界的な問題を解決するのに役立つ可能性があるからだ）。さらに、最後の文では、より健康によい食べ物をもっとおいしくすることで、深刻な病気を防ぐ食べ物を人々が選ぶようにしたい、と書かれています。
 人気の料理を作ることより、世界的な健康の問題を解決し、深刻な病気を防ぐことのほうが、さらに大切な使い道だと言えます。important を入れると an even more important use（さらにいっそう重要な使い道）となり、次の文の理由とつながります。正解は1です。
 【ほかの選択肢】

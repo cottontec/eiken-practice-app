@@ -1,6 +1,7 @@
 ---
 choices: on board | for hire | in place | behind schedule
 answerText: behind schedule
+reviewed: yes
 ---
 【正解】4 behind schedule（予定より遅れて）
 【和訳】

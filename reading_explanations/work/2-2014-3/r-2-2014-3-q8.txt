@@ -1,6 +1,7 @@
 ---
 choices: capture | behave | launch | impress
 answerText: launch
+reviewed: yes
 ---
 【正解】3 launch（〔新製品を〕売り出す、発売する）
 【和訳】

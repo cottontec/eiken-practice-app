@@ -1,6 +1,7 @@
 ---
 choices: Make her presentation longer than it was originally supposed to be. | Help Dr. Mendez announce the speakers as they come on stage. | Find someone to replace the professor who canceled his talk. | Give a speech to the other researchers during the lunch break.
 answerText: Make her presentation longer than it was originally supposed to be.
+reviewed: yes
 ---
 【正解】1 Make her presentation longer than it was originally supposed to be.（自分の発表を、もともとの予定よりも長くする。）
 【和訳】

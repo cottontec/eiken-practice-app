@@ -2,6 +2,7 @@
 choices: what | say | you | do | to
 answerText: do
 order: 1 4 3 2 5
+reviewed: yes
 ---
 【正解】4 do（この問題の2番目）
 【完成文】

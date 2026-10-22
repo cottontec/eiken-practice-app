@@ -1,6 +1,7 @@
 ---
 choices: were introduced by a professor that they both know. | graduated from the same university over 10 years ago. | have been sending e-mails to each other for a long time. | have been asked to give a presentation together in England.
 answerText: have been sending e-mails to each other for a long time.
+reviewed: yes
 ---
 【正解】3 have been sending e-mails to each other for a long time.（長い間、おたがいにEメールを送り合っている。）
 【和訳】

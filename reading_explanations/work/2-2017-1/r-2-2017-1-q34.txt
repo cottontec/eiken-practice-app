@@ -1,0 +1,27 @@
+---
+choices: hired a group of people to collect and recycle garbage. | asked its population to make efforts to reduce the amount of garbage. | not provided an official service for dealing with garbage. | not had enough money to pay the people who removed garbage.
+answerText: not provided an official service for dealing with garbage.
+---
+【正解】3 not provided an official service for dealing with garbage.（ごみを処理するための公式のサービスを提供していなかった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：最近まで、カイロ市は
+1 ごみを集めてリサイクルするために、ある人々の集団を雇っていた。
+2 ごみの量を減らす努力をするよう、住民に求めていた。
+3 ごみを処理するための公式のサービスを提供していなかった。
+4 ごみを取り除く人々に支払うための、十分なお金を持っていなかった。
+【考え方】
+設問の Until recently（最近まで）と同じ言い方が、第1段落にあります。
+Yet, until recently, the city had no official system for collecting garbage.（それなのに、最近まで、この市にはごみを集める公式の仕組みがなかった）
+the city はカイロ市のことです。本文と選択肢を対にすると、次のようになります。
+本文 had no official system for collecting garbage ＝ 選択肢 not provided an official service for dealing with garbage
+had no（～がなかった）が not provided（～を提供していなかった）に、system for collecting garbage（ごみを集める仕組み）が service for dealing with garbage（ごみを処理するサービス）に言いかえられています。よって3が正解です。
+【ほかの選択肢】
+1 本文には、ザバリーンが in order to make a living for themselves（自分たちの生計を立てるために）ごみを集めてリサイクルしていたとあります。市がザバリーンを雇ったのではありません。市が雇ったのは、2003年のヨーロッパの2つの会社です。
+2 市が住民にごみを減らす努力を求めたという話は、本文にありません。
+4 市にお金が足りなかったという話は、本文にありません。本文に書かれているのは、公式の仕組みがなかったことです。
+【覚えるポイント】
+・deal with ～：「～を処理する、～に対処する」。
+・official：「公式の、（市や国などが）正式に行う」。

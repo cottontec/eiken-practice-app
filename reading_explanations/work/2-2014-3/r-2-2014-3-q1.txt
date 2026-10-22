@@ -1,6 +1,7 @@
 ---
 choices: citizen | pioneer | commuter | psychologist
 answerText: pioneer
+reviewed: yes
 ---
 【正解】2 pioneer（先駆者、開拓者）
 【和訳】

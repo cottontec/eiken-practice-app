@@ -1,6 +1,7 @@
 ---
 choices: equipment | supplement | percentage | disadvantage
 answerText: disadvantage
+reviewed: yes
 ---
 【正解】4 disadvantage（不利な点、不利な条件）
 【和訳】

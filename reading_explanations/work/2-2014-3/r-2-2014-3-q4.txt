@@ -1,6 +1,7 @@
 ---
 choices: massive | curious | vague | rare
 answerText: vague
+reviewed: yes
 ---
 【正解】3 vague（ぼんやりした、はっきりしない）
 【和訳】

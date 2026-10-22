@@ -1,6 +1,7 @@
 ---
 choices: On the whole | Just in time | In any event | In most cases
 answerText: In any event
+reviewed: yes
 ---
 【正解】3 In any event（いずれにしても、どちらにしても）
 【和訳】

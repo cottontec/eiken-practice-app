@@ -1,0 +1,29 @@
+---
+choices: will be moving to a new place soon. | asked Tom Snyder to add some free services. | is trying to cancel her contract with FlashWeb. | is having trouble with the Internet in her apartment.
+answerText: will be moving to a new place soon.
+---
+【正解】1 will be moving to a new place soon.（もうすぐ新しい場所に引っ越す予定だ。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ニクソンさんは
+1 もうすぐ新しい場所に引っ越す予定だ。
+2 トム・スナイダーに、無料サービスをいくつか追加するよう頼んだ。
+3 フラッシュウェブとの契約を解約しようとしている。
+4 自分のアパートのインターネットで困っている。
+【考え方】
+このEメールは、フラッシュウェブという会社のトム・スナイダー（トーマス・スナイダー）さんが、客のニクソンさんに送ったものです。設問はニクソンさんについて正しいことをたずねています。
+第1段落の最初の文を見ます。
+Thanks for letting us at FlashWeb know that you will be moving next month.（私どもフラッシュウェブに、来月お引っ越しをされることをお知らせくださり、ありがとうございます）
+let ＋人＋ know は「（人）に知らせる」という意味です。ニクソンさんは来月引っ越すことを会社に知らせていたことが分かります。すぐあとにも at your new apartment（新しいアパートで）とあります。
+本文と選択肢を対にすると、次のようになります。
+本文 you will be moving next month（来月引っ越す予定だ）→ 選択肢 will be moving to a new place soon（もうすぐ新しい場所に引っ越す予定だ）
+メールの日付は1月19日なので、「来月」は2月です。それを soon（もうすぐ）と言いかえています。1が正解です。
+【ほかの選択肢】
+2 本文の special upgrades and free services（特別なアップグレードや無料サービス）は、スナイダーさんのほうから提案しているものです。ニクソンさんが無料サービスを追加するよう頼んだとは書かれていないので、人物が違います。
+3 本文に you wish to continue using FlashWeb at your new apartment（新しいアパートで引き続きフラッシュウェブを利用したいと思っている）とあります。解約しようとしているのではなく、使い続けたいと思っているので、本文と反対です。
+4 ニクソンさんのアパートのインターネットに問題が起きているという話は、本文にありません。メールの内容は、引っ越しに合わせたサービスの変更についてです。
+【覚えるポイント】
+・let ＋人＋ know ～：「（人）に～を知らせる」。
+・continue -ing：「～し続ける」。continue using で「使い続ける」。

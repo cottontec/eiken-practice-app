@@ -1,6 +1,7 @@
 ---
 choices: trouble | tourism | interest | employment
 answerText: interest
+reviewed: yes
 ---
 【正解】3 interest（関心、興味）
 【和訳】

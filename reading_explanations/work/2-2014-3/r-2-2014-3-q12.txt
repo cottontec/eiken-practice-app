@@ -1,6 +1,7 @@
 ---
 choices: right away | all around | at present | inside out
 answerText: inside out
+reviewed: yes
 ---
 【正解】4 inside out（裏返しに）
 【和訳】

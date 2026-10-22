@@ -1,6 +1,7 @@
 ---
 choices: reuse the metals and other materials to build new power plants. | result in almost half of the waste buried in the landfill being recycled. | create a new kind of landfill that is safer for the environment. | provide enough materials for thousands of new homes to be built.
 answerText: result in almost half of the waste buried in the landfill being recycled.
+reviewed: yes
 ---
 【正解】2 result in almost half of the waste buried in the landfill being recycled.（埋め立て地に埋められたごみの半分近くがリサイクルされるという結果になる。）
 【和訳】
@@ -17,9 +18,9 @@ APPが自分たちのやり方についてどう言っているかは、第4段�
 2文目に According to the company, about 45 percent of the buried waste can be recycled.（同社によると、埋められたごみのおよそ45パーセントはリサイクルすることができる）とあります。according to ～ は「～によると」、the buried waste は「埋められたごみ」です。
 45パーセントは、100のうち45ということなので、半分（50パーセント）より少し少ない量です。選択肢の almost half（半分近く）は、この45パーセントを言いかえたものです。
 本文と選択肢は次のように対応しています。
-本文 about 45 percent（およそ45パーセント）＝ 選択肢 almost half（半分近く）
+本文 about 45 percent（およそ45パーセント）→ 選択肢 almost half（半分近く）
 本文 the buried waste（埋められたごみ）＝ 選択肢 the waste buried in the landfill（埋め立て地に埋められたごみ）
-本文 can be recycled（リサイクルすることができる）＝ 選択肢 being recycled（リサイクルされること）
+本文 can be recycled（リサイクルすることができる）→ 選択肢 being recycled（リサイクルされること）
 選択肢の result in ～ は「～という結果になる」という意味です。正解は2です。
 【ほかの選択肢】
 1 本文には、リサイクルした金属や材料で発電所を建てるとは書かれていません。電気は、残りのごみから作ったガスを燃やして作ると書かれています。

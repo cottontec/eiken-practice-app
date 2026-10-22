@@ -2,6 +2,7 @@
 choices: early | there | sure | to get | be
 answerText: sure
 order: 5 3 4 2 1
+reviewed: yes
 ---
 【正解】3 sure（この問題の2番目）
 【完成文】

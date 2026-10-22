@@ -1,0 +1,26 @@
+---
+choices: For example | In exchange | Nevertheless | By then
+answerText: In exchange
+---
+【正解】2 In exchange（その見返りに、引き換えに）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 For example（たとえば）
+2 In exchange（その見返りに、引き換えに）
+3 Nevertheless（それにもかかわらず）
+4 By then（その時までには）
+【考え方】
+空所は第3段落の (23), the organization receives the unwanted fruits and vegetables for free. です。空所の前の文とあとの文の関係を考えます。
+・前の文：If the farmers agree, the organization sends volunteers to help pick the crops for them.（農家が同意すれば、団体は、農家のために作物を収穫するのを手伝うボランティアを送る）
+・あとの文：the organization receives the unwanted fruits and vegetables for free（団体は、いらなくなった果物と野菜を無料で受け取る）
+前の文では、団体が農家のために「手伝い」をしています。あとの文では、団体が農家から「果物と野菜」を受け取っています。つまり、手伝いをする代わりに、お金を払わずに作物をもらう、というお互いのやりとりになっています。
+In exchange は「その見返りに、引き換えに」という意味で、何かをしてもらったお返しに別のものを受け取るときに使います。2が正解です。
+【ほかの選択肢】
+1 For example は「たとえば」で、前の内容の具体例を示すときに使います。作物を無料で受け取ることは、ボランティアを送って手伝うことの例ではないので、合いません。
+3 Nevertheless は「それにもかかわらず」で、前の内容から考えると意外な内容が続くときに使います。「手伝いをしたにもかかわらず、無料で作物を受け取る」となり、意味がねじれます。手伝うことと作物を受け取ることは、反対の関係ではありません。
+4 By then は「その時までには」です。前の文に「その時」に当たる特定の時点が示されていないので、何の時までなのかが分からず、つながりません。
+【覚えるポイント】
+・in exchange (for ～)：「（～の）見返りに、（～と）引き換えに」。
+・for free：「無料で」。

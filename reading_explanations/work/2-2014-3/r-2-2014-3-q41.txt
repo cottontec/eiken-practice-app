@@ -1,6 +1,7 @@
 ---
 choices: is created when seabird droppings combine with things in the soil. | is good for crops grown on farms but not for other kinds of plants. | used to be found only on the islands off the coast of South America. | contains a lot of chemicals which are good for plant growth.
 answerText: contains a lot of chemicals which are good for plant growth.
+reviewed: yes
 ---
 【正解】4 contains a lot of chemicals which are good for plant growth.（植物の成長によい化学物質をたくさん含んでいる。）
 【和訳】
@@ -23,7 +24,7 @@ answerText: contains a lot of chemicals which are good for plant growth.
 【ほかの選択肢】
 1 本文では、グアノは the droppings of birds and bats（鳥やコウモリのふん）そのものだと説明されています。ふんが土の中のものと混ざってできるとは書かれていません。
 2 本文には help plants grow（植物の成長を助ける）とあり、植物全般について述べています。農場の作物以外の植物にはよくない、とは書かれていません。
-3 本文の5文目は、海鳥が残した大量のグアノが used to be common in various parts of the world, but especially on islands off the coast of Peru（かつては世界のさまざまな地域でよく見られたが、特に多かったのはペルー沖の島々だった）です。世界のいろいろな地域にあったので、「南アメリカの沖合の島々だけ（only）」は言い切りすぎです。
+3 第1段落の5文目は、海鳥が残した大量のグアノが used to be common in various parts of the world, but especially on islands off the coast of Peru（かつては世界のさまざまな地域でよく見られたが、特に多かったのはペルー沖の島々だった）です。世界のいろいろな地域にあったので、「南アメリカの沖合の島々だけ（only）」は言い切りすぎです。
 【覚えるポイント】
 ・be full of ～：「～でいっぱいである、～をたくさん含んでいる」。
 ・help ～ grow：「～が育つのを助ける」。help plants grow で「植物の成長を助ける」。

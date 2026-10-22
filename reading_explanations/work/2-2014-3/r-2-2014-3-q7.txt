@@ -1,6 +1,7 @@
 ---
 choices: budget | remark | shift | circuit
 answerText: budget
+reviewed: yes
 ---
 【正解】1 budget（予算）
 【和訳】
