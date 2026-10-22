@@ -1,0 +1,28 @@
+---
+choices: abort | summon | mold | stumble
+answerText: abort
+---
+【正解】1 abort（〈計画などを〉中止する、とりやめる）
+【和訳】
+（英文）
+Just before takeoff, the flight instructor decided to ［abort］ his student's training flight because of bad weather. He rescheduled it for another day.
+（訳）
+離陸の直前に、飛行教官は悪天候のため、生徒の訓練飛行を（中止する）ことにした。教官は、その飛行を別の日に予定し直した。
+（選択肢の意味）
+1 abort：（計画などを）中止する、とりやめる
+2 summon：呼び出す、呼び集める
+3 mold：形作る、型に入れて作る
+4 stumble：つまずく
+【考え方】
+まず見るところ：空所の後ろの because of bad weather と、次の文の He rescheduled it for another day.
+離陸の直前に、教官は悪天候のため、生徒の訓練飛行を〇〇することにしました。悪天候は、飛行をやめる理由になります。次の文で確かめます。
+He rescheduled it for another day.（彼はそれを別の日に予定し直した）
+reschedule は「予定を変更する、予定し直す」です。別の日に予定し直したということは、その日の飛行はとりやめたということです。abort は「（計画などを）中止する」なので、1が正解です。
+この問題の型：因果（悪天候のため → 中止して別の日に）
+【ほかの選択肢】
+2 summon は「呼び出す」です。「訓練飛行を呼び出す」では、別の日に予定し直したこととつながりません。
+3 mold は「形作る」です。「訓練飛行を形作る」では意味が通りません。
+4 stumble は「つまずく」で、ふつうはあとに目的語（〜を）をとらない動詞です。「訓練飛行をつまずく」とは言えません。
+【覚えるポイント】
+・abort：「（計画などを）中止する」。reschedule ～ for another day：「～を別の日に予定し直す」。
+・次の文に rescheduled（予定し直した）があるときは、その前で予定が「中止」や「延期」になったことを表す語が入る手がかりになります。
