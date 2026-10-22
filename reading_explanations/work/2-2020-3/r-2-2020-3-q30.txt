@@ -1,6 +1,7 @@
 ---
 choices: Other fish swim to deep areas of the ocean in order to catch them. | People and many other animals may actually have evolved from them. | They are the ancestors of all modern fish that do not have backbones. | They are a type of snake that does not have any teeth or a tongue.
 answerText: People and many other animals may actually have evolved from them.
+reviewed: yes
 ---
 【正解】2 People and many other animals may actually have evolved from them.（人間やほかの多くの動物は、実はヌタウナギから進化したのかもしれない。）
 【和訳】

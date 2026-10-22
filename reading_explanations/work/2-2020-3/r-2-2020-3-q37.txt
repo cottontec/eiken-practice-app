@@ -1,6 +1,7 @@
 ---
 choices: By trying to recycle small electronics instead of throwing them away. | By replacing their old phones with ones that run more efficiently. | By increasing the number of large appliances used for recycling. | By leaving devices that contain gold and silver in landfills.
 answerText: By trying to recycle small electronics instead of throwing them away.
+reviewed: yes
 ---
 【正解】1 By trying to recycle small electronics instead of throwing them away.（小さな電子機器を捨てずに、リサイクルしようとすることによって。）
 【和訳】

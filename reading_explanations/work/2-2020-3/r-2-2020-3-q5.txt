@@ -1,14 +1,15 @@
 ---
 choices: duties | narrations | witnesses | elements
 answerText: elements
+reviewed: yes
 ---
 【正解】4 elements（元素〔element の複数形〕）
 【和訳】
 理科の授業で、生徒たちは自然の中に見られる（元素）の名前を学びます。生徒たちは、CO2（二酸化炭素）が炭素と酸素からできていることを知っていなければなりません。
 （選択肢の意味）1 義務、仕事　2 語り、ナレーション　3 目撃者、証人　4 元素、要素
 【考え方】
-2文目の They have to know that CO2 is made of carbon and oxygen.（彼らは、CO2が炭素と酸素からできていることを知っていなければならない）に注目します。be made of ～ は「～でできている」という意味です。
-carbon（炭素）や oxygen（酸素）は、物質をつくるもとになる基本の成分です。このような成分を element（元素）と言います。the names of the elements that can be found in nature で「自然の中に見られる元素の名前」となり、炭素や酸素の名前を学ぶという2文目とつながります。ですから4が正解です。
+次の文 They have to know that CO2 is made of carbon and oxygen.（彼らは、CO2が炭素と酸素からできていることを知っていなければならない）に注目します。be made of ～ は「～でできている」という意味です。
+carbon（炭素）や oxygen（酸素）は、物質をつくるもとになる基本の成分です。このような成分を element（元素）と言います。the names of the elements that can be found in nature で「自然の中に見られる元素の名前」となり、炭素や酸素の名前を学ぶという次の文とつながります。ですから4が正解です。
 【ほかの選択肢】
 1 duties は duty（義務、仕事）の複数形です。「自然の中に見られる義務の名前」となり、炭素や酸素の話とつながりません。
 2 narrations は narration（語り、ナレーション）の複数形です。「自然の中に見られるナレーションの名前」では意味が通りません。

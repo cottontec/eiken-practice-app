@@ -1,6 +1,7 @@
 ---
 choices: that | if | how | why
 answerText: that
+reviewed: yes
 ---
 【正解】1 that（It is ～ that …：…なのは～だ）
 【和訳】

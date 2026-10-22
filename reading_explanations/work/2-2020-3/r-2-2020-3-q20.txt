@@ -1,6 +1,7 @@
 ---
 choices: What about | What for | How come | Why not
 answerText: Why not
+reviewed: yes
 ---
 【正解】4 Why not（Why not ～?：～してはどうですか）
 【和訳】

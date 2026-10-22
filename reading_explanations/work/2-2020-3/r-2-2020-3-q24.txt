@@ -1,6 +1,7 @@
 ---
 choices: Without this | At the same time | After a while | Indeed
 answerText: At the same time
+reviewed: yes
 ---
 【正解】2 At the same time（同時に）
 【和訳】
@@ -17,7 +18,7 @@ answerText: At the same time
 空所のあとは、再生可能エネルギーをつくることが求められているという、別の話です。そして、ソーラーパネルが多くの場所を取るという2つ目の問題が出てきます。
 さらに、段落の最後の文に注目します。
 To solve both these problems at once, researchers have recently come up with a way to combine solar power and crop production.（これら両方の問題を一度に解決するために、研究者たちは最近、太陽光発電と作物の生産を組み合わせる方法を考え出した）
-「両方の問題を一度に」とあるので、食料の問題とエネルギーの問題が、同じ時期に起きていると分かります。At the same time は「同時に」という意味で、1つ目の問題と並んで、同じころにもう1つの問題が起きていることを示します。ですから2が正解です。
+「両方の問題を一度に」とあるので、食料の問題とエネルギーの問題が、同じ時期に起きていると考えられます。At the same time は「同時に」という意味で、1つ目の問題と並んで、同じころにもう1つの問題が起きていることを示します。ですから2が正解です。
 【ほかの選択肢】
 1 Without this は「これがなければ」です。「農地が暑く乾燥しすぎていることがなければ、再生可能エネルギーへの圧力が高まっている」となり、意味がつながりません。
 3 After a while は「しばらくして」で、時間がたってから次のことが起こるときに使います。本文では、2つの問題はどちらも今起きていることとして書かれていて、「両方の問題を一度に解決する」とあるので、時間の順番の話ではありません。

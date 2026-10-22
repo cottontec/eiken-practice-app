@@ -1,6 +1,7 @@
 ---
 choices: A lot of living things need metals from the ground in order to survive. | A lot of the electricity that is used in the process causes fires. | The majority of metals are thrown away and take up space in landfills. | The process leads to the release of dangerous substances.
 answerText: The process leads to the release of dangerous substances.
+reviewed: yes
 ---
 【正解】4 The process leads to the release of dangerous substances.（その過程によって、危険な物質が放出される。）
 【和訳】

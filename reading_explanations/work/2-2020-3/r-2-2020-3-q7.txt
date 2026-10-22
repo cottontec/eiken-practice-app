@@ -1,6 +1,7 @@
 ---
 choices: mysteries | detectives | compliments | structures
 answerText: compliments
+reviewed: yes
 ---
 【正解】3 compliments（ほめ言葉〔compliment の複数形〕）
 【和訳】
@@ -17,4 +18,4 @@ Aは「美術展の人たちはあなたの絵を気に入ったか」とたず�
 4 structures は structure（構造、建物）の複数形です。「たくさんの構造をもらった」では意味が通らず、絵の感想の話にもなりません。
 【覚えるポイント】
 ・compliment：「ほめ言葉」。pay ～ a compliment で「～をほめる」という意味になります。
-・the most ～ that ＋人＋ have seen：「（人）が今まで見た中でいちばん～」。in a long time は「ここしばらくの間で、長い間で」です。
+・the most ～ ＋人＋ had seen：「（人）がそれまでに見た中でいちばん～」。in a long time は「ここしばらくの間で、長い間で」です。

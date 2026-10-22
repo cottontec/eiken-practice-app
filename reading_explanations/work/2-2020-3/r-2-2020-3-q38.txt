@@ -1,6 +1,7 @@
 ---
 choices: George Washington introduced the idea of recycling iron to the United States. | There was an increase in the need for metals during the 19th century. | Metals can reduce the amount of poisons released by electricity production. | Companies spend about $60 million each year on gold for new smartphones.
 answerText: There was an increase in the need for metals during the 19th century.
+reviewed: yes
 ---
 【正解】2 There was an increase in the need for metals during the 19th century.（19世紀の間に、金属の必要性が高まった。）
 【和訳】

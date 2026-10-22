@@ -1,6 +1,7 @@
 ---
 choices: during the warm months | together with friends | in order to keep fit | while staying safe
 answerText: while staying safe
+reviewed: yes
 ---
 【正解】4 while staying safe（安全を保ちながら）
 【和訳】

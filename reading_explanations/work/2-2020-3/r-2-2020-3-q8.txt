@@ -1,6 +1,7 @@
 ---
 choices: vary | navigate | pause | struggle
 answerText: vary
+reviewed: yes
 ---
 【正解】1 vary（変わる、さまざまである）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: damages crops | is difficult to find | attracts more insects | makes vegetables taste bad
 answerText: damages crops
+reviewed: yes
 ---
 【正解】1 damages crops（作物を傷める）
 【和訳】

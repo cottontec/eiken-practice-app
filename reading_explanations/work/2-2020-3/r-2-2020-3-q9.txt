@@ -1,6 +1,7 @@
 ---
 choices: publishes | divides | scratches | attaches
 answerText: divides
+reviewed: yes
 ---
 【正解】2 divides（分ける〔divide の3人称単数現在形〕）
 【和訳】
@@ -8,7 +9,7 @@ answerText: divides
 （選択肢の意味）1 出版する　2 分ける　3 ひっかく　4 取り付ける、添付する
 【考え方】
 空所のあとの her time between working at a bank and taking care of her children に注目します。between A and B は「AとBの間で」という意味です。ここでは「銀行で働くこと」と「子どもたちの世話をすること」の2つが並んでいます。
-2文目の She would like to spend more time at home, but she also needs to make money.（もっと家で過ごしたいが、お金をかせぐ必要もある）からも、カレンが仕事と子育ての両方に時間を使っていることが分かります。
+次の文 She would like to spend more time at home, but she also needs to make money.（もっと家で過ごしたいが、お金をかせぐ必要もある）からも、カレンが仕事と子育ての両方に時間を使っていることが分かります。
 divide A between B and C で「AをBとCに分ける」という意味になります。divides her time between ～ and … で「自分の時間を～と…に分けている」となり、文の流れに合います。ですから2が正解です。主語の Karen は1人なので、動詞に -s が付いています。
 【ほかの選択肢】
 1 publishes は publish（出版する）です。「自分の時間を仕事と子育ての間で出版する」となり、意味が通りません。

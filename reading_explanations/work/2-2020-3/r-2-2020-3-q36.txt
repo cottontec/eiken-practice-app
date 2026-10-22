@@ -1,6 +1,7 @@
 ---
 choices: people started to make companies that specialized in recycling. | it became faster and more efficient to use metals to make money. | product makers made more money by reducing production costs. | businesses began to make goods that quickly became useless.
 answerText: businesses began to make goods that quickly became useless.
+reviewed: yes
 ---
 【正解】4 businesses began to make goods that quickly became useless.（企業は、すぐに役に立たなくなる商品を作り始めた。）
 【和訳】

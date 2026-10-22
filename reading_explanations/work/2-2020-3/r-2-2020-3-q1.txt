@@ -1,6 +1,7 @@
 ---
 choices: marine | amusing | native | silent
 answerText: amusing
+reviewed: yes
 ---
 【正解】2 amusing（おもしろい、愉快な）
 【和訳】

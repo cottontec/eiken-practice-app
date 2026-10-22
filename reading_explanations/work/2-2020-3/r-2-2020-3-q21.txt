@@ -1,6 +1,7 @@
 ---
 choices: reducing electricity use | causing new problems | growing in popularity | improving the environment
 answerText: growing in popularity
+reviewed: yes
 ---
 【正解】3 growing in popularity（人気が高まっている）
 【和訳】

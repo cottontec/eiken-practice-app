@@ -1,6 +1,7 @@
 ---
 choices: behind its back | against its will | at its best | in its opinion
 answerText: at its best
+reviewed: yes
 ---
 【正解】3 at its best（いちばんよい状態で）
 【和訳】

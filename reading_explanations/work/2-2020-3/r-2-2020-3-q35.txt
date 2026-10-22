@@ -1,6 +1,7 @@
 ---
 choices: Because weapons were needed for wars against the United States. | Because it was easier than separating new metals from rock. | In order to mix them with rocks to make them stronger. | In order to reuse them to make new statues of their war heroes.
 answerText: Because it was easier than separating new metals from rock.
+reviewed: yes
 ---
 【正解】2 Because it was easier than separating new metals from rock.（岩石から新しい金属を取り分けるより簡単だったから。）
 【和訳】

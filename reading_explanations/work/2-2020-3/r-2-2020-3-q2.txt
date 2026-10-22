@@ -1,6 +1,7 @@
 ---
 choices: seriously | instantly | currently | especially
 answerText: currently
+reviewed: yes
 ---
 【正解】3 currently（現在は、今のところ）
 【和訳】

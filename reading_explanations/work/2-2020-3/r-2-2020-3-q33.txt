@@ -1,6 +1,7 @@
 ---
 choices: They could be used to develop a material that is better for the environment. | They could break down nylon fibers that are polluting the sea. | They could help clean up fossil fuels that spill in laboratories. | They could be easily changed to produce very strong silk for the fashion industry.
 answerText: They could be used to develop a material that is better for the environment.
+reviewed: yes
 ---
 【正解】1 They could be used to develop a material that is better for the environment.（環境にもっとよい素材を開発するのに使われるかもしれない。）
 【和訳】

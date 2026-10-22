@@ -1,14 +1,15 @@
 ---
 choices: up and down | now and then | all the way | not at all
 answerText: now and then
+reviewed: yes
 ---
 【正解】2 now and then（ときどき）
 【和訳】
 ワカコは幼い女の子だったころ、毎日バレエをしていました。最近は、とても忙しいので、（ときどき）しかバレエをしていません。
 （選択肢の意味）1 上下に、行ったり来たり　2 ときどき　3 はるばる、ずっと　4 まったく～ない
 【考え方】
-1文目の she used to do ballet every day（以前は毎日バレエをしていた）に注目します。used to ～ は「以前はよく～していた」と、今はちがう昔のことを表します。
-2文目は These days（最近は）と今の話に変わり、she only does it (　) because she is very busy（とても忙しいので（　）しかしない）と続きます。only は「～だけ、～しか…ない」という意味です。
+最初の文の she used to do ballet every day（以前は毎日バレエをしていた）に注目します。used to ～ は「以前はよく～していた」と、今はちがう昔のことを表します。
+次の文は These days（最近は）と今の話に変わり、she only does it (　) because she is very busy（とても忙しいので（　）しかしない）と続きます。only は「～だけ、～しか…ない」という意味です。
 「昔は毎日」→「今は忙しいので、（毎日ではなく）少ししかしない」という流れになるはずです。now and then は「ときどき」という意味なので、only does it now and then で「ときどきしかしない」となります。ですから2が正解です。
 【ほかの選択肢】
 1 up and down は「上下に、行ったり来たり」です。「上下にだけバレエをする」では、忙しくなって回数が減ったという話になりません。

@@ -1,6 +1,7 @@
 ---
 choices: started going to Berkton Middle School. | received a bad grade in math class. | got a new math teacher at school. | was not well enough to attend classes.
 answerText: was not well enough to attend classes.
+reviewed: yes
 ---
 【正解】4 was not well enough to attend classes.（授業に出られるほど体調がよくなかった。）
 【和訳】

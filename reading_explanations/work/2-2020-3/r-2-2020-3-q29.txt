@@ -1,6 +1,7 @@
 ---
 choices: Read some books in the school library. | Get some extra help with her math studies. | Ask her mother to help with her homework. | Go to West Bridgeville College for special lessons.
 answerText: Get some extra help with her math studies.
+reviewed: yes
 ---
 【正解】2 Get some extra help with her math studies.（数学の勉強について、追加の手助けを受けること。）
 【和訳】

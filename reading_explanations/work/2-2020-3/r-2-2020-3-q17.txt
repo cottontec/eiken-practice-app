@@ -1,6 +1,7 @@
 ---
 choices: ashamed of | rid of | accustomed to | familiar to
 answerText: ashamed of
+reviewed: yes
 ---
 【正解】1 ashamed of（be ashamed of ～：～を恥ずかしく思う）
 【和訳】

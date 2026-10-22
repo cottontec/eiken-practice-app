@@ -1,6 +1,7 @@
 ---
 choices: By expanding their bodies so that they appear much larger. | By shooting out thin fibers that make holes in the bodies of other fish. | By releasing a liquid from their bodies that changes in seawater. | By covering other fish with a jelly that makes it hard to see.
 answerText: By releasing a liquid from their bodies that changes in seawater.
+reviewed: yes
 ---
 【正解】3 By releasing a liquid from their bodies that changes in seawater.（海水の中で変化する液体を、体から出すことによって。）
 【和訳】
@@ -19,7 +20,7 @@ When hagfish are attacked, they shoot out this liquid from small holes in the si
 When the liquid mixes with seawater, it rapidly expands, turning into a kind of jelly.（その液体は海水と混ざると急速にふくらみ、一種のゼリーに変わる）
 本文と選択肢を対にすると、次のようになります。
 本文 shoot out this liquid from small holes in the sides of their bodies（体の側面の小さな穴からこの液体を勢いよく出す）＝ 選択肢 releasing a liquid from their bodies（体から液体を出す）
-本文 When the liquid mixes with seawater, it rapidly expands, turning into a kind of jelly（液体は海水と混ざると急速にふくらみ、ゼリーに変わる）＝ 選択肢 that changes in seawater（海水の中で変化する）
+本文 When the liquid mixes with seawater, it rapidly expands, turning into a kind of jelly（液体は海水と混ざると急速にふくらみ、ゼリーに変わる）→ 選択肢 that changes in seawater（海水の中で変化する）
 release は「出す、放つ」という意味です。ですから3が正解です。
 【ほかの選択肢】
 1 本文でふくらむ（expands）のは、ヌタウナギの体ではなく、海水と混ざった液体です。体を大きく見せるという話は本文にありません。

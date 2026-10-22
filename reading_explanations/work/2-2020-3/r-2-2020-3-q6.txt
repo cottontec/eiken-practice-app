@@ -1,6 +1,7 @@
 ---
 choices: rating | sense | basis | charge
 answerText: basis
+reviewed: yes
 ---
 【正解】3 basis（基準、方式〔on a ～ basis：～の形で〕）
 【和訳】
