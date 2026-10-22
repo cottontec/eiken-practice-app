@@ -1,0 +1,28 @@
+---
+choices: Most birds like to visit new places when migrating. | Most birds stop flying to Florida when they are five years old. | Younger birds prefer not to fly together with older birds. | Younger birds are able to gain an important skill from older ones.
+answerText: Younger birds are able to gain an important skill from older ones.
+---
+【正解】4 Younger birds are able to gain an important skill from older ones.（年下の鳥は、年上の鳥から大切な技術を身につけることができる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：データが示していたことの1つは何ですか。
+1 ほとんどの鳥は、渡りをするときに新しい場所を訪れるのが好きだ。
+2 ほとんどの鳥は、5歳になるとフロリダ州へ飛ぶのをやめる。
+3 年下の鳥は、年上の鳥といっしょに飛ばないほうを好む。
+4 年下の鳥は、年上の鳥から大切な技術を身につけることができる。
+【考え方】
+データを分析した結果は、第4段落に書かれています。設問の suggested（示した、うかがわせた）と同じ語が、段落の後半に出てきます。
+Moreover, when an older bird was in a group, the whole group flew more directly.（さらに、年上の鳥が群れの中にいると、群れ全体が（年上の鳥がいないときよりも）より真っすぐに飛んだ）
+This suggests that the older birds taught the younger ones a quicker route.（このことは、年上の鳥が年下の鳥たちに、より早く着くルートを教えたことをうかがわせる）
+older（より年上の）、younger（より年下の）、quicker（より早い）は、どれも2つを比べる形です。the younger ones の ones は birds（鳥）を表しています。年上の鳥が年下の鳥に、早く着くルートを教えたと考えられる、というのがデータから分かったことです。本文と選択肢の対応は次のとおりです。
+本文 the older birds taught the younger ones a quicker route（年上の鳥が年下の鳥に、より早く着くルートを教えた）→ 選択肢 Younger birds are able to gain an important skill from older ones（年下の鳥は、年上の鳥から大切な技術を身につけることができる）
+「より早く着くルートを教えてもらう」ことが、「年上の鳥から大切な技術を身につける」と言いかえられています。正解は4です。
+【ほかの選択肢】
+1 本文には These showed that each bird took a very different route.（それぞれの鳥がまったく違うルートを通っていた）とありますが、鳥が新しい場所を訪れるのを好むとは書かれていません。また、年をとるにつれて真っすぐに飛ぶようになった、とあります。
+2 本文の This continued until they were five years old.（これは5歳になるまで続いた）の This は、「年をとるにつれて、ますます真っすぐに飛ぶようになった」ことを指しています。5歳になるとフロリダ州へ飛ぶのをやめる、という意味ではありません。
+3 本文には、年上の鳥が群れの中にいると群れ全体がより真っすぐに飛んだ、とあります。年下の鳥が年上の鳥といっしょに飛ぶのをいやがるという話はありません。
+【覚えるポイント】
+・This suggests that ～：「このことは～ということをうかがわせる（示している）」。はっきり証明されたわけではないが、そう考えられる、というときによく使われます。
+・more and more ～：「ますます～」。例：more and more directly（ますます真っすぐに）。

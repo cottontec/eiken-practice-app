@@ -1,0 +1,21 @@
+---
+choices: angle | account | payment | production
+answerText: account
+---
+【正解】2 account（on account of ～ で「～のために、～が原因で」）
+【和訳】
+A：トンプソンさん、高速道路のひどい渋滞（のために）遅れている、という電話がたくさんの人からありました。
+B：ああ、分かりました。それなら、会議を10時30分に変えましょう。
+（選択肢の意味）1 角度　2 説明、理由（on account of ～ で「～のために」）　3 支払い　4 生産
+【考え方】
+空所の前後を見ると、on (　) of the heavy traffic on the highway（高速道路のひどい渋滞の（　））という形になっています。前には they're running late（彼らは遅れている）とあります。
+遅れているのは、渋滞が原因だと考えられます。そこで、空所には「～のために、～が原因で」という理由を表す言い方が入ると考えます。
+on account of ～ は「～のために、～が原因で」という決まった言い方で、because of ～ とほぼ同じ意味です。running late on account of the heavy traffic で「ひどい渋滞のために遅れている」となります。
+Bも In that case（それなら）と言って、会議の時間を変えようとしているので、話がつながります。よって2が正解です。
+【ほかの選択肢】
+1 angle は「角度」です。on angle of ～ という言い方はなく、遅れている理由を表せません。
+3 payment は「支払い」です。on payment of ～ は「～を支払うと」という意味になり、渋滞と組み合わせても意味が通りません。
+4 production は「生産」です。on production of ～ という言い方で理由を表すことはできず、渋滞の話と合いません。
+【覚えるポイント】
+・on account of ～：「～のために、～が原因で」。because of ～ とほぼ同じ意味です。
+・run late：「（予定より）遅れる」。

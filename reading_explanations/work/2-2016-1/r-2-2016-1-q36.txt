@@ -1,0 +1,30 @@
+---
+choices: a combination of writing and typing is the best way to help children learn. | the brain has a hard time handling information when a person is writing. | children who are typing use fewer parts of the brain than children who are writing by hand. | most people prefer to write letters to their children by computer rather than by hand.
+answerText: children who are typing use fewer parts of the brain than children who are writing by hand.
+---
+【正解】3 children who are typing use fewer parts of the brain than children who are writing by hand.（キーボードで打っている子どもは、手で書いている子どもより、脳の使う部分が少ない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：カリン・ジェームズは、～ことを発見した。
+1 手で書くこととキーボードで打つことを組み合わせるのが、子どもの学習を助けるいちばんよい方法である
+2 人が書いているとき、脳は情報を処理するのに苦労する
+3 キーボードで打っている子どもは、手で書いている子どもより、脳の使う部分が少ない
+4 ほとんどの人は、自分の子どもへの手紙を手で書くより、コンピューターで書くほうを好む
+【考え方】
+カリン・ジェームズの研究は、第3段落に書かれています。
+Karin James ... studied the brains of children when they were writing letters by hand and when they were typing.（カリン・ジェームズは、子どもたちが手で文字を書いているときと、キーボードで打っているときの脳を調べた）
+She found that children who wrote letters by hand used an additional three parts of the brain that children who were typing did not.（彼女は、手で文字を書いた子どもたちは、キーボードで打っていた子どもたちが使わなかった脳の部分を、さらに3か所使っていたことを発見した）
+an additional three parts は「さらに3つの部分」という意味です。that children who were typing did not の that は、前の three parts of the brain に説明を付け足す関係代名詞（前の名詞に説明を付け足す働きをする語）で、「キーボードで打っていた子どもたちが（使わ）なかった3つの部分」となります。
+つまり、手で書いた子どもは、キーボードで打った子どもが使わない部分まで使っていたのです。これを打っている子どものほうから見ると、「打っている子どもは、手で書いている子どもより使う脳の部分が少ない」ということになります。
+本文と選択肢を対にすると、次のようになります。
+本文 children who wrote letters by hand used an additional three parts of the brain that children who were typing did not（手で書いた子どもは、打っていた子どもが使わなかった部分をさらに3か所使った）＝ 選択肢 children who are typing use fewer parts of the brain than children who are writing by hand（打っている子どもは、手で書いている子どもより使う脳の部分が少ない）
+同じことを、比べる側を入れかえて言いかえています。ですから3が正解です。
+【ほかの選択肢】
+1 手で書くこととキーボードで打つことを組み合わせるのがいちばんよい、という話は本文にありません。ジェームズは、手で書くときと打つときの脳の違いを調べています。
+2 本文では、手で書いた子どものほうが脳のより多くの部分を使っていたと書かれています。書いているときに脳が情報の処理に苦労する、という話は本文にありません。
+4 本文の writing letters by hand の letters は「文字」という意味で、「手紙」のことではありません。また、多くの人が子どもへの手紙をコンピューターで書きたがる、という話も本文にありません。
+【覚えるポイント】
+・letter には「文字」と「手紙」の2つの意味があります。文の流れから、どちらの意味かを判断します。
+・fewer ～ than ...：「…より少ない～」。数えられる名詞（parts など）には fewer を使います。

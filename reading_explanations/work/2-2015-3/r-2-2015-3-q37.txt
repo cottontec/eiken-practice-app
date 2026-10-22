@@ -1,0 +1,29 @@
+---
+choices: How they are able to migrate successfully. | Why they migrate to warmer places. | When they start migrating each year. | Whether some birds fly faster than others.
+answerText: How they are able to migrate successfully.
+---
+【正解】1 How they are able to migrate successfully.（どうやってうまく渡りをすることができるのか。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：科学者たちが鳥について知りたいと思っていることの1つは何ですか。
+1 どうやってうまく渡りをすることができるのか。
+2 なぜ（今いる場所より）暖かい場所へ渡りをするのか。
+3 毎年いつ渡りを始めるのか。
+4 ほかの鳥より速く飛ぶ鳥がいるかどうか。
+【考え方】
+第1段落で、まず migrate（渡りをする）の意味が説明されています。every year they fly somewhere warm in the winter and then return to the place they came from in the spring（毎年、冬にはどこか暖かいところへ飛んでいき、春になると元いた場所に戻ってくる）ということです。
+そのあとに、科学者たちが知りたいと思っている「なぞ」が書かれています。
+One mystery is how birds know how to travel such long distances without getting lost.（1つのなぞは、鳥たちが、迷わずにそれほど長い距離を移動する方法をどうやって知るのか、ということだ）
+Scientists have wondered for years whether they are born with the knowledge of where to go or whether they learn it after they are born.（科学者たちは何年もの間、鳥はどこへ行けばよいかという知識を持って生まれてくるのか、それとも生まれたあとでそれを身につけるのか、と疑問に思ってきた）
+科学者たちが知りたいのは、鳥が長い距離を迷わずに移動できるしくみです。本文と選択肢の対応は次のとおりです。
+本文 how birds know how to travel such long distances without getting lost（鳥たちが、迷わずに長い距離を移動する方法をどうやって知るのか）→ 選択肢 How they are able to migrate successfully（どうやってうまく渡りをすることができるのか）
+「迷わずに長い距離を移動する」ことが、「うまく渡りをする」と言いかえられています。正解は1です。
+【ほかの選択肢】
+2 本文で warm（暖かい）が出てくるのは、migrate という語の意味を説明する部分です。鳥が「なぜ」暖かい場所へ行くのかを科学者が知りたがっている、とは書かれていません。
+3 本文には in the winter（冬に）、in the spring（春に）とありますが、これも渡りの説明です。渡りを始める時期を知りたいという話はありません。
+4 本文に出てくるのは、年上の鳥がいると群れが more directly（より真っすぐに）飛び、a quicker route（より早く着くルート）を通ったという話です。これはルートについての話で、鳥ごとの飛ぶ速さを比べたいという話ではありません。
+【覚えるポイント】
+・migrate：「（鳥などが季節によって）渡りをする、移動する」。名詞は migration（渡り）。
+・without getting lost：「迷わずに」。get lost は「道に迷う」。

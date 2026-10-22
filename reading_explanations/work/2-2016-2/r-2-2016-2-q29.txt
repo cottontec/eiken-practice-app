@@ -1,0 +1,30 @@
+---
+choices: sending Jenny Myers an e-mail with their bank information. | mailing their payment and a renewal form to the country club. | going to the country club and filling out a payment form. | using the online payment system on the country club's website.
+answerText: using the online payment system on the country club's website.
+---
+【正解】4 using the online payment system on the country club's website.（カントリークラブのウェブサイトのオンライン支払いのしくみを使うこと〔によって〕。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：会員は、会員資格の料金を…ことによって支払うことができる。
+1 銀行の情報を書いたメールをジェニー・マイヤーズに送る
+2 支払うお金と更新用紙をカントリークラブに郵送する
+3 カントリークラブに行って、支払い用紙に記入する
+4 カントリークラブのウェブサイトのオンライン支払いのしくみを使う
+【考え方】
+設問は「会員は何によって料金を支払えるか」です。支払いの方法は第3段落に書かれています。
+まず、オンラインでの方法です。
+You can do so now online at www.myrtlecountryclub.com by clicking "Renew" on the "Membership" page. Then, follow the instructions and make the payment online.（今すぐ www.myrtlecountryclub.com でオンラインで更新できる。「会員資格」のページで「更新」をクリックする。その後、指示に従ってオンラインで支払う）
+次に、郵送での方法です。
+If you prefer to renew by mail, print out the renewal form attached to this e-mail, fill it out, and send it to us. You can then make your payment by bank transfer.（郵送での更新を希望する場合は、このメールに添付された更新用紙を印刷し、記入して、こちらへ送る。そのうえで、銀行振込で支払える）
+つまり、支払い方法は「オンラインで支払う」か「（用紙を郵送したうえで）銀行振込で支払う」かのどちらかです。
+本文 make the payment online（ウェブサイトの手順に従ってオンラインで支払う）＝ 選択肢 using the online payment system on the country club's website
+ですから、4が正解です。
+【ほかの選択肢】
+1 メールで銀行の情報を送るという方法は書かれていません。銀行が出てくるのは、郵送で更新する人が bank transfer（銀行振込）で支払う、という部分だけです。
+2 郵送するのは更新用紙だけで、支払いは bank transfer（銀行振込）で行うと書かれています。「支払うお金を用紙と一緒に郵送する」とは書かれていないので、一部だけが本文と合っています。
+3 カントリークラブに行って支払い用紙に記入するという方法は、本文にありません。用紙に記入するのは、メールに添付された更新用紙を印刷して郵送する場合です。
+【覚えるポイント】
+・make a payment：「支払いをする」。make the payment online で「オンラインで支払う」。
+・bank transfer：「銀行振込（銀行を通してお金を相手の口座に送ること）」。

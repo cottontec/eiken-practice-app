@@ -1,0 +1,28 @@
+---
+choices: They want to observe how the mothers take care of their young. | They are worried that the birds will fall down many times. | Whooping cranes' eggs need to be watched constantly. | Whooping cranes are bad at raising their own young.
+answerText: Whooping cranes are bad at raising their own young.
+---
+【正解】4 Whooping cranes are bad at raising their own young.（アメリカシロヅルは、自分のひなを育てるのが苦手である。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：アメリカシロヅル東部パートナーシップ（Whooping Crane Eastern Partnership）の科学者たちが、アメリカシロヅルを育てている理由の1つは何ですか。
+1 母鳥がどのようにひなの世話をするのかを観察したいから。
+2 鳥たちが何度も落ちてしまうのではないかと心配しているから。
+3 アメリカシロヅルの卵は、たえず見守られている必要があるから。
+4 アメリカシロヅルは、自分のひなを育てるのが苦手だから。
+【考え方】
+設問の raise（育てる）という語を、本文で探します。第2段落の終わりにあります。
+However, the birds are not very good at taking care of their young.（しかし、この鳥は、自分のひなの世話をするのがあまり得意ではない）
+Because of this, eggs are brought to a site in Maryland. There, scientists from the Whooping Crane Eastern Partnership raise the baby birds.（このため、卵はメリーランド州のある場所に運ばれる。そこで、アメリカシロヅル東部パートナーシップの科学者たちが、ひなを育てる）
+young はここでは名詞で、「（動物の）子ども、ひな」という意味です。Because of this（このため）の this は、直前の「ひなの世話があまり得意ではない」ことを指しています。つまり、鳥が自分でひなをうまく育てられないので、科学者たちが代わりに育てているのです。本文と選択肢の対応は次のとおりです。
+本文 not very good at taking care of their young（ひなの世話をするのがあまり得意ではない）＝ 選択肢 bad at raising their own young（自分のひなを育てるのが苦手だ）
+not very good at ～（あまり得意ではない）が bad at ～（苦手だ）に、taking care of（世話をする）が raising（育てる）に言いかえられています。正解は4です。
+【ほかの選択肢】
+1 本文には、母鳥がひなを世話するようすを観察するという話はありません。卵は科学者たちのところに運ばれ、科学者たちがひなを育てています。
+2 本文には、鳥が何度も落ちてしまうことを心配しているという話はありません。科学者たちは飛び方を教えていますが、それは落ちるのが心配だからだとは書かれていません。
+3 本文には、卵をたえず見守る必要があるという話はありません。卵がメリーランド州に運ばれる理由は、Because of this の this、つまり親鳥がひなの世話を得意としていないことです。
+【覚えるポイント】
+・be not very good at ～：「～があまり得意ではない」。be bad at ～（～が苦手だ）とほぼ同じ意味で使われます。
+・young（名詞）：「（動物の）子ども、ひな」。their young で「自分たちの子ども」。
