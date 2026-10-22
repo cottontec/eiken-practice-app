@@ -1,0 +1,28 @@
+---
+choices: further support this trend | reduce seat-belt use | encourage dangerous driving | provide an alternative solution
+answerText: encourage dangerous driving
+---
+【正解】3 encourage dangerous driving（危険な運転をうながす）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 further support this trend（この傾向をさらに後押しする）
+2 reduce seat-belt use（シートベルトの使用を減らす）
+3 encourage dangerous driving（危険な運転をうながす）
+4 provide an alternative solution（別の解決策を示す）
+【考え方】
+まず見るところ：第1段落の空所の後ろの This is because ～ と、段落の最後の limits are sometimes set at unsafe levels
+空所の前で、政府の政策を批判する人々は「より厳しい規制があれば死者をさらに減らせる」と主張しています。そして In fact（実際）のあとで、速度制限の政策について、もっと強い意見が紹介されます。
+some say current government policies regarding speed limits may (　)（速度制限に関する現在の政府の政策は〇〇かもしれないと言う人もいる）
+空所の後ろの This is because（これは～だからだ）以下に、その理由が書かれています。速度制限は、車が実際に走っている速さにもとづいて決められ、危険な道路の特徴にはほとんど注意が払われません。段落の最後には、次のように書かれています。
+Unfortunately, this means limits are sometimes set at unsafe levels.（残念ながら、これは、速度制限が時に安全でない水準に設定されることを意味する）
+制限速度が安全でない高さに決められると、車は危険な速さで走ってもよいことになります。つまり、今の政策は危険な運転をうながしてしまうかもしれない、ということです。よって3が正解です。
+この問題の型：因果（This is because ～ が空所の理由を説明している）
+【ほかの選択肢】
+1 further support this trend は「この傾向をさらに後押しする」です。this trend（この傾向）は、前に書かれた「交通事故の死者が減ってきた」ことを指すと考えられます。それを後押しするのはよいことなので、そのあとの「安全でない水準に設定される」という問題点の説明と合いません。
+2 reduce seat-belt use は「シートベルトの使用を減らす」です。速度制限の決め方とシートベルトの使用を結びつける話は、本文に書かれていません。
+4 provide an alternative solution は「別の解決策を示す」です。そのあとの説明は、今の速度制限の決め方の問題点なので、「解決策を示す」というよい内容とはつながりません。
+【覚えるポイント】
+・encourage ～：「～をうながす、～を引き起こしやすくする」。regarding ～：「～に関する」。unsafe levels：「安全でない水準」。
+・空所のすぐあとに This is because ～ があるときは、その理由の部分を読んで、理由とつながる結果を空所に選ぶのが手がかりになります。

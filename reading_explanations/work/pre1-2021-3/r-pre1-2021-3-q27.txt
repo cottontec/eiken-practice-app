@@ -1,0 +1,28 @@
+---
+choices: Instead | Nevertheless | In contrast | Furthermore
+answerText: Furthermore
+---
+【正解】4 Furthermore（さらに、そのうえ）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Instead（そうではなく、その代わりに）
+2 Nevertheless（それにもかかわらず）
+3 In contrast（それとは対照的に）
+4 Furthermore（さらに、そのうえ）
+【考え方】
+まず見るところ：第2段落の空所の前の donors responded better ～ when they did not expect them と、空所の後ろの future donations from such people increased
+空所の前の文は、ある研究の結果です。
+In one study, donors responded better to receiving gifts when they did not expect them.（ある研究では、寄付者は、贈り物を予想していなかったときのほうが、贈り物を受け取ることによい反応を示した）
+空所の後ろは、次のとおりです。
+future donations from such people increased by up to 75 percent（そのような人々からのその後の寄付は、最大で75パーセント増えた）
+such people（そのような人々）は、「贈り物を予想していなかった寄付者」を指します。前の文は「よい反応を示した」、後ろの文は「寄付が増えた」で、どちらも予想していなかった寄付者についてのよい結果です。よい結果にもう一つよい結果を付け加えているので、「さらに」を表す Furthermore が入り、4が正解です。
+この問題の型：指示語（such people ＝ 贈り物を予想していなかった寄付者）
+【ほかの選択肢】
+1 Instead は「そうではなく、その代わりに」です。前の内容を打ち消して別のことを述べるときに使います。「よい反応を示した」を打ち消して「寄付が増えた」と言うのではないので、合いません。
+2 Nevertheless は「それにもかかわらず」です。前の内容から予想されることと反対のことを述べるときに使います。よい反応を示した人の寄付が増えるのは自然な流れなので、合いません。
+3 In contrast は「それとは対照的に」です。2つの違うものを比べるときに使います。空所の前後はどちらも同じ人々のよい結果なので、合いません。予想していた寄付者と比べる話は、そのあとの On the other hand（一方で）から始まっています。
+【覚えるポイント】
+・Furthermore：「さらに、そのうえ」。up to ～：「最大で～まで」。
+・空所の前後が同じ人や物について、同じ方向（よい・よい）の内容を述べているときは、Furthermore のような「付け加え」を表す語が入る手がかりになります。反対の内容が出てくるのは On the other hand のような語のあとです。

@@ -1,0 +1,30 @@
+---
+choices: help promote charities | easily be copied | have undesirable effects | cause confusion among donors
+answerText: help promote charities
+---
+【正解】1 help promote charities（慈善団体を宣伝する助けになる）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 help promote charities（慈善団体を宣伝する助けになる）
+2 easily be copied（簡単にまねされる）
+3 have undesirable effects（望ましくない影響をもたらす）
+4 cause confusion among donors（寄付者の間に混乱を引き起こす）
+【考え方】
+まず見るところ：第3段落の最初の Donor premiums may also have indirect benefits. と、最後の increase the general public's awareness of charities
+第3段落は、次の文で始まります。
+Donor premiums may also have indirect benefits.（寄付者への記念品には、間接的な利点もあるかもしれない）
+benefit は「利点、よいところ」、indirect は「間接的な（遠回しに効果が出る）」です。空所にも、記念品のよい点が入ると考えられます。
+空所の後ろには、具体例と、そのまとめが書かれています。
+Items such as fancy shopping bags with charity logos, for example, signal that a donor is part of an exclusive group.（たとえば、慈善団体のロゴが入ったおしゃれな買い物袋のような品物は、寄付者が限られた人だけの集団の一員であることを示す）
+Such gifts not only keep donors satisfied but also increase the general public's awareness of charities.（そのような贈り物は、寄付者を満足させ続けるだけでなく、一般の人々の慈善団体への認知も高める）
+ロゴ入りの袋を持った人を見ると、まわりの人々はその慈善団体を知るようになります。「一般の人々に慈善団体が知られるようになる」ことは、慈善団体の宣伝になります。promote は「宣伝する、広める」なので、1が正解です。
+この問題の型：具体例とまとめ（ロゴ入りの袋 → awareness を高める → promote charities）
+【ほかの選択肢】
+2 easily be copied は「簡単にまねされる」です。記念品がまねされるという話は本文に書かれておらず、「間接的な利点」の説明にもなりません。
+3 have undesirable effects は「望ましくない影響をもたらす」です。第3段落は indirect benefits（間接的な利点）というよい点の話なので、合いません。
+4 cause confusion among donors は「寄付者の間に混乱を引き起こす」です。本文には keep donors satisfied（寄付者を満足させ続ける）とあり、寄付者が混乱するという話は書かれていません。
+【覚えるポイント】
+・promote：「宣伝する、広める」。indirect benefit：「間接的な利点」。awareness：「知られていること、認知」。
+・段落の最初の文に benefits（利点）のような言葉があるときは、その段落の空所にもよい内容が入ることが多く、あとの for example（たとえば）の具体例でそれを確かめるのが手がかりになります。
