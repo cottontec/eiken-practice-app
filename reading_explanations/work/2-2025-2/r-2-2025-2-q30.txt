@@ -1,0 +1,33 @@
+---
+choices: it costs a lot of money and takes too much time. | it is too dangerous to use a piece of glass in the water. | it only works on fish and some types of monkeys. | it needs to consider the other senses that animals have.
+answerText: it needs to consider the other senses that animals have.
+---
+【正解】4 it needs to consider the other senses that animals have.（動物が持っているほかの感覚を考えに入れる必要がある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：In the discussion about the mirror test, it has been pointed out that（ミラーテストについての議論の中で、～ということが指摘されてきた。）
+1 it costs a lot of money and takes too much time.（それにはたくさんのお金がかかり、時間がかかりすぎる）
+2 it is too dangerous to use a piece of glass in the water.（水の中でガラスを使うのは危険すぎる）
+3 it only works on fish and some types of monkeys.（それは魚と一部の種類のサルにしか効果がない）
+4 it needs to consider the other senses that animals have.（それは動物が持っているほかの感覚を考えに入れる必要がある）
+【考え方】
+まず見るところ：第4段落の Moreover, vision is not the main sense for all animals.
+The mirror test has led to much discussion and debate.（ミラーテストは、多くの議論や論争を引き起こしてきた。）
+第4段落は、ミラーテストについての議論を紹介しています。First（まず）と Moreover（さらに）で、2つの点が挙げられています。
+Moreover, vision is not the main sense for all animals.（さらに、視覚は、すべての動物にとって主な感覚であるわけではない。）
+vision は「視覚（目で見る感覚）」です。not ～ all は「すべてが～というわけではない」という意味で、目がいちばん大事な感覚ではない動物もいる、ということです。
+Some animals rely more on smell than vision, so failing the mirror test does not always mean they cannot recognize themselves.（視覚よりも嗅覚に頼る動物もいるので、ミラーテストに合格しないことが、必ずしもその動物が自分を認識できないということを意味するわけではない。）
+ミラーテストは鏡を「見る」テストです。しかし、においにより頼る動物もいるので、テストに合格しなくても自分を認識できないとは限らない、という指摘です。
+本文と選択肢を対にすると、次のようになります。
+本文 vision is not the main sense for all animals ／ Some animals rely more on smell than vision → 読み取れること：it needs to consider the other senses that animals have
+本文は「視覚以外の感覚に頼る動物もいるので、テストの結果だけでは決められない」と述べています。ここから、ミラーテストでは視覚以外の感覚も考えに入れる必要がある、という指摘だと読み取れます。ですから4が正解です。
+この問題の型：推論（視覚が主な感覚でない動物もいる→ほかの感覚も考える必要がある）
+【ほかの選択肢】
+1 お金や時間がかかるという話は、本文に書かれていません。第4段落で挙げられているのは、鏡のしくみを知らない動物がいることと、視覚に頼らない動物がいることの2点です。
+2 水の中でガラスを使うのが危険だという話は、本文にありません。ホンソメワケベラのテストは鏡のある水槽で行われましたが、危険だとは書かれていません。
+3 本文でテストが紹介されているのは魚（ホンソメワケベラ）だけで、サルは出てきません。また、「魚と一部のサルにしか効果がない」とも書かれていません。
+【覚えるポイント】
+・not ～ all：「すべてが～というわけではない」。not と all がいっしょに使われると、一部を打ち消す意味になります。
+・First や Moreover（さらに）は、議論の点を順に挙げる合図です。設問が「指摘されてきたこと」をたずねるときは、これらの語のあとの内容をそれぞれ確かめると答えの手がかりになります。

@@ -1,0 +1,31 @@
+---
+choices: The quality of tea in bags improved to match the British tea culture. | British tea companies said it was not rude to use tea bags. | The government provided financial support to tea bag factories. | They fit well with the pace of the modern life of British people.
+answerText: They fit well with the pace of the modern life of British people.
+---
+【正解】4 They fit well with the pace of the modern life of British people.（ティーバッグが、イギリスの人々の現代の生活のペースによく合っていた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Why did tea bags finally become popular in Britain?（ティーバッグは、なぜ最終的にイギリスで人気が出たのですか。）
+1 The quality of tea in bags improved to match the British tea culture.（袋に入ったお茶の品質が、イギリスのお茶の文化に合うようによくなった。）
+2 British tea companies said it was not rude to use tea bags.（イギリスの茶の会社が、ティーバッグを使うのは無作法ではないと言った。）
+3 The government provided financial support to tea bag factories.（政府がティーバッグの工場にお金の支援をした。）
+4 They fit well with the pace of the modern life of British people.（ティーバッグが、イギリスの人々の現代の生活のペースによく合っていた。）
+【考え方】
+まず見るところ：第3段落の This attitude began to change after World War II ～ と、段落の最後の Tea bags were suitable for the modern, fast-paced life.
+It took a while, however, for them to gain popularity in Britain. Using tea bags was considered rude in their culture among some people.（しかし、イギリスでティーバッグが人気を得るまでには、しばらく時間がかかった。イギリスの文化では、一部の人々の間で、ティーバッグを使うことは無作法だと考えられていた）
+設問の finally（最終的に）は、このように「しばらく時間がかかった」あとで人気が出たことを表しています。
+This attitude began to change after World War II when people's lives became busier.（この考え方は、第二次世界大戦後、人々の生活が忙しくなったときに変わり始めた）
+Tea bags were suitable for the modern, fast-paced life.（ティーバッグは、現代の、ペースの速い生活に合っていた）
+人々の生活が忙しくなり、袋に入っていない茶葉を使う伝統的な方法が難しくなったことで、ティーバッグが受け入れられるようになったと読み取れます。
+本文 were suitable for the modern, fast-paced life ＝ 選択肢 fit well with the pace of the modern life of British people
+suitable for（～に合っている）が fit well with（～によく合う）に、fast-paced life（ペースの速い生活）が the pace of the modern life（現代の生活のペース）に言いかえられています。ですから4が正解です。
+この問題の型：言いかえ（suitable for → fit well with）／因果（生活が忙しくなった → 考え方が変わった）
+【ほかの選択肢】
+1 袋に入ったお茶の品質がイギリスのお茶の文化に合うようによくなった、とは本文に書かれていません。考え方が変わったきっかけは、人々の生活が忙しくなったことです。
+2 本文では「ティーバッグを使うのは無作法だ」という考え方が変わり始めたとありますが、それは生活が忙しくなったからで、茶の会社がそう言ったからではありません。茶の会社は本文に出てきません。
+3 政府がティーバッグの工場にお金の支援をしたという話は、本文にありません。
+【覚えるポイント】
+・be suitable for ～：「～に合っている、～に適している」。fit well with ～（～によく合う）と言いかえられることがあります。
+・「なぜ最終的に～になったのか」という設問では、began to change（変わり始めた）のように、変化のきっかけを表す部分を探すと答えの手がかりになります。

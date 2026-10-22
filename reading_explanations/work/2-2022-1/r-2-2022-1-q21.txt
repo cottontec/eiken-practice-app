@@ -1,6 +1,7 @@
 ---
 choices: In the end | Moreover | For one thing | Overall
 answerText: In the end
+reviewed: yes
 ---
 【正解】1 In the end（結局、最後には）
 【和訳】
@@ -12,17 +13,21 @@ answerText: In the end
 3 For one thing（一つには）
 4 Overall（全体として、概して）
 【考え方】
-空所は第1段落の ( 21 ), though, the government was forced to change its plans because of the condition of the economy and worries about an increase in unemployment. です。「しかし、（21）、経済の状態と失業が増えることへの心配から、政府は計画を変えざるをえなかった」という意味です。be forced to ～ は「～せざるをえない、～することを強いられる」です。
-空所の前の文は the Indian government planned to introduce a ban on plastic items that could only be used once（インド政府は、一度しか使えないプラスチック製品を禁止することを計画した）です。
+まず見るところ：第1段落の ( 21 ), though, the government was forced to change its plans ～
+( 21 ), though, the government was forced to change its plans because of the condition of the economy and worries about an increase in unemployment.（しかし、（21）、経済の状態と、失業が増えることへの心配から、政府は計画を変えざるをえなかった）
+be forced to ～ は「～せざるをえない、～することを強いられる」です。unemployment は「失業（仕事を失うこと）」です。
+空所の前の文を見ます。
+the Indian government planned to introduce a ban on plastic items that could only be used once（インド政府は、一度しか使えないプラスチック製品を禁止することを計画した）
 流れを整理すると、次のようになります。
 ・まず、政府は禁止を計画した。
 ・though（しかし）があり、計画とは違う結果になった。
-・最後には、計画を変えざるをえなかった。
+・計画を変えざるをえなくなった。
 空所には、計画を立てたあと「最終的にどうなったか」を示す語句が入ります。In the end は「結局、最後には」という意味で、出来事の最後の結果を表します。ですから、1が正解です。
+この問題の型：対比（計画⇔変更）、具体例とまとめ（計画のあとの最終的な結果）
 【ほかの選択肢】
 2 Moreover は「さらに、そのうえ」と、前と同じ向きの内容を付け加えるときに使います。前の文は「禁止を計画した」、空所の文は「計画を変えざるをえなかった」で、反対の向きの内容です。though（しかし）とも合わないので、入りません。
 3 For one thing は「一つには」と、理由をいくつか挙げるときの1つ目を示す言い方です。空所の文は理由を挙げているのではなく、計画のその後の結果を述べているので、合いません。
 4 Overall は「全体として、概して」と、話をまとめるときに使います。空所の文は、それまでの話のまとめではなく、計画がどうなったかという結果なので、合いません。
 【覚えるポイント】
 ・In the end：「結局、最後には」。計画や出来事の最後の結果を示します。
-・be forced to ～：「～せざるをえない」。
+・つなぎ言葉（Moreover, For one thing, Overall など）の空所では、前の文と空所の文が「同じ向きの追加」か「反対」か「結果」かを先に考えます。次に though や however のような目印が文中にあれば、反対の関係の手がかりになります。

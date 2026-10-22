@@ -104,8 +104,7 @@
   "2-2025-1": {
     "stats": {
       "target": 31,
-      "written": 6,
-      "missing": 25
+      "written": 31
     },
     "errors": [],
     "warnings": []
@@ -113,8 +112,7 @@
   "2-2025-2": {
     "stats": {
       "target": 31,
-      "written": 17,
-      "missing": 14
+      "written": 31
     },
     "errors": [],
     "warnings": []

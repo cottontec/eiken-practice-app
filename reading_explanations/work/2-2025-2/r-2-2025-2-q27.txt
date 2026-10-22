@@ -11,7 +11,7 @@ answerText: to determine if an animal can recognize itself.
 1 to test an animal's ability to see in the dark.（暗い中で物を見る動物の能力を調べるためである。）
 2 to find out how far an animal can see outside.（動物が外でどれくらい遠くまで見えるかを知るためである。）
 3 to determine if an animal can recognize itself.（動物が自分自身を認識できるかどうかを判断するためである。）
-4 to see when a baby recognizes who its mother is.（赤ちゃんがいつ自分の母親がだれなのかを認識するのかを確かめるためである。）
+4 to see when a baby recognizes who its mother is.（赤ちゃんが、自分の母親がだれなのかをいつ認識するのかを確かめるためである。）
 【考え方】
 まず見るところ：第1段落の The mirror test is used to judge this.
 one idea that is often discussed is whether only humans can recognize or tell the difference between themselves and others（よく話し合われる考えの1つが、自分と他者とを認識したり、そのちがいを見分けたりできるのは人間だけなのかどうか、ということだ）

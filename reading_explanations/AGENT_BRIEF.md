@@ -190,3 +190,4 @@ issueReason: <理由・画像のどこが読めないか・必要な確認>
     例：`（英文）` → `Experts at the art gallery discovered that one of their paintings, which they had thought was a ［genuine］ Picasso, was actually just a copy.` → `（訳）` → 和訳
   - 大問1の（選択肢の意味）は1行に1つ、`1 genuine：本物の` の形（番号 英語：意味）。
   - 大問3の＜この設問と選択肢の訳＞は、`設問：What does ～?（～か。）` と英語の設問のあとに訳、選択肢は `1 Design lessons for classes of all ages.（あらゆる年齢のクラス向けの授業を考えて作る。）` の形（番号 英語（訳））。
+- 社名の Supplies は「サプライ」と書く（「サプライズ」は surprise と紛れるため。例：トップ・ペーパー・サプライ社）。

@@ -1,0 +1,31 @@
+---
+choices: The filter paper was the first material used to make tea bags. | The materials used for tea bags are becoming more eco-friendly. | It was Sullivan's customers' idea to put tea leaves in the silk bags. | People in Britain never used tea bags until very recently.
+answerText: The materials used for tea bags are becoming more eco-friendly.
+---
+【正解】2 The materials used for tea bags are becoming more eco-friendly.（ティーバッグに使われる素材は、より環境に優しいものになりつつある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Which of the following statements is true?（次の記述のうち、正しいものはどれですか。）
+1 The filter paper was the first material used to make tea bags.（ろ紙が、ティーバッグを作るのに使われた最初の素材だった。）
+2 The materials used for tea bags are becoming more eco-friendly.（ティーバッグに使われる素材は、より環境に優しいものになりつつある。）
+3 It was Sullivan's customers' idea to put tea leaves in the silk bags.（茶葉を絹の袋に入れるのは、サリバンの客たちの考えだった。）
+4 People in Britain never used tea bags until very recently.（イギリスの人々は、ごく最近までティーバッグを一度も使わなかった。）
+【考え方】
+まず見るところ：第4段落の At the same time, there is a movement ～ と These efforts aim to make tea bags ～ more environmentally friendly.
+At the same time, there is a movement to go back to using paper, cloth, or silk instead of nylons or materials that include some plastic.（同時に、ナイロンや、プラスチックを少し含む素材の代わりに、紙や布や絹を使うことに戻ろうという動きがある）
+This goes with the global trend toward reducing plastic use.（これは、プラスチックの使用を減らそうという世界的な流れに沿ったものだ）
+These efforts aim to make tea bags, which are usually thrown away after one use, more environmentally friendly.（こうした取り組みは、ふつう1回使ったら捨てられるティーバッグを、より環境に優しいものにすることを目指している）
+プラスチックを含む素材から紙や布や絹へ戻そうという動きがあり、その目的はティーバッグを環境に優しくすることです。
+本文 a movement to go back to using paper, cloth, or silk ／ more environmentally friendly
+→ 読み取れること：選択肢 The materials used for tea bags are becoming more eco-friendly（素材がより環境に優しいものになりつつある）
+eco-friendly は environmentally friendly（環境に優しい）を短くした言い方です。are becoming（～になりつつある）は、そうした動きが今進んでいることを表しています。ですから2が正解です。
+この問題の型：言いかえ（environmentally friendly → eco-friendly）／推論（動き・取り組みがある → 素材が変わりつつある）
+【ほかの選択肢】
+1 第1段落と第2段落によると、最初の素材は絹（silk bags）で、その次が綿（cotton）です。ろ紙は、人気が高まって大量生産が必要になってから導入されたもので、最初の素材ではありません。
+3 茶葉の見本を絹の袋に入れて届けたのはサリバン自身です（He delivered tea leaf samples to his customers in small silk bags.）。客たちの考えは、袋に入ったままお湯を注ぐほうが便利だということで、茶葉を絹の袋に入れることではありません。人物が違います。
+4 第3段落には、イギリスで人気が出るまでに時間がかかったこと、第二次世界大戦後に考え方が変わり始めたことが書かれています。「ごく最近まで一度も使わなかった」とは書かれておらず、言い切りすぎです。また、無作法だと考えていたのは一部の人々（some people）です。
+【覚えるポイント】
+・eco-friendly：「環境に優しい」。environmentally friendly と同じ意味です。
+・「正しいものはどれか」という設問では、never（一度も～ない）や first（最初の）のように強く言い切る語や、人物（だれの考えか）が本文と合っているかを確かめると、まちがいの選択肢を見分ける手がかりになります。
