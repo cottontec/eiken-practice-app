@@ -1,6 +1,7 @@
 ---
 choices: difference | gap | fashion | time
 answerText: difference
+reviewed: yes
 ---
 【正解】1 difference（違い。make a difference で「違いが出る、効果がある」）
 【和訳】

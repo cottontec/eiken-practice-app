@@ -1,6 +1,7 @@
 ---
 choices: How they are able to migrate successfully. | Why they migrate to warmer places. | When they start migrating each year. | Whether some birds fly faster than others.
 answerText: How they are able to migrate successfully.
+reviewed: yes
 ---
 【正解】1 How they are able to migrate successfully.（どうやってうまく渡りをすることができるのか。）
 【和訳】

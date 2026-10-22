@@ -1,6 +1,7 @@
 ---
 choices: Schools encourage children to get high scores on English tests. | The Finnish government requires students to take many tests. | Teachers are encouraged not to teach children from other countries. | Students are not separated according to their ability or results.
 answerText: Students are not separated according to their ability or results.
+reviewed: yes
 ---
 【正解】4 Students are not separated according to their ability or results.（生徒は、能力や成績によって分けられない。）
 【和訳】

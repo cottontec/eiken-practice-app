@@ -1,6 +1,7 @@
 ---
 choices: weight | length | storm | fire
 answerText: weight
+reviewed: yes
 ---
 【正解】1 weight（重さ）
 【和訳】

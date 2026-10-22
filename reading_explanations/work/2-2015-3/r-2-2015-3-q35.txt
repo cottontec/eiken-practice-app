@@ -1,6 +1,7 @@
 ---
 choices: They have been married for over three years. | They want to have children sometime in the future. | They walk a half hour to work every morning. | They are both looking for jobs in downtown Blacksburg.
 answerText: They want to have children sometime in the future.
+reviewed: yes
 ---
 【正解】2 They want to have children sometime in the future.（彼らは、将来いつか子どもがほしいと思っている。）
 【和訳】

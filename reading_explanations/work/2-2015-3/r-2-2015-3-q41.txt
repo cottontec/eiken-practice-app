@@ -1,6 +1,7 @@
 ---
 choices: Finnish students regularly perform well on surveys of academic ability. | The government has begun providing free education to all students. | A group of students have been working together to improve their schools. | Most of its 15-year-olds want to study in the fields of math and science.
 answerText: Finnish students regularly perform well on surveys of academic ability.
+reviewed: yes
 ---
 【正解】1 Finnish students regularly perform well on surveys of academic ability.（フィンランドの生徒は、学力の調査で、くり返しよい成績を収めている。）
 【和訳】

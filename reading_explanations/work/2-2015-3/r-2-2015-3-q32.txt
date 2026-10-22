@@ -1,6 +1,7 @@
 ---
 choices: give up | make up | find out | throw out
 answerText: find out
+reviewed: yes
 ---
 【正解】3 find out（突き止める、見つけ出す）
 【和訳】

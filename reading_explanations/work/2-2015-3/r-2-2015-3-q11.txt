@@ -1,6 +1,7 @@
 ---
 choices: rely on | make up | drop by | answer to
 answerText: rely on
+reviewed: yes
 ---
 【正解】1 rely on（～に頼る）
 【和訳】

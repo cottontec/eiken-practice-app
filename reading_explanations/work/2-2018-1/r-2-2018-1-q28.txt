@@ -1,0 +1,29 @@
+---
+choices: must use the stairs on the south side of the building. | must not use the elevator in the central part of the building. | will be asked to move equipment to other parts of the office. | will not be allowed to enter the office building.
+answerText: must use the stairs on the south side of the building.
+---
+【正解】1 must use the stairs on the south side of the building.（建物の南側の階段を使わなければならない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：来週から、ブラクストン・インダストリーズの従業員は
+1 建物の南側の階段を使わなければならない。
+2 建物の中央部分のエレベーターを使ってはならない。
+3 機材を事務所のほかの場所に移すよう求められる。
+4 事務所の建物に入ることを許されない。
+【考え方】
+設問の Starting next week（来週から）に注目し、来週から何が変わるのかを探します。第2段落に次の2文があります。
+Next week, construction will begin on the north side of the building, and it will last for about one month.（来週、建物の北側で工事が始まり、約1か月続く）
+During that time, the stairs on that side of the building will be closed, so please use the south stairs.（その間、建物のその側〔北側〕の階段は閉鎖されるので、南側の階段を使ってください）
+北側の階段が使えなくなるので、階段を使うときは南側を使うことになります。
+本文と選択肢を対にすると、次のようになります。
+本文 the stairs on that side ... will be closed, so please use the south stairs → 選択肢 must use the stairs on the south side of the building
+本文は「使ってください」というお願いの形です。しかし北側の階段が閉鎖されるので、階段を使うなら南側を使うしかありません。このことから、選択肢の must（～しなければならない）の内容が読み取れます。
+【ほかの選択肢】
+2 エレベーターについては、メールのどこにも書かれていません。閉鎖されるのは北側の階段、3階のトイレ、北側の駐車場です。
+3 equipment（機材）は第3段落に出てきますが、the construction company will need that space for their equipment（工事会社が自分たちの機材のためにその場所〔北側の駐車場〕を必要とする）という話です。機材は工事会社のもので、従業員が移すよう求められてはいません。
+4 第2段落に we can still work in the building during construction（工事中も建物の中で仕事を続けることができる）とあります。建物に入れなくなるのではないので、本文と反対です。
+【覚えるポイント】
+・Starting next week：「来週から」。設問の時を示す語句は、本文で同じ時期を探す手がかりになります。
+・last for ～：「～の間続く」。

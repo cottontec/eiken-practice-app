@@ -1,6 +1,7 @@
 ---
 choices: Send a real-estate agent to his house to see how much it is worth. | Find some homes that are close to the local college. | Give him and his wife advice about getting a loan for a new house. | Take him and his wife to see some homes next week.
 answerText: Take him and his wife to see some homes next week.
+reviewed: yes
 ---
 【正解】4 Take him and his wife to see some homes next week.（来週、彼と妻を連れて、いくつかの家を見に行く。）
 【和訳】

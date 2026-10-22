@@ -1,6 +1,7 @@
 ---
 choices: generated | harvested | transmitted | motivated
 answerText: motivated
+reviewed: yes
 ---
 【正解】4 motivated（やる気を起こさせた）
 【和訳】

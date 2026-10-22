@@ -1,6 +1,7 @@
 ---
 choices: guilty | content | eager | gentle
 answerText: guilty
+reviewed: yes
 ---
 【正解】1 guilty（うしろめたい、罪の意識がある）
 【和訳】

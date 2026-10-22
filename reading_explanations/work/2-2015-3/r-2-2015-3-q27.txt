@@ -1,6 +1,7 @@
 ---
 choices: reliable | romantic | costly | strange
 answerText: romantic
+reviewed: yes
 ---
 【正解】2 romantic（ロマンチックな、恋愛らしくすてきな）
 【和訳】

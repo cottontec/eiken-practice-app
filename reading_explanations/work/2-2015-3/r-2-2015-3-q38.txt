@@ -1,6 +1,7 @@
 ---
 choices: They want to observe how the mothers take care of their young. | They are worried that the birds will fall down many times. | Whooping cranes' eggs need to be watched constantly. | Whooping cranes are bad at raising their own young.
 answerText: Whooping cranes are bad at raising their own young.
+reviewed: yes
 ---
 【正解】4 Whooping cranes are bad at raising their own young.（アメリカシロヅルは、自分のひなを育てるのが苦手である。）
 【和訳】

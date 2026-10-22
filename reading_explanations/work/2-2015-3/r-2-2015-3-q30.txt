@@ -1,6 +1,7 @@
 ---
 choices: fast | small | far | bright
 answerText: small
+reviewed: yes
 ---
 【正解】2 small（小さい）
 【和訳】

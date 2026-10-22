@@ -1,6 +1,7 @@
 ---
 choices: mind | word | opinion | back
 answerText: word
+reviewed: yes
 ---
 【正解】2 word（be as good as one's word で「約束を守る」）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: scenery | investment | justice | emphasis
 answerText: justice
+reviewed: yes
 ---
 【正解】3 justice（正義）
 【和訳】

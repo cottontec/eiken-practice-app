@@ -1,0 +1,29 @@
+---
+choices: It needs a larger building for its new employees. | It has some free time to start construction. | It wants to fix problems with the electrical system. | It is trying to improve its company image.
+answerText: It wants to fix problems with the electrical system.
+---
+【正解】3 It wants to fix problems with the electrical system.（電気系統の問題を直したいと思っている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ブラクストン・インダストリーズが建物を改善する理由の1つは何ですか。
+1 新しい従業員のために、より大きな建物が必要である。
+2 工事を始めるための時間の余裕がある。
+3 電気系統の問題を直したいと思っている。
+4 会社のイメージをよくしようとしている。
+【考え方】
+設問は「建物を改善する理由の1つ」です。メールの第1段落に、工事をする理由が書かれています。
+The electrical system is old and has needed repairs for some time.（電気系統が古くなっていて、しばらく前から修理が必要だった）
+has needed は「（前から今まで）ずっと必要だった」という意味です。古い電気系統を修理するために工事をする、ということが分かります。
+本文と選択肢を対にすると、次のようになります。
+本文 The electrical system ... has needed repairs → 選択肢 It wants to fix problems with the electrical system
+修理が必要だった電気系統を工事で直す、ということなので、「電気系統の問題を直したい」と言いかえることができます。repair（修理）と fix（直す）は同じような意味です。
+なお、本文には Since last year's sales were so strong（昨年の売り上げがとても好調だったので）、その利益の一部を工事に使う、という事情も書かれています。電気系統の修理は、工事をする理由の1つです。
+【ほかの選択肢】
+1 新しい従業員や、より大きな建物が必要だという話はメールのどこにもありません。工事は今の建物の修理と改善です。
+2 本文にあるのは、売り上げが好調で利益があったことです。時間の余裕があるとは書かれていません。お金と時間を取り違えないようにしましょう。
+4 会社のイメージをよくするという話は本文にありません。
+【覚えるポイント】
+・has needed repairs for some time：「しばらく前からずっと修理が必要だった」。have ＋過去分詞で、前から今まで続いていることを表します。
+・repair（修理する）と fix（直す）は言いかえによく使われます。

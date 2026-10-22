@@ -1,6 +1,7 @@
 ---
 choices: It gives job training to students who need extra help. | It rewards students who achieve high scores on tests. | It requires all teachers to teach the same lessons. | It values and trusts the abilities of its teachers.
 answerText: It values and trusts the abilities of its teachers.
+reviewed: yes
 ---
 【正解】4 It values and trusts the abilities of its teachers.（自国の教師の能力を大切にし、信頼している。）
 【和訳】

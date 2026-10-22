@@ -1,6 +1,7 @@
 ---
 choices: to have lied | have lied | had lied | having lied
 answerText: having lied
+reviewed: yes
 ---
 【正解】4 having lied（うそをついたこと）
 【和訳】

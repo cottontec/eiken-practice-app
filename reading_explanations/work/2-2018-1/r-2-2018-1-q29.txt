@@ -1,0 +1,27 @@
+---
+choices: Repairs will be done on a number of the bathrooms. | Construction will begin on another part of the building. | The construction company will gain some more space. | The parking lots on the east side of the building will close.
+answerText: Construction will begin on another part of the building.
+---
+【正解】2 Construction will begin on another part of the building.（建物の別の部分で工事が始まる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：北側の修理が終わったあと、何が起こりますか。
+1 いくつかのトイレで修理が行われる。
+2 建物の別の部分で工事が始まる。
+3 工事会社がさらに場所を得る。
+4 建物の東側の駐車場が閉鎖される。
+【考え方】
+設問の after repairs on the north side are complete（北側の修理が終わったあと）に注目します。第3段落の最後に、ほぼ同じ言い方の文があります。
+After the construction to the north side is done, construction on the south side will begin.（北側の工事が終わったあと、南側の工事が始まる）
+本文と選択肢を対にすると、次のようになります。
+本文 construction on the south side will begin ＝ 選択肢 Construction will begin on another part of the building
+the south side（南側）が another part of the building（建物の別の部分）と言いかえられています。第2段落の make improvements to only one part of the building at a time（一度に建物の一部分だけを改善する）という方針とも合っています。
+【ほかの選択肢】
+1 トイレについては、the bathrooms on the third floor will be closed（3階のトイレが閉鎖される）とあるだけです。これは北側の工事の間のことで、北側の工事のあとにトイレを修理するとは書かれていません。
+3 工事会社が場所を必要とするのは、北側の駐車場に機材を置くためで、北側の工事の間の話です。北側の工事のあとにさらに場所を得るとは書かれていません。
+4 東側の駐車場は、Please park in the south or the east parking lot.（南側か東側の駐車場に車をとめてください）と、従業員が使う場所として書かれています。閉鎖されるのは北側の駐車場で、東側が閉鎖されるとは書かれていません。
+【覚えるポイント】
+・After ～ is done：「～が終わったあと」。設問の complete（終わった）と done（終わった）は同じような意味です。
+・at a time：「一度に」。only one part at a time で「一度に一部分だけ」。

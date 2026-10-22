@@ -1,6 +1,7 @@
 ---
 choices: whichever | whatever | whenever | wherever
 answerText: whenever
+reviewed: yes
 ---
 【正解】3 whenever（いつでも～のときに）
 【和訳】

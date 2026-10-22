@@ -2,13 +2,13 @@
 choices: More of the Mogao Caves have been closed to visitors. | Visitors are being asked to avoid breathing too close to the paintings. | Some of the visitors are being taught new ways to preserve paintings. | The number of visitors has been reduced from 400 to 40 a day.
 answerText: More of the Mogao Caves have been closed to visitors.
 ---
-【正解】1 More of the Mogao Caves have been closed to visitors.（〔以前より〕多くの莫高窟の洞窟が、訪問者に対して閉じられている。）
+【正解】1 More of the Mogao Caves have been closed to visitors.（莫高窟のうち、〔以前より〕多くの洞窟が訪問者に対して閉じられている。）
 【和訳】
 ＜本文の全訳＞
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：敦煌の仏教の芸術作品を守るために行われてきたことの1つは何ですか。
-1 （以前より）多くの莫高窟の洞窟が、訪問者に対して閉じられている。
+1 莫高窟のうち、（以前より）多くの洞窟が訪問者に対して閉じられている。
 2 訪問者は、絵画にあまり近づいて息をしないように求められている。
 3 訪問者の一部は、絵画を保存する新しい方法を教わっている。
 4 訪問者の数が、1日400人から40人に減らされている。

@@ -1,6 +1,7 @@
 ---
 choices: They help the birds learn how to survive in Wisconsin's winter. | They fly together with a group of birds that are the same gender. | They show the birds how to fly to Florida in their first winter. | They provide food for the cranes on their journey south.
 answerText: They show the birds how to fly to Florida in their first winter.
+reviewed: yes
 ---
 【正解】3 They show the birds how to fly to Florida in their first winter.（最初の冬に、鳥たちにフロリダ州までの飛び方を示す。）
 【和訳】

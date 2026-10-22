@@ -1,6 +1,7 @@
 ---
 choices: cruelly | eventually | unfortunately | increasingly
 answerText: eventually
+reviewed: yes
 ---
 【正解】2 eventually（最後には、ついに）
 【和訳】

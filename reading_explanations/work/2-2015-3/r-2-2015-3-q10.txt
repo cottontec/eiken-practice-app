@@ -1,6 +1,7 @@
 ---
 choices: faith | surface | width | target
 answerText: faith
+reviewed: yes
 ---
 【正解】1 faith（信頼、信じる気持ち）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: by mistake | by surprise | in advance | in quantity
 answerText: in advance
+reviewed: yes
 ---
 【正解】3 in advance（前もって）
 【和訳】

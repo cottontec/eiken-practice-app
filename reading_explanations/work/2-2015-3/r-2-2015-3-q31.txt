@@ -1,6 +1,7 @@
 ---
 choices: equipment | medicine | insurance | skills
 answerText: medicine
+reviewed: yes
 ---
 【正解】2 medicine（薬）
 【和訳】

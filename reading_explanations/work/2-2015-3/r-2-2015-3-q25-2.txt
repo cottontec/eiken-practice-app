@@ -2,6 +2,7 @@
 choices: it's | unless | talk | I | can't
 answerText: can't
 order: 4 5 3 2 1
+reviewed: yes
 ---
 【正解】5 can't（この問題の2番目）
 【完成文】

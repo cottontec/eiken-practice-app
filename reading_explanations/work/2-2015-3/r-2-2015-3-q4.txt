@@ -1,6 +1,7 @@
 ---
 choices: provided | dedicated | estimated | achieved
 answerText: estimated
+reviewed: yes
 ---
 【正解】3 estimated（見積もった、およその見当をつけた）
 【和訳】

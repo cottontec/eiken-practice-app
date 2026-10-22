@@ -1,6 +1,7 @@
 ---
 choices: challenges | chances | theories | reasons
 answerText: theories
+reviewed: yes
 ---
 【正解】3 theories（説、考え）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: bending | knitting | rocking | planting
 answerText: bending
+reviewed: yes
 ---
 【正解】1 bending（曲げること）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: Most Finnish students receive high salaries after graduating. | Finnish teenagers travel around the world to study. | Many governments are copying Finland's system. | Students in Finland have very little homework.
 answerText: Students in Finland have very little homework.
+reviewed: yes
 ---
 【正解】4 Students in Finland have very little homework.（フィンランドの生徒は、宿題がとても少ない。）
 【和訳】

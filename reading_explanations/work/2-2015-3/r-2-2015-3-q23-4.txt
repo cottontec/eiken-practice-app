@@ -2,6 +2,7 @@
 choices: do | good | would | to | you
 answerText: good
 order: 3 1 5 2 4
+reviewed: yes
 ---
 【正解】2 good（この問題の4番目）
 【完成文】

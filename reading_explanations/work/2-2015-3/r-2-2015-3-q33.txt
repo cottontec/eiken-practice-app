@@ -1,6 +1,7 @@
 ---
 choices: Additionally | At first | Disappointingly | Since then
 answerText: Additionally
+reviewed: yes
 ---
 【正解】1 Additionally（それに加えて、さらに）
 【和訳】

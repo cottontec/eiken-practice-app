@@ -1,6 +1,7 @@
 ---
 choices: budget | crop | basis | illusion
 answerText: basis
+reviewed: yes
 ---
 【正解】3 basis（基礎、根拠）
 【和訳】

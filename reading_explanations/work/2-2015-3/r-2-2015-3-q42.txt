@@ -1,6 +1,7 @@
 ---
 choices: encourage their students to participate in sports to create competition. | focus on competition and require students to study for many hours. | believe that all students should receive the same education. | doubt that Finland's education system is good for students.
 answerText: focus on competition and require students to study for many hours.
+reviewed: yes
 ---
 【正解】2 focus on competition and require students to study for many hours.（競争に重点を置き、生徒に長時間勉強することを求める。）
 【和訳】
@@ -22,7 +23,7 @@ emphasize は「重視する、強調する」、frequent は「ひんぱんな�
 【ほかの選択肢】
 1 本文の competition（競争）は、生徒どうしや学校どうしの勉強の競争のことです。スポーツに参加させるという話はありません。
 3 「すべての生徒の平等」を目指しているのはフィンランドです。本文には The aim of this system is to promote equality between students（この制度の目的は生徒どうしの平等を推し進めること）とありますが、this system はフィンランドの制度を指しています。上位にいるほかの国々の学校の考え方ではありません。
-4 本文には、上位にいる国々がフィンランドの教育制度を疑っているという話はありません。むしろ最後の段落には、フィンランドの成果を見て、自国のやり方を見直し始めた国もあると書かれています。
+4 本文には、上位にいる国々がフィンランドの教育制度を疑っているという話はありません。最後の段落に書かれているのは、フィンランドの成果を見て、自国の教え方を見直し始めた国もある（some countries）ということで、疑っているという内容とは向きが違います。
 【覚えるポイント】
 ・emphasize ～：「～を重視する、～を強調する」。focus on ～（～に重点を置く）と近い意味です。
 ・require ＋ 人 ＋ to ～：「人に～することを求める（義務づける）」。

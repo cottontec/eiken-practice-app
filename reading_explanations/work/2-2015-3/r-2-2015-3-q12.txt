@@ -1,6 +1,7 @@
 ---
 choices: chance | far | turns | heart
 answerText: heart
+reviewed: yes
 ---
 【正解】4 heart（by heart で「暗記して」）
 【和訳】

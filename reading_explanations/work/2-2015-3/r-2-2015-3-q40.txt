@@ -1,6 +1,7 @@
 ---
 choices: Most birds like to visit new places when migrating. | Most birds stop flying to Florida when they are five years old. | Younger birds prefer not to fly together with older birds. | Younger birds are able to gain an important skill from older ones.
 answerText: Younger birds are able to gain an important skill from older ones.
+reviewed: yes
 ---
 【正解】4 Younger birds are able to gain an important skill from older ones.（年下の鳥は、年上の鳥から大切な技術を身につけることができる。）
 【和訳】

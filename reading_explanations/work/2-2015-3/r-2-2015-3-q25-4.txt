@@ -2,6 +2,7 @@
 choices: it's | unless | talk | I | can't
 answerText: unless
 order: 4 5 3 2 1
+reviewed: yes
 ---
 【正解】2 unless（この問題の4番目）
 【完成文】

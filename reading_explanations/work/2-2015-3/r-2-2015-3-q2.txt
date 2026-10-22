@@ -1,6 +1,7 @@
 ---
 choices: admission | misconception | intention | phenomenon
 answerText: phenomenon
+reviewed: yes
 ---
 【正解】4 phenomenon（現象）
 【和訳】

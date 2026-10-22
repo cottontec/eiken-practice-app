@@ -1,0 +1,31 @@
+---
+choices: a professor from Utah State University found a way to help the Navajo find new jobs. | the number of sheep living on Navajo lands increased from only 400 to 6,000. | the Navajo's sheep began to cause more damage to the environment than before. | many Navajo lost their traditional source of income and had to find new types of work.
+answerText: many Navajo lost their traditional source of income and had to find new types of work.
+---
+【正解】4 many Navajo lost their traditional source of income and had to find new types of work.（多くのナバホ族の人々が伝統的な収入源を失い、新しい種類の仕事を見つけなければならなかった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：アメリカ政府の決定のために、
+1 ユタ州立大学の教授が、ナバホ族が新しい仕事を見つけるのを助ける方法を見つけた。
+2 ナバホ族の土地にいる羊の数が、わずか400頭から6,000頭に増えた。
+3 ナバホ族の羊は、以前よりも多くの害を環境に与え始めた。
+4 多くのナバホ族の人々が伝統的な収入源を失い、新しい種類の仕事を見つけなければならなかった。
+【考え方】
+アメリカ政府の決定とその結果は、第2段落に書かれています。
+・This traditional lifestyle was nearly destroyed in the 1930s when the U.S. government decided that the Navajo's sheep were damaging the environment.（この伝統的な暮らし方は、1930年代に、アメリカ政府がナバホ族の羊は環境に害を与えていると判断したときに、もう少しで失われるところだった）
+・Many of their sheep were killed, and many Navajo had no choice but to find jobs in cities.（彼らの羊の多くが殺され、多くのナバホ族の人々は、都市で仕事を見つけるしかなかった）
+have no choice but to ～ は「～するしかない」という意味です。
+第1段落には、チュロの毛で作った毛布が an important source of income（大切な収入源）になったとあります。政府の決定で羊の多くが殺されたことから、ナバホ族はこの伝統的な収入源を失ったと読み取れます。
+本文と選択肢を対にすると、次のようになります。
+本文 Many of their sheep were killed（羊の多くが殺された）→ 選択肢 lost their traditional source of income（伝統的な収入源を失った）
+本文 had no choice but to find jobs in cities（都市で仕事を見つけるしかなかった）＝ 選択肢 had to find new types of work（新しい種類の仕事を見つけなければならなかった）
+4が正解です。
+【ほかの選択肢】
+1 ユタ州立大学の教授ライル・マクニールがしたのは、began working to save the sheep（羊を救うための活動を始めた）ことです。ナバホ族が新しい仕事を見つけるのを助けたとは書かれていません。
+2 羊が約6,000頭に増えたのは、マクニール教授と地元のナバホ族の人々が羊を救う活動を始めたあとのことです。政府の決定では、反対に羊の多くが殺されました。原因が違います。
+3 政府は「羊が環境に害を与えている」と判断して決定をしました。決定のあとで羊が以前より多くの害を与え始めたのではありません。原因と結果が逆になっています。
+【覚えるポイント】
+・have no choice but to ～：「～するしかない」。
+・source of income：「収入源（お金を得るもとになるもの）」。

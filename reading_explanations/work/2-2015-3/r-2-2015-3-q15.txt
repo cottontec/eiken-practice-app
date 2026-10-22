@@ -1,6 +1,7 @@
 ---
 choices: ashamed to | obliged to | licensed to | judged to
 answerText: obliged to
+reviewed: yes
 ---
 【正解】2 obliged to（～しなければならない、～する義務がある）
 【和訳】

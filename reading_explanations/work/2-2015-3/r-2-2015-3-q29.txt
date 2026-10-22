@@ -1,6 +1,7 @@
 ---
 choices: delayed | respected | reached | opposed
 answerText: opposed
+reviewed: yes
 ---
 【正解】4 opposed（反対した）
 【和訳】

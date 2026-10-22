@@ -1,6 +1,7 @@
 ---
 choices: visited some homes for sale in their neighborhood. | decided to sell their old home to another couple. | looked at some homes for sale on a website. | recommended a real-estate agent to a friend.
 answerText: looked at some homes for sale on a website.
+reviewed: yes
 ---
 【正解】3 looked at some homes for sale on a website.（ウェブサイトで、売りに出ている家をいくつか見た。）
 【和訳】
