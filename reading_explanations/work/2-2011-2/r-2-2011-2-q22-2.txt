@@ -14,7 +14,7 @@ order: 1 3 4 2 5
 アイビーデール・ホールは建物なので、「建てる」側ではなく「建てられる」側です。「建てられた」は been built で表します。さらに、建てられたのは17世紀で、今（is）よりずっと前のことです。このように、文の中心よりも前に「～された」ことをはっきり示すときは、having been ＋ built の形を使うことができます。そこで 1 having → 3 been → 4 built と並べます。
 次に、空所のすぐあとが beginning of the 17th century（17世紀の初め）であることを見ます。at the beginning of ～ は「～の初めに」という決まった言い方なので、built のあとに 2 at、5 the を置きます。
 こうして Having been built at the beginning of the 17th century（17世紀の初めに建てられて）となります。この部分は「建てられたので（古い）」と理由のように読むこともでき、「建てられていて」と軽くつないで読むこともできます。どちらでも、最も古い建物の1つだという文の中心とつながります。
-Having built at the ～ のように been をぬかすと「（ホールが何かを）建てた」という意味になってしまい、合いません。
+having built been at the のように been を built のあとに回すと、「～された」を表す having been ＋ built の形がくずれてしまうので注意しましょう。
 2番目に been が来るのは、「（以前に）～された」を表す having been ＋ built の形で、having のすぐあとに been が続くからです。したがって2番目は3 beenです。
 【覚えるポイント】
 ・Having been ＋ 過去分詞 ～, ...：「（以前に）～されて、…」。文の中心より前に「～された」ことを表します。
