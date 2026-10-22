@@ -1,0 +1,26 @@
+---
+choices: In spite of this | Thanks to this | On the other hand | For one thing
+answerText: Thanks to this
+---
+【正解】2 Thanks to this（そのおかげで）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 In spite of this（それにもかかわらず）
+2 Thanks to this（そのおかげで）
+3 On the other hand（一方で）
+4 For one thing（1つには）
+【考え方】
+空所は第3段落の最後の ( 26 ), it seems that whales are finally able to return to the water around New York City. です。「（26）、ようやくクジラがニューヨーク市の周りの海に戻ってこられるようになったようだ」という意味です。
+空所の前の文を見ます。
+Gradually, as the water became cleaner, many types of fish and sea life returned, providing a food source for whales.（水がきれいになるにつれて、少しずつ多くの種類の魚や海の生き物が戻ってきて、クジラの食べ物になった）
+つまり、前の文は「水がきれいになり、クジラの食べ物が戻ってきた」という内容で、空所のあとは「クジラが戻ってこられるようになった」という内容です。前が「原因」、あとが「結果」の関係になっています。
+Thanks to this は「このおかげで」と、よい結果の原因を示す言い方です。this は前の文の内容（水がきれいになり、食べ物が戻ってきたこと）を指します。Thanks to this を入れると「そのおかげで、クジラが戻ってこられるようになった」となり、原因と結果がつながります。ですから、2が正解です。
+【ほかの選択肢】
+1 In spite of this は「それにもかかわらず」で、前の内容から予想されるのと反対のことが起きたときに使います。食べ物が戻ってきたことと、クジラが戻ってきたことは反対の関係ではないので、合いません。
+3 On the other hand は「一方で」で、前とちがう面や反対の内容を比べるときに使います。ここでは前の文とあとの文が比べられているわけではなく、原因と結果の関係なので、合いません。
+4 For one thing は「1つには」で、理由をいくつか挙げるときの1つ目に使います。空所のあとの「クジラが戻ってこられるようになった」は理由ではなく結果なので、合いません。
+【覚えるポイント】
+・Thanks to ～：「～のおかげで」。よい結果をもたらした原因を表します。
+・つなぎの言葉を選ぶときは、前の文とあとの文が「原因と結果」「反対」「付け足し」のどの関係かを考えましょう。

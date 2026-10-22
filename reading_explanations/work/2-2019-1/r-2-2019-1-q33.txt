@@ -1,0 +1,29 @@
+---
+choices: It can reduce the damage and injuries that result from car crashes. | It can be used to prevent a large number of earthquakes. | It may allow companies to build cars that are five to six times cheaper. | It may decrease the number of boat and airplane accidents that occur.
+answerText: It can reduce the damage and injuries that result from car crashes.
+---
+【正解】1 It can reduce the damage and injuries that result from car crashes.（それは、車の衝突で生じる損傷やけがを減らすことができる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ラビエイの新しい素材の、考えられる利点の1つは何ですか。
+1 それは、車の衝突で生じる損傷やけがを減らすことができる。
+2 それは、たくさんの地震を防ぐために使うことができる。
+3 それによって、会社は5～6倍安い車を作れるようになるかもしれない。
+4 それによって、船や飛行機の事故の件数が減るかもしれない。
+【考え方】
+新しい素材の利点は、第4段落に書かれています。
+Tests carried out by Rabiei show that the new material is five to six times stronger than other metal foams, and also greatly decreases the damage that occurs in a crash.（ラビエイが行った試験では、新しい素材はほかの発泡金属より5～6倍強く、さらに衝突のときに生じる損傷を大きく減らすことが示されている）
+This means that, if it were to be used to build cars, it would be much better than ordinary metals at protecting drivers and passengers.（これは、もしこの素材が車を作るのに使われるとしたら、運転する人や乗っている人を守ることについて、ふつうの金属よりはるかに優れているだろうということだ）
+本文と選択肢を対にすると、次のようになります。
+本文 greatly decreases the damage that occurs in a crash（衝突のときに生じる損傷を大きく減らす）＝ 選択肢 reduce the damage ... that result from car crashes（車の衝突で生じる損傷を減らす）
+本文 much better than ordinary metals at protecting drivers and passengers（ふつうの金属より運転する人や乗っている人をはるかによく守る）→ 選択肢 reduce the ... injuries（けがを減らす）
+人をよりよく守れるということは、けがが減ると考えられます。ですから、1が正解です。
+【ほかの選択肢】
+2 本文には to help protect buildings against earthquakes（建物を地震から守るのに役立つ）とあります。地震から建物を守るのであって、地震そのものを防ぐのではありません。
+3 本文の five to six times（5～6倍）は、ほかの発泡金属と比べた「強さ」の話です（five to six times stronger）。車が5～6倍安くなるという値段の話はありません。
+4 本文には、新しい発泡金属が could also be used in boats and airplanes（船や飛行機にも使える可能性がある）とあるだけです。船や飛行機の事故の件数が減るとは書かれていません。
+【覚えるポイント】
+・if it were to ～, it would ...：「もし～するとしたら、…だろう」。まだ実際には起きていないことを仮に考える言い方です。
+・five to six times stronger than ～：「～より5～6倍強い」。何と比べて、何が何倍なのかを確かめます。

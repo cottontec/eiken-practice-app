@@ -1,0 +1,29 @@
+---
+choices: A way to release the unnecessary bubbles from metal foam. | A type of metal foam in which each of the bubbles is the same size. | A stronger type of metal that can be used to create better metal foam. | A quicker way to produce the metal that is used to create metal foam.
+answerText: A type of metal foam in which each of the bubbles is the same size.
+---
+【正解】2 A type of metal foam in which each of the bubbles is the same size.（泡の1つ1つが同じ大きさである発泡金属。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：アフサネ・ラビエイは何を開発しましたか。
+1 発泡金属から、いらない泡を外に出す方法。
+2 泡の1つ1つが同じ大きさである発泡金属。
+3 よりよい発泡金属を作るのに使える、より強い種類の金属。
+4 発泡金属を作るのに使われる金属を、より速く作る方法。
+【考え方】
+ラビエイの話は第3段落にあります。最初に has developed a new metal foam（新しい発泡金属を開発した）と書かれています。では、それはどんな発泡金属なのでしょうか。
+According to her, the problem with earlier metal foams was that the bubbles were various sizes.（彼女によると、それまでの発泡金属の問題は、泡の大きさがばらばらだったことだった）
+In the new metal foam, though, the bubbles are regular in size.（しかし、新しい発泡金属では、泡の大きさがそろっている）
+various sizes は「さまざまな大きさ」、regular in size は「大きさが一定である、そろっている」という意味です。though は「しかし」で、それまでの発泡金属と新しい発泡金属の違いを示しています。
+本文と選択肢を対にすると、次のようになります。
+本文 the bubbles are regular in size（泡の大きさがそろっている）＝ 選択肢 each of the bubbles is the same size（泡の1つ1つが同じ大きさである）
+ですから、2が正解です。
+【ほかの選択肢】
+1 本文には、泡の大きさがそろっているとは書かれていますが、いらない泡を外に出す方法を開発したとは書かれていません。
+3 本文で「ずっと強い」と言われているのは、a much stronger metal foam（ずっと強い発泡金属）です。発泡金属の材料となる金属を強くしたのではなく、泡の大きさがそろったことで発泡金属が強くなったのです。
+4 本文にあるのは Rabiei spent five years developing it.（ラビエイはそれを開発するのに5年をかけた）ということだけです。金属をより速く作る方法については書かれていません。
+【覚えるポイント】
+・regular in size：「大きさがそろっている」。反対の内容は various sizes（さまざまな大きさ）です。
+・A type of ～ in which ...：「…である種類の～」。in which 以下が前の名詞を説明しています。
