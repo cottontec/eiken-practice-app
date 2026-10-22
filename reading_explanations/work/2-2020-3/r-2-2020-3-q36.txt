@@ -1,0 +1,31 @@
+---
+choices: people started to make companies that specialized in recycling. | it became faster and more efficient to use metals to make money. | product makers made more money by reducing production costs. | businesses began to make goods that quickly became useless.
+answerText: businesses began to make goods that quickly became useless.
+---
+【正解】4 businesses began to make goods that quickly became useless.（企業は、すぐに役に立たなくなる商品を作り始めた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：20世紀の間に、～。
+1 人々はリサイクルを専門とする会社をつくり始めた
+2 お金をかせぐために金属を使うことが、より速く、より効率的になった
+3 製品メーカーは、生産コストを減らすことで、より多くのお金をかせいだ
+4 企業は、すぐに役に立たなくなる商品を作り始めた
+【考え方】
+20世紀の話は、第3段落の However, in the 20th century, ～ から始まります。
+Around this time, many product makers began to change the way they increased their profit.（このころ、多くの製品メーカーが、利益を増やす方法を変え始めた）
+Instead of reducing production costs as usual, they started using an approach called "planned obsolescence."（それまでのように生産コストを減らすのではなく、「計画的陳腐化」と呼ばれるやり方を使い始めた）
+This means making products that are designed to break or become unusable after a short period of time, so customers have to buy products more frequently.（これは、短い期間で壊れたり使えなくなったりするように設計された製品を作ることを意味し、そうすることで客はひんぱんに製品を買わなければならなくなる）
+Around this time（このころ）は、20世紀のことです。
+本文と選択肢を対にすると、次のようになります。
+本文 many product makers（多くの製品メーカー）＝ 選択肢 businesses（企業）
+本文 making products that are designed to break or become unusable after a short period of time（短い期間で壊れたり使えなくなったりするように設計された製品を作る）＝ 選択肢 make goods that quickly became useless（すぐに役に立たなくなる商品を作る）
+ですから4が正解です。
+【ほかの選択肢】
+1 リサイクルを専門とする大企業がつくられたのは、本文では During the 19th century（19世紀の間）です。20世紀ではないので、時期が違います。
+2 本文には in the 20th century, producing metals became faster and more efficient（20世紀には、金属を作り出すことがより速く、効率的になった）とあります。速く効率的になったのは「金属を作り出すこと」で、「お金をかせぐために金属を使うこと」ではありません。同じ語句が使われていても、内容が違います。
+3 本文には Instead of reducing production costs as usual（それまでのように生産コストを減らすのではなく）とあります。20世紀のメーカーは、生産コストを減らすやり方から、計画的陳腐化というやり方に変えたのです。本文と反対の内容です。
+【覚えるポイント】
+・instead of -ing：「～するのではなく、～する代わりに」。
+・be designed to ～：「～するように設計されている（作られている）」。
