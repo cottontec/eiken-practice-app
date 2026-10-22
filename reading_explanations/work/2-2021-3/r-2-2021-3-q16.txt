@@ -3,7 +3,7 @@ choices: blame for | begin at | add to | act on
 answerText: blame for
 reviewed: yes
 ---
-【正解】1 blame for（（be to blame for ～で）～の責任がある、～の原因である）
+【正解】1 blame for（～の責任がある、～の原因である。be to blame for ～ の形）
 【和訳】
 （英文）
 The power company said that rats were to ［blame for］ the blackout. The animals had eaten through wires connecting houses to the electricity supply.

@@ -3,7 +3,7 @@ choices: least | less | only | worse
 answerText: less
 reviewed: yes
 ---
-【正解】2 less（（no less than ～で）～も）
+【正解】2 less（～も。no less than ～ の形）
 【和訳】
 （英文）
 Chris has been training hard for the city soccer championship. He runs no ［less］ than 5 kilometers and spends over an hour exercising in the gym every day.

@@ -3,7 +3,7 @@ choices: did away | kept on | went in | got on
 answerText: did away
 reviewed: yes
 ---
-【正解】1 did away（（with ～で）～を廃止した、やめた）
+【正解】1 did away（～を廃止した、やめた。do away with ～ の形）
 【和訳】
 （英文）
 The fast-food restaurant ［did away］ with extra-large drinks because only a few customers ordered them. Now, the drinks are smaller and more customers order them with meals.

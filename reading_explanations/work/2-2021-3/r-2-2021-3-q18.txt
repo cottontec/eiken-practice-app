@@ -3,7 +3,7 @@ choices: is living | is to live | will have lived | has lived
 answerText: will have lived
 reviewed: yes
 ---
-【正解】3 will have lived（（来年の時点で）住んでいることになる）
+【正解】3 will have lived（来年の時点で住んでいることになる）
 【和訳】
 （英文）
 Misaki's family moved to the United States when she was a little girl. Next year, Misaki ［will have lived］ there for more than half of her life.

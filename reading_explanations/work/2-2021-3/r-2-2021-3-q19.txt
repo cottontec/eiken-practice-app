@@ -3,7 +3,7 @@ choices: inform | informs | to inform | informed
 answerText: to inform
 reviewed: yes
 ---
-【正解】3 to inform（（regret to inform で）残念ながら～を知らせる）
+【正解】3 to inform（残念ながら～を知らせる。regret to inform の形）
 【和訳】
 （英文）
 The letter said the bank regretted ［to inform］ Mr. Humphries that his application for a credit card had not been successful.
