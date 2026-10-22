@@ -1,0 +1,34 @@
+---
+choices: There was an increase in the rates of serious diseases among Dutch children who started eating more German foods. | Many sick Dutch children experienced an improvement in their health when their access to a staple food was cut off. | Health benefits were observed when some Dutch and German adults added grass and tulip bulbs to their regular diet. | Dutch children who ate a lot of bread weighed much more than German children who had a similar diet.
+answerText: Many sick Dutch children experienced an improvement in their health when their access to a staple food was cut off.
+---
+【正解】2 Many sick Dutch children experienced an improvement in their health when their access to a staple food was cut off.（主食を手に入れる道が断たれたとき、病気だった多くのオランダの子どもたちの健康がよくなった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What was observed during World War II?（第二次世界大戦中に、何が観察されたか。）
+1 There was an increase in the rates of serious diseases among Dutch children who started eating more German foods.（ドイツの食べ物をより多く食べ始めたオランダの子どもたちの間で、重い病気にかかる割合が増えた。）
+2 Many sick Dutch children experienced an improvement in their health when their access to a staple food was cut off.（主食を手に入れる道が断たれたとき、病気だった多くのオランダの子どもたちの健康がよくなった。）
+3 Health benefits were observed when some Dutch and German adults added grass and tulip bulbs to their regular diet.（一部のオランダとドイツの大人が、ふだんの食事に草とチューリップの球根を加えたところ、健康によい効果が見られた。）
+4 Dutch children who ate a lot of bread weighed much more than German children who had a similar diet.（パンをたくさん食べたオランダの子どもたちは、似た食事をしていたドイツの子どもたちよりも、体重がずっと重かった。）
+【考え方】
+まず見るところ：第1段落の the German army cut off food supplies と saw their symptoms improve dramatically
+第1段落の後半で、戦争中に起きたことが書かれています。
+Then, in the winter of 1944, the German army cut off food supplies to the Netherlands.（そして1944年の冬、ドイツ軍がオランダへの食料の供給を断った）
+Many children who had been sick from the mysterious disease, however, saw their symptoms improve dramatically.（しかし、その謎の病気で具合が悪かった子どもたちの多くは、症状が劇的によくなった）
+When bread was reintroduced to Dutch diets, the children got sick again.（パンが再びオランダの人々の食事に取り入れられると、子どもたちはまた病気になった）
+食料が断たれてパンが食べられなくなると、子どもたちはよくなり、パンが戻るとまた病気になりました。段落の最後で、そのパンは the staple food of bread（主食のパン）と書かれています。
+本文と選択肢を対にすると、次のようになります。
+本文 Many children who had been sick（具合が悪かった子どもたちの多く）＝ 選択肢 Many sick Dutch children（病気だった多くのオランダの子どもたち）
+本文 saw their symptoms improve（症状がよくなった）≒ 選択肢 experienced an improvement in their health（健康がよくなった）
+本文 cut off food supplies（食料の供給を断った）＋ パンが戻ると再び病気に → 選択肢 their access to a staple food was cut off（主食を手に入れる道が断たれた）
+ですから2が正解です。
+この問題の型：言いかえ（symptoms improve ≒ an improvement in their health）／推論（食料が断たれた → 主食のパンが食べられなくなった）
+【ほかの選択肢】
+1 本文には、オランダの子どもたちがドイツの食べ物を多く食べ始めたという話はありません。ドイツ軍は食料の供給を断った側で、子どもたちの症状はむしろよくなっています。
+3 本文では、オランダの人々は草とチューリップの球根くらいしか食べるものがなく、何千人もが飢えで亡くなったと書かれています。それを食べて健康によかったという話ではなく、ドイツの大人についても書かれていません。
+4 本文には、オランダとドイツの子どもたちの体重を比べた話はありません。第1段落では、病気の子どもたちは losing weight（体重が減っていた）と書かれています。
+【覚えるポイント】
+・staple food：「主食（毎日の食事の中心になる食べ物）」。cut off は「（供給などを）断つ」。
+・本文の具体的な出来事（食料が断たれた・パンが戻った）が、選択肢ではまとめた言い方（主食を手に入れる道が断たれた）になることがよくあります。出来事の順番と結果を確かめて対応させるのが手がかりになります。

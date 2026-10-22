@@ -1,0 +1,30 @@
+---
+choices: broke away | held down | bottomed out | turned back
+answerText: broke away
+---
+【正解】1 broke away（抜け出した、引き離した）
+【和訳】
+（英文）
+The runner ［broke away］ early from the other runners to lead the race. When she crossed the finish line to win, there was a large distance between her and the next runner.
+（訳）
+そのランナーは、レースの先頭に立つために、早いうちにほかのランナーたちから（抜け出しました）。彼女がゴールラインを越えて優勝したとき、彼女と次のランナーの間には大きな差がありました。
+（選択肢の意味）
+1 broke away：（break away の過去形）抜け出した、引き離した
+2 held down：（hold down の過去形）押さえつけた、低く抑えた
+3 bottomed out：（bottom out の過去形）底を打った（下がりきった）
+4 turned back：（turn back の過去形）引き返した
+【考え方】
+まず見るところ：後半の文の there was a large distance between her and the next runner
+When she crossed the finish line to win, there was a large distance between her and the next runner.（彼女がゴールラインを越えて優勝したとき、彼女と次のランナーの間には大きな差があった）
+distance は「距離、差」です。ゴールしたとき、2位のランナーとの間が大きくあいていたことが分かります。
+空所のある文は次のとおりです。
+The runner (　) early from the other runners to lead the race.（そのランナーは、レースの先頭に立つために、早いうちにほかのランナーたちから（　））
+lead the race は「レースの先頭に立つ」です。空所のあとの from the other runners（ほかのランナーたちから）とつながり、先頭に立つための動きを表すのは break away from ～（～から抜け出す、引き離す）です。ですから1が正解です。
+この問題の型：熟語・決まった形（break away from ～）
+【ほかの選択肢】
+2 held down は「押さえつけた、低く抑えた」です。「ほかのランナーたちから押さえつけた」となり、from とのつながりも意味も通りません。
+3 bottomed out は「（値段などが）底を打った、下がりきった」です。値段や景気について使う語句で、ランナーが先頭に立つ話と合いません。
+4 turned back は「引き返した」です。レースの途中で引き返せば先頭に立てず、優勝して大きな差があったという後半の文と合いません。
+【覚えるポイント】
+・break away from ～：「～から抜け出す、～を引き離す」。レースでほかの選手を引き離すときなどに使われます。
+・句動詞（動詞と up・away などが組み合わさって1つの意味を表すもの）の問題では、空所のあとの from ～ のような語とのつながりと、後ろの文の結果（ここでは大きな差があったこと）の両方が手がかりになります。

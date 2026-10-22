@@ -1,0 +1,31 @@
+---
+choices: inflicted | enhanced | vanished | perceived
+answerText: inflicted
+---
+【正解】1 inflicted（（害などを）与えた）
+【和訳】
+（英文）
+The explosion at the chemical factory ［inflicted］ great damage on the local environment. It will take years for wildlife to fully recover in the region.
+（訳）
+化学工場での爆発は、地域の環境に大きな損害を（与えました）。その地域で野生生物が完全に回復するには何年もかかるでしょう。
+（選択肢の意味）
+1 inflicted：（害・苦しみなどを）与えた
+2 enhanced：高めた、よりよくした
+3 vanished：消えた
+4 perceived：気づいた、感じ取った
+【考え方】
+まず見るところ：空所のあとの great damage on the local environment
+空所のある文は次のとおりです。
+The explosion at the chemical factory ( ) great damage on the local environment.（化学工場での爆発は、地域の環境に大きな損害を（　））
+空所のあとには great damage（大きな損害）と on the local environment（地域の環境に）が続いています。inflict A on B で「B に A（損害や苦しみなど）を与える」という意味になります。
+あとの文は次のとおりです。
+It will take years for wildlife to fully recover in the region.（その地域で野生生物が完全に回復するには何年もかかるだろう）
+回復に何年もかかるほどの大きな損害を「与えた」という内容になり、前後がつながるので、1が正解です。
+この問題の型：熟語・決まった形（inflict damage on ～）
+【ほかの選択肢】
+2 enhanced は「高めた、よりよくした」です。「爆発が地域の環境に大きな損害を高めた」となり、意味が通りません。また、あとの「回復に何年もかかる」という内容ともつながりません。
+3 vanished は「消えた」です。vanish は「～を」に当たる語をあとに置かない動詞なので、great damage をすぐあとに続けることができません。「爆発が損害を消した」という意味にもなりません。
+4 perceived は「気づいた、感じ取った」です。「爆発が地域の環境に大きな損害を気づいた」となり、意味が通りません。気づくのは人であって、爆発ではありません。
+【覚えるポイント】
+・inflict A on B：「B に A（損害・苦しみなど）を与える」。damage（損害）や pain（痛み）などの、よくないものと組み合わせて使われます。
+・空所のあとに「名詞＋on ～」が続くときは、その名詞（ここでは damage）と on の両方に合う動詞を選ぶと手がかりになります。

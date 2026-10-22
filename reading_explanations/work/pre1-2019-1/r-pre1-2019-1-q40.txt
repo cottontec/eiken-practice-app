@@ -1,0 +1,35 @@
+---
+choices: Students there encouraged students at other universities to oppose the "Stamford Oath" by ignoring attempts to legally enforce it. | It was established by people whose ultimate goal was to become a part of either Oxford or Cambridge. | The government approved its establishment in order to show its willingness to make changes and therefore gain popularity with the public. | It was established without the permission of the ruling powers in England and was criticized by them because of this.
+answerText: It was established without the permission of the ruling powers in England and was criticized by them because of this.
+---
+【正解】4 It was established without the permission of the ruling powers in England and was criticized by them because of this.（それはイングランドで権力を持つ者たちの許可を得ずに設立され、そのことで彼らから批判された。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：In the third paragraph, what do we learn about London University?（第3段落で、ロンドン大学について何が分かるか。）
+1 Students there encouraged students at other universities to oppose the "Stamford Oath" by ignoring attempts to legally enforce it.（そこの学生たちは、ほかの大学の学生たちに、「スタンフォードの誓い」を法律で守らせようとする動きを無視することで、誓いに反対するよう呼びかけた。）
+2 It was established by people whose ultimate goal was to become a part of either Oxford or Cambridge.（それは、オックスフォードかケンブリッジのどちらかの一部になることを最終的な目標とする人々によって設立された。）
+3 The government approved its establishment in order to show its willingness to make changes and therefore gain popularity with the public.（政府は、変化を受け入れる姿勢を示し、それによって一般の人々の人気を得るために、その設立を認めた。）
+4 It was established without the permission of the ruling powers in England and was criticized by them because of this.（それはイングランドで権力を持つ者たちの許可を得ずに設立され、そのことで彼らから批判された。）
+【考え方】
+まず見るところ：第3段落の with neither funding nor consent from the government or the church と speak out against
+第3段落の後半で、ロンドン大学のことが書かれています。
+A radical experiment, the school was established with neither funding nor consent from the government or the church, and it was made clear that religious faith was not an admission requirement.（過激な実験として、この学校は政府からも教会からも資金も同意も得ずに設立され、宗教上の信仰は入学の条件ではないことがはっきりと示された）
+neither A nor B は「AもBも～ない」、consent は「同意」です。
+Though this led both the government and the church to speak out against the new institution's establishment, ～（このことで政府と教会はどちらもこの新しい教育機関の設立に反対の声を上げたが、～）
+this（このこと）は、前の文の、資金も同意も得ずに設立され、信仰を入学の条件にしなかったことを指しています。speak out against ～ は「～に反対の声を上げる」です。
+本文と選択肢を対にすると、次のようになります。
+本文 consent（同意）≒ 選択肢 permission（許可）
+本文 the government or the church（政府や教会）→ 選択肢 the ruling powers in England（イングランドで権力を持つ者たち）
+本文 speak out against（反対の声を上げる）≒ 選択肢 was criticized（批判された）
+本文 this led ～（このことで～）≒ 選択肢 because of this（そのことで）
+ですから4が正解です。
+この問題の型：言いかえ（consent ≒ permission、speak out against ≒ criticized）／指示語（this ＝ 同意なしの設立など）
+【ほかの選択肢】
+1 第3段落で、スタンフォードの誓いを終わらせたのは intellectuals（知識人たち）だと書かれています。ロンドン大学の学生たちがほかの大学の学生に呼びかけた、という話はありません。
+2 本文には、ロンドン大学を設立した人々がオックスフォードやケンブリッジの一部になろうとしていた、という話はありません。オックスフォードが新しい大学を通じて影響を広げようとしたのは第4段落の話で、ロンドン大学のことではありません。
+3 本文では、ロンドン大学は政府の consent（同意）なしに設立され、政府は設立に反対の声を上げました。政府が設立を認めたというのは本文と反対です。
+【覚えるポイント】
+・neither A nor B：「AもBも～ない」。consent は「同意」で、permission（許可）と近い意味です。
+・本文の this（このこと）が何を指しているかを確かめると、選択肢の because of this のような「理由」の部分が本文と合っているか判断する手がかりになります。

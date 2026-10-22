@@ -1,0 +1,30 @@
+---
+choices: magnifying | assessing | overdoing | encasing
+answerText: assessing
+---
+【正解】2 assessing（評価すること、見積もること）
+【和訳】
+（英文）
+After the earthquake, experts began ［assessing］ the extent of the damage to buildings. They issued reports about which ones were safe to continue to use.
+（訳）
+地震のあと、専門家たちは建物の被害の程度を（評価し）始めた。彼らは、どの建物なら引き続き使っても安全かについて報告書を出した。
+（選択肢の意味）
+1 magnifying：拡大すること
+2 assessing：評価すること、見積もること
+3 overdoing：やりすぎること
+4 encasing：（容器などで）包むこと、覆うこと
+【考え方】
+まず見るところ：空所のあとの the extent of the damage と、後ろの文の They issued reports
+空所のある文は、地震のあと専門家たちが建物の被害の程度（the extent of the damage）を（　）し始めた、と言っています。extent は「程度、範囲」です。
+後ろの文を見ます。
+They issued reports about which ones were safe to continue to use.（彼らは、どの建物なら引き続き使っても安全かについて報告書を出した）
+報告書を出すためには、まず建物がどれくらい壊れているかを調べて判断する必要があります。
+assess は「（程度や価値を）評価する、見積もる」という意味なので、2が正解です。
+この問題の型：語の意味・組み合わせ（assess the extent of the damage）／因果（被害を評価した→安全かどうかの報告書を出した）
+【ほかの選択肢】
+1 magnifying は「拡大すること」です。レンズなどで大きく見せることを表す語で、「被害の程度を拡大し始めた」となり、意味が通りません。
+3 overdoing は「やりすぎること」です。「被害の程度をやりすぎ始めた」となり、意味が通りません。
+4 encasing は「包むこと、覆うこと」です。被害の程度という目に見えないものを包むことはできず、報告書を出すという後ろの文にもつながりません。
+【覚えるポイント】
+・assess：「（程度や価値を）評価する、見積もる」。assess the damage（被害を見積もる）の形でよく使われます。
+・後ろの文に issued reports（報告書を出した）のような「調べた結果」があるときは、空所に「調べる、判断する」向きの動詞が入ることが多いので、結果から前の行動を考えると手がかりになります。

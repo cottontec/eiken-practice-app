@@ -1,0 +1,29 @@
+---
+choices: outgoing | cheery | sober | unstable
+answerText: sober
+---
+【正解】3 sober（しらふの、酒に酔っていない）
+【和訳】
+（英文）
+As part of their campaign against drunk driving, the police set up checkpoints during the holidays to stop drivers and make sure they were ［sober］.
+（訳）
+飲酒運転に反対するキャンペーンの一環として、警察は休暇の期間に、運転手を止めて、彼らが（酒に酔っていない）ことを確かめるために、検問所を設けた。
+（選択肢の意味）
+1 outgoing：社交的な、外向的な
+2 cheery：陽気な、明るい
+3 sober：しらふの、酒に酔っていない
+4 unstable：不安定な
+【考え方】
+まず見るところ：文の始めの against drunk driving
+文の始めを見ます。
+As part of their campaign against drunk driving（飲酒運転に反対するキャンペーンの一環として）
+drunk driving は「飲酒運転（酒に酔った状態で車を運転すること）」です。警察は、これを防ぐために検問所（車を止めて調べる場所）を設けました。
+空所は make sure they were ( )（彼らが（　）であることを確かめる）の中にあります。飲酒運転を防ぐのですから、確かめるのは「運転手が酒に酔っていないかどうか」です。sober は「しらふの、酒に酔っていない」という意味なので、3が正解です。
+この問題の型：語の意味・組み合わせ（drunk driving→sober）／因果（飲酒運転を防ぐ→酔っていないかを確かめる）
+【ほかの選択肢】
+1 outgoing は「社交的な」です。運転手が人づきあいがよいかどうかは、飲酒運転を防ぐための確認になりません。
+2 cheery は「陽気な、明るい」です。運転手が明るいかどうかを確かめても、飲酒運転を防ぐことにつながりません。
+4 unstable は「不安定な」です。make sure they were unstable では「運転手が不安定であることを確かめる」となり、警察が確かめたい内容と反対の向きになります。
+【覚えるポイント】
+・sober：「しらふの、酒に酔っていない」。drunk（酔った）と反対の意味の語です。
+・make sure（that）～（～であることを確かめる）の空所は、文の目的（ここでは against drunk driving）から「どうであってほしいか」を考えると手がかりになります。

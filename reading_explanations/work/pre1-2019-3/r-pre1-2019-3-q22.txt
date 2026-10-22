@@ -1,0 +1,29 @@
+---
+choices: get down to | send out for | walk off with | grow out of
+answerText: get down to
+---
+【正解】1 get down to（（本気で）～に取りかかる）
+【和訳】
+（英文）
+William had so many e-mails to respond to in the morning that it was lunchtime before he could ［get down to］ preparing for the presentation he had to give that evening.
+（訳）
+ウィリアムは午前中に返信しなければならないメールがあまりに多かったので、その日の夜に行わなければならない発表の準備に（取りかかる）ことができたのは、昼食の時間になってからだった。
+（選択肢の意味）
+1 get down to：（本気で）～に取りかかる
+2 send out for：（食べ物などの）出前を頼む、配達を注文する
+3 walk off with：～を持ち去る、（賞などを）楽々と勝ち取る
+4 grow out of：成長して～をしなくなる、（服などが）大きくなって合わなくなる
+【考え方】
+まず見るところ：文の前半の so many e-mails ～ that it was lunchtime before he could ( )
+William had so many e-mails to respond to in the morning that ～（ウィリアムは午前中に返信しなければならないメールがあまりに多かったので～）
+so ～ that ... は「とても～なので…」という意味です。メールの返信に追われていた、という内容です。
+it was lunchtime before he could ( ) preparing for the presentation（発表の準備に（　）ことができたのは、昼食の時間になってからだった）
+it was lunchtime before ～ は、直訳すると「～できる前に昼食の時間になっていた」で、「～できたのは昼になってからだった」という意味です。メールのせいで、本来やるべき発表の準備を始めるのが遅くなった、という流れです。get down to ～ は「（本気で）～に取りかかる」で、to のあとに名詞や ～ing（ここでは preparing）を置けるので、1が正解です。
+この問題の型：熟語・決まった形（get down to ～ing）／因果（so ～ that：メールが多い→準備に取りかかるのが遅れた）
+【ほかの選択肢】
+2 send out for は「（食べ物などの）出前を頼む」です。「発表の準備の出前を頼む」となり、意味が通りません。
+3 walk off with は「～を持ち去る、楽々と勝ち取る」です。「発表の準備を持ち去る」となり、意味が通りません。
+4 grow out of は「成長して～をしなくなる」です。「昼になるまで発表の準備をしなくなることができなかった」となり、メールが多くて準備が遅れたという流れに合いません。
+【覚えるポイント】
+・get down to ～：「（本気で）～に取りかかる」。この to は後ろに名詞や ～ing の形を置く to です。
+・so ～ that it was ... before ～ のように「～のせいで、…になってからやっと～できた」という流れのときは、空所に「始める、取りかかる」という意味の語句が入らないかを考えると手がかりになります。

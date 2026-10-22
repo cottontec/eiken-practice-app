@@ -1,0 +1,30 @@
+---
+choices: transplant | conceal | interact | soak
+answerText: transplant
+---
+【正解】1 transplant（植えかえる、移植する）
+【和訳】
+（英文）
+The roses were not growing well, so Sheila decided to ［transplant］ them to another part of the garden. She hoped they would do better if they had more sunlight.
+（訳）
+バラがよく育っていなかったので、シーラはそれらを庭の別の場所に（植えかえる）ことにした。もっと日光が当たれば、もっとよく育つだろうと、彼女は期待していた。
+（選択肢の意味）
+1 transplant：植えかえる、移植する
+2 conceal：隠す
+3 interact：交流する、互いに影響し合う
+4 soak：（液体に）ひたす、ずぶぬれにする
+【考え方】
+まず見るところ：空所のあとの them to another part of the garden
+空所のある文は、バラがよく育っていなかったので、シーラはそれらを庭の別の場所へ（　）することにした、と言っています。them はバラを指しています。
+後ろの文を見ます。
+She hoped they would do better if they had more sunlight.（もっと日光が当たれば、もっとよく育つだろうと、彼女は期待していた）
+日光がもっと当たる場所へバラを動かそうとしていることが分かります。植物を別の場所へ移すことは「植えかえる」と言います。
+transplant A to B は「AをBへ植えかえる」という意味なので、1が正解です。
+この問題の型：語の意味・組み合わせ（transplant A to B）／因果（よく育たない→日の当たる場所へ植えかえる）
+【ほかの選択肢】
+2 conceal は「隠す」です。「バラを庭の別の場所に隠す」となり、日光をもっと当てたいという目的と合いません。
+3 interact は「交流する、互いに影響し合う」です。interact with ～（～と交流する）の形で使う語で、interact them to ～ という形は作れません。
+4 soak は「（液体に）ひたす」です。「バラを庭の別の場所へひたす」となり、意味が通りません。日光をもっと当てたいという後ろの文ともつながりません。
+【覚えるポイント】
+・transplant：「植えかえる、移植する」。trans-（別の所へ）＋plant（植える）と分けると覚えやすいです。
+・空所のあとに to another part of ～（～の別の場所へ）があるときは、「ある所から別の所へ移す」意味の動詞が入る手がかりになります。後ろの文の理由（ここでは more sunlight）と合うかも確かめます。

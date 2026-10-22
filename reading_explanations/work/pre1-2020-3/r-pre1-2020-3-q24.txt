@@ -1,0 +1,30 @@
+---
+choices: check up on | go through with | get away with | fall back on
+answerText: check up on
+---
+【正解】1 check up on（～の様子を確かめる）
+【和訳】
+（英文）
+Marcia went upstairs to ［check up on］ her son, and she was very angry to find him playing video games instead of doing his homework.
+（訳）
+マーシャは息子の（様子を確かめ）に上の階へ行きました。そして、息子が宿題をしないでテレビゲームをしているのを見つけて、とても腹を立てました。
+（選択肢の意味）
+1 check up on：～の様子を確かめる
+2 go through with：～をやり遂げる
+3 get away with：（悪いことを）とがめられずに済ませる
+4 fall back on：（困ったときに）～に頼る
+【考え方】
+まず見るところ：文の後半の she was very angry to find him playing video games
+she was very angry to find him playing video games instead of doing his homework（息子が宿題をしないでテレビゲームをしているのを見つけて、とても腹を立てた）
+be angry to ～ は「～して腹を立てる」、find ＋人＋ ～ing は「人が～しているのを見つける」、instead of ～ は「～しないで、～の代わりに」です。マーシャは、上の階で息子が何をしているかを見たことが分かります。
+空所のある部分は次のとおりです。
+Marcia went upstairs to (　) her son（マーシャは息子を（　）ために上の階へ行った）
+息子がちゃんと宿題をしているかを見に行った、と考えると、後半の「ゲームをしているのを見つけて怒った」とつながります。check up on ～ は「～の様子を確かめる」という意味なので、1が正解です。
+この問題の型：熟語・決まった形（check up on ～）／推論（ゲームをしているのを見つけた→様子を見に行った）
+【ほかの選択肢】
+2 go through with は「（計画などを）やり遂げる」です。「息子をやり遂げるために上の階へ行った」となり、意味が通りません。
+3 get away with は「（悪いことを）とがめられずに済ませる」です。「息子をとがめられずに済ませるために上の階へ行った」となり、意味が通りません。
+4 fall back on は「（困ったときに）～に頼る」です。「息子に頼るために上の階へ行った」となり、ゲームをしているのを見つけて怒ったという後半とつながりません。
+【覚えるポイント】
+・check up on ～：「～の様子を確かめる」。子どもや病人など、気にかけている人がどうしているかを見に行くときに使われます。
+・前置詞（on・with などの短い語）が2つ続く句動詞は、選択肢を1つずつ空所に入れて、後ろの文の結果（ここでは見つけて怒ったこと）とつながるかで考えると手がかりになります。

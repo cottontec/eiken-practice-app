@@ -1,0 +1,30 @@
+---
+choices: sell out | buy into | attend to | slip on
+answerText: attend to
+---
+【正解】3 attend to（～に対応する、～の世話をする）
+【和訳】
+（英文）
+Craig's consulting business grew quickly. He soon found he could not ［attend to］ all of his clients' needs by himself, so he hired an assistant.
+（訳）
+クレイグのコンサルティング（会社などに専門的な助言をする仕事）の事業は、急速に大きくなった。彼は、自分一人では顧客の要望のすべてに（対応する）ことはできないとすぐに気づいたので、助手を雇った。
+（選択肢の意味）
+1 sell out：売り切る
+2 buy into：（考えなどを）すっかり信じこむ
+3 attend to：～に対応する、～の世話をする
+4 slip on：～をさっと身に着ける
+【考え方】
+まず見るところ：空所のあとの all of his clients' needs by himself と、文の最後の so he hired an assistant
+前半の文から、クレイグの事業が急に大きくなったことが分かります。
+空所のある文を見ます。
+He soon found he could not ( ) all of his clients' needs by himself, so he hired an assistant.（彼は、自分一人では顧客の要望のすべてに（　）ことはできないとすぐに気づいたので、助手を雇った）
+could not ～ all は「すべてを～できるわけではない」という意味です。客が増えて、一人では全員の要望に手が回らなくなったので、助手を雇ったという流れです。
+attend to ～ は「～に対応する、～の世話をする」という意味なので、3が正解です。
+この問題の型：熟語・決まった形（attend to ～）／因果（一人では対応できない→助手を雇った）
+【ほかの選択肢】
+1 sell out は「売り切る」です。「顧客の要望を売り切る」となり、意味が通りません。
+2 buy into は「（考えなどを）すっかり信じこむ」です。「顧客の要望を一人では信じこめない」となり、助手を雇う理由になりません。
+4 slip on は「～をさっと身に着ける」です。服などを着るときに使う語句で、「顧客の要望を身に着ける」では意味が通りません。
+【覚えるポイント】
+・attend to ～：「～に対応する、～の世話をする」。attend（出席する）とは意味が違うので、to がつく形で覚えましょう。
+・could not ～ by himself, so he hired an assistant（一人では～できなかったので助手を雇った）のような文では、空所に「仕事を引き受けてこなす」向きの語句が入る手がかりになります。

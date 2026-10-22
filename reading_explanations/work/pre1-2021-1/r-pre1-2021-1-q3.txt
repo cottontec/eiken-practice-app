@@ -1,0 +1,30 @@
+---
+choices: indefinite | ironic | restless | superficial
+answerText: ironic
+---
+【正解】2 ironic（皮肉な）
+【和訳】
+（英文）
+It is sadly ［ironic］ that, in developing countries, many of the farmers who grow nutritious crops for export do not have enough food to feed their own families.
+（訳）
+発展途上国では、輸出用に栄養のある作物を育てている農家の多くが、自分の家族に食べさせるだけの十分な食べ物を持っていません。これは悲しいことに（皮肉な）ことです。
+（選択肢の意味）
+1 indefinite：はっきりしない、期限が決まっていない
+2 ironic：皮肉な（当然そうなると思われることと、逆の結果になっている）
+3 restless：落ち着かない、じっとしていられない
+4 superficial：表面的な、うわべだけの
+【考え方】
+まず見るところ：that 以下の grow nutritious crops と do not have enough food
+この文は It is ～ that ...（…ということは～だ）の形です。空所には、that 以下の内容をどう感じるかを表す形容詞（名詞のようすや性質を表す語）が入ります。
+that 以下は次のとおりです。
+many of the farmers who grow nutritious crops for export do not have enough food to feed their own families（輸出用に栄養のある作物を育てている農家の多くが、自分の家族に食べさせるのに十分な食べ物を持っていない）
+栄養のある食べ物を作っている人たちが、自分の家族の食べ物には困っている、という内容です。食べ物を作っている人なら食べ物に困らないはずだ、と考えるのが自然なので、これは予想と逆の結果です。
+ironic は「皮肉な（当然と思われることと逆の結果になっている）」という意味なので、2が正解です。sadly（悲しいことに）とも自然につながります。
+この問題の型：語の意味・組み合わせ（It is ironic that ～）／対比（作物を育てている⇔食べ物が足りない）
+【ほかの選択肢】
+1 indefinite は「はっきりしない、期限が決まっていない」です。that 以下ははっきり述べられた事実なので、「はっきりしないことだ」では合いません。
+3 restless は「落ち着かない」です。人や動物のようすを表す語なので、「…ということは落ち着かない」となり、意味が通りません。
+4 superficial は「表面的な、うわべだけの」です。「…ということは悲しいことに表面的だ」となり、意味が通りません。
+【覚えるポイント】
+・ironic：「皮肉な」。予想や当然と思われることと逆の結果になっているときに使います。
+・It is ～ that ... の文では、that 以下の内容をまず読み、その内容に「予想と逆」「意外」などの特徴があるかを考えると、空所の形容詞を選ぶ手がかりになります。

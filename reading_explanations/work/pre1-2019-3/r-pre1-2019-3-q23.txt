@@ -1,0 +1,31 @@
+---
+choices: points to | acts out | heads off | misses out
+answerText: points to
+---
+【正解】1 points to（～を示す、～の前ぶれとなる）
+【和訳】
+（英文）
+A: Do you think the economy will recover next year, Professor Grey?
+B: Well, I'm a little worried. Fewer people are buying houses, and that usually ［points to］ a worse economy in the future.
+（訳）
+A：グレイ教授、来年、景気は回復すると思いますか。
+B：そうですね、少し心配しています。（以前より）家を買っている人が少なく、そのことはたいてい、将来、景気が（今より）悪くなることを（示している）のです。
+（選択肢の意味）
+1 points to：～を示す、～の前ぶれとなる
+2 acts out：～を演じる、（気持ちを）行動に表す
+3 heads off：～を食い止める、（前に回って）さえぎる
+4 misses out：（よい機会を）逃す
+【考え方】
+まず見るところ：Bの I'm a little worried と、空所の後ろの a worse economy in the future
+Well, I'm a little worried.（そうですね、少し心配しています）
+Aの「景気は回復すると思うか」という質問に、Bは「少し心配だ」と答えています。つまり、Bはこれから景気が悪くなるかもしれないと考えています。
+Fewer people are buying houses, and that usually ( ) a worse economy in the future.（（以前より）家を買っている人が少なく、そのことはたいてい、将来の（今より）悪い景気を（　））
+that は前の「家を買っている人が少ないこと」を指しています。家を買う人が少ないことは、将来景気が悪くなるしるしだ、と言えば「心配している」理由になります。point to ～ は「～を示す、～の前ぶれとなる」なので、1が正解です。
+この問題の型：指示語（that＝家を買っている人が少ないこと）／因果（心配している理由）
+【ほかの選択肢】
+2 acts out は「～を演じる」です。「家を買う人が少ないことが悪い景気を演じる」となり、意味が通りません。
+3 heads off は「～を食い止める」です。「家を買う人が少ないことが、将来の景気の悪化を食い止める」となり、Bが「少し心配している」ことと合いません。
+4 misses out は「（よい機会を）逃す」で、ふつう miss out on ～ の形で使います。「悪い景気を逃す」となり、意味が通りません。
+【覚えるポイント】
+・point to ～：「～を示す、～の前ぶれとなる」。
+・I'm a little worried のように話し手の気持ちが先に述べられているときは、そのあとの文がその気持ちの理由になるように、空所の語句を選ぶことが手がかりになります。

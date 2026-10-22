@@ -1,0 +1,30 @@
+---
+choices: snatched | appreciated | elevated | donated
+answerText: elevated
+---
+【正解】3 elevated（高くされる、持ち上げられる）
+【和訳】
+（英文）
+Many visitors to the theater complained that the stage was so low they could not see the performers. The management decided to have the stage ［elevated］ by a meter.
+（訳）
+その劇場に来た多くの客が、舞台がとても低いので演者が見えないと苦情を言いました。経営者側は、舞台を1メートル（高く）することに決めました。
+（選択肢の意味）
+1 snatched：（snatch の過去分詞）ひったくられる
+2 appreciated：（appreciate の過去分詞）よさを認められる、感謝される
+3 elevated：（elevate の過去分詞）高くされる、持ち上げられる
+4 donated：（donate の過去分詞）寄付される
+【考え方】
+まず見るところ：前半の文の the stage was so low they could not see the performers
+Many visitors to the theater complained that the stage was so low they could not see the performers.（その劇場に来た多くの客が、舞台がとても低いので演者が見えないと苦情を言った）
+complain は「苦情を言う、不満を言う」、so ～ (that) ... は「とても～なので…」です。客の不満は「舞台が低すぎて見えない」ことでした。
+空所のある文は次のとおりです。
+The management decided to have the stage (　) by a meter.（経営者側は、舞台を1メートル（　）状態にすることに決めた）
+management は「経営者側、管理する人たち」です。have ＋もの＋過去分詞（～された形）は「ものを～された状態にする（だれかに～してもらう）」という意味です。舞台が低いという不満にこたえるには、舞台を高くすればよいと考えられます。elevate は「高くする、持ち上げる」という意味で、by a meter（1メートル分）ともつながるので、3が正解です。
+この問題の型：因果（舞台が低くて見えない→舞台を高くする）／文法（have ＋もの＋過去分詞）
+【ほかの選択肢】
+1 snatched は「ひったくられる」です。「舞台を1メートルひったくられた状態にする」となり、意味が通りません。
+2 appreciated は「よさを認められる、感謝される」です。「舞台を1メートル感謝された状態にする」となり、by a meter（1メートル分）とつながりません。
+4 donated は「寄付される」です。「舞台を1メートル寄付された状態にする」となり、舞台が低いという不満の解決になりません。
+【覚えるポイント】
+・elevate：「高くする、持ち上げる」。by a meter のような by ＋数量は「～の分だけ」と、変化の大きさを表します。
+・苦情や問題が書かれた文のあとでは、それを解決する行動が続くことが多いので、「何が問題か」（ここでは舞台が低いこと）が空所の手がかりになります。

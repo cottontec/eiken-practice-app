@@ -1,0 +1,30 @@
+---
+choices: allied | vivid | stout | fluent
+answerText: vivid
+---
+【正解】2 vivid（鮮明な、生々しい）
+【和訳】
+（英文）
+One side effect of the medicine is the occurrence of ［vivid］ dreams. About 5 percent of people who take it report having intense, realistic experiences during their sleep.
+（訳）
+その薬の副作用の1つは、（鮮明な）夢が起こることです。その薬を飲む人の約5パーセントが、眠っている間に強烈で現実のような体験をしたと報告しています。
+（選択肢の意味）
+1 allied：同盟を結んだ、関連のある
+2 vivid：鮮明な、生々しい
+3 stout：太った、頑丈な
+4 fluent：（言葉が）流ちょうな
+【考え方】
+まず見るところ：後半の文の intense, realistic experiences during their sleep
+About 5 percent of people who take it report having intense, realistic experiences during their sleep.（その薬を飲む人の約5パーセントが、眠っている間に強烈で現実のような体験をしたと報告している）
+intense は「強烈な、激しい」、realistic は「現実のような」という意味です。during their sleep（眠っている間に）の体験とは、夢のことです。
+空所のある文は次のとおりです。
+One side effect of the medicine is the occurrence of (　) dreams.（その薬の副作用の1つは、（　）夢が起こることだ）
+side effect は「副作用（薬の、目的とは別の作用）」、occurrence は「起こること」です。「強烈で現実のような夢」を1語で表すのは、「鮮明な、生々しい」という意味の vivid です。ですから2が正解です。
+この問題の型：言いかえ（vivid dreams ＝ intense, realistic experiences during their sleep）
+【ほかの選択肢】
+1 allied は「同盟を結んだ、関連のある」です。「関連のある夢」では、どんな夢なのかが分からず、強烈で現実のようだという後半の説明と合いません。
+3 stout は「太った、頑丈な」です。ふつう人の体つきや物の丈夫さを表す語で、夢の説明として意味が通りません。
+4 fluent は「（言葉が）流ちょうな」です。言葉をすらすら話すようすを表す語で、夢の説明として意味が通りません。
+【覚えるポイント】
+・vivid：「鮮明な、生々しい」。vivid dreams（鮮明な夢）や vivid colors（鮮やかな色）のように使われます。
+・空所のあとの文で、空所の語の意味をくわしく説明していることがあります。intense, realistic（強烈で現実のような）のような形容詞（名詞のようすを表す語）をまとめて言うとどの語になるかを考えると手がかりになります。

@@ -1,0 +1,32 @@
+---
+choices: have become more severe because of increases in the quantity of wheat that people regularly consume. | occur to some degree in the majority of people whose ancestors came from European countries. | can actually lead to increased absorption of nutrients in around 1 percent of people with the condition. | occur in only a small percentage of the people whose genes put them at risk for the condition.
+answerText: occur in only a small percentage of the people whose genes put them at risk for the condition.
+---
+【正解】4 occur in only a small percentage of the people whose genes put them at risk for the condition.（遺伝子のせいでこの病気にかかるおそれがある人々のうち、ほんの少しの割合の人にしか起こらない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Researchers have discovered that the symptoms of celiac disease（研究者たちは、セリアック病の症状が～ことを発見した）
+1 have become more severe because of increases in the quantity of wheat that people regularly consume.（人々がふだん食べる小麦の量が増えたことによって、より重くなってきた。）
+2 occur to some degree in the majority of people whose ancestors came from European countries.（祖先がヨーロッパの国々から来た人々の大多数に、ある程度起こる。）
+3 can actually lead to increased absorption of nutrients in around 1 percent of people with the condition.（この病気の人のおよそ1パーセントでは、実は栄養の吸収が増えることにつながる場合がある。）
+4 occur in only a small percentage of the people whose genes put them at risk for the condition.（遺伝子のせいでこの病気にかかるおそれがある人々のうち、ほんの少しの割合の人にしか起こらない。）
+【考え方】
+まず見るところ：第2段落の They found that although about 30 percent ～, 95 percent of those people can eat gluten without experiencing any problem.
+設問は Researchers have discovered（研究者たちは発見した）なので、本文の They found（研究者たちは発見した）の部分を探します。
+They found that although about 30 percent of people with European heritage carry the genes associated with celiac disease, 95 percent of those people can eat gluten without experiencing any problem.（研究者たちは、ヨーロッパ系の人々のおよそ30パーセントがセリアック病に関係する遺伝子を持っているが、そのうちの95パーセントの人は、何の問題も起こさずにグルテンを食べられることを発見した）
+heritage は「（受けついだ）家系、血筋」、genes は「遺伝子（親から子へ受けつがれる体の設計図）」です。
+病気に関係する遺伝子を持っている人のうち、95パーセントは問題がありません。つまり、症状が出るのは残りのわずか5パーセントほどです。
+本文と選択肢を対にすると、次のようになります。
+本文 carry the genes associated with celiac disease（セリアック病に関係する遺伝子を持っている）→ 選択肢 whose genes put them at risk for the condition（遺伝子のせいでこの病気にかかるおそれがある）
+本文 95 percent of those people can eat gluten without experiencing any problem（そのうち95パーセントは問題なくグルテンを食べられる）→ 選択肢 occur in only a small percentage（ほんの少しの割合の人にしか起こらない）
+ですから4が正解です。
+この問題の型：推論（95パーセントは問題なし → 症状が出るのは少しの割合）／言いかえ（carry the genes ～ → genes put them at risk）
+【ほかの選択肢】
+1 本文には、人々が食べる小麦の量が増えたという話も、症状が重くなってきたという話もありません。
+2 本文では、ヨーロッパ系の人々で遺伝子を持っているのは約30パーセントで、そのうち95パーセントは問題がないと書かれています。症状が出る人は大多数（半分より多く）ではないので、本文と合いません。
+3 本文では、グルテンは prevents the gut from absorbing nutrients（腸が栄養を吸収するのを妨げる）と書かれていて、吸収が増えるのではありません。また、1 percent は、世界の人々のうちセリアック病にかかる人の割合で、選択肢の使い方とは違います。
+【覚えるポイント】
+・be at risk for ～：「～にかかるおそれがある」。percentage は「割合」。
+・本文に数字（30パーセント、95パーセントなど）が出てきたら、「何のうちの何パーセントか」を確かめ、選択肢の a small percentage（少しの割合）や the majority（大多数）と照らし合わせるのが手がかりになります。

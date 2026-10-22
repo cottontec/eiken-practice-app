@@ -1,0 +1,29 @@
+---
+choices: splendor | infrastructure | adoration | enrollment
+answerText: enrollment
+---
+【正解】4 enrollment（入学者数、在籍者数）
+【和訳】
+（英文）
+In recent years, the university has seen a large decrease in ［enrollment］. To make up for having fewer students, tuition had to be raised.
+（訳）
+ここ数年、その大学では（入学者数）が大きく減ってきている。学生が（以前より）少ないことを補うために、授業料を上げなければならなかった。
+（選択肢の意味）
+1 splendor：壮麗さ、豪華さ
+2 infrastructure：インフラ（道路・水道・建物など、生活や活動を支える基本的な設備）
+3 adoration：崇拝、熱愛（とても深く愛し敬うこと）
+4 enrollment：入学者数、在籍者数（入学・登録すること）
+【考え方】
+まず見るところ：後ろの文の To make up for having fewer students
+In recent years, the university has seen a large decrease in ( ).（ここ数年、その大学では（　）が大きく減ってきている）
+has seen a large decrease in ～ は「～が大きく減ってきている」という意味です。何が減ったのかが空所に入ります。
+To make up for having fewer students, tuition had to be raised.（学生が（以前より）少ないことを補うために、授業料を上げなければならなかった）
+make up for ～ は「～を補う、埋め合わせる」、tuition は「授業料」という意味です。fewer students（（以前より）少ない学生）とあるので、減ったのは学生の数だと分かります。enrollment は「入学者数、在籍者数」なので、4が正解です。
+この問題の型：言いかえ（a large decrease in enrollment → having fewer students）
+【ほかの選択肢】
+1 splendor は「壮麗さ、豪華さ」です。豪華さが減ったことと、学生が少ないことを補うために授業料を上げたことはつながりません。
+2 infrastructure は「インフラ（基本的な設備）」です。設備が減ったという話では、後ろの文の fewer students（（以前より）少ない学生）とつながりません。
+3 adoration は「崇拝、熱愛」です。「熱愛が大きく減った」となり、学生の数の話とつながりません。
+【覚えるポイント】
+・enrollment：「入学者数、在籍者数」。a decrease in enrollment は「入学者（在籍者）の減少」です。
+・空所の文で「何かが減った」と言い、次の文に fewer ～（より少ない～）があるときは、その fewer のあとの語（ここでは students）が、減ったものを言いかえていないかを確かめることが手がかりになります。

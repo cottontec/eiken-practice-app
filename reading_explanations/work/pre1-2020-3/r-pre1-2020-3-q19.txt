@@ -1,0 +1,30 @@
+---
+choices: guardian | defendant | servant | commuter
+answerText: guardian
+---
+【正解】1 guardian（保護者）
+【和訳】
+（英文）
+Many airlines require young children to have the permission of a parent or ［guardian］ if the child is going to travel alone on an airplane.
+（訳）
+多くの航空会社は、幼い子どもが一人で飛行機に乗って旅行する場合、親または（保護者）の許可を得ていることを求めています。
+（選択肢の意味）
+1 guardian：保護者、後見人
+2 defendant：被告（裁判で訴えられた側の人）
+3 servant：召し使い
+4 commuter：通勤（通学）する人
+【考え方】
+まず見るところ：空所の前の the permission of a parent or
+the permission of a parent or (　)（親または（　）の許可）
+permission は「許可」です。or（または）は、似た種類のものを並べるときに使います。ここでは parent（親）と並んで、子どもに許可を出せる人が入ります。
+文全体は次のとおりです。
+Many airlines require young children to have the permission ～ if the child is going to travel alone on an airplane.（多くの航空会社は、幼い子どもが一人で飛行機に乗って旅行する場合、～の許可を得ていることを求めている）
+require ～ to ... は「～に…することを求める」です。子どもが一人で旅行するときに許可を出せるのは、親か、親の代わりに子どもの世話に責任をもつ人です。guardian は「保護者」という意味なので、1が正解です。
+この問題の型：語の意味・組み合わせ（a parent or guardian）
+【ほかの選択肢】
+2 defendant は「被告（裁判で訴えられた側の人）」です。「親または被告の許可」となり、子どもの旅行に許可を出す人として意味が通りません。
+3 servant は「召し使い」です。召し使いは子どもの旅行に許可を出す立場の人とは言えず、parent（親）と並べるものとして合いません。
+4 commuter は「通勤（通学）する人」です。「親または通勤する人の許可」となり、意味が通りません。
+【覚えるポイント】
+・guardian：「保護者、後見人（親の代わりに子どもの世話や財産に責任をもつ人）」。a parent or guardian（親または保護者）の組み合わせでよく使われます。
+・A or (　) の形では、空所にはAと似た種類のものが入ることが多いので、Aが何の仲間かを考えると手がかりになります。

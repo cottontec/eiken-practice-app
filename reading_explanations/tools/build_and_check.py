@@ -24,7 +24,7 @@ def load(p):
 
 def norm(s):
     s = unicodedata.normalize('NFKC', s)
-    s = s.replace('’', "'").replace('‘', "'").replace('“', '"').replace('”', '"').replace('—', '-').replace('–', '-').replace('\u2010', '-').replace('\u2011', '-').replace('\u2212', '-').replace('\u00ad', '')
+    s = s.replace('’', "'").replace('‘', "'").replace('“', '"').replace('”', '"').replace('—', '-').replace('–', '-').replace('\u2010', '-').replace('\u2011', '-').replace('\u2212', '-').replace('\u00ad', '-')
     s = re.sub(r'-\s*\n\s*', '', s)  # 行末ハイフン
     return re.sub(r'\s+', ' ', s).strip().lower()
 

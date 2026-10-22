@@ -1,0 +1,33 @@
+---
+choices: The government will only declare a state of emergency if there is evidence of land rise occurring. | Because so much focus is put on the possibility of an eruption, local residents are quick to react to emergency warnings. | The government is concerned that scientists have not considered all the possible factors that could lead to an eruption. | Even though the volcano has been showing signs it could erupt, it may be difficult to convince local residents of the actual danger.
+answerText: Even though the volcano has been showing signs it could erupt, it may be difficult to convince local residents of the actual danger.
+---
+【正解】4 Even though the volcano has been showing signs it could erupt, it may be difficult to convince local residents of the actual danger.（その火山は噴火するかもしれないしるしを見せてきているが、地元の住民に本当の危険を納得させるのは難しいかもしれない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is suggested about Campi Flegrei?（カンピ・フレグレイについて、何が示唆されているか〔本文から読み取れるか〕。）
+1 The government will only declare a state of emergency if there is evidence of land rise occurring.（政府は、土地の盛り上がりが起きている証拠があるときにだけ、緊急事態を宣言するだろう。）
+2 Because so much focus is put on the possibility of an eruption, local residents are quick to react to emergency warnings.（噴火の可能性に大きな注目が集まっているので、地元の住民は緊急警報にすばやく反応する。）
+3 The government is concerned that scientists have not considered all the possible factors that could lead to an eruption.（政府は、噴火につながるかもしれないすべての要因を、科学者が考えに入れていないことを心配している。）
+4 Even though the volcano has been showing signs it could erupt, it may be difficult to convince local residents of the actual danger.（その火山は噴火するかもしれないしるしを見せてきているが、地元の住民に本当の危険を納得させるのは難しいかもしれない。）
+【考え方】
+まず見るところ：第3段落の patterns of land rise there have been similar to those と、Residents of the area, having experienced numerous false alarms, do not want to evacuate
+設問の suggested は「示唆されている（はっきりとは書かれていないが、本文から読み取れる）」という意味です。第3段落の内容を2つに分けて確かめます。
+In recent years, patterns of land rise there have been similar to those that occurred before caldera eruptions in other parts of the world, indicating that the crust may be near the breaking point.（近年、そこでの土地の盛り上がり方のパターンは、世界のほかの地域でカルデラが噴火する前に起こったパターンと似ていて、地殻が割れる寸前に近づいているかもしれないことを示している）
+まず、火山には噴火のしるしが出ていることが分かります。
+Residents of the area, having experienced numerous false alarms, do not want to evacuate when an eruption is far from certain.（その地域の住民たちは、何度もまちがった警報を経験してきたので、噴火が確実とはほど遠いときには避難したくないと思っている）
+This has made some residents suspicious of the motive behind emergency warnings.（このことで、一部の住民は、緊急警報の裏にある動機を疑うようになった）
+次に、住民は避難したがらず、警報を疑う人もいることが分かります。本文と選択肢を対にすると、次のようになります。
+・本文 patterns of land rise ... indicating that the crust may be near the breaking point（土地の盛り上がり方が、地殻が割れる寸前かもしれないことを示している）→ まとめると → 選択肢 the volcano has been showing signs it could erupt（火山が噴火するかもしれないしるしを見せてきている）
+・本文 do not want to evacuate ／ suspicious of the motive behind emergency warnings（避難したくない／緊急警報の動機を疑う）→ 読み取れること → 選択肢 it may be difficult to convince local residents of the actual danger（住民に本当の危険を納得させるのは難しいかもしれない）
+しるしが出ているのに、住民は避難を嫌がり、警報を疑っているので、危険を分かってもらうのは難しいと考えられます。ですから4が正解です。
+この問題の型：推論（避難したくない・警報を疑う → 危険を納得させるのは難しい）
+【ほかの選択肢】
+1 本文では、土地の盛り上がりはすでに起きていて、政府は has raised alert levels but has hesitated to take further steps（警戒レベルを引き上げたが、それ以上の対策をとることはためらっている）と書かれています。「土地の盛り上がりの証拠があるときにだけ緊急事態を宣言する」という決まりは、本文に書かれていません。
+2 本文には、住民は do not want to evacuate（避難したくない）と思っていて、警報を疑う人もいると書かれています。「緊急警報にすばやく反応する」は、これと反対の内容です。
+3 本文に書かれているのは、専門家が噴火の時期を確実に言えないことです。政府が「科学者がすべての要因を考えに入れていない」と心配しているという話は書かれていません。
+【覚えるポイント】
+・false alarm：「まちがった警報、から騒ぎ」。evacuate は「避難する」、suspicious of ～ は「～を疑っている」です。
+・What is suggested ～?（何が示唆されているか）の設問では、本文にそのままの言葉は出てきません。本文の複数の事実（ここでは「噴火のしるしがある」と「住民が避難したがらない」）を組み合わせて、そこから言えることを選びましょう。

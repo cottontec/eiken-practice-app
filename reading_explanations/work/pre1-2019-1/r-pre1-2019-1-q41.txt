@@ -1,0 +1,34 @@
+---
+choices: He wanted to end Oxford's rivalry with Cambridge in order to improve the overall quality of education in England. | He believed connections with a group of new institutions could expand his university's influence throughout England. | He wanted to decrease universities' association with the government by ensuring each one could become financially independent. | He believed that Oxford's courses needed to be brought more in line with the university's original educational standards.
+answerText: He believed connections with a group of new institutions could expand his university's influence throughout England.
+---
+【正解】2 He believed connections with a group of new institutions could expand his university's influence throughout England.（彼は、新しい教育機関の集まりとのつながりによって、自分の大学の影響をイングランド中に広げられると考えていた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What was Benjamin Jowett's idea for the English higher-education system?（イングランドの高等教育の仕組みについて、ベンジャミン・ジャウエットの考えはどのようなものだったか。）
+1 He wanted to end Oxford's rivalry with Cambridge in order to improve the overall quality of education in England.（彼は、イングランドの教育全体の質を高めるために、オックスフォードとケンブリッジの競い合いを終わらせたいと考えていた。）
+2 He believed connections with a group of new institutions could expand his university's influence throughout England.（彼は、新しい教育機関の集まりとのつながりによって、自分の大学の影響をイングランド中に広げられると考えていた。）
+3 He wanted to decrease universities' association with the government by ensuring each one could become financially independent.（彼は、それぞれの大学がお金の面で独立できるようにすることで、大学と政府の結びつきを弱めたいと考えていた。）
+4 He believed that Oxford's courses needed to be brought more in line with the university's original educational standards.（彼は、オックスフォードの授業を、大学の元々の教育の水準にもっと合わせる必要があると考えていた。）
+【考え方】
+まず見るところ：第4段落の Jowett's support for Bristol was part of a plan whereby Oxford would broaden its reach ～
+第4段落で、ジャウエットはオックスフォードの教師で、ブリストルに新しい大学を作ることを強く主張したと書かれています。その目的が次の文です。
+Jowett's support for Bristol was part of a plan whereby Oxford would broaden its reach through the establishment of new institutions.（ジャウエットのブリストルへの支援は、新しい教育機関を設立することを通じて、オックスフォードが影響のおよぶ範囲を広げるという計画の一部だった）
+whereby は「それによって～する（ような）」、broaden its reach は「影響のおよぶ範囲を広げる」です。
+These would loyally educate students in line with Oxford's principles, and their most capable graduates would be brought to Oxford.（これらの新しい教育機関は、オックスフォードの原則に従って忠実に学生を教育し、最も優秀な卒業生はオックスフォードに連れてこられることになっていた）
+新しい大学がオックスフォードのやり方で教育し、優秀な人をオックスフォードに送る、というつながりを作る計画です。
+本文と選択肢を対にすると、次のようになります。
+本文 Oxford（オックスフォード）＝ 選択肢 his university（彼の大学）※ジャウエットはオックスフォードの教師
+本文 broaden its reach（影響のおよぶ範囲を広げる）≒ 選択肢 expand his university's influence（自分の大学の影響を広げる）
+本文 through the establishment of new institutions ＋ 忠実に教育し卒業生を送る（新しい教育機関の設立を通じて）→ 選択肢 connections with a group of new institutions（新しい教育機関の集まりとのつながり）
+ですから2が正解です。
+この問題の型：言いかえ（broaden its reach ≒ expand ～ influence）／指示語（These ＝ 新しい教育機関）
+【ほかの選択肢】
+1 本文には、オックスフォードとケンブリッジの競い合いを終わらせるという話はありません。ジャウエットの計画は、オックスフォードの影響を広げるためのものです。
+3 本文で、新しい大学が wholly independent（完全に独立した）ままだったのは、As it turned out, however（しかし結果的には）のあとに書かれた「計画どおりにならなかった結果」です。ジャウエットが大学をお金の面で独立させようとしたとは書かれておらず、政府との結びつきの話もありません。
+4 本文の in line with Oxford's principles（オックスフォードの原則に従って）は、新しい教育機関がそのように教育するという話です。オックスフォード自身の授業を元の水準に合わせるという話ではありません。
+【覚えるポイント】
+・broaden one's reach：「影響のおよぶ範囲を広げる」。
+・As it turned out, however（しかし結果的には）のあとには、計画とは違う結果が書かれていることが多いです。人物の「考え・計画」をたずねる設問では、その前の部分を根拠にするのが手がかりになります。

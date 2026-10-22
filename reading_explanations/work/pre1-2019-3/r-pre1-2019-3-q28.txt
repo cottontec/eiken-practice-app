@@ -1,0 +1,29 @@
+---
+choices: were able to travel so far | select individual birds | gained access to these animals | could survive in such rough conditions
+answerText: gained access to these animals
+---
+【正解】3 gained access to these animals（これらの動物を手に入れていた）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 were able to travel so far（そんなに遠くまで移動できた）
+2 select individual birds（1羽1羽の鳥を選ぶ）
+3 gained access to these animals（これらの動物を手に入れていた）
+4 could survive in such rough conditions（そんなに厳しい状況で生き延びることができた）
+【考え方】
+まず見るところ：第3段落の空所の前の Migrating birds are often knocked into the sea by storms. と they are usually unable to return to the air
+第3段落では、陸にすむ鳥がなぜサメに食べられるのかが説明されています。
+Migrating birds are often knocked into the sea by storms.（渡りをする鳥は、嵐によって海に落とされることがよくある）
+Unaccustomed to the water, they are usually unable to return to the air once their feathers become soaked.（水に慣れていないため、羽がいったんびしょぬれになると、たいてい空に戻ることができない）
+unaccustomed to ～ は「～に慣れていない」、soaked は「びしょぬれの」という意味です。陸の鳥が海に落ち、飛び立てなくなる、ということです。
+This explains how the sharks ( 28 ).（このことから、サメがどのようにして（28）のかが説明できる）
+This（このこと）は、前の「鳥が海に落ちて空に戻れない」ことを指しています。海にいるサメは、陸にいる鳥をそのままではとらえられないと考えられます。しかし鳥が海に落ちてくれば、サメは鳥をとらえられます。gain access to ～ は「～に近づける、～を手に入れる」という意味です。these animals は裏庭の鳥を指しているので、3が正解です。
+この問題の型：指示語（This＝鳥が海に落ちて空に戻れないこと／these animals＝裏庭の鳥）／因果（海に落ちる→サメが食べられる）
+【ほかの選択肢】
+1 「そんなに遠くまで移動できた」は本文にありません。遠くへ移動するのは渡りをする鳥で、サメが遠くまで移動したという話は書かれていません。
+2 「1羽1羽の鳥を選ぶ」は本文にありません。説明されているのは、鳥が海に落ちて飛べなくなることで、サメがどの鳥を食べるかを選ぶという話ではありません。
+4 「そんなに厳しい状況で生き延びることができた」は、This が指す内容とつながりません。嵐で海に落ちて困るのは鳥のほうで、サメが厳しい状況で生き延びたという話は書かれていません。
+【覚えるポイント】
+・gain access to ～：「～に近づける、～を手に入れる」。
+・This explains how ～（このことが、どのように～かを説明する）の空所では、This が指す前の文の内容から「何が説明されるのか」を考えることが手がかりになります。

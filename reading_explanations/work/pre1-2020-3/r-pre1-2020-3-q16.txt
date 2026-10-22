@@ -1,0 +1,30 @@
+---
+choices: sympathetically | typically | unwittingly | diagonally
+answerText: unwittingly
+---
+【正解】3 unwittingly（知らず知らずのうちに、うっかり）
+【和訳】
+（英文）
+Kelly ［unwittingly］ upset her host family by taking long showers. She did not realize until her host father told her they were unhappy about her using so much water.
+（訳）
+ケリーは長い時間シャワーを浴びて、（知らず知らずのうちに）ホストファミリーを不快にさせていました。ホストファーザーから、彼女がそんなにたくさん水を使うことを家族がよく思っていないと言われるまで、彼女は気づいていませんでした。
+（選択肢の意味）
+1 sympathetically：同情して、思いやりをもって
+2 typically：いつもは、典型的に
+3 unwittingly：知らず知らずのうちに、うっかり
+4 diagonally：斜めに
+【考え方】
+まず見るところ：後半の文の She did not realize until her host father told her
+She did not realize until her host father told her they were unhappy about her using so much water.（ホストファーザーから、彼女がそんなにたくさん水を使うことを家族がよく思っていないと言われるまで、彼女は気づいていなかった）
+realize は「気づく」、not ～ until ... は「…するまで～しない」、つまり「…して初めて～する」という意味です。ケリーは、言われるまで家族が不快に思っていることに気づいていませんでした。
+空所のある文は次のとおりです。
+Kelly (　) upset her host family by taking long showers.（ケリーは長い時間シャワーを浴びて、（　）ホストファミリーを不快にさせた）
+upset は「（人を）不快にさせる、動揺させる」です。本人が気づかないまま相手を不快にさせていたので、「知らず知らずのうちに」という意味の unwittingly が合います。ですから3が正解です。
+この問題の型：言いかえ（unwittingly ＝ did not realize）
+【ほかの選択肢】
+1 sympathetically は「同情して、思いやりをもって」です。「思いやりをもってホストファミリーを不快にさせた」となり、意味が通りません。気づいていなかったという後半の文とも合いません。
+2 typically は「いつもは、典型的に」です。「いつものように不快にさせた」となり、ケリーが気づいていなかったという後半の文の内容を表せません。
+4 diagonally は「斜めに」です。「斜めにホストファミリーを不快にさせた」となり、意味が通りません。
+【覚えるポイント】
+・unwittingly：「知らず知らずのうちに、うっかり」。wittingly（わかっていて、意図して）に un-（～でない）がついた形です。
+・did not realize until ～（～まで気づかなかった）のような文は、その前の行動が「気づかないうちに」行われたことの手がかりになります。

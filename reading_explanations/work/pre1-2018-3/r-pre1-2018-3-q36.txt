@@ -1,0 +1,31 @@
+---
+choices: Their relatively flat shape can lead people to overlook the fact that they could erupt. | They are more likely than typical volcanoes to show obvious warning signs before they erupt. | Their shape makes it clear to scientists that they are not particularly active and are therefore safe to study. | The fact that they are poorly suited for human habitation means they are ideal places to carry out research.
+answerText: Their relatively flat shape can lead people to overlook the fact that they could erupt.
+---
+【正解】1 Their relatively flat shape can lead people to overlook the fact that they could erupt.（その比較的平らな形のために、人々は、それらが噴火するかもしれないという事実を見落とすことがある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：In the second paragraph, what does the author of the passage say about caldera volcanoes?（第2段落で、筆者はカルデラ火山について何と言っているか。）
+1 Their relatively flat shape can lead people to overlook the fact that they could erupt.（その比較的平らな形のために、人々は、それらが噴火するかもしれないという事実を見落とすことがある。）
+2 They are more likely than typical volcanoes to show obvious warning signs before they erupt.（それらは、ふつうの火山よりも、噴火の前にはっきりした警告のしるしを示しやすい。）
+3 Their shape makes it clear to scientists that they are not particularly active and are therefore safe to study.（その形から、科学者には、それらが特に活発ではなく、そのため研究しても安全だということがはっきり分かる。）
+4 The fact that they are poorly suited for human habitation means they are ideal places to carry out research.（それらが人の住む場所に向いていないということは、研究を行うのに理想的な場所だということを意味する。）
+【考え方】
+まず見るところ：第2段落の Calderas are not cone-shaped like typical volcanoes, so the possibility of an eruption often simply does not occur to people.
+設問は、第2段落でカルデラ火山について何が書かれているかをたずねています。カルデラの形について書かれた文を見ます。
+Calderas are not cone-shaped like typical volcanoes, so the possibility of an eruption often simply does not occur to people.（カルデラはふつうの火山のような円すいの形をしていないので、噴火が起こるかもしれないということが、人々の頭にまったく浮かばないことがよくある）
+Moreover, their fairly flat shape poses an additional risk（さらに、そのかなり平らな形は、もう一つの危険をもたらす）
+occur to ～ は「（考えが）～の頭に浮かぶ」です。カルデラは平らなので、人々は噴火のことを思いつかないのです。本文と選択肢を対にすると、次のようになります。
+・本文 not cone-shaped ／ their fairly flat shape（円すい形ではない／そのかなり平らな形）→ ほぼ同じ内容 → 選択肢 Their relatively flat shape（その比較的平らな形）
+・本文 the possibility of an eruption often simply does not occur to people（噴火の可能性が人々の頭にまったく浮かばないことがよくある）→ 言いかえると → 選択肢 can lead people to overlook the fact that they could erupt（人々に、噴火するかもしれないという事実を見落とさせることがある）
+ですから1が正解です。
+この問題の型：言いかえ（does not occur to people → overlook）
+【ほかの選択肢】
+2 本文には、Calderas sit above pools of magma that can erupt with little warning（カルデラは、ほとんど前ぶれなく噴火することのあるマグマだまりの上にある）と書かれています。「はっきりした警告のしるしを示しやすい」は、これと反対の内容です。
+3 本文には、Scientists are particularly concerned about caldera volcanoes（科学者たちは特に、カルデラ火山を心配している）と書かれています。形から活発でないと分かり、研究しても安全だという話は書かれていません。
+4 本文には、the rich soil around such volcanoes tends to attract dense human settlement（そのような火山の周りの豊かな土は、人が密集して住みつくのを引きつけやすい）と書かれています。「人が住むのに向いていない」は、これと反対の内容です。
+【覚えるポイント】
+・occur to ～：「（考えが）～の頭に浮かぶ」。does not occur to people は、選択肢の overlook（見落とす）とほぼ同じ内容になります。
+・設問に In the second paragraph（第2段落で）のように場所が示されているときは、その段落の中で設問の語（ここでは caldera）の特徴を述べた文を探しましょう。本文の ～, so ...（～なので…）の「原因と結果」が、選択肢では A can lead people to ～（Aによって人々が～することがある）の形になることがあります。

@@ -1,0 +1,30 @@
+---
+choices: went at | fell over | held off | picked through
+answerText: went at
+---
+【正解】1 went at（激しく取りかかった、やり合った）
+【和訳】
+（英文）
+When the boxing match started, the two fighters immediately ［went at］ it with all their energy. As the fight went on, however, they both became tired.
+（訳）
+ボクシングの試合が始まると、2人の選手はすぐに全力で（激しく打ち合った）。しかし、試合が進むにつれて、2人ともつかれてきた。
+（選択肢の意味）
+1 went at：（go at it で）激しく取りかかった、激しくやり合った
+2 fell over：（fall over A で）Aにつまずいて倒れた
+3 held off：寄せつけなかった、先延ばしにした
+4 picked through：（たくさんの物の中を）よく調べて選んだ
+【考え方】
+まず見るところ：空所のあとの it with all their energy と、後ろの文の As the fight went on, however, they both became tired.
+空所のある文は、試合が始まると、2人の選手がすぐに全力で（　）した、と言っています。with all their energy は「全力で」です。
+後ろの文を見ます。
+As the fight went on, however, they both became tired.（しかし、試合が進むにつれて、2人ともつかれてきた）
+however（しかし）があるので、試合の始めは「全力で元気に戦っていた」ことと、あとで「つかれた」ことが対比されています。
+go at it は「激しく取りかかる、激しくやり合う」という意味なので、went at it で「激しく打ち合った」となります。よって1が正解です。
+この問題の型：熟語・決まった形（go at it）／対比（however：最初は全力⇔あとでつかれた）
+【ほかの選択肢】
+2 fell over は「（fall over A で）Aにつまずいて倒れた」です。fell over it では「それにつまずいて倒れた」となり、何につまずいたのかが分からず、全力で戦う様子にもなりません。
+3 held off は「寄せつけなかった、先延ばしにした」です。held it off では「それを先延ばしにした」となり、試合が始まってすぐ全力を出したという流れと合いません。
+4 picked through は「よく調べて選んだ」です。たくさんの物の中を探す場面で使う語で、ボクシングの試合の様子を表しません。
+【覚えるポイント】
+・go at it：「激しく取りかかる、激しくやり合う」。けんかや試合などで、勢いよくぶつかり合う様子に使います。
+・with all their energy（全力で）があり、後ろの文が however でつかれた様子を述べているときは、空所に「勢いよく取りかかる」意味の語句が入る手がかりになります。

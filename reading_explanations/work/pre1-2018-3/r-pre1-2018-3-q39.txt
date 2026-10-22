@@ -1,0 +1,31 @@
+---
+choices: It implies that their child may possess special skills or abilities that are not reflected in their performance on written tests. | It encourages their child to apply a range of different approaches when solving problems outside of the classroom. | It allows them to take part in their child's school life even if they themselves have an academic history of performing poorly on tests. | It has been shown to noticeably improve a child's ability in subjects such as art or music.
+answerText: It implies that their child may possess special skills or abilities that are not reflected in their performance on written tests.
+---
+【正解】1 It implies that their child may possess special skills or abilities that are not reflected in their performance on written tests.（それは、自分の子どもが、筆記テストの成績には表れない特別な技術や能力を持っているかもしれないことをほのめかしている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one reason some parents support the learning-styles theory?（一部の親が学習スタイル理論を支持する理由の一つは何か。）
+1 It implies that their child may possess special skills or abilities that are not reflected in their performance on written tests.（それは、自分の子どもが、筆記テストの成績には表れない特別な技術や能力を持っているかもしれないことをほのめかしている。）
+2 It encourages their child to apply a range of different approaches when solving problems outside of the classroom.（それは、教室の外で問題を解くときに、さまざまな違うやり方を使うよう子どもをうながす。）
+3 It allows them to take part in their child's school life even if they themselves have an academic history of performing poorly on tests.（それによって、親自身がテストで悪い成績をとってきた経歴があっても、子どもの学校生活に参加することができる。）
+4 It has been shown to noticeably improve a child's ability in subjects such as art or music.（それは、美術や音楽のような教科での子どもの能力を目に見えて伸ばすことが示されている。）
+【考え方】
+まず見るところ：第2段落の The theory has also been embraced by parents whose children are struggling in school
+設問は、親が学習スタイル理論を支持する理由をたずねています。第2段落の、親について書かれた文を見ます。
+The theory has also been embraced by parents whose children are struggling in school—the idea that their child may perform poorly on written tests because they are actually "picture smart" or "music smart" is appealing.（この理論は、子どもが学校で苦労している親たちにも受け入れられている。自分の子どもが筆記テストでよい成績をとれないのは、実は「絵が得意」だったり「音楽が得意」だったりするからかもしれない、という考えは魅力的なのだ）
+embrace は「（考えなどを）受け入れる」です。親にとって魅力的なのは、「テストの成績は悪くても、子どもには絵や音楽の得意さがあるかもしれない」という考えです。本文と選択肢を対にすると、次のようになります。
+・本文 "picture smart" or "music smart"（「絵が得意」「音楽が得意」）→ まとめると → 選択肢 special skills or abilities（特別な技術や能力）
+・本文 may perform poorly on written tests because ～（～なので筆記テストでよい成績をとれないかもしれない）→ 言いかえると → 選択肢 not reflected in their performance on written tests（筆記テストの成績には表れない）
+・本文 is appealing（魅力的だ）→ 言いかえると → 設問 reason some parents support（親が支持する理由）
+ですから1が正解です。
+この問題の型：言いかえ（"picture smart" or "music smart" → special skills or abilities）
+【ほかの選択肢】
+2 教室の外で問題を解くときにさまざまなやり方を使うという話は、本文に書かれていません。本文の第4段落には、さまざまなやり方を組み合わせた授業の話がありますが、親が理論を支持する理由としてではありません。
+3 本文で苦労しているとされるのは、親ではなく children（子どもたち）です。親自身のテストの成績や、親が学校生活に参加することについては書かれていません。
+4 本文に出てくる「音楽が得意」は、子どものテストの成績が悪い理由かもしれないという考えの中の言葉です。この理論によって美術や音楽の能力が目に見えて伸びると示された、とは書かれていません。むしろ第3段落には、there is little solid proof that teaching to a student's strengths is an effective practice（生徒の得意なことに合わせて教えることが効果的なやり方だという確かな証拠は、ほとんどない）と書かれています。
+【覚えるポイント】
+・embrace：「（考えなどを）受け入れる」。appealing は「魅力的な」、imply は「ほのめかす（それとなく示す）」です。
+・「～を支持する理由」をたずねる設問では、本文の appealing（魅力的な）や attractive（魅力的な）のような語の近くに、理由が書かれていることが多いです。
