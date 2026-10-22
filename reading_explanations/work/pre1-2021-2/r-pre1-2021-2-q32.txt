@@ -1,0 +1,34 @@
+---
+choices: realized it needed to focus its marketing on various age groups, rather than trying to appeal mainly to younger people. | mistakenly believed younger people would always consume whiskey without makers having to promote it. | was charging extremely high prices for its products despite the fact that many people could not afford them. | had cooperated with makers of other types of alcoholic beverages to prevent a decline in overall alcohol consumption and sales.
+answerText: mistakenly believed younger people would always consume whiskey without makers having to promote it.
+---
+【正解】2 mistakenly believed younger people would always consume whiskey without makers having to promote it.（製造会社が売りこまなくても、若い人たちはいつまでもウイスキーを飲むだろうと、まちがって思いこんでいた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：In the years before the 1980s, the Scottish whiskey industry（1980年代より前の数年間、スコットランドのウイスキー業界は～。）
+1 realized it needed to focus its marketing on various age groups, rather than trying to appeal mainly to younger people.（主に若い人たちに訴えかけようとするのではなく、さまざまな年齢層に向けて売りこみに力を入れる必要があると気づいていた。）
+2 mistakenly believed younger people would always consume whiskey without makers having to promote it.（製造会社が売りこまなくても、若い人たちはいつまでもウイスキーを飲むだろうと、まちがって思いこんでいた。）
+3 was charging extremely high prices for its products despite the fact that many people could not afford them.（多くの人が買えないにもかかわらず、製品に非常に高い値段をつけていた。）
+4 had cooperated with makers of other types of alcoholic beverages to prevent a decline in overall alcohol consumption and sales.（酒全体の消費と売り上げが落ちるのを防ぐために、ほかの種類の酒の製造会社と協力していた。）
+【考え方】
+まず見るところ：第1段落の Prior to the 1980s, ～ と This had led the whiskey industry to assume its consumer base was guaranteed
+設問は「1980年代より前」のことをたずねています。第1段落の後半に、その時期のことが書かれています。
+Prior to the 1980s, the custom of consuming whiskey had been passed down from generation to generation.（1980年代より前には、ウイスキーを飲む習慣は、世代から世代へと受けつがれていた）
+This had led the whiskey industry to assume its consumer base was guaranteed, but the younger generation became less likely to follow family traditions, and the industry paid a heavy price in the form of falling sales.（このことによって、ウイスキー業界は、自分たちの客層は保証されていると思いこむようになっていたが、若い世代は家族の伝統に従う傾向が以前より弱くなり、業界は売り上げの落ちこみという形で大きな代償を払った）
+assume は「（確かめずに）思いこむ」、consumer base は「客層（買ってくれる客の集まり）」、guaranteed は「保証された」という意味です。業界は、習慣が受けつがれるので、次の世代もずっと飲んでくれると思いこんでいました。しかし実際には若い世代は伝統に従わなくなり、売り上げが落ちたので、その思いこみはまちがっていたことになります。
+また、同じ段落に、ウォッカやラム酒は aggressively marketed（積極的に売りこまれた）ので若い人の間で流行した、とあります。ウイスキーは習慣にまかせていて、若い人に向けて売りこんでいなかったことが読み取れます。
+本文と選択肢を対にすると、次のようになります。
+本文 assume its consumer base was guaranteed（客層は保証されていると思いこんだ）→ 選択肢 believed younger people would always consume whiskey（若い人たちはいつまでもウイスキーを飲むだろうと思いこんだ）
+本文 but the younger generation became less likely to follow family traditions（しかし若い世代は伝統に従わなくなった）→ 選択肢 mistakenly（まちがって）
+本文 ライバルの飲み物は積極的に売りこまれた／ウイスキーは習慣にまかせていた → 読み取れること：without makers having to promote it（製造会社が売りこまなくても）
+よって2が正解です。
+この問題の型：言いかえ（assume its consumer base was guaranteed → believed younger people would always consume whiskey）／推論（思いこみ→売り上げが落ちた→まちがっていた）
+【ほかの選択肢】
+1 本文にありません。業界がさまざまな年齢層に向けて売りこむ必要に気づいていたという話はありません。本文から分かるのは、業界が客層は保証されていると思いこんでいたことです。
+3 本文にありません。1980年代より前に、多くの人が買えないほど高い値段をつけていたという話はありません。より高い値段の話が出てくるのは、第3段落の、業界が立ち直るときのシングルモルト・ウイスキーについてです。
+4 本文にありません。ほかの酒の製造会社と協力したという話はありません。ウォッカやラム酒は、第1段落で rival beverages（競争相手となる飲み物）として出てきます。
+【覚えるポイント】
+・assume：「（確かめずに）思いこむ、当然だと考える」。
+・「～と思いこんでいた（assume）が、しかし（but）…」という流れは、その思いこみがまちがっていたことを示すことが多く、選択肢の mistakenly（まちがって）のような語と結びつける手がかりになります。

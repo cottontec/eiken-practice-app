@@ -23,7 +23,7 @@ mandatory は「義務的な」、withdraw は「引き上げる、やめる」�
 本文と選択肢3を対にすると、次のようになります。
 本文 a permanent bike-sharing program（恒久的な自転車シェアリング制度）＝ 選択肢 A new program introduced by the city（市が導入した新しい制度）
 本文 The mandatory costs ～ proved to be too much（義務的な費用は負担が大きすぎた）＝ 選択肢 too expensive（費用がかかりすぎる）
-本文 Spin withdrew their services and left the city（スピンはサービスをやめて撤退した）＝ 選択肢 to keep running（続けられなくなった）
+本文 Two of the firms, including Spin, withdrew their services and left the city（スピンを含む2つの会社はサービスをやめて撤退した）＝ 選択肢 to keep running（続けられなくなった）
 ですから3が正解です。
 この問題の型：言いかえ（proved to be too much ＝ too expensive）／因果（制度の費用→撤退）
 【ほかの選択肢】

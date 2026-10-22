@@ -1,0 +1,28 @@
+---
+choices: misery | insight | hassle | literacy
+answerText: insight
+---
+【正解】2 insight（深い理解、洞察〈物事の本当の姿を見抜くこと〉）
+【和訳】
+（英文）
+The discovery of a 2,000-year-old clay pot provided valuable ［insight］ into the city's ancient past. Historians said the pot gave them important clues about how people used to live.
+（訳）
+2,000年前の土のつぼが発見されたことは、その都市の古代の過去について、貴重な（深い理解）をもたらした。歴史学者たちは、そのつぼが、人々がかつてどのように暮らしていたかについての重要な手がかりを与えてくれたと述べた。
+（選択肢の意味）
+1 misery：みじめさ、苦しみ
+2 insight：深い理解、洞察
+3 hassle：面倒なこと、厄介ごと
+4 literacy：読み書きの能力
+【考え方】
+まず見るところ：空所の後ろの into the city's ancient past と、次の文の gave them important clues
+つぼの発見が、都市の古代の過去について、何かをもたらしたという文です。次の文で、その中身が説明されています。
+Historians said the pot gave them important clues about how people used to live.（歴史学者たちは、そのつぼが、人々がかつてどのように暮らしていたかについての重要な手がかりを与えてくれたと述べた）
+clue は「手がかり」です。つまり、つぼのおかげで昔の暮らしがよく分かるようになったということです。insight は「深い理解」で、insight into ～ で「～についての深い理解」となります。前の valuable（貴重な）ともよく合うので、2が正解です。
+この問題の型：言いかえ（valuable insight → important clues）
+【ほかの選択肢】
+1 misery は「みじめさ、苦しみ」です。「古代の過去について貴重な苦しみをもたらした」となり、次の文の「重要な手がかりを与えた」とつながりません。
+3 hassle は「面倒なこと」です。「貴重な面倒なこと」では意味が通らず、手がかりを得たという内容とも合いません。
+4 literacy は「読み書きの能力」です。つぼの発見が古代の過去への「読み書きの能力」をもたらすわけではなく、意味が通りません。
+【覚えるポイント】
+・insight into ～：「～についての深い理解」。clue：「手がかり」。
+・空所の文が少し抽象的（具体的でなく、まとめた言い方）なときは、次の文の具体的な言い方（ここでは important clues）が、空所の語の意味を決める手がかりになります。

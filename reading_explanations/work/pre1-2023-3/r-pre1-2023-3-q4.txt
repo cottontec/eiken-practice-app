@@ -1,0 +1,28 @@
+---
+choices: entrepreneurs | amenities | leftovers | receptacles
+answerText: amenities
+---
+【正解】2 amenities（快適に過ごすための設備、便利な設備）
+【和訳】
+（英文）
+The hotel has a swimming pool, free Internet access, large flat-screen TVs, and many other ［amenities］.
+（訳）
+そのホテルには、プール、無料のインターネット接続、大きな薄型テレビ、そのほか多くの（快適に過ごすための設備）がある。
+（選択肢の意味）
+1 entrepreneurs：起業家（自分で新しく事業を始める人）
+2 amenities：快適に過ごすための設備、便利な設備
+3 leftovers：食べ残し、残り物
+4 receptacles：入れ物、容器
+【考え方】
+まず見るところ：空所の前の a swimming pool, free Internet access, large flat-screen TVs, and many other
+ホテルにあるものが並べられています。
+a swimming pool, free Internet access, large flat-screen TVs（プール、無料のインターネット接続、大きな薄型テレビ）
+そのあとに and many other (　)（そのほか多くの〇〇）と続きます。many other ～ は「そのほかの多くの～」で、前に並べたものと同じ仲間をまとめて言うときの形です。プールやインターネット、テレビは、どれも泊まる人が快適に過ごすための設備です。amenities は「快適に過ごすための設備、便利な設備」なので、2が正解です。
+この問題の型：具体例とまとめ（プール・インターネット・テレビ → amenities）
+【ほかの選択肢】
+1 entrepreneurs は「起業家」で、人を表す語です。プールやテレビは人ではないので、「そのほか多くの起業家」とまとめることはできません。
+3 leftovers は「食べ残し、残り物」です。プールやインターネット接続は残り物ではないので、まとめる言葉として合いません。
+4 receptacles は「入れ物、容器」です。プールやインターネット接続、テレビは入れ物ではないので、まとめる言葉として合いません。
+【覚えるポイント】
+・amenities：「（ホテルなどの）快適に過ごすための設備、便利な設備」。
+・A, B, C, and many other (　) の形では、空所にA・B・Cをまとめて言える語が入ります。並んでいるものに共通する性質を考えるのが手がかりになります。
