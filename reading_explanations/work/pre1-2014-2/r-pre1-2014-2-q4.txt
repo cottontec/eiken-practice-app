@@ -1,6 +1,7 @@
 ---
 choices: Demoted | Fumigated | Delegated | Intoxicated
 answerText: Intoxicated
+reviewed: yes
 ---
 【正解】4 Intoxicated（酔って）
 【和訳】

@@ -1,0 +1,29 @@
+---
+choices: perpetual | brutal | gloomy | prior
+answerText: perpetual
+---
+【正解】1 perpetual（永久の、いつまでも続く）
+【和訳】
+（英文）
+The new president believes ［perpetual］ world peace can be achieved. “Humans have the potential to prevent all wars in the future,” he said.
+（訳）
+新しい大統領は、（永久の）世界平和は実現できると信じている。「人類には、将来のすべての戦争を防ぐ可能性がある」と彼は言った。
+（選択肢の意味）
+1 perpetual：永久の、いつまでも続く
+2 brutal：残酷な、むごい
+3 gloomy：暗い、悲観的な
+4 prior：前の、先の
+【考え方】
+まず見るところ：2文目の prevent all wars in the future
+“Humans have the potential to prevent all wars in the future,”（人類には、将来のすべての戦争を防ぐ可能性がある）
+potential は「可能性、（まだ表に出ていない）力」、prevent は「防ぐ」という意味です。大統領は、これから先、戦争を一つも起こさないでいられると考えていることが分かります。
+将来のすべての戦争を防げるなら、平和がいつまでも続くことになります。1文目の「（　）世界平和は実現できる」には、この考えを表す語が入ります。
+perpetual は「永久の、いつまでも続く」という意味なので、1が正解です。
+この問題の型：言いかえ（prevent all wars in the future → perpetual world peace）
+【ほかの選択肢】
+2 brutal は「残酷な、むごい」です。「残酷な世界平和」では、平和の説明として意味が通りません。
+3 gloomy は「暗い、悲観的な（物事を悪いほうに考える）」です。大統領は「すべての戦争を防げる」と前向きに話しているので、「暗い世界平和」は発言と合いません。
+4 prior は「前の、先の」です。「前の世界平和」では、in the future（将来）の話をしている2文目とつながりません。
+【覚えるポイント】
+・perpetual：「永久の、いつまでも続く」。perpetual world peace で「永久の世界平和」。
+・人物の考えを述べた文のあとに、その人の発言が「 」で続くときは、発言の中の語句（ここでは all wars in the future）が空所を言いかえていることが多いので、手がかりになります。

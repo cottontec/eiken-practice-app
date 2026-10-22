@@ -1,0 +1,30 @@
+---
+choices: Shopping carts were thought to be beneficial for both shoppers and supermarket owners. | Shopping carts were invented so that people could buy large items like furniture. | Goldman's initial shopping cart design had a child seat with a safety belt. | Many women preferred to use their baby strollers as shopping carts.
+answerText: Shopping carts were thought to be beneficial for both shoppers and supermarket owners.
+---
+【正解】1 Shopping carts were thought to be beneficial for both shoppers and supermarket owners.（ショッピングカートは、買い物客とスーパーマーケットの経営者の両方にとって役に立つと考えられた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Which of the following statements is true?（次の記述のうち、正しいものはどれですか。）
+1 Shopping carts were thought to be beneficial for both shoppers and supermarket owners.（ショッピングカートは、買い物客とスーパーマーケットの経営者の両方にとって役に立つと考えられた。）
+2 Shopping carts were invented so that people could buy large items like furniture.（ショッピングカートは、人々が家具のような大きな品物を買えるように発明された。）
+3 Goldman's initial shopping cart design had a child seat with a safety belt.（ゴールドマンの最初のショッピングカートの設計には、安全ベルトのついた子ども用の座席があった。）
+4 Many women preferred to use their baby strollers as shopping carts.（多くの女性は、自分のベビーカーをショッピングカートとして使うほうを好んだ。）
+【考え方】
+まず見るところ：第2段落の最後の Shopping carts could be helpful to both shoppers, ～ and supermarket owners
+本文全体と照らし合わせる設問なので、選択肢を1つずつ本文と比べます。1は第2段落の最後の文と合います。
+Shopping carts could be helpful to both shoppers, who could shop easily and conveniently, and supermarket owners, who could increase their sales.（ショッピングカートは、楽に便利に買い物ができる買い物客と、売り上げを増やすことができるスーパーマーケットの経営者の両方にとって、役に立つものになりえた）
+both A and B は「AとBの両方」という意味です。
+本文と選択肢を対にすると、次のようになります。
+本文 could be helpful to both shoppers ～ and supermarket owners（買い物客と経営者の両方にとって役に立つものになりえた）→ 選択肢 were thought to be beneficial for both shoppers and supermarket owners（買い物客と経営者の両方にとって役に立つと考えられた）
+beneficial は「役に立つ、ためになる」という意味で、本文の helpful の言いかえです。本文は「役に立ちうる」と書いているので、選択肢の「役に立つと考えられた」と内容が合います。ですから1が正解です。
+この問題の型：言いかえ（helpful → beneficial）
+【ほかの選択肢】
+2 本文と合いません。第1段落によると、カートが発明されたのは、かごが重くなりすぎて買い物を続けるのが難しかったからです。家具のような大きな品物を買うためという話はありません。
+3 時期が違います。子ども用の座席の安全ベルトは、第4段落に Later, a safety belt for children's seats was also added（その後、子ども用の座席の安全ベルトも加えられた）とあり、あとから加えられたものです。最初のカートは、折りたたみ式のいすに2つのかごと車輪がついたものでした。
+4 本文にありません。第3段落には、カートがベビーカーのように見えると思った女性がいたとは書かれていますが、ベビーカーをショッピングカートとして使うほうを好んだという話はありません。
+【覚えるポイント】
+・beneficial：「役に立つ、ためになる」。この問題では、本文の helpful の言いかえになっています。
+・Which of the following statements is true? の問題では、選択肢の語句（ここでは safety belt、baby strollers）が出てくる段落を探し、時期や「だれが何をしたか」が本文と合っているかを確かめると、まちがいの選択肢を見分ける手がかりになります。

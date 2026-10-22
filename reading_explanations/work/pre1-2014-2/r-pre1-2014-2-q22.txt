@@ -1,6 +1,7 @@
 ---
 choices: pass down | strike back | make up | stick around
 answerText: stick around
+reviewed: yes
 ---
 【正解】4 stick around（〔その場に〕とどまる、そばにいる）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: Lord Elgin initially tried to stop the marbles from being shipped to Britain so he could finish his work with them in Greece. | The British government argued that maintenance of the marbles would be much cheaper if they were kept in Britain. | Britain and Greece disagree on whether Lord Elgin had a lawful right to take the marbles to Britain. | Britain believed the marbles did not belong in Greece as Ottoman rulers had brought them there illegally.
 answerText: Britain and Greece disagree on whether Lord Elgin had a lawful right to take the marbles to Britain.
+reviewed: yes
 ---
 【正解】3 Britain and Greece disagree on whether Lord Elgin had a lawful right to take the marbles to Britain.（イギリスとギリシャは、エルギン卿に大理石彫刻をイギリスへ持っていく法的な権利があったかどうかについて、意見が合わない。）
 【和訳】
@@ -19,7 +20,7 @@ The legality of Elgin's actions has long been disputed by the Greeks, who have b
 legality は「合法であること（法律にかなっていること）」、dispute は「異議を唱える、争う」という意味です。
 一方、イギリスの側については、第3段落に次の文があります。
 All requests made to the British government, however, have been rejected.（しかし、イギリス政府に出された要求は、すべて拒否されてきた）
-ギリシャは「持ち去りは合法ではなかったので返してほしい」と求め、イギリスは返さないという立場です。
+ギリシャは持ち去りが合法だったかどうかに異議を唱えて返還を求め、イギリスはその要求をすべて拒否しています。
 本文と選択肢3を対にすると、次のようになります。
 ・本文 The legality of Elgin's actions（エルギンの行為が合法かどうか）＝ 選択肢 whether Lord Elgin had a lawful right to take the marbles to Britain（エルギン卿に彫刻をイギリスへ持っていく法的な権利があったかどうか）
 ・本文 has long been disputed by the Greeks（ギリシャの人々が長い間異議を唱えてきた）と、イギリス政府が要求をすべて拒否してきたこと → 選択肢 Britain and Greece disagree（イギリスとギリシャは意見が合わない）

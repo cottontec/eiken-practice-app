@@ -1,6 +1,7 @@
 ---
 choices: conscience | fragrance | migration | citation
 answerText: migration
+reviewed: yes
 ---
 【正解】3 migration（渡り、移動）
 【和訳】

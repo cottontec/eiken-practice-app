@@ -1,6 +1,7 @@
 ---
 choices: texture | stack | pension | haven
 answerText: haven
+reviewed: yes
 ---
 【正解】4 haven（居心地のよい場所、安全な場所）
 【和訳】

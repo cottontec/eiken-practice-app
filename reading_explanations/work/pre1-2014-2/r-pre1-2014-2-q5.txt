@@ -1,6 +1,7 @@
 ---
 choices: derived | subsidized | amplified | diagnosed
 answerText: diagnosed
+reviewed: yes
 ---
 【正解】4 diagnosed（診断された）
 【和訳】

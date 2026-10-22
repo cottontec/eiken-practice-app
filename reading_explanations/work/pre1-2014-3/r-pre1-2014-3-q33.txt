@@ -1,6 +1,7 @@
 ---
 choices: The ships' growing popularity means they are being forced to follow increasingly strict standards for emissions. | The acid rain that damages brick buildings is not caused by sulfur emissions. | The pollution caused by cars is a bigger problem than environmental damage from cruise ship emissions. | The ships' emissions meet the official requirements that have been established.
 answerText: The ships' emissions meet the official requirements that have been established.
+reviewed: yes
 ---
 【正解】4 The ships' emissions meet the official requirements that have been established.（船の排出物は、定められている公式の基準を満たしている。）
 【和訳】

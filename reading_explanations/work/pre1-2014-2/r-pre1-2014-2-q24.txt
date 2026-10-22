@@ -1,6 +1,7 @@
 ---
 choices: kick back | hold down | break in | see through
 answerText: kick back
+reviewed: yes
 ---
 【正解】1 kick back（くつろぐ、のんびりする）
 【和訳】

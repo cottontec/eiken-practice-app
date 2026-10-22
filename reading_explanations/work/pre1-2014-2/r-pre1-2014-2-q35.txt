@@ -1,6 +1,7 @@
 ---
 choices: Teachers are spending less time on subjects that are easy to test so that more time is left for physical education. | Students are taking a greater variety of classes so that they can meet stricter academic requirements. | School districts are allowing students to change their class schedules based on their individual needs and interests. | Learning opportunities that are not directly linked to standardized testing are being limited.
 answerText: Learning opportunities that are not directly linked to standardized testing are being limited.
+reviewed: yes
 ---
 【正解】4 Learning opportunities that are not directly linked to standardized testing are being limited.（標準テストに直接結びつかない学習の機会が、減らされている。）
 【和訳】

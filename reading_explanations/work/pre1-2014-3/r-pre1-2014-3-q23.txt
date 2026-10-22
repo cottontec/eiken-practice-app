@@ -1,6 +1,7 @@
 ---
 choices: fill in | grow out | see in | miss out
 answerText: fill in
+reviewed: yes
 ---
 【正解】1 fill in（fill in for ～ で「～の代わりを務める」）
 【和訳】

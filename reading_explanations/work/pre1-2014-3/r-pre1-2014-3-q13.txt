@@ -1,6 +1,7 @@
 ---
 choices: disobedience | eloquence | surveillance | sacrifice
 answerText: disobedience
+reviewed: yes
 ---
 【正解】1 disobedience（言うことに従わないこと、規則違反）
 【和訳】

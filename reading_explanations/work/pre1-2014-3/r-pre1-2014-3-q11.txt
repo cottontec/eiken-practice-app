@@ -1,6 +1,7 @@
 ---
 choices: exempt | exclusive | corrupt | moderate
 answerText: corrupt
+reviewed: yes
 ---
 【正解】3 corrupt（腐敗した、不正な）
 【和訳】

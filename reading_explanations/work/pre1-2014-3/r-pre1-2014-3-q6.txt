@@ -1,6 +1,7 @@
 ---
 choices: hailed | swayed | restrained | soaked
 answerText: swayed
+reviewed: yes
 ---
 【正解】2 swayed（揺れた）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: using imaging technology to examine tumors for evidence of brown fat cell activity. | focusing on a part of the body that is known to show levels of heat production often thought to be associated with cancer. | examining fat cells in a number of people whose bodies were burning fewer calories than average. | comparing the activity of various cancer cells at low temperatures to see which ones remained more active.
 answerText: focusing on a part of the body that is known to show levels of heat production often thought to be associated with cancer.
+reviewed: yes
 ---
 【正解】2 focusing on a part of the body that is known to show levels of heat production often thought to be associated with cancer.（がんと関係があるとよく考えられる程度の熱を出すことで知られる、体の部分に注目すること。）
 【和訳】
@@ -24,7 +25,7 @@ false-positive は「偽陽性（本当はがんではないのに、がんが�
 ホットスポットは「熱を出している場所」なので、heat production（熱を出すこと）と言いかえられています。よって2が正解です。
 この問題の型：言いかえ（hot spots ＝ heat production、false-positive cancer test results ＝ often thought to be associated with cancer）
 【ほかの選択肢】
-1 一部だけ正しい選択肢です。画像技術を使ったことは本文と合いますが、エネルベックが調べたのは首のホットスポットで、腫瘍の中に褐色脂肪の活動のしるしを探したわけではありません。首のホットスポットは、がんではないのにがんのように見えるものでした。
+1 一部だけ正しい選択肢です。画像技術を使ったことは本文と合いますが、エネルベックが調べたのは首のホットスポットで、腫瘍の中に褐色脂肪の活動のしるしを探したわけではありません。首は、ホットスポットがしばしばがん検査で偽陽性を示す部分で、エネルベックはそれが褐色脂肪の活動かもしれないと考えたのです。
 3 本文にありません。燃やすカロリーが平均より少ない人々を選んで調べたという話は書かれていません。
 4 本文と違います。エネルベックは被験者を軽い寒さにさらし、その褐色脂肪の細胞が以前よりはるかに活発であることを見つけました。低い温度で比べたのはがん細胞ではありません。
 【覚えるポイント】

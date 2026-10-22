@@ -1,6 +1,7 @@
 ---
 choices: visitors could have the chance to view British artworks that the museum was able to borrow from London. | a safe location could be established for housing and displaying the Elgin Marbles if Greece were able to recover them. | pieces of the Elgin Marbles that remained in Greece could be moved to a facility partly controlled by Britain. | a part of the museum that had suffered damage in the 1970s as a result of air pollution could be replaced.
 answerText: a safe location could be established for housing and displaying the Elgin Marbles if Greece were able to recover them.
+reviewed: yes
 ---
 【正解】2 a safe location could be established for housing and displaying the Elgin Marbles if Greece were able to recover them.（ギリシャがエルギン・マーブルを取り戻せた場合に、それを収めて展示するための安全な場所を用意できるようにする。）
 【和訳】
@@ -20,7 +21,7 @@ address は「（問題）に取り組む、対処する」という意味です
 Further complicating the debate for several decades was the question of whether Greece could properly care for and display the marbles if they were returned.（数十年の間、論争をさらに複雑にしていたのは、もし大理石彫刻が返されたら、ギリシャがそれをきちんと管理して展示できるのかという問題だった）
 そのあとに、アクロポリス博物館は広さが限られていたこと、大気汚染がひどく、彫刻をパルテノン神殿に戻せば大きな損傷が生じていただろうことが書かれています。つまり this は、「返されたときに、ギリシャが彫刻を安全に保管・展示できる場所がない」という問題です。
 本文と選択肢2を対にすると、次のようになります。
-・本文 properly care for and display the marbles（彫刻をきちんと管理して展示する）＝ 選択肢 a safe location ... for housing and displaying the Elgin Marbles（彫刻を収めて展示する安全な場所）
+・本文 properly care for and display the marbles（彫刻をきちんと管理して展示する）→ 選択肢 a safe location ... for housing and displaying the Elgin Marbles（彫刻を収めて展示する安全な場所）。「きちんと管理できる」ことを「安全な場所」と言いかえています。
 ・本文 if they were returned（もし彫刻が返されたら）＝ 選択肢 if Greece were able to recover them（ギリシャが取り戻せた場合に）
 よって2が正解です。
 この問題の型：指示語（To address this の this が前の文の問題を指す）

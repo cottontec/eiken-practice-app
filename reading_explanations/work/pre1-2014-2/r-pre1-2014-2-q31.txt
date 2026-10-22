@@ -1,6 +1,7 @@
 ---
 choices: makes diseases hard to recognize | will lead to further advances | needs to change | has been necessary
 answerText: needs to change
+reviewed: yes
 ---
 【正解】3 needs to change（変わる必要がある）
 【和訳】

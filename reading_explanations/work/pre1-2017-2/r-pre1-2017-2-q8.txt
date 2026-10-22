@@ -1,0 +1,31 @@
+---
+choices: tumble | task | halt | beckon
+answerText: halt
+---
+【正解】3 halt（止まる、停止する）
+【和訳】
+（英文）
+The explorers decided to ［halt］ for the night, make camp, and continue their journey the next morning.
+（訳）
+探検家たちは、その夜は（止まって）野営をし、翌朝に旅を続けることに決めた。
+（選択肢の意味）
+1 tumble：転ぶ、転がり落ちる
+2 task：（人に）仕事を割り当てる
+3 halt：止まる、停止する
+4 beckon：手招きする、合図して呼ぶ
+【考え方】
+まず見るところ：空所のあとの make camp と continue their journey the next morning
+この文では、decided to のあとに、3つの動作が並んでいます。
+( ) for the night（その夜は（　））
+make camp（野営する）
+continue their journey the next morning（翌朝に旅を続ける）
+make camp は「野営する（テントなどを張って外で泊まる）」という意味です。そして、旅を続けるのは「翌朝」です。ですから、その夜はいったん進むのをやめた、という流れになります。
+halt は「止まる、停止する」という意味です。「その夜は止まって野営し、翌朝また進む」となり、3つの動作が自然につながるので、3が正解です。
+この問題の型：対比（その夜は止まる⇔翌朝に旅を続ける）／語の意味・組み合わせ（halt for the night）
+【ほかの選択肢】
+1 tumble は「転ぶ、転がり落ちる」です。「その夜は転ぶことに決めた」では意味が通りません。
+2 task は動詞では「（人に）仕事を割り当てる」です。この文には仕事を割り当てる相手も仕事の内容も書かれていないので、合いません。
+4 beckon は「手招きする、合図して呼ぶ」です。手招きする相手が書かれておらず、「その夜は手招きする」では野営の話とつながりません。
+【覚えるポイント】
+・halt：「止まる、停止する」。halt for the night で「その夜は（進むのを）止める」。
+・動作が並んでいる文では、ほかの動作（ここでは「野営する」「翌朝に旅を続ける」）との順番やつながりを考えると、空所の動作を決める手がかりになります。

@@ -1,6 +1,7 @@
 ---
 choices: harvested | cultivated | blossomed | planted
 answerText: cultivated
+reviewed: yes
 ---
 【正解】2 cultivated（養った、育てた）
 【和訳】

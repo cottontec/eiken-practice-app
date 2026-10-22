@@ -1,6 +1,7 @@
 ---
 choices: Philippe Bunau-Varilla tried to keep the U.S. government from learning of the danger posed by Nicaragua's Momotombo Volcano. | The French government tried to convince U.S. officials to continue constructing the canal they had begun in Nicaragua. | Philippe Bunau-Varilla persuaded the U.S. government to give up its original plans to build a canal across Nicaragua. | The Nicaraguan government prevented U.S. business leaders from going ahead with their plans for a canal across Nicaragua.
 answerText: Philippe Bunau-Varilla persuaded the U.S. government to give up its original plans to build a canal across Nicaragua.
+reviewed: yes
 ---
 【正解】3 Philippe Bunau-Varilla persuaded the U.S. government to give up its original plans to build a canal across Nicaragua.（フィリップ・ビュノー＝バリーヤは、ニカラグアを横切る運河を造るという当初の計画をあきらめるよう、アメリカ政府を説得した。）
 【和訳】
@@ -19,7 +20,7 @@ In 1902, French engineer Philippe Bunau-Varilla was lobbying the United States t
 lobby は「（政治家などに）働きかける」、back は「支援する、後押しする」、abandon は「放棄する、見捨てる」という意味です。
 To emphasize the risks of digging across Nicaragua, he sent hundreds of U.S. lawmakers a Nicaraguan stamp ～.（ニカラグアを横切って掘ることの危険を強調するために、彼は何百人ものアメリカの議員にニカラグアの切手を送った）
 This convinced them to shift their support to the site in Panama.（これによって議員たちは、支持をパナマの場所へ移すことにした）
-1800年代のアメリカは、ニカラグアと協定を結び、ニカラグアのルートを考えていました。ビュノー＝バリーヤは、火山の切手で危険を強調し、議員たちの支持をパナマへ移させたのです。
+1800年代には、アメリカの実業界の指導者や政府の当局者たちがニカラグアと協定を結び、ニカラグアを通るルートを検討していました。ビュノー＝バリーヤは、火山の切手で危険を強調し、議員たちの支持をパナマへ移させたのです。
 本文と選択肢を対にすると、次のようになります。
 本文 This convinced them to shift their support to the site in Panama.（これによって議員たちは、支持をパナマの場所へ移すことにした）→ 選択肢 persuaded the U.S. government to give up its original plans to build a canal across Nicaragua（ニカラグアを横切る運河の当初の計画をあきらめるよう、アメリカ政府を説得した）
 支持をニカラグアからパナマへ「移した」ことが、ニカラグアの計画を「あきらめた」ことに当たります。ですから3が正解です。

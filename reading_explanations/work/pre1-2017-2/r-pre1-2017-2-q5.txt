@@ -1,0 +1,32 @@
+---
+choices: penalized | retrieved | plagued | ripened
+answerText: plagued
+---
+【正解】3 plagued（苦しめられた、悩まされた）
+【和訳】
+（英文）
+The company’s computer system was ［plagued］ by one technical problem after another. Finally, the president decided to have it replaced.
+（訳）
+その会社のコンピューターシステムは、次から次へと起こる技術的な問題に（悩まされた）。ついに社長は、それを取り替えさせることに決めた。
+（選択肢の意味）
+1 penalized：罰せられた
+2 retrieved：取り戻された、（データが）呼び出された
+3 plagued：苦しめられた、悩まされた
+4 ripened：熟した
+【考え方】
+まず見るところ：空所のあとの by one technical problem after another と、2文目の Finally
+最初に、空所の文の形を確かめます。
+was ( ) by one technical problem after another（次から次へと起こる技術的な問題によって（　）された）
+was ～ed by … は受け身（「…によって～される」という形）です。one ～ after another は「次から次へと～」という意味です。
+次に、2文目を見ます。
+Finally, the president decided to have it replaced.（ついに社長は、それを取り替えさせることに決めた）
+have it replaced は「（だれかに頼んで）それを取り替えてもらう」という意味です。問題が続いたので、とうとう取り替えることにした、という流れです。
+plague は「（病気や困りごとが）しつこく苦しめる、悩ませる」という意味です。「次々と起こる問題に悩まされた→ついに取り替えた」とつながるので、3が正解です。
+この問題の型：因果（問題が次々起こる→ついに取り替える）／文法（受け身 was ～ed by）
+【ほかの選択肢】
+1 penalized は「罰せられた」です。罰を受けるのはふつう決まりを破った人などで、「技術的な問題によって罰せられた」では意味が通りません。
+2 retrieved は「取り戻された、（データなどが）呼び出された」です。「次々と起こる問題によって取り戻された」では、取り替えることにしたという2文目とつながりません。
+4 ripened は「（果物などが）熟した」です。コンピューターシステムには使えません。
+【覚えるポイント】
+・be plagued by ～：「～に（しつこく）悩まされる、苦しめられる」。
+・one ～ after another（次から次へと～）のように、困りごとが続く形のあとに Finally（ついに）が来るときは、空所に「悩まされる、苦しめられる」という意味の語が入る手がかりになります。

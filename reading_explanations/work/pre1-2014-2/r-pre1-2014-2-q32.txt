@@ -1,6 +1,7 @@
 ---
 choices: They are often located on land that is unable to be used in industrial agriculture. | They do not meet the practical needs of farmers as well as they did over a century ago. | The livestock they were built to house are now raised mainly on small, family-operated farms. | The need for a large number of farms decreased when the government began importing more crops.
 answerText: They do not meet the practical needs of farmers as well as they did over a century ago.
+reviewed: yes
 ---
 【正解】2 They do not meet the practical needs of farmers as well as they did over a century ago.（納屋は、100年以上前ほどには、農家の実際の必要を満たしていない。）
 【和訳】

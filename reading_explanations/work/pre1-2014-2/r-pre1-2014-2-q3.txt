@@ -1,6 +1,7 @@
 ---
 choices: exhausting | exalting | excelling | expiring
 answerText: exhausting
+reviewed: yes
 ---
 【正解】1 exhausting（ひどく疲れさせる、へとへとになる）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: declaration | petition | dominance | resemblance
 answerText: dominance
+reviewed: yes
 ---
 【正解】3 dominance（圧倒的な強さ、優位）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: pursuing | neglecting | abolishing | sheltering
 answerText: neglecting
+reviewed: yes
 ---
 【正解】2 neglecting（おろそかにすること、ほったらかしにすること）
 【和訳】

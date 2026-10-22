@@ -1,6 +1,7 @@
 ---
 choices: assigned | invaded | eroded | haunted
 answerText: eroded
+reviewed: yes
 ---
 【正解】3 eroded（しだいに損なわれた、少しずつ弱まった）
 【和訳】

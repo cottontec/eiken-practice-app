@@ -1,6 +1,7 @@
 ---
 choices: pluck | enforce | recollect | remodel
 answerText: enforce
+reviewed: yes
 ---
 【正解】2 enforce（〔規則などを〕守らせる、実行させる）
 【和訳】

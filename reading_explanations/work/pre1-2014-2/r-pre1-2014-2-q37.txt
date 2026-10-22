@@ -1,6 +1,7 @@
 ---
 choices: Math and reading should be the core of education, but they do not help students improve their reasoning skills. | Contact with the natural world gives children intellectual skills that help them do better in certain academic subjects. | Current school programs in environmental studies need to be changed to meet the needs of students with disabilities. | Using nature to teach math and reading may help students with psychological problems understand concepts more quickly.
 answerText: Contact with the natural world gives children intellectual skills that help them do better in certain academic subjects.
+reviewed: yes
 ---
 【正解】2 Contact with the natural world gives children intellectual skills that help them do better in certain academic subjects.（自然の世界と触れ合うことは、子どもたちに、いくつかの教科でよりよい成績をとるのに役立つ知的な力を与える。）
 【和訳】

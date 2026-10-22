@@ -1,6 +1,7 @@
 ---
 choices: vibrant | ambiguous | spiteful | righteous
 answerText: ambiguous
+reviewed: yes
 ---
 【正解】2 ambiguous（あいまいな）
 【和訳】

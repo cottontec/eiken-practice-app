@@ -1,6 +1,7 @@
 ---
 choices: violation | succession | acquisition | recession
 answerText: violation
+reviewed: yes
 ---
 【正解】1 violation（違反）
 【和訳】

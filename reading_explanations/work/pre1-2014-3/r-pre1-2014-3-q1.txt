@@ -1,6 +1,7 @@
 ---
 choices: intentional | fundamental | speculative | courageous
 answerText: fundamental
+reviewed: yes
 ---
 【正解】2 fundamental（根本的な、いちばん基本となる）
 【和訳】

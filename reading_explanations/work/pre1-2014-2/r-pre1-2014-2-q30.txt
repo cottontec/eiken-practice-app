@@ -1,6 +1,7 @@
 ---
 choices: be one consequence | have one positive effect | begin to decrease | have little connection
 answerText: be one consequence
+reviewed: yes
 ---
 【正解】1 be one consequence（その結果の一つである）
 【和訳】

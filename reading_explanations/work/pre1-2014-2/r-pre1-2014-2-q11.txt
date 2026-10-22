@@ -1,6 +1,7 @@
 ---
 choices: drift | reconcile | pierce | crouch
 answerText: reconcile
+reviewed: yes
 ---
 【正解】2 reconcile（〔意見の違いなどを〕調整する、折り合いをつける）
 【和訳】

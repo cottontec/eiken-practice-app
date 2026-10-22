@@ -1,6 +1,7 @@
 ---
 choices: the barns will be used for a different purpose than the one they were originally intended for. | the process makes use of too many natural resources and so does more harm than good. | the repairs often made to barns actually result in their structure becoming weaker. | the level of craftsmanship with which the barns were built is difficult to match these days.
 answerText: the barns will be used for a different purpose than the one they were originally intended for.
+reviewed: yes
 ---
 【正解】1 the barns will be used for a different purpose than the one they were originally intended for.（納屋が、もともと意図されていたものとはちがう目的に使われることになる。）
 【和訳】

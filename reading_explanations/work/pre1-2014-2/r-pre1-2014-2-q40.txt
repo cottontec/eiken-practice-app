@@ -1,6 +1,7 @@
 ---
 choices: The Nicaraguan government should use money earned from the canal to improve Lake Nicaragua's water quality. | Most of the people living near Lake Nicaragua are opposed to the lake being used for drinking water only. | If Lake Nicaragua becomes part of the canal, people in the region will have to find a new source of drinking water. | Lake Nicaragua is not deep enough to be used as part of a major international shipping passage.
 answerText: If Lake Nicaragua becomes part of the canal, people in the region will have to find a new source of drinking water.
+reviewed: yes
 ---
 【正解】3 If Lake Nicaragua becomes part of the canal, people in the region will have to find a new source of drinking water.（もしニカラグア湖が運河の一部になれば、その地域の人々は新しい飲み水の供給源を見つけなければならなくなるだろう。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: a temporary project | a means of protection | used for transport | constructed very quickly
 answerText: used for transport
+reviewed: yes
 ---
 【正解】3 used for transport（輸送に使われた）
 【和訳】

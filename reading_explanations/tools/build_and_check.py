@@ -159,7 +159,7 @@ def check_batch(src_root, part, batch_id):
                 for i, c in enumerate(choices, 1):
                     if c and norm(c) not in ntext and norm(c).replace('-', '') not in ntext.replace('-', ''):
                         warns.append((qid, f'選択肢{i}「{c}」が抽出テキストに見つからない（画像で要確認）'))
-            g = GENDERED.findall(body)
+            g = GENDERED.findall(re.sub(r'『[^』]*』', '', body))  # 作品名『』の中は対象外
             if g:
                 warns.append((qid, f'性別を決める口調の可能性：{"・".join(sorted(set(g)))}（中立的な表現に）'))
             reasoning = section_block(body, '【考え方】').strip()

@@ -1,6 +1,7 @@
 ---
 choices: skim over | read into | bear with | set about
 answerText: bear with
+reviewed: yes
 ---
 【正解】3 bear with（～を辛抱する、～に辛抱強く付き合う）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: burned out | won over | bought up | taken through
 answerText: burned out
+reviewed: yes
 ---
 【正解】1 burned out（燃えつきた、疲れきった）
 【和訳】

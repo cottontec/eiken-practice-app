@@ -1,6 +1,7 @@
 ---
 choices: created a serious weakness | led to mistaken beliefs | became popular abroad | helped the military in other ways
 answerText: created a serious weakness
+reviewed: yes
 ---
 【正解】1 created a serious weakness（深刻な弱点を生み出した）
 【和訳】
@@ -18,11 +19,11 @@ While this arrangement allowed Britain to focus on producing bombers,（この�
 this arrangement（この取り決め）は、前の文の「アメリカがイギリスの輸送機の大部分を供給したこと」を指します。While の部分には取り決めのよい点が書かれているので、it also (　)（それは〇〇もした）には、よい点とは反対の、悪い点が入ると考えられます。
 次の文で、その悪い点がくわしく書かれています。
 It was clear that the experience in the design and manufacture of transport aircraft gained by the United States would put it at an advantage once the war was over.（アメリカが輸送機の設計と製造で得た経験によって、戦争が終われば、アメリカが有利な立場に立つことは明らかだった）
-put it at an advantage の it はアメリカを指します。輸送機を作る経験を積んだのはアメリカで、イギリスは経験を積めませんでした。さらに、1943年にイギリス政府は realizing it was falling behind in the civilian aircraft industry（民間航空機の産業で後れをとりつつあると気づいて）とあります。
+put it at an advantage の it はアメリカを指します。輸送機を作る経験を積んだのはアメリカの側です。さらに、1943年にイギリス政府は realizing it was falling behind in the civilian aircraft industry（民間航空機の産業で後れをとりつつあると気づいて）とあります。
 アメリカに輸送機を任せたことで、イギリスは戦後に後れをとるという弱みを持ってしまったのです。これは1の「深刻な弱点を生み出した」と合います。よって1が正解です。
 この問題の型：対比（While ～ のよい点 ⇔ it also ～ の悪い点）
 【ほかの選択肢】
-2 「誤った思いこみにつながった」は本文に書かれていません。本文では、アメリカが有利になることは It was clear（明らかだった）とあり、イギリスは状況を正しく理解していました。
+2 「誤った思いこみにつながった」は本文に書かれていません。本文では、アメリカが有利になることは It was clear（明らかだった）と、はっきりした事実として書かれています。思いこみが生まれたという話はありません。
 3 「海外で人気になった」も本文にありません。空所のあとは、イギリスが戦後に不利になるという話で、取り決めが人気になったという内容とはつながりません。
 4 「ほかの面で軍の役に立った」は、While の部分の「爆撃機の生産に集中できた」と同じ、よい点の側の内容です。While ～, it also ... で反対の内容を示す形にも、次の文の「アメリカが有利になる」という話にも合いません。
 【覚えるポイント】

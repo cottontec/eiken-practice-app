@@ -1,6 +1,7 @@
 ---
 choices: fraud | bait | scam | bribe
 answerText: bribe
+reviewed: yes
 ---
 【正解】4 bribe（わいろ）
 【和訳】

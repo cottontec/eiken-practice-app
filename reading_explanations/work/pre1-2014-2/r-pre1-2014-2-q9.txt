@@ -1,6 +1,7 @@
 ---
 choices: assemblies | cowards | dictators | casualties
 answerText: casualties
+reviewed: yes
 ---
 【正解】4 casualties（犠牲者、犠牲になったもの）
 【和訳】

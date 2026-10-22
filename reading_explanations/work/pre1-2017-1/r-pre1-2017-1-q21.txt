@@ -1,0 +1,31 @@
+---
+choices: crawl | tame | sue | twist
+answerText: sue
+---
+【正解】3 sue（訴える、裁判を起こす）
+【和訳】
+（英文）
+The man claims that the company stole his idea for the best-selling product. He has hired a lawyer and intends to ［sue］ the company.
+（訳）
+その男性は、その会社が、よく売れている商品についての自分のアイデアを盗んだと主張している。彼は弁護士を雇い、その会社を（訴える）つもりだ。
+（選択肢の意味）
+1 crawl：はう、はって進む
+2 tame：飼いならす、おとなしくさせる
+3 sue：訴える、裁判を起こす
+4 twist：ねじる、ひねる
+【考え方】
+まず見るところ：空所の前の He has hired a lawyer
+前の文は次のとおりです。
+The man claims that the company stole his idea for the best-selling product.（その男性は、その会社が、よく売れている商品についての自分のアイデアを盗んだと主張している）
+claim は「（本当だと）主張する」です。
+空所のある文は次のとおりです。
+He has hired a lawyer and intends to ( ) the company.（彼は弁護士を雇い、その会社を（　）するつもりだ）
+lawyer は「弁護士」、intend to ～ は「～するつもりだ」です。アイデアを盗まれたと主張して弁護士を雇ったのですから、会社を裁判に訴えようとしていると考えられます。sue は「（人や会社を）訴える」という意味なので、3が正解です。
+この問題の型：語の意味・組み合わせ（lawyer と sue）／因果（アイデアを盗まれた→訴える）
+【ほかの選択肢】
+1 crawl は「はう、はって進む」です。ふつう後ろに「～を」がこない語で、「会社をはう」では意味が通りません。
+2 tame は「（動物を）飼いならす」です。「会社を飼いならす」となり、弁護士を雇ったこととつながりません。
+4 twist は「ねじる、ひねる」です。「会社をねじる」となり、意味が通りません。
+【覚えるポイント】
+・sue：「（人や会社を）訴える、裁判を起こす」。
+・lawyer（弁護士）や claim（主張する）のように裁判に関係する語が出てきたら、空所にも法律や裁判に関係する語が入ることが多いと考えると手がかりになります。

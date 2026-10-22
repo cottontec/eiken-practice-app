@@ -1,6 +1,7 @@
 ---
 choices: State officials cannot provide funding to help organizations record the number of barns in each state. | Critics believe such efforts should not be a main target of federal financial aid. | Organizations are largely dependent on volunteers to raise funds for barn preservation. | Such efforts are slowed by higher taxes on farms in states that do not rely on agriculture.
 answerText: Critics believe such efforts should not be a main target of federal financial aid.
+reviewed: yes
 ---
 【正解】2 Critics believe such efforts should not be a main target of federal financial aid.（批判する人たちは、そうした取り組みを連邦政府の資金援助の主な対象にすべきではないと考えている。）
 【和訳】

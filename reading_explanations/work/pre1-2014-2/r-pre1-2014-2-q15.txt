@@ -1,6 +1,7 @@
 ---
 choices: interacting | outweighing | concealing | shoving
 answerText: interacting
+reviewed: yes
 ---
 【正解】1 interacting（交流している、関わり合っている）
 【和訳】

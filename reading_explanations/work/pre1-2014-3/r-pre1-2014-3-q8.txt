@@ -1,6 +1,7 @@
 ---
 choices: indebted | integral | mediocre | primitive
 answerText: integral
+reviewed: yes
 ---
 【正解】2 integral（欠かせない、なくてはならない）
 【和訳】

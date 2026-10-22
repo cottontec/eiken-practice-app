@@ -1,6 +1,7 @@
 ---
 choices: been an unlikely choice for | had much to offer as | appeared to be a safe place for | had a long history as
 answerText: been an unlikely choice for
+reviewed: yes
 ---
 【正解】1 been an unlikely choice for（～としては選ばれそうにない所だった）
 【和訳】

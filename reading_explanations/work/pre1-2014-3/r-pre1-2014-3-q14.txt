@@ -1,6 +1,7 @@
 ---
 choices: component | pileup | detergent | shortfall
 answerText: shortfall
+reviewed: yes
 ---
 【正解】4 shortfall（不足、不足額）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: timid | mutual | instrumental | tremendous
 answerText: timid
+reviewed: yes
 ---
 【正解】1 timid（おくびょうな、気の小さい）
 【和訳】

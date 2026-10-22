@@ -1,6 +1,7 @@
 ---
 choices: posture | sanctuary | proponent | remainder
 answerText: remainder
+reviewed: yes
 ---
 【正解】4 remainder（残り）
 【和訳】

@@ -13,7 +13,9 @@ answerText: still lack reliable Internet access
 4 still lack reliable Internet access（今でも、信頼できるインターネット接続がない）
 【考え方】
 まず見るところ：第3段落の空所の直後の Therefore, there were criticisms that ～
-第3段落は、However, not everyone was happy.（しかし、だれもが喜んだわけではなかった）で始まり、この計画への批判が書かれています。空所の前の文は次のとおりです。
+第3段落は、次の文で始まります。
+However, not everyone was happy.（しかし、だれもが喜んだわけではなかった）
+この段落には、この計画への批判が書かれています。空所の前の文は次のとおりです。
 Some critics said the government was giving more attention to tourists.（批判する人の中には、政府は（地元の人々より）観光客のほうに多くの注意を向けていると言う人もいた）
 空所の直後の文は次のとおりです。
 Therefore, there were criticisms that the resources should be used more to improve communication services for local residents.（そのため、その資源は、地元の住民のための通信サービスをよくすることに、もっと使われるべきだという批判があった）

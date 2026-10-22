@@ -1,6 +1,7 @@
 ---
 choices: inventive | tentative | overcast | definable
 answerText: overcast
+reviewed: yes
 ---
 【正解】3 overcast（〔空が〕一面に曇った）
 【和訳】

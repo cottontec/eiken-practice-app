@@ -1,6 +1,7 @@
 ---
 choices: relevant | optimistic | justified | permissive
 answerText: optimistic
+reviewed: yes
 ---
 【正解】2 optimistic（楽観的な）
 【和訳】

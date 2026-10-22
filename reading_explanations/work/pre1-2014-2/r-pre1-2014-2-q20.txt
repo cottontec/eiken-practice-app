@@ -1,6 +1,7 @@
 ---
 choices: insoluble | uptight | vivid | weary
 answerText: insoluble
+reviewed: yes
 ---
 【正解】1 insoluble（解決できない）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: stingy | hectic | adorable | premature
 answerText: stingy
+reviewed: yes
 ---
 【正解】1 stingy（けちな）
 【和訳】

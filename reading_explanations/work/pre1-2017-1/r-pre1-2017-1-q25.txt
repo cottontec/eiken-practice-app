@@ -1,0 +1,33 @@
+---
+choices: read off | hand off | speak for | weigh on
+answerText: speak for
+---
+【正解】3 speak for（～を代弁する、～に代わって意見を言う）
+【和訳】
+（英文）
+A: Henry, what do the employees in your section think about the new sales plan?
+B: Well, I can't ［speak for］ the other team members, but I think it looks fine.
+（訳）
+A：ヘンリー、あなたの部署の社員たちは、新しい販売計画についてどう思っている？
+B：そうだね、ほかのチームのメンバーに（代わって意見を言う）ことはできないけれど、私はよさそうだと思うよ。
+（選択肢の意味）
+1 read off：（リストなどを）読み上げる
+2 hand off：手渡す、（仕事などを）引き継ぐ
+3 speak for：～を代弁する、～に代わって意見を言う
+4 weigh on：（心に）重くのしかかる、苦しめる
+【考え方】
+まず見るところ：Bの答えの後半 but I think it looks fine
+Aは次のようにたずねています。
+what do the employees in your section think about the new sales plan?（あなたの部署の社員たちは、新しい販売計画についてどう思っているか）
+Aが知りたいのは、ヘンリー自身ではなく「部署の社員たち」の考えです。
+Bの答えは次のとおりです。
+I can't ( ) the other team members, but I think it looks fine.（ほかのチームのメンバーを（　）することはできないけれど、私はよさそうだと思う）
+but のあとで、Bは I think（私は思う）と自分の意見だけを言っています。ですから、but の前は「ほかの人の意見までは言えない」という内容だと考えられます。speak for ～ は「～を代弁する、～に代わって意見を言う」なので、3が正解です。
+この問題の型：対比（ほかのメンバーの意見は言えない⇔自分の意見）／熟語・決まった形（speak for ～）
+【ほかの選択肢】
+1 read off は「（リストなどを）読み上げる」です。「ほかのメンバーを読み上げることはできない」となり、意味が通りません。
+2 hand off は「手渡す、引き継ぐ」です。「ほかのメンバーを手渡すことはできない」となり、Aの質問への答えになりません。
+4 weigh on は「（心に）重くのしかかる」です。「ほかのメンバーに重くのしかかることはできない」となり、販売計画についての意見をたずねる質問への答えになりません。
+【覚えるポイント】
+・speak for ～：「～を代弁する、～に代わって意見を言う」。
+・I can't ～, but I think …（～はできないけれど、私は…と思う）の答えでは、but のあとが「自分の意見」なので、前半には「ほかの人の意見までは言えない」という内容がくると考えると手がかりになります。

@@ -1,6 +1,7 @@
 ---
 choices: should be encouraged to improve their athletic ability by joining organized sports programs. | should be able to enjoy electronic entertainment such as video games as a reward for doing well on tests. | need the help of teachers if they are to gain the confidence necessary to perform well in extracurricular activities. | must be allowed to encounter unplanned situations so that they can learn how to handle them.
 answerText: must be allowed to encounter unplanned situations so that they can learn how to handle them.
+reviewed: yes
 ---
 【正解】4 must be allowed to encounter unplanned situations so that they can learn how to handle them.（〔子どもたちは〕計画されていない状況への対処のしかたを学べるように、そうした状況に出会うことを許されなければならない。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: encode | disguise | enlist | depict
 answerText: enlist
+reviewed: yes
 ---
 【正解】3 enlist（（助けや協力）を求めて得る）
 【和訳】

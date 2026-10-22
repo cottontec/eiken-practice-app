@@ -1,6 +1,7 @@
 ---
 choices: Greece's history as part of the Ottoman Empire makes it difficult to determine exactly which country they belong to. | The British government acquired them from one of its citizens instead of directly from the marbles' country of origin. | They were transferred to Britain more than 100 years before the treaty was negotiated. | The international community officially recognized Britain as their rightful owner prior to 1970.
 answerText: They were transferred to Britain more than 100 years before the treaty was negotiated.
+reviewed: yes
 ---
 【正解】3 They were transferred to Britain more than 100 years before the treaty was negotiated.（条約が話し合われるより100年以上前に、イギリスへ移されたから。）
 【和訳】
@@ -24,11 +25,11 @@ In the early 1800s, when Greece was ruled by the Ottoman Empire, the British amb
 本文と選択肢3を対にすると、次のようになります。
 ・本文 shipped them to Britain（それらをイギリスへ送った）＝ 選択肢 They were transferred to Britain（イギリスへ移された）
 ・本文 In the early 1800s ～ と 1970 → 選択肢 more than 100 years before the treaty（条約より100年以上前）
-1800年代の初めから1970年までは、150年以上あります。ですから「100年以上前」は本文から読み取れます。条約はそれより前の品を扱っていないので、エルギン・マーブルは対象にならないのです。よって3が正解です。
+1800年代の初めから1970年までには、100年をはるかに超える年月があります。ですから「100年以上前」は本文から読み取れます。なお、選択肢の negotiated（話し合われた）は本文の put forth（打ち出した）と語が違いますが、ここでは条約が成立した1970年ごろを指しているので、判断には影響しません。条約はそれより前の品を扱っていないので、エルギン・マーブルは対象にならないのです。よって3が正解です。
 この問題の型：推論（第1段落の条約の決まりと、第2段落の年代を組み合わせる）
 【ほかの選択肢】
 1 本文にありません。ギリシャがオスマン帝国に支配されていたことは書かれていますが、そのせいでどの国のものか決められない、とは書かれていません。条約の対象にならない理由として本文が挙げているのは、持ち出された時期です。
-2 一部だけ本文と合います。彫刻はエルギンからイギリス政府に売られたので、イギリス政府が自国民から手に入れたことは本文と合います。しかし、条約の対象にならない理由として、だれから手に入れたかは挙げられていません。
+2 一部だけ本文と合うように読めます。エルギンがイギリスへ送った彫刻は最終的にイギリス政府に売られた、とあるので、イギリス政府がイギリス人から手に入れたこと自体は本文と食いちがいません。しかし、条約の対象にならない理由として、だれから手に入れたかは挙げられていません。
 4 本文にありません。国際社会がイギリスを正当な持ち主と認めたという話はなく、むしろ第1段落には、こうした品の正当な持ち主が激しく議論されているとあります。
 【覚えるポイント】
 ・prior to ～：「～より前に」。call for ～：「～を求める」。

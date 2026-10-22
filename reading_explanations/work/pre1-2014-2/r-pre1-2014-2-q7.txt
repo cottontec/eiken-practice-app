@@ -1,6 +1,7 @@
 ---
 choices: Swamp | Breadth | Chatter | Torture
 answerText: Chatter
+reviewed: yes
 ---
 【正解】3 Chatter（おしゃべり）
 【和訳】

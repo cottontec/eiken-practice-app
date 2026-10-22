@@ -1,6 +1,7 @@
 ---
 choices: intrigued | tainted | dejected | dispatched
 answerText: intrigued
+reviewed: yes
 ---
 【正解】1 intrigued（興味をそそられた）
 【和訳】

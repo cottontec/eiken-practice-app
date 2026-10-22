@@ -1,6 +1,7 @@
 ---
 choices: carried over | played up | won back | bought out
 answerText: bought out
+reviewed: yes
 ---
 【正解】4 bought out（（ほかの所有者）の持ち分を買い取った）
 【和訳】

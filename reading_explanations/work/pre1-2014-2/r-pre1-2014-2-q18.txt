@@ -1,6 +1,7 @@
 ---
 choices: gratitude | ordeal | murmur | rubbish
 answerText: ordeal
+reviewed: yes
 ---
 【正解】2 ordeal（つらい試練、苦しい体験）
 【和訳】

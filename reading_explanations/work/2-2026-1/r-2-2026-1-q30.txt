@@ -2,13 +2,13 @@
 choices: Their childhood provided them with access to knowledge and learning. | Their jobs were flexible enough to allow them a lot of free time for research. | They had a lot of volunteer workers who were willing to work for them. | They worked with teams of several great assistants on each project.
 answerText: Their childhood provided them with access to knowledge and learning.
 ---
-【正解】1 Their childhood provided them with access to knowledge and learning.（子どものころの環境が、2人に知識や学びに触れる機会を与えた。）
+【正解】1 Their childhood provided them with access to knowledge and learning.（子ども時代が、2人に知識や学びに触れる機会を与えた。）
 【和訳】
 ＜本文の全訳＞
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：What is one reason the Humboldt brothers could focus on their achievements?（フンボルト兄弟が、自分たちの業績に集中することができた理由の1つは何ですか。）
-1 Their childhood provided them with access to knowledge and learning.（子どものころの環境が、2人に知識や学びに触れる機会を与えた。）
+1 Their childhood provided them with access to knowledge and learning.（子ども時代が、2人に知識や学びに触れる機会を与えた。）
 2 Their jobs were flexible enough to allow them a lot of free time for research.（2人の仕事は融通がきき、研究のための自由な時間がたくさん持てた。）
 3 They had a lot of volunteer workers who were willing to work for them.（2人には、自分たちのために進んで働いてくれるボランティアがたくさんいた。）
 4 They worked with teams of several great assistants on each project.（2人は、それぞれの仕事で、何人ものすぐれた助手のチームといっしょに働いた。）
@@ -19,8 +19,8 @@ It is clear that the environment in which the Humboldt brothers grew up gave the
 具体的には、次の文に書かれています。
 Their wealthy background gave them early access to quality education and rich intellectual opportunities.（裕福な生まれ育ちのおかげで、2人は早くから質の高い教育と、学問や考えに触れる豊かな機会を得ることができた）
 本文と選択肢を対にすると、次のようになります。
-本文 the environment in which the Humboldt brothers grew up（兄弟が育った環境）、gave them early access to quality education and rich intellectual opportunities（早くから質の高い教育と知的な機会を与えた）→ 言いかえると 選択肢 Their childhood provided them with access to knowledge and learning（子どものころの環境が、知識や学びに触れる機会を与えた）
-本文の the environment in which ～ grew up（育った環境）と early（早くから）が Their childhood（子どものころ）に、quality education and rich intellectual opportunities（質の高い教育と知的な機会）が knowledge and learning（知識や学び）に言いかえられています。ですから1が正解です。
+本文 the environment in which the Humboldt brothers grew up（兄弟が育った環境）、gave them early access to quality education and rich intellectual opportunities（早くから質の高い教育と知的な機会を与えた）→ 言いかえると 選択肢 Their childhood provided them with access to knowledge and learning（子ども時代が、知識や学びに触れる機会を与えた）
+本文の the environment in which ～ grew up（育った環境）と early（早くから）が Their childhood（子ども時代）に、quality education and rich intellectual opportunities（質の高い教育と知的な機会）が knowledge and learning（知識や学び）に言いかえられています。ですから1が正解です。
 この問題の型：言いかえ（gave them early access to quality education → provided them with access to knowledge and learning）
 【ほかの選択肢】
 2 2人の仕事に融通がきいて、研究のための自由な時間がたくさんあったとは、本文に書かれていません。本文が2人の業績の理由として挙げているのは、育った環境と、早くから質の高い教育を受けられたことです。

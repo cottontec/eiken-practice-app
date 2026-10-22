@@ -1,13 +1,14 @@
 ---
 choices: prime | clumsy | tranquil | pathetic
 answerText: prime
+reviewed: yes
 ---
 【正解】1 prime（最もよい、代表的な）
 【和訳】
 （英文）
 I'm really glad Walter is my new mentor. He's a ［prime］ example of a successful salesperson. He has a great attitude and really knows how to get results.
 （訳）
-ウォルターが私の新しい指導役で、本当にうれしい。彼は成功した販売員の（最高の）お手本なんだ。仕事への姿勢がすばらしく、結果の出し方を本当によく分かっている。
+ウォルターが私の新しい指導役で、本当にうれしい。彼は成功した販売員の（最高の）お手本だよ。仕事への姿勢がすばらしく、結果の出し方を本当によく分かっている。
 （選択肢の意味）
 1 prime：最もよい、主要な、代表的な
 2 clumsy：不器用な、ぎこちない

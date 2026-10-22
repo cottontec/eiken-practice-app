@@ -1,6 +1,7 @@
 ---
 choices: detain | resort | console | enclose
 answerText: resort
+reviewed: yes
 ---
 【正解】2 resort（resort to ～ で「～に訴える、～という手段に頼る」）
 【和訳】

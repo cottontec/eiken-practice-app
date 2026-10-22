@@ -1,6 +1,7 @@
 ---
 choices: may explain a phenomenon | were used to protect wolves | could not be repeated | helped scientists locate sparrows
 answerText: may explain a phenomenon
+reviewed: yes
 ---
 【正解】1 may explain a phenomenon（ある現象を説明するかもしれない）
 【和訳】

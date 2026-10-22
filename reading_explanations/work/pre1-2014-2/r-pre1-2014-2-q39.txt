@@ -1,6 +1,7 @@
 ---
 choices: the steadily increasing demand for Nicaraguan goods and services will ensure that the project is profitable. | if Nicaragua does not take advantage of the opportunity to host the project, another Central American country will do so. | a canal across Nicaragua would eliminate the need for any other shipping route between the Atlantic and Pacific Oceans. | increases in the size of cargo ships and the amount of cargo being carried mean an alternative to the Panama Canal is necessary.
 answerText: increases in the size of cargo ships and the amount of cargo being carried mean an alternative to the Panama Canal is necessary.
+reviewed: yes
 ---
 【正解】4 increases in the size of cargo ships and the amount of cargo being carried mean an alternative to the Panama Canal is necessary.（貨物船の大きさと、運ばれる貨物の量が増えていることは、パナマ運河に代わるものが必要だということを意味する。）
 【和訳】

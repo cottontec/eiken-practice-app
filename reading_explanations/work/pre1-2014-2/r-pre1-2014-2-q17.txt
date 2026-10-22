@@ -1,6 +1,7 @@
 ---
 choices: ornaments | riots | numerals | sobs
 answerText: sobs
+reviewed: yes
 ---
 【正解】4 sobs（すすり泣き、すすり泣く声）
 【和訳】

@@ -14,7 +14,9 @@ answerText: began focusing on locating people with the disease and preventing it
 4 started a policy of closely monitoring a community for five months after the last reported outbreak of the disease.（病気の流行が最後に報告されたあと、5か月間ある地域を注意深く見張るという方針を始めた。）
 【考え方】
 まず見るところ：第3段落の In 1966, however, William Foege と、段落の最後の The WHO adopted the technique
-第3段落では、WHO の計画がぶつかった障害がまず書かれています。インドのような国では、the task of vaccinating everyone was so expensive and time-consuming（全員に予防接種をするという仕事はあまりにも費用と時間がかかった）ので、天然痘をなくすのは不可能だと多くの人が考えました。
+第3段落では、WHO の計画がぶつかった障害がまず書かれています。インドのような国については、次のようにあります。
+the task of vaccinating everyone was so expensive and time-consuming that many believed the elimination of smallpox to be impossible（全員に予防接種をするという仕事はあまりにも費用と時間がかかったので、多くの人が、天然痘をなくすことは不可能だと考えた）
+つまり、「全員に予防接種をする」という方法は、うまくいかないと思われていました。
 そのあとに however（しかし）が続き、新しい方法が説明されます。
 William Foege ～ realized that close monitoring and fast responses could prevent the spread of smallpox outbreaks.（ウィリアム・フェイギは、注意深く見張り、すばやく対応すれば、天然痘の流行が広がるのを防げることに気づいた）
 By vaccinating everyone both within and immediately surrounding a smallpox victim's community, he was able to stop outbreaks in the region in five months.（天然痘患者の住む地域の中と、そのすぐ周りの全員に予防接種をすることで、彼はその地方での流行を5か月で止めることができた）

@@ -1,6 +1,7 @@
 ---
 choices: ashamed | stealthy | dissimilar | tolerable
 answerText: tolerable
+reviewed: yes
 ---
 【正解】4 tolerable（がまんできる、まあまあの）
 【和訳】

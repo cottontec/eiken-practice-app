@@ -1,6 +1,7 @@
 ---
 choices: Nevertheless | For example | Surprisingly | On the contrary
 answerText: For example
+reviewed: yes
 ---
 【正解】2 For example（たとえば）
 【和訳】

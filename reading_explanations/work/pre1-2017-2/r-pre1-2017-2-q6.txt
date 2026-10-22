@@ -1,0 +1,30 @@
+---
+choices: miscellaneous | sweltering | thunderous | dejected
+answerText: miscellaneous
+---
+【正解】1 miscellaneous（種々雑多な、いろいろな物が入りまじった）
+【和訳】
+（英文）
+The museum had a ［miscellaneous］ collection of objects donated by local people over the years. A few of them were rare and expensive, but most of them were quite ordinary things.
+（訳）
+その博物館には、長年にわたって地元の人々から寄贈された品々の、（種々雑多な）コレクションがあった。そのうちのいくつかは珍しくて高価なものだったが、ほとんどはごくありふれた物だった。
+（選択肢の意味）
+1 miscellaneous：種々雑多な、いろいろな物が入りまじった
+2 sweltering：うだるように暑い
+3 thunderous：雷のような、とどろくような
+4 dejected：落ちこんだ、しょげた
+【考え方】
+まず見るところ：2文目の A few of them were rare and expensive, but most of them were quite ordinary things.
+A few of them were rare and expensive（そのうちのいくつかは珍しくて高価だった）
+but most of them were quite ordinary things（しかし、ほとんどはごくありふれた物だった）
+them（それら）は、博物館のコレクションの品々を指しています。珍しくて高価な物も、ごくふつうの物もあり、さまざまな種類の物がまじっていたことが分かります。
+また、1文目の donated by local people over the years（長年にわたって地元の人々から寄贈された）からも、いろいろな人がいろいろな物を持ちこんだことがうかがえます。donate は「寄付する、寄贈する」という意味です。
+miscellaneous は「種々雑多な（いろいろな種類の物が入りまじった）」という意味です。2文目の説明をまとめた言い方になるので、1が正解です。
+この問題の型：具体例とまとめ（珍しく高価な物もありふれた物もある→種々雑多な）
+【ほかの選択肢】
+2 sweltering は「うだるように暑い」です。天気や部屋の暑さを表す語で、品々のコレクションの説明には合いません。
+3 thunderous は「雷のような、（音が）とどろくような」です。拍手や音の大きさに使う語で、「とどろくようなコレクション」では意味が通りません。
+4 dejected は「落ちこんだ、しょげた」です。人の気持ちを表す語なので、物のコレクションには使えません。
+【覚えるポイント】
+・miscellaneous：「種々雑多な、いろいろな物が入りまじった」。
+・空所のあとに「いくつかは～だが、ほとんどは…」のように中身の説明が続くときは、その説明をひとことでまとめる語を選ぶと手がかりになります。

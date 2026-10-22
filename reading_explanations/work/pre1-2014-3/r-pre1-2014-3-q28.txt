@@ -1,6 +1,7 @@
 ---
 choices: took too much time | had lasting effects | was attacked by critics | continued in later years
 answerText: had lasting effects
+reviewed: yes
 ---
 【正解】2 had lasting effects（長く続く影響を残した）
 【和訳】

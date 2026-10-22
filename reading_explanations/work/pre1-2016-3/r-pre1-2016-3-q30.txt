@@ -1,0 +1,30 @@
+---
+choices: are criticized less often | face another challenge | tend to hire more women | judge people more harshly
+answerText: face another challenge
+---
+【正解】2 face another challenge（また別の困難に直面する）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 are criticized less often（批判されることがより少ない）
+2 face another challenge（また別の困難に直面する）
+3 tend to hire more women（より多くの女性を雇う傾向がある）
+4 judge people more harshly（人をより厳しく評価する）
+【考え方】
+まず見るところ：第2段落の The study's participants were far more critical of the female police chiefs
+空所のある文は次のとおりです。
+When women do get promoted, it seems they ( 30 ).（女性が実際に昇進したときにも、彼女たちは（　）ようだ）
+do get promoted の do は「実際に」と強める働きをしています。第1段落では、固定観念のために男性のほうがリーダーの役割に向いていると受けとめられ、男性の管理職が女性よりはるかに多いことが書かれていました。では、女性が昇進できたあとはどうなのかを、第2段落の研究から読み取ります。
+研究では、警察署長（ふつうは「男性の仕事」）と女子大学の学長（ふつうは「女性の仕事」）が同じ失敗をする場面を評価してもらいました。結果は次のとおりです。
+The study's participants were far more critical of the female police chiefs and male college presidents.（研究の参加者たちは、女性の警察署長と男性の大学学長に対して、はるかに厳しい見方をした）
+critical of ～ は「～に批判的な、～を厳しく見る」という意味です。つまり、「男性の仕事」についた女性は、同じ失敗をしても、男性の警察署長より厳しく見られたのです。さらに This is a more serious problem for women（これは女性にとってより深刻な問題だ）とも書かれています。
+第1段落の「男性のほうがリーダーに向いていると見られる」という困難に加えて、昇進したあとにも「厳しく見られる」という困難がある、ということです。another は「もう一つの、別の」、challenge は「困難、課題」という意味なので、2が正解です。
+この問題の型：具体例とまとめ（研究の結果：女性の警察署長はより厳しく見られた→昇進しても別の困難がある）
+【ほかの選択肢】
+1 「批判されることがより少ない」は、本文と反対です。研究では、「男性の仕事」についた女性の警察署長は、far more critical（はるかに厳しい見方）をされていました。
+3 「より多くの女性を雇う傾向がある」は、本文に書かれていません。第2段落は、昇進した女性がどう評価されるかについての研究の話で、女性が誰を雇うかには触れていません。
+4 「人をより厳しく評価する」は、評価する側と評価される側が逆になっています。研究で厳しく評価したのは参加者たちで、昇進した女性は評価される側です。
+【覚えるポイント】
+・空所のある文が段落の最初にあり、そのあとに研究や実験の話が続くときは、その研究の結果（ここでは far more critical of the female police chiefs）が空所の内容の具体例になっていることが多いので、結果の文を先に確かめると手がかりになります。
+・another（もう一つの）は、前に出た困難などに「さらにもう一つ」加えるときの語です。前の段落に何が書かれていたかも思い出しましょう。

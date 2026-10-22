@@ -1,6 +1,7 @@
 ---
 choices: testament | foundation | bureau | deficiency
 answerText: testament
+reviewed: yes
 ---
 【正解】1 testament（証し、証拠となるもの）
 【和訳】

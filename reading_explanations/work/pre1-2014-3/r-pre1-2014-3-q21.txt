@@ -1,6 +1,7 @@
 ---
 choices: tender | abandoned | majestic | dedicated
 answerText: dedicated
+reviewed: yes
 ---
 【正解】4 dedicated（（～に）力を注いでいる、専念している）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: Shipping routes with currently limited availability could become accessible year-round, reducing traffic elsewhere. | New types of ships are being developed that will be able to travel safely through shipping routes covered by ice. | A general slowdown in international trade is predicted as countries struggle to deal with global climate change. | Ongoing delays in the expansion of the Panama Canal will drive shipping away from the area altogether.
 answerText: Shipping routes with currently limited availability could become accessible year-round, reducing traffic elsewhere.
+reviewed: yes
 ---
 【正解】1 Shipping routes with currently limited availability could become accessible year-round, reducing traffic elsewhere.（今は使える時期が限られている航路が一年中使えるようになり、ほかの場所の交通量が減るかもしれない。）
 【和訳】
@@ -27,7 +28,7 @@ Arctic は「北極の」、continuously は「絶え間なく、ずっと」と
 ですから1が正解です。
 この問題の型：言いかえ（夏だけの北極海の航路→今は使える時期が限られている航路）
 【ほかの選択肢】
-2 本文に書かれていません。北極海の航路が使えるようになる理由として本文にあるのは、北の海の水温が上がることで、氷の中を進める新しい船が開発されているという話はありません。
+2 本文に書かれていません。本文にあるのは、北の海の水温が上がるという専門家の予測です。氷におおわれた航路を進める新しい船が開発されているという話は出てきません。
 3 本文に書かれていません。気候変動は北の海の水温が上がる原因として出てくるだけで、国際貿易が全体的に落ちこむという予測は述べられていません。第2段落では、むしろ海運の量が着実に増えていると書かれています。
 4 本文に書かれていません。本文には、パナマ運河は already undergoing a $5 billion expansion（すでに50億ドルの拡張工事を進めている）とあるだけで、工事が遅れているという話はありません。
 【覚えるポイント】

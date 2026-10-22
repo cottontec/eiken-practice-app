@@ -1,6 +1,7 @@
 ---
 choices: poor safety record | influence on many industries | commercial failure | popularity with the wealthy
 answerText: commercial failure
+reviewed: yes
 ---
 【正解】3 commercial failure（商業的な失敗）
 【和訳】

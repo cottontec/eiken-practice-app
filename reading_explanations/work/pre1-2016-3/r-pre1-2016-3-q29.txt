@@ -1,0 +1,30 @@
+---
+choices: In other words | For instance | Despite this | Moreover
+answerText: Despite this
+---
+【正解】3 Despite this（それにもかかわらず）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 In other words（言いかえると、つまり）
+2 For instance（たとえば）
+3 Despite this（それにもかかわらず）
+4 Moreover（そのうえ、さらに）
+【考え方】
+まず見るところ：第1段落の空所の前の have made great progress と、空所の後ろの male managers still greatly outnumber female ones
+空所の前の文は次のとおりです。
+American women have made great progress toward achieving workplace equality（アメリカの女性は、職場での平等の実現に向けて大きく前進してきた）
+progress は「前進、進歩」、equality は「平等」という意味です。社会の変化や政府の規制によって、女性の状況はよくなってきた、という内容です。
+空所のあとは次のとおりです。
+( 29 ), male managers still greatly outnumber female ones.（（　）、男性の管理職は、今でも女性の管理職よりはるかに多い）
+outnumber は「～より数が多い」、ones は managers（管理職）を指します。still（今でも、まだ）があることに注意します。「大きく前進した」のに「今でもまだ男性の管理職のほうがずっと多い」という、予想とは反対向きの内容です。
+前の内容と反対向きの事実を示すので、「それにもかかわらず」という意味の Despite this が入ります。this は前の文の「女性が大きく前進してきたこと」を指します。ですから3が正解です。
+この問題の型：対比（大きく前進した⇔今でも男性の管理職がはるかに多い）
+【ほかの選択肢】
+1 In other words（言いかえると）は、前の内容を別の言葉で言い直すときに使います。「大きく前進した」と「今でも男性の管理職がはるかに多い」は同じ内容の言いかえではないので、合いません。
+2 For instance（たとえば）は、前の内容の具体例を示すときに使います。男性の管理職がはるかに多いことは、女性が大きく前進したことの例にはならないので、合いません。
+4 Moreover（そのうえ）は、前の内容と同じ向きの内容を付け足すときに使います。前は「よくなった」こと、あとは「まだ差が残っている」ことで向きが反対なので、合いません。
+【覚えるポイント】
+・Despite this：「それにもかかわらず」。this は前に書かれた内容を指します。
+・空所のあとの文に still（今でも、まだ）があるときは、前の内容から予想されることとは反対の事実が続いていることがあり、Despite this のような逆の向きを表すつなぎの言葉を考える手がかりになります。

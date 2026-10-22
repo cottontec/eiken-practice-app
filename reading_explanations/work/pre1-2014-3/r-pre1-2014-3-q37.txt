@@ -1,6 +1,7 @@
 ---
 choices: Although injecting mice with brown fat cells makes them thinner, such a treatment could not be used for people. | Since brown fat is only activated by physical exercise, its potential for helping severely overweight people is limited. | Using BMP7 to increase brown fat levels in people has been effective, but the treatment carries significant risks. | While brown fat could be a significant help to certain people, it would not be an appropriate option for everyone.
 answerText: While brown fat could be a significant help to certain people, it would not be an appropriate option for everyone.
+reviewed: yes
 ---
 【正解】4 While brown fat could be a significant help to certain people, it would not be an appropriate option for everyone.（褐色脂肪はある種の人々には大きな助けになりうるが、すべての人に適した選択肢というわけではないだろう。）
 【和訳】
@@ -20,8 +21,8 @@ obesity は「肥満」、gene は「遺伝子（親から子へ受けつがれ�
 一方、最後の文では however（しかし）で別の人々の話になります。
 For people who have become obese due to overeating and lack of exercise, however, she says that a change in lifestyle, rather than cellular intervention, is the proper course of treatment.（しかし、食べすぎと運動不足のせいで肥満になった人々については、細胞への介入ではなく、生活習慣を変えることが適切な治療法だと彼女は言う）
 本文と選択肢4を対にすると、次のようになります。
-・本文 better ways to treat obesity, especially for people who are overweight because of their genes（特に遺伝子のせいで太りすぎの人々のための、よりよい治療法）＝ 選択肢 could be a significant help to certain people（ある種の人々には大きな助けになりうる）
-・本文 For people who have become obese due to overeating and lack of exercise, ... a change in lifestyle, rather than cellular intervention, is the proper course（食べすぎと運動不足で肥満になった人には、細胞への介入ではなく生活習慣を変えることが適切）＝ 選択肢 it would not be an appropriate option for everyone（すべての人に適した選択肢ではない）
+・本文 better ways to treat obesity, especially for people who are overweight because of their genes（特に遺伝子のせいで太りすぎの人々のための、よりよい治療法）→ 選択肢 could be a significant help to certain people（ある種の人々には大きな助けになりうる）。「特に遺伝子のせいで太った人々」を「ある種の人々」と言いかえています。
+・本文 For people who have become obese due to overeating and lack of exercise, ... a change in lifestyle, rather than cellular intervention, is the proper course（食べすぎと運動不足で肥満になった人には、細胞への介入ではなく生活習慣を変えることが適切）→ 選択肢 it would not be an appropriate option for everyone（すべての人に適した選択肢ではない）。別の治療法が適切な人もいる、という読み取りです。
 よって4が正解です。
 この問題の型：対比（遺伝子のせいで太った人 ⇔ however 食べすぎと運動不足で太った人）
 【ほかの選択肢】

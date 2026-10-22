@@ -1,0 +1,31 @@
+---
+choices: entitled | illustrated | contaminated | suppressed
+answerText: contaminated
+---
+【正解】3 contaminated（汚染された）
+【和訳】
+（英文）
+Thousands of kilograms of beef were taken off store shelves after it was discovered that the meat was ［contaminated］ with dangerous bacteria.
+（訳）
+その肉が危険な細菌に（汚染されて）いることが分かったあと、何千キログラムもの牛肉が店の棚から撤去された。
+（選択肢の意味）
+1 entitled：資格を与えられた、題名をつけられた
+2 illustrated：挿絵の入った、例で説明された
+3 contaminated：汚染された
+4 suppressed：抑えこまれた
+【考え方】
+まず見るところ：空所のあとの with dangerous bacteria と、文の初めの were taken off store shelves
+文の前半は次のとおりです。
+Thousands of kilograms of beef were taken off store shelves（何千キログラムもの牛肉が店の棚から撤去された）
+take ～ off store shelves は「～を店の棚から下ろす（売るのをやめる）」という意味です。
+その理由が after 以下に書かれています。
+after it was discovered that the meat was ( ) with dangerous bacteria（その肉が危険な細菌で（　）されていると分かったあと）
+bacteria は「細菌」です。危険な細菌が肉についていたので、売るのをやめたと考えられます。be contaminated with ～ は「～で汚染されている」という意味なので、3が正解です。
+この問題の型：熟語・決まった形（be contaminated with ～）／因果（細菌に汚染されていた→店から撤去された）
+【ほかの選択肢】
+1 entitled は「資格を与えられた、題名をつけられた」です。「肉が危険な細菌で資格を与えられた」となり、意味が通りません。
+2 illustrated は「挿絵の入った」で、be illustrated with ～ は本などに「～の絵が入っている」ときに使います。肉について言う言い方ではありません。
+4 suppressed は「抑えこまれた」です。「肉が危険な細菌で抑えこまれた」では意味がはっきりせず、牛肉を店から撤去する理由になりません。
+【覚えるポイント】
+・be contaminated with ～：「～で汚染されている」。
+・品物が店から撤去されたという文では、after や because のあとにその理由が書かれていることが多いので、理由として成り立つ語（ここでは「汚染された」）を選ぶと手がかりになります。

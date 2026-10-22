@@ -1,6 +1,7 @@
 ---
 choices: rallies | vaults | incentives | inscriptions
 answerText: incentives
+reviewed: yes
 ---
 【正解】3 incentives（やる気を起こさせるもの、奨励策）
 【和訳】

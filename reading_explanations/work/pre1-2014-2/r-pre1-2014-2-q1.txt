@@ -1,6 +1,7 @@
 ---
 choices: dispose | disable | dismantle | dispute
 answerText: dispose
+reviewed: yes
 ---
 【正解】1 dispose（処分する ※dispose of ～ の形で「～を処分する」）
 【和訳】

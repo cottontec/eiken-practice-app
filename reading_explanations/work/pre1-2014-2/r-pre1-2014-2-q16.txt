@@ -1,6 +1,7 @@
 ---
 choices: testimony | convictions | maturity | implications
 answerText: implications
+reviewed: yes
 ---
 【正解】4 implications（〔起こりうる〕影響）
 【和訳】

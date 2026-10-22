@@ -1,6 +1,7 @@
 ---
 choices: dodged | snatched | choked | sizzled
 answerText: sizzled
+reviewed: yes
 ---
 【正解】4 sizzled（ジュージューと音を立てた）
 【和訳】

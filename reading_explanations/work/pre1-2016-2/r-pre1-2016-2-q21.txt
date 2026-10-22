@@ -1,0 +1,29 @@
+---
+choices: simmer | mimic | delegate | penetrate
+answerText: delegate
+---
+【正解】3 delegate（（仕事・権限を）任せる、ゆだねる）
+【和訳】
+（英文）
+Since Rebecca became a sales-team manager, she has been having trouble finishing all her work on time. Her boss has advised her to ［delegate］ more work to her staff.
+（訳）
+レベッカは営業チームの責任者になってから、自分の仕事を全部期限どおりに終えるのに苦労している。上司は彼女に、もっと多くの仕事を部下に（任せる）よう助言した。
+（選択肢の意味）
+1 simmer：とろ火で煮る
+2 mimic：まねる
+3 delegate：（仕事・権限を）任せる、ゆだねる
+4 penetrate：貫く、入りこむ
+【考え方】
+まず見るところ：前の文の she has been having trouble finishing all her work on time と、空所の後ろの to her staff
+she has been having trouble finishing all her work on time（自分の仕事を全部期限どおりに終えるのに苦労している）
+have trouble -ing は「～するのに苦労する」、on time は「時間どおりに、期限までに」という意味です。レベッカは仕事が多すぎて、終わらせることができずにいます。
+Her boss has advised her to ( ) more work to her staff.（上司は彼女に、もっと多くの仕事を部下に（　）よう助言した）
+仕事が終わらないなら、部下に仕事を分けて任せればよいと考えられます。delegate A to B は「AをBに任せる」という意味なので、3が正解です。
+この問題の型：語の意味・組み合わせ（delegate work to staff）／推論（仕事が終わらない→部下に任せる）
+【ほかの選択肢】
+1 simmer は「とろ火で煮る」で、料理に使う語です。「仕事を部下にとろ火で煮る」となり、意味が通りません。
+2 mimic は「まねる」です。「もっと多くの仕事を部下にまねる」となり、意味が通らず、仕事が終わらない問題の解決にもなりません。
+4 penetrate は「貫く、入りこむ」です。「仕事を部下に貫く」となり、意味が通りません。
+【覚えるポイント】
+・delegate A to B：「AをBに任せる、ゆだねる」。
+・助言（advise）の内容を選ぶ空所では、前の文に書かれた困りごと（ここでは仕事が終わらないこと）を解決する行動になっているかどうかを確かめると手がかりになります。

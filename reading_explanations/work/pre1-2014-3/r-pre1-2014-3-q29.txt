@@ -1,6 +1,7 @@
 ---
 choices: health of ecosystems | sense of danger they feel | presence of similar animals | number of humans near them
 answerText: sense of danger they feel
+reviewed: yes
 ---
 【正解】2 sense of danger they feel（その動物が感じる危険の感覚）
 【和訳】

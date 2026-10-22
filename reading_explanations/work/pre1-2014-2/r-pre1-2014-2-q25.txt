@@ -1,6 +1,7 @@
 ---
 choices: driven out | measured up | stood around | hammered out
 answerText: measured up
+reviewed: yes
 ---
 【正解】2 measured up（〔期待や基準に〕かなった、ふさわしい働きをした）
 【和訳】
