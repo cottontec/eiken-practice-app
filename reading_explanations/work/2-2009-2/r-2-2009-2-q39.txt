@@ -1,0 +1,31 @@
+---
+choices: Whales are having difficulty communicating with humans. | The behavior of certain sea animals has been changing. | Ships are crashing into other ships and damaging them. | Sonar does not work when whales are in the area.
+answerText: The behavior of certain sea animals has been changing.
+---
+【正解】2 The behavior of certain sea animals has been changing.（ある種の海の動物の行動が変わってきている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：科学者たちはなぜ、海の騒音を心配しているのですか。
+1 クジラが、人間と意思を伝え合うのに苦労している。
+2 ある種の海の動物の行動が変わってきている。
+3 船がほかの船にぶつかって、損傷を与えている。
+4 クジラがその海域にいると、ソナーがうまく働かない。
+【考え方】
+設問の concerned about（～を心配している）と同じような意味の語を本文で探すと、第3段落の初めに Scientists fear that all this noise is having a negative influence on sea life.（科学者たちは、こうした騒音のすべてが海の生き物に悪い影響を与えているのではないかと心配している）とあります。fear は「（よくないことが起こるのではと）心配する、恐れる」という意味です。
+この段落では、そう考える理由として2つの「しるし」が挙げられています。
+・One sign of the problem is that whales and other creatures are increasingly crashing into ships（問題のしるしの1つは、クジラやほかの生き物が船にぶつかることが増えていることだ）
+・Another sign is that some whales are leaving areas that they have used for thousands of years as places to feed and bring up their families.（もう1つのしるしは、一部のクジラが、何千年もの間えさを食べたり子どもを育てたりする場所として使ってきた海域を離れつつあることだ）
+船にぶつかることが増えたことも、昔から使ってきた場所を離れるようになったことも、海の動物のふるまいがこれまでと変わったことを表しています。
+本文と選択肢は次のように対応しています。
+本文 whales and other creatures（クジラやほかの生き物）、some whales（一部のクジラ）＝ 選択肢 certain sea animals（ある種の海の動物）
+本文 are increasingly crashing into ships（船にぶつかることが増えている）、are leaving areas（海域を離れつつある）＝ 選択肢 The behavior ～ has been changing（行動が変わってきている）
+正解は2です。
+【ほかの選択肢】
+1 本文では、魚や海のほ乳類は use sounds to find their way around（音を使って進む方向を知る）と書かれています。クジラが人間と意思を伝え合うという話はありません。
+3 本文で船にぶつかっているのは whales and other creatures（クジラやほかの生き物）です。船どうしがぶつかっているという話ではないので、ぶつかっているものが違います。
+4 クジラがいるとソナーが働かなくなるという話は本文にありません。本文で問題になっているのは、ソナーなどの音がクジラに悪い影響を与えることです。
+【覚えるポイント】
+・fear that ～：「～ではないかと心配する、恐れる」。
+・have a negative influence on ～：「～に悪い影響を与える」。

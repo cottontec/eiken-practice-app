@@ -1,0 +1,28 @@
+---
+choices: Oil companies are looking for dynamite that makes less noise. | Sonar is the only sound made by humans that whales can hear. | The ocean near California is 10 times noisier than other areas. | Ships are responsible for most of the noise in the oceans.
+answerText: Ships are responsible for most of the noise in the oceans.
+---
+【正解】4 Ships are responsible for most of the noise in the oceans.（海の騒音の大部分は、船が原因になっている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：2003年の調査で分かったことの1つは何ですか。
+1 石油会社は、音の小さいダイナマイトを探している。
+2 ソナーは、人間が出す音の中で、クジラが聞くことのできる唯一の音である。
+3 カリフォルニア近くの海は、ほかの地域より10倍騒がしい。
+4 海の騒音の大部分は、船が原因になっている。
+【考え方】
+設問の the 2003 survey（2003年の調査）を本文で探すと、第2段落に A survey carried out in 2003 in the ocean near California（2003年にカリフォルニア近くの海で行われた調査）とあります。この段落には、その調査で分かったことが書かれています。
+段落の4文目に The majority of the noise, though, is caused by the increasing number of ships that carry goods and people around the world.（しかし、騒音の大部分は、世界中に物や人を運ぶ船の数が増えていることによって引き起こされている）とあります。the majority of ～ は「～の大部分」という意味です。
+本文と選択肢は次のように対応しています。
+本文 The majority of the noise（騒音の大部分）＝ 選択肢 most of the noise（騒音の大部分）
+本文 is caused by the increasing number of ships（増えている船によって引き起こされている）＝ 選択肢 Ships are responsible for（船が原因になっている）
+be responsible for ～ はここでは「～の原因である」という意味です。正解は4です。
+【ほかの選択肢】
+1 本文には、石油会社が use dynamite to look for sources of oil（石油のありかを探すためにダイナマイトを使う）とあります。探しているのは石油で、音の小さいダイナマイトを探しているわけではありません。
+2 本文の第2段落の初めには sonar is not the only sound that is causing trouble in the oceans（海で問題を引き起こしている音はソナーだけではない）とあります。また、クジラが聞くことのできる音について調べたという話もありません。
+3 本文では the noise level underwater was 10 times higher than it had been in the 1960s（水中の騒音の大きさが1960年代の10倍だった）とあります。10倍というのは昔（1960年代）と比べた数字で、ほかの地域と比べたものではありません。比べている相手が違います。
+【覚えるポイント】
+・the majority of ～：「～の大部分」。most of ～ とほぼ同じ意味です。
+・be responsible for ～：「～の原因である、～に責任がある」。

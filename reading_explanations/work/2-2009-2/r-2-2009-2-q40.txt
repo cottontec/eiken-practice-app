@@ -1,0 +1,29 @@
+---
+choices: for humans to make noises that are less stressful to animals. | for people to avoid the areas whales normally use for feeding. | for conservation groups to help animals find their way. | for ships to use sonar in order to avoid hitting whales.
+answerText: for humans to make noises that are less stressful to animals.
+---
+【正解】1 for humans to make noises that are less stressful to animals.（人間が、動物にとってストレスの少ない音を出すこと。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：マイケル・ストッカーによると、解決策の1つは、～ことかもしれない。
+1 人間が、動物にとってストレスの少ない音を出す
+2 人々が、クジラがふだんえさを食べるのに使う海域を避ける
+3 自然保護団体が、動物が進む方向を見つける手助けをする
+4 船が、クジラにぶつからないようにソナーを使う
+【考え方】
+設問の Michael Stocker の名前を本文で探すと、第4段落に出てきます。
+まず according to Michael Stocker ～, the sounds created by human activity are much more stressful than those made by nature.（マイケル・ストッカーによると、人間の活動によって生み出される音は、自然が出す音よりもはるかに大きなストレスになる）とあります。stressful は「ストレスになる、負担の大きい」という意味です。
+続いて He says that one way to solve the problem would be to change the sounds into ones less harmful to animals.（問題を解決する方法の1つは、その音を、動物にとってより害の少ない音に変えることだろう、と彼は言う）とあります。ones は sounds（音）の代わりに使われています。
+本文と選択肢は次のように対応しています。
+本文 one way to solve the problem（問題を解決する方法の1つ）＝ 設問 one solution（解決策の1つ）
+本文 change the sounds into ones less harmful to animals（音を、動物にとってより害の少ない音に変える）＝ 選択肢 make noises that are less stressful to animals（動物にとってストレスの少ない音を出す）
+直前の文で、人間の音は動物に大きなストレスを与えると書かれています。ですから、「害の少ない音」は「ストレスの少ない音」と言いかえることができます。正解は1です。
+【ほかの選択肢】
+2 本文の第3段落には、一部のクジラがえさを食べる場所を離れつつあると書かれています。これは騒音の影響として述べられたもので、人々がその海域を避けるべきだとストッカーが言っているわけではありません。
+3 本文には、魚や海のほ乳類が音を使って進む方向を知るとありますが、保護団体が動物の道案内をするという解決策は書かれていません。
+4 本文では、ソナーはクジラに害を与える音として書かれています。船がクジラにぶつからないようにソナーを使うという解決策は、本文にありません。
+【覚えるポイント】
+・change A into B：「AをBに変える」。
+・less harmful to ～：「～にとってより害が少ない」。

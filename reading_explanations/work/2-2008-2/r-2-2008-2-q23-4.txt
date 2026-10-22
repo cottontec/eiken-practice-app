@@ -14,6 +14,7 @@ The teacher told the students that their history reports should be ( not less th
 次に、空所のあとの long に注目します。数量 ＋ long で「（数量）の長さ」となります。ですから、long の直前には 3 3,000 と 1 words を並べた 3,000 words（3,000語）が来ます。
 残りは 2 not・5 less・4 than です。less than ～ は「～より少ない」ですが、その前に not を置いた not less than ～ は「～より少なくない」、つまり「少なくとも～」という意味になります。これが「短いレポートは低い成績になる」という次の文と合います。
 したがって not less than 3,000 words long（少なくとも3,000語の長さ）が完成します。
+この問題で問われている4番目は 3 3,000 です。than のあとに比べる数の 3,000 を置き、そのあとに単位の words を続けるので、3,000 が4番目になります。
 まちがえやすいのは less than not のように not を後ろに置く並べ方や、not を外して less than 3,000 words とする考え方です。less than 3,000 words だけでは「3,000語より少ない」となり、次の文と反対の意味になってしまいます。
 【覚えるポイント】
 ・not less than ～：「～より少なくない、少なくとも～」。at least ～ と同じような意味です。

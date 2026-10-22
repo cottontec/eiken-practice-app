@@ -1,0 +1,28 @@
+---
+choices: A photo gallery would help the center find new owners for its animals. | Pictures of people who have given money could be shown on it. | People should be able to buy animals on it with their credit cards. | It should contain less information than is on the current website.
+answerText: A photo gallery would help the center find new owners for its animals.
+---
+【正解】1 A photo gallery would help the center find new owners for its animals.（写真ギャラリーは、センターが動物たちの新しい飼い主を見つける助けになるだろう。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ダンカン・ハートが新しいウェブサイトについてしている提案の1つは何ですか。
+1 写真ギャラリーは、センターが動物たちの新しい飼い主を見つける助けになるだろう。
+2 お金を寄付した人々の写真をサイトにのせることができる。
+3 人々がクレジットカードでサイト上から動物を買えるようにするべきだ。
+4 現在のウェブサイトよりも少ない情報をのせるべきだ。
+【考え方】
+設問の suggestion（提案）に注目して、ハートが何かを勧めている部分を探します。メールの第2段落に May I also recommend that we add a photo gallery of the animals at your center?（貴団体のセンターにいる動物たちの写真ギャラリーを加えることを提案してもよいでしょうか）とあります。recommend は「～を勧める」という意味です。
+その理由として、次の文に By showing photographs of each animal, you should be able to find new owners for them more easily.（それぞれの動物の写真を見せることで、動物たちの新しい飼い主をもっと簡単に見つけられるはずだ）と書かれています。owner はここでは「飼い主」です。
+本文と選択肢は次のように対応しています。
+本文 add a photo gallery of the animals（動物たちの写真ギャラリーを加える）＝ 選択肢 A photo gallery（写真ギャラリー）
+本文 you should be able to find new owners for them more easily（新しい飼い主をもっと簡単に見つけられるはずだ）＝ 選択肢 would help the center find new owners for its animals（センターが動物たちの新しい飼い主を見つける助けになるだろう）
+正解は1です。
+【ほかの選択肢】
+2 本文では、人々がクレジットカードでお金を寄付できるページを加えることはできる、と書かれています。しかし、寄付した人々の写真をのせるという話はないので、誤りです。写真をのせるのは動物たちです。
+3 クレジットカードの話は出てきますが、それはお金を寄付するためのページです。動物を買うためのものではないので、誤りです。
+4 本文では、今のサイトにある基本的な情報を transfer this information onto it（その情報を新しいサイトに移す）と言っています。さらに写真ギャラリーなどを加えることも提案しているので、情報を少なくするという話とは反対です。
+【覚えるポイント】
+・May I recommend that ～?：「～することをお勧めしてもよろしいでしょうか」。ていねいに提案するときの言い方です。
+・by ～ing：「～することによって」。

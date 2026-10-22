@@ -1,0 +1,28 @@
+---
+choices: charges a little more than most other web-design companies. | received an e-mail from somebody who had a pet that needed help. | will offer its services to Ms. Turner's charity at a reduced price. | has given 25 percent of its profits to Parkfield Animal Rescue.
+answerText: will offer its services to Ms. Turner's charity at a reduced price.
+---
+【正解】3 will offer its services to Ms. Turner's charity at a reduced price.（ターナーさんの慈善団体に、値下げした価格でサービスを提供するつもりだ。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ダンカン・ハートは、自分の会社は…と言っている。
+1 ほかのたいていのウェブデザイン会社よりも少し高い料金をとる。
+2 助けが必要なペットを飼っている人からEメールを受け取った。
+3 ターナーさんの慈善団体に、値下げした価格でサービスを提供するつもりだ。
+4 利益の25パーセントをパークフィールド・アニマル・レスキューに寄付した。
+【考え方】
+設問は、ダンカン・ハートが自分の会社について何と言っているかをたずねています。メールの第1段落に会社の話が書かれているので、そこを読みます。
+第1段落では、まず My company would be happy to create a new website for Parkfield Animal Rescue.（わが社はパークフィールド・アニマル・レスキューのために新しいウェブサイトを喜んで作る）と言っています。続けて、we must charge for our services（サービスに対して料金をいただかなければならない）としながらも、However, after reading about the great work your charity does ～, my colleagues and I have decided to give you a 25-percent discount off our normal fee.（しかし、貴団体のすばらしい活動について読み、同僚と私は、通常の料金から25パーセント割り引くことに決めた）と書いています。charity は「慈善団体（困っている人や動物を助ける活動をする団体）」、discount は「割引」です。
+本文と選択肢は次のように対応しています。
+本文 create a new website for Parkfield Animal Rescue（パークフィールド・アニマル・レスキューのために新しいウェブサイトを作る）＝ 選択肢 offer its services to Ms. Turner's charity（ターナーさんの慈善団体にサービスを提供する）
+本文 give you a 25-percent discount off our normal fee（通常の料金から25パーセント割り引く）＝ 選択肢 at a reduced price（値下げした価格で）
+ターナーさんはパークフィールド・アニマル・レスキューの人です（メールの宛先が parkfieldanimalrescue.org で、本文でも your charity と呼んでいます）。正解は3です。
+【ほかの選択肢】
+1 本文には「料金をいただかなければならない」とはありますが、ほかの会社より高いという比較はどこにもありません。それどころか割引をすると言っているので、誤りです。
+2 ハートが受け取ったのはターナーさんからのEメールです。ターナーさんは動物を助ける団体の人で、メールには「助けが必要なペットを飼っている人」からのメールという話はないので、誤りです。
+4 25パーセントという数字は本文に出てきますが、それは通常の料金からの割引の割合です。利益の25パーセントを寄付したという話ではないので、誤りです。
+【覚えるポイント】
+・give ＋ 人 ＋ a discount：「人に割引をする」。a 25-percent discount off ～ で「～から25パーセント引き」。
+・charge for ～：「～の料金をとる」。

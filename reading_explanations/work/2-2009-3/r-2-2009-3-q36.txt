@@ -1,0 +1,29 @@
+---
+choices: Whether she has met any of his other clients. | If she received the list of websites he sent her. | What colors she would like to use in the website. | When she can meet him to discuss the new website.
+answerText: When she can meet him to discuss the new website.
+---
+【正解】4 When she can meet him to discuss the new website.（新しいウェブサイトについて話し合うために、いつ彼と会えるか。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ダンカン・ハートは、ターナーさんに次のEメールで何を知らせるよう頼んでいますか。
+1 彼のほかのお客さんのだれかに会ったことがあるかどうか。
+2 彼が送ったウェブサイトの一覧を受け取ったかどうか。
+3 ウェブサイトにどんな色を使いたいか。
+4 新しいウェブサイトについて話し合うために、いつ彼と会えるか。
+【考え方】
+設問の in her next e-mail（彼女の次のEメールで）に注目し、ハートがターナーさんに「メールで知らせてほしい」と頼んでいる部分を探します。
+メールの第3段落に I would like to arrange a meeting with you sometime this month.（今月中のどこかで、あなたとお会いする予定を組みたい）とあり、続けて Could you e-mail me to let me know what date would be convenient for you?（どの日がご都合がよいか、Eメールで知らせていただけますか）と書かれています。convenient は「都合がよい」という意味です。さらに At the meeting, we can talk about the design of the website（打ち合わせでは、ウェブサイトのデザインについて話し合える）とあるので、会う目的がウェブサイトについて話し合うことだと分かります。
+本文と選択肢は次のように対応しています。
+本文 Could you e-mail me to let me know ～?（Eメールで～を知らせていただけますか）＝ 設問 ask Ms. Turner to tell him in her next e-mail（次のEメールで知らせるよう頼む）
+本文 what date would be convenient for you（どの日が都合がよいか）＝ 選択肢 When she can meet him（いつ彼と会えるか）
+本文 At the meeting, we can talk about the design of the website（打ち合わせでウェブサイトのデザインについて話し合える）＝ 選択肢 to discuss the new website（新しいウェブサイトについて話し合うために）
+正解は4です。
+【ほかの選択肢】
+1 本文には、ほかのお客さんのために作ったウェブサイトの一覧を添付した、とあります。しかし、ターナーさんがそのお客さんに会ったことがあるかどうかをたずねてはいないので、誤りです。
+2 一覧を添付したことは書かれていますが、それを受け取ったかどうかを知らせてほしいとは頼んでいません。一覧は、デザインの参考にしてもらうために送ったものです。
+3 使いたい色については、At the meeting（打ち合わせで）話し合える、と書かれています。次のEメールで知らせてほしいと頼んでいるのは色ではなく、都合のよい日です。
+【覚えるポイント】
+・let ＋ 人 ＋ know ～：「人に～を知らせる」。
+・arrange a meeting：「打ち合わせ（会う予定）を組む」。
