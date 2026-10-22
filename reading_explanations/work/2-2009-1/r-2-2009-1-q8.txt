@@ -1,6 +1,7 @@
 ---
 choices: whisper | criticize | observe | justify
 answerText: justify
+reviewed: yes
 ---
 【正解】4 justify（正当化する、～の言い訳になる）
 【和訳】

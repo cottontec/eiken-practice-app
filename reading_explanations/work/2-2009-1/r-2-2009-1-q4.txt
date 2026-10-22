@@ -1,6 +1,7 @@
 ---
 choices: instant | latter | noticeable | dramatic
 answerText: latter
+reviewed: yes
 ---
 【正解】2 latter（後のほうの、後半の）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: thought of the same theory of evolution as Darwin. | helped Darwin to test some of his ideas about nature. | became more famous than Darwin in the 19th century. | introduced Darwin's discovery to people around the world.
 answerText: thought of the same theory of evolution as Darwin.
+reviewed: yes
 ---
 【正解】1 thought of the same theory of evolution as Darwin.（ダーウィンと同じ進化論を思いついた。）
 【和訳】

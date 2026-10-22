@@ -1,6 +1,7 @@
 ---
 choices: rotated | breathed | peaked | swallowed
 answerText: peaked
+reviewed: yes
 ---
 【正解】3 peaked（頂点に達した、最高になった）
 【和訳】

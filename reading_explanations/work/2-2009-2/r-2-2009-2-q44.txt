@@ -1,0 +1,29 @@
+---
+choices: the goal of the project is to help people imagine what happened at Gettysburg. | visitors have a responsibility to help restore the site to its original condition. | many of the natural features of Gettysburg were destroyed during the battle. | the reason for cutting down the "witness trees" is to allow people to see more clearly.
+answerText: the goal of the project is to help people imagine what happened at Gettysburg.
+---
+【正解】1 the goal of the project is to help people imagine what happened at Gettysburg.（事業の目的は、ゲティスバーグで起こったことを人々が想像できるようにすることだ。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ドン・バーガーによると、
+1 事業の目的は、ゲティスバーグで起こったことを人々が想像できるようにすることだ。
+2 訪れる人々には、その場所を元の状態に戻すのを手伝う責任がある。
+3 ゲティスバーグの自然の地形の多くが、戦いの間に壊された。
+4 「目撃者の木」を切り倒す理由は、人々がもっとはっきり見えるようにするためだ。
+【考え方】
+ドン・バーガーの考えは、第4段落に書かれています。
+He is not aiming to return every part of the site to exactly the condition it was in, but rather to restore the natural features that affected the battle.（彼は、その場所のあらゆる部分を当時とまったく同じ状態に戻そうとしているのではなく、戦いに影響を与えた自然の地形を元に戻そうとしている）とあります。aim to ～ は「～しようとねらう、～を目指す」という意味です。
+そして最後の文に He believes that this will allow visitors to the site to understand far more clearly what happened all those years ago, and so to be able to imagine the experience of the soldiers at the time.（そうすることで、訪れる人々が、はるか昔に起こったことをずっとはっきり理解でき、ひいては当時の兵士たちの体験を想像できるようになる、と彼は信じている）とあります。
+つまり、バーガーは、訪れる人が昔のできごとを理解し、想像できるようにするために事業を進めているのです。
+本文と選択肢は次のように対応しています。
+本文 allow visitors to the site to understand ～ what happened all those years ago, and so to be able to imagine the experience of the soldiers（訪れる人々が、昔起こったことを理解し、兵士たちの体験を想像できるようにする）＝ 選択肢 help people imagine what happened at Gettysburg（ゲティスバーグで起こったことを人々が想像できるようにする）
+正解は1です。
+【ほかの選択肢】
+2 本文で responsibility（責任）があるとされているのは、バーガー自身です。he has a responsibility to preserve history as well as nature（彼には自然だけでなく歴史も守る責任がある）とあり、訪れる人々の責任の話ではないので、人物が違います。
+3 本文にあるのは、戦いに影響を与えた自然の地形を元に戻すということです。戦いの間に自然の地形の多くが壊されたという話は本文にありません。
+4 本文では「目撃者の木」は will be left standing（切られずに残される）とあり、切り倒すものではありません。また、本文の understand far more clearly は「ずっとはっきり理解する」という意味で、目でよく見えるようにするという話ではありません。
+【覚えるポイント】
+・not A but rather B：「AではなくむしろB」。
+・allow 人 to ～：「人が～できるようにする」。

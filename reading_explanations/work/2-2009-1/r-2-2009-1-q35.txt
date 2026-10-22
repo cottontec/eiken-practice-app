@@ -1,6 +1,7 @@
 ---
 choices: People who share a room could stay for free. | Some of the people would have to sleep in twin rooms. | Eight people would have to go to another hotel. | She would offer a discount if more people were staying.
 answerText: Some of the people would have to sleep in twin rooms.
+reviewed: yes
 ---
 【正解】2 Some of the people would have to sleep in twin rooms.（何人かの人はツインルームで寝なければならないだろう。）
 【和訳】

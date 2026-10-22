@@ -1,6 +1,7 @@
 ---
 choices: though | unless | while | whether
 answerText: whether
+reviewed: yes
 ---
 【正解】4 whether（～かどうか。whether A or B で「AかBか」）
 【和訳】

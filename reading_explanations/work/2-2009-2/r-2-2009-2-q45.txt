@@ -1,0 +1,28 @@
+---
+choices: The National Park Service recently sold the Gettysburg site. | Park officials used old maps to decide what objects to remove. | There will be no trees left in the park after the project is finished. | Taking care of nature is not part of Don Barger's job.
+answerText: Park officials used old maps to decide what objects to remove.
+---
+【正解】2 Park officials used old maps to decide what objects to remove.（公園の職員は、どの物を取り除くかを決めるために古い地図を使った。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：次のうち、正しいものはどれですか。
+1 国立公園局は最近、ゲティスバーグの跡地を売った。
+2 公園の職員は、どの物を取り除くかを決めるために古い地図を使った。
+3 事業が終わったら、公園には木が1本も残らない。
+4 自然を大切にすることは、ドン・バーガーの仕事の一部ではない。
+【考え方】
+選択肢を1つずつ本文と照らし合わせます。2の内容は第2段落に書かれています。
+By studying maps and photographs of the time, they analyzed what features of the site influenced the battle. Then they decided what objects should be removed to help tourists understand how the battle was actually fought.（彼らは当時の地図や写真を調べることで、その場所のどのような特徴が戦いに影響を与えたのかを分析した。それから、観光客が理解しやすくなるように、どの物を取り除くべきかを決めた）とあります。they は park officials（公園の職員たち）を指します。
+本文と選択肢は次のように対応しています。
+本文 maps ～ of the time（当時の地図）＝ 選択肢 old maps（古い地図）
+本文 studying maps ～, they analyzed ～. Then they decided what objects should be removed（地図を調べて分析し、それからどの物を取り除くべきかを決めた）＝ 選択肢 used old maps to decide what objects to remove（どの物を取り除くかを決めるために古い地図を使った）
+地図を調べて分析した結果をもとに、取り除く物を決めたという順番になっています。正解は2です。
+【ほかの選択肢】
+1 国立公園局が跡地を売ったという話は本文にありません。本文には、跡地は今も国立軍事公園として毎年多くの人が訪れていると書かれています。
+3 本文には、戦いの当時に生えていた「目撃者の木」は will be left standing（切られずに残される）とあります。木が1本も残らないわけではないので、言い切りすぎです。
+4 本文には he has a responsibility to preserve history as well as nature（彼には自然だけでなく歴史も守る責任がある）とあります。自然を守ることも彼の責任にふくまれているので、本文と反対です。
+【覚えるポイント】
+・A as well as B：「BだけでなくAも」。history as well as nature で「自然だけでなく歴史も」。
+・preserve：「～を守る、～を保存する」。

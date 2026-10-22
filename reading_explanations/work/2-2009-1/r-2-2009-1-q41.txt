@@ -1,6 +1,7 @@
 ---
 choices: was surprised to find an area with no wind. | took part in a race through the horse latitudes. | crashed into some garbage during an ocean race in Hawaii. | found an area of the Pacific Ocean with a lot of plastic in it.
 answerText: found an area of the Pacific Ocean with a lot of plastic in it.
+reviewed: yes
 ---
 【正解】4 found an area of the Pacific Ocean with a lot of plastic in it.（プラスチックがたくさんある太平洋の海域を見つけた。）
 【和訳】

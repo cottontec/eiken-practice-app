@@ -1,6 +1,7 @@
 ---
 choices: instrument | protest | character | source
 answerText: source
+reviewed: yes
 ---
 【正解】4 source（源、もと、供給源）
 【和訳】

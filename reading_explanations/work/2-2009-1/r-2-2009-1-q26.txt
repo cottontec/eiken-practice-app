@@ -1,6 +1,7 @@
 ---
 choices: Nevertheless | Accordingly | Furthermore | Similarly
 answerText: Nevertheless
+reviewed: yes
 ---
 【正解】1 Nevertheless（それにもかかわらず）
 【和訳】

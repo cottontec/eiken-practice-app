@@ -1,6 +1,7 @@
 ---
 choices: admit | tempt | recall | display
 answerText: recall
+reviewed: yes
 ---
 【正解】3 recall（思い出す）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: increases | pauses | guidelines | techniques
 answerText: increases
+reviewed: yes
 ---
 【正解】1 increases（増加）
 【和訳】

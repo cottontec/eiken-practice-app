@@ -1,6 +1,7 @@
 ---
 choices: controlled | finished | organized | needed
 answerText: needed
+reviewed: yes
 ---
 【正解】4 needed（必要とされる）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: connect | suggest | prevent | repeat
 answerText: prevent
+reviewed: yes
 ---
 【正解】3 prevent（防ぐ）
 【和訳】

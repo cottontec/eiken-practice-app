@@ -1,6 +1,7 @@
 ---
 choices: borrow | cancel | trust | defend
 answerText: cancel
+reviewed: yes
 ---
 【正解】2 cancel（取りやめる、中止する）
 【和訳】

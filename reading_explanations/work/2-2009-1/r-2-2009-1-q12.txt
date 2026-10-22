@@ -1,6 +1,7 @@
 ---
 choices: put away | work out | fold up | break up
 answerText: work out
+reviewed: yes
 ---
 【正解】2 work out（〔答えを〕考え出す、解く）
 【和訳】

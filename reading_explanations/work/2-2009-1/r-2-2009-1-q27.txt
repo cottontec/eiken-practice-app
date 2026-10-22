@@ -1,6 +1,7 @@
 ---
 choices: fluent | convenient | disappointing | complicated
 answerText: convenient
+reviewed: yes
 ---
 【正解】2 convenient（便利な、都合のよい）
 【和訳】

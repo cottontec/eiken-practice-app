@@ -1,6 +1,7 @@
 ---
 choices: describe | promote | return | entertain
 answerText: return
+reviewed: yes
 ---
 【正解】3 return（返す）
 【和訳】

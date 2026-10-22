@@ -2,6 +2,7 @@
 choices: her | with | to | cope | housework by
 answerText: her
 order: 3 4 2 1 5
+reviewed: yes
 ---
 【正解】1 her（この問題の4番目）
 【完成文】

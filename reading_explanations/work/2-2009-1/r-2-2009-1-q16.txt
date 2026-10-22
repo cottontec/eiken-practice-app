@@ -1,6 +1,7 @@
 ---
 choices: everything | nothing | something | anything
 answerText: nothing
+reviewed: yes
 ---
 【正解】2 nothing（nothing less than ～ で「まさに～そのもの」）
 【和訳】
@@ -12,7 +13,7 @@ Aのパムは I can't believe I just won the race!（たった今レースに勝
 nothing less than ～ は、直訳すると「～より少ないものは何もない」となり、そこから「まさに～そのもの、～にほかならない」という意味の決まった言い方になります。It's nothing less than a miracle. で「まさに奇跡だ」となり、勝ったことが信じられないという気持ちとぴったり合います。2が正解です。
 【ほかの選択肢】
 1 everything は「すべてのもの」です。everything less than ～ という言い方はなく、意味が通りません。
-3 something は「何か」です。something less than ～ は「～には少し及ばないもの」という意味になり、「信じられない、すごい」という喜びの気持ちと合いません。
+3 something は「何か」です。It's something less than a miracle. とすると「奇跡には及ばない何か（奇跡とまでは言えないもの）」という意味になってしまい、「勝ったなんて信じられない」という大きな喜びの気持ちと合いません。
 4 anything は肯定文では「何でも」という意味になります。It's anything less than a miracle. という決まった言い方はなく、「まさに奇跡だ」という気持ちを表すことができません。
 【覚えるポイント】
 ・nothing less than ～：「まさに～そのもの、～にほかならない」。強く言い切るときの言い方です。

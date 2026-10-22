@@ -1,6 +1,7 @@
 ---
 choices: Scientists have started using airplanes to find garbage. | Seabirds have started to leave more plastic in the environment. | More garbage that cannot break down easily has gone into the ocean. | The growth in the number of ships has led to more pollution.
 answerText: More garbage that cannot break down easily has gone into the ocean.
+reviewed: yes
 ---
 【正解】3 More garbage that cannot break down easily has gone into the ocean.（簡単には分解されないごみが、より多く海に入るようになった。）
 【和訳】

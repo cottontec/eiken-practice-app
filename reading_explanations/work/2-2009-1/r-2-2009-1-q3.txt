@@ -1,6 +1,7 @@
 ---
 choices: relatives | owners | candidates | specialists
 answerText: relatives
+reviewed: yes
 ---
 【正解】1 relatives（親せき、親類）
 【和訳】

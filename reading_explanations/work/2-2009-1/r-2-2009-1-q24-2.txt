@@ -2,6 +2,7 @@
 choices: better than | come home | know | you | to
 answerText: know
 order: 4 3 1 5 2
+reviewed: yes
 ---
 【正解】3 know（この問題の2番目）
 【完成文】

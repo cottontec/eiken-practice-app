@@ -1,6 +1,7 @@
 ---
 choices: instead | moreover | somehow | either
 answerText: somehow
+reviewed: yes
 ---
 【正解】3 somehow（なんとかして、どうにかして）
 【和訳】

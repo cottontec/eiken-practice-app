@@ -2,6 +2,7 @@
 choices: look | to | on | down | seems
 answerText: down
 order: 5 2 1 4 3
+reviewed: yes
 ---
 【正解】4 down（この問題の4番目）
 【完成文】

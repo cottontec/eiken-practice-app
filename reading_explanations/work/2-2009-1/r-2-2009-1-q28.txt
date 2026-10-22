@@ -1,6 +1,7 @@
 ---
 choices: doubts | costs | trends | advantages
 answerText: advantages
+reviewed: yes
 ---
 【正解】4 advantages（利点、有利な点）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: flow around a central area that moves very little. | carry garbage from North America to the eastern coasts of Asia. | move more slowly as they reach the areas near the coasts. | keep garbage from being carried out into the ocean.
 answerText: flow around a central area that moves very little.
+reviewed: yes
 ---
 【正解】1 flow around a central area that moves very little.（ほとんど動かない中心の海域のまわりを流れている。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: give up | find out | carry out | make up
 answerText: make up
+reviewed: yes
 ---
 【正解】4 make up（make up one's mind で「決心する」）
 【和訳】

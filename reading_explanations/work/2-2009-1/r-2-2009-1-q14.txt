@@ -1,6 +1,7 @@
 ---
 choices: brought about | consisted of | recovered from | wore out
 answerText: brought about
+reviewed: yes
 ---
 【正解】1 brought about（引き起こした）
 【和訳】

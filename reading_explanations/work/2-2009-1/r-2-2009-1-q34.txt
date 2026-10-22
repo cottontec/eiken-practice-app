@@ -1,6 +1,7 @@
 ---
 choices: He is planning to buy a projector and a screen. | He has to make a change to his reservation. | He would like to hold a seminar at her hotel. | He wants someone to make a presentation.
 answerText: He would like to hold a seminar at her hotel.
+reviewed: yes
 ---
 【正解】3 He would like to hold a seminar at her hotel.（彼は彼女のホテルでセミナーを開きたいと思っている。）
 【和訳】

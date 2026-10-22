@@ -2,13 +2,14 @@
 choices: a | more | with | time | little
 answerText: a
 order: 3 1 5 2 4
+reviewed: yes
 ---
 【正解】1 a（この問題の2番目）
 【完成文】
 Yeah. ( With a little more time ), I could have done a better job on it.
 並べ方：3 with → 1 a → 5 little → 2 more → 4 time（2番目は1、4番目は2）
 【和訳】
-A：バーンズ先生がエッセイ（作文）を仕上げるのに、もう何日か多くくれたらよかったのにな。
+A：バーンズ先生が、エッセイ（作文）を仕上げるのにあと数日多くくれていたらよかったのにな。
 B：うん。もう少し時間があれば、もっとよく書けたのにね。
 【考え方】
 空所のあとは I could have done a better job on it（私はそれをもっとうまくやれただろうに）です。could have ＋ 過去分詞 は「（実際にはしなかったが）～できただろうに」という意味で、実際とはちがうことを想像して言う形です。Aも I wish Mr. Burns had given us a few more days（先生がもう何日かくれていたらよかったのに）と、実際とはちがう願いを言っています。

@@ -1,6 +1,7 @@
 ---
 choices: clean | cleaned | cleaning | to be cleaned
 answerText: cleaning
+reviewed: yes
 ---
 【正解】3 cleaning（finish ～ing で「～し終える」）
 【和訳】

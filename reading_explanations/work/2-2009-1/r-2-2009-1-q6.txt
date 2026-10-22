@@ -1,6 +1,7 @@
 ---
 choices: hardship | scenery | inspiration | classification
 answerText: hardship
+reviewed: yes
 ---
 【正解】1 hardship（苦難、生活の苦しさ）
 【和訳】

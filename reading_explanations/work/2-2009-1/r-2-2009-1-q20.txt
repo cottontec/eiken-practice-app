@@ -1,6 +1,7 @@
 ---
 choices: of | by | on | at
 answerText: of
+reviewed: yes
 ---
 【正解】1 of（an audience of ～ で「～人の観客」）
 【和訳】

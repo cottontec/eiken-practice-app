@@ -1,6 +1,7 @@
 ---
 choices: wanted to study nature in South America. | was offered a job working for Darwin. | could not afford to stay there any longer. | did not believe Darwin's theory of evolution.
 answerText: could not afford to stay there any longer.
+reviewed: yes
 ---
 【正解】3 could not afford to stay there any longer.（それ以上そこにとどまる〔お金の〕余裕がなかった。）
 【和訳】

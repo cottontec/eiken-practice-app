@@ -1,6 +1,7 @@
 ---
 choices: Taking the plastic out of the ocean would be hard. | The ocean is becoming too dangerous to travel on. | Governments should reduce the production of plastic. | The solution is to find a material to use instead of plastic.
 answerText: Taking the plastic out of the ocean would be hard.
+reviewed: yes
 ---
 【正解】1 Taking the plastic out of the ocean would be hard.（海からプラスチックを取り出すのは難しいだろう。）
 【和訳】

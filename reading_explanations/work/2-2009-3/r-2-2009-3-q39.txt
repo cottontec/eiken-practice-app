@@ -1,0 +1,29 @@
+---
+choices: It makes it easier to tell whether movements are actually caused by earthquakes. | Not all of the computers in the network are able to record sudden movements. | Software can be sent over the network to prevent damage to the computers. | Different types of accelerometers react to different types of earthquakes.
+answerText: It makes it easier to tell whether movements are actually caused by earthquakes.
+---
+【正解】1 It makes it easier to tell whether movements are actually caused by earthquakes.（動きが本当に地震によって起きたものかどうかを見分けやすくなる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：クエイク・キャッチャー・ネットワークに多くのコンピューターがつながっていることが、なぜ大切なのですか。
+1 動きが本当に地震によって起きたものかどうかを見分けやすくなるから。
+2 ネットワークのコンピューターのすべてが、急な動きを記録できるわけではないから。
+3 コンピューターへの被害を防ぐためのソフトウェアを、ネットワークを通して送ることができるから。
+4 種類の違う加速度計は、種類の違う地震に反応するから。
+【考え方】
+設問は「多くのコンピューターがつながっていることがなぜ大切か」をたずねています。第3段落の初めに The key to the project, according to Lawrence, is to have as many computers as possible report a motion at the same time.（ローレンスによると、この計画のかぎは、できるだけ多くのコンピューターに同時に動きを報告させることだ）とあります。key は「かぎ、いちばん大切な点」です。
+その理由が次の2つの文に書かれています。
+If just one computer sends a message, it probably only means that someone has bumped into it accidentally.（もし1台だけが連絡を送ってきたのなら、それはおそらく、だれかがうっかりそのコンピューターにぶつかったというだけのことだ）
+If, however, a large number of computers all send a message at the same time, it is likely that something is happening in that area.（しかし、もし多くのコンピューターがいっせいに連絡を送ってきたら、その地域で何かが起きている可能性が高い）
+つまり、1台だけでは、ただぶつかっただけなのか地震なのかが分かりません。多くのコンピューターが同時に反応すれば、本当に地震などが起きていると判断できるのです。本文と選択肢は次のように対応しています。
+本文 one computer ～ only means that someone has bumped into it（1台だけならだれかがぶつかっただけ）／a large number of computers ～ something is happening（多くのコンピューターなら何かが起きている）＝ 選択肢 tell whether movements are actually caused by earthquakes（動きが本当に地震によるものかどうかを見分ける）
+tell はここでは「見分ける、判断する」という意味です。正解は1です。
+【ほかの選択肢】
+2 ネットワークの一部のコンピューターが急な動きを記録できない、という話は本文にありません。多くのコンピューターが必要な理由は、1台では原因が分からないからです。
+3 クエイク・キャッチャーがノートパソコンにソフトウェアを提供することは書かれています。しかし、そのソフトウェアは動きを中央のコンピューターに知らせるためのもので、被害を防ぐためのものではありません。また、多くのコンピューターが必要な理由としても書かれていません。
+4 加速度計の種類によって反応する地震の種類が違う、という話は本文にありません。
+【覚えるポイント】
+・tell whether ～：「～かどうかを見分ける、判断する」。tell にはこの意味があります。
+・it is likely that ～：「～である可能性が高い、たぶん～だろう」。

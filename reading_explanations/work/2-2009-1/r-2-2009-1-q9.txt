@@ -1,6 +1,7 @@
 ---
 choices: literature | emotion | traffic | surgery
 answerText: surgery
+reviewed: yes
 ---
 【正解】4 surgery（手術）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: gets | takes | sends | turns
 answerText: gets
+reviewed: yes
 ---
 【正解】1 gets（get in one's way で「～のじゃまになる」）
 【和訳】

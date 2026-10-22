@@ -1,6 +1,7 @@
 ---
 choices: Darwin's original theory had to be completely changed. | Animals died out when they did not fit their environments. | It would take him many years to prove that Darwin was right. | Some species travel long distances to find a suitable environment.
 answerText: Animals died out when they did not fit their environments.
+reviewed: yes
 ---
 【正解】2 Animals died out when they did not fit their environments.（動物は環境に合わないと絶滅した。）
 【和訳】

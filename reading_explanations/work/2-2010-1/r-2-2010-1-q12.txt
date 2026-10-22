@@ -1,0 +1,18 @@
+---
+choices: mode | time | stock | choice
+answerText: time
+---
+【正解】2 time（（one at a time で）1人ずつ）
+【和訳】
+上司は、最近の仕事について話し合えるように、社員を1人ずつ自分の部屋に呼びました。
+（選択肢の意味）1 方式、やり方　2 時、回（one at a time で「1つずつ、1人ずつ」）　3 在庫、たくわえ　4 選択
+【考え方】
+空所の前は called his employees into his office one at a (　)（社員を～自分の部屋に呼んだ）です。one at a (　) の部分が、どのように呼んだかを表しています。
+one at a time は「一度に1つ（1人）ずつ」という決まった言い方です。文の後半に so that he could discuss their recent work with them（彼らの最近の仕事について話し合えるように）とあります。so that ～ could … は「～が…できるように」という意味です。1人ずつ呼べば、それぞれの社員の仕事についてじっくり話し合えるので、意味がつながります。正解は2です。
+【ほかの選択肢】
+1 mode は「方式、やり方」です。one at a mode という言い方はなく、意味が通りません。
+3 stock は「在庫、たくわえ」です。one at a stock では「1人ずつ」の意味にならず、社員を呼ぶ様子を表せません。
+4 choice は「選択」です。one at a choice という言い方はなく、社員を呼ぶ様子を表せません。
+【覚えるポイント】
+・one at a time：「一度に1つ（1人）ずつ」。
+・so that ～ can（could）…：「～が…できるように」。目的を表します。

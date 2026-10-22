@@ -1,6 +1,7 @@
 ---
 choices: carry | give | pay | test
 answerText: pay
+reviewed: yes
 ---
 【正解】3 pay（〔仕事が〕給料が支払われる、もうかる）
 【和訳】

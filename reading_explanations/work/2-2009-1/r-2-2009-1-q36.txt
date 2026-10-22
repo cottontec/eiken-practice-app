@@ -1,6 +1,7 @@
 ---
 choices: accepts buffet reservations on its website. | has a restaurant that is open from 10 a.m. to 4 p.m. | sends guests information about places to eat. | can provide a lunch in the conference hall.
 answerText: can provide a lunch in the conference hall.
+reviewed: yes
 ---
 【正解】4 can provide a lunch in the conference hall.（会議場で昼食を用意することができる。）
 【和訳】
