@@ -7,7 +7,7 @@ answerText: peculiar
 （英文）
 The horse has a ［peculiar］ habit of trying to chase its own tail. The owner has never seen any other horse do something so odd.
 （訳）
-その馬には、自分のしっぽを追いかけようとする変わった癖がある。飼い主は、ほかのどの馬もそんなに奇妙なことをするのを見たことがない。
+その馬には、自分のしっぽを追いかけようとする変わった癖がある。飼い主は、ほかの馬がそんなに奇妙なことをするのを一度も見たことがない。
 （選択肢の意味）
 1 peculiar：変わった、奇妙な
 2 conceited：うぬぼれた
@@ -17,7 +17,7 @@ The horse has a ［peculiar］ habit of trying to chase its own tail. The owner 
 まず見るところ：後ろの文の最後の something so odd
 The horse has a ( ) habit of trying to chase its own tail.（その馬には、自分のしっぽを追いかけようとする（　）癖がある）
 空所には、その馬の癖がどんな癖なのかを表す語が入ります。
-The owner has never seen any other horse do something so odd.（飼い主は、ほかのどの馬もそんなに奇妙なことをするのを見たことがない）
+The owner has never seen any other horse do something so odd.（飼い主は、ほかの馬がそんなに奇妙なことをするのを一度も見たことがない）
 odd は「奇妙な、変わった」という意味です。something so odd（そんなに奇妙なこと）は、前の文の「しっぽを追いかけようとする癖」を言いかえています。ですから、空所にも odd と近い意味の語が入ります。peculiar は「変わった、奇妙な」という意味なので、1が正解です。
 この問題の型：言いかえ（a peculiar habit → something so odd）
 【ほかの選択肢】

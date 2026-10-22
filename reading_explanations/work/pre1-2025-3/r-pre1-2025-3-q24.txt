@@ -1,0 +1,30 @@
+---
+choices: In contrast | Moreover | Even so | In other words
+answerText: Moreover
+---
+【正解】2 Moreover（さらに、そのうえ）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 In contrast（対照的に、それとは反対に）
+2 Moreover（さらに、そのうえ）
+3 Even so（たとえそうでも、それでも）
+4 In other words（言いかえれば、つまり）
+【考え方】
+まず見るところ：第3段落の空所の前の patrols by soldiers and greater use of patrol boats と、あとの the government reviewed the duties
+第3段落の最初では、政府が密輸に対して強い手を打ったことが書かれています。
+Over time, the government took more decisive action to defeat smuggling.（時がたつにつれて、政府は密輸を打ち負かすために、より断固とした行動をとった）
+This included patrols by soldiers and greater use of patrol boats.（その中には、兵士による見回りや、巡視船をより多く使うことが含まれていた）
+decisive は「断固とした、決定的な」、patrol は「見回り、巡回」です。ここまでが、政府のとった1つめの方法（取り締まりを強めること）です。
+空所のあとの文は、次のとおりです。
+(24), the government reviewed the duties on some imports, such as tea.（（24）、政府は、茶などの一部の輸入品にかかる関税を見直した）
+review は「見直す」、import は「輸入品」です。関税を見直して下げたことも、密輸をなくすための政府の方法です。前と同じ方向の内容を付け加えているので、「さらに、そのうえ」という意味の Moreover が入ります。段落の最後でも、such developments（こうした動き）と、2つの方法をまとめて受けています。したがって、2が正解です。
+この問題の型：語の意味・組み合わせ（政府の対策をもう1つ付け加える Moreover）
+【ほかの選択肢】
+1 In contrast は「対照的に、それとは反対に」です。前と反対の内容を示すときに使います。兵士の見回りも関税の見直しも、どちらも密輸をなくすための政府の方法で、反対の関係ではありません。
+3 Even so は「たとえそうでも、それでも」です。前の内容から予想されることと違う内容が続くときに使います。見回りを強めたことから考えて、関税を見直したことは予想に反する出来事ではないので、つながりません。
+4 In other words は「言いかえれば」です。前の内容を別の言葉で言い直すときに使います。関税の見直しは、兵士の見回りや巡視船の言い直しではなく、別の方法なので合いません。
+【覚えるポイント】
+・Moreover：「さらに、そのうえ」。前と同じ方向の内容を付け加えるときに使います。
+・空所の前後に、同じ目的（ここでは密輸をなくすこと）のための別々の方法が書かれていて、あとで such developments（こうした動き）とまとめられているときは、付け加えの語が入る手がかりになります。

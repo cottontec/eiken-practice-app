@@ -1,0 +1,33 @@
+---
+choices: Its continued use was not in the best interests of blind people, whose opinions about which system should be used were seemingly not taken into account. | Teachers at schools for the blind convinced students not to use it because they thought systems with fewer dots would be easier for students to read. | Despite it causing the "War of the Dots," its popularity among students was a key factor in the development of other tools for blind people. | It was only successfully used in writing by students in schools for the blind after the introduction of the typewriter.
+answerText: Its continued use was not in the best interests of blind people, whose opinions about which system should be used were seemingly not taken into account.
+---
+【正解】1 Its continued use was not in the best interests of blind people, whose opinions about which system should be used were seemingly not taken into account.（それが使われ続けたことは、目の見えない人々にとって最もためになることではなく、どの体系を使うべきかについての彼らの意見は、考えに入れられていなかったようだ。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：In the second paragraph, what does the author of the passage suggest about Boston Line Type?（第2段落で、筆者はボストン・ライン・タイプについて何をほのめかしているか。）
+1 Its continued use was not in the best interests of blind people, whose opinions about which system should be used were seemingly not taken into account.（それが使われ続けたことは、目の見えない人々にとって最もためになることではなく、どの体系を使うべきかについての彼らの意見は、考えに入れられていなかったようだ。）
+2 Teachers at schools for the blind convinced students not to use it because they thought systems with fewer dots would be easier for students to read.（目の見えない人々のための学校の教師たちは、点の少ない体系のほうが生徒にとって読みやすいだろうと考えて、生徒たちにそれを使わないよう説得した。）
+3 Despite it causing the "War of the Dots," its popularity among students was a key factor in the development of other tools for blind people.（それは「点の戦争」を引き起こしたが、生徒たちの間での人気が、目の見えない人々のためのほかの道具の開発の大きな要因になった。）
+4 It was only successfully used in writing by students in schools for the blind after the introduction of the typewriter.（目の見えない人々のための学校の生徒たちが、それを書くことにうまく使えたのは、タイプライターが導入されてからだった。）
+【考え方】
+まず見るところ：第2段落の despite students' overwhelming preference for Braille, Boston Line Type remained in official use ～ because it allowed sighted instructors to teach
+第2段落の始めでは、点を使う体系のほうが、目の見えない人々にとってよいことが書かれています。
+a system using dots was not only easier for most blind people to read but also more practical（点を使う体系のほうが、たいていの目の見えない人々にとってより読みやすいだけでなく、より実用的でもあった）
+それなのに、ボストン・ライン・タイプは使われ続けました。
+Still, despite students' overwhelming preference for Braille, Boston Line Type remained in official use in schools for the blind because it allowed sighted instructors to teach without having to learn new sets of symbols.（それでも、生徒たちがブライユ点字を圧倒的に好んでいたにもかかわらず、ボストン・ライン・タイプは、目の見えない人々のための学校で公式に使われ続けた。目の見える指導者たちが、新しい記号の体系を覚えなくても教えることができたからである）
+overwhelming preference は「圧倒的に好むこと」です。使われ続けた理由は、目の見えない生徒のためではなく、目の見える指導者の都合でした。
+本文と選択肢を対にすると、次のようになります。
+本文 despite students' overwhelming preference for Braille（生徒たちがブライユ点字を圧倒的に好んでいたにもかかわらず）→ 読み取れること：whose opinions ～ were seemingly not taken into account（彼らの意見は考えに入れられていなかったようだ）
+本文 remained in official use ～ because it allowed sighted instructors to teach ～（目の見える指導者が教えやすいから使われ続けた）→ 読み取れること：Its continued use was not in the best interests of blind people（使われ続けたことは目の見えない人々のためにならなかった）
+ですから1が正解です。
+この問題の型：推論（生徒の好みに反して指導者の都合で使われ続けた → 生徒の意見は考えに入れられなかった）、対比（despite ～）
+【ほかの選択肢】
+2 本文に書かれていません。指導者が生徒にボストン・ライン・タイプを使わないよう説得したという話は出てきません。本文では、指導者が新しい記号を覚えなくてすむので、ボストン・ライン・タイプが公式に使われ続けたと書かれています。また、ボストン・ライン・タイプは点ではなく盛り上げたアルファベットを使う体系なので、「点の少ない体系」と比べる話にもなっていません。
+3 本文の内容と合いません。生徒たちが圧倒的に好んでいたのはブライユ点字で、ボストン・ライン・タイプではありません。また、本文では、点の戦争はボストン・ライン・タイプの人気がなくなったあとも、ほかの体系が登場し続けたことで生まれたと書かれており、ボストン・ライン・タイプが引き起こしたとは書かれていません。
+4 本文の内容と合いません。タイプライターで打つことができたのはブライユ点字です。ボストン・ライン・タイプで書くには special printing press（特別な印刷機）が必要だったと書かれています。
+【覚えるポイント】
+・in the best interests of ～：「～にとって最もためになる」。take ～ into account は「～を考えに入れる」です。
+・despite ～（～にもかかわらず）のあとに「好まれていたもの」と「実際に使われたもの」が食い違っている文では、「だれの都合でそうなったか」（ここでは because 以下）を確かめると、筆者がほのめかしていることを読み取る手がかりになります。
