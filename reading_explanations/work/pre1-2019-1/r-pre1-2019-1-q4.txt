@@ -1,0 +1,32 @@
+---
+choices: recurrent | swift | nautical | frantic
+answerText: recurrent
+---
+【正解】1 recurrent（くり返し現れる、何度も起こる）
+【和訳】
+（英文）
+Religious issues have been a ［recurrent］ theme in the author's books. His newest book is no different, as it focuses on the role of women in Eastern religions.
+（訳）
+宗教の問題は、これまでずっと、その作家の本の中で（くり返し現れる）テーマである。最新の本も例外ではない。東洋の宗教における女性の役割を中心に取り上げているからだ。
+（選択肢の意味）
+1 recurrent：くり返し現れる、何度も起こる
+2 swift：すばやい
+3 nautical：船の、航海の
+4 frantic：大あわての、取り乱した
+【考え方】
+まず見るところ：後半の文の His newest book is no different
+空所のある文は、次のようになっています。
+Religious issues have been a (　) theme in the author's books.（宗教の問題は、これまでずっと、その作家の本の中で（　）テーマである）
+have been は「これまでずっと～である」という意味です。空所の語は theme（テーマ）を説明しています。
+後半の文を見ます。
+His newest book is no different, as it focuses on the role of women in Eastern religions.（最新の本も例外ではない。東洋の宗教における女性の役割を中心に取り上げているからだ）
+no different は「違いがない、同じだ」です。最新の本も宗教を取り上げている、つまり今までの本と同じように、また宗教がテーマになっているということです。
+これまでの本でも、最新の本でも、宗教が何度もテーマになっています。recurrent は「くり返し現れる」なので、1が正解です。
+この問題の型：語の意味・組み合わせ（recurrent theme）／具体例とまとめ（最新の本も宗教 → くり返し）
+【ほかの選択肢】
+2 swift は「すばやい」です。「すばやいテーマ」では意味が通らず、最新の本も同じだという後半の文ともつながりません。
+3 nautical は「船の、航海の」です。宗教の問題が「航海のテーマ」というのは意味が通りません。
+4 frantic は「大あわての、取り乱した」です。テーマが取り乱しているとは言えず、意味が通りません。
+【覚えるポイント】
+・recurrent theme：「くり返し現れるテーマ」。
+・空所の後ろに ～ is no different（～も同じだ、例外ではない）が続くときは、前の文と同じことが今回もあてはまるという意味です。「何度も」「いつも」を表す語が入る手がかりになります。

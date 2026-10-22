@@ -1,0 +1,32 @@
+---
+choices: fracture | disclose | invoice | withstand
+answerText: disclose
+---
+【正解】2 disclose（～を明かす、公表する）
+【和訳】
+（英文）
+The general refused to ［disclose］ information about the military's strategy for the war to the media. He was worried that doing so might help the enemy.
+（訳）
+その将軍は、その戦争に向けた軍の戦略についての情報を、報道機関に（明かす）ことを拒んだ。彼は、そうすることが敵を助けてしまうかもしれないと心配していた。
+（選択肢の意味）
+1 fracture：～を割る、（骨を）折る
+2 disclose：～を明かす、公表する
+3 invoice：～に請求書を送る
+4 withstand：～に耐える、持ちこたえる
+【考え方】
+まず見るところ：空所の後ろの information ～ to the media と、後半の文の doing so might help the enemy
+general は、ここでは「将軍（軍隊の中で高い位にいる人）」という意味です。refused to ～ は「～することを拒んだ（断った）」です。
+空所の後ろは、次のようになっています。
+information about the military's strategy for the war to the media（その戦争に向けた軍の戦略についての情報を、報道機関に）
+strategy は「戦略（戦いに勝つための計画）」、the media は「報道機関（新聞やテレビなど）」です。「情報を報道機関に～する」の形なので、情報を外に知らせる意味の語が合います。
+後半の文も確かめます。
+He was worried that doing so might help the enemy.（彼は、そうすることが敵を助けてしまうかもしれないと心配していた）
+doing so（そうすること）は、空所に入る行動を指しています。戦略の情報を報道機関に明かせば、敵にも知られてしまいます。だから将軍は拒んだ、と考えると話がつながります。ですから2が正解です。
+この問題の型：語の意味・組み合わせ（disclose information to ～）／指示語（doing so ＝ 情報を明かすこと）
+【ほかの選択肢】
+1 fracture は「～を割る、（骨を）折る」です。「情報を報道機関に割ることを拒んだ」となり、意味が通りません。
+3 invoice は「～に請求書を送る」です。戦略の情報に請求書を送るという話になり、「敵を助けてしまう」という心配ともつながりません。
+4 withstand は「～に耐える」です。「情報に耐えることを拒んだ」では、to the media（報道機関に）とつながらず、意味が通りません。
+【覚えるポイント】
+・disclose information to ～：「～に情報を明かす、公表する」。
+・doing so（そうすること）が出てきたら、前の文の空所の動作を指していることが多いです。その動作が「敵を助ける」ような結果になるかどうかを考えると、答えの手がかりになります。
