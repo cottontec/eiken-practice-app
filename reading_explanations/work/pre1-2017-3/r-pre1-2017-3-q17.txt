@@ -1,0 +1,30 @@
+---
+choices: interrupted | grasped | exiled | decoded
+answerText: exiled
+---
+【正解】3 exiled（国外へ追放された）
+【和訳】
+（英文）
+Since being ［exiled］ for his beliefs many years ago, Reza has been living in England. He will likely be imprisoned if he goes back to his home country.
+（訳）
+何年も前に自分の信念のために（国外へ追放されて）以来、レザはイングランド（イギリスの一部）で暮らしています。もし母国にもどれば、彼はおそらく投獄されるでしょう。
+（選択肢の意味）
+1 interrupted：（話や作業を）じゃまされた、中断された
+2 grasped：つかまれた；理解された
+3 exiled：（国外へ）追放された
+4 decoded：（暗号などが）解読された
+【考え方】
+まず見るところ：2文目の He will likely be imprisoned if he goes back to his home country.
+1文目は Since ～（～して以来）の形で、レザがイングランドで暮らすようになったきっかけを述べています。
+Since being (　) for his beliefs many years ago（何年も前に、自分の信念のために（　）されて以来）
+beliefs は「信念（正しいと強く信じている考え）」です。2文目では、次のように言っています。
+He will likely be imprisoned if he goes back to his home country.（もし母国にもどれば、彼はおそらく投獄されるだろう）
+imprison は「刑務所に入れる」です。母国にもどると投獄されるので、レザは母国にいられず、外国で暮らしていると分かります。自分の信念が原因で国から追い出されたと考えると、つながります。exile は「国外へ追放する」なので、3が正解です。
+この問題の型：因果（信念のために追放された→母国にもどると投獄される）
+【ほかの選択肢】
+1 interrupted は「じゃまされた、中断された」です。「信念のためにじゃまされて以来、イングランドで暮らしている」では、母国にもどると投獄されるという2文目の理由になりません。
+2 grasped は「つかまれた、理解された」です。信念を理解されたのなら、母国で投獄される理由になりません。
+4 decoded は「解読された」です。暗号などについて使う語で、人について「信念のために解読された」とは言いません。
+【覚えるポイント】
+・exile：「国外へ追放する」。be exiled で「国外へ追放される」です。名詞も exile（追放、亡命者）です。
+・1文目が Since ～（～して以来）で始まるときは、そのきっかけの出来事が、後ろに書かれた今の状態（ここでは母国にもどれないこと）につながるかどうかを確かめるのが手がかりになります。

@@ -1,0 +1,30 @@
+---
+choices: outcast | ambassador | organism | ancestor
+answerText: outcast
+---
+【正解】1 outcast（のけ者、追い出された人）
+【和訳】
+（英文）
+When Craig became homeless, he felt like an ［outcast］. With nowhere to go and no one to help him, it was as if he were completely removed from society.
+（訳）
+クレイグは家を失ったとき、自分が（のけ者）のように感じました。行く所もなく、助けてくれる人もいない状態で、まるで社会から完全に切り離されたかのようでした。
+（選択肢の意味）
+1 outcast：（社会や仲間から）追い出された人、のけ者
+2 ambassador：大使（国を代表して外国に住み、交渉などをする人）
+3 organism：生物、有機体（生きているもの）
+4 ancestor：祖先
+【考え方】
+まず見るところ：2文目の as if he were completely removed from society
+1文目は、家を失ったクレイグが自分を何のように感じたかを述べています。homeless は「住む家のない」という意味です。
+2文目で、そのときの気持ちがくわしく説明されています。
+With nowhere to go and no one to help him, it was as if he were completely removed from society.（行く所もなく、助けてくれる人もいない状態で、まるで社会から完全に切り離されたかのようだった）
+as if ～ は「まるで～かのように」です。「社会から完全に切り離された」と感じているのですから、1文目の空所には「社会から追い出された人」という意味の語が入ります。outcast は「のけ者、追い出された人」なので、1が正解です。
+空所の前の an は、4つの選択肢がどれも母音（ア・イ・ウ・エ・オに近い音）で始まるので、答えを決める手がかりにはなりません。
+この問題の型：言いかえ（outcast → removed from society）
+【ほかの選択肢】
+2 ambassador は「大使」です。「家を失ったとき、大使のように感じた」となり、社会から切り離されたという2文目とつながりません。
+3 organism は「生物」です。「生物のように感じた」では、2文目の「社会から切り離された」という気持ちを表せません。
+4 ancestor は「祖先」です。「祖先のように感じた」となり、家を失った気持ちの説明として意味が通りません。
+【覚えるポイント】
+・outcast：「のけ者、追い出された人」。out（外へ）＋ cast（投げる）からできた語です。
+・1文目の気持ちを2文目で as if ～（まるで～かのように）を使って説明しているときは、2文目の内容をひとことで言いかえた語が1文目の空所に入ることが多いです。

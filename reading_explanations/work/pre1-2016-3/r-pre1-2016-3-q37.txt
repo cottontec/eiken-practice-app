@@ -1,0 +1,32 @@
+---
+choices: Costa Rica had carried out sufficient environmental checks before constructing the road along the San Juan River. | Even though Costa Rica's ownership of Isla Portillos was unclear, Nicaragua should not have used its military to claim ownership. | Costa Rica had carried out its road construction long before Nicaragua began its engineering projects. | Nicaragua's construction of artificial waterways had resulted in negative environmental consequences for Costa Rica.
+answerText: Nicaragua's construction of artificial waterways had resulted in negative environmental consequences for Costa Rica.
+---
+【正解】4 Nicaragua's construction of artificial waterways had resulted in negative environmental consequences for Costa Rica.（ニカラグアが人工の水路を作ったことが、コスタリカにとって環境上の悪い結果をもたらしていた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one reason the International Court of Justice ruled in favor of Costa Rica?（国際司法裁判所がコスタリカに有利な判決を下した理由の一つは何か。）
+1 Costa Rica had carried out sufficient environmental checks before constructing the road along the San Juan River.（コスタリカは、サンフアン川沿いに道路を建設する前に、十分な環境の調査を行っていた。）
+2 Even though Costa Rica's ownership of Isla Portillos was unclear, Nicaragua should not have used its military to claim ownership.（イスラ・ポルティージョスがコスタリカのものかどうかははっきりしなかったが、ニカラグアは所有権を主張するのに軍を使うべきではなかった。）
+3 Costa Rica had carried out its road construction long before Nicaragua began its engineering projects.（コスタリカは、ニカラグアが工事を始めるずっと前に、道路の建設を行っていた。）
+4 Nicaragua's construction of artificial waterways had resulted in negative environmental consequences for Costa Rica.（ニカラグアが人工の水路を作ったことが、コスタリカにとって環境上の悪い結果をもたらしていた。）
+【考え方】
+まず見るところ：第3段落の Furthermore, the ICJ ruled that the unauthorized creation of artificial waterways had indeed caused environmental damage to Costa Rican territory.
+ICJ（国際司法裁判所）の判決は第3段落に書かれています。rule in favor of ～ は「～に有利な判決を下す」という意味です。
+Furthermore, the ICJ ruled that the unauthorized creation of artificial waterways had indeed caused environmental damage to Costa Rican territory.（さらにICJは、許可なく人工の水路を作ったことが、実際にコスタリカの領土に環境上の損害を与えたと判断した）
+unauthorized は「許可のない」、artificial waterways は「人工の水路」という意味です。第1段落から、この水路を掘ったのはニカラグアだと分かります。
+本文と選択肢4を対にすると、次のようになります。
+本文 the unauthorized creation of artificial waterways（許可なく人工の水路を作ったこと）＝ 選択肢 Nicaragua's construction of artificial waterways（ニカラグアが人工の水路を作ったこと）
+本文 had indeed caused environmental damage（実際に環境上の損害を与えた）＝ 選択肢 had resulted in negative environmental consequences（環境上の悪い結果をもたらした）
+本文 to Costa Rican territory（コスタリカの領土に）＝ 選択肢 for Costa Rica（コスタリカにとって）
+コスタリカの訴えのとおりだと認められたので、コスタリカに有利な判決の理由の一つになります。ですから4が正解です。
+この問題の型：言いかえ（caused environmental damage ＝ resulted in negative environmental consequences）
+【ほかの選択肢】
+1 本文と反対です。ICJは、Costa Rica should have carried out an environmental impact study before beginning the project（コスタリカは事業を始める前に環境影響調査を行うべきだった）と認めています。should have done は「～すべきだった（のに、しなかった）」という意味なので、十分な調査をしていたとは言えません。
+2 本文と合いません。ICJは、under existing international treaties, it was Costa Rica that had ownership rights over Isla Portillos（現在ある国際条約のもとでは、イスラ・ポルティージョスの所有権を持つのはコスタリカだ）と判断しています。所有権ははっきりしていたので、「はっきりしなかったが」の部分が違います。
+3 本文にありません。道路の建設とニカラグアの工事のどちらが先だったかについては、書かれていません。
+【覚えるポイント】
+・should have done：「～すべきだった（のに、しなかった）」。選択肢1のように「～していた」と言っている選択肢とは反対の意味になるので、注意が必要です。
+・判決や結果の理由をたずねる設問では、本文の ruled that ～（～と判断した）のあとの内容を一つずつ選択肢と比べ、「誰が・何をしたか」が同じかを確かめると手がかりになります。
