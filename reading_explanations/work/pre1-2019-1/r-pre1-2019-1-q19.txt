@@ -1,0 +1,31 @@
+---
+choices: vulnerable | instructive | stale | genuine
+answerText: vulnerable
+---
+【正解】1 vulnerable（〔攻撃などに〕弱い、やられやすい）
+【和訳】
+（英文）
+The data-security consultant warned that the company's computers were ［vulnerable］ to virus attacks and needed to be made safer.
+（訳）
+データの安全を守る専門家は、その会社のコンピューターはウイルスの攻撃に（弱く）、もっと安全にする必要があると警告した。
+（選択肢の意味）
+1 vulnerable：（攻撃などに）弱い、やられやすい
+2 instructive：ためになる、教えになる
+3 stale：新鮮でない、古くなった
+4 genuine：本物の
+【考え方】
+まず見るところ：文の初めの warned と、最後の needed to be made safer
+consultant は「専門家として相談にのる人（コンサルタント）」、warned は「警告した（危ないと注意した）」です。
+空所の前後は、次のようになっています。
+the company's computers were (　) to virus attacks（その会社のコンピューターはウイルスの攻撃に（　））
+and needed to be made safer（もっと安全にする必要がある）
+safer は「より安全な」で、今の状態より安全に、という意味です。もっと安全にする必要があるということは、今はウイルスの攻撃に対して危ない状態だということです。
+vulnerable は「（攻撃などに）弱い」で、be vulnerable to ～ で「～に弱い、～にやられやすい」という意味です。ですから1が正解です。
+この問題の型：語の意味・組み合わせ（vulnerable to ～）／因果（攻撃に弱い → もっと安全にする必要）
+【ほかの選択肢】
+2 instructive は「ためになる」です。「コンピューターはウイルスの攻撃にためになる」となり、意味が通らず、警告する理由にもなりません。
+3 stale は「新鮮でない、古くなった」で、パンなどの食べ物によく使う語です。「ウイルスの攻撃に古くなっている」となり、意味が通りません。
+4 genuine は「本物の」です。「コンピューターはウイルスの攻撃に本物だ」となり、意味が通りません。
+【覚えるポイント】
+・be vulnerable to ～：「～に弱い、～にやられやすい」。
+・warned（警告した）や needed to be made safer（もっと安全にする必要がある）は、今は危ない状態だという手がかりになります。

@@ -1,0 +1,31 @@
+---
+choices: claimed the pachucos deserved to be punished even more severely for their activities than they had been. | made an effort to convince authorities not to arrest servicemen who were participating in fights with the pachucos. | criticized zoot suit wearers because their fashion was based on clothes traditionally worn by members of the lower classes. | disregarded the fact that not everyone who wore zoot suits was an African-American or Mexican-American male.
+answerText: disregarded the fact that not everyone who wore zoot suits was an African-American or Mexican-American male.
+---
+【正解】4 disregarded the fact that not everyone who wore zoot suits was an African-American or Mexican-American male.（ズートスーツを着ていたのが、全員アフリカ系アメリカ人かメキシコ系アメリカ人の男性だったわけではないという事実を無視した。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：One example of bias in the media coverage of the zoot suit riots was that the newspapers（ズートスーツ暴動についての報道のかたよりの一例は、新聞が～ことだった。）
+1 claimed the pachucos deserved to be punished even more severely for their activities than they had been.（パチューコたちは、自分たちの行いに対して、実際に受けた罰よりもさらに厳しく罰せられて当然だと主張した）
+2 made an effort to convince authorities not to arrest servicemen who were participating in fights with the pachucos.（パチューコとのけんかに加わっていた軍人たちを逮捕しないよう、当局を説得しようと努めた）
+3 criticized zoot suit wearers because their fashion was based on clothes traditionally worn by members of the lower classes.（ズートスーツを着る人々を、その服装が昔から下層階級の人々が着ていた服をもとにしているという理由で批判した）
+4 disregarded the fact that not everyone who wore zoot suits was an African-American or Mexican-American male.（ズートスーツを着ていたのが、全員アフリカ系アメリカ人かメキシコ系アメリカ人の男性だったわけではないという事実を無視した）
+【考え方】
+まず見るところ：第3段落の Reporters also largely ignored the number of women and white men among those wearing zoot suits
+設問の bias は「かたより（一方に都合よくゆがめること）」、media coverage は「報道」です。第3段落に、新聞の報道のしかたが書かれています。
+Reporters also largely ignored the number of women and white men among those wearing zoot suits, implying zoot suit wearers were either Mexican-American or African-American males trying to avoid military service.（記者たちはまた、ズートスーツを着ていた人々の中にいた女性や白人男性の数をほとんど無視し、ズートスーツを着ているのは、兵役を逃れようとしているメキシコ系かアフリカ系のアメリカ人男性のどちらかであるかのようにほのめかした）
+ignore は「無視する」、imply は「それとなく示す、ほのめかす」です。実際には女性や白人男性も着ていたのに、記者たちはそれを書かなかったのです。
+本文と選択肢4を対にすると、次のようになります。
+・本文 largely ignored（ほとんど無視した）＝ 選択肢 disregarded（無視した）
+・本文 the number of women and white men among those wearing zoot suits（ズートスーツを着ていた人々の中の女性や白人男性の数）→ 選択肢 the fact that not everyone who wore zoot suits was an African-American or Mexican-American male（着ていたのが全員アフリカ系かメキシコ系の男性だったわけではないという事実）
+女性や白人男性も着ていたということは、「全員がアフリカ系かメキシコ系の男性だったわけではない」ということです。not everyone は「全員が～というわけではない」という意味です。よって4が正解です。
+この問題の型：言いかえ（ignored the number of women and white men → disregarded the fact that not everyone ～）
+【ほかの選択肢】
+1 本文と違います。新聞は、兵士たちがパチューコを殴り服をはぎ取ったことを fair punishment（正当な罰）だと書きましたが、「もっと厳しく罰せられるべきだ」とは書かれていません。
+2 本文と違います。新聞は軍人たちが逮捕されたことを報じなかった（failed to report the arrests of servicemen）のであって、逮捕しないよう当局を説得したわけではありません。
+3 本文にありません。ズートスーツが下層階級の伝統的な服をもとにしているという話も、それを理由に新聞が批判したという話も書かれていません。
+【覚えるポイント】
+・not everyone ～：「全員が～というわけではない」（一部だけを打ち消す言い方）。ignore ＝ disregard：「無視する」。imply：「ほのめかす」。
+・「報道のかたより」をたずねる設問では、failed to report（報じなかった）や ignored（無視した）のように「伝えなかったこと」を表す語句が答えの手がかりになります。

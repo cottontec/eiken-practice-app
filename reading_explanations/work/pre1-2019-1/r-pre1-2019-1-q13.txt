@@ -7,7 +7,7 @@ answerText: adverse
 （英文）
 Yesterday, many flights to Paris were canceled because of ［adverse］ weather conditions. Now that the weather has improved, flight schedules have returned to normal.
 （訳）
-昨日、（悪）天候のために、パリ行きの多くの便が欠航になった。天候がよくなった今は、運航予定はふだんどおりに戻っている。
+昨日、（悪い）天候のために、パリ行きの多くの便が欠航になった。天候がよくなった今は、運航予定はふだんどおりに戻っている。
 （選択肢の意味）
 1 victorious：勝利を得た
 2 needy：（お金がなく）困っている、貧しい

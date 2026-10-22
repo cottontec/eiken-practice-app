@@ -137,10 +137,10 @@
     {
       "batchId": "pre1-2018-1",
       "target": 41,
-      "written": 0,
+      "written": 41,
       "contentReviewed": 0,
-      "status": "not_started",
-      "blank": 41,
+      "status": "complete_unreviewed",
+      "blank": 0,
       "issues": 0,
       "checkErrors": 0,
       "checkWarnings": 0
@@ -157,5 +157,5 @@
       "checkWarnings": 0
     }
   ],
-  "updatedAt": "2026-10-22T21:35:16+00:00"
+  "updatedAt": "2026-10-22T21:35:32+00:00"
 }
