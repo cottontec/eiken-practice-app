@@ -93,10 +93,10 @@
     {
       "batchId": "2-2023-3",
       "target": 38,
-      "written": 26,
+      "written": 38,
       "contentReviewed": 0,
-      "status": "in_progress",
-      "blank": 12,
+      "status": "complete_unreviewed",
+      "blank": 0,
       "issues": 0,
       "checkErrors": 0,
       "checkWarnings": 0
@@ -190,5 +190,5 @@
       "checkWarnings": 0
     }
   ],
-  "updatedAt": "2026-10-22T21:08:41+00:00"
+  "updatedAt": "2026-10-22T21:08:52+00:00"
 }
