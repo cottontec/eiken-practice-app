@@ -1,6 +1,7 @@
 ---
 choices: happened upon | stayed off | sailed through | glared at
 answerText: sailed through
+reviewed: yes
 ---
 【正解】3 sailed through（～を楽々と切り抜けた）
 【和訳】

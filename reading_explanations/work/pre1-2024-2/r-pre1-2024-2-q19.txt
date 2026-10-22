@@ -1,6 +1,7 @@
 ---
 choices: its economy suffered badly | it did not help Great Britain | its actions told a different story | it needed assistance
 answerText: its actions told a different story
+reviewed: yes
 ---
 【正解】3 its actions told a different story（その行動は別の事実を物語っていた）
 【和訳】

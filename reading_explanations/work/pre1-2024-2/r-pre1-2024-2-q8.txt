@@ -1,6 +1,7 @@
 ---
 choices: command | convey | install | prescribe
 answerText: convey
+reviewed: yes
 ---
 【正解】2 convey（〈気持ち・情報などを〉伝える）
 【和訳】

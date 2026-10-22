@@ -1,6 +1,7 @@
 ---
 choices: scratch out | win over | rack up | indulge in
 answerText: win over
+reviewed: yes
 ---
 【正解】2 win over（〈人〉を味方につける、〈人の〉心をつかむ）
 【和訳】

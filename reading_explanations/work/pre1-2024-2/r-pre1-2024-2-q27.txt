@@ -1,6 +1,7 @@
 ---
 choices: IQ tests are being misused by teachers as a way to determine which students should enter such programs. | Results of IQ tests provide little help in predicting how well students in such programs will perform. | Students from ethnic minorities tend to perform better in such programs than White students do. | The use of IQ tests has given students from ethnic minorities a better chance of entering such programs.
 answerText: The use of IQ tests has given students from ethnic minorities a better chance of entering such programs.
+reviewed: yes
 ---
 【正解】4 The use of IQ tests has given students from ethnic minorities a better chance of entering such programs.（IQテストを使うことで、少数民族の生徒がそうしたプログラムに入れる可能性がより高くなっている。）
 【和訳】

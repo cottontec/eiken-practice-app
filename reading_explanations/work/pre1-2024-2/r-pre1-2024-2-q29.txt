@@ -1,6 +1,7 @@
 ---
 choices: there is evidence to show that Moore's law can also be a useful tool in the field of politics. | the amount of effort that is necessary for Moore's law to remain true has increased greatly over time. | while the age of leaders in the worlds of business and politics is increasing, this is not the case for Nobel Prize winners. | universities in the United States are unlikely to make major new discoveries because they have limited resources.
 answerText: the amount of effort that is necessary for Moore's law to remain true has increased greatly over time.
+reviewed: yes
 ---
 【正解】2 the amount of effort that is necessary for Moore's law to remain true has increased greatly over time.（ムーアの法則が当てはまり続けるのに必要な努力の量は、時がたつにつれて大きく増えてきたということだ。）
 【和訳】

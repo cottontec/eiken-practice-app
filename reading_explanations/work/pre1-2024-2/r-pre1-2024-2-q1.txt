@@ -1,6 +1,7 @@
 ---
 choices: tender | vigorous | influential | fictitious
 answerText: fictitious
+reviewed: yes
 ---
 【正解】4 fictitious（架空の、作り事の）
 【和訳】

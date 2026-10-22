@@ -1,6 +1,7 @@
 ---
 choices: turmoil | sarcasm | upkeep | heritage
 answerText: turmoil
+reviewed: yes
 ---
 【正解】1 turmoil（大混乱、騒ぎ）
 【和訳】

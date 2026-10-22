@@ -1,6 +1,7 @@
 ---
 choices: phased out | shook up | burned off | gave away
 answerText: gave away
+reviewed: yes
 ---
 【正解】4 gave away（〈秘密などを〉もらした、ばらした）
 【和訳】
@@ -17,7 +18,7 @@ B：ごめん、あなたは前にそれを見たことがあると思ってい�
 4 gave away：（秘密などを）もらした、ばらした；ただであげた
 【考え方】
 まず見るところ：Bの答えの Sorry, I thought you had seen it before.
-Aは、Bが映画の結末について何かをしたことに怒っています。Bの答えを見ます。
+Aは、Bが映画の結末について何かをしたことに、驚きあきれています。Bの答えを見ます。
 Sorry, I thought you had seen it before.（ごめん、あなたは前にそれを見たことがあると思っていたよ）
 Bは「Aがもう見たと思っていたから」とあやまっています。つまり、BはAに映画の結末を話してしまったと考えられます。まだ見ていない人に結末を言われると、楽しみがなくなってしまいます。
 give away は「（秘密などを）もらす、ばらす」という意味です。give away the ending で「結末をばらす」となるので、4が正解です。

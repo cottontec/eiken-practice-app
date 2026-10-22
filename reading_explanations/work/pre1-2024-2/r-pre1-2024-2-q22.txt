@@ -1,6 +1,7 @@
 ---
 choices: cost-saving success | waste of time and energy | way to distract the public | revolutionary step
 answerText: revolutionary step
+reviewed: yes
 ---
 【正解】4 revolutionary step（革命的な一歩）
 【和訳】

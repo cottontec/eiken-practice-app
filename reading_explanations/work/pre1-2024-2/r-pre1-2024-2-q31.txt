@@ -1,6 +1,7 @@
 ---
 choices: Mistaken ideas about the effects of an aging workforce lead to companies losing some of their most valuable workers. | A lack of government spending on health care will cause a rise in the number of older people who are unable to work due to poor health. | Because younger workers have to make up for the low productivity of their older colleagues, the chance of innovations occurring is reduced. | Rather than slowing down innovation, an aging workforce may make it more likely to happen.
 answerText: Rather than slowing down innovation, an aging workforce may make it more likely to happen.
+reviewed: yes
 ---
 【正解】4 Rather than slowing down innovation, an aging workforce may make it more likely to happen.（働き手の高齢化は、技術革新を遅らせるのではなく、それをより起こりやすくするかもしれない。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: live up to | hold off on | meet up with | break in on
 answerText: live up to
+reviewed: yes
 ---
 【正解】1 live up to（〈期待など〉にこたえる）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: It overestimated the impact that advances in computer technology would have on our lives. | It is unlikely to be accurate in the future because of the increasingly rapid rate at which companies release new products. | It not only predicted technological progress but also stimulated the development of new technology. | It was an effective way to predict advances in technology despite the fact that it was intended for a different purpose.
 answerText: It not only predicted technological progress but also stimulated the development of new technology.
+reviewed: yes
 ---
 【正解】3 It not only predicted technological progress but also stimulated the development of new technology.（それは技術の進歩を予測しただけでなく、新しい技術の開発をうながしもした。）
 【和訳】

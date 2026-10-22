@@ -1,6 +1,7 @@
 ---
 choices: On the contrary | Subsequently | Moreover | In exchange
 answerText: Moreover
+reviewed: yes
 ---
 【正解】3 Moreover（さらに、その上）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: underfunded from the start | not without obstacles | almost canceled | moved to a safer location
 answerText: not without obstacles
+reviewed: yes
 ---
 【正解】2 not without obstacles（障害がないわけではない）
 【和訳】

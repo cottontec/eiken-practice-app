@@ -1,6 +1,7 @@
 ---
 choices: harbors | defies | retains | spoils
 answerText: spoils
+reviewed: yes
 ---
 【正解】4 spoils（甘やかしてだめにする）
 【和訳】

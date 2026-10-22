@@ -1,6 +1,7 @@
 ---
 choices: crawl | mourn | meditate | haunt
 answerText: crawl
+reviewed: yes
 ---
 【正解】1 crawl（はう、はって進む）
 【和訳】

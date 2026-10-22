@@ -1,6 +1,7 @@
 ---
 choices: strain | obedience | temper | odor
 answerText: odor
+reviewed: yes
 ---
 【正解】4 odor（におい、特にいやなにおい）
 【和訳】

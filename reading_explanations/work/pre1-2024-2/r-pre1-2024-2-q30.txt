@@ -1,6 +1,7 @@
 ---
 choices: Breakthroughs in science and technology are becoming more difficult to achieve because of a continually growing pool of knowledge. | Although researchers today are very knowledgeable, they are less skilled at applying their knowledge to practical situations. | The quality of journal articles in mathematics has improved despite the fact that the field attracts fewer researchers than it used to. | New innovations improve society in certain ways, but their overall effect may not be positive in the long term.
 answerText: Breakthroughs in science and technology are becoming more difficult to achieve because of a continually growing pool of knowledge.
+reviewed: yes
 ---
 【正解】1 Breakthroughs in science and technology are becoming more difficult to achieve because of a continually growing pool of knowledge.（増え続ける知識の蓄積のために、科学や技術の大きな進歩は、成しとげるのがより難しくなってきている。）
 【和訳】

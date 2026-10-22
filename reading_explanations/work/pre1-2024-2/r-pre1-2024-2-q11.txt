@@ -1,6 +1,7 @@
 ---
 choices: charitable | numb | surplus | bizarre
 answerText: bizarre
+reviewed: yes
 ---
 【正解】4 bizarre（奇妙な、風変わりな）
 【和訳】

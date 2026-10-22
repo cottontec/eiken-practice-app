@@ -1,6 +1,7 @@
 ---
 choices: tranquil | conceptual | disciplinary | discriminatory
 answerText: disciplinary
+reviewed: yes
 ---
 【正解】3 disciplinary（懲戒の、規律を守らせるための）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: corridor | tag | triumph | clarity
 answerText: triumph
+reviewed: yes
 ---
 【正解】3 triumph（勝利、大成功）
 【和訳】

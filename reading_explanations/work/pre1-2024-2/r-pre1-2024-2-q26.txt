@@ -1,6 +1,7 @@
 ---
 choices: although intelligence consists of several different aspects, it is dependent on the function of just one part of the brain. | while most IQ tests are based on valid research, the way they are carried out makes them ineffective. | IQ tests are designed based on the mistaken concept that intelligence is a single ability that can be measured in isolation. | evidence from brain scans indicates there is less variation in people's intelligence than was previously believed.
 answerText: IQ tests are designed based on the mistaken concept that intelligence is a single ability that can be measured in isolation.
+reviewed: yes
 ---
 【正解】3 IQ tests are designed based on the mistaken concept that intelligence is a single ability that can be measured in isolation.（IQテストは、知能は単独で測ることのできる1つの能力だという、まちがった考えにもとづいて作られている。）
 【和訳】

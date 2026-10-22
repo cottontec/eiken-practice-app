@@ -1,6 +1,7 @@
 ---
 choices: vacate | pledge | offend | squeeze
 answerText: vacate
+reviewed: yes
 ---
 【正解】1 vacate（〈部屋・建物などを〉空ける、明け渡す）
 【和訳】

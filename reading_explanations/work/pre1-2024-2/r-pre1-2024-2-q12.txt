@@ -1,6 +1,7 @@
 ---
 choices: flock | knot | gleam | doom
 answerText: knot
+reviewed: yes
 ---
 【正解】2 knot（結び目）
 【和訳】

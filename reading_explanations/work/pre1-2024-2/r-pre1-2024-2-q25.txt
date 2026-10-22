@@ -1,6 +1,7 @@
 ---
 choices: The test he developed was not initially intended for the purpose of measuring intelligence in children. | The test he designed became the basis for all IQ tests that have been developed since. | He lost his job with the French government because of his strong opinions regarding IQ tests. | He was not the first person to attempt to create a test that could be used to measure a person's intelligence.
 answerText: The test he designed became the basis for all IQ tests that have been developed since.
+reviewed: yes
 ---
 【正解】2 The test he designed became the basis for all IQ tests that have been developed since.（彼が考案したテストは、それ以降に開発されたすべてのIQテストの基礎となった。）
 【和訳】
@@ -23,7 +24,7 @@ The Binet-Simon test that was created as a result provided the foundation for al
 foundation と basis は、どちらも「土台、基礎」という意味です。よって2が正解です。
 この問題の型：言いかえ（provided the foundation for ＝ became the basis for）
 【ほかの選択肢】
-1 本文に書かれていません。本文には、ビネーは to create a test that could be used to identify children who needed educational support（教育上の支援を必要とする子どもを見分けるのに使えるテストを作る）よう頼まれたとあります。しかし、そのテストがもともと子どもの知能を測る目的ではなかったとは書かれていません。
+1 本文に書かれていません。本文には、ビネーは to create a test that could be used to identify children who needed educational support（教育上の支援を必要とする子どもを見分けるのに使えるテストを作る）よう頼まれたとあります。しかも本文は、そのテストが最初のIQテストであり、子どもを見分けるために作られたと述べています。もともと子どもの知能を測る目的ではなかったとは書かれていません。
 3 本文に書かれていません。本文には、ビネーがフランス政府からテスト作りを頼まれたことは書かれていますが、IQテストについての意見のせいで仕事を失ったという話はありません。
 4 本文に書かれていません。本文には The first IQ test was developed ～ by a French psychologist named Alfred Binet（最初のIQテストは、アルフレッド・ビネーというフランスの心理学者によって開発された）とあるだけで、ビネーより前に知能を測るテストを作ろうとした人がいたとは書かれていません。
 【覚えるポイント】

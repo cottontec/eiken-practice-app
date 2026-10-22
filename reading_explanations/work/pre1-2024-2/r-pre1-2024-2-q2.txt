@@ -1,6 +1,7 @@
 ---
 choices: shrewd | defective | serene | classified
 answerText: classified
+reviewed: yes
 ---
 【正解】4 classified（機密の）
 【和訳】

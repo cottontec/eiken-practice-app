@@ -1,6 +1,7 @@
 ---
 choices: Consequently | In contrast | Likewise | On top of that
 answerText: In contrast
+reviewed: yes
 ---
 【正解】2 In contrast（それとは対照的に）
 【和訳】

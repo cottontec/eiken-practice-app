@@ -1,6 +1,7 @@
 ---
 choices: a new threat appeared | more ships were available | ships only traveled at night | crews had to be paid more
 answerText: a new threat appeared
+reviewed: yes
 ---
 【正解】1 a new threat appeared（新たな脅威が現れた）
 【和訳】

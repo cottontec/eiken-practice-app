@@ -1,6 +1,7 @@
 ---
 choices: densely | virtually | flexibly | suspiciously
 answerText: densely
+reviewed: yes
 ---
 【正解】1 densely（密集して、ぎっしりと）
 【和訳】
