@@ -1,6 +1,7 @@
 ---
 choices: For example | In contrast | As a result | In exchange
 answerText: As a result
+reviewed: yes
 ---
 【正解】3 As a result（その結果）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: By doing such things | On the other hand | For these reasons | In the same way
 answerText: By doing such things
+reviewed: yes
 ---
 【正解】1 By doing such things（このようなことをすることで）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: will have been | has been | will be | was
 answerText: will have been
+reviewed: yes
 ---
 【正解】1 will have been（〔未来のある時点までに〕ずっと～していることになる）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: obvious | adequate | ridiculous | intensive
 answerText: adequate
+reviewed: yes
 ---
 【正解】2 adequate（十分な、足りている）
 【和訳】

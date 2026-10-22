@@ -1,6 +1,7 @@
 ---
 choices: in time for | for lack of | in danger of | of service to
 answerText: for lack of
+reviewed: yes
 ---
 【正解】2 for lack of（～が不足しているために）
 【和訳】

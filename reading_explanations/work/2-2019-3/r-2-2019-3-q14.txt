@@ -1,6 +1,7 @@
 ---
 choices: In place | By means | In terms | On top
 answerText: In terms
+reviewed: yes
 ---
 【正解】3 In terms（in terms of ～ で「～の点では、～に関しては」）
 【和訳】

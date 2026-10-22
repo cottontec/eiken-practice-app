@@ -1,6 +1,7 @@
 ---
 choices: The organs in the body have more functions than scientists originally believed. | The brains of adults are able to change more than previous researchers thought. | Some children’s experiences prevent their brains from growing over time. | Scientists are better at learning new information than other people.
 answerText: The brains of adults are able to change more than previous researchers thought.
+reviewed: yes
 ---
 【正解】2 The brains of adults are able to change more than previous researchers thought.（大人の脳は、以前の研究者たちが考えていたよりも変化することができる。）
 【和訳】

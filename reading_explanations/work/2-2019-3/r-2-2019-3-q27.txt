@@ -1,6 +1,7 @@
 ---
 choices: He does not know how to set up online banking. | He cannot log in to his online bank account. | He thinks someone tried to access his account. | He forgot to set a new password for his account.
 answerText: He cannot log in to his online bank account.
+reviewed: yes
 ---
 【正解】2 He cannot log in to his online bank account.（彼は、オンラインの銀行口座にログインできない。）
 【和訳】

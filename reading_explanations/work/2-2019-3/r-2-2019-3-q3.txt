@@ -1,6 +1,7 @@
 ---
 choices: liquids | barriers | vehicles | thermometers
 answerText: vehicles
+reviewed: yes
 ---
 【正解】3 vehicles（乗り物、車両）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: budget | scar | flame | label
 answerText: budget
+reviewed: yes
 ---
 【正解】1 budget（予算、使えるお金）
 【和訳】

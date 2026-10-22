@@ -1,6 +1,7 @@
 ---
 choices: commit | tremble | migrate | insist
 answerText: tremble
+reviewed: yes
 ---
 【正解】2 tremble（震える）
 【和訳】

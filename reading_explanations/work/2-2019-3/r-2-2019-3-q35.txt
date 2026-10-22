@@ -1,6 +1,7 @@
 ---
 choices: They examined adults to find out if learning to read changed their brains. | They opened a school to help Indian children learn to read and write. | They spent six months creating a special brain activity to improve schools in India. | They created a survey to find out what learning activities adults should participate in.
 answerText: They examined adults to find out if learning to read changed their brains.
+reviewed: yes
 ---
 【正解】1 They examined adults to find out if learning to read changed their brains.（彼らは、読み方を学ぶことで脳が変化するかどうかを確かめるために、大人たちを調べた。）
 【和訳】

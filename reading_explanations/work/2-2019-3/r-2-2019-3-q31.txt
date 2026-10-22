@@ -1,6 +1,7 @@
 ---
 choices: The number of people under the age of 25 that suffer from diseases such as cancer has increased rapidly. | The cost of providing healthcare is increasing because more people are living with serious illnesses. | People are unhappy with the way that governments try to prevent diseases. | People continue to cure illnesses in the same way they did a hundred years ago.
 answerText: The cost of providing healthcare is increasing because more people are living with serious illnesses.
+reviewed: yes
 ---
 【正解】2 The cost of providing healthcare is increasing because more people are living with serious illnesses.（重い病気をかかえて暮らす人が〔以前より〕増えているので、医療を提供するための費用が増えている。）
 【和訳】

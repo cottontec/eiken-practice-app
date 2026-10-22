@@ -1,6 +1,7 @@
 ---
 choices: accuracy | quantity | curiosity | poverty
 answerText: poverty
+reviewed: yes
 ---
 【正解】4 poverty（貧困、貧しさ）
 【和訳】

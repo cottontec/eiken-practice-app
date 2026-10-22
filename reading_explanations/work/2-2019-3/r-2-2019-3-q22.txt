@@ -1,6 +1,7 @@
 ---
 choices: become its only industry | decrease in the future | cause damage to the streets | make museums lose money
 answerText: become its only industry
+reviewed: yes
 ---
 【正解】1 become its only industry（その市の唯一の産業になる）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: needs batteries and wood | uses less money and more oil | is healthy and easy to use | is cheap and environmentally friendly
 answerText: is cheap and environmentally friendly
+reviewed: yes
 ---
 【正解】4 is cheap and environmentally friendly（安くて環境に優しい）
 【和訳】

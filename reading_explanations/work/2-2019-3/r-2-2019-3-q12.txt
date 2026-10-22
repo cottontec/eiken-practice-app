@@ -1,6 +1,7 @@
 ---
 choices: giving in | taking down | booking into | coming across
 answerText: taking down
+reviewed: yes
 ---
 【正解】2 taking down（take down で「書き留める」）
 【和訳】

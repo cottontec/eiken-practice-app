@@ -1,6 +1,7 @@
 ---
 choices: confess | respond | drag | frown
 answerText: respond
+reviewed: yes
 ---
 【正解】2 respond（返事をする、答える）
 【和訳】

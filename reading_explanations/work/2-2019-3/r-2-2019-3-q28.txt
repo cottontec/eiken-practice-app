@@ -1,6 +1,7 @@
 ---
 choices: It is sent after the username is changed. | It needs to be at least eight characters long. | Mr. Walters should call the bank to get one. | Mr. Walters needs one to fix his account.
 answerText: Mr. Walters needs one to fix his account.
+reviewed: yes
 ---
 【正解】4 Mr. Walters needs one to fix his account.（ウォルターズさんは、口座を直すためにそれが必要だ。）
 【和訳】

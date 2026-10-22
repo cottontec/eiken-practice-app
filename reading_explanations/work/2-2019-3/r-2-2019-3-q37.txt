@@ -1,6 +1,7 @@
 ---
 choices: create treatments for people who have trouble reading. | develop a surgery to fix problems on the surface of the brain. | help teachers who teach young children how to read. | discover new tools that can be used to develop children’s skills.
 answerText: create treatments for people who have trouble reading.
+reviewed: yes
 ---
 【正解】1 create treatments for people who have trouble reading.（読むことに苦労している人々のための治療法を生み出す。）
 【和訳】

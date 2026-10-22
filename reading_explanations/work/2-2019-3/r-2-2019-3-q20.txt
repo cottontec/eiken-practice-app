@@ -1,6 +1,7 @@
 ---
 choices: no telling where | no matter what | anything but | in which case
 answerText: no matter what
+reviewed: yes
 ---
 【正解】2 no matter what（何を～しても）
 【和訳】

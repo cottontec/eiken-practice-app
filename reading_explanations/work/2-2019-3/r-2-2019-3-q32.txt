@@ -1,6 +1,7 @@
 ---
 choices: They have harmed their bodies by doing too much exercise. | They are unable to produce as much DNA as they were able to do in the past. | Their DNA gets older and loses the ability to manage how the body works. | Their bodies need more food than the amount they are eating.
 answerText: Their DNA gets older and loses the ability to manage how the body works.
+reviewed: yes
 ---
 【正解】3 Their DNA gets older and loses the ability to manage how the body works.（その人たちのDNAが年をとり、体の働きを調節する力を失う。）
 【和訳】

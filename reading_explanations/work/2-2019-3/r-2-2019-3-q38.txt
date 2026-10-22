@@ -1,6 +1,7 @@
 ---
 choices: A group of 30 adults in India spent six months teaching at a school. | Dyslexia is a condition that prevents children from being able to go to school. | One function of deep areas of the brain is to control movements of the body. | Scientists believe that it is difficult for children’s brains to change.
 answerText: One function of deep areas of the brain is to control movements of the body.
+reviewed: yes
 ---
 【正解】3 One function of deep areas of the brain is to control movements of the body.（脳の深い部分の働きの1つは、体の動きを調節することである。）
 【和訳】

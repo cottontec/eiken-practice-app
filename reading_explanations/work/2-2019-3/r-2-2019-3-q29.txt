@@ -1,6 +1,7 @@
 ---
 choices: select some new security questions. | try to guess his password one more time. | call her at the customer support center. | find a safe place where he can use his computer.
 answerText: select some new security questions.
+reviewed: yes
 ---
 【正解】1 select some new security questions.（いくつかの新しい秘密の質問を選ぶ。）
 【和訳】

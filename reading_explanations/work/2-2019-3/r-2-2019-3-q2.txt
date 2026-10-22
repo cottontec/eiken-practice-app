@@ -1,6 +1,7 @@
 ---
 choices: innocently | visually | annually | objectively
 answerText: annually
+reviewed: yes
 ---
 【正解】3 annually（年に1回、毎年）
 【和訳】

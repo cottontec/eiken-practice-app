@@ -1,6 +1,7 @@
 ---
 choices: drawing | draw | have drawn | drawn
 answerText: drawn
+reviewed: yes
 ---
 【正解】4 drawn（描かれた）
 【和訳】

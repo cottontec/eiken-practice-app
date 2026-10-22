@@ -1,6 +1,7 @@
 ---
 choices: tolerate | stimulate | disturb | inform
 answerText: tolerate
+reviewed: yes
 ---
 【正解】1 tolerate（我慢する、耐える）
 【和訳】

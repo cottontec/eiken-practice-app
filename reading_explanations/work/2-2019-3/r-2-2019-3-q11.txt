@@ -1,6 +1,7 @@
 ---
 choices: trouble | love | vain | mind
 answerText: vain
+reviewed: yes
 ---
 【正解】3 vain（in vain で「むだに、むなしく」）
 【和訳】

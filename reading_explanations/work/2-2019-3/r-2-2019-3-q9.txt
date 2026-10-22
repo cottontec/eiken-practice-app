@@ -1,6 +1,7 @@
 ---
 choices: accompanied | constructed | estimated | stretched
 answerText: estimated
+reviewed: yes
 ---
 【正解】3 estimated（見積もった、およその数を考えた）
 【和訳】

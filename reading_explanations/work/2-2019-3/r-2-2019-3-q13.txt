@@ -1,6 +1,7 @@
 ---
 choices: by way | in charge | for fear | on behalf
 answerText: by way
+reviewed: yes
 ---
 【正解】1 by way（by way of ～ で「～を経由して、～回りで」）
 【和訳】

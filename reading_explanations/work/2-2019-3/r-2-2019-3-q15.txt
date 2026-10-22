@@ -1,6 +1,7 @@
 ---
 choices: change your mind | find your way | keep your word | raise your hand
 answerText: find your way
+reviewed: yes
 ---
 【正解】2 find your way（find one's way で「道を見つけて行く、たどり着く」）
 【和訳】

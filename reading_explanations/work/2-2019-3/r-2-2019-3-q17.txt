@@ -1,6 +1,7 @@
 ---
 choices: keeping up | standing up | giving out | working out
 answerText: working out
+reviewed: yes
 ---
 【正解】4 working out（work out で「運動する、体をきたえる」）
 【和訳】

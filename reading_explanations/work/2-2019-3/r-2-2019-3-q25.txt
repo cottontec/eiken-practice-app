@@ -1,6 +1,7 @@
 ---
 choices: help poor people find jobs | meet a wide range of needs | improve the health of young people | protect the environment from harm
 answerText: meet a wide range of needs
+reviewed: yes
 ---
 【正解】2 meet a wide range of needs（幅広いさまざまな必要を満たす）
 【和訳】

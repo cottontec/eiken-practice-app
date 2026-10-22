@@ -1,6 +1,7 @@
 ---
 choices: learned how to control the surface part of the brain better. | became able to read by using glasses to improve their eyesight. | sent information that they wrote down to the team of researchers. | showed changes in the way the deep areas of their brains worked.
 answerText: showed changes in the way the deep areas of their brains worked.
+reviewed: yes
 ---
 【正解】4 showed changes in the way the deep areas of their brains worked.（脳の深い部分の働き方に変化が見られた。）
 【和訳】

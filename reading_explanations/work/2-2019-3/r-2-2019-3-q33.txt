@@ -1,6 +1,7 @@
 ---
 choices: mice will be able to live for as long as humans live. | nicotinamide mononucleotide could be used instead of DNA in the body. | a chemical that is produced by mice can help people become stronger. | a medicine could be made to help old people live healthier lives.
 answerText: a medicine could be made to help old people live healthier lives.
+reviewed: yes
 ---
 【正解】4 a medicine could be made to help old people live healthier lives.（高齢者がより健康な生活を送るのに役立つ薬が作られるかもしれない。）
 【和訳】

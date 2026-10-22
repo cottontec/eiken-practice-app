@@ -1,6 +1,7 @@
 ---
 choices: masterpieces | debts | proposals | traps
 answerText: masterpieces
+reviewed: yes
 ---
 【正解】1 masterpieces（傑作、名作）
 【和訳】

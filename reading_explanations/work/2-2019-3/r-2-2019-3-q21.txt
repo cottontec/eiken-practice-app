@@ -1,6 +1,7 @@
 ---
 choices: provides better attractions | creates too many jobs | attracts too many visitors | improves its economy
 answerText: attracts too many visitors
+reviewed: yes
 ---
 【正解】3 attracts too many visitors（あまりにも多くの観光客を引きつける）
 【和訳】
