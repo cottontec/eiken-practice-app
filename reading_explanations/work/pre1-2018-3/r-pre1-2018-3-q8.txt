@@ -1,0 +1,30 @@
+---
+choices: tension | limitation | decency | accuracy
+answerText: decency
+---
+【正解】3 decency（礼儀、人としての当然の心づかい）
+【和訳】
+（英文）
+A: Did Jim come to your birthday party?
+B: No, he didn't. And what's more, he didn't even have the ［decency］ to let me know that he wasn't coming. I'm really angry with him about it.
+（訳）
+A：ジムはあなたの誕生日パーティーに来たの？
+B：ううん、来なかったよ。しかもそのうえ、来ないことを私に知らせる礼儀さえなかったんだ。そのことで、彼には本当に腹が立っているよ。
+（選択肢の意味）
+1 tension：緊張
+2 limitation：制限、限界
+3 decency：礼儀、人としての当然の心づかい
+4 accuracy：正確さ
+【考え方】
+まず見るところ：Bの文の he didn't even have the ( ) to let me know と、最後の I'm really angry with him
+Bは、ジムがパーティーに来なかったうえに、もう一つ腹の立つことがあったと話しています。
+And what's more, he didn't even have the ( ) to let me know that he wasn't coming.（しかもそのうえ、来ないことを私に知らせる（　）さえなかった）
+what's more は「そのうえ、さらに」、even は「～さえ」です。来られないなら連絡するのは、人として当然の心づかいです。それさえしなかったので、Bは I'm really angry with him（彼には本当に腹が立っている）と言っています。have the decency to ～ で「～する礼儀がある」という意味になるので、3が正解です。
+この問題の型：熟語・決まった形（have the decency to ～：～する礼儀がある）
+【ほかの選択肢】
+1 tension は「緊張」です。「知らせる緊張さえなかった」となり、Bが腹を立てている理由として意味が通りません。
+2 limitation は「制限、限界」です。「知らせる制限さえなかった」となり、意味が通りません。
+4 accuracy は「正確さ」です。「来ないことを知らせる正確さ」となり、連絡をしなかったことへの怒りとつながりません。
+【覚えるポイント】
+・have the decency to ～：「～する礼儀がある」。not even have the decency to ～ で「～する礼儀さえない」と、相手を責める言い方になります。
+・会話の最後に気持ち（ここでは I'm really angry）が書かれているときは、その気持ちの理由になる語が空所に入るかどうかを確かめましょう。

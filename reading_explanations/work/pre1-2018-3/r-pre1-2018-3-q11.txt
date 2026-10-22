@@ -1,0 +1,30 @@
+---
+choices: starve | accumulate | testify | litter
+answerText: accumulate
+---
+【正解】2 accumulate（積もる、たまる）
+【和訳】
+（英文）
+It snowed for two hours this morning, but the snow did not ［accumulate］ at all. The children are disappointed there is no snow to play in.
+（訳）
+今朝は2時間雪が降ったが、雪はまったく積もらなかった。子どもたちは、遊べる雪がないのでがっかりしている。
+（選択肢の意味）
+1 starve：飢える（食べ物がなくて苦しむ）
+2 accumulate：積もる、たまる
+3 testify：証言する
+4 litter：（ごみなどを）散らかす
+【考え方】
+まず見るところ：空所の前の but と、次の文の there is no snow to play in
+空所のある文は、but（しかし）で前後が対比（2つを比べて違いを示すこと）になっています。
+It snowed for two hours this morning, but the snow did not ( ) at all.（今朝は2時間雪が降ったが、雪はまったく（　）しなかった）
+「2時間も雪が降った」のに、何かが起こらなかったのです。次の文を見ます。
+The children are disappointed there is no snow to play in.（子どもたちは、遊べる雪がないのでがっかりしている）
+雪が降ったのに遊べる雪がないのは、雪が地面に積もらなかったからです。accumulate は「積もる、たまる」なので、2が正解です。
+この問題の型：対比（雪が降った ⇔ 積もらなかった）
+【ほかの選択肢】
+1 starve は「飢える」です。「雪がまったく飢えなかった」となり、意味が通りません。
+3 testify は「証言する」です。人が裁判などでするもので、「雪が証言しなかった」では意味が通りません。
+4 litter は「（ごみなどを）散らかす」です。「雪がまったく散らかさなかった」となり、遊べる雪がないことの理由になりません。
+【覚えるポイント】
+・accumulate：「積もる、たまる」。not ～ at all は「まったく～ない」です。
+・but の前と後で話が逆になっている文では、前の内容（雪が降った）から当然予想されることが「起こらなかった」と考えると、空所に入る語が見つかりやすくなります。
