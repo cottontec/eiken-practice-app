@@ -1,0 +1,29 @@
+---
+choices: ensure | exceed | resume | rejoice
+answerText: ensure
+---
+【正解】1 ensure（～を確実にする、確かにする）
+【和訳】
+（英文）
+To ［ensure］ that the food served in restaurants is safe to eat, health department officials check restaurant kitchens regularly.
+（訳）
+レストランで出される食べ物が安全に食べられることを（確実にする）ために、保健を担当する役所の職員は、レストランの調理場を定期的に検査する。
+（選択肢の意味）
+1 ensure：～を確実にする、確かにする
+2 exceed：～を超える、上回る
+3 resume：～を再開する
+4 rejoice：大喜びする
+【考え方】
+まず見るところ：文の後半の health department officials check restaurant kitchens regularly
+文の後半には、職員たちが何をしているかが書かれています。
+health department officials check restaurant kitchens regularly（保健を担当する役所の職員は、レストランの調理場を定期的に検査する）
+文の初めの To ( ) that ～ は、「～するために」と目的（何のためにするのか）を表しています。つまり、空所には「調理場を検査する目的」が入ります。
+検査をするのは、the food served in restaurants is safe to eat（レストランで出される食べ物が安全に食べられる）という状態を守るためだと考えられます。ensure that ～ は「～ということを確実にする」という意味なので、「食べ物が安全であることを確実にするために検査する」と自然につながります。ですから1が正解です。
+この問題の型：語の意味・組み合わせ（ensure that ～）
+【ほかの選択肢】
+2 exceed は「～を超える」です。「食べ物が安全に食べられることを超えるために検査する」となり、意味が通りません。
+3 resume は「～を再開する（いったん止めたことをまた始める）」です。「安全に食べられることを再開するために」となり、検査の目的として意味が通りません。
+4 rejoice は「大喜びする」です。「食べ物が安全なことを大喜びするために検査する」となり、職員が検査をする目的として合いません。
+【覚えるポイント】
+・ensure that ～：「～ということを確実にする、～となるように確かめる」。make sure that ～ とほぼ同じ意味です。
+・文の初めの To ～, は「～するために」という目的を表すことが多いので、後ろに書かれた行動（ここでは「定期的に検査する」）の目的として自然な語を選びましょう。
