@@ -1,0 +1,33 @@
+---
+choices: happen because our brains know that we will wake up soon. | occur more often after tests or other stressful events. | are experienced just as often as dreams about the past. | probably stay in our memories longer than other dreams.
+answerText: happen because our brains know that we will wake up soon.
+---
+【正解】1 happen because our brains know that we will wake up soon.（私たちの脳が、もうすぐ目が覚めることを分かっているから起こる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Wamsley suggests that dreams about future events（ワムズリーは、未来の出来事についての夢は～と示唆している〔それとなく示している〕。）
+1 happen because our brains know that we will wake up soon.（私たちの脳が、もうすぐ目が覚めることを分かっているから起こる。）
+2 occur more often after tests or other stressful events.（テストやそのほかのストレスの多い出来事のあとに、より多く起こる。）
+3 are experienced just as often as dreams about the past.（過去についての夢とちょうど同じくらいよく見られる。）
+4 probably stay in our memories longer than other dreams.（おそらく、ほかの夢より長く記憶に残る。）
+【考え方】
+まず見るところ：第4段落の One explanation that she offers is that ～
+第4段落で、ワムズリーは未来の出来事についての夢について、次のことに気づきました。
+Moreover, Wamsley observed that these dreams were more common later in the night.（さらに、ワムズリーは、こうした夢が、夜の早い時間よりも遅い時間のほうがよく見られることに気づいた）
+その理由として、彼女は次の説明を示しています。
+One explanation that she offers is that our brains are aware of time even while we are sleeping.（彼女が示している説明の1つは、私たちの脳は眠っている間でさえ時間を意識している、というものだ）
+As we get closer to the start of a new day, our attention switches from reviewing past events to thinking about future ones.（新しい一日の始まりが近づくにつれて、私たちの注意は、過去の出来事を見直すことから、未来の出来事について考えることへと切りかわる）
+脳が時間を意識していて、新しい一日の始まり（目覚めるとき）が近づくと、未来のことを考えるようになる、という説明です。
+本文と選択肢を対にすると、次のようになります。
+本文 our brains are aware of time（脳は時間を意識している）＋ As we get closer to the start of a new day（新しい一日の始まりが近づくにつれて）→ 読み取れること：脳はもうすぐ目が覚めることを分かっている ＝ 選択肢 happen because our brains know that we will wake up soon
+本文には「もうすぐ目が覚める」とそのまま書かれてはいませんが、「時間を意識している」「新しい一日の始まりが近づく」から、こう読み取れます。ですから1が正解です。
+この問題の型：推論（脳が時間を意識している → もうすぐ目覚めると分かっている）
+【ほかの選択肢】
+2 本文の such as upcoming tests or trips（近づいているテストや旅行など）は、これから先にある出来事です。テストなどの「あと」に多く起こるとは書かれていません。本文で「より多く見られる」と書かれているのは、夜の遅い時間です。
+3 本文では、夢の over half（半分以上）が経験の記憶と結びつき、未来の出来事と結びついていたのは about 25 percent（およそ25パーセント）です。未来の夢のほうが少ないので、「同じくらいよく見られる」とは言えません。
+4 未来の出来事についての夢が、ほかの夢より長く記憶に残るという話は本文にありません。
+【覚えるポイント】
+・be aware of ～：「～を意識している、～に気づいている」。
+・設問が suggests（示唆している）のときは、本文にそのままの言葉がなくても、書かれた内容から読み取れる選択肢が答えになることがあります。本文のどの文が根拠かを必ず確かめましょう。

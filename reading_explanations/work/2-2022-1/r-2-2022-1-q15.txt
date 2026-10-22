@@ -1,26 +1,32 @@
 ---
 choices: separate from | content with | based on | equal to
 answerText: content with
+reviewed: yes
 ---
 【正解】2 content with（～に満足している）
 【和訳】
 （英文）
 Since changing jobs, Neil has been much more ［content with］ his work-life balance. He is enjoying his new position, but he is also glad that he can spend more time with his family and friends.
 （訳）
-仕事を変えてから、ニールは自分のワークライフバランス（仕事と私生活のつり合い）に、（転職する前より）ずっと（満足しています）。彼は新しい職を楽しんでいますが、家族や友人と過ごす時間が（以前より）増えたこともうれしく思っています。
+仕事を変えてから、ニールは自分のワークライフバランス（仕事と私生活のつり合い）に、（転職する前より）ずっと（満足しています）。彼は新しい職を楽しんでいますが、家族や友人とより多くの時間を過ごせることもうれしく思っています。
 （選択肢の意味）
 1 separate from：～から離れた、～とは別の
 2 content with：～に満足している
 3 based on：～に基づいた
 4 equal to：～に等しい
 【考え方】
-あとの文に注目します。He is enjoying his new position（新しい職を楽しんでいる）、he is also glad that he can spend more time with his family and friends（家族や友人とより多くの時間を過ごせることもうれしく思っている）とあります。仕事も楽しく、私生活の時間も増えたので、ニールは今の仕事と私生活のつり合いに満足していると考えられます。
-空所のある文の has been much more ( ) his work-life balance は、「転職してから、ワークライフバランスに（以前より）ずっと（　）だ」という意味です。much more は「（比べたものより）ずっと～」という比較の形で、ここでは転職する前と比べています。
+まず見るところ：あとの文 He is enjoying his new position, but he is also glad ～
+He is enjoying his new position（彼は新しい職を楽しんでいる）
+he is also glad that he can spend more time with his family and friends（家族や友人とより多くの時間を過ごせることもうれしく思っている）
+仕事も楽しく、私生活の時間も取れるので、ニールは今の仕事と私生活のつり合いに満足していると考えられます。
+has been much more (　) his work-life balance（ワークライフバランスに、ずっと（　）だ）
+much more は「（比べたものより）ずっと～」という比較の形で、ここでは転職する前と比べています。
 be content with ～ は「～に満足している」という意味です。much more content with ～ で「～に（以前より）ずっと満足している」となり、あとの文の内容と合います。ですから、2が正解です。
+この問題の型：語の意味・組み合わせ（be content with ～）、推論（あとの文の気持ちから空所を考える）
 【ほかの選択肢】
 1 separate from は「～から離れた、～とは別の」です。「ワークライフバランスから（以前より）ずっと離れている」となり、仕事も私生活も充実しているというあとの文の内容と合いません。
 3 based on は「～に基づいた」です。「ワークライフバランスに（以前より）ずっと基づいている」となり、ニールの気持ちを表せず、意味が通りません。
 4 equal to は「～に等しい」です。「ニールがワークライフバランスに（以前より）ずっと等しい」となり、意味が通りません。
 【覚えるポイント】
 ・be content with ～：「～に満足している」。be satisfied with ～ とほぼ同じ意味です。
-・Since -ing：「～して以来」。has been とともに使い、「～して以来ずっと…だ」という意味になります。
+・空所の文だけでは決めにくいときは、あとに続く文の気持ち（enjoying, glad など）が、よい方向か悪い方向かを確かめると、空所の語の方向が決まります。

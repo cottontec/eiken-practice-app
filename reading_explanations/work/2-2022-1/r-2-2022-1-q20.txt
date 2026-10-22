@@ -1,28 +1,33 @@
 ---
 choices: started | will start | starting | to start
 answerText: started
+reviewed: yes
 ---
-【正解】1 started（It's time ＋主語＋過去形 で「もう～してもよいころだ」）
+【正解】1 started（It’s time ＋主語＋過去形 で「もう～してもよいころだ」）
 【和訳】
 （英文）
-A: Nicky, you're graduating from high school next year. It's time you ［started］ thinking about which university you want to go to.
-B: You're right, Dad, but I still don't know what I want to be in the future.
+A: Nicky, you’re graduating from high school next year. It’s time you ［started］ thinking about which university you want to go to.
+B: You’re right, Dad, but I still don’t know what I want to be in the future.
 （訳）
 A：ニッキー、来年、高校を卒業するね。どの大学に行きたいか、もう考え始めてもいいころだよ。
-B：そうだね、お父さん。でも、将来何になりたいのか、まだ分からないんだ。
+B：そうだね、お父さん。でも、将来何になりたいのか、まだ分からなくて。
 （選択肢の意味）
 1 started：始めた（start の過去形）
 2 will start：始めるだろう
 3 starting：始めること、始めている（-ing の形）
 4 to start：始めること、始めるために（to ＋動詞の形）
 【考え方】
-空所の前の It's time you に注目します。It's time ＋主語＋動詞の過去形 ～ は、「（主語が）もう～してもよいころだ」という意味の決まった言い方です。本当ならもうしていてもよいころなのに、まだしていない、という気持ちを表すため、今のことでも動詞を過去形にします。
-Aは you're graduating from high school next year（来年高校を卒業する）と言っています。進む大学を考え始める時期だと伝えているので、It's time you started thinking about ～（もう～について考え始めてもいいころだ）とすると、話が自然につながります。Bも You're right（そのとおりだね）と答えています。ですから、過去形の1が正解です。
+まず見るところ：空所の前の It’s time you
+It’s time you (　) thinking about which university you want to go to.（あなたがどの大学に行きたいかを考え始めてもいいころだ）
+It’s time ＋主語＋動詞の過去形 ～ は、「（主語が）もう～してもよいころだ」という意味の決まった言い方です。本当ならもうしていてもよいころなのに、まだしていない、という気持ちを表すため、今のことでも動詞を過去形にします。
+Nicky, you’re graduating from high school next year.（ニッキー、来年、高校を卒業するね）
+来年卒業するので、進む大学を考え始める時期だと伝えている場面です。It’s time you started thinking about ～ とすると、話が自然につながります。Bも You’re right（そのとおりだね）と答えています。ですから、過去形の1が正解です。
 start -ing は「～し始める」という意味です。
+この問題の型：文法（時制・語の形：It’s time ＋主語＋過去形）
 【ほかの選択肢】
-2 will start は「始めるだろう」という未来の形です。It's time you ～ の形では、you のあとに will start は使いません。
-3 starting は -ing の形で、これだけでは文の動詞になれません。It's time you starting ～ とは言えません。
-4 to start は「始めること、始めるために」という形です。It's time to start thinking ～ なら「考え始める時だ」と言えますが、この文は It's time you のあとに空所があるので、you to start という形にはなりません（for を入れた It's time for you to start ～ なら言えます）。
+2 will start は「始めるだろう」という未来の形です。It’s time you ～ の形では、you のあとに will start は使いません。
+3 starting は -ing の形で、これだけでは文の動詞になれません。It’s time you starting ～ とは言えません。
+4 to start は「始めること、始めるために」という形です。It’s time to start thinking ～ なら「考え始める時だ」と言えますが、この文は It’s time you のあとに空所があるので、you to start という形にはなりません（for を入れた It’s time for you to start ～ なら言えます）。
 【覚えるポイント】
-・It's time ＋主語＋過去形 ～：「（主語が）もう～してもよいころだ」。
-・It's time to ～：「～する時間だ」。主語を入れない形もあわせて覚えましょう。
+・It’s time ＋主語＋過去形 ～：「（主語が）もう～してもよいころだ」。
+・It’s time の直後に主語（you など）があり、そのあとの動詞の形を選ぶ問題では、「今のことなのに過去形」という決まった形を思い出します。It’s time to ～ のように主語を入れない形もあわせて覚えましょう。

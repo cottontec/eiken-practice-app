@@ -1,0 +1,31 @@
+---
+choices: concerned by their parents | reduced when they are full | influenced by the environment | important when they have a fever
+answerText: influenced by the environment
+---
+【正解】3 influenced by the environment（環境によって影響を受ける）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 concerned by their parents（親に心配される）
+2 reduced when they are full（おなかがいっぱいのときに低下する）
+3 influenced by the environment（環境によって影響を受ける）
+4 important when they have a fever（熱があるときに重要だ）
+【考え方】
+まず見るところ：第1段落の空所のあとの For example と、段落の最後の another very important environmental factor is the temperature
+The quality of people's sleep is greatly (21).（人々の睡眠の質は大きく（21））
+文章の最初の文です。For example（たとえば）が続くので、あとの具体例をまとめたものが空所に入ると考えます。
+・because of noise from their neighbors or busy roads（近所の人や交通量の多い道路からの騒音のせいで）
+・because of light coming in from outside and light from the screens of digital devices（外から入ってくる光や、デジタル機器の画面からの光のせいで）
+騒音や光のせいで眠れなかった、という例が並んでいます。どれも、眠る人の周りの様子が睡眠に関係しているという例です。
+However, many experts are saying that another very important environmental factor is the temperature.（しかし、多くの専門家は、もう1つのとても重要な環境の要因は温度だと言っている）
+another（もう1つの）environmental factor（環境の要因）とあるので、騒音や光も「環境の要因」として書かれていたことが分かります。
+influenced by the environment（環境によって影響を受ける）を入れると、「睡眠の質は環境によって大きく影響を受ける」となり、そのあとの例とつながります。ですから3が正解です。
+この問題の型：具体例とまとめ（騒音・光・温度→環境）
+【ほかの選択肢】
+1 concerned by their parents（親に心配される）は、本文に書かれていません。例として出てくるのは騒音や光で、親の話はありません。
+2 reduced when they are full（おなかがいっぱいのときに低下する）は、本文に書かれていません。食事についての例はありません。
+4 important when they have a fever（熱があるときに重要だ）は、本文に書かれていません。本文に出てくる温度は空気の温度や体の内部の温度で、熱が出たときの話ではありません。
+【覚えるポイント】
+・be influenced by ～：「～によって影響を受ける」。
+・文章の最初の文の空所のあとに For example が続くときは、そのあとの例に共通すること（ここでは environmental）をまとめた語句を選ぶと答えにつながります。

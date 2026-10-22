@@ -1,0 +1,30 @@
+---
+choices: inventing | educating | deceiving | pretending
+answerText: educating
+---
+【正解】2 educating（教育すること）
+【和訳】
+（英文）
+The new history teacher at Maple High School is very good at ［educating］ his students. They are learning a lot about the world from his classes.
+（訳）
+メープル高校の新しい歴史の先生は、自分の生徒たちを（教育する）のがとても上手です。生徒たちは彼の授業から、世界について多くのことを学んでいます。
+（選択肢の意味）
+1 inventing：発明すること
+2 educating：教育すること
+3 deceiving：だますこと
+4 pretending：ふりをすること
+【考え方】
+まず見るところ：2文目の They are learning a lot about the world from his classes.
+is very good at (　) his students（生徒たちを（　）するのがとても上手だ）
+be good at ～ は「～が上手だ」です。at のあとなので、動詞は -ing の形になっています。
+They are learning a lot about the world from his classes.（生徒たちは彼の授業から、世界について多くのことを学んでいる）
+They は his students（その先生の生徒たち）を指します。生徒たちは授業から多くを学んでいるのですから、先生は生徒を教えるのが上手だと考えられます。
+「教育する」という意味の educate の -ing 形 educating を入れると、「生徒たちを教育するのがとても上手だ」となり、2文目とつながります。ですから2が正解です。
+この問題の型：因果（教えるのが上手→生徒が多くを学んでいる）
+【ほかの選択肢】
+1 inventing は invent（発明する）の -ing 形です。「生徒たちを発明するのが上手だ」となり、意味が通りません。
+3 deceiving は deceive（だます）の -ing 形です。「生徒たちをだますのが上手だ」では、生徒たちが授業から多くを学んでいるという2文目と合いません。
+4 pretending は pretend（ふりをする）の -ing 形です。pretend は「～のふりをする」という意味で、「生徒たちのふりをするのが上手だ」となり、2文目の内容とつながりません。
+【覚えるポイント】
+・educate：「教育する」。名詞は education（教育）です。
+・2文目の They が1文目のだれを指すかを確かめると、1文目の空所でその人たちが何をされたのかが分かる手がかりになります。

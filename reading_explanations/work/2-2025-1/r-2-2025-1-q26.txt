@@ -1,0 +1,29 @@
+---
+choices: Call her to discuss library improvements. | Close the library to meet students. | Send their answers back by e-mail. | Attend the council's meeting on Wednesday.
+answerText: Send their answers back by e-mail.
+---
+【正解】3 Send their answers back by e-mail.（回答をメールで送り返す。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What does Jessica ask staff members to do after answering the questions?（ジェシカは職員たちに、質問に答えたあとで何をするように頼んでいますか。）
+1 Call her to discuss library improvements.（図書館をよりよくすることについて話し合うために、彼女に電話する。）
+2 Close the library to meet students.（生徒と会うために図書館を閉める。）
+3 Send their answers back by e-mail.（回答をメールで送り返す。）
+4 Attend the council's meeting on Wednesday.（水曜日の生徒会の会議に出席する。）
+【考え方】
+まず見るところ：第3段落の Please write your answers on the document and return it to me by e-mail.
+I have put together several questions in one document and am sending it with this e-mail.（いくつかの質問を1つの文書にまとめ、このメールといっしょに送る）
+Please write your answers on the document and return it to me by e-mail.（その文書に回答を書きこんで、メールで私に返送してください）
+Please ～ は「～してください」と頼む言い方です。回答を書きこむことの次に、return it to me by e-mail（それをメールで私に返す）ことを頼んでいます。it は回答を書きこんだ the document（文書）を指します。
+本文 return it to me by e-mail ＝ 選択肢 Send their answers back by e-mail
+return（返す）が send back（送り返す）に言いかえられています。ですから3が正解です。
+この問題の型：言いかえ（return → send back）／指示語（it ＝ the document）
+【ほかの選択肢】
+1 本文にはジェシカに電話するようにという依頼はありません。回答はメールで返すように頼んでいます。
+2 図書館を閉めるという話は本文にありません。ジェシカは、回答を受け取ったあと、職員の何人かを生徒会の会議に招きたいと書いているだけです。
+4 生徒会の会議は every Tuesday（毎週火曜日）と書かれていて、水曜日ではありません。曜日が違います。
+【覚えるポイント】
+・return ～ to me：「～を私に返す」。send ～ back（～を送り返す）と言いかえられることがあります。
+・「何をするように頼んでいるか」という設問では、Please ～ の文を探すと、答えの手がかりが見つかることが多いです。

@@ -71,10 +71,10 @@
     {
       "batchId": "2-2023-1",
       "target": 38,
-      "written": 33,
+      "written": 38,
       "contentReviewed": 0,
-      "status": "in_progress",
-      "blank": 5,
+      "status": "complete_unreviewed",
+      "blank": 0,
       "issues": 0,
       "checkErrors": 0,
       "checkWarnings": 0
@@ -104,10 +104,10 @@
     {
       "batchId": "2-2024-1",
       "target": 31,
-      "written": 20,
+      "written": 31,
       "contentReviewed": 0,
-      "status": "in_progress",
-      "blank": 11,
+      "status": "complete_unreviewed",
+      "blank": 0,
       "issues": 0,
       "checkErrors": 0,
       "checkWarnings": 0
@@ -126,10 +126,10 @@
     {
       "batchId": "2-2024-3",
       "target": 31,
-      "written": 6,
+      "written": 31,
       "contentReviewed": 0,
-      "status": "in_progress",
-      "blank": 25,
+      "status": "complete_unreviewed",
+      "blank": 0,
       "issues": 0,
       "checkErrors": 0,
       "checkWarnings": 0
@@ -148,12 +148,12 @@
     {
       "batchId": "2-2025-2",
       "target": 31,
-      "written": 2,
+      "written": 17,
       "contentReviewed": 0,
       "status": "in_progress",
-      "blank": 29,
+      "blank": 14,
       "issues": 0,
-      "checkErrors": 11,
+      "checkErrors": 0,
       "checkWarnings": 0
     },
     {
@@ -190,5 +190,5 @@
       "checkWarnings": 0
     }
   ],
-  "updatedAt": "2026-10-22T20:52:32+00:00"
+  "updatedAt": "2026-10-22T21:08:25+00:00"
 }

@@ -1,0 +1,31 @@
+---
+choices: People long ago believed that gods spoke to them through dreams. | People dream for more than half of the time that they are asleep. | Participants in Wamsley's study mostly had dreams about future events. | Participants in Wamsley's study were observed in their own homes.
+answerText: People long ago believed that gods spoke to them through dreams.
+---
+【正解】1 People long ago believed that gods spoke to them through dreams.（昔の人々は、神々が夢を通して自分たちに語りかけると信じていた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Which of the following statements is true?（次の記述のうち、正しいものはどれですか。）
+1 People long ago believed that gods spoke to them through dreams.（昔の人々は、神々が夢を通して自分たちに語りかけると信じていた。）
+2 People dream for more than half of the time that they are asleep.（人は、眠っている時間の半分より多くの時間、夢を見ている。）
+3 Participants in Wamsley's study mostly had dreams about future events.（ワムズリーの研究の参加者たちは、主に未来の出来事についての夢を見た。）
+4 Participants in Wamsley's study were observed in their own homes.（ワムズリーの研究の参加者たちは、自分の家で観察された。）
+【考え方】
+まず見るところ：第2段落の Ancient people believed that dreams were messages from gods.
+本文全体と照らし合わせて、正しいものを探す問題です。選択肢1の「昔の人々が信じていたこと」は、第2段落に書かれています。
+Ancient people believed that dreams were messages from gods.（古代の人々は、夢は神々からのメッセージだと信じていた）
+ancient は「古代の、大昔の」という意味です。
+本文と選択肢を対にすると、次のようになります。
+本文 Ancient people（古代の人々）＝ 選択肢 People long ago（昔の人々）
+本文 dreams were messages from gods（夢は神々からのメッセージだった）＝ 選択肢 gods spoke to them through dreams（神々が夢を通して自分たちに語りかけた）
+「夢が神々からのメッセージ」ということは、「神々が夢を通して語りかけている」ということです。ですから1が正解です。
+この問題の型：言いかえ（messages from gods ＝ gods spoke to them through dreams）
+【ほかの選択肢】
+2 第1段落には for about one-quarter of the time that they are asleep, they dream（眠っている時間のおよそ4分の1は夢を見ている）とあります。4分の1は半分より少ないので、本文と合いません。
+3 第3段落には over half the dreams could be connected to memories of experiences（夢の半分以上が、経験したことの記憶と結びつけられた）とあり、未来の出来事についての夢は about 25 percent（およそ25パーセント）でした。主に見たのは未来の夢ではないので、本文と合いません。
+4 第3段落には、参加者たちが spend the night at a special laboratory at the university（大学の特別な研究室で一晩過ごした）とあります。自分の家ではないので、本文と合いません。
+【覚えるポイント】
+・ancient：「古代の、大昔の」。long ago（昔）と言いかえられます。
+・「正しいものはどれか」という問題では、選択肢の数字（半分・25パーセントなど）や場所（家・研究室）を一つずつ本文と照らし合わせると、まちがいを見分ける手がかりになります。

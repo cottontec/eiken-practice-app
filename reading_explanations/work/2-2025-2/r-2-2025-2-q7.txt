@@ -1,0 +1,31 @@
+---
+choices: necessarily | surprisingly | continuously | faithfully
+answerText: surprisingly
+---
+【正解】2 surprisingly（驚くほど、意外にも）
+【和訳】
+（英文）
+A: How was your math test today, James?
+B: I did ［surprisingly］ well. I wasn't expecting to pass, but I ended up getting 82 percent.
+（訳）
+A：ジェームズ、今日の数学のテストはどうだった？
+B：（驚くほど）よくできたよ。合格するとは思っていなかったけれど、結局82パーセントの点をとったんだ。
+（選択肢の意味）
+1 necessarily：必ず、必然的に
+2 surprisingly：驚くほど、意外にも
+3 continuously：絶え間なく、続けて
+4 faithfully：忠実に、誠実に
+【考え方】
+まず見るところ：Bの I wasn't expecting to pass, but I ended up getting 82 percent.
+I wasn't expecting to pass, but I ended up getting 82 percent.（合格するとは思っていなかったけれど、結局82パーセントの点をとった。）
+but（しかし）の前と後ろで、内容が反対になっています。前は「合格すると思っていなかった」という予想、後ろは「82パーセントとった」という実際の結果です。
+I did ( ) well.（（　）よくできた。）
+予想していなかったよい結果が出たのですから、B自身が驚いたと考えられます。「驚くほど、意外にも」という意味の surprisingly を入れると、did surprisingly well（驚くほどよくできた）となり、うしろの説明とつながります。ですから2が正解です。
+この問題の型：対比（予想〔合格しないと思った〕⇔結果〔82パーセント〕）
+【ほかの選択肢】
+1 necessarily は「必ず、必然的に」です。「必ずよくできた」となり、合格するとは思っていなかったという話と合いません。necessarily は not necessarily（必ずしも～ではない）の形でよく使われます。
+3 continuously は「絶え間なく、続けて」です。今日の1回のテストについて「絶え間なくよくできた」とは言えず、意味が通りません。
+4 faithfully は「忠実に、誠実に」です。「忠実によくできた」となり、予想外によい点だったという話とつながりません。
+【覚えるポイント】
+・surprisingly：「驚くほど、意外にも」。予想と結果がちがうときに使います。
+・会話の中に「思っていなかったけれど（but）～だった」という説明があれば、予想と結果のちがいを表す語が空所に入る手がかりになります。

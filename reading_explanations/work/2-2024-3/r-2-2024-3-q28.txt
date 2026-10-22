@@ -1,0 +1,32 @@
+---
+choices: His work and pets kept him too busy. | His pictures and papers did not show enough of his past. | He always failed to keep a diary. | He was not ready to keep writing his journals as a scientist.
+answerText: His pictures and papers did not show enough of his past.
+---
+【正解】2 His pictures and papers did not show enough of his past.（彼の写真や書いたものは、彼の過去を十分には示していなかった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：How did Morris Villarroel feel when he turned forty?（モリス・ビジャロエルは、40歳になったときどう感じましたか。）
+1 His work and pets kept him too busy.（仕事とペットのせいで忙しすぎた。）
+2 His pictures and papers did not show enough of his past.（彼の写真や書いたものは、彼の過去を十分には示していなかった。）
+3 He always failed to keep a diary.（いつも日記をつけることに失敗していた。）
+4 He was not ready to keep writing his journals as a scientist.（科学者として日誌を書き続ける準備ができていなかった。）
+【考え方】
+まず見るところ：第2段落の When Villarroel turned forty, ～ と、そのあとの Even though he had some photos and journals, ～
+When Villarroel turned forty, he was not sure what he had done by then.（ビジャロエルは40歳になったとき、それまでに自分が何をしてきたのか、はっきりとは分からなかった）
+turn forty は「40歳になる」です。彼は、自分のこれまでの40年間のことがよく分からないと感じていました。
+Even though he had some photos and journals, they were not enough to explain his forty years.（写真や日誌がいくらかあったが、それらは彼の40年間を説明するには十分ではなかった）
+even though ～ は「～ではあるけれども」です。they は photos and journals（写真と日誌）を指します。
+本文と選択肢を対にすると、次のようになります。
+本文 photos and journals（写真と日誌）→ 選択肢 His pictures and papers（写真と書いたもの）
+本文 were not enough to explain his forty years（40年間を説明するには十分ではなかった）＝ 選択肢 did not show enough of his past（過去を十分には示していなかった）
+photos を pictures、journals（日誌）を papers（書いたもの）、his forty years を his past（過去）と言いかえているので、2が正解です。
+この問題の型：言いかえ（photos and journals → pictures and papers）
+【ほかの選択肢】
+1 本文にペットの話はありません。また、仕事が忙しすぎたとも書かれていません。
+3 本文には、彼が40歳の時点で journals（日誌）を持っていたと書かれています。いつも日記をつけるのに失敗していたとは書かれていません。
+4 本文で scientist（科学者）は、彼がどんな人かを紹介する言葉として使われているだけです。科学者として日誌を書き続ける準備ができていなかったとは書かれていません。
+【覚えるポイント】
+・Even though ～, they were not enough to ～：「～はあったけれども、それらは…するには十分ではなかった」。
+・人物の気持ちをたずねる設問では、設問の when he turned forty のような時の言葉を本文で探し、その直後の文を読むと根拠が見つかりやすいです。

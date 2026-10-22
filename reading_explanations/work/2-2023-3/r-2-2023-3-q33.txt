@@ -1,0 +1,31 @@
+---
+choices: To review data about the words that people most often look for in the dictionary. | To remove old information from a database so that new information can be added. | To come up with ideas to make the dictionary easier for people to use. | To make the final decision about changes to the content of the dictionary.
+answerText: To make the final decision about changes to the content of the dictionary.
+---
+【正解】4 To make the final decision about changes to the content of the dictionary.（辞書の内容の変更について、最終的な決定をすること。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one of the roles of a dictionary's senior editors?（辞書の上級編集者の役割の1つは何ですか。）
+1 To review data about the words that people most often look for in the dictionary.（人々が辞書で最もよく調べる語についてのデータを見直すこと。）
+2 To remove old information from a database so that new information can be added.（新しい情報を加えられるように、データベースから古い情報を取り除くこと。）
+3 To come up with ideas to make the dictionary easier for people to use.（辞書を人々にとってもっと使いやすくするためのアイデアを考え出すこと。）
+4 To make the final decision about changes to the content of the dictionary.（辞書の内容の変更について、最終的な決定をすること。）
+【考え方】
+まず見るところ：第4段落の they will ask their dictionary's senior editors for their approval
+If enough of them agree that a change should be made, they will ask their dictionary's senior editors for their approval.（十分な数の編集者が変更をするべきだと同意すれば、彼らは自分たちの辞書の上級編集者に承認を求める）
+approval は「承認（よいと認めること）」です。多くの編集者が賛成しても、変更するには上級編集者に認めてもらう必要があると分かります。
+Sometimes, the senior editors will decide that there is not enough evidence to support the suggested change.（ときには、上級編集者が、提案された変更を裏づける証拠が十分にないと判断することもある）
+上級編集者は、編集者たちが賛成した変更でも、認めないと決めることがあります。
+本文と選択肢を対にすると、次のようになります。
+本文 ask ～ senior editors for their approval / the senior editors will decide ～（上級編集者に承認を求める／上級編集者が判断する）→ 読み取れること：変更をするかどうかを最後に決めるのは上級編集者である ＝ 選択肢 To make the final decision about changes（変更について最終的な決定をすること）
+本文に final decision（最終的な決定）という言葉そのものはありませんが、編集者たちの検討のあとで上級編集者が承認するかどうかを決めるので、4が正解です。
+この問題の型：推論（承認を求められる立場→最終的に決める役割）
+【ほかの選択肢】
+1 人々が辞書で最もよく調べる語についてのデータという話は、本文にありません。本文の reviewed（見直される）は、集めた情報があとで見直せるようにデータベースに保存される、という話で出てきます。
+2 本文では、情報はデータベースに stored（保存される）とあります。古い情報を取り除くという話ではなく、だれがそれをするのかも書かれていません。
+3 辞書を使いやすくするアイデアを考え出すという話は、本文にありません。
+【覚えるポイント】
+・approval：「承認（よいと認めること）」。ask ～ for approval は「～に承認を求める」です。
+・選択肢の言葉（ここでは final decision）が本文にそのまま出てこなくても、だれが「認める・決める」立場かを本文からたどると、言いかえだと判断できることがあります。

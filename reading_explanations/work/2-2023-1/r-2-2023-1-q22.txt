@@ -12,15 +12,20 @@ answerText: more widely available
 3 harder to use（以前より使いにくい）
 4 more widely available（以前より広く利用できる）
 【考え方】
-空所は第2段落の Over time, however, they became (22). です。they は、この段落の初めに出てくる plastic credit cards（プラスチックのクレジットカード）を指しています。
-空所の直前の文を見ます。At first, their use was limited to wealthy people.（最初、その利用はお金持ちの人々に限られていた）とあります。be limited to ～ は「～に限られる」という意味です。
-空所の文は Over time, however,（しかし、時がたつにつれて）で始まっています。however（しかし）があるので、「お金持ちだけに限られていた」とは反対の内容、つまり「お金持ち以外の人も使えるようになった」という内容が続くと考えられます。
-4の more widely available は「（以前より）広く利用できる、より多くの人が手に入れられる」という意味です。「最初はお金持ちだけが使っていたが、時がたつにつれて広く利用できるようになった」となり、however の前後がうまく対比（2つを比べて違いを示すこと）になります。
-空所のあとの In the last few years, apps for smartphones that can be used in the same way as credit cards have also become popular.（ここ数年では、クレジットカードと同じように使えるスマートフォンのアプリも人気になっている）の also（～も）も、クレジットカードが多くの人に広まったことを受けていると考えられます。ですから4が正解です。
+まず見るところ：第2段落の At first, their use was limited to wealthy people. と、空所の文の however
+空所は第2段落の Over time, however, they became (22). です。they は、この段落の初めの plastic credit cards（プラスチックのクレジットカード）を指しています。
+空所の直前の文を見ます。be limited to ～ は「～に限られる」という意味です。
+At first, their use was limited to wealthy people.（最初、その利用はお金持ちの人々に限られていた）
+空所の文は Over time, however,（しかし、時がたつにつれて）で始まっています。however（しかし）があるので、「お金持ちだけに限られていた」とは反対の内容、つまり「ほかの人も使えるようになった」という内容が続くと考えられます。
+4の more widely available は「（以前より）広く利用できる」という意味です。「最初はお金持ちだけだったが、時がたつにつれて広く利用できるようになった」となり、however の前後が対比（2つを比べて違いを示すこと）になります。
+空所のあとにも、次の文があります。
+In the last few years, apps for smartphones that can be used in the same way as credit cards have also become popular.（ここ数年では、クレジットカードと同じように使えるスマートフォンのアプリも人気になっている）
+also（～も）は、クレジットカードが多くの人に広まったことを受けていると考えられます。ですから4が正解です。
+この問題の型：対比（At first ⇔ Over time, however）
 【ほかの選択肢】
 1 「以前より薄くて軽い」は、カードの形の話です。「お金持ちの人々に限られていた」という利用する人の話と、however で対比になりません。
 2 「以前より色あざやかで、わくわくさせる」も、カードの見た目の話です。利用する人が限られていたこととの対比にならず、本文にもカードの色の話はありません。
 3 「以前より使いにくい」は、次の文でカードと同じように使えるアプリも「人気になっている」と続く流れに合いません。利用が広まっていく話とも反対です。
 【覚えるポイント】
-・be limited to ～：「～に限られる」。
-・available：「利用できる、手に入る」。widely available で「広く利用できる」です。
+・be limited to ～：「～に限られる」。available は「利用できる、手に入る」です。
+・At first（最初は）のあとに however（しかし）が来たら、「最初の状態から変わった」内容が続く手がかりになります。最初の状態と反対になる選択肢を探しましょう。

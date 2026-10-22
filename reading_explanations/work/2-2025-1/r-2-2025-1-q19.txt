@@ -1,0 +1,27 @@
+---
+choices: Disappointingly | More importantly | Nevertheless | By contrast
+answerText: By contrast
+---
+【正解】4 By contrast（それとは対照的に）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Disappointingly（残念なことに、がっかりしたことに）
+2 More importantly（さらに重要なことに）
+3 Nevertheless（それにもかかわらず）
+4 By contrast（それとは対照的に）
+【考え方】
+まず見るところ：第2段落の空所の前の spreading their ears and raising their heads と、空所のあとの pull their ears back and put their heads down
+they try to make themselves look even bigger when they face a threat. They do so by spreading their ears and raising their heads.（ゾウは脅威に直面すると、自分をさらに大きく見せようとする。耳を広げ、頭を上げることでそうする）
+空所の前には、脅威に直面したときの動き（耳を広げ、頭を上げる）が書かれています。
+(19), when they show that they accept the others' authority, they pull their ears back and put their heads down.（（19）、ほかの者の権威を受け入れていることを示すときには、耳を後ろに引き、頭を下げる）
+空所のあとには、相手に従うことを示すときの動き（耳を後ろに引き、頭を下げる）が書かれています。「広げる⇔後ろに引く」「上げる⇔下げる」と、前後の動きは正反対です。2つのことを比べて違いを示すときに使う By contrast（それとは対照的に）を入れると、前後のつながりが分かりやすくなります。ですから4が正解です。
+この問題の型：対比（大きく見せる動き⇔従うことを示す動き）
+【ほかの選択肢】
+1 Disappointingly は「残念なことに」です。ゾウが耳を引いて頭を下げることを、書き手が残念がる理由は本文になく、前後のつながりになりません。
+2 More importantly は「さらに重要なことに」です。空所のあとの動きが前の動きより重要だとは書かれておらず、2つの動きは並べて比べられているだけなので、合いません。
+3 Nevertheless は「それにもかかわらず」で、前の内容から予想されることと反対のことが起こるときに使います。空所の前後は、脅威に直面したときと、従うことを示すときという別々の場面の動きで、「大きく見せようとするのに、それでも頭を下げる」という関係ではないので、合いません。
+【覚えるポイント】
+・By contrast：「それとは対照的に」。2つのことを比べて違いを示すときに使います。
+・空所の前後で「広げる⇔引く」「上げる⇔下げる」のように反対の動作や様子が並んでいたら、By contrast のような対比を表す語句が入る手がかりになります。

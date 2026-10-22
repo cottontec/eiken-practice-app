@@ -1,0 +1,30 @@
+---
+choices: To congratulate her on her first year as a member of the fitness center. | To tell her about changes to the price of one-year memberships. | To ask her to think about renewing her membership for another year. | To inform her about the opening of a fitness center in the West Valley area.
+answerText: To congratulate her on her first year as a member of the fitness center.
+---
+【正解】1 To congratulate her on her first year as a member of the fitness center.（フィットネスセンターの会員として1年を迎えたことを祝うため。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one reason this e-mail is being sent to Sarah Johnson?（このメールがサラ・ジョンソンに送られている理由の1つは何ですか。）
+1 To congratulate her on her first year as a member of the fitness center.（フィットネスセンターの会員として1年を迎えたことを祝うため。）
+2 To tell her about changes to the price of one-year memberships.（1年会員の料金の変更について知らせるため。）
+3 To ask her to think about renewing her membership for another year.（会員資格をもう1年更新することを考えるよう頼むため。）
+4 To inform her about the opening of a fitness center in the West Valley area.（ウエストバレー地域にフィットネスセンターが開業することを知らせるため。）
+【考え方】
+まず見るところ：第1段落の最初の文 ～ it makes me very happy to say congratulations on being a member for one year.
+設問は「メールを送った理由の1つ」です。メールでは、最初の部分に用件が書かれていることが多いので、第1段落の初めを読みます。
+As the customer service manager at West Valley Fitness Center, it makes me very happy to say congratulations on being a member for one year.（ウエストバレー・フィットネスセンターの顧客サービス責任者として、あなたが会員になって1年を迎えられたことにお祝いを申し上げられるのを、とてもうれしく思います）
+say congratulations on ～ は「～をお祝いする、～におめでとうと言う」という意味です。マックスは、サラが会員になって1年たったことを祝っています。
+第2段落も To celebrate your one year of membership（会員になって1年を迎えられたことをお祝いして）で始まり、お祝いとして無料のトレーニングを提供すると書かれています。
+本文 say congratulations on being a member for one year（会員になって1年を迎えたことをお祝いする）＝ 選択肢 congratulate her on her first year as a member（会員として1年を迎えたことを祝う）
+say congratulations on ～ が、congratulate 人 on ～（人の～を祝う）に言いかえられています。ですから1が正解です。
+この問題の型：言いかえ（say congratulations on ～ ＝ congratulate 人 on ～）
+【ほかの選択肢】
+2 1年会員の料金が変わるという話は、本文にありません。第3段落に「紹介した人には最初の1年間の会員料金を割り引く」とありますが、これは紹介された人への割引で、料金そのものの変更ではありません。
+3 会員資格の更新（期限が来たときに続けること）を考えるよう頼む話は、本文にありません。サラは会員になって1年を祝われていますが、「もう1年続けてほしい」とは書かれていません。
+4 フィットネスセンターが開業するという話はありません。サラはすでに1年前から会員で、本文に書かれているのは、センターに新しいサービスが加わったことです。
+【覚えるポイント】
+・congratulate 人 on ～：「人の～を祝う」。say congratulations on ～ もほぼ同じ意味です。
+・メールを送った理由をたずねる設問では、最初の段落に用件が書かれていることが多いので、まず冒頭の文と選択肢を見比べましょう。

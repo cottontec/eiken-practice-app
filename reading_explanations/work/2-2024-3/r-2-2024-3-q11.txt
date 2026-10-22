@@ -1,0 +1,29 @@
+---
+choices: in honor | for lack | at risk | on suspicion
+answerText: in honor
+---
+【正解】1 in honor（in honor of ～で「～に敬意を表して、～をたたえて」）
+【和訳】
+（英文）
+A statue was put up in front of city hall ［in honor］ of the city's first mayor.
+（訳）
+その市の最初の市長をたたえて（市長に敬意を表して）、市役所の前に像が建てられました。
+（選択肢の意味）
+1 in honor：（in honor of ～で）～に敬意を表して、～をたたえて
+2 for lack：（for lack of ～で）～が不足しているために
+3 at risk：（at risk of ～で）～の危険があって
+4 on suspicion：（on suspicion of ～で）～の疑いで
+【考え方】
+まず見るところ：空所のあとの of the city's first mayor
+A statue was put up in front of city hall（市役所の前に像が建てられた）
+put up は「（像や建物などを）建てる」という意味で、was put up は「建てられた」です。
+空所のあとには of the city's first mayor（市の最初の市長）が続きます。どの選択肢も of と組み合わせて熟語（いくつかの語が集まって決まった意味を表すもの）になるので、意味で選びます。
+市の最初の市長のために像を建てるのは、その人をたたえるためだと考えられます。in honor of ～ は「～に敬意を表して、～をたたえて」という意味です。「最初の市長をたたえて像が建てられた」となり、意味が通ります。ですから1が正解です。
+この問題の型：熟語・決まった形（in honor of ～）
+【ほかの選択肢】
+2 for lack of ～ は「～が不足しているために」です。「最初の市長が不足しているために像が建てられた」となり、意味が通りません。
+3 at risk of ～ は「～の危険があって」です。「最初の市長の危険があって像が建てられた」となり、意味が通りません。
+4 on suspicion of ～ は「～の疑いで」です。「最初の市長の疑いで像が建てられた」となり、像を建てる理由になりません。
+【覚えるポイント】
+・in honor of ～：「～に敬意を表して、～をたたえて」。像や式典などの話によく出てきます。
+・選択肢がどれも「前置詞＋名詞」で、あとに of が続くときは、of ～ まで含めた熟語の意味で比べると選びやすくなります。

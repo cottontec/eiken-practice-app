@@ -14,13 +14,17 @@ Ben's flight from New York to Tokyo will take about 14 hours. He will try to sle
 3 generation：世代
 4 destination：目的地、行き先
 【考え方】
-1文目から、ベンはニューヨークから東京へ、約14時間飛行機に乗ることが分かります。
-2文目の so that he will not be tired when he reaches his (　) に注目します。so that ～ は「～するように」、reach は「～に着く、到着する」という意味です。「彼の（　）に着いたときに疲れていないように」となるので、空所には「着く場所」が入ると考えられます。この旅では、それは東京です。
+まず見るところ：空所の前の when he reaches his
+Ben's flight from New York to Tokyo will take about 14 hours.（ニューヨークから東京へのベンの飛行機の旅は約14時間かかる）
+1文目から、ベンが長い時間、飛行機に乗ることが分かります。
+so that he will not be tired when he reaches his (　)（彼の（　）に着いたときに疲れていないように）
+so that ～ は「～するように」、reach は「～に着く、到着する」という意味です。空所には「着く場所」が入ると考えられ、この旅では東京がそれに当たります。
 destination は「目的地、行き先」という意味です。これを入れると「目的地に着いたときに疲れていないように、機内で眠ろうとする」となり、長い飛行機の旅の話とつながります。ですから4が正解です。
+この問題の型：語の意味・組み合わせ（reach one's destination）
 【ほかの選択肢】
 1 celebration は「お祝い、祝賀会」です。文の中にお祝いの話は出てこないので、「お祝いに着いたときに」では意味が通りません。
 2 reservation は「予約」です。予約は場所ではないので、reach（～に着く）とつながりません。
 3 generation は「世代」です。「世代に着いたときに」となり、意味が通りません。
 【覚えるポイント】
-・destination：「目的地、行き先」。旅行や荷物の届け先の話でよく使われます。
-・so that ～ will ...：「～が…するように」。目的を表す言い方です。
+・destination：「目的地、行き先」。旅行の話でよく使われます。
+・reach（～に着く）の後ろには場所を表す語がくるので、選択肢の中から「場所」を表す語をさがすと答えにたどりつけます。

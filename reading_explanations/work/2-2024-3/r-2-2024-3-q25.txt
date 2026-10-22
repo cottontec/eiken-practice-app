@@ -1,0 +1,33 @@
+---
+choices: asked students to show their opinions in the survey conducted last semester. | is useful for students to exchange their ideas in business situations. | helps students learn how to write good essays and reports using academic English. | presents grammar and vocabulary in a way that is interesting to students.
+answerText: presents grammar and vocabulary in a way that is interesting to students.
+---
+【正解】4 presents grammar and vocabulary in a way that is interesting to students.（文法や語彙を、生徒にとっておもしろい方法で示している。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Anastasia Jenkins says that English First（アナスタシア・ジェンキンズは、『イングリッシュ・ファースト』は～と言っている。）
+1 asked students to show their opinions in the survey conducted last semester.（先学期に行われた調査で、生徒に意見を示すよう求めた。）
+2 is useful for students to exchange their ideas in business situations.（生徒が仕事の場面で考えを伝え合うのに役立つ。）
+3 helps students learn how to write good essays and reports using academic English.（学問的な英語を使って、よい作文やレポートを書く方法を生徒が学ぶのを助ける。）
+4 presents grammar and vocabulary in a way that is interesting to students.（文法や語彙を、生徒にとっておもしろい方法で示している。）
+【考え方】
+まず見るところ：第2段落の On the other hand, English First is designed for beginners. からあとの部分
+English First is designed for beginners.（『イングリッシュ・ファースト』は初心者向けに作られている）
+On the other hand（一方）のあとから、『イングリッシュ・ファースト』の説明が始まります。
+This book does not just give students grammar and vocabulary, as traditional textbooks often do.（この本は、従来の教科書がよくそうしているように、ただ生徒に文法や語彙を与えるだけではない）
+not just ～ は「ただ～だけではない」という意味です。
+Instead, it also teaches these skills in stories that children of our students' age are more likely to enjoy.（そうではなく、生徒と同じ年ごろの子どもたちが楽しみやすい物語の中で、こうした技能も教えている）
+these skills（こうした技能）は、前の文の grammar and vocabulary（文法と語彙）を指します。are more likely to enjoy は「楽しむ可能性がより高い」、つまり「（ただ文法や語彙を与えられるよりも）楽しみやすい」ということです。
+本文と選択肢を対にすると、次のようになります。
+本文 teaches these skills（＝grammar and vocabulary） in stories that children ～ are more likely to enjoy（子どもたちが楽しみやすい物語の中で文法や語彙を教える）→ 選択肢 presents grammar and vocabulary in a way that is interesting to students（文法や語彙を、生徒にとっておもしろい方法で示している）
+「楽しみやすい物語の中で」を「生徒にとっておもしろい方法で」と言いかえているので、4が正解です。
+この問題の型：指示語（these skills＝文法と語彙）／言いかえ
+【ほかの選択肢】
+1 本文に、先学期の調査（survey）の話は書かれていません。
+2 仕事の場面（business situations）の話は、本文に書かれていません。また、実際に役立つコミュニケーションの技能に重点を置いているのは、『イングリッシュ・ファースト』ではなく『ユア・デイリー・イングリッシュ』です。
+3 作文やレポート、学問的な英語（academic English）の話は、本文に書かれていません。『イングリッシュ・ファースト』は初心者向けの本で、物語の中で文法や語彙を教えると説明されています。
+【覚えるポイント】
+・not just ～. Instead, it also …：「ただ～だけではない。そうではなく…もする」。Instead のあとに、その本の特徴が書かれています。
+・2つのものを比べる文章では、On the other hand（一方）を境に、どちらの説明なのかを分けて読むと、人物や物を取り違えずにすみます。

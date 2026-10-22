@@ -1,0 +1,28 @@
+---
+choices: a lack of workforce | the variety of fruits they make | poor farming conditions | bad weather throughout the year
+answerText: poor farming conditions
+---
+【正解】3 poor farming conditions（農業に不利な条件）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 a lack of workforce（労働力（働き手）の不足）
+2 the variety of fruits they make（彼らが作る果物の種類の多さ）
+3 poor farming conditions（農業に不利な条件）
+4 bad weather throughout the year（一年中続く悪い天気）
+【考え方】
+まず見るところ：第1段落の空所の前の they live on a steep mountain slope と it is difficult for them to use large areas of land
+As its name suggests, they live on a steep mountain slope.（その名前が示すとおり、彼らは険しい山の斜面に住んでいる）
+This means that it is difficult for them to use large areas of land for growing rice and other crops.（これは、彼らにとって、米やほかの作物を育てるために広い土地を使うのは難しいということを意味する）
+空所の前には、イフガオの人々が険しい斜面に住んでいて、作物を育てるための広い土地が使えないことが書かれています。これは農業をするうえで不利な点です。
+Due to (21), they have practiced creative ways.（（21）のために、彼らは工夫をこらした方法を実践してきた）
+due to ～ は「～のために、～が原因で」という意味です。工夫をこらした方法をとってきた原因として、前に書かれた「広い土地が使えない」という不利な点をまとめたものが入ると考えられます。poor farming conditions（農業に不利な条件）がそのまとめになるので、3が正解です。poor はここでは「貧しい」ではなく「よくない、不十分な」という意味です。
+この問題の型：具体例とまとめ（険しい斜面・広い土地がない ＝ 農業に不利な条件）／因果（due to ～）
+【ほかの選択肢】
+1 「労働力の不足」は、第3段落で若者が都市へ移ったあとの問題として出てきます（the lack of workers）。しかし、空所のある第1段落は、昔から斜面の田んぼを作ってきた理由を説明している部分で、そこには働き手の不足は書かれていません。時期が違うので合いません。
+2 「彼らが作る果物の種類の多さ」は本文に書かれていません。また、果物の種類が多いことは、工夫をこらした方法をとった原因になりません。
+4 「一年中続く悪い天気」も本文にありません。本文で問題とされているのは天気ではなく、険しい斜面で広い土地が使えないことです。
+【覚えるポイント】
+・due to ～：「～のために、～が原因で」。原因を表します。
+・Due to (　) のように空所に原因が入るときは、その前の文に書かれた具体的な状況（ここでは険しい斜面で広い土地が使えないこと）をまとめた語句を探すと、答えが見つかりやすくなります。

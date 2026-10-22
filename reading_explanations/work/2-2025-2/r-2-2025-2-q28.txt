@@ -1,0 +1,31 @@
+---
+choices: They opened and closed their mouths many times. | They compared the color of their body to that of the mirrored fish. | They tried to touch the fish in the mirror with their fins. | They began to swim in a different way than before.
+answerText: They began to swim in a different way than before.
+---
+【正解】4 They began to swim in a different way than before.（それまでとはちがうやり方で泳ぎ始めた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：How did the cleaner wrasses check if the fish in the mirror was themselves?（ホンソメワケベラは、鏡の中の魚が自分自身かどうかを、どのようにして確かめましたか。）
+1 They opened and closed their mouths many times.（何度も口を開けたり閉じたりした。）
+2 They compared the color of their body to that of the mirrored fish.（自分の体の色を、鏡に映った魚の体の色と比べた。）
+3 They tried to touch the fish in the mirror with their fins.（ひれで鏡の中の魚に触ろうとした。）
+4 They began to swim in a different way than before.（それまでとはちがうやり方で泳ぎ始めた。）
+【考え方】
+まず見るところ：第2段落の Later, they changed how they swam and checked if ～
+At first, they attacked their reflection.（初め、魚たちは鏡に映った自分の姿を攻撃した。）
+初めは、映った姿をほかの魚だと思っていたかもしれない、と書かれています。
+Later, they changed how they swam and checked if the fish in the mirror also changed how they swam.（その後、魚たちは自分の泳ぎ方を変え、鏡の中の魚も泳ぎ方を変えるかどうかを確かめた。）
+how they swam は「泳ぎ方」です。自分が泳ぎ方を変えたとき、鏡の中の魚も同じように変われば、それは自分の姿だと分かります。これが、魚たちが確かめた方法です。
+本文と選択肢を対にすると、次のようになります。
+本文 they changed how they swam ＝ 選択肢 They began to swim in a different way than before
+changed how they swam（泳ぎ方を変えた）が、swim in a different way than before（それまでとはちがうやり方で泳ぐ）に言いかえられています。ですから4が正解です。
+この問題の型：言いかえ（changed how they swam ＝ swim in a different way than before）
+【ほかの選択肢】
+1 口を開けたり閉じたりしたとは、本文に書かれていません。
+2 体の色を比べたとは、本文に書かれていません。本文で確かめたのは泳ぎ方です。
+3 ひれで触ろうとしたとは、本文に書かれていません。初めに映った姿を attacked（攻撃した）とはありますが、それはほかの魚だと思ったからかもしれないと説明されていて、自分かどうかを確かめるための行動とは書かれていません。
+【覚えるポイント】
+・how they swam：「彼らの泳ぎ方」。how ＋主語＋動詞で「～のしかた」という意味になります。
+・設問が How ～?（どのようにして）のときは、本文の中で「何をして」「何を確かめたか」が書かれた文を探し、その動作が選択肢でどう言いかえられているかを見ると答えの手がかりになります。

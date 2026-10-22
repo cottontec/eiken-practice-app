@@ -1,0 +1,30 @@
+---
+choices: plant trees | go shopping | drive cars | walk alone
+answerText: drive cars
+---
+【正解】3 drive cars（車を運転する）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 plant trees（木を植える）
+2 go shopping（買い物に行く）
+3 drive cars（車を運転する）
+4 walk alone（一人で歩く）
+【考え方】
+まず見るところ：第2段落の空所のすぐあとの With no cars, ～
+They wanted to prevent their community from being bright with lights.（彼らは、自分たちの地域が明かりで明るくなるのを防ぎたいと考えた）
+prevent ～ from -ing は「～が…するのを防ぐ」です。サークの人々は、島を明るくしたくなかったのです。
+Therefore, people cannot (19) on the streets of Sark.（そのため、サークの通りでは、人々は（19）ことができない）
+Therefore（そのため）は、前の文の結果を表します。島を明るくしないための決まりが入ると考えられます。
+With no cars, there is no need to place streetlights for safe driving.（車がないので、安全な運転のために街灯を設置する必要がない）
+直後の文で With no cars（車がないので）と説明しています。車が通らなければ、運転のための街灯もいらないので、島が明るくなりません。
+drive cars（車を運転する）を入れると、「サークの通りでは車を運転できない」となり、あとの文とつながります。ですから3が正解です。
+この問題の型：因果（Therefore／車がない→街灯がいらない）
+【ほかの選択肢】
+1 plant trees（木を植える）は、本文に書かれていません。木を植えることと、明かりや街灯の話は関係がありません。
+2 go shopping（買い物に行く）は、本文の They buy lights when they really need them.（本当に必要なときには明かりを買う）と合いません。島の人々は買い物をしています。
+4 walk alone（一人で歩く）は、本文の Walking and riding horses and bicycles are allowed（歩くことや、馬や自転車に乗ることは許されている）と合いません。歩くことは許されています。
+【覚えるポイント】
+・prevent ～ from -ing：「～が…するのを防ぐ」。
+・空所の文の直後に With no ～（～がないので）のような説明が続くときは、その「ない」ものが空所の内容の手がかりになります。

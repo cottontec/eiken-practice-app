@@ -1,0 +1,29 @@
+---
+choices: In other words | In the end | In a word | In contrast
+answerText: In contrast
+---
+【正解】4 In contrast（それとは対照的に）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 In other words（言いかえれば）
+2 In the end（結局、最後には）
+3 In a word（一言で言えば）
+4 In contrast（それとは対照的に）
+【考え方】
+まず見るところ：第3段落の空所の前の as many as 60,000 tourists come to the island と、あとの the island's population is getting smaller
+The number of people who visit the island is increasing.（島を訪れる人の数は増えている）
+Surprisingly, as many as 60,000 tourists come to the island every year.（驚いたことに、毎年6万人もの観光客がこの島にやって来る）
+空所の前では、島を訪れる人が「増えている」「6万人も来る」と書かれています。as many as ～ は「～もの（多くの）」と数の多さを強める言い方です。
+(20), the island's population is getting smaller.（（20）、島の人口は減ってきている）
+空所のあとでは、島に住む人の数が「減っている」と書かれています。訪れる人は増えているのに、住む人は減っているという、反対の内容が並んでいます。
+2つの反対の事柄をつなぐ In contrast（それとは対照的に）を入れると、前後のつながりが正しく表せます。ですから4が正解です。
+この問題の型：対比（観光客は増えている⇔人口は減っている）
+【ほかの選択肢】
+1 In other words（言いかえれば）は、前の内容を別の言葉で言いなおすときに使います。「観光客が増えている」を言いかえても「人口が減っている」にはならないので、合いません。
+2 In the end（結局、最後には）は、いろいろなことがあったあとの結末を述べるときに使います。人口が減っていることは、観光客が増えたことの結末として書かれているわけではないので、合いません。
+3 In a word（一言で言えば）は、前の内容を短くまとめるときに使います。「人口が減っている」は、観光客が増えているという前の内容のまとめではないので、合いません。
+【覚えるポイント】
+・In contrast：「それとは対照的に」。前後で反対の内容を比べるときに使います。
+・つなぎの言葉を選ぶ問題では、空所の前と後の内容を短くまとめて、「同じ向き」か「反対の向き」かを比べると答えにつながります。

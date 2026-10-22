@@ -1,0 +1,30 @@
+---
+choices: difficult to relax | fun to see the lights | easy to watch the stars | hard to open their shops
+answerText: difficult to relax
+---
+【正解】1 difficult to relax（くつろぐのが難しい）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 difficult to relax（くつろぐのが難しい）
+2 fun to see the lights（明かりを見るのが楽しい）
+3 easy to watch the stars（星を眺めるのが簡単だ）
+4 hard to open their shops（店を開くのが難しい）
+【考え方】
+まず見るところ：第1段落の However, others find it (18). と、そのすぐあとの When the night is too bright, ～
+By keeping lights on, people can see the roads well and feel relieved at night.（明かりをつけておくことで、人々は夜に道路がよく見え、安心することができる）
+ここまでは、明かりのよい点が書かれています。
+However, others find it (18).（しかし、（18）と感じる人々もいる）
+However（しかし）があるので、ここから明かりのよくない点に話が変わります。others は「ほかの人々」、find it ～ は「～だと感じる」です。
+When the night is too bright, the light can disturb people's sleep.（夜が明るすぎると、その光が人々の眠りをさまたげることがある）
+直後の文が、空所の内容の説明になっています。明るすぎて眠りをさまたげられるのですから、夜に落ち着いて休めない人がいるということです。
+difficult to relax（くつろぐのが難しい）を入れると、「明かりのせいでくつろぐのが難しいと感じる人もいる」となり、前後とつながります。ですから1が正解です。
+この問題の型：対比（安心できる人⇔くつろげない人）
+【ほかの選択肢】
+2 fun to see the lights（明かりを見るのが楽しい）は、明かりのよい点です。However（しかし）のあとで、しかも次の文が「光が眠りをさまたげる」という困った話なので、流れに合いません。
+3 easy to watch the stars（星を眺めるのが簡単だ）は、However（しかし）のあとの困った話になりません。また、第3段落では、驚くほど暗い空で知られている島で美しい星が見えると書かれていて、明るい夜に星が見やすいという内容は本文にありません。次の文の眠りの話ともつながりません。
+4 hard to open their shops（店を開くのが難しい）は、本文に書かれていません。第1段落にある businesses（会社やお店）の話は、明かりを一晩中つけているということで、店を開くのが難しいという話ではありません。
+【覚えるポイント】
+・find it ＋形容詞＋ to ～：「～するのは…だと感じる」。
+・However のあとの空所は、前の内容と反対の向きになることが多いので、直後の文の具体的な説明と合わせて考えましょう。

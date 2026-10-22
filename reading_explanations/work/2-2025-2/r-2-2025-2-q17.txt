@@ -1,0 +1,30 @@
+---
+choices: the other of | the most of | a kind of | a number of
+answerText: a number of
+---
+【正解】4 a number of（いくつもの、たくさんの）
+【和訳】
+（英文）
+There are ［a number of］ good reasons for studying a foreign language, such as meeting new people and finding a job in another country.
+（訳）
+外国語を勉強することには、新しい人々と出会うことや、外国で仕事を見つけることなど、（いくつもの）よい理由があります。
+（選択肢の意味）
+1 the other of：（2つのうちの）もう一方の
+2 the most of：（make the most of ～ の形で）～を最大限に利用する
+3 a kind of：一種の
+4 a number of：いくつもの、たくさんの
+【考え方】
+まず見るところ：文の始めの There are と、空所のうしろの good reasons
+There are ( ) good reasons for studying a foreign language（外国語を勉強することには、（　）よい理由がある）
+There are ～ は「～がある」で、are のあとには2つ以上のものが来ます。実際に reasons（理由）は -s のついた複数（2つ以上）の形です。
+such as meeting new people and finding a job in another country（新しい人々と出会うことや、外国で仕事を見つけることなど）
+such as ～ は「（たとえば）～など」と例を挙げる言い方です。理由の例が2つ挙げられていて、「など」とあるので、ほかにも理由があることが分かります。
+a number of ～ は「いくつもの～、たくさんの～」という意味で、後ろに複数の名詞を続けます。a number of good reasons（いくつものよい理由）とすると、There are や such as の例とつながります。ですから4が正解です。
+この問題の型：熟語・決まった形（a number of ＋複数の名詞）
+【ほかの選択肢】
+1 the other of は、the other が「（2つのうちの）もう一方」という意味ですが、the other of good reasons という形では使わず、意味も通りません。
+2 the most of は make the most of ～（～を最大限に利用する）のような決まった形で使う語句です。There are the most of good reasons という形にはならず、この文には入りません。
+3 a kind of は「一種の」です。ふつう1つのものについて「一種の～」と言うときに使うので、複数の reasons を受ける There are とは合いません。「一種のよい理由」では、例をいくつも挙げているこの文の意味ともつながりません。
+【覚えるポイント】
+・a number of ～：「いくつもの～、たくさんの～」。後ろには複数の名詞が来ます。
+・There are のあとの空所では、名詞が複数の形（ここでは reasons）になっているかを見て、それに合う語句を選ぶと答えの手がかりになります。

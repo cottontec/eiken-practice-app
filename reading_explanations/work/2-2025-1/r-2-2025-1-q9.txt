@@ -1,0 +1,31 @@
+---
+choices: balance | welfare | reputation | genius
+answerText: welfare
+---
+【正解】2 welfare（幸福、福祉）
+【和訳】
+（英文）
+A: Why are you going to Canada, Sarah?
+B: I'm going to work for an organization that helps children. I'm going to help people who are in need and try to improve their ［welfare］.
+（訳）
+A：サラ、どうしてカナダに行くの？
+B：子どもたちを助ける団体で働くことになっているんだ。困っている人たちを助けて、その人たちの（幸福）をよりよいものにしようと思っているよ。
+（選択肢の意味）
+1 balance：つり合い、バランス
+2 welfare：幸福、福祉（人々が健康で安心して暮らせること）
+3 reputation：評判
+4 genius：天才、すぐれた才能
+【考え方】
+まず見るところ：Bの an organization that helps children と people who are in need
+I'm going to work for an organization that helps children.（子どもたちを助ける団体で働くことになっている）
+サラは、子どもたちを助ける団体で働くためにカナダへ行きます。
+I'm going to help people who are in need and try to improve their (　).（困っている人たちを助けて、その人たちの（　）をよくしようと思っている）
+in need は「困っている、援助が必要な」という意味です。their は people who are in need（困っている人たち）を指します。困っている人たちを助ける仕事で「よくしよう」とするのは、その人たちの暮らしや幸せだと考えられます。welfare は「幸福、福祉（人々が健康で安心して暮らせること）」という意味で、improve their welfare で「その人たちの幸福（暮らし）をよりよくする」となります。ですから2が正解です。
+この問題の型：語の意味・組み合わせ（improve と、困っている人を助ける仕事）
+【ほかの選択肢】
+1 balance は「つり合い、バランス」です。「困っている人たちのバランスをよくする」では、何のつり合いなのか分からず、人を助ける仕事の説明として意味が通りません。
+3 reputation は「評判」です。困っている人たちを助ける話の中で「その人たちの評判をよくする」というのは、子どもを助ける団体の仕事の説明とつながりません。
+4 genius は「天才、すぐれた才能」です。「困っている人たちの天才をよくする」となり、意味が通りません。
+【覚えるポイント】
+・welfare：「幸福、福祉」。help people who are in need（困っている人を助ける）のような話題で、improve（よりよくする）のあとに置かれることがあります。
+・their などの代名詞が出てきたら、だれを指すかを前の部分（ここでは people who are in need）で確かめると、空所に合う語を選びやすくなります。

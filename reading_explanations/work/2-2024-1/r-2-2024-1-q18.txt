@@ -12,13 +12,18 @@ answerText: can be an expensive hobby
 3 used to be more popular（以前は（今より）もっと人気があった）
 4 can be an expensive hobby（お金のかかる趣味になることがある）
 【考え方】
-空所は第1段落の最後の文 Because of this, collecting muscle cars (18). です。「このため、マッスルカーを集めることは（18）」という意味です。
-Because of this（このため）の this が何を指すかを確かめます。直前の文は Muscle cars have large, powerful engines so that they can travel very fast, and many muscle cars are rare and very valuable.（マッスルカーはとても速く走れるように大きくて強力なエンジンを備えていて、多くのマッスルカーは珍しく、とても価値がある）です。
-特に rare（珍しい）と very valuable（とても価値がある）に注目します。珍しくて価値の高いものは、ふつう値段も高くなります。そういう車を集めるには、たくさんのお金が必要だと考えられます。ですから「お金のかかる趣味になることがある」という4が、this（珍しくて価値が高いこと）の結果としてつながります。can be ～ は「～になることがある」という意味です。
+まず見るところ：第1段落の最後の Because of this
+空所のある文は次のとおりです。
+Because of this, collecting muscle cars (18).（このため、マッスルカーを集めることは（18））
+Because of this（このため）の this が何を指すかを確かめます。直前の文は次のとおりです。
+Muscle cars have large, powerful engines so that they can travel very fast, and many muscle cars are rare and very valuable.（マッスルカーはとても速く走れるように大きくて強力なエンジンを備えていて、多くのマッスルカーは珍しく、とても価値がある）
+特に rare（珍しい）と very valuable（とても価値がある）に注目します。珍しくて価値の高いものは、ふつう値段も高くなります。そういう車を集めるには、たくさんのお金が必要だと考えられます。
+ですから「お金のかかる趣味になることがある」という4が、this（珍しくて価値が高いこと）の結果としてつながります。can be ～ は「～になることがある」という意味です。
+この問題の型：指示語（this＝珍しくて価値が高いこと）／因果（価値が高い→お金がかかる）
 【ほかの選択肢】
 1 「いくつかの場所で禁止された」は本文にありません。珍しくて価値が高いことは、禁止される理由にもなりません。本文はこのあと、今も人々が車を集めて楽しんでいる様子を説明しています。
 2 「子どもにとってはずっと簡単だ」も本文にありません。珍しくて価値の高い車を集めることが、子どもにとって簡単になる理由は書かれていません。
 3 「以前はもっと人気があった」は、集めることの人気が下がったという意味になりますが、そのような話は本文にありません。第2段落の the most popular ones were made over fifty years ago（最も人気のあるものは50年以上前に作られた）は、人気のある車がいつ作られたかの話で、集めることの人気の話ではありません。
 【覚えるポイント】
-・Because of this：「このため」。this が直前の内容を指し、そのあとに結果がきます。
 ・valuable：「価値がある、高価な」。value（価値）に -able がついた形です。
+・Because of this のあとが空所のときは、this が指す直前の内容を確かめ、その「結果」として自然なものを選ぶと手がかりになります。

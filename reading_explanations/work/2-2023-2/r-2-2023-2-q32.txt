@@ -2,29 +2,31 @@
 choices: It was not suitable for use with modern farming technology. | Scientists created types of wheat that gave greater numbers of seeds. | People wanted to buy flour that tasted better and was healthier. | Chemicals that kill insects destroyed many purple straw wheat plants.
 answerText: Scientists created types of wheat that gave greater numbers of seeds.
 ---
-【正解】2 Scientists created types of wheat that gave greater numbers of seeds.（科学者たちが、より多くの種子を実らせる種類の小麦を作り出した。）
+【正解】2 Scientists created types of wheat that gave greater numbers of seeds.（科学者たちが、〔それまでの種類より〕多くの種子を実らせる種類の小麦を作り出した。）
 【和訳】
 ＜本文の全訳＞
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
-設問：20世紀に、人々がパープルストロー小麦を育てるのをやめたのはなぜですか。
+設問：Why did people stop growing purple straw wheat in the 20th century?（20世紀に、人々がパープルストロー小麦を育てるのをやめたのはなぜですか。）
 1 It was not suitable for use with modern farming technology.（近代的な農業技術といっしょに使うのに適していなかった。）
-2 Scientists created types of wheat that gave greater numbers of seeds.（科学者たちが、（それまでより）多くの種子を実らせる種類の小麦を作り出した。）
-3 People wanted to buy flour that tasted better and was healthier.（人々が、（それまでより）おいしくて健康によい小麦粉を買いたがった。）
+2 Scientists created types of wheat that gave greater numbers of seeds.（科学者たちが、〔それまでの種類より〕多くの種子を実らせる種類の小麦を作り出した。）
+3 People wanted to buy flour that tasted better and was healthier.（人々が、よりおいしくて健康によい小麦粉を買いたがった。）
 4 Chemicals that kill insects destroyed many purple straw wheat plants.（虫を殺す化学薬品が、多くのパープルストロー小麦の株をだめにした。）
 【考え方】
-第2段落の最後に、パープルストロー小麦は until the mid-20th century（20世紀半ばまで）広く栽培され続けたとあります。そのあと何が起きたかは、第3段落に書かれています。
+まず見るところ：第3段落の In the 1960s, scientists developed new types of wheat ～ と These new types produced more seeds per plant ～
 In the 1960s, scientists developed new types of wheat by mixing the genes of existing ones.（1960年代に、科学者たちは、すでにある種類の小麦の遺伝子を混ぜ合わせることで、新しい種類の小麦を開発した）
 These new types produced more seeds per plant and were better able to resist diseases.（これらの新しい種類は、1株あたりにより多くの種子を実らせ、また病気にもより強かった）
-そして段落の最後に、this type of wheat almost completely went out of use（この種類の小麦〔パープルストロー小麦〕はほとんど完全に使われなくなった）とあります。go out of use は「使われなくなる」という意味です。新しい種類の小麦が開発され、より多くの種子がとれるようになったことが、パープルストロー小麦が使われなくなった原因だと分かります。
+this type of wheat almost completely went out of use（この種類の小麦はほとんど完全に使われなくなった）
+段落の最後のこの部分の this type of wheat は、パープルストロー小麦を指しています。go out of use は「使われなくなる」という意味です。新しい種類の小麦が開発され、より多くの種子がとれるようになったことが、パープルストロー小麦が使われなくなった原因だと分かります。
 本文と選択肢を対にすると、次のようになります。
 本文 scientists developed new types of wheat（科学者たちが新しい種類の小麦を開発した）＝ 選択肢 Scientists created types of wheat（科学者たちが～な種類の小麦を作り出した）
 本文 produced more seeds per plant（1株あたりにより多くの種子を実らせた）＝ 選択肢 gave greater numbers of seeds（より多くの数の種子を実らせた）
 ですから2が正解です。
+この問題の型：因果（新しい種類の開発 → 使われなくなった）
 【ほかの選択肢】
 1 本文には、農家が近代的な農業技術を新しい種類の小麦といっしょに使ったことは書かれていますが、パープルストロー小麦が近代的な農業技術に合わなかったとは書かれていません。
-3 本文には Although flour from purple straw wheat is tastier and healthier（パープルストロー小麦から作った小麦粉のほうがおいしくて健康によいのだが）とあります。おいしくて健康によいのはパープルストロー小麦の粉のほうなので、人々がそういう粉を求めたことは、パープルストロー小麦をやめた理由になりません。
+3 本文には Although flour from purple straw wheat is tastier and healthier（パープルストロー小麦から作った小麦粉のほうがおいしくて健康によいのだが）とあります。おいしくて健康によいのはパープルストロー小麦の粉のほうなので、そういう粉を求めたことは、パープルストロー小麦をやめた理由になりません。
 4 本文の chemicals that kill insects（虫を殺す化学薬品）は、農家が新しい小麦を大量に作るために使ったものとして出てきます。その薬品がパープルストロー小麦の株をだめにしたとは書かれていません。
 【覚えるポイント】
 ・go out of use：「使われなくなる」。
-・per ～：「～につき、～あたり」。more seeds per plant で「1株あたりより多くの種子」です。
+・Although ～（～だけれども）の文は、前半と後半が反対の向きになります。前半のよい点（おいしくて健康によい）を、やめた理由と取りちがえないように読むことが大切です。

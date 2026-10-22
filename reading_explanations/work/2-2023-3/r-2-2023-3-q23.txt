@@ -12,15 +12,18 @@ answerText: Overall
 3 Furthermore（さらに）
 4 Overall（全体として見ると、全体的に）
 【考え方】
-空所は第3段落の最後の文の初め、(23), climbing can be a good way to help reduce stress.（（23）、クライミングはストレスを減らすのに役立つよい方法になりうる）です。前の2文との関係を考えます。
-・Researchers have found that people experience stress while they are climbing.（研究者たちは、人々が登っている間にストレスを感じることを発見した）
-・However, it has also been found that climbers get very strong feelings of relief when they finish.（しかし、クライマーが登り終えたときに、とても強い安心感を得ることも分かっている）
-1つ目は「登っている間はストレスを感じる」というよくない面、2つ目は However（しかし）のあとの「登り終えるととても強い安心感を得る」というよい面です。最後の文の「ストレスを減らすのによい方法になりうる」は、この2つを合わせて考えたときのまとめ（結論）になっています。
-Overall は「全体として見ると」という意味で、いくつかのことを合わせて考えた結論を述べるときに使います。これを入れると「登っている間はストレスがあるが、登り終えると強い安心感がある。全体として見ると、クライミングはストレスを減らすよい方法になりうる」となります。ですから4が正解です。
+まず見るところ：第3段落の空所の前の2文（people experience stress と However, ～ feelings of relief）
+Researchers have found that people experience stress while they are climbing.（研究者たちは、人々が登っている間にストレスを感じることを発見した）
+1つ目は、登っている間はストレスを感じるという、よくない面です。
+However, it has also been found that climbers get very strong feelings of relief when they finish.（しかし、クライマーが登り終えたときに、とても強い安心感を得ることも分かっている）
+2つ目は、However（しかし）のあとの、登り終えるととても強い安心感を得るという、よい面です。
+(23), climbing can be a good way to help reduce stress.（（23）、クライミングはストレスを減らすのに役立つよい方法になりうる）
+この文は、前の2つを合わせて考えたときのまとめ（結論）になっています。Overall は「全体として見ると」という意味で、いくつかのことを合わせて考えた結論を述べるときに使います。ですから4が正解です。
+この問題の型：対比（ストレス⇔安心感）／具体例とまとめ（Overall で結論）
 【ほかの選択肢】
 1 To begin with は「まず初めに」です。いくつかのことを順に挙げるときの最初に使う言葉なので、段落の最後のまとめの文には合いません。
 2 Besides は「そのうえ」です。前の内容とは別の点を付け加えるときに使います。最後の文は、前の2文と別の新しい点ではなく、前の2文から言えることなので、つながりが合いません。
-3 Furthermore は「さらに」です。Besides と同じように新しい点を付け加える言葉なので、前の2文をまとめた結論を述べる最後の文とは合いません。
+3 Furthermore は「さらに」です。Besides と同じように新しい点を付け加える言葉なので、前の2文をまとめた結論を述べる文とは合いません。
 【覚えるポイント】
 ・Overall：「全体として見ると、全体的に」。よい面とよくない面などを合わせて考えた結論を言うときに使います。
-・Besides / Furthermore：「そのうえ」「さらに」。別の点を付け加えるときに使います。
+・空所のある文が、前に書かれたことを合わせた結論になっていれば、付け加え（Besides・Furthermore）ではなくまとめの言葉が入ると考えましょう。

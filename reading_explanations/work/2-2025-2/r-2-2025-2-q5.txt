@@ -1,0 +1,30 @@
+---
+choices: accepted | flattened | gripped | promised
+answerText: gripped
+---
+【正解】3 gripped（〔注意・関心を〕強く引きつけた）
+【和訳】
+（英文）
+Matthew's story ［gripped］ his friends' attention completely. They hardly noticed how much time had passed while he was telling it.
+（訳）
+マシューの話は、友人たちの注意を完全に（引きつけ）ました。彼がその話をしている間、友人たちはどれほど時間がたったのかにほとんど気づきませんでした。
+（選択肢の意味）
+1 accepted：受け入れた
+2 flattened：平らにした
+3 gripped：しっかりつかんだ、（注意・関心を）強く引きつけた
+4 promised：約束した
+【考え方】
+まず見るところ：うしろの文の They hardly noticed how much time had passed
+They hardly noticed how much time had passed while he was telling it.（彼がその話をしている間、友人たちはどれほど時間がたったのかにほとんど気づかなかった。）
+hardly は「ほとんど～ない」という否定の意味の語です。時間がたつのを忘れるほど、友人たちはマシューの話に夢中になっていたことが分かります。
+Matthew's story ( ) his friends' attention completely.（マシューの話は友人たちの注意を完全に（　）。）
+grip は「しっかりつかむ」という意味の動詞です。attention（注意）といっしょに使うと、「注意を強く引きつける、夢中にさせる」という意味になります。
+gripped his friends' attention completely（友人たちの注意を完全に引きつけた）とすると、時間を忘れて聞き入っていたといううしろの文とつながります。ですから3が正解です。
+この問題の型：語の意味・組み合わせ（grip ＋ attention）
+【ほかの選択肢】
+1 accepted は accept（受け入れる）の過去形です。「話が友人たちの注意を受け入れた」となり、意味が通りません。
+2 flattened は flatten（平らにする）の過去形です。「話が友人たちの注意を平らにした」となり、意味が通りません。
+4 promised は promise（約束する）の過去形です。「話が友人たちの注意を約束した」となり、時間を忘れて聞き入ったという話とつながりません。
+【覚えるポイント】
+・grip someone's attention：「（人の）注意を強く引きつける」。grip のもとの意味は「しっかりつかむ」です。
+・hardly（ほとんど～ない）のような否定の語があるときは、それを落とさずに読むと、前の文の様子（ここでは話に夢中だったこと）を知る手がかりになります。

@@ -1,0 +1,32 @@
+---
+choices: people who have been members for over one year. | people who register for membership by e-mail. | people who agree to purchase new services. | people who are introduced by other members.
+answerText: people who are introduced by other members.
+---
+【正解】4 people who are introduced by other members.（ほかの会員から紹介された人々。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Max Harper says that there is a discount for（マックス・ハーパーは、～には割引があると言っている。）
+1 people who have been members for over one year.（1年より長く会員である人々）
+2 people who register for membership by e-mail.（メールで会員登録をする人々）
+3 people who agree to purchase new services.（新しいサービスを買うことに同意する人々）
+4 people who are introduced by other members.（ほかの会員から紹介された人々）
+【考え方】
+まず見るところ：第3段落の最後の2文 if there's anyone you'd like to recommend our gym to, let us know! と We'll offer them a discount ～
+設問の discount（割引）という語が、本文では第3段落の最後に出てきます。その前の文といっしょに読みます。
+Finally, if there's anyone you'd like to recommend our gym to, let us know!（最後に、私たちのジムを紹介したい方がいらっしゃれば、お知らせください！）
+We'll offer them a discount on their first year of membership.（その方には、最初の1年間の会員料金を割り引きいたします）
+them は、直前の文の anyone you'd like to recommend our gym to（あなたが私たちのジムを紹介したい人）を指しています。つまり、割引を受けられるのは、会員のサラがジムを紹介した人です。
+本文 anyone you'd like to recommend our gym to（会員のあなたがジムを紹介したい人）
+→ 読み取れること：会員のサラから紹介された人は、割引を受けられる
+選択肢 people who are introduced by other members（ほかの会員から紹介された人々）
+メールは会員のサラに向けて書かれているので、「サラが紹介した人」は、選択肢では「ほかの会員から紹介された人」と表されています。ですから4が正解です。
+この問題の型：指示語（them ＝ 紹介したい人）／言いかえ（recommend ～ to 人 → be introduced by members）
+【ほかの選択肢】
+1 1年以上会員である人への割引は、本文にありません。会員になって1年のサラに提供されるのは、割引ではなく、無料のパーソナルトレーニング1回と、会員限定の健康セミナーへの招待です。
+2 メールで会員登録をする人への割引は、本文にありません。本文でメールが出てくるのは、新しいサービスなどへの意見を伝えるときに「このメールに返信してください」と書かれている部分です。
+3 新しいサービスを買うことに同意する人への割引も、本文にありません。新しいサービスについては、加えたことの紹介と、意見を歓迎するという話だけです。
+【覚えるポイント】
+・recommend ～ to 人：「～を人にすすめる、紹介する」。
+・them や they のような指示語（前に出た内容を指す語）があるときは、直前の文のどの人を指すかを確かめると、だれが割引を受けられるのかのような細かい条件を正しく読み取れます。

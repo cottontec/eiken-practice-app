@@ -12,14 +12,19 @@ answerText: react so quickly
 3 hear such sounds（そのような音を聞く）
 4 lift such weights（そのような重さのものを持ち上げる）
 【考え方】
-空所は第1段落の Athletics organizations argue that no human can (24).（陸上競技の団体は、どんな人間も（24）ことはできないと主張している）です。no human can ～ は「どんな人間も～できない」という意味です。
-空所の前の文を確かめます。if an athlete moves before 0.1 seconds have passed after the shot is fired, this is also a false start（号砲が撃たれたあと0.1秒がたつ前に選手が動いた場合、これもフライングになる）とあります。つまり、号砲のあと0.1秒より早く動くと、ルール違反になるということです。
-空所のあとの文も見ます。They say that such an athlete must have been guessing when the shot would be fired rather than waiting to hear it.（そのような選手は、号砲を聞くのを待つのではなく、いつ号砲が撃たれるかを予想していたにちがいない、と彼らは言う）とあります。must have ＋過去分詞は「～したにちがいない」という意味です。
-団体の考えは、「人間は号砲を聞いてから0.1秒より早く動くことはできない。だから、そんなに早く動いた選手は、音を聞いて動いたのではなく、予想して動いたのだ」というものです。react so quickly（そんなに速く反応する）を入れると「どんな人間もそんなに速く反応することはできない」となり、前後の文とつながります。ですから1が正解です。
+まず見るところ：第1段落の空所の前の before 0.1 seconds have passed と、あとの guessing ～ rather than waiting to hear it
+Athletics organizations argue that no human can (24).（陸上競技の団体は、どんな人間も（24）ことはできないと主張している）
+no human can ～ は「どんな人間も～できない」という意味です。
+if an athlete moves before 0.1 seconds have passed after the shot is fired, this is also a false start（号砲が撃たれたあと0.1秒がたつ前に選手が動いた場合、これもフライングになる）
+号砲のあと0.1秒より早く動くと、ルール違反になるということです。
+They say that such an athlete must have been guessing when the shot would be fired rather than waiting to hear it.（そのような選手は、号砲を聞くのを待つのではなく、いつ号砲が撃たれるかを予想していたにちがいない、と彼らは言う）
+must have ＋過去分詞は「～したにちがいない」という意味です。団体の考えは、「人間は号砲を聞いてから0.1秒より早く動くことはできない。だから、そんなに早く動いた選手は、音を聞いて動いたのではなく予想して動いたのだ」というものです。
+react so quickly を入れると「どんな人間もそんなに速く反応することはできない」となり、前後の文とつながります。ですから1が正解です。
+この問題の型：推論（0.1秒より前に動く → 予想して動いた）
 【ほかの選択肢】
 2 jump so high を入れると「どんな人間もそんなに高く跳ぶことはできない」となります。この段落は、号砲のあとどれだけ早く動けるかという時間の話なので、跳ぶ高さは関係がありません。
 3 hear such sounds を入れると「どんな人間もそのような音を聞くことはできない」となります。しかし、空所のあとの文では、選手は本来 waiting to hear it（号砲を聞くのを待つ）べきだと述べられており、号砲の音は聞こえることが前提になっています。
-4 lift such weights を入れると「どんな人間もそのような重さのものを持ち上げることはできない」となります。競走のスタートの話には、ものを持ち上げることは出てこないので合いません。
+4 lift such weights を入れると「どんな人間もそのような重さのものを持ち上げることはできない」となります。競走のスタートの話に、ものを持ち上げることは出てこないので合いません。
 【覚えるポイント】
-・react：「反応する」。名詞は reaction（反応）です。本文の respond（反応する）もほぼ同じ意味です。
-・must have ＋過去分詞：「～したにちがいない」。
+・react：「反応する」。本文の respond（反応する）もほぼ同じ意味です。
+・so quickly や such のような語を含む選択肢では、「そんなに」「そのような」が前の文のどの内容（ここでは0.1秒）を指しているかを確かめるのが手がかりになります。

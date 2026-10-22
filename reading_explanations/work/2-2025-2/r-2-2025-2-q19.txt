@@ -1,0 +1,29 @@
+---
+choices: accidentally dropped it | took some books | suddenly heard some noise | picked up one document
+answerText: accidentally dropped it
+---
+【正解】1 accidentally dropped it（誤ってそれを落としてしまった）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 accidentally dropped it（誤ってそれを落としてしまった）
+2 took some books（何冊かの本を取った）
+3 suddenly heard some noise（突然、物音を聞いた）
+4 picked up one document（書類を1枚拾い上げた）
+【考え方】
+まず見るところ：第2段落の空所のうしろの Instead of falling where he thought it would
+One day, while he was dealing with a spring, he ( 19 ) from a shelf.（ある日、ばねを扱っていたとき、彼は棚から（19）。）
+リチャード・ジェームズは、ばねを扱っていました。空所には、そのときに棚からどうしたのかが入ります。
+Instead of falling where he thought it would, it moved along the shelf.（それは、彼が落ちるだろうと思った場所に落ちる代わりに、棚に沿って動いていった。）
+falling（落ちること）とあるので、空所のところで何かが落ちたことが分かります。it（それ）は、前に出てきた a spring（ばね）を指しています。
+また、そのあとに He let the spring fall to the floor again and again（彼はそのばねを何度もくり返し床へ落とした）とあります。最初は思いがけず落ちたばねを、今度はわざと何度も落として確かめたという流れです。
+第1段落で、スリンキーは by chance（偶然に）生まれた発明だと紹介されていたこととも合います。accidentally（誤って、偶然に）dropped it（それを落とした）を入れると、話がつながるので、1が正解です。
+この問題の型：指示語（it ＝ a spring）
+【ほかの選択肢】
+2 「何冊かの本を取った」では、うしろの it が本なのか分からず、そのあとの「落ちる代わりに棚に沿って動いた」というばねの話とつながりません。
+3 「突然、物音を聞いた」では、何も落ちていないことになり、うしろの Instead of falling（落ちる代わりに）とつながりません。また、物音は本文に出てきません。
+4 「書類を1枚拾い上げた」では、拾い上げたのは書類で、ばねが落ちたという話になりません。本文に書類は出てきません。
+【覚えるポイント】
+・accidentally：「誤って、偶然に」。by chance（偶然に）と近い意味です。
+・空所のすぐあとに it（それ）があるときは、it が何を指すのかを前の文から確かめ、空所の内容とつながるかを考えると答えの手がかりになります。

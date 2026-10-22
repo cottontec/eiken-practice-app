@@ -1,0 +1,31 @@
+---
+choices: much safer | no better | far healthier | still further
+answerText: no better
+---
+【正解】2 no better（少しもよくない）
+【和訳】
+（英文）
+A: Did you see the new version of my article for the sports section, Mr. Jones?
+B: Yes, but it's ［no better］ than the first version. Please write it once again.
+（訳）
+A：ジョーンズさん、スポーツ欄に載せる私の記事の新しい版を見ましたか。
+B：ええ、でも、最初の版よりも（少しもよくなっていません）。もう一度書いてください。
+（選択肢の意味）
+1 much safer：ずっと安全な
+2 no better：少しもよくない
+3 far healthier：はるかに健康的な
+4 still further：さらに遠い、さらに先の
+【考え方】
+まず見るところ：Bの Yes, but と、最後の Please write it once again.
+Please write it once again.（もう一度書いてください）
+Bは記事を書き直すように言っています。ですから、新しい版の記事には満足していないことが分かります。
+Yes, but it's (　) than the first version.（ええ、でも、それは最初の版より（　））
+than（～より）があるので、空所には比べる形が入ります。no better than ～ は「～より少しもよくない」という意味です。「新しい版は最初の版より少しもよくなっていない」となり、「もう一度書いて」という続きとつながります。ですから2が正解です。
+この問題の型：語の意味・組み合わせ（比べる形と、記事のよしあし）／因果（よくないから書き直し）
+【ほかの選択肢】
+1 much safer は「ずっと安全な」です。記事が「最初の版よりずっと安全だ」というのは、記事のよしあしの話として意味が通りません。また、よくなったのなら書き直しを求める理由になりません。
+3 far healthier は「はるかに健康的な」です。記事が「健康的だ」とは言わないので、意味が通りません。
+4 still further は「さらに遠い、さらに先の」です。「最初の版よりさらに遠い」となり、記事の出来の話として意味が通りません。
+【覚えるポイント】
+・no better than ～：「～より少しもよくない（～と同じくらいよくない）」。
+・比べる形が空所に入るときは、何と何を比べているか（ここでは新しい版と最初の版）と、そのあとの反応（ここでは書き直しの依頼）を見ると、よくなったのか、そうでないのかが分かります。

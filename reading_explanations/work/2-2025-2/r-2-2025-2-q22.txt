@@ -1,0 +1,29 @@
+---
+choices: a smooth and silent air movement | a loud hitting sound in the air | a strong air movement to fly up | a color change in their wings
+answerText: a smooth and silent air movement
+---
+【正解】1 a smooth and silent air movement（なめらかで音のしない空気の流れ）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 a smooth and silent air movement（なめらかで音のしない空気の流れ）
+2 a loud hitting sound in the air（空中で何かを打つような大きな音）
+3 a strong air movement to fly up（飛び上がるための強い空気の流れ）
+4 a color change in their wings（翼の色の変化）
+【考え方】
+まず見るところ：第2段落の空所の前の However, the edges of owl feathers are unique. と、空所のうしろの fly quietly
+Many birds tend to make noise when cutting through the wind because air moves through their feathers in uncontrolled ways.（多くの鳥は、風を切って飛ぶときに音を立てがちだ。空気が、羽の間を制御されない〔乱れた〕流れ方で通り抜けるからだ。）
+ほかの多くの鳥は、空気の流れが乱れるので音が出る、という説明です。
+However, the edges of owl feathers are unique. The special design helps create ( 22 ).（しかし、フクロウの羽の縁は独特だ。その特別なつくりが（22）を生み出すのに役立つ。）
+However（しかし）があるので、フクロウはほかの鳥と反対だと分かります。ほかの鳥が「乱れた空気の流れで音が出る」なら、フクロウは「乱れない、音のしない空気の流れ」を作ると考えられます。
+This allows them to fly quietly and long distances without being noticed.（これによって、フクロウは気づかれることなく、静かに、そして長い距離を飛ぶことができる。）
+quietly（静かに）とあることからも、空所には音がしないことを表す内容が入ります。ですから1が正解です。
+この問題の型：対比（ほかの鳥〔乱れた空気・音がする〕⇔フクロウ〔なめらか・静か〕）
+【ほかの選択肢】
+2 「大きな音」は、うしろの fly quietly（静かに飛ぶ）と反対になってしまいます。また、However によってほかの鳥と対比されているのに、ほかの鳥と同じように音を立てることになり、流れが合いません。
+3 「飛び上がるための強い空気の流れ」は、本文にない内容です。第2段落は気づかれずにえさに近づくための静かさの話で、飛び上がる力の話ではありません。
+4 「翼の色の変化」は、本文に出てきません。色が変わっても、うしろの「静かに飛ぶことができる」の理由になりません。
+【覚えるポイント】
+・in uncontrolled ways：「制御されないやり方で、乱れて」。uncontrolled は un-（～でない）＋ controlled（制御された）です。
+・However のうしろに空所があるときは、However の前の内容と反対になるものを考えると答えの手がかりになります。さらにうしろの文（ここでは fly quietly）で確かめましょう。

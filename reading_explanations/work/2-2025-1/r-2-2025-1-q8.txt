@@ -1,0 +1,31 @@
+---
+choices: inheritance | exception | anxiety | confidence
+answerText: anxiety
+---
+【正解】3 anxiety（不安、心配）
+【和訳】
+（英文）
+A: Do you get nervous before giving a speech in front of the class?
+B: Yes, I always feel a little ［anxiety］. But I try to stay calm and speak clearly.
+（訳）
+A：クラスの前でスピーチをする前は、緊張する？
+B：うん、いつも少し（不安）を感じるよ。でも、落ち着いて、はっきり話すようにしているよ。
+（選択肢の意味）
+1 inheritance：遺産、受け継いだもの
+2 exception：例外
+3 anxiety：不安、心配
+4 confidence：自信
+【考え方】
+まず見るところ：Aの get nervous と、Bの Yes と But I try to stay calm
+A: Do you get nervous before giving a speech in front of the class?（クラスの前でスピーチをする前は緊張する？）
+get nervous は「緊張する、不安になる」という意味です。Bは Yes（うん）と答えているので、緊張することを認めています。
+But I try to stay calm and speak clearly.（でも、落ち着いてはっきり話すようにしている）
+But（でも）のあとで「落ち着くようにしている」と言っているので、その前の文は、落ち着いていられない気持ちを表していると考えられます。anxiety は「不安、心配」という意味で、feel a little anxiety で「少し不安を感じる」となります。nervous（緊張して）と同じような気持ちを表しているので、3が正解です。
+この問題の型：言いかえ（get nervous ≒ feel anxiety）／対比（But の前後）
+【ほかの選択肢】
+1 inheritance は「遺産、受け継いだもの」です。「いつも少し遺産を感じる」となり、意味が通りません。
+2 exception は「例外」です。「いつも少し例外を感じる」となり、緊張するかどうかの答えになりません。
+4 confidence は「自信」です。「いつも少し自信を感じる」となり、Yes（緊張する）と答えたことと合いません。また、But のあとの「落ち着くようにしている」ともつながりません。
+【覚えるポイント】
+・anxiety：「不安、心配」。形容詞は anxious（不安な）です。
+・Yes のあとの空所は、質問の中の語（ここでは nervous）と同じような意味の語が入ることが多いので、質問の語を手がかりにしましょう。

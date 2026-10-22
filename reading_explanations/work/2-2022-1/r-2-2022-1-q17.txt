@@ -1,27 +1,32 @@
 ---
 choices: makes an effort | makes a mess | takes a chance | takes a rest
 answerText: makes a mess
+reviewed: yes
 ---
 【正解】2 makes a mess（散らかす）
 【和訳】
 （英文）
 Alison hates it when her baby brother goes into her room. He always ［makes a mess］ with her things, and she has to clean up afterward.
 （訳）
-アリソンは、幼い弟が自分の部屋に入ってくるのがいやでたまりません。彼はいつも彼女の物を（散らかし）、彼女はあとで片づけなければなりません。
+アリソンは、幼い弟が自分の部屋に入ってくるのがとてもいやです。彼はいつも彼女の物を（散らかし）、彼女はあとで片づけなければなりません。
 （選択肢の意味）
 1 makes an effort：努力する
 2 makes a mess：散らかす
 3 takes a chance：思い切ってやってみる、運に任せる
 4 takes a rest：休む
 【考え方】
-空所のあとの and she has to clean up afterward（そして彼女はあとで片づけなければならない）に注目します。clean up は「片づける、きれいにする」、afterward は「あとで」という意味です。
-アリソンがあとで片づけなければならないのは、弟が部屋を散らかすからだと考えられます。また、最初の文の hates it when ～（～するのがとてもいやだ）からも、弟がアリソンのいやがることをしていると分かります。
-make a mess は「散らかす、めちゃくちゃにする」という意味で、make a mess with ～ で「～を散らかす」となります。ですから、2が正解です。主語が He なので makes になっています。
+まず見るところ：空所のあとの and she has to clean up afterward
+and she has to clean up afterward（そして彼女はあとで片づけなければならない）
+clean up は「片づける、きれいにする」、afterward は「あとで」という意味です。アリソンがあとで片づけなければならないのは、弟が物を散らかすからだと考えられます。
+Alison hates it when her baby brother goes into her room.（アリソンは、幼い弟が自分の部屋に入ってくるのがとてもいやだ）
+hates it when ～ は「～するのがとてもいやだ」という意味です。弟がアリソンのいやがることをしていると分かります。
+make a mess は「散らかす、めちゃくちゃにする」という意味で、make a mess with ～ で「～を散らかす」となります。主語が He なので makes になっています。ですから、2が正解です。
 なお、baby brother は「（赤ちゃんのように）幼い弟」という意味です。
+この問題の型：因果（散らかす→片づける）、熟語・決まった形（make a mess）
 【ほかの選択肢】
 1 makes an effort は「努力する」です。「彼女の物で努力する」となり、あとで片づけなければならないこととつながりません。
 3 takes a chance は「思い切ってやってみる、運に任せる」です。「彼女の物で思い切ってやってみる」となり、アリソンがあとで片づける理由になりません。
-4 takes a rest は「休む」です。「彼女の物で休む」となり、意味が通りません。休むだけなら、アリソンが片づける必要もありません。
+4 takes a rest は「休む」です。「彼女の物で休む」となり、意味が通りません。
 【覚えるポイント】
 ・make a mess：「散らかす」。mess は「散らかった状態」という意味の名詞です。
-・hate it when ～：「～するのがとてもいやだ」。
+・熟語の選択肢（make ～ / take ～）は、動詞のあとの名詞が文の流れに合うかで選びます。ここでは「あとで片づける」という結果から、原因（散らかす）を考えます。

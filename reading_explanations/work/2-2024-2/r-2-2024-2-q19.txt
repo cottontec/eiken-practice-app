@@ -1,0 +1,30 @@
+---
+choices: The rich and powerful | People who worked long hours | People with a variety of backgrounds | Business owners and politicians
+answerText: People with a variety of backgrounds
+---
+【正解】3 People with a variety of backgrounds（さまざまな背景を持つ人々）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 The rich and powerful（金持ちで力のある人々）
+2 People who worked long hours（長時間働いていた人々）
+3 People with a variety of backgrounds（さまざまな背景〔生まれ育ちや立場〕を持つ人々）
+4 Business owners and politicians（会社の経営者と政治家）
+【考え方】
+まず見るところ：第2段落の空所の前の This attracted different people と、空所のあとの the speakers were equal
+空所は、コーヒーハウスで話をする場所を見つけられたのはどんな人々か、を表す主語です。前の文を確かめます。
+Each coffee house had its own character.（それぞれのコーヒーハウスには、独自の特色があった）
+This attracted different people depending on the house's location and the topics that customers were interested in discussing.（このことが、店の場所や、客が話し合いたい話題によって、さまざまな人々を引きつけた）
+This は「それぞれの店に独自の特色があったこと」を指します。店ごとに特色が違ったので、いろいろな種類の人が集まったということです。
+This created a new style of communication in which the speakers were equal.（これによって、話し手どうしが対等であるという、新しい形のコミュニケーションが生まれた）
+空所のあとの文では、話し手が対等だったと述べています。立場の違ういろいろな人が、同じように話を聞いてもらえたと考えられます。
+People with a variety of backgrounds（さまざまな背景を持つ人々）とすると、前の文の different people（さまざまな人々）の言いかえになり、あとの「話し手が対等だった」ともつながります。ですから3が正解です。
+この問題の型：言いかえ（different people ＝ people with a variety of backgrounds）／指示語（This が指す内容）
+【ほかの選択肢】
+1 「金持ちで力のある人々」を入れると、特別な立場の人だけが話せたことになります。前の文の「さまざまな人々」とも、あとの文の「話し手が対等だった」ともくい違います。
+2 「長時間働いていた人々」については、本文に書かれていません。前の文の「さまざまな人々」を言いかえたものにもなりません。
+4 「会社の経営者と政治家」については、第3段落に商業や政治の話が出てきます。しかし、空所は第2段落の「さまざまな人々」が集まったという話の中にあり、特定の仕事の人に限ってしまうと、前の文とつながりません。
+【覚えるポイント】
+・a variety of ～：「さまざまな～」。background は「背景（生まれ育ち・経験・立場など）」です。
+・空所が文の主語のときは、直前の文に出てくる人（ここでは different people）を言いかえた選択肢が入ることが多いので、前の文の名詞と見比べましょう。

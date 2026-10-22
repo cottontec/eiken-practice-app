@@ -1,0 +1,32 @@
+---
+choices: tragedy | democracy | mystery | philosophy
+answerText: democracy
+---
+【正解】2 democracy（民主主義、民主主義の国）
+【和訳】
+（英文）
+A: What type of government does our country have?
+B: Well, we live in a ［democracy］, so we can vote for the people we want to represent us.
+（訳）
+A：私たちの国の政治は、どんな種類のしくみなの？
+B：ええと、私たちは（民主主義の国）に住んでいるから、自分たちの代表になってほしい人に投票できるんだよ。
+（選択肢の意味）
+1 tragedy：悲劇
+2 democracy：民主主義、民主主義の国
+3 mystery：謎
+4 philosophy：哲学
+【考え方】
+まず見るところ：Aの質問の type of government と、Bの so 以下の we can vote for the people
+What type of government does our country have?（私たちの国の政治は、どんな種類のしくみなの？）
+government は「政治、政府」です。Aは、国の政治のしくみの種類をたずねています。
+so we can vote for the people we want to represent us（だから、自分たちの代表になってほしい人に投票できる）
+so（だから）の前が理由、後ろが結果です。vote for ～ は「～に投票する」、represent は「代表する」です。国民が選挙で代表を選べる、という結果になる理由が空所に入ります。
+国民が投票で代表を選ぶ政治のしくみは democracy（民主主義）です。we live in a democracy（私たちは民主主義の国に住んでいる）とすると、Aの質問の答えになり、so 以下ともつながります。ですから2が正解です。
+この問題の型：因果（so の前の理由と、後ろの結果）
+【ほかの選択肢】
+1 tragedy は「悲劇」です。「私たちは悲劇の中に住んでいるから、投票できる」となり、政治のしくみをたずねる質問の答えになりません。
+3 mystery は「謎」です。「謎の中に住んでいるから投票できる」となり、意味が通りません。
+4 philosophy は「哲学（ものごとの根本を深く考える学問）」です。政治のしくみの種類ではないので、質問の答えになりません。
+【覚えるポイント】
+・democracy：「民主主義、民主主義の国」。国民が投票で代表を選ぶしくみです。
+・A, so B（Aだから B）の形では、so の後ろの結果（ここでは「投票できる」）から逆に考えると、前の空所に入る理由が分かることが多いです。

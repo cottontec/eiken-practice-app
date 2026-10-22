@@ -12,17 +12,19 @@ answerText: stealing its stories
 3 being paid more（より多くの給料をもらっている）
 4 stealing its stories（その新聞の記事を盗んでいる）
 【考え方】
+まず見るところ：第2段落の They were forced to admit that they had copied the Daily Telegram's article.
 空所は第2段落の The Daily Telegram's staff believed that the Daily News's reporters were (25). です。「デイリー・テレグラム紙の社員たちは、デイリー・ニュース紙の記者たちが（25）と信じていた」という意味です。
 空所のあとの流れを順に見ます。
-・The Daily Telegram decided to check whether this was happening.（デイリー・テレグラム紙は、このことが実際に起きているのかどうかを確かめることにした）
-・デイリー・テレグラム紙はうその記事を載せ、Soon afterward, exactly the same news appeared in the Daily News.（その後まもなく、まったく同じニュースがデイリー・ニュース紙に載った）
-・They were forced to admit that they had copied the Daily Telegram's article.（彼らは、デイリー・テレグラム紙の記事を写したことを認めざるをえなかった）
-この流れから、デイリー・テレグラム紙は「デイリー・ニュース紙がうちの記事を写しているのではないか」と疑い、それを確かめたのだと分かります。また、第1段落の最後にも、フェイクニュースが to check if a newspaper was really writing its own articles（ある新聞社が本当に自分たちで記事を書いているのかを確かめるため）に使われたとあります。
-4の stealing its stories の its は「その新聞（デイリー・テレグラム紙）の」、stories は「（新聞の）記事」です。「デイリー・ニュース紙の記者たちが、デイリー・テレグラム紙の記事を盗んでいる」となり、そのあとの「確かめる」「写したことを認めた」という話につながります。ですから4が正解です。
+The Daily Telegram decided to check whether this was happening.（デイリー・テレグラム紙は、このことが実際に起きているのかどうかを確かめることにした）
+Soon afterward, exactly the same news appeared in the Daily News.（その後まもなく、まったく同じニュースがデイリー・ニュース紙に載った）
+They were forced to admit that they had copied the Daily Telegram's article.（彼らは、デイリー・テレグラム紙の記事を写したことを認めざるをえなかった）
+この流れから、デイリー・テレグラム紙は「デイリー・ニュース紙がうちの記事を写しているのではないか」と疑い、うその記事で確かめたのだと分かります。第1段落の最後の to check if a newspaper was really writing its own articles（ある新聞社が本当に自分たちで記事を書いているのかを確かめるため）とも合います。
+4の stealing its stories の its は「その新聞（デイリー・テレグラム紙）の」、stories は「（新聞の）記事」です。「デイリー・テレグラム紙の記事を盗んでいる」となり、あとの「確かめる」「写したことを認めた」につながります。ですから4が正解です。
+この問題の型：指示語（this が指す内容・its が指す新聞）
 【ほかの選択肢】
 1 「あるイベントに参加している」では、うその記事を載せて確かめる理由になりません。記事を写したかどうかという話とも結びつきません。
 2 「辞めるつもりでいる」も、うその記事を使って確かめる内容になりません。そのあとで写したことを認めたという結末とも合いません。
 3 「より多くの給料をもらっている」は、本文に給料の話がなく、うその記事を載せることでは確かめられない内容です。
 【覚えるポイント】
-・story：「物語」のほかに、新聞などの「記事」という意味があります。
-・check whether ～：「～かどうかを確かめる」。
+・story：「物語」のほかに、新聞などの「記事」という意味があります。check whether ～ は「～かどうかを確かめる」です。
+・空所のすぐあとに this（このこと）が出てきたら、this が空所の内容を指していることが多いです。そのあとの話の結末（写したと認めた）から、空所の内容を考えましょう。

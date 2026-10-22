@@ -1,6 +1,7 @@
 ---
 choices: possible | delicate | financial | sufficient
 answerText: sufficient
+reviewed: yes
 ---
 【正解】4 sufficient（十分な）
 【和訳】
@@ -14,13 +15,16 @@ Frank did not have ［sufficient］ time to write his report, so he asked his bo
 3 financial：財政の、お金に関する
 4 sufficient：十分な
 【考え方】
-文の後半 so he asked his boss if he could have a few more days to finish it（だから、それを仕上げるためにあと数日もらえないかと上司にたずねた）に注目します。so は「だから、それで」と、前の内容の結果を表します。
-「あと数日ほしい」と頼んだのは、レポートを書く時間が足りなかったからです。前半は did not have ( ) time（（　）時間を持っていなかった）という否定の文なので、「十分な時間がなかった」とすると、後半とつながります。sufficient は「十分な」という意味です。ですから、4が正解です。
+まず見るところ：後半の so he asked his boss if he could have a few more days
+so he asked his boss if he could have a few more days to finish it（だから、それを仕上げるためにあと数日もらえないかと上司にたずねた）
+so は「だから、それで」と、前の内容の結果を表します。あと数日ほしいと頼んだのは、レポートを書く時間が足りなかったからです。
+前半は did not have (　) time（（　）時間を持っていなかった）という否定の文です。ここに sufficient（十分な）を入れて「十分な時間がなかった」とすると、後半の頼みごとにつながります。ですから、4が正解です。
 ask ～ if ... は「～に…かどうかたずねる」という意味です。
+この問題の型：因果（so）、語の意味・組み合わせ（sufficient time）
 【ほかの選択肢】
 1 possible は「可能な、ありうる」です。「可能な時間がなかった」では、時間が足りないという意味をはっきり表せず、後半の「あと数日ほしい」とうまくつながりません。
 2 delicate は「繊細な、壊れやすい」です。「繊細な時間がなかった」となり、意味が通りません。
 3 financial は「財政の、お金に関する」です。「お金に関する時間がなかった」となり、レポートを書く時間の話と合いません。
 【覚えるポイント】
 ・sufficient：「十分な」。enough とほぼ同じ意味です。sufficient time で「十分な時間」。
-・ask ～ if ...：「～に…かどうかたずねる」。
+・so（だから）の前後は原因と結果の関係です。結果（あと数日ほしい）から原因（時間が足りなかった）をさかのぼって考えると、空所に入る語が決まります。

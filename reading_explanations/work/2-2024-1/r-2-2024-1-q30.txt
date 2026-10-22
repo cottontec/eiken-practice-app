@@ -1,0 +1,31 @@
+---
+choices: they realized that it would be simpler to make the items themselves. | better-quality products were being made abroad. | the products were expensive and not easily available. | other artists and designers began to have a greater influence.
+answerText: the products were expensive and not easily available.
+---
+【正解】3 the products were expensive and not easily available.（その製品は値段が高く、簡単には手に入らなかった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：People started buying fewer products made by the Arts and Crafts movement because（人々がアーツ・アンド・クラフツ運動による製品を買う量が（以前より）減ったのは、～からである。）
+1 they realized that it would be simpler to make the items themselves.（品物を自分で作るほうが（買うより）簡単だと気づいた）
+2 better-quality products were being made abroad.（（その製品より）質のよい製品が海外で作られていた）
+3 the products were expensive and not easily available.（その製品は値段が高く、簡単には手に入らなかった）
+4 other artists and designers began to have a greater influence.（ほかの芸術家やデザイナーが（運動より）大きな影響力を持ち始めた）
+【考え方】
+まず見るところ：第4段落の the popularity of such products declined because ～
+製品が売れなくなった理由は、第4段落に書かれています。
+During the twentieth century, however, the popularity of such products declined because they took too long to make and cost too much to buy.（しかし、20世紀の間に、そうした製品の人気は落ちていった。作るのに時間がかかりすぎ、買うにはお金がかかりすぎたからだ）
+設問の started buying fewer products（製品を買う量が（以前より）減った）は、本文の the popularity of such products declined（そうした製品の人気が落ちた）に当たります。理由は because のあとの2つです。
+本文と選択肢を対にすると、次のようになります。
+本文 cost too much to buy（買うにはお金がかかりすぎた）＝ 選択肢 the products were expensive（その製品は値段が高かった）
+本文 took too long to make（作るのに時間がかかりすぎた）→ 選択肢 not easily available（簡単には手に入らなかった）
+作るのに時間がかかれば、たくさんは作れないので、ほしい人がすぐに手に入れることはできないと考えられます。ですから3が正解です。
+この問題の型：因果（because のあとが理由）／言いかえ（cost too much → expensive）
+【ほかの選択肢】
+1 本文にありません。人々が自分で作るほうが簡単だと気づいたという話は書かれていません。
+2 本文の内容と合いません。海外の話は people in the United Kingdom and abroad were inspired to form similar organizations（イギリス国内と海外の人々が刺激を受けて同じような団体を作った）という部分だけです。海外でより質のよい製品が作られていたとは書かれていません。
+4 本文の内容と合いません。本文の最後には、the ideas of the Arts and Crafts movement continue to influence（アーツ・アンド・クラフツ運動の考え方は今も影響を与え続けている）とあります。ほかの芸術家やデザイナーの影響力が（運動より）大きくなったという話はありません。
+【覚えるポイント】
+・too ～ to …：「…するには～すぎる」。cost too much to buy で「買うにはお金がかかりすぎる」。
+・理由を問う設問では、本文の because のあとをそのまま探し、選択肢ではそれがどう言いかえられているか（ここでは cost too much → expensive）を確かめると手がかりになります。

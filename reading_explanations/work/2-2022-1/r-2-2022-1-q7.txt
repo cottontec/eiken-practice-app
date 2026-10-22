@@ -1,6 +1,7 @@
 ---
 choices: restrict | distribute | accompany | promote
 answerText: accompany
+reviewed: yes
 ---
 【正解】3 accompany（～と一緒に行く、～に付き添う）
 【和訳】
@@ -14,13 +15,17 @@ Beth was invited to a wedding party last week. She did not want to go by herself
 3 accompany：～と一緒に行く、～に付き添う
 4 promote：促進する、昇進させる
 【考え方】
-空所のある文の前半 She did not want to go by herself（彼女は一人で行きたくなかった）に注目します。by oneself は「一人で」という意味です。
-一人で行きたくないので、友人に頼んだことは「一緒に行ってほしい」ということだと考えられます。ask ～ to ... は「～に…するよう頼む」という意味なので、空所には「ジェレミーにしてほしいこと」が入ります。
+まず見るところ：前半の She did not want to go by herself
+She did not want to go by herself（彼女は一人で行きたくなかった）
+by oneself は「一人で」という意味です。一人で行きたくないので、友人に頼んだことは「一緒に行ってほしい」ということだと考えられます。
+she asked her friend Jeremy to (　) her（彼女は友人のジェレミーに、彼女を（　）するよう頼んだ）
+ask ～ to ... は「～に…するよう頼む」という意味なので、空所には「ジェレミーにしてほしいこと」が入ります。
 accompany は「～と一緒に行く、～に付き添う」という意味です。accompany her で「彼女と一緒に行く」となり、一人で行きたくないという気持ちとつながります。ですから、3が正解です。
+この問題の型：因果（so）、語の意味・組み合わせ（ask ～ to ...）
 【ほかの選択肢】
 1 restrict は「制限する」です。「ジェレミーに彼女を制限するよう頼んだ」となり、一人で行きたくないという理由と合いません。
 2 distribute は「配る、分配する」です。「彼女を配るよう頼んだ」となり、意味が通りません。
 4 promote は「（物事を）促進する、（人を）昇進させる」です。「彼女を昇進させるよう頼んだ」となり、パーティーに行く話と合いません。
 【覚えるポイント】
 ・accompany ～：「～と一緒に行く、～に付き添う」。go with ～ とほぼ同じ意味です。
-・by oneself：「一人で」。ask ～ to ...：「～に…するよう頼む」。
+・so の前の理由（一人で行きたくない）が、あとの行動（友人に頼んだこと）を決めます。次に so が出てきたら、前半の気持ちから後半の内容を予想して、選択肢を見ます。

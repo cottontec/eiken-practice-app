@@ -12,14 +12,19 @@ answerText: have extra chances
 3 can watch a video replay（ビデオの再生映像を見ることができる）
 4 return their medals（メダルを返す）
 【考え方】
-第3段落は Some people think that the false start rule is too strict.（フライングのルールは厳しすぎると考える人もいる）で始まります。第1段落にあるとおり、フライングをした選手はすぐにレースから除外されます。この段落では、それが厳しすぎるという意見が述べられています。
-空所は In some other sports and track-and-field events, athletes (26) if they break a rule.（ほかのいくつかのスポーツや陸上競技の種目では、選手はルールを破った場合に（26））です。ここでは、フライングのルールと比べて、ほかの種目ではルールを破るとどうなるかが述べられています。
-すぐあとの For example（たとえば）で始まる文が具体例です。in the long jump, if an athlete's foot goes over the line on their first attempt, the athlete still has two more opportunities to try（走り幅跳びでは、選手の足が1回目の試技で線を越えても、その選手にはまだ挑戦する機会があと2回ある）とあります。ルールを破っても、もう一度挑戦する機会があるということです。
-have extra chances（追加のチャンスがある）を入れると、この例とぴったり合います。また、「すぐに除外される」フライングのルールが厳しすぎるという段落の最初の文ともつながります。ですから1が正解です。
+まず見るところ：第3段落の空所のあとの For example, in the long jump, ～
+Some people think that the false start rule is too strict.（フライングのルールは厳しすぎると考える人もいる）
+第1段落にあるとおり、フライングをした選手はレースから除外されます。この段落では、それが厳しすぎるという意見が述べられています。
+In some other sports and track-and-field events, athletes (26) if they break a rule.（ほかのいくつかのスポーツや陸上競技の種目では、選手はルールを破った場合に（26））
+ここでは、ほかの種目でルールを破るとどうなるかが述べられています。
+in the long jump, if an athlete's foot goes over the line on their first attempt, the athlete still has two more opportunities to try（走り幅跳びでは、選手の足が1回目の試技で線を越えても、その選手にはまだ挑戦する機会があと2回ある）
+For example（たとえば）で始まるこの文が具体例です。ルールを破っても、もう一度挑戦する機会があるということです。
+have extra chances を入れると、この例とぴったり合います。また、除外されてしまうフライングのルールは厳しすぎる、という段落の最初の文ともつながります。ですから1が正解です。
+この問題の型：具体例とまとめ（For example の内容 → extra chances）
 【ほかの選択肢】
 2 must pay money を入れると「ルールを破った場合、お金を払わなければならない」となります。お金を払う話は本文になく、For example のあとの「あと2回の機会がある」という例にも合いません。
 3 can watch a video replay を入れると「ルールを破った場合、ビデオの再生映像を見ることができる」となります。ビデオの話は本文になく、走り幅跳びの例とも合いません。
 4 return their medals を入れると「ルールを破った場合、メダルを返す」となります。これは罰を受ける話で、フライングのルールが厳しすぎるという意見や、もう一度挑戦できるという例とつながりません。
 【覚えるポイント】
-・extra：「追加の、余分の」。extra chances で「追加のチャンス」です。
-・For example のあとの具体例をまとめると、その前の空所の内容が分かることがよくあります。
+・extra：「追加の、余分の」。本文の two more opportunities（あと2回の機会）が extra chances の中身です。
+・空所の文のすぐあとに For example が来たら、その例を短くまとめた選択肢が空所に入ることが多いです。

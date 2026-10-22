@@ -8,7 +8,7 @@ answerText: factors
 A: There are several ［factors］ to consider before making a decision about the school's future.
 B: Yes. We need to look at all the costs and benefits to the local community.
 （訳）
-A：学校の将来について決める前に、考えなければならない（要因）がいくつかあります。
+A：学校の将来について決める前に、考えるべき（要因）がいくつかあります。
 B：そうですね。地域社会にとっての費用と利益を、すべて検討する必要があります。
 （選択肢の意味）
 1 palaces：宮殿
@@ -16,13 +16,19 @@ B：そうですね。地域社会にとっての費用と利益を、すべて�
 3 victims：被害者、犠牲者
 4 factors：要因、要素
 【考え方】
-まずAの文の形を見ます。There are several ( ) to consider は「考えるべき（　）がいくつかある」という意味です。to consider（考えるべき）が前の名詞に説明を付け足しています。ですから、空所には「考える対象になるもの」が入ります。
-次にBの答えを見ます。We need to look at all the costs and benefits to the local community.（地域社会にとっての費用と利益をすべて検討する必要がある）とあります。費用（costs）や利益（benefits）は、学校の将来を決めるときに考えに入れるべき事がらです。
-このように、物事を決めたり結果を左右したりする一つ一つの事がらを factor（要因、要素）といいます。several factors to consider で「考えるべきいくつかの要因」となり、Bの答えとつながるので、4が正解です。
+まず見るところ：Bの答えの all the costs and benefits
+最初に、Aの文の形を確かめます。
+There are several ( ) to consider（考えるべき（　）がいくつかある）
+to consider（考えるべき）が、前の名詞に説明を付け足しています。ですから、空所には「考える対象になるもの」が入ります。
+次に、Bの答えを見ます。
+We need to look at all the costs and benefits to the local community.（地域社会にとっての費用と利益をすべて検討する必要がある）
+費用（costs）や利益（benefits）は、学校の将来を決めるときに考えに入れるべき事がらです。このように、物事を決めたり結果を左右したりする一つ一つの事がらを factor（要因、要素）といいます。
+several factors to consider で「考えるべきいくつかの要因」となり、Bの答えとつながるので、4が正解です。
+この問題の型：語の意味・組み合わせ（factors to consider）／具体例とまとめ（費用と利益→要因）
 【ほかの選択肢】
 1 palaces は「宮殿」です。「考えるべき宮殿がいくつかある」となり、学校の将来を決める話とも、費用と利益を検討するというBの答えとも合いません。
 2 manuscripts は「原稿（手書きや印刷前の文章）」です。「考えるべき原稿」では何の話か分からず、Bが言う費用と利益にもつながりません。
 3 victims は「被害者、犠牲者」です。この会話には事故や事件の話はなく、「考えるべき被害者」では意味が通りません。
 【覚えるポイント】
-・factor：「要因、要素（ある結果に影響する一つ一つの事がら）」。a key factor（重要な要因）のように使います。
-・costs and benefits：「費用と利益（よい点）」。物事を決めるときに比べて考える2つです。
+・factor：「要因、要素（ある結果に影響する一つ一つの事がら）」。
+・空所の名詞に迷ったら、相手の答えに出てくる具体的な語（ここでは costs and benefits）をまとめて言える語はどれかを考えると、手がかりになります。

@@ -7,27 +7,29 @@ answerText: the process of doing laundry involved several different stages.
 ＜本文の全訳＞
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
-設問：洗濯機を使わずに衣類やシーツをきれいにするのが重労働だったのは、～からである。
+設問：Cleaning clothes and sheets without washing machines was hard work because（洗濯機を使わずに衣類やシーツをきれいにするのが重労働だったのは、～からである。）
 1 the process of doing laundry involved several different stages.（洗濯をする手順には、いくつかの異なる段階があった）
 2 the soap used to wash laundry had to be prepared by hand.（洗濯物を洗うのに使うせっけんを、手で作らなければならなかった）
 3 people had to travel long distances in order to dry their laundry.（人々は洗濯物を乾かすために、長い距離を移動しなければならなかった）
 4 people who did it had to wash many items to earn enough money.（それをする人々は、十分なお金をかせぐために、たくさんの物を洗わなければならなかった）
 【考え方】
+まず見るところ：第2段落の this has involved carrying the laundry to a river or a lake, ～ と、段落の最後の It was hard work that took a long time.
 洗濯機がなかったころの洗濯については、第2段落に書かれています。どんな作業をしていたのかを順に確かめます。
 ・carrying the laundry to a river or a lake（洗濯物を川や湖へ運ぶ）
 ・wetting it（それをぬらす）
 ・rubbing it with rocks, sand, or soap to remove the dirt（汚れを落とすために石や砂、せっけんでこする）
 ・Then, the laundry had to be put in water again（それから、洗濯物はもう一度水に入れなければならなかった）
 ・the extra water was usually removed to make drying easier（乾かしやすくするために、たいてい余分な水が取り除かれた）
-そして、段落の最後に It was hard work that took a long time.（それは長い時間のかかる重労働だった）とまとめられています。
-このように、手で洗う洗濯は、運ぶ・ぬらす・こする・もう一度水に入れる・水を取り除く、といういくつもの段階を順に行う作業でした。
+段落の最後で、次のようにまとめられています。
+It was hard work that took a long time.（それは長い時間のかかる重労働だった）
 本文と選択肢を対にすると、次のようになります。
 本文 運ぶ、ぬらす、こする、もう一度水に入れる、余分な水を取り除く、という作業の並び → まとめると ＝ 選択肢 the process of doing laundry involved several different stages（洗濯をする手順には、いくつかの異なる段階があった）
 本文で一つ一つ書かれている作業が、選択肢では several different stages（いくつかの異なる段階）とまとめて表されています。ですから1が正解です。
+この問題の型：具体例とまとめ（いくつもの作業 → several different stages）
 【ほかの選択肢】
 2 本文の soap（せっけん）は、洗濯物をこするときに使う物の1つとして出てくるだけです。せっけんを手で作らなければならなかったとは書かれていません。
 3 本文では、洗濯物を川や湖へ運んだとありますが、それは洗うためです。乾かすために長い距離を移動したとは書かれておらず、乾かす作業について書かれているのは、余分な水を取り除いたことだけです。
 4 お金をかせぐために洗濯をしたという話は、本文にありません。
 【覚えるポイント】
-・involve：「（必要なこととして）～をふくむ、～を伴う」。
-・作業が順に並べられている文章では、Then（それから）などの語が、段階が続いていることを示します。
+・involve：「（必要なこととして）～をふくむ、～を伴う」。stage は「段階」です。
+・本文に Then（それから）などで作業が順に並んでいるときは、選択肢では「いくつかの段階」「手順」のようにまとめて言いかえられていることが多いです。

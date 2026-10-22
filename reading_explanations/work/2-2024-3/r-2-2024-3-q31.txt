@@ -1,0 +1,32 @@
+---
+choices: The purpose of keeping a diary for Villarroel was to improve his lectures. | It is more important to write down how people are feeling than what they are doing. | Villarroel found that his diary increased the quality of his life. | Villarroel shows that taking pictures and writing down events have different purposes.
+answerText: Villarroel found that his diary increased the quality of his life.
+---
+【正解】3 Villarroel found that his diary increased the quality of his life.（ビジャロエルは、日記によって自分の生活の質が高まったと気づいた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Which of the following statements is true?（次の記述のうち、正しいものはどれですか。）
+1 The purpose of keeping a diary for Villarroel was to improve his lectures.（ビジャロエルにとって日記をつける目的は、自分の講義をよりよくすることだった。）
+2 It is more important to write down how people are feeling than what they are doing.（人が何をしているかよりも、どう感じているかを書き留めることのほうが大切だ。）
+3 Villarroel found that his diary increased the quality of his life.（ビジャロエルは、日記によって自分の生活の質が高まったと気づいた。）
+4 Villarroel shows that taking pictures and writing down events have different purposes.（ビジャロエルは、写真を撮ることと出来事を書き留めることには違う目的があると示している。）
+【考え方】
+まず見るところ：第4段落の However, he learned several things from this experience. からあとの部分
+This allowed him to realize that he often felt stressed while driving to work. Therefore, he has decided to take the train and walk.（そのおかげで、彼は車を運転して仕事に行く間によくストレスを感じていることに気づいた。そのため、電車に乗って歩くことにした）
+日記を見返したことで、ストレスの原因に気づき、通勤のしかたを変えました。
+He also noticed a few things, so he improved his lectures.（彼はまた、いくつかのことに気づいたので、自分の講義をよりよくした）
+日記のおかげで、仕事である講義もよくなりました。
+With a detailed record of his life, he can now remember his life clearly（生活の詳しい記録があるので、今では自分の人生をはっきりと思い出すことができる）
+本文と選択肢を対にすると、次のようになります。
+本文 ストレスの原因に気づいて通勤を変えた・講義をよりよくした・人生をはっきり思い出せる → 読み取れること：日記によって生活がよくなった（increased the quality of his life）
+本文に quality（質）という語はありませんが、日記をきっかけに生活のいくつかの面がよくなったことが書かれているので、3が正解です。
+この問題の型：推論（いくつかのよい変化→生活の質が高まった）
+【ほかの選択肢】
+1 講義をよりよくしたことは本文にありますが、それは日記をつけた結果です。第2段落によると、日記をつけ始めた目的は、80歳になったときに自分が何を成しとげたのかを確実に分かるようにするためでした。目的と結果が入れかわっています。
+2 彼は「何をしていて、どう感じているか」の両方を書き留めていました。どちらのほうが大切かを比べる話は、本文に書かれていません。
+4 本文では、写真を撮ることも His effort to record what he had done（自分がしたことを記録しようとする努力）の続きとして書かれています。写真と書き留めることの目的が違うとは書かれていません。
+【覚えるポイント】
+・This allowed him to ～：「そのおかげで彼は～できた」。前の文の内容が、どんなよい結果につながったかを示す言い方です。
+・内容と合うものを選ぶ設問では、選択肢の「目的（purpose）」と本文の「結果」が入れかわっていないかを確かめましょう。

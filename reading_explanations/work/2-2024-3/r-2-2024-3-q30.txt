@@ -1,0 +1,30 @@
+---
+choices: Sometimes, it is necessary to stop keeping a diary and enjoy the moment. | He can feel as if time passes more slowly by keeping a detailed record. | His memory has gotten much worse compared to before he started a diary. | Bigger life events create more emotions and feelings than smaller ones.
+answerText: He can feel as if time passes more slowly by keeping a detailed record.
+---
+【正解】2 He can feel as if time passes more slowly by keeping a detailed record.（詳しい記録をつけることで、時間がよりゆっくり過ぎるように感じられる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What did Villarroel discover through the experience of keeping a diary?（ビジャロエルは、日記をつける経験を通して何に気づきましたか。）
+1 Sometimes, it is necessary to stop keeping a diary and enjoy the moment.（ときには、日記をつけるのをやめて、その瞬間を楽しむことが必要だ。）
+2 He can feel as if time passes more slowly by keeping a detailed record.（詳しい記録をつけることで、時間がよりゆっくり過ぎるように感じられる。）
+3 His memory has gotten much worse compared to before he started a diary.（日記を始める前と比べて、彼の記憶力はずっと悪くなった。）
+4 Bigger life events create more emotions and feelings than smaller ones.（人生の大きな出来事は、小さな出来事よりも多くの感情や気持ちを生む。）
+【考え方】
+まず見るところ：第4段落の最後の With a detailed record of his life, ～
+With a detailed record of his life, he can now remember his life clearly, and he says that the last ten years felt much longer than the ones before.（自分の生活の詳しい記録があるので、彼は今では自分の人生をはっきりと思い出すことができ、この10年間はそれより前の年月よりもずっと長く感じられたと言っている）
+the last ten years は「この（最近の）10年間」、the ones before は「それより前の年月」です。日記をつけてきたこの10年間が、それより前の年月よりもずっと長く感じられた、と比べています。
+本文と選択肢を対にすると、次のようになります。
+本文 With a detailed record of his life（生活の詳しい記録があるので）＝ 選択肢 by keeping a detailed record（詳しい記録をつけることで）
+本文 the last ten years felt much longer than the ones before（この10年間はそれより前の年月よりもずっと長く感じられた）→ 選択肢 time passes more slowly（時間がよりゆっくり過ぎる）
+同じ10年間でも長く感じられるということは、時間がゆっくり過ぎるように感じられるということです。ですから2が正解です。
+この問題の型：言いかえ（felt much longer → time passes more slowly）
+【ほかの選択肢】
+1 本文に、日記をつけるのをやめるべきだという話はありません。彼は詳しい記録を続けたことで、いくつかのことを学んでいます。
+3 本文には he can now remember his life clearly（今では自分の人生をはっきりと思い出すことができる）とあります。記憶力が悪くなったのではなく、反対に、はっきり思い出せるようになっています。
+4 大きな出来事と小さな出来事で感情の量を比べる話は、本文に書かれていません。本文では、とても小さなことにも気づけたことが書かれています。
+【覚えるポイント】
+・A felt much longer than B：「AはBよりもずっと長く感じられた」。比べている相手（ここでは the ones before）を確かめましょう。
+・「何に気づいたか」をたずねる設問では、文章の最後の段落に、筆者や人物の気づきがまとめて書かれていることが多いです。

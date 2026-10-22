@@ -12,15 +12,20 @@ answerText: can be lost or stolen
 3 can be recycled（リサイクルできる、再利用できる）
 4 is understood by almost everyone（ほとんどすべての人に理解される）
 【考え方】
+まず見るところ：第1段落の At the same time, though と、空所のあとの Another disadvantage
 空所は第1段落の At the same time, though, it (21). です。it は直前の文の Cash（現金）を指しています。
-まず、空所の前を見ます。Cash is convenient for many people because it is easy to carry.（現金は持ち運びやすいので、多くの人々にとって便利だ）と、現金のよい点が書かれています。
-次に、空所の文の At the same time, though は「しかし同時に」という意味です。though（しかし）があるので、よい点とは反対の、現金の悪い点が続くと考えられます。
-さらに、空所のすぐあとに Another disadvantage is that ～（もう1つの欠点は～だ）とあります。disadvantage は「欠点、不利な点」で、another は「もう1つの」です。ここから、空所には「1つ目の欠点」が入ることがはっきりします。
-1の can be lost or stolen（なくしたり盗まれたりすることがある）は、持ち運べる現金の欠点です。「持ち運びやすくて便利だが、同時に、なくしたり盗まれたりすることがある。もう1つの欠点は、にせ物を作られてしまうことだ」と、流れがきれいにつながります。ですから1が正解です。
+まず、空所の前の文を見ます。
+Cash is convenient for many people because it is easy to carry.（現金は持ち運びやすいので、多くの人々にとって便利だ）
+ここには現金のよい点が書かれています。空所の文の At the same time, though は「しかし同時に」という意味なので、よい点とは反対の、悪い点が続くと考えられます。
+さらに、空所のすぐあとの文を見ます。
+Another disadvantage is that criminals have been able to produce fake coins and bills.（もう1つの欠点は、犯罪者たちがこれまで、にせの硬貨やお札を作ることができてきたということだ）
+disadvantage は「欠点、不利な点」、another は「もう1つの」です。ここから、空所には「1つ目の欠点」が入ることがはっきりします。
+1の can be lost or stolen（なくしたり盗まれたりすることがある）は、持ち運べる現金の欠点です。「持ち運びやすくて便利だが、同時に、なくしたり盗まれたりすることがある」となり、次の「もう1つの欠点」ともつながります。ですから1が正解です。
+この問題の型：対比（便利な点⇔欠点）
 【ほかの選択肢】
-2 「インターネットでの買い物に使われる」は、欠点ではありません。また、硬貨やお札は手でやりとりするもので、本文にもインターネットでの買い物の話は出てきません。Another disadvantage（もう1つの欠点）とつながりません。
+2 「インターネットでの買い物に使われる」は、欠点ではありません。本文にもインターネットでの買い物の話は出てこず、そのあとの Another disadvantage（もう1つの欠点）ともつながりません。
 3 「リサイクルできる」は、よい点と受け取れる内容で、欠点ではありません。本文にも現金のリサイクルの話はなく、though（しかし）や Another disadvantage の流れに合いません。
 4 「ほとんどすべての人に理解される」は、現金のよい点です。though（しかし）のあとに入れると、よい点が続くことになり、そのあとの Another disadvantage（もう1つの欠点）ともつながりません。
 【覚えるポイント】
-・Another disadvantage is that ～：「もう1つの欠点は～だ」。another（もう1つの）があれば、その前にも同じ種類のこと（ここでは欠点）が書かれているはずです。
-・At the same time, though：「しかし同時に」。前の内容と反対向きのことが続く合図です。
+・Another disadvantage is that ～：「もう1つの欠点は～だ」。
+・空所のあとに Another ～（もう1つの～）があるときは、空所にも同じ種類のこと（ここでは欠点）が入る手がかりになります。空所の前だけでなく、あとの文も確かめましょう。

@@ -1,0 +1,28 @@
+---
+choices: What assistance is being provided by the library to help students. | The most popular categories of books among new students each year. | The opening hours of the school library during winter vacation. | When she should arrange library events for new and graduating students.
+answerText: What assistance is being provided by the library to help students.
+---
+【正解】1 What assistance is being provided by the library to help students.（生徒を助けるために、図書館によってどんな支援が行われているか。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is Jessica interested in about the library?（ジェシカは図書館について何に興味を持っていますか。）
+1 What assistance is being provided by the library to help students.（生徒を助けるために、図書館によってどんな支援が行われているか。）
+2 The most popular categories of books among new students each year.（毎年、新入生の間で最も人気のある本の分野。）
+3 The opening hours of the school library during winter vacation.（冬休み中の学校図書館の開館時間。）
+4 When she should arrange library events for new and graduating students.（新入生と卒業する生徒のための図書館のイベントを、彼女がいつ計画すべきか。）
+【考え方】
+まず見るところ：第2段落の I would like to know more about the assistance the school library gives students.
+As part of this project, I would like to know more about the assistance the school library gives students.（この企画の一環として、学校図書館が生徒に行っている支援について、もっと知りたい）
+would like to know は「知りたい」という意味で、ジェシカが興味を持っていることを表しています。the assistance the school library gives students は「学校図書館が生徒に与えている支援」です。
+本文 the assistance the school library gives students ＝ 選択肢 What assistance is being provided by the library to help students
+gives（与えている）が is being provided（提供されている）に言いかえられています。続く文の新入生向けのオリエンテーションや学習支援の仕組みも、この「支援」の具体例です。ですから1が正解です。
+この問題の型：言いかえ（gives → is being provided）
+【ほかの選択肢】
+2 本文には the orientation for new students（新入生向けのオリエンテーション）について質問したいとありますが、新入生に人気のある本の分野については書かれていません。「新入生」という語だけが本文と同じです。
+3 本文には how you plan to encourage library use during long vacations（長期休暇中の図書館の利用をどのように促す予定か）を知りたいとあります。知りたいのは利用を促す方法で、開館時間ではありません。また、冬休みとは書かれていません。
+4 新入生と卒業する生徒のためのイベントをジェシカがいつ計画すべきか、という話は本文にありません。イベントを開いてほしいという希望は書かれていますが、彼女自身が計画するとは書かれていません。
+【覚えるポイント】
+・I would like to know more about ～：「～についてもっと知りたい」。「何に興味があるか」をたずねる設問では、この形の部分が答えの手がかりになることが多いです。
+・assistance：「支援、手助け」。support（支え、支援）と同じような意味です。

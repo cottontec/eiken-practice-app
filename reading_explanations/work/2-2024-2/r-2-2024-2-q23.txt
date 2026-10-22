@@ -1,0 +1,29 @@
+---
+choices: satellites that are no longer used | people who want to go to space | stars that are newly discovered | companies that repair satellites
+answerText: satellites that are no longer used
+---
+【正解】1 satellites that are no longer used（もう使われていない人工衛星）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 satellites that are no longer used（もう使われていない人工衛星）
+2 people who want to go to space（宇宙に行きたい人々）
+3 stars that are newly discovered（新しく発見された星）
+4 companies that repair satellites（人工衛星を修理する会社）
+【考え方】
+まず見るところ：第3段落の空所のあとの old satellites are usually left in space
+While more and more satellites are being sent into space, the number of (23) has also increased.（ますます多くの人工衛星が宇宙に送られている中で、（23）の数も増えてきた）
+空所には、人工衛星が増えるのといっしょに増えてきたものが入ります。
+However, because it is very difficult to collect objects from space, old satellites are usually left in space.（しかし、宇宙から物を回収するのはとても難しいので、古い人工衛星はたいてい宇宙に残されたままになっている）
+ここで old satellites（古い人工衛星）の話が出てきます。古くなった人工衛星は回収されず、宇宙に残っているのです。
+There, they move around the earth with other satellites that are still being used.（そこで、古い人工衛星は、まだ使われているほかの人工衛星といっしょに地球の周りを回っている）
+still being used（まだ使われている）人工衛星と比べているので、古い人工衛星は「もう使われていない」ものだと分かります。satellites that are no longer used（もう使われていない人工衛星）を入れると、あとの文の old satellites の話とつながります。ですから1が正解です。
+この問題の型：対比（もう使われていない古い人工衛星⇔まだ使われている人工衛星）／推論（あとの文から空所の中身を考える）
+【ほかの選択肢】
+2 「宇宙に行きたい人々」については、本文に書かれていません。段落全体は、宇宙に残された古い人工衛星の話なので、つながりません。
+3 「新しく発見された星」も本文にありません。空所のあとの文は、回収できずに宇宙に残る古い人工衛星の話で、星の発見の話ではありません。
+4 「人工衛星を修理する会社」も本文に出てきません。本文には、宇宙から物を回収するのはとても難しく、古い人工衛星は残されたままだとあり、修理する会社が増えたという話にはつながりません。
+【覚えるポイント】
+・no longer ～：「もう～ない」。satellites that are no longer used で「もう使われていない人工衛星」。
+・空所のあとの文に、空所の中身を説明する言葉（ここでは old satellites）や反対の言葉（still being used）が出てくることがあるので、あとの2文まで読んでから選びましょう。

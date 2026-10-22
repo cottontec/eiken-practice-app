@@ -1,0 +1,32 @@
+---
+choices: apologize | supply | determine | instruct
+answerText: apologize
+---
+【正解】1 apologize（謝る）
+【和訳】
+（英文）
+A: I'm sorry for being late.
+B: You don't have to ［apologize］. It's not your fault that your train wasn't on time.
+（訳）
+A：遅れてすみません。
+B：（謝る）必要はありませんよ。電車が時間どおりに来なかったのは、あなたのせいではありません。
+（選択肢の意味）
+1 apologize：謝る
+2 supply：供給する、与える
+3 determine：決定する、決心する
+4 instruct：指示する、教える
+【考え方】
+まず見るところ：Aの I'm sorry for being late. と、Bの It's not your fault
+A: I'm sorry for being late.（遅れてすみません）
+Aは遅れたことを謝っています。I'm sorry for ～ing は「～してすみません」という意味です。
+It's not your fault that your train wasn't on time.（電車が時間どおりでなかったのは、あなたのせいではない）
+Bは、遅れたのは電車のせいで、Aが悪いのではないと言っています。ですから、その前の You don't have to (　). は「謝る必要はない」という意味になると考えられます。
+don't have to ～ は「～する必要はない」という意味です。apologize（謝る）を入れると「謝る必要はありません」となり、Aのおわびに対する返事として自然です。ですから1が正解です。
+この問題の型：語の意味・組み合わせ（I'm sorry への返事）
+【ほかの選択肢】
+2 supply は「供給する、与える」です。「供給する必要はありません」となり、遅れたことへのおわびに対する返事になりません。
+3 determine は「決定する、決心する」です。「決める必要はありません」では、何を決めるのか分からず、会話がつながりません。
+4 instruct は「指示する、教える」です。「指示する必要はありません」となり、「あなたのせいではない」という続きとつながりません。
+【覚えるポイント】
+・don't have to ～：「～する必要はない」。must not ～（～してはいけない）とは意味が違います。
+・会話の空所は、相手の直前の発言（ここでは I'm sorry）に対する返事として自然かどうかを考えると、答えを決める手がかりになります。

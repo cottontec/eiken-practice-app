@@ -1,0 +1,30 @@
+---
+choices: It took longer than he expected for it to be served. | The way that it looked was very appealing. | His steak was not cooked as he had asked. | He had never tried a mushroom burger before.
+answerText: The way that it looked was very appealing.
+---
+【正解】2 The way that it looked was very appealing.（その見た目がとても魅力的だった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one thing Derek Lyle says about his food?（デレク・ライルが自分の料理について言っていることの1つは何ですか。）
+1 It took longer than he expected for it to be served.（料理が出てくるまでに、彼が予想していたより長く時間がかかった。）
+2 The way that it looked was very appealing.（その見た目がとても魅力的だった。）
+3 His steak was not cooked as he had asked.（彼のステーキは、頼んだとおりに焼かれていなかった。）
+4 He had never tried a mushroom burger before.（彼はそれまでマッシュルームバーガーを食べたことがなかった。）
+【考え方】
+まず見るところ：第2段落の It was not only delicious but also beautifully presented.
+料理については第2段落に書かれています。その中の次の文に注目します。
+It was not only delicious but also beautifully presented.（料理はおいしいだけでなく、盛りつけも美しかった）
+not only A but also B は「AだけでなくBも」という意味です。presented はここでは「（料理が）出された、盛りつけられた」という意味で、beautifully presented は「美しく盛りつけられていた」となります。
+本文と選択肢を対にすると、次のようになります。
+本文 beautifully presented（美しく盛りつけられていた）→ 選択肢 The way that it looked was very appealing（その見た目がとても魅力的だった）
+盛りつけが美しいということは、料理の見た目が魅力的だということです。appealing は「魅力的な、心を引きつける」という意味です。ですから2が正解です。
+この問題の型：言いかえ（beautifully presented → the way that it looked was very appealing）
+【ほかの選択肢】
+1 本文と反対の内容です。第2段落の初めに We did not have to wait long for our food to be served.（私たちは、料理が出てくるのを長く待つ必要はなかった）とあります。
+3 本文と反対の内容です。本文には I ordered a steak, and it was cooked exactly as I had asked.（私はステーキを注文したが、それは私が頼んだとおりに焼かれていた）とあります。
+4 人物が違います。マッシュルームバーガーを選んだのは、デレクではなく友人です。また、友人は it was probably the best burger he had ever tasted（それはおそらく今まで食べた中で最高のハンバーガーだ）と言っていますが、マッシュルームバーガーを食べたことがなかったという話は本文にありません。
+【覚えるポイント】
+・not only A but also B：「AだけでなくBも」。Bの部分（ここでは beautifully presented）が選択肢で問われることがあります。
+・選択肢に「彼（he）」が出てきたら、本文でそれがだれの話なのか（ここではデレクか友人か）を確かめると、人物の取り違えを防げます。

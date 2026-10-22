@@ -1,0 +1,32 @@
+---
+choices: To keep their thoughts organized. | To let others know about some important events. | To show them to someone they love. | To read them when they feel stressed.
+answerText: To keep their thoughts organized.
+---
+【正解】1 To keep their thoughts organized.（自分の考えを整理しておくため。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one of the common reasons people keep diaries?（人々が日記をつける一般的な理由の1つは何ですか。）
+1 To keep their thoughts organized.（自分の考えを整理しておくため。）
+2 To let others know about some important events.（いくつかの大切な出来事について、ほかの人に知らせるため。）
+3 To show them to someone they love.（愛する人に見せるため。）
+4 To read them when they feel stressed.（ストレスを感じたときに読むため。）
+【考え方】
+まず見るところ：第1段落の One of the common reasons ～ と、段落の最後の is also a common means to organize their memories
+One of the common reasons why people keep a diary is to reduce stress.（人々が日記をつける一般的な理由の1つは、ストレスを減らすことだ）
+By writing down ideas and thoughts that they do not want others to hear or know, they can calm down some emotions.（ほかの人に聞かれたり知られたりしたくない考えや思いを書き留めることで、いくつかの感情を落ち着かせることができる）
+1つ目の理由は「ストレスを減らすこと」です。考えや思いを書き留めることで、気持ちを落ち着かせます。
+Writing down what they have done, especially during important events such as vacations, is also a common means to organize their memories.（自分がしたことを、特に休暇のような大切な出来事の間に書き留めることも、記憶を整理するための一般的な手段だ）
+also（～も）があるので、これがもう1つの一般的な理由です。means は「手段」、organize は「整理する」です。
+本文と選択肢を対にすると、次のようになります。
+本文 a common means to organize their memories（記憶を整理するための一般的な手段）→ 選択肢 To keep their thoughts organized（自分の考えを整理しておくため）
+本文の memories（記憶）は、選択肢では thoughts（考え、頭の中にあること）と少し広い言葉で言いかえられています。「頭の中のことを整理する」という点が同じなので、1が正解です。
+この問題の型：言いかえ（organize their memories → keep their thoughts organized）
+【ほかの選択肢】
+2 本文では、大切な出来事の間にしたことを書き留めるのは、自分の記憶を整理するためです。また、日記には thoughts that they do not want others to hear or know（ほかの人に聞かれたり知られたりしたくない考え）を書くとあり、ほかの人に知らせるためとは書かれていません。
+3 愛する人に見せるという話は、本文に書かれていません。
+4 本文にはストレスの話がありますが、「ストレスを減らすために書く」という内容です。ストレスを感じたときに日記を読むとは書かれていません。書くことと読むことが入れかわっています。
+【覚えるポイント】
+・organize：「整理する」。keep ～ organized で「～を整理された状態に保つ」。
+・「理由の1つ」をたずねる設問では、One of the reasons ～ のほかに、also（～も）で付け足された理由がないかも探しましょう。

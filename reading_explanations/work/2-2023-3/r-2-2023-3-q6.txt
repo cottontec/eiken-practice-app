@@ -14,13 +14,17 @@ After the soccer game had to be canceled, people with tickets were ［refunded�
 3 alerted：警告された、注意を促された
 4 displayed：展示された、表示された
 【考え方】
-文の前半の After the soccer game had to be canceled（サッカーの試合が中止にならざるをえなくなったあと）に注目します。had to be canceled は「中止されなければならなかった」という意味です。
-後半は people with tickets were (　) the cost of buying them.（チケットを持っていた人たちは、それを買った代金を（　）された）です。them は tickets（チケット）を指しています。試合がなくなれば、チケットを買った人は観戦できません。そのとき、買ったお金がどうなるかを考えます。
-refund は「（代金を）払い戻す」という意味で、refund ＋人＋代金で「人に代金を払い戻す」となります。この文はそれを受け身（～される、という形）にしたもので、people were refunded the cost（人々は代金を払い戻された）となります。試合の中止とつながるので、1が正解です。
+まず見るところ：文の初めの After the soccer game had to be canceled と、空所のあとの the cost of buying them
+After the soccer game had to be canceled（サッカーの試合が中止にならざるをえなくなったあと）
+had to be canceled は「中止されなければならなかった」という意味です。試合がなくなれば、チケットを買った人は観戦できません。
+people with tickets were (　) the cost of buying them.（チケットを持っていた人たちは、それを買った代金を（　）された）
+them は tickets（チケット）を指しています。観戦できなくなったとき、買ったお金がどうなるかを考えます。
+refund は「（代金を）払い戻す」という意味で、refund ＋人＋代金で「人に代金を払い戻す」となります。この文はそれを受け身（～される、という形）にしたもので、「人々は代金を払い戻された」となります。試合の中止とつながるので、1が正解です。
+この問題の型：語の意味・組み合わせ（refund ＋人＋代金）
 【ほかの選択肢】
 2 indicated は「示された」です。「チケットを買った代金を示された」となり、試合が中止になったことへの対応として意味が通りません。
-3 alerted は「警告された、注意を促された」です。alert は「人に危険などを知らせる」という意味で、「代金を警告された」という言い方では意味が通りません。
+3 alerted は「警告された、注意を促された」です。「代金を警告された」となり、意味が通りません。
 4 displayed は「展示された、表示された」です。「人々が代金を展示された」となり、意味が通りません。
 【覚えるポイント】
-・refund：「払い戻す」。名詞で「払い戻し（金）」の意味もあります。get a refund で「払い戻しを受ける」。
-・cancel：「中止する、取り消す」。
+・refund：「払い戻す」。名詞で「払い戻し（金）」の意味もあります。
+・canceled（中止された）と the cost（代金）が同じ文に出てきたら、お金が返ってくる話ではないかと考える手がかりになります。

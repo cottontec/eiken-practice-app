@@ -1,0 +1,29 @@
+---
+choices: Even so | For this reason | In exchange | For instance
+answerText: For this reason
+---
+【正解】2 For this reason（このため）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Even so（たとえそうでも、それでも）
+2 For this reason（このため）
+3 In exchange（その代わりに、引きかえに）
+4 For instance（たとえば）
+【考え方】
+まず見るところ：第2段落の空所の前の thousands of liters of water are released と、空所のあとの due to the higher humidity levels
+空所の直前の文は次のとおりです。
+With so many corn crops in one area, thousands of liters of water are released from the plants every day.（1つの地域にこれほど多くのトウモロコシがあるので、毎日何千リットルもの水が作物から放出されている）
+空所のあとは次のとおりです。
+local residents are feeling increasingly uncomfortable due to the higher humidity levels（地元の住民は、（以前より）高い湿度のせいで、ますます不快に感じるようになっている）
+第2段落の前半に、トウモロコシが水を放出すると空気の湿度が（それまでより）高くなる、と説明されています。つまり「大量の水が放出される」ことが原因で、「湿度が上がって住民が不快に感じる」ことが結果です。
+原因のあとに結果を続けるときは、For this reason（このため）を使います。ですから2が正解です。
+この問題の型：因果（大量の水が放出される→住民が不快に感じる）
+【ほかの選択肢】
+1 Even so は「たとえそうでも、それでも」で、前の内容から予想されることとは反対のことを述べるときに使います。大量の水が出て湿度が上がれば、不快になるのは予想どおりのことなので、合いません。
+3 In exchange は「その代わりに、引きかえに」です。水を放出することと、住民が不快に感じることは、何かを交換している関係ではないので合いません。
+4 For instance は「たとえば」で、前の内容の具体例を挙げるときに使います。住民が不快に感じることは、水が放出されることの例ではなく、その結果なので合いません。
+【覚えるポイント】
+・For this reason：「このため、こういう理由で」。前に原因、あとに結果がきます。
+・つなぎの語句の空所では、前の文とあとの文が「原因と結果」「例」「反対」のどの関係かを確かめると、選ぶ手がかりになります。ここでは due to（～のせいで）が、あとの文が結果であることを示しています。

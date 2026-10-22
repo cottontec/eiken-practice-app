@@ -1,0 +1,30 @@
+---
+choices: intends to cancel the next teachers' meeting. | knows a lot about educational materials. | was hired by the school after he finished an online course. | visited the local school to fix teachers' computers.
+answerText: knows a lot about educational materials.
+---
+【正解】2 knows a lot about educational materials.（教材についてよく知っている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Joshua Kimura（ジョシュア・キムラは～。）
+1 intends to cancel the next teachers' meeting.（次の教員会議を中止するつもりだ。）
+2 knows a lot about educational materials.（教材についてよく知っている。）
+3 was hired by the school after he finished an online course.（オンライン講座を終えたあとで、その学校に雇われた。）
+4 visited the local school to fix teachers' computers.（教員のコンピューターを修理するために地元の学校を訪れた。）
+【考え方】
+まず見るところ：第3段落の As you are the expert in this area
+As you are the expert in this area, I would like you to check both textbooks and see what online resources you recommend.（あなたはこの分野の専門家なので、両方の教科書を確認して、どんなオンラインの資料を勧めるかを考えてもらいたい）
+As はここでは「～なので」と理由を表します。you はメールを受け取ったジョシュアです。this area（この分野）は、直後の両方の教科書やオンラインの資料の話から、授業で使う教材の分野のことだと考えられます。
+ジェンキンズさんがジョシュアに教科書と資料の確認を頼んでいるのは、ジョシュアがその分野の専門家だからです。
+本文と選択肢を対にすると、次のようになります。
+本文 the expert in this area（この分野（教科書や資料）の専門家）→ 選択肢 knows a lot about educational materials（教材についてよく知っている）
+「専門家である」を「よく知っている」と言いかえているので、2が正解です。
+この問題の型：指示語（this area が指すもの）／言いかえ
+【ほかの選択肢】
+1 本文には the next meeting（次の会議）が出てきますが、ジョシュアの意見は次の会議の前に聞いておくべきだ、という話です。ジョシュアが会議を中止するつもりだとは書かれていません。
+3 本文に出てくる online は online resources（オンラインの資料）で、オンライン講座の話ではありません。ジョシュアがいつ、どのように雇われたかも書かれていません。
+4 コンピューターを修理する話は、本文に書かれていません。
+【覚えるポイント】
+・As you are ～：この as は「～なので」と理由を表します。
+・人物についての設問では、その人について説明している部分（ここでは As you are the expert）を探し、選択肢と同じ内容かを確かめましょう。

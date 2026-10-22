@@ -14,13 +14,18 @@ In Canada, road signs for speed limits are posted in kilometers per hour. Americ
 3 filter：ろ過する、選別する
 4 convert：換算する、変える
 【考え方】
-1文目に、カナダの標識は in kilometers per hour（時速何キロメートルで）表示されているとあります。
-2文目は Americans often need to ( ) the measurements to miles per hour（アメリカ人は、その数値を時速何マイルに（　）する必要がよくある）です。measurements は「測った数値」で、ここでは標識に書かれたキロメートルの数字を指しています。in order to understand how fast they can drive（どのくらいの速さで運転してよいのかを知るために）とあるので、アメリカ人にとってはマイルの数字のほうが分かりやすく、キロメートルの数字をマイルの数字に直していると考えられます。
+まず見るところ：空所のあとの the measurements to miles per hour
+1文目に、カナダの標識の表し方が書かれています。
+road signs for speed limits are posted in kilometers per hour（制限速度の道路標識は時速何キロメートルで表示されている）
+2文目は次のとおりです。
+Americans often need to ( ) the measurements to miles per hour（アメリカ人は、その数値を時速何マイルに（　）する必要がよくある）
+measurements は「測った数値」で、ここでは標識に書かれたキロメートルの数字を指しています。そのあとに in order to understand how fast they can drive（どのくらいの速さで運転してよいのかを知るために）とあるので、アメリカ人にとってはマイルの数字のほうが分かりやすく、キロメートルの数字をマイルの数字に直していると考えられます。
 convert A to B は「AをBに変える、換算する（ある単位の数を別の単位の数に直す）」という意味です。convert the measurements to miles per hour で「その数値を時速何マイルに換算する」となるので、4が正解です。
+この問題の型：熟語・決まった形（convert A to B）／推論（キロメートル→マイルに直す）
 【ほかの選択肢】
 1 resign は「辞職する、（仕事を）辞める」です。「数値を辞める」となり、意味が通りません。
 2 derive は「引き出す、得る」で、derive A from B（BからAを得る）の形でよく使います。この文は to miles per hour（時速何マイルへ）と「どこへ変えるか」を示しているので、合いません。
 3 filter は「ろ過する（こして不純物を取り除く）、選別する」です。「数値をろ過する」となり、単位を直す話とつながりません。
 【覚えるポイント】
-・convert A to B：「AをBに変える、換算する」。convert dollars to yen（ドルを円に換算する）のようにも使います。
-・per hour：「1時間につき」。kilometers per hour で「時速何キロメートル」。
+・convert A to B：「AをBに変える、換算する」。
+・動詞の空所のあとに「A to B」の形が続くときは、AからBへ「変える」「移す」という意味の動詞が入ることがあり、to のあとの語（ここでは miles per hour）が手がかりになります。

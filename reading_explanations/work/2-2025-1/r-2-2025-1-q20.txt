@@ -1,0 +1,29 @@
+---
+choices: as far as a few kilometers away | as long as they are in a safe place | less far than they think | much deeper in the ground
+answerText: as far as a few kilometers away
+---
+【正解】1 as far as a few kilometers away（数キロメートルも離れたところにいる）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 as far as a few kilometers away（数キロメートルも離れたところにいる、数キロメートル離れたところまで）
+2 as long as they are in a safe place（安全な場所にいる限りは）
+3 less far than they think（自分たちが思っているほど遠くないところに）
+4 much deeper in the ground（地中のずっと深いところに）
+【考え方】
+まず見るところ：第3段落の空所の前の lower sounds can reach farther than higher sounds と、文の最後の from a distance
+they use low sounds because lower sounds can reach farther than higher sounds（低い音のほうが高い音よりも遠くまで届くので、ゾウは低い音を使う）
+farther は far（遠い）の比べる形で、「より遠くへ」という意味です。ゾウが低い音を使うのは、高い音より遠くまで届くからだと分かります。
+By using them, they can send messages to others (20).（その音を使うことで、ゾウは（20）ほかのゾウにメッセージを送ることができる）
+them は low sounds（低い音）を指します。遠くまで届く音を使うのですから、空所には「遠く離れたところまで」という内容が入ると考えられます。
+Mothers can also help their baby elephants feel calm and safe by letting them know where they are from a distance.（母親のゾウも、離れたところから自分がどこにいるかを知らせることで、赤ちゃんゾウを安心させられる）
+段落の最後の from a distance（離れたところから）も、遠くの相手に伝えられることを示しています。as far as a few kilometers away（数キロメートルも離れたところにいる）を入れると、これらの内容とつながるので、1が正解です。
+この問題の型：因果（because の理由と、それによってできること）／指示語（them ＝ low sounds）
+【ほかの選択肢】
+2 「安全な場所にいる限りは」を入れると、「安全な場所にいる限りメッセージを送れる」となります。しかし、そのあとには敵やライバルの群れがいることを知らせるという話があり、安全な場所にいるときだけという条件は本文にありません。
+3 「自分たちが思っているほど遠くないところに」を入れると、「思っているほど遠くには届かない」という意味になり、「低い音は高い音より遠くまで届く」という前の内容と反対になります。
+4 「地中のずっと深いところに」を入れると、「地中深くにいるゾウにメッセージを送る」となります。本文は音がどこまで遠く届くかの話で、地中の話はなく、意味が通りません。
+【覚えるポイント】
+・as far as ～：「～ほど遠くまで、～も（離れたところ）まで」。
+・空所の前に because ～ farther（より遠くへ）のような理由が書かれていたら、それによって何ができるのかを考え、その理由に合う選択肢を選ぶと答えが決まりやすくなります。

@@ -1,0 +1,27 @@
+---
+choices: early in the morning or late at night | while they are near oceans | without being blocked by tall buildings | with expensive systems inside
+answerText: without being blocked by tall buildings
+---
+【正解】3 without being blocked by tall buildings（高い建物にさえぎられることなく）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 early in the morning or late at night（朝早くや夜遅くに）
+2 while they are near oceans（海の近くにいるあいだに）
+3 without being blocked by tall buildings（高い建物にさえぎられることなく）
+4 with expensive systems inside（高価なしくみを中に積んで）
+【考え方】
+まず見るところ：第1段落の空所のあとの This is because they operate in space and travel much higher than the radio towers.
+空所は Satellites can also send radio waves (21).（人工衛星はまた、（21）電波を送ることもできる）の中にあります。電波をどのように送れるのかを表す部分です。
+This is because they operate in space and travel much higher than the radio towers.（これは、人工衛星が宇宙で活動していて、電波塔よりもはるかに高いところを進んでいるからだ）
+This is because ～ は「これは～だからだ」と、前の文の理由を説明する言い方です。理由は「人工衛星は電波塔よりずっと高いところにある」ということです。
+人工衛星は地上の電波塔よりはるかに高いところから電波を送るので、地上の高い建物にじゃまされにくいと考えられます。without being blocked by tall buildings（高い建物にさえぎられることなく）を入れると、「高いところにある」という理由と合います。ですから3が正解です。
+この問題の型：因果（This is because ～ で理由を説明）／推論（高いところから送る→さえぎられない）
+【ほかの選択肢】
+1 「朝早くや夜遅くに」を入れると、電波を送る時間の話になります。しかし、あとの文の理由は「高いところにある」ことで、時間帯とは関係がありません。
+2 「海の近くにいるあいだに」を入れると、場所が海の近くに限られることになります。本文には海の話はなく、「宇宙で、電波塔よりはるかに高いところにある」という理由ともつながりません。
+4 「高価なしくみを中に積んで」を入れると、人工衛星の中の装置の話になります。あとの文は、値段や装置ではなく、高さを理由として述べているので合いません。
+【覚えるポイント】
+・block：「さえぎる、ふさぐ」。without being ～ed で「～されることなく」。
+・空所のすぐあとに This is because ～ があるときは、その理由（ここでは much higher than the radio towers）から結果を考えると、空所の内容が分かる手がかりになります。

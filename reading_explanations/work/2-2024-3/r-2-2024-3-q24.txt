@@ -1,0 +1,31 @@
+---
+choices: Which teaching materials to use next semester. | How many teachers' meetings to have each week. | Who to ask for opinions about the new textbooks. | When to invite textbook sellers to suggest their books.
+answerText: Which teaching materials to use next semester.
+---
+【正解】1 Which teaching materials to use next semester.（来学期にどの教材を使うか。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What was decided in the teachers' meeting last week?（先週の教員会議で何が決まりましたか。）
+1 Which teaching materials to use next semester.（来学期にどの教材を使うか。）
+2 How many teachers' meetings to have each week.（毎週何回、教員会議を開くか。）
+3 Who to ask for opinions about the new textbooks.（新しい教科書について、だれに意見を聞くか。）
+4 When to invite textbook sellers to suggest their books.（教科書の販売業者を、本を勧めてもらうためにいつ招くか。）
+【考え方】
+まず見るところ：第1段落の the decisions made during last week's teachers' meeting regarding textbook selection for the next semester と、In the meeting, we agreed to use ～
+I wanted to update you on the decisions made during last week's teachers' meeting regarding textbook selection for the next semester.（来学期の教科書の選定について、先週の教員会議で決まったことをお知らせしたいと思った）
+regarding ～ は「～について」です。会議で決まったのは「来学期の教科書の選定」についてのことだと分かります。
+In the meeting, we agreed to use two main textbooks, Your Daily English and English First.（会議では、2冊の主な教科書、『ユア・デイリー・イングリッシュ』と『イングリッシュ・ファースト』を使うことで意見がまとまった）
+agree to ～ は「～することで意見が一致する」です。会議では、来学期に使う教科書が決まりました。
+本文と選択肢を対にすると、次のようになります。
+本文 agreed to use two main textbooks ～ for the next semester（来学期に2冊の主な教科書を使うことで意見がまとまった）→ 選択肢 Which teaching materials to use next semester（来学期にどの教材を使うか）
+teaching materials（教材）は、教科書を含む、授業で使うもの全体を表す言い方です。教科書を「教材」と広く言いかえているので、1が正解です。
+この問題の型：言いかえ（textbooks → teaching materials）
+【ほかの選択肢】
+2 本文に出てくる会議の話は、先週の会議と the next meeting（次の会議）だけです。毎週何回会議を開くかを決めたとは書かれていません。
+3 第3段落に We all agree that your opinions about this matter should be heard before the next meeting.（この件についてのあなたの意見は次の会議の前に聞いておくべきだということで、全員一致している）とあります。しかし、本文で「会議で決まったこと」として書かれているのは、第1段落の教科書の話です。会議で「だれに意見を聞くか」を話し合って決めたとは書かれていません。
+4 教科書の販売業者を招く話は、本文に書かれていません。
+【覚えるポイント】
+・regarding ～：「～について」。about とほぼ同じ意味です。
+・「何が決まったか」をたずねる設問では、decisions（決まったこと）や agreed（意見がまとまった）のような語がある文を探すと根拠が見つかりやすいです。

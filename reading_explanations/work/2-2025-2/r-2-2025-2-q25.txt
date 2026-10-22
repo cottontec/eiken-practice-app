@@ -1,0 +1,31 @@
+---
+choices: another group will use the classroom. | some of the weeks include national holidays. | the instructor will be at another location. | some participants will take math examinations.
+answerText: the instructor will be at another location.
+---
+【正解】3 the instructor will be at another location.（講師が別の場所にいるから。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：The class schedule will be changed because（授業の日程が変更されるのは、～からである。）
+1 another group will use the classroom.（別のグループが教室を使う）
+2 some of the weeks include national holidays.（いくつかの週に国民の祝日がふくまれている）
+3 the instructor will be at another location.（講師が別の場所にいる）
+4 some participants will take math examinations.（一部の参加者が数学の試験を受ける）
+【考え方】
+まず見るところ：第2段落の However, there will be a slight change in the schedule because ～
+However, there will be a slight change in the schedule because the instructor of this course will be away for one week to attend an international conference.（ただし、この講座の講師が国際会議に出席するために1週間不在となるため、日程に少し変更がある。）
+because（～なので）の後ろが、日程が変わる理由です。講師が国際会議に出るために、1週間いなくなるということです。
+So, two classes for that week will be held in June.（そのため、その週の2回の授業は6月に行う。）
+講師がいない週の授業が、6月に移されることが分かります。
+本文と選択肢を対にすると、次のようになります。
+本文 the instructor of this course will be away for one week to attend an international conference ＝ 選択肢 the instructor will be at another location
+be away は「（ふだんの場所から）離れている、不在である」という意味です。国際会議に出席するためにいつもの場所を離れることを、選択肢では「別の場所にいる」と言いかえています。ですから3が正解です。
+この問題の型：言いかえ（will be away ＝ will be at another location）
+【ほかの選択肢】
+1 別のグループが教室を使うという話は、本文にありません。
+2 祝日については、本文のどこにも書かれていません。日程が変わる理由は、講師が国際会議に出席することです。
+4 数学の試験は本文に出てきません。この講座はマーケティングの講座で、参加者が試験を受けるという話もありません。
+【覚えるポイント】
+・be away：「（ふだんの場所から）離れている、不在である」。
+・「～が変更されるのはなぜか」という設問では、本文の because や due to（～のために）の後ろを探すと、理由を見つける手がかりになります。

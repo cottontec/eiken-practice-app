@@ -7,26 +7,28 @@ answerText: Create notices that tell people about an activity.
 ＜本文の全訳＞
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
-設問：メリッサが図書館の職員に頼んでいることの1つは何ですか。
+設問：What is one thing that Melissa asks library staff to do?（メリッサが図書館の職員に頼んでいることの1つは何ですか。）
 1 Let her know if they are friends with any writers.（作家と友だちであれば、彼女に知らせる。）
 2 Help her to move items to make space for an event.（イベントの場所を空けるために、彼女が物を動かすのを手伝う。）
 3 Write a story about a group of young children.（幼い子どもたちのグループについての物語を書く。）
 4 Create notices that tell people about an activity.（ある活動について人々に知らせる掲示物を作る。）
 【考え方】
-設問は「メリッサが職員に頼んでいること」です。第2段落で、メリッサは毎週の読み聞かせの会を始めることにし、I need your help to make it fun（それを楽しいものにするために皆さんの助けが必要です）と書いています。そのあとに、手伝ってほしいことが並んでいます。
+まず見るところ：第2段落の I also need someone to make posters to advertise the sessions
+第2段落で、メリッサは毎週の読み聞かせの会を始めることにし、そのための手伝いを職員に頼んでいます。頼んでいることは次のとおりです。
 ・I want your suggestions for stories（お話についての皆さんの提案がほしい）
 ・I also need someone to make posters to advertise the sessions（会を宣伝するポスターを作る人も必要だ）
 ・someone to look for items that the person telling the story can use ～（お話をする人が使える物を探す人）
 ・we should take turns telling the stories（お話をするのは交代で行うのがよい）
 このうち2つ目が選択肢4に当たります。advertise は「宣伝する、広く知らせる」という意味です。
 本文と選択肢を対にすると、次のようになります。
-本文 make posters（ポスターを作る）＝ 選択肢 Create notices（掲示物を作る）
-本文 advertise the sessions（会を宣伝する）＝ 選択肢 tell people about an activity（ある活動について人々に知らせる）
-make が create（作る）に、posters が notices（掲示物、お知らせ）に言いかえられています。an activity（ある活動）は、読み聞かせの会のことです。ですから4が正解です。
+本文 make posters（ポスターを作る）→ 選択肢 Create notices（掲示物を作る）
+本文 advertise the sessions（会を宣伝する）→ 選択肢 tell people about an activity（ある活動について人々に知らせる）
+make が create（作る）に、posters（ポスター）がより広い意味の notices（掲示物、お知らせ）に言いかえられています。an activity（ある活動）は、読み聞かせの会のことです。ですから4が正解です。
+この問題の型：言いかえ（make posters to advertise → create notices that tell people）
 【ほかの選択肢】
-1 作家と知り合いかどうかを知らせてほしい、という話は本文にありません。メリッサが知らせてほしいと頼んでいるのは、会のためにやりたいことや、会をよくするアイデアです。
+1 作家と知り合いかどうかを知らせてほしい、という話は本文にありません。メリッサが知らせてほしいと頼んでいるのは、会のためにやりたいことや、会をよくするアイデアなどです。
 2 本文の items（物）は、look for items（物を探す）という形で出てきます。お話をする人が使える物を「探す」ことで、場所を空けるために物を「動かす」ことではありません。
 3 メリッサが求めているのは suggestions for stories（お話についての提案）です。職員に物語を書いてほしいとは書かれていません。
 【覚えるポイント】
 ・advertise：「宣伝する、広く知らせる」。名詞は advertisement（広告）です。
-・take turns -ing：「交代で～する」。
+・お願いがいくつも並ぶ段落では、I need someone to ～（～する人が必要だ）のような形を1つずつ拾い、選択肢と動詞（ここでは make と move、look for のちがい）まで比べるのが手がかりになります。

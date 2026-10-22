@@ -1,0 +1,33 @@
+---
+choices: They left their farms and started buying things that were made in factories. | They began working with family members and neighbors to make things. | They had larger families because they were earning more money than before. | They began taking vacations in the countryside and by the sea for their health.
+answerText: They left their farms and started buying things that were made in factories.
+---
+【正解】1 They left their farms and started buying things that were made in factories.（彼らは農場を離れ、工場で作られた物を買い始めた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：How did life change for people in the United Kingdom in the nineteenth century?（19世紀に、イギリスの人々の暮らしはどのように変わりましたか。）
+1 They left their farms and started buying things that were made in factories.（彼らは農場を離れ、工場で作られた物を買い始めた。）
+2 They began working with family members and neighbors to make things.（彼らは家族や近所の人々といっしょに働いて、物を作り始めた。）
+3 They had larger families because they were earning more money than before.（彼らは以前より多くのお金をかせいでいたので、（以前より）大家族になった。）
+4 They began taking vacations in the countryside and by the sea for their health.（彼らは健康のために、田舎や海辺で休暇を過ごすようになった。）
+【考え方】
+まず見るところ：第1段落の Until this time ～ と When new machines were invented ～
+第1段落は、変化の「前」と「後」に分けて書かれています。変化の前は次のとおりです。
+Until this time, many people lived on small farms.（この時代まで、多くの人々は小さな農場で暮らしていた）
+変化の後は次のとおりです。
+people moved into cities to take jobs in the factories（人々は工場の仕事に就くために都市へ移り住んだ）
+They used the money they earned to buy the things they needed, many of which were made by machines instead of by hand.（彼らはかせいだお金で必要なものを買ったが、その多くは手ではなく機械で作られたものだった）
+本文と選択肢を対にすると、次のようになります。
+本文 lived on small farms → moved into cities（小さな農場で暮らしていた→都市へ移り住んだ）→ 選択肢 They left their farms（農場を離れた）
+本文 buy the things they needed, many of which were made by machines（必要なものを買ったが、その多くは機械で作られていた）→ 選択肢 started buying things that were made in factories（工場で作られた物を買い始めた）
+本文では、新しい機械の発明と工場の建設がいっしょに述べられています。ですから、本文の「機械で作られた物」を、選択肢では「工場で作られた物」と表していると考えられます。ですから1が正解です。
+この問題の型：言いかえ（moved into cities → left their farms）／対比（変化の前⇔後）
+【ほかの選択肢】
+2 時期が違います。家族や近所の人々といっしょに働いて物を作っていたのは、Until this time（この時代まで）のこと、つまり変化の前の暮らしです。19世紀に「始めた」ことではありません。
+3 大家族になったという話は本文にありません。かせいだお金については、必要なものを買うのに使ったと書かれているだけです。
+4 田舎や海辺で休暇を過ごすようになったという話は本文にありません。本文では、人々は田舎から都市へ移り住んでいます。
+【覚えるポイント】
+・Until this time：「この時代まで」。ここより前は「変化の前」の話だという目印になります。
+・「どのように変わったか」を問われたら、本文の「前の状態」と「後の状態」を分けて読み、選択肢が「後の状態」を述べているかを確かめると、時期の取り違えを防げます。

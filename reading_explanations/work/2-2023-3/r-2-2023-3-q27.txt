@@ -1,0 +1,31 @@
+---
+choices: have been selected to work at several job fairs at different colleges. | were asked to give a guest lecture to computer engineering students. | will take part in an event at a university in Petersburg. | are being sent to another department to help train new workers.
+answerText: will take part in an event at a university in Petersburg.
+---
+【正解】3 will take part in an event at a university in Petersburg.（ピーターズバーグにある大学での催しに参加する。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Some employees from the IT department（IT部門の何人かの社員は）
+1 have been selected to work at several job fairs at different colleges.（別々の大学のいくつかの就職フェアで働くよう選ばれている。）
+2 were asked to give a guest lecture to computer engineering students.（コンピューター工学の学生に特別講義をするよう頼まれた。）
+3 will take part in an event at a university in Petersburg.（ピーターズバーグにある大学での催しに参加する。）
+4 are being sent to another department to help train new workers.（新しい社員の研修を手伝うために、別の部門に送られようとしている。）
+【考え方】
+まず見るところ：第1段落の we'll be sending two employees to the West University Career Fair in Petersburg
+Here in the IT department, we'll be sending two employees to the West University Career Fair in Petersburg.（ここIT部門からは、ピーターズバーグで開かれるウェスト大学キャリアフェアに、2人の社員を送る予定だ）
+IT部門の2人の社員が、ピーターズバーグにある大学のフェアに行くことが分かります。
+本文と選択肢を対にすると、次のようになります。
+本文 two employees（2人の社員）＝ 選択肢 Some employees（何人かの社員）
+本文 we'll be sending ～ to the West University Career Fair（ウェスト大学キャリアフェアに送る予定だ）＝ 選択肢 will take part in an event at a university（大学での催しに参加する）
+本文 in Petersburg ＝ 選択肢 in Petersburg
+フェア（Career Fair）が、選択肢では an event（催し）と言いかえられています。ですから3が正解です。
+この問題の型：言いかえ（Career Fair → an event）
+【ほかの選択肢】
+1 3つの大学でフェアが開かれ、社長は各フェアに別々の部門から社員を送ると決めました。IT部門が行くのはそのうちの1つ（ウェスト大学）だけなので、「いくつかのフェアで働く」は本文と違います。また、だれが行くかは水曜日の会議で決めるとあり、まだ選ばれていません。
+2 computer engineering（コンピューター工学）は、ウェスト大学を選んだ理由として出てくるだけです。学生に講義をするという話は本文にありません。
+4 社員が送られるのは大学のフェアで、別の部門ではありません。新しい社員の研修を手伝う話も本文にありません。
+【覚えるポイント】
+・job fair / career fair：「就職フェア（会社が学生に仕事を紹介する催し）」。選択肢では event（催し）のように、大きなまとめの言葉に言いかえられることがあります。
+・人数や場所（two employees・in Petersburg）のような具体的な情報は、選択肢と本文で一つずつ照らし合わせると確かめやすくなります。

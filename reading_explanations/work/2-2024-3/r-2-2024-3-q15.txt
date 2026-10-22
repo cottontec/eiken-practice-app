@@ -1,0 +1,32 @@
+---
+choices: on strike | on foot | in line | in effect
+answerText: in effect
+---
+【正解】4 in effect（（規則や法律が）実施されて、有効で）
+【和訳】
+（英文）
+A: I thought the new rule was going to start today.
+B: It was, but the manager said that it wouldn't be ［in effect］ until next month.
+（訳）
+A：新しい規則は今日から始まる予定だと思っていたよ。
+B：その予定だったんだけど、責任者が、来月まで（実施されない）と言ったんだ。
+（選択肢の意味）
+1 on strike：ストライキ中で
+2 on foot：歩いて
+3 in line：列に並んで
+4 in effect：（規則や法律が）実施されて、有効で
+【考え方】
+まず見るところ：Aの the new rule was going to start today と、Bの until next month
+I thought the new rule was going to start today.（新しい規則は今日から始まる予定だと思っていた）
+Aは新しい規則が今日から始まると思っていました。
+It was, but the manager said that it wouldn't be (　) until next month.（その予定だったが、責任者は、来月まで（　）ないと言った）
+It was は It was going to start today（今日から始まる予定だった）を短くした言い方です。but のあとで、予定が変わったことが述べられます。not ～ until next month は「来月まで～ない」、つまり「来月になってから～する」という意味です。
+規則が「始まる」ことを表す言い方として、in effect（実施されて、有効で）を入れると、「来月まで規則は実施されない」となり、Aの「今日から始まると思っていた」という話とつながります。ですから4が正解です。
+この問題の型：言いかえ（start ⇔ be in effect）
+【ほかの選択肢】
+1 on strike は「ストライキ（働く人が要求のために仕事を休むこと）中で」です。「規則が来月までストライキ中にならない」となり、意味が通りません。
+2 on foot は「歩いて」です。「規則が来月まで歩いていない」となり、意味が通りません。
+3 in line は「列に並んで」です。「規則が来月まで列に並ばない」となり、意味が通りません。
+【覚えるポイント】
+・be in effect：「（規則や法律が）実施されている、有効である」。
+・not ～ until … は「…まで～ない」、つまり「…になってはじめて～する」という意味なので、何がいつ始まるのかを確かめると空所の手がかりになります。

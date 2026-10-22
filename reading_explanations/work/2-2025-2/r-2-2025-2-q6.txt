@@ -1,0 +1,30 @@
+---
+choices: massive | internal | consistent | recent
+answerText: consistent
+---
+【正解】3 consistent（一貫した、変わらない）
+【和訳】
+（英文）
+The politician's view on education was ［consistent］ through his whole career. He never changed his opinion that teachers should be paid more.
+（訳）
+その政治家の教育についての考えは、政治家としての経歴全体を通して（一貫して）いました。教師にもっと多くの給料が支払われるべきだという意見を、彼は一度も変えませんでした。
+（選択肢の意味）
+1 massive：巨大な、大量の
+2 internal：内部の、国内の
+3 consistent：一貫した、変わらない
+4 recent：最近の
+【考え方】
+まず見るところ：うしろの文の He never changed his opinion
+He never changed his opinion that teachers should be paid more.（教師にもっと多くの給料が支払われるべきだという意見を、彼は一度も変えなかった。）
+never は「一度も～ない」という意味です。この政治家は、ずっと同じ意見を持ち続けていたことが分かります。
+The politician's view on education was ( ) through his whole career.（その政治家の教育についての考えは、経歴全体を通して（　）だった。）
+through his whole career（経歴全体を通して）は「始めから終わりまでずっと」ということです。「ずっと一度も意見を変えなかった」のですから、考えは「一貫していた、変わらなかった」と言えます。
+「一貫した」という意味の consistent を入れると、うしろの文と同じ内容を別の言い方で表すことになり、話がつながります。ですから3が正解です。
+この問題の型：言いかえ（consistent ＝ never changed）
+【ほかの選択肢】
+1 massive は「巨大な、大量の」です。「教育についての考えが経歴を通して巨大だった」となり、意見を変えなかったといううしろの文とつながりません。
+2 internal は「内部の、国内の」です。「考えが経歴を通して内部のものだった」となり、意味が通りません。
+4 recent は「最近の」です。「経歴全体を通して」ずっと変わらなかったという話なので、「最近の」とは合いません。
+【覚えるポイント】
+・consistent：「一貫した、（考えや行動が）変わらない」。
+・うしろの文に never changed（一度も変えなかった）のような説明があるときは、空所に同じ内容をまとめる形容詞（名詞の様子を表す語）が入ることが多いです。

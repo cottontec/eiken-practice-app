@@ -1,0 +1,33 @@
+---
+choices: her to provide food for a party at his college. | to get advice about opening his own restaurant. | her to apologize and offer him a refund. | to talk with her about working at her restaurant.
+answerText: to talk with her about working at her restaurant.
+---
+【正解】4 to talk with her about working at her restaurant.（彼女のレストランで働くことについて、彼女と話すこと。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Derek Lyle asks Ms. Clemens to contact him because he wants（デレク・ライルがクレメンスさんに連絡をくれるよう頼んでいるのは、彼が～を望んでいるからである。）
+1 her to provide food for a party at his college.（彼女が、彼の大学でのパーティーに料理を出してくれること。）
+2 to get advice about opening his own restaurant.（自分のレストランを開くことについて助言をもらうこと。）
+3 her to apologize and offer him a refund.（彼女が謝って、彼に返金を申し出てくれること。）
+4 to talk with her about working at her restaurant.（彼女のレストランで働くことについて、彼女と話すこと。）
+【考え方】
+まず見るところ：第3段落の最後の Please reply to this e-mail if you would like me to come for an interview.
+デレクが連絡をくれるよう頼んでいるのは、第3段落の最後の文です。
+Please reply to this e-mail if you would like me to come for an interview.（私に面接に来てほしいとお思いでしたら、このEメールに返信してください）
+では、何の面接でしょうか。第3段落の前の部分に、次のようにあります。
+I noticed a sign that said you were looking for staff.（スタッフを募集しているという掲示に気づいた）
+I would like to find part-time work in the evenings and on weekends.（夜と週末にアルバイトを見つけたい）
+デレクは、このレストランで働くための面接を受けたいと考えています。本文と選択肢を対にすると、次のようになります。
+本文 come for an interview（面接に来る）／ a server or a worker in the kitchen（給仕係か厨房の働き手）→ 読み取れること：このレストランで働くことについて話したい
+選択肢 to talk with her about working at her restaurant（彼女のレストランで働くことについて、彼女と話すこと）
+面接は、働きたい人と店の人が働くことについて話す場なので、4が正解です。
+この問題の型：推論（面接に来たい→働くことについて話したい）／言いかえ
+【ほかの選択肢】
+1 大学が出てくるのは I am currently studying at college（私は現在大学で勉強している）という部分だけです。大学のパーティーに料理を出してほしいという話は本文にありません。
+2 デレクは、自分のレストランを開きたいとは書いていません。書いているのは、このレストランで給仕係か厨房の働き手として働きたいということです。
+3 デレクはサービスと料理の質に感心したと書いており、苦情は言っていません。謝ってほしい、返金（はらったお金を返すこと）してほしいという話は本文にありません。
+【覚えるポイント】
+・come for an interview：「面接に来る」。仕事の募集（looking for staff）の話と合わせて出てくることが多いです。
+・Eメールの問題で「なぜ連絡してほしいのか」を問われたら、最後の段落の Please ～ の文と、その前に書かれた目的（ここでは part-time work）を合わせて読むと手がかりになります。

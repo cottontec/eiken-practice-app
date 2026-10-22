@@ -1,6 +1,7 @@
 ---
 choices: In any case | At any rate | By all means | On the whole
 answerText: By all means
+reviewed: yes
 ---
 【正解】3 By all means（もちろん、ぜひどうぞ）
 【和訳】
@@ -16,13 +17,17 @@ B：（もちろん、どうぞ）。みんなが食べたり飲んだりする�
 3 By all means：もちろん、ぜひどうぞ
 4 On the whole：全体として、概して
 【考え方】
-Aは is it OK if I invite a couple of friends ～?（友達を2、3人呼んでもいい？）と、お母さんに許可を求めています。a couple of ～ は「2、3の～」という意味です。
-Bが続けて言う There should be more than enough for everyone to eat and drink. は「みんなが食べたり飲んだりするのに十分すぎるほどの量があるはずだ」という意味です。should はここでは「～のはずだ」、more than enough は「十分以上、十分すぎるほど」です。食べ物や飲み物がたっぷりあると言っているので、Bは友達を呼ぶことに賛成していると分かります。
-By all means は、許可を求められたときに「もちろん、ぜひどうぞ」と快く答える言い方です。ですから、3が正解です。
+まず見るところ：Bの2文目 There should be more than enough for everyone to eat and drink.
+There should be more than enough for everyone to eat and drink.（みんなが食べたり飲んだりするのに十分すぎるほどの量があるはずだ）
+should はここでは「～のはずだ」、more than enough は「十分以上、十分すぎるほど」です。食べ物や飲み物がたっぷりあると言っているので、Bは友達を呼ぶことに賛成していると分かります。
+is it OK if I invite a couple of friends ～?（友達を2、3人呼んでもいい？）
+Aは、お母さんに許可を求めています。a couple of ～ は「2、3の～」という意味です。
+By all means は、許可を求められたときに「もちろん、ぜひどうぞ」と快く答える言い方です。許可を求める質問への答えとして、あとの文ともつながるので、3が正解です。
+この問題の型：熟語・決まった形（By all means）、推論（会話の流れから返事の意味を考える）
 【ほかの選択肢】
-1 In any case は「いずれにしても、とにかく」です。前の話をまとめたり、話を切りかえたりするときに使う言い方で、「呼んでもいい？」という質問への答えになっていません。
-2 At any rate は「とにかく、少なくとも」です。これも「いいよ」という許可の答えにはならず、そのあとの「十分すぎるほどあるはず」ともうまくつながりません。
+1 In any case は「いずれにしても、とにかく」です。ここに入れても「呼んでもいい」という許可の答えにならず、そのあとの「十分すぎるほどあるはず」ともつながりません。
+2 At any rate は「とにかく、少なくとも」です。これも「いいよ」という許可の答えにはならず、「十分すぎるほどあるはず」ともうまくつながりません。
 4 On the whole は「全体として、概して」です。物事を全体として評価するときの言い方で、許可を求める質問への答えになりません。
 【覚えるポイント】
 ・By all means.：「もちろん、ぜひどうぞ」。許可を求められたときに快く答える言い方です。
-・more than enough：「十分すぎるほど」。a couple of ～：「2、3の～」。
+・会話の返事の空所では、次の文（ここでは「十分すぎるほどある」）が、賛成・反対のどちらの理由になっているかを手がかりにします。more than enough：「十分すぎるほど」。a couple of ～：「2、3の～」。

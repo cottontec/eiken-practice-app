@@ -1,0 +1,29 @@
+---
+choices: destroyed the old business model | changed but still bring people together | become less common over time | returned to their original purpose
+answerText: changed but still bring people together
+---
+【正解】2 changed but still bring people together（変化してきたが、今も人々を結びつけている）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 destroyed the old business model（古い商売のやり方を壊した）
+2 changed but still bring people together（変化してきたが、今も人々を結びつけている）
+3 become less common over time（時がたつにつれて、（以前より）見かけなくなった）
+4 returned to their original purpose（元の目的に戻った）
+【考え方】
+まず見るところ：第3段落の最後の2文 Over time, they have changed to follow social trends. と a casual place to meet
+空所は、第3段落の最後で、今のコーヒーハウスについて述べた文の中にあります。直前の文から確かめます。
+Over time, they have changed to follow social trends.（時がたつにつれて、コーヒーハウスは社会の流れに合わせて変わってきた）
+コーヒーハウスは時代とともに「変わってきた」ことが分かります。
+Nowadays, they offer a quiet place for work or a casual place to meet, showing how these spaces have (20).（今日では、コーヒーハウスは仕事をするための静かな場所や、気軽に会うための場所を提供しており、こうした空間がどのように（20）かを示している）
+a casual place to meet（気軽に会うための場所）とあるので、今でも人が集まり、会う場所になっていることが分かります。
+「変わってきた」と「今でも人が会う場所である」の両方を表すのは、changed but still bring people together（変化してきたが、今も人々を結びつけている）です。ですから2が正解です。
+この問題の型：まとめ（変わってきた＋今も会う場所→変化したが今も人を結びつける）
+【ほかの選択肢】
+1 「古い商売のやり方を壊した」という話は、本文にありません。第3段落には、ある会社がコーヒーハウスから保険市場へ成長したという話はありますが、古いやり方を壊したとは書かれていません。
+3 「時がたつにつれて見かけなくなった」を入れると、本文とくい違います。本文には coffee houses continued to exist（コーヒーハウスは存在し続けた）とあり、今も仕事や待ち合わせの場所を提供していると書かれています。
+4 「元の目的に戻った」を入れると、直前の they have changed to follow social trends（社会の流れに合わせて変わってきた）と合いません。本文は「変わってきた」と言っていて、「元に戻った」とは言っていません。
+【覚えるポイント】
+・bring people together：「人々を結びつける、人々を集める」。
+・段落の最後の空所は、その段落の内容をまとめるものが入ることが多いので、直前の文（ここでは have changed）と、そのあとの具体例（a casual place to meet）の両方に合うものを選びましょう。

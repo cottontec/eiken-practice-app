@@ -1,0 +1,33 @@
+---
+choices: Participants can talk with the instructor online. | Participants can take lessons from different marketing courses. | Participants can receive class materials by e-mail. | Participants can watch videos of two classes online.
+answerText: Participants can watch videos of two classes online.
+---
+【正解】4 Participants can watch videos of two classes online.（参加者は、2回分の授業の動画をオンラインで見ることができる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one thing Sarah says about catching up with a class?（授業の遅れを取り戻すことについて、サラが述べていることの1つは何ですか。）
+1 Participants can talk with the instructor online.（参加者は、オンラインで講師と話すことができる。）
+2 Participants can take lessons from different marketing courses.（参加者は、ほかのマーケティング講座の授業を受けることができる。）
+3 Participants can receive class materials by e-mail.（参加者は、授業の資料をEメールで受け取ることができる。）
+4 Participants can watch videos of two classes online.（参加者は、2回分の授業の動画をオンラインで見ることができる。）
+【考え方】
+まず見るところ：第3段落の If you miss a lesson, we offer a way to catch up. からあとの文
+If you miss a lesson, we offer a way to catch up.（授業を欠席した場合のために、遅れを取り戻す方法を用意している。）
+catch up は「（遅れを）取り戻す、追いつく」という意味です。設問の catching up with a class は、この部分の話です。
+We'll post videos of each lecture on the web.（各講義の動画をウェブ上に掲載する。）
+休んだ授業の動画を、インターネット上で見られるということです。
+However, we allow you to take this offer only twice during the course period（ただし、この方法を利用できるのは講座期間中に2回だけだ）
+this offer（この提供）は、「動画をウェブで見られること」を指しています。only twice（2回だけ）とあるので、見られるのは2回分までです。
+本文と選択肢を対にすると、次のようになります。
+本文 post videos of each lecture on the web ＋ only twice ＝ 選択肢 watch videos of two classes online
+on the web（ウェブ上で）が online（オンラインで）に、only twice（2回だけ）が two classes（2回分の授業）に言いかえられています。ですから4が正解です。
+この問題の型：言いかえ（on the web ＝ online、only twice ＝ two classes）
+【ほかの選択肢】
+1 講師とオンラインで話せるとは書かれていません。本文に出てくる講師の話は、国際会議のため1週間不在になるという日程の話です。
+2 ほかのマーケティング講座の授業を受けられるという話は、本文にありません。
+3 本文には discussing the materials with your classmates（クラスメートと教材について話し合うこと）と materials（教材、資料）という語が出てきますが、資料をEメールで受け取れるとは書かれていません。遅れを取り戻す方法は、動画をウェブで見ることです。
+【覚えるポイント】
+・catch up：「（遅れを）取り戻す、追いつく」。
+・選択肢に two classes のような数が出てきたら、本文の数（ここでは only twice）と合っているかを確かめると、答えを決める手がかりになります。

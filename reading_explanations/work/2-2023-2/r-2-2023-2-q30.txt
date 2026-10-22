@@ -7,23 +7,25 @@ answerText: Diseases and insects that affected wheat plants arrived from oversea
 ＜本文の全訳＞
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
-設問：18世紀後半に、アメリカ合衆国で何が起こりましたか。
+設問：What happened in the late 18th century in the United States?（18世紀後半に、アメリカ合衆国で何が起こりましたか。）
 1 Farmers developed a type of wheat that produced better flour.（農家が、よりよい小麦粉ができる種類の小麦を開発した。）
 2 Diseases and insects that affected wheat plants arrived from overseas.（小麦の植物に害を与える病気や虫が、海外からやって来た。）
 3 A lack of wheat meant that it had to be imported from Europe.（小麦が足りなかったため、ヨーロッパから輸入しなければならなかった。）
 4 People started to use grains other than wheat to make bread.（人々が、パンを作るのに小麦以外の穀物を使い始めた。）
 【考え方】
-設問の the late 18th century（18世紀後半）という語句を本文で探します。第1段落にあります。
+まず見るところ：第1段落の During the late 18th century, ～
+設問の the late 18th century（18世紀後半）という語句を本文で探します。
 During the late 18th century, many types of wheat were attacked by diseases and insects that came from Europe.（18世紀後半には、多くの種類の小麦が、ヨーロッパから来た病気や虫に襲われた）
 were attacked by ～ は「～に襲われた」という意味です。ヨーロッパから来た病気や虫が、アメリカの小麦に害を与えたということです。
 本文と選択肢を対にすると、次のようになります。
-本文 diseases and insects that came from Europe（ヨーロッパから来た病気や虫）＝ 選択肢 Diseases and insects ... arrived from overseas（病気や虫が海外からやって来た）
-本文 many types of wheat were attacked（多くの種類の小麦が襲われた）＝ 選択肢 affected wheat plants（小麦の植物に害を与えた）
+本文 diseases and insects that came from Europe（ヨーロッパから来た病気や虫）→ 選択肢 Diseases and insects ... arrived from overseas（病気や虫が海外からやって来た）
+本文 many types of wheat were attacked（多くの種類の小麦が襲われた）→ 選択肢 affected wheat plants（小麦の植物に害を与えた）
 アメリカから見ると、海をへだてたヨーロッパは overseas（海外）に当たります。affect は「影響を与える、（病気などが）冒す」という意味です。ですから2が正解です。
+この問題の型：言いかえ（came from Europe → arrived from overseas）
 【ほかの選択肢】
-1 本文で新しい種類の小麦が開発されたのは In the 1960s（1960年代）で、開発したのは scientists（科学者たち）です。時期も人物もちがいます。また、18世紀後半に農家が小麦を開発したという話は本文にありません。
+1 本文で新しい種類の小麦が開発されたのは In the 1960s（1960年代）で、開発したのは scientists（科学者たち）です。時期も人物もちがい、18世紀後半に農家が小麦を開発したという話は本文にありません。
 3 本文の Europe（ヨーロッパ）は、病気や虫が来た場所として出てきます。小麦が足りなくなって、ヨーロッパから輸入したという話は書かれていません。
 4 小麦以外の穀物でパンを作り始めたという話は本文にありません。第1段落には、小麦が18世紀からずっとアメリカの主要な食用の穀物だと書かれています。
 【覚えるポイント】
 ・overseas：「海外から、海外へ、海外の」。
-・be attacked by ～：「～に襲われる」。病気や虫が作物に害を与えるときにも使います。
+・年代をたずねる設問では、まず本文で同じ年代の語句（ここでは the late 18th century）を探し、選択肢の出来事がその年代のことかどうかを確かめるのが手がかりになります。

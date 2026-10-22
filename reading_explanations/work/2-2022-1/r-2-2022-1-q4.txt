@@ -1,6 +1,7 @@
 ---
 choices: abused | secured | reversed | stimulated
 answerText: reversed
+reviewed: yes
 ---
 【正解】3 reversed（〔決定などを〕覆した、取り消した）
 【和訳】
@@ -14,13 +15,17 @@ Arthur was going to sell his café. However, he ［reversed］ his decision beca
 3 reversed：（決定などを）覆した、取り消した
 4 stimulated：刺激した、活気づけた
 【考え方】
-最初の文 Arthur was going to sell his café.（アーサーはカフェを売るつもりだった）と、次の文の始めの However（しかし）に注目します。However のあとには、前と反対の内容が来ます。
-さらに、because he started to get more customers（それまでより多くの客が来るようになり始めたので）とあります。客が増えれば、カフェを売らずに続けようと考えるのが自然です。つまり、アーサーは「カフェを売る」という決定をやめたと考えられます。
-reverse は「（決定などを）覆す、逆にする」という意味で、reverse one's decision で「決定を取り消す、考えを変える」となります。ですから、3が正解です。reversed は過去形です。
+まず見るところ：最初の文 Arthur was going to sell his café. と、次の文の始めの However
+Arthur was going to sell his café.（アーサーはカフェを売るつもりだった）
+However（しかし）のあとには、前と反対の内容が来ます。ですから、「売る」という予定とは反対のことが起こったと考えます。
+because he started to get more customers after a new college opened nearby（近くに新しい大学ができてから、客が増え始めたので）
+more customers は、ここでは「それまでより多くの客」という意味です。客が増えれば、カフェを売らずに続けようと考えるのが自然です。つまり、アーサーは「売る」という決定をやめたと考えられます。
+reverse は「（決定などを）覆す、逆にする」という意味で、reverse one’s decision で「決定を取り消す」となります。reversed は過去形です。ですから、3が正解です。
+この問題の型：対比（売る予定⇔取りやめ）、因果（客が増えたから）
 【ほかの選択肢】
 1 abused は abuse（乱用する、ひどい扱いをする）の過去形です。「決定を乱用した」となり、意味が通りません。
 2 secured は secure（確保する、しっかり守る）の過去形です。「決定を確保した」では、売るのをやめたという However のあとの流れになりません。
 4 stimulated は stimulate（刺激する、活気づける）の過去形です。「決定を刺激した」となり、意味が通りません。
 【覚えるポイント】
-・reverse one's decision：「決定を覆す、取り消す」。
-・However：「しかし」。前の文と反対の内容が続く合図です。
+・reverse one’s decision：「決定を覆す、取り消す」。
+・However が出てきたら、前の文の内容（ここでは「売るつもり」）と反対のことが空所に入るかを考えます。because 以下の理由（客が増えた）も、答えを決める手がかりになります。

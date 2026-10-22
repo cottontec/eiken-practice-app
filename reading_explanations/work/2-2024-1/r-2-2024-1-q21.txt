@@ -1,0 +1,30 @@
+---
+choices: affecting local weather | feeding wild animals | improving soil conditions | changing population trends
+answerText: affecting local weather
+---
+【正解】1 affecting local weather（地域の天候に影響を与えている）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 affecting local weather（地域の天候に影響を与えている）
+2 feeding wild animals（野生動物にえさを与えている）
+3 improving soil conditions（土の状態をよくしている）
+4 changing population trends（人口の動き（増え方・減り方）を変えている）
+【考え方】
+まず見るところ：第1段落の空所の直後の The large number of corn plants make the region hotter.
+空所のある文は次のとおりです。
+While the corn industry is an important part of the country's economy, it is also (21).（トウモロコシ産業はその国の経済の重要な一部である一方で、（21）もいる）
+While は「～である一方で」という意味で、前半の「経済にとって大切」という面とは別の面を後半で述べる形です。it はトウモロコシ産業を指しています。
+では、その「別の面」は何でしょうか。すぐあとの文に答えがあります。
+The large number of corn plants make the region hotter.（大量のトウモロコシが、その地域を（トウモロコシがない場合より）暑くしている）
+さらに、In an area that already has very high summer temperatures（もともと夏の気温がとても高い地域で）と、気温の話が続きます。
+地域を暑くする、つまりその地域の天候を変えているのですから、「地域の天候に影響を与えている」という1が正解です。
+この問題の型：対比（経済に大切⇔別の面）／具体例とまとめ（地域を暑くする→天候に影響）
+【ほかの選択肢】
+2 「野生動物にえさを与えている」とすると、そのあとの「地域を暑くしている」という説明とつながりません。本文には野生動物の話は出てきません。
+3 「土の状態をよくしている」とすると、すぐあとの文が気温の話なので、つながりません。本文には土の話はありません。
+4 「人口の動きを変えている」とすると、すぐあとの文とつながりません。第2段落に地元の住民が不快に感じているという話はありますが、人口が増えたり減ったりするという話は本文にありません。
+【覚えるポイント】
+・affect：「～に影響を与える」。affecting local weather で「地域の天候に影響を与えている」。
+・While A, B（Aである一方でB）の形で空所がBにあるときは、すぐあとの文がBの中身をくわしく説明していることが多く、手がかりになります。

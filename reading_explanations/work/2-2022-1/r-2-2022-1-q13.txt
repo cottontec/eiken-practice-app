@@ -1,6 +1,7 @@
 ---
 choices: followed through | went over | got through | turned over
 answerText: followed through
+reviewed: yes
 ---
 【正解】1 followed through（〔予告したことを〕やり通した、実行した）
 【和訳】
@@ -14,13 +15,17 @@ Mr. Griffith warned his students that they would get extra homework if they kept
 3 got through：～を終えた、～を切り抜けた
 4 turned over：～をひっくり返した、～を引き渡した
 【考え方】
-最初の文で、グリフィスさんは they would get extra homework if they kept talking in class（授業中におしゃべりを続けたら、追加の宿題が出される）と警告しています。次の文 He ( ) with his threat の his threat（彼の脅し）は、この警告を指しています。
-その文の後半は because they would not be quiet（生徒たちがどうしても静かにしようとしなかったので）です。would not ～ は、ここでは「どうしても～しようとしなかった」という意味です。生徒たちが静かにならなかったので、グリフィスさんは警告していたとおりに宿題を出したと考えられます。
+まず見るところ：空所のあとの with his threat と、最初の文
+Mr. Griffith warned his students that they would get extra homework if they kept talking in class.（グリフィスさんは生徒たちに、授業中におしゃべりを続けたら追加の宿題が出されると警告した）
+次の文の his threat（彼の脅し）は、この警告を指しています。
+because they would not be quiet（生徒たちがどうしても静かにしようとしなかったので）
+would not ～ は、ここでは「どうしても～しようとしなかった」という意味です。生徒たちが静かにならなかったので、グリフィスさんは警告していたとおりに宿題を出したと考えられます。
 follow through with ～ は「（計画や予告したことを）最後までやり通す、実行する」という意味です。followed through with his threat で「脅しを実行した」となるので、1が正解です。
+この問題の型：熟語・決まった形（follow through with ～）、指示語（his threat ＝ 最初の警告）
 【ほかの選択肢】
-2 went over は go over ～（～を見直す、詳しく調べる）の過去形です。go over は with を続けずに使うので、文の形が合いません。また、「脅しを見直した」では、生徒が静かにしなかったから宿題を出した、という流れになりません。
+2 went over は go over ～（～を見直す、詳しく調べる）の過去形です。「脅しを見直した」では、生徒が静かにしなかったから宿題を出した、という流れになりません。
 3 got through は get through（～を終える、～を切り抜ける）の過去形です。「脅しを切り抜けた」となり、警告したとおりにした、という意味を表せません。
 4 turned over は turn over ～（～をひっくり返す、～を引き渡す）の過去形です。「脅しをひっくり返した」となり、意味が通りません。
 【覚えるポイント】
 ・follow through with ～：「（予告・計画したことを）最後までやり通す、実行する」。
-・would not ～：過去の文で「どうしても～しようとしなかった」という意味を表すことがあります。
+・his threat のような名詞が出てきたら、前の文のどの内容を指すかを確かめます。would not ～：過去の文で「どうしても～しようとしなかった」という意味を表すことがあります。

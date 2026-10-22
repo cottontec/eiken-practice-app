@@ -7,22 +7,24 @@ answerText: take place on Monday through Friday every week.
 ＜本文の全訳＞
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
-設問：スピーク・イージー・チャットセッションは、
+設問：Speak-EZ Chat Sessions（スピーク・イージー・チャットセッションは、）
 1 take place on Monday through Friday every week.（毎週、月曜日から金曜日まで行われる。）
 2 have a limited number of spaces per session.（1回あたりの空きの数が限られている。）
 3 are only available to advanced students.（上級の生徒しか参加できない。）
 4 focus on using foreign languages to make friends.（友だちを作るために外国語を使うことに重点を置いている。）
 【考え方】
+まず見るところ：第3段落の最後の Speak-EZ Chat Sessions are available every weekday evening.
 チャットセッションについては、第3段落の後半に書かれています。最後の文に注目します。
 Speak-EZ Chat Sessions are available every weekday evening.（スピーク・イージー・チャットセッションは、平日の毎晩行われている）
 weekday は「平日」で、土曜日と日曜日をのぞいた月曜日から金曜日のことです。available は「利用できる」という意味です。
 本文と選択肢を対にすると、次のようになります。
 本文 are available every weekday evening（平日の毎晩利用できる）→ 読み取れること：毎週、月曜日から金曜日に行われる ＝ 選択肢 take place on Monday through Friday every week
 weekday（平日）が Monday through Friday（月曜日から金曜日まで）に言いかえられています。through は「～まで（～をふくめて）」という意味です。ですから1が正解です。
+この問題の型：言いかえ（every weekday ＝ Monday through Friday）
 【ほかの選択肢】
 2 本文の no more than eight people can join each group lesson, so spaces are limited（各グループレッスンに参加できるのは8人までなので、空きは限られている）は、グループレッスンについての説明です。チャットセッションのことではありません。
 3 本文には give students of all levels a chance to chat freely（あらゆるレベルの生徒に、自由におしゃべりする機会を提供している）とあります。上級の生徒だけではなく、どのレベルの生徒も参加できるので、本文と反対の内容です。
 4 本文の Group lessons can be a great way to make new friends.（グループレッスンは、新しい友だちを作るのにとてもよい方法になりえる）は、グループレッスンについての説明です。チャットセッションについては「自由におしゃべりする機会」とあるだけで、友だち作りに重点を置いているとは書かれていません。
 【覚えるポイント】
-・weekday：「平日（月曜日から金曜日）」。weekend は「週末（土曜日と日曜日）」です。
-・A through B：「AからBまで」。Monday through Friday で「月曜日から金曜日まで」です。
+・weekday：「平日（月曜日から金曜日）」。A through B は「AからBまで」です。
+・同じ段落に、似たもの（グループレッスンとチャットセッション）の説明が続くときは、選択肢の内容がどちらについての説明なのかを必ず確かめましょう。

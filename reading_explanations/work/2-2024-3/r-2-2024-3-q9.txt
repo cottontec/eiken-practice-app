@@ -1,0 +1,30 @@
+---
+choices: attractive | national | financial | ignorant
+answerText: financial
+---
+【正解】3 financial（財政の、お金に関する）
+【和訳】
+（英文）
+The company's ［financial］ situation has been getting worse this year. It is going to have to close some of its stores.
+（訳）
+その会社の（財政）状況は、今年ずっと悪くなってきています。その会社は、店のいくつかを閉めなければならなくなりそうです。
+（選択肢の意味）
+1 attractive：魅力的な
+2 national：国の、全国的な
+3 financial：財政の、お金に関する
+4 ignorant：知らない、無知な
+【考え方】
+まず見るところ：2文目の It is going to have to close some of its stores.
+The company's (　) situation has been getting worse this year.（その会社の（　）状況は、今年ずっと悪くなってきている）
+has been getting worse は「（今年に入ってから今まで）悪くなり続けている」という意味です。
+It is going to have to close some of its stores.（その会社は店のいくつかを閉めなければならなくなりそうだ）
+It は the company（その会社）を指します。店を閉めなければならないのは、会社の状況が悪いからだと考えられます。
+店を閉める理由として自然なのは、お金の状況が悪いことです。「財政の、お金に関する」という意味の financial を入れると、「会社の財政状況が悪くなっている」となり、2文目とつながります。ですから3が正解です。
+この問題の型：因果（財政状況が悪化→店を閉める）
+【ほかの選択肢】
+1 attractive は「魅力的な」です。「会社の魅力的な状況が悪くなっている」となり、意味がねじれてしまいます。
+2 national は「国の、全国的な」です。「会社の国の状況」となり、会社の何が悪くなったのかが分かりません。
+4 ignorant は「知らない、無知な」で、ふつう人について使います。「会社の無知な状況」となり、意味が通りません。
+【覚えるポイント】
+・financial：「財政の、お金に関する」。名詞は finance（財政、お金のやりくり）です。
+・2文目に「店を閉める」のような結果が書かれているときは、1文目の空所にその原因になる語が入ることが多いです。

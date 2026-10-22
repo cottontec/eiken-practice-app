@@ -1,6 +1,7 @@
 ---
 choices: tore off | relied on | answered back | broke out
 answerText: tore off
+reviewed: yes
 ---
 【正解】1 tore off（破り取った）
 【和訳】
@@ -14,13 +15,17 @@ During history class, Aiden noticed that Risa did not have her notebook. He ［t
 3 answered back：口答えした
 4 broke out：（火事・戦争などが）急に起こった
 【考え方】
-空所のあとの some paper from his notebook（彼のノートから何枚かの紙を）に注目します。from は「～から」という意味なので、「ノートから紙を（　）した」という形になります。
-さらに、and gave it to her so that she could take notes（そして、彼女がメモを取れるようにそれを彼女に渡した）と続きます。ノートを持っていないリサに紙を渡すには、まず自分のノートから紙を取り外す必要があります。
+まず見るところ：空所のあとの some paper from his notebook
+some paper from his notebook（彼のノートから何枚かの紙を）
+from は「～から」という意味なので、「ノートから紙を（　）した」という形になります。
+and gave it to her so that she could take notes（そして、彼女がメモを取れるようにそれを彼女に渡した）
+ノートを持っていないリサに紙を渡すには、まず自分のノートから紙を取り外す必要があります。
 tear off は「破り取る、はぎ取る」という意味で、tore は tear の過去形です。tear off some paper from ～ で「～から紙を破り取る」となるので、1が正解です。
+この問題の型：語の意味・組み合わせ（tear off ～ from ...）、推論（紙を渡すまでの動作を考える）
 【ほかの選択肢】
 2 relied on は rely on（～に頼る）の過去形です。「ノートから紙に頼った」となり、紙を渡した話とつながりません。
 3 answered back は answer back（口答えする）の過去形です。「ノートから紙に口答えした」となり、意味が通りません。
 4 broke out は break out（火事・戦争などが急に起こる）の過去形です。「彼が紙を急に起こした」という形になり、意味が通りません。break out は、ふつう火事や戦争などの出来事が主語になります。
 【覚えるポイント】
 ・tear off ～：「～を破り取る、はぎ取る」。tear は tear - tore - torn と形が変わります。
-・so that ～ could ...：「～が…できるように」と目的を表します。take notes は「メモを取る」。
+・動詞＋前置詞の熟語は、あとに続く語句（ここでは some paper from his notebook）と、そのあとの動作（紙を渡す）に合うかどうかで決めます。so that ～ could ...（～が…できるように）は目的を表します。

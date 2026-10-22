@@ -1,0 +1,30 @@
+---
+choices: surgery | pollution | resort | mixture
+answerText: mixture
+---
+【正解】4 mixture（混ぜ合わせたもの）
+【和訳】
+（英文）
+Susie wanted to make a salad, so she chopped up some tomatoes, onions, and avocadoes together. Then, she put the ［mixture］ in a bowl and added some spices.
+（訳）
+スージーはサラダを作りたかったので、トマトとタマネギとアボカドをいっしょに細かく切りました。それから、その（混ぜ合わせたもの）をボウルに入れ、香辛料を加えました。
+（選択肢の意味）
+1 surgery：手術
+2 pollution：汚染
+3 resort：行楽地、リゾート
+4 mixture：混ぜ合わせたもの、混合物
+【考え方】
+まず見るところ：前の文の chopped up some tomatoes, onions, and avocadoes together
+she chopped up some tomatoes, onions, and avocadoes together（彼女はトマトとタマネギとアボカドをいっしょに細かく切った）
+chop up は「細かく切る、刻む」という意味です。together（いっしょに）とあるので、3種類の野菜をまとめて刻んだことが分かります。
+Then, she put the ( ) in a bowl（それから、彼女はその（　）をボウルに入れた）
+空所の前の the は、「前に出てきたあれ」を指すときに使う語です。ボウルに入れたのは、さっき刻んだ3種類の野菜だと考えられます。
+いくつかのものをいっしょにしたものを表す mixture（混ぜ合わせたもの）を入れると、刻んだ野菜をまとめて言いかえたことになり、話がつながります。ですから4が正解です。
+この問題の型：指示語（the ～ が前に出てきたものを指す）
+【ほかの選択肢】
+1 surgery は「手術」です。「その手術をボウルに入れた」となり、意味が通りません。
+2 pollution は「汚染（空気や水などをよごすこと）」です。サラダ作りの話に汚染は出てこないので、「その汚染をボウルに入れた」では意味が通りません。
+3 resort は「行楽地、リゾート」です。「その行楽地をボウルに入れた」となり、意味が通りません。
+【覚えるポイント】
+・mixture：「混ぜ合わせたもの、混合物」。動詞の mix（混ぜる）からできた名詞です。
+・空所の前に the があるときは、前の文に出てきたものを別の言葉でまとめていないかを確かめると、答えを選ぶ手がかりになります。
