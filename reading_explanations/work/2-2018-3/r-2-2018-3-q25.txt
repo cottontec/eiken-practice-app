@@ -1,0 +1,27 @@
+---
+choices: too warm for people to see | too dry for clouds to form | too dark for scientists to study | too windy for normal clouds
+answerText: too dry for clouds to form
+---
+【正解】2 too dry for clouds to form（乾燥しすぎていて雲ができない）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 too warm for people to see（暖かすぎて人には見えない）
+2 too dry for clouds to form（乾燥しすぎていて雲ができない）
+3 too dark for scientists to study（暗すぎて科学者が研究できない）
+4 too windy for normal clouds（ふつうの雲にとっては風が強すぎる）
+【考え方】
+選択肢はどれも too ～ for A to ...（あまりに～なので、Aは…できない）の形です。
+空所は第2段落の However, in the mesosphere, it is usually (25). です。前の文は、Scientists believe that, like normal clouds, NLCs are made of tiny ice crystals.（科学者たちは、ふつうの雲と同じように、NLCも小さな氷の結晶でできていると考えている）です。However（しかし）があるので、「NLCも氷の結晶でできている、しかし中間圏はふだん～」と、雲ができるには都合の悪い内容が来ると考えられます。
+空所のあとの文が手がかりになります。
+・In order for ice crystals to form and create clouds, there must be water and dust for that water to stick to.（氷の結晶ができて雲になるためには、水と、その水がくっつくためのちりがなければならない）
+・NLCs are only able to form in the summer, when winds carry water up to the mesosphere from lower levels of the atmosphere.（NLCは、風が大気のより低い層から中間圏まで水を運び上げる夏にしかできない）
+雲ができるには水が必要で、中間圏に水が来るのは、風が下から水を運んでくる夏だけです。つまり、中間圏にはふだん水がない、乾燥した場所だと分かります。ですから、2「乾燥しすぎていて雲ができない」が正解です。
+【ほかの選択肢】
+1 「暖かすぎて人には見えない」は本文にありません。空所のあとの文は、雲ができるのに水とちりが必要だという話で、暖かさや人に見えるかどうかの話ではありません。
+3 「暗すぎて科学者が研究できない」も本文にありません。空所のあとは、雲ができる条件の説明であり、研究のしにくさの話ではありません。
+4 「ふつうの雲にとっては風が強すぎる」は、本文と合いません。本文では、風は夏に水を中間圏まで運び上げ、NLCができるのを助ける役割として書かれています。風が強すぎて困るとは書かれていません。
+【覚えるポイント】
+・too ～ for A to ...：「あまりに～なので、Aは…できない」。
+・In order for A to ～：「Aが～するためには」。
