@@ -1,0 +1,20 @@
+---
+choices: relief | place | deal | growth
+answerText: deal
+---
+【正解】3 deal（have a great deal to do with ～ で「～と大いに関係がある」）
+【和訳】
+ヘレン・ホイットマンの父親が社長だったという事実は、彼女があれほど早く営業部長に昇進したことと大いに関係があります。
+（選択肢の意味）1 安心、ほっとすること　2 場所　3 量（a great deal で「たくさん」）　4 成長
+【考え方】
+文の主語は The fact that Helen Whitman's father was the company president（ヘレン・ホイットマンの父親が社長だったという事実）です。
+そのあとに has a great (　) to do with her being promoted to sales manager so quickly と続きます。her being promoted to sales manager は「彼女が営業部長に昇進したこと」です。
+ここで have ～ to do with … という形に気づくことが大切です。これは「…と～の関係がある」という言い方で、～の部分に関係の大きさを表す語が入ります。have a great deal to do with … で「…と大いに関係がある」となります。a great deal は「たくさん、大いに」という意味です。
+「父親が社長だった」ことが「あれほど早く昇進した」ことと大いに関係がある、と言うと意味が通ります。正解は3です。
+【ほかの選択肢】
+1 relief は「安心、ほっとすること」です。have a great relief to do with という言い方はなく、「関係がある」という意味になりません。
+2 place は「場所」です。a great place は「すばらしい場所」で、have ～ to do with … の形に入れても「関係の大きさ」を表せません。
+4 growth は「成長」です。a great growth to do with という言い方はなく、意味が通りません。
+【覚えるポイント】
+・have a great deal to do with ～：「～と大いに関係がある」。have nothing to do with ～ なら「～とまったく関係がない」です。
+・be promoted to ～：「～に昇進する」。
