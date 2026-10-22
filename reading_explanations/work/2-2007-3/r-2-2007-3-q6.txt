@@ -1,6 +1,7 @@
 ---
 choices: widen | spread | extend | cancel
 answerText: extend
+reviewed: yes
 ---
 【正解】3 extend（延ばす、延長する）
 【和訳】

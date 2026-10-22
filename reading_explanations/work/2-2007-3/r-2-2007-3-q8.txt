@@ -1,6 +1,7 @@
 ---
 choices: revealed | sacrificed | instructed | implied
 answerText: sacrificed
+reviewed: yes
 ---
 【正解】2 sacrificed（犠牲にした、ささげた）
 【和訳】

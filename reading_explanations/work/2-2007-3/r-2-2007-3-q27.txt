@@ -1,6 +1,7 @@
 ---
 choices: refer | answer | remove | appeal
 answerText: appeal
+reviewed: yes
 ---
 【正解】4 appeal（appeal to ～ で「～の心に訴える、～の興味をひく」）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: could take | have taken | to take | took
 answerText: could take
+reviewed: yes
 ---
 【正解】1 could take（取っていただけるか）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: intention | occupation | conclusion | hesitation
 answerText: intention
+reviewed: yes
 ---
 【正解】1 intention（意図、つもり）
 【和訳】

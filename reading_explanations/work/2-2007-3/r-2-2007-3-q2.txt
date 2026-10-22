@@ -1,6 +1,7 @@
 ---
 choices: sweaty | moist | humid | chilly
 answerText: chilly
+reviewed: yes
 ---
 【正解】4 chilly（肌寒い、ひんやりする）
 【和訳】

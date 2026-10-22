@@ -1,6 +1,7 @@
 ---
 choices: cave | string | path | post
 answerText: path
+reviewed: yes
 ---
 【正解】3 path（小道、通り道）
 【和訳】

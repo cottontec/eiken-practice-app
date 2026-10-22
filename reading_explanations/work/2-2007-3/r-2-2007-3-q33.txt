@@ -1,6 +1,7 @@
 ---
 choices: supporting | slowing | applying | identifying
 answerText: slowing
+reviewed: yes
 ---
 【正解】2 slowing（遅らせること）
 【和訳】

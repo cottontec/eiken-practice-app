@@ -2,6 +2,7 @@
 choices: seen | from | he was last | driving away | the
 answerText: seen
 order: 3 1 4 2 5
+reviewed: yes
 ---
 【正解】1 seen（この問題の2番目）
 【完成文】

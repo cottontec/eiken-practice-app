@@ -1,6 +1,7 @@
 ---
 choices: warned that sales of salt are rapidly decreasing. | advised to double the number of products containing salt. | told to create a new association to improve the taste of salt. | asked to make a new rule concerning the use of salt.
 answerText: asked to make a new rule concerning the use of salt.
+reviewed: yes
 ---
 【正解】4 asked to make a new rule concerning the use of salt.（塩の使用に関する新しい規則を作るよう求められてきた。）
 【和訳】

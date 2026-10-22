@@ -1,0 +1,20 @@
+---
+choices: proposal | championship | revolution | misunderstanding
+answerText: misunderstanding
+---
+【正解】4 misunderstanding（誤解、思い違い）
+【和訳】
+A：サラ、トムはどうしてバーベキューにあんなに遅れたの？
+B：誤解があったの。彼はバーベキューが私の家であると思っていたのよ。彼が家に着いたとき、私の母が、公園であると彼に教えたの。
+（選択肢の意味）1 提案　2 選手権、優勝　3 革命　4 誤解、思い違い
+【考え方】
+Aはトムが遅れた理由をたずねています。Bは There was a (　).（〜があった）と言ってから、その中身を説明しています。
+He thought the barbecue was at my house.（彼はバーベキューが私の家であると思った）、そして When he got there, my mom told him it was at the park.（彼がそこに着くと、私の母がそれは公園でだと彼に言った）とあります。本当の会場は公園だったのに、トムは別の場所だと思いこんでいたのです。
+このような「思い違い」を表す語は misunderstanding（誤解、思い違い）です。There was a misunderstanding. で「誤解があった」となり、遅れた理由の説明としてつながります。正解は4です。
+【ほかの選択肢】
+1 proposal は「提案」です。提案があったことでは、トムが会場をまちがえて遅れた理由の説明になりません。
+2 championship は「選手権（大会）、優勝」です。バーベキューに遅れた話とは関係がありません。
+3 revolution は「革命（社会のしくみが大きく変わること）」です。場所の思い違いの説明としては合いません。
+【覚えるポイント】
+・misunderstanding：「誤解、思い違い」。understand（理解する）に mis-（誤って）がついた形です。
+・There was a misunderstanding.：「誤解があった」。行き違いの理由を説明するときによく使います。

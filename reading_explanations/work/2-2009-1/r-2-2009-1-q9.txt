@@ -1,0 +1,19 @@
+---
+choices: literature | emotion | traffic | surgery
+answerText: surgery
+---
+【正解】4 surgery（手術）
+【和訳】
+ジョーイは、昨日、左ひざの手術を受けるために病院へ行きました。手術はうまくいき、彼は数週間後にはまたふつうに歩けるようになるでしょう。
+（選択肢の意味）1 文学　2 感情　3 交通　4 手術
+【考え方】
+1文目は Joey went to the hospital yesterday to have (　) on his left knee.（ジョーイは左ひざに〜を受けるために病院へ行った）です。
+2文目に The operation went well（その手術はうまくいった）とあります。operation は「手術」という意味です。The operation の The は「その」という意味で、1文目で話したことを指しています。ですから、1文目の空所にも「手術」を表す語が入ると分かります。
+surgery は「手術」という意味で、have surgery で「手術を受ける」となります。4が正解です。
+【ほかの選択肢】
+1 literature は「文学」です。「ひざに文学を受ける」となり、意味が通りません。
+2 emotion は「感情」です。病院でひざに受けるものではないので、合いません。
+3 traffic は「交通、行き来する車」です。ひざの治療とは関係がありません。
+【覚えるポイント】
+・have surgery：「手術を受ける」。surgery は operation とほぼ同じ意味です。
+・go well：「（物事が）うまくいく」。

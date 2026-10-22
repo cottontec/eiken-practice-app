@@ -1,6 +1,7 @@
 ---
 choices: First of all | By mistake | As a result | On average
 answerText: As a result
+reviewed: yes
 ---
 【正解】3 As a result（その結果）
 【和訳】

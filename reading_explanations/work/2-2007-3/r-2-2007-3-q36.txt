@@ -1,6 +1,7 @@
 ---
 choices: Take some pictures of the rackets. | Send some samples to the store by Thursday. | Make an appointment to see Ms. Holdsworth. | Answer questions about the rackets by e-mail.
 answerText: Make an appointment to see Ms. Holdsworth.
+reviewed: yes
 ---
 【正解】3 Make an appointment to see Ms. Holdsworth.（ホールズワースさんに会う約束をとりつける。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: along the way | to the point | out the door | in the distance
 answerText: to the point
+reviewed: yes
 ---
 【正解】2 to the point（要点をついた、的を射た）
 【和訳】

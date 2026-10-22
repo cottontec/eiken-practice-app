@@ -1,0 +1,19 @@
+---
+choices: courage | evidence | sorrow | punishment
+answerText: evidence
+---
+【正解】2 evidence（証拠）
+【和訳】
+多くの人が幽霊を見たことがあると言っていますが、幽霊が実際に存在するというはっきりした証拠は、だれも見つけていません。
+（選択肢の意味）1 勇気　2 証拠　3 悲しみ　4 罰
+【考え方】
+文の前半は Although many people say they have seen ghosts（多くの人が幽霊を見たことがあると言っているけれども）です。Although は「～だけれども」という意味で、後半には前半と反対向きの内容がきます。
+後半は nobody has found any clear (　) that they actually exist です。nobody has found は「だれも見つけていない」、that they actually exist は「それら（幽霊）が実際に存在するという」という意味で、空所の名詞の中身を説明しています。
+「見たと言う人は多いけれど、幽霊が本当にいるという（　）はだれも見つけていない」という流れです。「本当にいる」ことを示すものとして当てはまるのは「証拠」です。evidence は「証拠」なので、2が正解です。clear evidence で「はっきりした証拠」となります。
+【ほかの選択肢】
+1 courage は「勇気」です。「幽霊が存在するというはっきりした勇気」となり、that 以下の内容とつながりません。
+3 sorrow は「悲しみ」です。「幽霊が存在するという悲しみを見つけていない」となり、意味が通りません。
+4 punishment は「罰」です。「幽霊が存在するという罰」となり、意味が通りません。
+【覚えるポイント】
+・evidence that ～：「～という証拠」。that 以下が証拠の中身を説明します。
+・although ～：「～だけれども」。前半と後半が反対向きの内容になることを知らせる語です。

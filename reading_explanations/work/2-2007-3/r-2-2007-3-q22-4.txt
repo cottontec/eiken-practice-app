@@ -2,6 +2,7 @@
 choices: in | far the | has by | food | best Italian
 answerText: food
 order: 3 2 5 4 1
+reviewed: yes
 ---
 【正解】4 food（この問題の4番目）
 【完成文】

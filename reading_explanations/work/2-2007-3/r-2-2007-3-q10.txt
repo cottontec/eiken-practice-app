@@ -1,6 +1,7 @@
 ---
 choices: emphasized | accomplished | compromised | postponed
 answerText: emphasized
+reviewed: yes
 ---
 【正解】1 emphasized（強調した）
 【和訳】
@@ -12,7 +13,7 @@ answerText: emphasized
 「大切さ」を生徒に強く伝えた、という意味になるのは emphasized（強調した）です。正解は1です。
 【ほかの選択肢】
 2 accomplished は「（目標や仕事を）成しとげた」です。「練習の大切さを成しとげた」では意味が通りません。
-3 compromised は「妥協した（相手に合わせて自分の考えをゆずった）」です。2文目で先生は練習の大切さをはっきり伝えており、ゆずる話ではありません。
+3 compromised は「妥協した（相手に合わせて自分の考えをゆずった）」です。また「～を損なう、弱める」という意味もあります。しかし2文目で先生は「練習しなければ上達しない」と大切さをはっきり伝えており、考えをゆずったり大切さを弱めたりする話ではありません。
 4 postponed は「延期した」です。「大切さを延期した」では意味が通らず、2文目の内容ともつながりません。
 【覚えるポイント】
 ・emphasize the importance of ～：「～の大切さを強調する」。

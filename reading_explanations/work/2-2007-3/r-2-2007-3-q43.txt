@@ -1,6 +1,7 @@
 ---
 choices: tested paromomycin by providing it for free to people abroad. | asked a drug company to continue developing paromomycin. | proved paromomycin is effective against black fever. | sold paromomycin to the Indian government.
 answerText: proved paromomycin is effective against black fever.
+reviewed: yes
 ---
 【正解】3 proved paromomycin is effective against black fever.（パロモマイシンが黒熱病に効果があることを証明した。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: The change in the amount of processed food used in restaurants. | The average amount of salt wasted in the United States each day. | The 75-percent increase in people with high blood pressure. | The bad effect of salt on the health of Americans.
 answerText: The bad effect of salt on the health of Americans.
+reviewed: yes
 ---
 【正解】4 The bad effect of salt on the health of Americans.（塩がアメリカ人の健康に与える悪い影響。）
 【和訳】

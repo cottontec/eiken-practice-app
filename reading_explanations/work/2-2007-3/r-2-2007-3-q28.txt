@@ -1,6 +1,7 @@
 ---
 choices: advised | noticed | preferred | repeated
 answerText: noticed
+reviewed: yes
 ---
 【正解】2 noticed（気づいた）
 【和訳】

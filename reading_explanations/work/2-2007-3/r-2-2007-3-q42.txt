@@ -1,6 +1,7 @@
 ---
 choices: get companies to donate work on drugs they decided not to sell. | contact scientists who work in poor countries for advice. | use an existing drug to fight a newly discovered disease. | ask companies to lend her their research laboratories.
 answerText: get companies to donate work on drugs they decided not to sell.
+reviewed: yes
 ---
 【正解】1 get companies to donate work on drugs they decided not to sell.（製薬会社に、販売しないと決めた薬についての研究成果を寄付してもらうこと。）
 【和訳】

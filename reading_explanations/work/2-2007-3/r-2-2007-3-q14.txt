@@ -1,6 +1,7 @@
 ---
 choices: process | standard | matter | value
 answerText: matter
+reviewed: yes
 ---
 【正解】3 matter（as a matter of fact で「実は、実際」）
 【和訳】

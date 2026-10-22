@@ -1,6 +1,7 @@
 ---
 choices: take after | get over | make up with | look down on
 answerText: make up with
+reviewed: yes
 ---
 【正解】3 make up with（～と仲直りする）
 【和訳】

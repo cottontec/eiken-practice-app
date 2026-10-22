@@ -1,6 +1,7 @@
 ---
 choices: Test the drugs mainly on their own employees. | Search for new diseases in other parts of the world. | Ask other companies to give them money for research. | Focus on illnesses that affect people who can pay for treatment.
 answerText: Focus on illnesses that affect people who can pay for treatment.
+reviewed: yes
 ---
 【正解】4 Focus on illnesses that affect people who can pay for treatment.（治療のお金を払える人々がかかる病気に力を集中する。）
 【和訳】

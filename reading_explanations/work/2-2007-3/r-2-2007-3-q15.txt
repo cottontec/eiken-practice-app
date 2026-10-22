@@ -1,6 +1,7 @@
 ---
 choices: on purpose | at hand | until then | before long
 answerText: before long
+reviewed: yes
 ---
 【正解】4 before long（まもなく、やがて）
 【和訳】

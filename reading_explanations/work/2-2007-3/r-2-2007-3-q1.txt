@@ -1,6 +1,7 @@
 ---
 choices: logic | opposite | exchange | identity
 answerText: opposite
+reviewed: yes
 ---
 【正解】2 opposite（正反対のもの、正反対の人）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: says | was saying | is said | will have said
 answerText: is said
+reviewed: yes
 ---
 【正解】3 is said（be said to ～ で「～と言われている」）
 【和訳】

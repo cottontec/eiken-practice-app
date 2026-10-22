@@ -1,6 +1,7 @@
 ---
 choices: on | at | in | as
 answerText: on
+reviewed: yes
 ---
 【正解】1 on（live on ～ で「～で暮らしを立てる」）
 【和訳】

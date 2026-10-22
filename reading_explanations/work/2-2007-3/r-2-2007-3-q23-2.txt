@@ -2,6 +2,7 @@
 choices: Bob | on | can | you | count
 answerText: can
 order: 4 3 5 2 1
+reviewed: yes
 ---
 【正解】3 can（この問題の2番目）
 【完成文】

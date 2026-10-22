@@ -2,6 +2,7 @@
 choices: Bob | on | can | you | count
 answerText: on
 order: 4 3 5 2 1
+reviewed: yes
 ---
 【正解】2 on（この問題の4番目）
 【完成文】

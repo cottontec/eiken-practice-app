@@ -1,6 +1,7 @@
 ---
 choices: They are the only racket available in so many colors. | Their low price will make them popular with customers. | His company will start manufacturing them in the United States. | The main reason people buy them is that they have light frames.
 answerText: Their low price will make them popular with customers.
+reviewed: yes
 ---
 【正解】2 Their low price will make them popular with customers.（その低い価格のおかげで、客に人気が出るだろう。）
 【和訳】

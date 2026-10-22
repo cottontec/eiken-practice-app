@@ -17,6 +17,7 @@ final = pdir / f'Reading_解説完成_part{a.part}.json'
 v = subprocess.run([sys.executable, '-I', str(src / 'validate_reading_explanations.py'), str(final), '--source', str(src / 'Reading_解説作成用.json'), '--allow-partial'],
                    capture_output=True, text=True)
 vrep = json.loads(v.stdout) if v.stdout.strip().startswith('{') else {'error': v.stderr}
+vf = subprocess.run([sys.executable, '-I', str(HERE / 'tools' / 'verify_final.py'), str(src / 'Reading_解説作成用.json'), str(final)], capture_output=True, text=True)
 prog = json.loads((pdir / 'progress.json').read_text('utf-8'))
 issues = json.loads((pdir / 'Reading_疑義一覧.json').read_text('utf-8'))
 src_all = json.loads((src / 'Reading_解説作成用.json').read_text('utf-8-sig'))
@@ -37,6 +38,7 @@ L.append(f"| 合計 | {tot['target']} | {tot['written']} | {tot['contentReviewed
 L += ['', '## 形式検査（validate_reading_explanations.py）', '',
       f"対象 {vrep.get('target')}・キー {vrep.get('keys')}・記入済み {vrep.get('filled')}・欠落ID {len(vrep.get('missingIds',[]))}・余分なID {len(vrep.get('extraIds',[]))}・型不正 {len(vrep.get('invalidTypes',[]))}・空欄 {len(vrep.get('emptyIds',[]))}・12,000字超 {len(vrep.get('over12000Characters',[]))}（終了コード {v.returncode}、空欄は疑義分のみ許容）。",
       'これは形式検査であり、内容の正しさは保証しません。', '',
+      '## 独立検算（tools/verify_final.py：完成JSONと原本の正答だけを照合）', '', vf.stdout.strip().replace('\n', '\n'), '',
       '## 実施した点検', '',
       '- 作成担当が正答を伏せたデータで全問を自力で解き、正式正答と機械照合（不一致は再読のうえ理由を記録、または疑義）。',
       '- 統合スクリプト tools/build_and_check.py による自動照合：【正解】番号と正式正答の一致、選択肢英文と正解英文の対応、不正解選択肢の全件記載、語句整序の並び順と2番目・4番目の正答の一致、見出し、禁止形式、12,000字以内、抽出テキストがある回は選択肢英文の照合。',
@@ -56,7 +58,7 @@ for b in prog['batches']:
 L += ['', f'## 点検での修正（{len(fixes)}件）', ''] + (fixes or ['- なし'])
 L += ['', '## 要確認（人の目で確認が必要）', ''] + (todo or ['- なし'])
 (pdir / 'Reading_作成結果.md').write_text('\n'.join(L) + '\n', 'utf-8')
-complete = v.returncode == 0 and set(vrep.get('emptyIds', [])) == {i['questionId'] for i in issues}  # 空欄は疑義のみ
+complete = v.returncode == 0 and vf.returncode == 0 and set(vrep.get('emptyIds', [])) == {i['questionId'] for i in issues}  # 空欄は疑義のみ
 zp = pdir / f'Reading_解説完成_part{a.part}_返却.zip'
 if complete:
     with zipfile.ZipFile(zp, 'w', zipfile.ZIP_DEFLATED) as z:

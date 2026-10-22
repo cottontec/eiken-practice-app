@@ -1,6 +1,7 @@
 ---
 choices: leaving | left | leave | had left
 answerText: left
+reviewed: yes
 ---
 【正解】2 left（残された）
 【和訳】

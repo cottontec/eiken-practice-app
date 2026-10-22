@@ -2,6 +2,7 @@
 choices: meeting | I'd | and get | continue the | rather
 answerText: meeting
 order: 2 5 4 1 3
+reviewed: yes
 ---
 【正解】1 meeting（この問題の4番目）
 【完成文】

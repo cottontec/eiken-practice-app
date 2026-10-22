@@ -1,6 +1,7 @@
 ---
 choices: Hale once worked for a major drug company in India. | The iOWH expects to make a large profit from its drugs. | Many big drug companies are thinking about copying Hale's idea. | The company that first developed paromomycin did not fully test it.
 answerText: The company that first developed paromomycin did not fully test it.
+reviewed: yes
 ---
 【正解】4 The company that first developed paromomycin did not fully test it.（最初にパロモマイシンを開発した会社は、それを十分には試験しなかった。）
 【和訳】

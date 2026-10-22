@@ -1,6 +1,7 @@
 ---
 choices: regularly | correctly | hardly | politely
 answerText: regularly
+reviewed: yes
 ---
 【正解】1 regularly（いつも決まって、定期的に）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: obviously | automatically | proudly | rudely
 answerText: obviously
+reviewed: yes
 ---
 【正解】1 obviously（明らかに）
 【和訳】

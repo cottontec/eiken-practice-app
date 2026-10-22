@@ -1,6 +1,7 @@
 ---
 choices: The cost of salt is likely to increase in the near future. | Food products already provide clear information to customers. | Research shows that the public is against stricter controls. | Low-salt products are starting to become popular.
 answerText: Food products already provide clear information to customers.
+reviewed: yes
 ---
 【正解】2 Food products already provide clear information to customers.（食品は、すでに客にはっきりとした情報を示している。）
 【和訳】

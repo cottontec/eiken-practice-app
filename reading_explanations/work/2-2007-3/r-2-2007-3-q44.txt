@@ -1,6 +1,7 @@
 ---
 choices: They need help finding drugstores to sell their newest drugs. | They hope to reach markets in countries outside the United States. | They want the public to have a better impression of them. | They believe they will get ideas for new drugs.
 answerText: They want the public to have a better impression of them.
+reviewed: yes
 ---
 【正解】3 They want the public to have a better impression of them.（世間の人々に、自分たちによい印象を持ってもらいたいから。）
 【和訳】

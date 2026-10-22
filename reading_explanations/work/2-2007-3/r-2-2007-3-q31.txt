@@ -1,6 +1,7 @@
 ---
 choices: puzzling | silent | different | common
 answerText: different
+reviewed: yes
 ---
 【正解】3 different（違った、異なる）
 【和訳】

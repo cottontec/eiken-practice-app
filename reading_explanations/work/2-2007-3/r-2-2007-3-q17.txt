@@ -1,6 +1,7 @@
 ---
 choices: bring in | stick up | catch on | call off
 answerText: catch on
+reviewed: yes
 ---
 【正解】3 catch on（流行する、人気が出る）
 【和訳】

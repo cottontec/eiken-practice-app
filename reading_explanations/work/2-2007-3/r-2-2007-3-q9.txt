@@ -1,6 +1,7 @@
 ---
 choices: reaction | favor | secret | angle
 answerText: angle
+reviewed: yes
 ---
 【正解】4 angle（角度、見る位置）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: until a healthy replacement for salt is found. | because companies are making salt even tastier. | until more people begin eating preserved foods. | because people do not believe what doctors say.
 answerText: until a healthy replacement for salt is found.
+reviewed: yes
 ---
 【正解】1 until a healthy replacement for salt is found.（健康によい塩の代わりのものが見つかるまでは。）
 【和訳】

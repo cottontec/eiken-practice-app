@@ -2,6 +2,7 @@
 choices: of | periods | two | consists | it
 answerText: consists
 order: 5 4 1 3 2
+reviewed: yes
 ---
 【正解】4 consists（この問題の2番目）
 【完成文】

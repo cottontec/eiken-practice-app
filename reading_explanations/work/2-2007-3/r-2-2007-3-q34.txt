@@ -1,6 +1,7 @@
 ---
 choices: her store might want to buy one of his company's products. | Ms. Holdsworth works for a company that makes tennis rackets. | Raddle's Department Store already sells Starlight tennis rackets. | he should contact the chief buyer of a sporting-goods store.
 answerText: her store might want to buy one of his company's products.
+reviewed: yes
 ---
 【正解】1 her store might want to buy one of his company's products.（彼女の店が、彼の会社の製品の1つを買いたいと思うかもしれない。）
 【和訳】
