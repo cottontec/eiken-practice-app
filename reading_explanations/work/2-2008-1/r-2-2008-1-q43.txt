@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：SMARTトンネルが2番目のモードにあるときに起こることの1つは何ですか。
-1 特別な門が開いて、車が一番下の層に入れるようになる。
-2 水が貯水湖から上の層へ流れこむ。
-3 ほどほどの暴風雨のせいで、人々はトンネルを使わざるをえなくなる。
-4 トンネルが、雨水と車の通行の両方に使われる。
+1 Special gates open to allow traffic into the bottom level.（特別な門が開いて、車が一番下の層に入れるようになる。）
+2 Water flows into the upper level from the storage lake.（水が貯水湖から上の層へ流れこむ。）
+3 Moderate storms force people to use the tunnel.（ほどほどの暴風雨のせいで、人々はトンネルを使わざるをえなくなる。）
+4 The tunnel is used both for rainwater and traffic.（トンネルが、雨水と車の通行の両方に使われる。）
 【考え方】
 second mode（2番目のモード）について書かれているのは第3段落です。In the second mode, during moderate storms, the bottom level carries away rainwater while the upper two levels remain open for traffic.（2番目のモードでは、ほどほどの暴風雨の間、一番下の層が雨水を運び去り、その一方で上の2つの層は車の通行のために開いたままになる）とあります。moderate は「ほどほどの、中くらいの」、while はここでは「その一方で、～している間に」、remain open は「開いたままである」です。
 つまり2番目のモードでは、一番下の層は雨水のために、上の2つの層は車のために、同時に使われています。

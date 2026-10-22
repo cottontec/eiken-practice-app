@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：プラネタリー・リソーシズについて、正しいものはどれですか。
-1 今後60年以内に、地球の希少な金属をすべて置きかえられると言っている。
-2 今後20年以内に、小惑星の採掘を始められるだろうと言っている。
-3 政府の宇宙機関から、中古の望遠鏡を買うつもりである。
-4 会社を助けてくれる億万長者を見つけることで、費用をまかなうことができる。
+1 It says it can replace all of Earth's rare metals within the next 60 years.（今後60年以内に、地球の希少な金属をすべて置きかえられると言っている。）
+2 It says it will be able to begin mining asteroids within the next 20 years.（今後20年以内に、小惑星の採掘を始められるだろうと言っている。）
+3 It will buy used telescopes from government space agencies.（政府の宇宙機関から、中古の望遠鏡を買うつもりである。）
+4 It can pay for its costs by finding billionaires to help the company.（会社を助けてくれる億万長者を見つけることで、費用をまかなうことができる。）
 【考え方】
 この設問は本文全体から正しいものを選ぶ問題なので、選択肢の数字や言葉を手がかりに本文と照らし合わせます。
 選択肢2の within the next 20 years（今後20年以内に）に注目すると、第2段落に Planetary Resources ... claims it will be able to start removing valuable metals and other minerals from asteroids within 20 years.（プラネタリー・リソーシズは、20年以内に小惑星から貴重な金属やそのほかの鉱物を取り出し始めることができるだろう、と主張している）とあります。claim は「主張する」です。

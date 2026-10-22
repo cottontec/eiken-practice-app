@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：新しい薬を開発するとき、製薬会社は何をしますか。
-1 主に自分たちの社員で薬を試験する。
-2 世界のほかの地域で新しい病気を探す。
-3 ほかの会社に研究のためのお金を出してくれるよう頼む。
-4 治療のお金を払える人々がかかる病気に力を集中する。
+1 Test the drugs mainly on their own employees.（主に自分たちの社員で薬を試験する。）
+2 Search for new diseases in other parts of the world.（世界のほかの地域で新しい病気を探す。）
+3 Ask other companies to give them money for research.（ほかの会社に研究のためのお金を出してくれるよう頼む。）
+4 Focus on illnesses that affect people who can pay for treatment.（治療のお金を払える人々がかかる病気に力を集中する。）
 【考え方】
 設問は、製薬会社が新しい薬を開発するときに何をするかをたずねています。第1段落を見ます。
 初めに、新しい薬の開発には何百万ドルもかかり、販売前に徹底的な試験も必要だと書かれています。そのため、drug companies need to develop drugs that will eventually make enough money to cover their costs（製薬会社は、最終的に費用をまかなえるだけのお金をかせげる薬を開発する必要がある）と続きます。cover はここでは「（費用を）まかなう」という意味です。

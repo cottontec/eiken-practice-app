@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】3 enormous（巨大な、とても大きな）
 【和訳】
+（英文）
+Bert was very hungry, so he ordered a big steak for dinner. When it arrived, it was ［enormous］. He could only eat about half of it.
+（訳）
 バートはとてもおなかがすいていたので、夕食に大きなステーキを注文しました。それが運ばれてきたとき、それは（とても大きなもの）でした。彼は半分ほどしか食べられませんでした。
 （選択肢の意味）
-1 不快な、失礼な
-2 突然の、ぶっきらぼうな
-3 巨大な、とても大きな
-4 よく知っている、見慣れた
+1 offensive：不快な、失礼な
+2 abrupt：突然の、ぶっきらぼうな
+3 enormous：巨大な、とても大きな
+4 familiar：よく知っている、見慣れた
 【考え方】
 空所は it was (　). の形で、it は運ばれてきたステーキを指します。ですから、空所にはステーキの様子を表す形容詞（名詞の様子や性質を表す語）が入ります。
 決め手は、すぐあとの He could only eat about half of it.（彼はそれの半分ほどしか食べられなかった）です。とてもおなかがすいていたのに半分しか食べられなかったのは、ステーキが思った以上に大きかったからだと考えられます。

@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：ロンドンの地元の水道会社は、
-1 洪水によって起きた被害の費用を払う方法を探している。
-2 ごみから作られた燃料を使うよう、運転手にお金を払っている。
-3 油を掃除するのに、毎月多額のお金を使っている。
-4 車の油があまりにも多く水に入りこんできていると言っている。
+1 is looking for ways to pay for damage caused by flooding.（洪水によって起きた被害の費用を払う方法を探している。）
+2 is paying drivers to use fuel made from waste.（ごみから作られた燃料を使うよう、運転手にお金を払っている。）
+3 spends a lot of money every month cleaning up oil.（油を掃除するのに、毎月多額のお金を使っている。）
+4 says that too much car oil has been getting into the water.（車の油があまりにも多く水に入りこんできていると言っている。）
 【考え方】
 地元の水道会社については、第3段落に書かれています。
 まず large amounts of cooking oil are still released into the sewer system every year（今でも毎年大量の食用油が下水道に流されている）とあります。still は「今でも、まだ」です。

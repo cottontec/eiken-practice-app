@@ -8,10 +8,10 @@ answerText: It has received some positive online reviews.
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：マイケル・グリーンが、自分の買ったテレビについて述べていることの1つは何ですか。
-1 それは取扱説明書がついていない状態で彼に送られてきた。
-2 それはインターネット上でいくつかの好意的な評価を受けている。
-3 彼はそれを地元のテレビジョン・デポの店で手に入れた。
-4 最近のセールの対象だったので、彼はそれを選んだ。
+1 It was sent to him without an instruction manual.（それは取扱説明書がついていない状態で彼に送られてきた。）
+2 It has received some positive online reviews.（それはインターネット上でいくつかの好意的な評価を受けている。）
+3 He got it from his local Television Depot store.（彼はそれを地元のテレビジョン・デポの店で手に入れた。）
+4 He chose it because it was in a recent sale.（最近のセールの対象だったので、彼はそれを選んだ。）
 【考え方】
 メールの第1段落の初めに、テレビを買ったときのことが書かれています。
 After reading several excellent reviews of the ZX950 LCD TV on the Internet, I purchased one from your Television Depot online store.（インターネットでZX950液晶テレビのすばらしいレビューをいくつか読んだあと、御社のテレビジョン・デポのオンラインストアで1台購入しました）

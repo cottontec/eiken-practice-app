@@ -4,13 +4,17 @@ answerText: judgment
 ---
 【正解】3 judgment（判断、判断力）
 【和訳】
+（英文）
+A: Dave asked me to marry him. Do you think I should say yes?
+B: You have to use your own ［judgment］ to decide. No one else can do it for you.
+（訳）
 A：デイブに結婚を申し込まれたよ。「はい」と言うべきだと思う？
 B：決めるには、あなた自身の（判断力）を使わなければならないよ。ほかのだれも、あなたの代わりにそれをすることはできないよ。
 （選択肢の意味）
-1 収入
-2 しきたり、慣習；大会
-3 判断、判断力
-4 地理
+1 income：収入
+2 convention：しきたり、慣習；大会
+3 judgment：判断、判断力
+4 geography：地理
 【考え方】
 Aは「結婚の申し込みに『はい』と言うべきか」とBに意見を求めています。それに対してBは、You have to use your own (　) to decide.（決めるには、あなた自身の（　）を使わなければならない）と答えています。
 空所の前の your own は「あなた自身の」という意味です。続く No one else can do it for you.（ほかのだれも、あなたの代わりにそれをすることはできない）の it は「決めること」を指しています。つまりBは、「決めるのはほかの人ではなく、あなた自身だ」と言っているのです。

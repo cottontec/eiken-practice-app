@@ -5,13 +5,17 @@ reviewed: yes
 ---
 【正解】3 survey（調査、アンケート）
 【和訳】
+（英文）
+A: Who was that on the telephone, Pete?
+B: Just someone who was doing a ［survey］. She asked me some questions.
+（訳）
 A：ピート、電話の相手はだれだったの？
 B：調査をしていた人というだけだよ。その女の人にいくつか質問をされたんだ。
 （選択肢の意味）
-1 ラベル、札
-2 数字、姿、人物
-3 調査、アンケート
-4 目的
+1 label：ラベル、札
+2 figure：数字、姿、人物
+3 survey：調査、アンケート
+4 purpose：目的
 【考え方】
 Bは Just someone who was doing a (　). と答えています。who は前の someone（だれか）に説明を付け足す語で、「（　）をしていた人」という意味になります。
 手がかりはそのあとの She asked me some questions.（その女性は私にいくつか質問をした）です。電話をかけてきて、いくつか質問をする人が「していたこと」を考えます。

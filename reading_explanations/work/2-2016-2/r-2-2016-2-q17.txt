@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】1 out of use（使われていない）
 【和訳】
+（英文）
+The hiking trail had been ［out of use］ for such a long time that it was covered with tall grass and weeds.
+（訳）
 そのハイキングコースはとても長い間（使われていなかった）ので、背の高い草や雑草でおおわれていました。
 （選択肢の意味）
-1 使われていない
-2 場違いで、その場に合わない
-3 動き回って、忙しくして
-4 逃走中で、急いで
+1 out of use：使われていない
+2 out of place：場違いで、その場に合わない
+3 on the go：動き回って、忙しくして
+4 on the run：逃走中で、急いで
 【考え方】
 この文は such ～ that ... の形です。such ～ that ... は「とても～なので…」という意味で、that のあとに結果が書かれます。
 結果の部分は it was covered with tall grass and weeds（それは背の高い草や雑草でおおわれていた）です。it はハイキングコースを指します。道が草でおおわれるのは、人が長い間歩いていない、つまり使われていないときです。

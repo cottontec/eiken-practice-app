@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：ジャン＝ピエール・ウーダンは（　）と考えている。
-1 建設者たちは、まずピラミッドの3Dモデルを作ることから始めた
-2 エジプト人はピラミッドの内部にある坂を使って石を上へ運んだ
-3 木製クレーン説は別のピラミッドで確かめられるべきだ
-4 ピラミッドの中の部屋を測ることで、なぞが解き明かされるだろう
+1 the builders began by making 3-D models of the pyramid.（建設者たちは、まずピラミッドの3Dモデルを作ることから始めた）
+2 the Egyptians moved the stones up a slope inside the pyramid.（エジプト人はピラミッドの内部にある坂を使って石を上へ運んだ）
+3 the wooden-cranes theory should be tested on another pyramid.（木製クレーン説は別のピラミッドで確かめられるべきだ）
+4 the mystery will be explained by measuring rooms in the pyramid.（ピラミッドの中の部屋を測ることで、なぞが解き明かされるだろう）
 【考え方】
 ウーダンさんの考えは、第3段落に書かれています。
 Eventually, he concluded that the stones must have been pulled up a gentle slope inside the pyramid itself.（最終的に彼は、石はピラミッドそのものの内部にあるゆるやかな坂を引き上げられたにちがいない、という結論に達した）とあります。slope は「坂、斜面」、must have been ～ed は「～されたにちがいない」です。

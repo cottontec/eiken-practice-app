@@ -4,13 +4,17 @@ answerText: set aside
 ---
 【正解】4 set aside（～を取っておいた）
 【和訳】
+（英文）
+A: I'm sorry that I came home late. Did you have dinner without me?
+B: Yes. We were very hungry, but I ［set aside］ some food for you. I'll heat it up now.
+（訳）
 A：帰りが遅くなってごめんね。私抜きで夕食を食べた？
 B：うん。私たちはとてもおなかがすいていたけれど、あなたのために料理を少し（取っておいた）よ。今から温めるね。
 （選択肢の意味）
-1 （木など）を切り倒した、～を減らした
-2 電話を切った、～を（つるして）掛けた
-3 （親など）に似ていた
-4 ～を取っておいた
+1 cut down：（木など）を切り倒した、～を減らした
+2 hung up：電話を切った、～を（つるして）掛けた
+3 took after：（親など）に似ていた
+4 set aside：～を取っておいた
 【考え方】
 Aは帰りが遅くなり、Did you have dinner without me?（私抜きで夕食を食べた？）とたずねています。Bは Yes.（うん）と答えたあと、We were very hungry, but I (　) some food for you.（とてもおなかがすいていたけれど、あなたのために料理を少し（　）した）と続けます。
 but（しかし）があるので、「おなかがすいていた」こととは反対向きの内容、つまり「全部は食べなかった」という内容が続くと考えられます。さらに I'll heat it up now.（今からそれを温めるね）とあります。heat up ～ は「～を温める」で、it は取っておいた料理を指しています。

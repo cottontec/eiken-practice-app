@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：2003年の調査で分かったことの1つは何ですか。
-1 石油会社は、音の小さいダイナマイトを探している。
-2 ソナーは、人間が出す音の中で、クジラが聞くことのできる唯一の音である。
-3 カリフォルニア近くの海は、ほかの地域より10倍騒がしい。
-4 海の騒音の大部分は、船が原因になっている。
+1 Oil companies are looking for dynamite that makes less noise.（石油会社は、音の小さいダイナマイトを探している。）
+2 Sonar is the only sound made by humans that whales can hear.（ソナーは、人間が出す音の中で、クジラが聞くことのできる唯一の音である。）
+3 The ocean near California is 10 times noisier than other areas.（カリフォルニア近くの海は、ほかの地域より10倍騒がしい。）
+4 Ships are responsible for most of the noise in the oceans.（海の騒音の大部分は、船が原因になっている。）
 【考え方】
 設問の the 2003 survey（2003年の調査）を本文で探すと、第2段落に A survey carried out in 2003 in the ocean near California（2003年にカリフォルニア近くの海で行われた調査）とあります。この段落には、その調査で分かったことが書かれています。
 段落の4文目に The majority of the noise, though, is caused by the increasing number of ships that carry goods and people around the world.（しかし、騒音の大部分は、世界中に物や人を運ぶ船の数が増えていることによって引き起こされている）とあります。the majority of ～ は「～の大部分」という意味です。

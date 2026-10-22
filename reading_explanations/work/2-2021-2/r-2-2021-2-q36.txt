@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：科学者たちが熱水噴出孔に関心を持っている理由の1つは何ですか。
-1 そこには、最近になって初めて発見された特別な金属がふくまれている。
-2 そこは、海の中ではめったにない強い酸でいっぱいである。
-3 エネルギーを太陽に頼らない、めずらしい動物がそこに住んでいる。
-4 そこで生まれる熱を、エネルギー源として使える可能性がある。
+1 They contain special metals that were only discovered recently.（そこには、最近になって初めて発見された特別な金属がふくまれている。）
+2 They are full of powerful acids that are uncommon in the ocean.（そこは、海の中ではめったにない強い酸でいっぱいである。）
+3 Unusual animals that do not rely on the sun for energy live there.（エネルギーを太陽に頼らない、めずらしい動物がそこに住んでいる。）
+4 The heat they create could be used as a source of energy.（そこで生まれる熱を、エネルギー源として使える可能性がある。）
 【考え方】
 設問の scientists are interested in（科学者たちが関心を持っている）という言い方を本文で探します。第3段落に、次の文があります。
 Scientists are interested in them not only because of the metals they contain, but also because of the amazing creatures found living near them.（科学者たちが熱水噴出孔に関心を持っているのは、そこにふくまれる金属のためだけでなく、その近くで生きているのが見つかった、驚くべき生き物のためでもある）

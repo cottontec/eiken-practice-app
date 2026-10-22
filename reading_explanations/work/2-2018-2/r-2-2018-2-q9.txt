@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】4 handle（うまく扱う、こなす）
 【和訳】
+（英文）
+Cynthia quit her part-time job because she could not ［handle］ working and going to college at the same time. Trying to do both was too tiring for her.
+（訳）
 シンシアはアルバイトを辞めました。働くことと大学に通うことを同時に（こなす）ことができなかったからです。両方をやろうとするのは、彼女にとってあまりにも疲れることでした。
 （選択肢の意味）
-1 取り除く
-2 許す、言い訳をする
-3 見つける、気づく
-4 うまく扱う、こなす
+1 remove：取り除く
+2 excuse：許す、言い訳をする
+3 detect：見つける、気づく
+4 handle：うまく扱う、こなす
 【考え方】
 最初の文は Cynthia quit her part-time job（シンシアはアルバイトを辞めた）で、because のあとにその理由が書かれています。理由は she could not（　）working and going to college at the same time（働くことと大学に通うことを同時に～できなかった）です。
 あとの文の Trying to do both was too tiring for her.（両方をやろうとするのは、彼女にはあまりにも疲れることだった）が手がかりです。too は「あまりにも～すぎる」という意味です。仕事と大学の両方が大変で、続けられなかったということです。

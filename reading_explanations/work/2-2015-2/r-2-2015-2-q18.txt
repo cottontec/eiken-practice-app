@@ -5,6 +5,9 @@ reviewed: yes
 ---
 【正解】4 visited（訪れた（having visited で「訪れたことがあったので」））
 【和訳】
+（英文）
+Having ［visited］ London before, Harry knew how to get from the airport to his hotel.
+（訳）
 ハリーは以前ロンドンを訪れたことがあったので、空港からホテルへの行き方を知っていました。
 （選択肢の意味）
 1 to visit：訪れること、訪れるために

@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：近い将来、（　）。
-1 店は、プリンターとしても使える携帯電話を売るだろう
-2 プリンターには、もう壊れる部品がなくなるかもしれない
-3 人々は、壊れた部品を取りかえる新しい方法を持つかもしれない
-4 製造元は、人々が訪ねてくると新しい携帯電話をくれるだろう
+1 stores will sell cell phones that work as printers.（店は、プリンターとしても使える携帯電話を売るだろう）
+2 printers may no longer have parts that can be broken.（プリンターには、もう壊れる部品がなくなるかもしれない）
+3 people may have a new way of replacing broken parts.（人々は、壊れた部品を取りかえる新しい方法を持つかもしれない）
+4 manufacturers will give people a new cell phone when they visit.（製造元は、人々が訪ねてくると新しい携帯電話をくれるだろう）
 【考え方】
 設問の In the near future（近い将来）に注目し、本文で未来のことを述べている部分を探します。
 第1段落では、まず今の様子が書かれています。If they need to replace a broken piece of the cover, they either have to call the manufacturer or visit the store where they bought the phone.（カバーの壊れた部分を取りかえる必要があるときは、製造元に電話するか、電話を買った店に行かなければならない）。

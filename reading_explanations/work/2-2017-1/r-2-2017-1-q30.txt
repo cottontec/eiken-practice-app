@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：人がぐるぐると回ったあとに目が回るのは、
-1 実際には動いていないのに、信号によって脳が、体が動いていると思ってしまうからである。
-2 ある物が、体と脳の間の信号をさえぎることで、人のバランスを失わせるからである。
-3 とても長い間立っていたので、体が疲れてしまうからである。
-4 自分が飲んだ液体のせいで、脳が回っているように感じるからである。
+1 signals cause the brain to think that the body is moving even though it is not.（実際には動いていないのに、信号によって脳が、体が動いていると思ってしまうからである。）
+2 an object makes people lose their balance by blocking signals between the body and the brain.（ある物が、体と脳の間の信号をさえぎることで、人のバランスを失わせるからである。）
+3 they have been standing for such a long time that their body becomes tired.（とても長い間立っていたので、体が疲れてしまうからである。）
+4 the liquids that they have drunk cause their brains to feel like they are spinning.（自分が飲んだ液体のせいで、脳が回っているように感じるからである。）
 【考え方】
 目が回るしくみは、第1段落に書かれています。順に見ていきます。
 ・a liquid in their ears causes signals to be sent to their brains to help them keep their balance（耳の中にある液体によって脳に信号が送られ、それがバランスを保つ助けになる）

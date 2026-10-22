@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】2 suspicious（あやしい、疑わしい）
 【和訳】
+（英文）
+After the house was robbed, some people told the police that they had seen a ［suspicious］ man standing across the street.
+（訳）
 その家に泥棒が入ったあと、何人かの人が、通りの向かい側に（あやしい）男が立っているのを見たと警察に話しました。
 （選択肢の意味）
-1 繊細な、こわれやすい
-2 あやしい、疑わしい
-3 すばらしい、光り輝く
-4 価値のある、高価な
+1 delicate：繊細な、こわれやすい
+2 suspicious：あやしい、疑わしい
+3 brilliant：すばらしい、光り輝く
+4 valuable：価値のある、高価な
 【考え方】
 文の初めの After the house was robbed（その家に泥棒が入ったあと）に注目します。was robbed は「（物を）盗まれた」という受け身（「～される」という形）です。
 そのあと、人々が警察に「通りの向かい側に立っている（　）男を見た」と話しています。泥棒の事件のあとで、わざわざ警察に伝える男ですから、事件に関係がありそうな、様子のおかしい人物だと考えられます。

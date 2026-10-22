@@ -4,12 +4,15 @@ answerText: convert
 ---
 【正解】4 convert（換算する、変える）
 【和訳】
+（英文）
+In Canada, road signs for speed limits are posted in kilometers per hour. Americans often need to ［convert］ the measurements to miles per hour in order to understand how fast they can drive.
+（訳）
 カナダでは、制限速度を示す道路標識は、時速何キロメートルという単位で表示されています。アメリカ人は、どのくらいの速さで運転してよいのかを知るために、その数値を時速何マイルに（換算する）必要があることがよくあります。
 （選択肢の意味）
-1 辞職する
-2 引き出す、得る
-3 ろ過する、選別する
-4 換算する、変える
+1 resign：辞職する
+2 derive：引き出す、得る
+3 filter：ろ過する、選別する
+4 convert：換算する、変える
 【考え方】
 1文目に、カナダの標識は in kilometers per hour（時速何キロメートルで）表示されているとあります。
 2文目は Americans often need to ( ) the measurements to miles per hour（アメリカ人は、その数値を時速何マイルに（　）する必要がよくある）です。measurements は「測った数値」で、ここでは標識に書かれたキロメートルの数字を指しています。in order to understand how fast they can drive（どのくらいの速さで運転してよいのかを知るために）とあるので、アメリカ人にとってはマイルの数字のほうが分かりやすく、キロメートルの数字をマイルの数字に直していると考えられます。

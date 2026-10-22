@@ -4,12 +4,15 @@ answerText: substance
 ---
 【正解】1 substance（物質、〔何だか分からない〕もの）
 【和訳】
+（英文）
+When Ron walked through the dark kitchen, he stepped on a soft, wet ［substance］. He found out that his daughter had accidentally spilled some yogurt.
+（訳）
 ロンが暗い台所を通り抜けたとき、彼は柔らかくてぬれた（もの）を踏みました。彼は、娘がうっかりヨーグルトをこぼしていたのだと分かりました。
 （選択肢の意味）
-1 物質、もの
-2 絵、スケッチ
-3 風景、景色
-4 犯罪者
+1 substance：物質、もの
+2 drawing：絵、スケッチ
+3 landscape：風景、景色
+4 criminal：犯罪者
 【考え方】
 空所の前は he stepped on a soft, wet (　)（彼は柔らかくてぬれた（　）を踏んだ）です。soft（柔らかい）と wet（ぬれた）が空所の名詞を説明しています。
 次の文の He found out that his daughter had accidentally spilled some yogurt.（彼は、娘がうっかりヨーグルトをこぼしていたのだと分かった）に注目します。had spilled は「（踏んだときより前に）こぼしていた」という意味です。つまり、ロンが踏んだ柔らかくてぬれたものの正体は、ヨーグルトでした。

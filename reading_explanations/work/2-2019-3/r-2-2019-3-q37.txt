@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：科学者たちは、自分たちの研究が（　）ために使えるかもしれないと述べています。
-1 読むことに苦労している人々のための治療法を生み出す
-2 脳の表面の問題を治すための手術を開発する
-3 幼い子どもたちに読み方を教える先生を助ける
-4 子どもたちの能力を伸ばすのに使える新しい道具を見つける
+1 create treatments for people who have trouble reading.（読むことに苦労している人々のための治療法を生み出す）
+2 develop a surgery to fix problems on the surface of the brain.（脳の表面の問題を治すための手術を開発する）
+3 help teachers who teach young children how to read.（幼い子どもたちに読み方を教える先生を助ける）
+4 discover new tools that can be used to develop children’s skills.（子どもたちの能力を伸ばすのに使える新しい道具を見つける）
 【考え方】
 設問の their research can be used to ～（自分たちの研究が～のために使える）と同じ言い方が、第4段落の始めにあります。
 ・the scientists hope that this research can be used to support people with dyslexia—a condition in which people have difficulty learning to read.（科学者たちは、この研究がディスレクシア――読むことを学ぶのが難しい状態――の人々を支えるために使えることを願っている）

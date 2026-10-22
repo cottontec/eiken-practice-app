@@ -4,12 +4,15 @@ answerText: postponed
 ---
 【正解】1 postponed（延期された）
 【和訳】
+（英文）
+The soccer game was supposed to be held this Saturday, but it was ［postponed］ because of the heavy rain. It will be held next weekend instead.
+（訳）
 そのサッカーの試合は今週の土曜日に行われる予定でしたが、大雨のために（延期されました）。代わりに来週末に行われます。
 （選択肢の意味）
-1 延期された
-2 従われた
-3 回復された、取り戻された
-4 だまされた
+1 postponed：延期された
+2 obeyed：従われた
+3 recovered：回復された、取り戻された
+4 tricked：だまされた
 【考え方】
 1文目の The soccer game was supposed to be held this Saturday（そのサッカーの試合は今週の土曜日に行われる予定だった）に注目します。be supposed to ～ は「～することになっている、～する予定だ」という意味です。そのあとに but（しかし）があるので、予定どおりにはいかなかったことが分かります。
 2文目には It will be held next weekend instead.（代わりに来週末に行われる）とあります。instead は「その代わりに」という意味です。つまり、試合は中止ではなく、日にちを後ろにずらしたことになります。

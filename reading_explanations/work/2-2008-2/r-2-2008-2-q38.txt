@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：3Dプリンターはどのようなしくみで動きますか。
-1 材料の層を印刷し、それらを物の形にする。
-2 製造元が部品を作るときに使う設計図を作り出す。
-3 紙を熱と圧力でつなぎ合わせる。
-4 紙の型紙を作り、粉末状のナイロンやアルミニウムを加える。
+1 It prints layers of materials and shapes them into objects.（材料の層を印刷し、それらを物の形にする。）
+2 It creates designs for manufacturers to use when making parts.（製造元が部品を作るときに使う設計図を作り出す。）
+3 It joins together sheets of paper with heat and pressure.（紙を熱と圧力でつなぎ合わせる。）
+4 It produces a paper pattern and adds powdered nylon and aluminum.（紙の型紙を作り、粉末状のナイロンやアルミニウムを加える。）
 【考え方】
 3Dプリンターのしくみは、第2段落に書かれています。
 まず材料について、While traditional printers use paper and ink, 3-D printers reproduce objects using materials such as powdered nylon and aluminum.（これまでのプリンターは紙とインクを使うが、3Dプリンターは粉末状のナイロンやアルミニウムなどの材料を使って物を再現する）とあります。While ～ は、ここでは「～だが一方で」と2つを比べる働きをしています。

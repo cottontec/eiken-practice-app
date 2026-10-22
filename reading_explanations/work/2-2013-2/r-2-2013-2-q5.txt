@@ -8,10 +8,10 @@ reviewed: yes
 A：アン、最近よく眠れていないよ。
 B：昼間にもっと運動をするようにしてみるといいと思うよ。私はいつも、体が疲れているときのほうがよく眠れるよ。
 （選択肢の意味）
-1 ためらいながら
-2 色あざやかに
-3 体が、肉体的に
-4 法律上、合法的に
+1 hesitantly：ためらいながら
+2 colorfully：色あざやかに
+3 physically：体が、肉体的に
+4 legally：法律上、合法的に
 【考え方】
 Aは「最近よく眠れていない」となやみを話しています。
 Bは you should try to get more exercise during the day（昼間にもっと運動するようにしたほうがいい）とすすめ、その理由として自分のことを話します。I always sleep better when I'm (　) tired.（私は（　）疲れているときのほうが、いつもよく眠れる）です。

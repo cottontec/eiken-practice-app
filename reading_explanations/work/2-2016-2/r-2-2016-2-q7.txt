@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】3 burden（重荷、負担）
 【和訳】
+（英文）
+James has to be more careful with his money these days because he now has to pay for his parents' medical costs. This has become a heavy financial ［burden］ on him.
+（訳）
 ジェームズは最近、（以前より）もっとお金の使い方に気をつけなければなりません。今は両親の医療費を払わなければならないからです。このことは、彼にとって重い経済的な（負担）になっています。
 （選択肢の意味）
-1 終点、ターミナル
-2 笛、口笛
-3 重荷、負担
-4 航海、船の旅
+1 terminal：終点、ターミナル
+2 whistle：笛、口笛
+3 burden：重荷、負担
+4 voyage：航海、船の旅
 【考え方】
 1文目に、ジェームズがお金に気をつけなければならない理由として because he now has to pay for his parents' medical costs（今は両親の医療費を払わなければならないから）とあります。
 2文目の This は「両親の医療費を払わなければならないこと」を指します。空所の前には heavy financial（重い、お金の面での）があり、空所のあとには on him（彼に）が続いています。

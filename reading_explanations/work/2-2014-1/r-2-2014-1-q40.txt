@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：マイケル・バレンズエラ准教授は、～と言っている。
-1 若い人は、人生の後半に記憶の問題が起きないように、脳トレーニングを使うべきだ
-2 60歳未満の人は、体の健康を保つことで、最もよく脳を大切にすることができる
-3 一度にあまりに多くの活動をすると脳にストレスを与えることがあるので、それは避けるべきだ
-4 高齢の人は、若い人と比べて、コンピューターを使うことから恩恵を受けにくい
+1 younger people should use brain training to avoid memory problems later in life.（若い人は、人生の後半に記憶の問題が起きないように、脳トレーニングを使うべきだ）
+2 people under 60 can best take care of their brains by staying physically healthy.（60歳未満の人は、体の健康を保つことで、最もよく脳を大切にすることができる）
+3 people should avoid doing too many activities at once because it can stress the brain.（一度にあまりに多くの活動をすると脳にストレスを与えることがあるので、それは避けるべきだ）
+4 older people are less likely to benefit from using computers than younger people are.（高齢の人は、若い人と比べて、コンピューターを使うことから恩恵を受けにくい）
 【考え方】
 バレンズエラ准教授の話は第4段落に書かれています。
 まず、the evidence so far shows that people under the age of 60 are not likely to benefit from brain-training computer programs（これまでの証拠からは、60歳未満の人が脳トレーニングのコンピューター・プログラムから恩恵を受ける可能性は低いことが示されている）とあります。be likely to ～ は「～しそうだ、～する可能性が高い」で、not がついているので「～する可能性は低い」となります。

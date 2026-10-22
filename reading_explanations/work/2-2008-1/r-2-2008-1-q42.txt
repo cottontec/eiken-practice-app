@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：雨水管理・道路トンネルは、～ための方法を提供します。
-1 水が、家庭で使うために都心へ直接流れていく
-2 車が、幹線道路を混雑させずに湖まで行く
-3 雨水が、車が通る道路の下を安全に流れ去る
-4 技術者が、問題があるときに車の進む向きを変える
+1 water to pass directly to the city center for use in homes.（水が、家庭で使うために都心へ直接流れていく）
+2 traffic to reach a lake without crowding the highways.（車が、幹線道路を混雑させずに湖まで行く）
+3 rainwater to flow away safely below traffic lanes.（雨水が、車が通る道路の下を安全に流れ去る）
+4 engineers to change the direction of traffic when there are problems.（技術者が、問題があるときに車の進む向きを変える）
 【考え方】
 設問の provides a way for ～ to ... は「～が…するための方法を提供する」という意味です。トンネルのしくみは第2段落に書かれています。
 In this tunnel, the upper and middle levels function as highways for traffic to flow smoothly（このトンネルでは、上の層と真ん中の層が、車がスムーズに流れるための幹線道路として機能する）とあり、続けて When necessary, the bottom level of the tunnel carries rainwater to a storage lake.（必要なときには、トンネルの一番下の層が雨水を貯水湖へ運ぶ）とあります。

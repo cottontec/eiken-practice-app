@@ -4,12 +4,15 @@ answerText: expose
 ---
 【正解】2 expose（さらす、当てる）
 【和訳】
+（英文）
+Sunlight is important for people to stay healthy. However, it is not good to ［expose］ skin to too much sunlight.
+（訳）
 日光は、人が健康でいるために大切です。しかし、肌をあまりに多くの日光に（さらす）のはよくありません。
 （選択肢の意味）
-1 抗議する
-2 さらす、当てる
-3 （調査などを）行う、指揮する
-4 表す、代表する
+1 protest：抗議する
+2 expose：さらす、当てる
+3 conduct：（調査などを）行う、指揮する
+4 represent：表す、代表する
 【考え方】
 空所の後ろは skin to too much sunlight です。skin は「肌」、too much sunlight は「多すぎる日光」です。空所に入る動詞は、「肌」と「日光」を to でつなぐ形で使えるものだと分かります。
 expose A to B は「AをB（光や風など）にさらす、当てる」という意味です。expose skin to too much sunlight で「肌を多すぎる日光にさらす」となります。

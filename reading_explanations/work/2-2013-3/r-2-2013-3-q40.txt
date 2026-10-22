@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：VGoロボットの問題点の1つは何ですか。
-1 ロボットがドアや階段に与える損傷を直すのに、多くのお金がかかる。
-2 年下の子どもの中には、ロボットを操作するのに苦労する子がいる。
-3 ロボットのせいで、一部の子どもたちがふつうの生活を送るのが難しくなることがある。
-4 学校は、手助けがないとその代金を払えないことが多い。
+1 It costs a lot to repair the damage they cause to doors and stairs.（ロボットがドアや階段に与える損傷を直すのに、多くのお金がかかる。）
+2 Some younger children have trouble controlling them.（年下の子どもの中には、ロボットを操作するのに苦労する子がいる。）
+3 They can make it hard for some children to have a normal life.（ロボットのせいで、一部の子どもたちがふつうの生活を送るのが難しくなることがある。）
+4 Schools are often unable to pay for them without help.（学校は、手助けがないとその代金を払えないことが多い。）
 【考え方】
 ロボットの問題点は、第4段落の The VGo robot does have some disadvantages.（VGoロボットには確かにいくつかの欠点がある）のあとに書かれています。disadvantage は「欠点、不利な点」という意味です。
 1つ目は One of these is its high price, which means volunteers often need to raise money to get one for a school.（その1つは値段が高いことで、そのため、学校のためにロボットを1台手に入れるには、ボランティアの人たちがお金を集める必要があることがよくある）です。raise money は「お金を集める」という意味です。

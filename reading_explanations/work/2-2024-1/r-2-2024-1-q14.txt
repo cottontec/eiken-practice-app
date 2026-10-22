@@ -4,12 +4,15 @@ answerText: keeps track of
 ---
 【正解】3 keeps track of（～を記録しておく、～の経過を追う）
 【和訳】
+（英文）
+When Jason and his friends go to play baseball in the park, his little sister goes with them and ［keeps track of］ the score in her notebook.
+（訳）
 ジェイソンと友だちが公園に野球をしに行くとき、彼の妹がいっしょについて行って、ノートに得点を（記録していきます）。
 （選択肢の意味）
-1 ～を理解する
-2 ～に遅れずについていく
-3 ～を記録しておく、～の経過を追う
-4 ～で間に合わせる
+1 makes sense of：～を理解する
+2 keeps pace with：～に遅れずについていく
+3 keeps track of：～を記録しておく、～の経過を追う
+4 makes do with：～で間に合わせる
 【考え方】
 空所のあとの the score in her notebook（ノートに得点を）に注目します。in her notebook（自分のノートに）とあるので、妹はノートに得点を書いていると考えられます。
 野球の試合では、得点は試合が進むにつれて変わっていきます。それをノートに書いていくのは、「得点の記録をつけ続ける」ということです。keep track of ～ は「～を記録しておく、～の変化を追い続ける」という意味の熟語です。keeps track of the score in her notebook で「ノートに得点を記録していく」となるので、3が正解です。主語が his little sister（彼の妹）なので、keeps のように s がついています。

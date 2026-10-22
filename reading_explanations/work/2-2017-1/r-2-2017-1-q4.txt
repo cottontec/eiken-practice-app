@@ -5,13 +5,17 @@ reviewed: yes
 ---
 【正解】1 stir（かき混ぜる）
 【和訳】
+（英文）
+A: Do you need any help with lunch, Dad?
+B: Yes. Please ［stir］ the soup with this spoon. It needs to be mixed well before it's ready to eat.
+（訳）
 A：お父さん、お昼ごはんで何か手伝うことはある？
 B：うん。このスプーンでスープを（かき混ぜて）ください。食べられるようになる前に、よく混ぜておく必要があるよ。
 （選択肢の意味）
-1 かき混ぜる
-2 転がす、丸める
-3 （星などの）周りを回る
-4 （髪などを）くるくる巻く
+1 stir：かき混ぜる
+2 roll：転がす、丸める
+3 orbit：（星などの）周りを回る
+4 curl：（髪などを）くるくる巻く
 【考え方】
 空所のあとの the soup with this spoon（このスプーンでスープを）と、次の文に注目します。
 It needs to be mixed well before it's ready to eat.（食べられる状態になる前に、それはよく混ぜられる必要がある）とあります。It はスープのことです。スープはよく混ぜなければならないので、Bは「スプーンでスープを混ぜて」とたのんでいると考えられます。

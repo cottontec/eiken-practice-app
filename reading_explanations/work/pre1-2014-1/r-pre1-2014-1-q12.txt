@@ -5,13 +5,17 @@ reviewed: yes
 ---
 【正解】3 paranoid（被害妄想の、疑いすぎる）
 【和訳】
+（英文）
+A: The boss just criticized me in front of the whole department. Maybe he's planning to fire me.
+B: Don't be so ［paranoid］. He does that to everyone.
+（訳）
 A：上司がたった今、部署のみんなの前で私を批判したんだ。もしかしたら、私をクビにするつもりなのかもしれない。
 B：そんなに（被害妄想に）ならないで。あの人はだれにでもああするんだから。
 （選択肢の意味）
-1 礼儀正しい
-2 余分な、不要な
-3 被害妄想の、疑いすぎる
-4 すべてを含んだ、だれでも受け入れる
+1 courteous：礼儀正しい
+2 redundant：余分な、不要な
+3 paranoid：被害妄想の、疑いすぎる
+4 inclusive：すべてを含んだ、だれでも受け入れる
 【考え方】
 Aは、上司にみんなの前で批判されたことから、Maybe he's planning to fire me.（もしかしたら自分をクビにするつもりなのかもしれない）と心配しています。fire はここでは「クビにする、解雇する」という意味です。
 Bは Don't be so ( ).（そんなに〇〇にならないで）と言い、その理由として He does that to everyone.（彼はだれにでもそうする）と続けます。つまり、批判されたのはAだけが特別に嫌われているからではない、とBは言っているのです。

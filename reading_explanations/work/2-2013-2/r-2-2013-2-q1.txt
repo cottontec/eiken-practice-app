@@ -7,10 +7,10 @@ reviewed: yes
 【和訳】
 カーニー山に登るのは、ふつうの状況ならかなり簡単です。しかし先週末は天気がひどかったので、ロイと友人たちは頂上にたどり着けませんでした。
 （選択肢の意味）
-1 状況、事情
-2 お買い得品、安売り品
-3 呼び物、人を引きつけるもの
-4 方針、政策
+1 circumstances：状況、事情
+2 bargains：お買い得品、安売り品
+3 attractions：呼び物、人を引きつけるもの
+4 policies：方針、政策
 【考え方】
 まず文の前半 Climbing Mt. Carney is fairly easy under normal (　) を見ます。「カーニー山に登るのは、ふつうの（　）のもとではかなり簡単だ」という意味です。
 次に but のあとを見ます。last weekend the weather was terrible（先週末は天気がひどかった）とあり、そのために頂上に着けなかったと書かれています。

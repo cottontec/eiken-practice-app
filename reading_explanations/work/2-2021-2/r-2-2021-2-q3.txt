@@ -5,13 +5,17 @@ reviewed: yes
 ---
 【正解】1 submit（提出する）
 【和訳】
+（英文）
+A: I'm going to be away next week, so please ［submit］ your assignment to Ms. Edwards.
+B: OK, Professor Clifton. I'll give it to her as soon as I'm done.
+（訳）
 A：私は来週いないので、課題はエドワーズさんに（提出して）ください。
 B：分かりました、クリフトン教授。終わったらすぐに彼女に渡します。
 （選択肢の意味）
-1 提出する
-2 打つ、負かす
-3 変える、変換する
-4 それとなく示す、ほのめかす
+1 submit：提出する
+2 beat：打つ、負かす
+3 convert：変える、変換する
+4 imply：それとなく示す、ほのめかす
 【考え方】
 Aは please (　) your assignment to Ms. Edwards（課題をエドワーズさんに（　）してください）と頼んでいます。assignment は「課題、宿題」です。BがAを Professor Clifton（クリフトン教授）と呼んでいるので、大学の教授と学生の会話だと分かります。
 Bの答え I'll give it to her as soon as I'm done.（終わったらすぐに、それを彼女に渡します）に注目します。it は your assignment（課題）、her は Ms. Edwards を指します。つまり、課題をエドワーズさんに渡すことが話題になっています。as soon as ～ は「～するとすぐに」です。

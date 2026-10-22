@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：空気泡システムはどのように働きますか。
-1 それは、船の底の穴を水が流れ抜けるのを助ける。
-2 それは、燃料を海水と混ぜることで燃料を節約する。
-3 それは、ポンプを使って船の燃料から空気を取り除く。
-4 それは、船の底に空気の層を作る。
+1 It helps water to flow through holes in the ship's bottom.（それは、船の底の穴を水が流れ抜けるのを助ける。）
+2 It saves fuel by mixing it with water from the sea.（それは、燃料を海水と混ぜることで燃料を節約する。）
+3 It uses a pump to remove air from the ship's fuel.（それは、ポンプを使って船の燃料から空気を取り除く。）
+4 It creates a layer of air on the bottom of the ship.（それは、船の底に空気の層を作る。）
 【考え方】
 設問の air-bubble system（空気泡システム）のしくみは、第2段落で説明されています。
 In this new system, the bottom of the ship has small holes in it, and a pump pushes air through the holes.（この新しいシステムでは、船の底に小さな穴があり、ポンプがその穴から空気を押し出す）とあります。

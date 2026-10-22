@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：クエイク・キャッチャー・ネットワークに多くのコンピューターがつながっていることが、なぜ大切なのですか。
-1 動きが本当に地震によって起きたものかどうかを見分けやすくなるから。
-2 ネットワークのコンピューターのすべてが、急な動きを記録できるわけではないから。
-3 コンピューターへの被害を防ぐためのソフトウェアを、ネットワークを通して送ることができるから。
-4 種類の違う加速度計は、種類の違う地震に反応するから。
+1 It makes it easier to tell whether movements are actually caused by earthquakes.（動きが本当に地震によって起きたものかどうかを見分けやすくなるから。）
+2 Not all of the computers in the network are able to record sudden movements.（ネットワークのコンピューターのすべてが、急な動きを記録できるわけではないから。）
+3 Software can be sent over the network to prevent damage to the computers.（コンピューターへの被害を防ぐためのソフトウェアを、ネットワークを通して送ることができるから。）
+4 Different types of accelerometers react to different types of earthquakes.（種類の違う加速度計は、種類の違う地震に反応するから。）
 【考え方】
 設問は「多くのコンピューターがつながっていることがなぜ大切か」をたずねています。第3段落の初めに The key to the project, according to Lawrence, is to have as many computers as possible report a motion at the same time.（ローレンスによると、この計画のかぎは、できるだけ多くのコンピューターに同時に動きを報告させることだ）とあります。key は「かぎ、いちばん大切な点」です。
 その理由が次の2つの文に書かれています。

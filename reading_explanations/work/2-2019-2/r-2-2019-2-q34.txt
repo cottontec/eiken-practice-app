@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：心臓に問題がある患者にとっての困りごとの1つは何ですか。
-1 必要な機器の費用が、患者にとって高すぎる。
-2 体を観察するために使われる機器が、患者にとって不便である。
-3 長い期間待たなければ、治療を受けることができない。
-4 医師が必要とする情報をすべて記録する時間が、患者にない。
+1 The cost of the devices that they need is too high for them.（必要な機器の費用が、患者にとって高すぎる。）
+2 The devices used to monitor their bodies are inconvenient for them.（体を観察するために使われる機器が、患者にとって不便である。）
+3 They cannot receive treatment without waiting for a long period of time.（長い期間待たなければ、治療を受けることができない。）
+4 They do not have time to record all the information their doctor needs.（医師が必要とする情報をすべて記録する時間が、患者にない。）
 【考え方】
 設問の patients with heart problems（心臓に問題をかかえる患者）は、第1段落に When a patient has heart problems, for example, it is important to record the speed of the heartbeat.（たとえば、患者が心臓に問題をかかえている場合、心臓の拍動の速さを記録することが大切だ）と出てきます。そのあと、記録に使う機器について次のように書かれています。
 ・Traditionally, doctors have attached electronic devices to patients' bodies and used these to record information.（これまで医師は、患者の体に電子機器を取り付け、それを使って情報を記録してきた）

@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：サラ・フラーがWB 500ソフトについて述べていることの1つは何か。
-1 それは、マターソン・インターナショナル社の競争相手の1社によって作られた。
-2 マターソン・インターナショナル社の多くの社員がすでにそれを持っている。
-3 その講座は、コンピューターを使うのが初めての人に合ったものであるべきだ。
-4 営業部長は、自分の部の人たちがそれを上手に使えるようになることを望んでいる。
+1 It was created by one of Matterson International's rivals.（それは、マターソン・インターナショナル社の競争相手の1社によって作られた。）
+2 Many employees at Matterson International already have it.（マターソン・インターナショナル社の多くの社員がすでにそれを持っている。）
+3 The course on it should be suitable for people who are beginners at using computers.（その講座は、コンピューターを使うのが初めての人に合ったものであるべきだ。）
+4 The sales manager wants members of his department to be able to use it well.（営業部長は、自分の部の人たちがそれを上手に使えるようになることを望んでいる。）
 【考え方】
 WB 500 は、メールの第2段落に出てきます。I would also like you to organize a course on the WB 500 presentation software.（また、発表用ソフト「WB 500」の講座も開いていただきたい）とあります。presentation は「発表」です。
 そのあとに、この講座を頼む理由が書かれています。The sales manager here at Matterson recently attended a conference and was impressed by how this software was being used by some of our rivals.（当社の営業部長が最近ある会議に出席し、競合する会社のいくつかでこのソフトがどのように使われているかに感心した）。続いて He now wants everyone in his department to be trained to use it at an advanced level.（今、彼は自分の部の全員に、このソフトを上級のレベルで使えるよう研修を受けさせたいと考えている）とあります。advanced level は「上級のレベル、進んだ段階」です。

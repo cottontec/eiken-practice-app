@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：VSOについて分かることの1つは何ですか。
-1 ほかのボランティア団体と一緒になることで大きくなった。
-2 ボランティアに、より多くの専門的な経験を与えるためにつくられた。
-3 ボランティアがほかの国へ行くための交通費を支払っている。
-4 イギリスで最も古いボランティア団体である。
+1 It grew larger by combining with other volunteer organizations.（ほかのボランティア団体と一緒になることで大きくなった。）
+2 It was created to give volunteers more professional experience.（ボランティアに、より多くの専門的な経験を与えるためにつくられた。）
+3 It pays the transportation costs for volunteers to go to other countries.（ボランティアがほかの国へ行くための交通費を支払っている。）
+4 It is the oldest volunteer organization in the United Kingdom.（イギリスで最も古いボランティア団体である。）
 【考え方】
 VSOについての基本的な説明は、第1段落にまとまっています。
 第1段落の4文目に Although these volunteers are not paid, VSO covers all their expenses, including travel.（こうしたボランティアは給料を受け取らないが、VSOは旅費を含めて彼らの費用をすべて負担している）とあります。cover は、ここでは「（費用を）まかなう、負担する」という意味です。expenses は「費用」、including travel は「旅費を含めて」です。

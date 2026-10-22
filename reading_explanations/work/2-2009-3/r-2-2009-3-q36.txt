@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：ダンカン・ハートは、ターナーさんに次のEメールで何を知らせるよう頼んでいますか。
-1 彼のほかのお客さんのだれかに会ったことがあるかどうか。
-2 彼が送ったウェブサイトの一覧を受け取ったかどうか。
-3 ウェブサイトにどんな色を使いたいか。
-4 新しいウェブサイトについて話し合うために、いつ彼と会えるか。
+1 Whether she has met any of his other clients.（彼のほかのお客さんのだれかに会ったことがあるかどうか。）
+2 If she received the list of websites he sent her.（彼が送ったウェブサイトの一覧を受け取ったかどうか。）
+3 What colors she would like to use in the website.（ウェブサイトにどんな色を使いたいか。）
+4 When she can meet him to discuss the new website.（新しいウェブサイトについて話し合うために、いつ彼と会えるか。）
 【考え方】
 設問の in her next e-mail（彼女の次のEメールで）に注目し、ハートがターナーさんに「メールで知らせてほしい」と頼んでいる部分を探します。
 メールの第3段落に I would like to arrange a meeting with you sometime this month.（今月中のどこかで、あなたとお会いする予定を組みたい）とあり、続けて Could you e-mail me to let me know what date would be convenient for you?（どの日がご都合がよいか、Eメールで知らせていただけますか）と書かれています。convenient は「都合がよい」という意味です。さらに At the meeting, we can talk about the design of the website（打ち合わせでは、ウェブサイトのデザインについて話し合える）とあるので、会う目的がウェブサイトについて話し合うことだと分かります。

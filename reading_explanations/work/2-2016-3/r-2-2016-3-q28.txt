@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：ピーター・ウィルカーソンは、保健局は……と言っています。
-1 クレイトン市のオフィスビルの中にある。
-2 新生児（生まれたばかりの赤ちゃん）の健康診断を行っていない。
-3 小さな子どもを専門とするお医者さんがいる。
-4 特定の月にだけ、赤ちゃんの健診を行っている。
+1 is located in an office building in Clayton City.（クレイトン市のオフィスビルの中にある。）
+2 does not offer health checks for newborn babies.（新生児（生まれたばかりの赤ちゃん）の健康診断を行っていない。）
+3 has a doctor who specializes in small children.（小さな子どもを専門とするお医者さんがいる。）
+4 only does checkups for babies during certain months.（特定の月にだけ、赤ちゃんの健診を行っている。）
 【考え方】
 設問は「保健局」について、ピーターが何と言っているかをたずねています。第2段落の始めを見ます。
 To answer your first question, no, we do not perform health checks for newborns at the health department.（最初のご質問にお答えしますと、いいえ、保健局では新生児の健康診断は行っていません）

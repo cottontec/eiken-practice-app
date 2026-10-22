@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】1 abruptly（突然、いきなり）
 【和訳】
+（英文）
+During yesterday's meeting, everyone was shocked when Jeff stood up ［abruptly］ and walked out without saying a word. Later, they found out that he had been feeling sick.
+（訳）
 昨日の会議の最中に、ジェフが突然立ち上がって、一言も言わずに出て行ったとき、みんなはショックを受けました。あとになって、みんなは、彼がずっと気分が悪かったことを知りました。
 （選択肢の意味）
-1 突然、いきなり
-2 繊細に、そっと
-3 ふさわしく、適切に
-4 事実に基づいて
+1 abruptly：突然、いきなり
+2 delicately：繊細に、そっと
+3 suitably：ふさわしく、適切に
+4 factually：事実に基づいて
 【考え方】
 空所は stood up（立ち上がった）のようすを説明する語です。
 手がかりは、everyone was shocked（みんながショックを受けた）と、walked out without saying a word（一言も言わずに出て行った）です。会議の途中で、何も言わずに急に出て行けば、周りの人は驚きます。

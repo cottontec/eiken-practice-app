@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】1 out of date（時代遅れの、古くさい）
 【和訳】
+（英文）
+Most teenagers want to wear new clothes that are in fashion. They do not want to wear clothes that are ［out of date］.
+（訳）
 たいていの10代の若者は、流行している新しい服を着たがります。彼らは（時代遅れの）服は着たがりません。
 （選択肢の意味）
-1 時代遅れの、古くさい
-2 工事中の
-3 その場で、即座に
-4 （花が）咲いて
+1 out of date：時代遅れの、古くさい
+2 under construction：工事中の
+3 on the spot：その場で、即座に
+4 in bloom：（花が）咲いて
 【考え方】
 前の文の new clothes that are in fashion（流行している新しい服）に注目します。in fashion は「流行して」という意味です。
 あとの文は They do not want to wear clothes that are (　).（彼らは（　）服は着たがらない）と否定の形です。前の文で「着たい服」、あとの文で「着たくない服」を述べているので、空所には in fashion と反対の意味が入ると考えます。

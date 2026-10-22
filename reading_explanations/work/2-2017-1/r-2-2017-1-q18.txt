@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】2 Had（Had they allowed ～ で「もし彼らが～を許していたら」）
 【和訳】
+（英文）
+Hiroshi wanted to study at a high school abroad, but his parents would not let him. ［Had］ they allowed him to, he would have gone to Germany.
+（訳）
 ヒロシは外国の高校で勉強したかったのですが、両親がどうしても許してくれませんでした。（もし）両親が許し（ていたら）、彼はドイツに行っていたでしょう。
 （選択肢の意味）
-1 ～だろう（未来を表す助動詞）
+1 Will：～だろう（未来を表す助動詞）
 2 （had＋過去分詞の had。文の先頭に出ると「もし～していたら」）
-3 ～かもしれない
-4 （be動詞の過去形。文の先頭に出ると「もし～なら」）
+3 Might：～かもしれない
+4 Were：（be動詞の過去形。文の先頭に出ると「もし～なら」）
 【考え方】
 最初の文に his parents would not let him（両親は彼にそうさせようとしなかった）とあります。would not は、ここでは「どうしても～しようとしなかった」という意味です。つまり、実際にはヒロシは外国の高校には行けませんでした。
 空所の文の後半は he would have gone to Germany（彼はドイツに行っていただろう）です。would have ＋過去分詞（動詞の変化した形の1つ。gone は go の過去分詞）は、「（実際にはしなかったが）～していただろう」と、過去の事実と反対のことを想像する形です。

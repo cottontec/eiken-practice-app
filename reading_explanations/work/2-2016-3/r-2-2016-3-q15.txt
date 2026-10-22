@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】4 ended up（結局～に行き着いた）
 【和訳】
+（英文）
+Roland wanted to go to Russell Street Station, but he got on the wrong bus. He ［ended up］ at Wilson Park Station, on the other side of town.
+（訳）
 ローランドはラッセル・ストリート駅へ行きたかったのですが、まちがったバスに乗ってしまいました。彼は結局、町の反対側にあるウィルソン・パーク駅に（行き着いてしまい）ました。
 （選択肢の意味）
-1 （do away with ～ で）～を廃止した
-2 逃げた
-3 気を失った、（物を）配った
-4 結局（～に）行き着いた、最後には～になった
+1 did away：（do away with ～ で）～を廃止した
+2 ran away：逃げた
+3 passed out：気を失った、（物を）配った
+4 ended up：結局（～に）行き着いた、最後には～になった
 【考え方】
 空所の前の文の he got on the wrong bus（彼はまちがったバスに乗った）に注目します。行きたかったのはラッセル・ストリート駅ですが、まちがったバスに乗ったので、思っていなかった場所に着いてしまったという流れです。
 空所のあとには at Wilson Park Station, on the other side of town（町の反対側にあるウィルソン・パーク駅に）と、着いた場所が書かれています。

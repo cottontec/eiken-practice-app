@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】1 evidence（証拠）
 【和訳】
+（英文）
+The police had ［evidence］ that showed the man had robbed the bank. His face could be seen on a video taken by the bank's security cameras.
+（訳）
 警察には、その男が銀行強盗をしたことを示す（証拠）がありました。銀行の防犯カメラで撮影された映像で、彼の顔を見ることができたのです。
 （選択肢の意味）
-1 証拠
-2 調和、ハーモニー
-3 リズム
-4 称賛、ほめ言葉
+1 evidence：証拠
+2 harmony：調和、ハーモニー
+3 rhythm：リズム
+4 praise：称賛、ほめ言葉
 【考え方】
 空所のあとの that showed the man had robbed the bank に注目します。that は前の名詞（空所の語）に説明を付け足す働きをしていて、「その男が銀行強盗をしたことを示す（　）」という意味になります。rob は「（銀行・人など）から奪う、強盗をする」です。
 あとの文には His face could be seen on a video taken by the bank's security cameras.（銀行の防犯カメラで撮影された映像で、彼の顔を見ることができた）とあります。防犯カメラの映像に顔が映っていたことは、その男が強盗をしたことを示すものになります。

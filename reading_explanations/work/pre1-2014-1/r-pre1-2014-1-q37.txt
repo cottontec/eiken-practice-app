@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：ボリビアが国際司法裁判所で勝訴するのを難しくするかもしれないことの一つは何か。
-1 ボリビアの大統領は、自国民の希望に反して、訴えを進めることを決めた。
-2 問題になっている地域の住民がボリビア人なのかチリ人なのかが、正式には決められていない。
-3 ボリビアに有利な判決が出ると、ほかの国々が同じような主張をするよううながしかねない。
-4 アタカマ砂漠の人々は、独立を求める運動で幅広い支持を得ている。
+1 The president of Bolivia has decided to pursue the case against the wishes of his country's citizens.（ボリビアの大統領は、自国民の希望に反して、訴えを進めることを決めた。）
+2 It has not been officially determined whether the inhabitants of the area in question are Bolivian or Chilean.（問題になっている地域の住民がボリビア人なのかチリ人なのかが、正式には決められていない。）
+3 A decision in favor of Bolivia could encourage other countries to make similar claims.（ボリビアに有利な判決が出ると、ほかの国々が同じような主張をするよううながしかねない。）
+4 The people of the Atacama Desert have broad support in their campaign for independence.（アタカマ砂漠の人々は、独立を求める運動で幅広い支持を得ている。）
 【考え方】
 国際司法裁判所（国どうしの争いを裁く国際的な裁判所）の話が出てくるのは第4段落です。モラレス大統領がこの問題を裁判所に持ちこむと約束したものの、the international community is unlikely to side against Chile（国際社会がチリに反対する側につくことはなさそうだ）と書かれています。side against ～ は「～に反対する側につく」という意味です。そのあとに、ボリビアにとって不利になりそうな事情が2つ書かれています。
 1つ目は、At the local level, the Atacama region's inhabitants say they are Chilean.（地元のレベルでは、アタカマ地方の住民は自分たちはチリ人だと言っている）です。

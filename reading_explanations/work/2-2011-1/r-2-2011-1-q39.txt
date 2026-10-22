@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：ビルゲ・ムトゥルは、ある病院の人々が（　）ことに気づいた。
-1 TUGのふるまい方は失礼だと感じていた
-2 TUGが自分たちに近づきすぎるのをいやがっていた
-3 TUGの伝言を聞くのを拒んでいた
-4 TUGは働きすぎだと思っていた
+1 felt that the way TUG acted was impolite.（TUGのふるまい方は失礼だと感じていた）
+2 disliked it when TUG came too close to them.（TUGが自分たちに近づきすぎるのをいやがっていた）
+3 refused to listen to TUG's messages.（TUGの伝言を聞くのを拒んでいた）
+4 thought that TUG worked too hard.（TUGは働きすぎだと思っていた）
 【考え方】
 ムトゥルの研究は第3段落に書かれています。Bilge Mutlu ... studied the reactions of workers to TUG in one hospital.（ムトゥルは、ある病院で働く人たちのTUGに対する反応を調べた）とあり、続いて He found that many people disliked the robot's lack of manners.（彼は、多くの人がこのロボットの礼儀のなさをいやがっていることに気づいた）とあります。lack は「足りないこと、ないこと」、manners は「礼儀、行儀」です。
 そのあとに例があります。人間は電話中の人に伝言を届けるとき、電話が終わるまで待ちますが、TUG simply interrupts the call and loudly announces, "TUG has arrived."（TUGはおかまいなしに電話をさえぎり、「TUGが到着しました」と大きな声で知らせる）。interrupt は「（話などを）さえぎる、じゃまする」です。

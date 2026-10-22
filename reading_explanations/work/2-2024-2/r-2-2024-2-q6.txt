@@ -4,12 +4,15 @@ answerText: polluted
 ---
 【正解】3 polluted（汚染した、汚した）
 【和訳】
+（英文）
+Many years ago, smoke from the factories in Silver City ［polluted］ the air. Now that the factories are gone, the air is much cleaner.
+（訳）
 何年も前、シルバーシティの工場から出る煙が空気を（汚染していました）。工場がなくなった今では、空気は（当時より）ずっときれいです。
 （選択肢の意味）
-1 逮捕した
-2 （病気を）治した
-3 汚染した、汚した
-4 設立した
+1 arrested：逮捕した
+2 cured：（病気を）治した
+3 polluted：汚染した、汚した
+4 established：設立した
 【考え方】
 2文目の Now that the factories are gone, the air is much cleaner.（工場がなくなった今では、空気はずっときれいだ）に注目します。Now that ～ は「今や～なので、～した今では」という意味です。much cleaner は「ずっときれい」という比較の言い方で、工場があった昔と比べています。
 工場がなくなったら空気がきれいになったのですから、工場があった昔は、工場の煙が空気を汚していたと考えられます。

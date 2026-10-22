@@ -4,12 +4,15 @@ answerText: amounted to
 ---
 【正解】1 amounted to（（合計が）～に達した）
 【和訳】
+（英文）
+The big storm caused a lot of damage to many of the homes in the city. The cost to repair all the damage ［amounted to］ over $70 million.
+（訳）
 その大きな嵐は、市内の多くの家に大きな被害をもたらしました。すべての被害を修理する費用は、7,000万ドルを超える額（に達しました）。
 （選択肢の意味）
-1 （合計が）～に達した
-2 ～をねらった、～を目指した
-3 落ち着いた、静まった
-4 ～に確認した、～に問い合わせた
+1 amounted to：（合計が）～に達した
+2 aimed at：～をねらった、～を目指した
+3 calmed down：落ち着いた、静まった
+4 checked with：～に確認した、～に問い合わせた
 【考え方】
 空所の前の主語は The cost to repair all the damage（すべての被害を修理する費用）で、空所のあとは over $70 million（7,000万ドルを超える額）です。
 「費用が、7,000万ドルを超える額に（　）」という形なので、費用の合計がいくらになったかを表す言葉が入ると考えます。

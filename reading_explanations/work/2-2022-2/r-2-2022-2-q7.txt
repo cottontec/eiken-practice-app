@@ -4,12 +4,15 @@ answerText: heal
 ---
 【正解】3 heal（〔けがなどが〕治る）
 【和訳】
+（英文）
+After Kai broke his arm, it took about three months to ［heal］ completely. Now he can play tennis again without any problems.
+（訳）
 カイが腕を骨折したあと、完全に（治る）までに約3か月かかりました。今では、彼は何の問題もなく再びテニスができます。
 （選択肢の意味）
-1 （約束・夢などを）果たす、かなえる
-2 ずるをする、だます
-3 （けがなどが）治る
-4 引退する
+1 fulfill：（約束・夢などを）果たす、かなえる
+2 cheat：ずるをする、だます
+3 heal：（けがなどが）治る
+4 retire：引退する
 【考え方】
 最初に After Kai broke his arm（カイが腕を骨折したあと）とあります。そのあと it took about three months to (　) completely（完全に〔　〕するのに約3か月かかった）と続きます。it takes ＋期間＋ to ～ は「～するのに（期間）がかかる」という意味です。
 後ろの文には Now he can play tennis again without any problems.（今では、何の問題もなく再びテニスができる）とあります。

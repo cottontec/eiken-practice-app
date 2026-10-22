@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：ENIACは、
-1 女性たちが新しいコンピューターの開発方法を学ぶことができる、特別な講座（プログラム）だった。
-2 人間が終えるのに長い時間がかかる計算を、すばやく行うことができる装置だった。
-3 アメリカ陸軍が、自軍のコンピューターの安全を高めるために開いた催しだった。
-4 コンピューターが計算の速さを上げるために使う、ある種類の装置だった。
+1 a special program where women could learn how to develop new computers.（女性たちが新しいコンピューターの開発方法を学ぶことができる、特別な講座（プログラム）だった。）
+2 a device that could quickly do calculations that took humans a long time to complete.（人間が終えるのに長い時間がかかる計算を、すばやく行うことができる装置だった。）
+3 an event held by the U.S. Army to increase the security of their computers.（アメリカ陸軍が、自軍のコンピューターの安全を高めるために開いた催しだった。）
+4 a type of device that was used by computers to increase the speed of their calculations.（コンピューターが計算の速さを上げるために使う、ある種類の装置だった。）
 【考え方】
 ENIAC は第3段落に出てきます。
 To reduce the time it took to complete these calculations, the army developed a special computer in 1943. It was called ENIAC（これらの計算を終えるのにかかる時間を減らすため、陸軍は1943年に特別なコンピューターを開発した。それはENIACと呼ばれた）

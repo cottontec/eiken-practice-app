@@ -4,12 +4,15 @@ answerText: permit
 ---
 【正解】4 permit（許可する）
 【和訳】
+（英文）
+The law in this country does not ［permit］ drivers to cross railway tracks without stopping first. Anyone who breaks this rule will get a fine.
+（訳）
 この国の法律は、運転する人が先に止まらずに線路を渡ることを（許可して）いません。この規則を破った人はだれでも、罰金を科されます。
 （選択肢の意味）
-1 ～に値する
-2 発表する
-3 操作する、運営する
-4 許可する
+1 deserve：～に値する
+2 announce：発表する
+3 operate：操作する、運営する
+4 permit：許可する
 【考え方】
 空所のあとの drivers to cross railway tracks without stopping first に注目します。「運転する人が、先に止まらずに線路を渡ること」という意味です。空所の動詞は、動詞＋人＋ to ～ の形で使われていることになります。
 2文目には Anyone who breaks this rule will get a fine.（この規則を破った人はだれでも罰金を科される）とあります。fine は「罰金」という意味です。止まらずに線路を渡ることは、規則違反だと分かります。つまり、法律はそれを「させない」ということです。

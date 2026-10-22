@@ -4,13 +4,17 @@ answerText: up until now
 ---
 【正解】1 up until now（今までは）
 【和訳】
+（英文）
+A: Sorry I'm late for class again, Ms. Simmons. My alarm clock didn't go off.
+B: I've been patient with you ［up until now］, Jamie, but this is the last time. Next time, I'm going to call your parents.
+（訳）
 A：また授業に遅れてすみません、シモンズさん。目覚まし時計が鳴らなかったんです。
 B：ジェイミー、（今までは）あなたのことをがまんしてきましたが、これが最後ですよ。次は、あなたのご両親に電話します。
 （選択肢の意味）
-1 今までは
-2 未定で、宙に浮いて
-3 いちばん下で、底で
-4 同時に
+1 up until now：今までは
+2 up in the air：未定で、宙に浮いて
+3 at the bottom：いちばん下で、底で
+4 at the same time：同時に
 【考え方】
 Aの Sorry I'm late for class again（また授業に遅れてすみません）の again（また）から、ジェイミーは何度も遅刻していることが分かります。Bのシモンズさんは、授業の遅刻をとがめていることから、このクラスの先生だと考えられます。
 Bの文は I've been patient with you ( ), Jamie, but this is the last time.（ジェイミー、（　）あなたに対してがまんしてきたが、これが最後だ）です。I've been patient は現在完了（have ＋過去分詞で、過去から今まで続いていることを表す形）で、「今までずっとがまんしてきた」という意味です。

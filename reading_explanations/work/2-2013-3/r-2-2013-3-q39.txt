@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：VGoがもともと開発された理由は何ですか。
-1 専門家が遠くの場所を訪れるのを助けるため。
-2 患者が病院の中でもっと楽に動き回れるようにするため。
-3 工場の働き手を、もっと速く働くロボットに置きかえるため。
-4 販売員が、大きすぎて持ち運べない製品を人々に見せられるようにするため。
+1 To help professionals visit places that are far away.（専門家が遠くの場所を訪れるのを助けるため。）
+2 To allow patients to move around more easily in hospitals.（患者が病院の中でもっと楽に動き回れるようにするため。）
+3 To replace factory workers with robots that work faster.（工場の働き手を、もっと速く働くロボットに置きかえるため。）
+4 To let salesmen show people products that are too large to carry.（販売員が、大きすぎて持ち運べない製品を人々に見せられるようにするため。）
 【考え方】
 設問の original reason（もともとの理由）に注目します。第3段落の初めに The VGo was originally developed for use by professionals in business and medicine.（VGoは、もともとはビジネスや医療の分野の専門家が使うために開発された）とあります。originally は「もともと」という意味です。
 続いて、専門家たちがどう使っているかの例が2つ書かれています。

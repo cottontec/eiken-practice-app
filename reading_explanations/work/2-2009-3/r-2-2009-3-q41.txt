@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：毎年森林が減っている理由の1つは何ですか。
-1 大気中の二酸化炭素が木をからしている。
-2 多くの森林の木が動物に傷つけられている。
-3 木が必要とする土が洪水で流されている。
-4 人々が森林の土地を農地に変えている。
+1 Carbon dioxide in the atmosphere is killing trees.（大気中の二酸化炭素が木をからしている。）
+2 Trees in many forests are being damaged by animals.（多くの森林の木が動物に傷つけられている。）
+3 The soil trees need is being washed away by floods.（木が必要とする土が洪水で流されている。）
+4 People are turning forest land into farms.（人々が森林の土地を農地に変えている。）
 【考え方】
 設問の there are fewer forests every year（毎年森林が減っている）と同じ内容を本文で探します。第1段落の最後の文に more and more forests are being cut down each year, either for wood or to provide land for farming（木材を得るためや、農業のための土地を作るために、毎年ますます多くの森林が切りたおされている）とあります。either A or B は「AかBか（のどちらか）」という意味で、ここでは森林が切られる理由が2つ挙げられています。
 2つ目の理由 to provide land for farming（農業のための土地を作るために）が、選択肢4と同じ内容です。本文と選択肢は次のように対応しています。

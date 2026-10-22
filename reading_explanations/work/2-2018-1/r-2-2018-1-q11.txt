@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】3 at one time（一度に、同時に）
 【和訳】
+（英文）
+There are enough computers in the IT room for 30 students to work there ［at one time］. When there are more students than that, some have to wait.
+（訳）
 IT室には、30人の生徒が（一度に）そこで作業できるだけのコンピューターがあります。それより多くの生徒がいるときは、何人かは待たなければなりません。
 （選択肢の意味）
-1 端を越えて、限度を越えて
-2 はるばる、ずっと
-3 一度に、同時に
-4 空中に、（うわさなどが）広まって
+1 over the edge：端を越えて、限度を越えて
+2 all the way：はるばる、ずっと
+3 at one time：一度に、同時に
+4 in the air：空中に、（うわさなどが）広まって
 【考え方】
 1文目は There are enough computers in the IT room for 30 students to work there (　).（IT室には、30人の生徒が（　）そこで作業するのに十分なコンピューターがある）です。enough ～ for 人 to … は「人が…するのに十分な～」という意味です。
 2文目の When there are more students than that, some have to wait.（それより多くの生徒がいるときは、何人かは待たなければならない）に注目します。that は「30人」を指します。30人を超えると待つ人が出るのは、同時に使えるコンピューターが30人分しかないからです。

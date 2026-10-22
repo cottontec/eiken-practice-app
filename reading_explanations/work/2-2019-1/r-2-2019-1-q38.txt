@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：次の記述のうち、正しいものはどれですか。
-1 UIDAIは、人々が政府のサービスを利用するために、自分がだれであるかを示す手助けをしている。
-2 インドには、ほかの発展途上国よりも貧しい人々が少ない。
-3 インドの人口の約93パーセントが、自分の生年月日を知らない。
-4 政府は、UIDAIが期待していたほどうまくいかないのではないかと心配している。
+1 The UIDAI helps people show who they are in order to access government services.（UIDAIは、人々が政府のサービスを利用するために、自分がだれであるかを示す手助けをしている。）
+2 There are fewer poor people in India than in other developing countries.（インドには、ほかの発展途上国よりも貧しい人々が少ない。）
+3 Around 93 percent of the Indian population does not know their date of birth.（インドの人口の約93パーセントが、自分の生年月日を知らない。）
+4 The government is worried that the UIDAI will not be as successful as it expected.（政府は、UIDAIが期待していたほどうまくいかないのではないかと心配している。）
 【考え方】
 この設問は本文全体から正しいものを選ぶ問題なので、選択肢を1つずつ本文と照らし合わせます。1の内容は、第3段落の最後の文に書かれています。
 The system also allows people to prove who they are, so they are able to obtain education, drivers' licenses, and other government services.（この仕組みによって、人々は自分がだれであるかを証明することもできるので、教育や運転免許証、そのほかの政府のサービスを受けることができる）

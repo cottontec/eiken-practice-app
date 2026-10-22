@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】4 continent（大陸）
 【和訳】
+（英文）
+George loves traveling in South America. He has been all over the ［continent］, but his favorite places are Rio de Janeiro and the Andes Mountains.
+（訳）
 ジョージは南アメリカを旅行するのが大好きです。彼はその（大陸）じゅうに行ったことがありますが、いちばん好きな場所はリオデジャネイロとアンデス山脈です。
 （選択肢の意味）
-1 産業
-2 影響
-3 収容力、能力
-4 大陸
+1 industry：産業
+2 influence：影響
+3 capacity：収容力、能力
+4 continent：大陸
 【考え方】
 空所の前の文の traveling in South America（南アメリカを旅行すること）に注目します。南アメリカは、大きな陸地の1つである「大陸」です。
 空所を含む He has been all over the (　) は、「彼は（　）じゅうに行ったことがある」という意味です。all over ～ は「～のいたるところに」、has been は「行ったことがある」という経験を表します。

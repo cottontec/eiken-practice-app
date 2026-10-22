@@ -8,10 +8,10 @@ answerText: How they were able to get things to eat.
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：初期の人類が残した石でできた物から、何が分かりますか。
-1 彼らが洞窟に住んでいたかどうか。
-2 彼らがどのようにして食べる物を手に入れることができたか。
-3 彼らの集団がもともとどこから来たのか。
-4 彼らがどんな種類の動物を狩っていたか。
+1 Whether or not they lived in caves.（彼らが洞窟に住んでいたかどうか。）
+2 How they were able to get things to eat.（彼らがどのようにして食べる物を手に入れることができたか。）
+3 Where their groups originally came from.（彼らの集団がもともとどこから来たのか。）
+4 Which kinds of animals they used to hunt.（彼らがどんな種類の動物を狩っていたか。）
 【考え方】
 設問は「石でできた物（stone objects）から分かること」です。第1段落の始めに stone objects という、設問と同じ語句があります。
 Humans who lived before the development of farming left many stone objects behind. These objects are usually parts of tools or weapons, and they show us how these people obtained their food.（農業が発達する前に生きていた人類は、石でできた物を多く残した。これらの物はたいてい道具や武器の一部で、こうした人々がどのようにして食べ物を手に入れていたかを私たちに教えてくれる）

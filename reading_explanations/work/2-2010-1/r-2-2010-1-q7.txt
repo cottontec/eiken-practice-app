@@ -7,10 +7,10 @@ reviewed: yes
 【和訳】
 ジャックは明日のレスリングの大事な試合のことを心配しています。対戦相手が州でいちばんのレスラーだからです。
 （選択肢の意味）
-1 対戦相手
-2 仲間、連れ
-3 技術者
-4 開発者
+1 opponent：対戦相手
+2 companion：仲間、連れ
+3 technician：技術者
+4 developer：開発者
 【考え方】
 ジャックは big wrestling match tomorrow（明日の大事なレスリングの試合）のことで worried（心配している）です。その理由が because his (　) is the top wrestler in the state.（彼の～が州でいちばんのレスラーだから）と書かれています。state は、アメリカなどの「州」のことです。
 試合を心配する理由になるのは、戦う相手がとても強いことです。opponent は「（試合や競争の）相手」という意味なので、1が正解です。

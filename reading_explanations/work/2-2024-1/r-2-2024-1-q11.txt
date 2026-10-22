@@ -4,12 +4,15 @@ answerText: For instance
 ---
 【正解】3 For instance（たとえば）
 【和訳】
+（英文）
+Brian learned many things during his year abroad in Brazil. ［For instance］, he learned how to cook a dish called feijoada and how to dance samba.
+（訳）
 ブライアンは、ブラジルで過ごした1年間の外国生活の間に、多くのことを学びました。（たとえば）、フェイジョアーダという料理の作り方や、サンバの踊り方を学びました。
 （選択肢の意味）
-1 無作為に、でたらめに
-2 その代わりに、交換に
-3 たとえば
-4 わざと、故意に
+1 At random：無作為に、でたらめに
+2 In exchange：その代わりに、交換に
+3 For instance：たとえば
+4 On purpose：わざと、故意に
 【考え方】
 2つの文の関係を見ます。1文目は Brian learned many things（ブライアンは多くのことを学んだ）と、大まかに述べています。
 2文目は he learned how to cook a dish called feijoada and how to dance samba（フェイジョアーダという料理の作り方とサンバの踊り方を学んだ）です。これは、1文目の「多くのこと」の中身を具体的に挙げたものです。

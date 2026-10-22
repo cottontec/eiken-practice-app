@@ -7,10 +7,10 @@ reviewed: yes
 【和訳】
 花火を表す日本語は hanabi、つまり「花の火」です。
 （選択肢の意味）
-1 つまり、言いかえると（または）
-2 もし～なら
-3 ～によって
-4 ～で、～に
+1 or：つまり、言いかえると（または）
+2 if：もし～なら
+3 by：～によって
+4 at：～で、～に
 【考え方】
 文は The Japanese word for fireworks is hanabi, (　) "flower fire." です。「花火を表す日本語は hanabi、（　）『flower fire（花の火）』だ」という意味です。
 空所のあとの "flower fire" は、hanabi という言葉の意味を英語で言いかえたものです。花＝flower、火＝fire です。

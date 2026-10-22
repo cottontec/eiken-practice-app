@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：ジェナ・スミスは、再設定コードについて何と言っていますか。
-1 それは、ユーザー名が変更されたあとに送られる。
-2 それは、8文字以上の長さでなければならない。
-3 ウォルターズさんは、それを手に入れるために銀行に電話するべきだ。
-4 ウォルターズさんは、口座を直すためにそれが必要だ。
+1 It is sent after the username is changed.（それは、ユーザー名が変更されたあとに送られる。）
+2 It needs to be at least eight characters long.（それは、8文字以上の長さでなければならない。）
+3 Mr. Walters should call the bank to get one.（ウォルターズさんは、それを手に入れるために銀行に電話するべきだ。）
+4 Mr. Walters needs one to fix his account.（ウォルターズさんは、口座を直すためにそれが必要だ。）
 【考え方】
 reset code（再設定コード）は第2段落に出てきます。その前の第1段落から、流れを順に確かめます。
 ・第1段落：To fix this, you will have to reset your password.（これを直すには、パスワードを再設定していただく必要があります）　this は、口座がロックされていることを指します。

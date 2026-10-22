@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：深海での採掘は、将来おそらくどのような課題に直面するでしょうか。
-1 政府どうしが、深海の最もよい採掘場所をめぐって争うかもしれない。
-2 科学者たちは、そのために必要な技術を発明するために、懸命に取り組まなければならないだろう。
-3 噴出孔の周りに住む生き物を移動させるのに、多くのお金がかかるだろう。
-4 環境に害を与えるおそれがあるため、人々がそれを止めようとするかもしれない。
+1 Governments might fight each other for the best deep-sea mining areas.（政府どうしが、深海の最もよい採掘場所をめぐって争うかもしれない。）
+2 Scientists will have to work hard to invent the technology needed for it.（科学者たちは、そのために必要な技術を発明するために、懸命に取り組まなければならないだろう。）
+3 It will cost a lot of money to move the creatures living around the vents.（噴出孔の周りに住む生き物を移動させるのに、多くのお金がかかるだろう。）
+4 People might try to stop it because of possible damage to the environment.（環境に害を与えるおそれがあるため、人々がそれを止めようとするかもしれない。）
 【考え方】
 設問の in the future（将来）と probably（おそらく）に注目して、これから先のことが書かれている部分を探します。第4段落の後半に、次の文があります。
 However, mining around the vents would probably harm the creatures that live there.（しかし、噴出孔の周りで採掘すると、おそらくそこに住む生き物に害を与えるだろう）

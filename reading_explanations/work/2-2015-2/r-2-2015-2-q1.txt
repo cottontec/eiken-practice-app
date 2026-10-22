@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】3 enabled（～できるようにした、可能にした）
 【和訳】
+（英文）
+Although the players on Dean's basketball team were not as good as the players on the other teams, they had an excellent coach. Everyone says it was his great coaching that ［enabled］ the team to win the tournament.
+（訳）
 ディーンのバスケットボールチームの選手たちは、ほかのチームの選手たちほどうまくはありませんでしたが、彼らにはすばらしいコーチがいました。チームがトーナメントで優勝できたのは、そのコーチのすばらしい指導のおかげだったと、だれもが言っています。
 （選択肢の意味）
-1 責めた
-2 怒らせた、気分を害した
-3 ～できるようにした、可能にした
-4 認めた、見分けた
+1 blamed：責めた
+2 offended：怒らせた、気分を害した
+3 enabled：～できるようにした、可能にした
+4 recognized：認めた、見分けた
 【考え方】
 1文目の流れを確認します。Although ～ は「～だけれども」です。選手たちは not as good as the players on the other teams（ほかのチームの選手たちほどうまくはなかった）けれども、they had an excellent coach（すばらしいコーチがいた）と書かれています。選手の力は足りなかったが、コーチがよかった、という流れです。
 2文目の it was his great coaching that ～ は、「～したのは彼のすばらしい指導だった」と、his great coaching を強める形です。そのあとの (　) the team to win the tournament で、指導がチームに何をしたのかを考えます。

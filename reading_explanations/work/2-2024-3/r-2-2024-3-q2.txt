@@ -4,13 +4,17 @@ answerText: offend
 ---
 【正解】4 offend（気分を害する、いやな思いをさせる）
 【和訳】
+（英文）
+A: Jeff, I can't believe you said my painting was bad in class today.
+B: I'm sorry, Diana. I didn't mean to ［offend］ you. I shouldn't have said that.
+（訳）
 A：ジェフ、今日の授業中に、あなたが私の絵をよくないと言ったなんて信じられない。
 B：ごめん、ダイアナ。あなたに（いやな思いをさせる）つもりはなかったんだ。あんなことを言うべきではなかったよ。
 （選択肢の意味）
-1 取りかえる
-2 なぐさめる
-3 （形や性質を）すっかり変える
-4 気分を害する、いやな思いをさせる
+1 replace：取りかえる
+2 comfort：なぐさめる
+3 transform：（形や性質を）すっかり変える
+4 offend：気分を害する、いやな思いをさせる
 【考え方】
 Aのダイアナは、I can't believe you said my painting was bad（あなたが私の絵をよくないと言ったなんて信じられない）と言っています。ジェフの言葉に傷ついている様子です。
 Bのジェフは I'm sorry（ごめん）とあやまり、I shouldn't have said that.（あんなことを言うべきではなかった）と続けています。shouldn't have ＋過去分詞は「～すべきではなかった（のに、してしまった）」という意味です。

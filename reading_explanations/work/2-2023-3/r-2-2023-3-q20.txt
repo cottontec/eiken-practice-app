@@ -4,13 +4,17 @@ answerText: Should
 ---
 【正解】2 Should（万一～したら、もし～したら）
 【和訳】
+（英文）
+A: Kelsey, I'm going out to lunch now. ［Should］ Mr. Anderson stop by the office while I'm away, please tell him that I'll be back by 1 p.m.
+B: Yes, Mrs. Allen.
+（訳）
 A：ケルシー、今から昼食に出かけます。（もし）私がいない間にアンダーソンさんが事務所に立ち寄ったら、午後1時までには戻ると伝えてください。
 B：はい、アレンさん。
 （選択肢の意味）
 1 （Shall I ～? などで）～しましょうか
-2 （文の初めに置いて）もし～したら、万一～したら
-3 ～できた、～していただけますか
-4 ～できる、～してもいいですか
+2 Should：（文の初めに置いて）もし～したら、万一～したら
+3 Could：～できた、～していただけますか
+4 Can：～できる、～してもいいですか
 【考え方】
 Aの文の形に注目します。(　) Mr. Anderson stop by the office while I'm away, please tell him that I'll be back by 1 p.m. となっています。後半は please tell him ...（彼に…と伝えてください）という頼む文で、前半はその条件（「もし～したら」）になっていると考えられます。
 また、Mr. Anderson のあとの stop は、-s のつかない形（動詞の原形）です。主語が Mr. Anderson なら、ふつうは stops となるはずです。これは、空所に助動詞（can や should のように動詞の前に置く語）が入り、主語の前に出ていることを示しています。

@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】1 relatively（比較的、ほかと比べるとわりあいに）
 【和訳】
+（英文）
+Although Jeremy has been working at his company for 5 years, he is still a ［relatively］ new employee. Most of his co-workers have been there for more than 10 years.
+（訳）
 ジェレミーは5年間ずっと勤め先の会社で働いていますが、彼はまだ（比較的）新しい社員です。同僚のほとんどは、10年を超えてそこで働いています。
 （選択肢の意味）
-1 比較的、わりあいに
-2 ゆっくりと、のんびりと
-3 勇敢に
-4 具体的に
+1 relatively：比較的、わりあいに
+2 leisurely：ゆっくりと、のんびりと
+3 bravely：勇敢に
+4 concretely：具体的に
 【考え方】
 文の初めの Although（～だけれども）に注目します。Although Jeremy has been working at his company for 5 years（ジェレミーは5年間会社で働いているけれども）のあとに、he is still a (　) new employee（彼はまだ（　）新しい社員だ）と続きます。5年も働いているのに「まだ新しい」と言えるのはなぜかを考えます。
 次の文 Most of his co-workers have been there for more than 10 years.（同僚のほとんどは、10年を超えてそこにいる）が手がかりです。同僚と比べれば、5年は短いということです。

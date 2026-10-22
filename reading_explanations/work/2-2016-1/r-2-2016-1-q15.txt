@@ -5,13 +5,17 @@ reviewed: yes
 ---
 【正解】1 at a loss（途方に暮れて、どうしてよいか分からなくて）
 【和訳】
+（英文）
+A: Have you found the answer to that math problem yet, Susie?
+B: No, I don't even know how to start. I'm ［at a loss］.
+（訳）
 A：スージー、あの数学の問題の答えはもう分かった？
 B：ううん、どう始めたらいいのかさえ分からないよ。（お手上げ）だよ。
 （選択肢の意味）
-1 途方に暮れて、どうしてよいか分からなくて
-2 手の届くところに
-3 平均して
-4 連続して、一列に
+1 at a loss：途方に暮れて、どうしてよいか分からなくて
+2 within reach：手の届くところに
+3 on average：平均して
+4 in a row：連続して、一列に
 【考え方】
 Aは「あの数学の問題の答えはもう見つかった？」とたずねています。
 Bは No, I don't even know how to start.（ううん、どう始めればいいのかさえ分からない）と答えています。even は「～さえ」という意味で、答えどころか、解き始め方さえ分からないことを強めています。

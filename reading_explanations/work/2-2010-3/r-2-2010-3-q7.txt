@@ -7,10 +7,10 @@ reviewed: yes
 【和訳】
 ブルックスフィールドの町では、嵐の間に信号機のいくつかが動かなくなったので、警察官たちが交通を誘導するために出ていきました。
 （選択肢の意味）
-1 延ばす、広げる
-2 （交通などを）誘導する、指示する
-3 集める
-4 （病気を）治す
+1 extend：延ばす、広げる
+2 direct：（交通などを）誘導する、指示する
+3 gather：集める
+4 cure：（病気を）治す
 【考え方】
 文の前半を見ます。Some traffic lights ～ stopped working during the storm（嵐の間に信号機のいくつかが動かなくなった）とあります。traffic lights は「信号機」、stop working は「動かなくなる」です。
 後半は so（だから）で始まり、police officers went out to (　) the traffic（警察官たちが交通を（　）するために出ていった）と続きます。to ～ は「～するために」と目的を表しています。

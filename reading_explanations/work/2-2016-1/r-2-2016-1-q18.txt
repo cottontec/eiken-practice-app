@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】2 was being checked（点検されているところだった）
 【和訳】
+（英文）
+Patricia took her car to a repair shop because the engine was making strange noises. She read some magazines inside the shop while her car ［was being checked］.
+（訳）
 パトリシアは、エンジンが変な音を立てていたので、車を修理工場へ持っていきました。車が（点検されている）間、彼女は工場の中で雑誌を何冊か読みました。
 （選択肢の意味）
-1 点検していた
-2 点検されているところだった
-3 （すでに）点検されていた
-4 点検しているだろう
+1 was checking：点検していた
+2 was being checked：点検されているところだった
+3 had been checked：（すでに）点検されていた
+4 would be checking：点検しているだろう
 【考え方】
 まず、主語の her car（彼女の車）と check（点検する）の関係を考えます。車は自分で点検をするのではなく、修理工場の人に点検される側です。ですから「～される」という受け身（be ＋過去分詞）の形が必要です。受け身になっているのは2と3です。
 次に、空所の前の while（～している間）に注目します。She read some magazines inside the shop while her car (　).（車が（　）している間、彼女は店の中で雑誌を読んだ）という文なので、雑誌を読んでいるのと同じ時に、車の点検が行われている最中だったことを表す形が必要です。

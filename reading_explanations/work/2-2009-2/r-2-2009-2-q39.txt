@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：科学者たちはなぜ、海の騒音を心配しているのですか。
-1 クジラが、人間と意思を伝え合うのに苦労している。
-2 ある種の海の動物の行動が変わってきている。
-3 船がほかの船にぶつかって、損傷を与えている。
-4 クジラがその海域にいると、ソナーがうまく働かない。
+1 Whales are having difficulty communicating with humans.（クジラが、人間と意思を伝え合うのに苦労している。）
+2 The behavior of certain sea animals has been changing.（ある種の海の動物の行動が変わってきている。）
+3 Ships are crashing into other ships and damaging them.（船がほかの船にぶつかって、損傷を与えている。）
+4 Sonar does not work when whales are in the area.（クジラがその海域にいると、ソナーがうまく働かない。）
 【考え方】
 設問の concerned about（～を心配している）と同じような意味の語を本文で探すと、第3段落の初めに Scientists fear that all this noise is having a negative influence on sea life.（科学者たちは、こうした騒音のすべてが海の生き物に悪い影響を与えているのではないかと心配している）とあります。fear は「（よくないことが起こるのではと）心配する、恐れる」という意味です。
 この段落では、そう考える理由として2つの「しるし」が挙げられています。

@@ -7,10 +7,10 @@ reviewed: yes
 【和訳】
 音楽が得意な人には（よくあることですが）、ジムは数学も得意です。
 （選択肢の意味）
-1 場合、事情、実情
-2 端、ふち
-3 部分、役
-4 始まり
+1 case：場合、事情、実情
+2 edge：端、ふち
+3 part：部分、役
+4 start：始まり
 【考え方】
 文の前半は As is often the (　) with people who are good at music です。people who are good at music は「音楽が得意な人々」で、who are good at music が people を説明しています。
 as is often the case with ～ は「～にはよくあることだが」という決まった言い方です。case にはここで「実情、事情」という意味があり、「～についてよくある実情のとおり」と考えると分かりやすいでしょう。

@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】1 eventually（ついに、最終的に）
 【和訳】
+（英文）
+Mr. Johnson studied karate for many years and ［eventually］ became the karate teacher at his local sports center.
+（訳）
 ジョンソンさんは何年も空手を学び、（ついには）地元のスポーツセンターの空手の先生になりました。
 （選択肢の意味）
-1 ついに、最終的に
-2 わずかに、少しだけ
-3 おだやかに、少し
-4 激しく、大量に
+1 eventually：ついに、最終的に
+2 slightly：わずかに、少しだけ
+3 mildly：おだやかに、少し
+4 heavily：激しく、大量に
 【考え方】
 文の流れを見ます。前半は studied karate for many years（何年も空手を学んだ）、後半は became the karate teacher（空手の先生になった）です。この2つが and でつながっています。
 「長い間学んだ」ことのあとに、その結果として「先生になった」ことが来ています。長い時間がかかったあとで、最後にある状態になったことを表すのが eventually（ついに、最終的に）です。

@@ -4,12 +4,15 @@ answerText: ancestors
 ---
 【正解】2 ancestors（先祖、祖先）
 【和訳】
+（英文）
+When Hayley did some research into her ［ancestors］, she discovered that one of her great-grandfathers used to work in a famous theater in London.
+（訳）
 ヘイリーが自分の（先祖）について調べたところ、ひいおじいさんの1人が、かつてロンドンの有名な劇場で働いていたことが分かりました。
 （選択肢の意味）
-1 天使
-2 先祖、祖先
-3 従業員
-4 敵
+1 angels：天使
+2 ancestors：先祖、祖先
+3 employees：従業員
+4 enemies：敵
 【考え方】
 空所のあとの she discovered that one of her great-grandfathers used to work in a famous theater in London（ひいおじいさんの1人が、かつてロンドンの有名な劇場で働いていたことが分かった）に注目します。great-grandfather は「ひいおじいさん（祖父の父）」、used to ～ は「かつて～していた」という意味です。
 ヘイリーが調べた結果、昔の家族のことが分かったという流れです。ひいおじいさんは、ヘイリーの家系の昔の人、つまり「先祖」にあたります。ancestor は「先祖、祖先」なので、did some research into her ancestors（自分の先祖について調べた）となり、2が正解です。

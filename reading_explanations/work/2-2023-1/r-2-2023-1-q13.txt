@@ -4,12 +4,15 @@ answerText: shut off
 ---
 【正解】3 shut off（〔電気・水道・ガスなど〕を止める）
 【和訳】
+（英文）
+Due to construction work on Bayside Street, the electricity to the houses on the street had to be ［shut off］ for two hours.
+（訳）
 ベイサイド通りでの工事のため、その通りの家々への電気は、2時間（止められ）なければなりませんでした。
 （選択肢の意味）
-1 ～について聞く、～のことを知っている
-2 ～をひっくり返す、～を引き渡す
-3 （電気・水道・ガスなど）を止める
-4 （可能性など）を除外する
+1 heard of：～について聞く、～のことを知っている
+2 turned over：～をひっくり返す、～を引き渡す
+3 shut off：（電気・水道・ガスなど）を止める
+4 ruled out：（可能性など）を除外する
 【考え方】
 文の初めの Due to construction work on Bayside Street は「ベイサイド通りでの工事のため」という意味で、理由を表しています。due to ～ は「～のために、～が原因で」です。
 主語は the electricity to the houses on the street（その通りの家々への電気）です。そのあとが had to be (　) for two hours（2時間（　）されなければならなかった）となっています。had to be ＋過去分詞（「～される」を表す形）で「～されなければならなかった」という意味です。

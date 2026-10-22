@@ -5,13 +5,17 @@ reviewed: yes
 ---
 【正解】2 suppose（〔suppose that ～ で〕もし～だとしたら）
 【和訳】
+（英文）
+A: My dad always gets angry when I come home late at night.
+B: Well, ［suppose］ that you had a child, how would you feel? He's just worried about you.
+（訳）
 A：夜遅くに帰ると、父はいつも怒るんだ。
 B：うーん、（もし）あなたに子どもがいる（としたら）、どう感じる？　お父さんはあなたのことを心配しているだけだよ。
 （選択肢の意味）
-1 ～ならいいのにと願う
+1 wish：～ならいいのにと願う
 2 （suppose that ～ で）もし～だとしたら
-3 ～を除いて、～ということ以外は
-4 だから、それで
+3 except：～を除いて、～ということ以外は
+4 so：だから、それで
 【考え方】
 Bの文は (　) that you had a child, how would you feel?（（　）あなたに子どもがいた、あなたはどう感じるだろうか）です。
 ここで、you had a child と過去の形になっていること、how would you feel? と would が使われていることに注目します。Aは父親に怒られている子どもの立場で、実際には子どもはいないと考えられます。ですから、これは「実際とは違うことを仮に考えてみる」言い方だと分かります。

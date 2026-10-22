@@ -5,13 +5,17 @@ reviewed: yes
 ---
 【正解】3 at its best（いちばんよい状態で）
 【和訳】
+（英文）
+A: I'm thinking of visiting Kyoto in August.
+B: Really? You should wait until November. Kyoto is ［at its best］ then. The weather is cool and the autumn leaves are beautiful colors.
+（訳）
 A：8月に京都を訪れようと思っているんだ。
 B：本当？ 11月まで待ったほうがいいよ。その時期、京都は（いちばんよい状態）なんだ。気候は涼しいし、紅葉が美しい色になっているよ。
 （選択肢の意味）
-1 陰で、いないところで
-2 意志に反して、いやいやながら
-3 いちばんよい状態で
-4 その意見では
+1 behind its back：陰で、いないところで
+2 against its will：意志に反して、いやいやながら
+3 at its best：いちばんよい状態で
+4 in its opinion：その意見では
 【考え方】
 Bは You should wait until November.（11月まで待ったほうがいい）と、8月より11月に行くことをすすめています。空所の文 Kyoto is (　) then. の then（そのとき）は、11月のことです。
 そのあとの The weather is cool and the autumn leaves are beautiful colors.（気候は涼しく、紅葉は美しい色だ）は、11月の京都のよいところを説明しています。

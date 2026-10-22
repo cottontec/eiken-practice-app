@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：S&Vテクノロジーズが白内障の動物を助けてきた方法の1つは何ですか。
-1 白内障を治療するための機械を世界中の多くの国に寄付することによって。
-2 獣医が自分の病院を離れることなく動物を治療できる機器を開発することによって。
-3 動物の目に入れたあとで大きさが変わる特別なレンズを発明することによって。
-4 さまざまな種類の動物に使える人工のレンズを作ることによって。
+1 By donating machines for treating cataracts to many countries around the world.（白内障を治療するための機械を世界中の多くの国に寄付することによって。）
+2 By developing equipment that lets veterinarians treat animals without leaving their hospitals.（獣医が自分の病院を離れることなく動物を治療できる機器を開発することによって。）
+3 By inventing a special lens that changes size after it is put in the animal's eye.（動物の目に入れたあとで大きさが変わる特別なレンズを発明することによって。）
+4 By creating artificial lenses that can be used by a variety of different animals.（さまざまな種類の動物に使える人工のレンズを作ることによって。）
 【考え方】
 S&Vテクノロジーズが開発したものは、第2段落に2つ書かれています。
 1つ目は a portable machine for removing diseased lenses（病気になったレンズを取り除くための、持ち運びのできる機械）です。portable は「持ち運びのできる」です。

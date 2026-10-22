@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：新しいしくみがガソリンを節約する方法の1つは何ですか。
-1 そのしくみを備えた乗り物は、ほかの種類の燃料も使える。
-2 乗り物のライトは、もう電気を使う必要がなくなる。
-3 電気を作るのに、もうエンジンが使われなくなる。
-4 そのしくみを備えたトラックは、より多くの装置を運べる。
+1 Vehicles with the system can also use other types of fuel.（そのしくみを備えた乗り物は、ほかの種類の燃料も使える。）
+2 The vehicle's lights no longer need to use electricity.（乗り物のライトは、もう電気を使う必要がなくなる。）
+3 The engine is no longer used to generate electricity.（電気を作るのに、もうエンジンが使われなくなる。）
+4 Trucks with the system can carry more equipment.（そのしくみを備えたトラックは、より多くの装置を運べる。）
 【考え方】
 gasoline（ガソリン）という語が出てくる第3段落を見ます。
 Vehicles with the new system would no longer need the usual equipment that depends on the engine to create electricity. This would save gasoline.（新しいしくみを備えた乗り物は、電気を作るのにエンジンに頼るふつうの装置が、もう必要なくなるだろう。これでガソリンが節約されるだろう）とあります。no longer は「もう～ない」という意味です。

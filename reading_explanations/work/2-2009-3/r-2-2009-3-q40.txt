@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：ジェシー・ローレンスの計画について正しいのはどれですか。
-1 人々が自分のコンピューターを被害から守るのに役立っている。
-2 人々がネットワークの大きさを測るのに役立っている。
-3 すでにロサンゼルスで多くの命を救った。
-4 すでに1つの地震を記録している。
+1 It is helping people protect their computers from damage.（人々が自分のコンピューターを被害から守るのに役立っている。）
+2 It is helping people measure the size of the network.（人々がネットワークの大きさを測るのに役立っている。）
+3 It has already saved many lives in Los Angeles.（すでにロサンゼルスで多くの命を救った。）
+4 It has already recorded one earthquake.（すでに1つの地震を記録している。）
 【考え方】
 ローレンスの計画とは、クエイク・キャッチャー・ネットワークのことです。この設問は特定の場所をたずねていないので、選択肢を1つずつ本文と照らし合わせます。
 第4段落に Although the number of computers connected worldwide at present is still small, Quake-Catcher successfully recorded an earthquake in Los Angeles in July 2008.（現在、世界中でつながっているコンピューターの数はまだ少ないものの、クエイク・キャッチャーは2008年7月にロサンゼルスでの地震を記録することに成功した）とあります。

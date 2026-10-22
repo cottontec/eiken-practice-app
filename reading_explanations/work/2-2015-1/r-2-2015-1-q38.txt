@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：科学者たちは、ほとんどの人間が右利きに進化してきた理由の1つは何だと考えていますか。
-1 同じ手を使うと、ほかの人と競争する能力が高まる。
-2 同じ手を使うと、人々が数学をよりよく理解するのに役立つ。
-3 同じ手を使うと、人々が互いに道具を簡単に共有できる。
-4 同じ手を使うと、人々が（同じ手を使わない場合より）リーダーになりやすくなる。
+1 Using the same hand improves people's ability to compete against others.（同じ手を使うと、ほかの人と競争する能力が高まる。）
+2 Using the same hand helps people to understand mathematics better.（同じ手を使うと、人々が数学をよりよく理解するのに役立つ。）
+3 Using the same hand allows people to share tools with each other easily.（同じ手を使うと、人々が互いに道具を簡単に共有できる。）
+4 Using the same hand makes it easier for people to become leaders.（同じ手を使うと、人々が（同じ手を使わない場合より）リーダーになりやすくなる。）
 【考え方】
 evolve（進化する）という語が出てくるのは、第2段落の1文目と2文目です。
 Many scientists believe that the ability of human beings to cooperate—for example by sharing tools—has played an important role in our evolution.（多くの科学者は、人間の協力する能力――たとえば道具を共有すること――が、私たちの進化において重要な役割を果たしてきたと考えている）

@@ -4,12 +4,15 @@ answerText: until
 ---
 【正解】3 until（not ～ until ... で「…まで～しない、…になってやっと～する」）
 【和訳】
+（英文）
+The members of the band Rockhammer were looking forward to playing with their new guitarist. However, she did not arrive ［until］ the concert was over.
+（訳）
 ロックハンマーというバンドのメンバーたちは、新しいギタリストといっしょに演奏するのを楽しみにしていました。しかし、彼女はコンサートが終わる（まで）到着しませんでした。
 （選択肢の意味）
-1 ～でない限り
-2 ～かどうか
-3 ～まで（ずっと）
-4 しかし、それでも
+1 unless：～でない限り
+2 whether：～かどうか
+3 until：～まで（ずっと）
+4 yet：しかし、それでも
 【考え方】
 前の文で、バンドのメンバーは新しいギタリストと演奏するのを楽しみにしていたとあります。次の文は However（しかし）で始まるので、期待どおりにはならなかったという内容が続くと考えます。
 空所の前は she did not arrive（彼女は到着しなかった）、あとは the concert was over（コンサートが終わった）です。

@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：最近、科学者たちは
-1 子ども用に作られた特別な種類のいすを試験している。
-2 傷んだ骨を治すことができる機械を開発しようとしている。
-3 横になっていない患者の背骨をスキャンする方法を見つけた。
-4 スキャナーは正しく使わないと人の背中を傷めることがあると発見した。
+1 been testing a special kind of chair made for children.（子ども用に作られた特別な種類のいすを試験している。）
+2 been trying to develop machines that can repair damaged bones.（傷んだ骨を治すことができる機械を開発しようとしている。）
+3 found a way to scan the backbones of patients who are not lying down.（横になっていない患者の背骨をスキャンする方法を見つけた。）
+4 discovered that scanners can damage people's backs if used incorrectly.（スキャナーは正しく使わないと人の背中を傷めることがあると発見した。）
 【考え方】
 設問の Recently（最近）に注目し、第1段落で「最近」の変化を述べている部分を探します。
 まず Until recently, however, scientists had not been able to test the truth of this idea.（しかし最近まで、科学者たちはこの考えが本当か確かめられなかった）とあり、その理由として the scanners used by doctors to look at the backbone only worked when patients were lying down（医者が背骨を見るために使うスキャナーは、患者が横になっているときしか使えなかった）と書かれています。backbone は「背骨」です。

@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：専門家たちは、～という点で意見が一致している。
-1 ほとんどの子どもは、両手を同じくらいうまく使える能力を持って生まれてくる
-2 人が右利きか左利きのどちらかになる原因となる要因がいくつかある
-3 左利きの人の割合は、5,000年間増え続けている
-4 一部の子どもは、10歳くらいで一方の手をもう一方の手より多く使い始める
+1 most children are born with the ability to use both hands equally well.（ほとんどの子どもは、両手を同じくらいうまく使える能力を持って生まれてくる）
+2 there are several factors that cause people to be either right- or left-handed.（人が右利きか左利きのどちらかになる原因となる要因がいくつかある）
+3 the percentage of left-handed people has been increasing for 5,000 years.（左利きの人の割合は、5,000年間増え続けている）
+4 some children begin using one hand more than the other at about 10 years old.（一部の子どもは、10歳くらいで一方の手をもう一方の手より多く使い始める）
 【考え方】
 設問の Experts agree that と同じ言い方が、第1段落2文目にあります。
 Nobody is sure why most people are one or the other, but experts agree that a mixture of genetic and environmental factors determines which we will be.（なぜほとんどの人がどちらか一方になるのかは、だれにもはっきりとは分かっていないが、遺伝的な要因と環境的な要因が混ざり合って、私たちがどちらになるかが決まるという点では、専門家の意見は一致している）

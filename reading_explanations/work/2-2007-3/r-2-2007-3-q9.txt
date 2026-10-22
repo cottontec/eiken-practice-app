@@ -8,10 +8,10 @@ reviewed: yes
 A：お母さん、自分の影を写さずにこの花の写真を撮るにはどうしたらいいの？
 B：花の反対側に立って、その角度から写真を撮ってごらん。
 （選択肢の意味）
-1 反応
-2 親切な行い、頼みごと
-3 秘密
-4 角度
+1 reaction：反応
+2 favor：親切な行い、頼みごと
+3 secret：秘密
+4 angle：角度
 【考え方】
 Aは、how can I take a picture of this flower without getting my shadow in it?（自分の影を写真に入れずに、どうやってこの花の写真を撮れるか）とたずねています。without ～ing は「～しないで」という意味です。
 Bは Try standing on the other side of the flower（花の反対側に立ってみて）と、立つ位置を変えるようにすすめています。続けて and taking the picture from that (　).（そして、その〜から写真を撮って）と言っています。

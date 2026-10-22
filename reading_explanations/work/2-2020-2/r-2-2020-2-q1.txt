@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】1 principles（原理、基本となる決まり）
 【和訳】
+（英文）
+You must understand the basic ［principles］ of science in order to know why water becomes steam when it boils.
+（訳）
 水が沸騰すると（煮え立つと）なぜ水蒸気になるのかを知るためには、科学の基本的な（原理）を理解しなければなりません。
 （選択肢の意味）
-1 原理、原則
-2 代わりの物・人
-3 10年間
-4 批評家
+1 principles：原理、原則
+2 substitutes：代わりの物・人
+3 decades：10年間
+4 critics：批評家
 【考え方】
 空所は the basic (　) of science の中にあり、「科学の基本的な（　）」という意味になります。
 文の後半の in order to know why water becomes steam when it boils は「水が沸騰するとなぜ水蒸気になるのかを知るために」という意味です。in order to ～ は「～するために」と目的を表します。

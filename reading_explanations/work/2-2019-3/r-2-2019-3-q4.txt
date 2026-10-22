@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】2 respond（返事をする、答える）
 【和訳】
+（英文）
+The actor got so many messages from fans that he could not ［respond］ to all of them himself. He decided to employ an assistant to help answer them.
+（訳）
 その俳優はファンからとても多くのメッセージを受け取ったので、そのすべてに自分で（返事をする）ことができませんでした。彼は、それらに返事をするのを手伝ってもらうために、助手を雇うことにしました。
 （選択肢の意味）
-1 白状する、打ち明ける
-2 返事をする、答える
-3 引きずる
-4 顔をしかめる
+1 confess：白状する、打ち明ける
+2 respond：返事をする、答える
+3 drag：引きずる
+4 frown：顔をしかめる
 【考え方】
 1文目は so ～ that ...（とても～なので…）の形です。「メッセージがとても多かったので、そのすべてに自分で（　）できなかった」という意味になります。
 2文目に He decided to employ an assistant to help answer them.（彼は、それらに答えるのを手伝ってもらうために助手を雇うことにした）とあります。them は fans からの messages を指します。つまり、この俳優が自分だけでできなかったのは、メッセージに「答える」ことだと分かります。

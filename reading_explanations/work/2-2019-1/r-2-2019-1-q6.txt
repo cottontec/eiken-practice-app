@@ -5,13 +5,17 @@ reviewed: yes
 ---
 【正解】3 maximum（最大限、上限）
 【和訳】
+（英文）
+A: How long does our history report have to be, Ms. Evans?
+B: It should be at least 5 pages, but don't make it too long. The ［maximum］ is 10 pages.
+（訳）
 A：エバンズさん、私たちの歴史のレポートは、どれくらいの長さにしなければなりませんか。
 B：少なくとも5ページにしてください。でも、長くしすぎないようにね。（上限）は10ページです。
 （選択肢の意味）
-1 市場
-2 出来事、事件
-3 最大限、上限
-4 道具、楽器
+1 market：市場
+2 incident：出来事、事件
+3 maximum：最大限、上限
+4 instrument：道具、楽器
 【考え方】
 Aはレポートの長さをたずねています。Bの答えを順に見ていきます。
 It should be at least 5 pages（少なくとも5ページにするべきだ）は、いちばん短い場合の長さです。at least は「少なくとも」という意味です。

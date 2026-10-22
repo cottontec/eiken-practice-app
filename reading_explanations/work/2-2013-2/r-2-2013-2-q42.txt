@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：これまでのところ、小惑星から金属を手に入れることの主な難題は
-1 金属が小惑星の奥深くにあって、届きにくいことである。
-2 金属を見つけて取り出すためにロケットを送る費用が、高すぎることである。
-3 小惑星はいつも動いているので、着陸するのが難しいことである。
-4 小惑星を採掘するのに必要な人数が、ロケットに乗りきらないことである。
+1 the metals are deep inside the asteroids and difficult to reach.（金属が小惑星の奥深くにあって、届きにくいことである。）
+2 the cost of sending rockets to find and remove the metals is too high.（金属を見つけて取り出すためにロケットを送る費用が、高すぎることである。）
+3 the asteroids are hard to land on because they are always moving.（小惑星はいつも動いているので、着陸するのが難しいことである。）
+4 the number of people needed to mine an asteroid cannot fit on a rocket.（小惑星を採掘するのに必要な人数が、ロケットに乗りきらないことである。）
 【考え方】
 設問の main challenge（主な難題）と似た言葉を本文で探します。第2段落に The main difficulty with this idea has been the great expense of sending rockets into space to find and mine these asteroids.（この考えの主な難点は、これまで、これらの小惑星を見つけて採掘するためにロケットを宇宙へ送るのにかかる、ばく大な費用だった）とあります。this idea（この考え）は、前の文の to try to get these metals from asteroids（これらの金属を小惑星から手に入れようとすること）を指します。mine は動詞で「～を採掘する（地中などから掘り出す）」です。
 本文と選択肢は次のように対応しています。

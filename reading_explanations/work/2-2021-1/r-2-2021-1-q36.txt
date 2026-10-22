@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：タルトゥのアパートにある操作パネルは何のためのものですか。
-1 人々が自分の使っているエネルギーの量を見て、変えられるようにする。
-2 アパートの壁から逃げる熱の量を減らす。
-3 太陽光パネルが作り出す電気の量を調節する。
-4 住民が、部屋の暖房にガスと電気のどちらを使うかを選べるようにする。
+1 It allows people to see and change how much energy they are using.（人々が自分の使っているエネルギーの量を見て、変えられるようにする。）
+2 It reduces the amount of heat escaping through the walls of the apartments.（アパートの壁から逃げる熱の量を減らす。）
+3 It controls the amount of electricity produced by the solar panels.（太陽光パネルが作り出す電気の量を調節する。）
+4 It lets residents choose whether to use gas or electricity to heat their apartments.（住民が、部屋の暖房にガスと電気のどちらを使うかを選べるようにする。）
 【考え方】
 control panel（操作パネル）という語は、第3段落に出てきます。
 Each apartment has a control panel which lets residents monitor and control the amount of energy they consume.（それぞれの住戸〔1世帯ごとの住まい〕には、住民が自分の消費するエネルギーの量を見守り、調節できる操作パネルがある）

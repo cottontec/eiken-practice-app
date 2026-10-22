@@ -4,12 +4,15 @@ answerText: devoted
 ---
 【正解】4 devoted（ささげた、注いだ）
 【和訳】
+（英文）
+Haruka wanted to enter a popular university, so she ［devoted］ all her attention to studying for the entrance exam.
+（訳）
 ハルカは人気のある大学に入りたかったので、入学試験の勉強に自分の注意のすべてを（注ぎ）ました。
 （選択肢の意味）
-1 具体的に示した
-2 宣伝した
-3 思い出させた
-4 ささげた、（時間や力を）注いだ
+1 specified：具体的に示した
+2 advertised：宣伝した
+3 reminded：思い出させた
+4 devoted：ささげた、（時間や力を）注いだ
 【考え方】
 空所のあとの形に注目します。she (　) all her attention to studying for the entrance exam となっていて、「（　）＋ all her attention（彼女の注意のすべて）＋ to studying（勉強することに）」という形です。
 devote A to B は「AをBにささげる、AをBに注ぐ」という意味です。devoted all her attention to studying で「勉強に注意のすべてを注いだ」、つまり「勉強に集中した」となります。

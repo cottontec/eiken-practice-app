@@ -5,13 +5,17 @@ reviewed: yes
 ---
 【正解】3 currently（現在は、今のところ）
 【和訳】
+（英文）
+A: How many people work at your company, Mr. Seward?
+B: We ［currently］ have 30 employees, but we plan to hire 5 more at the end of the year.
+（訳）
 A：スワードさん、あなたの会社では何人の人が働いていますか。
 B：（現在は）30人の従業員がいますが、年末にさらに5人雇う予定です。
 （選択肢の意味）
-1 真剣に、深刻に
-2 すぐに、即座に
-3 現在は、今のところ
-4 特に
+1 seriously：真剣に、深刻に
+2 instantly：すぐに、即座に
+3 currently：現在は、今のところ
+4 especially：特に
 【考え方】
 Aは会社で働いている人数をたずねています。Bは We (　) have 30 employees（私たちには30人の従業員が（　）いる）と答えたあと、but we plan to hire 5 more at the end of the year（しかし、年末にさらに5人雇う予定だ）と続けています。
 but のあとは「これから先（年末）」の話です。ですから、but の前は「今は」の話だと考えると、「今は30人だが、年末にはもう5人増える予定だ」と自然につながります。currently は「現在は、今のところ」という意味なので、3が正解です。

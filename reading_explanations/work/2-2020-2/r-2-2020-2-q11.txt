@@ -5,13 +5,17 @@ reviewed: yes
 ---
 【正解】2 by no means（決して～ない）
 【和訳】
+（英文）
+A: It looks like Hannah is going to win this tennis match.
+B: The match is ［by no means］ over. There is still a chance for Isabel to win.
+（訳）
 A：このテニスの試合は、ハンナが勝ちそうだね。
 B：試合は（決して）終わってはいないよ。イザベルが勝つ可能性はまだあるよ。
 （選択肢の意味）
-1 少しずつ、だんだんと
-2 決して～ない
-3 すぐに、あっという間に
-4 前もって
+1 by degrees：少しずつ、だんだんと
+2 by no means：決して～ない
+3 in no time：すぐに、あっという間に
+4 in advance：前もって
 【考え方】
 Aは It looks like Hannah is going to win（ハンナが勝ちそうだ）と言っています。
 Bはそのあとに There is still a chance for Isabel to win.（イザベルが勝つ可能性はまだある）と続けています。still は「まだ」という意味です。つまりBは、「まだ勝負はついていない」と、Aの見方に反対しているのです。

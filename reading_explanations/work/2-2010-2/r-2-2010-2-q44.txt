@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：デザーテックによると、
-1 ソーラーパネルの費用は、ヨーロッパの多くの人々にとって高すぎる。
-2 その計画は作物のための水を提供することで、地元の人々の役に立つ。
-3 発電所がきちんと動くためには、大量の塩が必要になる。
-4 発電所が建てられる国々は、無料で電気を得ることになる。
+1 the cost of solar panels is too high for many people in Europe.（ソーラーパネルの費用は、ヨーロッパの多くの人々にとって高すぎる。）
+2 the project will help local people by providing water for crops.（その計画は作物のための水を提供することで、地元の人々の役に立つ。）
+3 the power stations will require large amounts of salt to work properly.（発電所がきちんと動くためには、大量の塩が必要になる。）
+4 the countries where the power stations are built will get free electricity.（発電所が建てられる国々は、無料で電気を得ることになる。）
 【考え方】
 設問は According to Desertec,（デザーテックによると）なので、デザーテックが言っている内容を探します。第4段落に Desertec, however, says that water would be brought from the ocean, and that electricity would be used to remove the salt from this water.（しかしデザーテックは、水は海から運ばれ、電気を使ってこの水から塩分が取り除かれることになると言っている）とあります。
 続けて Some of this water could then be used by local farmers for growing crops.（そうすれば、この水の一部を、地元の農家が作物を育てるのに使うことができるだろう）、In this way, the people in the countries where the stations are built would also profit from the plan.（このようにして、発電所が建てられる国々の人々も、この計画から利益を得られる）とあります。profit from ～ は「～から利益を得る」です。本文と選択肢は次のように対応しています。

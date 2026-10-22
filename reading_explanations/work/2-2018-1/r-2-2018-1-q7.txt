@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】2 surrounded（囲まれた）
 【和訳】
+（英文）
+When Elizabeth Beckingham, the famous movie star, came out of the car, she was ［surrounded］ by a big crowd of fans. It was hard for her to move through so many people.
+（訳）
 有名な映画スターのエリザベス・ベッキンガムが車から降りると、彼女はファンの大群衆に（囲まれ）ました。そんなに大勢の人の中を通り抜けて進むのは、彼女にとって大変でした。
 （選択肢の意味）
-1 交換された、取引された
-2 囲まれた
-3 移住した
-4 訂正された
+1 traded：交換された、取引された
+2 surrounded：囲まれた
+3 immigrated：移住した
+4 corrected：訂正された
 【考え方】
 空所の前後は she was (　) by a big crowd of fans（彼女はファンの大群衆によって（　））です。was ＋過去分詞＋ by ～ は「～によって…される」という受け身（何かをされる側から言う形）です。
 次の文 It was hard for her to move through so many people.（とても多くの人の中を通り抜けて進むのは、彼女にとって大変だった）に注目します。人が多くて動きにくかったのは、ファンが彼女のまわりを取り巻いていたからだと考えられます。

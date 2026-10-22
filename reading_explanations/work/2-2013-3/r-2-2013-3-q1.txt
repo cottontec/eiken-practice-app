@@ -7,10 +7,10 @@ reviewed: yes
 【和訳】
 ボビーは、姉か妹のルーシーが自分の自転車を断りなく使ったので、ルーシーとけんかを始めました。（そのあとで）、ルーシーは謝り、二度としないと約束しました。
 （選択肢の意味）
-1 ～するときはいつでも
-2 そうでなければ、さもないと
-3 そのうえ、さらに
-4 そのあとで
+1 Whenever：～するときはいつでも
+2 Otherwise：そうでなければ、さもないと
+3 Moreover：そのうえ、さらに
+4 Afterward：そのあとで
 【考え方】
 2つの文がどんな関係でつながっているかを考えます。
 1文目は Bobby started a fight with his sister Lucy because she used his bicycle without asking.（ルーシーが断りなく自転車を使ったので、ボビーはけんかを始めた）です。without asking は「たずねずに、断りなく」という意味です。

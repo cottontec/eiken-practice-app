@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】3 packed（いっぱいの、ぎっしり詰まった）
 【和訳】
+（英文）
+The band Flying Buckets is very popular. Adelphi Hall was ［packed］ with fans when the band performed a concert there yesterday.
+（訳）
 フライング・バケッツというバンドはとても人気があります。昨日そのバンドがアデルフィ・ホールでコンサートをしたとき、ホールはファンでいっぱいでした。
 （選択肢の意味）
-1 設立された
-2 扱われた
-3 いっぱいの、ぎっしり詰まった
-4 変更された、改造された
+1 established：設立された
+2 treated：扱われた
+3 packed：いっぱいの、ぎっしり詰まった
+4 modified：変更された、改造された
 【考え方】
 1文目の The band Flying Buckets is very popular.（フライング・バケッツというバンドはとても人気がある）が手がかりです。人気のあるバンドがコンサートをすれば、会場にはたくさんのファンが集まります。
 空所のあとの with fans（ファンで）にも注目します。be packed with ～ で「～でいっぱいである」という意味です。Adelphi Hall was packed with fans で「アデルフィ・ホールはファンでいっぱいだった」となり、1文目の「とても人気がある」とつながります。正解は3です。

@@ -7,10 +7,10 @@ reviewed: yes
 【和訳】
 ビングリー電機は先月倒産しました。その会社の破たんを引き起こしたのは、社長のまずい判断だったと人々は言っています。
 （選択肢の意味）
-1 引き起こした
-2 （～から）成り立っていた
-3 （～から）回復した
-4 すり減らした、使い古した
+1 brought about：引き起こした
+2 consisted of：（～から）成り立っていた
+3 recovered from：（～から）回復した
+4 wore out：すり減らした、使い古した
 【考え方】
 1文目の went out of business は「倒産した、商売をやめた」という意味です。
 2文目は People say it was the president's bad decisions that (　) the company's collapse.（その会社の破たんを〜したのは、社長のまずい判断だったと人々は言う）です。it was ～ that ... は「…したのは～だ」と、～の部分を強める言い方です。collapse は「崩壊、破たん（だめになること）」という意味です。

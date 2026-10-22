@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】2 statistics（統計、統計の数字）
 【和訳】
+（英文）
+The computer company studied its sales ［statistics］ to learn more about who was buying its products. It found that people in their 20s bought the most expensive computers.
+（訳）
 そのコンピューター会社は、だれが自社の製品を買っているのかをもっと知るために、販売の（統計）を調べました。その結果、最も高価なコンピューターを買っていたのは20代の人々だと分かりました。
 （選択肢の意味）
-1 妥協
-2 統計
-3 終点、（コンピューターの）端末
-4 宗教
+1 compromises：妥協
+2 statistics：統計
+3 terminals：終点、（コンピューターの）端末
+4 religions：宗教
 【考え方】
 空所の前は studied its sales（自社の販売の～を調べた）です。そのあとの to learn more about who was buying its products は「だれが自社の製品を買っているのかについてもっと知るために」という意味で、調べた目的を表しています。
 次の文では It found that people in their 20s bought the most expensive computers.（20代の人々が最も高価なコンピューターを買っていると分かった）と、調べた結果が書かれています。in their 20s は「20代の」という意味です。

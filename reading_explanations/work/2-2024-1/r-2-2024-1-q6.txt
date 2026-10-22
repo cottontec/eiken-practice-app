@@ -4,12 +4,15 @@ answerText: correctly
 ---
 【正解】1 correctly（正しく）
 【和訳】
+（英文）
+Janet answered every question on her history test ［correctly］, so the teacher gave her a perfect score.
+（訳）
 ジャネットは歴史のテストのすべての問題に（正しく）答えたので、先生は彼女に満点をつけました。
 （選択肢の意味）
-1 正しく
-2 最後には、結局は
-3 大きな声で
-4 明らかに
+1 correctly：正しく
+2 eventually：最後には、結局は
+3 loudly：大きな声で
+4 obviously：明らかに
 【考え方】
 文の後半の so the teacher gave her a perfect score（だから先生は彼女に満点をつけた）に注目します。so は「だから」という意味で、前半が満点の理由になっています。
 前半は Janet answered every question on her history test ( )（ジャネットは歴史のテストのすべての問題に（　）答えた）です。テストで満点になるのは、すべての問題に「正しく」答えたときです。correctly は「正しく」という意味の副詞（動詞などをくわしく説明する語）なので、1が正解です。

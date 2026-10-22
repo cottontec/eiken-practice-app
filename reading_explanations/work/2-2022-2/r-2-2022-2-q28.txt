@@ -8,10 +8,10 @@ answerText: The sound level cannot be changed with the remote control.
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：マイケル・グリーンは、テレビにどんな問題があると言っていますか。
-1 リモコンで音の大きさを変えることができない。
-2 リモコンがほんの数時間で電池を使い切ってしまう。
-3 テレビ本体のボタンが動いていないようだ。
-4 テレビがときどき、思いがけず勝手に電源が切れる。
+1 The sound level cannot be changed with the remote control.（リモコンで音の大きさを変えることができない。）
+2 The remote control uses up its batteries in just a few hours.（リモコンがほんの数時間で電池を使い切ってしまう。）
+3 The buttons on the TV do not seem to be working.（テレビ本体のボタンが動いていないようだ。）
+4 The TV sometimes turns itself off unexpectedly.（テレビがときどき、思いがけず勝手に電源が切れる。）
 【考え方】
 第1段落の最後に I noticed that there was a problem（問題があることに気づいた）とあり、続く第2段落の初めに、その問題の中身が書かれています。
 I was unable to adjust the volume of the TV with the remote control.（リモコンでテレビの音量を調節することができなかった）

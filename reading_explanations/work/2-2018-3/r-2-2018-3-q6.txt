@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】3 correct（直す、訂正する）
 【和訳】
+（英文）
+Mr. Wilson read his students' English essays and wrote comments about the mistakes. He then returned the essays to his students and asked them to ［correct］ the errors for homework.
+（訳）
 ウィルソンさんは、生徒たちの英語の作文を読んで、まちがいについてコメントを書きました。それから、作文を生徒たちに返し、宿題としてそのまちがいを（直す）ように言いました。
 （選択肢の意味）
-1 断る、減る
-2 延期する
-3 直す、訂正する
-4 （選挙で）選ぶ
+1 decline：断る、減る
+2 postpone：延期する
+3 correct：直す、訂正する
+4 elect：（選挙で）選ぶ
 【考え方】
 最初の文に、ウィルソンさんは作文を読んで wrote comments about the mistakes（まちがいについてコメントを書いた）とあります。続く文では、作文を返して asked them to ( ) the errors for homework（宿題としてまちがいを（　）するよう生徒に頼んだ）と続きます。asked them to ～ は「彼らに～するように頼んだ（言った）」、errors は mistakes と同じく「まちがい」です。
 ウィルソンさんがまちがいにコメントを付けて作文を返したのですから、生徒が宿題ですることは、そのまちがいを直すことだと考えられます。correct はここでは動詞で「直す、訂正する」という意味です。ですから、3が正解です。

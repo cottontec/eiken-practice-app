@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：PCEyeは（　）装置である。
-1 人々が目をどのように使っているかについての情報を提供する
-2 障がいのある人々が、コンピューターの画面上の小さなものを見られるように手助けする
-3 人間の目のように働き、人々が自分の周りで起きていることを見られるようにする
-4 手を動かすのが難しい人々が、コンピューターを（今までより）使いやすくなるようにする
+1 provides information on how people use their eyes.（人々が目をどのように使っているかについての情報を提供する）
+2 helps disabled people see small items on the screens of computers.（障がいのある人々が、コンピューターの画面上の小さなものを見られるように手助けする）
+3 acts like a human eye allowing people to see what is happening around them.（人間の目のように働き、人々が自分の周りで起きていることを見られるようにする）
+4 makes it easier for people who have trouble moving their hands to use a computer.（手を動かすのが難しい人々が、コンピューターを（今までより）使いやすくなるようにする）
 【考え方】
 PCEyeがどんな装置なのかは、第1段落に書かれています。
 まず、However, many disabled people cannot use their hands freely.（しかし、障がいのある人の多くは、手を自由に使うことができない）とあります。その前の文で、マウスを使えばカーソルを動かしたりクリックしたりできると説明されています。マウスは手で動かすものなので、手を自由に使えない人にはそれが難しいということです。

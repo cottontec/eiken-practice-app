@@ -4,12 +4,15 @@ answerText: reputation
 ---
 【正解】1 reputation（評判）
 【和訳】
+（英文）
+The restaurant lost its good ［reputation］ after several cases of food poisoning, and eventually it had to close.
+（訳）
 そのレストランは、食中毒が何件か起きたあと、よい（評判）を失い、最終的には閉店しなければなりませんでした。
 （選択肢の意味）
-1 評判
-2 予想、楽しみに待つこと
-3 観察
-4 試験、検査
+1 reputation：評判
+2 anticipation：予想、楽しみに待つこと
+3 observation：観察
+4 examination：試験、検査
 【考え方】
 空所の前に lost its good（よい～を失った）とあり、そのきっかけとして after several cases of food poisoning（何件かの食中毒のあと）と書かれています。food poisoning は「食中毒」、case は「（事件や病気の）1件」です。
 さらに、and eventually it had to close（そして最終的に閉店しなければならなかった）と続きます。eventually は「最終的に、ついに」という意味です。

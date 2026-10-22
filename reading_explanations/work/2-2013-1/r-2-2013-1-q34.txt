@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：ウォーカートン市は…
-1 新しい警察官を見つけるのに苦労している。
-2 地元の会社に古い車をリサイクルしてもらうことができない。
-3 ガソリンを使わないパトカーを買うことに関心がある。
-4 過去にトライリーム自動車から製品を買ったことがある。
+1 has been having trouble finding new police officers.（新しい警察官を見つけるのに苦労している。）
+2 cannot get a local company to recycle its old cars.（地元の会社に古い車をリサイクルしてもらうことができない。）
+3 is interested in buying police cars that do not use gasoline.（ガソリンを使わないパトカーを買うことに関心がある。）
+4 has bought products from Trireme Autos in the past.（過去にトライリーム自動車から製品を買ったことがある。）
 【考え方】
 設問は「ウォーカートン市」について問うています。メールの第1段落を見ます。
 Trireme Autos is happy to hear that the city of Walkerton wants to replace some of its traditional, gasoline-powered police cars with electric ones.（トライリーム自動車は、ウォーカートン市が、従来のガソリンで走るパトカーの一部を電気で走るパトカーに置き換えたいと考えていると聞いて、うれしく思っている）とあります。replace A with B は「AをBに置き換える」、electric ones の ones は police cars のことです。

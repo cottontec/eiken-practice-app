@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：次の記述のうち、正しいものはどれですか。
-1 ホエールフォールを研究することは、ある種類のごみを処理するのに役立つかもしれない。
-2 ホエールフォールは、私たちの惑星（地球）がどのようにできたかについて、多くのことを教えてくれる。
-3 科学者たちは、ホエールフォールから取った化学物質を使って、海をきれいにしている。
-4 人間は、生き残るためにホエールフォールに頼るようになった。
+1 Studying whale falls may help us manage some kinds of waste.（ホエールフォールを研究することは、ある種類のごみを処理するのに役立つかもしれない。）
+2 Whale falls can tell us a great deal about how our planet was formed.（ホエールフォールは、私たちの惑星（地球）がどのようにできたかについて、多くのことを教えてくれる。）
+3 Scientists are using a chemical from whale falls to clean up the oceans.（科学者たちは、ホエールフォールから取った化学物質を使って、海をきれいにしている。）
+4 Human beings have come to depend on whale falls for survival.（人間は、生き残るためにホエールフォールに頼るようになった。）
 【考え方】
 本文全体と照らし合わせて、1つずつ確かめます。
 第3段落に Another benefit is that we can learn about what happens to waste after it sinks to the bottom of the ocean. This may give us new ideas for dealing with organic waste in the future.（もう1つの利益は、廃棄物が海の底に沈んだあとどうなるのかについて学べることだ。これは、将来、有機廃棄物を処理するための新しいアイデアを与えてくれるかもしれない）とあります。waste は「廃棄物、ごみ」、organic waste は「有機廃棄物（生き物からできたごみ）」です。

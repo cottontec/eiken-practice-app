@@ -4,12 +4,15 @@ answerText: to win
 ---
 【正解】1 to win（〔be sure to win で〕きっと勝つ）
 【和訳】
+（英文）
+Eisuke is the fastest runner at his school. He is sure ［to win］ the 100-meter race at the sports festival.
+（訳）
 エイスケは学校でいちばん足の速いランナーです。彼は運動会の100メートル走で、きっと（勝つ）でしょう。
 （選択肢の意味）
 1 （to win の形で）勝つこと、勝つために
-2 勝つ（もとの形）
-3 勝つだろう
-4 勝った
+2 win：勝つ（もとの形）
+3 will win：勝つだろう
+4 won：勝った
 【考え方】
 1文目は Eisuke is the fastest runner at his school.（エイスケは学校でいちばん速いランナーだ）です。だから、2文目では、エイスケが100メートル走で勝つだろう、という内容になると考えられます。
 2文目は He is sure (　) the 100-meter race（彼は100メートル走に（　）確かだ）の形です。ここで be sure to ～ という決まった言い方を思い出します。be sure to ～ は「きっと～する、必ず～する」という意味で、to のあとには動詞の原形（もとの形）が来ます。He is sure to win the race. で「彼はきっとそのレースに勝つ」となります。この言い方は、話し手が「彼はきっと勝つ」と確信していることを表します。

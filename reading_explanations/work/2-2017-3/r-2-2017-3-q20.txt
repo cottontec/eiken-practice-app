@@ -5,13 +5,16 @@ reviewed: yes
 ---
 【正解】1 it（〔あとの that 以下を指す〕それ）
 【和訳】
+（英文）
+Mr. Smith's co-workers found ［it］ surprising that he had once been an Olympic swimmer. He did not seem very athletic.
+（訳）
 スミスさんの同僚たちは、彼がかつてオリンピックの水泳選手だったということを意外に思いました。彼はあまり運動が得意そうには見えませんでした。
 （空所に入る it は、あとの「彼がかつてオリンピックの水泳選手だったということ」を前もって指す語なので、日本語にはふつう訳しません）
 （選択肢の意味）
-1 それ
-2 何、～すること
-3 すべて
-4 これ
+1 it：それ
+2 what：何、～すること
+3 all：すべて
+4 this：これ
 【考え方】
 まず、文の形を確かめます。find A B は「AをBだと思う」という意味です。
 Mr. Smith's co-workers found (　) surprising that he had once been an Olympic swimmer.

@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】2 encouraged（励ました、～するよう勧めた）
 【和訳】
+（英文）
+Sarah wanted to stay in the easy math class, but her teacher ［encouraged］ her to move up to the advanced class. He said that she would learn much more in that class.
+（訳）
 サラはやさしい数学のクラスにとどまりたいと思っていましたが、先生は彼女に上級クラスへ上がるよう勧めました。先生は、そのクラスでなら（今のクラスより）ずっと多くのことを学べるだろうと言いました。
 （選択肢の意味）
-1 得た
-2 励ました、～するよう勧めた
-3 約束した
-4 ～のままだった
+1 gained：得た
+2 encouraged：励ました、～するよう勧めた
+3 promised：約束した
+4 remained：～のままだった
 【考え方】
 空所のあとが her to move up to the advanced class（彼女が上級クラスへ上がること）になっていることに注目します。〈動詞＋人＋to ～〉の形で「人に～するように…する」という意味を作れる動詞を考えます。
 encourage は〈encourage＋人＋to ～〉で「人に～するよう勧める、励ます」という意味です。but（しかし）の前ではサラは「やさしいクラスにとどまりたかった」とあり、先生はそれとは反対に「上級クラスへ上がるよう勧めた」となって、流れがつながります。

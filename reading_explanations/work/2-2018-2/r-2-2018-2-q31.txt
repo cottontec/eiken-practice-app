@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：トビー・グループが、PCEyeでものをクリックするための2つ目の方法を開発したのはなぜですか。
-1 人々が画面をじっと見つめると、まちがいが起こりやすい。
-2 利用者の目がどこを見ているのかを、カメラがとらえるのが難しい。
-3 トビー・グループは、利用者がうっかりコンピューターをこわしてしまうのではないかと心配した。
-4 トビー・グループは、人々が使いたいプログラムを（今までより）速く開く方法を見つけたかった。
+1 It is easy for mistakes to be made when people stare at the screen.（人々が画面をじっと見つめると、まちがいが起こりやすい。）
+2 It is difficult for the camera to see where the user's eyes are looking.（利用者の目がどこを見ているのかを、カメラがとらえるのが難しい。）
+3 The Tobii Group was worried that users would accidentally break their computers.（トビー・グループは、利用者がうっかりコンピューターをこわしてしまうのではないかと心配した。）
+4 The Tobii Group wanted to find a faster way to open programs that people wanted to use.（トビー・グループは、人々が使いたいプログラムを（今までより）速く開く方法を見つけたかった。）
 【考え方】
 クリックの方法については、第2段落に書かれています。There are two ways for users to click on what they would like to use.（利用者が使いたいものをクリックする方法は2つある）とあり、そのあとに1つ目と2つ目の方法が説明されています。
 1つ目の方法は One way is just to stare at a part of the screen until it is clicked.（1つの方法は、画面のある部分を、それがクリックされるまでじっと見つめるだけというものだ）です。stare at ～ は「～をじっと見つめる」という意味です。

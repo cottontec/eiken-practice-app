@@ -7,10 +7,10 @@ reviewed: yes
 【和訳】
 ハワイは、世界中からの観光客に人気のある（行き先）です。人々はくつろいだり、美しいビーチを楽しんだりするためにそこへ行きます。
 （選択肢の意味）
-1 性格、登場人物
-2 行き先、目的地
-3 記念品、おみやげ
-4 世代
+1 character：性格、登場人物
+2 destination：行き先、目的地
+3 souvenir：記念品、おみやげ
+4 generation：世代
 【考え方】
 空所を含む文は Hawaii is a popular (　) for tourists from around the world.（ハワイは世界中からの観光客にとって人気のある〜だ）です。
 次の文に They go there to relax and enjoy the beautiful beaches.（彼らはくつろいで美しいビーチを楽しむためにそこへ行く）とあります。They は観光客、there はハワイのことです。つまりハワイは、観光客が「行く場所」として説明されています。

@@ -7,10 +7,10 @@ reviewed: yes
 【和訳】
 その2人の指導者の会談は、報道機関で大きく報じられました。2人が握手している写真が、ほとんどの主要な新聞の第1面に載りました。
 （選択肢の意味）
-1 資源
-2 報道機関、新聞・雑誌
-3 経済
-4 要因
+1 resource：資源
+2 press：報道機関、新聞・雑誌
+3 economy：経済
+4 factor：要因
 【考え方】
 1文目は The meeting between the two leaders was widely reported in the (　).（2人の指導者の会談は、～で広く報じられた）です。reported は「報道された、報じられた」という意味です。「何で報じられたのか」を考えます。
 2文目を見ると、Photographs of them shaking hands were on the front page of most major newspapers.（2人が握手している写真が、ほとんどの主要な新聞の第1面に載った）とあります。報じたのは新聞などのニュースを伝える側だと分かります。

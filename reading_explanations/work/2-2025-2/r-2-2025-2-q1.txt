@@ -4,12 +4,15 @@ answerText: govern
 ---
 【正解】2 govern（治める、統治する）
 【和訳】
+（英文）
+When King Otto died, his son was still too young to ［govern］ the kingdom. King Otto's brother looked after the country until the young prince was old enough to rule.
+（訳）
 オットー王が亡くなったとき、彼の息子はまだ幼すぎて、王国を（治める）ことができませんでした。若い王子が国を治められる年齢になるまで、オットー王の兄（弟）が国の面倒を見ました。
 （選択肢の意味）
-1 重なる、重複する
-2 治める、統治する
-3 許す
-4 逮捕する
+1 overlap：重なる、重複する
+2 govern：治める、統治する
+3 forgive：許す
+4 arrest：逮捕する
 【考え方】
 空所の前の too young to ～ に注目します。too ～ to ... は「…するには～すぎる、～すぎて…できない」という意味です。つまり、王子は「幼すぎて王国を（　）できなかった」ということです。
 次に、うしろの文を見ます。King Otto's brother looked after the country（オットー王の兄（弟）が国の面倒を見た）とあり、それは until the young prince was old enough to rule（若い王子が国を治められる年齢になるまで）のことでした。rule は「（国を）治める、支配する」という意味です。

@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：ロビン・ハンソンの考えでは、自動化された労働へ大きく移っていくことの結果として考えられることの一つは何か。
-1 労働市場の混乱によって、人々が投資から得るお金が減る。
-2 ロボットが多くの分野で人間に取って代わる一方で、差し引きで仕事がとても大きく増えるため、失業がなくなる。
-3 人々は機械知能を使って自分の技能を高め、それによって労働市場での自分の価値を保つ。
-4 一部の種類の仕事は価値が下がるが、ある特定の専門的な分野では賃金が大きく上がる。
+1 Trouble in labor markets will result in people making less money from investments.（労働市場の混乱によって、人々が投資から得るお金が減る。）
+2 While robots will replace humans in many fields, the enormous net increase in jobs will eliminate unemployment.（ロボットが多くの分野で人間に取って代わる一方で、差し引きで仕事がとても大きく増えるため、失業がなくなる。）
+3 People will use machine intelligence to enhance their own skills, thereby preserving their value in the labor market.（人々は機械知能を使って自分の技能を高め、それによって労働市場での自分の価値を保つ。）
+4 Although some kinds of work will be worth less, certain specialized areas will see a large rise in wages.（一部の種類の仕事は価値が下がるが、ある特定の専門的な分野では賃金が大きく上がる。）
 【考え方】
 ハンソンの考えが書かれているのは第2段落です。設問の a broad shift to automated labor は「自動化された労働への大きな移行」、つまり人の仕事を機械がするようになることです。
 第2段落に、While machines would make the value of some work drop significantly, Hanson believes pay for jobs that require human intelligence would increase greatly.（機械によって一部の仕事の価値は大きく下がるだろうが、人間の知能を必要とする仕事の賃金は大幅に上がるだろう、とハンソンは考えている）とあります。この While は「～だが、～の一方で」と、2つの内容を比べる働きをしています。pay は「賃金、給料」という意味です。

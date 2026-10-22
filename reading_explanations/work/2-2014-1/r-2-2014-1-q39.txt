@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：カリフォルニア大学ロサンゼルス校の研究は、BBCラボUKの研究とどのような点で違っていましたか。
-1 BBCラボUKの研究よりも、ずっと多くの参加者がいた。
-2 脳トレーニングのプログラムが、より若い人々に与える効果を調べた。
-3 数学や言語が得意な人々の記憶力をテストした。
-4 脳トレーニングのプログラムが、場合によっては脳の力の助けになることを示した。
+1 It had many more participants than the BBC Lab UK study did.（BBCラボUKの研究よりも、ずっと多くの参加者がいた。）
+2 It investigated the effects of brain-training programs on younger people.（脳トレーニングのプログラムが、より若い人々に与える効果を調べた。）
+3 It tested the memories of people who are good at math and languages.（数学や言語が得意な人々の記憶力をテストした。）
+4 It showed that brain-training programs help brainpower in some cases.（脳トレーニングのプログラムが、場合によっては脳の力の助けになることを示した。）
 【考え方】
 2つの研究の結果を比べます。
 BBCラボUKの研究（第2段落）の結論は、their overall brainpower did not increase（参加者の全体的な脳の力は高まらなかった）でした。

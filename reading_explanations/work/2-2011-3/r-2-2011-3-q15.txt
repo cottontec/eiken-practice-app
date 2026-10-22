@@ -8,10 +8,10 @@ reviewed: yes
 A：一晩200ドルだって！　ホテルにしては高いみたいだね。
 B：実は、料金に2食がふくまれているということを考えに入れれば、かなり安いんだよ。
 （選択肢の意味）
-1 外見、出現
-2 経験
-3 考慮、勘定、説明
-4 輸出
+1 appearance：外見、出現
+2 experience：経験
+3 account：考慮、勘定、説明
+4 export：輸出
 【考え方】
 Aは「一晩200ドルはホテルにしては高い」と言っています。Bは Actually, it's pretty cheap（実は、かなり安い）と反対の意見を述べ、その理由を if 以下で説明しています。
 if you take into (　) the fact that the price includes two meals の部分を見ます。the fact that ～ は「～という事実」で、その中身は「料金に2食がふくまれている」です。

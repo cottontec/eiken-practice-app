@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：BBCラボUKが行った研究の目的は何でしたか。
-1 特定の参加者の脳の力が、なぜ高まらなかったのかを見つけるため。
-2 脳トレーニングのプログラムが実際にどれくらい効果があるのかを、科学的に調べるため。
-3 どの年齢層が、さまざまな頭の練習をより得意としているのかを明らかにするため。
-4 人々の考える力を助けるために、コンピューターを使う新しい方法を開発するため。
+1 To discover why the brainpower of certain participants did not increase.（特定の参加者の脳の力が、なぜ高まらなかったのかを見つけるため。）
+2 To test scientifically how effective brain-training programs actually are.（脳トレーニングのプログラムが実際にどれくらい効果があるのかを、科学的に調べるため。）
+3 To find out which age groups are better at different mental exercises.（どの年齢層が、さまざまな頭の練習をより得意としているのかを明らかにするため。）
+4 To develop a new way of using computers to help people's thinking skills.（人々の考える力を助けるために、コンピューターを使う新しい方法を開発するため。）
 【考え方】
 BBCラボUKの研究については、第2段落に書かれています。
 最初の文は Until recently, there has been a lack of proper scientific research into the effectiveness of these programs.（最近まで、これらのプログラムの効果について、きちんとした科学的な研究が足りなかった）です。lack は「不足」、effectiveness は「効果、有効性」です。

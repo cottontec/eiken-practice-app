@@ -7,10 +7,10 @@ reviewed: yes
 【和訳】
 ジャスティンは、そのデータベースの事業を引き受けることに同意したとき、それを完成させるのに3年以上もかかるとは思いもしませんでした。
 （選択肢の意味）
-1 危険にさらす
-2 引き受ける
-3 いらいらさせる
-4 映す、反映する
+1 endanger：危険にさらす
+2 undertake：引き受ける
+3 annoy：いらいらさせる
+4 reflect：映す、反映する
 【考え方】
 前半は When Justin agreed to (　) the database project（ジャスティンがデータベースの事業を～することに同意したとき）です。project は「事業、計画、仕事のまとまり」のことです。
 後半は he never guessed that it would take over three years to complete（それを完成させるのに3年以上かかるとは、まったく思わなかった）です。つまり、ジャスティンはその仕事に取り組み、完成までやりとげる立場になったことが分かります。

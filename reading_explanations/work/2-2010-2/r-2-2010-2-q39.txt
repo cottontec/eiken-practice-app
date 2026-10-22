@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：S&Vテクノロジーズの機器は
-1 以前は治すことのできなかった動物を助けることを可能にした。
-2 アニマル・ヘルス・トラストという慈善団体によって中国で製造されている。
-3 カリフォルニアのアシカの群れが海に放されることを可能にした。
-4 ある種類の動物が新しい芸を覚えるのを助けるために使うことができる。
+1 has made it possible to help animals that previously could not be cured.（以前は治すことのできなかった動物を助けることを可能にした。）
+2 is being produced in China by a charity called the Animal Health Trust.（アニマル・ヘルス・トラストという慈善団体によって中国で製造されている。）
+3 allowed a group of sea lions in California to be set free in the ocean.（カリフォルニアのアシカの群れが海に放されることを可能にした。）
+4 can be used to help certain kinds of animals learn new tricks.（ある種類の動物が新しい芸を覚えるのを助けるために使うことができる。）
 【考え方】
 第3段落に、この会社の機器が使われた例が2つ書かれています。
 1つ目は、アニマル・ヘルス・トラストが中国へ獣医を送り、目に問題のあるクマの群れを治療した例です。The veterinarians later said that without the new portable equipment, it would have been impossible to cure these bears.（獣医たちは後に、新しい持ち運びできる機器がなければ、これらのクマを治すことは不可能だっただろうと語った）とあります。without ～, it would have been impossible は「～がなければ不可能だっただろう」という意味です。

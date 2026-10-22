@@ -5,11 +5,14 @@ reviewed: yes
 ---
 【正解】4 Those（those who ～ で「～する人々」）
 【和訳】
+（英文）
+After the smartphones that P-Tech designed had problems, the company decided to give refunds only to people with receipts. ［Those］ who did not have receipts were unhappy.
+（訳）
 P-Tech社が設計したスマートフォンに問題が起きたあと、その会社は、レシートを持っている人にだけ返金することにしました。レシートを持っていなかった（人々）は不満でした。
 （選択肢の意味）
-1 これ
-2 あれ、それ
-3 これら
+1 This：これ
+2 That：あれ、それ
+3 These：これら
 4 それら、（those who ～ で）～する人々
 【考え方】
 空所のある文は (　) who did not have receipts were unhappy. です。空所のすぐ後ろに who did not have receipts（レシートを持っていなかった）があります。who は、前の語に「どんな人か」という説明を付け足す働きをする語です。

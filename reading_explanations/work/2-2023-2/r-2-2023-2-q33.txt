@@ -8,10 +8,10 @@ answerText: could only get a small amount of purple straw wheat seeds.
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：パープルストロー小麦を育ててきた研究者たちは、
-1 パープルストロー小麦の種子を少しの量しか手に入れることができなかった。
-2 アメリカのいくつかの異なる場所でそれを試験した。
-3 その小麦から作った小麦粉を、料理人、パン職人、ウイスキーの製造者に提供した。
-4 売るのに十分な量をどれほど早く生産できたかに驚いた。
+1 could only get a small amount of purple straw wheat seeds.（パープルストロー小麦の種子を少しの量しか手に入れることができなかった。）
+2 tested it in several different locations in the United States.（アメリカのいくつかの異なる場所でそれを試験した。）
+3 offered flour made from the wheat to chefs, bakers, and whiskey makers.（その小麦から作った小麦粉を、料理人、パン職人、ウイスキーの製造者に提供した。）
+4 were surprised at how quickly they were able to produce enough to sell.（売るのに十分な量をどれほど早く生産できたかに驚いた。）
 【考え方】
 研究者たちの話は第4段落に書かれています。
 However, its seeds were not easy to obtain because there were only a few sources.（しかし、入手先がほんの少ししかなかったため、その種子を手に入れるのは簡単ではなかった）

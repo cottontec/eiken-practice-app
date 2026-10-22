@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：遺伝子指紋法は、カナダの警察に何を示しましたか。
-1 上着に付いていた白い毛が、殺人の被害者のものだったということ。
-2 犯行現場で見つかった上着が、殺人犯の父親のものだったということ。
-3 殺人の疑いをかけていた男が、犯行現場にいたということ。
-4 ある男が、人を殺した罪でまちがって刑務所に送られていたということ。
+1 That the white hairs found on a jacket belonged to the victim of a murder.（上着に付いていた白い毛が、殺人の被害者のものだったということ。）
+2 That the jacket found at the crime scene belonged to the murderer's father.（犯行現場で見つかった上着が、殺人犯の父親のものだったということ。）
+3 That a man they suspected of murder had been at the scene of the crime.（殺人の疑いをかけていた男が、犯行現場にいたということ。）
+4 That a man had been wrongly sent to prison for murdering someone.（ある男が、人を殺した罪でまちがって刑務所に送られていたということ。）
 【考え方】
 カナダの話は第2段落にあります。順番に確かめます。
 The police there suspected a man of carrying out a murder, but they had no evidence that he was present at the crime.（カナダの警察は、ある男が殺人を犯したと疑っていたが、その男が犯行の場にいたという証拠がなかった）とあります。suspect ＋ 人 ＋ of ～ は「人に～の疑いをかける」、evidence は「証拠」です。

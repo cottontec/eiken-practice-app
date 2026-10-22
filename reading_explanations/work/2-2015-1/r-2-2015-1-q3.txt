@@ -5,13 +5,17 @@ reviewed: yes
 ---
 【正解】2 refund（返金、払い戻し）
 【和訳】
+（英文）
+A: I bought this software last week, but it doesn't work on my computer. Can I get a ［refund］?
+B: Unfortunately, we can't give you your money back. However, we can exchange it for another product.
+（訳）
 A：先週このソフトウェアを買ったのですが、私のコンピューターでは動きません。返金してもらえますか。
 B：あいにく、お金をお返しすることはできません。ですが、ほかの製品と交換することはできます。
 （選択肢の意味）
-1 免許、使用許可
-2 返金、払い戻し
-3 利益、もうけ
-4 予算
+1 license：免許、使用許可
+2 refund：返金、払い戻し
+3 profit：利益、もうけ
+4 budget：予算
 【考え方】
 Aは、買ったソフトウェアが自分のコンピューターで動かないと言い、Can I get a (　)?（～をもらえますか）とたずねています。
 Bの答えに注目します。Unfortunately, we can't give you your money back.（あいにく、お金をお返しすることはできません）と言っています。give ～ one's money back は「～にお金を返す」という意味です。Bがお金を返せないと答えているので、Aは「お金を返してほしい」と頼んだことが分かります。

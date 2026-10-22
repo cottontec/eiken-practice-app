@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】2 exhibit（展示する）
 【和訳】
+（英文）
+Although the art gallery wanted to ［exhibit］ the painting right away, they had to wait until the owner gave his permission before they could display it.
+（訳）
 その美術館はすぐにその絵を（展示し）たかったのですが、それを展示できるようになる前に、持ち主が許可を出すまで待たなければなりませんでした。
 （選択肢の意味）
-1 組み合わせる
-2 展示する
-3 まねる
-4 乗り越える、打ち勝つ
+1 combine：組み合わせる
+2 exhibit：展示する
+3 imitate：まねる
+4 overcome：乗り越える、打ち勝つ
 【考え方】
 文の後半の before they could display it（それを展示できるようになる前に）に注目します。display は「展示する、並べて見せる」で、it は the painting（その絵）を指します。
 文の前半は Although（～だけれども）で始まっています。「美術館はすぐにその絵を（　）したかったけれども、持ち主が許可を出すまで待たなければならなかった」という形です。

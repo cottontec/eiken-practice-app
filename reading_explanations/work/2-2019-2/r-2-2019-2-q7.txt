@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】2 inspired（刺激を受けて、やる気になって）
 【和訳】
+（英文）
+After watching the Olympic marathon, Karen was ［inspired］ to start jogging. She now runs 5 kilometers a day.
+（訳）
 オリンピックのマラソンを見て、カレンは（刺激を受け、）ジョギングを始める気になりました。彼女は今、1日に5キロメートル走っています。
 （選択肢の意味）
-1 作られた
-2 刺激を受けた、やる気にさせられた
-3 とても驚いた
-4 じゃまをされた、心をかき乱された
+1 created：作られた
+2 inspired：刺激を受けた、やる気にさせられた
+3 astonished：とても驚いた
+4 disturbed：じゃまをされた、心をかき乱された
 【考え方】
 まず流れを確かめます。After watching the Olympic marathon（オリンピックのマラソンを見たあと）に、カレンはジョギングを始め、She now runs 5 kilometers a day.（今は1日に5キロメートル走っている）とあります。マラソンを見たことがきっかけで、自分も走り始めたと分かります。
 空所の形は was ( ) to start jogging です。be inspired to ～ は「（何かに）刺激を受けて～する気になる」という意味です。inspire はもともと「（人に）やる気を起こさせる」という意味の動詞で、was inspired と受け身（「～される」の形）にすると「やる気にさせられた」となります。

@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：サンドキャッスル・ワームは…
-1 敵から身を守る一種の酸を作り出す。
-2 とても固い殻を持っているので、科学者にとって興味深い。
-3 自分の住みかを強くするために、水面から空気を取り入れる。
-4 海の中の材料で自分で作った住みかに住んでいる。
+1 creates a kind of acid that protects it from enemies.（敵から身を守る一種の酸を作り出す。）
+2 is interesting to scientists because it has a very hard shell.（とても固い殻を持っているので、科学者にとって興味深い。）
+3 takes air from the water's surface to make its home stronger.（自分の住みかを強くするために、水面から空気を取り入れる。）
+4 lives in a shelter that it makes from materials in the ocean.（海の中の材料で自分で作った住みかに住んでいる。）
 【考え方】
 サンドキャッスル・ワームは第3段落に出てきます。
 The worm gets its name from the fact that it builds a shelter out of sand and pieces of shell.（この虫の名前は、砂と貝がらのかけらで住みかを作るということからきている）とあります。build ～ out of … は「…で～を作る」という意味です。

@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：プラネタリー・リソーシズが、小惑星を採掘することでお金をもうけられると考えているのはなぜですか。
-1 1つの小惑星にふくまれる希少な金属の量が、非常に多い可能性がある。
-2 数年後には、宇宙旅行にお金を払う必要がなくなる。
-3 科学者たちが、見つけた金属の質をよくする方法を発見した。
-4 その計画はほとんどの人にとって非常に現実的でないように思えるので、ほかのだれも先にそれを試そうとしないだろう。
+1 The amount of rare metals that one asteroid contains could be very large.（1つの小惑星にふくまれる希少な金属の量が、非常に多い可能性がある。）
+2 It will no longer have to pay for space travel in a few years.（数年後には、宇宙旅行にお金を払う必要がなくなる。）
+3 Scientists have discovered a way to make the quality of the metals they find better.（科学者たちが、見つけた金属の質をよくする方法を発見した。）
+4 Its plan seems so unrealistic to most people that no one else will try it first.（その計画はほとんどの人にとって非常に現実的でないように思えるので、ほかのだれも先にそれを試そうとしないだろう。）
 【考え方】
 設問の make money（お金をもうける）と同じような意味の言葉を本文で探します。第4段落の初めに Some scientists doubt that the company will be able to reduce the cost of space travel enough to make a profit on the metals it finds.（この会社が、見つけた金属で利益を出せるほど宇宙旅行の費用を下げられるかどうか、疑わしいと考えている科学者もいる）とあります。make a profit は「利益を出す」です。
 これに対して、次の文が however（しかし）で始まり、会社側の考えを述べています。A spokesman for Planetary Resources, however, points out that a single 500-meter asteroid could contain more platinum than has been mined on Earth in its whole history.（しかし、プラネタリー・リソーシズの広報担当者は、たった1つの500メートルの小惑星に、地球上で全歴史を通じて採掘されてきたよりも多くのプラチナがふくまれている可能性がある、と指摘している）とあります。

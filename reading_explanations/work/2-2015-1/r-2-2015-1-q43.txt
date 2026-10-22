@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：衣料品の製造がアメリカに戻ってきている理由の1つは何ですか。
-1 海外で作られた服を輸入するのに必要な燃料の価格が上がった。
-2 人々は、服は値段が高いほど品質がよいと感じている。
-3 アジアで作られた服は、アメリカ人のファッションの好みに合わない。
-4 南アメリカの工場の労働者は、ひどい扱いを受けている。
+1 The price of fuel needed to import clothes made abroad has gone up.（海外で作られた服を輸入するのに必要な燃料の価格が上がった。）
+2 People feel that the quality of clothing is better if it is more expensive.（人々は、服は値段が高いほど品質がよいと感じている。）
+3 The clothing made in Asia does not match American tastes in fashion.（アジアで作られた服は、アメリカ人のファッションの好みに合わない。）
+4 Workers in factories in South America are being treated badly.（南アメリカの工場の労働者は、ひどい扱いを受けている。）
 【考え方】
 衣料品産業（the clothing industry）の話は、第3段落に書かれています。工場が戻ってきている理由として、3つのことが順に挙げられています。
 1つ目：Since then, however, wages have risen in these countries.（しかし、それ以来、これらの国々では賃金が上がってきた）

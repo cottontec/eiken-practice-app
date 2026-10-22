@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：V2Xシステムと以前のシステムの違いの1つは何ですか。
-1 事故のせいで交通量が多すぎる場合に、どこで曲がればよいかを運転者に教える。
-2 運転者が見ることのできない車について、運転者に情報を伝える。
-3 運転者が角の向こうにあるものを見られるように、特別なカメラを使う。
-4 運転者が走っている道路にある一時停止の標識の位置を、運転者に示す。
+1 It tells drivers where to turn if there is too much traffic caused by an accident.（事故のせいで交通量が多すぎる場合に、どこで曲がればよいかを運転者に教える。）
+2 It gives information to drivers about cars that they are not able to see.（運転者が見ることのできない車について、運転者に情報を伝える。）
+3 It uses a special camera to help drivers see things that are around corners.（運転者が角の向こうにあるものを見られるように、特別なカメラを使う。）
+4 It shows drivers the locations of stop signs on the street where they are driving.（運転者が走っている道路にある一時停止の標識の位置を、運転者に示す。）
 【考え方】
 設問の earlier systems（以前のシステム）と同じ言葉を本文で探します。第3段落の最後に Unlike earlier systems, which used cameras, this system can warn you about cars that you cannot actually see.（カメラを使っていた以前のシステムとは違って、このシステムは、あなたが実際には見ることのできない車について警告することができる）とあります。unlike ～ は「～とは違って」です。
 カメラは見えるものしか写せませんが、V2Xは車どうしの信号を使うので、見えない車のことも分かる、という違いです。

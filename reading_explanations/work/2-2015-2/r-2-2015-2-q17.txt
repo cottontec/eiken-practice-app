@@ -5,13 +5,17 @@ reviewed: yes
 ---
 【正解】1 bottom line（いちばん大事な点、要するに）
 【和訳】
+（英文）
+A: Mr. Thompson, I asked you about getting new computers for my department. Have you made a decision?
+B: Jim, I know the computers are very old, but the ［bottom line］ is that we just don't have the money.
+（訳）
 A：トンプソンさん、私の部署に新しいコンピューターを入れることについてご相談しました。決めていただけましたか。
 B：ジム、コンピューターがとても古いのは分かっている。でも、いちばん大事な点は、とにかくお金がないということなんだ。
 （選択肢の意味）
-1 いちばん大事な点、結論
-2 最終段階
-3 副作用
-4 最善の方法
+1 bottom line：いちばん大事な点、結論
+2 final stage：最終段階
+3 side effect：副作用
+4 best way：最善の方法
 【考え方】
 Aは、新しいコンピューターについて Have you made a decision?（決めましたか）とたずねています。department は「部署」です。
 Bは I know the computers are very old, but ～（コンピューターがとても古いのは分かっているが、～）と答えています。but のあとで、新しいコンピューターを買えない理由を言おうとしていることが分かります。その理由が we just don't have the money（とにかくお金がない）です。just はここでは「とにかく、まったく」と意味を強めています。

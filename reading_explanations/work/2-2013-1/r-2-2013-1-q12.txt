@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】4 what is more（さらに、その上）
 【和訳】
+（英文）
+Harold won a big dance contest last night, and ［what is more］, his performance is going to be shown on TV next week.
+（訳）
 ハロルドは昨夜、大きなダンスコンテストで優勝しました。さらに、彼の演技は来週テレビで放送されることになっています。
 （選択肢の意味）
-1 念のため
-2 それどころか、反対に
-3 いつも、常に
-4 さらに、その上
+1 just in case：念のため
+2 on the contrary：それどころか、反対に
+3 at all times：いつも、常に
+4 what is more：さらに、その上
 【考え方】
 空所の前と後の内容を比べます。
 前：Harold won a big dance contest last night（ハロルドは昨夜、大きなダンスコンテストで優勝した）

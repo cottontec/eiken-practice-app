@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：大ピラミッドについての現代の専門家は（　）。
-1 それはかつて人々が思っていたほど高くないと考えている
-2 それは4,000年の期間をかけて建てられたと考えている
-3 それがどのように建設されたのかを、まだ説明できていない
-4 クフ王がなぜそれを作らせたかったのか、はっきり分かっていない
+1 believe it is not as tall as people once thought.（それはかつて人々が思っていたほど高くないと考えている）
+2 believe it was built over a period of 4,000 years.（それは4,000年の期間をかけて建てられたと考えている）
+3 are still unable to explain how it was constructed.（それがどのように建設されたのかを、まだ説明できていない）
+4 are not sure why the pharaoh Khufu wanted it made.（クフ王がなぜそれを作らせたかったのか、はっきり分かっていない）
 【考え方】
 設問の Modern experts（現代の専門家）という言葉を本文で探すと、第1段落の後半に出てきます。
 Although modern experts have learned much about this huge structure, one obvious question has not yet been answered.（現代の専門家はこの巨大な建造物について多くのことを知ったが、だれもが思いつくある疑問にはまだ答えが出ていない）とあります。Although は「～だけれども」、has not yet been answered は「まだ答えられていない」です。

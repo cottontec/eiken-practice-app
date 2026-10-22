@@ -4,12 +4,15 @@ answerText: creature
 ---
 【正解】1 creature（生き物）
 【和訳】
+（英文）
+Last week, Shelly went to see a horror movie. It was about a strange ［creature］ that was half shark and half man.
+（訳）
 先週、シェリーはホラー映画を見に行きました。それは、半分がサメで半分が人間という、奇妙な（生き物）についての映画でした。
 （選択肢の意味）
-1 生き物
-2 鉱物
-3 小包、包み
-4 楽器、器具
+1 creature：生き物
+2 mineral：鉱物
+3 package：小包、包み
+4 instrument：楽器、器具
 【考え方】
 空所のあとの that was half shark and half man（半分がサメで、半分が人間だった）に注目します。この that は、前の名詞に説明を付け足す働きをしています。つまり、空所に入る名詞は「半分がサメで半分が人間」というものです。
 サメも人間も生きているものです。その2つが半分ずつ合わさったものは、「奇妙な生き物」と考えるのが自然です。creature は「生き物、（人間以外の）動物」という意味で、ホラー映画やおとぎ話に出てくる不思議な生き物を表すときにもよく使われます。ですから、1が正解です。

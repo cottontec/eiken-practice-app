@@ -8,10 +8,10 @@ answerText: It wants to make the country famous for producing high-quality cloth
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：なぜバングラデシュ政府は、イスラムの取り組みを支援しているのですか。
-1 政府は、その国を高品質の布の生産で有名にしたいと考えている。
-2 政府は、彼の計画がバングラデシュの人々に新しい仕事を生み出すと信じている。
-3 追加の資金援助を受けなければ、彼がやめてしまうから。
-4 彼が安い服をもっと簡単に作る方法を見つけるかもしれないから。
+1 It wants to make the country famous for producing high-quality cloth.（政府は、その国を高品質の布の生産で有名にしたいと考えている。）
+2 It believes that his project will create new jobs for Bangladeshis.（政府は、彼の計画がバングラデシュの人々に新しい仕事を生み出すと信じている。）
+3 Because he will quit unless he gets additional financial support.（追加の資金援助を受けなければ、彼がやめてしまうから。）
+4 Because he may discover a way to produce cheap clothes more easily.（彼が安い服をもっと簡単に作る方法を見つけるかもしれないから。）
 【考え方】
 第4段落の最後の文に、政府が支援する理由が書かれています。
 The government of Bangladesh is supporting him because it wants the country to be known as the producer of the finest cloth in the world.（バングラデシュ政府は彼を支援している。この国が世界で最も上質な布の生産国として知られるようになってほしいと考えているからだ）

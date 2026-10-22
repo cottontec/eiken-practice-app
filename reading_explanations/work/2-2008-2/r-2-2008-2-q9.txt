@@ -7,10 +7,10 @@ reviewed: yes
 【和訳】
 ジェーンは、自分の部屋に絵をかけるのに長い時間をかけました。彼女はその絵を、ちょうどぴったりの場所にかけたかったのです。
 （選択肢の意味）
-1 たいていは、主に
-2 しばしば、たびたび
-3 すぐに
-4 ちょうど、正確に
+1 mostly：たいていは、主に
+2 frequently：しばしば、たびたび
+3 immediately：すぐに
+4 exactly：ちょうど、正確に
 【考え方】
 1文目の Jane spent a long time hanging the picture（ジェーンは絵をかけるのに長い時間をかけた）がヒントです。spend 時間 ～ing で「～するのに時間を使う」です。
 2文目はその理由で、She wanted to put it in (　) the right place.（彼女はそれを（　）正しい場所に置きたかった）とあります。it は絵です。

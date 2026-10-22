@@ -4,12 +4,15 @@ answerText: emperor
 ---
 【正解】1 emperor（皇帝）
 【和訳】
+（英文）
+Many years ago, France was ruled by an ［emperor］. However, the country is now led by a president.
+（訳）
 何年も前、フランスは（皇帝）によって治められていました。しかし今、その国は大統領によって率いられています。
 （選択肢の意味）
-1 皇帝
-2 意見
-3 要素
-4 操作、手術、運営
+1 emperor：皇帝
+2 opinion：意見
+3 element：要素
+4 operation：操作、手術、運営
 【考え方】
 空所の前は France was ruled by an (　)（フランスは（　）によって治められていた）です。rule は「（国などを）治める、支配する」という意味で、was ruled by ～ は「～によって治められていた」という受け身（「～される」という形）です。国を治めるのは、ふつうは王や皇帝のような人です。
 2文目に However, the country is now led by a president.（しかし今、その国は大統領によって率いられている）とあります。However（しかし）で、「昔」と「今」を比べています。今は大統領が国を率いているので、昔は大統領とは別の立場の人が国を治めていたと考えられます。

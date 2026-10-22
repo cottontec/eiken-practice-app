@@ -5,13 +5,17 @@ reviewed: yes
 ---
 【正解】1 confused（混乱させた）
 【和訳】
+（英文）
+A: Was Bob able to help you with your science homework?
+B: Actually, he just ［confused］ me. I couldn't understand his complicated explanations.
+（訳）
 A：ボブに理科の宿題を手伝ってもらえた？
 B：実は、彼は私を（混乱させた）だけだったよ。彼の複雑な説明が理解できなかったんだ。
 （選択肢の意味）
-1 混乱させた
-2 昇進させた、（物事を）進めた
-3 逮捕した
-4 （場所を）見つけ出した
+1 confused：混乱させた
+2 promoted：昇進させた、（物事を）進めた
+3 arrested：逮捕した
+4 located：（場所を）見つけ出した
 【考え方】
 Bの2つ目の文 I couldn't understand his complicated explanations.（彼の複雑な説明が理解できなかった）に注目します。complicated は「複雑な、ややこしい」です。
 Aは「ボブは宿題を手伝ってくれたか」とたずねています。Bは Actually（実は）と答え始めています。Actually は、相手が思っていることとちがう事実を言うときによく使います。つまり、ボブは役に立たなかった、という答えになると考えられます。

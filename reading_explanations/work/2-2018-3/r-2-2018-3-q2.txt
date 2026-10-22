@@ -5,13 +5,17 @@ reviewed: yes
 ---
 【正解】3 illegal（違法の、法律で禁じられた）
 【和訳】
+（英文）
+A: I'm sorry, ma'am, but it's ［illegal］ to park here. Your car is blocking the entrance to the fire station.
+B: I see, officer. I'll move it right away.
+（訳）
 A：申し訳ありませんが（ma'am は女性へのていねいな呼びかけの言葉です）、ここに駐車するのは（違法）です。あなたの車が消防署の入り口をふさいでいますよ。
 B：分かりました、おまわりさん。すぐに車を動かします。
 （選択肢の意味）
-1 よくある、ふつうの
-2 個人的な、私的な
-3 違法の
-4 複雑な
+1 common：よくある、ふつうの
+2 private：個人的な、私的な
+3 illegal：違法の
+4 complex：複雑な
 【考え方】
 B が A を officer（おまわりさん）と呼んでいるので、A は警察官だと分かります。
 A は I'm sorry, ma'am, but ～（申し訳ありませんが～）と、相手にとって都合の悪いことを伝えています。そのあとで Your car is blocking the entrance to the fire station.（あなたの車が消防署の入り口をふさいでいる）と、問題になっている理由を述べています。消防署の入り口がふさがれていると、消防車の出入りのじゃまになると考えられます。

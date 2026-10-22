@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：1990年代後半から存在している技術によって、（　）ができるようになった。
-1 ICANNが、インターネット上の情報の正確さを試すこと
-2 ICANNが、ローマ字のドメイン名の不足を解消すること
-3 いくつかの国が、すべて自分たちの文字でドメイン名を作ること
-4 一部のインターネット利用者が、ドメイン名なしでウェブサイトを作ること
+1 ICANN to test the accuracy of the information on the Internet.（ICANNが、インターネット上の情報の正確さを試すこと）
+2 ICANN to end the shortage of domain names in the Roman alphabet.（ICANNが、ローマ字のドメイン名の不足を解消すること）
+3 some countries to create domain names completely in their own characters.（いくつかの国が、すべて自分たちの文字でドメイン名を作ること）
+4 some Internet users to develop websites without domain names.（一部のインターネット利用者が、ドメイン名なしでウェブサイトを作ること）
 【考え方】
 設問の since the late 1990s（1990年代後半から）を手がかりに、第4段落を見ます。
 The technology for creating such names has actually existed since the late 1990s.（そのような名前を作るための技術は、実は1990年代後半から存在していた）とあります。such names（そのような名前）は、前の段落の「ドメイン名全体を自分たちの文字体系で書いた名前」のことです。

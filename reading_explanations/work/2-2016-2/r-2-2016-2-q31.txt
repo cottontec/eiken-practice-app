@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：1994年、バチカンは
-1 ミケランジェロによる絵画を、2,000人の観光客だけに見ることを許した。
-2 500年前の壁画を見てもらうために、1日に600万人の訪問者を招いた。
-3 訪問者を（それまでより）快適にするために、空調設備を取りつけた。
-4 空調設備を購入することで、絵画への害を減らそうとした。
+1 allowed only 2,000 tourists to look at its paintings by Michelangelo.（ミケランジェロによる絵画を、2,000人の観光客だけに見ることを許した。）
+2 invited 6 million visitors to see its 500-year-old wall paintings on one day.（500年前の壁画を見てもらうために、1日に600万人の訪問者を招いた。）
+3 installed an air-conditioning system in order to make visitors more comfortable.（訪問者を（それまでより）快適にするために、空調設備を取りつけた。）
+4 tried to reduce damage to its paintings by buying an air-conditioning system.（空調設備を購入することで、絵画への害を減らそうとした。）
 【考え方】
 設問は1994年のバチカンについてです。第2段落で 1994 という年を探します。
 In 1994, after noticing that the visitors' breath was damaging the paintings, the Vatican purchased an expensive air-conditioning system to protect them.（1994年、訪問者の息が絵画をいためていることに気づいたあと、バチカンは絵画を守るために高価な空調設備を購入した）

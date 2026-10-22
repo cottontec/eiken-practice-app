@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】2 less（（no less than ～で）～も）
 【和訳】
+（英文）
+Chris has been training hard for the city soccer championship. He runs no ［less］ than 5 kilometers and spends over an hour exercising in the gym every day.
+（訳）
 クリスは、市のサッカー選手権大会に向けて、ずっと一生懸命トレーニングをしています。彼は毎日、5キロメートル（も）走り、ジムで1時間以上運動しています。
 （選択肢の意味）
-1 最も少ない
-2 より少ない
-3 ただ～だけ
-4 より悪い
+1 least：最も少ない
+2 less：より少ない
+3 only：ただ～だけ
+4 worse：より悪い
 【考え方】
 空所のあとに than（～よりも）があることに注目します。than は、比較級（「より～」を表す形）といっしょに使います。選択肢の中で、than と組み合わせられる比較級は less（より少ない）と worse（より悪い）です。
 次に意味を考えます。1文目の Chris has been training hard（クリスはずっと一生懸命トレーニングをしている）から、クリスはたくさん練習していると分かります。また、spends over an hour exercising in the gym（ジムで1時間以上運動している）も、練習量の多さを表しています。

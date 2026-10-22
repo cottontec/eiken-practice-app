@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：先週、デイビスさんは（　）。
-1 マターソン・インターナショナル社で、上級管理職向けの研修講座を開いた
-2 サラ・フラーに、自分の会社が割引価格で研修講座を提供できると伝えた
-3 マターソン・インターナショナル社の人事部での話し合いに参加した
-4 サラ・フラーの同僚の1人から、2つの研修講座の予約を受けた
+1 held a training course for senior managers at Matterson International.（マターソン・インターナショナル社で、上級管理職向けの研修講座を開いた）
+2 told Sarah Fuller that his company could provide training courses at a reduced price.（サラ・フラーに、自分の会社が割引価格で研修講座を提供できると伝えた）
+3 joined a discussion at Matterson International's Human Resources Department.（マターソン・インターナショナル社の人事部での話し合いに参加した）
+4 accepted a reservation for two training courses from one of Sarah Fuller's co-workers.（サラ・フラーの同僚の1人から、2つの研修講座の予約を受けた）
 【考え方】
 このメールはサラ・フラーさんからデイビスさんにあてたものです。設問は「先週」デイビスさんがしたことなので、last week（先週）という語をさがします。
 メールの最初の文に Thank you for your call last week regarding the courses your company offers.（先週は、貴社が提供している講座についてお電話をいただき、ありがとうございました）とあります。regarding は「～について」という意味です。つまり、デイビスさんは先週、フラーさんに電話をかけました。

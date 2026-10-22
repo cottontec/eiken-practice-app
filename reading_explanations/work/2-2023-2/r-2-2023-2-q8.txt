@@ -4,12 +4,15 @@ answerText: guards
 ---
 【正解】1 guards（見張る、守る）
 【和訳】
+（英文）
+Whenever Keith goes traveling, he ［guards］ his luggage very carefully. He once had a bag stolen on a train, so he always keeps his things where he can see them.
+（訳）
 キースは旅行に出かけるときはいつも、自分の荷物をとても注意深く（見張っています）。彼は以前、電車でかばんを盗まれたことがあり、それでいつも自分の持ち物を目の届く場所に置いています。
 （選択肢の意味）
-1 見張る、守る
-2 彫る、（肉などを）切り分ける
-3 離婚する
-4 加速させる、速める
+1 guards：見張る、守る
+2 carves：彫る、（肉などを）切り分ける
+3 divorces：離婚する
+4 accelerates：加速させる、速める
 【考え方】
 1文目は he (　) his luggage very carefully（彼は自分の荷物をとても注意深く（　））です。荷物を「注意深く」どうするのかを考えます。
 2文目がヒントです。He once had a bag stolen on a train（彼は以前、電車でかばんを盗まれたことがある）とあります。had a bag stolen は「かばんを盗まれた」という意味です。そのため、so he always keeps his things where he can see them（それで、いつも自分の持ち物を見える所に置いている）と続きます。

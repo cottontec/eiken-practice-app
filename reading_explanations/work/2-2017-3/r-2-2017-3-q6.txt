@@ -5,13 +5,17 @@ reviewed: yes
 ---
 【正解】2 ruined（台無しになった）
 【和訳】
+（英文）
+A: Oh no! I just spilled wine on my dress. It's ［ruined］.
+B: That's not so bad. I guess you just need to take it to the cleaner's.
+（訳）
 A：ああ、どうしよう！ドレスにワインをこぼしてしまった。（台無しだ）。
 B：そんなにひどくはないよ。クリーニング店に持っていけばいいだけだと思うよ。
 （選択肢の意味）
-1 溶けた
-2 台無しになった、だめになった
-3 言い争った、主張した
-4 打ち上げられた、開始された
+1 melted：溶けた
+2 ruined：台無しになった、だめになった
+3 argued：言い争った、主張した
+4 launched：打ち上げられた、開始された
 【考え方】
 Aは I just spilled wine on my dress.（ドレスにワインをこぼしてしまった）と言っています。空所のある It's (　). の It は my dress（ドレス）を指しています。
 ワインをこぼしたドレスがどうなったと思ったのかを考えます。ruin は「台無しにする、だめにする」という意味で、It's ruined. は「それ（ドレス）は台無しにされた状態だ」、つまり「台無しになってしまった」という意味です。

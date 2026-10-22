@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】3 device（装置、機器）
 【和訳】
+（英文）
+The scientist invented a ［device］ that can cheaply and quickly measure the amount of pollution in water.
+（訳）
 その科学者は、水の中の汚染（水などが汚れること）の量を、安く、すばやく測ることができる（装置）を発明しました。
 （選択肢の意味）
-1 港
-2 気性、機嫌
-3 装置、機器
-4 伝説
+1 harbor：港
+2 temper：気性、機嫌
+3 device：装置、機器
+4 legend：伝説
 【考え方】
 まず動詞の invented（発明した）に注目します。発明するのは、新しい道具や機械などです。
 次に、空所のあとの that can cheaply and quickly measure the amount of pollution in water（水の中の汚染の量を、安く、すばやく測ることができる）を見ます。that は前の名詞に説明を付け足す働きをする語で、ここでは空所の名詞が「何をするものか」を説明しています。汚染の量を測ることができるのは、測るための道具や機械です。

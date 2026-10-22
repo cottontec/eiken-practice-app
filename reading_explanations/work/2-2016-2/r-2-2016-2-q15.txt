@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】3 in effect（有効で、実施されて）
 【和訳】
+（英文）
+A typhoon warning was ［in effect］ along the coast all morning. People were asked to stay indoors until the storm had passed.
+（訳）
 午前中ずっと、海岸沿いに台風の警報が（出されて）いました。人々は、嵐が過ぎ去るまで屋内にとどまるよう求められました。
 （選択肢の意味）
-1 流行して
-2 要求があり次第
-3 有効で、実施されて
-4 勤務中で、当番で
+1 in fashion：流行して
+2 on demand：要求があり次第
+3 in effect：有効で、実施されて
+4 on duty：勤務中で、当番で
 【考え方】
 主語は A typhoon warning（台風の警報）です。空所のあとには along the coast all morning（海岸沿いで午前中ずっと）が続いています。「台風の警報が午前中ずっと（　）だった」という形です。
 2文目の People were asked to stay indoors until the storm had passed.（人々は嵐が過ぎ去るまで屋内にとどまるよう求められた）から、警報がきちんと出されていて、人々がそれに従うよう求められていたことが分かります。

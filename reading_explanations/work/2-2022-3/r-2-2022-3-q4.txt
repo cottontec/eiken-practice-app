@@ -4,13 +4,17 @@ answerText: doubt
 ---
 【正解】1 doubt（～ではないと思う、疑う）
 【和訳】
+（英文）
+A: Do you think it's going to rain tomorrow, Tetsuya?
+B: I ［doubt］ it. The rainy season is over, and it's been sunny all week.
+（訳）
 A：テツヤ、明日は雨が降ると思う？
 B：（降らないと思う）よ。雨の多い季節は終わったし、今週はずっと晴れているよ。
 （選択肢の意味）
-1 ～ではないと思う、疑う
-2 責める、～のせいにする
-3 許す
-4 影響を与える
+1 doubt：～ではないと思う、疑う
+2 blame：責める、～のせいにする
+3 pardon：許す
+4 affect：影響を与える
 【考え方】
 Aの質問は「明日は雨が降ると思う？」です。Bの答えの I (　) it. の it は、「明日雨が降ること」を指しています。
 空所のあとに、Bは The rainy season is over（雨の多い季節は終わった）、it's been sunny all week（今週はずっと晴れている）と言っています。どちらも「雨は降りそうにない」と考える手がかりです。

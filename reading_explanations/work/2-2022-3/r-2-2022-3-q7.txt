@@ -4,13 +4,17 @@ answerText: approve
 ---
 【正解】4 approve（認める、承認する）
 【和訳】
+（英文）
+A: Did your teacher ［approve］ your idea for your science project?
+B: No. He says that I'm not allowed to do anything that involves dangerous chemicals. I'll have to think of something else.
+（訳）
 A：先生は、理科の研究課題についてのあなたのアイデアを（認めて）くれた？
 B：ううん。危険な化学薬品を使うことは何もしてはいけないと、先生は言っているよ。何か別のことを考えなければならないね。
 （選択肢の意味）
-1 閉じ込める、限定する
-2 比べる
-3 捨てる、あきらめる
-4 認める、承認する
+1 confine：閉じ込める、限定する
+2 compare：比べる
+3 abandon：捨てる、あきらめる
+4 approve：認める、承認する
 【考え方】
 Aは「先生はあなたのアイデアを（　）したか」とたずねています。
 Bは No.（いいえ）と答えたあと、He says that I'm not allowed to do anything that involves dangerous chemicals.（危険な化学薬品を使うことは何もしてはいけないと先生は言っている）と説明しています。be not allowed to ～ は「～することが許されていない」という意味です。さらに I'll have to think of something else.（何か別のことを考えなければならない）と続きます。

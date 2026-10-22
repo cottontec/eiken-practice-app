@@ -4,12 +4,15 @@ answerText: flows into
 ---
 【正解】1 flows into（～に流れ込む）
 【和訳】
+（英文）
+Water that falls as snow and rain in the Andes Mountains travels thousands of kilometers down the Amazon River and eventually ［flows into］ the Atlantic Ocean.
+（訳）
 アンデス山脈に雪や雨として降った水は、アマゾン川を何千キロメートルも下り、最終的には大西洋に（流れ込みます）。
 （選択肢の意味）
-1 ～に流れ込む
-2 ～を走って横切る、～に偶然出会う
-3 ～を手渡す
-4 ～を掘り出す
+1 flows into：～に流れ込む
+2 runs across：～を走って横切る、～に偶然出会う
+3 hands over：～を手渡す
+4 digs up：～を掘り出す
 【考え方】
 文の主語は Water that falls as snow and rain in the Andes Mountains（アンデス山脈に雪や雨として降る水）です。動詞は2つあり、travels thousands of kilometers down the Amazon River（アマゾン川を何千キロメートルも下る）と、and eventually (　) the Atlantic Ocean（そして最終的に大西洋に（　）する）が並んでいます。eventually は「最終的に、ついには」という意味です。
 山に降った水が川を下っていき、最後にどうなるかを考えます。川の水は最後に海へ流れ込みます。flow into ～ は「～に流れ込む」という意味で、flows into the Atlantic Ocean で「大西洋に流れ込む」となります。ですから1が正解です。

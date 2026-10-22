@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：海運業界が直面している問題の1つは何ですか。
-1 海がますます混雑してきた。
-2 燃料に多くのお金を使わなければならない。
-3 取り引きされている品物が十分にない。
-4 二酸化炭素が船のエンジンに影響を与えてきた。
+1 The ocean has become increasingly crowded.（海がますます混雑してきた。）
+2 It has to spend a lot of money on fuel.（燃料に多くのお金を使わなければならない。）
+3 There are not enough goods being traded.（取り引きされている品物が十分にない。）
+4 Carbon dioxide has been affecting ships' engines.（二酸化炭素が船のエンジンに影響を与えてきた。）
 【考え方】
 設問の facing the shipping industry は「海運業界が直面している（目の前にかかえている）」という意味です。shipping industry は「海運業界（船で荷物を運ぶ仕事をする業界）」です。
 第1段落を見ます。These ships consume an enormous amount of fuel.（これらの船は、ばく大な量の燃料を消費する）とあり、続いて This not only costs a great deal of money but also results in a lot of carbon dioxide being released into the atmosphere.（このことは、多額のお金がかかるだけでなく、大量の二酸化炭素が大気中に放出される結果にもなっている）と書かれています。not only A but also B は「AだけでなくBも」という意味です。

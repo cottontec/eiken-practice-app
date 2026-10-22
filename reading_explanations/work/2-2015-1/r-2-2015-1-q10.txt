@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】3 dawn（夜明け）
 【和訳】
+（英文）
+Brenda woke up just before ［dawn］ and went down to the beach to watch the sunrise.
+（訳）
 ブレンダは夜明けの直前に起きて、日の出を見るために浜辺へ下りて行きました。
 （選択肢の意味）
-1 視力、見えること、光景
-2 存在
-3 夜明け
-4 リズム
+1 sight：視力、見えること、光景
+2 existence：存在
+3 dawn：夜明け
+4 rhythm：リズム
 【考え方】
 just before (　) は「～の直前に」なので、空所には「時」を表す語が入りそうだと考えます。
 文の後半に to watch the sunrise（日の出を見るために）とあります。日の出を見に浜辺へ行くのですから、起きたのは太陽がのぼる少し前、つまり夜明け前です。

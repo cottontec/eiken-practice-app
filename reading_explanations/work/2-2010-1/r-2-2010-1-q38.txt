@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：学生たちの新しいしくみは（　）ように作られている。
-1 道路のでこぼこを利用して電気を生み出す
-2 エンジンから液体を取り除いて、エンジンを軽くする
-3 エネルギーを節約するやり方で、エンジンに燃料を送る
-4 でこぼこした路面がショックアブソーバーを傷めないようにする
+1 use bumps in the road to generate electricity.（道路のでこぼこを利用して電気を生み出す）
+2 remove liquid from the engine to make it lighter.（エンジンから液体を取り除いて、エンジンを軽くする）
+3 supply fuel to the engine in a way that saves energy.（エネルギーを節約するやり方で、エンジンに燃料を送る）
+4 stop rough surfaces from damaging the shock absorbers.（でこぼこした路面がショックアブソーバーを傷めないようにする）
 【考え方】
 新しいしくみの中身は、第2段落に書かれています。
 まず the idea of designing shock absorbers that can create electricity（電気を生み出すことのできるショックアブソーバーを設計するというアイデア）とあります。

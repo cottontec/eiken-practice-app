@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】3 survey（調査）
 【和訳】
+（英文）
+According to a recent ［survey］, most people who do not eat breakfast do not have enough time to do so. However, some said they are not hungry in the morning.
+（訳）
 最近の（調査）によると、朝食を食べない人のほとんどは、そうする（朝食を食べる）だけの時間がありません。しかし、朝はおなかがすいていないと答えた人もいました。
 （選択肢の意味）
-1 解決策
-2 選ぶこと、選ばれたもの
-3 調査（アンケートなど）
-4 表面
+1 solution：解決策
+2 selection：選ぶこと、選ばれたもの
+3 survey：調査（アンケートなど）
+4 surface：表面
 【考え方】
 空所の前の According to a recent (　)（最近の（　）によると）に注目します。According to ～ は「～によると」と、情報の出どころを示す言い方です。
 そのあとには「朝食を食べない人のほとんどは時間がない」「朝はおなかがすいていないと答えた人もいた（some said ～）」と、たくさんの人にたずねて分かった結果が書かれています。

@@ -8,10 +8,10 @@ answerText: following accidents in which people died.
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：その歩道を閉鎖する決定が下されたのは、～である。
-1 コンクリートに穴が見つかったあと
-2 人が亡くなった事故のあと
-3 金属の柵が歩道の上に落ちてきたあと
-4 歩道の手入れにかかる費用が増えたあと
+1 following the discovery of holes in the concrete.（コンクリートに穴が見つかったあと）
+2 following accidents in which people died.（人が亡くなった事故のあと）
+3 after a metal fence fell onto it.（金属の柵が歩道の上に落ちてきたあと）
+4 after the cost of looking after it increased.（歩道の手入れにかかる費用が増えたあと）
 【考え方】
 following ～ は、ここでは「～のあとで、～に続いて」という意味です。歩道が閉鎖されたことは、第3段落の終わりに書かれています。
 However, after four deaths in two years, the government decided to close the walkway in 2001.（しかし、2年間で4人が亡くなったあと、政府は2001年にこの歩道を閉鎖することに決めた）

@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：次のうち正しいものはどれですか。
-1 ヘイルは以前、インドの大手製薬会社で働いていた。
-2 iOWHは、自分たちの薬から大きな利益を得ることを見込んでいる。
-3 多くの大手製薬会社が、ヘイルのアイデアをまねしようと考えている。
-4 最初にパロモマイシンを開発した会社は、それを十分には試験しなかった。
+1 Hale once worked for a major drug company in India.（ヘイルは以前、インドの大手製薬会社で働いていた。）
+2 The iOWH expects to make a large profit from its drugs.（iOWHは、自分たちの薬から大きな利益を得ることを見込んでいる。）
+3 Many big drug companies are thinking about copying Hale's idea.（多くの大手製薬会社が、ヘイルのアイデアをまねしようと考えている。）
+4 The company that first developed paromomycin did not fully test it.（最初にパロモマイシンを開発した会社は、それを十分には試験しなかった。）
 【考え方】
 「正しいものはどれか」という設問なので、選択肢を1つずつ本文と照らし合わせます。選択肢4に出てくるパロモマイシンについては、第3段落に書かれています。
 本文には Hale received a drug called paromomycin, which a company had started developing but had not finished testing.（ヘイルは、パロモマイシンという薬を受け取った。それは、ある会社が開発を始めたものの、試験を終えていなかった薬だった）とあります。which は、前の名詞 paromomycin に説明をつけ加える働きをする語（関係代名詞）です。had started、had not finished は「（ヘイルが受け取る前に）すでに～していた／まだ～していなかった」という過去完了の形です。

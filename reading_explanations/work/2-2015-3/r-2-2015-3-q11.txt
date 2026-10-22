@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】1 rely on（～に頼る）
 【和訳】
+（英文）
+When Calvin went to a small village in Africa to volunteer, he had no TV or Internet access. He had to ［rely on］ a local African newspaper for information about the rest of the world.
+（訳）
 カルヴィンがボランティアをするためにアフリカの小さな村へ行ったとき、彼はテレビもインターネットも使えませんでした。世界のほかの地域についての情報を得るのに、彼は地元のアフリカの新聞に頼らなければなりませんでした。
 （選択肢の意味）
-1 ～に頼る
-2 ～を作り上げる、～を構成する
-3 ～に立ち寄る
-4 ～に対して責任を負う
+1 rely on：～に頼る
+2 make up：～を作り上げる、～を構成する
+3 drop by：～に立ち寄る
+4 answer to：～に対して責任を負う
 【考え方】
 1文目に he had no TV or Internet access（テレビもインターネットも使えなかった）とあります。access は「利用できること」です。世界のニュースを知るためのふだんの方法が使えない状態だと分かります。
 2文目は He had to (　) a local African newspaper for information about the rest of the world.（世界のほかの地域についての情報を得るために、地元のアフリカの新聞を（　）しなければならなかった）です。the rest of the world は「世界のそれ以外の地域」です。

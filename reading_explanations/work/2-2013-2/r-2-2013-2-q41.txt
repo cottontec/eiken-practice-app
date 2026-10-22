@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：近年、金やプラチナのような金属の価格が上がった理由の1つは何ですか。
-1 それらを見つけるために使われる新しい技術が、非常に高価である。
-2 それらを見つけて売る会社が、以前より少ない。
-3 産業の成長によって、それらの金属への需要が増えてきた。
-4 人々が地中から取り出せる金属の量が、制限されている。
+1 The new technology that is used to find them is extremely expensive.（それらを見つけるために使われる新しい技術が、非常に高価である。）
+2 There are fewer companies that find and sell them than before.（それらを見つけて売る会社が、以前より少ない。）
+3 There has been a greater demand for them due to the growth of industry.（産業の成長によって、それらの金属への需要が増えてきた。）
+4 The amount of metals people can remove from the ground is controlled.（人々が地中から取り出せる金属の量が、制限されている。）
 【考え方】
 設問は、金やプラチナなどの価格が上がった理由をたずねています。第1段落を読みます。
 第1段落の初めには、これらの金属は difficult to find and get out of the ground（見つけて地中から取り出すのが難しい）とあります。続く文には In addition, the expansion of industry over the last few decades has led to a huge rise in demand for these metals.（さらに、ここ数十年の産業の拡大によって、これらの金属の需要が大きく増えた）とあります。demand は「需要（ほしいと思われる量）」、lead to ～ は「～につながる、～を引き起こす」です。

@@ -4,13 +4,17 @@ answerText: provided
 ---
 【正解】2 provided（もし～ならば、～という条件で）
 【和訳】
+（英文）
+A: Mom, can I go to the park to play with Jimmy later?
+B: Yes, ［provided］ you finish your homework first.
+（訳）
 A：お母さん、あとでジミーと遊びに公園へ行ってもいい？
 B：いいよ、先に宿題を終わらせる（ならね）。
 （選択肢の意味）
-1 ～を与える、～を用意する（動詞のもとの形）
-2 もし～ならば、～という条件で
-3 ～を与えること、～を与えるために
-4 ～を与えるだけ
+1 provide：～を与える、～を用意する（動詞のもとの形）
+2 provided：もし～ならば、～という条件で
+3 to provide：～を与えること、～を与えるために
+4 only provide：～を与えるだけ
 【考え方】
 Aは公園に遊びに行ってもいいかたずね、Bは Yes,（いいよ）と答えています。そのあとに (　) you finish your homework first（あなたが先に宿題を終わらせる）が続きます。
 空所のあとの you finish your homework first は、主語（you）と動詞（finish）がそろった文の形です。そのため、空所には、「いいよ」と「先に宿題を終わらせる」という2つの部分をつなぐ語が必要です。

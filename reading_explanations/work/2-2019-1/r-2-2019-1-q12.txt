@@ -5,13 +5,17 @@ reviewed: yes
 ---
 【正解】1 deal（a great deal of ～ で「たくさんの～」）
 【和訳】
+（英文）
+A: You did such a nice job on this photo album. It must have taken a great ［deal］ of time to choose all the photos.
+B: Yes, it did. I worked on it every night for two weeks.
+（訳）
 A：このフォトアルバム、本当によくできているね。写真を全部選ぶのに、（たくさんの）時間がかかったにちがいないね。
 B：うん、かかったよ。2週間、毎晩取り組んだんだ。
 （選択肢の意味）
 1 （a great deal of ～ で）たくさんの～
-2 土台、基地
-3 力
-4 役割
+2 base：土台、基地
+3 force：力
+4 role：役割
 【考え方】
 空所の前後を見ると、It must have taken a great (　) of time to choose all the photos.（写真を全部選ぶのに、a great（　）of の時間がかかったにちがいない）となっています。must have ＋過去分詞 は「～したにちがいない」という意味です。
 a great deal of ～ は「たくさんの～」という意味の決まった言い方で、time（時間）のような数えられないものの量が多いことを表します。a great deal of time で「たくさんの時間」となります。

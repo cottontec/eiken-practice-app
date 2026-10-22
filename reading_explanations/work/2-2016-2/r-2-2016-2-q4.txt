@@ -5,13 +5,17 @@ reviewed: yes
 ---
 【正解】4 convert（変える、換算する）
 【和訳】
+（英文）
+A: Honey, the Moonstar Airlines website says that each passenger can bring one 20-kilogram bag on the flight, but I don't know how much that is in pounds.
+B: Just multiply the number by 2.2. That will ［convert］ it into pounds.
+（訳）
 A：ねえ、ムーンスター航空のウェブサイトに、乗客は1人につき20キログラムのかばんを1つ飛行機に持ちこめると書いてあるんだけど、それがポンドでどれくらいなのか分からなくて。
 B：その数に2.2をかけるだけでいいよ。そうすれば、それがポンドに（換算）されるよ。
 （選択肢の意味）
-1 溶かす
-2 再利用する
-3 打つ、たたく
-4 変える、換算する
+1 melt：溶かす
+2 reuse：再利用する
+3 strike：打つ、たたく
+4 convert：変える、換算する
 【考え方】
 Aは「20キログラムがポンドでどれくらいか分からない」と言っています。キログラムもポンドも重さの単位（はかるときのもとになる量）です。
 Bは Just multiply the number by 2.2.（その数に2.2をかけるだけでいい）と答えています。multiply A by B は「AにBをかける」という意味です。

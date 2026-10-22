@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】3 exclusive（限られた人しか入れない、高級な）
 【和訳】
+（英文）
+The Queen's Forest Golf Club is very ［exclusive］. It only accepts 20 new members each year, and they have to pay expensive membership fees.
+（訳）
 クイーンズ・フォレスト・ゴルフクラブは、とても（入会できる人が限られています）。毎年20人の新しい会員しか受け入れず、その会員たちは高い会費を払わなければなりません。
 （選択肢の意味）
-1 持ち運びできる
-2 きわめて重要な
-3 限られた人しか入れない、高級な
-4 恥ずかしい思いをした
+1 portable：持ち運びできる
+2 vital：きわめて重要な
+3 exclusive：限られた人しか入れない、高級な
+4 embarrassed：恥ずかしい思いをした
 【考え方】
 次の文が、最初の文の空所の説明になっています。
 ・It only accepts 20 new members each year（毎年20人の新しい会員しか受け入れない）

@@ -4,12 +4,15 @@ answerText: carriages
 ---
 【正解】1 carriages（馬車）
 【和訳】
+（英文）
+Before there were motor vehicles, people often used ［carriages］ that were pulled by horses to make long journeys.
+（訳）
 自動車が存在する前は、人々は長い旅をするのに、馬に引かれる（馬車）をよく使っていました。
 （選択肢の意味）
-1 馬車
-2 空想
-3 パズル、なぞ
-4 ぜいたく品
+1 carriages：馬車
+2 fantasies：空想
+3 puzzles：パズル、なぞ
+4 luxuries：ぜいたく品
 【考え方】
 文の初めの Before there were motor vehicles（自動車〔エンジンで動く乗り物〕が存在する前は）から、昔の移動の話だと分かります。
 空所のあとの that were pulled by horses は「馬に引かれる」という意味で、空所の名詞を後ろから説明しています。この that は関係代名詞（前の名詞に説明を付け足す働きをする語）です。さらに to make long journeys（長い旅をするために）と続きます。

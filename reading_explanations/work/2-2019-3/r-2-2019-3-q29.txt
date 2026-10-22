@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：ジェナ・スミスはウォルターズさんに、彼は（　）しなければならないと伝えています。
-1 いくつかの新しい秘密の質問を選ぶ。
-2 もう一度パスワードを推測してみる。
-3 カスタマーサポートセンターにいる彼女に電話する。
-4 コンピューターを使える安全な場所を見つける。
+1 select some new security questions.（いくつかの新しい秘密の質問を選ぶ。）
+2 try to guess his password one more time.（もう一度パスワードを推測してみる。）
+3 call her at the customer support center.（カスタマーサポートセンターにいる彼女に電話する。）
+4 find a safe place where he can use his computer.（コンピューターを使える安全な場所を見つける。）
 【考え方】
 設問の has to ～ は「～しなければならない」という意味です。本文で、ウォルターズさんがしなければならないこととして書かれている部分を探します。第3段落に次の文があります。
 After you change your password, you will need to change your security questions.（パスワードを変更したあとは、秘密の質問を変更していただく必要があります）

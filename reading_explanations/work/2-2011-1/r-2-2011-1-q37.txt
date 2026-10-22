@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：ロボットを設計する人たちは、これから何をする必要があるか。
-1 単純な作業をしたことに対して、ロボットにお金を払う。
-2 ロボットが人間に取って代わるのを防ぐ。
-3 高い技術が必要な仕事に集中できるロボットを作る。
-4 人々がいっしょに気持ちよく働けるロボットを作る。
+1 Pay robots for performing simple tasks.（単純な作業をしたことに対して、ロボットにお金を払う。）
+2 Prevent robots from replacing human beings.（ロボットが人間に取って代わるのを防ぐ。）
+3 Build robots that can concentrate on highly skilled jobs.（高い技術が必要な仕事に集中できるロボットを作る。）
+4 Create robots that people feel comfortable working with.（人々がいっしょに気持ちよく働けるロボットを作る。）
 【考え方】
 設問の robot designers（ロボットを設計する人たち）は、本文では their creators（ロボットを作る人たち）と書かれています。第1段落の最後の文を見ます。
 Yet as more robots enter the workplace, their creators face a new problem—how to design them so that human beings can get along with them.（しかし、職場に入ってくるロボットが増えるにつれて、ロボットを作る人たちは新しい問題に直面している。それは、人間がロボットとうまくやっていけるように、ロボットをどう設計するかという問題だ）。face は「（問題などに）直面する」、get along with ～ は「～とうまくやっていく、仲よくする」という意味です。

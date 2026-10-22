@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：交通事故は（　）。
-1 危険な病気にかかる人を増やしている。
-2 豊かな国々では、あらゆる年齢の人々にとっての主な死因である。
-3 発展途上国で、ますます大きな問題になりつつある。
-4 たいてい、15歳から29歳の運転手によって引き起こされている。
+1 leading to more people having dangerous diseases.（危険な病気にかかる人を増やしている。）
+2 the main cause of death for people of all ages in wealthy countries.（豊かな国々では、あらゆる年齢の人々にとっての主な死因である。）
+3 becoming more and more of a problem in developing countries.（発展途上国で、ますます大きな問題になりつつある。）
+4 usually caused by drivers who are between the ages of 15 and 29.（たいてい、15歳から29歳の運転手によって引き起こされている。）
 【考え方】
 交通事故の説明は第1段落にあります。選択肢に developing countries（発展途上国）や wealthy countries（豊かな国々）が出てくるので、国について書かれた文を探します。段落の最後にあります。
 While some wealthy countries have reduced the number of traffic accidents in recent years, they are increasing rapidly in developing countries.（いくつかの豊かな国々は近年交通事故の件数を減らしてきたが、発展途上国では交通事故が急速に増えている）

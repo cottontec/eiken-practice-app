@@ -7,10 +7,10 @@ reviewed: yes
 【和訳】
 カナダでは、ほとんどの人の第一言語は英語かフランス語のどちらかです。しかし、そこに住む人々の中には、中国語、イタリア語、ドイツ語など、別の第一言語を持つ少数の人々もいます。
 （選択肢の意味）
-1 源、出どころ
-2 少数、少数派
-3 収穫
-4 つながり、関係
+1 source：源、出どころ
+2 minority：少数、少数派
+3 harvest：収穫
+4 connection：つながり、関係
 【考え方】
 最初の文は In Canada, the first language of most people is either English or French. です。first language は「第一言語（生まれて最初に身につけた言葉）」、either A or B は「AかBのどちらか」です。「ほとんどの人」の第一言語は英語かフランス語だと言っています。
 空所のある文は However（しかし）で始まり、a (　) of people there have a different first language（そこの人々の（　）は別の第一言語を持っている）と続きます。

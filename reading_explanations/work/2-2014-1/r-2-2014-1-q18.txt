@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】1 been announced（発表されて〔いた〕）
 【和訳】
+（英文）
+Richard arrived late to the awards ceremony. The winner of the first award had already ［been announced］ by the time he found his seat.
+（訳）
 リチャードは授賞式に遅れて着きました。彼が自分の席を見つけたときには、最初の賞の受賞者はすでに発表されていました。
 （選択肢の意味）
-1 発表されて（いた）
-2 発表して（いた）
-3 発表されている途中で
-4 ずっと発表して（いた）
+1 been announced：発表されて（いた）
+2 announced：発表して（いた）
+3 being announced：発表されている途中で
+4 been announcing：ずっと発表して（いた）
 【考え方】
 2文目の主語は The winner of the first award（最初の賞の受賞者）です。受賞者は自分で何かを発表するのではなく、だれかによって名前を「発表される」側です。ですから「～される」という意味の形が必要です。
 「～される」は be動詞 ＋ 過去分詞（announced のような形）で表します。空所の前に had already（すでに～していた）があり、had のあとでは be動詞が been になります。had already been announced で「（そのときまでに）すでに発表されていた」という意味です。

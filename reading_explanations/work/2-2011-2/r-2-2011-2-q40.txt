@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：CFCの禁止は、（　　）ので、よい考えだった。
-1 それが地球温暖化を減らすことにつながった
-2 それが地球を深刻な脅威（おびやかすもの）から救った
-3 それが空気中のHCFCの量を減らした
-4 それが、自然がどれほど複雑であるかを示した
+1 it led to a reduction in global warming.（それが地球温暖化を減らすことにつながった）
+2 it saved the planet from a serious threat.（それが地球を深刻な脅威（おびやかすもの）から救った）
+3 it reduced the amount of HCFCs in the air.（それが空気中のHCFCの量を減らした）
+4 it showed how complicated nature is.（それが、自然がどれほど複雑であるかを示した）
 【考え方】
 第4段落の1文目は Does this mean that the ban on CFCs was a bad idea?（このことは、CFCの禁止が悪い考えだったということか）という問いかけです。ban は「禁止」です。その答えが次の2文に書かれています。
 The ozone hole was a real danger and, without the ban, it would have quickly grown to cover the whole planet.（オゾンホールは本当の危険であり、もし禁止がなければ、すぐに大きくなって地球全体をおおってしまっていただろう）とあります。would have ＋ 過去分詞 は「（実際にはそうならなかったが）～していただろう」という意味です。続けて Stopping its growth was a major victory.（その拡大を止めたことは大きな勝利だった）とあります。

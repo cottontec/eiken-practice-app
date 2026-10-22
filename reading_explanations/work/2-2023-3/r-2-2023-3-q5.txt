@@ -4,12 +4,15 @@ answerText: quantity
 ---
 【正解】2 quantity（量）
 【和訳】
+（英文）
+Bob wanted to know the ［quantity］ of food that he needed to buy for his wife's party, so he asked her how many guests were coming.
+（訳）
 ボブは、妻のパーティーのために買う必要のある食べ物の（量）を知りたかったので、何人のお客さんが来るのかを彼女にたずねました。
 （選択肢の意味）
-1 機会
-2 量
-3 安全、警備
-4 重力
+1 opportunity：機会
+2 quantity：量
+3 security：安全、警備
+4 gravity：重力
 【考え方】
 文の後半の so he asked her how many guests were coming（だから彼は、何人のお客さんが来るのかを彼女にたずねた）に注目します。so は「だから」という意味で、前半がその理由になっています。
 お客さんの人数をたずねたのは、それによって用意する食べ物の分量が変わるからだと考えられます。つまり、ボブが知りたかったのは「買う必要のある食べ物の量」です。

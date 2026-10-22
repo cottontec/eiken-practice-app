@@ -5,13 +5,17 @@ reviewed: yes
 ---
 【正解】1 needn't（～する必要はない）
 【和訳】
+（英文）
+A: Would you like me to send these letters?
+B: You ［needn't］ worry about that. I'll be going to the post office later, so I'll take them then.
+（訳）
 A：この手紙を出しておきましょうか。
 B：そのことは心配しなくていいよ。あとで郵便局に行くことになっているから、そのときに持っていくよ。
 （選択肢の意味）
-1 ～する必要はない
-2 ～できない、～のはずがない
-3 ～しないだろう、～するつもりはない
-4 ～しないだろう（に）
+1 needn't：～する必要はない
+2 can't：～できない、～のはずがない
+3 won't：～しないだろう、～するつもりはない
+4 wouldn't：～しないだろう（に）
 【考え方】
 Aは Would you like me to ～?（私が～しましょうか）を使って、「この手紙を出しておきましょうか」と申し出ています。
 Bは You (　) worry about that.（あなたはそのことを（　）心配）と答え、続けて I'll be going to the post office later, so I'll take them then.（あとで郵便局に行くことになっているから、そのときに持っていく）と言っています。I'll be going は「行くことになっている」という予定を表し、them は these letters（この手紙）を指しています。

@@ -4,12 +4,15 @@ answerText: laboratories
 ---
 【正解】4 laboratories（実験室、研究所）
 【和訳】
+（英文）
+Many scientists do their work in ［laboratories］. These places allow them to do experiments or work with animals.
+（訳）
 多くの科学者は（実験室）で仕事をします。こうした場所では、実験をしたり、動物を扱う仕事をしたりすることができます。
 （選択肢の意味）
-1 三角形
-2 結論
-3 出来事、事件
-4 実験室、研究所
+1 triangles：三角形
+2 conclusions：結論
+3 incidents：出来事、事件
+4 laboratories：実験室、研究所
 【考え方】
 2文目の These places（これらの場所）に注目します。These places は、1文目の空所に入る語を指しています。ですから、空所には「場所」を表す語が入ると分かります。
 さらに、その場所について allow them to do experiments or work with animals（彼ら〔科学者〕が実験をしたり、動物を扱う仕事をしたりすることを可能にする）と説明されています。allow ～ to ... は「～が…することを可能にする、～に…させる」という意味です。実験をする場所といえば「実験室、研究所」です。

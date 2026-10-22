@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】1 utilized（利用される〔utilize：利用する〕）
 【和訳】
+（英文）
+The computers in the library should be ［utilized］ for school projects or homework. Students are not allowed to use them for playing games or watching videos on the Internet.
+（訳）
 図書館のコンピューターは、学校の課題や宿題のために（利用される）べきです。生徒は、ゲームをしたりインターネットで動画を見たりするためにそれらを使うことは許されていません。
 （選択肢の意味）
-1 利用される
-2 満足している
-3 味がつけられている
-4 反射される、反映される
+1 utilized：利用される
+2 satisfied：満足している
+3 flavored：味がつけられている
+4 reflected：反射される、反映される
 【考え方】
 空所の前は should be です。should be ＋過去分詞は「～されるべきだ」という受け身（「～される」という意味を表す形）になります。主語は The computers in the library（図書館のコンピューター）なので、コンピューターが「どうされるべきか」を考えます。
 次の文 Students are not allowed to use them for playing games or watching videos on the Internet.（生徒は、ゲームやインターネットの動画を見るためにそれらを使うことは許されていない）に注目します。them は図書館のコンピューターのことです。「ゲームや動画に使ってはいけない」ということは、コンピューターを使ってよいのは学校の課題や宿題のためだ、ということです。

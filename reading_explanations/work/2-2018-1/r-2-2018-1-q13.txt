@@ -5,11 +5,14 @@ reviewed: yes
 ---
 【正解】4 go（go wrong で「故障する、調子が悪くなる」）
 【和訳】
+（英文）
+It seems like things often ［go］ wrong with Brad's car. Last month, one of the seatbelts broke, and then the horn stopped working. Yesterday, the car's battery died.
+（訳）
 ブラッドの車は、よく（故障する）ようです。先月はシートベルトの1つが壊れ、そのあとクラクションが鳴らなくなりました。昨日は、車のバッテリーが上がって（使えなくなって）しまいました。
 （選択肢の意味）
-1 ～を作る、～させる
-2 ～のままにしておく
-3 ～をする
+1 make：～を作る、～させる
+2 keep：～のままにしておく
+3 do：～をする
 4 行く（go wrong で「故障する、うまくいかなくなる」）
 【考え方】
 空所のあとに wrong（具合の悪い、まちがった）があることに注目します。things often (　) wrong with Brad's car で「ブラッドの車は、よくいろいろなことが（　）wrong になる」という意味です。

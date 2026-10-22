@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：アメリカ政府は（　）。
-1 塩の売り上げが急速に減っていると警告されてきた
-2 塩を含む製品の数を2倍にするよう助言されてきた
-3 塩の味をよくするための新しい協会を作るように言われてきた
-4 塩の使用に関する新しい規則を作るよう求められてきた
+1 warned that sales of salt are rapidly decreasing.（塩の売り上げが急速に減っていると警告されてきた）
+2 advised to double the number of products containing salt.（塩を含む製品の数を2倍にするよう助言されてきた）
+3 told to create a new association to improve the taste of salt.（塩の味をよくするための新しい協会を作るように言われてきた）
+4 asked to make a new rule concerning the use of salt.（塩の使用に関する新しい規則を作るよう求められてきた）
 【考え方】
 設問の主語は The U.S. government（アメリカ政府）で、has been のあとに「～された」という受け身（「～される」という形）が続きます。政府が「だれかに何をされたか」を本文で探します。
 第1段落の2文目に、the American Medical Association (AMA) … requested that the U.S. government begin to limit the amount of salt that food companies are allowed to add to their products（アメリカ医師会は、食品会社が製品に加えることを許される塩の量を制限し始めるよう、アメリカ政府に要請した）とあります。request は「要請する、頼む」という意味です。

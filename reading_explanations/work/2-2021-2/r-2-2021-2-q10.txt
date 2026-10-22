@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】1 irritating（いらいらさせている）
 【和訳】
+（英文）
+Kate closed her bedroom window because the sound of the construction on her street was ［irritating］ her.
+（訳）
 ケイトは、彼女の住む通りで行われている工事の音が自分を（いらいらさせていた）ので、寝室の窓を閉めました。
 （選択肢の意味）
-1 いらいらさせている
-2 判断している
-3 見つけ出している、感知している
-4 交換している
+1 irritating：いらいらさせている
+2 judging：判断している
+3 detecting：見つけ出している、感知している
+4 exchanging：交換している
 【考え方】
 文の後半は because the sound of the construction on her street was (　) her です。because のあとが、ケイトが窓を閉めた理由になります。the sound of the construction は「工事の音」で、これが文の主語（「～が」に当たる部分）です。was ～ing は「～していた」という過去進行形（過去のある時に続いていた動作を表す形）です。
 「工事の音が彼女を（　）していた」ので、窓を閉めたという流れです。窓を閉めたのは、工事の音が気にさわったからだと考えられます。

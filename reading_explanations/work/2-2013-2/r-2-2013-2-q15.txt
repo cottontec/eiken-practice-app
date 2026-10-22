@@ -7,9 +7,9 @@ reviewed: yes
 【和訳】
 ジュリーは先週末、新しいオートバイを買いに出かけました。彼女はいくつかの違う型を試してみて、最後に Kougaar 667KL に決めました。
 （選択肢の意味）
-1 ～を通り抜けて
-2 離れて
-3 上へ
+1 through：～を通り抜けて
+2 off：離れて
+3 up：上へ
 4 外へ（try out で「試してみる」）
 【考え方】
 まず、Julie went shopping for a new motorcycle last weekend.（ジュリーは先週末、新しいオートバイを買いに出かけた）とあります。

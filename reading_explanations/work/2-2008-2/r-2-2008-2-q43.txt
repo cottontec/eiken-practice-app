@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：体の免疫システムは、（　）。
-1 クモの糸に含まれるものに似た化学物質を作り出す
-2 インプラント手術のあとに起きる問題の原因になることがある
-3 別の患者の体にうまく移しかえることができる
-4 新しく開発された人工の化学物質によって改善できる
+1 produces chemicals similar to those in spider silk.（クモの糸に含まれるものに似た化学物質を作り出す）
+2 is responsible for problems after some implant operations.（インプラント手術のあとに起きる問題の原因になることがある）
+3 can be successfully transferred into another patient's body.（別の患者の体にうまく移しかえることができる）
+4 can be improved by newly developed artificial chemicals.（新しく開発された人工の化学物質によって改善できる）
 【考え方】
 免疫システムについては第3段落に書かれています。
 まず The immune system protects the body from disease by attacking the bacteria and viruses that enter the body from outside.（免疫システムは、外から入ってくる細菌やウイルスを攻撃することで、体を病気から守る）と、その働きが説明されています。

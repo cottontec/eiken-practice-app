@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：ウォレスは（　　）ので、17歳のときに学校をやめた。
-1 南アメリカで自然を研究したかった
-2 ダーウィンのもとで働く仕事をすすめられた
-3 それ以上そこにとどまる（お金の）余裕がなかった
-4 ダーウィンの進化論を信じていなかった
+1 wanted to study nature in South America.（南アメリカで自然を研究したかった）
+2 was offered a job working for Darwin.（ダーウィンのもとで働く仕事をすすめられた）
+3 could not afford to stay there any longer.（それ以上そこにとどまる（お金の）余裕がなかった）
+4 did not believe Darwin's theory of evolution.（ダーウィンの進化論を信じていなかった）
 【考え方】
 設問の「17歳で学校をやめた」理由を本文でさがします。第2段落の2文目と3文目に Darwin was from a wealthy family and studied at Cambridge University, while Wallace's family was poor. For this reason, Wallace had to leave school when he was 17 years old.（ダーウィンは裕福な家の出身でケンブリッジ大学で学んだが、一方ウォレスの家は貧しかった。このため、ウォレスは17歳のときに学校をやめなければならなかった）とあります。
 For this reason（このため）の this は、直前の「ウォレスの家は貧しかった」ことを指しています。つまり、家が貧しくてお金がなかったために学校をやめたのです。

@@ -4,12 +4,15 @@ answerText: cure
 ---
 【正解】1 cure（治す）
 【和訳】
+（英文）
+Although medicine has made a lot of progress in the past 50 years, researchers still have not found a way to ［cure］ a cold.
+（訳）
 医学はこの50年間で大きく進歩してきましたが、研究者たちはまだ、かぜを（治す）方法を見つけていません。
 （選択肢の意味）
-1 治す
-2 与える、認める
-3 逃げる
-4 落とす、やめる
+1 cure：治す
+2 grant：与える、認める
+3 flee：逃げる
+4 drop：落とす、やめる
 【考え方】
 文の初めの Although（～だけれども）に注目します。Although のあとには、後半とは反対向きの内容がきます。
 前半は medicine has made a lot of progress（医学は大きく進歩してきた）です。後半は researchers still have not found a way to ( ) a cold（研究者たちはまだかぜを（　）する方法を見つけていない）です。still have not ～ は「まだ～していない」という意味です。

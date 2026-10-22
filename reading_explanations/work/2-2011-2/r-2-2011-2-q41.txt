@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：1950年代以来、マラリアの患者数はどのようにして減ってきましたか。
-1 新しい薬で人々を治療することによって。
-2 蚊がすんでいる場所をこわすことによって。
-3 化学薬品で蚊を退治することによって。
-4 蚊が卵を産むのを止めることによって。
+1 By treating people with new medicines.（新しい薬で人々を治療することによって。）
+2 By destroying the places where mosquitoes live.（蚊がすんでいる場所をこわすことによって。）
+3 By getting rid of mosquitoes with chemicals.（化学薬品で蚊を退治することによって。）
+4 By stopping mosquitoes from laying eggs.（蚊が卵を産むのを止めることによって。）
 【考え方】
 設問の since the 1950s（1950年代以来）という言葉を本文でさがします。第1段落の4文目に In fact, since the 1950s, this method has resulted in a large reduction in the number of malaria cases.（実際、1950年代以来、この方法によってマラリアの患者数は大きく減った）とあります。result in ～ は「～という結果になる」、reduction は「減少」です。
 this method（この方法）が何を指すかを、前の文で確かめます。3文目に This can be done very effectively by using chemicals that kill them.（これは、蚊を殺す化学薬品を使うことで、とても効果的に行える）とあります。This は2文目の reduce the number of mosquitoes（蚊の数を減らす）を指しています。chemical は「化学薬品」です。

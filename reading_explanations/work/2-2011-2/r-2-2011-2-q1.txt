@@ -7,10 +7,10 @@ reviewed: yes
 【和訳】
 キャシーは、いろいろな宗教について学ぶのが好きです。今、彼女は仏教の歴史の本を読んでいます。
 （選択肢の意味）
-1 作業、運営、手術
-2 気候
-3 予定（表）
-4 宗教
+1 operations：作業、運営、手術
+2 climates：気候
+3 schedules：予定（表）
+4 religions：宗教
 【考え方】
 空所の文は Kathy likes learning about different (　).（キャシーはいろいろな〜について学ぶのが好きだ）です。何について学ぶのが好きなのかは、次の文で分かります。
 次の文は At the moment, she is reading a history of Buddhism.（今、彼女は仏教の歴史の本を読んでいる）です。at the moment は「今のところ、ちょうど今」、Buddhism は「仏教」です。

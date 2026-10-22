@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】2 chased（～を追いかけた）
 【和訳】
+（英文）
+The waiter noticed that a customer had forgotten to take her change. He ran out of the store, ［chased］ her down the street, and gave the money back to her.
+（訳）
 ウエーターは、ある客がおつりを受け取り忘れていたことに気づきました。彼は店から走り出て、通りで彼女を（追いかけ）、そのお金を返しました。
 （選択肢の意味）
-1 ～を注いだ
-2 ～を追いかけた
-3 ～を管理した、何とか～した
-4 ～のじゃまをした
+1 poured：～を注いだ
+2 chased：～を追いかけた
+3 managed：～を管理した、何とか～した
+4 disturbed：～のじゃまをした
 【考え方】
 1文目から、客（her＝彼女）がおつりを忘れて店を出てしまったことが分かります。2文目では、ウエーターのした3つの動作が順に並んでいます。
 ・He ran out of the store（店から走り出た）

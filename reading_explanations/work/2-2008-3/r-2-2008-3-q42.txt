@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：専門家によると、（　）。
-1 一部の地域では、インターネットは本来ありえたほど速くは発展していない
-2 コンピューターの利用者は、自分のドメイン名を管理する責任がある
-3 人々はできるだけ早くローマ字を使えるようになるべきだ
-4 一部のウェブサイトには、2つ以上のドメイン名を認めるべきだ
+1 the Internet has not grown as quickly as it might have in some places.（一部の地域では、インターネットは本来ありえたほど速くは発展していない）
+2 computer users are responsible for controlling their own domain names.（コンピューターの利用者は、自分のドメイン名を管理する責任がある）
+3 people should learn to use the Roman alphabet as soon as possible.（人々はできるだけ早くローマ字を使えるようになるべきだ）
+4 some websites should be allowed more than one domain name.（一部のウェブサイトには、2つ以上のドメイン名を認めるべきだ）
 【考え方】
 設問の According to experts（専門家によると）に合わせて、本文で experts という語を探します。
 第2段落に Experts say that this has slowed down the development of the Internet in some parts of the world.（専門家は、このことが世界の一部の地域でインターネットの発展を遅らせてきたと言う）とあります。slow down は「～を遅らせる」、development は「発展」です。this（このこと）は、直前の文の「ローマ字になじみのない人々はドメイン名を入力したり読んだりできず、訪れたいサイトに行けない」ことを指します。

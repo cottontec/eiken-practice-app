@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：地震計の問題点の1つは、…ということだ。
-1 世界の特定の地域でしか動かない
-2 持ち運ぶのがとても難しい
-3 多くの国には、それらを所有するだけのお金の余裕がない
-4 多くの研究者が、それらを複雑すぎると感じている
+1 they can work only in certain parts of the world.（世界の特定の地域でしか動かない）
+2 they are extremely difficult to move around.（持ち運ぶのがとても難しい）
+3 many countries cannot afford to own them.（多くの国には、それらを所有するだけのお金の余裕がない）
+4 many researchers find them too complicated.（多くの研究者が、それらを複雑すぎると感じている）
 【考え方】
 設問の seismometers（地震計）は第1段落に出てきます。problem（問題点）にあたる内容を探すと、Unfortunately（残念なことに）という言葉が目に入ります。よくない点を述べるときの合図です。
 第1段落には Unfortunately, they are very expensive.（残念なことに、地震計はとても高価だ）とあり、続いて As a result, there are relatively few of them, and in many parts of the world they cannot be found at all.（その結果、地震計の数は比較的少なく、世界の多くの地域では1台も見当たらない）と書かれています。

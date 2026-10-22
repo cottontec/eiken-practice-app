@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：フリーライスは、活動のためのお金をどのようにして得ていますか。
-1 会社が、そのウェブサイトで自分たちのゲームを売れるようにすることによって。
-2 ウェブサイトを使うために、米を買うようプレーヤーに求めることによって。
-3 プレーヤーがまちがえるたびに、少しの料金をとることによって。
-4 プレーヤーが正しく答えたときに、広告を表示することによって。
+1 By allowing companies to sell their games on its website.（会社が、そのウェブサイトで自分たちのゲームを売れるようにすることによって。）
+2 By asking players to buy rice in order to use the website.（ウェブサイトを使うために、米を買うようプレーヤーに求めることによって。）
+3 By charging players a small fee every time they make a mistake.（プレーヤーがまちがえるたびに、少しの料金をとることによって。）
+4 By showing advertisements when players answer correctly.（プレーヤーが正しく答えたときに、広告を表示することによって。）
 【考え方】
 お金の話は第3段落に書かれています。
 The donations of rice are paid for by charging companies a fee for putting advertisements on the site.（米の寄付の費用は、サイトに広告をのせる会社から料金をとることでまかなわれている）とあります。charge ＋人＋ a fee は「（人）に料金を請求する」、advertisement は「広告」です。

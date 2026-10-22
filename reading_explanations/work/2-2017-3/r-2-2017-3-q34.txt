@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：最近、科学者たちは
-1 いくつもの大昔の動物をよみがえらせることができた。
-2 大昔の植物や動物についてもっと知るために、遺伝学を使い始めた。
-3 今日の地球で生きられる恐竜を作り始めた。
-4 動物が昔どのように暮らしていたかを研究するために、新しい種類の化石を作ろうとした。
+1 been able to bring a number of ancient animals back to life.（いくつもの大昔の動物をよみがえらせることができた。）
+2 begun using genetics to learn more about ancient plants and animals.（大昔の植物や動物についてもっと知るために、遺伝学を使い始めた。）
+3 started to create a dinosaur that could live on Earth today.（今日の地球で生きられる恐竜を作り始めた。）
+4 tried to create new types of fossils to study how animals used to live.（動物が昔どのように暮らしていたかを研究するために、新しい種類の化石を作ろうとした。）
 【考え方】
 設問の Recently（最近）に近い言い方を本文で探します。第1段落に In recent years（近年）があります。
 To learn more about the plants and animals that lived during that time, scientists examine their fossils or other remains.（その時代に生きていた植物や動物についてもっと知るために、科学者たちはそれらの化石やその他の遺骸を調べる）

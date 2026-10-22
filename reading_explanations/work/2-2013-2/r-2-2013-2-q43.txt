@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：プラネタリー・リソーシズは、小惑星にどんな種類の金属がふくまれているかを、どのようにして見つけ出すつもりですか。
-1 宇宙船を持っている国々にお金を払って、小惑星に人を送ってもらうことによって。
-2 小惑星を訪れるために、ロボット宇宙船を送ることによって。
-3 政府に小惑星についてのデータを求めることによって。
-4 宇宙に置いた特別な望遠鏡を使って、小惑星を砕くことによって。
+1 By paying countries with spacecraft to send people to asteroids.（宇宙船を持っている国々にお金を払って、小惑星に人を送ってもらうことによって。）
+2 By sending robot spacecraft to visit asteroids.（小惑星を訪れるために、ロボット宇宙船を送ることによって。）
+3 By asking governments for data on asteroids.（政府に小惑星についてのデータを求めることによって。）
+4 By breaking up asteroids using special telescopes placed in space.（宇宙に置いた特別な望遠鏡を使って、小惑星を砕くことによって。）
 【考え方】
 設問の what kinds of metals an asteroid contains（小惑星にどんな種類の金属がふくまれているか）と似た言葉を本文で探します。第3段落に In the next stage, robot spacecraft will be sent to land on asteroids and find out what metals they contain.（次の段階では、小惑星に着陸して、それらにどんな金属がふくまれているかを調べるために、ロボット宇宙船が送られる）とあります。they は asteroids（小惑星）を指します。
 本文と選択肢は次のように対応しています。

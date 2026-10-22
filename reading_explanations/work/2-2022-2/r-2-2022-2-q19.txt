@@ -4,12 +4,15 @@ answerText: as if
 ---
 【正解】2 as if（まるで～のように）
 【和訳】
+（英文）
+Somebody had broken one of the windows in Michelle's classroom. Michelle had not done it, but some of the other students looked at her ［as if］ she had.
+（訳）
 だれかが、ミシェルの教室の窓の1つを割っていました。ミシェルがやったのではありませんでしたが、ほかの生徒の何人かは、（まるで）彼女がやった（かのように）彼女を見ました。
 （選択肢の意味）
-1 ～に関して
-2 まるで～のように
-3 ～でさえあればよいのに
-4 そうでないなら、～ではないにしても
+1 as to：～に関して
+2 as if：まるで～のように
+3 if only：～でさえあればよいのに
+4 if not：そうでないなら、～ではないにしても
 【考え方】
 空所の後ろは she had です。これは she had done it（彼女がそれをした）の done it が省かれた形です。前の Michelle had not done it（ミシェルはそれをしていなかった）の done it と同じなので、くり返しを避けています。
 but（しかし）の前後を見ると、「ミシェルはやっていない」けれど、「ほかの生徒の何人かは彼女を見た」という流れです。as if ～ は「まるで～のように」という意味で、事実とは違うことを「～であるかのように」と言うときによく使います。looked at her as if she had（done it）で「まるで彼女がやったかのように彼女を見た」となり、本当はやっていないのに疑われた、という場面に合います。2が正解です。

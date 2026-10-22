@@ -5,13 +5,17 @@ reviewed: yes
 ---
 【正解】1 resigned（辞職した）
 【和訳】
+（英文）
+A: I heard there's a new mayor.
+B: Yes, the old one ［resigned］ when his wife got sick. He wanted to spend more time helping to take care of her.
+（訳）
 A：新しい市長に代わったと聞いたよ。
 B：そうなんだ。前の市長は、奥さんが病気になったときに辞職したんだ。奥さんの世話をする手伝いに、もっと時間を使いたかったんだよ。
 （選択肢の意味）
-1 辞職した
-2 保存した
-3 表面に出てきた、浮かび上がった
-4 花が咲いた
+1 resigned：辞職した
+2 preserved：保存した
+3 surfaced：表面に出てきた、浮かび上がった
+4 bloomed：花が咲いた
 【考え方】
 まず、Aの I heard there's a new mayor.（新しい市長がいると聞いた）から、市長が交代したことが分かります。mayor は「市長」です。
 Bの the old one は「前の市長」のことです。前の市長が、奥さんが病気になったときにどうしたのかを考えます。次の文に He wanted to spend more time helping to take care of her.（彼は、彼女の世話をする手伝いに、もっと時間を使いたかった）とあります。

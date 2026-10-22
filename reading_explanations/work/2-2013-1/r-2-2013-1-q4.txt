@@ -5,13 +5,17 @@ reviewed: yes
 ---
 【正解】4 suspect（～ではないかと思う）
 【和訳】
+（英文）
+A: Reuben seems pretty unhappy here at work, and he's taken a lot of days off lately.
+B: I've noticed that, too. I ［suspect］ he's looking for another job.
+（訳）
 A：ルーベンは、ここの職場でかなり不満そうだし、最近たくさん休みを取っているね。
 B：私もそれに気づいていたよ。彼は別の仕事を探しているんじゃないかと思う。
 （選択肢の意味）
-1 要求する
-2 達成する
-3 ～のふりをする
-4 ～ではないかと思う
+1 demand：要求する
+2 achieve：達成する
+3 pretend：～のふりをする
+4 suspect：～ではないかと思う
 【考え方】
 Aは、ルーベンについて「職場でかなり不満そう」「最近たくさん休みを取っている」と2つのことを言っています。Bは I've noticed that, too.（私もそれに気づいていた）と答えています。
 そのあとの I (　) he's looking for another job.（彼は別の仕事を探していると私は（　））で、Bは、気づいたことから考えた自分の考えを言っています。不満そうで休みが多いという様子から、「別の仕事を探しているのではないか」と、はっきりした証拠はないけれどそう思っている、という流れです。

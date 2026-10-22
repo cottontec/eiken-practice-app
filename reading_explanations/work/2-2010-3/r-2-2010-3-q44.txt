@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：政府はなぜヒューズについての調査を終えたのですか。
-1 彼の飛行機は、海をこえる初めての飛行のあと、二度と飛ばなかったから。
-2 彼の飛行機が使えるようになるずっと前に、戦争が終わったから。
-3 試験飛行によって、彼の飛行機があの大きさにもかかわらず飛べることが示されたから。
-4 彼は飛行機でカリフォルニアからワシントンD.C.まで飛ぶことに成功したから。
+1 His airplane never flew again after its first flight across the sea.（彼の飛行機は、海をこえる初めての飛行のあと、二度と飛ばなかったから。）
+2 The war finished long before his airplane was ready to be used.（彼の飛行機が使えるようになるずっと前に、戦争が終わったから。）
+3 A test flight showed that his airplane was able to fly despite its size.（試験飛行によって、彼の飛行機があの大きさにもかかわらず飛べることが示されたから。）
+4 He successfully flew his airplane from California to Washington, D.C.（彼は飛行機でカリフォルニアからワシントンD.C.まで飛ぶことに成功したから。）
 【考え方】
 調査の話は第4段落にあります。
 まず Many people doubted that such a huge airplane could fly, and they criticized Hughes for spending so much public money on it.（多くの人々は、そのような巨大な飛行機が飛べるのかを疑い、それほど多くの公のお金を使ったことでヒューズを批判した）とあります。doubt は「疑う」、criticize は「批判する」です。そして1947年、ヒューズは政府の取り調べのためにワシントンD.C.に呼ばれました。

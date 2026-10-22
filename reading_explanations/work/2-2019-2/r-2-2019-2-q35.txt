@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：ジョン・ロジャーズは何を開発しましたか。
-1 電子機器に取り付けて、その機器の効率をよくする（むだなく働くようにする）ことができるステッカー。
-2 患者についての医療に関する情報を記録するのに使えるステッカー。
-3 シリコンでできていて、筋肉を動かす力を持つ機器。
-4 科学者がシリコンをより強くするために使う機器。
+1 A sticker that can be attached to electronic devices to make them more efficient.（電子機器に取り付けて、その機器の効率をよくする（むだなく働くようにする）ことができるステッカー。）
+2 A sticker that can be used to record medical information about a patient.（患者についての医療に関する情報を記録するのに使えるステッカー。）
+3 A device that is made of silicon and has the ability to make muscles move.（シリコンでできていて、筋肉を動かす力を持つ機器。）
+4 A device that is used by scientists to make silicon stronger.（科学者がシリコンをより強くするために使う機器。）
 【考え方】
 John Rogers（ジョン・ロジャーズ）は第2段落に出てきます。One of these devices was developed by John Rogers（こうした機器の1つを開発したのはジョン・ロジャーズだ）とあり、these devices は第1段落の最後の「電子ステッカー」と呼ばれる新しい測定機器を指しています。
 第2段落の最後に、そのステッカーができることが書かれています。

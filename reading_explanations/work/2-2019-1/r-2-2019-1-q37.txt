@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：UIDAIについて人々が持っている心配の1つは、（　）ということです。
-1 その事業に使う質の高い機械を買うのに、お金がかかりすぎた
-2 新しい仕組みが、その制度のもともとの手本とはかなり違う動き方をしている
-3 まちがった情報がうっかり記録されると、やっかいな問題が起こる可能性がある
-4 発展途上国で同じような制度を作るのは、難しすぎるだろう
+1 too much money was spent purchasing the high-quality machines used for the project.（その事業に使う質の高い機械を買うのに、お金がかかりすぎた）
+2 the new system is working very differently from the original model for the program.（新しい仕組みが、その制度のもともとの手本とはかなり違う動き方をしている）
+3 it can cause difficult problems if incorrect information is accidentally recorded.（まちがった情報がうっかり記録されると、やっかいな問題が起こる可能性がある）
+4 it would be too challenging to set up a similar program in developing countries.（発展途上国で同じような制度を作るのは、難しすぎるだろう）
 【考え方】
 UIDAIへの心配は、第4段落に書かれています。段落の最初に Not everybody, though, thinks that the new system is a success.（しかし、だれもが新しい仕組みを成功だと考えているわけではない）とあり、some people point to problems（問題点を指摘する人々もいる）と続きます。その例が For example のあとにあります。
 For example, if a mistake is made when recording the details of an individual, it is extremely difficult to get it corrected and people will be unable to access government services.（たとえば、個人の情報を記録するときにまちがいがあると、それを直してもらうのはきわめて難しく、人々は政府のサービスを利用できなくなってしまう）

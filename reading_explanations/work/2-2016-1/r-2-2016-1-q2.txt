@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】3 range（範囲、幅）
 【和訳】
+（英文）
+The shop stocked a wide ［range］ of fabrics for dressmaking, from plain cotton to the most expensive silks.
+（訳）
 その店は、ふつうの木綿から最も高価な絹まで、洋服作り用の幅広い（種類の）布地を仕入れてそろえていました。
 （選択肢の意味）
-1 分野、畑
-2 銘柄、ブランド
-3 範囲、幅
-4 球、（活動の）領域
+1 field：分野、畑
+2 brand：銘柄、ブランド
+3 range：範囲、幅
+4 sphere：球、（活動の）領域
 【考え方】
 空所の前後は a wide (　) of fabrics（布地の広い（　））です。
 文の後半の from plain cotton to the most expensive silks（ふつうの木綿から最も高価な絹まで）に注目します。from A to B は「AからBまで」という意味で、安いものから高いものまで、いろいろな布地があったことを表しています。

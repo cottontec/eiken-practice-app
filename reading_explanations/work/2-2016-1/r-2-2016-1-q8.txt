@@ -5,13 +5,17 @@ reviewed: yes
 ---
 【正解】2 peel（皮をむく）
 【和訳】
+（英文）
+A: Mom, do you need help making the potato salad?
+B: Yes, please. Could you ［peel］ the potatoes? Then we can boil them.
+（訳）
 A：お母さん、ポテトサラダを作るのに手伝いはいる？
 B：ええ、お願い。ジャガイモの皮を（むいて）くれる？　そうしたら、ゆでられるよ。
 （選択肢の意味）
-1 溶かす
-2 皮をむく
-3 分析する
-4 代わりに使う
+1 melt：溶かす
+2 peel：皮をむく
+3 analyze：分析する
+4 substitute：代わりに使う
 【考え方】
 Bは Could you (　) the potatoes?（ジャガイモを（　）してくれる？）とたのみ、続けて Then we can boil them.（そうしたら、それらをゆでられる）と言っています。them は the potatoes（ジャガイモ）を指します。
 つまり、空所に入るのは「ゆでる前にジャガイモにしておくこと」です。ポテトサラダを作るとき、ゆでる前にジャガイモにすることとして自然なのは、皮をむくことです。

@@ -7,10 +7,10 @@ reviewed: yes
 【和訳】
 ジェーンは友人のロジャーから、来月こちらの町に来るので会いたい、と書かれたEメールを受け取りました。
 （選択肢の意味）
-1 ～と言っている（～と書いてある）
-2 言われている
-3 言われた
-4 言っている（be が付いた形）
+1 saying：～と言っている（～と書いてある）
+2 being said：言われている
+3 said：言われた
+4 be saying：言っている（be が付いた形）
 【考え方】
 この文の主な部分は Jane got an e-mail from her friend Roger（ジェーンは友人のロジャーからEメールを受け取った）です。そのあとに (　) that he would be in town next month and wanted to get together が続き、Eメールにどんなことが書いてあったかを説明しています。
 英語では、手紙やメール、看板などが「～と書いてある」と言うとき、say を使います。たとえば The e-mail says that ～ は「そのEメールには～と書いてある」という意味です。

@@ -4,12 +4,15 @@ answerText: As a general rule
 ---
 【正解】1 As a general rule（ふつうは、原則として）
 【和訳】
+（英文）
+［As a general rule］, Sam finishes his homework before eating dinner. Sometimes, however, he has too much to do and must continue it after dinner.
+（訳）
 （ふつうは）、サムは夕食を食べる前に宿題を終わらせます。しかし、ときどきやることが多すぎて、夕食のあとも宿題を続けなければなりません。
 （選択肢の意味）
-1 ふつうは、原則として
-2 長い目で見れば、最終的には
-3 何度も繰り返して
-4 それどころか、反対に
+1 As a general rule：ふつうは、原則として
+2 In the long run：長い目で見れば、最終的には
+3 Over and over：何度も繰り返して
+4 On the contrary：それどころか、反対に
 【考え方】
 2文目の Sometimes, however（しかし、ときどき）に注目します。however（しかし）は、前の文と反対向きの内容を述べるときに使います。
 2文目は「ときどき、やることが多すぎて夕食後も続けなければならない」です。これと反対になる1文目は「いつもは夕食前に宿題を終わらせる」という内容だと考えられます。「ときどきの例外」と対になるのは「ふだんのやり方」です。

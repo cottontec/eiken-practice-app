@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：科学者のチャールズ・ダーウィンは
-1 さまざまな文化で、ひげに対する考え方が時とともにどのように変わってきたかを研究した。
-2 ある種の化学物質が、10代の男の子の顔に毛を生えさせることを発見した。
-3 ひげは、男性が女性にとってより魅力的になるための手段だという考えを持っていた。
-4 科学者のグループが唱えた、ひげについての説を支持した。
+1 studied how attitudes to beards have changed in different cultures over time.（さまざまな文化で、ひげに対する考え方が時とともにどのように変わってきたかを研究した。）
+2 discovered that certain chemicals make hair grow on the faces of teenage boys.（ある種の化学物質が、10代の男の子の顔に毛を生えさせることを発見した。）
+3 had the idea that beards are a way for men to be more attractive to women.（ひげは、男性が女性にとってより魅力的になるための手段だという考えを持っていた。）
+4 supported a theory about beards that was suggested by a group of scientists.（科学者のグループが唱えた、ひげについての説を支持した。）
 【考え方】
 設問の Charles Darwin という名前を本文で探します。第1段落に、次の文があります。
 The scientist Charles Darwin suggested that men produce beards in order to be appealing to females, and many other scientists have supported this theory.（科学者のチャールズ・ダーウィンは、男性がひげを生やすのは女性にとって魅力的であるためだと唱え、ほかの多くの科学者たちもこの説を支持してきた）

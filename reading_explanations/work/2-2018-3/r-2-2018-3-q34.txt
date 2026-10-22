@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：コンピューターのプログラミングについて正しいのはどれですか。
-1 ほとんどの人は、最初のコンピュータープログラマーの中に女性がいたことを忘れていた。
-2 コンピュータープログラマーになるために勉強している人の大多数は女性である。
-3 男性のコンピュータープログラマーは、現代の経済の中で仕事を見つけるのに苦労している。
-4 コンピューターのプログラミングの仕事をしている男性のほとんどは、ペンシルベニア大学で学んだ。
+1 Most people had forgotten that some of the first computer programmers were female.（ほとんどの人は、最初のコンピュータープログラマーの中に女性がいたことを忘れていた。）
+2 A majority of people who study to become computer programmers are women.（コンピュータープログラマーになるために勉強している人の大多数は女性である。）
+3 Male computer programmers have trouble finding jobs in the modern economy.（男性のコンピュータープログラマーは、現代の経済の中で仕事を見つけるのに苦労している。）
+4 Most of the men working in computer programming studied at the University of Pennsylvania.（コンピューターのプログラミングの仕事をしている男性のほとんどは、ペンシルベニア大学で学んだ。）
 【考え方】
 第1段落を確かめます。
 However, some of the first computer programmers were a group of American women who worked at the University of Pennsylvania in the 1940s.（しかし、最初のコンピュータープログラマーの中には、1940年代にペンシルベニア大学で働いていたアメリカ人女性のグループがいた）

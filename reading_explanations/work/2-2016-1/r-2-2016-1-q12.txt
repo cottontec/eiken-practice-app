@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】1 under way（進行中で、行われている最中で）
 【和訳】
+（英文）
+Road construction is ［under way］ until next month on Maple Street. Drivers will not be able to use the street at all during this time.
+（訳）
 メープル通りでは、来月まで道路工事が（行われています）。この期間中、ドライバーはその通りをまったく使うことができません。
 （選択肢の意味）
-1 進行中で
-2 時代遅れで、期限切れで
-3 連絡を取って
-4 （うわさなどが）広まって、空中に
+1 under way：進行中で
+2 out of date：時代遅れで、期限切れで
+3 in touch：連絡を取って
+4 in the air：（うわさなどが）広まって、空中に
 【考え方】
 空所の前後は Road construction is (　) until next month（道路工事は来月まで（　）だ）です。until next month は「来月まで（ずっと）」という意味で、ある状態が来月まで続くことを表しています。
 次の文 Drivers will not be able to use the street at all during this time.（この期間中、ドライバーはその通りをまったく使えない）に注目します。not ～ at all は「まったく～ない」という強い否定です。工事が続いているから通りが使えない、という流れだと分かります。

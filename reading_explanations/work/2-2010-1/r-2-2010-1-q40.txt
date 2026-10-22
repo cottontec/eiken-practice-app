@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：その製品は、なぜウォルマートのような大企業にとって役に立つと考えられるのですか。
-1 スーパーマーケットの照明に、ばく大な量の電気を使っているから。
-2 新しいショックアブソーバーを取り付ける費用を、簡単に出せるから。
-3 それを使って、トラックの台数を減らせるから。
-4 商品を配達するのに、重いトラックをたくさん使っているから。
+1 They use huge amounts of electricity to light their supermarkets.（スーパーマーケットの照明に、ばく大な量の電気を使っているから。）
+2 They can easily afford to install the new shock absorbers.（新しいショックアブソーバーを取り付ける費用を、簡単に出せるから。）
+3 They could use it to reduce the number of their trucks.（それを使って、トラックの台数を減らせるから。）
+4 They use many heavy trucks to deliver their goods.（商品を配達するのに、重いトラックをたくさん使っているから。）
 【考え方】
 ウォルマート（Wal-Mart）が出てくる第4段落を見ます。
 まず The heavier the vehicle, the more electricity the shock absorbers can produce.（乗り物が重ければ重いほど、ショックアブソーバーはより多くの電気を生み出せる）とあります。the ＋ 比較級（「より～」を表す形）～, the ＋ 比較級 … は「～すればするほど、ますます…」という意味です。

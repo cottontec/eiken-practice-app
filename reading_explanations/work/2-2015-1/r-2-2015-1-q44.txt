@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：アメリカで工場を再開しようとしている企業は、なぜ困っているのですか。
-1 機械の使い方を知っている労働者が十分にいない。
-2 新しい工場労働者のための研修プログラムを運営するのは、費用がかかりすぎる。
-3 経済が弱いために、アメリカが税金を上げた。
-4 海外の製造で使われている設備を、持ち帰らなければならない。
+1 There are not enough workers who know how to use the machines.（機械の使い方を知っている労働者が十分にいない。）
+2 It is too expensive to run training programs for new factory workers.（新しい工場労働者のための研修プログラムを運営するのは、費用がかかりすぎる。）
+3 The weakness of the economy has caused the U.S. to raise taxes.（経済が弱いために、アメリカが税金を上げた。）
+4 The equipment used in manufacturing abroad must be brought back.（海外の製造で使われている設備を、持ち帰らなければならない。）
 【考え方】
 reopen their factories（工場を再開する）という言い方は、第4段落の1文目にあります。
 However, when companies reopen their factories in the U.S., they are faced with a big problem.（しかし、企業がアメリカで工場を再開すると、大きな問題に直面する）

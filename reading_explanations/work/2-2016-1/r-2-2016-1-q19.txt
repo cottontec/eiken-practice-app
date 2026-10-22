@@ -5,13 +5,17 @@ reviewed: yes
 ---
 【正解】3 that（～ということ）
 【和訳】
+（英文）
+A: How do you think you'll do in tomorrow's tennis match, Roger?
+B: I'm confident ［that］ I'll win. I've been playing really well lately.
+（訳）
 A：ロジャー、明日のテニスの試合はどうなると思う？
 B：（きっと）勝てる自信があるよ。最近、本当に調子よくプレーできているんだ。
 （選択肢の意味）
-1 ～でない限り
-2 ～だけれども
-3 ～ということ
-4 ～よりも
+1 unless：～でない限り
+2 although：～だけれども
+3 that：～ということ
+4 than：～よりも
 【考え方】
 空所の前は I'm confident（私は自信がある、確信している）、後ろは I'll win（私は勝つだろう）です。
 be confident that ～ で「～ということを確信している、きっと～だと自信がある」という意味になります。この that は、後ろに「主語＋動詞」の文を続けて、「自信がある内容」を表す働きをします。I'm confident that I'll win. で「きっと勝てると自信がある」となります。

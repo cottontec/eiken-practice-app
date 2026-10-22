@@ -8,10 +8,10 @@ reviewed: yes
 A：ジルの友達のグレアムは、ジルが困っていると、いつでも助けてくれるんだ。
 B：頼りにできる友達がいるなんて、彼女は幸せだね。
 （選択肢の意味）
-1 ～がいることを知っている
-2 ～を強く望む
-3 ～を頼りにする
-4 ～を支える、援護する
+1 know of：～がいることを知っている
+2 long for：～を強く望む
+3 count on：～を頼りにする
+4 back up：～を支える、援護する
 【考え方】
 Aは Graham always helps her whenever she has a problem（グレアムは、ジルが困ったときはいつでも彼女を助ける）と言っています。her と she はジルです。
 Bは She's lucky to have a friend she can (　).（彼女は、自分が（　）できる友達がいて幸運だ）と答えています。a friend she can (　) は「彼女が（　）できる友達」で、空所の動詞の目的語が a friend、つまりグレアムです。

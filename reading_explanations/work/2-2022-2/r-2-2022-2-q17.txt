@@ -4,12 +4,15 @@ answerText: in vain
 ---
 【正解】2 in vain（むだで、むだに終わって）
 【和訳】
+（英文）
+Barney tried to teach his cat to follow some simple commands, but his efforts were ［in vain］. Every time he told it to lie down, it just walked away.
+（訳）
 バーニーは、自分のネコに簡単な命令に従うことを教えようとしましたが、その努力は（むだでした）。彼が「伏せ」と言うたびに、ネコはただ歩き去ってしまいました。
 （選択肢の意味）
-1 最近
-2 むだで
-3 確かに、確実に
-4 偶然に
+1 of late：最近
+2 in vain：むだで
+3 for sure：確かに、確実に
+4 by chance：偶然に
 【考え方】
 前半に Barney tried to teach his cat to follow some simple commands（バーニーはネコに簡単な命令に従うことを教えようとした）とあり、but his efforts were (　)（しかし彼の努力は〔　〕だった）と続きます。but（しかし）があるので、教えようとした結果はうまくいかなかったと予想できます。
 後ろの文 Every time he told it to lie down, it just walked away. が、その様子を表しています。every time ～ は「～するたびに」、lie down は「横になる、伏せる」、walk away は「歩き去る」です。「伏せと言うたびに、ネコはただ歩き去った」のですから、教えようとしたことは身につきませんでした。in vain は「むだで、効果がなく」という意味なので、2が正解です。

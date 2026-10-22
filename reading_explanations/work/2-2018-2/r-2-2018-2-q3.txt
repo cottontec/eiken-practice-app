@@ -5,13 +5,17 @@ reviewed: yes
 ---
 【正解】4 urgent（急を要する、緊急の）
 【和訳】
+（英文）
+A: I don't have an appointment, but I need to speak to Ms. Jasper immediately. I have a very ［urgent］ message for her.
+B: All right, sir. I'll go find her right now.
+（訳）
 A：約束はしていないのですが、今すぐジャスパーさんとお話ししなければならないのです。彼女にとても（急ぎの）伝言があるのです。
 B：かしこまりました。今すぐ探してまいります。
 （選択肢の意味）
-1 関係のある、相対的な
-2 気前のよい、寛大な
-3 残酷な、むごい
-4 急を要する、緊急の
+1 relative：関係のある、相対的な
+2 generous：気前のよい、寛大な
+3 cruel：残酷な、むごい
+4 urgent：急を要する、緊急の
 【考え方】
 Aの I need to speak to Ms. Jasper immediately（今すぐジャスパーさんと話す必要がある）に注目します。immediately は「すぐに、ただちに」という意味です。約束がないのに今すぐ会いたいというのは、急いで伝えなければならない用事があるからだと考えられます。
 空所のあとの message は「伝言、知らせ」です。urgent（急を要する）を入れると a very urgent message（とても急ぎの伝言）となり、「今すぐ話したい」という理由として自然です。

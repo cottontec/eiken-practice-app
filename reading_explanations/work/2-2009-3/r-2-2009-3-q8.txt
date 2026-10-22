@@ -8,10 +8,10 @@ reviewed: yes
 A：ジェームズ、あなたの人生観を言い表すとしたら、どんなものですか。
 B：難しい質問ですね。でも、私の基本的な考え方は、どんな場面でも最善をつくすということです。
 （選択肢の意味）
-1 実験
-2 哲学、考え方、人生観
-3 差別
-4 会議
+1 experiment：実験
+2 philosophy：哲学、考え方、人生観
+3 discrimination：差別
+4 conference：会議
 【考え方】
 Aの質問は How would you describe your (　) of life?（あなたの人生の（　）をどのように言い表しますか）です。
 手がかりはBの答えです。Bは my basic approach is to do my best in every situation（私の基本的な考え方は、どんな場面でも最善をつくすことだ）と答えています。approach はここでは「（物事への）取り組み方、考え方」という意味です。Bは、自分が生きるうえで大切にしている考え方を答えているのです。

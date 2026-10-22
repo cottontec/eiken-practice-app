@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：北太平洋の海流は（　　）。
-1 ほとんど動かない中心の海域のまわりを流れている
-2 北アメリカからアジアの東海岸へごみを運ぶ
-3 海岸の近くの海域に着くにつれて、よりゆっくり動く
-4 ごみが海に運び出されないようにする
+1 flow around a central area that moves very little.（ほとんど動かない中心の海域のまわりを流れている）
+2 carry garbage from North America to the eastern coasts of Asia.（北アメリカからアジアの東海岸へごみを運ぶ）
+3 move more slowly as they reach the areas near the coasts.（海岸の近くの海域に着くにつれて、よりゆっくり動く）
+4 keep garbage from being carried out into the ocean.（ごみが海に運び出されないようにする）
 【考え方】
 海流（currents）について書かれているのは第2段落です。current は「（水や空気の）流れ」で、ocean current で「海流」です。
 2文目に The water in the northern Pacific flows in a huge circle, but in the center of the circle, there is an area where it hardly moves.（北太平洋の海水は巨大な円をえがいて流れているが、その円の中心には、水がほとんど動かない海域がある）とあります。hardly は「ほとんど～ない」という否定の意味をもつ語です。

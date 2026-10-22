@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：20世紀に、グアノの使用が減ったのはなぜですか。
-1 グアノを掘り出すことをいとわない労働者を見つけるのが難しかったから。
-2 造られる船が少なくなっていたため、グアノを運ぶのが難しくなったから。
-3 食べ物を育てるのに肥料がどれほど効果があるのか、人々が疑い始めたから。
-4 科学者たちが、より安い新しい種類の肥料を作り始めたから。
+1 It was difficult to find workers who were willing to dig it up.（グアノを掘り出すことをいとわない労働者を見つけるのが難しかったから。）
+2 It became harder to transport because fewer boats were being built.（造られる船が少なくなっていたため、グアノを運ぶのが難しくなったから。）
+3 People began to doubt how effective fertilizers were for growing food.（食べ物を育てるのに肥料がどれほど効果があるのか、人々が疑い始めたから。）
+4 Scientists began to create new types of fertilizers that were less expensive.（科学者たちが、より安い新しい種類の肥料を作り始めたから。）
 【考え方】
 第2段落の最後の文に、グアノの人気が落ちたことが書かれています。
 However, after cheaper artificial fertilizers were developed by chemists in Europe in the 1900s, guano became less popular.（しかし、1900年代にヨーロッパの化学者たちによって、より安い人工の肥料が開発されたあと、グアノは人気が落ちた）。cheaper は cheap（安い）の比較級で「より安い」、artificial fertilizers は「人工の肥料」、were developed は「開発された」、chemists は「化学者」です。

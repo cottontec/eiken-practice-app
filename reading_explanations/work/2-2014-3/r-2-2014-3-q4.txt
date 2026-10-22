@@ -5,13 +5,17 @@ reviewed: yes
 ---
 【正解】3 vague（ぼんやりした、はっきりしない）
 【和訳】
+（英文）
+A: Do you remember our visit to Paris when you were a child?
+B: The memory is very ［vague］, but I think I remember seeing the Eiffel Tower.
+（訳）
 A：あなたが子どものころに、私たちがパリを訪れたことを覚えている？
 B：記憶はとてもぼんやりしているけれど、エッフェル塔を見たことは覚えていると思うよ。
 （選択肢の意味）
-1 巨大な
-2 好奇心の強い、奇妙な
-3 ぼんやりした、はっきりしない
-4 まれな、珍しい
+1 massive：巨大な
+2 curious：好奇心の強い、奇妙な
+3 vague：ぼんやりした、はっきりしない
+4 rare：まれな、珍しい
 【考え方】
 Aは「子どものころにパリへ行ったことを覚えているか」とたずねています。Bの答えは The memory is very (　), but I think I remember seeing the Eiffel Tower.（記憶はとても（　）だけれど、エッフェル塔を見たことは覚えていると思う）です。
 ここで but（けれど）に注目します。but は、前と後ろで反対の向きの内容をつなぐ語です。後ろは「エッフェル塔を見たことは覚えていると思う」で、少しは覚えていることを表しています。しかも I think（～と思う）と言っていて、自信がない言い方です。そこで、前半は「あまりよく覚えていない」という内容になると考えられます。

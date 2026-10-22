@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：空気泡システムでは、
-1 船の下の仕切りが、空気の泡が逃げるのを防ぐのに役立つ。
-2 節約された燃料を、電気を作るのに使うことができる。
-3 泡が、船の底をよい状態に保つことができる。
-4 ポンプが、船が速く進みすぎるのを防ぐことができる。
+1 barriers under the ship help stop air bubbles from escaping.（船の下の仕切りが、空気の泡が逃げるのを防ぐのに役立つ。）
+2 the fuel that is saved can be used to produce electricity.（節約された燃料を、電気を作るのに使うことができる。）
+3 bubbles can keep the ship's bottom in good condition.（泡が、船の底をよい状態に保つことができる。）
+4 the pump can prevent the ship from moving too quickly.（ポンプが、船が速く進みすぎるのを防ぐことができる。）
 【考え方】
 第3段落を見ます。1文目に At first, one problem with this system was that the bubbles tended to escape easily.（最初、このシステムの問題の1つは、泡が逃げやすいことだった）とあります。tend to ～ は「～しがちである」という意味です。
 2文目は However, by creating thin barriers on both sides underneath the ship, it became possible to trap the air for longer.（しかし、船の下側の両側に薄い仕切りを作ることで、空気をより長くとどめておけるようになった）です。barrier は「仕切り、さえぎるもの」、trap は「～を閉じこめる、とどめておく」という意味です。

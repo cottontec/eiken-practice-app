@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：ヘイルとインスティテュート・フォー・ワンワールド・ヘルスは（　）。
-1 海外の人々に無料で提供することで、パロモマイシンを試験した
-2 ある製薬会社に、パロモマイシンの開発を続けるよう頼んだ
-3 パロモマイシンが黒熱病に効果があることを証明した
-4 パロモマイシンをインド政府に売った
+1 tested paromomycin by providing it for free to people abroad.（海外の人々に無料で提供することで、パロモマイシンを試験した）
+2 asked a drug company to continue developing paromomycin.（ある製薬会社に、パロモマイシンの開発を続けるよう頼んだ）
+3 proved paromomycin is effective against black fever.（パロモマイシンが黒熱病に効果があることを証明した）
+4 sold paromomycin to the Indian government.（パロモマイシンをインド政府に売った）
 【考え方】
 設問は have ＋ 過去分詞（tested や proved のような「～した」を表す形）が続く形（現在完了）で、「これまでにしたこと」をたずねています。パロモマイシンについて書かれた第3段落を見ます。
 段落の初めに、Her company is expecting to achieve its first success with a drug to cure the disease known as black fever.（彼女の会社は、黒熱病として知られる病気を治す薬で、最初の成功を収めようとしている）とあります。ここでいう「薬」がパロモマイシンです。

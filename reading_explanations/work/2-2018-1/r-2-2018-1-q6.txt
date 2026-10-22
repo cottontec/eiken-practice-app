@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】3 violates（～に違反する、～を破る）
 【和訳】
+（英文）
+Castleville High School is a very strict school. If a student ［violates］ a rule, the school immediately calls his or her parents. As a result, the students usually behave well.
+（訳）
 キャッスルビル高校は、とても厳しい学校です。生徒が規則に（違反する）と、学校はすぐにその生徒の親に電話をします。その結果、生徒たちはたいてい行儀よくしています。
 （選択肢の意味）
-1 ～を遅らせる
-2 ～に近づく
-3 ～に違反する、～を破る
-4 ～を翻訳する
+1 delays：～を遅らせる
+2 approaches：～に近づく
+3 violates：～に違反する、～を破る
+4 translates：～を翻訳する
 【考え方】
 1文目の a very strict school（とても厳しい学校）に注目します。続く文は、その厳しさの具体例です。
 If a student (　) a rule, the school immediately calls his or her parents.（生徒が規則を（　）すると、学校はすぐにその生徒の親に電話をする）とあります。学校がすぐに親に連絡するのは、生徒が何か悪いことをしたときだと考えられます。規則に関して悪いことといえば「規則を破ること」です。

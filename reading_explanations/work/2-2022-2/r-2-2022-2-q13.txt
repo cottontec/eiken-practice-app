@@ -4,13 +4,17 @@ answerText: fool
 ---
 【正解】3 fool（ばか、愚か者）
 【和訳】
+（英文）
+A: What's wrong, Emily?
+B: Jim made a ［fool］ of me in front of my friends. He said my shoes were ugly.
+（訳）
 A：どうしたの、エミリー？
 B：ジムが、友だちの前で私を（笑いもの）にしたんだ。私の靴がかっこ悪いと言ったんだよ。
 （選択肢の意味）
-1 違い
-2 要点、点
-3 ばか、愚か者
-4 始まり、開始
+1 difference：違い
+2 point：要点、点
+3 fool：ばか、愚か者
+4 start：始まり、開始
 【考え方】
 Aの What's wrong?（どうしたの？）に対して、Bが困ったことを話しています。Bの後半に He said my shoes were ugly.（彼は私の靴がかっこ悪いと言った）とあり、しかもそれは in front of my friends（友だちの前で）のことでした。
 make a fool of ～ は「～を笑いものにする、～をばかにする」という決まった言い方です。Jim made a fool of me で「ジムが私を笑いものにした」となり、友だちの前で靴をけなされたという内容に合います。3が正解です。

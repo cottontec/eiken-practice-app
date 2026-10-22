@@ -5,13 +5,17 @@ reviewed: yes
 ---
 【正解】1 knitting（編んでいる）
 【和訳】
+（英文）
+A: I'm ［knitting］ this sweater for my cousin.
+B: Wow, Heidi, that's nice. I really like the color of the wool you're using.
+（訳）
 A：いとこのために、このセーターを編んでいるところなんだ。
 B：わあ、ハイディ、すてきだね。使っている毛糸の色、本当にいいね。
 （選択肢の意味）
-1 編んでいる
-2 （液体に）ひたしている
-3 送っている、伝えている
-4 制限している
+1 knitting：編んでいる
+2 soaking：（液体に）ひたしている
+3 transmitting：送っている、伝えている
+4 limiting：制限している
 【考え方】
 Bの返事 I really like the color of the wool you're using.（あなたが使っている毛糸の色が本当に好きだ）に注目します。wool は「毛糸、羊毛」です。
 Aは、毛糸を使ってセーターに何かをしているところだと分かります。毛糸を使ってセーターを作ることを knit（編む）と言います。I'm knitting this sweater for my cousin.（いとこのためにこのセーターを編んでいる）となり、Bの返事ともつながります。正解は1です。

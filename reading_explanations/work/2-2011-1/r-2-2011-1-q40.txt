@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：一部の科学者たちは何をしようとしているか。
-1 ロボットを使って、人々がおたがいにもっと礼儀正しくする方法を教える。
-2 ロボットがもっと人間のようにふるまうようにプログラムする。
-3 ロボットがときどき動かなくなる理由を分析する。
-4 昼よりも夜に多くの仕事をするロボットを設計する。
+1 Use robots to teach people how to be more polite to each other.（ロボットを使って、人々がおたがいにもっと礼儀正しくする方法を教える。）
+2 Program robots to behave more like human beings.（ロボットがもっと人間のようにふるまうようにプログラムする。）
+3 Analyze the reasons why robots sometimes stop working.（ロボットがときどき動かなくなる理由を分析する。）
+4 Design robots that do more work at night than they do in the day.（昼よりも夜に多くの仕事をするロボットを設計する。）
 【考え方】
 設問の some scientists（一部の科学者たち）は、第4段落の scientists at the University of Washington（ワシントン大学の科学者たち）のことです。
 その文は One possible answer, being developed by scientists at the University of Washington, in Seattle, is a program that allows robots to analyze and imitate human behavior.（考えられる解決策の1つとして、シアトルのワシントン大学の科学者たちが開発中なのが、ロボットが人間のふるまいを分析してまねできるようにするプログラムだ）です。analyze は「分析する（くわしく調べる）」、imitate は「まねする」、behavior は「ふるまい」という意味です。

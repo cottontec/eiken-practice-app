@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：リチャード・ヘンリーはターナーさんに（　）と伝えている。
-1 店は、彼がそこへ行くのに使ったお金を返すべきだ
-2 店は、傷んだ商品を修理しないという方針を変えなければならない
-3 セーターの代金として、自分にお金を送ってほしい
-4 店の方針にもかかわらず、自分は返金を受けるべきだと思っている
+1 the store should refund the money he spent to get there.（店は、彼がそこへ行くのに使ったお金を返すべきだ）
+2 the store must change its policy of not repairing damaged items.（店は、傷んだ商品を修理しないという方針を変えなければならない）
+3 he would like her to send some money to him for the sweater.（セーターの代金として、自分にお金を送ってほしい）
+4 he thinks he should get a refund despite the store's policy.（店の方針にもかかわらず、自分は返金を受けるべきだと思っている）
 【考え方】
 リチャードの願いは、メールの最後の段落に書かれています。
 まず I understand that your store has a policy of not giving refunds on sale items.（そちらの店に、セール品は返金しないという方針があることは分かっている）とあります。refund は「返金（払ったお金を返すこと）」、policy は「方針、決まり」です。

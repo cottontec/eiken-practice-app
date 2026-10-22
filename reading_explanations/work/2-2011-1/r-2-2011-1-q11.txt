@@ -7,10 +7,10 @@ reviewed: yes
 【和訳】
 サラは、新製品の販売計画を準備するのに長い時間をかけました。しかし、会社がその製品を売り出さないことに決めたので、彼女の努力はすべてむだになりました。
 （選択肢の意味）
-1 略して
-2 無料で
-3 使われて、運行中で
-4 むだに、むなしく
+1 for short：略して
+2 for free：無料で
+3 in service：使われて、運行中で
+4 in vain：むだに、むなしく
 【考え方】
 1文目では、サラが新製品の販売計画を長い時間をかけて準備したと書かれています。2文目は However（しかし）で始まるので、その努力がよくない結果になったと予想できます。
 because 以下は her company decided against putting the product on the market（会社がその製品を市場に出さないことに決めた）です。decide against ～ing は「～しないことに決める」、put ～ on the market は「～を売り出す」という意味です。

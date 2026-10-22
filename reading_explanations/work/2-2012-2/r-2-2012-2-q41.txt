@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：多くの国で使われている洗濯機の問題点の1つは何ですか。
-1 多くの人は、洗濯機を買うのに十分なお金を持っていない。
-2 洗濯機は、家庭で使われる水の3分の1を消費する。
-3 洗濯機が使う水を温めるのに、多くのエネルギーが必要とされる。
-4 洗濯機は、手洗いほど衣服をきれいにしない。
+1 Many people do not have enough money to buy one.（多くの人は、洗濯機を買うのに十分なお金を持っていない。）
+2 They consume one-third of the water used in homes.（洗濯機は、家庭で使われる水の3分の1を消費する。）
+3 A lot of energy is required to heat the water they use.（洗濯機が使う水を温めるのに、多くのエネルギーが必要とされる。）
+4 They do not get clothes as clean as washing by hand.（洗濯機は、手洗いほど衣服をきれいにしない。）
 【考え方】
 設問の problem（問題点）と同じような意味の言葉を本文で探すと、第1段落の3文目に Washing machines, though, have some serious disadvantages.（けれども、洗濯機にはいくつかの深刻な欠点がある）とあります。disadvantage は「欠点、不利な点」という意味です。そのあとに欠点が2つ挙げられています。
 1つ目は One is that they need a great deal of clean water.（1つは、大量のきれいな水が必要なこと）です。2つ目は Another is that, in many countries, hot water is used in the machines. This consumes a lot of energy.（もう1つは、多くの国では洗濯機にお湯が使われていることだ。これは多くのエネルギーを消費する）です。設問の in many countries（多くの国で）も、この2つ目の欠点の部分に出てきます。

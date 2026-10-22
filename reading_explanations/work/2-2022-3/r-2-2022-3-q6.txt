@@ -4,12 +4,15 @@ answerText: distribute
 ---
 【正解】4 distribute（配る、分配する）
 【和訳】
+（英文）
+Julie's teacher asked her to ［distribute］ the new textbooks to all of the students. She had to place one on each desk in the classroom.
+（訳）
 ジュリーの先生は彼女に、新しい教科書を生徒全員に（配る）ように頼みました。彼女は教室のそれぞれの机に1冊ずつ置かなければなりませんでした。
 （選択肢の意味）
-1 答える、反応する
-2 交渉する
-3 崩れる、倒れる
-4 配る、分配する
+1 respond：答える、反応する
+2 negotiate：交渉する
+3 collapse：崩れる、倒れる
+4 distribute：配る、分配する
 【考え方】
 空所のあとの the new textbooks to all of the students（新しい教科書を生徒全員に）に注目します。「教科書を生徒全員に（　）する」という形です。
 次の文 She had to place one on each desk in the classroom.（彼女は教室のそれぞれの机に1冊ずつ置かなければならなかった）が大きな手がかりです。one は a textbook（教科書1冊）のことです。机ごとに1冊ずつ置くのは、教科書を「配る」ことにあたります。

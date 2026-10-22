@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】2 description（説明、描写）
 【和訳】
+（英文）
+Joe made a web page to sell some of his old items. He put pictures on the web page and wrote a detailed ［description］ of each item.
+（訳）
 ジョーは、自分の古い品物のいくつかを売るためにウェブページを作りました。彼はそのウェブページに写真をのせ、それぞれの品物のくわしい（説明）を書きました。
 （選択肢の意味）
-1 道筋、ルート
-2 説明、描写
-3 金づち、ハンマー
-4 交響曲
+1 route：道筋、ルート
+2 description：説明、描写
+3 hammer：金づち、ハンマー
+4 symphony：交響曲
 【考え方】
 最初の文から、ジョーは古い品物を売るためにウェブページを作ったことが分かります。次の文は He put pictures on the web page and wrote a detailed (　) of each item.（ウェブページに写真をのせ、それぞれの品物のくわしい（　）を書いた）です。
 空所の前には wrote（書いた）と detailed（くわしい）があり、あとには of each item（それぞれの品物の）があります。つまり、空所には「品物について書くもので、くわしくできるもの」が入ります。品物を売るときには、写真と一緒に、その品物がどんなものかを文で説明するのが自然です。

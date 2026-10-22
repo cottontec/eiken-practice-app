@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：クレイドル・トゥ・クレイドルの仕組みが製品を測る方法の1つは何ですか。
-1 製品が建物の中で使うのにどれくらい安全かを明らかにしようとする。
-2 製品を作るのにどれだけのエネルギーが必要かを考慮する。
-3 製品の材料の値段を調べる。
-4 製品を似た製品と比べて、いちばんよいものを選ぶ。
+1 It tries to figure out how safe they are for use in buildings.（製品が建物の中で使うのにどれくらい安全かを明らかにしようとする。）
+2 It considers how much energy is needed to create them.（製品を作るのにどれだけのエネルギーが必要かを考慮する。）
+3 It looks at the price of the materials from which they are made.（製品の材料の値段を調べる。）
+4 It compares them with similar products and chooses the best one.（製品を似た製品と比べて、いちばんよいものを選ぶ。）
 【考え方】
 製品を評価する仕組みについては、第3段落に書かれています。
 McDonough and Braungart developed a system for rating goods according to how close they come to the C2C ideal.（マクダナーとブラウンガートは、製品を、C2Cの理想にどれだけ近いかによって評価する仕組みを作った）とあります。rate は「評価する」、ideal は「理想」です。

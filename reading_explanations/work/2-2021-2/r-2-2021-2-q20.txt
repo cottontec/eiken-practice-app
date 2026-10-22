@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】1 all the more（なおさら、いっそう）
 【和訳】
+（英文）
+Shuntaro has always tried to help the other members of the chess club. He has been doing so ［all the more］ since he became the club's president earlier this year.
+（訳）
 シュンタロウはいつも、チェス部のほかの部員たちを助けようとしてきました。今年に入って部長になってからは、（なおさら）そうしています。
 （選択肢の意味）
-1 なおさら、いっそう
-2 ごきげんよう、お元気で（別れのあいさつ）
-3 それだけいっそうよい
-4 （このような決まった言い方はない）
+1 all the more：なおさら、いっそう
+2 all the best：ごきげんよう、お元気で（別れのあいさつ）
+3 all the better：それだけいっそうよい
+4 all the most：（このような決まった言い方はない）
 【考え方】
 最初の文は Shuntaro has always tried to help the other members of the chess club.（シュンタロウはいつも、チェス部のほかの部員たちを助けようとしてきた）です。
 次の文は He has been doing so (　) since he became the club's president earlier this year. です。doing so（そうすること）は、最初の文の「ほかの部員を助けようとすること」を指します。since ～ は「～して以来」、earlier this year は「今年に入って（今より前に）」という意味です。

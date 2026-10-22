@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】2 no matter what（何を～しても）
 【和訳】
+（英文）
+Daniel is a model who appears in many fashion magazines. Many people think that he looks good ［no matter what］ he wears.
+（訳）
 ダニエルは、たくさんのファッション雑誌に出ているモデルです。多くの人が、彼は（何を）着て（も）すてきに見えると思っています。
 （選択肢の意味）
 1 （there is no telling where の形で）どこなのか分からない
-2 何を～しても
-3 決して～ではない、～のほかは何でも
-4 その場合には
+2 no matter what：何を～しても
+3 anything but：決して～ではない、～のほかは何でも
+4 in which case：その場合には
 【考え方】
 空所の前は he looks good（彼はすてきに見える）で、すでに文の形がそろっています。空所のあとは he wears（彼が着る）です。wear は「～を着る」という意味なので、本来は「何を着るか」にあたる語が必要です。しかし、he wears のあとには何もありません。そこで、空所の中に「何を」にあたる what を含む語句が入ると考えます。
 no matter what ～ は「たとえ何を～しても」という意味です。no matter what he wears で「彼が何を着ても」となり、he looks good no matter what he wears（彼は何を着てもすてきに見える）という文ができます。人気のモデルについての説明としても自然です。2が正解です。

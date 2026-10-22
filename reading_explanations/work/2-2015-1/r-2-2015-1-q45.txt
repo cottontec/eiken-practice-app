@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：次の記述のうち、正しいものはどれですか。
-1 専門家たちは、アジアの工場の仕事が劇的に減り続けると予想している。
-2 衣料品だけでなく、ほかの種類の産業も、将来アメリカに戻ってくるかもしれない。
-3 将来、工場で製品を作るのに、人間の労働者はまったく必要なくなる。
-4 発展途上国の賃金は、まもなくアメリカの賃金より高くなるかもしれない。
+1 Experts expect that factory jobs in Asia will continue to decline dramatically.（専門家たちは、アジアの工場の仕事が劇的に減り続けると予想している。）
+2 Not only clothing but other types of industries might return to the U.S. in the future.（衣料品だけでなく、ほかの種類の産業も、将来アメリカに戻ってくるかもしれない。）
+3 No human workers will be needed at all in the future to make goods in factories.（将来、工場で製品を作るのに、人間の労働者はまったく必要なくなる。）
+4 Wages in developing countries might soon become higher than those in the U.S.（発展途上国の賃金は、まもなくアメリカの賃金より高くなるかもしれない。）
 【考え方】
 本文全体から正しいものを選ぶ問題なので、選択肢を1つずつ本文と照らし合わせます。選択肢2の「ほかの産業も戻ってくるかもしれない」は、第3段落と第4段落の内容と結びつきます。
 第3段落1～2文目：Now, though, there are signs that some of the manufacturing industry that went abroad is beginning to return. One example of this is the clothing industry.（しかし今、海外へ出ていった製造業の一部が戻り始めている兆しがある。その一例が衣料品産業だ）

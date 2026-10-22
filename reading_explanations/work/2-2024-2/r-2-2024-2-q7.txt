@@ -4,12 +4,15 @@ answerText: minister
 ---
 【正解】4 minister（大臣）
 【和訳】
+（英文）
+The ［minister］ of education is responsible for ensuring that the country's schools, universities, and other places of learning are being managed well.
+（訳）
 教育（大臣）は、国の学校や大学、そのほかの学びの場がきちんと運営されているようにする責任を負っています。
 （選択肢の意味）
-1 夜明け
-2 信頼、信仰
-3 移民（外国から移り住んできた人）
-4 大臣
+1 dawn：夜明け
+2 faith：信頼、信仰
+3 immigrant：移民（外国から移り住んできた人）
+4 minister：大臣
 【考え方】
 空所のあとの is responsible for ～ は「～に責任がある、～を担当している」という意味です。責任を負うのは、ふつうは人や組織です。
 責任の中身は ensuring that the country's schools, universities, and other places of learning are being managed well（国の学校や大学、そのほかの学びの場がきちんと運営されているようにすること）です。ensure that ～ は「確実に～であるようにする」という意味です。国の学校全体に責任を持つ人ですから、国の大切な仕事をまかされた人だと考えられます。

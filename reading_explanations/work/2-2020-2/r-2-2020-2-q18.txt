@@ -5,13 +5,17 @@ reviewed: yes
 ---
 【正解】1 to know（〔ひょっとして〕知っている）
 【和訳】
+（英文）
+A: I don't need this sofa anymore. Do you happen ［to know］ anyone who would want it?
+B: Yes! Actually, I'll take it.
+（訳）
 A：このソファはもういらないんだ。ひょっとして、それをほしがりそうな人をだれか（知って）いる？
 B：うん！　実は、私がもらうよ。
 （選択肢の意味）
-1 to＋動詞の原形の形（知っている）
-2 -ing の形（知っていること）
-3 受け身の -ing の形（知られていること）
-4 完了の -ing の形（知っていたこと）
+1 to know：to＋動詞の原形の形（知っている）
+2 knowing：-ing の形（知っていること）
+3 being known：受け身の -ing の形（知られていること）
+4 having known：完了の -ing の形（知っていたこと）
 【考え方】
 空所の前の happen に注目します。happen to ～ は「たまたま～する」という意味で、to のあとに動詞の原形（know のような、もとの形）が来ます。
 特に、疑問文の Do you happen to know ～? は「ひょっとして～を知っていますか」と、相手にていねいにたずねる言い方です。

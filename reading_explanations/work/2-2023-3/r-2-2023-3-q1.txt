@@ -4,13 +4,17 @@ answerText: pour
 ---
 【正解】4 pour（注ぐ）
 【和訳】
+（英文）
+A: Ellen, could you hold these glasses for me while I ［pour］ wine into them for our guests?
+B: Sure. That bottle looks heavy. Be careful not to spill any!
+（訳）
 A：エレン、お客さんのためにこのグラスにワインを（注ぐ）間、グラスを持っていてくれる？
 B：いいよ。そのびん、重そうだね。少しもこぼさないように気をつけてね！
 （選択肢の意味）
-1 おぼれる、おぼれさせる
-2 つかむ
-3 打つ、たたく
-4 注ぐ
+1 drown：おぼれる、おぼれさせる
+2 grab：つかむ
+3 hit：打つ、たたく
+4 pour：注ぐ
 【考え方】
 空所のあとの wine into them（それら〔グラス〕の中へワインを）に注目します。them は前に出てくる these glasses（このグラス）を指しています。「ワインをグラスの中へ（　）する」という形なので、液体を入れ物に入れる動作を表す語が入ると考えます。
 pour は「（液体を）注ぐ」という意味で、pour ～ into ...（～を…に注ぐ）の形でよく使われます。これを入れると「お客さんのためにグラスにワインを注ぐ間、グラスを持っていて」となり、意味が通ります。

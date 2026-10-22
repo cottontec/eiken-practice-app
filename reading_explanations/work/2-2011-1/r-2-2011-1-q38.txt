@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：病院を経営する人たちは、なぜTUGを気に入っているのか。
-1 次にどの仕事をすべきかを推測できるから。
-2 ある病院から別の病院へ簡単に移動できるから。
-3 働く人たちが単純な仕事に時間をむだにしないようにできるから。
-4 新しく来た看護師が病院の中で迷わずに動けるよう手助けできるから。
+1 It can guess what task it should do next.（次にどの仕事をすべきかを推測できるから。）
+2 It can move easily from one hospital to another.（ある病院から別の病院へ簡単に移動できるから。）
+3 It can stop workers from wasting time on simple jobs.（働く人たちが単純な仕事に時間をむだにしないようにできるから。）
+4 It can help new nurses find their way around the hospital.（新しく来た看護師が病院の中で迷わずに動けるよう手助けできるから。）
 【考え方】
 設問の people who run hospitals（病院を経営する人たち）は、本文では Hospital managers（病院の経営者たち）と書かれています。第2段落の最後の文を見ます。
 Hospital managers like TUG because it allows hospital workers to concentrate on the jobs they were originally trained to do.（病院の経営者たちがTUGを気に入っているのは、病院で働く人たちが、もともとするために訓練を受けてきた仕事に集中できるようになるからだ）。concentrate on ～ は「～に集中する」です。

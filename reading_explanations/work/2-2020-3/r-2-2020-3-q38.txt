@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：次の記述のうち、正しいものはどれですか。
-1 ジョージ・ワシントンが、鉄をリサイクルするという考えをアメリカに取り入れた。
-2 19世紀の間に、金属の必要性が高まった。
-3 金属は、電気をつくるときに出る毒の量を減らすことができる。
-4 企業は、新しいスマートフォンのための金に、毎年約6,000万ドルを使っている。
+1 George Washington introduced the idea of recycling iron to the United States.（ジョージ・ワシントンが、鉄をリサイクルするという考えをアメリカに取り入れた。）
+2 There was an increase in the need for metals during the 19th century.（19世紀の間に、金属の必要性が高まった。）
+3 Metals can reduce the amount of poisons released by electricity production.（金属は、電気をつくるときに出る毒の量を減らすことができる。）
+4 Companies spend about $60 million each year on gold for new smartphones.（企業は、新しいスマートフォンのための金に、毎年約6,000万ドルを使っている。）
 【考え方】
 本文全体から正しいものを選ぶ設問なので、選択肢を1つずつ本文と照らし合わせます。2の「19世紀」は、第3段落の初めに出てきます。
 During the 19th century, large companies specializing in recycling were established to meet a higher demand for metals.（19世紀には、〔それまでより〕高まった金属の需要にこたえるために、リサイクルを専門とする大企業がつくられた）

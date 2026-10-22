@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：来週から、ブラクストン・インダストリーズの従業員は
-1 建物の南側の階段を使わなければならない。
-2 建物の中央部分のエレベーターを使ってはならない。
-3 機材を事務所のほかの場所に移すよう求められる。
-4 事務所の建物に入ることを許されない。
+1 must use the stairs on the south side of the building.（建物の南側の階段を使わなければならない。）
+2 must not use the elevator in the central part of the building.（建物の中央部分のエレベーターを使ってはならない。）
+3 will be asked to move equipment to other parts of the office.（機材を事務所のほかの場所に移すよう求められる。）
+4 will not be allowed to enter the office building.（事務所の建物に入ることを許されない。）
 【考え方】
 設問の Starting next week（来週から）に注目し、来週から何が変わるのかを探します。第2段落に次の2文があります。
 Next week, construction will begin on the north side of the building, and it will last for about one month.（来週、建物の北側で工事が始まり、約1か月続く）

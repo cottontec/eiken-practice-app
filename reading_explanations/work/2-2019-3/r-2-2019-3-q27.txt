@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：ウォルターズさんは、なぜARP銀行に連絡したのですか。
-1 彼は、オンラインバンキングの設定のしかたが分からない。
-2 彼は、オンラインの銀行口座にログインできない。
-3 彼は、だれかが自分の口座にアクセスしようとしたと思っている。
-4 彼は、自分の口座の新しいパスワードを設定するのを忘れた。
+1 He does not know how to set up online banking.（彼は、オンラインバンキングの設定のしかたが分からない。）
+2 He cannot log in to his online bank account.（彼は、オンラインの銀行口座にログインできない。）
+3 He thinks someone tried to access his account.（彼は、だれかが自分の口座にアクセスしようとしたと思っている。）
+4 He forgot to set a new password for his account.（彼は、自分の口座の新しいパスワードを設定するのを忘れた。）
 【考え方】
 このEメールは、ARP銀行のジェナ・スミスさんが、ウォルターズさんに返事として送ったものです。第1段落の始めに Thank you for contacting ARP Bank.（ARP銀行にご連絡いただき、ありがとうございます）とあるので、ウォルターズさんが先に銀行へ連絡していたことが分かります。
 連絡の内容は、そのあとの文に書かれています。

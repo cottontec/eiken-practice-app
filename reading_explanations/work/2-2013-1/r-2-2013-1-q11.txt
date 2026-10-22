@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】2 accounted for（be accounted for で「（人の）所在や無事が確認されている」）
 【和訳】
+（英文）
+In the event of a large earthquake, the manager must make sure that all the employees are ［accounted for］. This is to be sure that no one is missing.
+（訳）
 大きな地震が起きた場合には、責任者は、従業員全員の無事が確認されているかを必ず確かめなければなりません。これは、行方不明の人がだれもいないことを確実にするためです。
 （選択肢の意味）
-1 （stand up の過去分詞）立ち上がった
-2 所在・無事が確認された
-3 付け加えられた
-4 （take after の過去分詞）似られた
+1 stood up：（stand up の過去分詞）立ち上がった
+2 accounted for：所在・無事が確認された
+3 added on：付け加えられた
+4 taken after：（take after の過去分詞）似られた
 【考え方】
 2文目の This is to be sure that no one is missing.（これは、行方不明の人がだれもいないことを確実にするためだ）に注目します。missing は「行方不明の、見当たらない」という意味です。
 つまり1文目では、地震のときに責任者が「全員がそろっているか、無事かどうか」を確かめなければならない、と言っていると考えられます。make sure that ～ は「～であることを確かめる」という意味です。

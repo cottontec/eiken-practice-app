@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】3 drowning（おぼれている）
 【和訳】
+（英文）
+The lifeguard ran into the ocean to help a young girl who looked like she was ［drowning］ in the big waves.
+（訳）
 ライフガードは、大きな波の中で（おぼれている）ように見えた幼い女の子を助けるために、海に駆け込みました。
 （選択肢の意味）
-1 提案している、結婚を申し込んでいる
-2 変えている、変換している
-3 おぼれている
-4 輸出している
+1 proposing：提案している、結婚を申し込んでいる
+2 converting：変えている、変換している
+3 drowning：おぼれている
+4 exporting：輸出している
 【考え方】
 まず lifeguard に注目します。lifeguard は、海やプールで泳ぐ人の安全を見守り、おぼれた人を助ける「監視員、ライフガード」のことです。
 そのライフガードが ran into the ocean to help a young girl（幼い女の子を助けるために海に駆け込んだ）とあります。女の子は in the big waves（大きな波の中で）、助けが必要な様子だったと分かります。

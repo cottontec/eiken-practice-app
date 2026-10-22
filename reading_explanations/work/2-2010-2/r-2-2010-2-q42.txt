@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：デザーテックの太陽熱発電所はどのようにして電気を作り出しますか。
-1 ソーラーパネルを使って、日光から電気を作ることによって。
-2 水を熱して、タービンを回す蒸気を作ることによって。
-3 サハラ砂漠からヨーロッパへお湯を送ることによって。
-4 アフリカの電力システムとカリフォルニアのものをつなぐことによって。
+1 By using solar panels to make electricity from sunlight.（ソーラーパネルを使って、日光から電気を作ることによって。）
+2 By heating water to make steam that will turn turbines.（水を熱して、タービンを回す蒸気を作ることによって。）
+3 By sending hot water from the Sahara Desert to Europe.（サハラ砂漠からヨーロッパへお湯を送ることによって。）
+4 By connecting Africa's power system with the one in California.（アフリカの電力システムとカリフォルニアのものをつなぐことによって。）
 【考え方】
 発電所のしくみは、第2段落に書かれています。Solar power stations work by using the strong desert sunlight to turn water into steam. This steam then turns turbines to create electricity.（太陽熱発電所は、砂漠の強い日光を使って水を蒸気に変えることで動く。そして、この蒸気がタービンを回して電気を作る）とあります。turn A into B は「AをBに変える」、turbine は「タービン（羽根車）」です。
 強い日光で水が蒸気に変わるということは、日光の熱で水を熱しているということです。本文と選択肢は次のように対応しています。

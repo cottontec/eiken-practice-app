@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】4 from（～が原因で）
 【和訳】
+（英文）
+While Simon was on vacation, he became sick ［from］ eating too much food. After resting for a couple of hours, however, he felt better.
+（訳）
 サイモンは休暇中に、食べすぎ（が原因で）具合が悪くなりました。しかし、数時間休んだあと、彼は気分がよくなりました。
 （選択肢の意味）
-1 ～へ、～まで
-2 ～で、～に（場所・時刻など）
-3 ～の上に、～について
-4 ～から、～が原因で
+1 to：～へ、～まで
+2 at：～で、～に（場所・時刻など）
+3 on：～の上に、～について
+4 from：～から、～が原因で
 【考え方】
 空所の前後は he became sick (　) eating too much food です。became sick は「具合が悪くなった」、eating too much food は「食べ物を食べすぎること」です。
 食べすぎることは、具合が悪くなった原因だと考えられます。そこで、原因を表す前置詞（名詞や -ing 形の前に置いて、場所・時・原因などを表す語）を選びます。

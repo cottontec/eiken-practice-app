@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：レスリー・ラインワンドのチームがビルマニシキヘビの血液について知ったことの1つは何ですか。
-1 それには、マウスの心臓の細胞を（もとより）大きくする効果がある。
-2 それは、家畜の体を大きくするのに使うことができる。
-3 それは、ほかの動物の血液に加えられると、劇的にふくらむ。
-4 それは、マウスが眠っている間に、マウスの心臓を小さくする。
+1 It has the effect of making mice's heart cells grow larger.（それには、マウスの心臓の細胞を（もとより）大きくする効果がある。）
+2 It can be used to increase the size of farm animals.（それは、家畜の体を大きくするのに使うことができる。）
+3 It expands dramatically when added to the blood of other animals.（それは、ほかの動物の血液に加えられると、劇的にふくらむ。）
+4 It reduces the size of mice's hearts while the mice are sleeping.（それは、マウスが眠っている間に、マウスの心臓を小さくする。）
 【考え方】
 設問は、ラインワンドのチームがヘビの血液について分かったことをたずねています。第2段落に、チームの研究が書かれています。
 The team found that certain chemicals in the snake's blood cause the heart to grow.（チームは、ヘビの血液に含まれるある種の化学物質が、心臓を大きくしていることを発見した）

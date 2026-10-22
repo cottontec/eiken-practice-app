@@ -5,13 +5,17 @@ reviewed: yes
 ---
 【正解】2 that（～ということ）
 【和訳】
+（英文）
+A: Do you remember Ann? She was at college with us. What was her last name?
+B: I can't remember anything about her except ［that］ she was always talking in class.
+（訳）
 A：アンを覚えている？私たちと一緒に大学にいた人だよ。名字は何だったっけ？
 B：授業中にいつもおしゃべりしていたということ以外、彼女については何も思い出せないよ。
 （選択肢の意味）
-1 ～する間に、～だけれども
-2 ～ということ
-3 しかし、～以外は
-4 ～へ、～するために
+1 while：～する間に、～だけれども
+2 that：～ということ
+3 but：しかし、～以外は
+4 to：～へ、～するために
 【考え方】
 空所の前の except は「～を除いて、～以外は」という意味です。空所のあとには she was always talking in class（彼女は授業中いつもおしゃべりしていた）という、主語と動詞がそろった文の形が続いています。
 except のあとに文の形を続けるときは、except that ～ の形にして「～ということを除いて」とします。that は「～ということ」というまとまりを作る語です。I can't remember anything about her except that she was always talking in class で「授業中にいつもおしゃべりしていたということ以外、彼女については何も思い出せない」となるので、2が正解です。

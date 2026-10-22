@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：ジョン・ホルターがマイランさんに、彼女の車についてたずねていることの1つは何ですか。
-1 彼女が買ったとき、それが新車だったかどうか。
-2 それが何キロメートル走行しているか。
-3 オイルを交換してもらうのによい場所を彼女が知っているかどうか。
-4 それが何という型の車で、いつ作られたか。
+1 Whether or not it was new when she bought it.（彼女が買ったとき、それが新車だったかどうか。）
+2 How many kilometers it has been driven for.（それが何キロメートル走行しているか。）
+3 If she knows a good place to have its oil changed.（オイルを交換してもらうのによい場所を彼女が知っているかどうか。）
+4 What model of car it is and when it was made.（それが何という型の車で、いつ作られたか。）
 【考え方】
 ホルターさんの質問は、第2段落に並んでいます。その中の次の文に注目します。
 Are you the first owner of the car, or was it already used when you bought it?（あなたはその車の最初の持ち主ですか、それとも、あなたが買ったときにはすでに使われた車でしたか）

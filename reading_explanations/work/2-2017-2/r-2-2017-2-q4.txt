@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】2 inspected（検査される、調べられる）
 【和訳】
+（英文）
+Before visitors enter the museum, their bags are ［inspected］ by security officers. The officers check to make sure visitors are not carrying any dangerous objects.
+（訳）
 来館者が博物館に入る前に、彼らのかばんは警備員によって（検査され）ます。警備員は、来館者が危険な物を何も持っていないことを確かめるために調べるのです。
 （選択肢の意味）
-1 翻訳される
-2 検査される
-3 挿絵を入れられる、図で説明される
-4 すっかり変えられる、変形される
+1 translated：翻訳される
+2 inspected：検査される
+3 illustrated：挿絵を入れられる、図で説明される
+4 transformed：すっかり変えられる、変形される
 【考え方】
 まず文の形を見ます。their bags are (　) by security officers は、are ＋（過去分詞）＋ by ～ の形です。これは受け身（「～される」という意味を表す形）で、「かばんは警備員によって（　）される」という意味になります。
 次に、あとの文 The officers check to make sure visitors are not carrying any dangerous objects.（警備員は、来館者が危険な物を何も持っていないことを確かめるために調べる）を見ます。check（調べる）、make sure（確かめる）という語から、警備員がかばんの中を調べていることが分かります。

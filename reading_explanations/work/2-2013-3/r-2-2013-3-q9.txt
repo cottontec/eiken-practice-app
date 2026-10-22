@@ -7,10 +7,10 @@ reviewed: yes
 【和訳】
 値段が安いので、日本ではアメリカ産の米の（消費量）が着実に増えてきました。
 （選択肢の意味）
-1 見込み、確率
-2 消費、消費量
-3 壮大さ、立派さ
-4 頻度、回数の多さ
+1 probability：見込み、確率
+2 consumption：消費、消費量
+3 magnificence：壮大さ、立派さ
+4 frequency：頻度、回数の多さ
 【考え方】
 文の初めの Because of the low price（値段が安いので）に注目します。
 空所のあとは of American rice has grown steadily in Japan（日本でアメリカ産の米の～が着実に増えてきた）です。grow は「増える、大きくなる」、steadily は「着実に、少しずつ確実に」という意味です。

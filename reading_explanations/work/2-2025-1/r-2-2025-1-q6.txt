@@ -4,12 +4,15 @@ answerText: indicated
 ---
 【正解】4 indicated（示した）
 【和訳】
+（英文）
+Gary ［indicated］ that his message was a joke by putting a laughing face symbol at the end of it.
+（訳）
 ゲーリーは、メッセージの最後に笑顔の記号を付けることで、そのメッセージが冗談であることを（示しました）。
 （選択肢の意味）
-1 だました
-2 犠牲にした
-3 作曲した、組み立てた
-4 示した
+1 deceived：だました
+2 sacrificed：犠牲にした
+3 composed：作曲した、組み立てた
+4 indicated：示した
 【考え方】
 文の後半の by putting a laughing face symbol at the end of it に注目します。by ～ing は「～することによって」という意味なので、「メッセージの最後に笑っている顔の記号を付けることによって」となります。it は his message（彼のメッセージ）を指しています。
 空所のあとには that his message was a joke（彼のメッセージが冗談であること）が続きます。笑顔の記号を付けるのは、読む人に「これは冗談だよ」と分かってもらうためだと考えられます。

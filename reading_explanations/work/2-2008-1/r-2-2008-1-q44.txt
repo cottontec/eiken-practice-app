@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：洪水の水がトンネルの3つの層に入ることができるのは、～ときです。
-1 中にいる車がすべて出てしまった
-2 暴風雨が48時間より長く続いた
-3 監視所が、水位が高すぎないことを確認した
-4 設計者たちが、門が効率よく動いているかを点検した
+1 all the traffic inside has been cleared out.（中にいる車がすべて出てしまった）
+2 the storm has continued for more than 48 hours.（暴風雨が48時間より長く続いた）
+3 monitoring stations have made sure the water level is not too high.（監視所が、水位が高すぎないことを確認した）
+4 its designers have checked to see if the gates are working efficiently.（設計者たちが、門が効率よく動いているかを点検した）
 【考え方】
 洪水の水がトンネルの3つの層すべてに入るのは、3番目のモードのときです。第3段落に Special gates are then opened so that water can fill the whole tunnel（水がトンネル全体を満たせるように特別な門が開けられる）とあります。
 では、門はいつ開けられるのでしょうか。第4段落に When it goes into the third mode, monitoring stations make sure that every vehicle has left before the gates are opened to the floodwaters.（3番目のモードに入るときには、門が洪水の水に向けて開けられる前に、監視所がすべての車がトンネルから出たことを確認する）とあります。monitoring station は「監視所（見張って調べる場所）」、make sure that ～ は「～であることを確かめる」です。

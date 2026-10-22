@@ -4,12 +4,15 @@ answerText: grasp
 ---
 【正解】2 grasp（理解する、つかむ）
 【和訳】
+（英文）
+Neal went to his first nuclear physics lecture yesterday. He could not ［grasp］ many of the ideas in the lecture, so he went to the library to study what he did not understand.
+（訳）
 ニールは昨日、初めての原子核物理学の講義に出ました。彼は講義で出てきた考えの多くを（理解する）ことができなかったので、分からなかったことを勉強するために図書館に行きました。
 （選択肢の意味）
-1 怖がらせる
-2 理解する、つかむ
-3 害を与える
-4 欠いている、足りない
+1 frighten：怖がらせる
+2 grasp：理解する、つかむ
+3 harm：害を与える
+4 lack：欠いている、足りない
 【考え方】
 2文目の後半の so he went to the library to study what he did not understand（だから、分からなかったことを勉強するために図書館に行った）に注目します。so は「だから」で、前半がその理由です。
 前半は He could not ( ) many of the ideas in the lecture（彼は講義の考えの多くを（　）できなかった）です。図書館で「分からなかったこと」を勉強したのですから、講義の内容を「理解できなかった」と考えられます。

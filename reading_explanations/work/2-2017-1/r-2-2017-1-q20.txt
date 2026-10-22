@@ -5,13 +5,17 @@ reviewed: yes
 ---
 【正解】1 will be（〔未来に〕いるだろう）
 【和訳】
+（英文）
+A: I can't believe it. By this time tomorrow, we ［will be］ in Rome.
+B: Yes, I know. I'm really looking forward to getting there.
+（訳）
 A：信じられない。明日の今ごろには、私たちはローマに（いる）よ。
 B：うん、そうだね。そこに着くのが本当に楽しみだよ。
 （選択肢の意味）
-1 （未来に）いるだろう
-2 いること（to のついた形）
-3 （過去のある時より前から）いた
-4 （今）～であるようにふるまっている
+1 will be：（未来に）いるだろう
+2 to be：いること（to のついた形）
+3 had been：（過去のある時より前から）いた
+4 are being：（今）～であるようにふるまっている
 【考え方】
 空所の前の By this time tomorrow（明日の今ごろまでには）に注目します。tomorrow（明日）とあるので、これは未来のことです。
 Bも I'm really looking forward to getting there.（そこに着くのが本当に楽しみだ）と答えています。2人はまだローマに着いておらず、これから着くと分かります。

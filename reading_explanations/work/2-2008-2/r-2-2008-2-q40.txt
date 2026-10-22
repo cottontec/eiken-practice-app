@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：家庭で使う人々が3Dプリンターを手に入れるのを難しくしてきたものは何ですか。
-1 企業が、個人で使うための3Dプリンターを売りたがらなかった。
-2 価格が、ほとんどの消費者にとって高すぎた。
-3 いくつもの安全面の問題を、まだ乗り越えなければならない。
-4 物を1つ作るのに必要な材料が、約5,000ドルかかる。
+1 Companies were not willing to sell them for personal use.（企業が、個人で使うための3Dプリンターを売りたがらなかった。）
+2 The price has been too high for most consumers.（価格が、ほとんどの消費者にとって高すぎた。）
+3 A number of safety problems must still be overcome.（いくつもの安全面の問題を、まだ乗り越えなければならない。）
+4 The materials required for each object cost around $5,000.（物を1つ作るのに必要な材料が、約5,000ドルかかる。）
 【考え方】
 家庭で使う人と3Dプリンターの関係は、第4段落に書かれています。
 まず The increasing popularity of 3-D printers is mainly due to reductions in price.（3Dプリンターの人気が高まっているのは、主に価格が下がったためだ）とあります。due to ～ は「～が原因で」、reduction は「引き下げ、減少」です。

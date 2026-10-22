@@ -8,10 +8,10 @@ answerText: people needed it to get to a newly constructed dam.
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：グアダロルセ川の谷の壁の高い所に歩道が造られたのは、～からである。
-1 その川は流れが危険すぎて、船で進むことができなかった
-2 低い所にあった歩道が、突然の洪水で壊されてしまっていた
-3 谷には、歩くのを難しくする岩があった
-4 人々が、新しく造られたダムへ行くのにそれ（歩道）を必要としていた
+1 the river was too dangerous for boats to travel on.（その川は流れが危険すぎて、船で進むことができなかった）
+2 a lower walkway had been destroyed by a sudden flood.（低い所にあった歩道が、突然の洪水で壊されてしまっていた）
+3 there were rocks in the valley that made it difficult to walk.（谷には、歩くのを難しくする岩があった）
+4 people needed it to get to a newly constructed dam.（人々が、新しく造られたダムへ行くのにそれ（歩道）を必要としていた）
 【考え方】
 歩道が造られたいきさつは、第1段落に書かれています。
 At the beginning of the 20th century, engineers decided that the fast-flowing river was a good place for a dam that could be used to generate electricity.（20世紀の初め、技術者たちは、流れの速いこの川が、発電に使えるダムを造るのによい場所だと判断した）

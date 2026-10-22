@@ -7,10 +7,10 @@ reviewed: yes
 【和訳】
 旅行中に、ビルの歯の1本が痛み始めました。彼はその痛みをがまんしようとしましたが、痛みがとてもひどくなったので、その土地の歯医者に行くことにしました。
 （選択肢の意味）
-1 奮い立たせる、やる気を起こさせる
-2 耐える、がまんする
-3 出版する
-4 選ぶ
+1 inspire：奮い立たせる、やる気を起こさせる
+2 endure：耐える、がまんする
+3 publish：出版する
+4 select：選ぶ
 【考え方】
 最初の文は One of Bill's teeth started hurting during his trip.（旅行中、ビルの歯の1本が痛み始めた）です。
 空所の文は He tried to (　) the pain, but it became so bad that he decided to go to a local dentist.（彼は痛みを〜しようとしたが、それがとてもひどくなったので、その土地の歯医者に行くことにした）です。so ～ that ... は「とても～なので…」、local は「その土地の、地元の」です。

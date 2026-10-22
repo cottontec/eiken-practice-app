@@ -5,13 +5,17 @@ reviewed: yes
 ---
 【正解】4 inferior to（～より劣っている）
 【和訳】
+（英文）
+A: Do you think Mike is a better soccer player than Jim?
+B: That's a difficult question. I think Jim is ［inferior to］ Mike as an athlete, because Mike is faster and stronger than Jim.
+（訳）
 A：マイクはジムよりサッカーがうまい選手だと思う？
 B：難しい質問だね。運動選手としては、ジムはマイクより劣っていると思うよ。マイクのほうがジムより速くて力も強いからね。
 （選択肢の意味）
-1 ～によく知られている、～になじみがある
-2 ～を意識している、～に気づいている
-3 ～に典型的な、～らしい
-4 ～より劣っている
+1 familiar to：～によく知られている、～になじみがある
+2 conscious of：～を意識している、～に気づいている
+3 typical of：～に典型的な、～らしい
+4 inferior to：～より劣っている
 【考え方】
 Bの文の because 以下が、Bの考えの理由です。because Mike is faster and stronger than Jim（マイクのほうがジムより速くて強いから）とあります。faster と stronger は fast・strong の比べる形（比較級）で、「（ジムと比べて）より速い、より強い」という意味です。
 マイクのほうが速くて強いのですから、運動選手としてはジムのほうがマイクより下だ、という考えになります。inferior to ～ は「～より劣っている」という意味です。Jim is inferior to Mike as an athlete で「運動選手としては、ジムはマイクより劣っている」となり、理由とつながるので、4が正解です。

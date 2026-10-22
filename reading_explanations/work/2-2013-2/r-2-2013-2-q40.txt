@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：V2Xを導入することについて、一部の人々が心配しているのはなぜですか。
-1 そのシステムによって、運転者が集中するのが難しくなるかもしれない。
-2 そのシステムは、不正確な運転の情報を与えるかもしれない。
-3 そのシステムは、車が止まっているときに警告を出さない。
-4 そのシステムは、アメリカ政府によってテストされていない。
+1 The system might make it difficult for drivers to concentrate.（そのシステムによって、運転者が集中するのが難しくなるかもしれない。）
+2 The system might provide inaccurate driving information.（そのシステムは、不正確な運転の情報を与えるかもしれない。）
+3 The system does not give warnings when cars are stopped.（そのシステムは、車が止まっているときに警告を出さない。）
+4 The system has not been tested by the U.S. government.（そのシステムは、アメリカ政府によってテストされていない。）
 【考え方】
 設問の worried（心配している）と近い意味の言葉を本文で探します。第4段落に Some people, though, have concerns about it.（しかし、これについて心配している人々もいる）とあります。concern は「心配、気がかり」です。
 そのあとに心配の中身が2つ挙げられています。1つ目は One is that if the system gives out too many warnings, the driver will become annoyed or even lose concentration.（1つは、システムが警告を出しすぎると、運転者がいらいらしたり、集中力を失ったりさえするだろう、ということだ）です。2つ目は privacy（プライバシー）です。

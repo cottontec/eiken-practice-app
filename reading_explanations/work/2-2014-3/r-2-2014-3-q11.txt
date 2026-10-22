@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】3 in（in the course of ～ で「～の間に」）
 【和訳】
+（英文）
+When Nate read a book about the many inventions of the 20th century, he realized how much the world had changed ［in］ the course of the past 100 years.
+（訳）
 ネイトは20世紀の多くの発明についての本を読んだとき、過去100年の間に世界がどれほど大きく変わったかに気づきました。
 （選択肢の意味）
-1 （場所・時の一点）で
-2 （接触して）～の上に、（日）に
-3 （範囲・期間）の中で、～の間に
-4 ～によって、～までに
+1 at：（場所・時の一点）で
+2 on：（接触して）～の上に、（日）に
+3 in：（範囲・期間）の中で、～の間に
+4 by：～によって、～までに
 【考え方】
 文の後半は he realized how much the world had changed (　) the course of the past 100 years（彼は、過去100年の（　）世界がどれほど変わったかに気づいた）です。how much ～ は「どれほど～か」、had changed は「（本を読んだときまでに）変わっていた」という意味です。
 空所のあとの the course of the past 100 years に注目します。course は「経過、（時の）流れ」という意味です。in the course of ～ で「～の間に、～の経過のうちに」という決まった言い方になります。in the course of the past 100 years で「過去100年の間に」となり、20世紀（100年間）の発明についての本を読んだという前半とも合います。正解は3です。

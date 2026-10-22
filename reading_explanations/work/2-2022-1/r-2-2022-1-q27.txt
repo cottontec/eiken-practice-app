@@ -8,10 +8,10 @@ answerText: took an order for cups for Mr. Stein's café.
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：今朝、ジェナ・マークスは
-1 スタインさんの注文に、間違った名前を書きとめた。
-2 客に、間違った配達日を伝えた。
-3 電話で営業部に連絡した。
-4 スタインさんのカフェ用のカップの注文を受けた。
+1 wrote down the wrong name on Mr. Stein's order.（スタインさんの注文に、間違った名前を書きとめた。）
+2 gave a customer the wrong delivery date.（客に、間違った配達日を伝えた。）
+3 contacted the sales department by telephone.（電話で営業部に連絡した。）
+4 took an order for cups for Mr. Stein's café.（スタインさんのカフェ用のカップの注文を受けた。）
 【考え方】
 設問は「今朝、ジェナ・マークスがしたこと」です。本文で this morning（今朝、本日午前中）とジェナの名前が出てくる場所を探します。第1段落の始めにあります。
 Thank you for placing an order by telephone with Jenna Marks of our sales department this morning.（本日午前中に、当社営業部のジェナ・マークスにお電話でご注文いただき、ありがとうございます）

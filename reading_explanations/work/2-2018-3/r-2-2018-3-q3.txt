@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】2 insurance（保険）
 【和訳】
+（英文）
+Before Tom left for his vacation in Canada, he made sure that his health ［insurance］ would cover him if he got sick overseas.
+（訳）
 トムは、カナダでの休暇に出発する前に、もし外国で病気になったら自分の健康（保険）で費用がまかなわれることを確かめておきました。
 （選択肢の意味）
-1 愛情
-2 保険
-3 暴力
-4 鉱物、ミネラル
+1 affection：愛情
+2 insurance：保険
+3 violence：暴力
+4 mineral：鉱物、ミネラル
 【考え方】
 空所のあとの would cover him if he got sick overseas に注目します。cover はここでは「（保険などが）費用をまかなう、補償する（損害のお金を代わりに払う）」という意味です。if he got sick overseas は「もし外国で病気になったら」です。
 「外国で病気になったときに、彼の費用をまかなってくれるもの」とは何かを考えます。病気やけがのときに治療のお金を払ってくれるしくみは「保険」です。health insurance で「健康保険、医療保険」という意味になります。

@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：新しいデータベースがすることの1つは何ですか。
-1 遺伝的に近い関係にある動物どうしで、どの遺伝子が共通しているかを示す。
-2 世界中の犯罪現場にいたことのあるネコの一覧を提供する。
-3 遺伝子指紋法の専門家についての情報を保存する。
-4 どの種類のDNAが人間に特有なのかを見分ける。
+1 Show which genes are shared by genetically related animals.（遺伝的に近い関係にある動物どうしで、どの遺伝子が共通しているかを示す。）
+2 Provide a list of cats that have been at crime scenes around the world.（世界中の犯罪現場にいたことのあるネコの一覧を提供する。）
+3 Store information about experts on genetic fingerprinting.（遺伝子指紋法の専門家についての情報を保存する。）
+4 Identify which types of DNA are unique to humans.（どの種類のDNAが人間に特有なのかを見分ける。）
 【考え方】
 データベースの話は第3段落にあります。database は「データベース（たくさんの情報を整理して集めたもの）」です。
 まず The biggest difficulty with genetic fingerprinting is making sure which part of the DNA is unique.（遺伝子指紋法のいちばんの難しさは、DNAのどの部分が特有なのかを確かめることだ）とあります。

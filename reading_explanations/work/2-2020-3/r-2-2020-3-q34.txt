@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：金属を作り出すことが環境を傷つける方法の1つは何ですか。
-1 多くの生き物が、生きていくために地中の金属を必要としている。
-2 その過程で使われる電気の多くが、火事を引き起こす。
-3 金属の大部分が捨てられ、埋め立て地の場所を取っている。
-4 その過程によって、危険な物質が放出される。
+1 A lot of living things need metals from the ground in order to survive.（多くの生き物が、生きていくために地中の金属を必要としている。）
+2 A lot of the electricity that is used in the process causes fires.（その過程で使われる電気の多くが、火事を引き起こす。）
+3 The majority of metals are thrown away and take up space in landfills.（金属の大部分が捨てられ、埋め立て地の場所を取っている。）
+4 The process leads to the release of dangerous substances.（その過程によって、危険な物質が放出される。）
 【考え方】
 金属を作り出すときの害は、第1段落に書かれています。
 Recycling metals, in particular, is important because when metals are produced from natural rocks, much harm is caused.（特に金属のリサイクルが大切なのは、天然の岩石から金属を作り出すときに、多くの害が引き起こされるからだ）

@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】4 philosopher（哲学者）
 【和訳】
+（英文）
+Socrates was a great ［philosopher］ who lived in ancient Greece. Even today, many people study the wise things that he said.
+（訳）
 ソクラテスは、古代ギリシャに生きた偉大な（哲学者）でした。今日でも、多くの人々が彼の言った賢い言葉を学んでいます。
 （選択肢の意味）
-1 探検家
-2 競争相手、競技に出る人
-3 観客、見物人
-4 哲学者
+1 explorer：探検家
+2 competitor：競争相手、競技に出る人
+3 spectator：観客、見物人
+4 philosopher：哲学者
 【考え方】
 あとの文に注目します。
 Even today, many people study the wise things that he said.（今日でも、多くの人々が彼の言った賢いことを学んでいる）

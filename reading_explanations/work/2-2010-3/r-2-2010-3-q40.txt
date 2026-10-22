@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：警察は、なぜネコのDNAがほかの動物のDNAより役に立つと考えているのですか。
-1 ネコのほうが、犯罪現場で気づかれにくいから。
-2 ネコはほかの動物より、DNAの種類が豊富だから。
-3 ネコの毛のほうが、犯罪現場に長い時間残りやすいから。
-4 ネコの毛のほうが、犯人の服に付いて見つかりやすいから。
+1 Cats are less likely to be noticed at a crime scene.（ネコのほうが、犯罪現場で気づかれにくいから。）
+2 Cats have a wider variety of DNA than other animals.（ネコはほかの動物より、DNAの種類が豊富だから。）
+3 Cat fur tends to remain at a crime scene for a longer time.（ネコの毛のほうが、犯罪現場に長い時間残りやすいから。）
+4 Cat fur is more likely to be found on criminals' clothes.（ネコの毛のほうが、犯人の服に付いて見つかりやすいから。）
 【考え方】
 ネコのDNAが特に役に立つ理由は、第4段落に書かれています。
 まず they believe that the cat DNA will be especially useful（科学者たちは、ネコのDNAは特に役に立つだろうと考えている）とあり、その理由が This is because cats leave fur behind wherever they go.（それは、ネコがどこへ行っても毛を残していくからだ）と続きます。fur は「（動物の）毛」、leave ～ behind は「～を残していく」です。

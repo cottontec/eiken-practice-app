@@ -7,10 +7,10 @@ reviewed: yes
 【和訳】
 多くの人が幽霊を見たことがあると言っていますが、幽霊が実際に存在するというはっきりした証拠は、だれも見つけていません。
 （選択肢の意味）
-1 勇気
-2 証拠
-3 悲しみ
-4 罰
+1 courage：勇気
+2 evidence：証拠
+3 sorrow：悲しみ
+4 punishment：罰
 【考え方】
 文の前半は Although many people say they have seen ghosts（多くの人が幽霊を見たことがあると言っているけれども）です。Although は「～だけれども」という意味で、後半には前半と反対向きの内容がきます。
 後半は nobody has found any clear (　) that they actually exist です。nobody has found は「だれも見つけていない」、that they actually exist は「それら（幽霊）が実際に存在するという」という意味で、空所の名詞の中身を説明しています。

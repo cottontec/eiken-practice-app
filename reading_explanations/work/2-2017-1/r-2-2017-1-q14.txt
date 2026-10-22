@@ -5,13 +5,17 @@ reviewed: yes
 ---
 【正解】2 account（on account of ～ で「～のために、～が原因で」）
 【和訳】
+（英文）
+A: Ms. Thompson, many people called to say that they're running late on ［account］ of the heavy traffic on the highway.
+B: Oh, I see. In that case, let's change the meeting to 10:30.
+（訳）
 A：トンプソンさん、高速道路のひどい渋滞（のために）遅れている、という電話がたくさんの人からありました。
 B：ああ、分かりました。それなら、会議を10時30分に変えましょう。
 （選択肢の意味）
-1 角度
+1 angle：角度
 2 説明、理由（on account of ～ で「～のために」）
-3 支払い
-4 生産
+3 payment：支払い
+4 production：生産
 【考え方】
 空所の前後を見ると、on (　) of the heavy traffic on the highway（高速道路のひどい渋滞の（　））という形になっています。前には they're running late（彼らは遅れている）とあります。
 遅れているのは、渋滞が原因だと考えられます。そこで、空所には「～のために、～が原因で」という理由を表す言い方が入ると考えます。

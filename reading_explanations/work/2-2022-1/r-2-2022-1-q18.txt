@@ -4,12 +4,15 @@ answerText: but
 ---
 【正解】2 but（but for ～ で「～がなかったら」）
 【和訳】
+（英文）
+After getting the first prize in the presentation competition, Kevin said in his speech that ［but］ for his wife's help, he never would have won.
+（訳）
 発表のコンテストで1等賞を取ったあと、ケビンはスピーチの中で、妻の助けがなかったら、自分は決して優勝できなかっただろうと言いました。
 （選択肢の意味）
-1 ～と一緒に、～を使って
+1 with：～と一緒に、～を使って
 2 ～を除いて（but for ～ で「～がなかったら」）
-3 ～に沿って
-4 ～の上に、～を越えて
+3 along：～に沿って
+4 over：～の上に、～を越えて
 【考え方】
 空所のあとが for his wife's help（妻の助け）となっていて、( ) for ～ という形です。また、文の後半は he never would have won（彼は決して優勝しなかっただろう）です。
 ケビンは実際には1等賞を取りました。それなのに「決して優勝しなかっただろう」と言っているのは、「もし～がなかったら」と、実際とは違うことを仮に考えて話しているからです。would have ＋過去分詞（won など）は、「（あのとき）～しただろう」と、実際とは違う過去のことを想像して言う形です。

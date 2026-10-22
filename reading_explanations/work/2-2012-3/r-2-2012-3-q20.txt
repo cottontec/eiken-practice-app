@@ -8,10 +8,10 @@ reviewed: yes
 A：来週は出張で会社を留守にします。私がいない間に何か問題が起きたら、携帯電話に電話してください。
 B：分かりました、スミスさん。
 （選択肢の意味）
-1 ～しましょうか
-2 ～できた、～してくださいませんか
-3 （文の初めで）もし～ならば
-4 ～できる、～してもよい
+1 Shall：～しましょうか
+2 Could：～できた、～してくださいませんか
+3 Should：（文の初めで）もし～ならば
+4 Can：～できる、～してもよい
 【考え方】
 Aの2文目は (　) there be any problems while I'm away, please call me on my cell phone. です。コンマのあとが please call me（私に電話してください）とお願いになっていることに注目します。前半は「私がいない間に何か問題があったら」という条件だと考えられます。
 ふつうは If there are any problems while I'm away, ～ と言います。これを、if を使わずに Should を文の初めに出して Should there be any problems ～ とすると、「もし（万一）何か問題があったら」という意味になります。そのとき、うしろの動詞は be のもとの形になります。空所のあとが there are ではなく there be になっているのは、このためです。

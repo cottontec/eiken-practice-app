@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】3 capable of（～する能力がある、～できる）
 【和訳】
+（英文）
+Smart Solutions is a company that develops computer software. It is becoming popular all over the world because it has developed software ［capable of］ speeding up any business.
+（訳）
 スマート・ソリューションズは、コンピューターのソフトウェアを開発する会社です。どんな事業でもスピードアップさせることの（できる）ソフトウェアを開発したので、その会社は世界中で人気が出てきています。
 （選択肢の意味）
-1 ～について恨んでいる
-2 ～を気の毒に思う、～を申し訳なく思う
-3 ～する能力がある、～できる
-4 ～がない、～から解放されている
+1 bitter about：～について恨んでいる
+2 sorry for：～を気の毒に思う、～を申し訳なく思う
+3 capable of：～する能力がある、～できる
+4 free from：～がない、～から解放されている
 【考え方】
 空所の前後は software (　) speeding up any business です。空所に入る語句が、前の software（ソフトウェア）を後ろから説明していると考えます。つまり「どんな事業でもスピードアップさせる（　）ソフトウェア」となります。
 また、この文には because it has developed software ～（～なソフトウェアを開発したので）とあり、これが会社が世界中で人気が出ている理由です。人気が出る理由になるのは、よい働きをするソフトウェアだと考えられます。

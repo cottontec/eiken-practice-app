@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】1 translating（翻訳している）
 【和訳】
+（英文）
+Eva is studying French literature in college. For her final project, she is ［translating］ a French novel into English.
+（訳）
 エバは大学でフランス文学を勉強しています。最後の課題として、彼女はフランスの小説を英語に（翻訳して）います。
 （選択肢の意味）
-1 翻訳している
-2 測っている
-3 逮捕している
-4 あいさつしている
+1 translating：翻訳している
+2 measuring：測っている
+3 arresting：逮捕している
+4 greeting：あいさつしている
 【考え方】
 空所のあとに a French novel into English（フランスの小説を英語に）と続いています。ここで into English の into は「～へ（変わって）」と、変化した先を表しています。
 translate A into B は「AをBに翻訳する（ある言葉で書かれたものを別の言葉に直す）」という決まった形です。「フランスの小説を英語に翻訳している」となり、エバがフランス文学を勉強しているという前の文とも合います。ですから1が正解です。

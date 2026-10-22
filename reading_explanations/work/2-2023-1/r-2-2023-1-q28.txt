@@ -8,10 +8,10 @@ answerText: did not know which class to sign up for.
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：ミッチェルさんは、自分が～と言った。
-1 どのクラスに申しこめばよいか分からなかった
-2 以前にスペイン語を勉強したことが一度もなかった
-3 教え方についてもっと情報がほしかった
-4 講師の1人と同じ高校に通っていた
+1 did not know which class to sign up for.（どのクラスに申しこめばよいか分からなかった）
+2 had never studied Spanish before.（以前にスペイン語を勉強したことが一度もなかった）
+3 wanted more information about teaching methods.（教え方についてもっと情報がほしかった）
+4 was at high school with one of the instructors.（講師の1人と同じ高校に通っていた）
 【考え方】
 設問は、メールを受け取ったミッチェルさんが言ったこと（カレンに伝えていたこと）をたずねています。メールの中で、ミッチェルさんの言ったことを示しているのは、第2段落の You mentioned that ～（あなたは～とおっしゃっていました）です。
 You mentioned that because you studied Spanish in high school but had not used it for several years, you were not sure which lesson to take.（あなたは、高校でスペイン語を勉強したものの、数年間使っていなかったので、どのレッスンを受ければよいか分からないとおっしゃっていました）

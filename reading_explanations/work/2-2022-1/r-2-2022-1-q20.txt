@@ -4,13 +4,17 @@ answerText: started
 ---
 【正解】1 started（It's time ＋主語＋過去形 で「もう～してもよいころだ」）
 【和訳】
+（英文）
+A: Nicky, you're graduating from high school next year. It's time you ［started］ thinking about which university you want to go to.
+B: You're right, Dad, but I still don't know what I want to be in the future.
+（訳）
 A：ニッキー、来年、高校を卒業するね。どの大学に行きたいか、もう考え始めてもいいころだよ。
 B：そうだね、お父さん。でも、将来何になりたいのか、まだ分からないんだ。
 （選択肢の意味）
-1 始めた（start の過去形）
-2 始めるだろう
-3 始めること、始めている（-ing の形）
-4 始めること、始めるために（to ＋動詞の形）
+1 started：始めた（start の過去形）
+2 will start：始めるだろう
+3 starting：始めること、始めている（-ing の形）
+4 to start：始めること、始めるために（to ＋動詞の形）
 【考え方】
 空所の前の It's time you に注目します。It's time ＋主語＋動詞の過去形 ～ は、「（主語が）もう～してもよいころだ」という意味の決まった言い方です。本当ならもうしていてもよいころなのに、まだしていない、という気持ちを表すため、今のことでも動詞を過去形にします。
 Aは you're graduating from high school next year（来年高校を卒業する）と言っています。進む大学を考え始める時期だと伝えているので、It's time you started thinking about ～（もう～について考え始めてもいいころだ）とすると、話が自然につながります。Bも You're right（そのとおりだね）と答えています。ですから、過去形の1が正解です。

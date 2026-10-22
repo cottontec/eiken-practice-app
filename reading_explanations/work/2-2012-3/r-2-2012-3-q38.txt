@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：科学者たちはなぜ、貝のような海の生き物を研究しているのですか。
-1 それらの体の中では新しい骨を育てることができるから。
-2 それらの貝がらは人のけがの治療に使えるから。
-3 それらの中には、水の中で物にくっつくことができるものがいるから。
-4 それらは人間が作れるよりも強い接着剤を作り出すから。
+1 New bones can be grown inside of their bodies.（それらの体の中では新しい骨を育てることができるから。）
+2 Their shells can be used to treat people's injuries.（それらの貝がらは人のけがの治療に使えるから。）
+3 Some of them are able to stick to things underwater.（それらの中には、水の中で物にくっつくことができるものがいるから。）
+4 They produce stronger glues than humans can.（それらは人間が作れるよりも強い接着剤を作り出すから。）
 【考え方】
 貝（shellfish）の話は第2段落に出てきます。There are various creatures, such as shellfish, that live in the sea and yet manage to stick to things.（貝のように、海の中に住みながらも、物にくっつくことができるさまざまな生き物がいる）とあります。and yet は「それなのに、それでも」、manage to ～ は「なんとか～できる」という意味です。
 その次の文が研究の理由です。Since the 1980s, scientists have been studying these animals in the hope of finding a way to create a glue that would work inside the body.（1980年代から、科学者たちは、体の中で働く接着剤を作る方法を見つけることを願って、こうした動物を研究してきた）。

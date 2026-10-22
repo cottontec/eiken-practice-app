@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：加速度計のふだんの目的は…である。
-1 コンピューターが動く速さを上げること
-2 コンピューターが落とされたときに、それを守るのに役立つこと
-3 ネットワーク上の接続の数を数えること
-4 ある地震計から別の地震計へ情報を送ること
+1 to increase the speed at which computers operate.（コンピューターが動く速さを上げること）
+2 to help protect a computer when it is dropped.（コンピューターが落とされたときに、それを守るのに役立つこと）
+3 to count the number of connections on a network.（ネットワーク上の接続の数を数えること）
+4 to send information from one seismometer to another.（ある地震計から別の地震計へ情報を送ること）
 【考え方】
 設問の accelerometer（加速度計）は第2段落に出てきます。設問の usual purpose（ふだんの目的）は、地震の計画に使う前の、もともとの役目のことです。
 第2段落には the simple devices called accelerometers that are already installed in many laptop computers（すでに多くのノートパソコンに取りつけられている、加速度計と呼ばれる簡単な装置）とあります。そのあとに When a laptop is dropped, the accelerometer reacts to the shock by stopping the hard drive.（ノートパソコンが落とされると、加速度計はその衝撃に反応してハードディスクを止める）と書かれ、さらに It does this so that the moving parts inside will not break.（加速度計がこうするのは、中の動く部品がこわれないようにするためだ）と続きます。so that ～ は「～するように、～するために」と目的を表す言い方です。

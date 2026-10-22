@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：デザーテック財団が目指しているのは
-1 ドイツの企業20社のグループに、サハラ砂漠をきれいにするよう働きかけること。
-2 クリーンなエネルギーを作るために、北アフリカで見つかる二酸化炭素を利用すること。
-3 環境を傷つけずにエネルギーを供給するために、砂漠の太陽を利用すること。
-4 人々が毎年消費する電気の総量を減らす方法を見つけること。
+1 encourage a group of 20 German companies to clean up the Sahara Desert.（ドイツの企業20社のグループに、サハラ砂漠をきれいにするよう働きかけること。）
+2 make use of carbon dioxide found in North Africa to produce clean energy.（クリーンなエネルギーを作るために、北アフリカで見つかる二酸化炭素を利用すること。）
+3 use the desert sun to provide energy without damaging the environment.（環境を傷つけずにエネルギーを供給するために、砂漠の太陽を利用すること。）
+4 find a way to lessen the total amount of electricity that people consume each year.（人々が毎年消費する電気の総量を減らす方法を見つけること。）
 【考え方】
 設問の aims to ～ は「～することを目指している」です。デザーテック財団が何をしようとしているのかを、第1段落で確かめます。
 第1段落には a plan to use the Sahara Desert in North Africa to provide clean electricity to Europe（北アフリカのサハラ砂漠を使ってヨーロッパにクリーンな電気を供給する計画）とあり、この計画を the Desertec Foundation, which is running the project（この計画を運営しているデザーテック財団）が進めています。

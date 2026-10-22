@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：ブラクストン・インダストリーズが建物を改善する理由の1つは何ですか。
-1 新しい従業員のために、より大きな建物が必要である。
-2 工事を始めるための時間の余裕がある。
-3 電気系統の問題を直したいと思っている。
-4 会社のイメージをよくしようとしている。
+1 It needs a larger building for its new employees.（新しい従業員のために、より大きな建物が必要である。）
+2 It has some free time to start construction.（工事を始めるための時間の余裕がある。）
+3 It wants to fix problems with the electrical system.（電気系統の問題を直したいと思っている。）
+4 It is trying to improve its company image.（会社のイメージをよくしようとしている。）
 【考え方】
 設問は「建物を改善する理由の1つ」です。メールの第1段落に、工事をする理由が書かれています。
 The electrical system is old and has needed repairs for some time.（電気系統が古くなっていて、しばらく前から修理が必要だった）

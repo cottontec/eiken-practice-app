@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】3 did he forget（彼は忘れた）
 【和訳】
+（英文）
+Martin had a terrible morning. Not only ［did he forget］ to take his report to work, but he was also 15 minutes late.
+（訳）
 マーティンはひどい朝を過ごしました。報告書を職場に持っていくのを忘れただけでなく、15分遅刻もしました。
 （選択肢の意味）
-1 彼は忘れるだろう
-2 彼は忘れる（今のこと）
-3 彼は忘れた（倒置の形）
-4 万一彼が忘れたら（倒置の形）
+1 he would forget：彼は忘れるだろう
+2 he forgets：彼は忘れる（今のこと）
+3 did he forget：彼は忘れた（倒置の形）
+4 should he forget：万一彼が忘れたら（倒置の形）
 【考え方】
 空所の前が Not only で、文の頭に置かれています。また、後ろに but he was also 15 minutes late（しかし彼は15分遅刻もした）があります。Not only A, but also B で「AだけでなくBも」という意味です。
 Not only のような否定の意味の語句が文の頭にくると、そのあとは倒置（主語と動詞の順番が入れかわり、疑問文と同じ語順になる形）になります。forgot（忘れた）を疑問文の語順にすると did he forget となります。

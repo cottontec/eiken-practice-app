@@ -8,10 +8,10 @@ reviewed: yes
 A：どうしてこのコートは、あのコートよりもずっと値段が高いの？
 B：このコートは（本物の）革でできているけれど、あっちのコートはそうじゃないんだ。
 （選択肢の意味）
-1 本物の
-2 まっすぐな
-3 率直な
-4 正直な
+1 genuine：本物の
+2 straight：まっすぐな
+3 frank：率直な
+4 honest：正直な
 【考え方】
 Aは so much more expensive than that one（あのコートよりずっと高い）と、値段の差の理由をたずねています。that one は that coat（あのコート）のことです。
 Bは This coat's made from (　) leather, but that one isn't.（このコートは～の革でできているが、あのコートはそうではない）と答えています。coat's は coat is の短い形です。

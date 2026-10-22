@@ -5,13 +5,17 @@ reviewed: yes
 ---
 【正解】1 practical（実用的な、実際に使うのに便利な）
 【和訳】
+（英文）
+A: Janet, what do you think about getting a sports car?
+B: Well, sports cars are nice. But they use a lot of gasoline and don't have much room, so they're not very ［practical］.
+（訳）
 A：ジャネット、スポーツカーを買うことについてどう思う？
 B：うーん、スポーツカーはすてきだよ。でも、ガソリンをたくさん使うし、中にあまり広さがないから、あまり（実用的）ではないね。
 （選択肢の意味）
-1 実用的な
-2 複雑な
-3 形式ばらない、くだけた
-4 小さな、重要でない
+1 practical：実用的な
+2 complex：複雑な
+3 informal：形式ばらない、くだけた
+4 minor：小さな、重要でない
 【考え方】
 Bの答えの流れを追います。まず sports cars are nice（スポーツカーはすてきだ）とほめたあと、But（でも）で話の向きが変わります。
 But のあとには、スポーツカーのよくない点が2つ挙げられています。

@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：医師が金属のピンを使うことがあるのは…ときである。
-1 骨をつなぎとめるのに接着剤を使うと費用がかかりすぎる
-2 骨のかけらのいくつかが見つけにくい
-3 ぬれた状態のせいで、骨がひとりでに治ることができない
-4 骨が、自然には治らないような折れ方をしている
+1 it is too expensive to use glue to hold a bone together.（骨をつなぎとめるのに接着剤を使うと費用がかかりすぎる）
+2 some of the pieces of a bone are difficult to find.（骨のかけらのいくつかが見つけにくい）
+3 wet conditions make it impossible for a bone to fix itself.（ぬれた状態のせいで、骨がひとりでに治ることができない）
+4 a bone is broken in such a way that it cannot heal naturally.（骨が、自然には治らないような折れ方をしている）
 【考え方】
 金属のピン（metal pin）は第1段落に出てきます。順に見ていきます。
 1文目は When someone breaks a bone, a doctor can usually treat it so that it heals naturally.（骨が折れたとき、医師はふつう、骨が自然に治るように手当てをすることができる）です。これが「ふつうの場合」です。

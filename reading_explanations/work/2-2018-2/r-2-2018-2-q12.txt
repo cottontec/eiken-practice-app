@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】1 demand（in demand で「需要がある、求められている」）
 【和訳】
+（英文）
+Air conditioners were in ［demand］ last summer because of the very hot temperatures.
+（訳）
 昨年の夏は、気温がとても高かったため、エアコンは（よく求められていました）。
 （選択肢の意味）
-1 需要、要求
-2 共通の、ふつうの
-3 前進、進歩
-4 細かい点、詳細
+1 demand：需要、要求
+2 common：共通の、ふつうの
+3 advance：前進、進歩
+4 detail：細かい点、詳細
 【考え方】
 空所の前の in と組み合わせて、どんな意味になるかを考える問題です。
 文の後半の because of the very hot temperatures（とても高い気温のために）が手がかりです。because of ～ は「～のために、～が原因で」という意味です。とても暑い夏には、多くの人がエアコンを欲しがったり、使いたがったりすると考えられます。

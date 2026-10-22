@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：この文章の筆者によると、はちみつが医療の場で使われる可能性があるのは、はちみつが（　）からである。
-1 病院でよく使われている抗菌薬よりも、安く作ることができる
-2 糖分の多いほかの食べ物よりも、入院している患者に大きな栄養上の利点をもたらす
-3 過酸化水素を吸収する能力があるので、傷口に塗ると皮膚のような膜を作ることができる
-4 水分と結びつくと抗菌性の化合物を作り出すたんぱく質を含んでいる
+1 can be produced more cheaply than the antibacterial medications commonly used in hospitals.（病院でよく使われている抗菌薬よりも、安く作ることができる）
+2 offers a greater nutritional benefit to hospital patients than other foods that are high in sugar.（糖分の多いほかの食べ物よりも、入院している患者に大きな栄養上の利点をもたらす）
+3 can form a skin-like barrier when applied to wounds due to its ability to absorb hydrogen peroxide.（過酸化水素を吸収する能力があるので、傷口に塗ると皮膚のような膜を作ることができる）
+4 contains a protein that, when combined with moisture, produces an antibacterial compound.（水分と結びつくと抗菌性の化合物を作り出すたんぱく質を含んでいる）
 【考え方】
 設問の a medical context は「医療の場面」という意味です。はちみつと医療の関係が書かれているのは第3段落です。
 第3段落ではまず、糖類には周りから水分を吸い取る性質があり、そのため傷口に塗ると細菌に必要な液体が吸い取られて感染を防げる、と説明しています。そのうえで、Honey is even more effective than pure sugar in this regard（この点で、はちみつは純粋な砂糖よりもさらに効果がある）と述べ、その理由を not only is the moisture absorbed, but it also reacts with a protein in the honey to form a bacteria-killing compound called hydrogen peroxide（水分が吸収されるだけでなく、その水分がはちみつの中のたんぱく質と反応して、過酸化水素という細菌を殺す化合物を作る）と説明しています。react with ～ は「～と反応する」、compound は「化合物（2種類以上のものが結びついてできた物質）」という意味です。

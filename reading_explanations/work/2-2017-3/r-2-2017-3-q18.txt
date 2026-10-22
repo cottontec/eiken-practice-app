@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】1 the other（〔2つのうちの〕もう一方）
 【和訳】
+（英文）
+Sally looked at two laptops and decided to buy the smaller one. She thought it would be more convenient than ［the other］ because she was going to take it to her college every day.
+（訳）
 サリーは2台のノートパソコンを見て、小さいほうを買うことに決めました。毎日大学に持っていくつもりだったので、彼女は、そのほうが（もう一方）より便利だろうと考えました。
 （選択肢の意味）
-1 （2つのうちの）もう一方
-2 （ほかの）もう1つ、別のもの
-3 （2つのうちの）どちらか一方、どちらでも
-4 両方
+1 the other：（2つのうちの）もう一方
+2 another：（ほかの）もう1つ、別のもの
+3 either：（2つのうちの）どちらか一方、どちらでも
+4 both：両方
 【考え方】
 最初の文の two laptops（2台のノートパソコン）と、decided to buy the smaller one（小さいほうを買うことに決めた）に注目します。比べているのは2台だけです。
 空所のある文は She thought it would be more convenient than (　).（そのほうが（　）より便利だろうと考えた）です。it は小さいほうのノートパソコンを指しています。more convenient than ～ は「～より便利だ」という比較の言い方なので、空所には比べる相手が入ります。

@@ -8,10 +8,10 @@ answerText: It has had a greater effect on society than other modern inventions.
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：一部の歴史家は、洗濯機の発明について何と言っていますか。
-1 それは、社会の重要な変化が原因で起きた。
-2 それは、テレビ、コンピューター、スマートフォンの開発につながった。
-3 それは、自然環境に大きな影響を与えてきた。
-4 それは、ほかの現代の発明よりも大きな影響を社会に与えてきた。
+1 It happened due to an important change in society.（それは、社会の重要な変化が原因で起きた。）
+2 It led to the development of TVs, computers, and smartphones.（それは、テレビ、コンピューター、スマートフォンの開発につながった。）
+3 It has had a major impact on the natural environment.（それは、自然環境に大きな影響を与えてきた。）
+4 It has had a greater effect on society than other modern inventions.（それは、ほかの現代の発明よりも大きな影響を社会に与えてきた。）
 【考え方】
 設問の some historians（一部の歴史家）は、第1段落の最後に出てきます。
 まず、第1段落で However, which of these machines has changed society the most?（しかし、これらの機械のうち、社会を最も大きく変えたのはどれだろうか）と問いかけています。その答えとして、次の文があります。

@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：次の記述のうち、正しいものはどれですか。
-1 特別捜査官は、自分がだれかをほかの捜査官に示すために、特別なカードをよく使う。
-2 医師は、患者が眠れるように、電線を使うことがある。
-3 ロジャーズは、ステッカーを皮膚に貼りつけたままにしておくための、新しい種類のシリコンを開発した。
-4 電子ステッカーは、たくさん眠る必要がある患者を観察するのに使うことができる。
+1 Special agents often use special cards to show other agents who they are.（特別捜査官は、自分がだれかをほかの捜査官に示すために、特別なカードをよく使う。）
+2 Doctors sometimes use electronic wires to help their patients sleep.（医師は、患者が眠れるように、電線を使うことがある。）
+3 Rogers developed a type of silicon that keeps stickers on the skin.（ロジャーズは、ステッカーを皮膚に貼りつけたままにしておくための、新しい種類のシリコンを開発した。）
+4 Electronic stickers can be used to monitor patients who need a lot of sleep.（電子ステッカーは、たくさん眠る必要がある患者を観察するのに使うことができる。）
 【考え方】
 本文全体と照らし合わせる問題です。選択肢4の patients who need a lot of sleep（たくさん眠る必要がある患者）に近い語句が、第3段落の最初にあります。
 The new electronic stickers are useful for patients who need to sleep a lot, such as newborn babies, because the stickers do not bother them.（この新しい電子ステッカーは、生まれたばかりの赤ちゃんのような、たくさん眠る必要がある患者にとって役に立つ。ステッカーが彼らのじゃまにならないからだ）

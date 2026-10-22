@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：なぜ多くの人は、昔のやり方のごみ集めを広げたいと思っているのですか。
-1 彼らは、ほかの発展途上国（これから経済が発展していく国）を支援する方法を見つけたいと思っている。
-2 彼らは、ごみを地中に埋めるほうが、より清潔で安全だと考えている。
-3 彼らは、そのほうが（新しい仕組みより）費用が安く、環境にもよいと考えている。
-4 彼らは、それによって市の人々のために、より多くの仕事が生まれることを望んでいる。
+1 They want to find a way to support other developing countries.（彼らは、ほかの発展途上国（これから経済が発展していく国）を支援する方法を見つけたいと思っている。）
+2 They think that it is cleaner and safer to bury garbage in the ground.（彼らは、ごみを地中に埋めるほうが、より清潔で安全だと考えている。）
+3 They believe that it is cheaper and better for the environment.（彼らは、そのほうが（新しい仕組みより）費用が安く、環境にもよいと考えている。）
+4 They hope that it will provide more jobs for people in the city.（彼らは、それによって市の人々のために、より多くの仕事が生まれることを望んでいる。）
 【考え方】
 設問の expand（広げる）と同じ語が、第4段落の最後の文にあります。
 Hoping to reduce costs and improve the environment, many people would now like to expand the traditional method of collecting garbage.（費用を減らし、環境をよくしたいと願って、多くの人が今、昔ながらのごみ集めのやり方を広げたいと考えている）

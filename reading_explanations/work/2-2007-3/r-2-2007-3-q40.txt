@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：AMAは、（　）人々の食習慣を変えるのは難しいと感じるだろう。
-1 健康によい塩の代わりのものが見つかるまでは
-2 企業が塩をさらにおいしくしているので
-3 保存食品を食べ始める人がもっと増えるまでは
-4 人々が医師の言うことを信じないので
+1 until a healthy replacement for salt is found.（健康によい塩の代わりのものが見つかるまでは）
+2 because companies are making salt even tastier.（企業が塩をさらにおいしくしているので）
+3 until more people begin eating preserved foods.（保存食品を食べ始める人がもっと増えるまでは）
+4 because people do not believe what doctors say.（人々が医師の言うことを信じないので）
 【考え方】
 設問の find it difficult to change people's eating habits（人々の食習慣を変えるのが難しいと感じる）にあたる内容を本文で探します。第4段落の最後の文 it will continue to be difficult to get people to eat less of it（人々に塩をとる量を減らしてもらうのは難しいままだろう）がそれにあたります。
 この文は As long as this is the case（この状況が続く限り）で始まっています。as long as は「～する限り」という条件の言い方です。this（この状況）は、すぐ前の文 Salt remains the cheapest and tastiest way both to preserve food and to improve its flavor.（塩は、食べ物を保存するのにも味をよくするのにも、いちばん安くておいしい方法であり続けている）を指します。

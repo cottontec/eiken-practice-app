@@ -7,10 +7,10 @@ reviewed: yes
 【和訳】
 エリオットは建築学が大好きで、大学でそれを勉強しています。彼はいつか自分のための家を設計したいと思っています。
 （選択肢の意味）
-1 建築、建築学
-2 伝記（ある人の一生を書いた本）
-3 責任
-4 関わること、参加
+1 architecture：建築、建築学
+2 biography：伝記（ある人の一生を書いた本）
+3 responsibility：責任
+4 involvement：関わること、参加
 【考え方】
 1文目は Elliot loves (　) and is studying it at college.（エリオットは〜が大好きで、大学でそれを勉強している）です。it は空所の語を指しているので、空所には「大学で勉強できる分野」が入ります。
 次に2文目の He hopes one day to design a house for himself.（彼はいつか自分のための家を設計したいと願っている）を見ます。design a house は「家を設計する（家の形や作りを考えて図面にする）」という意味です。

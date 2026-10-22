@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：一部の医師によると、
-1 読書療法にうまく反応しない心を持つ人もいる。
-2 現代では、心の病気がより一般的になってきている。
-3 心の病気の現代の治療法の多くは効果がない。
-4 読書は人々の心の健康によい効果をもたらしうる。
+1 some people's minds do not respond well to bibliotherapy.（読書療法にうまく反応しない心を持つ人もいる。）
+2 mental illnesses are becoming more common in modern times.（現代では、心の病気がより一般的になってきている。）
+3 many modern treatments for mental illnesses are not effective.（心の病気の現代の治療法の多くは効果がない。）
+4 reading can have benefits for people's mental health.（読書は人々の心の健康によい効果をもたらしうる。）
 【考え方】
 設問の some doctors（一部の医師）という語句を本文で探します。第1段落にあります。
 The idea that books are good for the mind has existed since ancient times, and in modern times, too, some doctors have emphasized the importance of reading for mental health.（本が心によいという考えは古代から存在しており、現代においても、心の健康のために読書が大切であることを強調してきた医師たちがいる）

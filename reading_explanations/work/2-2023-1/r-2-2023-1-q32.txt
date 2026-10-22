@@ -8,10 +8,10 @@ answerText: Machines that involve both electricity and water can be very unsafe 
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：電気で動く洗濯機を発明しようとしていた人々が直面した難しい課題の1つは、何でしたか。
-1 多くの人々が、それらは手で洗濯物を洗うほど効果がないだろうと思っていた。
-2 電気の利用は、世界の（ほかの地域より）豊かな地域の、少しの家庭に限られていた。
-3 彼らは、洗濯に関わるすべての工程を行う機械の作り方を見つけられなかった。
-4 電気と水の両方を使う機械は、扱うのにとても危険なことがある。
+1 Many people thought that they would not be as effective as washing laundry by hand.（多くの人々が、それらは手で洗濯物を洗うほど効果がないだろうと思っていた。）
+2 The use of electricity was limited to a few homes in wealthier parts of the world.（電気の利用は、世界の（ほかの地域より）豊かな地域の、少しの家庭に限られていた。）
+3 They could not discover how to make a machine to do all the steps involved in washing.（彼らは、洗濯に関わるすべての工程を行う機械の作り方を見つけられなかった。）
+4 Machines that involve both electricity and water can be very unsafe to work with.（電気と水の両方を使う機械は、扱うのにとても危険なことがある。）
 【考え方】
 設問の challenge（難しい課題）という語は、第3段落に出てきます。
 Discovering how to use electricity to power these machines was a challenge because the combination of water and electricity is very dangerous.（これらの機械を電気で動かす方法を見つけることは、難しい課題だった。水と電気の組み合わせはとても危険だからだ）

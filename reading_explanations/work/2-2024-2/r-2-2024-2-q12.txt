@@ -4,13 +4,17 @@ answerText: make do with
 ---
 【正解】3 make do with（～で間に合わせる、～で済ませる）
 【和訳】
+（英文）
+A: Veronica, did you buy a new computer at the electronics store today?
+B: Well, I found one that I liked, but it was a little expensive. I'll ［make do with］ my old computer for a few more months while I save up some more money.
+（訳）
 A：ベロニカ、今日は電器店で新しいコンピューターを買ったの？
 B：うーん、気に入ったものは見つけたけれど、少し値段が高くてね。もう少しお金をためる間、あと数か月は古いコンピューターで（間に合わせる）つもりだよ。
 （選択肢の意味）
-1 ～をあきらめる、～に見切りをつける
-2 ～に気をつける、～を探す
-3 ～で間に合わせる、～で済ませる
-4 ～に姿を見せる、～に出席する
+1 give up on：～をあきらめる、～に見切りをつける
+2 look out for：～に気をつける、～を探す
+3 make do with：～で間に合わせる、～で済ませる
+4 show up to：～に姿を見せる、～に出席する
 【考え方】
 Bは I found one that I liked, but it was a little expensive（気に入ったものは見つけたけれど、少し高かった）と言っています。つまり、新しいコンピューターはまだ買っていません。
 空所のあとは my old computer for a few more months while I save up some more money（もう少しお金をためる間、あと数か月、古いコンピューターを）です。save up は「（お金を）ためる」という意味です。新しいものを買うお金がたまるまでは、古いコンピューターを使い続けるしかない、という状況です。

@@ -8,10 +8,10 @@ answerText: Because wood survives for thousands of years only in very special co
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：シギルの偶像の発見が、ほかにない（めったにない）出来事であると考えられるのはなぜですか。
-1 それが見つかった地域の泥の種類のせいで、掘るのが難しいから。
-2 初期の人類は、ほかの集団が作った宗教的な像をよく壊したから。
-3 シギルの偶像のような物を作る技術を持っていた初期の人々は、ほとんどいなかったから。
-4 木はとても特別な条件のもとでしか何千年も残らないから。
+1 Because the kind of mud in the area where it was found makes digging difficult.（それが見つかった地域の泥の種類のせいで、掘るのが難しいから。）
+2 Because early humans often destroyed the religious statues made by other groups.（初期の人類は、ほかの集団が作った宗教的な像をよく壊したから。）
+3 Because few early people had the skills to make something like the Shigir Idol.（シギルの偶像のような物を作る技術を持っていた初期の人々は、ほとんどいなかったから。）
+4 Because wood survives for thousands of years only in very special conditions.（木はとても特別な条件のもとでしか何千年も残らないから。）
 【考え方】
 設問の unique は「ほかにない、ただ一つの」という意味で、be likely to ～ は「～である可能性が高い」です。第4段落に、像が残った理由と、発見がめずらしいことが書かれています。
 ・At some point in history, the Shigir Idol fell into a kind of mud that kept it safe for thousands of years.（歴史のある時点で、シギルの偶像はある種の泥の中に落ち、その泥が何千年もの間、像を無事に守った）

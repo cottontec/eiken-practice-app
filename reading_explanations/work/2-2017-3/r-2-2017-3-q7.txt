@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】2 withdrew（〔お金を〕引き出した）
 【和訳】
+（英文）
+Amy ［withdrew］ $300 from her bank account so she could buy a new watch.
+（訳）
 エイミーは、新しい腕時計を買えるように、銀行口座から300ドルを（引き出しました）。
 （選択肢の意味）
-1 断った
-2 （お金を）引き出した
-3 抱きしめた、受け入れた
-4 追い越した
+1 refused：断った
+2 withdrew：（お金を）引き出した
+3 embraced：抱きしめた、受け入れた
+4 overtook：追い越した
 【考え方】
 空所のあとの $300 from her bank account（銀行口座から300ドルを）に注目します。from は「～から」という意味なので、空所には「お金を銀行口座から～した」という動作が入ります。
 さらに、so she could buy a new watch（新しい腕時計を買えるように）とあります。so ～ could … は「…できるように」という目的を表す言い方です。腕時計を買うためには、口座からお金を出す必要があります。

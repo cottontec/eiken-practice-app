@@ -5,13 +5,17 @@ reviewed: yes
 ---
 【正解】4 sufficient for（～に十分な、～に足りる）
 【和訳】
+（英文）
+A: Do you think $400 will be ［sufficient for］ three days in New York?
+B: No, I think you'll need at least $800. Hotels are expensive there.
+（訳）
 A：400ドルで、ニューヨークでの3日間に（足りる）と思う？
 B：ううん、少なくとも800ドルは必要だと思うよ。あそこはホテルが高いよ。
 （選択肢の意味）
-1 ～する義務がある、～に感謝している
-2 ～ができる、～の能力がある
-3 ～について好みがうるさい
-4 ～に十分な、～に足りる
+1 obliged to：～する義務がある、～に感謝している
+2 capable of：～ができる、～の能力がある
+3 particular about：～について好みがうるさい
+4 sufficient for：～に十分な、～に足りる
 【考え方】
 Aは Do you think $400 will be (　) three days in New York?（400ドルはニューヨークでの3日間に（　）だと思う？）とたずねています。主語は $400（400ドル）というお金です。
 Bは No と答え、I think you'll need at least $800.（少なくとも800ドルは必要だと思う）と言っています。at least は「少なくとも」です。つまりBは「400ドルでは足りない」と答えています。

@@ -7,10 +7,10 @@ reviewed: yes
 【和訳】
 2人の兄弟は、どのテレビのチャンネルを見るかでけんかを始めました。最後には、父親がテレビを消して、2人の言い争いを終わらせました。
 （選択肢の意味）
-1 終わり
-2 地域、分野
-3 活動
-4 誤り、まちがい
+1 end：終わり
+2 area：地域、分野
+3 activity：活動
+4 error：誤り、まちがい
 【考え方】
 1文目で、兄弟が which TV channel to watch（どのテレビのチャンネルを見るか）でけんかを始めたことが分かります。
 2文目は Eventually（最後には）で始まり、their father put an (　) to their argument by turning off the TV（父親はテレビを消すことによって、彼らの言い争いに〜を置いた）と続きます。argument は「言い争い」です。

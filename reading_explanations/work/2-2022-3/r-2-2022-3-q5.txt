@@ -4,13 +4,17 @@ answerText: tension
 ---
 【正解】1 tension（緊張、張りつめた状態）
 【和訳】
+（英文）
+A: Why has the office been so quiet recently?
+B: Since Amy and Ben had an argument, there has been a lot of ［tension］ between them.
+（訳）
 A：最近、どうして職場はこんなに静かなの？
 B：エイミーとベンが言い争いをしてから、2人の間にはずっと強い（緊張した空気）があるんだよ。
 （選択肢の意味）
-1 緊張、張りつめた状態
-2 生き残ること
-3 プライバシー（他人に立ち入られない個人の生活）
-4 正義、公正
+1 tension：緊張、張りつめた状態
+2 survival：生き残ること
+3 privacy：プライバシー（他人に立ち入られない個人の生活）
+4 justice：正義、公正
 【考え方】
 Aは「最近、どうして職場がこんなに静かなのか」とたずねています。
 Bの答えの Since Amy and Ben had an argument（エイミーとベンが言い争いをしてから）に注目します。ここでの since は、あとに there has been（ずっと～がある）という現在完了形（過去から今まで続いていることを表す形）が続いているので、「～して以来」という意味です。

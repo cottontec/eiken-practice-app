@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：ラッセル・J・スチュワートが、自分の接着剤が役に立つかもしれないと考える理由の1つは何ですか。
-1 海の中の酸の量を減らすから。
-2 ネズミを使って研究所で作ることができるから。
-3 まわりの温度の影響を受けないから。
-4 固まるのに空気を必要としないから。
+1 It reduces the amount of acid in the ocean.（海の中の酸の量を減らすから。）
+2 It can be produced in laboratories using rats.（ネズミを使って研究所で作ることができるから。）
+3 It is not affected by the surrounding temperature.（まわりの温度の影響を受けないから。）
+4 It does not need air to become hard.（固まるのに空気を必要としないから。）
 【考え方】
 スチュワートさんたちが作った接着剤については第4段落に書かれています。
 1文目に Stewart and his team of scientists have now also produced an artificial glue that hardens in water.（スチュワートさんと彼のチームは、水の中で固まる人工の接着剤も作り出した）とあります。harden は「固まる」という意味です。

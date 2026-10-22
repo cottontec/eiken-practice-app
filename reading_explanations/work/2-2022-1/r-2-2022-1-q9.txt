@@ -4,12 +4,15 @@ answerText: mixture
 ---
 【正解】1 mixture（混合物、混ぜ合わせたもの）
 【和訳】
+（英文）
+In chemistry class, the students added a small amount of acid to water. Then, they used this ［mixture］ to carry out an experiment.
+（訳）
 化学の授業で、生徒たちは水に少量の酸を加えました。それから、彼らはこの（混合物）を使って実験を行いました。
 （選択肢の意味）
-1 混合物、混ぜ合わせたもの
-2 気候
-3 入ること、参加、記入した項目
-4 瞬間
+1 mixture：混合物、混ぜ合わせたもの
+2 climate：気候
+3 entry：入ること、参加、記入した項目
+4 moment：瞬間
 【考え方】
 最初の文の the students added a small amount of acid to water（生徒たちは水に少量の酸を加えた）に注目します。add A to B は「AをBに加える」という意味です。
 水に酸を加えると、水と酸が混ざったものができます。次の文 Then, they used this ( ) の this（この）は、前の文で作ったものを指していると考えられます。mixture は「混合物、混ぜ合わせたもの」という意味で、this mixture で「この（水と酸を混ぜた）混合物」となります。それを使って実験をした、という流れが自然なので、1が正解です。

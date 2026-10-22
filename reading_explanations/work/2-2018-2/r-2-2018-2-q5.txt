@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】3 concepts（概念、考え方）
 【和訳】
+（英文）
+The students had difficulty understanding some ［concepts］ in the textbook, so the professor had to take extra time in class to explain them.
+（訳）
 学生たちは教科書に出てくるいくつかの（概念）を理解するのに苦労したので、教授は授業で特別に時間をとって、それらを説明しなければなりませんでした。
 （選択肢の意味）
-1 ささやき
-2 預金、手付金
-3 概念、考え方
-4 謝罪、おわび
+1 whispers：ささやき
+2 deposits：預金、手付金
+3 concepts：概念、考え方
+4 apologies：謝罪、おわび
 【考え方】
 had difficulty understanding ～ は「～を理解するのに苦労した」という意味です（have difficulty -ing で「～するのに苦労する」）。空所に入るのは、教科書の中にあって、学生が理解しにくかったものです。
 文の後半では、so（だから）のあとに、the professor had to take extra time in class to explain them（教授は、それらを説明するために授業で余分に時間をとらなければならなかった）と続きます。them は空所の名詞を指しています。説明が必要なほど難しいものだということです。

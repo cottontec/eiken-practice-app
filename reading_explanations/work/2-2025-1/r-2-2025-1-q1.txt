@@ -4,12 +4,15 @@ answerText: civilization
 ---
 【正解】1 civilization（文明）
 【和訳】
+（英文）
+The ［civilization］ of ancient Greece made many great discoveries in science, politics, and art. These discoveries changed the way that people think and live.
+（訳）
 古代ギリシャの（文明）は、科学、政治、芸術の分野で多くの偉大な発見をしました。これらの発見は、人々の考え方や暮らし方を変えました。
 （選択肢の意味）
-1 文明
-2 失望、がっかりすること
-3 割合、比率
-4 広告
+1 civilization：文明
+2 disappointment：失望、がっかりすること
+3 proportion：割合、比率
+4 advertisement：広告
 【考え方】
 空所は文の主語（「～は」に当たる部分）で、The (　) of ancient Greece（古代ギリシャの（　））が made many great discoveries in science, politics, and art（科学、政治、芸術で多くの偉大な発見をした）という形になっています。
 つまり空所には、「発見をする」ことができるもの、しかも科学・政治・芸術という幅広い分野にかかわるものが入ります。

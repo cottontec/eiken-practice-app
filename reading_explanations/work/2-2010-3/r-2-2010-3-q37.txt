@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：「遺伝子指紋法」という技術は（　）。
-1 最初はネコで試されたが、今では人間にも使われている
-2 一人一人のDNAが少しずつ違っているという事実を利用している
-3 犯罪を犯しそうな人のタイプを見分けるのに使える
-4 別々の2つの犯罪現場の似ている点を見つける方法である
+1 was first tested on cats but is now also being used for human beings.（最初はネコで試されたが、今では人間にも使われている）
+2 relies on the fact that the DNA of each individual is slightly different.（一人一人のDNAが少しずつ違っているという事実を利用している）
+3 can be used to determine the types of people likely to commit crimes.（犯罪を犯しそうな人のタイプを見分けるのに使える）
+4 is a way of discovering similarities between two separate crime scenes.（別々の2つの犯罪現場の似ている点を見つける方法である）
 【考え方】
 「遺伝子指紋法」の説明は、第1段落にあります。本文によると、DNA の中には genetic information（遺伝情報）が入っています。
 Most of the genetic information in DNA is the same in everyone, but a small percentage is unique to each individual.（DNAの中の遺伝情報のほとんどはだれでも同じだが、ごく一部はそれぞれの個人に特有のものだ）とあります。unique to ～ は「～だけが持っている、～に特有の」という意味です。

@@ -4,6 +4,10 @@ answerText: telling
 ---
 【正解】2 telling（〔There is no telling で〕分からない、予測できない）
 【和訳】
+（英文）
+A: How long does it take to drive to your parents' house?
+B: There's no ［telling］ with traffic during the holidays. It could take thirty minutes, or it could take two hours.
+（訳）
 A：あなたの両親の家まで、車でどのくらいかかるの？
 B：休みの期間は、交通の状況が（どうなるか分からない）よ。30分かもしれないし、2時間かかるかもしれないね。
 （選択肢の意味）どれも tell（言う、分かる）の形を変えたものです。1 tell（原形）　2 telling（-ing 形）　3 tells（主語が he や she などのときの今の形）　4 told（過去形・過去分詞）

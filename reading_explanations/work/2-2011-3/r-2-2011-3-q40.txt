@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：一部の専門家は、（　　）と言っています。
-1 DNA検査は親ではなく医者が行うべきだ
-2 ACTN3は、運動能力に影響する多くのもののうちの1つにすぎない
-3 子どもは、スポーツに使う時間を今よりずっと減らすべきだ
-4 検査キットは、一部の子どもにあまりにも大きな有利さを与える
+1 DNA tests should be carried out by doctors rather than parents.（DNA検査は親ではなく医者が行うべきだ）
+2 ACTN3 is just one of many things that affect sporting ability.（ACTN3は、運動能力に影響する多くのもののうちの1つにすぎない）
+3 children should spend much less time on sports than they do now.（子どもは、スポーツに使う時間を今よりずっと減らすべきだ）
+4 the testing kits give some children too much of an advantage.（検査キットは、一部の子どもにあまりにも大きな有利さを与える）
 【考え方】
 設問の Some experts say that（一部の専門家は～と言っている）に注目します。第4段落の2文目に、同じ Some say that で始まる文があります。
 Some say that the tests are useless because sporting ability involves many factors, not just one gene.（運動能力には1つの遺伝子だけでなく多くの要因が関わっているので、この検査は役に立たないと言う専門家もいる）とあります。factor は「要因（ある結果を生むもとになるもの）」です。ここでの one gene（1つの遺伝子）は、キットで調べる ACTN3 のことです。

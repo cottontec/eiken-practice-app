@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：インド固有識別庁（UIDAI）の目的は何ですか。
-1 それは、データベースを作ろうとしている会社を支援する。
-2 それは、国のすべての国民についての基本的な情報を集める。
-3 それは、貧しい人々が新しい種類の技術を利用できるよう手助けする。
-4 それは、罪を犯した人々の指紋を集める。
+1 It supports businesses that are trying to create databases.（それは、データベースを作ろうとしている会社を支援する。）
+2 It gathers basic data about all the citizens of the country.（それは、国のすべての国民についての基本的な情報を集める。）
+3 It helps poor people gain access to new types of technology.（それは、貧しい人々が新しい種類の技術を利用できるよう手助けする。）
+4 It collects the fingerprints of people who have committed crimes.（それは、罪を犯した人々の指紋を集める。）
 【考え方】
 UIDAIの説明は第2段落にあります。
 This is a project to record the identity of every Indian individual in a huge government database.（これは、インドの一人ひとりの身元を政府の巨大なデータベースに記録する事業だ）

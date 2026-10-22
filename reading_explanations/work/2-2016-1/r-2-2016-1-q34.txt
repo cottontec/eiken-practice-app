@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：なぜ一部の学校は、生徒にコンピューターを使うよう勧めているのですか。
-1 生徒にとって、キーボードの打ち方を覚えるのにかかる時間は、字の書き方を覚えるのにかかる時間より短いから。
-2 先生が授業で生徒と一緒に取り組む時間を（今より）少なくできるから。
-3 生徒が授業での作業を（より）速く行うのに役立ち、将来の仕事への準備にもなるから。
-4 世界中のほかの生徒とつながることで、生徒が学ぶのに役立つから。
+1 It takes students less time to learn how to type than it does to learn how to write.（生徒にとって、キーボードの打ち方を覚えるのにかかる時間は、字の書き方を覚えるのにかかる時間より短いから。）
+2 It allows teachers to spend less time working with students in their classes.（先生が授業で生徒と一緒に取り組む時間を（今より）少なくできるから。）
+3 It helps students perform tasks in class faster and prepares them for future jobs.（生徒が授業での作業を（より）速く行うのに役立ち、将来の仕事への準備にもなるから。）
+4 It helps students learn by connecting them with other students around the world.（世界中のほかの生徒とつながることで、生徒が学ぶのに役立つから。）
 【考え方】
 設問の encourage students to use computers（生徒にコンピューターを使うよう勧める）と同じ言い方が、第1段落にあります。
 some encourage students to use computers in other classes, too（ほかの授業でもコンピューターを使うよう生徒に勧めている学校もある）

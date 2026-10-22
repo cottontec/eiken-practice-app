@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：次の記述のうち、正しいのはどれですか。
-1 第二次世界大戦中、女性たちはアメリカ陸軍のためにロケットや爆弾の動きを計算した。
-2 キャスリン・クライマンは、1986年にハーバード大学でコンピューター科学を教え始めた。
-3 最初のコンピューターはとても大きかったので、女性のグループが修理するのに2日かかった。
-4 アメリカの若い女性の約75パーセントが、コンピューター科学を勉強するつもりだと言っている。
+1 Women calculated the movements of rockets and bombs for the U.S. Army during World War II.（第二次世界大戦中、女性たちはアメリカ陸軍のためにロケットや爆弾の動きを計算した。）
+2 Kathryn Kleiman began teaching computer science at Harvard University in 1986.（キャスリン・クライマンは、1986年にハーバード大学でコンピューター科学を教え始めた。）
+3 The first computer was so large that it took two days for a group of women to repair.（最初のコンピューターはとても大きかったので、女性のグループが修理するのに2日かかった。）
+4 About 75 percent of young American women have said that they will study computer science.（アメリカの若い女性の約75パーセントが、コンピューター科学を勉強するつもりだと言っている。）
 【考え方】
 本文全体の内容と合うものを選ぶ問題なので、選択肢を1つずつ本文と比べます。
 1は第2段落の内容です。During World War II（第二次世界大戦中）の話として、次のように書かれています。

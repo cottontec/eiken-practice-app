@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：ソーラーパネルと太陽熱発電所の違いの1つは何ですか。
-1 ソーラーパネルのほうが、大量の水を熱することができる。
-2 ソーラーパネルのほうが、ずっと多くのエネルギーを作り出すことができる。
-3 太陽熱発電所のほうが、ヨーロッパでよく見られる。
-4 太陽熱発電所は、暗くなったあとも動き続ける。
+1 Solar panels can heat larger quantities of water.（ソーラーパネルのほうが、大量の水を熱することができる。）
+2 Solar panels are able to produce much more energy.（ソーラーパネルのほうが、ずっと多くのエネルギーを作り出すことができる。）
+3 Solar power stations are more common in Europe.（太陽熱発電所のほうが、ヨーロッパでよく見られる。）
+4 Solar power stations continue to work after dark.（太陽熱発電所は、暗くなったあとも動き続ける。）
 【考え方】
 ソーラーパネルと太陽熱発電所を比べているのは第3段落です。According to Desertec, solar power stations have many good points compared with solar panels.（デザーテックによると、太陽熱発電所にはソーラーパネルと比べて多くの利点がある）とあり、そのあとに利点が並んでいます。
 その1つが they are also able to store the sun's heat, allowing electricity to be produced at night as well as during the day（太陽の熱をためておくこともできるので、昼間だけでなく夜にも電気を作ることができる）です。store は「～をためておく」、A as well as B は「BだけでなくAも」です。

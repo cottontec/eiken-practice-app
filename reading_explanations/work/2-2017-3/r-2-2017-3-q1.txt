@@ -5,12 +5,15 @@ reviewed: yes
 ---
 【正解】1 incredible（信じられないほどの、すばらしい）
 【和訳】
+（英文）
+My mother has an ［incredible］ memory. She can easily remember phone numbers after hearing them just once.
+（訳）
 私の母は（信じられないほどすばらしい）記憶力を持っています。電話番号を、たった一度聞いただけで簡単に覚えることができるのです。
 （選択肢の意味）
-1 信じられないほどの、すばらしい
-2 人工の、人が作った
-3 罪のない、無邪気な
-4 いばった、偉そうな
+1 incredible：信じられないほどの、すばらしい
+2 artificial：人工の、人が作った
+3 innocent：罪のない、無邪気な
+4 arrogant：いばった、偉そうな
 【考え方】
 空所は memory（記憶力）を説明する語です。どんな記憶力なのかは、あとの文で説明されています。
 She can easily remember phone numbers after hearing them just once.（彼女は電話番号を、たった一度聞いただけで簡単に覚えることができる）

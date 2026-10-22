@@ -9,10 +9,10 @@ reviewed: yes
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：ICANN（Internet Corporation for Assigned Names and Numbers）を批判する人々の一部は、2005年に何と言いましたか。
-1 ICANNは、決定を下す前にほかの国々の助言にまったく注意を払わなかった。
-2 アメリカの組織がドメイン名を担当するべきではない。
-3 それぞれの国が、独自の文字体系を作ることを認められるべきだ。
-4 ICANNの「組み合わせ」ドメイン名の仕組みは十分ではなかった。
+1 It paid no attention to other countries' advice before making decisions.（ICANNは、決定を下す前にほかの国々の助言にまったく注意を払わなかった。）
+2 An American organization should not be in charge of domain names.（アメリカの組織がドメイン名を担当するべきではない。）
+3 Each country should be allowed to develop its own writing system.（それぞれの国が、独自の文字体系を作ることを認められるべきだ。）
+4 Its "combination" domain-name system was not good enough.（ICANNの「組み合わせ」ドメイン名の仕組みは十分ではなかった。）
 【考え方】
 設問の in 2005 と critics（批判する人々）を手がかりに、第3段落を見ます。
 段落の始めに Since 2003, ICANN has allowed "combination" domain names that include characters from other writing systems.（2003年から、ICANNはほかの文字体系の文字を含む「組み合わせ」ドメイン名を認めてきた）とあります。しかし However, the final part of the name — for example ".com" or ".org" — must still be typed in Roman letters.（しかし、名前の最後の部分――たとえば「.com」や「.org」――は今でもローマ字で入力しなければならない）と続きます。
