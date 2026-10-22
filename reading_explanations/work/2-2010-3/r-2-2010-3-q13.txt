@@ -1,6 +1,7 @@
 ---
 choices: back and forth | safe and sound | sweet and sour | good and bad
 answerText: safe and sound
+reviewed: yes
 ---
 【正解】2 safe and sound（無事に、何事もなく）
 【和訳】

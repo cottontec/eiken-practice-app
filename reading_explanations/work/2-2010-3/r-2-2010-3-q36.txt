@@ -1,6 +1,7 @@
 ---
 choices: Have a volunteer explain more about Arnfield Action's work. | Take some tickets to the store to give to Mr. Simmons's staff. | Attend a party that is going to be held at Waverly Electronics. | Put some information about Rachel Stone on her college's website.
 answerText: Have a volunteer explain more about Arnfield Action's work.
+reviewed: yes
 ---
 【正解】1 Have a volunteer explain more about Arnfield Action's work.（ボランティアの人に、アーンフィールド・アクションの活動についてさらに説明してもらう。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: extend | direct | gather | cure
 answerText: direct
+reviewed: yes
 ---
 【正解】2 direct（（交通などを）誘導する、指示する）
 【和訳】

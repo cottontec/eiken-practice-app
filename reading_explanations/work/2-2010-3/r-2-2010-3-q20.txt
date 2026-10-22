@@ -1,6 +1,7 @@
 ---
 choices: to speak | spoken | speaking | having spoken
 answerText: speaking
+reviewed: yes
 ---
 【正解】3 speaking（話すこと）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: experiments | frontiers | networks | characteristics
 answerText: characteristics
+reviewed: yes
 ---
 【正解】4 characteristics（特徴、特性）
 【和訳】

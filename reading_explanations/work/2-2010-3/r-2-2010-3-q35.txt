@@ -1,6 +1,7 @@
 ---
 choices: By contacting other companies that might become sponsors. | By putting up posters in his store to advertise the party. | By donating something from his store to use as a prize. | By helping the winner to appear on a television program.
 answerText: By donating something from his store to use as a prize.
+reviewed: yes
 ---
 【正解】3 By donating something from his store to use as a prize.（彼の店の品を、賞品として使うために寄付することによって。）
 【和訳】

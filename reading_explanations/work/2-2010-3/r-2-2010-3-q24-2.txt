@@ -2,6 +2,7 @@
 choices: with | do | little | has | to
 answerText: little
 order: 4 3 5 2 1
+reviewed: yes
 ---
 【正解】3 little（この問題の2番目）
 【完成文】

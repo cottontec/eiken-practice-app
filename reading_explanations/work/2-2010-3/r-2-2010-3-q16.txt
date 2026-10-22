@@ -1,6 +1,7 @@
 ---
 choices: took pains | found work | gained entry | changed hands
 answerText: took pains
+reviewed: yes
 ---
 【正解】1 took pains（骨を折った、苦労して努力した）
 【和訳】

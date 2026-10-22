@@ -1,6 +1,7 @@
 ---
 choices: clothes | dates | seats | dishes
 answerText: seats
+reviewed: yes
 ---
 【正解】3 seats（席、座席）
 【和訳】

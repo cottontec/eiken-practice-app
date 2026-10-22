@@ -1,6 +1,7 @@
 ---
 choices: After the war, many people said Hughes had wasted government money. | Kaiser and Hughes argued over how much money to spend on the plane. | The Hercules project was not completed because Hughes ran out of money. | Hughes went to Washington, D.C., to get back the money he had spent on the project.
 answerText: After the war, many people said Hughes had wasted government money.
+reviewed: yes
 ---
 【正解】1 After the war, many people said Hughes had wasted government money.（戦争のあと、多くの人々が、ヒューズは政府のお金をむだにしたと言った。）
 【和訳】

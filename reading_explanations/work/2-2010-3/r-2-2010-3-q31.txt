@@ -1,6 +1,7 @@
 ---
 choices: silent about | afraid of | shocked by | famous for
 answerText: famous for
+reviewed: yes
 ---
 【正解】4 famous for（～で有名な）
 【和訳】

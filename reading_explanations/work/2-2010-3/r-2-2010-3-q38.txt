@@ -1,6 +1,7 @@
 ---
 choices: That the white hairs found on a jacket belonged to the victim of a murder. | That the jacket found at the crime scene belonged to the murderer's father. | That a man they suspected of murder had been at the scene of the crime. | That a man had been wrongly sent to prison for murdering someone.
 answerText: That a man they suspected of murder had been at the scene of the crime.
+reviewed: yes
 ---
 【正解】3 That a man they suspected of murder had been at the scene of the crime.（殺人の疑いをかけていた男が、犯行現場にいたということ。）
 【和訳】

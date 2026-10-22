@@ -1,6 +1,7 @@
 ---
 choices: He hoped to sell them to Howard Hughes's airline company. | Ships carrying men and equipment were often attacked. | Such airplanes could be used to sink enemy submarines. | It was becoming expensive for him to make ships.
 answerText: Ships carrying men and equipment were often attacked.
+reviewed: yes
 ---
 【正解】2 Ships carrying men and equipment were often attacked.（兵士や装備を運ぶ船が、たびたび攻撃されていたから。）
 【和訳】

@@ -2,6 +2,7 @@
 choices: by | paid | the | is | hour
 answerText: paid
 order: 4 2 1 3 5
+reviewed: yes
 ---
 【正解】2 paid（この問題の2番目）
 【完成文】

@@ -2,6 +2,7 @@
 choices: get | want | caught | in | to
 answerText: caught
 order: 2 5 1 3 4
+reviewed: yes
 ---
 【正解】3 caught（この問題の4番目）
 【完成文】

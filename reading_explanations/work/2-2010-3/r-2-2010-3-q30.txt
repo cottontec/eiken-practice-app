@@ -1,6 +1,7 @@
 ---
 choices: lie | wonder | protest | reply
 answerText: wonder
+reviewed: yes
 ---
 【正解】2 wonder（不思議に思う、あれこれ考える）
 【和訳】

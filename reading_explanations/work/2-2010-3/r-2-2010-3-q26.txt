@@ -1,6 +1,7 @@
 ---
 choices: Naturally | Rather | Nevertheless | Unfortunately
 answerText: Naturally
+reviewed: yes
 ---
 【正解】1 Naturally（当然のことながら、自然に）
 【和訳】

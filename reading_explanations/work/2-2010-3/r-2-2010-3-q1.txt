@@ -1,6 +1,7 @@
 ---
 choices: comments | switches | advises | insists
 answerText: insists
+reviewed: yes
 ---
 【正解】4 insists（言い張る、どうしてもと主張する）
 【和訳】

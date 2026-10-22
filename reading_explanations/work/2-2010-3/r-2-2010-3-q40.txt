@@ -1,6 +1,7 @@
 ---
 choices: Cats are less likely to be noticed at a crime scene. | Cats have a wider variety of DNA than other animals. | Cat fur tends to remain at a crime scene for a longer time. | Cat fur is more likely to be found on criminals' clothes.
 answerText: Cat fur is more likely to be found on criminals' clothes.
+reviewed: yes
 ---
 【正解】4 Cat fur is more likely to be found on criminals' clothes.（ネコの毛のほうが、犯人の服に付いて見つかりやすい。）
 【和訳】

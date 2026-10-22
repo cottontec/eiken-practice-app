@@ -1,6 +1,7 @@
 ---
 choices: described | mastered | judged | ruined
 answerText: mastered
+reviewed: yes
 ---
 【正解】2 mastered（習得した、身につけた）
 【和訳】

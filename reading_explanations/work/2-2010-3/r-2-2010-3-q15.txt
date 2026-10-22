@@ -1,6 +1,7 @@
 ---
 choices: test | shape | cost | point
 answerText: point
+reviewed: yes
 ---
 【正解】4 point（意味、目的）
 【和訳】

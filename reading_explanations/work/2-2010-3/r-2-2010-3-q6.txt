@@ -1,6 +1,7 @@
 ---
 choices: opportunities | candidates | forecasts | possessions
 answerText: possessions
+reviewed: yes
 ---
 【正解】4 possessions（持ち物、所有物）
 【和訳】

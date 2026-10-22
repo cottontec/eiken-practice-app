@@ -1,6 +1,7 @@
 ---
 choices: There was a shortage of wood in California. | They could not get all the metals that they needed. | Hughes's factory was located far from the Atlantic Ocean. | The airplane could not be designed to take off from land.
 answerText: They could not get all the metals that they needed.
+reviewed: yes
 ---
 【正解】2 They could not get all the metals that they needed.（必要な金属をすべて手に入れることはできなかった。）
 【和訳】

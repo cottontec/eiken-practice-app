@@ -1,0 +1,19 @@
+---
+choices: but | museums | what she | was the | enjoyed most
+answerText: what she
+order: 1 3 5 4 2
+---
+【正解】3 what she（この問題の2番目）
+【完成文】
+Cathleen visited Italy last year. She thought that the restaurants and hotels were excellent, ( but what she enjoyed most was the museums ). She spent a long time looking at the displays and learning about Italian history.
+並べ方：1 but → 3 what she → 5 enjoyed most → 4 was the → 2 museums（2番目は3、4番目は4）
+【和訳】
+キャスリーンは去年イタリアを訪れました。彼女は、レストランやホテルもすばらしいと思いましたが、いちばん楽しんだのは博物館でした。彼女は、展示品を見たり、イタリアの歴史について学んだりして、長い時間を過ごしました。
+【考え方】
+空所の前は She thought that the restaurants and hotels were excellent,（彼女はレストランやホテルがすばらしいと思った）で、ここで文の形が一度まとまっています。そこで、空所の最初には、前の内容と後ろの内容をつなぐ 1 but（しかし）を置きます。
+but のあとには、新しい主語と動詞が必要です。ここで what に注目します。what she enjoyed most は「彼女がいちばん楽しんだもの」という意味で、what は「～するもの・こと」という1つのまとまりをつくる語です。このまとまりが、but のあとの文の主語になります。主語の始まりになるので、but のすぐあと、2番目に 3 what she が来ます。
+what she のあとには、she がしたことを表す 5 enjoyed most（いちばん楽しんだ）を続けます。主語 what she enjoyed most のあとに動詞として 4 was the を置き、最後に the と組になる名詞 2 museums を置きます。「いちばん楽しんだのは博物館だった」となり、次の文の「展示品を見たり、歴史について学んだりして長い時間を過ごした」という内容ともつながります。
+したがって2番目は3 what she です。
+【覚えるポイント】
+・what ＋ 主語 ＋ 動詞：「（主語）が～するもの・こと」。What she enjoyed most was ～ で「彼女がいちばん楽しんだのは～だった」となります。
+・spend ＋ 時間 ＋ -ing：「～して（時間）を過ごす」。

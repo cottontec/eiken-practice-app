@@ -1,6 +1,7 @@
 ---
 choices: works for a company that makes wheelchairs. | is trying to raise money to help disabled people. | wants Mr. Simmons to organize an event at her college. | will help provide costumes for the Arnfield Community Center.
 answerText: is trying to raise money to help disabled people.
+reviewed: yes
 ---
 【正解】2 is trying to raise money to help disabled people.（体の不自由な人々を助けるために、お金を集めようとしている。）
 【和訳】

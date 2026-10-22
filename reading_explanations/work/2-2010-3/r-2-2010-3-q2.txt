@@ -1,6 +1,7 @@
 ---
 choices: repeatedly | possibly | independently | restlessly
 answerText: independently
+reviewed: yes
 ---
 【正解】3 independently（自立して、人に頼らずに）
 【和訳】

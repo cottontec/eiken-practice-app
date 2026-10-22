@@ -2,6 +2,7 @@
 choices: with | do | little | has | to
 answerText: do
 order: 4 3 5 2 1
+reviewed: yes
 ---
 【正解】2 do（この問題の4番目）
 【完成文】

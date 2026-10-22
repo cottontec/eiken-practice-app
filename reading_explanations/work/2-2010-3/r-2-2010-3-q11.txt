@@ -1,6 +1,7 @@
 ---
 choices: contrary | border | market | position
 answerText: contrary
+reviewed: yes
 ---
 【正解】1 contrary（反対）
 【和訳】

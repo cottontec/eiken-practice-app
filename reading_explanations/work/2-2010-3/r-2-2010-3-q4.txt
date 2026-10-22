@@ -1,6 +1,7 @@
 ---
 choices: punctual | talkative | trustworthy | seasonal
 answerText: trustworthy
+reviewed: yes
 ---
 【正解】3 trustworthy（信頼できる）
 【和訳】

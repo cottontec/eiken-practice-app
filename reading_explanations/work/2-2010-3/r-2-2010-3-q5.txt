@@ -1,6 +1,7 @@
 ---
 choices: participated | vanished | decreased | survived
 answerText: participated
+reviewed: yes
 ---
 【正解】1 participated（参加した）
 【和訳】

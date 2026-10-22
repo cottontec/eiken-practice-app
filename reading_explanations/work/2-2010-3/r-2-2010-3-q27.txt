@@ -1,6 +1,7 @@
 ---
 choices: permission | demand | assistance | responsibility
 answerText: demand
+reviewed: yes
 ---
 【正解】2 demand（需要、求められること）
 【和訳】

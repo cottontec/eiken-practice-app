@@ -1,6 +1,7 @@
 ---
 choices: truth | demonstration | convenience | rhythm
 answerText: convenience
+reviewed: yes
 ---
 【正解】3 convenience（都合のよいこと、便利）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: decision | task | profit | warning
 answerText: profit
+reviewed: yes
 ---
 【正解】3 profit（利益、もうけ）
 【和訳】

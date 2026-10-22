@@ -1,6 +1,7 @@
 ---
 choices: get in | fill out | use up | turn down
 answerText: use up
+reviewed: yes
 ---
 【正解】3 use up（使い果たす、使い切る）
 【和訳】

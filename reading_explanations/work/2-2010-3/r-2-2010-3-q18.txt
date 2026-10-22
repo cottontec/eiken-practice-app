@@ -1,6 +1,7 @@
 ---
 choices: is | might be | was | has been
 answerText: might be
+reviewed: yes
 ---
 【正解】2 might be（～かもしれない）
 【和訳】

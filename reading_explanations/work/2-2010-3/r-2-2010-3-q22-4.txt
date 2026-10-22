@@ -2,6 +2,7 @@
 choices: I'm | goes | saying | without | that
 answerText: that
 order: 2 4 3 5 1
+reviewed: yes
 ---
 【正解】5 that（この問題の4番目）
 【完成文】

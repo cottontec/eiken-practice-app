@@ -1,6 +1,7 @@
 ---
 choices: was first tested on cats but is now also being used for human beings. | relies on the fact that the DNA of each individual is slightly different. | can be used to determine the types of people likely to commit crimes. | is a way of discovering similarities between two separate crime scenes.
 answerText: relies on the fact that the DNA of each individual is slightly different.
+reviewed: yes
 ---
 【正解】2 relies on the fact that the DNA of each individual is slightly different.（一人一人のDNAが少しずつ違っているという事実を利用している。）
 【和訳】

@@ -2,6 +2,7 @@
 choices: no | studying | less important | than | is
 answerText: no
 order: 5 1 3 4 2
+reviewed: yes
 ---
 【正解】1 no（この問題の2番目）
 【完成文】

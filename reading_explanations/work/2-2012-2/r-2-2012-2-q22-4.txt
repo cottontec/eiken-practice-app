@@ -1,0 +1,22 @@
+---
+choices: took | and | into | broke | Mr. Smith's house
+answerText: and
+order: 4 3 5 2 1
+---
+【正解】2 and（この問題の4番目）
+【完成文】
+A: This neighborhood isn't as safe as it used to be, honey. Last night, somebody ( broke into Mr. Smith's house and took ) his new television.
+B: That's horrible. We need to make sure our doors are always locked.
+並べ方：4 broke → 3 into → 5 Mr. Smith's house → 2 and → 1 took（2番目は3、4番目は2）
+【和訳】
+A：ねえ、このあたりは前ほど安全じゃなくなったね。昨夜、だれかがスミスさんの家に押し入って、スミスさんの新しいテレビを持っていったんだよ。
+B：ひどいね。うちのドアにいつも必ずかぎがかかっているようにしないといけないね。
+【考え方】
+まず、空所の後ろを見ます。空所のすぐあとは his new television（彼の新しいテレビ）です。テレビは「持っていかれた物」なので、空所の最後には「持っていった」という意味の 1 took が来ると分かります。
+次に、空所の初めを考えます。主語 somebody のあとに、もう1つの動詞 4 broke を置き、3 into、5 Mr. Smith's house と続けて broke into Mr. Smith's house（スミスさんの家に押し入った）とします。break into ～ は「～に押し入る」という意味です。
+これで「スミスさんの家に押し入った」と「彼の新しいテレビを持っていった」という2つの動作がそろいました。同じ主語 somebody がした2つの動作を順番に並べるので、その間の4番目に 2 and（そして）を置きます。and をはさむことで、「押し入って、テレビを持っていった」という出来事の順番がはっきりします。
+somebody took Mr. Smith's house and broke into ～ のように took を先にすると、「スミスさんの家を持っていった」となり意味が通りません。また、into のあとに his new television が来ることもないので、この並べ方はできません。
+したがって4番目は2 and です。
+【覚えるポイント】
+・主語 ＋ 動詞A ～ and 動詞B ～：「（主語）がAして、Bした」。同じ主語の動作を2つ並べる形です。
+・make sure (that) ～：「必ず～であるようにする、～を確かめる」。

@@ -1,6 +1,7 @@
 ---
 choices: tension | confidence | debt | justice
 answerText: tension
+reviewed: yes
 ---
 【正解】1 tension（緊張、張りつめた空気）
 【和訳】

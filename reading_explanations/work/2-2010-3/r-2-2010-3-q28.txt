@@ -1,6 +1,7 @@
 ---
 choices: religious | healthy | young | local
 answerText: local
+reviewed: yes
 ---
 【正解】4 local（地元の、その地域の）
 【和訳】

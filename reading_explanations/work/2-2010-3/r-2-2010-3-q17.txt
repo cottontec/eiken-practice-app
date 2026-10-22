@@ -1,6 +1,7 @@
 ---
 choices: by means of | in place of | for use as | with regard to
 answerText: with regard to
+reviewed: yes
 ---
 【正解】4 with regard to（～について、～に関して）
 【和訳】

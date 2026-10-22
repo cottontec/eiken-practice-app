@@ -1,6 +1,7 @@
 ---
 choices: His airplane never flew again after its first flight across the sea. | The war finished long before his airplane was ready to be used. | A test flight showed that his airplane was able to fly despite its size. | He successfully flew his airplane from California to Washington, D.C.
 answerText: A test flight showed that his airplane was able to fly despite its size.
+reviewed: yes
 ---
 【正解】3 A test flight showed that his airplane was able to fly despite its size.（試験飛行によって、彼の飛行機があの大きさにもかかわらず飛べることが示されたから。）
 【和訳】

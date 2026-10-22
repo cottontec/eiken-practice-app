@@ -1,6 +1,7 @@
 ---
 choices: courage | fiction | scholarship | volume
 answerText: courage
+reviewed: yes
 ---
 【正解】1 courage（勇気）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: accurate | temporary | varied | official
 answerText: accurate
+reviewed: yes
 ---
 【正解】1 accurate（正確な）
 【和訳】

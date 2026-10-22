@@ -1,6 +1,7 @@
 ---
 choices: repair | repaired | repairing | to repair
 answerText: repaired
+reviewed: yes
 ---
 【正解】2 repaired（修理される）
 【和訳】

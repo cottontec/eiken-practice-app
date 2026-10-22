@@ -1,6 +1,7 @@
 ---
 choices: Kaiser left the project because the war had ended. | It was difficult to find workers because of the war. | Hughes spent a lot of time thinking about minor details. | The government did not provide the money it had promised.
 answerText: Hughes spent a lot of time thinking about minor details.
+reviewed: yes
 ---
 【正解】3 Hughes spent a lot of time thinking about minor details.（ヒューズが、ささいな細かい点を考えるのに多くの時間を使った。）
 【和訳】

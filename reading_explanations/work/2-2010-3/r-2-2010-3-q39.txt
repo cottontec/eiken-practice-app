@@ -1,6 +1,7 @@
 ---
 choices: Show which genes are shared by genetically related animals. | Provide a list of cats that have been at crime scenes around the world. | Store information about experts on genetic fingerprinting. | Identify which types of DNA are unique to humans.
 answerText: Show which genes are shared by genetically related animals.
+reviewed: yes
 ---
 【正解】1 Show which genes are shared by genetically related animals.（遺伝的に近い関係にある動物どうしで、どの遺伝子が共通しているかを示す。）
 【和訳】
