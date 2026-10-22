@@ -1,6 +1,7 @@
 ---
 choices: Find a picture of Manutius that was lost many years ago. | Meet his former students to find out what they have been doing. | Create a place where more people can learn about bookmaking. | Write a book about the life and achievements of Manutius.
 answerText: Create a place where more people can learn about bookmaking.
+reviewed: yes
 ---
 【正解】3 Create a place where more people can learn about bookmaking.（もっと多くの人が本作りについて学べる場所を作る。）
 【和訳】

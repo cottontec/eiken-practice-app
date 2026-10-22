@@ -1,6 +1,7 @@
 ---
 choices: people who have been members for over one year. | people who register for membership by e-mail. | people who agree to purchase new services. | people who are introduced by other members.
 answerText: people who are introduced by other members.
+reviewed: yes
 ---
 【正解】4 people who are introduced by other members.（ほかの会員から紹介された人々。）
 【和訳】

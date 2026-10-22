@@ -1,6 +1,7 @@
 ---
 choices: used a robot to look for oil | found an ancient stone tool | built a small museum | noticed some recent changes
 answerText: found an ancient stone tool
+reviewed: yes
 ---
 【正解】2 found an ancient stone tool（古代の石の道具を見つけた）
 【和訳】

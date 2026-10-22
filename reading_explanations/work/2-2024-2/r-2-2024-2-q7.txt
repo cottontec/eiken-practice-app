@@ -1,6 +1,7 @@
 ---
 choices: dawn | faith | immigrant | minister
 answerText: minister
+reviewed: yes
 ---
 【正解】4 minister（大臣）
 【和訳】

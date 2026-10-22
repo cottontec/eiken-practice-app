@@ -1,6 +1,7 @@
 ---
 choices: jails | decades | principles | societies
 answerText: decades
+reviewed: yes
 ---
 【正解】2 decades（10年間〔の複数形〕）
 【和訳】

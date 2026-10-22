@@ -1,6 +1,7 @@
 ---
 choices: the | on | at | a
 answerText: the
+reviewed: yes
 ---
 【正解】1 the（〔the moment ～ の形で〕～した瞬間に、～するとすぐに）
 【和訳】

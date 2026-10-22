@@ -1,6 +1,7 @@
 ---
 choices: They could get part-time jobs in the bookmaking industry. | They could sell their work at higher prices in the city. | The city's location provided inspiration for their work. | The city allowed people to live more freely than other places.
 answerText: The city allowed people to live more freely than other places.
+reviewed: yes
 ---
 【正解】4 The city allowed people to live more freely than other places.（その都市は、ほかの場所よりも人々が自由に暮らすことを認めていた。）
 【和訳】

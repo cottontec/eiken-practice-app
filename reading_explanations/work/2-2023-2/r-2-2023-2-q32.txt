@@ -1,6 +1,7 @@
 ---
 choices: It was not suitable for use with modern farming technology. | Scientists created types of wheat that gave greater numbers of seeds. | People wanted to buy flour that tasted better and was healthier. | Chemicals that kill insects destroyed many purple straw wheat plants.
 answerText: Scientists created types of wheat that gave greater numbers of seeds.
+reviewed: yes
 ---
 【正解】2 Scientists created types of wheat that gave greater numbers of seeds.（科学者たちが、〔それまでの種類より〕多くの種子を実らせる種類の小麦を作り出した。）
 【和訳】
@@ -17,7 +18,7 @@ answerText: Scientists created types of wheat that gave greater numbers of seeds
 In the 1960s, scientists developed new types of wheat by mixing the genes of existing ones.（1960年代に、科学者たちは、すでにある種類の小麦の遺伝子を混ぜ合わせることで、新しい種類の小麦を開発した）
 These new types produced more seeds per plant and were better able to resist diseases.（これらの新しい種類は、1株あたりにより多くの種子を実らせ、また病気にもより強かった）
 this type of wheat almost completely went out of use（この種類の小麦はほとんど完全に使われなくなった）
-段落の最後のこの部分の this type of wheat は、パープルストロー小麦を指しています。go out of use は「使われなくなる」という意味です。新しい種類の小麦が開発され、より多くの種子がとれるようになったことが、パープルストロー小麦が使われなくなった原因だと分かります。
+段落の最後のこの部分の this type of wheat は、パープルストロー小麦を指しています。go out of use は「使われなくなる」という意味です。新しい種類の小麦が開発され、より多くの種子がとれるようになったことが、パープルストロー小麦が使われなくなった原因だと読み取れます。
 本文と選択肢を対にすると、次のようになります。
 本文 scientists developed new types of wheat（科学者たちが新しい種類の小麦を開発した）＝ 選択肢 Scientists created types of wheat（科学者たちが～な種類の小麦を作り出した）
 本文 produced more seeds per plant（1株あたりにより多くの種子を実らせた）＝ 選択肢 gave greater numbers of seeds（より多くの数の種子を実らせた）

@@ -1,6 +1,7 @@
 ---
 choices: The country where they live does not make much effort to protect them. | They are not as friendly as animals such as monkeys or chimpanzees. | They avoid contact with humans as much as possible to protect their babies. | The location where they live is only in a certain area of Africa.
 answerText: The location where they live is only in a certain area of Africa.
+reviewed: yes
 ---
 【正解】4 The location where they live is only in a certain area of Africa.（ボノボがすんでいる場所は、アフリカのある地域だけだから。）
 【和訳】

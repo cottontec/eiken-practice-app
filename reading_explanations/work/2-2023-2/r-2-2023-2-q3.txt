@@ -1,6 +1,7 @@
 ---
 choices: regulate | reproduce | irritate | impress
 answerText: regulate
+reviewed: yes
 ---
 【正解】1 regulate（〔規則によって〕規制する、取りしまる）
 【和訳】

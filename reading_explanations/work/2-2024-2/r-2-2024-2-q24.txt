@@ -1,6 +1,7 @@
 ---
 choices: To congratulate her on her first year as a member of the fitness center. | To tell her about changes to the price of one-year memberships. | To ask her to think about renewing her membership for another year. | To inform her about the opening of a fitness center in the West Valley area.
 answerText: To congratulate her on her first year as a member of the fitness center.
+reviewed: yes
 ---
 【正解】1 To congratulate her on her first year as a member of the fitness center.（フィットネスセンターの会員として1年を迎えたことを祝うため。）
 【和訳】

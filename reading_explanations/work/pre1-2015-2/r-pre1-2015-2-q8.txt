@@ -1,0 +1,31 @@
+---
+choices: triumph | apprehension | arrogance | indication
+answerText: apprehension
+---
+【正解】2 apprehension（不安、心配）
+【和訳】
+（英文）
+As sales declined, there was a mood of ［apprehension］ at the headquarters. Employees began to wonder whether the company would survive.
+（訳）
+売り上げが落ちるにつれて、本社には（不安）な空気があった。社員たちは、会社が生き残れるのだろうかと考え始めた。
+（選択肢の意味）
+1 triumph：勝利、大成功の喜び
+2 apprehension：不安、心配（これから悪いことが起きるのではという気持ち）
+3 arrogance：傲慢（ごうまん：えらそうにして人を見下すこと）
+4 indication：しるし、兆し
+【考え方】
+まず見るところ：文の初めの As sales declined と、2文目の wonder whether the company would survive
+文の初めを見ます。
+As sales declined（売り上げが落ちるにつれて）
+ここでの as は「～につれて」という意味です。売り上げが落ちるのは、会社にとってよくない状況です。
+次に、2文目を見ます。
+Employees began to wonder whether the company would survive.（社員たちは、会社が生き残れるのだろうかと考え始めた）
+wonder whether ～ は「～かどうかと思う」です。会社がつぶれるかもしれないと心配しているのですから、本社の雰囲気は「不安」だったと考えられます。apprehension は「不安、心配」なので、2が正解です。
+この問題の型：語の意味・組み合わせ（a mood of ～：～な雰囲気）
+【ほかの選択肢】
+1 triumph は「勝利、大成功の喜び」です。売り上げが落ちているのに「勝利の雰囲気」では、状況と反対になります。
+3 arrogance は「傲慢」です。会社が生き残れるかを心配している社員たちの様子と合いません。
+4 indication は「しるし、兆し」です。a mood of indication（しるしの雰囲気）では、何のしるしなのかも分からず、意味が通りません。
+【覚えるポイント】
+・a mood of apprehension：「不安な雰囲気」。
+・a mood of ～ のように気持ちや雰囲気を表す語を選ぶ問題では、前後の文から「よい気持ちか、悪い気持ちか」をまず決めると、選択肢をしぼりこむ手がかりになります。

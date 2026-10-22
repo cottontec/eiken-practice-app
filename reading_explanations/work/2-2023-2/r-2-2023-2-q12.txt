@@ -1,6 +1,7 @@
 ---
 choices: goes for | brings up | takes out | comes to
 answerText: comes to
+reviewed: yes
 ---
 【正解】4 comes to（〔ある状態〕に至る。come to an end で「終わる」）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: parted with | taken in | aimed at | kept from
 answerText: kept from
+reviewed: yes
 ---
 【正解】4 kept from（〔be kept from -ing で〕～するのを妨げられた）
 【和訳】

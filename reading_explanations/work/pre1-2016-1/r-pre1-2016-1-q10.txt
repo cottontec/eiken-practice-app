@@ -1,0 +1,33 @@
+---
+choices: preference | quote | discourse | circuit
+answerText: quote
+---
+【正解】2 quote（見積もり、見積額）
+【和訳】
+（英文）
+A: Can you give me a ［quote］ for renting a compact car from May 1 to May 3?
+B: Yes, ma'am. Our compact cars are $40 per day, so it would be $120.
+（訳）
+A：5月1日から5月3日まで小型車を借りる場合の（見積もり）を出してもらえますか。
+B：はい、お客様。当店の小型車は1日40ドルですので、120ドルになります。
+（選択肢の意味）
+1 preference：好み
+2 quote：見積もり、見積額；引用
+3 discourse：講演、話；談話
+4 circuit：回路；一周
+【考え方】
+まず見るところ：Bの答えの it would be $120
+Aは、車を借りる場面で、次のようにたずねています。
+Can you give me a (　) for renting a compact car from May 1 to May 3?（5月1日から5月3日まで小型車を借りる場合の（　）を出してもらえますか）
+compact car は「小型車」です。
+Bの答えを見ます。
+Our compact cars are $40 per day, so it would be $120.（当店の小型車は1日40ドルですので、120ドルになります）
+Bは、3日分の料金がいくらになるかを計算して伝えています。ですから、Aはかかる料金を前もって知らせてほしいと頼んだと分かります。quote は「（値段の）見積もり」という意味で、give A a quote で「Aに見積もりを出す」となります。ですから2が正解です。
+この問題の型：語の意味・組み合わせ（Bの答え＝料金 → 見積もり）
+【ほかの選択肢】
+1 preference は「好み」です。「車を借りる場合の好みを出してもらえますか」では、Bが料金を答えていることと合いません。
+3 discourse は「講演、話」です。「車を借りる場合の講演をしてもらえますか」となり、意味が通りません。
+4 circuit は「回路、一周」です。料金をたずねる言い方にはならず、Bの答えとつながりません。
+【覚えるポイント】
+・give A a quote for ～：「～についてAに見積もりを出す」。quote には「引用」のほかに「見積もり」の意味もあります。
+・会話の空所は、相手の答え（ここでは $120 という料金）から、何をたずねたのかを逆にたどると決めやすくなります。

@@ -1,6 +1,7 @@
 ---
 choices: partially | temporarily | regionally | cautiously
 answerText: cautiously
+reviewed: yes
 ---
 【正解】4 cautiously（用心深く、慎重に）
 【和訳】

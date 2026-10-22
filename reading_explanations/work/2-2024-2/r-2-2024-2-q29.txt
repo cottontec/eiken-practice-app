@@ -1,6 +1,7 @@
 ---
 choices: bonobos copied what people did instead of copying other bonobos. | bonobos could feel others' feelings even more than humans. | most bonobos did not yawn when they were feeling tired. | yawning was more common for younger bonobos than for older ones.
 answerText: bonobos could feel others' feelings even more than humans.
+reviewed: yes
 ---
 【正解】2 bonobos could feel others' feelings even more than humans.（ボノボは、人間よりもさらに他者の気持ちを感じ取ることができる。）
 【和訳】

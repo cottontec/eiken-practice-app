@@ -1,6 +1,7 @@
 ---
 choices: organize their groups in the same way that bonobo groups organize themselves. | tend to be less friendly because there is a strong leader among them. | form a larger group than bonobos to maintain strong connections between individuals. | move from one place to another to find a better living environment.
 answerText: tend to be less friendly because there is a strong leader among them.
+reviewed: yes
 ---
 【正解】2 tend to be less friendly because there is a strong leader among them.（チンパンジーは、仲間の中に強いリーダーがいるため、（ボノボより）友好的でない傾向がある。）
 【和訳】

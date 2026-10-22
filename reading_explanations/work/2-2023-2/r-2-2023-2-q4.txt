@@ -1,6 +1,7 @@
 ---
 choices: symptom | rejection | biography | contribution
 answerText: rejection
+reviewed: yes
 ---
 【正解】2 rejection（不採用〔の通知〕、断ること）
 【和訳】

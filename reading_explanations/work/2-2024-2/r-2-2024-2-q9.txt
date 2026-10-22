@@ -1,6 +1,7 @@
 ---
 choices: emperor | opinion | element | operation
 answerText: emperor
+reviewed: yes
 ---
 【正解】1 emperor（皇帝）
 【和訳】

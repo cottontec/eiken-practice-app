@@ -1,6 +1,7 @@
 ---
 choices: neutral | exact | previous | appropriate
 answerText: previous
+reviewed: yes
 ---
 【正解】3 previous（前の、以前の）
 【和訳】

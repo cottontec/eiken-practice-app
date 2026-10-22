@@ -1,6 +1,7 @@
 ---
 choices: keep an eye | have an effect | step up | drop in
 answerText: drop in
+reviewed: yes
 ---
 【正解】4 drop in（〔drop in on ～ で〕～のところにふらりと立ち寄る）
 【和訳】

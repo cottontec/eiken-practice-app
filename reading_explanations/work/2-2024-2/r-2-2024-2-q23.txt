@@ -1,6 +1,7 @@
 ---
 choices: satellites that are no longer used | people who want to go to space | stars that are newly discovered | companies that repair satellites
 answerText: satellites that are no longer used
+reviewed: yes
 ---
 【正解】1 satellites that are no longer used（もう使われていない人工衛星）
 【和訳】

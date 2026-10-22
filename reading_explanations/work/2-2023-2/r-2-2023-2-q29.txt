@@ -1,6 +1,7 @@
 ---
 choices: To have a meeting to review the duties of staff members. | To tell her how to make the library more attractive to families. | She is too busy to be able to go and speak to them. | She wants to get to know each staff member much better.
 answerText: To tell her how to make the library more attractive to families.
+reviewed: yes
 ---
 【正解】2 To tell her how to make the library more attractive to families.（図書館を家族にとってもっと魅力的にする方法を彼女に伝えるため。）
 【和訳】

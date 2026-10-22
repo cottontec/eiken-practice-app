@@ -1,6 +1,7 @@
 ---
 choices: could only get a small amount of purple straw wheat seeds. | tested it in several different locations in the United States. | offered flour made from the wheat to chefs, bakers, and whiskey makers. | were surprised at how quickly they were able to produce enough to sell.
 answerText: could only get a small amount of purple straw wheat seeds.
+reviewed: yes
 ---
 【正解】1 could only get a small amount of purple straw wheat seeds.（パープルストロー小麦の種子を少しの量しか手に入れることができなかった。）
 【和訳】

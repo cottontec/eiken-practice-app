@@ -1,6 +1,7 @@
 ---
 choices: primary | registered | visible | distant
 answerText: distant
+reviewed: yes
 ---
 【正解】4 distant（遠くの、遠く離れた）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: brought down | brought out | turned in | turned on
 answerText: turned in
+reviewed: yes
 ---
 【正解】3 turned in（提出した）
 【和訳】

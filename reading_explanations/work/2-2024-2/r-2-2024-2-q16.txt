@@ -1,6 +1,7 @@
 ---
 choices: in common | on duty | at random | by chance
 answerText: on duty
+reviewed: yes
 ---
 【正解】2 on duty（勤務中で）
 【和訳】

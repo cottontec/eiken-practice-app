@@ -1,6 +1,7 @@
 ---
 choices: The rich and powerful | People who worked long hours | People with a variety of backgrounds | Business owners and politicians
 answerText: People with a variety of backgrounds
+reviewed: yes
 ---
 【正解】3 People with a variety of backgrounds（さまざまな背景を持つ人々）
 【和訳】

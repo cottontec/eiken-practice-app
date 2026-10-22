@@ -1,6 +1,7 @@
 ---
 choices: miracle | criticism | convention | monument
 answerText: convention
+reviewed: yes
 ---
 【正解】3 convention（大会、大きな集まり）
 【和訳】

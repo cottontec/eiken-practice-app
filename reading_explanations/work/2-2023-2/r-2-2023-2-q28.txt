@@ -1,6 +1,7 @@
 ---
 choices: Let her know if they are friends with any writers. | Help her to move items to make space for an event. | Write a story about a group of young children. | Create notices that tell people about an activity.
 answerText: Create notices that tell people about an activity.
+reviewed: yes
 ---
 【正解】4 Create notices that tell people about an activity.（ある活動について人々に知らせる掲示物を作る。）
 【和訳】

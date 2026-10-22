@@ -1,0 +1,29 @@
+---
+choices: perilous | preparatory | supreme | intimate
+answerText: perilous
+---
+【正解】1 perilous（危険な、危険に満ちた）
+【和訳】
+（英文）
+Climbing Mount Rainier is especially ［perilous］ in the early spring. Melting snow can cause snowslides, icefalls, and other dangerous conditions.
+（訳）
+レーニア山に登るのは、春の初めには特に（危険）だ。とけていく雪が、雪崩や氷の崩れ落ちるできごと、そのほかの危険な状態を引き起こすことがある。
+（選択肢の意味）
+1 perilous：危険な、危険に満ちた
+2 preparatory：準備の、予備の
+3 supreme：最高の、この上ない
+4 intimate：親密な、親しい
+【考え方】
+まず見るところ：2文目の最後の other dangerous conditions
+空所には、春の初めにレーニア山に登ることがどうなのかを表す語が入ります。2文目を見ます。
+Melting snow can cause snowslides, icefalls, and other dangerous conditions.（とけていく雪が、雪崩や氷の崩れ落ちるできごと、そのほかの危険な状態を引き起こすことがある）
+snowslide は「雪崩（なだれ）」、icefall は「氷が崩れ落ちること」です。そのあとに other dangerous conditions（そのほかの危険な状態）とあるので、春の初めの山には危険が多いと分かります。
+perilous は「危険な」という意味なので、「春の初めは登山が特に危険だ」となり、2文目が理由の説明としてつながります。ですから1が正解です。
+この問題の型：言いかえ（perilous ＝ dangerous）
+【ほかの選択肢】
+2 preparatory は「準備の、予備の」です。「春の初めの登山は特に準備のものだ」となり、意味が通りません。
+3 supreme は「最高の、この上ない」です。「春の初めの登山は特に最高だ」と、よいことのように言うと、2文目の危険な状態の話と合いません。
+4 intimate は「親密な、親しい」で、人と人との関係などに使う語です。登山について「特に親しい」と言っても意味が通りません。
+【覚えるポイント】
+・perilous：「危険な」。peril（危険）の形容詞（名詞を説明する語）です。
+・空所のあとの文に dangerous のような分かりやすい語があるときは、空所の語がそれを言いかえていることがあり、答えを決める手がかりになります。

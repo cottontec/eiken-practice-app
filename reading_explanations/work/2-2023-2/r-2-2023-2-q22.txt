@@ -1,6 +1,7 @@
 ---
 choices: made objects on | rarely visited | had heard stories about | could walk to it from
 answerText: could walk to it from
+reviewed: yes
 ---
 【正解】4 could walk to it from（～からそこへ歩いて行くことができた）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: wrote up | took over | kept off | fell through
 answerText: took over
+reviewed: yes
 ---
 【正解】2 took over（引き継いだ）
 【和訳】

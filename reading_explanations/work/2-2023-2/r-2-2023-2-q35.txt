@@ -1,6 +1,7 @@
 ---
 choices: uses traditional methods to make his products. | owns about 20 bookstores in the city of Venice. | has developed a new technique for printing on glass. | tries to use recycled materials to produce books.
 answerText: uses traditional methods to make his products.
+reviewed: yes
 ---
 【正解】1 uses traditional methods to make his products.（伝統的な方法を使って製品を作っている。）
 【和訳】

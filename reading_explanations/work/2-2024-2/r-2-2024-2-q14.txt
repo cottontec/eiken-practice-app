@@ -1,6 +1,7 @@
 ---
 choices: kill time | make sense | take part | pay attention
 answerText: kill time
+reviewed: yes
 ---
 【正解】1 kill time（時間をつぶす）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: sign up for one of the center's personal training sessions. | arrange to be in a feature in an online magazine. | learn about participating in a health seminar. | suggest new content for the center's website.
 answerText: arrange to be in a feature in an online magazine.
+reviewed: yes
 ---
 【正解】2 arrange to be in a feature in an online magazine.（オンラインマガジンの特集に載るよう手配する。）
 【和訳】

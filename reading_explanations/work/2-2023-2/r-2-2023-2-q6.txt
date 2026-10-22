@@ -1,6 +1,7 @@
 ---
 choices: removed | extended | compared | proved
 answerText: extended
+reviewed: yes
 ---
 【正解】2 extended（〔招待などを〕出した、〔範囲を〕広げた）
 【和訳】

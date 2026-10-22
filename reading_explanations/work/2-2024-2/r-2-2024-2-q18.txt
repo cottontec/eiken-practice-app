@@ -1,6 +1,7 @@
 ---
 choices: In other words | Instead | On the other hand | Unfortunately
 answerText: In other words
+reviewed: yes
 ---
 【正解】1 In other words（言いかえれば、つまり）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: to not ought | not ought to | ought not to | to ought not
 answerText: ought not to
+reviewed: yes
 ---
 【正解】3 ought not to（～すべきではない）
 【和訳】

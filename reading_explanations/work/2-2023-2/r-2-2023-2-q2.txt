@@ -1,13 +1,14 @@
 ---
 choices: structure | baggage | disadvantage | lecture
 answerText: disadvantage
+reviewed: yes
 ---
 【正解】3 disadvantage（不利な点、欠点）
 【和訳】
 （英文）
 Having a part-time job is good for Kaoru because she needs extra money to spend, but one ［disadvantage］ is that she cannot go out with her friends on weekends.
 （訳）
-カオルは使えるお金がもっと必要なので、アルバイトをすることは彼女にとってよいことです。しかし、1つの（不利な点）は、週末に友だちと遊びに出かけられないことです。
+カオルは自分で使うための余分なお金が必要なので、アルバイトをすることは彼女にとってよいことです。しかし、1つの（不利な点）は、週末に友だちと遊びに出かけられないことです。
 （選択肢の意味）
 1 structure：構造、仕組み
 2 baggage：（旅行の）手荷物

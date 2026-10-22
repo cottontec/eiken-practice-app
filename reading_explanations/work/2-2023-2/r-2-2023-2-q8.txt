@@ -1,6 +1,7 @@
 ---
 choices: guards | carves | divorces | accelerates
 answerText: guards
+reviewed: yes
 ---
 【正解】1 guards（見張る、守る）
 【和訳】

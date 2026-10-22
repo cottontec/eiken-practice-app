@@ -1,6 +1,7 @@
 ---
 choices: In contrast | For example | In particular | At first
 answerText: At first
+reviewed: yes
 ---
 【正解】4 At first（最初は、初めのうちは）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: punish | defeat | filter | steady
 answerText: steady
+reviewed: yes
 ---
 【正解】4 steady（安定させる、〔体を〕しっかり支える）
 【和訳】

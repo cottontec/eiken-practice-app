@@ -1,6 +1,7 @@
 ---
 choices: struggled | yielded | decreased | regretted
 answerText: yielded
+reviewed: yes
 ---
 【正解】2 yielded（〔作物などを〕生み出した、産出した）
 【和訳】

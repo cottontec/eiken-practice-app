@@ -1,6 +1,7 @@
 ---
 choices: get off | get by | get through | get along
 answerText: get off
+reviewed: yes
 ---
 【正解】1 get off（〔乗り物を〕降りる）
 【和訳】

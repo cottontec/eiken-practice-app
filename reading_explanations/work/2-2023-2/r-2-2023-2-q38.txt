@@ -1,6 +1,7 @@
 ---
 choices: One of the most famous printing companies in Venice was established in 1494. | The number of stores in Venice making handmade books has increased since 1962. | Olbi holds an annual exhibition in Venice to display the work of his students. | Laws to stop international trade were introduced in Venice in the Middle Ages.
 answerText: One of the most famous printing companies in Venice was established in 1494.
+reviewed: yes
 ---
 【正解】1 One of the most famous printing companies in Venice was established in 1494.（ベネチアで最も有名な印刷会社の1つは、1494年に設立された。）
 【和訳】

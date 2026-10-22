@@ -1,6 +1,7 @@
 ---
 choices: close up | next up | far off | well off
 answerText: well off
+reviewed: yes
 ---
 【正解】4 well off（裕福な、暮らし向きがよい）
 【和訳】

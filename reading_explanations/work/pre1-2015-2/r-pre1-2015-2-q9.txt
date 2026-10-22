@@ -1,0 +1,32 @@
+---
+choices: intellectual | infrequent | illogical | inherent
+answerText: inherent
+---
+【正解】4 inherent（本来備わっている、つきものの）
+【和訳】
+（英文）
+A: I'd like you to put my money into high-return investments.
+B: OK, but be warned that greater risks are ［inherent］ in such investments. There's more danger they'll drop in value than investments offering lower returns.
+（訳）
+A：私のお金を、高い利益が見込める投資に回してほしいのですが。
+B：分かりました。ただ、そうした投資には、より大きな危険が（もともと備わっている）ことを承知しておいてください。低い利益しか見込めない投資よりも、価値が下がる危険が大きいのです。
+（選択肢の意味）
+1 intellectual：知的な、知性の
+2 infrequent：まれな、めったに起きない
+3 illogical：筋が通らない、非論理的な
+4 inherent：本来備わっている、（切り離せない性質として）つきものの
+【考え方】
+まず見るところ：Bの2文目の There's more danger they'll drop in value
+Aは、高い利益が見込める投資（high-return investments）にお金を回してほしいと頼んでいます。investment は「投資（利益を期待して、株などにお金を出すこと）」です。
+Bの2文目を見ます。
+There's more danger they'll drop in value than investments offering lower returns.（低い利益しか見込めない投資よりも、それらは価値が下がる危険が大きい）
+they は、Aが望む高い利益の投資を指します。比べる相手は、than のあとの「低い利益しか見込めない投資」です。
+つまりBは、「高い利益の投資には、もともと大きな危険がついてくる」と注意しています。be inherent in ～ で「～に本来備わっている」となるので、4が正解です。
+この問題の型：語の意味・組み合わせ（be inherent in ～）
+【ほかの選択肢】
+1 intellectual は「知的な」です。「より大きな危険が知的だ」では意味が通りません。
+2 infrequent は「まれな」です。「より大きな危険はめったに起きない」となると、すぐあとの「価値が下がる危険が大きい」という説明と反対になります。
+3 illogical は「筋が通らない」です。「より大きな危険が筋が通らない」では意味が通らず、Bの説明とも合いません。
+【覚えるポイント】
+・be inherent in ～：「～に本来備わっている、～につきものである」。
+・be warned that ～（～ということを承知しておいて）のような注意のことばのあとには、そのくわしい理由が続くことが多く、それが空所を決める手がかりになります。

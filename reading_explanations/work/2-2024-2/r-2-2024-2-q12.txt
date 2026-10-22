@@ -1,6 +1,7 @@
 ---
 choices: give up on | look out for | make do with | show up to
 answerText: make do with
+reviewed: yes
 ---
 【正解】3 make do with（～で間に合わせる、～で済ませる）
 【和訳】

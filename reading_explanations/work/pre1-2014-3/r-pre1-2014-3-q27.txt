@@ -1,0 +1,30 @@
+---
+choices: poor safety record | influence on many industries | commercial failure | popularity with the wealthy
+answerText: commercial failure
+---
+【正解】3 commercial failure（商業的な失敗）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 poor safety record（安全面の悪い実績）
+2 influence on many industries（多くの産業への影響）
+3 commercial failure（商業的な失敗）
+4 popularity with the wealthy（お金持ちの人々の間での人気）
+【考え方】
+まず見るところ：第2段落の空所の次の文 ～ led airlines to reject the design.
+空所の文は次のとおりです。
+In fact, these features proved to be one reason for the plane's ( 27 ).（実は、こうした特徴がこの飛行機の〇〇の理由の一つとなった）
+these features（こうした特徴）は、前の文の a spacious interior and onboard entertainment（広々とした機内や機内での娯楽）などのぜいたくな設備を指しています。
+次の文で、その理由がくわしく説明されています。
+It seemed air travelers in the postwar years valued affordability and speed over comfort,（戦後の数年間、飛行機で旅をする人々は、快適さよりも料金の手ごろさと速さを重視していたようだった）
+which put smaller, faster aircraft in high demand and led airlines to reject the design.（そのことが、より小型でより速い飛行機の需要を高め、航空会社がこの設計を受け入れないことにつながった）
+value A over B は「BよりもAを重視する」、reject は「受け入れない、断る」という意味です。旅行者は快適さより安さと速さを求めたので、ぜいたくで大きなブラバゾンは航空会社に選ばれませんでした。飛行機が売れなかったということなので、3の「商業的な失敗」が合います。commercial は「商業の、商売の」という意味です。よって3が正解です。
+この問題の型：因果（ぜいたくな特徴 → 旅行者に求められない → 航空会社が受け入れない）
+【ほかの選択肢】
+1 「安全面の悪い実績」は本文に書かれていません。本文で問題になっているのは、旅行者が求めるものと飛行機のぜいたくさが合わなかったことで、事故などの話はありません。
+2 「多くの産業への影響」は、ぜいたくな設備が航空会社に受け入れられなかったという次の文と合いません。第3段落にはブラバゾンが輸送機産業の未来に役立ったとありますが、それは施設や技術のおかげで、ぜいたくな設備のおかげではありません。
+4 「お金持ちの人々の間での人気」は本文にありません。次の文では、航空会社がこの設計を受け入れなかったとあり、人気が出たという話とは反対です。
+【覚えるポイント】
+・value A over B：「BよりもAを重視する」。commercial failure：「商業的な失敗（売れない、もうからないこと）」。
+・one reason for the ～ の空所では、そのあとの文に書かれた「結果」（ここでは airlines reject the design）をひと言でまとめると、答えを決める手がかりになります。

@@ -1,6 +1,7 @@
 ---
 choices: substance | drawing | landscape | criminal
 answerText: substance
+reviewed: yes
 ---
 【正解】1 substance（物質、〔何だか分からない〕もの）
 【和訳】

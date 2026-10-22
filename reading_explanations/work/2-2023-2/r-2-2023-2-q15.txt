@@ -1,6 +1,7 @@
 ---
 choices: typical of | inferior to | grateful for | patient with
 answerText: typical of
+reviewed: yes
 ---
 【正解】1 typical of（～らしい、～によくある）
 【和訳】

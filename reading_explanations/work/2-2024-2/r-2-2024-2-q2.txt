@@ -1,6 +1,7 @@
 ---
 choices: spoiled | implied | polished | classified
 answerText: polished
+reviewed: yes
 ---
 【正解】3 polished（磨いた）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: eventually | slightly | socially | respectably
 answerText: eventually
+reviewed: yes
 ---
 【正解】1 eventually（いずれは、最後には）
 【和訳】

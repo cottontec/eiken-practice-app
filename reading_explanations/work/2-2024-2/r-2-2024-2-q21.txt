@@ -1,6 +1,7 @@
 ---
 choices: early in the morning or late at night | while they are near oceans | without being blocked by tall buildings | with expensive systems inside
 answerText: without being blocked by tall buildings
+reviewed: yes
 ---
 【正解】3 without being blocked by tall buildings（高い建物にさえぎられることなく）
 【和訳】

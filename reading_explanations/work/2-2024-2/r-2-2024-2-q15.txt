@@ -1,6 +1,7 @@
 ---
 choices: jump into | pull through | long for | fall behind
 answerText: long for
+reviewed: yes
 ---
 【正解】3 long for（～を待ち望む、～を心から欲しがる）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: to win | win | will win | won
 answerText: to win
+reviewed: yes
 ---
 【正解】1 to win（〔be sure to win で〕きっと勝つ）
 【和訳】

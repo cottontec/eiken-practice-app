@@ -65,7 +65,8 @@
   "2-2023-2": {
     "stats": {
       "target": 38,
-      "written": 38
+      "written": 38,
+      "reviewed": 38
     },
     "errors": [],
     "warnings": []
@@ -90,7 +91,8 @@
   "2-2024-2": {
     "stats": {
       "target": 31,
-      "written": 31
+      "written": 31,
+      "reviewed": 31
     },
     "errors": [],
     "warnings": []
@@ -98,7 +100,8 @@
   "2-2024-3": {
     "stats": {
       "target": 31,
-      "written": 31
+      "written": 31,
+      "reviewed": 31
     },
     "errors": [],
     "warnings": []

@@ -1,6 +1,7 @@
 ---
 choices: Bonobos almost never yawn when they are with bonobos from other families. | All experiments involving bonobos were conducted by the Democratic Republic of the Congo. | Bonobos live peacefully in groups that have no strong leaders. | Chimpanzees help others even when such actions will not benefit themselves.
 answerText: Bonobos live peacefully in groups that have no strong leaders.
+reviewed: yes
 ---
 【正解】3 Bonobos live peacefully in groups that have no strong leaders.（ボノボは、強いリーダーのいない集団で平和に暮らしている。）
 【和訳】

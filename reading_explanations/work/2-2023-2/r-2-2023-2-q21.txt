@@ -1,6 +1,7 @@
 ---
 choices: What is more | Likewise | Therefore | Equally
 answerText: Therefore
+reviewed: yes
 ---
 【正解】3 Therefore（したがって、そのため）
 【和訳】

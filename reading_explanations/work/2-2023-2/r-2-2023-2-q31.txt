@@ -1,6 +1,7 @@
 ---
 choices: It could be grown during the coldest part of the year. | It could be used to make new kinds of foods and drinks. | It could survive the hot summers in the southern United States. | It could grow in fields that had low-quality soil.
 answerText: It could be grown during the coldest part of the year.
+reviewed: yes
 ---
 【正解】1 It could be grown during the coldest part of the year.（1年のうち最も寒い時期に育てることができた。）
 【和訳】

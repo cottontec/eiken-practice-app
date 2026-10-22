@@ -1,0 +1,31 @@
+---
+choices: accused | deceived | aroused | dismissed
+answerText: aroused
+---
+【正解】3 aroused（〔感情などを〕呼び起こした）
+【和訳】
+（英文）
+When Pedro saw a woman leave her bag on the floor of the terminal and walk away, it ［aroused］ his suspicion, so he reported it to airport security.
+（訳）
+ペドロが、ある女性がターミナルの床にかばんを置いたまま歩き去るのを見たとき、そのことが彼の疑いを（呼び起こした）ので、彼はそれを空港の警備係に知らせた。
+（選択肢の意味）
+1 accused：（人を）責めた、訴えた
+2 deceived：だました
+3 aroused：（感情などを）呼び起こした、かき立てた
+4 dismissed：（考えなどを）退けた；解雇した
+【考え方】
+まず見るところ：空所の直後の his suspicion と、そのあとの so he reported it to airport security
+空所のある部分を見ます。
+it (　) his suspicion（そのことが彼の疑いを（　））
+it は、女性がかばんを置いて立ち去ったことを指します。suspicion は「疑い、あやしいと思う気持ち」です。
+次に、そのあとを見ます。
+so he reported it to airport security（だから彼はそのことを空港の警備係に知らせた）
+警備係に知らせたのですから、ペドロはその女性の行動を「あやしい」と思ったはずです。arouse suspicion で「疑いを呼び起こす（あやしいと思わせる）」となるので、3が正解です。
+この問題の型：因果（疑いが起きた→so→警備係に知らせた）
+【ほかの選択肢】
+1 accused は「（人を）責めた、訴えた」で、ふつうは人を目的語（動詞の「何を」に当たる語）にします。「そのことが彼の疑いを責めた」では意味が通りません。
+2 deceived は「だました」です。「そのことが彼の疑いをだました」では意味が通りません。
+4 dismissed は「（考えなどを）退けた」です。「そのことが彼の疑いを退けた（打ち消した）」となると、あやしくないと思ったことになり、so（だから）のあとの「警備係に知らせた」とつながりません。
+【覚えるポイント】
+・arouse suspicion：「疑いを呼び起こす、あやしいと思わせる」。
+・空所のあとに so（だから）があるときは、空所の文がそのあとの行動の理由になるかどうかを確かめると、答えを選ぶ手がかりになります。

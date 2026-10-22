@@ -1,6 +1,7 @@
 ---
 choices: so far | by then | on average | in total
 answerText: on average
+reviewed: yes
 ---
 【正解】3 on average（平均して）
 【和訳】

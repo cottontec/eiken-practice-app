@@ -1,6 +1,7 @@
 ---
 choices: arrested | cured | polluted | established
 answerText: polluted
+reviewed: yes
 ---
 【正解】3 polluted（汚染した、汚した）
 【和訳】

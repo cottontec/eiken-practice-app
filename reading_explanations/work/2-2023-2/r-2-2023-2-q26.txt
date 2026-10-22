@@ -1,6 +1,7 @@
 ---
 choices: have extra chances | must pay money | can watch a video replay | return their medals
 answerText: have extra chances
+reviewed: yes
 ---
 【正解】1 have extra chances（追加のチャンスがある）
 【和訳】
