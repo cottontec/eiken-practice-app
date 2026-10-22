@@ -1,0 +1,33 @@
+---
+choices: Laws designed to protect the environment from carbon emissions are being broken. | Changes in cloud patterns caused by emissions have been less significant than other man-made changes in the atmosphere. | Fuel burned by ships affects cloud formation less than the aerosol particles that naturally exist over the open ocean do. | The large numbers of particles released into the atmosphere by ships in the open ocean are consistently affecting the weather.
+answerText: The large numbers of particles released into the atmosphere by ships in the open ocean are consistently affecting the weather.
+---
+【正解】4 The large numbers of particles released into the atmosphere by ships in the open ocean are consistently affecting the weather.（外洋で船によって大気中に放出された大量の粒子が、絶えず天気に影響を与えている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one conclusion that can be made based on Katrina Virts's study?（カトリーナ・バーツの研究にもとづいて出すことのできる結論の1つは何ですか。）
+1 Laws designed to protect the environment from carbon emissions are being broken.（炭素の排出から環境を守るためにつくられた法律が破られている。）
+2 Changes in cloud patterns caused by emissions have been less significant than other man-made changes in the atmosphere.（排出物によって起きた雲のでき方の変化は、大気中のほかの人為的な〔人間が引き起こした〕変化ほど重大ではなかった。）
+3 Fuel burned by ships affects cloud formation less than the aerosol particles that naturally exist over the open ocean do.（船が燃やす燃料が雲のでき方に与える影響は、外洋の上に自然に存在するエアロゾルの粒子が与える影響より小さい。）
+4 The large numbers of particles released into the atmosphere by ships in the open ocean are consistently affecting the weather.（外洋で船によって大気中に放出された大量の粒子が、絶えず天気に影響を与えている。）
+【考え方】
+まず見るところ：第3段落の most ships continuously burn a cheap, dirty type of fuel, which releases large amounts of these particles into the air と、最後の The researchers say ～
+第3段落では、船の排出物と雲の関係が説明されています。
+When out in the open ocean—and therefore not subject to nations' emissions regulations—most ships continuously burn a cheap, dirty type of fuel, which releases large amounts of these particles into the air.（外洋に出ているとき――そしてそのため各国の排出規制を受けないとき――ほとんどの船は安くて汚れた種類の燃料を燃やし続けており、その燃料がこうした粒子を大量に空気中に出している）
+This results in the formation of numerous storm clouds.（その結果、たくさんの嵐の雲ができる）
+そして段落の最後に、研究者たちの結論が書かれています。
+The researchers say their findings are evidence that man-made causes are increasing the frequency of lightning and the intensity of storms on an ongoing basis.（研究者たちは、自分たちの発見は、人間が生み出した原因によって、雷の頻度と嵐の強さが継続的に増していることの証拠だと述べている）
+on an ongoing basis は「継続的に、絶えず」です。本文と選択肢を対にすると、次のようになります。
+本文 releases large amounts of these particles into the air（こうした粒子を大量に空気中に出している）＝ 選択肢 The large numbers of particles released into the atmosphere by ships（船によって大気中に放出された大量の粒子）
+本文 increasing the frequency of lightning and the intensity of storms on an ongoing basis（雷の頻度と嵐の強さを継続的に増している）→ 選択肢 are consistently affecting the weather（絶えず天気に影響を与えている）
+雷や嵐は天気の一部なので、4が正解です。
+この問題の型：言いかえ（on an ongoing basis → consistently）
+【ほかの選択肢】
+1 本文には、船は外洋では not subject to nations' emissions regulations（各国の排出規制を受けない）と書かれています。規制を受けない場所で燃料を燃やしているので、法律を破っているという話ではありません。本文にない内容です。
+2 本文では、排出物による雲の変化と、大気中のほかの人為的な変化とを比べていません。「ほかの変化ほど重大ではなかった」は本文にない内容です。
+3 本文では、外洋の上に自然に存在するエアロゾルと船の燃料の影響を比べていません。書かれているのは、船の多い航路の上空のエアロゾルが、船の少ない近くの海域の上空より多いということです。本文にない比較です。
+【覚えるポイント】
+・on an ongoing basis：「継続的に、絶えず」。選択肢では consistently（絶えず、一貫して）と言いかえられています。
+・設問が conclusion（結論）をたずねているときは、段落の最後の The researchers say ～ のような、研究者がまとめを述べる文が答えの手がかりになることが多いです。
