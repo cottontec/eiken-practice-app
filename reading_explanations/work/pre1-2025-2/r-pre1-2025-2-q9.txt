@@ -8,7 +8,7 @@ answerText: accommodate
 A: Majid, remind me how many people we can ［accommodate］ in Conference Room B.
 B: Fifteen, so it should be fine for today's meeting.
 （訳）
-A：マジッド、会議室Bに何人（入れる）か、もう一度教えて。
+A：マジッド、会議室Bに何人（収容）できるか、もう一度教えて。
 B：15人だよ。だから、今日の会議には大丈夫なはずだね。
 （選択肢の意味）
 1 outlaw：禁止する、違法とする

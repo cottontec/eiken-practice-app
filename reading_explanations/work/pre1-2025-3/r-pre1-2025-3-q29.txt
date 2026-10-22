@@ -1,0 +1,37 @@
+---
+choices: Because employers were focused on profit, it was unreasonable to expect them to support labor rights groups, especially those with socialist tendencies. | Legislative efforts would have been more successful had the state focused on preventing child labor rather than limiting working hours. | Because immigrant workers were willing to work longer hours than other workers, they were being blamed for the failure to get legislation passed. | The law that the state of Illinois had put in place to restrict working hours failed because companies were not being forced to adhere to it.
+answerText: The law that the state of Illinois had put in place to restrict working hours failed because companies were not being forced to adhere to it.
+---
+【正解】4 The law that the state of Illinois had put in place to restrict working hours failed because companies were not being forced to adhere to it.（イリノイ州が労働時間を制限するために定めた法律は、企業がそれを守るよう強制されていなかったので、うまくいかなかった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Which of the following statements best describes the opinion given by Professor William J. Adelman in the second paragraph?（第2段落でウィリアム・J・アデルマン教授が述べた意見を最もよく表しているのは、次のうちどれですか。）
+1 Because employers were focused on profit, it was unreasonable to expect them to support labor rights groups, especially those with socialist tendencies.（雇い主は利益に集中していたので、彼らが労働者の権利を求める団体、特に社会主義の傾向のある団体を支持すると期待するのは無理だった。）
+2 Legislative efforts would have been more successful had the state focused on preventing child labor rather than limiting working hours.（もし州が労働時間の制限よりも子どもの労働を防ぐことに力を入れていたら、法律を作る取り組みはもっとうまくいっていただろう。）
+3 Because immigrant workers were willing to work longer hours than other workers, they were being blamed for the failure to get legislation passed.（移民の労働者はほかの労働者より長い時間進んで働いたので、法律が成立しなかったことの責任を負わされていた。）
+4 The law that the state of Illinois had put in place to restrict working hours failed because companies were not being forced to adhere to it.（イリノイ州が労働時間を制限するために定めた法律は、企業がそれを守るよう強制されていなかったので、うまくいかなかった。）
+【考え方】
+まず見るところ：第2段落の according to Professor William J. Adelman, one obstacle to its success was a lack of strict enforcement
+第2段落の後半では、1日8時間労働を求める運動と、それに関する法律の話が書かれています。
+The state of Illinois had introduced legislation in the 1860s that was intended to do that.（イリノイ州は1860年代に、そのことを目的とした法律を導入していた）
+legislation は「法律」です。do that（そのことをする）は、前の文の limit working hours to eight a day（労働時間を1日8時間に制限する）を指しています。
+次の文が、アデルマン教授の意見です。
+However, according to Professor William J. Adelman, one obstacle to its success was a lack of strict enforcement.（しかし、ウィリアム・J・アデルマン教授によれば、その法律がうまくいくのを妨げた障害の一つは、厳しく守らせる取り締まりがなかったことだった）
+obstacle は「障害（じゃまになるもの）」、enforcement は「（法律を）守らせること、取り締まり」です。
+さらに、その結果も書かれています。
+This gave employers room to force employees—often poor immigrants—to sign contracts agreeing to longer working days.（このことが、雇い主に、従業員（多くは貧しい移民だった）に、より長い1日の労働時間に同意する契約書へ署名させる余地を与えた）
+本文と選択肢を対にすると、次のようになります。
+本文 legislation ～ that was intended to do that（労働時間を制限することを目的とした法律）→ 選択肢 The law ～ to restrict working hours（労働時間を制限するための法律）
+本文 one obstacle to its success（その法律がうまくいくのを妨げた障害の一つ）→ 選択肢 failed because ～（～のためにうまくいかなかった）
+本文 a lack of strict enforcement（厳しく守らせる取り締まりがなかったこと）→ 選択肢 companies were not being forced to adhere to it（企業がそれを守るよう強制されていなかった）
+adhere to ～ は「～を守る、～に従う」です。ですから4が正解です。
+この問題の型：言いかえ（a lack of strict enforcement → not being forced to adhere to it）
+【ほかの選択肢】
+1 本文の profit-seeking employers（利益を追い求める雇い主）は、労働者の側の団体が what they saw as（そう見なした）ものとして書かれており、アデルマン教授の意見ではありません。雇い主が団体を支持すると期待するのは無理だった、という話も書かれていません。
+2 本文には、子どもの労働は worthy of attention（注目に値する）問題だったとありますが、子どもの労働の防止に力を入れていれば法律はもっとうまくいった、とアデルマン教授が述べたとは書かれていません。
+3 本文では、雇い主が従業員（多くは貧しい移民）に長い労働時間に同意する契約書へ force（無理やり～させる）署名させたと書かれています。移民が進んで長く働いたのではなく、また、移民が法律の失敗の責任を負わされたという話もありません。
+【覚えるポイント】
+・enforcement：「（法律を）守らせること、取り締まり」。a lack of strict enforcement で「厳しい取り締まりがないこと」。
+・「ある人物の意見」を問う設問では、according to ＋人名 のあとの文が意見の中身なので、その部分と、ほかの人の考え（ここでは what they saw as ～）を分けて読むことが手がかりになります。

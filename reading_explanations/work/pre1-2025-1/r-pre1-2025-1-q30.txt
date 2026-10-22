@@ -1,0 +1,34 @@
+---
+choices: demonstrates that revenge seems to be more common in societies where the justice system is not working well. | supports the idea that the desire to get revenge has an unexpected connection with how much wealth an individual possesses. | shows that societies with strict punishments for criminals are likely to have much lower rates of crime than those that do not. | helps to explain the changes that have come about as tribal societies gradually changed into more-modern ones.
+answerText: demonstrates that revenge seems to be more common in societies where the justice system is not working well.
+---
+【正解】1 demonstrates that revenge seems to be more common in societies where the justice system is not working well.（司法の仕組みがうまく機能していない社会では、復讐がより多く見られるらしいことを示す（例）。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：The author mentions low-income neighborhoods in the United States as an example that（筆者は、アメリカの低所得の地域を、～例として挙げている。）
+1 demonstrates that revenge seems to be more common in societies where the justice system is not working well.（司法の仕組みがうまく機能していない社会では、復讐がより多く見られるらしいことを示す（例）。）
+2 supports the idea that the desire to get revenge has an unexpected connection with how much wealth an individual possesses.（復讐したいという気持ちが、個人がどれだけ富（財産）を持っているかと意外なつながりがある、という考えを支える（例）。）
+3 shows that societies with strict punishments for criminals are likely to have much lower rates of crime than those that do not.（犯罪者に厳しい罰を与える社会は、そうでない社会よりも、犯罪の発生率がずっと低くなりやすいことを示す（例）。）
+4 helps to explain the changes that have come about as tribal societies gradually changed into more-modern ones.（部族社会がしだいにより近代的な社会へ変わっていくにつれて起きてきた変化を説明するのに役立つ（例）。）
+【考え方】
+まず見るところ：第3段落の Similarly, low-income neighborhoods in the United States often suffer from a lack of law enforcement, ～
+第3段落の初めで、研究者たちが発見したことが書かれています。
+Researchers have found that revenge tends to occur more frequently in societies where institutions for enforcing laws are less developed.（研究者たちは、法律を守らせるための制度があまり発達していない社会のほうが、復讐がより頻繁に起こる傾向があることを発見した）
+institution は「制度、しくみ」、enforce laws は「法律を守らせる」です。このあと、for example（たとえば）で部族の人々の例が挙げられます。
+続いて、アメリカの低所得の地域の例が出てきます。
+Similarly, low-income neighborhoods in the United States often suffer from a lack of law enforcement, and there is a greater tendency for their residents to retaliate when they are victims of crime.（同じように、アメリカの低所得の地域は、法の執行が不足していることが多く、そこの住民には、犯罪の被害者になったときにやり返す傾向がより強く見られる）
+Similarly（同じように）とあるので、この例も、段落の初めの発見を示すもう一つの例だと分かります。law enforcement は「法の執行（警察などが法律を守らせること）」、retaliate は「やり返す」です。
+本文と選択肢を対にすると、次のようになります。
+本文 institutions for enforcing laws are less developed / a lack of law enforcement（法律を守らせる制度があまり発達していない／法の執行の不足）≒ 選択肢 the justice system is not working well（司法の仕組みがうまく機能していない）
+本文 revenge tends to occur more frequently / a greater tendency to retaliate（復讐がより頻繁に起こる傾向／やり返す傾向がより強い）≒ 選択肢 revenge seems to be more common（復讐がより多く見られるらしい）
+ですから1が正解です。
+この問題の型：具体例とまとめ（Similarly で続く例 → 段落の初めの発見）／言いかえ（a lack of law enforcement ≒ the justice system is not working well）
+【ほかの選択肢】
+2 low-income（低所得の）という語から、お金とのつながりを考えたくなるかもしれません。しかし本文がこの例で示しているのは、法の執行が不足していることと復讐の関係で、個人の富と復讐したい気持ちのつながりについては書かれていません。
+3 犯罪者への罰の厳しさや、犯罪の発生率を比べた話は、本文に書かれていません。
+4 部族の人々は、都市部の人々と比べられているだけで、部族社会が近代的な社会へ変わっていく変化については、本文に書かれていません。
+【覚えるポイント】
+・law enforcement：「法の執行（警察などが法律を守らせること）」。retaliate は「やり返す、仕返しをする」です。
+・「筆者が～を例として挙げているのは何のためか」という設問では、その例の前にある Similarly（同じように）や for example（たとえば）をたどって、例がどの考えを支えているのかを段落の初めの文で確かめるのが手がかりになります。
