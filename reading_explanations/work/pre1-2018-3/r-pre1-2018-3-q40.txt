@@ -1,0 +1,31 @@
+---
+choices: has been misused by teachers, who have failed to use it to separate students into groups based on their study habits. | could be improved by expanding the definitions of individual learning styles to include a wider variety of learners. | has been adopted by instructors in spite of a lack of evidence that shows such styles actually exist. | gained popularity only after data showed that its application by teachers results in increased academic achievement by students.
+answerText: has been adopted by instructors in spite of a lack of evidence that shows such styles actually exist.
+---
+【正解】3 has been adopted by instructors in spite of a lack of evidence that shows such styles actually exist.（そのようなスタイルが実際にあることを示す証拠がないにもかかわらず、教える人たちに取り入れられてきた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to researchers, the learning-styles theory（研究者たちによると、学習スタイル理論は～。）
+1 has been misused by teachers, who have failed to use it to separate students into groups based on their study habits.（教師たちによってまちがった使われ方をしてきた。教師たちは、勉強の習慣にもとづいて生徒をグループに分けるためにそれを使うことができていない。）
+2 could be improved by expanding the definitions of individual learning styles to include a wider variety of learners.（一つ一つの学習スタイルの定義を広げて、より多くの種類の学習者をふくめるようにすれば、よりよくなるかもしれない。）
+3 has been adopted by instructors in spite of a lack of evidence that shows such styles actually exist.（そのようなスタイルが実際にあることを示す証拠がないにもかかわらず、教える人たちに取り入れられてきた。）
+4 gained popularity only after data showed that its application by teachers results in increased academic achievement by students.（教師がそれを使うと生徒の学力が上がることをデータが示してから、初めて人気が出た。）
+【考え方】
+まず見るところ：第3段落の researchers have found major flaws と、studies have found very little evidence that people actually fall into distinct groupings
+設問は「研究者たちによると」とたずねています。研究者や研究の結果が書かれているのは第3段落です。
+In fact, researchers have found major flaws in methods used to quantify learning styles.（実際、研究者たちは、学習スタイルを数値で測るために使われている方法に、大きな欠点を見つけている）
+The idea is based on the classification of people into specific types of learners, but studies have found very little evidence that people actually fall into distinct groupings in this way.（その考え方は、人を特定のタイプの学習者に分類することにもとづいているが、研究では、人々が実際にこのようにはっきりと分かれたグループに当てはまるという証拠は、ほとんど見つかっていない）
+一方で、第1段落・第2段落には、教師たちが教え方を学習スタイルに合わせてきたことや、96 percent of teachers surveyed recently said they believed in the idea（最近調査を受けた教師の96パーセントが、その考え方を信じていると答えた）ことが書かれています。本文と選択肢を対にすると、次のようになります。
+・本文 teachers ... have altered their teaching approach to conform to the "learning styles"（教師たちは「学習スタイル」に合うように教え方を変えてきた）→ 言いかえると → 選択肢 has been adopted by instructors（教える人たちに取り入れられてきた）
+・本文 very little evidence that people actually fall into distinct groupings（人々が実際にはっきり分かれたグループに当てはまるという証拠はほとんどない）→ ほぼ同じ内容 → 選択肢 a lack of evidence that shows such styles actually exist（そのようなスタイルが実際にあることを示す証拠がない）
+「証拠がほとんどないのに、多くの教師に取り入れられている」という内容なので、3が正解です。
+この問題の型：対比（多くの教師が信じている ⇔ 研究では証拠がほとんどない）
+【ほかの選択肢】
+1 本文では、教師たちは学習スタイルによって生徒を分類してきたと書かれていて、研究者が問題にしているのは、その分類そのものに証拠がないことです。教師が生徒をグループに分けられていないという批判ではありません。また、本文の分類は勉強の習慣ではなく学習スタイルによるものです。
+2 本文には、すでに dozens of supposed styles have been identified（学習スタイルだとされるものが何十も見つけ出された）とあります。研究者が定義を広げればよくなると言っている話は書かれておらず、ハスマンは the way we've been categorizing these learning styles doesn't seem to hold up（これまで学習スタイルを分類してきたやり方は、正しいとは言えないようだ）と言っています。
+4 本文には there is little solid proof that teaching to a student's strengths is an effective practice（生徒の得意なことに合わせて教えることが効果的なやり方だという確かな証拠は、ほとんどない）と書かれています。「学力が上がることをデータが示してから人気が出た」は、これと合いません。
+【覚えるポイント】
+・flaw：「欠点」。fall into ～ groupings は「～のグループに当てはまる」、in spite of ～ は「～にもかかわらず」です。
+・According to researchers（研究者によると）の設問では、本文の researchers や studies（研究）が主語になっている文を探しましょう。本文の One would think ～. However, ...（～と思うかもしれない。しかし…）の形は、「思われていること」と「実際」の違いを示す手がかりになります。

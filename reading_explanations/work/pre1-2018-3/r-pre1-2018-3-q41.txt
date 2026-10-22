@@ -1,0 +1,31 @@
+---
+choices: The match between the material being taught and the teaching approach matters more than teaching to students' preferred learning styles. | If the idea of learning styles continues to gain acceptance, there will likely be major changes to textbooks on educational theory. | The connection between textbooks on educational theory and actual methods used by teachers is not clear enough. | Mathematics is one area where teachers should make the effort to change their teaching style based on students' preferences.
+answerText: The match between the material being taught and the teaching approach matters more than teaching to students' preferred learning styles.
+---
+【正解】1 The match between the material being taught and the teaching approach matters more than teaching to students' preferred learning styles.（教えている内容と教え方が合っていることのほうが、生徒の好む学習スタイルに合わせて教えることよりも大切だ。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What point is supported by Daniel Willingham's statement?（ダニエル・ウィリンガムの発言は、どんな主張を裏づけているか。）
+1 The match between the material being taught and the teaching approach matters more than teaching to students' preferred learning styles.（教えている内容と教え方が合っていることのほうが、生徒の好む学習スタイルに合わせて教えることよりも大切だ。）
+2 If the idea of learning styles continues to gain acceptance, there will likely be major changes to textbooks on educational theory.（学習スタイルの考え方が受け入れられ続ければ、教育理論の教科書に大きな変化が起こるだろう。）
+3 The connection between textbooks on educational theory and actual methods used by teachers is not clear enough.（教育理論の教科書と、教師が実際に使っている方法との結びつきが、十分にはっきりしていない。）
+4 Mathematics is one area where teachers should make the effort to change their teaching style based on students' preferences.（数学は、教師が生徒の好みにもとづいて教え方を変える努力をするべき分野の一つだ。）
+【考え方】
+まず見るところ：第4段落の what actually helps them learn better is for the educator to ensure the teaching approach suits the material being taught と、ウィリンガムの発言
+ウィリンガムの発言は第4段落にあります。その直前の文で、研究が示していることが述べられています。
+studies show that what actually helps them learn better is for the educator to ensure the teaching approach suits the material being taught（研究によると、実際に生徒がよりよく学ぶのに役立つのは、教育者が、教えている内容に教え方が合うようにすることだ）
+"People's alleged learning styles don't count for anything in accounting for task performance, but the effect of a strategy on a task is huge."（「人々の学習スタイルとされているものは、課題の出来ぐあいを説明するうえで何の意味も持たないが、課題に対するやり方の効果は非常に大きい」）
+alleged は「～だとされている（本当かどうかは分からない）」、don't count for anything は「何の意味も持たない」です。ウィリンガムは、学習スタイルは関係なく、課題に合ったやり方こそが大切だと言っています。これは直前の文の「内容に教え方を合わせることが役に立つ」という研究結果を裏づけています。本文と選択肢を対にすると、次のようになります。
+・本文 the teaching approach suits the material being taught（教え方が教えている内容に合う）→ 言いかえると → 選択肢 The match between the material being taught and the teaching approach（教えている内容と教え方が合っていること）
+・本文 alleged learning styles don't count for anything ... but the effect of a strategy on a task is huge（学習スタイルは何の意味も持たないが、やり方の効果は非常に大きい）→ まとめると → 選択肢 matters more than teaching to students' preferred learning styles（生徒の好む学習スタイルに合わせて教えることより大切だ）
+ですから1が正解です。
+この問題の型：言いかえ（the teaching approach suits the material → The match between the material and the teaching approach）
+【ほかの選択肢】
+2 本文でウィリンガムが考えているのは、学習スタイルへの注目に the only way to counter it is to revise the textbooks on educational theory（それに対抗するただ一つの方法は、教育理論の教科書を書き直すことだ）ということです。「学習スタイルが受け入れられ続ければ、教科書が大きく変わるだろう」という予想は書かれていません。
+3 本文には、教科書と教師の実際の方法との結びつきがはっきりしていない、という話は書かれていません。ウィリンガムが教科書の書き直しを考えているのは、学習スタイルの考え方を教室から消すためです。
+4 本文では、数学の幾何学は are better suited to visual methods（目で見る方法のほうが向いている）と書かれています。これは、教える内容に合わせて方法を選ぶという例で、生徒の好みに合わせて教え方を変えるべきだという話ではありません。
+【覚えるポイント】
+・alleged：「～だとされている（本当かどうかは分からない）」。suit は「～に合う」です。
+・「ある人の発言が何を裏づけているか」という設問では、発言の直前や直後の文（ここでは studies show that ～）を見ると、筆者がその発言を何のために引用したのかが分かる手がかりになります。
