@@ -1,0 +1,25 @@
+---
+choices: repairing | ignoring | predicting | publishing
+answerText: predicting
+---
+【正解】3 predicting（～を予測すること）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 repairing：～を修理すること、直すこと
+2 ignoring：～を無視すること
+3 predicting：～を予測すること
+4 publishing：～を出版すること、発表すること
+【考え方】
+空所は第3段落の Because of this, (　) the results of it is very difficult.（このため、その結果を（　）することはとても難しい）にあります。it は global warming（地球温暖化）を指します。
+Because of this の this は、前の文の内容です。Global warming is very complicated, and it creates different problems depending on the area and the types of plants and animals found there.（地球温暖化はとても複雑で、地域やそこに見られる動植物の種類によって異なる問題を生み出す）とあります。場所や生き物によって起こることが違うので、「これから何が起こるか」を前もって知るのが難しい、という流れが考えられます。
+空所のあとの文も手がかりです。In an attempt to do this, scientists have recently created a computer program to calculate the impact that global warming will have on 600 different species of fish in the future.（これを行おうとして、科学者たちは、地球温暖化が将来600種類の魚に与える影響を計算するためのプログラムを作った）とあります。do this（これを行う）は、空所の内容を指しています。「将来の影響を計算する」ことは、まさに結果を予測することです。
+predict は「～を予測する（前もって推し量る）」という意味で、predicting the results で「結果を予測すること」となります。正解は3です。
+【ほかの選択肢】
+1 repairing は「～を修理すること」です。「地球温暖化の結果を修理するのは難しい」となりますが、あとの文はプログラムで将来の影響を計算する話で、修理する話ではありません。
+2 ignoring は「～を無視すること」です。「結果を無視することは難しい」となり、そのあとの「これを行おうとして、科学者たちが影響を計算するプログラムを作った」という内容とつながりません。
+4 publishing は「～を出版すること、発表すること」です。結果を発表するのが難しいという話ではなく、地球温暖化が複雑なので将来が分かりにくい、という流れに合いません。
+【覚えるポイント】
+・predict：「～を予測する」。名詞は prediction（予測）。
+・depending on ～：「～によって（違う）」。

@@ -1,0 +1,24 @@
+---
+choices: limited | generous | typical | divided
+answerText: limited
+---
+【正解】1 limited（限られた、少ない）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 limited：限られた、少ない
+2 generous：気前のよい、たっぷりある
+3 typical：典型的な、よくある
+4 divided：分けられた、分かれた
+【考え方】
+空所は第2段落の Because the amount of oxygen will be (　), the fish will stop growing even earlier.（酸素の量は（　）ので、魚はさらに早く成長が止まるだろう）にあります。oxygen は「酸素」です。
+この段落では、魚が小さくなる2つの理由が説明されています。1つ目は the amount of oxygen in the water will go down（水の中の酸素の量が減る）ことです。2つ目は体温が上がって体が活発になり、they will need more oxygen than they do now（今よりも多くの酸素を必要とするようになる）ことです。
+つまり、「必要な酸素は増えるのに、水の中の酸素は減る」という状態になります。そのため、魚が使える酸素は足りなくなり、成長が早く止まってしまうのです。limited は「限られた、少ない」という意味なので、the amount of oxygen will be limited（酸素の量は限られる）となり、あとの「さらに早く成長が止まる」とつながります。正解は1です。
+【ほかの選択肢】
+2 generous は「気前のよい、たっぷりある」です。酸素の量がたっぷりあるなら、成長が早く止まる理由になりません。酸素が減るという前の文とも反対です。
+3 typical は「典型的な、よくある」です。酸素の量が「よくある量」になるなら、成長が早く止まる理由になりません。
+4 divided は「分けられた、分かれた」です。酸素の量が分けられるという話は本文になく、成長が止まる理由にもなりません。
+【覚えるポイント】
+・keep A from ～ing：「Aが～するのをさまたげる、Aを～させないようにする」。
+・tend to ～：「～する傾向がある、～しがちだ」。

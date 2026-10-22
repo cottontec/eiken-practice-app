@@ -1,0 +1,25 @@
+---
+choices: improved | deleted | reached | affected
+answerText: affected
+---
+【正解】4 affected（影響を受けた）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 improved：改善された、よくなった
+2 deleted：削除された、消された
+3 reached：届いた、到達された
+4 affected：影響を受けた
+【考え方】
+空所は第3段落の Actually, the average body size of these fish has already been (　).（実際、これらの魚の平均の体の大きさは、すでに（　）されている）にあります。these fish は、前の文の two kinds of fish（2種類の魚）のことです。
+前の文を見ます。Recent studies of two kinds of fish, however, suggest that this estimate is not accurate and the problem is even worse.（しかし、2種類の魚についての最近の研究は、この見積もりは正確ではなく、問題はさらに深刻だと示している）とあります。this estimate（この見積もり）は、コンピュータープログラムで出した「将来14～24パーセント小さくなる」という予測です。
+「問題はさらに深刻だ」と言ったあとに Actually（実際）が続いているので、その証拠として「将来ではなく、すでに体の大きさに変化が出ている」という内容が来ると考えられます。さらにあとの文には the change in size that they found（彼らが見つけた大きさの変化）とあり、実際に大きさの変化が見つかったことが分かります。
+affect は「～に影響を与える」という意味で、has already been affected で「すでに影響を受けている」となります。正解は4です。
+【ほかの選択肢】
+1 improved は「改善された、よくなった」です。体の大きさがよくなったのなら、「問題はさらに深刻だ」という前の文と反対になります。
+2 deleted は「削除された、消された」です。体の大きさが削除されることはなく、意味が通りません。
+3 reached は「届いた、到達された」です。何に届いたのかが分からず、「すでに変化が見つかった」という内容を表せません。
+【覚えるポイント】
+・be affected：「影響を受ける」。affect は動詞、effect は名詞（影響）です。
+・even worse：「さらに悪い、さらに深刻な」。even は比べる言葉を強めます。
