@@ -1,0 +1,20 @@
+---
+choices: tell | telling | tells | told
+answerText: telling
+---
+【正解】2 telling（〔There is no telling で〕分からない、予測できない）
+【和訳】
+A：あなたの両親の家まで、車でどのくらいかかるの？
+B：休みの期間は、交通の状況が（どうなるか分からない）よ。30分かもしれないし、2時間かかるかもしれないね。
+（選択肢の意味）どれも tell（言う、分かる）の形を変えたものです。1 tell（原形）　2 telling（-ing 形）　3 tells（主語が he や she などのときの今の形）　4 told（過去形・過去分詞）
+【考え方】
+空所の前は There's no（～がない）です。There is no ～ing は「～することはできない」という意味の決まった言い方です。tell には「言う」のほかに「分かる、見分ける」という意味があり、There is no telling で「分からない、予測できない」となります。
+次の文 It could take thirty minutes, or it could take two hours.（30分かかるかもしれないし、2時間かかるかもしれない）が手がかりです。could はここでは「～かもしれない」と可能性を表します。かかる時間がどうなるか予想できないということなので、There's no telling with traffic（交通の状況については分からない）とつながります。2が正解です。
+no のあとには、名詞や -ing 形が来ます。-ing 形は、ここでは動詞を「～すること」という名詞の働きにする形です。
+【ほかの選択肢】
+1 tell は動詞の原形です。no のあとに動詞の原形を置いて There's no tell とは言わないので、文の形が成り立ちません。
+3 tells は He tells ～ のように、主語が he や she などで今のことを言うときの形です。no のあとには置けません。
+4 told は過去形・過去分詞です。There's no told という形はなく、文が成り立ちません。
+【覚えるポイント】
+・There is no telling ～：「～は分からない、予測できない」。
+・There is no ～ing：「～することはできない」。
