@@ -1,0 +1,28 @@
+---
+choices: Less of their tax money will be spent on fuel. | The city will become more attractive to tourists. | Gasoline will become less expensive in the city. | They will not have to pay for electricity.
+answerText: Less of their tax money will be spent on fuel.
+---
+【正解】1 Less of their tax money will be spent on fuel.（燃料に使われる税金が少なくなる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ウェンディ・ザッカーマンは、なぜウォーカートンの市民が喜ぶだろうと述べていますか。
+1 燃料に使われる税金が少なくなる。
+2 市が観光客にとってもっと魅力的になる。
+3 市内でガソリンが安くなる。
+4 市民が電気代を払わなくてよくなる。
+【考え方】
+設問の suggest は、ここでは「（考えとして）述べる、ほのめかす」という意味です。市民が喜ぶという話は、メールの第2段落の後半にあります。
+Also, the electricity used to charge electric cars costs much less than gasoline.（また、電気自動車の充電に使う電気は、ガソリンよりもずっと安く済む）
+City residents will be glad to hear that using these cars will save tax money.（市の住民は、これらの車を使うことで税金が節約されると聞けば喜ぶだろう）
+パトカーは市の車なので、燃料代は市が税金から払っていると考えられます。ガソリンより安い電気で走る車を使えば、燃料にかかるお金が減り、その分の税金が節約できる、という流れです。本文と選択肢は次のように対応しています。
+本文 the electricity ～ costs much less than gasoline（電気はガソリンよりずっと安く済む）＋ will save tax money（税金が節約される）＝ 選択肢 Less of their tax money will be spent on fuel（燃料に使われる税金が少なくなる）
+fuel は「燃料（ガソリンや電気など、車を動かすためのもの）」です。正解は1です。
+【ほかの選択肢】
+2 観光客については、本文に書かれていません。
+3 本文は「電気はガソリンよりずっと安い」と、電気とガソリンの値段を比べているだけです。ガソリンそのものが安くなるとは書かれていません。
+4 本文は、電気の費用がガソリンより「ずっと安い」と言っているだけで、電気代を払わなくてよくなるとは書かれていません。言い切りすぎです。
+【覚えるポイント】
+・cost much less than ～：「～よりもずっと安く済む」。much は比べる言葉（less）を強めています。
+・save money：「お金を節約する」。ここでは save tax money で「税金を節約する」。
