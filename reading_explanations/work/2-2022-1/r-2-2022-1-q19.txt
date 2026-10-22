@@ -1,0 +1,19 @@
+---
+choices: may | would | had | should
+answerText: had
+---
+【正解】3 had（had better not ～ で「～しないほうがよい」）
+【和訳】
+ショーンは明日の朝早くに大切な会議があるので、今夜は遅くまで起きていないほうがよいです。
+（選択肢の意味）1 ～かもしれない、～してもよい　2 ～だろう　3 （had better の形で）～したほうがよい　4 ～すべきだ
+【考え方】
+空所のあとの better not stay up late tonight に注目します。stay up late は「夜遅くまで起きている」という意味です。
+空所のすぐあとに better があるので、had better ～（～したほうがよい）という決まった形になると考えます。had better のあとに not を付けて had better not ～ とすると、「～しないほうがよい」という意味になります。not の位置は better のあとです。
+前半の Sean has an important meeting early tomorrow morning（ショーンは明日の朝早くに大切な会議がある）は、夜ふかしをしないほうがよい理由になっています。ですから、3が正解です。had better は had という過去の形ですが、意味は今やこれからのことを表します。
+【ほかの選択肢】
+1 may は「～かもしれない、～してもよい」です。may better not という言い方はないので、空所に入りません。
+2 would は「～だろう」です。would better not という言い方はないので、空所に入りません。
+4 should は「～すべきだ」で、意味は近いですが、should better not という言い方はありません。should を使うなら should not stay up late のように、better を使わずに書きます。
+【覚えるポイント】
+・had better ～：「～したほうがよい」。否定は had better not ～（～しないほうがよい）で、not は better のあとに置きます。
+・stay up late：「夜遅くまで起きている」。

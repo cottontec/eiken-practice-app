@@ -1,0 +1,29 @@
+---
+choices: Helping students with English during the day. | Working extra hours late at night for his job. | Meeting with some other people that he knows. | Having an interview with Ms. Robinson for the job.
+answerText: Helping students with English during the day.
+---
+【正解】1 Helping students with English during the day.（日中に、生徒の英語の勉強を手伝っている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ロバート・ミッチェルは、今週の木曜日に何をしているでしょうか。
+1 日中に、生徒の英語の勉強を手伝っている。
+2 仕事のために、夜遅くに時間外で働いている。
+3 知り合いのほかの人たちと会っている。
+4 その仕事のために、ロビンソンさんと面接をしている。
+【考え方】
+設問の Thursday（木曜日）という言葉を本文で探します。第3段落の最後のほうに、次の文があります。
+I teach English to private students from 8 a.m. until 3 p.m. on Thursdays, but any other time is fine.（私は毎週木曜日の午前8時から午後3時まで個人の生徒に英語を教えていますが、それ以外の時間ならいつでもかまいません）
+on Thursdays と s が付いているので、「毎週木曜日に」という意味です。ですから、今週の木曜日もロバートは英語を教えていると考えられます。private students は「個人の生徒（個別に教えている生徒）」です。
+本文と選択肢を対にすると、次のようになります。
+本文 I teach English to private students ＝ 選択肢 Helping students with English
+本文 from 8 a.m. until 3 p.m. ＝ 選択肢 during the day
+「生徒に英語を教える」が「生徒の英語の勉強を手伝う」に、「午前8時から午後3時まで」が「日中に」に言いかえられています。ですから1が正解です。
+【ほかの選択肢】
+2 本文には I also do not mind working extra hours or late at night（時間外に働くことや、夜遅くに働くこともいとわない）とあります。これは「そうしてもかまわない」という気持ちを伝えているだけで、木曜日に夜遅くまで働く予定だとは書かれていません。また、ロバートはまだこの仕事に採用されていません。
+3 知り合いの人たちと会う予定は、本文に書かれていません。
+4 面接については If you would like to schedule an interview, please call me（面接の日程を決めたいとお考えでしたら、お電話ください）とあるだけで、まだ日程は決まっていません。むしろ、木曜日の午前8時から午後3時までは英語を教えていて都合が悪いと伝えています。
+【覚えるポイント】
+・on Thursdays：「毎週木曜日に」。曜日に s を付けると「毎週～曜日に」という意味になります。
+・schedule an interview：「面接の日程を決める」。

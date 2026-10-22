@@ -1,0 +1,29 @@
+---
+choices: A sticker that can be attached to electronic devices to make them more efficient. | A sticker that can be used to record medical information about a patient. | A device that is made of silicon and has the ability to make muscles move. | A device that is used by scientists to make silicon stronger.
+answerText: A sticker that can be used to record medical information about a patient.
+---
+【正解】2 A sticker that can be used to record medical information about a patient.（患者についての医療に関する情報を記録するのに使えるステッカー。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ジョン・ロジャーズは何を開発しましたか。
+1 電子機器に取り付けて、その機器の効率をよくする（むだなく働くようにする）ことができるステッカー。
+2 患者についての医療に関する情報を記録するのに使えるステッカー。
+3 シリコンでできていて、筋肉を動かす力を持つ機器。
+4 科学者がシリコンをより強くするために使う機器。
+【考え方】
+John Rogers（ジョン・ロジャーズ）は第2段落に出てきます。One of these devices was developed by John Rogers（こうした機器の1つを開発したのはジョン・ロジャーズだ）とあり、these devices は第1段落の最後の「電子ステッカー」と呼ばれる新しい測定機器を指しています。
+第2段落の最後に、そのステッカーができることが書かれています。
+The tiny electronic sticker can record information such as a patient's heart rate, body temperature, muscle movement, and brain activity.（この小さな電子ステッカーは、患者の心拍数、体温、筋肉の動き、脳の活動などの情報を記録することができる）
+心拍数・体温・筋肉の動き・脳の活動は、どれも医師が患者の体を調べるときの情報です。
+本文と選択肢を対にすると、次のようになります。
+本文 The tiny electronic sticker can record information such as a patient's heart rate, body temperature, ～ → 選択肢 A sticker that can be used to record medical information about a patient
+本文の具体的な項目が、選択肢では medical information（医療に関する情報）とまとめられています。ですから、2が正解です。
+【ほかの選択肢】
+1 本文と合いません。ステッカーは be stuck onto a patient's skin（患者の皮膚に貼る）ものです。電子機器に貼るものでも、機器の効率をよくするものでもありません。
+3 一部だけ本文と合います。機器には a thin layer of silicon（シリコンの薄い層）が使われていますが、ステッカーは筋肉の動きを「記録する」ものです。筋肉を「動かす」力があるとは書かれていません。（シリコンは、電子部品などに使われる材料です。）
+4 本文にありません。シリコンを強くするための機器という話は出てきません。シリコンは、ステッカーの材料として出てくるだけです。
+【覚えるポイント】
+・consist of ～：「～でできている、～から成る」。The device consists of ～ で「その機器は～でできている」です。
+・such as ～：「たとえば～のような」。そのあとに具体例が並びます。選択肢では、例をまとめた言葉に言いかえられることが多いです。

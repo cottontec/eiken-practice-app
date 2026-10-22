@@ -1,0 +1,28 @@
+---
+choices: Other fish swim to deep areas of the ocean in order to catch them. | People and many other animals may actually have evolved from them. | They are the ancestors of all modern fish that do not have backbones. | They are a type of snake that does not have any teeth or a tongue.
+answerText: People and many other animals may actually have evolved from them.
+---
+【正解】2 People and many other animals may actually have evolved from them.（人間やほかの多くの動物は、実はヌタウナギから進化したのかもしれない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ヌタウナギについて正しいものは次のうちどれですか。
+1 ほかの魚が、ヌタウナギをつかまえるために海の深いところまで泳いでいく。
+2 人間やほかの多くの動物は、実はヌタウナギから進化したのかもしれない。
+3 ヌタウナギは、背骨を持たない現代のすべての魚の祖先である。
+4 ヌタウナギは、歯も舌もまったくないヘビの一種である。
+【考え方】
+ヌタウナギがどんな生き物かは、第1段落に書かれています。最後の文に注目します。
+Scientists who study evolution think hagfish are the ancestors of all creatures with backbones, including human beings.（進化を研究する科学者たちは、ヌタウナギは、人間を含む、背骨を持つすべての生き物の祖先だと考えている）
+evolution は「進化（生き物が長い年月をかけて少しずつ変わっていくこと）」、ancestor は「祖先（ずっと昔の、もとになった生き物）」という意味です。
+ヌタウナギが人間や背骨を持つ生き物の祖先だということは、人間やほかの動物がヌタウナギから進化してきた、ということです。本文と選択肢を対にすると、次のようになります。
+本文 hagfish are the ancestors of all creatures with backbones, including human beings（ヌタウナギは、人間を含む、背骨を持つすべての生き物の祖先だ）→ 選択肢 People and many other animals ... have evolved from them（人間やほかの多くの動物はヌタウナギから進化した）
+また、本文は「科学者たちはそう考えている」という書き方なので、選択肢でも may（～かもしれない）が使われています。言い切ってはいない点も本文と合います。ですから2が正解です。
+【ほかの選択肢】
+1 本文には、ヌタウナギが海の深いところにすむことと、サメのような動物におそわれることは書かれています。しかし、ほかの魚がヌタウナギをつかまえるために深いところまで泳いでいく、という話はありません。
+3 本文では、ヌタウナギは creatures with backbones（背骨を持つ生き物）の祖先だと書かれています。選択肢は「背骨を持たない」魚の祖先としているので、本文と反対です。
+4 本文には Hagfish look like snakes or eels（ヌタウナギはヘビやウナギのように見える）とありますが、ヘビの一種だとは書かれていません。また、they have teeth on their tongues（舌に歯がある）とあるので、「歯も舌もない」は本文と反対です。
+【覚えるポイント】
+・ancestor：「祖先」。evolve from ～ は「～から進化する」です。「AはBの祖先だ」は「BはAから進化した」と言いかえられます。
+・including ～：「～を含めて」。

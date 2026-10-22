@@ -1,0 +1,31 @@
+---
+choices: The cost of the devices that they need is too high for them. | The devices used to monitor their bodies are inconvenient for them. | They cannot receive treatment without waiting for a long period of time. | They do not have time to record all the information their doctor needs.
+answerText: The devices used to monitor their bodies are inconvenient for them.
+---
+【正解】2 The devices used to monitor their bodies are inconvenient for them.（体を観察するために使われる機器が、患者にとって不便である。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：心臓に問題がある患者にとっての困りごとの1つは何ですか。
+1 必要な機器の費用が、患者にとって高すぎる。
+2 体を観察するために使われる機器が、患者にとって不便である。
+3 長い期間待たなければ、治療を受けることができない。
+4 医師が必要とする情報をすべて記録する時間が、患者にない。
+【考え方】
+設問の patients with heart problems（心臓に問題をかかえる患者）は、第1段落に When a patient has heart problems, for example, it is important to record the speed of the heartbeat.（たとえば、患者が心臓に問題をかかえている場合、心臓の拍動の速さを記録することが大切だ）と出てきます。そのあと、記録に使う機器について次のように書かれています。
+・Traditionally, doctors have attached electronic devices to patients' bodies and used these to record information.（これまで医師は、患者の体に電子機器を取り付け、それを使って情報を記録してきた）
+・These devices must be worn daily and are quite heavy, and they need many electric wires.（こうした機器は毎日身に着けていなければならず、かなり重く、たくさんの電線を必要とする）
+・As a result, they can make it difficult for patients to move around freely or to sleep.（その結果、こうした機器のせいで、患者が自由に動き回ったり眠ったりするのが難しくなることがある）
+毎日着けなければならない、重い、電線が多い、そのせいで動いたり眠ったりしにくい――これらはどれも、患者にとって「不便」な点です。
+本文と選択肢を対にすると、次のようになります。
+本文 doctors have attached electronic devices to patients' bodies and used these to record information ＝ 選択肢 The devices used to monitor their bodies
+本文 they can make it difficult for patients to move around freely or to sleep → 選択肢 are inconvenient for them
+inconvenient は「不便な」という意味です。本文の具体的な困りごとを、選択肢では「不便だ」とまとめています。ですから、2が正解です。
+【ほかの選択肢】
+1 本文にありません。機器の値段については何も書かれていません。
+3 本文にありません。第1段落の最初に over a long period of time（長い期間にわたって）という語句がありますが、これは医師が患者の体の変化を観察し続ける期間のことです。治療を受けるまで長く待たなければならないという話ではありません。
+4 本文と合いません。情報を記録するのは患者に取り付けた機器で、患者自身が記録するとは書かれていません。患者に記録する時間がないという話もありません。
+【覚えるポイント】
+・monitor：「（変化などを）観察し続ける、見守る」。テレビ画面の「モニター」と同じ語で、動詞としてよく使われます。
+・As a result（その結果）のあとには、前に書かれたことから起こる結果が来ます。悩みや問題をさがすときの手がかりになります。

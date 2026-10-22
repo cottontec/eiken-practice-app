@@ -4,7 +4,7 @@ answerText: drawn
 ---
 【正解】4 drawn（描かれた）
 【和訳】
-その美術の先生は、自分の教室の壁を、生徒たちが（描いた）絵で飾りました。
+その美術の先生は、自分の教室の壁を、自分の生徒たちによって（描かれた）絵で飾りました。
 （選択肢の意味）どれも draw（描く）の形です。1 drawing 描いている　2 draw 描く（もとの形）　3 have drawn 描いた（ことがある）　4 drawn 描かれた
 【考え方】
 文の骨組みは The art teacher decorated the walls of her classroom with pictures（美術の先生は教室の壁を絵で飾った）です。decorate A with B は「AをBで飾る」という意味です。ここで文はすでに完成しているので、空所から後ろの (　) by her students は、直前の pictures（絵）に説明を加える部分だと考えます。

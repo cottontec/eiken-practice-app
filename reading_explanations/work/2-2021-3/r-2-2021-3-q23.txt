@@ -1,0 +1,27 @@
+---
+choices: are unable to leave home | have no memory | face the same challenge | prefer other styles
+answerText: face the same challenge
+---
+【正解】3 face the same challenge（同じ困難に直面している）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+people who のあとに続けた意味です。
+1 are unable to leave home（家から出られない（人々））
+2 have no memory（記憶がない（人々））
+3 face the same challenge（同じ困難に直面している（人々））
+4 prefer other styles（ほかの様式（の音楽）のほうを好む（人々））
+【考え方】
+空所は第3段落の最後の Hamori took Beethoven's idea and used it so that people who (23) could enjoy the composer's music. です。「ハモリはベートーベンの考えを取り入れ、（23）人々がこの作曲家の音楽を楽しめるように、それを使った」という意味です。so that ～ can ... は「～が…できるように」と目的を表します。
+まず、Beethoven's idea（ベートーベンの考え）が何かを確かめます。空所の前に次のように書かれています。
+As Beethoven was becoming deaf, he used a piano when writing music. He discovered that the instrument allowed him to feel his music through his fingers.（ベートーベンは耳が聞こえなくなっていく中で、作曲するときにピアノを使った。彼は、その楽器のおかげで、自分の音楽を指を通して感じられることに気づいた）
+つまり、ベートーベン自身が「耳が聞こえない」という困難をかかえていて、指で振動を感じることで音楽を感じ取っていました。ハモリはこの考えを、コンサートに招いた耳の聞こえない人々のために使いました。
+耳の聞こえない人々は、ベートーベンと「同じ困難」をかかえています。challenge は「困難、難しい課題」、face は「（困難などに）直面する、向き合う」です。ですから3が正解です。
+【ほかの選択肢】
+1 「家から出られない人々」は本文に出てきません。観客たちはコンサートに来て、演奏者のとなりに座っていました。
+2 「記憶がない人々」も本文に出てきません。ハモリが招いたのは耳の聞こえない人々で、記憶の話はありません。
+4 「ほかの様式の音楽のほうを好む人々」は、本文の内容と関係がありません。ハモリの工夫は、耳が聞こえなくても音楽を楽しめるようにするためのもので、好みのちがう人のためのものではありません。
+【覚えるポイント】
+・face the same challenge：「同じ困難に直面する」。face は名詞「顔」のほかに、動詞「直面する」の意味があります。
+・so that ～ can ...：「～が…できるように」。目的を表します。

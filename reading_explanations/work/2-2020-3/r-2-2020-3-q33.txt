@@ -1,0 +1,30 @@
+---
+choices: They could be used to develop a material that is better for the environment. | They could break down nylon fibers that are polluting the sea. | They could help clean up fossil fuels that spill in laboratories. | They could be easily changed to produce very strong silk for the fashion industry.
+answerText: They could be used to develop a material that is better for the environment.
+---
+【正解】1 They could be used to develop a material that is better for the environment.（環境にもっとよい素材を開発するのに使われるかもしれない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ヌタウナギは、将来どのような利益をもたらすかもしれませんか。
+1 環境にもっとよい素材を開発するのに使われるかもしれない。
+2 海を汚しているナイロンの繊維を分解できるかもしれない。
+3 研究室でこぼれた化石燃料をきれいにするのに役立つかもしれない。
+4 ファッション業界のために、とても丈夫な絹を作り出すよう簡単に変えられるかもしれない。
+【考え方】
+ヌタウナギの将来の使いみちは、第4段落に書かれています。
+They believe that these could be used to replace artificial fabrics, such as nylon, which are made from fossil fuels.（彼らは、これらの繊維が、化石燃料から作られるナイロンのような人工の布地の代わりに使えるかもしれないと考えている）
+The hagfish fibers would be much more environmentally friendly.（ヌタウナギの繊維は、〔そうした人工の布地より〕はるかに環境に優しいだろう）
+These scientists are now trying to create similar fibers in the laboratory in order to make a new fabric that is both very strong and light.（これらの科学者たちは現在、とても丈夫で軽い新しい布地を作るために、研究室で似た繊維を作り出そうとしている）
+本文と選択肢を対にすると、次のようになります。
+本文 make a new fabric（新しい布地を作る）＝ 選択肢 develop a material（素材を開発する）
+本文 much more environmentally friendly（〔人工の布地より〕はるかに環境に優しい）＝ 選択肢 better for the environment（環境にもっとよい）
+fabric（布地）を material（素材、材料）と、environmentally friendly（環境に優しい）を better for the environment（環境にもっとよい）と言いかえています。ですから1が正解です。
+【ほかの選択肢】
+2 本文では、ヌタウナギの繊維がナイロンの「代わりに使える」と書かれています。海を汚しているナイロンの繊維を分解する（細かく分けてなくす）という話はありません。
+3 本文の fossil fuels（化石燃料）は、ナイロンの原料として出てきます。また、laboratory（研究室）は、科学者たちが似た繊維を作ろうとしている場所です。研究室でこぼれた化石燃料をきれいにするという話はありません。
+4 本文には、繊維が like very strong silk（とても丈夫な絹のようだ）とありますが、絹そのものに変えるとは書かれていません。また、科学者たちは今まさに似た繊維を作ろうと「している」ところで、easily（簡単に）できるとは書かれていません。
+【覚えるポイント】
+・environmentally friendly：「環境に優しい」。better for the environment（環境にもっとよい）と言いかえられることがあります。
+・replace：「～の代わりになる、～と取りかえる」。
