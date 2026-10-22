@@ -1,0 +1,30 @@
+---
+choices: quaint | inhospitable | dignified | confidential
+answerText: inhospitable
+---
+【正解】2 inhospitable（住むのに適さない、暮らしにくい）
+【和訳】
+（英文）
+The deep ocean is a very ［inhospitable］ environment with cold temperatures, high pressure, and no sunlight. In spite of this, many creatures manage to survive there.
+（訳）
+深海は、水温が低く、水圧が高く、日光がない、とても（暮らしにくい）環境です。それにもかかわらず、多くの生き物がそこでなんとか生き延びています。
+（選択肢の意味）
+1 quaint：古風で趣のある
+2 inhospitable：住むのに適さない、暮らしにくい
+3 dignified：威厳のある、堂々とした
+4 confidential：秘密の、内密の
+【考え方】
+まず見るところ：後半の文の In spite of this, many creatures manage to survive there.
+In spite of this, many creatures manage to survive there.（それにもかかわらず、多くの生き物がそこでなんとか生き延びている）
+In spite of this は「それにもかかわらず」、manage to ～ は「なんとか～する」という意味です。「それにもかかわらず生き延びている」と言っているので、前の文には「生き物が生きるのが難しい」という内容があると分かります。
+空所のある文は次のとおりです。
+The deep ocean is a very (　) environment with cold temperatures, high pressure, and no sunlight.（深海は、水温が低く、水圧が高く、日光がない、とても（　）環境だ）
+pressure は「（水の）圧力」です。冷たい・圧力が高い・日光がないという内容から、空所には「生き物が暮らしにくい」という意味の語が入ります。inhospitable は「（場所が）住むのに適さない」という意味なので、2が正解です。
+この問題の型：対比（暮らしにくい環境⇔それでも生き延びている）
+【ほかの選択肢】
+1 quaint は「古風で趣のある」です。古い町並みなどを表す語で、深海の環境の説明にはなりません。また、In spite of this（それにもかかわらず）とつながりません。
+3 dignified は「威厳のある、堂々とした」です。ふつう人の態度を表す語で、「冷たく、圧力が高く、日光がない環境」の説明になりません。
+4 confidential は「秘密の、内密の」です。秘密の書類などに使う語で、深海の環境の説明として意味が通りません。
+【覚えるポイント】
+・inhospitable：「（場所が）住むのに適さない、暮らしにくい」。hospitable（もてなしのよい）に in-（～でない）がついた形です。
+・In spite of this（それにもかかわらず）のあとに「生き延びている」とあれば、前の文には「生きるのが難しい」という反対の内容がくると考える手がかりになります。

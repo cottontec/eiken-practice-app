@@ -1,6 +1,7 @@
 ---
 choices: Medical 3D printers are unable to construct objects layer by layer when a patient's own cells and artificially generated ones are used together. | The foundations the printers create are not strong enough to support all of the blood vessels that supply blood to organs. | Scientists have not yet been able to fully understand the processes cells use to organize themselves when they form organs. | Because the layers of an organ grow at different rates, it is difficult to design a printer that can print an entire organ.
 answerText: Scientists have not yet been able to fully understand the processes cells use to organize themselves when they form organs.
+reviewed: yes
 ---
 【正解】3 Scientists have not yet been able to fully understand the processes cells use to organize themselves when they form organs.（科学者たちは、細胞が臓器を作るときに自分たちを組み立てる仕組みを、まだ完全には理解できていない。）
 【和訳】

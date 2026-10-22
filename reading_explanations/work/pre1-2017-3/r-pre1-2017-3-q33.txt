@@ -1,6 +1,7 @@
 ---
 choices: human settlements can help provide valuable manpower for locating and capturing pests. | although islands can be successfully cleared of pests, continued efforts may be needed after the project's completion. | eliminating certain pest species can make it easier to find and kill other pest species that hide in the same places. | standard pest-control methods can result in some pest species increasing in number after others are eliminated.
 answerText: although islands can be successfully cleared of pests, continued efforts may be needed after the project's completion.
+reviewed: yes
 ---
 【正解】2 although islands can be successfully cleared of pests, continued efforts may be needed after the project's completion.（島から有害動物をうまく取り除くことはできるが、計画が終わったあとも取り組みを続ける必要があるかもしれない（ということ）。）
 【和訳】

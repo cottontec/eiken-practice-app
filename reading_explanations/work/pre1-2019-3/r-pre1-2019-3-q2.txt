@@ -1,0 +1,30 @@
+---
+choices: outraged | conceited | offended | defined
+answerText: conceited
+---
+【正解】2 conceited（うぬぼれた）
+【和訳】
+（英文）
+A: Kaylee is so ［conceited］. She told me that she thinks she's the most beautiful girl in the school.
+B: I know. She also thinks she's the smartest.
+（訳）
+A：ケイリーはとても（うぬぼれている）ね。学校でいちばんきれいな女の子は自分だと思う、って私に言ったよ。
+B：知ってる。自分がいちばん頭がいいとも思っているよね。
+（選択肢の意味）
+1 outraged：激怒した
+2 conceited：うぬぼれた（自分を実際以上にすぐれていると思っている）
+3 offended：気分を害した、腹を立てた
+4 defined：はっきりした、定められた
+【考え方】
+まず見るところ：Aの後ろの文 she thinks she's the most beautiful girl in the school と、Bの She also thinks she's the smartest.
+She told me that she thinks she's the most beautiful girl in the school.（彼女は、自分が学校でいちばんきれいな女の子だと思う、と私に言った）
+She also thinks she's the smartest.（彼女は自分がいちばん頭がいいとも思っている）
+ケイリーは「自分がいちばんきれい」「自分がいちばん頭がいい」と思っています。自分のことをとても高く評価している人なので、「うぬぼれた」という意味の conceited が入り、2が正解です。
+この問題の型：具体例とまとめ（いちばんきれい・いちばん頭がいいと思っている→うぬぼれている）
+【ほかの選択肢】
+1 outraged は「激怒した」です。ケイリーが怒っている様子は会話に書かれていないので合いません。
+3 offended は「気分を害した、腹を立てた」です。ケイリーは自分をほめているだけで、何かに腹を立てているわけではないので合いません。
+4 defined は「はっきりした、定められた」です。「ケイリーはとてもはっきりしている」となり、自分をいちばんだと思っているという話とつながりません。
+【覚えるポイント】
+・conceited：「うぬぼれた」。
+・空所のあとに「その人がどう考えているか」の例が並んでいるときは、その例をひとことでまとめる性格の語を選ぶと手がかりになります。

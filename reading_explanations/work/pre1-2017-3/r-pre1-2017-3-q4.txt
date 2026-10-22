@@ -1,6 +1,7 @@
 ---
 choices: legitimate | aggressive | furious | indifferent
 answerText: indifferent
+reviewed: yes
 ---
 【正解】4 indifferent（無関心な）
 【和訳】

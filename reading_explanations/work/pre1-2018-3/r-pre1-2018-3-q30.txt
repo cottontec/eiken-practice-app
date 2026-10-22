@@ -1,0 +1,29 @@
+---
+choices: are making more money at summer jobs | have started working at a younger age | are more concerned about education | make a serious error
+answerText: are more concerned about education
+---
+【正解】3 are more concerned about education（教育のことをより気にかけている）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 are making more money at summer jobs（夏の仕事でより多くのお金を稼いでいる）
+2 have started working at a younger age（より若い年齢で働き始めている）
+3 are more concerned about education（教育のことをより気にかけている）
+4 make a serious error（重大なまちがいをしている）
+【考え方】
+まず見るところ：第2段落の空所の前の However と、空所のあとの summer school has tripled、taking advanced classes during the summer
+空所の前の文は、かつての親の考えです。
+Parents once encouraged their children to take summer jobs to gain basic skills that would serve them later in the working world.（親たちはかつて、のちに仕事の世界で役に立つ基本的な技術を身につけるために、子どもたちに夏の仕事をするようすすめていた）
+However（しかし）のあとの空所には、「今日の多くの生徒」の、昔とは違う様子が入ります。空所のあとの文を読みます。
+The Bureau of Labor Statistics found that in the last 20 years, the number of 16-to-19-year-olds enrolled in summer school has tripled.（労働統計局の調べによると、この20年間で、サマースクールに登録している16～19歳の若者の数は3倍になった）
+さらに、大学の学位が大切になり授業料も上がったので、many students have realized that taking advanced classes during the summer to win scholarships can be more beneficial than working at a minimum-wage job（多くの生徒は、奨学金を勝ち取るために夏の間に上級の授業を受けることのほうが、最低賃金の仕事で働くよりも有益になりうると気づいた）とあります。
+夏を「働く」ことではなく「勉強する」ことに使う生徒が増えているのですから、生徒たちは教育のことをより気にかけていると言えます。ですから3が正解です。
+この問題の型：具体例とまとめ（サマースクールが3倍・夏に上級の授業 → 教育をより気にかけている）
+【ほかの選択肢】
+1 are making more money at summer jobs（夏の仕事でより多くのお金を稼いでいる）を入れると、次の文以降のサマースクールや授業の話とつながりません。本文には、夏の仕事で稼ぐお金が増えたという話は書かれていません。
+2 have started working at a younger age（より若い年齢で働き始めている）を入れても、あとの文で説明されるのは、夏に勉強する若者が増えたことです。働き始める年齢についての話は書かれていません。
+4 make a serious error（重大なまちがいをしている）を入れると、生徒の選び方がまちがっているという内容になります。しかし、あとの文では、生徒が夏に勉強するほうが有益になりうると気づいた理由が説明されていて、それをまちがいだとする内容は書かれていません。
+【覚えるポイント】
+・be concerned about ～：「～を気にかける、～に関心をもつ」。tripled は「3倍になった」、scholarship は「奨学金（勉強を続けるためにもらえるお金）」です。
+・However のあとに空所があり、そのあとに数字や調査結果（ここでは summer school has tripled）が続くときは、それらの具体的な事実をまとめた内容が空所に入ることが多いです。

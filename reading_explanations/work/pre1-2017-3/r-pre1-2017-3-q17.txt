@@ -1,6 +1,7 @@
 ---
 choices: interrupted | grasped | exiled | decoded
 answerText: exiled
+reviewed: yes
 ---
 【正解】3 exiled（国外へ追放された）
 【和訳】

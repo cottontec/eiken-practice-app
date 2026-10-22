@@ -1,6 +1,7 @@
 ---
 choices: Adding it to 3D-printed tissue helps researchers see which parts of the tissue might need more nutrients. | Once it has been used to create a structure that 3D-printed tissue can be built around, it can easily be removed. | It is capable of flowing to all types of cells in 3D-printed tissue in order to supply them with nutrients. | Because of its unusual properties, it allows 3D-printed tissue to be frozen and stored safely.
 answerText: Once it has been used to create a structure that 3D-printed tissue can be built around, it can easily be removed.
+reviewed: yes
 ---
 【正解】2 Once it has been used to create a structure that 3D-printed tissue can be built around, it can easily be removed.（3Dプリンターで作る組織をそのまわりに組み立てられるような構造を作るのにいったん使われたら、簡単に取り除くことができるから。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: outcast | ambassador | organism | ancestor
 answerText: outcast
+reviewed: yes
 ---
 【正解】1 outcast（のけ者、追い出された人）
 【和訳】

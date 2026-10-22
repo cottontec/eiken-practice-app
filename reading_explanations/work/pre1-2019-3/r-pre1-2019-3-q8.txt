@@ -1,0 +1,30 @@
+---
+choices: struggle | ransom | apparel | courtesy
+answerText: courtesy
+---
+【正解】4 courtesy（礼儀正しさ、丁寧さ）
+【和訳】
+（英文）
+Treating customers with ［courtesy］ is very important. If salespeople are rude or have bad manners, shoppers are unlikely to return to the store.
+（訳）
+客に（礼儀正しく）接することはとても大切だ。もし店員が失礼だったり行儀が悪かったりすれば、買い物客がその店にまた来る可能性は低い。
+（選択肢の意味）
+1 struggle：苦闘（苦しみながらがんばること）、争い
+2 ransom：身代金
+3 apparel：衣服、衣料品
+4 courtesy：礼儀正しさ、丁寧さ
+【考え方】
+まず見るところ：後ろの文の If salespeople are rude or have bad manners
+If salespeople are rude or have bad manners, shoppers are unlikely to return to the store.（もし店員が失礼だったり行儀が悪かったりすれば、買い物客がその店にまた来る可能性は低い）
+rude は「失礼な」、bad manners は「悪い行儀」、be unlikely to ～ は「～しそうにない」という意味です。後ろの文は「失礼な接客をすると客が戻ってこない」と言っています。
+空所のある文は次のとおりです。
+Treating customers with ( ) is very important.（（　）をもって客に接することはとても大切だ）
+失礼な態度がよくないのですから、大切なのはその反対の「礼儀正しさ」です。treat A with courtesy で「Aに礼儀正しく接する」という意味になるので、4が正解です。
+この問題の型：対比（courtesy（礼儀正しさ）⇔ rude / bad manners（失礼・行儀が悪い））
+【ほかの選択肢】
+1 struggle は「苦闘、争い」です。「争いをもって客に接することが大切だ」となり、失礼な態度をいましめる後ろの文とつながりません。
+2 ransom は「身代金」です。「身代金をもって客に接する」となり、意味が通りません。
+3 apparel は「衣服、衣料品」です。後ろの文は店員の態度について述べているので、衣服の話にはつながりません。
+【覚えるポイント】
+・treat A with courtesy：「Aに礼儀正しく接する」。courtesy は rude（失礼な）と反対の意味の語です。
+・後ろの文が「もし～しなければ（ここでは失礼なら）悪いことが起きる」という形のときは、その反対の内容が空所に入らないかを考えると手がかりになります。

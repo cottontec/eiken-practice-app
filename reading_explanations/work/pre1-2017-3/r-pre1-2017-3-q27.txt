@@ -1,6 +1,7 @@
 ---
 choices: waste valuable resources | have little to do with minimalism | can actually increase them | can be harmful to a person
 answerText: can be harmful to a person
+reviewed: yes
 ---
 【正解】4 can be harmful to a person（人に害を与えることがある）
 【和訳】

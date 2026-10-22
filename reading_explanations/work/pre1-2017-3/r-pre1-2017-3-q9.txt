@@ -1,6 +1,7 @@
 ---
 choices: pharmacy | upbringing | conquest | spectacle
 answerText: upbringing
+reviewed: yes
 ---
 【正解】2 upbringing（育ち、生い立ち）
 【和訳】

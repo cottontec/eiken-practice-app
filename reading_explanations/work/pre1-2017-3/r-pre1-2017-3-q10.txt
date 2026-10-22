@@ -1,6 +1,7 @@
 ---
 choices: serene | charitable | eerie | fatal
 answerText: serene
+reviewed: yes
 ---
 【正解】1 serene（穏やかな、のどかな）
 【和訳】

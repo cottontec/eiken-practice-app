@@ -1,0 +1,28 @@
+---
+choices: worsening academic performance | growth in the economy | a decrease in employment opportunities | shifts in moral values
+answerText: a decrease in employment opportunities
+---
+【正解】3 a decrease in employment opportunities（雇用の機会が減っていること）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 worsening academic performance（学校の成績が悪くなっていること）
+2 growth in the economy（経済の成長）
+3 a decrease in employment opportunities（雇用の機会が減っていること）
+4 shifts in moral values（道徳的な価値観の変化）
+【考え方】
+まず見るところ：第3段落の many young graduates have been losing out to these more experienced applicants even for entry-level positions
+空所のある文は Another factor behind the decreasing popularity of summer jobs may be (31).（夏の仕事の人気が下がっているもう一つの要因は、（31）かもしれない）です。第2段落の「教育を気にかけること」に続く、もう一つの理由が空所に入ります。そのくわしい説明は、あとの文に書かれています。
+As older adults are remaining in the workforce longer than ever, many young graduates have been losing out to these more experienced applicants even for entry-level positions.（年上の大人たちがこれまでになく長く働き続けているので、多くの若い卒業生が、初心者向けの仕事でさえ、こうした（自分たちより）経験のある応募者に負けてきている）
+lose out to ～ は「～に負ける、（仕事などを）～に取られる」、entry-level positions は「初心者向けの仕事」です。年上の人たちが働き続けるので、若い人が採用されにくくなっているのです。つまり、若者が雇われる機会が減っていると言えます。
+Consequently, the chance to acquire career-specific skills has become more appealing.（その結果、特定の仕事に必要な技術を身につける機会が、より魅力的なものになってきた）
+すぐあとのこの文も、仕事につきにくいので、給料が出なくても経験を積めるインターンシップを選ぶ、という流れとして読めます。第3段落は、若い人が仕事につく機会が少なくなっていることを説明しているので、3が正解です。
+この問題の型：具体例とまとめ（年上の人に仕事を取られる → 雇用の機会が減っている）
+【ほかの選択肢】
+1 worsening academic performance（学校の成績が悪くなっていること）を入れても、あとの文とつながりません。第3段落に書かれているのは、インターンシップや、年上の応募者に仕事を取られる話で、成績が悪くなったという話はありません。
+2 growth in the economy（経済の成長）を入れると、経済が強くなることが夏の仕事の人気を下げる要因ということになります。しかし本文の最後では、経済が強くなってきている中で、夏の仕事が盛り返す可能性があると書かれていて、人気が下がる要因としては書かれていません。
+4 shifts in moral values（道徳的な価値観の変化）を入れても、あとの文で説明されているのは、年上の人が長く働き続けることや仕事の取り合いの話です。道徳的な価値観の変化については書かれていません。
+【覚えるポイント】
+・employment opportunities：「雇用の機会（雇ってもらえるチャンス）」。lose out to ～ は「～に負ける、～に取られる」です。
+・Another factor（もう一つの要因）の文が空所になっているときは、あとに続く具体的な説明（ここでは若い卒業生が仕事を取られる話）をひとまとめにした言葉を選びましょう。

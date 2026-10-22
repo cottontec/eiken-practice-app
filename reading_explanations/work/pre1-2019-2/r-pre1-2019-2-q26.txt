@@ -1,0 +1,30 @@
+---
+choices: In exchange | Therefore | On the other hand | Furthermore
+answerText: Furthermore
+---
+【正解】4 Furthermore（さらに、そのうえ）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 In exchange（その代わりに、引きかえに）
+2 Therefore（したがって、だから）
+3 On the other hand（一方で、他方では）
+4 Furthermore（さらに、そのうえ）
+【考え方】
+まず見るところ：第1段落の空所の前の pointing out that ～ と、空所のあとの the messages are often contradicted by the images in the ads
+空所の前の文では、専門家の批判が書かれています。
+Some experts, however, are critical of the ads, pointing out that the messages are frequently written in small letters whose colors blend in with the background.（しかし、一部の専門家はこうした広告に批判的で、そのメッセージが小さな文字で書かれていることが多く、その文字の色が背景にとけこんでしまっていると指摘している）
+blend in with ～ は「～にとけこむ、なじんで目立たなくなる」です。つまり「メッセージが目立たない」という1つめの問題点です。
+空所のあとの文は、次のとおりです。
+(26), the messages are often contradicted by the images in the ads.（（26）、そのメッセージは、広告の中の画像と食い違っていることが多い）
+contradict は「～と食い違う、～と矛盾する」です。これは「メッセージと画像が合っていない」という2つめの問題点です。
+どちらも広告への批判で、同じ方向の内容を付け加えています。Furthermore は「さらに、そのうえ」と、前と同じ種類の内容を付け加えるときに使う語なので、4が正解です。
+この問題の型：つなぎの語（同じ方向の批判を付け加える）
+【ほかの選択肢】
+1 In exchange は「その代わりに、引きかえに」です。入れると「文字が目立たない代わりに、画像と食い違う」となりますが、何かと何かを交換する関係ではないので、意味が通りません。
+2 Therefore は「したがって、だから」です。入れると「文字が小さく目立たないので、メッセージが画像と食い違う」という因果（原因と結果）の関係になりますが、文字の大きさや色が原因で画像と食い違うわけではありません。
+3 On the other hand は「一方で」です。前と反対の内容や別の面を比べるときに使います。ここでは前後ともメッセージの問題点を述べた批判なので、比べる関係になりません。
+【覚えるポイント】
+・contradict：「～と食い違う、～と矛盾する」。be contradicted by ～ で「～と食い違っている」。
+・空所の前後がどちらも「批判」や「問題点」で、同じ方向の内容が並んでいるときは、Furthermore（さらに）のような付け加えの語が入る手がかりになります。

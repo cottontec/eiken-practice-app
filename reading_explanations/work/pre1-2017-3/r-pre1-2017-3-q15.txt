@@ -1,6 +1,7 @@
 ---
 choices: currency | custody | collapse | configuration
 answerText: custody
+reviewed: yes
 ---
 【正解】2 custody（拘留、身柄の拘束）
 【和訳】

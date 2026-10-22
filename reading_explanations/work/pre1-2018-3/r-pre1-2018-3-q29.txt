@@ -1,0 +1,28 @@
+---
+choices: In other words | Despite this | For example | Otherwise
+answerText: Despite this
+---
+【正解】2 Despite this（それにもかかわらず）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 In other words（言いかえると）
+2 Despite this（それにもかかわらず）
+3 For example（たとえば）
+4 Otherwise（そうでなければ）
+【考え方】
+まず見るところ：第1段落の空所の前の has generally been regarded as an important step と、空所のあとの roughly half what it was just four decades ago
+空所の前では、夏の仕事がよいものとして考えられてきたことが書かれています。
+As well as being a chance to earn money, the summer job has generally been regarded as an important step in the growing up process because it teaches responsibility and interpersonal skills.（夏の仕事は、お金を稼ぐ機会であるだけでなく、責任感と人づきあいの技術を教えてくれるので、一般に、成長していく過程の大切な一歩だと考えられてきた）
+空所のあとでは、若者の考え方や労働市場の変化が、夏に働く10代の数に強い影響を与えてきたと書かれています。続く文では、その数がどうなったかが分かります。
+Today, approximately one-third of teens have summer jobs—a figure that is roughly half what it was just four decades ago.（今日、10代の若者のおよそ3分の1が夏の仕事をしているが、この数字は、わずか40年前の数字のおよそ半分だ）
+「夏の仕事は大切だと考えられてきた」のに、「夏に働く若者は40年前の半分ほどに減った」という、予想と反対の流れです。this は、空所の前に書かれた「夏の仕事が大切だと考えられてきたこと」を指します。Despite this（それにもかかわらず）が入るので、2が正解です。
+この問題の型：対比（大切だと考えられてきた ⇔ 働く若者は減った）
+【ほかの選択肢】
+1 In other words（言いかえると）を入れると、あとの文が前の文の言いかえになります。しかし、「夏の仕事が大切だと考えられてきた」ことと「変化が働く若者の数に影響を与えた」ことは、同じ内容ではありません。
+3 For example（たとえば）を入れると、あとの文が前の文の例になります。しかし、働く若者の数の変化は、夏の仕事が責任感などを教えてくれることの例ではありません。
+4 Otherwise（そうでなければ）を入れると、「夏の仕事が大切だと考えられていなければ」という意味になり、あとの文の「変化が影響を与えてきた」という事実の説明とつながりません。
+【覚えるポイント】
+・Despite this：「それにもかかわらず」。前の内容から予想されることと反対のことが続くときに使います。
+・つなぎの言葉の空所では、前の文が「よい評価」、あとの文が「減った・うまくいかない」のように、方向が反対になっていないかを確かめましょう。反対の流れなら、Despite this のような逆の内容をつなぐ言葉が入る手がかりになります。

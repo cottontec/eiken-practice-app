@@ -1,6 +1,7 @@
 ---
 choices: fusion | coverage | nonsense | retreat
 answerText: coverage
+reviewed: yes
 ---
 【正解】2 coverage（報道、取材）
 【和訳】

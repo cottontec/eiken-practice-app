@@ -1,6 +1,7 @@
 ---
 choices: instilled | harassed | presumed | disregarded
 answerText: presumed
+reviewed: yes
 ---
 【正解】3 presumed（推定される、一応そうだとみなされる）
 【和訳】

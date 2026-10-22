@@ -1,6 +1,7 @@
 ---
 choices: tolerant | classified | vacant | biased
 answerText: biased
+reviewed: yes
 ---
 【正解】4 biased（かたよった、えこひいきをする）
 【和訳】

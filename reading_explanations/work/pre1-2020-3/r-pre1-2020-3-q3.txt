@@ -1,0 +1,30 @@
+---
+choices: decent | crucial | gracious | intolerable
+answerText: intolerable
+---
+【正解】4 intolerable（耐えられない、がまんできない）
+【和訳】
+（英文）
+Ellen's apartment was cheap, but living there quickly became ［intolerable］. There was no air conditioning, the roof leaked, and the baby next door often cried.
+（訳）
+エレンのアパートは安かったのですが、そこでの生活はすぐに（耐えられない）ものになりました。エアコンがなく、屋根から雨もりがし、隣の家の赤ちゃんがよく泣いていたのです。
+（選択肢の意味）
+1 decent：きちんとした、まずまずの
+2 crucial：極めて重要な
+3 gracious：親切で礼儀正しい、優雅な
+4 intolerable：耐えられない、がまんできない
+【考え方】
+まず見るところ：後半の文の There was no air conditioning, the roof leaked, and the baby next door often cried.
+There was no air conditioning, the roof leaked, and the baby next door often cried.（エアコンがなく、屋根から雨もりがし、隣の家の赤ちゃんがよく泣いていた）
+leak は「（水などが）もれる」という意味です。ここには、アパートでの生活の困ったことが3つ並んでいます。
+空所のある文は次のとおりです。
+Ellen's apartment was cheap, but living there quickly became (　).（エレンのアパートは安かったが、そこでの生活はすぐに（　）になった）
+but（しかし）の前は「安かった」というよい点です。but のあとには、それと反対のよくない内容がくると考えられます。後半の3つの困ったことにも合うのは、「耐えられない」という意味の intolerable です。ですから4が正解です。
+この問題の型：対比（安かった⇔生活は耐えられなくなった）／具体例とまとめ（エアコンなし・雨もり・赤ちゃんの泣き声）
+【ほかの選択肢】
+1 decent は「きちんとした、まずまずの」というよい意味の語です。「安かったが、生活はすぐにまずまずのものになった」では but の前後が反対になりません。後半の困ったことの説明とも合いません。
+2 crucial は「極めて重要な」です。「生活はすぐに極めて重要になった」となり、エアコンがない・雨もりがするといった内容とつながりません。
+3 gracious は「親切で礼儀正しい、優雅な」です。ふつう人の態度や暮らしぶりのよさを表す語で、後半の困ったことの説明と合いません。
+【覚えるポイント】
+・intolerable：「耐えられない、がまんできない」。tolerate（がまんする）に in-（～でない）がついた形です。
+・but の前によい点が書かれていれば、but のあとにはよくない内容がくることが多いです。さらに後ろの文の具体例が、空所に入る語を決める手がかりになります。

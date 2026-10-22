@@ -1,6 +1,7 @@
 ---
 choices: smooth over | burn out | give off | cross out
 answerText: cross out
+reviewed: yes
 ---
 【正解】4 cross out（線を引いて消す）
 【和訳】

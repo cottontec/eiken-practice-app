@@ -1,0 +1,29 @@
+---
+choices: committed | enacted | distinguished | provoked
+answerText: distinguished
+---
+【正解】3 distinguished（distinguish oneself で「際立つ、名をあげる」）
+【和訳】
+（英文）
+The scientist ［distinguished］ himself among his peers through his outstanding achievements. He had received many awards and published a number of books.
+（訳）
+その科学者は、すばらしい業績によって仲間たちの中で（際立った存在になった）。彼はたくさんの賞を受け、何冊もの本を出版していた。
+（選択肢の意味）
+1 committed：（罪などを）犯した、（commit oneself to ～の形で）～に身をささげた
+2 enacted：（法律を）制定した
+3 distinguished：（distinguish oneself の形で）際立った、名をあげた
+4 provoked：（反応などを）引き起こした、（人を）怒らせた
+【考え方】
+まず見るところ：空所の後ろの himself among his peers through his outstanding achievements
+The scientist ( ) himself among his peers through his outstanding achievements.（その科学者は、すばらしい業績によって仲間たちの中で自分を（　））
+peers は「仲間（同じ分野・立場の人たち）」、outstanding は「目立ってすぐれた」、achievements は「業績（なしとげたこと）」という意味です。
+He had received many awards and published a number of books.（彼はたくさんの賞を受け、何冊もの本を出版していた）
+賞をたくさん受け、本も多く出しているので、この科学者はほかの研究者たちの中で目立つ存在だったことが分かります。distinguish oneself で「際立つ、名をあげる」という意味になるので、3が正解です。
+この問題の型：熟語・決まった形（distinguish oneself）／具体例とまとめ（賞・本→際立った）
+【ほかの選択肢】
+1 committed は「（罪などを）犯した」です。commit oneself は「身をささげる、約束する」という意味で、ふつうは後ろに to ～ が続きます。この文には to ～ がなく、「仲間の中で自分を犯した」となり意味が通りません。
+2 enacted は「（法律を）制定した」です。「業績によって自分を制定した」となり、意味が通りません。
+4 provoked は「引き起こした、怒らせた」です。「業績によって自分を怒らせた」となり、賞を受けたという後ろの文とつながりません。
+【覚えるポイント】
+・distinguish oneself：「際立つ、名をあげる」。among his peers（仲間の中で）と一緒に使われています。
+・空所のすぐ後ろに himself のような「自分自身」を表す語があるときは、動詞と oneself の組み合わせで意味が決まる形を考えることが手がかりになります。

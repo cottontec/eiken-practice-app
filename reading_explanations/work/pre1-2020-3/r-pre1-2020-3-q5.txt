@@ -1,0 +1,30 @@
+---
+choices: haze | canal | frailty | statistic
+answerText: frailty
+---
+【正解】3 frailty（体の弱さ、衰え）
+【和訳】
+（英文）
+As his grandmother's physical ［frailty］ became more of a concern, Stuart encouraged her to move into a nursing home.
+（訳）
+祖母の体の（弱さ）がより大きな心配になるにつれて、スチュアートは祖母に老人ホームに入るようすすめました。
+（選択肢の意味）
+1 haze：もや、かすみ
+2 canal：運河
+3 frailty：体の弱さ、衰え
+4 statistic：統計の数値
+【考え方】
+まず見るところ：文の後半の Stuart encouraged her to move into a nursing home
+Stuart encouraged her to move into a nursing home（スチュアートは祖母に老人ホームに入るようすすめた）
+encourage ～ to ... は「～に…するようすすめる」、nursing home は「老人ホーム（お年寄りが世話を受けながら暮らす施設）」です。お年寄りに老人ホームをすすめるのは、体が弱ってきて一人で暮らすのが心配なときだと考えられます。
+空所の前の physical は「体の」という意味です。
+As his grandmother's physical (　) became more of a concern（祖母の体の（　）がより大きな心配になるにつれて）
+「体の弱さが心配になったので老人ホームをすすめた」とすると、話がつながります。frailty は「（体の）弱さ、衰え」という意味なので、3が正解です。
+この問題の型：語の意味・組み合わせ（physical frailty）／因果（体が弱った→老人ホームをすすめた）
+【ほかの選択肢】
+1 haze は「もや、かすみ」です。「祖母の体のもや」となり、意味が通りません。
+2 canal は「運河（船が通るために作られた水路）」です。「祖母の体の運河」となり、意味が通りません。
+4 statistic は「統計の数値（数を集めて調べた結果の1つ）」です。「祖母の体の統計の数値が心配になった」では、何が心配なのかがはっきりせず、老人ホームをすすめる理由として自然につながりません。
+【覚えるポイント】
+・frailty：「（体の）弱さ、衰え」。形容詞（名詞のようすを表す語）は frail（弱々しい、もろい）です。
+・文の後半に「老人ホームをすすめた」のような行動が書かれていれば、前半にはその行動の理由がくることが多いので、行動から理由を考えると手がかりになります。

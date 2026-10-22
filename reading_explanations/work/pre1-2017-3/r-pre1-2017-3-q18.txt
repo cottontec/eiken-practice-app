@@ -1,6 +1,7 @@
 ---
 choices: anxious | suspicious | devious | nutritious
 answerText: nutritious
+reviewed: yes
 ---
 【正解】4 nutritious（栄養のある）
 【和訳】

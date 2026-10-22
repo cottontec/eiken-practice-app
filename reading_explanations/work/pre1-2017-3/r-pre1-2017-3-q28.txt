@@ -1,6 +1,7 @@
 ---
 choices: are unwilling to help them | do not need to worry about this | refuse to use their wealth | reject this argument
 answerText: do not need to worry about this
+reviewed: yes
 ---
 【正解】2 do not need to worry about this（このことを心配する必要がない）
 【和訳】

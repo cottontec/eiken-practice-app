@@ -1,6 +1,7 @@
 ---
 choices: has hurt the government's popularity | could affect growth in the future | has come with a hidden benefit | shows signs of improving
 answerText: could affect growth in the future
+reviewed: yes
 ---
 【正解】2 could affect growth in the future（将来の成長に影響するかもしれない）
 【和訳】

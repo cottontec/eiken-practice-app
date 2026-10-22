@@ -1,6 +1,7 @@
 ---
 choices: started a nationwide trend | affected other cities even more | was actually an advantage | was being criticized internationally
 answerText: was actually an advantage
+reviewed: yes
 ---
 【正解】3 was actually an advantage（実は有利な点だった）
 【和訳】

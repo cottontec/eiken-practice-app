@@ -1,6 +1,7 @@
 ---
 choices: drenched | congested | relieved | splintered
 answerText: congested
+reviewed: yes
 ---
 【正解】2 congested（混雑した、渋滞した）
 【和訳】

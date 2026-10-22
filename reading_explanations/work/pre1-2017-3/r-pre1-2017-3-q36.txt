@@ -1,6 +1,7 @@
 ---
 choices: The government was able to provide high salaries for workers who could build and maintain residents' homes. | It required families to earn an income, so communities did not have to rely on financial help from the government. | Poor people began learning practical skills at educational institutions, which allowed them to find work all over the city. | It created a demand for construction supplies, which encouraged some residents to start new businesses locally.
 answerText: It created a demand for construction supplies, which encouraged some residents to start new businesses locally.
+reviewed: yes
 ---
 【正解】4 It created a demand for construction supplies, which encouraged some residents to start new businesses locally.（その計画は建築資材の需要を生み、そのことが、一部の住民が地元で新しい事業を始めるきっかけになった。）
 【和訳】

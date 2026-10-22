@@ -1,6 +1,7 @@
 ---
 choices: It was generally successful in areas where citizens, rather than government officials, decided on property boundaries. | It was a two-stage program that had some success between 1940 and 1960 but began to fail after its second stage began in 1965. | After it was first introduced, it changed over time to provide people with less and less assistance from the government. | From its first planning stages, it aimed to distribute plots of land to the poor rather than provide actual housing.
 answerText: After it was first introduced, it changed over time to provide people with less and less assistance from the government.
+reviewed: yes
 ---
 【正解】3 After it was first introduced, it changed over time to provide people with less and less assistance from the government.（初めて導入されたあと、その計画は時がたつにつれて変わり、人々への政府からの援助はだんだん少なくなっていった。）
 【和訳】

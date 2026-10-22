@@ -1,6 +1,7 @@
 ---
 choices: picked through | carried through | pulled in | tidied up
 answerText: pulled in
+reviewed: yes
 ---
 【正解】3 pulled in（（列車が）駅に入ってきた、到着した）
 【和訳】

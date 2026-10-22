@@ -1,6 +1,7 @@
 ---
 choices: allow patients to receive new organs without having to take drugs that prevent their immune system from rejecting the new tissue. | allow doctors to create new types of cells that would greatly shorten the time needed to grow organs in the laboratory. | assist in repairing damaged organs received from donors in order to increase the supply of organs available for transplant. | alter the structure of tissues from organ donors so that the reproduction of cells would occur more efficiently.
 answerText: allow patients to receive new organs without having to take drugs that prevent their immune system from rejecting the new tissue.
+reviewed: yes
 ---
 【正解】1 allow patients to receive new organs without having to take drugs that prevent their immune system from rejecting the new tissue.（患者が、免疫システムが新しい組織を拒絶するのを防ぐ薬を飲まなくても、新しい臓器を受け取れるようにする（可能性がある）。）
 【和訳】

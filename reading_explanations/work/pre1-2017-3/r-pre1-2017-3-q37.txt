@@ -1,6 +1,7 @@
 ---
 choices: The division of social classes it caused had a bigger impact on Chilean society than the neighborhoods it created. | The poor condition of the homes that were built increased awareness of poverty and social inequality in South America. | Being provided with only a place to live was not enough to give poor people a long-term sense of stability in Chilean society. | It led to the establishment of stable, well-organized housing for the poor, which other large South American cities could not achieve.
 answerText: It led to the establishment of stable, well-organized housing for the poor, which other large South American cities could not achieve.
+reviewed: yes
 ---
 【正解】4 It led to the establishment of stable, well-organized housing for the poor, which other large South American cities could not achieve.（その計画は、貧しい人々のための、安定して整然とした住宅地を作ることにつながった。それは、ほかの南アメリカの大都市にはなしとげられなかったことだ。）
 【和訳】
@@ -29,7 +30,7 @@ slum は「スラム（貧しい人々が住む、建物が古くて荒れた地
 【ほかの選択肢】
 1 本文と合いません。階級の分断は、批判する人たちの指摘として書かれています。筆者は全体として計画を評価しており、分断のほうが住宅地より大きな影響を与えたとは述べていません。
 2 本文と反対です。筆者は、多くの家が well maintained（手入れが行き届いている）と述べており、家の状態が悪かったとは書かれていません。南アメリカで貧困への関心が高まったという話もありません。
-3 本文と合いません。「土地を与えるだけでは足りない」という考えは、第3段落の前半の Many people claimed ～（多くの人々が主張した）として書かれた批判です。筆者は、今でも多くの人々が与えられた土地に住んでいると述べ、計画を評価しています。
+3 本文と合いません。「政府の援助なしに土地だけを与えるのは侮辱だ」という批判は、第3段落の前半の Many people claimed ～（多くの人々が主張した）として紹介されていますが、貧しい人々が長い間安定していると感じられなかった、とは書かれていません。筆者は、今でも多くの人々が与えられた土地に住んでいると述べ、計画を評価しています。
 【覚えるポイント】
 ・on balance：「全体として見れば」。よい点と悪い点の両方を考えたうえでの結論を述べるときに使います。
 ・「筆者の考え」をたずねる設問では、批判を紹介した部分（Critics also note ～ など）と、Nevertheless のあとの筆者自身の評価を区別して読むのが手がかりになります。

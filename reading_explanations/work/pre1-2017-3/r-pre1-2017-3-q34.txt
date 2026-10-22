@@ -1,6 +1,7 @@
 ---
 choices: the development of a type of poison that does not harm deer and birds if they eat it. | a technology that will pose less of a danger to other animals that inhabit areas near the pests. | drone technology that enables scientists to find and remove pests without killing them. | a warning system that will keep non-pest species away from areas where poison has been introduced.
 answerText: a technology that will pose less of a danger to other animals that inhabit areas near the pests.
+reviewed: yes
 ---
 【正解】2 a technology that will pose less of a danger to other animals that inhabit areas near the pests.（有害動物の近くの地域に住むほかの動物にとって、より危険の少ない技術。）
 【和訳】

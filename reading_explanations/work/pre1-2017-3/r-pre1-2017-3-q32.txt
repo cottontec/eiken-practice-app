@@ -1,6 +1,7 @@
 ---
 choices: It will cost more than estimated because of the side effects on agriculture and the environment. | It is too expensive for the government to pay for now but could be introduced several decades in the future. | It is a good idea, but planned reductions in spending mean it will only be possible in certain areas. | It will bring financial benefits that would make up for the cost of carrying it out.
 answerText: It will bring financial benefits that would make up for the cost of carrying it out.
+reviewed: yes
 ---
 【正解】4 It will bring financial benefits that would make up for the cost of carrying it out.（その計画は、実行する費用を埋め合わせるような、お金の面での利益をもたらすだろう。）
 【和訳】

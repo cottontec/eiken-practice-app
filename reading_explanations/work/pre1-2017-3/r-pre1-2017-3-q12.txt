@@ -1,6 +1,7 @@
 ---
 choices: depiction | grain | oppression | unrest
 answerText: depiction
+reviewed: yes
 ---
 【正解】1 depiction（描写）
 【和訳】

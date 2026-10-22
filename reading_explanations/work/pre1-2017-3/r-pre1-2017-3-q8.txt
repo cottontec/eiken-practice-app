@@ -1,6 +1,7 @@
 ---
 choices: integral | finite | improper | desirable
 answerText: improper
+reviewed: yes
 ---
 【正解】3 improper（不適切な、失礼な）
 【和訳】

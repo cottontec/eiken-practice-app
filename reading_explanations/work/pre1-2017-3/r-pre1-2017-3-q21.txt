@@ -1,6 +1,7 @@
 ---
 choices: transmitting | conforming | detaining | chilling
 answerText: transmitting
+reviewed: yes
 ---
 【正解】1 transmitting（（病気を）うつすこと、伝えること）
 【和訳】

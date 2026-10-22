@@ -1,6 +1,7 @@
 ---
 choices: tempting | genetic | federal | bossy
 answerText: tempting
+reviewed: yes
 ---
 【正解】1 tempting（心をひかれる、魅力的な）
 【和訳】
@@ -9,7 +10,7 @@ A: Erica, do you want to go out and eat Chinese food tonight?
 B: I love Chinese food, so that's very ［tempting］, but I have to stay in and study for a test.
 （訳）
 A：エリカ、今夜、出かけて中華料理を食べない？
-B：中華料理は大好きだから、それはとても（心ひかれる）けれど、家にいてテストの勉強をしなければいけないんだ。
+B：中華料理は大好きだから、それはとても（心ひかれる）けれど、家にいてテストの勉強をしなければいけないよ。
 （選択肢の意味）
 1 tempting：心をひかれる、（ついそうしたくなるほど）魅力的な
 2 genetic：遺伝の、遺伝子の

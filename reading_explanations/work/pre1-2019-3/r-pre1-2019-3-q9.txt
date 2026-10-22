@@ -1,0 +1,29 @@
+---
+choices: subtle | touchy | vulgar | hectic
+answerText: hectic
+---
+【正解】4 hectic（非常に忙しい、あわただしい）
+【和訳】
+（英文）
+In the morning, the café was quiet, but at lunchtime it became much more ［hectic］. The waitstaff had to rush back and forth taking and delivering orders.
+（訳）
+朝、そのカフェは静かだったが、昼食の時間には（朝より）ずっと（あわただしく）なった。接客係たちは、注文を取ったり運んだりしながら、急いで行ったり来たりしなければならなかった。
+（選択肢の意味）
+1 subtle：かすかな、微妙な
+2 touchy：怒りっぽい、気難しい
+3 vulgar：下品な
+4 hectic：非常に忙しい、あわただしい
+【考え方】
+まず見るところ：前半の the café was quiet, but と、後ろの文の rush back and forth
+In the morning, the café was quiet, but at lunchtime it became much more ( ).（朝、そのカフェは静かだったが、昼食の時間には（朝より）ずっと（　）なった）
+but（しかし）があるので、昼食の時間の様子は「静かだった」朝とは違うものになるはずです。
+The waitstaff had to rush back and forth taking and delivering orders.（接客係たちは、注文を取ったり運んだりしながら、急いで行ったり来たりしなければならなかった）
+rush は「急いで動く」、back and forth は「行ったり来たり」という意味です。店員が走り回るほど、とても忙しかったことが分かります。hectic は「非常に忙しい、あわただしい」なので、4が正解です。
+この問題の型：対比（but：静か⇔あわただしい）／具体例とまとめ（急いで行ったり来たり→hectic）
+【ほかの選択肢】
+1 subtle は「かすかな、微妙な」です。「昼にはずっとかすかになった」となり、店員が走り回っている様子と合いません。
+2 touchy は「怒りっぽい、気難しい」で、主に人の性格を表す語です。カフェが怒りっぽくなったという話ではないので合いません。
+3 vulgar は「下品な」です。後ろの文は店の忙しさを述べているので、下品になったという話にはつながりません。
+【覚えるポイント】
+・hectic：「非常に忙しい、あわただしい」。quiet（静かな）と対比されています。
+・空所の次の文に具体的な様子（ここでは rush back and forth）が書かれているときは、その様子をひとことで表す語を選ぶことが手がかりになります。

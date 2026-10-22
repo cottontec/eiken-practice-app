@@ -1,6 +1,7 @@
 ---
 choices: refrain | enforce | scold | curb
 answerText: refrain
+reviewed: yes
 ---
 【正解】1 refrain（控える、やめる）
 【和訳】

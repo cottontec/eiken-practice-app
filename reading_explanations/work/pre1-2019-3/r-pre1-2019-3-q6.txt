@@ -1,0 +1,30 @@
+---
+choices: striking | preceding | binding | dripping
+answerText: binding
+---
+【正解】3 binding（拘束力のある）
+【和訳】
+（英文）
+The company president asked a lawyer to find out if the contract was ［binding］. The contract was not profitable, so he was hoping his company could cancel it early.
+（訳）
+その会社の社長は、その契約に（拘束力がある）かどうかを調べるよう弁護士に頼んだ。その契約は利益にならなかったので、社長は自分の会社がそれを早めに解約できることを望んでいた。
+（選択肢の意味）
+1 striking：目立つ、印象的な
+2 preceding：前の、先の
+3 binding：拘束力のある（守らなければならず、勝手にやめられない）
+4 dripping：しずくがたれている、びしょぬれの
+【考え方】
+まず見るところ：後ろの文の he was hoping his company could cancel it early
+The contract was not profitable, so he was hoping his company could cancel it early.（その契約は利益にならなかったので、彼は自分の会社がそれを早めに解約できることを望んでいた）
+profitable は「利益になる、もうかる」、cancel は「取り消す、解約する」という意味です。社長は、もうからない契約を早くやめたいと思っています。
+空所のある文は次のとおりです。
+asked a lawyer to find out if the contract was ( )（その契約が（　）かどうかを調べるよう弁護士に頼んだ）
+契約をやめたい社長が弁護士に確かめたいのは、「その契約は必ず守らなければならないものか（やめられないものか）」ということだと考えられます。binding は「拘束力のある（守る義務がある）」という意味なので、3が正解です。
+この問題の型：因果（so：もうからない→早くやめたい→やめられるか調べる）
+【ほかの選択肢】
+1 striking は「目立つ、印象的な」です。契約を早くやめたい社長が、契約が目立つかどうかを弁護士に調べてもらう理由がありません。
+2 preceding は「前の、先の」です。「契約が前のものかどうか」となり、解約できるかどうかという話とつながりません。
+4 dripping は「しずくがたれている」です。契約について使うと意味が通りません。
+【覚えるポイント】
+・binding：「拘束力のある」。a binding contract は「守る義務のある契約」です。
+・空所の文の次の文に、その人が「何をしたいのか」（ここでは cancel it early）が書かれているときは、その目的のために確かめることは何かを考えると手がかりになります。

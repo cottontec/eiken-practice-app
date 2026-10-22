@@ -1,0 +1,29 @@
+---
+choices: Nevertheless | By contrast | Surprisingly | In short
+answerText: In short
+---
+【正解】4 In short（要するに、手短に言えば）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Nevertheless（それにもかかわらず）
+2 By contrast（それとは対照的に）
+3 Surprisingly（驚いたことに）
+4 In short（要するに、手短に言えば）
+【考え方】
+まず見るところ：第1段落の空所の前の paying developing countries not to cut down trees と Additional financial incentives、空所のあとの based on how much they can reduce overall deforestation
+空所は第1段落の最後の文の初めにあります。つなぎの言葉を選ぶ空所なので、前の文とあとの文がどんな関係になっているかを確かめます。
+The plan involves paying developing countries not to cut down trees.（この計画では、開発途上国に、木を切り倒さないことに対してお金を支払う）
+Additional financial incentives are provided to plant trees in areas that have been logged or where there were no trees before.（木が伐採された地域や、以前は木がなかった地域に木を植えることに対しても、追加の金銭的な奨励金が与えられる）
+前の2つの文は、「木を切らなければお金がもらえる」「木を植えればさらにお金がもらえる」という、支払いの具体的な中身です。
+(26), countries receive funding of various amounts based on how much they can reduce overall deforestation.（（26）、各国は、森林破壊全体をどれだけ減らせるかにもとづいて、さまざまな額の資金を受け取る）
+あとの文は、それらをひとまとめにして「森林破壊をどれだけ減らせたかで、もらえる額が決まる」と言っています。段落の初めの performance-based（成果にもとづいた）という説明とも同じ内容です。前の具体的な説明を短くまとめているので、In short（要するに）が入り、4が正解です。
+この問題の型：具体例とまとめ（切らない・植える → 要するに、減らせた分だけ資金がもらえる）
+【ほかの選択肢】
+1 Nevertheless（それにもかかわらず）を入れると、前の内容と反対のことが続く形になります。しかし、あとの文は前の支払いの仕組みと食い違う内容ではなく、同じ仕組みをまとめたものなので、つながりません。
+2 By contrast（それとは対照的に）を入れると、前の内容とあとの内容を比べて違いを示す形になります。あとの文は前の内容と対立するものではないので、合いません。
+3 Surprisingly（驚いたことに）を入れると、あとの文が意外な事実ということになります。しかし、減らせた分だけ資金がもらえることは、段落の初めの performance-based（成果にもとづいた）から予想できる内容で、驚くような話ではありません。
+【覚えるポイント】
+・In short：「要するに、手短に言えば」。前に書いた具体的な内容を短くまとめるときに使います。
+・つなぎの言葉の空所では、あとの文が前の内容と「反対」か「比べている」か「まとめている」かを確かめましょう。あとの文が前の内容をひとまとめにした言い方（ここでは based on how much they can reduce）になっていれば、まとめの言葉の手がかりになります。

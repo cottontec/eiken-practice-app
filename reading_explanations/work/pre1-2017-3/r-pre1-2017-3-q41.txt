@@ -1,6 +1,7 @@
 ---
 choices: Exaggerated claims made in order to increase interest in the research could result in people having a negative image of the field. | Because artificial organs are so complex and difficult to understand, simpler explanations of their functions are needed. | Researchers must give demonstrations of the 3D printing of organs so people can see for themselves how important the research is. | Researchers must remember that people doubt the medical potential of 3D printing because they mainly associate it with nonliving objects.
 answerText: Exaggerated claims made in order to increase interest in the research could result in people having a negative image of the field.
+reviewed: yes
 ---
 【正解】1 Exaggerated claims made in order to increase interest in the research could result in people having a negative image of the field.（研究への関心を高めるためになされる大げさな主張は、人々がその分野に悪い印象を持つ結果になりうる。）
 【和訳】

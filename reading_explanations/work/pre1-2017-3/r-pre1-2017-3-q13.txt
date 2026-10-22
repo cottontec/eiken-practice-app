@@ -1,13 +1,14 @@
 ---
 choices: drain | subscribe | propel | reconstruct
 answerText: reconstruct
+reviewed: yes
 ---
 【正解】4 reconstruct（再建する、作り直す）
 【和訳】
 （英文）
 Although many of the bones in Drew's hand were crushed in the accident, his surgeon was able to ［reconstruct］ it. Today, he is able to use it normally, and it looks as if it had never been injured.
 （訳）
-ドリューの手の骨の多くは事故でつぶれてしまいましたが、彼の担当の外科医は、その手を（再建する）ことができました。今では、彼はその手をふつうに使うことができ、まるで一度もけがをしたことがないかのように見えます。
+ドリューの手の骨の多くは事故でつぶれてしまいましたが、彼の外科医は、その手を（再建する）ことができました。今では、彼はその手をふつうに使うことができ、まるで一度もけがをしたことがないかのように見えます。
 （選択肢の意味）
 1 drain：（液体を）抜く、流し出す
 2 subscribe：（雑誌などを）定期購読する、申しこむ

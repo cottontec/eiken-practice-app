@@ -1,6 +1,7 @@
 ---
 choices: In spite of this | As a result | Furthermore | Similarly
 answerText: In spite of this
+reviewed: yes
 ---
 【正解】1 In spite of this（それにもかかわらず）
 【和訳】

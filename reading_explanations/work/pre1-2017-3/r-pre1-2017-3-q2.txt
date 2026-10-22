@@ -1,6 +1,7 @@
 ---
 choices: degrade | deprive | detach | decline
 answerText: detach
+reviewed: yes
 ---
 【正解】3 detach（切り離す、取り外す）
 【和訳】

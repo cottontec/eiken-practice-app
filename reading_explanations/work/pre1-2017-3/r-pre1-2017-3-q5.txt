@@ -1,6 +1,7 @@
 ---
 choices: heap | flaw | nuance | sequel
 answerText: heap
+reviewed: yes
 ---
 【正解】1 heap（山、積み重なったもの）
 【和訳】

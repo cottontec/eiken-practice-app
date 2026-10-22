@@ -1,0 +1,30 @@
+---
+choices: ample | premature | stale | resolute
+answerText: ample
+---
+【正解】1 ample（十分な、たっぷりある）
+【和訳】
+（英文）
+Although the students were given ［ample］ time to complete their assignment, several were late in handing it in and received a lower grade as a result.
+（訳）
+生徒たちは課題を仕上げるのに（十分な）時間を与えられていたが、何人かは提出が遅れ、その結果、より低い成績をもらった。
+（選択肢の意味）
+1 ample：十分な、たっぷりある
+2 premature：早すぎる
+3 stale：新鮮でない、古くなった
+4 resolute：決意の固い、断固とした
+【考え方】
+まず見るところ：文の始めの Although と、後半の several were late in handing it in
+Although the students were given ( ) time to complete their assignment（生徒たちは課題を仕上げるのに（　）時間を与えられていたが）
+Although は「～だけれども」という意味で、前半と後半が予想と食い違う関係になることを示します。
+several were late in handing it in and received a lower grade as a result（何人かは提出が遅れ、その結果、より低い成績をもらった）
+hand in は「提出する」という意味です。後半は「提出が遅れた」という内容です。「時間が足りなかったので遅れた」なら Although でつなぐ必要はありません。「時間はたっぷりあったのに遅れた」と考えると、Although の前後が食い違う関係になります。ample は「十分な、たっぷりある」なので、1が正解です。
+lower grade（より低い成績）は、期限どおりに出した場合と比べて低い、ということだと考えられます。
+この問題の型：対比（Although：時間は十分あった⇔提出が遅れた）
+【ほかの選択肢】
+2 premature は「早すぎる」です。「早すぎる時間を与えられたが遅れた」となり、意味が通りません。
+3 stale は「新鮮でない、古くなった」で、食べ物や空気などに使う語です。「古くなった時間」となり、意味が通りません。
+4 resolute は「決意の固い」で、人の気持ちや態度を表す語です。「決意の固い時間」となり、意味が通りません。
+【覚えるポイント】
+・ample：「十分な、たっぷりある」。ample time で「十分な時間」です。
+・Although ～, ... の文では、前半と後半が食い違う関係になるので、後半（ここでは提出が遅れた）と食い違う内容になる語を選ぶことが手がかりになります。

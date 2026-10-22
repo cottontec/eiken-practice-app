@@ -1,6 +1,7 @@
 ---
 choices: seize | omit | thaw | insure
 answerText: omit
+reviewed: yes
 ---
 【正解】2 omit（省く、抜かす）
 【和訳】
