@@ -1,6 +1,7 @@
 ---
 choices: livestock | fertilizer | compulsion | burden
 answerText: fertilizer
+reviewed: yes
 ---
 【正解】2 fertilizer（肥料）
 【和訳】

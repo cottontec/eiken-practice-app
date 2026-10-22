@@ -1,6 +1,7 @@
 ---
 choices: They tend to believe that energy-efficiency upgrades to their homes are more costly than they really are. | They are forced to reduce their spending on food because of the high cost of heating in winter. | They spend far less money on heating in winter than they spend on air conditioning in summer. | They spend an average of 30 percent less on heating and cooling than people with middle or high incomes.
 answerText: They are forced to reduce their spending on food because of the high cost of heating in winter.
+reviewed: yes
 ---
 【正解】2 They are forced to reduce their spending on food because of the high cost of heating in winter.（冬の暖房費が高いために、食べ物にかけるお金を減らさざるをえない。）
 【和訳】

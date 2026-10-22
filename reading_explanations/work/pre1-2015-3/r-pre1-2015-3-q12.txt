@@ -1,6 +1,7 @@
 ---
 choices: conceded | converged | contrasted | confined
 answerText: converged
+reviewed: yes
 ---
 【正解】2 converged（集まった、集中した）
 【和訳】

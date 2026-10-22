@@ -1,6 +1,7 @@
 ---
 choices: found a substitute for Caulerpa | adapted to Caulerpa's presence | had to deal with many types of Caulerpa | stopped a Caulerpa invasion
 answerText: stopped a Caulerpa invasion
+reviewed: yes
 ---
 【正解】4 stopped a Caulerpa invasion（カウレルパの侵入を食い止めた）
 【和訳】

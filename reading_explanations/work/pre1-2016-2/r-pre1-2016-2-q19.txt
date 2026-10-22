@@ -7,7 +7,7 @@ answerText: vulnerable
 （英文）
 The farming community is located in a low-lying area near a river, which makes it ［vulnerable］ to the effects of flooding.
 （訳）
-その農村は川の近くの低い土地にあり、そのことによって、洪水の影響を（受けやすく）なっている。
+その農村は川の近くの低い土地にあり、そのことが、その農村を洪水の影響を（受けやすい）ものにしている。
 （選択肢の意味）
 1 disagreeable：不愉快な、感じの悪い
 2 vulnerable：（被害などを）受けやすい、弱い

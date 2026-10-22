@@ -1,6 +1,7 @@
 ---
 choices: Economic changes made it possible for workers to buy cars, giving them more options regarding their place of work. | A series of strikes hurt business owners, making them realize workers would no longer accept the conditions in company towns. | The government made laws restricting the ability of companies to set overly high prices at company stores. | Changes in public opinion about company towns convinced industrialists to look for new ways to bring workers to isolated areas.
 answerText: Economic changes made it possible for workers to buy cars, giving them more options regarding their place of work.
+reviewed: yes
 ---
 【正解】1 Economic changes made it possible for workers to buy cars, giving them more options regarding their place of work.（経済の変化によって、労働者は自動車を買えるようになり、働く場所について（以前より）多くの選択肢を持てるようになった。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: reason for making a purchase | amount of money spent | time spent deciding what to purchase | amount of demand for an item
 answerText: reason for making a purchase
+reviewed: yes
 ---
 【正解】1 reason for making a purchase（買い物をする理由）
 【和訳】

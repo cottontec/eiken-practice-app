@@ -1,0 +1,33 @@
+---
+choices: Grouping together sufferers of different eating disorders during treatment can cause unnecessary stress for these patients. | The range of foods consumed by sufferers of different eating disorders is too great to put any two of these disorders into the same category. | Orthorexia is caused by social and psychological problems that are more complex than those related to other eating disorders. | The consequences of orthorexia are generally not as severe as those of more dangerous eating disorders such as anorexia nervosa.
+answerText: The consequences of orthorexia are generally not as severe as those of more dangerous eating disorders such as anorexia nervosa.
+---
+【正解】4 The consequences of orthorexia are generally not as severe as those of more dangerous eating disorders such as anorexia nervosa.（オルトレキシアがもたらす結果は、ふつう、神経性やせ症のような、（オルトレキシアより）危険な摂食障害がもたらす結果ほど深刻ではない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Why do some people feel orthorexia should have its own classification as an eating disorder?（オルトレキシアは摂食障害として独自の分類にすべきだと考える人がいるのはなぜですか。）
+1 Grouping together sufferers of different eating disorders during treatment can cause unnecessary stress for these patients.（治療の間、異なる摂食障害に苦しむ人をひとまとめにすると、その患者たちに不必要なストレスを与えることがある。）
+2 The range of foods consumed by sufferers of different eating disorders is too great to put any two of these disorders into the same category.（異なる摂食障害に苦しむ人が食べる食品の幅はあまりに広いので、これらの障害のうちどの2つも同じ分類に入れることはできない。）
+3 Orthorexia is caused by social and psychological problems that are more complex than those related to other eating disorders.（オルトレキシアは、ほかの摂食障害に関係する問題より複雑な、社会的・心理的な問題によって引き起こされる。）
+4 The consequences of orthorexia are generally not as severe as those of more dangerous eating disorders such as anorexia nervosa.（オルトレキシアがもたらす結果は、ふつう、神経性やせ症のような、（オルトレキシアより）危険な摂食障害がもたらす結果ほど深刻ではない。）
+【考え方】
+まず見るところ：第3段落の Others feel orthorexia should be in a separate category. のあとの2つの文
+第3段落の後半に、別の分類にすべきだと考える人々の理由が書かれています。
+Others feel orthorexia should be in a separate category.（一方、オルトレキシアは別の分類にすべきだと考える人々もいる）
+Whereas anorexics' unhealthy focus on weight loss places them at risk of starvation, orthorexia sufferers are willing to eat as long as the foods fall into certain categories.（神経性やせ症の人は体重を減らすことへの不健全なこだわりのために飢える危険にさらされるが、オルトレキシアに苦しむ人は、食べ物が特定の種類に入っているかぎり、進んで食べる）
+Although orthorexia is associated with psychological stress and strained relationships, it does not usually put the sufferer's life in danger.（オルトレキシアは心理的なストレスや人間関係の悪化と関連してはいるものの、たいていは本人の命を危険にさらすことはない）
+anorexics は「神経性やせ症の人」、starvation は「飢え」、as long as ～ は「～であるかぎり」です。神経性やせ症は命にかかわることがあるのに対し、オルトレキシアはたいてい命の危険まではない、という違いが理由になっています。
+本文と選択肢4を対にすると、次のようになります。
+本文 it does not usually put the sufferer's life in danger（たいていは本人の命を危険にさらすことはない）→ 選択肢 The consequences of orthorexia are generally not as severe（オルトレキシアの結果は、ふつう～ほど深刻ではない）
+本文 anorexics' unhealthy focus on weight loss places them at risk of starvation（神経性やせ症の人は飢える危険にさらされる）→ 選択肢 more dangerous eating disorders such as anorexia nervosa（神経性やせ症のような、より危険な摂食障害）
+「命の危険がないことが多い」ことを、選択肢では神経性やせ症と比べて「それほど深刻ではない」と表しています。よって4が正解です。
+この問題の型：対比（神経性やせ症：飢える危険⇔オルトレキシア：たいてい命の危険はない）／言いかえ（does not usually put life in danger→generally not as severe）
+【ほかの選択肢】
+1 本文にない内容です。治療のときに患者をひとまとめにするという話は書かれていません。
+2 本文にない内容で、言い切りすぎでもあります。本文は神経性やせ症とオルトレキシアの食べ方の違いを述べているだけで、「どの2つの摂食障害も同じ分類に入れられない」とは書かれていません。
+3 本文にない内容です。第3段落の「社会の流行」の話は、オルトレキシアを根底にある心の病気の表れと考える側（後者の主張）の説明です。また、ほかの摂食障害より原因が複雑だと比べた話もありません。
+【覚えるポイント】
+・as long as ～：「～であるかぎり」。
+・「なぜ～と考える人がいるのか」という設問では、Others feel ～ のようにその人々が登場した直後の文を読み、Whereas や Although で比べられている2つの違いを選択肢と照らし合わせると手がかりになります。

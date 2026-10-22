@@ -1,6 +1,7 @@
 ---
 choices: Since employees did not have to work for multiple companies to support themselves, they had more time to enjoy themselves in the towns. | By adopting ideas that had been developed outside the United States, companies were able to improve workplace facilities. | Company owners were able to appeal to members of the lower classes by offering them jobs with better working and living conditions. | People in rural areas who were jealous of living conditions in large cities started trying to attract companies to their area.
 answerText: Company owners were able to appeal to members of the lower classes by offering them jobs with better working and living conditions.
+reviewed: yes
 ---
 【正解】3 Company owners were able to appeal to members of the lower classes by offering them jobs with better working and living conditions.（会社の経営者たちは、よりよい労働条件や生活条件のある仕事を提供することで、下層階級の人々を引きつけることができた。）
 【和訳】

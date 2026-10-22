@@ -1,0 +1,28 @@
+---
+choices: transmitting | conforming | detaining | chilling
+answerText: transmitting
+---
+【正解】1 transmitting（（病気を）うつすこと、伝えること）
+【和訳】
+（英文）
+People in Japan who are sick with the common cold often wear a mask to avoid ［transmitting］ the virus.
+（訳）
+日本では、かぜをひいている人は、ウイルスを（うつす）のを避けるために、マスクをすることがよくあります。
+（選択肢の意味）
+1 transmitting：（病気を）うつすこと、伝えること
+2 conforming：（規則や習慣に）従うこと
+3 detaining：引き止めること；（警察などが）拘留すること
+4 chilling：冷やすこと
+【考え方】
+まず見るところ：who are sick with the common cold と、空所の後ろの the virus
+文の主語は People in Japan who are sick with the common cold（日本の、かぜをひいている人々）です。マスクをする目的が to avoid (　) the virus（ウイルスを（　）のを避けるために）と書かれています。
+かぜをひいている人がマスクをするのは、自分のかぜのウイルスをまわりの人にうつさないためだと考えられます。transmit は「（病気を）うつす、伝える」という意味で、transmit the virus で「ウイルスをうつす」となります。ですから1が正解です。
+avoid のあとはいつも ～ing の形になるので、4つの選択肢はどれも ～ing です。形ではなく、意味で選ぶ問題です。
+この問題の型：語の意味・組み合わせ（transmit the virus）
+【ほかの選択肢】
+2 conforming は「従うこと」です。conform to ～（～に従う）の形で使い、「ウイルスに従うのを避けるため」では意味が通りません。
+3 detaining は「引き止めること」です。「ウイルスを引き止めるのを避けるため」では、かぜをひいている人がマスクをする理由になりません。
+4 chilling は「冷やすこと」です。「ウイルスを冷やすのを避けるため」となり、意味が通りません。
+【覚えるポイント】
+・transmit：「（病気を）うつす；（情報などを）伝える」。名詞は transmission（伝染、伝達）です。
+・選択肢がすべて同じ形（ここでは ～ing）のときは、空所の後ろの語（the virus）といっしょに使ったときに意味が通るかどうかが手がかりになります。

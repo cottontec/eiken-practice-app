@@ -61,8 +61,8 @@
       "batchId": "pre1-2015-3",
       "target": 41,
       "written": 41,
-      "contentReviewed": 0,
-      "status": "complete_unreviewed",
+      "contentReviewed": 41,
+      "status": "complete_reviewed",
       "blank": 0,
       "issues": 0,
       "checkErrors": 0,
@@ -82,10 +82,10 @@
     {
       "batchId": "pre1-2016-2",
       "target": 41,
-      "written": 0,
+      "written": 41,
       "contentReviewed": 0,
-      "status": "not_started",
-      "blank": 41,
+      "status": "complete_unreviewed",
+      "blank": 0,
       "issues": 0,
       "checkErrors": 0,
       "checkWarnings": 0
@@ -104,10 +104,10 @@
     {
       "batchId": "pre1-2017-1",
       "target": 41,
-      "written": 0,
+      "written": 41,
       "contentReviewed": 0,
-      "status": "not_started",
-      "blank": 41,
+      "status": "complete_unreviewed",
+      "blank": 0,
       "issues": 0,
       "checkErrors": 0,
       "checkWarnings": 0
@@ -157,5 +157,5 @@
       "checkWarnings": 0
     }
   ],
-  "updatedAt": "2026-10-22T21:25:02+00:00"
+  "updatedAt": "2026-10-22T21:27:13+00:00"
 }

@@ -1,6 +1,7 @@
 ---
 choices: rounding off | scaling down | throwing up | filling out
 answerText: throwing up
+reviewed: yes
 ---
 【正解】3 throwing up（吐いて、もどして）
 【和訳】

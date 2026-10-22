@@ -1,6 +1,7 @@
 ---
 choices: demoted | agonized | initiated | converted
 answerText: initiated
+reviewed: yes
 ---
 【正解】3 initiated（～を開始した、始めた）
 【和訳】

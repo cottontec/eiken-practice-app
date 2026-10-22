@@ -1,6 +1,7 @@
 ---
 choices: sneaking | reaping | expelling | teasing
 answerText: reaping
+reviewed: yes
 ---
 【正解】2 reaping（〔恩恵などを〕受けている、手にしている）
 【和訳】

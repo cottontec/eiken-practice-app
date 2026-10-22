@@ -1,6 +1,7 @@
 ---
 choices: lay into | get back | stumble on | turn away
 answerText: turn away
+reviewed: yes
 ---
 【正解】4 turn away（～を追い返す、〔入るのを〕断る）
 【和訳】

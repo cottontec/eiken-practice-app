@@ -1,6 +1,7 @@
 ---
 choices: analysis | obligation | impulse | artifact
 answerText: obligation
+reviewed: yes
 ---
 【正解】2 obligation（義務）
 【和訳】

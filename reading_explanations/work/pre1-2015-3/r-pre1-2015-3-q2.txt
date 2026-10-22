@@ -1,6 +1,7 @@
 ---
 choices: weary | subjective | residential | affectionate
 answerText: residential
+reviewed: yes
 ---
 【正解】3 residential（住宅の、居住用の）
 【和訳】

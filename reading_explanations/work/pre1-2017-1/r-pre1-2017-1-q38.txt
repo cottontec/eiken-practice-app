@@ -1,0 +1,32 @@
+---
+choices: Sufferers place extreme limits on the amount of food they consume, which often leads to the risk of starvation. | Efforts by developed nations to improve dietary health worldwide have caused orthorexia to become common in poorer nations. | It can interfere with sufferers' daily activities, as they may decide they cannot be in situations where they might have to eat certain foods. | It was confused with anorexia nervosa for a long time because health professionals could not recognize its unique symptoms.
+answerText: It can interfere with sufferers' daily activities, as they may decide they cannot be in situations where they might have to eat certain foods.
+---
+【正解】3 It can interfere with sufferers' daily activities, as they may decide they cannot be in situations where they might have to eat certain foods.（オルトレキシアに苦しむ人は、特定の食べ物を食べなければならないかもしれない場面にはいられないと決めることがあるので、この障害は日常の活動のさまたげになることがある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is true of orthorexia?（オルトレキシアについて正しいのはどれですか。）
+1 Sufferers place extreme limits on the amount of food they consume, which often leads to the risk of starvation.（この障害に苦しむ人は、食べる量を極端に制限し、それがしばしば飢える危険につながる。）
+2 Efforts by developed nations to improve dietary health worldwide have caused orthorexia to become common in poorer nations.（世界中の食生活の健康を良くしようとする先進国の取り組みによって、（先進国より）貧しい国々でオルトレキシアが一般的になった。）
+3 It can interfere with sufferers' daily activities, as they may decide they cannot be in situations where they might have to eat certain foods.（オルトレキシアに苦しむ人は、特定の食べ物を食べなければならないかもしれない場面にはいられないと決めることがあるので、この障害は日常の活動のさまたげになることがある。）
+4 It was confused with anorexia nervosa for a long time because health professionals could not recognize its unique symptoms.（医療の専門家がその独特の症状を見分けられなかったので、オルトレキシアは長い間、神経性やせ症と混同されていた。）
+【考え方】
+まず見るところ：第1段落の they focus so much on food that it affects their quality of life と A sufferer might, for example, stop eating out with friends.
+第1段落で、オルトレキシアは次のように説明されています。
+Sufferers feel they must completely eliminate certain items, such as sugar or dairy products, from their diet, and they focus so much on food that it affects their quality of life.（この障害に苦しむ人は、砂糖や乳製品のような特定の食品を食事から完全になくさなければならないと感じ、食べ物のことばかりに気を取られるあまり、生活の質に影響が出る）
+A sufferer might, for example, stop eating out with friends.（たとえば、この障害に苦しむ人は、友だちと外食するのをやめてしまうかもしれない）
+eliminate は「取り除く」、quality of life は「生活の質」です。外食をすると、避けたい食べ物が出てくるかもしれません。そうした場を避けて、友だちとの外食までやめてしまうというのが、生活に影響が出る例です。
+本文と選択肢3を対にすると、次のようになります。
+本文 it affects their quality of life（生活の質に影響が出る）→ 選択肢 It can interfere with sufferers' daily activities（日常の活動のさまたげになることがある）
+本文 stop eating out with friends（友だちと外食するのをやめる）→ 選択肢 they may decide they cannot be in situations where they might have to eat certain foods（特定の食べ物を食べなければならないかもしれない場面にはいられないと決めることがある）
+選択肢3は、本文の例をもう少し広く言いかえたものと考えられます。よって3が正解です。
+この問題の型：具体例とまとめ（外食をやめる→特定の食べ物を食べる場面を避ける）／言いかえ（affects their quality of life→interfere with daily activities）
+【ほかの選択肢】
+1 オルトレキシアではなく、神経性やせ症（拒食症）の説明です。第1段落に、飢えるほどまで食べる量を制限するのは anorexia nervosa（神経性やせ症）に苦しむ人だと書かれています。第3段落にも、オルトレキシアの人は食べ物が特定の種類に入っていれば進んで食べ、たいていは命を危険にさらさないとあります。
+2 本文にない内容です。本文には、摂食障害が先進国でますます一般的になっているとありますが、先進国の取り組みのせいで貧しい国々でオルトレキシアが広まったとは書かれていません。
+4 本文にない内容です。第3段落には、オルトレキシアが独立した病気かどうかで専門家の意見が分かれているとありますが、長い間神経性やせ症と混同されていた、とは書かれていません。
+【覚えるポイント】
+・interfere with ～：「～のさまたげになる、～をじゃまする」。
+・What is true of ～? の設問では、選択肢の内容が別のもの（ここでは神経性やせ症）の説明になっていないかに注意し、～（オルトレキシア）について書かれた部分と照らし合わせると、取り違えを防ぐ手がかりになります。

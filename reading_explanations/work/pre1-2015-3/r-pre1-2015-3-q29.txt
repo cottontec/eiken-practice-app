@@ -1,6 +1,7 @@
 ---
 choices: began showing signs of disease | began making the aquarium fish sick | was used for another purpose | seems to have been accidentally released
 answerText: seems to have been accidentally released
+reviewed: yes
 ---
 【正解】4 seems to have been accidentally released（誤って外に放たれてしまったようだ）
 【和訳】

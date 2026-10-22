@@ -1,6 +1,7 @@
 ---
 choices: The majority of factory workers were saving the money they earned instead of spending it on manufactured goods. | Many workers preferred to remain living in rural areas because they felt living standards were lower in the cities. | The high shipping rates charged by railroads for transporting raw materials limited the ability of businesses to expand. | Raw materials needed for industrial production were usually located far from cities with large numbers of workers.
 answerText: Raw materials needed for industrial production were usually located far from cities with large numbers of workers.
+reviewed: yes
 ---
 【正解】4 Raw materials needed for industrial production were usually located far from cities with large numbers of workers.（工業生産に必要な原材料は、たいてい、多くの働き手がいる都市から遠く離れた場所にあった。）
 【和訳】

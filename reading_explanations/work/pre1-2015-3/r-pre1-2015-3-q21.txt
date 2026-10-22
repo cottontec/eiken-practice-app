@@ -1,6 +1,7 @@
 ---
 choices: transactions | annotations | stances | ridges
 answerText: transactions
+reviewed: yes
 ---
 【正解】1 transactions（取引、売り買い）
 【和訳】

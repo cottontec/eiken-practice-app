@@ -1,6 +1,7 @@
 ---
 choices: processions | commissions | alterations | estimations
 answerText: alterations
+reviewed: yes
 ---
 【正解】3 alterations（変更、修正）
 【和訳】

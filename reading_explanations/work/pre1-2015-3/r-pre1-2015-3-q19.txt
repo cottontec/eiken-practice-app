@@ -1,6 +1,7 @@
 ---
 choices: decoding | poaching | inhaling | sprinkling
 answerText: poaching
+reviewed: yes
 ---
 【正解】2 poaching（密猟）
 【和訳】

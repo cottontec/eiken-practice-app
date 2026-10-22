@@ -1,6 +1,7 @@
 ---
 choices: should be named as a new species | had to be eliminated | needed to be studied more | could be helped to recover
 answerText: had to be eliminated
+reviewed: yes
 ---
 【正解】2 had to be eliminated（取り除かれなければならない）
 【和訳】

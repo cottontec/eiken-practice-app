@@ -1,6 +1,7 @@
 ---
 choices: skeptical | forceful | expressive | inessential
 answerText: skeptical
+reviewed: yes
 ---
 【正解】1 skeptical（疑っている、疑い深い）
 【和訳】

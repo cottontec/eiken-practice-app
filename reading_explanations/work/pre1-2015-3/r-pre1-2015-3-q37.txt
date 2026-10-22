@@ -1,6 +1,7 @@
 ---
 choices: Viewers often find that the characters in the film actually appear to be more violent and evil than characters in modern films. | The film has had such a powerful influence that the things that once made it controversial seem very common now. | Viewers are usually surprised by how greatly American culture has changed since Bonnie Parker and Clyde Barrow were alive. | Modern reactions to the film are due to changes Penn made after critics pointed out problems with his filmmaking style.
 answerText: The film has had such a powerful influence that the things that once made it controversial seem very common now.
+reviewed: yes
 ---
 【正解】2 The film has had such a powerful influence that the things that once made it controversial seem very common now.（その映画がとても強い影響を与えてきたので、かつてそれを物議をかもすもの〔議論や反発を呼ぶもの〕にしていた点が、今ではとてもありふれたものに思える。）
 【和訳】

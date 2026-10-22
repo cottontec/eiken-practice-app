@@ -1,6 +1,7 @@
 ---
 choices: could not come to a conclusion | regretted not saving their money | had changed their minds | had ignored the researcher's advice
 answerText: had changed their minds
+reviewed: yes
 ---
 【正解】3 had changed their minds（考えを変えていた）
 【和訳】

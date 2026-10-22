@@ -1,6 +1,7 @@
 ---
 choices: set down | scoop up | break off | roll in
 answerText: set down
+reviewed: yes
 ---
 【正解】1 set down（～を書き留める）
 【和訳】

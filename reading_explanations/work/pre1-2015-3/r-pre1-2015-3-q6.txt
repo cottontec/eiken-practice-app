@@ -1,6 +1,7 @@
 ---
 choices: troop | batch | herd | swarm
 answerText: batch
+reviewed: yes
 ---
 【正解】2 batch（〔一度に作る〕ひと焼き分、ひとまとまり）
 【和訳】

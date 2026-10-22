@@ -1,6 +1,7 @@
 ---
 choices: major increases in participation rates for energy-efficiency upgrade programs could be achieved by targeting low-income earners. | it is common for campaigns marketing energy-efficiency upgrades to be dishonest with low-income earners. | combining energy-efficiency upgrades for low-income earners with in-home education programs makes the results more effective. | it is untrue that if more people knew about them, energy-efficiency upgrade programs for low-income earners would be successful.
 answerText: it is untrue that if more people knew about them, energy-efficiency upgrade programs for low-income earners would be successful.
+reviewed: yes
 ---
 【正解】4 it is untrue that if more people knew about them, energy-efficiency upgrade programs for low-income earners would be successful.（もっと多くの人が知れば、低所得者向けのエネルギー効率改修の制度がうまくいくだろう、というのは正しくない〔ということ〕。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: ensure | exceed | resume | rejoice
 answerText: ensure
+reviewed: yes
 ---
 【正解】1 ensure（～を確実にする、確かにする）
 【和訳】

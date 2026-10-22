@@ -1,6 +1,7 @@
 ---
 choices: spontaneous | pressing | resistant | ancient
 answerText: resistant
+reviewed: yes
 ---
 【正解】3 resistant（〔～に〕強い、耐えられる）
 【和訳】

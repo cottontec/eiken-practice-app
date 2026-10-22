@@ -1,6 +1,7 @@
 ---
 choices: pushed through | wanted for | marked out | frowned upon
 answerText: wanted for
+reviewed: yes
 ---
 【正解】2 wanted for（〔～に〕不自由した、〔～が〕なくて困った）
 【和訳】

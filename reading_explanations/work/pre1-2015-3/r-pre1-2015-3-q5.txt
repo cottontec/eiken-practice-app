@@ -1,6 +1,7 @@
 ---
 choices: hostile | daring | passive | discreet
 answerText: hostile
+reviewed: yes
 ---
 【正解】1 hostile（〔環境が〕厳しい、生きものにとってつらい）
 【和訳】

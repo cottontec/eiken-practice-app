@@ -1,6 +1,7 @@
 ---
 choices: assumption | auction | axis | accord
 answerText: accord
+reviewed: yes
 ---
 【正解】4 accord（合意、協定）
 【和訳】

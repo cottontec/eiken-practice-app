@@ -1,6 +1,7 @@
 ---
 choices: frequent shortages of basic necessities at company-owned stores made it nearly impossible for workers to live comfortable lives. | local mayors were often pressured to close down businesses that were competing with company stores. | companies had a large degree of control over their employees' lives, even when the employees were not working. | productivity was negatively affected because employees tended to leave their companies in search of higher salaries.
 answerText: companies had a large degree of control over their employees' lives, even when the employees were not working.
+reviewed: yes
 ---
 【正解】3 companies had a large degree of control over their employees' lives, even when the employees were not working.（会社が、従業員が働いていないときでさえ、従業員の生活を大きく支配していた〔こと〕。）
 【和訳】

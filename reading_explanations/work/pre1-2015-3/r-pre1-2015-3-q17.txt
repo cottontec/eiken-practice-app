@@ -1,6 +1,7 @@
 ---
 choices: upload | input | outsmart | offset
 answerText: offset
+reviewed: yes
 ---
 【正解】4 offset（～を埋め合わせる、相殺する）
 【和訳】

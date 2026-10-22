@@ -1,6 +1,7 @@
 ---
 choices: exceptional | deceased | habitual | blatant
 answerText: exceptional
+reviewed: yes
 ---
 【正解】1 exceptional（並外れた、とびぬけて優秀な）
 【和訳】

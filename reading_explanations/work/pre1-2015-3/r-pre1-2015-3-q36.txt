@@ -1,6 +1,7 @@
 ---
 choices: He wanted his film to reflect changes that were taking place in American society at the time. | He realized that innovations in technology could be used to show more-realistic violence in movies. | He was trying to criticize the extreme violence that was becoming common in American films about the Vietnam War. | He knew that if there were a lot of complaints about the violence in the film, the publicity would make the film a hit.
 answerText: He wanted his film to reflect changes that were taking place in American society at the time.
+reviewed: yes
 ---
 【正解】1 He wanted his film to reflect changes that were taking place in American society at the time.（彼は、自分の映画に、当時アメリカ社会で起きていた変化を反映させたかった。）
 【和訳】

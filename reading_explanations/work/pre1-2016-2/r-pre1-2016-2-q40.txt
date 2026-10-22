@@ -1,0 +1,33 @@
+---
+choices: Bacteria could have an effect on the brain even if they are unable to pass through the blood-brain barrier. | Certain chemicals in the blood-brain barrier prevent sensory nerves from carrying messages from the gut microbiome to the brain. | The bacteria in the gut microbiome are so unlike the substances in the brain that the blood-brain barrier could easily keep them out. | It is more likely that organisms from the digestive system could enter the brain through the blood-brain barrier than through other pathways.
+answerText: Bacteria could have an effect on the brain even if they are unable to pass through the blood-brain barrier.
+---
+【正解】1 Bacteria could have an effect on the brain even if they are unable to pass through the blood-brain barrier.（細菌は、たとえ血液脳関門を通り抜けられなくても、脳に影響を与えうる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What theory has Christopher Lowry developed as a result of his research?（クリストファー・ローリーは、研究の結果、どんな理論を立てたか。）
+1 Bacteria could have an effect on the brain even if they are unable to pass through the blood-brain barrier.（細菌は、たとえ血液脳関門を通り抜けられなくても、脳に影響を与えうる。）
+2 Certain chemicals in the blood-brain barrier prevent sensory nerves from carrying messages from the gut microbiome to the brain.（血液脳関門の中のある化学物質が、感覚神経が腸内マイクロバイオームから脳へ信号を運ぶのをさまたげている。）
+3 The bacteria in the gut microbiome are so unlike the substances in the brain that the blood-brain barrier could easily keep them out.（腸内マイクロバイオームの細菌は脳の中の物質とあまりに違うので、血液脳関門は簡単にそれらを締め出せるだろう。）
+4 It is more likely that organisms from the digestive system could enter the brain through the blood-brain barrier than through other pathways.（消化器官から来た生物は、ほかの経路よりも、血液脳関門を通って脳に入る可能性が高い。）
+【考え方】
+まず見るところ：第3段落の最後の This would mean that the microbiome could have an influence despite the blood-brain barrier.
+第3段落の初めには、解決されていない問題が書かれています。脳には、栄養素は通す一方で細菌のような異物は締め出す blood-brain barrier（血液脳関門）というしくみがあります。そのため、細菌が脳にどう影響しているのかを説明するのが難しい、という問題です。
+これに対するローリーの考えは次のとおりです。
+the sensory nerves which stretch all the way from the digestive system to areas of the brain—and which affect mood—might somehow be stimulated by the gut microbiome（消化器官から脳のいくつかの領域まではるばる伸びていて、気分に影響を与える感覚神経が、腸内マイクロバイオームによって何らかの方法で刺激されているのかもしれない）
+This would mean that the microbiome could have an influence despite the blood-brain barrier.（このことは、血液脳関門があるにもかかわらず、マイクロバイオームが影響を与えうるということを意味するだろう）
+sensory nerves は「感覚神経（体で感じたことを脳へ伝える神経）」、stimulate は「刺激する」、despite ～ は「～にもかかわらず」という意味です。細菌が脳の中に入らなくても、神経を刺激することで脳に影響を与えられる、という考えです。
+本文と選択肢を対にすると、次のようになります。
+・本文 the microbiome could have an influence（マイクロバイオームが影響を与えうる）＝ 選択肢 Bacteria could have an effect on the brain（細菌は脳に影響を与えうる）
+・本文 despite the blood-brain barrier（血液脳関門があるにもかかわらず）→ 選択肢 even if they are unable to pass through the blood-brain barrier（たとえ血液脳関門を通り抜けられなくても）
+血液脳関門は細菌を締め出すしくみなので、「関門があるにもかかわらず」は「関門を通り抜けられなくても」と言いかえられます。ですから1が正解です。
+この問題の型：言いかえ（despite the blood-brain barrier → even if they are unable to pass through ～）／推論（関門は細菌を通さない→神経を通じて影響する）
+【ほかの選択肢】
+2 本文の内容と違います。ローリーは、感覚神経が腸内マイクロバイオームに刺激されているかもしれないと考えました。血液脳関門の化学物質が神経のじゃまをするという話は書かれていません。
+3 本文にありません。血液脳関門が細菌のような異物を締め出すことは書かれていますが、細菌が脳の中の物質とあまりに違うからだとは書かれていません。また、これはローリーの理論ではなく、ローリーの考えは、締め出されていても影響を与えうるという点にあります。
+4 本文と反対です。ローリーの考えは、血液脳関門を通るのではなく、感覚神経という別の経路で影響を与えるというものです。
+【覚えるポイント】
+・despite ～：「～にもかかわらず」。選択肢では even if ～（たとえ～でも）を使って言いかえられることがあります。
+・ある研究者の「理論」をたずねる設問では、本文の This would mean that ～（このことは～を意味するだろう）のように考えをまとめた文が手がかりになることがあります。

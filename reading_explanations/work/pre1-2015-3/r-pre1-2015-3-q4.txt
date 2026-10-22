@@ -1,6 +1,7 @@
 ---
 choices: ministers | butlers | burglars | rangers
 answerText: rangers
+reviewed: yes
 ---
 【正解】4 rangers（公園の監視員、レンジャー）
 【和訳】

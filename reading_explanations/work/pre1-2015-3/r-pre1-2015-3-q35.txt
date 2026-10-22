@@ -1,6 +1,7 @@
 ---
 choices: the film failed to include a warning required by the Hays Code about the numerous acts of violence that were shown. | the director claimed he did not think the things Bonnie Parker and Clyde Barrow did were wrong. | the main characters did things that did not meet the moral standards of the American film industry. | the inability of the police to arrest the two main characters made law enforcement officials look foolish.
 answerText: the main characters did things that did not meet the moral standards of the American film industry.
+reviewed: yes
 ---
 【正解】3 the main characters did things that did not meet the moral standards of the American film industry.（主人公たちが、アメリカの映画業界の道徳上の基準に合わないことをした〔から〕。）
 【和訳】

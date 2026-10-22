@@ -1,6 +1,7 @@
 ---
 choices: prolong | withdraw | unfold | inform
 answerText: prolong
+reviewed: yes
 ---
 【正解】1 prolong（～を長引かせる、引き延ばす）
 【和訳】

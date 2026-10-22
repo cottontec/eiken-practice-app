@@ -1,6 +1,7 @@
 ---
 choices: minute | tangled | surplus | dreary
 answerText: minute
+reviewed: yes
 ---
 【正解】1 minute（ごくわずかな、ごく小さな）
 【和訳】
