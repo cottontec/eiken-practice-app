@@ -6,7 +6,11 @@ reviewed: yes
 【正解】3 at a time（一度に）
 【和訳】
 ジェーンが大学の図書館へ行ったとき、レポートに必要な12冊の本を全部借りることは許されませんでした。そこでは、一度に10冊までしか借りられないのです。
-（選択肢の意味）1 比べると　2 ある意味で　3 一度に　4 最後に
+（選択肢の意味）
+1 比べると
+2 ある意味で
+3 一度に
+4 最後に
 【考え方】
 1文目の she was not allowed to borrow all 12 books she needed for her report に注目します。be allowed to ～ は「～することを許される」で、not がつくと「許されない」になります。all 12 books she needed は「必要な12冊の本の全部」なので、「12冊全部を借りることは許されなかった」という意味です。
 2文目は People can only check out 10 books (　) there. です。check out は「（図書館で本を）借りる」、can only ～ は「～しかできない」です。「そこでは10冊しか借りられない」となります。

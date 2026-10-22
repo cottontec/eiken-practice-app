@@ -6,7 +6,11 @@ reviewed: yes
 【正解】4 visited（訪れた（having visited で「訪れたことがあったので」））
 【和訳】
 ハリーは以前ロンドンを訪れたことがあったので、空港からホテルへの行き方を知っていました。
-（選択肢の意味）1 to visit：訪れること、訪れるために　2 visiting：訪れること、訪れている　3 been visited：（having been visited で）訪れられたことがあったので　4 visited：（having visited で）訪れたことがあったので
+（選択肢の意味）
+1 to visit：訪れること、訪れるために
+2 visiting：訪れること、訪れている
+3 been visited：（having been visited で）訪れられたことがあったので
+4 visited：（having visited で）訪れたことがあったので
 【考え方】
 この文は Having (　) London before, で始まり、そのあとに Harry knew how to get from the airport to his hotel（ハリーは空港からホテルへの行き方を知っていた）が続きます。how to get from A to B は「AからBへの行き方」です。
 文のはじめの Having ～, は、分詞構文（接続詞と主語を省いて、～ing の形で文の前半を作る形）です。Having ＋ 過去分詞（visited などの形）にすると、「（それより前に）～したことがあったので」という意味になり、文の中心の knew（知っていた）よりも前の出来事を表します。

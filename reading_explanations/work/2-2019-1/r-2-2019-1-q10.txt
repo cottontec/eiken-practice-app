@@ -6,7 +6,11 @@ reviewed: yes
 【正解】2 parliament（議会）
 【和訳】
 新しい医療に関する法律は、何日も（議会）で議論されましたが、結局、政治家たちはその法律について意見がまとまりませんでした。
-（選択肢の意味）1 オーケストラ　2 議会　3 基礎、財団　4 保育所、子ども部屋
+（選択肢の意味）
+1 オーケストラ
+2 議会
+3 基礎、財団
+4 保育所、子ども部屋
 【考え方】
 空所のある部分は The new healthcare law was debated in (　) for days（新しい医療に関する法律は、何日も（　）で議論された）です。law は「法律」、debate は「議論する」です。
 後半に but in the end the politicians could not agree on it（しかし結局、政治家たちはそれについて合意できなかった）とあります。politician は「政治家」で、it は新しい法律を指します。

@@ -71,80 +71,124 @@
     {
       "batchId": "2-2023-1",
       "target": 38,
-      "written": 0,
+      "written": 33,
       "contentReviewed": 0,
-      "status": "not_started"
+      "status": "in_progress",
+      "blank": 5,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 0
     },
     {
       "batchId": "2-2023-2",
       "target": 38,
-      "written": 0,
+      "written": 33,
       "contentReviewed": 0,
-      "status": "not_started"
+      "status": "in_progress",
+      "blank": 5,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 0
     },
     {
       "batchId": "2-2023-3",
       "target": 38,
-      "written": 0,
+      "written": 26,
       "contentReviewed": 0,
-      "status": "not_started"
+      "status": "in_progress",
+      "blank": 12,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 0
     },
     {
       "batchId": "2-2024-1",
       "target": 31,
-      "written": 0,
+      "written": 20,
       "contentReviewed": 0,
-      "status": "not_started"
+      "status": "in_progress",
+      "blank": 11,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 0
     },
     {
       "batchId": "2-2024-2",
       "target": 31,
-      "written": 0,
+      "written": 17,
       "contentReviewed": 0,
-      "status": "not_started"
+      "status": "in_progress",
+      "blank": 14,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 0
     },
     {
       "batchId": "2-2024-3",
       "target": 31,
-      "written": 0,
+      "written": 6,
       "contentReviewed": 0,
-      "status": "not_started"
+      "status": "in_progress",
+      "blank": 25,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 0
     },
     {
       "batchId": "2-2025-1",
       "target": 31,
-      "written": 0,
+      "written": 6,
       "contentReviewed": 0,
-      "status": "not_started"
+      "status": "in_progress",
+      "blank": 25,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 0
     },
     {
       "batchId": "2-2025-2",
       "target": 31,
-      "written": 0,
+      "written": 2,
       "contentReviewed": 0,
-      "status": "not_started"
+      "status": "in_progress",
+      "blank": 29,
+      "issues": 0,
+      "checkErrors": 11,
+      "checkWarnings": 0
     },
     {
       "batchId": "2-2025-3",
       "target": 31,
       "written": 0,
       "contentReviewed": 0,
-      "status": "not_started"
+      "status": "not_started",
+      "blank": 31,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 0
     },
     {
       "batchId": "2-2026-1",
       "target": 31,
       "written": 0,
       "contentReviewed": 0,
-      "status": "not_started"
+      "status": "not_started",
+      "blank": 31,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 0
     },
     {
       "batchId": "2-2026-2",
       "target": 31,
       "written": 0,
       "contentReviewed": 0,
-      "status": "not_started"
+      "status": "not_started",
+      "blank": 31,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 0
     }
   ],
-  "updatedAt": "2026-10-22T05:56:25+00:00"
+  "updatedAt": "2026-10-22T20:49:39+00:00"
 }
