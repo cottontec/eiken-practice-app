@@ -1,6 +1,7 @@
 ---
 choices: rely on | participate in | bump into | turn off
 answerText: participate in
+reviewed: yes
 ---
 【正解】2 participate in（～に参加する）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: drown | grab | hit | pour
 answerText: pour
+reviewed: yes
 ---
 【正解】4 pour（注ぐ）
 【和訳】

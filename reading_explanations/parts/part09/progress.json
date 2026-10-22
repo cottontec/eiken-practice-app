@@ -94,8 +94,8 @@
       "batchId": "2-2023-3",
       "target": 38,
       "written": 38,
-      "contentReviewed": 0,
-      "status": "complete_unreviewed",
+      "contentReviewed": 38,
+      "status": "complete_reviewed",
       "blank": 0,
       "issues": 0,
       "checkErrors": 0,
@@ -190,5 +190,5 @@
       "checkWarnings": 0
     }
   ],
-  "updatedAt": "2026-10-22T21:14:42+00:00"
+  "updatedAt": "2026-10-22T21:14:45+00:00"
 }

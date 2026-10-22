@@ -1,6 +1,7 @@
 ---
 choices: first met Marie Curie because of an accident that happened in 1906. | looked after the couple's children while Marie Curie taught classes. | worked at the same university where Marie Curie was doing research. | thought that his own research was more important than Marie Curie's.
 answerText: worked at the same university where Marie Curie was doing research.
+reviewed: yes
 ---
 【正解】3 worked at the same university where Marie Curie was doing research.（マリー・キュリーが研究をしていたのと同じ大学で働いていた。）
 【和訳】

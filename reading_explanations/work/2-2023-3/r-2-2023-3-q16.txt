@@ -1,6 +1,7 @@
 ---
 choices: fed up with | gone out for | made out of | wrapped up in
 answerText: fed up with
+reviewed: yes
 ---
 【正解】1 fed up with（～にうんざりして）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: refunded | indicated | alerted | displayed
 answerText: refunded
+reviewed: yes
 ---
 【正解】1 refunded（払い戻された）
 【和訳】

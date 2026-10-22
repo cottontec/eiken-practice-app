@@ -1,6 +1,7 @@
 ---
 choices: directly | severely | frequently | probably
 answerText: frequently
+reviewed: yes
 ---
 【正解】3 frequently（ひんぱんに、よく）
 【和訳】

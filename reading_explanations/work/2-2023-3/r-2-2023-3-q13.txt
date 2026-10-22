@@ -1,6 +1,7 @@
 ---
 choices: go on about | look forward to | come out of | do away with
 answerText: do away with
+reviewed: yes
 ---
 【正解】4 do away with（～をなくす、～を廃止する）
 【和訳】

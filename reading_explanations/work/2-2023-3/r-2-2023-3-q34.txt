@@ -1,6 +1,7 @@
 ---
 choices: She won the first Nobel Prize for chemistry. | She found a new way to choose Nobel Prize winners. | She received Nobel Prizes in more than one subject area. | She discovered errors in a Nobel Prize winner's research.
 answerText: She received Nobel Prizes in more than one subject area.
+reviewed: yes
 ---
 【正解】3 She received Nobel Prizes in more than one subject area.（彼女は2つ以上の分野でノーベル賞を受けた。）
 【和訳】

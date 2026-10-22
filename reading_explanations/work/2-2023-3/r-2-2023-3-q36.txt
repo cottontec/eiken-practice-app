@@ -1,6 +1,7 @@
 ---
 choices: It took five years for her to become good at speaking French. | The food she ate was not good enough for her to stay healthy. | She needed a lot of money to pay for her sister's medicine. | Her university would not let her study for a degree in physics.
 answerText: The food she ate was not good enough for her to stay healthy.
+reviewed: yes
 ---
 【正解】2 The food she ate was not good enough for her to stay healthy.（彼女が食べていた食べ物は、健康を保つのに十分なものではなかった。）
 【和訳】

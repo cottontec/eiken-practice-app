@@ -1,6 +1,7 @@
 ---
 choices: Keep an eye on how words are used in the English language. | Decide how to spell the new words that are added to English. | Check for technological developments that could help their work. | Make changes to words that people have difficulty expressing.
 answerText: Keep an eye on how words are used in the English language.
+reviewed: yes
 ---
 【正解】1 Keep an eye on how words are used in the English language.（英語の中で語がどのように使われているかに目を配る。）
 【和訳】

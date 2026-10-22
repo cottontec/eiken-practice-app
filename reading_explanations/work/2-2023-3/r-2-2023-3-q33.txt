@@ -1,6 +1,7 @@
 ---
 choices: To review data about the words that people most often look for in the dictionary. | To remove old information from a database so that new information can be added. | To come up with ideas to make the dictionary easier for people to use. | To make the final decision about changes to the content of the dictionary.
 answerText: To make the final decision about changes to the content of the dictionary.
+reviewed: yes
 ---
 【正解】4 To make the final decision about changes to the content of the dictionary.（辞書の内容の変更について、最終的な決定をすること。）
 【和訳】

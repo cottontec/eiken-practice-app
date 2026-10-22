@@ -1,6 +1,7 @@
 ---
 choices: find a new way to make a living | take a different route to his office | move out of his family's home | get the help of some friends
 answerText: find a new way to make a living
+reviewed: yes
 ---
 【正解】1 find a new way to make a living（生計を立てる新しい方法を見つける）
 【和訳】

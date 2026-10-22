@@ -1,6 +1,7 @@
 ---
 choices: negotiate | identify | translate | revise
 answerText: identify
+reviewed: yes
 ---
 【正解】2 identify（見分ける、特定する）
 【和訳】

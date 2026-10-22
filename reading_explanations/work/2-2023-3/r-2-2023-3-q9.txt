@@ -1,6 +1,7 @@
 ---
 choices: deserve | announce | operate | permit
 answerText: permit
+reviewed: yes
 ---
 【正解】4 permit（許可する）
 【和訳】

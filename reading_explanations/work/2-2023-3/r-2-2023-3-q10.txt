@@ -1,6 +1,7 @@
 ---
 choices: despair | exchange | routine | minority
 answerText: routine
+reviewed: yes
 ---
 【正解】3 routine（決まった手順、日課）
 【和訳】

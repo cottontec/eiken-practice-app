@@ -1,6 +1,7 @@
 ---
 choices: Work with two other employees to prepare for February 24. | Give out materials to all the employees in his department. | Make a decision about who will attend the event. | Send another e-mail to tell the staff who was selected.
 answerText: Work with two other employees to prepare for February 24.
+reviewed: yes
 ---
 【正解】1 Work with two other employees to prepare for February 24.（2月24日に向けて準備するために、ほかの2人の社員といっしょに作業する。）
 【和訳】

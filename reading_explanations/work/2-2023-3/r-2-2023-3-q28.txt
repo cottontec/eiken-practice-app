@@ -1,6 +1,7 @@
 ---
 choices: Make a presentation about what they did at the fair to Ms. Jones. | Take a day off during the week before the event to prepare. | Hand in some forms at least seven days before then. | Fill out an attendance application and send it to the university.
 answerText: Hand in some forms at least seven days before then.
+reviewed: yes
 ---
 【正解】3 Hand in some forms at least seven days before then.（その日の少なくとも7日前までに、書類を提出する。）
 【和訳】

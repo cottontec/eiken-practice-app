@@ -1,6 +1,7 @@
 ---
 choices: triangles | conclusions | incidents | laboratories
 answerText: laboratories
+reviewed: yes
 ---
 【正解】4 laboratories（実験室、研究所）
 【和訳】

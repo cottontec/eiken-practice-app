@@ -1,6 +1,7 @@
 ---
 choices: celebration | reservation | generation | destination
 answerText: destination
+reviewed: yes
 ---
 【正解】4 destination（目的地、行き先）
 【和訳】

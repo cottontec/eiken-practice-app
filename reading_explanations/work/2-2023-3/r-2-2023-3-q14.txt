@@ -1,6 +1,7 @@
 ---
 choices: back and forth | touch and go | by and large | give and take
 answerText: by and large
+reviewed: yes
 ---
 【正解】3 by and large（全体的に見て、だいたいにおいて）
 【和訳】

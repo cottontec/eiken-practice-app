@@ -1,6 +1,7 @@
 ---
 choices: much more | much less | less than | more than
 answerText: much less
+reviewed: yes
 ---
 【正解】2 much less（まして～はなおさら…ない）
 【和訳】

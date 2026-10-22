@@ -1,6 +1,7 @@
 ---
 choices: when | if | how | as
 answerText: if
+reviewed: yes
 ---
 【正解】2 if（～かどうか）
 【和訳】

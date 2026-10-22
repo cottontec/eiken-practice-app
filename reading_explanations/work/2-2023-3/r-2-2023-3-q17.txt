@@ -1,6 +1,7 @@
 ---
 choices: come close | broken out | gone bad | passed away
 answerText: gone bad
+reviewed: yes
 ---
 【正解】3 gone bad（腐った、悪くなった）
 【和訳】

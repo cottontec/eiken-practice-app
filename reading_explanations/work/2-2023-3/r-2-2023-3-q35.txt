@@ -1,6 +1,7 @@
 ---
 choices: she had to take care of her younger brothers and sisters. | she was asked to go and work at her parents' school. | the scores that she got at school were not good enough. | the university did not allow women to become students.
 answerText: the university did not allow women to become students.
+reviewed: yes
 ---
 【正解】4 the university did not allow women to become students.（その大学が、女性が学生になることを認めていなかった。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: Shall | Should | Could | Can
 answerText: Should
+reviewed: yes
 ---
 【正解】2 Should（もし～したら、万一～したら）
 【和訳】

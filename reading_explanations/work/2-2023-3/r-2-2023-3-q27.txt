@@ -1,6 +1,7 @@
 ---
 choices: have been selected to work at several job fairs at different colleges. | were asked to give a guest lecture to computer engineering students. | will take part in an event at a university in Petersburg. | are being sent to another department to help train new workers.
 answerText: will take part in an event at a university in Petersburg.
+reviewed: yes
 ---
 【正解】3 will take part in an event at a university in Petersburg.（ピーターズバーグにある大学での催しに参加する。）
 【和訳】

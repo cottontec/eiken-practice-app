@@ -1,6 +1,7 @@
 ---
 choices: Marie Curie had a lot of difficulty remembering facts when she was a child. | Marie Curie and her sister agreed to help each other to study at university. | Marie Curie was taught science by a female professor at a university in Paris. | Marie Curie wanted to study science after finding out how X-ray machines worked.
 answerText: Marie Curie and her sister agreed to help each other to study at university.
+reviewed: yes
 ---
 【正解】2 Marie Curie and her sister agreed to help each other to study at university.（マリー・キュリーと姉は、大学で勉強するためにお互いに助け合うことに同意した。）
 【和訳】

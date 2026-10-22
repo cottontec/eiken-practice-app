@@ -1,6 +1,7 @@
 ---
 choices: remarkable | nutritious | commercial | artificial
 answerText: remarkable
+reviewed: yes
 ---
 【正解】1 remarkable（驚くべき、目立った）
 【和訳】

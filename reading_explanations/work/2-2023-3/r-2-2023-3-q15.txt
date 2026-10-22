@@ -1,6 +1,7 @@
 ---
 choices: at the moment | at a distance | one of these days | one after another
 answerText: one of these days
+reviewed: yes
 ---
 【正解】3 one of these days（そのうちいつか、近いうちに）
 【和訳】

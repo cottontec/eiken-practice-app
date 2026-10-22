@@ -1,6 +1,7 @@
 ---
 choices: came from a word that was used in another language. | people can spell in a variety of different ways. | was rejected by dictionary editors for many years. | has gained a different meaning from its original one.
 answerText: has gained a different meaning from its original one.
+reviewed: yes
 ---
 【正解】4 has gained a different meaning from its original one.（もとの意味とは違う意味を得た。）
 【和訳】

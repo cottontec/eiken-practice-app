@@ -1,6 +1,7 @@
 ---
 choices: keep climbers' hands dry | mark climbers' routes | stop climbers from feeling sick | give climbers extra energy
 answerText: keep climbers' hands dry
+reviewed: yes
 ---
 【正解】1 keep climbers' hands dry（クライマーの手を乾いた状態に保つ）
 【和訳】

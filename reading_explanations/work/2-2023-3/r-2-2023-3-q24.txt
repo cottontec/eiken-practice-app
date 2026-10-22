@@ -1,6 +1,7 @@
 ---
 choices: from a satellite in space | with a new type of camera | to a conference about animals | of the source of these noises
 answerText: of the source of these noises
+reviewed: yes
 ---
 【正解】4 of the source of these noises（これらの音の出どころの）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: With this | Similarly | For a while | In contrast
 answerText: With this
+reviewed: yes
 ---
 【正解】1 With this（これによって、これを使って）
 【和訳】

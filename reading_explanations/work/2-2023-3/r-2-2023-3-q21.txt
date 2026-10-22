@@ -1,6 +1,7 @@
 ---
 choices: climb even higher mountains | charge a fee for climbing rocks | create places to climb indoors | develop new climbing techniques
 answerText: create places to climb indoors
+reviewed: yes
 ---
 【正解】3 create places to climb indoors（屋内で登る場所を作る）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: sources in which the word is used are found to be accurate. | the word is also being used in languages other than English. | a large number of people are using the word in the same way. | dictionary editors and their assistants think the word will be useful.
 answerText: a large number of people are using the word in the same way.
+reviewed: yes
 ---
 【正解】3 a large number of people are using the word in the same way.（多くの人々がその語を同じように使っている。）
 【和訳】
