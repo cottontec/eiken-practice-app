@@ -1,0 +1,29 @@
+---
+choices: find their favorite food | hunt in groups | use tools to catch fish | see fish in the dark
+answerText: find their favorite food
+---
+【正解】1 find their favorite food（自分の大好物を見つける）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 find their favorite food（自分の大好物を見つける）
+2 hunt in groups（群れで狩りをする）
+3 use tools to catch fish（道具を使って魚をとる）
+4 see fish in the dark（暗やみの中で魚を見る）
+【考え方】
+空所は第2段落の Orcas have an amazing ability to (25). です。「オルカには（25）する驚くべき能力がある」という意味です。その前の文に a team of scientists has discovered something new（ある科学者のチームが新しいことを発見した）とあるので、空所にはその発見の中身が入ります。発見の具体的な説明は、空所のあとに続いています。
+・The scientists knew that orcas prefer chinook salmon to other types of salmon.（科学者たちは、オルカがほかの種類のサケよりもチヌークサーモンのほうを好むことを知っていた）
+・What they noticed, however, is that orcas can find chinook salmon even when chinook salmon are swimming with other salmon of the same size.（しかし、彼らが気づいたのは、チヌークサーモンが同じ大きさのほかのサケと一緒に泳いでいるときでさえ、オルカがチヌークサーモンを見つけられるということだった）
+prefer A to B は「BよりAを好む」という意味です。オルカはチヌークサーモンが好きなので、チヌークサーモンはオルカの大好物だと言えます。そして、その大好物を、ほかのサケにまじっていても見つけられるのが「驚くべき能力」です。
+本文と選択肢を対にすると、次のようになります。
+本文 orcas prefer chinook salmon ＝ 選択肢 their favorite food（大好物）
+本文 orcas can find chinook salmon ＝ 選択肢 find
+1が正解です。
+【ほかの選択肢】
+2 「群れで狩りをする」は、本文に書かれていません。オルカが仲間と一緒に狩りをするという話は出てきません。
+3 「道具を使って魚をとる」も本文にありません。オルカが使うのは道具ではなく、音（エコーロケーション）です。
+4 「暗やみの中で魚を見る」も本文にありません。オルカは目で見るのではなく、音のはね返りで物を感じとると説明されていて、暗い場所についての話も出てきません。
+【覚えるポイント】
+・prefer A to B：「BよりAを好む」。
+・tell the difference between ～：「～の違いを見分ける」。

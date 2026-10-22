@@ -1,0 +1,30 @@
+---
+choices: People can get a better understanding of their problems by feeling the emotions of characters. | Some novels have lists of places where people can go to get the help that they need. | Some people enjoy reading the stories so much that they forget about their problems. | Novels about the future allow people to examine the world in a different way.
+answerText: People can get a better understanding of their problems by feeling the emotions of characters.
+---
+【正解】1 People can get a better understanding of their problems by feeling the emotions of characters.（人々は、登場人物の感情を感じることによって、自分の問題をよりよく理解できる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：心の問題を抱える人々に小説が使われている理由の1つは何ですか。
+1 人々は、登場人物の感情を感じることによって、自分の問題をよりよく理解できる。
+2 いくつかの小説には、人々が必要な助けを得るために行ける場所のリストがのっている。
+3 物語を読むのがとても楽しくて、自分の問題を忘れてしまう人もいる。
+4 未来についての小説によって、人々は世界を違ったやり方で見つめることができる。
+【考え方】
+小説（novels）を使う読書療法は、第4段落で説明されています。理由にあたる部分を順に確かめます。
+When a reader reads a novel, he or she will often experience the same emotions as characters in the novel.（読者が小説を読むとき、その人はしばしば、小説の登場人物と同じ感情を経験する）
+This experience can teach them to see their own problems more clearly.（この経験によって、読者は自分自身の問題をよりはっきりと見られるようになることがある）
+This experience（この経験）は、前の文の「登場人物と同じ感情を経験すること」を指しています。
+本文と選択肢を対にすると、次のようになります。
+本文 experience the same emotions as characters（登場人物と同じ感情を経験する）＝ 選択肢 feeling the emotions of characters（登場人物の感情を感じる）
+本文 see their own problems more clearly（自分自身の問題をよりはっきりと見る）＝ 選択肢 get a better understanding of their problems（自分の問題をよりよく理解する）
+1が正解です。
+【ほかの選択肢】
+2 本文に出てくるリストは、ロンドンのサービスが提供する a list of novels（小説のリスト）です。小説の中に「助けを得られる場所のリスト」がのっているのではないので、本文と違います。
+3 本文では、小説を読むと自分の問題を see more clearly（よりはっきり見る）ことができるとあります。問題を忘れてしまうという内容ではなく、本文にありません。
+4 未来についての小説の話は本文にありません。本文の最後の in the future（今後）は、読書療法が今後より一般的になるだろうという専門家の考えを表すもので、小説の内容とは関係ありません。
+【覚えるポイント】
+・the same ～ as …：「…と同じ～」。the same emotions as characters で「登場人物と同じ感情」。
+・see ～ more clearly：「～をよりはっきりと見る、よりよく分かる」。

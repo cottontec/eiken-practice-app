@@ -1,0 +1,29 @@
+---
+choices: Patients can talk to doctors about their problems more easily. | Patients can receive effective treatment at a lower cost. | Doctors have more time to spend with each patient. | Doctors feel less pressure to find effective books.
+answerText: Patients can receive effective treatment at a lower cost.
+---
+【正解】2 Patients can receive effective treatment at a lower cost.（患者が、より安い費用で効果的な治療を受けられる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：「ブックス・オン・プリスクリプション」と呼ばれるプログラムのよい点の1つは何ですか。
+1 患者が、自分の問題について以前より気軽に医師と話せる。
+2 患者が、より安い費用で効果的な治療を受けられる。
+3 医師が、患者1人ひとりと過ごす時間が増える。
+4 医師が、効果的な本を見つけなければならないという重圧をあまり感じなくなる。
+【考え方】
+Books on Prescription（ブックス・オン・プリスクリプション）は第3段落に出てきます。prescription は「処方（医師が薬などを指示すること）」という意味で、このプログラムでは医師が患者に本をすすめます。
+よい点が書かれているのは、次の文です。
+Research has shown that getting patients to read about their problems in this way is just as effective as other, more expensive kinds of treatment.（研究によって、このように患者に自分の問題について読ませることは、ほかの、より費用のかかる種類の治療とちょうど同じくらい効果があることが分かっている）
+just as effective as ～ は「～とちょうど同じくらい効果がある」という意味です。比べる相手は other, more expensive kinds of treatment（ほかの、より費用のかかる種類の治療）です。つまり、本を読むこの方法は、より高い治療と同じくらい効き、しかもそれより費用が安くすむ、ということになります。
+本文と選択肢を対にすると、次のようになります。
+本文 just as effective as other, more expensive kinds of treatment（ほかの、より費用のかかる治療と同じくらい効果がある）→ 読み取れること 選択肢 receive effective treatment at a lower cost（より安い費用で効果的な治療を受けられる）
+2が正解です。
+【ほかの選択肢】
+1 患者が医師と話しやすくなる、という内容は本文にありません。本文にあるのは、医師が本をすすめ、患者がそれを読むという方法です。
+3 医師が患者1人ひとりと過ごす時間が増える、という内容は本文にありません。
+4 医師が本を見つける重圧を感じなくなる、という内容は本文にありません。本文には、医師が患者に本をすすめるとあるだけで、医師の気持ちについては書かれていません。
+【覚えるポイント】
+・just as ～ as …：「…とちょうど同じくらい～」。
+・more expensive：「より費用のかかる」。比べる相手より値段が高いことを表します。
