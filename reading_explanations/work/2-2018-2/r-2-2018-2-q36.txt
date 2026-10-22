@@ -1,0 +1,31 @@
+---
+choices: the ancestors of most Chinese people originally came from the Indus Valley. | the DNA of the mummies had come from a number of places outside of China. | many European-looking people have DNA that comes from China. | most of the mummies were created in the Middle East and later moved to China.
+answerText: the DNA of the mummies had come from a number of places outside of China.
+---
+【正解】2 the DNA of the mummies had come from a number of places outside of China.（ミイラのDNAが、中国の外のいくつもの場所から来ていたこと。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ナショナル・ジオグラフィック協会は（　）ことを発見した。
+1 ほとんどの中国人の祖先は、もともとインダス川流域から来た
+2 ミイラのDNAが、中国の外のいくつもの場所から来ていた
+3 ヨーロッパ人のような外見の人々の多くが、中国から来たDNAを持っている
+4 ミイラのほとんどは中東で作られ、のちに中国へ運ばれた
+【考え方】
+ナショナル・ジオグラフィック協会の話は、第3段落に出てきます。
+In 2007, a team from the National Geographic Society took samples of DNA from a group of mummies and started to analyze them.（2007年、ナショナル・ジオグラフィック協会のチームが、ミイラのあるグループからDNAの試料を採り、分析し始めた）
+Their first results suggested that the mummies or their ancestors came from a variety of places—Europe, the Middle East, and the Indus Valley in India and Pakistan.（最初の結果からは、ミイラやその祖先が、さまざまな場所――ヨーロッパ、中東、そしてインドとパキスタンにあるインダス川流域――から来たことがうかがえた）
+ancestor は「祖先」、a variety of ～ は「さまざまな～」という意味です。挙げられているヨーロッパ、中東、インダス川流域は、どれも中国の外の場所です。
+本文と選択肢を対にすると、次のようになります。
+本文 a variety of places（さまざまな場所）＝ 選択肢 a number of places（いくつもの場所）
+本文 Europe, the Middle East, and the Indus Valley in India and Pakistan（ヨーロッパ、中東、インドとパキスタンのインダス川流域）→ 選択肢 outside of China（中国の外）
+本文 the mummies or their ancestors came from ～（ミイラやその祖先が～から来た）→ 選択肢 the DNA of the mummies had come from ～（ミイラのDNAが～から来ていた）
+DNAの分析の結果として述べられているので、「ミイラのDNAのもとが中国の外にある」と言いかえられています。ですから、2が正解です。
+【ほかの選択肢】
+1 分析されたのはミイラのDNAで、「ほとんどの中国人の祖先」についての発見ではありません。また、インダス川流域は、挙げられたさまざまな場所のうちの1つにすぎません。
+3 本文の内容と向きが逆です。本文では、ヨーロッパ人のような外見のミイラ（やその祖先）が中国の外から来たとされています。ヨーロッパ人のような人々が中国から来たDNAを持っているとは書かれていません。
+4 中東は、ミイラやその祖先が来た場所の1つとして挙げられているだけです。ミイラが中東で作られてから中国に運ばれたとは書かれていません。第1段落では、タクラマカン砂漠のミイラは乾燥によって自然にできたものだと説明されています。
+【覚えるポイント】
+・ancestor：「祖先」。
+・a variety of ～：「さまざまな～」。a number of ～（いくつもの～）と言いかえられることがあります。

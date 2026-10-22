@@ -1,0 +1,30 @@
+---
+choices: They are often created for the purpose of preserving a certain culture. | Techniques for making them spread from ancient Egypt to other cultures. | Most have been found in the Taklamakan Desert area of China. | Some have been created naturally as a result of environmental conditions.
+answerText: Some have been created naturally as a result of environmental conditions.
+---
+【正解】4 Some have been created naturally as a result of environmental conditions.（環境の条件の結果として、自然にできたものもある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ミイラについて正しいことは何ですか。
+1 ある文化を保存する目的で作られることが多い。
+2 ミイラを作る技術が、古代エジプトからほかの文化へ広まった。
+3 ほとんどは中国のタクラマカン砂漠の地域で見つかっている。
+4 環境の条件の結果として、自然にできたものもある。
+【考え方】
+ミイラ全体についての説明は、第1段落に書かれています。
+Some of these mummies are ones that have been created on purpose.（こうしたミイラの中には、意図的に作られたものもある）
+There are other mummies, however, that have been created by chance, usually through extreme dryness.（しかし、偶然に、たいていは極度の乾燥によってできたミイラもある）
+on purpose は「わざと、意図的に」、by chance は「偶然に」という意味です。つまり、ミイラには、人がわざと作ったものと、乾燥によって偶然できたものの2種類があります。続く文でも、such natural mummies（そのような自然のミイラ）と言いかえられています。
+本文と選択肢を対にすると、次のようになります。
+本文 other mummies ～ that have been created by chance（偶然にできたほかのミイラ）＝ 選択肢 Some have been created naturally（自然にできたものもある）
+本文 through extreme dryness（極度の乾燥によって）＝ 選択肢 as a result of environmental conditions（環境の条件の結果として）
+極度の乾燥は、その土地の気候という「環境の条件」に当たります。ですから、4が正解です。
+【ほかの選択肢】
+1 本文には、意図的に作られたミイラもあるとは書かれていますが、「ある文化を保存するため」という目的は書かれていません。また often（よく、多くの場合）とも書かれていません。
+2 本文には、最も有名なミイラは古代エジプトのもので、ミイラはほかの多くの文化でも見つかっている、とあるだけです。作る技術がエジプトからほかへ広まったとは書かれていません。
+3 本文には One area where many such natural mummies have been found is the Taklamakan Desert（そのような自然のミイラが数多く見つかっている地域の1つがタクラマカン砂漠だ）とあります。「多く見つかっている地域の1つ」であって、「ミイラのほとんどがそこで見つかっている」わけではないので、言い過ぎです。
+【覚えるポイント】
+・on purpose：「わざと、意図的に」。反対は by chance（偶然に）です。
+・Some ～. There are other ～.：「～なものもある。…なものもある」と、種類を分けて説明する形です。

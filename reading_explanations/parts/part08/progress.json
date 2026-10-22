@@ -83,8 +83,8 @@
       "batchId": "2-2017-1",
       "target": 38,
       "written": 38,
-      "contentReviewed": 0,
-      "status": "complete_unreviewed",
+      "contentReviewed": 38,
+      "status": "complete_reviewed",
       "blank": 0,
       "issues": 0,
       "checkErrors": 0,
@@ -126,9 +126,13 @@
     {
       "batchId": "2-2018-2",
       "target": 38,
-      "written": 0,
+      "written": 38,
       "contentReviewed": 0,
-      "status": "not_started"
+      "status": "complete_unreviewed",
+      "blank": 0,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 3
     },
     {
       "batchId": "2-2018-3",
@@ -173,5 +177,5 @@
       "status": "not_started"
     }
   ],
-  "updatedAt": "2026-10-22T05:40:32+00:00"
+  "updatedAt": "2026-10-22T05:41:34+00:00"
 }

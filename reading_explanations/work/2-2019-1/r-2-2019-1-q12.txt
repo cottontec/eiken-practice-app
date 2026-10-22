@@ -1,0 +1,20 @@
+---
+choices: deal | base | force | role
+answerText: deal
+---
+【正解】1 deal（a great deal of ～ で「たくさんの～」）
+【和訳】
+A：このフォトアルバム、本当によくできているね。写真を全部選ぶのに、（たくさんの）時間がかかったにちがいないね。
+B：うん、かかったよ。2週間、毎晩取り組んだんだ。
+（選択肢の意味）1 （a great deal of ～ で）たくさんの～　2 土台、基地　3 力　4 役割
+【考え方】
+空所の前後を見ると、It must have taken a great (　) of time to choose all the photos.（写真を全部選ぶのに、great（　）of の時間がかかったにちがいない）となっています。must have ＋過去分詞 は「～したにちがいない」という意味です。
+a great deal of ～ は「たくさんの～」という意味の決まった言い方で、time（時間）のような数えられないものの量が多いことを表します。a great deal of time で「たくさんの時間」となります。
+Bの答えも確かめます。Yes, it did. I worked on it every night for two weeks.（うん、かかった。2週間、毎晩取り組んだ）とあり、時間がたくさんかかったことと合います。ですから、1が正解です。
+【ほかの選択肢】
+2 base は「土台、基地」です。a great base of time という言い方はなく、「時間の大きな土台がかかった」では意味が通りません。
+3 force は「力」です。a great force of time という言い方はなく、「時間の大きな力がかかった」では意味が通りません。
+4 role は「役割」です。「時間の大きな役割がかかった」となり、意味が通りません。
+【覚えるポイント】
+・a great deal of ～：「たくさんの～」。time や money など、数えられないものに使います。
+・must have ＋過去分詞：「～したにちがいない」。過去のことを推測する（手がかりから考えて言う）表現です。

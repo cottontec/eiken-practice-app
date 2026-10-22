@@ -1,0 +1,29 @@
+---
+choices: The first people to live there originally came from another place. | The first civilization was developed 2,000 years ago by East Asians in the area. | The Western people who moved there 5,000 years ago took the land from East Asians. | The Chinese were responsible for developing its early culture.
+answerText: The first people to live there originally came from another place.
+---
+【正解】1 The first people to live there originally came from another place.（そこに最初に住んだ人々は、もともと別の場所から来た。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ビクター・メアは、タクラマカン砂漠の地域についてどう考えていますか。
+1 そこに最初に住んだ人々は、もともと別の場所から来た。
+2 その地域で最初の文明は、2,000年前に東アジアの人々によって発展させられた。
+3 5,000年前にそこへ移り住んだ西方の人々は、東アジアの人々から土地をうばった。
+4 その地域の初期の文化を発展させたのは中国の人々だった。
+【考え方】
+ビクター・メアの考えは、第4段落に書かれています。
+He believes that the earliest settlers in the Taklamakan Desert were Western people who moved there 5,000 years ago.（彼は、タクラマカン砂漠に最初に住みついた人々は、5,000年前にそこへ移り住んだ西方の人々だったと考えている）
+settler は「（新しい土地に）住みついた人」、the earliest は「最も早い、最初の」という意味です。また、moved there（そこへ移り住んだ）とあるので、この人々はほかの場所からやって来たことが分かります。
+本文と選択肢を対にすると、次のようになります。
+本文 the earliest settlers in the Taklamakan Desert（タクラマカン砂漠に最初に住みついた人々）＝ 選択肢 The first people to live there（そこに最初に住んだ人々）
+本文 Western people who moved there（そこへ移り住んだ西方の人々）＝ 選択肢 originally came from another place（もともと別の場所から来た）
+ですから、1が正解です。
+【ほかの選択肢】
+2 本文には It was only about 2,000 years ago that East Asians reached the area.（東アジアの人々がこの地域にたどり着いたのは、わずか2,000年ほど前のことだった）とあります。2,000年前は東アジアの人々がやって来た時期であり、その地域で最初の文明を発展させたとは書かれていません。
+3 西方の人々が移り住んだのは5,000年前で、東アジアの人々が来たのは約2,000年前です。西方の人々が来たときには、まだ東アジアの人々はこの地域にいなかったことになるので、「東アジアの人々から土地をうばった」は本文と合いません。
+4 メアは、the early development of Chinese civilization may have been more influenced by the West than has traditionally been believed（中国文明の初期の発展は、これまで考えられてきたよりも大きく西方の影響を受けていたかもしれない）と述べています。西方の影響を強調しているので、「初期の文化を発展させたのは中国の人々だった」というメアの考えは本文にありません。
+【覚えるポイント】
+・settler：「（新しい土地に）住みついた人、移住者」。
+・It was only ～ that ...：「…したのは、わずか～のことだった」と、時期を強調する言い方です。
