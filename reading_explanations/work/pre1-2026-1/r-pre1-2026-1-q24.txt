@@ -2,14 +2,14 @@
 choices: is no longer necessary | should not take long to complete | will not only benefit Tuvalu | has no clear purpose
 answerText: will not only benefit Tuvalu
 ---
-【正解】3 will not only benefit Tuvalu（ツバルのためになるだけではない）
+【正解】3 will not only benefit Tuvalu（ツバルのためになるだけではないだろう）
 【和訳】
 ＜本文の全訳＞
 {{本文全訳}}
 ＜この空所の選択肢の意味＞
 1 is no longer necessary（もはや必要ない）
 2 should not take long to complete（完成までに長くはかからないはずだ）
-3 will not only benefit Tuvalu（ツバルのためになるだけではない）
+3 will not only benefit Tuvalu（ツバルのためになるだけではないだろう）
 4 has no clear purpose（はっきりした目的がない）
 【考え方】
 まず見るところ：第3段落の最後の This could also help to ensure the survival of other island nations facing similar threats from the sea.

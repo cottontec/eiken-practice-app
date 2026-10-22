@@ -1,0 +1,32 @@
+---
+choices: It may have been a way for males to demonstrate their physical strength and their ability to protect females from danger. | It could have helped to keep them safe from animals because it brought out anger, making them better able to respond to attacks. | It would have had the effect of helping to prevent other people from trying to kill them or steal their belongings. | It seems to have provided a way for them to handle stress related to suffering caused by the harmful actions of other humans.
+answerText: It would have had the effect of helping to prevent other people from trying to kill them or steal their belongings.
+---
+【正解】3 It would have had the effect of helping to prevent other people from trying to kill them or steal their belongings.（それには、ほかの人々が自分たちを殺そうとしたり、持ち物を盗もうとしたりするのを防ぐのに役立つ効果があっただろう。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Which of the following is mentioned as an advantage of taking revenge for early humans?（初期の人類にとっての復讐の利点として述べられているのは、次のうちどれか。）
+1 It may have been a way for males to demonstrate their physical strength and their ability to protect females from danger.（それは、男性が自分の体の強さと、女性を危険から守る能力を示す方法だったのかもしれない。）
+2 It could have helped to keep them safe from animals because it brought out anger, making them better able to respond to attacks.（それは怒りを引き出し、攻撃によりうまく対応できるようにしたので、動物から身を守るのに役立ったかもしれない。）
+3 It would have had the effect of helping to prevent other people from trying to kill them or steal their belongings.（それには、ほかの人々が自分たちを殺そうとしたり、持ち物を盗もうとしたりするのを防ぐのに役立つ効果があっただろう。）
+4 It seems to have provided a way for them to handle stress related to suffering caused by the harmful actions of other humans.（それは、ほかの人間の有害な行動によって生じた苦しみに関わるストレスに対処する方法を与えたようだ。）
+【考え方】
+まず見るところ：第2段落の In addition, since human ancestors in ancient times faced frequent threats, such as murder and theft, ～
+設問の early humans（初期の人類）は、第2段落の human ancestors in ancient times（古代の人間の祖先）のことです。その部分を見ます。
+In addition, since human ancestors in ancient times faced frequent threats, such as murder and theft, an instinct for getting even would have proved beneficial in discouraging others from harming them.（さらに、古代の人間の祖先は、殺人や盗みのような危険にたびたび直面していたので、仕返しをする本能は、ほかの人が自分たちに危害を加えるのを思いとどまらせるのに役立っただろう）
+threat は「おどし、危険」、theft は「盗み」、get even は「仕返しをする」、beneficial は「役に立つ、ためになる」です。discourage A from ～ing は「Aに～するのを思いとどまらせる」です。
+本文と選択肢を対にすると、次のようになります。
+本文 would have proved beneficial（役立っただろう）≒ 選択肢 would have had the effect of helping（役立つ効果があっただろう）
+本文 discouraging others from harming them（ほかの人が自分たちに危害を加えるのを思いとどまらせる）≒ 選択肢 prevent other people from trying to ～（ほかの人々が～しようとするのを防ぐ）
+本文 murder and theft（殺人や盗み）≒ 選択肢 kill them or steal their belongings（自分たちを殺したり、持ち物を盗んだりする）
+ですから3が正解です。
+この問題の型：言いかえ（discouraging others from harming them ≒ prevent other people from trying to kill them or steal）
+【ほかの選択肢】
+1 第2段落には、男性、特に上半身の力がより強い男性は復讐に向かう傾向がより強い、と書かれています。しかし、体の強さを見せる方法だったことや、女性を危険から守る能力については書かれていません。本文で守るものとして書かれているのは、the resources they needed to live（生きるのに必要な資源）です。
+2 動物から身を守る話は本文にありません。本文で動物が出てくるのは、チンパンジーなどにも復讐が見られる、という部分です。また、怒りを引き出して攻撃にうまく対応できるようにした、ということも書かれていません。
+4 ストレスに対処する方法だったとは、初期の人類の利点として書かれていません。第1段落の過去の理論（たまった怒りを解き放つ方法という見方）に似た内容ですが、その考えには研究によって疑問が示されています。
+【覚えるポイント】
+・discourage A from ～ing：「Aに～するのを思いとどまらせる」。prevent A from ～ing（Aが～するのを防ぐ）と近い意味です。
+・設問の early humans のような語は、本文では human ancestors in ancient times のように別の言い方で書かれていることが多いので、まず同じものを指す語を本文から探すのが手がかりになります。

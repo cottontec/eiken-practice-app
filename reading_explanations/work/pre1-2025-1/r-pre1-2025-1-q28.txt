@@ -1,0 +1,35 @@
+---
+choices: It had a problem because it focused on the reasons that people wanted to get revenge rather than the degree of anger they felt. | It was created using the results of a well-known psychological study, but it reached an incorrect conclusion about them. | It was based on a misunderstanding about the relationship between victims and the people who cause harm to them. | It incorrectly suggested that revenge worked to reduce the amount of negative emotion, such as anger, that a wronged person felt.
+answerText: It incorrectly suggested that revenge worked to reduce the amount of negative emotion, such as anger, that a wronged person felt.
+---
+【正解】4 It incorrectly suggested that revenge worked to reduce the amount of negative emotion, such as anger, that a wronged person felt.（それは、復讐には、ひどい目にあわされた人が感じる、怒りのような負の感情の量を減らすはたらきがあると、誤って示していた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one thing that we learn about an older psychological theory of revenge?（復讐についての古い心理学の理論について分かることの一つは何か。）
+1 It had a problem because it focused on the reasons that people wanted to get revenge rather than the degree of anger they felt.（それは、人々が感じた怒りの度合いではなく、人々が復讐したいと思った理由に注目していたので、問題があった。）
+2 It was created using the results of a well-known psychological study, but it reached an incorrect conclusion about them.（それはよく知られた心理学の研究の結果を使って作られたが、その結果について誤った結論を出した。）
+3 It was based on a misunderstanding about the relationship between victims and the people who cause harm to them.（それは、被害者と、被害者に危害を加える人々との関係についての誤解にもとづいていた。）
+4 It incorrectly suggested that revenge worked to reduce the amount of negative emotion, such as anger, that a wronged person felt.（それは、復讐には、ひどい目にあわされた人が感じる、怒りのような負の感情の量を減らすはたらきがあると、誤って示していた。）
+【考え方】
+まず見るところ：第1段落の One famous psychological theory of the past viewed it as ～ と、続く Psychological studies, however, ～
+設問の an older psychological theory（古い心理学の理論）は、第1段落の次の文に出てきます。
+One famous psychological theory of the past viewed it as a way to release the buildup of rage or hatred that occurs in situations where a person feels victimized, just as releasing steam can decrease pressure in a steam engine.（過去の有名な心理学の理論の一つは、復讐を、人が自分は被害を受けたと感じる状況で生まれる、たまった激しい怒りや憎しみを解き放つ方法だと見ていた。ちょうど、蒸気を逃がすことで蒸気機関の中の圧力を下げられるのと同じように、というわけだ）
+release は「解き放つ、外に出す」、buildup は「たまったもの」、rage は「激しい怒り」、victimized は「被害を受けた」です。この理論は、復讐をすると怒りが外に出て減る、と考えていました。
+続く文を見ます。
+Psychological studies, however, have revealed that aggressive acts associated with revenge can actually leave people with increased levels of anger compared with those who do not attempt to get even.（しかし心理学の研究によって、復讐に関わる攻撃的な行動は、仕返しをしようとしない人と比べて、実際には人々の怒りの度合いを高めたままにすることがあると明らかになった）
+however（しかし）のあとで、研究の結果は理論と反対だったことが示されています。つまり、古い理論の考えは誤りだったということです。
+本文と選択肢を対にすると、次のようになります。
+本文 release the buildup of rage or hatred（たまった激しい怒りや憎しみを解き放つ）≒ 選択肢 reduce the amount of negative emotion, such as anger（怒りのような負の感情の量を減らす）
+本文 a person feels victimized（人が被害を受けたと感じる）≒ 選択肢 a wronged person（ひどい目にあわされた人）
+本文 however ～ increased levels of anger（しかし～怒りの度合いが高くなる）→ 選択肢 incorrectly（誤って）
+ですから4が正解です。
+この問題の型：言いかえ（release the buildup of rage ≒ reduce the amount of negative emotion）／対比（古い理論 ⇔ 研究の結果）
+【ほかの選択肢】
+1 古い理論が、人々が復讐したい理由に注目していたとは書かれていません。本文で示されている問題点は、復讐で怒りが減ると考えていたことです。
+2 古い理論が研究の結果を使って作られたとは、本文に書かれていません。本文の心理学の研究は、however のあとで、理論とは違う結果を示したものとして出てきます。
+3 被害者と加害者（危害を加える人）との関係についての誤解は、本文に書かれていません。古い理論が誤っていたのは、復讐が怒りにどう影響するかという点です。
+【覚えるポイント】
+・release：「解き放つ、外に出す」。a wronged person は「ひどい目にあわされた人」で、本文の a person feels victimized と近い意味です。
+・「過去の理論」が紹介されたすぐあとに however（しかし）と研究の結果が続くときは、その理論が誤っていたことを示している場合が多く、選択肢の incorrectly（誤って）などの語と結びつけるのが手がかりになります。
