@@ -1,0 +1,29 @@
+---
+choices: Read some books in the school library. | Get some extra help with her math studies. | Ask her mother to help with her homework. | Go to West Bridgeville College for special lessons.
+answerText: Get some extra help with her math studies.
+---
+【正解】2 Get some extra help with her math studies.（数学の勉強について、追加の手助けを受けること。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：マーク・タッカーはシルビアに何をしてほしいと思っていますか。
+1 学校の図書館で本を何冊か読むこと。
+2 数学の勉強について、追加の手助けを受けること。
+3 母親に宿題を手伝ってくれるように頼むこと。
+4 特別な授業を受けるためにウェスト・ブリッジビル大学へ行くこと。
+【考え方】
+第3段落で、タッカー先生は、シルビアが三角形の単元を学ぶための方法を2つ紹介しています。
+I am available for half an hour before school begins to help students who are having trouble with their schoolwork.（私は、学校の勉強でつまずいている生徒を手助けするために、始業前の30分間なら時間がある）
+Also, math students from West Bridgeville College come to the school library to give free tutoring every Wednesday after school.（また、ウェスト・ブリッジビル大学で数学を学ぶ学生たちが、毎週水曜日の放課後、学校の図書館に来て無料で個別指導をしている）
+tutoring は「個別指導（一人一人に合わせて勉強を教えること）」という意味です。そして先生は、母親に「シルビアを早く連れて来るか、水曜日に遅く迎えに来るか」を知らせてほしいと頼んでいます。
+始業前に先生に教わる方法も、水曜日の放課後に大学生から個別指導を受ける方法も、ふだんの授業に加えて数学を教えてもらうことです。ここから、次のことが読み取れます。
+本文 始業前の手助け・水曜日の放課後の無料の個別指導のどちらかを選んでほしい → 読み取れること：Get some extra help with her math studies（数学の勉強について追加の手助けを受けてほしい）
+extra は「追加の、いつもの分に加えた」という意味です。ですから2が正解です。
+【ほかの選択肢】
+1 本文に the school library（学校の図書館）は出てきますが、それは大学生が個別指導をしに来る場所としてです。図書館で本を読むようにとは書かれていません。
+3 先生が母親に頼んでいるのは、シルビアを早く連れて来るか、遅く迎えに来るかを知らせてもらうことです。母親に宿題を手伝ってもらうように、という話はありません。
+4 ウェスト・ブリッジビル大学の学生たちが、シルビアの学校の図書館に来て教えてくれるのです。シルビアが大学へ行くのではないので、場所が違います。
+【覚えるポイント】
+・tutoring：「個別指導」。教える人は tutor（個別指導の先生、家庭教師）と言います。
+・extra：「追加の、余分の」。extra help は「（ふだんに加えた）追加の手助け」です。
