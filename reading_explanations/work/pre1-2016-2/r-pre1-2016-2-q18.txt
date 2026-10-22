@@ -1,0 +1,30 @@
+---
+choices: flashy | dazed | sentimental | righteous
+answerText: sentimental
+---
+【正解】3 sentimental（思い出にかかわる、感情的な）
+【和訳】
+（英文）
+A: I heard you lost your watch. Was it expensive?
+B: No, but it had a lot of ［sentimental］ value. My grandfather gave it to me before he died.
+（訳）
+A：腕時計をなくしたって聞いたよ。高いものだったの？
+B：ううん、でも（思い出としての）価値がとても大きかったんだ。祖父が亡くなる前に私にくれたものなんだよ。
+（選択肢の意味）
+1 flashy：派手な、けばけばしい
+2 dazed：ぼうっとした
+3 sentimental：思い出にかかわる、感情的な
+4 righteous：正義の、正しい
+【考え方】
+まず見るところ：Bの No, but と My grandfather gave it to me before he died.
+Aは Was it expensive?（高いものだったの？）とたずねています。Bは No, but ～（いいえ、でも～）と答えています。値段は高くなかったけれど、別の意味の価値があった、という流れです。
+My grandfather gave it to me before he died.（祖父が亡くなる前に私にくれた）
+亡くなった祖父からもらった時計なので、思い出として大切だったのだと分かります。sentimental value で「（思い出や気持ちのうえでの）価値」という意味になるので、3が正解です。
+この問題の型：対比（お金の価値⇔思い出の価値）／語の意味・組み合わせ（sentimental value）
+【ほかの選択肢】
+1 flashy は「派手な」です。「派手な価値が大きかった」となり、意味が通らず、祖父からもらったという話ともつながりません。
+2 dazed は「ぼうっとした」で、人の様子を表す語です。「ぼうっとした価値」となり、意味が通りません。
+4 righteous は「正義の、正しい」です。「正義の価値が大きかった」となり、祖父からもらった時計の話とつながりません。
+【覚えるポイント】
+・sentimental value：「（思い出や気持ちのうえでの）価値」。値段とは別の価値を表す言い方です。
+・No, but ～ の答えでは、but のあとに前の質問とは別の面（ここではお金ではなく思い出）がくることが多いので、質問の内容と比べると手がかりになります。

@@ -1,0 +1,29 @@
+---
+choices: columns | constellations | councils | compartments
+answerText: compartments
+---
+【正解】4 compartments（仕切られた区画、仕切り）
+【和訳】
+（英文）
+Quentin loves his new travel bag. It has several different ［compartments］, so he can keep things like his guidebook, his passport, and his laptop computer in separate places.
+（訳）
+クエンティンは新しい旅行かばんをとても気に入っている。いくつかの別々の（仕切り）があるので、ガイドブックやパスポート、ノートパソコンのような物を、別々の場所に入れておくことができる。
+（選択肢の意味）
+1 columns：柱、（新聞などの）縦の列・コラム
+2 constellations：星座
+3 councils：議会、評議会
+4 compartments：仕切られた区画、（かばんなどの）仕切り
+【考え方】
+まず見るところ：so のあとの keep things ... in separate places
+so he can keep things like his guidebook, his passport, and his laptop computer in separate places（だから、ガイドブックやパスポート、ノートパソコンのような物を、別々の場所に入れておくことができる）
+separate places は「別々の場所」という意味です。so（だから）の前の空所には、物を分けて入れられる理由がきます。
+It has several different ( )（そのかばんには、いくつかの別々の（　）がある）
+かばんの中が仕切られていれば、物を別々に入れておけます。compartments は「仕切られた区画、（かばんなどの）仕切り」なので、4が正解です。
+この問題の型：因果（so）／言いかえ（compartments → separate places）
+【ほかの選択肢】
+1 columns は「柱、縦の列」です。かばんに柱や縦の列があっても、物を別々の場所に入れられる理由になりません。
+2 constellations は「星座」です。かばんについて言う言葉として意味が通りません。
+3 councils は「議会、評議会」です。かばんの中に議会があるとは言えず、意味が通りません。
+【覚えるポイント】
+・compartment：「仕切られた区画、仕切り」。かばんのほか、乗り物の区切られた部分などにも使われます。
+・so のあとに「その結果できること」（ここでは keep things in separate places）が書かれているときは、それを可能にするものを表す語が空所に入ると考えると手がかりになります。

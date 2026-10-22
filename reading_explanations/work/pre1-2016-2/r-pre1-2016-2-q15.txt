@@ -1,0 +1,28 @@
+---
+choices: blameless | linear | paternal | irrational
+answerText: irrational
+---
+【正解】4 irrational（理屈に合わない、理性的でない）
+【和訳】
+（英文）
+Darryl knows his fear of cats is ［irrational］. He has never been bitten or scratched by one, but he has still always been afraid of them.
+（訳）
+ダリルは、自分がネコをこわがる気持ちは（理屈に合わない）ものだと分かっている。ネコにかまれたことも、ひっかかれたことも一度もないのに、それでもずっとネコをこわがってきた。
+（選択肢の意味）
+1 blameless：責められるところのない、罪のない
+2 linear：直線の、一直線に進む
+3 paternal：父親の、父親らしい
+4 irrational：理屈に合わない、理性的でない
+【考え方】
+まず見るところ：後ろの文の He has never been bitten or scratched by one, but he has still always been afraid of them.
+He has never been bitten or scratched by one, but he has still always been afraid of them.（ネコにかまれたことも、ひっかかれたことも一度もないのに、それでもずっとネコをこわがってきた）
+one は a cat（1匹のネコ）を指します。has never been ～ は「一度も～されたことがない」という意味です。but のあとの still は「それでも」という意味です。
+こわい目にあったことがないのにこわがっている、ということは、こわがる理由がないことになります。irrational は「理屈に合わない」なので、4が正解です。
+この問題の型：対比（一度もかまれていない⇔それでもずっとこわい）
+【ほかの選択肢】
+1 blameless は「責められるところのない」です。「恐怖が責められるところのないものだ」となり、後ろの文の「理由がないのにこわい」という説明と結びつきません。
+2 linear は「直線の、一直線に進む」です。「恐怖が直線的だ」となり、意味が通りません。
+3 paternal は「父親の、父親らしい」です。この文には父親の話は出てこないので合いません。
+【覚えるポイント】
+・irrational：「理屈に合わない、理性的でない」。ir- は「～でない」の意味を足すことが多く、rational（理にかなった）の反対の意味になります。
+・空所の後ろに never ～, but still ...（一度も～ないのに、それでも…）の文があるときは、「理由がないのに～だ」という内容を表す語が手がかりになります。

@@ -2,7 +2,7 @@
 choices: TFA recruits are only in the classroom for two years, so any improvement they bring to classroom achievement is temporary at best. | Veteran teachers are experiencing cuts in salary and benefits because of the high number of TFA teachers willing to work for low pay. | The impact TFA recruits have on communities has been much smaller than it could be because of the program's limited funding. | The impressive background and intelligence of TFA teachers is not enough to make up for their lack of training and experience.
 answerText: The impressive background and intelligence of TFA teachers is not enough to make up for their lack of training and experience.
 ---
-【正解】4 The impressive background and intelligence of TFA teachers is not enough to make up for their lack of training and experience.（TFAの教師のすばらしい経歴と知性だけでは、訓練と経験の不足を補うのに十分ではない。）
+【正解】4 The impressive background and intelligence of TFA teachers is not enough to make up for their lack of training and experience.（TFAの教師のすばらしい経歴と知性は、訓練と経験の不足を補うのに十分ではない。）
 【和訳】
 ＜本文の全訳＞
 {{本文全訳}}
@@ -11,7 +11,7 @@ answerText: The impressive background and intelligence of TFA teachers is not en
 1 TFA recruits are only in the classroom for two years, so any improvement they bring to classroom achievement is temporary at best.（TFAの採用者は2年間しか教室にいないので、彼らが教室の学力にもたらす向上は、どれもよくて一時的なものにすぎない。）
 2 Veteran teachers are experiencing cuts in salary and benefits because of the high number of TFA teachers willing to work for low pay.（安い給料でも働こうとするTFAの教師が多いせいで、ベテランの教師は給料や手当を減らされている。）
 3 The impact TFA recruits have on communities has been much smaller than it could be because of the program's limited funding.（取り組みの資金が限られているため、TFAの採用者が地域社会に与える影響は、本来ありうるよりもずっと小さくなっている。）
-4 The impressive background and intelligence of TFA teachers is not enough to make up for their lack of training and experience.（TFAの教師のすばらしい経歴と知性だけでは、訓練と経験の不足を補うのに十分ではない。）
+4 The impressive background and intelligence of TFA teachers is not enough to make up for their lack of training and experience.（TFAの教師のすばらしい経歴と知性は、訓練と経験の不足を補うのに十分ではない。）
 【考え方】
 まず見るところ：第4段落の Deborah Appleman ～ says there is an elitist attitude at TFA
 アップルマンの意見は、第4段落の最後に書かれています。
