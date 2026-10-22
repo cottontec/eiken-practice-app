@@ -1,6 +1,7 @@
 ---
 choices: A mistake made by the LRDG allowed enemy forces to strengthen their hold on territory that the British hoped to gain. | The transfer of the LRDG to Europe meant the SAS had no choice but to attack enemy forces in a heavily defended area without LRDG support. | The activities of the LRDG made it possible for the British army to gain a significant advantage that led to it defeating enemy forces in the area. | British commanders decided the LRDG would be better put to use defending British-held territory than observing enemy activities.
 answerText: The activities of the LRDG made it possible for the British army to gain a significant advantage that led to it defeating enemy forces in the area.
+reviewed: yes
 ---
 【正解】3 The activities of the LRDG made it possible for the British army to gain a significant advantage that led to it defeating enemy forces in the area.（LRDGの活動によって、イギリス軍は大きな優位を得ることができ、それがその地域での敵軍に対する勝利につながった。）
 【和訳】

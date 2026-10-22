@@ -1,6 +1,7 @@
 ---
 choices: the European powers decided to try to raise capital by forcing other countries to pay for European food products in US dollars. | the British and American delegations did their best to ensure that George C. Marshall's comments about European decline were not made public. | the United States proposed protectionist trade policies as it had become clear that European countries were taking advantage of its leniency. | the United States took action to assist European countries partly because doing so would also benefit the United States.
 answerText: the United States took action to assist European countries partly because doing so would also benefit the United States.
+reviewed: yes
 ---
 【正解】4 the United States took action to assist European countries partly because doing so would also benefit the United States.（アメリカは、ヨーロッパの国々を助けるための行動をとった。その理由の一部は、そうすることがアメリカ自身の利益にもなるからだった。）
 【和訳】
@@ -17,7 +18,7 @@ answerText: the United States took action to assist European countries partly be
 第3段落は However, cracks began to appear.（しかし、ひび〔問題〕が現れ始めた）から、問題が現れたあとのことを説明しています。段落の終わりの2つの文を見ます。
 Concerns were raised that Europe might return to protectionist trade policies, which might negatively affect the free-trade-supporting United States.（ヨーロッパが保護主義的な貿易政策に戻るかもしれず、そうなれば、自由貿易を支持するアメリカに悪い影響を与えるかもしれないという心配の声が上がった）
 To address these and other concerns, the Marshall Plan was approved to provide billions of dollars in aid.（こうした心配やほかの心配に対処するため、何十億ドルもの援助を提供するマーシャル・プランが承認された）
-アメリカはマーシャル・プランで、ヨーロッパに何十億ドルもの援助をすることにしました。その目的の1つは、「ヨーロッパが保護主義に戻ると、アメリカに悪い影響が出る」という心配に対処することでした。つまり、ヨーロッパを助けることには、アメリカ自身を守るという面もあったと読み取れます。these and other concerns（こうした心配やほかの心配）とあり、理由はアメリカのためだけではないので、選択肢の partly（一部は）とも合います。本文と選択肢を対にすると、次のようになります。
+アメリカはマーシャル・プランで、ヨーロッパに何十億ドルもの援助をすることにしました。その目的の1つは、「ヨーロッパが保護主義に戻ると、アメリカに悪い影響が出る」という心配に対処することでした。つまり、ヨーロッパを助けることには、アメリカ自身を守るという面もあったと読み取れます。these and other concerns（こうした心配やほかの心配）とあるので、アメリカへの悪い影響という心配は理由の一部だったと考えられ、選択肢の partly（一部は）とも合います。本文と選択肢を対にすると、次のようになります。
 ・本文 the Marshall Plan was approved to provide billions of dollars in aid（何十億ドルもの援助を提供するマーシャル・プランが承認された）→ 言いかえると → 選択肢 took action to assist European countries（ヨーロッパの国々を助けるための行動をとった）
 ・本文 might negatively affect the free-trade-supporting United States（自由貿易を支持するアメリカに悪い影響を与えるかもしれない）という心配への対処 → 読み取れること → 選択肢 doing so would also benefit the United States（そうすることがアメリカの利益にもなる）
 ですから、4が正解です。

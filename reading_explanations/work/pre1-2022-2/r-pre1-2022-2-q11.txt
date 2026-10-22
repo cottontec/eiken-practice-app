@@ -1,6 +1,7 @@
 ---
 choices: division | appliance | imposition | longitude
 answerText: division
+reviewed: yes
 ---
 【正解】1 division（分裂、分けること）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: The United States was the only nation in a position to ensure that its currency would be stable enough to be used as a reserve currency. | It was important to allow Great Britain to feel it was still equal in terms of political power to the United States despite the dominance of the US dollar. | Both he and John Maynard Keynes felt European powers needed to hold onto their colonies to help them boost their productive capabilities. | Other countries would be able to use their large reserves of gold to support the value of their own currencies in the international financial system.
 answerText: The United States was the only nation in a position to ensure that its currency would be stable enough to be used as a reserve currency.
+reviewed: yes
 ---
 【正解】1 The United States was the only nation in a position to ensure that its currency would be stable enough to be used as a reserve currency.（アメリカは、自国の通貨が準備通貨として使えるほど安定していることを保証できる立場にある、ただ1つの国だった。）
 【和訳】
@@ -17,8 +18,8 @@ answerText: The United States was the only nation in a position to ensure that i
 ホワイトの名前が出てくるのは第2段落です。ブレトンウッズ体制のしくみと、ホワイトが指摘したことを確かめます。
 The Bretton Woods system hinged on an arrangement that directly linked the value of the US dollar to gold.（ブレトンウッズ体制は、アメリカのドルの価値を金と直接結びつける取り決めを軸にしていた）
 At the time, the US Federal Reserve possessed the world's largest reserves of gold, so as White pointed out, it seemed unlikely the United States would run out.（当時、アメリカの連邦準備制度は世界で最も多くの金の蓄えを持っていたので、ホワイトが指摘したように、アメリカが金を使い果たすことはありそうにないと思われた）
-ドルの価値は金と結びついているので、金がなくならなければドルは安定します。アメリカは世界でいちばん多くの金を持っていたので、ドルを安定させ続けられる、というのがホワイトの指摘です。さらに次の文で、金に裏づけられたドルが「世界の主要な準備通貨」になったと書かれています。
-世界でいちばん多くの金を持つ国はアメリカだけなので、ドルの安定を保証できるのはアメリカだけだった、と考えられます。本文と選択肢を対にすると、次のようになります。
+ドルの価値は金と結びついているので、金がなくならなければドルは安定します。アメリカは世界でいちばん多くの金を持っていたので、ホワイトは、アメリカが金を使い果たすことはなさそうだと指摘しました。金がなくならなければ、ドルと金の結びつきは保てると考えられます。さらに次の文で、金に裏づけられていると知られていたことが、ドルを「世界の主要な準備通貨」として確立するのに役立ったと書かれています。
+世界でいちばん多くの金を持っていたのはアメリカなので、ドルと金の結びつきを支えてドルの安定を保証できる立場にあるのはアメリカだけだった、と考えられます。本文と選択肢を対にすると、次のようになります。
 ・本文 possessed the world's largest reserves of gold（世界で最も多くの金の蓄えを持っていた）→ 読み取れること → 選択肢 the only nation in a position to ensure（保証できる立場にある、ただ1つの国）
 ・本文 it seemed unlikely the United States would run out（アメリカが金を使い果たすことはありそうにないと思われた）、the world's primary reserve currency（世界の主要な準備通貨）→ 読み取れること → 選択肢 its currency would be stable enough to be used as a reserve currency（自国の通貨が準備通貨として使えるほど安定している）
 ですから、1が正解です。

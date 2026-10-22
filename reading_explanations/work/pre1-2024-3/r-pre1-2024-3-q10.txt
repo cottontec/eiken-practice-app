@@ -1,6 +1,7 @@
 ---
 choices: revolve | digest | compile | afflict
 answerText: revolve
+reviewed: yes
 ---
 【正解】1 revolve（回転する）
 【和訳】

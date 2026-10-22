@@ -1,6 +1,7 @@
 ---
 choices: bystanders | reformers | mourners | pioneers
 answerText: bystanders
+reviewed: yes
 ---
 【正解】1 bystanders（その場に居合わせた人たち）
 【和訳】

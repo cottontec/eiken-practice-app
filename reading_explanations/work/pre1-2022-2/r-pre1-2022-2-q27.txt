@@ -1,6 +1,7 @@
 ---
 choices: questioned religious ideas | lost interest in raising cattle | experienced serious internal conflicts | developed a sophisticated society
 answerText: developed a sophisticated society
+reviewed: yes
 ---
 【正解】4 developed a sophisticated society（高度に発達した社会を築いた）
 【和訳】

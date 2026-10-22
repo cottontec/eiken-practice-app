@@ -1,6 +1,7 @@
 ---
 choices: also had another purpose | was created much earlier | was originally built elsewhere | caused people to avoid the area
 answerText: also had another purpose
+reviewed: yes
 ---
 【正解】1 also had another purpose（ほかの目的もあった）
 【和訳】

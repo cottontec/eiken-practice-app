@@ -1,6 +1,7 @@
 ---
 choices: The ability will likely disappear over time as it no longer provides an advantage to humans in terms of survival. | The fact that the brain uses loose criteria to identify faces allows people to quickly judge the emotions faces express. | The brain is only able to accurately identify the emotions faces express if those faces have very specific features. | The evolution of this ability occurred even though it created disadvantages as well as benefits for humans in the past.
 answerText: The fact that the brain uses loose criteria to identify faces allows people to quickly judge the emotions faces express.
+reviewed: yes
 ---
 【正解】2 The fact that the brain uses loose criteria to identify faces allows people to quickly judge the emotions faces express.（脳が顔を見分けるのに大まかな基準を使っていることによって、人々は顔が表す感情をすばやく判断することができる。）
 【和訳】

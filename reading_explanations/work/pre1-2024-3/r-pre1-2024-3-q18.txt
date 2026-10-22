@@ -1,6 +1,7 @@
 ---
 choices: catch on | throw off | fix up | back down
 answerText: back down
+reviewed: yes
 ---
 【正解】4 back down（引き下がる、主張をゆずる）
 【和訳】

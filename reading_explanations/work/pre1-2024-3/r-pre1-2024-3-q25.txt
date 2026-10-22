@@ -1,6 +1,7 @@
 ---
 choices: hoped to grow the silk industry in Europe by taking moths there that he collected in the United States. | bred a new variety of moth that helped to save the silk industry by increasing the amount of silk that could be produced. | accidentally introduced a species of moth to the United States that caused widespread environmental damage. | found a way to protect spongy moths from a fatal disease that had greatly reduced their numbers in Europe.
 answerText: accidentally introduced a species of moth to the United States that caused widespread environmental damage.
+reviewed: yes
 ---
 【正解】3 accidentally introduced a species of moth to the United States that caused widespread environmental damage.（思いがけず、広い範囲に環境の被害をもたらすことになるガの一種を、アメリカ合衆国に持ちこんでしまった。）
 【和訳】

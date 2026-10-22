@@ -1,6 +1,7 @@
 ---
 choices: paid off | wrote back | chopped up | made over
 answerText: paid off
+reviewed: yes
 ---
 【正解】1 paid off（努力などが報われた、成果が出た）
 【和訳】

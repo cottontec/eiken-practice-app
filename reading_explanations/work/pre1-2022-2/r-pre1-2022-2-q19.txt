@@ -1,6 +1,7 @@
 ---
 choices: disclosure | admittance | attainment | anarchy
 answerText: anarchy
+reviewed: yes
 ---
 【正解】4 anarchy（無秩序、大混乱）
 【和訳】

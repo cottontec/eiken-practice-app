@@ -1,6 +1,7 @@
 ---
 choices: gravitate | detach | uphold | eradicate
 answerText: uphold
+reviewed: yes
 ---
 【正解】3 uphold（法律などを守る、支える）
 【和訳】

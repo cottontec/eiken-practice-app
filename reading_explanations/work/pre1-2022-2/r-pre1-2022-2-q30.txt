@@ -1,6 +1,7 @@
 ---
 choices: increased their protests | started using different roads | began to change their minds | turned against cyclists
 answerText: began to change their minds
+reviewed: yes
 ---
 【正解】3 began to change their minds（考えを変え始めた）
 【和訳】

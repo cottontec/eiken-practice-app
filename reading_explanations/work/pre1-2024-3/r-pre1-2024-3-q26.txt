@@ -1,6 +1,7 @@
 ---
 choices: He always regretted turning down an offer to work in a famous observatory. | He ended up pursuing a career in astronomy as the result of an unexpected event. | He succeeded in fulfilling his childhood dream of doing research related to the night sky. | He only decided to study astronomy because doing so allowed him to stay in the United States.
 answerText: He ended up pursuing a career in astronomy as the result of an unexpected event.
+reviewed: yes
 ---
 【正解】2 He ended up pursuing a career in astronomy as the result of an unexpected event.（彼は、予想外の出来事の結果として、天文学の仕事の道に進むことになった。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: Trouvelot's work would likely have been less accurate if he had been able to use the materials that are available today. | Trouvelot never became well-known during his lifetime because most people had little interest in astronomy. | The scientific value of Trouvelot's drawings prevents them from being put on public display for people to enjoy. | The technology that proved the high quality of Trouvelot's illustrations was also responsible for them becoming unnecessary.
 answerText: The technology that proved the high quality of Trouvelot's illustrations was also responsible for them becoming unnecessary.
+reviewed: yes
 ---
 【正解】4 The technology that proved the high quality of Trouvelot's illustrations was also responsible for them becoming unnecessary.（トルーヴェロの絵の質の高さを証明した技術が、それらの絵が不要になった原因でもあった。）
 【和訳】

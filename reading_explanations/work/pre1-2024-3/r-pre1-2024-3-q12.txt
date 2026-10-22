@@ -1,6 +1,7 @@
 ---
 choices: crucial | debatable | inevitable | sacrificial
 answerText: inevitable
+reviewed: yes
 ---
 【正解】3 inevitable（避けられない、必ず起こる）
 【和訳】
@@ -27,4 +28,4 @@ And last week, that exact situation occurred.（そして先週、まさにそ�
 4 sacrificial は「犠牲の」です。「事故を起こすことは犠牲のものだった」となり、意味が通りません。
 【覚えるポイント】
 ・inevitable：「避けられない、必ず起こる」。it was inevitable (that) ～ で「～するのは避けられなかった」です。
-・so ～ that ...（あまりにも～なので…）の文では、that のあとが「～の結果どうなるか」です。前の「～」の程度が強いほど、that のあとには「必ずそうなる」という強い結果が来ることが多い、と考えると選びやすくなります。
+・so ～ that ...（あまりにも～なので…）の文では、that のあとが「～の結果どうなるか」です。前に so carelessly のような程度の強い言葉があるときは、that のあとにも「そうなって当然」という内容が来ると考えると、選びやすくなります。

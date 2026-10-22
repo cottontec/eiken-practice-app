@@ -1,6 +1,7 @@
 ---
 choices: took off | missed out | wore out | passed over
 answerText: took off
+reviewed: yes
 ---
 【正解】1 took off（急いで立ち去った、逃げ出した）
 【和訳】

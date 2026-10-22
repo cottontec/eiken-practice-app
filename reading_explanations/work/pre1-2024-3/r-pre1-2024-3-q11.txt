@@ -1,6 +1,7 @@
 ---
 choices: flurry | cascade | swirl | riot
 answerText: riot
+reviewed: yes
 ---
 【正解】4 riot（暴動）
 【和訳】

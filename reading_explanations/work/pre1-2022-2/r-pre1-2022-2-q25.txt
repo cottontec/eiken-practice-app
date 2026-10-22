@@ -1,6 +1,7 @@
 ---
 choices: tuck away | latch onto | cover up | doze off
 answerText: cover up
+reviewed: yes
 ---
 【正解】3 cover up（悪いことを隠す、もみ消す）
 【和訳】

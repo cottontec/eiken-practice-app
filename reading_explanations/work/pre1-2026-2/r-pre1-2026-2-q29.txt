@@ -1,0 +1,33 @@
+---
+choices: Its use declined around 1807 because the British navy no longer needed it to patrol the South Atlantic in its fight against the slave trade. | A technological development in the shipping industry contributed to the decline of its utility as a resupply port for trade ships. | Even after 1807, some ships carrying slaves demanded the use of Saint Helena's port facilities before continuing their journeys across the South Atlantic. | Many nations continued to use it even after the Suez Canal opened because they had established facilities there that enabled them to resupply quickly.
+answerText: A technological development in the shipping industry contributed to the decline of its utility as a resupply port for trade ships.
+---
+【正解】2 A technological development in the shipping industry contributed to the decline of its utility as a resupply port for trade ships.（海運業での技術の発達が、貿易船の補給港としての役立ち方が衰えることの一因となった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one point the author of the passage makes about the use of Saint Helena as a port in the nineteenth century?（19世紀のセントヘレナ島の港としての利用について、筆者が述べている点の1つは何か。）
+1 Its use declined around 1807 because the British navy no longer needed it to patrol the South Atlantic in its fight against the slave trade.（イギリス海軍が、奴隷貿易との戦いで南大西洋を見回るためにこの島をもう必要としなくなったので、1807年ごろに島の利用は減った。）
+2 A technological development in the shipping industry contributed to the decline of its utility as a resupply port for trade ships.（海運業での技術の発達が、貿易船の補給港としての役立ち方が衰えることの一因となった。）
+3 Even after 1807, some ships carrying slaves demanded the use of Saint Helena's port facilities before continuing their journeys across the South Atlantic.（1807年以降も、奴隷を運ぶ一部の船は、南大西洋を渡る旅を続ける前に、セントヘレナ島の港の施設を使わせるよう求めた。）
+4 Many nations continued to use it even after the Suez Canal opened because they had established facilities there that enabled them to resupply quickly.（多くの国々は、すばやく補給できる施設をそこにつくっていたので、スエズ運河が開通したあとも島を使い続けた。）
+【考え方】
+まず見るところ：第2段落の The introduction of steamships was a factor, as these vessels could travel longer distances than sailing ships without resupplying.
+Although the island remained a key port until well into the nineteenth century, it began to experience a decline.（島は19世紀に入ってかなりたつまで重要な港であり続けたが、衰退し始めた）
+decline は「衰退（勢いが弱まること）」という意味です。19世紀のある時期から、港としての大切さが下がっていったことが分かります。
+The introduction of steamships was a factor, as these vessels could travel longer distances than sailing ships without resupplying.（蒸気船の登場が1つの要因だった。蒸気船は、帆船よりも長い距離を、補給をせずに進むことができたからである）
+factor は「要因」、resupply は「補給する」という意味です。蒸気船は途中で補給しなくても遠くまで行けるので、補給のために島へ立ち寄る必要が減った、という流れです。
+本文と選択肢を対にすると、次のようになります。
+・本文 The introduction of steamships（蒸気船の登場）→ 選択肢 A technological development in the shipping industry（海運業での技術の発達）
+・本文 was a factor（1つの要因だった）→ 選択肢 contributed to（～の一因となった）
+・本文 it began to experience a decline（衰退し始めた）と without resupplying（補給をせずに）→ 選択肢 the decline of its utility as a resupply port（補給港としての役立ち方が衰えること）
+ですから2が正解です。
+この問題の型：言いかえ（steamships → a technological development）／因果（補給なしで遠くまで行ける船→補給港の衰退）
+【ほかの選択肢】
+1 本文の内容と合いません。本文では、1807年に奴隷貿易が禁止されたあと、the British navy used the island as a base（イギリス海軍はこの島を基地として使った）と書かれています。海軍が島を必要としなくなったのではありません。また、島は19世紀に入ってかなりたつまで重要な港であり続けたので、1807年ごろに利用が減ったわけでもありません。
+3 本文にありません。本文に出てくる奴隷を運ぶ船は、イギリス海軍が intercept（途中で捕らえる）相手で、その船が島の港の施設を使わせるよう求めたことは書かれていません。
+4 本文にありません。本文では、スエズ運河が had an impact（影響した）という主張があると書かれているだけで、運河の開通後も多くの国が島を使い続けたことや、すばやく補給できる施設があったことは書かれていません。
+【覚えるポイント】
+・a factor：「1つの要因」。選択肢では contributed to（～の一因となった）と言いかえられています。
+・本文の具体的な物（ここでは steamships）が、選択肢では a technological development（技術の発達）のように、ひとまとめにした言い方に変わることがあるので、具体と抽象の言いかえを探すことが手がかりになります。

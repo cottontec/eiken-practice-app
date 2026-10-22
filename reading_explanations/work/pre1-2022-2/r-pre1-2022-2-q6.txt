@@ -1,6 +1,7 @@
 ---
 choices: mortal | bashful | pious | concise
 answerText: bashful
+reviewed: yes
 ---
 【正解】2 bashful（恥ずかしがって、もじもじした）
 【和訳】

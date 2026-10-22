@@ -1,6 +1,7 @@
 ---
 choices: Most materials were imported | Some were incorrectly classified | Many survive to this day | The designs are rarely similar
 answerText: Many survive to this day
+reviewed: yes
 ---
 【正解】3 Many survive to this day（その多くは今日まで残っている）
 【和訳】

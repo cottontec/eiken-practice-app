@@ -1,6 +1,7 @@
 ---
 choices: fill in | duck out | catch on | give up
 answerText: catch on
+reviewed: yes
 ---
 【正解】3 catch on（～に気づく、理解する）
 【和訳】

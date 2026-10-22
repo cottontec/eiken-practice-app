@@ -1,6 +1,7 @@
 ---
 choices: memoirs | margins | monarchies | murals
 answerText: murals
+reviewed: yes
 ---
 【正解】4 murals（壁画）
 【和訳】

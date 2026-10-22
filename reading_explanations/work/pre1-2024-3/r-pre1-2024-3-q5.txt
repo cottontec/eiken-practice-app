@@ -1,6 +1,7 @@
 ---
 choices: erupt | smuggle | reign | infest
 answerText: smuggle
+reviewed: yes
 ---
 【正解】2 smuggle（密輸する、こっそり持ちこむ）
 【和訳】

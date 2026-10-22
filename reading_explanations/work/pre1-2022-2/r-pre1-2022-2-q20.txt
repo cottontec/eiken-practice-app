@@ -1,6 +1,7 @@
 ---
 choices: stationary | candid | edible | hideous
 answerText: edible
+reviewed: yes
 ---
 【正解】3 edible（食べられる）
 【和訳】

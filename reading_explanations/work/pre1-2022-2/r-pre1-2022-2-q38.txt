@@ -1,6 +1,7 @@
 ---
 choices: their soldiers were having limited success on missions in the desert because they were not being supplied with the right resources. | the airplanes being used to fly over enemy territory and make observations in the desert were in need of major improvements. | he could lead a unit of men on missions in the desert despite the fact that he had little experience in such an environment. | using a ground-based unit to gather information about enemy activities in the desert would be an effective strategy.
 answerText: using a ground-based unit to gather information about enemy activities in the desert would be an effective strategy.
+reviewed: yes
 ---
 【正解】4 using a ground-based unit to gather information about enemy activities in the desert would be an effective strategy.（砂漠での敵の活動について情報を集めるために、地上で活動する部隊を使うことは効果的な戦略になるということ。）
 【和訳】

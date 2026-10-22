@@ -1,6 +1,7 @@
 ---
 choices: reckon | thaw | stray | shatter
 answerText: thaw
+reviewed: yes
 ---
 【正解】2 thaw（凍ったものが解ける）
 【和訳】

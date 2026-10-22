@@ -1,6 +1,7 @@
 ---
 choices: designate | assemble | undertake | compromise
 answerText: designate
+reviewed: yes
 ---
 【正解】1 designate（指定する）
 【和訳】

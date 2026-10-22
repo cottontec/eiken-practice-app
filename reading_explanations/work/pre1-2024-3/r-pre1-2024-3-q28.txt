@@ -1,6 +1,7 @@
 ---
 choices: It was important for delegates to admit that some fundamental problems with the interwar financial order would never be solved. | European nations did not understand the need for reform, as they had not been affected by the Great Depression as much as the United States had. | Holding the conference in 1944 might have been a mistake, as it was not clear that the Allies would win World War II. | Although the Allies were working together to win the war, there were doubts about whether such cooperation would continue in economic fields.
 answerText: Although the Allies were working together to win the war, there were doubts about whether such cooperation would continue in economic fields.
+reviewed: yes
 ---
 【正解】4 Although the Allies were working together to win the war, there were doubts about whether such cooperation would continue in economic fields.（連合国は戦争に勝つために協力していたが、そうした協力が経済の分野でも続くかどうかについて疑問があった。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: Durians are now mainly grown in Malaysia because there is no longer enough land available to cultivate them in other Southeast Asian countries. | Although durians have been selling well in places where they were traditionally grown, they have yet to gain popularity in other countries. | Premium varieties of durians have been criticized by consumers because they have no more nutritional value than cheaper varieties. | Because of the increasing demand for durians, Malaysian farmers are switching from growing other crops to growing durians.
 answerText: Because of the increasing demand for durians, Malaysian farmers are switching from growing other crops to growing durians.
+reviewed: yes
 ---
 【正解】4 Because of the increasing demand for durians, Malaysian farmers are switching from growing other crops to growing durians.（ドリアンの需要が高まっているため、マレーシアの農家は、ほかの作物の栽培からドリアンの栽培に切りかえている。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: detectable | earnest | cumulative | underlying
 answerText: earnest
+reviewed: yes
 ---
 【正解】2 earnest（まじめな、心からの）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: may be misleading | was rejected by other researchers | was difficult to explain | may have a practical use
 answerText: may have a practical use
+reviewed: yes
 ---
 【正解】4 may have a practical use（実際の役に立つかもしれない）
 【和訳】

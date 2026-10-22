@@ -1,6 +1,7 @@
 ---
 choices: As a result | Even so | In fact | On the other hand
 answerText: In fact
+reviewed: yes
 ---
 【正解】3 In fact（実際、それどころか）
 【和訳】

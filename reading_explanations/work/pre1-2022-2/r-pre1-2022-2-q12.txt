@@ -1,6 +1,7 @@
 ---
 choices: merged | posed | conformed | flocked
 answerText: merged
+reviewed: yes
 ---
 【正解】1 merged（合併した、1つになった）
 【和訳】

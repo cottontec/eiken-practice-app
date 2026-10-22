@@ -1,6 +1,7 @@
 ---
 choices: gloomy | compulsory | reminiscent | muddled
 answerText: compulsory
+reviewed: yes
 ---
 【正解】2 compulsory（義務の、必ずしなければならない）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: was started by car manufacturers | had a surprising origin | created disagreement among drivers | angered many cyclists
 answerText: had a surprising origin
+reviewed: yes
 ---
 【正解】2 had a surprising origin（意外な始まり方をした）
 【和訳】

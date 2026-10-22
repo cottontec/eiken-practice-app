@@ -1,6 +1,7 @@
 ---
 choices: matrimony | federation | horizon | correspondence
 answerText: correspondence
+reviewed: yes
 ---
 【正解】4 correspondence（手紙のやりとり、文通）
 【和訳】

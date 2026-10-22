@@ -1,6 +1,7 @@
 ---
 choices: sparkled | leered | disproved | growled
 answerText: growled
+reviewed: yes
 ---
 【正解】4 growled（動物がうなった）
 【和訳】
@@ -16,10 +17,10 @@ When the man approached the tiger's cage, the huge animal ［growled］ deeply. 
 【考え方】
 まず見るところ：あとの文の at the terrifying sound
 The man stepped back in fear at the terrifying sound.（男性はその恐ろしい音におびえて後ずさりした）
-terrifying は「恐ろしい」、sound は「音」です。the terrifying sound（その恐ろしい音）の the は、前の文に出てきた音を指しています。ですから、空所にはトラが出した音を表す語が入ります。
+terrifying は「恐ろしい」、sound は「音」です。the terrifying sound（その恐ろしい音）の the（その）は、トラが空所の動作で出した音を指すと考えられます。ですから、空所にはトラが出す音を表す語が入ります。
 the huge animal (　) deeply（その巨大な動物は低く（　）した）
 deeply はここでは「（声が）低く、太く」という意味です。トラが低い声を出すことを growl（うなる）というので、4が正解です。
-この問題の型：指示語（the terrifying sound が空所の行動を指す）
+この問題の型：指示語（the terrifying sound が、空所の動作で出る音を指す）
 【ほかの選択肢】
 1 sparkled は「きらきら光った」です。光ることは音ではないので、「その恐ろしい音」とつながりません。
 2 leered は「（意地悪そうに）横目で見た」です。見ることは音を出すことではないので、「その恐ろしい音」とつながりません。

@@ -1,6 +1,7 @@
 ---
 choices: The two units were combined so that land and air raids could be performed at the same time. | The similar nature of their operations led to competition between the two units and their unwillingness to assist each other. | The LRDG used its knowledge of the desert to help the SAS improve both the effectiveness and safety of its missions. | The involvement of the SAS in LRDG missions made it more difficult for the LRDG to stay behind enemy lines for long periods of time.
 answerText: The LRDG used its knowledge of the desert to help the SAS improve both the effectiveness and safety of its missions.
+reviewed: yes
 ---
 【正解】3 The LRDG used its knowledge of the desert to help the SAS improve both the effectiveness and safety of its missions.（LRDGは砂漠についての知識を使って、SASが任務の効果と安全性の両方を高めるのを助けた。）
 【和訳】

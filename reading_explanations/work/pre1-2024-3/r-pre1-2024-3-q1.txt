@@ -1,6 +1,7 @@
 ---
 choices: needlessly | aggressively | cautiously | helplessly
 answerText: aggressively
+reviewed: yes
 ---
 【正解】2 aggressively（積極的に、攻撃的に）
 【和訳】

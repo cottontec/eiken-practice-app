@@ -1,0 +1,33 @@
+---
+choices: Although there was evidence that vessels of other European nations had already visited, the Portuguese claimed the island for Portugal. | The Portuguese realized that they could profit from the island's wealth of natural resources by charging Dutch and other nations' vessels to restock there. | The East India Company quickly took control of the island before it was found by anyone else, allowing it to exploit the natural resources there. | The Portuguese were able to take advantage of the island's natural resources for decades because other nations were not aware of its existence.
+answerText: The Portuguese were able to take advantage of the island's natural resources for decades because other nations were not aware of its existence.
+---
+【正解】4 The Portuguese were able to take advantage of the island's natural resources for decades because other nations were not aware of its existence.（ほかの国々がこの島の存在を知らなかったので、ポルトガル人は何十年もの間、島の天然資源を利用することができた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one thing that happened after Saint Helena was discovered in 1502?（1502年にセントヘレナ島が発見されたあとに起こったことの1つは何か。）
+1 Although there was evidence that vessels of other European nations had already visited, the Portuguese claimed the island for Portugal.（ほかのヨーロッパの国々の船がすでに訪れていたという証拠があったにもかかわらず、ポルトガル人はこの島をポルトガルのものだと主張した。）
+2 The Portuguese realized that they could profit from the island's wealth of natural resources by charging Dutch and other nations' vessels to restock there.（ポルトガル人は、オランダやほかの国々の船からそこでの補給の料金を取ることで、島の豊かな天然資源から利益を得られることに気づいた。）
+3 The East India Company quickly took control of the island before it was found by anyone else, allowing it to exploit the natural resources there.（東インド会社は、ほかのだれかに見つけられる前にすばやく島を支配し、そこの天然資源を利用することができた。）
+4 The Portuguese were able to take advantage of the island's natural resources for decades because other nations were not aware of its existence.（ほかの国々がこの島の存在を知らなかったので、ポルトガル人は何十年もの間、島の天然資源を利用することができた。）
+【考え方】
+まず見るところ：第1段落の For approximately eighty years, this isolated island remained a secret, known only to the Portuguese.
+Instead, with abundant forests and resources, the island became a staging post for their ships to restock with water and other provisions.（その代わりに、豊かな森林と資源があったこの島は、ポルトガルの船が水やその他の食料などを補給するための中継地点となった）
+staging post は「中継地点（旅のとちゅうで立ち寄る場所）」、restock は「補給する」という意味です。ポルトガル人は、島の資源を船の補給に使っていたことが分かります。
+For approximately eighty years, this isolated island remained a secret, known only to the Portuguese.（およそ80年の間、この孤立した島は秘密のままで、ポルトガル人にしか知られていなかった）
+known only to the Portuguese は「ポルトガル人にしか知られていなかった」という意味で、ほかの国の人々は島のことを知らなかったということです。
+本文と選択肢を対にすると、次のようになります。
+・本文 the island became a staging post for their ships to restock with water and other provisions（島はポルトガルの船が水などを補給する中継地点となった）と with abundant forests and resources（豊かな森林と資源があった）→ 選択肢 take advantage of the island's natural resources（島の天然資源を利用する）
+・本文 For approximately eighty years（およそ80年の間）→ 選択肢 for decades（何十年もの間）
+・本文 remained a secret, known only to the Portuguese（秘密のままで、ポルトガル人にしか知られていなかった）→ 選択肢 other nations were not aware of its existence（ほかの国々は島の存在を知らなかった）
+ですから4が正解です。
+この問題の型：言いかえ（known only to the Portuguese → other nations were not aware of its existence）
+【ほかの選択肢】
+1 本文の内容と合いません。本文には、島は約80年間 known only to the Portuguese（ポルトガル人にしか知られていなかった）と書かれているので、ほかのヨーロッパの国々の船がすでに訪れていたという証拠があったことにはなりません。ポルトガルが島を自国のものだと主張したことも書かれていません。
+2 本文にありません。ポルトガル人がほかの国の船から補給の料金を取ったことは書かれていません。オランダ人が出てくるのは17世紀に島を支配しようとした場面で、それまでの約80年間、島はポルトガル人にしか知られていませんでした。
+3 本文の内容と合いません。島を最初に見つけたのはポルトガルの船の航海士で、そのあとキャベンディッシュが島に行き着き、オランダ人も支配しようとしました。東インド会社は ultimately（最終的に）島を手に入れたので、「だれかに見つけられる前にすばやく」ではありません。
+【覚えるポイント】
+・known only to ～：「～にしか知られていない」。選択肢では other nations were not aware of its existence（ほかの国々は存在を知らなかった）と、反対側から言いかえられています。
+・本文の「約80年」のような具体的な数が、選択肢では for decades（何十年も）のようにまとめた言い方になることがあるので、数や期間の言いかえに注意すると手がかりになります。

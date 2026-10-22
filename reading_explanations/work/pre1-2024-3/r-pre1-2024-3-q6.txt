@@ -1,6 +1,7 @@
 ---
 choices: implicit | inedible | immature | inseparable
 answerText: inseparable
+reviewed: yes
 ---
 【正解】4 inseparable（離れられない、切っても切れない）
 【和訳】

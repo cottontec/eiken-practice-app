@@ -1,6 +1,7 @@
 ---
 choices: people's judgments about what emotions real faces are expressing are influenced by other real faces they have seen immediately before. | people attach emotional meaning to false faces more quickly than they do to real faces. | people tend to judge the emotions expressed by false faces as happier and more positive than those expressed by real faces. | people take longer to distinguish false faces when the faces are not expressing any emotions.
 answerText: people's judgments about what emotions real faces are expressing are influenced by other real faces they have seen immediately before.
+reviewed: yes
 ---
 【正解】1 people's judgments about what emotions real faces are expressing are influenced by other real faces they have seen immediately before.（本物の顔がどんな感情を表しているかについての人々の判断は、その直前に見たほかの本物の顔に影響される。）
 【和訳】

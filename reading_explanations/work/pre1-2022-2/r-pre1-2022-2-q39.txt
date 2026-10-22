@@ -1,6 +1,7 @@
 ---
 choices: The characteristics of the men chosen for it and the way it operated were different from those of traditional military units. | Because of its limited budget, it had to manage with fewer resources and older weapons than other units. | There were a large number of men in its patrols, so the officers had to have special training in management techniques. | The success of its missions was heavily dependent on the group having supplies sent to it behind enemy lines on a regular basis.
 answerText: The characteristics of the men chosen for it and the way it operated were different from those of traditional military units.
+reviewed: yes
 ---
 【正解】1 The characteristics of the men chosen for it and the way it operated were different from those of traditional military units.（LRDGのために選ばれた隊員の特徴や、部隊の活動のしかたは、従来の軍の部隊とは異なっていた。）
 【和訳】

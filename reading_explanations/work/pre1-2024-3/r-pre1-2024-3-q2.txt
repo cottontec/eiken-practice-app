@@ -1,6 +1,7 @@
 ---
 choices: appliance | generosity | clearance | complexity
 answerText: complexity
+reviewed: yes
 ---
 【正解】4 complexity（複雑さ）
 【和訳】

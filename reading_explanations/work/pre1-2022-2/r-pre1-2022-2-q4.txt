@@ -1,6 +1,7 @@
 ---
 choices: bureau | nuisance | sequel | metaphor
 answerText: nuisance
+reviewed: yes
 ---
 【正解】2 nuisance（やっかいなこと、面倒なこと）
 【和訳】

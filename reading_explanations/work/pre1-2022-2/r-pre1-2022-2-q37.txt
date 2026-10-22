@@ -1,6 +1,7 @@
 ---
 choices: Durian production might suffer if awareness is not raised about the important role giant fruit bats play in durian flower pollination. | Many people in Southeast Asia have become ill as a result of eating bat meat that was sold illegally at some markets. | Some durian farmers deliberately attract giant fruit bats to their orchards so that they can catch them and sell their meat. | There has been a significant drop in natural pollinators of durian flowers because many giant fruit bats have died from breathing problems.
 answerText: Durian production might suffer if awareness is not raised about the important role giant fruit bats play in durian flower pollination.
+reviewed: yes
 ---
 【正解】1 Durian production might suffer if awareness is not raised about the important role giant fruit bats play in durian flower pollination.（ドリアンの花の受粉でオオコウモリが果たしている重要な役割について、人々の意識が高まらなければ、ドリアンの生産は打撃を受けるかもしれない。）
 【和訳】

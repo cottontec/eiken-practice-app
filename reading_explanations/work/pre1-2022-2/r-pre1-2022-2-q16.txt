@@ -1,6 +1,7 @@
 ---
 choices: irrigate | harmonize | outpace | overthrow
 answerText: overthrow
+reviewed: yes
 ---
 【正解】4 overthrow（政府や指導者を倒す）
 【和訳】

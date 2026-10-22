@@ -1,6 +1,7 @@
 ---
 choices: resist | dispute | flourish | drain
 answerText: resist
+reviewed: yes
 ---
 【正解】1 resist（がまんする、さからう）
 【和訳】

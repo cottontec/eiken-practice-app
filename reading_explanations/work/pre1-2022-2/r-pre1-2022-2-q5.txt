@@ -1,6 +1,7 @@
 ---
 choices: saturated | flattered | ingested | ridiculed
 answerText: ridiculed
+reviewed: yes
 ---
 【正解】4 ridiculed（あざ笑われた、ばかにされた）
 【和訳】

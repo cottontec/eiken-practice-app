@@ -1,6 +1,7 @@
 ---
 choices: are still afraid of meeting their doubles | are more likely to have doubles than they think | have lost interest in the subject | have a poor understanding of genetics
 answerText: are more likely to have doubles than they think
+reviewed: yes
 ---
 【正解】2 are more likely to have doubles than they think（自分で思っているよりも、分身がいる可能性が高い）
 【和訳】

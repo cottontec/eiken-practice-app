@@ -1,13 +1,14 @@
 ---
 choices: treacherous | momentous | flirtatious | notorious
 answerText: notorious
+reviewed: yes
 ---
 【正解】4 notorious（悪いことで有名な、悪名高い）
 【和訳】
 （英文）
 No one was surprised when the famous scientist made many mistakes during his speech. He is ［notorious］ for his poor speaking skills.
 （訳）
-その有名な科学者が講演の間に多くのまちがいをしても、だれも驚かなかった。彼は話すのが下手なことで（悪名高い）。
+その有名な科学者が講演の間に多くのまちがいをしたとき、だれも驚かなかった。彼は話すのが下手なことで（悪名高い）。
 （選択肢の意味）
 1 treacherous：裏切りの、（道などが）危険な
 2 momentous：きわめて重大な
@@ -15,7 +16,7 @@ No one was surprised when the famous scientist made many mistakes during his spe
 4 notorious：（悪いことで）有名な、悪名高い
 【考え方】
 まず見るところ：前の文の No one was surprised と、空所のあとの for his poor speaking skills
-No one was surprised when the famous scientist made many mistakes during his speech.（その有名な科学者が講演の間に多くのまちがいをしても、だれも驚かなかった）
+No one was surprised when the famous scientist made many mistakes during his speech.（その有名な科学者が講演の間に多くのまちがいをしたとき、だれも驚かなかった）
 だれも驚かなかったのは、その科学者の話が下手なことを、みんながもともと知っていたからだと考えられます。
 He is (　) for his poor speaking skills.（彼は話すのが下手なことで（　）だ）
 be (　) for ～ で「～のことで…だ」という形です。poor speaking skills（話す力が低いこと）は悪い点なので、「悪いことで有名な」という意味の notorious が入ります。よって4が正解です。

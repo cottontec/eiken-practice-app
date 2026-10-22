@@ -1,6 +1,7 @@
 ---
 choices: although durian trees can be grown in almost any warm climate, they do best in areas where there are few other plants growing. | the tendency of durian trees to push out other plants is causing a sharp decline in the number of native plants. | durian trees should be grown in a location where they can be easily found by honeybees and other daytime pollinators. | if durian trees are left alone to be pollinated naturally, the trees are unlikely to produce a large amount of fruit.
 answerText: if durian trees are left alone to be pollinated naturally, the trees are unlikely to produce a large amount of fruit.
+reviewed: yes
 ---
 【正解】4 if durian trees are left alone to be pollinated naturally, the trees are unlikely to produce a large amount of fruit.（ドリアンの木を、自然に受粉するのにまかせておくと、たくさんの実をつける見こみは低い。）
 【和訳】

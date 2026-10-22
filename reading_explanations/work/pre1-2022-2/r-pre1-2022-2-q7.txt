@@ -1,6 +1,7 @@
 ---
 choices: jumble | relic | fraud | treaty
 answerText: relic
+reviewed: yes
 ---
 【正解】2 relic（昔から残っているもの、遺物）
 【和訳】

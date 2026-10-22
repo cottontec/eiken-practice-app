@@ -1,6 +1,7 @@
 ---
 choices: The system may have been more successful if the IMF had insisted that the US dollar remained tied to gold. | Although the system itself ended in failure, some economic organizations that play an important role today owe their existence to it. | The United States should have ended the system earlier to prevent a loss of confidence in the US dollar as a global currency. | Although both the IMF and the World Bank are influential today, their actions were considered the main reason for the system's downfall.
 answerText: Although the system itself ended in failure, some economic organizations that play an important role today owe their existence to it.
+reviewed: yes
 ---
 【正解】2 Although the system itself ended in failure, some economic organizations that play an important role today owe their existence to it.（この体制そのものは失敗に終わったが、今日重要な役割を果たしているいくつかの経済の組織は、この体制のおかげで存在している。）
 【和訳】

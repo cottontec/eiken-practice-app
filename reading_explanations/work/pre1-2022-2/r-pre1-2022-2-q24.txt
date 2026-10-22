@@ -1,6 +1,7 @@
 ---
 choices: falls on | squares with | drops by | stacks up
 answerText: falls on
+reviewed: yes
 ---
 【正解】1 falls on（責任などが～にかかる、～の役目になる）
 【和訳】

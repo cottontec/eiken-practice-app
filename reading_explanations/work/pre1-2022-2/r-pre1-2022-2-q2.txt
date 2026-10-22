@@ -1,6 +1,7 @@
 ---
 choices: remodel | stumble | overlap | instill
 answerText: instill
+reviewed: yes
 ---
 【正解】4 instill（考えや気持ちを植えつける、教えこむ）
 【和訳】

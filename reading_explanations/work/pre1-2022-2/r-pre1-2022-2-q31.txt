@@ -1,6 +1,7 @@
 ---
 choices: By contrast | In particular | Nonetheless | Therefore
 answerText: In particular
+reviewed: yes
 ---
 【正解】2 In particular（特に）
 【和訳】
