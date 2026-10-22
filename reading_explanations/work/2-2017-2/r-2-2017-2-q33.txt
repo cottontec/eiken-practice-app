@@ -1,6 +1,7 @@
 ---
 choices: thinks that it does not have to help the homeless in the United States any more. | believes its program was not successful because many people became homeless again. | has started to provide the homeless with the healthcare and work that they need. | has reached its original goal and plans to expand its services to homeless people in other places.
 answerText: has reached its original goal and plans to expand its services to homeless people in other places.
+reviewed: yes
 ---
 【正解】4 has reached its original goal and plans to expand its services to homeless people in other places.（もとの目標を達成し、ほかの場所のホームレスの人々にもサービスを広げる計画をしている。）
 【和訳】

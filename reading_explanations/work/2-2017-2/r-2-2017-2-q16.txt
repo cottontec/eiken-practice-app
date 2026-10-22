@@ -1,6 +1,7 @@
 ---
 choices: make | have | go | show
 answerText: make
+reviewed: yes
 ---
 【正解】1 make（make it で「間に合う、たどり着く」）
 【和訳】

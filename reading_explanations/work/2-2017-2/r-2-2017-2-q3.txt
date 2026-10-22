@@ -1,6 +1,7 @@
 ---
 choices: gradually | consequently | electronically | previously
 answerText: previously
+reviewed: yes
 ---
 【正解】4 previously（以前に、前に）
 【和訳】

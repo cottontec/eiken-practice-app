@@ -1,14 +1,15 @@
 ---
 choices: anything | nothing | everything | something
 answerText: nothing
+reviewed: yes
 ---
 【正解】2 nothing（for nothing で「無駄に、何の成果もなく」）
 【和訳】
 ジョージは美術館を訪れるために電車に乗って町へ行きましたが、美術館は閉まっていました。彼は、あれほどの道のりを（無駄に）移動したことにがっかりしました。
 （選択肢の意味）1 何か、何でも　2 何も～ない　3 すべてのもの　4 何か
 【考え方】
-1文目で、ジョージは to visit the art museum（美術館を訪れるために）町へ行きましたが、but it was closed（しかし、それは閉まっていた）とあります。目的の美術館に入れず、行った目的を果たせなかったことが分かります。
-2文目の He was disappointed at having traveled all that way は「あれほどの道のりを移動したことにがっかりした」という意味です。having traveled は「（すでに）移動したこと」を表しています。
+最初の文で、ジョージは to visit the art museum（美術館を訪れるために）町へ行きましたが、but it was closed（しかし、それは閉まっていた）とあります。目的の美術館に入れず、行った目的を果たせなかったことが分かります。
+空所のある文 He was disappointed at having traveled all that way は「あれほどの道のりを移動したことにがっかりした」という意味です。having traveled は「（すでに）移動したこと」を表しています。
 for nothing は「無駄に、何の成果もなく」という決まった言い方です。「はるばる移動したのに、何も得られなかった」という内容になり、美術館が閉まっていてがっかりした理由とぴったり合います。2が正解です。
 【ほかの選択肢】
 1 anything は「何か、何でも」です。for anything では「無駄に」という意味にならず、目的を果たせなかったことを表せません。

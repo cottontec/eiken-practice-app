@@ -1,6 +1,7 @@
 ---
 choices: bring | play | lead | prove
 answerText: play
+reviewed: yes
 ---
 【正解】2 play（play a trick on で「～にいたずらをする」）
 【和訳】
@@ -8,12 +9,12 @@ answerText: play
 （選択肢の意味）1 持ってくる　2 遊ぶ、演奏する（play a trick on で「～にいたずらをする」）　3 導く、案内する　4 証明する
 【考え方】
 空所のあとに a trick on her husband（夫に対するいたずら）が続いています。trick は「いたずら、計略」という意味です。
-2文目は She filled the sugar bowl with salt so that he would put salt in his tea.（彼女は、夫が紅茶に塩を入れるように、砂糖入れを塩でいっぱいにした）で、ナンシーがしたいたずらの中身を説明しています。so that ～ would ... は「～が…するように」という意味です。
-play a trick on ～ は「～にいたずらをする」という決まった言い方です。「夫にいたずらをすることにした」となり、2文目の内容とつながります。2が正解です。なお、April Fool's Day（エイプリルフール）は4月1日のことです。
+続く文 She filled the sugar bowl with salt so that he would put salt in his tea.（彼女は、夫が紅茶に塩を入れるように、砂糖入れを塩でいっぱいにした）は、ナンシーがしたいたずらの中身を説明しています。so that ～ would ... は「～が…するように」という意味です。
+play a trick on ～ は「～にいたずらをする」という決まった言い方です。「夫にいたずらをすることにした」となり、続く文の内容とつながります。2が正解です。なお、April Fool's Day（エイプリルフール）は4月1日のことです。
 【ほかの選択肢】
 1 bring は「持ってくる」です。bring a trick on her husband という言い方はなく、「夫にいたずらをする」という意味を表せません。
 3 lead は「導く、案内する」です。「夫にいたずらを導く」となり、意味が通りません。
-4 prove は「証明する」です。「夫にいたずらを証明する」となり、砂糖入れに塩を入れたという2文目とつながりません。
+4 prove は「証明する」です。「夫にいたずらを証明する」となり、砂糖入れに塩を入れたという続く文とつながりません。
 【覚えるポイント】
 ・play a trick on ～：「～にいたずらをする」。play a joke on ～ も近い意味です。
 ・so that ～ would ...：「～が…するように」と目的を表します。

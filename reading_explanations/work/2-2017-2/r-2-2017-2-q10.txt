@@ -1,13 +1,14 @@
 ---
 choices: shortening | observing | exporting | decorating
 answerText: exporting
+reviewed: yes
 ---
 【正解】3 exporting（輸出すること）
 【和訳】
 マークはハワイでコーヒー農園を始めました。彼はハワイではあまり多くのコーヒー豆を売ることができませんでしたが、それをほかの国々に（輸出し）始めてから、たくさんのお金をかせいできました。
 （選択肢の意味）1 短くすること　2 観察すること　3 輸出すること　4 飾ること
 【考え方】
-2文目の前半と後半が but（しかし）でつながっている点に注目します。
+空所のある文 He was not able to ～ の前半と後半が but（しかし）でつながっている点に注目します。
 ・前半：He was not able to sell many coffee beans in Hawaii（ハワイではあまり多くのコーヒー豆を売ることができなかった）
 ・後半：he has made a lot of money since he started (　) them to other countries（それらをほかの国々に（　）し始めてから、たくさんのお金をかせいできた）
 them は coffee beans（コーヒー豆）を指しています。ハワイではあまり売れなかったが、ほかの国に「どうする」ようになってから、お金をかせげるようになった、という対比（2つを比べて違いを示すこと）です。

@@ -1,6 +1,7 @@
 ---
 choices: has not been solved with temporary housing programs run by the government. | has not been as common a problem as it is in other countries around the world. | is often not a long-term situation but rather something that lasts for a short period. | is often not a problem for large cities but is more common in smaller cities.
 answerText: is often not a long-term situation but rather something that lasts for a short period.
+reviewed: yes
 ---
 【正解】3 is often not a long-term situation but rather something that lasts for a short period.（多くの場合、長く続く状況ではなく、むしろ短い期間だけ続くものである。）
 【和訳】

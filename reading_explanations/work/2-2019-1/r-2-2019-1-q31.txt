@@ -1,0 +1,29 @@
+---
+choices: They are not strong enough to improve the safety of cars. | They are made of aluminum which is too light to use in cars. | The steel that is used to make them is not filled with enough bubbles. | The air inside them causes environmental damage when it is released.
+answerText: They are not strong enough to improve the safety of cars.
+---
+【正解】1 They are not strong enough to improve the safety of cars.（それらは、車の安全性を高められるほど強くない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ほとんどの種類の発展金属に共通する問題の1つは何ですか。
+1 それらは、車の安全性を高められるほど強くない。
+2 それらは、軽すぎて車に使えないアルミニウムでできている。
+3 それらを作るのに使われる鉄鋼に、泡が十分に入っていない。
+4 それらの中の空気が外に出されると、環境に害を与える。
+【考え方】
+設問の most types of metal foam（ほとんどの種類の発泡金属）に注目します。第2段落の最後に、most of them（それらのほとんど）という似た言い方があります。
+Metal foams have been created for some time, but most of them have been very weak. This has made it difficult to use them in vehicles.（発泡金属はしばらく前から作られてきたが、そのほとんどはとても弱かった。このため、それらを乗り物に使うのは難しかった）
+vehicle は「乗り物」です。また、この段落の最初には、発泡金属を使う目的が make cars that are better able to protect the people inside them during accidents（事故のときに中の人をもっとよく守れる車を作る）ことだと書かれています。
+本文と選択肢を対にすると、次のようになります。
+本文 most of them have been very weak（ほとんどがとても弱かった）＝ 選択肢 They are not strong enough（十分に強くない）
+本文 difficult to use them in vehicles（乗り物に使うのが難しい）、make cars that are better able to protect the people inside them（中の人をもっとよく守れる車を作る）→ 選択肢 to improve the safety of cars（車の安全性を高めるのに）
+not ～ enough to ... は「…できるほど～ではない」という意味です。弱いために、車の安全性を高めるのに使えなかったということです。ですから、1が正解です。
+【ほかの選択肢】
+2 本文には、発泡金属は usually steel or aluminum（ふつうは鉄鋼かアルミニウム）でできているとあり、アルミニウムだけではありません。また、very light（とても軽い）とは書かれていますが、軽すぎて車に使えないとは書かれていません。使いにくい理由は、弱いことです。
+3 泡が足りないという話は本文にありません。発泡金属は75～95パーセントが空気だとあります。また、第3段落によると、それまでの発泡金属の問題は泡の量ではなく、泡の大きさがばらばらだったことです。
+4 発泡金属の中の空気が出されると環境に害を与える、という話は本文にありません。
+【覚えるポイント】
+・not ～ enough to ...：「…できるほど～ではない」。
+・vehicle：「乗り物（車など）」。

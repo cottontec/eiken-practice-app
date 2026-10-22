@@ -1,6 +1,7 @@
 ---
 choices: provide safe homes | find clean water | produce enough food | make enough energy
 answerText: produce enough food
+reviewed: yes
 ---
 【正解】3 produce enough food（十分な食べ物を生産する）
 【和訳】

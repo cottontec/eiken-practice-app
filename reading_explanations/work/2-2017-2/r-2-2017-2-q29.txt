@@ -1,6 +1,7 @@
 ---
 choices: Other students want to see what he will write about her. | He does not know if she is a good student or not. | So that he can write about things Mira wants him to. | Because he cannot remember her favorite hobbies.
 answerText: So that he can write about things Mira wants him to.
+reviewed: yes
 ---
 【正解】3 So that he can write about things Mira wants him to.（ミラが書いてほしいと思っていることについて書けるように。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: complained | breathed | fascinated | united
 answerText: united
+reviewed: yes
 ---
 【正解】4 united（一つになった、結びついた）
 【和訳】

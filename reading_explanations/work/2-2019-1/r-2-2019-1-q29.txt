@@ -1,0 +1,30 @@
+---
+choices: fill out the online writer's application form by June 25. | make a list of products that are good for the environment. | write a review of his magazine and recommend it to others. | pick a product to write about for Greenzine's next issue.
+answerText: pick a product to write about for Greenzine's next issue.
+---
+【正解】4 pick a product to write about for Greenzine's next issue.（『グリーンジン』の次の号のために、記事にする製品を選ぶこと。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ピート・メリックはヘンズリーさんに（　）するよう頼んでいます。
+1 6月25日までに、オンラインの書き手用の申込用紙に記入すること。
+2 環境によい製品の一覧を作ること。
+3 彼の雑誌の批評を書き、ほかの人々にその雑誌を勧めること。
+4 『グリーンジン』の次の号のために、記事にする製品を選ぶこと。
+【考え方】
+設問は「メリックさんがヘンズリーさんに頼んでいること」です。お願いを表す Please ～（～してください）という言い方を探します。第3段落にあります。
+Please choose one to write about, send in the application form, and then, we'll send you a free sample.（記事にするものを1つ選び、申込用紙を送ってください。そうしたら無料のサンプルを送ります）
+one は、直前の文の a list of these products（これらの製品の一覧）の中の製品の1つを指しています。つまり「添付した一覧から、記事にする製品を1つ選んでほしい」ということです。
+また、その記事がどの号のためのものかは、第2段落に we were wondering if you could write an article for the next issue（次の号に記事を書いていただけないかと考えていた）とあります。issue は雑誌の「号」のことです。
+本文と選択肢を対にすると、次のようになります。
+本文 choose one to write about（記事にするもの〔製品〕を1つ選ぶ）＝ 選択肢 pick a product to write about（記事にする製品を選ぶ）
+本文 an article for the next issue（次の号の記事）＝ 選択肢 for Greenzine's next issue（『グリーンジン』の次の号のために）
+choose が pick（選ぶ）に言いかえられています。ですから、4が正解です。
+【ほかの選択肢】
+1 申込用紙はEメールに添付されているもので、オンラインの用紙とは書かれていません。また、6月25日は書き終えた記事をEメールで送る期限です。申込用紙の期限ではありません。
+2 製品の一覧は、メリックさんがすでに作ってEメールに添付したものです（I've attached a list of these products）。ヘンズリーさんに一覧を作るよう頼んではいません。
+3 本文で review（批評）してほしいと言っているのは、新しい「グリーン」製品です。メリックさんの雑誌の批評を書いて人に勧めるよう頼んではいません。
+【覚えるポイント】
+・choose one to write about：「記事にする（書く題材の）ものを1つ選ぶ」。to write about が one を後ろから説明しています。
+・issue：雑誌の「号」。the next issue で「次の号」です。

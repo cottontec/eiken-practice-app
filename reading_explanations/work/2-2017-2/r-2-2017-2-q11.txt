@@ -1,6 +1,7 @@
 ---
 choices: come | stand | go | drop
 answerText: come
+reviewed: yes
 ---
 【正解】1 come（come by で「手に入れる」）
 【和訳】

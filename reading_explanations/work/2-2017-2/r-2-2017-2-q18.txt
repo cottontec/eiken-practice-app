@@ -1,6 +1,7 @@
 ---
 choices: Like | As | For | By
 answerText: As
+reviewed: yes
 ---
 【正解】2 As（as many as で「～もの数の」）
 【和訳】
@@ -9,7 +10,7 @@ answerText: As
 【考え方】
 空所のあとを見ると、(　) many as 2,000 people came と、many as と続いています。as があることに注目します。
 as many as ＋数 は「～もの（多くの数の）」という意味の決まった言い方です。もとは「～と同じくらい多くの」という意味で、数が多いことを強めて言うときに使います。As many as 2,000 people came. で「2,000人もの人々が来た」となります。
-1文目は Last week's summer festival was a huge success.（先週の夏祭りは大成功だった）です。「2,000人もの人が来た」は、大成功だったことの説明になっていて、流れも合います。2が正解です。
+前の文は Last week's summer festival was a huge success.（先週の夏祭りは大成功だった）です。「2,000人もの人が来た」は、大成功だったことの説明になっていて、流れも合います。2が正解です。
 【ほかの選択肢】
 1 Like は「～のような」です。Like many as 2,000 people という形はなく、many as と組み合わせて数の多さを表すことができません。
 3 For は「～のために」です。For many as 2,000 people では正しい英語にならず、「2,000人もの」という意味を表せません。

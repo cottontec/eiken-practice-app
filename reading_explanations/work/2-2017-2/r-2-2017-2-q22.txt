@@ -1,6 +1,7 @@
 ---
 choices: make their products healthier | satisfy these rules | improve the taste | change these requirements
 answerText: satisfy these rules
+reviewed: yes
 ---
 【正解】2 satisfy these rules（これらの決まりを満たす）
 【和訳】

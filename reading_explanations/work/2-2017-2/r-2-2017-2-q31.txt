@@ -1,6 +1,7 @@
 ---
 choices: Homeless people are offered job training and given new jobs. | Homeless people are provided with homes without any requirements. | It supports people who have trouble paying for medical treatments. | It helps people who have recently lost their home find a new one.
 answerText: Homeless people are provided with homes without any requirements.
+reviewed: yes
 ---
 【正解】2 Homeless people are provided with homes without any requirements.（ホームレスの人々は、何の条件もなく住まいを提供される。）
 【和訳】
@@ -8,7 +9,7 @@ answerText: Homeless people are provided with homes without any requirements.
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：10万戸の住まい運動は、ホームレスの人々を助けるための従来の（それまでの）方法と、どのように違いますか。
-1 ホームレスの人々は、職業訓練を受けさせてもらい、新しい仕事を与えられる。
+1 ホームレスの人々は、職業訓練を提供され、新しい仕事を与えられる。
 2 ホームレスの人々は、何の条件もなく住まいを提供される。
 3 医療費を払うのに困っている人々を支援する。
 4 最近家を失った人々が、新しい家を見つけるのを手助けする。

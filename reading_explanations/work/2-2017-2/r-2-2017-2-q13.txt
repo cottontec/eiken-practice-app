@@ -1,6 +1,7 @@
 ---
 choices: with | on | behind | over
 answerText: on
+reviewed: yes
 ---
 【正解】2 on（it's on me で「私のおごりだ、私が払う」）
 【和訳】

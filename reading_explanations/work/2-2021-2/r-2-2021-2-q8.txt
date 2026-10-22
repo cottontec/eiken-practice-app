@@ -1,0 +1,21 @@
+---
+choices: occasion | argument | identity | expense
+answerText: argument
+---
+【正解】2 argument（口論、言い争い）
+【和訳】
+リサと兄（弟）は、皿を洗うのがだれの番かについて（言い争い）をしました。2人とも、前回皿を洗ったのは自分だと思っていたのです。
+（選択肢の意味）1 機会、場合　2 口論、言い争い　3 身元、自分らしさ　4 費用、出費
+【考え方】
+空所の前は an なので、母音の音で始まる語が入りますが、4つの選択肢はどれも母音で始まります。そのため、形ではなく意味で選びます。
+空所のあとの about whose turn it was to wash the dishes は「皿を洗うのがだれの番かについて」です。whose turn は「だれの番」という意味です。
+2文目の They each thought that they were the one who had done it last time. に注目します。they each は「2人それぞれが」、the one who had done it last time は「前回それ（皿洗い）をした人」です。つまり、2人とも「前回洗ったのは自分だ」と思っていたので、どちらも「今回は相手の番だ」と考えていたことになります。
+考えが食い違って言い合うことを argument（口論、言い争い）と言います。have an argument about ～ で「～について言い争う」となるので、2が正解です。
+なお、her brother は兄か弟か、この文からは分かりません。そのため和訳では「兄（弟）」としています。
+【ほかの選択肢】
+1 occasion は「（特別な）機会、場合」です。「だれの番かについての機会を持った」では意味が通らず、2人の考えが食い違っていたという2文目ともつながりません。
+3 identity は「身元、自分らしさ」です。だれの番かという話は、身元の話ではありません。
+4 expense は「費用、出費」です。皿洗いの番の話にお金は出てこないので合いません。
+【覚えるポイント】
+・have an argument about ～：「～について言い争う、口論する」。動詞は argue（言い争う、主張する）です。
+・whose turn it is to ～：「～するのがだれの番か」。It's my turn.（私の番です）のように使います。

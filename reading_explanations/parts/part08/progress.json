@@ -94,8 +94,8 @@
       "batchId": "2-2017-2",
       "target": 38,
       "written": 38,
-      "contentReviewed": 0,
-      "status": "complete_unreviewed",
+      "contentReviewed": 38,
+      "status": "complete_reviewed",
       "blank": 0,
       "issues": 0,
       "checkErrors": 0,
@@ -177,5 +177,5 @@
       "status": "not_started"
     }
   ],
-  "updatedAt": "2026-10-22T05:42:59+00:00"
+  "updatedAt": "2026-10-22T05:44:11+00:00"
 }

@@ -1,6 +1,7 @@
 ---
 choices: the number of Navajo people who behave badly during religious ceremonies. | the number of accidents caused by tourists taking pictures. | the negative effects that tourists have on Navajo culture and traditions. | the negative effects that the old rules had on the way people were living.
 answerText: the negative effects that tourists have on Navajo culture and traditions.
+reviewed: yes
 ---
 【正解】3 the negative effects that tourists have on Navajo culture and traditions.（観光客がナバホ族の文化と伝統に与える悪い影響。）
 【和訳】
@@ -20,7 +21,7 @@ answerText: the negative effects that tourists have on Navajo culture and tradit
 ・It is hoped that with these rules, the Navajo people will be able to benefit from tourism without it causing any harm to their culture.（これらの規則によって、ナバホ族の人々が、観光によって文化に何の害も受けることなく、観光から利益を得られることが期待されている）
 in response to ～ は「～に対応して」という意味です。this problem（この問題）は、観光客がナバホ族の文化を尊重しなかったことを指しています。規則は、観光客が文化や伝統に与える悪い影響を防ぐために作られたと分かります。
 本文と選択肢を対にすると、次のようになります。
-本文 the effect tourists have on their traditions（観光客が伝統に与える影響）、harm to their culture（文化への害）＝ 選択肢 the negative effects that tourists have on Navajo culture and traditions（観光客がナバホ族の文化と伝統に与える悪い影響）
+本文 the effect tourists have on their traditions（観光客が伝統に与える影響）、harm to their culture（文化への害）→ 選択肢 the negative effects that tourists have on Navajo culture and traditions（観光客がナバホ族の文化と伝統に与える悪い影響）
 3が正解です。
 【ほかの選択肢】
 1 宗教の儀式の間に行儀の悪いふるまいをしたのは some tourists（一部の観光客）です。ナバホ族の人々ではないので、人物が違います。

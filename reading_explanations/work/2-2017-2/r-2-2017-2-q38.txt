@@ -1,6 +1,7 @@
 ---
 choices: The Spanish brought the churro with them to North and South America. | Tourists are not allowed to attend Navajo religious ceremonies. | Navajo shepherds sell wool to tourists who want to weave blankets. | Lyle McNeal believes sheep cause too much damage to the environment.
 answerText: The Spanish brought the churro with them to North and South America.
+reviewed: yes
 ---
 【正解】1 The Spanish brought the churro with them to North and South America.（スペイン人がチュロを北アメリカと南アメリカに連れてきた。）
 【和訳】

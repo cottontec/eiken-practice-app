@@ -1,6 +1,7 @@
 ---
 choices: compared the colors of the fish | located the salmon's home | took pictures of the orcas | recorded some orca sounds
 answerText: recorded some orca sounds
+reviewed: yes
 ---
 【正解】4 recorded some orca sounds（オルカの音をいくつか録音した）
 【和訳】

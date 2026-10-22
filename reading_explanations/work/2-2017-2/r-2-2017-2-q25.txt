@@ -1,6 +1,7 @@
 ---
 choices: find their favorite food | hunt in groups | use tools to catch fish | see fish in the dark
 answerText: find their favorite food
+reviewed: yes
 ---
 【正解】1 find their favorite food（自分の大好物を見つける）
 【和訳】
@@ -23,7 +24,7 @@ prefer A to B は「BよりAを好む」という意味です。オルカはチ�
 【ほかの選択肢】
 2 「群れで狩りをする」は、本文に書かれていません。オルカが仲間と一緒に狩りをするという話は出てきません。
 3 「道具を使って魚をとる」も本文にありません。オルカが使うのは道具ではなく、音（エコーロケーション）です。
-4 「暗やみの中で魚を見る」も本文にありません。オルカは目で見るのではなく、音のはね返りで物を感じとると説明されていて、暗い場所についての話も出てきません。
+4 「暗やみの中で魚を見る」も本文にありません。本文で説明されているのは、音のはね返り（エコーロケーション）で物の距離や形を感じとることで、暗い場所で目で見る話は出てきません。
 【覚えるポイント】
 ・prefer A to B：「BよりAを好む」。
 ・tell the difference between ～：「～の違いを見分ける」。

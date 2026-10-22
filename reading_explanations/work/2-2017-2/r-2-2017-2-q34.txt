@@ -1,6 +1,7 @@
 ---
 choices: It can easily live in a difficult climate and provides food and money to the Navajo. | It has the warmest wool and is able to move quickly in desert regions. | It is easy to take care of and was sold for a low price by the Spanish. | It is very strong and can carry the blankets that the Navajo make across great distances.
 answerText: It can easily live in a difficult climate and provides food and money to the Navajo.
+reviewed: yes
 ---
 【正解】1 It can easily live in a difficult climate and provides food and money to the Navajo.（厳しい気候の中でも楽に生きることができ、ナバホ族に食べ物とお金をもたらす。）
 【和訳】

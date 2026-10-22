@@ -1,6 +1,7 @@
 ---
 choices: The website for each school Mira is interested in. | The address of each college Mira will apply to. | What date he should write at the top of each letter. | When each college will need the letter from him.
 answerText: When each college will need the letter from him.
+reviewed: yes
 ---
 【正解】4 When each college will need the letter from him.（それぞれの大学が、いつ彼からの推薦状を必要とするか。）
 【和訳】

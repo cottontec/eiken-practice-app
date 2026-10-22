@@ -1,6 +1,7 @@
 ---
 choices: translated | inspected | illustrated | transformed
 answerText: inspected
+reviewed: yes
 ---
 【正解】2 inspected（検査される、調べられる）
 【和訳】
@@ -8,11 +9,11 @@ answerText: inspected
 （選択肢の意味）1 翻訳される　2 検査される　3 挿絵を入れられる、図で説明される　4 すっかり変えられる、変形される
 【考え方】
 まず文の形を見ます。their bags are (　) by security officers は、are ＋（過去分詞）＋ by ～ の形です。これは受け身（「～される」という意味を表す形）で、「かばんは警備員によって（　）される」という意味になります。
-次に、2文目を見ます。The officers check to make sure visitors are not carrying any dangerous objects.（警備員は、来館者が危険な物を何も持っていないことを確かめるために調べる）とあります。check（調べる）、make sure（確かめる）という語から、警備員がかばんの中を調べていることが分かります。
-inspect は「（細かく）調べる、検査する」という意味です。受け身の inspected を入れると、「かばんは警備員によって検査される」となり、2文目の内容とぴったり合います。2が正解です。
+次に、あとの文 The officers check to make sure visitors are not carrying any dangerous objects.（警備員は、来館者が危険な物を何も持っていないことを確かめるために調べる）を見ます。check（調べる）、make sure（確かめる）という語から、警備員がかばんの中を調べていることが分かります。
+inspect は「（細かく）調べる、検査する」という意味です。受け身の inspected を入れると、「かばんは警備員によって検査される」となり、あとの文の内容とぴったり合います。2が正解です。
 【ほかの選択肢】
 1 translated は「翻訳される（ある言葉を別の言葉に置きかえられる）」です。翻訳されるのは言葉や文章で、「かばんが翻訳される」では意味が通りません。
-3 illustrated は「挿絵を入れられる、図で説明される」です。「かばんに挿絵が入れられる」となり、危険な物を持っていないか確かめるという2文目とつながりません。
+3 illustrated は「挿絵を入れられる、図で説明される」です。「かばんに挿絵が入れられる」となり、危険な物を持っていないか確かめるというあとの文とつながりません。
 4 transformed は「すっかり変えられる、変形される」です。「かばんが警備員によって変形される」となり、意味が通りません。
 【覚えるポイント】
 ・inspect：「（細かく）調べる、検査する」。名詞は inspection（検査）。

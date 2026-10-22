@@ -1,6 +1,7 @@
 ---
 choices: asked for advice about choosing a college. | recommended Mr. Klessmer as a teacher. | took Mr. Klessmer's class last year. | graduated from high school recently.
 answerText: took Mr. Klessmer's class last year.
+reviewed: yes
 ---
 【正解】3 took Mr. Klessmer's class last year.（去年、クレスマーさんの授業を受けた。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: Hospitals asked the government to find a way to reduce the number of patients. | People living in cities want to find a way to help the homeless. | It is cheaper than covering other costs that are caused by being homeless. | An organization offered to help build homes if the government paid for them.
 answerText: It is cheaper than covering other costs that are caused by being homeless.
+reviewed: yes
 ---
 【正解】3 It is cheaper than covering other costs that are caused by being homeless.（ホームレスであることによって生じるほかの費用を負担するよりも安い。）
 【和訳】
@@ -18,13 +19,13 @@ answerText: It is cheaper than covering other costs that are caused by being hom
 ・This is because homeless people are more likely to need expensive medical treatment involving long stays in the hospital, which governments end up paying for.（それは、ホームレスの人々のほうが、長期の入院をともなう高額な医療を必要とする可能性が高く、その費用は結局、自治体が払うことになるからだ）
 in the long run は「長い目で見れば」、end up -ing は「結局～することになる」という意味です。ホームレスのままだと、入院などの高い医療費を自治体が払うことになります。それに比べると、住まいを用意するほうが安くすむ、ということです。
 本文と選択肢を対にすると、次のようになります。
-本文 saves money in the long run（長い目で見ればお金の節約になる）＝ 選択肢 It is cheaper than ～（～よりも安い）
+本文 saves money in the long run（長い目で見ればお金の節約になる）→ 選択肢 It is cheaper than ～（～よりも安い）
 本文 expensive medical treatment ..., which governments end up paying for（自治体が結局払うことになる高額な医療）→ 選択肢 other costs that are caused by being homeless（ホームレスであることによって生じるほかの費用）と、まとめて言いかえられています。
 選択肢3は「住まいを提供する費用」と「ホームレスのままで生じる費用」を比べ、前者のほうが安いと言っています。3が正解です。
 【ほかの選択肢】
 1 本文の hospital（病院）は、ホームレスの人々が長く入院することが多い、という話で出てくるだけです。病院が患者の数を減らす方法を見つけるよう政府に頼んだとは書かれていません。
 2 都市に住む人々がどう思っているかは、本文に書かれていません。自治体が同意した理由として本文にあるのは、お金の節約になることです。
-4 本文で団体がしたのは、ボランティアによる聞き取りと、住まいを受け取る順番を決めることです。団体が住まいを建てる手伝いを申し出たという話はありません。
+4 本文には、団体が「政府が費用を払うなら住まいを建てる手伝いをする」と申し出たという話はありません。第3段落で団体がしたこととして書かれているのは、ボランティアの聞き取りの情報を使って、住まいを受け取る順番を決めたことです。自治体が同意した理由として書かれているのは、お金の節約になることです。
 【覚えるポイント】
 ・in the long run：「長い目で見れば、最終的には」。
 ・end up -ing：「結局～することになる」。

@@ -1,0 +1,28 @@
+---
+choices: become its only industry | decrease in the future | cause damage to the streets | make museums lose money
+answerText: become its only industry
+---
+【正解】1 become its only industry（その市の唯一の産業になる）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 become its only industry（その市の唯一の産業になる）
+2 decrease in the future（将来減る）
+3 cause damage to the streets（通りに損害を与える）
+4 make museums lose money（美術館や博物館に損をさせる）
+【考え方】
+空所は第2段落の Amsterdam's leaders also worry that tourism will (22).（アムステルダムの指導者たちはまた、観光が（22）のではないかと心配している）です。also（また）とあるので、その前に書かれた交通渋滞や美術館・博物館の行列とは別の心配が入ると分かります。
+手がかりは空所のあとです。
+・This problem has already happened in Venice, Italy.（この問題はイタリアのベネチアですでに起きている）
+・most non-tourism jobs have already moved to other areas of Italy（観光以外の仕事のほとんどは、すでにイタリアのほかの地域に移ってしまった）
+・Venice now has more tourists than residents（ベネチアには今では住民よりも多くの観光客がいる）
+This problem（この問題）は空所の内容を指しています。ベネチアでは、観光以外の仕事がほとんどなくなり、観光ばかりの町になってしまいました。アムステルダムの指導者たちが心配しているのも、同じように観光以外の仕事がなくなることだと考えられます。
+become its only industry（その市の唯一の産業になる）を入れると、「観光が市の唯一の産業になってしまうのではないかと心配している」となり、ベネチアの例とつながります。its はアムステルダムを指します。1が正解です。
+【ほかの選択肢】
+2 「将来減る」は、第1段落の this number is rising（この数は増え続けている）と合いません。また、ベネチアの例は観光客が減った話ではなく、観光以外の仕事が出ていった話なので、This problem の説明にもなりません。
+3 「通りに損害を与える」については、本文に書かれているのは観光バスが狭い通りで traffic jams（交通渋滞）を起こすことで、通りが壊れるなどの損害ではありません。また、空所のあとのベネチアの例は仕事の話であり、通りの話ではありません。
+4 「美術館や博物館に損をさせる」は本文にありません。本文では、人気のある美術館や博物館に入るのに何時間も待たなければならないと書かれていて、むしろ人が集まっている様子です。
+【覚えるポイント】
+・This problem has already happened in ～：空所のあとで「この問題は～ですでに起きている」と例が続くとき、その例の内容から空所を考えます。
+・more A than B：「BよりもAが多い」。Venice now has more tourists than residents で「ベネチアには住民よりも多くの観光客がいる」。

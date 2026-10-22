@@ -1,0 +1,30 @@
+---
+choices: Exchange it for other goods on the store's website. | Write about it in his review of the book. | Tell Maze and get a coupon code. | Send an e-mail to the customer service center.
+answerText: Send an e-mail to the customer service center.
+---
+【正解】4 Send an e-mail to the customer service center.（カスタマーサービスセンターにEメールを送る。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：配送中に本が傷んでいた場合、スミスさんはどうすべきですか。
+1 それを店のウェブサイトのほかの商品と交換する。
+2 本のレビューの中でそのことについて書く。
+3 メイズに伝えてクーポンコードをもらう。
+4 カスタマーサービスセンターにEメールを送る。
+【考え方】
+設問の his book was damaged during delivery は「本が配送中に傷んだ」という意味です。これは「配送の問題」に当たります。
+第2段落に、配送の問題についての説明があります。
+If you had a problem with delivery or payment, please send a message to our customer service center at customer-service@mazebooks.com.（配送やお支払いに問題があった場合は、当社のカスタマーサービスセンター〔customer-service@mazebooks.com〕までメッセージをお送りください）
+メッセージを送る先として、Eメールのアドレスが書かれています。ですから、センターにEメールを送ればよいと分かります。
+本文と選択肢を対にすると、次のようになります。
+本文 a problem with delivery（配送の問題）＝ 設問 his book was damaged during delivery（配送中に本が傷んだ）
+本文 send a message to our customer service center at（Eメールのアドレス）＝ 選択肢 Send an e-mail to the customer service center
+ですから、4が正解です。
+【ほかの選択肢】
+1 第2段落の it cannot be used to purchase other goods on our website（ほかの商品の購入には使えない）は、クーポンの使い道についての説明です。傷んだ本をほかの商品と交換できるとは、どこにも書かれていません。
+2 第2段落に we're asking for a review of the content of the book, not of our services（お願いしているのは本の内容についてのレビューであり、当社のサービスについてではない）とあります。配送はサービスにかかわることなので、レビューに書くのは、メールのお願いと反対です。
+3 クーポンコードがもらえるのは Once your book review is complete（本のレビューが完了したら）です。配送の問題をメイズに伝えたらクーポンコードがもらえるとは書かれていません。
+【覚えるポイント】
+・If you had a problem with ～, please ...：「～に問題があった場合は…してください」。問題が起きたときの対応を示す言い方です。
+・Once ～：「いったん～したら、～したらすぐ」。

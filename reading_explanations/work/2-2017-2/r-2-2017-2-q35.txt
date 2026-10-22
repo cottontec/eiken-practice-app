@@ -1,6 +1,7 @@
 ---
 choices: a professor from Utah State University found a way to help the Navajo find new jobs. | the number of sheep living on Navajo lands increased from only 400 to 6,000. | the Navajo's sheep began to cause more damage to the environment than before. | many Navajo lost their traditional source of income and had to find new types of work.
 answerText: many Navajo lost their traditional source of income and had to find new types of work.
+reviewed: yes
 ---
 【正解】4 many Navajo lost their traditional source of income and had to find new types of work.（多くのナバホ族の人々が伝統的な収入源を失い、新しい種類の仕事を見つけなければならなかった。）
 【和訳】

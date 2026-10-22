@@ -1,6 +1,7 @@
 ---
 choices: For example | In exchange | Nevertheless | By then
 answerText: In exchange
+reviewed: yes
 ---
 【正解】2 In exchange（その見返りに、引き換えに）
 【和訳】

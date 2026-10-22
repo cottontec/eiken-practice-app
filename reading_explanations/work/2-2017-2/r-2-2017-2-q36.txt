@@ -1,6 +1,7 @@
 ---
 choices: By selling their sheep to the tourists that visit in the summer. | By showing their traditional lifestyle to tourists and teaching them skills. | By cooking traditional Navajo foods and serving them in local restaurants. | By carrying goods such as Navajo blankets up the mountains in the winter.
 answerText: By showing their traditional lifestyle to tourists and teaching them skills.
+reviewed: yes
 ---
 【正解】2 By showing their traditional lifestyle to tourists and teaching them skills.（観光客に伝統的な暮らし方を見せ、技術を教えることによって。）
 【和訳】

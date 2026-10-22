@@ -1,0 +1,19 @@
+---
+choices: irritating | judging | detecting | exchanging
+answerText: irritating
+---
+【正解】1 irritating（いらいらさせている）
+【和訳】
+ケイトは、彼女の住む通りで行われている工事の音が自分を（いらいらさせていた）ので、寝室の窓を閉めました。
+（選択肢の意味）1 いらいらさせている　2 判断している　3 見つけ出している、感知している　4 交換している
+【考え方】
+文の後半は because the sound of the construction on her street was (　) her です。because のあとが、ケイトが窓を閉めた理由になります。the sound of the construction は「工事の音」で、これが文の主語（「～が」に当たる部分）です。was ～ing は「～していた」という過去進行形です。
+「工事の音が彼女を（　）していた」ので、窓を閉めたという流れです。窓を閉めたのは、工事の音が気にさわったからだと考えられます。
+irritate は「いらいらさせる」という意味の動詞なので、the sound was irritating her で「その音が彼女をいらいらさせていた」となり、窓を閉めた理由になります。ですから1が正解です。
+【ほかの選択肢】
+2 judging は judge（判断する、審査する）の -ing 形です。「工事の音が彼女を判断していた」では、音が何かを判断することになり、意味が通りません。
+3 detecting は detect（見つけ出す、感知する）の -ing 形です。「工事の音が彼女を見つけ出していた」では意味が通らず、窓を閉める理由にもなりません。
+4 exchanging は exchange（交換する）の -ing 形です。「工事の音が彼女を交換していた」では意味が通りません。
+【覚えるポイント】
+・irritate：「いらいらさせる」。irritated は「（人が）いらいらしている」、irritating は「（ものが人を）いらいらさせるような」です。
+・construction：「工事、建設」。under construction で「工事中」。

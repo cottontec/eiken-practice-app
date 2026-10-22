@@ -1,6 +1,7 @@
 ---
 choices: practical | complex | informal | minor
 answerText: practical
+reviewed: yes
 ---
 【正解】1 practical（実用的な、実際に使うのに便利な）
 【和訳】
