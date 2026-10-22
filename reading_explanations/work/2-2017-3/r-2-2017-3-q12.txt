@@ -1,6 +1,7 @@
 ---
 choices: filled with | due to | reminded of | suffering from
 answerText: filled with
+reviewed: yes
 ---
 【正解】1 filled with（～でいっぱいの）
 【和訳】

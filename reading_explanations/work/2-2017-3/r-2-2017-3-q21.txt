@@ -1,6 +1,7 @@
 ---
 choices: At most | On the other hand | Despite this | Because of this
 answerText: Because of this
+reviewed: yes
 ---
 【正解】4 Because of this（このため、これが理由で）
 【和訳】

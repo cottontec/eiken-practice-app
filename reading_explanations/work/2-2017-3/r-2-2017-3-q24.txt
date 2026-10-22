@@ -1,6 +1,7 @@
 ---
 choices: the amount of time they drive | the number of cars they have | their impact on the environment | their use of electricity
 answerText: their impact on the environment
+reviewed: yes
 ---
 【正解】3 their impact on the environment（自分たちが環境に与える影響）
 【和訳】

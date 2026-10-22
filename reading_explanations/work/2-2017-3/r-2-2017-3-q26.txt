@@ -1,6 +1,7 @@
 ---
 choices: meeting as few people | spending as much money | visiting as many places | using as little gasoline
 answerText: using as little gasoline
+reviewed: yes
 ---
 【正解】4 using as little gasoline（〔as ～ as possible の形で〕できるだけ少ないガソリンを使い）
 【和訳】

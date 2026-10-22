@@ -1,6 +1,7 @@
 ---
 choices: recreation | conflict | planet | assistance
 answerText: assistance
+reviewed: yes
 ---
 【正解】4 assistance（手助け、援助）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: free | shocked | equal | ready
 answerText: ready
+reviewed: yes
 ---
 【正解】4 ready（〔be ready to ～ の形で〕～する気持ちになっている）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: straight on | left on | well off | far off
 answerText: well off
+reviewed: yes
 ---
 【正解】3 well off（裕福な、暮らし向きがよい）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: interfere with | concentrate on | see about | laugh at
 answerText: concentrate on
+reviewed: yes
 ---
 【正解】2 concentrate on（～に集中する）
 【和訳】

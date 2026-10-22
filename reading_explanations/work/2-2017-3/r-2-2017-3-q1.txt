@@ -1,6 +1,7 @@
 ---
 choices: incredible | artificial | innocent | arrogant
 answerText: incredible
+reviewed: yes
 ---
 【正解】1 incredible（信じられないほどの、すばらしい）
 【和訳】

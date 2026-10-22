@@ -1,6 +1,7 @@
 ---
 choices: solving | be solved | to solve | having solved
 answerText: to solve
+reviewed: yes
 ---
 【正解】3 to solve（解くのが）
 【和訳】

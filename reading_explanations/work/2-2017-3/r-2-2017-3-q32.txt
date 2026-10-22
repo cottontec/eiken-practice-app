@@ -1,6 +1,7 @@
 ---
 choices: Patients can talk to doctors about their problems more easily. | Patients can receive effective treatment at a lower cost. | Doctors have more time to spend with each patient. | Doctors feel less pressure to find effective books.
 answerText: Patients can receive effective treatment at a lower cost.
+reviewed: yes
 ---
 【正解】2 Patients can receive effective treatment at a lower cost.（患者が、より安い費用で効果的な治療を受けられる。）
 【和訳】

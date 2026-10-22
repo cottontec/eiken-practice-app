@@ -1,6 +1,7 @@
 ---
 choices: Go online and visit the FlashWeb website to get a discount. | Upgrade to FlashWeb100 at her current apartment. | Call FlashWeb to see how much her new service will cost. | Schedule an appointment with FlashWeb to set up her Internet.
 answerText: Schedule an appointment with FlashWeb to set up her Internet.
+reviewed: yes
 ---
 【正解】4 Schedule an appointment with FlashWeb to set up her Internet.（インターネットを設置してもらうために、フラッシュウェブとの予約を入れる。）
 【和訳】

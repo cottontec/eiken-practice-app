@@ -1,6 +1,7 @@
 ---
 choices: Russian scientists would like to use frozen earth to protect seeds. | Human DNA can be used to help scientists learn more about the genetic history of plants. | The fruit and seeds of Silene stenophylla may have been buried by an ancient animal. | The first plant that had flowers grew in Siberia over 32,000 years ago.
 answerText: The fruit and seeds of Silene stenophylla may have been buried by an ancient animal.
+reviewed: yes
 ---
 【正解】3 The fruit and seeds of Silene stenophylla may have been buried by an ancient animal.（シレネ・ステノフィラの果実と種は、大昔の動物によって埋められたのかもしれない。）
 【和訳】

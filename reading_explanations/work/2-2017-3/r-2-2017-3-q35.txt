@@ -1,6 +1,7 @@
 ---
 choices: They used genetic material from an ancient fruit they discovered. | They used ancient seeds that they had found deep below the ground. | They planted the seeds deep in the ground to protect them during the cold winter. | They planted the fruit in a new kind of container that they had specially designed.
 answerText: They used genetic material from an ancient fruit they discovered.
+reviewed: yes
 ---
 【正解】1 They used genetic material from an ancient fruit they discovered.（彼らは、自分たちが発見した大昔の果実から取った遺伝物質を使った。）
 【和訳】

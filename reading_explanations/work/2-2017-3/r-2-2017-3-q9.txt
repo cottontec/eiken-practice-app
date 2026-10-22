@@ -1,6 +1,7 @@
 ---
 choices: instructions | campaigns | lifestyles | stocks
 answerText: instructions
+reviewed: yes
 ---
 【正解】1 instructions（説明書、指示）
 【和訳】

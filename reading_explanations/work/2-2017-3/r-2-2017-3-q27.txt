@@ -1,6 +1,7 @@
 ---
 choices: will be moving to a new place soon. | asked Tom Snyder to add some free services. | is trying to cancel her contract with FlashWeb. | is having trouble with the Internet in her apartment.
 answerText: will be moving to a new place soon.
+reviewed: yes
 ---
 【正解】1 will be moving to a new place soon.（もうすぐ新しい場所に引っ越す予定だ。）
 【和訳】

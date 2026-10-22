@@ -1,6 +1,7 @@
 ---
 choices: refused | withdrew | embraced | overtook
 answerText: withdrew
+reviewed: yes
 ---
 【正解】2 withdrew（〔お金を〕引き出した）
 【和訳】

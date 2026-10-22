@@ -1,6 +1,7 @@
 ---
 choices: melted | ruined | argued | launched
 answerText: ruined
+reviewed: yes
 ---
 【正解】2 ruined（台無しになった）
 【和訳】

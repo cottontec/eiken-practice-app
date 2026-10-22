@@ -1,6 +1,7 @@
 ---
 choices: It was free for only the first three months. | It comes with free telephone service. | It costs more than the service in Clairton. | It is the fastest available in her neighborhood.
 answerText: It is the fastest available in her neighborhood.
+reviewed: yes
 ---
 【正解】4 It is the fastest available in her neighborhood.（それは彼女の住む地域で利用できる中で最も速い。）
 【和訳】

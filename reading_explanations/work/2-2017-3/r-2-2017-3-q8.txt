@@ -1,6 +1,7 @@
 ---
 choices: publish | replace | preserve | restrict
 answerText: preserve
+reviewed: yes
 ---
 【正解】3 preserve（保護する、守る）
 【和訳】

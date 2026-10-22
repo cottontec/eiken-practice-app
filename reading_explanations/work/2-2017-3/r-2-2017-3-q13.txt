@@ -1,6 +1,7 @@
 ---
 choices: turn | speak | push | keep
 answerText: keep
+reviewed: yes
 ---
 【正解】4 keep（〔keep ～ to oneself の形で〕～を人に言わずにおく）
 【和訳】

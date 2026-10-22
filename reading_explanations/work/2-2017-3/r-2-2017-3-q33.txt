@@ -1,6 +1,7 @@
 ---
 choices: People can get a better understanding of their problems by feeling the emotions of characters. | Some novels have lists of places where people can go to get the help that they need. | Some people enjoy reading the stories so much that they forget about their problems. | Novels about the future allow people to examine the world in a different way.
 answerText: People can get a better understanding of their problems by feeling the emotions of characters.
+reviewed: yes
 ---
 【正解】1 People can get a better understanding of their problems by feeling the emotions of characters.（人々は、登場人物の感情を感じることによって、自分の問題をよりよく理解できる。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: it is unlikely that they can grow plants from seeds that are over 2,000 years old. | ancient seeds that were kept in Israel will be easier to grow than Russian seeds. | they will be able to grow plants in areas where the earth is permanently frozen. | the frozen soil in Siberia is able to keep the DNA of plants safe for a long time.
 answerText: the frozen soil in Siberia is able to keep the DNA of plants safe for a long time.
+reviewed: yes
 ---
 【正解】4 the frozen soil in Siberia is able to keep the DNA of plants safe for a long time.（シベリアの凍った土は、植物のDNAを長い間安全に保つことができる。）
 【和訳】

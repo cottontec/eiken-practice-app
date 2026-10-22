@@ -1,6 +1,7 @@
 ---
 choices: widely | fairly | deeply | vaguely
 answerText: fairly
+reviewed: yes
 ---
 【正解】2 fairly（公平に、公正に）
 【和訳】

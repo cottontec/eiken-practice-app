@@ -1,6 +1,7 @@
 ---
 choices: made | heard | gave | sent
 answerText: gave
+reviewed: yes
 ---
 【正解】3 gave（〔give 人 a ride の形で〕〔人〕を車に乗せてあげた）
 【和訳】

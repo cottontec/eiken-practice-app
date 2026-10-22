@@ -1,6 +1,7 @@
 ---
 choices: It can greatly reduce how much stress people feel. | It can increase the speed at which the heart beats. | It should be done six minutes after physical exercise. | It has fewer benefits than listening to music.
 answerText: It can greatly reduce how much stress people feel.
+reviewed: yes
 ---
 【正解】1 It can greatly reduce how much stress people feel.（それは人々が感じるストレスの量を大きく減らすことができる。）
 【和訳】

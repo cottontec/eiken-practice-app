@@ -1,0 +1,19 @@
+---
+choices: more | than | as | too
+answerText: as
+---
+【正解】3 as（twice as ～ as ... で「…の2倍～」）
+【和訳】
+ダンの新しい家は、彼の前の家の2倍の広さです。
+（選択肢の意味）1 もっと　2 ～よりも　3 ～と同じくらい（as ～ as の形で）　4 ～すぎる
+【考え方】
+空所のあとを見ると large as his last one と、as があります。his last one の one は house（家）のかわりの語で、「彼の前の家」という意味です。
+as ～ as ... は「…と同じくらい～」と2つを比べる言い方です。この前に twice（2倍）を置くと、twice as ～ as ... で「…の2倍～」という意味になります。
+空所に as を入れると twice as large as his last one となり、「前の家の2倍の広さ」と、新しい家と前の家を比べる文が完成します。ですから3が正解です。
+【ほかの選択肢】
+1 more を入れると twice more large as ～ となります。large の比較級（「より～」を表す形）は larger で、more large とは言いません。また、比較級なら as ではなく than を使うので、文の形が合いません。
+2 than を入れると twice than large as ～ となります。than は比較級（larger など）のあとに置く語なので、twice のすぐあとには来ません。
+4 too を入れると twice too large as ～ となります。too は「～すぎる」という意味で、as ～ as の形とは組み合わせないので、正しい英語になりません。
+【覚えるポイント】
+・twice as ～ as ...：「…の2倍～」。three times as ～ as ... なら「…の3倍～」。
+・one：前に出た名詞のくり返しをさけるために使う語。ここでは house を指します。

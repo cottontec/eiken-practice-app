@@ -1,6 +1,7 @@
 ---
 choices: avoid using fertilizers | buy his vegetables | do the same thing | move to London
 answerText: do the same thing
+reviewed: yes
 ---
 【正解】3 do the same thing（同じことをする）
 【和訳】

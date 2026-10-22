@@ -1,6 +1,7 @@
 ---
 choices: some people's minds do not respond well to bibliotherapy. | mental illnesses are becoming more common in modern times. | many modern treatments for mental illnesses are not effective. | reading can have benefits for people's mental health.
 answerText: reading can have benefits for people's mental health.
+reviewed: yes
 ---
 【正解】4 reading can have benefits for people's mental health.（読書は人々の心の健康によい効果をもたらしうる。）
 【和訳】

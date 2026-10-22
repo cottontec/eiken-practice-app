@@ -1,6 +1,7 @@
 ---
 choices: been able to bring a number of ancient animals back to life. | begun using genetics to learn more about ancient plants and animals. | started to create a dinosaur that could live on Earth today. | tried to create new types of fossils to study how animals used to live.
 answerText: begun using genetics to learn more about ancient plants and animals.
+reviewed: yes
 ---
 【正解】2 begun using genetics to learn more about ancient plants and animals.（大昔の植物や動物についてもっと知るために、遺伝学を使い始めた。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: explorer | competitor | spectator | philosopher
 answerText: philosopher
+reviewed: yes
 ---
 【正解】4 philosopher（哲学者）
 【和訳】

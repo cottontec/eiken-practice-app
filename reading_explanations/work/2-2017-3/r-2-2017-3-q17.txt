@@ -1,6 +1,7 @@
 ---
 choices: rule out | leave out | drop off | switch off
 answerText: drop off
+reviewed: yes
 ---
 【正解】3 drop off（〔途中で〕置いていく、届ける）
 【和訳】

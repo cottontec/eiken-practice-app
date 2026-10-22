@@ -1,6 +1,7 @@
 ---
 choices: harbor | temper | device | legend
 answerText: device
+reviewed: yes
 ---
 【正解】3 device（装置、機器）
 【和訳】

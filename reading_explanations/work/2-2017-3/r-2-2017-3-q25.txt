@@ -1,6 +1,7 @@
 ---
 choices: To make matters worse | At least | Moreover | As a result
 answerText: Moreover
+reviewed: yes
 ---
 【正解】3 Moreover（さらに、そのうえ）
 【和訳】

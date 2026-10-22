@@ -1,6 +1,7 @@
 ---
 choices: the other | another | either | both
 answerText: the other
+reviewed: yes
 ---
 【正解】1 the other（〔2つのうちの〕もう一方）
 【和訳】

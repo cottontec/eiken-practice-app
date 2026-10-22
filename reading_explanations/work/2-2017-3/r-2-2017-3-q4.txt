@@ -1,6 +1,7 @@
 ---
 choices: prevent | organize | complicate | harvest
 answerText: organize
+reviewed: yes
 ---
 【正解】2 organize（計画して準備する、まとめる）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: created additional problems | achieved two goals | resulted in a higher cost of food | was a growing trend
 answerText: achieved two goals
+reviewed: yes
 ---
 【正解】2 achieved two goals（2つの目標を達成した）
 【和訳】

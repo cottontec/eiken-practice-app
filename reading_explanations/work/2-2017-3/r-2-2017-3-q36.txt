@@ -1,6 +1,7 @@
 ---
 choices: The plant used to produce fewer flowers than it produces now. | The plant has evolved to have shorter petals on its flowers. | The ancient plant was a different color from its modern relative. | The modern plant is found across a wider area of Russia than the ancient one.
 answerText: The plant has evolved to have shorter petals on its flowers.
+reviewed: yes
 ---
 【正解】2 The plant has evolved to have shorter petals on its flowers.（その植物は、進化して花の花びらがより短くなった。）
 【和訳】
