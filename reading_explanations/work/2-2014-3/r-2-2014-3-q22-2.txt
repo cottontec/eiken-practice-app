@@ -1,0 +1,21 @@
+---
+choices: what | say | you | do | to
+answerText: do
+order: 1 4 3 2 5
+---
+【正解】4 do（この問題の2番目）
+【完成文】
+( What do you say to ) going to a soccer game with me this weekend, Jeff?
+並べ方：1 what → 4 do → 3 you → 2 say → 5 to（2番目は4、4番目は2）
+【和訳】
+A：今週末、私と一緒にサッカーの試合に行くのはどう、ジェフ？
+B：ぜひ行きたいけれど、行けないんだ。月曜日までに歴史のレポートを仕上げなければならないから。
+【考え方】
+Bの答えは I'd love to go, but I can't.（ぜひ行きたいけれど、行けない）です。ここから、Aは「サッカーの試合に一緒に行こう」と誘っていることが分かります。
+選択肢の what、do、you、say、to と、空所のあとの going から、What do you say to ～ing?（～するのはどうですか）という誘いの決まった言い方を作ります。
+これは疑問文なので、疑問詞（what、who など、たずねる中身を表す語）の what を最初に置き、そのあとに do、主語の you、動詞の say を続けます。What do you say で「あなたは何と言いますか（＝どう思いますか）」という形です。最後に 5 to を置き、空所のあとの going につなげます。
+したがって2番目は4 do です。
+まちがえやすいのは、What you do say to のように you を do より前に置く並べ方です。疑問文では「疑問詞＋do＋主語＋動詞」の順にするので、what のすぐあとには do がきます。
+【覚えるポイント】
+・What do you say to ～ing?：「～するのはどうですか」と誘ったり提案したりする言い方です。
+・I'd love to ～, but …：「ぜひ～したいけれど、…」と、誘いをていねいに断るときによく使います。

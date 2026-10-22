@@ -1,0 +1,21 @@
+---
+choices: a | of | time | is | waste
+answerText: of
+order: 4 1 5 2 3
+---
+【正解】2 of（この問題の4番目）
+【完成文】
+Don't you think doing homework ( is a waste of time ), Jenna?
+並べ方：4 is → 1 a → 5 waste → 2 of → 3 time（2番目は1、4番目は2）
+【和訳】
+A：宿題をするのは時間のむだだと思わない、ジェナ？
+B：実は、そう思わないよ。宿題は学ぶことに欠かせない一部だと思う。
+【考え方】
+Aの文は Don't you think ～?（～だと思わない？）という形で、think のあとに「主語＋動詞」が続きます。主語は空所の前の doing homework（宿題をすること）です。そこで空所の最初には、動詞の 4 is を置きます。
+次に、is のあとにくる内容を考えます。Bが I think homework is a necessary part of learning.（宿題は学ぶことに欠かせない一部だと思う）と反対していることから、Aは「宿題はむだだ」と言っていると考えられます。
+a waste of time は「時間のむだ」という決まった言い方です。waste は「むだ」という名詞で、of time（時間の）が後ろから「何のむだか」を説明しています。並べると is → a → waste → of → time となり、4番目には「～の」を表す 2 of が入ります。
+したがって4番目は2 of です。
+まちがえやすいのは、is waste of a time のように a を time の前に置いてしまう並べ方です。決まった言い方は a waste of time で、a は waste の前に付けます。
+【覚えるポイント】
+・a waste of ～：「～のむだ」。of のあとに、むだになるもの（time、money など）を置きます。
+・doing homework：「宿題をすること」。～ing の形で、文の主語になることができます。

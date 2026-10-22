@@ -1,0 +1,21 @@
+---
+choices: what | say | you | do | to
+answerText: say
+order: 1 4 3 2 5
+---
+【正解】2 say（この問題の4番目）
+【完成文】
+( What do you say to ) going to a soccer game with me this weekend, Jeff?
+並べ方：1 what → 4 do → 3 you → 2 say → 5 to（2番目は4、4番目は2）
+【和訳】
+A：今週末、私と一緒にサッカーの試合に行くのはどう、ジェフ？
+B：ぜひ行きたいけれど、行けないんだ。月曜日までに歴史のレポートを仕上げなければならないから。
+【考え方】
+Bが I'd love to go, but I can't.（ぜひ行きたいけれど、行けない）と答えているので、Aの文は誘いの言葉だと分かります。
+空所のあとが going（行くこと）という ～ing の形になっていることに注目します。What do you say to ～ing?（～するのはどうですか）という決まった言い方では、to のあとに ～ing がきます。この to は「～へ、～に対して」という意味の前置詞（名詞の前に置いて、ほかの語との関係を表す語）なので、動詞を続けるときは ～ing の形にします。
+そこで、空所の最後に 5 to を置きます。その前は「疑問詞 what＋do＋主語 you＋動詞 say」という疑問文の語順にします。並べると What → do → you → say → to となり、4番目には動詞の 2 say が入ります。
+したがって4番目は2 say です。
+まちがえやすいのは、What do you to say のように to を say の前に置いてしまう並べ方です。to say とすると、you のあとに文の中心となる動詞がなくなり、文が成り立ちません。また、to say のあとに going を続けることもできません。
+【覚えるポイント】
+・What do you say to ～ing?：「～するのはどうですか」。How about ～ing? と同じような意味です。
+・前置詞の to のあとに動詞を置くときは ～ing の形にします（look forward to ～ing なども同じです）。

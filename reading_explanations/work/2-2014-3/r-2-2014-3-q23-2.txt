@@ -1,0 +1,21 @@
+---
+choices: early | there | sure | to get | be
+answerText: sure
+order: 5 3 4 2 1
+---
+【正解】3 sure（この問題の2番目）
+【完成文】
+OK, Grace. I've heard it gets really crowded. ( Be sure to get there early ) so you can find a good place to sit!
+並べ方：5 be → 3 sure → 4 to get → 2 there → 1 early（2番目は3、4番目は2）
+【和訳】
+A：お母さん、今夜ダンと花火を見に行ってくるね。10時ごろには家に帰るよ。
+B：わかった、グレース。とても混むと聞いているよ。座るのにいい場所を見つけられるように、必ず早めにそこに着くようにしてね！
+【考え方】
+Bは I've heard it gets really crowded.（とても混むと聞いている）と言い、空所のあとに so you can find a good place to sit（座るのにいい場所を見つけられるように）と続けています。so (that) you can ～ は「～できるように」という意味です。混む場所でいい席をとるために、Bがグレースに何をするよう言っているのかを考えます。
+空所の前には主語がなく、文がいきなり始まっています。このように相手に「～しなさい」と言う文を命令文といい、動詞の原形（もとの形）で始めます。選択肢の中で文の最初に置ける動詞の形は 5 be です。
+be と 3 sure を組み合わせると、be sure to ～（必ず～する）という決まった言い方になります。そこで Be → sure → to get と並べます。get there は「そこに着く」で、最後に early（早く）を置くと「早くそこに着く」となります。
+したがって2番目は3 sure です。
+まちがえやすいのは、Be sure early to get there のように、sure と to get の間に early を入れる並べ方です。be sure to ～ はひとまとまりの言い方なので、sure のすぐあとに to get を続けます。
+【覚えるポイント】
+・be sure to ～：「必ず～する」。命令文の Be sure to ～. は「必ず～してね」と念を押す言い方です。
+・so (that) you can ～：「～できるように」。
