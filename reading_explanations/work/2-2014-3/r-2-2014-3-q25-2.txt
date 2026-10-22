@@ -1,0 +1,20 @@
+---
+choices: remembered | she | then | only | that
+answerText: then
+order: 4 3 5 2 1
+---
+【正解】3 then（この問題の2番目）
+【完成文】
+It was ( only then that she remembered ) that it was a holiday and she did not have to work.
+並べ方：4 only → 3 then → 5 that → 2 she → 1 remembered（2番目は3、4番目は2）
+【和訳】
+昨日の朝、ジルは早起きして仕事に出かけました。会社に着くと、明かりはすべて消えていて、だれもいませんでした。そのときになって初めて、彼女はその日が祝日で、働かなくてよいことを思い出しました。
+【考え方】
+まず話の流れです。ジルが会社に着くと、明かりが消えていて、だれもいませんでした。そこで「その日が祝日で、働かなくてよい」と思い出した、という流れになると考えられます。空所のあとの that it was a holiday and she did not have to work（その日が祝日で、働かなくてよいということ）が、思い出した内容です。
+空所の前の It was と選択肢の that から、強調構文（It was と that の間に、特に強調したい語句をはさむ形）を考えます。It was ～ that … で「…したのは～だった」という意味になります。
+強調したいのは「いつ思い出したか」です。only then は「そのときになって初めて、そのときにやっと」という意味で、only を then の前に置きます。そこで It was のあとに 4 only → 3 then を置き、そのあとに強調構文の 5 that、さらに「主語＋動詞」の 2 she → 1 remembered を続けます。It was only then that she remembered ～ で「彼女が～を思い出したのは、そのときになって初めてだった」となります。
+したがって2番目は3 then です。
+まちがえやすいのは、It was then only that she remembered のように only を then のあとに置く並べ方です。「そのときになって初めて」は only then の順で表します。
+【覚えるポイント】
+・It was only then that ～：「～したのは、そのときになって初めてだった」。強調構文（It was ～ that …）で only then を強めています。
+・don't have to ～：「～しなくてよい、～する必要はない」。
