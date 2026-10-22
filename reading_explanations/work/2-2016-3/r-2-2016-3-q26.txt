@@ -1,0 +1,26 @@
+---
+choices: Like before | At most | Therefore | Furthermore
+answerText: Furthermore
+---
+【正解】4 Furthermore（さらに、そのうえ）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Like before（以前のように）
+2 At most（せいぜい、多くても）
+3 Therefore（そのため、したがって）
+4 Furthermore（さらに、そのうえ）
+【考え方】
+空所は第3段落の (26), they are so high in the sky that they do not disturb people's daily lives. です。「（26）、気球は空のとても高いところにあるので、人々の日常生活のじゃまにならない」という意味です。
+第3段落の始めを見ると、Not only do Altaeros's balloons reduce costs, they also solve a number of other problems ～（アルタエロスの気球は費用を減らすだけでなく、ほかのいくつもの問題も解決する）とあり、気球のよい点を並べていく段落だと分かります。
+・1つ目：To start with, the initial setup is quite easy.（まず、最初の設置がとても簡単だ）
+・2つ目：空所の文「空高くにあるので日常生活のじゃまにならない」
+To start with（まず）で1つ目のよい点を挙げたあと、別のよい点を付け加えているので、Furthermore（さらに、そのうえ）が合います。ですから、4が正解です。
+【ほかの選択肢】
+1 Like before（以前のように）を入れると、「以前のように、気球は空高くにあるので～」となります。本文に「以前」と比べる話はなく、新しい技術のよい点を挙げている流れに合いません。
+2 At most（せいぜい、多くても）は、数や程度の上限を示すときに使います。「せいぜい、気球は空高くにあるので～」では意味が通りません。
+3 Therefore（そのため）は、前の内容が理由で、あとの内容が結果のときに使います。「設置が数時間ですむ」ことが理由で「気球が空高くにある」わけではないので、合いません。
+【覚えるポイント】
+・To start with（まず）～. Furthermore（さらに）….：よい点や理由を順に並べるときの言い方です。
+・so ～ that …：「とても～なので…」。they are so high in the sky that they do not disturb ～ は「空のとても高いところにあるので～のじゃまにならない」。

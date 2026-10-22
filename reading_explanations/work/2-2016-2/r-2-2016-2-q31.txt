@@ -1,0 +1,27 @@
+---
+choices: allowed only 2,000 tourists to look at its paintings by Michelangelo. | invited 6 million visitors to see its 500-year-old wall paintings on one day. | installed an air-conditioning system in order to make visitors more comfortable. | tried to reduce damage to its paintings by buying an air-conditioning system.
+answerText: tried to reduce damage to its paintings by buying an air-conditioning system.
+---
+【正解】4 tried to reduce damage to its paintings by buying an air-conditioning system.（空調設備を購入することで、絵画への害を減らそうとした。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：1994年、バチカンは
+1 ミケランジェロによる絵画を、2,000人の観光客だけに見ることを許した。
+2 500年前の壁画を見てもらうために、1日に600万人の訪問者を招いた。
+3 訪問者を（それまでより）快適にするために、空調設備を取りつけた。
+4 空調設備を購入することで、絵画への害を減らそうとした。
+【考え方】
+設問は1994年のバチカンについてです。第2段落で 1994 という年を探します。
+In 1994, after noticing that the visitors' breath was damaging the paintings, the Vatican purchased an expensive air-conditioning system to protect them.（1994年、訪問者の息が絵画をいためていることに気づいたあと、バチカンは絵画を守るために高価な空調設備を購入した）
+to protect them の them は the paintings（絵画）を指し、to ～ は「～するために」と目的を表しています。つまり、空調設備を買った目的は、息によっていためられている絵画を守ることでした。
+本文 purchased an expensive air-conditioning system to protect them（絵画を守るために高価な空調設備を購入した）＝ 選択肢 tried to reduce damage to its paintings by buying an air-conditioning system（空調設備を購入することで、絵画への害を減らそうとした）
+purchased（購入した）が buying に、protect（守る）が reduce damage（害を減らす）に言いかえられています。ですから、4が正解です。
+【ほかの選択肢】
+1 2,000という数は、as many as 2,000 people may be viewing them at a time（一度に2,000人もの人がそれらを見ていることがある）という、人気の大きさを表す部分に出てきます。2,000人だけに見ることを許したという話ではなく、1994年の出来事でもありません。
+2 600万という数は、2014年にバチカンが訪問者を年間約600万人に制限することに決めた、という部分に出てきます。1994年の出来事ではなく、「1日に600万人を招いた」のでもありません。
+3 空調設備を取りつけたことは本文と合いますが、目的が違います。本文では to protect them（絵画を守るため）であり、訪問者を快適にするためではありません。
+【覚えるポイント】
+・to ＋動詞のもとの形：「～するために」と目的を表すことがあります。目的が何かを確かめると、選択肢の違いが分かります。
+・as many as ～：「～もの（多くの）」。数が多いことを強める言い方です。

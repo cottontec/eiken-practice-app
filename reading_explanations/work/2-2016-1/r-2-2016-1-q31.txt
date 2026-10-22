@@ -14,11 +14,11 @@ answerText: It has the effect of making mice's heart cells grow larger.
 4 それは、マウスが眠っている間に、マウスの心臓を小さくする。
 【考え方】
 設問は、ラインワンドのチームがヘビの血液について分かったことをたずねています。第2段落に、チームの研究が書かれています。
-The team found that certain chemicals in the snake's blood cause the heart to grow.（チームは、ヘビの血液の中にあるある種の化学物質が、心臓を大きくしていることを発見した）
+The team found that certain chemicals in the snake's blood cause the heart to grow.（チームは、ヘビの血液に含まれるある種の化学物質が、心臓を大きくしていることを発見した）
 When the team added the snake's blood to cells taken from mice's hearts, they were surprised to find that the cells also began to grow.（チームがヘビの血液を、マウスの心臓から取った細胞に加えたところ、その細胞も大きくなり始めたことが分かり、彼らは驚いた）
 cells taken from mice's hearts は「マウスの心臓から取られた細胞」、つまりマウスの心臓の細胞です。ヘビの血液を加えるとその細胞が大きくなり始めた、ということは、ヘビの血液にはマウスの心臓の細胞を大きくする働きがある、ということです。
 本文と選択肢を対にすると、次のようになります。
-本文 added the snake's blood to cells taken from mice's hearts ... the cells also began to grow ＝ 選択肢 It has the effect of making mice's heart cells grow larger
+本文 added the snake's blood to cells taken from mice's hearts ... the cells also began to grow（ヘビの血液をマウスの心臓の細胞に加えると、細胞も大きくなり始めた）→ 読み取れること：ヘビの血液にはマウスの心臓の細胞を大きくする働きがある ＝ 選択肢 It has the effect of making mice's heart cells grow larger
 ですから1が正解です。
 【ほかの選択肢】
 2 farm animals（家畜）の話は本文に出てきません。実験に使われたのはマウスで、研究が役立つかもしれないと考えられているのは人間の心臓病です。

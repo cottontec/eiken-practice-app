@@ -1,0 +1,25 @@
+---
+choices: be impossible to create | take time to develop | build demand for | reduce the damage of
+answerText: take time to develop
+---
+【正解】2 take time to develop（開発するには時間がかかる）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 be impossible to create（作ることは不可能だ）
+2 take time to develop（開発するには時間がかかる）
+3 build demand for（～の需要〔ほしいと思う人の数〕を高める）
+4 reduce the damage of（～の被害を減らす）
+【考え方】
+空所は第3段落の Despite these advances, Conlon says that it will (23) drugs from these chemicals.（こうした進歩にもかかわらず、コンロンは、これらの化学物質から薬を（23）だろうと言う）です。
+まず、Despite these advances（こうした進歩にもかかわらず）に注目します。despite は「～にもかかわらず」という意味です。直前に、チームが化学物質の害を少なくし、細菌を殺す力を高めたというよい知らせ（進歩）が書かれています。「進歩したにもかかわらず」と続くので、空所には「よい知らせとは少し反対の、まだ課題がある」という内容が入ると考えられます。
+次に、空所のあとの文を見ます。Although these drugs may not be ready soon（これらの薬はすぐには用意できないかもしれないが）とあります。薬がすぐにはできない、ということです。
+この2つから、「進歩はしたが、薬を開発するにはまだ時間がかかる」という内容が合います。it will take time to develop drugs で「薬を開発するには時間がかかるだろう」となるので、2が正解です。
+【ほかの選択肢】
+1 「作ることは不可能だ」を入れると、「これらの化学物質から薬を作るのは不可能だろう」となります。しかし、最後の文に one day they will play a large role in fighting bacteria（いつか細菌と戦ううえで大きな役割を果たすだろう）とあり、薬ができることが期待されています。不可能とは言い切れず、合いません。
+3 「～の需要を高める」を入れると、「これらの化学物質から作る薬の需要を高めるだろう」となります。需要の話は本文に出てこず、「すぐには用意できないかもしれない」という次の文ともつながりません。
+4 「～の被害を減らす」を入れると、「薬の被害を減らすだろう」となります。Despite these advances（進歩にもかかわらず）のあとに続く内容としては合わず、次の文の「すぐには用意できない」ともつながりません。
+【覚えるポイント】
+・despite ～：「～にもかかわらず」。前の内容から予想されることと、反対の内容があとにきます。
+・it takes time to ～：「～するには時間がかかる」。

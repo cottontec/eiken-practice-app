@@ -1,0 +1,29 @@
+---
+choices: constant and powerful | clean and clear | weak but reliable | strong but unstable
+answerText: constant and powerful
+---
+【正解】1 constant and powerful（絶えず吹いていて力強い）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 constant and powerful（絶えず吹いていて〔一定していて〕力強い）
+2 clean and clear（きれいで澄んでいる）
+3 weak but reliable（弱いが信頼できる）
+4 strong but unstable（強いが不安定だ）
+【考え方】
+空所は第1段落の Unlike the wind near the earth's surface, the wind high in the sky is (24) nearly everywhere. です。「地表近くの風とは違って、空高くの風は、ほぼどこでも（24）だ」という意味です。
+Unlike ～（～とは違って）があるので、空所には地表近くの風と反対の性質が入ります。直前の文で、地表近くの風は次のように説明されています。
+Wind near the ground is not a reliable source of energy because it is sometimes strong and sometimes weak.（地面に近い風は、強いときもあれば弱いときもあるので、信頼できるエネルギー源ではない）
+地表近くの風は「強さが変わる、弱いときもある」ので、その反対は「いつも変わらず、強い」です。
+さらに、空所のあとにも手がかりがあります。
+・they can obtain stable wind power almost anywhere（ほぼどこででも安定した風力を得ることができる）
+・the wind is much stronger at 600 meters（600メートルの高さでは風が〔地表近くよりも〕ずっと強い）〔第2段落〕
+stable（安定した）は constant（絶えず続く、一定した）に、much stronger（ずっと強い）は powerful（力強い）に合います。ですから、1が正解です。
+【ほかの選択肢】
+2 「きれいで澄んでいる」は、風の強さや安定さについての言葉ではありません。第1段落の最初に風力は clean（クリーン）だとありますが、これは地表近くの風にも空高くの風にも当てはまることで、Unlike（～とは違って）で地表近くの風と比べる内容になりません。
+3 「弱いが信頼できる」は、weak（弱い）の部分が本文と合いません。第2段落で、600メートルの高さでは風が much stronger（ずっと強い）と書かれています。
+4 「強いが不安定だ」は、unstable（不安定な）の部分が本文と反対です。空所のあとに stable wind power（安定した風力）が得られると書かれています。
+【覚えるポイント】
+・Unlike ～, …：「～とは違って、…」。空所には～と反対の性質が入ると考えます。
+・constant：「絶えず続く、一定した」。stable（安定した）と近い意味です。

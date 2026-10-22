@@ -1,0 +1,28 @@
+---
+choices: Most Finnish students receive high salaries after graduating. | Finnish teenagers travel around the world to study. | Many governments are copying Finland's system. | Students in Finland have very little homework.
+answerText: Students in Finland have very little homework.
+---
+【正解】4 Students in Finland have very little homework.（フィンランドの生徒は、宿題がとても少ない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：次の記述のうち、正しいものはどれですか。
+1 フィンランドの生徒のほとんどは、卒業後に高い給料をもらう。
+2 フィンランドの10代の若者は、勉強するために世界中を旅する。
+3 多くの国の政府が、フィンランドの制度をまねしている。
+4 フィンランドの生徒は、宿題がとても少ない。
+【考え方】
+本文全体から正しいものを選ぶ問題なので、選択肢ごとに本文と照らし合わせます。4の homework（宿題）については、第3段落に次の文があります。
+Moreover, students are not required to do much homework.（さらに、生徒たちは、あまり多くの宿題をするよう求められていない）
+In fact, the average 15-year-old studies less than 30 minutes outside of school each day.（実際、平均的な15歳は、学校の外では1日に30分未満しか勉強しない）
+In fact（実際に）は、前の文の内容を、具体的な事実で裏づけるときに使います。宿題をあまり求められておらず、学校の外での勉強は1日30分未満だということです。本文と選択肢の対応は次のとおりです。
+本文 students are not required to do much homework（あまり多くの宿題を求められていない）、studies less than 30 minutes outside of school each day（学校の外では1日30分未満しか勉強しない）→ 選択肢 Students in Finland have very little homework（フィンランドの生徒は宿題がとても少ない）
+多くの宿題が求められず、学校の外での勉強時間が1日30分未満であることから、宿題がとても少ないと読み取れます。正解は4です。
+【ほかの選択肢】
+1 本文で high salaries（高い給料）をもらっているのは、生徒ではなく教師です（These teachers are, in turn, rewarded with high salaries and social status.）。生徒が卒業後に高い給料をもらうという話はありません。
+2 本文で around the world（世界中の）が出てくるのは、PISA が the academic level of 15-year-olds around the world（世界中の15歳の学力の水準）を測る、という部分です。フィンランドの若者が勉強のために世界中を旅するという話ではありません。
+3 本文の最後の段落には、some countries have begun to take a second look at their approach to teaching（教え方についての自国のやり方を見直し始めた国もある）とあります。some（いくつかの）国が見直しを始めたということで、many governments（多くの国の政府）がフィンランドの制度を copying（まねしている）とまでは書かれていません。言い切りすぎです。
+【覚えるポイント】
+・In fact：「実際に」。前の文の内容を、具体的な事実で裏づけるときによく使います。
+・take a second look at ～：「～をもう一度よく見る、見直す」。

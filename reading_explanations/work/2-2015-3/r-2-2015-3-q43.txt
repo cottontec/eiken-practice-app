@@ -1,0 +1,28 @@
+---
+choices: Schools encourage children to get high scores on English tests. | The Finnish government requires students to take many tests. | Teachers are encouraged not to teach children from other countries. | Students are not separated according to their ability or results.
+answerText: Students are not separated according to their ability or results.
+---
+【正解】4 Students are not separated according to their ability or results.（生徒は、能力や成績によって分けられない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：フィンランドの教育制度について、ふつうとは違うことの1つは何ですか。
+1 学校は、子どもたちに英語のテストで高い点をとるよう促している。
+2 フィンランド政府は、生徒にたくさんのテストを受けることを義務づけている。
+3 教師は、外国から来た子どもたちを教えないよう勧められている。
+4 生徒は、能力や成績によって分けられない。
+【考え方】
+設問の unusual は「ふつうではない、めずらしい」という意味です。フィンランドの教育がほかの国々とどう違うかは、第3段落にまとめて書かれています。段落の終わりに All these policies are the opposite of those being adopted by other countries.（こうした方針はすべて、ほかの国々が取り入れている方針とは正反対のものだ）とあるので、第3段落に挙げられた方針は、どれも「ふつうとは違うこと」にあたります。
+その中に、次の文があります。
+A student's academic performance does not affect which classes or schools that student attends（生徒の成績によって、その生徒が通うクラスや学校が左右されることはない）
+academic performance は「学業の成績」、affect は「影響を与える、左右する」です。つまり、成績がよいか悪いかで、行くクラスや学校が決まることはない、ということです。本文と選択肢の対応は次のとおりです。
+本文 A student's academic performance does not affect which classes or schools that student attends（成績によって、通うクラスや学校が左右されない）→ 選択肢 Students are not separated according to their ability or results（生徒は、能力や成績によって分けられない）
+成績でクラスや学校が決まらないということは、成績によって生徒が分けられないということだと読み取れます。正解は4です。
+【ほかの選択肢】
+1 本文には、英語のテストの話は出てきません。また、フィンランドの制度は instead of focusing on high scores（高い点数に重点を置くのではなく）とあり、高い点をとるよう促すという内容とは反対です。
+2 本文には The Finnish government requires no standard textbooks or tests.（フィンランド政府は、決まった教科書もテストも一切義務づけていない）とあります。たくさんのテストを義務づけているというのは、本文と反対です。
+3 本文には、外国から来た子どもたちについての話はありません。
+【覚えるポイント】
+・affect ～：「～に影響を与える、～を左右する」。
+・the opposite of ～：「～の反対、～とは正反対のもの」。

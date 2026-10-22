@@ -1,0 +1,27 @@
+---
+choices: Fortunately | Therefore | In exchange | What is more
+answerText: What is more
+---
+【正解】4 What is more（さらに、その上）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Fortunately（幸運にも）
+2 Therefore（したがって、そのため）
+3 In exchange（その代わりに、引き換えに）
+4 What is more（さらに、その上）
+【考え方】
+空所は第2段落の終わり、(22), some of the chemicals on the frogs' skin can harm human cells.（（22）、カエルの皮膚にある化学物質の中には、人間の細胞を傷つけるものもある）です。空所の前の文との関係を考えます。
+空所の前には、次の2つの文があります。
+・there are some challenges to finding a way to use those chemicals（それらの化学物質を使う方法を見つけるには、いくつかの難しい問題がある）
+・One is that the human body destroys the chemicals before they can act as a medicine.（1つは、化学物質が薬として働く前に、人間の体がそれを壊してしまうことだ）
+some challenges（いくつかの難しい問題）と言って、One is ～（1つは～）と1つ目を説明しています。そうなると、次には2つ目の問題がくると考えられます。空所のあとの「人間の細胞を傷つけるものもある」は、まさに2つ目の難しい問題です。
+このように、同じ向きの内容（ここでは困った点）をもう1つ付け加えるときには、What is more（さらに、その上）を使います。よって4が正解です。
+【ほかの選択肢】
+1 Fortunately（幸運にも）を入れると、「幸運にも、人間の細胞を傷つけるものもある」となります。細胞を傷つけるのは悪いことなので、「幸運にも」とは合いません。
+2 Therefore（したがって）を入れると、「人間の体が化学物質を壊してしまう。したがって、細胞を傷つけるものもある」となります。体が化学物質を壊すことが、細胞を傷つける原因になっているわけではないので、つながりません。
+3 In exchange（その代わりに、引き換えに）を入れると、何かと何かを取りかえる話になります。ここでは2つの問題を並べているだけで、取りかえる話は出てこないので合いません。
+【覚えるポイント】
+・What is more：「さらに、その上」。前と同じ向きの内容を付け加えるときに使います。Furthermore、In addition も似た意味です。
+・some ～. One is ...：「いくつかの～がある。1つは…だ」。このあとに2つ目が続くことが多いです。
