@@ -1,6 +1,7 @@
 ---
 choices: benefited from legal protection | supported government policies | faced economic hardship | did not have to pay taxes
 answerText: faced economic hardship
+reviewed: yes
 ---
 【正解】3 faced economic hardship（経済的な苦しさに直面していた）
 【和訳】

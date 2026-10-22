@@ -1,6 +1,7 @@
 ---
 choices: reductions | nominations | maneuvers | perspectives
 answerText: perspectives
+reviewed: yes
 ---
 【正解】4 perspectives（視点、ものの見方）
 【和訳】

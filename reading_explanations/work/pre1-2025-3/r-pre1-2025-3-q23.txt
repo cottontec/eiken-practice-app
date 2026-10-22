@@ -1,6 +1,7 @@
 ---
 choices: Some officials were very effective | The problem was not new | Community leaders opposed the smugglers | The money was usually recovered
 answerText: The problem was not new
+reviewed: yes
 ---
 【正解】2 The problem was not new（その問題は新しいものではなかった）
 【和訳】

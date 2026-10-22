@@ -1,6 +1,7 @@
 ---
 choices: It is a reminder that powerful industrialists should not be allowed to influence courts to decrease the punishment for companies that break labor laws. | It is used to show that while media articles sometimes portray labor disputes inaccurately, the media also has the power to correct its mistakes. | It is viewed as a turning point in the history of the labor movement because it ultimately helped improve the situation for those who lacked rights. | It proved that most social and economic divisions would always remain despite the efforts of many activists to bring about equality for all people.
 answerText: It is viewed as a turning point in the history of the labor movement because it ultimately helped improve the situation for those who lacked rights.
+reviewed: yes
 ---
 【正解】3 It is viewed as a turning point in the history of the labor movement because it ultimately helped improve the situation for those who lacked rights.（それは、最終的に権利を持たなかった人々の状況をよくするのに役立ったので、労働運動の歴史の転換点と見なされている。）
 【和訳】

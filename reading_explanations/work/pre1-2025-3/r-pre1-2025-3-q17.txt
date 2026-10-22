@@ -1,6 +1,7 @@
 ---
 choices: sound off | draw back | turn up | rule out
 answerText: rule out
+reviewed: yes
 ---
 【正解】4 rule out（～を除外する、～の可能性を捨てる）
 【和訳】

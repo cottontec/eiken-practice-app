@@ -1,6 +1,7 @@
 ---
 choices: gloomy | tender | cosmopolitan | menacing
 answerText: cosmopolitan
+reviewed: yes
 ---
 【正解】3 cosmopolitan（国際色豊かな、世界中の人や文化が集まった）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: iron out | toss in | take on | size up
 answerText: take on
+reviewed: yes
 ---
 【正解】3 take on（～を引き受ける）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: Despite the widespread use of chemical pesticides, modern agriculture is unable to produce enough crops to feed the world's population. | Although pesticides have been shown by research to be safe for humans, their negative reputation has led to their use being restricted. | Despite the positive role of pesticides in food production, scientists are attempting to find different ways to protect crops. | Although pesticides are an effective way to reduce damage caused by pests, they can also lead to reduced crop yields.
 answerText: Despite the positive role of pesticides in food production, scientists are attempting to find different ways to protect crops.
+reviewed: yes
 ---
 【正解】3 Despite the positive role of pesticides in food production, scientists are attempting to find different ways to protect crops.（食料生産で農薬がよい役割を果たしているにもかかわらず、科学者たちは作物を守る別の方法を見つけようとしている。）
 【和訳】

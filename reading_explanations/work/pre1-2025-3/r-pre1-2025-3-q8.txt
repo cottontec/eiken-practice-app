@@ -1,6 +1,7 @@
 ---
 choices: reprimand | anatomy | esteem | distress
 answerText: anatomy
+reviewed: yes
 ---
 【正解】2 anatomy（解剖学、体の構造）
 【和訳】

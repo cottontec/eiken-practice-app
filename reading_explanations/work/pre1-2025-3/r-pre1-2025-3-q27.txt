@@ -1,6 +1,7 @@
 ---
 choices: There is a need for further research into it because researchers have yet to prove that it works in the field. | There is a reluctance to use it because attempts to switch to other kinds of natural crop-protection methods have been unsuccessful. | It is a complicated process, so many factors have to be carefully balanced for it to be used successfully. | It will only work if it is combined with the use of pesticides, so it will fail to make agriculture sustainable in the long term.
 answerText: It is a complicated process, so many factors have to be carefully balanced for it to be used successfully.
+reviewed: yes
 ---
 【正解】3 It is a complicated process, so many factors have to be carefully balanced for it to be used successfully.（それは複雑な過程なので、うまく使うためには、多くの要素が注意深く調整されなければならない。）
 【和訳】

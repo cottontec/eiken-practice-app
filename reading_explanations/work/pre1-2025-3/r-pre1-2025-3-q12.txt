@@ -1,6 +1,7 @@
 ---
 choices: ransom | precaution | autonomy | conservation
 answerText: autonomy
+reviewed: yes
 ---
 【正解】3 autonomy（自主性、自分で決める自由）
 【和訳】

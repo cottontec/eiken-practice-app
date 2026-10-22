@@ -1,6 +1,7 @@
 ---
 choices: detach | tame | unfold | bundle
 answerText: detach
+reviewed: yes
 ---
 【正解】1 detach（～を取り外す）
 【和訳】

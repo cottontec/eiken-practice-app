@@ -1,6 +1,7 @@
 ---
 choices: inhale | haunt | obstruct | compress
 answerText: compress
+reviewed: yes
 ---
 【正解】4 compress（～を圧縮する、～を詰め込む）
 【和訳】

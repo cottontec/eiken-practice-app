@@ -1,6 +1,7 @@
 ---
 choices: Because employers were focused on profit, it was unreasonable to expect them to support labor rights groups, especially those with socialist tendencies. | Legislative efforts would have been more successful had the state focused on preventing child labor rather than limiting working hours. | Because immigrant workers were willing to work longer hours than other workers, they were being blamed for the failure to get legislation passed. | The law that the state of Illinois had put in place to restrict working hours failed because companies were not being forced to adhere to it.
 answerText: The law that the state of Illinois had put in place to restrict working hours failed because companies were not being forced to adhere to it.
+reviewed: yes
 ---
 【正解】4 The law that the state of Illinois had put in place to restrict working hours failed because companies were not being forced to adhere to it.（イリノイ州が労働時間を制限するために定めた法律は、企業がそれを守るよう強制されていなかったので、うまくいかなかった。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: chip in | pull off | stick around | bear up
 answerText: stick around
+reviewed: yes
 ---
 【正解】3 stick around（その場にしばらく残る）
 【和訳】

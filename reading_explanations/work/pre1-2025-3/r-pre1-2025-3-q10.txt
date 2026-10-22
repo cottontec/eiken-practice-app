@@ -1,6 +1,7 @@
 ---
 choices: abide | collide | subside | preside
 answerText: collide
+reviewed: yes
 ---
 【正解】2 collide（衝突する、ぶつかる）
 【和訳】

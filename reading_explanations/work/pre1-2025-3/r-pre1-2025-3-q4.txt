@@ -1,6 +1,7 @@
 ---
 choices: enrolling | rebelling | radiating | solidifying
 answerText: enrolling
+reviewed: yes
 ---
 【正解】1 enrolling（入学すること、正式に登録すること）
 【和訳】

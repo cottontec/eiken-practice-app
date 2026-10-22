@@ -1,6 +1,7 @@
 ---
 choices: evaded | sterilized | wrecked | commuted
 answerText: evaded
+reviewed: yes
 ---
 【正解】1 evaded（～から逃れた、～の手をかわした）
 【和訳】

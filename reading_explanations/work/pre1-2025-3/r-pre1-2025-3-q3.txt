@@ -1,6 +1,7 @@
 ---
 choices: supernatural | cowardly | spacious | compliant
 answerText: spacious
+reviewed: yes
 ---
 【正解】3 spacious（広々とした）
 【和訳】

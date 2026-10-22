@@ -1,6 +1,7 @@
 ---
 choices: has proved effective at killing pathogens that enter plant cells but is unable to protect plants against insects and other external pests. | helps plants defend themselves against pests in a similar way to how human vaccines work but has a broader effect. | works for the lifetime of a plant just as vaccines do for humans but is not passed on to the plant's offspring because it has no genetic basis. | works well in most cases but can sometimes cause damage to plants because of the stress it causes them.
 answerText: helps plants defend themselves against pests in a similar way to how human vaccines work but has a broader effect.
+reviewed: yes
 ---
 【正解】2 helps plants defend themselves against pests in a similar way to how human vaccines work but has a broader effect.（（誘導抵抗性は）人間のワクチンの働き方と似たやり方で、植物が有害生物から自分を守るのを助けるが、より幅広い効果がある。）
 【和訳】

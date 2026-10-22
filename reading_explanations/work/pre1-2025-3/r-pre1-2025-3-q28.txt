@@ -1,6 +1,7 @@
 ---
 choices: made sure that police officers who had been at the previous day's demonstration would not be on duty for the gathering in Haymarket Square. | hoped that the number of participants for such an important event would be greater than the actual number of people who attended on May 4. | realized that as the final speeches became more passionate, he had no choice but to give the police permission to end the gathering using force. | believed that because the proceedings had generally passed without incident, there were unlikely to be any major problems for the remainder of the protest.
 answerText: believed that because the proceedings had generally passed without incident, there were unlikely to be any major problems for the remainder of the protest.
+reviewed: yes
 ---
 【正解】4 believed that because the proceedings had generally passed without incident, there were unlikely to be any major problems for the remainder of the protest.（（シカゴ市長は）集会がおおむね何事もなく進んでいたので、抗議集会の残りの時間に大きな問題が起こることはなさそうだと考えた。）
 【和訳】

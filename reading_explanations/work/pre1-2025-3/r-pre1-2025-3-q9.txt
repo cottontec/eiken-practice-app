@@ -1,6 +1,7 @@
 ---
 choices: warranty | fracture | hazard | ascent
 answerText: ascent
+reviewed: yes
 ---
 【正解】4 ascent（登ること、登り）
 【和訳】

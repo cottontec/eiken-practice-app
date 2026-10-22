@@ -72,8 +72,8 @@
       "batchId": "pre1-2025-3",
       "target": 31,
       "written": 31,
-      "contentReviewed": 0,
-      "status": "complete_unreviewed",
+      "contentReviewed": 31,
+      "status": "complete_reviewed",
       "blank": 0,
       "issues": 0,
       "checkErrors": 0,
@@ -102,5 +102,5 @@
       "checkWarnings": 0
     }
   ],
-  "updatedAt": "2026-10-22T22:14:34+00:00"
+  "updatedAt": "2026-10-22T22:15:03+00:00"
 }

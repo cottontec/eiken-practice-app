@@ -1,6 +1,7 @@
 ---
 choices: There was considerable pressure to arrest people and conclude the trial, even though doubts emerged about the defendants' direct involvement in the bombing. | Adelman's criticism of the trial proceedings does not take into account the fact that the defendants were planning bomb attacks at other demonstrations. | Although the arrested men were probably innocent, the actions of the police were justified because of the number of people who had been killed on May 4. | Some of the defendants were more directly involved in the bombing than others, so the court was correct to make such a distinction when it sentenced them.
 answerText: There was considerable pressure to arrest people and conclude the trial, even though doubts emerged about the defendants' direct involvement in the bombing.
+reviewed: yes
 ---
 【正解】1 There was considerable pressure to arrest people and conclude the trial, even though doubts emerged about the defendants' direct involvement in the bombing.（被告たちが爆破に直接関わっていたかどうかに疑いが出てきたにもかかわらず、人々を逮捕して裁判を終わらせようとするかなりの圧力があった。）
 【和訳】

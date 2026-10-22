@@ -1,6 +1,7 @@
 ---
 choices: perch | breeze | gleam | sizzle
 answerText: gleam
+reviewed: yes
 ---
 【正解】3 gleam（輝き、きらめき）
 【和訳】

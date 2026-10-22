@@ -1,6 +1,7 @@
 ---
 choices: nutritious | righteous | tentative | universal
 answerText: tentative
+reviewed: yes
 ---
 【正解】3 tentative（仮の、まだ確定していない）
 【和訳】

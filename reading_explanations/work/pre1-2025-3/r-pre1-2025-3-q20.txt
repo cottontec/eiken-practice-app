@@ -1,6 +1,7 @@
 ---
 choices: actually did more than that | took time to have an effect | helped only wealthier students | had the opposite effect
 answerText: had the opposite effect
+reviewed: yes
 ---
 【正解】4 had the opposite effect（逆の効果をもたらした）
 【和訳】

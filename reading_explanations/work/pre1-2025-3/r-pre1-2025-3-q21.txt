@@ -1,6 +1,7 @@
 ---
 choices: an insufficient number of teachers | how the children were taught | the length of the program | how the schools were chosen
 answerText: how the children were taught
+reviewed: yes
 ---
 【正解】2 how the children were taught（子どもたちの教えられ方）
 【和訳】

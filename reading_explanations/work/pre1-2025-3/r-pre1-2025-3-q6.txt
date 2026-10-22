@@ -1,6 +1,7 @@
 ---
 choices: forgery | candidacy | leniency | rivalry
 answerText: rivalry
+reviewed: yes
 ---
 【正解】4 rivalry（対抗意識、ライバル関係）
 【和訳】

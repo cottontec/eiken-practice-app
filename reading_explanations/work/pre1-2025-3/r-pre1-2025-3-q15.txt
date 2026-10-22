@@ -1,6 +1,7 @@
 ---
 choices: live off | make for | pass on | wipe out
 answerText: make for
+reviewed: yes
 ---
 【正解】2 make for（～へ向かう）
 【和訳】
