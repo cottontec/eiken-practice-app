@@ -2,6 +2,7 @@
 choices: to | if | you | quit | were
 answerText: you
 order: 2 3 5 1 4
+reviewed: yes
 ---
 【正解】3 you（この問題の2番目）
 【完成文】

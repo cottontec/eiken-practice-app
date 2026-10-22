@@ -1,6 +1,7 @@
 ---
 choices: this | that | these | which
 answerText: that
+reviewed: yes
 ---
 【正解】2 that（前に出た名詞の代わりをする語。ここでは the sound quality の代わり）
 【和訳】

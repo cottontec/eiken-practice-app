@@ -1,6 +1,7 @@
 ---
 choices: realistic | mysterious | negative | convenient
 answerText: negative
+reviewed: yes
 ---
 【正解】3 negative（悪い、否定的な）
 【和訳】

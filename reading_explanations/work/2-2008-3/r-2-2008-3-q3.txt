@@ -1,6 +1,7 @@
 ---
 choices: privately | sincerely | rapidly | skillfully
 answerText: rapidly
+reviewed: yes
 ---
 【正解】3 rapidly（速く、急速に）
 【和訳】

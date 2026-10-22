@@ -1,6 +1,7 @@
 ---
 choices: ICANN to test the accuracy of the information on the Internet. | ICANN to end the shortage of domain names in the Roman alphabet. | some countries to create domain names completely in their own characters. | some Internet users to develop websites without domain names.
 answerText: some countries to create domain names completely in their own characters.
+reviewed: yes
 ---
 【正解】3 some countries to create domain names completely in their own characters.（いくつかの国が、すべて自分たちの文字でドメイン名を作ること。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: Prove his theory in a way that will not damage the structure. | Build a crane on top of the pyramid to conduct his survey. | Use his computer software to make plans for a new pyramid. | Get permission to take stones back to France to study them.
 answerText: Prove his theory in a way that will not damage the structure.
+reviewed: yes
 ---
 【正解】1 Prove his theory in a way that will not damage the structure.（建造物を傷つけない方法で自分の説を証明すること。）
 【和訳】

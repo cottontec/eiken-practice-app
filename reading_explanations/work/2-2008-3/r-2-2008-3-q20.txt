@@ -1,6 +1,7 @@
 ---
 choices: has laughed | to laugh | being laughed | laughing
 answerText: being laughed
+reviewed: yes
 ---
 【正解】3 being laughed（笑われること）
 【和訳】

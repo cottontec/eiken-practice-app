@@ -1,0 +1,24 @@
+---
+choices: trust | combine | ignore | preserve
+answerText: ignore
+---
+【正解】3 ignore（無視する）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 trust：信頼する
+2 combine：組み合わせる
+3 ignore：無視する
+4 preserve：保存する、守り続ける
+【考え方】
+空所の文は Another problem is that some teachers (　) the rules concerning homework that already exist.（もう1つの問題は、一部の教師が、宿題に関してすでにある決まりを～することだ）です。concerning は「～に関する」という意味です。Another problem（もう1つの問題）とあるので、空所には「問題」になる行動が入ります。
+次の文が手がかりです。The answer, according to some experts, is to make sure that these are obeyed by all teachers.（一部の専門家によれば、その解決策は、これらの決まりがすべての教師に確実に守られるようにすることだ）。these は宿題に関する決まりのこと、obey は「従う、守る」です。
+解決策が「すべての教師に決まりを守らせること」なのですから、問題は「一部の教師が決まりを守っていない」ことだと分かります。ignore は「無視する」なので、決まりを無視する、つまり守らないという意味になり、3が正解です。
+【ほかの選択肢】
+1 trust は「信頼する」です。教師が決まりを信頼することは問題ではなく、「すべての教師に守らせる」という解決策ともつながりません。
+2 combine は「組み合わせる」です。決まりを組み合わせることが問題だとは書かれておらず、守らせるという解決策とも合いません。
+4 preserve は「保存する、守り続ける」です。決まりを守り続けているのなら問題にはならず、「すべての教師に守らせる」という解決策の話にもなりません。
+【覚えるポイント】
+・ignore the rules：「決まりを無視する」。反対は obey the rules（決まりに従う）です。
+・make sure that ～：「確実に～するようにする」。

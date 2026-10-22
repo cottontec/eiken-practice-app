@@ -2,13 +2,14 @@
 choices: do | you | sit | all | is
 answerText: is
 order: 4 2 1 5 3
+reviewed: yes
 ---
 【正解】5 is（この問題の4番目）
 【完成文】
 A: Tim, ( all you do is sit ) on the sofa and watch TV. Why don't you go outside and get some exercise?
 並べ方：4 all → 2 you → 1 do → 5 is → 3 sit（2番目は2、4番目は5）
 【和訳】
-A：ティム、おまえはソファに座ってテレビを見てばかりいるね。外に行って少し運動したらどうだい？
+A：ティム、ソファに座ってテレビを見てばかりいるね。外に行って少し運動したらどうだい？
 B：この映画が終わったらすぐに散歩に行くよ、お父さん。
 【考え方】
 4番目を決めるには、この文の主語と動詞がどこかを考えます。

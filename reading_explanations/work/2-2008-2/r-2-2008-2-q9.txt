@@ -1,6 +1,7 @@
 ---
 choices: mostly | frequently | immediately | exactly
 answerText: exactly
+reviewed: yes
 ---
 【正解】4 exactly（ちょうど、正確に）
 【和訳】

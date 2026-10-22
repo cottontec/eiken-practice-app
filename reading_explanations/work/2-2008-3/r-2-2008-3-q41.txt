@@ -1,6 +1,7 @@
 ---
 choices: has changed the way some people use their computers. | is one reason why billions of people cannot use the Internet. | has ended poverty and government control in some countries. | is helping to create an Internet that everybody finds easy to use.
 answerText: is one reason why billions of people cannot use the Internet.
+reviewed: yes
 ---
 【正解】2 is one reason why billions of people cannot use the Internet.（何十億もの人々がインターネットを使えない理由の1つである。）
 【和訳】
@@ -15,7 +16,7 @@ answerText: is one reason why billions of people cannot use the Internet.
 【考え方】
 第1段落を見ます。there are still 5 billion people around the world without access to it（世界にはまだインターネットを利用できない人々が50億人いる）とあります。billion は「10億」なので、5 billion は「50億」です。
 その原因について、Many factors, such as poverty and government control, are responsible for this situation. However, language also plays a part.（貧困や政府による規制など、多くの要因がこの状況の原因となっている。しかし、言語もその一因となっている）と続きます。play a part は「役割を果たす、一因となる」です。
-そして This is because domain names ― the addresses of the websites people want to visit ― must use the Roman alphabet.（これは、ドメイン名――人々が訪れたいウェブサイトのアドレス――にはローマ字を使わなければならないからだ）と、言語が原因になる理由が説明されています。第2段落にも、ローマ字になじみのない人はドメイン名を入力したり読んだりできず、訪れたいサイトに行けないと書かれています。本文と選択肢は次のように対応しています。
+そして This is because domain names — the addresses of the websites people want to visit — must use the Roman alphabet.（これは、ドメイン名――人々が訪れたいウェブサイトのアドレス――にはローマ字を使わなければならないからだ）と、言語が原因になる理由が説明されています。第2段落にも、ローマ字になじみのない人はドメイン名を入力したり読んだりできず、訪れたいサイトに行けないと書かれています。本文と選択肢は次のように対応しています。
 本文 5 billion people around the world without access to it（インターネットを利用できない50億人）＝ 選択肢 billions of people cannot use the Internet（何十億もの人々がインターネットを使えない）
 本文 language also plays a part（言語もその一因となっている）＝ 選択肢 is one reason why ～（～の理由の1つである）
 正解は2です。

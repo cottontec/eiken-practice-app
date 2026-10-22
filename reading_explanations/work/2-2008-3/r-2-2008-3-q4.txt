@@ -1,6 +1,7 @@
 ---
 choices: objection | edition | solution | relation
 answerText: solution
+reviewed: yes
 ---
 【正解】3 solution（解答、解決法）
 【和訳】

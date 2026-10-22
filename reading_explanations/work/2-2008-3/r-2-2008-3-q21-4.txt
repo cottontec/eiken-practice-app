@@ -2,6 +2,7 @@
 choices: able | provided | am | that | I
 answerText: am
 order: 2 4 5 3 1
+reviewed: yes
 ---
 【正解】3 am（この問題の4番目）
 【完成文】

@@ -2,6 +2,7 @@
 choices: strange | it | she | that | thought
 answerText: thought
 order: 3 5 2 1 4
+reviewed: yes
 ---
 【正解】5 thought（この問題の2番目）
 【完成文】

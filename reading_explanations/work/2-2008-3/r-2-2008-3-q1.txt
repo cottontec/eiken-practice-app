@@ -1,6 +1,7 @@
 ---
 choices: judge | pack | defend | focus
 answerText: pack
+reviewed: yes
 ---
 【正解】2 pack（荷物を詰める）
 【和訳】

@@ -1,0 +1,20 @@
+---
+choices: side | time | fact | reason
+answerText: time
+---
+【正解】2 time（for the time being で「当分の間、さしあたり」）
+【和訳】
+A：お父さん、先生が明日授業に辞書を持ってこなければいけないって言ったんだけど、自分のが見つからないんだ。
+B：心配いらないよ。（当分の間）お父さんのを使っていいよ。ただ、自分のが見つかったら必ず返してね。
+（選択肢の意味）1 側、面　2 時間、時　3 事実　4 理由
+【考え方】
+空所の前後は for the (　) being です。この形に入って決まった意味になるのは time で、for the time being は「当分の間、さしあたり」という意味です。
+会話の内容からも確かめます。Aは自分の辞書が見つからなくて困っています。Bは You can use mine（私のを使っていい）と言い、さらに Just make sure you return it when you find yours.（自分のが見つかったら必ず返してね）と言っています。
+つまり、Bの辞書を使うのは「Aの辞書が見つかるまでの間だけ」です。「さしあたり、しばらくの間」という意味の for the time being がこの流れにぴったり合うので、2が正解です。
+【ほかの選択肢】
+1 side は「側、面」です。for the side being という言い方はなく、「しばらくの間使っていい」という意味を作れません。
+3 fact は「事実」です。for the fact being という言い方はなく、意味が通りません。
+4 reason は「理由」です。for the reason being という形では決まった意味にならず、「見つかるまでの間だけ貸す」という内容を表せません。
+【覚えるポイント】
+・for the time being：「当分の間、さしあたり」。
+・make sure (that) ～：「必ず～するようにする」。

@@ -1,6 +1,7 @@
 ---
 choices: above | during | inside | around
 answerText: during
+reviewed: yes
 ---
 【正解】2 during（～の間に）
 【和訳】

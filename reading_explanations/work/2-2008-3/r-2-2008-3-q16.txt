@@ -1,6 +1,7 @@
 ---
 choices: memory | trouble | cash | depth
 answerText: depth
+reviewed: yes
 ---
 【正解】4 depth（in depth で「くわしく、徹底的に」）
 【和訳】

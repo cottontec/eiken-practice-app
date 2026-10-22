@@ -1,6 +1,7 @@
 ---
 choices: people are not producing new plays about spider-silk medicines. | William Shakespeare was able to cure illnesses by using spider silk. | spiders can use their silk to heal themselves when they are injured. | scientists have paid little attention to the medical possibilities of spider silk.
 answerText: scientists have paid little attention to the medical possibilities of spider silk.
+reviewed: yes
 ---
 【正解】4 scientists have paid little attention to the medical possibilities of spider silk.（科学者たちが、クモの糸の医療への可能性にほとんど注意を向けてこなかったこと。）
 【和訳】

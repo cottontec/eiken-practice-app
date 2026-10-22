@@ -1,0 +1,29 @@
+---
+choices: found that the sweater he had bought was damaged. | wrote to Ms. Turner about a blue Joseph Lamont sweater. | tried to return a Joseph Lamont sweater to Ms. Turner's store. | saw that a sweater he had bought was on sale at a cheaper price.
+answerText: found that the sweater he had bought was damaged.
+---
+【正解】1 found that the sweater he had bought was damaged.（自分が買ったセーターが傷んでいることに気づいた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：6月7日に、リチャード・ヘンリーは（　）。
+1 自分が買ったセーターが傷んでいることに気づいた
+2 青いジョゼフ・ラモントのセーターについて、ターナーさんにメールを書いた
+3 ジョゼフ・ラモントのセーターを、ターナーさんの店に返品しようとした
+4 自分が買ったセーターが、もっと安い値段でセールになっているのを見た
+【考え方】
+設問は「6月7日」に何をしたかをたずねています。メールの中の日付に注意して読みます。
+第1段落の1文目に、I am writing to complain about an item that I bought from your store on June 7.（6月7日にそちらのお店で買った商品について苦情を言うために書いている）とあります。6月7日は、セーターを買った日です。
+同じ段落の最後に When I returned home, I discovered that there was a small hole under the arm.（家に帰ったとき、わきの下に小さな穴があいているのを見つけた）とあります。店で買って家に帰ったときのことなので、穴に気づいたのも6月7日だと読み取れます。
+本文と選択肢は次のように対応しています。
+本文 I discovered（私は見つけた）＝ 選択肢 found（気づいた、見つけた）
+本文 there was a small hole under the arm（わきの下に小さな穴があった）＝ 選択肢 was damaged（傷んでいた）
+正解は1です。
+【ほかの選択肢】
+2 メールの日付は Date: June 13, 2010（2010年6月13日）です。ターナーさんにメールを書いたのは6月13日なので、日付が違います。
+3 第2段落に Two days later, I went back to your store to exchange the sweater.（2日後、セーターを交換するために店にもう一度行った）とあります。店に行ったのは買った日の2日後で、6月7日ではありません。また、このとき求めたのは exchange（交換）で、返品ではありません。
+4 セーターは買ったときに on sale at a 40-percent discount（40パーセント引きのセール中）でした。そのあと、もっと安い値段で売られているのを見たという話は本文にありません。
+【覚えるポイント】
+・complain about ～：「～について苦情を言う」。
+・Two days later：「2日後」。日付をたずねる問題では、このような時を表す語句から日にちを計算します。

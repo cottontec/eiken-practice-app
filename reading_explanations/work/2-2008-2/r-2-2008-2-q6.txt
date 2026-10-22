@@ -1,6 +1,7 @@
 ---
 choices: selected | abandoned | revealed | admitted
 answerText: abandoned
+reviewed: yes
 ---
 【正解】2 abandoned（捨てた、置き去りにした）
 【和訳】

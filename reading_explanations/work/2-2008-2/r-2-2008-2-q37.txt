@@ -1,6 +1,7 @@
 ---
 choices: stores will sell cell phones that work as printers. | printers may no longer have parts that can be broken. | people may have a new way of replacing broken parts. | manufacturers will give people a new cell phone when they visit.
 answerText: people may have a new way of replacing broken parts.
+reviewed: yes
 ---
 【正解】3 people may have a new way of replacing broken parts.（人々は、壊れた部品を取りかえる新しい方法を持つかもしれない。）
 【和訳】

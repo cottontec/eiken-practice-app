@@ -1,6 +1,7 @@
 ---
 choices: know of | long for | count on | back up
 answerText: count on
+reviewed: yes
 ---
 【正解】3 count on（～を頼りにする）
 【和訳】

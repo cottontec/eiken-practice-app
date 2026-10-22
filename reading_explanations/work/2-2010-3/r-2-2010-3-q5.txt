@@ -1,0 +1,18 @@
+---
+choices: participated | vanished | decreased | survived
+answerText: participated
+---
+【正解】1 participated（参加した）
+【和訳】
+ターナー先生は昨日、歴史の授業で討論会を開きました。生徒全員が話し合いに積極的に参加したので、先生は喜びました。
+（選択肢の意味）1 参加した　2 消えた　3 減った　4 生き残った
+【考え方】
+1文目で、ターナー先生は授業で debate（討論会、ある話題について意見を出し合う話し合い）を開いたと分かります。2文目は He was pleased because ～（～なので先生は喜んだ）です。
+先生が喜ぶのは、生徒たちが討論会でどうしたときかを考えます。空所のあとの actively（積極的に）と in the discussion（話し合いに）が手がかりです。participate in ～ で「～に参加する」という意味になり、participated actively in the discussion で「話し合いに積極的に参加した」となります。先生が喜んだ理由としてぴったりです。正解は1です。
+【ほかの選択肢】
+2 vanished は「消えた」です。「生徒全員が話し合いの中で積極的に消えた」となり、意味が通りません。
+3 decreased は「減った」です。「生徒全員が話し合いで積極的に減った」となり、意味が通りません。
+4 survived は「生き残った」です。「話し合いで積極的に生き残った」となり、討論会で先生が喜ぶ理由になりません。
+【覚えるポイント】
+・participate in ～：「～に参加する」。take part in ～ と同じ意味です。
+・actively：「積極的に」。active（活動的な）に ly が付いた形です。

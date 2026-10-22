@@ -1,6 +1,7 @@
 ---
 choices: capacity | mission | rhythm | symbol
 answerText: capacity
+reviewed: yes
 ---
 【正解】1 capacity（収容能力、定員）
 【和訳】

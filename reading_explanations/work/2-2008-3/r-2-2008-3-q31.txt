@@ -1,6 +1,7 @@
 ---
 choices: requests | concerns | attitudes | incomes
 answerText: incomes
+reviewed: yes
 ---
 【正解】4 incomes（収入）
 【和訳】

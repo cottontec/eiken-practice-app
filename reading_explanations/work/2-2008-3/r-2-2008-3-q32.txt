@@ -1,6 +1,7 @@
 ---
 choices: ignoring | chasing | reflecting | maintaining
 answerText: ignoring
+reviewed: yes
 ---
 【正解】1 ignoring（無視している）
 【和訳】

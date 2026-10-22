@@ -1,6 +1,7 @@
 ---
 choices: the builders began by making 3-D models of the pyramid. | the Egyptians moved the stones up a slope inside the pyramid. | the wooden-cranes theory should be tested on another pyramid. | the mystery will be explained by measuring rooms in the pyramid.
 answerText: the Egyptians moved the stones up a slope inside the pyramid.
+reviewed: yes
 ---
 【正解】2 the Egyptians moved the stones up a slope inside the pyramid.（エジプト人はピラミッドの内部にある坂を使って石を上へ運んだ。）
 【和訳】

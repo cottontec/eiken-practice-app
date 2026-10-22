@@ -6,8 +6,8 @@
       "batchId": "2-2008-3",
       "target": 50,
       "written": 50,
-      "contentReviewed": 0,
-      "status": "complete_unreviewed",
+      "contentReviewed": 50,
+      "status": "complete_reviewed",
       "blank": 0,
       "issues": 0,
       "checkErrors": 0,
@@ -25,5 +25,5 @@
       "checkWarnings": 0
     }
   ],
-  "updatedAt": "2026-10-22T04:59:04+00:00"
+  "updatedAt": "2026-10-22T05:02:00+00:00"
 }

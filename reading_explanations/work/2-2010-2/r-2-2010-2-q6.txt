@@ -1,0 +1,19 @@
+---
+choices: investigating | sponsoring | assisting | reversing
+answerText: investigating
+---
+【正解】1 investigating（investigate「～を調査する」の ing 形）
+【和訳】
+A：ライオネル、工場の火事がどうやって始まったのか知ってる？
+B：いや、でも、警察と消防署が今その原因を（調査している）と聞いたよ。
+（選択肢の意味）1 ～を調査している　2 ～を後援している、～のスポンサーになっている　3 ～を手伝っている　4 ～を逆にしている、ひっくり返している
+【考え方】
+Aは how the fire at the factory started（工場の火事がどうやって始まったか）をたずねています。Bは No（知らない）と答えたあと、but I heard that the police and the fire department are (　) the cause now.（でも、警察と消防署が今その原因を〜していると聞いた）と続けています。
+火事の始まり方、つまり原因はまだ分かっていません。分かっていない原因について、警察と消防署が今していることといえば「調べること」です。investigate は「～を調査する、詳しく調べる」という意味で、are investigating は「調査しているところだ」となります。the cause（原因）ともよく合うので、1が正解です。
+【ほかの選択肢】
+2 sponsoring は sponsor「～を後援する、～のスポンサーになる」の ing 形です。「警察と消防署が火事の原因を後援している」となり、意味が通りません。
+3 assisting は assist「～を手伝う」の ing 形です。assist はふつう人を手伝うときに使います。「原因を手伝っている」では意味が通りません。
+4 reversing は reverse「～を逆にする、ひっくり返す」の ing 形です。「原因を逆にしている」となり、Aの質問への答えとして意味が通りません。
+【覚えるポイント】
+・investigate：「～を調査する」。investigate the cause で「原因を調べる」。
+・the fire department：「消防署」。

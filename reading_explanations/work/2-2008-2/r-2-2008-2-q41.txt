@@ -1,6 +1,7 @@
 ---
 choices: found out why some spiders produce stronger kinds of silk. | developed artificial spider silk that is made from steel. | learned what chemicals are in spider silk. | discovered that a spider's silk changes during its lifetime.
 answerText: learned what chemicals are in spider silk.
+reviewed: yes
 ---
 【正解】3 learned what chemicals are in spider silk.（クモの糸にどんな化学物質が含まれているかを知った。）
 【和訳】

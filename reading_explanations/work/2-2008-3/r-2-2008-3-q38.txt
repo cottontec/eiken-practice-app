@@ -1,6 +1,7 @@
 ---
 choices: The stones were too large to lift with wooden cranes. | There is no evidence that the Egyptians could make cranes. | Most wood used for cranes was being sold to foreign countries. | Cranes could not have been placed near the top of the pyramid.
 answerText: Cranes could not have been placed near the top of the pyramid.
+reviewed: yes
 ---
 【正解】4 Cranes could not have been placed near the top of the pyramid.（クレーンをピラミッドの頂上近くに置くことはできなかったはずだ。）
 【和訳】

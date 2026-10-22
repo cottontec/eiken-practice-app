@@ -1,6 +1,7 @@
 ---
 choices: at large | in tune | on duty | for fun
 answerText: at large
+reviewed: yes
 ---
 【正解】1 at large（捕まらずに、逃げたままで）
 【和訳】

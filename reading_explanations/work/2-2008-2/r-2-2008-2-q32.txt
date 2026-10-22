@@ -1,6 +1,7 @@
 ---
 choices: benefit | describe | trick | embarrass
 answerText: benefit
+reviewed: yes
 ---
 【正解】1 benefit（～の役に立つ、～のためになる）
 【和訳】

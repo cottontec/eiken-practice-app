@@ -1,6 +1,7 @@
 ---
 choices: sold | chosen | lost | split
 answerText: lost
+reviewed: yes
 ---
 【正解】3 lost（失われた）
 【和訳】

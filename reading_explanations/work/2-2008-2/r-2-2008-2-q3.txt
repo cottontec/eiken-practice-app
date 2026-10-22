@@ -1,6 +1,7 @@
 ---
 choices: solution | suggestion | attraction | determination
 answerText: attraction
+reviewed: yes
 ---
 【正解】3 attraction（呼び物、人を引きつける場所）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: pull off | tend to | carry on | get over
 answerText: get over
+reviewed: yes
 ---
 【正解】4 get over（～から立ち直る、～を乗り越える）
 【和訳】

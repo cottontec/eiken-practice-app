@@ -1,6 +1,7 @@
 ---
 choices: instance | certain | fun | granted
 answerText: granted
+reviewed: yes
 ---
 【正解】4 granted（take ～ for granted で「～を当たり前と思う」）
 【和訳】

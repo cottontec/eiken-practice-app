@@ -1,6 +1,7 @@
 ---
 choices: instead of | thanks to | missed by | apart from
 answerText: thanks to
+reviewed: yes
 ---
 【正解】2 thanks to（～のおかげで）
 【和訳】

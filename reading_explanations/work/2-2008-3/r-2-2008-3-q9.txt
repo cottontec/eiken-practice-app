@@ -1,6 +1,7 @@
 ---
 choices: proposal | championship | revolution | misunderstanding
 answerText: misunderstanding
+reviewed: yes
 ---
 【正解】4 misunderstanding（誤解、思い違い）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: often helps the sales manager at Rosa's Fashions. | has recently taken a management-training course. | has some experience with the work done by a sales manager. | is responsible for finding new employees to work at the store.
 answerText: has some experience with the work done by a sales manager.
+reviewed: yes
 ---
 【正解】3 has some experience with the work done by a sales manager.（販売マネージャーがする仕事をいくらか経験したことがある。）
 【和訳】

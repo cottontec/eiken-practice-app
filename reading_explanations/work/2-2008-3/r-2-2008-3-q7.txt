@@ -1,6 +1,7 @@
 ---
 choices: publish | load | scratch | freeze
 answerText: load
+reviewed: yes
 ---
 【正解】2 load（積み込む）
 【和訳】

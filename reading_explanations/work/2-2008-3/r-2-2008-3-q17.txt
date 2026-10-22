@@ -1,6 +1,7 @@
 ---
 choices: opens | makes | lends | shows
 answerText: shows
+reviewed: yes
 ---
 【正解】4 shows（案内する）
 【和訳】

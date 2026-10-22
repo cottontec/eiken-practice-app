@@ -1,6 +1,7 @@
 ---
 choices: Doctors often use spider silk during operations. | Scientists have found a way to produce man-made spider silk. | Rats and pigs showed negative reactions to spider-silk medicines. | Lewis has written stories about how spiders are used to heal people.
 answerText: Scientists have found a way to produce man-made spider silk.
+reviewed: yes
 ---
 【正解】2 Scientists have found a way to produce man-made spider silk.（科学者たちは、人工のクモの糸を作る方法を見つけた。）
 【和訳】

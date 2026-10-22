@@ -1,6 +1,7 @@
 ---
 choices: urged | extended | praised | succeeded
 answerText: urged
+reviewed: yes
 ---
 【正解】1 urged（強く勧めた）
 【和訳】

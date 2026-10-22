@@ -1,6 +1,7 @@
 ---
 choices: cover implants with spider silk to prevent rejection by the body. | find a way to cause the human immune system to react to spider silk. | show that human bodies contain a material similar to spider silk. | make a new type of silk that is safer than spider silk.
 answerText: cover implants with spider silk to prevent rejection by the body.
+reviewed: yes
 ---
 【正解】1 cover implants with spider silk to prevent rejection by the body.（体による拒絶を防ぐために、インプラントをクモの糸でおおう）
 【和訳】

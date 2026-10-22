@@ -1,6 +1,7 @@
 ---
 choices: comes to | turns on | brings with | takes after
 answerText: comes to
+reviewed: yes
 ---
 【正解】1 comes to（when it comes to ～で「～のことになると」）
 【和訳】

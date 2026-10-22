@@ -2,13 +2,14 @@
 choices: do | old | with | make | my
 answerText: my
 order: 4 1 3 5 2
+reviewed: yes
 ---
 【正解】5 my（この問題の4番目）
 【完成文】
 No. I'll ( make do with my old ) watch for a bit longer. It still works fine.
 並べ方：4 make → 1 do → 3 with → 5 my → 2 old（2番目は1、4番目は5）
 【和訳】
-A：ねえ、デパートで腕時計のセールをやっているわよ。新しいのが要る？
+A：ねえ、デパートで腕時計のセールをやっているよ。新しいのが要る？
 B：いや。もう少しの間、今の古い時計で間に合わせるよ。まだちゃんと動くからね。
 【考え方】
 まず、Bの答えの内容を確かめます。Bは No.（いや）と言って新しい時計は要らないと答え、最後に It still works fine.（まだちゃんと動く）と理由を述べています。ですから空所には「今の古い時計で済ませる」という意味が入ると考えられます。

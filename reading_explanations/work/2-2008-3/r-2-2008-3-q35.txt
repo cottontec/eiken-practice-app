@@ -1,6 +1,7 @@
 ---
 choices: the fact that she wears clothing from the store. | the time that she spends learning about clothes and fashion. | the careful attention that she pays to advice from her co-workers. | the way that she treats customers who come to the store.
 answerText: the way that she treats customers who come to the store.
+reviewed: yes
 ---
 【正解】4 the way that she treats customers who come to the store.（彼女が店に来るお客に接するやり方。）
 【和訳】

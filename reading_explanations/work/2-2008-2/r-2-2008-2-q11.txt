@@ -1,6 +1,7 @@
 ---
 choices: danger | place | front | spite
 answerText: spite
+reviewed: yes
 ---
 【正解】4 spite（in spite of ～で「～にもかかわらず」）
 【和訳】

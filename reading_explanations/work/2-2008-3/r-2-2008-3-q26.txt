@@ -1,6 +1,7 @@
 ---
 choices: replace | prefer | defend | expand
 answerText: replace
+reviewed: yes
 ---
 【正解】1 replace（取り替える）
 【和訳】

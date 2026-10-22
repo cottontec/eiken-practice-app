@@ -1,6 +1,7 @@
 ---
 choices: opens her heart | changes her mind | keeps her word | makes her way
 answerText: keeps her word
+reviewed: yes
 ---
 【正解】3 keeps her word（約束を守る）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: To recommend one of her employees for a job at his store. | To get more information about a position he advertised. | To ask about opening a new clothing store in Boston. | To inform him that Gina Tate is moving to Chicago.
 answerText: To recommend one of her employees for a job at his store.
+reviewed: yes
 ---
 【正解】1 To recommend one of her employees for a job at his store.（自分の従業員の1人を、彼の店の仕事に推薦するため。）
 【和訳】

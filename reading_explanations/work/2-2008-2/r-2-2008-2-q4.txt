@@ -1,6 +1,7 @@
 ---
 choices: broadcast | overcome | listed | represented
 answerText: broadcast
+reviewed: yes
 ---
 【正解】1 broadcast（放送される）
 【和訳】

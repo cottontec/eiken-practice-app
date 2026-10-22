@@ -1,6 +1,7 @@
 ---
 choices: claws | tail | horns | fur
 answerText: claws
+reviewed: yes
 ---
 【正解】1 claws（かぎづめ、するどいつめ）
 【和訳】

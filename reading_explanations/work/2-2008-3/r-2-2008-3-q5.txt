@@ -1,6 +1,7 @@
 ---
 choices: persuade | upset | interrupt | assist
 answerText: persuade
+reviewed: yes
 ---
 【正解】1 persuade（説得する）
 【和訳】

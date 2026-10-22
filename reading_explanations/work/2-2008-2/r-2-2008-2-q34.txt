@@ -1,6 +1,7 @@
 ---
 choices: He is planning to buy a farm in Greenville County. | The school was looking for people to work in the cafeteria. | Some of his students were hoping to work on a local farm. | Mr. Brown wants to use more fresh vegetables in school meals.
 answerText: Mr. Brown wants to use more fresh vegetables in school meals.
+reviewed: yes
 ---
 【正解】4 Mr. Brown wants to use more fresh vegetables in school meals.（ブラウンさんは、学校の食事にもっと新鮮な野菜を使いたいと思っている。）
 【和訳】

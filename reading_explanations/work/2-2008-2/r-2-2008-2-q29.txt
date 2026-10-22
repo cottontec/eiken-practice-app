@@ -1,6 +1,7 @@
 ---
 choices: hesitate | advertise | apologize | cooperate
 answerText: cooperate
+reviewed: yes
 ---
 【正解】4 cooperate（協力する）
 【和訳】

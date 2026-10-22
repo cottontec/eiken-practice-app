@@ -1,6 +1,7 @@
 ---
 choices: ICANN now has branches in many countries around the world. | ICANN has already started testing non-Roman-alphabet domain names. | The majority of the world's population uses the same writing system. | Some governments plan to ban the use of the Internet.
 answerText: ICANN has already started testing non-Roman-alphabet domain names.
+reviewed: yes
 ---
 【正解】2 ICANN has already started testing non-Roman-alphabet domain names.（ICANNはすでに、ローマ字以外のドメイン名の試験を始めている。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: promise | technique | guarantee | coincidence
 answerText: coincidence
+reviewed: yes
 ---
 【正解】4 coincidence（偶然の一致）
 【和訳】

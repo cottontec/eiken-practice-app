@@ -1,6 +1,7 @@
 ---
 choices: connect | disagree | conclude | depend
 answerText: disagree
+reviewed: yes
 ---
 【正解】2 disagree（意見が合わない）
 【和訳】

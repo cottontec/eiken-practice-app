@@ -1,6 +1,7 @@
 ---
 choices: up to | on to | as for | in for
 answerText: as for
+reviewed: yes
 ---
 【正解】3 as for（～について言えば）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: surrendered | dedicated | confirmed | conflicted
 answerText: surrendered
+reviewed: yes
 ---
 【正解】1 surrendered（降伏した、投降した）
 【和訳】

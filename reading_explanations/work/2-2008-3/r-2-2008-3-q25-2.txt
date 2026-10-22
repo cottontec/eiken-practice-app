@@ -2,13 +2,14 @@
 choices: given | out | forms to | fill | was
 answerText: given
 order: 5 1 3 4 2
+reviewed: yes
 ---
 【正解】1 given（この問題の2番目）
 【完成文】
 When Kathy went to the hospital for the first time, she ( was given forms to fill out ). After she was done writing, she gave them to the nurse and waited to see the doctor.
 並べ方：5 was → 1 given → 3 forms to → 4 fill → 2 out（2番目は1、4番目は4）
 【和訳】
-キャシーが初めてその病院に行ったとき、彼女は記入する用紙を渡されました。書き終えると、彼女はそれを看護師に渡して、医師の診察を待ちました。
+キャシーが初めて病院に行ったとき、彼女は記入する用紙を渡されました。書き終えると、彼女はそれを看護師に渡して、医師の診察を待ちました。
 【考え方】
 まず、2文目を確認します。After she was done writing, she gave them to the nurse（書き終えたあと、彼女はそれらを看護師に渡した）とあります。them（それら）は、キャシーが書いたものです。ですから空所の文では、キャシーが何か書くものを受け取ったと考えられます。
 主語は空所の前の she です。キャシーは用紙を「渡された」側なので、受け身（「～される」という形）を使います。受け身は〈be 動詞＋過去分詞（given のような形）〉なので、5 was と 1 given で was given（渡された）とします。したがって2番目は1 given です。

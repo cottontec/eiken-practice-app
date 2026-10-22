@@ -1,6 +1,7 @@
 ---
 choices: Furthermore | Unfortunately | On average | By chance
 answerText: Furthermore
+reviewed: yes
 ---
 【正解】1 Furthermore（さらに、そのうえ）
 【和訳】

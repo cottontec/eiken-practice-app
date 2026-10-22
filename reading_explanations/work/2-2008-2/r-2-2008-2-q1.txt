@@ -1,6 +1,7 @@
 ---
 choices: phrase | fellow | theory | scene
 answerText: theory
+reviewed: yes
 ---
 【正解】3 theory（理論、学説）
 【和訳】

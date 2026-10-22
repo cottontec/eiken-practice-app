@@ -1,6 +1,7 @@
 ---
 choices: if | such | unless | since
 answerText: such
+reviewed: yes
 ---
 【正解】2 such（such ～ that … で「とても～なので…」）
 【和訳】
@@ -8,7 +9,7 @@ answerText: such
 （選択肢の意味）1 もし～なら　2 そのような、それほどの　3 ～しない限り　4 ～以来、～なので
 【考え方】
 空所のあとが that she could not get to sleep（彼女は眠れなかった）となっている点に注目します。この that と組み合わせて「とても～なので…」という意味を作る語を考えます。
-such は、ここではあとに that を伴って「それほど～なので…」という意味を作ります。Emma's excitement was such that she could not get to sleep は直訳すると「エマの興奮は、眠れないほどのものだった」となり、「とても興奮していたので眠れなかった」という意味です。正解は2です。
+ここでの such は「それほどのもの」という意味で、あとの that 以下が「どれほどのものか（その結果どうなったか）」を説明します。Emma's excitement was such that she could not get to sleep は直訳すると「エマの興奮は、眠れないほどのものだった」となり、「とても興奮していたので眠れなかった」という意味です。正解は2です。
 such がこのように be 動詞のあとで使われる形は、少し見慣れないかもしれません。so ～ that … （とても～なので…）と同じような「程度と結果」を表すと考えましょう。
 【ほかの選択肢】
 1 if は「もし～なら」という条件を表す語です。was if that ～ という形はなく、文になりません。

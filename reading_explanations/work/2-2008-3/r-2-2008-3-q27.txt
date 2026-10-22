@@ -1,6 +1,7 @@
 ---
 choices: challenging | discovering | removing | protecting
 answerText: protecting
+reviewed: yes
 ---
 【正解】4 protecting（守ること）
 【和訳】

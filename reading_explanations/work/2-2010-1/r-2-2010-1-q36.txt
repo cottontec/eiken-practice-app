@@ -1,0 +1,29 @@
+---
+choices: the store should refund the money he spent to get there. | the store must change its policy of not repairing damaged items. | he would like her to send some money to him for the sweater. | he thinks he should get a refund despite the store's policy.
+answerText: he thinks he should get a refund despite the store's policy.
+---
+【正解】4 he thinks he should get a refund despite the store's policy.（店の方針にもかかわらず、自分は返金を受けるべきだと思っている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：リチャード・ヘンリーはターナーさんに（　）と伝えている。
+1 店は、彼がそこへ行くのに使ったお金を返すべきだ
+2 店は、傷んだ商品を修理しないという方針を変えなければならない
+3 セーターの代金として、自分にお金を送ってほしい
+4 店の方針にもかかわらず、自分は返金を受けるべきだと思っている
+【考え方】
+リチャードの願いは、メールの最後の段落に書かれています。
+まず I understand that your store has a policy of not giving refunds on sale items.（そちらの店に、セール品は返金しないという方針があることは分かっている）とあります。refund は「返金（払ったお金を返すこと）」、policy は「方針、決まり」です。
+続けて Since the sweater was damaged when I bought it, however, I believe you should make an exception to your policy in this case.（しかし、買ったときにセーターは傷んでいたのだから、今回はその方針の例外にするべきだと思う）と述べています。make an exception は「例外にする」という意味です。
+そして最後に、Please tell me when it would be convenient for me to return to the store to receive my money.（お金を受け取りに店に行くのに都合のよいときを教えてほしい）と書いています。リチャードは、返金しないという方針があることを知ったうえで、それでも返金してほしいと言っているのです。
+本文と選択肢は次のように対応しています。
+本文 I believe you should make an exception to your policy（方針の例外にするべきだと思う）＝ 選択肢 he thinks he should get a refund despite the store's policy（店の方針にもかかわらず返金を受けるべきだと思っている）
+despite ～ は「～にもかかわらず」という意味です。正解は4です。
+【ほかの選択肢】
+1 the money he spent to get there は「店へ行くのに使ったお金（交通費）」のことです。リチャードが受け取りたいのはセーターの代金で、交通費を返してほしいとは書かれていません。
+2 店の方針は not giving refunds on sale items（セール品は返金しない）で、「修理しない」という方針ではありません。また、リチャードは今回を例外にしてほしいと言っているだけで、方針そのものを変えるよう求めてはいません。
+3 リチャードは、お金を受け取るために自分で店に行くつもりで、都合のよいときを教えてほしいと頼んでいます。お金を送ってほしいとは書かれていません。
+【覚えるポイント】
+・make an exception：「例外にする」。
+・despite ～：「～にもかかわらず」。in spite of ～ と同じ意味です。

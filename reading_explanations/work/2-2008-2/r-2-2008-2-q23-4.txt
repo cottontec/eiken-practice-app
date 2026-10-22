@@ -2,6 +2,7 @@
 choices: words | not | 3,000 | than | less
 answerText: 3,000
 order: 2 5 4 3 1
+reviewed: yes
 ---
 【正解】3 3,000（この問題の4番目）
 【完成文】

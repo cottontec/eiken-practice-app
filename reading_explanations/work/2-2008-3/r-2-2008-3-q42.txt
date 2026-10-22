@@ -1,6 +1,7 @@
 ---
 choices: the Internet has not grown as quickly as it might have in some places. | computer users are responsible for controlling their own domain names. | people should learn to use the Roman alphabet as soon as possible. | some websites should be allowed more than one domain name.
 answerText: the Internet has not grown as quickly as it might have in some places.
+reviewed: yes
 ---
 【正解】1 the Internet has not grown as quickly as it might have in some places.（一部の地域では、インターネットは本来ありえたほど速くは発展していない。）
 【和訳】

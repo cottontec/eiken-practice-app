@@ -1,6 +1,7 @@
 ---
 choices: would be a good place to discuss her ideas. | plans to increase the variety of vegetables it grows. | can produce enough vegetables to meet the school's needs. | already supplies some schools in Greenville County.
 answerText: can produce enough vegetables to meet the school's needs.
+reviewed: yes
 ---
 【正解】3 can produce enough vegetables to meet the school's needs.（学校の必要を満たすのに十分な野菜を作ることができる。）
 【和訳】

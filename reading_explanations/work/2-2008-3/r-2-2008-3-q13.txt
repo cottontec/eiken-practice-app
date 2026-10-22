@@ -1,6 +1,7 @@
 ---
 choices: over | often | under | upon
 answerText: over
+reviewed: yes
 ---
 【正解】1 over（think ～ over で「～をよく考える」）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: will probably be limited to testing products at manufacturing companies. | will become popular with people who want to build their own cars. | has helped doctors create new instruments to use in operations. | has spread to people who need three-dimensional models for their work.
 answerText: has spread to people who need three-dimensional models for their work.
+reviewed: yes
 ---
 【正解】4 has spread to people who need three-dimensional models for their work.（仕事で立体的な模型を必要とする人々にまで広がっている。）
 【和訳】

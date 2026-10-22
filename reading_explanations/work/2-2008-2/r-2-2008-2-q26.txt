@@ -1,6 +1,7 @@
 ---
 choices: preferred | copied | opposed | discovered
 answerText: opposed
+reviewed: yes
 ---
 【正解】3 opposed（～に反対した）
 【和訳】

@@ -2,6 +2,7 @@
 choices: him | idea | great | to | occurred
 answerText: idea
 order: 3 2 5 4 1
+reviewed: yes
 ---
 【正解】2 idea（この問題の2番目）
 【完成文】

@@ -1,6 +1,7 @@
 ---
 choices: hidden | controlled | mistaken | punished
 answerText: controlled
+reviewed: yes
 ---
 【正解】2 controlled（管理される、制限される）
 【和訳】

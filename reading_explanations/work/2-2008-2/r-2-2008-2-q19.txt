@@ -1,6 +1,7 @@
 ---
 choices: find | to find | found | finding
 answerText: finding
+reviewed: yes
 ---
 【正解】4 finding（have trouble ～ing で「～するのに苦労する」）
 【和訳】

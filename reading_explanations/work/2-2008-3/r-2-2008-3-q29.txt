@@ -1,6 +1,7 @@
 ---
 choices: colorful | profitable | unusual | international
 answerText: profitable
+reviewed: yes
 ---
 【正解】2 profitable（もうかる、利益になる）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: on top | on patrol | in honor | in place
 answerText: in honor
+reviewed: yes
 ---
 【正解】3 in honor（in honor of ～ で「～に敬意を表して、～を歓迎して」）
 【和訳】

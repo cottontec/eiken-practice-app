@@ -1,8 +1,9 @@
 ---
 choices: It paid no attention to other countries' advice before making decisions. | An American organization should not be in charge of domain names. | Each country should be allowed to develop its own writing system. | Its "combination" domain-name system was not good enough.
 answerText: Its "combination" domain-name system was not good enough.
+reviewed: yes
 ---
-【正解】4 Its "combination" domain-name system was not good enough.（その「組み合わせ」ドメイン名の仕組みは十分ではない。）
+【正解】4 Its "combination" domain-name system was not good enough.（その「組み合わせ」ドメイン名の仕組みは十分ではなかった。）
 【和訳】
 ＜本文の全訳＞
 {{本文全訳}}
@@ -11,10 +12,10 @@ answerText: Its "combination" domain-name system was not good enough.
 1 ICANNは、決定を下す前にほかの国々の助言にまったく注意を払わなかった。
 2 アメリカの組織がドメイン名を担当するべきではない。
 3 それぞれの国が、独自の文字体系を作ることを認められるべきだ。
-4 ICANNの「組み合わせ」ドメイン名の仕組みは十分ではない。
+4 ICANNの「組み合わせ」ドメイン名の仕組みは十分ではなかった。
 【考え方】
 設問の in 2005 と critics（批判する人々）を手がかりに、第3段落を見ます。
-段落の始めに Since 2003, ICANN has allowed "combination" domain names that include characters from other writing systems.（2003年から、ICANNはほかの文字体系の文字を含む「組み合わせ」ドメイン名を認めてきた）とあります。しかし However, the final part of the name ― for example ".com" or ".org" ― must still be typed in Roman letters.（しかし、名前の最後の部分――たとえば「.com」や「.org」――は今でもローマ字で入力しなければならない）と続きます。
+段落の始めに Since 2003, ICANN has allowed "combination" domain names that include characters from other writing systems.（2003年から、ICANNはほかの文字体系の文字を含む「組み合わせ」ドメイン名を認めてきた）とあります。しかし However, the final part of the name — for example ".com" or ".org" — must still be typed in Roman letters.（しかし、名前の最後の部分――たとえば「.com」や「.org」――は今でもローマ字で入力しなければならない）と続きます。
 そして At the 2005 World Summit on the Information Society, critics of ICANN said that this was not enough.（2005年の世界情報社会サミットで、ICANNを批判する人々は、これでは不十分だと言った）とあります。this（これ）は、最後の部分がローマ字のままの「組み合わせ」ドメイン名の仕組みを指しています。本文と選択肢は次のように対応しています。
 本文 this was not enough（これでは不十分だった）＝ 選択肢 was not good enough（十分ではなかった）
 本文の this（最後の部分がローマ字のままの「組み合わせ」ドメイン名）＝ 選択肢 Its "combination" domain-name system（ICANNの「組み合わせ」ドメイン名の仕組み）

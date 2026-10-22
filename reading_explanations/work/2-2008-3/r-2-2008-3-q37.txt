@@ -1,6 +1,7 @@
 ---
 choices: believe it is not as tall as people once thought. | believe it was built over a period of 4,000 years. | are still unable to explain how it was constructed. | are not sure why the pharaoh Khufu wanted it made.
 answerText: are still unable to explain how it was constructed.
+reviewed: yes
 ---
 【正解】3 are still unable to explain how it was constructed.（それがどのように建設されたのかを、まだ説明できていない。）
 【和訳】

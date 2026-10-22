@@ -1,6 +1,7 @@
 ---
 choices: It prints layers of materials and shapes them into objects. | It creates designs for manufacturers to use when making parts. | It joins together sheets of paper with heat and pressure. | It produces a paper pattern and adds powdered nylon and aluminum.
 answerText: It prints layers of materials and shapes them into objects.
+reviewed: yes
 ---
 【正解】1 It prints layers of materials and shapes them into objects.（材料の層を印刷し、それらを物の形にする。）
 【和訳】

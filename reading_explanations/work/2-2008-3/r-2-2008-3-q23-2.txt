@@ -2,13 +2,14 @@
 choices: do | you | sit | all | is
 answerText: you
 order: 4 2 1 5 3
+reviewed: yes
 ---
 【正解】2 you（この問題の2番目）
 【完成文】
 A: Tim, ( all you do is sit ) on the sofa and watch TV. Why don't you go outside and get some exercise?
 並べ方：4 all → 2 you → 1 do → 5 is → 3 sit（2番目は2、4番目は5）
 【和訳】
-A：ティム、おまえはソファに座ってテレビを見てばかりいるね。外に行って少し運動したらどうだい？
+A：ティム、ソファに座ってテレビを見てばかりいるね。外に行って少し運動したらどうだい？
 B：この映画が終わったらすぐに散歩に行くよ、お父さん。
 【考え方】
 まず会話の流れを見ます。父親（A）は、空所の文のあとで Why don't you go outside and get some exercise?（外に出て少し運動したらどうか）と言っています。ですから空所の文では、ティムが動かずにテレビばかり見ていることを注意していると考えられます。

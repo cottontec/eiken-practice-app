@@ -1,6 +1,7 @@
 ---
 choices: Greenville High School's cafeteria will be able to save money. | Students will be able to grow their own vegetables. | The cafeteria will be able to make orders by e-mail. | Mr. Brown will be able to transport the vegetables himself.
 answerText: Greenville High School's cafeteria will be able to save money.
+reviewed: yes
 ---
 【正解】1 Greenville High School's cafeteria will be able to save money.（グリーンビル高校の食堂は、お金を節約することができる。）
 【和訳】

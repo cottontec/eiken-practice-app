@@ -1,6 +1,7 @@
 ---
 choices: caught | brought | paid | felt
 answerText: paid
+reviewed: yes
 ---
 【正解】3 paid（pay a visit to ～で「～を訪問する」）
 【和訳】

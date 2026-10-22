@@ -1,6 +1,7 @@
 ---
 choices: trade | encounter | conduct | spoil
 answerText: spoil
+reviewed: yes
 ---
 【正解】4 spoil（～を甘やかしてだめにする）
 【和訳】

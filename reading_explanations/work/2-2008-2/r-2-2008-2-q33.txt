@@ -1,6 +1,7 @@
 ---
 choices: afraid | disappointed | surprised | confident
 answerText: confident
+reviewed: yes
 ---
 【正解】4 confident（自信がある、確信している）
 【和訳】

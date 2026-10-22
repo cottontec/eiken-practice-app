@@ -1,6 +1,7 @@
 ---
 choices: produces chemicals similar to those in spider silk. | is responsible for problems after some implant operations. | can be successfully transferred into another patient's body. | can be improved by newly developed artificial chemicals.
 answerText: is responsible for problems after some implant operations.
+reviewed: yes
 ---
 【正解】2 is responsible for problems after some implant operations.（インプラント手術のあとに起きる問題の原因になることがある。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: fortunate | extreme | apparent | informal
 answerText: apparent
+reviewed: yes
 ---
 【正解】3 apparent（明らかな）
 【和訳】

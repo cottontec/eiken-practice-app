@@ -1,6 +1,7 @@
 ---
 choices: ancient | permanent | social | cultural
 answerText: permanent
+reviewed: yes
 ---
 【正解】2 permanent（永久的な、ずっと続く）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: passed away | turned away | stood in | checked in
 answerText: passed away
+reviewed: yes
 ---
 【正解】1 passed away（亡くなった）
 【和訳】
