@@ -14,8 +14,13 @@ The baseball player Shuta Omura had to have ［surgery］ on his right knee in 2
 3 surgery：手術
 4 inquiry：問い合わせ、調査
 【考え方】
-had to have (　) on his right knee（右ひざに〔　〕を受けなければならなかった）のあとに、but he made a full recovery（しかし完全に回復した）と続いています。made a full recovery は「完全に回復した」という意味です。
-「回復した」とあるので、その前には、ひざを治すための何かを受けたと考えられます。have surgery on ～ で「～の手術を受ける」という意味になります。「右ひざの手術を受けなければならなかったが、完全に回復し、2020年には再びプレーする準備ができていた」となり、話がつながります。3が正解です。
+まず見るところ：空所の後ろの on his right knee と、but he made a full recovery
+had to have (　) on his right knee in 2019（2019年に右ひざに（　）を受けなければならなかった）
+右ひざに対して何かを受けた、という文です。
+but he made a full recovery and was ready to play again in 2020（しかし完全に回復し、2020年には再びプレーする準備ができていた）
+made a full recovery は「完全に回復した」という意味です。回復したのですから、その前に、ひざを治すための何かを受けたと考えられます。
+have surgery on ～ は「～の手術を受ける」という意味で、右ひざの手術を受けて完全に回復した、と話がつながります。3が正解です。
+この問題の型：語の意味・組み合わせ（have surgery on ～）、因果（手術→回復）
 【ほかの選択肢】
 1 recognition は「認識、（よさを）認められること」です。「右ひざに認識を受けた」となり、意味が通りません。
 2 innocence は「無罪、無邪気さ」です。ひざや回復の話とは関係がなく、意味が通りません。
@@ -23,3 +28,4 @@ had to have (　) on his right knee（右ひざに〔　〕を受けなければ
 【覚えるポイント】
 ・have surgery on ～：「～の手術を受ける」。
 ・make a full recovery：「完全に回復する」。
+・前後に「けがをした」「回復した」のような話があるときは、空所にそれを治すための語が入るかを考えると、手がかりになります。

@@ -14,8 +14,13 @@ Kevin got stuck in a snowstorm while driving home. The weather was so bad that h
 3 prevent：防ぐ
 4 supply：供給する、与える
 【考え方】
-最初の文の got stuck in a snowstorm は「吹雪で動けなくなった、立ち往生した」という意味です。次の文は The weather was so bad that ～（天気があまりに悪かったので～）という形で、he had to (　) his car and walk the rest of the way（車を〔　〕して、残りの道のりを歩かなければならなかった）と続きます。
-吹雪で車が進めなくなり、残りの道を歩いたのですから、車はその場に置いていったと考えられます。abandon は「（乗り物や場所などを）置き去りにする、見捨てる」という意味で、abandon his car で「車を置き去りにする、乗り捨てる」となります。2が正解です。
+まず見るところ：The weather was so bad that he had to (　) his car and walk the rest of the way.
+Kevin got stuck in a snowstorm while driving home.（ケビンは車で家に帰る途中、吹雪で動けなくなった）
+got stuck は「動けなくなった」、snowstorm は「吹雪」です。車が進めなくなったことが分かります。
+The weather was so bad that he had to (　) his car and walk the rest of the way.（天気があまりにも悪かったので、彼は車を（　）して、残りの道のりを歩かなければならなかった）
+so ～ that ... は「とても～なので…」という形です。残りの道を歩いたのですから、車はその場に置いていったと考えられます。
+abandon は「置き去りにする、見捨てる」という意味で、abandon his car で「車を乗り捨てる」となります。2が正解です。
+この問題の型：語の意味・組み合わせ（abandon his car）、因果（so ～ that ...）
 【ほかの選択肢】
 1 maintain は「保つ、（機械などを）整備する」です。「車を整備して、残りの道を歩いた」となり、吹雪で動けなくなった話と合いません。
 3 prevent は「防ぐ」です。「車を防いで、残りの道を歩いた」となり、意味が通りません。
@@ -23,3 +28,4 @@ Kevin got stuck in a snowstorm while driving home. The weather was so bad that h
 【覚えるポイント】
 ・abandon：「置き去りにする、見捨てる、（計画などを）あきらめる」。
 ・so ～ that ...：「とても～なので…」。
+・so ～ that ... の that 以下は、前の状況の結果です。空所の動詞は、「その結果として何をしたのか」を考えて選びます。

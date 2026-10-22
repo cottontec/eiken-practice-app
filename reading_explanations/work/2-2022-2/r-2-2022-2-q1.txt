@@ -14,10 +14,13 @@ Considering that Keiko has only been studying English for six months, she gave a
 3 suddenly：突然
 4 carefully：注意深く
 【考え方】
-まず、空所の位置を見ます。a (　) good English presentation のように、空所は good（よい、上手な）の前にあります。ここに入る語は、good が「どのくらい」よいのかを表すと考えられます。
-次に、文の前半を見ます。Considering that ～ は「～ということを考えると、～のわりには」という意味です。Keiko has only been studying English for six months（ケイコはまだ6か月しか英語を勉強していない）とあります。only（～しか）があるので、勉強した期間が短いことが強調されています。
-さらに、後ろの文に She got second prize.（彼女は2位になった）とあります。
-勉強を始めて6か月しかたっていないのに2位になったのですから、「短い期間のわりに、驚くほど上手だった」という流れになります。remarkably は「驚くほど、目立って」という意味で、remarkably good で「驚くほど上手な」となります。ですから1が正解です。
+まず見るところ：空所の直後の good と、前半の Considering that Keiko has only been studying English for six months
+Considering that Keiko has only been studying English for six months（ケイコは英語を勉強してまだ6か月しかたっていないことを考えると）
+Considering that ～ は「～ということを考えると、～のわりには」という意味です。only（～しか）があるので、勉強した期間の短さが強調されています。
+She got second prize.（彼女は2位になった）
+空所は a (　) good English presentation の形で、good（よい、上手な）の前にあります。ここに入る語は、good がどのくらいよいのかを表します。
+6か月しか勉強していないのに2位になったのですから、「短い期間のわりに、驚くほど上手だった」という流れになります。remarkably は「驚くほど、目立って」という意味で、remarkably good で「驚くほど上手な」となります。1が正解です。
+この問題の型：語の意味・組み合わせ（remarkably ＋ good）、対比（短い勉強期間⇔2位という結果）
 【ほかの選択肢】
 2 nervously は「緊張して、神経質に」です。「緊張して上手な発表」となり、good がどのくらいよいのかを表す言葉になりません。6か月しか勉強していないのに2位になった、という流れにもつながりません。
 3 suddenly は「突然」です。「突然上手な発表」では意味が通りません。また、「6か月しか勉強していないことを考えると」という前半とも結びつきません。
@@ -25,3 +28,4 @@ Considering that Keiko has only been studying English for six months, she gave a
 【覚えるポイント】
 ・Considering that ～：「～ということを考えると、～のわりには」。
 ・remarkably ＋形容詞：「驚くほど～」。形容詞は good（よい）のように、ものの様子や性質を表す語です。
+・Considering that ～ が出てきたら、前半の事情（ここでは短い勉強期間）と、後半の結果（2位）を比べます。「予想より上」なら、remarkably のような「驚くほど」の意味の語が手がかりになります。

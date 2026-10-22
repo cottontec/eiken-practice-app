@@ -7,7 +7,7 @@ answerText: proceeded
 （英文）
 The St. Patrick's Day parade started on 10th Avenue and ［proceeded］ slowly to the center of town.
 （訳）
-セント・パトリックス・デー（聖パトリックの日。アイルランドにゆかりのある祝日）のパレードは、10番街から始まり、町の中心部へとゆっくり（進みました）。
+セント・パトリックス・デーのパレードは、10番街から始まり、町の中心部へとゆっくり（進みました）。
 （選択肢の意味）
 1 illustrated：～を説明した、～にさし絵を入れた
 2 reminded：～に思い出させた
@@ -15,7 +15,7 @@ The St. Patrick's Day parade started on 10th Avenue and ［proceeded］ slowly t
 4 defended：～を守った
 【考え方】
 まず見るところ：空所のあとの slowly to the center of town
-文の主語は The St. Patrick's Day parade（セント・パトリックス・デーのパレード）です。動詞が and で2つ並んでいます。
+文の主語は The St. Patrick's Day parade（セント・パトリックス・デーのパレード）です。St. Patrick's Day は祝日の名前で、ここではそのパレードの話です。動詞が and で2つ並んでいます。
 started on 10th Avenue（10番街から始まった）
 (　) slowly to the center of town（町の中心部へとゆっくり（　）した）
 パレードが10番街から出発して、町の中心部まで行ったという流れなので、空所には「進む」という意味の動詞が入ると考えられます。

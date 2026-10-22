@@ -14,8 +14,13 @@ Barney tried to teach his cat to follow some simple commands, but his efforts we
 3 for sure：確かに、確実に
 4 by chance：偶然に
 【考え方】
-前半に Barney tried to teach his cat to follow some simple commands（バーニーはネコに簡単な命令に従うことを教えようとした）とあり、but his efforts were (　)（しかし彼の努力は〔　〕だった）と続きます。but（しかし）があるので、教えようとした結果はうまくいかなかったと予想できます。
-後ろの文 Every time he told it to lie down, it just walked away. が、その様子を表しています。every time ～ は「～するたびに」、lie down は「横になる、伏せる」、walk away は「歩き去る」です。「伏せと言うたびに、ネコはただ歩き去った」のですから、教えようとしたことは身につきませんでした。in vain は「むだで、効果がなく」という意味なので、2が正解です。
+まず見るところ：次の文の Every time he told it to lie down, it just walked away.
+Barney tried to teach his cat to follow some simple commands, but his efforts were (　).（バーニーはネコに簡単な命令に従うことを教えようとしたが、その努力は（　）だった）
+but（しかし）があるので、教えようとした結果は、うまくいかなかったと予想できます。
+Every time he told it to lie down, it just walked away.（彼が「伏せ」と言うたびに、ネコはただ歩き去ってしまった）
+every time ～ は「～するたびに」、lie down は「横になる、伏せる」、walk away は「歩き去る」です。言うことを聞かなかったのですから、教えようとしたことは身につきませんでした。
+in vain は「むだで、効果がなく」という意味で、his efforts were in vain で「彼の努力はむだだった」となります。2が正解です。
+この問題の型：対比（but：教えようとした⇔うまくいかなかった）、熟語・決まった形（in vain）
 【ほかの選択肢】
 1 of late は「最近」です。「彼の努力は最近だった」となり、意味が通りません。
 3 for sure は「確かに、確実に」です。「彼の努力は確かだった」のようになり、but（しかし）の前後の内容や、ネコが歩き去ったという話とつながりません。
@@ -23,3 +28,4 @@ Barney tried to teach his cat to follow some simple commands, but his efforts we
 【覚えるポイント】
 ・in vain：「むだで、むだに終わって」。
 ・every time ～：「～するたびに」。
+・「～しようとしたが、…」のように but があるときは、but 以下は「うまくいかなかった」内容になることが多いので、次の文の具体的な様子で確かめます。

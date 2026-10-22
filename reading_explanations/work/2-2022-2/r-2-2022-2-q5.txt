@@ -14,9 +14,13 @@ The restaurant lost its good ［reputation］ after several cases of food poison
 3 observation：観察
 4 examination：試験、検査
 【考え方】
-空所の前に lost its good（よい～を失った）とあり、そのきっかけとして after several cases of food poisoning（何件かの食中毒のあと）と書かれています。food poisoning は「食中毒」、case は「（事件や病気の）1件」です。
-さらに、and eventually it had to close（そして最終的に閉店しなければならなかった）と続きます。eventually は「最終的に、ついに」という意味です。
-食中毒を出したレストランは、お客さんから「あの店は危ない」と思われ、来てもらえなくなると考えられます。reputation は「評判」なので、lost its good reputation で「よい評判を失った」となり、閉店につながる流れになります。1が正解です。
+まず見るところ：空所の前の lost its good と、after several cases of food poisoning
+lost its good (　) after several cases of food poisoning（何件かの食中毒のあと、よい（　）を失った）
+food poisoning は「食中毒」、case は「（事件や病気の）1件」です。食中毒のあとに失ったものを考えます。
+and eventually it had to close（そして最終的に閉店しなければならなかった）
+eventually は「最終的に、ついに」という意味です。食中毒を出した店は、お客さんからの見られ方が悪くなり、閉店につながったと考えられます。
+reputation は「評判」なので、lost its good reputation で「よい評判を失った」となり、この流れに合います。1が正解です。
+この問題の型：語の意味・組み合わせ（lose one's reputation）、因果（食中毒→評判を失う→閉店）
 【ほかの選択肢】
 2 anticipation は「予想、楽しみに待つこと」です。「よい予想を失った」では、食中毒から閉店までの流れがうまく説明できません。
 3 observation は「観察」です。「よい観察を失った」となり、意味が通りません。
@@ -24,3 +28,4 @@ The restaurant lost its good ［reputation］ after several cases of food poison
 【覚えるポイント】
 ・lose one's reputation：「評判を失う」。a good reputation で「よい評判」。
 ・food poisoning：「食中毒」。
+・good のような形容詞の直後に空所があるときは、そのあとの出来事（ここでは食中毒と閉店）から、「何を失ったのか」を考えると手がかりになります。

@@ -14,8 +14,13 @@ Sarah has been told to ［refrain from］ running until her foot is better. Othe
 3 reflect on：～をよく考える、振り返る
 4 refer to：～に言及する、～を参照する
 【考え方】
-空所の後ろは running until her foot is better（足がよくなるまで走ること）です。そして次の文に Otherwise, she might make her injury worse. とあります。Otherwise は「そうしないと、さもないと」、make her injury worse は「けがを悪化させる」という意味です。
-「そうしないとけがが悪化するかもしれない」のですから、サラは足が治るまで走らないように言われていると考えられます。refrain from ～ing は「～することを控える」という意味です。refrain from running で「走るのを控える」となり、次の文とつながります。2が正解です。
+まず見るところ：次の文の Otherwise, she might make her injury worse.
+Sarah has been told to (　) running until her foot is better.（サラは、足がよくなるまで走ることを（　）ように言われている）
+until her foot is better は「足がよくなるまで」という意味で、足の具合が悪いことが分かります。
+Otherwise, she might make her injury worse.（そうしないと、けがを悪化させてしまうかもしれない）
+Otherwise は「そうしないと、さもないと」、injury は「けが」です。「そうしないと悪化する」のですから、足が治るまでは走らないように言われていると考えられます。
+refrain from ～ing は「～することを控える」という意味で、refrain from running で「走るのを控える」となります。2が正解です。
+この問題の型：熟語・決まった形（refrain from ～ing）、因果（Otherwise：しないと悪化する）
 【ほかの選択肢】
 1 read through は「～を（最後まで）読み通す」です。「走ることを読み通す」となり、意味が通りません。
 3 reflect on は「～をよく考える、～を振り返る」です。「走ることを振り返るように言われた」では、Otherwise（そうしないと）けがが悪化する、という次の文とつながりません。
@@ -23,3 +28,4 @@ Sarah has been told to ［refrain from］ running until her foot is better. Othe
 【覚えるポイント】
 ・refrain from ～ing：「～することを控える」。
 ・Otherwise：「そうしないと、さもないと」。
+・Otherwise のあとに悪い結果（けがの悪化など）が書かれているときは、その前の内容は「それを避けるための注意」になっていることが多いので、「やる」「やらない」のどちらが合うかを考える手がかりになります。
