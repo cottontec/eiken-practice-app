@@ -155,5 +155,13 @@
     },
     "errors": [],
     "warnings": []
+  },
+  "2-2020-3": {
+    "stats": {
+      "target": 38,
+      "written": 38
+    },
+    "errors": [],
+    "warnings": []
   }
 }

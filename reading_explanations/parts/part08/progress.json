@@ -192,10 +192,14 @@
     {
       "batchId": "2-2020-3",
       "target": 38,
-      "written": 0,
+      "written": 38,
       "contentReviewed": 0,
-      "status": "not_started"
+      "status": "complete_unreviewed",
+      "blank": 0,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 0
     }
   ],
-  "updatedAt": "2026-10-22T05:48:24+00:00"
+  "updatedAt": "2026-10-22T05:49:24+00:00"
 }
