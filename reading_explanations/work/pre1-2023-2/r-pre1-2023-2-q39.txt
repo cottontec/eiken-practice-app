@@ -1,6 +1,7 @@
 ---
 choices: A rule was introduced stating that only Roman citizens could join the Roman army, leading to more people trying to get Roman citizenship. | Serving in the Roman army became more attractive because it was a way for people living in the Roman Republic to improve their lives. | The Roman army struggled to find enough recruits because it would only accept men who already had military experience. | The number of years that soldiers were required to spend in the Roman army was reduced, which lowered the average age of soldiers.
 answerText: Serving in the Roman army became more attractive because it was a way for people living in the Roman Republic to improve their lives.
+reviewed: yes
 ---
 【正解】2 Serving in the Roman army became more attractive because it was a way for people living in the Roman Republic to improve their lives.（ローマ軍で務めることは、ローマ共和国に住む人々にとって生活をよくするための方法だったので、より魅力的になった。）
 【和訳】

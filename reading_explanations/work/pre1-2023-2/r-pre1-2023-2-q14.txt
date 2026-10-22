@@ -1,6 +1,7 @@
 ---
 choices: obedient | flexible | sinful | nosy
 answerText: nosy
+reviewed: yes
 ---
 【正解】4 nosy（（他人のことを）知りたがる、せんさく好きな）
 【和訳】

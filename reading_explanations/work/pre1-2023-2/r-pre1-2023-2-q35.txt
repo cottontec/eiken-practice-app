@@ -1,6 +1,7 @@
 ---
 choices: People immediately supported Oppy because they were interested in any new discoveries about Mars. | People found it difficult to relate to Oppy because little effort had been made to inform them about the significance of its mission. | People soon lost interest in Oppy's mission because the information Oppy sent back to Earth was too technical for nonscientists to understand. | People felt such an emotional connection to Oppy that they expressed sympathy for it when it stopped operating.
 answerText: People felt such an emotional connection to Oppy that they expressed sympathy for it when it stopped operating.
+reviewed: yes
 ---
 【正解】4 People felt such an emotional connection to Oppy that they expressed sympathy for it when it stopped operating.（人々はオッピーにとても強い心のつながりを感じていたので、オッピーが動かなくなったとき、オッピーを思いやる気持ちを表した。）
 【和訳】

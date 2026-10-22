@@ -1,6 +1,7 @@
 ---
 choices: harassed | breached | drained | gripped
 answerText: gripped
+reviewed: yes
 ---
 【正解】4 gripped（～をしっかりつかんだ、にぎった）
 【和訳】

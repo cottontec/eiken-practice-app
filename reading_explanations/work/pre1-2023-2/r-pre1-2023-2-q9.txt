@@ -1,6 +1,7 @@
 ---
 choices: mended | deported | perceived | distributed
 answerText: deported
+reviewed: yes
 ---
 【正解】2 deported（国外に追放された）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: estimation | partition | assumption | notion
 answerText: partition
+reviewed: yes
 ---
 【正解】2 partition（仕切り）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: It can make people rely on machines to perform tasks that would be cheaper for humans to do themselves. | It can make people mistakenly assume that AI and machines do not need any guidance to perform tasks correctly. | The belief that AI and machines act in a similar way to humans can cause people to misunderstand what they are able to do. | The relationships scientists form with AI can cause them to prioritize its development over the needs of humans.
 answerText: The belief that AI and machines act in a similar way to humans can cause people to misunderstand what they are able to do.
+reviewed: yes
 ---
 【正解】3 The belief that AI and machines act in a similar way to humans can cause people to misunderstand what they are able to do.（AIや機械が人間と似たようなふるまい方をするという思いこみによって、人々はそれらに何ができるのかを誤解することがありうる。）
 【和訳】

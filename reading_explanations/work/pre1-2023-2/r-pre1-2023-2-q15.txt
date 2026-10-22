@@ -1,6 +1,7 @@
 ---
 choices: subsidy | mirage | summit | crutch
 answerText: summit
+reviewed: yes
 ---
 【正解】3 summit（頂上、山頂）
 【和訳】

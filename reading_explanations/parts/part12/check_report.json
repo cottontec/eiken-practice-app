@@ -20,7 +20,8 @@
   "pre1-2024-3": {
     "stats": {
       "target": 31,
-      "written": 31
+      "written": 31,
+      "reviewed": 31
     },
     "errors": [],
     "warnings": []

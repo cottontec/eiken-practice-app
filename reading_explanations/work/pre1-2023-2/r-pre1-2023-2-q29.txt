@@ -1,6 +1,7 @@
 ---
 choices: In other words | For one thing | Similarly | Consequently
 answerText: Similarly
+reviewed: yes
 ---
 【正解】3 Similarly（同じように）
 【和訳】

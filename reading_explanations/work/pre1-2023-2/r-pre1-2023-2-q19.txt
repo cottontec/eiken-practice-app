@@ -1,6 +1,7 @@
 ---
 choices: patriots | spectators | mimics | executives
 answerText: spectators
+reviewed: yes
 ---
 【正解】2 spectators（見物人、観客）
 【和訳】

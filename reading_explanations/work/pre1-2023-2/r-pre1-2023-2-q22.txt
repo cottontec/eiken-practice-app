@@ -1,6 +1,7 @@
 ---
 choices: wiped out | broken up | fixed up | turned down
 answerText: wiped out
+reviewed: yes
 ---
 【正解】1 wiped out（全滅させられた）
 【和訳】

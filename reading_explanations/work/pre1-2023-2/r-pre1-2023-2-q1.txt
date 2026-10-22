@@ -1,6 +1,7 @@
 ---
 choices: subtle | contrary | strenuous | cautious
 answerText: strenuous
+reviewed: yes
 ---
 【正解】3 strenuous（（体力を使って）とてもきつい、骨の折れる）
 【和訳】

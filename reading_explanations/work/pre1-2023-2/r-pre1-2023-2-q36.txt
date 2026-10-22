@@ -1,6 +1,7 @@
 ---
 choices: a strategy designed to increase overall support for NASA's activities and to help it receive more money. | based on experiments in which children showed an increased interest in robots that looked like humans. | done because psychologists suggested that the strategy would make the engineers work harder to complete it on time. | the result of government pressure on NASA to make its designs more likely to be used in toys.
 answerText: a strategy designed to increase overall support for NASA's activities and to help it receive more money.
+reviewed: yes
 ---
 【正解】1 a strategy designed to increase overall support for NASA's activities and to help it receive more money.（NASAの活動に対する全体的な支持を高め、NASAがより多くのお金を受け取れるようにするために考えられた戦略だった。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: suspension | extension | seclusion | compulsion
 answerText: compulsion
+reviewed: yes
 ---
 【正解】4 compulsion（（～せずにはいられない）強い衝動）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: the number of soldiers sent to those areas would be greatly increased to allow the army to attack neighboring regions and continue the expansion of the Roman Republic. | local people were invited to Rome's capital to learn the Roman language and culture so that they could quickly become accustomed to Roman society. | ex-soldiers were given land there, which made it much easier to control the local people and ensure that the areas could be defended from various threats. | the areas were often lost again quite quickly because it was impossible for the army to prevent the many rebellions that occurred.
 answerText: ex-soldiers were given land there, which made it much easier to control the local people and ensure that the areas could be defended from various threats.
+reviewed: yes
 ---
 【正解】3 ex-soldiers were given land there, which made it much easier to control the local people and ensure that the areas could be defended from various threats.（元兵士たちがそこで土地を与えられ、そのことによって、地元の人々を治め、その地域をさまざまな脅威から確実に守れるようにすることが、ずっと容易になった。）
 【和訳】

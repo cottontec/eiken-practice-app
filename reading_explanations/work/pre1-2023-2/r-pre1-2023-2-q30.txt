@@ -1,6 +1,7 @@
 ---
 choices: the ants eat organisms that harm the birds | the behavior contributes to birds' health | the behavior helps control ant populations | the birds are trying to attract other insects
 answerText: the behavior contributes to birds' health
+reviewed: yes
 ---
 【正解】2 the behavior contributes to birds' health（この行動が鳥の健康に役立っている）
 【和訳】

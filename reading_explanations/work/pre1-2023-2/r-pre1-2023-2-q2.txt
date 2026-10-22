@@ -1,6 +1,7 @@
 ---
 choices: punctuate | compile | bleach | obsess
 answerText: compile
+reviewed: yes
 ---
 【正解】2 compile（（資料など）を集めてまとめる）
 【和訳】

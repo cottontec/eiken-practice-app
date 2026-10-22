@@ -1,6 +1,7 @@
 ---
 choices: unjust | insubstantial | elastic | abundant
 answerText: abundant
+reviewed: yes
 ---
 【正解】4 abundant（豊富な、たっぷりある）
 【和訳】

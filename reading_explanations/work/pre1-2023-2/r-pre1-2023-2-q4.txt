@@ -1,6 +1,7 @@
 ---
 choices: acquainted | discharged | emphasized | subdued
 answerText: acquainted
+reviewed: yes
 ---
 【正解】1 acquainted（知り合いである）
 【和訳】

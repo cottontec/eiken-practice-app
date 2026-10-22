@@ -1,6 +1,7 @@
 ---
 choices: Financial problems within the Roman Republic meant a Roman leader had no choice but to reduce funding for the military. | As the number of soldiers in the army increased, it became more difficult to transport them to Western Europe and Africa to defend the Roman Republic. | Complaints arose among soldiers because they were forced to stay in the army for many years and received low pay for their service. | A Roman leader was concerned that the army did not have the manpower or skills required to allow the Roman Republic to achieve its military goals.
 answerText: A Roman leader was concerned that the army did not have the manpower or skills required to allow the Roman Republic to achieve its military goals.
+reviewed: yes
 ---
 【正解】4 A Roman leader was concerned that the army did not have the manpower or skills required to allow the Roman Republic to achieve its military goals.（ローマの指導者は、ローマ共和国が軍事上の目標を達成できるようにするのに必要な人手も技能も、軍が持っていないことを心配した。）
 【和訳】

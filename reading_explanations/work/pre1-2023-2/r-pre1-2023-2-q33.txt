@@ -1,6 +1,7 @@
 ---
 choices: They quit after a short time because of the poor conditions they were forced to work under. | Their salaries were usually paid by religious organizations rather than by the colleges themselves. | There was a high degree of competition among them to gain the best positions at the colleges. | Their religious backgrounds tended to be an effective way to get students to enroll at their colleges.
 answerText: Their religious backgrounds tended to be an effective way to get students to enroll at their colleges.
+reviewed: yes
 ---
 【正解】4 Their religious backgrounds tended to be an effective way to get students to enroll at their colleges.（彼らの宗教的な背景は、学生を自分たちの大学に入学させるための効果的な方法になる傾向があった。）
 【和訳】

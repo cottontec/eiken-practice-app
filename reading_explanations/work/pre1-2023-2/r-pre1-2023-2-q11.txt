@@ -1,6 +1,7 @@
 ---
 choices: astonishment | resolution | vulnerability | repression
 answerText: resolution
+reviewed: yes
 ---
 【正解】2 resolution（決意、決心）
 【和訳】

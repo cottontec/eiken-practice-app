@@ -1,6 +1,7 @@
 ---
 choices: grazing | dwindling | browsing | rebounding
 answerText: dwindling
+reviewed: yes
 ---
 【正解】2 dwindling（だんだん減っている）
 【和訳】

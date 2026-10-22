@@ -1,6 +1,7 @@
 ---
 choices: helps remove damaged feathers | transfers nutrients to the ants | increases the bird's appetite | prepares the ants to be eaten
 answerText: prepares the ants to be eaten
+reviewed: yes
 ---
 【正解】4 prepares the ants to be eaten（アリを食べられる状態にする）
 【和訳】

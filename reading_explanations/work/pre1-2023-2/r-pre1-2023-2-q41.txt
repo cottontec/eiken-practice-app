@@ -1,6 +1,7 @@
 ---
 choices: The army was used as a political tool, creating a system in which a Roman leader gained his position by military power rather than by being chosen by the people. | The wealth and social standing of people who refused to serve in the army decreased, while former legionaries often obtained high government positions. | The Roman army became so large that the cost of maintaining it became a major cause of the fall of the Roman Republic. | The lack of discipline among the legionaries led to tension between Roman citizens and the army, which eventually resulted in civil wars.
 answerText: The army was used as a political tool, creating a system in which a Roman leader gained his position by military power rather than by being chosen by the people.
+reviewed: yes
 ---
 【正解】1 The army was used as a political tool, creating a system in which a Roman leader gained his position by military power rather than by being chosen by the people.（軍が政治の道具として使われ、ローマの指導者が人々に選ばれることによってではなく、軍事力によってその地位を得るしくみが生まれた。）
 【和訳】

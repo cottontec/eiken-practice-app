@@ -1,6 +1,7 @@
 ---
 choices: bothersome | compelling | flattering | daring
 answerText: bothersome
+reviewed: yes
 ---
 【正解】1 bothersome（わずらわしい、迷惑な）
 【和訳】

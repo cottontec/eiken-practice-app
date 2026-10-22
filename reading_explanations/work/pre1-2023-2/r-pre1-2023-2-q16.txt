@@ -1,6 +1,7 @@
 ---
 choices: idle | agile | sane | needy
 answerText: idle
+reviewed: yes
 ---
 【正解】1 idle（何もしていない、仕事がなくて暇な）
 【和訳】

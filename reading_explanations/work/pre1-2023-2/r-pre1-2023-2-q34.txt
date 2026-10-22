@@ -1,6 +1,7 @@
 ---
 choices: formed partnerships with local sports teams to increase the quality of their physical education programs. | were able to increase their financial security by creating lasting relationships with their former students. | decreased the competition with other colleges by focusing on recruiting students mostly from their local areas. | kept their costs down by using facilities already available in the community instead of building their own.
 answerText: were able to increase their financial security by creating lasting relationships with their former students.
+reviewed: yes
 ---
 【正解】2 were able to increase their financial security by creating lasting relationships with their former students.（卒業生と長く続く関係を築くことで、お金の面での安定を高めることができた。）
 【和訳】

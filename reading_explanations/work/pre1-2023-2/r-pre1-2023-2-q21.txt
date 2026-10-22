@@ -1,6 +1,7 @@
 ---
 choices: Obsolete | Numb | Parental | Infamous
 answerText: Parental
+reviewed: yes
 ---
 【正解】3 Parental（親の）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: Increasing levels of wealth in rural areas led to more families wanting their children to receive a college education. | Wealthy landowners built colleges as a way to improve their public image and ensure that they would be remembered after their death. | Europeans living in the United States wanted colleges that would provide the same level of education that was available in their home countries. | Building colleges was a way for people who owned land in rural areas to increase the value of their land and attract more buyers.
 answerText: Building colleges was a way for people who owned land in rural areas to increase the value of their land and attract more buyers.
+reviewed: yes
 ---
 【正解】4 Building colleges was a way for people who owned land in rural areas to increase the value of their land and attract more buyers.（大学を建てることは、農村部に土地を持っている人々にとって、土地の価値を上げ、より多くの買い手を引きつけるための方法だった。）
 【和訳】

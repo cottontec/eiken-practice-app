@@ -1,6 +1,7 @@
 ---
 choices: Above all | Understandably | In contrast | Nevertheless
 answerText: Understandably
+reviewed: yes
 ---
 【正解】2 Understandably（当然のことながら、無理もないことだが）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: frowned upon | carried on | entered into | crossed off
 answerText: frowned upon
+reviewed: yes
 ---
 【正解】1 frowned upon（よくないと思われた、まゆをひそめられた）
 【和訳】

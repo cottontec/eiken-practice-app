@@ -1,6 +1,7 @@
 ---
 choices: still being ignored | not being paid enough | losing control over content | in need of large budgets
 answerText: losing control over content
+reviewed: yes
 ---
 【正解】3 losing control over content（内容を自分で決める力を失いつつある）
 【和訳】

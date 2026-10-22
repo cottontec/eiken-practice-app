@@ -1,6 +1,7 @@
 ---
 choices: go about | pull out | take in | bring down
 answerText: go about
+reviewed: yes
 ---
 【正解】1 go about（～に取りかかる、～を（どう）進める）
 【和訳】

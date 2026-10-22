@@ -1,6 +1,7 @@
 ---
 choices: dispute | mumble | mistrust | condense
 answerText: condense
+reviewed: yes
 ---
 【正解】4 condense（～を（短く）縮める、凝縮する）
 【和訳】

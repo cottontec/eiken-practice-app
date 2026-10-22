@@ -1,6 +1,7 @@
 ---
 choices: depot | canal | valve | panel
 answerText: valve
+reviewed: yes
 ---
 【正解】3 valve（バルブ、弁）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: way people interpret | people who appear in | growing costs of creating | decreasing social value of
 answerText: decreasing social value of
+reviewed: yes
 ---
 【正解】4 decreasing social value of（～の社会的な価値が下がっていること）
 【和訳】

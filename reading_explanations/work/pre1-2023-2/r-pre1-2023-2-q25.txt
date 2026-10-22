@@ -1,6 +1,7 @@
 ---
 choices: went back on | sat in on | spoke down to | looked up to
 answerText: sat in on
+reviewed: yes
 ---
 【正解】2 sat in on（（見学などのために）～に同席した）
 【和訳】
