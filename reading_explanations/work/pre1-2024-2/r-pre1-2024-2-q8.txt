@@ -1,0 +1,30 @@
+---
+choices: command | convey | install | prescribe
+answerText: convey
+---
+【正解】2 convey（〈気持ち・情報などを〉伝える）
+【和訳】
+（英文）
+A: Please ［convey］ my best wishes to your husband.
+B: Thank you. I will. He's away now, but I'll tell him when he gets back.
+（訳）
+A：ご主人に、私からよろしくと（伝えて）ください。
+B：ありがとう。そうしますね。夫は今留守にしていますが、帰ってきたら伝えます。
+（選択肢の意味）
+1 command：命令する
+2 convey：（気持ち・情報などを）伝える
+3 install：（機械などを）取り付ける、（ソフトを）入れる
+4 prescribe：（薬を）処方する
+【考え方】
+まず見るところ：Bの答えの I'll tell him when he gets back
+Aは、Bの夫に my best wishes（私からのよろしくという気持ち）をどうしてほしいとたのんでいます。Bの答えを見ます。
+He's away now, but I'll tell him when he gets back.（夫は今留守にしていますが、帰ってきたら伝えます）
+Bは「夫に伝える」と答えています。つまり、Aは「よろしくと伝えてください」とたのんだと分かります。convey は「（気持ち・情報などを）伝える」で、convey A to B で「AをBに伝える」という形になります。よって2が正解です。
+この問題の型：言いかえ（convey my best wishes → tell him）
+【ほかの選択肢】
+1 command は「命令する」です。「よろしくの気持ちを夫に命令してください」となり、意味が通りません。
+3 install は「取り付ける、（ソフトを）入れる」です。「よろしくの気持ちを夫に取り付けてください」では意味が通りません。
+4 prescribe は「（薬を）処方する」です。気持ちを処方することはできず、Bの「帰ってきたら伝える」という答えとも合いません。
+【覚えるポイント】
+・convey one's best wishes to ～：「～によろしくと伝える」。be away：「留守にしている」。
+・会話の空所は、相手の答えに出てくる動詞（ここでは tell）が、空所に入る語の意味を知る手がかりになります。

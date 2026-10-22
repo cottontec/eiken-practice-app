@@ -1,0 +1,29 @@
+---
+choices: flock | knot | gleam | doom
+answerText: knot
+---
+【正解】2 knot（結び目）
+【和訳】
+（英文）
+Kevin could not untie the ［knot］ in his shoelace, so he asked his father to help him with it.
+（訳）
+ケビンは靴ひもの（結び目）をほどくことができなかったので、父親に手伝ってくれるようにたのんだ。
+（選択肢の意味）
+1 flock：（鳥・羊などの）群れ
+2 knot：結び目
+3 gleam：かすかな光、きらめき
+4 doom：破滅、悪い運命
+【考え方】
+まず見るところ：空所の前の untie と、空所のあとの in his shoelace
+空所をふくむ部分は次のとおりです。
+Kevin could not untie the (　) in his shoelace（ケビンは靴ひもの〇〇をほどくことができなかった）
+untie は「ほどく」です。tie（結ぶ）に un（反対の意味にする部分）が付いた語です。shoelace は「靴ひも」です。
+靴ひもにあって、ほどくものといえば「結び目」です。knot は「結び目」なので、2が正解です。
+この問題の型：語の意味・組み合わせ（untie the knot ＝ 結び目をほどく）
+【ほかの選択肢】
+1 flock は「群れ」です。「靴ひもの群れをほどく」では意味が通りません。
+3 gleam は「かすかな光、きらめき」です。光をほどくことはできないので、意味が通りません。
+4 doom は「破滅、悪い運命」です。「靴ひもの破滅をほどく」では意味が通りません。
+【覚えるポイント】
+・untie a knot：「結び目をほどく」。shoelace：「靴ひも」。
+・動詞（ここでは untie）と、空所のあとの場所（in his shoelace）の両方に合う名詞を考えることが手がかりになります。

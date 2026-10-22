@@ -1,0 +1,33 @@
+---
+choices: demotion | craving | aggravation | hassle
+answerText: demotion
+---
+【正解】1 demotion（降格）
+【和訳】
+（英文）
+Fans of Greenville United were disappointed when the team’s poor performance throughout the season led to its ［demotion］ from the A-League to the B-League.
+（訳）
+シーズンを通してチームの成績が悪かったことが、AリーグからBリーグへの（降格）につながったとき、グリーンビル・ユナイテッドのファンはがっかりした。
+（選択肢の意味）
+1 demotion：降格（地位や等級が下がること）
+2 craving：強い欲求、切望
+3 aggravation：（病気や問題の）悪化、いらだち
+4 hassle：面倒なこと、いざこざ
+【考え方】
+まず見るところ：空所のあとの from the A-League to the B-League
+最初に、空所の前を見ます。
+the team’s poor performance throughout the season led to its ( )（シーズンを通したチームの悪い成績が、チームの（　）につながった）
+poor performance は「悪い成績」、lead to ～ は「～につながる、～という結果になる」です。its はチーム（Greenville United）を指します。
+次に、空所のあとを見ます。
+from the A-League to the B-League（AリーグからBリーグへの）
+成績が悪かった結果、チームはAリーグからBリーグへ移ったと分かります。ファンが disappointed（がっかりした）ことからも、よくない移動だと分かります。
+demotion は「降格（地位や等級が下がること）」なので、1が正解です。
+この問題の型：因果（led to：成績が悪い → 降格）
+【ほかの選択肢】
+2 craving は「強い欲求、切望」です。「チームのAリーグからBリーグへの強い欲求」では、悪い成績の結果になりません。
+3 aggravation は「（病気や問題などの）悪化、いらだち」です。悪化するのは病気や問題で、from the A-League to the B-League（AリーグからBリーグへ）という所属の移動を表す形とは結びつきません。
+4 hassle は「面倒なこと、いざこざ」です。「チームのAリーグからBリーグへの面倒なこと」では意味が通りません。
+【覚えるポイント】
+・demotion：「降格」。
+・lead to ～：「～につながる、～という結果になる」。
+・from A to B（AからBへ）の前の空所には、移動や変化を表す名詞が入ることが多いので、A・B の関係（ここでは上のリーグから下のリーグ）を見て、どんな変化かを考えると手がかりになります。

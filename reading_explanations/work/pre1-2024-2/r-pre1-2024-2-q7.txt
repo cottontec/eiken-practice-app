@@ -1,0 +1,30 @@
+---
+choices: corridor | tag | triumph | clarity
+answerText: triumph
+---
+【正解】3 triumph（勝利、大成功）
+【和訳】
+（英文）
+After the hockey team won the tournament, they celebrated their ［triumph］ by going out to a local pizza restaurant.
+（訳）
+そのホッケーチームは大会で優勝したあと、地元のピザ店に出かけて（勝利）を祝った。
+（選択肢の意味）
+1 corridor：廊下、通路
+2 tag：札、値札
+3 triumph：勝利、大成功
+4 clarity：明快さ、はっきりしていること
+【考え方】
+まず見るところ：文の前半の won the tournament と、空所の前の celebrated their
+前半には、チームに何が起きたかが書かれています。
+After the hockey team won the tournament（そのホッケーチームは大会で優勝したあと）
+won the tournament は「トーナメント（勝ち抜き戦の大会）で優勝した」という意味です。
+they celebrated their (　)（彼らは自分たちの〇〇を祝った）
+celebrate は「祝う」です。大会で優勝したチームが祝うのは、その勝利です。triumph は「勝利、大成功」なので、3が正解です。前半の won（勝った）を、後半で triumph（勝利）と言いかえています。
+この問題の型：言いかえ（won the tournament → their triumph）
+【ほかの選択肢】
+1 corridor は「廊下、通路」です。「自分たちの廊下を祝った」では、優勝したこととつながりません。
+2 tag は「札、値札」です。「自分たちの札を祝った」では意味が通りません。
+4 clarity は「明快さ、はっきりしていること」です。「自分たちの明快さを祝った」となり、大会で優勝したこととつながりません。
+【覚えるポイント】
+・celebrate one's triumph：「勝利を祝う」。win the tournament：「大会で優勝する」。
+・celebrate（祝う）の目的語が空所のときは、その前に書かれた出来事（ここでは won）を言いかえた語が入る手がかりになります。

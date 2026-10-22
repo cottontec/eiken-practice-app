@@ -1,0 +1,33 @@
+---
+choices: prey | offspring | rituals | remains
+answerText: offspring
+---
+【正解】2 offspring（（動物や人の）子、子孫）
+【和訳】
+（英文）
+Cats are known to be protective of their ［offspring］. They often attack other animals that they think could be a threat to their kittens.
+（訳）
+ネコは、自分の（子）を守ろうとすることで知られている。ネコは、自分の子ネコにとって脅威になりうると思うほかの動物を、よく攻撃する。
+（選択肢の意味）
+1 prey：えもの
+2 offspring：（動物や人の）子、子孫
+3 rituals：儀式、決まった習慣
+4 remains：残り物、遺体
+【考え方】
+まず見るところ：あとの文の最後の a threat to their kittens
+最初に、空所のある文を確かめます。
+Cats are known to be protective of their ( ).（ネコは、自分の（　）を守ろうとすることで知られている）
+be protective of ～ は「～を守ろうとする、～をかばう」という意味です。
+次に、あとの文を見ます。
+They often attack other animals that they think could be a threat to their kittens.（ネコは、自分の子ネコにとって脅威になりうると思うほかの動物を、よく攻撃する）
+threat は「脅威（危険を与えるもの）」、kitten は「子ネコ」です。ネコが守ろうとして攻撃するのは、子ネコのためだと分かります。
+offspring は「（動物や人の）子、子孫」なので、their offspring は their kittens の言いかえになります。2が正解です。
+この問題の型：言いかえ（their offspring → their kittens）
+【ほかの選択肢】
+1 prey は「えもの（つかまえて食べる動物）」です。あとの文でネコが守っているのは kittens（子ネコ）で、えものではありません。
+3 rituals は「儀式、決まった習慣」です。「自分の儀式を守ろうとする」では、子ネコを守るために攻撃するというあとの文とつながりません。
+4 remains は「残り物、遺体」です。「自分の残り物を守ろうとする」では、子ネコの話とつながりません。
+【覚えるポイント】
+・offspring：「（動物や人の）子、子孫」。
+・be protective of ～：「～を守ろうとする、～をかばう」。
+・空所の語があとの文で具体的な語（ここでは kittens）に言いかえられていることがあるので、あとの文の名詞と同じものを指す語を探すと手がかりになります。

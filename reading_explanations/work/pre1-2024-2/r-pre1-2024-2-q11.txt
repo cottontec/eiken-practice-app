@@ -1,0 +1,29 @@
+---
+choices: charitable | numb | surplus | bizarre
+answerText: bizarre
+---
+【正解】4 bizarre（奇妙な、風変わりな）
+【和訳】
+（英文）
+Pedro has a ［bizarre］ way of eating waffles. Instead of using something sweet, such as maple syrup, he likes eating them with mustard.
+（訳）
+ペドロには、ワッフルの（風変わりな）食べ方がある。メープルシロップのような甘いものを使うのではなく、マスタードをつけて食べるのが好きなのだ。
+（選択肢の意味）
+1 charitable：慈善の（困っている人を助ける）、思いやりのある
+2 numb：（寒さなどで）感覚がない、しびれた
+3 surplus：余った、余分の
+4 bizarre：奇妙な、風変わりな
+【考え方】
+まず見るところ：空所のあとの文の Instead of using something sweet と with mustard
+空所のあとの文で、ペドロの食べ方が具体的に書かれています。
+Instead of using something sweet, such as maple syrup（メープルシロップのような甘いものを使うのではなく）
+he likes eating them with mustard（彼はマスタードをつけてそれらを食べるのが好きだ）
+instead of ～ は「～の代わりに、～ではなく」です。ワッフルには甘いものをかけることが多いのに、ペドロはからいマスタードをつけて食べます。これはふつうとはちがう、変わった食べ方です。bizarre は「奇妙な、風変わりな」なので、4が正解です。
+この問題の型：具体例とまとめ（甘いものではなくマスタード → 風変わりな食べ方）
+【ほかの選択肢】
+1 charitable は「慈善の、思いやりのある」です。「思いやりのあるワッフルの食べ方」となり、マスタードをつけるという内容とつながりません。
+2 numb は「感覚がない、しびれた」です。「しびれたワッフルの食べ方」では意味が通りません。
+3 surplus は「余った、余分の」です。「余ったワッフルの食べ方」となり、あとの文の「甘いものではなくマスタードをつける」という説明とつながりません。
+【覚えるポイント】
+・bizarre：「奇妙な、風変わりな」。instead of ～：「～の代わりに、～ではなく」。
+・空所のあとの文に instead of ～（～ではなく）があり、ふつうとちがうやり方が書かれているときは、「変わった」という意味の語が入る手がかりになります。
