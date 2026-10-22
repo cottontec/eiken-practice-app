@@ -1,6 +1,7 @@
 ---
 choices: They search for fairy circles because the grass around them is often more nutritious than grass in other areas. | They create fairy circles as a way to ensure that they have a source of water when there is little rainfall. | They store roots beneath fairy circles so they can have food during the dry season, when many plants die. | They live in fairy circles that contain less water because these last longer during the dry season.
 answerText: They create fairy circles as a way to ensure that they have a source of water when there is little rainfall.
+reviewed: yes
 ---
 【正解】2 They create fairy circles as a way to ensure that they have a source of water when there is little rainfall.（シロアリは、雨がほとんど降らないときに水の供給源を確実に持てるようにする方法として、フェアリーサークルを作る。）
 【和訳】

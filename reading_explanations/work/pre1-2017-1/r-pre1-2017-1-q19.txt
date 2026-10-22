@@ -1,6 +1,7 @@
 ---
 choices: dedication | tariff | stiffness | blockade
 answerText: dedication
+reviewed: yes
 ---
 【正解】1 dedication（打ちこむこと、献身）
 【和訳】

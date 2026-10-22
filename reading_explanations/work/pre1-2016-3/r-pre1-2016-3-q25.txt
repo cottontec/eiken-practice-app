@@ -1,6 +1,7 @@
 ---
 choices: tied up | set in | let up | picked over
 answerText: set in
+reviewed: yes
 ---
 【正解】2 set in（（季節や悪天候などが）始まる、やってくる）
 【和訳】

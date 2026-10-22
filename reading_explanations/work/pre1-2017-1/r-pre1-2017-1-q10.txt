@@ -1,6 +1,7 @@
 ---
 choices: mediated | adhered | fabricated | incorporated
 answerText: incorporated
+reviewed: yes
 ---
 【正解】4 incorporated（取り入れた、組み込んだ）
 【和訳】

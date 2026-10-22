@@ -1,6 +1,7 @@
 ---
 choices: the longer life expectancy of Inuit peoples is linked to the low amounts of certain types of fats in their diet. | there is an association between the health of one's heart and one's intake of omega-3 fats. | certain types of fish are a healthy source of protein because they do not contain significant amounts of omega-3 fats. | if Inuit peoples consumed a greater amount of fatty fish, their overall health would improve.
 answerText: there is an association between the health of one's heart and one's intake of omega-3 fats.
+reviewed: yes
 ---
 【正解】2 there is an association between the health of one's heart and one's intake of omega-3 fats.（心臓の健康と、オメガ3脂肪をとることとの間には関係がある。）
 【和訳】
@@ -24,7 +25,7 @@ in response は「それを受けて、それに応じて」という意味で�
 association は「関係、結びつき」、intake は「とり入れること、摂取」という意味です。「オメガ3脂肪をとると心臓発作を防げる」ということは、「オメガ3脂肪と心臓の健康には関係がある」ということなので、2が正解です。
 この問題の型：言いかえ（could help prevent heart attacks → an association between the health of one's heart and ～）／因果（in response：指針→サプリメントの売り上げが伸びた）
 【ほかの選択肢】
-1 本文にありません。本文では、イヌイットの平均寿命（life expectancy）については触れていません。また、イヌイットの血液ではオメガ3脂肪の濃度が unusually high（ふつうでないほど高い）とあり、「ある種の脂肪が少ない」という内容とも合いません。
+1 本文にありません。本文では、イヌイットの平均寿命（life expectancy）については触れていません。また、本文で注目されているのは、イヌイットの血液でオメガ3脂肪の濃度が unusually high（ふつうでないほど高い）ことで、「ある種の脂肪が少ないこと」ではありません。
 3 本文と反対です。オメガ3脂肪は a type of fat found in oily cold-water fish（冷たい水にすむ脂の多い魚に含まれる脂肪の一種）と説明されています。魚がオメガ3脂肪をあまり含まないとは書かれていません。
 4 本文にありません。指針は、オメガ3脂肪を多く含む食べ物が心臓発作を防ぐのに役立つかもしれないという一般的な内容です。イヌイットの人々がもっと魚を食べれば健康がよくなる、と専門家が示したわけではありません。
 【覚えるポイント】

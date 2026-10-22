@@ -1,6 +1,7 @@
 ---
 choices: drop back | jump at | face off | play down
 answerText: play down
+reviewed: yes
 ---
 【正解】4 play down（軽く扱う、大したことではないように言う）
 【和訳】

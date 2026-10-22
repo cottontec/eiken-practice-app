@@ -1,6 +1,7 @@
 ---
 choices: Young volunteers who know how to use social media effectively are needed to improve the relationships between towns. | Although online communication between twin towns is useful, there is a need for more face-to-face meetings. | Twin-town relationships focus too much on young people and should make an effort to also include older people. | It has become less relevant because of technological advances that have improved methods of communication.
 answerText: It has become less relevant because of technological advances that have improved methods of communication.
+reviewed: yes
 ---
 【正解】4 It has become less relevant because of technological advances that have improved methods of communication.（連絡の手段をよくした技術の進歩のために、姉妹都市提携は（以前より）重要ではなくなった。）
 【和訳】

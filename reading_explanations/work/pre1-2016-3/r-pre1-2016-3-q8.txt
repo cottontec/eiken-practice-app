@@ -1,6 +1,7 @@
 ---
 choices: blister | heed | crumb | fluke
 answerText: heed
+reviewed: yes
 ---
 【正解】2 heed（注意、心に留めること）
 【和訳】

@@ -1,0 +1,34 @@
+---
+choices: Exaggerated claims made in order to increase interest in the research could result in people having a negative image of the field. | Because artificial organs are so complex and difficult to understand, simpler explanations of their functions are needed. | Researchers must give demonstrations of the 3D printing of organs so people can see for themselves how important the research is. | Researchers must remember that people doubt the medical potential of 3D printing because they mainly associate it with nonliving objects.
+answerText: Exaggerated claims made in order to increase interest in the research could result in people having a negative image of the field.
+---
+【正解】1 Exaggerated claims made in order to increase interest in the research could result in people having a negative image of the field.（研究への関心を高めるためになされる大げさな主張は、人々がその分野に悪い印象を持つ結果になりうる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What point does Jennifer Lewis make about presenting 3D-printing research to the public?（3Dプリンティングの研究を世間に紹介することについて、ジェニファー・ルイスはどんなことを指摘しているか。）
+1 Exaggerated claims made in order to increase interest in the research could result in people having a negative image of the field.（研究への関心を高めるためになされる大げさな主張は、人々がその分野に悪い印象を持つ結果になりうる。）
+2 Because artificial organs are so complex and difficult to understand, simpler explanations of their functions are needed.（人工の臓器はとても複雑で理解しにくいので、その働きについてのもっと簡単な説明が必要だ。）
+3 Researchers must give demonstrations of the 3D printing of organs so people can see for themselves how important the research is.（人々がその研究がどれほど大切かを自分の目で確かめられるように、研究者は臓器の3Dプリンティングの実演をしなければならない。）
+4 Researchers must remember that people doubt the medical potential of 3D printing because they mainly associate it with nonliving objects.（人々は3Dプリンティングを主に生きていない物と結びつけて考えるので、その医療での可能性を疑っているということを、研究者は覚えておかなければならない。）
+【考え方】
+まず見るところ：第4段落の最後の文 Lewis says exaggerated claims could actually have the opposite effect in the long run.
+第4段落で、ルイスが心配していることが説明されています。有名な研究者たちが、人間の臓器のように見えるが機能しない物を作って公開実演をしました。
+This has caused many to believe 3D-printed organs are just around the corner when, in fact, they are probably decades away.（このことによって、多くの人々は、3Dプリンターで作った臓器はもうすぐ実現すると信じるようになったが、実際には、おそらく実現は何十年も先である）
+just around the corner は「すぐそこまで来ている、もうすぐ実現する」という意味です。そして最後の文です。
+Although researchers need favorable publicity and funding to support their efforts, Lewis says exaggerated claims could actually have the opposite effect in the long run.（研究者たちは自分たちの取り組みを支えるために、好意的な評判と資金を必要としているが、大げさな主張は、長い目で見ると実際には逆の効果をもたらしうる、とルイスは言う）
+favorable publicity は「好意的な評判（よいうわさや報道）」です。大げさな主張は、本来は関心を集めてよい評判を得るためのものですが、その「逆の効果」とは、悪い評判、つまり悪い印象を持たれることだと考えられます。
+本文と選択肢を対にすると、次のようになります。
+本文 exaggerated claims（大げさな主張）＝ 選択肢 Exaggerated claims（大げさな主張）
+本文 researchers need favorable publicity and funding（研究者は好意的な評判と資金を必要としている）→ 読み取れること：大げさな主張は関心を高めるためになされる（選択肢 made in order to increase interest in the research）
+本文 could actually have the opposite effect in the long run（長い目で見ると逆の効果をもたらしうる）→ 読み取れること：好意的な評判とは逆に、悪い印象を持たれうる（選択肢 could result in people having a negative image of the field）
+ですから1が正解です。
+この問題の型：推論（opposite effect ＝ 好意的な評判の逆 → 悪い印象）
+【ほかの選択肢】
+2 本文に書かれていません。ルイスが問題にしているのは、実現がまだ何十年も先なのに、もうすぐだと思わせる紹介のしかたです。人工の臓器の働きをもっと簡単に説明すべきだという話はありません。
+3 本文と合いません。ルイスは、機能しない臓器のような物を見せる公開実演が人々に誤った期待を持たせたことを「誤解を招く」と言っています。実演をしなければならないとは述べていません。
+4 本文と反対です。本文では、人々は3Dプリンターで作った臓器がもうすぐ実現すると信じるようになったと書かれており、医療での可能性を疑っているのではなく、むしろ期待しすぎています。
+【覚えるポイント】
+・have the opposite effect：「逆の効果をもたらす」。何の「逆」なのかを、同じ文の favorable publicity（好意的な評判）から考えることが大切です。
+・人物の指摘をたずねる設問では、その人の言葉（Lewis calls this ～、Lewis says ～）の部分を探し、Although などで示される「本来のねらい」と「実際に起こりうること」を区別するのが手がかりになります。

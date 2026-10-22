@@ -1,6 +1,7 @@
 ---
 choices: grant | strangle | withdraw | ignite
 answerText: withdraw
+reviewed: yes
 ---
 【正解】3 withdraw（撤退する、引き上げる）
 【和訳】

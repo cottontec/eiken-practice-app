@@ -1,6 +1,7 @@
 ---
 choices: perspective | disposal | archive | subsistence
 answerText: perspective
+reviewed: yes
 ---
 【正解】1 perspective（見方、考え方）
 【和訳】

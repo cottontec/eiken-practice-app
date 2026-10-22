@@ -1,6 +1,7 @@
 ---
 choices: Although Inuit peoples' consumption of foods associated with heart disease is high, they suffer comparatively few heart attacks. | Inuit peoples develop nutrition-related diseases that, in other peoples, are caused by a lack of animal fat in the diet. | In spite of their diet of mainly meats, fish, and greens, Inuit peoples suffer from high rates of nutrition-related diseases. | A disease known to be caused by a lack of vitamin C tends to occur in Inuit peoples who consume relatively little fat.
 answerText: Although Inuit peoples' consumption of foods associated with heart disease is high, they suffer comparatively few heart attacks.
+reviewed: yes
 ---
 【正解】1 Although Inuit peoples' consumption of foods associated with heart disease is high, they suffer comparatively few heart attacks.（イヌイットの人々は、心臓病と関係のある食べ物を多くとっているが、心臓発作を起こすことは（ほかの人々と比べて）少ない。）
 【和訳】

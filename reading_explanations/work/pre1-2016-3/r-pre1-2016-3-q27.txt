@@ -1,6 +1,7 @@
 ---
 choices: are more difficult to access | have been recreated elsewhere | are not worth saving | have become unbalanced
 answerText: have become unbalanced
+reviewed: yes
 ---
 【正解】4 have become unbalanced（バランスが崩れてしまっている）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: talked up | tracked down | gave over | took on
 answerText: gave over
+reviewed: yes
 ---
 【正解】3 gave over（ゆだねた、引き渡した）
 【和訳】

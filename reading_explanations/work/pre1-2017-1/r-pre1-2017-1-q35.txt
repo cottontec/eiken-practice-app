@@ -1,6 +1,7 @@
 ---
 choices: the brains of young children begin to develop at a much faster rate once they reach a certain age. | children who learn to talk at an early age also begin to form their first memories more quickly. | the area of the brain where memories are stored changes when a child is around two years old. | it is untrue that children's brains cannot yet form memories during their earliest years.
 answerText: it is untrue that children's brains cannot yet form memories during their earliest years.
+reviewed: yes
 ---
 【正解】4 it is untrue that children's brains cannot yet form memories during their earliest years.（ごく幼い時期の子どもの脳はまだ記憶を作ることができない、というのは正しくない。）
 【和訳】

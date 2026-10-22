@@ -1,6 +1,7 @@
 ---
 choices: apprentices | siblings | peasants | referees
 answerText: siblings
+reviewed: yes
 ---
 【正解】2 siblings（きょうだい〈兄弟姉妹〉）
 【和訳】
@@ -21,7 +22,7 @@ Aは How many ( ) do you have?（（　）は何人いるの？）とたずね�
 Bの答えは次のとおりです。
 We're a big family. I have three brothers and one sister.（うちは大家族だよ。兄（弟）が3人と、姉（妹）が1人いる）
 brothers と sister が年上か年下かは書かれていないので、和訳では「兄（弟）」「姉（妹）」としています。
-Bは、brothers（兄弟）と sister（姉妹）の人数を答えています。ですから、Aは「きょうだいは何人いるか」をたずねたと分かります。sibling は男女を区別せずに「きょうだい（兄弟姉妹）」を表す語なので、2が正解です。
+Bは、brothers（兄（弟））と sister（姉（妹））の人数を答えています。ですから、Aは「きょうだいは何人いるか」をたずねたと分かります。sibling は男女を区別せずに「きょうだい（兄弟姉妹）」を表す語なので、2が正解です。
 この問題の型：言いかえ（brothers and sister→siblings）
 【ほかの選択肢】
 1 apprentices は「見習い、弟子」です。Bは家族の話をしているので、「見習いは何人いるの？」という質問とは合いません。

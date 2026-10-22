@@ -1,6 +1,7 @@
 ---
 choices: humble | impulsive | desperate | observant
 answerText: observant
+reviewed: yes
 ---
 【正解】4 observant（観察力の鋭い、よく気がつく）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: Costa Rica had carried out sufficient environmental checks before constructing the road along the San Juan River. | Even though Costa Rica's ownership of Isla Portillos was unclear, Nicaragua should not have used its military to claim ownership. | Costa Rica had carried out its road construction long before Nicaragua began its engineering projects. | Nicaragua's construction of artificial waterways had resulted in negative environmental consequences for Costa Rica.
 answerText: Nicaragua's construction of artificial waterways had resulted in negative environmental consequences for Costa Rica.
+reviewed: yes
 ---
 【正解】4 Nicaragua's construction of artificial waterways had resulted in negative environmental consequences for Costa Rica.（ニカラグアが人工の水路を作ったことが、コスタリカにとって環境上の悪い結果をもたらしていた。）
 【和訳】
@@ -16,7 +17,7 @@ answerText: Nicaragua's construction of artificial waterways had resulted in neg
 まず見るところ：第3段落の Furthermore, the ICJ ruled that the unauthorized creation of artificial waterways had indeed caused environmental damage to Costa Rican territory.
 ICJ（国際司法裁判所）の判決は第3段落に書かれています。rule in favor of ～ は「～に有利な判決を下す」という意味です。
 Furthermore, the ICJ ruled that the unauthorized creation of artificial waterways had indeed caused environmental damage to Costa Rican territory.（さらにICJは、許可なく人工の水路を作ったことが、実際にコスタリカの領土に環境上の損害を与えたと判断した）
-unauthorized は「許可のない」、artificial waterways は「人工の水路」という意味です。第1段落から、この水路を掘ったのはニカラグアだと分かります。
+unauthorized は「許可のない」、artificial waterways は「人工の水路」という意味です。第1段落で、この水路を掘ったとしてコスタリカがニカラグアを非難していたことが分かります。
 本文と選択肢4を対にすると、次のようになります。
 本文 the unauthorized creation of artificial waterways（許可なく人工の水路を作ったこと）＝ 選択肢 Nicaragua's construction of artificial waterways（ニカラグアが人工の水路を作ったこと）
 本文 had indeed caused environmental damage（実際に環境上の損害を与えた）＝ 選択肢 had resulted in negative environmental consequences（環境上の悪い結果をもたらした）

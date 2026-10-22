@@ -1,6 +1,7 @@
 ---
 choices: comply | conspire | rebound | replicate
 answerText: comply
+reviewed: yes
 ---
 【正解】1 comply（〈規則や命令に〉従う）
 【和訳】

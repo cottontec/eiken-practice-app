@@ -1,6 +1,7 @@
 ---
 choices: Because very young children do not understand most of the sensory input they receive, it cannot be made into memories. | The fact that very young children's brains have so few neurons means they cannot retain many memories. | Although neurons are produced quickly in very young children's brains, they are not used to store memories. | The high neuron growth rate in very young children is the reason their memories do not last.
 answerText: The high neuron growth rate in very young children is the reason their memories do not last.
+reviewed: yes
 ---
 【正解】4 The high neuron growth rate in very young children is the reason their memories do not last.（ごく幼い子どもはニューロンが増える速度が速いことが、その記憶が長続きしない理由である。）
 【和訳】

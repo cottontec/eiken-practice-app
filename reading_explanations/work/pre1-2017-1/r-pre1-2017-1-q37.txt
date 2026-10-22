@@ -1,6 +1,7 @@
 ---
 choices: Lasting memories are not stored in the hippocampus, so what happens to neurons there is unlikely to affect those memories. | Very young children's senses are not fully developed, so their brains cannot process sensory information. | It is unlikely that the hippocampus would begin to function as early as Frankland and Josselyn say it does. | Since Frankland and Josselyn only examined the brains of mice, their results cannot yet be considered relevant.
 answerText: Lasting memories are not stored in the hippocampus, so what happens to neurons there is unlikely to affect those memories.
+reviewed: yes
 ---
 【正解】1 Lasting memories are not stored in the hippocampus, so what happens to neurons there is unlikely to affect those memories.（長く続く記憶は海馬にたくわえられていないので、そこでニューロンに起こることが、それらの記憶に影響を与えるとは考えにくい。）
 【和訳】

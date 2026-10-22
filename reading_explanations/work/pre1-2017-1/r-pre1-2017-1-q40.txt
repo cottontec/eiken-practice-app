@@ -1,6 +1,7 @@
 ---
 choices: Grouping together sufferers of different eating disorders during treatment can cause unnecessary stress for these patients. | The range of foods consumed by sufferers of different eating disorders is too great to put any two of these disorders into the same category. | Orthorexia is caused by social and psychological problems that are more complex than those related to other eating disorders. | The consequences of orthorexia are generally not as severe as those of more dangerous eating disorders such as anorexia nervosa.
 answerText: The consequences of orthorexia are generally not as severe as those of more dangerous eating disorders such as anorexia nervosa.
+reviewed: yes
 ---
 【正解】4 The consequences of orthorexia are generally not as severe as those of more dangerous eating disorders such as anorexia nervosa.（オルトレキシアがもたらす結果は、ふつう、神経性やせ症のような、（オルトレキシアより）危険な摂食障害がもたらす結果ほど深刻ではない。）
 【和訳】

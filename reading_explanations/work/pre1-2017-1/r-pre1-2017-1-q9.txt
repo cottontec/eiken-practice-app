@@ -1,6 +1,7 @@
 ---
 choices: solemnly | courteously | intermittently | recklessly
 answerText: intermittently
+reviewed: yes
 ---
 【正解】3 intermittently（断続的に、ときどき止まりながら）
 【和訳】

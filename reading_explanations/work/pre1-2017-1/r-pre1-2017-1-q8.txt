@@ -1,6 +1,7 @@
 ---
 choices: encounters | sacrifices | rations | junctions
 answerText: rations
+reviewed: yes
 ---
 【正解】3 rations（〈一定量ずつ配られる〉食料）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: Sufferers place extreme limits on the amount of food they consume, which often leads to the risk of starvation. | Efforts by developed nations to improve dietary health worldwide have caused orthorexia to become common in poorer nations. | It can interfere with sufferers' daily activities, as they may decide they cannot be in situations where they might have to eat certain foods. | It was confused with anorexia nervosa for a long time because health professionals could not recognize its unique symptoms.
 answerText: It can interfere with sufferers' daily activities, as they may decide they cannot be in situations where they might have to eat certain foods.
+reviewed: yes
 ---
 【正解】3 It can interfere with sufferers' daily activities, as they may decide they cannot be in situations where they might have to eat certain foods.（オルトレキシアに苦しむ人は、特定の食べ物を食べなければならないかもしれない場面にはいられないと決めることがあるので、この障害は日常の活動のさまたげになることがある。）
 【和訳】

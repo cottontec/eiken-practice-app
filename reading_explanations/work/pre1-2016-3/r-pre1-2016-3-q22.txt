@@ -1,6 +1,7 @@
 ---
 choices: fall for | bring on | lay off | break down
 answerText: bring on
+reviewed: yes
 ---
 【正解】2 bring on（引き起こす、もたらす）
 【和訳】

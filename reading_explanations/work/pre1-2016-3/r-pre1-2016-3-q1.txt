@@ -1,6 +1,7 @@
 ---
 choices: grief | hygiene | pledge | static
 answerText: hygiene
+reviewed: yes
 ---
 【正解】2 hygiene（衛生、清潔に保つこと）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: become sick first | not been allowed near people | consumed fewer pests | not declined
 answerText: not declined
+reviewed: yes
 ---
 【正解】4 not declined（減っていなかった）
 【和訳】

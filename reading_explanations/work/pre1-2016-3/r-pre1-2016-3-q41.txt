@@ -1,6 +1,7 @@
 ---
 choices: Certain genetic factors that allow their bodies to process large amounts of fat also make them more likely to get certain diseases. | Being forced to adapt to foods typically consumed by other peoples has led to genetic changes that have affected their health. | Their diet may have enabled them to evolve a protective genetic response that is lacking in other peoples. | Their genetic makeup prevents them from experiencing the benefits of supplements that contain omega-3 fats.
 answerText: Their diet may have enabled them to evolve a protective genetic response that is lacking in other peoples.
+reviewed: yes
 ---
 【正解】3 Their diet may have enabled them to evolve a protective genetic response that is lacking in other peoples.（彼らの食事によって、ほかの民族にはない、体を守る遺伝的な反応が進化した可能性がある。）
 【和訳】

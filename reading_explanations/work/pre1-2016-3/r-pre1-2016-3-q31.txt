@@ -1,6 +1,7 @@
 ---
 choices: has had many positive results | is not sufficient | has made companies stronger | puts men at a disadvantage
 answerText: is not sufficient
+reviewed: yes
 ---
 【正解】2 is not sufficient（十分ではない）
 【和訳】

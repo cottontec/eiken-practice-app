@@ -1,6 +1,7 @@
 ---
 choices: was releasing toxic materials into the river and so was affecting the health of people living along it. | had caused changes to the natural environment that needed to be dealt with in order for economic activities to continue. | was leading to large amounts of water being taken out of the river for construction purposes. | had changed the natural border between the countries, resulting in a small area of land being taken away from Nicaragua.
 answerText: had caused changes to the natural environment that needed to be dealt with in order for economic activities to continue.
+reviewed: yes
 ---
 【正解】2 had caused changes to the natural environment that needed to be dealt with in order for economic activities to continue.（経済活動を続けるためには対処しなければならない、自然環境の変化を引き起こした。）
 【和訳】

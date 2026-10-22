@@ -1,6 +1,7 @@
 ---
 choices: gliding | grazing | grooming | glancing
 answerText: grazing
+reviewed: yes
 ---
 【正解】2 grazing（〈家畜が〉草を食べている）
 【和訳】

@@ -1,0 +1,30 @@
+---
+choices: it would create a safer environment | arguments between passengers would decrease | it would allow more time for cleaning | passengers would be grouped into more zones
+answerText: it would create a safer environment
+---
+【正解】1 it would create a safer environment（それはより安全な環境を生み出すだろう）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 it would create a safer environment（それはより安全な環境を生み出すだろう）
+2 arguments between passengers would decrease（乗客どうしの口論が減るだろう）
+3 it would allow more time for cleaning（それは清掃のための時間をより多くとれるようにするだろう）
+4 passengers would be grouped into more zones（乗客はより多くのゾーンに分けられるだろう）
+【考え方】
+まず見るところ：第2段落の空所の直前の although the proposed system would be more time-consuming overall と、その前の less likely to spend extended periods of time close to each other
+第2段落では、搭乗（飛行機に乗りこむこと）の間の細菌の広がりが話題です。今のやり方の問題点は次のように書かれています。
+This greatly increases the amount of time passengers spend in extremely close contact while waiting to board and get into their seats, increasing the likelihood of germs spreading.（このことは、乗客が乗りこんで自分の席に着くのを待つ間に、ほかの人とすぐ近くで接している時間を大きく増やし、細菌が広がる可能性を高めている）
+likelihood は「可能性、見込み」です。スリニバサンが考えた2ゾーン方式については、次のように述べられています。
+Srinivasan says this would result in people being “less likely to spend extended periods of time close to each other.”（スリニバサンは、こうすれば人々は（今のやり方より）「互いのすぐ近くで長い時間を過ごす可能性が低くなる」と言う）
+空所のある文は次のとおりです。
+That would mean that, although the proposed system would be more time-consuming overall, ( 28 ).（それはつまり、提案された方式は全体としては（今のやり方より）時間がかかるものの、（28）ということになるだろう）
+time-consuming は「時間がかかる」です。although ～（～ではあるものの）のあとには、その欠点を上回るよい点が来ます。人どうしが近くにいる時間が減れば、細菌が広がる可能性も低くなります。つまり、より安全な環境になるということです。ですから1が正解です。
+この問題の型：対比（時間はかかる⇔より安全になる）
+【ほかの選択肢】
+2 「乗客どうしの口論が減るだろう」は、本文に書かれていません。第2段落の話題は細菌の広がりで、乗客の口論については何も述べられていません。
+3 「清掃のための時間をより多くとれるようにするだろう」も、本文に書かれていません。時間がかかるのは搭乗の方式のことで、清掃の時間が増えるという話は第2段落に出てきません。
+4 「乗客はより多くのゾーンに分けられるだろう」は、本文の内容と合いません。今のやり方は three or more zones（3つ以上のゾーン）で、提案されたのは a two-zone system（2ゾーン方式）なので、ゾーンの数はむしろ減ります。
+【覚えるポイント】
+・although A, B：「Aではあるものの、B」。Aに欠点が来ると、Bにはよい点が来ることが多いです。
+・空所の前の although の内容と、さらにその前の文の説明（ここでは「近くにいる時間が減る」）をつなげて考えると、空所の内容を決める手がかりになります。

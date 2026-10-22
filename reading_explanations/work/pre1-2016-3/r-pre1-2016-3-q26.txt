@@ -1,6 +1,7 @@
 ---
 choices: boosted species diversity in | had only a slight effect on | led scientists to stop studying | kept people away from
 answerText: boosted species diversity in
+reviewed: yes
 ---
 【正解】1 boosted species diversity in（～の種の多様性を高めた）
 【和訳】

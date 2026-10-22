@@ -1,6 +1,7 @@
 ---
 choices: read off | hand off | speak for | weigh on
 answerText: speak for
+reviewed: yes
 ---
 【正解】3 speak for（～を代弁する、～に代わって意見を言う）
 【和訳】

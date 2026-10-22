@@ -1,6 +1,7 @@
 ---
 choices: because the Australian termites only eat a certain type of plant, they could not be causing the fairy circles. | the Australian termites are not able to dig as deeply into the fairy circles as the Namibian termites are. | termites do not cause fairy circles since the circles can form in areas where the insects are not present in significant numbers. | although termites play a role in making fairy circles bigger, the circles are created by rainfall patterns.
 answerText: termites do not cause fairy circles since the circles can form in areas where the insects are not present in significant numbers.
+reviewed: yes
 ---
 【正解】3 termites do not cause fairy circles since the circles can form in areas where the insects are not present in significant numbers.（フェアリーサークルはシロアリがあまりいない場所でもできることがあるので、シロアリがフェアリーサークルを作るのではない。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: signified | threatened | witnessed | soaked
 answerText: threatened
+reviewed: yes
 ---
 【正解】2 threatened（脅した）
 【和訳】

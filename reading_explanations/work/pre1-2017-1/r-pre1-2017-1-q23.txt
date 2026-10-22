@@ -1,6 +1,7 @@
 ---
 choices: hanging around | settling up | backing down | holding off
 answerText: hanging around
+reviewed: yes
 ---
 【正解】1 hanging around（うろついている、ぶらぶらしている）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: irritation | attendant | context | coherence
 answerText: irritation
+reviewed: yes
 ---
 【正解】1 irritation（（皮膚の）炎症、ひりひりすること）
 【和訳】

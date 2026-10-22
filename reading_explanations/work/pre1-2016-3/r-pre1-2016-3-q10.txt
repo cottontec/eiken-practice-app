@@ -1,6 +1,7 @@
 ---
 choices: jumbled | revolved | wandered | erupted
 answerText: erupted
+reviewed: yes
 ---
 【正解】4 erupted（（怒りなどが）爆発した）
 【和訳】

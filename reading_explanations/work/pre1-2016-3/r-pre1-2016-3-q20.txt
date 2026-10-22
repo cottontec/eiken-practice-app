@@ -1,6 +1,7 @@
 ---
 choices: component | boundary | privilege | pillar
 answerText: privilege
+reviewed: yes
 ---
 【正解】3 privilege（光栄なこと、特権）
 【和訳】

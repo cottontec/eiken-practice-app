@@ -1,6 +1,7 @@
 ---
 choices: refuse to obey the law | admit the truth | stop holding their main event | maintain their policy
 answerText: admit the truth
+reviewed: yes
 ---
 【正解】2 admit the truth（真実を認める）
 【和訳】

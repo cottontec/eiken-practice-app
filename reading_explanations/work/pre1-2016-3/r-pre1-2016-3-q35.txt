@@ -1,6 +1,7 @@
 ---
 choices: Nicaragua was encouraging its citizens to move to Isla Portillos illegally and live there permanently. | The Nicaraguan military had done environmental damage to Isla Portillos during a historical battle over a border area. | Nicaraguan soldiers had been sent into an area of Costa Rican territory to take it over by force. | The Nicaraguan government was forcibly preventing Costa Rican river traffic from accessing the San Juan River.
 answerText: Nicaraguan soldiers had been sent into an area of Costa Rican territory to take it over by force.
+reviewed: yes
 ---
 【正解】3 Nicaraguan soldiers had been sent into an area of Costa Rican territory to take it over by force.（ニカラグアの兵士たちが、コスタリカの領土のある地域に、そこを力ずくで奪うために送りこまれていた。）
 【和訳】

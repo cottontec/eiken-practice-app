@@ -1,6 +1,7 @@
 ---
 choices: reptile | summit | curse | correlation
 answerText: correlation
+reviewed: yes
 ---
 【正解】4 correlation（相関関係、2つのものの結びつき）
 【和訳】

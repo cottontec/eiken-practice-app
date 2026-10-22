@@ -1,6 +1,7 @@
 ---
 choices: vultures should not be the focus | this is not the only problem | the programs have already succeeded | the birds should be relocated
 answerText: this is not the only problem
+reviewed: yes
 ---
 【正解】2 this is not the only problem（これが唯一の問題ではない）
 【和訳】

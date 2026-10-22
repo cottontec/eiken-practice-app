@@ -1,6 +1,7 @@
 ---
 choices: edible | inevitable | vicious | wicked
 answerText: edible
+reviewed: yes
 ---
 【正解】1 edible（食べられる）
 【和訳】

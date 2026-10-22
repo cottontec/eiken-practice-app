@@ -1,6 +1,7 @@
 ---
 choices: transparent | deficient | modified | pessimistic
 answerText: deficient
+reviewed: yes
 ---
 【正解】2 deficient（不足している、足りない）
 【和訳】

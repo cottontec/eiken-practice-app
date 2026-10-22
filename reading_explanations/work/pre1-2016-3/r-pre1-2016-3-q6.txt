@@ -1,6 +1,7 @@
 ---
 choices: holdup | setback | loophole | downfall
 answerText: loophole
+reviewed: yes
 ---
 【正解】3 loophole（（法律などの）抜け穴）
 【和訳】

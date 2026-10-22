@@ -1,6 +1,7 @@
 ---
 choices: dread | emulate | mingle | abandon
 answerText: abandon
+reviewed: yes
 ---
 【正解】4 abandon（あきらめる、捨てる）
 【和訳】

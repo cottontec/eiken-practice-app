@@ -1,6 +1,7 @@
 ---
 choices: prevalent | trivial | savage | arrogant
 answerText: prevalent
+reviewed: yes
 ---
 【正解】1 prevalent（広く行われている、普及している）
 【和訳】

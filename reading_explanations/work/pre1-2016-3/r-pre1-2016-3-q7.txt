@@ -1,6 +1,7 @@
 ---
 choices: boasting | grumbling | kneading | wavering
 answerText: boasting
+reviewed: yes
 ---
 【正解】1 boasting（自慢している）
 【和訳】

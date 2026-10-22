@@ -1,6 +1,7 @@
 ---
 choices: entitled | illustrated | contaminated | suppressed
 answerText: contaminated
+reviewed: yes
 ---
 【正解】3 contaminated（汚染された）
 【和訳】

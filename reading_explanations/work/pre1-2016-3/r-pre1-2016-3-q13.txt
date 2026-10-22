@@ -1,6 +1,7 @@
 ---
 choices: petty | coarse | sacred | willing
 answerText: sacred
+reviewed: yes
 ---
 【正解】3 sacred（神聖な、聖なる）
 【和訳】

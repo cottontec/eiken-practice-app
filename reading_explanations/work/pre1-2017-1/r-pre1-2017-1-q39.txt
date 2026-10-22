@@ -1,6 +1,7 @@
 ---
 choices: A variety of information sources are making them feel that the consequences of unhealthy eating are severely damaging. | An increasing number of children are coming into contact with people who work in professions where physical traits are important. | Many children feel that they should resist attempts by parents and teachers to improve their dietary habits. | Many snacks have become unhealthier, which has led health professionals to change their dietary recommendations for children.
 answerText: A variety of information sources are making them feel that the consequences of unhealthy eating are severely damaging.
+reviewed: yes
 ---
 【正解】1 A variety of information sources are making them feel that the consequences of unhealthy eating are severely damaging.（さまざまな情報源が、子どもたちに、健康によくない食べ方の結果はひどく害になると感じさせている。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: whether Inuit peoples receive enough nutrients to stay healthy depends largely on the geographical area they inhabit. | the red meats that make up the majority of the Inuit diet have both a harmful and a beneficial effect on the health of Inuit peoples. | Inuit peoples are able to meet important nutritional requirements by consuming a limited range of foods. | the quantity of fresh fruit and vegetables in the Inuit diet in warm months is enough to guarantee Inuit peoples' health year-round.
 answerText: Inuit peoples are able to meet important nutritional requirements by consuming a limited range of foods.
+reviewed: yes
 ---
 【正解】3 Inuit peoples are able to meet important nutritional requirements by consuming a limited range of foods.（イヌイットの人々は、限られた種類の食べ物をとることで、大切な栄養の必要を満たすことができている。）
 【和訳】

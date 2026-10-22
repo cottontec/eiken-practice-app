@@ -1,6 +1,7 @@
 ---
 choices: validity | correspondence | imbalance | mercy
 answerText: correspondence
+reviewed: yes
 ---
 【正解】2 correspondence（手紙のやりとり、文通）
 【和訳】

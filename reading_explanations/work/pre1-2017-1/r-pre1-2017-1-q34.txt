@@ -1,6 +1,7 @@
 ---
 choices: Because the soil in Namibia is much deeper and can hold more water, the circles there tend to be larger. | The plants that grow around the Australian circles do not need much water, so these circles are generally drier. | Water collects underneath the Namibian circles, whereas it flows to the edge of the Australian ones. | Rainfall amounts have more effect on the Namibian circles, while the type of soil has more effect on the Australian ones.
 answerText: Water collects underneath the Namibian circles, whereas it flows to the edge of the Australian ones.
+reviewed: yes
 ---
 【正解】3 Water collects underneath the Namibian circles, whereas it flows to the edge of the Australian ones.（ナミビアの円では水が円の下にたまるが、オーストラリアの円では水が円のふちへ流れる。）
 【和訳】

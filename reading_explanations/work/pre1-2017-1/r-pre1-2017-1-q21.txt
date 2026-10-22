@@ -1,6 +1,7 @@
 ---
 choices: crawl | tame | sue | twist
 answerText: sue
+reviewed: yes
 ---
 【正解】3 sue（訴える、裁判を起こす）
 【和訳】

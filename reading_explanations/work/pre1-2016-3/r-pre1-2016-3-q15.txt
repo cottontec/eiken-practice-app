@@ -1,6 +1,7 @@
 ---
 choices: emitting | appointing | restating | instigating
 answerText: emitting
+reviewed: yes
 ---
 【正解】1 emitting（（ガスなどを）出している、放出している）
 【和訳】

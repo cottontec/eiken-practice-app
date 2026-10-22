@@ -1,6 +1,7 @@
 ---
 choices: clumsy | rigid | nosy | sober
 answerText: clumsy
+reviewed: yes
 ---
 【正解】1 clumsy（そそっかしい、不器用な）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: filthy | cuddly | floppy | solitary
 answerText: filthy
+reviewed: yes
 ---
 【正解】1 filthy（ひどく汚い）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: procedure | altitude | expertise | trickery
 answerText: altitude
+reviewed: yes
 ---
 【正解】2 altitude（高度、高さ）
 【和訳】

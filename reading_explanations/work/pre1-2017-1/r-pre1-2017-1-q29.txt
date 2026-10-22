@@ -1,6 +1,7 @@
 ---
 choices: In response to this | Contrary to this | For example | Even so
 answerText: In response to this
+reviewed: yes
 ---
 【正解】1 In response to this（これを受けて、これに対応して）
 【和訳】

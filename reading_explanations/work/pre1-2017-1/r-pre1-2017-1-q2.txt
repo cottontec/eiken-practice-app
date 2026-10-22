@@ -1,6 +1,7 @@
 ---
 choices: prosper | formulate | proclaim | lodge
 answerText: prosper
+reviewed: yes
 ---
 【正解】1 prosper（繁盛する、栄える）
 【和訳】

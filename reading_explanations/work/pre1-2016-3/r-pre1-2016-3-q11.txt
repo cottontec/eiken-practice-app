@@ -1,6 +1,7 @@
 ---
 choices: cowardly | mainstream | feeble | dutiful
 answerText: mainstream
+reviewed: yes
 ---
 【正解】2 mainstream（主流の、多くの人に好まれている）
 【和訳】

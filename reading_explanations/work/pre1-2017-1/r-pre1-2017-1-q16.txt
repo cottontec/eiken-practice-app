@@ -1,6 +1,7 @@
 ---
 choices: disarray | permanence | friction | precision
 answerText: precision
+reviewed: yes
 ---
 【正解】4 precision（正確さ、精密さ）
 【和訳】

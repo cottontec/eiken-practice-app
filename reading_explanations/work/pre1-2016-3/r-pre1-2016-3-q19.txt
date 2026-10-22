@@ -1,6 +1,7 @@
 ---
 choices: carved | scattered | escorted | restructured
 answerText: escorted
+reviewed: yes
 ---
 【正解】3 escorted（護衛した、付き添って守った）
 【和訳】

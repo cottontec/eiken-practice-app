@@ -1,6 +1,7 @@
 ---
 choices: looked down on | added up to | fell back on | got on with
 answerText: added up to
+reviewed: yes
 ---
 【正解】2 added up to（合わさって～になった、結局～ということになった）
 【和訳】

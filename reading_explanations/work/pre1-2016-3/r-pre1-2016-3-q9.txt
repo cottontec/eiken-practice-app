@@ -1,6 +1,7 @@
 ---
 choices: mystifying | trespassing | misplacing | accelerating
 answerText: accelerating
+reviewed: yes
 ---
 【正解】4 accelerating（速めている、早めている）
 【和訳】

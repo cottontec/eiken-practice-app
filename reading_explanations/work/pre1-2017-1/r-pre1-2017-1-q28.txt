@@ -1,6 +1,7 @@
 ---
 choices: had an unexpected effect on fans | actually made regulation stricter | had serious consequences for wrestlers | still has not led to the desired outcome
 answerText: had serious consequences for wrestlers
+reviewed: yes
 ---
 【正解】3 had serious consequences for wrestlers（レスラーたちに深刻な結果をもたらした）
 【和訳】

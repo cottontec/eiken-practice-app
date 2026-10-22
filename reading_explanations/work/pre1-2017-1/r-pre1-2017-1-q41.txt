@@ -1,6 +1,7 @@
 ---
 choices: They tend to demonstrate a way of thinking that is similar to an attitude encouraged by religions. | They should seek the advice of doctors regarding their diet because the foods they tend to eat are less healthy than they think. | They have little in common with vegans or vegetarians because there is no philosophical element to orthorexia. | They need support from churches and other religious organizations because treatments with a spiritual element are more effective.
 answerText: They tend to demonstrate a way of thinking that is similar to an attitude encouraged by religions.
+reviewed: yes
 ---
 【正解】1 They tend to demonstrate a way of thinking that is similar to an attitude encouraged by religions.（オルトレキシアに苦しむ人は、宗教が勧める態度に似た考え方を示す傾向がある。）
 【和訳】

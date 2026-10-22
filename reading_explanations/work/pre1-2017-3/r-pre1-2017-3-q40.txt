@@ -1,0 +1,33 @@
+---
+choices: Adding it to 3D-printed tissue helps researchers see which parts of the tissue might need more nutrients. | Once it has been used to create a structure that 3D-printed tissue can be built around, it can easily be removed. | It is capable of flowing to all types of cells in 3D-printed tissue in order to supply them with nutrients. | Because of its unusual properties, it allows 3D-printed tissue to be frozen and stored safely.
+answerText: Once it has been used to create a structure that 3D-printed tissue can be built around, it can easily be removed.
+---
+【正解】2 Once it has been used to create a structure that 3D-printed tissue can be built around, it can easily be removed.（3Dプリンターで作る組織をそのまわりに組み立てられるような構造を作るのにいったん使われたら、簡単に取り除くことができるから。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Why is Pluronic ink useful in the 3D-printing process?（3Dプリンティングの工程で、プルロニック・インクはなぜ役に立つのか。）
+1 Adding it to 3D-printed tissue helps researchers see which parts of the tissue might need more nutrients.（3Dプリンターで作った組織にそれを加えると、組織のどの部分がもっと栄養を必要としているかもしれないかを、研究者が見分ける助けになるから。）
+2 Once it has been used to create a structure that 3D-printed tissue can be built around, it can easily be removed.（3Dプリンターで作る組織をそのまわりに組み立てられるような構造を作るのにいったん使われたら、簡単に取り除くことができるから。）
+3 It is capable of flowing to all types of cells in 3D-printed tissue in order to supply them with nutrients.（3Dプリンターで作った組織の中のあらゆる種類の細胞に栄養を届けるために、それらの細胞まで流れていくことができるから。）
+4 Because of its unusual properties, it allows 3D-printed tissue to be frozen and stored safely.（そのめずらしい性質のおかげで、3Dプリンターで作った組織を凍らせて安全に保存できるから。）
+【考え方】
+まず見るところ：第3段落の Pluronic ink is unique because it is a solid at room temperature but becomes a liquid when cooled と、which can then simply be sucked out
+第3段落では、まずプルロニック・インクの性質が書かれています。
+Most types of gel harden when the temperature becomes colder, but Pluronic ink is unique because it is a solid at room temperature but becomes a liquid when cooled.（ほとんどの種類のゲルは温度が低くなると固まるが、プルロニック・インクは、室温では固体なのに、冷やすと液体になるという点で独特である）
+続いて、ルイスの作業の順番が説明されています。インクで血管の立体的な複製を印刷し、そのまわりに臓器の細胞組織を印刷します。そのあとが次の文です。
+Lewis then lowers the temperature so that the Pluronic ink becomes a liquid, which can then simply be sucked out.（それからルイスは温度を下げてプルロニック・インクを液体にする。そうなれば、その液体はただ吸い出すだけでよい）
+suck out は「吸い出す」です。インクを抜いたあとの空いた空間が、血管の通り道になります。
+本文と選択肢を対にすると、次のようになります。
+本文 prints out a 3D copy of them using Pluronic ink ～ prints the new organ cell tissue around the Pluronic ink（インクで血管の複製を印刷し、そのまわりに細胞組織を印刷する）＝ 選択肢 used to create a structure that 3D-printed tissue can be built around（組織をそのまわりに組み立てられる構造を作るのに使われる）
+本文 can then simply be sucked out（ただ吸い出すだけでよい）＝ 選択肢 it can easily be removed（簡単に取り除くことができる）
+ですから2が正解です。
+この問題の型：言いかえ（simply be sucked out → easily be removed）
+【ほかの選択肢】
+1 本文に書かれていません。プルロニック・インクは血管の形を作るために使われるもので、組織のどの部分が栄養を必要としているかを見分けるという話はありません。
+3 本文と合いません。プルロニック・インクは液体にしたあと吸い出されます。組織に栄養を運ぶのは、インクを抜いたあとにできた管で、インクそのものが細胞に栄養を届けるのではありません。
+4 本文に書かれていません。めずらしい性質とは「冷やすと液体になる」ことで、それはインクを取り除くために使われます。組織を凍らせて保存するという話はありません。
+【覚えるポイント】
+・suck out：「吸い出す」。選択肢では be removed（取り除かれる）と言いかえられています。
+・「なぜ役に立つのか」をたずねる設問では、作業の順番（then、Next、Finally など）を追って、その物が工程のどこで何のために使われているかを確かめるのが手がかりになります。

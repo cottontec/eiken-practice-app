@@ -1,6 +1,7 @@
 ---
 choices: intentionally | divinely | foolishly | brilliantly
 answerText: intentionally
+reviewed: yes
 ---
 【正解】1 intentionally（わざと、意図的に）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: Governments of towns and cities believed they could gain influence in technology industries if they shared more information. | Governments thought cultural-exchange programs should be handled by towns and cities rather than by countries. | Creating relationships between towns and cities was seen as a way to repair damaged relations between countries. | It was thought that business partnerships between towns and cities could improve economic conditions after World War II.
 answerText: Creating relationships between towns and cities was seen as a way to repair damaged relations between countries.
+reviewed: yes
 ---
 【正解】3 Creating relationships between towns and cities was seen as a way to repair damaged relations between countries.（町や市の間に関係を作ることが、損なわれた国と国との関係を修復する方法だと考えられた。）
 【和訳】

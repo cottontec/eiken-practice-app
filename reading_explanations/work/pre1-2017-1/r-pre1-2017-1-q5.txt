@@ -1,6 +1,7 @@
 ---
 choices: unconscious | immaterial | unreasonable | inventive
 answerText: inventive
+reviewed: yes
 ---
 【正解】4 inventive（創意に富んだ、発想が豊かな）
 【和訳】

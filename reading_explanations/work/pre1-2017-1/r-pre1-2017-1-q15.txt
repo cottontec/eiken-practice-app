@@ -1,6 +1,7 @@
 ---
 choices: endorse | discard | exert | magnify
 answerText: discard
+reviewed: yes
 ---
 【正解】2 discard（捨てる）
 【和訳】
