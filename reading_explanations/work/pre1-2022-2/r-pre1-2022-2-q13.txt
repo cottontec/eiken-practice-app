@@ -1,0 +1,29 @@
+---
+choices: dehydrated | eternal | punctuated | cautious
+answerText: dehydrated
+---
+【正解】1 dehydrated（脱水状態の、体の水分が足りない）
+【和訳】
+（英文）
+In order to avoid becoming ［dehydrated］ while exercising, one should always drink enough water. The longer the workout, the more water is necessary.
+（訳）
+運動している間に（脱水状態に）ならないように、人はいつも十分な水を飲むべきだ。運動が長くなればなるほど、より多くの水が必要になる。
+（選択肢の意味）
+1 dehydrated：脱水状態の（体の水分が足りない）
+2 eternal：永遠の
+3 punctuated：（ときどき）中断された、句読点を打たれた
+4 cautious：用心深い、慎重な
+【考え方】
+まず見るところ：空所のあとの drink enough water と、あとの文の the more water is necessary
+In order to avoid becoming (　) while exercising, one should always drink enough water.（運動している間に（　）にならないように、人はいつも十分な水を飲むべきだ）
+in order to avoid ～ing は「～しないように、～を避けるために」という意味です。つまり「（　）になる」ことを防ぐために水を飲む、という関係です。
+The longer the workout, the more water is necessary.（運動が長くなればなるほど、より多くの水が必要になる）
+The 比較級 ～, the 比較級 ... は「～すればするほど…」という形です。水を飲んで防ぐのは、体の水分が足りなくなることです。dehydrated は「脱水状態の」なので、1が正解です。
+この問題の型：因果（水を飲む → 脱水状態を防ぐ）
+【ほかの選択肢】
+2 eternal は「永遠の」です。「運動中に永遠にならないように」となり、意味が通りません。
+3 punctuated は「（ときどき）中断された」です。「中断された状態にならないように水を飲む」では、水を飲むこととつながりません。
+4 cautious は「用心深い」です。用心深くなることは避けるべきことではなく、水を飲むこととも関係がありません。
+【覚えるポイント】
+・dehydrated：「脱水状態の」。in order to avoid ～ing：「～しないように」。The 比較級 ～, the 比較級 ...：「～すればするほど…」。
+・avoid（避ける）のあとに空所があり、その対策として drink water（水を飲む）のような行動が書かれているときは、「その行動で防げるよくない状態」を表す語を探します。

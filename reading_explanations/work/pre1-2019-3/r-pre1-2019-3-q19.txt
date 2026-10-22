@@ -1,6 +1,7 @@
 ---
 choices: restrained | crouched | proclaimed | enveloped
 answerText: proclaimed
+reviewed: yes
 ---
 【正解】3 proclaimed（（公式に）宣言された）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: shape up | brush off | fall through | make do
 answerText: shape up
+reviewed: yes
 ---
 【正解】1 shape up（行いを改める、しっかりする）
 【和訳】

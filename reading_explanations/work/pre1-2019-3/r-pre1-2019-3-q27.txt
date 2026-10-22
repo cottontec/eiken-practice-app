@@ -1,6 +1,7 @@
 ---
 choices: could mean trouble for humans | contains an unexpected addition | is less varied than previously thought | leads them to swim in dangerous areas
 answerText: contains an unexpected addition
+reviewed: yes
 ---
 【正解】2 contains an unexpected addition（思いがけない追加の品目が含まれている）
 【和訳】

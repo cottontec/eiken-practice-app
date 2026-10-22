@@ -1,6 +1,7 @@
 ---
 choices: underlying | hoarse | ecstatic | miniature
 answerText: underlying
+reviewed: yes
 ---
 【正解】1 underlying（根本にある、根底の）
 【和訳】

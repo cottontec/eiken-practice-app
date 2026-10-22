@@ -1,6 +1,7 @@
 ---
 choices: committed | enacted | distinguished | provoked
 answerText: distinguished
+reviewed: yes
 ---
 【正解】3 distinguished（distinguish oneself で「際立つ、名をあげる」）
 【和訳】

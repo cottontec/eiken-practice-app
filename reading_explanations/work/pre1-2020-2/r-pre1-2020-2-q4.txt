@@ -1,6 +1,7 @@
 ---
 choices: compensated | deployed | amended | worshipped
 answerText: compensated
+reviewed: yes
 ---
 【正解】1 compensated（補償した）
 【和訳】

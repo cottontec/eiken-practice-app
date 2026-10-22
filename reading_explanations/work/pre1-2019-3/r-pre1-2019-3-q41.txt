@@ -1,6 +1,7 @@
 ---
 choices: They can increase antioxidants' effectiveness in improving the health of people who are not receiving enough nutrition. | They are released after a person consumes certain vitamins to ensure that those vitamins go where they are needed in the body. | They play an important role in the immune system because they seek out and eliminate threats to healthy cells. | They are similar to viruses and bacteria in that they can actually be made stronger by the presence of antioxidants.
 answerText: They play an important role in the immune system because they seek out and eliminate threats to healthy cells.
+reviewed: yes
 ---
 【正解】3 They play an important role in the immune system because they seek out and eliminate threats to healthy cells.（フリーラジカルは、健康な細胞をおびやかすものを探し出して取り除くので、免疫の仕組みの中で大切な役割を果たしている。）
 【和訳】

@@ -1,0 +1,30 @@
+---
+choices: turmoil | sarcasm | upkeep | heritage
+answerText: turmoil
+---
+【正解】1 turmoil（大混乱、騒ぎ）
+【和訳】
+（英文）
+A report that one of the company's products was dangerous caused ［turmoil］ in the office. Many employees were fired, and others worked nonstop to address the legal problems caused by the report.
+（訳）
+その会社の製品の1つが危険だという報告は、職場に（大混乱）を引き起こした。多くの社員が解雇され、ほかの社員は、その報告によって生じた法律上の問題に対処するため、休みなく働いた。
+（選択肢の意味）
+1 turmoil：大混乱、騒ぎ
+2 sarcasm：皮肉、いやみ
+3 upkeep：（建物などの）維持、手入れ
+4 heritage：（昔から受け継がれてきた）遺産
+【考え方】
+まず見るところ：空所のあとの文 Many employees were fired, and others worked nonstop
+空所のある文では、「製品が危険だ」という報告が職場に何かを引き起こしたと書かれています。何が起きたかは、次の文に具体的に書かれています。
+Many employees were fired（多くの社員が解雇された）
+and others worked nonstop to address the legal problems caused by the report（そして、ほかの社員は、その報告によって生じた法律上の問題に対処するため、休みなく働いた）
+be fired は「解雇される（仕事を辞めさせられる）」、address は「（問題に）取り組む、対処する」です。
+大勢が解雇され、残った人は休みなく働くというのは、職場がひどく混乱しているようすです。turmoil は「大混乱、騒ぎ」なので、1が正解です。
+この問題の型：具体例とまとめ（解雇・休みなく働く → 大混乱）
+【ほかの選択肢】
+2 sarcasm は「皮肉、いやみ」です。「報告が職場に皮肉を引き起こした」となり、あとの文の解雇や休みなく働いたことの説明とつながりません。
+3 upkeep は「維持、手入れ」です。「報告が職場に維持を引き起こした」では意味が通りません。
+4 heritage は「遺産」です。「報告が職場に遺産を引き起こした」では意味が通りません。
+【覚えるポイント】
+・cause turmoil：「大混乱を引き起こす」。be fired：「解雇される」。address a problem：「問題に対処する」。
+・空所の語が「何が起きたか」を表し、次の文にその中身が書かれているときは、次の文の出来事をひと言でまとめる語を探すことが手がかりになります。

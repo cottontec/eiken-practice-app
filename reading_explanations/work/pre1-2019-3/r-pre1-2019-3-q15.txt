@@ -1,6 +1,7 @@
 ---
 choices: buzzed | endorsed | tapped | slammed
 answerText: buzzed
+reviewed: yes
 ---
 【正解】1 buzzed（ざわめいた、活気づいた）
 【和訳】

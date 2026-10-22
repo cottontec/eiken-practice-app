@@ -1,6 +1,7 @@
 ---
 choices: backed up | ran down | came off | hung on
 answerText: came off
+reviewed: yes
 ---
 【正解】3 came off（うまくいった、成功した）
 【和訳】

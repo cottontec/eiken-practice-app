@@ -1,6 +1,7 @@
 ---
 choices: consuming them as supplements does not offer the illness-fighting benefits claimed by Pauling, and can even be harmful to one's health. | consuming higher doses of them as supplements is more effective for preventing disease than taking small doses. | the problem Pauling was attempting to solve with his research was not actually a real one. | smokers should consume beta carotene supplements along with vitamin A and E supplements to reduce the risk of certain diseases.
 answerText: consuming them as supplements does not offer the illness-fighting benefits claimed by Pauling, and can even be harmful to one's health.
+reviewed: yes
 ---
 【正解】1 consuming them as supplements does not offer the illness-fighting benefits claimed by Pauling, and can even be harmful to one's health.（抗酸化物質をサプリメントとしてとっても、ポーリングが主張したような病気と戦う効果は得られず、健康に害を与えることさえありうる。）
 【和訳】

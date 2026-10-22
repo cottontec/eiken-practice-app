@@ -1,6 +1,7 @@
 ---
 choices: It helped Swiss companies increase their market share, enabling them to become the industry leaders. | While Swiss watches were well made, they were unable to compete with quartz ones in terms of accuracy and cost. | Although some thought quartz technology was inferior and doubted its appeal, it was quickly adopted by Swiss watchmakers. | It threatened only lesser-known makers of cheap Swiss watches, and drove them out of the market.
 answerText: While Swiss watches were well made, they were unable to compete with quartz ones in terms of accuracy and cost.
+reviewed: yes
 ---
 【正解】2 While Swiss watches were well made, they were unable to compete with quartz ones in terms of accuracy and cost.（スイスの時計はよくできていたが、正確さと価格の点でクオーツ時計に太刀打ちできなかった。）
 【和訳】
@@ -18,7 +19,7 @@ answerText: While Swiss watches were well made, they were unable to compete with
 Their mechanical timepieces, famous for reliability, used a complex system of springs and gears to keep time.（信頼性の高さで有名なスイスの機械式時計は、ばねと歯車の複雑なしくみを使って時を刻んでいた）
 スイスの時計は、よくできた信頼できるものだったことが分かります。
 次に、クオーツ技術が何をもたらしたかを見ます。
-This led to battery-powered watches that were cheaper and more precise.（これにより、（機械式時計より）安く、より正確な電池式の腕時計が生まれた）
+This led to battery-powered watches that were cheaper and more precise.（これにより、より安く、より正確な電池式の腕時計が生まれた）
 Swiss companies were slow to respond, ～ and Swiss watch exports fell sharply.（スイスの会社は対応が遅く、スイスの時計の輸出は急激に落ちこんだ）
 クオーツ時計の方が安くて正確だったため、スイスの時計は売れなくなりました。
 本文と選択肢2を対にすると、次のようになります。
@@ -29,7 +30,7 @@ Swiss companies were slow to respond, ～ and Swiss watch exports fell sharply.�
 この問題の型：言いかえ（cheaper and more precise→accuracy and cost）／因果（安くて正確なクオーツ時計→スイスの輸出が落ちた）
 【ほかの選択肢】
 1 本文と合いません。クオーツ技術が広まると、スイスの時計の輸出は急激に落ちこみ、有名なブランドが廃業しました。スイスの会社が割合を増やして先頭に立ったのではありません。
-3 後半が本文と合いません。前半の「劣っていると考えた」は、スイスのメーカーが looked down on the lower technical skill（技術の水準が低いことを見下していた）とあるので一部は合います。しかし本文は Swiss companies were slow to respond（スイスの会社は対応が遅かった）と述べており、「すぐに取り入れられた」のではありません。
+3 後半が本文と合いません。前半の「劣っていると考えた」は、スイスのメーカーが looked down on the lower technical skill（技術の低さを見下していた）とあるので一部は合います。しかし本文は Swiss companies were slow to respond（スイスの会社は対応が遅かった）と述べており、「すぐに取り入れられた」のではありません。
 4 本文と合いません。本文には World-famous brands were put out of business（世界的に有名なブランドが廃業に追いこまれた）とあり、おびやかされたのはあまり有名でないメーカーだけではありません。
 【覚えるポイント】
 ・in terms of ～：「～の点で」。cheaper（より安い）は cost（価格）、more precise（より正確な）は accuracy（正確さ）と言いかえられています。

@@ -1,6 +1,7 @@
 ---
 choices: Rising temperatures have made it difficult for plant and animal populations to grow significantly. | The high salt content in the soil has destroyed large areas of peat deposits, preventing the growth of plants. | The failure of organic matter to decay fully has resulted in the ground lacking nutrients. | Strong winds blow trees down too quickly for them to develop in numbers large enough for a forest to form.
 answerText: The failure of organic matter to decay fully has resulted in the ground lacking nutrients.
+reviewed: yes
 ---
 【正解】3 The failure of organic matter to decay fully has resulted in the ground lacking nutrients.（有機物が完全に分解されないために、地面の栄養分が足りなくなっている。）
 【和訳】

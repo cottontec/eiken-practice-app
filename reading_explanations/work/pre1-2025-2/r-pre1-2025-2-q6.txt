@@ -1,0 +1,31 @@
+---
+choices: indifferently | appealingly | abruptly | timidly
+answerText: abruptly
+---
+【正解】3 abruptly（突然、不意に）
+【和訳】
+（英文）
+Kevin nearly drove into the truck in front of him when it stopped ［abruptly］. He stepped hard on the brakes and just managed to avoid crashing into it.
+（訳）
+前にいたトラックが（突然）止まったとき、ケビンはもう少しでそのトラックに突っこむところだった。彼はブレーキを強く踏み、ぎりぎりのところでなんとかぶつかるのを避けた。
+（選択肢の意味）
+1 indifferently：無関心に、どうでもよさそうに
+2 appealingly：魅力的に、訴えかけるように
+3 abruptly：突然、不意に
+4 timidly：おずおずと、こわごわ
+【考え方】
+まず見るところ：空所の前の nearly drove into the truck と、次の文の stepped hard on the brakes
+空所のある文は、次のとおりです。
+Kevin nearly drove into the truck in front of him when it stopped (　).（前のトラックが（　）止まったとき、ケビンはもう少しでそのトラックに突っこむところだった）
+nearly は「もう少しで（～するところだった）」、drive into ～ は「（車で）～に突っこむ」です。it は the truck（トラック）を指します。前のトラックの止まり方のせいで、ぶつかりそうになったのです。
+次の文は、次のとおりです。
+He stepped hard on the brakes and just managed to avoid crashing into it.（彼はブレーキを強く踏み、ぎりぎりのところでなんとかぶつかるのを避けた）
+ブレーキを強く踏まなければならなかったのですから、トラックは前ぶれなく急に止まったと考えられます。abruptly は「突然、不意に」なので、3が正解です。
+この問題の型：因果（トラックが突然止まった → ぶつかりそうになった）
+【ほかの選択肢】
+1 indifferently は「無関心に、どうでもよさそうに」です。「トラックが無関心に止まった」となり、ぶつかりそうになった理由になりません。
+2 appealingly は「魅力的に、訴えかけるように」です。「トラックが魅力的に止まった」となり、意味が通りません。
+4 timidly は「おずおずと、こわごわ」です。こわごわ止まるのはゆっくりした止まり方を思わせ、ブレーキを強く踏まないとぶつかるほど急だった様子と合いません。
+【覚えるポイント】
+・abruptly：「突然、不意に」。形容詞は abrupt（突然の）。
+・動作のしかたを表す語が空所のときは、その結果として何が起きたか（ここでは stepped hard on the brakes）を見ると、どんな様子の語が入るかの手がかりになります。

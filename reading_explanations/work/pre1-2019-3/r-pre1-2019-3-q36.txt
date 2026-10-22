@@ -1,6 +1,7 @@
 ---
 choices: native people allowed their animals to eat young trees in an attempt to make living conditions difficult for the Vikings. | the Vikings destroyed forested areas because they wanted to utilize the land for agricultural purposes. | native people attempted to escape the Vikings by cutting down large areas of forest to build boats for themselves. | the Vikings' heavy use of peat in certain activities led forested areas to eventually be taken over by peat growth.
 answerText: the Vikings destroyed forested areas because they wanted to utilize the land for agricultural purposes.
+reviewed: yes
 ---
 【正解】2 the Vikings destroyed forested areas because they wanted to utilize the land for agricultural purposes.（バイキングが、土地を農業に使いたかったために森林地帯をこわしたこと。）
 【和訳】

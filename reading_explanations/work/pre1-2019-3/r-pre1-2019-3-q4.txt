@@ -1,6 +1,7 @@
 ---
 choices: expansively | abstractly | deliberately | bashfully
 answerText: deliberately
+reviewed: yes
 ---
 【正解】3 deliberately（わざと、故意に）
 【和訳】

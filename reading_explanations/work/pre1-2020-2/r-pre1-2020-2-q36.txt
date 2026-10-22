@@ -1,6 +1,7 @@
 ---
 choices: They produced fewer types of watches in order to better compete with Swiss makers in the mechanical watch market. | They partnered with Swiss watchmakers so that they could move their production to Switzerland to reduce overall costs. | They constantly added new models of quartz watches so that Swiss watchmakers could not keep up with the changes. | They combined quartz technology with traditional Swiss watch technology to appeal to consumers in the mechanical watch market.
 answerText: They produced fewer types of watches in order to better compete with Swiss makers in the mechanical watch market.
+reviewed: yes
 ---
 【正解】1 They produced fewer types of watches in order to better compete with Swiss makers in the mechanical watch market.（機械式時計の市場でスイスのメーカーとよりうまく競争するために、作る時計の種類を減らした。）
 【和訳】

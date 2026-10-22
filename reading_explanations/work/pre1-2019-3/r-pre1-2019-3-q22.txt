@@ -1,6 +1,7 @@
 ---
 choices: get down to | send out for | walk off with | grow out of
 answerText: get down to
+reviewed: yes
 ---
 【正解】1 get down to（（本気で）～に取りかかる）
 【和訳】

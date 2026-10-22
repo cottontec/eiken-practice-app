@@ -1,6 +1,7 @@
 ---
 choices: Although he was mistaken about the effect of vitamin C on colds, his research led to treatments for other diseases. | His discovery about vitamins was only possible because he was familiar with various branches of science. | His claim about vitamin C contradicted past conclusions he had made about chemical bonds and the structure of proteins. | The fame he had achieved as a scientist led people to accept his idea in spite of a lack of evidence to support it.
 answerText: The fame he had achieved as a scientist led people to accept his idea in spite of a lack of evidence to support it.
+reviewed: yes
 ---
 【正解】4 The fame he had achieved as a scientist led people to accept his idea in spite of a lack of evidence to support it.（彼が科学者として得ていた名声のために、それを裏づける証拠がないにもかかわらず、人々は彼の考えを受け入れた。）
 【和訳】

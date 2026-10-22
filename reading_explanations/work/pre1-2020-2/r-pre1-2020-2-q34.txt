@@ -1,6 +1,7 @@
 ---
 choices: might prevent the spread of superbugs but would do more harm than good to many communities. | would result in people both breaking the law to obtain the drugs and further polluting waterways. | is unrealistic because of the large influence pharmaceutical manufacturers have on the country's economy. | should take priority over more long-term tasks such as cleaning up the Ganges River and other waterways.
 answerText: might prevent the spread of superbugs but would do more harm than good to many communities.
+reviewed: yes
 ---
 【正解】1 might prevent the spread of superbugs but would do more harm than good to many communities.（スーパーバグの広がりを防ぐかもしれないが、多くの地域社会にとっては、よいことより害の方が大きいだろう。）
 【和訳】

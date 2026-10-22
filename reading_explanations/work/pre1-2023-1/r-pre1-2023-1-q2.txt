@@ -1,0 +1,33 @@
+---
+choices: cramming | detaining | swelling | embracing
+answerText: cramming
+---
+【正解】1 cramming（詰めこみ勉強をすること）
+【和訳】
+（英文）
+Students are advised to pace their studying throughout the semester instead of ［cramming］ right before their exams.
+（訳）
+学生は、試験の直前に（詰めこみ勉強をする）のではなく、学期を通して勉強のペースを配分するように勧められている。
+（選択肢の意味）
+1 cramming：詰めこみ勉強をすること
+2 detaining：引き止めること、拘束すること
+3 swelling：ふくらむこと、はれること
+4 embracing：抱きしめること、受け入れること
+【考え方】
+まず見るところ：空所の前の instead of と、空所のあとの right before their exams
+最初に、文の前半を確かめます。
+Students are advised to pace their studying throughout the semester（学生は、学期を通して勉強のペースを配分するように勧められている）
+pace は「ペースを調整する」、semester は「学期」です。「学期の間ずっと、少しずつ勉強を進める」ということです。
+次に、空所のまわりを見ます。
+instead of ( ) right before their exams（試験の直前に（　）するのではなく）
+instead of ～ は「～の代わりに、～ではなく」という意味で、前の内容と反対のやり方が来ます。「学期を通して少しずつ勉強する」の反対は、「試験の直前にまとめて勉強する」ことです。
+cram は「（短い時間に）詰めこみ勉強をする」という意味なので、1が正解です。
+この問題の型：対比（instead of：学期を通して少しずつ⇔試験の直前にまとめて）
+【ほかの選択肢】
+2 detaining は「（人を）引き止めること、拘束すること」です。「試験の直前に引き止めるのではなく」となり、勉強のしかたの話になりません。
+3 swelling は「ふくらむこと、はれること」です。「試験の直前にふくらむのではなく」では、勉強のペースの話とつながりません。
+4 embracing は「抱きしめること、（考えなどを）受け入れること」です。何を受け入れるのかも分からず、「学期を通して勉強する」の反対のやり方になりません。
+【覚えるポイント】
+・cram：「（試験の前に）詰めこみ勉強をする」。
+・pace one's studying：「勉強のペースを配分する」。
+・instead of ～ のあとには、文の前半と反対のやり方や行動が来るので、前半の内容（ここでは throughout the semester）と反対になる語を探すと手がかりになります。

@@ -1,6 +1,7 @@
 ---
 choices: were able to travel so far | select individual birds | gained access to these animals | could survive in such rough conditions
 answerText: gained access to these animals
+reviewed: yes
 ---
 【正解】3 gained access to these animals（これらの動物を手に入れていた）
 【和訳】

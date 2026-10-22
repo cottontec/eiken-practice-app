@@ -1,6 +1,7 @@
 ---
 choices: could be good news for shipowners | generally went unreported | were rarer than once thought | led to an additional problem
 answerText: could be good news for shipowners
+reviewed: yes
 ---
 【正解】1 could be good news for shipowners（船主にとってはよい知らせになりえた）
 【和訳】

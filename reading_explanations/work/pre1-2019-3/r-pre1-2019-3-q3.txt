@@ -1,6 +1,7 @@
 ---
 choices: proficient | vigorous | extensive | insistent
 answerText: proficient
+reviewed: yes
 ---
 【正解】1 proficient（堪能な、熟達した）
 【和訳】

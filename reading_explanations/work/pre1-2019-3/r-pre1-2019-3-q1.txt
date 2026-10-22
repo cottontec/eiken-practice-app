@@ -1,6 +1,7 @@
 ---
 choices: fury | shrinkage | galaxy | era
 answerText: fury
+reviewed: yes
 ---
 【正解】1 fury（猛威（荒れくるう激しい力））
 【和訳】

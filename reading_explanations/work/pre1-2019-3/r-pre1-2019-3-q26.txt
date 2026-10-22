@@ -1,6 +1,7 @@
 ---
 choices: In short | In spite of this | Alternatively | Furthermore
 answerText: In short
+reviewed: yes
 ---
 【正解】1 In short（要するに、手短に言えば）
 【和訳】

@@ -1,0 +1,28 @@
+---
+choices: desperate | philosophical | inadequate | instrumental
+answerText: instrumental
+---
+【正解】4 instrumental（重要な役割を果たす、大いに役立つ）
+【和訳】
+（英文）
+Fernando has been ［instrumental］ to the success of the company, so everyone is worried about what will happen after he quits next month.
+（訳）
+フェルナンドはこれまで、会社の成功に（重要な役割を果たして）きたので、来月彼が辞めたあとどうなるのかを、みんなが心配しています。
+（選択肢の意味）
+1 desperate：必死の、追いつめられた
+2 philosophical：哲学の、哲学的な（物事の根本を深く考えるような）
+3 inadequate：不十分な、力不足の
+4 instrumental：重要な役割を果たす、大いに役立つ
+【考え方】
+まず見るところ：文の後半の so everyone is worried about what will happen after he quits next month
+文の後半は so（だから）で始まっています。so の前が理由、後ろがその結果です。
+so everyone is worried about what will happen after he quits next month（だから、来月彼が辞めたあとどうなるのかを、みんなが心配している）
+フェルナンドが辞めるとみんなが心配するのは、彼が会社にとって欠かせない人だったからだと考えられます。has been は「これまでずっと～である」という意味です。be instrumental to ～ で「～に重要な役割を果たす」となり、「これまで会社の成功に重要な役割を果たしてきた」という理由になるので、4が正解です。
+この問題の型：因果（so の前が理由、後ろが結果）
+【ほかの選択肢】
+1 desperate は「必死の、追いつめられた」です。「会社の成功に必死だった」と考えても、必死だったというだけでは、彼が辞めたあと会社がどうなるかをみんなが心配する理由として、つながりが弱くなります。
+2 philosophical は「哲学的な」です。「会社の成功に哲学的だった」となり、意味が通りません。
+3 inadequate は「不十分な、力不足の」です。力不足だった人が辞めるのであれば、みんなが会社の先行きを心配する理由になりません。
+【覚えるポイント】
+・be instrumental to（in）～：「～に重要な役割を果たす、～に大いに役立つ」。
+・so（だから）で結ばれた文では、後ろの結果（ここでは「辞めたらみんなが心配する」）から逆にたどると、前半に入る人物の評価が決まる手がかりになります。

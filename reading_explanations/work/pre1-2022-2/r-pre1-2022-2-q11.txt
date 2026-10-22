@@ -1,0 +1,29 @@
+---
+choices: division | appliance | imposition | longitude
+answerText: division
+---
+【正解】1 division（分裂、分けること）
+【和訳】
+（英文）
+Biology students must learn how cell ［division］ works, as this process of a single cell splitting into two is commonly found in nature.
+（訳）
+生物学を学ぶ学生は、細胞（分裂）がどのようにして起こるのかを学ばなければならない。1つの細胞が2つに分かれるこの過程は、自然界でよく見られるものだからだ。
+（選択肢の意味）
+1 division：分裂、分けること
+2 appliance：（家庭用の）電気器具
+3 imposition：（税や決まりを）課すこと、押しつけ
+4 longitude：経度（地球上の東西の位置を表す数値）
+【考え方】
+まず見るところ：あとの this process of a single cell splitting into two
+this process of a single cell splitting into two（1つの細胞が2つに分かれるこの過程）
+cell は「細胞（生き物の体をつくっている、とても小さな単位）」、split into two は「2つに分かれる」という意味です。this process（この過程）は、前の how cell (　) works の cell (　) を指しています。
+how cell (　) works（細胞（　）がどのようにして起こるのか）
+「1つの細胞が2つに分かれること」を一言で表すのは cell division（細胞分裂）です。division は「分裂、分けること」なので、1が正解です。
+この問題の型：言いかえ（cell division → a single cell splitting into two）
+【ほかの選択肢】
+2 appliance は「（家庭用の）電気器具」です。「細胞の電気器具」では、「細胞が2つに分かれる過程」の説明と合いません。
+3 imposition は「課すこと、押しつけ」です。「細胞の押しつけ」では意味が通らず、2つに分かれることとも関係がありません。
+4 longitude は「経度」です。地図上の位置を表す言葉で、細胞が分かれる過程とは関係がありません。
+【覚えるポイント】
+・cell division：「細胞分裂」。split into two：「2つに分かれる」。
+・空所のあとに this process of ～（～というこの過程）のような説明が続くときは、その説明がそのまま空所の語の言いかえになっていることが多いので、まずそこを読みます。

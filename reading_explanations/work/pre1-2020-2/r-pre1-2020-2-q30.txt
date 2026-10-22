@@ -1,6 +1,7 @@
 ---
 choices: some cargo had to be reloaded | another inspection was necessary | the ship could be sailed safely | the sailors were all aboard
 answerText: the ship could be sailed safely
+reviewed: yes
 ---
 【正解】3 the ship could be sailed safely（その船は安全に航行できる）
 【和訳】

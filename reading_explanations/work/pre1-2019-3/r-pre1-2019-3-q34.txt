@@ -1,6 +1,7 @@
 ---
 choices: Drinking cassina offers greater health benefits than consuming other kinds of caffeinated beverages. | Chefs often claim that it goes better with their dishes than beverages such as tea and coffee do. | Increasing numbers of people want to consume products that are grown in their local area. | As droughts have caused tea and coffee production to decline, cassina should offer an affordable alternative.
 answerText: Increasing numbers of people want to consume products that are grown in their local area.
+reviewed: yes
 ---
 【正解】3 Increasing numbers of people want to consume products that are grown in their local area.（自分の住む地域で育てられた産物を消費したいと思う人が増えている。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: Therefore | Nonetheless | Alternatively | Regrettably
 answerText: Therefore
+reviewed: yes
 ---
 【正解】1 Therefore（したがって、それゆえ）
 【和訳】

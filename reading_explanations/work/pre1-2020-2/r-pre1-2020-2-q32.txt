@@ -1,6 +1,7 @@
 ---
 choices: The predicted increase in drug-resistant bacteria will be caused not only by antibiotics but by other drugs as well. | With enough exposure, bacteria will naturally become resistant to the antibiotics that are used to target them. | The rise of superbugs has resulted in more varieties of antibiotics being made available to patients worldwide. | Bacteria only develop resistance to antibiotics if their use is spread across a wide population of patients.
 answerText: With enough exposure, bacteria will naturally become resistant to the antibiotics that are used to target them.
+reviewed: yes
 ---
 【正解】2 With enough exposure, bacteria will naturally become resistant to the antibiotics that are used to target them.（十分にさらされれば、細菌は、自分たちをねらって使われる抗生物質に対して、自然に耐性を持つようになる。）
 【和訳】
@@ -15,11 +16,11 @@ answerText: With enough exposure, bacteria will naturally become resistant to th
 【考え方】
 まず見るところ：第1段落のフォーチュンの言葉 "It's just a fact of evolution—～"
 第1段落に、フォーチュンの言葉が引用されています。
-"It's just a fact of evolution—the more antibiotics that are around, the more bacteria has been exposed to antibiotics, the more opportunity they have to acquire these resistances,"（「それは単に進化の事実です。周りにある抗生物質が多ければ多いほど、そして抗生物質にさらされてきた細菌が多ければ多いほど、細菌がこうした耐性を身につける機会は多くなるのです」）
-the more ～, the more ... は「～すればするほど、ますます…」という形です。抗生物質にふれることが多いほど、細菌が耐性を身につける機会が増える、と言っています。
+"It's just a fact of evolution—the more antibiotics that are around, the more bacteria has been exposed to antibiotics, the more opportunity they have to acquire these resistances,"（「それは単に進化の事実です。周りにある抗生物質が多ければ多いほど、そして細菌が抗生物質にさらされることが多ければ多いほど、細菌がこうした耐性を身につける機会は多くなるのです」）
+the more ～, the more ... は「～すればするほど、ますます…」という形です。細菌が抗生物質にふれることが多いほど、耐性を身につける機会が増える、と言っています。
 本文と選択肢2を対にすると、次のようになります。
 本文 It's just a fact of evolution（単に進化の事実だ）→ 選択肢 naturally（自然に）
-本文 the more bacteria has been exposed to antibiotics（抗生物質にさらされてきた細菌が多いほど）→ 選択肢 With enough exposure（十分にさらされれば）
+本文 the more bacteria has been exposed to antibiotics（細菌が抗生物質にさらされることが多いほど）→ 選択肢 With enough exposure（十分にさらされれば）
 本文 acquire these resistances（こうした耐性を身につける）＝ 選択肢 become resistant（耐性を持つようになる）
 「進化の事実」とは、生き物が自然に変わっていくことなので、「自然に」と言いかえられています。よって2が正解です。
 この問題の型：言いかえ（acquire these resistances→become resistant）／熟語・決まった形（the more ～, the more ...）

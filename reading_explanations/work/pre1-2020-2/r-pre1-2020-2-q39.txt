@@ -1,6 +1,7 @@
 ---
 choices: flooding of the Colorado River suddenly became a much more serious problem than had originally been expected. | no one was able to predict that it would continue to be used for electricity generation so far into the future. | the water shortages it created in other areas were thought to be more significant than the benefits from irrigation and flood control. | it was hoped the money earned by selling the electricity it created could be used to cover some of the costs associated with building it.
 answerText: it was hoped the money earned by selling the electricity it created could be used to cover some of the costs associated with building it.
+reviewed: yes
 ---
 【正解】4 it was hoped the money earned by selling the electricity it created could be used to cover some of the costs associated with building it.（ダムが作る電気を売って得たお金を、建設にかかった費用の一部に充てられることが期待された。）
 【和訳】
@@ -25,7 +26,7 @@ were seen as ～ は「～だと考えられていた」、recover は「（使�
 この問題の型：言いかえ（recover some of the costs→cover some of the costs）／推論（発電能力で費用を取り戻す→電気を売ったお金で）
 【ほかの選択肢】
 1 本文にない内容です。本文には the frequently flooding Colorado River（ひんぱんに洪水を起こしていたコロラド川）とありますが、洪水が予想より急に深刻になったとは書かれていません。
-2 本文にない内容です。建設当時の人々が、ダムが将来どれくらい長く使われるかを予想できたかどうかは書かれていません。本文には over the long term（長い期間をかけて）とあり、むしろ長く使って費用を取り戻すことが考えられていました。
+2 本文にない内容です。建設当時の人々が、ダムが将来どれくらい長く使われるかを予想できたかどうかは書かれていません。本文には over the long term（長い期間をかけて）とあり、長い期間をかけて費用を取り戻すことが考えられていたと読めます。
 3 本文にない内容です。ダムがほかの地域で水不足を引き起こしたという話はなく、ダムはかんがいのための水の供給を保つために建設されたと書かれています。
 【覚えるポイント】
 ・recover the costs：「（かかった）費用を取り戻す」。選択肢では cover the costs（費用をまかなう）と言いかえられています。

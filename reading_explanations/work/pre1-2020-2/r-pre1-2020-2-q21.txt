@@ -1,6 +1,7 @@
 ---
 choices: hurdle | slot | anthem | dock
 answerText: dock
+reviewed: yes
 ---
 【正解】4 dock（波止場、埠頭）
 【和訳】

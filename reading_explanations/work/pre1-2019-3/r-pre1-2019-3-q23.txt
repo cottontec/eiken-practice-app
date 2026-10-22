@@ -1,6 +1,7 @@
 ---
 choices: points to | acts out | heads off | misses out
 answerText: points to
+reviewed: yes
 ---
 【正解】1 points to（～を示す、～の前ぶれとなる）
 【和訳】

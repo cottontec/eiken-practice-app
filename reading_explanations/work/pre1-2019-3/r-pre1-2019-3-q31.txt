@@ -1,6 +1,7 @@
 ---
 choices: Otherwise | In contrast | Surprisingly | Because of this
 answerText: Because of this
+reviewed: yes
 ---
 【正解】4 Because of this（このために）
 【和訳】

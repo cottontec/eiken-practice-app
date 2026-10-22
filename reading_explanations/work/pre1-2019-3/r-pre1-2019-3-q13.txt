@@ -1,6 +1,7 @@
 ---
 choices: remodeled | raided | doomed | knitted
 answerText: raided
+reviewed: yes
 ---
 【正解】2 raided（（警察が）踏みこんで捜索した、手入れをした）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: inaction | botany | anarchy | texture
 answerText: anarchy
+reviewed: yes
 ---
 【正解】3 anarchy（無政府状態、大混乱）
 【和訳】

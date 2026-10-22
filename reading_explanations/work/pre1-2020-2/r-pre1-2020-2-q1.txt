@@ -1,6 +1,7 @@
 ---
 choices: obedient | immense | squeaky | wretched
 answerText: obedient
+reviewed: yes
 ---
 【正解】1 obedient（従順な、言うことをよく聞く）
 【和訳】
@@ -9,7 +10,7 @@ A: I wish my children were as ［obedient］ as yours.
 B: Oh, they're only doing what I tell them because you're here. Usually, they pay no attention at all.
 （訳）
 A：うちの子どもたちも、あなたの子どもたちと同じくらい（言うことをよく聞く）といいのに。
-B：ああ、あの子たちが私の言うとおりにしているのは、あなたがここにいるからにすぎないよ。ふだんは、まったく耳を貸さないんだ。
+B：ああ、あの子たちが私の言うとおりにしているのは、あなたがここにいるからにすぎないよ。ふだんは、まったく耳を貸さないよ。
 （選択肢の意味）
 1 obedient：従順な、言うことをよく聞く
 2 immense：巨大な、ばく大な

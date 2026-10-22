@@ -1,6 +1,7 @@
 ---
 choices: circumstance | sentiment | appliance | submission
 answerText: submission
+reviewed: yes
 ---
 【正解】4 submission（提出物、出品作品）
 【和訳】

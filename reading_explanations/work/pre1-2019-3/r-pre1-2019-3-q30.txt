@@ -1,6 +1,7 @@
 ---
 choices: This is clearly demonstrated | There are long-lasting effects | This increases even more | There is a different type of benefit
 answerText: This is clearly demonstrated
+reviewed: yes
 ---
 【正解】1 This is clearly demonstrated（このことがはっきりと示される）
 【和訳】

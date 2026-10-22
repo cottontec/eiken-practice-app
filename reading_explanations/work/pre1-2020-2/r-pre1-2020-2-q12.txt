@@ -1,6 +1,7 @@
 ---
 choices: discard | formulate | displace | illuminate
 answerText: formulate
+reviewed: yes
 ---
 【正解】2 formulate（〔計画・考えなどを〕練り上げる、まとめる）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: endearing | materialistic | invisible | boundless
 answerText: materialistic
+reviewed: yes
 ---
 【正解】2 materialistic（物質主義的な）
 【和訳】

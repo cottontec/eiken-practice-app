@@ -1,6 +1,7 @@
 ---
 choices: theses | ballots | clauses | rallies
 answerText: ballots
+reviewed: yes
 ---
 【正解】2 ballots（投票用紙）
 【和訳】

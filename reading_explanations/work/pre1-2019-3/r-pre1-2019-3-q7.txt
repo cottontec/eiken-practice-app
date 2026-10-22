@@ -1,6 +1,7 @@
 ---
 choices: ample | premature | stale | resolute
 answerText: ample
+reviewed: yes
 ---
 【正解】1 ample（十分な、たっぷりある）
 【和訳】

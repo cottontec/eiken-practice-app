@@ -1,6 +1,7 @@
 ---
 choices: terminate | elaborate | dedicate | activate
 answerText: elaborate
+reviewed: yes
 ---
 【正解】2 elaborate（詳しく述べる）
 【和訳】

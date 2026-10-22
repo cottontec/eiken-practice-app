@@ -1,6 +1,7 @@
 ---
 choices: unanimous | insane | crisp | rash
 answerText: unanimous
+reviewed: yes
 ---
 【正解】1 unanimous（満場一致の、全員が賛成の）
 【和訳】
@@ -18,7 +19,7 @@ The committee's decision to give the prize to the young scientist was nearly ［
 空所のある文は、委員会の決定が nearly ( ) だった、と言っています。nearly は「ほぼ、ほとんど」です。
 後ろの文を見ます。
 Only one of the eight members voted against it.（8人の委員のうち、反対票を投じたのは1人だけだった）
-8人中7人が賛成したということです。全員の賛成ではありませんが、それに近い状態です。
+反対したのは8人のうち1人だけなので、ほとんどの委員が賛成した形だと考えられます。全員の賛成ではありませんが、それに近い状態です。
 unanimous は「満場一致の（全員が賛成の）」という意味です。nearly unanimous で「ほぼ満場一致」となるので、1が正解です。
 この問題の型：語の意味・組み合わせ（nearly unanimous）／言いかえ（反対が1人だけ→ほぼ全員が賛成）
 【ほかの選択肢】

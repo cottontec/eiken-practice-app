@@ -1,6 +1,7 @@
 ---
 choices: compulsive | dependent | reputable | fertile
 answerText: reputable
+reviewed: yes
 ---
 【正解】3 reputable（評判のよい、信頼できる）
 【和訳】

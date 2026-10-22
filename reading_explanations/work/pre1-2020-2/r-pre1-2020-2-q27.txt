@@ -1,6 +1,7 @@
 ---
 choices: adopted by other cities | essential to its success | unpopular with local people | slowing down reform efforts
 answerText: essential to its success
+reviewed: yes
 ---
 【正解】2 essential to its success（その成功に欠かせない）
 【和訳】

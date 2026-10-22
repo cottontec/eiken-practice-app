@@ -1,6 +1,7 @@
 ---
 choices: They could limit the harm done by free radicals made by the body, but they had little effect on free radicals that came from external sources. | Other researchers' claims that they were made naturally by the body in quantities sufficient to improve health could not be proved. | Large amounts of them were needed to avoid the cell damage and disease that result from the presence of too many free radicals in the body. | Obtaining them from food sources such as fruits and vegetables could actually have a negative effect on a person's health.
 answerText: Large amounts of them were needed to avoid the cell damage and disease that result from the presence of too many free radicals in the body.
+reviewed: yes
 ---
 【正解】3 Large amounts of them were needed to avoid the cell damage and disease that result from the presence of too many free radicals in the body.（体の中にフリーラジカルが多すぎることから生じる細胞の損傷や病気を避けるには、抗酸化物質が大量に必要だ。）
 【和訳】

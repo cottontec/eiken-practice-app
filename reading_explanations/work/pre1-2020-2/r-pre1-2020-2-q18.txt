@@ -1,6 +1,7 @@
 ---
 choices: outgoing | cheery | sober | unstable
 answerText: sober
+reviewed: yes
 ---
 【正解】3 sober（しらふの、酒に酔っていない）
 【和訳】

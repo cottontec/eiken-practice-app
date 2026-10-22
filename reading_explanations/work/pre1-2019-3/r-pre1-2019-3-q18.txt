@@ -1,6 +1,7 @@
 ---
 choices: archaic | scenic | sinister | muddy
 answerText: archaic
+reviewed: yes
 ---
 【正解】1 archaic（古風な、古い時代の）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: transplant | conceal | interact | soak
 answerText: transplant
+reviewed: yes
 ---
 【正解】1 transplant（植えかえる、移植する）
 【和訳】

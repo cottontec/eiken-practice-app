@@ -1,6 +1,7 @@
 ---
 choices: went at | fell over | held off | picked through
 answerText: went at
+reviewed: yes
 ---
 【正解】1 went at（激しく取りかかった、やり合った）
 【和訳】

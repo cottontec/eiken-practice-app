@@ -1,6 +1,7 @@
 ---
 choices: corruption | evaluation | justification | devastation
 answerText: devastation
+reviewed: yes
 ---
 【正解】4 devastation（壊滅的な被害、荒廃）
 【和訳】

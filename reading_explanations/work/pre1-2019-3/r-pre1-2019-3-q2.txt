@@ -1,6 +1,7 @@
 ---
 choices: outraged | conceited | offended | defined
 answerText: conceited
+reviewed: yes
 ---
 【正解】2 conceited（うぬぼれた）
 【和訳】

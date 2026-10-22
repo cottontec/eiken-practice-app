@@ -1,6 +1,7 @@
 ---
 choices: require the development of a larger type of battery with enough capacity to store the energy created at the dam. | use the dam to ensure that the energy from solar and wind power would be available whenever needed. | provide a more efficient method of transferring energy produced at the dam to areas that are upriver from it. | allow the dam to compete with alternative energy sources that are currently able to produce more power than it does.
 answerText: use the dam to ensure that the energy from solar and wind power would be available whenever needed.
+reviewed: yes
 ---
 【正解】2 use the dam to ensure that the energy from solar and wind power would be available whenever needed.（ダムを使って、太陽光と風力によるエネルギーが必要なときにいつでも使えるようにする。）
 【和訳】

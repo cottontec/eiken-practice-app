@@ -1,6 +1,7 @@
 ---
 choices: struggle | ransom | apparel | courtesy
 answerText: courtesy
+reviewed: yes
 ---
 【正解】4 courtesy（礼儀正しさ、丁寧さ）
 【和訳】

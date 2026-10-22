@@ -1,0 +1,29 @@
+---
+choices: go about | pull out | take in | bring down
+answerText: go about
+---
+【正解】1 go about（～に取りかかる、～を（どう）進める）
+【和訳】
+（英文）
+Dave was happy when his neighbor gave him a basket of fresh vegetables, but when he got home, he realized he did not know how to ［go about］ cooking them.
+（訳）
+デイブは、近所の人が新鮮な野菜をかご1杯くれたときうれしかったのですが、家に帰ると、それをどのように料理（に取りかかれ）ばよいのか分からないことに気づきました。
+（選択肢の意味）
+1 go about：～に取りかかる、～を（どう）進める
+2 pull out：～を引き抜く、（計画などから）手を引く
+3 take in：～を取り入れる、～を理解する、～をだます
+4 bring down：～を下げる、～を倒す
+【考え方】
+まず見るところ：空所の後ろの cooking them
+he realized he did not know how to ( ) cooking them（彼は、それらをどのように料理（　）ばよいのか分からないことに気づいた）
+them は前半の fresh vegetables（新鮮な野菜）を指します。cooking は「料理すること」で、動詞に -ing をつけて「～すること」という意味を表す形です。
+but（しかし）の前では「野菜をもらってうれしかった」、後ろでは「困ったことに気づいた」という流れになっています。困ったのは、野菜の料理のしかたが分からなかったからだと考えられます。
+go about ～ing は「～に取りかかる、～をどう進めるか」という意味で、how to go about cooking them で「それらをどうやって料理すればよいか」となります。ですから1が正解です。
+この問題の型：熟語・決まった形（how to go about ～ing）／対比（うれしかった⇔料理のしかたが分からない）
+【ほかの選択肢】
+2 pull out は「～を引き抜く、（計画などから）手を引く」です。「野菜を料理することをどう引き抜けばよいか」となり、意味が通りません。
+3 take in は「～を取り入れる、～を理解する」です。「野菜を料理することをどう取り入れればよいか」となり、料理のしかたが分からないという場面に合いません。
+4 bring down は「～を下げる、～を倒す」です。「野菜を料理することをどう下げればよいか」となり、意味が通りません。
+【覚えるポイント】
+・go about ～ing：「～に取りかかる、～をどう進めるか」。how to go about ～ing（どうやって～すればよいか）の形でよく使われます。
+・空所の後ろが -ing の形（ここでは cooking）のときは、その動作を「どうするか」を表す熟語かどうかを確かめると手がかりになります。

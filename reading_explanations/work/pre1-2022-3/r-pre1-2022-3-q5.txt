@@ -1,0 +1,28 @@
+---
+choices: clog | boom | flaw | dump
+answerText: flaw
+---
+【正解】3 flaw（欠陥、まちがい）
+【和訳】
+（英文）
+The discovery of a serious ［flaw］ in the design plans for the new building caused the construction to be delayed by several months.
+（訳）
+新しい建物の設計図に重大な（欠陥）が見つかったことで、工事が数か月遅れることになりました。
+（選択肢の意味）
+1 clog：（管などの）詰まり、詰まらせるもの
+2 boom：急な好景気、急な人気、ドーンという大きな音
+3 flaw：欠陥、まちがい（よくないところ）
+4 dump：ごみ捨て場
+【考え方】
+まず見るところ：文の後半の caused the construction to be delayed by several months
+この文の主語は The discovery of a serious (　) in the design plans（設計図の中に重大な（　）が見つかったこと）です。そして、それが次の結果を引き起こしました。
+caused the construction to be delayed by several months（工事が数か月遅れる原因となった）
+cause A to ～ は「Aが～する原因となる」です。工事が遅れるほどの、設計図の中の「重大な何か」ですから、設計のまちがいや欠陥だと考えられます。flaw は「欠陥」という意味で、a serious flaw で「重大な欠陥」となるので、3が正解です。
+この問題の型：因果（欠陥の発見 → 工事の遅れ）
+【ほかの選択肢】
+1 clog は「（管などの）詰まり」です。設計図は管ではないので、「設計図の中に重大な詰まりが見つかった」となり、意味が通りません。
+2 boom は「急な好景気、ドーンという音」です。「設計図の中に重大な好景気が見つかった」となり、意味が通らず、工事が遅れる原因にもなりません。
+4 dump は「ごみ捨て場」です。「設計図の中に重大なごみ捨て場が見つかった」となり、意味が通りません。
+【覚えるポイント】
+・flaw：「欠陥、まちがい」。a serious flaw in ～ で「～の中の重大な欠陥」となります。
+・主語が The discovery of ～（～の発見）で、動詞が caused（引き起こした）のときは、後ろの結果（ここでは工事の遅れ）から、何が見つかったのかを考えるのが手がかりになります。

@@ -1,6 +1,7 @@
 ---
 choices: tragic | plentiful | remorseful | revolting
 answerText: remorseful
+reviewed: yes
 ---
 【正解】3 remorseful（深く後悔している、反省している）
 【和訳】

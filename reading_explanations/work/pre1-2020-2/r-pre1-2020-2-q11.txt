@@ -1,6 +1,7 @@
 ---
 choices: disclosure | concession | depot | showdown
 answerText: concession
+reviewed: yes
 ---
 【正解】2 concession（譲歩）
 【和訳】

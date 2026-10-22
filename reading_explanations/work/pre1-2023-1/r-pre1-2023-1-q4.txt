@@ -1,0 +1,33 @@
+---
+choices: intervention | appreciation | accumulation | starvation
+answerText: intervention
+---
+【正解】1 intervention（介入）
+【和訳】
+（英文）
+Many banks required government ［intervention］ to stay in business after the stock market crash. The help mostly came in the form of large loans.
+（訳）
+株式市場の暴落のあと、多くの銀行は、営業を続けるために政府の（介入）を必要とした。その助けは、主に多額の貸し付けという形で行われた。
+（選択肢の意味）
+1 intervention：介入（問題を解決するために、間に入って手を出すこと）
+2 appreciation：感謝、正しく評価すること
+3 accumulation：蓄積、積み重なること
+4 starvation：飢え、餓死
+【考え方】
+まず見るところ：あとの文の The help mostly came in the form of large loans
+最初に、空所のある文を確かめます。
+Many banks required government ( ) to stay in business after the stock market crash.（株式市場の暴落のあと、多くの銀行は、営業を続けるために政府の（　）を必要とした）
+stock market crash は「株式市場の暴落（株の値段が急に大きく下がること）」、stay in business は「営業を続ける、つぶれずにいる」です。
+次に、あとの文を見ます。
+The help mostly came in the form of large loans.（その助けは、主に多額の貸し付けという形で行われた）
+The help（その助け）は、前の文で銀行が必要としたものを指していると考えられます。つまり、空所には「政府からの助け」になるものが入ります。loan は「貸し付け（お金を貸すこと）」です。
+intervention は「介入（問題を解決するために、間に入って手を出すこと）」です。government intervention で「政府の介入」となり、政府がお金を貸して銀行を助けたという内容に合うので、1が正解です。
+この問題の型：指示語（The help が政府の介入を指す）／言いかえ（government intervention → The help）
+【ほかの選択肢】
+2 appreciation は「感謝、正しく評価すること」です。「政府の感謝を必要とした」では、つぶれないための助けにならず、多額の貸し付けという話ともつながりません。
+3 accumulation は「蓄積、積み重なること」です。「政府の蓄積を必要とした」では意味が通らず、The help（その助け）が指すものになりません。
+4 starvation は「飢え、餓死」です。「政府の飢えを必要とした」では意味が通りません。
+【覚えるポイント】
+・government intervention：「政府の介入（政府が問題に手を出して助けたり調整したりすること）」。
+・stay in business：「営業を続ける、つぶれずにいる」。
+・あとの文が The help（その助け）のように、前のものを指す語で始まるときは、空所の語がその「助け」の言いかえになっていないかを確かめると手がかりになります。

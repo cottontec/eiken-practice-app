@@ -1,0 +1,33 @@
+---
+choices: tributes | protocols | reservoirs | portions
+answerText: protocols
+---
+【正解】2 protocols（（決められた）手順、規定）
+【和訳】
+（英文）
+Police must follow strict ［protocols］ at a crime scene to make sure the evidence is not damaged or altered in any way.
+（訳）
+警察は、証拠がどんな形でも傷つけられたり変えられたりしないようにするために、犯罪現場では厳しい（手順）に従わなければならない。
+（選択肢の意味）
+1 tributes：（感謝や尊敬を表す）贈り物、賛辞
+2 protocols：（決められた）手順、規定
+3 reservoirs：貯水池、たくわえ
+4 portions：部分、（食べ物の）一人分
+【考え方】
+まず見るところ：空所の前の must follow strict と、文の後半の to make sure the evidence is not damaged or altered
+最初に、空所の前を見ます。
+Police must follow strict ( ) at a crime scene（警察は、犯罪現場では厳しい（　）に従わなければならない）
+follow は「～に従う」です。従うものとして考えられるのは、規則や決まりです。
+次に、文の後半を見ます。
+to make sure the evidence is not damaged or altered in any way（証拠がどんな形でも傷つけられたり変えられたりしないようにするために）
+to make sure ～ は「確実に～するために」と目的を表します。evidence は「証拠」、alter は「変える」です。証拠を守るために、決められたやり方をきちんと守る必要がある、という内容です。
+protocol は「（決められた）手順、規定」なので、follow strict protocols で「厳しい手順に従う」となり、2が正解です。
+この問題の型：語の意味・組み合わせ（follow strict protocols）
+【ほかの選択肢】
+1 tributes は「（感謝や尊敬を表す）贈り物、賛辞」です。「厳しい賛辞に従う」では意味が通らず、証拠を守るためのやり方になりません。
+3 reservoirs は「貯水池、たくわえ」です。「厳しい貯水池に従う」では意味が通りません。
+4 portions は「部分、（食べ物の）一人分」です。「厳しい一人分に従う」では意味が通らず、証拠を守ることともつながりません。
+【覚えるポイント】
+・protocol：「（決められた）手順、規定」。follow protocols で「手順に従う」。
+・evidence：「証拠」。alter：「変える」。
+・follow（～に従う）の後ろの空所には、規則・手順・指示のような「守るべき決まり」を表す名詞が入ることが多いので、動詞との組み合わせが手がかりになります。

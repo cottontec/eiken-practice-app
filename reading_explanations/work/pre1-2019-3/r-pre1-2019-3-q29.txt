@@ -1,6 +1,7 @@
 ---
 choices: home stadium's atmosphere | strategies used in road games | stress of traveling | confidence level of players
 answerText: stress of traveling
+reviewed: yes
 ---
 【正解】3 stress of traveling（移動のストレス）
 【和訳】

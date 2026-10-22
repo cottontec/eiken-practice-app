@@ -1,6 +1,7 @@
 ---
 choices: The people responsible for classifying cassina may have benefited from making it sound unpleasant to drink. | Scientists who observed Native American ceremonies chose the name after confirming that cassina made people sick. | Cassina was initially classified as being related to black tea and then renamed because of opposition from tea importers. | The fact that Native Americans used cassina to treat stomach illnesses led scientists to classify it as a medicine.
 answerText: The people responsible for classifying cassina may have benefited from making it sound unpleasant to drink.
+reviewed: yes
 ---
 【正解】1 The people responsible for classifying cassina may have benefited from making it sound unpleasant to drink.（カッシーナの分類を担当した人々は、それを飲むのがいやなものに聞こえるようにすることで、利益を得たのかもしれない。）
 【和訳】

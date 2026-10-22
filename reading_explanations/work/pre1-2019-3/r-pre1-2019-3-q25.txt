@@ -1,6 +1,7 @@
 ---
 choices: die out | kick off | get in on | live up to
 answerText: live up to
+reviewed: yes
 ---
 【正解】4 live up to（（期待など）にこたえる）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: splendor | infrastructure | adoration | enrollment
 answerText: enrollment
+reviewed: yes
 ---
 【正解】4 enrollment（入学者数、在籍者数）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: Installing generators in dams requires a significantly larger investment of resources than other forms of renewable energy. | When there is not enough water in rivers to be stored behind dams, it affects the amount of electricity that can be generated. | Although dams reduce some types of pollution, they negatively affect the quality of water that flows into river systems. | It is becoming more difficult to construct dams that are large enough to generate the amount of electricity currently required.
 answerText: When there is not enough water in rivers to be stored behind dams, it affects the amount of electricity that can be generated.
+reviewed: yes
 ---
 【正解】2 When there is not enough water in rivers to be stored behind dams, it affects the amount of electricity that can be generated.（ダムの後ろにためておくのに十分な水が川にないと、作ることのできる電気の量に影響が出る。）
 【和訳】
@@ -26,7 +27,7 @@ As rivers become shallower, the necessary volume of water for electricity genera
 この問題の型：対比（However：よい投資⇔欠点がある）／言いかえ（power supply is negatively impacted→affects the amount of electricity）
 【ほかの選択肢】
 1 本文にない内容です。本文は水力発電施設について usually good investments（たいてい良い投資）と述べており、ほかの再生可能エネルギーより多くの資源が必要だという比較は書かれていません。
-3 本文にない内容です。本文はダムが大気汚染とCO2の排出を減らすことには触れていますが、川に流れこむ水の質が悪くなるという話はありません。
+3 本文にない内容です。本文は、水力発電が出す大気汚染やCO2の排出が化石燃料よりはるかに少ないことには触れていますが、川に流れこむ水の質が悪くなるという話はありません。
 4 本文にない内容です。大きなダムを建てるのが難しくなってきたという話はありません。本文が挙げている欠点は、川の水が減って発電に必要な水が保ちにくいことです。
 【覚えるポイント】
 ・drawback：「欠点、不利な点」。has its drawbacks で「（よい点もあるが）欠点もある」という意味になります。

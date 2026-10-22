@@ -1,0 +1,29 @@
+---
+choices: bystanders | reformers | mourners | pioneers
+answerText: bystanders
+---
+【正解】1 bystanders（その場に居合わせた人たち）
+【和訳】
+（英文）
+The police questioned ［bystanders］ at the scene of the crime, hoping someone who had been nearby had seen what happened.
+（訳）
+警察は犯行現場で（居合わせた人たち）に事情を聞いた。近くにいただれかが、何が起きたのかを見ていたことを期待したのだ。
+（選択肢の意味）
+1 bystanders：（その場に）居合わせた人たち、見物人
+2 reformers：改革者たち（世の中や制度を変えようとする人たち）
+3 mourners：（人の死を）悲しむ人たち、葬儀に参列する人たち
+4 pioneers：先駆者たち、開拓者たち
+【考え方】
+まず見るところ：文の後半の hoping someone who had been nearby had seen what happened
+hoping someone who had been nearby had seen what happened（近くにいただれかが、何が起きたのかを見ていたことを期待して）
+someone who had been nearby は「近くにいただれか」という意味です。警察は、事件のときに近くにいた人から話を聞きたかったことが分かります。
+The police questioned (　) at the scene of the crime（警察は犯行現場で（　）に事情を聞いた）
+question はここでは「（人に）質問する、事情を聞く」という動詞です。事件の場に居合わせた人を bystander というので、1が正解です。
+この問題の型：言いかえ（bystanders → someone who had been nearby）
+【ほかの選択肢】
+2 reformers は「改革者たち」です。世の中を変えようとする人という意味で、「近くにいただれか」の言いかえになりません。
+3 mourners は「人の死を悲しむ人たち」です。この文にはだれかが亡くなったとは書かれておらず、「近くにいただれか」の言いかえにもなりません。
+4 pioneers は「先駆者たち、開拓者たち」です。新しいことを最初に始めた人という意味で、事件を見ていた人とは関係がありません。
+【覚えるポイント】
+・bystander：「（その場に）居合わせた人」。question（動詞）：「～に質問する、事情を聞く」。the scene of the crime：「犯行現場」。
+・文の後半に someone who ～（～しただれか）のような説明があるときは、それが空所の人を言いかえていることが多いので、その説明に合う人を表す語を選びます。

@@ -1,6 +1,7 @@
 ---
 choices: lawfully | stealthily | dreadfully | invariably
 answerText: invariably
+reviewed: yes
 ---
 【正解】4 invariably（いつも決まって、例外なく）
 【和訳】

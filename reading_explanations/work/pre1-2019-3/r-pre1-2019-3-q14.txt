@@ -1,6 +1,7 @@
 ---
 choices: clutch | violate | wield | resume
 answerText: resume
+reviewed: yes
 ---
 【正解】4 resume（再開する）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: magnifying | assessing | overdoing | encasing
 answerText: assessing
+reviewed: yes
 ---
 【正解】2 assessing（評価すること、見積もること）
 【和訳】

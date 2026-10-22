@@ -1,6 +1,7 @@
 ---
 choices: collage | accordance | privilege | clutter
 answerText: clutter
+reviewed: yes
 ---
 【正解】4 clutter（散らかった物）
 【和訳】

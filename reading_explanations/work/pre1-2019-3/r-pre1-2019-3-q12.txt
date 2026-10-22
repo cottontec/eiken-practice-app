@@ -1,6 +1,7 @@
 ---
 choices: vain | witty | mutual | potent
 answerText: potent
+reviewed: yes
 ---
 【正解】4 potent（強力な、効き目の強い）
 【和訳】

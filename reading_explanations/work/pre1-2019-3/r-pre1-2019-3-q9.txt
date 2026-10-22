@@ -1,6 +1,7 @@
 ---
 choices: subtle | touchy | vulgar | hectic
 answerText: hectic
+reviewed: yes
 ---
 【正解】4 hectic（非常に忙しい、あわただしい）
 【和訳】

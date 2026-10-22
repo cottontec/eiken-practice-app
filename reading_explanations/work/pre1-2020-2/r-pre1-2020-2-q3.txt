@@ -1,6 +1,7 @@
 ---
 choices: reign | trace | slump | chore
 answerText: reign
+reviewed: yes
 ---
 【正解】1 reign（治世、在位期間）
 【和訳】

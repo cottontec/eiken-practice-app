@@ -1,6 +1,7 @@
 ---
 choices: sell out | buy into | attend to | slip on
 answerText: attend to
+reviewed: yes
 ---
 【正解】3 attend to（～に対応する、～の世話をする）
 【和訳】

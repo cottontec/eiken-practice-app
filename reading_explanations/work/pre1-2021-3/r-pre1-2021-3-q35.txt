@@ -1,0 +1,33 @@
+---
+choices: because he believed that the novel would become a bestseller and enable him to quit the law profession to write full time. | after becoming frustrated about the lack of awareness among ordinary Americans regarding the extent of criminal activity in the United States. | because he wanted to show readers how hard lawyers worked in order to protect the victims of crime. | after being inspired by what he found during the investigations he carried out while he was a lawyer.
+answerText: after being inspired by what he found during the investigations he carried out while he was a lawyer.
+---
+【正解】4 after being inspired by what he found during the investigations he carried out while he was a lawyer.（弁護士だった間に行った調査で見つけたものに着想を得たあとだ。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to the passage, George V. Higgins wrote The Friends of Eddie Coyle（本文によると、ジョージ・V・ヒギンズが『エディ・コイルの友人たち』を書いたのは、）
+1 because he believed that the novel would become a bestseller and enable him to quit the law profession to write full time.（その小説がベストセラーになり、弁護士の仕事をやめて執筆だけに打ちこめるようになると信じたからだ。）
+2 after becoming frustrated about the lack of awareness among ordinary Americans regarding the extent of criminal activity in the United States.（アメリカでの犯罪活動の広がりについて、ふつうのアメリカ人がよく知らないことにいらだったあとだ。）
+3 because he wanted to show readers how hard lawyers worked in order to protect the victims of crime.（犯罪の被害者を守るために弁護士がどれほど懸命に働いているかを、読者に示したかったからだ。）
+4 after being inspired by what he found during the investigations he carried out while he was a lawyer.（弁護士だった間に行った調査で見つけたものに着想を得たあとだ。）
+【考え方】
+まず見るところ：第1段落の This crime novel was inspired by the time Higgins spent working as a lawyer, during which he examined ～
+第1段落に、この小説がどのようにして生まれたのかが書かれています。
+This crime novel was inspired by the time Higgins spent working as a lawyer, during which he examined hours of police surveillance tapes and transcripts in connection with the cases he was involved in.（この犯罪小説は、ヒギンズが弁護士として働いていた時期から着想を得たもので、その時期に彼は、自分が関わった事件に関連して、警察が監視して録音したテープと、その内容を文字に起こした記録を、何時間分も調べた）
+be inspired by ～ は「～から着想を得る（アイデアのもとをもらう）」です。そのあとに、彼が聞いたり読んだりしたものはふつうの犯罪者の日常の話し言葉で、その言葉の使い方が小説の土台になったと書かれています。
+本文と選択肢4を対にすると、次のようになります。
+・本文 was inspired by（～から着想を得た）＝ 選択肢 being inspired by（～に着想を得て）
+・本文 he examined hours of police surveillance tapes and transcripts（録音テープと記録を何時間分も調べた）→ 選択肢 the investigations he carried out（彼が行った調査）
+・本文 What he heard and read（彼が聞いたり読んだりしたもの）→ 選択肢 what he found（彼が見つけたもの）
+・本文 the time Higgins spent working as a lawyer（弁護士として働いていた時期）＝ 選択肢 while he was a lawyer（弁護士だった間）
+よって4が正解です。
+この問題の型：言いかえ（examined tapes and transcripts → the investigations he carried out）
+【ほかの選択肢】
+1 本文に書かれていません。ベストセラーになると信じていたことや、弁護士をやめて執筆に打ちこみたかったことは書かれていません。本文には、この小説が当時のベストセラーの洗練された犯罪物語とかけ離れていたとあるだけです。
+2 本文に書かれていません。ふつうのアメリカ人が犯罪の広がりを知らないことにいらだった、という話はありません。本文で ordinary（ふつうの）が使われているのは ordinary criminals（ふつうの犯罪者）で、ふつうのアメリカ人のことではありません。
+3 本文に書かれていません。弁護士が被害者を守るために懸命に働くようすを描いたという話はありません。この小説は犯罪者たちの話し言葉をもとにしていて、本文の焦点は犯罪者たちとその世界に当てられています。
+【覚えるポイント】
+・be inspired by ～：「～から着想を得る」。surveillance：「監視」。transcript：「（話した内容を）文字に起こした記録」。
+・「なぜ書いたのか」をたずねる設問では、本文の inspired by（～から着想を得た）や provided the basis for（～の土台になった）のような「きっかけ・もと」を表す言葉の近くを探すのが手がかりになります。

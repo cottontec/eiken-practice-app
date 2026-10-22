@@ -1,6 +1,7 @@
 ---
 choices: custody | procedure | finale | bait
 answerText: custody
+reviewed: yes
 ---
 【正解】1 custody（親権（子どもを引き取って育てる権利））
 【和訳】

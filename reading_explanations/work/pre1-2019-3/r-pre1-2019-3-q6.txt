@@ -1,6 +1,7 @@
 ---
 choices: striking | preceding | binding | dripping
 answerText: binding
+reviewed: yes
 ---
 【正解】3 binding（拘束力のある）
 【和訳】

@@ -1,0 +1,33 @@
+---
+choices: Despite the possibility that Higgins could have attracted a wider readership by altering his writing style, he remained true to his creative vision. | The first book Higgins produced was poorly written, but the quality of his work steadily increased in the years that followed. | It is inevitable that writers of crime novels will never gain the same level of prestige and acclaim as writers of other genres. | It is unrealistic for writers of crime novels to expect their work to appeal to readers decades after it was first published.
+answerText: Despite the possibility that Higgins could have attracted a wider readership by altering his writing style, he remained true to his creative vision.
+---
+【正解】1 Despite the possibility that Higgins could have attracted a wider readership by altering his writing style, he remained true to his creative vision.（ヒギンズは書き方を変えれば、より幅広い読者を引きつけられたかもしれないのに、自分の創作の考えをつらぬいた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Which of the following statements would the author of the passage most likely agree with?（本文の筆者が最も賛成しそうな意見は、次のうちどれか。）
+1 Despite the possibility that Higgins could have attracted a wider readership by altering his writing style, he remained true to his creative vision.（ヒギンズは書き方を変えれば、より幅広い読者を引きつけられたかもしれないのに、自分の創作の考えをつらぬいた。）
+2 The first book Higgins produced was poorly written, but the quality of his work steadily increased in the years that followed.（ヒギンズが書いた最初の本は出来が悪かったが、その後の年月で彼の作品の質は着実に上がった。）
+3 It is inevitable that writers of crime novels will never gain the same level of prestige and acclaim as writers of other genres.（犯罪小説の作家が、ほかのジャンルの作家と同じ程度の名声と称賛を決して得られないのは、避けられないことだ。）
+4 It is unrealistic for writers of crime novels to expect their work to appeal to readers decades after it was first published.（犯罪小説の作家が、自分の作品が最初に出版されてから何十年もたったあとに読者の心を引きつけると期待するのは、現実的ではない。）
+【考え方】
+まず見るところ：第3段落の Many complained that ～ と、Yet Higgins remained committed to his belief that ～
+第3段落では、ヒギンズの書き方に対する読者の反応が書かれています。
+Many complained that his later novels lacked clear plots and contained too little action.（多くの人が、彼の後の小説には、はっきりした筋がなく、アクションが少なすぎると不満を言った）
+そのあと Yet（それでも）が来て、ヒギンズの態度が書かれています。
+Yet Higgins remained committed to his belief that the most engaging way to tell a story is through the conversations of its characters（それでもヒギンズは、物語を語る最も引きつける方法は、登場人物たちの会話を通すことだという信念を持ち続けた）
+remain committed to ～ は「～をかたく守り続ける」です。読者から不満が出ても、ヒギンズは書き方を変えませんでした。
+本文と選択肢1を対にすると、次のようになります。
+・本文 remained committed to his belief（信念を持ち続けた）→ 選択肢 remained true to his creative vision（自分の創作の考えをつらぬいた）
+・本文 not all readers liked the author's writing style / Many complained（すべての読者が書き方を気に入ったわけではない／多くの人が不満を言った）→ 選択肢 could have attracted a wider readership by altering his writing style（書き方を変えれば、より幅広い読者を引きつけられたかもしれない）
+2つ目の対は、本文にそのまま書かれているわけではありません。不満を言う読者がいたのですから、書き方を変えればその人たちにも読んでもらえた可能性がある、と読み取れるということです。筆者もこの考えに賛成しそうだと考えられるので、1が正解です。
+この問題の型：推論（不満を言われても信念を持ち続けた → 書き方を変えずにつらぬいた）
+【ほかの選択肢】
+2 本文の内容と合いません。最初の小説は an immediate hit（すぐにヒットした）で、今では最も優れた犯罪小説の一つと考えられているので、「出来が悪かった」とは言えません。また、後の作品の質が着実に上がったとは書かれておらず、デビュー作の成功を再びくり返すことはできなかったとあります。
+3 本文に書かれていません。犯罪小説の作家とほかのジャンルの作家の名声を比べる話はありません。本文には、ヒギンズが自分の本への注目が足りないことに失望したとありますが、それは犯罪小説の作家みんなについての意見ではありません。
+4 本文の内容と合いません。『エディ・コイルの友人たち』は1970年に出版され、今では多くの人に、これまでに書かれた最も優れた犯罪小説の一つだと考えられています。出版から何十年もたって評価されているので、「期待するのは現実的ではない」という意見を筆者が支持するとは考えにくいです。
+【覚えるポイント】
+・remain committed to ～：「～をかたく守り続ける」。remain true to ～：「～をつらぬく、～に忠実であり続ける」。readership：「読者（の層）」。
+・「筆者が賛成しそうな意見」をたずねる設問では、Yet（それでも）や Nevertheless（それでも）のあとにある筆者の見方を探し、選択肢がそれを言いかえているか、言い過ぎていないかを確かめるのが手がかりになります。

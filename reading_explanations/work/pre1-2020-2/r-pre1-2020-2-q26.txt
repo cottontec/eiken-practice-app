@@ -1,6 +1,7 @@
 ---
 choices: have created new laws | have volunteered to help | are trying a unique solution | are in a difficult position
 answerText: are in a difficult position
+reviewed: yes
 ---
 【正解】4 are in a difficult position（難しい立場にある）
 【和訳】
@@ -14,7 +15,7 @@ answerText: are in a difficult position
 【考え方】
 まず見るところ：第1段落の空所の前の but at the same time, ～ と、空所の直後の Although ～
 空所の前には、地方自治体の置かれた2つの事情が書かれています。
-Local governments still have the right to fund the less popular routes themselves（地方自治体には今でも、人気がほかより低い路線に自分たちで資金を出す権利がある）
+Local governments still have the right to fund the less popular routes themselves（地方自治体には今でも、あまり人気のない路線に自分たちで資金を出す権利がある）
 the national government requires them to spend huge amounts on providing free bus passes for seniors and disabled people（国の政府は地方自治体に対して、高齢者と障がいのある人たちに無料のバス乗車券を提供するために、ばく大な金額を使うよう求めている）
 路線にお金を出す権利はあるけれど、同時に別のことにも大金を使わなければなりません。お金が足りなくなる事情です。
 空所の文は For this reason（このため）で始まるので、この事情から生まれる結果が入ります。さらに空所のあとを見ます。

@@ -1,6 +1,7 @@
 ---
 choices: kept ahead of | lined up for | met up with | made off with
 answerText: made off with
+reviewed: yes
 ---
 【正解】4 made off with（～を持ち逃げした、～を盗んで逃げた）
 【和訳】

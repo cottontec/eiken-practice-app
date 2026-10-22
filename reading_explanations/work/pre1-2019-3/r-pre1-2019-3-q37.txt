@@ -1,6 +1,7 @@
 ---
 choices: Only a few types of seeds should be planted on the Outer Hebrides, as many species can damage the local environment. | Locals should lead the project, as experts from the mainland are not familiar with growing patterns on the Outer Hebrides. | Older trees should be used instead of young ones since they can better withstand the environmental threats on the Outer Hebrides. | The seeds of trees taken from the Outer Hebrides or from similarly harsh environments are the most likely to grow successfully.
 answerText: The seeds of trees taken from the Outer Hebrides or from similarly harsh environments are the most likely to grow successfully.
+reviewed: yes
 ---
 【正解】4 The seeds of trees taken from the Outer Hebrides or from similarly harsh environments are the most likely to grow successfully.（アウター・ヘブリディーズ諸島か、同じように厳しい環境から取った木の種子が、最もうまく育つ見こみが高い。）
 【和訳】
