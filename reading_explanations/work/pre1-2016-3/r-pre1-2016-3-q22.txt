@@ -1,0 +1,30 @@
+---
+choices: fall for | bring on | lay off | break down
+answerText: bring on
+---
+【正解】2 bring on（引き起こす、もたらす）
+【和訳】
+（英文）
+As the demonstration in the capital grew, the government began to worry that it would ［bring on］ a revolution, so the army was sent to stop it.
+（訳）
+首都でのデモが大きくなるにつれて、政府はそれが革命を（引き起こす）のではないかと心配し始めました。そこで、デモを止めるために軍隊が送られました。
+（選択肢の意味）
+1 fall for：～にだまされる、～にほれこむ
+2 bring on：～を引き起こす、もたらす
+3 lay off：～を（一時的に）解雇する
+4 break down：～を分解する、（ドアなど）を打ちこわす
+【考え方】
+まず見るところ：空所の前の the government began to worry that it would と、後ろの a revolution
+文の初めは As the demonstration in the capital grew（首都でのデモが大きくなるにつれて）です。demonstration は「デモ（人々が集まって意見を訴える行動）」、capital は「首都」です。As ～ はここでは「～につれて」という意味です。
+空所のある部分は次のとおりです。
+the government began to worry that it would ( ) a revolution（政府は、それが革命を（　）するのではないかと心配し始めた）
+it は the demonstration（デモ）を指します。revolution は「革命（今の政府を倒して、国のしくみを大きく変えること）」です。政府が心配するのは、デモがもっと大きくなって革命に「つながる」ことです。
+bring on は「（悪いことなど）を引き起こす、もたらす」という意味なので、「デモが革命を引き起こす」となり、意味が通ります。後ろの so the army was sent to stop it（だから、それを止めるために軍隊が送られた）ともつながるので、2が正解です。
+この問題の型：熟語・決まった形（bring on ～）／指示語（it＝デモ）
+【ほかの選択肢】
+1 fall for は「～にだまされる」や「～にほれこむ」です。「デモが革命にだまされる」となり、意味が通りません。
+3 lay off は「（従業員）を一時的に解雇する」です。「デモが革命を解雇する」となり、意味が通りません。
+4 break down は「～を分解する」や「（ドアなど）を打ちこわす」です。「デモが革命を打ちこわす」となると、政府にとってはむしろ心配がなくなる内容になり、軍隊を送る理由になりません。
+【覚えるポイント】
+・bring on ～：「（悪いことなど）を引き起こす、もたらす」。
+・worry that ～（～ではないかと心配する）のあとには、起きてほしくないことがくるので、目的語（ここでは a revolution）を「引き起こす」意味の語が入りやすいと考えると手がかりになります。

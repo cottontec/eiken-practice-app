@@ -1,0 +1,33 @@
+---
+choices: Since employees did not have to work for multiple companies to support themselves, they had more time to enjoy themselves in the towns. | By adopting ideas that had been developed outside the United States, companies were able to improve workplace facilities. | Company owners were able to appeal to members of the lower classes by offering them jobs with better working and living conditions. | People in rural areas who were jealous of living conditions in large cities started trying to attract companies to their area.
+answerText: Company owners were able to appeal to members of the lower classes by offering them jobs with better working and living conditions.
+---
+【正解】3 Company owners were able to appeal to members of the lower classes by offering them jobs with better working and living conditions.（会社の経営者たちは、よりよい労働条件や生活条件のある仕事を提供することで、下層階級の人々を引きつけることができた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one factor that led to the spread of company towns?（企業町が広がることにつながった要因の1つは何ですか。）
+1 Since employees did not have to work for multiple companies to support themselves, they had more time to enjoy themselves in the towns.（従業員は生活のために複数の会社で働く必要がなかったので、町で楽しむ時間がより多くあった。）
+2 By adopting ideas that had been developed outside the United States, companies were able to improve workplace facilities.（アメリカの外で生まれた考え方を取り入れることで、会社は職場の設備をよくすることができた。）
+3 Company owners were able to appeal to members of the lower classes by offering them jobs with better working and living conditions.（会社の経営者たちは、よりよい労働条件や生活条件のある仕事を提供することで、下層階級の人々を引きつけることができた。）
+4 People in rural areas who were jealous of living conditions in large cities started trying to attract companies to their area.（大都市の生活環境をうらやんだ農村部の人々が、自分たちの地域に会社を呼びこもうとし始めた。）
+【考え方】
+まず見るところ：第2段落の Company towns addressed these issues by offering ～ と、It is no surprise, therefore, that company towns spread
+企業町が広がった理由は、第2段落の最後に therefore（だから）を使って書かれています。その前の文が理由です。
+the lower classes in cities had little job security, and laborers frequently worked long shifts in unsafe conditions for low wages（都市の下層階級の人々は仕事の安定がほとんどなく、労働者は危険な環境のもとで、低い賃金で長い時間働くことがよくあった）
+Company towns addressed these issues by offering better incomes and planned communities with comfortable housing and affordable schools and entertainment.（企業町は、よい収入と、快適な住宅や手ごろな値段の学校・娯楽を備えた計画的な地域社会を提供することによって、これらの問題に対処した）
+It is no surprise, therefore, that company towns spread throughout the United States.（だから、企業町がアメリカ全土に広がったのは驚くことではない）
+都市の下層階級の人々がかかえていた問題（安定しない仕事、危険で長い仕事、低い賃金、狭いアパートなど）を、企業町が解決したので、人々が集まって企業町が広がった、という流れです。本文と選択肢を対にすると、次のようになります。
+・本文 the lower classes in cities（都市の下層階級の人々）＝ 選択肢 members of the lower classes（下層階級の人々）
+・本文 offering better incomes and planned communities with comfortable housing ～（よい収入と、快適な住宅などを備えた地域社会を提供する）＝ 選択肢 offering them jobs with better working and living conditions（よりよい労働条件や生活条件のある仕事を提供する）
+・本文 company towns spread（企業町が広がった）→ 人々を引きつけたから、と読み取れること → 選択肢 were able to appeal to ～（～を引きつけることができた）
+ですから3が正解です。
+この問題の型：因果（よい収入や住宅を提供した → 企業町が広がった）
+【ほかの選択肢】
+1 従業員が複数の会社で働く必要がなかったので楽しむ時間が増えた、という話は本文にありません。本文の sole employer（ただ一つの雇い主）は、企業町では1つの会社が雇い主だったことを説明しているだけです。
+2 アメリカの外で生まれた考え方を取り入れた、という話は本文にありません。
+4 本文と食い違っています。本文では、都市の下層階級の生活はむしろ厳しかったと書かれています。また、農村部の人々が会社を呼びこもうとしたという話もありません。企業町は、会社が農村部に建てたものです。
+【覚えるポイント】
+・address：「（問題に）取り組む、対処する」。appeal to ～ は「～の心を引きつける」です。
+・It is no surprise, therefore, that ～（だから～なのは驚くことではない）は、その前の文に理由が書かれている手がかりになります。「何がきっかけで～になったか」という設問では、therefore の前を読みましょう。

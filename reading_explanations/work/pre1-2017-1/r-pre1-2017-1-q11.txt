@@ -1,0 +1,29 @@
+---
+choices: comply | conspire | rebound | replicate
+answerText: comply
+---
+【正解】1 comply（〈規則や命令に〉従う）
+【和訳】
+（英文）
+The principal told the schoolchildren that if they did not ［comply］ with the school rules they would be punished.
+（訳）
+校長は児童たちに、学校の規則に（従わ）なければ罰を受けることになると言った。
+（選択肢の意味）
+1 comply：（規則や命令に）従う
+2 conspire：陰謀を企てる、こっそり手を組む
+3 rebound：はね返る、立ち直る
+4 replicate：複製する、そっくり再現する
+【考え方】
+まず見るところ：空所のあとの with the school rules と、文の最後の they would be punished
+空所のある部分は次のとおりです。
+if they did not ( ) with the school rules they would be punished（もし学校の規則に（　）しなければ、罰を受けることになる）
+be punished は「罰せられる」です。規則について「～しなければ罰を受ける」と言うときの「～する」は、「規則に従う、規則を守る」だと考えられます。
+comply with ～ は「～（規則や命令）に従う」という決まった形です。後ろの with ともつながるので、1が正解です。
+この問題の型：熟語・決まった形（comply with ～）／因果（規則に従わない→罰を受ける）
+【ほかの選択肢】
+2 conspire は「陰謀を企てる」で、conspire with ～ は「（人）とこっそり手を組む」という意味です。「学校の規則と手を組まなければ罰を受ける」となり、意味が通りません。
+3 rebound は「はね返る、立ち直る」です。「学校の規則とはね返らなければ」となり、意味が通りません。
+4 replicate は「複製する、そっくり再現する」です。後ろに with が続く形では使わず、「規則を複製しなければ罰を受ける」という話も成り立ちません。
+【覚えるポイント】
+・comply with ～：「～（規則や命令）に従う」。
+・空所のあとの前置詞（ここでは with）は、どの動詞と組むかの手がかりになります。動詞の意味だけでなく、後ろの語とのつながりも確かめると選びやすくなります。

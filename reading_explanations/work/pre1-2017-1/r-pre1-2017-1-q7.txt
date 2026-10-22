@@ -1,0 +1,32 @@
+---
+choices: validity | correspondence | imbalance | mercy
+answerText: correspondence
+---
+【正解】2 correspondence（手紙のやりとり、文通）
+【和訳】
+（英文）
+After Ed went to Brazil to do research, he wrote his sister a letter every week. Their ［correspondence］ was interrupted, however, when Ed made trips to the jungle and could not send any mail.
+（訳）
+エドは研究をするためにブラジルへ行ったあと、毎週、姉（妹）に手紙を書いた。しかし、エドがジャングルへ出かけて郵便を何も送れなかったときには、2人の（手紙のやりとり）は途切れた。
+（選択肢の意味）
+1 validity：正当性、有効性
+2 correspondence：手紙のやりとり、文通
+3 imbalance：不均衡（つり合いがとれていないこと）
+4 mercy：慈悲、情け
+【考え方】
+まず見るところ：前の文の wrote his sister a letter every week と、空所の文の could not send any mail
+前の文は次のとおりです。
+he wrote his sister a letter every week（彼は毎週、姉（妹）に手紙を書いた）
+sister は年上か年下か分からないので、和訳では「姉（妹）」としています。
+空所のある文は次のとおりです。
+Their ( ) was interrupted, however, when Ed made trips to the jungle and could not send any mail.（しかし、エドがジャングルへ出かけて郵便を何も送れなかったときには、2人の（　）は途切れた）
+Their（2人の）はエドと姉（妹）を指します。was interrupted は「途切れた、じゃまされた」です。郵便を送れないときに途切れるものは、2人の間の手紙のやりとりだと分かります。
+correspondence は「手紙のやりとり、文通」という意味なので、2が正解です。
+この問題の型：言いかえ（wrote a letter every week→correspondence）／指示語（Their＝エドと姉（妹））
+【ほかの選択肢】
+1 validity は「正当性、有効性」です。「2人の正当性が途切れた」となり、郵便が送れないことと結びつきません。
+3 imbalance は「不均衡（つり合いがとれていないこと）」です。「2人の不均衡が途切れた」では、手紙を送れなくなったという話と合いません。
+4 mercy は「慈悲、情け」です。「2人の情けが途切れた」となり、郵便が送れないことが原因になる話として意味が通りません。
+【覚えるポイント】
+・correspondence：「手紙のやりとり、文通」。
+・空所の前の文に具体的な行動（ここでは毎週手紙を書いたこと）があるときは、それをひと言でまとめた名詞が空所に入ることが多いので、前の文の内容と同じものを表す語を探すと手がかりになります。

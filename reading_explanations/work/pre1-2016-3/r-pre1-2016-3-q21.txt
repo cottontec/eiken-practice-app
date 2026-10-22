@@ -1,0 +1,30 @@
+---
+choices: dread | emulate | mingle | abandon
+answerText: abandon
+---
+【正解】4 abandon（あきらめる、捨てる）
+【和訳】
+（英文）
+After his mother became seriously ill, David had to ［abandon］ his plans to go to college so that he could look after her.
+（訳）
+母親が重い病気になったあと、デイビッドは母親の世話ができるように、大学に進む計画を（あきらめ）なければなりませんでした。
+（選択肢の意味）
+1 dread：ひどく恐れる
+2 emulate：見習う、（尊敬する人を）手本にしてまねる
+3 mingle：混ざる、（人と）交わる
+4 abandon：あきらめる、捨てる
+【考え方】
+まず見るところ：文の最後の so that he could look after her
+文の初めは After his mother became seriously ill（母親が重い病気になったあと）です。
+最後の部分は次のとおりです。
+so that he could look after her（彼が彼女の世話をすることができるように）
+so that ～ can (could) … は「～が…できるように」という目的を表す形です。look after ～ は「～の世話をする」、her は his mother（母親）を指します。
+母親の世話をするために、大学に進む計画をそのまま続けるわけにはいかなくなったと考えられます。abandon は「（計画や考えを）あきらめる、捨てる」という意味で、abandon his plans で「計画をあきらめる」になります。had to（～しなければならなかった）ともつながるので、4が正解です。
+この問題の型：語の意味・組み合わせ（abandon his plans）／因果（母親の病気→世話をするために進学をあきらめる）
+【ほかの選択肢】
+1 dread は「ひどく恐れる」です。「母親の世話ができるように、大学に進む計画を恐れなければならなかった」となり、目的の so that ～ とつながりません。
+2 emulate は「見習う、手本にしてまねる」です。目的語（動詞の後ろにきて「～を」に当たる語）にはふつう尊敬する人などがきます。「計画を見習う」となり、意味が通りません。
+3 mingle は「混ざる、（人と）交わる」で、ふつう後ろに with ～ をつけて使います。「計画に交わる」となり、意味が通りません。
+【覚えるポイント】
+・abandon：「（計画や考えを）あきらめる、捨てる」。abandon one's plans（計画をあきらめる）のように使われます。
+・文の最後に so that ～ could …（～が…できるように）という目的があるときは、その目的のために何をしなければならなかったのかを考えると、空所の動詞を決める手がかりになります。

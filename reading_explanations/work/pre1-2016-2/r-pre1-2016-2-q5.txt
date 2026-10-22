@@ -1,0 +1,31 @@
+---
+choices: paired | mocked | puzzled | notified
+answerText: mocked
+---
+【正解】2 mocked（からかわれる、ばかにされる）
+【和訳】
+（英文）
+A: Francine, why are you wearing a hat today?
+B: Because the haircut I got yesterday looks ridiculous! I'm afraid of being ［mocked］ by everyone on campus.
+（訳）
+A：フランシーン、今日はどうして帽子をかぶっているの？
+B：昨日切ってもらった髪型がおかしく見えるからだよ！ キャンパス（大学の敷地）のみんなに（からかわれる）のがこわいんだ。
+（選択肢の意味）
+1 paired：組にされる、ペアにされる
+2 mocked：からかわれる、ばかにされる
+3 puzzled：困惑させられる
+4 notified：知らされる、通知される
+【考え方】
+まず見るところ：Bの the haircut I got yesterday looks ridiculous
+the haircut I got yesterday looks ridiculous（昨日切ってもらった髪型がおかしく見える）
+ridiculous は「ばかげた、笑われてしまうような」という意味です。帽子をかぶっているのは、この髪型を隠すためだと分かります。
+I'm afraid of being ( ) by everyone on campus（キャンパスのみんなに（　）されるのがこわい）
+being ＋過去分詞は「～されること」という受け身の形です。おかしな髪型を見られたら、みんなに笑われたり、からかわれたりしそうです。mocked は「からかわれる、ばかにされる」なので、2が正解です。
+この問題の型：因果（髪型がおかしい→からかわれるのがこわい→帽子をかぶる）
+【ほかの選択肢】
+1 paired は「組にされる」です。「みんなにペアにされるのがこわい」となり、おかしな髪型を帽子で隠す理由になりません。
+3 puzzled は「困惑させられる」です。「みんなに困惑させられるのがこわい」となり、髪型がおかしいこととつながりません。
+4 notified は「知らされる、通知される」です。「みんなに知らされるのがこわい」となり、意味が通りません。
+【覚えるポイント】
+・be afraid of being ～ed：「～されるのがこわい」。
+・受け身の空所では、「だれが、だれに、何をされるのか」を考えると、話の流れに合う動詞を選ぶ手がかりになります。

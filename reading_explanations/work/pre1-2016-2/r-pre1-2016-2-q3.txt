@@ -1,0 +1,29 @@
+---
+choices: outlook | influx | uproar | oversight
+answerText: uproar
+---
+【正解】3 uproar（大騒ぎ、激しい抗議の声）
+【和訳】
+（英文）
+The government plan to close 400 post offices has caused an ［uproar］ throughout the country. Many communities have already begun protesting.
+（訳）
+400の郵便局を閉鎖するという政府の計画は、国中で（大騒ぎ）を引き起こしている。すでに多くの地域が抗議を始めている。
+（選択肢の意味）
+1 outlook：見通し、物の見方
+2 influx：（人や物が）どっと流れこむこと
+3 uproar：大騒ぎ、激しい抗議の声
+4 oversight：見落とし、監督
+【考え方】
+まず見るところ：後ろの文の Many communities have already begun protesting.
+Many communities have already begun protesting.（すでに多くの地域が抗議を始めている）
+protest は「抗議する（反対の気持ちを強く表す）」という意味です。郵便局を閉鎖する計画に対して、人々が強く反対していることが分かります。
+空所のある文は has caused an ( ) throughout the country（国中で（　）を引き起こしている）です。人々が抗議を始めている様子をまとめると、「国中で大騒ぎになっている」と考えられます。uproar は「大騒ぎ、激しい抗議の声」なので、3が正解です。
+なお、4つの選択肢はどれも母音（ア・イ・ウ・エ・オに近い音）で始まるので、an から答えを決めることはできません。
+この問題の型：言いかえ（protesting → uproar）
+【ほかの選択肢】
+1 outlook は「見通し、物の見方」です。「計画が国中で見通しを引き起こしている」となり、人々の抗議とつながりません。
+2 influx は「（人や物が）どっと流れこむこと」です。郵便局を閉鎖する計画で何かが流れこむわけではなく、抗議の話ともつながりません。
+4 oversight は「見落とし、監督」です。「計画が国中で見落としを引き起こしている」となり、後ろの文の抗議とつながりません。
+【覚えるポイント】
+・cause an uproar：「大騒ぎを引き起こす」。
+・空所の後ろの文に人々の反応（ここでは protesting）が書かれているときは、その反応をまとめた語を選ぶと手がかりになります。

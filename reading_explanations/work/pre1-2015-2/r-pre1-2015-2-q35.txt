@@ -1,0 +1,34 @@
+---
+choices: Eating insects could help deal with an increasing population as it would make food production more efficient. | Although humans can eat insects, it would be more beneficial to use them as a food source for agricultural animals. | Insects have the potential to replace not only agricultural animals but many agricultural crops eaten by humans as well. | The fact that many mammals and birds eat insects shows that they are a suitable food source for humans.
+answerText: Eating insects could help deal with an increasing population as it would make food production more efficient.
+---
+【正解】1 Eating insects could help deal with an increasing population as it would make food production more efficient.（昆虫を食べることは、食料の生産をより効率的にするので、増え続ける人口に対処するのに役立ちうる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What does the Food and Agriculture Organization of the United Nations say about using insects as a food source?（国際連合食糧農業機関は、昆虫を食料源として使うことについて何と言っていますか。）
+1 Eating insects could help deal with an increasing population as it would make food production more efficient.（昆虫を食べることは、食料の生産をより効率的にするので、増え続ける人口に対処するのに役立ちうる。）
+2 Although humans can eat insects, it would be more beneficial to use them as a food source for agricultural animals.（人間は昆虫を食べられるが、昆虫を家畜の食料源として使うほうがより有益だろう。）
+3 Insects have the potential to replace not only agricultural animals but many agricultural crops eaten by humans as well.（昆虫には、家畜だけでなく、人間が食べる多くの農作物にも取って代わる可能性がある。）
+4 The fact that many mammals and birds eat insects shows that they are a suitable food source for humans.（多くの哺乳類や鳥類が昆虫を食べるという事実は、昆虫が人間にとって適した食料源であることを示している。）
+【考え方】
+まず見るところ：第1段落の insects are a possible solution と、そのあとの farming them would produce much more food on a relatively small area of land
+第1段落の初めで、問題が示されています。
+because of a rapidly expanding global population ～, many people are concerned about the sustainability of food supplies（世界の人口が急速に増えていることなどから、多くの人々が食料の供給の持続可能性を心配している）
+sustainability は「持続可能性（これから先もずっと続けられるかどうか）」です。そして FAO の報告書は、insects are a possible solution（昆虫は解決策の1つになりうる）と指摘しています。その理由が次の文です。
+They are high in protein, and they require far less space than mammals or birds do, so farming them would produce much more food on a relatively small area of land.（昆虫はたんぱく質を多く含み、哺乳類や鳥類よりもはるかに狭い場所しか必要としないので、昆虫を飼育すれば、比較的狭い土地でずっと多くの食料が生産できるだろう）
+狭い土地で多くの食料を作れるということは、食料の生産が効率的（むだが少なく、よい結果が出る様子）になるということです。
+本文と選択肢を対にすると、次のようになります。
+本文 a rapidly expanding global population（急速に増えている世界の人口）＝ 選択肢 an increasing population（増え続ける人口）
+本文 insects are a possible solution（昆虫は解決策の1つになりうる）＝ 選択肢 could help deal with（対処するのに役立ちうる）
+本文 produce much more food on a relatively small area of land（比較的狭い土地でずっと多くの食料を生産する）＝ 選択肢 make food production more efficient（食料の生産をより効率的にする）
+ですから1が正解です。
+この問題の型：言いかえ（much more food on a small area ＝ more efficient）
+【ほかの選択肢】
+2 本文には、昆虫を家畜のえさにするほうがよいとは書かれていません。FAO が問題にしているのは、人間が食べられる作物が動物のえさに使われていることで、昆虫を家畜の食料にする話ではありません。
+3 本文では、昆虫は人間や動物が食べられない植物などを食べると書かれていますが、昆虫が家畜や人間の食べる農作物に取って代わるとは書かれていません。not only A but B as well（AだけでなくBも）の「農作物にも取って代わる」という部分が本文にない内容です。
+4 本文で mammals or birds（哺乳類や鳥類）が出てくるのは、昆虫と必要な場所の広さを比べる部分だけです。哺乳類や鳥類が昆虫を食べるという話は書かれていません。
+【覚えるポイント】
+・far less space than ～：「～よりもはるかに狭い場所」。比べる相手は than のあとの mammals or birds です。
+・本文が具体的な数や量（狭い土地でずっと多くの食料）で説明していることを、選択肢では efficient（効率的な）のような1語でまとめていることがあります。本文の説明を短く言うとどうなるかを考えることが手がかりになります。

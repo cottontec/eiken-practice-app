@@ -1,0 +1,32 @@
+---
+choices: museum employees often hesitate to report missing items out of fear that they will be accused of stealing. | statistics on theft vary depending on the type of museum and the importance of its collections. | museums change exhibits so regularly that it is difficult for workers to keep track of smaller works of art. | thefts often go undiscovered as they are usually committed by people who work at the institutions that own the pieces.
+answerText: thefts often go undiscovered as they are usually committed by people who work at the institutions that own the pieces.
+---
+【正解】4 thefts often go undiscovered as they are usually committed by people who work at the institutions that own the pieces.（盗難は、たいていその品物を所有する施設で働く人によって行われるので、気づかれないままであることが多い。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：The example of the Historical Society of Pennsylvania supports the point that（ペンシルベニア歴史協会の例は、～という点を裏づけている。）
+1 museum employees often hesitate to report missing items out of fear that they will be accused of stealing.（美術館の職員は、自分が盗んだと責められることを恐れて、品物がなくなったことを報告するのをためらうことが多い。）
+2 statistics on theft vary depending on the type of museum and the importance of its collections.（盗難についての統計は、美術館の種類や、その所蔵品の重要さによって異なる。）
+3 museums change exhibits so regularly that it is difficult for workers to keep track of smaller works of art.（美術館はとても頻繁に展示を入れ替えるので、職員が小さな美術品を把握しておくのは難しい。）
+4 thefts often go undiscovered as they are usually committed by people who work at the institutions that own the pieces.（盗難は、たいていその品物を所有する施設で働く人によって行われるので、気づかれないままであることが多い。）
+【考え方】
+まず見るところ：第3段落の most often by researchers or staff who have access to the storerooms, and so ～
+ペンシルベニア歴史協会の例は、第3段落に for example（例えば）として出てきます。例が何を裏づけているかは、その前の文を見ると分かります。
+Hundreds of these are stolen every year, most often by researchers or staff who have access to the storerooms, and so the fact that they are missing tends to go unnoticed until discovered indirectly, if at all.（こうした品は毎年何百点も盗まれており、盗むのは収蔵庫に出入りできる研究者や職員であることが最も多い。そのため、品物がなくなっているという事実は、間接的に見つかるまで――そもそも見つかればの話だが――気づかれないままであることが多い）
+and so（そのため）の前が理由、あとが結果です。「内部の人が盗む → 気づかれにくい」という関係です。
+例の中身は、次のとおりです。夜間の用務員（建物の清掃や管理をする人）が200点以上の古い武器を盗んでいたことが、一覧表をコンピューターに入力しているときに by chance（偶然）明らかになりました。さらに、Not one of the items ～ had been identified as missing over the course of the decade in which they were taken.（盗まれていた10年の間、なくなっていると確認されたものは1点もなかった）とあります。
+本文と選択肢を対にすると、次のようになります。
+本文 most often by researchers or staff who have access to the storerooms（収蔵庫に出入りできる研究者や職員によることが最も多い）＝ 選択肢 usually committed by people who work at the institutions（たいてい施設で働く人によって行われる）
+本文 tends to go unnoticed（気づかれないままであることが多い）＝ 選択肢 often go undiscovered（気づかれないままであることが多い）
+ですから4が正解です。
+この問題の型：具体例とまとめ（用務員の例 → 内部の人の盗難は気づかれにくい）
+【ほかの選択肢】
+1 本文には、職員が自分が疑われるのを恐れて報告をためらうという話はありません。ペンシルベニア歴史協会の例では、なくなったことに10年間だれも気づいていなかったと書かれていて、気づいていながら報告しなかったのではありません。
+2 本文には、美術館の種類や所蔵品の重要さによって盗難の統計が異なるという話はありません。この例は、内部の人による盗難が気づかれにくいことを示すものです。
+3 本文の例で盗まれたのは、展示ではなく storerooms（収蔵庫）にしまわれていた品物です。展示を頻繁に入れ替えるから把握できないという話は書かれていません。
+【覚えるポイント】
+・go unnoticed / go undiscovered：「気づかれないままになる」。このように go のあとに un- のついた語が続く形は、「～されないままになる」という意味を表すことが多いです。
+・「～の例は、どの点を裏づけているか」という設問では、for example の前の文に、その例がまとめて言いたいことが書かれていることが多いです。例の前の文を必ず読みましょう。

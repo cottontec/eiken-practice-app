@@ -1,0 +1,31 @@
+---
+choices: encounters | sacrifices | rations | junctions
+answerText: rations
+---
+【正解】3 rations（〈一定量ずつ配られる〉食料）
+【和訳】
+（英文）
+As well as their weapons and other equipment, the soldiers had to carry two weeks' supply of ［rations］. The extra food made their packs heavier than usual.
+（訳）
+兵士たちは、武器やそのほかの装備に加えて、2週間分の（配給の食料）を運ばなければならなかった。その余分な食料のせいで、背負い袋はいつもより重くなった。
+（選択肢の意味）
+1 encounters：（思いがけない）出会い、遭遇
+2 sacrifices：犠牲、いけにえ
+3 rations：（一定量ずつ配られる）食料、配給量
+4 junctions：合流点、交差点
+【考え方】
+まず見るところ：次の文の The extra food
+空所のある文は次のとおりです。
+the soldiers had to carry two weeks' supply of ( )（兵士たちは、2週間分の（　）を運ばなければならなかった）
+two weeks' supply of ～ は「2週間分の～（のたくわえ）」という意味です。
+次の文に、兵士たちが運んだものが言いかえられています。
+The extra food made their packs heavier than usual.（その余分な食料のせいで、背負い袋はいつもより重くなった）
+The extra food（その余分な食料）は、前の文で運んだ「2週間分の（　）」を指していると考えられます。ration は「（一定量ずつ配られる）食料」という意味なので、3が正解です。
+この問題の型：指示語（The extra food が空所の語を指す）／言いかえ（rations→food）
+【ほかの選択肢】
+1 encounters は「（思いがけない）出会い」です。「2週間分の出会いを運ぶ」となり、意味が通りません。
+2 sacrifices は「犠牲、いけにえ」です。「2週間分の犠牲を運ぶ」では、次の文の「余分な食料」と結びつきません。
+4 junctions は「合流点、交差点」です。道や川が出会う場所のことで、背負って運ぶものではありません。
+【覚えるポイント】
+・rations：「（一定量ずつ配られる）食料、配給量」。
+・次の文に The extra food のような〈the＋名詞〉があるときは、前の文の空所の語を言いかえていることがあるので、その名詞と同じものを表す選択肢を探すと手がかりになります。

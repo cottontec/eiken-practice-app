@@ -1,0 +1,29 @@
+---
+choices: perspective | disposal | archive | subsistence
+answerText: perspective
+---
+【正解】1 perspective（見方、考え方）
+【和訳】
+（英文）
+After meeting with the CEO of a company hoping to construct a factory in the town, the mayor decided to hold a public meeting to get residents' ［perspective］ on the plan.
+（訳）
+町に工場を建てたいと考えている会社のCEO（最高経営責任者）と会ったあと、町長は、その計画についての住民の（見方）を聞くために、公開の会合を開くことにした。
+（選択肢の意味）
+1 perspective：見方、考え方
+2 disposal：処分、処理
+3 archive：記録保管所、保管された記録
+4 subsistence：（ぎりぎりの）生活、生計
+【考え方】
+まず見るところ：空所の前後の to get residents' ( ) on the plan
+町長が開くことにしたのは a public meeting（公開の会合、だれでも参加できる集まり）です。その目的が to 以下に書かれています。
+to get residents' ( ) on the plan（その計画について住民の（　）を得るために）
+the plan は、前に出てきた「町に工場を建てる計画」のことです。住民を集めた会合で計画について聞くものといえば、住民の意見や考えだと考えられます。
+perspective は「見方、考え方」という意味で、perspective on ～ で「～についての見方」となります。「工場の計画についての住民の見方を聞く」となり、意味が通るので、1が正解です。
+この問題の型：語の意味・組み合わせ（get ～'s perspective on the plan）／推論（公開の会合で住民から聞くもの）
+【ほかの選択肢】
+2 disposal は「処分、処理」です。「計画についての住民の処分を得る」となり、会合で住民から聞くものとして意味が通りません。
+3 archive は「記録保管所、保管された記録」です。工場の計画はこれからのことで、住民の記録を集める話ではありません。「計画についての住民の記録」では、会合を開く目的として合いません。
+4 subsistence は「（ぎりぎりの）生活、生計」です。「計画についての住民の生計を得る」となり、意味が通りません。
+【覚えるポイント】
+・perspective on ～：「～についての見方、考え方」。
+・to 以下で「何のために会合を開くのか」という目的が書かれているときは、その場で人々から得るもの（意見・考え）を表す語が入ると考えると手がかりになります。

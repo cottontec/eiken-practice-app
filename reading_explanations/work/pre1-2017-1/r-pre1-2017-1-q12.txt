@@ -1,0 +1,29 @@
+---
+choices: grant | strangle | withdraw | ignite
+answerText: withdraw
+---
+【正解】3 withdraw（撤退する、引き上げる）
+【和訳】
+（英文）
+As part of a peace plan, the two nations have ordered their armies to leave the region. The troops will begin to ［withdraw］ immediately.
+（訳）
+和平計画の一部として、2つの国はそれぞれの軍隊に、その地域から出ていくよう命じた。部隊はただちに（撤退し）始めることになる。
+（選択肢の意味）
+1 grant：与える、認める
+2 strangle：首を絞める
+3 withdraw：撤退する、引き上げる
+4 ignite：火をつける、（争いなどを）引き起こす
+【考え方】
+まず見るところ：前の文の ordered their armies to leave the region
+前の文は次のとおりです。
+the two nations have ordered their armies to leave the region（2つの国はそれぞれの軍隊に、その地域から出ていくよう命じた）
+order A to ～ は「Aに～するよう命じる」です。軍隊は「その地域から出ていく」よう命じられています。
+空所のある文の The troops（部隊）は、前の文の their armies（軍隊）を言いかえたものです。命令を受けた部隊がこれから始めることは「その地域から出ていくこと」です。withdraw は「（軍隊が）撤退する、引き上げる」という意味なので、3が正解です。
+この問題の型：言いかえ（leave the region→withdraw）
+【ほかの選択肢】
+1 grant は「与える、認める」です。ふつう「何を」与えるのかが後ろに必要で、「部隊はただちに与え始める」では意味が通りません。
+2 strangle は「首を絞める」です。和平計画の一部として地域を離れる部隊の行動として合いません。
+4 ignite は「火をつける、（争いなどを）引き起こす」です。和平（争いをやめて平和にすること）の計画と反対の向きになり、「地域から出ていく」という命令ともつながりません。
+【覚えるポイント】
+・withdraw：「（軍隊が）撤退する、引き上げる」。
+・空所の文の主語（The troops）が前の文の語（their armies）の言いかえになっているときは、前の文でその主語がするように言われたこと（ここでは leave the region）が空所の手がかりになります。

@@ -1,0 +1,31 @@
+---
+choices: Alexander finished writing a book about the functions of nature before he went on a journey. | The Humboldt brothers desired to become rich and chose their own study subjects accordingly. | The Humboldts' father wanted to teach them piano himself and took steps to make it happen. | Wilhelm wrote a proposal that has had a great impact on the German university system.
+answerText: Wilhelm wrote a proposal that has had a great impact on the German university system.
+---
+【正解】4 Wilhelm wrote a proposal that has had a great impact on the German university system.（ヴィルヘルムは、ドイツの大学制度に大きな影響を与えてきた提案書を書いた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Which of the following statements is true?（次の記述のうち、正しいものはどれですか。）
+1 Alexander finished writing a book about the functions of nature before he went on a journey.（アレクサンダーは、旅に出る前に、自然の働きについての本を書き終えた。）
+2 The Humboldt brothers desired to become rich and chose their own study subjects accordingly.（フンボルト兄弟は、お金持ちになりたいと望み、それに合わせて自分たちで勉強する科目を選んだ。）
+3 The Humboldts' father wanted to teach them piano himself and took steps to make it happen.（フンボルト家の父親は、自分で2人にピアノを教えたいと思い、それを実現するための手を打った。）
+4 Wilhelm wrote a proposal that has had a great impact on the German university system.（ヴィルヘルムは、ドイツの大学制度に大きな影響を与えてきた提案書を書いた。）
+【考え方】
+まず見るところ：第3段落の The proposal he wrote for the university has influenced the German university system ever since.
+ヴィルヘルムの仕事について、第3段落に書かれています。
+He served as the education director of the Ministry of the Interior in Prussia and helped found a university.（彼はプロイセンの内務省で教育局長を務め、ある大学の創設に力を貸した）
+The proposal he wrote for the university has influenced the German university system ever since.（彼がその大学のために書いた提案書は、それ以来ずっとドイツの大学制度に影響を与えてきた）
+has influenced ～ ever since は「それ以来ずっと～に影響を与えてきた」という意味で、今も続いていることを表しています。
+本文と選択肢を対にすると、次のようになります。
+本文 The proposal he wrote ～ has influenced the German university system ever since（彼が書いた提案書は、それ以来ずっとドイツの大学制度に影響を与えてきた）＝ 選択肢 Wilhelm wrote a proposal that has had a great impact on the German university system（ヴィルヘルムは、ドイツの大学制度に大きな影響を与えてきた提案書を書いた）
+本文の has influenced（影響を与えてきた）が、選択肢では has had a great impact on（～に大きな影響を与えてきた）と言いかえられています。ですから4が正解です。
+この問題の型：言いかえ（has influenced ＝ has had a great impact on）
+【ほかの選択肢】
+1 本文には、Alexander wrote books about what he had learned there after the trip.（アレクサンダーは旅のあと、そこで学んだことについて本を書いた）とあります。本を書いたのは旅のあとで、旅の前ではありません。時期が逆です。
+2 兄弟は、もともと wealthy family（裕福な家庭）に生まれています。お金持ちになりたいと望んだとは書かれていません。また、勉強する内容を決めたのは2人ではなく、教育を引き受けた母親です。
+3 ピアノの話は本文にありません。父親について書かれているのは、アレクサンダーがまだ子どものときに亡くなったことと、亡くなる前から両親が息子たちによい教育を受けさせたいと考えていたことだけです。
+【覚えるポイント】
+・influence：「～に影響を与える」。have an impact on ～ も「～に影響を与える」という意味で、言いかえによく使われます。
+・Which of the following statements is true?（正しいものはどれか）の問題では、選択肢ごとに本文の該当する段落を探し、時期（before ⇔ after）や人物（父親・母親・本人）が本文と同じかを確かめると、まちがいを見つけやすくなります。

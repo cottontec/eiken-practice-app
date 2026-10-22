@@ -1,0 +1,31 @@
+---
+choices: people have become more likely to come across advertisements with incorrect information. | stores and businesses put more effort into creating better advertisements than others. | the importance of advertising in ancient Egypt has become the target of study. | even ordinary people have begun to make their own advertisements for different purposes.
+answerText: people have become more likely to come across advertisements with incorrect information.
+---
+【正解】1 people have become more likely to come across advertisements with incorrect information.（人々が、まちがった情報を含む広告に出くわすことが、以前より多くなった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：With an increase in advertisements in people's daily lives,（人々の日常生活の中で広告が増えたことで、）
+1 people have become more likely to come across advertisements with incorrect information.（人々が、まちがった情報を含む広告に出くわすことが、以前より多くなった。）
+2 stores and businesses put more effort into creating better advertisements than others.（店や企業は、ほかよりもよい広告を作ることに、より力を入れた。）
+3 the importance of advertising in ancient Egypt has become the target of study.（古代エジプトにおける広告の重要性が、研究の対象になった。）
+4 even ordinary people have begun to make their own advertisements for different purposes.（ふつうの人々でさえ、さまざまな目的のために自分の広告を作り始めた。）
+【考え方】
+まず見るところ：第1段落の最後の文の The increase in advertisements has led to more advertisements with wrong information
+設問の an increase in advertisements（広告が増えたこと）と同じ言葉が、第1段落の最後の文にあります。
+The increase in advertisements has led to more advertisements with wrong information（広告が増えたことで、まちがった情報を含む広告が（以前より）多くなった）
+lead to ～ は「～につながる、～をもたらす」です。
+本文と選択肢を対にすると、次のようになります。
+本文 wrong information（まちがった情報）＝ 選択肢 incorrect information（正しくない情報）
+本文 more advertisements with wrong information（まちがった情報を含む広告が多くなった）→ 選択肢 people have become more likely to come across ～（人々が～に出くわすことが多くなった）
+まちがった情報を含む広告が増えれば、人々がそうした広告を目にする機会も増えると考えられます。come across は「（偶然）出くわす」、be likely to ～ は「～しそうだ」です。ですから1が正解です。
+この問題の型：言いかえ（wrong information → incorrect information）／推論（広告が増えた→出くわしやすくなった）
+【ほかの選択肢】
+2 本文にありません。店や企業がほかよりもよい広告を作ろうと力を入れたという話は、本文に出てきません。
+3 本文にありません。古代エジプトは、最も古い広告が現れたとされる場所として出てくるだけで、その重要性が研究の対象になったとは書かれていません。
+4 本文にありません。ふつうの人々が自分で広告を作り始めたという話は、本文に出てきません。本文で広告を出しているのは businesses（企業）です。
+【覚えるポイント】
+・lead to ～：「～につながる、～をもたらす」。has led to more ～ は「（以前より）多くの～をもたらした」となり、結果を表す手がかりになります。
+・設問の書き出し（ここでは With an increase in advertisements）と同じ言葉を本文で探し、その文の後半を読むと、答えの場所を見つける手がかりになります。

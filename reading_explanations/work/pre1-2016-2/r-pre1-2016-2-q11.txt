@@ -1,0 +1,28 @@
+---
+choices: cherished | administered | disgusted | punctured
+answerText: administered
+---
+【正解】2 administered（（治療などが）施される）
+【和訳】
+（英文）
+The hospital director hopes that hiring more medical staff will enable treatment to be ［administered］ to patients more quickly. "We hope to cut waiting time by 40 percent," he said.
+（訳）
+その病院長は、医療スタッフを（今より）多く雇えば、患者への治療が（今より）すばやく（施される）ようになることを望んでいる。「待ち時間を40パーセント減らしたいと考えています」と病院長は言った。
+（選択肢の意味）
+1 cherished：大切にされる
+2 administered：（治療・薬などが）施される、与えられる
+3 disgusted：うんざりさせられる
+4 punctured：穴をあけられる
+【考え方】
+まず見るところ：空所の前後の treatment to be ( ) to patients
+enable treatment to be ( ) to patients more quickly（治療が患者に（今より）すばやく（　）されるのを可能にする）
+enable A to do は「Aが～できるようにする」という意味です。to be ＋過去分詞は受け身なので、「治療が患者に～される」という形になります。
+administer は「管理する」という意味のほかに、「（治療や薬を）施す、与える」という意味があり、administer treatment to patients で「患者に治療を施す」となります。病院長の言葉「待ち時間を40パーセント減らしたい」とも合うので、2が正解です。
+この問題の型：語の意味・組み合わせ（treatment is administered to patients）
+【ほかの選択肢】
+1 cherished は「大切にされる」です。「治療が患者へ大切にされる」となり、to patients（患者に）とつながらず、意味が通りません。
+3 disgusted は「うんざりさせられる」で、人の気持ちを表す語です。「治療がうんざりさせられる」となり、意味が通りません。
+4 punctured は「（タイヤなどに）穴をあけられる」です。治療について言う言葉として意味が通りません。
+【覚えるポイント】
+・administer A to B：「BにA（治療や薬）を施す、与える」。「管理する」の意味だけでなく、この意味でも使われます。
+・空所の後ろに to patients のような「だれに」を表す語句があるときは、「何を、だれに与えるのか」という組み合わせで動詞を選ぶと手がかりになります。

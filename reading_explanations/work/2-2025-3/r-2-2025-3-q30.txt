@@ -1,0 +1,33 @@
+---
+choices: banning advertisements would be against the right to advertise and freedom of speech. | removing advertisements would improve the economy and bring more tourists. | fewer advertisements will lead to a decrease in the number of violent crimes. | it will be easier for the cities to invite new businesses by banning advertisements.
+answerText: banning advertisements would be against the right to advertise and freedom of speech.
+---
+【正解】1 banning advertisements would be against the right to advertise and freedom of speech.（広告を禁止することは、広告をする権利と言論の自由に反するだろう。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：In Switzerland, some people think that（スイスでは、一部の人々は～と考えている。）
+1 banning advertisements would be against the right to advertise and freedom of speech.（広告を禁止することは、広告をする権利と言論の自由に反するだろう。）
+2 removing advertisements would improve the economy and bring more tourists.（広告を取り除くことは、経済をよくし、より多くの観光客を呼びこむだろう。）
+3 fewer advertisements will lead to a decrease in the number of violent crimes.（広告が減ることは、暴力的な犯罪の件数が減ることにつながるだろう。）
+4 it will be easier for the cities to invite new businesses by banning advertisements.（広告を禁止することで、都市が新しい企業を招きやすくなるだろう。）
+【考え方】
+まず見るところ：第4段落の Some believe that banning advertisements would go against this right.
+スイスの話は第4段落に書かれています。設問の some people think（一部の人々は考えている）に近い言葉を探します。
+However, freedom of speech is emphasized in the country, and the right to advertise is seen as an important part of that freedom.（しかし、その国では言論の自由が重んじられており、広告をする権利は、その自由の大切な一部だと見なされている）
+Some believe that banning advertisements would go against this right.（広告を禁止することはこの権利に反すると考える人もいる）
+this right（この権利）は、前の文の the right to advertise（広告をする権利）を指しています。そしてこの権利は、言論の自由の一部だと述べられています。
+本文と選択肢を対にすると、次のようになります。
+本文 Some believe（～と考える人もいる）＝ 設問 some people think（一部の人々は考えている）
+本文 would go against this right（この権利に反するだろう）＝ 選択肢 would be against the right to advertise（広告をする権利に反するだろう）
+本文 that freedom（その自由＝言論の自由）→ 選択肢 freedom of speech（言論の自由）
+ですから1が正解です。
+この問題の型：言いかえ（go against → be against）／指示語（this right＝the right to advertise）
+【ほかの選択肢】
+2 本文にありません。ベルニエの自治体は、広告を取り除けば市の美しさが取りもどされ、環境全体がよくなると主張していますが、経済がよくなる、観光客が増えるという話はありません。
+3 本文にありません。犯罪の件数についての話は出てきません。
+4 本文と合いません。本文では、広告が禁止されたら客を失うかもしれないと心配する企業があると書かれていて、広告の禁止で新しい企業を招きやすくなるという話はありません。
+【覚えるポイント】
+・go against ～：「～に反する」。be against ～（～に反対である、～に反する）と言いかえられることがあります。
+・this right（この権利）のような指示語が出てきたら、すぐ前の文の何を指すか（ここでは the right to advertise）を確かめると、選択肢との対応を見つける手がかりになります。

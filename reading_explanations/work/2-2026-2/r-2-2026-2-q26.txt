@@ -1,0 +1,33 @@
+---
+choices: she should close the shop permanently on that day as planned. | she may need time to ask other shops if they are interested. | the renovation team may want to use the furniture. | the renovation work will begin sometime this week.
+answerText: she may need time to ask other shops if they are interested.
+---
+【正解】2 she may need time to ask other shops if they are interested.（彼女は、ほかの店に興味があるかどうかをたずねるための時間が必要になるかもしれない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Katy wants a reply by Friday because（ケイティが金曜日までに返事がほしいのは、～からです。）
+1 she should close the shop permanently on that day as planned.（彼女は、予定どおりその日に店を永久に閉めなければならない）
+2 she may need time to ask other shops if they are interested.（彼女は、ほかの店に興味があるかどうかをたずねるための時間が必要になるかもしれない）
+3 the renovation team may want to use the furniture.（改装の作業チームが、その家具を使いたがるかもしれない）
+4 the renovation work will begin sometime this week.（改装の作業が今週中に始まる）
+【考え方】
+まず見るところ：第3段落の Contacting other shops and waiting for their replies may take some time
+第3段落の初めに、次の文があります。
+In case you are unable to accept the items, I will need to check whether other shops might want them.（もし品物を引き取っていただけない場合は、ほかのお店がほしがるかどうかを確かめる必要がある）
+ジョージの店が引き取れない場合、ケイティはほかの店に聞いてみなければなりません。続く文は次のとおりです。
+Contacting other shops and waiting for their replies may take some time, so I would appreciate it if you could let me know soon.（ほかのお店に連絡して返事を待つのには時間がかかるかもしれないので、早めにお知らせいただけるとありがたい）
+ほかの店に聞くための時間を残しておきたいので、早く返事がほしいのです。そして最後に「今週の金曜日までに」と期限を伝えています。
+本文と選択肢を対にすると、次のようになります。
+本文 check whether other shops might want them（ほかのお店がほしがるかどうかを確かめる）→ 選択肢 ask other shops if they are interested（ほかの店に興味があるかどうかをたずねる）
+本文 may take some time（時間がかかるかもしれない）＝ 選択肢 may need time（時間が必要になるかもしれない）
+ですから2が正解です。
+この問題の型：言いかえ（check whether other shops might want them → ask other shops if they are interested）／因果（ほかの店に聞く時間が必要→早めに返事がほしい）
+【ほかの選択肢】
+1 本文にありません。ケイティは店を renovate（改装する）予定で、金曜日に店を永久に閉めるという話はありません。
+3 本文にありません。改装の作業員については、2週間後に作業を始めることしか書かれておらず、家具を使いたがっているという話はありません。
+4 時期が違います。本文には the renovation crew will start working in two weeks（改装の作業員が2週間後に作業を始める）とあり、今週中ではありません。
+【覚えるポイント】
+・in two weeks：「2週間後に」。this week（今週）と時期が違うことに注意しましょう。
+・「～までに返事がほしいのはなぜか」という設問では、期限の文の近くにある so（だから）や since（～なので）のあとに理由が書かれていることが多いので、そこを確かめると手がかりになります。

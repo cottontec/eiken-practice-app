@@ -1,0 +1,30 @@
+---
+choices: gliding | grazing | grooming | glancing
+answerText: grazing
+---
+【正解】2 grazing（〈家畜が〉草を食べている）
+【和訳】
+（英文）
+The cows were ［grazing］ peacefully in the meadow. They were so focused on eating that they did not even look up as the farmer walked past.
+（訳）
+牛たちは牧草地でのんびりと（草を食べて）いた。食べることにとても集中していたので、農家の人がそばを通り過ぎても、顔を上げることさえしなかった。
+（選択肢の意味）
+1 gliding：すべるように進んでいる
+2 grazing：（家畜が）草を食べている
+3 grooming：毛づくろいをしている、身なりを整えている
+4 glancing：ちらりと見ている
+【考え方】
+まず見るところ：次の文の They were so focused on eating
+空所のある文は「牛たちは牧草地でのんびりと（　）していた」です。meadow は「牧草地（家畜のえさになる草が生えている土地）」です。
+次の文に、牛たちが何をしていたのかが書かれています。
+They were so focused on eating that they did not even look up as the farmer walked past.（食べることにとても集中していたので、農家の人がそばを通り過ぎても、顔を上げることさえしなかった）
+so ～ that … は「とても～なので…」という形です。牛たちは eating（食べること）に集中していたことが分かります。
+牧草地で牛が食べるのは草です。graze は「（牛や羊などが）草を食べる」という意味なので、2が正解です。
+この問題の型：言いかえ（次の文の eating が空所の内容を説明している）／語の意味・組み合わせ（cows と graze）
+【ほかの選択肢】
+1 gliding は「すべるように進んでいる」です。牛たちが牧草地をすべるように進んでいた、では、次の文の「食べることに集中していた」とつながりません。
+3 grooming は「毛づくろいをしている」です。次の文で集中していたのは eating（食べること）なので、毛づくろいとは合いません。
+4 glancing は「ちらりと見ている」です。次の文には、農家の人が通っても顔を上げることさえしなかったとあり、何かをちらりと見ていた様子とは合いません。
+【覚えるポイント】
+・graze：「（牛や羊などが）草を食べる」。
+・空所のすぐあとの文が、空所の様子をくわしく説明していることがあります。そこにある語（ここでは eating）と同じ内容の選択肢を探すと手がかりになります。

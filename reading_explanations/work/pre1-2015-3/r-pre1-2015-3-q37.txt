@@ -1,0 +1,32 @@
+---
+choices: Viewers often find that the characters in the film actually appear to be more violent and evil than characters in modern films. | The film has had such a powerful influence that the things that once made it controversial seem very common now. | Viewers are usually surprised by how greatly American culture has changed since Bonnie Parker and Clyde Barrow were alive. | Modern reactions to the film are due to changes Penn made after critics pointed out problems with his filmmaking style.
+answerText: The film has had such a powerful influence that the things that once made it controversial seem very common now.
+---
+【正解】2 The film has had such a powerful influence that the things that once made it controversial seem very common now.（その映画がとても強い影響を与えてきたので、かつてそれを物議をかもすもの〔議論や反発を呼ぶもの〕にしていた点が、今ではとてもありふれたものに思える。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What does the author of the passage say about the way modern viewers may react to Bonnie and Clyde?（この文章の筆者は、現代の観客が『ボニーとクライド』にどう反応するかもしれないかについて、何と言っていますか。）
+1 Viewers often find that the characters in the film actually appear to be more violent and evil than characters in modern films.（観客は、その映画の登場人物が、実は現代の映画の登場人物よりも暴力的で邪悪に見えると感じることが多い。）
+2 The film has had such a powerful influence that the things that once made it controversial seem very common now.（その映画がとても強い影響を与えてきたので、かつてそれを物議をかもすものにしていた点が、今ではとてもありふれたものに思える。）
+3 Viewers are usually surprised by how greatly American culture has changed since Bonnie Parker and Clyde Barrow were alive.（観客はたいてい、ボニー・パーカーとクライド・バロウが生きていたころから、アメリカの文化がどれほど大きく変わったかに驚く。）
+4 Modern reactions to the film are due to changes Penn made after critics pointed out problems with his filmmaking style.（その映画に対する現代の反応は、批評家たちに映画の作り方の問題点を指摘されたあとで、ペンが加えた変更によるものだ。）
+【考え方】
+まず見るところ：第4段落の this is because Arthur Penn's pioneering filmmaking techniques, ～ have been so widely imitated that ～
+現代の観客の反応は、最後の第4段落に書かれています。
+Modern viewers of Bonnie and Clyde may be surprised because the film does not seem at all shocking now.（現代の『ボニーとクライド』の観客は、その映画が今ではまったく衝撃的に思えないので、驚くかもしれない）
+However, this is because Arthur Penn's pioneering filmmaking techniques, use of antihero characters, and willingness to show realistic violence have been so widely imitated that they are now barely noticeable in the movie that pioneered them.（しかし、これは、ペンの先駆的な映画製作の技法、アンチヒーローの登場人物の使用、現実的な暴力を見せようとする姿勢が、非常に広くまねされてきたので、それらを最初に切り開いた映画の中では、今ではほとんど目立たなくなっているからだ）
+so ～ that ...（とても～なので…）の形で、「広くまねされた → 目立たなくなった」という因果（原因と結果）が書かれています。本文と選択肢を対にすると、次のようになります。
+・本文 have been so widely imitated（非常に広くまねされてきた）→ まねされるのは影響が大きいから、と読み取れること → 選択肢 has had such a powerful influence（とても強い影響を与えてきた）
+・本文 techniques, use of antihero characters, and willingness to show realistic violence（技法、アンチヒーロー、現実的な暴力）＝ 選択肢 the things that once made it controversial（かつてそれを物議をかもすものにしていた点）
+・本文 are now barely noticeable（今ではほとんど目立たない）＝ 選択肢 seem very common now（今ではとてもありふれたものに思える）
+controversial は「物議をかもす（多くの人の議論や反発を呼ぶ）」という意味で、第1段落で批評家たちに嫌われたことや、第2・第3段落でヘイズ・コードに逆らったことを指しています。ですから2が正解です。
+この問題の型：言いかえ（so widely imitated ～ barely noticeable → such a powerful influence ～ seem very common）
+【ほかの選択肢】
+1 本文は、現代の観客にはこの映画が「まったく衝撃的に思えない」と言っています。現代の映画の登場人物より暴力的で邪悪に見える、というのは本文と反対の内容です。
+3 本文で現代の観客が驚く理由は、映画が衝撃的に思えないことです。ボニーとクライドが生きていたころからアメリカの文化がどれだけ変わったかに驚く、という話は本文にありません。
+4 ペンが批評家に指摘されたあとで映画を変えた、という話は本文にありません。批評家が映画を嫌ったことは第1段落にありますが、それを受けてペンが変更を加えたとは書かれていません。
+【覚えるポイント】
+・controversial：「物議をかもす、議論や反発を呼ぶ」。imitate は「まねる」、barely noticeable は「ほとんど目立たない」です。
+・However, this is because ～（しかし、これは～だからだ）のように、筆者が前の文の理由を説明しているところは、筆者の考えをたずねる設問の答えの手がかりになることが多いです。

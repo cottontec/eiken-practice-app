@@ -1,0 +1,29 @@
+---
+choices: For this purpose | As a result | Likewise | On the other hand
+answerText: As a result
+---
+【正解】2 As a result（その結果）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 For this purpose（この目的のために）
+2 As a result（その結果）
+3 Likewise（同じように）
+4 On the other hand（その一方で）
+【考え方】
+まず見るところ：第2段落の空所の直前の The disease wakes up the bats from their winter sleep.
+空所の直前の文は次のとおりです。
+The disease wakes up the bats from their winter sleep.（この病気は、コウモリを冬の眠りから目覚めさせてしまう）
+空所のあとは次のとおりです。
+once awake, they begin to move around, causing them to lose the body fat that they have stored（いったん目が覚めると、コウモリは動き回り始め、そのせいで、たくわえておいた体の脂肪を失ってしまう）
+空所の前は「病気がコウモリを目覚めさせる」という原因、あとは「目が覚めたコウモリが動き回って脂肪を失う」という、それによって起こることです。once awake（いったん目が覚めると）も、前の文の「目覚めさせる」を受けています。
+原因のあとに結果を続けるときは、As a result（その結果）を使います。ですから2が正解です。
+この問題の型：因果（目覚めさせられる→動き回って脂肪を失う）
+【ほかの選択肢】
+1 For this purpose は「この目的のために」で、前に述べた目的を果たすための行動が続くときに使います。コウモリは何かの目的のために動き回って脂肪を失うわけではないので合いません。
+3 Likewise は「同じように」で、前と似た別の例を挙げるときに使います。空所のあとは、前の文と似た別の話ではなく、前の文の続きとして起こることなので合いません。
+4 On the other hand は「その一方で」で、前と反対の面や違う面を示すときに使います。空所の前とあとは、どちらも病気による悪い流れの続きで、反対の内容ではないので合いません。
+【覚えるポイント】
+・As a result：「その結果」。前に原因、あとに結果がきます。
+・つなぎの語句の空所では、前の文とあとの文が「原因と結果」「目的と行動」「似た例」「反対」のどれかを確かめると、選ぶ手がかりになります。

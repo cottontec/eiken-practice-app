@@ -1,0 +1,28 @@
+---
+choices: recollect | deteriorate | reveal | liberate
+answerText: liberate
+---
+【正解】4 liberate（解放する、自由にする）
+【和訳】
+（英文）
+Soldiers moved quickly to ［liberate］ the political prisoners after the dictator was defeated. Cheering crowds celebrated the prisoners' long-awaited freedom.
+（訳）
+独裁者が打ち負かされたあと、兵士たちは政治犯たちを（解放する）ために、すばやく動いた。歓声をあげる群衆は、囚人たちの待ち望まれていた自由を祝った。
+（選択肢の意味）
+1 recollect：思い出す
+2 deteriorate：悪化する、悪化させる
+3 reveal：明らかにする
+4 liberate：解放する、自由にする
+【考え方】
+まず見るところ：後ろの文の the prisoners' long-awaited freedom
+Cheering crowds celebrated the prisoners' long-awaited freedom.（歓声をあげる群衆は、囚人たちの待ち望まれていた自由を祝った）
+long-awaited は「長い間待ち望まれていた」、freedom は「自由」という意味です。囚人たちが自由になったことを、人々が喜んでいます。
+空所のある文に出てくる dictator は「独裁者（ひとりで国のすべてを決め、反対する人をおさえつける支配者）」、political prisoners は「政治犯（政府に反対したなどの理由でとらえられた人）」です。独裁者が倒れたあと、とらえられていた人々を自由にするために兵士が動いた、と考えると後ろの文とつながります。liberate は「解放する、自由にする」なので、4が正解です。
+この問題の型：言いかえ（liberate → freedom）
+【ほかの選択肢】
+1 recollect は「思い出す」です。「兵士たちが政治犯たちを思い出すためにすばやく動いた」となり、囚人たちの自由を祝う後ろの文とつながりません。
+2 deteriorate は「悪化する、悪化させる」です。囚人たちの状態を悪くするのでは、人々が歓声をあげて自由を祝うことと反対になります。
+3 reveal は「明らかにする」です。「政治犯たちを明らかにする」となり、何を明らかにするのか意味が通らず、自由を祝う話にもつながりません。
+【覚えるポイント】
+・liberate：「解放する、自由にする」。後ろの文の freedom（自由）と結びつく語です。
+・空所の文の次の文に、その結果の様子（ここでは freedom を祝う人々）が書かれているときは、その結果を生む動作を表す語が手がかりになります。

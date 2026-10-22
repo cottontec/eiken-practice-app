@@ -1,0 +1,32 @@
+---
+choices: The majority of factory workers were saving the money they earned instead of spending it on manufactured goods. | Many workers preferred to remain living in rural areas because they felt living standards were lower in the cities. | The high shipping rates charged by railroads for transporting raw materials limited the ability of businesses to expand. | Raw materials needed for industrial production were usually located far from cities with large numbers of workers.
+answerText: Raw materials needed for industrial production were usually located far from cities with large numbers of workers.
+---
+【正解】4 Raw materials needed for industrial production were usually located far from cities with large numbers of workers.（工業生産に必要な原材料は、たいてい、多くの働き手がいる都市から遠く離れた場所にあった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What problem developed as U.S. industry grew in the 1800s?（1800年代にアメリカの産業が成長するにつれて、どのような問題が生じましたか。）
+1 The majority of factory workers were saving the money they earned instead of spending it on manufactured goods.（工場労働者の大多数が、かせいだお金を工業製品に使わずに、貯金していた。）
+2 Many workers preferred to remain living in rural areas because they felt living standards were lower in the cities.（都市のほうが生活水準が低いと感じたので、多くの労働者が農村部に住み続けるほうを好んだ。）
+3 The high shipping rates charged by railroads for transporting raw materials limited the ability of businesses to expand.（原材料を運ぶために鉄道が請求する高い運賃が、企業が事業を広げる力を制限した。）
+4 Raw materials needed for industrial production were usually located far from cities with large numbers of workers.（工業生産に必要な原材料は、たいてい、多くの働き手がいる都市から遠く離れた場所にあった。）
+【考え方】
+まず見るところ：第1段落の These resources were generally located in faraway areas
+1800年代の産業の成長については、第1段落に書かれています。The factories, however, ～（しかし、工場は～）のあとに、問題点が出てきます。
+The factories, however, required enormous quantities of resources such as metal, coal, and lumber.（しかし、工場は、金属、石炭、材木といった資源を莫大な量必要とした）
+These resources were generally located in faraway areas, and though railroads made it possible to ship them to cities where factories were located, companies faced a great challenge in hiring and maintaining the sizeable workforces required to supply resources to their factories.（これらの資源はたいてい遠く離れた地域にあり、鉄道によって工場のある都市へそれらを運ぶことは可能になったものの、会社は、工場に資源を供給するために必要なかなりの人数の働き手を雇い、つなぎとめておくことに大きな課題を抱えていた）
+また、この段落の初めには、多くの農民が工場で働くために都市へ移り住んだと書かれています。つまり、働き手は都市に集まっているのに、資源は遠く離れた場所にあったのです。本文と選択肢を対にすると、次のようになります。
+・本文 resources such as metal, coal, and lumber（金属、石炭、材木といった資源）＝ 選択肢 Raw materials needed for industrial production（工業生産に必要な原材料）
+・本文 were generally located in faraway areas（たいてい遠く離れた地域にあった）＝ 選択肢 were usually located far from cities（たいてい都市から遠く離れた場所にあった）
+・本文 farmers ～ moved to urban centers like New York City（農民がニューヨーク市のような都市の中心部へ移り住んだ）→ 読み取れること → 選択肢 cities with large numbers of workers（多くの働き手がいる都市）
+ですから4が正解です。
+この問題の型：言いかえ（resources ～ located in faraway areas → raw materials ～ located far from cities）
+【ほかの選択肢】
+1 工場労働者がお金を使わずに貯金していた、という話は本文にありません。本文に書かれているのは、工場で働いて決まった収入を得て、生活水準を上げられたことです。
+2 本文と反対の内容です。本文では、多くの農民が、生活水準を上げられる都市へ移り住んだと書かれています。
+3 鉄道の運賃が高かった、という話は本文にありません。本文では、鉄道によって資源を都市へ運ぶことが可能になったと書かれています。会社にとっての課題は、資源を集めるために必要な働き手を雇い、つなぎとめておくことでした。
+【覚えるポイント】
+・be located in ～：「～にある、位置する」。faraway は「遠く離れた」です。
+・「どんな問題が生じたか」という設問では、本文の however（しかし）や faced a great challenge（大きな課題に直面した）のような、困ったことを表す語のまわりを探すのが手がかりになります。

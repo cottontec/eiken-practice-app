@@ -1,0 +1,31 @@
+---
+choices: He is proud of having discovered the Llullaillaco mummies but thinks it is wrong to profit from them. | He supports the transfer of the Llullaillaco mummies to a museum because he believes they are safer there. | He fears the Llullaillaco mummies were damaged so badly that it will never be possible to display them. | He is certain that some of the Llullaillaco mummies' possessions were stolen before he discovered the mummies.
+answerText: He supports the transfer of the Llullaillaco mummies to a museum because he believes they are safer there.
+---
+【正解】2 He supports the transfer of the Llullaillaco mummies to a museum because he believes they are safer there.（彼は、ユーヤイヤコのミイラは博物館のほうが安全だと考えているので、ミイラを博物館へ移すことを支持している。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What do we learn about Johan Reinhard?（ヨハン・ラインハルトについて何が分かるか。）
+1 He is proud of having discovered the Llullaillaco mummies but thinks it is wrong to profit from them.（彼は、ユーヤイヤコのミイラを発見したことを誇りに思っているが、それでもうけるのはまちがっていると考えている。）
+2 He supports the transfer of the Llullaillaco mummies to a museum because he believes they are safer there.（彼は、ユーヤイヤコのミイラは博物館のほうが安全だと考えているので、ミイラを博物館へ移すことを支持している。）
+3 He fears the Llullaillaco mummies were damaged so badly that it will never be possible to display them.（彼は、ユーヤイヤコのミイラはひどく傷んでいて、決して展示できないのではないかと心配している。）
+4 He is certain that some of the Llullaillaco mummies' possessions were stolen before he discovered the mummies.（彼は、自分がミイラを発見する前に、ユーヤイヤコのミイラの持ち物の一部が盗まれていたと確信している。）
+【考え方】
+まず見るところ：第3段落の it is better to keep such remains in museums, where they can be protected from thieves
+ラインハルトについては、第3段落の初めに書かれています。彼は、ユーヤイヤコ山のミイラを発見したアメリカ人の考古学者（昔の人々が残した物を調べる学者）です。
+He argues that it is better to keep such remains in museums, where they can be protected from thieves.（彼は、このような遺体は、泥棒から守ることのできる博物館に保管しておくほうがよいと主張している）
+where ～ は、前の museums（博物館）に「そこでは～」と説明を付け足しています。
+本文と選択肢を対にすると、次のようになります。
+本文 it is better to keep such remains in museums（このような遺体は博物館に保管するほうがよい）→ 選択肢 supports the transfer of the mummies to a museum（ミイラを博物館へ移すことを支持している）
+本文 where they can be protected from thieves（そこでは泥棒から守られる）→ 選択肢 because he believes they are safer there（博物館のほうが安全だと考えているので）
+transfer は「移すこと」です。ミイラはユーヤイヤコ山で見つかったので、「博物館に保管するほうがよい」という考えは、ミイラを博物館へ移すことを支持する考えだと読み取れます。ですから2が正解です。
+この問題の型：言いかえ（protected from thieves → safer there）
+【ほかの選択肢】
+1 ミイラの展示を「お金もうけ」と結びつけて批判しているのは、アルゼンチン先住民協会の会長グアヌコで、it turns something spiritual into something commercial（精神的なものを商業的なものに変えてしまう）と言っています。ラインハルトは違う見方をしており、自分の仕事を文化の保存だと考えています。発見を誇りに思っているとも書かれていません。
+3 本文と食い違います。インカのミイラは are on display at a museum in Argentina（アルゼンチンの博物館で展示されている）とあり、すでに展示されています。
+4 本文の thieves（泥棒）は、博物館に置けば泥棒から守れる、という部分に出てくるだけです。発見前に持ち物が盗まれていた、という話は書かれていません。
+【覚えるポイント】
+・protect A from B：「AをBから守る」。be protected from thieves で「泥棒から守られる」→「安全だ」と言いかえられます。
+・複数の人物の意見が対立している本文では、however や a different perspective（違う見方）などの語を目印に、どの意見がだれのものかを分けて読むことが手がかりになります。

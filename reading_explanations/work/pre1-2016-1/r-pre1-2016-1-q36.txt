@@ -1,0 +1,35 @@
+---
+choices: It was a legal battle between schools and the US government that led to more opportunities for female athletes. | It contributed to a national trend that led the US government to change its interpretation of Title IX. | It made people acknowledge that if a woman could defeat a man in a sporting event, women could also excel in academics. | It demonstrated that the lack of adequate training facilities had been having a negative effect on female athletes' abilities.
+answerText: It contributed to a national trend that led the US government to change its interpretation of Title IX.
+---
+【正解】2 It contributed to a national trend that led the US government to change its interpretation of Title IX.（それは、アメリカ政府がタイトル・ナインの解釈を変えることにつながった全国的な流れに一役買った。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is true of the Battle of the Sexes?（「バトル・オブ・ザ・セクシーズ」について正しいのはどれですか。）
+1 It was a legal battle between schools and the US government that led to more opportunities for female athletes.（それは学校とアメリカ政府の間の法律上の争いで、女子選手の機会を増やすことにつながった。）
+2 It contributed to a national trend that led the US government to change its interpretation of Title IX.（それは、アメリカ政府がタイトル・ナインの解釈を変えることにつながった全国的な流れに一役買った。）
+3 It made people acknowledge that if a woman could defeat a man in a sporting event, women could also excel in academics.（それによって人々は、女性がスポーツの試合で男性を破ることができるなら、女性は学業でも優れた力を発揮できると認めた。）
+4 It demonstrated that the lack of adequate training facilities had been having a negative effect on female athletes' abilities.（それは、十分な練習施設がないことが、女子選手の能力に悪い影響を与え続けてきたことを示した。）
+【考え方】
+まず見るところ：第2段落の brought greater attention to the issue と、Changing attitudes about the role of women in sports, ～ meant US lawmakers began applying Title IX to athletics
+第2段落は、法律ができたころ public awareness of discrimination against female athletes was growing（女子スポーツ選手に対する差別についての人々の意識が高まりつつあった）と始まります。
+次の文に、バトル・オブ・ザ・セクシーズが出てきます。
+Events like the famous Battle of the Sexes in 1973, ～, brought greater attention to the issue.（1973年の有名な「バトル・オブ・ザ・セクシーズ」のような出来事が、この問題への注目をいっそう高めた）
+the issue（この問題）は、女子スポーツ選手への差別のことです。この試合は、ビリー・ジーン・キングが男子の元チャンピオンを破ったテニスの試合でした。
+そのあと、次のように書かれています。
+Changing attitudes about the role of women in sports, coupled with lawsuits against schools that failed to provide female athletes with adequate training facilities, meant US lawmakers began applying Title IX to athletics.（スポーツにおける女性の役割についての考え方が変わってきたことに加えて、女子選手に十分な練習施設を用意しなかった学校に対して訴訟が起こされたことで、アメリカの議員たちはタイトル・ナインをスポーツにも当てはめ始めることになった）
+試合が人々の注目を高め、考え方の変化（全国的な流れ）が、法律をスポーツにも当てはめることにつながった、という順番です。本文と選択肢を対にすると、次のようになります。
+本文 brought greater attention to the issue（この問題への注目をいっそう高めた）→ 選択肢 contributed to（一役買った）
+本文 Changing attitudes about the role of women in sports（スポーツにおける女性の役割についての考え方の変化）＝ 選択肢 a national trend（全国的な流れ）
+本文 US lawmakers began applying Title IX to athletics（アメリカの議員たちはタイトル・ナインをスポーツにも当てはめ始めた）＝ 選択肢 led the US government to change its interpretation of Title IX（アメリカ政府にタイトル・ナインの解釈を変えさせた）
+学業だけに向けられていた法律をスポーツにも当てはめたのですから、法律の解釈（どう受け取って使うか）を変えたことになります。ですから2が正解です。
+この問題の型：言いかえ（began applying Title IX to athletics ＝ change its interpretation of Title IX）
+【ほかの選択肢】
+1 バトル・オブ・ザ・セクシーズは、キングとリッグスのテニスの試合で、法律上の争いではありません。本文にある lawsuits（訴訟）は、練習施設を用意しなかった学校に対して起こされたもので、学校とアメリカ政府の争いではありません。
+3 本文には、この試合によって人々が「女性は学業でも優れた力を発揮できる」と認めた、という話はありません。この試合が注目を集めたのは、女子スポーツ選手への差別の問題です。
+4 本文で adequate training facilities（十分な練習施設）が出てくるのは、学校に対する訴訟の説明の中です。バトル・オブ・ザ・セクシーズが練習施設の不足の悪い影響を示した、とは書かれていません。
+【覚えるポイント】
+・bring attention to ～：「～に注目を集める」。coupled with ～：「～に加えて、～と合わさって」。
+・ある出来事について「正しいもの」をたずねる設問では、その出来事が書かれた文だけでなく、そのあとで「その結果どうなったか」まで読むと、選択肢の言いかえ（ここでは「流れに一役買った」）が見つかりやすくなります。

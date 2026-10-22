@@ -1,0 +1,30 @@
+---
+choices: are more difficult to access | have been recreated elsewhere | are not worth saving | have become unbalanced
+answerText: have become unbalanced
+---
+【正解】4 have become unbalanced（バランスが崩れてしまっている）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 are more difficult to access（より立ち入るのが難しい）
+2 have been recreated elsewhere（別の場所で再現されてきた）
+3 are not worth saving（守る価値がない）
+4 have become unbalanced（バランスが崩れてしまっている）
+【考え方】
+まず見るところ：第2段落の空所の直前の these mammals played a key role in the evolution
+空所のある文は次のとおりです。
+Consequently, ecosystems where these mammals are no longer found ( 27 ).（したがって、これらの哺乳類がもう見られない生態系は（　））
+Consequently は「したがって、その結果」という意味で、前の文が理由、この文が結果になります。ecosystem は「生態系（ある場所の生き物と環境がたがいにかかわり合ってできているまとまり）」、no longer は「もう～ない」です。
+直前の文は次のとおりです。
+According to Martin, these mammals played a key role in the evolution of most plant and animal species.（マーティンによれば、これらの哺乳類は、ほとんどの植物と動物の種の進化において重要な役割を果たした）
+play a key role は「重要な役割を果たす」という意味です。these mammals は、ライオンやラクダ、マンモスのような大型の哺乳類を指します。
+大型哺乳類が生態系の中で重要な役割を果たしていたのなら、それがいなくなった生態系では、その役割を果たすものがいなくなります。unbalanced は「バランスの崩れた」という意味なので、「大型哺乳類がいなくなった生態系はバランスが崩れてしまっている」となり、Consequently の前後が理由と結果でつながります。ですから4が正解です。これは、マーティンが大型哺乳類やその代わりの動物を再導入すべきだと考えた理由の説明にもなっていると考えられます。
+この問題の型：因果（Consequently：重要な役割を果たした→いなくなるとバランスが崩れる）
+【ほかの選択肢】
+1 「より立ち入るのが難しい」は、本文に根拠がありません。大型哺乳類がいなくなったことで、人が生態系に入りにくくなるという話は出てきません。また、重要な役割を果たしたという直前の文の結果にもなりません。
+2 「別の場所で再現されてきた」は、本文と合いません。マーティンはこれから動物を再導入すべきだと提案しているのであって、すでに別の場所で生態系が作り直されてきたとは書かれていません。
+3 「守る価値がない」は、本文の流れと合いません。マーティンは、大型哺乳類やそれに近い動物をこうした地域に再導入すべきだと提案しています。その生態系に守る価値がないという考えは、本文のどこにも書かれていません。
+【覚えるポイント】
+・Consequently（したがって）は、前の文が理由、あとの文が結果になる目印です。前の文で「何が重要だったか」を確かめ、それがなくなったらどうなるかを考えると手がかりになります。
+・play a key role in ～：「～において重要な役割を果たす」。

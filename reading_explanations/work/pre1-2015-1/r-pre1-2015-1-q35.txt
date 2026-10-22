@@ -1,0 +1,33 @@
+---
+choices: the use of plastic to preserve the bodies is unnatural and therefore not appropriate for human remains. | the ways the bodies are posed provide hints about their pasts, which could enable viewers to recognize them. | the money made by the exhibits should be partially shared with the dead people's families. | the bodies are displayed in a manner that shows little respect for the lives they once lived.
+answerText: the bodies are displayed in a manner that shows little respect for the lives they once lived.
+---
+【正解】4 the bodies are displayed in a manner that shows little respect for the lives they once lived.（遺体は、彼らがかつて送っていた人生にほとんど敬意を示さないやり方で展示されている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Some opponents of Body Worlds believe that（「ボディ・ワールド」に反対する人々の中には、～と考える人がいる。）
+1 the use of plastic to preserve the bodies is unnatural and therefore not appropriate for human remains.（遺体を保存するのにプラスチックを使うのは不自然であり、そのため人間の遺体にはふさわしくない。）
+2 the ways the bodies are posed provide hints about their pasts, which could enable viewers to recognize them.（遺体のポーズのとらせ方がその人たちの過去についての手がかりになり、それによって見学者が、だれの遺体かが分かってしまうかもしれない。）
+3 the money made by the exhibits should be partially shared with the dead people's families.（展示でかせいだお金は、一部を亡くなった人々の家族に分けるべきだ。）
+4 the bodies are displayed in a manner that shows little respect for the lives they once lived.（遺体は、彼らがかつて送っていた人生にほとんど敬意を示さないやり方で展示されている。）
+【考え方】
+まず見るところ：第1段落の a disrespectful display of human remains と、最後の文の ignoring their individual pasts
+設問の opponents は「反対する人々」です。第1段落の後半に、「ボディ・ワールド」を批判する人々の考えが書かれています。
+Many people have been offended by what they see as a disrespectful display of human remains.（多くの人々は、それを人間の遺体への敬意を欠いた展示だと考え、不快な思いをしてきた）
+disrespectful は「敬意を欠いた、失礼な」、human remains は「人間の遺体」です。
+段落の最後の文には、別の批判があります。
+Others feel that placing bodies in this artificial context turns them into objects, taking away the qualities that once made them human and ignoring their individual pasts.（また、遺体をこのような作られた状況に置くことは、遺体を物に変えてしまい、かつて彼らを人間にしていた特質を奪い、一人ひとりの過去を無視することになる、と感じる人もいる）
+本文と選択肢を対にすると、次のようになります。
+本文 a disrespectful display（敬意を欠いた展示）＝ 選択肢 displayed in a manner that shows little respect（ほとんど敬意を示さないやり方で展示されている）
+本文 ignoring their individual pasts（一人ひとりの過去を無視する）→ 選択肢 little respect for the lives they once lived（かつて送っていた人生への敬意がほとんどない）
+manner は「やり方」です。ですから4が正解です。
+この問題の型：言いかえ（disrespectful ＝ shows little respect、individual pasts → the lives they once lived）
+【ほかの選択肢】
+1 本文の plastic は、遺体の筋肉や骨などを preserved in plastic（プラスチックで保存された）と説明する部分に出てくるだけです。プラスチックを使うことが不自然だと批判する人の話はありません。本文の artificial（作られた、人工的な）は、遺体を「作られた状況」に置くことについての語で、プラスチックのことではありません。
+2 本文と食い違います。批判する人は、展示が ignoring their individual pasts（一人ひとりの過去を無視している）と言っています。ポーズは「野球選手」「ダンサー」など、さまざまな活動の動きをまねたもので、その人の過去の手がかりになるとは書かれていません。
+3 本文には、展示の目的が profit rather than education（教育ではなく利益）だと批判する人がいることは書かれています。しかし、そのお金を亡くなった人々の家族に分けるべきだ、という話はありません。
+【覚えるポイント】
+・disrespectful：「敬意を欠いた、失礼な」。shows little respect（ほとんど敬意を示さない）と言いかえられます。
+・Many people ～. / Some critics ～. / Others ～. のように、批判する人々の意見がいくつか並んでいるときは、選択肢がそのどれと同じ内容かを一つずつ確かめることが手がかりになります。

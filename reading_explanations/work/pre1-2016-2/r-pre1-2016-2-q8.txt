@@ -1,0 +1,31 @@
+---
+choices: impassable | immeasurable | impractical | immediate
+answerText: impractical
+---
+【正解】3 impractical（実際的でない、実行できそうにない）
+【和訳】
+（英文）
+A: Margaret has lots of ideas about how to increase the company's profits.
+B: Yeah, but most of them are ［impractical］. That's why the bosses ignore them.
+（訳）
+A：マーガレットは、会社の利益を増やす方法について、たくさんのアイデアを持っているね。
+B：うん、でもそのほとんどは（実際的でない）よ。だから上司たちはそれを取り合わないんだ。
+（選択肢の意味）
+1 impassable：通り抜けられない、通行できない
+2 immeasurable：はかり知れない
+3 impractical：実際的でない、実行できそうにない
+4 immediate：すぐの、即座の
+【考え方】
+まず見るところ：Bの That's why the bosses ignore them.
+That's why the bosses ignore them.（だから上司たちはそれ（アイデア）を取り合わない）
+That's why ～ は「だから～なのだ」という意味で、前の文が理由になります。ignore は「無視する、取り合わない」という意味です。
+Yeah, but most of them are ( ).（うん、でもそのほとんどは（　）だ）
+but があるので、Bは「アイデアがたくさんある」というAの話に対して、よくない点を言おうとしています。上司が無視するのは、アイデアが実行できそうにないからだと考えられます。impractical は「実際的でない、実行できそうにない」なので、3が正解です。
+この問題の型：因果（That's why）／対比（アイデアは多い⇔でも実際的でない）
+【ほかの選択肢】
+1 impassable は「通り抜けられない、通行できない」で、道や川などについて使う語です。アイデアについて言う言葉として意味が通りません。
+2 immeasurable は「はかり知れない（ほど大きい）」です。「アイデアのほとんどがはかり知れない」では、but で示すよくない点にならず、上司が無視する理由にもなりません。
+4 immediate は「すぐの、即座の」です。「アイデアのほとんどがすぐのものだ」となり、上司が無視する理由になりません。
+【覚えるポイント】
+・impractical：「実際的でない、実行できそうにない」。im- は「～でない」の意味を足すことが多い部分で、practical（実際的な）の反対の意味になります。
+・That's why ～ の空所問題では、前の文に「その結果が起こる理由」がくるので、That's why のあとの結果から逆にたどると手がかりになります。

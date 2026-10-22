@@ -1,0 +1,31 @@
+---
+choices: endorse | discard | exert | magnify
+answerText: discard
+---
+【正解】2 discard（捨てる）
+【和訳】
+（英文）
+The airline representative told us not to ［discard］ our baggage-claim tickets, as we would need them when we arrived at our destination.
+（訳）
+航空会社の係員は私たちに、目的地に着いたときに必要になるので、手荷物引換券を（捨て）ないようにと言った。
+（選択肢の意味）
+1 endorse：支持する、（小切手などに）裏書きする
+2 discard：捨てる
+3 exert：（力などを）働かせる、発揮する
+4 magnify：拡大する、大きく見せる
+【考え方】
+まず見るところ：文の後半の as we would need them
+空所のある部分は次のとおりです。
+told us not to ( ) our baggage-claim tickets（手荷物引換券を（　）しないようにと私たちに言った）
+tell A not to ～ は「Aに～しないように言う」です。baggage-claim ticket は「手荷物引換券（飛行機に預けた荷物を受け取るときに見せる券）」です。
+理由は as 以下に書かれています。
+as we would need them when we arrived at our destination（目的地に着いたときに、私たちはそれらが必要になるので）
+ここでの as は「～なので」と理由を表します。them は手荷物引換券を指しています。あとで必要になるものについて「～しないように」と言うのですから、「捨てないように」という注意だと考えられます。discard は「捨てる」なので、2が正解です。
+この問題の型：因果（as ～ の理由から考える）／推論（必要になる→捨ててはいけない）
+【ほかの選択肢】
+1 endorse は「支持する、（小切手などに）裏書きする」です。「手荷物引換券を支持しないように」となり、あとで必要になるという理由とつながりません。
+3 exert は「（力などを）働かせる、発揮する」です。exert one's strength（力を発揮する）のように使う語で、「手荷物引換券を発揮しないように」では意味が通りません。
+4 magnify は「拡大する、大きく見せる」です。「手荷物引換券を拡大しないように」となり、あとで必要になるという理由と結びつきません。
+【覚えるポイント】
+・discard：「捨てる」。
+・「～しないように」という注意の文では、理由（ここでは as ～）にある「必要になる」から、してはいけないこと（捨てる）を考えると手がかりになります。

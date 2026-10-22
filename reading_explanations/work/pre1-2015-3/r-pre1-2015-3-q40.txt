@@ -1,0 +1,31 @@
+---
+choices: frequent shortages of basic necessities at company-owned stores made it nearly impossible for workers to live comfortable lives. | local mayors were often pressured to close down businesses that were competing with company stores. | companies had a large degree of control over their employees' lives, even when the employees were not working. | productivity was negatively affected because employees tended to leave their companies in search of higher salaries.
+answerText: companies had a large degree of control over their employees' lives, even when the employees were not working.
+---
+【正解】3 companies had a large degree of control over their employees' lives, even when the employees were not working.（会社が、従業員が働いていないときでさえ、従業員の生活を大きく支配していた〔こと〕。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：One disadvantage of company towns was that（企業町の欠点の1つは、～ということだった。）
+1 frequent shortages of basic necessities at company-owned stores made it nearly impossible for workers to live comfortable lives.（会社が持つ店で生活必需品がたびたび不足したため、労働者が快適な生活を送ることはほとんど不可能になった。）
+2 local mayors were often pressured to close down businesses that were competing with company stores.（地元の町長たちは、会社の店と競争している商売をやめさせるよう、たびたび圧力をかけられた。）
+3 companies had a large degree of control over their employees' lives, even when the employees were not working.（会社が、従業員が働いていないときでさえ、従業員の生活を大きく支配していた。）
+4 productivity was negatively affected because employees tended to leave their companies in search of higher salaries.（従業員が（今より）高い給料を求めて会社を辞める傾向があったので、生産性が悪い影響を受けた。）
+【考え方】
+まず見るところ：第3段落の gave businesses a great influence over their employees
+企業町の悪い面は、第3段落の However, some companies soon began coming up with ways to take advantage of workers.（しかし、まもなく一部の会社は、労働者を利用する方法を考え出し始めた）から書かれています。
+The extreme isolation of the company town, combined with monopolies on housing and commerce, gave businesses a great influence over their employees—company presidents often served as town mayors, for example.（企業町の極端な孤立は、住宅と商業の独占と組み合わさって、企業に従業員に対する大きな影響力を与えた。たとえば、会社の社長が町長を務めることもよくあった）
+employees had no choice but to shop in the company store（従業員は会社の店で買い物をするしかなかった）
+会社は、従業員の仕事だけでなく、住む家、買い物をする店、さらに町の政治（町長）まで握ることがよくありました。これは、仕事の時間以外の生活も会社の強い影響を受けていたということです。本文と選択肢を対にすると、次のようになります。
+・本文 gave businesses a great influence over their employees（企業に従業員に対する大きな影響力を与えた）＝ 選択肢 companies had a large degree of control over their employees' lives（会社が従業員の生活を大きく支配していた）
+・本文 monopolies on housing and commerce ／ company presidents often served as town mayors ／ had no choice but to shop in the company store（住宅と商業の独占／社長が町長を務めた／会社の店で買い物するしかなかった）→ どれも仕事の時間以外のことだと読み取れること → 選択肢 even when the employees were not working（従業員が働いていないときでさえ）
+ですから3が正解です。
+この問題の型：具体例とまとめ（住宅・店・町長 → 働いていないときの生活まで支配）
+【ほかの選択肢】
+1 会社の店で生活必需品が不足した、という話は本文にありません。本文で問題とされているのは、店の inflated prices（つり上げられた値段）で、労働者が借金を負ったことです。
+2 本文では、会社の社長が町長を務めることがよくあったと書かれています。町長が、会社の店と競争する商売をやめさせるよう圧力をかけられた、という話はありません。
+4 本文と反対の内容です。本文では、高い給料が人々を企業町に引きつけたうえ、借金のせいで労働者は町に閉じこめられたと書かれています。高い給料を求めて会社を辞めたという話はありません。
+【覚えるポイント】
+・have no choice but to ～：「～するしかない」。influence over ～ は「～に対する影響力」です。
+・本文に for example（たとえば）で具体例が挙がっているときは、選択肢ではそれらをまとめた言い方（ここでは even when the employees were not working）になっていることが多いので、例がまとめに当てはまるかを確かめましょう。

@@ -1,0 +1,31 @@
+---
+choices: He wanted his film to reflect changes that were taking place in American society at the time. | He realized that innovations in technology could be used to show more-realistic violence in movies. | He was trying to criticize the extreme violence that was becoming common in American films about the Vietnam War. | He knew that if there were a lot of complaints about the violence in the film, the publicity would make the film a hit.
+answerText: He wanted his film to reflect changes that were taking place in American society at the time.
+---
+【正解】1 He wanted his film to reflect changes that were taking place in American society at the time.（彼は、自分の映画に、当時アメリカ社会で起きていた変化を反映させたかった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Why did Arthur Penn put so much violence in Bonnie and Clyde?（アーサー・ペンは、なぜ『ボニーとクライド』にそれほど多くの暴力を入れたのですか。）
+1 He wanted his film to reflect changes that were taking place in American society at the time.（彼は、自分の映画に、当時アメリカ社会で起きていた変化を反映させたかった。）
+2 He realized that innovations in technology could be used to show more-realistic violence in movies.（彼は、技術の革新〔新しい技術〕を使えば、映画でより現実的な暴力を見せられることに気づいた。）
+3 He was trying to criticize the extreme violence that was becoming common in American films about the Vietnam War.（彼は、ベトナム戦争を描いたアメリカ映画でふつうになりつつあった極端な暴力を批判しようとしていた。）
+4 He knew that if there were a lot of complaints about the violence in the film, the publicity would make the film a hit.（彼は、映画の暴力についてたくさんの苦情が出れば、その話題が映画をヒットさせるだろうと知っていた。）
+【考え方】
+まず見るところ：第3段落の Penn felt the general public was used to seeing violence ～ と、Penn believed it was important to show how things really were
+ペンが暴力を多く入れた理由は、第3段落に書かれています。ペンが感じていたこと、信じていたことに注目します。
+Penn felt the general public was used to seeing violence because images of death and fighting from the Vietnam War were becoming common in the media.（ペンは、ベトナム戦争の死や戦闘の映像がメディアでふつうに見られるようになってきていたので、一般の人々は暴力を見ることに慣れていると感じていた）
+Further, violent crime in the United States was increasing, and Penn believed it was important to show how things really were.（さらに、アメリカでは暴力犯罪が増えていて、ペンは、物事の本当の姿を見せることが大切だと信じていた）
+当時のアメリカでは、戦争の映像がメディアにあふれ、暴力犯罪も増えていました。ペンは、そうした「本当の姿」を映画で見せようとしたのです。本文と選択肢を対にすると、次のようになります。
+・本文 images ～ from the Vietnam War were becoming common ／ violent crime ～ was increasing（戦争の映像がふつうになってきていた／暴力犯罪が増えていた）＝ 選択肢 changes that were taking place in American society at the time（当時アメリカ社会で起きていた変化）
+・本文 it was important to show how things really were（物事の本当の姿を見せることが大切だ）＝ 選択肢 wanted his film to reflect ～（映画に～を反映させたかった）
+reflect は「反映する（ありのままに映し出す）」という意味です。ですから1が正解です。
+この問題の型：具体例とまとめ（戦争の映像・暴力犯罪の増加 → 社会の変化）
+【ほかの選択肢】
+2 本文の innovative techniques（革新的な技法）は、場面の切りかえやスローモーション撮影という「撮り方の工夫」で、暴力の場面をいっそう強烈にするために使われたものです。新しい技術に気づいたことが、暴力を入れた理由として書かれているわけではありません。
+3 本文でベトナム戦争の映像が出てくるのは the media（メディア）で、アメリカ映画ではありません。また、ペンがその暴力を批判しようとしたという話も、本文にありません。
+4 苦情が話題になって映画がヒットすると知っていた、という話は本文にありません。映画がヒットしたことは書かれていますが、それはヘイズ・コードが力を失ったことを示したという話です。
+【覚えるポイント】
+・reflect：「反映する、ありのままに映し出す」。take place は「起こる」です。
+・「なぜ～したのか」という設問では、本文の felt（感じていた）や believed（信じていた）のように、その人の考えを表す語のあとに理由が書かれていることが多いので、そこを探しましょう。

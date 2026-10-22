@@ -1,0 +1,32 @@
+---
+choices: helped protect the ecosystem by maintaining a healthy balance between utilizing land mammals and insects. | were affected by insects that destroyed crops, making it difficult for humans and animals to get enough food. | failed to include insects because not enough edible types could survive in the hot, dry climate there. | were designed to allow farmers to address both food production and other needs.
+answerText: were designed to allow farmers to address both food production and other needs.
+---
+【正解】4 were designed to allow farmers to address both food production and other needs.（農民が、食料の生産とそのほかの必要の両方に対応できるように作られていた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Agricultural practices in the Fertile Crescent（肥沃な三日月地帯の農業のやり方は～。）
+1 helped protect the ecosystem by maintaining a healthy balance between utilizing land mammals and insects.（陸の哺乳類と昆虫の利用の健全なつり合いを保つことで、生態系を守るのに役立った。）
+2 were affected by insects that destroyed crops, making it difficult for humans and animals to get enough food.（作物を荒らす昆虫の影響を受け、人間や動物がじゅうぶんな食べ物を手に入れるのを難しくした。）
+3 failed to include insects because not enough edible types could survive in the hot, dry climate there.（そこの暑く乾いた気候の中では、食べられる種類の昆虫がじゅうぶんに生きられなかったため、昆虫を取り入れなかった。）
+4 were designed to allow farmers to address both food production and other needs.（農民が、食料の生産とそのほかの必要の両方に対応できるように作られていた。）
+【考え方】
+まず見るところ：第2段落の they provided not only plenty of meat but also leather, wool, and transportation
+第2段落で、肥沃な三日月地帯（the Fertile Crescent：西アジアの一部とナイル川流域にまたがる地域）の農業が説明されています。次の文を見ます。
+Although edible insects were available there, the early farmers found it more useful to raise large land mammals such as sheep and cattle, as they provided not only plenty of meat but also leather, wool, and transportation.（そこでは食べられる昆虫が手に入ったが、初期の農民たちは、羊や牛のような大型の陸の哺乳類を育てるほうが役に立つと考えた。それらの動物は、たっぷりの肉だけでなく、革や羊毛、そして運搬の手段ももたらしてくれたからだ）
+not only A but also B は「AだけでなくBも」です。羊や牛は、食べ物になる肉（A）だけでなく、革・羊毛・運搬の手段（B）ももたらしました。つまり、この地域の農業は、食べ物とそれ以外の必要なものの両方をまかなえるものだったのです。
+本文と選択肢を対にすると、次のようになります。
+本文 plenty of meat（たっぷりの肉）＝ 選択肢 food production（食料の生産）
+本文 leather, wool, and transportation（革、羊毛、運搬の手段）＝ 選択肢 other needs（そのほかの必要）
+本文 not only ～ but also ～（～だけでなく～も）＝ 選択肢 both ～ and ～（～と～の両方）
+ですから4が正解です。
+この問題の型：言いかえ（leather, wool, and transportation ＝ other needs）
+【ほかの選択肢】
+1 本文では、農民たちは昆虫ではなく大型の哺乳類を育てることを選び、やがて昆虫を食料として使う必要がなくなったと書かれています。哺乳類と昆虫の利用のつり合いを保ったという話ではなく、生態系を守る話も出てきません。
+2 本文には、作物を荒らす昆虫の話は出てきません。また、農業が定着すると food supplies became more stable（食料の供給がより安定した）と書かれており、食べ物が足りなくなったという内容とは反対です。
+3 本文には edible insects were available there（そこでは食べられる昆虫が手に入った）とあり、「食べられる昆虫がじゅうぶんに生きられなかった」は反対の内容です。暑く乾いた気候の話も書かれていません。
+【覚えるポイント】
+・not only A but also B：「AだけでなくBも」。
+・本文の not only A but also B は、選択肢で both A and B（AとBの両方）と言いかえられることがあります。Bに当たる具体的な語（leather, wool, transportation）が、選択肢でまとめた言い方（other needs）になっていないかを確かめると手がかりになります。
