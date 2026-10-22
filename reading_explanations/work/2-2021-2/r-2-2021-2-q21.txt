@@ -1,0 +1,26 @@
+---
+choices: understand technology | find new homes | start talking to others | begin doing exercise
+answerText: start talking to others
+---
+【正解】3 start talking to others（ほかの人と話し始める）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 understand technology（科学技術を理解する）
+2 find new homes（新しい家を見つける）
+3 start talking to others（ほかの人と話し始める）
+4 begin doing exercise（運動をし始める）
+【考え方】
+空所は第1段落の He wanted to find a way to make it easier for these people to (21). です。make it easier for A to ～ は「Aが～するのを（今より）簡単にする」という意味です。it は、あとの to ～ の内容を指しています。these people は、直前の文の a number of lonely people（かなりの数の孤独な人々）のことです。
+つまり、ジョーンズ（police officer Ashley Jones）は「孤独な人々が（21）するのを、もっと簡単にする方法」を探していたことになります。何をしやすくしたかったのかは、そのあとに書かれた彼のアイデアから分かります。
+・he came up with the idea of turning some of the benches in local parks into "chat benches."（地元の公園のベンチのいくつかを「おしゃべりベンチ」に変えるという考えを思いついた）
+・that person does not mind having a conversation with a stranger（その人は知らない人と会話をしてもかまわないと思っている）
+chat は「おしゃべり」、conversation は「会話」です。ジョーンズのアイデアは、知らない人どうしが話をするきっかけを作るものです。孤独な人がほかの人と話し始めやすくするためだと考えると、話がつながります。ですから3が正解です。
+【ほかの選択肢】
+1 「科学技術を理解する」を入れると、ジョーンズは孤独な人が技術を理解しやすくする方法を探したことになります。しかし、彼が思いついたのは公園のベンチで会話をするというアイデアで、技術の話は本文に出てきません。
+2 「新しい家を見つける」を入れると、住む場所を探す手伝いの話になります。ベンチの看板は会話のためのもので、家探しとはつながりません。
+4 「運動をし始める」を入れると、運動を手伝う方法を探したことになります。ベンチは座って話をするためのもので、運動の話は本文に出てきません。
+【覚えるポイント】
+・make it easier for A to ～：「Aが～するのをもっと簡単にする」。it は to ～ の内容を指します。
+・come up with ～：「（考えなど）を思いつく」。

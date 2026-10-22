@@ -1,0 +1,28 @@
+---
+choices: select some new security questions. | try to guess his password one more time. | call her at the customer support center. | find a safe place where he can use his computer.
+answerText: select some new security questions.
+---
+【正解】1 select some new security questions.（いくつかの新しい秘密の質問を選ぶ。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ジェナ・スミスはウォルターズさんに、彼は（　）しなければならないと伝えています。
+1 いくつかの新しい秘密の質問を選ぶ。
+2 もう一度パスワードを推測してみる。
+3 カスタマーサポートセンターにいる彼女に電話する。
+4 コンピューターを使える安全な場所を見つける。
+【考え方】
+設問の has to ～ は「～しなければならない」という意味です。本文で、ウォルターズさんがしなければならないこととして書かれている部分を探します。第3段落に次の文があります。
+After you change your password, you will need to change your security questions.（パスワードを変更したあとは、秘密の質問を変更していただく必要があります）
+security questions（秘密の質問）は、本人であることを確かめるための質問です。will need to ～（～する必要がある）は、設問の has to ～ に対応しています。さらにそのあとで、Be sure to choose questions and answers that will not be easy for people to guess.（ほかの人に簡単に推測されない質問と答えを必ず選んでください）とも書かれています。
+本文と選択肢を対にすると、次のようになります。
+本文 you will need to change your security questions ＋ Be sure to choose questions and answers → 選択肢 he has to select some new security questions
+秘密の質問を変更するには、新しい質問を選ぶことになります。本文の choose（選ぶ）が、選択肢では select（選ぶ）になっています。1が正解です。
+【ほかの選択肢】
+2 本文には、口座がロックされたのは an incorrect password was entered three times（間違ったパスワードが3回入力された）からだと書かれています。もう一度パスワードを推測するようには言われておらず、パスワードを再設定するように言われています。
+3 本文の If you still have trouble, you can call our customer support center（それでもまだ問題がある場合は、カスタマーサポートセンターにお電話いただけます）は、問題が残ったときに「できる」ことで、しなければならないことではありません。また、ジェナさんはオンライン口座担当マネージャーで、カスタマーサポートセンターにいるとは書かれていません。
+4 本文の Please keep your password in a safe place.（パスワードは安全な場所に保管してください）は、パスワードの保管場所の話です。コンピューターを使う安全な場所を見つけるようには言われていません。
+【覚えるポイント】
+・will need to ～：「～する必要がある」。has to ～（～しなければならない）とほぼ同じ意味です。
+・choose と select はどちらも「選ぶ」という意味で、言いかえによく使われます。

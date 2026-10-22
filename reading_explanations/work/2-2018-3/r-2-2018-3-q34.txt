@@ -1,0 +1,30 @@
+---
+choices: Most people had forgotten that some of the first computer programmers were female. | A majority of people who study to become computer programmers are women. | Male computer programmers have trouble finding jobs in the modern economy. | Most of the men working in computer programming studied at the University of Pennsylvania.
+answerText: Most people had forgotten that some of the first computer programmers were female.
+---
+【正解】1 Most people had forgotten that some of the first computer programmers were female.（ほとんどの人は、最初のコンピュータープログラマーの中に女性がいたことを忘れていた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：コンピューターのプログラミングについて正しいのはどれですか。
+1 ほとんどの人は、最初のコンピュータープログラマーの中に女性がいたことを忘れていた。
+2 コンピュータープログラマーになるために勉強している人の大多数は女性である。
+3 男性のコンピュータープログラマーは、現代の経済の中で仕事を見つけるのに苦労している。
+4 コンピューターのプログラミングの仕事をしている男性のほとんどは、ペンシルベニア大学で学んだ。
+【考え方】
+第1段落を確かめます。
+However, some of the first computer programmers were a group of American women who worked at the University of Pennsylvania in the 1940s.（しかし、最初のコンピュータープログラマーの中には、1940年代にペンシルベニア大学で働いていたアメリカ人女性のグループがいた）
+They made a huge contribution to the development of modern computers, but for many years their work was largely forgotten.（彼女たちは現代のコンピューターの発展に大きな貢献をしたが、長年の間、その仕事はほとんど忘れられていた）
+largely は「大部分は、ほとんど」です。また、第4段落にも few people remembered them（彼女たちのことを覚えている人はほとんどいなかった）とあります。
+本文と選択肢を対にすると、次のようになります。
+本文 their work was largely forgotten / few people remembered them ＝ 選択肢 Most people had forgotten
+本文 some of the first computer programmers were a group of American women ＝ 選択肢 some of the first computer programmers were female
+female は「女性の」という意味です。ですから、1が正解です。
+【ほかの選択肢】
+2 第1段落に only about 25 percent of people working in computer-related fields in the United States are women（アメリカでコンピューター関連の分野で働く人のうち、女性は約25パーセントしかいない）とあります。女性が大多数だというのは、本文と反対です。また、本文の数字は「働いている人」についてのもので、「勉強している人」についてではありません。
+3 男性のプログラマーが仕事を見つけるのに苦労しているとは、どこにも書かれていません。本文では、コンピューター科学で有名な人の多くは男性だったとあります。
+4 ペンシルベニア大学は、女性のグループが働いた場所、またENIACを設計した技術者たちがいた場所として出てきます。プログラミングの仕事をしている男性のほとんどがそこで学んだとは書かれていません。
+【覚えるポイント】
+・largely：「大部分は、ほとんど」。large（大きい）とは意味が違うので注意しましょう。
+・make a contribution to ～：「～に貢献する（役に立つ働きをする）」。

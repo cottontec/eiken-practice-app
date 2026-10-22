@@ -1,6 +1,7 @@
 ---
 choices: punctual | responsible | isolated | frightened
 answerText: isolated
+reviewed: yes
 ---
 【正解】3 isolated（孤立した、人里離れた）
 【和訳】

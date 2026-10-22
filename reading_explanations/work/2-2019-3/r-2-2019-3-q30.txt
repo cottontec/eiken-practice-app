@@ -1,0 +1,28 @@
+---
+choices: There has been an increase in the gap between how much money rich and poor countries have. | The length of life in rich countries has become longer than that in poor countries. | Wealthy countries have begun helping poor countries to pay for healthcare. | Fewer people living in developing countries are dying young.
+answerText: Fewer people living in developing countries are dying young.
+---
+【正解】4 Fewer people living in developing countries are dying young.（発展途上国に住む人々のうち、若くして亡くなる人が〔以前より〕少なくなっている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ここ数十年の間に何が起きましたか。
+1 豊かな国と貧しい国が持っているお金の量の差が広がった。
+2 豊かな国の寿命が、貧しい国の寿命よりも長くなった。
+3 豊かな国々が、貧しい国々の医療費の支払いを助け始めた。
+4 発展途上国に住む人々のうち、若くして亡くなる人が〔以前より〕少なくなっている。
+【考え方】
+設問の in the past few decades（ここ数十年の間に）と同じ言い方が、第1段落にあります。
+Over the past few decades, however, many poor countries have also made improvements and they are now close to catching up with the wealthier ones.（しかし、ここ数十年の間に、多くの貧しい国々も改善を遂げ、今ではより豊かな国々にほぼ追いつこうとしている）
+何について追いつこうとしているのかは、前の文から分かります。前の文には a growing gap between the average length of life in rich countries and poor countries（豊かな国々と貧しい国々との平均寿命の差が広がった）とあります。つまり、ここ数十年で、貧しい国々の人々も平均寿命が延びて、豊かな国々に近づいてきたのです。
+本文と選択肢を対にすると、次のようになります。
+本文 many poor countries have also made improvements and they are now close to catching up with the wealthier ones（平均寿命について） → 選択肢 Fewer people living in developing countries are dying young
+poor countries（貧しい国々）が developing countries（発展途上国。経済の発展がまだ途中にある国々）に言いかえられています。平均寿命が延びたということから、若くして亡くなる人が減ったと読み取れます。Fewer は「より少ない」という意味で、以前と比べて少なくなったことを表しています。4が正解です。
+【ほかの選択肢】
+1 本文の gap（差）は、the average length of life（平均寿命）の差です。お金の量の差ではありません。また、差が広がったのは「しばらくの間（for some time）」のことで、ここ数十年では貧しい国々が追いつこうとしています。
+2 本文で、豊かな国々の寿命が貧しい国々より長くなり、その差が広がったのは、長生きの傾向が豊かな国々で始まったあとの「しばらくの間（for some time）」のことです。ここ数十年に起きたのは、反対に貧しい国々が追いつこうとしていることなので、設問の時期の出来事として合いません。
+3 豊かな国々が貧しい国々の医療費を助けたという話は、本文にありません。
+【覚えるポイント】
+・catch up with ～：「～に追いつく」。be close to ～ing は「もう少しで～しそうだ」。
+・設問の時を表す語句（in the past few decades など）と同じ語句を本文で探すと、答えの場所が見つけやすくなります。

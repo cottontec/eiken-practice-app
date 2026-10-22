@@ -1,6 +1,7 @@
 ---
 choices: instinct | symbol | landscape | policy
 answerText: landscape
+reviewed: yes
 ---
 【正解】3 landscape（景色、風景）
 【和訳】

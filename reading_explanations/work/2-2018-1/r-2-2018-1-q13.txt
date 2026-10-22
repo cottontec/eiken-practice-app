@@ -1,6 +1,7 @@
 ---
 choices: make | keep | do | go
 answerText: go
+reviewed: yes
 ---
 【正解】4 go（go wrong で「故障する、調子が悪くなる」）
 【和訳】

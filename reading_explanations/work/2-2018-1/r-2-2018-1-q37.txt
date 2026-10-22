@@ -1,6 +1,7 @@
 ---
 choices: It has provided jobs to more people living in Mamallapuram. | It has reduced the amount of glass and metal that people are using. | It has helped more people learn to make products from cloth and paper. | It has increased the amount of money the tourist industry brings to Mamallapuram.
 answerText: It has provided jobs to more people living in Mamallapuram.
+reviewed: yes
 ---
 【正解】1 It has provided jobs to more people living in Mamallapuram.（ママッラプラムに住む、より多くの人々に仕事を与えてきた。）
 【和訳】

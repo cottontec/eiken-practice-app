@@ -1,0 +1,27 @@
+---
+choices: was worried the rooms in the retirement home were too noisy and dirty. | decided to provide some students with free rooms in the retirement home. | had trouble finding people who were interested in living in her rooms. | wanted to find a way to make housing cheaper for young students.
+answerText: decided to provide some students with free rooms in the retirement home.
+---
+【正解】2 decided to provide some students with free rooms in the retirement home.（老人ホームの無料の部屋を、何人かの学生に提供することに決めた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ヒューマニタスの施設長であるヘア・シープケスは、
+1 老人ホームの部屋がうるさすぎて汚すぎることを心配していた。
+2 老人ホームの無料の部屋を、何人かの学生に提供することに決めた。
+3 自分の（施設の）部屋に住むことに興味を持つ人を見つけるのに苦労した。
+4 若い学生の住まいを安くする方法を見つけたいと思っていた。
+【考え方】
+Gea Sijpkes（ヘア・シープケス）という名前は、第2段落の後半に出てきます。
+Gea Sijpkes, the head of Humanitas, met Selbach and had an idea. She decided to allow six college students to live in the retirement home for free.（ヒューマニタスの施設長であるヘア・シープケスはセルバッハに会い、ある考えを思いついた。彼女は、6人の大学生が無料で老人ホームに住むことを認めることにした）
+本文と選択肢を対にすると、次のようになります。
+本文 decided to allow six college students to live in the retirement home for free ＝ 選択肢 decided to provide some students with free rooms in the retirement home
+six college students（6人の大学生）が some students（何人かの学生）に、live ～ for free（無料で住む）が free rooms（無料の部屋）に言いかえられています。provide A with B は「AにBを与える、提供する」という意味です。ですから、2が正解です。
+【ほかの選択肢】
+1 人物と場所がちがいます。noisy and dirty（うるさくて汚い）と思っていたのは、学生のセルバッハで、それは彼が住んでいた student dormitory（学生寮）のことです。老人ホームの部屋についてではありません。
+3 本文にありません。部屋に住む人が見つからずに困っていたという話はありません。むしろ、セルバッハのほうから部屋が空いていないかとたずねてきています。
+4 本文に書かれていない目的です。シープケスの考えは、第2段落の最初で、第1段落の問題（異なる世代のコミュニケーション不足）を overcome this problem（この問題を乗りこえる）方法として紹介されています。学生がお金を節約できることは第4段落に結果の1つとして出てきますが、彼女が学生の住まいを安くすることを目指していたとは書かれていません。
+【覚えるポイント】
+・provide A with B：「AにBを与える、提供する」。provide B for A の形でも同じ意味を表せます。
+・for free：「無料で」。free だけでも「無料の」という意味になります。

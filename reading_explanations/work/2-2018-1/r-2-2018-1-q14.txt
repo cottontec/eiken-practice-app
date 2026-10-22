@@ -1,6 +1,7 @@
 ---
 choices: on behalf | on account | for fear | for need
 answerText: for fear
+reviewed: yes
 ---
 【正解】3 for fear（for fear of ～ で「～を恐れて」）
 【和訳】

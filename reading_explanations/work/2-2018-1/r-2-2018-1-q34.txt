@@ -1,6 +1,7 @@
 ---
 choices: It is much older than experts originally thought it was. | Few people from outside India have heard of its ancient temples. | Many of its ancient buildings have been destroyed by tourists. | More people visit it each day than actually live in the town.
 answerText: More people visit it each day than actually live in the town.
+reviewed: yes
 ---
 【正解】4 More people visit it each day than actually live in the town.（実際に町に住んでいる人より多くの人が、毎日町を訪れる。）
 【和訳】

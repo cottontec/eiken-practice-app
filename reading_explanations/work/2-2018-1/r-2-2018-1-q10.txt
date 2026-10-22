@@ -1,6 +1,7 @@
 ---
 choices: poured | chased | managed | disturbed
 answerText: chased
+reviewed: yes
 ---
 【正解】2 chased（～を追いかけた）
 【和訳】

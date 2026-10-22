@@ -1,6 +1,7 @@
 ---
 choices: lose your way | call it a day | wait your turn | make it a rule
 answerText: call it a day
+reviewed: yes
 ---
 【正解】2 call it a day（〔その日の仕事を〕終わりにする）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: must use the stairs on the south side of the building. | must not use the elevator in the central part of the building. | will be asked to move equipment to other parts of the office. | will not be allowed to enter the office building.
 answerText: must use the stairs on the south side of the building.
+reviewed: yes
 ---
 【正解】1 must use the stairs on the south side of the building.（建物の南側の階段を使わなければならない。）
 【和訳】

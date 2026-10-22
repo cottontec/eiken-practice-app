@@ -1,0 +1,28 @@
+---
+choices: Their numbers are decreasing this year. | Their opening hours will not change. | They are not hiring new workers. | They will open earlier on weekdays.
+answerText: Their opening hours will not change.
+---
+【正解】2 Their opening hours will not change.（それらの営業時間は変わらない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ロジャー・テイラーは、ウェスティン学生センターにあるレストランについて何と言っていますか。
+1 今年は、その数が減っている。
+2 それらの営業時間は変わらない。
+3 それらは新しい店員を雇っていない。
+4 それらは平日に早く開くようになる。
+【考え方】
+ウェスティン学生センターの話は第2段落にあります。
+まず It will open an hour earlier on weekdays, so you will be able to use the lounge area from 7 a.m.（平日に1時間早く開くので、ラウンジを午前7時から使えるようになる）とあります。It は学生センターの建物を指しています。
+そのすぐあとに、however（しかし）を使って Please be aware, however, that restaurants inside the building will keep their current hours.（ただし、建物の中のレストランは現在の営業時間のままであることに注意してください）と書かれています。keep their current hours は「今の時間を保つ」という意味です。
+本文と選択肢を対にすると、次のようになります。
+本文 restaurants inside the building will keep their current hours ＝ 選択肢 Their opening hours will not change
+「今の営業時間を保つ」は「営業時間は変わらない」と同じ意味です。ですから2が正解です。
+【ほかの選択肢】
+1 レストランの数が減るという話は本文にありません。学生センターについては、新しいカフェが開店すると書かれているだけです。
+3 本文で働く人を募集しているのは、新しく開くカフェです（they are looking for part-time workers）。レストランが新しい店員を雇わないとは書かれていません。
+4 平日に1時間早く開くのは学生センターの建物（ラウンジ）です。レストランについては、however のあとで「今の営業時間のまま」と書かれているので、話の対象が違います。
+【覚えるポイント】
+・keep one's current hours：「今の営業時間を保つ」。
+・Please be aware that ～：「～であることに注意してください」。

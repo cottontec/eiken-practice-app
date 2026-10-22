@@ -1,6 +1,7 @@
 ---
 choices: would wake | did wake | woke | waking
 answerText: would wake
+reviewed: yes
 ---
 【正解】1 would wake（〔もしそうしなければ〕起こしてしまうだろう）
 【和訳】

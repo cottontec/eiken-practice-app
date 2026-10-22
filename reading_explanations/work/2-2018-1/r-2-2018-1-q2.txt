@@ -1,6 +1,7 @@
 ---
 choices: forehead | lane | costume | mixture
 answerText: mixture
+reviewed: yes
 ---
 【正解】4 mixture（混合、混ざり合ったもの）
 【和訳】

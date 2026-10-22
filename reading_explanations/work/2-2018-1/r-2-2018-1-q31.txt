@@ -1,6 +1,7 @@
 ---
 choices: two other teachers had written the famous words to the song. | it is not clear who actually wrote the words for the current song. | neither was able to sing the songs that their students wanted to listen to. | their students decided to write a different song that they would like more.
 answerText: it is not clear who actually wrote the words for the current song.
+reviewed: yes
 ---
 【正解】2 it is not clear who actually wrote the words for the current song.（今の歌の歌詞を実際にだれが書いたのかは、はっきりしていない。）
 【和訳】

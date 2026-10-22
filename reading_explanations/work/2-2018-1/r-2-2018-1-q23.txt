@@ -1,6 +1,7 @@
 ---
 choices: help people in other ways | reduce airline accidents | cure heart disease | make better clothing
 answerText: help people in other ways
+reviewed: yes
 ---
 【正解】1 help people in other ways（ほかの方法で人々の役に立つ）
 【和訳】

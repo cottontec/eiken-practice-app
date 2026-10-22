@@ -1,0 +1,29 @@
+---
+choices: The UIDAI helps people show who they are in order to access government services. | There are fewer poor people in India than in other developing countries. | Around 93 percent of the Indian population does not know their date of birth. | The government is worried that the UIDAI will not be as successful as it expected.
+answerText: The UIDAI helps people show who they are in order to access government services.
+---
+【正解】1 The UIDAI helps people show who they are in order to access government services.（UIDAIは、人々が政府のサービスを利用するために、自分がだれであるかを示す手助けをしている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：次の記述のうち、正しいものはどれですか。
+1 UIDAIは、人々が政府のサービスを利用するために、自分がだれであるかを示す手助けをしている。
+2 インドの貧しい人々は、ほかの発展途上国より少ない。
+3 インドの人口の約93パーセントが、自分の生年月日を知らない。
+4 政府は、UIDAIが期待していたほどうまくいかないのではないかと心配している。
+【考え方】
+この設問は本文全体から正しいものを選ぶ問題なので、選択肢を1つずつ本文と照らし合わせます。1の内容は、第3段落の最後の文に書かれています。
+The system also allows people to prove who they are, so they are able to obtain education, drivers' licenses, and other government services.（この仕組みによって、人々は自分がだれであるかを証明することもできるので、教育や運転免許証、そのほかの政府のサービスを受けることができる）
+allow ＋人＋ to ～ は「（人）が～できるようにする」という意味です。prove は「証明する」、obtain は「手に入れる、受ける」です。
+本文と選択肢を対にすると、次のようになります。
+本文 allows people to prove who they are（人々が自分がだれであるかを証明できるようにする）＝ 選択肢 helps people show who they are（人々が自分がだれであるかを示す手助けをする）
+本文 so they are able to obtain ... government services（そのため政府のサービスを受けられる）＝ 選択肢 in order to access government services（政府のサービスを利用するために）
+ですから、1が正解です。
+【ほかの選択肢】
+2 本文の第1段落には it still has more poor people than any other country in the world（インドには今でも、世界のほかのどの国よりも多くの貧しい人々がいる）とあります。インドの貧しい人々のほうが多いので、本文と反対です。
+3 93パーセントは、2018年までに UIDAI に記録された人口の割合です（By 2018, 93 percent of the population had been recorded in this way.）。生年月日は記録される情報の1つとして出てくるだけで、93パーセントの人が生年月日を知らないという話ではありません。
+4 本文の最後に the Indian government is confident that it will solve these problems before long, and the UIDAI will be a success（インド政府は、近いうちにこうした問題を解決し、UIDAIは成功するだろうと確信している）とあります。政府は心配しているのではなく、自信を持っているので、本文と反対です。
+【覚えるポイント】
+・prove who one is：「自分がだれであるかを証明する」。show who one is も同じような意味です。
+・be confident that ～：「～だと確信している、自信を持っている」。worried（心配している）とは反対の気持ちです。

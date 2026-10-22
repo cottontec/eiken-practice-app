@@ -1,0 +1,30 @@
+---
+choices: The older generation is not able to afford the high prices of modern cities. | The younger generation is not interested in getting an education or finding jobs. | Young people and elderly people do not have many opportunities to exchange opinions. | Elderly people believe that young people do not spend enough time visiting retirement homes.
+answerText: Young people and elderly people do not have many opportunities to exchange opinions.
+---
+【正解】3 Young people and elderly people do not have many opportunities to exchange opinions.（若者と高齢者には、意見を交わす機会があまりない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：多くの現代社会が抱えている問題の1つは何ですか。
+1 年配の世代は、現代の都市の高い物価を払う余裕がない。
+2 若い世代は、教育を受けることや仕事を見つけることに興味がない。
+3 若者と高齢者には、意見を交わす機会があまりない。
+4 高齢者は、若者が老人ホームを訪れることに十分な時間を使っていないと思っている。
+【考え方】
+設問の many modern societies（多くの現代社会）という語句は、第1段落の最初の文に出てきます。
+One problem that many modern societies face is a lack of communication between different generations.（多くの現代社会が直面している問題の1つは、異なる世代の間のコミュニケーションが不足していることだ）
+lack は「不足」という意味です。そのあと、若者が教育や仕事のために引っ越して親を残していくこと、高齢者が老人ホームに移り住むことが書かれ、段落の最後で次のようにまとめられています。
+This means that the different generations often do not spend time together and do not have chances to hear each other's point of view.（これは、異なる世代が一緒に時間を過ごさないことが多く、お互いのものの見方を聞く機会がないということを意味する）
+本文と選択肢を対にすると、次のようになります。
+本文 the different generations ＝ 選択肢 Young people and elderly people
+本文 do not have chances to hear each other's point of view → 選択肢 do not have many opportunities to exchange opinions
+chance と opportunity はどちらも「機会」、point of view（ものの見方）と opinion（意見）も近い意味です。「お互いの考えを聞く機会がない」ことが、「意見を交わす機会があまりない」と言いかえられています。ですから、3が正解です。
+【ほかの選択肢】
+1 本文にありません。高齢者が都市の高い物価を払えないという話は出てきません。高齢者が老人ホームに移る話はありますが、その理由がお金だとは書かれていません。
+2 本文と反対の内容です。第1段落に many young people move around for education and work（多くの若者が教育や仕事のためにあちこちへ移り住む）とあり、若者は教育や仕事のために動いています。
+4 本文にありません。高齢者が「若者が老人ホームを訪れる時間が足りない」と思っているとは書かれていません。本文にあるのは、異なる世代が一緒に時間を過ごさないことが多いという事実で、高齢者の考えではありません。
+【覚えるポイント】
+・a lack of ～：「～の不足、～がないこと」。
+・point of view：「ものの見方、考え方」。opinion（意見）と言いかえられることがあります。

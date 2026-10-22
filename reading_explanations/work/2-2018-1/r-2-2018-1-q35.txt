@@ -1,6 +1,7 @@
 ---
 choices: They pay large amounts of money to buy food which causes the prices to increase. | They are causing pollution by failing to participate in the city's recycling program. | The cars and other vehicles they drive cause air pollution in the area. | The large amount of food they throw away can damage the environment.
 answerText: The large amount of food they throw away can damage the environment.
+reviewed: yes
 ---
 【正解】4 The large amount of food they throw away can damage the environment.（観光客が捨てる大量の食べ物が、環境を傷つけることがある。）
 【和訳】

@@ -1,0 +1,30 @@
+---
+choices: Poor Indians can receive money directly from the national government. | Local governments are able to decide how money in their regions is spent. | It makes it easier for poor Indians to find new jobs in local areas. | It helps people pay the fees that are needed for their children's education.
+answerText: Poor Indians can receive money directly from the national government.
+---
+【正解】1 Poor Indians can receive money directly from the national government.（貧しいインドの人々が、国の政府から直接お金を受け取ることができる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：UIDAIの制度の利点の1つは何ですか。
+1 貧しいインドの人々が、国の政府から直接お金を受け取ることができる。
+2 地方の政府が、その地域のお金の使い道を決めることができる。
+3 貧しいインドの人々が、地元で新しい仕事を見つけやすくなる。
+4 人々が子どもの教育に必要な費用を払うのを助ける。
+【考え方】
+UIDAIによってよくなることは、第3段落に書かれています。
+It is hoped that the UIDAI will allow individuals to deal directly with the national government rather than going through local officials.（UIDAIによって、一人ひとりが地方の役人を通さずに、国の政府と直接やりとりできるようになることが期待されている）
+For example, the government gives money to people with less than a certain income. This money is now paid directly into individuals' bank accounts, rather than through local offices.（たとえば、政府は収入が一定の額より少ない人々にお金を支給している。このお金は今では、地方の役所を通すのではなく、個人の銀行口座に直接振り込まれている）
+people with less than a certain income は「収入が一定の額より少ない人々」で、貧しい人々のことだと言えます。第1段落では、地方の役人がお金を盗むことがあり、支援が届かないことが問題とされていました。UIDAIによって、お金が直接届くようになったのです。
+本文と選択肢を対にすると、次のようになります。
+本文 people with less than a certain income（収入が一定の額より少ない人々）＝ 選択肢 Poor Indians（貧しいインドの人々）
+本文 This money is now paid directly into individuals' bank accounts（このお金は今では個人の銀行口座に直接振り込まれる）＝ 選択肢 can receive money directly from the national government（国の政府から直接お金を受け取れる）
+ですから、1が正解です。
+【ほかの選択肢】
+2 本文では、お金は rather than through local offices（地方の役所を通さずに）支払われるようになったとあります。地方の政府がお金の使い道を決めるという話ではなく、むしろ地方を通さない仕組みです。
+3 新しい仕事を見つけやすくなるという話は、本文にありません。
+4 本文には、身元を証明できるので obtain education（教育を受ける）ことができるとあります。しかし、子どもの教育の費用を払うのを助けるとは書かれていません。
+【覚えるポイント】
+・directly：「直接に」。rather than through ～（～を通してではなく）と一緒に使われ、間に入るものがないことを表しています。
+・less than a certain income：「一定の収入より少ない」。何より少ないのかを確かめましょう。

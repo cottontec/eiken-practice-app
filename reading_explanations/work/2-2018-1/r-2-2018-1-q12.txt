@@ -1,6 +1,7 @@
 ---
 choices: show up | pull away | try out | reach out
 answerText: show up
+reviewed: yes
 ---
 【正解】1 show up（現れる、来る）
 【和訳】

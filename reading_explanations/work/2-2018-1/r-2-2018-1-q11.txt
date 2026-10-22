@@ -1,6 +1,7 @@
 ---
 choices: over the edge | all the way | at one time | in the air
 answerText: at one time
+reviewed: yes
 ---
 【正解】3 at one time（一度に、同時に）
 【和訳】

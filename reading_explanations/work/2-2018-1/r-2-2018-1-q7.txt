@@ -1,6 +1,7 @@
 ---
 choices: traded | surrounded | immigrated | corrected
 answerText: surrounded
+reviewed: yes
 ---
 【正解】2 surrounded（囲まれた）
 【和訳】

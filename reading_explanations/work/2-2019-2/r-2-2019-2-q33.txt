@@ -1,0 +1,28 @@
+---
+choices: It gives elderly people the chance to move out of retirement homes. | It allows elderly people to save money on their housing costs. | Young people are trained to become healthcare workers for free. | Young people can help reduce the loneliness of elderly people.
+answerText: Young people can help reduce the loneliness of elderly people.
+---
+【正解】4 Young people can help reduce the loneliness of elderly people.（若者が、高齢者の寂しさを減らす手助けができる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ヒューマニタスのプログラムのよい点の1つは何ですか。
+1 高齢者に、老人ホームから出ていく機会を与える。
+2 高齢者が住まいにかかる費用を節約できるようにする。
+3 若者が、無料で医療や介護の仕事につくための訓練を受けられる。
+4 若者が、高齢者の寂しさを減らす手助けができる。
+【考え方】
+設問の benefit は「よい点、利益」という意味です。プログラムのよい点は、第4段落にまとめて書かれています。
+One important effect of the program has been to help younger and older people understand each other better. Another has been to stop elderly people from feeling lonely.（このプログラムの重要な効果の1つは、若い人と年配の人がお互いをよりよく理解できるようにしたことだ。もう1つの効果は、高齢者が寂しさを感じないようにしたことだ）
+stop ＋人＋ from -ing は「人が～するのを防ぐ」という意味です。つまり、このプログラムによって、高齢者が寂しさを感じにくくなったということです。寂しさを減らしているのは、高齢者と一緒に時間を過ごしている学生（若者）たちです。
+本文と選択肢を対にすると、次のようになります。
+本文 stop elderly people from feeling lonely → 選択肢 help reduce the loneliness of elderly people
+feeling lonely（寂しく感じること）が、名詞の loneliness（寂しさ）に言いかえられています。ですから、4が正解です。
+【ほかの選択肢】
+1 本文にありません。このプログラムは学生が老人ホームに住むもので、高齢者が老人ホームから出ていく話は出てきません。
+2 人物がちがいます。第4段落の students can save money on a place to stay（学生は住む場所にかかるお金を節約できる）とあるとおり、住まいのお金を節約できるのは学生です。高齢者が得るのは get help in their lives（生活の中での手助け）です。
+3 本文にありません。学生が無料なのは老人ホームに住むことで、医療や介護の仕事につくための訓練を受けるという話は出てきません。
+【覚えるポイント】
+・stop ＋人＋ from -ing：「人が～するのを防ぐ、やめさせる」。prevent ＋人＋ from -ing もほぼ同じ意味です。
+・lonely（寂しい）→ loneliness（寂しさ）のように、形容詞と名詞の言いかえはよく出ます。

@@ -1,0 +1,32 @@
+---
+choices: They spent time with the residents and supported them with their daily needs. | They learned many new computer skills from the residents and used them for school projects. | They designed systems to attract more residents to the facility. | They provided medical care to residents who had fallen ill.
+answerText: They spent time with the residents and supported them with their daily needs.
+---
+【正解】1 They spent time with the residents and supported them with their daily needs.（入居者と一緒に時間を過ごし、日々の生活に必要なことで入居者を支えた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ヒューマニタスに住んでいた学生たちは何をしましたか。
+1 入居者と一緒に時間を過ごし、日々の生活に必要なことで入居者を支えた。
+2 入居者からコンピューターの新しい技術をたくさん学び、それを学校の課題に使った。
+3 より多くの入居者を施設に呼びこむためのしくみを考え出した。
+4 病気になった入居者に医療（病気の治療や手当て）を行った。
+【考え方】
+学生たちがしたことは、第3段落に書かれています。順に見ていきます。
+・Sometimes, they would chat or play games with them.（ときには、彼らとおしゃべりをしたり、ゲームをしたりした）
+・At other times, they cooked simple meals for them.（またあるときには、簡単な食事を作ってあげた）
+・They would also go shopping for them（また、彼らのために買い物に行った）
+・the students would take turns sitting with and talking to them（学生たちは交代でそばに座り、話しかけた）
+おしゃべりやゲーム、病気の人のそばに座って話しかけることは、「入居者と一緒に時間を過ごす」ことに当たります。食事作りや買い物は、毎日の暮らしに必要なことの手伝いです。
+本文と選択肢を対にすると、次のようになります。
+本文 chat or play games with them / sitting with and talking to them → 選択肢 spent time with the residents
+本文 cooked simple meals for them / go shopping for them → 選択肢 supported them with their daily needs
+選択肢1は、第3段落の具体的な行動をまとめた言い方になっています。ですから、1が正解です。
+【ほかの選択肢】
+2 教える人と教わる人が逆です。本文は teach them useful skills, such as how to use a computer（コンピューターの使い方のような役に立つ技術を彼らに教えた）で、学生が入居者に教えています。学校の課題に使ったという話もありません。
+3 本文にありません。入居者を増やすためのしくみを考えたという話は出てきません。
+4 本文と合いません。入居者が病気になったとき、学生たちがしたのは sitting with and talking to them（そばに座って話しかけた）ことです。治療などの医療を行ったとは書かれていません。
+【覚えるポイント】
+・would ～：ここでは「（過去に）よく～したものだ」と、くり返しの行動を表しています。
+・take turns -ing：「交代で～する」。

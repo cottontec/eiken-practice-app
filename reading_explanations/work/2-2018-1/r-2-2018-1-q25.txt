@@ -1,6 +1,7 @@
 ---
 choices: reduce leg injuries | harm children's health | increase the height of people | improve athletic performance
 answerText: improve athletic performance
+reviewed: yes
 ---
 【正解】4 improve athletic performance（運動の能力を高める）
 【和訳】
@@ -23,4 +24,4 @@ They found that those with better knee symmetry when they were children had beco
 3 科学者たちは体を測定していますが、分かったのは走る速さとの関係です。身長が伸びるとは書かれていません。
 【覚えるポイント】
 ・athletic performance：「運動の成績、運動能力」。
-・段落の最初の文が空所のときは、その段落の結論（ここでは faster runners）をまとめた表現を選びます。
+・段落の最初の文が空所のときは、その段落の結論（ここでは faster runners）が大きな手がかりになります。

@@ -1,6 +1,7 @@
 ---
 choices: collapse | represent | insult | obtain
 answerText: represent
+reviewed: yes
 ---
 【正解】2 represent（～を代表する）
 【和訳】

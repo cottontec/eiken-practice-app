@@ -1,6 +1,7 @@
 ---
 choices: into | under | up | out
 answerText: into
+reviewed: yes
 ---
 【正解】1 into（break into ～ で「～に押し入る」）
 【和訳】

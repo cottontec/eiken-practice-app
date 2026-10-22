@@ -1,0 +1,27 @@
+---
+choices: feeding cows too much | losing many animals | wild animals attacking | young cows staying healthy
+answerText: losing many animals
+---
+【正解】2 losing many animals（多くの動物を失う）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 feeding cows too much（牛にえさを与えすぎる）
+2 losing many animals（多くの動物を失う）
+3 wild animals attacking（野生動物がおそってくる）
+4 young cows staying healthy（幼い牛が健康でいる）
+【考え方】
+空所は第3段落の最後 There should be little risk of (26) if only two or three of them are kept together. です。little risk of ～ は「～の危険がほとんどない」、should はここでは「～のはずだ」という意味です。them は cows（牛）を指します。つまり「2、3頭だけを一緒に飼うのであれば、（26）の危険はほとんどないはずだ」という文になります。
+直前の文は The researchers also say that diseases are not such a big problem for small groups.（研究者たちはまた、小さなグループにとっては、病気はそれほど大きな問題にならないとも言っている）です。空所の文は、この「病気の問題」の続きだと考えられます。
+では、病気の何が問題だったのでしょうか。第1段落にもどると、次のように書かれています。
+・it is easy for diseases to spread from one animal to another（病気が1頭の動物からほかの動物へ広がりやすい）
+・This can lead to many cows dying on one farm.（このことは、1つの農場で多くの牛が死ぬことにつながる可能性がある）
+病気の問題とは、病気が広がって多くの牛が死んでしまうことでした。2、3頭だけなら病気が広がっても多くの牛が死ぬ心配は少ない、という流れになります。many cows dying（多くの牛が死ぬこと）を、農家の立場から言いかえたのが losing many animals（多くの動物を失うこと）です。ですから2が正解です。
+【ほかの選択肢】
+1 「牛にえさを与えすぎる」を入れると、えさの量の危険の話になります。直前の文は病気の話で、えさを与えすぎることは本文に書かれていません。
+3 「野生動物がおそってくる」を入れると、野生動物の危険の話になります。本文には野生動物のことは出てきません。
+4 「幼い牛が健康でいる」を入れると、「幼い牛が健康でいる危険はほとんどない」となります。健康でいることはよいことなので「危険」とは言えず、意味が通りません。
+【覚えるポイント】
+・little risk of ～：「～の危険がほとんどない」。little は a がないと「ほとんど～ない」という意味になります。
+・lead to ～：「～につながる、～を引き起こす」。

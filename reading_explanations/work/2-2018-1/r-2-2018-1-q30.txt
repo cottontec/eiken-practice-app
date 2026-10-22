@@ -1,6 +1,7 @@
 ---
 choices: It was not popular in many of the countries where movies are watched. | It cost them money to use it in their movies or TV shows. | They wanted to use songs that were not used frequently by other directors. | They thought that people wanted to hear more interesting songs.
 answerText: It cost them money to use it in their movies or TV shows.
+reviewed: yes
 ---
 【正解】2 It cost them money to use it in their movies or TV shows.（自分たちの映画やテレビ番組でその歌を使うと、お金がかかった。）
 【和訳】

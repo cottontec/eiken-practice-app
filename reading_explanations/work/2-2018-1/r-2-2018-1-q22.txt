@@ -1,6 +1,7 @@
 ---
 choices: depend on the season | improve over time | increase with age | cause health issues
 answerText: increase with age
+reviewed: yes
 ---
 【正解】3 increase with age（年齢とともに増える）
 【和訳】

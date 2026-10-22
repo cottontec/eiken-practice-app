@@ -1,6 +1,7 @@
 ---
 choices: If it is prevented | If this is true | With better treatment | With more exercise
 answerText: If this is true
+reviewed: yes
 ---
 【正解】2 If this is true（もしこれが本当なら）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: gravity | sympathy | anniversary | flexibility
 answerText: flexibility
+reviewed: yes
 ---
 【正解】4 flexibility（柔軟性、体のやわらかさ）
 【和訳】

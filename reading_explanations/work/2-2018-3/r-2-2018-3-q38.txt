@@ -1,0 +1,30 @@
+---
+choices: Women calculated the movements of rockets and bombs for the U.S. Army during World War II. | Kathryn Kleiman began teaching computer science at Harvard University in 1986. | The first computer was so large that it took two days for a group of women to repair. | About 75 percent of young American women have said that they will study computer science.
+answerText: Women calculated the movements of rockets and bombs for the U.S. Army during World War II.
+---
+【正解】1 Women calculated the movements of rockets and bombs for the U.S. Army during World War II.（第二次世界大戦中、女性たちはアメリカ陸軍のためにロケットや爆弾の動きを計算した。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：次の記述のうち、正しいのはどれですか。
+1 第二次世界大戦中、女性たちはアメリカ陸軍のためにロケットや爆弾の動きを計算した。
+2 キャスリン・クライマンは、1986年にハーバード大学でコンピューター科学を教え始めた。
+3 最初のコンピューターはとても大きかったので、女性のグループが修理するのに2日かかった。
+4 アメリカの若い女性の約75パーセントが、コンピューター科学を勉強するつもりだと言っている。
+【考え方】
+本文全体の内容と合うものを選ぶ問題なので、選択肢を1つずつ本文と比べます。
+1は第2段落の内容です。During World War II（第二次世界大戦中）の話として、次のように書かれています。
+in 1942, the U.S. Army hired a group of women who had studied math in university.（1942年に、アメリカ陸軍は、大学で数学を学んだ女性のグループを雇った）
+The U.S. Army needed to understand where and how its rockets and bombs moved, so the army asked the women to do the calculations.（アメリカ陸軍は、自軍のロケットや爆弾がどこへどのように動くかを理解する必要があったので、女性たちに計算をするよう頼んだ）
+本文と選択肢を対にすると、次のようになります。
+本文 where and how its rockets and bombs moved（ロケットや爆弾がどこへどのように動くか）＝ 選択肢 the movements of rockets and bombs（ロケットや爆弾の動き）
+本文 the army asked the women to do the calculations（陸軍は女性たちに計算をするよう頼んだ）→ 選択肢 Women calculated ～ for the U.S. Army（女性たちが陸軍のために計算した）
+第2段落の続きに、女性たちが卓上計算機で計算をした様子も書かれているので、実際に計算をしたことが分かります。ですから、1が正解です。
+【ほかの選択肢】
+2 本文では、1986年のクライマンは a young female student at Harvard University（ハーバード大学の若い女子学生）で、コンピューター科学の分野の女性について研究していました。その年にハーバード大学で教え始めたとは書かれていません。
+3 第3段落に、ENIACは big enough to fill a whole room（部屋全体をうめるほど大きい）とありますが、修理に2日かかったという話はありません。また、本文はENIACを「最初のコンピューター」とは言っていません。
+4 本文の数字は、第1段落の only about 25 percent of people working in computer-related fields in the United States are women（アメリカでコンピューター関連の分野で働く人のうち、女性は約25パーセントしかいない）です。若い女性の75パーセントがコンピューター科学を勉強するつもりだと言ったとは、どこにも書かれていません。
+【覚えるポイント】
+・Which of the following statements is true? のような問題では、選択肢ごとに本文のどの段落の話かを見つけて比べましょう。
+・ask ＋人＋ to ～：「（人）に～するよう頼む」。

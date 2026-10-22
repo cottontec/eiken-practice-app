@@ -1,6 +1,7 @@
 ---
 choices: jealously | strangely | generously | obviously
 answerText: obviously
+reviewed: yes
 ---
 【正解】4 obviously（明らかに）
 【和訳】

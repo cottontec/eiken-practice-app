@@ -1,6 +1,7 @@
 ---
 choices: Despite this | For instance | Like before | What is more
 answerText: For instance
+reviewed: yes
 ---
 【正解】2 For instance（たとえば）
 【和訳】

@@ -1,0 +1,26 @@
+---
+choices: Indeed | Equally | On the contrary | For one thing
+answerText: Indeed
+---
+【正解】1 Indeed（実際、本当に）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Indeed（実際、本当に）
+2 Equally（同じように、同様に）
+3 On the contrary（それどころか、それとは反対に）
+4 For one thing（1つには）
+【考え方】
+空所は第3段落の (23), chat benches are becoming very popular. の文頭です。このような文と文をつなぐ言葉を選ぶときは、空所の前とあとの内容の関係を考えます。
+・空所の前：Jones's simple idea provides an easy and attractive way to solve the problem of loneliness.（ジョーンズの簡単なアイデアは、孤独という問題を解決するための、手軽で魅力的な方法を与えてくれる）
+・空所のあと：chat benches are becoming very popular. More than 40 benches have been set up across the United Kingdom, and the idea is spreading to other countries（おしゃべりベンチはとても人気が出てきている。イギリス各地で40を超えるベンチが設置され、そのアイデアはほかの国々にも広がっている）
+前の文は「このアイデアは手軽で魅力的な方法だ」という書き手の評価です。あとの文は、ベンチが人気を集め、数が増え、外国にも広がっているという事実です。つまり、あとの文は前の文の評価を、実際のようすで裏づけています。
+Indeed は「実際、本当に」という意味で、前に言ったことを確かな事実で強めたり裏づけたりするときに使います。ですから1が正解です。
+【ほかの選択肢】
+2 Equally は「同じように、同様に」で、前と同じくらい大切な別の点を付け加えるときに使います。あとの文は、前の文と並ぶ別の点ではなく、前の文の評価を裏づける事実なので合いません。
+3 On the contrary は「それどころか、それとは反対に」で、前の内容を打ち消して反対のことを言うときに使います。前の文もあとの文もアイデアのよさを伝える内容で、反対の関係ではありません。
+4 For one thing は「1つには」で、ある考えの理由を1つ挙げるときに使います。ベンチの人気が出ていることは、アイデアが手軽で魅力的である理由ではなく、その結果として起きていることなので、合いません。
+【覚えるポイント】
+・Indeed：「実際、本当に」。前の内容を事実で裏づけたり、強めたりするときに使います。
+・On the contrary：「それどころか、それとは反対に」。前の内容を打ち消すときに使います。

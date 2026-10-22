@@ -1,6 +1,7 @@
 ---
 choices: On average | On the other hand | In return | In particular
 answerText: In particular
+reviewed: yes
 ---
 【正解】4 In particular（とくに）
 【和訳】

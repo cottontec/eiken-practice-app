@@ -1,6 +1,7 @@
 ---
 choices: delays | approaches | violates | translates
 answerText: violates
+reviewed: yes
 ---
 【正解】3 violates（～に違反する、～を破る）
 【和訳】

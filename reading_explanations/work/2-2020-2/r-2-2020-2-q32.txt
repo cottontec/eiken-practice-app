@@ -1,0 +1,31 @@
+---
+choices: Potter paid for it herself because publishers did not believe that they could make money from it. | The first publisher of her book thought that it would be more popular than a color version of the book. | Most publishers were not able to create color versions of books during that time period. | Potter's friends told her that her pictures looked better in black and white.
+answerText: Potter paid for it herself because publishers did not believe that they could make money from it.
+---
+【正解】1 Potter paid for it herself because publishers did not believe that they could make money from it.（出版社がその本でお金をかせげると思わなかったので、ポターが自分で費用を払ったから。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ポターの最初の本は、なぜ白黒だったのですか。
+1 出版社がその本でお金をかせげると思わなかったので、ポターが自分で費用を払ったから。
+2 その本の最初の出版社が、その本はカラー版よりも人気が出るだろうと考えたから。
+3 その時代には、ほとんどの出版社が本のカラー版を作ることができなかったから。
+4 ポターの友人たちが、彼女の絵は白黒のほうがよく見えると言ったから。
+【考え方】
+最初の本が白黒だった話は、第3段落にあります。順に見ていきます。
+・She sent her first book to various publishers, but none of them were interested in publishing it.（彼女は最初の本をいろいろな出版社に送ったが、どの出版社もそれを出版することに興味を示さなかった）
+・Unlike the publishers, Potter felt certain that the book would be a success, so in 1901, she paid one publisher to print copies of The Tale of Peter Rabbit.（出版社とは違って、ポターはその本が成功すると確信していた。そこで1901年、彼女はある出版社にお金を払って『ピーターラビットのおはなし』を印刷してもらった）
+・Because of costs, this first version was in black and white.（費用のため、この最初の版は白黒だった）
+本文が直接述べている理由は Because of costs（費用のため）です。そしてその費用は、出版社ではなくポター自身が払っていました。自分で印刷代を払ったために費用をおさえる必要があり、白黒になったと考えられます。
+本文と選択肢を対にすると、次のようになります。
+本文 she paid one publisher to print copies ＝ 選択肢 Potter paid for it herself
+本文 Unlike the publishers, Potter felt certain that the book would be a success（出版社とは違って、ポターは成功すると確信していた）→ 読み取れること：出版社はその本が成功する（お金になる）とは思っていなかった（選択肢の publishers did not believe that they could make money from it）
+ですから1が正解です。
+【ほかの選択肢】
+2 本文では、最初の本がすぐに売り切れたあとで the publisher decided to publish a color version（出版社はカラー版を出版することに決めた）とあります。出版社が白黒のほうが人気が出ると考えたとは書かれていません。
+3 その時代にカラー版を作れなかったという話は本文にありません。むしろ、同じ出版社がのちにカラー版を出版しています。
+4 友人たちが言ったのは、物語を本として出版してはどうかということです。絵が白黒のほうがよく見えると言ったとは書かれていません。
+【覚えるポイント】
+・Because of ～：「～のために、～が原因で」。
+・feel certain that ～：「～だと確信している」。

@@ -1,0 +1,25 @@
+---
+choices: each cow is much larger | the milk can be kept longer | fewer people are needed | cheaper food is being used
+answerText: fewer people are needed
+---
+【正解】3 fewer people are needed（必要とされる人が（より）少なくてすむ）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 each cow is much larger（1頭1頭の牛がずっと大きい）
+2 the milk can be kept longer（牛乳を（より）長く保存できる）
+3 fewer people are needed（必要とされる人が（より）少なくてすむ）
+4 cheaper food is being used（（より）安いえさが使われている）
+【考え方】
+空所は第1段落の Because (24), the cost of producing milk is lower. です。Because のあとには理由が入るので、「（24）なので、牛乳を生産する費用がより低くなる」という文になります。lower は low（低い）の比較級（「より～」を表す形）です。
+費用が下がる理由は、直前の文に書かれています。
+To supply the huge amount needed, big farms use machines that automatically feed cows and take their milk.（必要とされる膨大な量を供給するために、大きな農場では、自動で牛にえさを与え、乳をしぼる機械を使っている）
+automatically は「自動で」です。えさやりや乳しぼりを機械が自動でしてくれるなら、その仕事をする人の数は少なくてすみます。働く人が少なければ、その分の費用もかからなくなります。fewer は few（少ない）の比較級で、fewer people are needed は「（機械を使わない場合より）必要とされる人が少ない」という意味です。こう考えると、機械を使うこと→人が少なくてすむ→費用が下がる、という流れになります。ですから3が正解です。
+【ほかの選択肢】
+1 「1頭1頭の牛がずっと大きい」を入れると、牛の大きさが費用を下げる理由になります。しかし本文で述べられているのは機械を使うことで、牛の大きさについては書かれていません。
+2 「牛乳を長く保存できる」を入れると、保存の話が理由になります。直前の文の機械はえさやりと乳しぼりのためのもので、牛乳の保存については書かれていません。
+4 「安いえさが使われている」を入れると、えさの値段が理由になります。機械は自動で牛にえさを与えますが、えさが安くなったとは書かれていません。
+【覚えるポイント】
+・Because ～, …：「～なので…」。Because のあとが理由、コンマのあとが結果です。
+・fewer ＋数えられる名詞：「（～より）少ない…」。few の比較級です。

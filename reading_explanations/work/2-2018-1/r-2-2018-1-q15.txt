@@ -1,6 +1,7 @@
 ---
 choices: a big mouth | second thoughts | the last word | small changes
 answerText: second thoughts
+reviewed: yes
 ---
 【正解】2 second thoughts（have second thoughts で「考え直す、迷い始める」）
 【和訳】

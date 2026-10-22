@@ -1,6 +1,7 @@
 ---
 choices: Some of the food waste in Mamallapuram is made into fertilizer. | Mamallapuram was the capital of India in the 7th century. | People in Mamallapuram had not used plastic until 2011. | People stopped building new restaurants in Mamallapuram in 2008.
 answerText: Some of the food waste in Mamallapuram is made into fertilizer.
+reviewed: yes
 ---
 【正解】1 Some of the food waste in Mamallapuram is made into fertilizer.（ママッラプラムの食べ物のごみの一部は、肥料にされている。）
 【和訳】
@@ -17,7 +18,7 @@ answerText: Some of the food waste in Mamallapuram is made into fertilizer.
 The remaining food waste is turned into fertilizer for use in growing crops.（残りの食べ物のごみは、作物を育てるのに使う肥料に変えられる）
 remaining は「残りの」という意味です。食べ物のごみの一部はバイオガスという燃料にされ、残りが肥料にされています。
 本文と選択肢を対にすると、次のようになります。
-本文 The remaining food waste is turned into fertilizer ＝ 選択肢 Some of the food waste ... is made into fertilizer
+本文 The remaining food waste is turned into fertilizer → 選択肢 Some of the food waste ... is made into fertilizer
 「残りの食べ物のごみ」は食べ物のごみ全体の一部なので Some of the food waste（食べ物のごみの一部）と表されています。is turned into（～に変えられる）は is made into（～にされる）と言いかえられています。
 【ほかの選択肢】
 2 7世紀については、The town was first built in the 7th century（この町は7世紀に初めて築かれた）とあるだけです。インドの首都だったとは書かれていません。

@@ -1,6 +1,7 @@
 ---
 choices: what | who | when | how
 answerText: how
+reviewed: yes
 ---
 【正解】4 how（どのようにして）
 【和訳】

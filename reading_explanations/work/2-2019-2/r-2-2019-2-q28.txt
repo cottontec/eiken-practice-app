@@ -1,0 +1,28 @@
+---
+choices: can choose between morning and afternoon sessions. | must bring their children to the center five days each week. | get a discount of $30 each day. | have to prepare their children's lunch.
+answerText: can choose between morning and afternoon sessions.
+---
+【正解】1 can choose between morning and afternoon sessions.（午前の部と午後の部から選ぶことができる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：キッドランド・チャイルドケアに子どもを半日預ける保護者は、
+1 午前の部と午後の部から選ぶことができる。
+2 毎週5日、子どもを保育所に連れてこなければならない。
+3 毎日30ドルの割引を受けられる。
+4 子どもの昼食を用意しなければならない。
+【考え方】
+設問は「半日（half day）預ける保護者」についてです。half day という語が出てくる第2段落を見ます。
+For the half day, there are two sessions—the morning session from 6 a.m. to noon and the afternoon session from noon to 6 p.m.（半日保育には2つの時間帯があり、午前の部は午前6時から正午まで、午後の部は正午から午後6時まで）
+半日保育には午前と午後の2つの時間帯があると書かれています。同じ段落の初めには Parents can choose ～ / You can also choose between half-day and full-day care.（保護者は～を選べる／半日保育と全日保育のどちらかも選べる）とあり、プランや保育の長さを保護者が選べることが説明されています。この流れから、半日保育では2つの時間帯のどちらかを選ぶのだと読み取れます。
+本文と選択肢を対にすると、次のようになります。
+本文 there are two sessions—the morning session ～ and the afternoon session ～ → 選択肢 can choose between morning and afternoon sessions
+ですから、1が正解です。
+【ほかの選択肢】
+2 本文と合いません。Parents can choose the three-day, four-day, or five-day plan.（3日、4日、5日のプランから選べる）とあるので、5日と決まっているわけではありません。must（～しなければならない）は言い切りすぎです。
+3 数字の意味がちがいます。$30 は a half day is $30（半日は30ドル）という半日保育の料金で、割引の額ではありません。
+4 人がちがいます。昼食を持ってこなければならないのは Parents who choose the full day（全日保育を選んだ保護者）です。半日保育の保護者についてではありません。
+【覚えるポイント】
+・choose between A and B：「AとBのどちらかを選ぶ」。
+・数字が出てくる選択肢は、その数字が本文で「何の数字か（料金か、割引か、時間か）」を確かめましょう。

@@ -1,0 +1,30 @@
+---
+choices: Women began doing jobs which had mostly been done by men before the men went to war. | Men who had studied math in college often found it difficult to find a place to work. | The U.S. Army calculated the time it took to build rockets and bombs. | The U.S. Army hired a group of women to fight along with men overseas.
+answerText: Women began doing jobs which had mostly been done by men before the men went to war.
+---
+【正解】1 Women began doing jobs which had mostly been done by men before the men went to war.（男性が戦争に行く前は主に男性がしていた仕事を、女性がし始めた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：第二次世界大戦中に何が起きましたか。
+1 男性が戦争に行く前は主に男性がしていた仕事を、女性がし始めた。
+2 大学で数学を学んだ男性は、働く場所を見つけるのが難しいことが多かった。
+3 アメリカ陸軍は、ロケットや爆弾を作るのにかかる時間を計算した。
+4 アメリカ陸軍は、海外で男性と一緒に戦わせるために、女性のグループを雇った。
+【考え方】
+World War II（第二次世界大戦）は、第2段落の始めに出てきます。
+During World War II, many American men were fighting overseas. As a result, women were needed for jobs that were traditionally done by men.（第二次世界大戦中、多くのアメリカ人男性が海外で戦っていた。その結果、昔から男性が行ってきた仕事に、女性が必要とされるようになった）
+As a result は「その結果」です。男性が戦争に行っていなくなったので、それまで男性がしていた仕事を、女性がするようになったということです。そのすぐあとに、陸軍が数学を学んだ女性を雇って計算をさせた例が続いています。
+本文と選択肢を対にすると、次のようになります。
+本文 many American men were fighting overseas（多くのアメリカ人男性が海外で戦っていた）＝ 選択肢 the men went to war（男性が戦争に行った）
+本文 jobs that were traditionally done by men（昔から男性が行ってきた仕事）＝ 選択肢 jobs which had mostly been done by men（主に男性がしていた仕事）
+本文 women were needed for jobs（仕事に女性が必要とされた）→ 選択肢 Women began doing jobs（女性がその仕事をし始めた）
+ですから、1が正解です。
+【ほかの選択肢】
+2 本文で、大学で数学を学んだのは、陸軍に雇われた women（女性たち）です。数学を学んだ男性が働く場所を見つけられなかったとは書かれていません。人物が違います。
+3 本文は The U.S. Army needed to understand where and how its rockets and bombs moved（陸軍はロケットや爆弾がどこへどのように動くかを理解する必要があった）です。計算したのは「動き」についてであり、「作るのにかかる時間」ではありません。
+4 本文では、女性たちは計算をするために雇われました（asked the women to do the calculations）。海外で戦っていたのは男性で、女性が一緒に戦うために雇われたとは書かれていません。
+【覚えるポイント】
+・As a result：「その結果」。前の出来事が原因で、あとの出来事が結果になります。
+・traditionally：「昔から、伝統的に」。選択肢では mostly ～ before（以前は主に）と言いかえられています。

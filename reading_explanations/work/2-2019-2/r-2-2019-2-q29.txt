@@ -1,0 +1,29 @@
+---
+choices: Teach his son how to read and write for free. | Schedule a visit for him to come and see the center. | Send him a list of the activities that her day-care center offers. | Recommend some educational toys to use at home.
+answerText: Schedule a visit for him to come and see the center.
+---
+【正解】2 Schedule a visit for him to come and see the center.（彼が保育所を見に来られるように、見学の予定を立てる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ジュディ・セブリングは、フレッチャーさんのために何をすることを申し出ていますか。
+1 彼の息子に、読み書きを無料で教える。
+2 彼が保育所を見に来られるように、見学の予定を立てる。
+3 彼女の保育所が行っている活動の一覧を彼に送る。
+4 家で使う教育用のおもちゃをいくつか勧める。
+【考え方】
+offer to ～ は「～しようと申し出る」という意味です。ジュディ・セブリングが「私が～します」と言っている部分をさがします。第3段落の終わりにあります。
+If you would like to come and visit our center with your son, please let me know, and I can set up a date and time.（息子さんと一緒に当園の見学にいらっしゃりたい場合はお知らせください。日時を決めさせていただきます）
+set up a date and time は「日時を決める、手配する」という意味です。フレッチャーさんが見学を希望すれば、見学の日時を決めると申し出ています。
+本文と選択肢を対にすると、次のようになります。
+本文 come and visit our center ＝ 選択肢 come and see the center
+本文 I can set up a date and time ＝ 選択肢 Schedule a visit
+schedule は「予定を立てる」という意味の動詞です。ですから、2が正解です。
+【ほかの選択肢】
+1 本文と合いません。第3段落に We teach basic skills like reading and counting.（読むことや数を数えることのような基本的な力を教えている）とありますが、これは保育所でふだん行っていることの紹介です。「無料で」とも、「書くこと」とも書かれていません。また、料金は全日が1日50ドル、半日が30ドルです。
+3 本文と合いません。活動については You can learn more about these on our website.（これらについては当園のウェブサイトでくわしく分かる）とあり、ウェブサイトを見るよう案内しています。一覧を送るとは書かれていません。
+4 本文にありません。教育用のおもちゃは We also have many educational toys for each age（それぞれの年齢に合った教育用のおもちゃがたくさんある）と、保育所にあるものとして紹介されているだけです。家で使うおもちゃを勧める話はありません。
+【覚えるポイント】
+・offer to ～：「～しようと申し出る」。
+・set up a date and time：「日時を決める」。schedule（予定を立てる）と言いかえられます。

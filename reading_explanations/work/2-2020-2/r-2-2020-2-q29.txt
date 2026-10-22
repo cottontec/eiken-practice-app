@@ -1,0 +1,30 @@
+---
+choices: leave certain kinds of food at home. | tell the restaurants if they have allergies. | eat peanuts and other nuts for their health. | stay out of certain areas of the campus.
+answerText: leave certain kinds of food at home.
+---
+【正解】1 leave certain kinds of food at home.（ある種類の食べ物を家に置いてくる）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ロジャー・テイラーは学生に～ように頼んでいる。
+1 ある種類の食べ物を家に置いてくる
+2 アレルギーがあればレストランに伝える
+3 健康のためにピーナッツやそのほかのナッツ類を食べる
+4 キャンパスのある場所に立ち入らない
+【考え方】
+学生へのお願いは、第3段落のナッツについての新しい規則の部分に書かれています。
+・We ask that students do not bring any foods containing nuts into these areas.（学生のみなさんには、ナッツを含む食べ物をこれらの場所に持ち込まないようお願いします）
+・If you are not sure about an item, please leave it at home.（ある食べ物についてよく分からない場合は、家に置いてきてください）
+these areas（これらの場所）は、前の文の restaurants and cafeterias on campus（キャンパス内のレストランやカフェテリア）を指しています。
+本文と選択肢を対にすると、次のようになります。
+本文 please leave it at home ＝ 選択肢 leave ... at home
+本文 foods containing nuts（ナッツを含む食べ物）や、ナッツが入っているか分からない食べ物 → 選択肢 certain kinds of food（ある種類の食べ物）
+ナッツを含むかもしれない食べ物は持ってこないで家に置いてくるように頼んでいるので、1が正解です。
+【ほかの選択肢】
+2 本文には Since many of our students have allergies（多くの学生がアレルギーを持っているので）とありますが、アレルギーをレストランに伝えるようにというお願いは書かれていません。
+3 本文の内容と反対です。ナッツはアレルギーのある学生のためにキャンパスで出されなくなる食べ物で、食べるように勧めてはいません。
+4 本文がお願いしているのは、ナッツを含む食べ物をレストランやカフェテリアに「持ち込まない」ことです。その場所に立ち入らないようにとは言っていません。
+【覚えるポイント】
+・ask that ～：「～するようにお願いする」。
+・containing ～：「～を含む」。foods containing nuts で「ナッツを含む食べ物」。
