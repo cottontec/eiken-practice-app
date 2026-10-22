@@ -7,7 +7,7 @@ answerText: segment
 （英文）
 It took the scientist two weeks to get to the jungle village where he would be doing research. The last ［segment］ of the voyage was a long ride up a river in a small boat.
 （訳）
-その科学者が、研究をすることになっているジャングルの村にたどり着くまでには、2週間かかった。その旅の最後の（区間）は、小さなボートに乗って川を長くさかのぼるものだった。
+その科学者が、研究をすることになっていたジャングルの村にたどり着くまでには、2週間かかった。その旅の最後の（区間）は、小さなボートに乗って川を長くさかのぼるものだった。
 （選択肢の意味）
 1 segment：区切り、区間、部分
 2 maze：迷路

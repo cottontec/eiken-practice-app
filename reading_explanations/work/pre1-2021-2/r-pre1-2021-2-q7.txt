@@ -1,0 +1,31 @@
+---
+choices: withdrawals | collisions | settlements | emissions
+answerText: emissions
+---
+【正解】4 emissions（排出物、排出）
+【和訳】
+（英文）
+The climate expert said that vehicle ［emissions］ were a major cause of global warming. He presented data showing how much CO2 cars released into the environment each year.
+（訳）
+その気候の専門家は、自動車の（排出物）が地球温暖化の大きな原因だと言った。彼は、自動車が毎年どれだけの二酸化炭素（CO2）を環境中に出しているかを示すデータを見せた。
+（選択肢の意味）
+1 withdrawals：（預金の）引き出し、撤退
+2 collisions：衝突
+3 settlements：解決、入植地
+4 emissions：排出物、排出
+【考え方】
+まず見るところ：あとの文の how much CO2 cars released into the environment
+あとの文を確かめます。
+He presented data showing how much CO2 cars released into the environment each year.（彼は、自動車が毎年どれだけの二酸化炭素を環境中に出しているかを示すデータを見せた）
+released は「放出した、出した」という意味です。専門家が示したのは、自動車が出す二酸化炭素の量のデータです。
+次に、空所のある文を見ます。
+vehicle ( ) were a major cause of global warming（自動車の（　）が地球温暖化の大きな原因だ）
+vehicle は「乗り物、自動車」です。あとの文で自動車が出す二酸化炭素の話をしているので、空所には「自動車が出すもの」が入ります。emissions は「排出物（外に出されるガスなど）」という意味なので、4が正解です。
+この問題の型：言いかえ（CO2 cars released → vehicle emissions）／因果（排出物→地球温暖化）
+【ほかの選択肢】
+1 withdrawals は「引き出し、撤退」です。「自動車の引き出し」では意味が通らず、二酸化炭素を出すという話にもつながりません。
+2 collisions は「衝突」です。自動車の衝突事故は問題ですが、あとの文は二酸化炭素の量のデータの話なので、地球温暖化の原因としてつながりません。
+3 settlements は「解決、入植地（人々が移り住んで作った土地）」です。「自動車の解決」では意味が通りません。
+【覚えるポイント】
+・emission：「排出、排出物」。vehicle emissions で「自動車の排出ガス」。
+・空所のあとの文に具体的なデータ（ここでは車が出す CO2 の量）が書かれているときは、そのデータが空所の語の言いかえになっていることが多く、手がかりになります。

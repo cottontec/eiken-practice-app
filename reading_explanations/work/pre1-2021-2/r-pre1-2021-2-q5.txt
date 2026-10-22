@@ -1,0 +1,31 @@
+---
+choices: loyally | fondly | sturdily | vastly
+answerText: sturdily
+---
+【正解】3 sturdily（頑丈に、しっかりと）
+【和訳】
+（英文）
+A ［sturdily］ built shelf would have supported Salma’s heavy books, but the cheap one she decided to use broke under the weight.
+（訳）
+（頑丈に）作られた棚なら、サルマの重い本を支えられただろうが、彼女が使うことにした安い棚は、その重さで壊れてしまった。
+（選択肢の意味）
+1 loyally：忠実に、誠実に
+2 fondly：愛情をこめて、なつかしく
+3 sturdily：頑丈に、しっかりと
+4 vastly：大いに、ものすごく
+【考え方】
+まず見るところ：後半の but the cheap one she decided to use broke under the weight
+文の後半を確かめます。
+but the cheap one she decided to use broke under the weight（しかし、彼女が使うことにした安い棚は、その重さで壊れてしまった）
+one は shelf（棚）を指します。安い棚は、重い本の重さにたえられずに壊れました。
+次に、空所のある前半を見ます。
+A ( ) built shelf would have supported Salma’s heavy books（（　）作られた棚なら、サルマの重い本を支えられただろう）
+would have supported は「（実際にはそうではなかったが）支えられただろう」という、実際には起こらなかったことを想像する言い方です。but のあとの「安い棚は壊れた」と比べているので、空所には「重さにたえられる作り方」を表す語が入ります。sturdily は「頑丈に、しっかりと」なので、3が正解です。
+この問題の型：対比（頑丈に作られた棚⇔安くて壊れた棚）／文法（would have supported：実際にはなかったことを想像する言い方）
+【ほかの選択肢】
+1 loyally は「忠実に」です。人の態度を表す語で、「忠実に作られた棚」では意味が通りません。
+2 fondly は「愛情をこめて」です。「愛情をこめて作られた棚」とは言えても、それが重い本を支えられる理由にはならず、壊れた安い棚との対比になりません。
+4 vastly は「大いに、ものすごく」です。程度を強める語で、「ものすごく作られた棚」では、どのように作られたのかが分からず、意味が通りません。
+【覚えるポイント】
+・sturdily：「頑丈に」。形容詞 sturdy（頑丈な）に -ly がついた形です。
+・would have ～ ..., but ... の形では、but のあとに「実際に起こったこと」が書かれます。実際の結果（壊れた）と反対になる語を選ぶことが手がかりになります。
