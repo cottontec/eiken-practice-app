@@ -1,0 +1,30 @@
+---
+choices: mellow | eventful | tedious | primary
+answerText: tedious
+---
+【正解】3 tedious（退屈な、うんざりする）
+【和訳】
+（英文）
+The couple found painting their house ［tedious］ at first. However, when they started playing lively music while they worked, it became less boring.
+（訳）
+その夫婦は、初めは自分たちの家のペンキ塗りを（退屈）だと感じた。しかし、作業中に明るい音楽をかけ始めると、ペンキ塗りは前よりも退屈ではなくなった。
+（選択肢の意味）
+1 mellow：穏やかな、落ち着いた
+2 eventful：出来事の多い、波乱に満ちた
+3 tedious：退屈な、うんざりする
+4 primary：主な、最初の
+【考え方】
+まず見るところ：次の文の However, ～ it became less boring.
+空所の文は、find A B（AをBだと感じる）の形です。
+The couple found painting their house (　) at first.（その夫婦は、初めは家のペンキ塗りを〇〇だと感じた）
+at first（初めは）とあるので、あとで感じ方が変わったと考えられます。次の文を見ます。
+However, when they started playing lively music while they worked, it became less boring.（しかし、作業中に明るい音楽をかけ始めると、それは前よりも退屈ではなくなった）
+less boring は「（それまでより）退屈でない」という意味です。音楽をかける前は、もっと退屈だったことになります。tedious は「退屈な、うんざりする」で、boring とほぼ同じ意味なので、3が正解です。
+この問題の型：言いかえ（tedious ≒ boring）
+【ほかの選択肢】
+1 mellow は「穏やかな」です。初めは穏やかだったとすると、「退屈でなくなった」という変化の説明につながりません。
+2 eventful は「出来事の多い」です。ペンキ塗りに出来事が多かったという話は、退屈さが減ったという内容と合いません。
+4 primary は「主な、最初の」です。「ペンキ塗りを主なものだと感じた」では、あとの「退屈でなくなった」とつながりません。
+【覚えるポイント】
+・tedious：「退屈な、うんざりする」。find A B：「AをBだと感じる」。
+・at first（初めは）と However（しかし）がそろっているときは、あとの文の変化（ここでは less boring）から、初めの状態を逆にたどって考えるのが手がかりになります。

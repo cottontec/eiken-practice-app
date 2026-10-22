@@ -1,0 +1,31 @@
+---
+choices: fastened | embarked | dictated | applauded
+answerText: embarked
+---
+【正解】2 embarked（乗り出した ※embark on ～ の形で「（旅など）に出発する、～を始める」）
+【和訳】
+（英文）
+Before the couple ［embarked］ on their three-day hike in the wilderness, they made sure they had enough food and water.
+（訳）
+その2人は、自然のままの荒れ地での3日間のハイキングに（出発する）前に、十分な食べ物と水があることを確かめました。
+（選択肢の意味）
+1 fastened：しっかり留めた、固定した
+2 embarked：乗り出した（embark on ～ で「～に出発する、～を始める」）
+3 dictated：書き取らせた；命令した
+4 applauded：拍手した、ほめたたえた
+【考え方】
+まず見るところ：空所のすぐ後ろの on their three-day hike
+空所のある部分は次のとおりです。
+Before the couple (　) on their three-day hike in the wilderness（その2人が、荒れ地での3日間のハイキングに（　）前に）
+couple は「2人組」で、夫婦や恋人どうしに使います。wilderness は「荒野（人が住んでいない、自然のままの土地）」です。
+文の後半は次のようになっています。
+they made sure they had enough food and water（2人は十分な食べ物と水があることを確かめた）
+make sure ～ は「～を確かめる」です。長いハイキングに出かける「前の」準備の話だと分かります。ですから、空所には「（ハイキングに）出発する」という意味の語が入ります。embark on ～ で「（旅など）に出発する、乗り出す」という決まった形になり、空所の後ろの on ともぴったり合うので、2が正解です。
+この問題の型：熟語・決まった形（embark on ～）
+【ほかの選択肢】
+1 fastened は「しっかり留めた」です。fasten は fasten a seat belt（シートベルトを締める）のように、あとに留めるものを置いて使います。「ハイキングの上に留めた」となり、意味が通りません。
+3 dictated は「書き取らせた、命令した」です。「ハイキングについて命令した」と考えても、食べ物と水を確かめたという準備の話とつながりません。
+4 applauded は「拍手した、ほめたたえた」です。これからハイキングに出かける前の準備の場面に合いません。
+【覚えるポイント】
+・embark on ～：「（旅など）に出発する、（新しいこと）を始める」。
+・空所の直後の前置詞（ここでは on）と、「前に～を確かめた」という準備の流れの両方を見ると、答えを決める手がかりになります。

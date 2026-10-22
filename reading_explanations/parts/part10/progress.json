@@ -148,14 +148,14 @@
     {
       "batchId": "pre1-2018-2",
       "target": 41,
-      "written": 0,
+      "written": 5,
       "contentReviewed": 0,
-      "status": "not_started",
-      "blank": 41,
+      "status": "in_progress",
+      "blank": 36,
       "issues": 0,
       "checkErrors": 0,
       "checkWarnings": 0
     }
   ],
-  "updatedAt": "2026-10-22T21:29:07+00:00"
+  "updatedAt": "2026-10-22T21:29:32+00:00"
 }

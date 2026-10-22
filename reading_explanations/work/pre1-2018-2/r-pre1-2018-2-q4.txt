@@ -1,0 +1,31 @@
+---
+choices: pioneers | innovators | bystanders | successors
+answerText: bystanders
+---
+【正解】3 bystanders（その場に居合わせた人たち）
+【和訳】
+（英文）
+The drivers of the two cars disagreed about how the accident occurred, so the police officer questioned some ［bystanders］ at the scene to find out what really happened.
+（訳）
+2台の車の運転手たちは、事故がどのように起きたかについて意見が食い違ったので、警察官は、本当は何が起きたのかを知るために、現場に（居合わせた）何人かの人に質問しました。
+（選択肢の意味）
+1 pioneers：先駆者、開拓者
+2 innovators：革新者（新しいやり方を生み出す人）
+3 bystanders：その場に居合わせた人、見物人
+4 successors：後継者（あとを継ぐ人）
+【考え方】
+まず見るところ：空所の後ろの at the scene と to find out what really happened
+文の前半は次のとおりです。
+The drivers of the two cars disagreed about how the accident occurred（2台の車の運転手たちは、事故がどのように起きたかについて意見が食い違った）
+事故を起こした本人たちの話が合わないので、本当のことが分かりません。
+空所のある後半は次のとおりです。
+the police officer questioned some (　) at the scene to find out what really happened（警察官は、本当は何が起きたのかを知るために、現場で何人かの（　）に質問した）
+at the scene は「現場で」です。運転手以外で、現場にいて事故を見ていたかもしれない人に話を聞くのが自然です。bystander は「その場に居合わせた人、そばで見ていた人」という意味なので、3が正解です。
+この問題の型：因果（運転手の話が食い違う→その場にいた人に聞く）
+【ほかの選択肢】
+1 pioneers は「先駆者、開拓者（新しい分野を最初に切りひらいた人）」です。事故の現場で事情を聞く相手としては合いません。
+2 innovators は「革新者（新しいやり方を生み出す人）」です。事故が実際にどう起きたかを知っている人とは関係がありません。
+4 successors は「後継者（地位や仕事のあとを継ぐ人）」です。だれのあとを継ぐ人なのかも分からず、事故の現場の話とつながりません。
+【覚えるポイント】
+・bystander：「その場に居合わせた人、見物人」。by（そばに）＋ stand（立つ）＋ -er（人）と分けると意味をつかみやすいです。
+・at the scene（現場で）や what really happened（本当は何が起きたのか）のような語句は、目撃した人を表す語が答えになる手がかりになります。
