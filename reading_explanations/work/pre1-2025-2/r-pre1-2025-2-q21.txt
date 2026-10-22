@@ -1,0 +1,32 @@
+---
+choices: did not lessen the significance of | was not a good reason to support | made people suspicious of | discouraged schoolchildren from joining
+answerText: did not lessen the significance of
+---
+【正解】1 did not lessen the significance of（～の重要性を弱めはしなかった）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 did not lessen the significance of（～の重要性を弱めはしなかった）
+2 was not a good reason to support（～を支持するよい理由ではなかった）
+3 made people suspicious of（人々に～を疑わせた）
+4 discouraged schoolchildren from joining（子どもたちが～に参加するのを思いとどまらせた）
+【考え方】
+まず見るところ：第3段落の空所の前の While this was true と、空所のあとの For one thing, ～
+第3段落の最初の文は、次のとおりです。
+School authorities attempted to play down the importance of the school strikes by pointing out that only a small percentage of the national school population participated.（学校当局は、全国の学校に通う子どもたちのうち、参加したのはほんのわずかな割合にすぎないと指摘することで、学校ストライキの重要性を小さく見せようとした）
+authorities は「当局（取りしまる立場の役所や責任者）」、play down ～ は「～を（実際より）小さく見せる、軽く扱う」です。
+空所のある文は、次のとおりです。
+While this was true, it (21) the protests.（それは事実だったが、そのことは抗議を（21））
+While はここでは「～だけれども」という意味です。「参加者が少なかったのは事実だけれども」と一度認めたあとで、当局の言い分とは反対の内容が続くと考えられます。
+空所のあとには、次のようにあります。
+For one thing, they represented one of the first times that schoolchildren in the United Kingdom had felt sufficiently empowered to stand up for their rights.（一つには、それらの抗議は、イギリスの子どもたちが、自分たちの権利のために立ち上がれるだけの力が自分たちにあると感じた、最初の機会の一つだった）
+For one thing は「一つには」と理由を挙げるときの言い方です。さらに、ストライキが子どもの福祉を向上させる社会改革のきっかけになったことも書かれています。どちらも「ストライキは重要だった」ことの理由です。ですから、参加者が少なかったことは抗議の重要性を弱めなかった、となる1が正解です。
+この問題の型：対比（当局は重要性を小さく見せようとした ⇔ 実は重要だった）
+【ほかの選択肢】
+2 was not a good reason to support は「～を支持するよい理由ではなかった」です。入れると「参加者が少なかったことは、抗議を支持するよい理由ではなかった」となりますが、空所のあとは抗議がなぜ重要だったかの説明なので、つながりません。
+3 made people suspicious of は「人々に～を疑わせた」です。入れると「参加者が少なかったことが、人々に抗議を疑わせた」となりますが、空所のあとでは抗議の重要な意味が説明されていて、人々が抗議を疑ったという話は書かれていません。
+4 discouraged schoolchildren from joining は「子どもたちが～に参加するのを思いとどまらせた」です。本文には、参加者が少ないという指摘によって、子どもたちが参加をやめたという話はありません。空所のあとの、抗議が重要だった理由ともつながりません。
+【覚えるポイント】
+・play down ～：「～を小さく見せる、軽く扱う」。significance は「重要性、意義」。
+・While this was true, it (　) ～. の形は、相手の言い分を一度認めてから反対の考えを述べることが多いので、あとに続く For one thing ～ の内容と同じ方向の語句を選ぶことが手がかりになります。

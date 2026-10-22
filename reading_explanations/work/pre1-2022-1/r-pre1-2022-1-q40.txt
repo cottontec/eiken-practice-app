@@ -1,0 +1,31 @@
+---
+choices: Indians were able to take part in the process of building a government that reflected their economic and social needs. | schools made an effort to educate their students to have an awareness of both Indian and British cultures. | divisions were created between different groups of Indians to prevent them from challenging British rule. | many of the railroads and other transportation systems built by the Indian government were destroyed.
+answerText: divisions were created between different groups of Indians to prevent them from challenging British rule.
+---
+【正解】3 divisions were created between different groups of Indians to prevent them from challenging British rule.（インドの人々がイギリスの支配に立ち向かうのを防ぐために、インドの人々の異なる集団の間に分断が作られた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：One effect that British rule had on India was that（イギリスの支配がインドに与えた影響の一つは、～ということだった。）
+1 Indians were able to take part in the process of building a government that reflected their economic and social needs.（インドの人々は、自分たちの経済的・社会的な必要を反映した政府を作る過程に参加することができた。）
+2 schools made an effort to educate their students to have an awareness of both Indian and British cultures.（学校は、生徒がインドとイギリスの両方の文化を理解するように教育しようと努めた。）
+3 divisions were created between different groups of Indians to prevent them from challenging British rule.（インドの人々がイギリスの支配に立ち向かうのを防ぐために、インドの人々の異なる集団の間に分断が作られた。）
+4 many of the railroads and other transportation systems built by the Indian government were destroyed.（インド政府が作った鉄道やそのほかの交通のしくみの多くが壊された。）
+【考え方】
+まず見るところ：第3段落の The British also implemented a policy known as "divide and rule," ～
+第3段落では、イギリスの支配がインドに与えた悪い影響が書かれています。
+The British also implemented a policy known as "divide and rule," which turned Indians from different religious backgrounds against each other.（イギリスはまた、「分割統治」として知られる政策を実行し、それによって、異なる宗教的背景を持つインドの人々どうしを対立させた）
+The British government used this strategy to maintain its control over India, as members of these religions had joined forces during the earlier rebellion.（イギリス政府は、インドへの支配を保つためにこの戦略を使った。というのも、以前の反乱のときに、これらの宗教の信者たちが力を合わせていたからである）
+本文と選択肢3を対にすると、次のようになります。
+・本文 turned Indians from different religious backgrounds against each other（異なる宗教的背景を持つインドの人々どうしを対立させた）→ 選択肢 divisions were created between different groups of Indians（インドの人々の異なる集団の間に分断が作られた）
+・本文 to maintain its control over India, as members of these religions had joined forces during the earlier rebellion（以前の反乱で力を合わせたので、支配を保つために）→ 選択肢 to prevent them from challenging British rule（イギリスの支配に立ち向かうのを防ぐために）
+人々が再び力を合わせて反乱を起こすことがないように、わざと対立させたと読み取れます。よって3が正解です。
+この問題の型：言いかえ（turned ～ against each other → divisions were created）
+【ほかの選択肢】
+1 本文に書かれていません。インドの人々が自分たちの必要を反映した政府づくりに参加したという話はありません。
+2 本文の内容と合いません。本文では、イギリスの文化のほうがすぐれているという考えを強めるために、インドの人々は the same opinions, morals, and social preferences as the British（イギリス人と同じ意見、道徳観、社会的な好み）を持つように教育されたとあります。インドとイギリスの両方の文化を理解させる教育とは書かれていません。
+4 本文に書かれていません。鉄道は、イギリスの支配でインドが利益を得たと主張する人が挙げる例（the construction of railways）として出てくるだけです。インド政府が作った鉄道が壊されたという話はありません。
+【覚えるポイント】
+・divide and rule：「分割統治（支配される側を分けて対立させ、まとまらないようにして支配すること）」。turn A against B：「AをBと対立させる」。join forces：「力を合わせる」。
+・本文に as ～（～なので）で理由が書かれているときは、その理由から「何を防ぎたかったのか」を考えると、選択肢の to prevent ～（～を防ぐために）と結びつけやすくなります。

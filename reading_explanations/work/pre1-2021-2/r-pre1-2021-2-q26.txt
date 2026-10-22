@@ -1,6 +1,7 @@
 ---
 choices: For example | Because of this | Nonetheless | In short
 answerText: Nonetheless
+reviewed: yes
 ---
 【正解】3 Nonetheless（それにもかかわらず、それでも）
 【和訳】

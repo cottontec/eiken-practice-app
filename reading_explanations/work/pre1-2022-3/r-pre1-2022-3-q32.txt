@@ -1,0 +1,34 @@
+---
+choices: fences that cross through more than one type of habitat benefit animals more than those built within a single habitat. | although fences create many problems, they have less of an effect on the ability of animal populations to survive than previously thought. | fences are effective at protecting some species from other harmful species that tend to use up the resources many animals need to survive. | although fences are not harmful to some species, they can have serious negative effects on a large number of animals.
+answerText: although fences are not harmful to some species, they can have serious negative effects on a large number of animals.
+---
+【正解】4 although fences are not harmful to some species, they can have serious negative effects on a large number of animals.（フェンスは一部の種には害がないが、多くの動物に深刻な悪い影響を与えることがある（ということ）。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：The study introduced in the first paragraph showed that（第1段落で紹介された研究が示したのは、）
+1 fences that cross through more than one type of habitat benefit animals more than those built within a single habitat.（2種類以上の生息地を横切るフェンスは、1つの生息地の中に建てられたフェンスよりも、動物のためになる（ということ）。）
+2 although fences create many problems, they have less of an effect on the ability of animal populations to survive than previously thought.（フェンスは多くの問題を生むが、動物の集団が生きのびる力に与える影響は、以前考えられていたよりも小さい（ということ）。）
+3 fences are effective at protecting some species from other harmful species that tend to use up the resources many animals need to survive.（フェンスは、多くの動物が生きのびるのに必要な資源を使いつくしがちな、害のある別の種から、一部の種を守るのに効果がある（ということ）。）
+4 although fences are not harmful to some species, they can have serious negative effects on a large number of animals.（フェンスは一部の種には害がないが、多くの動物に深刻な悪い影響を与えることがある（ということ）。）
+【考え方】
+まず見るところ：第1段落の generalist species ～ have little problem と、specialist species ～ suffer、for every winner, there are multiple losers
+第1段落の研究は、フェンスが動物の種の間に「勝者」と「敗者」を生むと結論づけています。まず「勝者」の説明です。
+generalist species—those that can consume a variety of foods and can survive in multiple habitats—have little problem with physical boundaries（ジェネラリスト種――さまざまな食べ物を食べることができ、複数の生息地で生きていくことができる種――は、物理的な境界があってもほとんど問題がない）
+次に「敗者」の説明です。
+specialist species, which require unique conditions to survive, suffer from being cut off from a particular food source or geographical area（スペシャリスト種は、生きていくのに特別な条件を必要とする種で、特定の食料源や地理的な地域から切り離されることに苦しむ）
+そして、段落の最後に結論があります。
+Because specialist species outnumber generalist species, the study found that for every winner, there are multiple losers.（スペシャリスト種はジェネラリスト種より数が多いので、その研究は、勝者が1種いるごとに、敗者が複数いることを明らかにした）
+本文と選択肢を対にすると、次のようになります。
+本文 generalist species ～ have little problem with physical boundaries（ジェネラリスト種は境界があってもほとんど問題がない）→ 選択肢 fences are not harmful to some species（フェンスは一部の種には害がない）
+本文 specialist species ～ suffer、for every winner, there are multiple losers（スペシャリスト種は苦しみ、勝者1種ごとに敗者が複数いる）→ 読み取れること：they can have serious negative effects on a large number of animals（多くの動物に深刻な悪い影響を与えることがある）
+ですから4が正解です。
+この問題の型：対比（勝者のジェネラリスト種⇔敗者のスペシャリスト種）、言いかえ
+【ほかの選択肢】
+1 本文に書かれていません。「2種類以上の生息地を横切るフェンス」と「1つの生息地の中のフェンス」を比べる話は出てきません。multiple habitats（複数の生息地）という語は、ジェネラリスト種が生きていける場所の説明として出てくるだけです。
+2 本文に書かれていません。本文には「以前考えられていたよりも影響が小さい」という、以前の考えと比べる話は出てきません。研究が示したのは、勝者1種ごとに敗者が複数いるということです。
+3 本文に書かれていません。フェンスが、資源を使いつくす害のある種から別の種を守るという話は出てきません。本文でフェンスの影響として書かれているのは、スペシャリスト種が食料源や地域から切り離されて苦しむことです。
+【覚えるポイント】
+・outnumber：「～より数が多い」。for every winner, there are multiple losers は「勝者1つごとに、敗者が複数いる」で、悪い影響を受ける種のほうが多いことを表しています。
+・研究の結論をたずねる設問では、段落の中の On the other hand（一方）の前後で「よい面」と「悪い面」の両方を確かめ、最後の結論の文（ここでは for every winner ～）と合う選択肢を選ぶのが手がかりになります。

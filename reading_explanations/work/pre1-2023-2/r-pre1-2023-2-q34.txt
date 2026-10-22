@@ -1,0 +1,32 @@
+---
+choices: formed partnerships with local sports teams to increase the quality of their physical education programs. | were able to increase their financial security by creating lasting relationships with their former students. | decreased the competition with other colleges by focusing on recruiting students mostly from their local areas. | kept their costs down by using facilities already available in the community instead of building their own.
+answerText: were able to increase their financial security by creating lasting relationships with their former students.
+---
+【正解】2 were able to increase their financial security by creating lasting relationships with their former students.（卒業生と長く続く関係を築くことで、お金の面での安定を高めることができた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：One reason US colleges succeeded in the twentieth century was that they（20世紀にアメリカの大学が成功した理由の一つは、大学が～ということだった。）
+1 formed partnerships with local sports teams to increase the quality of their physical education programs.（体育の授業の質を高めるために、地元のスポーツチームと提携した。）
+2 were able to increase their financial security by creating lasting relationships with their former students.（卒業生と長く続く関係を築くことで、お金の面での安定を高めることができた。）
+3 decreased the competition with other colleges by focusing on recruiting students mostly from their local areas.（主に地元の地域から学生を集めることに力を入れることで、ほかの大学との競争を減らした。）
+4 kept their costs down by using facilities already available in the community instead of building their own.（自分たちの施設を建てる代わりに、地域にすでにある施設を使うことで、費用を低くおさえた。）
+【考え方】
+まず見るところ：第3段落の Another way the colleges ensured their futures was by maintaining close ties with their graduates
+20世紀の大学の話は第3段落にあります。大学が成功した理由がいくつか挙げられていますが、選択肢2に当たるのは次の文です。
+Another way the colleges ensured their futures was by maintaining close ties with their graduates, from whom they would receive generous donations.（大学が自分たちの将来を確かなものにしたもう一つの方法は、卒業生と緊密なつながりを保つことだった。大学はその卒業生たちから、気前のよい寄付を受けたのである）
+ensure は「確かなものにする」、ties は「つながり」、donation は「寄付（お金をおくること）」です。卒業生とのつながりを保ったことで、大学は寄付というお金を受け取ることができたのです。
+本文と選択肢2を対にすると、次のようになります。
+本文 maintaining close ties（緊密なつながりを保つこと）→ 選択肢 creating lasting relationships（長く続く関係を築くこと）
+本文 their graduates（卒業生）＝ 選択肢 their former students（かつての学生）
+本文 ensured their futures ... receive generous donations（将来を確かなものにした…気前のよい寄付を受けた）→ 選択肢 increase their financial security（お金の面での安定を高める）
+寄付によって大学のお金の面が安定した、と読み取れるので、2が正解です。
+この問題の型：言いかえ（graduates ＝ former students、generous donations → financial security）
+【ほかの選択肢】
+1 本文に書かれていません。第3段落には、大学が good sports and leisure facilities（よいスポーツ施設や娯楽施設）を提供していたとありますが、地元のスポーツチームと提携したという話は出てきません。
+3 本文に書かれていません。第3段落には、学生を主に地元から集めたことや、それでほかの大学との競争を減らしたことは書かれていません。
+4 本文に書かれていません。第3段落では、残っていた大学は well-established infrastructures, including land, buildings, and libraries（土地や建物、図書館などのしっかりと整った基盤）を持っていたと書かれています。地域にある施設を借りて費用をおさえたという話はありません。
+【覚えるポイント】
+・graduates（卒業生）は、選択肢で former students（かつての学生）のように言いかえられることがあります。人を表す語の言いかえに気づくと、本文の該当する文を見つけやすくなります。
+・Another way ～ was by ...（～のもう一つの方法は…だった）のように、理由や方法がいくつか並んでいる段落では、選択肢がどの1つに当たるのかを1文ずつ確かめると手がかりになります。

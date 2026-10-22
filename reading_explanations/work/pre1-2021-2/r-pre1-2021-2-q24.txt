@@ -1,6 +1,7 @@
 ---
 choices: get by | opt for | call off | play up
 answerText: call off
+reviewed: yes
 ---
 【正解】3 call off（中止する、取りやめる）
 【和訳】

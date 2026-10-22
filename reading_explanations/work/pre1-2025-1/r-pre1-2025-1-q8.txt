@@ -1,0 +1,31 @@
+---
+choices: hazardous | vigorous | furious | monotonous
+answerText: hazardous
+---
+【正解】1 hazardous（危険な）
+【和訳】
+（英文）
+After a storm, flooding can make roads ［hazardous］. Motorists are advised to check that all roads on their planned routes are safe to drive on.
+（訳）
+嵐のあと、洪水（水があふれること）によって道路が（危険に）なることがある。車を運転する人は、通る予定の道路がすべて安全に走れることを確かめるように勧められている。
+（選択肢の意味）
+1 hazardous：危険な
+2 vigorous：活発な、元気いっぱいの
+3 furious：激怒した、（風などが）激しい
+4 monotonous：単調な（変化がなくてつまらない）
+【考え方】
+まず見るところ：後半の文の check that all roads on their planned routes are safe to drive on
+空所のある文は、make ＋名詞＋形容詞（～を…にする）の形です。
+flooding can make roads ( )（洪水によって道路が（　）になることがある）
+洪水が道路をどんな状態にするのかが空所に入ります。
+後半の文を見ます。
+Motorists are advised to check that all roads on their planned routes are safe to drive on.（車を運転する人は、通る予定の道路がすべて安全に走れることを確かめるように勧められている）
+motorist は「車を運転する人」、be advised to ～ は「～するように勧められる」です。「安全かどうか確かめなさい」と勧められているのは、洪水のあとの道路が安全でないことがあるからだと考えられます。hazardous は「危険な」なので、1が正解です。
+この問題の型：因果（洪水で道路が危険になる → 安全を確かめるよう勧められる）
+【ほかの選択肢】
+2 vigorous は「活発な、元気いっぱいの」です。「洪水によって道路が元気いっぱいになる」となり、意味が通りません。
+3 furious は「激怒した、激しい」です。人が激しく怒っている様子や、嵐などの激しさを表す語で、「洪水によって道路が激怒した状態になる」では意味が通りません。
+4 monotonous は「単調な」です。道路が単調になっても、安全を確かめるよう勧められる理由にはなりません。
+【覚えるポイント】
+・hazardous：「危険な」。名詞の hazard は「危険（なもの）」です。
+・空所の後ろの文に safe（安全な）のような語があり、「安全か確かめるように」と注意しているときは、空所には「安全ではない」向きの語が入ると考えるのが手がかりになります。

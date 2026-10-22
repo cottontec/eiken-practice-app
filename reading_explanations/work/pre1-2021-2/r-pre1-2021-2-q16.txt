@@ -1,6 +1,7 @@
 ---
 choices: dispatch | mistrust | impair | sustain
 answerText: sustain
+reviewed: yes
 ---
 【正解】4 sustain（保つ、維持する）
 【和訳】

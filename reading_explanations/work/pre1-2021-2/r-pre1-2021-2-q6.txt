@@ -1,6 +1,7 @@
 ---
 choices: tickle | swallow | litter | nurture
 answerText: nurture
+reviewed: yes
 ---
 【正解】4 nurture（育てる、はぐくむ）
 【和訳】

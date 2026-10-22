@@ -1,6 +1,7 @@
 ---
 choices: It is not reliable because it was influenced by the play that was written about Richard III by William Shakespeare. | It provided many important clues that helped researchers involved in the recent discovery of the body of Richard in Leicester. | It strongly influenced people’s image and opinion of Richard despite some of the information in it likely being inaccurate. | It contains evidence that proves that Richard did not actually murder his brother and other family members.
 answerText: It strongly influenced people’s image and opinion of Richard despite some of the information in it likely being inaccurate.
+reviewed: yes
 ---
 【正解】3 It strongly influenced people’s image and opinion of Richard despite some of the information in it likely being inaccurate.（その中の情報の一部は不正確である可能性が高いにもかかわらず、それはリチャードについての人々のイメージや意見に強く影響した。）
 【和訳】

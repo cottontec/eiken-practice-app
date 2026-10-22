@@ -1,0 +1,32 @@
+---
+choices: acute | rash | invalid | imminent
+answerText: invalid
+---
+【正解】3 invalid（無効の）
+【和訳】
+（英文）
+The store clerk told me my coupon was ［invalid］, so it could no longer be used. It had expired two months earlier.
+（訳）
+店員は私に、私のクーポン券は（無効）だと言った。だから、それはもう使えなかった。そのクーポン券は、2か月前に期限が切れていた。
+（選択肢の意味）
+1 acute：（痛みなどが）激しい、鋭い
+2 rash：軽はずみな、早まった
+3 invalid：無効の
+4 imminent：今にも起こりそうな、差しせまった
+【考え方】
+まず見るところ：空所の後ろの so it could no longer be used と、後半の It had expired two months earlier.
+空所の後ろには、クーポン券がどうなったのかが書かれています。
+so it could no longer be used（だから、それはもう使えなかった）
+no longer は「もう～ない」です。クーポン券はもう使えない状態でした。
+後半の文で、その理由が分かります。
+It had expired two months earlier.（そのクーポン券は、2か月前に期限が切れていた）
+expire は「（期限が）切れる」です。had expired は、店員がそう言ったときよりも前に、すでに期限が切れていたことを表しています。
+期限が切れて使えないクーポン券は「無効」です。invalid は「無効の」なので、3が正解です。
+この問題の型：言いかえ（invalid ≒ could no longer be used）／因果（期限切れ → 無効）
+【ほかの選択肢】
+1 acute は「（痛みなどが）激しい、鋭い」です。「クーポン券が激しい」となり、意味が通りません。
+2 rash は「軽はずみな、早まった」です。人の行動や決めごとについて使う語で、「クーポン券が軽はずみだ」では意味が通りません。
+4 imminent は「今にも起こりそうな、差しせまった」です。期限はもう2か月前に切れているので、「差しせまった」では合いません。
+【覚えるポイント】
+・invalid：「無効の」。valid（有効な）に in- がついて反対の意味になった語です。
+・no longer（もう～ない）や expired（期限が切れた）があるときは、空所に「もう使えない」向きの語が入ると考えるのが手がかりになります。

@@ -1,0 +1,28 @@
+---
+choices: dizzy | keen | fussy | bare
+answerText: bare
+---
+【正解】4 bare（（木が）葉の落ちた、むき出しの）
+【和訳】
+（英文）
+Luna looked out of the window at the winter landscape, with its ［bare］ trees and empty fields.
+（訳）
+ルナは窓の外の、葉の落ちた木々と何もない野原のある冬の景色を眺めた。
+（選択肢の意味）
+1 dizzy：めまいがする、くらくらする
+2 keen：熱心な、鋭い
+3 fussy：好みがうるさい、細かいことを気にする
+4 bare：（木が）葉の落ちた、むき出しの、裸の
+【考え方】
+まず見るところ：空所の前の the winter landscape と、空所の後ろの trees and empty fields
+the winter landscape, with its ( ) trees and empty fields（（　）木々と何もない野原のある冬の景色）
+with its ～ は「その～がある」と、前の the winter landscape（冬の景色）の様子を説明しています。空所には、冬の景色の中の木々がどんな様子なのかを表す語が入ります。
+冬の木といえば、葉が落ちて枝だけになった姿が思い浮かびます。また、並んでいる empty fields（何もない野原）も「何もない、さびしい」様子を表しています。bare は「（木が）葉の落ちた、むき出しの」という意味で、どちらの手がかりとも合うので、4が正解です。
+この問題の型：語の意味・組み合わせ（bare trees）／言いかえ（bare と empty が同じ向きの様子を表す）
+【ほかの選択肢】
+1 dizzy は「めまいがする」です。「めまいがする木々」となり、景色の説明として意味が通りません。
+2 keen は「熱心な、鋭い」です。「熱心な木々」となり、冬の景色の様子を表せません。
+3 fussy は「好みがうるさい、細かいことを気にする」です。人の性格を表す語で、「好みがうるさい木々」となり意味が通りません。
+【覚えるポイント】
+・bare trees：「葉の落ちた木々」。bare は「むき出しの、何もおおっていない」という意味で、ここでは葉のない木を表しています。
+・A and B と並べて説明しているときは、A と B が同じ向きの様子を表していることが多いので、空所でないほう（ここでは empty fields）の意味が手がかりになります。

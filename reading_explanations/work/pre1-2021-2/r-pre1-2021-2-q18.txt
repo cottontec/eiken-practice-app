@@ -1,6 +1,7 @@
 ---
 choices: pessimism | pitch | impulse | vacuum
 answerText: impulse
+reviewed: yes
 ---
 【正解】3 impulse（衝動、急にわき起こる気持ち）
 【和訳】

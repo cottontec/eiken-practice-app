@@ -1,6 +1,7 @@
 ---
 choices: crafty | inopportune | unsound | vain
 answerText: vain
+reviewed: yes
 ---
 【正解】4 vain（うぬぼれの強い、見た目を気にする）
 【和訳】

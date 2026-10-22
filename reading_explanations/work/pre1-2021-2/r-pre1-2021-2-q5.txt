@@ -1,6 +1,7 @@
 ---
 choices: loyally | fondly | sturdily | vastly
 answerText: sturdily
+reviewed: yes
 ---
 【正解】3 sturdily（頑丈に、しっかりと）
 【和訳】

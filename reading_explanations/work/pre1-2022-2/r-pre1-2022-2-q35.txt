@@ -1,0 +1,33 @@
+---
+choices: Durians are now mainly grown in Malaysia because there is no longer enough land available to cultivate them in other Southeast Asian countries. | Although durians have been selling well in places where they were traditionally grown, they have yet to gain popularity in other countries. | Premium varieties of durians have been criticized by consumers because they have no more nutritional value than cheaper varieties. | Because of the increasing demand for durians, Malaysian farmers are switching from growing other crops to growing durians.
+answerText: Because of the increasing demand for durians, Malaysian farmers are switching from growing other crops to growing durians.
+---
+【正解】4 Because of the increasing demand for durians, Malaysian farmers are switching from growing other crops to growing durians.（ドリアンの需要が高まっているため、マレーシアの農家は、ほかの作物の栽培からドリアンの栽培に切りかえている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to the first paragraph, what is true about durian production?（第1段落によると、ドリアンの生産について正しいものはどれか。）
+1 Durians are now mainly grown in Malaysia because there is no longer enough land available to cultivate them in other Southeast Asian countries.（ほかの東南アジアの国々にはもうドリアンを栽培するのに使える土地が十分にないので、ドリアンは今では主にマレーシアで栽培されている。）
+2 Although durians have been selling well in places where they were traditionally grown, they have yet to gain popularity in other countries.（ドリアンは、昔から栽培されてきた地域ではよく売れているが、ほかの国々ではまだ人気を得ていない。）
+3 Premium varieties of durians have been criticized by consumers because they have no more nutritional value than cheaper varieties.（高級な品種のドリアンは、安い品種と比べて栄養価が少しも高くないので、消費者から批判されている。）
+4 Because of the increasing demand for durians, Malaysian farmers are switching from growing other crops to growing durians.（ドリアンの需要が高まっているため、マレーシアの農家は、ほかの作物の栽培からドリアンの栽培に切りかえている。）
+【考え方】
+まず見るところ：第1段落の最後の In order to take advantage of this situation, many Malaysian farmers have stopped producing crops such as palm oil in favor of producing durians.
+Durians contain high levels of vitamins, so they are often promoted for their health benefits, which has led to rising exports.（ドリアンはビタミンを多く含んでいるので、健康によいと宣伝されることが多く、そのことが輸出の増加につながっている）
+In fact, experts predict there will be a 50 percent increase in shipments from Malaysia to China alone during the next decade.（実際、専門家たちは、今後10年間で、マレーシアから中国への出荷だけでも50パーセント増えると予測している）
+輸出や出荷が増えているということは、ドリアンを買いたい人が増えている、と読み取れます。
+In order to take advantage of this situation, many Malaysian farmers have stopped producing crops such as palm oil in favor of producing durians.（この状況を利用するために、多くのマレーシアの農家は、パーム油などの作物の生産をやめて、ドリアンを生産するようになっている）
+in favor of ～ は「（ほかのものをやめて）～のほうを選んで」という意味です。
+本文と選択肢4を対にすると、次のようになります。
+・本文 rising exports / a 50 percent increase in shipments → 選択肢 the increasing demand for durians（ドリアンの需要の高まり）
+・本文 have stopped producing crops such as palm oil in favor of producing durians ＝ 選択肢 are switching from growing other crops to growing durians（ほかの作物からドリアンの栽培に切りかえている）
+よって4が正解です。
+この問題の型：言いかえ（stopped producing ～ in favor of ... → switching from ～ to ...）
+【ほかの選択肢】
+1 本文の内容と合いません。本文には、世界で消費されるドリアンの半分以上はタイで栽培されている（over half of all durians consumed worldwide being grown in Thailand）とあります。ほぼマレーシアだけで栽培されているのはムサンキングという1つの品種です。また、ほかの国の土地が足りないという話は書かれていません。
+2 本文の内容と合いません。本文には、ドリアンの人気は今、世界のほかの地域に広がりつつある（their popularity is now spreading to other parts of the world）とあります。「ほかの国々ではまだ人気を得ていない」は、この内容と食い違います。
+3 本文に書かれていません。ムサンキングは最も高く評価されている品種の一つ（one of the most highly valued）とあるだけで、消費者から批判されているという話や、安い品種との栄養価の比べ方は書かれていません。
+【覚えるポイント】
+・in favor of ～：「（ほかのものをやめて）～のほうを選んで」。take advantage of ～：「～を利用する」。export：「輸出」。
+・選択肢に because（～なので）があるときは、結果の部分だけでなく理由の部分も本文に書かれているかを確かめます。選択肢1は「土地が足りないから」という理由が本文にありません。

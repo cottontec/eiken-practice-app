@@ -1,0 +1,32 @@
+---
+choices: he did not think that the prices of certain essential goods were related to the prices of things like common metals. | he believed that the price of the metals would not be affected even if they became rare due to the increased demand. | he wanted to demonstrate that increases in population would not result in serious shortages of the materials that humans needed to live. | he did not accept the idea that the world's population was going to increase as much as Ehrlich predicted it would.
+answerText: he wanted to demonstrate that increases in population would not result in serious shortages of the materials that humans needed to live.
+---
+【正解】3 he wanted to demonstrate that increases in population would not result in serious shortages of the materials that humans needed to live.（人口が増えても、人間が生きるのに必要な材料がひどく不足することにはならないと示したかったから。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Julian Simon bet Paul Ehrlich $1,000 because（ジュリアン・サイモンがポール・エーリックと1,000ドルを賭けたのは、）
+1 he did not think that the prices of certain essential goods were related to the prices of things like common metals.（ある種の生活に欠かせない製品の価格が、よく使われる金属のようなものの価格と関係があるとは思っていなかったから。）
+2 he believed that the price of the metals would not be affected even if they became rare due to the increased demand.（需要が増えたために金属が手に入りにくくなったとしても、金属の価格は影響を受けないと信じていたから。）
+3 he wanted to demonstrate that increases in population would not result in serious shortages of the materials that humans needed to live.（人口が増えても、人間が生きるのに必要な材料がひどく不足することにはならないと示したかったから。）
+4 he did not accept the idea that the world's population was going to increase as much as Ehrlich predicted it would.（世界の人口がエーリックの予測と同じくらい増えるという考えを受け入れていなかったから。）
+【考え方】
+まず見るところ：第1段落の Ehrlich predicted that ～ と、Simon, however, did not share Ehrlich's pessimism, arguing that ～、The purpose of the bet, therefore, was to show whose theory was correct.
+第1段落では、まず二人の考えのちがいが書かれています。
+Ehrlich predicted that population growth and increased demand for goods would put a strain on limited resources, leading to starvation and catastrophe.（エーリックは、人口の増加と物への需要の増加が、限りある資源に負担をかけ、飢えと大惨事につながると予測した）
+Simon, however, did not share Ehrlich's pessimism, arguing that human creativity and intelligence would allow society to obtain the necessary resources or find alternatives.（しかしサイモンは、エーリックの悲観的な見方に同意せず、人間の創造力と知性によって、社会は必要な資源を手に入れたり、代わりになるものを見つけたりすることができると主張した）
+そのうえで、The purpose of the bet, therefore, was to show whose theory was correct.（したがって、この賭けの目的は、どちらの説が正しいかを示すことだった）と書かれています。さらに、金属が選ばれたのは「エーリックの予測が正しければ不足するだろう」と思われたからです。つまりサイモンは、人口が増えても資源は不足しないという自分の説が正しいことを示そうとしたのです。
+本文と選択肢3を対にすると、次のようになります。
+・本文 to show whose theory was correct（どちらの説が正しいかを示す）→ 選択肢 he wanted to demonstrate（示したかった）
+・本文 Simon did not share Ehrlich's pessimism ／ obtain the necessary resources（エーリックの悲観的な見方に同意せず、必要な資源を手に入れられる）→ 選択肢 increases in population would not result in serious shortages（人口の増加はひどい不足につながらない）
+よって3が正解です。
+この問題の型：対比（エーリック：資源不足で大惨事 ⇔ サイモン：必要な資源は手に入る）
+【ほかの選択肢】
+1 本文に書かれていません。本文では、金属が選ばれたのは「生活に欠かせない製品を作るのによく使われる」からだとあります。サイモンが、製品の価格と金属の価格は関係がないと考えていたという話はありません。
+2 本文に書かれていません。サイモンは、人間の創造力で必要な資源が手に入ると考え、金属の価格は下がるほうに賭けました。金属が手に入りにくくなっても価格は影響を受けない、と信じていたとは書かれていません。
+4 本文に書かれていません。サイモンが同意しなかったのは、人口が増えると資源が足りなくなって大惨事になるという悲観的な見方です。人口がどれくらい増えるかについて、エーリックの予測を受け入れなかったという話はありません。
+【覚えるポイント】
+・pessimism：「悲観的な見方（物事が悪いほうへ向かうと考えること）」。alternative：「代わりになるもの」。
+・「なぜ～したのか」をたずねる設問では、本文の purpose（目的）や because のような語の後ろを見ると、理由の手がかりになります。

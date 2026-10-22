@@ -1,0 +1,31 @@
+---
+choices: warranty | fracture | hazard | ascent
+answerText: ascent
+---
+【正解】4 ascent（登ること、登り）
+【和訳】
+（英文）
+While the ［ascent］ of the mountain took them two days, the climbers were able to come down in less than twelve hours.
+（訳）
+その山の（登り）には2日かかったが、登山者たちは12時間足らずで下りることができた。
+（選択肢の意味）
+1 warranty：保証、保証書
+2 fracture：骨折、割れ目
+3 hazard：危険、危険なもの
+4 ascent：登ること、登り
+【考え方】
+まず見るところ：後半の come down in less than twelve hours と、文の最初の While
+空所のある部分は、次のとおりです。
+While the (　) of the mountain took them two days（その山の（　）には2日かかったが）
+ここでの While は「～だが、一方で」と、2つのことを比べる働きをしています。
+後半は、次のとおりです。
+the climbers were able to come down in less than twelve hours（登山者たちは12時間足らずで下りることができた）
+come down は「下りる」、less than ～ は「～未満、～足らず」です。後半で「下り」にかかった時間が書かれているので、前半はそれと比べられる「登り」にかかった時間だと考えられます。ascent は「登ること、登り」という意味なので、4が正解です。
+この問題の型：対比（登りは2日⇔下りは12時間足らず）
+【ほかの選択肢】
+1 warranty は「保証、保証書」です。「山の保証に2日かかった」となり、意味が通りません。
+2 fracture は「骨折、割れ目」です。「山の骨折に2日かかった」となり、意味が通りません。後半の「下り」との比べる関係にもなりません。
+3 hazard は「危険、危険なもの」です。「山の危険に2日かかった」となり、かかった時間の話として意味が通りません。
+【覚えるポイント】
+・ascent：「登ること、登り」。
+・While A, B の形で、Bに come down（下りる）のような語があるときは、Aにはそれと比べられる内容（ここでは登り）が入る手がかりになります。

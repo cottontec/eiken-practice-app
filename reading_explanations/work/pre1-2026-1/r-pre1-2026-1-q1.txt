@@ -1,0 +1,30 @@
+---
+choices: cemetery | diagram | equation | forecast
+answerText: diagram
+---
+【正解】2 diagram（図、図表）
+【和訳】
+（英文）
+In order to illustrate how a cell functions, the biology teacher drew a detailed ［diagram］ on the board showing all of its parts.
+（訳）
+細胞がどのように働くかを説明するために、生物の先生は、細胞のすべての部分を示した詳しい（図）を黒板にかいた。
+（選択肢の意味）
+1 cemetery：墓地
+2 diagram：図、図表
+3 equation：方程式、等式
+4 forecast：予報、予測
+【考え方】
+まず見るところ：空所の前の drew a detailed と、後ろの on the board showing all of its parts
+空所の前後をつなげて読みます。
+the biology teacher drew a detailed （　） on the board showing all of its parts（生物の先生は、そのすべての部分を示した詳しい（　）を黒板にかいた）
+drew は draw（線や絵をかく）の過去形です。先生が黒板に「かいた」もので、しかも showing all of its parts（そのすべての部分を示している）ものが空所に入ります。its は前に出てきた a cell（細胞）を指しています。
+文の初めの In order to illustrate how a cell functions は「細胞がどのように働くかを説明するために」という意味です。illustrate は「（例や図を使って）分かりやすく説明する」です。
+細胞の部分を全部かきこんで、しくみを説明するためのものなので、diagram（図）が合います。ですから2が正解です。
+この問題の型：語の意味・組み合わせ（draw a detailed diagram ＝ 詳しい図をかく）
+【ほかの選択肢】
+1 cemetery は「墓地」です。「細胞のすべての部分を示した詳しい墓地を黒板にかいた」となり、意味が通りません。
+3 equation は「方程式、等式」です。数字や記号を使った式なので、「細胞のすべての部分を示す」ものとしては合いません。
+4 forecast は「予報、予測」です。天気予報のように、これから起こることを言うものなので、細胞の部分を示すものとしては合いません。
+【覚えるポイント】
+・diagram：「図、図表」。draw a diagram で「図をかく」。
+・空所の後ろに showing ～（～を示している）のような説明が続くときは、その説明に合うものは何かを考えると、答えをしぼる手がかりになります。

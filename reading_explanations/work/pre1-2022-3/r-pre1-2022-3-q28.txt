@@ -1,0 +1,31 @@
+---
+choices: were more divided than previously thought | often sent packages to China | struggled to obtain enough food | maintained some of their food traditions
+answerText: maintained some of their food traditions
+---
+【正解】4 maintained some of their food traditions（自分たちの食の伝統の一部を保っていた）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 were more divided than previously thought（以前考えられていたよりも分裂していた）
+2 often sent packages to China（中国へよく荷物を送っていた）
+3 struggled to obtain enough food（十分な食べ物を手に入れるのに苦労していた）
+4 maintained some of their food traditions（自分たちの食の伝統の一部を保っていた）
+【考え方】
+まず見るところ：第3段落の空所の後ろの pig bones were the most common と the custom of raising and consuming pigs continued
+空所の文は For example（たとえば）で始まり、住民の暮らしぶりについて分かったことの例を述べています。空所の後ろを見ます。
+While the presence of cow remains suggests residents had adopted the Western habit of eating beef, pig bones were the most common type of animal remains archaeologists discovered.（牛の骨などの残りがあることから、住民たちが牛肉を食べるという西洋の習慣を取り入れていたことがうかがえる一方で、考古学者たちが見つけた動物の残骸の中で最も多かった種類は豚の骨だった）
+remains は「残骸（骨など、残ったもの）」、adopt は「取り入れる」です。牛肉という新しい習慣を取り入れた一方で、豚の骨がいちばん多かったと書かれています。続く文はこうです。
+As pork was a staple of the diets in their home country, the bones indicate the custom of raising and consuming pigs continued among the immigrants.（豚肉は彼らの母国の食事に欠かせない基本の食べ物だったので、その骨は、豚を育てて食べる習慣が移民たちの間で続いていたことを示している）
+本文と選択肢を対にすると、次のようになります。
+本文 the custom of raising and consuming pigs continued（豚を育てて食べる習慣が続いた）→ 選択肢 maintained ～ food traditions（食の伝統を保っていた）
+本文 had adopted the Western habit of eating beef（牛肉を食べる西洋の習慣を取り入れていた）→ すべての伝統を守ったのではないので、選択肢の some of（一部）と合う
+ですから4が正解です。
+この問題の型：具体例とまとめ（豚を食べる習慣が続いた → 食の伝統の一部を保った）
+【ほかの選択肢】
+1 were more divided than previously thought（以前考えられていたよりも分裂していた）は、本文に書かれていません。住民どうしの対立や分かれていた様子の話は出てこず、以前の考えと比べる話もありません。
+2 often sent packages to China（中国へよく荷物を送っていた）は、本文に書かれていません。本文に出てくるのは、香港を通ってアメリカへ送られてきた食料の話で、住民が中国へ荷物を送ったという話はありません。
+3 struggled to obtain enough food（十分な食べ物を手に入れるのに苦労していた）は、本文に書かれていません。空所の後ろでは、牛肉や豚肉を食べていたことが骨から分かると書かれていますが、食べ物が足りなかったという話は出てきません。
+【覚えるポイント】
+・maintain：「保つ、続ける」。本文では continued（続いた）が同じような意味を表しています。
+・For example（たとえば）のあとの空所は、その後ろに続く具体的な事実（ここでは豚の骨と母国の食習慣）をまとめた内容になるので、後ろの文を最後まで読んでから選ぶのが手がかりになります。

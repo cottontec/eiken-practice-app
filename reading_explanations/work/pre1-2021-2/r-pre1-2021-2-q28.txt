@@ -1,6 +1,7 @@
 ---
 choices: have already been successful | should ignore written sources | may be focusing on the wrong location | could be destroying their remains
 answerText: may be focusing on the wrong location
+reviewed: yes
 ---
 【正解】3 may be focusing on the wrong location（まちがった場所に注目しているのかもしれない）
 【和訳】

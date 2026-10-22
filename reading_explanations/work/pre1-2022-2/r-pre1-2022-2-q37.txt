@@ -1,0 +1,31 @@
+---
+choices: Durian production might suffer if awareness is not raised about the important role giant fruit bats play in durian flower pollination. | Many people in Southeast Asia have become ill as a result of eating bat meat that was sold illegally at some markets. | Some durian farmers deliberately attract giant fruit bats to their orchards so that they can catch them and sell their meat. | There has been a significant drop in natural pollinators of durian flowers because many giant fruit bats have died from breathing problems.
+answerText: Durian production might suffer if awareness is not raised about the important role giant fruit bats play in durian flower pollination.
+---
+【正解】1 Durian production might suffer if awareness is not raised about the important role giant fruit bats play in durian flower pollination.（ドリアンの花の受粉でオオコウモリが果たしている重要な役割について、人々の意識が高まらなければ、ドリアンの生産は打撃を受けるかもしれない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one thing the author of the passage says regarding giant fruit bats?（オオコウモリについて筆者が述べていることの一つは何か。）
+1 Durian production might suffer if awareness is not raised about the important role giant fruit bats play in durian flower pollination.（ドリアンの花の受粉でオオコウモリが果たしている重要な役割について、人々の意識が高まらなければ、ドリアンの生産は打撃を受けるかもしれない。）
+2 Many people in Southeast Asia have become ill as a result of eating bat meat that was sold illegally at some markets.（東南アジアの多くの人々が、一部の市場で違法に売られていたコウモリの肉を食べた結果、病気になった。）
+3 Some durian farmers deliberately attract giant fruit bats to their orchards so that they can catch them and sell their meat.（一部のドリアン農家は、オオコウモリをつかまえてその肉を売るために、わざと自分の果樹園に呼び寄せている。）
+4 There has been a significant drop in natural pollinators of durian flowers because many giant fruit bats have died from breathing problems.（多くのオオコウモリが呼吸の病気で死んだので、ドリアンの花を自然に受粉させる生き物が大きく減っている。）
+【考え方】
+まず見るところ：第3段落の最後の Without educating people about the benefits of giant fruit bats, ～
+Studies have shown that giant fruit bats are the main natural pollinators of durian flowers.（研究によって、オオコウモリがドリアンの花の主な自然の送粉者であることが分かっている）
+pollinator は「送粉者（花粉を運んで受粉させる生き物）」です。オオコウモリはドリアンの受粉に大切な役割を果たしていることが分かります。
+Without educating people about the benefits of giant fruit bats, the bats' numbers may decline further, which could have serious consequences for durian farming.（オオコウモリの利点について人々に教えなければ、このコウモリの数はさらに減るかもしれず、そうなるとドリアン農業に深刻な結果がもたらされるおそれがある）
+本文と選択肢1を対にすると、次のようになります。
+・本文 Without educating people about the benefits of giant fruit bats → 選択肢 if awareness is not raised about the important role giant fruit bats play in durian flower pollination（オオコウモリの重要な役割について意識が高まらなければ）
+・本文 could have serious consequences for durian farming → 選択肢 Durian production might suffer（ドリアンの生産が打撃を受けるかもしれない）
+本文の benefits（利点）は、ドリアンの花を受粉させてくれることを指していると読み取れます。よって1が正解です。
+この問題の型：言いかえ（Without educating people → if awareness is not raised）
+【ほかの選択肢】
+2 本文に書かれていません。本文には、コウモリの肉を食べると呼吸の病気を治すのに役立つという考えがある、と書かれているだけです。肉を食べて病気になったことや、違法に売られていたことは書かれていません。
+3 本文に書かれていません。本文では、農家はコウモリを追い払ったり殺したりしている（chased away or killed by many farmers）とあります。コウモリが狩られて食用に売られていることは書かれていますが、農家がわざと果樹園に呼び寄せているとは書かれていません。
+4 本文に書かれていません。呼吸の病気は、コウモリの肉を食べる人々についての話です。コウモリが呼吸の病気で死んだとは書かれておらず、本文で挙げられているコウモリが減る原因は、農家に追い払われたり殺されたりすることと、狩られて売られることです。
+【覚えるポイント】
+・Without ～ing, ...：「～しなければ、…」。awareness：「意識、気づいていること」。consequence：「結果、影響」。
+・選択肢に本文と同じ語（ここでは breathing problems）が出てきても、だれについての話なのかが本文と同じかを確かめます。本文の breathing problems は、肉を食べる人々についての話です。

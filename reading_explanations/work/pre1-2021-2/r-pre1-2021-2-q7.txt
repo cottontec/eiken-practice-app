@@ -1,6 +1,7 @@
 ---
 choices: withdrawals | collisions | settlements | emissions
 answerText: emissions
+reviewed: yes
 ---
 【正解】4 emissions（排出物、排出）
 【和訳】

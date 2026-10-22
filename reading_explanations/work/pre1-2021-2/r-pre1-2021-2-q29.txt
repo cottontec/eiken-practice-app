@@ -1,6 +1,7 @@
 ---
 choices: not developed as quickly as expected | provided a solution to the problem | not had the effect that was intended | benefited from lessons learned by fishermen
 answerText: not had the effect that was intended
+reviewed: yes
 ---
 【正解】3 not had the effect that was intended（意図された効果をあげていない）
 【和訳】

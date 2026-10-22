@@ -1,6 +1,7 @@
 ---
 choices: suite | coma | dip | ramp
 answerText: dip
+reviewed: yes
 ---
 【正解】3 dip（（一時的な）落ちこみ、下落）
 【和訳】

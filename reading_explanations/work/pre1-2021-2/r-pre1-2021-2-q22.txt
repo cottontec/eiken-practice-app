@@ -1,6 +1,7 @@
 ---
 choices: wheeled out | whipped up | plunged into | tucked in
 answerText: plunged into
+reviewed: yes
 ---
 【正解】3 plunged into（～に飛びこんだ）
 【和訳】

@@ -1,0 +1,34 @@
+---
+choices: Breakthroughs in science and technology are becoming more difficult to achieve because of a continually growing pool of knowledge. | Although researchers today are very knowledgeable, they are less skilled at applying their knowledge to practical situations. | The quality of journal articles in mathematics has improved despite the fact that the field attracts fewer researchers than it used to. | New innovations improve society in certain ways, but their overall effect may not be positive in the long term.
+answerText: Breakthroughs in science and technology are becoming more difficult to achieve because of a continually growing pool of knowledge.
+---
+【正解】1 Breakthroughs in science and technology are becoming more difficult to achieve because of a continually growing pool of knowledge.（増え続ける知識の蓄積のために、科学や技術の大きな進歩は、成しとげるのがより難しくなってきている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is suggested by the theory mentioned in the third paragraph?（第3段落で述べられている理論によって、何が示されているか。）
+1 Breakthroughs in science and technology are becoming more difficult to achieve because of a continually growing pool of knowledge.（増え続ける知識の蓄積のために、科学や技術の大きな進歩は、成しとげるのがより難しくなってきている。）
+2 Although researchers today are very knowledgeable, they are less skilled at applying their knowledge to practical situations.（今日の研究者はとても知識が豊かだが、知識を実際の場面に当てはめるのはより苦手である。）
+3 The quality of journal articles in mathematics has improved despite the fact that the field attracts fewer researchers than it used to.（数学の分野が以前よりも少ない研究者しか集めていないにもかかわらず、数学の学術誌の論文の質は向上してきた。）
+4 New innovations improve society in certain ways, but their overall effect may not be positive in the long term.（新しい技術革新はある点では社会をよくするが、長い目で見ると、全体としての影響はよいものではないかもしれない。）
+【考え方】
+まず見るところ：第3段落の the "burden of knowledge." This states that as more innovations are made, ～
+第3段落では、大きな進歩に時間がかかるようになった傾向を説明する理論が紹介されています。
+One theory put forward to explain this tendency is the "burden of knowledge."（この傾向を説明するために出された理論の1つが、「知識の重荷」だ）
+This states that as more innovations are made, the amount of knowledge required to make new ones grows.（これは、より多くの技術革新がなされるにつれて、新しい技術革新を生み出すのに必要な知識の量が増える、というものだ）
+burden は「重荷、負担」です。さらに、次のように書かれています。
+each generation has to learn an increasing amount of previously accrued knowledge before it can begin to innovate for itself（それぞれの世代は、自分たちで技術革新を始められるようになる前に、それまでに積み重ねられてきた、ますます多くの知識を学ばなければならない）
+The only way to do this is to study more, which inevitably takes longer.（これを行う唯一の方法はより多く勉強することであり、それには必然的により長い時間がかかる）
+本文と選択肢1を対にすると、次のようになります。
+・本文 the amount of knowledge required ～ grows / an increasing amount of previously accrued knowledge（必要な知識の量が増える／積み重ねられてきた、ますます多くの知識）→ 選択肢 a continually growing pool of knowledge（増え続ける知識の蓄積）
+・本文 has to learn ～ before it can begin to innovate / which inevitably takes longer（技術革新を始める前に学ばなければならない／必然的により長い時間がかかる）→ 選択肢 are becoming more difficult to achieve（成しとげるのがより難しくなってきている）
+学ぶべき知識が増え続けるので、新しい進歩を生むまでに時間がかかり、難しくなるという考え方です。よって1が正解です。
+この問題の型：言いかえ（the amount of knowledge ～ grows → a continually growing pool of knowledge）
+【ほかの選択肢】
+2 本文に書かれていません。第3段落には、学ばなければならない知識が増えて時間がかかることは書かれていますが、今の研究者が知識を実際の場面に当てはめるのが苦手だという話はありません。
+3 本文に書かれていません。ドイツの研究で示されたのは、数学の研究者が初めて論文を発表する平均年齢が5歳上がったことと、論文で引用された研究の数が5倍に増えたことです。論文の質が向上したことや、研究者の数が減ったことは書かれていません。
+4 本文に書かれていません。第3段落の理論は、新しい技術革新を生むのに必要な知識が増えるというもので、技術革新の全体としての影響がよいかどうかについては述べていません。
+【覚えるポイント】
+・burden of knowledge：「知識の重荷」。previously accrued knowledge：「それまでに積み重ねられてきた知識」。breakthrough：「大きな進歩、画期的な発見」。
+・設問に the theory mentioned in the third paragraph とあるときは、その段落で理論の名前のすぐあとに続く This states that ～（これは～というものだ）の部分が、選択肢と対応する手がかりになります。

@@ -14,10 +14,11 @@ answerText: perform poorly
 【考え方】
 まず見るところ：第1段落の空所のあとの According to the theory, ～ と、文の最後の positions for which their abilities are unsuited
 空所の文は「ピーターの法則は、管理職の地位にいる人々の中に、なぜ〇〇な人が多いのかを説明できるかもしれない」という内容です。この法則の中身は、すぐあとの文に書かれています。
-According to the theory, employees who perform well in lower-level positions will eventually rise to positions they are not prepared for.（この理論によると、低い地位でよい成果を上げる社員は、やがて、自分が対応する準備のできていない地位にまで上がっていく）
+According to the theory, employees who perform well in lower-level positions will eventually rise to positions they are not prepared for.（この理論によると、低い地位でよい成果を上げる社員は、やがて、自分には準備ができていない地位にまで上がっていく）
 さらに段落の最後では、社員は「自分の能力に合わない地位」にたどり着くと書かれています。
 results in them eventually reaching positions for which their abilities are unsuited（結果として、社員がやがて自分の能力に合わない地位にたどり着くことにつながる）
-準備ができておらず、能力も合わない地位についた人は、その地位ではうまく仕事ができないと考えられます。つまり、この法則が説明するのは「管理職なのに成果が上がらない人が多いのはなぜか」ということです。perform poorly は「成果が上がらない」なので、4が正解です。前の文の perform well（よい成果を上げる）と反対の言い方になっている点も手がかりです。
+準備ができておらず、能力も合わない地位についた人は、その地位ではうまく仕事ができないと考えられます。
+つまり、この法則が説明するのは「管理職なのに成果が上がらない人が多いのはなぜか」ということです。perform poorly は「成果が上がらない」なので、4が正解です。空所のすぐあとの According to ～ の文にある perform well（よい成果を上げる）と反対の言い方になっている点も手がかりです。
 この問題の型：対比（低い地位で perform well ⇔ 管理職で perform poorly）
 【ほかの選択肢】
 1 earn lower-than-average salaries は「平均より低い給料をもらっている」です。本文には給料の話は書かれておらず、法則の説明（能力に合わない地位につく）ともつながりません。

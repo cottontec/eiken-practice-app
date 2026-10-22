@@ -1,6 +1,7 @@
 ---
 choices: aviation | circulation | commencement | imprisonment
 answerText: circulation
+reviewed: yes
 ---
 【正解】2 circulation（発行部数）
 【和訳】

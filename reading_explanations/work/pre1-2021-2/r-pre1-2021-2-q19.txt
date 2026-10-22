@@ -1,6 +1,7 @@
 ---
 choices: trespassing | endorsing | swaying | convening
 answerText: trespassing
+reviewed: yes
 ---
 【正解】1 trespassing（不法侵入（入ってはいけない土地に入ること））
 【和訳】

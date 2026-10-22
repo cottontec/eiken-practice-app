@@ -1,0 +1,36 @@
+---
+choices: other types of meat, such as pork and beef, were becoming more expensive, so the American people wanted a cheaper alternative. | most chicken farms were focused on egg production, which led to a need to create a chicken that was more suitable for producing meat. | a large number of chicken farms in America went out of business, which severely decreased the availability of chicken meat. | the American people were tired of eating the same type of eggs for so long, so producers wanted a different type of chicken.
+answerText: most chicken farms were focused on egg production, which led to a need to create a chicken that was more suitable for producing meat.
+---
+【正解】2 most chicken farms were focused on egg production, which led to a need to create a chicken that was more suitable for producing meat.（ほとんどの養鶏場が卵の生産に重点を置いていたため、肉をとるのにより適したニワトリを作り出す必要が生じた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：The US Department of Agriculture organized the Chicken of Tomorrow contest because（アメリカ農務省が「明日のニワトリ」コンテストを開いたのは、～からだ。）
+1 other types of meat, such as pork and beef, were becoming more expensive, so the American people wanted a cheaper alternative.（豚肉や牛肉のようなほかの種類の肉がより高くなってきていたので、アメリカの人々はより安い代わりのものを求めていた。）
+2 most chicken farms were focused on egg production, which led to a need to create a chicken that was more suitable for producing meat.（ほとんどの養鶏場が卵の生産に重点を置いていたため、肉をとるのにより適したニワトリを作り出す必要が生じた。）
+3 a large number of chicken farms in America went out of business, which severely decreased the availability of chicken meat.（アメリカの多くの養鶏場が廃業し、そのために鶏肉がひどく手に入りにくくなった。）
+4 the American people were tired of eating the same type of eggs for so long, so producers wanted a different type of chicken.（アメリカの人々は長い間同じ種類の卵を食べることにあきていたので、生産者は違う種類のニワトリを求めた。）
+【考え方】
+まず見るところ：第2段落の meant eggs could not compete as a source of protein と、The US Department of Agriculture therefore
+最初に、第1段落の初めで、1940年代より前の様子を確かめます。
+the main emphasis was on egg production rather than obtaining meat（主に重視されていたのは、肉を得ることよりも卵の生産だった）
+emphasis は「重視（大事にすること）」です。ほとんどのニワトリは卵をとるために育てられていました。
+次に、第2段落を見ます。
+After World War II, however, the growing availability of meat such as pork and beef meant eggs could not compete as a source of protein.（しかし、第二次世界大戦後、豚肉や牛肉のような肉がますます手に入りやすくなったことで、卵はたんぱく質の源として太刀打ちできなくなった）
+The US Department of Agriculture therefore set up an event called the Chicken of Tomorrow contest to find a type of chicken that could be raised economically and produced more meat.（そこでアメリカ農務省は、経済的に育てることができ、より多くの肉がとれる種類のニワトリを見つけるために、「明日のニワトリ」コンテストという催しを始めた）
+therefore（そこで、そのため）は、前の文が理由であることを示します。卵だけでは豚肉や牛肉にかなわなくなったので、肉がたくさんとれるニワトリが必要になった、という流れです。
+本文と選択肢を対にすると、次のようになります。
+本文 the main emphasis was on egg production（主に重視されていたのは卵の生産）＝ 選択肢 most chicken farms were focused on egg production（ほとんどの養鶏場が卵の生産に重点を置いていた）
+本文 to find a type of chicken that ... produced more meat（より多くの肉がとれる種類のニワトリを見つけるために）→ 選択肢 a need to create a chicken that was more suitable for producing meat（肉をとるのにより適したニワトリを作り出す必要）
+2つの段落の内容を合わせると、2の内容が読み取れるので、2が正解です。
+この問題の型：因果（therefore：卵では太刀打ちできない → 肉のとれるニワトリを探す）／言いかえ
+【ほかの選択肢】
+1 本文と合いません。第2段落にあるのは、豚肉や牛肉の growing availability（ますます手に入りやすくなったこと）で、それらの値段が高くなったとは書かれていません。
+3 時期と因果が違います。小さな農場が廃業したのは第3段落の内容で、コンテストのあとに大きな施設でニワトリを育てるようになった結果です。また、鶏肉が手に入りにくくなったとは書かれていません。コンテストを開いた理由ではありません。
+4 本文に書かれていません。人々が同じ種類の卵を食べることにあきていたという話はありません。
+【覚えるポイント】
+・availability：「手に入りやすさ、利用できること」。
+・compete：「競争する、太刀打ちする」。
+・設問が「～したのはなぜか（because）」のときは、本文の therefore（そこで）や so（だから）の前に理由が書かれていることが多いので、その前の文を確かめると手がかりになります。

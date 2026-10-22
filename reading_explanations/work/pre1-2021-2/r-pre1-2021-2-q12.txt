@@ -1,6 +1,7 @@
 ---
 choices: miserly | sacred | habitual | stale
 answerText: habitual
+reviewed: yes
 ---
 【正解】3 habitual（習慣的な、いつものくせになった）
 【和訳】

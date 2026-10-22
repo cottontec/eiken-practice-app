@@ -1,6 +1,7 @@
 ---
 choices: roll around | rip up | wash down | live on
 answerText: live on
+reviewed: yes
 ---
 【正解】4 live on（～で生活する、～を頼りに暮らす）
 【和訳】

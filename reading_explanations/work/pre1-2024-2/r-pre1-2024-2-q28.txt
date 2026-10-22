@@ -1,0 +1,31 @@
+---
+choices: It overestimated the impact that advances in computer technology would have on our lives. | It is unlikely to be accurate in the future because of the increasingly rapid rate at which companies release new products. | It not only predicted technological progress but also stimulated the development of new technology. | It was an effective way to predict advances in technology despite the fact that it was intended for a different purpose.
+answerText: It not only predicted technological progress but also stimulated the development of new technology.
+---
+【正解】3 It not only predicted technological progress but also stimulated the development of new technology.（それは技術の進歩を予測しただけでなく、新しい技術の開発をうながしもした。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one thing the author of the passage says about Moore's law?（この文章の筆者がムーアの法則について述べていることの1つは何か。）
+1 It overestimated the impact that advances in computer technology would have on our lives.（それは、コンピューター技術の進歩が私たちの生活に与える影響を、大きく見積もりすぎていた。）
+2 It is unlikely to be accurate in the future because of the increasingly rapid rate at which companies release new products.（会社が新しい製品を発売する速さがますます速くなっているため、それは将来は正確ではなくなりそうだ。）
+3 It not only predicted technological progress but also stimulated the development of new technology.（それは技術の進歩を予測しただけでなく、新しい技術の開発をうながしもした。）
+4 It was an effective way to predict advances in technology despite the fact that it was intended for a different purpose.（それは別の目的のためのものだったにもかかわらず、技術の進歩を予測する効果的な方法だった。）
+【考え方】
+まず見るところ：第1段落の Moore originally intended this as a prediction ～, but it became the driving force behind ～
+第1段落では、ムーアの法則がどのようなものだったかが書かれています。
+Moore originally intended this as a prediction regarding computer technology, but it became the driving force behind the rapid progress in computer technology that has occurred since then.（ムーアはもともと、これをコンピューター技術についての予測のつもりで考えていたが、それは、それ以来起きてきたコンピューター技術の急速な進歩を推し進める力となった）
+driving force は「推し進める力、原動力」です。さらに、会社がこの法則を軸に製品開発を計画し始めたことや、家庭用コンピューターやスマートフォンのような技術革新をもたらしたことも書かれています。
+本文と選択肢3を対にすると、次のようになります。
+・本文 intended this as a prediction regarding computer technology（これをコンピューター技術についての予測のつもりで考えていた）→ 選択肢 predicted technological progress（技術の進歩を予測した）
+・本文 it became the driving force behind the rapid progress（急速な進歩を推し進める力となった）→ 選択肢 stimulated the development of new technology（新しい技術の開発をうながした）
+法則は「予測」であるだけでなく、実際に技術の進歩を引き起こす力にもなったので、not only A but also B（AだけでなくBも）の形の3が正解です。
+この問題の型：言いかえ（became the driving force behind ～ → stimulated the development of ～）
+【ほかの選択肢】
+1 本文に書かれていません。本文には、ムーアの法則がもたらした家庭用コンピューターやスマートフォンが essential parts of modern life（現代の生活に欠かせないもの）になったとあり、法則が影響を大きく見積もりすぎていたという話はありません。
+2 本文に書かれていません。第2段落には Moore's law has largely held true（ムーアの法則はおおむね当てはまってきた）とあり、会社が製品を発売する速さのせいで将来は正確でなくなるという話はありません。
+4 本文と合いません。本文には Moore originally intended this as a prediction（ムーアはもともと、これを予測のつもりで考えていた）とあります。選択肢の「別の目的のためのものだった」という部分が、本文の「もともと予測のつもりだった」と食いちがいます。
+【覚えるポイント】
+・driving force：「推し進める力、原動力」。intend A as B：「AをBのつもりで考える」。not only A but also B：「AだけでなくBも」。
+・本文に「もともとは～のつもりだった、but ...」とあるときは、「もともとの役割」と「実際に果たした役割」の両方をふくむ選択肢を探すことが手がかりになります。

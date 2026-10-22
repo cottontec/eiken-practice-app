@@ -1,0 +1,30 @@
+---
+choices: triggering | fabricating | conserving | renouncing
+answerText: fabricating
+---
+【正解】2 fabricating（～をでっち上げること、ねつ造すること）
+【和訳】
+（英文）
+The scientist was accused of ［fabricating］ his data after experts attempted to copy his experiments but were unable to produce the same results.
+（訳）
+専門家たちがその科学者の実験を同じようにやってみようとしたが、同じ結果を出すことができなかったあとで、その科学者は自分のデータを（ねつ造した）として非難された。
+（選択肢の意味）
+1 triggering：～を引き起こすこと
+2 fabricating：～をでっち上げること、ねつ造すること
+3 conserving：～を保存すること、節約すること
+4 renouncing：～を（正式に）捨てること、放棄すること
+【考え方】
+まず見るところ：after のあとの but were unable to produce the same results
+was accused of ～ing は「～したとして非難された（責められた）」という形です。空所には、非難されるような悪い行いが入ると考えられます。
+何が起きたのかは、after のあとに書かれています。
+experts attempted to copy his experiments but were unable to produce the same results（専門家たちが彼の実験を同じようにやってみようとしたが、同じ結果を出すことができなかった）
+ほかの人が同じ実験をしても同じ結果にならないなら、その科学者が出したデータは本物ではないのではないか、と疑われます。
+fabricate は「（うその話や記録を）でっち上げる、ねつ造する（実際にはないことを、あったかのように作る）」です。「データをねつ造したとして非難された」となり、話がつながります。ですから2が正解です。
+この問題の型：因果（同じ結果が出なかった → ねつ造を疑われた）／熟語・決まった形（be accused of ～ing）
+【ほかの選択肢】
+1 triggering は「～を引き起こすこと」です。「データを引き起こしたとして非難された」となり、意味が通りません。
+3 conserving は「～を保存すること、節約すること」です。データを保存することは悪い行いではないので、非難される理由になりません。
+4 renouncing は「～を（正式に）捨てること、放棄すること」です。実験が再現できなかったこととは結びつかず、非難される理由として合いません。
+【覚えるポイント】
+・fabricate：「（データや話を）でっち上げる、ねつ造する」。
+・be accused of ～ing（～したとして非難される）の空所には、悪い行いを表す語が入ります。その前後に「なぜ疑われたのか」が書かれていれば、それが答えを決める手がかりになります。

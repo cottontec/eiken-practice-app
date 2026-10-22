@@ -1,0 +1,33 @@
+---
+choices: The company prevented the British government from achieving its aim of expanding its rule to other countries in Asia. | While the company may have been successful during its time, its business model would not be effective in today's economy. | Although the company no longer exists, it has had a large impact on the present-day global economic landscape. | If the company had never been established, another one would likely have ended up having similar political and economic influence.
+answerText: Although the company no longer exists, it has had a large impact on the present-day global economic landscape.
+---
+【正解】3 Although the company no longer exists, it has had a large impact on the present-day global economic landscape.（その会社はもう存在しないが、現代の世界の経済のありさまに大きな影響を与えてきた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What does the author of the passage say about the East India Company?（本文の筆者は、東インド会社について何と言っているか。）
+1 The company prevented the British government from achieving its aim of expanding its rule to other countries in Asia.（その会社は、イギリス政府がアジアのほかの国々へ支配を広げるという目的を達成するのをさまたげた。）
+2 While the company may have been successful during its time, its business model would not be effective in today's economy.（その会社は当時は成功していたかもしれないが、そのビジネスのやり方は、今日の経済では効果がないだろう。）
+3 Although the company no longer exists, it has had a large impact on the present-day global economic landscape.（その会社はもう存在しないが、現代の世界の経済のありさまに大きな影響を与えてきた。）
+4 If the company had never been established, another one would likely have ended up having similar political and economic influence.（もしその会社が設立されていなかったら、別の会社がおそらく、結局は同じような政治的・経済的な影響力を持つことになっていただろう。）
+【考え方】
+まず見るところ：第4段落の Although the East India Company stopped operating more than a century ago, it has had a lasting influence.
+第4段落で、筆者は東インド会社のその後の影響について述べています。
+Although the East India Company stopped operating more than a century ago, it has had a lasting influence.（東インド会社は1世紀以上前に活動をやめたが、長く続く影響を与えてきた）
+その影響の中身が、次の文に書かれています。
+Some experts say it pioneered the concept of multinational corporations and ultimately led to the economic system of capitalism that is widespread today.（一部の専門家は、この会社が多国籍企業という考え方を先がけて生み出し、最終的には、今日広く行きわたっている資本主義という経済のしくみにつながったと言う）
+本文と選択肢3を対にすると、次のようになります。
+・本文 stopped operating more than a century ago（1世紀以上前に活動をやめた）→ 選択肢 the company no longer exists（その会社はもう存在しない）
+・本文 it has had a lasting influence（長く続く影響を与えてきた）→ 選択肢 it has had a large impact（大きな影響を与えてきた）
+・本文 multinational corporations / capitalism that is widespread today（多国籍企業、今日広く行きわたっている資本主義）→ 選択肢 the present-day global economic landscape（現代の世界の経済のありさま）
+よって3が正解です。
+この問題の型：言いかえ（stopped operating ～, it has had a lasting influence → no longer exists, it has had a large impact）
+【ほかの選択肢】
+1 本文に書かれていません。本文では、イギリス政府は会社の利益の一部を受け取っており、会社を政治的に支援していたとあります。会社がイギリス政府の目的をさまたげたという話はありません。
+2 本文に書かれていません。筆者は、会社が今日の資本主義につながる長い影響を与えたと述べており、そのビジネスのやり方が今日の経済では効果がないとは言っていません。
+4 本文に書かれていません。会社が設立されていなかったらどうなっていたか、という話は本文にはありません。
+【覚えるポイント】
+・stop operating：「活動をやめる」。lasting influence：「長く続く影響」。pioneer：「先がけて始める」。
+・筆者の考えをたずねる設問では、最後の段落の Although ～, it has had ～ のように、筆者がまとめを述べている文が手がかりになることが多いです。

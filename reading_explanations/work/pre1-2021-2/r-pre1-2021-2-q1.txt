@@ -1,6 +1,7 @@
 ---
 choices: grasps | outweighs | declares | captivates
 answerText: outweighs
+reviewed: yes
 ---
 【正解】2 outweighs（～より重要である、～にまさる）
 【和訳】

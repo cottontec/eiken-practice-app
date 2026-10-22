@@ -1,0 +1,32 @@
+---
+choices: Changing the design of a fence after it has been built can actually cause more problems than building a new one. | It is possible that fences will continue to have an effect on animals in an area even after the fences have been removed. | Putting up multiple fences in a given area without a clear plan beforehand has not stopped animals from entering dangerous areas. | The number of animal species that make use of fences to protect themselves from predators has increased.
+answerText: It is possible that fences will continue to have an effect on animals in an area even after the fences have been removed.
+---
+【正解】2 It is possible that fences will continue to have an effect on animals in an area even after the fences have been removed.（フェンスが取り除かれたあとでさえ、フェンスがその地域の動物に影響を与え続ける可能性がある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one reason that careful planning is necessary when constructing fences?（フェンスを建てるときに慎重な計画が必要である理由の一つは何か。）
+1 Changing the design of a fence after it has been built can actually cause more problems than building a new one.（建てたあとでフェンスの設計を変えることは、実は新しいフェンスを建てるよりも多くの問題を引き起こすことがある。）
+2 It is possible that fences will continue to have an effect on animals in an area even after the fences have been removed.（フェンスが取り除かれたあとでさえ、フェンスがその地域の動物に影響を与え続ける可能性がある。）
+3 Putting up multiple fences in a given area without a clear plan beforehand has not stopped animals from entering dangerous areas.（前もってはっきりした計画を立てずに、ある地域に複数のフェンスを建てても、動物が危険な場所に入るのを防げていない。）
+4 The number of animal species that make use of fences to protect themselves from predators has increased.（捕食者から自分の身を守るためにフェンスを利用する動物の種の数が増えている。）
+【考え方】
+まず見るところ：第3段落の fence planning should be carried out with an eye on the big picture と、For example, ～ some animals continue to behave as if the fences are still there
+第3段落で、研究の著者たちは計画の大切さを述べています。
+fence planning should be carried out with an eye on the big picture（フェンスの計画は、全体像を見すえて行われるべきだ）
+with an eye on ～ は「～に目を向けて」、the big picture は「全体像（物事全体の様子）」です。その理由の例が、次の文に書かれています。
+For example, fences are often constructed to obtain short-term results and then removed, but researchers have found that months—or even years—later, some animals continue to behave as if the fences are still there.（たとえば、フェンスは短期的な結果を得るために建てられ、その後取り除かれることが多いが、研究者たちは、数か月後――あるいは数年後でさえ――一部の動物が、まるでフェンスがまだそこにあるかのようにふるまい続けることを発見した）
+本文と選択肢を対にすると、次のようになります。
+本文 fences are ～ then removed（その後取り除かれる）＝ 選択肢 after the fences have been removed（フェンスが取り除かれたあと）
+本文 some animals continue to behave as if the fences are still there（一部の動物が、フェンスがまだあるかのようにふるまい続ける）→ 選択肢 fences will continue to have an effect on animals（フェンスが動物に影響を与え続ける）
+取り除いたあとも影響が残るので、建てる前から全体を考えて慎重に計画する必要があるのです。ですから2が正解です。
+この問題の型：具体例とまとめ（For example の内容 → 計画が必要な理由）、言いかえ
+【ほかの選択肢】
+1 本文に書かれていません。建てたあとで設計を変えることと新しく建てることを比べる話は出てきません。本文にはむしろ、The negative ecological effects of fences can be limited by making changes to them（フェンスに変更を加えることで悪い影響を抑えることができる）とあります。
+3 本文に書かれていません。計画なしに複数のフェンスを建てたことや、動物が危険な場所に入ることについての話は出てきません。
+4 本文に書かれていません。predators は「捕食者（ほかの動物をとって食べる動物）」ですが、捕食者から身を守るためにフェンスを利用する種が増えたという話は出てきません。
+【覚えるポイント】
+・as if ～：「まるで～であるかのように」。behave as if the fences are still there で「まるでフェンスがまだあるかのようにふるまう」です。
+・「理由の一つは何か」をたずねる設問では、主張の文（ここでは should be carried out ～）のすぐあとの For example（たとえば）に理由の具体例が書かれていることが多いので、そこを手がかりにします。

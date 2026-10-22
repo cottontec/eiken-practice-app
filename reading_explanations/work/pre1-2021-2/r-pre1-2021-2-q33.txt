@@ -1,6 +1,7 @@
 ---
 choices: Lack of expertise made it impossible for companies to offer the level of quality that their customers expected. | An inability to supply the market with large quantities of whiskey caused consumers to lose interest in the product. | Consumers made it clear they were no longer interested in cheaper brands that were only aged for a short time. | Difficulties in predicting what quantity could be sold in the future caused manufacturers to produce too much.
 answerText: Difficulties in predicting what quantity could be sold in the future caused manufacturers to produce too much.
+reviewed: yes
 ---
 【正解】4 Difficulties in predicting what quantity could be sold in the future caused manufacturers to produce too much.（将来どれだけの量が売れるかを予測するのが難しかったために、製造会社は作りすぎてしまった。）
 【和訳】
@@ -18,7 +19,7 @@ answerText: Difficulties in predicting what quantity could be sold in the future
 A further problem was that the Scottish whiskey industry had greatly increased production in the 1970s.（さらなる問題は、スコットランドのウイスキー業界が1970年代に生産を大きく増やしていたことだった）
 This was risky because whiskey requires aging, a process that can take several decades.（これは危険なことだった。なぜなら、ウイスキーには熟成が必要で、それは数十年かかることもある工程だからである）
 The aging process made adjusting production to meet demand a near impossibility.（熟成の工程があるために、需要に合わせて生産量を調整することは、ほとんど不可能だった）
-aging は「熟成（長い時間をかけて寝かせ、味をよくすること）」、demand は「需要（求められる量）」です。今作ったウイスキーが売られるのは何十年も先なので、そのときにどれだけ売れるかに合わせて作る量を決めるのは、とても難しいということです。
+aging は「熟成（長い時間をかけて寝かせ、味をよくすること）」、demand は「需要（求められる量）」です。ウイスキーは売れるようになるまでに数十年かかることもあるので、そのときにどれだけ売れるかに合わせて今作る量を決めるのは、とても難しいということです。
 By the 1980s, the falling demand for whiskey, which was made worse by an economic downturn, had created a massive surplus.（1980年代までには、ウイスキーの需要の落ちこみが景気の悪化によってさらにひどくなり、大量の余りを生み出していた）
 surplus は「余り、売れ残り」という意味です。生産を増やしていたのに需要が落ちたので、作りすぎて余ってしまいました。
 本文と選択肢を対にすると、次のようになります。
@@ -27,7 +28,7 @@ surplus は「余り、売れ残り」という意味です。生産を増やし
 よって4が正解です。
 この問題の型：言いかえ（massive surplus → produce too much）／因果（熟成に時間がかかる→生産量を調整できない→作りすぎ）
 【ほかの選択肢】
-1 本文にありません。品質の低い製品が出てきたのは、第2段落の Fierce competition（激しい競争）による値下げのためで、専門的な知識や技術が足りなかったからだとは書かれていません。
+1 本文にありません。品質の低い新しい製品が作られたことは、第2段落で Fierce competition（激しい競争）の結果として書かれていて、専門的な知識や技術が足りなかったからだとは書かれていません。
 2 本文と内容がちがいます。業界は大量のウイスキーを供給できなかったのではなく、反対に、作りすぎて a massive surplus（大量の余り）を生み出していました。
 3 本文にありません。消費者が、熟成期間の短い安い銘柄にはもう興味がないとはっきり示した、という話はありません。品質の低い製品については、業界全体の評判を傷つけたとだけ書かれています。
 【覚えるポイント】

@@ -1,6 +1,7 @@
 ---
 choices: steep | lawless | rational | downcast
 answerText: rational
+reviewed: yes
 ---
 【正解】3 rational（理にかなった、合理的な）
 【和訳】

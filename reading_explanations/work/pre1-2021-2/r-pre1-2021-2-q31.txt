@@ -1,6 +1,7 @@
 ---
 choices: is difficult to measure | has helped wild fish populations | was not caused by aquaculture | can easily be fixed
 answerText: can easily be fixed
+reviewed: yes
 ---
 【正解】4 can easily be fixed（簡単に解決できる）
 【和訳】
@@ -19,7 +20,7 @@ For years, many aquaculture companies have focused on farming species such as sa
 次に、空所のある文と、そのあとの文を見ます。
 Experts say this problem ( 31 ), however.（しかし、専門家たちは、この問題は（31）と言う）
 By focusing on farming types of fish that eat algae or other common plantlike organisms, fish farms can become more ecologically friendly instead of making the situation worse.（藻類やそのほかのありふれた植物のような生物を食べる種類の魚の養殖に力を入れることで、養殖場は、状況を悪化させるのではなく、より環境にやさしいものになることができる）
-however があるので、問題の話から、明るい話へと流れが変わります。あとの文では、育てる魚の種類を変えるだけで問題が解決できる方法が示されています。
+however があるので、問題の話から、明るい話へと流れが変わります。あとの文では、育てる魚の種類を変えることで問題が解決できる方法が示されています。
 本文 By focusing on farming types of fish that eat algae ～, fish farms can become more ecologically friendly（藻類などを食べる魚の養殖に力を入れることで、より環境にやさしくなれる）→ 選択肢 can easily be fixed（簡単に解決できる）
 と考えられるので、4が正解です。
 この問題の型：対比（however：問題がある⇔解決できる）／具体例とまとめ（あとの文の解決方法→can easily be fixed）

@@ -1,0 +1,29 @@
+---
+choices: In contrast | As a result | Despite this | For instance
+answerText: As a result
+---
+【正解】2 As a result（その結果）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 In contrast（対照的に、それとは反対に）
+2 As a result（その結果）
+3 Despite this（それにもかかわらず）
+4 For instance（たとえば）
+【考え方】
+まず見るところ：第1段落の空所の前の news of the incident spread to other towns and cities across the country
+空所の前の文は、次のとおりです。
+The strike ended peacefully on the same day, but news of the incident spread to other towns and cities across the country.（ストライキはその日のうちに平和的に終わったが、その出来事の知らせは、国じゅうのほかの町や都市に広まった）
+incident は「出来事」です。ウェールズの学校で起きたストライキのニュースが、国じゅうに伝わったということです。
+空所のあとは、次のとおりです。
+(19), a series of school strikes occurred across the United Kingdom.（（19）、イギリスの各地で、学校のストライキが次々と起こった）
+a series of ～ は「一連の～、次々と起こる～」です。ニュースが国じゅうに広まり、そのあとで各地でも同じようなストライキが起きたのですから、前の文が原因で、空所のあとが結果という関係です。As a result は「その結果」と、前の内容から生じた結果を述べるときに使うので、2が正解です。
+この問題の型：因果（ニュースが広まった → 各地でストライキが起きた）
+【ほかの選択肢】
+1 In contrast は「対照的に」です。前と反対の内容を比べるときに使います。ニュースが広まったことと、各地でストライキが起きたことは反対の内容ではないので、つながりません。
+3 Despite this は「それにもかかわらず」です。入れると「ニュースが広まったにもかかわらず、各地でストライキが起きた」となりますが、ニュースが広まればほかの学校でも同じことが起こるのは自然な流れで、「にもかかわらず」でつなぐ関係ではありません。
+4 For instance は「たとえば」です。あとに具体例が続くときに使います。各地のストライキは、「ニュースが広まった」ことの具体例ではなく、そのあとに起きた出来事なので、合いません。
+【覚えるポイント】
+・a series of ～：「一連の～、次々と起こる～」。
+・空所の前に「知らせが広まった」のような出来事があり、あとにその影響で起きたこと（ここでは各地のストライキ）が続くときは、As a result のような結果を表すつなぎの語が入る手がかりになります。

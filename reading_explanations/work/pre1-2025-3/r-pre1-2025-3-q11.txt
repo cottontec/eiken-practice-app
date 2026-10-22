@@ -1,0 +1,32 @@
+---
+choices: detach | tame | unfold | bundle
+answerText: detach
+---
+【正解】1 detach（～を取り外す）
+【和訳】
+（英文）
+After carefully removing the screws, the technician was able to ［detach］ the power supply from the computer and replace it with a newer model.
+（訳）
+ねじを慎重に外したあと、その技術者はコンピューターから電源装置を（取り外し）、より新しい型のものと交換することができた。
+（選択肢の意味）
+1 detach：～を取り外す
+2 tame：（動物）を飼いならす
+3 unfold：（たたんだもの）を広げる
+4 bundle：～を束ねる、～をひとまとめにする
+【考え方】
+まず見るところ：空所のあとの the power supply from the computer と、and replace it
+空所のある部分は、次のとおりです。
+the technician was able to (　) the power supply from the computer（その技術者は、コンピューターから電源装置を（　）ことができた）
+technician は「技術者」、power supply は「電源装置」です。from the computer（コンピューターから）とあるので、電源装置をコンピューターから「どうしたか」を考えます。
+文の前後も手がかりになります。
+After carefully removing the screws（ねじを慎重に外したあと）
+and replace it with a newer model（そして、それをより新しい型のものと交換する）
+ねじを外し、そのあと新しいものと取りかえたのですから、その間には古い電源装置を取り外したはずです。detach A from B は「AをBから取り外す」という意味なので、1が正解です。
+この問題の型：熟語・決まった形（detach A from B）
+【ほかの選択肢】
+2 tame は「（動物）を飼いならす」です。「電源装置をコンピューターから飼いならす」となり、意味が通りません。
+3 unfold は「（たたんだもの）を広げる」です。電源装置を広げても、新しい型と交換する流れにつながらず、from the computer とも合いません。
+4 bundle は「～を束ねる、ひとまとめにする」です。「電源装置をコンピューターから束ねる」となり、意味が通りません。
+【覚えるポイント】
+・detach A from B：「AをBから取り外す」。
+・removing the screws（ねじを外す）→（　）→ replace it（取りかえる）のように、作業の順番が書かれているときは、前後の作業の間に入る行動を考えることが空所の手がかりになります。

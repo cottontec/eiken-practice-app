@@ -1,6 +1,7 @@
 ---
 choices: outsmart | inflame | update | shepherd
 answerText: outsmart
+reviewed: yes
 ---
 【正解】1 outsmart（知恵で上回る、出し抜く）
 【和訳】

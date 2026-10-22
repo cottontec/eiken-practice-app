@@ -1,0 +1,36 @@
+---
+choices: Farmers learned that it was relatively easy to combine several types of chickens, which encouraged them to breed new varieties. | Although the number of small chicken farms increased across America, many of these were often poorly run and had cheap facilities. | It started a move toward keeping chickens in conditions that increased the birds’ suffering and made them less healthy. | Farmers realized that improving their farming methods could help them to raise chickens that produced more and better-tasting meat.
+answerText: It started a move toward keeping chickens in conditions that increased the birds’ suffering and made them less healthy.
+---
+【正解】3 It started a move toward keeping chickens in conditions that increased the birds’ suffering and made them less healthy.（ニワトリの苦しみを増やし、健康を損なう（より不健康にする）ような環境でニワトリを飼う方向への動きを始めた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one way that the contest affected the chicken industry?（このコンテストがニワトリ産業に与えた影響の一つは何か。）
+1 Farmers learned that it was relatively easy to combine several types of chickens, which encouraged them to breed new varieties.（農家は、いくつかの種類のニワトリをかけ合わせるのは比較的簡単だと知り、そのことで新しい品種を生み出すようになった。）
+2 Although the number of small chicken farms increased across America, many of these were often poorly run and had cheap facilities.（アメリカじゅうで小さな養鶏場の数は増えたが、その多くは経営がずさんなことが多く、安っぽい施設しかなかった。）
+3 It started a move toward keeping chickens in conditions that increased the birds’ suffering and made them less healthy.（ニワトリの苦しみを増やし、健康を損なう（より不健康にする）ような環境でニワトリを飼う方向への動きを始めた。）
+4 Farmers realized that improving their farming methods could help them to raise chickens that produced more and better-tasting meat.（農家は、飼育方法を改善すれば、より多くの、よりおいしい肉がとれるニワトリを育てられると気づいた。）
+【考え方】
+まず見るところ：第3段落の this trend also had a dark side と、caused the chickens stress and led to higher levels of sickness
+第3段落には、コンテストのよくない影響が書かれています。
+The contest helped popularize the consumption of chicken meat, but this trend also had a dark side.（このコンテストは、鶏肉を食べることを広めるのに役立ったが、この流れには暗い面もあった）
+It became more economical to raise massive numbers of chickens in large facilities where they were confined in small cages.（大量のニワトリを、小さなかごに閉じこめた大きな施設で育てるほうが、より経済的になったのだ）
+confine は「閉じこめる」です。コンテストのあと、小さなかごに閉じこめて大量に育てるやり方が広まったと分かります。
+さらに、その環境について次のように書かれています。
+it also created conditions for the birds that, according to animal rights activists, caused the chickens stress and led to higher levels of sickness（動物の権利を守る活動家によれば、ニワトリにストレスを与え、病気がより多く発生することにつながる環境を、鳥たちに生み出した）
+本文と選択肢を対にすると、次のようになります。
+本文 raise massive numbers of chickens in large facilities where they were confined in small cages（小さなかごに閉じこめて大量に育てる）→ 選択肢 a move toward keeping chickens in conditions（そうした環境でニワトリを飼う方向への動き）
+本文 caused the chickens stress（ニワトリにストレスを与えた）＝ 選択肢 increased the birds’ suffering（鳥の苦しみを増やした）
+本文 led to higher levels of sickness（病気がより多く発生することにつながった）＝ 選択肢 made them less healthy（より不健康にした）
+したがって、3が正解です。なお、本文ではストレスや病気の話は according to animal rights activists（動物の権利を守る活動家によれば）として書かれています。
+この問題の型：言いかえ（stress → suffering、higher levels of sickness → less healthy）
+【ほかの選択肢】
+1 本文と反対です。第2段落には Since producing such genetic combinations was difficult（そのような遺伝的な組み合わせを作り出すのは難しかったので）とあり、ほとんどの農家は自分たちで繁殖させずに、会社から若いニワトリを買うしかなくなりました。
+2 本文と反対です。第3段落には Not only did this force numerous small farms out of business（このことは多くの小さな農場を廃業に追いこんだだけでなく）とあり、小さな養鶏場が増えたのではなく、多くが廃業しました。
+4 本文に書かれていません。肉の味についての話はなく、より多くの肉がとれるニワトリは、農家が飼育方法を改善して生まれたのではなく、品種改良の会社が品種を混ぜ合わせて作ったものです。
+【覚えるポイント】
+・confine：「閉じこめる」。
+・had a dark side：「暗い面（よくない面）もあった」。
+・設問が「影響の一つ」をたずねているときは、本文の but this trend also had a dark side（しかしこの流れには暗い面もあった）のように、よい面と悪い面を分けて書いている部分を探すと、選択肢との対応が見つけやすくなります。

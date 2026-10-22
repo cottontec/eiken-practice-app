@@ -1,6 +1,7 @@
 ---
 choices: Similarly | Regardless | In contrast | For one thing
 answerText: Similarly
+reviewed: yes
 ---
 【正解】1 Similarly（同じように）
 【和訳】

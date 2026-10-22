@@ -1,6 +1,7 @@
 ---
 choices: clarity | appetite | shelter | preference
 answerText: clarity
+reviewed: yes
 ---
 【正解】1 clarity（分かりやすさ、明快さ）
 【和訳】

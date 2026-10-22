@@ -1,0 +1,34 @@
+---
+choices: The changes that they caused in the migration patterns of animals resulted in the spread of disease among cattle. | They could be responsible for indirectly affecting an industry that is important to the country's economy. | They are considered necessary in order to increase the safety of tourists who visit the country to see wildlife. | The success they have had in reducing disease-spreading species has benefited ecosystems in unexpected ways.
+answerText: They could be responsible for indirectly affecting an industry that is important to the country's economy.
+---
+【正解】2 They could be responsible for indirectly affecting an industry that is important to the country's economy.（そのフェンスは、国の経済にとって大切な産業に間接的に影響を与える原因になるかもしれない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is true with regard to the fences that were built in Botswana?（ボツワナに建てられたフェンスについて、正しいのはどれか。）
+1 The changes that they caused in the migration patterns of animals resulted in the spread of disease among cattle.（そのフェンスが動物の移動のしかたに引き起こした変化によって、牛の間に病気が広がった。）
+2 They could be responsible for indirectly affecting an industry that is important to the country's economy.（そのフェンスは、国の経済にとって大切な産業に間接的に影響を与える原因になるかもしれない。）
+3 They are considered necessary in order to increase the safety of tourists who visit the country to see wildlife.（そのフェンスは、野生動物を見るためにその国を訪れる観光客の安全を高めるために必要だと考えられている。）
+4 The success they have had in reducing disease-spreading species has benefited ecosystems in unexpected ways.（病気を広げる種を減らすことにそのフェンスが成功したことが、思いがけない形で生態系のためになっている。）
+【考え方】
+まず見るところ：第2段落の The resulting decline in wildebeest populations threatens ～ the region's wildlife tourism と、wildlife tourism, which is valuable to Botswana's economy
+第2段落では、ボツワナのフェンスが動物にどんな影響を与えたかが、順に書かれています。
+they have prevented the seasonal movements of animals such as wildebeests and blocked their access to water（フェンスは、ヌーなどの動物の季節ごとの移動を妨げ、動物たちが水のある場所へ行けないようにしてきた）
+wildebeest は「ヌー（アフリカにすむ、ウシの仲間の大きな動物）」です。その結果、次のことが起きています。
+The resulting decline in wildebeest populations threatens not only the ecosystem but also the region's wildlife tourism.（その結果起きたヌーの数の減少は、生態系だけでなく、その地域の野生動物観光もおびやかしている）
+wildlife tourism は「野生動物観光（野生の動物を見に来る旅行者を相手にした産業）」です。段落の最後には、それが国の経済にとって大切だと書かれています。
+The government's continued reliance on fences has led to concerns that limiting animal migration will hurt wildlife tourism, which is valuable to Botswana's economy.（政府がフェンスに頼り続けていることで、動物の移動を制限することが、ボツワナの経済にとって価値のある野生動物観光に打撃を与えるのではないかという心配が生まれている）
+本文と選択肢を対にすると、次のようになります。
+本文 wildlife tourism, which is valuable to Botswana's economy（ボツワナの経済にとって価値のある野生動物観光）＝ 選択肢 an industry that is important to the country's economy（国の経済にとって大切な産業）
+本文 フェンス → 動物の移動を妨げる → ヌーが減る → 観光をおびやかす（concerns：心配）→ 選択肢 could be responsible for indirectly affecting（間接的に影響を与える原因になるかもしれない）
+フェンスが観光に直接ではなく、ヌーの減少を通して影響していることが indirectly（間接的に）に、「心配」であってまだ確かではないことが could（かもしれない）に表れています。ですから2が正解です。
+この問題の型：因果（フェンス → ヌーの減少 → 観光への打撃）、言いかえ
+【ほかの選択肢】
+1 本文に書かれていません。本文には While the fences have helped protect cattle（フェンスは牛を守るのに役立ってきた）とあり、フェンスは牛を守る役に立ったものとして書かれています。動物の移動のしかたが変わったことで牛の間に病気が広がったという話は出てきません。
+3 本文に書かれていません。フェンスが建てられたのは、牛がかかる病気の広がりを防ぐための国際的な規則に対応するためで、観光客の安全のためではありません。
+4 本文に書かれていません。病気を広げる種を減らしたという話は出てこず、生態系についてはむしろ、ヌーの減少が生態系をおびやかしていると書かれています。
+【覚えるポイント】
+・threaten：「おびやかす（危険な状態にする）」。not only A but also B は「AだけでなくBも」です。
+・選択肢に indirectly（間接的に）や could（かもしれない）があるときは、本文で「A → B → C」と順に影響が伝わっているか、また「心配」のようにまだ確かでないことかを確かめるのが手がかりになります。

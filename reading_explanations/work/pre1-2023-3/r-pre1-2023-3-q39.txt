@@ -1,0 +1,31 @@
+---
+choices: Belief in meritocracy can cause managers to evaluate male employees more harshly than they deserve. | Meritocracies seem to cause significant declines in the job performance of both male and female employees. | Trying to use financial rewards to encourage belief in meritocracy can have the completely opposite effect. | People are less likely to be aware of their own prejudices when they believe the company is a meritocracy.
+answerText: People are less likely to be aware of their own prejudices when they believe the company is a meritocracy.
+---
+【正解】4 People are less likely to be aware of their own prejudices when they believe the company is a meritocracy.（人は、会社が能力主義だと信じていると、自分自身の偏見に気づきにくくなる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one possible reason for people's behavior in the experiment introduced in the second paragraph?（第2段落で紹介された実験での人々の行動について、考えられる理由の1つは何か。）
+1 Belief in meritocracy can cause managers to evaluate male employees more harshly than they deserve.（能力主義を信じることで、管理職が男性の従業員を、その人にふさわしいよりも厳しく評価してしまうことがある。）
+2 Meritocracies seem to cause significant declines in the job performance of both male and female employees.（能力主義は、男性と女性の両方の従業員の仕事の成績を大きく下げてしまうようだ。）
+3 Trying to use financial rewards to encourage belief in meritocracy can have the completely opposite effect.（お金によるごほうびを使って能力主義への信念を強めようとすると、まったく反対の効果が出ることがある。）
+4 People are less likely to be aware of their own prejudices when they believe the company is a meritocracy.（人は、会社が能力主義だと信じていると、自分自身の偏見に気づきにくくなる。）
+【考え方】
+まず見るところ：第2段落の It has been suggested that this reflects the belief that ～
+第2段落の実験では、会社が能力主義だと強調する文章を見せられた管理職の人たちが、業績評価がまったく同じでも、女性より男性に多くのボーナスを与えました。能力主義にふれない文章のときは、そうはなりませんでした。その理由として考えられていることが、次の文です。
+It has been suggested that this reflects the belief that operating in an organization that emphasizes it is a meritocracy makes people neglect to examine their own behavior, and without this self-assessment, they are more likely to show bias.（これは、自分たちは能力主義だと強調する組織の中で働いていると、人は自分自身の行動を見直すことをおろそかにしてしまい、こうした自己評価がないと、より偏見を示しやすくなる、という考え方を反映していると言われている）
+neglect to ～ は「～することをおろそかにする」、bias は「偏見（かたよった見方）」です。本文と選択肢4を対にすると、次のようになります。
+・本文 operating in an organization that emphasizes it is a meritocracy（能力主義だと強調する組織の中で働いていると）→ 選択肢 when they believe the company is a meritocracy（会社が能力主義だと信じていると）
+・本文 neglect to examine their own behavior ／ without this self-assessment（自分の行動を見直すことをおろそかにする／自己評価がない）→ 選択肢 less likely to be aware of their own prejudices（自分の偏見に気づきにくい）
+・本文 bias（偏見）＝ 選択肢 prejudices（偏見）
+自分の行動を見直さなければ、自分の偏見に気づくことも少なくなります。よって4が正解です。
+この問題の型：言いかえ（neglect to examine their own behavior → less likely to be aware of their own prejudices）
+【ほかの選択肢】
+1 本文と合いません。実験では、管理職は awarded larger amounts to males（男性により多くの額を与えた）とあり、男性を厳しく評価したのではありません。
+2 本文に書かれていません。実験では、業績評価がまったく同じ従業員について、管理職がボーナスを決めただけです。従業員の仕事の成績が下がったという話はありません。
+3 本文に書かれていません。実験でボーナスを決めたのは管理職で、お金のごほうびを使って能力主義への信念を強めようとしたという話はありません。
+【覚えるポイント】
+・neglect to ～：「～することをおろそかにする」。self-assessment：「自己評価（自分で自分を見直すこと）」。bias ＝ prejudice：「偏見」。
+・設問に possible reason（考えられる理由）とあるときは、It has been suggested that ～（～と言われている）のように、理由の説明を紹介する文が根拠になることが多いので、そこを探すのが手がかりになります。

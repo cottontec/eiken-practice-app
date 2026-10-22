@@ -1,0 +1,29 @@
+---
+choices: distortion | generosity | turbulence | conjecture
+answerText: turbulence
+---
+【正解】3 turbulence（乱気流）
+【和訳】
+（英文）
+Because some ［turbulence］ was expected, the captain turned on the seat belt sign and asked all the passengers to return to their seats.
+（訳）
+いくらかの（乱気流）が予想されたので、機長はシートベルト着用のサインをつけ、乗客全員に自分の席に戻るよう頼んだ。
+（選択肢の意味）
+1 distortion：ゆがみ、ねじ曲げること
+2 generosity：気前のよさ、寛大さ
+3 turbulence：乱気流
+4 conjecture：推測、憶測
+【考え方】
+まず見るところ：後半の the captain turned on the seat belt sign and asked all the passengers to return to their seats
+Because ～（～なので）の部分が理由で、後半がその結果です。まず結果の部分を見ます。
+the captain turned on the seat belt sign and asked all the passengers to return to their seats（機長はシートベルト着用のサインをつけ、乗客全員に自分の席に戻るよう頼んだ）
+captain は、ここでは「機長（飛行機を操縦する人たちの責任者）」です。シートベルトのサインや乗客という語から、飛行機の中の話だと分かります。
+飛行機で乗客を席に戻らせ、シートベルトをしめてもらうのは、機体がゆれるおそれがあるときです。turbulence（乱気流：飛行機をゆらす、空気の不規則な流れ）が予想されたから、と考えると理由と結果がつながります。ですから3が正解です。
+この問題の型：因果（Because ～ で理由を示す）／語の意味・組み合わせ
+【ほかの選択肢】
+1 distortion は「ゆがみ、ねじ曲げること」です。「ゆがみが予想された」では、何がゆがむのかが分からず、乗客を席に戻らせる理由として合いません。
+2 generosity は「気前のよさ」です。気前のよさが予想されても、シートベルトのサインをつける理由にはなりません。
+4 conjecture は「推測、憶測」です。「推測が予想された」となり、意味が通りません。
+【覚えるポイント】
+・turbulence：「乱気流」。飛行機の話でゆれの原因として出てくる語です。
+・Because ～ の空所では、文の後半の「結果」（ここでは席に戻らせたこと）を先に読み、それを引き起こす理由になるものを選ぶのが手がかりになります。

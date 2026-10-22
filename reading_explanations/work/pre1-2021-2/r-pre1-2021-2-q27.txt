@@ -1,6 +1,7 @@
 ---
 choices: make no mention of the gardens | disagree about the size of the gardens | suggest the gardens did not last long | describe the gardens very differently
 answerText: make no mention of the gardens
+reviewed: yes
 ---
 【正解】1 make no mention of the gardens（その庭園について何も触れていない）
 【和訳】

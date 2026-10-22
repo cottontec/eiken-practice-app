@@ -1,0 +1,30 @@
+---
+choices: In short | On the other hand | For instance | In the same way
+answerText: On the other hand
+---
+【正解】2 On the other hand（その一方で）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 In short（要するに）
+2 On the other hand（その一方で）
+3 For instance（たとえば）
+4 In the same way（同じように）
+【考え方】
+まず見るところ：第3段落の空所の前の what makes individuals with the syndrome unique from others と、空所の後ろの there are actually fewer differences than previously thought
+空所の前の文は次のとおりです。
+With further research, scientists hope to discover what makes individuals with the syndrome unique from others.（さらに研究を進めることで、科学者たちは、この症候群を持つ人をほかの人と違うものにしているのは何なのかを明らかにしたいと考えている）
+unique from others は「ほかの人と違う」です。空所の前は、症候群の人とほかの人の「違い」を探すという話です。
+( 24 ), such investigations may reveal that there are actually fewer differences than previously thought.（（24）、そうした調査によって、実は以前に考えられていたよりも違いが少ないことが明らかになるかもしれない）
+空所の後ろは、「違いは思っていたより少ないかもしれない」という、前とは反対の方向の見方です。最後の文も、この見方を支えています。
+Some experts have suggested that these incredible abilities could be hiding in everyone.（この信じられないような能力は、すべての人の中に隠れている可能性があると述べている専門家もいる）
+前と反対の見方を示すときに使う On the other hand（その一方で）が合うので、2が正解です。
+この問題の型：対比（違いを探す⇔違いは少ないかもしれない）
+【ほかの選択肢】
+1 In short は「要するに」で、前の内容をまとめるときに使います。空所の後ろは前の内容のまとめではなく、反対の方向の見方なので合いません。
+3 For instance は「たとえば」で、前の内容の具体例を示すときに使います。「違いは少ないかもしれない」は、違いを探すという前の内容の例になっていないので合いません。
+4 In the same way は「同じように」です。空所の前後は「違いを探す」と「違いは少ないかもしれない」で、同じ方向の内容ではないので合いません。
+【覚えるポイント】
+・On the other hand：「その一方で」。
+・空所の前後で「違い（unique from others）」と「違いが少ない（fewer differences）」のように反対の内容が並ぶときは、対比を表すつなぎの言葉が手がかりになります。

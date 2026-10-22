@@ -1,0 +1,29 @@
+---
+choices: made little sense | remains a mystery | differed between schools | was more complex
+answerText: was more complex
+---
+【正解】4 was more complex（もっと複雑だった）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 made little sense（ほとんど筋が通らなかった）
+2 remains a mystery（今もなぞのままだ）
+3 differed between schools（学校によって違った）
+4 was more complex（もっと複雑だった）
+【考え方】
+まず見るところ：第2段落の空所の前の However, some historians suggest the reason ～ と、空所のあとの The strike followed many months of public unrest
+第2段落の最初の文は、次のとおりです。
+Reports of the initial strike state that it began because of the unfair punishment of a student at the school.（最初のストライキについての報告によると、そのストライキは、その学校のある生徒が不公平な罰を受けたことが原因で始まった）
+initial は「最初の」、punishment は「罰」です。報告では、理由は「一人の生徒への不公平な罰」という一つの出来事でした。
+次の文は However（しかし）で始まり、歴史家の考えが続きます。空所のあとには、次のようにあります。
+The strike followed many months of public unrest in the United Kingdom, during which workers called for improved labor conditions and many industrial strikes occurred.（そのストライキは、イギリスで何か月にもわたって世の中の不安が続いたあとに起こった。その間、労働者たちはよりよい労働条件を求め、多くの産業ストライキが起こっていた）
+さらに、子どもたちは家族が抗議に参加するのを見て、自分たちも権利のために立ち上がろうという気持ちになった、と歴史家は考えています。つまり歴史家は、生徒への罰だけでなく、世の中の不安や家族の姿など、ほかの理由も関わっていたと見ているのです。理由が報告で言われていたものより多くのことを含んでいたので、was more complex（もっと複雑だった）が入り、4が正解です。
+この問題の型：対比（報告の理由は生徒への罰 ⇔ 歴史家は社会の不安など、ほかの理由もあったと考える）
+【ほかの選択肢】
+1 made little sense は「ほとんど筋が通らなかった」です。歴史家は、世の中の不安や家族の抗議という、筋の通った別の背景を説明しています。理由そのものが筋の通らないものだった、という話は書かれていません。
+2 remains a mystery は「今もなぞのままだ」です。空所のあとで、歴史家たちは考えられる理由をくわしく説明しているので、「なぞのまま」とはつながりません。
+3 differed between schools は「学校によって違った」です。第2段落は the initial strike（最初のストライキ）一つの理由についての話で、学校ごとに理由を比べる内容は書かれていません。
+【覚えるポイント】
+・public unrest：「世の中の不安、社会の混乱」。call for ～ は「～を求める」。
+・「報告では～が理由だ」のあとに However, some historians suggest ～ と続き、さらに別の背景がくわしく書かれているときは、理由が一つではなく「もっと複雑だ」という内容が入る手がかりになります。

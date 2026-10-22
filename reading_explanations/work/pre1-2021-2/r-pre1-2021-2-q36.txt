@@ -1,6 +1,7 @@
 ---
 choices: he died in a way that was very different from that which people in the past believed to be the case. | not only was he mostly free from physical disabilities, but he may also have been a capable fighter. | the injuries he suffered in his final battle were serious, but they were probably not the cause of his death. | his physical appearance likely had a greater influence on people’s impression of him than his ability as king.
 answerText: not only was he mostly free from physical disabilities, but he may also have been a capable fighter.
+reviewed: yes
 ---
 【正解】2 not only was he mostly free from physical disabilities, but he may also have been a capable fighter.（彼には体の障がいがほとんどなかっただけでなく、有能な戦士でもあったかもしれない。）
 【和訳】

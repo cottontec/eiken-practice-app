@@ -1,0 +1,30 @@
+---
+choices: struggled to find enough food | traveled throughout the year | traded with each other | formed larger communities
+answerText: traveled throughout the year
+---
+【正解】2 traveled throughout the year（1年を通じて移動していた）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 struggled to find enough food（十分な食べ物を見つけるのに苦労した）
+2 traveled throughout the year（1年を通じて移動していた）
+3 traded with each other（互いに交易をした（物と物を交換し合った））
+4 formed larger communities（より大きな共同体をつくった）
+【考え方】
+まず見るところ：第1段落の空所の後ろの In each season, their diet would consist of different foods. と This often meant moving their camps
+空所のある文は次のとおりです。
+Many of these groups ( 19 ).（こうした集団の多くは（19））
+この文だけでは答えが決まりません。後ろの文を読んで、どんな暮らしだったのかを確かめます。
+In each season, their diet would consist of different foods.（季節ごとに、彼らの食事は異なる食べ物から成り立っていた）
+consist of ～ は「～から成り立つ」です。このあと、夏は魚、秋は野生の米、冬は野生の動物、春は植物と、季節ごとに違う食べ物をとっていたという例が続きます。
+This often meant moving their camps to locations where such foods were easy to obtain.（これはしばしば、そうした食べ物が手に入りやすい場所へ野営地を移すことを意味した）
+camp は「野営地（テントなどを張って暮らす場所）」、obtain は「手に入れる」です。季節ごとに食べ物を求めて野営地を移していたのですから、1年を通じて移動していたことになります。ですから2が正解です。
+この問題の型：具体例とまとめ（季節ごとに野営地を移す→1年を通じて移動）
+【ほかの選択肢】
+1 「十分な食べ物を見つけるのに苦労した」は、本文に書かれていません。第1段落には季節ごとに魚や米、動物、植物をとっていたことが書かれていますが、食べ物が足りずに苦労したという話は出てきません。
+3 「互いに交易をした」も、本文に書かれていません。空所の後ろは季節ごとの食べ物と野営地の移動の話で、集団どうしで物を交換したことは述べられていません。
+4 「より大きな共同体をつくった」も、本文に書かれていません。空所の後ろは野営地を移すことについての話で、集団が大きくなったという内容はありません。
+【覚えるポイント】
+・consist of ～：「～から成り立つ」。
+・空所の文が短くて答えが決まらないときは、すぐ後ろの for example や This ～ の文が空所の内容を具体的に説明していることが多いので、そこを手がかりにします。

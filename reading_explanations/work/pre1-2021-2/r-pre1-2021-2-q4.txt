@@ -1,6 +1,7 @@
 ---
 choices: holistic | fanatical | mellow | illogical
 answerText: fanatical
+reviewed: yes
 ---
 【正解】2 fanatical（熱狂的な）
 【和訳】

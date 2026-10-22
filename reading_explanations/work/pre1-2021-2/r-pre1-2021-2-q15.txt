@@ -1,6 +1,7 @@
 ---
 choices: custody | faculty | retainer | seizure
 answerText: faculty
+reviewed: yes
 ---
 【正解】2 faculty（（大学などの）教員、教授陣）
 【和訳】

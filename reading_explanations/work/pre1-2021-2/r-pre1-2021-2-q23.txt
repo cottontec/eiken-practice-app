@@ -1,6 +1,7 @@
 ---
 choices: dies down | acts up | falls apart | peels away
 answerText: dies down
+reviewed: yes
 ---
 【正解】1 dies down（（風などが）弱まる、おさまる）
 【和訳】

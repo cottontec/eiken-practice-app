@@ -1,0 +1,32 @@
+---
+choices: To support the idea that people's surroundings can affect how well they are able to judge the emotions of others. | To describe how people who cannot identify faces also have trouble identifying certain other objects. | To help explain that our reactions to everyday objects in our environment are controlled by different areas of the brain. | To provide examples of everyday things on which people imagine they can see faces.
+answerText: To provide examples of everyday things on which people imagine they can see faces.
+---
+【正解】4 To provide examples of everyday things on which people imagine they can see faces.（人々が顔が見えると思いこむ、身近な物の例を示すため。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：In the first paragraph, why does the author of the passage mention objects such as clouds?（第1段落で、筆者はなぜ雲のような物について述べているのか。）
+1 To support the idea that people's surroundings can affect how well they are able to judge the emotions of others.（人々の周りの環境が、他人の感情をどれだけうまく判断できるかに影響しうるという考えを支えるため。）
+2 To describe how people who cannot identify faces also have trouble identifying certain other objects.（顔を見分けられない人々が、ほかの特定の物を見分けることにも苦労する様子を説明するため。）
+3 To help explain that our reactions to everyday objects in our environment are controlled by different areas of the brain.（身の回りの身近な物に対する私たちの反応が、脳の異なる領域によって制御されていることを説明する助けとするため。）
+4 To provide examples of everyday things on which people imagine they can see faces.（人々が顔が見えると思いこむ、身近な物の例を示すため。）
+【考え方】
+まず見るところ：第1段落の最後の People perceive these so-called false faces on a variety of objects, from clouds and tree trunks to ～
+One unintended consequence, however, is that people often think they see faces on objects in their environment.（しかし、意図されなかった結果の一つは、人々がしばしば、身の回りの物に顔が見えると思ってしまうことである）
+まず、人は身の回りの物に顔が見えると思ってしまうことがある、と書かれています。
+People perceive these so-called false faces on a variety of objects, from clouds and tree trunks to pieces of food and electric sockets.（人々は、雲や木の幹から、食べ物のかけらや電気のコンセントまで、さまざまな物にこうした、いわゆる「偽の顔」を見て取る）
+from A to B は「AからBまで」と、いくつかの例をはば広く並べる言い方です。雲は、偽の顔が見える物の例として挙げられています。
+本文と選択肢4を対にすると、次のようになります。
+・本文 a variety of objects, from clouds ... to ～ → 選択肢 examples of everyday things（身近な物の例）
+・本文 think they see faces / perceive these so-called false faces → 選択肢 imagine they can see faces（顔が見えると思いこむ）
+よって4が正解です。
+この問題の型：具体例とまとめ（偽の顔が見える物 → 雲・木の幹・食べ物・コンセント）
+【ほかの選択肢】
+1 本文に書かれていません。第1段落の雲などは、顔が見えてしまう物の例です。周りの環境が他人の感情を判断する力に影響するという話は書かれていません。
+2 本文に書かれていません。顔を見分けられない人々についての話は、本文には出てきません。
+3 本文に書かれていません。本文には、顔の特徴を処理することを専門にする脳の特定の領域（specific areas of the brain）があるとは書かれていますが、身近な物への反応が脳の異なる領域で制御されているとは書かれていません。
+【覚えるポイント】
+・false face：「偽の顔（物の模様などが顔に見えるもの）」。perceive：「（見たり感じたりして）気づく、見て取る」。from A to B：「AからBまで」。
+・「なぜ筆者は～について述べているのか」という設問では、その語が出てくる文を読み、それが何の例として並べられているのかを確かめると、答えにたどり着きやすくなります。

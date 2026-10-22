@@ -1,0 +1,31 @@
+---
+choices: slack | sparse | vast | vital
+answerText: slack
+---
+【正解】1 slack（たるんだ、ゆるんだ）
+【和訳】
+（英文）
+When Simon pulled on the rope, it suddenly became ［slack］. He realized that it must have come untied at the other end.
+（訳）
+サイモンがロープを引っぱると、ロープは急に（たるんだ）。彼は、反対側の端でロープがほどけたにちがいないと気づいた。
+（選択肢の意味）
+1 slack：たるんだ、ゆるんだ
+2 sparse：まばらな、少ない
+3 vast：広大な、ばく大な
+4 vital：欠かせない、きわめて重要な
+【考え方】
+まず見るところ：後ろの文の it must have come untied at the other end
+空所は became（～になった）のあとなので、ロープの状態を表す語が入ります。
+When Simon pulled on the rope, it suddenly became （　）.（サイモンがロープを引っぱると、それは急に（　）になった）
+it は the rope（ロープ）を指しています。理由は、後ろの文に書かれています。
+He realized that it must have come untied at the other end.（彼は、反対側の端でそれがほどけたにちがいないと気づいた）
+must have ～ed は「～したにちがいない」、come untied は「ほどける」です。ロープの反対側がほどけると、引っぱっても手ごたえがなくなり、ロープはぴんと張らずにゆるみます。
+この状態を表すのは slack（たるんだ、ゆるんだ）です。ですから1が正解です。
+この問題の型：因果（反対側がほどけた → ロープがたるんだ）／語の意味・組み合わせ
+【ほかの選択肢】
+2 sparse は「まばらな、少ない」です。木や人などがあちこちに少しずつあるようすを表す語なので、1本のロープの状態としては合いません。
+3 vast は「広大な、ばく大な」です。ロープが急に広大になることはなく、ほどけたことともつながりません。
+4 vital は「欠かせない、きわめて重要な」です。ロープが急に重要になった、では、反対側でほどけたという気づきと結びつきません。
+【覚えるポイント】
+・slack：「（ロープなどが）たるんだ、ゆるんだ」。
+・became（～になった）のあとの空所では、次の文に書かれた原因（ここでは come untied ＝ ほどけた）から、どんな状態になるかを考えるのが手がかりになります。

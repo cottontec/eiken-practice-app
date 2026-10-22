@@ -1,0 +1,33 @@
+---
+choices: nutritious | righteous | tentative | universal
+answerText: tentative
+---
+【正解】3 tentative（仮の、まだ確定していない）
+【和訳】
+（英文）
+A: Are you going anywhere for spring vacation, George?
+B: I have ［tentative］ plans to visit Spain, but I haven't booked anything yet.
+（訳）
+A：ジョージ、春休みはどこかへ出かけるの？
+B：スペインを訪れる（仮の）計画はあるけれど、まだ何も予約していないよ。
+（選択肢の意味）
+1 nutritious：栄養のある
+2 righteous：正しい、正義の
+3 tentative：仮の、まだ確定していない
+4 universal：全世界の、どこにでも当てはまる
+【考え方】
+まず見るところ：Bの言葉の後半 but I haven't booked anything yet
+Bの言葉の前半は、次のとおりです。
+I have (　) plans to visit Spain（スペインを訪れる（　）計画がある）
+空所には、plans（計画）がどんな計画なのかを説明する語が入ります。
+後半には、次のように書かれています。
+but I haven't booked anything yet（でも、まだ何も予約していない）
+book は「予約する」、not ～ yet は「まだ～していない」です。行くつもりはあるけれど、まだ何も予約しておらず、計画ははっきり決まっていないと分かります。tentative は「仮の、まだ確定していない」という意味なので、3が正解です。
+この問題の型：対比（計画はある⇔まだ何も予約していない）
+【ほかの選択肢】
+1 nutritious は「栄養のある」で、食べ物について使う語です。「栄養のある計画」となり、意味が通りません。
+2 righteous は「正しい、正義の」です。「正義の計画がある」となり、旅行の話として不自然で、「まだ予約していない」という後半ともつながりません。
+4 universal は「全世界の、どこにでも当てはまる」です。「スペインを訪れる全世界の計画」となり、意味が通りません。
+【覚えるポイント】
+・tentative：「仮の、まだ確定していない」。tentative plans で「仮の計画」。
+・but I haven't booked anything yet（でもまだ何も予約していない）のように、but のあとに「まだ決まっていない」ことが書かれているときは、前の計画が仮のものだと考える手がかりになります。

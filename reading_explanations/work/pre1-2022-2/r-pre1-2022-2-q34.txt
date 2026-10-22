@@ -1,0 +1,32 @@
+---
+choices: The ability will likely disappear over time as it no longer provides an advantage to humans in terms of survival. | The fact that the brain uses loose criteria to identify faces allows people to quickly judge the emotions faces express. | The brain is only able to accurately identify the emotions faces express if those faces have very specific features. | The evolution of this ability occurred even though it created disadvantages as well as benefits for humans in the past.
+answerText: The fact that the brain uses loose criteria to identify faces allows people to quickly judge the emotions faces express.
+---
+【正解】2 The fact that the brain uses loose criteria to identify faces allows people to quickly judge the emotions faces express.（脳が顔を見分けるのに大まかな基準を使っていることによって、人々は顔が表す感情をすばやく判断することができる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What do the researchers in Australia say about the brain's ability to assess the emotions expressed by faces?（オーストラリアの研究者たちは、顔が表す感情を評価する脳の能力について、何と言っているか。）
+1 The ability will likely disappear over time as it no longer provides an advantage to humans in terms of survival.（その能力は、生き残るという点でもはや人間に有利さをもたらさないので、時がたつにつれて消えていく可能性が高い。）
+2 The fact that the brain uses loose criteria to identify faces allows people to quickly judge the emotions faces express.（脳が顔を見分けるのに大まかな基準を使っていることによって、人々は顔が表す感情をすばやく判断することができる。）
+3 The brain is only able to accurately identify the emotions faces express if those faces have very specific features.（脳は、顔がとても細かく決まった特徴をもっている場合にだけ、その顔が表す感情を正確に見分けることができる。）
+4 The evolution of this ability occurred even though it created disadvantages as well as benefits for humans in the past.（この能力の進化は、それが昔の人間に利点だけでなく不利な点も生み出したにもかかわらず起こった。）
+【考え方】
+まず見るところ：第3段落の In other words, the brain's criteria for recognizing a face are general rather than specific. と、そのあとの The researchers say this is one reason ～
+In other words, the brain's criteria for recognizing a face are general rather than specific.（言いかえると、顔を見分けるための脳の基準は、細かく限られたものではなく、大まかなものなのである）
+criteria は「基準（何かを決めるときのよりどころ）」、A rather than B は「BではなくA」という意味です。その前の文で、顔の配置に「大まかにでも似ている（even loosely resemble）」物なら何でも、脳が感情を評価するきっかけになると書かれています。
+The researchers say this is one reason the brain can assess facial expressions so quickly.（研究者たちは、これが、脳がこれほどすばやく表情を評価できる理由の一つだと言っている）
+this（これ）は、前の文の「基準が大まかであること」を指します。
+本文と選択肢2を対にすると、次のようになります。
+・本文 the brain's criteria ... are general rather than specific → 選択肢 the brain uses loose criteria（脳が大まかな基準を使っている）
+・本文 this is one reason the brain can assess facial expressions so quickly → 選択肢 allows people to quickly judge the emotions faces express（顔が表す感情をすばやく判断できるようにする）
+よって2が正解です。
+この問題の型：指示語（this ＝ 基準が大まかであること）
+【ほかの選択肢】
+1 本文に書かれていません。この能力が将来消えていくとは、研究者たちも筆者も述べていません。
+3 本文の内容と合いません。研究者たちは、基準は細かく限られたもの（specific）ではなく大まかなもの（general）で、顔の配置に大まかにでも似ていれば脳が感情を評価し始めると述べています。「とても細かく決まった特徴があるときだけ」というのは、この説明と食い違います。
+4 設問はオーストラリアの研究者たちの言葉をたずねています。能力の進化については第1段落で筆者が述べていますが、研究者たちの言葉ではありません。また、物に顔が見えてしまうことは「意図されなかった結果（unintended consequence）」とされているだけで、人間にとって不利な点を生み出したとは書かれていません。
+【覚えるポイント】
+・criteria：「基準」。general rather than specific：「細かく限られたものではなく大まかな」。loosely：「大まかに、ゆるやかに」。
+・In other words（言いかえると）のあとには、前の内容をまとめ直した文がくることが多いので、選択肢の言いかえ（ここでは loose criteria）を探すときの手がかりになります。

@@ -1,0 +1,31 @@
+---
+choices: Likewise | On the other hand | As a result | For example
+answerText: On the other hand
+---
+【正解】2 On the other hand（一方で）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Likewise（同じように）
+2 On the other hand（一方で）
+3 As a result（その結果）
+4 For example（たとえば）
+【考え方】
+まず見るところ：第2段落の空所の前の One theory suggests と、空所のあとの some scientists believe
+最初に、空所の前の文を見ます。
+One theory suggests mosasaurs would have laid their eggs in open water, with the young hatching almost immediately.（ある説は、モササウルスは開けた水の中で卵を産み、子どもはほとんどすぐにかえっただろうと示している）
+hatch は「（卵が）かえる」です。1つ目の説は「水の中で卵を産んだ」というものです。
+次に、空所のあとを見ます。
+some scientists believe the mosasaurs would have laid their eggs on the beach and buried them（モササウルスは浜辺に卵を産んで埋めただろうと考える科学者もいる）
+2つ目の考えは「浜辺に産んで埋めた」というもので、1つ目の説とは卵を産む場所がちがいます。さらにあとの文には、Further research, it is hoped, will reveal which of these is correct.（さらなる研究によって、これらのうちどちらが正しいかが明らかになることが期待されている）とあり、2つの考えが対立していると分かります。
+ちがう考えを並べるときに使う On the other hand（一方で）が合うので、2が正解です。
+この問題の型：対比（水の中で産んだ⇔浜辺に産んで埋めた）
+【ほかの選択肢】
+1 Likewise は「同じように」で、前と同じような内容を加えるときに使います。「水の中で産んだ」と「浜辺に産んで埋めた」は同じ内容ではないので合いません。
+3 As a result は「その結果」で、前の内容から起こったことを述べるときに使います。浜辺に産んだという考えは、水の中で産んだという説の結果ではありません。
+4 For example は「たとえば」で、前の内容の例を挙げるときに使います。浜辺に産んだという考えは、水の中で産んだという説の例ではありません。
+【覚えるポイント】
+・On the other hand：「一方で」。2つのちがう考えや事実を並べるときに使います。
+・hatch：「（卵が）かえる」。
+・空所のあとに which of these is correct（これらのうちどちらが正しいか）のような言葉があるときは、2つの考えが対立していることが多いので、前後の内容が同じか反対かを確かめると手がかりになります。

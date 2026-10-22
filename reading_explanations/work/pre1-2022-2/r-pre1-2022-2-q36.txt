@@ -1,0 +1,32 @@
+---
+choices: although durian trees can be grown in almost any warm climate, they do best in areas where there are few other plants growing. | the tendency of durian trees to push out other plants is causing a sharp decline in the number of native plants. | durian trees should be grown in a location where they can be easily found by honeybees and other daytime pollinators. | if durian trees are left alone to be pollinated naturally, the trees are unlikely to produce a large amount of fruit.
+answerText: if durian trees are left alone to be pollinated naturally, the trees are unlikely to produce a large amount of fruit.
+---
+【正解】4 if durian trees are left alone to be pollinated naturally, the trees are unlikely to produce a large amount of fruit.（ドリアンの木を、自然に受粉するのにまかせておくと、たくさんの実をつける見こみは低い。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：One factor that durian farmers need to consider is that（ドリアン農家が考えに入れておく必要がある要素の一つは、）
+1 although durian trees can be grown in almost any warm climate, they do best in areas where there are few other plants growing.（ドリアンの木はほとんどどんな暖かい気候でも育てられるが、ほかの植物があまり生えていない地域で最もよく育つということだ。）
+2 the tendency of durian trees to push out other plants is causing a sharp decline in the number of native plants.（ドリアンの木がほかの植物を追い出しやすい性質のせいで、もともとそこに生えていた植物の数が急に減っているということだ。）
+3 durian trees should be grown in a location where they can be easily found by honeybees and other daytime pollinators.（ドリアンの木は、ミツバチなど昼間に受粉させる生き物に見つけてもらいやすい場所で育てるべきだということだ。）
+4 if durian trees are left alone to be pollinated naturally, the trees are unlikely to produce a large amount of fruit.（ドリアンの木を、自然に受粉するのにまかせておくと、たくさんの実をつける見こみは低いということだ。）
+【考え方】
+まず見るところ：第2段落の only about 25 percent of a durian tree's flowers ever get pollinated naturally と、Because of this, many farmers resort to ～ pollinating by hand.
+Ensuring sufficient pollination of the flowers for the trees to produce a good harvest of fruit is a further difficulty for farmers.（木がたくさんの実をつけるように、花を十分に受粉させることを確実にすることも、農家にとってのさらなる困難である）
+pollination は「受粉（花粉がめしべについて実ができるようになること）」です。たくさんの実をつけるには、花が十分に受粉する必要があると分かります。
+Animals that are active at night take over the role of pollination, but only about 25 percent of a durian tree's flowers ever get pollinated naturally.（夜に活動する動物が受粉の役割を引き受けるが、ドリアンの木の花のうち、自然に受粉するのは約25パーセントにすぎない）
+Because of this, many farmers resort to the labor-intensive practice of pollinating by hand.（このため、多くの農家は、手で受粉させるという、手間のかかるやり方に頼っている）
+本文と選択肢4を対にすると、次のようになります。
+・本文 only about 25 percent ... get pollinated naturally → 選択肢 if durian trees are left alone to be pollinated naturally（自然に受粉するのにまかせておくと）
+・本文 Ensuring sufficient pollination ... to produce a good harvest of fruit is a further difficulty → 選択肢 the trees are unlikely to produce a large amount of fruit（たくさんの実をつける見こみは低い）
+自然にまかせると花の4分の1ほどしか受粉せず、だから農家は手で受粉させている、という流れから、選択肢4の内容が読み取れます。よって4が正解です。
+この問題の型：推論（自然な受粉は約25パーセントだけ → 自然にまかせると実が少ない）
+【ほかの選択肢】
+1 本文の内容と合いません。本文には、ドリアンの木はほかの木々や低木にまじって育てられたときによく育つ（thrive when grown among other trees and shrubs）とあります。「ほかの植物が少ない地域で最もよく育つ」は、この内容と食い違います。また、温度にとても敏感（highly sensitive to temperature）とあり、「ほとんどどんな暖かい気候でも育つ」とも書かれていません。
+2 本文に書かれていません。ドリアンの木がほかの植物を追い出すという話や、もともと生えていた植物が減っているという話は出てきません。
+3 本文の内容と合いません。ドリアンの花は夜にしか花粉を出さないので、昼間にえさを食べるミツバチなどはドリアンの花を受粉させない（do not pollinate them）と書かれています。ミツバチに見つけてもらいやすい場所で育てても、受粉の助けにはなりません。
+【覚えるポイント】
+・pollinate：「受粉させる」。resort to ～：「（ほかに方法がなく）～に頼る」。labor-intensive：「手間（人手）のかかる」。
+・本文に数字（ここでは only about 25 percent）と Because of this（このため）が続けて出てくるときは、その数字が「問題点」を表していることが多いので、その問題点を言いかえた選択肢を探します。

@@ -1,0 +1,31 @@
+---
+choices: The type of chicken raised on each farm usually depended on the climate in the area where the farm was located. | Each farm would raise more than one type of chicken in case there was a sudden change in environmental conditions. | Chickens were generally only eaten by very poor people or at times when there were food shortages. | Because there were so many chicken farms across the country, many of the eggs produced ended up being wasted.
+answerText: The type of chicken raised on each farm usually depended on the climate in the area where the farm was located.
+---
+【正解】1 The type of chicken raised on each farm usually depended on the climate in the area where the farm was located.（それぞれの農場で育てられるニワトリの種類は、たいてい、その農場がある地域の気候によって決まっていた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one thing that we learn about the US chicken industry before the 1940s?（1940年代より前のアメリカのニワトリ産業について分かることの一つは何か。）
+1 The type of chicken raised on each farm usually depended on the climate in the area where the farm was located.（それぞれの農場で育てられるニワトリの種類は、たいてい、その農場がある地域の気候によって決まっていた。）
+2 Each farm would raise more than one type of chicken in case there was a sudden change in environmental conditions.（それぞれの農場は、環境の条件が急に変わったときに備えて、2種類以上のニワトリを育てていた。）
+3 Chickens were generally only eaten by very poor people or at times when there were food shortages.（ニワトリは一般に、とても貧しい人々だけが食べるか、食料不足のときにだけ食べられていた。）
+4 Because there were so many chicken farms across the country, many of the eggs produced ended up being wasted.（国じゅうにとても多くの養鶏場があったので、生産された卵の多くが、結局むだになった。）
+【考え方】
+まず見るところ：第1段落の farmers generally chose a breed based on how well it was adapted to the local conditions
+1940年代より前のことは、第1段落に書かれています。根拠になるのは次の部分です。
+Additionally, there were a tremendous variety of chickens being raised, as farmers generally chose a breed based on how well it was adapted to the local conditions—whether it was suited to a dry or a humid climate, for example.（さらに、育てられていたニワトリの種類はとてつもなく多様だった。というのも、農家は一般に、品種を、それがその土地の条件にどれだけよく合っているか――たとえば、乾燥した気候と湿気の多い気候のどちらに適しているか――にもとづいて選んでいたからだ）
+breed は「品種（ニワトリの種類）」、humid は「湿気の多い」です。農家は、その土地の気候に合うかどうかでニワトリの種類を選んでいた、ということです。
+本文と選択肢を対にすると、次のようになります。
+本文 farmers generally chose a breed（農家は一般に品種を選んでいた）＝ 選択肢 The type of chicken raised on each farm usually（それぞれの農場で育てるニワトリの種類は、たいてい）
+本文 based on how well it was adapted to the local conditions—whether it was suited to a dry or a humid climate（その土地の条件、たとえば乾燥した気候か湿気の多い気候かにどれだけ合うかにもとづいて）→ 選択肢 depended on the climate in the area where the farm was located（その農場がある地域の気候によって決まっていた）
+したがって、1が正解です。
+この問題の型：言いかえ（chose a breed based on the local conditions → depended on the climate in the area）
+【ほかの選択肢】
+2 本文に書かれていません。本文で多様だったのは、国全体で育てられていたニワトリの種類で、1つの農場が急な環境の変化に備えて何種類も育てていたという話はありません。
+3 本文に書かれていません。第1段落には、貧困や食料不足がよくあったので、人々はニワトリを犠牲にせずにたんぱく質を得たいと考えていた（つまり、卵をとることを重視していた）とあります。とても貧しい人々だけがニワトリを食べていたとは書かれていません。
+4 本文に書かれていません。農場が多すぎて卵がむだになったという話はどこにもありません。
+【覚えるポイント】
+・breed：「品種」。be adapted to ～：「～に適応している、～に合っている」。
+・設問に before the 1940s のような時期が示されているときは、その時期を述べた段落（ここでは第1段落）を探し、その中で選択肢と同じ内容を言いかえた部分を見つけると手がかりになります。

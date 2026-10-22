@@ -1,0 +1,31 @@
+---
+choices: The specific metals and the time period that were chosen for the bet seem to have had an effect on the result. | Although the prices of a few metals did decrease, Ehrlich was correct about the increasing shortages due to population growth. | It demonstrated that neither Ehrlich nor Simon was actually correct about the long-term trends that were occurring. | Simon would still have won, even if the governments of countries in Eastern Europe had not had problems in the 1990s.
+answerText: The specific metals and the time period that were chosen for the bet seem to have had an effect on the result.
+---
+【正解】1 The specific metals and the time period that were chosen for the bet seem to have had an effect on the result.（賭けのために選ばれた特定の金属と期間が、結果に影響を与えたようだ。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is implied in the second paragraph about the bet between Simon and Ehrlich?（第2段落では、サイモンとエーリックの賭けについて、どんなことが示されているか。）
+1 The specific metals and the time period that were chosen for the bet seem to have had an effect on the result.（賭けのために選ばれた特定の金属と期間が、結果に影響を与えたようだ。）
+2 Although the prices of a few metals did decrease, Ehrlich was correct about the increasing shortages due to population growth.（いくつかの金属の価格はたしかに下がったが、人口増加によって不足が増えることについては、エーリックが正しかった。）
+3 It demonstrated that neither Ehrlich nor Simon was actually correct about the long-term trends that were occurring.（その賭けは、起きていた長期的な傾向について、エーリックもサイモンも実はどちらも正しくなかったことを示した。）
+4 Simon would still have won, even if the governments of countries in Eastern Europe had not had problems in the 1990s.（たとえ1990年代に東ヨーロッパの国々の政府に問題が起きていなかったとしても、サイモンはやはり勝っていただろう。）
+【考え方】
+まず見るところ：第2段落の economists say that, to some extent, Simon got lucky と、If different materials or starting times had been chosen, ～
+第2段落では、サイモンが賭けに勝ったと書かれたあと、However（しかし）で次のように続きます。
+However, economists say that, to some extent, Simon got lucky.（しかし経済学者たちは、ある程度は、サイモンは運がよかったのだと言う）
+If different materials or starting times had been chosen, there would have been numerous scenarios where Simon ended up paying Ehrlich.（もし別の材料や別の開始時期が選ばれていたら、サイモンが結局エーリックにお金を払うことになる筋書きが数多くあっただろう）
+If ～ had been chosen, there would have been ... は、実際とはちがう過去を仮に考える言い方で、「もし～が選ばれていたら、…だっただろう」という意味です。つまり、選ぶ金属や時期によっては、サイモンが負けていたかもしれないということです。本文と選択肢1を対にすると、次のようになります。
+・本文 different materials or starting times（別の材料や別の開始時期）→ 選択肢 The specific metals and the time period that were chosen（選ばれた特定の金属と期間）
+・本文 Simon got lucky ／ Simon ended up paying Ehrlich（運がよかった／結局エーリックに払うことになる）→ 選択肢 seem to have had an effect on the result（結果に影響を与えたようだ）
+よって1が正解です。
+この問題の型：推論（別の金属や時期なら負けていた → 選んだ金属と期間が結果を左右した）
+【ほかの選択肢】
+2 本文と合いません。第2段落の最後に It is now generally agreed that Simon was correct overall（現在では、全体としてはサイモンが正しかったということで、おおむね意見が一致している）とあり、エーリックが正しかったとは書かれていません。
+3 本文と合いません。第2段落の最後では、全体としてはサイモンが正しく、より長い期間でみれば必ず勝つだろうと書かれています。どちらも正しくなかったとは書かれていません。
+4 本文に書かれていません。東ヨーロッパの共産主義政府の崩壊は、時期によって原材料の価格が大きく変わる例として出てきます。その問題が起きていなかった場合にサイモンが勝っていたかどうかは書かれていません。
+【覚えるポイント】
+・to some extent：「ある程度は」。end up ～ing：「結局～することになる」。
+・If ～ had been ..., there would have been ～（もし～だったら、～だっただろう）は、「実際とはちがう場合」を考える言い方です。この形は「実際の結果は条件しだいだった」という筆者の考えを読み取る手がかりになります。

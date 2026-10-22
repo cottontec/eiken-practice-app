@@ -1,6 +1,7 @@
 ---
 choices: rotating | dissolving | devoting | exerting
 answerText: rotating
+reviewed: yes
 ---
 【正解】1 rotating（交代制の、順番に回る）
 【和訳】

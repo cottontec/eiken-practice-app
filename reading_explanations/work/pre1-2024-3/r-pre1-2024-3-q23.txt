@@ -1,0 +1,29 @@
+---
+choices: had been damaged by other scientists | caused structural problems | were intentionally created | would remain a mystery
+answerText: were intentionally created
+---
+【正解】3 were intentionally created（意図的に作られた）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 had been damaged by other scientists（ほかの科学者たちによって傷つけられていた）
+2 caused structural problems（構造上の問題を起こした）
+3 were intentionally created（意図的に〔わざと〕作られた）
+4 would remain a mystery（謎のままだろう）
+【考え方】
+まず見るところ：第2段落の空所のあとの This convinced the researchers that the chunks were not the result of a mixing error.
+第1段落では、コンクリートに石灰のかたまりがあったことから、「混ぜ方が十分でなかったかもしれない」と考えられ、それは不可解だったと書かれています。第2段落では、研究者の一人がかたまりについて何かを疑い、それを調べた結果が書かれています。
+Analysis using the latest scanning techniques showed that the lime chunks likely resulted from a special high-temperature process called hot mixing.（最新のスキャン技術を使った分析により、石灰のかたまりは、ホットミキシングと呼ばれる特別な高温の工程から生じた可能性が高いことが分かった）
+This convinced the researchers that the chunks were not the result of a mixing error.（このことで、研究者たちは、そのかたまりは混ぜ方の失敗の結果ではないと確信した）
+かたまりは失敗ではなく、特別な工程から生まれたものだった、と分かっています。つまり研究者は、「かたまりは失敗でできたのではなく、わざと作られたのではないか」と疑い、分析でそれを確かめたという流れです。
+本文 were not the result of a mixing error（混ぜ方の失敗の結果ではない）、resulted from a special high-temperature process（特別な高温の工程から生じた）→ 読み取れること → 選択肢 were intentionally created（意図的に作られた）
+ですから、3が正解です。
+この問題の型：対比（混ぜ方の失敗かもしれない ⇔ 意図的に作られた）
+【ほかの選択肢】
+1 ほかの科学者たちがかたまりを傷つけたという話は、本文に書かれていません。あとの文は、かたまりがどのようにしてできたかを明らかにしているので、つながりません。
+2 本文では、ホットミキシングはコンクリートをふつうのコンクリートより強くすると書かれ、第3段落では、石灰のかたまりがひびをふさぐ働きをすると書かれています。かたまりが構造上の問題を起こしたという内容は、これらの説明と合いません。
+4 「謎のままだろう」と疑ったとすると、あとの文で分析によってかたまりのでき方が明らかになり、研究者が確信したという流れとつながりません。
+【覚えるポイント】
+・intentionally：「意図的に、わざと」。a mixing error（混ぜ方の失敗）のような「うっかりしたこと」と比べて使われることが多い語です。
+・suspected ～（～ではないかと疑った）の空所では、そのあとの分析や調査の結果（ここでは This convinced the researchers that ～）を読むと、何を疑っていたのかが分かることが多いです。

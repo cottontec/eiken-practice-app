@@ -1,6 +1,7 @@
 ---
 choices: It is a mistake to judge Richard’s ability based only on the losses he suffered on the battlefield and not on the reforms he introduced. | The historians who claim that Richard knowingly carried out terrible acts are likely to be incorrect in their assessment of him. | The crimes that Richard committed while he was king greatly exceed the positive things he did for the country. | Richard was likely no better or worse as a ruler than other kings who ruled England in the distant past.
 answerText: Richard was likely no better or worse as a ruler than other kings who ruled England in the distant past.
+reviewed: yes
 ---
 【正解】4 Richard was likely no better or worse as a ruler than other kings who ruled England in the distant past.（リチャードは、支配者として、遠い昔にイングランドを治めたほかの王たちよりよくも悪くもなかった可能性が高い。）
 【和訳】
@@ -19,7 +20,7 @@ In the end, it is probably wisest to see Richard as a ruler who operated in a ma
 typical は「典型的な（よくある、ふつうの）」、in a manner は「～なやり方で」という意味です。筆者は、リチャードを「その時代によくいたタイプの支配者」として見るのがよいと考えています。特別に悪い王でも、特別によい王でもない、という見方だと読み取れます。
 さらに、筆者はニコルズ枢機卿のことばを引いています。
 “In his day, political power was invariably won or maintained on the battlefield and only by ruthless determination, strong alliances and a willingness to employ the use of force.”（「彼の時代には、政治の権力は、決まって戦場で勝ち取られるか保たれるかするものであり、それはただ、容赦のない決意と、強い同盟と、力を使うことをいとわない気持ちによってのみなされた」）
-invariably は「決まって、いつも」という意味です。その時代の支配者はみな、力を使って権力を得たり守ったりしていた、ということです。
+invariably は「決まって、いつも」という意味です。その時代の政治の権力は、決まって力を使って得たり守ったりするものだった、ということです。
 本文と選択肢を対にすると、次のようになります。
 本文 a ruler who operated in a manner typical of the time in which he lived（彼が生きた時代に典型的なやり方でふるまった支配者）→ 選択肢 no better or worse as a ruler than other kings who ruled England in the distant past（遠い昔にイングランドを治めたほかの王たちよりよくも悪くもない）
 筆者の考えから読み取れる内容なので、4が正解です。

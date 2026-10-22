@@ -1,0 +1,31 @@
+---
+choices: chip in | pull off | stick around | bear up
+answerText: stick around
+---
+【正解】3 stick around（その場にしばらく残る）
+【和訳】
+（英文）
+The movie star asked the journalist to ［stick around］ after the interview. She promised to give him an exclusive story if he did.
+（訳）
+その映画スターは、インタビューのあと、その場に（しばらく残っている）よう記者に頼んだ。そうしてくれたら独占記事になる話（ほかの記者には教えない話）をすると、彼女は約束した。
+（選択肢の意味）
+1 chip in：（お金など）を出し合う、（会話に）口をはさむ
+2 pull off：（難しいこと）をやってのける
+3 stick around：その場にしばらく残る
+4 bear up：（つらいことに）耐える、がんばり通す
+【考え方】
+まず見るところ：空所のあとの after the interview と、次の文の if he did
+空所のある文は、次のとおりです。
+The movie star asked the journalist to (　) after the interview.（その映画スターは、インタビューのあと（　）ように記者に頼んだ）
+journalist は「記者」です。空所には、インタビューが終わったあとに、記者にしてほしいことが入ります。
+次の文は、次のとおりです。
+She promised to give him an exclusive story if he did.（そうしてくれたら独占記事になる話をすると、彼女は約束した）
+exclusive story は「独占記事（ほかの記者は知らない話）」です。if he did（彼がそうしたら）の did は、空所の行動を指しています。インタビューが終わっても帰らずに残っていれば、特別な話を聞かせるということです。stick around は「その場にしばらく残る」という意味なので、3が正解です。
+この問題の型：指示語（if he did ＝ 空所の行動をしたら）
+【ほかの選択肢】
+1 chip in は「お金を出し合う、口をはさむ」です。「インタビューのあとでお金を出し合う」となり、記者が一人で特別な話をもらう流れに合いません。
+2 pull off は「（難しいこと）をやってのける」です。この文には何をやってのけるのかが書かれておらず、「インタビューのあとでやってのけるように頼んだ」となって意味が通りません。
+4 bear up は「（つらいことに）耐える」です。この文には記者が耐えなければならないつらいことが書かれておらず、独占記事の約束ともつながりません。
+【覚えるポイント】
+・stick around：「その場にしばらく残る」。
+・if he did（彼がそうしたら）の did のように、次の文で前の動作を指す語があるときは、その文の内容（ここでは独占記事をくれる）と合う動作を空所に選ぶ手がかりになります。

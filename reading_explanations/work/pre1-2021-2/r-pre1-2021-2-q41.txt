@@ -1,6 +1,7 @@
 ---
 choices: Local landowners felt betrayed by Jayavarman, causing many to refuse to support him when the Khmer empire was attacked. | It angered rural people who were forced to move to cities, so they attempted to remove Jayavarman from power. | It required the use of so many resources that it left the Khmer empire unable to deal with problems it faced in the future. | It proved valuable in diverting the attention of Khmer citizens away from the effects of frequent natural disasters in the region.
 answerText: It required the use of so many resources that it left the Khmer empire unable to deal with problems it faced in the future.
+reviewed: yes
 ---
 【正解】3 It required the use of so many resources that it left the Khmer empire unable to deal with problems it faced in the future.（それにはとても多くの資源を使う必要があったので、クメール帝国は、のちに直面する問題に対処できなくなった。）
 【和訳】

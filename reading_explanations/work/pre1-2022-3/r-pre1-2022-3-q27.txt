@@ -1,0 +1,29 @@
+---
+choices: has led to more mystery | many foods were of poor quality | this was not always the case | not all shipments arrived safely
+answerText: this was not always the case
+---
+【正解】3 this was not always the case（いつもそうだったわけではない）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 has led to more mystery（さらなる謎につながった）
+2 many foods were of poor quality（多くの食べ物は質が悪かった）
+3 this was not always the case（いつもそうだったわけではない）
+4 not all shipments arrived safely（すべての積み荷が無事に届いたわけではない）
+【考え方】
+まず見るところ：第2段落の It was long assumed that ～ と、空所の文の however
+第2段落は、長い間信じられていたことから始まっています。
+It was long assumed that the food items supplied to San Jose's Chinatown originated in Hong Kong and China.（サンノゼのチャイナタウンに届けられていた食料品は、香港と中国が産地だと長い間考えられていた）
+assume は「（確かめずに）思いこむ、考える」、originate in ～ は「～で生まれる、～が元である」です。空所の文には however（しかし）があるので、この考えとは違う証拠が見つかったと予想できます。
+空所の後ろには、見つかった魚の骨の説明があります。
+Since the fish is native not to China or Hong Kong but rather to Southeast Asian nations（この魚は中国や香港ではなく、東南アジアの国々に元から住む魚なので）
+つまり、香港を通って送られてきたものの中に、中国や香港が元ではない魚がふくまれていたのです。this（このこと）は「食料品の産地が香港と中国であること」を指し、not always は「いつも～というわけではない」です。「香港と中国産だという考えが、いつも当てはまったわけではない」という証拠になるので、3が正解です。
+この問題の型：対比（長い間の思いこみ⇔however のあとの新しい証拠）、指示語（this が前の文の内容を指す）
+【ほかの選択肢】
+1 has led to more mystery（さらなる謎につながった）を入れると、「分析が、さらなる謎につながったという証拠を与えた」となり、意味がつながりません。また、後ろでは考古学者たちが魚の運ばれ方を説明しており、謎が深まったという話にはなっていません。
+2 many foods were of poor quality（多くの食べ物は質が悪かった）は、本文に書かれていません。本文で問題にされているのは食料品の産地で、品質の話は出てきません。
+4 not all shipments arrived safely（すべての積み荷が無事に届いたわけではない）は、本文に書かれていません。本文は魚がどこでとられ、どう運ばれたかを説明しており、積み荷が無事に届いたかどうかの話は出てきません。
+【覚えるポイント】
+・not always ～：「いつも～というわけではない」。this was not always the case で「いつもそうだったわけではない」です。the case は「実際のこと、事実」という意味です。
+・It was long assumed that ～（長い間～と考えられていた）のあとに however（しかし）が来るときは、その考えが正しくない、または一部当てはまらないという内容が続くことが多いので、そこが手がかりになります。

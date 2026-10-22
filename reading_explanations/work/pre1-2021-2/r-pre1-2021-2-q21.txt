@@ -1,6 +1,7 @@
 ---
 choices: steady | hasty | weary | sly
 answerText: weary
+reviewed: yes
 ---
 【正解】3 weary（疲れきった、うんざりした）
 【和訳】

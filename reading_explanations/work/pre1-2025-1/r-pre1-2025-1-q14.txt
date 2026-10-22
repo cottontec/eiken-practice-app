@@ -1,0 +1,32 @@
+---
+choices: interact | collapse | precede | constrain
+answerText: interact
+---
+【正解】1 interact（交流する、関わり合う）
+【和訳】
+（英文）
+Although many people like the idea of online learning, others feel that it is important for students to ［interact］ with other children in person.
+（訳）
+多くの人はオンライン学習という考えを気に入っているが、生徒がほかの子どもたちと直接会って（交流する）ことが大切だと感じる人もいる。
+（選択肢の意味）
+1 interact：交流する、関わり合う
+2 collapse：崩れる、倒れる
+3 precede：～より先に来る、～に先立つ
+4 constrain：～を制限する、～を無理に…させる
+【考え方】
+まず見るところ：空所の後ろの with other children in person
+文の初めは Although ～（～だけれども）です。
+Although many people like the idea of online learning（多くの人はオンライン学習という考えを気に入っているが）
+online learning は「オンライン学習（インターネットを使って家などで学ぶこと）」です。そのあとに、反対の考えを持つ人たち（others）の意見が続きます。
+空所の後ろを見ます。
+with other children in person（ほかの子どもたちと、直接会って）
+in person は「直接会って、本人が出向いて」です。オンラインとは反対に、実際に顔を合わせることを表しています。
+interact with ～ は「～と交流する、関わり合う」です。「ほかの子どもたちと直接会って交流することが大切だ」となり、オンライン学習と対比になります。ですから1が正解です。
+この問題の型：対比（online learning ⇔ in person）／語の意味・組み合わせ（interact with ～）
+【ほかの選択肢】
+2 collapse は「崩れる、倒れる」です。「ほかの子どもたちと直接会って崩れることが大切だ」となり、意味が通りません。
+3 precede は「～より先に来る」です。「ほかの子どもたちより先に来ることが大切だ」としても、オンライン学習と直接会うことの対比になりません。また、precede は後ろに with を置かずに使う語です。
+4 constrain は「～を制限する」です。後ろに with ～ ではなく、制限する相手を直接置く語で、「直接会うことが大切だ」という意見の中身にもなりません。
+【覚えるポイント】
+・interact with ～：「～と交流する、関わり合う」。in person は「直接会って」。
+・Although（～だけれども）の前に online（オンライン）があり、後ろに in person（直接会って）があるように、前後で反対のものを比べている文では、その対比が答えの手がかりになります。

@@ -1,6 +1,7 @@
 ---
 choices: tragic | legible | tentative | spacious
 answerText: spacious
+reviewed: yes
 ---
 【正解】4 spacious（広々とした）
 【和訳】

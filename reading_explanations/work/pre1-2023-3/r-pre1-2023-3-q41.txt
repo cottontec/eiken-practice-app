@@ -1,0 +1,30 @@
+---
+choices: More people have come to recognize that when people are poor, it may not necessarily be their fault. | It has caused people to change their views regarding how many immigrants should be allowed into the country. | People are slowly beginning to lose their prejudices against members of other races and social classes. | There is more recognition of the effort that wealthy people have made to achieve their high status in life.
+answerText: More people have come to recognize that when people are poor, it may not necessarily be their fault.
+---
+【正解】1 More people have come to recognize that when people are poor, it may not necessarily be their fault.（人が貧しいとき、それは必ずしもその人のせいではないかもしれないと認める人が増えてきた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：How have American views on meritocracy changed?（能力主義についてのアメリカ人の見方は、どのように変わってきたか。）
+1 More people have come to recognize that when people are poor, it may not necessarily be their fault.（人が貧しいとき、それは必ずしもその人のせいではないかもしれないと認める人が増えてきた。）
+2 It has caused people to change their views regarding how many immigrants should be allowed into the country.（そのせいで人々は、どれくらいの数の移民を国に受け入れるべきかについての見方を変えた。）
+3 People are slowly beginning to lose their prejudices against members of other races and social classes.（人々は、ほかの人種や社会階級の人々に対する偏見を、少しずつなくし始めている。）
+4 There is more recognition of the effort that wealthy people have made to achieve their high status in life.（裕福な人々が高い地位を得るためにしてきた努力が、以前よりも認められている。）
+【考え方】
+まず見るところ：第4段落の Furthermore, seven in ten Americans now view poverty as the result of obstacles that people have faced in life rather than a lack of effort.
+第4段落では、昔と今のアメリカ人の見方が比べられています。昔は、ほとんどのアメリカ人が「知性と勤勉さが成功の主な要因だ」と信じていました。しかし In recent years, however（しかし近年）のあとで、見方が変わってきたことが書かれています。段落の最後の文を見ます。
+Furthermore, seven in ten Americans now view poverty as the result of obstacles that people have faced in life rather than a lack of effort.（さらに、今ではアメリカ人の10人に7人が、貧困は努力が足りないことの結果ではなく、人々が人生で直面してきた障害の結果だと見ている）
+view A as B は「AをBと見る」、A rather than B は「BではなくA」、obstacle は「障害、じゃまになるもの」です。本文と選択肢1を対にすると、次のようになります。
+・本文 seven in ten Americans now view（今では10人に7人が見ている）→ 選択肢 More people have come to recognize（認める人が増えてきた）
+・本文 poverty as the result of obstacles ～ rather than a lack of effort（貧困は努力不足ではなく、障害の結果）→ 選択肢 when people are poor, it may not necessarily be their fault（貧しいのは必ずしもその人のせいではないかもしれない）
+「努力が足りないからではない」ということは、「貧しいのはその人のせいとは限らない」と言いかえられます。よって1が正解です。
+この問題の型：言いかえ（rather than a lack of effort → may not necessarily be their fault）
+【ほかの選択肢】
+2 本文に書かれていません。第4段落には、アメリカが移民の国だという評判があったとありますが、受け入れる移民の数についての見方が変わったという話はありません。
+3 本文に書かれていません。第4段落は、成功や貧困の原因についての見方が変わったという話で、ほかの人種や社会階級への偏見がなくなり始めているとは書かれていません。
+4 本文と合いません。本文には、裕福な人々の成功を主に勤勉さのおかげだと考えるのは just one-third（わずか3分の1）とあり、およそ3分の2は、人生の早い時期に得た有利な条件のおかげだと受け入れるようになってきています。裕福な人々の努力が以前より認められている、という変化ではありません。
+【覚えるポイント】
+・view A as B：「AをBと見る」。A rather than B：「BではなくA」。obstacle：「障害」。
+・「どう変わったか」をたずねる設問では、In recent years, however（しかし近年）のように、昔と今を切りかえる語の後ろを見ると、変化の中身をつかむ手がかりになります。
