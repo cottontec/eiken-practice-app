@@ -1,0 +1,30 @@
+---
+choices: For instance | Nevertheless | Consequently | Instead
+answerText: Consequently
+---
+【正解】3 Consequently（その結果、したがって）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 For instance（たとえば）
+2 Nevertheless（それにもかかわらず）
+3 Consequently（その結果、したがって）
+4 Instead（その代わりに）
+【考え方】
+まず見るところ：第2段落の空所の前の At the time, the emus had protected status.
+空所の前の文を見ます。
+At the time, the emus had protected status.（当時、エミューは保護される立場にあった）
+protected status は「保護される立場（守られる対象になっていること）」です。
+空所の後ろを見ます。
+the farmers' options were severely limited（農家がとれる手段はひどく限られていた）
+options は「とれる手段、選べる道」、severely は「ひどく、厳しく」です。エミューが守られる立場にあったので、農家はエミューに対して自由に手を出せず、できることが限られていた、という流れだと考えられます。
+同じ段落の The farmers were eventually permitted to kill the birds.（農家はやがて、その鳥を殺すことを許可された）からも、それまでは殺すことが許されていなかったと読み取れます。前の文が原因、後ろの文が結果になっているので、Consequently（その結果）が合います。ですから3が正解です。
+この問題の型：因果（保護されていた → 農家の手段が限られた）
+【ほかの選択肢】
+1 For instance（たとえば）を入れると、「農家の手段が限られていた」ことが、エミューが保護されていたことの例になってしまいます。例を示す関係ではないので、合いません。
+2 Nevertheless（それにもかかわらず）は、前と反対の向きの内容が続くときに使います。エミューが守られていれば農家の手段が限られるのは自然なつながりで、反対の向きではないので、合いません。
+4 Instead（その代わりに）は、前に述べたことの代わりに別のことをするときに使います。「エミューが保護されていた代わりに、農家の手段が限られた」となり、意味が通りません。
+【覚えるポイント】
+・Consequently：「その結果、したがって」。As a result とほぼ同じ働きをするつなぎの語です。
+・つなぎの語を選ぶ空所では、前の文が後ろの文の「原因」になっているか、「反対の向き」か、「例」かを確かめるのが手がかりになります。
