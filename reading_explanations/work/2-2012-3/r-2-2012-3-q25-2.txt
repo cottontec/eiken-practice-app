@@ -2,6 +2,7 @@
 choices: it | how | was | different | from
 answerText: from
 order: 4 5 2 1 3
+reviewed: yes
 ---
 【正解】5 from（この問題の2番目）
 【完成文】

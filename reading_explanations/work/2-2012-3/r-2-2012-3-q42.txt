@@ -1,6 +1,7 @@
 ---
 choices: The food is cheaper there than in the countryside. | There has not been enough grass to feed their animals. | They want to escape the cold weather of the grasslands. | Large groups of animals have damaged the countryside.
 answerText: There has not been enough grass to feed their animals.
+reviewed: yes
 ---
 【正解】2 There has not been enough grass to feed their animals.（動物に食べさせる草が十分になかったから。）
 【和訳】

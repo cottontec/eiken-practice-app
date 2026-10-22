@@ -1,6 +1,7 @@
 ---
 choices: insisted on | bumped into | called off | resulted from
 answerText: insisted on
+reviewed: yes
 ---
 【正解】1 insisted on（～を強く求めた、言い張った）
 【和訳】

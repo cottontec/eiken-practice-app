@@ -1,0 +1,20 @@
+---
+choices: the shop | her | decorated | that | way
+answerText: decorated
+order: 5 4 1 3 2
+---
+【正解】3 decorated（この問題の4番目）
+【完成文】
+Lydia is pleased with the ( way that the shop decorated her ) wedding cake.
+並べ方：5 way → 4 that → 1 the shop → 3 decorated → 2 her（2番目は4、4番目は3）
+【和訳】
+リディアは、その店が自分のウエディングケーキを飾りつけたやり方に満足しています。店の人たちは、アイシング（砂糖で作る、ケーキの飾り用のクリーム状のもの）でたくさんの美しい花を作り、それをケーキの上にのせたのです。
+【考え方】
+4番目を決めるために、次の文から考えます。They made many beautiful flowers out of icing and put them on top.（店の人たちはアイシングでたくさんの美しい花を作り、それを上にのせた）とあるので、リディアが満足しているのは、店がケーキをどう飾ったか、ということだと分かります。
+空所の前の the のあとに 5 way を置き、the way（やり方）とします。そのあとに 4 that を置き、「どんなやり方か」を説明する文をつなぎます。
+that のあとの説明の文では、まず主語 1 the shop（その店）がきます。主語のあとには動詞がくるので、3 decorated（飾りつけた）は the shop の直後、全体の4番目に入ります。decorated のあとには「何を飾ったか」がきます。2 her を置くと、空所のあとの wedding cake とつながって her wedding cake（彼女のウエディングケーキ）になります。
+並べると、1番目 way、2番目 that、3番目 the shop、4番目 decorated、5番目 her です。したがって4番目は3 decorated です。
+まちがえやすいのは、the way that her decorated the shop のように her を主語の位置に置く並べ方です。her は「彼女の、彼女を」という形で、「彼女が」という主語には使えません。また、「彼女が店を飾った」となり、次の文の内容とも合いません。
+【覚えるポイント】
+・decorate：「飾る、飾りつける」。
+・make A out of B：「BでAを作る」。made many beautiful flowers out of icing で「アイシングでたくさんの美しい花を作った」。

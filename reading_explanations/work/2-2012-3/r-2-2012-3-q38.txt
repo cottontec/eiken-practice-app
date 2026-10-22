@@ -1,6 +1,7 @@
 ---
 choices: New bones can be grown inside of their bodies. | Their shells can be used to treat people's injuries. | Some of them are able to stick to things underwater. | They produce stronger glues than humans can.
 answerText: Some of them are able to stick to things underwater.
+reviewed: yes
 ---
 【正解】3 Some of them are able to stick to things underwater.（それらの中には、水の中で物にくっつくことができるものがいるから。）
 【和訳】

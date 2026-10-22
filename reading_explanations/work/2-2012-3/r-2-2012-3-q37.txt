@@ -1,6 +1,7 @@
 ---
 choices: it is too expensive to use glue to hold a bone together. | some of the pieces of a bone are difficult to find. | wet conditions make it impossible for a bone to fix itself. | a bone is broken in such a way that it cannot heal naturally.
 answerText: a bone is broken in such a way that it cannot heal naturally.
+reviewed: yes
 ---
 【正解】4 a bone is broken in such a way that it cannot heal naturally.（骨が、自然には治らないような折れ方をしているとき。）
 【和訳】
@@ -16,7 +17,7 @@ answerText: a bone is broken in such a way that it cannot heal naturally.
 金属のピン（metal pin）は第1段落に出てきます。順に見ていきます。
 1文目は When someone breaks a bone, a doctor can usually treat it so that it heals naturally.（骨が折れたとき、医師はふつう、骨が自然に治るように手当てをすることができる）です。これが「ふつうの場合」です。
 2文目は In some cases, though, the break is very complicated, and the different parts of the bone have to be held together with a metal pin or screws.（しかし場合によっては、折れ方がとても複雑で、骨のばらばらになった部分を金属のピンやねじでつなぎとめなければならない）です。though（しかし）があるので、1文目の「ふつうは自然に治るように手当てできる」とは違う場合の話だと分かります。
-つまり金属のピンを使うのは、折れ方が複雑で、ふつうの手当てで自然に治るようにはできないときです。
+つまり金属のピンを使うのは、折れ方が複雑で、ふつうの手当てで自然に治るようにはできないときです。本文に cannot heal naturally（自然には治らない）とそのまま書かれているわけではありませんが、though（しかし）が「ふつうは自然に治るように手当てできる」場合と「ピンでつなぎとめなければならない」場合を対比しているので、ピンを使うのは自然に治るのを待つだけではすまない折れ方のときだと読み取れます。
 本文と選択肢は次のように対応しています。
 本文 the break is very complicated（折れ方がとても複雑だ）＝ 選択肢 a bone is broken in such a way（そのような折れ方をしている）
 本文 In some cases, though（しかし場合によっては）＝ 1文目の「ふつうは自然に治るように手当てできる（so that it heals naturally）」とは違う場合 ＝ 選択肢 that it cannot heal naturally（自然には治らない）

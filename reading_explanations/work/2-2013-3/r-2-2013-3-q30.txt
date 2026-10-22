@@ -1,0 +1,25 @@
+---
+choices: By chance | On the other hand | For instance | Due to this
+answerText: Due to this
+---
+【正解】4 Due to this（このために）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 By chance：偶然に、たまたま
+2 On the other hand：一方で
+3 For instance：たとえば
+4 Due to this：このために、このせいで
+【考え方】
+空所は第1段落の最後の文の初めにあります。空所の前後の文の関係を考えます。
+前の文は Jet lag makes it hard for people to sleep at the right time.（時差ぼけのせいで、人々は正しい時間に眠ることが難しくなる）です。make it hard for 人 to ～ は「人が～するのを難しくする」という意味です。
+空所のあとは they often find it difficult to concentrate or work hard during the day（人々は日中に集中したり一生懸命に働いたりすることが難しいと感じることがよくある）です。
+正しい時間に眠れなければ、昼間に眠くなったり、集中できなくなったりします。つまり、前の文が原因で、あとの文がその結果です。Due to this は「このために、このせいで」という意味で、原因と結果をつなぎます。this は前の文の「正しい時間に眠れないこと」を指します。したがって4が正解です。
+【ほかの選択肢】
+1 By chance は「偶然に、たまたま」です。入れると「たまたま、人々は日中に集中するのが難しいと感じる」となり、眠れないことが原因で集中できないというつながりが表せません。
+2 On the other hand は「一方で」で、前と比べて違う面を述べるときに使います。前の文も、あとの文も、時差ぼけによる困ったことで、比べて違いを示す関係ではないので合いません。
+3 For instance は「たとえば」で、前の内容の具体例を挙げるときに使います。日中に集中できないことは、「正しい時間に眠れない」ことの例ではなく、そこから起きる結果なので合いません。
+【覚えるポイント】
+・due to ～：「～のために、～が原因で」。Due to this で「このために」。
+・find it difficult to ～：「～するのが難しいと感じる」。

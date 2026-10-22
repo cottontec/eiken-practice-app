@@ -1,0 +1,29 @@
+---
+choices: The amount of rare metals that one asteroid contains could be very large. | It will no longer have to pay for space travel in a few years. | Scientists have discovered a way to make the quality of the metals they find better. | Its plan seems so unrealistic to most people that no one else will try it first.
+answerText: The amount of rare metals that one asteroid contains could be very large.
+---
+【正解】1 The amount of rare metals that one asteroid contains could be very large.（1つの小惑星にふくまれる希少な金属の量が、非常に多い可能性がある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：プラネタリー・リソーシズが、小惑星を採掘することでお金をもうけられると考えているのはなぜですか。
+1 1つの小惑星にふくまれる希少な金属の量が、非常に多い可能性がある。
+2 数年後には、宇宙旅行にお金を払う必要がなくなる。
+3 科学者たちが、見つけた金属の質をよくする方法を発見した。
+4 その計画はほとんどの人にとって非常に現実的でないように思えるので、ほかのだれも先にそれを試そうとしないだろう。
+【考え方】
+設問の make money（お金をもうける）と同じような意味の言葉を本文で探します。第4段落の初めに Some scientists doubt that the company will be able to reduce the cost of space travel enough to make a profit on the metals it finds.（この会社が、見つけた金属で利益を出せるほど宇宙旅行の費用を下げられるかどうか、疑わしいと考えている科学者もいる）とあります。make a profit は「利益を出す」です。
+これに対して、次の文が however（しかし）で始まり、会社側の考えを述べています。A spokesman for Planetary Resources, however, points out that a single 500-meter asteroid could contain more platinum than has been mined on Earth in its whole history.（しかし、プラネタリー・リソーシズの広報担当者は、たった1つの500メートルの小惑星に、地球上で全歴史を通じて採掘されてきたよりも多くのプラチナがふくまれている可能性がある、と指摘している）とあります。
+つまり、会社は「1つの小惑星から取れる金属の量がとても多いかもしれないので、利益が出る」と考えているのです。
+本文と選択肢は次のように対応しています。
+本文 a single 500-meter asteroid（たった1つの500メートルの小惑星）＝ 選択肢 one asteroid（1つの小惑星）
+本文 could contain more platinum than has been mined on Earth in its whole history（地球の全歴史で採掘されたよりも多くのプラチナをふくむ可能性がある）＝ 選択肢 The amount of rare metals ... could be very large（希少な金属の量が非常に多い可能性がある）
+プラチナは第1段落で rare metals（希少な金属）の例として出てきました。正解は1です。
+【ほかの選択肢】
+2 本文で会社が言っているのは、新しい技術を使って宇宙旅行の費用を cut（下げる）ことです。費用を払う必要がなくなるとは言っておらず、「数年後」という時期も書かれていません。
+3 金属の質をよくする方法を科学者が見つけたという話は本文にありません。第4段落の科学者は、むしろ会社が利益を出せるかを疑っています。
+4 本文には the company's plan sounds unrealistic to many people today（この会社の計画は、今日多くの人には現実的でないように聞こえる）とあります。しかし、それが理由で、ほかのだれも先に試さないとは書かれておらず、お金をもうけられる理由として述べられているわけでもありません。
+【覚えるポイント】
+・make a profit：「利益を出す」。make money もほぼ同じ意味です。
+・point out that ～：「～だと指摘する」。

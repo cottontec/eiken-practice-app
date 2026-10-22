@@ -1,0 +1,20 @@
+---
+choices: breath | view | deal | cure
+answerText: deal
+---
+【正解】3 deal（a good deal of ～ で「たくさんの～」）
+【和訳】
+A：アニタ、あなたの庭はきれいだね！
+B：ありがとう。でも、庭にはまだ（たくさんの）やるべき作業があるんだ。すみに滝のある小さな池を作りたいんだよ。
+（選択肢の意味）1 息、呼吸　2 眺め、見晴らし　3 （a good deal of ～ で）たくさんの～　4 治療、治療法
+【考え方】
+Aに庭をほめられたBは、Thanks, but（ありがとう、でも）と答えています。but のあとは、ほめられた庭にまだ足りないところがあるという内容になると考えられます。
+Bは続けて I want to make a small pond with a waterfall in the corner.（すみに滝のある小さな池を作りたい）と言っています。これから池を作りたいのですから、まだ作業がたくさん残っていることが分かります。
+a good deal of ～ は「たくさんの～、かなりの量の～」という決まった言い方です。I still have a good deal of work to do on it で「まだ庭でやるべき作業がたくさんある」となります。it は yard（庭）を指します。したがって3が正解です。
+【ほかの選択肢】
+1 breath は「息、呼吸」です。a good breath of work という言い方はなく、意味が通りません。
+2 view は「眺め、見晴らし」です。a good view of ～ は「～がよく見える眺め」という意味になり、「作業のよい眺めがある」では池を作りたいという話とつながりません。
+4 cure は「治療、治療法」です。a good cure of work という言い方はなく、意味が通りません。
+【覚えるポイント】
+・a good deal of ～ / a great deal of ～：「たくさんの～」。量の多さを表し、work のような数えない名詞に使います。
+・work to do on ～：「～に対してやるべき作業」。

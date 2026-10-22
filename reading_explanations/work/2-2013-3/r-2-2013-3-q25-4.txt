@@ -1,0 +1,20 @@
+---
+choices: her | give | to | refused | the money
+answerText: her
+order: 4 3 2 1 5
+---
+【正解】1 her（この問題の4番目）
+【完成文】
+He ( refused to give her the money ) because he thought that the sunglasses were too expensive.
+並べ方：4 refused → 3 to → 2 give → 1 her → 5 the money（2番目は3、4番目は1）
+【和訳】
+昨日、ジャックの13歳の娘が、サングラスを買えるように80ドルほしいと彼に頼みました。彼は、そのサングラスは高すぎると思ったので、娘にそのお金をあげるのを断りました。
+【考え方】
+4番目を決めるために、give の使い方に注目します。娘は so that she could buy a pair of sunglasses（サングラスを買えるように）80ドルを頼みました。ジャックはサングラスが高すぎると思ったので、娘にお金をあげることを断ったと考えられます。
+まず He のあとに 4 refused（断った）を置き、refuse to ～（～することを断る）の形にするため 3 to、2 give と続けます。
+give のあとは「give ＋ 人 ＋ もの（人にものをあげる）」の形にします。「人」にあたるのは 1 her（彼女に）、「もの」にあたるのは 5 the money（そのお金）です。人を先に置く形なので、her は give の直後、全体の4番目に入ります。
+並べると、1番目 refused、2番目 to、3番目 give、4番目 her、5番目 the money です。したがって4番目は1 her です。
+まちがえやすいのは、refused to give the money her のように「もの」を先に置いてから「人」を置く並べ方です。もの を先に置くときは give the money to her のように人の前に to が必要ですが、to はすでに refused のあとで使っているので、この形にはできません。
+【覚えるポイント】
+・give ＋ 人 ＋ もの ＝ give ＋ もの ＋ to ＋ 人：「人にものをあげる」。
+・so that ＋ 主語 ＋ could ～：「（主語）が～できるように」。

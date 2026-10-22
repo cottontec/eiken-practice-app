@@ -1,6 +1,7 @@
 ---
 choices: terms | charge | series | line
 answerText: terms
+reviewed: yes
 ---
 【正解】1 terms（（in terms of ～ で）～の点では）
 【和訳】

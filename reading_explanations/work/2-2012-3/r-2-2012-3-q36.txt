@@ -1,6 +1,7 @@
 ---
 choices: The city wants to build several new parks around town. | The city wants to open a library with books about local history. | The GHS has to pay its full-time employees. | The GHS has to move to a new office building.
 answerText: The GHS has to pay its full-time employees.
+reviewed: yes
 ---
 【正解】3 The GHS has to pay its full-time employees.（GHSは常勤の従業員に給料を払わなければならない。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: military | dormitory | summary | boundary
 answerText: dormitory
+reviewed: yes
 ---
 【正解】2 dormitory（寮）
 【和訳】

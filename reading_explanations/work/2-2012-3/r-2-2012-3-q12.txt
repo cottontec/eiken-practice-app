@@ -1,6 +1,7 @@
 ---
 choices: forgives | returns | becomes | allows
 answerText: becomes
+reviewed: yes
 ---
 【正解】3 becomes（（what becomes of ～ で）～はどうなるか）
 【和訳】

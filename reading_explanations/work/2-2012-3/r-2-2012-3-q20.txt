@@ -1,6 +1,7 @@
 ---
 choices: Shall | Could | Should | Can
 answerText: Should
+reviewed: yes
 ---
 【正解】3 Should（（Should ＋ 主語 ＋ 動詞 ～ で）もし～ならば）
 【和訳】

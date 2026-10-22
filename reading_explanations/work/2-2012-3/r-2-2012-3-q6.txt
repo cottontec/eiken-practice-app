@@ -1,6 +1,7 @@
 ---
 choices: imported | admired | disappeared | overlapped
 answerText: overlapped
+reviewed: yes
 ---
 【正解】4 overlapped（重なった、重複した）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: renting | to rent | rent | having rented
 answerText: renting
+reviewed: yes
 ---
 【正解】1 renting（借りること）
 【和訳】

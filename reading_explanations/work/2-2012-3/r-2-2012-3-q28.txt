@@ -1,6 +1,7 @@
 ---
 choices: Before | Despite | Due to | And with
 answerText: Despite
+reviewed: yes
 ---
 【正解】2 Despite（～にもかかわらず）
 【和訳】

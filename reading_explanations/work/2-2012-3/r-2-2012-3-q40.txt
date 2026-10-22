@@ -1,6 +1,7 @@
 ---
 choices: It reduces the amount of acid in the ocean. | It can be produced in laboratories using rats. | It is not affected by the surrounding temperature. | It does not need air to become hard.
 answerText: It does not need air to become hard.
+reviewed: yes
 ---
 【正解】4 It does not need air to become hard.（固まるのに空気を必要としない。）
 【和訳】

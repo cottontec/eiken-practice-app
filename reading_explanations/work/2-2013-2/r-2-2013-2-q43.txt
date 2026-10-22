@@ -1,0 +1,28 @@
+---
+choices: By paying countries with spacecraft to send people to asteroids. | By sending robot spacecraft to visit asteroids. | By asking governments for data on asteroids. | By breaking up asteroids using special telescopes placed in space.
+answerText: By sending robot spacecraft to visit asteroids.
+---
+【正解】2 By sending robot spacecraft to visit asteroids.（小惑星を訪れるために、ロボット宇宙船を送ることによって。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：プラネタリー・リソーシズは、小惑星にどんな種類の金属がふくまれているかを、どのようにして見つけ出すつもりですか。
+1 宇宙船を持っている国々にお金を払って、小惑星に人を送ってもらうことによって。
+2 小惑星を訪れるために、ロボット宇宙船を送ることによって。
+3 政府に小惑星についてのデータを求めることによって。
+4 宇宙に置いた特別な望遠鏡を使って、小惑星を砕くことによって。
+【考え方】
+設問の what kinds of metals an asteroid contains（小惑星にどんな種類の金属がふくまれているか）と似た言葉を本文で探します。第3段落に In the next stage, robot spacecraft will be sent to land on asteroids and find out what metals they contain.（次の段階では、小惑星に着陸して、それらにどんな金属がふくまれているかを調べるために、ロボット宇宙船が送られる）とあります。they は asteroids（小惑星）を指します。
+本文と選択肢は次のように対応しています。
+本文 find out what metals they contain（どんな金属がふくまれているかを調べる）＝ 設問 discover what kinds of metals an asteroid contains（小惑星にどんな種類の金属がふくまれているかを見つけ出す）
+本文 robot spacecraft will be sent（ロボット宇宙船が送られる）＝ 選択肢 By sending robot spacecraft（ロボット宇宙船を送ることによって）
+本文 to land on asteroids（小惑星に着陸するために）＝ 選択肢 to visit asteroids（小惑星を訪れるために）
+正解は2です。
+【ほかの選択肢】
+1 国にお金を払って人を送ってもらうという話は本文にありません。本文で小惑星に送られるのはロボット宇宙船で、人ではありません。
+3 本文に出てくる政府とのかかわりは、会社が開発した望遠鏡を government space programs（政府の宇宙計画）に貸し出すことです。政府にデータを求めるという話ではありません。
+4 望遠鏡は、資金を得るために貸し出すことと、採掘の対象になりうる小惑星を見つけることに使われます。望遠鏡で小惑星を砕くという話はありません。
+【覚えるポイント】
+・find out ～：「～を調べる、～を見つけ出す」。
+・In the next stage：「次の段階では」。計画の順番を説明するときによく使います。

@@ -1,6 +1,7 @@
 ---
 choices: official | moral | economic | doubtful
 answerText: economic
+reviewed: yes
 ---
 【正解】3 economic（経済的な、お金に関わる）
 【和訳】

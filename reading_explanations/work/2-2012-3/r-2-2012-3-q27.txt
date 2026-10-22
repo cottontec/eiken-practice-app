@@ -1,6 +1,7 @@
 ---
 choices: sit down | come straight | ask around | look again
 answerText: look again
+reviewed: yes
 ---
 【正解】4 look again（（look again at ～ で）～をもう一度見直す、あらためて～に目を向ける）
 【和訳】

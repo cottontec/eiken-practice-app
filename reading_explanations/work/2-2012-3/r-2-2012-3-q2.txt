@@ -1,6 +1,7 @@
 ---
 choices: believably | silently | additionally | cruelly
 answerText: silently
+reviewed: yes
 ---
 【正解】2 silently（黙って、静かに）
 【和訳】

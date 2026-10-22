@@ -1,6 +1,7 @@
 ---
 choices: Naleds do not melt completely during the summer if they are thick enough. | Mongolia's soil has not been greatly affected by the changes in the climate. | Grayson's project has already been tried out in a number of other countries. | Winters have gradually become much colder in Mongolia over the past few decades.
 answerText: Naleds do not melt completely during the summer if they are thick enough.
+reviewed: yes
 ---
 【正解】1 Naleds do not melt completely during the summer if they are thick enough.（ナレドは、十分に厚ければ、夏の間に完全にはとけない。）
 【和訳】

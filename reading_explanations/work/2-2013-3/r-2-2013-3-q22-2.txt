@@ -1,0 +1,21 @@
+---
+choices: other | compared | Alice | to | Japanese
+answerText: compared
+order: 3 2 5 4 1
+---
+【正解】2 compared（この問題の2番目）
+【完成文】
+In a history report, ( Alice compared Japanese to other ) Asian languages such as Chinese.
+並べ方：3 Alice → 2 compared → 5 Japanese → 4 to → 1 other（2番目は2、4番目は4）
+【和訳】
+歴史のレポートで、アリスは日本語を、中国語などのほかのアジアの言語と比べました。彼女は、それらの言語は聞こえ方はとても違うけれども、共通点もたくさんあることに気づきました。
+【考え方】
+まず文の形を考えます。In a history report,（歴史のレポートで）のあとに空所があるので、空所の中には「だれが何をしたか」という文の中心が入ります。
+次の文は She found that ～（彼女は～ということに気づいた）です。She がだれなのかを表す人の名前は選択肢の 3 Alice しかないので、Alice を主語として先頭に置きます。
+主語のすぐあとには動詞がきます。選択肢の中で動詞は 2 compared（比べた）です。そのため compared は主語 Alice の直後、2番目に入ります。
+compare A to B は「AをBと比べる」という意味です。A に 5 Japanese（日本語）を置き、to のあとに other Asian languages（ほかのアジアの言語）が続くようにします。1 other は空所のあとの Asian languages の前に置くと「ほかのアジアの言語」となります。
+これで Alice compared Japanese to other Asian languages（アリスは日本語をほかのアジアの言語と比べた）となります。したがって2番目は2 compared です。
+まちがえやすいのは、Alice compared other Japanese to Asian languages のように other を Japanese の前に置く並べ方です。5語はすべて使えますが「ほかの日本語をアジアの言語と比べた」となり、意味が通りません。
+【覚えるポイント】
+・compare A to B：「AをBと比べる」（compare A with B とも言います）。
+・have ～ in common：「～を共通に持つ」。many things in common で「たくさんの共通点」。

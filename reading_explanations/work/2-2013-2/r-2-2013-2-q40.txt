@@ -1,0 +1,28 @@
+---
+choices: The system might make it difficult for drivers to concentrate. | The system might provide inaccurate driving information. | The system does not give warnings when cars are stopped. | The system has not been tested by the U.S. government.
+answerText: The system might make it difficult for drivers to concentrate.
+---
+【正解】1 The system might make it difficult for drivers to concentrate.（そのシステムによって、運転者が集中するのが難しくなるかもしれない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：V2Xを導入することについて、一部の人々が心配しているのはなぜですか。
+1 そのシステムによって、運転者が集中するのが難しくなるかもしれない。
+2 そのシステムは、不正確な運転の情報を与えるかもしれない。
+3 そのシステムは、車が止まっているときに警告を出さない。
+4 そのシステムは、アメリカ政府によってテストされていない。
+【考え方】
+設問の worried（心配している）と近い意味の言葉を本文で探します。第4段落に Some people, though, have concerns about it.（しかし、これについて心配している人々もいる）とあります。concern は「心配、気がかり」です。
+そのあとに心配の中身が2つ挙げられています。1つ目は One is that if the system gives out too many warnings, the driver will become annoyed or even lose concentration.（1つは、システムが警告を出しすぎると、運転者がいらいらしたり、集中力を失ったりさえするだろう、ということだ）です。2つ目は privacy（プライバシー）です。
+本文と選択肢は次のように対応しています。
+本文 have concerns about it（これについて心配している）＝ 設問 worried about introducing V2X（V2Xの導入について心配している）
+本文 the driver will ... lose concentration（運転者が集中力を失う）＝ 選択肢 make it difficult for drivers to concentrate（運転者が集中するのを難しくする）
+選択肢の make it difficult for A to ～ は「Aが～するのを難しくする」という意味です。正解は1です。
+【ほかの選択肢】
+2 本文の心配は「警告が多すぎること」と「プライバシー」です。システムの情報が正確でないかもしれない、という心配は書かれていません。
+3 第3段落に if a car ahead of you suddenly slows down or stops, the system will warn you（前の車が急にスピードを落としたり止まったりすると、システムが警告する）とあります。止まっている車についても警告するので、本文と反対の内容です。
+4 アメリカ政府がシステムをテストしたかどうかは本文に書かれていません。本文にあるのは、政府が自動車メーカーと共同で開発していることと、アメリカ運輸省が情報の使い道について主張していることです。
+【覚えるポイント】
+・have concerns about ～：「～について心配している」。
+・lose concentration：「集中力を失う」。

@@ -1,6 +1,7 @@
 ---
 choices: criticizing | defending | transforming | seeking
 answerText: seeking
+reviewed: yes
 ---
 【正解】4 seeking（探し求めている）
 【和訳】

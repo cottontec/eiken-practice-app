@@ -1,6 +1,7 @@
 ---
 choices: civilizations | scholars | facilities | degrees
 answerText: civilizations
+reviewed: yes
 ---
 【正解】1 civilizations（文明）
 【和訳】

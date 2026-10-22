@@ -1,6 +1,7 @@
 ---
 choices: continent | document | measurement | opponent
 answerText: document
+reviewed: yes
 ---
 【正解】2 document（書類、文書）
 【和訳】

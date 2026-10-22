@@ -1,6 +1,7 @@
 ---
 choices: concept | income | applause | network
 answerText: concept
+reviewed: yes
 ---
 【正解】1 concept（構想、考え）
 【和訳】

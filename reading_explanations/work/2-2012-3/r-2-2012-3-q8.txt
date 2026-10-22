@@ -1,6 +1,7 @@
 ---
 choices: occupied | calmed | established | insulted
 answerText: established
+reviewed: yes
 ---
 【正解】3 established（設立した、作った）
 【和訳】

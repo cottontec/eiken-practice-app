@@ -1,6 +1,7 @@
 ---
 choices: has suffered little from global warming. | has been getting steadily cooler for many years. | is warmer than in many surrounding countries. | is very different in winter and in summer.
 answerText: is very different in winter and in summer.
+reviewed: yes
 ---
 【正解】4 is very different in winter and in summer.（冬と夏で大きく違う。）
 【和訳】

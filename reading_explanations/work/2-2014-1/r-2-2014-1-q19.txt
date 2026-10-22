@@ -1,0 +1,19 @@
+---
+choices: need | had | need not | had not
+answerText: need not
+---
+【正解】3 need not（～する必要はない）
+【和訳】
+日本には、クレジットカードを受け付けない店がたくさんあります。しかし、アメリカでは、ほとんどすべての店がクレジットカードを受け付けるので、人々は現金を持ち歩く必要がありません。
+（選択肢の意味）1 need：必要とする　2 had：have の過去形　3 need not：～する必要はない　4 had not：had を否定した形
+【考え方】
+2文目は However（しかし）で始まり、1文目の日本の話と対比（2つを比べて違いを示すこと）しています。アメリカでは almost all stores accept them（ほとんどすべての店がクレジットカードを受け付ける）とあります。them は credit cards を指します。
+そのあとの so（だから）に注目します。ほとんどの店でカードが使えるのだから、現金を持ち歩かなくてもよいと考えられます。
+need not ＋ 動詞の元の形 で「～する必要はない」という意味になります。people need not carry cash で「人々は現金を持ち歩く必要がない」となり、so の前の理由とつながります。正解は3です。
+【ほかの選択肢】
+1 need を入れると people need carry cash となります。「～する必要がある」と言うなら need to carry とするのがふつうで、to がない形は使いません。また、「現金を持ち歩く必要がある」では、カードが使えるという理由と反対の内容になります。
+2 had を入れると people had carry cash となりますが、had のすぐあとに動詞の元の形 carry を置くことはできません。この文は現在の話でもあるので、過去形の had は合いません。
+4 had not を入れると people had not carry cash となりますが、2と同じく had not のあとに動詞の元の形は置けません。
+【覚えるポイント】
+・need not ＋ 動詞の元の形：「～する必要はない」。don't need to ～ とほぼ同じ意味です。
+・accept credit cards：「クレジットカードを受け付ける（使える）」。

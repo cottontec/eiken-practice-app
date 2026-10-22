@@ -1,6 +1,7 @@
 ---
 choices: She works for a company that moved to Grantville. | She is making efforts to save the old City Hall. | She has been trying to bring more people into Grantville. | She runs an organization that is cleaning up city parks.
 answerText: She is making efforts to save the old City Hall.
+reviewed: yes
 ---
 【正解】2 She is making efforts to save the old City Hall.（彼女は古い市庁舎を守るために努力している。）
 【和訳】

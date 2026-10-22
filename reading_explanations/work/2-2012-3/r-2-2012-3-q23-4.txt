@@ -2,6 +2,7 @@
 choices: learn | it | that she | surprised | her to
 answerText: learn
 order: 2 4 5 1 3
+reviewed: yes
 ---
 【正解】1 learn（この問題の4番目）
 【完成文】

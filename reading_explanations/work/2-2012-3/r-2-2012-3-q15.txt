@@ -1,6 +1,7 @@
 ---
 choices: shut off | take over | let down | break into
 answerText: let down
+reviewed: yes
 ---
 【正解】3 let down（がっかりさせる、期待を裏切る）
 【和訳】

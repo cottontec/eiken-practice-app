@@ -1,6 +1,7 @@
 ---
 choices: trust | status | youth | friendship
 answerText: status
+reviewed: yes
 ---
 【正解】2 status（（社会的な）地位）
 【和訳】

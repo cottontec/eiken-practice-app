@@ -1,6 +1,7 @@
 ---
 choices: creates a kind of acid that protects it from enemies. | is interesting to scientists because it has a very hard shell. | takes air from the water's surface to make its home stronger. | lives in a shelter that it makes from materials in the ocean.
 answerText: lives in a shelter that it makes from materials in the ocean.
+reviewed: yes
 ---
 【正解】4 lives in a shelter that it makes from materials in the ocean.（海の中の材料で自分で作った住みかに住んでいる。）
 【和訳】

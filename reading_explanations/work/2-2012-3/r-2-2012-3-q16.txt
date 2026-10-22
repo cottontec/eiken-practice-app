@@ -1,6 +1,7 @@
 ---
 choices: direct | single | familiar | worth
 answerText: worth
+reviewed: yes
 ---
 【正解】4 worth（（be worth ～ing で）～する価値がある）
 【和訳】

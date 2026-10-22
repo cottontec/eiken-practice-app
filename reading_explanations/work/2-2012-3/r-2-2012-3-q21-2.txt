@@ -2,6 +2,7 @@
 choices: travel | to | objected to | her decision | Jill's parents
 answerText: objected to
 order: 5 3 4 2 1
+reviewed: yes
 ---
 【正解】3 objected to（この問題の2番目）
 【完成文】

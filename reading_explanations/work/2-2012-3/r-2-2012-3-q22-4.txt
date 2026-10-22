@@ -2,6 +2,7 @@
 choices: may | our | the typhoon | through | well pass
 answerText: through
 order: 3 1 5 4 2
+reviewed: yes
 ---
 【正解】4 through（この問題の4番目）
 【完成文】

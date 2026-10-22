@@ -1,0 +1,26 @@
+---
+choices: giving up | forgetting about | going against | reacting to
+answerText: reacting to
+---
+【正解】4 reacting to（～に反応すること）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 giving up：～をあきらめること
+2 forgetting about：～について忘れること
+3 going against：～に逆らうこと
+4 reacting to：～に反応すること
+【考え方】
+空所は第2段落の It mainly does this by (　) the current pattern of day and night.（体内時計は主に、その時の昼と夜のパターンを～することによってこれを行う）にあります。
+does this（これを行う）が指すのは、前の文の The biological clock itself, though, adjusts its timing to the environment.（しかし、体内時計そのものは、そのタイミングを環境に合わせて調整する）の内容です。adjust A to B は「AをBに合わせて調整する」という意味です。つまり空所を含む文は、体内時計がどうやって昼と夜に合わせるのか、その方法を説明しています。
+空所のあとの文に As it gets dark, the brain releases a chemical called melatonin.（暗くなるにつれて、脳はメラトニンと呼ばれる化学物質を放出する）とあります。暗くなるという外の変化を受けて、体の中で変化が起きています。
+さらに第3段落の初めにも Because the biological clock responds to light levels（体内時計は光の量に反応するので）とあります。respond to も「～に反応する」という意味です。
+react to ～ は「～に反応する」という意味で、by reacting to the current pattern of day and night で「その時の昼と夜のパターンに反応することによって」となります。したがって4が正解です。
+【ほかの選択肢】
+1 giving up を入れると「昼と夜のパターンをあきらめることによって」となります。体内時計は昼と夜に合わせて調整するので、それをあきらめるのでは環境に合わせることができません。
+2 forgetting about を入れると「昼と夜のパターンを忘れることによって」となります。忘れてしまっては、暗くなるとメラトニンが出るという、昼と夜に合わせた働きの説明とつながりません。
+3 going against を入れると「昼と夜のパターンに逆らうことによって」となります。前の文の「環境に合わせて調整する」と反対の内容になるので合いません。
+【覚えるポイント】
+・react to ～ / respond to ～：「～に反応する」。本文ではこの2つが言いかえとして使われています。
+・adjust A to B：「AをBに合わせて調整する」。

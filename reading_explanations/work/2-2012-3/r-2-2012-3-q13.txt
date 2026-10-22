@@ -1,6 +1,7 @@
 ---
 choices: cover up | turn over | put away | bring back
 answerText: cover up
+reviewed: yes
 ---
 【正解】1 cover up（おおい隠す）
 【和訳】

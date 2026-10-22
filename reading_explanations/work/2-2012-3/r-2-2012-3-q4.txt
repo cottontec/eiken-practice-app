@@ -1,6 +1,7 @@
 ---
 choices: emotional | brilliant | independent | commercial
 answerText: emotional
+reviewed: yes
 ---
 【正解】1 emotional（感情的な、感情が高ぶった）
 【和訳】

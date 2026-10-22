@@ -1,0 +1,29 @@
+---
+choices: Return to his home in the morning when it is safe to do so. | Seal up all of the holes in his kitchen before Maria Lane arrives. | Spend the night somewhere else after his house is sprayed. | Stay out of his kitchen for four hours to avoid ants.
+answerText: Spend the night somewhere else after his house is sprayed.
+---
+【正解】3 Spend the night somewhere else after his house is sprayed.（家に薬剤がまかれたあと、どこか別の場所で夜を過ごす。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ブラッドリーさんは来週の水曜日に何をしなければなりませんか。
+1 安全になったら、朝に家に戻る。
+2 マリア・レーンが着く前に、台所の穴をすべてふさぐ。
+3 家に薬剤がまかれたあと、どこか別の場所で夜を過ごす。
+4 アリを避けるために、4時間台所に入らないでいる。
+【考え方】
+設問は「来週の水曜日に、ブラッドリーさんがしなければならないこと」です。メールの第1段落の最後に、バグアウト社が next Wednesday（来週の水曜日）に家に来ると書かれています。そこで、水曜日の作業について説明している第2段落を読みます。
+作業の流れは、まず壁の穴をふさぎ、After we do that, we'll spray the house with a chemical（そのあと、家に薬剤をまく）というものです。spray は「（液体を）吹きつける、まく」、chemical は「薬剤、化学薬品」です。
+そして However, the chemical that we use is dangerous, so you'll need to make arrangements to stay overnight at a friend's house or a hotel on Wednesday.（しかし、当社が使う薬剤は危険なので、水曜日は友人の家かホテルに泊まる手配をしていただく必要がある）とあります。stay overnight は「一晩泊まる」です。
+本文と選択肢は次のように対応しています。
+本文 stay overnight at a friend's house or a hotel（友人の家かホテルに一晩泊まる）＝ 選択肢 Spend the night somewhere else（どこか別の場所で夜を過ごす）
+本文 After we do that, we'll spray the house（そのあと家に薬剤をまく）、the chemical ... is dangerous（薬剤は危険だ）＝ 選択肢 after his house is sprayed（家に薬剤がまかれたあと）
+正解は3です。
+【ほかの選択肢】
+1 本文には It will not be safe for you to return to your home until after 3 p.m. on Thursday.（木曜日の午後3時を過ぎるまでは、家に戻るのは安全ではない）とあります。家に戻れるのは木曜日の午後3時以降で、水曜日でも朝でもないので、誤りです。
+2 本文では we're going to seal up any small holes in the walls（私たちが壁の小さな穴をふさぐ）とあり、穴をふさぐのはバグアウト社です。ブラッドリーさんが前もってふさぐという話ではないので、誤りです。
+4 本文の about four hours（約4時間）は、作業全体にかかる時間です。ブラッドリーさんは4時間台所に入らないだけではなく、その夜は家の外に泊まる必要があります。また「アリを避けるため」ではなく、薬剤が危険だからです。
+【覚えるポイント】
+・make arrangements to ～：「～する手配をする、～する準備をする」。
+・not ～ until …：「…まで～ない、…になって初めて～する」。

@@ -1,0 +1,21 @@
+---
+choices: her | give | to | refused | the money
+answerText: to
+order: 4 3 2 1 5
+---
+【正解】3 to（この問題の2番目）
+【完成文】
+He ( refused to give her the money ) because he thought that the sunglasses were too expensive.
+並べ方：4 refused → 3 to → 2 give → 1 her → 5 the money（2番目は3、4番目は1）
+【和訳】
+昨日、ジャックの13歳の娘が、サングラスを買えるように80ドルほしいと彼に頼みました。彼は、そのサングラスは高すぎると思ったので、娘にそのお金をあげるのを断りました。
+【考え方】
+まず話の流れを確かめます。娘はサングラスを買うために80ドルを頼みました。空所のあとには because he thought that the sunglasses were too expensive（彼はサングラスが高すぎると思ったので）とあります。高すぎると思ったのですから、ジャックはお金をあげなかったと考えられます。
+空所の前は He（彼は）なので、空所の最初には動詞がきます。4 refused（断った）を置きます。
+refuse は「refuse to ＋ 動詞の元の形」の形で「～することを断る」という意味になります。そのため 3 to は refused のすぐあと、2番目に入り、そのあとに 2 give（あげる）が続きます。
+give は「give ＋ 人 ＋ もの」の形で「人にものをあげる」となります。1 her（彼女に）、5 the money（そのお金）の順に並べます。
+これで refused to give her the money（彼女にそのお金をあげるのを断った）となります。したがって2番目は3 to です。
+まちがえやすいのは、refused give the money to her のように、to を her の前に回す並べ方です。give the money to her（彼女にお金をあげる）という形はありますが、to は1つしかないので refused のあとの to がなくなり、refused give となって文が成り立ちません。
+【覚えるポイント】
+・refuse to ～：「～することを断る、どうしても～しない」。
+・give ＋ 人 ＋ もの：「人にものをあげる」。

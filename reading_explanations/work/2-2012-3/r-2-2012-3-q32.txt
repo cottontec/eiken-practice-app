@@ -1,6 +1,7 @@
 ---
 choices: find | choose | lend | make
 answerText: lend
+reviewed: yes
 ---
 【正解】3 lend（貸す）
 【和訳】

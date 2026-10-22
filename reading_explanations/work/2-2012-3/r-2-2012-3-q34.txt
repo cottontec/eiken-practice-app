@@ -1,6 +1,7 @@
 ---
 choices: is working for a charity that helps save buildings. | hopes Mr. Pritchett will take her position at the GHS. | recently volunteered at St. Frances Park. | is the editor of a monthly newsletter.
 answerText: is working for a charity that helps save buildings.
+reviewed: yes
 ---
 【正解】1 is working for a charity that helps save buildings.（建物を守る手助けをしている慈善団体で働いている。）
 【和訳】

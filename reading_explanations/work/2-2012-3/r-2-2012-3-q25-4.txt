@@ -2,6 +2,7 @@
 choices: it | how | was | different | from
 answerText: it
 order: 4 5 2 1 3
+reviewed: yes
 ---
 【正解】1 it（この問題の4番目）
 【完成文】

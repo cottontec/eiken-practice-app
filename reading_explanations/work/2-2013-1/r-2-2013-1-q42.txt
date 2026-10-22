@@ -1,0 +1,27 @@
+---
+choices: felt that they were being made to produce too many products. | were worried that the government was planning to ban cheese. | argued that their products are healthier than the government said. | admitted that their products contained an unhealthy amount of fat.
+answerText: argued that their products are healthier than the government said.
+---
+【正解】3 argued that their products are healthier than the government said.（自分たちの製品は、政府が言ったよりも健康によいと主張した。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：デンマークの酪農家たちは…
+1 製品をあまりにも多く生産させられていると感じた。
+2 政府がチーズを禁止しようとしているのではないかと心配した。
+3 自分たちの製品は、政府が言ったよりも健康によいと主張した。
+4 自分たちの製品が、健康によくない量の脂肪を含んでいることを認めた。
+【考え方】
+dairy farmers（酪農家：牛などを飼って牛乳やチーズ、バターを作る人）は、第2段落に出てきます。
+For the same reason, Danish dairy farmers felt that the government was wrong to say that the foods they produce are unhealthy.（同じ理由から、デンマークの酪農家たちは、自分たちが生産する食べ物が健康によくないと政府が言うのは間違っていると感じた）
+政府は「酪農家の食べ物は健康によくない」と言いましたが、酪農家たちは「それは間違っている」と考えました。つまり酪農家たちは、自分たちの食べ物は政府が言うほど健康に悪くない、と考えているのです。すぐあとには、Cheese, for example, contains a lot of fat, but it does not seem to lead to health problems in the way other kinds of fat do.（たとえばチーズは、脂肪を多く含んでいるが、ほかの種類の脂肪のように健康の問題につながることはないようだ）と、その考えを支える例が続きます。本文と選択肢は次のように対応しています。
+本文 the government was wrong to say that the foods they produce are unhealthy（自分たちが生産する食べ物が健康によくないと政府が言うのは間違っている）＝ 選択肢 their products are healthier than the government said（自分たちの製品は、政府が言ったよりも健康によい）
+正解は3です。
+【ほかの選択肢】
+1 製品を多く作らされているという話は、本文にありません。
+2 本文で政府が行ったのは、脂肪に税金をかけることです。チーズを禁止しようとしていたという話はありません。
+4 本文には、チーズは脂肪を多く含むと書かれていますが、それが健康によくない量だとは書かれていません。酪農家たちは、自分たちの食べ物を健康によくないと言うのは間違っていると感じていたので、選択肢の内容は逆です。
+【覚えるポイント】
+・be wrong to ～：「～するのは間違っている」。
+・lead to ～：「～につながる、～を引き起こす」。

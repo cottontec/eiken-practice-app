@@ -1,0 +1,21 @@
+---
+choices: far | any | the teachers | of | as
+answerText: of
+order: 1 5 2 4 3
+---
+【正解】4 of（この問題の4番目）
+【完成文】
+Yes. Ms. Baker said that as ( far as any of the teachers ) know, the application isn't due until next month.
+並べ方：1 far → 5 as → 2 any → 4 of → 3 the teachers（2番目は5、4番目は4）
+【和訳】
+A：ジャッキー、マクスウェル大学の願書の締め切りがいつか聞いた？
+B：うん。ベイカーさんによると、どの先生が知っている限りでも、願書は来月まで締め切りにならないそうだよ。
+【考え方】
+4番目を決めるために、文全体の形から考えます。Bは、願書の締め切りについて先生たちが知っていることを伝えています。空所の前の as と、空所のあとの know に注目します。
+空所の前の as と選択肢の far、as で as far as（～する限りでは）を作ります。空所の中は 1 far → 5 as と始まります。
+そのあとには know の主語がきます。残った 2 any、4 of、3 the teachers から any of the teachers（先生たちのうちのだれでも）を作ります。any のすぐあとに of を置き、of のあとに the teachers を続けて「先生たちのうちのだれでも」というまとまりにします。そのため 4 of は any と the teachers の間、全体の4番目に入ります。
+並べると、1番目 far、2番目 as、3番目 any、4番目 of、5番目 the teachers です。したがって4番目は4 of です。
+まちがえやすいのは、any the teachers of のように of を最後に回す並べ方です。「～のうちのだれでも」という意味は any of ～ の順でしか表せないので、of を any の前やまとまりの最後に置くと、know の主語として意味の通る形になりません。
+【覚えるポイント】
+・any of ＋ 複数の人・もの：「～のうちのだれ（どれ）でも」。
+・as far as ＋ 主語 ＋ know：「（主語）が知っている限りでは」。

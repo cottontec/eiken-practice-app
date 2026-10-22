@@ -1,6 +1,7 @@
 ---
 choices: irritated | amused | generated | restored
 answerText: restored
+reviewed: yes
 ---
 【正解】4 restored（修復した、元の状態に戻した）
 【和訳】

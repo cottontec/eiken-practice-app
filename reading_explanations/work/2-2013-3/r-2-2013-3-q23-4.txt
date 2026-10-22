@@ -1,0 +1,21 @@
+---
+choices: will | in | an increase | result | the commercial
+answerText: in
+order: 5 1 4 2 3
+---
+【正解】2 in（この問題の4番目）
+【完成文】
+They hope that ( the commercial will result in an increase ) in sales.
+並べ方：5 the commercial → 1 will → 4 result → 2 in → 3 an increase（2番目は1、4番目は2）
+【和訳】
+フローラル・デザインズ社は、新しいテレビコマーシャルを作りました。同社は、そのコマーシャルが売り上げの増加につながることを期待しています。
+【考え方】
+4番目を決めるために、選択肢の 4 result と 2 in の組み合わせに注目します。result in ～ は「～という結果になる、～につながる」という決まった言い方です。
+会社は新しいコマーシャルを作り、それによって売り上げが伸びることを期待していると考えられます。そこで that のあとを「コマーシャルが売り上げの増加につながるだろう」という文にします。
+主語 5 the commercial のあとに 1 will（～だろう）、そして動詞 4 result を続けます。result のすぐあとに 2 in を置くことで「～につながる」の意味になるので、in は result の直後、全体の4番目に入ります。
+in のあとには「どんな結果か」を表す 3 an increase（増加）を置きます。空所のあとの in sales とつながって an increase in sales（売り上げの増加）になります。
+並べると、1番目 the commercial、2番目 will、3番目 result、4番目 in、5番目 an increase です。したがって4番目は2 in です。
+空所のあとにも in があるので、in が2回続くように見えますが、1つ目の in は result in の in、2つ目の in は an increase in sales（売り上げにおける増加）の in で、働きが違います。in を an increase のあとに回して result an increase in in sales のようにすると、文が成り立ちません。
+【覚えるポイント】
+・result in ～：「～という結果になる」。result from ～（～から生じる）と区別します。
+・an increase in sales：「売り上げの増加」。

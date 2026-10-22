@@ -1,0 +1,29 @@
+---
+choices: could have ended the tax on fats much sooner. | is more concerned about money than the health of its citizens. | has enough information to see if taxes on unhealthy foods are effective. | should ask other countries to make laws against selling fatty foods.
+answerText: is more concerned about money than the health of its citizens.
+---
+【正解】2 is more concerned about money than the health of its citizens.（市民の健康よりもお金のことを気にかけている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：多くの医師は、デンマーク政府が…と考えている。
+1 脂肪への税金をもっとずっと早く終わらせることもできた
+2 市民の健康よりもお金のことを気にかけている
+3 健康によくない食べ物への税金に効果があるかどうかを判断するのに十分な情報を持っている
+4 脂肪の多い食べ物を売ることを禁じる法律を作るよう、ほかの国々に頼むべきだ
+【考え方】
+many doctors（多くの医師）は、第4段落に出てきます。
+However, many doctors say that one year is not long enough to know if the tax helped Danish citizens' health.（しかし、多くの医師は、1年では、その税金がデンマーク市民の健康の役に立ったかどうかを知るのに十分な長さではないと言う）
+They claim that the Danish government is worried more about the economy than it is about the Danish people.（医師たちは、デンマーク政府はデンマークの人々のことよりも経済のことを心配している、と主張している）
+2つ目の文の They は many doctors です。医師たちは、デンマーク政府が、人々（の健康）のことよりも経済（お金のこと）を気にかけている、と考えているのです。第4段落の初めには、政府が For these reasons（こうした理由から）税金を1年で廃止したとあり、その理由には、前の段落の「デンマークの経済が約18億ドルを失った」ことも含まれています。本文と選択肢は次のように対応しています。
+本文 is worried more about the economy（経済のことをより心配している）＝ 選択肢 is more concerned about money（お金のことをより気にかけている）
+本文 than it is about the Danish people（デンマークの人々のことよりも）＝ 選択肢 than the health of its citizens（市民の健康よりも）
+正解は2です。
+【ほかの選択肢】
+1 医師たちは「1年では短すぎて、効果があったか分からない」と言っています。もっと早く終わらせることができたと考えているのではなく、むしろ逆です。
+3 医師たちは「1年では十分な長さではない」と言っているので、効果を判断するのに十分な情報があるとは考えていません。本文と反対の内容です。
+4 本文には、イギリスやフランス、ハンガリーが同じような税金を検討したり、かけたりしていることは書かれていますが、医師たちが「ほかの国に頼むべきだ」と言ったという話はありません。また、本文で話題になっているのは脂肪への税金で、販売を禁じる法律ではありません。
+【覚えるポイント】
+・be worried more about A than about B：「BよりもAのことを心配している」。
+・claim that ～：「～だと主張する」。

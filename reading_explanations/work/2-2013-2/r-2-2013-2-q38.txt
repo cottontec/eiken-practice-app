@@ -1,0 +1,28 @@
+---
+choices: uses radio signals to find cars that have been stolen by criminals. | requests information from drivers in different areas of the country. | will keep all cars at least 300 meters away from each other. | sends and receives signals to tell drivers where other cars are.
+answerText: sends and receives signals to tell drivers where other cars are.
+---
+【正解】4 sends and receives signals to tell drivers where other cars are.（ほかの車がどこにいるかを運転者に知らせるために、信号を送ったり受け取ったりする。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：アメリカ政府と自動車メーカーが開発しているのは、
+1 犯罪者に盗まれた車を見つけるために、電波の信号を使うシステムである。
+2 国のさまざまな地域の運転者に、情報を求めるシステムである。
+3 すべての車を、おたがいに少なくとも300メートル離しておくシステムである。
+4 ほかの車がどこにいるかを運転者に知らせるために、信号を送ったり受け取ったりするシステムである。
+【考え方】
+設問は、アメリカ政府と自動車メーカーが開発しているシステムがどんなものかをたずねています。第2段落に The United States government, together with a number of leading car manufacturers, is developing a system called V2X（アメリカ政府は、何社もの大手自動車メーカーと共同で、V2Xというシステムを開発している）とあり、そのしくみが説明されています。
+each car is fitted with a device that sends out radio signals 10 times a second（それぞれの車に、1秒間に10回電波の信号を送り出す装置が取り付けられる）、Each car also carries a receiver that picks up signals from other cars.（それぞれの車には、ほかの車からの信号を受け取る受信機も積まれている）とあります。そして Because of these signals, the device can detect the location of all other cars within 300 meters.（これらの信号のおかげで、装置は300メートル以内のほかのすべての車の位置を知ることができる）と続きます。第3段落では、この情報を使って運転者に警告したり教えたりする例が挙げられています。
+本文と選択肢は次のように対応しています。
+本文 sends out radio signals（信号を送り出す）と picks up signals from other cars（ほかの車からの信号を受け取る）＝ 選択肢 sends and receives signals（信号を送ったり受け取ったりする）
+本文 detect the location of all other cars（ほかのすべての車の位置を知る）、the system will warn you / it can tell you（システムが警告する、教える）＝ 選択肢 tell drivers where other cars are（ほかの車がどこにいるかを運転者に知らせる）
+正解は4です。
+【ほかの選択肢】
+1 電波の信号を使うことは本文にありますが、目的は事故を防ぐことです。盗まれた車を見つけるという話は本文にありません。
+2 本文で情報をやりとりするのは車に取り付けた装置どうしです。国のさまざまな地域の運転者に情報を求めるという話は書かれていません。
+3 300メートルは、装置がほかの車の位置を知ることのできる範囲です。車どうしを300メートル以上離しておく、という意味ではないので、誤りです。
+【覚えるポイント】
+・be fitted with ～：「～が取り付けられている」。
+・pick up signals：「信号を受け取る」。

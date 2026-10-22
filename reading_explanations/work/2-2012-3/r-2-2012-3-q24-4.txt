@@ -2,6 +2,7 @@
 choices: job | the | called | experience | for more
 answerText: for more
 order: 2 1 3 5 4
+reviewed: yes
 ---
 【正解】5 for more（この問題の4番目）
 【完成文】

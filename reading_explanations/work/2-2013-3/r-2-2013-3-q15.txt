@@ -1,0 +1,19 @@
+---
+choices: promise | chance | margin | cost
+answerText: cost
+---
+【正解】4 cost（at the cost of ～ で「～を犠牲にして」）
+【和訳】
+ポールは、姉か妹の卒業式と同じ日に、仕事の面接に呼ばれました。彼女の卒業は彼にとって大切でしたが、彼は自分のキャリア（仕事の経歴、将来）を（犠牲にして）卒業式に行きたいとは思いませんでした。
+（選択肢の意味）1 約束　2 機会、見込み　3 余白、差　4 費用、犠牲
+【考え方】
+1文目から、仕事の面接と卒業式が同じ日に重なってしまったことが分かります。
+2文目は Her graduation was important to him, but he did not want to go at the (　) of his career.（卒業は大切だったが、彼は自分のキャリアの～で行きたくはなかった）です。but（しかし）があるので、「卒業式は大切」とは反対の向きの内容、つまり卒業式に行くことをためらう理由が続きます。
+卒業式に行けば面接を受けられず、仕事の機会を失ってしまいます。at the cost of ～ は「～を犠牲にして（～を失うことと引きかえに）」という意味の決まった言い方です。go at the cost of his career で「自分のキャリアを犠牲にして（卒業式に）行く」となり、彼はそうしたくなかった、とつながります。したがって4が正解です。
+【ほかの選択肢】
+1 promise は「約束」です。at the promise of his career という言い方はなく、意味が通りません。
+2 chance は「機会、見込み」です。at the chance of his career という言い方はなく、「キャリアを失う」という内容にもなりません。
+3 margin は「余白、（数量の）差」です。at the margin of his career では「キャリアの端で」のような意味になり、面接をあきらめたくないという話とつながりません。
+【覚えるポイント】
+・at the cost of ～：「～を犠牲にして」。
+・be called for a job interview：「仕事の面接に呼ばれる」。

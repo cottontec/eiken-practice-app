@@ -1,6 +1,7 @@
 ---
 choices: sense | room | trouble | work
 answerText: room
+reviewed: yes
 ---
 【正解】2 room（空間、場所）
 【和訳】
