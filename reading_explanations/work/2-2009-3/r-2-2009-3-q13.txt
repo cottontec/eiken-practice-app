@@ -1,6 +1,7 @@
 ---
 choices: out | off | around | down
 answerText: off
+reviewed: yes
 ---
 【正解】2 off（lay off で「～を解雇する」）
 【和訳】

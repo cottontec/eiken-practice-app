@@ -1,6 +1,7 @@
 ---
 choices: required | employed | failing | waiting
 answerText: required
+reviewed: yes
 ---
 【正解】1 required（be required to ～ で「～するよう義務づけられている」）
 【和訳】

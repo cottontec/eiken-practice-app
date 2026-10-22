@@ -1,6 +1,7 @@
 ---
 choices: serious | thrilling | fragile | mature
 answerText: thrilling
+reviewed: yes
 ---
 【正解】2 thrilling（わくわくする、スリル満点の）
 【和訳】

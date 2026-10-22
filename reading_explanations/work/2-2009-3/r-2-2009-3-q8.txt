@@ -1,6 +1,7 @@
 ---
 choices: experiment | philosophy | discrimination | conference
 answerText: philosophy
+reviewed: yes
 ---
 【正解】2 philosophy（考え方、人生観）
 【和訳】

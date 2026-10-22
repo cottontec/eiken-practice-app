@@ -1,6 +1,7 @@
 ---
 choices: up | out | down | off
 answerText: down
+reviewed: yes
 ---
 【正解】3 down（turn down で「～を断る、却下する」）
 【和訳】

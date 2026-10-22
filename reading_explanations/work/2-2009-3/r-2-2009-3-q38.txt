@@ -1,6 +1,7 @@
 ---
 choices: to increase the speed at which computers operate. | to help protect a computer when it is dropped. | to count the number of connections on a network. | to send information from one seismometer to another.
 answerText: to help protect a computer when it is dropped.
+reviewed: yes
 ---
 【正解】2 to help protect a computer when it is dropped.（コンピューターが落とされたときに、それを守るのに役立つこと。）
 【和訳】

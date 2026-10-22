@@ -1,6 +1,7 @@
 ---
 choices: judgment | hesitation | confidence | contribution
 answerText: contribution
+reviewed: yes
 ---
 【正解】4 contribution（貢献、役に立つ働き）
 【和訳】

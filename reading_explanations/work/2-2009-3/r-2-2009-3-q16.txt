@@ -1,6 +1,7 @@
 ---
 choices: of no use | on the move | out of stock | to the point
 answerText: on the move
+reviewed: yes
 ---
 【正解】2 on the move（活発に動いている、発展している）
 【和訳】

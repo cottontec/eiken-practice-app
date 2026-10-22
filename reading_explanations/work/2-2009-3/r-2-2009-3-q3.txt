@@ -1,6 +1,7 @@
 ---
 choices: parade | disaster | reward | luxury
 answerText: disaster
+reviewed: yes
 ---
 【正解】2 disaster（災害、大きな不幸）
 【和訳】

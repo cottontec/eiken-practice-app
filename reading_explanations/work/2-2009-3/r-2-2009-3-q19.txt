@@ -1,6 +1,7 @@
 ---
 choices: saying | being said | said | be saying
 answerText: saying
+reviewed: yes
 ---
 【正解】1 saying（～と書いてある）
 【和訳】

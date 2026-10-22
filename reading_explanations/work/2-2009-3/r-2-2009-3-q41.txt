@@ -1,6 +1,7 @@
 ---
 choices: Carbon dioxide in the atmosphere is killing trees. | Trees in many forests are being damaged by animals. | The soil trees need is being washed away by floods. | People are turning forest land into farms.
 answerText: People are turning forest land into farms.
+reviewed: yes
 ---
 【正解】4 People are turning forest land into farms.（人々が森林の土地を農地に変えている。）
 【和訳】

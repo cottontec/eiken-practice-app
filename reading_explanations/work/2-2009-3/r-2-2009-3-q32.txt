@@ -1,6 +1,7 @@
 ---
 choices: delayed | returned | examined | shared
 answerText: delayed
+reviewed: yes
 ---
 【正解】1 delayed（遅らされる）
 【和訳】

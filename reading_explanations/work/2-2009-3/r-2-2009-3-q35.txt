@@ -1,6 +1,7 @@
 ---
 choices: A photo gallery would help the center find new owners for its animals. | Pictures of people who have given money could be shown on it. | People should be able to buy animals on it with their credit cards. | It should contain less information than is on the current website.
 answerText: A photo gallery would help the center find new owners for its animals.
+reviewed: yes
 ---
 【正解】1 A photo gallery would help the center find new owners for its animals.（写真ギャラリーは、センターが動物たちの新しい飼い主を見つける助けになるだろう。）
 【和訳】

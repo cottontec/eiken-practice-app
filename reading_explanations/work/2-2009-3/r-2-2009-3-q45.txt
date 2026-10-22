@@ -1,6 +1,7 @@
 ---
 choices: It may persuade farmers to plant seeds using airplanes. | It may reduce the demand for wood in the United States. | It may increase the amount of wood available for human use. | It may allow trees to live for a longer period of time.
 answerText: It may increase the amount of wood available for human use.
+reviewed: yes
 ---
 【正解】3 It may increase the amount of wood available for human use.（人間が利用できる木材の量を増やすかもしれない。）
 【和訳】

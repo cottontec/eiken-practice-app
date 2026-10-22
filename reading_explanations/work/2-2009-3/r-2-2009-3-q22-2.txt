@@ -2,6 +2,7 @@
 choices: had difficulty | some of | finding | the employees | the
 answerText: the employees
 order: 2 4 1 3 5
+reviewed: yes
 ---
 【正解】4 the employees（この問題の2番目）
 【完成文】

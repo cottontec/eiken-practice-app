@@ -1,0 +1,20 @@
+---
+choices: no | studying | less important | than | is
+answerText: no
+order: 5 1 3 4 2
+---
+【正解】1 no（この問題の2番目）
+【完成文】
+She often tells her students that sleeping ( is no less important than studying ), especially the night before an exam.
+並べ方：5 is → 1 no → 3 less important → 4 than → 2 studying（2番目は1、4番目は4）
+【和訳】
+ジャクソン先生は、高校生が十分に休息をとることが大切だと考えています。先生はよく生徒たちに、特に試験の前の晩には、眠ることは勉強することに劣らず大切だと言っています。
+【考え方】
+まず1文目を確認します。Ms. Jackson thinks it is important for high school students to get plenty of rest.（ジャクソン先生は、高校生が十分に休息をとることが大切だと考えている）とあります。先生は、休むこと、つまり眠ることを大切にしていると分かります。
+空所の前の that sleeping の sleeping（眠ること）が、that のあとの文の主語です。主語のあとには動詞が必要なので、5 is を置きます。
+残りの no、less important、than、studying で、A is no less ～ than B（AはBに劣らず～だ、AはBと同じくらい～だ）という比べる言い方を作ります。is のあとに 1 no → 3 less important → 4 than → 2 studying と並べると、sleeping is no less important than studying（眠ることは勉強することに劣らず大切だ）となります。no less は「少しも少なくない」、つまり「劣らない」という意味です。休息を大切にする先生の考えとも合います。
+したがって2番目は1 no です。
+no を入れずに sleeping is less important than studying とすると「眠ることは勉強より大切ではない」となり、先生の考えと反対になってしまいます。no は less の前に置くことで「劣らない」という意味を作っています。
+【覚えるポイント】
+・A is no less ～ than B：「AはBに劣らず～だ、AはBと同じくらい～だ」。
+・get plenty of rest：「十分に休息をとる」。

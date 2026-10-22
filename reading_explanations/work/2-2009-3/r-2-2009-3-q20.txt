@@ -1,6 +1,7 @@
 ---
 choices: by | to | at | for
 answerText: for
+reviewed: yes
 ---
 【正解】4 for（～と引きかえに、～の代金として）
 【和訳】

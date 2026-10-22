@@ -1,6 +1,7 @@
 ---
 choices: unnatural | unclear | unfair | unlimited
 answerText: unclear
+reviewed: yes
 ---
 【正解】2 unclear（はっきりしない）
 【和訳】

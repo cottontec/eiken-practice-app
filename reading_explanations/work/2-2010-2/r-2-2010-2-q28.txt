@@ -1,0 +1,25 @@
+---
+choices: exchange | reduce | ignore | preserve
+answerText: reduce
+---
+【正解】2 reduce（～を減らす）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 exchange：～を交換する
+2 reduce：～を減らす
+3 ignore：～を無視する
+4 preserve：～を保護する、～をそのまま保つ
+【考え方】
+空所は第3段落の最初の文 In response to these problems, an international movement is now trying to (　) the effects of artificial light.（こうした問題を受けて、現在、国際的な運動が人工の光の影響を〜しようとしている）にあります。
+In response to ～ は「～を受けて、～に応じて」です。these problems（これらの問題）は、第2段落で説明された、人間の健康や野生生物への悪い影響のことです。問題に対して行う運動ですから、悪い影響を小さくしようとしていると考えられます。
+続く文も確認します。国際ダークスカイ協会は the protection of areas of the sky from light pollution（空の区域を光害から守ること）を呼びかけ、use public lighting more efficiently（公共の照明をもっと効率よく使う）よう政府を説得しようとしています。さらに Creating less light would … lead to less light pollution（作り出す光を減らせば光害が減る）とあります。
+どれも人工の光の悪い影響を「減らす」ための取り組みです。reduce は「～を減らす」なので、2が正解です。
+【ほかの選択肢】
+1 exchange は「～を交換する」です。「人工の光の影響を交換しようとしている」では、何と取りかえるのかが分からず、問題への取り組みとして意味が通りません。
+3 ignore は「～を無視する」です。運動は問題を受けて起きたもので、そのあとには光害を減らすための具体的な活動が書かれています。「影響を無視しようとしている」では反対の内容になります。
+4 preserve は「～を保護する、～をそのまま保つ」です。続く文に protection（保護）という語がありますが、守ろうとしているのは「空の区域」で、人工の光の影響ではありません。「影響を保とうとしている」では、悪い影響をそのままにすることになり、合いません。
+【覚えるポイント】
+・in response to ～：「～を受けて、～に応じて」。
+・reduce the effects of ～：「～の影響を減らす」。

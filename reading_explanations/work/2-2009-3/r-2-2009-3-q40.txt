@@ -1,6 +1,7 @@
 ---
 choices: It is helping people protect their computers from damage. | It is helping people measure the size of the network. | It has already saved many lives in Los Angeles. | It has already recorded one earthquake.
 answerText: It has already recorded one earthquake.
+reviewed: yes
 ---
 【正解】4 It has already recorded one earthquake.（すでに1つの地震を記録している。）
 【和訳】

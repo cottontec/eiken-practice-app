@@ -1,6 +1,7 @@
 ---
 choices: they can work only in certain parts of the world. | they are extremely difficult to move around. | many countries cannot afford to own them. | many researchers find them too complicated.
 answerText: many countries cannot afford to own them.
+reviewed: yes
 ---
 【正解】3 many countries cannot afford to own them.（多くの国には、それらを所有するだけのお金の余裕がない。）
 【和訳】

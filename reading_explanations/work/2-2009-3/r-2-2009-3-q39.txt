@@ -1,6 +1,7 @@
 ---
 choices: It makes it easier to tell whether movements are actually caused by earthquakes. | Not all of the computers in the network are able to record sudden movements. | Software can be sent over the network to prevent damage to the computers. | Different types of accelerometers react to different types of earthquakes.
 answerText: It makes it easier to tell whether movements are actually caused by earthquakes.
+reviewed: yes
 ---
 【正解】1 It makes it easier to tell whether movements are actually caused by earthquakes.（動きが本当に地震によって起きたものかどうかを見分けやすくなる。）
 【和訳】

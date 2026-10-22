@@ -1,6 +1,7 @@
 ---
 choices: For instance | In particular | Therefore | Nevertheless
 answerText: Therefore
+reviewed: yes
 ---
 【正解】3 Therefore（それゆえ、そのため）
 【和訳】

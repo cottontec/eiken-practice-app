@@ -1,0 +1,21 @@
+---
+choices: no | studying | less important | than | is
+answerText: than
+order: 5 1 3 4 2
+---
+【正解】4 than（この問題の4番目）
+【完成文】
+She often tells her students that sleeping ( is no less important than studying ), especially the night before an exam.
+並べ方：5 is → 1 no → 3 less important → 4 than → 2 studying（2番目は1、4番目は4）
+【和訳】
+ジャクソン先生は、高校生が十分に休息をとることが大切だと考えています。先生はよく生徒たちに、特に試験の前の晩には、眠ることは勉強することに劣らず大切だと言っています。
+【考え方】
+1文目から、ジャクソン先生は高校生が十分に休むことを大切だと考えていると分かります。
+空所の前の sleeping（眠ること）が主語なので、まず動詞の 5 is を置きます。
+次に、less important（より大切でない）と than（～よりも）があることから、比べる文を作ると考えます。than のあとには、比べる相手がきます。ここで眠ることと比べる相手は、2 studying（勉強すること）です。
+さらに 1 no を less important の前に置くと、no less important（少しも劣らず大切な）となります。並べると is → no → less important → than → studying となり、sleeping is no less important than studying（眠ることは勉強することに劣らず大切だ）が完成します。
+したがって4番目は4 than です。
+studying を than の前に置いて … no less important studying than … とすると、比べる相手が than のあとに来なくなり、文が成り立ちません。than のすぐあとに、比べる相手の studying を置きます。
+【覚えるポイント】
+・A is no less ～ than B：「AはBに劣らず～だ」。than のあとに比べる相手（B）を置きます。
+・especially：「特に」。

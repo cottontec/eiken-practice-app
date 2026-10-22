@@ -1,6 +1,7 @@
 ---
 choices: greeted | hunted | stirred | earned
 answerText: stirred
+reviewed: yes
 ---
 【正解】3 stirred（～をかき混ぜた）
 【和訳】

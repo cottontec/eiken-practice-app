@@ -1,6 +1,7 @@
 ---
 choices: precisely | mentally | eagerly | silently
 answerText: mentally
+reviewed: yes
 ---
 【正解】2 mentally（精神的に、頭が）
 【和訳】

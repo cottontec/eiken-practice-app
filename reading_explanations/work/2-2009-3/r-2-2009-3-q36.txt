@@ -1,6 +1,7 @@
 ---
 choices: Whether she has met any of his other clients. | If she received the list of websites he sent her. | What colors she would like to use in the website. | When she can meet him to discuss the new website.
 answerText: When she can meet him to discuss the new website.
+reviewed: yes
 ---
 【正解】4 When she can meet him to discuss the new website.（新しいウェブサイトについて話し合うために、いつ彼と会えるか。）
 【和訳】

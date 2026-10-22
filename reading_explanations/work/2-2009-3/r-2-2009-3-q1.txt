@@ -1,6 +1,7 @@
 ---
 choices: revised | injured | extended | displayed
 answerText: displayed
+reviewed: yes
 ---
 【正解】4 displayed（展示される、飾られる）
 【和訳】

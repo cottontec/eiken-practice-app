@@ -2,6 +2,7 @@
 choices: make | couldn't | heard | she | herself
 answerText: couldn't
 order: 4 2 1 5 3
+reviewed: yes
 ---
 【正解】2 couldn't（この問題の2番目）
 【完成文】

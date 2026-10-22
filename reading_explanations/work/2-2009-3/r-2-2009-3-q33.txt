@@ -1,6 +1,7 @@
 ---
 choices: confusing | pleasant | foolish | public
 answerText: pleasant
+reviewed: yes
 ---
 【正解】2 pleasant（楽しい、心地よい）
 【和訳】

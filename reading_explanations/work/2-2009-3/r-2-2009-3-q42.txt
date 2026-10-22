@@ -1,6 +1,7 @@
 ---
 choices: trees are being cut down faster than new ones can be planted. | in some forests it has become too hot for most trees to grow. | tree seeds have become too expensive to use in many areas. | the seeds of many tree species are no longer available to buy.
 answerText: trees are being cut down faster than new ones can be planted.
+reviewed: yes
 ---
 【正解】1 trees are being cut down faster than new ones can be planted.（新しい木を植えられる速さよりも速く、木が切りたおされている。）
 【和訳】

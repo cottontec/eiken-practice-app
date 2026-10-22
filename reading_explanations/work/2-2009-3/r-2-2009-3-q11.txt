@@ -1,6 +1,7 @@
 ---
 choices: move | keep | make | start
 answerText: make
+reviewed: yes
 ---
 【正解】3 make（make time で「時間を作る」）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: question | borrow | promote | ignore
 answerText: promote
+reviewed: yes
 ---
 【正解】3 promote（～を推し進める、広める）
 【和訳】

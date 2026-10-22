@@ -1,6 +1,7 @@
 ---
 choices: charges a little more than most other web-design companies. | received an e-mail from somebody who had a pet that needed help. | will offer its services to Ms. Turner's charity at a reduced price. | has given 25 percent of its profits to Parkfield Animal Rescue.
 answerText: will offer its services to Ms. Turner's charity at a reduced price.
+reviewed: yes
 ---
 【正解】3 will offer its services to Ms. Turner's charity at a reduced price.（ターナーさんの慈善団体に、値下げした価格でサービスを提供するつもりだ。）
 【和訳】

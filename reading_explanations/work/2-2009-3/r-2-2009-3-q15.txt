@@ -1,6 +1,7 @@
 ---
 choices: word | hand | place | step
 answerText: place
+reviewed: yes
 ---
 【正解】3 place（take one's place で「～の代わりをする」）
 【和訳】

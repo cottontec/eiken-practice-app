@@ -1,0 +1,20 @@
+---
+choices: by | paid | the | is | hour
+answerText: paid
+order: 4 2 1 3 5
+---
+【正解】2 paid（この問題の2番目）
+【完成文】
+Takeshi is a cook at a restaurant. He ( is paid by the hour ), so he tries to work as many hours as he can.
+並べ方：4 is → 2 paid → 1 by → 3 the → 5 hour（2番目は2、4番目は3）
+【和訳】
+タケシはレストランの料理人です。彼は時間単位で給料をもらっているので、できるだけ多くの時間働こうとしています。
+【考え方】
+まず、空所のあとの so he tries to work as many hours as he can（だから彼はできるだけ多くの時間働こうとしている）に注目します。as many ～ as he can は「できるだけ多くの～」です。長く働こうとする理由が、空所に入ると考えられます。
+選択肢に is と paid があるので、is paid（支払われる）という形を作ります。be動詞（is など）のあとに paid のような形を置くと、「～される」という意味になります。He is paid で「彼は（給料を）支払われる」です。
+残りの by、the、hour で by the hour（1時間単位で）を作ります。by the ～ は「～単位で」という意味です。He is paid by the hour で「彼は1時間いくらで給料をもらっている（時給で働いている）」となります。時給なら、長く働くほどもらえるお金が増えるので、so のあとの「できるだけ多くの時間働こうとしている」とつながります。
+したがって2番目は2 paid です。
+まちがえやすいのは、He paid is … のように paid を先に置く並べ方です。主語 He のすぐあとに is を置いて、is paid の順にします。
+【覚えるポイント】
+・be paid by the hour：「時給で給料をもらう、1時間単位で支払われる」。
+・as many ～ as one can：「できるだけ多くの～」。

@@ -1,6 +1,7 @@
 ---
 choices: Fly by itself to find new forest areas. | Provide information to help farmers plant trees. | Allow the tree inside it to grow in the earth. | Send out a signal to tell scientists where it is.
 answerText: Allow the tree inside it to grow in the earth.
+reviewed: yes
 ---
 【正解】3 Allow the tree inside it to grow in the earth.（中の木が地中で育つことができるようにすること。）
 【和訳】

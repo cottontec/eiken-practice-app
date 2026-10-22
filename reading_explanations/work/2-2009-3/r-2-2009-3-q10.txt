@@ -1,6 +1,7 @@
 ---
 choices: desire | habit | fuel | task
 answerText: desire
+reviewed: yes
 ---
 【正解】1 desire（願望、強い望み）
 【和訳】

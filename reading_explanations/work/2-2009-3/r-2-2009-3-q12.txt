@@ -1,6 +1,7 @@
 ---
 choices: pass by | take after | go with | bring down
 answerText: go with
+reviewed: yes
 ---
 【正解】3 go with（～に合う、～と調和する）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: but | and | for | as
 answerText: but
+reviewed: yes
 ---
 【正解】1 but（～以外、～のほかは）
 【和訳】

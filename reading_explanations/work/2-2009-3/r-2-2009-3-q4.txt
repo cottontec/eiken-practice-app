@@ -1,6 +1,7 @@
 ---
 choices: composed | limited | postponed | achieved
 answerText: achieved
+reviewed: yes
 ---
 【正解】4 achieved（～を達成した、成しとげた）
 【和訳】

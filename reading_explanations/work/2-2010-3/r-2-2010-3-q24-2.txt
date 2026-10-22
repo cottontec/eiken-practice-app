@@ -1,0 +1,20 @@
+---
+choices: with | do | little | has | to
+answerText: little
+order: 4 3 5 2 1
+---
+【正解】3 little（この問題の2番目）
+【完成文】
+Angela studied history in college, but her current job ( has little to do with ) history.
+並べ方：4 has → 3 little → 5 to → 2 do → 1 with（2番目は3、4番目は2）
+【和訳】
+アンジェラは大学で歴史を勉強しましたが、今の仕事は歴史とはほとんど関係がありません。彼女は保険会社で管理職をしています。
+【考え方】
+まず文の流れを確認します。前半は Angela studied history in college（アンジェラは大学で歴史を勉強した）で、but（しかし）が続きます。2文目には She is a manager at an insurance company.（彼女は保険会社の管理職だ）とあります。保険会社の仕事は歴史とは結びつきにくいので、but のあとは「今の仕事は歴史とあまり関係がない」という内容になると考えられます。
+空所の前の her current job（彼女の今の仕事）が主語です。主語のあとには動詞が必要なので、4 has を置きます。
+残りの little、to、do、with で、have little to do with ～（～とほとんど関係がない）という決まった言い方を作ります。主語が her current job なので have は has の形です。has → little → to → do → with と並べ、空所のあとの history につなげます。
+したがって2番目は3 little です。
+have something to do with ～ なら「～と関係がある」、have nothing to do with ～ なら「～とまったく関係がない」となります。little は「ほとんどない」という意味で、その中間の「ほとんど関係がない」を表しています。
+【覚えるポイント】
+・have little to do with ～：「～とほとんど関係がない」。
+・current：「現在の、今の」。

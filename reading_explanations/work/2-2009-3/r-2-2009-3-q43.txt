@@ -1,6 +1,7 @@
 ---
 choices: Planting seeds in places where trees had never grown before. | Dropping the seeds of trees over mountain areas from airplanes. | Using airplanes to check how quickly forests were growing. | Studying the types of seeds eaten by animals in forests.
 answerText: Dropping the seeds of trees over mountain areas from airplanes.
+reviewed: yes
 ---
 【正解】2 Dropping the seeds of trees over mountain areas from airplanes.（飛行機から山の地域の上に木の種を落とすこと。）
 【和訳】

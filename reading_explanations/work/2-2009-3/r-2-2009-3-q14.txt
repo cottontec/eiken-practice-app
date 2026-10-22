@@ -1,6 +1,7 @@
 ---
 choices: No wonder | Before long | By accident | In case
 answerText: No wonder
+reviewed: yes
 ---
 【正解】1 No wonder（どうりで～なわけだ）
 【和訳】

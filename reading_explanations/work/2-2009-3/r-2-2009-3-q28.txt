@@ -1,6 +1,7 @@
 ---
 choices: mixture | theory | discovery | opportunity
 answerText: opportunity
+reviewed: yes
 ---
 【正解】4 opportunity（機会、チャンス）
 【和訳】

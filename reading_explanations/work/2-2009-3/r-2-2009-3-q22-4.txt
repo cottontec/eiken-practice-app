@@ -2,6 +2,7 @@
 choices: had difficulty | some of | finding | the employees | the
 answerText: finding
 order: 2 4 1 3 5
+reviewed: yes
 ---
 【正解】3 finding（この問題の4番目）
 【完成文】

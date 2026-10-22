@@ -1,6 +1,7 @@
 ---
 choices: fastened | delayed | adjusted | banned
 answerText: banned
+reviewed: yes
 ---
 【正解】4 banned（～を禁止した）
 【和訳】
