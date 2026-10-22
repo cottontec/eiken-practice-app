@@ -1,0 +1,29 @@
+---
+choices: the debate will make students want to visit Southbridge Children's Hospital. | Mr. Howard will agree to take part in a program on Southbridge Radio. | Joan Kent's radio interview will help the club sell more tickets. | a local radio station will broadcast the debate on March 3.
+answerText: Joan Kent's radio interview will help the club sell more tickets.
+---
+【正解】3 Joan Kent's radio interview will help the club sell more tickets.（ジョーン・ケントのラジオのインタビューで、部がもっと多くのチケットを売れるようになる〔ことを望んでいる〕。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：カレン・スティーブンスは、（　　）ことを望んでいると言っています。
+1 ディベートによって、学生たちがサウスブリッジ小児病院を訪れたいと思うようになる
+2 ハワードさんがサウスブリッジ・ラジオの番組に出ることに同意してくれる
+3 ジョーン・ケントのラジオのインタビューで、部がもっと多くのチケットを売れるようになる
+4 地元のラジオ局が3月3日にディベートを放送する
+【考え方】
+設問は「カレンは何を望んでいると言っているか」です。本文で、カレンの期待や希望が表れている文をさがします。
+第3段落を見ます。At the end of February, Southbridge Radio will broadcast a short news story about the debate, during which a reporter will interview Ms. Kent.（2月末には、サウスブリッジ・ラジオがこのディベートについての短いニュースを放送し、その中で記者がケントさんにインタビューします）とあります。
+続く文が With luck, the interview will make more people want to come to the event.（うまくいけば、そのインタビューで、この催しに来たいと思う人が増えるでしょう）です。With luck は「うまくいけば、運がよければ」という意味で、カレンの希望を表しています。
+さらに、同じ段落に We will sell tickets to the public for $10 each.（一般の人々に1枚10ドルでチケットを販売します）とあります。催しに来たい人が増えれば、それだけチケットが多く売れることになります。本文と選択肢は次のように対応しています。
+本文 the interview（記者によるケントさんへのラジオのインタビュー）＝ 選択肢 Joan Kent's radio interview
+本文 make more people want to come to the event（催しに来たいと思う人を増やす）＝ 選択肢 help the club sell more tickets（部がもっと多くのチケットを売る助けになる）
+正解は3です。
+【ほかの選択肢】
+1 ディベートの目的は raise money for Southbridge Children's Hospital（サウスブリッジ小児病院のためにお金を集める）ことです。学生が病院を訪れたいと思うようになることを望む、という話は本文にありません。
+2 サウスブリッジ・ラジオでインタビューを受けるのはケントさんです。ハワードさんがラジオ番組に出るという話は本文にないので、人物がちがいます。
+4 ラジオが放送するのは、2月末のディベートについての短いニュースです。3月3日にディベートそのものを放送するとは書かれていないので、時期と内容がちがいます。
+【覚えるポイント】
+・With luck, ～：「うまくいけば～」。書き手の希望を表す言い方です。
+・make ＋人＋ want to ～：「人に～したいと思わせる」。

@@ -1,0 +1,28 @@
+---
+choices: The R type gives muscles more power for a short time. | The R type is usually found together with another R type. | The X type always comes from the DNA of one's mother. | The X type makes it hard for people to do well at sports.
+answerText: The R type gives muscles more power for a short time.
+---
+【正解】1 The R type gives muscles more power for a short time.（R型は短い間、筋肉により大きな力を与える。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ACTN3のR型とX型はどのようにちがいますか。
+1 R型は短い間、筋肉により大きな力を与える。
+2 R型はふつう、もう1つのR型といっしょに見られる。
+3 X型はいつも母親のDNAから受け継がれる。
+4 X型があると、人はスポーツでよい成績をあげるのが難しくなる。
+【考え方】
+R型とX型のちがいは、第2段落に説明されています。
+4文目に The R type of gene causes the body to build a protein that gives muscles a short burst of extra power.（R型の遺伝子は、筋肉に短い間だけ特別な力を与えるたんぱく質を体に作らせる）とあります。a short burst of ～ は「短い間に一気に出る～」、extra power は「特別な（ふだん以上の）力」です。
+5文目には The X type stops this protein from being produced.（X型は、このたんぱく質が作られないようにする）とあります。つまり、R型はこの力を出すたんぱく質を作らせ、X型は作らせない、という点がちがいです。
+本文と選択肢は次のように対応しています。
+本文 gives muscles a short burst of extra power（筋肉に短い間だけ特別な力を与える）＝ 選択肢 gives muscles more power for a short time（短い間、筋肉により大きな力を与える）
+本文では「R型がたんぱく質を作らせ、そのたんぱく質が力を与える」という順に書かれていますが、R型があることで筋肉が短い間大きな力を得られる、という点は同じです。正解は1です。
+【ほかの選択肢】
+2 本文には Although many people have one of each type（多くの人は両方の型を1つずつもっている）とあります。R型がふつうもう1つのR型といっしょに見られる、というのは本文と反対です。R型を2つもつ可能性が高いのは、短い時間速く走るのが得意な人の場合だけです。
+3 本文には one from their mother and one from their father（1つは母親から、もう1つは父親から）とありますが、X型がいつも母親から来るとは書かれていません。
+4 本文には、長い距離を走るのが得意な人は X型を2つもっている可能性が高いという証拠もある、と書かれています。X型があるとスポーツが苦手になる、とは書かれていないので言い切りすぎです。
+【覚えるポイント】
+・a short burst of ～：「短い間に一気に出る～」。
+・stop ～ from …ing：「～が…するのを止める、防ぐ」。

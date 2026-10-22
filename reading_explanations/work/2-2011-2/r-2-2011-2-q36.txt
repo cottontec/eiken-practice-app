@@ -1,0 +1,27 @@
+---
+choices: Read the contract before he goes to the agency. | Take cash to Ms. Cooper's agency to pay the rent. | Transfer the money for his rent to the agency's bank account. | See the apartment again before signing the contract.
+answerText: Transfer the money for his rent to the agency's bank account.
+---
+【正解】3 Transfer the money for his rent to the agency's bank account.（家賃のお金を事務所の銀行口座に振り込む。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：アンドルー・デイビースは、何をするほうがよいと言っていますか。
+1 事務所に行く前に契約書を読む。
+2 家賃を払うために、クーパーさんの事務所に現金を持っていく。
+3 家賃のお金を事務所の銀行口座に振り込む。
+4 契約書に署名する前に、もう一度部屋を見る。
+【考え方】
+設問の would prefer to ～ は「～するほうがよい、～するほうを選びたい」という意味です。2つのうちどちらがよいかを述べている部分を、第3段落でさがします。
+第3段落の2文目と3文目に You said I could either pay the rent in cash or transfer the money to your agency's bank account every month. The latter would be better for me.（家賃は毎月、現金で払うことも、そちらの事務所の銀行口座に振り込むこともできるとおっしゃっていました。私には後者のほうが都合がよいです）とあります。either A or B は「AかBのどちらか」、transfer は「（お金を）振り込む、移す」です。
+the latter は「（2つのうちの）後者、あとのほう」という意味です。2つの方法は、前が「現金で払う」、あとが「銀行口座に振り込む」なので、後者は「振り込む」ほうです。本文と選択肢は次のように対応しています。
+本文 The latter（＝ transfer the money to your agency's bank account）would be better for me（後者＝口座に振り込むほうが都合がよい）＝ 選択肢 Transfer the money for his rent to the agency's bank account（家賃のお金を事務所の口座に振り込む）
+正解は3です。
+【ほかの選択肢】
+1 契約書について、本文には事務所に行って契約書に署名する（to sign the contract）とあるだけです。事務所に行く前に契約書を読みたいとは書かれていません。
+2 現金で払うのは、2つの方法のうち前のほう（the former）です。アンドルーがよいと言っているのは後者なので、反対です。
+4 もう一度部屋を見たいという話は本文にありません。アンドルーはすでにスタンレー・コートの部屋に決めています。
+【覚えるポイント】
+・the latter：「（2つのうちの）後者」。the former は「前者」。
+・either A or B：「AかBのどちらか」。

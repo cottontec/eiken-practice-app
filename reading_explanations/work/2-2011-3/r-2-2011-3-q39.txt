@@ -1,0 +1,28 @@
+---
+choices: To help their children find out about DNA analysis. | To decide what school to send their children to. | To learn about their children's ability at sports. | To find out about their children's likes and dislikes.
+answerText: To learn about their children's ability at sports.
+---
+【正解】3 To learn about their children's ability at sports.（子どものスポーツの能力について知るため。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：親はなぜACTN3のキットを買うのですか。
+1 子どもがDNAの分析について知る手助けをするため。
+2 子どもをどの学校に通わせるかを決めるため。
+3 子どものスポーツの能力について知るため。
+4 子どもの好き嫌いについて調べるため。
+【考え方】
+ACTN3のキットについては、第3段落に書かれています。
+1文目に a company in the United States has started selling kits that allow parents to find out which kind of ACTN3 their children have（アメリカのある会社が、子どもがどちらの種類のACTN3をもっているかを親が調べられるキットを売り始めた）とあります。
+では、ACTN3の種類を知ると何が分かるのでしょうか。4文目に The company says this service allows parents to find out which kinds of sports their children are likely to be better at.（会社は、このサービスによって、子どもがどの種類のスポーツのほうが得意になりそうかを親が知ることができると言っている）とあります。第2段落でも、ACTN3の型と、短い距離や長い距離を走る力との関係が説明されていました。
+本文と選択肢は次のように対応しています。
+本文 find out which kinds of sports their children are likely to be better at（子どもがどの種類のスポーツのほうが得意になりそうかを知る）＝ 選択肢 learn about their children's ability at sports（子どものスポーツの能力について知る）
+正解は3です。
+【ほかの選択肢】
+1 キットはDNAを分析するためのものですが、目的は子どもにDNA分析について教えることではありません。分析するのは会社で、結果を知るのは親です。
+2 子どもを通わせる学校を決めるという話は、本文にありません。
+4 本文で分かるとされているのは、子どもがどのスポーツが得意になりそうかです。子どもの好き嫌いを調べるとは書かれていません。
+【覚えるポイント】
+・allow ＋人＋ to ～：「人が～できるようにする」。
+・be good at ～／be better at ～：「～が得意だ／～のほうが得意だ」。

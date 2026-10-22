@@ -1,0 +1,27 @@
+---
+choices: Pay part of the cost of a new air conditioner. | Contribute some money to the electricity bill. | Stop using the air conditioner if it is too noisy. | Bring an air conditioner from his old apartment.
+answerText: Pay part of the cost of a new air conditioner.
+---
+【正解】1 Pay part of the cost of a new air conditioner.（新しいエアコンの費用の一部を払う。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：アンドルー・デイビースは何をしようと申し出ていますか。
+1 新しいエアコンの費用の一部を払う。
+2 電気代にいくらかお金を出す。
+3 エアコンがうるさすぎたら使うのをやめる。
+4 古いアパートからエアコンを持ってくる。
+【考え方】
+設問の offer to ～ は「～しようと申し出る」という意味です。エアコンについて書かれている第2段落を読みます。
+アンドルーは、エアコンがかなりうるさく、15年前に取りつけられたものだと書いています。そして Could you ask him to replace it before I move in?（私が入居する前に、それを取りかえるよう家主さんに頼んでいただけないでしょうか）とお願いし、続けて I could contribute some of the cost.（費用の一部は私が出してもかまいません）と書いています。replace は「取りかえる」、contribute は「（お金などを）出す」です。
+ここでの the cost は、エアコンを取りかえる費用、つまり新しいエアコンの費用のことです。本文と選択肢は次のように対応しています。
+本文 I could contribute some of the cost（費用の一部を出してもかまわない）＝ 選択肢 Pay part of the cost of a new air conditioner（新しいエアコンの費用の一部を払う）
+正解は1です。
+【ほかの選択肢】
+2 本文には the owner is going to pay for the cost of the electricity（電気代は家主が払うことになっている）とあります。アンドルーが電気代にお金を出すとは書かれていません。contribute という語は本文にありますが、出すと言っているのはエアコンの費用です。
+3 アンドルーはエアコンがうるさいことに気づきましたが、使うのをやめるとは言っていません。新しいものに取りかえてほしいと頼んでいます。
+4 古いアパートからエアコンを持ってくるという話は本文にありません。
+【覚えるポイント】
+・offer to ～：「～しようと申し出る」。
+・contribute (some of) the cost：「費用（の一部）を出す」。

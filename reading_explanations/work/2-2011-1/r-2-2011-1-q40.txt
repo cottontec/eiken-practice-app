@@ -1,0 +1,28 @@
+---
+choices: Use robots to teach people how to be more polite to each other. | Program robots to behave more like human beings. | Analyze the reasons why robots sometimes stop working. | Design robots that do more work at night than they do in the day.
+answerText: Program robots to behave more like human beings.
+---
+【正解】2 Program robots to behave more like human beings.（ロボットがもっと人間のようにふるまうようにプログラムする。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：一部の科学者たちは何をしようとしているか。
+1 ロボットを使って、人々がおたがいにもっと礼儀正しくする方法を教える。
+2 ロボットがもっと人間のようにふるまうようにプログラムする。
+3 ロボットがときどき動かなくなる理由を分析する。
+4 昼よりも夜に多くの仕事をするロボットを設計する。
+【考え方】
+設問の some scientists（一部の科学者たち）は、第4段落の scientists at the University of Washington（ワシントン大学の科学者たち）のことです。
+その文は One possible answer, being developed by scientists at the University of Washington, in Seattle, is a program that allows robots to analyze and imitate human behavior.（考えられる解決策の1つとして、シアトルのワシントン大学の科学者たちが開発中なのが、ロボットが人間のふるまいを分析してまねできるようにするプログラムだ）です。analyze は「分析する（くわしく調べる）」、imitate は「まねする」、behavior は「ふるまい」という意味です。
+この「解決策」は、直前の文の it is very difficult to program a robot to be polite（ロボットが礼儀正しくふるまうようにプログラムするのはとても難しい）という問題に対するものです。
+ロボットが人間のふるまいをまねするようになれば、ロボットはより人間に近いふるまいをするようになります。本文と選択肢は次のように対応しています。
+本文 a program that allows robots to analyze and imitate human behavior（ロボットが人間のふるまいを分析してまねできるようにするプログラム）＝ 選択肢 Program robots to behave more like human beings（ロボットがもっと人間のようにふるまうようにプログラムする）
+したがって2が正解です。
+【ほかの選択肢】
+1 本文では、ロボットが人間をまねるので、まねされる人間のほうが礼儀正しくなければならない、と書かれています。ロボットが人間に礼儀を教えるという話ではなく、教える側と教わる側の関係が逆です。
+3 本文の analyze（分析する）は、人間のふるまいを分析するという意味で使われています。ロボットが動かなくなる理由を分析するという話は本文にありません。
+4 夜について書かれているのは、エイソン社がTUGを夜にはもっと静かに話すようにした、ということです。夜にもっと多く働くロボットの話ではなく、それをしたのも科学者ではなく会社です。
+【覚えるポイント】
+・imitate：「まねする」。本文の copy（まねる）も同じ意味で使われています。
+・program ＋ ロボットなど ＋ to ～：「～するようにプログラムする」。

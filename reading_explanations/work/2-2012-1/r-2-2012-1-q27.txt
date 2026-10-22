@@ -1,0 +1,26 @@
+---
+choices: obvious | traditional | private | inexpensive
+answerText: inexpensive
+---
+【正解】4 inexpensive（安価な、費用のかからない）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 obvious：明らかな、分かりきった
+2 traditional：伝統的な、昔からの
+3 private：個人用の、他人に知られない
+4 inexpensive：安価な、費用のかからない
+【考え方】
+空所は第2段落の3文目、Besides being (　), the Ikotoilet has two other important features.（～であることのほかに、イコトイレットにはほかに2つの重要な特徴がある）にあります。besides ～ing は「～であることに加えて、～のほかに」という意味です。feature は「特徴」です。
+two other important features（ほかに2つの重要な特徴）と言っているので、空所には、それより前に説明された特徴が入ると考えられます。
+そこで、空所の直前の文を見ます。It is a building that contains toilets, showers, and drinking fountains, all of which can be used for a very small amount of money.（それはトイレ、シャワー、水飲み場が入った建物で、そのすべてをごくわずかなお金で利用できる）とあります。all of which（そのすべて）は、トイレ・シャワー・水飲み場の3つを指しています。
+「ごくわずかなお金で利用できる」ということは、「安い」ということです。inexpensive は「安価な、費用がかからない」という意味で、この特徴を言いかえています。4が正解です。
+なお、このあと The first is ～（1つ目は～）、The second is ～（2つ目は～）と、ほかの2つの特徴が説明されています。
+【ほかの選択肢】
+1 obvious を入れると「明らかであることのほかに」となります。イコトイレットが「明らかだ」という特徴は、それまでの文に書かれていません。
+2 traditional を入れると「伝統的であることのほかに」となります。イコトイレットはクリアが考え出した新しい解決策として紹介されていて、昔からあるものだとは書かれていません。
+3 private を入れると「個人用であることのほかに」となります。本文のイコトイレットは多くの人が少しのお金で使う建物で、個人用だとは書かれていません。
+【覚えるポイント】
+・inexpensive：「安価な、費用のかからない」。expensive（高価な）に in- が付いて反対の意味になっています。
+・besides ～ing：「～であることに加えて、～のほかに」。

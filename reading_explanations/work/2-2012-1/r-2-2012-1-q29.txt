@@ -1,0 +1,25 @@
+---
+choices: by chance | for example | though | therefore
+answerText: therefore
+---
+【正解】4 therefore（したがって、それゆえ）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 by chance：偶然に、たまたま
+2 for example：たとえば
+3 though：けれども、もっとも
+4 therefore：したがって、それゆえ
+【考え方】
+空所は第3段落の後半、Preventing disease, (　), is important for a strong economy.（病気を防ぐことは、～、強い経済のために重要だ）にあります。空所には、前の文との関係を示す語が入ります。
+前の2文を見ます。the shortage of clean water and toilets is one of the main causes of disease（きれいな水とトイレの不足は病気の主な原因の1つだ）、Because of such disease, many children miss school, and many workers have to take time off.（そうした病気のせいで、多くの子どもが学校を休み、多くの労働者が仕事を休まなければならない）とあります。
+病気のせいで子どもが学校を休み、労働者が仕事を休めば、国の経済に悪い影響が出ます。この前の内容が理由になり、「だから病気を防ぐことは強い経済のために重要だ」という結論が導かれています。therefore は「したがって、それゆえ」と、前の内容から結論を導く語です。4が正解です。
+この段落の The real gain for Kenya, however, is much bigger.（しかし、ケニアにとっての本当の利益はずっと大きい）という文ともつながります。イコトイレットで病気が減れば、強い経済につながる、ということが「本当の利益」の中身になっています。
+【ほかの選択肢】
+1 by chance を入れると「病気を防ぐことは、偶然に、強い経済のために重要だ」となります。前の文で病気が子どもや労働者を休ませると説明しているので、「偶然」重要なのではなく、理由があって重要なのです。
+2 for example を入れると、「病気を防ぐことが強い経済に重要だ」という文が、前の文の具体例ということになります。しかしこの文は前の内容から導かれるまとめで、例ではないので合いません。
+3 though を入れると「けれども」と、前の文と反対の内容が来ることになります。病気が人々を休ませるという前の文と、病気を防ぐことが大切だという内容は反対ではないので、合いません。
+【覚えるポイント】
+・therefore：「したがって、それゆえ」。前の内容から結論を導くときに使います。文の途中に , therefore, と入ることもあります。
+・take time off：「（仕事などを）休む」。

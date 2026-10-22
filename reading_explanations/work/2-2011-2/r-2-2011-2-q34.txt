@@ -1,0 +1,27 @@
+---
+choices: wants Ms. Cooper to take him to see another apartment. | thinks the rent for the apartment in Stanley Court is too high. | needs to move soon because his current apartment is too small. | would like to move out of his apartment on November 30.
+answerText: would like to move out of his apartment on November 30.
+---
+【正解】4 would like to move out of his apartment on November 30.（11月30日に自分のアパートを出たいと思っている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：アンドルー・デイビースは、自分が（　　）と言っている。
+1 クーパーさんに、別のアパートを見に連れて行ってほしい
+2 スタンレー・コートの部屋の家賃は高すぎると思っている
+3 今のアパートが狭すぎるので、すぐに引っ越す必要がある
+4 11月30日に自分のアパートを出たいと思っている
+【考え方】
+選択肢には、新しい部屋・家賃・今のアパート・引っ越しの日が出てきます。これらは第1段落に書かれているので、そこを読みます。
+第1段落の最後の2文に You said that I could move in anytime because the apartment is empty. I can stay in my current apartment until November 30, so that would be the best date for me.（部屋は空いているのでいつでも入居できるとおっしゃっていました。私は今のアパートに11月30日までいられるので、その日が私にとっていちばんよい日になります）とあります。current は「今の、現在の」です。
+今のアパートには11月30日までいられて、その日がいちばんよい、と言っています。つまり、11月30日に今のアパートを出て、新しい部屋に移りたいということです。本文と選択肢は次のように対応しています。
+本文 I can stay in my current apartment until November 30, so that would be the best date for me（今のアパートに11月30日までいられるので、その日がいちばんよい）＝ 選択肢 would like to move out of his apartment on November 30（11月30日にアパートを出たい）
+move out of ～ は「～から引っ越して出ていく」という意味です。正解は4です。
+【ほかの選択肢】
+1 アンドルーは I have decided to take the one in Stanley Court.（スタンレー・コートの部屋に決めました）と書いています。もう部屋を決めているので、別の部屋を見に連れて行ってほしいという話は本文にありません。
+2 家賃について、本文には the rent of $800 a month seems reasonable（月800ドルの家賃は手ごろだと思う）とあります。reasonable は「（値段が）手ごろな」なので、「高すぎる」は反対の内容です。
+3 今のアパートが狭いという話は本文にありません。また、今のアパートには11月30日までいられると書いているので、「すぐに引っ越す必要がある」とも言えません。
+【覚えるポイント】
+・move in：「入居する」。move out (of ～)：「（～から）引っ越して出ていく」。
+・reasonable：「（値段が）手ごろな、妥当な」。

@@ -1,0 +1,28 @@
+---
+choices: It can guess what task it should do next. | It can move easily from one hospital to another. | It can stop workers from wasting time on simple jobs. | It can help new nurses find their way around the hospital.
+answerText: It can stop workers from wasting time on simple jobs.
+---
+【正解】3 It can stop workers from wasting time on simple jobs.（働く人たちが単純な仕事に時間をむだにしないようにできる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：病院を経営する人たちは、なぜTUGを気に入っているのか。
+1 次にどの仕事をすべきかを推測できるから。
+2 ある病院から別の病院へ簡単に移動できるから。
+3 働く人たちが単純な仕事に時間をむだにしないようにできるから。
+4 新しく来た看護師が病院の中で迷わずに動けるよう手助けできるから。
+【考え方】
+設問の people who run hospitals（病院を経営する人たち）は、本文では Hospital managers（病院の経営者たち）と書かれています。第2段落の最後の文を見ます。
+Hospital managers like TUG because it allows hospital workers to concentrate on the jobs they were originally trained to do.（病院の経営者たちがTUGを気に入っているのは、病院で働く人たちが、もともとするために訓練を受けてきた仕事に集中できるようになるからだ）。concentrate on ～ は「～に集中する」です。
+その前の文には、具体的な例があります。When a nurse wishes to send something to another nurse, for example, instead of having to waste time carrying it, he or she puts it on TUG（たとえば、看護師がほかの看護師に何かを送りたいとき、それを運ぶのに時間をむだにしなければならない代わりに、それをTUGに載せる）。
+つまり、物を運ぶような単純な仕事をTUGが代わりにしてくれるので、看護師は時間をむだにせず、本来の仕事に集中できるのです。本文と選択肢は次のように対応しています。
+本文 instead of having to waste time carrying it（それを運ぶのに時間をむだにしなければならない代わりに）＝ 選択肢 stop workers from wasting time on simple jobs（働く人たちが単純な仕事に時間をむだにしないようにする）
+stop ＋ 人 ＋ from ～ing は「人が～するのを止める、させないようにする」です。したがって3が正解です。
+【ほかの選択肢】
+1 本文では、行き先を選ぶのは看護師です（he or she ... selects the destination）。TUGが次の仕事を自分で推測するとは書かれていません。
+2 TUGが50を超える病院で使われていることや、病院の中のすべての場所を覚えていることは書かれています。しかし、病院から病院へ移動するという話は本文になく、経営者が気に入っている理由でもありません。
+4 TUGは病院の中の場所を覚えていますが、それを使って新しい看護師に道を教えるという話は本文にありません。
+【覚えるポイント】
+・stop ＋ 人 ＋ from ～ing：「人が～するのを防ぐ、させないようにする」。
+・instead of ～ing：「～する代わりに」。

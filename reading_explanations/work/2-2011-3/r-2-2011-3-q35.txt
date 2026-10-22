@@ -1,0 +1,28 @@
+---
+choices: he will be on the same team as the author Joan Kent. | the students who will be on his team will contact him in advance. | Karen Stevens will send him a copy of The Outdoor Family. | members of the debating club will write his speech for him.
+answerText: the students who will be on his team will contact him in advance.
+---
+【正解】2 the students who will be on his team will contact him in advance.（同じチームになる学生たちが、前もって彼に連絡してくる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：もしハワードさんがディベートに参加すると決めたら、
+1 作家のジョーン・ケントと同じチームになる。
+2 同じチームになる学生たちが、前もって彼に連絡してくる。
+3 カレン・スティーブンスが『アウトドア・ファミリー』を1冊彼に送る。
+4 ディベート部の部員たちが、彼の代わりに彼のスピーチを書く。
+【考え方】
+設問は If Mr. Howard decides to take part in the debate,（もしハワードさんがディベートに参加すると決めたら）です。本文で「参加するなら」という条件を述べている文をさがします。
+第2段落の2文目に If you agree to take part, I will ask Wendy and Clive to get in touch with you so that you can plan your speeches together.（参加していただけるなら、スピーチを一緒に準備できるよう、ウェンディとクライブからあなたに連絡するように頼みます）とあります。ウェンディとクライブは、1文目に you would be on a team with two students—Wendy Smith and Clive Knight（あなたは2人の学生、ウェンディ・スミスとクライブ・ナイトと同じチームになる）とあるとおり、ハワードさんと同じチームの学生です。
+また、スピーチを一緒に準備するための連絡なので、ディベートの当日より前に連絡がくることになります。本文と選択肢は次のように対応しています。
+本文 Wendy and Clive（同じチームの2人の学生）＝ 選択肢 the students who will be on his team（彼と同じチームになる学生たち）
+本文 get in touch with you so that you can plan your speeches together（スピーチを一緒に準備できるよう連絡する）＝ 選択肢 contact him in advance（前もって彼に連絡する）
+正解は2です。
+【ほかの選択肢】
+1 ジョーン・ケントは The guest speaker on the other team（相手チームのゲストスピーカー）です。ハワードさんと同じチームではないので、人物の立場がちがいます。
+3 『アウトドア・ファミリー』はジョーン・ケントが書いた本として紹介されているだけで、カレンがその本をハワードさんに送るという話は本文にありません。
+4 本文では、ハワードさんとチームの学生が plan your speeches together（スピーチを一緒に準備する）とあります。部員がハワードさんの代わりにスピーチを書くわけではありません。
+【覚えるポイント】
+・get in touch with ～：「～に連絡をとる」。contact ～ とほぼ同じ意味です。
+・in advance：「前もって、事前に」。
