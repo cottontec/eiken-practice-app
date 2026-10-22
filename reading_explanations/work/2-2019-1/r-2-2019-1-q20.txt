@@ -1,0 +1,19 @@
+---
+choices: the time | times | of time | timing
+answerText: the time
+---
+【正解】1 the time（その時間）
+【和訳】
+去年、ルーシーは定期的に走り始めました。今では、彼女は以前かかっていた（時間）の半分で5キロメートルを走ることができます。
+（選択肢の意味）1 その時間　2 回、倍（time の複数形）　3 時間の　4 タイミング、時機
+【考え方】
+空所の前後は she can run 5 kilometers in half (　) that it used to take her です。
+まず、後ろの that it used to take her に注目します。It takes ＋人＋時間 は「（人）に（時間）がかかる」という意味で、used to は「以前は～だった」を表します。ここでは that が前の語に説明を付け足していて、「以前ルーシーにかかっていた（時間）」となります。説明される語は「時間」なので、the time が入ると考えられます。
+次に、half の使い方です。half the ～ で「～の半分」という意味になり、half のすぐ後ろに the を置く語順になります。in half the time that it used to take her で「以前かかっていた時間の半分で」となります。定期的に走るようになって速くなった、という流れにも合います。ですから、1が正解です。
+【ほかの選択肢】
+2 times は「回」や「～倍」という意味の time の複数形です。half times という言い方はせず、「以前かかっていた時間の半分」を表せません。
+3 of time を入れると half of time となります。この形では「以前かかっていた、その時間」と特定できず、half of the time のように the が必要になります。
+4 timing は「タイミング、時機（ちょうどよいとき）」です。「以前かかっていたタイミングの半分」となり、かかった時間の長さを比べる意味になりません。
+【覚えるポイント】
+・half the ～：「～の半分」。half the time で「その時間の半分」です。
+・It used to take ＋人＋時間：「以前は（人）に（時間）がかかっていた」。
