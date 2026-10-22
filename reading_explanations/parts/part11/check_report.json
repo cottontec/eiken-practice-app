@@ -110,7 +110,8 @@
   "pre1-2022-3": {
     "stats": {
       "target": 41,
-      "written": 41
+      "written": 41,
+      "reviewed": 41
     },
     "errors": [],
     "warnings": []
