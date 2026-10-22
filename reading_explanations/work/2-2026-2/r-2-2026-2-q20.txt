@@ -1,6 +1,7 @@
 ---
 choices: always share pictures with tourists | recently built new public schools | already use the Internet freely | still lack reliable Internet access
 answerText: still lack reliable Internet access
+reviewed: yes
 ---
 【正解】4 still lack reliable Internet access（今でも、信頼できるインターネット接続がない）
 【和訳】

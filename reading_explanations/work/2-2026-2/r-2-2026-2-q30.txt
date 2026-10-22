@@ -1,6 +1,7 @@
 ---
 choices: shoppers had to pay an extra cost for using shopping carts inside supermarkets. | supermarkets prohibited young children from sitting in shopping carts. | shoppers could put more items in shopping carts because a new cart was designed. | supermarkets could save space for shopping carts thanks to the new cart design.
 answerText: supermarkets could save space for shopping carts thanks to the new cart design.
+reviewed: yes
 ---
 【正解】4 supermarkets could save space for shopping carts thanks to the new cart design.（新しいカートの設計のおかげで、スーパーマーケットはショッピングカートを置く場所を節約できた。）
 【和訳】
@@ -24,7 +25,7 @@ so that ～ could ... は「～が…できるように」という目的を表�
 この問題の型：言いかえ（stored in a smaller area → save space）
 【ほかの選択肢】
 1 本文にありません。カートを使うのに追加の料金がかかったという話は書かれていません。
-2 本文と合いません。第4段落には、その後 a safety belt for children's seats was also added（子ども用の座席の安全ベルトも加えられた）とあり、子どもがカートに座ることを禁止したという話はありません。
+2 本文にありません。20世紀の半ばについて書かれているのは新しいカートの設計だけです。そのあとに a safety belt for children's seats was also added（子ども用の座席の安全ベルトも加えられた）とあるだけで、子どもがカートに座ることを禁止したという話は書かれていません。
 3 一部だけ正しい内容です。新しいカートが設計されたことは本文と合いますが、その目的は many carts could be stored in a smaller area（たくさんのカートを狭い場所にしまっておける）ことです。カートに入れられる品物が増えたとは書かれていません。
 【覚えるポイント】
 ・so that ～ can（could）...：「～が…できるように」。設計や工夫の目的を表します。

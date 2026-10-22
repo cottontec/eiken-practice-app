@@ -1,6 +1,7 @@
 ---
 choices: The size of the supermarkets and the number of shoppers with cars increased. | Supermarkets began to provide shopping baskets that shoppers could take home. | Store owners offered various discounts for those people who bought large amounts. | People's lifestyles became busier, and they could not find time for shopping.
 answerText: The size of the supermarkets and the number of shoppers with cars increased.
+reviewed: yes
 ---
 【正解】1 The size of the supermarkets and the number of shoppers with cars increased.（スーパーマーケットの大きさと、車を持つ買い物客の数が増えた。）
 【和訳】

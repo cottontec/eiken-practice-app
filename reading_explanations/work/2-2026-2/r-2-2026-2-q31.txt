@@ -1,6 +1,7 @@
 ---
 choices: Shopping carts were thought to be beneficial for both shoppers and supermarket owners. | Shopping carts were invented so that people could buy large items like furniture. | Goldman's initial shopping cart design had a child seat with a safety belt. | Many women preferred to use their baby strollers as shopping carts.
 answerText: Shopping carts were thought to be beneficial for both shoppers and supermarket owners.
+reviewed: yes
 ---
 【正解】1 Shopping carts were thought to be beneficial for both shoppers and supermarket owners.（ショッピングカートは、買い物客とスーパーマーケットの経営者の両方にとって役に立つと考えられた。）
 【和訳】

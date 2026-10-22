@@ -1,6 +1,7 @@
 ---
 choices: take his turn at | pull his weight in | make his way through | put his hand on
 answerText: make his way through
+reviewed: yes
 ---
 【正解】3 make his way through（～をかき分けて進む、～の中を通り抜ける）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: travel to warmer countries | survive the cold winter | give birth in the caves | sleep in large groups
 answerText: survive the cold winter
+reviewed: yes
 ---
 【正解】2 survive the cold winter（寒い冬を生きのびる）
 【和訳】
@@ -19,7 +20,7 @@ Also, experts are studying what various bats need to (23).（また、専門家�
 They attach small tracking devices to monitor their activities and understand how these bats maintain energy during the winter months.（彼らは、小さな追跡装置を取りつけて、その活動を見守り、これらのコウモリが冬の何か月もの間、どのようにエネルギーを保っているのかを理解しようとしている）
 研究しているのは、コウモリが冬の間にどうやってエネルギーを保つかです。第2段落には、病気で冬に目覚めて動き回ったコウモリが体の脂肪を失い、冬は食べ物が十分にないために多くが死んでしまう、と書かれていました。
 冬の間にエネルギーを保てるかどうかが、生きのびられるかどうかに関わっていると読み取れます。survive は「生きのびる、（困難を）乗りこえて生き残る」という意味なので、2が正解です。
-この問題の型：具体例とまとめ（冬にエネルギーを保つ方法を研究→冬を生きのびるために必要なもの）
+この問題の型：具体例とまとめ（直後の研究内容をまとめる）／推論（冬のエネルギーと生きのびることの関係）
 【ほかの選択肢】
 1 「（今いる場所より）暖かい国へ移動する」という話は本文にありません。本文のコウモリは、冬の間は洞窟やトンネルで眠ると書かれていて、研究の中身も冬にエネルギーを保つ方法です。
 3 「洞窟で子どもを産む」という話は本文にありません。空所の直後の文は、冬の間のエネルギーについての研究で、子どもを産むこととは関係がありません。

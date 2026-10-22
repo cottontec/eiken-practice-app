@@ -1,6 +1,7 @@
 ---
 choices: for this reason | in other words | on the whole | in that case
 answerText: on the whole
+reviewed: yes
 ---
 【正解】3 on the whole（全体としては、概して）
 【和訳】

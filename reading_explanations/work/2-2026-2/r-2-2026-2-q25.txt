@@ -1,6 +1,7 @@
 ---
 choices: she cannot transport all five items without the shop's help. | she cannot sell the items without having them checked beforehand. | the shop cannot receive her payment through an online system. | the shop cannot accept items delivered by mail or in person.
 answerText: she cannot transport all five items without the shop's help.
+reviewed: yes
 ---
 【正解】1 she cannot transport all five items without the shop's help.（彼女は、その店の助けがなければ、5点の品物すべてを運ぶことができない。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: she should close the shop permanently on that day as planned. | she may need time to ask other shops if they are interested. | the renovation team may want to use the furniture. | the renovation work will begin sometime this week.
 answerText: she may need time to ask other shops if they are interested.
+reviewed: yes
 ---
 【正解】2 she may need time to ask other shops if they are interested.（彼女は、ほかの店に興味があるかどうかをたずねるための時間が必要になるかもしれない。）
 【和訳】

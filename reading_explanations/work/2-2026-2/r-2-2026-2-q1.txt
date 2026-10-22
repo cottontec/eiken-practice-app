@@ -1,6 +1,7 @@
 ---
 choices: unfairly | conveniently | cheerfully | strictly
 answerText: strictly
+reviewed: yes
 ---
 【正解】4 strictly（厳しく、厳格に）
 【和訳】

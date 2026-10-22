@@ -1,6 +1,7 @@
 ---
 choices: squeeze | predict | reject | execute
 answerText: predict
+reviewed: yes
 ---
 【正解】2 predict（予測する）
 【和訳】

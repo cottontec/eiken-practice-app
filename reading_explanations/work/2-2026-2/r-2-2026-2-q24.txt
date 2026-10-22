@@ -1,6 +1,7 @@
 ---
 choices: Because she is searching for furniture that suits her new layout. | Because she is planning to sell her shop to someone in the city. | Because she wants to offer some used items for his shop. | Because she hopes to sell handmade items at his secondhand shop.
 answerText: Because she wants to offer some used items for his shop.
+reviewed: yes
 ---
 【正解】3 Because she wants to offer some used items for his shop.（彼女は、彼の店に中古の品物をいくつか提供したいから。）
 【和訳】

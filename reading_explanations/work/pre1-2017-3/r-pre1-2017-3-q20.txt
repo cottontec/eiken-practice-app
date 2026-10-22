@@ -8,7 +8,7 @@ answerText: omit
 A: Honey, I want to call Cindy to see how she's doing in Japan. The code for Tokyo is 03, right?
 B: Yes, but you need to ［omit］ the first number as it's an international call. Just dial 3, not 03.
 （訳）
-A：ねえ、シンディに電話して、日本でどうしているか確かめたいの。東京の市外局番は03だよね？
+A：ねえ、シンディが日本でどうしているか、電話して確かめたいよ。東京の市外局番は03だよね？
 B：そうだよ。でも、国際電話だから、最初の数字を（省く）必要があるよ。03ではなく、3だけをダイヤルしてね。
 （選択肢の意味）
 1 seize：つかむ、うばい取る

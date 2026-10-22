@@ -1,6 +1,7 @@
 ---
 choices: unconcerned | jealous | capable | disabled
 answerText: unconcerned
+reviewed: yes
 ---
 【正解】1 unconcerned（関心がない、気にかけない）
 【和訳】

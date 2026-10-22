@@ -1,6 +1,7 @@
 ---
 choices: check the current weather | carry extra equipment | take photos of the mountain | arrange accommodation in town
 answerText: check the current weather
+reviewed: yes
 ---
 【正解】1 check the current weather（現在の天気を確認する）
 【和訳】

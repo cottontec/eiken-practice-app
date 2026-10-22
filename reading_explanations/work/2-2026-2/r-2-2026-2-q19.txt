@@ -1,6 +1,7 @@
 ---
 choices: Instead | By doing so | In contrast | Otherwise
 answerText: By doing so
+reviewed: yes
 ---
 【正解】2 By doing so（そうすることで）
 【和訳】

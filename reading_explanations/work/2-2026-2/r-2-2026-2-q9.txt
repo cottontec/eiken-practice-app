@@ -1,6 +1,7 @@
 ---
 choices: theme | treasure | pleasure | murder
 answerText: murder
+reviewed: yes
 ---
 【正解】4 murder（殺人、殺人事件）
 【和訳】

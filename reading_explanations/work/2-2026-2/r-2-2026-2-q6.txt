@@ -1,6 +1,7 @@
 ---
 choices: proposal | sensation | narrative | collection
 answerText: proposal
+reviewed: yes
 ---
 【正解】1 proposal（提案）
 【和訳】

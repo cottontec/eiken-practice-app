@@ -1,6 +1,7 @@
 ---
 choices: take a chance | make a mess | take a break | make a living
 answerText: make a mess
+reviewed: yes
 ---
 【正解】2 make a mess（散らかす）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: offering them special discounts for using the carts. | changing their design to make the carts more appealing. | showing men using the carts in the store in advertisements. | hiring people to demonstrate using the carts in the store.
 answerText: hiring people to demonstrate using the carts in the store.
+reviewed: yes
 ---
 【正解】4 hiring people to demonstrate using the carts in the store.（店内でカートを使ってみせる人を雇うこと。）
 【和訳】

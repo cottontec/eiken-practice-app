@@ -1,6 +1,7 @@
 ---
 choices: watch out for | come up with | go back on | look up to
 answerText: watch out for
+reviewed: yes
 ---
 【正解】1 watch out for（～に気をつける、～に用心する）
 【和訳】

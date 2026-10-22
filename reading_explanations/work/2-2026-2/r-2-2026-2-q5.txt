@@ -1,6 +1,7 @@
 ---
 choices: opportunity | profit | experiment | minority
 answerText: minority
+reviewed: yes
 ---
 【正解】4 minority（少数、少数の人々）
 【和訳】

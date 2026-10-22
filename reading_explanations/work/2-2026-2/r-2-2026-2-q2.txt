@@ -1,6 +1,7 @@
 ---
 choices: speed | importance | courage | difference
 answerText: importance
+reviewed: yes
 ---
 【正解】2 importance（大切さ、重要性）
 【和訳】

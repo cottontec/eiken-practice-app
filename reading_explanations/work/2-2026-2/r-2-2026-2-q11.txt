@@ -1,6 +1,7 @@
 ---
 choices: break down | lose sight | kill time | meet needs
 answerText: kill time
+reviewed: yes
 ---
 【正解】3 kill time（時間をつぶす）
 【和訳】

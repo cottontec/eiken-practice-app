@@ -1,6 +1,7 @@
 ---
 choices: a rolling chair with one fixed basket that people could not fold. | a folding chair with wheels and two baskets used for easy shopping. | a chair with two handles that came off easily and four wheels. | a chair with one large basket under the seat and no wheels.
 answerText: a folding chair with wheels and two baskets used for easy shopping.
+reviewed: yes
 ---
 【正解】2 a folding chair with wheels and two baskets used for easy shopping.（楽に買い物をするために使われる、車輪と2つのかごがついた折りたたみ式のいす。）
 【和訳】

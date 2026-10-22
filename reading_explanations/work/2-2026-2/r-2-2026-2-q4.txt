@@ -1,6 +1,7 @@
 ---
 choices: postponed | concealed | rewarded | emphasized
 answerText: postponed
+reviewed: yes
 ---
 【正解】1 postponed（延期された）
 【和訳】

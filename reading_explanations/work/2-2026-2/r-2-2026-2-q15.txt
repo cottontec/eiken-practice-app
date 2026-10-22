@@ -1,6 +1,7 @@
 ---
 choices: in case | ever since | as though | but for
 answerText: ever since
+reviewed: yes
 ---
 【正解】2 ever since（～して以来ずっと）
 【和訳】

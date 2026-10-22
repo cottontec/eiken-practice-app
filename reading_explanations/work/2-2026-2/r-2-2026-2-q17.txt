@@ -1,6 +1,7 @@
 ---
 choices: interferes with | bursts into | accounts for | graduates from
 answerText: interferes with
+reviewed: yes
 ---
 【正解】1 interferes with（～のじゃまをする、～を妨げる）
 【和訳】
