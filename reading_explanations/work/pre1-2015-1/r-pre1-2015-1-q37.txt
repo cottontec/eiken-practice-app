@@ -1,6 +1,7 @@
 ---
 choices: Remains that have been illegally obtained are removed from display and given a proper burial. | Remains are displayed in ways that attempt to be informative to viewers without upsetting or shocking them. | The institutions agree to use remains only for research unless permission for other uses is given by family members. | The institutions display the remains for a certain amount of time and then return them to their places of origin.
 answerText: Remains are displayed in ways that attempt to be informative to viewers without upsetting or shocking them.
+reviewed: yes
 ---
 【正解】2 Remains are displayed in ways that attempt to be informative to viewers without upsetting or shocking them.（遺体は、見学者を動揺させたり衝撃を与えたりせずに、見学者に情報を伝えようとするやり方で展示される。）
 【和訳】

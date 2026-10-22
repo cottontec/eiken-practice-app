@@ -1,0 +1,32 @@
+---
+choices: Up to one-sixth of all tardigrades are able to resist infection by bacteria and other harmful organisms. | A certain amount of tardigrades’ DNA was acquired from other organisms. | Antibiotics could not cure the dangerous infections that tardigrades can spread to other animals. | The bacteria that were transferred to the tardigrade genome were harmful to tardigrades’ DNA.
+answerText: A certain amount of tardigrades’ DNA was acquired from other organisms.
+---
+【正解】2 A certain amount of tardigrades’ DNA was acquired from other organisms.（クマムシのDNAのある程度の量は、ほかの生き物から得たものだった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What was previously thought to be true of tardigrades?（クマムシについて、以前は何が正しいと考えられていましたか。）
+1 Up to one-sixth of all tardigrades are able to resist infection by bacteria and other harmful organisms.（すべてのクマムシのうち最大6分の1が、細菌やほかの有害な生き物による感染に抵抗できる。）
+2 A certain amount of tardigrades’ DNA was acquired from other organisms.（クマムシのDNAのある程度の量は、ほかの生き物から得たものだった。）
+3 Antibiotics could not cure the dangerous infections that tardigrades can spread to other animals.（抗生物質では、クマムシがほかの動物に広めうる危険な感染症を治せなかった。）
+4 The bacteria that were transferred to the tardigrade genome were harmful to tardigrades’ DNA.（クマムシのゲノムに移ってきた細菌は、クマムシのDNAに害を与えていた。）
+【考え方】
+まず見るところ：第3段落の claims previously made by scientists that as much as one-sixth of the tardigrade genome had been transferred from bacteria and other creatures
+設問の previously（以前に）は、第3段落に出てきます。
+Kunieda’s research was also important because it helped to disprove claims previously made by scientists that as much as one-sixth of the tardigrade genome had been transferred from bacteria and other creatures, rather than evolving naturally.（國枝の研究は、クマムシのゲノムの6分の1もの部分が、自然に進化してできたのではなく、細菌やほかの生き物から移ってきたものだという、以前に科学者たちが出していた主張の誤りを証明する助けになったという点でも、重要だった）
+claims は「主張」で、that 以下がその中身です。genome は「ゲノム（その生き物が持つ遺伝情報の全体）」です。以前は「クマムシの遺伝情報の一部は、ほかの生き物から来たものだ」と考えられていたことが分かります。
+本文と選択肢を対にすると、次のようになります。
+本文 claims previously made by scientists（以前に科学者たちが出していた主張）→ 設問 previously thought（以前考えられていた）
+本文 as much as one-sixth of the tardigrade genome（クマムシのゲノムの6分の1もの部分）→ 選択肢 A certain amount of tardigrades’ DNA（クマムシのDNAのある程度の量）
+本文 had been transferred from bacteria and other creatures（細菌やほかの生き物から移ってきた）＝ 選択肢 was acquired from other organisms（ほかの生き物から得た）
+よって2が正解です。のちに國枝の研究で、この外来のDNAは実験室での汚染の結果だと示されましたが、設問は「以前に考えられていたこと」をたずねているので、この主張が答えになります。
+この問題の型：言いかえ（transferred from bacteria and other creatures → acquired from other organisms）
+【ほかの選択肢】
+1 本文と合いません。「6分の1」は、クマムシのゲノム（遺伝情報）のうちの割合で、すべてのクマムシのうち何匹か、という数の割合ではありません。また、感染に抵抗できるという話もありません。
+3 本文にありません。抗生物質は、國枝がDNAの汚染を確かめるために使った方法の一つとして出てくるだけで、クマムシがほかの動物に感染症を広めるという話はありません。
+4 本文と合いません。以前の研究では、ほかの生き物から移ってきたとされるDNAは、極端な環境に対処するクマムシの並外れた能力の説明とされていました。クマムシのDNAに害を与えていたとは書かれていません。また、移ってきたとされたのは細菌そのものではなく、ゲノムの一部です。
+【覚えるポイント】
+・previously：「以前に」。設問に previously があるときは、のちに否定された古い考えをたずねていることが多いです。
+・本文で claims ～ that …（…という主張）が出てきたら、that 以下がその主張の中身なので、そこを選択肢と比べることが手がかりになります。

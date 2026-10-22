@@ -1,6 +1,7 @@
 ---
 choices: revolt | flash | decay | eject
 answerText: decay
+reviewed: yes
 ---
 【正解】3 decay（腐る、朽ちる）
 【和訳】

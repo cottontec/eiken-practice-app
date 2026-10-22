@@ -1,6 +1,7 @@
 ---
 choices: such action was more necessary | this idea was not considered | more dams were being removed | new dams were not being built
 answerText: this idea was not considered
+reviewed: yes
 ---
 【正解】2 this idea was not considered（この考えは検討されなかった）
 【和訳】

@@ -1,13 +1,14 @@
 ---
 choices: wipe up | track down | wander off | stir in
 answerText: track down
+reviewed: yes
 ---
 【正解】2 track down（〔捜して〕見つけ出す、追い詰める）
 【和訳】
 （英文）
 The police chief has promised to ［track down］ the escaped prisoner no matter how long it takes. "We will catch him," he said.
 （訳）
-警察署長は、どれだけ時間がかかっても、逃げた囚人を（捜し出す）と約束した。「私たちは必ず彼をつかまえます」と署長は言った。
+警察署長は、どれだけ時間がかかっても、逃げた囚人を（捜し出す）と約束した。「私たちは彼をつかまえます」と署長は言った。
 （選択肢の意味）
 1 wipe up：（こぼれた液体などを）ふき取る
 2 track down：（捜して）見つけ出す、追い詰める

@@ -1,6 +1,7 @@
 ---
 choices: conform | propel | lobby | deflect
 answerText: conform
+reviewed: yes
 ---
 【正解】1 conform（〔規則などに〕従う、合わせる）
 【和訳】

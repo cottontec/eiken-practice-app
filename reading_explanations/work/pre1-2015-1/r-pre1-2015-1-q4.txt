@@ -1,6 +1,7 @@
 ---
 choices: restriction | distress | detention | prominence
 answerText: prominence
+reviewed: yes
 ---
 【正解】4 prominence（目立つこと、注目されること）
 【和訳】

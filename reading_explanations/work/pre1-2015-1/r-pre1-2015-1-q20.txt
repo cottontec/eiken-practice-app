@@ -1,6 +1,7 @@
 ---
 choices: considerate | immodest | rotten | fictitious
 answerText: considerate
+reviewed: yes
 ---
 【正解】1 considerate（思いやりのある）
 【和訳】

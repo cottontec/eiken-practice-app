@@ -1,6 +1,7 @@
 ---
 choices: glossy | stale | frosty | blunt
 answerText: stale
+reviewed: yes
 ---
 【正解】2 stale（〔パンなどが〕古くなってかたい、新鮮でない）
 【和訳】

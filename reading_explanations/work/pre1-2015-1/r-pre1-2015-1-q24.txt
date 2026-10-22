@@ -1,6 +1,7 @@
 ---
 choices: backing up | watching over | setting up | heading off
 answerText: heading off
+reviewed: yes
 ---
 【正解】4 heading off（出かけて、向かって）
 【和訳】

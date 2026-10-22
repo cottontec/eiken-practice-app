@@ -1,6 +1,7 @@
 ---
 choices: comrade | guardian | defendant | outcast
 answerText: defendant
+reviewed: yes
 ---
 【正解】3 defendant（被告人、裁判でうったえられた人）
 【和訳】

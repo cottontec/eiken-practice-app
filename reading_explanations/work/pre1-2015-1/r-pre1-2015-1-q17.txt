@@ -1,6 +1,7 @@
 ---
 choices: fatigue | literacy | friction | ignition
 answerText: fatigue
+reviewed: yes
 ---
 【正解】1 fatigue（疲労、ひどい疲れ）
 【和訳】

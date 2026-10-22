@@ -1,6 +1,7 @@
 ---
 choices: Students of well-paid teachers are more likely to go on to receive a college education. | Students in low-income areas should have access to the same equipment and resources that those in wealthy areas have. | Students show the most progress when they are instructed by skilled individuals who possess a high level of knowledge about education. | Students in low-income areas are best motivated by teachers with socioeconomic backgrounds similar to their own.
 answerText: Students show the most progress when they are instructed by skilled individuals who possess a high level of knowledge about education.
+reviewed: yes
 ---
 【正解】3 Students show the most progress when they are instructed by skilled individuals who possess a high level of knowledge about education.（生徒は、教育について高い知識をもつ、技能のある人に教えられるときに、最も伸びる。）
 【和訳】

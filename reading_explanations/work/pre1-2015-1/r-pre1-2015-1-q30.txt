@@ -1,6 +1,7 @@
 ---
 choices: There was a potential danger | The dam was not to blame | There were few capable workers | This was not the only reason
 answerText: There was a potential danger
+reviewed: yes
 ---
 【正解】1 There was a potential danger（危険が起こるおそれがあった）
 【和訳】

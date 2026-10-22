@@ -1,6 +1,7 @@
 ---
 choices: inelegant | abundant | proficient | rigid
 answerText: abundant
+reviewed: yes
 ---
 【正解】2 abundant（豊富な、たくさんある）
 【和訳】

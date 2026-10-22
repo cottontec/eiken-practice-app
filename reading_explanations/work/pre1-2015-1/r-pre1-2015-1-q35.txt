@@ -1,6 +1,7 @@
 ---
 choices: the use of plastic to preserve the bodies is unnatural and therefore not appropriate for human remains. | the ways the bodies are posed provide hints about their pasts, which could enable viewers to recognize them. | the money made by the exhibits should be partially shared with the dead people's families. | the bodies are displayed in a manner that shows little respect for the lives they once lived.
 answerText: the bodies are displayed in a manner that shows little respect for the lives they once lived.
+reviewed: yes
 ---
 【正解】4 the bodies are displayed in a manner that shows little respect for the lives they once lived.（遺体は、彼らがかつて送っていた人生にほとんど敬意を示さないやり方で展示されている。）
 【和訳】

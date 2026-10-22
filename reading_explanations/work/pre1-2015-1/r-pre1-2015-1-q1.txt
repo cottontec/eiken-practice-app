@@ -1,6 +1,7 @@
 ---
 choices: predators | contenders | ancestors | peasants
 answerText: predators
+reviewed: yes
 ---
 【正解】1 predators（捕食者、ほかの動物をつかまえて食べる動物）
 【和訳】

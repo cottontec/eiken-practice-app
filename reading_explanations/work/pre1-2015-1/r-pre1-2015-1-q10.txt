@@ -1,6 +1,7 @@
 ---
 choices: esteem | condense | enroll | consolidate
 answerText: consolidate
+reviewed: yes
 ---
 【正解】4 consolidate（〔地位・力などを〕固める、強める）
 【和訳】

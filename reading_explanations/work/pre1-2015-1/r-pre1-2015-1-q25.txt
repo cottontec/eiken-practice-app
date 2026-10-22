@@ -1,6 +1,7 @@
 ---
 choices: hold back | cut down | clear out | go for
 answerText: go for
+reviewed: yes
 ---
 【正解】4 go for（～をほしいと思う、選ぶ）
 【和訳】

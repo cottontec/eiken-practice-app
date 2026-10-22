@@ -1,6 +1,7 @@
 ---
 choices: reservoirs | pavilions | barricades | valves
 answerText: barricades
+reviewed: yes
 ---
 【正解】3 barricades（バリケード、通れないようにする柵や障害物）
 【和訳】

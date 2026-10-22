@@ -1,6 +1,7 @@
 ---
 choices: He is proud of having discovered the Llullaillaco mummies but thinks it is wrong to profit from them. | He supports the transfer of the Llullaillaco mummies to a museum because he believes they are safer there. | He fears the Llullaillaco mummies were damaged so badly that it will never be possible to display them. | He is certain that some of the Llullaillaco mummies' possessions were stolen before he discovered the mummies.
 answerText: He supports the transfer of the Llullaillaco mummies to a museum because he believes they are safer there.
+reviewed: yes
 ---
 【正解】2 He supports the transfer of the Llullaillaco mummies to a museum because he believes they are safer there.（彼は、ユーヤイヤコのミイラは博物館のほうが安全だと考えているので、ミイラを博物館へ移すことを支持している。）
 【和訳】

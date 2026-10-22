@@ -1,6 +1,7 @@
 ---
 choices: yield | clutch | lure | drip
 answerText: lure
+reviewed: yes
 ---
 【正解】3 lure（〔えさなどで〕おびき寄せる、誘いこむ）
 【和訳】

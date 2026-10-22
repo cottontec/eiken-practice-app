@@ -1,6 +1,7 @@
 ---
 choices: presented an alternative | asked the government for help | stopped benefiting the economy | resisted making changes
 answerText: presented an alternative
+reviewed: yes
 ---
 【正解】1 presented an alternative（代わりとなる道を示した）
 【和訳】

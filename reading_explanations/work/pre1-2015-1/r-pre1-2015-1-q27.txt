@@ -1,6 +1,7 @@
 ---
 choices: are considered easier to train | have never been bred in this way | are found in fewer places | have developed a major advantage
 answerText: have never been bred in this way
+reviewed: yes
 ---
 【正解】2 have never been bred in this way（このように交配されたことが一度もない）
 【和訳】

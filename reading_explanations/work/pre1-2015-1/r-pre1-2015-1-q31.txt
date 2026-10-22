@@ -1,6 +1,7 @@
 ---
 choices: Nevertheless | In other words | Moreover | For one thing
 answerText: Nevertheless
+reviewed: yes
 ---
 【正解】1 Nevertheless（それにもかかわらず、それでも）
 【和訳】

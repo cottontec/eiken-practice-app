@@ -1,6 +1,7 @@
 ---
 choices: It may not be as beneficial to the animals as is widely believed. | Its popularity is forcing the animals to move into dangerous areas. | Participants often ignore warnings about the danger to themselves. | Dolphins are at greater risk of being hit by tourist boats than whales are.
 answerText: It may not be as beneficial to the animals as is widely believed.
+reviewed: yes
 ---
 【正解】1 It may not be as beneficial to the animals as is widely believed.（それは、広く信じられているほど動物たちにとって有益ではないかもしれない。）
 【和訳】

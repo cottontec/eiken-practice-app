@@ -1,6 +1,7 @@
 ---
 choices: should be widely adopted | is important for the local people | may have the opposite effect | is unpleasant but necessary
 answerText: may have the opposite effect
+reviewed: yes
 ---
 【正解】3 may have the opposite effect（逆の効果をもたらすかもしれない）
 【和訳】

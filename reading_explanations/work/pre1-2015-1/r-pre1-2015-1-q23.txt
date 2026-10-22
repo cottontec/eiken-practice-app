@@ -1,6 +1,7 @@
 ---
 choices: talked into | handed off | taken over | driven off
 answerText: talked into
+reviewed: yes
 ---
 【正解】1 talked into（説得されて〔～する気にさせられて〕）
 【和訳】

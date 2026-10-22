@@ -1,6 +1,7 @@
 ---
 choices: TFA recruits are only in the classroom for two years, so any improvement they bring to classroom achievement is temporary at best. | Veteran teachers are experiencing cuts in salary and benefits because of the high number of TFA teachers willing to work for low pay. | The impact TFA recruits have on communities has been much smaller than it could be because of the program's limited funding. | The impressive background and intelligence of TFA teachers is not enough to make up for their lack of training and experience.
 answerText: The impressive background and intelligence of TFA teachers is not enough to make up for their lack of training and experience.
+reviewed: yes
 ---
 【正解】4 The impressive background and intelligence of TFA teachers is not enough to make up for their lack of training and experience.（TFAの教師のすばらしい経歴と知性は、訓練と経験の不足を補うのに十分ではない。）
 【和訳】
@@ -15,13 +16,13 @@ answerText: The impressive background and intelligence of TFA teachers is not en
 【考え方】
 まず見るところ：第4段落の Deborah Appleman ～ says there is an elitist attitude at TFA
 アップルマンの意見は、第4段落の最後に書かれています。
-Deborah Appleman ～ says there is an elitist attitude at TFA, "a belief that the best and the brightest can make a difference in the lives of children who are less fortunate, even when they are not professionally prepared to do so."（デボラ・アップルマンは、TFAにはエリート意識があると言う。それは「たとえ専門的な準備ができていなくても、最も優秀で頭のよい人たちなら、恵まれない子どもたちの人生に変化をもたらすことができる、という思いこみ」だという）
+Deborah Appleman ～ says there is an elitist attitude at TFA, "a belief that the best and the brightest can make a difference in the lives of children who are less fortunate, even when they are not professionally prepared to do so."（デボラ・アップルマンは、TFAにはエリート意識があると言う。それは「たとえ専門的な準備ができていなくても、最も優秀で頭のよい人たちなら、恵まれない子どもたちの人生に変化をもたらすことができる、という考え」だという）
 elitist attitude は「エリート意識（自分たちは特別に優れているという考え方）」で、よくない意味で使われています。アップルマンは、「優秀なら、準備ができていなくても大丈夫」という考えを批判していると読み取れます。
 設問の suggest は「ほのめかす（はっきりとは言わずに伝える）」です。
 本文と選択肢を対にすると、次のようになります。
 本文 the best and the brightest（最も優秀で頭のよい人たち）→ 選択肢 impressive background and intelligence（すばらしい経歴と知性）
 本文 not professionally prepared（専門的な準備ができていない）→ 選択肢 lack of training and experience（訓練と経験の不足）
-本文 elitist attitude、a belief（エリート意識、思いこみ）→ 選択肢 is not enough to make up for（～を補うのに十分ではない）
+本文 elitist attitude、a belief ～ even when they are not professionally prepared（エリート意識、専門的な準備ができていなくても～という考え）→ 選択肢 is not enough to make up for（～を補うのに十分ではない）
 make up for ～ は「～を補う、埋め合わせる」です。また、アップルマンの言葉の直前には、TFAの教師の生徒の成績は、訓練を受けた1年目の教師の生徒と比べて少しもよくなく、経験を積んだ教師の生徒には一貫して上回られていた、という研究結果も書かれています。ですから4が正解です。
 この問題の型：推論（批判的な言葉 elitist attitude から、アップルマンの考えを読み取る）／言いかえ
 【ほかの選択肢】

@@ -1,6 +1,7 @@
 ---
 choices: dullness | syndrome | hospitality | infinity
 answerText: hospitality
+reviewed: yes
 ---
 【正解】3 hospitality（客へのあたたかいもてなし）
 【和訳】

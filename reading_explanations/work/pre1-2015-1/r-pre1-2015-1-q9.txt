@@ -1,6 +1,7 @@
 ---
 choices: void | secure | liable | reputable
 answerText: void
+reviewed: yes
 ---
 【正解】1 void（無効の）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: having academically successful college graduates teach in school classrooms can lead to improved student performance. | college graduates with previous experience volunteering in school classrooms are better able to teach high-achieving students. | putting low-performing children from poor areas in classrooms with wealthier students will motivate them to do well in school. | educational reform should be led by individuals who have experience working with students from disadvantaged backgrounds.
 answerText: having academically successful college graduates teach in school classrooms can lead to improved student performance.
+reviewed: yes
 ---
 【正解】1 having academically successful college graduates teach in school classrooms can lead to improved student performance.（学業で成果を上げた大学卒業生に学校の教室で教えてもらうことは、生徒の成績の向上につながりうる。）
 【和訳】

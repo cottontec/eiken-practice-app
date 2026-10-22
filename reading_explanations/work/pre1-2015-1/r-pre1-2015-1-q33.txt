@@ -1,6 +1,7 @@
 ---
 choices: the presence of tourist boats has caused the number of minke whales in Faxaflói Bay to fall. | high levels of tourism in Doubtful Sound have made it harder for bottlenose dolphins there to obtain food. | minke whales in Faxaflói Bay have a greater fear of tourist boats than they do of killer whales. | tourism has made it difficult for biologists to do research on bottlenose dolphins in Doubtful Sound.
 answerText: high levels of tourism in Doubtful Sound have made it harder for bottlenose dolphins there to obtain food.
+reviewed: yes
 ---
 【正解】2 high levels of tourism in Doubtful Sound have made it harder for bottlenose dolphins there to obtain food.（ダウトフル・サウンドで観光がさかんに行われていることで、そこのハンドウイルカがえさを得るのが〔以前より〕難しくなった。）
 【和訳】

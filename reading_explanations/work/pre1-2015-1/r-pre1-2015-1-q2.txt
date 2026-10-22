@@ -1,6 +1,7 @@
 ---
 choices: quest | legacy | exposure | potency
 answerText: quest
+reviewed: yes
 ---
 【正解】1 quest（探求、長い間探し求めること）
 【和訳】

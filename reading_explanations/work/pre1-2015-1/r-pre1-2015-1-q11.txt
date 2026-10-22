@@ -1,6 +1,7 @@
 ---
 choices: insufficient | inactive | irrelevant | irresistible
 answerText: irresistible
+reviewed: yes
 ---
 【正解】4 irresistible（抵抗できない、抑えきれない）
 【和訳】

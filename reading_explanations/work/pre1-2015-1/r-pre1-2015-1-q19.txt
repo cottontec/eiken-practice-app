@@ -1,6 +1,7 @@
 ---
 choices: ruined | leaked | subscribed | endorsed
 answerText: leaked
+reviewed: yes
 ---
 【正解】2 leaked（〔秘密が〕漏らされた）
 【和訳】

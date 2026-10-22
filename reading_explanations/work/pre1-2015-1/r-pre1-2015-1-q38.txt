@@ -1,6 +1,7 @@
 ---
 choices: Efforts to bring more teachers to low-income areas had created a shortage of qualified teachers in high-performing schools. | Changes in the public education system had resulted in a generally lower level of education for high school students. | Students from low-income families had not changed their attitudes toward high school education over the previous 20 years. | The number of high school graduates in the United States had decreased due to changes in the nation's economy.
 answerText: Changes in the public education system had resulted in a generally lower level of education for high school students.
+reviewed: yes
 ---
 【正解】2 Changes in the public education system had resulted in a generally lower level of education for high school students.（公教育の仕組みの変化によって、高校生の教育の水準が全体的に下がっていたから。）
 【和訳】

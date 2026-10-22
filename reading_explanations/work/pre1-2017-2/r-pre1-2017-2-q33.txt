@@ -1,0 +1,32 @@
+---
+choices: the reason that human kidney cells cannot survive large amounts of radiation as well as other human cells can. | less effective than the MRE11 gene at repairing damage that has been done to cells by radiation. | likely to be a significant factor in protecting DNA from the harmful effects of radiation. | more likely to be damaged by radiation when it is transferred from human to animal cells.
+answerText: likely to be a significant factor in protecting DNA from the harmful effects of radiation.
+---
+【正解】3 likely to be a significant factor in protecting DNA from the harmful effects of radiation.（放射線の有害な影響からDNAを守るうえで、重要な要因である可能性が高い。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：The results of Takekazu Kunieda’s experiment suggest that the Dsup protein is（國枝武和の実験の結果は、Dsup たんぱく質が～ことを示している。）
+1 the reason that human kidney cells cannot survive large amounts of radiation as well as other human cells can.（人間の腎臓の細胞が、ほかの人間の細胞ほどうまく大量の放射線に耐えて生き残ることができない理由である。）
+2 less effective than the MRE11 gene at repairing damage that has been done to cells by radiation.（放射線によって細胞が受けた損傷を修復することについて、MRE11 遺伝子ほど効果がない。）
+3 likely to be a significant factor in protecting DNA from the harmful effects of radiation.（放射線の有害な影響からDNAを守るうえで、重要な要因である可能性が高い。）
+4 more likely to be damaged by radiation when it is transferred from human to animal cells.（人間の細胞から動物の細胞へ移されたときに、放射線によって損傷を受けやすくなる。）
+【考え方】
+まず見るところ：第2段落の this effect was reduced by 40 to 50 percent in the cells containing Dsup
+國枝武和の実験は、第2段落に書かれています。
+In an experiment, geneticist Takekazu Kunieda of the University of Tokyo transferred the Dsup protein into human kidney cells and exposed them to radiation.（ある実験で、東京大学の遺伝学者である國枝武和は、Dsup たんぱく質を人間の腎臓の細胞に移し入れ、その細胞に放射線を当てた）
+Exposure to radiation causes the DNA in normal human cells to break apart, but this effect was reduced by 40 to 50 percent in the cells containing Dsup.（放射線を浴びると、ふつうの人間の細胞ではDNAがばらばらにこわれるが、Dsup を含む細胞では、この影響が40～50パーセント少なくなった）
+this effect（この影響）は「DNAがばらばらにこわれること」を指します。Dsup があると、放射線によるDNAのこわれ方が少なくなった、という結果です。また、段落の初めには One of the secrets to the tardigrade’s toughness appears to be a protein known as Dsup.（クマムシの丈夫さの秘密の一つは、Dsup として知られるたんぱく質であるようだ）とあります。
+本文と選択肢を対にすると、次のようになります。
+本文 this effect was reduced（この影響、つまりDNAがこわれる影響が少なくなった）→ 選択肢 protecting DNA from the harmful effects of radiation（放射線の有害な影響からDNAを守る）
+本文 appears to be（～であるようだ）→ 選択肢 likely to be（～である可能性が高い）
+実験の結果から読み取れる内容なので、3が正解です。
+この問題の型：言いかえ（this effect was reduced → protecting DNA）／指示語（this effect がDNAのこわれることを指す）
+【ほかの選択肢】
+1 本文と合いません。腎臓の細胞がほかの人間の細胞より放射線に弱いという話はありません。また、Dsup を入れた腎臓の細胞では、DNAのこわれ方がむしろ少なくなっているので、Dsup が弱さの理由だというのは反対です。
+2 本文にありません。第2段落には、クマムシの細胞には MRE11 という遺伝子が4つあると書かれていますが、Dsup と MRE11 のどちらが修復に効果があるかを比べた話はありません。
+4 本文と合いません。実験では、Dsup を人間の腎臓の細胞に移し入れていて、人間の細胞から動物の細胞へ移したのではありません。また、Dsup そのものが放射線でこわれやすくなるという話もありません。
+【覚えるポイント】
+・significant factor：「重要な要因（結果に大きく影響するもの）」。
+・実験の結果を問う設問では、「何をしたか」と「どうなったか」（ここでは this effect was reduced）を本文で分けて確かめ、this などの指示語が何を指すかをはっきりさせることが手がかりになります。

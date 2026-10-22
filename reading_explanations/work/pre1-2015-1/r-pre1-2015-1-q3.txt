@@ -1,6 +1,7 @@
 ---
 choices: inhibited | assessed | multiplied | deflated
 answerText: assessed
+reviewed: yes
 ---
 【正解】2 assessed（評価された、価値を見積もられた）
 【和訳】
