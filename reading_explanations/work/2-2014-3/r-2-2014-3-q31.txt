@@ -1,0 +1,24 @@
+---
+choices: trouble | tourism | interest | employment
+answerText: interest
+---
+【正解】3 interest（関心、興味）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 trouble：困りごと、もめごと
+2 tourism：観光、観光業
+3 interest：関心、興味
+4 employment：雇用、仕事につくこと
+【考え方】
+空所の前の文は However, new developments in technology have made learning about one's ancestors much easier.（しかし、技術の新たな発展によって、自分の祖先について知ることはずっと簡単になった）です。それまで書かれていた「昔は祖先を調べるのが難しかった」という話から、However（しかし）で流れが変わっています。much easier は「ずっと簡単に」という比較の言い方です。
+空所の文は For this reason, (　) in this area has increased among ordinary people.（このため、一般の人々の間で、この分野への（　）が高まってきた）です。For this reason（このため）は、前の文の「祖先を調べるのがずっと簡単になったこと」を受けています。in this area の area は「分野」で、「祖先を調べるという分野」のことです。
+調べるのが簡単になれば、「調べてみたい」と思う人が増えると考えられます。interest in ～ は「～への関心、興味」という意味です。interest in this area has increased で「この分野への関心が高まった」となります。第3段落の最後に、900万人を超えるアメリカ人がインターネットで祖先を調べることを趣味だと言っている、とあることとも合います。正解は3です。
+【ほかの選択肢】
+1 trouble（困りごと）を入れると「この分野での困りごとが増えた」となります。前の文で「ずっと簡単になった」と言っているので、困りごとが増えるのは反対の流れになります。
+2 tourism（観光）を入れると「この分野での観光が増えた」となります。本文は記録を調べて祖先を知る話で、旅行や観光の話は出てきません。
+4 employment（雇用）を入れると「この分野での雇用が増えた」となります。本文には、この分野の仕事が増えたという話はなく、そのあとも一般の人々が趣味として祖先を調べる話が続くので、合いません。
+【覚えるポイント】
+・interest in ～：「～への関心、興味」。interest in ～ has increased で「～への関心が高まった」。
+・For this reason：「このため、こういう理由で」。前の文の内容を理由として受けます。

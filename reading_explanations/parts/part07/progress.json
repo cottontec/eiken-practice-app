@@ -71,10 +71,14 @@
     {
       "batchId": "2-2014-2",
       "target": 50,
-      "written": 0,
+      "written": 50,
       "contentReviewed": 0,
-      "status": "not_started"
+      "status": "complete_unreviewed",
+      "blank": 0,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 0
     }
   ],
-  "updatedAt": "2026-10-22T05:25:16+00:00"
+  "updatedAt": "2026-10-22T05:26:13+00:00"
 }

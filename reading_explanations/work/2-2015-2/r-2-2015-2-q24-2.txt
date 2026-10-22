@@ -1,0 +1,19 @@
+---
+choices: skillful | far | by | most | the
+answerText: far
+order: 3 2 5 4 1
+---
+【正解】2 far（この問題の2番目）
+【完成文】
+Sally was ( by far the most skillful ) piano player in the contest, so nobody was surprised when she won.
+並べ方：3 by → 2 far → 5 the → 4 most → 1 skillful（2番目は2、4番目は4）
+【和訳】
+サリーはそのコンテストで、ずば抜けていちばん上手なピアノ奏者だったので、彼女が優勝してもだれも驚きませんでした。
+【考え方】
+まず文の流れを確かめます。後半に so nobody was surprised when she won（だから、彼女が優勝してもだれも驚かなかった）とあります。だれも驚かなかったのですから、サリーはコンテストの中で特に上手な奏者だったと考えられます。
+空所のあとには piano player（ピアノ奏者）があり、そのあとに in the contest（そのコンテストで）が続きます。「コンテストの中でいちばん上手な」と言うには、最上級（「いちばん～」を表す形）を使います。skillful（上手な、腕のよい）のような長い語の最上級は、the most skillful（いちばん上手な）となります。そこで 5 the、4 most、1 skillful をこの順に並べて、piano player の前に置きます。
+残った 3 by と 2 far は、by far（ずば抜けて、断然）という決まった言い方になります。by far は最上級の前に置いて、「ずば抜けていちばん～」と意味を強めます。完成文は Sally was by far the most skillful piano player in the contest で、2番目は2 far です。
+まちがえやすいのは、the most skillful by far と by far を最上級のあとに置く並べ方です。この並べ方では、by far が skillful と piano player の間に割りこんでしまい、文が成り立ちません。空所の中では by far を最上級の前に置きます。
+【覚えるポイント】
+・by far ＋ 最上級：「ずば抜けていちばん～、断然いちばん～」。
+・the most ＋ 長い形容詞：「いちばん～な」。the most skillful（いちばん上手な）。

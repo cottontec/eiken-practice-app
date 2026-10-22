@@ -1,0 +1,30 @@
+---
+choices: Cities decided to stop using the state's system and create a new one. | The experiment caused economic growth in the state to slow down. | Some residents wanted government offices to be open five days a week. | People were more worried about global warming than working conditions.
+answerText: Some residents wanted government offices to be open five days a week.
+---
+【正解】3 Some residents wanted government offices to be open five days a week.（一部の住民が、役所が週5日開いていることを望んだから。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ユタ州は、なぜ2011年に実験を終えることに決めたのですか。
+1 市が州の制度を使うのをやめ、新しい制度を作ることに決めたから。
+2 実験によって、州の経済成長が遅くなったから。
+3 一部の住民が、役所が週5日開いていることを望んだから。
+4 人々が、働く条件よりも地球温暖化のことをより心配していたから。
+【考え方】
+2011年の出来事は、第4段落の初めに書かれています。
+However, in 2011, a law was made that brought back the old system.（しかし、2011年に、元の制度に戻す法律が作られた）とあります。bring back ～ は「～を元に戻す」、the old system（元の制度）は週5日の働き方のことです。
+その理由が次の文です。This was done because some Utah residents thought it was inconvenient that government offices were only open four days a week.（これは、役所が週に4日しか開いていないのは不便だと、ユタ州の住民の一部が考えたためだ）とあります。resident は「住民」、inconvenient は「不便な」、government office は「役所」です。
+週4日しか開いていないのが不便だと考えたということは、元のように週5日開いていてほしいと思ったということです。実際に、元の制度（週5日）に戻す法律が作られています。
+本文と選択肢は次のように対応しています。
+本文 some Utah residents（ユタ州の住民の一部）→ 選択肢 Some residents（一部の住民）
+本文 thought it was inconvenient that government offices were only open four days a week（役所が週4日しか開いていないのは不便だと考えた）→ 選択肢 wanted government offices to be open five days a week（役所が週5日開いていることを望んだ）
+正解は3です。
+【ほかの選択肢】
+1 本文には、some local cities continued with the new system（一部の地元の市は新しい制度を続けた）とあります。市が州の制度をやめたのではなく、むしろ続けた市があったので、本文と反対の内容です。
+2 本文の low economic growth（低い経済成長）は、多くの経済学者が「これから先にそうなりそうだ」と言っていることです。実験が経済成長を遅くしたとは書かれておらず、実験を終えた理由でもありません。
+4 地球温暖化は、将来エネルギーの使用を減らす必要が出てくるという話の中で出てきます。週4日勤務が広まりそうな理由として挙げられており、実験を終えた理由ではありません。
+【覚えるポイント】
+・bring back ～：「～を元に戻す、～を復活させる」。
+・inconvenient：「不便な」。反対は convenient（便利な）です。

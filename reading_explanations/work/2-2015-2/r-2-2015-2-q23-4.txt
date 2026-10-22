@@ -1,0 +1,20 @@
+---
+choices: computer | some | using | his | trouble
+answerText: his
+order: 2 5 3 4 1
+---
+【正解】4 his（この問題の4番目）
+【完成文】
+When Dave first started his new job, he had ( some trouble using his computer ). Now that he has had lots of training, though, it is no problem at all.
+並べ方：2 some → 5 trouble → 3 using → 4 his → 1 computer（2番目は5、4番目は4）
+【和訳】
+デイブは新しい仕事を始めたばかりのころ、コンピューターを使うのに少し苦労しました。しかし、たくさん研修を受けた今では、まったく問題ありません。
+【考え方】
+4番目を決めるために、空所の後半から組み立ててみます。選択肢の中で「もの」を表す名詞は computer と trouble です。his（彼の）は名詞の前に置いて「彼の～」と言う語なので、4 his のすぐあとには名詞がきます。「彼の苦労」よりも「彼のコンピューター」のほうが自然なので、his computer（彼のコンピューター）というまとまりを作ります。
+次に、his computer の前に 3 using（～を使うこと）を置くと、using his computer（彼のコンピューターを使うこと）となります。
+残った 2 some と 5 trouble は、空所の前の he had とつながって had some trouble（少し苦労した）となります。have trouble ～ing（～するのに苦労する）という決まった言い方を使うと、he had some trouble using his computer（彼はコンピューターを使うのに少し苦労した）が完成します。
+並べると some → trouble → using → his → computer となり、4番目は4 his です。2文目の Now that he has had lots of training, though, it is no problem at all.（しかし、たくさん研修を受けた今では、まったく問題ない）とも話が合います。
+まちがえやすいのは、had trouble using some his computer のように some と his を続けて並べる並べ方です。some（いくらかの）と his（彼の）は、どちらも名詞の前に置く語で、このように重ねて使うことはできません。
+【覚えるポイント】
+・have trouble ～ing：「～するのに苦労する」。trouble のあとに ～ing の形を続けます。
+・his ＋ 名詞：「彼の～」。his のすぐあとには名詞がきます。
