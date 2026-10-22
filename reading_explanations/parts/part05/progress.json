@@ -1,0 +1,60 @@
+{
+  "part": 5,
+  "targetAnswerSlots": 350,
+  "batches": [
+    {
+      "batchId": "2-2009-2",
+      "target": 50,
+      "written": 50,
+      "contentReviewed": 0,
+      "status": "complete_unreviewed",
+      "blank": 0,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 0
+    },
+    {
+      "batchId": "2-2009-3",
+      "target": 50,
+      "written": 0,
+      "contentReviewed": 0,
+      "status": "not_started"
+    },
+    {
+      "batchId": "2-2010-1",
+      "target": 50,
+      "written": 0,
+      "contentReviewed": 0,
+      "status": "not_started"
+    },
+    {
+      "batchId": "2-2010-2",
+      "target": 50,
+      "written": 0,
+      "contentReviewed": 0,
+      "status": "not_started"
+    },
+    {
+      "batchId": "2-2010-3",
+      "target": 50,
+      "written": 0,
+      "contentReviewed": 0,
+      "status": "not_started"
+    },
+    {
+      "batchId": "2-2011-1",
+      "target": 50,
+      "written": 0,
+      "contentReviewed": 0,
+      "status": "not_started"
+    },
+    {
+      "batchId": "2-2011-2",
+      "target": 50,
+      "written": 0,
+      "contentReviewed": 0,
+      "status": "not_started"
+    }
+  ],
+  "updatedAt": "2026-10-22T04:59:10+00:00"
+}
