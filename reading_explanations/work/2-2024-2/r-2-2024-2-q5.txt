@@ -8,7 +8,7 @@ answerText: eventually
 A: My ankle is taking so long to heal! I hurt it two months ago, but the doctor still won't allow me to play sports.
 B: Give it some more time, Barry. Your ankle will get better ［eventually］.
 （訳）
-A：足首がなかなか治らないんだ！ 2か月前にけがをしたのに、お医者さんがまだスポーツをさせてくれないんだよ。
+A：足首がなかなか治らないよ！ 2か月前にけがをしたのに、お医者さんがまだスポーツをさせてくれないよ。
 B：もう少し時間をかけてあげなよ、バリー。足首は（いずれは）よくなるよ。
 （選択肢の意味）
 1 eventually：いずれは、最後には
