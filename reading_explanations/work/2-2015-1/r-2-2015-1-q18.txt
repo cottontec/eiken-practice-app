@@ -1,0 +1,19 @@
+---
+choices: he would forget | he forgets | did he forget | should he forget
+answerText: did he forget
+---
+【正解】3 did he forget（彼は忘れた）
+【和訳】
+マーティンはひどい朝を過ごしました。報告書を職場に持っていくのを忘れただけでなく、15分遅刻もしました。
+（選択肢の意味）1 彼は忘れるだろう　2 彼は忘れる（今のこと）　3 彼は忘れた（倒置の形）　4 万一彼が忘れたら（倒置の形）
+【考え方】
+空所の前が Not only で、文の頭に置かれています。また、後ろに but he was also 15 minutes late（しかし彼は15分遅刻もした）があります。Not only A, but also B で「AだけでなくBも」という意味です。
+Not only のような否定の意味の語句が文の頭にくると、そのあとは倒置（主語と動詞の順番が入れかわり、疑問文と同じ語順になる形）になります。forgot（忘れた）を疑問文の語順にすると did he forget となります。
+また、1文目の had a terrible morning（ひどい朝を過ごした）や but のあとの was から、過去の出来事の話だと分かります。過去を表す did を使った did he forget が正解で、3を選びます。
+【ほかの選択肢】
+1 he would forget は倒置になっていません。また would は「～だろう」という意味で、実際にあった朝の出来事を述べる文に合いません。
+2 he forgets は倒置になっていません。また今のことを表す形（現在形）なので、過去の朝の話にも合いません。
+4 should he forget は倒置の形ですが、if he should forget と同じで「万一彼が忘れたら」という条件の意味になります。実際にあった出来事を「～だけでなく」と並べる文には合いません。
+【覚えるポイント】
+・Not only＋do/does/did＋主語＋動詞, but (also) ～：「～するだけでなく…も」。Not only が文の頭にくると、疑問文と同じ語順になります。
+・forget to ～：「～するのを忘れる」。

@@ -1,0 +1,28 @@
+---
+choices: By allowing companies to sell their games on its website. | By asking players to buy rice in order to use the website. | By charging players a small fee every time they make a mistake. | By showing advertisements when players answer correctly.
+answerText: By showing advertisements when players answer correctly.
+---
+【正解】4 By showing advertisements when players answer correctly.（プレーヤーが正しく答えたときに、広告を表示することによって。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：フリーライスは、活動のためのお金をどのようにして得ていますか。
+1 会社が、そのウェブサイトで自分たちのゲームを売れるようにすることによって。
+2 ウェブサイトを使うために、米を買うようプレーヤーに求めることによって。
+3 プレーヤーがまちがえるたびに、少しの料金をとることによって。
+4 プレーヤーが正しく答えたときに、広告を表示することによって。
+【考え方】
+お金の話は第3段落に書かれています。
+The donations of rice are paid for by charging companies a fee for putting advertisements on the site.（米の寄付の費用は、サイトに広告をのせる会社から料金をとることでまかなわれている）とあります。charge ＋人＋ a fee は「（人）に料金を請求する」、advertisement は「広告」です。
+次に Each time a correct answer is chosen, an advertisement appears below the problem.（正しい答えが選ばれるたびに、問題の下に広告が表示される）、The companies agree to pay a small fee each time the advertisement is shown（会社は、広告が表示されるたびに少しの料金を払うことに同意している）と続きます。
+つまり、プレーヤーが正しく答えると広告が表示され、そのたびに会社がお金を払います。本文と選択肢は次のように対応しています。
+本文 Each time a correct answer is chosen, an advertisement appears（正しい答えが選ばれるたびに広告が表示される）＝ 選択肢 showing advertisements when players answer correctly（プレーヤーが正しく答えたときに広告を表示する）
+正解は4です。
+【ほかの選択肢】
+1 会社はサイトに広告をのせて料金を払っているのであり、ゲームを売っているとは書かれていません。
+2 米は、会社が払う広告の料金で買われています。プレーヤーに米を買うよう求めるという話はありません。第1段落にも、ブリーンは若者が自分のお金を使わずに手助けできる方法を探していたとあります。
+3 料金を払うのはプレーヤーではなく、広告をのせる会社です。プレーヤーがまちがえたときには、正しい答えが表示されるだけです。
+【覚えるポイント】
+・charge ＋人＋ a fee：「（人）に料金を請求する」。
+・be paid for by ～：「～によって費用がまかなわれる」。

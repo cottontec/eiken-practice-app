@@ -1,0 +1,28 @@
+---
+choices: It has been teaching children in developing countries how to farm rice. | It gives food to people who answer the most questions. | It can be used to provide food to an international charity. | It was created by the United Nations World Food Programme.
+answerText: It can be used to provide food to an international charity.
+---
+【正解】3 It can be used to provide food to an international charity.（国際的な慈善団体に食べ物を提供するために使うことができる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：フリーライスというウェブサイトについて、何が分かりますか。
+1 発展途上国（経済の発展がまだ進んでいない国）の子どもたちに、米の育て方を教えてきた。
+2 最も多くの問題に答えた人々に、食べ物を与える。
+3 国際的な慈善団体に食べ物を提供するために使うことができる。
+4 国連世界食糧計画によって作られた。
+【考え方】
+フリーライスのしくみは、第2段落に書かれています。
+Each time the player answers a problem correctly, the website donates 10 grains of rice to the United Nations World Food Programme (WFP), an international organization that helps people suffering from food shortages.（プレーヤーが問題に正しく答えるたびに、このウェブサイトは、食料不足に苦しむ人々を助ける国際組織である国連世界食糧計画〔WFP〕に、米10粒を寄付する）とあります。donate は「寄付する」、grain は「（米などの）粒」です。
+つまり、フリーライスでゲームをすると、国際的な組織に米を寄付することができます。本文と選択肢は次のように対応しています。
+本文 donates 10 grains of rice（米10粒を寄付する）＝ 選択肢 provide food（食べ物を提供する）
+本文 an international organization that helps people suffering from food shortages（食料不足に苦しむ人々を助ける国際組織）＝ 選択肢 an international charity（国際的な慈善団体。慈善団体は、困っている人を助ける活動をする団体のことです）
+正解は3です。
+【ほかの選択肢】
+1 フリーライスのゲームは、英語の語彙を増やすためのものです。米の育て方を教えているという話は本文にありません。
+2 米は、問題に正しく答えるたびにWFPへ寄付されます。最も多く答えた人に食べ物を与えるという話は本文にありません。
+4 フリーライスを作ったのはブリーンです。WFPは、2009年にブリーンからウェブサイトを譲り受けた組織なので、作ったのではありません。
+【覚えるポイント】
+・donate：「寄付する」。名詞は donation（寄付）です。
+・each time ～：「～するたびに」。
