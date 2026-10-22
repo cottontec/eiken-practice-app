@@ -1,0 +1,32 @@
+---
+choices: it should not be carried out because it is impossible for animals to agree to what is going to happen to them. | it could bring about significant changes in animal behavior that could, in turn, have negative effects on the environment. | there are likely to be more risks in performing operations on animals' brains due to our lack of knowledge about how they function. | there is a significant risk that the effects of the procedure could reduce the survival instincts of animals that receive it.
+answerText: it should not be carried out because it is impossible for animals to agree to what is going to happen to them.
+---
+【正解】1 it should not be carried out because it is impossible for animals to agree to what is going to happen to them.（動物が、自分たちに起ころうとしていることに同意するのは不可能なので、それは行われるべきではないということだ。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：One argument against animal uplift that is presented in the third paragraph is that（第3段落で示されている、動物の知能の引き上げに反対する主張の一つは、）
+1 it should not be carried out because it is impossible for animals to agree to what is going to happen to them.（動物が、自分たちに起ころうとしていることに同意するのは不可能なので、それは行われるべきではないということだ。）
+2 it could bring about significant changes in animal behavior that could, in turn, have negative effects on the environment.（それは動物の行動に大きな変化をもたらし、それが今度は環境に悪い影響を与えるおそれがあるということだ。）
+3 there are likely to be more risks in performing operations on animals' brains due to our lack of knowledge about how they function.（脳がどのように働くかについての私たちの知識が足りないために、動物の脳の手術を行うことには、より多くの危険がありそうだということだ。）
+4 there is a significant risk that the effects of the procedure could reduce the survival instincts of animals that receive it.（その処置の影響で、処置を受けた動物の生き残るための本能が弱まってしまう大きな危険があるということだ。）
+【考え方】
+まず見るところ：第3段落の最後の since it would be impossible for the creature to give consent beforehand
+設問は、第3段落にある「反対する主張」をたずねています。第3段落の最後の文を見ます。
+There is also the issue of whether making such radical alterations to an animal's biology could ever be considered ethical, since it would be impossible for the creature to give consent beforehand, especially since the procedures would probably not be reversible.（また、動物の体のしくみにそのような根本的な変更を加えることが、そもそも倫理的だと考えられることがあるのか、という問題もある。というのも、その生き物が前もって同意することはできないからであり、とくに、その処置はおそらく元に戻せないものだからだ）
+ethical は「倫理的な（人として正しい）」、consent は「同意（相手のすることを認めること）」、beforehand は「前もって」です。
+この文は、「動物は前もって同意できないのだから、こうした変更が正しいとは言えないのではないか」と、反対の立場から疑問を示しています。
+本文と選択肢を対にすると、次のようになります。
+本文 it would be impossible for the creature to give consent beforehand（その生き物が前もって同意することはできない）→ 選択肢 it is impossible for animals to agree to what is going to happen to them（動物が、自分たちに起ころうとしていることに同意するのは不可能だ）
+本文 whether ～ could ever be considered ethical（そもそも倫理的だと考えられることがあるのか）→ 選択肢 it should not be carried out（それは行われるべきではない）
+本文は疑問の形ですが、反対する人たちの主張として読むと、「同意できないのだから行うべきではない」という意味になると読み取れます。ですから1が正解です。
+この問題の型：言いかえ（give consent ＝ agree to）／推論（倫理的と言えるのか → 行うべきではない）
+【ほかの選択肢】
+2 第3段落では、知能を引き上げられた動物の生き方が変わることや、心への影響が書かれていますが、それが環境に悪い影響を与えるという話はありません。集団への影響が出てくるのは第2段落の魚の実験の話で、環境の話ではありません。
+3 第3段落には surgical procedures on healthy animals（健康な動物に対する外科手術）が必要になるとは書かれていますが、脳の働きについての知識が足りないために危険が大きい、とは書かれていません。
+4 第3段落には、マウスの一生はふだんなら a simple matter of survival（ただ生き延びるという単純なもの）とあり、survival（生き延びること）という語は出てきます。しかし書かれているのは、自分の寿命の短さなどに気づいてしまうことで、生き残るための本能が弱まるという話ではありません。
+【覚えるポイント】
+・consent：「同意」。give consent ＝ agree（同意する）。
+・「反対する主張」をたずねる設問では、opponents point out（反対する人たちは指摘している）や There is also the issue of ～（～という問題もある）のような語句のあとに、主張の中身が書かれていることが多いです。
