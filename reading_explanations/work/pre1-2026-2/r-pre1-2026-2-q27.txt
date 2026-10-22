@@ -8,7 +8,7 @@ answerText: Because SNAP benefits have the effect of stimulating local economies
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：What has research shown about the wider economic effects of employment requirements for SNAP benefits?（SNAPの給付の就労要件がもたらす、より広い経済への影響について、研究は何を示してきたか。）
-1 They are much more effective for reducing unemployment rates when a recession is not as serious.（就労要件は、景気後退がそれほど深刻でないときのほうが、失業率を下げるのにずっと効果がある。）
+1 They are much more effective for reducing unemployment rates when a recession is not as serious.（就労要件は、景気後退が深刻なときよりも、そこまで深刻でないときのほうが、失業率を下げるのにずっと効果がある。）
 2 Evidence suggests that they tend to encourage recipients to relocate to areas where more jobs are available.（就労要件は、受給者に、より多くの仕事がある地域へ移り住むよう促す傾向があることが、証拠から分かる。）
 3 They tend to free up resources for other types of government programs that promote economic recovery.（就労要件は、景気の回復を進めるほかの種類の政府の計画のために、お金などの資源を使えるようにする傾向がある。）
 4 Because SNAP benefits have the effect of stimulating local economies, enforcing work requirements can make it harder to recover from recessions.（SNAPの給付には地域の経済を活発にする効果があるので、就労要件を実施すると、景気後退から立ち直るのが難しくなることがある。）
