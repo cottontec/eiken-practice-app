@@ -1,0 +1,31 @@
+---
+choices: Few hints about what the land was like around that time have been found. | There is not much fossil evidence from the period when this change happened. | Ancient fish fossils show that it occurred in several different ways. | Experts are not sure exactly when this important event might have occurred.
+answerText: There is not much fossil evidence from the period when this change happened.
+---
+【正解】2 There is not much fossil evidence from the period when this change happened.（この変化が起こった時代の化石の証拠があまりない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：脊椎動物が最初にどのようにして陸上で暮らし始めたのかについて、人々がよく分かっていないのはなぜですか。
+1 そのころの陸地がどのようであったかについての手がかりが、ほとんど見つかっていない。
+2 この変化が起こった時代の化石の証拠があまりない。
+3 古代の魚の化石から、それがいくつかの異なる方法で起こったことが分かる。
+4 専門家たちは、この重要な出来事が正確にいつ起こったのかよく分かっていない。
+【考え方】
+設問の unsure about how vertebrates first started living on land（脊椎動物が最初にどのようにして陸上で暮らし始めたのか、よく分かっていない）と同じ内容が、第2段落にあります。
+Even today, though, little is known about exactly how this occurred.（しかし今でも、それが正確にどのようにして起こったのかについては、ほとんど分かっていない）
+little is known は「ほとんど知られていない、分かっていない」です。this は、前の文の The movement of vertebrates from the sea to land（脊椎動物が海から陸へ移ったこと）を指します。
+すぐあとに、その理由が書かれています。
+One reason for this is that relatively few fossils remain from the time when fish were evolving into tetrapods.（その理由の1つは、魚が四肢動物へと進化しつつあった時代の化石が、比較的少ししか残っていないことだ）
+本文と選択肢を対にすると、次のようになります。
+本文 relatively few fossils remain（化石が比較的少ししか残っていない）＝ 選択肢 There is not much fossil evidence（化石の証拠があまりない）
+本文 the time when fish were evolving into tetrapods（魚が四肢動物へと進化しつつあった時代）＝ 選択肢 the period when this change happened（この変化が起こった時代）
+ですから2が正解です。
+【ほかの選択肢】
+1 本文に hints（手がかり）という語は出てきますが、それはカナダで見つかった化石が「この変化がどのようにして起こったのか」について新しい手がかりを与えた、という話です。そのころの陸地の様子についての手がかりの話は本文にありません。
+3 化石からいくつかの異なる方法で起こったと分かった、という話は本文にありません。本文に書かれているのは、化石が少ないために、どのようにして起こったのかがよく分かっていない、ということです。
+4 本文には around 374 million years ago（約3億7,400万年前）と、起こった時期が書かれています。よく分かっていないのは「いつ」ではなく「どのようにして」起こったのかです。
+【覚えるポイント】
+・little is known about ～：「～についてはほとんど分かっていない」。a little（少しは）とちがい、little だけだと「ほとんどない」という否定の意味になります。
+・relatively few ～：「比較的少ない～」。

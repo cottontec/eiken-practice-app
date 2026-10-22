@@ -1,0 +1,29 @@
+---
+choices: the group of animals that developed into the earliest kinds of fish. | the only animals without backbones that have developed arms and legs. | animals with a backbone and four limbs which allow them to walk or fly. | animals that lived both in the sea and on land about 374 million years ago.
+answerText: animals with a backbone and four limbs which allow them to walk or fly.
+---
+【正解】3 animals with a backbone and four limbs which allow them to walk or fly.（背骨と、歩いたり飛んだりすることを可能にする4本の手足を持つ動物（である）。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：「四肢動物」とは
+1 進化して最も初期の種類の魚になった動物のグループである。
+2 腕と脚を発達させた、背骨を持たない唯一の動物である。
+3 背骨と、歩いたり飛んだりすることを可能にする4本の手足を持つ動物である。
+4 約3億7,400万年前に、海と陸の両方に住んでいた動物である。
+【考え方】
+設問の "Tetrapods"（四肢動物）がどんな動物かは、第1段落に説明があります。
+A tetrapod is a creature which has four limbs—legs and either wings or arms, depending on the kind of animal—and a backbone.（四肢動物とは、4本の手足――動物の種類によって、脚と、翼か腕のどちらか――と、背骨を持つ生き物のことだ）
+limb は「手足（腕・脚・翼など）」です。A is B（AとはBのことだ）という形で、言葉の意味をはっきり説明しています。
+本文と選択肢を対にすると、次のようになります。
+本文 has four limbs ... and a backbone（4本の手足と背骨を持つ）＝ 選択肢 animals with a backbone and four limbs（背骨と4本の手足を持つ動物）
+本文 legs and either wings or arms（脚と、翼か腕）→ 読み取れること：脚で歩き、翼で飛ぶことができる ＝ 選択肢 which allow them to walk or fly（歩いたり飛んだりすることを可能にする）
+本文の例に birds（鳥類）や human beings（人間）が挙げられていることも、歩く動物と飛ぶ動物がふくまれることに合っています。ですから3が正解です。
+【ほかの選択肢】
+1 本文では、魚が先に現れ、その一部が海から出て最初の四肢動物になったと書かれています。四肢動物が魚になったのではなく、魚から四肢動物が生まれたので、順番が反対です。
+2 四肢動物は a backbone（背骨）を持つ動物です。「背骨を持たない」は本文と反対です。
+4 本文の around 374 million years ago, some of these fish moved out of the sea and began living on land（約3億7,400万年前に、これらの魚の一部が海から出て陸上で暮らし始めた）と、時期は合っています。しかし、本文で四肢動物は「4本の手足と背骨を持つ生き物」と説明されていて、今の鳥類や人間もふくまれます。「その時代に海と陸の両方に住んでいた動物」という説明は本文になく、一部だけが本文と重なる選択肢です。
+【覚えるポイント】
+・limb：「手足（腕・脚・翼など）」。four limbs は「4本の手足」です。
+・A is B（AとはBのことだ）の形の文は、言葉の意味を説明しています。「～とは何か」という設問の手がかりになります。

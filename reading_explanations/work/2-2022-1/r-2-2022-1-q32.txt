@@ -1,0 +1,28 @@
+---
+choices: doing business in towns and cities. | visiting the United States and Europe. | trying to show that they were farmers. | enjoying leisure activities outside.
+answerText: enjoying leisure activities outside.
+---
+【正解】4 enjoying leisure activities outside.（屋外で余暇の活動を楽しんでいるとき。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：一般の人々がツイードを着たのは、
+1 町や都市で仕事をしているときだ。
+2 アメリカやヨーロッパを訪れているときだ。
+3 自分たちが農家の人であることを示そうとしているときだ。
+4 屋外で余暇（仕事のない自由な時間）の活動を楽しんでいるときだ。
+【考え方】
+設問は「一般の人々（ordinary people）がツイードを着たのはどんなときか」です。第3段落に Ordinary people という、設問と同じ語句があります。
+Ordinary people began to imitate them by wearing tweed for outdoor hobbies such as playing golf or cycling.（一般の人々は、ゴルフやサイクリングのような屋外の趣味のときにツイードを着ることで、彼らをまねするようになった）
+imitate は「まねをする」、them（彼ら）は、前の文に出てくる裕福な人々を指しています。一般の人々は、ゴルフやサイクリングなどの屋外の趣味のときにツイードを着ました。
+本文と選択肢を対にすると、次のようになります。
+本文 outdoor hobbies such as playing golf or cycling（ゴルフやサイクリングのような屋外の趣味）＝ 選択肢 leisure activities outside（屋外での余暇の活動）
+outdoor（屋外の）が outside（屋外で）に、hobbies（趣味）が leisure activities（余暇の活動）に言いかえられています。ですから、4が正解です。
+【ほかの選択肢】
+1 本文の doing business in towns and cities（町や都市で仕事をするとき）は、裕福な男性たちが青や黒のスーツを着た場面です。ツイードを着た場面ではなく、人物も一般の人々ではありません。
+2 本文には The fashion for wearing tweed also spread to the United States and the rest of Europe（ツイードを着る流行はアメリカやヨーロッパのほかの地域にも広がった）とあります。これは流行が広がったという話で、一般の人々がアメリカやヨーロッパを訪れるときに着たという話ではありません。
+3 本文では、一般の人々は裕福な人々をまねてツイードを着たとあります。農家の人であることを示そうとした、という話はありません。
+【覚えるポイント】
+・imitate：「まねをする」。
+・leisure：「余暇（仕事のない自由な時間）」。outdoor hobbies（屋外の趣味）が leisure activities outside と言いかえられています。

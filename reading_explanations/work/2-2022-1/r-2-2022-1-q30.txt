@@ -1,0 +1,30 @@
+---
+choices: it helped keep them warm and dry while they were outside. | it helped them to make some money in their free time. | it allowed them to use any extra wool they produced. | it allowed them to teach their culture to younger people.
+answerText: it helped keep them warm and dry while they were outside.
+---
+【正解】1 it helped keep them warm and dry while they were outside.（外にいる間、体を暖かく、ぬれないように保つのに役立ったから。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ツイードがスコットランドとアイルランドの農家の人々に人気があったのは、
+1 外にいる間、体を暖かく、ぬれないように保つのに役立ったからだ。
+2 自由な時間にいくらかお金をかせぐのに役立ったからだ。
+3 自分たちが生産した余分な羊毛を何でも使うことができたからだ。
+4 自分たちの文化を若い人たちに教えることができたからだ。
+【考え方】
+設問は「ツイードが農家の人々に人気があった理由」です。第1段落の最後の文に、popular with the farmers（農家の人々に人気があった）という、設問と同じ語句があります。
+The weather in Scotland and Ireland is often cold and wet, so this warm, waterproof material was very popular with the farmers as they worked in the fields.（スコットランドとアイルランドの天気は寒くて雨が多いことがよくあるので、この暖かくて水を通さない素材は、畑で働く農家の人々にとても人気があった）
+so（だから）の前が理由です。寒くて雨が多い天気の中で、暖かくて水を通さない（waterproof）布は、畑で働くときに役立ちました。
+本文と選択肢を対にすると、次のようになります。
+本文 warm（暖かい）＝ 選択肢 keep them warm（暖かく保つ）
+本文 waterproof（水を通さない）＝ 選択肢 keep them dry（ぬれないように保つ）
+本文 as they worked in the fields（畑で働くときに）＝ 選択肢 while they were outside（外にいる間）
+ですから、1が正解です。
+【ほかの選択肢】
+2 ツイードでお金をかせいだという話は、本文にありません。第1段落に書かれているのは、農家の人々が畑で働くときにツイードが役立ったことです。
+3 ツイードは羊毛（wool）から作られますが、余分な羊毛を使えるから人気があった、とは書かれていません。本文の「人気の理由」は、暖かくて水を通さないことです。
+4 文化を若い人に教えたという話は、本文にありません。
+【覚えるポイント】
+・waterproof：「水を通さない、防水の」。
+・A, so B：「Aだから、B」。so の前が理由、あとが結果です。

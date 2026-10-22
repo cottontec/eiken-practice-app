@@ -1,0 +1,29 @@
+---
+choices: He often went hunting on land owned by farmers in Scotland. | He bought an estate in Scotland where there was a tweed factory. | He was seen wearing it while traveling in Scotland. | He ordered a special tweed pattern for an estate in Scotland.
+answerText: He ordered a special tweed pattern for an estate in Scotland.
+---
+【正解】4 He ordered a special tweed pattern for an estate in Scotland.（彼はスコットランドのある私有地のために、特別なツイードの模様を注文した。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：アルバート公は、どのようにしてツイードを有名にする手助けをしましたか。
+1 彼は、スコットランドの農家の人々が持つ土地へ、よく狩りに出かけた。
+2 彼は、ツイードの工場があるスコットランドの私有地を買った。
+3 彼は、スコットランドを旅行している間、ツイードを着ているところを見られた。
+4 彼は、スコットランドのある私有地のために、特別なツイードの模様を注文した。
+【考え方】
+設問は「アルバート公がツイードを有名にした方法」です。第2段落の最後の文に Prince Albert（アルバート公）が出てきます。
+After Queen Victoria's husband, Prince Albert, had a unique pattern made for the people on a royal estate in Scotland, the cloth became famous throughout the United Kingdom.（ヴィクトリア女王の夫であるアルバート公が、スコットランドにある王室の私有地の人々のために独自の模様を作らせたあと、この布はイギリス全土で有名になった）
+have ＋もの＋過去分詞（made など）は、「（人に頼んで）ものを～してもらう、～させる」という意味です。had a unique pattern made で「独自の模様を（だれかに）作らせた」となります。アルバート公がこうしたあと、ツイードはイギリス全土で有名になりました。
+本文と選択肢を対にすると、次のようになります。
+本文 had a unique pattern made（独自の模様を作らせた）＝ 選択肢 ordered a special tweed pattern（特別なツイードの模様を注文した）
+本文 for the people on a royal estate in Scotland（スコットランドにある王室の私有地の人々のために）＝ 選択肢 for an estate in Scotland（スコットランドのある私有地のために）
+unique（独自の、ほかにない）が special（特別な）に言いかえられています。ですから、4が正解です。
+【ほかの選択肢】
+1 本文で狩りに使われていたのは、裕福なイングランドの人々が買った estates（私有地）です。農家の人々が持つ土地ではありません。また、アルバート公がよく狩りに出かけたとは書かれていません。
+2 アルバート公が私有地を買ったことも、そこにツイードの工場があったことも、本文には書かれていません。本文にあるのは、王室の私有地の人々のために模様を作らせたことです。
+3 アルバート公がツイードを着ているところを見られた、という話は本文にありません。旅行の話も出てきません。
+【覚えるポイント】
+・have ＋もの＋過去分詞：「（人に頼んで）ものを～してもらう、～させる」。have a pattern made で「模様を作らせる」。
+・unique：「独自の、ほかにない」。special（特別な）と言いかえられることがあります。
