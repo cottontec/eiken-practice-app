@@ -1,0 +1,31 @@
+---
+choices: Various colors were introduced to appeal to European customers. | The price of Dhaka muslin in Europe increased dramatically. | Makers began to use British techniques to make better cloth. | Production of high-quality Dhaka muslin stopped completely.
+answerText: Production of high-quality Dhaka muslin stopped completely.
+---
+【正解】4 Production of high-quality Dhaka muslin stopped completely.（高品質のダッカ・モスリンの生産は完全に止まった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：イギリスの商人たちが出した要求の結果、何が起こりましたか。
+1 ヨーロッパの客の心をひきつけるために、さまざまな色が取り入れられた。
+2 ヨーロッパでのダッカ・モスリンの値段が大きく上がった。
+3 作り手たちは、よりよい布を作るためにイギリスの技術を使い始めた。
+4 高品質のダッカ・モスリンの生産は完全に止まった。
+【考え方】
+第2段落の後半に、イギリスの商人たちのことが書かれています。
+British traders put pressure on the makers of Dhaka muslin to produce more cloth at lower prices.（イギリスの商人たちは、ダッカ・モスリンの作り手たちに、より安い値段でより多くの布を作るよう圧力をかけた）
+put pressure on ～ は「～に圧力をかける（強く求めて、無理にさせようとする）」という意味です。これが設問の the demands made by British traders（イギリスの商人たちが出した要求）に当たります。
+その結果が、次の文に書かれています。
+Eventually, all the makers decided to either produce lower-quality types of cloth or quit.（最終的に、作り手たちはみな、より品質の低い種類の布を作るか、布作りをやめるかのどちらかに決めた）
+either A or B は「AかBのどちらか」です。all the makers（作り手全員）が、品質の低い布に切りかえるか、やめるかのどちらかを選んだのですから、高品質のダッカ・モスリンを作る人は1人もいなくなったことになります。
+本文と選択肢を対にすると、次のようになります。
+本文 all the makers decided to either produce lower-quality types of cloth or quit（作り手はみな、品質の低い布を作るか、やめるかに決めた）→ 選択肢 Production of high-quality Dhaka muslin stopped completely（高品質のダッカ・モスリンの生産は完全に止まった）
+これは同じ意味の言いかえではなく、本文から読み取れることです。all（みな）が、選択肢の completely（完全に）につながる大切な語です。4が正解です。
+【ほかの選択肢】
+1 色については、本文に何も書かれていません。
+2 本文で値段について書かれているのは、商人たちが at lower prices（より安い値段で）作るよう求めたことです。ヨーロッパでの値段が大きく上がったという話はありません。
+3 イギリスの技術を使ったという話は、本文にありません。また、作り手たちが選んだのは lower-quality types of cloth（より品質の低い種類の布）を作ることか、やめることで、よりよい布を作ったのではありません。
+【覚えるポイント】
+・put pressure on ～ to ...：「～に…するよう圧力をかける」。
+・either A or B：「AかBのどちらか」。

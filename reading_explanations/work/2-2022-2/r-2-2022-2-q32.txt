@@ -1,0 +1,29 @@
+---
+choices: to find plants like the ones that were used to make Dhaka muslin. | to check whether samples of Dhaka muslin were genuine or fake. | to explain the evolution of Dhaka muslin at an exhibition. | to create artificial Dhaka muslin in a laboratory in London.
+answerText: to find plants like the ones that were used to make Dhaka muslin.
+---
+【正解】1 to find plants like the ones that were used to make Dhaka muslin.（ダッカ・モスリンを作るのに使われていたものに似た植物を見つけるために。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：サイフル・イスラムは、フティ・カルパスの葉のDNAを（　）使った。
+1 ダッカ・モスリンを作るのに使われていたものに似た植物を見つけるために
+2 ダッカ・モスリンの見本が本物か偽物かを確かめるために
+3 展示会でダッカ・モスリンの移り変わりを説明するために
+4 ロンドンの研究所で人工のダッカ・モスリンを作るために
+【考え方】
+第3段落の後半を見ます。イスラムは、ダッカ・モスリンをもう一度作れないかと考えましたが、he could not find any phuti karpas plants in Bangladesh（バングラデシュでフティ・カルパスの植物を1本も見つけられなかった）とあります。phuti karpas は、第1段落にあるとおり、ダッカ・モスリンの材料となる綿がとれる植物です。
+次の文が答えの根拠です。
+However, using the DNA from some dried leaves of phuti karpas from a museum, he was able to find a species that was almost the same.（しかし、ある博物館にあったフティ・カルパスの乾燥した葉のDNAを使って、彼はそれとほとんど同じ種を見つけることができた）
+DNA は、生き物の体のつくりを決める設計図のようなものです。species は「（生き物の）種、種類」です。
+本文と選択肢を対にすると、次のようになります。
+本文 find a species that was almost the same（ほとんど同じ種を見つける）＝ 選択肢 find plants like the ones that were used to make Dhaka muslin（ダッカ・モスリンを作るのに使われていたものに似た植物を見つける）
+almost the same（ほとんど同じ）が like ～（～に似た）に、フティ・カルパスが the ones that were used to make Dhaka muslin（ダッカ・モスリンを作るのに使われていたもの）に言いかえられています。1が正解です。
+【ほかの選択肢】
+2 見本が本物か偽物かを確かめたという話は、本文にありません。DNA は、材料の植物とほとんど同じ種を見つけるために使われました。
+3 本文に an exhibition about Dhaka muslin（ダッカ・モスリンについての展示会）は出てきますが、それはイスラムが企画を頼まれたものです。DNA を使って、展示会でダッカ・モスリンの移り変わりを説明したという話はありません。
+4 本文には a Bangladeshi man living in London（ロンドンに住むバングラデシュ人の男性）とありますが、ロンドンの研究所で人工の布を作ったという話はありません。第4段落にあるように、イスラムは見つけた種の植物から綿を収穫して、糸や布を作っています。
+【覚えるポイント】
+・species：「（生き物の）種、種類」。1つでも複数でも同じ形です。
+・almost the same：「ほとんど同じ」。

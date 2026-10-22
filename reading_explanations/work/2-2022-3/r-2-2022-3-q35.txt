@@ -1,0 +1,28 @@
+---
+choices: Chimpanzees make the same noises as humans do when they are surprised. | Chimpanzees produce sounds by breathing through their noses. | Chimpanzees do not only make sounds when they breathe out. | Chimpanzees do not breathe as slowly as humans do when they laugh.
+answerText: Chimpanzees do not only make sounds when they breathe out.
+---
+【正解】3 Chimpanzees do not only make sounds when they breathe out.（チンパンジーは、息を吐くときにだけ声を出すわけではない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：チンパンジーの笑いは、ほとんどの人間の笑いとどのように違いますか。
+1 チンパンジーは、驚いたときに人間が出すのと同じ声を出す。
+2 チンパンジーは、鼻で息をすることによって音を出す。
+3 チンパンジーは、息を吐くときにだけ声を出すわけではない。
+4 チンパンジーは笑うとき、人間が笑うときほどゆっくりとは息をしない。
+【考え方】
+チンパンジーと人間の笑い方の違いは、第2段落に書かれています。
+When most humans laugh, they only make a noise when they breathe out, but when chimpanzees laugh, they make a noise both when they breathe out and when they breathe in.（ほとんどの人間は、笑うとき、息を吐くときにだけ声を出す。しかし、チンパンジーは笑うとき、息を吐くときと吸うときの両方で声を出す）
+breathe out は「息を吐く」、breathe in は「息を吸う」という意味です。人間は「吐くときだけ」、チンパンジーは「吐くときと吸うときの両方」で声を出します。
+本文と選択肢を対にすると、次のようになります。
+本文 they make a noise both when they breathe out and when they breathe in（息を吐くときと吸うときの両方で声を出す）＝ 選択肢 Chimpanzees do not only make sounds when they breathe out（チンパンジーは、息を吐くときにだけ声を出すわけではない）
+選択肢の do not only ～ は「～だけするわけではない」という意味です。吐くときだけでなく、吸うときにも声を出す、ということを表しています。ですから3が正解です。
+【ほかの選択肢】
+1 驚いたときの声の話は、本文にありません。本文の it is not really surprising（それほど驚くことではない）は、チンパンジーなどが笑うことについての研究者の見方で、チンパンジーが驚いたときの声のことではありません。
+2 鼻で息をして音を出すという話は、本文にありません。本文で比べられているのは、息を吐くときか吸うときか、という点です。
+4 息の速さ（ゆっくりかどうか）を人間と比べた話は、本文にありません。
+【覚えるポイント】
+・breathe out：「息を吐く」。breathe in：「息を吸う」。
+・not only ～：「～だけではない」。both A and B（AとBの両方）の言いかえとして使われることがあります。
