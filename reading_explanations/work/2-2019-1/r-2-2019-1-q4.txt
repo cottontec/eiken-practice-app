@@ -1,6 +1,7 @@
 ---
 choices: reverse | enlarge | consume | witness
 answerText: enlarge
+reviewed: yes
 ---
 【正解】2 enlarge（拡大する、大きくする）
 【和訳】

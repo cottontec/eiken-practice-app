@@ -1,6 +1,7 @@
 ---
 choices: pronunciation | invention | frequency | rehearsal
 answerText: frequency
+reviewed: yes
 ---
 【正解】3 frequency（回数、頻度）
 【和訳】

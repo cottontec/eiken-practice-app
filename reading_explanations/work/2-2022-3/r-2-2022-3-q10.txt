@@ -1,0 +1,19 @@
+---
+choices: angels | ancestors | employees | enemies
+answerText: ancestors
+---
+【正解】2 ancestors（先祖、祖先）
+【和訳】
+ヘイリーが自分の（先祖）について調べたところ、ひいおじいさんの1人が、かつてロンドンの有名な劇場で働いていたことが分かりました。
+（選択肢の意味）1 天使　2 先祖、祖先　3 従業員　4 敵
+【考え方】
+空所のあとの she discovered that one of her great-grandfathers used to work in a famous theater in London（ひいおじいさんの1人が、かつてロンドンの有名な劇場で働いていたことが分かった）に注目します。great-grandfather は「ひいおじいさん（祖父の父）」、used to ～ は「かつて～していた」という意味です。
+ヘイリーが調べた結果、昔の家族のことが分かったという流れです。ひいおじいさんは、ヘイリーの家系の昔の人、つまり「先祖」にあたります。ancestor は「先祖、祖先」なので、did some research into her ancestors（自分の先祖について調べた）となり、2が正解です。
+【ほかの選択肢】
+1 angels は「天使」です。天使について調べてひいおじいさんの仕事が分かる、というのは意味が通りません。
+3 employees は「従業員（やとわれて働く人）」です。「自分の従業員について調べた」では、ひいおじいさんのことが分かった理由になりません。
+4 enemies は「敵」です。「自分の敵について調べた」となり、ひいおじいさんの話とつながりません。
+【覚えるポイント】
+・ancestor：「先祖、祖先」。反対の「子孫」は descendant です。
+・do research into ～：「～について調べる、研究する」。
+・used to ～：「かつて～していた」。

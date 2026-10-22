@@ -1,0 +1,30 @@
+---
+choices: Ordering more than 50 cups next time. | Using cups that are white or brown. | Offering his customers free coffee. | Buying his cups from another company.
+answerText: Using cups that are white or brown.
+---
+【正解】2 Using cups that are white or brown.（白か茶色のカップを使うこと。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ノエル・ランダーはスタインさんに何を提案していますか。
+1 次回は50個より多くのカップを注文すること。
+2 白か茶色のカップを使うこと。
+3 自分の店の客に無料のコーヒーを出すこと。
+4 カップをほかの会社から買うこと。
+【考え方】
+設問は「ランダーさんの提案」です。第2段落の最後に I am writing to you to suggest some alternatives.（いくつかの代わりの案を提案するためにご連絡しております）とあります。alternative は「代わりの案」です。その案は第3段落に書かれています。
+・If you really need black cups, then we have them in small and large sizes.（どうしても黒いカップが必要なら、小サイズと大サイズならある）
+・We have medium-sized coffee cups in white, and we could print your logo on these instead.（白い中サイズのコーヒーカップがあるので、代わりにこちらにロゴを印刷できる）
+・We also have medium-sized cups in brown.（茶色の中サイズのカップもある）
+ランダーさんは、I guess that size is more important than color for you.（お客様にとっては、色よりもサイズのほうが大切なのではないかと思う）とも書いています。そのため、色を変えて、中サイズの白か茶色のカップにする案を出しています。
+本文と選択肢を対にすると、次のようになります。
+本文 medium-sized coffee cups in white ／ medium-sized cups in brown（白い中サイズのカップ／茶色の中サイズのカップ）＝ 選択肢 cups that are white or brown（白か茶色のカップ）
+ですから、2が正解です。
+【ほかの選択肢】
+1 本文の 50 cups は、案を選んでくれたら無料で追加して送るカップの数です（we'll send you an additional 50 cups for free）。次回に50個より多く注文するよう提案しているのではありません。
+3 本文で無料（for free）なのは追加の50個のカップで、コーヒーではありません。スタインさんの店の客に無料のコーヒーを出すという話はありません。
+4 ほかの会社からカップを買うという話は、本文にありません。ランダーさんは、自分の会社にある別のカップを使う案を出しています。
+【覚えるポイント】
+・alternative：「代わりの案、ほかの選択肢」。suggest some alternatives で「いくつかの代わりの案を提案する」。
+・A is more important than B：「AはBより大切だ」。ここでは「色よりサイズのほうが大切」と、サイズと色を比べています。

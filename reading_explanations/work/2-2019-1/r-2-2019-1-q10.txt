@@ -1,6 +1,7 @@
 ---
 choices: orchestra | parliament | foundation | nursery
 answerText: parliament
+reviewed: yes
 ---
 【正解】2 parliament（議会）
 【和訳】

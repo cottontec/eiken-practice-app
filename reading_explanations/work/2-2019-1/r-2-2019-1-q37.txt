@@ -1,6 +1,7 @@
 ---
 choices: too much money was spent purchasing the high-quality machines used for the project. | the new system is working very differently from the original model for the program. | it can cause difficult problems if incorrect information is accidentally recorded. | it would be too challenging to set up a similar program in developing countries.
 answerText: it can cause difficult problems if incorrect information is accidentally recorded.
+reviewed: yes
 ---
 【正解】3 it can cause difficult problems if incorrect information is accidentally recorded.（まちがった情報がうっかり記録されると、やっかいな問題が起こる可能性がある。）
 【和訳】

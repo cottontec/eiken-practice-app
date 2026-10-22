@@ -1,6 +1,7 @@
 ---
 choices: leading to more people having dangerous diseases. | the main cause of death for people of all ages in wealthy countries. | becoming more and more of a problem in developing countries. | usually caused by drivers who are between the ages of 15 and 29.
 answerText: becoming more and more of a problem in developing countries.
+reviewed: yes
 ---
 【正解】3 becoming more and more of a problem in developing countries.（発展途上国で、ますます大きな問題になりつつある。）
 【和訳】
@@ -14,7 +15,7 @@ answerText: becoming more and more of a problem in developing countries.
 4 たいてい、15歳から29歳の運転手によって引き起こされている。
 【考え方】
 交通事故の説明は第1段落にあります。選択肢に developing countries（発展途上国）や wealthy countries（豊かな国々）が出てくるので、国について書かれた文を探します。段落の最後にあります。
-While some wealthy countries have reduced the number of traffic accidents in recent years, they are increasing rapidly in developing countries.（いくつかの豊かな国々では近年交通事故の件数が減ってきたが、発展途上国では急速に増えている）
+While some wealthy countries have reduced the number of traffic accidents in recent years, they are increasing rapidly in developing countries.（いくつかの豊かな国々は近年交通事故の件数を減らしてきたが、発展途上国では交通事故が急速に増えている）
 they は traffic accidents（交通事故）を指しています。While ～ は、ここでは「～である一方で」と、2つのことを比べる働きをしています。豊かな国々とは反対に、発展途上国では交通事故が急に増えているということです。
 本文と選択肢を対にすると、次のようになります。
 本文 they are increasing rapidly in developing countries（発展途上国では交通事故が急速に増えている）→ 選択肢 becoming more and more of a problem in developing countries（発展途上国で、ますます大きな問題になりつつある）

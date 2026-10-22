@@ -1,6 +1,7 @@
 ---
 choices: grasping | yelling | sneezing | wiping
 answerText: yelling
+reviewed: yes
 ---
 【正解】2 yelling（どなること、大声を上げること）
 【和訳】

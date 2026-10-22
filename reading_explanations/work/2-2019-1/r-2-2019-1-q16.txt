@@ -1,6 +1,7 @@
 ---
 choices: stand still | take care | pay attention | make sense
 answerText: make sense
+reviewed: yes
 ---
 【正解】4 make sense（意味が通じる、理解できる）
 【和訳】

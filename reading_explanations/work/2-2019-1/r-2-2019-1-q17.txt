@@ -1,6 +1,7 @@
 ---
 choices: related to | stuck in | absorbed in | entitled to
 answerText: entitled to
+reviewed: yes
 ---
 【正解】4 entitled to（～を受ける資格〔権利〕がある）
 【和訳】

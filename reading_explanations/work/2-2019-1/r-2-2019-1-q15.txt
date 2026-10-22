@@ -1,6 +1,7 @@
 ---
 choices: to | at | on | from
 answerText: from
+reviewed: yes
 ---
 【正解】4 from（～が原因で）
 【和訳】

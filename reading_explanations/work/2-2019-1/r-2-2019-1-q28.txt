@@ -1,6 +1,7 @@
 ---
 choices: She needs to write articles for a college class. | She wants to get some practical writing skills. | She hopes to get a free copy of the magazine. | She saw an interesting article in it last month.
 answerText: She wants to get some practical writing skills.
+reviewed: yes
 ---
 【正解】2 She wants to get some practical writing skills.（彼女は、実際に役立つ文章を書く力を身につけたいと思っている。）
 【和訳】

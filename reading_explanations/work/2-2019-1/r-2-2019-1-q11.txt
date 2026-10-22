@@ -1,6 +1,7 @@
 ---
 choices: part | glance | place | aid
 answerText: place
+reviewed: yes
 ---
 【正解】3 place（順位）
 【和訳】

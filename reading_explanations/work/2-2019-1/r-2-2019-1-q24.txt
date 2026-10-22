@@ -1,6 +1,7 @@
 ---
 choices: take a different approach | get rid of poor people | build better houses elsewhere | check up on people
 answerText: take a different approach
+reviewed: yes
 ---
 【正解】1 take a different approach（別のやり方をとる）
 【和訳】

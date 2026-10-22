@@ -1,6 +1,7 @@
 ---
 choices: wish | suppose | except | so
 answerText: suppose
+reviewed: yes
 ---
 【正解】2 suppose（〔suppose that ～ で〕もし～だとしたら）
 【和訳】

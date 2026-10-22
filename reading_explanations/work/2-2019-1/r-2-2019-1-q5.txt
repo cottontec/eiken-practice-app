@@ -1,6 +1,7 @@
 ---
 choices: commute | appeal | behave | qualify
 answerText: commute
+reviewed: yes
 ---
 【正解】1 commute（通勤する、通う）
 【和訳】

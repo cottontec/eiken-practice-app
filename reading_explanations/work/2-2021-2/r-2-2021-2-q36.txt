@@ -1,0 +1,30 @@
+---
+choices: They contain special metals that were only discovered recently. | They are full of powerful acids that are uncommon in the ocean. | Unusual animals that do not rely on the sun for energy live there. | The heat they create could be used as a source of energy.
+answerText: Unusual animals that do not rely on the sun for energy live there.
+---
+【正解】3 Unusual animals that do not rely on the sun for energy live there.（エネルギーを太陽に頼らない、めずらしい動物がそこに住んでいる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：科学者たちが熱水噴出孔に関心を持っている理由の1つは何ですか。
+1 そこには、最近になって初めて発見された特別な金属がふくまれている。
+2 そこは、海の中ではめったにない強い酸でいっぱいである。
+3 エネルギーを太陽に頼らない、めずらしい動物がそこに住んでいる。
+4 そこで生まれる熱を、エネルギー源として使える可能性がある。
+【考え方】
+設問の scientists are interested in（科学者たちが関心を持っている）という言い方を本文で探します。第3段落に、次の文があります。
+Scientists are interested in them not only because of the metals they contain, but also because of the amazing creatures found living near them.（科学者たちが熱水噴出孔に関心を持っているのは、そこにふくまれる金属のためだけでなく、その近くで生きているのが見つかった、驚くべき生き物のためでもある）
+not only A but also B は「AだけでなくBも」です。関心の理由は「金属」と「驚くべき生き物」の2つです。その生き物については、段落の最後で次のように説明されています。
+Unlike almost all other living things on the planet, these special creatures do not depend on energy from the sun.（地球上のほかのほとんどすべての生き物とは違って、こうした特別な生き物は、太陽からのエネルギーに頼っていない）
+本文と選択肢を対にすると、次のようになります。
+本文 the amazing creatures ／ these special creatures ＝ 選択肢 Unusual animals
+本文 do not depend on energy from the sun ＝ 選択肢 do not rely on the sun for energy
+「驚くべき、特別な生き物」が「めずらしい動物」に、depend on（頼る）が rely on（頼る）に言いかえられています。本文の creatures には bacteria（細菌）もふくまれますが、and animals（と動物たち）とあるように動物もいます。ですから3が正解です。
+【ほかの選択肢】
+1 金属は関心の理由の1つですが、本文の金属は rare metals such as gold（金のような希少な金属）で、最近になって初めて発見された特別な金属ではありません。ここ数十年で発見されたのは、金属が見つかる「場所」です。
+2 本文には The water around the vents is very hot, dark, and full of powerful acids.（噴出孔の周りの水は、とても熱く、暗く、強い酸でいっぱいだ）とあります。しかし、これは生き物にとって difficult conditions（厳しい環境）として書かれていて、科学者が関心を持つ理由ではありません。また、強い酸が海の中ではめったにないとも書かれていません。
+4 噴出孔の熱をエネルギー源として使う話は、本文のどこにも書かれていません。本文で energy が出てくるのは、生き物が太陽のエネルギーに頼らないという部分だけです。
+【覚えるポイント】
+・depend on ～ ＝ rely on ～：「～に頼る」。
+・not only A but also B：「AだけでなくBも」。理由が2つ並んでいることを示します。

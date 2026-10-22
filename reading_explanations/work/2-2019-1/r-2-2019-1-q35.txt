@@ -1,6 +1,7 @@
 ---
 choices: It supports businesses that are trying to create databases. | It gathers basic data about all the citizens of the country. | It helps poor people gain access to new types of technology. | It collects the fingerprints of people who have committed crimes.
 answerText: It gathers basic data about all the citizens of the country.
+reviewed: yes
 ---
 【正解】2 It gathers basic data about all the citizens of the country.（それは、国のすべての国民についての基本的な情報を集める。）
 【和訳】

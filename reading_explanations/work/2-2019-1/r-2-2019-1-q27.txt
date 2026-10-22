@@ -1,6 +1,7 @@
 ---
 choices: Its writers volunteer to help clean the environment each month. | Its readers pay to read its articles that are not on the Internet. | It is sent to readers in the mail once a month. | It does not pay its writers any money.
 answerText: It does not pay its writers any money.
+reviewed: yes
 ---
 【正解】4 It does not pay its writers any money.（その雑誌は書き手にお金をまったく払っていない。）
 【和訳】
@@ -23,7 +24,7 @@ paid writers は「お金を払われる書き手」、instead of ～ は「～�
 【ほかの選択肢】
 1 書き手がボランティアなのは「記事を書くこと」についてです。環境をきれいにする活動をボランティアでしているとは書かれていません。every month（毎月）という語は本文にありますが、それは読者に無料で記事を提供するという話です。
 2 本文では、『グリーンジン』は an online magazine（オンライン雑誌）で、記事は for free（無料で）提供されています。「インターネットに載っていない」「お金を払っている」の両方が本文と反対です。
-3 『グリーンジン』はオンライン雑誌なので、郵便で送られるとは書かれていません。every month（毎月）とはありますが、それは毎月無料で記事を提供するということです。
+3 『グリーンジン』は an online magazine（オンライン雑誌）で、郵便で送られるとはどこにも書かれていません。every month（毎月）とはありますが、それは毎月無料で記事を提供するということです。
 【覚えるポイント】
 ・instead of ～：「～ではなく、～の代わりに」。
 ・for free：「無料で」。nonprofit は「非営利の（お金をもうけることを目的としない）」です。

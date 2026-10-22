@@ -1,6 +1,7 @@
 ---
 choices: the time | times | of time | timing
 answerText: the time
+reviewed: yes
 ---
 【正解】1 the time（その時間）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: journey | ignorance | opposite | currency
 answerText: ignorance
+reviewed: yes
 ---
 【正解】2 ignorance（知らないこと、無知）
 【和訳】

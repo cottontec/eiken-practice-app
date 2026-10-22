@@ -1,6 +1,7 @@
 ---
 choices: It can reduce the damage and injuries that result from car crashes. | It can be used to prevent a large number of earthquakes. | It may allow companies to build cars that are five to six times cheaper. | It may decrease the number of boat and airplane accidents that occur.
 answerText: It can reduce the damage and injuries that result from car crashes.
+reviewed: yes
 ---
 【正解】1 It can reduce the damage and injuries that result from car crashes.（それは、車の衝突で生じる損傷やけがを減らすことができる。）
 【和訳】

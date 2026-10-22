@@ -1,6 +1,7 @@
 ---
 choices: fill out the online writer's application form by June 25. | make a list of products that are good for the environment. | write a review of his magazine and recommend it to others. | pick a product to write about for Greenzine's next issue.
 answerText: pick a product to write about for Greenzine's next issue.
+reviewed: yes
 ---
 【正解】4 pick a product to write about for Greenzine's next issue.（『グリーンジン』の次の号のために、記事にする製品を選ぶこと。）
 【和訳】

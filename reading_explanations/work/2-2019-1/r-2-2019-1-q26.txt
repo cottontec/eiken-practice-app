@@ -1,6 +1,7 @@
 ---
 choices: be a good thing for cities | make business worse | clean up the environment | result in more crime
 answerText: be a good thing for cities
+reviewed: yes
 ---
 【正解】1 be a good thing for cities（都市にとってよいものになる）
 【和訳】

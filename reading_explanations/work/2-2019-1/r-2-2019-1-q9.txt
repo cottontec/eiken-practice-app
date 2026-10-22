@@ -1,6 +1,7 @@
 ---
 choices: temporary | brilliant | entire | portable
 answerText: temporary
+reviewed: yes
 ---
 【正解】1 temporary（一時的な、仮の）
 【和訳】

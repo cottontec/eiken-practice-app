@@ -1,6 +1,7 @@
 ---
 choices: bitter about | sorry for | capable of | free from
 answerText: capable of
+reviewed: yes
 ---
 【正解】3 capable of（～する能力がある、～できる）
 【和訳】

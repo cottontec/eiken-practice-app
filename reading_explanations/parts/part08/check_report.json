@@ -119,7 +119,8 @@
   "2-2019-1": {
     "stats": {
       "target": 38,
-      "written": 38
+      "written": 38,
+      "reviewed": 38
     },
     "errors": [],
     "warnings": []

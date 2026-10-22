@@ -1,6 +1,7 @@
 ---
 choices: twist | civilize | murder | impose
 answerText: impose
+reviewed: yes
 ---
 【正解】4 impose（〔税・義務などを〕課す）
 【和訳】

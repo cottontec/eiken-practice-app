@@ -1,0 +1,31 @@
+---
+choices: Governments might fight each other for the best deep-sea mining areas. | Scientists will have to work hard to invent the technology needed for it. | It will cost a lot of money to move the creatures living around the vents. | People might try to stop it because of possible damage to the environment.
+answerText: People might try to stop it because of possible damage to the environment.
+---
+【正解】4 People might try to stop it because of possible damage to the environment.（環境に害を与えるおそれがあるため、人々がそれを止めようとするかもしれない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：深海での採掘は、将来おそらくどのような課題に直面するでしょうか。
+1 政府どうしが、深海の最もよい採掘場所をめぐって争うかもしれない。
+2 科学者たちは、そのために必要な技術を発明するために、懸命に取り組まなければならないだろう。
+3 噴出孔の周りに住む生き物を移動させるのに、多くのお金がかかるだろう。
+4 環境に害を与えるおそれがあるため、人々がそれを止めようとするかもしれない。
+【考え方】
+設問の in the future（将来）と probably（おそらく）に注目して、これから先のことが書かれている部分を探します。第4段落の後半に、次の文があります。
+However, mining around the vents would probably harm the creatures that live there.（しかし、噴出孔の周りで採掘すると、おそらくそこに住む生き物に害を与えるだろう）
+Consequently, although mining the seafloor for metals will become possible, governments and environmental groups might fight against it and perhaps even try to ban it.（そのため、海底で金属を採掘することは可能になるものの、政府や環境保護団体がそれに反対し、もしかするとそれを禁止しようとさえするかもしれない）
+Consequently は「その結果、そのため」、ban は「禁止する」です。生き物に害を与えるおそれがあるので、政府や環境保護団体が反対したり禁止しようとしたりするかもしれない、という流れです。
+本文と選択肢を対にすると、次のようになります。
+本文 governments and environmental groups ＝ 選択肢 People
+本文 fight against it and perhaps even try to ban it ＝ 選択肢 might try to stop it
+本文 would probably harm the creatures that live there ＝ 選択肢 possible damage to the environment
+「政府や環境保護団体」がまとめて「人々」に、「反対し、禁止しようとする」が「止めようとする」に、「そこに住む生き物に害を与えるだろう」が「環境に害を与えるおそれ」に言いかえられています。ですから4が正解です。
+【ほかの選択肢】
+1 本文の fight against it は「それ（海底での採掘）に反対する」という意味です。政府どうしが採掘場所をめぐって争うという話ではありません。
+2 本文には The technology to mine close to the vents now exists（噴出孔の近くで採掘する技術は今では存在する）とあります。技術はすでにあるので、これから発明しなければならないのではありません。
+3 本文でお金がかかると書かれているのは、採掘の技術（it is still very expensive）です。生き物を移動させる話は、本文に出てきません。
+【覚えるポイント】
+・ban：「禁止する」。try to ban ～ で「～を禁止しようとする」。
+・Consequently：「その結果、そのため」。前の内容から起こることを示します。

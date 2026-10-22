@@ -1,6 +1,7 @@
 ---
 choices: Meanwhile | Overall | Certainly | Similarly
 answerText: Meanwhile
+reviewed: yes
 ---
 【正解】1 Meanwhile（その間に）
 【和訳】

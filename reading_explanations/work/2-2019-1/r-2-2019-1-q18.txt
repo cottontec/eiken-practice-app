@@ -1,6 +1,7 @@
 ---
 choices: This | That | These | Those
 answerText: Those
+reviewed: yes
 ---
 【正解】4 Those（those who ～ で「～する人々」）
 【和訳】

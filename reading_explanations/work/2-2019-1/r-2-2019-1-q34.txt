@@ -1,6 +1,7 @@
 ---
 choices: a third of the population suffers from diseases that cannot be cured easily. | experts have become concerned about the increasing number of wealthy people. | the number of people living in poverty is still high despite economic progress. | local officials have started stealing money in order to help poor people in their area.
 answerText: the number of people living in poverty is still high despite economic progress.
+reviewed: yes
 ---
 【正解】3 the number of people living in poverty is still high despite economic progress.（経済が発展しているにもかかわらず、貧困の中で暮らす人の数は今でも多い。）
 【和訳】
@@ -19,7 +20,7 @@ Yet, while the country as a whole has grown much wealthier, it still has more po
 Yet は「しかし」、still は「今でも、まだ」という意味です。経済が成長して国が豊かになったのに、貧しい人は今でも世界でいちばん多い、ということです。さらに around a third of the population suffers from poverty（人口の約3分の1が貧困に苦しんでいる）とも書かれています。
 本文と選択肢を対にすると、次のようになります。
 本文 very rapid economic growth（とても急速な経済成長）＝ 選択肢 economic progress（経済の発展）
-本文 Yet, ... it still has more poor people than any other country（しかし、今でもほかのどの国よりも多くの貧しい人々がいる）＝ 選択肢 the number of people living in poverty is still high despite ～（～にもかかわらず、貧困の中で暮らす人の数は今でも多い）
+本文 Yet, ... it still has more poor people than any other country（しかし、今でもほかのどの国よりも多くの貧しい人々がいる）→ 選択肢 the number of people living in poverty is still high despite ～（～にもかかわらず、貧困の中で暮らす人の数は今でも多い）
 despite は「～にもかかわらず」という意味で、本文の Yet や while と同じように、2つの反対の内容をつないでいます。ですから、3が正解です。
 【ほかの選択肢】
 1 本文に a third of the population（人口の3分の1）とありますが、苦しんでいるのは poverty（貧困）です。病気に苦しんでいるのではありません。

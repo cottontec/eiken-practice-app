@@ -1,6 +1,7 @@
 ---
 choices: Poor Indians can receive money directly from the national government. | Local governments are able to decide how money in their regions is spent. | It makes it easier for poor Indians to find new jobs in local areas. | It helps people pay the fees that are needed for their children's education.
 answerText: Poor Indians can receive money directly from the national government.
+reviewed: yes
 ---
 【正解】1 Poor Indians can receive money directly from the national government.（貧しいインドの人々が、国の政府から直接お金を受け取ることができる。）
 【和訳】

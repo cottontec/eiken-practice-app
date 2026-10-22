@@ -1,6 +1,7 @@
 ---
 choices: A way to release the unnecessary bubbles from metal foam. | A type of metal foam in which each of the bubbles is the same size. | A stronger type of metal that can be used to create better metal foam. | A quicker way to produce the metal that is used to create metal foam.
 answerText: A type of metal foam in which each of the bubbles is the same size.
+reviewed: yes
 ---
 【正解】2 A type of metal foam in which each of the bubbles is the same size.（泡の1つ1つが同じ大きさである発泡金属。）
 【和訳】

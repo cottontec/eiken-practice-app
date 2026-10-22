@@ -1,0 +1,30 @@
+---
+choices: Some college students will volunteer at the company. | Kent Gardiner will move to the design department. | Workers at the company will get their first bonus for 10 years. | Three people will join the customer service department.
+answerText: Three people will join the customer service department.
+---
+【正解】4 Three people will join the customer service department.（3人が顧客サービス部に加わる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：来月、何が起こる予定ですか。
+1 何人かの大学生が、その会社でボランティアをする。
+2 ケント・ガーディナーさんがデザイン部へ異動する。
+3 会社の従業員が、10年ぶりにボーナスを受け取る。
+4 3人が顧客サービス部に加わる。
+【考え方】
+設問の next month（来月）という語を本文で探すと、第2段落に Six new people will be joining our company next month.（来月、6人の新しい人が当社に加わる）とあります。
+その続きを読みます。
+two of them will be coming to work with us in the customer service department（そのうちの2人が、顧客サービス部に来て私たちといっしょに働く）
+We'll have three new co-workers altogether because Kent Gardiner will also be moving to our department at the same time.（ケント・ガーディナーさんも同じ時期に私たちの部署へ異動してくるので、新しい同僚は全部で3人になる）
+新しく入る6人のうちの2人と、デザイン部から移ってくるケント・ガーディナーさんを合わせて、顧客サービス部には3人が加わります。at the same time（同じ時期に）は、来月のことを指しています。our department は、このメールを書いたエイミーの部署、つまり顧客サービス部です。
+本文と選択肢を対にすると、次のようになります。
+本文 We'll have three new co-workers altogether（新しい同僚が全部で3人になる）＝ 選択肢 Three people will join the customer service department（3人が顧客サービス部に加わる）
+ですから4が正解です。
+【ほかの選択肢】
+1 本文には They've all recently graduated from college（全員が最近大学を卒業した）とあります。来月来るのは、大学を卒業して会社に入る人たちで、大学生がボランティアをするという話ではありません。
+2 本文には He has worked in the design department at G&K Electronics for 10 years（彼はデザイン部で10年間働いてきた）とあり、ケントさんはデザイン部から顧客サービス部へ移ってきます。異動する向きが反対です。
+3 ボーナスの話は本文にありません。10 years は、ケントさんがデザイン部で働いてきた年数です。
+【覚えるポイント】
+・altogether：「全部で、合計で」。
+・co-worker：「同僚（同じ職場で働く仲間）」。

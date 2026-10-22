@@ -1,0 +1,29 @@
+---
+choices: wrote down the wrong name on Mr. Stein's order. | gave a customer the wrong delivery date. | contacted the sales department by telephone. | took an order for cups for Mr. Stein's café.
+answerText: took an order for cups for Mr. Stein's café.
+---
+【正解】4 took an order for cups for Mr. Stein's café.（スタインさんのカフェ用のカップの注文を受けた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：今朝、ジェナ・マークスは
+1 スタインさんの注文に、間違った名前を書きとめた。
+2 客に、間違った配達日を伝えた。
+3 電話で営業部に連絡した。
+4 スタインさんのカフェ用のカップの注文を受けた。
+【考え方】
+設問は「今朝、ジェナ・マークスがしたこと」です。本文で this morning（今朝、本日午前中）とジェナの名前が出てくる場所を探します。第1段落の始めにあります。
+Thank you for placing an order by telephone with Jenna Marks of our sales department this morning.（本日午前中に、当社営業部のジェナ・マークスにお電話でご注文いただき、ありがとうございます）
+place an order with ～ は「～に注文をする」という意味です。スタインさんが電話でジェナに注文をしたということは、ジェナの側から見ると、スタインさんの注文を受けたということです。
+次の文 The order was for 500 medium-sized black paper cups with your café's name and logo printed on them.（ご注文は、お客様のカフェの名前とロゴが印刷された中サイズの黒い紙コップ500個でした）から、注文の品はスタインさんのカフェで使うカップだと分かります。
+本文と選択肢を対にすると、次のようになります。
+本文 placing an order by telephone with Jenna Marks（スタインさんがジェナに電話で注文をしたこと）＝ 選択肢 took an order for cups for Mr. Stein's café（ジェナがスタインさんのカフェ用のカップの注文を受けた）
+同じ出来事を、注文した側からと、受けた側から言いかえています。ですから、4が正解です。
+【ほかの選択肢】
+1 ジェナが間違った名前を書きとめたという話は、本文にありません。本文にあるのは、According to Jenna's notes on the order（ご注文についてのジェナのメモによると）という形で、ジェナがメモを取ったことだけです。
+2 間違った配達日を伝えたという話も、本文にありません。ジェナのメモには、スタインさんが土曜日までの配達を希望していると書かれていただけで、それが間違いだったとはどこにも書かれていません。
+3 本文で電話をかけて注文したのはスタインさんで、ジェナ自身が our sales department（当社の営業部）の人です。ジェナが営業部に電話で連絡したのではありません。by telephone や sales department という本文の語句が使われていても、だれが何をしたのかが違います。
+【覚えるポイント】
+・place an order with ～：「～に注文をする」。注文を受ける側から言うと take an order（注文を受ける）です。
+・this morning：「今朝」。設問の時を表す語句を手がかりに、本文の該当する場所を探します。
