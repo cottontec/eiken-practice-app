@@ -1,0 +1,34 @@
+---
+choices: Pressure from political groups had forced it to delay taking action against the factories. | Strict state laws regulating levels of pollution conflicted with a federal law that was created to protect businesses. | Additional tests revealed emissions were not causing the high rates of cancer and other diseases among residents. | The factories were releasing pollutants in amounts that were too small to be covered by existing regulations.
+answerText: The factories were releasing pollutants in amounts that were too small to be covered by existing regulations.
+---
+【正解】4 The factories were releasing pollutants in amounts that were too small to be covered by existing regulations.（工場が出している汚染物質の量は少なすぎて、今ある規制の対象にならなかった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What reason did the Oregon Department of Environmental Quality give for its response to the pollution findings?（オレゴン州環境品質局は、汚染についての調査結果への自分たちの対応について、どんな理由を挙げたか。）
+1 Pressure from political groups had forced it to delay taking action against the factories.（政治団体からの圧力によって、工場に対する対策を遅らせざるをえなかった。）
+2 Strict state laws regulating levels of pollution conflicted with a federal law that was created to protect businesses.（汚染の水準を規制する厳しい州法が、企業を守るために作られた連邦法と食い違っていた。）
+3 Additional tests revealed emissions were not causing the high rates of cancer and other diseases among residents.（追加の検査で、排出物が住民の間のがんやその他の病気の多さの原因ではないことが明らかになった。）
+4 The factories were releasing pollutants in amounts that were too small to be covered by existing regulations.（工場が出している汚染物質の量は少なすぎて、今ある規制の対象にならなかった。）
+【考え方】
+まず見るところ：第2段落の the DEQ replied that Oregon lacked state laws to stop them と、そのあとの According to the DEQ, ～
+第2段落では、DEQがすぐに対策を取らなかったことが述べられています。その理由をたずねられたときのDEQの答えは次のとおりです。
+When asked why it was allowing the factories to freely release toxins into the city’s air, the DEQ replied that Oregon lacked state laws to stop them.（なぜ工場が市の空気中に有毒物質を自由に出すのを許しているのかとたずねられると、DEQは、オレゴン州にはそれを止めるための州法がないと答えた）
+lack は「～がない、～が欠けている」です。続く2つの文が、DEQの説明をくわしくしています。
+According to the DEQ, it could only enforce federal laws, which require testing and pollution control only if a facility emits more than 10 tons of a single pollutant each year.（DEQによると、DEQが執行できるのは連邦法だけであり、連邦法は、ある施設が1種類の汚染物質を毎年10トンより多く排出する場合にだけ、検査と汚染の管理を求めているという）
+The glass factories, along with other small-scale polluters such as car body shops, fell under this limit.（ガラス工場は、自動車の車体修理工場のような、ほかの小規模な汚染源とともに、この限度を下回っていた）
+federal law は「連邦法（アメリカの国全体の法律）」、enforce は「（法律を）執行する、守らせる」、fall under ～ は「～を下回る」です。
+本文と選択肢を対にすると、次のようになります。
+本文 fell under this limit（この限度を下回っていた）＝ 選択肢 in amounts that were too small（量が少なすぎた）
+本文 federal laws, which require testing and pollution control only if ～（～の場合にだけ検査と汚染の管理を求める連邦法）＝ 選択肢 to be covered by existing regulations（今ある規制の対象になる）
+ですから4が正解です。
+この問題の型：言いかえ（fell under this limit ＝ too small to be covered）
+【ほかの選択肢】
+1 本文に書かれていません。DEQは、政治団体からの圧力ではなく、州法がないことと連邦法の基準を理由に挙げています。本文では、対策が取られたのは地元のメディアが報道したあとだったとあるだけです。
+2 本文の内容と合いません。DEQは Oregon lacked state laws to stop them（オレゴン州にはそれを止めるための州法がない）と答えていて、厳しい州法があったとは言っていません。企業を守るための連邦法という話も出てきません。
+3 本文の内容と合いません。追加の検査について、本文には these tests supported the prior findings（これらの検査は以前の結果を裏づけた）とあり、排出物が病気の原因ではないと分かったとは書かれていません。住民の間でがんが多いという話も出てきません。
+【覚えるポイント】
+・fall under ～：「（基準など）を下回る」。fell under this limit で「この限度を下回っていた」。
+・「どんな理由を挙げたか」をたずねる設問では、replied（答えた）や According to ～（～によると）のあとの部分に、その人物や組織の説明がまとまっていることが多く、手がかりになります。
