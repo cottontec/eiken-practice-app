@@ -1,6 +1,7 @@
 ---
 choices: enjoyable | temporary | separate | official
 answerText: enjoyable
+reviewed: yes
 ---
 【正解】1 enjoyable（楽しい、楽しめる）
 【和訳】

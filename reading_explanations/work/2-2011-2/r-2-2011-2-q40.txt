@@ -1,6 +1,7 @@
 ---
 choices: it led to a reduction in global warming. | it saved the planet from a serious threat. | it reduced the amount of HCFCs in the air. | it showed how complicated nature is.
 answerText: it saved the planet from a serious threat.
+reviewed: yes
 ---
 【正解】2 it saved the planet from a serious threat.（それが地球を深刻な脅威から救った。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: reverse | prove | achieve | avoid
 answerText: prove
+reviewed: yes
 ---
 【正解】2 prove（～を証明する）
 【和訳】

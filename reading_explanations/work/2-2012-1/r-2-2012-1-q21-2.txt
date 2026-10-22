@@ -2,6 +2,7 @@
 choices: out | then | but only | find | did he
 answerText: then
 order: 3 2 5 4 1
+reviewed: yes
 ---
 【正解】2 then（この問題の2番目）
 【完成文】

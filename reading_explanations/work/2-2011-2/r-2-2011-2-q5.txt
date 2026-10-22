@@ -1,6 +1,7 @@
 ---
 choices: imitated | purchased | exported | alerted
 answerText: alerted
+reviewed: yes
 ---
 【正解】4 alerted（（危険を）知らせた、警告した）
 【和訳】

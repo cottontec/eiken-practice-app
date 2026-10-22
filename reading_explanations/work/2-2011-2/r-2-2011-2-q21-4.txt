@@ -2,6 +2,7 @@
 choices: office | from | away | get | the
 answerText: the
 order: 4 3 2 5 1
+reviewed: yes
 ---
 【正解】5 the（この問題の4番目）
 【完成文】

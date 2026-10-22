@@ -1,6 +1,7 @@
 ---
 choices: They eat the worms that turn into mosquitoes. | They produce eggs that help to kill the mosquitoes. | They reduce the number of worms that mosquitoes eat. | They make it easier to see where mosquitoes are hiding.
 answerText: They eat the worms that turn into mosquitoes.
+reviewed: yes
 ---
 【正解】1 They eat the worms that turn into mosquitoes.（その魚は、蚊になる虫を食べるから。）
 【和訳】

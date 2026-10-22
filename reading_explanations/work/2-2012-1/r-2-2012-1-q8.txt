@@ -1,6 +1,7 @@
 ---
 choices: ignorance | property | currency | discipline
 answerText: discipline
+reviewed: yes
 ---
 【正解】4 discipline（規律、しつけ）
 【和訳】

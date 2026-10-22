@@ -1,6 +1,7 @@
 ---
 choices: They remove chemicals that pollute the water. | They can be used by farmers to grow more crops. | They are not affected by the disease themselves. | They can help local people to make money.
 answerText: They can help local people to make money.
+reviewed: yes
 ---
 【正解】4 They can help local people to make money.（その魚は、地元の人々がお金をかせぐ助けになりうる。）
 【和訳】

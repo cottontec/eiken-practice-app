@@ -2,6 +2,7 @@
 choices: repairman | the | it | with | checking
 answerText: the
 order: 4 2 1 5 3
+reviewed: yes
 ---
 【正解】2 the（この問題の2番目）
 【完成文】

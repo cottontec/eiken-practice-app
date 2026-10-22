@@ -1,6 +1,7 @@
 ---
 choices: unlike | toward | with | between
 answerText: with
+reviewed: yes
 ---
 【正解】3 with（identify A with B で「AをBと結びつけて考える」）
 【和訳】

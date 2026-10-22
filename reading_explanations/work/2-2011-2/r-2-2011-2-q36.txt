@@ -1,6 +1,7 @@
 ---
 choices: Read the contract before he goes to the agency. | Take cash to Ms. Cooper's agency to pay the rent. | Transfer the money for his rent to the agency's bank account. | See the apartment again before signing the contract.
 answerText: Transfer the money for his rent to the agency's bank account.
+reviewed: yes
 ---
 【正解】3 Transfer the money for his rent to the agency's bank account.（家賃のお金を事務所の銀行口座に振り込む。）
 【和訳】

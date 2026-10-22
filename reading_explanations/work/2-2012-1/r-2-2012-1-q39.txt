@@ -1,6 +1,7 @@
 ---
 choices: barriers under the ship help stop air bubbles from escaping. | the fuel that is saved can be used to produce electricity. | bubbles can keep the ship's bottom in good condition. | the pump can prevent the ship from moving too quickly.
 answerText: barriers under the ship help stop air bubbles from escaping.
+reviewed: yes
 ---
 【正解】1 barriers under the ship help stop air bubbles from escaping.（船の下の仕切りが、空気の泡が逃げるのを防ぐのに役立つ。）
 【和訳】

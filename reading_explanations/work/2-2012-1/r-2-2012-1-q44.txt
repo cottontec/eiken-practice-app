@@ -1,6 +1,7 @@
 ---
 choices: The same kinds of trees can be planted in every country. | The trees will help people living nearby to make more money. | The organization will be responsible for looking after the trees. | The plan has been approved by NGOs representing local people.
 answerText: The trees will help people living nearby to make more money.
+reviewed: yes
 ---
 【正解】2 The trees will help people living nearby to make more money.（木々が、近くに住む人々がもっとお金をかせぐのに役立つ。）
 【和訳】

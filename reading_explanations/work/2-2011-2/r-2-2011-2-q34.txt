@@ -1,6 +1,7 @@
 ---
 choices: wants Ms. Cooper to take him to see another apartment. | thinks the rent for the apartment in Stanley Court is too high. | needs to move soon because his current apartment is too small. | would like to move out of his apartment on November 30.
 answerText: would like to move out of his apartment on November 30.
+reviewed: yes
 ---
 【正解】4 would like to move out of his apartment on November 30.（11月30日に自分のアパートを出たいと思っている。）
 【和訳】

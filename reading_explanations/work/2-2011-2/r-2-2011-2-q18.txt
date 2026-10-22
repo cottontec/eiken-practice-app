@@ -1,6 +1,7 @@
 ---
 choices: And if | But still | Nor will | So do
 answerText: So do
+reviewed: yes
 ---
 【正解】4 So do（So do I. で「私もそうです」）
 【和訳】

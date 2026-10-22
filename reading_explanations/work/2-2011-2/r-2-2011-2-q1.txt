@@ -1,6 +1,7 @@
 ---
 choices: operations | climates | schedules | religions
 answerText: religions
+reviewed: yes
 ---
 【正解】4 religions（宗教）
 【和訳】

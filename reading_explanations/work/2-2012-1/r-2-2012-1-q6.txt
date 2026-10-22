@@ -1,6 +1,7 @@
 ---
 choices: buried | resembled | calculated | stored
 answerText: calculated
+reviewed: yes
 ---
 【正解】3 calculated（～を計算した）
 【和訳】

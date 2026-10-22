@@ -1,6 +1,7 @@
 ---
 choices: way | place | idea | use
 answerText: use
+reviewed: yes
 ---
 【正解】4 use（役に立つこと、使い道）
 【和訳】

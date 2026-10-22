@@ -1,6 +1,7 @@
 ---
 choices: Plans to improve the environment are not working. | Their land is being taken over by the Sahara Desert. | Researchers cannot get enough money to study there. | Many people have to move because of the increased heat.
 answerText: Their land is being taken over by the Sahara Desert.
+reviewed: yes
 ---
 【正解】2 Their land is being taken over by the Sahara Desert.（国土がサハラ砂漠にのみこまれつつある。）
 【和訳】

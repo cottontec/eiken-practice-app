@@ -1,6 +1,7 @@
 ---
 choices: at all costs | on the other hand | in the meantime | from time to time
 answerText: at all costs
+reviewed: yes
 ---
 【正解】1 at all costs（何としても、どんな犠牲を払っても）
 【和訳】

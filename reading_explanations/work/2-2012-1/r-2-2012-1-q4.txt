@@ -1,6 +1,7 @@
 ---
 choices: courage | research | limit | appearance
 answerText: appearance
+reviewed: yes
 ---
 【正解】4 appearance（外見、見た目）
 【和訳】

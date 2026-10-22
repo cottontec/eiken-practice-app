@@ -1,6 +1,7 @@
 ---
 choices: scared | negative | previous | separate
 answerText: previous
+reviewed: yes
 ---
 【正解】3 previous（以前の、前の）
 【和訳】

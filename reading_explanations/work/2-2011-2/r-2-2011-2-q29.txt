@@ -1,6 +1,7 @@
 ---
 choices: write down | try out | give up | show off
 answerText: give up
+reviewed: yes
 ---
 【正解】3 give up（やめる、手放す）
 【和訳】

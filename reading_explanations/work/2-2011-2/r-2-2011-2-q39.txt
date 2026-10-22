@@ -1,6 +1,7 @@
 ---
 choices: Scientists were becoming concerned about acid rain. | People recognized that global warming was a real problem. | A gas that was not as harmful to the ozone layer was available. | They were being produced in only a few places around the world.
 answerText: A gas that was not as harmful to the ozone layer was available.
+reviewed: yes
 ---
 【正解】3 A gas that was not as harmful to the ozone layer was available.（オゾン層に（CFCほど）有害でない気体が手に入った。）
 【和訳】

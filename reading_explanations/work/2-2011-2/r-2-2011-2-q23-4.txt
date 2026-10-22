@@ -2,6 +2,7 @@
 choices: it | that | strange | found | co-workers
 answerText: strange
 order: 5 4 1 3 2
+reviewed: yes
 ---
 【正解】3 strange（この問題の4番目）
 【完成文】

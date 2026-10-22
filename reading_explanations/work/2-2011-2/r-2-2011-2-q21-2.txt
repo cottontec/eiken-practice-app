@@ -2,6 +2,7 @@
 choices: office | from | away | get | the
 answerText: away
 order: 4 3 2 5 1
+reviewed: yes
 ---
 【正解】3 away（この問題の2番目）
 【完成文】

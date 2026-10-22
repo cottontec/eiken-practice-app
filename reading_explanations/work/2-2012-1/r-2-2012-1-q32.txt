@@ -1,6 +1,7 @@
 ---
 choices: opposite | difficulty | future | answer
 answerText: answer
+reviewed: yes
 ---
 【正解】4 answer（答え）
 【和訳】

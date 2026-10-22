@@ -1,6 +1,7 @@
 ---
 choices: What is more | Unfortunately | After a while | Instead
 answerText: What is more
+reviewed: yes
 ---
 【正解】1 What is more（そのうえ、さらに）
 【和訳】

@@ -1,0 +1,25 @@
+---
+choices: enjoy driving | feel connected | seem limited | stop donating
+answerText: feel connected
+---
+【正解】2 feel connected（つながりを感じる）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 enjoy driving：運転を楽しむ
+2 feel connected：つながりを感じる
+3 seem limited：限られているように見える
+4 stop donating：寄付をやめる
+【考え方】
+空所の文は Right now, most people do not (　) to public places.（今のところ、ほとんどの人は、公共の場所に（　）ない）です。
+前の文には、an important aim of their campaign is to change people's relationship with the city environment（彼らの運動の重要な目的の1つは、人々と都市の環境との関係を変えることだ）とあります。空所の文は、その「今の関係」がどうなっているかを説明していると考えられます。
+あとの文には By taking care of these trees and benefiting from them, people are likely to develop a sense of responsibility for the parts of the city that are used by everybody.（これらの木の世話をし、木から恩恵を受けることで、人々は、みんなが使う都市の部分に対して責任感を持つようになる可能性が高い）とあります。benefit from ～ は「～から恩恵（よいこと）を受ける」という意味です。
+つまり、「今は公共の場所を自分と関係あるものと感じていない人が多い。でも木の世話をすれば、そうした場所に責任感を持つようになる」という流れです。feel connected to ～ は「～とのつながりを感じる」という意味なので、do not feel connected to public places で「公共の場所につながりを感じていない」となり、前後の文とつながります。正解は2です。
+【ほかの選択肢】
+1 enjoy driving を入れると「ほとんどの人は公共の場所へ車で行くのを楽しまない」となります。運転の話は本文に出てこず、人々と都市の環境との関係を変えるという前の文ともつながりません。
+3 seem limited を入れると「ほとんどの人は公共の場所に限られているようには見えない」となり、意味が通りません。
+4 stop donating を入れると「ほとんどの人は公共の場所への寄付をやめない」となります。寄付の話は本文になく、責任感を持つようになるという次の文ともつながりません。
+【覚えるポイント】
+・feel connected to ～：「～とのつながりを感じる」。
+・a sense of responsibility for ～：「～に対する責任感」。

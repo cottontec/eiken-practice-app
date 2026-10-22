@@ -1,0 +1,25 @@
+---
+choices: fight against | increase in | explanation of | complaint about
+answerText: increase in
+---
+【正解】2 increase in（～の増加、～の高まり）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 fight against：～に対する戦い
+2 increase in：～の増加、～の高まり
+3 explanation of：～の説明
+4 complaint about：～についての不満
+【考え方】
+空所は第1段落の This (　) efficiency, though, also has a dark side.（しかし、この効率の（　）には悪い面もある）という文にあります。efficiency は「効率（むだなく、早く仕事ができること）」です。
+This（この）が指しているのは、前の文の内容です。Nowadays, with a computer, people can create documents, look up facts, send messages, and even hold meetings—all without leaving their desks.（今日では、コンピューターがあれば、文書を作る、事実を調べる、メッセージを送る、会議を開くことまで、すべて机を離れずにできる）とあります。さらにその前には、コンピューター技術が生活を more convenient（より便利に）してきたと書かれています。
+つまり、コンピューターのおかげで仕事がより効率よくできるようになった、という話です。これを1語でまとめると「効率が高まったこと」になります。increase in ～ は「～の増加、～の高まり」なので、This increase in efficiency で「このような効率の高まり」となり、前の内容をまとめられます。
+さらに though（しかし）と also has a dark side（悪い面もある）が続き、そのあとで一日中座っていることの害が述べられます。「よいことにも悪い面がある」という流れになるので、空所には前のよい変化を表す語が入ると分かります。正解は2です。
+【ほかの選択肢】
+1 fight against は「～に対する戦い」です。This fight against efficiency では「効率に反対する戦い」になりますが、前の文はコンピューターで効率がよくなった話で、効率と戦う話はしていません。
+3 explanation of は「～の説明」です。前の文は効率についての説明をしているのではなく、実際に便利になったことを述べているので、「この効率の説明には悪い面もある」ではつながりません。
+4 complaint about は「～についての不満」です。前の文には効率への不満は書かれていません。効率がよくなったことを述べたあとで「悪い面もある」と言う流れに合いません。
+【覚えるポイント】
+・increase in ～：「～の増加、～の高まり」。in のあとに「何が増えたか」がきます。
+・have a dark side：「悪い面（よくない面）がある」。

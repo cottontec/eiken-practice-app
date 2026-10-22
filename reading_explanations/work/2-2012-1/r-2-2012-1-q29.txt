@@ -1,6 +1,7 @@
 ---
 choices: by chance | for example | though | therefore
 answerText: therefore
+reviewed: yes
 ---
 【正解】4 therefore（したがって、それゆえ）
 【和訳】

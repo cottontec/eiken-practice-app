@@ -1,6 +1,7 @@
 ---
 choices: The ocean has become increasingly crowded. | It has to spend a lot of money on fuel. | There are not enough goods being traded. | Carbon dioxide has been affecting ships' engines.
 answerText: It has to spend a lot of money on fuel.
+reviewed: yes
 ---
 【正解】2 It has to spend a lot of money on fuel.（燃料に多くのお金を使わなければならない。）
 【和訳】

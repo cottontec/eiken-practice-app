@@ -5,9 +5,13 @@
     {
       "batchId": "2-2012-2",
       "target": 50,
-      "written": 0,
+      "written": 50,
       "contentReviewed": 0,
-      "status": "not_started"
+      "status": "complete_unreviewed",
+      "blank": 0,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 0
     },
     {
       "batchId": "2-2012-3",
@@ -56,5 +60,5 @@
       "status": "not_started"
     }
   ],
-  "updatedAt": "2026-10-22T05:15:34+00:00"
+  "updatedAt": "2026-10-22T05:16:24+00:00"
 }

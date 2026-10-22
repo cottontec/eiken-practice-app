@@ -1,6 +1,7 @@
 ---
 choices: Create some examples of advertisements based on his requirements. | Come up with some ideas about which newspapers to advertise in. | Discuss the advertisements at a meeting with his co-workers. | Take a look at the design ideas he is sending with the e-mail.
 answerText: Create some examples of advertisements based on his requirements.
+reviewed: yes
 ---
 【正解】1 Create some examples of advertisements based on his requirements.（彼の要望に基づいて、広告の見本をいくつか作る。）
 【和訳】

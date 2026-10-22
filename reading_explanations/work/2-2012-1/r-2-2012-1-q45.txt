@@ -1,6 +1,7 @@
 ---
 choices: Some of the trees that the GEF planted in the 1980s are still growing in Africa. | The purpose of the Great Green Wall is to provide wood for new buildings. | Some people worry that trees from outside the local area will cause problems. | The Great Green Wall project was started by NGOs representing local communities.
 answerText: Some people worry that trees from outside the local area will cause problems.
+reviewed: yes
 ---
 【正解】3 Some people worry that trees from outside the local area will cause problems.（その地域の外から来た木が問題を起こすと心配している人々がいる。）
 【和訳】

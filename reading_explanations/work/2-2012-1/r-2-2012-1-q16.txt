@@ -1,6 +1,7 @@
 ---
 choices: live on | stand by | appeal to | sweep up
 answerText: live on
+reviewed: yes
 ---
 【正解】1 live on（～で暮らしていく、生活する）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: frequently | positively | ironically | sharply
 answerText: frequently
+reviewed: yes
 ---
 【正解】1 frequently（たびたび、ひんぱんに）
 【和訳】

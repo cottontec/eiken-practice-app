@@ -1,6 +1,7 @@
 ---
 choices: closer | wetter | noisier | safer
 answerText: wetter
+reviewed: yes
 ---
 【正解】2 wetter（〔wet の比較級〕より雨や雪の多い、よりぬれた）
 【和訳】

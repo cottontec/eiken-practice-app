@@ -1,6 +1,7 @@
 ---
 choices: It helps water to flow through holes in the ship's bottom. | It saves fuel by mixing it with water from the sea. | It uses a pump to remove air from the ship's fuel. | It creates a layer of air on the bottom of the ship.
 answerText: It creates a layer of air on the bottom of the ship.
+reviewed: yes
 ---
 【正解】4 It creates a layer of air on the bottom of the ship.（それは、船の底に空気の層を作る。）
 【和訳】

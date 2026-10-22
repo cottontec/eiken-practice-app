@@ -1,6 +1,7 @@
 ---
 choices: over | after | in | behind
 answerText: over
+reviewed: yes
 ---
 【正解】1 over（run ～ over で「（車が）～をひく」）
 【和訳】

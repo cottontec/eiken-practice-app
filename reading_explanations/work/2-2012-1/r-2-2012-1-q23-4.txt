@@ -2,6 +2,7 @@
 choices: it | takes | he will | for | granted that
 answerText: granted that
 order: 2 1 4 5 3
+reviewed: yes
 ---
 【正解】5 granted that（この問題の4番目）
 【完成文】

@@ -1,6 +1,7 @@
 ---
 choices: tempted | confirmed | opposed | referred
 answerText: tempted
+reviewed: yes
 ---
 【正解】1 tempted（（～したい）気持ちにかられて）
 【和訳】

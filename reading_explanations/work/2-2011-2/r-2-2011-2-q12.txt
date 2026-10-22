@@ -1,6 +1,7 @@
 ---
 choices: certain | little | tough | fair
 answerText: certain
+reviewed: yes
 ---
 【正解】1 certain（確かな、きっと～する）
 【和訳】

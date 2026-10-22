@@ -2,6 +2,7 @@
 choices: it | takes | he will | for | granted that
 answerText: it
 order: 2 1 4 5 3
+reviewed: yes
 ---
 【正解】1 it（この問題の2番目）
 【完成文】

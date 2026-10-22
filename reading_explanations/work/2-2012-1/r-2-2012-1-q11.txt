@@ -1,6 +1,7 @@
 ---
 choices: ability | comfort | peace | knowledge
 answerText: knowledge
+reviewed: yes
 ---
 【正解】4 knowledge（知識、知っていること）
 【和訳】

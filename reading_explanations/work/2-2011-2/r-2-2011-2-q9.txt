@@ -1,6 +1,7 @@
 ---
 choices: budget | liquid | network | statue
 answerText: liquid
+reviewed: yes
 ---
 【正解】2 liquid（液体）
 【和訳】

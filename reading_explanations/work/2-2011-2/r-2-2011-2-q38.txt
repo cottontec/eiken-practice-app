@@ -1,6 +1,7 @@
 ---
 choices: It forced governments to do more research on the ozone layer. | It provided data showing that CFCs created the ozone hole. | It attracted attention to the damage being done to nature. | It was agreed to by more countries than any other treaty.
 answerText: It was agreed to by more countries than any other treaty.
+reviewed: yes
 ---
 【正解】4 It was agreed to by more countries than any other treaty.（ほかのどの条約よりも多くの国に同意された。）
 【和訳】

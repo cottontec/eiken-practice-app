@@ -1,6 +1,7 @@
 ---
 choices: explore | amuse | operate | imitate
 answerText: operate
+reviewed: yes
 ---
 【正解】3 operate（〔機械など〕を操作する、動かす）
 【和訳】

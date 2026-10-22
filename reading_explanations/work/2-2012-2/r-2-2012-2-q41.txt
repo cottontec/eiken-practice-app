@@ -1,0 +1,28 @@
+---
+choices: Many people do not have enough money to buy one. | They consume one-third of the water used in homes. | A lot of energy is required to heat the water they use. | They do not get clothes as clean as washing by hand.
+answerText: A lot of energy is required to heat the water they use.
+---
+【正解】3 A lot of energy is required to heat the water they use.（洗濯機が使う水を温めるのに、多くのエネルギーが必要とされる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：多くの国で使われている洗濯機の問題点の1つは何ですか。
+1 多くの人は、洗濯機を買うのに十分なお金を持っていない。
+2 洗濯機は、家庭で使われる水の3分の1を消費する。
+3 洗濯機が使う水を温めるのに、多くのエネルギーが必要とされる。
+4 洗濯機は、手洗いほど衣服をきれいにしない。
+【考え方】
+設問の problem（問題点）と同じような意味の言葉を本文で探すと、第1段落の3文目に Washing machines, though, have some serious disadvantages.（けれども、洗濯機にはいくつかの深刻な欠点がある）とあります。disadvantage は「欠点、不利な点」という意味です。そのあとに欠点が2つ挙げられています。
+1つ目は One is that they need a great deal of clean water.（1つは、大量のきれいな水が必要なこと）です。2つ目は Another is that, in many countries, hot water is used in the machines. This consumes a lot of energy.（もう1つは、多くの国では洗濯機にお湯が使われていることだ。これは多くのエネルギーを消費する）です。設問の in many countries（多くの国で）も、この2つ目の欠点の部分に出てきます。
+お湯を使うということは、水を温める必要があるということです。本文と選択肢は次のように対応しています。
+本文 hot water is used in the machines（洗濯機にお湯が使われる）＝ 選択肢 heat the water they use（洗濯機が使う水を温める）
+本文 This consumes a lot of energy.（これは多くのエネルギーを消費する）＝ 選択肢 A lot of energy is required（多くのエネルギーが必要とされる）
+したがって、3が正解です。
+【ほかの選択肢】
+1 洗濯機の値段や、買うお金があるかどうかについては、本文に書かれていません。
+2 本文の one-third（3分の1）は、イギリスで about one-third of household energy is used for heating water（家庭のエネルギーのおよそ3分の1が水を温めるのに使われている）という部分に出てきます。3分の1なのは「エネルギー」で、「水」ではありません。また、これは洗濯だけでなく、水を温めること全体についての数字です。
+4 本文には、20世紀に洗濯機が広まって washing clothes became much easier（衣服を洗うのがずっと楽になった）とあるだけで、手洗いと比べてきれいになるかどうかは書かれていません。
+【覚えるポイント】
+・disadvantage：「欠点、不利な点」。反対の意味は advantage（利点）です。
+・consume：「（エネルギーや時間などを）消費する、使う」。

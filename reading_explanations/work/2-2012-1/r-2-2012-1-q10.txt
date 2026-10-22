@@ -1,6 +1,7 @@
 ---
 choices: immigrated | collapsed | negotiated | whistled
 answerText: collapsed
+reviewed: yes
 ---
 【正解】2 collapsed（崩れた、倒れた）
 【和訳】

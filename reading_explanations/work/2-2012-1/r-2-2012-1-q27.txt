@@ -1,6 +1,7 @@
 ---
 choices: obvious | traditional | private | inexpensive
 answerText: inexpensive
+reviewed: yes
 ---
 【正解】4 inexpensive（安価な、費用のかからない）
 【和訳】

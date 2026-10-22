@@ -1,6 +1,7 @@
 ---
 choices: She replied to his newspaper advertisement. | Paul Jones used to work at her advertising agency. | Her company made advertisements for Synergon Appliances before. | He wants her to help him advertise a new type of microwave oven.
 answerText: Her company made advertisements for Synergon Appliances before.
+reviewed: yes
 ---
 【正解】3 Her company made advertisements for Synergon Appliances before.（彼女の会社が、以前シナジョン・アプライアンシズ社の広告を作ったことがあるから。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: inspire | endure | publish | select
 answerText: endure
+reviewed: yes
 ---
 【正解】2 endure（耐える、がまんする）
 【和訳】

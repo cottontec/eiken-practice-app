@@ -1,0 +1,21 @@
+---
+choices: no | you | busy | matter | how
+answerText: busy
+order: 1 4 5 3 2
+---
+【正解】3 busy（この問題の4番目）
+【完成文】
+B: ( No matter how busy you ) are, you have to finish your report on time.
+並べ方：1 no → 4 matter → 5 how → 3 busy → 2 you（2番目は4、4番目は3）
+【和訳】
+A：グリーン先生、理科のレポートを金曜日までに終えられないと思います。ほかの授業の課題もたくさんあるんです。
+B：どんなに忙しくても、レポートは期限どおりに終えなければいけません。
+【考え方】
+Aは、ほかの授業の課題も多いので、レポートを金曜日までに終えられないと言っています。Bは you have to finish your report on time（レポートは期限どおりに終えなければならない）と答えています。つまり、Bは「忙しくても、きちんと出しなさい」と言っていると考えられます。
+語を見ると、1 no、4 matter、5 how があります。no matter how ～ は「どんなに～でも」という決まった言い方です。
+how のあとには、「どれくらい～か」の～にあたる語を置きます。ここでは 3 busy（忙しい）です。そのあとに主語の 2 you を置き、空所のあとの are とつなげます。こうして No matter how busy you are（あなたがどんなに忙しくても）となります。
+4番目に 3 busy が来るのは、「どんなに忙しくても」と言うときは how のすぐあとに、程度を表す busy（忙しい）を続けるからです。
+まちがえやすいのは、No matter how you are busy のように、busy を are のあとに回そうとする並べ方です。「どんなに～でも」と言うときは how と busy を離さず、how busy you are の順にします。また、are は空所の外にあるので、you を空所の最後に置く必要があります。
+【覚えるポイント】
+・no matter how ～ ＋ 主語 ＋ 動詞：「どんなに～しても、どんなに～でも」。
+・on time：「時間どおりに、期限どおりに」。

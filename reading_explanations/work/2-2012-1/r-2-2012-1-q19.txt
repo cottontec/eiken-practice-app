@@ -1,6 +1,7 @@
 ---
 choices: of | in | by | through
 answerText: in
+reviewed: yes
 ---
 【正解】2 in（in the sun で「日なたで、日光の当たる所で」）
 【和訳】

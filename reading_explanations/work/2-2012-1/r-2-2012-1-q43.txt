@@ -1,6 +1,7 @@
 ---
 choices: Local communities did not want any more trees. | Nobody could find trees that were suitable for the wall. | There was not enough money available to plant the trees. | Some people were worried that the trees would create carbon dioxide.
 answerText: There was not enough money available to plant the trees.
+reviewed: yes
 ---
 【正解】3 There was not enough money available to plant the trees.（木を植えるのに使える十分なお金がなかった。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: capability | progress | curiosity | desire
 answerText: progress
+reviewed: yes
 ---
 【正解】2 progress（進歩、前進）
 【和訳】

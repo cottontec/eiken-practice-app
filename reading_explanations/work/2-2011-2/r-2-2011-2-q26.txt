@@ -1,6 +1,7 @@
 ---
 choices: tasks | details | pictures | advertisements
 answerText: details
+reviewed: yes
 ---
 【正解】2 details（細かい部分、詳細）
 【和訳】

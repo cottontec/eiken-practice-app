@@ -2,6 +2,7 @@
 choices: happen | what | you | do | think will
 answerText: think will
 order: 2 4 3 5 1
+reviewed: yes
 ---
 【正解】5 think will（この問題の4番目）
 【完成文】

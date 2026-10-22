@@ -1,6 +1,7 @@
 ---
 choices: attempt | claim | argue | hesitate
 answerText: hesitate
+reviewed: yes
 ---
 【正解】4 hesitate（ためらう、遠慮する）
 【和訳】

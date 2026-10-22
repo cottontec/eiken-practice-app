@@ -1,0 +1,22 @@
+---
+choices: wife | anything | his | but | is
+answerText: anything
+order: 3 1 5 2 4
+selfSolveNote: 当初 4 3 1 5 2（But his wife is anything）と考えたが、anything shy では文にならず、anything but ～（決して～ではない）を使った His wife is anything but shy が正しいため、正式解答2が正しい
+---
+【正解】2 anything（この問題の4番目）
+【完成文】
+B: ( His wife is anything but ) shy. Whenever she goes to parties, she talks with everyone there.
+並べ方：3 his → 1 wife → 5 is → 2 anything → 4 but（2番目は1、4番目は2）
+【和訳】
+A：昨日、町の中心部でロバートの奥さんにばったり会ったけど、長くは話さなかったよ。本当に恥ずかしがり屋みたいだね。
+B：彼の奥さんは、恥ずかしがり屋なんかでは全然ないよ。パーティーに行くといつも、そこにいる全員と話しているよ。
+【考え方】
+まず会話の流れを確かめます。Aは She seems really shy.（彼女は本当に恥ずかしがり屋のようだ）と言っています。Bはそのあとで Whenever she goes to parties, she talks with everyone there.（パーティーに行くといつも、そこにいる全員と話す）と言っています。全員と話す人は恥ずかしがり屋ではないので、BはAの考えを打ち消していると分かります。
+次に、語の中から決まった言い方を探します。2 anything と 4 but を合わせた anything but ～ は「決して～ではない、～どころではない」という意味です。空所のすぐあとの shy とつなげて anything but shy とすると、「恥ずかしがり屋なんかでは全然ない」になります。
+残った 3 his、1 wife、5 is で文の初めを作ります。his wife（彼の奥さん）が主語（「～は」にあたる部分）、is が動詞です。こうして His wife is anything but shy. となります。
+4番目に 2 anything が来るのは、動詞 is のあとに anything but のまとまりを置くとき、anything が先、but があとという順番が決まっているからです。
+まちがえやすいのは、but を「しかし」と考えて先頭に置き、But his wife is anything shy. とする並べ方です。anything shy では「恥ずかしがり屋の何か」のような形になり、文の意味が通りません。but はここでは anything と組になって「～ではない」を表しています。
+【覚えるポイント】
+・anything but ～：「決して～ではない、～どころではない」。
+・run into ～：「～にばったり会う」。

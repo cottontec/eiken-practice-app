@@ -1,6 +1,7 @@
 ---
 choices: go on | spread out | take after | hang up
 answerText: go on
+reviewed: yes
 ---
 【正解】1 go on（〔go on ～ing で〕～し続ける）
 【和訳】

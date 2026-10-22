@@ -1,6 +1,7 @@
 ---
 choices: gives | rejects | lacks | controls
 answerText: lacks
+reviewed: yes
 ---
 【正解】3 lacks（～を欠いている、～がない）
 【和訳】

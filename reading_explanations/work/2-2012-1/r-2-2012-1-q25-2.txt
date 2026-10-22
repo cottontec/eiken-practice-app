@@ -2,6 +2,7 @@
 choices: to | interested | she | be | pretended
 answerText: pretended
 order: 3 5 1 4 2
+reviewed: yes
 ---
 【正解】5 pretended（この問題の2番目）
 【完成文】

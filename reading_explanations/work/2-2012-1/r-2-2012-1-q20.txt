@@ -1,6 +1,7 @@
 ---
 choices: to be | being | been | would be
 answerText: to be
+reviewed: yes
 ---
 【正解】1 to be（mean to be ～ で「～するつもりである」）
 【和訳】

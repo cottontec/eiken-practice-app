@@ -1,6 +1,7 @@
 ---
 choices: The systems would make ships produce too much carbon dioxide. | The people who work on the ships need training to use the systems. | It was necessary to build new ships to use them. | It took too long to install the systems on existing ships.
 answerText: It was necessary to build new ships to use them.
+reviewed: yes
 ---
 【正解】3 It was necessary to build new ships to use them.（それらを使うには、新しい船を造る必要があった。）
 【和訳】
@@ -22,7 +23,7 @@ answerText: It was necessary to build new ships to use them.
 【ほかの選択肢】
 1 本文では、空気泡システムは燃料を減らすものとして説明されています。システムのせいで船が二酸化炭素を出しすぎるとは書かれていないので、誤りです。
 2 船で働く人々の訓練については、本文に何も書かれていないので、誤りです。
-4 本文で取り付けにかかる時間が出てくるのは、DKグループのキットが just two weeks（わずか2週間）で取り付けられる、という部分だけです。それより前に、今ある船への取り付けに時間がかかりすぎたとは書かれていないので、誤りです。
+4 本文で取り付けにかかる時間が出てくるのは、DKグループのキットが just two weeks（わずか2週間）で取り付けられる、という部分だけです。それより前に、今ある船への取り付けに時間がかかりすぎたとは書かれていません。第4段落が挙げる理由は、新しい船を造るのに多額のお金がかかることと、会社が今ある船をできるだけ長く使おうとすることで、取り付けにかかる時間ではないので、誤りです。
 【覚えるポイント】
 ・adopt ～：「～を取り入れる、採用する」。
 ・existing：「今ある、既存の」。

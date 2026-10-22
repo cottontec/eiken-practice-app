@@ -1,6 +1,7 @@
 ---
 choices: helps preserve the oxygen necessary for life. | protects us from rays that can cause serious diseases. | allows us to calculate the amount of pollution in the air. | stops the earth's atmosphere from being damaged by the sun.
 answerText: protects us from rays that can cause serious diseases.
+reviewed: yes
 ---
 【正解】2 protects us from rays that can cause serious diseases.（重い病気を引き起こしうる光線から私たちを守る。）
 【和訳】

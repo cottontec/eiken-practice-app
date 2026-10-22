@@ -1,0 +1,26 @@
+---
+choices: For instance | In contrast | Nevertheless | At the same time
+answerText: At the same time
+---
+【正解】4 At the same time（同時に、それと並んで）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 For instance：たとえば
+2 In contrast：それとは対照的に
+3 Nevertheless：それにもかかわらず
+4 At the same time：同時に
+【考え方】
+空所の前と後の文を比べます。
+前：The Surui people hope that the map will make more people interested in supporting them in their struggle.（スルイ族の人々は、その地図によって、自分たちの闘いを支援することに関心を持つ人が増えることを望んでいる）
+後：Google believes that the Surui Project will provide a helpful model for other groups around the world struggling to protect their lands.（グーグルは、スルイ・プロジェクトが、自分たちの土地を守ろうと苦労している世界中のほかの集団にとって、役に立つ手本になると考えている）
+前の文は「スルイ族の人々」の期待、後の文は「グーグル」の考えです。どちらも、このプロジェクトによいことを期待する内容で、反対のことを言っているわけではありません。また、後の文は前の文の例でもありません。2つの立場からの期待が並べられています。
+At the same time は「同時に、それと並んで」という意味で、ある内容と並べて別の内容を付け加えるときに使います。「スルイ族はこう望んでいる。同時に、グーグルはこう考えている」となり、自然につながります。正解は4です。
+【ほかの選択肢】
+1 For instance は「たとえば」です。後の文が前の文の具体例でなければ使えません。グーグルの考えは、スルイ族の人々の期待の例ではないので合いません。
+2 In contrast は「それとは対照的に」です。前と後で違いをくらべるときに使いますが、ここでは両方ともプロジェクトによい結果を期待する内容で、対照的ではありません。
+3 Nevertheless は「それにもかかわらず」です。前の内容から予想されることと反対のことを言うときに使います。前の文の「支援が増えることを望んでいる」から、反対の内容が続いているわけではないので合いません。
+【覚えるポイント】
+・At the same time：「同時に、それと並んで」。2つのことを並べて述べるときに使います。
+・a model for ～：「～にとっての手本」。

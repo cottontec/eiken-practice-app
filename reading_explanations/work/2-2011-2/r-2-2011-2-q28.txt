@@ -1,6 +1,7 @@
 ---
 choices: harder | luckier | fairer | safer
 answerText: harder
+reviewed: yes
 ---
 【正解】1 harder（より難しい）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: include | improve | mention | discourage
 answerText: discourage
+reviewed: yes
 ---
 【正解】4 discourage（さまたげる、やる気をなくさせる）
 【和訳】

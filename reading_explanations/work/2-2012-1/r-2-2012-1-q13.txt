@@ -1,6 +1,7 @@
 ---
 choices: at heart | in time | at once | in line
 answerText: at heart
+reviewed: yes
 ---
 【正解】1 at heart（心は、気持ちの上では）
 【和訳】

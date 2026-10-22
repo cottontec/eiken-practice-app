@@ -1,6 +1,7 @@
 ---
 choices: interpreted | defined | abandoned | manufactured
 answerText: abandoned
+reviewed: yes
 ---
 【正解】3 abandoned（捨てられる、見捨てられる）
 【和訳】

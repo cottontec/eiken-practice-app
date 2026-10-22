@@ -1,6 +1,7 @@
 ---
 choices: talk | talking | talks | talked
 answerText: talk
+reviewed: yes
 ---
 【正解】1 talk（話す）
 【和訳】

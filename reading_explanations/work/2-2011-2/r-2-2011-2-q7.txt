@@ -1,6 +1,7 @@
 ---
 choices: effectively | indirectly | occasionally | awfully
 answerText: awfully
+reviewed: yes
 ---
 【正解】4 awfully（ひどく、とても）
 【和訳】

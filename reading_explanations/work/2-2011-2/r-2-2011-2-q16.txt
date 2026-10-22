@@ -1,6 +1,7 @@
 ---
 choices: on duty | by instinct | for good | with respect
 answerText: by instinct
+reviewed: yes
 ---
 【正解】2 by instinct（本能的に、とっさに）
 【和訳】

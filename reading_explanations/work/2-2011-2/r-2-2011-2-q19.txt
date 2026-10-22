@@ -1,6 +1,7 @@
 ---
 choices: liked | like | to like | liking
 answerText: to like
+reviewed: yes
 ---
 【正解】3 to like（came to like で「好きになった」）
 【和訳】

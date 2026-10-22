@@ -1,6 +1,7 @@
 ---
 choices: Pay part of the cost of a new air conditioner. | Contribute some money to the electricity bill. | Stop using the air conditioner if it is too noisy. | Bring an air conditioner from his old apartment.
 answerText: Pay part of the cost of a new air conditioner.
+reviewed: yes
 ---
 【正解】1 Pay part of the cost of a new air conditioner.（新しいエアコンの費用の一部を払う。）
 【和訳】

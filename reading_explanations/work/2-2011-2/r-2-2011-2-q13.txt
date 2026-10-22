@@ -1,6 +1,7 @@
 ---
 choices: in fear | for short | at present | with caution
 answerText: at present
+reviewed: yes
 ---
 【正解】3 at present（今のところ、現在は）
 【和訳】

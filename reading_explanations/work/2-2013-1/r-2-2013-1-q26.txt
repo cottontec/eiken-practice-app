@@ -1,0 +1,25 @@
+---
+choices: improves | discusses | influences | accepts
+answerText: accepts
+---
+【正解】4 accepts（受け入れる）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 improves：改善する、よりよくする
+2 discusses：話し合う
+3 influences：影響を与える
+4 accepts：受け入れる、認める
+【考え方】
+空所の文は However, not everyone (　) this policy.（しかし、だれもがこの方針を（　）わけではない）です。
+まず this policy（この方針）が何を指すかを確かめます。すぐ前の文に San Francisco does not allow trees that produce fruit to be grown along city sidewalks（サンフランシスコでは、実をつける木を市の歩道沿いで育てることが認められていない）とあります。これが「この方針」です。
+次に、空所のあとの文を見ます。One group in particular ... is working to change these trees back into ones that will provide fruit.（特にあるグループは、これらの木を、実をつける木に戻そうと活動している）とあります。このグループは、市の方針に従わず、それとは反対のことをしようとしています。
+not everyone accepts this policy なら「だれもがこの方針を受け入れているわけではない（受け入れない人もいる）」となります。そのあとで、受け入れていない人たちの例としてゲリラ・グラフターズが紹介される、という流れになります。文の初めの However（しかし）も、「市はこう決めている。しかし反対する人もいる」という流れに合います。正解は4です。
+【ほかの選択肢】
+1 improves を入れると「だれもがこの方針を改善するわけではない」となります。あとの文のグループは、方針をよりよくしようとしているのではなく、方針に反して木を実のなる木に戻そうとしているので、つながりません。
+2 discusses を入れると「だれもがこの方針について話し合うわけではない」となります。あとの文は話し合いの話ではなく、方針に従わずに行動しているグループの話なので、合いません。
+3 influences を入れると「だれもがこの方針に影響を与えるわけではない」となります。方針に影響を与えるかどうかではなく、方針を受け入れずに反対の行動をとるグループの話が続くので、つながりません。
+【覚えるポイント】
+・not everyone ～：「だれもが～というわけではない」。一部の人はそうではない、という意味になります。
+・in particular：「特に」。One group in particular で「特にあるグループは」。

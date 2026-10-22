@@ -2,6 +2,7 @@
 choices: found | moment | she | out | the
 answerText: moment
 order: 5 2 3 1 4
+reviewed: yes
 ---
 【正解】2 moment（この問題の2番目）
 【完成文】

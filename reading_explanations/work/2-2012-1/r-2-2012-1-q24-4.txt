@@ -2,6 +2,7 @@
 choices: point | in | no | there's | going inside
 answerText: in
 order: 4 3 1 2 5
+reviewed: yes
 ---
 【正解】2 in（この問題の4番目）
 【完成文】

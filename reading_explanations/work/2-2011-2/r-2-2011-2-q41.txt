@@ -1,6 +1,7 @@
 ---
 choices: By treating people with new medicines. | By destroying the places where mosquitoes live. | By getting rid of mosquitoes with chemicals. | By stopping mosquitoes from laying eggs.
 answerText: By getting rid of mosquitoes with chemicals.
+reviewed: yes
 ---
 【正解】3 By getting rid of mosquitoes with chemicals.（化学薬品で蚊を退治することによって。）
 【和訳】

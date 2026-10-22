@@ -1,6 +1,7 @@
 ---
 choices: signatures | occasions | landscapes | belongings
 answerText: occasions
+reviewed: yes
 ---
 【正解】2 occasions（〔特別な〕行事、機会）
 【和訳】

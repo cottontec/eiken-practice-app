@@ -1,6 +1,7 @@
 ---
 choices: locate | repair | design | donate
 answerText: locate
+reviewed: yes
 ---
 【正解】1 locate（（～の）場所を突き止める、見つけ出す）
 【和訳】

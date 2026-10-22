@@ -1,6 +1,7 @@
 ---
 choices: both | either | neither | another
 answerText: either
+reviewed: yes
 ---
 【正解】2 either（〔2つのうち〕どちらでも）
 【和訳】

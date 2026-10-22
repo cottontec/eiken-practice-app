@@ -1,6 +1,7 @@
 ---
 choices: It costs more than many other refrigerators on the market. | The current advertisements have not been seen by many people. | People do not know that it can help them save money on electricity. | The company has not done enough surveys to get customers' opinions.
 answerText: People do not know that it can help them save money on electricity.
+reviewed: yes
 ---
 【正解】3 People do not know that it can help them save money on electricity.（人々は、それが電気代の節約に役立つことを知らない。）
 【和訳】
@@ -21,7 +22,7 @@ answerText: People do not know that it can help them save money on electricity.
 本文 uses less electricity ... costs less to run（電気を使う量が少なく、動かす費用が少ない）＝ 選択肢 it can help them save money on electricity（電気代の節約に役立つ）
 正解は3です。
 【ほかの選択肢】
-1 本文では、広告が the Rendex 500's reasonable price（手ごろな価格）を中心にしていると書かれています。値段がほかの冷蔵庫より高いという話はなく、むしろ costs less to run（動かす費用が少ない）とあるので、誤りです。
+1 本文では、広告が the Rendex 500's reasonable price（手ごろな価格）を中心にしていると書かれています。値段がほかの冷蔵庫より高いという話はないので、誤りです。なお、本文の costs less to run（動かす費用が少ない）は、値段ではなく、使うときにかかる電気代などの費用のことです。
 2 リーは広告が has not been effective（効果がなかった）と言っていますが、それは広告の中身が価格の話ばかりだったからです。広告を見た人の数が少ないとは書かれていないので、誤りです。
 4 本文には According to customer surveys（顧客調査によると）とあり、調査は行われています。調査が足りないとは書かれていないので、誤りです。
 【覚えるポイント】

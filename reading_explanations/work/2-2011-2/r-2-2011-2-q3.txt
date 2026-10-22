@@ -1,6 +1,7 @@
 ---
 choices: career | tone | range | sketch
 answerText: range
+reviewed: yes
 ---
 【正解】3 range（範囲、幅、品ぞろえ）
 【和訳】

@@ -1,0 +1,27 @@
+---
+choices: are separated from the clothes when the cleaning process has finished. | contain enough water and energy to wash the clothes. | stop the clothes from being damaged while they are being washed. | must be taken out to be cleaned each time the machine is used.
+answerText: are separated from the clothes when the cleaning process has finished.
+---
+【正解】1 are separated from the clothes when the cleaning process has finished.（洗う工程が終わると、衣服から分けられる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：新しい洗濯機で使われる小さなプラスチックのビーズは、
+1 洗う工程が終わると、衣服から分けられる。
+2 衣服を洗うのに十分な水とエネルギーを含んでいる。
+3 洗っている間に衣服が傷むのを防ぐ。
+4 機械を使うたびに、取り出して洗わなければならない。
+【考え方】
+ビーズを使った洗濯のしかたは、第2段落に順番に書かれています。First（まず）少しの水で衣服をぬらし、Then（次に）ビーズを衣服と混ぜて汚れを取ります。
+そのあとが When the process is over, the little beads are removed by the machine, and the clothes are left almost dry.（この工程が終わると、小さなビーズは機械によって取り除かれ、衣服はほとんど乾いた状態で残る）です。remove は「取り除く」という意味です。ビーズは衣服と混ぜられていたので、それを取り除くということは、衣服からビーズを分けるということです。本文と選択肢は次のように対応しています。
+本文 When the process is over（工程が終わると）＝ 選択肢 when the cleaning process has finished（洗う工程が終わったとき）
+本文 the little beads are removed by the machine（小さなビーズは機械によって取り除かれる）＝ 選択肢 are separated from the clothes（衣服から分けられる）
+したがって、1が正解です。
+【ほかの選択肢】
+2 本文では、水は First, a little water is added to the clothes to get them wet.（まず、衣服をぬらすために少しの水が加えられる）とあり、ビーズとは別に加えられています。ビーズの働きは汚れを吸い取ることで、水やエネルギーを含んでいるという話はありません。
+3 衣服が傷むのを防ぐという話は、本文に書かれていません。
+4 本文には Because the beads can be used over and over（ビーズは何度も繰り返し使える）、beads made of nylon can be used repeatedly until they are completely full of dirt（ナイロンでできたビーズは、汚れで完全にいっぱいになるまで繰り返し使える）とあります。毎回取り出して洗わなければならないとは書かれておらず、本文の内容と合いません。
+【覚えるポイント】
+・remove：「取り除く」。選択肢では be separated from ～（～から分けられる）と言いかえられています。
+・over and over：「何度も繰り返して」。repeatedly も同じ意味です。

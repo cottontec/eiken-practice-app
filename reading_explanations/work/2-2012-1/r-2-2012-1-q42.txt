@@ -1,6 +1,7 @@
 ---
 choices: make it harder to travel between some countries. | benefit plants and animals as well as humans. | require a lot of wood and other materials to build. | reduce the number of sandstorms inside the Sahara Desert.
 answerText: benefit plants and animals as well as humans.
+reviewed: yes
 ---
 【正解】2 benefit plants and animals as well as humans.（人間だけでなく植物や動物にも利益をもたらす。）
 【和訳】

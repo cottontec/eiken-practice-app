@@ -1,6 +1,7 @@
 ---
 choices: send | bring | keep | run
 answerText: keep
+reviewed: yes
 ---
 【正解】3 keep（keep off ～ で「～を控える、避ける」）
 【和訳】

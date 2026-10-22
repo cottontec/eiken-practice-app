@@ -1,6 +1,7 @@
 ---
 choices: artificial | critical | neutral | historical
 answerText: artificial
+reviewed: yes
 ---
 【正解】1 artificial（人工の）
 【和訳】

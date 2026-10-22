@@ -1,6 +1,7 @@
 ---
 choices: They can survive without a permanent body of water. | They are already known to most people around the world. | They cost less to transport than other kinds of fish. | They live longer in lakes than most other kinds of fish.
 answerText: They can survive without a permanent body of water.
+reviewed: yes
 ---
 【正解】1 They can survive without a permanent body of water.（いつも水がある場所がなくても生きのびることができるから。）
 【和訳】

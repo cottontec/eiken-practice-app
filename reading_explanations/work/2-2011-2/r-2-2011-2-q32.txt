@@ -1,6 +1,7 @@
 ---
 choices: gentle | private | confusing | traditional
 answerText: private
+reviewed: yes
 ---
 【正解】2 private（民間の、個人の）
 【和訳】

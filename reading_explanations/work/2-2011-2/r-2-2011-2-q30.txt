@@ -1,6 +1,7 @@
 ---
 choices: crowded | secret | convenient | valuable
 answerText: valuable
+reviewed: yes
 ---
 【正解】4 valuable（価値がある、貴重な）
 【和訳】

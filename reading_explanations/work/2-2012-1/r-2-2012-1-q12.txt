@@ -1,6 +1,7 @@
 ---
 choices: equal | later | same | worse
 answerText: same
+reviewed: yes
 ---
 【正解】3 same（all the same で「それでもやはり」）
 【和訳】

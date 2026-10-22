@@ -1,6 +1,7 @@
 ---
 choices: Research is explaining more clearly the causes of diseases. | The number of fish has increased in African lakes and ponds. | Scientists are finding new ways to use nature to control diseases. | Natural chemicals are often more effective than man-made ones.
 answerText: Scientists are finding new ways to use nature to control diseases.
+reviewed: yes
 ---
 【正解】3 Scientists are finding new ways to use nature to control diseases.（科学者たちが、自然を使って病気を抑える新しい方法を見つけているから。）
 【和訳】

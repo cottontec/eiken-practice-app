@@ -1,6 +1,7 @@
 ---
 choices: routine | sorrow | diversity | forecast
 answerText: diversity
+reviewed: yes
 ---
 【正解】3 diversity（多様性）
 【和訳】
