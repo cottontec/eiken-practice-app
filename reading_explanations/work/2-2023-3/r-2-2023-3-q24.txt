@@ -1,0 +1,25 @@
+---
+choices: from a satellite in space | with a new type of camera | to a conference about animals | of the source of these noises
+answerText: of the source of these noises
+---
+【正解】4 of the source of these noises（これらの音の出どころの）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 from a satellite in space（宇宙にある人工衛星から）
+2 with a new type of camera（新しい種類のカメラで）
+3 to a conference about animals（動物についての会議へ）
+4 of the source of these noises（これらの音の出どころの）
+【考え方】
+空所は第1段落の The mystery was finally solved when scientists took a photo (24).（その謎は、科学者たちが（24）写真を撮ったときに、ついに解けた）です。まず The mystery（その謎）が何かを確かめます。
+前の2文に、島の人々が夜に森から unusual sounds（変わった音）を聞いていたこと、そして However, nobody knew what was making them.（しかし、何がその音を出しているのかはだれも知らなかった）とあります。them は「その音」を指しています。つまり謎とは「何が音を出しているのか」です。
+この謎が「写真を撮ったときに解けた」のですから、写真に写っていたのは、音を出しているものだと考えられます。空所のすぐあとの It was a kind of owl.（それはフクロウの一種だった）も、音を出していたものの正体を答えています。
+4 of the source of these noises の source は「出どころ、源」という意味で、take a photo of ～ は「～の写真を撮る」です。これを入れると「これらの音の出どころの写真を撮ったときに、謎が解けた。それはフクロウの一種だった」となり、流れがつながります。ですから4が正解です。
+【ほかの選択肢】
+1 「宇宙にある人工衛星から」写真を撮った、という話は本文に出てきません。また、どこから撮ったかを言うだけでは、何が写っていたのかが分からず、次の It was a kind of owl.（それはフクロウの一種だった）の It が何を指すのかがはっきりしません。
+2 「新しい種類のカメラで」写真を撮った、という話も本文にありません。1と同じように、何を撮ったのかが分からないので、謎が解けた理由になりません。
+3 「動物についての会議へ」を入れると、「会議へ写真を持っていった」という意味になります。会議の話は本文になく、写真を持っていったことだけでは、何が音を出していたのかという謎が解けたことの説明になりません。
+【覚えるポイント】
+・source：「出どころ、源」。the source of ～ で「～の出どころ」。
+・take a photo of ～：「～の写真を撮る」。

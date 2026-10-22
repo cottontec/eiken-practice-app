@@ -1,0 +1,4 @@
+---
+choices: robbed | weighed | qualified | disappeared
+answerText: qualified
+---

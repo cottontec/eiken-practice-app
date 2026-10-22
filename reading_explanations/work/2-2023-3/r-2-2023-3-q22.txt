@@ -1,0 +1,27 @@
+---
+choices: keep climbers' hands dry | mark climbers' routes | stop climbers from feeling sick | give climbers extra energy
+answerText: keep climbers' hands dry
+---
+【正解】1 keep climbers' hands dry（クライマーの手を乾いた状態に保つ）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 keep climbers' hands dry（クライマーの手を乾いた状態に保つ）
+2 mark climbers' routes（クライマーの通る道すじに印をつける）
+3 stop climbers from feeling sick（クライマーが気分が悪くなるのを防ぐ）
+4 give climbers extra energy（クライマーに余分な力を与える）
+【考え方】
+空所は第2段落の The chalk helps to (22).（チョークは（22）するのに役立つ）です。chalk（チョーク）が何の役に立つのかを考えます。
+空所のあとの2文に、チョークの使い方が説明されています。
+・Climbers sweat as they climb, and sometimes, the rocks can be wet.（クライマーは登りながら汗をかくし、岩がぬれていることもある）
+・If climbers feel that their hands are slipping, they put them in their bag of chalk to remove moisture.（手がすべっていると感じたら、クライマーは湿り気を取るために、チョークの袋に手を入れる）
+sweat は「汗をかく」、moisture は「湿り気、水分」、remove は「取り除く」という意味です。汗や岩のぬれで手がしめると、すべってしまいます。そこで、チョークで湿り気を取るのです。つまり、チョークは手を乾いた状態にするために使われます。
+keep ～ dry は「～を乾いた状態に保つ」という意味です。1を入れると「チョークはクライマーの手を乾いた状態に保つのに役立つ」となり、あとの説明とつながります。ですから1が正解です。
+【ほかの選択肢】
+2 「クライマーの通る道すじに印をつける」は、本文に書かれていません。チョークの袋に手を入れるのは湿り気を取るためで、道すじに印をつけるためではありません。
+3 「クライマーが気分が悪くなるのを防ぐ」は、本文に書かれていません。あとの文は手がすべることと湿り気の話で、体調の話は出てきません。
+4 「クライマーに余分な力を与える」も、本文に書かれていません。チョークは手の湿り気を取るためのもので、力をつけるものとしては説明されていません。
+【覚えるポイント】
+・keep ～ dry：「～を乾いた状態に保つ」。keep ＋もの＋状態で「ものを（ある状態）に保つ」という形です。
+・空所のあとに、空所の内容をくわしく説明する文が続くことがよくあります。

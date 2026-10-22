@@ -1,0 +1,26 @@
+---
+choices: find a new way to make a living | take a different route to his office | move out of his family's home | get the help of some friends
+answerText: find a new way to make a living
+---
+【正解】1 find a new way to make a living（生計を立てる新しい方法を見つける）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 find a new way to make a living（生計を立てる〔生活のためのお金をかせぐ〕新しい方法を見つける）
+2 take a different route to his office（職場まで別の道を通る）
+3 move out of his family's home（家族の家を出る）
+4 get the help of some friends（何人かの友人の助けを借りる）
+【考え方】
+空所は第2段落の However, some years ago, the forests and the wildlife living in them started to be protected by law, so Bikegila had to (25).（しかし数年前、森とそこにすむ野生生物が法律で守られるようになったので、ビケギラは（25）しなければならなかった）です。so は「だから」という意味で、前半がその理由です。
+まず、ビケギラが以前していたことを確かめます。前の文に A man known as Bikegila used to climb trees in the island's forests and take baby parrots to sell as pets.（ビケギラという名で知られる男性は、かつて島の森で木に登り、ペットとして売るためにオウムのひなを捕まえていた）とあります。used to ～ は「かつては～していた（今はしていない）」という意味です。オウムのひなを捕まえて売ることで、お金をかせいでいたと読み取れます。
+ところが、森と野生生物が法律で守られるようになったので、オウムを捕まえて売ることは続けられなくなったと考えられます。
+空所のあとの文には He used his knowledge of the area to work as a guide, showing tourists around the forests.（彼はその地域についての知識を使って、観光客に森を案内するガイドとして働いた）とあります。前の仕事ができなくなり、ガイドという別の仕事を始めたという流れです。
+make a living は「生計を立てる（生活のためのお金をかせぐ）」という意味です。1を入れると「法律で森が守られるようになったので、ビケギラは生計を立てる新しい方法を見つけなければならなかった」となり、前後とつながります。ですから1が正解です。
+【ほかの選択肢】
+2 「職場まで別の道を通る」は、本文に書かれていません。ビケギラの職場（office）や通勤の話は出てこず、あとのガイドとして働く話ともつながりません。
+3 「家族の家を出る」も、本文に書かれていません。法律で森が守られるようになったことと、家を出ることは結びつかず、あとの文ともつながりません。
+4 「何人かの友人の助けを借りる」も、本文にありません。本文で助けを必要としていたのは科学者たちで、ビケギラは助ける側です。
+【覚えるポイント】
+・make a living：「生計を立てる、生活のためのお金をかせぐ」。
+・used to ～：「かつては～していた（今はしていない）」。

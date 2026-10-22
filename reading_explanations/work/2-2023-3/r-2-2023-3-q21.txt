@@ -1,0 +1,25 @@
+---
+choices: climb even higher mountains | charge a fee for climbing rocks | create places to climb indoors | develop new climbing techniques
+answerText: create places to climb indoors
+---
+【正解】3 create places to climb indoors（屋内で登る場所を作る）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 climb even higher mountains（もっと高い山に登る）
+2 charge a fee for climbing rocks（岩登りに料金を取る）
+3 create places to climb indoors（屋内で登る場所を作る）
+4 develop new climbing techniques（新しい登り方の技術を生み出す）
+【考え方】
+空所は第1段落の As a result, some people decided to (21).（その結果、（21）することにした人々がいた）です。As a result は「その結果」という意味なので、前の文に原因が書かれています。
+前の2文は Originally, people climbed rocks outdoors. However, when the weather was bad, it was dangerous to do this.（もともと人々は屋外で岩を登っていた。しかし天気が悪いときには、そうするのは危険だった）です。「屋外では、天気が悪いと危険」という問題があり、その結果として何かをした、という流れです。
+空所のすぐあとの文も大事な手がかりです。At these climbing centers, it is possible to practice climbing even if conditions outside are bad.（こうしたクライミングセンターでは、外の状態が悪くても登る練習ができる）とあります。these（これらの）は、前に出てきたものを指す語です。ですから、空所には「クライミングセンター」に当たる場所の話が入るはずです。また、「外の状態が悪くても練習できる」のは、その場所が屋内にあるからだと考えられます。
+3 create places to climb indoors（屋内で登る場所を作る）を入れると、「天気が悪いと屋外は危険→屋内で登る場所を作った→そこでは外の天気が悪くても練習できる」とつながります。ですから3が正解です。
+【ほかの選択肢】
+1 「もっと高い山に登る」を入れると、天気が悪いと危険だという問題が解決しません。また、次の文の these climbing centers（こうしたクライミングセンター）が何を指すのか分からなくなります。
+2 「岩登りに料金を取る」を入れても、天気が悪いと危険だという問題とはつながりません。料金の話は本文に出てきません。
+4 「新しい登り方の技術を生み出す」を入れると、次の文の these climbing centers（こうしたクライミングセンター）が指すものがありません。技術は場所ではないので、「そこでは外の状態が悪くても練習できる」ともつながりません。
+【覚えるポイント】
+・As a result：「その結果」。前に原因、あとに結果がきます。
+・these ～ / this ～：前に出てきたものを指します。空所のあとの文に these があれば、空所の中に指されるものがあるかどうかを確かめましょう。
