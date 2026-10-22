@@ -1,0 +1,31 @@
+---
+choices: delighted | retraced | revolted | exhausted
+answerText: exhausted
+---
+【正解】4 exhausted（使い果たした、出しつくした）
+【和訳】
+（英文）
+Glenn had no choice but to borrow money from his father to pay his rent. He had ［exhausted］ all his other options.
+（訳）
+グレンは家賃を払うために、父親からお金を借りるしかありませんでした。ほかのすべての手段を（使い果たして）いたのです。
+（選択肢の意味）
+1 delighted：喜ばせた
+2 retraced：（来た道などを）引き返した、たどり直した
+3 revolted：反乱を起こした、ひどく不快にさせた
+4 exhausted：使い果たした、出しつくした（人を疲れ果てさせた）
+【考え方】
+まず見るところ：前の文の had no choice but to borrow money と、空所のあとの all his other options
+前の文は次のとおりです。
+Glenn had no choice but to borrow money from his father to pay his rent.（グレンは家賃を払うために、父親からお金を借りるしかなかった）
+have no choice but to ～ は「～するしかない、～する以外に選べる道がない」という意味です。
+空所のある文は次のとおりです。
+He had ( ) all his other options.（彼はほかのすべての手段を（　）いた）
+option は「選べる道、手段」です。父親から借りるしかなかったのは、ほかの手段がもう残っていなかったからだと考えられます。exhaust は「使い果たす、出しつくす」で、had exhausted all his other options で「（それまでに）ほかのすべての手段を使い果たしていた」となるので、4が正解です。
+この問題の型：言いかえ（had no choice but to ～ ＝ had exhausted all his other options）
+【ほかの選択肢】
+1 delighted は「喜ばせた」です。「ほかのすべての手段を喜ばせていた」となり、意味が通りません。
+2 retraced は「引き返した、たどり直した」です。「ほかのすべての手段をたどり直していた」では、「お金を借りるしかなかった」理由になりません。
+3 revolted は「反乱を起こした、不快にさせた」です。「ほかのすべての手段を不快にさせていた」となり、意味が通りません。
+【覚えるポイント】
+・exhaust：「使い果たす、出しつくす」。exhaust all the options（すべての手段を使い果たす）の形で、「もうほかに方法がない」ことを表します。「（人を）疲れ果てさせる」という意味もあります。
+・have no choice but to ～（～するしかない）のあとの文は、「なぜほかに道がないのか」を説明していることが多いので、空所に入る語を考える手がかりになります。

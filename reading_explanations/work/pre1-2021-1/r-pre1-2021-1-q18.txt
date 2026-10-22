@@ -1,0 +1,29 @@
+---
+choices: malfunction | institution | assumption | transcription
+answerText: assumption
+---
+【正解】3 assumption（想定、（たぶんそうだろうという）仮定）
+【和訳】
+（英文）
+The supermarket chain's expansion plans are based on the ［assumption］ that consumer spending will continue to increase for the next five years at least.
+（訳）
+そのスーパーマーケットチェーンの事業拡大計画は、消費者の支出（買い物などに使うお金）が少なくともこの先5年間は増え続けるだろうという（想定）にもとづいています。
+（選択肢の意味）
+1 malfunction：故障、不調
+2 institution：機関、施設、制度
+3 assumption：想定、仮定（たぶんそうだろうと考えること）
+4 transcription：書き写すこと、文字に起こしたもの
+【考え方】
+まず見るところ：空所の前の are based on the と、空所のあとの that consumer spending will continue to increase
+空所の前後は次のとおりです。
+are based on the ( ) that consumer spending will continue to increase for the next five years at least（消費者の支出が少なくともこの先5年間は増え続けるだろうという（　）にもとづいている）
+be based on ～ は「～にもとづいている」という意味です。that 以下は空所の名詞の中身を説明しています。
+that 以下の「支出が増え続けるだろう」は、まだ起きていない未来のことについての考えです。計画を立てるときに「たぶんこうなるだろう」と考えておくことを assumption（想定、仮定）と言うので、3が正解です。
+この問題の型：語の意味・組み合わせ（be based on the assumption that ～）
+【ほかの選択肢】
+1 malfunction は「故障、不調」です。「支出が増え続けるだろうという故障」となり、意味が通りません。
+2 institution は「機関、制度」です。「支出が増え続けるだろうという機関」となり、that 以下の「未来についての考え」とつながりません。
+4 transcription は「書き写すこと」です。「支出が増え続けるだろうという書き写し」となり、意味が通りません。
+【覚えるポイント】
+・be based on the assumption that ～：「～という想定にもとづいている」。計画や考えのよりどころを表す言い方です。
+・空所の名詞のあとに that ～ が続き、that 以下に文の形で中身が書かれているときは、その中身（ここでは will continue to increase という未来の予想）に合う名詞を選ぶと手がかりになります。

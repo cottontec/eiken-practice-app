@@ -1,0 +1,31 @@
+---
+choices: Doctors often must prescribe the strongest types of antibiotics because severe bacterial illnesses are common there. | Pharmaceutical companies are not doing enough to make sure antibiotics are distributed to the public. | Farmers are using more than the recommended levels of antibiotics when they add them to their animals' feed. | Wastewater treatment systems are allowing antibiotics from drug manufacturing facilities into waterways.
+answerText: Wastewater treatment systems are allowing antibiotics from drug manufacturing facilities into waterways.
+---
+【正解】4 Wastewater treatment systems are allowing antibiotics from drug manufacturing facilities into waterways.（排水処理のしくみが、薬の製造施設から出る抗生物質が水路に入りこむのを許してしまっている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one thing that has contributed to the development of superbugs in India?（インドでスーパーバグが生まれる原因の一つになってきたことは何か。）
+1 Doctors often must prescribe the strongest types of antibiotics because severe bacterial illnesses are common there.（そこでは細菌による重い病気がよく見られるので、医師は最も強い種類の抗生物質を処方しなければならないことが多い。）
+2 Pharmaceutical companies are not doing enough to make sure antibiotics are distributed to the public.（製薬会社は、抗生物質が確実に人々に届けられるようにするための努力を十分にしていない。）
+3 Farmers are using more than the recommended levels of antibiotics when they add them to their animals' feed.（農家は、動物のえさに抗生物質を加えるときに、すすめられている量より多く使っている。）
+4 Wastewater treatment systems are allowing antibiotics from drug manufacturing facilities into waterways.（排水処理のしくみが、薬の製造施設から出る抗生物質が水路に入りこむのを許してしまっている。）
+【考え方】
+まず見るところ：第2段落の Additionally, India's pharmaceutical industry is releasing ～ because the treatment facilities ～ do not effectively remove the drugs.
+第2段落には、インドでスーパーバグが増える原因がいくつか挙げられています。その中の一つが次の文です。
+Additionally, India's pharmaceutical industry is releasing alarmingly high levels of antibiotics into the environment because the treatment facilities that process the industry's wastewater do not effectively remove the drugs.（さらに、インドの製薬業界は、心配になるほど高い濃度の抗生物質を環境中に放出している。業界の排水を処理する施設が、その薬を効果的に取り除いていないからである）
+pharmaceutical industry は「製薬業界（薬を作る会社の集まり）」、wastewater は「排水（使ったあとに流す水）」です。
+本文と選択肢4を対にすると、次のようになります。
+本文 the treatment facilities that process the industry's wastewater（業界の排水を処理する施設）＝ 選択肢 Wastewater treatment systems（排水処理のしくみ）
+本文 do not effectively remove the drugs（その薬を効果的に取り除いていない）→ 選択肢 are allowing antibiotics ～ into waterways（抗生物質が水路に入りこむのを許している）
+本文は「環境中に（into the environment）」と言い、選択肢は「水路に（into waterways）」と言っています。排水は川などの水路に流れるので、第3段落で水路の中の抗生物質を減らすことが鍵とされていることとも合います。よって4が正解です。
+この問題の型：言いかえ（do not effectively remove→are allowing ～ into）／因果（排水処理が不十分→抗生物質が環境に出る→耐性菌が増える）
+【ほかの選択肢】
+1 本文にない内容です。本文は、抗生物質が「それを必要としない病気」のためにひんぱんに飲まれていると述べており、重い病気が多いから強い薬が必要だという話ではありません。また第3段落では、多くの地域に医師がいないと書かれています。
+2 本文にない内容です。製薬業界について本文が問題にしているのは、抗生物質を環境中に放出していることで、人々に抗生物質を届ける努力が足りないという話はありません。
+3 一部だけ正しい内容です。本文には livestock are regularly fed the drugs（家畜には日常的にその薬が与えられている）とありますが、「すすめられている量より多く」使っているとは書かれていません。
+【覚えるポイント】
+・wastewater treatment：「排水処理」。do not effectively remove（効果的に取り除いていない）は、「通りぬけさせてしまっている」という意味の選択肢に言いかえられることがあります。
+・原因がいくつも並ぶ段落（One cause ～ / Additionally ～ / also ～）では、選択肢の主語（ここでは処理のしくみ、農家など）がどの原因の文に当たるかを見つけ、その文に書かれていない言葉（「すすめられている量より多く」など）が加わっていないかを確かめると手がかりになります。

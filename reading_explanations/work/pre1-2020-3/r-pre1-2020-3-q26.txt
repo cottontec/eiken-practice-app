@@ -1,0 +1,29 @@
+---
+choices: is related to temptation | relies on many connected factors | changes over long periods | depends on people's intelligence
+answerText: is related to temptation
+---
+【正解】1 is related to temptation（誘惑と関係がある）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 is related to temptation（誘惑と関係がある）
+2 relies on many connected factors（つながり合った多くの要因によって決まる）
+3 changes over long periods（長い期間をかけて変わる）
+4 depends on people's intelligence（人々の知能によって決まる）
+【考え方】
+まず見るところ：第1段落の While it does seem logical that people are more likely to lie, steal, or cheat if they believe they will gain something they desire by doing so
+空所のある文は次のとおりです。
+Among the most well-known is that it (26).（最もよく知られているものの1つは、それは（26）というものだ）
+it は前の文の honesty（正直さ）を指します。空所には、正直さについてのよく知られた理論の中身が入ります。
+その次の文で、Recently, however, this idea has been questioned.（しかし最近、この考えに疑問が投げかけられている）と続きます。this idea（この考え）は空所の理論のことです。そして、その考えがどんなものかは、さらに次の文の前半で説明されています。
+While it does seem logical that people are more likely to lie, steal, or cheat if they believe they will gain something they desire by doing so,（人は、うそをついたり、盗んだり、ずるをしたりすることで自分の欲しいものが手に入ると思えば、そうする可能性がより高くなるというのは、確かに筋が通っているように思えるが）
+logical は「筋が通っている」、desire は「強く欲しがる」という意味です。「欲しいものが手に入るなら、人は正直でなくなりやすい」という考えです。欲しいものに心が引かれることを temptation（誘惑）と言います。つまり、この考えは「正直さは誘惑と関係がある」とまとめられるので、1が正解です。
+この問題の型：具体例とまとめ（欲しいものが手に入るならうそをつく＝誘惑と関係がある）／指示語（this idea＝空所の理論）
+【ほかの選択肢】
+2 「つながり合った多くの要因によって決まる」は、本文に根拠がありません。直後で説明されている考えは「欲しいものが手に入るかどうか」という1つの点についてで、多くの要因の話は出てきません。
+3 「長い期間をかけて変わる」も、本文に根拠がありません。正直さが時間とともに変わるという話は、この文章のどこにも出てきません。
+4 「人々の知能によって決まる」も、本文に根拠がありません。頭のよさと正直さの関係は書かれておらず、直後の文の「欲しいものが手に入るなら」という内容ともつながりません。
+【覚えるポイント】
+・temptation：「誘惑（欲しいものに心が引かれて、してはいけないことをしたくなる気持ち）」。gain something they desire（欲しいものを手に入れる）のような内容は、temptation の言いかえになっています。
+・this idea（この考え）のような指示語のあとで「その考えへの疑問」が書かれているときは、直後の While ～（～ではあるが）の部分に、その考えの中身がくわしく書かれていることが多いので、そこが空所の手がかりになります。
