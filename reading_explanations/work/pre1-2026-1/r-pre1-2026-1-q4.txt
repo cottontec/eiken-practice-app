@@ -1,6 +1,7 @@
 ---
 choices: referral | recipient | bouncer | successor
 answerText: recipient
+reviewed: yes
 ---
 【正解】2 recipient（受け取る人、受取人）
 【和訳】

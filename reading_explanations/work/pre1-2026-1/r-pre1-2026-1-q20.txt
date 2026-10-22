@@ -1,6 +1,7 @@
 ---
 choices: have less effect on youngest siblings | become stronger as children age | are mostly meaningless | should be more widely accepted
 answerText: are mostly meaningless
+reviewed: yes
 ---
 【正解】3 are mostly meaningless（ほとんど意味がない）
 【和訳】

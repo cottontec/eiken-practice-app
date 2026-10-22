@@ -1,6 +1,7 @@
 ---
 choices: haul | envy | subtract | censor
 answerText: censor
+reviewed: yes
 ---
 【正解】4 censor（～を検閲する）
 【和訳】

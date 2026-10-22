@@ -1,6 +1,7 @@
 ---
 choices: descendant | triumph | emission | deficiency
 answerText: deficiency
+reviewed: yes
 ---
 【正解】4 deficiency（不足、欠乏）
 【和訳】

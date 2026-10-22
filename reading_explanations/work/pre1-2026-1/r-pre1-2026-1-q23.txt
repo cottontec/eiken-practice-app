@@ -1,6 +1,7 @@
 ---
 choices: is turning to technology instead | is planning to construct stronger defenses | has stopped all current projects | has requested help from other nations
 answerText: is turning to technology instead
+reviewed: yes
 ---
 【正解】1 is turning to technology instead（その代わりに技術に頼ろうとしている）
 【和訳】

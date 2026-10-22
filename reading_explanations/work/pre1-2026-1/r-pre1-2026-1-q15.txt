@@ -1,6 +1,7 @@
 ---
 choices: sank in | let out | went under | lived off
 answerText: went under
+reviewed: yes
 ---
 【正解】3 went under（倒産した、つぶれた）
 【和訳】

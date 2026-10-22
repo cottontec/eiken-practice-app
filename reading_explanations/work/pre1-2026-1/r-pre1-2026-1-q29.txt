@@ -1,6 +1,7 @@
 ---
 choices: There are limits to how intelligent animals can become, and no amount of breeding will ever be able to overcome them. | It is possible that an attempt to increase animal intelligence will actually have the opposite of its intended effect. | Attempts to increase an animal's intelligence could interfere with other important aspects of the animal's biology. | While it is possible to slightly increase animal intelligence, it is not likely that it will be inherited by an animal's offspring.
 answerText: Attempts to increase an animal's intelligence could interfere with other important aspects of the animal's biology.
+reviewed: yes
 ---
 【正解】3 Attempts to increase an animal's intelligence could interfere with other important aspects of the animal's biology.（動物の知能を高めようとする試みは、その動物の体のしくみのほかの重要な面をさまたげるおそれがある。）
 【和訳】

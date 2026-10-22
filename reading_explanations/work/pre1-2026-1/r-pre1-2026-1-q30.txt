@@ -1,6 +1,7 @@
 ---
 choices: it should not be carried out because it is impossible for animals to agree to what is going to happen to them. | it could bring about significant changes in animal behavior that could, in turn, have negative effects on the environment. | there are likely to be more risks in performing operations on animals' brains due to our lack of knowledge about how they function. | there is a significant risk that the effects of the procedure could reduce the survival instincts of animals that receive it.
 answerText: it should not be carried out because it is impossible for animals to agree to what is going to happen to them.
+reviewed: yes
 ---
 【正解】1 it should not be carried out because it is impossible for animals to agree to what is going to happen to them.（動物が、自分たちに起ころうとしていることに同意するのは不可能なので、それは行われるべきではないということだ。）
 【和訳】

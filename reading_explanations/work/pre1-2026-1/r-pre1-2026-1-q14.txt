@@ -1,6 +1,7 @@
 ---
 choices: radiate | magnify | extract | impart
 answerText: extract
+reviewed: yes
 ---
 【正解】3 extract（～を抜き取る、（歯）を抜く）
 【和訳】

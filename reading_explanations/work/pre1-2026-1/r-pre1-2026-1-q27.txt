@@ -1,6 +1,7 @@
 ---
 choices: Even though the Sumer region was attacked and defeated by outside forces, the religious heritage of Uruk was not destroyed. | Uruk borrowed some of its religious architecture and artistic techniques from neighboring cities in Sumer. | The Akkadians had to destroy much of the wall and stone buildings in order to defeat Uruk. | Uruk's decline can be attributed to the fact that neighboring Sumerian cities created alliances with the Akkadians.
 answerText: Even though the Sumer region was attacked and defeated by outside forces, the religious heritage of Uruk was not destroyed.
+reviewed: yes
 ---
 【正解】1 Even though the Sumer region was attacked and defeated by outside forces, the religious heritage of Uruk was not destroyed.（シュメール地方は外からの勢力に攻撃されて打ち負かされたが、ウルクの宗教的な遺産は破壊されなかった。）
 【和訳】
@@ -24,7 +25,7 @@ conquer は「（戦って）～を征服する」です。
 本文 the Akkadians conquered much of Sumer（アッカド人がシュメールの大部分を征服した）→ 選択肢 the Sumer region was attacked and defeated by outside forces（シュメール地方は外からの勢力に攻撃されて打ち負かされた）
 本文 Despite this conquest（この征服にもかかわらず）＝ 選択肢 Even though ～（～だけれども）
 本文 Uruk's religious districts were respected and protected（宗教的な地区は尊重され、守られた）→ 選択肢 the religious heritage of Uruk was not destroyed（宗教的な遺産は破壊されなかった）
-アッカド人は、前の文の forces from other regions（ほかの地域からの勢力）にあたるので、outside forces（外からの勢力）と言いかえられています。ですから1が正解です。
+アッカド人は、前の文の forces from other regions（ほかの地域からの勢力）にあたると考えられるので、選択肢では outside forces（外からの勢力）と言いかえられています。ですから1が正解です。
 この問題の型：言いかえ（were respected and protected → was not destroyed）／対比（征服された⇔宗教的な地区は守られた）
 【ほかの選択肢】
 2 第3段落には、ウルクが近くの都市から宗教的な建築や芸術の技術を借りたという話は書かれていません。発掘調査で見つかったものとして建物や美術品が挙げられていますが、それはウルクの歴史的な重要性を示すものとして書かれています。

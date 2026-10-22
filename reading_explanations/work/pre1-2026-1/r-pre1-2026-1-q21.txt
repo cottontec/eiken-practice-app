@@ -1,6 +1,7 @@
 ---
 choices: tends to fade with time | is related mainly to intelligence | affects their success as adults | is due to parenting styles
 answerText: tends to fade with time
+reviewed: yes
 ---
 【正解】1 tends to fade with time（時間がたつにつれて薄れていく傾向がある）
 【和訳】

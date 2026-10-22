@@ -1,6 +1,7 @@
 ---
 choices: flourishing | pledging | scattering | drooping
 answerText: flourishing
+reviewed: yes
 ---
 【正解】1 flourishing（うまくいっている、のびのびと活躍している）
 【和訳】

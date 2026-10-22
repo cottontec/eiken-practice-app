@@ -1,6 +1,7 @@
 ---
 choices: cemetery | diagram | equation | forecast
 answerText: diagram
+reviewed: yes
 ---
 【正解】2 diagram（図、図表）
 【和訳】

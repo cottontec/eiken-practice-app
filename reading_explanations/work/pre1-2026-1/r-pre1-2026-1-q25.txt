@@ -1,6 +1,7 @@
 ---
 choices: Rapid progress would have been possible even without the technological advances that increased agricultural efficiency. | One important characteristic was its ability to produce more food than it needed, which allowed for more rapid change to occur. | The construction of canals for agricultural use could not keep up with the needs of a growing population. | It lost out on the most profitable trade deals because it reserved too much of its crop harvests for its own population.
 answerText: One important characteristic was its ability to produce more food than it needed, which allowed for more rapid change to occur.
+reviewed: yes
 ---
 【正解】2 One important characteristic was its ability to produce more food than it needed, which allowed for more rapid change to occur.（重要な特徴の一つは、必要な量より多くの食料を生み出す力で、それによってより急速な変化が起こることが可能になった。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: Since it only had a minor effect on the mice's memory, it cannot really be said to have improved their overall intelligence. | Although it affected one element of the mice's intelligence, it is just an early step in what will most likely be a complicated process. | It demonstrated that the way that mice communicated with each other was more sophisticated than had previously been believed. | It indicates that mice may actually have a form of intelligence that researchers were not aware of in the past.
 answerText: Although it affected one element of the mice's intelligence, it is just an early step in what will most likely be a complicated process.
+reviewed: yes
 ---
 【正解】2 Although it affected one element of the mice's intelligence, it is just an early step in what will most likely be a complicated process.（それはマウスの知能の一つの要素に影響を与えたが、おそらく複雑な過程になるであろうものの、初めの一歩にすぎない。）
 【和訳】

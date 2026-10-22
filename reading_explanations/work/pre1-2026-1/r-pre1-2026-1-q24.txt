@@ -1,6 +1,7 @@
 ---
 choices: is no longer necessary | should not take long to complete | will not only benefit Tuvalu | has no clear purpose
 answerText: will not only benefit Tuvalu
+reviewed: yes
 ---
 【正解】3 will not only benefit Tuvalu（ツバルのためになるだけではないだろう）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: slack | sparse | vast | vital
 answerText: slack
+reviewed: yes
 ---
 【正解】1 slack（たるんだ、ゆるんだ）
 【和訳】

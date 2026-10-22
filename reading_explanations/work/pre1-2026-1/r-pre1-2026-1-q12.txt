@@ -1,6 +1,7 @@
 ---
 choices: reptile | glacier | blockade | portfolio
 answerText: portfolio
+reviewed: yes
 ---
 【正解】4 portfolio（作品集）
 【和訳】

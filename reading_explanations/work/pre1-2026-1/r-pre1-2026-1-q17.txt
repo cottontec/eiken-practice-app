@@ -1,6 +1,7 @@
 ---
 choices: slip away | tear up | drop out | follow up
 answerText: slip away
+reviewed: yes
 ---
 【正解】1 slip away（こっそり立ち去る、抜け出す）
 【和訳】

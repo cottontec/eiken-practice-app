@@ -1,6 +1,7 @@
 ---
 choices: nutritious | diverse | barren | coincidental
 answerText: barren
+reviewed: yes
 ---
 【正解】3 barren（不毛の、植物が育たない）
 【和訳】

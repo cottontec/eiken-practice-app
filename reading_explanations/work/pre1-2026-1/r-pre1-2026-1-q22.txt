@@ -1,6 +1,7 @@
 ---
 choices: On the contrary | Despite this | Similarly | In fact
 answerText: In fact
+reviewed: yes
 ---
 【正解】4 In fact（実際、事実）
 【和訳】

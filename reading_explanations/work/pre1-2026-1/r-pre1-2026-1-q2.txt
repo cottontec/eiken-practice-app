@@ -1,6 +1,7 @@
 ---
 choices: possessive | horizontal | redundant | drastic
 answerText: redundant
+reviewed: yes
 ---
 【正解】3 redundant（余分な、くり返しで不要な）
 【和訳】

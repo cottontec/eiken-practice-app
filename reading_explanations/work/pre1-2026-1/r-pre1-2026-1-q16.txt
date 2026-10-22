@@ -1,6 +1,7 @@
 ---
 choices: add up | read into | take off | fall out
 answerText: add up
+reviewed: yes
 ---
 【正解】1 add up（つじつまが合う、筋が通る）
 【和訳】

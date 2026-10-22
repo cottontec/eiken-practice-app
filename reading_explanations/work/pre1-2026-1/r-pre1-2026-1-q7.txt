@@ -1,6 +1,7 @@
 ---
 choices: distortion | generosity | turbulence | conjecture
 answerText: turbulence
+reviewed: yes
 ---
 【正解】3 turbulence（乱気流）
 【和訳】

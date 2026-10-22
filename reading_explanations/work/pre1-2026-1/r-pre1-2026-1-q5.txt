@@ -1,6 +1,7 @@
 ---
 choices: triggering | fabricating | conserving | renouncing
 answerText: fabricating
+reviewed: yes
 ---
 【正解】2 fabricating（～をでっち上げること、ねつ造すること）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: abbreviate | attest | carve | yield
 answerText: abbreviate
+reviewed: yes
 ---
 【正解】1 abbreviate（～を短くする、縮める）
 【和訳】

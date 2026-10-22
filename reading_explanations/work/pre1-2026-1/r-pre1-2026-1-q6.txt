@@ -1,6 +1,7 @@
 ---
 choices: ransom | specimen | cavity | citation
 answerText: citation
+reviewed: yes
 ---
 【正解】4 citation（（交通違反の）呼び出し状、違反切符）
 【和訳】

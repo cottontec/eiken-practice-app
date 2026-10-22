@@ -1,6 +1,7 @@
 ---
 choices: Consequently | Specifically | Nonetheless | Otherwise
 answerText: Specifically
+reviewed: yes
 ---
 【正解】2 Specifically（具体的に言うと）
 【和訳】

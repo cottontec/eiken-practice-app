@@ -1,6 +1,7 @@
 ---
 choices: Humans need to develop better types of surgical procedures so that we do not harm animals when trying to uplift them. | It is likely that the same medical advances that are used to uplift animals will also help them to live longer, healthier lives. | Humans should develop the technology necessary for uplifting animals before we consider whether it is right to do so or not. | If humans use animals in the process of increasing our own intelligence, that would increase our obligation to uplift them.
 answerText: If humans use animals in the process of increasing our own intelligence, that would increase our obligation to uplift them.
+reviewed: yes
 ---
 【正解】4 If humans use animals in the process of increasing our own intelligence, that would increase our obligation to uplift them.（もし人間が、自分たち自身の知能を高める過程で動物を利用するなら、そのことで、動物の知能を引き上げる私たちの義務は大きくなるだろう。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: The benefits its use provided were not enough to enable Uruk to stay ahead of rival cities. | Although it had uses that aided development in Uruk, it was less suited to complex bureaucratic tasks. | It was first developed for religious purposes but was later adopted for use in commerce and government. | It provided Uruk with a means to help manage the administration of its increasingly complex society.
 answerText: It provided Uruk with a means to help manage the administration of its increasingly complex society.
+reviewed: yes
 ---
 【正解】4 It provided Uruk with a means to help manage the administration of its increasingly complex society.（それはウルクに、ますます複雑になっていく社会の行政を管理する助けとなる手段を与えた。）
 【和訳】
