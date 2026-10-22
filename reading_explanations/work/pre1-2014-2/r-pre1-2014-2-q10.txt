@@ -1,0 +1,33 @@
+---
+choices: conscience | fragrance | migration | citation
+answerText: migration
+---
+【正解】3 migration（渡り、移動）
+【和訳】
+（英文）
+A: There are so many birds on this lake!
+B: Yes, they rest here during their ［migration］ south every year. They'll be back again when they fly north in the spring.
+（訳）
+A：この湖には、本当にたくさんの鳥がいるね！
+B：うん、毎年、南へ（渡る）途中に、ここで休むんだよ。春に北へ飛んでいくときに、またもどってくるよ。
+（選択肢の意味）
+1 conscience：良心
+2 fragrance：よい香り
+3 migration：（鳥などの）渡り、移動
+4 citation：引用；表彰
+【考え方】
+まず見るところ：空所の後ろの south と、Bの2文目の fly north in the spring
+Bの1文目は次のとおりです。
+they rest here during their (　) south every year（鳥たちは毎年、南への（　）の間に、ここで休む）
+during ～ は「～の間に」という意味なので、空所には「何かをしている期間」を表す語が入ります。そして、その後ろに south（南へ）があります。
+Bの2文目では、次のように言っています。
+They'll be back again when they fly north in the spring.（春に北へ飛んでいくときに、またもどってくる）
+鳥たちが季節によって南へ行ったり北へ行ったりしていることが分かります。このように、鳥などが季節ごとに住む場所を移ることを「渡り」と言い、英語では migration と言います。「南への渡りの間にここで休む」となり、意味が通るので、3が正解です。
+この問題の型：語の意味・組み合わせ（south・north と migration）
+【ほかの選択肢】
+1 conscience は「良心（よいことと悪いことを見分ける心）」です。「南への良心の間に休む」となり、意味が通りません。
+2 fragrance は「よい香り」です。「南へのよい香りの間に休む」となり、鳥の移動の話とつながりません。
+4 citation は「（文章の）引用」や「表彰」という意味です。鳥が南へ移動する話とは関係がありません。
+【覚えるポイント】
+・migration：「（鳥や動物の）渡り、移動」。動詞は migrate（渡る、移動する）です。
+・空所の後ろに south（南へ）、次の文に fly north（北へ飛ぶ）のような方向を表す語があるときは、移動を表す語が答えになる手がかりになります。

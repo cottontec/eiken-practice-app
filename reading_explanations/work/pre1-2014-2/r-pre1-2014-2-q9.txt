@@ -1,0 +1,31 @@
+---
+choices: assemblies | cowards | dictators | casualties
+answerText: casualties
+---
+【正解】4 casualties（犠牲者、犠牲になったもの）
+【和訳】
+（英文）
+The university was forced to cancel various projects due to budget cuts. One of the first ［casualties］ was the planned indoor swimming pool.
+（訳）
+その大学は、予算削減のために、さまざまな計画を中止せざるをえませんでした。最初に（犠牲になった）ものの一つが、計画されていた屋内プールでした。
+（選択肢の意味）
+1 assemblies：集会；組み立て
+2 cowards：おくびょう者
+3 dictators：独裁者
+4 casualties：（事故や戦争の）死傷者、犠牲者；犠牲になったもの
+【考え方】
+まず見るところ：1文目の cancel various projects と、2文目の the planned indoor swimming pool
+1文目で、大学の状況が分かります。
+The university was forced to cancel various projects due to budget cuts.（その大学は、予算削減のために、さまざまな計画を中止せざるをえなかった）
+be forced to ～ は「～せざるをえない」、budget cuts は「予算削減（使えるお金を減らすこと）」という意味です。
+2文目は次のとおりです。
+One of the first (　) was the planned indoor swimming pool.（最初の（　）の一つが、計画されていた屋内プールだった）
+屋内プールは、中止された計画の一つの例です。つまり空所には「中止されたもの」に当たる語が入ります。casualty はもともと「（事故や戦争の）死傷者、犠牲者」という意味ですが、そこから「（ある出来事のせいで）だめになったもの、犠牲になったもの」という意味でも使われます。「予算削減の最初の犠牲の一つがプールだった」となり、意味が通るので、4が正解です。
+この問題の型：語の意味・組み合わせ（casualty の比喩的な使い方）
+【ほかの選択肢】
+1 assemblies は「集会」や「組み立て」という意味です。「最初の集会の一つが屋内プールだった」となり、意味が通りません。
+2 cowards は「おくびょう者」で、人を表す語です。屋内プールは人ではないので、合いません。
+3 dictators は「独裁者（一人で国の権力をにぎる人）」で、これも人を表す語です。屋内プールを表す言葉として合いません。
+【覚えるポイント】
+・casualty：「死傷者、犠牲者」のほか、「（ある出来事で）犠牲になったもの」という意味でも使われます。
+・前の文で「さまざまなものが中止された」と述べ、次の文でその一例を挙げるときは、空所の語が「中止されたもの」を言いかえていると考えると、答えを選ぶ手がかりになります。

@@ -1,0 +1,31 @@
+---
+choices: pursuing | neglecting | abolishing | sheltering
+answerText: neglecting
+---
+【正解】2 neglecting（おろそかにすること、ほったらかしにすること）
+【和訳】
+（英文）
+When Bill came home late from work again, his wife lost her temper and accused him of ［neglecting］ his family in favor of his company.
+（訳）
+ビルがまた仕事から遅く帰ってきたとき、妻はかっとなって、会社を優先して家族を（ないがしろにしている）と彼を責めました。
+（選択肢の意味）
+1 pursuing：追い求めること
+2 neglecting：おろそかにすること、ほったらかしにすること
+3 abolishing：（制度などを）廃止すること
+4 sheltering：保護すること、かくまうこと
+【考え方】
+まず見るところ：空所の後ろの his family in favor of his company
+まず状況を確かめます。
+When Bill came home late from work again, his wife lost her temper（ビルがまた仕事から遅く帰ってきたとき、妻はかっとなった）
+lose one's temper は「かっとなる、腹を立てる」という意味です。again（また）とあるので、遅い帰りが何度も続いていると分かります。
+accuse A of ～ing は「Aが～していると責める」という意味です。何について責めたのかが空所の部分です。
+(　) his family in favor of his company（会社を優先して家族を（　））
+in favor of ～ は「～のほうを選んで、～を優先して」という意味です。会社を優先した結果、家族に対してしていることなので、「家族をほったらかしにする」が合います。neglect は「おろそかにする、ほったらかしにする」という意味です。妻が怒って責める内容としても自然なので、2が正解です。
+この問題の型：語の意味・組み合わせ（in favor of ～ と neglect）
+【ほかの選択肢】
+1 pursuing は「追い求めること」です。「会社を優先して家族を追い求めている」となり、会社を優先していることとつながらず、妻が責める理由にもなりません。
+3 abolishing は「（法律や制度を）廃止すること」です。家族を「廃止する」という言い方はせず、意味が通りません。
+4 sheltering は「保護すること、かくまうこと」です。「家族を守っている」となり、妻が怒って責める内容になりません。
+【覚えるポイント】
+・accuse A of ～ing：「Aが～していると責める」。neglect ～：「～をおろそかにする」。
+・accuse（責める）のような語があるときは、of の後ろには悪い行い（ここでは家族をほったらかしにすること）が入ると考えると、答えを選ぶ手がかりになります。
