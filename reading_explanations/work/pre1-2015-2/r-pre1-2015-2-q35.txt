@@ -1,6 +1,7 @@
 ---
 choices: Eating insects could help deal with an increasing population as it would make food production more efficient. | Although humans can eat insects, it would be more beneficial to use them as a food source for agricultural animals. | Insects have the potential to replace not only agricultural animals but many agricultural crops eaten by humans as well. | The fact that many mammals and birds eat insects shows that they are a suitable food source for humans.
 answerText: Eating insects could help deal with an increasing population as it would make food production more efficient.
+reviewed: yes
 ---
 【正解】1 Eating insects could help deal with an increasing population as it would make food production more efficient.（昆虫を食べることは、食料の生産をより効率的にするので、増え続ける人口に対処するのに役立ちうる。）
 【和訳】

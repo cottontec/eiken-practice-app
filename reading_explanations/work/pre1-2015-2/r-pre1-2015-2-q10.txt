@@ -1,6 +1,7 @@
 ---
 choices: excerpts | lumps | reflexes | colonies
 answerText: excerpts
+reviewed: yes
 ---
 【正解】1 excerpts（抜粋）
 【和訳】

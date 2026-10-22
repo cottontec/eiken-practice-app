@@ -1,6 +1,7 @@
 ---
 choices: tuition | coalition | evacuation | starvation
 answerText: evacuation
+reviewed: yes
 ---
 【正解】3 evacuation（避難）
 【和訳】

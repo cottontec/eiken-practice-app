@@ -1,6 +1,7 @@
 ---
 choices: Although it made people immune to the Variola virus, it left them so weak they often died of other diseases that did not usually kill people. | Although it prevented infection caused by contact with fluid from victims' bodies, it did not protect against the Variola virus when spread by coughing. | The Variola virus had increased in strength by the late 1700s, which meant the procedure was less effective in many cases. | The procedure exposed people to the Variola virus, which put them at risk of developing a potentially fatal case of the disease.
 answerText: The procedure exposed people to the Variola virus, which put them at risk of developing a potentially fatal case of the disease.
+reviewed: yes
 ---
 【正解】4 The procedure exposed people to the Variola virus, which put them at risk of developing a potentially fatal case of the disease.（その処置は人々をバリオラウイルスにさらし、そのことで人々は、命にかかわるおそれのある天然痘を発症する危険を負った。）
 【和訳】

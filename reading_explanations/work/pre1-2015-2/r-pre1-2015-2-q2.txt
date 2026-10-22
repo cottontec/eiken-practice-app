@@ -1,6 +1,7 @@
 ---
 choices: stray | botanical | slack | redundant
 answerText: botanical
+reviewed: yes
 ---
 【正解】2 botanical（植物の、植物学の）
 【和訳】

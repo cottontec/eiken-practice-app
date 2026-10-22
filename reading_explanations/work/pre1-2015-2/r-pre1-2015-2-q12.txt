@@ -1,6 +1,7 @@
 ---
 choices: foster | exert | hover | magnify
 answerText: exert
+reviewed: yes
 ---
 【正解】2 exert（〔exert oneself で〕力を出しきる、無理をする）
 【和訳】

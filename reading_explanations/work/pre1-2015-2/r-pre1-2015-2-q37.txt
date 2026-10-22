@@ -1,6 +1,7 @@
 ---
 choices: It is possible that Western people's attitudes toward eating insects will change in the future. | The reason that shrimp and lobster are not eaten in certain countries is that they look similar to insects. | People in developing countries only eat insects when their main food sources become difficult to obtain. | The fact that eating insects was common early in human history suggests it will remain a custom in certain countries.
 answerText: It is possible that Western people's attitudes toward eating insects will change in the future.
+reviewed: yes
 ---
 【正解】1 It is possible that Western people's attitudes toward eating insects will change in the future.（昆虫を食べることに対する西洋の人々の態度は、将来変わる可能性がある。）
 【和訳】

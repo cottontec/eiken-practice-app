@@ -1,6 +1,7 @@
 ---
 choices: die down | pass for | hold off | turn around
 answerText: turn around
+reviewed: yes
 ---
 【正解】4 turn around（好転する、立ち直る）
 【和訳】

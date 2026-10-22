@@ -1,6 +1,7 @@
 ---
 choices: allowed some diseases to spread | did not respond to stress hormones | could easily be protected | moved to other parts of the body
 answerText: moved to other parts of the body
+reviewed: yes
 ---
 【正解】4 moved to other parts of the body（体のほかの部分に移動した）
 【和訳】

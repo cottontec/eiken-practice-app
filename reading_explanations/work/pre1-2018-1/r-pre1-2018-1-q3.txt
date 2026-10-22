@@ -1,0 +1,32 @@
+---
+choices: repeal | diminish | hinder | dispense
+answerText: dispense
+---
+【正解】4 dispense（〈薬を〉調合して渡す、調剤する）
+【和訳】
+（英文）
+A: Can I get this pain-relief medicine over the counter? My prescription ran out.
+B: No. Only a licensed pharmacist can ［dispense］ that drug. You'll have to get your prescription renewed.
+（訳）
+A：この痛み止めの薬は、処方箋なしで買えますか。処方箋が切れてしまったんです。
+B：いいえ。その薬を（出す）ことができるのは、免許を持った薬剤師だけです。処方箋を新しくしてもらう必要がありますよ。
+（選択肢の意味）
+1 repeal：（法律などを）廃止する
+2 diminish：減らす、小さくする
+3 hinder：じゃまする、妨げる
+4 dispense：（薬を）調合して渡す、調剤する
+【考え方】
+まず見るところ：Bの Only a licensed pharmacist can (　) that drug.
+Aは、痛み止めの薬を over the counter（処方箋なしで、店頭で）買えるかたずねています。prescription は「処方箋（医者が出す、薬の種類や量を書いた書類）」です。
+Bは No.（いいえ）と答え、次のように続けます。
+Only a licensed pharmacist can (　) that drug.（免許を持った薬剤師だけが、その薬を〇〇できる）
+Only があるので、「その薬を〇〇できるのは薬剤師だけで、ほかの人はできない」という意味になります。薬剤師が薬に対してすることで、店頭では買えない理由になるのは、「（処方箋にもとづいて）薬を出す」ことです。dispense はこの意味を表すので、4が正解です。
+最後の「処方箋を新しくしてもらう必要がある」という言葉も、処方箋があれば薬剤師が薬を出せる、という流れに合います。
+この問題の型：語の意味・組み合わせ（pharmacist ＋ dispense a drug）
+【ほかの選択肢】
+1 repeal は「（法律などを）廃止する」です。「薬剤師だけがその薬を廃止できる」では、処方箋なしで買えるかという質問への答えになりません。
+2 diminish は「減らす」です。「薬剤師だけがその薬を減らせる」では、処方箋を新しくしてもらう必要があるという話につながりません。
+3 hinder は「じゃまする」です。「薬剤師だけがその薬をじゃまできる」では意味が通りません。
+【覚えるポイント】
+・dispense a drug：「薬を調合して渡す」。over the counter：「（処方箋なしで）店頭で」。prescription：「処方箋」。
+・Only ＋人＋ can ～ の文では、「その人にしかできない仕事」が空所に入ることが多いので、その人の職業（ここでは pharmacist）が手がかりになります。

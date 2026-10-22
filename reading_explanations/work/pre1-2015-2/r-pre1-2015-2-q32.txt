@@ -1,6 +1,7 @@
 ---
 choices: They became able to eat different kinds of food in order to compete with brown anoles. | They adapted to living in a different type of tree whose branches were easier to move around on. | Their body weight decreased to enable them to catch prey on thin tree branches. | The structure of their feet changed so that they could move more effectively on certain surfaces.
 answerText: The structure of their feet changed so that they could move more effectively on certain surfaces.
+reviewed: yes
 ---
 【正解】4 The structure of their feet changed so that they could move more effectively on certain surfaces.（ある種の表面の上をより効率よく動けるように、足のつくりが変化した。）
 【和訳】

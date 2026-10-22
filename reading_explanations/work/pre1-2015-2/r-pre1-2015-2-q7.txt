@@ -1,6 +1,7 @@
 ---
 choices: accused | deceived | aroused | dismissed
 answerText: aroused
+reviewed: yes
 ---
 【正解】3 aroused（〔感情などを〕呼び起こした）
 【和訳】

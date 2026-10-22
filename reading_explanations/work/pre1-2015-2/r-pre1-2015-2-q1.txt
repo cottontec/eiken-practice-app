@@ -1,6 +1,7 @@
 ---
 choices: renovate | elaborate | ventilate | generate
 answerText: generate
+reviewed: yes
 ---
 【正解】4 generate（生み出す、起こす）
 【和訳】

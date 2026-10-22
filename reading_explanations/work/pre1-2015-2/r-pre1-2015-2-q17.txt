@@ -1,6 +1,7 @@
 ---
 choices: compelling | scented | tame | petty
 answerText: compelling
+reviewed: yes
 ---
 【正解】1 compelling（説得力のある、思わず納得させられる）
 【和訳】

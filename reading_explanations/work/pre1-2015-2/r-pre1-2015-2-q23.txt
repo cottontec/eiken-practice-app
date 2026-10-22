@@ -1,6 +1,7 @@
 ---
 choices: called upon | drew up | knocked down | dealt in
 answerText: knocked down
+reviewed: yes
 ---
 【正解】3 knocked down（取り壊した）
 【和訳】

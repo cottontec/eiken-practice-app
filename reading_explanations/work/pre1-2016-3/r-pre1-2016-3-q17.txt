@@ -15,7 +15,9 @@ After one of the airplane's engines failed, it began to lose ［altitude］ rapi
 4 trickery：ごまかし、ぺてん
 【考え方】
 まず見るところ：空所の前の began to lose と、後ろの rapidly and had to make an emergency landing
-文の初めは After one of the airplane's engines failed（飛行機のエンジンの1つが故障したあと）です。fail はここでは「（機械が）故障する、動かなくなる」という意味です。
+文の初めは次のとおりです。
+After one of the airplane's engines failed（飛行機のエンジンの1つが故障したあと）
+fail はここでは「（機械が）故障する、動かなくなる」という意味です。
 空所のあとは次のとおりです。
 it began to lose ( ) rapidly and had to make an emergency landing（それは急速に（　）を失い始め、緊急着陸をしなければならなかった）
 it は the airplane（飛行機）を指します。エンジンが止まった飛行機が急速に失うものは何かを考えます。エンジンの力がなくなると、飛行機は空の高いところにいられなくなり、下がってしまいます。

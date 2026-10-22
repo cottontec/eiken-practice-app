@@ -1,6 +1,7 @@
 ---
 choices: do not appear frequently enough | ignore scientific evidence | are too difficult to understand | put a lot of pressure on them
 answerText: put a lot of pressure on them
+reviewed: yes
 ---
 【正解】4 put a lot of pressure on them（彼らに大きなプレッシャーをかける）
 【和訳】

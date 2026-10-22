@@ -1,6 +1,7 @@
 ---
 choices: absence | contempt | urgency | empathy
 answerText: urgency
+reviewed: yes
 ---
 【正解】3 urgency（切迫、急を要すること）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: descendant | commuter | wanderer | servant
 answerText: descendant
+reviewed: yes
 ---
 【正解】1 descendant（子孫）
 【和訳】

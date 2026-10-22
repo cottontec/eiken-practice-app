@@ -1,6 +1,7 @@
 ---
 choices: plural | conventional | optional | communal
 answerText: optional
+reviewed: yes
 ---
 【正解】3 optional（自由に選べる、任意の）
 【和訳】

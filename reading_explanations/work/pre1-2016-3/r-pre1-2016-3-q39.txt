@@ -14,7 +14,9 @@ answerText: Although Inuit peoples' consumption of foods associated with heart d
 4 A disease known to be caused by a lack of vitamin C tends to occur in Inuit peoples who consume relatively little fat.（ビタミンCの不足によって起こると知られている病気が、脂肪を比較的少ししかとらないイヌイットの人々に起こりやすい。）
 【考え方】
 まず見るところ：第2段落の In fact, residents of the Nunavik villages ～ と、The term "Inuit paradox" has been used to describe these findings.
-paradox は「パラドックス（一見すると矛盾していること、つじつまが合わないように見えること）」という意味です。第2段落の最後に、The term "Inuit paradox" has been used to describe these findings.（こうした発見を表すのに「イヌイットのパラドックス」という言葉が使われてきた）とあります。these findings（こうした発見）が何かを、その前の文で確かめます。
+paradox は「パラドックス（一見すると矛盾していること、つじつまが合わないように見えること）」という意味です。第2段落の最後には、次のようにあります。
+The term "Inuit paradox" has been used to describe these findings.（こうした発見を表すのに「イヌイットのパラドックス」という言葉が使われてきた）
+these findings（こうした発見）が何かを、その前の文で確かめます。
 Based on this, one might expect the Inuit to suffer high rates of scurvy, heart disease, and other nutrition-related illnesses, but they do not.（このことから、イヌイットは壊血病や心臓病、その他の栄養に関係する病気にかかる割合が高いだろうと予想する人もいるかもしれないが、実際にはそうではない）
 In fact, residents of the Nunavik villages of northern Canada suffer half as many heart attacks as other Canadians, even though more than half of the Inuit's calories come from fat.（実際、イヌイットのカロリーの半分以上が脂肪からとられているにもかかわらず、カナダ北部のヌナビクの村々の住民が起こす心臓発作の数は、ほかのカナダ人の半分である）
 half as many ～ as … は「…の半分の数の～」という意味です。第1段落には、脂肪（saturated fat：飽和脂肪）が心臓病と関係があるとされていることも書かれていました。

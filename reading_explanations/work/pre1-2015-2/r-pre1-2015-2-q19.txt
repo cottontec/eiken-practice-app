@@ -1,6 +1,7 @@
 ---
 choices: carved | seized | vacated | clipped
 answerText: seized
+reviewed: yes
 ---
 【正解】2 seized（〔機会を〕つかんだ）
 【和訳】

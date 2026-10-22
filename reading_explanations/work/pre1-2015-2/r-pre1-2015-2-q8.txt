@@ -1,6 +1,7 @@
 ---
 choices: triumph | apprehension | arrogance | indication
 answerText: apprehension
+reviewed: yes
 ---
 【正解】2 apprehension（不安、心配）
 【和訳】

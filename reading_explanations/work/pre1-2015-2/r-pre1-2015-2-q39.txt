@@ -1,6 +1,7 @@
 ---
 choices: He developed a smallpox treatment by adapting a traditional technique farmwomen used to cure a disease they caught from cows. | He observed that people who consumed fresh cow's milk every day developed a particularly dangerous type of smallpox. | He realized that a disease that came from cows could hold the key to providing humans with protection from smallpox. | He first performed tests on cows in an effort to find a safer way to cure people who were sick with smallpox.
 answerText: He realized that a disease that came from cows could hold the key to providing humans with protection from smallpox.
+reviewed: yes
 ---
 【正解】3 He realized that a disease that came from cows could hold the key to providing humans with protection from smallpox.（牛から来た病気が、天然痘から人間を守るための鍵を握っているかもしれないと気づいた。）
 【和訳】
@@ -17,7 +18,7 @@ answerText: He realized that a disease that came from cows could hold the key to
 第2段落の初めを見ます。
 In 1796, British physician Edward Jenner noted that farmwomen who milked cows daily did not get smallpox.（1796年、イギリスの医師エドワード・ジェンナーは、毎日牛の乳しぼりをする農家の女性たちが天然痘にかからないことに気づいた）
 Their exposure to cows caused them to instead develop cowpox, an illness that resembled smallpox but was far less severe.（彼女たちは牛と接することで、天然痘ではなく牛痘にかかっていた。牛痘は天然痘に似ているが、天然痘よりもはるかに軽い病気である）
-牛痘（cowpox）は、牛と接することでかかる病気です。ジェンナーは、ボランティアの人たちを牛痘の組織にふれさせたあと、バリオラウイルスにふれさせ、天然痘の兆候が出ないことを確かめました。つまり、牛痘にかかると天然痘から守られることが分かったのです。
+牛痘（cowpox）は、牛と接することでかかる病気です。ジェンナーは、ボランティアの人たちを牛痘の組織にふれさせたあと、バリオラウイルスにふれさせ、天然痘の兆候が出ないことを確かめました。つまり、牛痘のもとになるものにふれると天然痘から守られるらしい、ということが確かめられたのです。
 そのうえで、ジェンナーは「牛」を意味するラテン語の vacca をもとに vaccine という言葉を作りました。名前に牛を入れたのは、牛から来た病気（牛痘）が天然痘を防ぐ鍵だったからだと分かります。
 本文 cowpox（牛と接することでかかる牛痘）＝ 選択肢 a disease that came from cows（牛から来た病気）
 本文 the volunteers showed no signs of smallpox（ボランティアの人たちに天然痘の兆候が見られなかった）→ 選択肢 providing humans with protection from smallpox（天然痘から人間を守ること）

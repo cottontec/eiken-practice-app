@@ -1,6 +1,7 @@
 ---
 choices: stroll | draft | barrel | blaze
 answerText: stroll
+reviewed: yes
 ---
 【正解】1 stroll（散歩、ぶらぶら歩くこと）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: meditation | agitation | interruption | duration
 answerText: duration
+reviewed: yes
 ---
 【正解】4 duration（続いている期間）
 【和訳】

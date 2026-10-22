@@ -1,0 +1,29 @@
+---
+choices: adhesion | outburst | domestication | recruitment
+answerText: domestication
+---
+【正解】3 domestication（栽培化・家畜化。野生の植物や動物を、人が育てて利用できるようにすること）
+【和訳】
+（英文）
+Humans were mostly hunters and gatherers until the ［domestication］ of plants and animals. Now, most cultures grow crops and raise animals for food.
+（訳）
+人類は、植物の栽培化や動物の家畜化が始まるまで、ほとんどが狩りや採集をして暮らす人々だった。今では、ほとんどの文化で、食べ物を得るために作物を育て、動物を飼っている。
+（選択肢の意味）
+1 adhesion：くっつくこと、付着
+2 outburst：（感情などの）爆発、噴出
+3 domestication：栽培化・家畜化（野生の動植物を人が育てられるようにすること）
+4 recruitment：（新しい人の）募集、採用
+【考え方】
+まず見るところ：空所の文の until と、次の文の Now, most cultures grow crops and raise animals for food.
+最初の文では、人類が昔は hunters and gatherers（狩りをしたり、木の実などを集めたりして暮らす人々）だったと書かれています。until ～ は「～までは」なので、空所の「植物と動物の〇〇」が起きたことで、暮らし方が変わったと分かります。
+次の文で、今の暮らし方が説明されています。
+Now, most cultures grow crops and raise animals for food.（今では、ほとんどの文化が食べ物のために作物を育て、動物を飼っている）
+狩りや採集から、作物を育て、動物を飼う暮らしに変わるきっかけは、野生の植物や動物を人が育てられるようにしたことです。domestication はそれを表す語なので、3が正解です。
+この問題の型：対比（昔の狩りと採集 ⇔ 今の作物づくりと飼育）
+【ほかの選択肢】
+1 adhesion は「くっつくこと」です。「植物と動物がくっつくまで」では、狩りから農業への変化の理由になりません。
+2 outburst は「（感情などの）爆発」です。「植物と動物の爆発まで」では意味が通りません。
+4 recruitment は「（新しい人の）募集、採用」で、ふつうは人について使います。「植物と動物の採用まで」では意味が通りません。
+【覚えるポイント】
+・domestication of plants and animals：「植物の栽培化と動物の家畜化」。動詞の domesticate は「（動植物を）飼いならす、栽培できるようにする」です。
+・until ～（～までは）のあとに「今では」の文が続くときは、until の部分が「変化のきっかけ」になっていることが多く、空所を考える手がかりになります。

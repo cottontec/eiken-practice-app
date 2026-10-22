@@ -1,6 +1,7 @@
 ---
 choices: perilous | preparatory | supreme | intimate
 answerText: perilous
+reviewed: yes
 ---
 【正解】1 perilous（危険な、危険に満ちた）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: there is an important reason for | people can control | hormones serve no purpose in | it is difficult to measure
 answerText: there is an important reason for
+reviewed: yes
 ---
 【正解】1 there is an important reason for（～には重要な理由がある）
 【和訳】

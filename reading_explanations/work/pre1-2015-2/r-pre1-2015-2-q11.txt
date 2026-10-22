@@ -1,6 +1,7 @@
 ---
 choices: verify | thaw | lease | perspire
 answerText: verify
+reviewed: yes
 ---
 【正解】1 verify（確かめる、確認する）
 【和訳】

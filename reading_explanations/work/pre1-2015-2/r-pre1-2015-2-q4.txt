@@ -1,6 +1,7 @@
 ---
 choices: fetched | perched | diminished | cradled
 answerText: perched
+reviewed: yes
 ---
 【正解】2 perched（〔鳥が〕とまった）
 【和訳】

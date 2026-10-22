@@ -1,6 +1,7 @@
 ---
 choices: joint | rash | bare | blurry
 answerText: rash
+reviewed: yes
 ---
 【正解】2 rash（軽はずみな、早まった）
 【和訳】

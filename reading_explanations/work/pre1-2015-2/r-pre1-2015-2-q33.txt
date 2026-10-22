@@ -1,6 +1,7 @@
 ---
 choices: While smaller animals may evolve more rapidly, larger species take about a million years to change. | The fossil record shows that evolution in a number of species has sped up in the past million years. | Rapid evolutionary changes are possible for local populations, but they are unlikely to affect species over a broad area. | Nature is so unpredictable that it is impossible to know how fast evolution will occur in any animal population.
 answerText: Rapid evolutionary changes are possible for local populations, but they are unlikely to affect species over a broad area.
+reviewed: yes
 ---
 【正解】3 Rapid evolutionary changes are possible for local populations, but they are unlikely to affect species over a broad area.（急速な進化上の変化は、限られた地域の集団では起こりうるが、広い地域にわたって種に影響を与えることはありそうにない。）
 【和訳】

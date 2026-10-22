@@ -1,6 +1,7 @@
 ---
 choices: conflicting | discriminating | imposing | redeeming
 answerText: conflicting
+reviewed: yes
 ---
 【正解】1 conflicting（食い違う、矛盾する）
 【和訳】

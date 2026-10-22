@@ -1,6 +1,7 @@
 ---
 choices: helped protect the ecosystem by maintaining a healthy balance between utilizing land mammals and insects. | were affected by insects that destroyed crops, making it difficult for humans and animals to get enough food. | failed to include insects because not enough edible types could survive in the hot, dry climate there. | were designed to allow farmers to address both food production and other needs.
 answerText: were designed to allow farmers to address both food production and other needs.
+reviewed: yes
 ---
 【正解】4 were designed to allow farmers to address both food production and other needs.（農民が、食料の生産とそのほかの必要の両方に対応できるように作られていた。）
 【和訳】

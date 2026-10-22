@@ -1,6 +1,7 @@
 ---
 choices: cheery | feeble | barren | vital
 answerText: barren
+reviewed: yes
 ---
 【正解】3 barren（〔土地が〕不毛の、草木が育たない）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: see about | dig out | fall for | fit into
 answerText: see about
+reviewed: yes
 ---
 【正解】1 see about（～について考える、～の手はずを相談する）
 【和訳】

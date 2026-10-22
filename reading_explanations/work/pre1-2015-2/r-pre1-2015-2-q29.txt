@@ -1,6 +1,7 @@
 ---
 choices: encourage physical activity | help prevent behavioral problems | teach them about healthy food | raise students' test scores
 answerText: help prevent behavioral problems
+reviewed: yes
 ---
 【正解】2 help prevent behavioral problems（問題行動を防ぐのに役立つ）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: rule out | relate to | come after | put through
 answerText: relate to
+reviewed: yes
 ---
 【正解】2 relate to（～に共感する、～の気持ちが分かる）
 【和訳】

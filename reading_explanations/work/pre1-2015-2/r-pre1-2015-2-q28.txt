@@ -1,6 +1,7 @@
 ---
 choices: make it hard for doctors to use | play a significant role in | be lessened by | require long-term
 answerText: play a significant role in
+reviewed: yes
 ---
 【正解】2 play a significant role in（～において重要な役割を果たす）
 【和訳】

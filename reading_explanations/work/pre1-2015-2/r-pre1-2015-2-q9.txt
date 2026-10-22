@@ -1,6 +1,7 @@
 ---
 choices: intellectual | infrequent | illogical | inherent
 answerText: inherent
+reviewed: yes
 ---
 【正解】4 inherent（本来備わっている、つきものの）
 【和訳】

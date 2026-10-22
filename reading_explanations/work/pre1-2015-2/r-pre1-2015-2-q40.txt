@@ -1,6 +1,7 @@
 ---
 choices: realized that despite the high cost, it was necessary to vaccinate every person in countries where people were being infected. | began focusing on locating people with the disease and preventing its spread by vaccinating people in the area around them. | adopted a new type of vaccine that was more effective in preventing the disease than the one invented by Edward Jenner. | started a policy of closely monitoring a community for five months after the last reported outbreak of the disease.
 answerText: began focusing on locating people with the disease and preventing its spread by vaccinating people in the area around them.
+reviewed: yes
 ---
 【正解】2 began focusing on locating people with the disease and preventing its spread by vaccinating people in the area around them.（病気にかかった人を見つけ出し、その周りの地域の人々に予防接種をすることで病気が広がるのを防ぐことに、力を注ぎ始めた。）
 【和訳】
