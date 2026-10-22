@@ -1,0 +1,22 @@
+---
+choices: picture | think | fine | would be | either
+answerText: would be
+order: 2 5 1 4 3
+---
+【正解】4 would be（この問題の4番目）
+【完成文】
+I ( think either picture would be fine ). They both look nice.
+並べ方：2 think → 5 either → 1 picture → 4 would be → 3 fine（2番目は5、4番目は4）
+【和訳】
+A：ウェブサイトには、これらの写真のうちどれを使うべきだと思う？
+B：どちらの写真でもいいと思うよ。どちらもすてきに見えるね。
+【考え方】
+4番目を決めるには、think のあとに続く文の「主語」と「動詞」を見分けます。
+Aは Which of these pictures ～?（これらの写真のどれを～？）とたずねています。Bは They both look nice.（どちらもすてきに見える）と言っているので、「どちらでもいい」と答えていると考えられます。
+I のあとに 2 think を置き、I think ～（～だと思う）とします。think のあとの文の主語は「どちらの写真でも」にあたる either picture（5 → 1）です。
+その次に動詞の部分 4 would be を置き、最後に 3 fine（よい、かまわない）を続けます。would be fine で「よいだろう、大丈夫だろう」というやわらかい言い方になります。
+並びは think → either → picture → would be → fine で、4番目は4 would be です。
+either は名詞を伴わずに「どちらでも」という意味で使うこともできるので、I think either would be fine picture と並べたくなるかもしれません。しかし、それでは picture が文の最後に余ってしまい、文が成り立ちません。picture は either のすぐあとに置きます。
+【覚えるポイント】
+・would be fine：「よいだろう、かまわないだろう」。
+・I think ＋主語＋動詞：「～だと思う」。

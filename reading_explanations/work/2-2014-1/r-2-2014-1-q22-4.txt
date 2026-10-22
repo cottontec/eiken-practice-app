@@ -1,0 +1,22 @@
+---
+choices: not | trouble | much | it's | too
+answerText: much
+order: 4 1 5 3 2
+---
+【正解】3 much（この問題の4番目）
+【完成文】
+I have to stay late at the office again tonight, David. If ( it's not too much trouble ), could you pick us up a pizza for dinner on your way home from work?
+並べ方：4 it's → 1 not → 5 too → 3 much → 2 trouble（2番目は1、4番目は3）
+【和訳】
+A：デイビッド、今夜もまた会社に遅くまで残らなければならないんだ。もしあまり面倒でなければ、仕事から帰る途中で、私たちの夕食にピザを買ってきてくれる？
+B：もちろん、いいよ（honey は家族や恋人などに親しみをこめて呼びかける言葉）。
+【考え方】
+4番目を決めるには、too と much の順番がポイントです。
+Aは、仕事から帰る途中のデイビッドに、ピザを買ってきてほしいとお願いしています。お願いの前に「もし大変でなければ」とひとこと加えると、ていねいになります。
+文の骨組みは If it's not ～（もし～でなければ）です。If のあとに主語と動詞の 4 it's を置き、すぐあとに否定の 1 not を置きます。
+残る too、much、trouble の順を考えます。trouble（面倒、迷惑）は名詞です。名詞の前で「多すぎる～」と言うときは too much ＋ 名詞 の順になります。too much trouble で「面倒すぎること」です。
+並びは it's → not → too → much → trouble で、4番目は3 much です。
+much too という順番もありますが、much too hot（あまりにも暑すぎる）のように、あとに hot などの形容詞（ものの様子を表す語）がくるときの形です。ここではあとに名詞の trouble がくるので、it's not much too trouble とはせず、too much trouble の順にします。
+【覚えるポイント】
+・too much ＋ 名詞：「多すぎる～」。too much trouble（面倒すぎること）、too much money（多すぎるお金）。
+・on one's way home：「家へ帰る途中で」。

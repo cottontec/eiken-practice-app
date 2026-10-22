@@ -1,0 +1,22 @@
+---
+choices: not | trouble | much | it's | too
+answerText: not
+order: 4 1 5 3 2
+---
+【正解】1 not（この問題の2番目）
+【完成文】
+I have to stay late at the office again tonight, David. If ( it's not too much trouble ), could you pick us up a pizza for dinner on your way home from work?
+並べ方：4 it's → 1 not → 5 too → 3 much → 2 trouble（2番目は1、4番目は3）
+【和訳】
+A：デイビッド、今夜もまた会社に遅くまで残らなければならないんだ。もしあまり面倒でなければ、仕事から帰る途中で、私たちの夕食にピザを買ってきてくれる？
+B：もちろん、いいよ（honey は家族や恋人などに親しみをこめて呼びかける言葉）。
+【考え方】
+空所のあとは could you pick us up a pizza ～?（ピザを買ってきてくれますか）という、相手へのお願いです。お願いをするときによく使う前置きが If it's not too much trouble（もしあまり面倒でなければ）です。
+If のあとには「主語＋動詞」が続くので、まず 4 it's（it is）を置きます。
+次に not の位置を考えます。not は be動詞（is など）のすぐあとに置いて「～ではない」を表します。ですから it's のすぐあとに 1 not がきて、it's not となります。
+残りの too、much、trouble は too much trouble（面倒すぎること、大変な迷惑）とまとまります。trouble は「面倒、迷惑」という意味の名詞です。
+並びは it's → not → too → much → trouble で、2番目は1 not です。
+まちがえやすいのは、If it's too not much trouble のように not を too のあとに入れる並べ方です。not は it's のすぐあとに置くので、この形にはなりません。
+【覚えるポイント】
+・If it's not too much trouble, could you ～?：「もしあまり面倒でなければ、～してもらえますか」。ていねいにお願いするときの前置きです。
+・pick ＋人＋ up ～：「（人）に～を買ってくる、取ってくる」。
