@@ -1,0 +1,29 @@
+---
+choices: They use huge amounts of electricity to light their supermarkets. | They can easily afford to install the new shock absorbers. | They could use it to reduce the number of their trucks. | They use many heavy trucks to deliver their goods.
+answerText: They use many heavy trucks to deliver their goods.
+---
+【正解】4 They use many heavy trucks to deliver their goods.（商品を配達するのに、重いトラックをたくさん使っているから。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：その製品は、なぜウォルマートのような大企業にとって役に立つと考えられるのですか。
+1 スーパーマーケットの照明に、ばく大な量の電気を使っているから。
+2 新しいショックアブソーバーを取り付ける費用を、簡単に出せるから。
+3 それを使って、トラックの台数を減らせるから。
+4 商品を配達するのに、重いトラックをたくさん使っているから。
+【考え方】
+ウォルマート（Wal-Mart）が出てくる第4段落を見ます。
+まず The heavier the vehicle, the more electricity the shock absorbers can produce.（乗り物が重ければ重いほど、ショックアブソーバーはより多くの電気を生み出せる）とあります。the ＋ 比較級（「より～」を表す形）～, the ＋ 比較級 … は「～すればするほど、ますます…」という意味です。
+そのため、the students think their invention will be most useful in heavy trucks and other large vehicles（学生たちは、自分たちの発明は重いトラックやそのほかの大型の乗り物で最も役に立つと考えている）と続きます。
+そして、その例としてウォルマートがあげられ、if its delivery trucks were all equipped with the new devices（もし配達用のトラックすべてにこの新しい装置を取り付ければ）、1年に1,300万ドルもの節約ができるかもしれない、と書かれています。
+つまり、ウォルマートのような会社は商品を配達するための大きなトラックをたくさん持っていて、この発明は重いトラックで最も役に立つので、節約の効果が大きいということです。本文と選択肢は次のように対応しています。
+本文 most useful in heavy trucks（重いトラックで最も役に立つ）＋ its delivery trucks were all equipped（配達用トラックすべてに取り付ける）＝ 選択肢 They use many heavy trucks to deliver their goods（商品を配達するのに重いトラックをたくさん使っている）
+正解は4です。
+【ほかの選択肢】
+1 本文で電気の使い道としてあげられているのは、乗り物のライトやそのほかの電気系統です。スーパーマーケットの照明の話は書かれていません。
+2 ウォルマートが取り付ける費用を簡単に出せるかどうかは、本文に書かれていません。
+3 本文は、配達用のトラックすべてに装置を取り付けた場合の節約の話です。トラックの台数を減らせるとは書かれていません。
+【覚えるポイント】
+・the ＋ 比較級 ～, the ＋ 比較級 …：「～すればするほど、ますます…」。
+・be equipped with ～：「～を備えている、～が取り付けられている」。

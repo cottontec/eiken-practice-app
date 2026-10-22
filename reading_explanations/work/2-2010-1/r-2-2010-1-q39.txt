@@ -1,0 +1,29 @@
+---
+choices: Vehicles with the system can also use other types of fuel. | The vehicle's lights no longer need to use electricity. | The engine is no longer used to generate electricity. | Trucks with the system can carry more equipment.
+answerText: The engine is no longer used to generate electricity.
+---
+【正解】3 The engine is no longer used to generate electricity.（電気を作るのに、もうエンジンが使われなくなる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：新しいしくみがガソリンを節約する方法の1つは何ですか。
+1 そのしくみを備えた乗り物は、ほかの種類の燃料も使える。
+2 乗り物のライトは、もう電気を使う必要がなくなる。
+3 電気を作るのに、もうエンジンが使われなくなる。
+4 そのしくみを備えたトラックは、より多くの装置を運べる。
+【考え方】
+gasoline（ガソリン）という語が出てくる第3段落を見ます。
+Vehicles with the new system would no longer need the usual equipment that depends on the engine to create electricity. This would save gasoline.（新しいしくみを備えた乗り物は、電気を作るのにエンジンに頼るふつうの装置が、もう必要なくなるだろう。これでガソリンが節約されるだろう）とあります。no longer は「もう～ない」という意味です。
+つまり、今まではエンジンの力を使って電気を作っていましたが、新しいショックアブソーバーが電気を作るので、そのためにエンジンを使わなくてすむ、ということです。
+本文と選択肢は次のように対応しています。
+本文 would no longer need the usual equipment that depends on the engine to create electricity（電気を作るのにエンジンに頼る装置がもう必要ない）＝ 選択肢 The engine is no longer used to generate electricity（電気を作るのにもうエンジンが使われない）
+正解は3です。
+なお、本文にはもう1つ、乗り物が軽くなって動きやすくなり、さらに燃料が節約されるという方法も書かれています。
+【ほかの選択肢】
+1 ほかの種類の燃料を使えるという話は、本文にありません。
+2 第2段落に、生まれた電気は can be used for the lights（ライトに使うことができる）と書かれています。ライトは電気を使い続けるので、誤りです。ライトに使う電気をエンジンではなくショックアブソーバーが作る、というのが本文の内容です。
+4 本文にあるのは、ふつうの装置がいらなくなって乗り物が軽くなる、ということです。より多くの装置を運べるとは書かれていません。
+【覚えるポイント】
+・no longer ～：「もう～ない」。
+・depend on ～：「～に頼る」。

@@ -1,0 +1,19 @@
+---
+choices: to | than | if | as
+answerText: as
+---
+【正解】4 as（as often as ～ で「～も（多く）」）
+【和訳】
+マイケルの新しい仕事は、出張が多いです。彼は月に3回（も）海外に行かなければなりません。
+（選択肢の意味）1 ～へ、～まで　2 ～よりも　3 もし～なら　4 ～と同じくらい
+【考え方】
+空所の前を見ると as often があります。as ～ as … は「…と同じくらい～」という形で、前の as と組になるのは後ろの as です。
+as often as three times a month は、文字どおりには「月に3回と同じくらいの多さで」ですが、数字といっしょに使うと「月に3回も」と、その数が多いことを強める言い方になります。
+1文目に Michael's new job involves a lot of traveling.（マイケルの新しい仕事には出張がたくさんある）とあります。involve は「～を含む、ともなう」です。月に3回も海外へ行くという内容は、「出張が多い」ことの具体的な説明になっています。正解は4です。
+【ほかの選択肢】
+1 to は「～へ、～まで」です。as often to three times という形はなく、前の as often とつながりません。
+2 than は「～よりも」で、more often than（～よりもよく）のように比べる形（more や -er の形）と組で使います。この文の前には as often があるので、than は合いません。
+3 if は「もし～なら」です。if のあとにはふつう文（主語と動詞）がきます。if three times a month では文にならず、意味も通りません。
+【覚えるポイント】
+・as ～ as ＋ 数：「（数）も」と数の多さを強める。as often as three times a month で「月に3回も」。
+・involve：「～をともなう、～を含む」。
