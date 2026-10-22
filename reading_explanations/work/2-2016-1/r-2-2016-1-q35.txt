@@ -1,0 +1,30 @@
+---
+choices: believe that their children are not learning an important skill. | think that the world is changing and their children need computer skills. | are not able to teach their children how to use computers at home. | feel that spending so much time studying will harm their children's eyes.
+answerText: believe that their children are not learning an important skill.
+---
+【正解】1 believe that their children are not learning an important skill.（自分の子どもたちが大切な技能を身につけていないと思っている（から）。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：多くの親たちが自分の子どもたちのことを心配しているのは、彼らが～からである。
+1 自分の子どもたちが大切な技能を身につけていないと思っている
+2 世の中は変わりつつあり、自分の子どもたちにはコンピューターの技能が必要だと考えている
+3 家で子どもたちにコンピューターの使い方を教えることができない
+4 勉強にそれほど多くの時間を使うと、子どもたちの目を悪くするだろうと感じている
+【考え方】
+設問の parents are worried（親たちは心配している）と同じ内容が、第2段落の最初に concerned（心配して）という語で書かれています。
+Surveys show that many parents are concerned about the fact that their children spend so little time developing good handwriting skills.（調査によると、多くの親たちは、自分の子どもがよい手書きの技能を身につけるのにほんの少しの時間しか使っていないことを心配している）
+さらに、その親たちの気持ちが次のように書かれています。
+these parents feel children are losing an important skill（こうした親たちは、子どもたちが大切な技能を失いつつあると感じている）
+手書きの練習にほとんど時間を使わず、大切な技能を失いつつある、ということは、子どもたちがその大切な技能を十分に身につけていない、ということです。
+本文と選択肢を対にすると、次のようになります。
+本文 these parents feel children are losing an important skill（子どもたちが大切な技能を失いつつあると感じている）→ 読み取れること：子どもたちが大切な技能（手書き）を身につけていない ＝ 選択肢 believe that their children are not learning an important skill
+本文の feel（感じている）が、選択肢では believe（思っている）に言いかえられています。ですから1が正解です。
+【ほかの選択肢】
+2 「世の中は変わったので、今はキーボードで打つことのほうが大切だ」と言っているのは、親たちではなく一部の教育の専門家です。第2段落の The world has changed, they say の they は some education experts（一部の教育の専門家）を指します。人物が違います。
+3 親が家でコンピューターの使い方を教えられない、という話は本文にありません。親たちが心配しているのは、手書きの技能のことです。
+4 勉強のしすぎで目が悪くなる、という話は本文にありません。また、本文の so little time は「ほんの少しの時間」で、時間を使いすぎているという話ではありません。
+【覚えるポイント】
+・be concerned about ～：「～を心配している」。be worried about ～ と同じ意味です。
+・意見を言っているのが「だれ」なのかに注意します。they say の they が指す人を確かめましょう。

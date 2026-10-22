@@ -1,0 +1,26 @@
+---
+choices: improve academic ability | develop social skills | reduce stress easily | forget pain quickly
+answerText: develop social skills
+---
+【正解】2 develop social skills（社会的な技能を身につける）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 improve academic ability（学力を高める）
+2 develop social skills（社会的な技能〔人とうまくつきあう力〕を身につける）
+3 reduce stress easily（ストレスを簡単に減らす）
+4 forget pain quickly（痛みをすぐに忘れる）
+【考え方】
+空所は第1段落の In fact, it also helps us (24).（実際、それは私たちが（24）するのにも役立つ）です。it は前の文の smell（におい）を指します。help ＋人＋動詞のもとの形で「（人）が～するのに役立つ」という意味です。
+まず、空所より前の流れを見ます。においは群れで暮らす動物にとって大切で、犬やオオカミは use smell to communicate with their families and with other groups（においを使って家族やほかの群れと意思を伝え合う）とあります。そして In a similar way, smell is important for humans.（同じように、においは人間にとって大切だ）と、人間の話に移ります。
+次に、空所のすぐあとの文を見ます。
+Some scientists say that without smell, we would have trouble recognizing family members and learning how to get along in a group.（においがなければ、私たちは家族を見分けることや、集団の中でうまくやっていく方法を学ぶことに苦労するだろう、と言う科学者もいる）
+「家族を見分ける」「集団の中でうまくやっていく」は、どちらも人とつきあうための力です。social skills は「社会的な技能（ほかの人とうまくつきあう力）」という意味なので、develop social skills（社会的な技能を身につける）が、空所のあとの説明と合います。動物が群れの中でにおいを使うという前の話ともつながるので、2が正解です。
+【ほかの選択肢】
+1 improve academic ability を入れると、「においは私たちが学力を高めるのにも役立つ」となります。本文には勉強や学力の話はなく、すぐあとの文の「家族を見分ける」「集団の中でうまくやっていく」とも合いません。
+3 reduce stress easily を入れると、「においは私たちがストレスを簡単に減らすのにも役立つ」となります。ストレスについては本文に書かれていません。
+4 forget pain quickly を入れると、「においは私たちが痛みをすぐに忘れるのにも役立つ」となります。第2段落には痛みの話が出てきますが、そこでは、においと痛みが一緒に記憶に残ったと書かれていて、痛みを忘れる話ではありません。また、空所のあとの文の内容とも合いません。
+【覚えるポイント】
+・social skills：「社会的な技能」。ほかの人と協力したり、うまくつきあったりする力のことです。
+・get along：「うまくやっていく、仲よくする」。get along in a group で「集団の中でうまくやっていく」。
