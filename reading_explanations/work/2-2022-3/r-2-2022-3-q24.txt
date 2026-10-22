@@ -1,0 +1,28 @@
+---
+choices: After a while | In exchange | To make matters worse | For this reason
+answerText: To make matters worse
+---
+【正解】3 To make matters worse（さらに悪いことに）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 After a while（しばらくして）
+2 In exchange（その代わりに、引きかえに）
+3 To make matters worse（さらに悪いことに）
+4 For this reason（この理由で）
+【考え方】
+空所は第1段落の (24), the sea itself was a very dangerous place, especially during storms, and accidents were common. の文頭です。前後の文がどのような関係でつながっているかを考えます。
+第1段落は Life on large sailing ships was hard.（大型帆船での生活はつらかった）で始まり、つらかった点が順に挙げられています。
+・Sailors could be away from their homes and families for months or even years.（何か月も、あるいは何年も家や家族から離れていることがあった）
+・The food ... was often dried and in bad condition.（食べ物は乾燥させたもので、状態が悪いことがよくあった）
+・The work ... was usually boring and physically tiring.（仕事はたいてい退屈で、体が疲れた）
+空所のあとも、the sea itself was a very dangerous place（海そのものがとても危険な場所だった）、accidents were common（事故はよく起こった）と、もう1つ悪いことが加えられています。
+To make matters worse は「さらに悪いことに」という意味で、悪いことを述べたあとに、もっと悪いことを付け加えるときに使います。つらいことが重なっていく流れに合うので、3が正解です。
+【ほかの選択肢】
+1 After a while（しばらくして）を入れると、「しばらくして、海が危険な場所になった」と時間がたってから変わったような意味になります。海はもともと危険だったので、合いません。
+2 In exchange（その代わりに）は、何かと何かを取りかえるときに使います。退屈な仕事の「代わりに」海が危険だった、という関係ではないので合いません。
+4 For this reason（この理由で）を入れると、「仕事が退屈で疲れるので、海が危険だった」という原因と結果の関係になります。仕事が退屈なことは、海が危険な理由にはならないので合いません。
+【覚えるポイント】
+・To make matters worse：「さらに悪いことに」。悪いことを重ねて述べるときの目印です。
+・It is not surprising that ～：「～なのは不思議ではない、～なのは当然だ」。
