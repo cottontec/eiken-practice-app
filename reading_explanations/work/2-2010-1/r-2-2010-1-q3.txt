@@ -1,0 +1,19 @@
+---
+choices: resource | press | economy | factor
+answerText: press
+---
+【正解】2 press（報道機関、新聞・雑誌）
+【和訳】
+その2人の指導者の会談は、報道機関で大きく報じられました。2人が握手している写真が、ほとんどの主要な新聞の第1面に載りました。
+（選択肢の意味）1 資源　2 報道機関、新聞・雑誌　3 経済　4 要因
+【考え方】
+1文目は The meeting between the two leaders was widely reported in the (　).（2人の指導者の会談は、～で広く報じられた）です。reported は「報道された、報じられた」という意味です。「何で報じられたのか」を考えます。
+2文目を見ると、Photographs of them shaking hands were on the front page of most major newspapers.（2人が握手している写真が、ほとんどの主要な新聞の第1面に載った）とあります。報じたのは新聞などのニュースを伝える側だと分かります。
+press は「新聞・雑誌などの報道機関」をまとめて表す言葉です。in the press で「報道で、新聞などで」となるので、2が正解です。
+【ほかの選択肢】
+1 resource は「資源」です。「資源の中で広く報じられた」となり、意味が通りません。
+3 economy は「経済」です。「経済の中で報じられた」では、2文目の「新聞の第1面に載った」とつながりません。
+4 factor は「要因（あることを引き起こすもとの一つ）」です。「要因の中で報じられた」となり、意味が通りません。
+【覚えるポイント】
+・the press：「報道機関、新聞・雑誌」。be reported in the press で「報道される」です。
+・the front page：「（新聞の）第1面」。
