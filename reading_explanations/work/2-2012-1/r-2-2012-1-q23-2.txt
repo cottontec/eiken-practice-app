@@ -5,7 +5,7 @@ order: 2 1 4 5 3
 ---
 【正解】1 it（この問題の2番目）
 【完成文】
-She ( takes it for granted that he will ) always be there to help her.
+Ben is always doing nice things for Karen, but she never says thank you to him. She ( takes it for granted that he will ) always be there to help her.
 並べ方：2 takes → 1 it → 4 for → 5 granted that → 3 he will（2番目は1、4番目は5）
 【和訳】
 ベンはいつもカレンのために親切なことをしていますが、彼女は彼に一度もありがとうと言いません。彼女は、彼がいつでも自分を助けるためにそばにいてくれるのを、当たり前だと思っているのです。

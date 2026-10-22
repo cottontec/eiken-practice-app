@@ -5,7 +5,7 @@ order: 4 3 1 2 5
 ---
 【正解】3 no（この問題の2番目）
 【完成文】
-B: Well, ( there's no point in going inside ) if we only have a few minutes to look around.
+B: Well, ( there's no point in going inside ) if we only have a few minutes to look around. Let's come back again some other day.
 並べ方：4 there's → 3 no → 1 point → 2 in → 5 going inside（2番目は3、4番目は2）
 【和訳】
 A：あれ、困ったな。ドアの掲示に、博物館は4時に閉まると書いてあるよ。
