@@ -1,0 +1,24 @@
+---
+choices: locate | repair | design | donate
+answerText: locate
+---
+【正解】1 locate（（～の）場所を突き止める、見つけ出す）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 locate：（～の）場所を突き止める、見つけ出す
+2 repair：修理する
+3 design：設計する、デザインする
+4 donate：寄付する
+【考え方】
+空所は第2段落の2文目、One reason is that new technology is making it much easier to (　) them.（その理由の1つは、新しい技術によってそれらを〜するのがずっと簡単になってきていることだ）にあります。them は難破船を指しています。make it easier to ～ は「～するのをより簡単にする」です。
+次の文を見ると、Underwater robots, in particular, are allowing people to search in deeper parts of the ocean than ever before.（特に水中ロボットのおかげで、人々はこれまでより深い海を探せるようになっている）とあります。さらに Now, a number of commercial companies are using such technology to find more and more shipwrecks.（今では、いくつもの営利企業がそうした技術を使って、ますます多くの難破船を見つけている）と続きます。commercial は「営利の、もうけを目的とする」です。
+新しい技術の話はどれも、難破船を「探す」「見つける」ことについてです。locate は「（～の）場所を突き止める、見つけ出す」という意味なので、「新しい技術で難破船を見つけ出すのがずっと簡単になっている」となり、後ろの文の説明とつながります。正解は1です。
+【ほかの選択肢】
+2 repair は「修理する」です。本文には沈んだ船を修理する話はなく、水中ロボットで海を探す、という次の文ともつながりません。
+3 design は「設計する」です。難破船は昔沈んだ船なので、新しい技術でそれを設計するというのは意味が通りません。
+4 donate は「寄付する」です。難破船を寄付するという話は本文になく、後ろの「探す」「見つける」という説明と合いません。
+【覚えるポイント】
+・locate：「（～の）場所を突き止める、見つけ出す」。
+・make it easier to ～：「～するのをより簡単にする」。it は to 以下を指します。

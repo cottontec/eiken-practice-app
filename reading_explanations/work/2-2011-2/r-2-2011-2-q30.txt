@@ -1,0 +1,24 @@
+---
+choices: crowded | secret | convenient | valuable
+answerText: valuable
+---
+【正解】4 valuable（価値がある、貴重な）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 crowded：混雑した、こみ合った
+2 secret：秘密の
+3 convenient：便利な
+4 valuable：価値がある、貴重な
+【考え方】
+空所は第1段落の4文目、Many shipwrecks are (　).（多くの難破船は〜だ）にあります。shipwreck は「難破船（沈んだ船の残がい）」です。
+この文は短いので、すぐあとの2つの文で中身を確かめます。Sometimes there is gold and other kinds of treasure inside them.（ときには、その中に金やほかの種類の宝物がある）とあります。さらに But even when what they contain is less precious, they can still provide important information about how people lived in the past.（しかし、中にあるものがそれほど貴重でない場合でも、それらは昔の人々の暮らしについて重要な情報を与えてくれることがある）と続きます。precious は「貴重な」です。
+金や宝物があることもあり、宝物がなくても重要な情報が得られるのですから、難破船には価値があると言えます。valuable は「価値がある、貴重な」という意味です。「多くの難破船には価値がある」と入れると、後ろの2文がその具体的な説明になります。正解は4です。
+【ほかの選択肢】
+1 crowded は「混雑した」です。海の底に沈んだ船が混雑しているという話はなく、後ろの「宝物がある」「重要な情報を与える」という説明ともつながりません。
+2 secret は「秘密の」です。タイトルは Hidden Treasures（隠された宝物）ですが、本文の後ろの2文は「宝物や情報がある」という難破船のよさを説明していて、秘密であることの説明にはなっていません。
+3 convenient は「便利な」です。沈んだ船が何かに便利だという話は本文になく、金や宝物、昔の暮らしの情報という説明と合いません。
+【覚えるポイント】
+・valuable：「価値がある、貴重な」。precious（貴重な）と近い意味です。
+・even when ～：「～のときでさえ」。
