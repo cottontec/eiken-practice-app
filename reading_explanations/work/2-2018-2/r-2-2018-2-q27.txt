@@ -1,0 +1,30 @@
+---
+choices: some new equipment for this year's season. | some money to pay for travel expenses to games. | sheets for parents to sign if they want to volunteer. | tickets to a special event at the Junior Hockey Association.
+answerText: sheets for parents to sign if they want to volunteer.
+---
+【正解】3 sheets for parents to sign if they want to volunteer.（保護者がボランティアをしたい場合に記入する用紙。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：先週、ピート・クインスはホッケーの選手たちに（　）を渡した。
+1 今年のシーズンのための新しい用具
+2 試合への移動の費用を払うためのお金
+3 保護者がボランティアをしたい場合に記入する用紙
+4 ジュニアホッケー協会での特別なイベントのチケット
+【考え方】
+設問の Last week（先週）と gave the hockey players（ホッケーの選手たちに渡した）を手がかりに、本文の「先週」「渡した」が出てくる部分を探します。
+第1段落の最後に、次の文があります。
+At practice last week, I gave each player a sign-up sheet for our next event, which will be held in November.（先週の練習で、11月に開かれる次のイベントの申込用紙を、選手一人一人に渡しました）
+sign-up sheet は「申込用紙（参加を申し込むために名前などを書く紙）」です。この直前には We are currently looking for parents to volunteer at these events.（現在、これらのイベントでボランティアをしてくださる保護者の方を探しています）とあり、この申込用紙はボランティアの申し込みのためのものだと分かります。
+本文と選択肢を対にすると、次のようになります。
+本文 a sign-up sheet（申込用紙）＝ 選択肢 sheets for parents to sign（保護者が記入する用紙）
+本文 looking for parents to volunteer（ボランティアをしてくれる保護者を探している）→ 選択肢 if they want to volunteer（ボランティアをしたいなら）
+ですから、3が正解です。
+【ほかの選択肢】
+1 本文には、集めたお金で to buy sports equipment（スポーツ用具を買う）とありますが、これはお金の使い道の説明です。先週、選手たちに新しい用具を渡したとは書かれていません。
+2 本文には、集めたお金を to travel to our hockey games（ホッケーの試合に出かける）ために使うとありますが、選手たちに移動のためのお金を渡したとは書かれていません。
+4 Junior Hockey Association（ジュニアホッケー協会）は、会費を払う相手として出てくるだけです。その協会での特別なイベントのチケットを渡したという話は本文にありません。
+【覚えるポイント】
+・sign-up sheet：「申込用紙」。sign up for ～ は「～に申し込む、参加の登録をする」。
+・設問に Last week などの時を表す語があれば、本文で同じ時を表す語を探すと、根拠の文が見つけやすくなります。

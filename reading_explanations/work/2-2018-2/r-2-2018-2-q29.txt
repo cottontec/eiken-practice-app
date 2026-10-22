@@ -1,0 +1,30 @@
+---
+choices: Lend the team some tables. | Attend every practice with their son. | Call him about their sons' payments. | Reply to his request by Friday.
+answerText: Reply to his request by Friday.
+---
+【正解】4 Reply to his request by Friday.（金曜日までに彼の依頼に返事をする。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ピート・クインスが保護者にするよう頼んでいることの1つは何ですか。
+1 チームにテーブルをいくつか貸す。
+2 息子と一緒に、すべての練習に参加する。
+3 息子の支払いについて、彼に電話をする。
+4 金曜日までに彼の依頼に返事をする。
+【考え方】
+保護者へのお願いは、第3段落にまとめて書かれています。please（～してください）や ask（頼む）などの語に注目して読みます。
+If you're interested in volunteering or not, please fill out the sign-up sheet that your son brought home.（ボランティアに興味があってもなくても、息子さんが家に持ち帰った申込用紙に記入してください）
+When you've filled it out, ask your son to bring it to practice sometime this week. The deadline is Friday.（記入が済んだら、今週中のいずれかの日に、息子さんに練習へ持ってくるように言ってください。締め切りは金曜日です）
+fill out は「（用紙に）記入する」、deadline は「締め切り」です。ボランティアをするかどうかにかかわらず、申込用紙に記入して、金曜日までに提出してほしいと頼んでいることが分かります。
+本文と選択肢を対にすると、次のようになります。
+本文 fill out the sign-up sheet ～ bring it to practice（申込用紙に記入して練習に持ってくる）→ 選択肢 Reply to his request（彼の依頼に返事をする）
+本文 The deadline is Friday.（締め切りは金曜日）＝ 選択肢 by Friday（金曜日までに）
+申込用紙を記入して出すことが、ボランティアのお願いに対する「返事」に当たります。ですから、4が正解です。
+【ほかの選択肢】
+1 本文には we'll need parents to help us set up tables for the sale（販売用のテーブルを設置するのを手伝ってくれる保護者が必要です）とあります。頼んでいるのはテーブルを「設置する手伝い」で、テーブルを「貸す」ことではありません。
+2 練習に申込用紙を持ってくるのは息子（選手）で、保護者が練習に参加するとは書かれていません。every practice（すべての練習）に参加してほしいという話も本文にありません。
+3 本文には receive payments（代金を受け取る）とありますが、これはイベントでTシャツの代金を受け取る手伝いのことです。また、電話については If you have any questions, please e-mail me or give me a call.（質問があればメールか電話をください）とあるだけで、息子の支払いについて電話をするよう頼んではいません。
+【覚えるポイント】
+・fill out ～：「（用紙）に記入する」。
+・deadline：「締め切り」。The deadline is Friday. は「金曜日までに出してください」ということです。
