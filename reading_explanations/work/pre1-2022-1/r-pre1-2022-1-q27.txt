@@ -1,6 +1,7 @@
 ---
 choices: has two disadvantages | cannot be avoided | is a gamble worth taking | prevents creative thinking
 answerText: has two disadvantages
+reviewed: yes
 ---
 【正解】1 has two disadvantages（2つの欠点がある）
 【和訳】

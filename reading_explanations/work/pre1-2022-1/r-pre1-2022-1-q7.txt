@@ -1,6 +1,7 @@
 ---
 choices: molded | heeded | twisted | yielded
 answerText: heeded
+reviewed: yes
 ---
 【正解】2 heeded（〈忠告などを〉聞き入れた、心にとめた）
 【和訳】

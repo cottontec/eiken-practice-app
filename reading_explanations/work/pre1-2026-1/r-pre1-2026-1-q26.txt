@@ -9,7 +9,7 @@ answerText: It provided Uruk with a means to help manage the administration of i
 ＜この設問と選択肢の訳＞
 設問：What is one thing we learn about the cuneiform script?（くさび形文字について分かることの一つは何か。）
 1 The benefits its use provided were not enough to enable Uruk to stay ahead of rival cities.（それを使うことでもたらされた利点は、ウルクがライバルの都市より優位であり続けるには十分ではなかった。）
-2 Although it had uses that aided development in Uruk, it was less suited to complex bureaucratic tasks.（それはウルクの発展を助ける使い道があったが、複雑な役所の仕事にはあまり向いていなかった。）
+2 Although it had uses that aided development in Uruk, it was less suited to complex bureaucratic tasks.（それはウルクの発展を助ける使い道があったが、複雑な役所の仕事にはより不向きだった。）
 3 It was first developed for religious purposes but was later adopted for use in commerce and government.（それは最初は宗教のために作られたが、のちに商業や政治で使うために取り入れられた。）
 4 It provided Uruk with a means to help manage the administration of its increasingly complex society.（それはウルクに、ますます複雑になっていく社会の行政を管理する助けとなる手段を与えた。）
 【考え方】
@@ -27,7 +27,7 @@ facilitate は「～を容易にする」、governance は「治めること、�
 この問題の型：言いかえ（governance of the increasingly complex city → administration of its increasingly complex society）
 【ほかの選択肢】
 1 第3段落にはウルクの強い地位が続かなかったことが書かれていますが、その原因は、近くの都市との長い競い合いでどの都市も弱い立場になったことです。くさび形文字の利点が足りなかったために、ライバルの都市より優位でいられなかった、とは書かれていません。
-2 本文では、文字はしだいに高度になり、会計や行政に使われて、ますます複雑になる都市を治める助けになったと書かれています。「複雑な役所の仕事にはあまり向いていなかった」とは書かれておらず、本文の内容と合いません。
+2 本文では、文字はしだいに高度になり、会計や行政に使われて、ますます複雑になる都市を治める助けになったと書かれています。「複雑な役所の仕事にはより不向きだった」とは書かれておらず、本文の内容と合いません。
 3 本文では、初期の文字は pictures representing goods（品物を表す絵）を使ったもので、宗教のために作られたとは書かれていません。religion（宗教）は、時がたってから記録に使われた分野の一つとして、最後に出てくるだけです。
 【覚えるポイント】
 ・administrative：「行政の（町や国を治める仕事の）」。facilitate：「～を容易にする」。

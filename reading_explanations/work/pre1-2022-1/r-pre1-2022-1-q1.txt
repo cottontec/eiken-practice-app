@@ -1,6 +1,7 @@
 ---
 choices: disgrace | closure | mercy | seclusion
 answerText: mercy
+reviewed: yes
 ---
 【正解】3 mercy（慈悲、情け）
 【和訳】

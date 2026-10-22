@@ -1,6 +1,7 @@
 ---
 choices: sit too close to their screens | rely too much on vision | spend too much time indoors | fail to do enough physical exercise
 answerText: spend too much time indoors
+reviewed: yes
 ---
 【正解】3 spend too much time indoors（屋内で過ごす時間が長すぎる）
 【和訳】

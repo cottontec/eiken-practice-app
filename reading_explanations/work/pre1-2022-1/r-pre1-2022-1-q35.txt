@@ -1,6 +1,7 @@
 ---
 choices: a majority of the community was in favor of someone joining, but a small number of individuals opposed it. | people joined the community with genuine interest, but they lacked the skills or knowledge to contribute effectively. | some members worked hard to follow the community's ideals, while others took a more casual approach to communal living. | the community set out to complete an ambitious project, but it could not complete it because of a lack of knowledge and financial resources.
 answerText: some members worked hard to follow the community's ideals, while others took a more casual approach to communal living.
+reviewed: yes
 ---
 【正解】3 some members worked hard to follow the community's ideals, while others took a more casual approach to communal living.（一部のメンバーは共同体の理想に従おうと懸命に努力したが、ほかのメンバーは、共同生活に対してそれよりも軽い気持ちで取り組んでいた。）
 【和訳】

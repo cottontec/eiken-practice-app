@@ -1,6 +1,7 @@
 ---
 choices: The British government held the East India Company responsible for an uprising that occurred. | The Indian people voted for British rule after losing confidence in the Indian emperor's ability to rule the country effectively. | The Indian people asked for the help of the British in preventing a war between India and China. | The Indian emperor decided to join forces with the British as a political strategy to maintain control of India.
 answerText: The British government held the East India Company responsible for an uprising that occurred.
+reviewed: yes
 ---
 【正解】1 The British government held the East India Company responsible for an uprising that occurred.（イギリス政府が、起きた反乱の責任は東インド会社にあると考えた。）
 【和訳】

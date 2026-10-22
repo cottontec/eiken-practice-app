@@ -1,6 +1,7 @@
 ---
 choices: In the same way | For example | Despite this | Instead
 answerText: Instead
+reviewed: yes
 ---
 【正解】4 Instead（その代わりに）
 【和訳】

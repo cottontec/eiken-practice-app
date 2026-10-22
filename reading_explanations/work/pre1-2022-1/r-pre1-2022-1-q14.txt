@@ -1,6 +1,7 @@
 ---
 choices: trance | downfall | rampage | pretext
 answerText: pretext
+reviewed: yes
 ---
 【正解】4 pretext（口実、言いわけ）
 【和訳】

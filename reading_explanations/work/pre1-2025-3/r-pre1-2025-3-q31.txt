@@ -1,0 +1,35 @@
+---
+choices: It is a reminder that powerful industrialists should not be allowed to influence courts to decrease the punishment for companies that break labor laws. | It is used to show that while media articles sometimes portray labor disputes inaccurately, the media also has the power to correct its mistakes. | It is viewed as a turning point in the history of the labor movement because it ultimately helped improve the situation for those who lacked rights. | It proved that most social and economic divisions would always remain despite the efforts of many activists to bring about equality for all people.
+answerText: It is viewed as a turning point in the history of the labor movement because it ultimately helped improve the situation for those who lacked rights.
+---
+【正解】3 It is viewed as a turning point in the history of the labor movement because it ultimately helped improve the situation for those who lacked rights.（それは、最終的に権利を持たなかった人々の状況をよくするのに役立ったので、労働運動の歴史の転換点と見なされている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one reason the Haymarket Affair is considered significant?（ヘイマーケット事件が重要だと考えられている理由の一つは何ですか。）
+1 It is a reminder that powerful industrialists should not be allowed to influence courts to decrease the punishment for companies that break labor laws.（それは、力のある実業家が裁判所に影響を与えて、労働に関する法律を破った企業への罰を軽くさせることを許してはならないと思い出させるものだ。）
+2 It is used to show that while media articles sometimes portray labor disputes inaccurately, the media also has the power to correct its mistakes.（それは、メディアの記事は労働争議を不正確に伝えることがあるが、メディアには自分の誤りを正す力もあることを示すのに使われている。）
+3 It is viewed as a turning point in the history of the labor movement because it ultimately helped improve the situation for those who lacked rights.（それは、最終的に権利を持たなかった人々の状況をよくするのに役立ったので、労働運動の歴史の転換点と見なされている。）
+4 It proved that most social and economic divisions would always remain despite the efforts of many activists to bring about equality for all people.（それは、すべての人の平等を実現しようとする多くの活動家の努力にもかかわらず、社会的・経済的な分断のほとんどはいつまでも残るということを証明した。）
+【考え方】
+まず見るところ：第4段落の最後 Change did not come quickly, but the incident and its aftermath contributed to important labor reforms and greater recognition of workers' rights.
+第4段落の後半では、この事件がのちにどんな意味を持ったかが書かれています。
+the Haymarket Affair exposed the social and economic divisions that were commonplace at the time and became a symbol for many modern-day labor leaders and activists（ヘイマーケット事件は、当時ありふれていた社会的・経済的な分断を明るみに出し、現代の多くの労働運動の指導者や活動家にとっての象徴となった）
+symbol は「象徴（ある考えを代表して表すもの）」です。
+段落の最後は、次のとおりです。
+Change did not come quickly, but the incident and its aftermath contributed to important labor reforms and greater recognition of workers' rights.（変化はすぐには訪れなかったが、この事件とその後の成り行きは、重要な労働改革や、労働者の権利がより広く認められることに貢献した）
+labor reform は「労働改革（働く人の条件をよくするための制度の改め）」、recognition は「認められること」です。
+本文と選択肢を対にすると、次のようになります。
+本文 Change did not come quickly, but ～ contributed to（変化はすぐには来なかったが、～に貢献した）→ 選択肢 ultimately helped（最終的に役立った）
+本文 important labor reforms and greater recognition of workers' rights（重要な労働改革や、労働者の権利がより広く認められること）→ 選択肢 improve the situation for those who lacked rights（権利を持たなかった人々の状況をよくする）
+本文 became a symbol for many modern-day labor leaders and activists（現代の多くの労働運動の指導者や活動家の象徴となった）→ 選択肢 is viewed as a turning point in the history of the labor movement（労働運動の歴史の転換点と見なされている）
+ですから3が正解です。
+この問題の型：言いかえ（contributed to important labor reforms → ultimately helped improve the situation）
+【ほかの選択肢】
+1 本文で industrialists（実業家）が出てくるのは、生き残った男たちの恩赦を condemned（非難した）という場面だけです。実業家が裁判所に影響を与えて企業の罰を軽くさせたという話はありません。
+2 本文のメディアについての記述は、新聞が人々の怒りをあおったこと、一部のメディアが恩赦を非難したことです。メディアが自分の誤りを正したという話はありません。
+4 本文には、事件が当時ありふれていた分断を明るみに出したことと、のちに労働改革に貢献したことが書かれています。分断のほとんどがいつまでも残ると証明した、という内容は本文にありません。
+【覚えるポイント】
+・contribute to ～：「～に貢献する、～の一因となる」。
+・「なぜ重要と考えられているか」を問う設問では、Change did not come quickly, but ～ のように、文章の最後で「結局どうなったか」が書かれた部分を探して選択肢と比べることが手がかりになります。

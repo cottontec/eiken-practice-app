@@ -1,6 +1,7 @@
 ---
 choices: ransom | applause | monopoly | prank
 answerText: ransom
+reviewed: yes
 ---
 【正解】1 ransom（身代金）
 【和訳】

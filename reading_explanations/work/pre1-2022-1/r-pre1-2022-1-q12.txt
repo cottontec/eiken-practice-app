@@ -1,6 +1,7 @@
 ---
 choices: stain | slit | bump | blaze
 answerText: stain
+reviewed: yes
 ---
 【正解】1 stain（しみ、汚れ）
 【和訳】

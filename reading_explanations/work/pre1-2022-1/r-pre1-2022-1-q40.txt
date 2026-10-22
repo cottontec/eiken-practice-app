@@ -1,6 +1,7 @@
 ---
 choices: Indians were able to take part in the process of building a government that reflected their economic and social needs. | schools made an effort to educate their students to have an awareness of both Indian and British cultures. | divisions were created between different groups of Indians to prevent them from challenging British rule. | many of the railroads and other transportation systems built by the Indian government were destroyed.
 answerText: divisions were created between different groups of Indians to prevent them from challenging British rule.
+reviewed: yes
 ---
 【正解】3 divisions were created between different groups of Indians to prevent them from challenging British rule.（インドの人々がイギリスの支配に立ち向かうのを防ぐために、インドの人々の異なる集団の間に分断が作られた。）
 【和訳】

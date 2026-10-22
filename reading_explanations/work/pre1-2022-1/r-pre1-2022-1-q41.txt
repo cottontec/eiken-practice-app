@@ -1,6 +1,7 @@
 ---
 choices: The company prevented the British government from achieving its aim of expanding its rule to other countries in Asia. | While the company may have been successful during its time, its business model would not be effective in today's economy. | Although the company no longer exists, it has had a large impact on the present-day global economic landscape. | If the company had never been established, another one would likely have ended up having similar political and economic influence.
 answerText: Although the company no longer exists, it has had a large impact on the present-day global economic landscape.
+reviewed: yes
 ---
 【正解】3 Although the company no longer exists, it has had a large impact on the present-day global economic landscape.（その会社はもう存在しないが、現代の世界の経済のありさまに大きな影響を与えてきた。）
 【和訳】

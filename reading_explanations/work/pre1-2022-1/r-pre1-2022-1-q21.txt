@@ -1,6 +1,7 @@
 ---
 choices: modify | pluck | exclaim | distill
 answerText: modify
+reviewed: yes
 ---
 【正解】1 modify（変える、修正する）
 【和訳】

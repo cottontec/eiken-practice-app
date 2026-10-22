@@ -1,6 +1,7 @@
 ---
 choices: sprain | segment | transition | vacancy
 answerText: vacancy
+reviewed: yes
 ---
 【正解】4 vacancy（〈ホテルなどの〉空き部屋、空き）
 【和訳】

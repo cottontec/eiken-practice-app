@@ -1,6 +1,7 @@
 ---
 choices: theatrical | brutal | frantic | affluent
 answerText: affluent
+reviewed: yes
 ---
 【正解】4 affluent（裕福な）
 【和訳】

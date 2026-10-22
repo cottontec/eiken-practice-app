@@ -1,6 +1,7 @@
 ---
 choices: "Families" are free to create their own rules and do not necessarily have to follow the rules contained in the community's constitution. | The number of people in a "family" is controlled to create the best conditions for resolving group issues and maintaining good relationships. | The mock battles that are intended to solve disagreements sometimes become serious and result in some members leaving their "families." | The community contains "families" of different sizes so that members can choose whether to live in a large or a small group setting.
 answerText: The number of people in a "family" is controlled to create the best conditions for resolving group issues and maintaining good relationships.
+reviewed: yes
 ---
 【正解】2 The number of people in a "family" is controlled to create the best conditions for resolving group issues and maintaining good relationships.（「家族」の人数は、集団の問題を解決し、よい関係を保つのに最もよい条件を作るように管理されている。）
 【和訳】

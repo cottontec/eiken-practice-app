@@ -1,6 +1,7 @@
 ---
 choices: Of course | On the other hand | What is more | For a similar reason
 answerText: On the other hand
+reviewed: yes
 ---
 【正解】2 On the other hand（一方で、それに対して）
 【和訳】

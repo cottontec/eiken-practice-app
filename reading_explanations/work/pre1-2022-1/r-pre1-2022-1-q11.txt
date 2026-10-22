@@ -1,6 +1,7 @@
 ---
 choices: obstruct | delegate | entangle | boost
 answerText: obstruct
+reviewed: yes
 ---
 【正解】1 obstruct（さえぎる、じゃまをする）
 【和訳】

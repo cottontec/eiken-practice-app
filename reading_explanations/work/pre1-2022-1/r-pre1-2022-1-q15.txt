@@ -1,6 +1,7 @@
 ---
 choices: conceal | counter | expire | assert
 answerText: assert
+reviewed: yes
 ---
 【正解】4 assert（〈強く〉主張する）
 【和訳】

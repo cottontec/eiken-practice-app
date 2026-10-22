@@ -1,6 +1,7 @@
 ---
 choices: substantially | previously | enviously | relevantly
 answerText: enviously
+reviewed: yes
 ---
 【正解】3 enviously（うらやましそうに）
 【和訳】

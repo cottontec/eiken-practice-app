@@ -1,6 +1,7 @@
 ---
 choices: casting away | putting down | stepping up | betting on
 answerText: betting on
+reviewed: yes
 ---
 【正解】4 betting on（～に賭けて〈いた〉、～を当てにして〈いた〉）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: It is a combination of different mushroom species that started to grow together over time. | It grew slowly at first, but it has been expanding more rapidly in the last thousand years. | It shares the nutrients it collects with the trees and other types of plant life that it grows on. | It is a single organism that has spread throughout a wide area by growing and feeding on trees.
 answerText: It is a single organism that has spread throughout a wide area by growing and feeding on trees.
+reviewed: yes
 ---
 【正解】4 It is a single organism that has spread throughout a wide area by growing and feeding on trees.（それは、木に生えて育ち、木から栄養をとることで、広い範囲に広がった一つの生き物である。）
 【和訳】

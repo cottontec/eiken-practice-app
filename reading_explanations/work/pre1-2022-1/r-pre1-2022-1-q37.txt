@@ -1,6 +1,7 @@
 ---
 choices: Members of the community are allowed to exchange their responsibilities from time to time to prevent them from becoming exhausted. | The type of work the community does to earn income changes periodically so that members can learn new skills. | Members of the community take turns carrying out maintenance on the buildings and equipment that are owned collectively. | The community continually finds ways to satisfy the needs of its members rather than simply reacting to problems when they arise.
 answerText: The community continually finds ways to satisfy the needs of its members rather than simply reacting to problems when they arise.
+reviewed: yes
 ---
 【正解】4 The community continually finds ways to satisfy the needs of its members rather than simply reacting to problems when they arise.（その共同体は、問題が起きたときにただそれに対応するのではなく、メンバーの要求を満たす方法を絶えず見つけている。）
 【和訳】

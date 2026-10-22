@@ -1,6 +1,7 @@
 ---
 choices: devise | prevail | evolve | reconstruct
 answerText: prevail
+reviewed: yes
 ---
 【正解】2 prevail（勝つ、打ち勝つ）
 【和訳】

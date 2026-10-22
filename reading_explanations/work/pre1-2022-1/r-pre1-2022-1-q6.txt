@@ -1,6 +1,7 @@
 ---
 choices: depression | progression | compression | suspicion
 answerText: compression
+reviewed: yes
 ---
 【正解】3 compression（圧迫、おさえつけること）
 【和訳】

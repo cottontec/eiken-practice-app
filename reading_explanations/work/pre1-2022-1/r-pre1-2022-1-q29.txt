@@ -1,6 +1,7 @@
 ---
 choices: have long-term effects on eyesight | can help solve the problem | can be used on all devices | will improve in the future
 answerText: have long-term effects on eyesight
+reviewed: yes
 ---
 【正解】1 have long-term effects on eyesight（視力に長期的な影響を与える）
 【和訳】

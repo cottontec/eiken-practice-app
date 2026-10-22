@@ -1,6 +1,7 @@
 ---
 choices: the mushrooms it produces change color depending on the type of tree that it grows on. | it is generally not visible, except when it produces fruiting bodies for a short time each year. | not only does it grow underground, but it also has an appearance that is like that of tree roots. | it is only able to survive in areas that have the specific weather conditions it needs to grow.
 answerText: it is generally not visible, except when it produces fruiting bodies for a short time each year.
+reviewed: yes
 ---
 【正解】2 it is generally not visible, except when it produces fruiting bodies for a short time each year.（それは、毎年短い期間だけ子実体を作るときを除いて、ふだんは目に見えない。）
 【和訳】

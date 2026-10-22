@@ -1,6 +1,7 @@
 ---
 choices: echo | bow | dump | shrug
 answerText: shrug
+reviewed: yes
 ---
 【正解】4 shrug（〈肩を〉すくめる）
 【和訳】

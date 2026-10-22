@@ -1,6 +1,7 @@
 ---
 choices: earn lower-than-average salaries | love their jobs | have worked for several companies | perform poorly
 answerText: perform poorly
+reviewed: yes
 ---
 【正解】4 perform poorly（仕事の成果が上がらない）
 【和訳】

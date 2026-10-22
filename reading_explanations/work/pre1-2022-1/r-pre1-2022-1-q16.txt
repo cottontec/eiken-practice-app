@@ -1,6 +1,7 @@
 ---
 choices: eliminate | expend | stabilize | oppress
 answerText: eliminate
+reviewed: yes
 ---
 【正解】1 eliminate（取り除く、なくす）
 【和訳】

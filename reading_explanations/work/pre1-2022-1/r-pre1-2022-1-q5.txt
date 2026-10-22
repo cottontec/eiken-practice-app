@@ -1,6 +1,7 @@
 ---
 choices: discharged | converted | interrogated | affiliated
 answerText: interrogated
+reviewed: yes
 ---
 【正解】3 interrogated（尋問した、問いただした）
 【和訳】

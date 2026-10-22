@@ -1,6 +1,7 @@
 ---
 choices: fall for | hang on | see out | flag down
 answerText: fall for
+reviewed: yes
 ---
 【正解】1 fall for（〈うそなどに〉だまされる）
 【和訳】

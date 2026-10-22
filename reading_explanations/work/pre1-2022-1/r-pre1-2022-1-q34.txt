@@ -1,6 +1,7 @@
 ---
 choices: People should regard the honey fungus's effects on trees as a natural and beneficial process. | The only practical way to deal with the honey fungus is to invest more time and money in attempts to remove it. | Trees that have been infected by the honey fungus can be used to prevent it from spreading further. | The honey fungus can be harvested to provide people with an excellent source of nutrients.
 answerText: People should regard the honey fungus's effects on trees as a natural and beneficial process.
+reviewed: yes
 ---
 【正解】1 People should regard the honey fungus's effects on trees as a natural and beneficial process.（人々は、ナラタケが木に与える影響を、自然で有益な過程と見なすべきだ。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: temperament | accumulation | veneer | glossary
 answerText: temperament
+reviewed: yes
 ---
 【正解】1 temperament（気質、性格）
 【和訳】

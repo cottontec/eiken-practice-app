@@ -1,6 +1,7 @@
 ---
 choices: chronicled | disguised | rendered | revitalized
 answerText: disguised
+reviewed: yes
 ---
 【正解】2 disguised（変装させた）
 【和訳】

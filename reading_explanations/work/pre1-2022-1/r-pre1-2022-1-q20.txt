@@ -1,6 +1,7 @@
 ---
 choices: grotesque | defiant | devoted | feeble
 answerText: devoted
+reviewed: yes
 ---
 【正解】3 devoted（献身的な、熱心な）
 【和訳】

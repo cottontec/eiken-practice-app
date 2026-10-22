@@ -1,6 +1,7 @@
 ---
 choices: trivial | conclusive | palatial | offensive
 answerText: trivial
+reviewed: yes
 ---
 【正解】1 trivial（ささいな、取るに足りない）
 【和訳】

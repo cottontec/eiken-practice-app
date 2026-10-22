@@ -1,6 +1,7 @@
 ---
 choices: turn over | contend with | prop up | count off
 answerText: contend with
+reviewed: yes
 ---
 【正解】2 contend with（〈困難なことに〉取り組む、対処する）
 【和訳】

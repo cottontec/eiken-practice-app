@@ -1,6 +1,7 @@
 ---
 choices: prestigious | spontaneous | cordial | petty
 answerText: prestigious
+reviewed: yes
 ---
 【正解】1 prestigious（名門の、一流の）
 【和訳】
