@@ -1,0 +1,27 @@
+---
+choices: Tell him how much her company's service would cost. | Meet him to sign a contract for cleaning services. | Contact Ms. Clarke to find out about the hotel's requirements. | E-mail him the details of the cleaning schedule for next month.
+answerText: Tell him how much her company's service would cost.
+---
+【正解】1 Tell him how much her company's service would cost.（彼女の会社のサービスにいくらかかるのかを彼に伝える。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：アダム・テイラーは、今週オーツさんに何をしてほしいと思っていますか。
+1 彼女の会社のサービスにいくらかかるのかを彼に伝える。
+2 清掃サービスの契約を結ぶために彼と会う。
+3 ホテルが必要としていることを知るために、クラークさんに連絡する。
+4 来月の清掃の予定表の詳しい内容を、彼にEメールで送る。
+【考え方】
+設問の this week（今週）に注目して、メールの中で this week が出てくるところを探します。
+第3段落の1文目に I would like to know how much your company charges for this type of service.（このような種類のサービスに、御社がいくら料金をとっているのかを知りたい）とあり、2文目で Could you let me know by e-mail this week?（今週中にEメールで知らせていただけますか）とお願いしています。charge は「（料金を）請求する」という意味です。本文と選択肢は次のように対応しています。
+本文 let me know（私に知らせる）＝ 選択肢 Tell him（彼に伝える）
+本文 how much your company charges for this type of service（このサービスに御社がいくら料金をとるか）＝ 選択肢 how much her company's service would cost（彼女の会社のサービスにいくらかかるか）
+したがって、1が正解です。
+【ほかの選択肢】
+2 契約については If we agree on a price, I would like to sign a contract ... by the end of the month.（料金について合意できたら、今月末までに契約を結びたい）とあります。契約は料金が決まってからの話で、今週のことではありません。また、オーツさんにホテルへ来てほしいのは sometime next week（来週のどこか）です。
+3 本文では、来週オーツさんがホテルに来たときに so Ms. Clarke and I can tell you about our needs in detail（クラークと私がこちらの必要なことを詳しくお伝えできるように）と書かれています。オーツさんがクラークさんに連絡するのではなく、2人がオーツさんに直接話すという内容です。時期も来週なので合いません。
+4 清掃の予定表（cleaning schedule）は、料金に合意したあとに今月末までにつくりたいとされているものです。今週Eメールで送ってほしいのは料金のことで、予定表ではありません。
+【覚えるポイント】
+・Could you let me know ～?：「～を知らせていただけますか」。ていねいなお願いの言い方です。
+・charge：「（料金を）請求する」。how much ～ charges で「～がいくら料金をとるか」です。

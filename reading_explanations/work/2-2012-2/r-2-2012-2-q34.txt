@@ -1,0 +1,27 @@
+---
+choices: He has recommended the company's service to other hotels. | Daniel Hartley wants the company to clean his hotel from next month. | Ms. Oates should use the company to clean rooms at her office. | Guests have said the company's staff did not clean their rooms properly.
+answerText: Guests have said the company's staff did not clean their rooms properly.
+---
+【正解】4 Guests have said the company's staff did not clean their rooms properly.（お客は、その会社のスタッフが部屋をきちんと掃除しなかったと言っている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：アダム・テイラーがスパークル・ファーストについて言っていることの1つは何ですか。
+1 彼は、その会社のサービスをほかのホテルに薦めてきた。
+2 ダニエル・ハートリーは、来月からその会社に自分のホテルを清掃してほしいと思っている。
+3 オーツさんは、自分の事務所の部屋を清掃するのにその会社を使うべきだ。
+4 お客は、その会社のスタッフが部屋をきちんと掃除しなかったと言っている。
+【考え方】
+まず、スパークル・ファーストがどんな会社かを確かめます。メールの第1段落に My hotel currently uses a different company—Sparkle First—but I am not satisfied with their service.（私のホテルは現在、別の会社――スパークル・ファースト――を利用しているが、そのサービスに満足していない）とあります。スパークル・ファーストは、アダムのホテルが今使っている清掃会社です。
+そのすぐあとに、満足していない理由として Guests have complained that their rooms were still dirty after the cleaners visited（清掃員が来たあとでも部屋がまだ汚れていたと、お客から苦情が出ている）と書かれています。the cleaners はスパークル・ファーストの清掃員のことです。本文と選択肢は次のように対応しています。
+本文 Guests have complained that ～（お客は～と苦情を言っている）＝ 選択肢 Guests have said ～（お客は～と言っている）
+本文 their rooms were still dirty after the cleaners visited（清掃員が来たあとも部屋はまだ汚れていた）＝ 選択肢 the company's staff did not clean their rooms properly（その会社のスタッフは部屋をきちんと掃除しなかった）
+したがって、4が正解です。
+【ほかの選択肢】
+1 本文で人に会社を薦めているのは、友人のダニエル・ハートリーです。しかも彼が薦めているのはラックストーン・クリーニングで、スパークル・ファーストではありません。アダムはスパークル・ファーストに満足していないので、人物も内容も違います。
+2 ダニエル・ハートリーは、何年も前からラックストーン・クリーニングを使っている人です。また、本文の starting next month（来月から）は、アダムが自分のホテルの清掃をラックストーン・クリーニングに切り替えたいという話です。人物も会社も違います。
+3 オーツさんはラックストーン・クリーニングの人で、アダムはオーツさんに自分のホテルの清掃を頼もうとしています。オーツさんにスパークル・ファーストを使うよう勧める話は、本文にありません。
+【覚えるポイント】
+・complain that ～：「～だと苦情を言う、不満を言う」。
+・be satisfied with ～：「～に満足している」。

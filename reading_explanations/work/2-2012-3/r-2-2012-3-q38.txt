@@ -1,0 +1,29 @@
+---
+choices: New bones can be grown inside of their bodies. | Their shells can be used to treat people's injuries. | Some of them are able to stick to things underwater. | They produce stronger glues than humans can.
+answerText: Some of them are able to stick to things underwater.
+---
+【正解】3 Some of them are able to stick to things underwater.（それらの中には、水の中で物にくっつくことができるものがいるから。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：科学者たちはなぜ、貝のような海の生き物を研究しているのですか。
+1 それらの体の中では新しい骨を育てることができるから。
+2 それらの貝がらは人のけがの治療に使えるから。
+3 それらの中には、水の中で物にくっつくことができるものがいるから。
+4 それらは人間が作れるよりも強い接着剤を作り出すから。
+【考え方】
+貝（shellfish）の話は第2段落に出てきます。There are various creatures, such as shellfish, that live in the sea and yet manage to stick to things.（貝のように、海の中に住みながらも、物にくっつくことができるさまざまな生き物がいる）とあります。and yet は「それなのに、それでも」、manage to ～ は「なんとか～できる」という意味です。
+その次の文が研究の理由です。Since the 1980s, scientists have been studying these animals in the hope of finding a way to create a glue that would work inside the body.（1980年代から、科学者たちは、体の中で働く接着剤を作る方法を見つけることを願って、こうした動物を研究してきた）。
+第1段落には、人間の体の中のぬれた状態で働く接着剤はまだないと書かれていました。海の中というぬれた場所でも物にくっつける生き物がいるので、科学者はそれを手がかりにしようとしているのです。
+本文と選択肢は次のように対応しています。
+本文 various creatures, such as shellfish（貝のようなさまざまな生き物）＝ 選択肢 Some of them（それらの中のいくつか）
+本文 live in the sea and yet manage to stick to things（海に住みながら物にくっつくことができる）＝ 選択肢 are able to stick to things underwater（水の中で物にくっつくことができる）
+正解は3です。
+【ほかの選択肢】
+1 海の生き物の体の中で新しい骨を育てるという話は、本文にありません。
+2 本文に出てくる貝がら（pieces of shell）は、サンドキャッスル・ワームが住みかを作る材料としてです。貝がらをけがの治療に使うという話はありません。
+4 本文は、海の生き物が物にくっつけることを述べているだけで、人間が作るものより強い接着剤を作るとは書かれていません。強さを比べる話はありません。
+【覚えるポイント】
+・stick to ～：「～にくっつく」。
+・in the hope of ～ing：「～することを願って、期待して」。

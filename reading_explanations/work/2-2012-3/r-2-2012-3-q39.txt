@@ -1,0 +1,29 @@
+---
+choices: creates a kind of acid that protects it from enemies. | is interesting to scientists because it has a very hard shell. | takes air from the water's surface to make its home stronger. | lives in a shelter that it makes from materials in the ocean.
+answerText: lives in a shelter that it makes from materials in the ocean.
+---
+【正解】4 lives in a shelter that it makes from materials in the ocean.（海の中の材料で自分で作った住みかに住んでいる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：サンドキャッスル・ワームは…
+1 敵から身を守る一種の酸を作り出す。
+2 とても固い殻を持っているので、科学者にとって興味深い。
+3 自分の住みかを強くするために、水面から空気を取り入れる。
+4 海の中の材料で自分で作った住みかに住んでいる。
+【考え方】
+サンドキャッスル・ワームは第3段落に出てきます。
+The worm gets its name from the fact that it builds a shelter out of sand and pieces of shell.（この虫の名前は、砂と貝がらのかけらで住みかを作るということからきている）とあります。build ～ out of … は「…で～を作る」という意味です。
+さらに The worm produces a glue from its head that it uses to stick the sand and shells together.（この虫は、砂と貝がらをくっつけるのに使う接着剤を頭から出す）とあり、砂と貝がらを接着剤でくっつけて住みかを作っていることが分かります。砂も貝がらのかけらも、海の中にある材料です。
+本文と選択肢は次のように対応しています。
+本文 builds a shelter（住みかを作る）＝ 選択肢 a shelter that it makes（自分で作る住みか）
+本文 out of sand and pieces of shell（砂と貝がらのかけらで）＝ 選択肢 from materials in the ocean（海の中の材料で）
+正解は4です。
+【ほかの選択肢】
+1 本文の acid（酸）は、まわりの水の中の酸の量が変わると、この虫の接着剤が固まるという話で出てきます。虫が酸を作るとも、敵から身を守るとも書かれていません。
+2 本文で固くなるのは虫の殻ではなく、虫が出す接着剤です。科学者がこの虫を研究しているのも、接着剤を作る手がかりを探すためで、固い殻を持っているからではありません。
+3 本文の air（空気）は、ふつうの接着剤が空気の中で乾くと固まるという話で出てきます。この虫が水面から空気を取り入れるという話はありません。
+【覚えるポイント】
+・build ～ out of …：「…（材料）で～を作る」。
+・get its name from ～：「～から名前がついている、名前の由来は～だ」。
