@@ -1,0 +1,29 @@
+---
+choices: underfunded from the start | not without obstacles | almost canceled | moved to a safer location
+answerText: not without obstacles
+---
+【正解】2 not without obstacles（障害がないわけではない）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 underfunded from the start（最初から資金が足りなかった）
+2 not without obstacles（障害がないわけではない、障害もあった）
+3 almost canceled（もう少しで中止されるところだった）
+4 moved to a safer location（より安全な場所に移された）
+【考え方】
+まず見るところ：第2段落の最初の Nevertheless と、そのあとに並ぶ困難の具体例
+第1段落では、メトロポリタン鉄道が世界初の地下鉄として成功したことが書かれていました。第2段落は Nevertheless（それでも）で始まるので、成功とは反対の面、つまり困難な点が書かれると考えられます。
+空所のあとを見ます。
+Engineers had to ensure the tunnels, branch lines, arches, and maintenance access points were constructed precisely and safely.（技術者たちは、トンネル、支線、アーチ、保守点検用の出入り口が、正確かつ安全に造られるようにしなければならなかった）
+the engineers lacked the technologically advanced devices that engineering firms possess today（技術者たちは、今日の工学系の会社が持っているような、技術的に進んだ装置を持っていなかった）
+さらに、トンネルが崩れる恐れ、ボイラーの爆発、管の破裂による浸水と遅れなど、多くの問題が並んでいます。
+not without ～ は「～がないわけではない」で、「～もあった」という意味になります。not without obstacles で「障害がないわけではなかった」となり、困難がいくつもあったという内容に合うので、2が正解です。
+この問題の型：具体例とまとめ（装置の不足・事故・浸水 → 障害がないわけではない）
+【ほかの選択肢】
+1 underfunded from the start は「最初から資金が足りなかった」です。お金が足りなかったことは本文に書かれていません。空所のあとは、技術や事故の問題が書かれています。
+3 almost canceled は「もう少しで中止されるところだった」です。第1段落に、建設が承認される前に何年も議論があったことは書かれていますが、事業がもう少しで中止されるところだったとは書かれていません。
+4 moved to a safer location は「より安全な場所に移された」です。事業が別の場所に移されたことは本文に書かれていません。空所のあとは、工事中に起きた事故や心配事の話です。
+【覚えるポイント】
+・not without ～：「～がないわけではない（～もある）」。obstacle：「障害、じゃまになるもの」。
+・Nevertheless で始まる段落の空所は、前の段落（ここでは成功の話）と反対の内容で、そのあとに並ぶ具体例をまとめる語句が入る手がかりになります。

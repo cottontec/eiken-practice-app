@@ -1,0 +1,28 @@
+---
+choices: preceding | simultaneous | plentiful | contemporary
+answerText: contemporary
+---
+【正解】4 contemporary（現代的な、現代の）
+【和訳】
+（英文）
+The architect was famous for designing buildings in a ［contemporary］ style. He wanted his designs to reflect current social and cultural trends.
+（訳）
+その建築家は、（現代的な）様式の建物を設計することで有名でした。彼は、自分の設計に、現在の社会や文化の傾向を反映させたいと考えていました。
+（選択肢の意味）
+1 preceding：前の、先立つ
+2 simultaneous：同時の、同時に起こる
+3 plentiful：豊富な、たくさんの
+4 contemporary：現代的な、現代の
+【考え方】
+まず見るところ：空所のあとの文の reflect current social and cultural trends
+空所のあとの文で、建築家がどんな設計をしたかったのかが説明されています。
+He wanted his designs to reflect current social and cultural trends.（彼は、自分の設計に、現在の社会や文化の傾向を反映させたいと考えていた）
+reflect は「反映させる（そのまま表す）」、current は「現在の、今の」、trends は「傾向、流行」です。今の社会や文化を設計に表したいのですから、彼の建物の様式は「現代的な」ものだと分かります。contemporary は「現代的な」という意味で、current の言いかえになるので、4が正解です。
+この問題の型：言いかえ（current → contemporary）
+【ほかの選択肢】
+1 preceding は「前の、先立つ」です。「前の時代の様式」と考えると、続く文の「現在の傾向を反映させたい」という希望と合いません。
+2 simultaneous は「同時の」です。何と同時なのかが書かれておらず、「同時の様式」では意味が通りません。
+3 plentiful は「豊富な」で、量が多いことを表す語です。「豊富な様式」となり、続く文の「現在の傾向を反映させたい」という説明とつながりません。
+【覚えるポイント】
+・contemporary：「現代的な、現代の」。current（現在の）と近い意味を表します。
+・空所の文のあとで、人物の考え（ここでは He wanted ～）が説明されているときは、その文の中の語（ここでは current）が空所の語の言いかえになっていることが多いので、手がかりになります。

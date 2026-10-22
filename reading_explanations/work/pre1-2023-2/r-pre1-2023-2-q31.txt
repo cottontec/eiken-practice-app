@@ -16,15 +16,15 @@ answerText: prepares the ants to be eaten
 空所のある文は次のとおりです。
 Another proposed idea is that rubbing ants on a bird's feathers ( 31 ).（別に提案されている考えは、アリを鳥の羽にこすりつけることが（　）というものだ）
 この考えの中身は、続く文で説明されています。
-In an experiment, scientists discovered that some birds were more likely to consume ants that had their formic acid removed by the scientists than ants that retained the chemical.（ある実験で科学者たちは、一部の鳥が、その化学物質を持ったままのアリよりも、科学者がギ酸を取り除いたアリのほうを食べやすいことを発見した）
-consume は「食べる」です。鳥は、ギ酸が残っているアリより、ギ酸のないアリのほうを食べやすいのです。
+In an experiment, scientists discovered that some birds were more likely to consume ants that had their formic acid removed by the scientists than ants that retained the chemical.（ある実験で科学者たちは、一部の鳥が、その化学物質を持ったままのアリよりも、科学者がギ酸を取り除いたアリのほうを食べる傾向があることを発見した）
+consume は「食べる」、be more likely to ～ は「～する傾向がある、～しやすい」です。鳥は、ギ酸が残っているアリより、ギ酸を取り除いたアリのほうを食べる傾向があるのです。
 Anting, some scientists suspect, may cause ants to release their formic acid without birds having to try to remove the sacs with their beaks（一部の科学者は、アンティングによって、鳥がくちばしでその袋を取り除こうとしなくても、アリがギ酸を出すのではないかと考えている）
-release は「出す」です。アンティングをするとアリがギ酸を出してしまうので、鳥はアリを食べやすくなる、ということです。つまり、アンティングは「アリを食べられる状態にする」行動だという考えなので、4が正解です。
-この問題の型：因果（アンティング→アリがギ酸を出す→食べやすくなる）／具体例とまとめ
+release は「出す」です。アンティングによってアリがギ酸を出してしまえば、鳥が好んで食べる「ギ酸のないアリ」になる、という考えです。つまり、アンティングは「アリを食べられる状態にする」行動だという考えなので、4が正解です。
+この問題の型：因果（アンティング→アリがギ酸を出す→食べられる状態になる）／具体例とまとめ
 【ほかの選択肢】
 1 「傷んだ羽を取り除くのに役立つ」は、本文に書かれていません。第3段落に出てくる damage（傷つける）は、鳥がくちばしで袋を取ろうとするとアリの栄養のある部分が傷つくおそれがある、という話で、鳥の羽のことではありません。
 2 「栄養をアリに移す」は、本文に書かれていません。第3段落の nutrient-rich abdomen（栄養たっぷりの腹部）は、アリの体にもともと栄養があるという説明で、鳥がアリに栄養を与えるという話ではありません。
-3 「鳥の食欲を増す」は、本文に書かれていません。実験で分かったのは、鳥がどちらのアリを食べやすいかということで、鳥がおなかをすかせるようになるという話は出てきません。
+3 「鳥の食欲を増す」は、本文に書かれていません。実験で分かったのは、鳥がどちらのアリを食べる傾向があるかということで、鳥がおなかをすかせるようになるという話は出てきません。
 【覚えるポイント】
 ・Another proposed idea is that ～（別に提案されている考えは～というものだ）の空所も、続く実験や説明の内容をまとめた選択肢を選ぶと手がかりになります。
-・be more likely to ～ A than B：「BよりもAを～しやすい」。比べている2つ（ここではギ酸を取り除いたアリと、ギ酸を持ったままのアリ）をはっきりさせて読むことが大切です。
+・be more likely to consume A than B：「BよりもAを食べる傾向がある」。比べている2つ（ここではギ酸を取り除いたアリと、ギ酸を持ったままのアリ）をはっきりさせて読むことが大切です。

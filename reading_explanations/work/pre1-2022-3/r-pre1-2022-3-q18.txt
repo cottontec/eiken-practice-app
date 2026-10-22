@@ -1,0 +1,30 @@
+---
+choices: enrollment | coverage | assortment | leverage
+answerText: coverage
+---
+【正解】2 coverage（報道、取材）
+【和訳】
+（英文）
+A lack of media ［coverage］ left the town uninformed about the chemical leak. The media only started reporting about the incident once the leak was out of control.
+（訳）
+メディアの（報道）が不足していたため、町は化学物質の漏れについて知らされないままでした。メディアがその出来事について報道し始めたのは、漏れが手に負えなくなってからのことでした。
+（選択肢の意味）
+1 enrollment：入学、登録、登録者数
+2 coverage：（新聞・テレビなどの）報道、取材
+3 assortment：詰め合わせ、（いろいろな物の）取りそろえ
+4 leverage：てこの力、影響力
+【考え方】
+まず見るところ：空所のあとの文の started reporting about the incident
+空所の文では、メディアの何かが不足していたために、町が知らされないままだったと書かれています。
+A lack of media (　) left the town uninformed about the chemical leak.（メディアの（　）が不足していたため、町は化学物質の漏れについて知らされないままだった）
+media は「メディア（新聞やテレビなど、情報を伝えるもの）」、uninformed は「知らされていない」です。続く文を見ます。
+The media only started reporting about the incident once the leak was out of control.（メディアがその出来事について報道し始めたのは、漏れが手に負えなくなってからのことだった）
+only ～ once ... は「…して初めて～した」です。報道が始まるのが遅かったので、町の人々は知らされなかったのです。reporting（報道すること）と同じ内容を表す coverage が入るので、2が正解です。
+この問題の型：言いかえ（media coverage → reporting）
+【ほかの選択肢】
+1 enrollment は「登録、入学」です。「メディアの登録が不足していた」となり、町が知らされなかった原因にならず、続く文の報道の話ともつながりません。
+3 assortment は「詰め合わせ」です。「メディアの詰め合わせが不足していた」となり、意味が通りません。
+4 leverage は「てこの力、影響力」です。続く文に書かれているのは報道を始めた時期が遅かったことで、メディアの影響力の話ではないので合いません。
+【覚えるポイント】
+・media coverage：「メディアによる報道」。a lack of media coverage で「報道が足りないこと」です。
+・only ～ once ...：「…して初めて～した（それまでは～しなかった）」。空所のあとの文の動詞（ここでは reporting）が、空所の名詞の言いかえになっていないかを確かめるのが手がかりになります。

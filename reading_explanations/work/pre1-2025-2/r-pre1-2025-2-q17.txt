@@ -1,0 +1,29 @@
+---
+choices: tune up | touch on | tear down | free up
+answerText: tear down
+---
+【正解】3 tear down（〔建物を〕取り壊す）
+【和訳】
+（英文）
+The city plans to ［tear down］ the old theater and build a new one in the same place, but many residents are unhappy about the plan.
+（訳）
+市は、その古い劇場を（取り壊し）て、同じ場所に新しい劇場を建てる計画だが、多くの住民はその計画に不満を持っている。
+（選択肢の意味）
+1 tune up：（楽器や機械を）調整する
+2 touch on：（話題に）軽くふれる
+3 tear down：（建物を）取り壊す
+4 free up：（時間や場所などを）空ける
+【考え方】
+まず見るところ：空所のあとの the old theater と、and build a new one in the same place
+空所のある部分は、次のとおりです。
+The city plans to (　) the old theater and build a new one in the same place（市は、その古い劇場を（　）、同じ場所に新しい劇場を建てる計画だ）
+one は theater（劇場）のことで、a new one は「新しい劇場」です。同じ場所に新しい劇場を建てるには、その前に古い劇場をなくさなければなりません。tear down は「（建物を）取り壊す」なので、3が正解です。
+また、but many residents are unhappy about the plan（しかし、多くの住民はその計画に不満を持っている）とあり、古い劇場がなくなることに反対する住民がいる、という流れにも合います。
+この問題の型：語の意味・組み合わせ（tear down the old theater：古い劇場を取り壊す）
+【ほかの選択肢】
+1 tune up は「（楽器や機械を）調整する」です。「古い劇場を調整して、同じ場所に新しい劇場を建てる」となり、古い劇場を残したまま同じ場所に新しく建てることになるので、意味が通りません。
+2 touch on は「（話題に）軽くふれる」です。「古い劇場について軽くふれて、新しい劇場を建てる」となり、同じ場所に建てる話につながりません。
+4 free up は「（時間や場所などを）空ける」です。「古い劇場を空ける」では、劇場の中を空にするだけで、建物はなくなりません。同じ場所に新しい劇場を建てるには、建物そのものを取り壊す tear down が合います。
+【覚えるポイント】
+・tear down ～：「～（建物など）を取り壊す」。
+・(　) the old ～ and build a new one in the same place のように、「古いものを～して同じ場所に新しいものを建てる」という流れでは、古いものをなくす意味の語句が入る手がかりになります。

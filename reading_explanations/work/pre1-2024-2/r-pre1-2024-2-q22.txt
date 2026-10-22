@@ -1,0 +1,29 @@
+---
+choices: cost-saving success | waste of time and energy | way to distract the public | revolutionary step
+answerText: revolutionary step
+---
+【正解】4 revolutionary step（革命的な一歩）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 cost-saving success（費用を節約した成功）
+2 waste of time and energy（時間と労力のむだ）
+3 way to distract the public（人々の気をそらすための方法）
+4 revolutionary step（革命的な一歩、それまでを大きく変える一歩）
+【考え方】
+まず見るところ：第1段落の空所のあとの the world's first underground railway line と its success helped kickstart
+空所をふくむ文は、メトロポリタン鉄道が歴史の中でどう見られているかを述べています。
+In historical terms, the Metropolitan Railway, as it was called, is seen as a (　).（歴史的に見ると、メトロポリタン鉄道と呼ばれたこの鉄道は、〇〇と見なされている）
+空所のあとの文に、その理由が書かれています。
+Once completed, it became the world's first underground railway line.（完成すると、それは世界で最初の地下鉄の路線となった）
+its success helped kickstart the London Underground subway system（その成功は、ロンドン地下鉄の路線網が動き出すのを後押しした）
+「世界初」であり、その成功がロンドン地下鉄全体の始まりにつながったので、歴史を大きく変えた出来事だといえます。revolutionary step は「革命的な一歩（それまでを大きく変える一歩）」なので、4が正解です。
+この問題の型：具体例とまとめ（世界初・成功がロンドン地下鉄につながった → 革命的な一歩）
+【ほかの選択肢】
+1 cost-saving success は「費用を節約した成功」です。成功したことは本文に書かれていますが、費用を節約したことは書かれていません。「成功」の部分だけが本文に合う選択肢です。
+2 waste of time and energy は「時間と労力のむだ」です。空所のあとで world's first（世界初）や its success（その成功）と書かれているので、合いません。
+3 way to distract the public は「人々の気をそらすための方法」です。地下鉄が人々の気をそらすために作られたとは本文に書かれていません。空所のあとは、世界初の地下鉄になり成功した話です。
+【覚えるポイント】
+・revolutionary step：「革命的な一歩」。be seen as ～：「～と見なされている」。kickstart：「（物事を）始動させる」。
+・is seen as a (　) のように「どう見なされているか」が空所のときは、あとに続く文の具体的な事実（ここでは world's first と success）をまとめた語句を選ぶことが手がかりになります。

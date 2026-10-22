@@ -1,0 +1,31 @@
+---
+choices: pasture | notation | expertise | stimulus
+answerText: expertise
+---
+【正解】3 expertise（専門知識、専門的な技術）
+【和訳】
+（英文）
+Jaina often gives talks at business conferences because of her ［expertise］. She has started many companies and successfully manages some of them herself.
+（訳）
+ジェイナは、その（専門知識）のために、ビジネスの会議でよく講演をしています。彼女はこれまでに多くの会社を立ち上げてきて、そのうちのいくつかを自分でうまく経営しています。
+（選択肢の意味）
+1 pasture：牧草地（牛や羊が草を食べる土地）
+2 notation：（記号を使った）表記法、記号
+3 expertise：専門知識、専門的な技術
+4 stimulus：刺激
+【考え方】
+まず見るところ：後半の文の She has started many companies and successfully manages some of them herself.
+空所のある文は次のとおりです。
+Jaina often gives talks at business conferences because of her (　).（ジェイナは、彼女の（　）のために、ビジネスの会議でよく講演をしている）
+give a talk は「講演をする」です。because of her (　) の部分は、講演をよくする理由を表しています。
+理由の中身は、後半の文から分かります。
+She has started many companies and successfully manages some of them herself.（彼女はこれまでに多くの会社を立ち上げてきて、そのうちのいくつかを自分でうまく経営している）
+会社をいくつも立ち上げ、うまく経営しているということは、ビジネスについての深い知識や経験を持っているということです。expertise は「専門知識、専門的な技術」なので、3が正解です。
+この問題の型：因果（専門知識がある→講演をよくする）
+【ほかの選択肢】
+1 pasture は「牧草地」です。「彼女の牧草地のために講演をする」となり、会社を立ち上げて経営しているという後半の文とつながりません。
+2 notation は「（記号を使った）表記法」で、楽譜や数学の記号のような書き表し方のことです。「彼女の表記法のために講演をする」となり、会社の経営の話とつながりません。
+4 stimulus は「刺激」です。「彼女の刺激のために講演をする」となり、意味が通りません。
+【覚えるポイント】
+・expertise：「専門知識、専門的な技術」。
+・because of her (　) のように理由を表す空所では、後ろの文に書かれた経歴や実績（ここでは会社を立ち上げて経営していること）が手がかりになります。
