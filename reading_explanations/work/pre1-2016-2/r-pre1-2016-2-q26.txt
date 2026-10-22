@@ -1,0 +1,32 @@
+---
+choices: rapidly increases | causes parents to worry about | may lead to a drop in | seldom improves
+answerText: seldom improves
+---
+【正解】4 seldom improves（めったに向上させない）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 rapidly increases（急速に上げる）
+2 causes parents to worry about（～について親に心配させる）
+3 may lead to a drop in（～の低下につながるかもしれない）
+4 seldom improves（めったに向上させない）
+【考え方】
+まず見るところ：第1段落の最後の it was rare for tutoring to boost their test scores significantly
+空所のある文は次のとおりです。
+The study showed that private tutoring ( 26 ) children's grades.（この研究は、個人指導が子どもたちの成績を（26）ことを示した）
+空所には、グルンダーの研究で分かった「個人指導が成績にどう影響したか」が入ります。その答えは、同じ段落の最後の文に書かれています。
+Although some schoolchildren who received private tutoring reported that their confidence in the subject increased, it was rare for tutoring to boost their test scores significantly.（個人指導を受けた児童・生徒の中には、その教科への自信が増したと答えた者もいたが、個人指導によってテストの点数が大きく上がることはまれだった）
+Although（～だけれども）の前半では、よい点（自信が増した）を一度認めています。しかし後半では、点数が大きく上がることは rare（まれ）だったと述べています。
+本文と選択肢を対にすると、次のようになります。
+本文 it was rare for tutoring to boost their test scores（個人指導で点数が上がることはまれだった）＝ 選択肢 seldom improves children's grades（成績をめったに向上させない）
+seldom は「めったに～ない」という否定の意味を表す語で、rare（まれな）と同じ向きの言葉です。boost（押し上げる）が improve（向上させる）に言いかえられています。
+さらに、第2段落は A more effective solution（（個人指導より）さらに効果的な解決策）で始まります。個人指導はあまり効果がなかった、という流れとも合うので、4が正解です。
+この問題の型：言いかえ（rare ～ boost → seldom improves）／対比（Although：自信は増した⇔点数はまれにしか上がらない）
+【ほかの選択肢】
+1 「急速に上げる」は本文と反対です。点数が大きく上がることは rare（まれ）だったと書かれています。
+2 「親に心配させる」は本文にありません。この研究は子どもたちの成績や点数を調べたもので、親の気持ちについては書かれていません。
+3 「成績の低下につながるかもしれない」は言いすぎです。本文は「点数が大きく上がることはまれだった」と言っているだけで、成績が下がるとは書かれていません。
+【覚えるポイント】
+・it is rare for A to do：「Aが～することはまれだ」。選択肢では seldom（めったに～ない）に言いかえられることがあります。
+・研究の結果を表す空所では、そのあとに続く具体的な結果の文を読んで、「上がった」「ほとんど変わらなかった」「下がった」のどれなのかを確かめることが手がかりになります。

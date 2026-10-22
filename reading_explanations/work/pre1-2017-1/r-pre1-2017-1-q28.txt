@@ -1,0 +1,32 @@
+---
+choices: had an unexpected effect on fans | actually made regulation stricter | had serious consequences for wrestlers | still has not led to the desired outcome
+answerText: had serious consequences for wrestlers
+---
+【正解】3 had serious consequences for wrestlers（レスラーたちに深刻な結果をもたらした）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 had an unexpected effect on fans（ファンに思いがけない影響を与えた）
+2 actually made regulation stricter（実際には規制を（以前より）厳しくした）
+3 had serious consequences for wrestlers（レスラーたちに深刻な結果をもたらした）
+4 still has not led to the desired outcome（まだ望んでいた結果につながっていない）
+【考え方】
+まず見るところ：第3段落の However, drug testing all but disappeared ～ と As a result, ～
+空所のある文は次のとおりです。
+Many people argue, however, that the change (28).（しかし、その変更は（28）と主張する人は多い）
+the change は、プロレスを娯楽として認めるという変更のことです。however（しかし）があるので、前の「各州が認めた」という話とは向きの違う、よくない面が述べられると考えられます。
+そのあとの文を見ます。まず、よい面が書かれています。
+The wrestling industry certainly benefited（レスリング業界が得をしたのは確かである）
+続いて However（しかし）のあとに、よくない面が書かれています。
+drug testing all but disappeared from the industry（薬物検査は業界からほとんど姿を消した）
+As a result, increased use of steroids and other dangerous performance-enhancing drugs has led to more health problems, injuries, and deaths.（その結果、ステロイドやそのほかの危険な運動能力向上薬の使用が増え、健康上の問題、けが、死亡の増加につながってきた）
+all but ～ は「ほとんど～」という意味です。運動能力向上薬を使って試合に出るのはレスラーなので、健康上の問題やけが、死亡が増えたのはレスラーたちだと考えられます。ですから、その変更は「レスラーたちに深刻な結果をもたらした」とまとめられます。よって3が正解です。
+この問題の型：具体例とまとめ（健康上の問題・けが・死亡→serious consequences）／推論（薬を使うのはレスラー）
+【ほかの選択肢】
+1 ファンについての話は第3段落にありません。視聴率が伸びたことは書かれていますが、それは業界が得をした例で、「思いがけない影響」としては書かれていません。また、深刻な問題として書かれているのは薬による健康の問題です。
+2 本文と逆です。プロレスが娯楽になったことで州の委員会の規制を受けなくなり、薬物検査もほとんど姿を消しました。規制が厳しくなったのではありません。
+4 本文と合いません。WWFが望んでいたのは税金が安くなることや刺激的なショーを行うことで、第3段落には視聴率が大きく伸び、利益が大幅に増えたと書かれています。望んでいた結果につながっていない、とは言えません。
+【覚えるポイント】
+・all but ～：「ほとんど～」。all but disappeared で「ほとんど姿を消した」。
+・空所のあとに「よい面（certainly benefited）」と「よくない面（However, ～ As a result, ～）」の両方が書かれているときは、空所の前の however の向きから、どちらをまとめた内容が入るかを考えると手がかりになります。

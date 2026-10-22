@@ -1,0 +1,31 @@
+---
+choices: has had many positive results | is not sufficient | has made companies stronger | puts men at a disadvantage
+answerText: is not sufficient
+---
+【正解】2 is not sufficient（十分ではない）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 has had many positive results（多くのよい結果をもたらしてきた）
+2 is not sufficient（十分ではない）
+3 has made companies stronger（企業を（以前より）強くしてきた）
+4 puts men at a disadvantage（男性を不利な立場に置く）
+【考え方】
+まず見るところ：第3段落の空所の直後の Ibarra claims that companies often make it hard for women to acquire leadership skills to begin with.
+空所のある文は次のとおりです。
+Economist Herminia Ibarra says this ( 31 ).（経済学者のハーミニア・イバーラは、これは（　）と言う）
+this は、直前の文の「リーダーの役割のうち女性が占める割合の目標を定めること」を指します。
+空所の直後の文は次のとおりです。
+Ibarra claims that companies often make it hard for women to acquire leadership skills to begin with.（イバーラは、企業はそもそも、女性がリーダーとしての能力を身につけるのを難しくしていることが多い、と主張している）
+acquire は「身につける、手に入れる」、to begin with は「そもそも」という意味です。イバーラは、問題は「目標の数字」より前の段階、つまり女性がリーダーの能力を身につけにくいことにある、と考えていることが読み取れます。
+段落の最後にも、If women were given the same chances to acquire leadership skills, Ibarra says, it would promote workplace equality.（もし女性にも同じように、リーダーとしての能力を身につける機会が与えられれば、職場の平等が進むだろう、とイバーラは言う）とあります。
+目標を決めるだけでは足りず、能力を身につける機会も必要だ、という考えなので、「これは十分ではない」となる2が正解です。sufficient は「十分な」という意味です。
+この問題の型：具体例とまとめ（そもそも能力を身につける機会が少ない→目標だけでは十分ではない）／指示語（this＝割合の目標を定めること）
+【ほかの選択肢】
+1 「多くのよい結果をもたらしてきた」は、イバーラの考えと合いません。イバーラは、目標を定めることのよい結果を挙げるのではなく、そもそもの問題点を指摘しています。
+3 「企業を（以前より）強くしてきた」は、本文に書かれていません。第3段落は職場の平等についての話で、企業が強くなったかどうかには触れていません。
+4 「男性を不利な立場に置く」も、本文に書かれていません。イバーラが述べているのは、男性のほうが「リーダーへの道」にある職に配属されやすいという、女性にとって不利な状況のほうです。
+【覚えるポイント】
+・Aさんが「これは（　）だ」と言い、次の文で claims that ～（～と主張する）と理由が続くときは、その主張の中身から空所の意見を考えると手がかりになります。
+・to begin with：「そもそも」。問題がもっと前の段階にあることを示すときに使われます。
