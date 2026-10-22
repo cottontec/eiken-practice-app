@@ -1,0 +1,19 @@
+---
+choices: has laughed | to laugh | being laughed | laughing
+answerText: being laughed
+---
+【正解】3 being laughed（笑われること）
+【和訳】
+ジムはあまり感じがよくありません。彼は自分が笑われるのは好きではないのに、いつもほかの人のことを笑います。
+（選択肢の意味）1 笑った（has laughed）　2 笑うこと（to laugh）　3 笑われること（being laughed）　4 笑うこと（laughing）
+【考え方】
+空所のあとに at があり、文の後半に he always laughs at other people（彼はいつもほかの人を笑う）とあります。laugh at ～ は「～を笑う、～をあざ笑う」という意味です。
+文は Though（～だけれども）で始まっているので、前半と後半は反対の内容になるはずです。後半が「ジムはほかの人を笑う」なので、前半は「ジムは自分が笑われるのは好きではない」となると、Though の働きに合います。
+「笑われる」は受け身（「～される」という形）で、be laughed at と表します。like のあとに続けるには動詞に -ing をつけた形（動名詞：「～すること」という名詞の働きをする形）にして、being laughed at（笑われること）とします。doesn't like being laughed at で「笑われるのが好きではない」となるので、正解は3です。
+【ほかの選択肢】
+1 has laughed は「（今までに）笑った」という形です。doesn't like のあとに has laughed を続けることはできず、文になりません。
+2 to laugh は「笑うこと」です。doesn't like to laugh at では「（ジムが）笑うのが好きではない」となり、後半の「いつもほかの人を笑う」と、Though でつなぐ反対の内容になりません。また at のあとに笑う相手もありません。
+4 laughing も「笑うこと」で、2と同じく「ジムが笑う」側になります。「笑われる」という意味にならないので合いません。
+【覚えるポイント】
+・be laughed at：「笑われる」。laugh at ～（～を笑う）の受け身では、at を残したまま使います。
+・like being ～ed：「～されるのが好きだ」。like のあとに受け身を続けるときは being を使います。

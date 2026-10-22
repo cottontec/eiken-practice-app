@@ -1,0 +1,20 @@
+---
+choices: clean | cleaned | cleaning | to be cleaned
+answerText: cleaning
+---
+【正解】3 cleaning（finish ～ing で「～し終える」）
+【和訳】
+A：お母さん、まだ部屋のそうじが終わっていないんだ。
+B：いいのよ。夕食のあとでやればいいわ。
+（選択肢の意味）1 clean（動詞の原形）　2 cleaned（過去形・過去分詞）　3 cleaning（～ing形）　4 to be cleaned（そうじされること）
+【考え方】
+この問題は、語の意味ではなく形を選ぶ問題です。空所の前の finished に注目します。I haven't finished (　) my room yet は「まだ部屋を〜し終えていない」という意味です。
+finish（終える）のあとに「～すること」を続けるときは、必ず ～ing の形（動名詞：動詞に ing を付けて「～すること」という名詞の働きをさせたもの）を使います。to ～ の形は使いません。ですから finish cleaning で「そうじし終える」となり、3が正解です。
+Bの You can do it after dinner.（夕食のあとでやればいい）の do it は「部屋のそうじをする」ことを指しています。
+【ほかの選択肢】
+1 clean は動詞の原形です。finish のすぐあとに動詞の原形を置くことはできません。
+2 cleaned は過去形・過去分詞です。haven't finished cleaned という形は文法的に成り立ちません。
+4 to be cleaned は「そうじされること」という受け身（「～される」という形）の to ～ の形です。finish のあとには to ～ を置かないうえ、自分が部屋をそうじするという内容とも合いません。
+【覚えるポイント】
+・finish ～ing：「～し終える」。enjoy ～ing（～して楽しむ）、stop ～ing（～するのをやめる）も同じ仲間です。
+・not ～ yet：「まだ～していない」。
