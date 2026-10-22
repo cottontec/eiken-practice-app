@@ -1,6 +1,7 @@
 ---
 choices: relief | place | deal | growth
 answerText: deal
+reviewed: yes
 ---
 【正解】3 deal（have a great deal to do with ～ で「～と大いに関係がある」）
 【和訳】

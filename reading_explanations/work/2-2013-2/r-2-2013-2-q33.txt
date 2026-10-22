@@ -1,6 +1,7 @@
 ---
 choices: improved | deleted | reached | affected
 answerText: affected
+reviewed: yes
 ---
 【正解】4 affected（影響を受けた）
 【和訳】

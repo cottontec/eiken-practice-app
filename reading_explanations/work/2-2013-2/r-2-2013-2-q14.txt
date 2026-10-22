@@ -1,6 +1,7 @@
 ---
 choices: basis | quantity | length | trouble
 answerText: trouble
+reviewed: yes
 ---
 【正解】4 trouble（take the trouble of ～ing で「わざわざ～する」）
 【和訳】

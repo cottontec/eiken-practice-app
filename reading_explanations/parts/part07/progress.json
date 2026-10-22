@@ -39,8 +39,8 @@
       "batchId": "2-2013-2",
       "target": 50,
       "written": 50,
-      "contentReviewed": 0,
-      "status": "complete_unreviewed",
+      "contentReviewed": 50,
+      "status": "complete_reviewed",
       "blank": 0,
       "issues": 0,
       "checkErrors": 0,
@@ -76,5 +76,5 @@
       "status": "not_started"
     }
   ],
-  "updatedAt": "2026-10-22T05:24:25+00:00"
+  "updatedAt": "2026-10-22T05:25:16+00:00"
 }

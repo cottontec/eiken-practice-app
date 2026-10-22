@@ -1,6 +1,7 @@
 ---
 choices: habits | spaces | hours | contracts
 answerText: habits
+reviewed: yes
 ---
 【正解】1 habits（習慣、くせ）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: beneficial | simple | dramatic | temporary
 answerText: dramatic
+reviewed: yes
 ---
 【正解】3 dramatic（劇的な、大きな）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: left and right | back and forth | side to side | front to back
 answerText: back and forth
+reviewed: yes
 ---
 【正解】2 back and forth（行ったり来たり、往復して）
 【和訳】

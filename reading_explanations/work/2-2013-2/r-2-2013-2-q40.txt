@@ -1,6 +1,7 @@
 ---
 choices: The system might make it difficult for drivers to concentrate. | The system might provide inaccurate driving information. | The system does not give warnings when cars are stopped. | The system has not been tested by the U.S. government.
 answerText: The system might make it difficult for drivers to concentrate.
+reviewed: yes
 ---
 【正解】1 The system might make it difficult for drivers to concentrate.（そのシステムによって、運転者が集中するのが難しくなるかもしれない。）
 【和訳】

@@ -1,0 +1,21 @@
+---
+choices: person | be | the | to | last
+answerText: person
+order: 2 3 5 1 4
+---
+【正解】1 person（この問題の4番目）
+【完成文】
+Are you kidding? Mark is so honest. He'd ( be the last person to ) lie about something like that.
+並べ方：2 be → 3 the → 5 last → 1 person → 4 to（2番目は3、4番目は1）
+【和訳】
+A：マークは、病気だから今日は仕事に来ないと言っていたよ。でも、本当のことを言っているのかどうか、確信が持てないな。
+B：冗談でしょう？マークはとても正直だよ。そんなことでうそをつくような人では決してないよ。
+【考え方】
+4番目を決めるために、空所の終わりから考えてみます。空所のすぐあとには lie（うそをつく）という動詞の元の形があります。選択肢の中で、動詞の元の形の前に置けるのは to です。to lie で「うそをつく（ための）」となるので、5番目は 4 to だと分かります。
+では、to lie の前には何がくるでしょうか。「うそをつく人」と言いたいので、名詞の 1 person を置きます。さらに person の前に the last を置くと、the last person to lie（うそをつく最後の人＝決してうそをつかない人）という決まった言い方になります。
+最後に、空所の前の He'd（He would）のあとには動詞の元の形がくるので、先頭に 2 be を置きます。
+並べると be → the → last → person → to となり、4番目は1 person です。Bは「マークはとても正直だ」と言っているので、「そんなことでうそをつくような人では決してない」という意味の完成文は、話の流れとも合います。
+まちがえやすいのは、be the person to last のように last を最後に置く並べ方です。これでは to last（続くための）となってしまい、あとの lie とつながらず、文が成り立ちません。last は the と person の間に置いて the last person とします。
+【覚えるポイント】
+・the last person to ～：「最も～しそうにない人」。the last ～ to … で「最も…しそうにない～」という意味になります。
+・to ＋ 動詞の元の形：ここでは前の名詞 person を説明して「～する（人）」という意味を表しています。

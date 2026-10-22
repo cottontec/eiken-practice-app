@@ -1,6 +1,7 @@
 ---
 choices: It says it can replace all of Earth's rare metals within the next 60 years. | It says it will be able to begin mining asteroids within the next 20 years. | It will buy used telescopes from government space agencies. | It can pay for its costs by finding billionaires to help the company.
 answerText: It says it will be able to begin mining asteroids within the next 20 years.
+reviewed: yes
 ---
 【正解】2 It says it will be able to begin mining asteroids within the next 20 years.（今後20年以内に小惑星の採掘を始められるだろうと言っている。）
 【和訳】

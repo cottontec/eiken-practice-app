@@ -1,6 +1,7 @@
 ---
 choices: uses radio signals to find cars that have been stolen by criminals. | requests information from drivers in different areas of the country. | will keep all cars at least 300 meters away from each other. | sends and receives signals to tell drivers where other cars are.
 answerText: sends and receives signals to tell drivers where other cars are.
+reviewed: yes
 ---
 【正解】4 sends and receives signals to tell drivers where other cars are.（ほかの車がどこにいるかを運転者に知らせるために、信号を送ったり受け取ったりする。）
 【和訳】

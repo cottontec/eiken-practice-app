@@ -1,0 +1,20 @@
+---
+choices: which | that | if | for
+answerText: that
+---
+【正解】2 that（～という（うわさ））
+【和訳】
+A：シャロン、あなたが転校するといううわさを聞いたよ。
+B：そのとおりだよ。次の秋から、ウェイバリー・カレッジに通うことになっているんだ。
+（選択肢の意味）1 which：（関係代名詞）～するところの　2 that：～という　3 if：もし～なら、～かどうか　4 for：～のために、～に向けて
+【考え方】
+Aの I heard a rumor (　) you're going to change schools. に注目します。rumor は「うわさ」、change schools は「転校する」です。
+空所のあとの you're going to change schools（あなたは転校する予定だ）は、主語も動詞もそろっていて、足りない部分のない文です。この文が、前の a rumor（うわさ）の中身を説明していると考えると、「あなたが転校するといううわさ」となります。
+このように、名詞のあとに that ＋ 文 を続けて「～という（名詞）」と中身を説明するときは that を使います。a rumor that ～ で「～といううわさ」です。Bが That's right.（そのとおり）と答え、次の秋から別の学校に通うと言っているので、話もつながります。正解は2です。
+【ほかの選択肢】
+1 which は関係代名詞（前の名詞に説明を付け足す語）です。which のあとには、主語や目的語が1つ欠けた文が続きます。you're going to change schools には欠けている部分がないので、which は入りません。
+3 if は「もし～なら」「～かどうか」です。a rumor if you're going to ～ では「うわさの中身」を表すことはできず、文が成り立ちません。
+4 for は「～のために」などの意味の前置詞で、ここでは a rumor と you're going to change schools をつなぐ働きをしません。
+【覚えるポイント】
+・a rumor that ～：「～といううわさ」。the news that ～（～という知らせ）、the fact that ～（～という事実）も同じ形です。
+・change schools：「転校する」。school が複数の形になる点に注意します。

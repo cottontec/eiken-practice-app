@@ -1,6 +1,7 @@
 ---
 choices: series | means | cast | trick
 answerText: means
+reviewed: yes
 ---
 【正解】2 means（手段、方法）
 【和訳】

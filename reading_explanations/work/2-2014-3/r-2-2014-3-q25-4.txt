@@ -8,7 +8,7 @@ order: 4 3 5 2 1
 It was ( only then that she remembered ) that it was a holiday and she did not have to work.
 並べ方：4 only → 3 then → 5 that → 2 she → 1 remembered（2番目は3、4番目は2）
 【和訳】
-昨日の朝、ジルは早起きして仕事に出かけました。会社に着くと、明かりはすべて消えていて、だれもいませんでした。そのときになって初めて、彼女はその日が祝日で、働かなくてよいことを思い出しました。
+昨日の朝、ジルは早起きして仕事に出かけました。職場に着くと、明かりはすべて消えていて、だれもいませんでした。そのときになって初めて、彼女はその日が祝日で、働かなくてよいことを思い出しました。
 【考え方】
 この文には that が2つ出てきます。1つは選択肢の 5 that、もう1つは空所のあとの that it was a holiday … です。それぞれの働きを分けて考えます。
 空所のあとの that it was a holiday and she did not have to work は「その日が祝日で、働かなくてよいということ」という意味のまとまりで、remembered（思い出した）の目的語（「～を」にあたる部分）になります。そこで、remembered は空所の最後に置き、空所のあとの that とつなげます。

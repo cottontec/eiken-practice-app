@@ -2,6 +2,7 @@
 choices: no | you | busy | matter | how
 answerText: busy
 order: 1 4 5 3 2
+reviewed: yes
 ---
 【正解】3 busy（この問題の4番目）
 【完成文】

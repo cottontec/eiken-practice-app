@@ -1,6 +1,7 @@
 ---
 choices: ran over | swept up | turned away | faded out
 answerText: faded out
+reviewed: yes
 ---
 【正解】4 faded out（だんだん小さくなって消えた）
 【和訳】

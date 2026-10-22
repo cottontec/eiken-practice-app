@@ -1,6 +1,7 @@
 ---
 choices: through | off | up | out
 answerText: out
+reviewed: yes
 ---
 【正解】4 out（try out ～ で「～を試してみる」）
 【和訳】

@@ -1,0 +1,21 @@
+---
+choices: person | be | the | to | last
+answerText: the
+order: 2 3 5 1 4
+---
+【正解】3 the（この問題の2番目）
+【完成文】
+Are you kidding? Mark is so honest. He'd ( be the last person to ) lie about something like that.
+並べ方：2 be → 3 the → 5 last → 1 person → 4 to（2番目は3、4番目は1）
+【和訳】
+A：マークは、病気だから今日は仕事に来ないと言っていたよ。でも、本当のことを言っているのかどうか、確信が持てないな。
+B：冗談でしょう？マークはとても正直だよ。そんなことでうそをつくような人では決してないよ。
+【考え方】
+まず会話の流れを確かめます。Aは、マークが病気で休むと言ったことについて、本当かどうか疑っています。Bは Are you kidding?（冗談でしょう？）と言い、Mark is so honest.（マークはとても正直だ）と続けています。ですから空所には、「マークはうそをつくような人ではない」という意味の内容が入ると考えられます。
+空所の前の He'd は He would の短い形です。would のあとには動詞の元の形がくるので、まず 2 be を置きます。
+次に、残りの the、last、person、to で、the last person to ～ という決まった言い方を作ります。直訳すると「～する最後の人」で、「最も～しそうにない人、決して～しない人」という意味になります。the のあとに last と person を続けて the last person とし、最後に to を置くと、空所のあとの lie（うそをつく）とつながって to lie（うそをつく）になります。
+完成文は He'd be the last person to lie about something like that.（彼は、そんなことでうそをつくような人では決してない）です。2番目は3 the です。
+まちがえやすいのは、last を would のすぐあとに置いて He'd last be the person to lie とする並べ方です。これでは「最後には、うそをつく人になるだろう」のような意味になり、マークは正直だというBの言葉と反対になってしまいます。
+【覚えるポイント】
+・the last person to ～：「最も～しそうにない人、決して～しない人」。
+・He'd は He would（または He had）の短い形です。ここではあとに動詞の元の形 be が続くので He would です。

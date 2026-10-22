@@ -1,6 +1,7 @@
 ---
 choices: ideal | curious | rude | exact
 answerText: rude
+reviewed: yes
 ---
 【正解】3 rude（失礼な、無礼な）
 【和訳】

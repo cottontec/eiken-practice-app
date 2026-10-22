@@ -1,0 +1,24 @@
+---
+choices: vitamins | shortages | cost | preparation
+answerText: preparation
+---
+【正解】4 preparation（調理、準備）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 vitamins：ビタミン
+2 shortages：不足
+3 cost：費用、値段
+4 preparation：（食べ物の）調理、準備
+【考え方】
+空所の文は This term was invented in the 1980s by Nicholas Kurti, a physicist, and Hervé This, a chemist, to describe the scientific study of the (　) of food.（この言葉は1980年代に、物理学者のニコラス・クルティと化学者のエルヴェ・ティスによって、食べ物の（　）についての科学的な研究を表すために作られた）です。This term（この言葉）は、直前の “molecular gastronomy”（分子ガストロノミー）を指しています。to describe ～ は「～を表すために」という目的を表しています。
+では、分子ガストロノミーは食べ物の何を研究するのでしょうか。1文前に、これは a new approach to cooking（料理への新しい取り組み方）だと書かれています。さらに第2段落では、これまでの科学者は主に食べ物が健康にどう影響するかを研究してきて、how cooking methods affect the flavor and other qualities of food（調理の方法が食べ物の風味やほかの性質にどう影響するか）は研究してこなかった、と説明しています。そのあとも、the methods used to cook them（材料を調理する方法）や、野菜を調理するときに塩を入れるという思い込みの研究の話が続きます。
+つまり、分子ガストロノミーは「料理の作り方」を科学的に研究するものです。preparation は「（食べ物の）調理、準備」という意味なので、the scientific study of the preparation of food で「食べ物の調理についての科学的な研究」となり、本文の流れに合います。正解は4です。
+【ほかの選択肢】
+1 vitamins（ビタミン）を入れると「食べ物のビタミンについての科学的な研究」となります。ビタミンは健康に関わる話ですが、第2段落によると、健康への影響は「これまでの科学者」が主に研究してきたことで、分子ガストロノミーが目を向けているのは調理の方法です。
+2 shortages（不足）を入れると「食べ物の不足についての科学的な研究」となります。本文には食料が足りないという話は出てこず、料理への取り組み方という説明とも合いません。
+3 cost（費用）を入れると「食べ物の費用についての科学的な研究」となります。本文には食べ物の値段の話は出てこないので、合いません。
+【覚えるポイント】
+・the preparation of food：「食べ物の調理」。動詞は prepare（準備する、調理する）。
+・an approach to ～：「～への取り組み方、～のやり方」。

@@ -1,6 +1,7 @@
 ---
 choices: The amount of rare metals that one asteroid contains could be very large. | It will no longer have to pay for space travel in a few years. | Scientists have discovered a way to make the quality of the metals they find better. | Its plan seems so unrealistic to most people that no one else will try it first.
 answerText: The amount of rare metals that one asteroid contains could be very large.
+reviewed: yes
 ---
 【正解】1 The amount of rare metals that one asteroid contains could be very large.（1つの小惑星にふくまれる希少な金属の量が、非常に多い可能性がある。）
 【和訳】

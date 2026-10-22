@@ -30,6 +30,7 @@
     "stats": {
       "target": 50,
       "written": 50,
+      "reviewed": 50,
       "selfsolveMismatch": 2
     },
     "errors": [],

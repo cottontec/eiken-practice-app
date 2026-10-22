@@ -1,6 +1,7 @@
 ---
 choices: Therefore | Otherwise | If so | In fact
 answerText: In fact
+reviewed: yes
 ---
 【正解】4 In fact（実は、実際）
 【和訳】

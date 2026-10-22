@@ -1,6 +1,7 @@
 ---
 choices: circumstances | bargains | attractions | policies
 answerText: circumstances
+reviewed: yes
 ---
 【正解】1 circumstances（状況、事情）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: excuse | answer | reward | reason
 answerText: answer
+reviewed: yes
 ---
 【正解】2 answer（答え、解決策）
 【和訳】

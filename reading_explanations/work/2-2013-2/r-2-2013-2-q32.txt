@@ -1,6 +1,7 @@
 ---
 choices: repairing | ignoring | predicting | publishing
 answerText: predicting
+reviewed: yes
 ---
 【正解】3 predicting（～を予測すること）
 【和訳】

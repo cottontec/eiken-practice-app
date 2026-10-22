@@ -2,6 +2,7 @@
 choices: to study | rather | decided | than | economics
 answerText: to study
 order: 3 1 5 2 4
+reviewed: yes
 ---
 【正解】1 to study（この問題の2番目）
 【完成文】

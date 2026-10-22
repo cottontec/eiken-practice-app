@@ -1,6 +1,7 @@
 ---
 choices: deny | denying | will deny | to deny
 answerText: denying
+reviewed: yes
 ---
 【正解】2 denying（There is no ～ing で「～することはできない」）
 【和訳】

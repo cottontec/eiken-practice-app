@@ -1,6 +1,7 @@
 ---
 choices: harm | convince | resemble | obey
 answerText: harm
+reviewed: yes
 ---
 【正解】1 harm（～に害を与える、～を傷つける）
 【和訳】

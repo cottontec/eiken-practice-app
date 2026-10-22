@@ -1,6 +1,7 @@
 ---
 choices: polished | owed | sighed | melted
 answerText: sighed
+reviewed: yes
 ---
 【正解】3 sighed（ため息をついた）
 【和訳】

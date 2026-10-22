@@ -1,6 +1,7 @@
 ---
 choices: adapted to | spread out | put off | exchanged for
 answerText: adapted to
+reviewed: yes
 ---
 【正解】1 adapted to（～に慣れた、～に順応した）
 【和訳】

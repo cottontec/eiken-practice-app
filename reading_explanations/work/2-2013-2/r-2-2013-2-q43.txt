@@ -1,6 +1,7 @@
 ---
 choices: By paying countries with spacecraft to send people to asteroids. | By sending robot spacecraft to visit asteroids. | By asking governments for data on asteroids. | By breaking up asteroids using special telescopes placed in space.
 answerText: By sending robot spacecraft to visit asteroids.
+reviewed: yes
 ---
 【正解】2 By sending robot spacecraft to visit asteroids.（小惑星を訪れるために、ロボット宇宙船を送ることによって。）
 【和訳】

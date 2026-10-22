@@ -1,6 +1,7 @@
 ---
 choices: locates | encounters | recognizes | dominates
 answerText: dominates
+reviewed: yes
 ---
 【正解】4 dominates（～を支配する、～の中心を占める）
 【和訳】

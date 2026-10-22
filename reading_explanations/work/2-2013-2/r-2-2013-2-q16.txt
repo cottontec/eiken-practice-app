@@ -1,6 +1,7 @@
 ---
 choices: take | bring | start | come
 answerText: come
+reviewed: yes
 ---
 【正解】4 come（come of age で「成人する、大人になる」）
 【和訳】

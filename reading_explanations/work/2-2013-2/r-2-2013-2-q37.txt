@@ -1,6 +1,7 @@
 ---
 choices: how to stop people from dying when they have been in car accidents. | why the majority of car accidents happen. | what the most common serious injuries caused by car accidents are. | when car accidents are most likely to occur.
 answerText: how to stop people from dying when they have been in car accidents.
+reviewed: yes
 ---
 【正解】1 how to stop people from dying when they have been in car accidents.（自動車事故にあったときに、人々が死なないようにする方法。）
 【和訳】

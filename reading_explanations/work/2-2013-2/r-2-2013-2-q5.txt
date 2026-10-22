@@ -1,10 +1,11 @@
 ---
 choices: hesitantly | colorfully | physically | legally
 answerText: physically
+reviewed: yes
 ---
 【正解】3 physically（体が、肉体的に）
 【和訳】
-A：アン、最近よく眠れていないんだ。
+A：アン、最近よく眠れていないよ。
 B：昼間にもっと運動をするようにしてみるといいと思うよ。私はいつも、体が疲れているときのほうがよく眠れるよ。
 （選択肢の意味）1 ためらいながら　2 色あざやかに　3 体が、肉体的に　4 法律上、合法的に
 【考え方】

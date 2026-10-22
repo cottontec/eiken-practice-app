@@ -1,6 +1,7 @@
 ---
 choices: Return to his home in the morning when it is safe to do so. | Seal up all of the holes in his kitchen before Maria Lane arrives. | Spend the night somewhere else after his house is sprayed. | Stay out of his kitchen for four hours to avoid ants.
 answerText: Spend the night somewhere else after his house is sprayed.
+reviewed: yes
 ---
 【正解】3 Spend the night somewhere else after his house is sprayed.（家に薬剤がまかれたあと、どこか別の場所で夜を過ごす。）
 【和訳】

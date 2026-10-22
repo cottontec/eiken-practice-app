@@ -1,6 +1,7 @@
 ---
 choices: It tells drivers where to turn if there is too much traffic caused by an accident. | It gives information to drivers about cars that they are not able to see. | It uses a special camera to help drivers see things that are around corners. | It shows drivers the locations of stop signs on the street where they are driving.
 answerText: It gives information to drivers about cars that they are not able to see.
+reviewed: yes
 ---
 【正解】2 It gives information to drivers about cars that they are not able to see.（運転者が見ることのできない車について、運転者に情報を伝える。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: or | if | by | at
 answerText: or
+reviewed: yes
 ---
 【正解】1 or（つまり、言いかえると）
 【和訳】

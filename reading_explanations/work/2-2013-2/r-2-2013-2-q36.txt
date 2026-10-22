@@ -1,6 +1,7 @@
 ---
 choices: have to pay the full price of $240 for the work done at his home. | get a coupon for 10 percent off that he can use in the future. | tell his friends about the company so that he can receive a discount. | save money because he made his appointment over the Internet.
 answerText: save money because he made his appointment over the Internet.
+reviewed: yes
 ---
 【正解】4 save money because he made his appointment over the Internet.（インターネットで予約したので、お金を節約できる。）
 【和訳】

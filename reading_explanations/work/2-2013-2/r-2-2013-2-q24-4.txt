@@ -2,6 +2,7 @@
 choices: her | seems to | train | missed | have
 answerText: her
 order: 2 5 4 1 3
+reviewed: yes
 ---
 【正解】1 her（この問題の4番目）
 【完成文】

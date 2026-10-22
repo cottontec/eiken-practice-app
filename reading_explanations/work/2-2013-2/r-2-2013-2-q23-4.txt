@@ -2,6 +2,7 @@
 choices: from | home | he | got | minute
 answerText: home
 order: 5 3 4 2 1
+reviewed: yes
 ---
 【正解】2 home（この問題の4番目）
 【完成文】

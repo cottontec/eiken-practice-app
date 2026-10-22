@@ -1,6 +1,7 @@
 ---
 choices: the metals are deep inside the asteroids and difficult to reach. | the cost of sending rockets to find and remove the metals is too high. | the asteroids are hard to land on because they are always moving. | the number of people needed to mine an asteroid cannot fit on a rocket.
 answerText: the cost of sending rockets to find and remove the metals is too high.
+reviewed: yes
 ---
 【正解】2 the cost of sending rockets to find and remove the metals is too high.（金属を見つけて取り出すためにロケットを送る費用が高すぎること。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: estate | income | context | monitor
 answerText: context
+reviewed: yes
 ---
 【正解】3 context（文脈、前後関係）
 【和訳】

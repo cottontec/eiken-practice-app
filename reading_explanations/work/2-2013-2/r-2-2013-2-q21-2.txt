@@ -3,6 +3,7 @@ choices: wife | anything | his | but | is
 answerText: wife
 order: 3 1 5 2 4
 selfSolveNote: 当初 4 3 1 5 2（But his wife is anything）と考えたが、anything shy では文にならず、anything but ～（決して～ではない）を使った His wife is anything but shy が正しいため、正式解答1が正しい
+reviewed: yes
 ---
 【正解】1 wife（この問題の2番目）
 【完成文】

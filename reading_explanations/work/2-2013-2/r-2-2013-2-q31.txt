@@ -1,6 +1,7 @@
 ---
 choices: limited | generous | typical | divided
 answerText: limited
+reviewed: yes
 ---
 【正解】1 limited（限られた、少ない）
 【和訳】

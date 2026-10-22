@@ -1,6 +1,7 @@
 ---
 choices: source | minority | harvest | connection
 answerText: minority
+reviewed: yes
 ---
 【正解】2 minority（少数、少数派）
 【和訳】

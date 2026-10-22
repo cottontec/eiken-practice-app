@@ -1,6 +1,7 @@
 ---
 choices: would be repairing | was repairing | had been repaired | was being repaired
 answerText: was being repaired
+reviewed: yes
 ---
 【正解】4 was being repaired（修理されているところだった）
 【和訳】
