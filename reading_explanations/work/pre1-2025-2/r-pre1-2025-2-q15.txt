@@ -1,6 +1,7 @@
 ---
 choices: take in | even out | figure on | make do
 answerText: figure on
+reviewed: yes
 ---
 【正解】3 figure on（～を当てにする、～を見込む）
 【和訳】

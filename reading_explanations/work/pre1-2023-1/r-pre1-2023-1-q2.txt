@@ -1,6 +1,7 @@
 ---
 choices: cramming | detaining | swelling | embracing
 answerText: cramming
+reviewed: yes
 ---
 【正解】1 cramming（詰めこみ勉強をすること）
 【和訳】

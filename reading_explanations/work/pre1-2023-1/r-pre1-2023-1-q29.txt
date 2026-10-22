@@ -1,6 +1,7 @@
 ---
 choices: were likely hunted by dinosaurs | relied on eggs for food | did not lay eggs | may not have existed with dinosaurs
 answerText: did not lay eggs
+reviewed: yes
 ---
 【正解】3 did not lay eggs（卵を産まなかった）
 【和訳】

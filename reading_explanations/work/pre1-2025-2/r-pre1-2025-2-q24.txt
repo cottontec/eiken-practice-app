@@ -1,6 +1,7 @@
 ---
 choices: time for creativity is over | situation gets even worse | profits increase greatly | audiences tend to reject them
 answerText: time for creativity is over
+reviewed: yes
 ---
 【正解】1 time for creativity is over（創造性を発揮する時期は終わりだ）
 【和訳】

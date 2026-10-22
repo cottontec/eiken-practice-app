@@ -1,6 +1,7 @@
 ---
 choices: Helping children solve their own problems can promote the development of the part of the brain that controls behavior. | Since the brains of younger children function in a different way to those of older children, different methods of dealing with behavioral issues are necessary. | The region of the brain known as the prefrontal cortex may be less important in controlling children’s behavior than some scientists believe it is. | Bad behavior does not only have a negative effect on children’s academic performance but also permanently prevents the normal development of their brains.
 answerText: Helping children solve their own problems can promote the development of the part of the brain that controls behavior.
+reviewed: yes
 ---
 【正解】1 Helping children solve their own problems can promote the development of the part of the brain that controls behavior.（子どもが自分の問題を解決するのを手助けすることは、行動をコントロールする脳の部分の発達を促すことがある。）
 【和訳】

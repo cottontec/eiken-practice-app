@@ -1,6 +1,7 @@
 ---
 choices: massive | amusing | graceful | hesitant
 answerText: massive
+reviewed: yes
 ---
 【正解】1 massive（非常に大きい、巨大な）
 【和訳】

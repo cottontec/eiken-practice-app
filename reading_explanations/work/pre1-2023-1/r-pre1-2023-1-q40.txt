@@ -1,6 +1,7 @@
 ---
 choices: it became clear that the Pope considered it a priority to recognize Scotland’s independence as a nation. | the Pope attempted to encourage peace between England and Scotland despite not acknowledging either Robert or his country. | the promise of peace between England and Scotland was endangered by Scotland’s attempt to get help from the Pope. | Scotland was able to achieve enough international recognition to get the Pope to admit that Robert was the country’s true king.
 answerText: the Pope attempted to encourage peace between England and Scotland despite not acknowledging either Robert or his country.
+reviewed: yes
 ---
 【正解】2 the Pope attempted to encourage peace between England and Scotland despite not acknowledging either Robert or his country.（教皇は、ロバートもその国も認めなかったにもかかわらず、イングランドとスコットランドの間の平和をうながそうとした。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: It is only likely to be effective when it is used together with rewards in order to reduce its negative effects. | Though it may succeed in producing better behavior in the short term, it can actually be harmful in the long term. | There are various new types of punishment that are far more effective than physical punishment. | Using some form of punishment is necessary for forcing students to obey teachers and respect their classmates.
 answerText: Though it may succeed in producing better behavior in the short term, it can actually be harmful in the long term.
+reviewed: yes
 ---
 【正解】2 Though it may succeed in producing better behavior in the short term, it can actually be harmful in the long term.（罰は、短い期間ではよりよい行動を生み出すのに成功するかもしれないが、長い期間では実は害になることがある。）
 【和訳】

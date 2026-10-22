@@ -1,6 +1,7 @@
 ---
 choices: commendable | impressionable | audible | eligible
 answerText: audible
+reviewed: yes
 ---
 【正解】3 audible（〔耳に〕聞こえる）
 【和訳】

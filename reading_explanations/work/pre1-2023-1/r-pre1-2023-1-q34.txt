@@ -1,6 +1,7 @@
 ---
 choices: Farmers learned that it was relatively easy to combine several types of chickens, which encouraged them to breed new varieties. | Although the number of small chicken farms increased across America, many of these were often poorly run and had cheap facilities. | It started a move toward keeping chickens in conditions that increased the birds’ suffering and made them less healthy. | Farmers realized that improving their farming methods could help them to raise chickens that produced more and better-tasting meat.
 answerText: It started a move toward keeping chickens in conditions that increased the birds’ suffering and made them less healthy.
+reviewed: yes
 ---
 【正解】3 It started a move toward keeping chickens in conditions that increased the birds’ suffering and made them less healthy.（それ（コンテスト）は、ニワトリの苦しみを増やし、より不健康にするような環境でニワトリを飼う方向への動きを始めた。）
 【和訳】

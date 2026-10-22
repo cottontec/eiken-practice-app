@@ -1,6 +1,7 @@
 ---
 choices: clarify | implement | tolerate | humiliate
 answerText: tolerate
+reviewed: yes
 ---
 【正解】3 tolerate（大目に見る、許す）
 【和訳】

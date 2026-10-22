@@ -1,6 +1,7 @@
 ---
 choices: forceful | merciful | futile | tranquil
 answerText: forceful
+reviewed: yes
 ---
 【正解】1 forceful（力強い、説得力のある）
 【和訳】

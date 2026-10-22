@@ -1,6 +1,7 @@
 ---
 choices: virtue | fatigue | oversight | perception
 answerText: fatigue
+reviewed: yes
 ---
 【正解】2 fatigue（疲労）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: communicating clearly would be difficult | other people did not share this desire | their family members would not approve | their privacy should come first
 answerText: other people did not share this desire
+reviewed: yes
 ---
 【正解】2 other people did not share this desire（ほかの人々はこの願いを共有していない）
 【和訳】

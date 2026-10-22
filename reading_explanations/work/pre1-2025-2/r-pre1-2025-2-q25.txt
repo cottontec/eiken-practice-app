@@ -1,6 +1,7 @@
 ---
 choices: Given the physical demands of space travel, it was understandable that men rather than women were being sent into space. | The missions were considered too important to rely on the calculations of human computers. | The astronauts at the time felt the media should have given women working on the missions more credit. | The missions could only be effectively completed thanks to the precision of the calculations made by human computers.
 answerText: The missions could only be effectively completed thanks to the precision of the calculations made by human computers.
+reviewed: yes
 ---
 【正解】4 The missions could only be effectively completed thanks to the precision of the calculations made by human computers.（宇宙計画は、人間コンピューターが行った計算の正確さのおかげで、はじめてうまく成しとげることができた。）
 【和訳】

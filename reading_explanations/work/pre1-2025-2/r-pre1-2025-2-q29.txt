@@ -1,6 +1,7 @@
 ---
 choices: Animals did not self-medicate because consuming unknown substances went against their natural instincts. | The kinds of plants that animals used for medicinal purposes changed from one generation to the next. | Animals with low intelligence could not self-medicate because they lacked the ability to learn how to do so. | All animals were born with the ability to recognize natural substances that have medicinal properties.
 answerText: Animals with low intelligence could not self-medicate because they lacked the ability to learn how to do so.
+reviewed: yes
 ---
 【正解】3 Animals with low intelligence could not self-medicate because they lacked the ability to learn how to do so.（知能の低い動物は、自己治療のしかたを学ぶ能力が欠けていたので、自己治療ができなかった。）
 【和訳】

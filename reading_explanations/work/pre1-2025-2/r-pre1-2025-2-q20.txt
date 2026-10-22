@@ -1,6 +1,7 @@
 ---
 choices: made little sense | remains a mystery | differed between schools | was more complex
 answerText: was more complex
+reviewed: yes
 ---
 【正解】4 was more complex（もっと複雑だった）
 【和訳】

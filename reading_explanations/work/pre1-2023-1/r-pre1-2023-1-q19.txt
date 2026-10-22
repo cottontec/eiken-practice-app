@@ -1,6 +1,7 @@
 ---
 choices: reckless | gaping | dreary | uniform
 answerText: uniform
+reviewed: yes
 ---
 【正解】4 uniform（均一な、そろった）
 【和訳】

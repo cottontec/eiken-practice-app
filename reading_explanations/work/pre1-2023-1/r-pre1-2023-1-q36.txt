@@ -1,6 +1,7 @@
 ---
 choices: It can teach them the advantages of hard work and make them better at focusing on their academic goals. | It causes them to want material things and makes them less aware of the need to behave in ways that are pleasing to other people. | It can prevent them from developing important skills that would be beneficial to them later in life. | It helps them to realize the importance of deciding their own goals rather than just doing what their teachers tell them to do.
 answerText: It can prevent them from developing important skills that would be beneficial to them later in life.
+reviewed: yes
 ---
 【正解】3 It can prevent them from developing important skills that would be beneficial to them later in life.（あとの人生で自分のためになる大切な技能を身につけるのを、妨げることがある。）
 【和訳】

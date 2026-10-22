@@ -1,6 +1,7 @@
 ---
 choices: aggression | substitute | relegation | batch
 answerText: batch
+reviewed: yes
 ---
 【正解】4 batch（〔一度に作る〕一回分、ひとまとまり）
 【和訳】

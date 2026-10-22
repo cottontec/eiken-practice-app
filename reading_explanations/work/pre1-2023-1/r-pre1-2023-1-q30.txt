@@ -1,6 +1,7 @@
 ---
 choices: Likewise | On the other hand | As a result | For example
 answerText: On the other hand
+reviewed: yes
 ---
 【正解】2 On the other hand（一方で）
 【和訳】

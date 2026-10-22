@@ -1,6 +1,7 @@
 ---
 choices: indifferently | appealingly | abruptly | timidly
 answerText: abruptly
+reviewed: yes
 ---
 【正解】3 abruptly（突然、不意に）
 【和訳】

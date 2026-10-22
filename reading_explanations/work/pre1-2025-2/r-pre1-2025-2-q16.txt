@@ -1,6 +1,7 @@
 ---
 choices: hold out | shoot down | get over | snap up
 answerText: shoot down
+reviewed: yes
 ---
 【正解】2 shoot down（撃ち落とす）
 【和訳】

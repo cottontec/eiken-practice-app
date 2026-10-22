@@ -1,6 +1,7 @@
 ---
 choices: topics had made the subjects nervous | subjects’ ratings did not always match | topic choices had been too varied | subjects’ expectations had been wrong
 answerText: subjects’ expectations had been wrong
+reviewed: yes
 ---
 【正解】4 subjects’ expectations had been wrong（被験者の予想がまちがっていた）
 【和訳】

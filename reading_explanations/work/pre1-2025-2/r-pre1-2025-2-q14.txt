@@ -1,6 +1,7 @@
 ---
 choices: dehydrated | evoked | acquired | posed
 answerText: evoked
+reviewed: yes
 ---
 【正解】2 evoked（〔感情などを〕呼び起こした）
 【和訳】

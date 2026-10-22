@@ -1,6 +1,7 @@
 ---
 choices: slaughtered | administered | ejected | conceived
 answerText: ejected
+reviewed: yes
 ---
 【正解】3 ejected（追い出した、退場させた）
 【和訳】

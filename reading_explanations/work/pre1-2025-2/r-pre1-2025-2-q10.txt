@@ -1,6 +1,7 @@
 ---
 choices: alleged | forthcoming | blissful | fainthearted
 answerText: forthcoming
+reviewed: yes
 ---
 【正解】2 forthcoming（〔情報などを〕進んで話す、率直な）
 【和訳】

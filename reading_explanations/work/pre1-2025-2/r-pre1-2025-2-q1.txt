@@ -1,6 +1,7 @@
 ---
 choices: stocky | cheery | ambitious | remote
 answerText: remote
+reviewed: yes
 ---
 【正解】4 remote（遠く離れた、人里離れた）
 【和訳】

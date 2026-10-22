@@ -1,6 +1,7 @@
 ---
 choices: flared | digested | professed | tumbled
 answerText: flared
+reviewed: yes
 ---
 【正解】1 flared（（怒りなどが）燃え上がった）
 【和訳】

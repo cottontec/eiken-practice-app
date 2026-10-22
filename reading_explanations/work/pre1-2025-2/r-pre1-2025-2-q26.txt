@@ -1,6 +1,7 @@
 ---
 choices: The view that computation work was for women stemmed partly from a misunderstanding of the nature of the work. | Male mathematicians still played a vital role in the interwar period as the women employed sometimes lacked the necessary math skills. | Reducing costs by paying low wages to women ultimately had a negative effect on overall data reliability. | The two world wars brought about significant societal changes that benefited women much more than men.
 answerText: The view that computation work was for women stemmed partly from a misunderstanding of the nature of the work.
+reviewed: yes
 ---
 【正解】1 The view that computation work was for women stemmed partly from a misunderstanding of the nature of the work.（計算の仕事は女性のためのものだという見方は、一つには、その仕事の性質についての誤解から生まれた。）
 【和訳】

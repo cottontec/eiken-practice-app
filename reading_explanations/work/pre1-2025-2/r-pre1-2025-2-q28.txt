@@ -1,6 +1,7 @@
 ---
 choices: Most of the reported cases of animals using natural substances for medicinal purposes were false. | Most chemical substances produced by plants were harmful to animals even when only consumed in small amounts. | Chimpanzees supplemented their diets with leaves when they could not get adequate nutrition from their usual food sources. | Chimpanzees deliberately ate the leaves of certain plants when they were suffering from parasitic infections.
 answerText: Chimpanzees deliberately ate the leaves of certain plants when they were suffering from parasitic infections.
+reviewed: yes
 ---
 【正解】4 Chimpanzees deliberately ate the leaves of certain plants when they were suffering from parasitic infections.（チンパンジーは、寄生虫の感染に苦しんでいるときに、ある種の植物の葉をわざと食べていた。）
 【和訳】

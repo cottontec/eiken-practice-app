@@ -1,6 +1,7 @@
 ---
 choices: pacified | restored | daunted | tackled
 answerText: daunted
+reviewed: yes
 ---
 【正解】3 daunted（おじけづかされた、ひるまされた）
 【和訳】

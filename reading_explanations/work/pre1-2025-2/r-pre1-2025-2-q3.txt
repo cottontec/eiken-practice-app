@@ -1,6 +1,7 @@
 ---
 choices: invaders | commuters | composers | installers
 answerText: commuters
+reviewed: yes
 ---
 【正解】2 commuters（通勤する人たち、通勤者）
 【和訳】

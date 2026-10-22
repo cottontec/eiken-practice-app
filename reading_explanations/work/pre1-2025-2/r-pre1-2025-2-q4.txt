@@ -1,6 +1,7 @@
 ---
 choices: commission | script | fragment | molecule
 answerText: commission
+reviewed: yes
 ---
 【正解】1 commission（歩合、手数料）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: produce a substance that can protect themselves and their colony from bacterial and fungal infections. | leave their colony when they are suffering from infectious diseases to prevent the disease from spreading. | use natural medication in a way that benefits their whole colony rather than just themselves. | have the ability to teach other members of their colony how to deal with bacterial and fungal infections.
 answerText: use natural medication in a way that benefits their whole colony rather than just themselves.
+reviewed: yes
 ---
 【正解】3 use natural medication in a way that benefits their whole colony rather than just themselves.（自分自身だけでなく、群れ全体のためになるやり方で、自然の薬を使う。）
 【和訳】

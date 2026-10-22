@@ -1,6 +1,7 @@
 ---
 choices: the focus of the Cold War began to turn away from conducting space-related missions. | it made efforts to address some of the inequities that certain human computers had experienced. | female supervisors were awarded additional compensation to make up for their historically low wages. | it realized that winning the space race would only be possible if it recruited some of the Soviet Union's human computers.
 answerText: it made efforts to address some of the inequities that certain human computers had experienced.
+reviewed: yes
 ---
 【正解】2 it made efforts to address some of the inequities that certain human computers had experienced.（NASAは、一部の人間コンピューターが受けてきた不公平のいくつかに取り組もうと努力した。）
 【和訳】

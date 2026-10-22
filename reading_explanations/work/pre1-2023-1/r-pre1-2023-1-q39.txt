@@ -1,6 +1,7 @@
 ---
 choices: Although he was a great military leader, his lack of political skills led him to negotiate a poor agreement with England. | The disagreements he had with his rivals about religion caused many Scottish people to stop supporting him. | The religious differences between Scotland and England made it likely that Scotland would be attacked again. | Because of the things he had done to gain power, Scotland could not get the support it needed to be safe from England.
 answerText: Because of the things he had done to gain power, Scotland could not get the support it needed to be safe from England.
+reviewed: yes
 ---
 【正解】4 Because of the things he had done to gain power, Scotland could not get the support it needed to be safe from England.（彼が権力を得るためにしてきたことのせいで、スコットランドは、イングランドから安全でいるために必要な支持を得られなかった。）
 【和訳】

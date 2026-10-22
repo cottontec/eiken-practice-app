@@ -1,6 +1,7 @@
 ---
 choices: Scotland was able to trick King Edward I into choosing John Balliol even though it was not in Edward’s interest to do so. | King Edward I began to question the loyalty of the Scottish nobles who had not supported John Balliol’s attempt to become king. | King Edward I attempted to use the situation to his advantage in order to increase his power over Scotland. | Scotland felt so threatened by France’s military power that diplomatic relations between the countries worsened.
 answerText: King Edward I attempted to use the situation to his advantage in order to increase his power over Scotland.
+reviewed: yes
 ---
 【正解】3 King Edward I attempted to use the situation to his advantage in order to increase his power over Scotland.（エドワード1世は、スコットランドに対する自分の力を強めるために、その状況を自分に有利になるよう利用しようとした。）
 【和訳】

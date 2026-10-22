@@ -1,6 +1,7 @@
 ---
 choices: tune up | touch on | tear down | free up
 answerText: tear down
+reviewed: yes
 ---
 【正解】3 tear down（〔建物を〕取り壊す）
 【和訳】

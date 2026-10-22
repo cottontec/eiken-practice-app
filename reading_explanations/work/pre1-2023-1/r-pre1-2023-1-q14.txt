@@ -1,6 +1,7 @@
 ---
 choices: forefront | lapse | doctrine | myth
 answerText: forefront
+reviewed: yes
 ---
 【正解】1 forefront（最前線、最先端）
 【和訳】

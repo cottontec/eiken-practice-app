@@ -1,6 +1,7 @@
 ---
 choices: tributes | protocols | reservoirs | portions
 answerText: protocols
+reviewed: yes
 ---
 【正解】2 protocols（（決められた）手順、規定）
 【和訳】

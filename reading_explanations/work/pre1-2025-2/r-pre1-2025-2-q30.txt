@@ -1,6 +1,7 @@
 ---
 choices: Consuming alcohol is damaging to their health but overall beneficial when they are infected by parasitic wasps. | The consumption of food containing alcohol weakens them and makes them more vulnerable to parasitic wasps. | They intentionally become infected by parasitic wasps in order to reduce the harmful effects of alcohol. | They have developed a strategy to prevent parasitic wasps from being able to lay eggs inside them.
 answerText: Consuming alcohol is damaging to their health but overall beneficial when they are infected by parasitic wasps.
+reviewed: yes
 ---
 【正解】1 Consuming alcohol is damaging to their health but overall beneficial when they are infected by parasitic wasps.（アルコールを体に取り入れることはショウジョウバエの健康に害をあたえるが、寄生バチに寄生されているときには、全体として見れば役に立つ。）
 【和訳】

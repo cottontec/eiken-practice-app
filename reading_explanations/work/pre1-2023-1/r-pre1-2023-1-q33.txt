@@ -1,6 +1,7 @@
 ---
 choices: other types of meat, such as pork and beef, were becoming more expensive, so the American people wanted a cheaper alternative. | most chicken farms were focused on egg production, which led to a need to create a chicken that was more suitable for producing meat. | a large number of chicken farms in America went out of business, which severely decreased the availability of chicken meat. | the American people were tired of eating the same type of eggs for so long, so producers wanted a different type of chicken.
 answerText: most chicken farms were focused on egg production, which led to a need to create a chicken that was more suitable for producing meat.
+reviewed: yes
 ---
 【正解】2 most chicken farms were focused on egg production, which led to a need to create a chicken that was more suitable for producing meat.（ほとんどの養鶏場が卵の生産に重点を置いていたため、肉をとるのにより適したニワトリを作り出す必要が生じた。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: shrug off | sit out | run against | hold up
 answerText: hold up
+reviewed: yes
 ---
 【正解】4 hold up（（武器でおどして）強盗する）
 【和訳】

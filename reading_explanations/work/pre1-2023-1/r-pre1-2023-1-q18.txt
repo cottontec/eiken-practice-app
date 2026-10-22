@@ -1,6 +1,7 @@
 ---
 choices: blissful | modest | showy | sturdy
 answerText: modest
+reviewed: yes
 ---
 【正解】2 modest（ささやかな、多くない）
 【和訳】

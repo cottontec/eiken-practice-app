@@ -1,6 +1,7 @@
 ---
 choices: buzz | peck | thorn | core
 answerText: buzz
+reviewed: yes
 ---
 【正解】1 buzz（ブーンという音）
 【和訳】

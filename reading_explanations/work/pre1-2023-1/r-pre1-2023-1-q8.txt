@@ -1,6 +1,7 @@
 ---
 choices: demotion | craving | aggravation | hassle
 answerText: demotion
+reviewed: yes
 ---
 【正解】1 demotion（降格）
 【和訳】

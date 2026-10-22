@@ -1,6 +1,7 @@
 ---
 choices: did not lessen the significance of | was not a good reason to support | made people suspicious of | discouraged schoolchildren from joining
 answerText: did not lessen the significance of
+reviewed: yes
 ---
 【正解】1 did not lessen the significance of（～の重要性を弱めはしなかった）
 【和訳】

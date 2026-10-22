@@ -1,6 +1,7 @@
 ---
 choices: were the most imitated | had the biggest hits | proved this was true | were able to avoid this
 answerText: were able to avoid this
+reviewed: yes
 ---
 【正解】4 were able to avoid this（これを避けることができた）
 【和訳】

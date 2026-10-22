@@ -1,6 +1,7 @@
 ---
 choices: get down | round out | die away | lay out
 answerText: get down
+reviewed: yes
 ---
 【正解】1 get down（下りる）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: plowed through | pulled on | threw off | jumped at
 answerText: jumped at
+reviewed: yes
 ---
 【正解】4 jumped at（（機会などに）飛びついた）
 【和訳】

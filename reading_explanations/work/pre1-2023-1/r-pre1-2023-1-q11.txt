@@ -1,6 +1,7 @@
 ---
 choices: commodity | arrogance | neutrality | specimen
 answerText: arrogance
+reviewed: yes
 ---
 【正解】2 arrogance（傲慢さ、思い上がり）
 【和訳】

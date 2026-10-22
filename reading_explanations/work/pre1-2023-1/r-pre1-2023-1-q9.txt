@@ -1,6 +1,7 @@
 ---
 choices: swift | aloof | shallow | durable
 answerText: durable
+reviewed: yes
 ---
 【正解】4 durable（丈夫な、長持ちする）
 【和訳】

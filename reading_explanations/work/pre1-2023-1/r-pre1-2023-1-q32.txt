@@ -1,6 +1,7 @@
 ---
 choices: The type of chicken raised on each farm usually depended on the climate in the area where the farm was located. | Each farm would raise more than one type of chicken in case there was a sudden change in environmental conditions. | Chickens were generally only eaten by very poor people or at times when there were food shortages. | Because there were so many chicken farms across the country, many of the eggs produced ended up being wasted.
 answerText: The type of chicken raised on each farm usually depended on the climate in the area where the farm was located.
+reviewed: yes
 ---
 【正解】1 The type of chicken raised on each farm usually depended on the climate in the area where the farm was located.（それぞれの農場で育てられるニワトリの種類は、たいてい、その農場がある地域の気候によって決まっていた。）
 【和訳】

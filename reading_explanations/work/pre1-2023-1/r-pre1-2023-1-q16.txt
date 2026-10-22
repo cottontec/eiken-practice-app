@@ -1,6 +1,7 @@
 ---
 choices: rhyme | justice | legacy | majority
 answerText: legacy
+reviewed: yes
 ---
 【正解】3 legacy（遺産）
 【和訳】

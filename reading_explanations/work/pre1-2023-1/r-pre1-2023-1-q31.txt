@@ -1,6 +1,7 @@
 ---
 choices: few dinosaur eggs have been found | there are not more dinosaur species | some dinosaurs were unable to produce eggs | dinosaur babies often did not survive
 answerText: few dinosaur eggs have been found
+reviewed: yes
 ---
 【正解】1 few dinosaur eggs have been found（見つかっている恐竜の卵がほとんどない）
 【和訳】

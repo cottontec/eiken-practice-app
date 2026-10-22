@@ -1,6 +1,7 @@
 ---
 choices: apparatus | equation | altitude | mileage
 answerText: altitude
+reviewed: yes
 ---
 【正解】3 altitude（高度、標高）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: outlaw | elevate | plead | accommodate
 answerText: accommodate
+reviewed: yes
 ---
 【正解】4 accommodate（収容する、受け入れる）
 【和訳】

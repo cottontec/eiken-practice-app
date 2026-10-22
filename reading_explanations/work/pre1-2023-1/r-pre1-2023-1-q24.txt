@@ -1,6 +1,7 @@
 ---
 choices: get over | fit in | hold onto | take after
 answerText: fit in
+reviewed: yes
 ---
 【正解】2 fit in（（with とともに）うまく合う）
 【和訳】

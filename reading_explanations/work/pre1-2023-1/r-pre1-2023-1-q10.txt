@@ -1,6 +1,7 @@
 ---
 choices: sway | detest | contemplate | disclose
 answerText: disclose
+reviewed: yes
 ---
 【正解】4 disclose（明かす、公開する）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: affection | circulation | oppression | coalition
 answerText: affection
+reviewed: yes
 ---
 【正解】1 affection（愛情）
 【和訳】

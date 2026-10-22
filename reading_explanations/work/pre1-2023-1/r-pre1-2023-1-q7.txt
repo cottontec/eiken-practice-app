@@ -1,6 +1,7 @@
 ---
 choices: prey | offspring | rituals | remains
 answerText: offspring
+reviewed: yes
 ---
 【正解】2 offspring（（動物や人の）子、子孫）
 【和訳】

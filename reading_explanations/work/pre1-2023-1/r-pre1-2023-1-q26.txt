@@ -1,6 +1,7 @@
 ---
 choices: In exchange | For instance | In contrast | In short
 answerText: In contrast
+reviewed: yes
 ---
 【正解】3 In contrast（それに対して、対照的に）
 【和訳】

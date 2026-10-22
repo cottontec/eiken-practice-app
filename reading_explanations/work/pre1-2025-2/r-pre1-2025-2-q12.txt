@@ -1,6 +1,7 @@
 ---
 choices: appoint | import | acquaint | escort
 answerText: escort
+reviewed: yes
 ---
 【正解】4 escort（付き添う、送り届ける）
 【和訳】

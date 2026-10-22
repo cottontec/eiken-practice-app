@@ -1,6 +1,7 @@
 ---
 choices: intervention | appreciation | accumulation | starvation
 answerText: intervention
+reviewed: yes
 ---
 【正解】1 intervention（介入）
 【和訳】

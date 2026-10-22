@@ -1,6 +1,7 @@
 ---
 choices: sinister | indebted | perilous | doomed
 answerText: indebted
+reviewed: yes
 ---
 【正解】2 indebted（恩を受けている、借りがある）
 【和訳】

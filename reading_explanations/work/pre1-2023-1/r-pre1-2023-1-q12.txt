@@ -1,6 +1,7 @@
 ---
 choices: genuine | impending | subdued | incomprehensible
 answerText: incomprehensible
+reviewed: yes
 ---
 【正解】4 incomprehensible（理解できない）
 【和訳】

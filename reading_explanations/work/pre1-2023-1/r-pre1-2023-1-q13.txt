@@ -1,6 +1,7 @@
 ---
 choices: attentively | consecutively | wearily | eloquently
 answerText: attentively
+reviewed: yes
 ---
 【正解】1 attentively（注意深く、熱心に）
 【和訳】
