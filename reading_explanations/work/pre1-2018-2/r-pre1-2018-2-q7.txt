@@ -1,0 +1,31 @@
+---
+choices: digest | inspire | thrust | smash
+answerText: digest
+---
+【正解】1 digest（消化する）
+【和訳】
+（英文）
+Raw vegetables are more difficult to ［digest］ than cooked ones. It is much easier for the body to process cooked foods.
+（訳）
+生の野菜は、加熱した野菜よりも（消化する）のが難しいです。体にとっては、加熱した食べ物を処理するほうがずっと簡単なのです。
+（選択肢の意味）
+1 digest：消化する
+2 inspire：（人を）元気づける、ひらめきを与える
+3 thrust：ぐいと押す、突き出す
+4 smash：粉々にくだく
+【考え方】
+まず見るところ：後半の文の It is much easier for the body to process cooked foods.
+空所のある文は次のとおりです。
+Raw vegetables are more difficult to (　) than cooked ones.（生の野菜は、加熱した野菜よりも（　）のが難しい）
+raw は「生の」、cooked は「加熱した、料理した」です。cooked ones の ones は vegetables のことです。生の野菜と加熱した野菜を比べています。
+後半の文は、同じことを体の側から言いかえています。
+It is much easier for the body to process cooked foods.（体にとっては、加熱した食べ物を処理するほうがずっと簡単だ）
+process はここでは「（食べ物を）処理する」という意味です。体が食べた物を処理することを「消化する」と言い、英語では digest と言います。「生の野菜は加熱した野菜より消化しにくい」となり、後半の文ともぴったり合うので、1が正解です。
+この問題の型：言いかえ（digest ＝ the body to process）
+【ほかの選択肢】
+2 inspire は「元気づける、ひらめきを与える」で、ふつうは人に使います。「生の野菜は元気づけにくい」となり、体が食べ物を処理するという後半の文とつながりません。
+3 thrust は「ぐいと押す、突き出す」です。「生の野菜は突き出しにくい」となり、意味が通りません。
+4 smash は「粉々にくだく」です。生の野菜のほうがかたいとしても、後半の文は「体が処理する」ことを言っているので、「くだく」では後半の文と合いません。
+【覚えるポイント】
+・digest：「消化する」。名詞は digestion（消化）です。
+・前の文と後ろの文が同じことを別の言葉で言っていることがよくあります。後ろの文の the body to process（体が処理する）が、空所の語の言いかえになっていないか見るのが手がかりになります。

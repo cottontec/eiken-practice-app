@@ -1,0 +1,32 @@
+---
+choices: It will cost more than estimated because of the side effects on agriculture and the environment. | It is too expensive for the government to pay for now but could be introduced several decades in the future. | It is a good idea, but planned reductions in spending mean it will only be possible in certain areas. | It will bring financial benefits that would make up for the cost of carrying it out.
+answerText: It will bring financial benefits that would make up for the cost of carrying it out.
+---
+【正解】4 It will bring financial benefits that would make up for the cost of carrying it out.（その計画は、実行する費用を埋め合わせるような、お金の面での利益をもたらすだろう。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What does James Russell think about the New Zealand government's plan?（ジェームズ・ラッセルは、ニュージーランド政府の計画についてどう考えているか。）
+1 It will cost more than estimated because of the side effects on agriculture and the environment.（農業や環境への副作用のために、その計画には見積もりより多くの費用がかかるだろう。）
+2 It is too expensive for the government to pay for now but could be introduced several decades in the future.（その計画は、政府が今お金を出すには高すぎるが、数十年後には導入できるかもしれない。）
+3 It is a good idea, but planned reductions in spending mean it will only be possible in certain areas.（その計画はよい考えだが、予定されている支出の削減のため、一部の地域でしか実現できないだろう。）
+4 It will bring financial benefits that would make up for the cost of carrying it out.（その計画は、実行する費用を埋め合わせるような、お金の面での利益をもたらすだろう。）
+【考え方】
+まず見るところ：第1段落の最後の文 According to ecologist James Russell ～
+ラッセルの考えは、第1段落の最後に書かれています。
+According to ecologist James Russell of the University of Auckland, these reductions in spending and losses would make the project worth the expense.（オークランド大学の生態学者ジェームズ・ラッセルによれば、こうした支出と損失の減少によって、この計画は費用をかけるだけの価値があるものになるという）
+ecologist は「生態学者（生き物と環境の関係を研究する人）」です。these reductions（こうした減少）は、その前の文に書かれた内容を指しています。
+Although it is estimated that the project will cost around US$6.5 billion, eliminating pests would result in substantial savings in future spending, as well as significantly reducing environmental damage and losses to the agriculture industry.（この計画には約65億米ドルの費用がかかると見積もられているが、有害動物を根絶すれば、将来の支出が大幅に節約されるとともに、環境への被害や農業の損失もかなり減るだろう）
+本文と選択肢を対にすると、次のようになります。
+本文 substantial savings in future spending（将来の支出の大幅な節約）、losses to the agriculture industry が減る ＝ 選択肢 financial benefits（お金の面での利益）
+本文 would make the project worth the expense（計画を費用に見合う価値のあるものにする）＝ 選択肢 would make up for the cost of carrying it out（実行する費用を埋め合わせる）
+make up for ～ は「～を埋め合わせる」という意味です。かかる費用より得られるものが大きいので価値がある、というラッセルの考えと同じなので、4が正解です。
+この問題の型：言いかえ（worth the expense → make up for the cost）
+【ほかの選択肢】
+1 本文と合いません。本文では、有害動物を根絶すれば環境への被害や農業の損失が減ると書かれています。農業や環境への副作用のせいで費用が見積もりより増えるという話はありません。
+2 本文に書かれていません。2050年は根絶を終える目標の年で、計画は2016年に発表されています。ラッセルは費用をかける価値があると考えており、「今は高すぎる」とは言っていません。
+3 本文と合いません。本文の reductions in spending（支出の減少）は、計画によって将来の支出が節約されることを指していて、計画の予算を減らすことではありません。また、計画は国内全体から有害動物を根絶するもので、一部の地域に限るという話はありません。
+【覚えるポイント】
+・make up for ～：「～を埋め合わせる」。worth the expense（費用に見合う価値がある）と同じ方向の意味を表すことがあります。
+・ある人物の考えをたずねる設問では、According to ～（～によれば）の後ろを探し、そこに出てくる these などの指示語が前の文のどの内容を指すかを確かめるのが手がかりになります。

@@ -1,0 +1,31 @@
+---
+choices: misery | bribery | artistry | irony
+answerText: bribery
+---
+【正解】2 bribery（わいろのやりとり、贈収賄）
+【和訳】
+（英文）
+The official was jailed for ［bribery］. He had accepted money from manufacturing companies in exchange for covering up their illegal dumping of chemical waste.
+（訳）
+その役人は、（わいろを受け取った罪）で刑務所に入れられました。彼は、製造会社が化学廃棄物を違法に捨てていたことをかくす見返りに、それらの会社からお金を受け取っていたのです。
+（選択肢の意味）
+1 misery：みじめさ、苦しみ
+2 bribery：わいろのやりとり、贈収賄（わいろを贈ったり受け取ったりすること）
+3 artistry：芸術的な技能
+4 irony：皮肉
+【考え方】
+まず見るところ：後半の文の He had accepted money from manufacturing companies in exchange for covering up ～
+空所のある文は次のとおりです。
+The official was jailed for (　).（その役人は（　）のために刑務所に入れられた）
+official はここでは名詞で「役人、公務員」、jail は「刑務所に入れる」という意味です。for (　) で、刑務所に入れられた理由、つまり罪の名前が入ると考えられます。
+後半の文に、役人がしたことが書かれています。
+He had accepted money from manufacturing companies in exchange for covering up their illegal dumping of chemical waste.（彼は、製造会社が化学廃棄物を違法に捨てていたことをかくす見返りに、それらの会社からお金を受け取っていた）
+in exchange for ～ は「～と引きかえに、～の見返りに」、cover up は「（悪いことを）かくす」、dumping は「（ごみなどを）捨てること」です。悪いことを見のがしてもらうために渡されるお金を「わいろ」と言います。bribery は「わいろのやりとり」という意味で、この役人の罪にぴったり合うので、2が正解です。
+この問題の型：具体例とまとめ（見返りにお金を受け取った→わいろの罪）
+【ほかの選択肢】
+1 misery は「みじめさ、苦しみ」です。罪の名前ではないので、「みじめさのために刑務所に入れられた」となり、後半の文の内容と合いません。
+3 artistry は「芸術的な技能」です。お金を受け取って違法なことをかくした話とは関係がありません。
+4 irony は「皮肉（言葉と反対の意味をこめた言い方や、思っていたことと反対の結果になること）」です。刑務所に入れられる理由になりません。
+【覚えるポイント】
+・bribery：「わいろのやりとり」。bribe（わいろ、わいろを贈る）から来た語です。
+・空所の文が「何のために罰を受けたか」を言い、次の文がしたことを具体的に説明しているときは、その行動を一言で表す語を探すと手がかりになります。

@@ -1,0 +1,31 @@
+---
+choices: briefly | doubtfully | cautiously | notably
+answerText: notably
+---
+【正解】4 notably（目立って、著しく）
+【和訳】
+（英文）
+Lena was ［notably］ thinner when she returned from her year abroad. In fact, many of her friends said they did not recognize her at first.
+（訳）
+レナは、1年間の海外生活から帰ってきたとき、（以前より）（目立って）やせていました。実際、友人の多くが、最初は彼女だと分からなかったと言いました。
+（選択肢の意味）
+1 briefly：少しの間、手短に
+2 doubtfully：疑わしそうに
+3 cautiously：用心深く
+4 notably：目立って、著しく
+【考え方】
+まず見るところ：後半の文の many of her friends said they did not recognize her at first
+空所のある文は次のとおりです。
+Lena was (　) thinner when she returned from her year abroad.（レナは、1年間の海外生活から帰ってきたとき、（　）やせていた）
+thinner は thin（やせた）の比較の形で、「（以前より）やせていた」という意味です。空所の語は、どのくらいやせていたのか、その程度を表しています。
+後半の文は In fact（実際）で始まり、前の文を具体的に裏づけています。
+In fact, many of her friends said they did not recognize her at first.（実際、友人の多くが、最初は彼女だと分からなかったと言った）
+recognize は「（見て）だれだか分かる」という意味です。友人がすぐには分からなかったほどなので、レナはかなり目立ってやせていたことが分かります。notably は「目立って、著しく」という意味なので、4が正解です。
+この問題の型：具体例とまとめ（友人が分からなかった→目立ってやせていた）
+【ほかの選択肢】
+1 briefly は「少しの間、手短に」です。「少しの間やせていた」となり、友人がだれだか分からなかったほどだという後半の文の説明になりません。
+2 doubtfully は「疑わしそうに」です。人の態度を表す語で、「疑わしそうにやせていた」となり、意味が通りません。
+3 cautiously は「用心深く」です。これも人の行動のしかたを表す語で、「用心深くやせていた」となり、意味が通りません。
+【覚えるポイント】
+・notably：「目立って、著しく」。notable（注目すべき、目立つ）から来た語です。
+・In fact（実際）で始まる文は、前の文を具体的に裏づけることが多いので、その内容から前の文の程度を考えると手がかりになります。
