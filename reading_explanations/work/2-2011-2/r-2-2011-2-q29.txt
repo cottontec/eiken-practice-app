@@ -1,0 +1,24 @@
+---
+choices: write down | try out | give up | show off
+answerText: give up
+---
+【正解】3 give up（やめる、手放す）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 write down：書き留める
+2 try out：試してみる
+3 give up：やめる、手放す
+4 show off：見せびらかす
+【考え方】
+空所は第3段落の4文目、None of the supporters of "slow reading" think we can (　) the Internet completely.（「スロー・リーディング」を支持する人々のだれも、私たちがインターネットを完全に〜できるとは考えていない）にあります。none of ～ は「～のだれも…ない」、completely は「完全に」です。
+次の文は Instead, they recommend that we turn off the computer once or twice a week, settle down with a book, and read with concentration for a few hours.（そうではなく、彼らは、週に1、2回コンピューターの電源を切り、本を手に腰を落ち着けて、数時間集中して読むことをすすめている）です。Instead は「そうではなく、その代わりに」で、前の文で否定された考えの代わりになるものを示します。
+「週に1、2回だけコンピューターを切る」ことの反対は、「インターネットを完全にやめる」ことです。give up は「やめる、手放す」という意味なので、「インターネットを完全にやめられるとはだれも考えていない。その代わりに、週に1、2回だけ電源を切ることをすすめる」となり、Instead の前後がうまくつながります。正解は3です。
+【ほかの選択肢】
+1 write down は「書き留める」です。「インターネットを完全に書き留める」となり、意味が通りません。
+2 try out は「試してみる」です。「インターネットを完全に試してみることはできない」としても、Instead のあとの「週に1、2回コンピューターを切る」という提案とつながりません。
+4 show off は「見せびらかす」です。「インターネットを完全に見せびらかす」となり、意味が通らず、後ろの文ともつながりません。
+【覚えるポイント】
+・give up ～：「～をやめる、手放す」。
+・Instead：「そうではなく、その代わりに」。前に否定されたことの代わりを述べる合図です。

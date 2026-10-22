@@ -1,0 +1,25 @@
+---
+choices: complaint | challenge | payment | difference
+answerText: difference
+---
+【正解】4 difference（違い）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 complaint：不満、苦情
+2 challenge：挑戦、難しい課題
+3 payment：支払い
+4 difference：違い
+【考え方】
+空所は第2段落の This, though, would make a much greater (　) to the environment.（けれども、こちらのほうが環境にとってずっと大きな～を生むだろう）にあります。
+まず This が何を指すかを確かめます。直前の文は few people suggested changing to a car that uses less fuel（燃料をあまり使わない車に乗りかえることを挙げた人はほとんどいなかった）です。This はこの「燃料の少ない車に乗りかえること」を指しています。
+次に、その前の流れを見ます。多くの人が挙げた「電灯を消すこと」は this saves very little electricity（これで節約できる電気はごくわずか）でした。一方で、少数の人しか挙げなかった車の乗りかえについては、though（けれども）を使って、それとは反対に「ずっと大きな～」があると述べています。ここでは環境によい効果の大きさを比べていると考えられます。
+make a difference は「違いを生む、（よい）効果がある」という決まった言い方です。make a much greater difference to the environment で「環境にとってずっと大きな違い（効果）を生む」となり、意味が通ります。4が正解です。
+【ほかの選択肢】
+1 complaint は「不満、苦情」です。「環境にずっと大きな苦情をする」となり、エネルギーの節約の効果を述べる流れに合いません。
+2 challenge は「挑戦、難しい課題」です。「環境にずっと大きな挑戦をする」となり意味が通りません。また、電灯を消すことと効果の大きさを比べている流れにも合いません。
+3 payment は「支払い」です。「環境にずっと大きな支払いをする」となり、意味が通りません。本文はお金を払う話ではなく、エネルギーの節約の効果の話です。
+【覚えるポイント】
+・make a difference (to ～)：「（～に）違いを生む、効果がある」。much greater などで大きさを強められます。
+・This, though, ～：「けれども、こちらは～」。though は文の途中に置かれて「けれども」の意味を表すことがあります。

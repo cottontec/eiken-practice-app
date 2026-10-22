@@ -1,0 +1,24 @@
+---
+choices: tasks | details | pictures | advertisements
+answerText: details
+---
+【正解】2 details（細かい部分、詳細）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 tasks：仕事、作業
+2 details：細かい部分、詳細
+3 pictures：絵、写真
+4 advertisements：広告
+【考え方】
+空所は第1段落の4文目、When we skim an article, we look through it quickly without paying attention to the (　).（記事をスキミングするとき、私たちは〜に注意を払わずに、すばやくそれに目を通す）にあります。look through ～ は「～に目を通す」、without ～ing は「～しないで」です。
+skim は前の文で説明されている「スキミング」のことです。3文目に We use this method if we want to find only the main ideas in a piece of writing.（文章の中の主な考えだけを見つけたいときにこの方法を使う）とあります。
+「主な考え（main ideas）だけ」を見つけたいのですから、それ以外の部分には注意を向けずに読み進めることになります。主な考えと反対の側にあるのは、細かい部分です。details は「細かい部分、詳細」という意味なので、「細かい部分に注意を払わずに、すばやく目を通す」となり、スキミングの説明として筋が通ります。正解は2です。
+【ほかの選択肢】
+1 tasks は「仕事、作業」です。「作業に注意を払わずに記事に目を通す」となり、文章の読み方の説明として意味が通りません。
+3 pictures は「絵、写真」です。本文では、文章の中の主な考えだけを見つけるという「言葉の読み方」が話題で、絵や写真のことは書かれていません。主な考えだけを見つける、という前の文ともつながりません。
+4 advertisements は「広告」です。本文には広告の話は出てこず、「主な考えだけを見つける」ために注意を払わないものとして合いません。
+【覚えるポイント】
+・main ideas（主な考え）と details（細かい部分）は、文章を読むときによく対にして使われる言葉です。
+・without ～ing：「～しないで、～せずに」。

@@ -1,0 +1,27 @@
+---
+choices: the cost of solar panels is too high for many people in Europe. | the project will help local people by providing water for crops. | the power stations will require large amounts of salt to work properly. | the countries where the power stations are built will get free electricity.
+answerText: the project will help local people by providing water for crops.
+---
+【正解】2 the project will help local people by providing water for crops.（その計画は作物のための水を提供することで、地元の人々の役に立つ。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：デザーテックによると、
+1 ソーラーパネルの費用は、ヨーロッパの多くの人々にとって高すぎる。
+2 その計画は作物のための水を提供することで、地元の人々の役に立つ。
+3 発電所がきちんと動くためには、大量の塩が必要になる。
+4 発電所が建てられる国々は、無料で電気を得ることになる。
+【考え方】
+設問は According to Desertec,（デザーテックによると）なので、デザーテックが言っている内容を探します。第4段落に Desertec, however, says that water would be brought from the ocean, and that electricity would be used to remove the salt from this water.（しかしデザーテックは、水は海から運ばれ、電気を使ってこの水から塩分が取り除かれることになると言っている）とあります。
+続けて Some of this water could then be used by local farmers for growing crops.（そうすれば、この水の一部を、地元の農家が作物を育てるのに使うことができるだろう）、In this way, the people in the countries where the stations are built would also profit from the plan.（このようにして、発電所が建てられる国々の人々も、この計画から利益を得られる）とあります。profit from ～ は「～から利益を得る」です。本文と選択肢は次のように対応しています。
+本文 Some of this water could then be used by local farmers for growing crops（この水の一部を地元の農家が作物を育てるのに使える）＝ 選択肢 providing water for crops（作物のための水を提供する）
+本文 the people in the countries where the stations are built would also profit（発電所が建てられる国々の人々も利益を得る）＝ 選択肢 will help local people（地元の人々の役に立つ）
+正解は2です。
+【ほかの選択肢】
+1 ヨーロッパの家庭用ソーラーパネルの話は、計画に反対する Some（一部の人々）の意見として出てきます。デザーテックの意見ではなく、ソーラーパネルの費用が高すぎるということも書かれていません。
+3 本文では、海の水から the salt（塩分）を remove（取り除く）と書かれています。塩が大量に必要になるのではなく、塩は取り除かれるものなので、本文と合いません。
+4 発電所が建てられる国々の人々が得る利益として書かれているのは、作物を育てるための水です。無料の電気がもらえるという話は本文にありません。
+【覚えるポイント】
+・profit from ～：「～から利益を得る」。
+・remove A from B：「BからAを取り除く」。remove the salt from this water で「この水から塩分を取り除く」。

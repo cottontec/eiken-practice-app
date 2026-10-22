@@ -1,0 +1,24 @@
+---
+choices: accidental | wasteful | correct | secret
+answerText: correct
+---
+【正解】3 correct（正しい）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 accidental：偶然の、うっかりした
+2 wasteful：むだの多い
+3 correct：正しい、適切な
+4 secret：秘密の
+【考え方】
+空所は第2段落の According to the clinic, (　) use of sunscreen lotion has increased by 40 percent.（診療所によると、日焼け止めローションの～使用が40パーセント増えた）にあります。sunscreen lotion は「日焼け止めローション」、increase by 40 percent は「40パーセント増える」です。
+この文の前で、ボストンの診療所がどんなことをしているかが説明されています。肌が日光に弱い患者に、天気予報に基づくメッセージを送り、warn them when they must protect their skin with sunscreen lotion（日焼け止めローションで肌を守らなければならないときに知らせる）とあります。また、段落の最初には、携帯電話が give instructions to patients about treatment（治療について患者に指示を与える）ために使われていると書かれています。
+つまりメッセージの目的は、患者が日焼け止めを必要なときに正しく使えるようにすることです。その結果として増えたのは、日焼け止めの「正しい」使用だと考えられます。correct use で「正しい使用」となり、3が正解です。
+【ほかの選択肢】
+1 accidental は「偶然の、うっかりした」です。メッセージは必要なときに日焼け止めを使うよう知らせるもので、「うっかり使うこと」が増えたのでは、取り組みの成果になりません。
+2 wasteful は「むだの多い」です。「むだの多い使用が40パーセント増えた」では、患者に指示を与えて治療に役立てるという段落の内容と合いません。
+4 secret は「秘密の」です。日焼け止めを人に隠れて使うという話は本文になく、メッセージの成果としても意味が通りません。
+【覚えるポイント】
+・correct use of ～：「～の正しい使用」。
+・increase by ～ percent：「～パーセント増える」。by は増えた量（差）を表します。

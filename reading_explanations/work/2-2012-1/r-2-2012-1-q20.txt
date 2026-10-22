@@ -1,0 +1,19 @@
+---
+choices: to be | being | been | would be
+answerText: to be
+---
+【正解】1 to be（mean to be ～ で「～するつもりである」）
+【和訳】
+ジェイミーは、先生に年齢をたずねたとき、失礼なことをするつもりはなかったと言いました。
+（選択肢の意味）1 （to be の形）　2 （being の形）　3 （been の形）　4 （would be の形）
+【考え方】
+空所の前の had not meant に注目します。meant は mean の過去分詞です。mean はよく「～を意味する」という意味で使いますが、mean to ～ の形では「～するつもりである」という意味になります。
+文の内容を見ると、ジェイミーは先生に how old she was（何歳か）とたずねました。そのことについて、ジェイミーは「失礼にする気持ちはなかった」と説明している、と読むと文の意味が通ります。
+rude は「失礼な」という意味の形容詞（様子を表す語）なので、前に be が必要です。mean to be rude で「失礼にふるまうつもりである」となり、had not meant to be rude で「失礼にするつもりはなかった」となります。正解は1です。
+【ほかの選択肢】
+2 being を入れて mean being ～ とすると、「～ということになる、～を意味する」という意味になり、「するつもりはなかった」という言い訳になりません。
+3 been は be の過去分詞です。had not meant been rude のように、meant のあとに been を直接続ける形はありません。
+4 would be も、meant のあとに直接続ける形はありません。had not meant would be rude では英語として成り立ちません。
+【覚えるポイント】
+・mean to ～：「～するつもりである」。didn't mean to ～ で「～するつもりはなかった」。
+・be rude：「失礼である、失礼にふるまう」。

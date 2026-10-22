@@ -1,0 +1,24 @@
+---
+choices: attitude | risk | promise | meaning
+answerText: risk
+---
+【正解】2 risk（危険、おそれ）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 attitude：態度
+2 risk：危険、（悪いことが起こる）おそれ
+3 promise：約束、（よくなる）見込み
+4 meaning：意味
+【考え方】
+空所は第1段落の最後の文にあります。Anthony Brennan ... has come up with a new way to reduce bacteria in hospitals—one that could help avoid this (　).（ブレナンは、病院の細菌を減らす新しい方法を思いついた。それは、この〜を避けるのに役立つかもしれない方法だ）。one は a new way（新しい方法）を指し、avoid は「避ける」という意味です。
+this（この）が付いているので、空所の語は前の文で述べられた内容を指していると考えます。直前の文は Unfortunately, this method can have the opposite effect and actually cause the bacteria to become stronger.（残念なことに、この方法は逆の効果をもたらし、かえって細菌を強くしてしまうことがある）です。this method は、薬や化学物質で細菌を殺そうとするこれまでの方法のことです。
+「細菌が強くなってしまうことがある」というのは、悪いことが起こるおそれです。risk は「危険、おそれ」という意味なので、avoid this risk で「この危険を避ける」となり、前の文とつながります。したがって2が正解です。
+【ほかの選択肢】
+1 attitude は「態度」です。前の文には、だれかの態度についての話はなく、「この態度を避ける」では何を指すのか分かりません。
+3 promise は「約束、よくなる見込み」です。前の文は細菌が強くなるという悪い結果の話なので、「この見込みを避ける」ではつながりません。
+4 meaning は「意味」です。「この意味を避ける」では、細菌が強くなってしまうという前の文の内容を指すことができません。
+【覚えるポイント】
+・avoid ～：「～を避ける」。avoid this risk で「この危険を避ける」。
+・come up with ～：「（考えなど）を思いつく」。

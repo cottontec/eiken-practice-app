@@ -1,0 +1,28 @@
+---
+choices: The power stations will be similar to ones operating in California. | Electricity from the power stations will be used to heat water at night. | The power stations will provide most of Europe's electricity by 2050. | Some people say that the power stations should be built in Europe.
+answerText: The power stations will be similar to ones operating in California.
+---
+【正解】1 The power stations will be similar to ones operating in California.（その発電所は、カリフォルニアで動いているものと似たものになる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：デザーテックの計画について正しいのは、次のうちどれですか。
+1 その発電所は、カリフォルニアで動いているものと似たものになる。
+2 その発電所の電気は、夜に水を温めるために使われる。
+3 その発電所は、2050年までにヨーロッパの電気の大部分をまかなう。
+4 発電所はヨーロッパに建てるべきだと言う人々もいる。
+【考え方】
+このような「正しいものはどれか」という設問では、選択肢を1つずつ本文と照らし合わせます。
+第2段落に four stations like the ones Desertec plans to build have been producing electricity in the desert in California for the last two decades（デザーテックが建てる予定のものと同じような発電所4か所が、この20年間、カリフォルニアの砂漠で電気を作り続けてきた）とあります。like ～ は「～のような、～と同じような」、the ones は stations（発電所）を指します。two decades は「20年」です（decade は10年）。
+つまり、デザーテックが建てる発電所は、カリフォルニアで今も動いている発電所と同じような種類のものです。本文と選択肢は次のように対応しています。
+本文 four stations like the ones Desertec plans to build（デザーテックが建てる予定のものと同じような発電所4か所）＝ 選択肢 The power stations will be similar to ones（その発電所は～と似たものになる）
+本文 have been producing electricity in the desert in California（カリフォルニアの砂漠で電気を作り続けてきた）＝ 選択肢 operating in California（カリフォルニアで動いている）
+正解は1です。
+【ほかの選択肢】
+2 本文で夜について書かれているのは、発電所が太陽の熱をためておくことで at night（夜に）も電気を作れる、ということです。また、本文で電気の使い道として出てくるのは、海から運んだ水から塩分を取り除くことです。夜に水を温めるために電気を使うという話はありません。
+3 第3段落には、この計画で could provide 15 percent of Europe's electricity by 2050（2050年までにヨーロッパの電気の15パーセントをまかなえる可能性がある）とあります。15パーセントは「大部分（most）」ではないので、誤りです。
+4 計画に反対する人々の意見は、concentrate on producing solar panels for houses in Europe（ヨーロッパの家庭用のソーラーパネルを作ることに集中する）ほうがよい、というものです。発電所をヨーロッパに建てるべきだという意見ではありません。
+【覚えるポイント】
+・like the ones ～：「～のものと同じような」。the ones は前に出た名詞（ここでは stations）をくり返さずに指す言い方です。
+・decade：「10年」。two decades で「20年」。

@@ -1,0 +1,29 @@
+---
+choices: After the war, many people said Hughes had wasted government money. | Kaiser and Hughes argued over how much money to spend on the plane. | The Hercules project was not completed because Hughes ran out of money. | Hughes went to Washington, D.C., to get back the money he had spent on the project.
+answerText: After the war, many people said Hughes had wasted government money.
+---
+【正解】1 After the war, many people said Hughes had wasted government money.（戦争のあと、多くの人々が、ヒューズは政府のお金をむだにしたと言った。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：次の記述のうち、正しいものはどれですか。
+1 戦争のあと、多くの人々が、ヒューズは政府のお金をむだにしたと言った。
+2 カイザーとヒューズは、飛行機にいくらお金をかけるかで言い争った。
+3 ハーキュリーズの計画は、ヒューズのお金がなくなったため完成しなかった。
+4 ヒューズは、計画に使ったお金を取り戻すためにワシントンD.C.へ行った。
+【考え方】
+本文全体と選択肢を1つずつ照らし合わせます。
+第3段落の終わりに By the time he finished, though, the war was over.（しかし、ヒューズが完成させたころには、戦争は終わっていた）とあり、Hughes had spent $22 million of the government's money（ヒューズは政府のお金2,200万ドルを使っていた）と続きます。
+そして第4段落の初めに Many people doubted that such a huge airplane could fly, and they criticized Hughes for spending so much public money on it.（多くの人々は、そのような巨大な飛行機が飛べるのか疑い、それほど多くの公のお金を使ったことでヒューズを批判した）とあります。public money は「公のお金（国や政府のお金）」です。この批判は、戦争が終わってから完成した飛行機について述べられています。
+本文と選択肢は次のように対応しています。
+本文 By the time he finished, ～ the war was over（完成させたころには戦争は終わっていた）のあとの批判 ＝ 選択肢 After the war（戦争のあと）
+本文 criticized Hughes for spending so much public money on it（それほど多くの公のお金を使ったことでヒューズを批判した）＝ 選択肢 said Hughes had wasted government money（ヒューズは政府のお金をむだにしたと言った）
+waste は「むだにする」です。飛ぶかどうかも分からない飛行機に多くの公のお金を使ったと批判するのは、お金をむだにしたと言っていることにあたります。正解は1です。
+【ほかの選択肢】
+2 本文には Eventually, Kaiser left the project（結局、カイザーは計画から手を引いた）とありますが、その理由は書かれていません。2人がお金のことで言い争ったという話はないので、誤りです。
+3 ヒューズは飛行機を完成させ（By the time he finished）、試験飛行も行っています。また、ヒューズのお金がなくなったという話もありません。完成しなかったという点が本文と反対なので、誤りです。
+4 ヒューズがワシントンD.C.へ行ったのは、was called to Washington, D.C., for questioning by the government（政府の取り調べのために呼び出された）からです。お金を取り戻すためではないので、誤りです。
+【覚えるポイント】
+・criticize ＋ 人 ＋ for ～ing：「～したことで人を批判する」。
+・by the time ～：「～するころには、～するまでに」。

@@ -1,0 +1,28 @@
+---
+choices: It was created by one of Matterson International's rivals. | Many employees at Matterson International already have it. | The course on it should be suitable for people who are beginners at using computers. | The sales manager wants members of his department to be able to use it well.
+answerText: The sales manager wants members of his department to be able to use it well.
+---
+【正解】4 The sales manager wants members of his department to be able to use it well.（営業部長は、自分の部の人たちがそれを上手に使えるようになることを望んでいる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：サラ・フラーがWB 500ソフトについて述べていることの1つは何か。
+1 それは、マターソン・インターナショナル社の競争相手の1社によって作られた。
+2 マターソン・インターナショナル社の多くの社員がすでにそれを持っている。
+3 その講座は、コンピューターを使うのが初めての人に合ったものであるべきだ。
+4 営業部長は、自分の部の人たちがそれを上手に使えるようになることを望んでいる。
+【考え方】
+WB 500 は、メールの第2段落に出てきます。I would also like you to organize a course on the WB 500 presentation software.（また、発表用ソフト「WB 500」の講座も開いていただきたい）とあります。presentation は「発表」です。
+そのあとに、この講座を頼む理由が書かれています。The sales manager here at Matterson recently attended a conference and was impressed by how this software was being used by some of our rivals.（当社の営業部長が最近ある会議に出席し、競合する会社のいくつかでこのソフトがどのように使われているかに感心した）。続いて He now wants everyone in his department to be trained to use it at an advanced level.（今、彼は自分の部の全員に、このソフトを上級のレベルで使えるよう研修を受けさせたいと考えている）とあります。advanced level は「上級のレベル、進んだ段階」です。
+本文と選択肢は次のように対応しています。
+本文 wants everyone in his department（自分の部の全員に～させたい）＝ 選択肢 wants members of his department（自分の部の人たちに～してほしい）
+本文 to be trained to use it at an advanced level（上級のレベルで使えるよう研修を受ける）＝ 選択肢 to be able to use it well（それを上手に使えるようになる）
+したがって4が正解です。
+【ほかの選択肢】
+1 本文の rivals（競争相手）は、このソフトを「使っていた」会社として出てきます。ソフトを作ったのがその会社だとは書かれていないので、誤りです。
+2 社員がWB 500をすでに持っているという話は本文にありません。2か月前に使い始めたと書かれているのは、文書作成ソフトの Angel 2011 のほうです。
+3 初心者向けの講座（the beginners' course）は、Angel 2011 の講座です。WB 500 については「上級のレベルで使える」ようにしたいと書かれているので、反対の内容です。
+【覚えるポイント】
+・want ＋ 人 ＋ to ～：「人に～してほしい」。
+・be impressed by ～：「～に感心する、～に感動する」。

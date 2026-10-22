@@ -1,0 +1,24 @@
+---
+choices: space | power | time | money
+answerText: money
+---
+【正解】4 money（お金）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 space：空間、場所
+2 power：力、電力
+3 time：時間
+4 money：お金
+【考え方】
+空所は第3段落の According to Katz, the new system not only helps keep patients healthy but also saves (　).（カッツによると、この新しいしくみは、患者が健康を保つのに役立つだけでなく、～の節約にもなる）にあります。not only A but also B は「AだけでなくBも」という意味です。
+決め手はすぐあとの文です。This is because it avoids the need for costly emergency treatment at the hospital.（これは、病院で費用の高い緊急治療を受ける必要がなくなるからだ）とあります。This is because ～ は「これは～だからだ」と、前の文の理由を説明する言い方です。
+costly は「費用の高い、お金のかかる」という意味です。お金のかかる緊急治療が必要なくなれば、そのぶんの「お金」が節約できます。saves money で「お金を節約する」となり、理由の文と合うので、4が正解です。
+【ほかの選択肢】
+1 space は「空間、場所」です。「場所を節約する」としても、次の文の「費用の高い緊急治療がいらなくなる」という理由とつながりません。
+2 power は「力、電力」です。電気を節約するという話は本文にありません。理由の文は費用の話です。
+3 time は「時間」です。saves time としても文の形は成り立ちますが、次の文で理由として挙げられているのは、costly（費用の高い）緊急治療がいらなくなることです。時間が節約できるという説明は本文にないので合いません。
+【覚えるポイント】
+・save money：「お金を節約する」。
+・costly：「費用の高い、お金のかかる」。-ly で終わっていますが、「～に」ではなく「～な」の意味を表す語です。

@@ -1,0 +1,28 @@
+---
+choices: Have employees choose the person who will teach them. | Send employees to join classes that are open to the public. | Arrange for the classes to be held at Matterson International's office. | Telephone Mr. Davis next week to go over the details of the classes.
+answerText: Arrange for the classes to be held at Matterson International's office.
+---
+【正解】3 Arrange for the classes to be held at Matterson International's office.（講座がマターソン・インターナショナル社の事務所で開かれるよう手配する。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：サラ・フラーは何をすることに決めたか。
+1 社員に、自分たちを教える人を選ばせる。
+2 社員を、一般向けのクラスに参加させに行かせる。
+3 講座がマターソン・インターナショナル社の事務所で開かれるよう手配する。
+4 講座の詳細を確認するために、来週デイビスさんに電話する。
+【考え方】
+メールの第3段落を見ます。まず、デイビスさんが示した2つのやり方が書かれています。
+You mentioned that we could send employees to your training center to join classes that are open to the public（社員を貴社の研修センターに行かせて一般向けのクラスに参加させることができる）、or get a trainer to come to our office for private sessions（または、講師に当社の事務所へ来てもらって当社だけの講習を開くことができる）。private session は「（ほかの人が入らない）その会社だけの講習」のことです。
+次の文は I have chosen the latter option as it will allow the trainer to focus on the needs of our employees.（講師が当社の社員の必要とすることに集中できるようになるので、私は後者を選んだ）です。the latter は「（2つのうちの）後者、あとのほう」という意味です。ここでは、あとに書かれた「講師に事務所へ来てもらう」やり方を指します。
+本文と選択肢は次のように対応しています。
+本文 get a trainer to come to our office for private sessions（講師に当社の事務所へ来てもらい、当社だけの講習を開く）＝ 選択肢 Arrange for the classes to be held at Matterson International's office（講座がマターソン社の事務所で開かれるよう手配する）
+arrange for ～ to … は「～が…するよう手配する」という意味です。したがって3が正解です。
+【ほかの選択肢】
+1 社員に講師を選ばせるという話は本文にありません。講師が社員の必要とすることに集中できる、とは書かれていますが、社員が講師を選ぶわけではありません。
+2 一般向けのクラスに社員を行かせるのは、2つのやり方のうちの前者（the former）です。フラーさんが選んだのは後者なので、反対の内容です。
+4 フラーさんは Would it be possible for you to come to Matterson International sometime next week ...?（来週のどこかでマターソン社に来ていただけますか）と、デイビスさんに来てもらうよう頼んでいます。来週デイビスさんに電話するとは書かれていないので、誤りです。
+【覚えるポイント】
+・the former / the latter：「（2つのうちの）前者／後者」。
+・get ＋ 人 ＋ to ～：「人に～してもらう」。get a trainer to come で「講師に来てもらう」。

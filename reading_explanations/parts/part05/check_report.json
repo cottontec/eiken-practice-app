@@ -25,5 +25,13 @@
     },
     "errors": [],
     "warnings": []
+  },
+  "2-2010-2": {
+    "stats": {
+      "target": 50,
+      "written": 50
+    },
+    "errors": [],
+    "warnings": []
   }
 }
