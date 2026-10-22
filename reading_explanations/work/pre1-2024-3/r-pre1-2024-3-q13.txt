@@ -1,0 +1,30 @@
+---
+choices: loyally | deliberately | spatially | expansively
+answerText: deliberately
+---
+【正解】2 deliberately（わざと、故意に）
+【和訳】
+（英文）
+Although her son claims he broke the vase by accident, Anika thinks he did it ［deliberately］ because he was angry at her for making him clean his room.
+（訳）
+息子は誤って花びんを割ったのだと言っているが、アニカは、自分が部屋を掃除させたことで息子が自分に腹を立てていたので、息子はわざとそうしたのだと思っている。
+（選択肢の意味）
+1 loyally：忠実に、誠実に
+2 deliberately：わざと、故意に（よく分かったうえで、意図して）
+3 spatially：空間的に
+4 expansively：広々と、気前よく、（話し方が）打ち解けて
+【考え方】
+まず見るところ：文の前半の Although ～ by accident と、後半の because he was angry at her
+文は Although（～だけれども）で始まり、息子の言い分とアニカの考えが比べられています。
+Although her son claims he broke the vase by accident（息子は誤って花びんを割ったのだと言っているけれども）
+by accident は「誤って、偶然に」という意味です。Although があるので、後半のアニカの考えは、これとちがう内容になると考えられます。
+Anika thinks he did it ( ) because he was angry at her for making him clean his room.（アニカは、自分が部屋を掃除させたことで息子が自分に腹を立てていたので、息子は（　）そうしたのだと思っている）
+「腹を立てていたから」という理由がついているので、アニカは、息子が怒りから意図して割ったと考えていることが分かります。by accident（誤って）とちがう意味の deliberately（わざと）が入るので、2が正解です。
+この問題の型：対比（息子の言い分 by accident ⇔ アニカの考え deliberately）
+【ほかの選択肢】
+1 loyally は「忠実に」です。「息子は忠実に花びんを割った」となり、腹を立てていたという理由とつながりません。
+3 spatially は「空間的に」です。「息子は空間的に花びんを割った」となり、意味が通りません。
+4 expansively は「広々と、気前よく」です。「息子は気前よく花びんを割った」となり、意味が通りません。
+【覚えるポイント】
+・deliberately：「わざと、故意に」。by accident（誤って、偶然に）と反対の意味を表します。
+・Although ～ の文では、前半と後半で考えがぶつかっていることが多いです。前半に by accident のような語があれば、後半にはその反対の意味の語が入るのではないかと考える手がかりになります。

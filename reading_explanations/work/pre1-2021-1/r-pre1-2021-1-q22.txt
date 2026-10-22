@@ -2,7 +2,7 @@
 choices: miss out | add up | get over | join in
 answerText: miss out
 ---
-【正解】1 miss out（（on ～で）（～を）逃す、（～の）機会を失う）
+【正解】1 miss out（miss out on ～で「～を逃す、～の機会を失う」）
 【和訳】
 （英文）
 A: If you don't come to the party tomorrow night, you'll ［miss out］ on all the fun.
@@ -11,7 +11,7 @@ B: Sorry, I really have to finish my presentation. You can tell me about the par
 A：明日の夜のパーティーに来ないと、楽しいことを全部（逃して）しまうよ。
 B：ごめん、どうしてもプレゼンテーション（発表）を仕上げないといけなくて。パーティーのことは、あとで話してくれればいいよ。
 （選択肢の意味）
-1 miss out：（on ～で）（～を）逃す、（～の）機会を失う
+1 miss out：（miss out on ～の形で）～を逃す、～の機会を失う
 2 add up：合計する、つじつまが合う
 3 get over：乗り越える、（病気などから）回復する
 4 join in：（活動などに）加わる、参加する

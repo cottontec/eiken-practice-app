@@ -1,0 +1,29 @@
+---
+choices: designate | assemble | undertake | compromise
+answerText: designate
+---
+【正解】1 designate（指定する）
+【和訳】
+（英文）
+Many residents wanted to ［designate］ the town hall as a historic building since it was over one hundred years old.
+（訳）
+町役場は100年以上の年月がたっていたので、多くの住民は、それを歴史的建造物に指定したいと思っていた。
+（選択肢の意味）
+1 designate：指定する、（ある役目や名前に）定める
+2 assemble：組み立てる、集める、集まる
+3 undertake：引き受ける、（仕事などに）取りかかる
+4 compromise：妥協する（おたがいに少しずつゆずる）、（安全や評判を）損なう
+【考え方】
+まず見るところ：空所のあとの the town hall as a historic building と、since it was over one hundred years old
+空所のあとは「the town hall（町役場）を a historic building（歴史的建造物）として」という形になっています。
+Many residents wanted to ( ) the town hall as a historic building since it was over one hundred years old.（町役場は100年以上の年月がたっていたので、多くの住民は、それを歴史的建造物として（　）したいと思っていた）
+since は、ここでは「～なので」と理由を表します。100年以上たった古い建物なので、住民は「歴史的建造物」という特別な扱いにしてほしいと思った、という流れです。
+designate A as B で「A を B に指定する」という意味になります。ですから、1が正解です。
+この問題の型：熟語・決まった形（designate A as B：A を B に指定する）
+【ほかの選択肢】
+2 assemble は「組み立てる、集める」です。「町役場を歴史的建造物として組み立てる」となり、100年以上たった建物の扱いとして意味が通りません。
+3 undertake は「引き受ける、取りかかる」です。「町役場を歴史的建造物として引き受ける」となり、意味が通りません。
+4 compromise は「妥協する、損なう」です。「町役場を歴史的建造物として損なう」となり、建物が古いので大切にしたいという理由とつながりません。
+【覚えるポイント】
+・designate A as B：「A を B に指定する」。
+・動詞の空所のあとに「A as B（A を B として）」が続くときは、A を B という立場や種類に「する、定める、見なす」という意味の動詞が入ることが多いです。since ～（～なので）の理由とも合わせて確かめましょう。
