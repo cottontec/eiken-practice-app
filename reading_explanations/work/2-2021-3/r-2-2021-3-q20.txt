@@ -1,6 +1,7 @@
 ---
 choices: least | less | only | worse
 answerText: less
+reviewed: yes
 ---
 【正解】2 less（（no less than ～で）～も）
 【和訳】

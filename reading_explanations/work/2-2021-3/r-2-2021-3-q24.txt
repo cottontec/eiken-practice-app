@@ -1,6 +1,7 @@
 ---
 choices: changes its flavor | is quite common | has unwanted effects | can be wasteful
 answerText: has unwanted effects
+reviewed: yes
 ---
 【正解】3 has unwanted effects（望ましくない影響がある）
 【和訳】

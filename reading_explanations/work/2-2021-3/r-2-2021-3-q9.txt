@@ -1,6 +1,7 @@
 ---
 choices: device | excuse | applause | resource
 answerText: excuse
+reviewed: yes
 ---
 【正解】2 excuse（言い訳）
 【和訳】

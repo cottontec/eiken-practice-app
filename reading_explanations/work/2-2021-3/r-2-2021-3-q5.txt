@@ -1,6 +1,7 @@
 ---
 choices: immigration | organization | persuasion | admission
 answerText: persuasion
+reviewed: yes
 ---
 【正解】3 persuasion（説得）
 【和訳】

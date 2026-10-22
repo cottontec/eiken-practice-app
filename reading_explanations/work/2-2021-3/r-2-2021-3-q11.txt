@@ -1,6 +1,7 @@
 ---
 choices: did away | kept on | went in | got on
 answerText: did away
+reviewed: yes
 ---
 【正解】1 did away（（with ～で）～を廃止した、やめた）
 【和訳】

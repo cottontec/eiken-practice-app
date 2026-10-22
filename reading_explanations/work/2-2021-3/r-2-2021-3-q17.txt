@@ -1,6 +1,7 @@
 ---
 choices: takes after | falls down | lies off | sees in
 answerText: takes after
+reviewed: yes
 ---
 【正解】1 takes after（～に似ている）
 【和訳】

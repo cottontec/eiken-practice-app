@@ -1,6 +1,7 @@
 ---
 choices: It would have been better if the sales department had been there. | It would have been fun to play some bingo games. | The prizes this year were nicer than those last year. | The choice of location was just right for it.
 answerText: The choice of location was just right for it.
+reviewed: yes
 ---
 【正解】4 The choice of location was just right for it.（場所の選び方がパーティーにちょうどよかった。）
 【和訳】

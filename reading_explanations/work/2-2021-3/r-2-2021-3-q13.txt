@@ -1,6 +1,7 @@
 ---
 choices: in turn | in touch | by chance | by heart
 answerText: in turn
+reviewed: yes
 ---
 【正解】1 in turn（今度は、自分の番として）
 【和訳】

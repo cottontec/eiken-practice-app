@@ -1,6 +1,7 @@
 ---
 choices: The elpistostegalian's bones were not strong enough for it to survive in deep water. | The elpistostegalian's hands and feet must have developed sometime after it left the sea. | The elpistostegalian could not have been one of the links between sea and land animals. | The elpistostegalian was different from other fish because its fins contained bones.
 answerText: The elpistostegalian was different from other fish because its fins contained bones.
+reviewed: yes
 ---
 【正解】4 The elpistostegalian was different from other fish because its fins contained bones.（エルピストステガリアンは、ひれに骨がふくまれていたので、ほかの魚とちがっていた。）
 【和訳】

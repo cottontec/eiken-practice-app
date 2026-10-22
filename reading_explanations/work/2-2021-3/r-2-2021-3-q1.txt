@@ -1,6 +1,7 @@
 ---
 choices: proved | accused | captured | neglected
 answerText: captured
+reviewed: yes
 ---
 【正解】3 captured（捕らえられた）
 【和訳】

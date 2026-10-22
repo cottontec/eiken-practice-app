@@ -1,6 +1,7 @@
 ---
 choices: were a kind of large creature that lived close to land. | were early tetrapods that liked to eat crocodiles. | developed from tetrapods that had both fins and legs. | were unknown to scientists until one was found in Canada.
 answerText: were a kind of large creature that lived close to land.
+reviewed: yes
 ---
 【正解】1 were a kind of large creature that lived close to land.（陸の近くに住んでいた、大きな生き物の一種だった。）
 【和訳】

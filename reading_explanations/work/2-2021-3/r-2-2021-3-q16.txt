@@ -1,6 +1,7 @@
 ---
 choices: blame for | begin at | add to | act on
 answerText: blame for
+reviewed: yes
 ---
 【正解】1 blame for（（be to blame for ～で）～の責任がある、～の原因である）
 【和訳】

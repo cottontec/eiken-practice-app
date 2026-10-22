@@ -1,6 +1,7 @@
 ---
 choices: expect | distract | remind | disturb
 answerText: remind
+reviewed: yes
 ---
 【正解】3 remind（思い出させる）
 【和訳】

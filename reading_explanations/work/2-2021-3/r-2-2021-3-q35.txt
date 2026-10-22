@@ -1,6 +1,7 @@
 ---
 choices: He ordered Christopher Columbus to return to America and bring back more. | Stories about this unfamiliar but tasty fruit were heard across Europe. | European explorers began searching the world for even more delicious fruit. | The king realized that people would be healthier if they ate more fruit.
 answerText: Stories about this unfamiliar but tasty fruit were heard across Europe.
+reviewed: yes
 ---
 【正解】2 Stories about this unfamiliar but tasty fruit were heard across Europe.（なじみはないがおいしいこの果物の話が、ヨーロッパ中で聞かれるようになった。）
 【和訳】
@@ -20,7 +21,7 @@ previously unknown は「それまで知られていなかった」です。
 本文と選択肢を対にすると、次のようになります。
 本文 News ... quickly spread around Europe（知らせがすぐにヨーロッパ中に広まった）＝ 選択肢 Stories ... were heard across Europe（話がヨーロッパ中で聞かれた）
 本文 this previously unknown fruit（それまで知られていなかったこの果物）＝ 選択肢 this unfamiliar ... fruit（なじみのないこの果物）
-本文 the most delicious of all fruits（あらゆる果物の中で最もおいしい）＝ 選択肢 tasty（おいしい）
+本文 the most delicious of all fruits（あらゆる果物の中で最もおいしい）→ 読み取れること：おいしい果物だった ＝ 選択肢 tasty（おいしい）
 ですから2が正解です。
 【ほかの選択肢】
 1 王がコロンブスに、もっと持ち帰るように命じたという話は本文にありません。

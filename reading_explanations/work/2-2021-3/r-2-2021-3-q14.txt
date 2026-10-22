@@ -1,6 +1,7 @@
 ---
 choices: complain of | specialize in | differ from | bound for
 answerText: specialize in
+reviewed: yes
 ---
 【正解】2 specialize in（～を専門にする）
 【和訳】

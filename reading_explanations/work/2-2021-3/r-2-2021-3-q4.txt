@@ -1,6 +1,7 @@
 ---
 choices: intense | endless | precise | frequent
 answerText: precise
+reviewed: yes
 ---
 【正解】3 precise（正確な）
 【和訳】

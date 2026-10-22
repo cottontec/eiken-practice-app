@@ -1,6 +1,7 @@
 ---
 choices: wore out | persisted in | relied on | made for
 answerText: persisted in
+reviewed: yes
 ---
 【正解】2 persisted in（～をし続けた、～に固執した）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: In order to become as rich as the people who grew pineapples in South America. | In order to stop pirates from attacking their ships and taking their valuable fruit. | Because many pineapples were no longer fresh when they arrived in Europe. | Because huge amounts of fuel were needed to ship pineapples from South America.
 answerText: Because many pineapples were no longer fresh when they arrived in Europe.
+reviewed: yes
 ---
 【正解】3 Because many pineapples were no longer fresh when they arrived in Europe.（多くのパイナップルが、ヨーロッパに着いたときにはもう新鮮ではなかったから。）
 【和訳】

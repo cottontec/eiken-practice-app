@@ -1,6 +1,7 @@
 ---
 choices: In reality | With luck | Like before | By then
 answerText: With luck
+reviewed: yes
 ---
 【正解】2 With luck（うまくいけば、運がよければ）
 【和訳】

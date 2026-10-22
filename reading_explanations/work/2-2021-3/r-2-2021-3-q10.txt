@@ -1,6 +1,7 @@
 ---
 choices: vehicles | tubes | rivals | deserts
 answerText: vehicles
+reviewed: yes
 ---
 【正解】1 vehicles（車両、乗り物）
 【和訳】

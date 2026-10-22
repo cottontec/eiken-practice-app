@@ -1,6 +1,7 @@
 ---
 choices: this new technology | their sense of touch | the colors of a rainbow | these natural smells
 answerText: their sense of touch
+reviewed: yes
 ---
 【正解】2 their sense of touch（自分たちの触覚）
 【和訳】

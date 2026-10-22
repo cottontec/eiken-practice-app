@@ -1,6 +1,7 @@
 ---
 choices: Pineapple farms were created in places closer to Europe than South America. | Ships were invented that took less time to travel from South America to Europe. | They became so common that ordinary people became tired of eating them. | The climate in Britain changed so that people could grow them in their gardens.
 answerText: Ships were invented that took less time to travel from South America to Europe.
+reviewed: yes
 ---
 【正解】2 Ships were invented that took less time to travel from South America to Europe.（南アメリカからヨーロッパまで、（それまでより）短い時間で行ける船が発明された。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: violence | affection | insurance | punishment
 answerText: insurance
+reviewed: yes
 ---
 【正解】3 insurance（保険）
 【和訳】

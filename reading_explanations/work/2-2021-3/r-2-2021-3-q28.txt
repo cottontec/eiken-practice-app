@@ -1,6 +1,7 @@
 ---
 choices: Some college students will volunteer at the company. | Kent Gardiner will move to the design department. | Workers at the company will get their first bonus for 10 years. | Three people will join the customer service department.
 answerText: Three people will join the customer service department.
+reviewed: yes
 ---
 【正解】4 Three people will join the customer service department.（3人が顧客サービス部に加わる。）
 【和訳】

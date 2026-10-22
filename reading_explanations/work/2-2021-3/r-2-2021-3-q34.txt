@@ -1,6 +1,7 @@
 ---
 choices: hard for many people to get because they only grew in a few places. | thought to be too sweet by the native people of South America. | introduced to countries like Brazil and Paraguay by the Carib people. | used by people on Caribbean islands as food for farm animals.
 answerText: hard for many people to get because they only grew in a few places.
+reviewed: yes
 ---
 【正解】1 hard for many people to get because they only grew in a few places.（限られた場所でしか育たなかったので、多くの人にとって手に入れにくかった。）
 【和訳】
@@ -19,7 +20,7 @@ Pineapples originally come from South America. They first grew in places which a
 rare は「珍しい、めったにない」です。パイナップルは南アメリカの一部の地域にしかなく、世界のほとんどの地域では珍しいものでした。
 本文と選択肢を対にすると、次のようになります。
 本文 in most parts of the world, they were extremely rare（世界のほとんどの地域で、きわめて珍しかった）→ 読み取れること：多くの人にとって手に入れにくかった ＝ 選択肢 hard for many people to get
-本文 They first grew in places which are now parts of Brazil and Paraguay（現在のブラジルとパラグアイの一部で最初に育った）＝ 選択肢 they only grew in a few places（限られた場所でしか育たなかった）
+本文 Pineapples originally come from South America. They first grew in places which are now parts of Brazil and Paraguay.（もともと南アメリカの原産で、最初は現在のブラジルとパラグアイの一部で育った）→ 読み取れること：世界のほとんどの地域にはなく、限られた場所でしか育っていなかった ＝ 選択肢 they only grew in a few places（限られた場所でしか育たなかった）
 ですから1が正解です。
 【ほかの選択肢】
 2 本文には Their natural sweetness made them a favorite of the native people.（その自然な甘さによって、パイナップルは先住民の大好物になった）とあります。先住民は甘さを好んでいたので、「甘すぎると思われていた」は本文と反対です。

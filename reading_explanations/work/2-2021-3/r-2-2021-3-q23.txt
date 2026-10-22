@@ -1,6 +1,7 @@
 ---
 choices: are unable to leave home | have no memory | face the same challenge | prefer other styles
 answerText: face the same challenge
+reviewed: yes
 ---
 【正解】3 face the same challenge（同じ困難に直面している）
 【和訳】

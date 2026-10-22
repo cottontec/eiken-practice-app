@@ -1,6 +1,7 @@
 ---
 choices: the group of animals that developed into the earliest kinds of fish. | the only animals without backbones that have developed arms and legs. | animals with a backbone and four limbs which allow them to walk or fly. | animals that lived both in the sea and on land about 374 million years ago.
 answerText: animals with a backbone and four limbs which allow them to walk or fly.
+reviewed: yes
 ---
 【正解】3 animals with a backbone and four limbs which allow them to walk or fly.（背骨と、歩いたり飛んだりすることを可能にする4本の手足を持つ動物（である）。）
 【和訳】

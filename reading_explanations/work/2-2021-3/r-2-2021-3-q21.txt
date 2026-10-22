@@ -1,6 +1,7 @@
 ---
 choices: Even so | Rather | For once | Therefore
 answerText: Even so
+reviewed: yes
 ---
 【正解】1 Even so（それでも）
 【和訳】

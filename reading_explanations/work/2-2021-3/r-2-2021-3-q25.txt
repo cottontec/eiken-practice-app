@@ -1,6 +1,7 @@
 ---
 choices: soon turns into a gas | is eaten by animals | cannot be replaced | does not just disappear
 answerText: does not just disappear
+reviewed: yes
 ---
 【正解】4 does not just disappear（ただ消えてなくなるわけではない）
 【和訳】
@@ -15,7 +16,7 @@ answerText: does not just disappear
 空所は第2段落の最初の Research has shown that when salt is used on roads, it (25). です。「研究によって、塩が道路に使われると、それは（25）ことが分かっている」という意味で、it は salt（塩）を指します。
 次の文に注目します。
 Instead, it is carried into the ground by the melted ice.（そうではなく、塩はとけた氷によって地面の中へ運ばれる）
-Instead（そうではなく、その代わりに）は、前の内容を打ち消して、別のことを言うときに使います。ですから空所には、「地面の中へ運ばれる」とは別のこと、それを打ち消す形の内容が入ると考えられます。
+Instead（そうではなく、その代わりに）は、前に「～ではない」と打ち消した内容があり、そのあとで「実際はこうだ」と言うときに使います。ですから空所には、「～ではない」という打ち消しの形の内容が入り、それに対して「実際には地面の中へ運ばれる」と続く、と考えられます。
 さらにそのあとには、塩が湖や川に行き着いて、魚などに害を与えると書かれています。つまり、道路にまいた塩は、なくなるのではなく、場所を移して残り続けるということです。
 does not just disappear（ただ消えてなくなるわけではない）を入れると、「塩はただ消えるわけではない。そうではなく、地面の中へ運ばれる」となり、Instead の前後が自然につながります。ですから4が正解です。
 【ほかの選択肢】

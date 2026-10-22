@@ -1,6 +1,7 @@
 ---
 choices: confused | promoted | arrested | located
 answerText: confused
+reviewed: yes
 ---
 【正解】1 confused（混乱させた）
 【和訳】

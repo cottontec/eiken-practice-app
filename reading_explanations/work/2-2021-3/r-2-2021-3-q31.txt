@@ -1,6 +1,7 @@
 ---
 choices: Few hints about what the land was like around that time have been found. | There is not much fossil evidence from the period when this change happened. | Ancient fish fossils show that it occurred in several different ways. | Experts are not sure exactly when this important event might have occurred.
 answerText: There is not much fossil evidence from the period when this change happened.
+reviewed: yes
 ---
 【正解】2 There is not much fossil evidence from the period when this change happened.（この変化が起こった時代の化石の証拠があまりない。）
 【和訳】

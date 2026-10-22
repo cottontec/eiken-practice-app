@@ -1,6 +1,7 @@
 ---
 choices: hesitantly | academically | spiritually | terribly
 answerText: hesitantly
+reviewed: yes
 ---
 【正解】1 hesitantly（ためらいながら）
 【和訳】

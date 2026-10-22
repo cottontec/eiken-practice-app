@@ -1,6 +1,7 @@
 ---
 choices: combine | exhibit | imitate | overcome
 answerText: exhibit
+reviewed: yes
 ---
 【正解】2 exhibit（展示する）
 【和訳】
