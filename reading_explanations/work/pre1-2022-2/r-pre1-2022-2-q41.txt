@@ -1,0 +1,32 @@
+---
+choices: A mistake made by the LRDG allowed enemy forces to strengthen their hold on territory that the British hoped to gain. | The transfer of the LRDG to Europe meant the SAS had no choice but to attack enemy forces in a heavily defended area without LRDG support. | The activities of the LRDG made it possible for the British army to gain a significant advantage that led to it defeating enemy forces in the area. | British commanders decided the LRDG would be better put to use defending British-held territory than observing enemy activities.
+answerText: The activities of the LRDG made it possible for the British army to gain a significant advantage that led to it defeating enemy forces in the area.
+---
+【正解】3 The activities of the LRDG made it possible for the British army to gain a significant advantage that led to it defeating enemy forces in the area.（LRDGの活動によって、イギリス軍は大きな優位を得ることができ、それがその地域での敵軍に対する勝利につながった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to the author of the passage, what happened in 1943?（筆者によると、1943年に何が起きたか。）
+1 A mistake made by the LRDG allowed enemy forces to strengthen their hold on territory that the British hoped to gain.（LRDGのおかした失敗によって、敵軍は、イギリスが手に入れたいと望んでいた領土の支配を強めることになった。）
+2 The transfer of the LRDG to Europe meant the SAS had no choice but to attack enemy forces in a heavily defended area without LRDG support.（LRDGがヨーロッパへ移ったことで、SASは、LRDGの支援なしに、守りの固い地域で敵軍を攻撃するしかなくなった。）
+3 The activities of the LRDG made it possible for the British army to gain a significant advantage that led to it defeating enemy forces in the area.（LRDGの活動によって、イギリス軍は大きな優位を得ることができ、それがその地域での敵軍に対する勝利につながった。）
+4 British commanders decided the LRDG would be better put to use defending British-held territory than observing enemy activities.（イギリス軍の司令官たちは、LRDGは敵の活動を観察するよりも、イギリスが支配する領土を守るのに使うほうがよいと決めた。）
+【考え方】
+まず見るところ：第5段落の The LRDG's greatest achievement came in 1943, when the unit found a route ～
+The LRDG's greatest achievement came in 1943, when the unit found a route that enabled British forces to get around heavily defended enemy lines without being detected, allowing them to attack at weaker points in the defenses.（LRDGの最大の功績は1943年にもたらされた。この年、この部隊は、イギリス軍が、守りの固い敵の前線を気づかれずに回りこみ、防衛のより弱い地点を攻撃できるようにする道すじを見つけたのである）
+enable ～ to ... は「～が…できるようにする」、get around ～ は「～を回りこむ」という意味です。
+This was a crucial turning point in the campaign in North Africa and contributed greatly to the British victory there.（これは北アフリカでの軍事作戦の決定的な転換点となり、その地でのイギリスの勝利に大きく貢献した）
+本文と選択肢3を対にすると、次のようになります。
+・本文 the unit found a route that enabled British forces to ～ → 選択肢 The activities of the LRDG made it possible for the British army to ～（LRDGの活動によって、イギリス軍は～できた）
+・本文 a crucial turning point（決定的な転換点）→ 選択肢 gain a significant advantage（大きな優位を得る）
+・本文 contributed greatly to the British victory there → 選択肢 led to it defeating enemy forces in the area（その地域での敵軍に対する勝利につながった）
+よって3が正解です。
+この問題の型：言いかえ（enabled British forces to → made it possible for the British army to）
+【ほかの選択肢】
+1 本文の内容と合いません。1943年の出来事は、LRDGの「最大の功績（greatest achievement）」として書かれています。LRDGが失敗をおかしたとは書かれていません。
+2 本文に書かれていません。LRDGがその後1945年までヨーロッパで大きく貢献したことは書かれていますが、1943年にヨーロッパへ移ったことや、SASが支援なしで攻撃するしかなくなったことは書かれていません。
+4 本文に書かれていません。司令官たちが、LRDGを観察ではなく領土を守ることに使うと決めたという話は出てきません。1943年にLRDGがしたのは、敵の前線を回りこむ道すじを見つけることでした。
+【覚えるポイント】
+・enable ～ to ...：「～が…できるようにする」＝ make it possible for ～ to ...。turning point：「転換点」。contribute to ～：「～に貢献する」。
+・「～年に何が起きたか」という設問では、本文でその年が出てくる文を探し、その文と次の文に書かれた「出来事」と「その結果」の両方に合う選択肢を選びます。

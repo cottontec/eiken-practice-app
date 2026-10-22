@@ -1,6 +1,7 @@
 ---
 choices: summoned | hammered | mingled | trembled
 answerText: summoned
+reviewed: yes
 ---
 【正解】1 summoned（呼び出した）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: The substances that were added to the pigment to improve its color destroyed any biological evidence that tests could have detected. | The way that ancient Egyptians prepared mummies changed, so the contents of the pigment were not consistent. | Artists mixed the pigment with other types of paint before applying it to paintings, so it would only be present in very small amounts. | The art industry has tried to prevent researchers from conducting tests on paintings because of concerns that the results could affect their value.
 answerText: The way that ancient Egyptians prepared mummies changed, so the contents of the pigment were not consistent.
+reviewed: yes
 ---
 【正解】2 The way that ancient Egyptians prepared mummies changed, so the contents of the pigment were not consistent.（古代エジプト人のミイラの作り方が変わったので、顔料の中身が一定ではなかった。）
 【和訳】
@@ -21,7 +22,7 @@ These same factors make it almost impossible for researchers today to detect the
 本文と選択肢2を対にすると、次のようになります。
 ・本文 the mummification process itself ～ underwent changes over time（ミイラ作りの工程そのものが、時代とともに変化した）＝ 選択肢 The way that ancient Egyptians prepared mummies changed（古代エジプト人のミイラの作り方が変わった）
 ・本文 little consistency（ほとんど一貫性がない）→ 選択肢 the contents of the pigment were not consistent（顔料の中身が一定ではなかった）
-本文で little consistency（一貫性がない）と書かれているのは、製造業者によって使う部分が違ったことについてです。ただ、ミイラ作りの工程が時代とともに変われば、材料になるミイラの中身もそろわなくなると考えられます。どちらも These same factors（これらの同じ要因）としてまとめられているので、2が正解です。
+本文で little consistency（一貫性がない）と書かれているのは、製造業者によって使う部分が違ったことについてです。ただ、ミイラ作りの工程が時代とともに変われば、材料になるミイラの中身もそろわなくなると考えられます。選択肢2の前半は、本文が These same factors（これらの同じ要因）の一つとして挙げた内容とそのまま一致します。後半の「中身が一定ではなかった」も、本文の little consistency と同じ方向の内容です。ほかの3つは本文にない内容なので、2が最も適切です。
 この問題の型：言いかえ（the mummification process ～ underwent changes ＝ the way ～ prepared mummies changed）
 【ほかの選択肢】
 1 本文に書かれていません。本文に出てくる substances（物質）は「体を保存するのに使われた物質」で、顔料の色をよくするために加えられた物質ではありません。それが検査の手がかりをこわしたという話もありません。

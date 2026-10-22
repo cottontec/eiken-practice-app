@@ -1,6 +1,7 @@
 ---
 choices: execute | discern | endure | relay
 answerText: endure
+reviewed: yes
 ---
 【正解】3 endure（耐える、がまんする）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: further support this trend | reduce seat-belt use | encourage dangerous driving | provide an alternative solution
 answerText: encourage dangerous driving
+reviewed: yes
 ---
 【正解】3 encourage dangerous driving（危険な運転をうながす）
 【和訳】
@@ -13,7 +14,7 @@ answerText: encourage dangerous driving
 4 provide an alternative solution（別の解決策を示す）
 【考え方】
 まず見るところ：第1段落の空所の後ろの This is because ～ と、段落の最後の limits are sometimes set at unsafe levels
-空所の前で、政府の政策を批判する人々は「より厳しい規制があれば死者をさらに減らせる」と主張しています。そして In fact（実際）のあとで、速度制限の政策について、もっと強い意見が紹介されます。
+空所の前で、政府の政策を批判する人々は「より厳しい規制があれば死者をさらに減らせる」と主張しています。そして In fact（実際）のあとで、速度制限の政策について、もっと具体的な意見が紹介されます。
 some say current government policies regarding speed limits may (　)（速度制限に関する現在の政府の政策は〇〇かもしれないと言う人もいる）
 空所の後ろの This is because（これは～だからだ）以下に、その理由が書かれています。速度制限は、車が実際に走っている速さにもとづいて決められ、危険な道路の特徴にはほとんど注意が払われません。段落の最後には、次のように書かれています。
 Unfortunately, this means limits are sometimes set at unsafe levels.（残念ながら、これは、速度制限が時に安全でない水準に設定されることを意味する）

@@ -1,6 +1,7 @@
 ---
 choices: Caligula's seemingly crazy actions may actually have been part of a carefully thought-out plan. | the "brain fever" that Caligula suffered was more serious than it was originally believed to be. | Caligula should not be judged based on the period when he was suffering from a mental illness. | many of the violent acts that Caligula is reported to have carried out were performed by other Roman emperors.
 answerText: Caligula's seemingly crazy actions may actually have been part of a carefully thought-out plan.
+reviewed: yes
 ---
 【正解】1 Caligula's seemingly crazy actions may actually have been part of a carefully thought-out plan.（カリグラの一見正気でないように見える行動は、実は、よく考えられた計画の一部だったのかもしれない。）
 【和訳】
@@ -25,7 +26,7 @@ Today, however, some historians argue that his actions may have been a deliberat
 この問題の型：言いかえ（a clever political strategy → a carefully thought-out plan）
 【ほかの選択肢】
 2 本文に書かれていません。「脳の熱病」にかかったことは書かれていますが、その病気が思われていたより重かったという話はありません。歴史家たちの主張は、病気の重さではなく、カリグラの行動の理由についてのものです。
-3 本文に書かれていません。一部の歴史家は、カリグラの行動は病気のせいではなく、意図的な戦略だったかもしれないと主張しています。「心の病に苦しんでいた時期をもとに評価すべきではない」という主張は書かれていません。
+3 本文に書かれていません。一部の歴史家は、カリグラの行動は意図的な戦略の一部だったかもしれないと主張しています。「心の病に苦しんでいた時期をもとに評価すべきではない」という主張は書かれていません。
 4 本文に書かれていません。カリグラの暴力的な行為が、実はほかの皇帝によって行われたという話はありません。ほかのローマ皇帝が出てくるのは、第2段落の「死ぬと神になると考えられていた」という部分だけです。
 【覚えるポイント】
 ・seemingly：「一見すると、見たところは」。deliberate：「意図的な」。strategy：「戦略」。

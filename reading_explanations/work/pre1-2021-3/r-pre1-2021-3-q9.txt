@@ -1,6 +1,7 @@
 ---
 choices: token | lease | vicinity | dialect
 answerText: lease
+reviewed: yes
 ---
 【正解】2 lease（賃貸契約）
 【和訳】

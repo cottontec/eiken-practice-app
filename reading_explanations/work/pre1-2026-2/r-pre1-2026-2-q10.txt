@@ -1,0 +1,29 @@
+---
+choices: column | succession | inaction | inspection
+answerText: inspection
+---
+【正解】4 inspection（検査、立ち入り調査）
+【和訳】
+（英文）
+The government official's ［inspection］ of the factory revealed that it was polluting the local river. The factory was soon ordered to stop.
+（訳）
+政府の役人がその工場を検査したことで、工場が地元の川を汚していることが明らかになった。工場はまもなく、それをやめるよう命じられた。
+（選択肢の意味）
+1 column：柱、（新聞などの）コラム、縦の列
+2 succession：連続、（地位などを）受けつぐこと
+3 inaction：何もしないこと
+4 inspection：検査、立ち入り調査
+【考え方】
+まず見るところ：空所の後ろの of the factory revealed that it was polluting the local river
+The government official's ( ) of the factory revealed that it was polluting the local river.（政府の役人による工場の（　）が、工場が地元の川を汚していることを明らかにした）
+reveal は「明らかにする」、pollute は「汚染する（汚す）」という意味です。空所の語が「工場が川を汚している」という事実を明らかにしたことになります。
+The factory was soon ordered to stop.（工場はまもなく、やめるよう命じられた）
+役人が工場を調べたことで汚染が見つかり、やめるよう命令が出た、という流れだと分かります。inspection は「検査、立ち入り調査」という意味で、inspection of the factory で「工場の検査」となるので、4が正解です。
+この問題の型：因果（検査→汚染が分かった→やめるよう命じられた）／語の意味・組み合わせ（inspection of the factory）
+【ほかの選択肢】
+1 column は「柱、（新聞などの）コラム」です。「役人の工場のコラムが汚染を明らかにした」となり、工場を調べたという流れになりません。
+2 succession は「連続、（地位などを）受けつぐこと」です。「役人の工場の受けつぎが汚染を明らかにした」となり、意味が通りません。
+3 inaction は「何もしないこと」です。何もしなかったのでは、工場が川を汚しているという事実は明らかになりません。
+【覚えるポイント】
+・inspection：「検査、立ち入り調査」。inspection of ～ で「～の検査」。
+・空所の語が reveal（明らかにする）の主語になっているときは、何かを「明らかにできる」行動を表す語かどうかを確かめることが手がかりになります。

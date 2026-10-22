@@ -1,0 +1,32 @@
+---
+choices: It was important for delegates to admit that some fundamental problems with the interwar financial order would never be solved. | European nations did not understand the need for reform, as they had not been affected by the Great Depression as much as the United States had. | Holding the conference in 1944 might have been a mistake, as it was not clear that the Allies would win World War II. | Although the Allies were working together to win the war, there were doubts about whether such cooperation would continue in economic fields.
+answerText: Although the Allies were working together to win the war, there were doubts about whether such cooperation would continue in economic fields.
+---
+【正解】4 Although the Allies were working together to win the war, there were doubts about whether such cooperation would continue in economic fields.（連合国は戦争に勝つために協力していたが、そうした協力が経済の分野でも続くかどうかについて疑問があった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What was the concern of the US delegate mentioned in the first paragraph?（第1段落で述べられているアメリカの代表者の心配は何だったか。）
+1 It was important for delegates to admit that some fundamental problems with the interwar financial order would never be solved.（代表者たちは、二つの大戦の間の金融の秩序が持つ根本的な問題のいくつかは決して解決されないと認めることが大切だった。）
+2 European nations did not understand the need for reform, as they had not been affected by the Great Depression as much as the United States had.（ヨーロッパの国々は、アメリカほど世界恐慌の影響を受けていなかったので、改革の必要性を理解していなかった。）
+3 Holding the conference in 1944 might have been a mistake, as it was not clear that the Allies would win World War II.（連合国が第二次世界大戦に勝つかどうかがはっきりしていなかったので、1944年に会議を開いたのはまちがいだったかもしれない。）
+4 Although the Allies were working together to win the war, there were doubts about whether such cooperation would continue in economic fields.（連合国は戦争に勝つために協力していたが、そうした協力が経済の分野でも続くかどうかについて疑問があった。）
+【考え方】
+まず見るところ：第1段落の最後の Nevertheless, delegates had concerns. と、アメリカの代表者の言葉
+第1段落の終わりに、代表者たちの心配と、アメリカの代表者の言葉が書かれています。
+Although World War II continued to rage, the pendulum was swinging strongly in the Allies' favor. Nevertheless, delegates had concerns.（第二次世界大戦はまだ激しく続いていたが、形勢は連合国に大きく有利な方へ傾きつつあった。それでも、代表者たちには心配があった）
+戦争は連合国に有利に進んでいるのに、それでも心配があった、という流れです。その心配の中身が、アメリカの代表者の言葉です。
+"We fight together on sodden battlefields. . . . The test of this conference is whether we can walk together, solve our economic problems, down the road to peace as we today march to victory."（「私たちは、水びたしの戦場でともに戦っている。……この会議が試されるのは、今日私たちが勝利に向かって進んでいるように、平和への道をともに歩み、私たちの経済の問題を解決できるかどうかだ」）
+「戦場ではともに戦っているが、平和への道でもともに歩み、経済の問題を解決できるかどうか」が試される、と言っています。つまり、戦争での協力が経済でも続くかどうかを心配していると分かります。本文と選択肢を対にすると、次のようになります。
+・本文 We fight together on sodden battlefields（水びたしの戦場でともに戦っている）→ 言いかえると → 選択肢 the Allies were working together to win the war（連合国は戦争に勝つために協力していた）
+・本文 The test of this conference is whether we can walk together, solve our economic problems（この会議が試されるのは、ともに歩み、経済の問題を解決できるかどうかだ）→ 読み取れること → 選択肢 there were doubts about whether such cooperation would continue in economic fields（そうした協力が経済の分野でも続くかどうかについて疑問があった）
+ですから、4が正解です。
+この問題の型：言いかえ（We fight together ＝ working together to win the war）、推論（whether we can walk together ～ → 協力が経済でも続くかという疑問）
+【ほかの選択肢】
+1 アメリカの代表者は「経済の問題を解決できるかどうか」が試されると言っています。根本的な問題が決して解決されないと認めるべきだとは言っていません。
+2 ヨーロッパの国々が改革の必要性を理解していなかったことや、アメリカほど世界恐慌の影響を受けていなかったことは、本文に書かれていません。
+3 本文では、形勢は連合国に大きく有利な方へ傾きつつあり、代表者も we today march to victory（今日私たちは勝利に向かって進んでいる）と言っています。1944年に会議を開いたのがまちがいだったかもしれない、という心配は本文に書かれていません。
+【覚えるポイント】
+・concern：「心配、懸念（気がかりなこと）」。had concerns で「心配があった」です。
+・Nevertheless, ～ had concerns.（それでも、～には心配があった）のあとに人の言葉が引用されているときは、その言葉が心配の中身を説明していることが多いです。言葉の中の whether ～（～かどうか）の部分に注目すると、何が心配なのかが見つかりやすくなります。

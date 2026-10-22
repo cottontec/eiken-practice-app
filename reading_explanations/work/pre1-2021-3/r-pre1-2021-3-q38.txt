@@ -1,6 +1,7 @@
 ---
 choices: Disease was widespread in Europe at the time, so Europeans were willing to try anything to create effective medicines. | Because the mummies had not turned black in spite of their age, Europeans assumed they could provide health benefits. | Europeans mistakenly believed that a substance which was thought to have medical benefits was present in all mummies. | The fact that the mummies had religious significance to ancient Egyptians caused Europeans to believe they had special powers.
 answerText: Europeans mistakenly believed that a substance which was thought to have medical benefits was present in all mummies.
+reviewed: yes
 ---
 【正解】3 Europeans mistakenly believed that a substance which was thought to have medical benefits was present in all mummies.（ヨーロッパの人々は、医療に役立つと考えられていた物質が、すべてのミイラにふくまれていると誤って信じていた。）
 【和訳】
@@ -23,11 +24,11 @@ an incorrect translation of Arabic texts resulted in the mistaken belief that th
 ・本文 bitumen ～ used by ancient societies to treat illnesses（古代の社会で病気の治療に使われていたビチューメン）→ 選択肢 a substance which was thought to have medical benefits（医療に役立つと考えられていた物質）
 ・本文 People assumed ～（人々は～と思いこんだ）／ the mistaken belief（まちがった思いこみ）＝ 選択肢 mistakenly believed（誤って信じていた）
 ・本文 ミイラの黒い色をビチューメンのせいだと思いこんだが、ヨーロッパへ運ばれたミイラの多くにはビチューメンは使われていなかった → 選択肢 was present in all mummies（すべてのミイラにふくまれている）と誤って信じていた
-よって3が正解です。
+ビチューメンが体の中に入りこんでいるという誤解もあったので、人々は「薬になる物質がミイラの中にある」と信じたのです。よって3が正解です。
 この問題の型：言いかえ（the mistaken belief → mistakenly believed）
 【ほかの選択肢】
 1 本文に書かれていません。当時ヨーロッパで病気が広まっていたことや、人々が効く薬のためなら何でも試そうとしたことは書かれていません。
-2 本文と反対です。本文には the mummies' black color（ミイラの黒い色）とあり、ミイラは黒かったと書かれています。「黒くなっていなかった」という内容とは合いません。
+2 本文の内容と合いません。本文には the mummies' black color（ミイラの黒い色）とあり、ミイラは黒かったと書かれています。「黒くなっていなかった」という内容とは合いません。人々が薬になると考えた理由も、黒い色をビチューメンのせいだと思いこんだことで、「黒くなっていないから」ではありません。
 4 本文に書かれていません。古代エジプト人がミイラ作りによって魂があの世に入れると信じていたことは書かれていますが、それが理由でヨーロッパの人々がミイラに特別な力があると信じた、という話はありません。
 【覚えるポイント】
 ・assume：「（確かめずに）思いこむ」。mistaken belief：「まちがった思いこみ」。treat：「処理する、治療する」。

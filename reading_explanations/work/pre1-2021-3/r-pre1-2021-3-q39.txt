@@ -1,6 +1,7 @@
 ---
 choices: A number of leaders saw it as a reason to also invade Egypt, which led to the destruction of many ancient artifacts. | It revealed information about ancient Egyptian culture that led Europeans to change their opinion of medicines made from mummies. | It was opposed by wealthy Europeans, who thought it would result in their collections of ancient artifacts being destroyed. | It led to an increased interest in mummies and inspired Europeans to use them for a number of purposes.
 answerText: It led to an increased interest in mummies and inspired Europeans to use them for a number of purposes.
+reviewed: yes
 ---
 【正解】4 It led to an increased interest in mummies and inspired Europeans to use them for a number of purposes.（それはミイラへの関心の高まりにつながり、ヨーロッパの人々がミイラをいくつもの目的に使うきっかけとなった。）
 【和訳】

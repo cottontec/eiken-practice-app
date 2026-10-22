@@ -1,6 +1,7 @@
 ---
 choices: startled | improvised | prolonged | tolerated
 answerText: startled
+reviewed: yes
 ---
 【正解】1 startled（びっくりさせられた）
 【和訳】

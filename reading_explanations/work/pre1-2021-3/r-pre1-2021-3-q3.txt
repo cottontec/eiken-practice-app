@@ -1,6 +1,7 @@
 ---
 choices: sufficient | arrogant | subsequent | prominent
 answerText: subsequent
+reviewed: yes
 ---
 【正解】3 subsequent（その後の、次に続く）
 【和訳】

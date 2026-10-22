@@ -1,6 +1,7 @@
 ---
 choices: The fact that he almost died caused him to stop being interested in anything except gods and religion. | He felt that he could no longer trust anyone, leading him to change the way he governed. | Roman citizens thought he was still likely to die, so he attempted to show them that the gods would protect him. | He began to doubt old beliefs about Roman emperors, which led to serious conflicts with other members of the government.
 answerText: He felt that he could no longer trust anyone, leading him to change the way he governed.
+reviewed: yes
 ---
 【正解】2 He felt that he could no longer trust anyone, leading him to change the way he governed.（彼はもうだれも信用できないと感じ、そのことが、彼の国の治め方を変えることにつながった。）
 【和訳】
@@ -24,7 +25,7 @@ betrayed は「裏切られた」、threatened は「おびやかされた」で
 この問題の型：推論（felt betrayed → could no longer trust anyone）
 【ほかの選択肢】
 1 本文に書かれていません。カリグラは自分が神だと主張しましたが、神々と宗教以外のことに興味をなくしたという話はありません。本文では、神だという主張は、敵に暗殺を思いとどまらせるためだったかもしれないと説明されています。
-3 本文の内容と違います。生き延びると思われていなかったのは「病気の間」のことで、市民が「まだ死にそうだと思っていた」とは書かれていません。また、神だと主張した理由は、本文では「敵が自分を暗殺するのを思いとどまらせるため」とされていて、「神々が自分を守ってくれることを示すため」ではありません。
+3 本文に書かれていません。生き延びると思われていなかったのは「病気の間」のことで、市民が「まだ死にそうだと思っていた」とは書かれていません。また、神だと主張した理由として本文に出てくるのは「敵が自分を暗殺するのを思いとどまらせるためだったかもしれない」という説明で、「神々が自分を守ってくれることを市民に示すため」とは書かれていません。
 4 本文に書かれていません。本文には「多くのローマ皇帝は死ぬと神になると考えられていた」とありますが、カリグラがその考えを疑い始めたとは書かれていません。政府の人々との深刻な対立も書かれていません。
 【覚えるポイント】
 ・betrayed：「裏切られた」。threatened：「おびやかされた」。secure one's position：「自分の地位を確かなものにする」。

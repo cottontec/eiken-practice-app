@@ -1,6 +1,7 @@
 ---
 choices: use up charities' resources | change donors' attitudes | encourage people to donate more | improve the public's image of charities
 answerText: change donors' attitudes
+reviewed: yes
 ---
 【正解】2 change donors' attitudes（寄付者の考え方を変える）
 【和訳】
@@ -20,7 +21,7 @@ it is widely believed that people give more when they receive donor premiums（�
 Most people initially give money because they want to make the world a better place or help those who are less fortunate.（たいていの人は最初、世の中をよりよい場所にしたい、あるいは、より恵まれない人々を助けたいと思ってお金を寄付する）
 When they receive gifts, though, people can start to become motivated by selfishness and desire.（しかし、贈り物を受け取ると、人々は自分勝手な気持ちや欲によって動かされるようになり始めることがある）
 initially は「最初は」です。最初は「人を助けたい」という気持ちだったのに、贈り物を受け取ると「自分勝手な気持ちや欲」で動くようになる、つまり寄付する人の考え方が変わってしまうのです。attitude は「考え方、態度」なので、2が正解です。
-この問題の型：具体例とまとめ（最初の気持ち → 贈り物で変わる気持ち ＝ change donors' attitudes）
+この問題の型：対比（広く信じられている考え ⇔ However のあとの研究者の見方）、具体例とまとめ（最初の気持ち → 贈り物で変わる気持ち ＝ change donors' attitudes）
 【ほかの選択肢】
 1 use up charities' resources は「慈善団体の資源を使い果たす」です。記念品にお金がかかるという話は本文に書かれておらず、空所の後ろの「寄付する人の気持ちの変化」の説明ともつながりません。
 3 encourage people to donate more は「人々がもっと寄付するようにうながす」です。これは空所の前の「広く信じられている考え」と同じ内容です。However（しかし）のあとに入れると話がつながらず、さらに後ろの they may become less likely to donate in the future（今後、寄付をする可能性がより低くなるかもしれない）とも合いません。

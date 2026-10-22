@@ -1,6 +1,7 @@
 ---
 choices: vulnerable | clueless | conventional | phonetic
 answerText: conventional
+reviewed: yes
 ---
 【正解】3 conventional（従来の、昔からの決まりどおりの）
 【和訳】

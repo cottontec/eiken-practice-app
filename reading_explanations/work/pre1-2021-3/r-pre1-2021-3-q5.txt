@@ -1,6 +1,7 @@
 ---
 choices: diverge | certify | evade | glorify
 answerText: certify
+reviewed: yes
 ---
 【正解】2 certify（証明する、保証する）
 【和訳】

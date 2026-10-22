@@ -1,0 +1,35 @@
+---
+choices: Helping children solve their own problems can promote the development of the part of the brain that controls behavior. | Since the brains of younger children function in a different way to those of older children, different methods of dealing with behavioral issues are necessary. | The region of the brain known as the prefrontal cortex may be less important in controlling children’s behavior than some scientists believe it is. | Bad behavior does not only have a negative effect on children’s academic performance but also permanently prevents the normal development of their brains.
+answerText: Helping children solve their own problems can promote the development of the part of the brain that controls behavior.
+---
+【正解】1 Helping children solve their own problems can promote the development of the part of the brain that controls behavior.（子どもが自分の問題を解決するのを手助けすることは、行動をコントロールする脳の部分の発達を促すことがある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What does Ross Greene believe about children’s brains?（ロス・グリーンは、子どもの脳についてどう考えているか。）
+1 Helping children solve their own problems can promote the development of the part of the brain that controls behavior.（子どもが自分の問題を解決するのを手助けすることは、行動をコントロールする脳の部分の発達を促すことがある。）
+2 Since the brains of younger children function in a different way to those of older children, different methods of dealing with behavioral issues are necessary.（年下の子どもの脳は、年上の子どもの脳とは違う働き方をするので、行動の問題に対処するには違う方法が必要だ。）
+3 The region of the brain known as the prefrontal cortex may be less important in controlling children’s behavior than some scientists believe it is.（前頭前皮質として知られる脳の領域は、子どもの行動をコントロールするうえで、一部の科学者が考えているよりも重要ではないかもしれない。）
+4 Bad behavior does not only have a negative effect on children’s academic performance but also permanently prevents the normal development of their brains.（悪い行動は、子どもの学業成績に悪い影響を与えるだけでなく、脳のふつうの発達をいつまでも妨げる。）
+【考え方】
+まず見るところ：第3段落の Child-behavior expert Ross Greene believes that
+ロス・グリーンの考えは、第3段落に書かれています。
+Child-behavior expert Ross Greene believes that when educators change their attitudes so that they actually listen to students’ feelings about their bad behavior and encourage them to come up with solutions to the issues they face, this can have a physical effect on the prefrontal cortex.（子どもの行動の専門家であるロス・グリーンは、教育者が態度を変えて、自分の悪い行動について生徒がどう感じているかに実際に耳を傾け、生徒が直面している問題の解決策を考え出すよう励ますようになれば、そのことが前頭前皮質に物理的な影響を与えうると考えている）
+come up with ～ は「～を考え出す」です。生徒が自分の問題の解決策を考えるよう励ますと、脳の前頭前皮質に影響がある、という考えです。
+では、前頭前皮質とは何でしょうか。同じ段落に次のようにあります。
+A region of the brain known as the prefrontal cortex helps us to concentrate on tasks and is responsible for self-discipline and allowing us to consider the consequences of our actions.（前頭前皮質として知られる脳の領域は、私たちが作業に集中するのを助け、自己規律や、自分の行動の結果を考えられるようにすることを担っている）
+self-discipline は「自己規律（自分で自分を律すること）」です。つまり、前頭前皮質は行動をコントロールする脳の部分です。また、その前には it is also possible to influence the development of the prefrontal cortex（前頭前皮質の発達に影響を与えることも可能だ）とあり、グリーンの言う「影響」は発達についての話だと分かります。
+本文と選択肢を対にすると、次のようになります。
+本文 encourage them to come up with solutions to the issues they face（生徒が直面している問題の解決策を考え出すよう励ます）→ 選択肢 Helping children solve their own problems（子どもが自分の問題を解決するのを手助けする）
+本文 the prefrontal cortex（自己規律を担う前頭前皮質）→ 選択肢 the part of the brain that controls behavior（行動をコントロールする脳の部分）
+本文 have a physical effect on the prefrontal cortex（前頭前皮質に物理的な影響を与える）→ 選択肢 promote the development（発達を促す）
+したがって、1が正解です。
+この問題の型：言いかえ（the prefrontal cortex → the part of the brain that controls behavior）／推論（物理的な影響 → 発達を促す）
+【ほかの選択肢】
+2 本文に書かれていません。年下の子どもと年上の子どもの脳の働き方を比べた話はありません。
+3 本文に書かれていません。第3段落では、前頭前皮質は自己規律を担うと説明されており、グリーンもそこに働きかけることを考えています。前頭前皮質が考えられているほど重要ではない、という話はありません。
+4 本文に書かれていません。悪い行動が学業成績に与える影響の話はありません。また、第3段落には repeated experiences can alter the brain’s structure（くり返しの経験が脳の構造を変えうる）とあり、脳の発達がいつまでも妨げられるという考えとは合いません。
+【覚えるポイント】
+・come up with ～：「～を考え出す」。be responsible for ～：「～を担っている」。
+・設問に人名（ここでは Ross Greene）が出てきたときは、本文でその人名のあとの believes that ～ を探し、that 以下に出てくる専門用語が同じ段落でどう説明されているかもあわせて確かめると手がかりになります。

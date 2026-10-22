@@ -1,6 +1,7 @@
 ---
 choices: held out | went by | laid off | cut off
 answerText: went by
+reviewed: yes
 ---
 【正解】2 went by（〈時が〉過ぎた）
 【和訳】

@@ -1,0 +1,32 @@
+---
+choices: It can teach them the advantages of hard work and make them better at focusing on their academic goals. | It causes them to want material things and makes them less aware of the need to behave in ways that are pleasing to other people. | It can prevent them from developing important skills that would be beneficial to them later in life. | It helps them to realize the importance of deciding their own goals rather than just doing what their teachers tell them to do.
+answerText: It can prevent them from developing important skills that would be beneficial to them later in life.
+---
+【正解】3 It can prevent them from developing important skills that would be beneficial to them later in life.（あとの人生で自分のためになる大切な技能を身につけるのを、妨げることがある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to the passage, what is one effect the use of rewards has on students?（本文によると、ほうびを使うことが生徒に与える影響の一つは何か。）
+1 It can teach them the advantages of hard work and make them better at focusing on their academic goals.（努力することのよさを教え、勉強の目標に集中するのがより上手になるようにすることがある。）
+2 It causes them to want material things and makes them less aware of the need to behave in ways that are pleasing to other people.（物を欲しがるようにさせ、ほかの人を喜ばせるようにふるまう必要性に、より気づきにくくさせる。）
+3 It can prevent them from developing important skills that would be beneficial to them later in life.（あとの人生で自分のためになる大切な技能を身につけるのを、妨げることがある。）
+4 It helps them to realize the importance of deciding their own goals rather than just doing what their teachers tell them to do.（ただ先生に言われたことをするのではなく、自分の目標を自分で決めることの大切さに気づく助けになる。）
+【考え方】
+まず見るところ：第2段落の終わりの Similarly, the use of rewards such as stickers
+ほうびについては、第2段落の終わりに書かれています。
+Similarly, the use of rewards such as stickers leads to students merely attempting to please the teacher rather than understanding the importance of gaining knowledge and social skills that will help them throughout their lives.（同じように、シールのようなほうびを使うと、生徒は、一生を通じて自分の助けとなる知識や社会的な技能を身につけることの大切さを理解するのではなく、ただ先生を喜ばせようとするだけになってしまう）
+merely は「ただ～だけ」、social skills は「社会的な技能（人とうまく関わる力）」です。ほうびを使うと、生徒は一生役に立つ技能を身につける大切さを理解しなくなる、ということです。
+また、文の初めの Similarly（同じように）は、前の文の罰についての話を受けています。前の文には、罰を使うと自制心などが育つのを delay or prevent their development（育つのを遅らせたり、妨げたりする）とあり、ほうびにも同じような悪い面があると述べています。
+本文と選択肢を対にすると、次のようになります。
+本文 social skills that will help them throughout their lives（一生を通じて自分の助けとなる社会的な技能）→ 選択肢 important skills that would be beneficial to them later in life（あとの人生で自分のためになる大切な技能）
+本文 rather than understanding the importance of gaining ～（～を身につけることの大切さを理解するのではなく）→ 選択肢 prevent them from developing ～（～を身につけるのを妨げる）
+本文に書かれた内容から読み取れることなので、3が正解です。
+この問題の型：言いかえ（help them throughout their lives → beneficial to them later in life）／推論（大切さを理解しない → 身につけるのを妨げる）
+【ほかの選択肢】
+1 本文に書かれていません。ほうびが努力のよさを教えるという話はありません。また、作業に集中するのを助けるのは、第3段落の前頭前皮質の働きとして書かれていて、ほうびの効果ではありません。
+2 本文に書かれていません。ほうびで物を欲しがるようになるという話はありません。また、本文では、ほうびを使うと生徒はただ先生を喜ばせようとするだけになるとあり、「ほかの人を喜ばせる必要性に気づきにくくなる」という話にはなっていません。
+4 本文の内容と向きが逆です。本文では、ほうびを使うと生徒は merely attempting to please the teacher（ただ先生を喜ばせようとするだけ）になるとあり、先生の言うことをするだけではなく自分の目標を決める大切さに気づく、とは書かれていません。
+【覚えるポイント】
+・merely：「ただ～だけ」。A rather than B：「BではなくA」。
+・Similarly（同じように）で始まる文は、前の文と同じ種類の問題や特ちょうを述べていることが多いので、前の文（ここでは罰の悪い影響）とあわせて読むと、筆者が何を伝えたいかをつかむ手がかりになります。

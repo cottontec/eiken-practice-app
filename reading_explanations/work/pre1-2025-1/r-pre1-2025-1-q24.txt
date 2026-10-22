@@ -1,0 +1,31 @@
+---
+choices: got married to famous gladiators | prohibited their slaves from becoming gladiators | enjoyed watching gladiatorial games | actively chose to become gladiators
+answerText: actively chose to become gladiators
+---
+【正解】4 actively chose to become gladiators（自分から進んで剣闘士になることを選んだ）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 got married to famous gladiators（有名な剣闘士と結婚した）
+2 prohibited their slaves from becoming gladiators（自分の奴隷が剣闘士になるのを禁じた）
+3 enjoyed watching gladiatorial games（剣闘士の試合を見るのを楽しんだ）
+4 actively chose to become gladiators（自分から進んで剣闘士になることを選んだ）
+【考え方】
+まず見るところ：第3段落の空所の前の However と、空所の後ろの Some likely did it as a form of protest ～
+空所の前の文を見ます。
+As with their male counterparts, many female gladiators were slaves who fought to make money for their owners.（男性の剣闘士と同じように、女性の剣闘士の多くは、持ち主のためにお金をかせぐために戦う奴隷だった）
+奴隷は、自分で望んだからではなく、持ち主のために戦っていました。
+そのあとに However（しかし）が続き、中流階級や上流階級の女性たちの話になります。奴隷とは違い、「自分から」何かをした女性たちがいた、という対比だと考えられます。
+空所の後ろでは、そうした女性たちが「このようなこと（do this）」をした理由が書かれています。
+Some likely did it as a form of protest against their families or an escape from Rome's male-dominated society.（家族への抗議の一つの形として、あるいはローマの男性中心の社会から逃れる手段として、そうした人もいたのだろう）
+Others probably did it because it brought them fame and excitement.（また、それが名声と興奮をもたらしてくれたからそうした人もいたのだろう）
+家族への抗議、男性中心の社会から逃れること、名声と興奮は、どれも自分から剣闘士になる理由として筋が通ります。actively chose to become gladiators（自分から進んで剣闘士になることを選んだ）を入れると、前後とつながるので、4が正解です。
+この問題の型：対比（However：奴隷として戦った ⇔ 自分から剣闘士になった）／指示語（do this ＝ 空所の行動）
+【ほかの選択肢】
+1 「有名な剣闘士と結婚した」は、本文に結婚の話が書かれていません。また However の前の「女性の剣闘士の多くは奴隷だった」と比べる内容にもなりません。
+2 「自分の奴隷が剣闘士になるのを禁じた」は、本文に書かれていません。後ろの文の名声と興奮をもたらしてくれたという理由も、奴隷を禁じる理由になりません。
+3 「剣闘士の試合を見るのを楽しんだ」を入れると、試合を見ていただけになります。後ろの文の「家族への抗議」や「名声」は、見物することの理由としてはつながらず、However の前の「戦う奴隷」との対比にもなりません。
+【覚えるポイント】
+・actively：「自分から進んで、積極的に」。counterpart は「（立場が）対応する人」で、male counterparts は「男性の剣闘士」を指しています。
+・However の前で「多くは～だった」と書かれているときは、後ろで「しかし一部は違った」と、反対の立場が示されることが多いので、前の文と比べることが手がかりになります。

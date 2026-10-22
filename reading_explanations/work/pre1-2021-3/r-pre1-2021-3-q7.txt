@@ -1,6 +1,7 @@
 ---
 choices: herds | lumps | gulps | sacks
 answerText: gulps
+reviewed: yes
 ---
 【正解】3 gulps（ごくりと飲むこと、ひと飲み）
 【和訳】

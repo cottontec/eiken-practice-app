@@ -1,0 +1,34 @@
+---
+choices: attempted to pressure both governments to ensure that the Salvadoran immigrants received better treatment. | were prevented by their governments from reporting on illegal acts that were being committed against citizens. | put so much emphasis on the soccer rivalry that they failed to report more-important news about illegal acts. | were asked by their governments to make up untrue or misleading news stories that made the other country look bad.
+answerText: were asked by their governments to make up untrue or misleading news stories that made the other country look bad.
+---
+【正解】4 were asked by their governments to make up untrue or misleading news stories that made the other country look bad.（自国の政府から、相手の国が悪く見えるような、うその、または誤解を招くニュースの話を作るよう頼まれていた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：In the time before the start of the Soccer War, the media in each country（サッカー戦争が始まる前の時期に、それぞれの国のメディアは、）
+1 attempted to pressure both governments to ensure that the Salvadoran immigrants received better treatment.（エルサルバドル人の移民が確実によりよい扱いを受けられるよう、両国の政府に圧力をかけようとした。）
+2 were prevented by their governments from reporting on illegal acts that were being committed against citizens.（国民に対して行われていた違法な行為について報道することを、自国の政府に止められていた。）
+3 put so much emphasis on the soccer rivalry that they failed to report more-important news about illegal acts.（サッカーでの対抗意識をあまりに強調したので、違法な行為についてのより重要なニュースを報道しなかった。）
+4 were asked by their governments to make up untrue or misleading news stories that made the other country look bad.（自国の政府から、相手の国が悪く見えるような、うその、または誤解を招くニュースの話を作るよう頼まれていた。）
+【考え方】
+まず見るところ：第3段落の which made up or exaggerated stories と、Such reports were made at the request of the countries' governments
+第3段落の始めで、両国のメディアが何をしたかが書かれています。
+Tensions were raised further by the media of both countries, which made up or exaggerated stories that fueled their bitterness toward one another.（緊張は、両国のメディアによってさらに高められた。メディアは、互いへの憎しみをあおる話をでっち上げたり、大げさに伝えたりしたのである）
+make up は「（話を）でっち上げる、作り上げる」、exaggerate は「大げさに言う」、fuel は「あおる（火に燃料を注ぐように強める）」です。続いて、エルサルバドルの報道機関はホンジュラス政府を、ホンジュラスの報道機関はエルサルバドル人の移民を悪く伝えたことが書かれています。そして、次の文があります。
+Such reports were made at the request of the countries' governments（こうした報道は、両国の政府の求めに応じて行われた）
+at the request of ～ は「～の求めに応じて」です。
+本文と選択肢を対にすると、次のようになります。
+本文 at the request of the countries' governments（両国の政府の求めに応じて）＝ 選択肢 were asked by their governments（自国の政府から頼まれた）
+本文 made up or exaggerated stories（話をでっち上げたり、大げさに伝えたりした）→ 選択肢 make up untrue or misleading news stories（うその、または誤解を招くニュースの話を作る）
+本文 fueled their bitterness toward one another、相手の政府や移民を非難する報道 → 選択肢 made the other country look bad（相手の国が悪く見えるような）
+ですから4が正解です。
+この問題の型：言いかえ（at the request of ～ → were asked by ～）
+【ほかの選択肢】
+1 本文に書かれていません。メディアが移民によりよい扱いを受けさせるために両国の政府に圧力をかけたという話は出てきません。本文のメディアは、政府の求めに応じて報道していました。
+2 本文の内容と合いません。メディアは政府に報道を止められたのではなく、政府の求めに応じて報道していました。また、エルサルバドルの報道機関は、ホンジュラス政府による cruel and illegal treatment（残酷で違法な扱い）について報じています。
+3 本文に書かれていません。第3段落の報道は、移民の扱いや移民による犯罪についてのもので、メディアがサッカーでの対抗意識を強調しすぎたという話は出てきません。
+【覚えるポイント】
+・at the request of ～：「～の求めに応じて」。受け身の be asked by ～（～に頼まれる）と同じ内容を表しています。
+・メディアや人物が「何をしたか」をたずねる設問では、その行動の文（ここでは made up or exaggerated stories）だけでなく、「だれの求めで、何のために」が書かれた文（ここでは Such reports were made at the request of ～）まで読むのが手がかりになります。

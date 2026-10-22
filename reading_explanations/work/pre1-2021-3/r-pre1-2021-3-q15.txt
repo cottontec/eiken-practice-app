@@ -1,13 +1,14 @@
 ---
 choices: pinpoint | suppress | reroute | deceive
 answerText: deceive
+reviewed: yes
 ---
 【正解】4 deceive（だます）
 【和訳】
 （英文）
 Mrs. Wilson was angry when her son broke the window, but she was more disappointed that he tried to ［deceive］ her by telling her that someone else had done it.
 （訳）
-ウィルソンさんは、息子が窓を割ったときに腹を立てたが、それよりもがっかりしたのは、息子が、ほかのだれかがやったと言って彼女を（だまそう）としたことだった。
+ウィルソンさんは、息子が窓を割ったときに腹を立てたが、腹を立てた以上にがっかりしたのは、息子が、ほかのだれかがやったと言って彼女を（だまそう）としたことだった。
 （選択肢の意味）
 1 pinpoint：正確に指し示す、突き止める
 2 suppress：おさえつける、（気持ちなどを）おさえる
@@ -18,7 +19,7 @@ Mrs. Wilson was angry when her son broke the window, but she was more disappoint
 by ～ing は「～することによって」です。空所の後ろに、息子が何をしたのかが書かれています。
 by telling her that someone else had done it（ほかのだれかがそれをやったと彼女に言うことによって）
 it は「窓を割ったこと」を指します。実際には息子が割ったのに、「ほかの人がやった」と言ったのですから、うそをついたことになります。うそによってお母さんにしようとしたことは「だますこと」です。deceive は「だます」なので、4が正解です。
-また、but のあとの more disappointed（それよりもがっかりした）からも、窓を割ったことより悪いと感じられること、つまりうそをつかれたことが入ると分かります。
+また、but のあとの more disappointed（腹を立てた以上にがっかりした）からも、怒りよりも強くがっかりさせた行動、つまりうそをついてだまそうとしたことが空所の内容だと分かります。
 この問題の型：語の意味・組み合わせ（deceive ～ by telling …）
 【ほかの選択肢】
 1 pinpoint は「正確に指し示す、突き止める」です。「ほかの人がやったと言うことで、お母さんを突き止めようとした」では意味が通りません。

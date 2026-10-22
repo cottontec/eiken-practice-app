@@ -1,6 +1,7 @@
 ---
 choices: because he believed that the novel would become a bestseller and enable him to quit the law profession to write full time. | after becoming frustrated about the lack of awareness among ordinary Americans regarding the extent of criminal activity in the United States. | because he wanted to show readers how hard lawyers worked in order to protect the victims of crime. | after being inspired by what he found during the investigations he carried out while he was a lawyer.
 answerText: after being inspired by what he found during the investigations he carried out while he was a lawyer.
+reviewed: yes
 ---
 【正解】4 after being inspired by what he found during the investigations he carried out while he was a lawyer.（弁護士だった間に行った調査で見つけたものに着想を得たあとだ。）
 【和訳】

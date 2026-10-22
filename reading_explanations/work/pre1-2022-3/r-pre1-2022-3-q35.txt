@@ -1,0 +1,34 @@
+---
+choices: El Salvador's president believed the removal of the immigrants from their homes in Honduras was a sign that Honduras was going to attack. | The Honduran government began sending poor Hondurans to seek land in El Salvador, causing upset Salvadoran farmers to move to Honduras in response. | Rich Salvadorans pressured their government to make war against Honduras after the immigrants were forced out of their homes. | The immigrants' constant movement back and forth between the countries created trouble for Honduran border officials.
+answerText: Rich Salvadorans pressured their government to make war against Honduras after the immigrants were forced out of their homes.
+---
+【正解】3 Rich Salvadorans pressured their government to make war against Honduras after the immigrants were forced out of their homes.（移民たちが住まいから追い出されたあと、裕福なエルサルバドル人たちが、ホンジュラスと戦争をするよう自国の政府に圧力をかけた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to the second paragraph, in what way were Salvadoran immigrants to Honduras a cause of the "Soccer War"?（第2段落によると、ホンジュラスへ渡ったエルサルバドル人の移民は、どのような形で「サッカー戦争」の原因になったか。）
+1 El Salvador's president believed the removal of the immigrants from their homes in Honduras was a sign that Honduras was going to attack.（エルサルバドルの大統領は、移民たちがホンジュラスの住まいから追い出されたことを、ホンジュラスが攻撃してくる兆しだと考えた。）
+2 The Honduran government began sending poor Hondurans to seek land in El Salvador, causing upset Salvadoran farmers to move to Honduras in response.（ホンジュラス政府が貧しいホンジュラス人をエルサルバドルへ土地を探しに送り始め、それに腹を立てたエルサルバドルの農民たちが、対抗してホンジュラスへ移った。）
+3 Rich Salvadorans pressured their government to make war against Honduras after the immigrants were forced out of their homes.（移民たちが住まいから追い出されたあと、裕福なエルサルバドル人たちが、ホンジュラスと戦争をするよう自国の政府に圧力をかけた。）
+4 The immigrants' constant movement back and forth between the countries created trouble for Honduran border officials.（移民たちが両国の間をたえず行き来したことが、ホンジュラスの国境の役人たちを困らせた。）
+【考え方】
+まず見るところ：第2段落の The Honduran government ～ removed them from their lands と、Wealthy Salvadorans ～ threatened to overthrow the Salvadoran president
+第2段落では、まずホンジュラス政府が移民をどうしたかが書かれています。
+The Honduran government blamed the immigrants for its economic stresses and removed them from their lands, forcing them out of the country.（ホンジュラス政府は、自国の経済の苦しさを移民のせいにして、彼らを土地から追い出し、国外へ出ていかせた）
+次に、そのことに対するエルサルバドルの裕福な人々の反応が書かれています。
+Wealthy Salvadorans feared the negative economic effects of so many immigrants returning home and threatened to overthrow the Salvadoran president if military action was not taken against Honduras.（裕福なエルサルバドル人たちは、これほど多くの移民が帰国することによる経済への悪い影響を恐れ、ホンジュラスに対して軍事行動がとられなければ、エルサルバドルの大統領を倒すとおどした）
+overthrow は「（政府や指導者を）倒す」、military action は「軍事行動（軍隊を使って戦うこと）」です。
+本文と選択肢を対にすると、次のようになります。
+本文 Wealthy Salvadorans（裕福なエルサルバドル人たち）＝ 選択肢 Rich Salvadorans（裕福なエルサルバドル人たち）
+本文 threatened to overthrow the Salvadoran president if military action was not taken against Honduras（ホンジュラスに軍事行動をとらなければ大統領を倒すとおどした）→ 選択肢 pressured their government to make war against Honduras（ホンジュラスと戦争をするよう政府に圧力をかけた）
+本文 removed them from their lands, forcing them out of the country（土地から追い出し、国外へ出ていかせた）→ 選択肢 the immigrants were forced out of their homes（移民たちが住まいから追い出された）
+ですから3が正解です。
+この問題の型：言いかえ（threatened to overthrow ～ if ～ → pressured ～ to make war）、因果（移民の追い出し → 裕福な人々の圧力）
+【ほかの選択肢】
+1 本文に書かれていません。大統領が、移民の追い出しをホンジュラスが攻撃してくる兆しだと考えたという話は出てきません。本文の大統領は、裕福な人々から「軍事行動をとらなければ倒す」とおどされた側として書かれています。
+2 本文に書かれていません。ホンジュラス政府が貧しいホンジュラス人をエルサルバドルへ送ったという話は出てきません。本文で国境をこえて移ったのはエルサルバドル人で、安い土地や仕事を手に入れるためにホンジュラスに入っていました。
+4 本文に書かれていません。移民が両国をたえず行き来したことや、国境の役人が困ったという話は出てきません。本文には border disputes（国境をめぐる争い）という語がありますが、これは両国の間で何年も続いていた争いのことで、移民の行き来の話ではありません。
+【覚えるポイント】
+・threaten to ～ if ...：「…しなければ～するとおどす」。これは、相手に何かをさせようとする「圧力をかける」（pressure）の言いかえになっています。
+・「どのような形で原因になったか」をたずねる設問では、出来事の順番（ここでは、追い出し → 裕福な人々の恐れ → 大統領へのおどし）を本文で確かめ、その順番どおりに書かれた選択肢を選ぶのが手がかりになります。

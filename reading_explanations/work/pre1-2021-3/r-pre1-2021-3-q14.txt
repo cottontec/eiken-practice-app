@@ -1,6 +1,7 @@
 ---
 choices: rigid | rash | cozy | clumsy
 answerText: cozy
+reviewed: yes
 ---
 【正解】3 cozy（居心地のよい、暖かくくつろげる）
 【和訳】

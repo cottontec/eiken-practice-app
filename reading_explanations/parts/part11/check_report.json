@@ -74,12 +74,21 @@
   "pre1-2021-3": {
     "stats": {
       "target": 41,
-      "written": 41
+      "written": 41,
+      "reviewed": 41
     },
     "errors": [],
     "warnings": []
   },
   "pre1-2022-1": {
+    "stats": {
+      "target": 41,
+      "written": 41
+    },
+    "errors": [],
+    "warnings": []
+  },
+  "pre1-2022-2": {
     "stats": {
       "target": 41,
       "written": 41

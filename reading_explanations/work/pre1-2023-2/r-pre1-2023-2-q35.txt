@@ -1,0 +1,33 @@
+---
+choices: People immediately supported Oppy because they were interested in any new discoveries about Mars. | People found it difficult to relate to Oppy because little effort had been made to inform them about the significance of its mission. | People soon lost interest in Oppy's mission because the information Oppy sent back to Earth was too technical for nonscientists to understand. | People felt such an emotional connection to Oppy that they expressed sympathy for it when it stopped operating.
+answerText: People felt such an emotional connection to Oppy that they expressed sympathy for it when it stopped operating.
+---
+【正解】4 People felt such an emotional connection to Oppy that they expressed sympathy for it when it stopped operating.（人々はオッピーにとても強い心のつながりを感じていたので、オッピーが動かなくなったとき、オッピーを思いやる気持ちを表した。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What do we learn about people's reactions to Oppy?（オッピーに対する人々の反応について、何が分かるか。）
+1 People immediately supported Oppy because they were interested in any new discoveries about Mars.（人々は火星についてのどんな新しい発見にも興味があったので、すぐにオッピーを支持した。）
+2 People found it difficult to relate to Oppy because little effort had been made to inform them about the significance of its mission.（その任務の重要性を人々に知らせる努力がほとんどされていなかったので、人々はオッピーに親しみを感じにくかった。）
+3 People soon lost interest in Oppy's mission because the information Oppy sent back to Earth was too technical for nonscientists to understand.（オッピーが地球に送り返した情報は、科学者でない人が理解するには専門的すぎたので、人々はすぐにオッピーの任務への興味を失った。）
+4 People felt such an emotional connection to Oppy that they expressed sympathy for it when it stopped operating.（人々はオッピーにとても強い心のつながりを感じていたので、オッピーが動かなくなったとき、オッピーを思いやる気持ちを表した。）
+【考え方】
+まず見るところ：第1段落の people became so attached to Oppy that when it ceased to function, they sent messages of condolence
+人々の反応は、第1段落の後半に書かれています。
+During that time, it captured the public's imagination.（その間に、オッピーは人々の心をとらえた）
+In fact, people became so attached to Oppy that when it ceased to function, they sent messages of condolence over social media similar to those intended for a deceased person.（実際、人々はオッピーにとても愛着を持つようになったので、オッピーが動かなくなったとき、亡くなった人に向けたものと似たお悔やみのメッセージを、ソーシャルメディアで送った）
+be attached to ～ は「～に愛着を持つ」、cease to function は「動かなくなる」、condolence は「お悔やみ（人が亡くなったときに悲しみを伝えること）」です。
+本文と選択肢4を対にすると、次のようになります。
+本文 became so attached to Oppy that ～（オッピーにとても愛着を持つようになったので～）→ 選択肢 felt such an emotional connection to Oppy that ～（オッピーにとても強い心のつながりを感じていたので～）
+本文 when it ceased to function（オッピーが動かなくなったとき）＝ 選択肢 when it stopped operating（オッピーが動かなくなったとき）
+本文 sent messages of condolence（お悔やみのメッセージを送った）→ 選択肢 expressed sympathy for it（オッピーを思いやる気持ちを表した）
+sympathy は「思いやり、同情」です。ですから4が正解です。
+この問題の型：言いかえ（ceased to function ＝ stopped operating、sent messages of condolence → expressed sympathy）
+【ほかの選択肢】
+1 本文に書かれていません。第1段落には、オッピーが15年の間に人々の心をとらえたとありますが、人々が「すぐに」支持したことや、火星のどんな新発見にも興味があったからだということは書かれていません。
+2 第1段落の内容と合いません。人々はオッピーに so attached（とても愛着を持つ）ようになったと書かれているので、親しみを感じにくかったという内容とは食い違います。任務の重要性を知らせる努力が少なかったという話も、本文に書かれていません。
+3 第1段落の内容と合いません。本文では、オッピーは15年間データを送り続け、その間に captured the public's imagination（人々の心をとらえた）とあるので、人々がすぐに興味を失ったという内容とは食い違います。情報が専門的すぎたという話も、本文に書かれていません。
+【覚えるポイント】
+・so ～ that ...（とても～なので…）と such ～ that ...（とても～なので…）は同じ形の考え方で、本文と選択肢で入れかえて使われることがあります。that の後ろの結果の部分（ここではお悔やみのメッセージ）を対にして確かめると手がかりになります。
+・cease to function（動かなくなる）は stop operating と同じ意味です。動詞の言いかえに気づくと、正解の選択肢を見つけやすくなります。

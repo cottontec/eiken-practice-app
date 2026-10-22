@@ -1,6 +1,7 @@
 ---
 choices: congestion | drainage | optimism | punctuality
 answerText: punctuality
+reviewed: yes
 ---
 【正解】4 punctuality（時間を守ること）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: Despite the possibility that Higgins could have attracted a wider readership by altering his writing style, he remained true to his creative vision. | The first book Higgins produced was poorly written, but the quality of his work steadily increased in the years that followed. | It is inevitable that writers of crime novels will never gain the same level of prestige and acclaim as writers of other genres. | It is unrealistic for writers of crime novels to expect their work to appeal to readers decades after it was first published.
 answerText: Despite the possibility that Higgins could have attracted a wider readership by altering his writing style, he remained true to his creative vision.
+reviewed: yes
 ---
 【正解】1 Despite the possibility that Higgins could have attracted a wider readership by altering his writing style, he remained true to his creative vision.（ヒギンズは書き方を変えれば、より幅広い読者を引きつけられたかもしれないのに、自分の創作の考えをつらぬいた。）
 【和訳】

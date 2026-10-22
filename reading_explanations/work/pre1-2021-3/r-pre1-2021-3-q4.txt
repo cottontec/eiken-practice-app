@@ -1,6 +1,7 @@
 ---
 choices: secular | eccentric | vigilant | apparent
 answerText: eccentric
+reviewed: yes
 ---
 【正解】2 eccentric（風変わりな、変わった）
 【和訳】

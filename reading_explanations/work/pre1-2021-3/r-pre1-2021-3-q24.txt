@@ -1,6 +1,7 @@
 ---
 choices: ruled out | stood down | dragged into | scooped up
 answerText: ruled out
+reviewed: yes
 ---
 【正解】1 ruled out（除外した、可能性から外した）
 【和訳】

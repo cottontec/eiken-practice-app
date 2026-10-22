@@ -1,0 +1,31 @@
+---
+choices: slip away | tear up | drop out | follow up
+answerText: slip away
+---
+【正解】1 slip away（こっそり立ち去る、抜け出す）
+【和訳】
+（英文）
+The patient tried to ［slip away］ from the hospital without anyone noticing, but the nurse saw him and stopped him.
+（訳）
+その患者は、だれにも気づかれずに病院から（こっそり抜け出そう）としたが、看護師が彼を見て、彼を止めた。
+（選択肢の意味）
+1 slip away：こっそり立ち去る、抜け出す
+2 tear up：～をびりびりに破る
+3 drop out：（学校や競技などを）途中でやめる、脱落する
+4 follow up：（～について）さらに追って調べる、引き続き対応する
+【考え方】
+まず見るところ：空所の後ろの from the hospital without anyone noticing
+空所の後ろをつなげて読みます。
+tried to （　） from the hospital without anyone noticing（だれにも気づかれずに病院から（　）しようとした）
+without anyone noticing は「だれにも気づかれずに」です。from the hospital（病院から）とあるので、病院から出ていく動きが入ると考えられます。
+but のあとも確かめます。
+but the nurse saw him and stopped him（しかし看護師が彼を見て、彼を止めた）
+看護師に見つかって止められたので、患者はだまって病院を出ていこうとしていたことが分かります。slip away は「こっそり立ち去る、抜け出す」です。ですから1が正解です。
+この問題の型：熟語・決まった形（slip away from ～ ＝ ～からこっそり抜け出す）
+【ほかの選択肢】
+2 tear up は「～をびりびりに破る」です。何を破るのかが書かれておらず、「病院から破ろうとした」では意味が通りません。
+3 drop out は「（学校などを）途中でやめる」です。学校や競技などから抜けるときに使う語で、「だれにも気づかれずに」病院を出ようとして看護師に止められた、という場面には合いません。
+4 follow up は「さらに追って調べる、引き続き対応する」です。患者が「気づかれずに」することとしては合わず、看護師に止められる理由にもなりません。
+【覚えるポイント】
+・slip away：「こっそり立ち去る、抜け出す」。
+・without anyone noticing（だれにも気づかれずに）のような語句は、空所に「こっそり」「静かに」という意味の語句が入る手がかりになります。

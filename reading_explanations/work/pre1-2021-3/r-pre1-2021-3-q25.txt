@@ -1,6 +1,7 @@
 ---
 choices: look up to | fall back on | come down with | do away with
 answerText: fall back on
+reviewed: yes
 ---
 【正解】2 fall back on（〈困ったときに〉頼る）
 【和訳】

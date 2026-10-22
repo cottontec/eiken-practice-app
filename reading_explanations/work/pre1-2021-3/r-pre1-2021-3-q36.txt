@@ -1,6 +1,7 @@
 ---
 choices: Higgins wanted to produce a novel which proved that the traditional rules of crime fiction still held true in modern times. | The novel is unusual because Higgins tells the story through interactions between the characters rather than by describing specific events in detail. | Higgins relied heavily on dialogue throughout the novel because he lacked the confidence to write long passages of narration. | Although the novel provides an authentic description of the criminal world, Higgins did not consider it to be a true crime novel.
 answerText: The novel is unusual because Higgins tells the story through interactions between the characters rather than by describing specific events in detail.
+reviewed: yes
 ---
 【正解】2 The novel is unusual because Higgins tells the story through interactions between the characters rather than by describing specific events in detail.（ヒギンズが、具体的な出来事をくわしく描くのではなく、登場人物どうしのやりとりを通して物語を語っているので、この小説は珍しい。）
 【和訳】
@@ -25,9 +26,9 @@ Important events are not described directly, instead being introduced through co
 よって2が正解です。
 この問題の型：言いかえ（conversations between characters → interactions between the characters）
 【ほかの選択肢】
-1 本文の内容と合いません。本文は、犯罪小説がふつうは注意深く組み立てられた筋書きに頼っていることにふれ、それと比べて会話だけで書くのは「非常に独創的なやり方」だったと述べています。昔からの決まりが今も当てはまることを証明したかった、という話は書かれていません。
+1 本文に書かれていません。本文は、犯罪小説がふつうは注意深く組み立てられた筋書きに頼っていることにふれ、それと比べて会話だけで書くのは「非常に独創的なやり方」だったと述べています。昔からの決まりが今も当てはまることを証明したかった、という話は書かれていません。
 3 本文に書かれていません。語りの部分を控えめにしたことは書かれていますが、その理由が「自信がなかったから」だとは書かれていません。第3段落には、会話を通して語るのが最も引きつける方法だという、ヒギンズの信念が書かれています。
-4 本文に書かれていません。この小説は犯罪の世界を現実に近い形で描いていますが、ヒギンズがそれを本当の犯罪小説だと考えていなかった、という話はありません。本文では、この作品は This crime novel（この犯罪小説）と呼ばれています。
+4 本文に書かれていません。この小説は犯罪の世界を現実に近い形で描いていますが、ヒギンズがそれを本当の犯罪小説だと考えていなかった、という話はありません。本文はこの作品を This crime novel（この犯罪小説）と呼んでいますが、ヒギンズ自身がどう考えていたかは書かれていません。
 【覚えるポイント】
 ・distinguish A from B：「AをBと区別する」。dialogue：「会話」。original approach：「独創的なやり方」。
 ・設問が In the second paragraph のように段落を指定しているときは、その段落の最初の文（ここでは One aspect that distinguishes ～）にまとめが書かれていることが多く、選択肢の unusual のような言いかえを見つける手がかりになります。

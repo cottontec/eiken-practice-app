@@ -1,6 +1,7 @@
 ---
 choices: help promote charities | easily be copied | have undesirable effects | cause confusion among donors
 answerText: help promote charities
+reviewed: yes
 ---
 【正解】1 help promote charities（慈善団体を宣伝する助けになる）
 【和訳】

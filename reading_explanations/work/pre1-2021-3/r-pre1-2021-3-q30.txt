@@ -1,6 +1,7 @@
 ---
 choices: designed to protect those inside vehicles | opposed by many drivers | actually being decreased | stricter for large vehicles
 answerText: designed to protect those inside vehicles
+reviewed: yes
 ---
 【正解】1 designed to protect those inside vehicles（車の中にいる人を守るように作られている）
 【和訳】
@@ -25,7 +26,7 @@ vehicle occupants は「車に乗っている人」です。only（～だけ）�
 【ほかの選択肢】
 2 opposed by many drivers は「多くの運転手に反対されている」です。運転手が規制に反対しているという話は、本文に書かれていません。
 3 actually being decreased は「実際には減らされつつある」です。本文には laws have not changed（法律は変わっていない）とあり、規制が減らされているとは書かれていません。
-4 stricter for large vehicles は「大きな車に対してより厳しい」です。本文には、車が大きくなったのに、法律はその危険を反映するようには変わっていないと書かれています。大きな車への規制が厳しくなっているという内容とは合いません。
+4 stricter for large vehicles は「大きな車に対してより厳しい」です。本文には、一部の車が大きくなったのに、法律はその危険を反映するようには変わっていないと書かれています。大きな車への規制が厳しくなっているという内容とは合いません。
 【覚えるポイント】
 ・occupant：「（車や建物の）中にいる人」。those inside ～：「～の中にいる人々」。pedestrian：「歩行者」。
 ・空所のあとに only（～だけ）を使った批判が出てきたら、その「～だけ」の部分が、空所の内容を言いかえている手がかりになります。

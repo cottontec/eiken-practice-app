@@ -1,6 +1,7 @@
 ---
 choices: boredom | vocation | insult | publicity
 answerText: vocation
+reviewed: yes
 ---
 【正解】2 vocation（天職、自分に向いた職業）
 【和訳】

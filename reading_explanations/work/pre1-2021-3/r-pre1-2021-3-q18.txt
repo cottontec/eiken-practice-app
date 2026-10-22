@@ -1,6 +1,7 @@
 ---
 choices: coarse | fragile | immovable | glossy
 answerText: fragile
+reviewed: yes
 ---
 【正解】2 fragile（こわれやすい）
 【和訳】

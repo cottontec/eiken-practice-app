@@ -1,6 +1,7 @@
 ---
 choices: bulky | functional | ethnic | sluggish
 answerText: sluggish
+reviewed: yes
 ---
 【正解】4 sluggish（動きの鈍い、不振の）
 【和訳】
@@ -17,10 +18,10 @@ The presidential candidate blamed the ［sluggish］ economy on the current pres
 まず見るところ：空所の前の blamed と、次の文の He promised he would improve it
 blame A on B は「AをBのせいにする」という意味です。
 The presidential candidate blamed the (　) economy on the current president.（その大統領候補は、〇〇な経済を現在の大統領のせいにした）
-人のせいにするのは、よくないことです。さらに、次の文が手がかりになります。
+blame は「責める」という意味なので、空所にはよくない状態を表す語が入りそうです。さらに、次の文が手がかりになります。
 He promised he would improve it if he were elected.（彼は、もし自分が選ばれたら、それをよくすると約束した）
 it は the (　) economy を指します。「よくする」と約束しているので、今の経済はよくない状態だと分かります。sluggish は「動きの鈍い、不振の」なので、4が正解です。
-この問題の型：指示語（it ＝ the sluggish economy）
+この問題の型：推論（blame と improve から、今の経済がよくない状態だと考える）、指示語（it ＝ the sluggish economy）
 【ほかの選択肢】
 1 bulky は「かさばる」です。荷物などの大きさを表す語で、「かさばる経済」では意味が通りません。
 2 functional は「機能的な、ちゃんと働く」です。よい意味の語なので、現在の大統領のせいにしたり、「よくする」と約束したりする話と合いません。

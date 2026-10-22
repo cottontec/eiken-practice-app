@@ -1,6 +1,7 @@
 ---
 choices: He felt the people should respect them more, since they would do anything to protect him from his enemies. | He wanted to show his power over them, so he often found ways to make them feel they had no value. | He disliked them because he felt that they were physically weak and had poor fashion sense. | He was grateful for their support, so he held events such as chariot races in order to honor them.
 answerText: He wanted to show his power over them, so he often found ways to make them feel they had no value.
+reviewed: yes
 ---
 【正解】2 He wanted to show his power over them, so he often found ways to make them feel they had no value.（彼は議員たちに対して自分の力を見せつけたかったので、彼らに自分には価値がないと感じさせる方法をたびたび見つけた。）
 【和訳】

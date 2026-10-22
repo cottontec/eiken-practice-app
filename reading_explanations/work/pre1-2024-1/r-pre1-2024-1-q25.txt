@@ -1,0 +1,36 @@
+---
+choices: researchers have observed some captured wolves successfully joining packs in the wild after escaping. | the behavior thought to be demonstrated by alpha male wolves has only ever been seen in human males in prisons. | members of captive wolf packs that disagree with each other often end up forming smaller packs. | the concept of alpha male behavior in wolf packs originally came from observations of captured wolves instead of wild ones.
+answerText: the concept of alpha male behavior in wolf packs originally came from observations of captured wolves instead of wild ones.
+---
+【正解】4 the concept of alpha male behavior in wolf packs originally came from observations of captured wolves instead of wild ones.（オオカミの群れのアルファオスの行動という考えは、もともと野生のオオカミではなく、捕らえられたオオカミの観察から生まれたものだったから。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：The idea of an alpha male wolf is described as a myth because（アルファオスのオオカミという考えが作り話だと述べられているのは、）
+1 researchers have observed some captured wolves successfully joining packs in the wild after escaping.（研究者たちが、捕らえられていたオオカミの一部が、逃げ出したあとに野生の群れにうまく加わるのを観察したから。）
+2 the behavior thought to be demonstrated by alpha male wolves has only ever been seen in human males in prisons.（アルファオスのオオカミが見せると考えられていた行動は、これまで刑務所の人間の男性にしか見られたことがないから。）
+3 members of captive wolf packs that disagree with each other often end up forming smaller packs.（飼育されているオオカミの群れで、互いに対立するメンバーは、最後にはより小さな群れを作ることが多いから。）
+4 the concept of alpha male behavior in wolf packs originally came from observations of captured wolves instead of wild ones.（オオカミの群れのアルファオスの行動という考えは、もともと野生のオオカミではなく、捕らえられたオオカミの観察から生まれたものだったから。）
+【考え方】
+まず見るところ：第1段落の It appears to have arisen from research on captured wolves
+第1段落では、まず広く知られている考えが紹介され、それが作り話かもしれないと述べられます。
+It turns out, however, that this idea may largely be a myth.（しかし、この考えは大部分が作り話なのかもしれないということが分かってきた）
+myth は「作り話（広く信じられているが事実ではない話）」です。this idea は、野生のオオカミの群れはアルファオスに率いられ、激しい力の争いが起こる、という考えを指します。
+その考えがどこから生まれたのかは、すぐ後ろに書かれています。
+It appears to have arisen from research on captured wolves, which often demonstrated such behavior.（この考えは、捕らえられたオオカミについての研究から生まれたようで、そうしたオオカミたちはこのような行動をよく見せていた）
+arise from ～ は「～から生じる」です。さらに、同じ段落に次の文があります。
+Research has now found, though, that captive and wild wolves are too dissimilar to assume that the behaviors of one resemble those of the other.（しかし今では研究によって、飼育されているオオカミと野生のオオカミはあまりにも違うので、一方の行動がもう一方の行動に似ていると考えることはできない、ということが分かっている）
+too ～ to ... は「あまりに～なので…できない」です。捕らえられたオオカミの行動から生まれた考えは、野生のオオカミには当てはまらないので、作り話だと言われているわけです。
+本文と選択肢を対にすると、次のようになります。
+本文 arisen from research on captured wolves（捕らえられたオオカミについての研究から生まれた）＝ 選択肢 originally came from observations of captured wolves（もともと捕らえられたオオカミの観察から生まれた）
+本文 captive and wild wolves are too dissimilar（飼育されているオオカミと野生のオオカミはあまりにも違う）→ 選択肢 instead of wild ones（野生のオオカミではなく）
+ですから4が正解です。
+この問題の型：因果（捕らえられたオオカミの研究から生まれた→作り話）
+【ほかの選択肢】
+1 本文に書かれていません。捕らえられていたオオカミが逃げ出して野生の群れに加わったという話は、本文のどこにも出てきません。
+2 本文の内容と合いません。刑務所の人間が出てくるのは、ある生物学者が飼育されている群れを刑務所の人間にたとえた部分です。また、第1段落には、捕らえられたオオカミが often demonstrated such behavior（このような行動をよく見せていた）とあり、この行動はオオカミにも見られています。
+3 本文に書かれていません。飼育されている群れで対立したメンバーがより小さな群れを作ったという話は出てきません。第3段落に、群れを去って自分たちの群れを作るオオカミが出てきますが、これは野生のオオカミの話です。
+【覚えるポイント】
+・arise from ～：「～から生じる、生まれる」。
+・「なぜ作り話（myth）と言われるのか」をたずねる設問では、myth という語のすぐ後ろで、その考えがどこから生まれたのかを説明している文が手がかりになることが多いです。

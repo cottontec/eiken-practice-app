@@ -1,6 +1,7 @@
 ---
 choices: parody | resume | impede | erect
 answerText: resume
+reviewed: yes
 ---
 【正解】2 resume（再開する）
 【和訳】

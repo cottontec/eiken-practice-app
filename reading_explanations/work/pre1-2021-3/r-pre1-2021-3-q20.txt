@@ -1,6 +1,7 @@
 ---
 choices: entrust | discard | strangle | retreat
 answerText: retreat
+reviewed: yes
 ---
 【正解】4 retreat（退却する、後ろへ下がる）
 【和訳】

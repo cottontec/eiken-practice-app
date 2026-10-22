@@ -1,6 +1,7 @@
 ---
 choices: villain | patriot | spectator | beggar
 answerText: patriot
+reviewed: yes
 ---
 【正解】2 patriot（愛国者）
 【和訳】

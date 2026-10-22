@@ -1,0 +1,32 @@
+---
+choices: The United States was the only nation in a position to ensure that its currency would be stable enough to be used as a reserve currency. | It was important to allow Great Britain to feel it was still equal in terms of political power to the United States despite the dominance of the US dollar. | Both he and John Maynard Keynes felt European powers needed to hold onto their colonies to help them boost their productive capabilities. | Other countries would be able to use their large reserves of gold to support the value of their own currencies in the international financial system.
+answerText: The United States was the only nation in a position to ensure that its currency would be stable enough to be used as a reserve currency.
+---
+【正解】1 The United States was the only nation in a position to ensure that its currency would be stable enough to be used as a reserve currency.（アメリカは、自国の通貨が準備通貨として使えるほど安定していることを保証できる立場にある、ただ1つの国だった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What was one reason put forth by Harry Dexter White to justify the structure of the Bretton Woods agreement?（ブレトンウッズ協定のしくみが正しいことを示すために、ハリー・デクスター・ホワイトが挙げた理由の1つは何だったか。）
+1 The United States was the only nation in a position to ensure that its currency would be stable enough to be used as a reserve currency.（アメリカは、自国の通貨が準備通貨として使えるほど安定していることを保証できる立場にある、ただ1つの国だった。）
+2 It was important to allow Great Britain to feel it was still equal in terms of political power to the United States despite the dominance of the US dollar.（アメリカのドルが優位であるにもかかわらず、イギリスに、政治的な力の面では今もアメリカと対等だと感じさせることが大切だった。）
+3 Both he and John Maynard Keynes felt European powers needed to hold onto their colonies to help them boost their productive capabilities.（彼とジョン・メイナード・ケインズの両方が、ヨーロッパの強国が生産能力を高めるのを助けるために、植民地を手放さずにおく必要があると考えた。）
+4 Other countries would be able to use their large reserves of gold to support the value of their own currencies in the international financial system.（ほかの国々は、国際的な金融のしくみの中で、自国の通貨の価値を支えるために、自分たちの大量の金の蓄えを使うことができるだろう。）
+【考え方】
+まず見るところ：第2段落の so as White pointed out, it seemed unlikely the United States would run out
+ホワイトの名前が出てくるのは第2段落です。ブレトンウッズ体制のしくみと、ホワイトが指摘したことを確かめます。
+The Bretton Woods system hinged on an arrangement that directly linked the value of the US dollar to gold.（ブレトンウッズ体制は、アメリカのドルの価値を金と直接結びつける取り決めを軸にしていた）
+At the time, the US Federal Reserve possessed the world's largest reserves of gold, so as White pointed out, it seemed unlikely the United States would run out.（当時、アメリカの連邦準備制度は世界で最も多くの金の蓄えを持っていたので、ホワイトが指摘したように、アメリカが金を使い果たすことはありそうになかった）
+ドルの価値は金と結びついているので、金がなくならなければドルは安定します。アメリカは世界でいちばん多くの金を持っていたので、ドルを安定させ続けられる、というのがホワイトの指摘です。さらに次の文で、金に裏づけられたドルが「世界の主要な準備通貨」になったと書かれています。
+世界でいちばん多くの金を持つ国はアメリカだけなので、ドルの安定を保証できるのはアメリカだけだった、と考えられます。本文と選択肢を対にすると、次のようになります。
+・本文 possessed the world's largest reserves of gold（世界で最も多くの金の蓄えを持っていた）→ 読み取れること → 選択肢 the only nation in a position to ensure（保証できる立場にある、ただ1つの国）
+・本文 it seemed unlikely the United States would run out（アメリカが金を使い果たすことはありそうになかった）、the world's primary reserve currency（世界の主要な準備通貨）→ 読み取れること → 選択肢 its currency would be stable enough to be used as a reserve currency（自国の通貨が準備通貨として使えるほど安定している）
+ですから、1が正解です。
+この問題の型：推論（世界最大の金の蓄え・使い果たしそうにない → ドルの安定を保証できるのはアメリカ）
+【ほかの選択肢】
+2 イギリスに、政治的な力でアメリカと対等だと感じさせることが大切だった、という内容は本文に書かれていません。イギリスについては、ケインズがイギリスの有名な経済学者だったと書かれているだけです。
+3 ホワイトとケインズが、ヨーロッパの強国は植民地を手放さずにおくべきだと考えたとは、本文に書かれていません。本文に植民地が出てくるのは、アメリカが the colonial European powers（植民地を持つヨーロッパの強国）を追い抜いた、という部分だけです。
+4 本文で、世界で最も多くの金を持っていたと書かれているのはアメリカです。ほかの国々は、自国の通貨の価値を金ではなく、アメリカのドルに結びつけることに同意したと書かれています。ほかの国々が自分たちの大量の金を使って通貨を支えるという内容は書かれていません。
+【覚えるポイント】
+・run out：「（たくわえなどが）なくなる、使い果たす」。ここでは、アメリカの金がなくなることを表しています。
+・設問に人物の名前（ここでは Harry Dexter White）があるときは、本文でその名前が出てくる文（as White pointed out）を探しましょう。その文の中の so（だから）の前の部分に、指摘のもとになった事実が書かれていることがあります。

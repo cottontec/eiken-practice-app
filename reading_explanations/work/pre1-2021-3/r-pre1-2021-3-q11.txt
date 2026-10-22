@@ -1,6 +1,7 @@
 ---
 choices: contemplating | emphasizing | vandalizing | illustrating
 answerText: contemplating
+reviewed: yes
 ---
 【正解】1 contemplating（じっくり考えている、検討している）
 【和訳】

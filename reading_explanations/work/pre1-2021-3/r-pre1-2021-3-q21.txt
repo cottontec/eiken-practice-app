@@ -1,6 +1,7 @@
 ---
 choices: capacity | novelty | bait | chunk
 answerText: capacity
+reviewed: yes
 ---
 【正解】1 capacity（能力）
 【和訳】

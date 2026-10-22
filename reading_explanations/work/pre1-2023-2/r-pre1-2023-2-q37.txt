@@ -1,0 +1,31 @@
+---
+choices: It can make people rely on machines to perform tasks that would be cheaper for humans to do themselves. | It can make people mistakenly assume that AI and machines do not need any guidance to perform tasks correctly. | The belief that AI and machines act in a similar way to humans can cause people to misunderstand what they are able to do. | The relationships scientists form with AI can cause them to prioritize its development over the needs of humans.
+answerText: The belief that AI and machines act in a similar way to humans can cause people to misunderstand what they are able to do.
+---
+【正解】3 The belief that AI and machines act in a similar way to humans can cause people to misunderstand what they are able to do.（AIや機械が人間と似たようなふるまい方をするという思いこみによって、人々はそれらに何ができるのかを誤解することがありうる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to the passage, what is a potential problem with anthropomorphism?（本文によると、擬人化の問題になりうる点は何か。）
+1 It can make people rely on machines to perform tasks that would be cheaper for humans to do themselves.（擬人化によって、人間が自分でするほうが安くすむような作業を、人々が機械にたよってさせるようになることがありうる。）
+2 It can make people mistakenly assume that AI and machines do not need any guidance to perform tasks correctly.（擬人化によって、AIや機械が作業を正しく行うのに何の指示も必要ないと、人々が誤って思いこむことがありうる。）
+3 The belief that AI and machines act in a similar way to humans can cause people to misunderstand what they are able to do.（AIや機械が人間と似たようなふるまい方をするという思いこみによって、人々はそれらに何ができるのかを誤解することがありうる。）
+4 The relationships scientists form with AI can cause them to prioritize its development over the needs of humans.（科学者がAIと築く関係によって、科学者が人間の必要よりもAIの開発を優先するようになることがありうる。）
+【考え方】
+まず見るところ：第3段落の Assuming AI works in the same way as the human brain, for example, may lead to unrealistic expectations of its capabilities
+擬人化（anthropomorphism：人間以外のものに人間の特徴を当てはめること）の問題点は、第3段落に書かれています。
+Assuming AI works in the same way as the human brain, for example, may lead to unrealistic expectations of its capabilities, causing it to be used in situations where it is unable to provide significant benefits.（たとえば、AIが人間の脳と同じように働くと思いこむと、その能力について現実離れした期待をいだくことにつながり、AIが大きな利益をもたらすことのできない状況でAIが使われる原因になるかもしれない）
+assume は「（確かめずに）思いこむ」、unrealistic は「現実離れした」、capabilities は「能力」です。AIを人間の脳と同じだと思いこむと、AIにできることを実際より大きく考えてしまう、ということです。
+本文と選択肢3を対にすると、次のようになります。
+本文 Assuming AI works in the same way as the human brain（AIが人間の脳と同じように働くと思いこむこと）→ 選択肢 The belief that AI and machines act in a similar way to humans（AIや機械が人間と似たようなふるまい方をするという思いこみ）
+本文 unrealistic expectations of its capabilities（その能力についての現実離れした期待）→ 選択肢 misunderstand what they are able to do（それらに何ができるのかを誤解する）
+同じ段落の the misunderstanding that they reason in the same way as humans do（機械が人間と同じように考えるという誤解）も、同じ考えを表しています。ですから3が正解です。
+この問題の型：言いかえ（unrealistic expectations of its capabilities → misunderstand what they are able to do）
+【ほかの選択肢】
+1 本文に書かれていません。第3段落には、AIが大きな利益をもたらせない状況で使われるおそれがあるとありますが、人間が自分でするほうが安くすむという、費用の比べ方の話は出てきません。
+2 本文に書かれていません。第3段落には、AIや機械が作業を正しく行うのに指示（guidance）が必要かどうかという話は出てきません。
+4 本文に書かれていません。第3段落の最後の引用には、機械と長く過ごすと科学者でさえ機械に個性を見いだし始めるとありますが、科学者が人間の必要よりもAIの開発を優先するという話はありません。
+【覚えるポイント】
+・本文の Assuming ～（～と思いこむと）のような「思いこみ」を表す語句は、選択肢で The belief that ～（～という思いこみ）や mistakenly assume（誤って思いこむ）のように言いかえられることがあります。思いこみの「中身」まで本文と同じかを確かめると、まちがいの選択肢を見分ける手がかりになります。
+・unrealistic expectations of its capabilities（能力についての現実離れした期待）は、「何ができるのかを誤解する」とまとめられます。

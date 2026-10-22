@@ -1,6 +1,7 @@
 ---
 choices: unanimously | abnormally | mockingly | savagely
 answerText: unanimously
+reviewed: yes
 ---
 【正解】1 unanimously（全員一致で）
 【和訳】

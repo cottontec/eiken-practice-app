@@ -1,0 +1,32 @@
+---
+choices: sank in | let out | went under | lived off
+answerText: went under
+---
+【正解】3 went under（倒産した、つぶれた）
+【和訳】
+（英文）
+The company was badly affected by the financial crisis and nearly ［went under］, but it has now recovered and is making a profit again.
+（訳）
+その会社は金融危機によってひどい影響を受け、もう少しで（倒産する）ところだったが、今では立ち直り、再び利益を出している。
+（選択肢の意味）
+1 sank in：（言われたことの意味が）じわじわと分かった、しみこんだ
+2 let out：（声など）を出した、（秘密など）をもらした
+3 went under：倒産した、つぶれた、沈んだ
+4 lived off：～に頼って暮らした
+【考え方】
+まず見るところ：but のあとの it has now recovered and is making a profit again
+文の前半では、会社がひどい目にあったことが書かれています。
+The company was badly affected by the financial crisis（その会社は金融危機によってひどい影響を受けた）
+financial crisis は「金融危機（お金の流れが大きく乱れ、多くの会社や銀行が困る状態）」です。
+nearly は「もう少しで～するところだった（実際にはそうならなかった）」という意味です。but のあとを見ます。
+it has now recovered and is making a profit again（今では立ち直り、再び利益を出している）
+「今では立ち直った」とあるので、空所には、会社にとって最悪の結果で、しかも実際には起こらずにすんだことが入ると考えられます。
+go under は、会社について使うと「倒産する、つぶれる」という意味です。nearly went under で「もう少しで倒産するところだった」となり、but のあとの「立ち直った」とつながります。ですから3が正解です。
+この問題の型：熟語・決まった形（go under ＝ 倒産する）／対比（倒産しかけた⇔立ち直った）
+【ほかの選択肢】
+1 sank in は「（言われたことの意味が）じわじわと分かった」です。「会社がもう少しで意味が分かるところだった」となり、金融危機の話とつながりません。
+2 let out は「（声など）を出した、（秘密など）をもらした」です。「会社がもう少しで声を出すところだった」となり、but のあとの「立ち直った」と結びつきません。
+4 lived off は「～に頼って暮らした」です。何に頼ったのかが書かれておらず、「もう少しで～に頼って暮らすところだった」では、立ち直ったという後半と対比になりません。
+【覚えるポイント】
+・go under：「（会社が）倒産する、つぶれる」。
+・nearly ～（もう少しで～するところだった）のあとに but ～ recovered（しかし立ち直った）が続くときは、空所には「立ち直る前の最悪の状態」が入ることが多いです。but の後ろと反対の内容を考えるのが手がかりになります。
