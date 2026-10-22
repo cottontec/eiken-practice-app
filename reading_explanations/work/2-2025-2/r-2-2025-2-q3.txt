@@ -1,6 +1,7 @@
 ---
 choices: robbed | qualified | weighed | disappeared
 answerText: qualified
+reviewed: yes
 ---
 【正解】2 qualified（資格を得た）
 【和訳】

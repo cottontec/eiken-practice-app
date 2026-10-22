@@ -1,6 +1,7 @@
 ---
 choices: overlap | govern | forgive | arrest
 answerText: govern
+reviewed: yes
 ---
 【正解】2 govern（治める、統治する）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: Disappointingly | More importantly | Nevertheless | By contrast
 answerText: By contrast
+reviewed: yes
 ---
 【正解】4 By contrast（それとは対照的に）
 【和訳】

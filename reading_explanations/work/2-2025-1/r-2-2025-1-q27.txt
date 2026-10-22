@@ -1,6 +1,7 @@
 ---
 choices: They sent the tea samples back to him without opening them. | They asked for bigger bags to make it easier to make tea. | They used the tea leaves in the bags just as they were delivered. | They mixed different types of tea from different bags together.
 answerText: They used the tea leaves in the bags just as they were delivered.
+reviewed: yes
 ---
 【正解】3 They used the tea leaves in the bags just as they were delivered.（客たちは、袋の中の茶葉を、届けられたままの状態で使った。）
 【和訳】

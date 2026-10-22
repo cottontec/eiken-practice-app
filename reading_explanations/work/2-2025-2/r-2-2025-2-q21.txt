@@ -1,6 +1,7 @@
 ---
 choices: animals make some noise | owls sleep in the day | sound arrives at each ear | their eye recognizes the light
 answerText: sound arrives at each ear
+reviewed: yes
 ---
 【正解】3 sound arrives at each ear（音がそれぞれの耳に届く）
 【和訳】

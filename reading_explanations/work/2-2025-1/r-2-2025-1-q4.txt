@@ -1,6 +1,7 @@
 ---
 choices: drag | wipe | greet | row
 answerText: drag
+reviewed: yes
 ---
 【正解】1 drag（引きずる）
 【和訳】

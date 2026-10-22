@@ -1,6 +1,7 @@
 ---
 choices: deceived | sacrificed | composed | indicated
 answerText: indicated
+reviewed: yes
 ---
 【正解】4 indicated（示した）
 【和訳】

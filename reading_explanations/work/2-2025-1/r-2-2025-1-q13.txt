@@ -1,6 +1,7 @@
 ---
 choices: covers up | relies on | does with | approves of
 answerText: relies on
+reviewed: yes
 ---
 【正解】2 relies on（～に頼る）
 【和訳】

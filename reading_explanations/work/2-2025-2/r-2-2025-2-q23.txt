@@ -1,6 +1,7 @@
 ---
 choices: In spite of this | To begin with | Even so | Therefore
 answerText: Therefore
+reviewed: yes
 ---
 【正解】4 Therefore（そのため、したがって）
 【和訳】

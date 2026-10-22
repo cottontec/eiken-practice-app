@@ -1,6 +1,7 @@
 ---
 choices: The quality of tea in bags improved to match the British tea culture. | British tea companies said it was not rude to use tea bags. | The government provided financial support to tea bag factories. | They fit well with the pace of the modern life of British people.
 answerText: They fit well with the pace of the modern life of British people.
+reviewed: yes
 ---
 【正解】4 They fit well with the pace of the modern life of British people.（ティーバッグが、イギリスの人々の現代の生活のペースによく合っていた。）
 【和訳】

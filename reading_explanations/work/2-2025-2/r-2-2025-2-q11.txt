@@ -1,6 +1,7 @@
 ---
 choices: dropped by | came down | passed on | went off
 answerText: went off
+reviewed: yes
 ---
 【正解】4 went off（〔警報などが〕鳴った）
 【和訳】

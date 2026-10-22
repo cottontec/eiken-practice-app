@@ -1,6 +1,7 @@
 ---
 choices: a lack of workforce | the variety of fruits they make | poor farming conditions | bad weather throughout the year
 answerText: poor farming conditions
+reviewed: yes
 ---
 【正解】3 poor farming conditions（農業に不利な条件）
 【和訳】

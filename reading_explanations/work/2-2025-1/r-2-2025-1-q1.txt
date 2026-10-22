@@ -1,6 +1,7 @@
 ---
 choices: civilization | disappointment | proportion | advertisement
 answerText: civilization
+reviewed: yes
 ---
 【正解】1 civilization（文明）
 【和訳】

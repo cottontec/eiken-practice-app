@@ -1,6 +1,7 @@
 ---
 choices: specified | advertised | reminded | devoted
 answerText: devoted
+reviewed: yes
 ---
 【正解】4 devoted（ささげた、注いだ）
 【和訳】

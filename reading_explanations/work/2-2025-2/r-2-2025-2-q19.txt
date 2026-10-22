@@ -1,6 +1,7 @@
 ---
 choices: accidentally dropped it | took some books | suddenly heard some noise | picked up one document
 answerText: accidentally dropped it
+reviewed: yes
 ---
 【正解】1 accidentally dropped it（誤ってそれを落としてしまった）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: The filter paper was the first material used to make tea bags. | The materials used for tea bags are becoming more eco-friendly. | It was Sullivan's customers' idea to put tea leaves in the silk bags. | People in Britain never used tea bags until very recently.
 answerText: The materials used for tea bags are becoming more eco-friendly.
+reviewed: yes
 ---
 【正解】2 The materials used for tea bags are becoming more eco-friendly.（ティーバッグに使われる素材は、より環境に優しいものになりつつある。）
 【和訳】

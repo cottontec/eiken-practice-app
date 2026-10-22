@@ -1,6 +1,7 @@
 ---
 choices: What assistance is being provided by the library to help students. | The most popular categories of books among new students each year. | The opening hours of the school library during winter vacation. | When she should arrange library events for new and graduating students.
 answerText: What assistance is being provided by the library to help students.
+reviewed: yes
 ---
 【正解】1 What assistance is being provided by the library to help students.（生徒を助けるために、図書館によってどんな支援が行われているか。）
 【和訳】

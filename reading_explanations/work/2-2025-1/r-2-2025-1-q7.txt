@@ -1,6 +1,7 @@
 ---
 choices: apologize | supply | determine | instruct
 answerText: apologize
+reviewed: yes
 ---
 【正解】1 apologize（謝る）
 【和訳】

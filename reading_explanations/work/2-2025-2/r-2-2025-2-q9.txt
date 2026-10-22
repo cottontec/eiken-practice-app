@@ -1,6 +1,7 @@
 ---
 choices: laughter | climate | illness | judgment
 answerText: judgment
+reviewed: yes
 ---
 【正解】4 judgment（判断力、判断）
 【和訳】

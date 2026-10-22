@@ -1,6 +1,7 @@
 ---
 choices: surgery | pollution | resort | mixture
 answerText: mixture
+reviewed: yes
 ---
 【正解】4 mixture（混ぜ合わせたもの）
 【和訳】

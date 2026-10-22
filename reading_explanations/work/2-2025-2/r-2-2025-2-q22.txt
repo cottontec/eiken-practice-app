@@ -1,6 +1,7 @@
 ---
 choices: a smooth and silent air movement | a loud hitting sound in the air | a strong air movement to fly up | a color change in their wings
 answerText: a smooth and silent air movement
+reviewed: yes
 ---
 【正解】1 a smooth and silent air movement（なめらかで音のしない空気の流れ）
 【和訳】

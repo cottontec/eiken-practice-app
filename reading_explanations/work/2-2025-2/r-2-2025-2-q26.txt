@@ -1,6 +1,7 @@
 ---
 choices: Participants can talk with the instructor online. | Participants can take lessons from different marketing courses. | Participants can receive class materials by e-mail. | Participants can watch videos of two classes online.
 answerText: Participants can watch videos of two classes online.
+reviewed: yes
 ---
 【正解】4 Participants can watch videos of two classes online.（参加者は、2回分の授業の動画をオンラインで見ることができる。）
 【和訳】

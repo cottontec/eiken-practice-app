@@ -1,6 +1,7 @@
 ---
 choices: to test an animal's ability to see in the dark. | to find out how far an animal can see outside. | to determine if an animal can recognize itself. | to see when a baby recognizes who its mother is.
 answerText: to determine if an animal can recognize itself.
+reviewed: yes
 ---
 【正解】3 to determine if an animal can recognize itself.（動物が自分自身を認識できるかどうかを判断するため。）
 【和訳】

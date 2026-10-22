@@ -1,6 +1,7 @@
 ---
 choices: balance | welfare | reputation | genius
 answerText: welfare
+reviewed: yes
 ---
 【正解】2 welfare（幸福、福祉）
 【和訳】

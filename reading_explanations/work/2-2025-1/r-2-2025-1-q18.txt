@@ -1,6 +1,7 @@
 ---
 choices: just as a fun habit | for health purposes | without any intentions | to get out of danger
 answerText: without any intentions
+reviewed: yes
 ---
 【正解】3 without any intentions（何の意図もなく）
 【和訳】

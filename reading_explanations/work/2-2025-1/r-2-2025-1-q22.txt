@@ -1,6 +1,7 @@
 ---
 choices: making use of the given environment | leaving wild animals alone | singing while working in the fields | growing rice without using water
 answerText: making use of the given environment
+reviewed: yes
 ---
 【正解】1 making use of the given environment（与えられた環境を生かすこと）
 【和訳】

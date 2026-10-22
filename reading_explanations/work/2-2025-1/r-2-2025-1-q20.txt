@@ -1,6 +1,7 @@
 ---
 choices: as far as a few kilometers away | as long as they are in a safe place | less far than they think | much deeper in the ground
 answerText: as far as a few kilometers away
+reviewed: yes
 ---
 【正解】1 as far as a few kilometers away（数キロメートルも離れたところにいる）
 【和訳】

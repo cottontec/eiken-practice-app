@@ -1,6 +1,7 @@
 ---
 choices: the need for a large amount of production of tea bags. | the desire to improve the taste of tea by using filters. | the demand for handmade bags over machine-made ones. | the popularity of smaller bags for easy transportation.
 answerText: the need for a large amount of production of tea bags.
+reviewed: yes
 ---
 【正解】1 the need for a large amount of production of tea bags.（ティーバッグを大量に生産する必要性。）
 【和訳】

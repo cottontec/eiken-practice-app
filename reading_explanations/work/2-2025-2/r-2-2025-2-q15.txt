@@ -1,6 +1,7 @@
 ---
 choices: turn in | cut off | feed on | hang on
 answerText: feed on
+reviewed: yes
 ---
 【正解】3 feed on（～をえさにする、～を食べて生きる）
 【和訳】

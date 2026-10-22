@@ -1,6 +1,7 @@
 ---
 choices: accepted | flattened | gripped | promised
 answerText: gripped
+reviewed: yes
 ---
 【正解】3 gripped（〔注意・関心を〕強く引きつけた）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: massive | internal | consistent | recent
 answerText: consistent
+reviewed: yes
 ---
 【正解】3 consistent（一貫した、変わらない）
 【和訳】

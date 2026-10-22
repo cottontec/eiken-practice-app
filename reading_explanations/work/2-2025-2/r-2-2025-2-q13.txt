@@ -1,6 +1,7 @@
 ---
 choices: jealous of | confident of | limited to | identical to
 answerText: identical to
+reviewed: yes
 ---
 【正解】4 identical to（～とまったく同じ、そっくりな）
 【和訳】

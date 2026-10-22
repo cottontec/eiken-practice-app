@@ -1,6 +1,7 @@
 ---
 choices: much safer | no better | far healthier | still further
 answerText: no better
+reviewed: yes
 ---
 【正解】2 no better（少しもよくない）
 【和訳】

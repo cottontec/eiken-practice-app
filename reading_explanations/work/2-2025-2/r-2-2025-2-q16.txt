@@ -1,6 +1,7 @@
 ---
 choices: out of breath | against its will | easy to use | free of charge
 answerText: free of charge
+reviewed: yes
 ---
 【正解】4 free of charge（無料で）
 【和訳】

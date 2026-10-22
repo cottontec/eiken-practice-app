@@ -1,6 +1,7 @@
 ---
 choices: Some fish can understand the difference between themselves and others. | The cleaner wrasses were marked first and then placed in a tank with a mirror. | The cleaner wrasses did not notice the marks that were put on their bodies. | It was found that animals with large brains understood how to use mirrors.
 answerText: Some fish can understand the difference between themselves and others.
+reviewed: yes
 ---
 【正解】1 Some fish can understand the difference between themselves and others.（自分とほかのものとのちがいを理解できる魚もいる。）
 【和訳】

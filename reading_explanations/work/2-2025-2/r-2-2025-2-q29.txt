@@ -1,6 +1,7 @@
 ---
 choices: They tried to get rid of the mark on their body. | They escaped from the picture and hid behind a rock. | They ignored the picture and showed no interest in it. | They began swimming with other fish in the tank.
 answerText: They tried to get rid of the mark on their body.
+reviewed: yes
 ---
 【正解】1 They tried to get rid of the mark on their body.（自分の体の印を取り除こうとした。）
 【和訳】

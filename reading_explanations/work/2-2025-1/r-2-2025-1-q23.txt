@@ -1,6 +1,7 @@
 ---
 choices: On the contrary | To begin with | In general | As a consequence
 answerText: As a consequence
+reviewed: yes
 ---
 【正解】4 As a consequence（その結果）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: the other of | the most of | a kind of | a number of
 answerText: a number of
+reviewed: yes
 ---
 【正解】4 a number of（いくつもの、たくさんの）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: people owned one already | the store did not have space | people might not come to buy one | the store would run out of stock
 answerText: people might not come to buy one
+reviewed: yes
 ---
 【正解】3 people might not come to buy one（人々は買いに来ないかもしれない）
 【和訳】

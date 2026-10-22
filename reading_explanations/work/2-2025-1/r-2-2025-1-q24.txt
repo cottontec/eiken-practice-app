@@ -1,6 +1,7 @@
 ---
 choices: more students liked to read science fiction novels than nonfiction short stories. | students from other schools joined the reading week event at her school. | reading was one of the most common conversation topics among students. | a lot of students in her school were actually interested in reading.
 answerText: a lot of students in her school were actually interested in reading.
+reviewed: yes
 ---
 【正解】4 a lot of students in her school were actually interested in reading.（自分の学校の多くの生徒が、実は読書に興味を持っていること。）
 【和訳】

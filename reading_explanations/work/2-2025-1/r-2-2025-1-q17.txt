@@ -1,6 +1,7 @@
 ---
 choices: with ease | on board | in turn | at times
 answerText: at times
+reviewed: yes
 ---
 【正解】4 at times（ときどき）
 【和訳】

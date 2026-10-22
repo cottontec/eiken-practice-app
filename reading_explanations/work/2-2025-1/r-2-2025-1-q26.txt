@@ -1,6 +1,7 @@
 ---
 choices: Call her to discuss library improvements. | Close the library to meet students. | Send their answers back by e-mail. | Attend the council's meeting on Wednesday.
 answerText: Send their answers back by e-mail.
+reviewed: yes
 ---
 【正解】3 Send their answers back by e-mail.（回答をメールで送り返す。）
 【和訳】

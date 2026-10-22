@@ -1,6 +1,7 @@
 ---
 choices: severely | fluently | currently | anxiously
 answerText: severely
+reviewed: yes
 ---
 【正解】1 severely（ひどく、深刻に）
 【和訳】

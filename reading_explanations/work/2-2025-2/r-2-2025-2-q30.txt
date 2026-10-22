@@ -1,6 +1,7 @@
 ---
 choices: it costs a lot of money and takes too much time. | it is too dangerous to use a piece of glass in the water. | it only works on fish and some types of monkeys. | it needs to consider the other senses that animals have.
 answerText: it needs to consider the other senses that animals have.
+reviewed: yes
 ---
 【正解】4 it needs to consider the other senses that animals have.（動物が持っているほかの感覚を考えに入れる必要がある。）
 【和訳】
@@ -19,7 +20,7 @@ The mirror test has led to much discussion and debate.（ミラーテストは�
 Moreover, vision is not the main sense for all animals.（さらに、視覚は、すべての動物にとって主な感覚であるわけではない。）
 vision は「視覚（目で見る感覚）」です。not ～ all は「すべてが～というわけではない」という意味で、目がいちばん大事な感覚ではない動物もいる、ということです。
 Some animals rely more on smell than vision, so failing the mirror test does not always mean they cannot recognize themselves.（視覚よりも嗅覚に頼る動物もいるので、ミラーテストに合格しないことが、必ずしもその動物が自分を認識できないということを意味するわけではない。）
-ミラーテストは鏡を「見る」テストです。しかし、においにより頼る動物もいるので、テストに合格しなくても自分を認識できないとは限らない、という指摘です。
+ミラーテストは鏡を「見る」テストです。しかし、視覚よりもにおいに頼る動物もいるので、テストに合格しなくても自分を認識できないとは限らない、という指摘です。
 本文と選択肢を対にすると、次のようになります。
 本文 vision is not the main sense for all animals ／ Some animals rely more on smell than vision → 読み取れること：it needs to consider the other senses that animals have
 本文は「視覚以外の感覚に頼る動物もいるので、テストの結果だけでは決められない」と述べています。ここから、ミラーテストでは視覚以外の感覚も考えに入れる必要がある、という指摘だと読み取れます。ですから4が正解です。

@@ -1,6 +1,7 @@
 ---
 choices: reduce the amount of tea leaves used and cut production costs. | make tea bags look more modern and appealing to customers. | give more space for tea leaves to move around in tea bags. | compete with a traditional tea-making method in the market.
 answerText: give more space for tea leaves to move around in tea bags.
+reviewed: yes
 ---
 【正解】3 give more space for tea leaves to move around in tea bags.（ティーバッグの中で茶葉が動き回るための空間を、より多くあたえるため。）
 【和訳】

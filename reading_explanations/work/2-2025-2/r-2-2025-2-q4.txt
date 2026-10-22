@@ -1,6 +1,7 @@
 ---
 choices: device | complaint | occupation | proverb
 answerText: occupation
+reviewed: yes
 ---
 【正解】3 occupation（職業）
 【和訳】

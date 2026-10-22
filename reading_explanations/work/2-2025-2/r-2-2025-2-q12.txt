@@ -1,6 +1,7 @@
 ---
 choices: in the old days | for the time being | up in the air | at the same time
 answerText: for the time being
+reviewed: yes
 ---
 【正解】2 for the time being（当分の間、さしあたり）
 【和訳】

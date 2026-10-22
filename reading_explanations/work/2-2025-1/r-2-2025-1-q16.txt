@@ -1,6 +1,7 @@
 ---
 choices: takes a good look at | pays a good price for | has a good command of | gives a good reason of
 answerText: has a good command of
+reviewed: yes
 ---
 【正解】3 has a good command of（～を自由に使いこなす）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: permanent | amusing | complicated | uncomfortable
 answerText: uncomfortable
+reviewed: yes
 ---
 【正解】4 uncomfortable（心地よくない、座り心地が悪い）
 【和訳】

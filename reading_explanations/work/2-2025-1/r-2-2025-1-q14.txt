@@ -1,6 +1,7 @@
 ---
 choices: at my service | in my heart | in my way | to my regret
 answerText: to my regret
+reviewed: yes
 ---
 【正解】4 to my regret（残念なことに、後悔していることに）
 【和訳】

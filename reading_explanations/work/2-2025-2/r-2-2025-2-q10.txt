@@ -1,6 +1,7 @@
 ---
 choices: tragedy | democracy | mystery | philosophy
 answerText: democracy
+reviewed: yes
 ---
 【正解】2 democracy（民主主義、民主主義の国）
 【和訳】

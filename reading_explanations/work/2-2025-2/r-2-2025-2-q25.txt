@@ -1,6 +1,7 @@
 ---
 choices: another group will use the classroom. | some of the weeks include national holidays. | the instructor will be at another location. | some participants will take math examinations.
 answerText: the instructor will be at another location.
+reviewed: yes
 ---
 【正解】3 the instructor will be at another location.（講師が別の場所にいるから。）
 【和訳】

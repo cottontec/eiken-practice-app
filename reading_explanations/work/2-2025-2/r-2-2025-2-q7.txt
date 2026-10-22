@@ -1,6 +1,7 @@
 ---
 choices: necessarily | surprisingly | continuously | faithfully
 answerText: surprisingly
+reviewed: yes
 ---
 【正解】2 surprisingly（驚くほど、意外にも）
 【和訳】

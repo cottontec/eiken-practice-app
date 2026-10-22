@@ -1,6 +1,7 @@
 ---
 choices: bring on | pass for | save up | hand over
 answerText: save up
+reviewed: yes
 ---
 【正解】3 save up（ためる、貯金する）
 【和訳】

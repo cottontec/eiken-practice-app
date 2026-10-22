@@ -1,6 +1,7 @@
 ---
 choices: inheritance | exception | anxiety | confidence
 answerText: anxiety
+reviewed: yes
 ---
 【正解】3 anxiety（不安、心配）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: some hardly | only a little | only a few | some seldom
 answerText: only a few
+reviewed: yes
 ---
 【正解】3 only a few（ほんの少ししか～ない（数））
 【和訳】

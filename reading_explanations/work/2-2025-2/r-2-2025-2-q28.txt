@@ -1,6 +1,7 @@
 ---
 choices: They opened and closed their mouths many times. | They compared the color of their body to that of the mirrored fish. | They tried to touch the fish in the mirror with their fins. | They began to swim in a different way than before.
 answerText: They began to swim in a different way than before.
+reviewed: yes
 ---
 【正解】4 They began to swim in a different way than before.（それまでとはちがうやり方で泳ぎ始めた。）
 【和訳】
@@ -17,7 +18,7 @@ answerText: They began to swim in a different way than before.
 At first, they attacked their reflection.（初め、魚たちは鏡に映った自分の姿を攻撃した。）
 初めは、映った姿をほかの魚だと思っていたかもしれない、と書かれています。
 Later, they changed how they swam and checked if the fish in the mirror also changed how they swam.（その後、魚たちは自分の泳ぎ方を変え、鏡の中の魚も泳ぎ方を変えるかどうかを確かめた。）
-how they swam は「泳ぎ方」です。自分が泳ぎ方を変えたとき、鏡の中の魚も同じように変われば、それは自分の姿だと分かります。これが、魚たちが確かめた方法です。
+how they swam は「泳ぎ方」です。自分が泳ぎ方を変えたとき、鏡の中の魚も同じように変われば、それは自分の姿だと考えられます。これが、魚たちが確かめた方法として書かれています。
 本文と選択肢を対にすると、次のようになります。
 本文 they changed how they swam ＝ 選択肢 They began to swim in a different way than before
 changed how they swam（泳ぎ方を変えた）が、swim in a different way than before（それまでとはちがうやり方で泳ぐ）に言いかえられています。ですから4が正解です。

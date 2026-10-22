@@ -1,6 +1,7 @@
 ---
 choices: contributions | characteristics | investigations | exhibitions
 answerText: characteristics
+reviewed: yes
 ---
 【正解】2 characteristics（特徴）
 【和訳】
