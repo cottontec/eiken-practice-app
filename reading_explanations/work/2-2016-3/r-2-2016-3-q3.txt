@@ -1,6 +1,7 @@
 ---
 choices: industry | influence | capacity | continent
 answerText: continent
+reviewed: yes
 ---
 【正解】4 continent（大陸）
 【和訳】

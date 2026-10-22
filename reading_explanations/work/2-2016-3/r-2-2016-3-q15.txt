@@ -1,6 +1,7 @@
 ---
 choices: did away | ran away | passed out | ended up
 answerText: ended up
+reviewed: yes
 ---
 【正解】4 ended up（結局～に行き着いた）
 【和訳】

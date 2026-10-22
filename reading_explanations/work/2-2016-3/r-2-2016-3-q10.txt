@@ -1,6 +1,7 @@
 ---
 choices: benefit | react | succeed | disappear
 answerText: react
+reviewed: yes
 ---
 【正解】2 react（反応する）
 【和訳】

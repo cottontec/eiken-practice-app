@@ -1,6 +1,7 @@
 ---
 choices: manufacturers are looking for ways to make sweets that taste like chocolate. | manufacturers are spending more money on increasing production. | farmers are moving to new places to grow cheaper cocoa beans. | farmers are buying cocoa trees that can produce beans more quickly.
 answerText: manufacturers are spending more money on increasing production.
+reviewed: yes
 ---
 【正解】2 manufacturers are spending more money on increasing production.（メーカーは、生産を増やすことに〔以前より〕多くのお金を使っている。）
 【和訳】

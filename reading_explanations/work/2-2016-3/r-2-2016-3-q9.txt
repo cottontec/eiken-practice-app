@@ -1,6 +1,7 @@
 ---
 choices: permit | admit | predict | arrest
 answerText: predict
+reviewed: yes
 ---
 【正解】3 predict（予測する）
 【和訳】

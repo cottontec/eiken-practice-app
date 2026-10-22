@@ -1,6 +1,7 @@
 ---
 choices: reduced | achieved | postponed | completed
 answerText: postponed
+reviewed: yes
 ---
 【正解】3 postponed（延期された）
 【和訳】

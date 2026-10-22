@@ -1,6 +1,7 @@
 ---
 choices: betraying | restoring | justifying | fulfilling
 answerText: betraying
+reviewed: yes
 ---
 【正解】1 betraying（裏切ること）
 【和訳】

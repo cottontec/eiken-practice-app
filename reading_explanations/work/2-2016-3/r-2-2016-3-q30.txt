@@ -1,6 +1,7 @@
 ---
 choices: They are studying the brains of people who have good memories in their old age. | They are focusing on cases where memory loss is not caused by brain disease. | They are trying to reduce the effects of brain diseases on people's memories. | They are looking for a way to reduce the inconvenience of memory loss.
 answerText: They are studying the brains of people who have good memories in their old age.
+reviewed: yes
 ---
 【正解】1 They are studying the brains of people who have good memories in their old age.（彼らは、年をとっても記憶力がよい人々の脳を研究している。）
 【和訳】

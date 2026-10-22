@@ -1,6 +1,7 @@
 ---
 choices: They got along better with younger people than with people of their own age. | They had better memories than others but are not as good at paying attention. | There were no differences between their brains and those of other people their age. | The part of their brains related to memory and thinking was unusually healthy.
 answerText: The part of their brains related to memory and thinking was unusually healthy.
+reviewed: yes
 ---
 【正解】4 The part of their brains related to memory and thinking was unusually healthy.（彼らの脳のうち、記憶と思考に関係する部分が、並外れて健康だった。）
 【和訳】

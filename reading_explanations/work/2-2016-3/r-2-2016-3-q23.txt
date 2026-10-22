@@ -1,6 +1,7 @@
 ---
 choices: be good for people's health | be a problem for relationships | improve the quality of sleep | increase the heart's speed
 answerText: be good for people's health
+reviewed: yes
 ---
 【正解】1 be good for people's health（人々の健康によいものになる）
 【和訳】

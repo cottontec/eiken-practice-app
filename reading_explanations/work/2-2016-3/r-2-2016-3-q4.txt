@@ -1,6 +1,7 @@
 ---
 choices: solution | selection | survey | surface
 answerText: survey
+reviewed: yes
 ---
 【正解】3 survey（調査）
 【和訳】

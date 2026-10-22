@@ -1,6 +1,7 @@
 ---
 choices: The number of diseases that threaten cocoa trees is decreasing. | Cocoa trees that can protect themselves against diseases are being developed. | People in China and India have stopped believing that chocolate is a luxury food. | Chocolate will probably become the world's best-loved food in the near future.
 answerText: Cocoa trees that can protect themselves against diseases are being developed.
+reviewed: yes
 ---
 【正解】2 Cocoa trees that can protect themselves against diseases are being developed.（病気から自分の身を守ることのできるカカオの木が開発されつつある。）
 【和訳】

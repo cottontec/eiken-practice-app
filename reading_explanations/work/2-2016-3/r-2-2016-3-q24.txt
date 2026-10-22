@@ -1,6 +1,7 @@
 ---
 choices: constant and powerful | clean and clear | weak but reliable | strong but unstable
 answerText: constant and powerful
+reviewed: yes
 ---
 【正解】1 constant and powerful（絶えず吹いていて力強い）
 【和訳】

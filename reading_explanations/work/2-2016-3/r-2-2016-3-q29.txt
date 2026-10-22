@@ -1,6 +1,7 @@
 ---
 choices: Bring their baby to the health department on a specific day of the month. | Take their health insurance information with them to the health department. | Get an e-mail from the doctor's office saying that the baby needs vaccines. | Bring their baby to the doctor's office when he or she has a high temperature.
 answerText: Bring their baby to the health department on a specific day of the month.
+reviewed: yes
 ---
 【正解】1 Bring their baby to the health department on a specific day of the month.（月の決まった日に、赤ちゃんを保健局へ連れて行く。）
 【和訳】

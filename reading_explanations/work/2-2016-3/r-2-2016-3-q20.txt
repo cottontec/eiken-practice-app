@@ -1,6 +1,7 @@
 ---
 choices: worse | bad | less | least
 answerText: worse
+reviewed: yes
 ---
 【正解】1 worse（what was worse で「さらに悪いことに」）
 【和訳】

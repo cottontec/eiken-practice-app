@@ -1,6 +1,7 @@
 ---
 choices: People prefer living a healthy life to eating sweets such as chocolate. | People will not want to buy chocolate any longer because it is too expensive. | They will have to increase the price of chocolate by 60 percent to cover costs. | They are not able to produce as much chocolate as people want to buy.
 answerText: They are not able to produce as much chocolate as people want to buy.
+reviewed: yes
 ---
 【正解】4 They are not able to produce as much chocolate as people want to buy.（人々が買いたいと思うほどの量のチョコレートを、生産することができない。）
 【和訳】

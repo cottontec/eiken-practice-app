@@ -1,6 +1,7 @@
 ---
 choices: Unfortunately | As a result | In addition | On the other hand
 answerText: On the other hand
+reviewed: yes
 ---
 【正解】4 On the other hand（一方で）
 【和訳】

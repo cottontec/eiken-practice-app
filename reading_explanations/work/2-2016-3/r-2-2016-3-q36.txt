@@ -1,6 +1,7 @@
 ---
 choices: climate change is helping to produce healthier cocoa trees. | it is taking longer than usual to grow new cocoa trees. | fewer beans are being produced because the weather is becoming drier. | beans are 70 percent smaller than beans grown in South America.
 answerText: fewer beans are being produced because the weather is becoming drier.
+reviewed: yes
 ---
 【正解】3 fewer beans are being produced because the weather is becoming drier.（天候が〔以前より〕乾燥してきているため、生産される豆が〔以前より〕減っている。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: honest with | familiar with | typical of | independent of
 answerText: independent of
+reviewed: yes
 ---
 【正解】4 independent of（～から独立した、～に頼らない）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: reduce the wind needed | increase the space needed | are a less attractive way | are a more efficient way
 answerText: are a more efficient way
+reviewed: yes
 ---
 【正解】4 are a more efficient way（より効率のよい方法である）
 【和訳】

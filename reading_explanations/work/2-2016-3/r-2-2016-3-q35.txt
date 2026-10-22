@@ -1,6 +1,7 @@
 ---
 choices: the quality of life of people around the world is improving. | many people living in South America are now selling chocolate. | middle-class people are unlikely to buy large amounts of chocolate. | Chinese people are more interested in luxury goods than other people.
 answerText: the quality of life of people around the world is improving.
+reviewed: yes
 ---
 【正解】1 the quality of life of people around the world is improving.（世界中の人々の生活の質が向上している。）
 【和訳】

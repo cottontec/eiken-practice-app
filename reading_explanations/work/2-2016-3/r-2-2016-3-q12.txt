@@ -1,6 +1,7 @@
 ---
 choices: make | take | set | get
 answerText: take
+reviewed: yes
 ---
 【正解】2 take（take ～ for granted で「～を当たり前だと思う」）
 【和訳】

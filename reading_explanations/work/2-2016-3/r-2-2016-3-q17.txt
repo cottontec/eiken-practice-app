@@ -1,6 +1,7 @@
 ---
 choices: up | out | well | less
 answerText: well
+reviewed: yes
 ---
 【正解】3 well（speak well of ～ で「～をよく言う、ほめる」）
 【和訳】

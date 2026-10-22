@@ -1,6 +1,7 @@
 ---
 choices: rare idea about | modern cure for | negative view of | common cause of
 answerText: negative view of
+reviewed: yes
 ---
 【正解】3 negative view of（～に対する否定的な見方）
 【和訳】

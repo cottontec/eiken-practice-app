@@ -1,0 +1,29 @@
+---
+choices: It is much older than experts originally thought it was. | Few people from outside India have heard of its ancient temples. | Many of its ancient buildings have been destroyed by tourists. | More people visit it each day than actually live in the town.
+answerText: More people visit it each day than actually live in the town.
+---
+【正解】4 More people visit it each day than actually live in the town.（実際に町に住んでいる人より多くの人が、毎日町を訪れる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ママッラプラムの町について正しいものはどれですか。
+1 専門家がもともと考えていたよりも、ずっと古い。
+2 インドの外の人で、その古代の寺院のことを聞いたことがある人はほとんどいない。
+3 古代の建物の多くが、観光客によって壊されてきた。
+4 実際に町に住んでいる人より多くの人が、毎日町を訪れる。
+【考え方】
+町の基本的な情報は第1段落にあります。選択肢4の「住んでいる人」と「訪れる人」の数に関係する文を探します。
+Although the town has a population of only 15,000, it is visited every day by around 20,000 people.（この町の人口はわずか1万5,000人だが、毎日約2万人が訪れる）
+population は「人口（そこに住んでいる人の数）」です。住んでいる人は1万5,000人、毎日訪れる人は約2万人なので、訪れる人のほうが多いことが分かります。
+本文と選択肢を対にすると、次のようになります。
+本文 a population of only 15,000 ＝ 選択肢 actually live in the town（実際に町に住んでいる人）
+本文 visited every day by around 20,000 people ＝ 選択肢 people visit it each day（毎日訪れる人）
+20,000は15,000より多いので、More people visit it each day than actually live in the town（町に住んでいる人より多くの人が毎日訪れる）と言えます。
+【ほかの選択肢】
+1 本文には The town was first built in the 7th century（この町は7世紀に初めて築かれた）とあるだけです。専門家が考えていたよりも古いと分かった、という話はありません。
+2 本文には attracts many tourists from both inside India and abroad（インド国内と外国の両方から多くの観光客を引きつけている）とあります。外国からも多くの人が来ているので、本文と反対です。
+3 観光客が引き起こしているのは environmental problems（環境問題）で、その例は食べ物のごみなどです。古代の建物が壊されたとは書かれていません。
+【覚えるポイント】
+・population：「人口」。a population of ～ で「～人の人口」。
+・Although A, B：「Aだけれども、B」。ここでは「人口は少ないけれども、訪れる人は多い」という対比（2つを比べて違いを示すこと）になっています。

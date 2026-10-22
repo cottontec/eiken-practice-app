@@ -1,6 +1,7 @@
 ---
 choices: calm down | put away | believe in | think over
 answerText: think over
+reviewed: yes
 ---
 【正解】4 think over（～をよく考える）
 【和訳】

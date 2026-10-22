@@ -1,6 +1,7 @@
 ---
 choices: among | despite | beyond | throughout
 answerText: beyond
+reviewed: yes
 ---
 【正解】3 beyond（～を越えて）
 【和訳】

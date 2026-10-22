@@ -1,6 +1,7 @@
 ---
 choices: medical | peaceful | accurate | sensitive
 answerText: accurate
+reviewed: yes
 ---
 【正解】3 accurate（正確な）
 【和訳】

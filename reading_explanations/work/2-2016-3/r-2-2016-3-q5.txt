@@ -1,6 +1,7 @@
 ---
 choices: annually | doubtfully | locally | permanently
 answerText: doubtfully
+reviewed: yes
 ---
 【正解】2 doubtfully（疑わしそうに）
 【和訳】

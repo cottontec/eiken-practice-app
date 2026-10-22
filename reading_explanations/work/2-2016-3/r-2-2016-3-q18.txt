@@ -1,6 +1,7 @@
 ---
 choices: other | another | nothing | anything
 answerText: another
+reviewed: yes
 ---
 【正解】2 another（別のもの）
 【和訳】

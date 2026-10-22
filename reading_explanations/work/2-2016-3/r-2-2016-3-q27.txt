@@ -1,6 +1,7 @@
 ---
 choices: Her baby needs special help that other babies do not need. | The Clayton County Health Department sends e-mails to all new mothers. | She asked him questions about the health department's services. | He is concerned that she is not taking good enough care of her baby.
 answerText: She asked him questions about the health department's services.
+reviewed: yes
 ---
 【正解】3 She asked him questions about the health department's services.（彼女が彼に、保健局のサービスについて質問した。）
 【和訳】

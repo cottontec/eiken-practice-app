@@ -1,6 +1,7 @@
 ---
 choices: appearance | technology | network | obstacle
 answerText: obstacle
+reviewed: yes
 ---
 【正解】4 obstacle（障害、じゃまになるもの）
 【和訳】

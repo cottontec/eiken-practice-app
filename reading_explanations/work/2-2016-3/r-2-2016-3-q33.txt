@@ -1,6 +1,7 @@
 ---
 choices: Some people are unlikely to be able to improve their memories through practice and exercise. | Most people with strong brains are genetically different from people with normal brains. | Living an active and social life is related to the health of people's brains. | Eating healthily before exercising has a positive effect on people's memories.
 answerText: Living an active and social life is related to the health of people's brains.
+reviewed: yes
 ---
 【正解】3 Living an active and social life is related to the health of people's brains.（活動的で、人とかかわる生活を送ることは、人々の脳の健康と関係がある。）
 【和訳】

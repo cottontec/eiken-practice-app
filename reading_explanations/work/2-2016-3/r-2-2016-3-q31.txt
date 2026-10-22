@@ -1,6 +1,7 @@
 ---
 choices: people over 80 who answered at least 10 percent of the test questions correctly. | people over 80 whose memories are as good as people in their 50s and early 60s. | people between 50 and 65 whose memories are better than average for their age. | people between 50 and 65 who are likely to live a healthy life through their 80s.
 answerText: people over 80 whose memories are as good as people in their 50s and early 60s.
+reviewed: yes
 ---
 【正解】2 people over 80 whose memories are as good as people in their 50s and early 60s.（記憶力が50代と60代前半の人々と同じくらいよい、80歳を超える人々。）
 【和訳】

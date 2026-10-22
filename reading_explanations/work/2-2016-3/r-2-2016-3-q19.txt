@@ -1,6 +1,7 @@
 ---
 choices: have become | had become | became | becoming
 answerText: have become
+reviewed: yes
 ---
 【正解】1 have become（would not have become で「なっていなかっただろう」）
 【和訳】
