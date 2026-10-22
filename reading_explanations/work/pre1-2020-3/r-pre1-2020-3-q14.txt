@@ -1,6 +1,7 @@
 ---
 choices: testimony | tremor | dismissal | glossary
 answerText: dismissal
+reviewed: yes
 ---
 【正解】3 dismissal（解雇）
 【和訳】

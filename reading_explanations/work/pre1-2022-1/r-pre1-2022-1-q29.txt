@@ -1,0 +1,27 @@
+---
+choices: have long-term effects on eyesight | can help solve the problem | can be used on all devices | will improve in the future
+answerText: have long-term effects on eyesight
+---
+【正解】1 have long-term effects on eyesight（視力に長期的な影響を与える）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 have long-term effects on eyesight（視力に長期的な影響を与える）
+2 can help solve the problem（問題を解決するのに役立ちうる）
+3 can be used on all devices（すべての機器で使うことができる）
+4 will improve in the future（将来よくなるだろう）
+【考え方】
+まず見るところ：第1段落の空所の前の However, there is no clear evidence that digital screens
+第1段落では、まず近視が増えていることが書かれ、そのあと、多くの人がその原因をデジタル画面だと考えていることが紹介されています。
+Many people blame this trend on the use of digital screens.（多くの人々は、この傾向をデジタル画面の使用のせいにしている）
+blame A on B は「AをBのせいにする」という意味です。人々は、画面が目の疲れにつながり、ブルーライトが目の細胞を傷つけると主張しています。
+そのあとに However（しかし）が来て、「デジタル画面が〇〇というはっきりした証拠はない」と続きます。人々の主張に反対する流れなので、空所には人々の主張と同じ内容、つまり「画面が目に悪い影響を与える」という内容が入ります。さらに第2段落の始めでは、近視の増加は画面が広く使われる前から始まっていたと書かれており、画面が原因だという考えを疑う流れになっています。よって「視力に長期的な影響を与える」となる1が正解です。
+この問題の型：対比（人々の主張⇔However, there is no clear evidence）
+【ほかの選択肢】
+2 can help solve the problem は「問題を解決するのに役立ちうる」です。人々は画面を近視の原因だと言っているので、「画面が問題の解決に役立つという証拠はない」と言っても、人々の主張に反論することになりません。
+3 can be used on all devices は「すべての機器で使うことができる」です。画面がどの機器で使えるかは、近視の原因の話と関係がなく、つながりません。
+4 will improve in the future は「将来よくなるだろう」です。画面が将来よくなるかどうかについては本文に書かれておらず、However の前の主張に反論する内容にもなりません。
+【覚えるポイント】
+・blame A on B：「AをBのせいにする」。there is no clear evidence that ～：「～というはっきりした証拠はない」。
+・「多くの人が～と主張している。However, there is no evidence that (　)」という形では、空所に人々の主張と同じ内容が入り、それを否定する流れになることが多いので、前の主張の中身を確かめます。

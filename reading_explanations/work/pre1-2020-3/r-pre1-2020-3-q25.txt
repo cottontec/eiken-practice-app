@@ -1,6 +1,7 @@
 ---
 choices: kept away | made up | worked up | played out
 answerText: made up
+reviewed: yes
 ---
 【正解】2 made up（仲直りした）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: check up on | go through with | get away with | fall back on
 answerText: check up on
+reviewed: yes
 ---
 【正解】1 check up on（～の様子を確かめる）
 【和訳】

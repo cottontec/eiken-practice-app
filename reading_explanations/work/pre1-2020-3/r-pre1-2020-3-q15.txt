@@ -1,6 +1,7 @@
 ---
 choices: concede | consolidate | foster | plaster
 answerText: concede
+reviewed: yes
 ---
 【正解】1 concede（負けを認めて譲る）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: divine | dutiful | sparse | lively
 answerText: divine
+reviewed: yes
 ---
 【正解】1 divine（神の、神からの）
 【和訳】

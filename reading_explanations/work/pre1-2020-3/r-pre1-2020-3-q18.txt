@@ -1,6 +1,7 @@
 ---
 choices: telegraphs | autographs | editorials | exhibits
 answerText: autographs
+reviewed: yes
 ---
 【正解】2 autographs（有名人のサイン）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: The city's continuing refusal to provide additional funding for the company made it impossible for it to survive. | The city finally decided to allow a nonprofit company to manage it after the service failed to gain popularity. | While the service was popular with the public, low profits forced the city to look for funding elsewhere. | When the company that operated it was unable to make it successful, the city bought and attempted to expand the service.
 answerText: When the company that operated it was unable to make it successful, the city bought and attempted to expand the service.
+reviewed: yes
 ---
 【正解】4 When the company that operated it was unable to make it successful, the city bought and attempted to expand the service.（運営していた会社がそれを成功させることができなかったとき、市がそのサービスを買い取り、広げようとした。）
 【和訳】

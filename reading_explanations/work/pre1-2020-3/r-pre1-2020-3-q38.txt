@@ -1,6 +1,7 @@
 ---
 choices: Coral reefs that do not support much life are generally found in areas of the ocean that are home to a wide variety of marine species. | In spite of the lack of life in the open water around them, coral reefs are able to support large populations of sea creatures. | Coral reefs that form in cold water are better able to support life than those that develop where temperatures are higher. | Sea creatures that live alone prefer to live near coral reefs, while those found in groups prefer parts of the ocean with warmer water.
 answerText: In spite of the lack of life in the open water around them, coral reefs are able to support large populations of sea creatures.
+reviewed: yes
 ---
 【正解】2 In spite of the lack of life in the open water around them, coral reefs are able to support large populations of sea creatures.（周りの外洋には生き物が少ないにもかかわらず、サンゴ礁はたくさんの海の生き物を支えることができる。）
 【和訳】
@@ -25,7 +26,7 @@ fertile は「豊かな、実りの多い」、oasis は「オアシス（砂漠
 ですから2が正解です。
 この問題の型：指示語（This mystery＝第1段落の最後の疑問）／言いかえ（lifeless desert ＝ lack of life、fertile oasis ＝ support large populations）
 【ほかの選択肢】
-1 本文と逆です。本文では、生き物が少ないのは周りの外洋で、サンゴ礁の周りにはたくさんの生き物がいます。選択肢1は、生き物の少ないサンゴ礁が生き物の多い海域にあると言っているので、関係が反対になっています。
+1 本文の関係を入れかえた内容です。本文では、生き物が少ないのは周りの外洋で、サンゴ礁の周りにはたくさんの生き物がいます。選択肢1は、生き物の少ないサンゴ礁が生き物の多い海域にあると言っているので、これとは向きが反対になっています。
 3 本文にありません。本文に冷たい水が出てくるのは第3段落の湧昇（深海の冷たい水が上がってくること）の説明だけで、冷たい水のサンゴ礁と暖かい水のサンゴ礁を比べた話はありません。
 4 本文にありません。単独で暮らす生き物と群れで暮らす生き物の好む場所の違いは、どこにも書かれていません。
 【覚えるポイント】

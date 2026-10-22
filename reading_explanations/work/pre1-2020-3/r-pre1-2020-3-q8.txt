@@ -1,6 +1,7 @@
 ---
 choices: conspired | inhaled | diminished | identified
 answerText: conspired
+reviewed: yes
 ---
 【正解】1 conspired（共謀した、ひそかにたくらんだ）
 【和訳】

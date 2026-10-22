@@ -1,6 +1,7 @@
 ---
 choices: passionate | obscure | uncomfortable | feeble
 answerText: passionate
+reviewed: yes
 ---
 【正解】1 passionate（熱心な、情熱的な）
 【和訳】

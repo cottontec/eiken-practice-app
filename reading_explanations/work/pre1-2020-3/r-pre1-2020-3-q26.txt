@@ -1,6 +1,7 @@
 ---
 choices: is related to temptation | relies on many connected factors | changes over long periods | depends on people's intelligence
 answerText: is related to temptation
+reviewed: yes
 ---
 【正解】1 is related to temptation（誘惑と関係がある）
 【和訳】
@@ -27,5 +28,5 @@ logical は「筋が通っている」、desire は「強く欲しがる」と�
 3 「長い期間をかけて変わる」も、本文に根拠がありません。正直さが時間とともに変わるという話は、この文章のどこにも出てきません。
 4 「人々の知能によって決まる」も、本文に根拠がありません。頭のよさと正直さの関係は書かれておらず、直後の文の「欲しいものが手に入るなら」という内容ともつながりません。
 【覚えるポイント】
-・temptation：「誘惑（欲しいものに心が引かれて、してはいけないことをしたくなる気持ち）」。gain something they desire（欲しいものを手に入れる）のような内容は、temptation の言いかえになっています。
+・temptation：「誘惑（欲しいものに心が引かれて、してはいけないことをしたくなる気持ち）」。gain something they desire（欲しいものを手に入れる）のような内容が、temptation の中身にあたります。
 ・this idea（この考え）のような指示語のあとで「その考えへの疑問」が書かれているときは、直後の While ～（～ではあるが）の部分に、その考えの中身がくわしく書かれていることが多いので、そこが空所の手がかりになります。

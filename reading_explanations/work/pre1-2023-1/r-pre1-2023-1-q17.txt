@@ -1,0 +1,33 @@
+---
+choices: apparatus | equation | altitude | mileage
+answerText: altitude
+---
+【正解】3 altitude（高度、標高）
+【和訳】
+（英文）
+As they approached the top of the mountain, some of the hikers began to feel sick because of the low oxygen levels at the high ［altitude］.
+（訳）
+山頂に近づいたとき、ハイキングをしていた人の何人かは、高い（標高）での酸素の少なさのせいで、気分が悪くなり始めた。
+（選択肢の意味）
+1 apparatus：器具、装置
+2 equation：方程式、等式
+3 altitude：高度、標高（海面からの高さ）
+4 mileage：（車などの）走行距離、総マイル数
+【考え方】
+まず見るところ：文の初めの approached the top of the mountain と、空所の前の the low oxygen levels at the high
+最初に、文の前半を見ます。
+As they approached the top of the mountain（山頂に近づいたとき）
+approach は「近づく」です。ハイキングをしている人たちは、山の高いところにいると分かります。
+次に、空所のまわりを見ます。
+because of the low oxygen levels at the high ( )（高い（　）での酸素の少なさのせいで）
+oxygen levels は「酸素の量」です。山の高いところでは空気がうすくなり、酸素が少なくなります。
+altitude は「高度、標高（海面からの高さ）」で、at high altitude で「高い所で」となります。山頂に近づいているという前半とも合うので、3が正解です。
+この問題の型：語の意味・組み合わせ（the high altitude）
+【ほかの選択肢】
+1 apparatus は「器具、装置」です。「高い器具での酸素の少なさ」では意味が通らず、山頂に近づいたという話とつながりません。
+2 equation は「方程式、等式」です。「高い方程式での酸素の少なさ」では意味が通りません。
+4 mileage は「（車などの）走行距離」です。長い距離を進んだことでは、酸素が少ない理由になりません。酸素の量は、進んだ距離ではなく高さで変わります。
+【覚えるポイント】
+・altitude：「高度、標高」。at high altitude で「高い所で」。
+・oxygen：「酸素」。
+・文の前半に mountain や top のような場所の手がかりがあるときは、空所の語もその場所の特ちょう（ここでは高さ）を表していることが多いので、文の前半の場所を手がかりにします。

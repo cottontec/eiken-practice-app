@@ -1,6 +1,7 @@
 ---
 choices: Improvements to the city's public transportation system made it less necessary for people to use bikes to get around. | Gaps in its network meant that it was difficult for some residents to travel around the city easily. | Riders stopped using the service when many accidents were blamed on the city's hills and poor weather. | Problems with the smartphone software used to track the location of its bikes caused many riders to quit the service.
 answerText: Gaps in its network meant that it was difficult for some residents to travel around the city easily.
+reviewed: yes
 ---
 【正解】2 Gaps in its network meant that it was difficult for some residents to travel around the city easily.（ネットワークに抜けている部分があったため、一部の住民にとっては、市内を楽に移動するのが難しかった。）
 【和訳】
@@ -20,10 +21,10 @@ point the finger at ～ は「～が悪いと指摘する」という意味で�
 Spin enrolled many users in areas that had lacked access to Pronto when it started operating.（スピンは営業を始めたとき、プロントを利用できなかった地域で多くの利用者を登録した）
 Furthermore, Pronto's network had failed to adequately provide service in areas ignored by Seattle's existing public transportation system.（さらに、プロントのネットワークは、シアトルの既存の公共交通機関が見過ごしていた地域で、十分なサービスを提供できていなかった）
 lack access to ～ は「～を利用できない」、adequately は「十分に」です。プロントを利用できない地域があったこと、そして既存の公共交通機関が見過ごしていた地域に十分なサービスを提供できていなかったことが分かります。
-本文 areas that had lacked access to Pronto／failed to adequately provide service in areas（プロントを利用できなかった地域／十分なサービスを提供できなかった地域）＝ 選択肢 Gaps in its network（ネットワークの抜けている部分）
+本文 areas that had lacked access to Pronto／failed to adequately provide service in areas（プロントを利用できなかった地域／十分なサービスを提供できなかった地域）→ 選択肢 Gaps in its network（ネットワークの抜けている部分）
 本文 areas ignored by Seattle's existing public transportation system（既存の公共交通機関が見過ごしていた地域）→ 選択肢 difficult for some residents to travel around the city easily（一部の住民にとって市内を楽に移動するのが難しい）
 ですから2が正解です。
-この問題の型：言いかえ（areas that had lacked access ＝ gaps in its network）／推論
+この問題の型：言いかえ（areas that had lacked access → gaps in its network）／推論
 【ほかの選択肢】
 1 本文にありません。公共交通機関がよくなったとは書かれていません。本文に出てくるのは、公共交通機関が見過ごしていた地域で、プロントも十分なサービスを提供できなかったという話です。
 3 本文と合いません。本文には Seattle's climate and terrain were not to blame（シアトルの気候や地形のせいではなかった）とあります。また、事故の話は出てきません。

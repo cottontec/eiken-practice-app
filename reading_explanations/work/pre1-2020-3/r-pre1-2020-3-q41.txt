@@ -1,6 +1,7 @@
 ---
 choices: It could help scientists understand more clearly how global warming affects the patterns of storms and floods that form in coastal areas. | It might enable scientists to lessen the harmful effects that the fishing industry has had on the ecosystems around coral reefs. | It could help scientists to understand how ocean currents can be prevented from warming even though global temperatures are increasing. | It might enable scientists to discover ways to protect coral reefs against shifts in ocean currents and temperatures.
 answerText: It might enable scientists to discover ways to protect coral reefs against shifts in ocean currents and temperatures.
+reviewed: yes
 ---
 【正解】4 It might enable scientists to discover ways to protect coral reefs against shifts in ocean currents and temperatures.（科学者たちが、海流や気温の変化からサンゴ礁を守る方法を見つけられるようになるかもしれない。）
 【和訳】
@@ -14,7 +15,7 @@ answerText: It might enable scientists to discover ways to protect coral reefs a
 4 It might enable scientists to discover ways to protect coral reefs against shifts in ocean currents and temperatures.（科学者たちが、海流や気温の変化からサンゴ礁を守る方法を見つけられるようになるかもしれない。）
 【考え方】
 まず見るところ：第4段落の最後の It will become increasingly vital to better understand the IME and take appropriate action to preserve it ～
-第4段落では、まずサンゴ礁がこれから受ける影響が書かれています。
+第4段落の後半では、サンゴ礁がこれから受ける影響が書かれています。
 As climate change raises global temperatures and alters the movement of ocean currents around the planet, reef ecosystems will be affected significantly.（気候変動によって地球の気温が上がり、地球のまわりの海流の動きが変わるにつれて、サンゴ礁の生態系は大きな影響を受けるだろう）
 alter は「変える」、ocean currents は「海流」です。
 It will become increasingly vital to better understand the IME and take appropriate action to preserve it so that the harmful effects of future weather patterns on coral reefs can be reduced.（将来の天候のパターンがサンゴ礁に与える有害な影響を減らせるように、IMEをよりよく理解し、それを守るための適切な行動をとることが、ますます重要になるだろう）

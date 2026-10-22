@@ -1,6 +1,7 @@
 ---
 choices: sympathetically | typically | unwittingly | diagonally
 answerText: unwittingly
+reviewed: yes
 ---
 【正解】3 unwittingly（知らず知らずのうちに、うっかり）
 【和訳】

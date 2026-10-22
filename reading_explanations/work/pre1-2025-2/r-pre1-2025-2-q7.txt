@@ -1,0 +1,31 @@
+---
+choices: clarify | implement | tolerate | humiliate
+answerText: tolerate
+---
+【正解】3 tolerate（大目に見る、許す）
+【和訳】
+（英文）
+The professor told the class that she would not ［tolerate］ lateness. She said that any papers not turned in on time would receive a failing grade.
+（訳）
+その教授はクラスの学生たちに、遅れは（大目に見）ないと言った。彼女は、期限どおりに提出されなかったレポートは、どれも不合格の成績になると言った。
+（選択肢の意味）
+1 clarify：はっきりさせる、明らかにする
+2 implement：実行する、実施する
+3 tolerate：大目に見る、許す、がまんする
+4 humiliate：恥をかかせる
+【考え方】
+まず見るところ：次の文の any papers not turned in on time would receive a failing grade
+空所のある部分は、次のとおりです。
+she would not (　) lateness（彼女は遅れを（　）ないつもりだ）
+lateness は「遅れること」です。not があるので、「遅れをどうしないのか」を考えます。
+次の文で、教授の考えが具体的に説明されています。
+She said that any papers not turned in on time would receive a failing grade.（期限どおりに提出されなかったレポートは、どれも不合格の成績になると、彼女は言った）
+turn in は「提出する」、on time は「時間どおりに、期限どおりに」、failing grade は「不合格の成績、落第点」です。期限に遅れたら必ず不合格にするのですから、教授は遅れを少しも許さないつもりだと分かります。tolerate は「大目に見る、許す」なので、would not tolerate lateness で「遅れは許さない」となり、3が正解です。
+この問題の型：具体例とまとめ（遅れたレポートは不合格 → 遅れは許さない）
+【ほかの選択肢】
+1 clarify は「はっきりさせる、明らかにする」です。「遅れを明らかにしない」となり、次の文の「遅れたら不合格にする」という厳しい方針の説明になりません。
+2 implement は「（計画などを）実行する」です。「遅れを実行しない」となり、意味が通りません。
+4 humiliate は「恥をかかせる」です。humiliate は人に恥をかかせるときに使う語で、「遅れに恥をかかせない」となり、意味が通りません。
+【覚えるポイント】
+・tolerate：「大目に見る、許す、がまんする」。would not tolerate lateness で「遅れは許さない」。
+・would not (　) のように否定の空所では、次の文の具体的な方針（ここでは遅れたら不合格）と合わせて、not を付けたときに意味が通る語かどうかを確かめることが手がかりになります。

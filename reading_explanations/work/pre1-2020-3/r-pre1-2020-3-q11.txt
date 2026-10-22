@@ -1,6 +1,7 @@
 ---
 choices: denials | domains | comparisons | complications
 answerText: complications
+reviewed: yes
 ---
 【正解】4 complications（合併症）
 【和訳】

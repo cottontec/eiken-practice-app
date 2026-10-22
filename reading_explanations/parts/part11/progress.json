@@ -61,8 +61,8 @@
       "batchId": "pre1-2020-3",
       "target": 41,
       "written": 41,
-      "contentReviewed": 0,
-      "status": "complete_unreviewed",
+      "contentReviewed": 41,
+      "status": "complete_reviewed",
       "blank": 0,
       "issues": 0,
       "checkErrors": 0,
@@ -137,5 +137,5 @@
       "status": "not_started"
     }
   ],
-  "updatedAt": "2026-10-22T22:01:33+00:00"
+  "updatedAt": "2026-10-22T22:02:43+00:00"
 }

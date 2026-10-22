@@ -1,6 +1,7 @@
 ---
 choices: allied | vivid | stout | fluent
 answerText: vivid
+reviewed: yes
 ---
 【正解】2 vivid（鮮明な、生々しい）
 【和訳】

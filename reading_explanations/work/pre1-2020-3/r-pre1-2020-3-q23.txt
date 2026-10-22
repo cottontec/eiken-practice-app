@@ -1,6 +1,7 @@
 ---
 choices: stumble on | trade in | rip off | straighten out
 answerText: straighten out
+reviewed: yes
 ---
 【正解】4 straighten out（解決する、きちんと直す）
 【和訳】

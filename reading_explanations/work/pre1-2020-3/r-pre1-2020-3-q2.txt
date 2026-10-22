@@ -1,6 +1,7 @@
 ---
 choices: ratio | preview | consensus | simulation
 answerText: consensus
+reviewed: yes
 ---
 【正解】3 consensus（意見の一致、合意）
 【和訳】

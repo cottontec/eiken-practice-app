@@ -1,0 +1,28 @@
+---
+choices: solitude | corruption | excess | consent
+answerText: solitude
+---
+【正解】1 solitude（ひとりでいること、孤独）
+【和訳】
+（英文）
+The novelist likes to work in ［solitude］. She says she can only write well when she is in her country house, which is located in an area with no people around.
+（訳）
+その小説家は、（ひとりきりで）仕事をするのが好きです。彼女は、まわりにだれもいない地域にある田舎の家にいるときにしか、うまく書けないと言っています。
+（選択肢の意味）
+1 solitude：ひとりでいること、孤独
+2 corruption：汚職、腐敗（地位を利用して不正をすること）
+3 excess：行き過ぎ、余分
+4 consent：同意、許可
+【考え方】
+まず見るところ：空所のあとの文の can only write well と with no people around
+空所のあとの文で、小説家がどんなときにうまく書けるのかが説明されています。
+She says she can only write well when she is in her country house, which is located in an area with no people around.（彼女は、まわりにだれもいない地域にある田舎の家にいるときにしか、うまく書けないと言っている）
+can only ～ when ... は「…のときにしか～できない」です。with no people around（まわりにだれもいない）場所でしかうまく書けないのですから、小説家はひとりきりで仕事をするのが好きだと分かります。work in solitude で「ひとりきりで仕事をする」となるので、1が正解です。
+この問題の型：言いかえ（solitude → with no people around）
+【ほかの選択肢】
+2 corruption は「汚職、腐敗」です。「汚職の中で仕事をするのが好きだ」となり、続く「まわりにだれもいない場所でしかうまく書けない」という説明とつながりません。
+3 excess は「行き過ぎ」です。in excess で「度を越して」となり、「度を越して働くのが好きだ」という意味になりますが、続く文は働く量ではなく、まわりに人がいない場所で書くという話なので合いません。
+4 consent は「同意、許可」です。「同意の中で仕事をするのが好きだ」となり、意味が通りません。
+【覚えるポイント】
+・solitude：「ひとりでいること」。work in solitude で「ひとりきりで仕事をする」です。
+・空所のあとの文に with no people around（まわりにだれもいない）のような場所や様子の説明があるときは、それをひとことで表す語を選ぶのが手がかりになります。

@@ -1,6 +1,7 @@
 ---
 choices: underdog | overhead | upheaval | oversight
 answerText: oversight
+reviewed: yes
 ---
 【正解】4 oversight（見落とし、うっかりミス）
 【和訳】
@@ -8,8 +9,8 @@ answerText: oversight
 A: James, our supplier said they didn't receive a payment this month.
 B: Yes, I know. There was an ［oversight］ by the accounting department. I'll call the supplier and apologize.
 （訳）
-A：ジェームズ、うちの仕入れ先が、今月の支払いを受け取っていないと言っていたよ。
-B：うん、知っているよ。経理部の（見落とし）があったんだ。仕入れ先に電話して謝っておくね。
+A：ジェームズ、うちの仕入れ先が、今月は支払いを受け取っていないと言っていましたよ。
+B：ええ、知っています。経理部の（見落とし）がありました。仕入れ先に電話して謝っておきます。
 （選択肢の意味）
 1 underdog：勝ち目のない側、弱い立場の人
 2 overhead：（会社の）諸経費、間接費

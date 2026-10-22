@@ -1,6 +1,7 @@
 ---
 choices: a protected area designation can easily be removed to allow environmentally damaging activities to occur. | agreements such as the Antarctic Treaty System are necessary in resource-rich areas of the world. | innovations in drilling operations have made it more cost-effective to extract oil in areas with severe climates. | the introduction of outside species can fundamentally change local ecosystems over a short period of time.
 answerText: innovations in drilling operations have made it more cost-effective to extract oil in areas with severe climates.
+reviewed: yes
 ---
 【正解】3 innovations in drilling operations have made it more cost-effective to extract oil in areas with severe climates.（掘削作業の技術革新によって、厳しい気候の地域で石油を取り出すことが、より費用に見合うものになったこと。）
 【和訳】

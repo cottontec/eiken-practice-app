@@ -1,0 +1,27 @@
+---
+choices: sit too close to their screens | rely too much on vision | spend too much time indoors | fail to do enough physical exercise
+answerText: spend too much time indoors
+---
+【正解】3 spend too much time indoors（屋内で過ごす時間が長すぎる）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 sit too close to their screens（画面に近づきすぎて座っている）
+2 rely too much on vision（視覚に頼りすぎている）
+3 spend too much time indoors（屋内で過ごす時間が長すぎる）
+4 fail to do enough physical exercise（十分な運動をしていない）
+【考え方】
+まず見るところ：第2段落の空所のすぐあとの This results in a lack of exposure to natural light.
+空所の文は「本当の問題は、人々が〇〇ことだ」という内容です。すぐあとの文で、その結果が書かれています。
+This results in a lack of exposure to natural light.（その結果、自然の光を浴びることが足りなくなる）
+This（このこと）は空所の内容を指します。result in ～ は「～という結果になる」です。「自然の光を浴びることが足りなくなる」原因になるのは、外に出ず、屋内に長くいることです。
+また第3段落でも、being outdoors for about three hours a day（1日に約3時間屋外にいること）が近視を防ぐのに役立つと書かれています。屋外にいることがよいのなら、問題は屋内にいすぎることだと考えられます。よって3が正解です。
+この問題の型：因果（屋内にいすぎる→自然の光が足りない）
+【ほかの選択肢】
+1 sit too close to their screens は「画面に近づきすぎて座っている」です。第2段落は In fact, the rise in nearsightedness began before digital screens became widely used.（実際、近視の増加は、デジタル画面が広く使われるようになる前に始まっていた）で始まり、画面が原因だという考えを疑っています。また、画面に近づきすぎることは、自然の光が足りないことにつながりません。
+2 rely too much on vision は「視覚に頼りすぎている」です。視覚に頼りすぎることが、自然の光が足りないという結果につながるとは書かれておらず、つながりません。
+4 fail to do enough physical exercise は「十分な運動をしていない」です。本文には運動についての話はなく、自然の光を浴びることとも直接つながりません。
+【覚えるポイント】
+・result in ～：「～という結果になる」。exposure to ～：「～を浴びること、～にさらされること」。indoors：「屋内で」。
+・空所のすぐあとに This results in ～（その結果～になる）があるときは、その結果を引き起こす原因として成り立つかどうかで選択肢を確かめます。

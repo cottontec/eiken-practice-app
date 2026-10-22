@@ -1,6 +1,7 @@
 ---
 choices: Areas with the most variety of plants and animals should be given priority when establishing protected areas. | The emphasis should be changed from areas threatened by invading species to those that are lacking in diversity. | The animals that live in areas near where there is human activity should be moved to areas covered in ice. | A larger number of protected areas should be designated in locations that lie outside Antarctica's ice-free zone.
 answerText: Areas with the most variety of plants and animals should be given priority when establishing protected areas.
+reviewed: yes
 ---
 【正解】1 Areas with the most variety of plants and animals should be given priority when establishing protected areas.（保護区域を設けるときには、植物や動物の種類が最も多い地域を優先すべきだ。）
 【和訳】

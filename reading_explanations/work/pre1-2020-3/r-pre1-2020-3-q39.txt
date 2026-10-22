@@ -1,6 +1,7 @@
 ---
 choices: although sea creatures do not eat the phytoplankton found in the open ocean, they consume huge amounts of it in areas near coral islands. | smaller coral islands seem to be much better able to prevent the loss of phytoplankton than larger coral islands are. | although smaller organisms obtain enough nitrogen and phosphorus, larger organisms are unable to get sufficient quantities of them. | coral islands appear to be able to sustain levels of nitrogen and phosphorus that are higher than those found in the open ocean.
 answerText: coral islands appear to be able to sustain levels of nitrogen and phosphorus that are higher than those found in the open ocean.
+reviewed: yes
 ---
 【正解】4 coral islands appear to be able to sustain levels of nitrogen and phosphorus that are higher than those found in the open ocean.（サンゴ礁の島々は、外洋で見られるよりも高い濃度の窒素とリンを保つことができるように思えるから。）
 【和訳】
@@ -16,7 +17,7 @@ answerText: coral islands appear to be able to sustain levels of nitrogen and ph
 まず見るところ：第2段落の最後の What puzzled scientists at the time, though, was how nutrients could be maintained within the reef ecosystem rather than being washed out to the waters around them.
 設問の puzzled（悩まされた、不思議に思った）と同じ語が、第2段落の最後の文にあります。
 What puzzled scientists at the time, though, was how nutrients could be maintained within the reef ecosystem rather than being washed out to the waters around them.（しかし、当時の科学者たちを悩ませていたのは、栄養分が周りの海へ流し出されてしまわずに、どのようにしてサンゴ礁の生態系の中に保たれているのか、ということだった）
-maintain は「保つ」、be washed out は「流し出される」です。ここでの nutrients（栄養分）は、その前の文に出てくる Nitrogen and phosphorus（窒素とリン）のことです。
+maintain は「保つ」、be washed out は「流し出される」です。ここでの nutrients（栄養分）は、少し前の文に出てくる Nitrogen and phosphorus（窒素とリン）のことです。
 Nitrogen and phosphorus—nutrients required by phytoplankton—are also present in the waters of the Keelings at levels high enough to sustain the reefs and various marine creatures.（植物プランクトンが必要とする栄養分である窒素とリンも、キーリング諸島の海には、サンゴ礁とさまざまな海の生き物を支えられるほど高い濃度で存在している）
 周りの海（外洋）は生き物が少なく、栄養分が少ないと考えられます。それなのに、サンゴ礁の中では栄養分が流れ出さずに高い濃度で保たれているのが不思議だった、ということです。
 本文 nutrients could be maintained within the reef ecosystem（栄養分がサンゴ礁の生態系の中に保たれる）＝ 選択肢 coral islands appear to be able to sustain levels of nitrogen and phosphorus（サンゴ礁の島々は窒素とリンの濃度を保つことができるように思える）

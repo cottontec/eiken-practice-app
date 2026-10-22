@@ -1,0 +1,28 @@
+---
+choices: scientists cannot yet explain | can lead to environmental damage | would likely cause health problems in humans | sometimes puts them at risk
+answerText: would likely cause health problems in humans
+---
+【正解】3 would likely cause health problems in humans（人間ならおそらく健康上の問題を引き起こすであろう）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 scientists cannot yet explain（科学者がまだ説明できない）
+2 can lead to environmental damage（環境への害につながりうる）
+3 would likely cause health problems in humans（人間ならおそらく健康上の問題を引き起こすであろう）
+4 sometimes puts them at risk（ときにクマを危険にさらす）
+【考え方】
+まず見るところ：第1段落の空所のあとの the bears increase their daily food consumption と In humans, excessive consumption is the prime cause of ～
+空所の文は「冬眠に備えて、クマは〇〇なふるまいをする」という内容です。どんなふるまいかは、次の文で具体的に書かれています。
+To build up necessary fat reserves in the months leading up to hibernation, the bears increase their daily food consumption to around 20,000 calories and they gain over three kilograms of body weight per day.（冬眠に入るまでの数か月の間に、必要な脂肪のたくわえを増やすため、クマは1日に食べる量を約2万カロリーにまで増やし、1日に3キログラム以上も体重が増える）
+つまり、クマのふるまいとは「ものすごくたくさん食べること」です。その次の文は、同じことを人間がした場合の話です。
+In humans, excessive consumption is the prime cause of a condition known as Type 2 diabetes（人間の場合、食べすぎは2型糖尿病として知られる病気の主な原因である）
+excessive consumption は「食べすぎ」、prime cause は「主な原因」です。クマのような食べ方を人間がすれば、病気の原因になるということです。would likely cause health problems in humans（人間ならおそらく健康上の問題を引き起こすであろう）がこの流れに合うので、3が正解です。
+この問題の型：具体例とまとめ（1日2万カロリー食べる・人間では食べすぎが糖尿病の原因 → 人間なら健康上の問題を起こす）
+【ほかの選択肢】
+1 「科学者がまだ説明できない」ふるまいだとすると、すぐあとの「必要な脂肪のたくわえを増やすため」という理由の説明と合いません。このふるまいの目的は本文で説明されています。
+2 「環境への害につながりうる」とすると、そのあとに環境の話が続くはずですが、本文は食べる量と人間の病気の話をしていて、環境への害は書かれていません。
+4 「ときにクマを危険にさらす」は、本文に書かれていません。本文は、たくさん食べることが人間では病気の原因になると述べていて、第3段落ではクマは2型糖尿病にならないと書かれています。クマが危険にさらされるという話はありません。
+【覚えるポイント】
+・excessive consumption：「食べすぎ、とりすぎ」。the prime cause of ～：「～の主な原因」。
+・空所の文が「～なふるまいをする」のようにまとめた言い方のときは、次の文の具体例と、そのあとの In humans（人間の場合）のような比べる話が、空所の中身を決める手がかりになります。

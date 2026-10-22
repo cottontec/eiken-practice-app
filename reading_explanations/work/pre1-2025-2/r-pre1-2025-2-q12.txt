@@ -1,0 +1,31 @@
+---
+choices: appoint | import | acquaint | escort
+answerText: escort
+---
+【正解】4 escort（付き添う、送り届ける）
+【和訳】
+（英文）
+Parents were asked to ［escort］ their children to and from the school dance. Since the event would be held in the evening, school officials did not want children going on their own.
+（訳）
+保護者たちは、学校のダンスパーティーへの行き帰りに、自分の子どもに（付き添う）よう求められた。その行事は夕方から夜に開かれる予定だったので、学校の関係者たちは、子どもたちが自分たちだけで行くことを望まなかった。
+（選択肢の意味）
+1 appoint：任命する、（日時などを）決める
+2 import：輸入する
+3 acquaint：（人に）知らせる、なじませる
+4 escort：付き添う、送り届ける
+【考え方】
+まず見るところ：空所のあとの their children to and from the school dance と、次の文の did not want children going on their own
+空所のある部分は、次のとおりです。
+Parents were asked to (　) their children to and from the school dance（保護者たちは、学校のダンスパーティーへの行き帰りに、自分の子どもを（　）よう求められた）
+to and from ～ は「～への行き帰り」です。保護者が子どもに対して、行き帰りに何をするよう頼まれたのかを考えます。
+次の文が理由を説明しています。
+Since the event would be held in the evening, school officials did not want children going on their own.（その行事は夕方から夜に開かれる予定だったので、学校の関係者たちは、子どもたちが自分たちだけで行くことを望まなかった）
+on their own は「自分たちだけで」です。子どもだけで行かせたくないのですから、保護者がいっしょに付いて行くことが求められたと分かります。escort は「付き添う、送り届ける」なので、4が正解です。
+この問題の型：因果（夜の行事で子どもだけで行かせたくない → 保護者に付き添いを頼んだ）
+【ほかの選択肢】
+1 appoint は「任命する（役目につかせる）」です。「行き帰りに子どもを任命する」となり、意味が通りません。
+2 import は「輸入する（外国から品物を買い入れる）」です。子どもを輸入することはなく、意味が通りません。
+3 acquaint は「（人に）知らせる、なじませる」です。acquaint ～ with ...（～に…を知らせる）の形で使う語で、「行き帰りに子どもを知らせる」となり、意味が通りません。
+【覚えるポイント】
+・escort ～ to and from ...：「…への行き帰りに～に付き添う」。
+・空所のある文のあとに Since ～（～なので）で理由が続くときは、その理由（ここでは子どもだけで行かせたくない）から、求められた行動を考えることが手がかりになります。

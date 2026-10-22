@@ -1,6 +1,7 @@
 ---
 choices: snatched | appreciated | elevated | donated
 answerText: elevated
+reviewed: yes
 ---
 【正解】3 elevated（高くされる、持ち上げられる）
 【和訳】

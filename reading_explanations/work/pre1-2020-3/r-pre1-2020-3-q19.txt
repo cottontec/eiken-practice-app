@@ -1,6 +1,7 @@
 ---
 choices: guardian | defendant | servant | commuter
 answerText: guardian
+reviewed: yes
 ---
 【正解】1 guardian（保護者）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: how hard it was to return the wallet | whether they knew the wallet owner | how much they care about others | whether they would receive a reward
 answerText: how much they care about others
+reviewed: yes
 ---
 【正解】3 how much they care about others（自分がほかの人をどれだけ思いやっているか）
 【和訳】
@@ -17,7 +18,7 @@ answerText: how much they care about others
 some of the wallets contained a key—something that would only be important to the person who lost it—while others did not（財布の中に、鍵――落とした本人にとってだけ大切なもの――が入っているものと、入っていないものがあった）
 鍵は、拾った人にとっては何の役にも立ちませんが、落とした人にとってはとても大切なものです。
 Return rates for wallets containing a key were significantly higher.（鍵が入っている財布が返された割合は、（鍵が入っていない財布より）大幅に高かった）
-つまり、自分には得にならないのに、落とした人が困らないように財布を返した人が多かったということです。
+自分には得にならないのに財布を返した人が多かったことから、落とした人のことを考えて返した人が多かったと考えられます。
 空所のある文は次のとおりです。
 the most likely reason for this result is that people's honesty was strongly affected by (28)（この結果の最も考えられる理由は、人々の正直さが（28）に強く影響されていたことだ）
 「落とした人にとって大切なものが入っていると、よく返す」という結果の理由としては、「ほかの人をどれだけ思いやっているか」が合います。ですから3が正解です。

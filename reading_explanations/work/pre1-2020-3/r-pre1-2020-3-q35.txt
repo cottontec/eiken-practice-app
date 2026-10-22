@@ -1,6 +1,7 @@
 ---
 choices: It has not suffered as much environmental damage as other areas of the continent that are a lot colder have. | It offers more potential than other areas as a place for humans to introduce new species to the region. | It is home to animals from other areas of the continent that are escaping from rising human activity. | It is the easiest place to get to for certain species that need to be on land to give birth to their young.
 answerText: It is the easiest place to get to for certain species that need to be on land to give birth to their young.
+reviewed: yes
 ---
 【正解】4 It is the easiest place to get to for certain species that need to be on land to give birth to their young.（陸の上で子を産む必要のある一部の種にとって、最も行きやすい場所である。）
 【和訳】

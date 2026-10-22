@@ -1,13 +1,14 @@
 ---
 choices: decent | crucial | gracious | intolerable
 answerText: intolerable
+reviewed: yes
 ---
 【正解】4 intolerable（耐えられない、がまんできない）
 【和訳】
 （英文）
 Ellen's apartment was cheap, but living there quickly became ［intolerable］. There was no air conditioning, the roof leaked, and the baby next door often cried.
 （訳）
-エレンのアパートは安かったのですが、そこでの生活はすぐに（耐えられない）ものになりました。エアコンがなく、屋根から雨もりがし、隣の家の赤ちゃんがよく泣いていたのです。
+エレンのアパートは安かったのですが、そこでの生活はすぐに（耐えられない）ものになりました。エアコンがなく、屋根から雨もりがし、隣の部屋の赤ちゃんがよく泣いていたのです。
 （選択肢の意味）
 1 decent：きちんとした、まずまずの
 2 crucial：極めて重要な
@@ -15,7 +16,7 @@ Ellen's apartment was cheap, but living there quickly became ［intolerable］. 
 4 intolerable：耐えられない、がまんできない
 【考え方】
 まず見るところ：後半の文の There was no air conditioning, the roof leaked, and the baby next door often cried.
-There was no air conditioning, the roof leaked, and the baby next door often cried.（エアコンがなく、屋根から雨もりがし、隣の家の赤ちゃんがよく泣いていた）
+There was no air conditioning, the roof leaked, and the baby next door often cried.（エアコンがなく、屋根から雨もりがし、隣の部屋の赤ちゃんがよく泣いていた）
 leak は「（水などが）もれる」という意味です。ここには、アパートでの生活の困ったことが3つ並んでいます。
 空所のある文は次のとおりです。
 Ellen's apartment was cheap, but living there quickly became (　).（エレンのアパートは安かったが、そこでの生活はすぐに（　）になった）

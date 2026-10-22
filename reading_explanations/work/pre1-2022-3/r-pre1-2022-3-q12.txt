@@ -1,0 +1,28 @@
+---
+choices: poetic | savage | frail | rash
+answerText: frail
+---
+【正解】3 frail（〔体が〕弱った、かよわい）
+【和訳】
+（英文）
+Maggie's grandmother has recently become very ［frail］. She now needs help to walk and cannot climb stairs by herself.
+（訳）
+マギーのおばあさんは、最近とても（体が弱く）なりました。今では、歩くのに手助けが必要で、ひとりで階段を上ることができません。
+（選択肢の意味）
+1 poetic：詩の、詩的な（詩のように美しい）
+2 savage：どう猛な、残酷な
+3 frail：（お年寄りなどの体が）弱った、かよわい
+4 rash：軽率な、向こう見ずな（よく考えずに行動する）
+【考え方】
+まず見るところ：空所のあとの文の needs help to walk と cannot climb stairs by herself
+空所のあとの文で、おばあさんの今の様子が説明されています。
+She now needs help to walk and cannot climb stairs by herself.（今では、彼女は歩くのに手助けが必要で、ひとりで階段を上ることができない）
+歩くのに助けが必要で、ひとりで階段も上れないのですから、おばあさんは体が弱ってしまったと分かります。frail は「（体が）弱った」という意味なので、3が正解です。has recently become ～ は「最近～になった」で、続く文の now（今では）と合っています。
+この問題の型：言いかえ（frail → needs help to walk, cannot climb stairs）
+【ほかの選択肢】
+1 poetic は「詩的な」です。続く文の「歩くのに手助けが必要」という説明とつながりません。
+2 savage は「どう猛な、残酷な」です。歩くのに手助けが必要だという様子の説明になりません。
+4 rash は「軽率な」で、考えや行動のしかたを表す語です。歩くことや階段を上ることができないという、体の様子の説明になりません。
+【覚えるポイント】
+・frail：「（お年寄りなどの体が）弱った、かよわい」。
+・become very (　). のあとに、She now ～ のように今の様子をくわしく説明する文が続くときは、その説明（ここでは歩けない・階段を上れない）をひとことでまとめる語を選ぶのが手がかりになります。

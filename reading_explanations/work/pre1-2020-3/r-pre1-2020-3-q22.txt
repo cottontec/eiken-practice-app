@@ -1,6 +1,7 @@
 ---
 choices: broke away | held down | bottomed out | turned back
 answerText: broke away
+reviewed: yes
 ---
 【正解】1 broke away（抜け出した、引き離した）
 【和訳】

@@ -1,0 +1,28 @@
+---
+choices: elevation | domestication | deception | verification
+answerText: domestication
+---
+【正解】2 domestication（〔動物を〕飼いならすこと、家畜化）
+【和訳】
+（英文）
+Some historians believe the ［domestication］ of dogs occurred over 10,000 years ago. They have been kept as pets and used to work on farms ever since.
+（訳）
+歴史学者の中には、犬の（家畜化）は1万年以上前に起こったと考えている人もいます。それ以来ずっと、犬はペットとして飼われたり、農場で働くために使われたりしてきました。
+（選択肢の意味）
+1 elevation：高さ、標高、持ち上げること
+2 domestication：（動物を）飼いならすこと、家畜化（人が動物を飼って役立てるようにすること）
+3 deception：だますこと、ごまかし
+4 verification：確認、検証（本当かどうか確かめること）
+【考え方】
+まず見るところ：空所のあとの文の have been kept as pets と ever since
+空所のあとの文を見ます。
+They have been kept as pets and used to work on farms ever since.（それ以来ずっと、犬はペットとして飼われたり、農場で働くために使われたりしてきた）
+They は dogs（犬）を指しています。ever since は「それ以来ずっと」で、前の文の出来事が始まりであることを表しています。犬が人に飼われ、働くようになった始まりの出来事ですから、空所には「飼いならすこと」が入ります。domestication は「家畜化」という意味なので、2が正解です。
+この問題の型：指示語（They が dogs を指す）、因果（家畜化 → それ以来ペットや農場で使われる）
+【ほかの選択肢】
+1 elevation は「高さ、持ち上げること」です。「犬の高さが1万年以上前に起こった」となり、意味が通りません。
+3 deception は「だますこと」です。「犬のごまかしが1万年以上前に起こった」となり、続く「それ以来ずっと飼われてきた」とつながりません。
+4 verification は「確認」です。「犬の確認が1万年以上前に起こった」となり、意味が通らず、続く文ともつながりません。
+【覚えるポイント】
+・domestication：「家畜化、飼いならすこと」。domestic（家庭の）と仲間の語です。
+・ever since（それ以来ずっと）があるときは、前の文の空所に「物事の始まり」となる出来事が入る手がかりになります。

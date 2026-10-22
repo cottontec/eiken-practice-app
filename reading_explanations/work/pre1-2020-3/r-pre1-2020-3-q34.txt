@@ -1,6 +1,7 @@
 ---
 choices: The style of the service's bikes was not popular with the public, despite it being far better than that of the previous bike-sharing service. | The service was unable to compete with better-known companies that decided to introduce their own bike-sharing services in the city. | A new program introduced by the city caused the service to become too expensive to keep running for the company that was operating it. | While the public was positive about the service, the company that ran it was criticized by the city for the environmental damage it caused.
 answerText: A new program introduced by the city caused the service to become too expensive to keep running for the company that was operating it.
+reviewed: yes
 ---
 【正解】3 A new program introduced by the city caused the service to become too expensive to keep running for the company that was operating it.（市が導入した新しい制度のせいで、そのサービスは、運営していた会社にとって費用がかかりすぎて続けられなくなった。）
 【和訳】
@@ -23,7 +24,7 @@ mandatory は「義務的な」、withdraw は「引き上げる、やめる」�
 本文と選択肢3を対にすると、次のようになります。
 本文 a permanent bike-sharing program（恒久的な自転車シェアリング制度）＝ 選択肢 A new program introduced by the city（市が導入した新しい制度）
 本文 The mandatory costs ～ proved to be too much（義務的な費用は負担が大きすぎた）＝ 選択肢 too expensive（費用がかかりすぎる）
-本文 Two of the firms, including Spin, withdrew their services and left the city（スピンを含む2つの会社はサービスをやめて撤退した）＝ 選択肢 to keep running（続けられなくなった）
+本文 Two of the firms, including Spin, withdrew their services and left the city（スピンを含む2つの会社はサービスをやめて撤退した）→ 選択肢 too expensive to keep running（費用がかかりすぎて続けられなくなった）
 ですから3が正解です。
 この問題の型：言いかえ（proved to be too much ＝ too expensive）／因果（制度の費用→撤退）
 【ほかの選択肢】

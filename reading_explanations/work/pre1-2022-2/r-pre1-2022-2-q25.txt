@@ -1,0 +1,29 @@
+---
+choices: tuck away | latch onto | cover up | doze off
+answerText: cover up
+---
+【正解】3 cover up（悪いことを隠す、もみ消す）
+【和訳】
+（英文）
+The employee tried to ［cover up］ his theft from the company by destroying files and other evidence that proved his guilt.
+（訳）
+その従業員は、自分の罪を証明するファイルやそのほかの証拠を処分することで、会社から盗みをはたらいたことを（隠そう）とした。
+（選択肢の意味）
+1 tuck away：（物を）しまいこむ
+2 latch onto：～にしがみつく、～に飛びつく
+3 cover up：（悪いことを）隠す、もみ消す
+4 doze off：うとうと居眠りする
+【考え方】
+まず見るところ：空所のあとの his theft と、by destroying files and other evidence that proved his guilt
+by destroying files and other evidence that proved his guilt（自分の罪を証明するファイルやそのほかの証拠を処分することで）
+by ～ing は「～することによって」、evidence は「証拠」、guilt は「罪（悪いことをしたこと）」です。証拠を処分するのは、自分がしたことを人に知られないようにするためだと考えられます。
+The employee tried to (　) his theft from the company（その従業員は、会社から盗みをはたらいたことを（　）しようとした）
+theft は「盗み」です。悪いことを人に知られないように隠すことを cover up というので、3が正解です。
+この問題の型：因果（証拠を処分する → 盗みを隠す）
+【ほかの選択肢】
+1 tuck away は「（物を）しまいこむ」です。盗んだ物をしまうのではなく、盗みという行いを隠す話なので、証拠を処分するという方法と合いません。
+2 latch onto は「～にしがみつく」です。「盗みにしがみつこうとした」となり、意味が通りません。
+4 doze off は「うとうと居眠りする」です。後ろに his theft のような語を続けることができず、証拠を処分することともつながりません。
+【覚えるポイント】
+・cover up ～：「（悪いことを）隠す、もみ消す」。theft：「盗み」。evidence：「証拠」。guilt：「罪」。
+・by destroying evidence（証拠を処分することで）のように「方法」が書かれているときは、その方法で何をしようとしたのか（目的）を考えると、空所の語句が分かります。

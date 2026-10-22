@@ -1,0 +1,29 @@
+---
+choices: flurry | cascade | swirl | riot
+answerText: riot
+---
+【正解】4 riot（暴動）
+【和訳】
+（英文）
+Yesterday, a ［riot］ broke out in the state prison. According to reports, the prisoners reacted violently in protest to overcrowding and poor food quality.
+（訳）
+昨日、州の刑務所で暴動が起きた。報道によると、囚人たちは、過密状態（決まった人数より多くの人が詰めこまれていること）と食事の質の悪さに抗議して、暴力的な反応を示した。
+（選択肢の意味）
+1 flurry：にわか雪、（急に起こる）あわただしい動き
+2 cascade：小さな滝、次々と続くこと
+3 swirl：渦、渦を巻くこと
+4 riot：暴動（大勢の人が暴れて騒ぎを起こすこと）
+【考え方】
+まず見るところ：次の文の the prisoners reacted violently in protest
+空所のある文は「昨日、州の刑務所で（　）が起きた」という意味です。何が起きたのかは、次の文で説明されています。
+According to reports, the prisoners reacted violently in protest to overcrowding and poor food quality.（報道によると、囚人たちは、過密状態と食事の質の悪さに抗議して、暴力的な反応を示した）
+reacted violently（暴力的な反応を示した）と in protest（抗議して）から、大勢の囚人が不満をもって暴れたことが分かります。
+大勢の人が抗議などのために暴れる騒ぎを riot（暴動）と言います。break out は「（よくないことが）急に起こる」という意味で、a riot broke out で「暴動が起きた」となります。ですから、4が正解です。
+この問題の型：言いかえ（a riot ＝ 囚人たちが抗議して暴力的にふるまったこと）
+【ほかの選択肢】
+1 flurry は「にわか雪、あわただしい動き」です。「あわただしい動きが起きた」だけでは、囚人たちが抗議して暴れたという次の文の内容を表せません。
+2 cascade は「小さな滝、次々と続くこと」です。「刑務所で小さな滝が起きた」となり、意味が通りません。
+3 swirl は「渦」です。「刑務所で渦が起きた」となり、意味が通りません。
+【覚えるポイント】
+・riot：「暴動」。a riot broke out で「暴動が起きた」です。
+・「何かが起きた」という文の空所では、次の文の According to reports（報道によると）のあとに、起きたことの中身が書かれていることが多いです。そこに出てくる行動（ここでは reacted violently in protest）をひと言で表す語を選びましょう。

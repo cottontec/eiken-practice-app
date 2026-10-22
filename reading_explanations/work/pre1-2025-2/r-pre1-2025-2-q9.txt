@@ -1,0 +1,33 @@
+---
+choices: outlaw | elevate | plead | accommodate
+answerText: accommodate
+---
+【正解】4 accommodate（収容する、受け入れる）
+【和訳】
+（英文）
+A: Majid, remind me how many people we can ［accommodate］ in Conference Room B.
+B: Fifteen, so it should be fine for today's meeting.
+（訳）
+A：マジッド、会議室Bに何人（入れる）か、もう一度教えて。
+B：15人だよ。だから、今日の会議には大丈夫なはずだね。
+（選択肢の意味）
+1 outlaw：禁止する、違法とする
+2 elevate：持ち上げる、高める
+3 plead：嘆願する（必死に頼む）
+4 accommodate：収容する、（人を）受け入れる
+【考え方】
+まず見るところ：Aの how many people we can (　) in Conference Room B と、Bの答え Fifteen
+Aの質問は、次のとおりです。
+Majid, remind me how many people we can (　) in Conference Room B.（マジッド、会議室Bに何人（　）できるか、もう一度教えて）
+remind me は「私に思い出させて」、つまり「もう一度教えて」という意味です。how many people（何人）とたずねているので、会議室に関係する人数の話だと分かります。
+Bの答えは、次のとおりです。
+Fifteen, so it should be fine for today's meeting.（15人だよ。だから、今日の会議には大丈夫なはずだね）
+「15人だから今日の会議には大丈夫」と答えているので、Aは会議室に何人まで入れるかをたずねたと考えられます。accommodate は「（建物や部屋が人を）収容する、受け入れる」という意味なので、4が正解です。
+この問題の型：語の意味・組み合わせ（how many people we can accommodate in ～：～に何人入れるか）
+【ほかの選択肢】
+1 outlaw は「禁止する、違法とする」です。「会議室Bで何人を禁止できるか」となり、意味が通りません。Bの「15人なので今日の会議は大丈夫」という答えとも合いません。
+2 elevate は「持ち上げる、高める」です。「会議室Bで何人を持ち上げられるか」となり、意味が通りません。
+3 plead は「嘆願する（必死に頼む）」です。「会議室Bで何人を嘆願できるか」となり、意味が通りません。会議室に入れる人数の話にもなりません。
+【覚えるポイント】
+・accommodate：「（部屋や建物が人を）収容する、受け入れる」。
+・How many people ～? とたずねる文で、答えに人数（ここでは Fifteen）と「だから大丈夫」が続くときは、部屋の広さや入れる人数に関係する語が入る手がかりになります。

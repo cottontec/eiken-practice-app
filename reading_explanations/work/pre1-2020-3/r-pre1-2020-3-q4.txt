@@ -1,6 +1,7 @@
 ---
 choices: quaint | inhospitable | dignified | confidential
 answerText: inhospitable
+reviewed: yes
 ---
 【正解】2 inhospitable（住むのに適さない、暮らしにくい）
 【和訳】

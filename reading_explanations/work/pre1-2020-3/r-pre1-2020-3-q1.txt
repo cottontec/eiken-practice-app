@@ -1,6 +1,7 @@
 ---
 choices: ingredients | attributes | perimeters | surroundings
 answerText: ingredients
+reviewed: yes
 ---
 【正解】1 ingredients（材料、原料）
 【和訳】

@@ -1,0 +1,33 @@
+---
+choices: blissful | modest | showy | sturdy
+answerText: modest
+---
+【正解】2 modest（ささやかな、多くない）
+【和訳】
+（英文）
+Ted lives on a ［modest］ income. He makes just enough to afford a small apartment, pay his bills, and occasionally go out for dinner.
+（訳）
+テッドは（ささやかな）収入で暮らしている。彼は、小さなアパートに住み、請求書の支払いをし、ときどき夕食を食べに出かけるのに、ちょうど足りるだけのお金を稼いでいる。
+（選択肢の意味）
+1 blissful：この上なく幸せな
+2 modest：ささやかな、（量が）多くない、控えめな
+3 showy：派手な、見せびらかすような
+4 sturdy：がっしりした、丈夫な
+【考え方】
+まず見るところ：あとの文の He makes just enough to afford a small apartment
+最初に、空所のある文を確かめます。
+Ted lives on a ( ) income.（テッドは（　）収入で暮らしている）
+live on ～ は「～で暮らす」、income は「収入」です。空所には、収入がどのくらいかを表す語が入ります。
+次に、あとの文を見ます。
+He makes just enough to afford a small apartment, pay his bills, and occasionally go out for dinner.（彼は、小さなアパートに住み、請求書の支払いをし、ときどき夕食を食べに出かけるのに、ちょうど足りるだけのお金を稼いでいる）
+just enough to ～ は「～するのにちょうど足りるだけ」、afford は「（お金を払う）余裕がある」です。小さなアパートや、ときどきの外食がちょうどできるくらいなので、収入は多くないと分かります。
+modest は「ささやかな、（量が）多くない」なので、2が正解です。
+この問題の型：具体例とまとめ（ちょうど足りるだけ → ささやかな収入）
+【ほかの選択肢】
+1 blissful は「この上なく幸せな」です。気持ちを表す語で、収入の多い少ないを表しません。あとの文の「ちょうど足りるだけ」という説明ともつながりません。
+3 showy は「派手な、見せびらかすような」です。小さなアパートに住み、ときどきだけ外食するという暮らしとは合いません。
+4 sturdy は「がっしりした、丈夫な」です。家具や体などに使う語で、収入には合いません。
+【覚えるポイント】
+・modest income：「ささやかな収入、多くない収入」。
+・just enough to ～：「～するのにちょうど足りるだけ」。
+・あとの文に just enough（ちょうど足りるだけ）や small（小さい）のような量を表す語があるときは、前の文の空所に「多くない」という意味の語が入ることが多いので、量の手がかりを探します。

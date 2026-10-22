@@ -1,6 +1,7 @@
 ---
 choices: They supply marine organisms with substances necessary for their survival by changing certain materials into a form that can be eaten. | Because they absorb a lot of sunlight that enters the water, they are able to provide more nutrients to steep areas around the islands. | The waste substances that the sponges produce are an important source of food for both corals and phytoplankton. | After feeding on phytoplankton, the sponges pass the nutrients on to the larger marine animals that feed on them.
 answerText: They supply marine organisms with substances necessary for their survival by changing certain materials into a form that can be eaten.
+reviewed: yes
 ---
 【正解】1 They supply marine organisms with substances necessary for their survival by changing certain materials into a form that can be eaten.（ある物質を食べられる形に変えることで、海の生き物に生きるのに必要な物質を与えている。）
 【和訳】

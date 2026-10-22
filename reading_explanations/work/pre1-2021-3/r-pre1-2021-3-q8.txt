@@ -7,7 +7,7 @@ answerText: startled
 （英文）
 The sleeping baby was ［startled］ by the loud music coming from her brother's room. She woke up crying, and it took a long time before she fell asleep again.
 （訳）
-眠っていた赤ちゃんは、兄の部屋から聞こえてくる大きな音楽に（びっくりした）。赤ちゃんは泣きながら目を覚まし、再び眠るまでに長い時間がかかった。
+眠っていた赤ちゃんは、兄（弟）の部屋から聞こえてくる大きな音楽に（びっくりした）。赤ちゃんは泣きながら目を覚まし、再び眠るまでに長い時間がかかった。
 （選択肢の意味）
 1 startled：（startle「びっくりさせる」の過去分詞）びっくりさせられた
 2 improvised：（improvise「即興で作る、間に合わせで作る」の過去分詞）即興で作られた
@@ -20,7 +20,7 @@ The sleeping baby was (　) by the loud music（眠っていた赤ちゃんは�
 次の文に、そのあとどうなったかが書かれています。
 She woke up crying（彼女は泣きながら目を覚ました）
 眠っていた赤ちゃんが大きな音で急に泣いて目を覚ましたのですから、音楽にびっくりしたと考えられます。startle は「びっくりさせる」で、be startled by ～ は「～にびっくりする」となるので、1が正解です。
-なお、brother は兄と弟のどちらも表しますが、赤ちゃんのきょうだいで自分の部屋で音楽をかけているので、ここでは兄と考えて訳しています。
+なお、brother は兄と弟のどちらも表し、この文からはどちらか決められないので、訳では「兄（弟）」としています。
 この問題の型：因果（大きな音楽 → びっくりして泣きながら目を覚ました）
 【ほかの選択肢】
 2 improvised は「即興で作られた」です。「赤ちゃんが音楽によって即興で作られた」となり、意味が通りません。

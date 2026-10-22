@@ -1,0 +1,30 @@
+---
+choices: a new threat appeared | more ships were available | ships only traveled at night | crews had to be paid more
+answerText: a new threat appeared
+---
+【正解】1 a new threat appeared（新たな脅威が現れた）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 a new threat appeared（新たな脅威が現れた）
+2 more ships were available（より多くの船が使えるようになった）
+3 ships only traveled at night（船は夜にだけ航行した）
+4 crews had to be paid more（乗組員にはより多くの給料を払わなければならなかった）
+【考え方】
+まず見るところ：第2段落の空所の前の a less dangerous prospect と In wartime, however
+空所の前の文では、大西洋を渡ることについて、次のように書かれています。
+Thanks to technological improvements, crossing the often-rough Atlantic had generally become a less dangerous prospect for ships in the 1940s than it had been just a few decades earlier.（技術の進歩のおかげで、荒れることの多い大西洋を渡ることは、1940年代には、船にとって、ほんの数十年前よりも全体として危険の少ないことになっていた）
+つまり、ふだんなら大西洋を渡る危険は減っていました。そのあとに In wartime, however（しかし戦時中には）とあるので、空所には「危険が減った」とは反対に、危険がある内容が入ると考えられます。
+空所のあとの文を見ます。
+Liberty ships were slow, and German submarines patrolled Atlantic waters.（リバティ船は速度が遅く、ドイツの潜水艦が大西洋の海を巡回していた）
+Attacks were a constant worry（攻撃はたえず心配の種だった）
+ドイツの潜水艦による攻撃という、新しい危険があったことが分かります。threat は「脅威（おびやかすもの、危険）」なので、1が正解です。
+この問題の型：対比（技術の進歩で危険が少なくなった⇔戦時中は新たな脅威）
+【ほかの選択肢】
+2 more ships were available は「より多くの船が使えるようになった」です。however（しかし）のあとなのに、危険が減ったという前の文と対立する内容になりません。また、空所のあとは潜水艦の攻撃という危険の話で、つながりません。
+3 ships only traveled at night は「船は夜にだけ航行した」です。夜だけ航行したことは本文に書かれていません。空所のあとは、船が遅いことと潜水艦の攻撃の話です。
+4 crews had to be paid more は「乗組員にはより多くの給料を払わなければならなかった」です。給料のことは本文に書かれていません。空所のあとは攻撃の危険の話で、お金の話にはつながりません。
+【覚えるポイント】
+・threat：「脅威、危険」。submarine：「潜水艦」。patrol：「巡回する、見回る」。
+・前の文で「よくなった点」が書かれ、そのあとに however が続くときは、空所に「新しい問題・危険」が入ることが多く、空所のあとの具体的な説明（ここでは潜水艦の攻撃）で確かめることが手がかりになります。

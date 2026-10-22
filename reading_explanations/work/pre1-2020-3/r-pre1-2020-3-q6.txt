@@ -1,6 +1,7 @@
 ---
 choices: saluted | classified | personified | extinguished
 answerText: classified
+reviewed: yes
 ---
 【正解】2 classified（分類した）
 【和訳】
@@ -22,9 +23,9 @@ scientists have (　) them according to differences and similarities（科学者
 them は前の various organisms（さまざまな生物）を指します。according to ～ は「～にしたがって」です。違いと似ている点にしたがってグループに分けることを classify（分類する）と言うので、2が正解です。
 この問題の型：言いかえ（classified ＝ placed into a specific group）
 【ほかの選択肢】
-1 saluted は salute（敬礼する、あいさつする）の過去分詞です。「生物を違いと似ている点にしたがって敬礼してきた」となり、意味が通りません。
-3 personified は personify（擬人化する、人のように表す）の過去分詞です。生物をグループに入れるという後半の文とつながりません。
-4 extinguished は extinguish（火や明かりを消す）の過去分詞です。「生物を消してきた」となり、研究するためという前半とも、グループに入れるという後半とも合いません。
+1 saluted は salute（敬礼する、あいさつする）が have のあとに続く形になったものです。「生物を違いと似ている点にしたがって敬礼してきた」となり、意味が通りません。
+3 personified は personify（擬人化する、人のように表す）が have のあとに続く形になったものです。生物をグループに入れるという後半の文とつながりません。
+4 extinguished は extinguish（火や明かりを消す）が have のあとに続く形になったものです。「生物を消してきた」となり、研究するためという前半とも、グループに入れるという後半とも合いません。
 【覚えるポイント】
 ・classify：「分類する」。according to differences and similarities（違いと似ている点にしたがって）や placed into a specific group（特定のグループに入れられる）のような語句と一緒に出てくることがあります。
 ・空所のあとの文が、空所に入る動作をくわしく言いかえていることがあります。後ろの文で何をしているかを読むと手がかりになります。

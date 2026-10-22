@@ -1,0 +1,28 @@
+---
+choices: memoirs | margins | monarchies | murals
+answerText: murals
+---
+【正解】4 murals（壁画）
+【和訳】
+（英文）
+The walls inside the city hall building are decorated with ［murals］ painted by famous artists. The huge paintings never fail to impress visitors.
+（訳）
+市役所の建物の中の壁は、有名な画家たちによって描かれた壁画で飾られている。その巨大な絵は、訪れる人々を必ず感動させる。
+（選択肢の意味）
+1 memoirs：回顧録（自分の体験や思い出を書いた記録）
+2 margins：余白、ふち、（もうけの）差額
+3 monarchies：君主国（王が治める国）、君主制
+4 murals：壁画（壁にかかれた大きな絵）
+【考え方】
+まず見るところ：空所のあとの painted by famous artists と、次の文の The huge paintings
+空所のある文は「市役所の中の壁は、有名な画家たちが描いた（　）で飾られている」という意味です。空所のすぐあとに painted（描かれた）とあるので、空所には絵に関係する語が入ると分かります。
+The huge paintings never fail to impress visitors.（その巨大な絵は、訪れる人々を必ず感動させる）
+次の文の The huge paintings（その巨大な絵）は、空所の語を言いかえたものです。壁を飾る巨大な絵とは、壁画のことです。ですから、4 murals が正解です。
+この問題の型：言いかえ（murals ＝ The huge paintings）
+【ほかの選択肢】
+1 memoirs は「回顧録」です。文章で書く記録なので、「画家が描いた回顧録で壁が飾られている」となり、次の文の「巨大な絵」とも合いません。
+2 margins は「余白、ふち」です。「画家が描いた余白で壁が飾られている」となり、意味が通りません。
+3 monarchies は「君主国、君主制」です。国や政治のしくみを表す語で、画家が描くものではありません。
+【覚えるポイント】
+・mural：「壁画」。壁にかかれた大きな絵のことです。
+・空所の語が次の文で The ～（その～）と言いかえられていることがよくあります。ここでは The huge paintings が空所の語を指しているので、次の文の the のついた名詞は答えの手がかりになります。

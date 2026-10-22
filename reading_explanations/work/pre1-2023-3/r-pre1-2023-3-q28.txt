@@ -1,0 +1,28 @@
+---
+choices: grizzly bears do not create naturally | are also found in humans | cause Type 2 diabetes in bears | are responsible for other diseases
+answerText: are also found in humans
+---
+【正解】2 are also found in humans（人間にも見られる）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 grizzly bears do not create naturally（グリズリーが自然には作らない）
+2 are also found in humans（人間にも見られる）
+3 cause Type 2 diabetes in bears（クマに2型糖尿病を引き起こす）
+4 are responsible for other diseases（ほかの病気の原因になっている）
+【考え方】
+まず見るところ：第3段落の空所のあとの It is hoped a greater understanding of this process in bears could lead to improved treatments for Type 2 diabetes in humans.
+第3段落では、クマはインスリンへの抵抗性（インスリンの効きにくさ）を調節できるようだと書かれています。空所の文は、その過程についての説明です。
+The study suggests this process is controlled by eight proteins, which (　).（研究によれば、この過程は8つのたんぱく質によって制御されていて、それらは〇〇だという）
+which は eight proteins（8つのたんぱく質）を指します。次の文を見ます。
+It is hoped a greater understanding of this process in bears could lead to improved treatments for Type 2 diabetes in humans.（クマのこの過程についての理解がより深まれば、人間の2型糖尿病の治療法の改善につながるかもしれないと期待されている）
+クマの研究が人間の治療に役立つと期待されているのは、同じたんぱく質が人間の体にもあるからだと考えられます。are also found in humans（人間にも見られる）を入れると、次の文の期待とつながるので、2が正解です。
+この問題の型：推論（クマの研究が人間の治療に役立つ → たんぱく質が人間にもある）
+【ほかの選択肢】
+1 「グリズリーが自然には作らない」たんぱく質だとすると、クマの体の中でこの過程を制御しているという前の部分と合いません。また、人間の治療につながるという次の文ともつながりません。
+3 「クマに2型糖尿病を引き起こす」は、第3段落の最初の why grizzly bears do not get Type 2 diabetes（なぜグリズリーが2型糖尿病にならないのか）と合いません。本文では、クマは2型糖尿病にならないと書かれています。
+4 「ほかの病気の原因になっている」は、本文に書かれていません。次の文は2型糖尿病の治療の話なので、ほかの病気の話はつながりません。
+【覚えるポイント】
+・be found in ～：「～の中に見られる、～にある」。lead to ～：「～につながる」。
+・空所のあとに「この研究が人間の治療につながると期待される」のような文があるときは、クマと人間をつなぐ共通点が空所に入る手がかりになります。

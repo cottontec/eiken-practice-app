@@ -1,6 +1,7 @@
 ---
 choices: haze | canal | frailty | statistic
 answerText: frailty
+reviewed: yes
 ---
 【正解】3 frailty（体の弱さ、衰え）
 【和訳】

@@ -1,0 +1,29 @@
+---
+choices: resist | dispute | flourish | drain
+answerText: resist
+---
+【正解】1 resist（がまんする、さからう）
+【和訳】
+（英文）
+The children could not ［resist］ opening their presents on Christmas morning. They got up early and began opening them before their parents had awoken.
+（訳）
+子どもたちは、クリスマスの朝、プレゼントを開けずにはいられなかった。子どもたちは早く起きて、両親が目を覚ます前にプレゼントを開け始めた。
+（選択肢の意味）
+1 resist：（したい気持ちを）がまんする、さからう
+2 dispute：異議を唱える（反対の意見を言う）、言い争う
+3 flourish：栄える、（植物が）よく育つ
+4 drain：（水を）抜く、（力などを）使い果たさせる
+【考え方】
+まず見るところ：次の文の began opening them before their parents had awoken
+空所のある文は「子どもたちはクリスマスの朝、プレゼントを開けることを（　）できなかった」という意味です。子どもたちが実際にどうしたかは、次の文に書かれています。
+They got up early and began opening them before their parents had awoken.（子どもたちは早く起きて、両親が目を覚ます前にプレゼントを開け始めた）
+両親が起きるのを待たずに開けてしまったのですから、開けたい気持ちをおさえられなかったと分かります。
+could not resist ～ing で「～したい気持ちをがまんできなかった」、つまり「～せずにはいられなかった」という意味になります。ですから、1が正解です。
+この問題の型：熟語・決まった形（cannot resist ～ing：～せずにはいられない）
+【ほかの選択肢】
+2 dispute は「異議を唱える、言い争う」です。「プレゼントを開けることに異議を唱えられなかった」となり、次の文の、待ちきれずに開けてしまった様子とつながりません。
+3 flourish は「栄える」です。「プレゼントを開けることを栄えられなかった」となり、意味が通りません。
+4 drain は「（水を）抜く」です。「プレゼントを開けることを抜けなかった」となり、意味が通りません。
+【覚えるポイント】
+・cannot resist ～ing：「～したい気持ちをがまんできない、～せずにはいられない」。
+・could not（～できなかった）の空所では、あとの文で人物が実際に何をしたかを確かめましょう。「待てずにしてしまった」という行動が書かれていれば、resist（がまんする）のような語が入る手がかりになります。

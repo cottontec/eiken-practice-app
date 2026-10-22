@@ -1,0 +1,30 @@
+---
+choices: On the contrary | Subsequently | Moreover | In exchange
+answerText: Moreover
+---
+【正解】3 Moreover（さらに、その上）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 On the contrary（それどころか、それとは反対に）
+2 Subsequently（その後、それに続いて）
+3 Moreover（さらに、その上）
+4 In exchange（その見返りとして、引きかえに）
+【考え方】
+まず見るところ：第3段落の空所の前の should not be underestimated と、空所のあとの was a boon to local economies
+空所の前の文では、リバティ船のよい点が1つ書かれています。
+Some people argue that the role these and other ships played in helping to turn the war in the Allies' favor should not be underestimated.（これらの船やほかの船が、戦争の流れを連合国に有利な方向へ変えるのを助けるうえで果たした役割は、低く見積もるべきではないと主張する人もいる）
+underestimate は「低く見積もる、軽く見る」です。つまり、リバティ船は戦争で大切な役割を果たしたということです。
+空所のあとの文を見ます。
+the shipyards where the Liberty ships were assembled were often located in relatively low-income areas（リバティ船が組み立てられた造船所は、比較的所得の低い地域にあることが多かった）
+The employment that the shipyards provided was a boon to local economies.（造船所が生み出した雇用は、地域の経済にとって恵みとなった）
+boon は「恵み、ありがたいもの」です。戦争での役割に加えて、地域の経済を助けたという、もう1つのよい点が書かれています。よい点にさらによい点を付け加えるので、Moreover（さらに）が入ります。よって3が正解です。
+この問題の型：語の意味・組み合わせ（よい点＋もう1つのよい点 → Moreover）
+【ほかの選択肢】
+1 On the contrary は「それどころか、それとは反対に」で、前の内容を打ち消して反対のことを言うときに使います。空所のあとは、戦争での役割を打ち消す内容ではなく、地域の経済を助けたという別のよい点なので合いません。
+2 Subsequently は「その後」で、時間の順序を表します。造船所が所得の低い地域にあり、雇用を生んだのは、船が作られていたころの話で、戦争で役割を果たした「その後」に起きたこととは書かれていません。
+4 In exchange は「その見返りとして」です。「船が戦争で役割を果たした見返りに、造船所が所得の低い地域にあった」となり、意味が通りません。
+【覚えるポイント】
+・Moreover：「さらに、その上」。underestimate：「低く見積もる、軽く見る」。boon：「恵み、ありがたいもの」。
+・空所の前とあとが、どちらも同じものの「よい点」を述べているときは、Moreover のように付け加える語が入る手がかりになります。

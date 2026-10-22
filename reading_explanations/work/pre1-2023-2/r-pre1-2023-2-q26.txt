@@ -1,0 +1,30 @@
+---
+choices: still being ignored | not being paid enough | losing control over content | in need of large budgets
+answerText: losing control over content
+---
+【正解】3 losing control over content（内容を自分で決める力を失いつつある）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 still being ignored（今でも無視されている）
+2 not being paid enough（十分な報酬を払われていない）
+3 losing control over content（内容を自分で決める力を失いつつある）
+4 in need of large budgets（多額の予算を必要としている）
+【考え方】
+まず見るところ：第1段落の空所のあとの the intense pressure often makes filmmakers feel as though they have no choice but to alter the stories they tell
+空所のある文は次のとおりです。
+One issue is that many filmmakers feel they are ( 26 ).（問題の一つは、多くの映画制作者が自分たちは（　）と感じていることだ）
+One issue（問題の一つ）とあるので、空所には直前の but there are also negative aspects（しかし、よくない面もある）の具体的な中身が入ります。その中身は、続く文で説明されています。
+Some documentaries have attracted huge audiences and brought tremendous financial returns, so companies that operate streaming services have become more generous with their production budgets.（一部のドキュメンタリーはとても多くの視聴者を引きつけ、ばく大な利益をもたらしたので、ストリーミングサービスを運営する会社は、制作予算をより気前よく出すようになった）
+With so much money involved, the intense pressure often makes filmmakers feel as though they have no choice but to alter the stories they tell to give them greater commercial appeal.（これほど多くのお金がかかわっているため、その強い圧力によって、映画制作者たちは、物語により大きな商業的魅力を持たせるために、物語を変えるしかないと感じることが多い）
+have no choice but to ～ は「～するしかない」、alter は「変える」です。お金を出す会社からの圧力で、映画制作者は自分が伝えたい物語を思うように作れず、売れるように変えるしかないと感じているのです。
+これは「作品の内容を自分で決める力を失いつつある」ということです。control over ～ は「～を思いどおりにする力」、content は「（作品の）内容」なので、3が正解です。
+この問題の型：具体例とまとめ（物語を変えるしかない→内容を自分で決める力を失う）
+【ほかの選択肢】
+1 「今でも無視されている」は、本文に書かれていません。第1段落には、ドキュメンタリーの数が急増して providing welcome new opportunities for filmmakers（映画制作者たちにありがたい新しい機会をもたらしている）とあり、映画制作者が無視されているという話は出てきません。
+2 「十分な報酬を払われていない」も、本文に書かれていません。続く文で説明されている問題は、お金がかかわることで生まれる圧力のために物語を変えるしかないと感じることで、映画制作者への支払いが少ないことではありません。
+4 「多額の予算を必要としている」は、問題（One issue）の中身として合いません。続く文には、会社が制作予算を more generous（より気前よく）出すようになったとあり、予算が必要で困っているという流れにはなっていません。
+【覚えるポイント】
+・One issue is that ～（問題の一つは～ということだ）の空所は、そのあとの文で具体的に説明されることが多いので、続く文の中心になる言葉（ここでは alter the stories：物語を変える）をまとめた選択肢を探すと手がかりになります。
+・have no choice but to ～：「～するしかない」。自分の意思ではなく、まわりの事情でそうせざるをえないことを表します。

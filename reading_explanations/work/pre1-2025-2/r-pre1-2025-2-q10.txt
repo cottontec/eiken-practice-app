@@ -1,0 +1,31 @@
+---
+choices: alleged | forthcoming | blissful | fainthearted
+answerText: forthcoming
+---
+【正解】2 forthcoming（〔情報などを〕進んで話す、率直な）
+【和訳】
+（英文）
+The company president was not ［forthcoming］ about the reasons for the layoffs. When asked, he gave only vague answers and avoided any direct comments.
+（訳）
+その会社の社長は、人員削減の理由について（進んで話そうと）しなかった。たずねられると、彼はあいまいな答えしかせず、はっきりした発言を一切避けた。
+（選択肢の意味）
+1 alleged：（証拠はないが）～だと言われている、疑いをかけられている
+2 forthcoming：（情報などを）進んで話す、率直な
+3 blissful：この上なく幸せな
+4 fainthearted：気の弱い、臆病な
+【考え方】
+まず見るところ：次の文の he gave only vague answers and avoided any direct comments
+空所のある文は、次のとおりです。
+The company president was not (　) about the reasons for the layoffs.（その会社の社長は、人員削減の理由について（　）なかった）
+layoff は「（会社の都合で）従業員をやめさせること、人員削減」です。not があるので、理由について社長が「どうではなかったのか」を考えます。
+次の文で、社長の様子が具体的に書かれています。
+When asked, he gave only vague answers and avoided any direct comments.（たずねられると、彼はあいまいな答えしかせず、はっきりした発言を一切避けた）
+vague は「あいまいな」、direct は「直接の、はっきりした」です。社長は理由をはっきり話そうとしなかったのです。forthcoming は「（情報などを）進んで話す、率直な」なので、was not forthcoming で「進んで話そうとしなかった」となり、2が正解です。
+この問題の型：具体例とまとめ（あいまいな答えしかしない → 進んで話さない）
+【ほかの選択肢】
+1 alleged は「（証拠はないが）～だと言われている」です。「社長は人員削減の理由について、～だと言われてはいなかった」のようになり、意味が通りません。次の文の「あいまいな答えしかしなかった」という社長の態度の説明にもなりません。
+3 blissful は「この上なく幸せな」です。「人員削減の理由について幸せではなかった」となっても、次の文の「あいまいな答えしかしなかった」という説明とつながりません。
+4 fainthearted は「気の弱い、臆病な」です。was not fainthearted だと「気が弱くはなかった」となり、はっきりした発言を避けたという次の文の様子の説明になりません。
+【覚えるポイント】
+・be forthcoming about ～：「～について進んで話す、率直に話す」。not forthcoming で「進んで話そうとしない」。
+・was not (　) about ～ の空所は、次の文の具体的な態度（ここでは only vague answers）が、not を付けた形とうまく合うかを確かめることが手がかりになります。

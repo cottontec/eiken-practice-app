@@ -1,0 +1,33 @@
+---
+choices: commodity | arrogance | neutrality | specimen
+answerText: arrogance
+---
+【正解】2 arrogance（傲慢さ、思い上がり）
+【和訳】
+（英文）
+Because the tennis champion is unfriendly to other players and claims he is the greatest player who has ever lived, he is often criticized for his ［arrogance］.
+（訳）
+そのテニスのチャンピオンは、ほかの選手に対して愛想が悪く、自分はこれまでに生きてきた中で最も偉大な選手だと言っているので、その（傲慢さ）のためによく批判されている。
+（選択肢の意味）
+1 commodity：商品、日用品
+2 arrogance：傲慢さ、思い上がり
+3 neutrality：中立
+4 specimen：見本、標本
+【考え方】
+まず見るところ：文の前半の is unfriendly to other players and claims he is the greatest player
+最初に、Because（～なので）のあとの理由を見ます。
+the tennis champion is unfriendly to other players and claims he is the greatest player who has ever lived（そのテニスのチャンピオンは、ほかの選手に対して愛想が悪く、自分はこれまでに生きてきた中で最も偉大な選手だと言っている）
+unfriendly は「愛想が悪い、不親切な」、claim は「（～だと）主張する」です。ほかの選手に冷たく、自分がいちばんだと言いはる、という態度です。
+次に、空所のある部分を見ます。
+he is often criticized for his ( )（彼は、その（　）のためによく批判されている）
+be criticized for ～ は「～のことで批判される」です。前半の態度をまとめて表す語が入ります。
+arrogance は「傲慢さ、思い上がり（自分がえらいと思って、ほかの人を見下すこと）」です。前半の態度にぴったり合うので、2が正解です。
+この問題の型：因果（Because：ほかの選手に冷たく、自分が最高だと言う → 傲慢さを批判される）／具体例とまとめ
+【ほかの選択肢】
+1 commodity は「商品、日用品」です。「彼の商品のために批判されている」では、前半の態度の話とつながりません。
+3 neutrality は「中立（どちらの側にもつかないこと）」です。自分が最高の選手だと言いはる態度は、中立とは関係がありません。
+4 specimen は「見本、標本」です。「彼の標本のために批判されている」では意味が通りません。
+【覚えるポイント】
+・arrogance：「傲慢さ、思い上がり」。
+・be criticized for ～：「～のことで批判される」。
+・Because ～ で人の態度が具体的に説明され、あとに「～のことで批判される」と続くときは、その態度をひとことでまとめた名詞が空所に入ることが多いので、前半の具体的な行動が手がかりになります。

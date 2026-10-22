@@ -1,0 +1,30 @@
+---
+choices: crucial | debatable | inevitable | sacrificial
+answerText: inevitable
+---
+【正解】3 inevitable（避けられない、必ず起こる）
+【和訳】
+（英文）
+Brad drove so carelessly that it was ［inevitable］ he would have an accident. And last week, that exact situation occurred.
+（訳）
+ブラッドはあまりにも不注意な運転をしていたので、彼が事故を起こすのは避けられないことだった。そして先週、まさにそのとおりのことが起きた。
+（選択肢の意味）
+1 crucial：きわめて重要な、決定的な
+2 debatable：議論の余地がある（はっきりしない、疑わしい）
+3 inevitable：避けられない、必ず起こる
+4 sacrificial：犠牲の、いけにえの
+【考え方】
+まず見るところ：空所のある文の so carelessly that と、次の文の that exact situation occurred
+空所のある文は so ～ that ...（あまりにも～なので…）の形です。
+Brad drove so carelessly that it was ( ) he would have an accident.（ブラッドはあまりにも不注意な運転をしていたので、彼が事故を起こすのは（　）だった）
+「あまりにも不注意な運転」の結果として、「事故を起こすこと」がどうだったかを考えます。
+And last week, that exact situation occurred.（そして先週、まさにそのとおりのことが起きた）
+実際に事故が起きたと書かれているので、事故は「いつか必ず起きること」だったと分かります。inevitable は「避けられない」という意味なので、3が正解です。
+この問題の型：因果（不注意な運転 → 事故は避けられなかった）
+【ほかの選択肢】
+1 crucial は「きわめて重要な」です。「事故を起こすことはきわめて重要だった」となり、意味が通りません。
+2 debatable は「議論の余地がある」です。「事故を起こすかどうかははっきりしなかった」となり、so carelessly that（あまりにも不注意だったので）から続く結果として合いません。
+4 sacrificial は「犠牲の」です。「事故を起こすことは犠牲のものだった」となり、意味が通りません。
+【覚えるポイント】
+・inevitable：「避けられない、必ず起こる」。it was inevitable (that) ～ で「～するのは避けられなかった」です。
+・so ～ that ...（あまりにも～なので…）の文では、that のあとが「～の結果どうなるか」です。前の「～」の程度が強いほど、that のあとには「必ずそうなる」という強い結果が来ることが多い、と考えると選びやすくなります。

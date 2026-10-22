@@ -1,6 +1,7 @@
 ---
 choices: scrap | propel | encounter | seal
 answerText: encounter
+reviewed: yes
 ---
 【正解】3 encounter（出くわす、偶然出会う）
 【和訳】

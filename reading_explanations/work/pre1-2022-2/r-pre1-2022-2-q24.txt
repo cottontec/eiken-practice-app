@@ -1,0 +1,29 @@
+---
+choices: falls on | squares with | drops by | stacks up
+answerText: falls on
+---
+【正解】1 falls on（責任などが～にかかる、～の役目になる）
+【和訳】
+（英文）
+Each member of the team has a job to do for the new project, but the responsibility for coordinating all of their efforts ［falls on］ the manager.
+（訳）
+チームの一人一人には、新しいプロジェクトのためにするべき仕事があるが、全員の努力をまとめる責任は、マネージャーに（かかっている）。
+（選択肢の意味）
+1 falls on：（責任などが）～にかかる、～の役目になる
+2 squares with：～と一致する、～とつじつまが合う
+3 drops by：～に立ち寄る
+4 stacks up：積み重なる、（～と比べて）引けをとらない
+【考え方】
+まず見るところ：空所の前の the responsibility for coordinating all of their efforts と、空所のあとの the manager
+the responsibility for coordinating all of their efforts (　) the manager（全員の努力をまとめる責任は、マネージャーに（　））
+主語は the responsibility（責任）です。coordinate は「（ばらばらのものを）まとめる、調整する」という意味です。
+Each member of the team has a job to do ～, but ...（チームの一人一人にはするべき仕事があるが、…）
+but の前では「一人一人の仕事」、but のあとでは「全員をまとめる仕事」が対比されています。全員をまとめる責任は、マネージャーという1人の役目だと考えられます。fall on ～ は「（責任などが）～にかかる」なので、1が正解です。
+この問題の型：熟語・決まった形（responsibility falls on ～〈責任が～にかかる〉）
+【ほかの選択肢】
+2 squares with は「～と一致する」です。「責任がマネージャーと一致する」となり、意味が通りません。
+3 drops by は「～に立ち寄る」です。人がどこかに寄るときに使う語句で、「責任がマネージャーに立ち寄る」では意味が通りません。
+4 stacks up は「積み重なる」です。「責任がマネージャーを積み重なる」となり、意味が通りません。
+【覚えるポイント】
+・fall on ～：「（責任や仕事が）～にかかる、～の役目になる」。coordinate：「まとめる、調整する」。
+・主語が responsibility（責任）で、空所のあとに人を表す語が続くときは、「その人に責任がかかる」という意味の fall on が入る手がかりになります。

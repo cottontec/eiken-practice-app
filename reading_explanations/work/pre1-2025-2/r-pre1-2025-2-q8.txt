@@ -1,0 +1,31 @@
+---
+choices: massive | amusing | graceful | hesitant
+answerText: massive
+---
+【正解】1 massive（非常に大きい、巨大な）
+【和訳】
+（英文）
+While the sun may look small from Earth, it is ［massive］. In fact, it is many times bigger than any planet in the solar system.
+（訳）
+太陽は地球からは小さく見えるかもしれないが、（非常に大きい）。実際、太陽は太陽系のどの惑星よりも何倍も大きい。
+（選択肢の意味）
+1 massive：非常に大きい、巨大な
+2 amusing：おもしろい、愉快な
+3 graceful：優雅な、上品な
+4 hesitant：ためらっている
+【考え方】
+まず見るところ：文の始めの While the sun may look small と、次の文の many times bigger than any planet
+空所のある文は、次のとおりです。
+While the sun may look small from Earth, it is (　).（太陽は地球からは小さく見えるかもしれないが、（　））
+while はここでは「～だけれども」という意味で、前と後ろで反対の内容を並べるときに使われています。「小さく見える」の反対なので、空所には「大きい」に近い意味の語が入ると考えられます。
+次の文が、それを確かめる手がかりです。
+In fact, it is many times bigger than any planet in the solar system.（実際、太陽は太陽系のどの惑星よりも何倍も大きい）
+in fact は「実際に」、solar system は「太陽系」です。太陽がどの惑星よりも何倍も大きいと書かれているので、massive（非常に大きい、巨大な）が入り、1が正解です。
+この問題の型：対比（小さく見える ⇔ 実は非常に大きい）
+【ほかの選択肢】
+2 amusing は「おもしろい、愉快な」です。「小さく見えるが、おもしろい」では、While の前後が「小さい⇔大きい」のような反対の関係にならず、次の文の「何倍も大きい」ともつながりません。
+3 graceful は「優雅な、上品な」です。太陽の大きさの話とは関係がなく、次の文の「どの惑星よりも何倍も大きい」の説明になりません。
+4 hesitant は「ためらっている」です。人の気持ちや態度を表す語で、「太陽はためらっている」となり、意味が通りません。
+【覚えるポイント】
+・massive：「非常に大きい、巨大な」。
+・While ～ may look small, it is (　). のように「～に見えるかもしれないが」の形では、空所には見た目と反対の内容が入ることが多く、あとの In fact ～ がその中身を確かめる手がかりになります。

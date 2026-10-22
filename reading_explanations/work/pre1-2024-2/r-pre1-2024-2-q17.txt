@@ -1,0 +1,30 @@
+---
+choices: happened upon | stayed off | sailed through | glared at
+answerText: sailed through
+---
+【正解】3 sailed through（～を楽々と切り抜けた）
+【和訳】
+（英文）
+Though some of the other students found the class difficult, Deepak ［sailed through］ it easily. He was able to get a very high grade despite hardly studying at all.
+（訳）
+ほかの生徒の中にはその授業を難しいと感じた人もいたが、ディーパックはそれを楽々と（切り抜けた）。彼はほとんどまったく勉強しなかったにもかかわらず、とても高い成績をとることができた。
+（選択肢の意味）
+1 happened upon：～に偶然出会った、～をたまたま見つけた
+2 stayed off：～を避けた、（飲食物など）を断った
+3 sailed through：～を楽々と切り抜けた、すいすいと通過した
+4 glared at：～をにらみつけた
+【考え方】
+まず見るところ：文の最初の Though ～ difficult と、次の文の get a very high grade despite hardly studying
+文の前半は Though（～だけれども）で始まっています。
+Though some of the other students found the class difficult（ほかの生徒の中にはその授業を難しいと感じた人もいたが）
+そのため、後半のディーパックは、ほかの生徒とは反対に、その授業を難しく感じなかったと考えられます。次の文がそれを裏づけています。
+He was able to get a very high grade despite hardly studying at all.（彼はほとんどまったく勉強しなかったにもかかわらず、とても高い成績をとることができた）
+sail through は「（試験・授業などを）楽々と切り抜ける」という意味で、空所のあとの easily（楽々と）ともよく合います。よって3が正解です。
+この問題の型：対比（ほかの生徒は難しいと感じた⇔ディーパックは楽々と切り抜けた）
+【ほかの選択肢】
+1 happened upon は「偶然出会った、たまたま見つけた」です。「その授業を楽々と偶然見つけた」となり、高い成績をとったという次の文とつながりません。
+2 stayed off は「～を避けた」です。「その授業を楽々と避けた」となり、その授業でとても高い成績をとったという次の文と合いません。
+4 glared at は「～をにらみつけた」です。「その授業を楽々とにらみつけた」では意味が通りません。
+【覚えるポイント】
+・sail through ～：「（試験・授業など）を楽々と切り抜ける」。hardly ～ at all：「ほとんどまったく～ない」。
+・Though（～だけれども）で始まる文では、後半に前半とは反対の内容がくるので、前半の difficult の反対の意味になる語句を選ぶことが手がかりになります。

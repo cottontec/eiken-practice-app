@@ -1,6 +1,7 @@
 ---
 choices: rhinos are frightened of the birds | birds provide warnings to the rhinos | rhinos' survival is threatened by the birds | birds are attracting ticks to the rhinos
 answerText: birds provide warnings to the rhinos
+reviewed: yes
 ---
 【正解】2 birds provide warnings to the rhinos（鳥がサイに警告を与えている）
 【和訳】
@@ -17,7 +18,7 @@ answerText: birds provide warnings to the rhinos
 The birds have sharp vision and make hissing sounds if they feel threatened by approaching animals.（この鳥は視力が鋭く、近づいてくる動物に危険を感じると、シューッという音を出す）
 サイは視力が弱いのに対し、この鳥は視力が鋭く、危険を感じると音を出します。
 次に、空所の直前の文です。
-Rhinos with the birds perched on them were observed to be far more likely to detect the presence of approaching threats.（鳥が体に止まっているサイは、（止まっていないサイより）近づいてくる脅威の存在に気づく可能性がずっと高いことが観察された）
+Rhinos with the birds perched on them were observed to be far more likely to detect the presence of approaching threats.（鳥が体に止まっているサイは、近づいてくる脅威の存在に気づく可能性がずっと高いことが観察された）
 perched は「（鳥が）止まった」、threats は「脅威（危険なもの）」です。
 空所のある文は次のとおりです。
 The researchers therefore believe the (30).（そのため研究者たちは（30）と考えている）

@@ -1,6 +1,7 @@
 ---
 choices: feasible | fierce | inventive | eventful
 answerText: feasible
+reviewed: yes
 ---
 【正解】1 feasible（実現可能な、実行できる）
 【和訳】
