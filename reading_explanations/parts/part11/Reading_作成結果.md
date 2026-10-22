@@ -213,24 +213,24 @@ checked=574 problems=0
 - r-pre1-2018-3-q31：本文全訳（cloze29）の these more experienced applicants に「（自分たちより）」を補った。直前に「年上の大人（older adults）が働き続け、若い卒業生が負ける」とあり、比べる相手ははっきりしていると判断して残した。
 - r-pre1-2018-3-q38：assistant professor を「助教」とした（米国の assistant professor は日本の准教授に近い位だとする説明もある）。ポリー・ハスマン、ダニエル・ウィリンガムは英語の読みに近い形。
 - r-pre1-2018-3-q35：Forecasting the Big Blow を「大噴火を予測する」とした（Big Blow は直訳では「大きな爆発」）。
-- q26：Donal Cooper を「ドナル・クーパー」と表記（「ドーナル」とも書かれる）。q27・q28 も同じ全訳
+- q26：Donal Cooper を「ドナル・クーパー」と表記（「ドーナル」とも書かれる）。q27・q28 も同じ全訳→（ドーナルとも）を併記済み
 - q28：本文全訳の many authorities を「多くの専門家」とした（「当局」とも取れる）。q26・q27 も同じ全訳
 - q29：Thaba-Tseka「タバ・ツェカ」、書名 The Anti-Politics Machine を「（反政治機械）」とした表記。日本語で定着した呼び名があれば合わせたい。q30・q31 も同じ全訳
 - q32：題名 Hostile Architecture を「敵対的建築」（「排除アート」「排除ベンチ」などの呼び名もある）、James Furzer の読み「ファーザー」は辞書で確認できず（father と紛れる）。q33・q34 も同じ全訳
 - q35：celiac disease を「セリアック病」とした表記。q36・q37 も同じ全訳
-- q38：Stamford Oath「スタンフォードの誓い」、Lollard「ロラード派」、Benjamin Jowett「ジャウエット」（「ジャウェット」「ジョウェット」とも）の表記。q39～q41 も同じ全訳
-- r-pre1-2019-2-q36：Katrina Virts を「カトリーナ・バーツ」とした（「ヴァーツ」とも書ける）。q35・q37 も同じ全訳を使う。
+- q38：Stamford Oath「スタンフォードの誓い」、Lollard「ロラード派」、Benjamin Jowett「ジャウエット」（「ジャウェット」「ジョウェット」とも）の表記。q39～q41 も同じ全訳→（ジャウェット・ジョウェットとも）を併記済み
+- r-pre1-2019-2-q36：Katrina Virts を「カトリーナ・バーツ」とした（「ヴァーツ」とも書ける）。q35・q37 も同じ全訳を使う。→（ヴァーツとも）を併記済み
 - r-pre1-2019-2-q33：書名 In Search of Dracula は日本語の正式な書名を確かめられず、『In Search of Dracula（ドラキュラを探して）』とした。q32・q34 も同じ全訳を使う。
 - r-pre1-2019-2-q3：the president を、nation's economy の話なので「大統領」とした（会社の社長の可能性は低いと判断。答えには影響しない）。
-- r-pre1-2019-3-q26：Tiger sharks を和名の「イタチザメ」と訳している（タイガーシャークとする方針なら cloze26 の全訳を直す必要あり）。Marcus Drymon「マーカス・ドライモン」。wrens「ミソサザイ」、backyard bird「裏庭の鳥」の直訳もq27・q28と共通
+- r-pre1-2019-3-q26：Tiger sharks を和名の「イタチザメ」と訳している（タイガーシャークとする方針なら cloze26 の全訳を直す必要あり）。Marcus Drymon「マーカス・ドライモン」。wrens「ミソサザイ」、backyard bird「裏庭の鳥」の直訳もq27・q28と共通→（タイガーシャークとも）を併記済み
 - r-pre1-2019-3-q29：人名のカタカナ（David Runciman「デイビッド・ランシマン」、Richard Zeller「リチャード・ゼラー」、Tim Jurkovac「ティム・ジャーコバック」。最後の読みは冊子に読みがなく未確認）。author を「作家」と訳している（q30・q31 と共通の全訳）
-- r-pre1-2019-3-q32：cassina「カッシーナ」の表記（「カシーナ」も可。家具メーカー名と紛れる点も含め方針確認）、holly「ヒイラギ（ホーリー）」（日本のヒイラギとは別の植物）、Ilex vomitoria「イレックス・ヴォミトリア」。q33・q34 と共通の全訳
+- r-pre1-2019-3-q32：cassina「カッシーナ」の表記（「カシーナ」も可。家具メーカー名と紛れる点も含め方針確認）、holly「ヒイラギ（ホーリー）」（日本のヒイラギとは別の植物）、Ilex vomitoria「イレックス・ヴォミトリア」。q33・q34 と共通の全訳→（カシーナとも）を併記済み
 - r-pre1-2019-3-q33：“purging” を「浄化」と訳し、ダッシュ以下の説明を続けている（原画像ではダッシュあり。抽出テキストでは欠けていた）
 - r-pre1-2019-3-q35：Outer Hebrides「アウター・ヘブリディーズ諸島」、Hebridean Ark Tree Project の題名の和訳（「箱舟植樹計画」）、aspen「ヤマナラシ」、David Mackay「デイビッド・マッケイ」の表記。q36・q37 と共通の全訳。「Keeping animals away is less straightforward」の比べる相手を「（泥炭の問題より）」と補っている点（直前文の泥炭対策との比較として自然と判断したが、人の目での確認を推奨）
 - r-pre1-2019-3-q38：書名 Vitamin C and the Common Cold を直訳『ビタミンCと風邪』としている（日本語版の書名ではない）。q39～q41 と共通の全訳。reading38 の multivitamins の文の「（とらなかった男性より）」の補いも確認推奨
 - r-pre1-2019-3-q39：正解3は第1段落の large doses と第2段落の increasing antioxidant levels を合わせて読み取る問題。正式解答と自力解答は一致し、他の3つは本文にないため一意と判断したが、根拠が2段落にまたがる点を確認推奨
 - r-pre1-2020-2-q32：the more bacteria has been exposed to antibiotics の訳を「細菌が抗生物質にさらされることが多ければ多いほど」とした（bacteria has と単数なので、さらされる度合いと読んだ）。「さらされる細菌の数が多いほど」とも読めるため、人の目で確認してほしい。正解（選択肢2）には影響しない。
-- r-pre1-2020-2-q35：作成担当が補った「（機械式時計より）」は、前後からほぼ分かるが断定できないので削った。補ったほうがよいか確認してほしい。タイトル The Quartz Crisis を直訳の「クオーツ危機」としたが、日本では「クオーツショック」の呼び名が定着している。
+- r-pre1-2020-2-q35：作成担当が補った「（機械式時計より）」は、前後からほぼ分かるが断定できないので削った。補ったほうがよいか確認してほしい。タイトル The Quartz Crisis を直訳の「クオーツ危機」としたが、日本では「クオーツショック」の呼び名が定着している。→（クオーツショックとも）を併記済み
 - r-pre1-2020-2-q29：waterline を「喫水線」とした。歴史上のプリムソルの線は日本語で「満載喫水線」「プリムソル・マーク」とも呼ばれる。coffin ships は「棺おけ船」と直訳。
 - r-pre1-2020-2-q32：Harvard T.H. Chan School of Public Health を「ハーバード大学T.H.チャン公衆衛生大学院」、superbugs を「スーパーバグ」とした（冊子に読みはない）。
 - r-pre1-2020-2-q12：Dr. Stamitts は her patients を診ているので「スタミッツ医師」とした。
@@ -243,12 +243,12 @@ checked=574 problems=0
 - r-pre1-2021-1-q36：正解4の isolation from their families は本文にそのままの語がなく、lives uprooted・fled to cities・alienated からの言いかえと考えられるとした（断定はしていない）。ほかの3つに根拠がなく4が唯一残るが、正式解答どおりでよいか人の目で
 - r-pre1-2021-1-q26：Herbal Medicine を「薬草の薬」と訳した（「ハーブ療法」「生薬」なども考えられる）（cloze26 全訳、q26～q28 共通）
 - r-pre1-2021-1-q35：Sámi を日本語で定着している「サーミ（の人々）」とした（reading35 全訳、q35～q37 共通）
-- r-pre1-2021-2-q38：Jayavarman VII を「ジャヤーヴァルマン7世」とした表記（日本の教科書で定着した形。「ジャヤバルマン」とも書かれる）。q39～q41、全訳も同じ。Cham people「チャム人」、Khmer「クメール」、Angkor「アンコール」。冊子に読みはない
+- r-pre1-2021-2-q38：Jayavarman VII を「ジャヤーヴァルマン7世」とした表記（日本の教科書で定着した形。「ジャヤバルマン」とも書かれる）。q39～q41、全訳も同じ。Cham people「チャム人」、Khmer「クメール」、Angkor「アンコール」。冊子に読みはない→（ジャヤバルマンとも）を併記済み
 - r-pre1-2021-2-q38：正解2の other leaders in the region と本文 his allies の対応は、本文に味方の素性が書かれていないため推論（同じ段落の alliances of powerful local warlords から）として説明した。ほかの3択は本文にないか本文と食い違うため、正解は一意（正式解答と一致）
 - r-pre1-2021-2-q26：300 miles に（約480キロメートル）を補った（300マイル＝約483キロメートル）。原文にない換算だが、数字の換算のみで意味は変えていない。q27・q28 の全訳も同じ
-- r-pre1-2021-2-q35：History of King Richard III を『リチャード3世史』、Shakespeare を「シェークスピア」、Thomas More を「トマス・モア」とした（「シェイクスピア」「リチャード三世史」とも書かれる）。brother は年上か年下か不明のため「兄（弟）」。q36・q37 も同じ
-- r-pre1-2021-2-q37：Cardinal Vincent Nichols, archbishop of Westminster を「ウェストミンスター大司教のヴィンセント・ニコルズ枢機卿」とした（「ビンセント」とも）
-- r-pre1-2021-2-q26：Nineveh「ニネベ」（「ニネヴェ」とも）、Sennacherib「センナケリブ」、Nebuchadnezzar II「ネブカドネザル2世」、Stephanie Dalley「ステファニー・ダリー」。q27・q28 も同じ
+- r-pre1-2021-2-q35：History of King Richard III を『リチャード3世史』、Shakespeare を「シェークスピア」、Thomas More を「トマス・モア」とした（「シェイクスピア」「リチャード三世史」とも書かれる）。brother は年上か年下か不明のため「兄（弟）」。q36・q37 も同じ→（シェイクスピアとも）（リチャード三世史とも）を併記済み
+- r-pre1-2021-2-q37：Cardinal Vincent Nichols, archbishop of Westminster を「ウェストミンスター大司教のヴィンセント・ニコルズ枢機卿」とした（「ビンセント」とも）→（ビンセントとも）を併記済み
+- r-pre1-2021-2-q26：Nineveh「ニネベ」（「ニネヴェ」とも）、Sennacherib「センナケリブ」、Nebuchadnezzar II「ネブカドネザル2世」、Stephanie Dalley「ステファニー・ダリー」。q27・q28 も同じ→（ニネヴェとも）を併記済み
 - r-pre1-2021-3-q41：正解2は、前半（ミイラ作りの工程が変化した）が本文の第4段落の要因の一つと一致する一方、後半の「so（だから）顔料の中身が一定でなかった」は、本文では little consistency が製造業者の違いの文で述べられているため、工程の変化との因果は直接は書かれていない。【考え方】ではその点を明記した。ほかの3つが本文にない内容なので2で一意に決まると判断したが、人の目で確認してほしい
 - r-pre1-2021-3-q15：more disappointed の比べる相手を「腹を立てた（angry）」と補って訳した（直前の was angry から本文の言葉どおり）。ほかの読み方（窓を割ったこと自体との比較）を取る場合は訳を見直す余地あり
 - r-pre1-2021-3-q29：operating speed method の「運行速度方式」は定訳が不明（「実勢速度方式」など別の言い方もありうる）。q29～q31 共通
@@ -256,12 +256,12 @@ checked=574 problems=0
 - r-pre1-2021-3-q35：作品名『エディ・コイルの友人たち』は仮の邦題（定着した邦題があるか未確認）。q35～q37 共通
 - r-pre1-2021-3-q38：bitumen「ビチューメン」（瀝青とも）、mummy brown「マミー・ブラウン」（冊子に読みなし）。q38～q41 共通
 - r-pre1-2022-1-q8：more affluent customers は「より多くの裕福な客」と読んだ。「より裕福な客」（比較）と読む余地もあるが、比べる相手が本文にないため前者にした。正解4には影響しない
-- r-pre1-2022-1-q18：Gaspar を「ガスパー」とした（「ガスパール」とも書く。冊子に読みなし）
+- r-pre1-2022-1-q18：Gaspar を「ガスパー」とした（「ガスパール」とも書く。冊子に読みなし）→（ガスパールとも）を併記済み
 - r-pre1-2022-1-q26：The Peter Principle を日本語で定着した「ピーターの法則」とした（q26～q28共通）
 - r-pre1-2022-1-q32：honey fungus を「ナラタケ」、toadstools を「毒キノコ」、fruiting bodies を「子実体」とした（q32～q34共通。「ナラタケ」は日本語の一般名で、オレゴンの菌の種の和名とは限らない可能性がある）
 - r-pre1-2022-1-q35：Damanhur を「ダマヌール」、Foundation for Intentional Communities を「意図的共同体財団」、back-to-the-land movement を「『土地へ帰れ』運動」、constitution を「憲章」とした（q35～q37共通）。Damanhur の読みは冊子にない
 - r-pre1-2022-1-q38：Indian emperor を「インドの皇帝」、"divide and rule" を「分割統治」とした（q38～q41共通）
-- r-pre1-2022-2-q2：人名 Jocelyn を「ジョスリン」とした（「ジョセリン」と書くこともある）。
+- r-pre1-2022-2-q2：人名 Jocelyn を「ジョスリン」とした（「ジョセリン」と書くこともある）。→（ジョセリンとも）を併記済み
 - r-pre1-2022-2-q26：Nabta Playa を「ナブタ・プラヤ」、England を「イングランド」、astrological map を原文どおり「占星術の地図」とした（本文はオリオン座の星の位置の話だが、原文の語を尊重した）。q26～q28 の本文全訳に共通。
 - r-pre1-2022-2-q29：The Gospel of Good Roads: A Letter to the American Farmer を『よい道路の福音（よい知らせ）――アメリカの農民への手紙』と訳した（定まった日本語題は未確認）。Ford Model T は「フォード・モデルT（T型フォード）」。q29～q31 の本文全訳に共通。
 - r-pre1-2022-2-q35：giant fruit bats を「オオコウモリ」、Musang King を「ムサンキング」とした。q35～q37 の本文全訳に共通。
@@ -271,15 +271,15 @@ checked=574 problems=0
 - r-pre1-2022-3-q38：Boston Line Type「ボストン・ライン・タイプ」、New York Point「ニューヨーク・ポイント」、the War of the Dots「点の戦争」は冊子に日本語表記がないため作成担当の訳。q39～q41 も同じ本文。
 - r-pre1-2022-3-q26：giant snakehead（ジャイアント・スネークヘッド）の説明「ライギョの仲間」は作成担当の知識による。q27・q28 も同じ本文。
 - r-pre1-2023-1-q3：presidential debate を「大統領選挙の討論会」と訳している（candidates・debate から。「大統領候補者の討論会」とも読める）
-- r-pre1-2023-1-q20：Pieter を「ピーター」としている（「ピーテル」とも書ける）
+- r-pre1-2023-1-q20：Pieter を「ピーター」としている（「ピーテル」とも書ける）→（ピーテルとも）を併記済み
 - r-pre1-2023-1-q29：The Thing の読み「ザ・シング」と、タイトル訳に添えた「（「例の物」という意味の呼び名）」。mosasaur の「モササウルス」は一般的な形
 - r-pre1-2023-1-q34：正解3は、本文で according to animal rights activists（動物の権利を守る活動家によれば）とされた内容を、選択肢では言い切っている。ほかの3つは本文と明らかに合わないので正解は一意だが、解説で触れた点を人の目で確認してほしい
 - r-pre1-2023-1-q36：正解3は、本文の rather than understanding the importance of gaining ～ と、Similarly で前の delay or prevent を受けた流れから読み取る推論の選択肢。解説では推論と明記した
-- r-pre1-2023-1-q38：人名のカタカナ（アレグザンダー3世は「アレクサンダー3世」とも、ジョン・ベイリャルは「ベイリオル」とも書く。ロバート・ザ・ブルースは「ロバート1世」と呼ばれることもある）。アーブロース宣言・ローマ教皇は一般的な形
+- r-pre1-2023-1-q38：人名のカタカナ（アレグザンダー3世は「アレクサンダー3世」とも、ジョン・ベイリャルは「ベイリオル」とも書く。ロバート・ザ・ブルースは「ロバート1世」と呼ばれることもある）。アーブロース宣言・ローマ教皇は一般的な形→（アレクサンダー3世とも）（ベイリオルとも）（ロバート1世とも）を併記済み
 - r-pre1-2023-1-q39：closest rival to the throne を「王位をめぐるいちばんのライバル」とした（「王位にいちばん近い（有力な）ライバル」とも読める）
-- q8：Enzo を「エンゾ」とした（イタリア語風なら「エンツォ」）。冊子に読みなし。
+- q8：Enzo を「エンゾ」とした（イタリア語風なら「エンツォ」）。冊子に読みなし。→（エンツォとも）を併記済み
 - q38：Gaius Marius を「ガイウス・マリウス」、Marian reforms を「マリウスの改革」（歴史の本では「マリウスの軍制改革」とも）、legionaries を「軍団兵」とした（reading38 全訳、q38～q41 共通）。
 - q40：provinces を「属州」、veterans を「退役兵」とした（reading38 全訳、q38～q41 共通）。
-- q41：Julius Caesar を日本語で定着している「ユリウス・カエサル」とした（英語読みでは「ジュリアス・シーザー」）（reading38 全訳、q38～q41 共通）。
+- q41：Julius Caesar を日本語で定着している「ユリウス・カエサル」とした（英語読みでは「ジュリアス・シーザー」）（reading38 全訳、q38～q41 共通）。→（ジュリアス・シーザーとも）を併記済み
 - q29：anting を「アンティング（蟻浴）」、ethology を「動物行動学」とした（cloze29 全訳、q29～q31 共通）。
 - q26：losing control over content を「内容を自分で決める力を失いつつある」とかみくだいた。画像の本文（stories を変えるしかないと感じる流れ）と照らして原文から離れていないと判断したが、表現として最終確認を推奨。

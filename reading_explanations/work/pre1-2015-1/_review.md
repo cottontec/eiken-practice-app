@@ -15,7 +15,7 @@
 - r-pre1-2015-1-q29：Hemlock Dam を「ヘムロック・ダム」、Trout Creek を「トラウト・クリーク」、U.S. Forest Service を「アメリカ森林局」とした（q30・q31 も同じ全訳）。
 - r-pre1-2015-1-q32：David Lusseau を「デビッド・ルソー」、Faxaflói Bay を「ファクサフロイ湾」、Doubtful Sound を「ダウトフル・サウンド」とした（q33・q34 も同じ全訳）。
 - r-pre1-2015-1-q35：展示名 Body Worlds を「ボディ・ワールド（Body Worlds）」とした。日本での表記が別にあれば合わせてほしい（q36・q37 も同じ全訳）。
-- r-pre1-2015-1-q36：Llullaillaco を「ユーヤイヤコ」とした。日本語での読みが複数ありうる（ジュジャイヤコ、リュリャイヤコなど）ので定着した表記があれば合わせてほしい。Rogelio Guanuco「ロヘリオ・グアヌコ」、Johan Reinhard「ヨハン・ラインハルト」（ヨハンはスイス系の読み、英語読みならジョアン）、The Indigenous Association of Argentina「アルゼンチン先住民協会」も確認してほしい。　→（ジュジャイヤコ、リュリャイヤコとも）（ジョアン・ラインハルトとも）を併記済み
+- r-pre1-2015-1-q36：Llullaillaco を「ユーヤイヤコ」とした。日本語での読みが複数ありうる（ジュジャイヤコ、リュリャイヤコなど）ので定着した表記があれば合わせてほしい。Rogelio Guanuco「ロヘリオ・グアヌコ」、Johan Reinhard「ヨハン・ラインハルト」（ヨハンはスイス系の読み、英語読みならジョアン）、The Indigenous Association of Argentina「アルゼンチン先住民協会」も確認してほしい。　→（ジュジャイヤコ、リュリャイヤコとも）を併記済み（「ジョアン」は日本で使われている表記ではないため、取りまとめ役の判断で併記しない）
 - r-pre1-2015-1-q38：National Commission on Excellence in Education を「教育の卓越性に関する国家委員会」とした。比較級の相手が明示されない With their weaker students を「比較的学力の低い生徒」、children who are less fortunate を「（その人たちより）恵まれない子どもたち」と訳した点も含めて確認してほしい（q39～q41 も同じ全訳）。
 - r-pre1-2015-1-q40：本文 one of the most important factors（最も重要な要因の一つ）と正解 show the most progress（最も伸びる）は完全に同じ意味ではない。他の選択肢との比較で3に決まるという書き方でよいか確認してほしい。
 - r-pre1-2015-1-q41：Deborah Appleman を「デボラ・アップルマン」、Carleton College を「カールトン大学」とした。
