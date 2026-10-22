@@ -17,7 +17,7 @@ answerText: They eat the worms that turn into mosquitoes.
 第2段落の3文目と4文目に Mosquitoes lay their eggs in water, and the eggs then turn into tiny worms that live in the water for one or two weeks. Some kinds of fish eat these worms, so introducing these fish into lakes and ponds can lead to fewer mosquitoes.（蚊は水の中に卵を産み、その卵はそれから小さな虫になって1、2週間水の中で暮らす。ある種類の魚はこれらの虫を食べるので、こうした魚を湖や池に放すと、蚊を減らすことにつながりうる）とあります。lay eggs は「卵を産む」、turn into ～ は「～になる」です。
 蚊の卵が小さな虫になり、その虫を魚が食べると蚊が減る、と書かれています。ここから、この虫は蚊になる前の姿だと考えられます。本文と選択肢は次のように対応しています。
 本文 Some kinds of fish eat these worms（ある種の魚はこれらの虫を食べる）＝ 選択肢 They eat the worms（その魚は虫を食べる）
-本文 the eggs then turn into tiny worms ... can lead to fewer mosquitoes（卵が虫になり、それを食べると蚊が減る）＝ 選択肢 the worms that turn into mosquitoes（蚊になる虫）
+本文 the eggs then turn into tiny worms ... can lead to fewer mosquitoes（卵が虫になり、それを食べると蚊が減る）→ 読み取れること：この虫はやがて蚊になる ＝ 選択肢 the worms that turn into mosquitoes（蚊になる虫）
 正解は1です。
 【ほかの選択肢】
 2 本文で卵を産むのは蚊のほうです。魚が蚊を殺すのに役立つ卵を産むという話は本文にありません。

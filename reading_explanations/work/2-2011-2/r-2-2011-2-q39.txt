@@ -2,7 +2,7 @@
 choices: Scientists were becoming concerned about acid rain. | People recognized that global warming was a real problem. | A gas that was not as harmful to the ozone layer was available. | They were being produced in only a few places around the world.
 answerText: A gas that was not as harmful to the ozone layer was available.
 ---
-【正解】3 A gas that was not as harmful to the ozone layer was available.（オゾン層にそれほど有害でない気体が手に入った。）
+【正解】3 A gas that was not as harmful to the ozone layer was available.（オゾン層に（CFCほど）有害でない気体が手に入った。）
 【和訳】
 ＜本文の全訳＞
 {{本文全訳}}
@@ -10,13 +10,14 @@ answerText: A gas that was not as harmful to the ozone layer was available.
 設問：CFCがこれほど速く禁止されることができた理由の1つは何でしたか。
 1 科学者たちが酸性雨を心配するようになっていた。
 2 人々が、地球温暖化が本当の問題だと気づいた。
-3 オゾン層にそれほど有害でない気体が手に入った。
+3 オゾン層に（CFCほど）有害でない気体が手に入った。
 4 CFCは世界の数か所でしかつくられていなかった。
 【考え方】
 すばやい対応の理由は、第3段落の1文目に there were two reasons why people responded so quickly to the danger（人々がその危険にこれほど速く対応したことには2つの理由があった）とあり、そのあとに2つの理由が書かれています。ここでの「速い対応」とは、第2段落に書かれている、CFCの使用を禁止する条約に各国がすばやく署名したことを指しています。
 1つ目は、危険が分かりやすかったことです。2つ目は The second reason was that it was easy to replace the CFCs with hydrochlorofluorocarbons (HCFCs), gases that do much less damage to the ozone layer.（2つ目の理由は、CFCを、オゾン層に与える害がずっと少ない気体であるHCFCに置きかえるのが簡単だったことだ）です。replace A with B は「AをBに置きかえる」です。
 CFCの代わりに使える、オゾン層への害がずっと少ない気体があったので、置きかえが簡単だった、ということです。本文と選択肢は次のように対応しています。
-本文 it was easy to replace the CFCs with ... gases that do much less damage to the ozone layer（オゾン層への害がずっと少ない気体に置きかえるのが簡単だった）＝ 選択肢 A gas that was not as harmful to the ozone layer was available（オゾン層にそれほど有害でない気体が手に入った）
+本文 it was easy to replace the CFCs with ... gases that do much less damage to the ozone layer（オゾン層への害がずっと少ない気体に置きかえるのが簡単だった）＝ 選択肢 A gas that was not as harmful to the ozone layer was available（オゾン層に（CFCほど）有害でない気体が手に入った）
+選択肢の not as harmful は、うしろに as CFCs（CFCほど）が省かれた比べる言い方です。本文の much less damage（ずっと少ない害）も、CFCと比べて害が少ないという意味なので、2つは同じことを表しています。
 available は「手に入る、利用できる」という意味です。正解は3です。
 【ほかの選択肢】
 1 酸性雨は、本文ではHCFCの問題として出てきます。HCFCが酸性雨の大きな要因になっているかもしれない、という話で、CFCがすばやく禁止された理由ではありません。
@@ -24,4 +25,4 @@ available は「手に入る、利用できる」という意味です。正解�
 4 本文には、CFCは were widely used in machines such as air conditioners and refrigerators（エアコンや冷蔵庫などの機械で広く使われていた）とあります。数か所でしかつくられていなかったという話は本文にありません。
 【覚えるポイント】
 ・replace A with B：「AをBに置きかえる」。
-・not as ～：「それほど～ではない」。not as harmful で「それほど有害ではない」。
+・not as ～ (as ...)：「（…ほど）～ではない」。not as harmful で「（比べる相手ほど）有害ではない」。

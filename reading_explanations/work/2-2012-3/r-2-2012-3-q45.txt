@@ -1,0 +1,29 @@
+---
+choices: Naleds do not melt completely during the summer if they are thick enough. | Mongolia's soil has not been greatly affected by the changes in the climate. | Grayson's project has already been tried out in a number of other countries. | Winters have gradually become much colder in Mongolia over the past few decades.
+answerText: Naleds do not melt completely during the summer if they are thick enough.
+---
+【正解】1 Naleds do not melt completely during the summer if they are thick enough.（ナレドは、十分に厚ければ、夏の間に完全にはとけない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：次の記述のうち正しいものはどれですか。
+1 ナレドは、十分に厚ければ、夏の間に完全にはとけない。
+2 モンゴルの土は、気候の変化によって大きな影響を受けていない。
+3 グレイソンさんの計画は、すでにほかのいくつもの国で試されている。
+4 モンゴルの冬は、ここ数十年でしだいにずっと寒くなってきた。
+【考え方】
+選択肢を1つずつ本文と照らし合わせます。
+1は第4段落の In this way, naleds can be created that are so thick they last the whole summer.（このようにして、夏の間ずっと残るほど厚いナレドを作ることができる）と合います。so ～ (that) … は「とても～なので…」という意味で、ここでは「夏じゅう残るほど厚い」となります。last は「続く、もつ」という意味の動詞です。
+夏じゅう残るということは、夏の間に完全にはとけてしまわないということです。
+本文と選択肢は次のように対応しています。
+本文 so thick（とても厚い）＝ 選択肢 if they are thick enough（十分に厚ければ）
+本文 they last the whole summer（夏の間ずっと残る）＝ 選択肢 do not melt completely during the summer（夏の間に完全にはとけない）
+正解は1です。
+【ほかの選択肢】
+2 第2段落に the higher temperatures caused by global warming dry out the soil, making it hard for the grass to grow（地球温暖化で高くなった気温が土を乾かし、草が育ちにくくなる）とあります。土は大きな影響を受けているので、本文と反対です。
+3 第4段落に The group's first project is to create a naled near the capital, Ulan Bator.（このグループの最初の計画は、首都ウランバートルの近くにナレドを作ることだ）とあり、ほかの地域については in the future（将来）取り入れる可能性が高い、と書かれているだけです。すでにほかの国で試されたとは書かれていません。
+4 第1段落に the average temperature has been steadily rising for the last 60 years（平均気温はこの60年間、着実に上がり続けている）とあります。冬が寒くなってきたという話ではなく、反対です。
+【覚えるポイント】
+・last：動詞で「続く、もつ」。last the whole summer で「夏の間ずっともつ」です。
+・so ～ (that) …：「とても～なので…」「…するほど～」。that が省かれることもあります。
