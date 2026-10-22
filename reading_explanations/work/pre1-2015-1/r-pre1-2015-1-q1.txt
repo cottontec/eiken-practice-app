@@ -1,0 +1,31 @@
+---
+choices: predators | contenders | ancestors | peasants
+answerText: predators
+---
+【正解】1 predators（捕食者、ほかの動物をつかまえて食べる動物）
+【和訳】
+（英文）
+Although most sharks are ［predators］, they rarely attack humans. When they do, it is usually because they have mistaken a person for a marine animal.
+（訳）
+ほとんどのサメは（捕食者）だが、人間を襲うことはめったにない。襲うときは、たいてい人を海の動物とまちがえたからである。
+（選択肢の意味）
+1 predator：捕食者（ほかの動物をつかまえて食べる動物）
+2 contender：（優勝などを争う）競争相手、候補者
+3 ancestor：祖先、先祖
+4 peasant：（昔の）小作農、農民
+【考え方】
+まず見るところ：文の初めの Although と、そのあとの they rarely attack humans
+空所のある部分は、次のようになっています。
+Although most sharks are (　), they rarely attack humans.（ほとんどのサメは（　）だが、人間を襲うことはめったにない）
+Although は「～だけれども」という意味で、前と後ろで反対の向きの内容をつなぎます。
+後ろは「人間を襲うことはめったにない」です。ですから前には、「襲いそうだ」と思わせる内容が入ると考えられます。
+predator は「捕食者（ほかの動物をつかまえて食べる動物）」です。「サメは獲物を襲って食べる動物だが、人間はめったに襲わない」となり、Although の前後が反対の向きになります。
+次の文の When they do（襲うときは）も、サメが「襲う」動物であることを前提にしています。ですから1が正解です。
+この問題の型：対比（Although 獲物を襲う動物 ⇔ 人間はめったに襲わない）
+【ほかの選択肢】
+2 contender は「（優勝などを争う）競争相手」です。「サメは競争相手だが、人間を襲うことはめったにない」となり、何の競争なのかも分からず、Although の前後が反対の向きになりません。
+3 ancestor は「祖先、先祖」です。「サメは祖先だが」では何の祖先なのか分からず、「人間を襲わない」とのつながりもありません。
+4 peasant は「（昔の）小作農、農民」で、人について使う語です。サメには合いません。
+【覚えるポイント】
+・predator：「捕食者（ほかの動物をつかまえて食べる動物）」。サメのほか、ライオンやワシなども捕食者です。
+・Although があるときは、後ろの内容と反対の向きになる語を選ぶと考えます。ここでは「めったに襲わない」の反対で「襲う動物」を探すことが手がかりになります。

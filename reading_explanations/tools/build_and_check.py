@@ -61,6 +61,8 @@ def check_batch(src_root, part, batch_id):
     orders = {}
     selfsolve = {}
     ssp = wdir / '_selfsolve.tsv'
+    if not ssp.exists():
+        ssp = HERE / 'selfsolve' / f'{batch_id}.tsv'
     if ssp.exists():
         for line in ssp.read_text('utf-8-sig').splitlines():
             parts = line.strip().split('\t')

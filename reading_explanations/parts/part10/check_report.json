@@ -11,8 +11,8 @@
   "pre1-2014-2": {
     "stats": {
       "target": 41,
-      "written": 25,
-      "missing": 16
+      "written": 31,
+      "missing": 10
     },
     "errors": [],
     "warnings": []
@@ -20,7 +20,8 @@
   "pre1-2014-3": {
     "stats": {
       "target": 41,
-      "missing": 41
+      "written": 31,
+      "missing": 10
     },
     "errors": [],
     "warnings": []
@@ -28,7 +29,8 @@
   "pre1-2015-1": {
     "stats": {
       "target": 41,
-      "missing": 41
+      "written": 5,
+      "missing": 36
     },
     "errors": [],
     "warnings": []
@@ -36,7 +38,8 @@
   "pre1-2015-2": {
     "stats": {
       "target": 41,
-      "missing": 41
+      "written": 18,
+      "missing": 23
     },
     "errors": [],
     "warnings": []
@@ -44,7 +47,8 @@
   "pre1-2015-3": {
     "stats": {
       "target": 41,
-      "missing": 41
+      "written": 5,
+      "missing": 36
     },
     "errors": [],
     "warnings": []
@@ -52,7 +56,8 @@
   "pre1-2016-1": {
     "stats": {
       "target": 41,
-      "missing": 41
+      "written": 14,
+      "missing": 27
     },
     "errors": [],
     "warnings": []

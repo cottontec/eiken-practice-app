@@ -1,0 +1,28 @@
+---
+choices: flap | dock | scratch | bid
+answerText: bid
+---
+【正解】4 bid（試み、努力）
+【和訳】
+（英文）
+The man's ［bid］ to set a speed record for crossing the Atlantic Ocean failed when his yacht was badly damaged in severe weather.
+（訳）
+大西洋を横断する速さの記録を打ち立てようとしたその男性の（試み）は、彼のヨットが悪天候でひどく壊れたときに失敗に終わった。
+（選択肢の意味）
+1 flap：（旗などの）はためき；垂れぶた
+2 dock：波止場、船着き場
+3 scratch：ひっかき傷
+4 bid：試み、努力；（競売での）値段の申し出
+【考え方】
+まず見るところ：空所のあとの to set a speed record と、動詞の failed
+この文の主語は The man's (　) to set a speed record for crossing the Atlantic Ocean（大西洋を横断する速さの記録を打ち立てるための、その男性の（　））で、動詞は failed（失敗した）です。
+set a record は「記録を打ち立てる」です。空所の名詞は、to set a speed record（速さの記録を打ち立てること）と結びつき、しかも「失敗する」ことのできるものだと分かります。
+bid は「（何かをしようとする）試み、努力」という意味で、a bid to do で「～しようとする試み」となります。「記録を打ち立てようとする試みは、ヨットがひどく壊れたときに失敗した」となり、意味が通ります。ですから4が正解です。
+この問題の型：熟語・決まった形（a bid to do）
+【ほかの選択肢】
+1 flap は「はためき、垂れぶた」です。「記録を打ち立てるための男性のはためきが失敗した」となり、意味が通りません。
+2 dock は「波止場、船着き場」です。ヨットの話ではありますが、「波止場が失敗した」とは言えず、to set a speed record ともつながりません。
+3 scratch は「ひっかき傷」です。ヨットの傷を思わせますが、「記録を打ち立てるためのひっかき傷が失敗した」では意味が通りません。
+【覚えるポイント】
+・a bid to do：「～しようとする試み」。bid には「（競売で）値段をつけること」の意味もあります。
+・主語の名詞のあとに to do が続き、動詞が failed（失敗した）のときは、「試み、努力」のような意味の名詞が入る手がかりになります。

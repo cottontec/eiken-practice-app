@@ -1,0 +1,29 @@
+---
+choices: refugee | tenant | minor | bachelor
+answerText: minor
+---
+【正解】3 minor（未成年者）
+【和訳】
+（英文）
+A ［minor］ who is found guilty of a very serious crime can sometimes receive the same punishment as an adult.
+（訳）
+とても重大な罪で有罪とされた（未成年者）は、大人と同じ罰を受けることもある。
+（選択肢の意味）
+1 refugee：難民（戦争などで自分の国から逃げてきた人）
+2 tenant：（家や部屋を）借りている人、テナント
+3 minor：未成年者
+4 bachelor：独身の男性；学士（大学を卒業した人の資格）
+【考え方】
+まず見るところ：文の最後の the same punishment as an adult
+文の後半は、次のようになっています。
+can sometimes receive the same punishment as an adult（大人と同じ罰を受けることもある）
+the same ～ as … は「…と同じ～」、punishment は「罰」です。「大人と同じ罰を受けることもある」と言うのですから、主語はふつうは大人と同じ扱いを受けない人、つまり大人ではない人だと考えられます。
+空所のあとの who is found guilty of a very serious crime は「とても重大な罪で有罪とされた」という意味で、空所の人を説明しています。minor は名詞で「未成年者（まだ大人の年齢になっていない人）」という意味なので、「重大な罪で有罪になった未成年者は、大人と同じ罰を受けることもある」となります。ですから3が正解です。
+この問題の型：対比（未成年者⇔大人）
+【ほかの選択肢】
+1 refugee は「難民」です。難民であるかどうかは大人かどうかとは関係がないので、「大人と同じ罰を受けることもある」と大人と比べる言い方と結びつきません。
+2 tenant は「借りている人」です。家を借りている人であることは、大人と同じ罰を受けるかどうかとは関係がありません。
+4 bachelor は「独身の男性」です。独身かどうかは、大人と比べる話とは関係がなく、文の意味が通りません。
+【覚えるポイント】
+・minor：形容詞では「小さいほうの、重要でない」ですが、名詞では「未成年者」の意味があります。
+・the same ～ as an adult（大人と同じ～）のように比べる相手が書かれているときは、その相手と対になる語（ここでは未成年者）を選ぶ手がかりになります。

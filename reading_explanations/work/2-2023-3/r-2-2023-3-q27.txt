@@ -18,7 +18,7 @@ Here in the IT department, we'll be sending two employees to the West University
 IT部門の2人の社員が、ピーターズバーグにある大学のフェアに行くことが分かります。
 本文と選択肢を対にすると、次のようになります。
 本文 two employees（2人の社員）＝ 選択肢 Some employees（何人かの社員）
-本文 we'll be sending ～ to the West University Career Fair（ウェスト大学キャリアフェアに送る予定だ）＝ 選択肢 will take part in an event at a university（大学での催しに参加する）
+本文 we'll be sending ～ to the West University Career Fair（ウェスト大学キャリアフェアに送る予定だ）→ 選択肢 will take part in an event at a university（大学での催しに参加する）。送られた社員は、そのフェアに参加すると読み取れます
 本文 in Petersburg ＝ 選択肢 in Petersburg
 フェア（Career Fair）が、選択肢では an event（催し）と言いかえられています。ですから3が正解です。
 この問題の型：言いかえ（Career Fair → an event）

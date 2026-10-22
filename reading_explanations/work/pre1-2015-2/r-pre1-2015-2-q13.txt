@@ -1,0 +1,31 @@
+---
+choices: joint | rash | bare | blurry
+answerText: rash
+---
+【正解】2 rash（軽はずみな、早まった）
+【和訳】
+（英文）
+When Jody married her boyfriend just weeks after meeting him, her friends felt she had made a ［rash］ decision. They thought she should have gotten to know him better first.
+（訳）
+ジョディが恋人と出会ってほんの数週間で結婚したとき、友人たちは、彼女が（軽はずみな）決断をしたと感じた。友人たちは、彼女はまず彼のことをもっとよく知るべきだったと思った。
+（選択肢の意味）
+1 joint：共同の、合同の
+2 rash：軽はずみな、早まった（よく考えずに急いで行う）
+3 bare：むき出しの；ぎりぎりの、最低限の
+4 blurry：ぼやけた、はっきりしない
+【考え方】
+まず見るところ：文の初めの just weeks after meeting him と、2文目の should have gotten to know him better first
+文の初めを見ます。
+When Jody married her boyfriend just weeks after meeting him（ジョディが恋人と出会ってほんの数週間で結婚したとき）
+just weeks は「ほんの数週間」で、結婚までの期間がとても短かったことを表しています。
+次に、2文目を見ます。
+They thought she should have gotten to know him better first.（友人たちは、彼女はまず彼のことをもっとよく知るべきだったと思った）
+should have ＋過去分詞（have のあとに置く、動詞の変化した形）は「～すべきだった（のに、しなかった）」です。友人たちは、ジョディがよく考えずに急いで結婚を決めたと思っているのです。rash は「軽はずみな、早まった」なので、2が正解です。
+この問題の型：語の意味・組み合わせ（a rash decision）
+【ほかの選択肢】
+1 joint は「共同の」で、a joint decision は「共同で行った決定」です。結婚は二人で決めたことかもしれませんが、この文で友人たちが問題にしているのは決め方の早さです。「もっとよく知るべきだった」という2文目とつながりません。
+3 bare は「むき出しの」や「最低限の」です。「むき出しの決断」では意味が通らず、2文目の内容とも合いません。
+4 blurry は「ぼやけた」で、写真や見え方などに使う語です。結婚までの期間が短すぎたという話とは結びつきません。
+【覚えるポイント】
+・a rash decision：「軽はずみな決断、早まった決定」。
+・should have ＋過去分詞（～すべきだった）は、話し手がその行動を「よくなかった」と思っていることを表すので、空所の語がよい意味か悪い意味かを決める手がかりになります。

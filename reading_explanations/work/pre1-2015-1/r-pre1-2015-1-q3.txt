@@ -1,0 +1,31 @@
+---
+choices: inhibited | assessed | multiplied | deflated
+answerText: assessed
+---
+【正解】2 assessed（評価された、価値を見積もられた）
+【和訳】
+（英文）
+Margaret's grandfather left her an old vase when he died. She had its value ［assessed］ by an antique dealer and was surprised to hear it was worth over $5,000.
+（訳）
+マーガレットの祖父は、亡くなったときに彼女に古い花びんを残した。彼女は骨董品の業者にその価値を（評価して）もらい、それが5,000ドル以上の値打ちがあると聞いて驚いた。
+（選択肢の意味）
+1 inhibit：～を抑える、さまたげる
+2 assess：～を評価する、（価値などを）見積もる
+3 multiply：～を何倍にも増やす、かけ算する
+4 deflate：（空気を）抜く、～をしぼませる
+【考え方】
+まず見るところ：文の後半の was surprised to hear it was worth over $5,000
+空所のある部分は She had its value (　) by an antique dealer です。
+have＋もの＋過去分詞（-ed の形）で「（人に）～を…してもらう」という意味になります。by an antique dealer は「骨董品の業者によって」です。骨董品とは、値打ちのある古い道具や美術品のことです。
+つまり「骨董品の業者に、花びんの価値を（　）してもらった」という文です。
+そのあとを見ます。
+was surprised to hear it was worth over $5,000（それが5,000ドル以上の値打ちがあると聞いて驚いた）
+業者から値打ちを聞いているので、業者は花びんの価値を「見積もった」と考えられます。assess は「～を評価する、（価値を）見積もる」なので、2が正解です。
+この問題の型：文法（have＋もの＋過去分詞）／語の意味・組み合わせ（assess its value）
+【ほかの選択肢】
+1 inhibited（抑えられた）を入れると、「業者に花びんの価値を抑えてもらった」となります。値打ちを聞いて驚いたという後半とつながりません。
+3 multiplied（何倍にも増やされた）を入れると、「業者に価値を何倍にもしてもらった」となります。業者は花びんを見るだけで、価値そのものを増やすことはできず、意味が通りません。
+4 deflated（しぼませられた）は、ふつう空気を抜くことや、自信・物価などを下げることに使います。「業者に価値をしぼませてもらった」では、5,000ドル以上と聞いて驚いた話と合いません。
+【覚えるポイント】
+・assess：「～を評価する、（価値や程度を）見積もる」。have ～ assessed で「～を評価してもらう」。
+・have＋もの＋過去分詞の形では、「だれに何をしてもらったか」を確かめ、その人（ここでは骨董品の業者）がふつうすることを表す語を選ぶことが手がかりになります。

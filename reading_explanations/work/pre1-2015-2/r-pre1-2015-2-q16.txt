@@ -1,0 +1,31 @@
+---
+choices: tuition | coalition | evacuation | starvation
+answerText: evacuation
+---
+【正解】3 evacuation（避難）
+【和訳】
+（英文）
+When it became clear that the hurricane would hit the coastal village, officials ordered the immediate ［evacuation］ of all residents to areas further inland.
+（訳）
+ハリケーンがその海沿いの村を襲うことがはっきりしたとき、当局の人たちは、住民全員をより内陸の地域へただちに（避難）させるよう命じた。
+（選択肢の意味）
+1 tuition：授業料
+2 coalition：連合、連立（いくつかのグループが手を組むこと）
+3 evacuation：避難（危険な場所から安全な場所へ移ること）
+4 starvation：飢え、餓死（食べ物がなくて死ぬこと）
+【考え方】
+まず見るところ：文の初めの the hurricane would hit the coastal village と、文の最後の to areas further inland
+文の初めを見ます。
+When it became clear that the hurricane would hit the coastal village（ハリケーンがその海沿いの村を襲うことがはっきりしたとき）
+coastal は「海岸の、海沿いの」です。村に危険がせまっている場面です。
+文の最後も見ます。
+of all residents to areas further inland（住民全員の、より内陸の地域への）
+residents は「住民」、further inland は「さらに内陸の（海から遠い）」です。危険な海沿いの村から、住民全員を海から離れた場所へ移すことを命じたと分かります。evacuation は「避難」なので、3が正解です。
+この問題の型：語の意味・組み合わせ（the evacuation of A to B：AのBへの避難）
+【ほかの選択肢】
+1 tuition は「授業料」です。「住民全員の内陸への授業料」では意味が通りません。
+2 coalition は「連合、連立」です。「住民全員の内陸への連合をただちに命じた」では、ハリケーンから身を守るという場面に合いません。
+4 starvation は「飢え、餓死」です。当局が住民の飢えを命じることはなく、to areas further inland（より内陸の地域へ）ともつながりません。
+【覚えるポイント】
+・evacuation：「避難」。動詞は evacuate（避難させる）。
+・空所のあとに to ～（～へ）のように行き先を表す語句が続くときは、「移動」を表す名詞が入る手がかりになります。

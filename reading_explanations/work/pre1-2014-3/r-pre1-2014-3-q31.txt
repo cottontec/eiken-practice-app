@@ -1,0 +1,30 @@
+---
+choices: may explain a phenomenon | were used to protect wolves | could not be repeated | helped scientists locate sparrows
+answerText: may explain a phenomenon
+---
+【正解】1 may explain a phenomenon（ある現象を説明するかもしれない）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 may explain a phenomenon（ある現象を説明するかもしれない）
+2 were used to protect wolves（オオカミを守るために使われた）
+3 could not be repeated（くり返すことができなかった）
+4 helped scientists locate sparrows（科学者がスズメの居場所を見つけるのに役立った）
+【考え方】
+まず見るところ：第3段落の最後の Zanette suspects that the elk, like the sparrows, responded to the threat of predators ～
+空所の文は次のとおりです。
+These findings ( 31 ) in Yellowstone National Park in the United States.（これらの発見は、アメリカのイエローストーン国立公園で〇〇）
+These findings（これらの発見）は、第1・第2段落のスズメの実験の結果を指しています。そのあと、イエローストーン国立公園でのできごとが書かれています。オオカミが公園にふたたび放されたあと、エルク（大型のシカの一種）の数が50パーセント減りました。
+This decline was too big to have resulted from hunting by wolves.（この減少は、オオカミによる狩りの結果だと考えるには大きすぎた）
+オオカミに食べられただけでは説明できない、ふしぎな減り方だったのです。そこで、ザネットは次のように考えています。
+Zanette suspects that the elk, like the sparrows, responded to the threat of predators by limiting their movements, consuming less food, and raising fewer young.（ザネットは、エルクもスズメと同じように、動き回るのを控え、食べる量を減らし、育てる子を減らすことで、捕食者の脅威に反応したのではないかと考えている）
+スズメの実験の結果を使えば、エルクの大きな減少という現象を説明できるかもしれない、ということです。suspect（～ではないかと思う）とあるので、確かな説明ではなく「かもしれない」という言い方の1がぴったり合います。phenomenon は「現象（実際に起きているできごと）」という意味です。よって1が正解です。
+この問題の型：指示語（These findings ＝スズメの実験の結果）と推論
+【ほかの選択肢】
+2 「オオカミを守るために使われた」は本文にありません。オオカミは公園にふたたび放されたと書かれていますが、スズメの実験の結果がオオカミを守るのに使われたという話はありません。
+3 「くり返すことができなかった」も本文にありません。イエローストーン国立公園で同じ実験をくり返したという話はなく、ザネットはむしろエルクにも同じことが起きたのではないかと考えています。
+4 「科学者がスズメの居場所を見つけるのに役立った」は、第3段落の内容と合いません。第3段落はイエローストーン国立公園のエルクの話で、スズメの居場所を探す話ではありません。
+【覚えるポイント】
+・phenomenon：「現象」。too ～ to have resulted from ...：「…の結果だとするには～すぎる」。
+・These findings（これらの発見）のような指示語で始まる段落の空所では、そのあとの例が前の発見とどうつながるかを読むのが手がかりになります。
