@@ -1,6 +1,7 @@
 ---
 choices: By using solar panels to make electricity from sunlight. | By heating water to make steam that will turn turbines. | By sending hot water from the Sahara Desert to Europe. | By connecting Africa's power system with the one in California.
 answerText: By heating water to make steam that will turn turbines.
+reviewed: yes
 ---
 【正解】2 By heating water to make steam that will turn turbines.（水を熱して、タービンを回す蒸気を作ることによって。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: comes down | looks up | jumps up | stands out
 answerText: looks up
+reviewed: yes
 ---
 【正解】2 looks up（look up to ～ で「～を尊敬する」）
 【和訳】

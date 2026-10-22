@@ -1,6 +1,7 @@
 ---
 choices: applied | applying | to apply | apply
 answerText: applying
+reviewed: yes
 ---
 【正解】2 applying（apply「応募する」の ing 形）
 【和訳】

@@ -2,6 +2,7 @@
 choices: seemed | to | lost | have | he
 answerText: have
 order: 5 1 2 4 3
+reviewed: yes
 ---
 【正解】4 have（この問題の4番目）
 【完成文】

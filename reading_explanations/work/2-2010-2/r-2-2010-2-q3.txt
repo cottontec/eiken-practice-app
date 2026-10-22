@@ -1,6 +1,7 @@
 ---
 choices: miniature | physical | thoughtful | financial
 answerText: physical
+reviewed: yes
 ---
 【正解】2 physical（体の、身体を使う）
 【和訳】

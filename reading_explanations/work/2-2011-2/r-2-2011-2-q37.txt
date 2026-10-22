@@ -1,0 +1,29 @@
+---
+choices: helps preserve the oxygen necessary for life. | protects us from rays that can cause serious diseases. | allows us to calculate the amount of pollution in the air. | stops the earth's atmosphere from being damaged by the sun.
+answerText: protects us from rays that can cause serious diseases.
+---
+【正解】2 protects us from rays that can cause serious diseases.（重い病気を引き起こしうる光線から私たちを守る。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：オゾン層は（　　）ので大切である。
+1 生命に必要な酸素を保つのを助ける
+2 重い病気を引き起こしうる光線から私たちを守る
+3 空気中の汚染の量を計算できるようにしてくれる
+4 地球の大気が太陽によって傷つけられるのを防ぐ
+【考え方】
+オゾン層が大切な理由は、第1段落の4文目と5文目に書かれています。
+The ozone layer is essential to life on our planet because it protects us from harmful ultraviolet rays produced by the sun.（オゾン層は、太陽が出す有害な紫外線から私たちを守るので、私たちの惑星の生命にとって欠かせない）とあります。essential は「欠かせない、とても大切な」、ultraviolet rays は「紫外線」です。
+続けて Without the ozone layer, these rays would cause cancer and other diseases in both human beings and animals.（オゾン層がなければ、これらの光線は人間と動物の両方に、がんやほかの病気を引き起こすだろう）とあります。
+つまり、オゾン層は、がんなどの病気のもとになる紫外線から私たちを守っているので大切なのです。本文と選択肢は次のように対応しています。
+本文 essential（欠かせない）＝ 設問 important（大切な）
+本文 protects us from harmful ultraviolet rays ... these rays would cause cancer and other diseases（有害な紫外線から守る。これらの光線はがんやほかの病気を引き起こす）＝ 選択肢 protects us from rays that can cause serious diseases（重い病気を引き起こしうる光線から守る）
+正解は2です。
+【ほかの選択肢】
+1 本文には、オゾンは酸素からつくられる気体だとありますが、オゾン層が酸素を保つのを助けるとは書かれていません。
+3 オゾン層を使って空気中の汚染の量を計算する、という話は本文にありません。
+4 本文でオゾン層が守っているのは、紫外線から「私たち（人間や動物）」です。地球の大気が太陽に傷つけられるのを防ぐとは書かれていないので、守る相手がちがいます。
+【覚えるポイント】
+・protect A from B：「AをBから守る」。
+・essential to ～：「～にとって欠かせない」。

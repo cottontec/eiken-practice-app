@@ -2,6 +2,7 @@
 choices: cases | to | needs | he | where
 answerText: where
 order: 1 5 4 3 2
+reviewed: yes
 ---
 【正解】5 where（この問題の2番目）
 【完成文】

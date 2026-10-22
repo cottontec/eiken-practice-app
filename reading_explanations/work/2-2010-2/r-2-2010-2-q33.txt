@@ -1,6 +1,7 @@
 ---
 choices: decorations | combinations | benefits | opportunities
 answerText: benefits
+reviewed: yes
 ---
 【正解】3 benefits（利点、よい点）
 【和訳】

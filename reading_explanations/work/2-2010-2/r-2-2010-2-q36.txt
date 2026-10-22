@@ -1,6 +1,7 @@
 ---
 choices: inform her of his decision before November 16. | spend four days deciding who should win the contest. | predict how many people will come to the awards ceremony. | keep the names of the winners a secret until November 20.
 answerText: keep the names of the winners a secret until November 20.
+reviewed: yes
 ---
 【正解】4 keep the names of the winners a secret until November 20.（11月20日まで入賞者の名前を秘密にしておく。）
 【和訳】

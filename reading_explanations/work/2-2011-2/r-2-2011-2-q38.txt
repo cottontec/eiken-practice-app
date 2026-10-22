@@ -1,0 +1,28 @@
+---
+choices: It forced governments to do more research on the ozone layer. | It provided data showing that CFCs created the ozone hole. | It attracted attention to the damage being done to nature. | It was agreed to by more countries than any other treaty.
+answerText: It was agreed to by more countries than any other treaty.
+---
+【正解】4 It was agreed to by more countries than any other treaty.（ほかのどの条約よりも多くの国に同意された。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：モントリオール議定書が、環境保護運動にとって大きな成功と見なされたのはなぜですか。
+1 各国の政府に、オゾン層についてもっと研究するよう強いたから。
+2 CFCがオゾンホールをつくったことを示すデータを提供したから。
+3 自然に与えられている害に注目を集めたから。
+4 ほかのどの条約よりも多くの国に同意されたから。
+【考え方】
+モントリオール議定書については、第2段落に書かれています。
+まず段落の最後の文に Persuading the international community to adopt the Montreal Protocol was considered to be a great achievement for the environmental movement.（国際社会を説得してモントリオール議定書を採用させたことは、環境保護運動にとって大きな成果だと考えられた）とあります。persuade は「説得する」、adopt は「採用する」、achievement は「成果、なしとげたこと」です。設問の a great success（大きな成功）は、この a great achievement の言いかえです。
+大きな成果とされたのは「国際社会に採用させたこと」です。どれくらい多くの国が採用したかは、その少し前に書かれています。Eventually, this treaty was signed by every member country of the United Nations—the only treaty ever to be signed by so many nations.（最終的に、この条約は国連のすべての加盟国によって署名された。これほど多くの国に署名された唯一の条約である）とあります。treaty は「条約（国と国との約束）」です。
+「これほど多くの国に署名された唯一の条約」ということは、ほかのどの条約よりも多くの国が同意したということです。本文と選択肢は次のように対応しています。
+本文 the only treaty ever to be signed by so many nations（これほど多くの国に署名された唯一の条約）＝ 選択肢 It was agreed to by more countries than any other treaty（ほかのどの条約よりも多くの国に同意された）
+正解は4です。
+【ほかの選択肢】
+1 条約によって政府がオゾン層の研究をもっとしなければならなくなった、という話は本文にありません。条約が禁止したのは、CFCという気体の使用です。
+2 CFCがオゾンホールをつくったことを示したのは、Data showed that ～（データが示した）とあるように、条約ができる前のデータです。条約がデータを提供したわけではありません。
+3 本文で世界に衝撃を与えたのは、科学者たちがオゾンホールの発見を発表したことです。条約が自然への害に注目を集めたから成功とされた、とは書かれていません。
+【覚えるポイント】
+・treaty：「条約（国と国との約束）」。sign a treaty で「条約に署名する」。
+・the only ～ ever to ...：「…した唯一の～」。「ほかのどれよりも」という意味につながります。

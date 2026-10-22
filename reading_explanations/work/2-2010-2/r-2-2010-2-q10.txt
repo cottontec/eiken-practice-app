@@ -1,6 +1,7 @@
 ---
 choices: bond | chip | trial | layer
 answerText: bond
+reviewed: yes
 ---
 【正解】1 bond（きずな、結びつき）
 【和訳】

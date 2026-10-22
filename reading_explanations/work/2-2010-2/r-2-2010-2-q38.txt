@@ -1,6 +1,7 @@
 ---
 choices: By donating machines for treating cataracts to many countries around the world. | By developing equipment that lets veterinarians treat animals without leaving their hospitals. | By inventing a special lens that changes size after it is put in the animal's eye. | By creating artificial lenses that can be used by a variety of different animals.
 answerText: By creating artificial lenses that can be used by a variety of different animals.
+reviewed: yes
 ---
 【正解】4 By creating artificial lenses that can be used by a variety of different animals.（さまざまな種類の動物に使える人工のレンズを作ることによって。）
 【和訳】

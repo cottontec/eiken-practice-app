@@ -1,6 +1,7 @@
 ---
 choices: Solar panels can heat larger quantities of water. | Solar panels are able to produce much more energy. | Solar power stations are more common in Europe. | Solar power stations continue to work after dark.
 answerText: Solar power stations continue to work after dark.
+reviewed: yes
 ---
 【正解】4 Solar power stations continue to work after dark.（太陽熱発電所は暗くなったあとも動き続ける。）
 【和訳】

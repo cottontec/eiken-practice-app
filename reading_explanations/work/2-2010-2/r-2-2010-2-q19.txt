@@ -1,6 +1,7 @@
 ---
 choices: he would know | was he knowing | did he know | he has known
 answerText: did he know
+reviewed: yes
 ---
 【正解】3 did he know（Little did he know that ～ で「～とは少しも知らなかった」）
 【和訳】

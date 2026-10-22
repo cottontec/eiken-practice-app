@@ -1,6 +1,7 @@
 ---
 choices: reasonable | limited | unstable | private
 answerText: limited
+reviewed: yes
 ---
 【正解】2 limited（限られた）
 【和訳】

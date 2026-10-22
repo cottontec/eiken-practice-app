@@ -1,6 +1,7 @@
 ---
 choices: expensive | uneasy | good-looking | old-fashioned
 answerText: old-fashioned
+reviewed: yes
 ---
 【正解】4 old-fashioned（昔ふうの、旧式の）
 【和訳】

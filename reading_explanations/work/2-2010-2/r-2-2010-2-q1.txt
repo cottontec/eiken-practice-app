@@ -1,6 +1,7 @@
 ---
 choices: traced | piled | spilled | waved
 answerText: spilled
+reviewed: yes
 ---
 【正解】3 spilled（spill「～をこぼす」の過去形）
 【和訳】

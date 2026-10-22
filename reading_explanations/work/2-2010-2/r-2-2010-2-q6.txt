@@ -1,6 +1,7 @@
 ---
 choices: investigating | sponsoring | assisting | reversing
 answerText: investigating
+reviewed: yes
 ---
 【正解】1 investigating（investigate「～を調査する」の ing 形）
 【和訳】

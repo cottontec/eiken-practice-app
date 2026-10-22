@@ -1,6 +1,7 @@
 ---
 choices: has made it possible to help animals that previously could not be cured. | is being produced in China by a charity called the Animal Health Trust. | allowed a group of sea lions in California to be set free in the ocean. | can be used to help certain kinds of animals learn new tricks.
 answerText: has made it possible to help animals that previously could not be cured.
+reviewed: yes
 ---
 【正解】1 has made it possible to help animals that previously could not be cured.（以前は治すことのできなかった動物を助けることを可能にした。）
 【和訳】

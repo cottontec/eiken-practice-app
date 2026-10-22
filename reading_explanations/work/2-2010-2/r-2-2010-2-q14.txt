@@ -1,6 +1,7 @@
 ---
 choices: in | by | down | out
 answerText: out
+reviewed: yes
 ---
 【正解】4 out（point ～ out で「～を指し示す」）
 【和訳】

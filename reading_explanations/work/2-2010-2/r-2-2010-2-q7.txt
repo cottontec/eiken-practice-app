@@ -1,14 +1,15 @@
 ---
 choices: severely | gradually | initially | doubtfully
 answerText: gradually
+reviewed: yes
 ---
 【正解】2 gradually（徐々に、だんだんと）
 【和訳】
-A：エリカ、きみのテニスは（だんだん）上手になってきていると思うよ。
+A：エリカ、あなたのテニスは（だんだん）上手になってきていると思うよ。
 B：私もそう思う。サーブが毎週少しずつよくなっているみたい。
 （選択肢の意味）1 ひどく、厳しく　2 徐々に、だんだんと　3 初めは、最初に　4 疑わしそうに
 【考え方】
-Aは your tennis is (　) getting better（きみのテニスは〜上手になってきている）と言っています。
+Aは your tennis is (　) getting better（あなたのテニスは〜上手になってきている）と言っています。
 Bは Me, too.（私もそう思う）と同意したあと、My serve seems to be improving a little each week.（サーブが毎週少しずつよくなっているようだ）と言っています。a little each week は「毎週少しずつ」という意味です。
 Bの言う「毎週少しずつよくなる」は、Aの言う「上手になってきている」をくわしく言いかえたものです。少しずつ進んでいく様子を表すのは gradually（徐々に、だんだんと）なので、2が正解です。
 【ほかの選択肢】

@@ -1,6 +1,7 @@
 ---
 choices: case | edge | part | start
 answerText: case
+reviewed: yes
 ---
 【正解】1 case（as is often the case with ～ で「～にはよくあることだが」）
 【和訳】

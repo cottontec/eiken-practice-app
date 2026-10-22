@@ -1,0 +1,25 @@
+---
+choices: closer | wetter | noisier | safer
+answerText: wetter
+---
+【正解】2 wetter（〔wet の比較級〕より雨や雪の多い、よりぬれた）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 closer：より近い
+2 wetter：より雨や雪の多い、よりぬれた
+3 noisier：よりうるさい
+4 safer：より安全な
+【考え方】
+空所は第3段落の最後の文、Still, it has the result that airports are (　) than they would be otherwise.（それでも、それは、空港がそうでない場合よりも～だという結果を生んでいる）にあります。otherwise は「そうでなければ」という意味で、ここでは「飛行機が雲にこのような影響を与えなければ」ということです。
+文の初めの Still は「それでも」という意味です。直前の文は the phenomenon probably does not lead to a dramatic increase in the amount of rain or snow that falls worldwide（この現象は、おそらく世界中で降る雨や雪の量が劇的に増えることにはつながらない）です。phenomenon は「現象」です。
+つまり、「世界全体で見れば雨や雪はそれほど増えない。それでも、～」という流れです。Still のあとには、「世界全体ではなく空港では、雨や雪が増える」という内容が来ると考えられます。
+これは、第1段落の some of the rain and snow that falls at airports is actually caused by airplanes taking off or landing（空港に降る雨や雪の一部は、実は離陸や着陸をする飛行機によって引き起こされている）とも合います。wet は「ぬれた、雨の多い」という意味で、wetter はその比較級（「より～」を表す形）です。空港は、飛行機がいなかった場合と比べて雨や雪が多くなる、ということです。2が正解です。
+【ほかの選択肢】
+1 closer を入れると「空港はそうでない場合よりも近い」となります。何に近いのかが本文になく、雨や雪の量の話ともつながりません。
+3 noisier を入れると「空港はそうでない場合よりもうるさい」となります。本文は飛行機が雨や雪を降らせる話で、音については書かれていないので合いません。
+4 safer を入れると「空港はそうでない場合よりも安全だ」となります。飛行機によって雨や雪が増えることで、空港が安全になるという話は本文にないので合いません。
+【覚えるポイント】
+・Still, ～：「それでも～」。文の初めに置くと、前の内容とは別の面を述べる働きをします。
+・～ than they would be otherwise：「そうでない場合よりも～」。

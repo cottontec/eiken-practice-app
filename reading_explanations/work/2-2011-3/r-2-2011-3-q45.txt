@@ -1,0 +1,29 @@
+---
+choices: People who answered the survey made many suggestions on how to conserve plants. | Stephen Hopper was asked to try to get the dried plants in the Herbarium to grow again. | Plants that were once thought to be extinct have been found growing at Kew Gardens. | The fact that plants were more endangered than animals was not a surprise to many scientists.
+answerText: The fact that plants were more endangered than animals was not a surprise to many scientists.
+---
+【正解】4 The fact that plants were more endangered than animals was not a surprise to many scientists.（植物が動物よりも絶滅の危機にあるという事実は、多くの科学者にとって驚きではなかった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：次の記述のうち、正しいものはどれですか。
+1 調査に答えた人々は、植物を保護する方法について多くの提案をした。
+2 スティーブン・ホッパーは、ハーバリウムの乾燥した植物をもう一度育つようにしてみるよう頼まれた。
+3 かつて絶滅したと考えられていた植物が、キュー・ガーデンズで育っているのが見つかった。
+4 植物が動物よりも絶滅の危機にあるという事実は、多くの科学者にとって驚きではなかった。
+【考え方】
+本文全体と照らし合わせて、正しいものを選ぶ問題です。選択肢4の「植物と動物の比べ」に関係する部分を、第4段落で確かめます。
+1文目に The survey has shown that plants today are even more under threat than animals.（この調査によって、今日の植物は動物よりもさらに危機にさらされていることが分かった）とあります。under threat は「危機にさらされて」という意味です。
+2文目に This is something that many scientists had already suspected to be true.（これは、多くの科学者がすでに本当だろうと思っていたことだ）とあります。This は1文目の「植物は動物よりもさらに危機にさらされている」という調査結果を指しています。suspect ～ to be true は「～が本当だろうと思う」という意味です。
+多くの科学者が、調査の前からすでにそうだろうと思っていたのですから、その結果は彼らにとって驚きではなかったことになります。本文と選択肢は次のように対応しています。
+本文 plants today are even more under threat than animals（今日の植物は動物よりもさらに危機にさらされている）＝ 選択肢 plants were more endangered than animals（植物が動物よりも絶滅の危機にある）
+本文 many scientists had already suspected to be true（多くの科学者がすでに本当だろうと思っていた）＝ 選択肢 was not a surprise to many scientists（多くの科学者にとって驚きではなかった）
+正解は4です。
+【ほかの選択肢】
+1 調査で専門家に頼んだのは、選んだ種が危機にあるかどうかを調べることです。答えた人々が植物を保護する方法を提案したという話は、本文にありません。
+2 ハーバリウムの標本は乾燥させて紙に貼りつけられていると書かれていますが、それをもう一度育てるという話や、ホッパーが何かを頼まれたという話は本文にありません。
+3 絶滅したと考えられていた植物がキュー・ガーデンズで見つかったという話は、本文にありません。
+【覚えるポイント】
+・suspect ～ to be true：「～が本当だろうと思う」。suspect は「（たぶん）～だろうと思う」という意味です。
+・under threat：「危機にさらされて」。

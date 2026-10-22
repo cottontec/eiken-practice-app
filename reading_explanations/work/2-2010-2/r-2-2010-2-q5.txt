@@ -1,6 +1,7 @@
 ---
 choices: character | destination | souvenir | generation
 answerText: destination
+reviewed: yes
 ---
 【正解】2 destination（行き先、目的地）
 【和訳】

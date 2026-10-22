@@ -1,6 +1,7 @@
 ---
 choices: to | than | if | as
 answerText: as
+reviewed: yes
 ---
 【正解】4 as（as often as ～ で「～も（多く）」）
 【和訳】

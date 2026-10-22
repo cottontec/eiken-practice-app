@@ -1,0 +1,20 @@
+---
+choices: terms | charge | series | line
+answerText: terms
+---
+【正解】1 terms（（in terms of ～ で）～の点では）
+【和訳】
+A：本屋での新しい仕事はどう？
+B：気に入っているよ。お金の点ではそれほどよくないけれど、いっしょに働く人たちがとてもいい人たちなんだ。
+（選択肢の意味）1 （in terms of ～で）～の点では　2 （in charge of ～で）～を担当して　3 （a series of ～で）一連の～　4 （in line で）列に並んで
+【考え方】
+Bの答えは In (　) of money, it's not that good, but my co-workers are really nice. です。but の前後で、仕事の「よくない点」と「よい点」を比べています。
+but のうしろは my co-workers are really nice（同僚はとてもいい人たちだ）で、人間関係の点ではよいということです。それに対して、but の前は「お金の（　）では、それほどよくない」となります。
+in terms of ～ は「～の点では、～に関しては」という意味の決まった言い方です。In terms of money で「お金の点では」となり、給料はよくないが同僚はいい、という比べ方がはっきりします。正解は1です。
+【ほかの選択肢】
+2 charge は in charge of ～ で「～を担当して」という意味になります。In charge of money では「お金を担当していて、それほどよくない」となり、仕事のよい点・悪い点を比べる文になりません。
+3 series は a series of ～ で「一連の～」という意味です。In series of money という形はなく、意味が通りません。
+4 line は in line で「列に並んで」という意味です。In line of money という形はなく、お金の点で仕事を評価する意味になりません。
+【覚えるポイント】
+・in terms of ～：「～の点では、～に関しては」。
+・not that ～：「それほど～ではない」。

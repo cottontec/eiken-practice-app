@@ -1,6 +1,7 @@
 ---
 choices: mixture | legend | burden | structure
 answerText: burden
+reviewed: yes
 ---
 【正解】3 burden（重荷、負担）
 【和訳】

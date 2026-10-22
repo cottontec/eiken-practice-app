@@ -1,6 +1,7 @@
 ---
 choices: gravity | knowledge | sunshine | tradition
 answerText: gravity
+reviewed: yes
 ---
 【正解】1 gravity（重力）
 【和訳】

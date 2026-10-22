@@ -2,13 +2,14 @@
 choices: the | of | that's | out | question
 answerText: out
 order: 3 4 2 1 5
+reviewed: yes
 ---
 【正解】4 out（この問題の2番目）
 【完成文】
 But you know ( that's out of the question ) with my salary, Vicky. New TVs are so expensive these days.
 並べ方：3 that's → 4 out → 2 of → 1 the → 5 question（2番目は4、4番目は1）
 【和訳】
-A：ねえ、もっと大きいテレビを買おうよ。うちのテレビはすごく小さいもの。
+A：ねえ、もっと大きいテレビを買おうよ。うちのテレビはすごく小さいよ。
 B：でも、私の給料ではそんなことはとても無理だって分かっているでしょう、ヴィッキー。新しいテレビは最近とても高いんだから。
 【考え方】
 まず話の流れを確かめます。Aは大きいテレビを買おうと言っています。Bは But（でも）で答え始め、最後に New TVs are so expensive these days.（新しいテレビは最近とても高い）と言っています。Bは「大きいテレビを買うのは無理だ」と言いたいのだと分かります。

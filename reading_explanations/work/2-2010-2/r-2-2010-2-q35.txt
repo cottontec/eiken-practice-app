@@ -1,6 +1,7 @@
 ---
 choices: Their artwork will be published on a magazine's website. | Their artwork will become better known in the local area. | They will receive some money from the Palms Art Gallery. | They will be able to hold an exhibition at Southfield University.
 answerText: Their artwork will become better known in the local area.
+reviewed: yes
 ---
 【正解】2 Their artwork will become better known in the local area.（彼らの作品は地元でよりよく知られるようになる。）
 【和訳】

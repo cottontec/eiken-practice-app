@@ -2,6 +2,7 @@
 choices: chemicals | of | be | free | to
 answerText: of
 order: 5 3 4 2 1
+reviewed: yes
 ---
 【正解】2 of（この問題の4番目）
 【完成文】

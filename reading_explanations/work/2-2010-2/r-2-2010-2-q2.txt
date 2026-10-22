@@ -1,6 +1,7 @@
 ---
 choices: forecast | merit | policy | scar
 answerText: scar
+reviewed: yes
 ---
 【正解】4 scar（傷あと）
 【和訳】

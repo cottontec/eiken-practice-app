@@ -1,6 +1,7 @@
 ---
 choices: encourage a group of 20 German companies to clean up the Sahara Desert. | make use of carbon dioxide found in North Africa to produce clean energy. | use the desert sun to provide energy without damaging the environment. | find a way to lessen the total amount of electricity that people consume each year.
 answerText: use the desert sun to provide energy without damaging the environment.
+reviewed: yes
 ---
 【正解】3 use the desert sun to provide energy without damaging the environment.（環境を傷つけずにエネルギーを供給するために、砂漠の太陽を利用すること。）
 【和訳】

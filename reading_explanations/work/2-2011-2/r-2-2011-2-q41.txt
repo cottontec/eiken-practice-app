@@ -1,0 +1,27 @@
+---
+choices: By treating people with new medicines. | By destroying the places where mosquitoes live. | By getting rid of mosquitoes with chemicals. | By stopping mosquitoes from laying eggs.
+answerText: By getting rid of mosquitoes with chemicals.
+---
+【正解】3 By getting rid of mosquitoes with chemicals.（化学薬品で蚊を退治することによって。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：1950年代以来、マラリアの患者数はどのようにして減ってきましたか。
+1 新しい薬で人々を治療することによって。
+2 蚊がすんでいる場所をこわすことによって。
+3 化学薬品で蚊を退治することによって。
+4 蚊が卵を産むのを止めることによって。
+【考え方】
+設問の since the 1950s（1950年代以来）という言葉を本文でさがします。第1段落の4文目に In fact, since the 1950s, this method has resulted in a large reduction in the number of malaria cases.（実際、1950年代以来、この方法によってマラリアの患者数は大きく減った）とあります。result in ～ は「～という結果になる」、reduction は「減少」です。
+this method（この方法）が何を指すかを、前の文で確かめます。3文目に This can be done very effectively by using chemicals that kill them.（これは、蚊を殺す化学薬品を使うことで、とても効果的に行える）とあります。This は2文目の reduce the number of mosquitoes（蚊の数を減らす）を指しています。chemical は「化学薬品」です。
+つまり、この方法とは「蚊を殺す化学薬品を使って蚊を減らすこと」です。本文と選択肢は次のように対応しています。
+本文 using chemicals that kill them（蚊を殺す化学薬品を使う）＝ 選択肢 getting rid of mosquitoes with chemicals（化学薬品で蚊を退治する）
+get rid of ～ は「～を取り除く、退治する」という意味です。正解は3です。
+【ほかの選択肢】
+1 本文の chemicals は、蚊を殺すための化学薬品です。人々を新しい薬で治療したという話は本文にありません。
+2 蚊がすんでいる場所をこわすという方法は本文にありません。
+4 本文には、蚊が水の中に卵を産むことは書かれていますが、卵を産むのを止める方法でマラリアの患者が減ったという話はありません。
+【覚えるポイント】
+・get rid of ～：「～を取り除く、退治する」。
+・result in ～：「～という結果になる」。

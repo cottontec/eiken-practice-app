@@ -1,6 +1,7 @@
 ---
 choices: will be working with Katherine Henderson. | will be asked to display some of his own artwork. | will judge some artwork produced by Ann Wendle. | will make a speech about teaching art history.
 answerText: will be working with Katherine Henderson.
+reviewed: yes
 ---
 【正解】1 will be working with Katherine Henderson.（キャサリン・ヘンダーソンといっしょに仕事をする。）
 【和訳】
@@ -20,7 +21,7 @@ answerText: will be working with Katherine Henderson.
 正解は1です。
 【ほかの選択肢】
 2 教授が頼まれたのは審査員の役目です。自分の作品を展示するという話は本文にありません。展覧会を開けるのは総合優勝者です。
-3 アン・ウェンドルはギャラリーのオーナーで、教授と同じ審査員です。コンテストに作品を出す人ではないので、教授が「アン・ウェンドルが描いた作品を審査する」という内容は本文と合いません。
+3 アン・ウェンドルはギャラリーのオーナーで、教授と同じ審査員として書かれています。アン・ウェンドルがコンテストに作品を出すという話は本文になく、教授が「アン・ウェンドルが描いた作品を審査する」という内容は本文と合いません。
 4 本文には、教授が Southfield University で watercolor painting（水彩画）を教えた経験があるとは書かれていますが、講演をする話はありません。また、教えているのは美術史ではなく水彩画です。
 【覚えるポイント】
 ・judge：名詞で「審査員」、動詞で「～を審査する」。

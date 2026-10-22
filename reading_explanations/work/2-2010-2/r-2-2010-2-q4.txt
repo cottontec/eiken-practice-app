@@ -1,6 +1,7 @@
 ---
 choices: deliver | wander | object | contribute
 answerText: object
+reviewed: yes
 ---
 【正解】3 object（反対する）
 【和訳】

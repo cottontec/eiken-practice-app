@@ -1,6 +1,7 @@
 ---
 choices: fall through | major in | come across | stick to
 answerText: stick to
+reviewed: yes
 ---
 【正解】4 stick to（～を守り通す、～をやり通す）
 【和訳】

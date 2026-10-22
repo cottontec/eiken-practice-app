@@ -1,0 +1,28 @@
+---
+choices: They eat the worms that turn into mosquitoes. | They produce eggs that help to kill the mosquitoes. | They reduce the number of worms that mosquitoes eat. | They make it easier to see where mosquitoes are hiding.
+answerText: They eat the worms that turn into mosquitoes.
+---
+【正解】1 They eat the worms that turn into mosquitoes.（その魚は、蚊になる虫を食べるから。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：科学者たちが、ある種の魚を湖や池に放しているのはなぜですか。
+1 その魚は、蚊になる虫を食べるから。
+2 その魚は、蚊を殺すのに役立つ卵を産むから。
+3 その魚は、蚊が食べる虫の数を減らすから。
+4 その魚によって、蚊がどこに隠れているかが見えやすくなるから。
+【考え方】
+設問の introducing certain fish into lakes and ponds（ある種の魚を湖や池に放す）という言葉を本文でさがすと、第2段落にあります。
+第2段落の3文目と4文目に Mosquitoes lay their eggs in water, and the eggs then turn into tiny worms that live in the water for one or two weeks. Some kinds of fish eat these worms, so introducing these fish into lakes and ponds can lead to fewer mosquitoes.（蚊は水の中に卵を産み、その卵はそれから小さな虫になって1、2週間水の中で暮らす。ある種類の魚はこれらの虫を食べるので、こうした魚を湖や池に放すと、蚊を減らすことにつながりうる）とあります。lay eggs は「卵を産む」、turn into ～ は「～になる」です。
+蚊の卵が小さな虫になり、その虫を魚が食べると蚊が減る、と書かれています。ここから、この虫は蚊になる前の姿だと分かります。本文と選択肢は次のように対応しています。
+本文 Some kinds of fish eat these worms（ある種の魚はこれらの虫を食べる）＝ 選択肢 They eat the worms（その魚は虫を食べる）
+本文 the eggs then turn into tiny worms ... can lead to fewer mosquitoes（卵が虫になり、それを食べると蚊が減る）＝ 選択肢 the worms that turn into mosquitoes（蚊になる虫）
+正解は1です。
+【ほかの選択肢】
+2 本文で卵を産むのは蚊のほうです。魚が蚊を殺すのに役立つ卵を産むという話は本文にありません。
+3 本文では、魚がこれらの虫を食べます。「蚊が虫を食べる」とは書かれておらず、虫は蚊の卵がなったものなので、食べる側と食べられる側の関係がちがいます。
+4 魚によって蚊の隠れ場所が見えやすくなるという話は本文にありません。
+【覚えるポイント】
+・turn into ～：「～になる、～に変わる」。
+・lead to ～：「～につながる、～という結果を生む」。

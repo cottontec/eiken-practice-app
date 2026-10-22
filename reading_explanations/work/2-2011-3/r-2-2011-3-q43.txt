@@ -1,0 +1,28 @@
+---
+choices: tried to find out how many endangered plants there are in the world. | recorded detailed information about 1,500 different extinct plants. | discovered a large number of plants that had never been seen before. | based their research on the opinions of visitors to the Herbarium.
+answerText: tried to find out how many endangered plants there are in the world.
+---
+【正解】1 tried to find out how many endangered plants there are in the world.（世界に絶滅の危機にある植物がどれだけあるかを明らかにしようとした。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：キュー・ガーデンズの科学者たちは、
+1 世界に絶滅の危機にある植物がどれだけあるかを明らかにしようとした。
+2 1,500種類のさまざまな絶滅した植物について、くわしい情報を記録した。
+3 それまでに見られたことのない植物を数多く発見した。
+4 ハーバリウムを訪れた人々の意見をもとに研究を行った。
+【考え方】
+キュー・ガーデンズの科学者たちが行ったことは、第3段落にまとまって書かれています。
+1文目に Recently, scientists at Kew Gardens decided to carry out a survey to discover how many plants are threatened by extinction.（最近、キュー・ガーデンズの科学者たちは、どれだけの植物が絶滅の危機にさらされているかを明らかにするために、調査を行うことにした）とあります。be threatened by extinction は「絶滅の危機にさらされている」という意味です。
+続く文では、すべての植物を調べるのは現実的ではないので、5つのグループから1,500種ずつ選び、世界中の専門家に危機にあるかどうかを調べてもらった、と調査の方法が説明されています。本文と選択肢は次のように対応しています。
+本文 carry out a survey to discover ～（～を明らかにするために調査を行う）＝ 選択肢 tried to find out ～（～を明らかにしようとした）
+本文 how many plants are threatened by extinction（どれだけの植物が絶滅の危機にさらされているか）＝ 選択肢 how many endangered plants there are（絶滅の危機にある植物がどれだけあるか）
+endangered は「絶滅の危機にある」という意味です。正解は1です。
+【ほかの選択肢】
+2 科学者たちが1,500種を選んだのは本当ですが、それは各グループから無作為に選んだ種で、すでに絶滅した植物ではありません。また、1,500という数は各グループごとの数です。
+3 新しい種類の植物を数多く発見したという話は、本文にありません。第2段落に、ハーバリウムの科学者が毎年最大5万点の新しい標本を集めているとはありますが、それは新しく集めた標本の数の話で、これまで見られたことのない植物を発見したとは書かれていません。
+4 科学者たちが意見を求めたのは世界中の専門家（experts around the world）です。ハーバリウムを訪れた人々の意見をもとにしたのではないので、人物がちがいます。
+【覚えるポイント】
+・carry out a survey：「調査を行う」。
+・be threatened by extinction：「絶滅の危機にさらされている」。endangered（絶滅の危機にある）とほぼ同じ意味です。

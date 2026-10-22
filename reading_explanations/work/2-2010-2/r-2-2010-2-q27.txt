@@ -1,6 +1,7 @@
 ---
 choices: confused | lonely | peaceful | independent
 answerText: confused
+reviewed: yes
 ---
 【正解】1 confused（混乱した、とまどった）
 【和訳】

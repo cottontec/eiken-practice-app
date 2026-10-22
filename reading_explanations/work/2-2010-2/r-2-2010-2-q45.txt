@@ -1,6 +1,7 @@
 ---
 choices: The power stations will be similar to ones operating in California. | Electricity from the power stations will be used to heat water at night. | The power stations will provide most of Europe's electricity by 2050. | Some people say that the power stations should be built in Europe.
 answerText: The power stations will be similar to ones operating in California.
+reviewed: yes
 ---
 【正解】1 The power stations will be similar to ones operating in California.（その発電所は、カリフォルニアで動いているものと似たものになる。）
 【和訳】

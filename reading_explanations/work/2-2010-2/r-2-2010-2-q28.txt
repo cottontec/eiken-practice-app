@@ -1,6 +1,7 @@
 ---
 choices: exchange | reduce | ignore | preserve
 answerText: reduce
+reviewed: yes
 ---
 【正解】2 reduce（～を減らす）
 【和訳】

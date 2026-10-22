@@ -1,6 +1,7 @@
 ---
 choices: leisure | industry | nature | culture
 answerText: nature
+reviewed: yes
 ---
 【正解】3 nature（自然）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: It is difficult for veterinarians to decide which animals to treat first. | Its equipment is too expensive for most veterinarians to buy. | There are not enough veterinarians who can use its products. | Few veterinarians have shown interest in its training program.
 answerText: There are not enough veterinarians who can use its products.
+reviewed: yes
 ---
 【正解】3 There are not enough veterinarians who can use its products.（その会社の製品を使える獣医が十分にいない。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: side | time | fact | reason
 answerText: time
+reviewed: yes
 ---
 【正解】2 time（for the time being で「当分の間、さしあたり」）
 【和訳】

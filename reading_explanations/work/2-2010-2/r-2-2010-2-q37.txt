@@ -1,6 +1,7 @@
 ---
 choices: need to change their contact lenses every day. | can usually have the problem fixed by surgery. | are able to treat the illness with a new medicine. | often find their eyesight improves as they get older.
 answerText: can usually have the problem fixed by surgery.
+reviewed: yes
 ---
 【正解】2 can usually have the problem fixed by surgery.（たいてい手術でその問題を治してもらうことができる。）
 【和訳】

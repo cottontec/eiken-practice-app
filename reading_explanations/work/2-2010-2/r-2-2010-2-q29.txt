@@ -1,6 +1,7 @@
 ---
 choices: unofficial | temporary | ordinary | unnecessary
 answerText: unnecessary
+reviewed: yes
 ---
 【正解】4 unnecessary（不必要な）
 【和訳】

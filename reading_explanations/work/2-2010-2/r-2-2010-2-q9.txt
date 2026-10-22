@@ -1,6 +1,7 @@
 ---
 choices: solve | polish | cease | heal
 answerText: cease
+reviewed: yes
 ---
 【正解】3 cease（～をやめる、中止する）
 【和訳】

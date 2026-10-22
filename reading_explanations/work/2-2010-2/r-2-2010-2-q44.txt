@@ -1,6 +1,7 @@
 ---
 choices: the cost of solar panels is too high for many people in Europe. | the project will help local people by providing water for crops. | the power stations will require large amounts of salt to work properly. | the countries where the power stations are built will get free electricity.
 answerText: the project will help local people by providing water for crops.
+reviewed: yes
 ---
 【正解】2 the project will help local people by providing water for crops.（その計画は作物のための水を提供することで、地元の人々の役に立つ。）
 【和訳】
