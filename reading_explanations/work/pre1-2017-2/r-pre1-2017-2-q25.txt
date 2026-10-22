@@ -1,6 +1,7 @@
 ---
 choices: set off | took up | brought off | put in
 answerText: put in
+reviewed: yes
 ---
 【正解】4 put in（（設備を）取りつけた、設置した）
 【和訳】
@@ -14,9 +15,9 @@ When the new owners bought the restaurant, they changed a lot of things. They de
 3 brought off：（難しいことを）やってのけた
 4 put in：（設備を）取りつけた、設置した
 【考え方】
-まず見るところ：1文目の they changed a lot of things と、空所の前の even
+まず見るところ：前の文の they changed a lot of things と、空所の前の even
 When the new owners bought the restaurant, they changed a lot of things.（新しいオーナーたちはそのレストランを買うと、多くのことを変えた）
-2文目には、その「多くのこと」の具体例が3つ並んでいます。
+空所のある文には、その「多くのこと」の具体例が3つ並んでいます。
 decorated the dining room（食事をする部屋を飾りつけた）
 made a new menu（新しいメニューを作った）
 even ( ) a new kitchen（さらには新しい調理場まで（　））
@@ -29,4 +30,4 @@ put in は「（設備などを）取りつける、設置する」という意�
 3 brought off は「（難しいことを）うまくやってのけた」です。後ろには計画や作戦などが来る言い方で、「新しい調理場をやってのけた」では意味が通りません。
 【覚えるポイント】
 ・put in ～：「（設備などを）取りつける、設置する」。
-・1文目の「多くのことを変えた」の具体例が2文目に並んでいるときは、並んでいるほかの動作（飾りつけた、作った）と同じように「店に手を加える」意味になる語句を選ぶと手がかりになります。
+・前の文の「多くのことを変えた」の具体例が、あとの文に並んでいるときは、並んでいるほかの動作（飾りつけた、作った）と同じように「店に手を加える」意味になる語句を選ぶと手がかりになります。

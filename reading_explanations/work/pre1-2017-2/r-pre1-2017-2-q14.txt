@@ -1,6 +1,7 @@
 ---
 choices: adaptation | contemplation | institution | coalition
 answerText: adaptation
+reviewed: yes
 ---
 【正解】1 adaptation（（小説などを映画などに）作り直したもの）
 【和訳】
@@ -14,7 +15,7 @@ The novel was so popular with teenagers that a movie was made based on the story
 3 institution：（学校や病院などの）機関、制度
 4 coalition：（政党などの）連合
 【考え方】
-まず見るところ：1文目の a movie was made based on the story と、空所の前の This
+まず見るところ：前の文の a movie was made based on the story と、空所の前の This
 最初の文を確かめます。
 The novel was so popular with teenagers that a movie was made based on the story.（その小説は10代の若者たちにとても人気があったので、その物語をもとにした映画が作られた）
 so ～ that … は「とても～なので…」、based on ～ は「～をもとにして」という意味です。

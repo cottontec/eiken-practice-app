@@ -1,6 +1,7 @@
 ---
 choices: divert | resent | enlarge | renounce
 answerText: divert
+reviewed: yes
 ---
 【正解】1 divert（（流れの向きを）変える、そらす）
 【和訳】

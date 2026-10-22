@@ -1,6 +1,7 @@
 ---
 choices: Landowners ordered many of their workers to cross the border to farm in order to increase certain harvests. | A legal ruling in 1992 forced wealthy landowners to give up some of their land in border areas. | The Salvadoran government began taking possession of land that belonged to both rich people and poor villagers. | Poor Salvadoran farmers were unable to secure land for themselves and so were forced to farm there.
 answerText: Poor Salvadoran farmers were unable to secure land for themselves and so were forced to farm there.
+reviewed: yes
 ---
 【正解】4 Poor Salvadoran farmers were unable to secure land for themselves and so were forced to farm there.（貧しいエルサルバドルの農民たちは、自分たちの土地を確保できず、そのため、そこで農業をせざるをえなかった。）
 【和訳】
@@ -26,7 +27,7 @@ There, they created farms where their families managed to survive by growing cor
 この問題の型：言いかえ（no choice but to → were forced to）／因果（土地が足りない→国境地帯へ移り住む）
 【ほかの選択肢】
 1 本文にありません。地主たちはよい土地を支配していたと書かれているだけで、労働者に国境を越えて農業をするよう命じたという話はありません。
-2 時期と内容が違います。1992年の判決は、この地域を正式にホンジュラスの一部としたもので、移住が始まったのはそれより前の100年前です。また、地主が土地を手放したという話もありません。
+2 時期と内容が違います。1992年の判決は、この地域を正式にホンジュラスの一部としたもので、移住が始まったのは、それよりずっと前の約100年前です。また、地主が土地を手放したという話もありません。
 3 本文にありません。エルサルバドル政府が人々の土地を取り上げたという話はなく、土地を支配していたのは裕福な地主たちです。
 【覚えるポイント】
 ・leave ～ no choice but to …：「～は…するしかない」。選択肢では be forced to …（…せざるをえない）と言いかえられています。

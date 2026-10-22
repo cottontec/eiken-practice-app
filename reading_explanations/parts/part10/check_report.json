@@ -92,7 +92,8 @@
   "pre1-2017-2": {
     "stats": {
       "target": 41,
-      "written": 41
+      "written": 41,
+      "reviewed": 41
     },
     "errors": [],
     "warnings": []
@@ -116,8 +117,8 @@
   "pre1-2018-2": {
     "stats": {
       "target": 41,
-      "written": 31,
-      "missing": 10
+      "written": 34,
+      "missing": 7
     },
     "errors": [],
     "warnings": []

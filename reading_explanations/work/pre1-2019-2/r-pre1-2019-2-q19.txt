@@ -1,0 +1,29 @@
+---
+choices: suite | pageant | web | narrative
+answerText: narrative
+---
+【正解】4 narrative（物語、〔出来事を順に語った〕話）
+【和訳】
+（英文）
+The man's experience living in Italy had been so interesting that, in his later years, he decided to write a ［narrative］ of his life during that time.
+（訳）
+その男性のイタリアでの生活経験はとてもおもしろいものだったので、晩年になって、彼はその時期の自分の生活についての（物語）を書くことにした。
+（選択肢の意味）
+1 suite：（ホテルの）スイートルーム、ひと続きの部屋、組曲
+2 pageant：（時代衣装の）野外劇、行列、美人コンテスト
+3 web：クモの巣、網状のもの
+4 narrative：物語、（出来事を順に語った）話
+【考え方】
+まず見るところ：空所の前の write a と、空所のあとの of his life during that time
+この文は so ～ that …（とても～なので…）の形です。イタリアでの生活がとてもおもしろかったので、晩年に何かを書くことにした、という流れです。in his later years は「晩年に（年をとってから）」です。
+空所の部分は、次のとおりです。
+he decided to write a (　) of his life during that time（彼はその時期の自分の生活についての（　）を書くことにした）
+write（書く）の目的語で、of his life（自分の生活について）が続くので、自分の経験を文章にまとめたものが入ります。narrative は「物語、出来事を順に語った話」という意味なので、4が正解です。
+この問題の型：語の意味・組み合わせ（write a narrative of ～）
+【ほかの選択肢】
+1 suite は「スイートルーム、組曲」です。「自分の生活についての組曲を書く」とすると音楽の話になり、イタリアでの体験を書きとめる話として自然ではありません。「スイートルームを書く」では意味が通りません。
+2 pageant は「野外劇、行列、美人コンテスト」です。「自分の生活についての行列を書く」では意味が通りません。
+3 web は「クモの巣、網状のもの」です。「自分の生活についてのクモの巣を書く」では意味が通りません。
+【覚えるポイント】
+・narrative：「物語、出来事を順に語った話」。a narrative of his life で「自分の生活（人生）についての話」。
+・write a (　) of his life のように、書く対象が「自分の生活・経験」であるときは、文章の種類を表す名詞が入る手がかりになります。

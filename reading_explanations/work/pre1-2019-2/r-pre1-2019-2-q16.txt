@@ -1,0 +1,33 @@
+---
+choices: sneaking | compressing | barking | kneeling
+answerText: sneaking
+---
+【正解】1 sneaking（こっそり動いている、忍び足で行っている）
+【和訳】
+（英文）
+A: What are you doing ［sneaking］ down the stairs at this hour, Reggie?
+B: I just wanted to get some water, Mom, but I was trying not to wake anyone. I didn't know you were still up.
+（訳）
+A：レジー、こんな時間に（こっそり）階段を下りてきて、何をしているの？
+B：ちょっと水を取りに来たかっただけなんだ、お母さん。でも、誰も起こさないようにしていたんだよ。まだ起きているなんて知らなかったよ。
+（選択肢の意味）
+1 sneaking：こっそり動いている、忍び足で行っている
+2 compressing：圧縮している、押し縮めている
+3 barking：（犬が）ほえている
+4 kneeling：ひざまずいている
+【考え方】
+まず見るところ：Bの I was trying not to wake anyone
+Aの質問は、次のとおりです。
+What are you doing (　) down the stairs at this hour, Reggie?（レジー、こんな時間に（　）階段を下りてきて、何をしているの？）
+What are you doing ～ing? は「～して、何をしているの？」と、相手のしている様子をたずねる言い方です。at this hour は「こんな（遅い）時間に」です。
+Bの答えに、次のようにあります。
+I was trying not to wake anyone.（誰も起こさないようにしていたんだよ）
+誰も起こさないように階段を下りるには、音を立てずに静かに動くはずです。sneak は「こっそり動く、忍び足で行く」という意味で、sneak down the stairs で「こっそり階段を下りる」となります。ですから1が正解です。
+この問題の型：語の意味・組み合わせ（sneak down the stairs）
+【ほかの選択肢】
+2 compressing は「圧縮している、押し縮めている」です。「階段を押し縮めながら下りる」となり、意味が通りません。
+3 barking は「（犬が）ほえている」です。犬の鳴き声を表す語で、人が誰も起こさないように静かにしていたというBの答えとも合いません。
+4 kneeling は「ひざまずいている」です。その場でひざをつく動作で、「階段を下りていく」動きを表せず、誰も起こさないようにしていたこととも結びつきません。
+【覚えるポイント】
+・sneak down the stairs：「こっそり階段を下りる」。sneak は「（見つからないように）こっそり動く」。
+・Aの質問の空所は、Bの答え（ここでは trying not to wake anyone）で説明されていることが多いので、答えの内容に合う動作を選ぶ手がかりになります。

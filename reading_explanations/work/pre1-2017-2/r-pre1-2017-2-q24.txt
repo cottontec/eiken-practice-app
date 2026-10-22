@@ -1,6 +1,7 @@
 ---
 choices: drag on | play out | wash away | head out
 answerText: head out
+reviewed: yes
 ---
 【正解】4 head out（出発する、（その場を）出る）
 【和訳】

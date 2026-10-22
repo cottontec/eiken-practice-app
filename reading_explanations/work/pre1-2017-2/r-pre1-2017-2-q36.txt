@@ -1,6 +1,7 @@
 ---
 choices: The village’s geographical location has made it difficult for them to find schoolteachers willing to move there. | The emergency medical clinic that is run by the village government does not allow them access to its doctors. | The police force in the village has failed to address the safety and security issues that they have raised. | The village’s status in the national political structure has left them with a lack of support from the government.
 answerText: The village’s status in the national political structure has left them with a lack of support from the government.
+reviewed: yes
 ---
 【正解】4 The village’s status in the national political structure has left them with a lack of support from the government.（国の政治の仕組みの中での村の位置づけのせいで、政府からの支援が足りない状態になっているから。）
 【和訳】

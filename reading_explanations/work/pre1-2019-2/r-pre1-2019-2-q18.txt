@@ -1,0 +1,29 @@
+---
+choices: obliged | wrinkled | strangled | scattered
+answerText: obliged
+---
+【正解】1 obliged（〔～しなければならないと〕義務を感じて、恩を感じて）
+【和訳】
+（英文）
+After receiving an expensive Christmas present from her neighbors, Cassandra felt ［obliged］ to give them something in return, so she bought them a nice vase.
+（訳）
+近所の人たちから高価なクリスマスプレゼントをもらったあと、カサンドラは、お返しに何かをあげなければ（ならないと感じた）ので、彼らのためにすてきな花びんを買った。
+（選択肢の意味）
+1 obliged：（～しなければならないと）義務を感じて、恩を感じて
+2 wrinkled：しわの寄った
+3 strangled：首を絞められた、（声が）押し殺された
+4 scattered：まき散らされた、散らばった
+【考え方】
+まず見るところ：空所のあとの to give them something in return
+空所のある部分は、次のとおりです。
+Cassandra felt (　) to give them something in return（カサンドラは、お返しに何かをあげ（　）と感じた）
+in return は「お返しに」です。高価なプレゼントをもらったので、何かお返しをしなければと思った、という流れです。so（だから）のあとに she bought them a nice vase（彼らのためにすてきな花びんを買った）とあり、実際にお返しを用意したことが分かります。
+obliged は「（～しなければならないと）義務を感じて」という意味で、feel obliged to ～ で「～しなければならないと感じる」となります。ですから1が正解です。
+この問題の型：熟語・決まった形（feel obliged to ～）
+【ほかの選択肢】
+2 wrinkled は「しわの寄った」です。服や皮膚などに使う語で、「お返しをするためにしわが寄ったと感じた」では意味が通りません。
+3 strangled は「首を絞められた」です。「お返しをするために首を絞められたと感じた」となり、プレゼントのお返しの話と合いません。
+4 scattered は「まき散らされた、散らばった」です。物が散らばった様子を表す語で、お返しをしようと思った気持ちを表せません。
+【覚えるポイント】
+・feel obliged to ～：「～しなければならないと感じる」。
+・felt (　) to ～ の形で、to のあとに「お返しをする」のような、しなければと思う行動が来るときは、義務の気持ちを表す語が入る手がかりになります。

@@ -1,6 +1,7 @@
 ---
 choices: combine it with a number of established political regions in both Honduras and El Salvador. | allow citizens to vote and represent themselves independently of existing political regions. | force political leaders across the border in El Salvador to recognize the results of votes by local residents. | let citizens decide whether they would rather have voting rights in El Salvador or Honduras.
 answerText: allow citizens to vote and represent themselves independently of existing political regions.
+reviewed: yes
 ---
 【正解】2 allow citizens to vote and represent themselves independently of existing political regions.（住民が、今ある政治的な地域とは別に、投票して自分たちの代表を出せるようにする。）
 【和訳】

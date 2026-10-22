@@ -1,6 +1,7 @@
 ---
 choices: given in | bounced back | stood down | wrapped up
 answerText: bounced back
+reviewed: yes
 ---
 【正解】2 bounced back（立ち直った、回復した）
 【和訳】

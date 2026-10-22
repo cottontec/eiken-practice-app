@@ -1,0 +1,32 @@
+---
+choices: are attracted to it because such vacations are cheaper than staying at expensive resorts in developing nations. | are recruited through social media websites that specialize in matching qualified professionals with communities in need. | can be given the opportunity to observe local doctors performing medical procedures. | can be motivated by the online recognition they will gain for helping those who are less fortunate.
+answerText: can be motivated by the online recognition they will gain for helping those who are less fortunate.
+---
+【正解】4 can be motivated by the online recognition they will gain for helping those who are less fortunate.（恵まれない人々を助けることでインターネット上で得られる評価が、参加の動機になっていることがある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to the author of the passage, the participants in “medical voluntourism”（この文章の筆者によると、「医療ボランツーリズム」の参加者は、）
+1 are attracted to it because such vacations are cheaper than staying at expensive resorts in developing nations.（そうした休暇は発展途上国の高級リゾートに泊まるよりも安いので、それにひきつけられる。）
+2 are recruited through social media websites that specialize in matching qualified professionals with communities in need.（資格のある専門家と、助けを必要としている地域とを結びつけることを専門にしているソーシャルメディアのサイトを通じて集められる。）
+3 can be given the opportunity to observe local doctors performing medical procedures.（地元の医師が医療処置を行うのを見学する機会を与えられることがある。）
+4 can be motivated by the online recognition they will gain for helping those who are less fortunate.（恵まれない人々を助けることでインターネット上で得られる評価が、参加の動機になっていることがある。）
+【考え方】
+まず見るところ：第1段落の最後の文の for some, to gain praise on social media websites for providing aid to people who live in poverty
+第1段落の最後の文は、この旅行が参加者に何を与えるのかを説明しています。
+Though these trips often cost as much as stays at luxury resorts, they offer opportunities to visit exotic locations and, for some, to gain praise on social media websites for providing aid to people who live in poverty.（こうした旅行には、高級リゾートに泊まるのと同じくらいの費用がかかることも多いが、異国の雰囲気がある場所を訪れる機会や、一部の人にとっては、貧しい暮らしをしている人々に援助を提供したことでソーシャルメディアのサイト上で称賛を得る機会を与えてくれる）
+praise は「称賛（ほめたたえること）」、in poverty は「貧しい状態で」です。お金がかかるのに参加する人がいるのは、こうした機会が魅力になっているからだと読み取れます。
+本文と選択肢を対にすると、次のようになります。
+本文 gain praise on social media websites（ソーシャルメディアのサイト上で称賛を得る）＝ 選択肢 the online recognition they will gain（インターネット上で得られる評価）
+本文 providing aid to people who live in poverty（貧しい暮らしをしている人々に援助を提供する）＝ 選択肢 helping those who are less fortunate（恵まれない人々を助ける）
+本文 for some（一部の人にとっては）→ 選択肢 can be motivated（動機になっていることがある）
+recognition は「評価、認められること」、less fortunate は「（ほかの人より）恵まれない」です。本文の for some に合わせて、選択肢も can be（～のこともある）と、すべての参加者がそうだとは言い切っていません。ですから4が正解です。
+この問題の型：言いかえ（praise on social media websites ＝ online recognition）
+【ほかの選択肢】
+1 本文の内容と合いません。本文では these trips often cost as much as stays at luxury resorts（こうした旅行には、高級リゾートに泊まるのと同じくらいの費用がかかることも多い）とあり、リゾートより安いとは書かれていません。
+2 本文に書かれていません。本文では、参加する人が増えているのは thanks to specialist travel agencies（専門の旅行会社のおかげで）とあります。ソーシャルメディアのサイトは称賛を得る場所として出てくるだけで、参加者を集める場所として書かれてはいません。
+3 本文に書かれていません。本文で述べられているのは、参加者が自分で医療を提供することや、訓練を受けていないボランティアが出産の手助けを任されることで、地元の医師の処置を見学する機会については出てきません。
+【覚えるポイント】
+・less fortunate：「（ほかの人より）恵まれない」。本文の people who live in poverty（貧しい暮らしをしている人々）の言いかえとして使われています。
+・本文の for some（一部の人にとっては）のような限定の言葉は、選択肢の can be（～のこともある）のような控えめな言い方と対応することが多く、正解を見分ける手がかりになります。

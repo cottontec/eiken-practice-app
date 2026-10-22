@@ -1,6 +1,7 @@
 ---
 choices: In exchange | In spite of this | Compared to this | Otherwise
 answerText: Otherwise
+reviewed: yes
 ---
 【正解】4 Otherwise（そうでなければ）
 【和訳】

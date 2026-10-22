@@ -1,0 +1,30 @@
+---
+choices: refine | amuse | shred | accompany
+answerText: refine
+---
+【正解】1 refine（磨きをかける、よりよくする）
+【和訳】
+（英文）
+The young violinist shows promise but needs to ［refine］ her technique. Her teacher feels that, with more practice, she could one day perform professionally.
+（訳）
+その若いバイオリン奏者は将来有望だが、技術に磨きをかける必要がある。彼女の先生は、もっと練習すれば、彼女はいつかプロとして演奏できるかもしれないと思っている。
+（選択肢の意味）
+1 refine：磨きをかける、（細かいところまで）よりよくする
+2 amuse：楽しませる
+3 shred：細かく切りきざむ
+4 accompany：いっしょに行く、（歌や演奏の）伴奏をする
+【考え方】
+まず見るところ：空所の前の shows promise but と、次の文の with more practice
+空所のある文は but（しかし）で前後が対比になっています。
+The young violinist shows promise but needs to ( ) her technique.（その若いバイオリン奏者は将来有望だが、技術を（　）する必要がある）
+show promise は「将来有望である、見こみがある」です。but のあとには、「まだ足りないところがある」という内容が来ると考えられます。
+Her teacher feels that, with more practice, she could one day perform professionally.（彼女の先生は、もっと練習すれば、彼女はいつかプロとして演奏できるかもしれないと思っている）
+もっと練習して技術をよりよくすれば、プロになれるかもしれないという流れです。refine は「磨きをかける、よりよくする」なので、1が正解です。
+この問題の型：対比（将来有望 ⇔ まだ技術を磨く必要がある）
+【ほかの選択肢】
+2 amuse は「（人を）楽しませる」です。「自分の技術を楽しませる」となり、意味が通りません。
+3 shred は「細かく切りきざむ」です。「技術を切りきざむ必要がある」となり、もっと練習してプロをめざすという次の文と合いません。
+4 accompany は「いっしょに行く、伴奏をする」です。「自分の技術に伴奏する」となり、意味が通りません。
+【覚えるポイント】
+・refine：「磨きをかける、よりよくする」。refine one's technique で「技術に磨きをかける」です。show promise は「将来有望である」です。
+・「よいところ but 足りないところ」の形の文では、but のあとに「何をよくする必要があるか」が来ることが多いです。次の文の with more practice（もっと練習すれば）のような言葉も手がかりになります。

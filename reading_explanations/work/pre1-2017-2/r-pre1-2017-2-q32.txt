@@ -1,6 +1,7 @@
 ---
 choices: Their ability to slow down important physical processes allows them to survive in extreme environments. | The large amount of sugar in their cells makes them a valuable food source for other animals. | They have shown that an organism’s cells can remain healthy for a long time after the organism has died. | The fact that they cannot digest sugar in certain situations makes them useful for studying cell processes.
 answerText: Their ability to slow down important physical processes allows them to survive in extreme environments.
+reviewed: yes
 ---
 【正解】1 Their ability to slow down important physical processes allows them to survive in extreme environments.（大切な体の働きをゆっくりにする能力によって、極端な環境でも生き延びることができるから。）
 【和訳】

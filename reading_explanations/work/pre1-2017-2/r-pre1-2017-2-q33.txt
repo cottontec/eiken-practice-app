@@ -1,6 +1,7 @@
 ---
 choices: the reason that human kidney cells cannot survive large amounts of radiation as well as other human cells can. | less effective than the MRE11 gene at repairing damage that has been done to cells by radiation. | likely to be a significant factor in protecting DNA from the harmful effects of radiation. | more likely to be damaged by radiation when it is transferred from human to animal cells.
 answerText: likely to be a significant factor in protecting DNA from the harmful effects of radiation.
+reviewed: yes
 ---
 【正解】3 likely to be a significant factor in protecting DNA from the harmful effects of radiation.（放射線の有害な影響からDNAを守るうえで、重要な要因である可能性が高い。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: mutually | partially | manually | regretfully
 answerText: partially
+reviewed: yes
 ---
 【正解】2 partially（部分的に、一部だけ）
 【和訳】

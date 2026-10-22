@@ -1,0 +1,31 @@
+---
+choices: medieval | consecutive | vacant | feeble
+answerText: consecutive
+---
+【正解】2 consecutive（連続した、続けての）
+【和訳】
+（英文）
+Julietta has won the company's outstanding salesperson award for five ［consecutive］ years. The other staff members are impressed that she continues to win it year after year.
+（訳）
+ジュリエッタは、5年（連続）で、会社の優秀販売員賞を受賞している。ほかの社員たちは、彼女が毎年その賞を取り続けていることに感心している。
+（選択肢の意味）
+1 medieval：中世の
+2 consecutive：連続した、続けての
+3 vacant：空いている、空席の
+4 feeble：弱々しい、かすかな
+【考え方】
+まず見るところ：次の文の she continues to win it year after year
+空所のある文は、次のとおりです。
+Julietta has won the company's outstanding salesperson award for five (　) years.（ジュリエッタは、5年（　）で、会社の優秀販売員賞を受賞している）
+outstanding は「とても優れた」、salesperson は「販売員、営業の人」、award は「賞」です。
+次の文で、その様子がさらに説明されています。
+The other staff members are impressed that she continues to win it year after year.（ほかの社員たちは、彼女が毎年その賞を取り続けていることに感心している）
+continues to win（取り続けている）、year after year（毎年毎年）とあるので、5年間とぎれずに受賞していることが分かります。consecutive は「連続した」という意味で、five consecutive years で「5年連続」となります。ですから2が正解です。
+この問題の型：言いかえ（five consecutive years ＝ year after year）
+【ほかの選択肢】
+1 medieval は「中世の（ヨーロッパではおよそ5世紀から15世紀ごろ）」です。「5つの中世の年の間受賞している」となり、今の会社の賞の話と合いません。
+3 vacant は「空いている、空席の」です。部屋や席などに使う語で、「5つの空いている年」では意味が通りません。
+4 feeble は「弱々しい、かすかな」です。「5つの弱々しい年」では意味が通らず、毎年取り続けているという次の文ともつながりません。
+【覚えるポイント】
+・for five consecutive years：「5年連続で」。
+・for ＋数字＋(　)＋years の形で、あとに year after year（毎年毎年）や continues（続ける）があるときは、「連続した」という意味の語が入る手がかりになります。

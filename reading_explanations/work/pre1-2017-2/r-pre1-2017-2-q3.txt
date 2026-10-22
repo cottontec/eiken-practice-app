@@ -1,6 +1,7 @@
 ---
 choices: prologue | insight | famine | heritage
 answerText: famine
+reviewed: yes
 ---
 【正解】3 famine（飢饉）
 【和訳】
@@ -14,7 +15,7 @@ The country has experienced crop failures for two years in a row. Aid agencies w
 3 famine：飢饉
 4 heritage：（受け継がれてきた）遺産
 【考え方】
-まず見るところ：2文目の the resulting food shortages could lead to
+まず見るところ：空所のある文の the resulting food shortages could lead to
 最初の文を確かめます。
 The country has experienced crop failures for two years in a row.（その国では、2年続けて作物の不作が起きている）
 crop failures は「作物の不作（作物がうまく育たず、とれないこと）」、in a row は「続けて」という意味です。

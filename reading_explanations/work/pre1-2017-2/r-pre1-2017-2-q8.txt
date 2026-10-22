@@ -1,6 +1,7 @@
 ---
 choices: tumble | task | halt | beckon
 answerText: halt
+reviewed: yes
 ---
 【正解】3 halt（止まる、停止する）
 【和訳】

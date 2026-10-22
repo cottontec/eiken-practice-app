@@ -1,6 +1,7 @@
 ---
 choices: formation | intimidation | flattery | proficiency
 answerText: flattery
+reviewed: yes
 ---
 【正解】3 flattery（お世辞）
 【和訳】

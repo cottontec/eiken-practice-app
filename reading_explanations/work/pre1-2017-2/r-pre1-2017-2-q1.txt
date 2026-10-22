@@ -1,6 +1,7 @@
 ---
 choices: expire | depart | groan | abound
 answerText: abound
+reviewed: yes
 ---
 【正解】4 abound（たくさんある、満ちあふれる）
 【和訳】

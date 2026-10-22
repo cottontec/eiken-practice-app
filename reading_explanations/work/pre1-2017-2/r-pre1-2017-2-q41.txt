@@ -1,6 +1,7 @@
 ---
 choices: Differences among works of pottery found throughout the site prove that theories about trade links between the Philistines and other groups are wrong. | Although the Philistines’ burial practices were based on those of their neighbors, they show that the cultures influenced each other. | It is unlikely that the objects found buried at the gravesite have been there for as long as the skeletons have. | The time that passed between the Philistines’ arrival and the burials makes the remains less useful for determining the Philistines’ origins.
 answerText: The time that passed between the Philistines’ arrival and the burials makes the remains less useful for determining the Philistines’ origins.
+reviewed: yes
 ---
 【正解】4 The time that passed between the Philistines’ arrival and the burials makes the remains less useful for determining the Philistines’ origins.（ペリシテ人がやって来てから埋葬までにたった時間のせいで、遺骨は、ペリシテ人の起源を突き止めるのに役立つ度合いが低くなっている。）
 【和訳】

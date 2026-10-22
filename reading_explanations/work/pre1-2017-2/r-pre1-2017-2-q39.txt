@@ -1,6 +1,7 @@
 ---
 choices: Their military victories in the Middle East ensured that their culture survived and became dominant there. | Their ironworking and archery techniques were copied by peoples in Egypt and other areas. | Their culture eventually merged with those of other groups that lived in the Middle East. | Their refusal to move away from coastal areas left them open to attacks by more warlike peoples.
 answerText: Their culture eventually merged with those of other groups that lived in the Middle East.
+reviewed: yes
 ---
 【正解】3 Their culture eventually merged with those of other groups that lived in the Middle East.（彼らの文化は、やがて中東に住んでいたほかの集団の文化と一つになった。）
 【和訳】

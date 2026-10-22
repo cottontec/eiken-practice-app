@@ -1,6 +1,7 @@
 ---
 choices: can do harm to nearby areas | do not always fall into decline | prefer to be isolated | are not easy to study over time
 answerText: do not always fall into decline
+reviewed: yes
 ---
 【正解】2 do not always fall into decline（必ずしも衰退するわけではない）
 【和訳】
@@ -18,7 +19,7 @@ Nevertheless, the South American island of Tierra del Fuego—similar in size an
 Nevertheless は「それでも、そうではあるが」という意味です。第2段落では、タスマニアは人口が少なすぎて技能を失った、と書かれていました。それに対して、同じくらいの人口のティエラ・デル・フエゴ島は違う例として出されています。
 次に、空所のあとを見ます。
 When Tierra del Fuego was visited by Charles Darwin in 1834, its people had canoes, fishing equipment, and weapons made with various tools.（1834年にチャールズ・ダーウィンがティエラ・デル・フエゴを訪れたとき、そこの人々は、カヌーや漁の道具、さまざまな道具を使って作った武器を持っていた）
-人口が少なくても、ティエラ・デル・フエゴの人々は道具や技術を失っていませんでした。その前の文では、タスマニアの人々がほかの文化と接することがなかったのに対し、ティエラ・デル・フエゴの人々は外部の人々と定期的に交易をしていた、という違いが示されています。
+人口が少なくても、ティエラ・デル・フエゴの人々は、カヌーや漁の道具、武器を持っていました。その前の文では、タスマニアの人々がほかの文化と接することがなかったのに対し、ティエラ・デル・フエゴの人々は外部の人々と定期的に交易をしていた、という違いが示されています。
 fall into decline は「衰退する（勢いがおとろえていく）」、not always は「必ずしも～ではない」という意味です。「人口が少ない文明でも、必ずしも衰退するわけではない」となり、ティエラ・デル・フエゴの例と合うので、2が正解です。
 この問題の型：対比（Nevertheless：技能を失ったタスマニア⇔道具を持っていたティエラ・デル・フエゴ）／具体例とまとめ
 【ほかの選択肢】

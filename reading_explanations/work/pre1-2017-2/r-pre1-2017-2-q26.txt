@@ -1,6 +1,7 @@
 ---
 choices: seemed to benefit from this | used many other useful tools | had once possessed them | had become more like mainland Australians
 answerText: had once possessed them
+reviewed: yes
 ---
 【正解】3 had once possessed them（かつてはそれらを持っていた）
 【和訳】
@@ -24,7 +25,7 @@ had once possessed them の them は、前の文の bone tools, needles など�
 【ほかの選択肢】
 1 「このことから利益を得ているようだった」では、this（このこと）が「道具がまったくないこと」を指すことになります。空所のあとでは、文化が原始的になり、進歩がほとんど失われたと、悪い変化として書かれているので、利益を得ていたという話とつながりません。
 2 「ほかの多くの役に立つ道具を使っていた」は、空所のあとの「進歩のほとんどすべてが失われていた」と合いません。タスマニアの人々が、ほかの便利な道具を使っていたとは書かれていません。
-4 「本土のオーストラリア人に似てきていた」は、第1段落の最初の文と反対です。ヨーロッパ人は、タスマニアの文化が本土の文化と noticeably different（目立って異なっている）と気づいたと書かれています。
+4 「本土のオーストラリア人に似てきていた」は、第1段落の冒頭と反対です。ヨーロッパ人は、タスマニアの文化が本土の文化と noticeably different（目立って異なっている）と気づいたと書かれています。
 【覚えるポイント】
 ・possess：「持っている、所有する」。had once possessed で「かつては持っていた」。
 ・空所のあとに「～が失われた」とあるときは、その前に「もともとは持っていた」という内容が来ることが多いので、however などの向きを変える語と合わせて流れを確かめると手がかりになります。

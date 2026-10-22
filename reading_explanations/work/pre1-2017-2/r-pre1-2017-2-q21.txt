@@ -1,6 +1,7 @@
 ---
 choices: simplifies | hovers | portrays | verifies
 answerText: portrays
+reviewed: yes
 ---
 【正解】3 portrays（（役を）演じる、描く）
 【和訳】

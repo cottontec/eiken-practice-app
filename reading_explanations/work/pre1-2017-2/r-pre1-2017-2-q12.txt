@@ -1,6 +1,7 @@
 ---
 choices: persistent | superstitious | muddy | sane
 answerText: persistent
+reviewed: yes
 ---
 【正解】1 persistent（粘り強い、しつこい）
 【和訳】
@@ -14,16 +15,16 @@ Journalists need to be ［persistent］. Sometimes people do not want to talk to
 3 muddy：泥だらけの
 4 sane：正気の、分別のある
 【考え方】
-まず見るところ：2文目の request an interview many times before they say yes
+まず見るところ：あとの文の request an interview many times before they say yes
 Sometimes people do not want to talk to a reporter（ときには、人々が記者と話したがらないことがある）
 so it is necessary to request an interview many times before they say yes（だから、相手が承知するまで何度も取材を申しこむ必要がある）
 request an interview は「取材（インタビュー）を申しこむ」、before they say yes は「彼らが『はい』と言うまでに」という意味です。断られてもあきらめず、何度もお願いし続けることが必要だ、と説明しています。
-2文目は、1文目の「記者は（　）でなければならない」の理由を具体的に説明しています。persistent は「粘り強い、（あきらめずに）しつこく続ける」という意味なので、1が正解です。
+あとの文は、前の文の「記者は（　）でなければならない」の理由を具体的に説明しています。persistent は「粘り強い、（あきらめずに）しつこく続ける」という意味なので、1が正解です。
 この問題の型：具体例とまとめ（何度も取材を申しこむ→粘り強い）
 【ほかの選択肢】
 2 superstitious は「迷信深い（言い伝えや縁起を強く信じる）」です。何度も取材を申しこむこととは関係がありません。
 3 muddy は「泥だらけの」です。記者の性質の説明にはならず、意味が通りません。
-4 sane は「正気の、分別のある」です。記者に必要なこととして意味は通りそうですが、2文目の「断られても何度も申しこむ」という具体的な説明とはつながりません。
+4 sane は「正気の、分別のある」です。記者に必要なこととして意味は通りそうですが、あとの文の「断られても何度も申しこむ」という具体的な説明とはつながりません。
 【覚えるポイント】
 ・persistent：「粘り強い、しつこい」。
 ・「～でなければならない」という文のあとに、so（だから）を含む具体的な説明が続くときは、その説明に合う性質を表す語を選ぶと手がかりになります。

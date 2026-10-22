@@ -1,0 +1,28 @@
+---
+choices: heroic | malicious | soaked | delighted
+answerText: malicious
+---
+【正解】2 malicious（悪意のある）
+【和訳】
+（英文）
+When the boy admitted to spreading ［malicious］ rumors about his teacher, the principal made him write a letter to apologize for what he had done.
+（訳）
+その男の子が、自分の先生について悪意のあるうわさを広めたことを認めると、校長は彼に、自分のしたことを謝る手紙を書かせた。
+（選択肢の意味）
+1 heroic：英雄的な、勇ましい
+2 malicious：悪意のある（相手を傷つけようとする）
+3 soaked：びしょぬれの
+4 delighted：（人が）喜んでいる
+【考え方】
+まず見るところ：文の後半の made him write a letter to apologize
+空所には、男の子が広めたうわさがどんなうわさだったかを表す語が入ります。そのあと、校長が男の子にさせたことが書かれています。
+the principal made him write a letter to apologize for what he had done（校長は彼に、自分のしたことを謝る手紙を書かせた）
+principal は「校長」です。made him write は「彼に書かせた」で、make 人 ～ で「人に～させる」という意味です。謝らなければならなかったのですから、男の子は悪いことをしたと分かります。先生を傷つけるうわさを表す malicious（悪意のある）が合うので、2が正解です。
+この問題の型：因果（悪意のあるうわさを広めた → 謝る手紙を書かされた）
+【ほかの選択肢】
+1 heroic は「英雄的な」です。「英雄的なうわさ」を広めたのなら、謝る手紙を書かされる理由になりません。
+3 soaked は「びしょぬれの」です。「びしょぬれのうわさ」となり、意味が通りません。
+4 delighted は「（人が）喜んでいる」です。人の気持ちを表す語で、「喜んでいるうわさ」となり意味が通りません。
+【覚えるポイント】
+・malicious：「悪意のある」。spread rumors は「うわさを広める」、admit to ～ing は「～したことを認める」です。
+・文の後半に「謝る」「しかられる」のような出来事があるときは、その原因として、空所に悪い意味の語が入る手がかりになります。

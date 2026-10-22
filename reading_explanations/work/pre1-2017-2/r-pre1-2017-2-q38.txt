@@ -1,6 +1,7 @@
 ---
 choices: They exaggerate the number of battles that the Jews won against the Philistines and other enemies. | They may give modern people an inaccurate image of what Philistine civilization was like. | The dates they give for the period when the Philistines became powerful and warlike are likely incorrect. | Their descriptions of the rivalry between the Jews and the Philistines have been incorrectly interpreted by scholars.
 answerText: They may give modern people an inaccurate image of what Philistine civilization was like.
+reviewed: yes
 ---
 【正解】2 They may give modern people an inaccurate image of what Philistine civilization was like.（それらは、ペリシテ人の文明がどのようなものだったかについて、現代の人々に不正確なイメージを与えているかもしれない。）
 【和訳】

@@ -1,0 +1,30 @@
+---
+choices: hold out | wash away | pass out | blast off
+answerText: hold out
+---
+【正解】1 hold out（〔要求が通るまで〕ゆずらずに持ちこたえる）
+【和訳】
+（英文）
+The management tried to end the strike by offering a small pay increase, but the union decided to ［hold out］ until workers were also offered more vacation days.
+（訳）
+経営側は、わずかな賃上げを申し出てストライキを終わらせようとしたが、労働組合は、労働者が休暇日数の増加も提示されるまで、（ゆずらずに持ちこたえる）ことにした。
+（選択肢の意味）
+1 hold out：（要求が通るまで）ゆずらずに持ちこたえる、がんばり通す
+2 wash away：～を洗い流す
+3 pass out：気を失う、～を配る
+4 blast off：（ロケットが）発射される
+【考え方】
+まず見るところ：空所の前の but と、後ろの until workers were also offered more vacation days
+まず、言葉の意味を確かめます。management は「経営側（会社を経営する人たち）」、strike は「ストライキ（働く人たちが要求を通すために、そろって仕事を休むこと）」、union は「労働組合（働く人たちが集まって作る団体）」です。
+前半では、経営側が賃上げを申し出て、ストライキを終わらせようとしました。but（しかし）のあとで、組合はそれとは反対の向きの行動をとります。
+until workers were also offered more vacation days（労働者が休暇日数の増加も提示されるまで）
+until は「～まで」、also は「（賃上げに加えて）～も」です。休暇も増やしてもらえるまで、組合はストライキをやめずにがんばる、という流れです。
+hold out は「（要求が通るまで）ゆずらずに持ちこたえる」なので、1が正解です。
+この問題の型：対比（but 終わらせようとした ⇔ ゆずらない）／熟語・決まった形（hold out until ～）
+【ほかの選択肢】
+2 wash away は「洗い流す」です。「組合は休暇が増えるまで洗い流すことにした」となり、意味が通りません。
+3 pass out は「気を失う、配る」です。「組合は気を失うことにした」では意味が通らず、until 以下ともつながりません。
+4 blast off は「（ロケットが）発射される」です。労働組合の行動としては意味が通りません。
+【覚えるポイント】
+・hold out：「（要求が通るまで）ゆずらずに持ちこたえる」。
+・until ～（～まで）がある文では、空所の動作が「その時まで続けられること」かどうかを考えると、答えを決める手がかりになります。

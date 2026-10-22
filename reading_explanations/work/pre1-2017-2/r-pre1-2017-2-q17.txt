@@ -1,6 +1,7 @@
 ---
 choices: lean | bulky | impaired | predictable
 answerText: bulky
+reviewed: yes
 ---
 【正解】2 bulky（かさばる、大きくて扱いにくい）
 【和訳】

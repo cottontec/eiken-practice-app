@@ -1,6 +1,7 @@
 ---
 choices: pursued | concealed | prolonged | frustrated
 answerText: frustrated
+reviewed: yes
 ---
 【正解】4 frustrated（（思いどおりにならず）いらいらした）
 【和訳】
@@ -18,7 +19,7 @@ After spending two hours trying unsuccessfully to repair his bicycle’s brakes,
 After spending two hours trying unsuccessfully to repair his bicycle’s brakes（自転車のブレーキを直そうとして、うまくいかないまま2時間を過ごしたあと）
 unsuccessfully は「うまくいかずに」という意味です。2時間がんばっても直らなかったことが分かります。
 次に、空所の文の形を見ます。
-Leo got so ( ) that he threw his tools at the wall of his garage（レオはとても（　）なったので、ガレージの壁に工具を投げつけた）
+Leo got so ( ) that he threw his tools at the wall of his garage（レオはとても（　）の状態になったので、ガレージの壁に工具を投げつけた）
 so ～ that … は「とても～なので…」という意味です。工具を壁に投げつけるのは、腹が立ったり、いらいらしたりしたときの行動です。
 frustrated は「（思いどおりにならず）いらいらした、不満がたまった」という意味です。「直らなくていらいらし、工具を投げた」とつながるので、4が正解です。
 この問題の型：因果（うまく直らない→いらいらする→工具を投げる）／熟語・決まった形（so ～ that …）

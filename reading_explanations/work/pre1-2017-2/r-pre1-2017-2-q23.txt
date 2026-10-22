@@ -1,6 +1,7 @@
 ---
 choices: fall off | trip up | sit in | try out
 answerText: fall off
+reviewed: yes
 ---
 【正解】1 fall off（減る、落ちこむ）
 【和訳】

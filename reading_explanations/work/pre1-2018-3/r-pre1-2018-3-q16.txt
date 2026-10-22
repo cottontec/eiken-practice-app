@@ -1,0 +1,28 @@
+---
+choices: weary | verified | cheery | rash
+answerText: weary
+---
+【正解】1 weary（うんざりした、疲れた）
+【和訳】
+（英文）
+Victor has begun to feel ［weary］ of his long commute to work. He says he will look for an apartment closer to his office.
+（訳）
+ビクターは、長い通勤にうんざりし始めている。彼は、職場にもっと近いアパートを探すつもりだと言っている。
+（選択肢の意味）
+1 weary：（weary of ～ で）～にうんざりした、疲れた
+2 verified：確かめられた
+3 cheery：陽気な、元気のよい
+4 rash：軽はずみな、無茶な
+【考え方】
+まず見るところ：空所のあとの of his long commute と、次の文の closer to his office
+空所のある部分は feel ( ) of his long commute to work（長い通勤に（　）と感じる）です。commute は「通勤（家から職場へ通うこと）」です。
+He says he will look for an apartment closer to his office.（彼は、職場にもっと近いアパートを探すつもりだと言っている）
+職場の近くに引っこそうとしているのは、今の長い通勤がいやになったからだと考えられます。weary of ～ は「～にうんざりした、疲れた」という意味で、of とつながる形も合うので、1が正解です。
+この問題の型：因果（長い通勤にうんざり → 職場の近くに住もうとする）
+【ほかの選択肢】
+2 verified は「確かめられた」です。「長い通勤に確かめられたと感じる」となり、意味が通りません。
+3 cheery は「陽気な」です。通勤を楽しく感じているのなら、わざわざ職場の近くに引っこす理由になりません。
+4 rash は「軽はずみな」です。人の行動について使う語で、「長い通勤に軽はずみだと感じる」となり意味が通りません。
+【覚えるポイント】
+・weary of ～：「～にうんざりした、疲れた」。commute は「通勤」です。
+・次の文に「これから何をするか」（ここでは引っこし先を探すこと）が書かれているときは、それがどんな気持ちから来た行動なのかを考えると、空所の語を選ぶ手がかりになります。

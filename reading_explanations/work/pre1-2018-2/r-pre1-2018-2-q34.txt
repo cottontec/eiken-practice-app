@@ -1,0 +1,34 @@
+---
+choices: Volunteers should have to show they are familiar with local medical practices before treating patients. | Volunteers should change their focus to long-term efforts that will improve the skills of local healthcare workers. | Nonprofessionals who want to volunteer should be given the opportunity to be trained by doctors in developing nations. | Programs should aim to match patients who need a certain procedure with doctors who want to master that procedure.
+answerText: Volunteers should change their focus to long-term efforts that will improve the skills of local healthcare workers.
+---
+【正解】2 Volunteers should change their focus to long-term efforts that will improve the skills of local healthcare workers.（ボランティアは、地元の医療従事者の技術を高める長期的な取り組みへと、力を注ぐ先を変えるべきだ。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：How does Lexy Adams believe medical care in developing countries should be changed?（レクシー・アダムズは、発展途上国の医療はどのように変えられるべきだと考えているか。）
+1 Volunteers should have to show they are familiar with local medical practices before treating patients.（ボランティアは、患者を治療する前に、地元の医療のやり方をよく知っていることを示さなければならないようにするべきだ。）
+2 Volunteers should change their focus to long-term efforts that will improve the skills of local healthcare workers.（ボランティアは、地元の医療従事者の技術を高める長期的な取り組みへと、力を注ぐ先を変えるべきだ。）
+3 Nonprofessionals who want to volunteer should be given the opportunity to be trained by doctors in developing nations.（ボランティアをしたい専門家でない人々は、発展途上国の医師から訓練を受ける機会を与えられるべきだ。）
+4 Programs should aim to match patients who need a certain procedure with doctors who want to master that procedure.（事業は、ある処置を必要とする患者と、その処置を身につけたい医師とを結びつけることを目指すべきだ。）
+【考え方】
+まず見るところ：第3段落の “we need to focus on systems-building and medical education in underserved countries.” と That is, instead of focusing on short-term efforts, ～
+第3段落の最初の文で、アダムズの意見が示されます。
+Medical student Lexy Adams, who has volunteered several times, says to improve healthcare in the developing world, “we need to focus on systems-building and medical education in underserved countries.”（何度かボランティアをしたことのある医学生のレクシー・アダムズは、発展途上の世界の医療をよくするためには、「医療が十分に行き届いていない国々で、仕組みづくりと医学教育に力を注ぐ必要がある」と言う）
+systems-building は「仕組みづくり」、underserved は「（医療などが）十分に行き届いていない」という意味です。
+次の文は That is（つまり）で始まり、この意見を分かりやすく言い直しています。
+That is, instead of focusing on short-term efforts, foreign healthcare volunteers could teach best practices to their local counterparts and develop ongoing collaborations that would allow for follow-up.（つまり、外国から来た医療ボランティアは、短期的な取り組みに力を注ぐ代わりに、地元で同じ仕事をしている人々に最善のやり方を教え、その後の経過を見守ることができるような、継続的な協力関係を築くことができるだろう、ということだ）
+counterpart は「（立場の違う所で）同じ仕事をしている人」、ongoing は「継続的な、続いていく」です。
+本文と選択肢を対にすると、次のようになります。
+本文 instead of focusing on short-term efforts（短期的な取り組みに力を注ぐ代わりに）＝ 選択肢 change their focus to long-term efforts（長期的な取り組みへと力を注ぐ先を変える）
+本文 teach best practices to their local counterparts（地元で同じ仕事をしている人々に最善のやり方を教える）＝ 選択肢 improve the skills of local healthcare workers（地元の医療従事者の技術を高める）
+本文の ongoing collaborations（継続的な協力関係）も、選択肢の long-term（長期的な）という意味につながります。ですから2が正解です。
+この問題の型：言いかえ（instead of short-term efforts ＝ change their focus to long-term efforts）
+【ほかの選択肢】
+1 本文に書かれていません。本文では、ボランティアが地元の人々に最善のやり方を「教える」ことが述べられていて、ボランティアが地元の医療のやり方を知っていると示す必要があるという話は出てきません。
+3 本文に書かれていません。本文で教えるのは外国から来たボランティアの側で、専門家でない人が発展途上国の医師から訓練を受けるという話は出てきません。また、本文は、資格のある人だけが医療を提供しに行くべきだと述べています。
+4 本文の内容と合いません。本文では、地元の人々を doctors learning complex procedures（複雑な処置を学ぼうとしている医師）にとっての「練習用の人形」と見るべきではない、と述べています。処置を身につけたい医師と患者を結びつけることは、本文が否定している考え方です。
+【覚えるポイント】
+・instead of ～ing：「～する代わりに」。instead of short-term efforts（短期的な取り組みの代わりに）は、反対の long-term（長期的な）を選ぶ手がかりになります。
+・That is（つまり）で始まる文は、前の意見を分かりやすく言い直していることが多いので、人物の意見をたずねる設問では、その文を選択肢と比べると手がかりになります。

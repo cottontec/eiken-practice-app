@@ -1,6 +1,7 @@
 ---
 choices: Up to one-sixth of all tardigrades are able to resist infection by bacteria and other harmful organisms. | A certain amount of tardigrades’ DNA was acquired from other organisms. | Antibiotics could not cure the dangerous infections that tardigrades can spread to other animals. | The bacteria that were transferred to the tardigrade genome were harmful to tardigrades’ DNA.
 answerText: A certain amount of tardigrades’ DNA was acquired from other organisms.
+reviewed: yes
 ---
 【正解】2 A certain amount of tardigrades’ DNA was acquired from other organisms.（クマムシのDNAのある程度の量は、ほかの生き物から得たものだった。）
 【和訳】
@@ -28,5 +29,5 @@ claims は「主張」で、that 以下がその中身です。genome は「ゲ�
 3 本文にありません。抗生物質は、國枝がDNAの汚染を確かめるために使った方法の一つとして出てくるだけで、クマムシがほかの動物に感染症を広めるという話はありません。
 4 本文と合いません。以前の研究では、ほかの生き物から移ってきたとされるDNAは、極端な環境に対処するクマムシの並外れた能力の説明とされていました。クマムシのDNAに害を与えていたとは書かれていません。また、移ってきたとされたのは細菌そのものではなく、ゲノムの一部です。
 【覚えるポイント】
-・previously：「以前に」。設問に previously があるときは、のちに否定された古い考えをたずねていることが多いです。
+・previously：「以前に」。設問に previously があるときは、今の考えではなく、以前の考えをたずねていることが多いので、「以前〜と主張された」という書き方を探しましょう。
 ・本文で claims ～ that …（…という主張）が出てきたら、that 以下がその主張の中身なので、そこを選択肢と比べることが手がかりになります。

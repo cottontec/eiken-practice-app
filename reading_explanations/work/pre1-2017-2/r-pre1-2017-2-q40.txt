@@ -1,6 +1,7 @@
 ---
 choices: The human remains there indicate the Philistines were far less aggressive than their reputation has suggested. | Analysis of the perfume placed near some of the bodies has revealed that the Philistines traded with other peoples. | The pottery at the site indicates the Philistines were more technologically advanced than previously thought. | Evidence found there suggests the Philistines fought more against each other than against other peoples.
 answerText: The human remains there indicate the Philistines were far less aggressive than their reputation has suggested.
+reviewed: yes
 ---
 【正解】1 The human remains there indicate the Philistines were far less aggressive than their reputation has suggested.（そこの人骨は、ペリシテ人が、その評判が示してきたよりもはるかに攻撃的でなかったことを示している。）
 【和訳】

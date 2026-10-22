@@ -1,6 +1,7 @@
 ---
 choices: boost | ditch | shield | feast
 answerText: boost
+reviewed: yes
 ---
 【正解】1 boost（押し上げ、後押し）
 【和訳】
