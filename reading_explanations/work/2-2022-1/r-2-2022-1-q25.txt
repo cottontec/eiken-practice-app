@@ -1,0 +1,29 @@
+---
+choices: often go back for more | sometimes drop them | also eat leaves and flowers | bring them to their nests
+answerText: sometimes drop them
+---
+【正解】2 sometimes drop them（ときどきそれらを落とす）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 often go back for more（もっと取りによく戻る）
+2 sometimes drop them（ときどきそれらを落とす）
+3 also eat leaves and flowers（葉や花も食べる）
+4 bring them to their nests（それらを巣に持ち帰る）
+【考え方】
+空所は第2段落の However, they ( 25 ). です。「しかし、鳥たちは（25）」という意味です。
+まず、空所の前を見ます。
+・They observed the birds taking fruits and nuts from trees and carrying them over long distances.（研究者たちは、鳥たちが木から果実や木の実を取り、長い距離運んでいくのを観察した）
+・The birds do this so that they can eat the fruits and nuts later.（鳥たちがこうするのは、果実や木の実をあとで食べられるようにするためだ）
+次に、空所のあとを見ます。
+・When this happens in areas cleared by humans, the seeds inside the fruits and nuts grow into trees, helping the forests to recover.（これが人間によって切り開かれた地域で起こると、果実や木の実の中の種が育って木になり、森が回復するのを助ける）
+鳥たちは、あとで食べるつもりで果実や木の実を運びます。However（しかし）があるので、空所にはその「つもり」とは違うことが入ります。また、空所のあとの this（これ）が起こると、果実や木の実の中の種が地面で育って木になります。運んでいる途中で果実や木の実を落とせば、種は地面に残り、木に育つことができます。
+sometimes drop them（ときどきそれらを落とす）の them は、fruits and nuts（果実や木の実）を指しています。ですから、2が正解です。この内容は、段落の始めにある they spread the seeds of 18 kinds of trees（18種類の木の種を広めている）ともつながります。
+【ほかの選択肢】
+1 「もっと取りによく戻る」は、あとで食べるために運ぶという前の文と同じ向きの内容で、However（しかし）と合いません。また、取りに戻るだけでは、種が切り開かれた地域で育つことにつながりません。
+3 「葉や花も食べる」は、果実や木の実の種の話とは関係がありません。空所のあとの「種が育って木になる」ことの説明にもなりません。
+4 「それらを巣に持ち帰る」は、あとで食べるために運ぶという前の内容と同じ向きで、However と合いません。また、巣に持ち帰るだけなら、種が人間に切り開かれた地域で育って森を回復させる、という空所のあとの内容につながりません。
+【覚えるポイント】
+・However：「しかし」。前の内容（ここでは「あとで食べるつもり」）と違うことが続く合図です。
+・空所のあとの this（これ）が何を指すかを考えると、空所の中身が分かることがあります。

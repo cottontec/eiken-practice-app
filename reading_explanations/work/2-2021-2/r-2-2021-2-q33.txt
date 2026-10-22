@@ -1,0 +1,29 @@
+---
+choices: led to the creation of a number of beard clubs. | have special categories to allow women to take part. | are held every year in the city of Austin in Texas. | were canceled in the 1930s and returned in the 1960s.
+answerText: have special categories to allow women to take part.
+---
+【正解】2 have special categories to allow women to take part.（女性が参加できるように、特別な部門がある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：世界あごひげ・口ひげ選手権大会（WBMC）は
+1 多くのひげクラブが作られるきっかけとなった。
+2 女性が参加できるように、特別な部門がある。
+3 毎年、テキサス州のオースティン市で開かれている。
+4 1930年代に中止になり、1960年代に再開された。
+【考え方】
+WBMC について書かれているのは第4段落の後半です。段落の最後に、次の文があります。
+The event even included competitions for fake beards in which women could participate.（この大会には、女性も参加できる、つけひげの競技さえあった）
+The event は、直前の文の2017年にオースティンで開かれた WBMC を指します。fake beards は「つけひげ（本物ではないひげ）」、participate は「参加する」です。in which women could participate は前の competitions for fake beards に説明を付け足していて、「女性が参加できる、つけひげの競技」という意味になります。even（さえ）は、男性のひげを比べる大会なのに、女性が参加できる競技まであった、という驚きを表しています。
+本文と選択肢を対にすると、次のようになります。
+本文 competitions for fake beards ＝ 選択肢 special categories
+本文 in which women could participate ＝ 選択肢 to allow women to take part
+「つけひげの競技」が「特別な部門」に、「女性が参加できる」が「女性が参加できるように」に言いかえられています。take part は participate と同じ「参加する」です。ですから2が正解です。
+【ほかの選択肢】
+1 本文の順番は「ひげクラブ」→ WBMC です。Some of these clubs decided to start the World Beard and Moustache Championships（こうしたクラブのいくつかが、WBMC を始めることに決めた）とあるように、クラブが大会を始めたのであって、大会がクラブを生んだのではありません。関係が逆です。
+3 本文には which are held every two years（2年ごとに開かれている）とあるので、「毎年」ではありません。また、オースティンで開かれたのは In 2017（2017年に）の大会のことで、いつもオースティンで開かれるとは書かれていません。
+4 1930年代と1960年代の話は、In the 20th century, too, beards became unpopular in the 1930s, only to come back again in the 1960s.（20世紀にも、1930年代にひげは人気がなくなったが、結局1960年代に再び戻ってきた）という、ひげの人気の話です。WBMC が中止されたり再開されたりした話ではありません。
+【覚えるポイント】
+・participate ＝ take part：「参加する」。participate in ～／take part in ～ で「～に参加する」。
+・every two years：「2年ごとに」。every year（毎年）と区別しましょう。
