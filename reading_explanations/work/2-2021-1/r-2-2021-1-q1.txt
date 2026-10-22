@@ -1,6 +1,7 @@
 ---
 choices: needlessly | entirely | scientifically | violently
 answerText: entirely
+reviewed: yes
 ---
 【正解】2 entirely（完全に、すっかり）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: proposing | converting | drowning | exporting
 answerText: drowning
+reviewed: yes
 ---
 【正解】3 drowning（おぼれている）
 【和訳】

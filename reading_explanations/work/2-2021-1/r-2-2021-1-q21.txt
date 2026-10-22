@@ -1,6 +1,7 @@
 ---
 choices: spend more time away from work | bring home more money | be kinder to the environment | become stronger and healthier
 answerText: be kinder to the environment
+reviewed: yes
 ---
 【正解】3 be kinder to the environment（環境にもっと優しくする）
 【和訳】

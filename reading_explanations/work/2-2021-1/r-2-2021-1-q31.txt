@@ -1,6 +1,7 @@
 ---
 choices: Pigeons are not as affected by high levels of air pollution as other birds. | Pigeons are cheap to use because they are common in many big cities. | He found out that using drones in the city of London was not allowed. | He thought that using birds would make more people interested in his project.
 answerText: He found out that using drones in the city of London was not allowed.
+reviewed: yes
 ---
 【正解】3 He found out that using drones in the city of London was not allowed.（ロンドン市内でドローンを使うことは許されていないと分かった。）
 【和訳】
@@ -9,7 +10,7 @@ answerText: He found out that using drones in the city of London was not allowed
 ＜この設問と選択肢の訳＞
 設問：ピエール・デュケノワがプロジェクトにハトを使うことにした理由の1つは何ですか。
 1 ハトはほかの鳥ほど、ひどい大気汚染の影響を受けない。
-2 ハトは多くの大都市でよく見られるので、使うのに費用がかからない。
+2 ハトは多くの大都市でよく見られるので、使うのに費用が安くすむ。
 3 ロンドン市内でドローンを使うことは許されていないと分かった。
 4 鳥を使えば、より多くの人が自分のプロジェクトに興味を持つだろうと考えた。
 【考え方】

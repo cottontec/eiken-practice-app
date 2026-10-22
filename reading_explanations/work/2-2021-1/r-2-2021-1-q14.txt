@@ -1,6 +1,7 @@
 ---
 choices: apply to | vote for | put off | tie up
 answerText: apply to
+reviewed: yes
 ---
 【正解】1 apply to（～に当てはまる、～に適用される）
 【和訳】

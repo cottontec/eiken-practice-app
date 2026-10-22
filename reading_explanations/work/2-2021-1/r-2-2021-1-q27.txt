@@ -1,6 +1,7 @@
 ---
 choices: have an online interview with Peter Decker. | receive training for two weeks in London. | come up with fun ideas for teaching children. | teach some trial Chinese lessons at the school.
 answerText: receive training for two weeks in London.
+reviewed: yes
 ---
 【正解】2 receive training for two weeks in London.（ロンドンで2週間研修を受ける。）
 【和訳】

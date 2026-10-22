@@ -1,6 +1,7 @@
 ---
 choices: the government is looking at new ways to deal with pollution. | the quality of the air is worse than in many other large cities. | over a million people die every year from the effects of dirty air. | a new kind of pollution has been damaging people's eyes.
 answerText: the quality of the air is worse than in many other large cities.
+reviewed: yes
 ---
 【正解】2 the quality of the air is worse than in many other large cities.（空気の質がほかの多くの大都市より悪い。）
 【和訳】
@@ -18,7 +19,7 @@ London is said to have some of the worst levels of air pollution in the world.�
 is said to ～ は「～だと言われている」、the worst は bad（悪い）の最上級（「最も～」を表す形）です。some of the worst ～ は「最もひどいものの中のいくつか」、つまり「世界で最悪の部類に入る」という意味です。
 本文と選択肢を対にすると、次のようになります。
 本文 some of the worst levels of air pollution in the world ＝ 選択肢 the quality of the air is worse than in many other large cities
-「大気汚染が世界で最悪の部類」ということは、「空気の質がほかの多くの大都市より悪い」ということです。worst（最も悪い）が worse than ～（～より悪い）という比較級に言いかえられています。
+「大気汚染が世界で最悪の部類」ということは、「空気の質がほかの多くの大都市より悪い」ということです。worst（最も悪い）が、worse than ～（～より悪い）という比較級（「より～」を表す形）に言いかえられています。
 【ほかの選択肢】
 1 政府については、few people are asking the government to take action（政府に行動を起こすよう求めている人はほとんどいない）とあるだけです。政府が新しい方法を検討しているとは書かれていません。
 3 本文の数字は about 7 million people around the world（世界中で約700万人）で、ロンドンだけの数ではありません。また、「100万」という数は第3段落の Over a million pigeons（100万羽を超えるハト）に出てくるもので、亡くなった人の数ではありません。数字と対象が違います。

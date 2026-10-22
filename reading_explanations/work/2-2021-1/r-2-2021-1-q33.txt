@@ -1,6 +1,7 @@
 ---
 choices: More people have started talking about the dangers of air pollution. | Visitors to London have been using his devices to measure pollution. | The government has promised to do more to clean up London's air. | Experts have begun using pigeons to collect data about other problems.
 answerText: More people have started talking about the dangers of air pollution.
+reviewed: yes
 ---
 【正解】1 More people have started talking about the dangers of air pollution.（大気汚染の危険について話し始める人が増えた。）
 【和訳】

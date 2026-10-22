@@ -1,6 +1,7 @@
 ---
 choices: there were empty apartment buildings in many parts of the Soviet Union. | Estonia had lost its independence and become part of the Soviet Union. | most people in Europe were living in temporary apartment buildings. | many people in northern Europe had left their countries to find new homes.
 answerText: Estonia had lost its independence and become part of the Soviet Union.
+reviewed: yes
 ---
 【正解】2 Estonia had lost its independence and become part of the Soviet Union.（エストニアは独立を失い、ソビエト連邦の一部になっていた。）
 【和訳】

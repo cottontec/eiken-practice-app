@@ -1,6 +1,7 @@
 ---
 choices: Send her details about her work duties. | Reserve her flight tickets and hotel. | Cover her food and personal expenses. | Help pay for her to move to London.
 answerText: Help pay for her to move to London.
+reviewed: yes
 ---
 【正解】4 Help pay for her to move to London.（彼女がロンドンへ引っ越す費用を払うのを手伝う。）
 【和訳】
@@ -18,10 +19,10 @@ The school will cover your moving costs up to £1,500.（当校は、あなた�
 cover は「（費用を）負担する、まかなう」、moving costs は「引っ越しの費用」、up to ～ は「～まで」という意味です。£ は「ポンド」と読み、イギリスのお金の単位です。学校はロンドンにあり、リーさんはそこで働くために引っ越してくるので、これは「ロンドンへの引っ越し費用」です。
 本文と選択肢を対にすると、次のようになります。
 本文 cover your moving costs up to £1,500 ＝ 選択肢 Help pay for her to move to London
-1,500ポンドまでという上限があるので、全額を払うとは限りません。そのため、選択肢では help pay for（払うのを手伝う、費用の一部を出す）と表されています。
+1,500ポンドまでという上限があるので、かかった費用の全額を学校が払うとは限りません。選択肢の help pay for（払うのを手伝う、費用を出して助ける）は、このように上限のある負担の仕方とよく合う言い方です。
 【ほかの選択肢】
 1 職務内容（work duties）については、please look over the attached contract of employment, which describes your work duties（添付の雇用契約書に目を通してください。そこにはあなたの職務内容が書かれています）とあります。職務内容の書かれた契約書はこのメールにすでに添付されていて、学校がこれから送るとは書かれていません。
-2 本文には Expenses like airline tickets and hotel stays are covered（航空券やホテルの宿泊などの費用は負担の対象になる）とあります。学校は費用を負担するのであって、学校が予約をするとはどこにも書かれていません。また、リーさんはすべての領収書の原本を提出するよう求められているので、リーさん自身が支払ったあとで、その費用を学校が負担する形だと考えられます。
+2 本文には Expenses like airline tickets and hotel stays are covered（航空券やホテルの宿泊などの費用は負担の対象になる）とあります。学校は費用を負担するのであって、学校が予約をするとはどこにも書かれていません。また、リーさんは all original receipts（すべての領収書の原本）を提出するよう求められています。領収書（お金を払ったことを証明する紙）を出すように言われていることからも、支払いはリーさん自身がして、あとで学校がその費用を負担するしくみだと読み取れます。
 3 本文に food and other personal expenses are not（食費やその他の個人的な出費は対象にならない）とはっきり書かれています。本文と反対の内容です。
 【覚えるポイント】
 ・cover ～：「（費用を）負担する、まかなう」という意味でよく使われます。

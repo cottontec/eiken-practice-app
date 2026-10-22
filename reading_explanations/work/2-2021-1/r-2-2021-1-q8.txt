@@ -1,6 +1,7 @@
 ---
 choices: arguing | spilling | convincing | maintaining
 answerText: spilling
+reviewed: yes
 ---
 【正解】2 spilling（こぼすこと）
 【和訳】

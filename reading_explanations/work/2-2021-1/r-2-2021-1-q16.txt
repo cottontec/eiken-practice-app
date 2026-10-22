@@ -1,6 +1,7 @@
 ---
 choices: had some difficulty | did a lot of harm | took a break | found fault
 answerText: did a lot of harm
+reviewed: yes
 ---
 【正解】2 did a lot of harm（大きな害をもたらした）
 【和訳】
@@ -12,7 +13,7 @@ answerText: did a lot of harm
 do harm は「害を与える」という意味で、did a lot of harm で「大きな害をもたらした」となります。harm は「害、被害」という意味の名詞です。嵐が大きな被害をもたらした→野菜が傷んで売れなかった、と1文目と2文目が原因と結果でつながります。
 【ほかの選択肢】
 1 had some difficulty は「少し苦労した」です。苦労するのは人などであり、嵐が苦労したという文になってしまいます。
-3 took a break は「休憩した」です。「嵐が休憩した」では、野菜が傷んだという2文目と反対の内容になります。
+3 took a break は「休憩した」です。「嵐が休憩した（一時やんだ）」という意味になり、野菜が傷んで売れなかったという2文目の原因の説明になりません。
 4 found fault は「文句をつけた、あら探しをした」です。人が他人を批判するときの言い方で、嵐を主語にすると意味が通りません。
 【覚えるポイント】
 ・do harm (to ～)：「（～に）害を与える」。do a lot of harm で「大きな害を与える」。

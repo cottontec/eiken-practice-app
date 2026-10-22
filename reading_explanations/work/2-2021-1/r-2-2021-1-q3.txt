@@ -1,10 +1,11 @@
 ---
 choices: permission | membership | concentration | hardship
 answerText: hardship
+reviewed: yes
 ---
 【正解】4 hardship（苦労、困難）
 【和訳】
-音楽家のジミー・ベイカーは、子どものころに多くの（苦労）をしました。彼が裕福で有名なロック歌手になる前、彼の家はとても貧しかったのです。
+音楽家のジミー・ベイカーは、子どものころに多くの（苦労）をしました。彼が裕福で有名なロックスターになる前、彼の家はとても貧しかったのです。
 （選択肢の意味）1 許可　2 会員であること　3 集中　4 苦労、困難
 【考え方】
 2文目が1文目の理由の説明になっています。His family was very poor（彼の家族はとても貧しかった）とあり、それは before he became a rich and famous rock star（裕福で有名なロック歌手になる前）のことです。

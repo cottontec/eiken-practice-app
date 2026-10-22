@@ -1,6 +1,7 @@
 ---
 choices: feature | translation | sensation | property
 answerText: sensation
+reviewed: yes
 ---
 【正解】3 sensation（感覚、〔はっきりしない〕感じ）
 【和訳】

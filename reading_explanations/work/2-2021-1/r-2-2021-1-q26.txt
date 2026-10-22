@@ -1,6 +1,7 @@
 ---
 choices: Naturally | Occasionally | Secondly | Equally
 answerText: Naturally
+reviewed: yes
 ---
 【正解】1 Naturally（当然のことながら、もちろん）
 【和訳】

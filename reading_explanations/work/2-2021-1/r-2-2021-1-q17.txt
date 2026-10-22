@@ -1,6 +1,7 @@
 ---
 choices: at the sight of | for a change of | for the benefit of | at the thought of
 answerText: for the benefit of
+reviewed: yes
 ---
 【正解】3 for the benefit of（～のために、～の利益になるように）
 【和訳】

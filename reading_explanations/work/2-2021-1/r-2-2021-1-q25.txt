@@ -1,6 +1,7 @@
 ---
 choices: their exact numbers are unknown | there were many more in the past | the groups have no government | they all meet once every year
 answerText: their exact numbers are unknown
+reviewed: yes
 ---
 【正解】1 their exact numbers are unknown（彼らの正確な数は分かっていない）
 【和訳】

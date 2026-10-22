@@ -1,6 +1,7 @@
 ---
 choices: sleep lying down | live in one place | eat meat or fish | use paper money
 answerText: live in one place
+reviewed: yes
 ---
 【正解】2 live in one place（1つの場所に住む）
 【和訳】

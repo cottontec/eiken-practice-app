@@ -1,6 +1,7 @@
 ---
 choices: The SmartEnCity project has helped to turn Tartu into a more attractive city. | The European Union gave money to build 17 new apartment houses in Estonia. | Countries decided to leave the Soviet Union because of housing shortages. | Over 80 percent of gas consumption in Estonia is for heating private homes.
 answerText: The SmartEnCity project has helped to turn Tartu into a more attractive city.
+reviewed: yes
 ---
 【正解】1 The SmartEnCity project has helped to turn Tartu into a more attractive city.（スマートエンシティ・プロジェクトは、タルトゥをより魅力的な町にするのに役立った。）
 【和訳】

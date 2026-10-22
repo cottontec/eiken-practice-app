@@ -1,6 +1,7 @@
 ---
 choices: for sure | for instance | in short | in vain
 answerText: for sure
+reviewed: yes
 ---
 【正解】1 for sure（確実に、間違いなく）
 【和訳】

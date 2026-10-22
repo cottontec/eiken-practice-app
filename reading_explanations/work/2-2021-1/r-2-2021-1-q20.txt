@@ -1,6 +1,7 @@
 ---
 choices: as kind a person | a kind as person | as a kind person | as person a kind
 answerText: as kind a person
+reviewed: yes
 ---
 【正解】1 as kind a person（～と同じくらい親切な人）
 【和訳】

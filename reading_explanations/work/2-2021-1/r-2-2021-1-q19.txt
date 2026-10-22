@@ -1,6 +1,7 @@
 ---
 choices: make heard herself | make herself heard | hearing herself made | herself made heard
 answerText: make herself heard
+reviewed: yes
 ---
 【正解】2 make herself heard（自分の声を〔相手に〕届かせる）
 【和訳】

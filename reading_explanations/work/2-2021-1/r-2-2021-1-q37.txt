@@ -1,6 +1,7 @@
 ---
 choices: By helping to upgrade 6,000 similar apartment buildings. | By using money that would have been spent on bills. | By carrying out many of the improvements themselves. | By working for the European Union to pay for half of the cost.
 answerText: By using money that would have been spent on bills.
+reviewed: yes
 ---
 【正解】2 By using money that would have been spent on bills.（本来なら料金に使われていたはずのお金を使うことによって。）
 【和訳】

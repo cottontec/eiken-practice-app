@@ -1,6 +1,7 @@
 ---
 choices: sweet | guilty | enormous | particular
 answerText: particular
+reviewed: yes
 ---
 【正解】4 particular（好みがうるさい、こだわりがある）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: in | of | at | to
 answerText: at
+reviewed: yes
 ---
 【正解】3 at（at first sight で「ひと目見て」）
 【和訳】

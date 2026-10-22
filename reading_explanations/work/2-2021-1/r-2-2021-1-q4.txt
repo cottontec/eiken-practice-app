@@ -1,6 +1,7 @@
 ---
 choices: generation | gravity | hesitation | humanity
 answerText: humanity
+reviewed: yes
 ---
 【正解】4 humanity（人類、人間）
 【和訳】

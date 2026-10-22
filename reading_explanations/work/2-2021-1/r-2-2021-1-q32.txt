@@ -1,6 +1,7 @@
 ---
 choices: They are less likely to make a mess on buildings and public places. | They can deliver messages to people living all over London. | They have been used since ancient times to perform amazing tricks. | They have the ability to find their way back to their homes.
 answerText: They have the ability to find their way back to their homes.
+reviewed: yes
 ---
 【正解】4 They have the ability to find their way back to their homes.（自分のすみかへの帰り道を見つける能力がある。）
 【和訳】

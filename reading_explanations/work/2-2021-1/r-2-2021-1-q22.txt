@@ -1,6 +1,7 @@
 ---
 choices: traveling and learning about farming | living and working on big ships | studying to become a great chef | writing about interesting cultures
 answerText: traveling and learning about farming
+reviewed: yes
 ---
 【正解】1 traveling and learning about farming（旅をして農業について学ぶこと）
 【和訳】

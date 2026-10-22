@@ -1,6 +1,7 @@
 ---
 choices: interpret | replace | preserve | betray
 answerText: preserve
+reviewed: yes
 ---
 【正解】3 preserve（保つ、守る）
 【和訳】

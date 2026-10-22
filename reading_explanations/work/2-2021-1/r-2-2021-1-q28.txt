@@ -1,6 +1,7 @@
 ---
 choices: Design lessons for classes of all ages. | Learn about teaching business Chinese. | Get some experience of teaching children. | Become familiar with the area near the school.
 answerText: Learn about teaching business Chinese.
+reviewed: yes
 ---
 【正解】2 Learn about teaching business Chinese.（ビジネス向けの中国語の教え方について学ぶ。）
 【和訳】
@@ -22,7 +23,7 @@ become familiar with ～（～によく慣れる、～をよく知るように�
 【ほかの選択肢】
 1 本文の our language school offers classes to students of all ages, and each lesson is designed to help students ～ は、「学校があらゆる年齢の生徒に授業を提供していて、授業は～するように作られている」という学校の説明です。リーさんにあらゆる年齢向けの授業を作るよう頼んではいません。
 3 本文に Your experience of teaching children will certainly be a big advantage.（子どもを教えたあなたの経験はきっと大きな強みになる）とあります。リーさんはすでに子どもを教えた経験があるので、これから経験を積むよう頼まれてはいません。
-4 本文の become familiar with という言い方が使われていますが、慣れてほしいのは「その分野の指導（ビジネスパーソンへの指導）」です。学校の近くの地域のことではありません。同じ語句を使った引っかけです。
+4 本文の become familiar with という言い方が使われていますが、慣れてほしいのは「その分野の指導（ビジネスパーソンへの指導）」です。学校の近くの地域のことではありません。本文と同じ語句が使われていても、何に慣れるのかが違うので注意しましょう。
 【覚えるポイント】
 ・become familiar with ～：「～によく慣れる、～をよく知るようになる」。
 ・that area of ～ のような指示語（that や this などのように前に出た内容を指す語）は、直前の文から何を指すか確かめます。

@@ -1,6 +1,7 @@
 ---
 choices: campaigns | operations | illustrations | minerals
 answerText: minerals
+reviewed: yes
 ---
 【正解】4 minerals（ミネラル）
 【和訳】

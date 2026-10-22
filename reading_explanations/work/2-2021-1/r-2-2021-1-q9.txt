@@ -1,6 +1,7 @@
 ---
 choices: satisfy | respect | permit | navigate
 answerText: navigate
+reviewed: yes
 ---
 【正解】4 navigate（進路を決める、航海する）
 【和訳】
