@@ -1,0 +1,18 @@
+{
+  "part": 1,
+  "targetAnswerSlots": 50,
+  "batches": [
+    {
+      "batchId": "2-2007-3",
+      "target": 50,
+      "written": 0,
+      "contentReviewed": 0,
+      "status": "not_started",
+      "blank": 50,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 0
+    }
+  ],
+  "updatedAt": "2026-10-22T04:34:25+00:00"
+}
