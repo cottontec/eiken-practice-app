@@ -1,6 +1,7 @@
 ---
 choices: tame | penetrate | despise | authorize
 answerText: authorize
+reviewed: yes
 ---
 【正解】4 authorize（認める、許可する）
 【和訳】

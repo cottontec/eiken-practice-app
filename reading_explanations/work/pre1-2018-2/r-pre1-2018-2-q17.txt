@@ -1,6 +1,7 @@
 ---
 choices: vain | uplifting | awkward | tasteless
 answerText: uplifting
+reviewed: yes
 ---
 【正解】2 uplifting（元気づける、気持ちを高める）
 【和訳】

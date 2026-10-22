@@ -1,0 +1,30 @@
+---
+choices: rhinos are frightened of the birds | birds provide warnings to the rhinos | rhinos' survival is threatened by the birds | birds are attracting ticks to the rhinos
+answerText: birds provide warnings to the rhinos
+---
+【正解】2 birds provide warnings to the rhinos（鳥がサイに警告を与えている）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 rhinos are frightened of the birds（サイは鳥をこわがっている）
+2 birds provide warnings to the rhinos（鳥がサイに警告を与えている）
+3 rhinos' survival is threatened by the birds（サイの生存が鳥によっておびやかされている）
+4 birds are attracting ticks to the rhinos（鳥がサイにダニを引き寄せている）
+【考え方】
+まず見るところ：第2段落の空所の直前の Rhinos with the birds perched on them were observed to be far more likely to detect the presence of approaching threats.
+第2段落では、まず鳥の特徴が書かれています。
+The birds have sharp vision and make hissing sounds if they feel threatened by approaching animals.（この鳥は視力が鋭く、近づいてくる動物に危険を感じると、シューッという音を出す）
+サイは視力が弱いのに対し、この鳥は視力が鋭く、危険を感じると音を出します。
+次に、空所の直前の文です。
+Rhinos with the birds perched on them were observed to be far more likely to detect the presence of approaching threats.（鳥が体に止まっているサイは、（止まっていないサイより）近づいてくる脅威の存在に気づく可能性がずっと高いことが観察された）
+perched は「（鳥が）止まった」、threats は「脅威（危険なもの）」です。
+空所のある文は The researchers therefore believe the (30).（そのため研究者たちは（30）と考えている）です。therefore（そのため）があるので、空所には直前の観察から考えられることが入ります。「目のよい鳥が危険を見つけて音を出す→鳥がいるサイは危険に気づきやすい」ことから、「鳥がサイに警告を与えている」と考えられます。ですから2が正解です。
+この問題の型：因果（鳥がいると危険に気づきやすい→鳥が警告している）／推論
+【ほかの選択肢】
+1 「サイは鳥をこわがっている」は、本文に根拠がありません。直後の文では、このことがサイがウシツツキがいることを tolerate（がまんする、受け入れる）理由の説明になるかもしれないと述べられており、こわがっているという話とつながりません。
+3 「サイの生存が鳥によっておびやかされている」は、本文の流れと合いません。鳥がいるサイは危険に気づきやすいと観察されており、第3段落でもウシツツキが減っていることはサイにとって bad news（悪い知らせ）だと書かれています。
+4 「鳥がサイにダニを引き寄せている」は、本文と向きが違います。本文では、鳥のほうがダニに引き寄せられてサイのところに来ると書かれています（They are drawn to rhinos due to the tiny organisms known as ticks）。また、危険に気づきやすいという直前の観察の説明になりません。
+【覚えるポイント】
+・provide warnings to ～：「～に警告を与える」。sharp vision（鋭い視力）や make hissing sounds（シューッという音を出す）のような特徴は、「見張り役」としての働きの手がかりになります。
+・therefore（そのため）のあとの空所には、直前に書かれた観察や事実から考えられる結論がくることが多いので、直前の文を中心に読みます。

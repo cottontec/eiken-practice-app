@@ -1,6 +1,7 @@
 ---
 choices: creek | accord | venue | estate
 answerText: accord
+reviewed: yes
 ---
 【正解】2 accord（協定、合意）
 【和訳】

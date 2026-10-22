@@ -1,6 +1,7 @@
 ---
 choices: sanctuary | gasp | revelation | stroll
 answerText: stroll
+reviewed: yes
 ---
 【正解】4 stroll（散歩、ぶらぶら歩き）
 【和訳】

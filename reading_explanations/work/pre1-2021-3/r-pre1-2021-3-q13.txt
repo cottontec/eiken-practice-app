@@ -1,0 +1,32 @@
+---
+choices: execute | discern | endure | relay
+answerText: endure
+---
+【正解】3 endure（耐える、がまんする）
+【和訳】
+（英文）
+A: Did you go to Professor Markham's lecture?
+B: I did, but it was so boring I could only ［endure］ it for 15 minutes. After that, I left and went to a café.
+（訳）
+A：マーカム教授の講義に行った？
+B：行ったよ。でも、とても退屈だったので、15分しか（がまん）できなかった。そのあとは、出てカフェに行ったよ。
+（選択肢の意味）
+1 execute：実行する
+2 discern：見分ける、（よく見て）気づく
+3 endure：耐える、がまんする
+4 relay：伝える、中継する
+【考え方】
+まず見るところ：空所の前の it was so boring I could only と、次の文の I left
+Bの答えは so ～ (that) …（とても～なので…）の形です。
+it was so boring I could only (　) it for 15 minutes（それはとても退屈だったので、15分しかそれを〇〇できなかった）
+it は「マーカム教授の講義」を指します。次の文で、Bは講義を出ています。
+After that, I left and went to a café.（そのあと、出てカフェに行った）
+退屈な講義に15分しかいられなかった、という流れです。endure は「耐える、がまんする」なので、「15分しかがまんできなかった」となり、3が正解です。
+この問題の型：因果（so boring → only ～ for 15 minutes）
+【ほかの選択肢】
+1 execute は「実行する」です。講義を行うのは教授なので、聞きに行ったBが「講義を15分しか実行できなかった」では意味が通りません。
+2 discern は「見分ける、気づく」です。「講義を15分しか見分けられなかった」となり、退屈だったから出て行ったという流れと合いません。
+4 relay は「伝える、中継する」です。「講義を15分しか伝えられなかった」となり、Bが退屈で出て行ったという話とつながりません。
+【覚えるポイント】
+・endure：「耐える、がまんする」。so ～ (that) …：「とても～なので…」（that が省かれることもあります）。
+・so boring（とても退屈）のあとに only ～ for 15 minutes（15分しか）が続くときは、「がまんする」のような意味の語が入る手がかりになります。

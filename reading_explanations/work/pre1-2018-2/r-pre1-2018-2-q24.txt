@@ -1,6 +1,7 @@
 ---
 choices: lifted off | ruled out | came before | held over
 answerText: came before
+reviewed: yes
 ---
 【正解】3 came before（（裁判官など）の前に出た、審理を受けた）
 【和訳】

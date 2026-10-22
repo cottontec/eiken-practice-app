@@ -1,6 +1,7 @@
 ---
 choices: fastened | embarked | dictated | applauded
 answerText: embarked
+reviewed: yes
 ---
 【正解】2 embarked（乗り出した ※embark on ～ の形で「（旅など）に出発する、～を始める」）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: While Card examined only short-term effects on people’s wages, Borjas studied the Marielitos’ impact on unskilled workers in the long term. | Most of the data that Borjas analyzed was gathered from a second immigration event that occurred at a later time. | Card was working with a smaller body of data and using research techniques that had become outdated by the time later studies were done. | Borjas focused only on the effects of immigration on members of a particular group within the unskilled workforce.
 answerText: Borjas focused only on the effects of immigration on members of a particular group within the unskilled workforce.
+reviewed: yes
 ---
 【正解】4 Borjas focused only on the effects of immigration on members of a particular group within the unskilled workforce.（ボージャスは、技能を持たない労働者のうちの、ある特定のグループの人々に移民が与えた影響だけに注目した。）
 【和訳】
@@ -10,7 +11,7 @@ answerText: Borjas focused only on the effects of immigration on members of a pa
 設問：What explanation can be given for the difference between David Card’s and George Borjas’s findings?（デビッド・カードとジョージ・ボージャスの研究結果の違いについて、どんな説明ができるか。）
 1 While Card examined only short-term effects on people’s wages, Borjas studied the Marielitos’ impact on unskilled workers in the long term.（カードが人々の賃金への短期的な影響だけを調べたのに対し、ボージャスは、マリエリートスが技能を持たない労働者に与えた長期的な影響を研究した。）
 2 Most of the data that Borjas analyzed was gathered from a second immigration event that occurred at a later time.（ボージャスが分析したデータの大部分は、のちに起こった2度目の移民の出来事から集められた。）
-3 Card was working with a smaller body of data and using research techniques that had become outdated by the time later studies were done.（カードは、（ボージャスより）少ない量のデータを使い、のちの研究が行われるころには古くなっていた研究方法を使っていた。）
+3 Card was working with a smaller body of data and using research techniques that had become outdated by the time later studies were done.（カードは、より少ない量のデータを使い、のちの研究が行われるころには古くなっていた研究方法を使っていた。）
 4 Borjas focused only on the effects of immigration on members of a particular group within the unskilled workforce.（ボージャスは、技能を持たない労働者のうちの、ある特定のグループの人々に移民が与えた影響だけに注目した。）
 【考え方】
 まず見るところ：第4段落の who used a different definition of unskilled workers と While Card looked at ～, Borjas focused specifically on ～
@@ -20,7 +21,7 @@ challenge はここでは「異議を唱える（正しいかどうか疑問を�
 While Card looked at the effects on the 25 percent of workers in Miami with the least skills overall, Borjas focused specifically on unskilled workers who had dropped out of high school.（カードが、マイアミの労働者のうち、全体として技能が最も低い25パーセントの人々への影響を調べたのに対し、ボージャスは、特に、高校を中退した技能を持たない労働者に注目した）
 drop out of ～ は「～を中退する（卒業する前にやめる）」です。
 本文と選択肢を対にすると、次のようになります。
-本文 focused specifically on（特に～に注目した）＝ 選択肢 focused only on（～だけに注目した）
+本文 focused specifically on（特に～に注目した）→ 選択肢 focused only on（～だけに注目した）
 本文 unskilled workers who had dropped out of high school（高校を中退した技能を持たない労働者）＝ 選択肢 members of a particular group within the unskilled workforce（技能を持たない労働者のうちの、ある特定のグループの人々）
 カードは技能の低い労働者全体の25パーセントを広く調べ、ボージャスはその中の高校中退者という一部のグループにしぼって調べました。調べた相手が違うことが、結果の違いの説明になります。ですから4が正解です。
 この問題の型：対比（Card は広く25パーセント⇔Borjas は高校中退者だけ）

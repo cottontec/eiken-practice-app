@@ -1,6 +1,7 @@
 ---
 choices: inconsiderate | fundamental | generic | plentiful
 answerText: inconsiderate
+reviewed: yes
 ---
 【正解】1 inconsiderate（思いやりのない）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: projection | petition | reluctance | abundance
 answerText: reluctance
+reviewed: yes
 ---
 【正解】3 reluctance（気が進まないこと、ためらい）
 【和訳】

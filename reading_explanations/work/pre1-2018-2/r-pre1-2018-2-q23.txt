@@ -1,6 +1,7 @@
 ---
 choices: grow on | hold off | give away | fall for
 answerText: give away
+reviewed: yes
 ---
 【正解】3 give away（（秘密など）をもらす、明かしてしまう）
 【和訳】

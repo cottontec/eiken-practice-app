@@ -1,6 +1,7 @@
 ---
 choices: pierces | craves | endorses | comprises
 answerText: craves
+reviewed: yes
 ---
 【正解】2 craves（どうしても欲しがる、強く求める）
 【和訳】

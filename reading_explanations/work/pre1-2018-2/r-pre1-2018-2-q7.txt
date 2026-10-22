@@ -1,6 +1,7 @@
 ---
 choices: digest | inspire | thrust | smash
 answerText: digest
+reviewed: yes
 ---
 【正解】1 digest（消化する）
 【和訳】

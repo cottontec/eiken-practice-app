@@ -1,0 +1,33 @@
+---
+choices: Only a few types of seeds should be planted on the Outer Hebrides, as many species can damage the local environment. | Locals should lead the project, as experts from the mainland are not familiar with growing patterns on the Outer Hebrides. | Older trees should be used instead of young ones since they can better withstand the environmental threats on the Outer Hebrides. | The seeds of trees taken from the Outer Hebrides or from similarly harsh environments are the most likely to grow successfully.
+answerText: The seeds of trees taken from the Outer Hebrides or from similarly harsh environments are the most likely to grow successfully.
+---
+【正解】4 The seeds of trees taken from the Outer Hebrides or from similarly harsh environments are the most likely to grow successfully.（アウター・ヘブリディーズ諸島か、同じように厳しい環境から取った木の種子が、最もうまく育つ見こみが高い。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to David Mackay, what should the Hebridean Ark Tree Project learn from previous efforts?（デイビッド・マッケイによると、ヘブリディーズ・アーク・ツリー・プロジェクトは以前の取り組みから何を学ぶべきか。）
+1 Only a few types of seeds should be planted on the Outer Hebrides, as many species can damage the local environment.（多くの種類が地元の環境を傷つけうるので、アウター・ヘブリディーズ諸島には少しの種類の種子だけを植えるべきだ。）
+2 Locals should lead the project, as experts from the mainland are not familiar with growing patterns on the Outer Hebrides.（本土から来た専門家はアウター・ヘブリディーズ諸島での植物の育ち方をよく知らないので、地元の人々が計画を率いるべきだ。）
+3 Older trees should be used instead of young ones since they can better withstand the environmental threats on the Outer Hebrides.（（若い木より）年数のたった木のほうがアウター・ヘブリディーズ諸島の環境の脅威によく耐えられるので、若い木の代わりにそれを使うべきだ。）
+4 The seeds of trees taken from the Outer Hebrides or from similarly harsh environments are the most likely to grow successfully.（アウター・ヘブリディーズ諸島か、同じように厳しい環境から取った木の種子が、最もうまく育つ見こみが高い。）
+【考え方】
+まず見るところ：第3段落の Mackay notes that the genetic makeup of trees from the mainland does not enable them to deal with harsh island conditions.
+第3段落の始めで、the origin of the seeds is critical（種子がどこから来たものかがとても重要だ）と述べられています。マッケイは、以前のシェトランド諸島の計画を例に挙げています。
+That plan initially used young trees brought over from the Scottish mainland, but eventually, seeds and trees from the nearby Faroe Islands had to be introduced.（その計画では、最初はスコットランド本土から運ばれた若い木が使われたが、最終的には、近くのフェロー諸島の種子と木を取り入れなければならなかった）
+Mackay notes that the genetic makeup of trees from the mainland does not enable them to deal with harsh island conditions.（マッケイは、本土の木の遺伝的な性質では、厳しい島の環境に対応できないと指摘している）
+genetic makeup は「遺伝的な性質（親から受けつがれる体の性質）」、harsh は「厳しい」という意味です。本土の木はうまくいかず、近くの島の種子と木に切りかえた、という経験です。そして今回の計画では、seeds are being taken from trees that currently remain on the Outer Hebrides（現在アウター・ヘブリディーズ諸島に残っている木から種子が取られている）と書かれています。
+本文と選択肢を対にすると、次のようになります。
+・本文 trees that currently remain on the Outer Hebrides（アウター・ヘブリディーズ諸島に残っている木）→ 選択肢 taken from the Outer Hebrides（アウター・ヘブリディーズ諸島から取った）
+・本文 the nearby Faroe Islands（近くのフェロー諸島：厳しい島の環境の例）→ 選択肢 similarly harsh environments（同じように厳しい環境）
+・本文 本土の木は厳しい島の環境に対応できない → 読み取れること：厳しい島の環境の木の種子のほうがうまく育つ見こみが高い（選択肢 the most likely to grow successfully）
+ですから4が正解です。
+この問題の型：推論（シェトランド諸島の例から学べることを考える）／言いかえ（harsh island conditions → similarly harsh environments）
+【ほかの選択肢】
+1 本文にありません。種子の種類の数や、多くの種類が環境を傷つけることは書かれていません。マッケイが問題にしているのは、種子がどこから来たものかです。
+2 本文にありません。本文の「本土」の話は、本土から運ばれた木の性質のことで、本土から来た専門家や、地元の人々が計画を率いるべきだということは書かれていません。
+3 本文にありません。木の年数については書かれておらず、今回の計画でもおよそ10万本の若木（young tree saplings）を育てています。問題とされているのは、木の年数ではなく、どこから来た木かです。
+【覚えるポイント】
+・genetic makeup：「遺伝的な性質」。the origin of the seeds（種子の出どころ）と結びつけて読むと、マッケイの主張がつかめます。
+・「以前の取り組みから何を学ぶべきか」をたずねる設問では、本文の initially ～, but eventually ...（最初は～だったが、最終的には…）のように、やり方を変えた部分を探すと手がかりになります。

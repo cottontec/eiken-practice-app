@@ -8,7 +8,7 @@ answerText: lease
 A: I've been living in this apartment for a year now, and the ［lease］ is about to end. I have to decide if I should stay or move.
 B: If your rent will be the same, I recommend renewing your contract and staying.
 （訳）
-A：このアパートに住んで、もう1年になるよ。そして、（賃貸契約）がもうすぐ終わるの。住み続けるか、引っ越すかを決めないといけないね。
+A：このアパートに住んで、もう1年になるよ。そして、（賃貸契約）がもうすぐ終わる。住み続けるか、引っ越すかを決めないといけないね。
 B：家賃が同じなら、契約を更新して住み続けることをすすめるよ。
 （選択肢の意味）
 1 token：しるし、記念の品

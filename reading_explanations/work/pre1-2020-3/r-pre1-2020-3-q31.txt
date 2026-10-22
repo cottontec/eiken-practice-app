@@ -1,0 +1,30 @@
+---
+choices: animal protection laws have become weaker | hunting oxpeckers has become legal | the ticks have proved useful for crops | oxpeckers have been disappearing
+answerText: oxpeckers have been disappearing
+---
+【正解】4 oxpeckers have been disappearing（ウシツツキは姿を消しつつある）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 animal protection laws have become weaker（動物保護の法律が弱くなっている）
+2 hunting oxpeckers has become legal（ウシツツキを狩ることが合法になっている）
+3 the ticks have proved useful for crops（ダニが作物に役立つことが分かっている）
+4 oxpeckers have been disappearing（ウシツツキは姿を消しつつある）
+【考え方】
+まず見るところ：第3段落の Many oxpeckers have been killed by eating these poisoned ticks, and as a result, there are fewer and fewer of them
+空所のある文は次のとおりです。
+In recent years, (31), which has been bad news for the rhinos.（近年、（31）、それはサイにとって悪い知らせとなっている）
+空所の内容は、サイにとって悪いことです。くわしい説明は、その後ろの文に書かれています。
+Many oxpeckers have been killed by eating these poisoned ticks, and as a result, there are fewer and fewer of them, including in areas where the rhinos live.（多くのウシツツキがこの毒の入ったダニを食べて死に、その結果、サイがすむ地域も含めて、ウシツツキの数はますます少なくなっている）
+poisoned は「毒の入った」、fewer and fewer は「ますます少ない」です。農家が使う殺虫剤のせいで、ウシツツキが減っていることが分かります。
+本文 there are fewer and fewer of them（ウシツツキの数はますます少なくなっている）＝ 選択肢 oxpeckers have been disappearing（ウシツツキは姿を消しつつある）
+第2段落で見たように、ウシツツキはサイに危険を知らせる役目をしているので、ウシツツキが減るのはサイにとって悪い知らせです。ですから4が正解です。
+この問題の型：言いかえ（fewer and fewer ＝ disappearing）／具体例とまとめ
+【ほかの選択肢】
+1 「動物保護の法律が弱くなっている」は、本文に根拠がありません。第3段落の話は殺虫剤とダニのことで、法律の話は出てきません。
+2 「ウシツツキを狩ることが合法になっている」も、本文に根拠がありません。ウシツツキが死んでいるのは、毒の入ったダニを食べたためと書かれていて、狩りのためではありません。
+3 「ダニが作物に役立つことが分かっている」は、本文の内容と合いません。本文では、農家はダニを殺すために殺虫剤を使ってきたと書かれていて、ダニが役に立つという話はありません。
+【覚えるポイント】
+・fewer and fewer：「ますます少ない」。disappear（姿を消す）や decline（減る）と同じ方向の内容を表します。
+・空所のあとに which has been bad news（それは悪い知らせだ）のような説明があるときは、続く文に「何が起きているのか」のくわしい説明があることが多いので、そこを読んで空所の内容をまとめます。

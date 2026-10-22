@@ -1,6 +1,7 @@
 ---
 choices: misery | bribery | artistry | irony
 answerText: bribery
+reviewed: yes
 ---
 【正解】2 bribery（わいろのやりとり、贈収賄）
 【和訳】

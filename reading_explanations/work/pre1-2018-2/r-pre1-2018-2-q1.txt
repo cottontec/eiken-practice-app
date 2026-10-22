@@ -1,6 +1,7 @@
 ---
 choices: incidence | sanction | objective | occupancy
 answerText: objective
+reviewed: yes
 ---
 【正解】3 objective（目的、目標）
 【和訳】

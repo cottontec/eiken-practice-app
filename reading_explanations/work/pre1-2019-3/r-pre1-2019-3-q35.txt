@@ -1,0 +1,32 @@
+---
+choices: Rising temperatures have made it difficult for plant and animal populations to grow significantly. | The high salt content in the soil has destroyed large areas of peat deposits, preventing the growth of plants. | The failure of organic matter to decay fully has resulted in the ground lacking nutrients. | Strong winds blow trees down too quickly for them to develop in numbers large enough for a forest to form.
+answerText: The failure of organic matter to decay fully has resulted in the ground lacking nutrients.
+---
+【正解】3 The failure of organic matter to decay fully has resulted in the ground lacking nutrients.（有機物が完全に分解されないために、地面の栄養分が足りなくなっている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is true of environmental conditions on the Outer Hebrides?（アウター・ヘブリディーズ諸島の環境の条件について正しいものはどれか。）
+1 Rising temperatures have made it difficult for plant and animal populations to grow significantly.（気温が上がってきたことで、植物や動物の数が大きく増えるのが難しくなっている。）
+2 The high salt content in the soil has destroyed large areas of peat deposits, preventing the growth of plants.（土の中の塩分が多いことが、広い範囲の泥炭の層をこわし、植物が育つのをさまたげている。）
+3 The failure of organic matter to decay fully has resulted in the ground lacking nutrients.（有機物が完全に分解されないために、地面の栄養分が足りなくなっている。）
+4 Strong winds blow trees down too quickly for them to develop in numbers large enough for a forest to form.（強い風が木をすぐに倒してしまうので、森ができるほどの数まで木が育たない。）
+【考え方】
+まず見るところ：第1段落の much of the ground consists of peat, a nutrient-poor mixture of organic materials と Peat forms when ～
+In addition, much of the ground consists of peat, a nutrient-poor mixture of organic materials.（さらに、地面の多くは泥炭でできている。泥炭とは、栄養分の少ない、有機物がまざり合ったものだ）
+consist of ～ は「～でできている」、nutrient-poor は「栄養分の少ない」という意味です。
+Peat forms when low temperatures, water, and a lack of oxygen result in organic matter, such as dead plants, failing to decay completely.（泥炭は、低い気温、水、酸素の不足によって、枯れた植物のような有機物が完全には分解されないときにできる）
+decay は「くさる、分解される」、fail to ～ は「～しない、～できない」という意味です。2つの文を合わせると、「有機物が完全に分解されない→泥炭ができる→栄養分の少ない地面になる」という流れが読み取れます。
+本文と選択肢を対にすると、次のようになります。
+・本文 organic matter ～ failing to decay completely（有機物が完全には分解されない）＝ 選択肢 The failure of organic matter to decay fully（有機物が完全に分解されないこと）
+・本文 much of the ground consists of peat, a nutrient-poor mixture（地面の多くは栄養分の少ない泥炭でできている）→ 選択肢 the ground lacking nutrients（地面の栄養分が足りない）
+ですから3が正解です。
+この問題の型：言いかえ（failing to decay completely → failure ～ to decay fully／nutrient-poor → lacking nutrients）／因果（分解されない→泥炭→栄養分が少ない）
+【ほかの選択肢】
+1 本文と反対です。本文には low average temperatures（平均気温が低い）、the climate has cooled（気候は寒くなってきた）と書かれていて、気温が上がっているのではありません。
+2 本文にありません。海水については、根から吸収されると木を傷める、と書かれているだけです。塩分が泥炭の層をこわしたとは書かれていません。
+4 本文にありません。強い風については、陸地に海水を吹きつけることが書かれているだけで、風が木を倒すとは書かれていません。
+【覚えるポイント】
+・nutrient-poor：「栄養分の少ない」。選択肢では lacking nutrients（栄養分が足りない）と言いかえられています。
+・本文に「AのときにBができる」「Bは～が少ない」のように説明が2つの文に分かれているときは、2つをつなげて因果の流れにすると、選択肢との対応を見つける手がかりになります。

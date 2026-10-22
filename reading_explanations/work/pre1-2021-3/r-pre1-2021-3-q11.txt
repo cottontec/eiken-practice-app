@@ -1,0 +1,32 @@
+---
+choices: contemplating | emphasizing | vandalizing | illustrating
+answerText: contemplating
+---
+【正解】1 contemplating（じっくり考えている、検討している）
+【和訳】
+（英文）
+A: Annie, how have you been? Did you enjoy your trip to Italy last year?
+B: I did, Pablo. Actually, I loved it so much that I've been ［contemplating］ moving there. I'd have to wait until my son graduates from high school, though.
+（訳）
+A：アニー、元気にしていた？去年のイタリア旅行は楽しかった？
+B：楽しかったよ、パブロ。実は、とても気に入ったので、ずっとイタリアに引っ越すことを（考えている）よ。ただ、息子が高校を卒業するまでは待たないといけないだろうけれどね。
+（選択肢の意味）
+1 contemplating：（contemplate「じっくり考える、検討する」の -ing 形）じっくり考えている
+2 emphasizing：（emphasize「強調する」の -ing 形）強調している
+3 vandalizing：（vandalize「物をわざとこわす」の -ing 形）わざとこわしている
+4 illustrating：（illustrate「説明する、さし絵を入れる」の -ing 形）説明している
+【考え方】
+まず見るところ：空所の後ろの moving there と、最後の I'd have to wait until ～
+アニーはイタリア旅行がとても気に入ったと言い、そのあとに空所があります。
+I loved it so much that I've been (　) moving there.（とても気に入ったので、ずっとそこへ引っ越すことを〇〇している）
+there は「イタリア」を指します。次の文で、アニーは次のように言っています。
+I'd have to wait until my son graduates from high school, though.（ただ、息子が高校を卒業するまで待たなければならないだろう）
+まだ引っ越すと決めたわけではなく、「引っ越すとしたら」と先のことを考えている言い方です。contemplate ～ing は「～することをじっくり考える、検討する」なので、1が正解です。
+この問題の型：語の意味・組み合わせ（contemplate ＋ moving）
+【ほかの選択肢】
+2 emphasizing は「強調している」です。「そこへ引っ越すことをずっと強調している」となり、だれに向けて強調しているのか分からず、「息子の卒業まで待たないと」という迷いの話とも合いません。
+3 vandalizing は「わざとこわしている」です。「引っ越すことをこわしている」では意味が通りません。
+4 illustrating は「説明している、さし絵を入れている」です。「引っ越すことをずっと説明している」となり、旅行が気に入ったので移り住みたいという流れと合いません。
+【覚えるポイント】
+・contemplate ～ing：「～することをじっくり考える、検討する」。graduate from ～：「～を卒業する」。
+・あとに I'd have to wait（待たなければならないだろう）のような「まだ決めていない」ことを示す言葉があるときは、「考えている、検討している」という意味の語が入る手がかりになります。

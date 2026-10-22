@@ -1,6 +1,7 @@
 ---
 choices: gratifying | misleading | attentive | defective
 answerText: misleading
+reviewed: yes
 ---
 【正解】2 misleading（誤解を招くような、人を思い違いさせる）
 【和訳】

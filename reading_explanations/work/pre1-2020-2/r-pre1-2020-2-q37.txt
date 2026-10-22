@@ -1,0 +1,35 @@
+---
+choices: borrowing large amounts of money to cover the costs associated with redeveloping their brand in markets abroad. | using production methods originally developed for making cheap watches to help reduce the price of high-end ones. | marketing the Swiss watch brand to consumers who cared more about a watch's accuracy than its appearance. | using advertising and improved production methods to establish demand for its goods among two different types of consumers.
+answerText: using advertising and improved production methods to establish demand for its goods among two different types of consumers.
+---
+【正解】4 using advertising and improved production methods to establish demand for its goods among two different types of consumers.（宣伝と改良された生産方法を使って、2つの異なる種類の消費者の間に、自分たちの製品への需要を作り出すことによって。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：In the 1980s, the Swiss watch industry managed to survive by（1980年代に、スイスの時計産業は、…によって何とか生き残った。）
+1 borrowing large amounts of money to cover the costs associated with redeveloping their brand in markets abroad.（海外の市場で自分たちのブランドを立て直すことにかかる費用をまかなうために、多額のお金を借りること）
+2 using production methods originally developed for making cheap watches to help reduce the price of high-end ones.（もともと安い時計を作るために開発された生産方法を使って、高級な時計の価格を下げること）
+3 marketing the Swiss watch brand to consumers who cared more about a watch's accuracy than its appearance.（時計の見た目よりも正確さを重視する消費者に向けて、スイスの時計ブランドを売りこむこと）
+4 using advertising and improved production methods to establish demand for its goods among two different types of consumers.（宣伝と改良された生産方法を使って、2つの異なる種類の消費者の間に、自分たちの製品への需要を作り出すこと）
+【考え方】
+まず見るところ：第3段落の The 1980s, however, brought two developments that saved the Swiss watch industry.
+第3段落は、スイスの時計産業を救った2つの展開を説明しています。
+1つ目は、高級な時計の側の話です。
+Manufacturers focused on the uniqueness and history of Swiss watches by increasing prices and promoting the art of watchmaking, transforming their products into high-end status symbols.（メーカーは、価格を上げ、時計作りの技を宣伝することで、スイスの時計の独自性と歴史に焦点を当て、自社の製品を高級なステータスシンボルに変えた）
+this strategy required the manufacturers to reinvest large percentages of their profits back into marketing（この戦略のために、メーカーは利益の大きな割合をマーケティングに再び投資しなければならなかった）
+2つ目は、安い時計の側の話です。
+At the lower end of the market, restructuring and the adoption of efficient production methods led to the creation of the Swatch in 1983（市場の低価格の側では、事業の立て直しと効率的な生産方法の導入によって、1983年にスウォッチが生まれた）
+本文と選択肢4を対にすると、次のようになります。
+本文 promoting the art of watchmaking ／ marketing（時計作りの技の宣伝／マーケティング）→ 選択肢 using advertising（宣伝を使って）
+本文 the adoption of efficient production methods（効率的な生産方法の導入）→ 選択肢 improved production methods（改良された生産方法）
+本文 high-end（高級な側）と At the lower end of the market（低価格の側）→ 選択肢 two different types of consumers（2つの異なる種類の消費者）
+高級品を求める人と、安くおしゃれな時計を求める人の両方に買ってもらえるようにしたのです。よって4が正解です。
+この問題の型：具体例とまとめ（2つの展開→選択肢4が両方をまとめている）／言いかえ（efficient production methods→improved production methods）
+【ほかの選択肢】
+1 本文にない内容です。本文は、メーカーが利益の大きな割合をマーケティングに再び投資したと述べています。お金を借りたことや、海外の市場でブランドを立て直したことは書かれていません。
+2 本文と合いません。高級な時計については、メーカーは価格を上げた（increasing prices）と書かれています。安い時計の生産方法を使って高級な時計の価格を下げたのではありません。
+3 本文にない内容です。正確さを重視する消費者に売りこんだという話はありません。本文は、スイスの時計を高級なステータスシンボルにしたことや、スウォッチがおしゃれなブランドになったことを述べています。
+【覚えるポイント】
+・high-end：「高級な（市場の上の側の）」。the lower end of the market は「市場の低価格の側」です。
+・本文が two developments（2つの展開）のように数をはっきり示しているときは、正解の選択肢がその2つをまとめて言いかえていることが多いので、2つとも含んでいるかを確かめると手がかりになります。

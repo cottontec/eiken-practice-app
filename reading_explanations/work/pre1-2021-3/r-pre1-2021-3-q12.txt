@@ -1,0 +1,30 @@
+---
+choices: unanimously | abnormally | mockingly | savagely
+answerText: unanimously
+---
+【正解】1 unanimously（全員一致で）
+【和訳】
+（英文）
+All the senators said they supported the new law, so it was no surprise when they voted for it ［unanimously］.
+（訳）
+上院議員の全員がその新しい法律を支持すると言っていたので、彼らが（全員一致で）その法律に賛成の票を入れたのは、驚くことではなかった。
+（選択肢の意味）
+1 unanimously：全員一致で
+2 abnormally：異常に、ふつうではないほど
+3 mockingly：ばかにするように
+4 savagely：乱暴に、どう猛に
+【考え方】
+まず見るところ：文の最初の All the senators said they supported the new law
+senator は「上院議員（国の議会の議員）」です。文の前半に、議員たちの考えが書かれています。
+All the senators said they supported the new law（上院議員の全員が、その新しい法律を支持すると言っていた）
+so のあとで、it was no surprise（驚くことではなかった）と続きます。全員が支持すると言っていたのですから、投票で全員が賛成したのは予想どおりだったということです。
+they voted for it (　)（彼らは〇〇その法律に賛成の票を入れた）
+unanimously は「全員一致で」なので、1が正解です。All（全員）と unanimously（全員一致で）が対応しています。
+この問題の型：因果（All ～ supported → so … no surprise）
+【ほかの選択肢】
+2 abnormally は「異常に」です。全員が支持すると言っていた法律に賛成するのは予想どおりのことなので、「異常に賛成した」は no surprise（驚くことではない）と合いません。
+3 mockingly は「ばかにするように」です。法律を支持していた議員たちが、ばかにするように賛成するという流れは、文の前半と合いません。
+4 savagely は「乱暴に」です。投票のしかたとして「乱暴に賛成票を入れた」では、全員が支持していたことと、驚くことではなかったことのつながりが表せません。
+【覚えるポイント】
+・unanimously：「全員一致で」。vote for ～：「～に賛成の票を入れる」。it is no surprise ～：「～は驚くことではない」。
+・前半に All（全員）があり、後半に no surprise（予想どおり）が続くときは、「全員」と対応する語が入る手がかりになります。

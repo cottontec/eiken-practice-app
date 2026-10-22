@@ -1,6 +1,7 @@
 ---
 choices: is not seen with every sport | could actually be harmful | is based on evidence of its benefits | could be slightly exaggerated
 answerText: could actually be harmful
+reviewed: yes
 ---
 【正解】2 could actually be harmful（実は害になるおそれがある）
 【和訳】

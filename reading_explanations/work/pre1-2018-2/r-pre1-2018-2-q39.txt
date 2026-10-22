@@ -1,6 +1,7 @@
 ---
 choices: The US government acknowledged that its immigration authorities had failed to adequately investigate the Marielitos upon their arrival. | Media reports gave the impression that the Marielitos were responsible for Miami’s growing crime problem. | Many of the Marielitos began doing things that were not considered crimes in Cuba but that were illegal in the United States. | Miami’s previous Cuban immigrants distanced themselves from the Marielitos after some of them claimed to support Castro.
 answerText: Media reports gave the impression that the Marielitos were responsible for Miami’s growing crime problem.
+reviewed: yes
 ---
 【正解】2 Media reports gave the impression that the Marielitos were responsible for Miami’s growing crime problem.（メディアの報道が、マイアミで増えている犯罪の問題はマリエリートスのせいだという印象を与えた。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: They both reduced production by 30 percent, but only one could prove the air quality in nearby areas had improved. | Only one of them obeyed a law made by the city requiring the toxic metals it used to be replaced with safer substances. | They both took action to reduce pollution, but only one of them remained in the city of Portland. | Only one of them could continue production, as the other closed down because it was unable to compete with Mexican glass.
 answerText: They both took action to reduce pollution, but only one of them remained in the city of Portland.
+reviewed: yes
 ---
 【正解】3 They both took action to reduce pollution, but only one of them remained in the city of Portland.（両方とも汚染を減らすための行動を取ったが、ポートランド市に残ったのは1つだけだった。）
 【和訳】

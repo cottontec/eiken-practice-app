@@ -1,6 +1,7 @@
 ---
 choices: smudging | consenting | receding | pending
 answerText: pending
+reviewed: yes
 ---
 【正解】4 pending（未決定の、保留中の）
 【和訳】

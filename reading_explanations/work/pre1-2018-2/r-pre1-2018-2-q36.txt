@@ -1,6 +1,7 @@
 ---
 choices: Pressure from political groups had forced it to delay taking action against the factories. | Strict state laws regulating levels of pollution conflicted with a federal law that was created to protect businesses. | Additional tests revealed emissions were not causing the high rates of cancer and other diseases among residents. | The factories were releasing pollutants in amounts that were too small to be covered by existing regulations.
 answerText: The factories were releasing pollutants in amounts that were too small to be covered by existing regulations.
+reviewed: yes
 ---
 【正解】4 The factories were releasing pollutants in amounts that were too small to be covered by existing regulations.（工場が出している汚染物質の量は少なすぎて、今ある規制の対象にならなかった。）
 【和訳】

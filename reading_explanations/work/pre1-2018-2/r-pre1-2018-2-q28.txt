@@ -1,6 +1,7 @@
 ---
 choices: it would create a safer environment | arguments between passengers would decrease | it would allow more time for cleaning | passengers would be grouped into more zones
 answerText: it would create a safer environment
+reviewed: yes
 ---
 【正解】1 it would create a safer environment（それはより安全な環境を生み出すだろう）
 【和訳】

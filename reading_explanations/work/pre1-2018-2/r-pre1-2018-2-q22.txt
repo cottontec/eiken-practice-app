@@ -1,6 +1,7 @@
 ---
 choices: acted on | fixed up | thrown off | cleaned out
 answerText: acted on
+reviewed: yes
 ---
 【正解】1 acted on（（助言など）に従って行動した）
 【和訳】

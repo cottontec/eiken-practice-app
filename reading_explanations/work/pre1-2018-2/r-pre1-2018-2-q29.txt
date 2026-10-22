@@ -1,6 +1,7 @@
 ---
 choices: was less likely to be held by | seems to be increasing among | has been widely encouraged by | has led to criticism of
 answerText: was less likely to be held by
+reviewed: yes
 ---
 【正解】1 was less likely to be held by（～には（ほかと比べて）持たれていることが少なかった）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: blissful | witty | stubborn | damp
 answerText: stubborn
+reviewed: yes
 ---
 【正解】3 stubborn（頑固な）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: pioneers | innovators | bystanders | successors
 answerText: bystanders
+reviewed: yes
 ---
 【正解】3 bystanders（その場に居合わせた人たち）
 【和訳】

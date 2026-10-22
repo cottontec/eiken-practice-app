@@ -1,6 +1,7 @@
 ---
 choices: dose | riot | blockade | habitat
 answerText: habitat
+reviewed: yes
 ---
 【正解】4 habitat（生息地、すみか）
 【和訳】

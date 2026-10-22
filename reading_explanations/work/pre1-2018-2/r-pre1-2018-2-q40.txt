@@ -1,6 +1,7 @@
 ---
 choices: It is a mistake to assume large-scale immigration will have a negative effect on wage levels in the cities that immigrants come to live in. | Large-scale immigration is only beneficial when those supplying the additional labor are not competing with highly skilled workers. | When wages for unskilled workers in a city are already very low, large-scale immigration will likely have a positive effect on them. | Large-scale immigration to a city can have a lasting influence on education and employment there even if its short-term effects are minor.
 answerText: It is a mistake to assume large-scale immigration will have a negative effect on wage levels in the cities that immigrants come to live in.
+reviewed: yes
 ---
 【正解】1 It is a mistake to assume large-scale immigration will have a negative effect on wage levels in the cities that immigrants come to live in.（大規模な移民が、移民の住むようになった都市の賃金の水準に悪い影響を与えると思いこむのはまちがいだ。）
 【和訳】
@@ -28,7 +29,7 @@ virtually は「事実上、ほとんど」という意味です。さらに、�
 【ほかの選択肢】
 2 本文に書かれていません。カードの研究では、高い技能を持つ労働者との競争については調べられておらず、移民がためになる条件についても述べられていません。
 3 本文に書かれていません。カードの研究の結果は「事実上影響がなかった」で、賃金によい影響があったとは書かれていません。また、賃金がもともと低い場合という条件の話も出てきません。
-4 カードの研究の結果と合いません。カードの研究では、短い期間に失業率がわずかに上がったものの、長い目で見ると賃金には事実上影響がなかった、とされています。長く続く影響があるという考えとは逆で、教育への影響も調べられていません。
+4 本文に書かれていません。カードの研究が示したのは、短い期間に失業率がわずかに上がったものの、長い目で見ると賃金には事実上影響がなかったという結果です。教育や雇用に長く続く影響があるという話は出てきません。
 【覚えるポイント】
 ・in theory（理論上は）や should have been（～だったはずだ）のあとに Yet（しかし）が続くときは、「予想」と「実際の結果」が食い違っていることを示す手がかりになります。
 ・virtually：「事実上、ほとんど」。virtually no effect で「事実上影響がない」。

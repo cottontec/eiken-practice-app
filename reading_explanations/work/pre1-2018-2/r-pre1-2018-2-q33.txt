@@ -1,6 +1,7 @@
 ---
 choices: It may hurt the ability of local medical professionals to provide fee-based treatment for residents on their own. | The availability of foreign medical care can lead local healthcare providers to raise prices to levels patients cannot afford. | It could encourage local doctors to start performing important procedures such as childbirth using unsafe techniques. | Patients may choose to avoid getting medical help from volunteers because of fears of being treated by an amateur.
 answerText: It may hurt the ability of local medical professionals to provide fee-based treatment for residents on their own.
+reviewed: yes
 ---
 【正解】1 It may hurt the ability of local medical professionals to provide fee-based treatment for residents on their own.（地元の医療の専門家が、自分たちの力で住民に料金を取って治療を行う力を損なうかもしれない。）
 【和訳】
@@ -27,7 +28,7 @@ fee-based は「料金にもとづく、料金を取る」、on their own は「
 【ほかの選択肢】
 2 本文に書かれていません。本文では、地元の病院の医療は affordable care（手ごろな値段の医療）とあり、地元の医療提供者が料金を上げるという話は出てきません。
 3 人物が違います。本文で出産の手助けを任されているのは Untrained volunteers（訓練を受けていないボランティア）です。地元の医師が安全でない方法を使い始めるとは書かれていません。
-4 本文に書かれていません。本文では、人々は次のボランティアが来るまで治療を先のばしにすることがある、とあり、しろうとがこわいからボランティアを避けるという話は出てきません。
+4 本文に書かれていません。本文では、人々がボランティアの医療を避けるのではなく、次のボランティアが来るまで治療を先のばしにしたり、無料だからという理由で地元の病院に払うのを拒んだりするとあります。しろうとがこわいから避けるという理由は出てきません。
 【覚えるポイント】
 ・rely on ～：「～に頼る」。rely on patient fees で「患者からの料金に頼る」。
 ・批判をたずねる設問では、批判の段落の中から、選択肢の主語（ここでは地元の医療の専門家）と同じ人物について書かれている文を探すと手がかりになります。

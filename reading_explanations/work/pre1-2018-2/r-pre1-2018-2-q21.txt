@@ -1,6 +1,7 @@
 ---
 choices: eject | twist | unfold | confer
 answerText: unfold
+reviewed: yes
 ---
 【正解】3 unfold（（出来事が）展開する、くり広げられる）
 【和訳】

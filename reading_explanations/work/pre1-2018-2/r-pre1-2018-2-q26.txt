@@ -1,6 +1,7 @@
 ---
 choices: germs die quickly on most surfaces | passengers are right to be worried | airplane environments weaken certain germs | passengers are largely to blame
 answerText: passengers are right to be worried
+reviewed: yes
 ---
 【正解】2 passengers are right to be worried（乗客が心配するのはもっともだ）
 【和訳】

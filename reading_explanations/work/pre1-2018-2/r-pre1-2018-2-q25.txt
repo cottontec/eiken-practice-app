@@ -1,6 +1,7 @@
 ---
 choices: roll up | stay off | miss out | set aside
 answerText: set aside
+reviewed: yes
 ---
 【正解】4 set aside（（時間やお金を）取っておく）
 【和訳】

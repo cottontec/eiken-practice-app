@@ -1,0 +1,31 @@
+---
+choices: native people allowed their animals to eat young trees in an attempt to make living conditions difficult for the Vikings. | the Vikings destroyed forested areas because they wanted to utilize the land for agricultural purposes. | native people attempted to escape the Vikings by cutting down large areas of forest to build boats for themselves. | the Vikings' heavy use of peat in certain activities led forested areas to eventually be taken over by peat growth.
+answerText: the Vikings destroyed forested areas because they wanted to utilize the land for agricultural purposes.
+---
+【正解】2 the Vikings destroyed forested areas because they wanted to utilize the land for agricultural purposes.（バイキングが、土地を農業に使いたかったために森林地帯をこわしたこと。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：One of the main causes of tree loss on the Outer Hebrides in the past was that（昔、アウター・ヘブリディーズ諸島で木が失われた主な原因の一つは、～ということだった。）
+1 native people allowed their animals to eat young trees in an attempt to make living conditions difficult for the Vikings.（もともと住んでいた人々が、バイキングの暮らしを苦しくしようとして、自分たちの動物に若い木を食べさせた）
+2 the Vikings destroyed forested areas because they wanted to utilize the land for agricultural purposes.（バイキングが、土地を農業に使いたかったために森林地帯をこわした）
+3 native people attempted to escape the Vikings by cutting down large areas of forest to build boats for themselves.（もともと住んでいた人々が、自分たちの船を造るために広い範囲の森林を切り倒して、バイキングから逃げようとした）
+4 the Vikings' heavy use of peat in certain activities led forested areas to eventually be taken over by peat growth.（バイキングがある種の活動で泥炭を大量に使ったために、森林地帯がやがて泥炭に占められるようになった）
+【考え方】
+まず見るところ：第2段落の After settling on the islands, the invaders cleared even more trees for raising animals and growing crops.
+第2段落では、現在の状況をもたらしたのは it was primarily human activity（主に人間の活動だった）と述べ、バイキングがしたことを順に説明しています。
+After settling on the islands, the invaders cleared even more trees for raising animals and growing crops.（島に住みついたあと、侵略者たちは動物を飼い、作物を育てるために、さらに多くの木を切り払った）
+the invaders（侵略者たち）は、前の文の Viking invaders（バイキングの侵略者たち）のことです。clear は「（木などを）切り払う、取り除く」という意味です。
+本文と選択肢を対にすると、次のようになります。
+・本文 cleared even more trees（さらに多くの木を切り払った）→ 選択肢 destroyed forested areas（森林地帯をこわした）
+・本文 for raising animals and growing crops（動物を飼い、作物を育てるために）→ 選択肢 to utilize the land for agricultural purposes（土地を農業に使うために）
+動物を飼うことと作物を育てることを、選択肢では agricultural purposes（農業の目的）とまとめています。ですから2が正解です。
+この問題の型：言いかえ（raising animals and growing crops → agricultural purposes）／指示語（the invaders＝バイキング）
+【ほかの選択肢】
+1 本文にありません。本文で動物が若い木を食べることが書かれているのは第1段落で、今の植樹計画の問題としてです。もともと住んでいた人々がバイキングを苦しめるためにそうしたとは書かれていません。
+3 人物と目的が本文と違います。木を切り倒したのはバイキングで、その目的は the native people could not use wood for boat building（もともと住んでいた人々が船を造るのに木材を使えないようにする）ことでした。
+4 順番が本文と違います。本文には Once the forests on the Outer Hebrides were gone, peat growth began to take over.（森林がなくなると、泥炭が増えて土地を占めるようになり始めた）とあり、森林がなくなったあとに泥炭が広がりました。バイキングが泥炭を大量に使ったとも書かれていません。
+【覚えるポイント】
+・clear trees：「木を切り払う」。for raising animals and growing crops（動物を飼い、作物を育てるために）は、agricultural purposes（農業の目的）とまとめて言いかえられています。
+・「原因」をたずねる設問では、本文の Firstly（まず）や After ～ のように順を追って説明している部分を読み、だれが何のために何をしたのかを一つずつ確かめることが手がかりになります。

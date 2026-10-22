@@ -1,6 +1,7 @@
 ---
 choices: inclination | predator | allegation | ascent
 answerText: allegation
+reviewed: yes
 ---
 【正解】3 allegation（（証拠のない）申し立て、疑いをかけること）
 【和訳】

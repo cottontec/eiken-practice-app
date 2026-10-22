@@ -1,6 +1,7 @@
 ---
 choices: Samples of it gave authorities data they needed to locate the source of toxic chemicals in the city’s air. | Analyzing its growth patterns helped authorities understand why many of the city’s trees were not properly absorbing nutrients. | The city was able to reduce levels of pollutants by removing it from hundreds of trees it was found growing on. | The US Forest Service helped the city grow it in two locations in order to absorb pollutants in the air.
 answerText: Samples of it gave authorities data they needed to locate the source of toxic chemicals in the city’s air.
+reviewed: yes
 ---
 【正解】1 Samples of it gave authorities data they needed to locate the source of toxic chemicals in the city’s air.（その試料は、市の空気中の有毒な化学物質の発生源を突き止めるのに必要なデータを、当局に与えた。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: sprint | enlist | drift | curse
 answerText: enlist
+reviewed: yes
 ---
 【正解】2 enlist（（助けや協力を）得る、求める）
 【和訳】

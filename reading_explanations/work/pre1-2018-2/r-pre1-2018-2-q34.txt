@@ -1,6 +1,7 @@
 ---
 choices: Volunteers should have to show they are familiar with local medical practices before treating patients. | Volunteers should change their focus to long-term efforts that will improve the skills of local healthcare workers. | Nonprofessionals who want to volunteer should be given the opportunity to be trained by doctors in developing nations. | Programs should aim to match patients who need a certain procedure with doctors who want to master that procedure.
 answerText: Volunteers should change their focus to long-term efforts that will improve the skills of local healthcare workers.
+reviewed: yes
 ---
 【正解】2 Volunteers should change their focus to long-term efforts that will improve the skills of local healthcare workers.（ボランティアは、地元の医療従事者の技術を高める長期的な取り組みへと、力を注ぐ先を変えるべきだ。）
 【和訳】
@@ -28,7 +29,7 @@ counterpart は「（立場の違う所で）同じ仕事をしている人」�
 【ほかの選択肢】
 1 本文に書かれていません。本文では、ボランティアが地元の人々に最善のやり方を「教える」ことが述べられていて、ボランティアが地元の医療のやり方を知っていると示す必要があるという話は出てきません。
 3 本文に書かれていません。本文で教えるのは外国から来たボランティアの側で、専門家でない人が発展途上国の医師から訓練を受けるという話は出てきません。また、本文は、資格のある人だけが医療を提供しに行くべきだと述べています。
-4 本文の内容と合いません。本文では、地元の人々を doctors learning complex procedures（複雑な処置を学ぼうとしている医師）にとっての「練習用の人形」と見るべきではない、と述べています。処置を身につけたい医師と患者を結びつけることは、本文が否定している考え方です。
+4 本文の内容と合いません。本文では、地元の人々を doctors learning complex procedures（複雑な処置を学ぼうとしている医師）にとっての「練習用の人形」と見るべきではない、と述べています。処置を身につけたい医師と患者を結びつけることは、この「練習用の人形」と見る考え方に近く、本文の主張とは合いません。
 【覚えるポイント】
 ・instead of ～ing：「～する代わりに」。instead of short-term efforts（短期的な取り組みの代わりに）は、反対の long-term（長期的な）を選ぶ手がかりになります。
 ・That is（つまり）で始まる文は、前の意見を分かりやすく言い直していることが多いので、人物の意見をたずねる設問では、その文を選択肢と比べると手がかりになります。

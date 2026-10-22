@@ -1,6 +1,7 @@
 ---
 choices: unconditional | deceptive | unfaithful | primitive
 answerText: unconditional
+reviewed: yes
 ---
 【正解】1 unconditional（無条件の）
 【和訳】
