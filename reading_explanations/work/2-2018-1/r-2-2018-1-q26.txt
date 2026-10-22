@@ -1,0 +1,26 @@
+---
+choices: If it is prevented | If this is true | With better treatment | With more exercise
+answerText: If this is true
+---
+【正解】2 If this is true（もしこれが本当なら）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 If it is prevented（もしそれが防がれるなら）
+2 If this is true（もしこれが本当なら）
+3 With better treatment（よりよい治療によって）
+4 With more exercise（もっと運動することによって）
+【考え方】
+空所は第3段落の最後の (26), it will be possible to tell who is likely to become a fast runner from an early age just by looking at their knees. です。「ひざを見るだけで、だれが速いランナーになりそうかを幼いうちから見分けることができるようになるだろう」という意味です。
+空所の前の文に注目します。
+Based on their research, the scientists believe that it is more likely that people are born with good symmetry.（自分たちの研究にもとづいて、科学者たちは、〔走ることで対称性が発達するよりも〕人はよい対称性を持って生まれてくる可能性のほうが高いと考えている）
+科学者たちは「そう考えている」のであって、まだ確かめられたわけではありません。もし本当に生まれつき対称性が決まっているなら、小さいころにひざを見るだけで、将来速く走れそうかが分かることになります。
+「生まれつきだと考えられている → もしそれが本当なら → 幼いうちに見分けられる」という流れになるので、If this is true（もしこれが本当なら）が合います。this は前の文の「人はよい対称性を持って生まれてくる」という考えを指します。よって2が正解です。
+【ほかの選択肢】
+1 「もしそれが防がれるなら」を入れても、何を防ぐのかが前の文から分かりません。対称性は防ぐものとして書かれておらず、話がつながりません。
+3 「よりよい治療によって」を入れると、治療の話になります。本文には治療の話は出てきません。また、ひざを見るだけで見分けるという内容ともつながりません。
+4 「もっと運動することによって」を入れると、運動によって対称性が身につくという考え方になります。しかし前の文では、科学者たちは走ることで発達するより、生まれつきの可能性が高いと考えています。運動の話では just by looking at their knees（ひざを見るだけで）ともつながりません。
+【覚えるポイント】
+・If this is true, ～：「もしこれが本当なら、～」。前の文の考えや予想を受けて、その結果を述べるときに使います。
+・be born with ～：「生まれつき～を持っている」。
