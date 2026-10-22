@@ -1,0 +1,29 @@
+---
+choices: Make their costumes themselves. | Sign up before coming to the show. | Pay an entry fee at the reception desk. | Explain why they chose their costumes.
+answerText: Make their costumes themselves.
+---
+【正解】1 Make their costumes themselves.（自分で衣装を作る。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：衣装コンテストの参加者がしなければならないことの1つは何ですか。
+1 自分で衣装を作る。
+2 ショーに来る前に申し込む。
+3 受付で参加費を払う。
+4 なぜその衣装を選んだのかを説明する。
+【考え方】
+衣装コンテストについては、第2段落に書かれています。
+Please note that your costume must have been made by you.（衣装はご自分で作ったものでなければならないことにご注意ください）
+People wearing costumes bought from a store will not be allowed to enter the contest.（店で買った衣装を着ている人は、コンテストに参加することはできない）
+must have been made by you は「あなたによって作られたものでなければならない」という意味です。店で買った衣装ではだめで、自分で作った衣装が必要だということです。
+本文と選択肢を対にすると、次のようになります。
+本文 your costume must have been made by you（衣装はあなた自身が作ったものでなければならない）＝ 選択肢 Make their costumes themselves（自分で衣装を作る）
+本文は「衣装が～によって作られた」という受け身（「～される」という形）ですが、選択肢は「自分で作る」と、作る人を主語にして言いかえています。ですから1が正解です。
+【ほかの選択肢】
+2 本文には please sign up at the reception desk by noon（正午までに受付で申し込んでください）とあります。受付で、しかも当日の正午までと決められているので、コンテストの申し込みはショーに来てから会場で行うと考えられます。「ショーに来る前に申し込む」とは合いません。アリスがオンラインで申し込んだのは、ショーそのものです。
+3 受付（reception desk）は申し込みの場所として出てきますが、参加費を払うという話は本文にありません。
+4 衣装を選んだ理由を説明するという話は、本文にありません。
+【覚えるポイント】
+・must have been ＋過去分詞：「～されたものでなければならない」。ここでは「（あなたが）作ったものでなければならない」という条件を表しています。
+・sign up：「申し込む、登録する」。

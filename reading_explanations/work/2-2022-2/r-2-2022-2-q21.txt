@@ -1,0 +1,25 @@
+---
+choices: completely disappears | ends up elsewhere | is given to charities | could be used again
+answerText: ends up elsewhere
+---
+【正解】2 ends up elsewhere（ほかの場所に行き着く）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 completely disappears（完全に消えてなくなる）
+2 ends up elsewhere（ほかの場所に行き着く）
+3 is given to charities（慈善団体〔困っている人を助けるための団体〕に寄付される）
+4 could be used again（再び使われる可能性がある）
+【考え方】
+空所は第1段落の However, a large amount (21). です。a large amount は「大量（のプラスチックごみ）」という意味です。
+直前の文は Most of this waste is buried in the ground in landfill sites.（こうしたごみのほとんどは、埋め立て地で地中に埋められる）です。However（しかし）があるので、空所の文は「埋め立て地に埋められる」のとは違う内容になると考えられます。
+空所の後ろには、According to the International Union for Conservation of Nature, more than 14 million tons of plastic waste goes into the ocean each year.（国際自然保護連合によると、毎年1,400万トンを超えるプラスチックごみが海に流れ込んでいる）とあります。つまり、埋め立て地ではなく海へ行ってしまうごみが大量にあるということです。
+end up ～ は「最後には～に行き着く」、elsewhere は「ほかの場所に」という意味です。「しかし、大量のごみはほかの場所に行き着く」と入れると、そのあとに「ほかの場所」の例として海の話が続き、流れが自然になります。2が正解です。
+【ほかの選択肢】
+1 「完全に消えてなくなる」を入れると、後ろの Plastic is strong and takes a long time to break down.（プラスチックは丈夫で、分解されるまでに長い時間がかかる）と食い違います。海がプラスチックでいっぱいになりつつある、という内容とも反対です。
+3 「慈善団体に寄付される」は、本文のどこにも書かれていません。空所の後ろは、ごみが海に流れ込むという話につながっています。
+4 「再び使われる可能性がある」を入れると、捨てられたごみが再利用されるという話になります。しかし、後ろには海に流れ込むという話が続くので、つながりません。
+【覚えるポイント】
+・end up ～：「最後には～に行き着く、結局～になる」。
+・However（しかし）の前後では、反対の内容や違う内容が来ます。
