@@ -1,0 +1,19 @@
+---
+choices: reputation | anticipation | observation | examination
+answerText: reputation
+---
+【正解】1 reputation（評判）
+【和訳】
+そのレストランは、食中毒が何件か起きたあと、よい（評判）を失い、最終的には閉店しなければなりませんでした。
+（選択肢の意味）1 評判　2 予想、楽しみに待つこと　3 観察　4 試験、検査
+【考え方】
+空所の前に lost its good（よい～を失った）とあり、そのきっかけとして after several cases of food poisoning（何件かの食中毒のあと）と書かれています。food poisoning は「食中毒」、case は「（事件や病気の）1件」です。
+さらに、and eventually it had to close（そして最終的に閉店しなければならなかった）と続きます。eventually は「最終的に、ついに」という意味です。
+食中毒を出したレストランは、お客さんから「あの店は危ない」と思われ、来てもらえなくなると考えられます。reputation は「評判」なので、lost its good reputation で「よい評判を失った」となり、閉店につながる流れになります。1が正解です。
+【ほかの選択肢】
+2 anticipation は「予想、楽しみに待つこと」です。「よい予想を失った」では、食中毒から閉店までの流れがうまく説明できません。
+3 observation は「観察」です。「よい観察を失った」となり、意味が通りません。
+4 examination は「試験、検査」です。「よい検査を失った」となり、食中毒のあとに店が失ったものとして意味が通りません。
+【覚えるポイント】
+・lose one's reputation：「評判を失う」。a good reputation で「よい評判」。
+・food poisoning：「食中毒」。
