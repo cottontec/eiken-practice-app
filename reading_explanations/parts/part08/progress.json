@@ -60,9 +60,13 @@
     {
       "batchId": "2-2016-2",
       "target": 38,
-      "written": 0,
+      "written": 38,
       "contentReviewed": 0,
-      "status": "not_started"
+      "status": "complete_unreviewed",
+      "blank": 0,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 0
     },
     {
       "batchId": "2-2016-3",
@@ -149,5 +153,5 @@
       "status": "not_started"
     }
   ],
-  "updatedAt": "2026-10-22T05:32:58+00:00"
+  "updatedAt": "2026-10-22T05:33:35+00:00"
 }

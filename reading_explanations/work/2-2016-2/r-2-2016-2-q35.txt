@@ -1,0 +1,28 @@
+---
+choices: modern materials on which bacteria and other unhealthy things can grow. | materials releasing poisonous chemicals that get trapped in buildings. | a reduction in the amount of air available for people living in the building. | an increased number of people living and working together in the same space.
+answerText: materials releasing poisonous chemicals that get trapped in buildings.
+---
+【正解】2 materials releasing poisonous chemicals that get trapped in buildings.（建物の中に閉じこめられる有毒な化学物質を放出する材料〔によって〕。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：シックビルディング症候群は、…によって引き起こされる。
+1 細菌やほかの体に悪いものが繁殖できる、現代の材料
+2 建物の中に閉じこめられる有毒な化学物質を放出する材料
+3 その建物に住む人々が使える空気の量が減ること
+4 同じ場所で一緒に暮らしたり働いたりする人の数が増えること
+【考え方】
+設問は「シックビルディング症候群の原因」です。症候群は「いくつかの体の不調がまとまって現れる状態」のことです。第2段落を見ます。
+Many modern materials, such as plastic, release small amounts of poisonous chemicals into the air. When air remains inside the buildings, the amount of these poisons gradually increases, and people who work or live in them begin to feel ill. This problem is known as sick building syndrome.（プラスチックなど現代の材料の多くは、少量の有毒な化学物質を空気中に放出する。空気が建物の中にとどまると、こうした毒の量が少しずつ増え、その中で働いたり住んだりしている人々は体の具合が悪くなり始める。この問題はシックビルディング症候群として知られている）
+つまり、原因は「材料が有毒な化学物質を出すこと」と「空気が建物の中にとどまるので、その毒がたまっていくこと」の2つが合わさったものです。
+本文 Many modern materials ... release small amounts of poisonous chemicals into the air ＝ 選択肢 materials releasing poisonous chemicals
+本文 When air remains inside the buildings, the amount of these poisons gradually increases ＝ 選択肢 that get trapped in buildings
+get trapped は「閉じこめられる」という意味で、空気が建物の中にとどまり、毒が外に出ていかない様子を表しています。ですから、2が正解です。
+【ほかの選択肢】
+1 細菌（bacteria）が材料の上で繁殖するという話は、本文にありません。本文が原因として挙げているのは、材料が出す有毒な化学物質です。
+3 空気の量が減って人が使える空気が足りなくなる、という話は本文にありません。本文では、空気が建物の中に「とどまる」ことで毒がたまると説明されています。
+4 同じ場所で暮らしたり働いたりする人の数が増えた、という話は本文にありません。people who work or live in them（その中で働いたり住んだりしている人々）は、体の具合が悪くなる人として出てくるだけです。
+【覚えるポイント】
+・release A into B：「AをBの中に放出する（出す）」。
+・get trapped：「閉じこめられる」。trap は「わな、閉じこめる」という意味です。
