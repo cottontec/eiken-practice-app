@@ -61,8 +61,7 @@
   "2-2023-2": {
     "stats": {
       "target": 38,
-      "written": 33,
-      "missing": 5
+      "written": 38
     },
     "errors": [],
     "warnings": []
@@ -86,8 +85,7 @@
   "2-2024-2": {
     "stats": {
       "target": 31,
-      "written": 17,
-      "missing": 14
+      "written": 31
     },
     "errors": [],
     "warnings": []

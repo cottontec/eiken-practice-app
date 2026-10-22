@@ -82,10 +82,10 @@
     {
       "batchId": "2-2023-2",
       "target": 38,
-      "written": 33,
+      "written": 38,
       "contentReviewed": 0,
-      "status": "in_progress",
-      "blank": 5,
+      "status": "complete_unreviewed",
+      "blank": 0,
       "issues": 0,
       "checkErrors": 0,
       "checkWarnings": 0
@@ -115,10 +115,10 @@
     {
       "batchId": "2-2024-2",
       "target": 31,
-      "written": 17,
+      "written": 31,
       "contentReviewed": 0,
-      "status": "in_progress",
-      "blank": 14,
+      "status": "complete_unreviewed",
+      "blank": 0,
       "issues": 0,
       "checkErrors": 0,
       "checkWarnings": 0
@@ -190,5 +190,5 @@
       "checkWarnings": 0
     }
   ],
-  "updatedAt": "2026-10-22T21:08:52+00:00"
+  "updatedAt": "2026-10-22T21:09:07+00:00"
 }
