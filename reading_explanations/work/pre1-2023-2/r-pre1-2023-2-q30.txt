@@ -1,0 +1,30 @@
+---
+choices: the ants eat organisms that harm the birds | the behavior contributes to birds' health | the behavior helps control ant populations | the birds are trying to attract other insects
+answerText: the behavior contributes to birds' health
+---
+【正解】2 the behavior contributes to birds' health（この行動が鳥の健康に役立っている）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 the ants eat organisms that harm the birds（アリが、鳥に害を与える生き物を食べる）
+2 the behavior contributes to birds' health（この行動が鳥の健康に役立っている）
+3 the behavior helps control ant populations（この行動がアリの数をおさえるのに役立っている）
+4 the birds are trying to attract other insects（鳥はほかの昆虫を引き寄せようとしている）
+【考え方】
+まず見るところ：第2段落の If this substance is rubbed onto a bird's feathers, it could help inhibit disease and deter harmful pests.
+空所のある文は次のとおりです。
+One popular theory is that ( 30 ).（よく知られた説の一つは、（　）というものだ）
+theory は「説（理由を説明する考え）」です。第1段落の最後で「鳥がなぜこの行動をするのか分かっていない」と書かれているので、空所にはその理由についての説が入ります。説の中身は、続く文で説明されています。
+Ants naturally produce a substance called formic acid that protects them against bacteria and fungi, and which is also toxic to other insects.（アリはギ酸と呼ばれる物質を自然に作り出す。ギ酸はアリを細菌や菌類から守り、さらにほかの昆虫にとっては毒になる）
+If this substance is rubbed onto a bird's feathers, it could help inhibit disease and deter harmful pests.（この物質が鳥の羽にこすりつけられれば、病気をおさえ、害虫を寄せつけないのに役立つ可能性がある）
+inhibit は「おさえる」、deter は「寄せつけない、思いとどまらせる」、harmful pests は「害虫」です。病気をおさえ、害虫を寄せつけないということは、鳥の体を守ることにつながります。
+これは「この行動が鳥の健康に役立っている」とまとめられます。contribute to ～ は「～に役立つ、貢献する」なので、2が正解です。
+この問題の型：具体例とまとめ（病気をおさえる・害虫を寄せつけない→鳥の健康に役立つ）
+【ほかの選択肢】
+1 「アリが、鳥に害を与える生き物を食べる」は、本文に書かれていません。第2段落で害虫を遠ざけるとされているのは、アリが作り出す formic acid（ギ酸）という物質で、アリが害虫を食べるという話ではありません。
+3 「この行動がアリの数をおさえるのに役立っている」は、本文に書かれていません。第2段落は、アリのギ酸が鳥にとってどう役立つかの説明で、アリの数がどうなるかには触れていません。
+4 「鳥はほかの昆虫を引き寄せようとしている」は、第2段落の内容と合いません。第2段落では、ギ酸は toxic to other insects（ほかの昆虫にとって毒）で、deter harmful pests（害虫を寄せつけない）と書かれており、昆虫を引き寄せるという話は出てきません。
+【覚えるポイント】
+・One popular theory is that ～（よく知られた説の一つは～というものだ）の空所は、続く文の説明（ここでは inhibit disease and deter harmful pests）をまとめた内容が入ることが多いので、続く文をまとめた選択肢を探すと手がかりになります。
+・contribute to ～：「～に役立つ、貢献する」。具体的なよい効果をまとめて言うときに使われます。
