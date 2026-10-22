@@ -1,0 +1,24 @@
+---
+choices: less relaxing | more modern | less convenient | more artistic
+answerText: less convenient
+---
+【正解】3 less convenient（あまり便利でない、より便利でない）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 less relaxing：あまりくつろげない
+2 more modern：より現代的な
+3 less convenient：あまり便利でない、より便利でない
+4 more artistic：より芸術的な
+【考え方】
+空所の文は Such vacations allow people to experience some of the pleasures of a (　) life.（そのような休暇によって、人々は（　）生活の楽しさのいくつかを体験できる）です。allow ＋人＋ to ～ は「（人）が～できるようにする」という意味です。
+such vacations（そのような休暇）とは、第3段落で紹介された vacations where devices such as cell phones and computers cannot be used at all（携帯電話やコンピューターなどの機器がまったく使えない休暇）のことです。その休暇では traditional activities such as playing games, reading, and outdoor adventures（ゲーム、読書、野外での冒険といった昔ながらの活動）が用意されています。
+ここで第1段落を思い出します。スマートフォンなどの機器は has certainly made our lives easier（確かに私たちの生活を楽にした）と書かれていました。その機器がまったく使えない休暇は、ふだんより便利さの少ない生活だと言えます。less は「より少なく」を表し、less convenient で「より便利でない、あまり便利でない」という意味になります。「便利さの少ない生活の楽しさ」となり、本文の流れと合います。正解は3です。
+【ほかの選択肢】
+1 less relaxing を入れると「あまりくつろげない生活の楽しさ」となります。第3段落では、ふつうの休暇がふだんの生活からの休息になっていないことが問題とされ、その解決として機器の使えない休暇が紹介されています。「くつろげない生活」の楽しさを味わう、という内容は流れに合いません。
+2 more modern を入れると「より現代的な生活の楽しさ」となります。この休暇で用意されているのは traditional（昔ながらの）活動であり、機器も使えないので、「より現代的」とは反対です。
+4 more artistic を入れると「より芸術的な生活の楽しさ」となります。ゲーム、読書、野外での冒険は芸術についての活動として書かれておらず、本文に芸術の話はありません。
+【覚えるポイント】
+・less ＋ 形容詞：「より～でない」。less convenient（より便利でない）、less expensive（より高くない）。
+・allow ＋人＋ to ～：「（人）が～できるようにする」。

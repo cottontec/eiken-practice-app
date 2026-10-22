@@ -1,0 +1,28 @@
+---
+choices: she has been planning to cancel her insurance. | she had not been hurt badly in the accident. | the insurance company has not been very helpful. | the accident was caused by another person on a bicycle.
+answerText: she had not been hurt badly in the accident.
+---
+【正解】2 she had not been hurt badly in the accident.（事故でひどいけがはしなかったと）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：カウフマンさんはジェイコブ・ラッセルに、～と伝えた。
+1 保険を解約しようと計画してきたと
+2 事故でひどいけがはしなかったと
+3 保険会社があまり役に立ってくれていないと
+4 事故は自転車に乗っていたほかの人によって引き起こされたと
+【考え方】
+このメールは、ジェイコブ・ラッセルがカウフマンさんに書いた返事です。最初に Thank you for your e-mail.（メールをありがとうございます）とあるので、カウフマンさんが先にメールを送っていたことが分かります。設問は、カウフマンさんがそのメールで何を伝えたかをたずねています。
+ラッセルさんのメールの中で、カウフマンさんから聞いたこととして書かれている部分を探します。第1段落に First, it is good to hear from you that you were not seriously injured in the accident.（まず、事故で大けがをしなかったとあなたからうかがえて、よかった）とあります。hear from you that ～ は「あなたから～と聞く」という意味なので、これはカウフマンさんが伝えた内容です。
+本文と選択肢は次のように対応しています。
+本文 you were not seriously injured in the accident（事故で大けがをしなかった）＝ 選択肢 she had not been hurt badly in the accident（事故でひどいけがはしなかった）
+seriously injured（重いけがをした）が hurt badly（ひどくけがをした）に言いかえられています。したがって2が正解です。
+なお、第2段落の You said that ～（～とおっしゃいました）の部分にも、カウフマンさんが伝えた内容（病院に一晩いたこと、保険証をなくして自分で支払ったこと）が書かれていますが、それらは選択肢にはありません。
+【ほかの選択肢】
+1 保険を解約する（cancel）という話は本文にありません。カウフマンさんは保険を使ってお金を返してもらう手続きをしようとしています。
+3 カウフマンさんが保険会社について不満を言ったという内容は本文にありません。メールでは、保険会社のラッセルさんが will do everything possible to help you（あなたをお助けするためにできることは何でもします）と書いています。
+4 事故の原因については本文に書かれていません。「自転車に乗ったほかの人が起こした」という内容はありません。
+【覚えるポイント】
+・hear from ～ that ...：「～から…と聞く」。
+・seriously injured ＝ hurt badly：「ひどいけがをした」。
