@@ -1,0 +1,32 @@
+---
+choices: prologue | insight | famine | heritage
+answerText: famine
+---
+【正解】3 famine（飢饉）
+【和訳】
+（英文）
+The country has experienced crop failures for two years in a row. Aid agencies warn that the resulting food shortages could lead to widespread ［famine］.
+（訳）
+その国では、2年続けて作物の不作が起きている。援助団体は、その結果として起こる食料不足が、広い範囲での（飢饉）につながるおそれがあると警告している。
+（選択肢の意味）
+1 prologue：前置き、（物語の）序章
+2 insight：洞察、見抜く力
+3 famine：飢饉
+4 heritage：（受け継がれてきた）遺産
+【考え方】
+まず見るところ：2文目の the resulting food shortages could lead to
+最初の文を確かめます。
+The country has experienced crop failures for two years in a row.（その国では、2年続けて作物の不作が起きている）
+crop failures は「作物の不作（作物がうまく育たず、とれないこと）」、in a row は「続けて」という意味です。
+次に、空所のある文を見ます。
+the resulting food shortages could lead to widespread ( )（その結果として起こる食料不足が、広い範囲での（　）につながるおそれがある）
+resulting は「その結果として起こる」、lead to ～ は「～につながる、～を引き起こす」です。「不作→食料不足→（　）」という流れなので、空所には食料不足が引き起こす、さらに悪い事態が入ります。
+famine は「飢饉（食べ物が足りなくなり、多くの人が飢えること）」なので、3が正解です。
+この問題の型：因果（不作→食料不足→飢饉）
+【ほかの選択肢】
+1 prologue は「（本や劇の）前置き、序章」です。「食料不足が広い範囲での序章につながる」では意味が通りません。
+2 insight は「洞察（物事の本質を見抜くこと）」です。食料不足が洞察につながる、という流れは不自然で、援助団体が警告する内容にもなりません。
+4 heritage は「（昔から受け継がれてきた）遺産」です。食料不足が遺産を生むわけではないので、意味が通りません。
+【覚えるポイント】
+・famine：「飢饉（食べ物が足りず、多くの人が飢えること）」。
+・lead to ～ の後ろには、前に書かれた出来事が引き起こす結果が来ます。「A→B→（　）」と原因と結果の流れを順にたどることが、空所の手がかりになります。

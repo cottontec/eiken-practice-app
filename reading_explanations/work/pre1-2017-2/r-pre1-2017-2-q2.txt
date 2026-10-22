@@ -1,0 +1,31 @@
+---
+choices: boost | ditch | shield | feast
+answerText: boost
+---
+【正解】1 boost（押し上げ、後押し）
+【和訳】
+（英文）
+Support for the prime minister had been dropping, but he received a ［boost］ in public-opinion surveys when the economy began to improve.
+（訳）
+首相への支持は下がってきていたが、経済がよくなり始めたとき、首相は世論調査で（押し上げ）を得た。
+（選択肢の意味）
+1 boost：押し上げ、後押し
+2 ditch：みぞ、側溝
+3 shield：盾、防御物
+4 feast：ごちそう、祝宴
+【考え方】
+まず見るところ：文の前半の Support for the prime minister had been dropping と、but
+Support for the prime minister had been dropping（首相への支持は下がってきていた）
+had been dropping は「（そのときまで）ずっと下がってきていた」という意味です。
+次に、but のあとを見ます。
+but he received a ( ) in public-opinion surveys when the economy began to improve（しかし、経済がよくなり始めたとき、彼は世論調査で（　）を得た）
+public-opinion surveys は「世論調査（国民がどう考えているかを調べるアンケート）」です。but（しかし）があるので、後半は前半の「支持が下がっていた」と反対の内容、つまり「支持が上がった」という話になると考えられます。また、when the economy began to improve（経済がよくなり始めたとき）も、よい変化のきっかけを表しています。
+boost は「押し上げ、後押し」という意味で、receive a boost で「（数字や人気などが）押し上げられる」となります。世論調査で支持が上向いたことを表せるので、1が正解です。
+この問題の型：対比（支持が下がっていた⇔押し上げを得た）／語の意味・組み合わせ（receive a boost）
+【ほかの選択肢】
+2 ditch は「みぞ、（道路わきの）側溝」です。「世論調査でみぞを得た」では意味が通りません。
+3 shield は「盾（攻撃を防ぐ道具）、守るもの」です。「世論調査で盾を得た」では、支持が上がったという流れを表せません。
+4 feast は「ごちそう、祝宴（お祝いの食事会）」です。食事の話ではないので、この文には合いません。
+【覚えるポイント】
+・boost：「押し上げ、後押し」。receive a boost で「押し上げられる、勢いがつく」。
+・前半で「下がってきていた」と述べたあとに but が続くときは、後半に「上がった、持ち直した」という反対の内容が来る手がかりになります。

@@ -170,10 +170,10 @@
     {
       "batchId": "2-2026-1",
       "target": 31,
-      "written": 0,
+      "written": 31,
       "contentReviewed": 0,
-      "status": "not_started",
-      "blank": 31,
+      "status": "complete_unreviewed",
+      "blank": 0,
       "issues": 0,
       "checkErrors": 0,
       "checkWarnings": 0
@@ -190,5 +190,5 @@
       "checkWarnings": 0
     }
   ],
-  "updatedAt": "2026-10-22T21:22:04+00:00"
+  "updatedAt": "2026-10-22T21:22:10+00:00"
 }

@@ -1,0 +1,31 @@
+---
+choices: shoppers had to pay an extra cost for using shopping carts inside supermarkets. | supermarkets prohibited young children from sitting in shopping carts. | shoppers could put more items in shopping carts because a new cart was designed. | supermarkets could save space for shopping carts thanks to the new cart design.
+answerText: supermarkets could save space for shopping carts thanks to the new cart design.
+---
+【正解】4 supermarkets could save space for shopping carts thanks to the new cart design.（新しいカートの設計のおかげで、スーパーマーケットはショッピングカートを置く場所を節約できた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：In the middle of the twentieth century,（20世紀の半ばには、～。）
+1 shoppers had to pay an extra cost for using shopping carts inside supermarkets.（買い物客は、スーパーマーケットの中でショッピングカートを使うのに、追加の料金を払わなければならなかった）
+2 supermarkets prohibited young children from sitting in shopping carts.（スーパーマーケットは、小さな子どもがショッピングカートに座ることを禁止した）
+3 shoppers could put more items in shopping carts because a new cart was designed.（新しいカートが設計されたので、買い物客はショッピングカートに（それまでより）多くの品物を入れられるようになった）
+4 supermarkets could save space for shopping carts thanks to the new cart design.（新しいカートの設計のおかげで、スーパーマーケットはショッピングカートを置く場所を節約できた）
+【考え方】
+まず見るところ：第4段落の a new cart was designed so that many carts could be stored in a smaller area
+設問の In the middle of the twentieth century は、第4段落にそのまま出てきます。
+In the middle of the twentieth century, a new cart was designed so that many carts could be stored in a smaller area.（20世紀の半ばには、たくさんのカートを（それまでより）狭い場所にしまっておけるように、新しいカートが設計された）
+so that ～ could ... は「～が…できるように」という目的を表します。store はここでは「しまっておく、保管する」という意味の動詞です。
+本文と選択肢を対にすると、次のようになります。
+本文 many carts could be stored in a smaller area（たくさんのカートを（それまでより）狭い場所にしまっておける）→ 選択肢 supermarkets could save space for shopping carts（スーパーマーケットはショッピングカートを置く場所を節約できた）
+本文 a new cart was designed（新しいカートが設計された）→ 選択肢 thanks to the new cart design（新しいカートの設計のおかげで）
+狭い場所にたくさんしまえるということは、置き場所が少なくてすむということです。ですから4が正解です。
+この問題の型：言いかえ（stored in a smaller area → save space）
+【ほかの選択肢】
+1 本文にありません。カートを使うのに追加の料金がかかったという話は書かれていません。
+2 本文と合いません。第4段落には、その後 a safety belt for children's seats was also added（子ども用の座席の安全ベルトも加えられた）とあり、子どもがカートに座ることを禁止したという話はありません。
+3 一部だけ正しい内容です。新しいカートが設計されたことは本文と合いますが、その目的は many carts could be stored in a smaller area（たくさんのカートを狭い場所にしまっておける）ことです。カートに入れられる品物が増えたとは書かれていません。
+【覚えるポイント】
+・so that ～ can（could）...：「～が…できるように」。設計や工夫の目的を表します。
+・時期（ここでは In the middle of the twentieth century）を示す設問では、本文で同じ時期の語句を探し、そのあとに書かれた内容だけと比べると、ほかの時期の話と混ぜずにすみます。
