@@ -111,19 +111,6 @@
       "written": 38
     },
     "errors": [],
-    "warnings": [
-      [
-        "r-2-2018-2-q28",
-        "選択肢2「Design a T-shirt with a lion on it for the team.」が抽出テキストに見つからない（画像で要確認）"
-      ],
-      [
-        "r-2-2018-2-q28",
-        "選択肢3「Allow the team to pay a lower price than usual for T-shirts.」が抽出テキストに見つからない（画像で要確認）"
-      ],
-      [
-        "r-2-2018-2-q36",
-        "選択肢3「many European-looking people have DNA that comes from China.」が抽出テキストに見つからない（画像で要確認）"
-      ]
-    ]
+    "warnings": []
   }
 }

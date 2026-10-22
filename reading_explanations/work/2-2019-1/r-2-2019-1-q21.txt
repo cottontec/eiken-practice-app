@@ -1,0 +1,24 @@
+---
+choices: buy fossils with amber | create their own amber | make amber jewelry | study amber closely
+answerText: study amber closely
+---
+【正解】4 study amber closely（こはくを詳しく調べる）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 buy fossils with amber（こはくで化石を買う）
+2 create their own amber（自分たちでこはくを作る）
+3 make amber jewelry（こはくの宝飾品を作る）
+4 study amber closely（こはくを詳しく調べる）
+【考え方】
+空所は第1段落の In the 19th century, people began to (21).（19世紀に、人々は（21）し始めた）です。19世紀に人々が始めたことが何かを考えます。
+手がかりは、すぐあとの文です。When they did so, they found that amber often contains fossils（彼らがそうしたとき、こはくにはよく化石が含まれていることが分かった）とあります。did so（そうした）は、空所に入る行動をくり返す代わりに使われています。つまり、空所の行動をした結果、「こはくの中に化石がある」と分かったのです。
+こはくの中身に化石があると気づくには、こはくをよく見て調べる必要があると考えられます。study amber closely（こはくを詳しく調べる）を入れると、「19世紀に人々はこはくを詳しく調べ始めた。そうしてみると、化石が含まれていることが分かった」となり、自然につながります。ですから、4が正解です。
+【ほかの選択肢】
+1 「こはくで化石を買う」を入れると、「こはくで化石を買い始めた。そうしてみると、こはくには化石が含まれていると分かった」となります。化石を買うことと、こはくの中に化石を見つけることがつながりません。本文にも、こはくを使って何かを買う話はありません。
+2 「自分たちでこはくを作る」は、本文の説明と合いません。こはくは has hardened over millions of years（何百万年もかけて固まった）ものです。人が作ったこはくの中に、古代の植物や動物の化石が見つかることはありません。
+3 「こはくの宝飾品を作る」は、本文の最初の文に which has been used to make jewelry since ancient times（古代から宝飾品を作るのに使われてきた）とあります。宝飾品作りは古代から行われていたので、19世紀に始めたこととしては合いません。
+【覚えるポイント】
+・did so：前に出た動作をくり返す代わりに使う言い方です。何を指すかが、空所の手がかりになることがあります。
+・closely：「詳しく、注意深く」。study ～ closely で「～を詳しく調べる」です。

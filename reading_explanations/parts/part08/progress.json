@@ -132,7 +132,7 @@
       "blank": 0,
       "issues": 0,
       "checkErrors": 0,
-      "checkWarnings": 3
+      "checkWarnings": 0
     },
     {
       "batchId": "2-2018-3",
@@ -177,5 +177,5 @@
       "status": "not_started"
     }
   ],
-  "updatedAt": "2026-10-22T05:41:52+00:00"
+  "updatedAt": "2026-10-22T05:42:59+00:00"
 }

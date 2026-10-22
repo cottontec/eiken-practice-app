@@ -1,0 +1,26 @@
+---
+choices: Nevertheless | Unfortunately | Moreover | Immediately
+answerText: Moreover
+---
+【正解】3 Moreover（さらに、そのうえ）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Nevertheless（それにもかかわらず）
+2 Unfortunately（残念なことに、あいにく）
+3 Moreover（さらに、そのうえ）
+4 Immediately（すぐに、ただちに）
+【考え方】
+空所は第2段落にあり、前の文と後ろの文をつなぐ言葉が入ります。前後の内容を比べます。
+空所の前：By examining these objects, scientists are able to study the blood and DNA of insects, frogs, and lizards that are now extinct.（こうしたものを調べることで、科学者たちは今では絶滅した昆虫やカエル、トカゲの血液やDNAを研究できる）
+空所の後：small details, such as feathers and hair, are preserved in fossils in amber（羽毛や毛のような細かい部分も、こはくの中の化石には保存されている）
+前の文は、こはくの中の化石から血液やDNAが研究できるという、こはくの化石のよい点です。後ろの文も、羽毛や毛まで残っているという、こはくの化石のよい点です。さらに次の文で、そのおかげで動物の色や形まで観察できると説明しています。
+このように、同じ方向のよい点を付け加えているので、「さらに、そのうえ」という意味の Moreover が合います。ですから、3が正解です。
+【ほかの選択肢】
+1 Nevertheless は「それにもかかわらず」で、前と反対の内容を続けるときに使います。前後はどちらもこはくの化石のよい点で、反対の内容ではないので合いません。
+2 Unfortunately は「残念なことに」で、悪いことを述べる前に使います。後ろの「羽毛や毛まで保存されている」は、動物の色や形を観察できるというよいことなので合いません。
+4 Immediately は「すぐに、ただちに」で、時間の早さを表します。「すぐに、羽毛や毛が保存されている」となり、前の文とのつながりが分かりません。
+【覚えるポイント】
+・moreover：「さらに、そのうえ」。前と同じ方向の内容を付け加えるときに使います。in addition や furthermore も似た意味です。
+・extinct：「絶滅した（その種類の生き物がすべていなくなった）」。
