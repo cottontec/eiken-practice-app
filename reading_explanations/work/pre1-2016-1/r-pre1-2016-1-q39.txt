@@ -1,0 +1,31 @@
+---
+choices: Adolescents who have been unsuccessful in losing weight in the past generally have poor results with bariatric surgery. | Adolescents who have bariatric surgery tend to show significantly reduced fitness levels after the operation. | Bariatric surgery is more effective than only making lifestyle changes for adolescents who are attempting to lose weight. | Bariatric surgery can successfully reduce appetite in adolescents, but patients tend to start gaining weight again after two years.
+answerText: Bariatric surgery is more effective than only making lifestyle changes for adolescents who are attempting to lose weight.
+---
+【正解】3 Bariatric surgery is more effective than only making lifestyle changes for adolescents who are attempting to lose weight.（体重を減らそうとしている青年にとって、肥満外科手術は、生活習慣を変えるだけよりも効果がある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What did the results of Dr. Paul O'Brien's experiment indicate?（ポール・オブライエン博士の実験の結果は、何を示しましたか。）
+1 Adolescents who have been unsuccessful in losing weight in the past generally have poor results with bariatric surgery.（過去に体重を減らすのに成功しなかった青年は、一般に、肥満外科手術でもよい結果が出ない。）
+2 Adolescents who have bariatric surgery tend to show significantly reduced fitness levels after the operation.（肥満外科手術を受けた青年は、手術のあとで体力が大きく落ちる傾向がある。）
+3 Bariatric surgery is more effective than only making lifestyle changes for adolescents who are attempting to lose weight.（体重を減らそうとしている青年にとって、肥満外科手術は、生活習慣を変えるだけよりも効果がある。）
+4 Bariatric surgery can successfully reduce appetite in adolescents, but patients tend to start gaining weight again after two years.（肥満外科手術は青年の食欲をうまく減らすことができるが、患者は2年後にまた体重が増え始める傾向がある。）
+【考え方】
+まず見るところ：第2段落の最後の Two years later, just 3 of the adolescents in the lifestyle-change group had reduced their weight by 25 percent or more, whereas 21 of the adolescents in the surgery group had.
+第2段落では、オブライエン博士が、何度努力しても体重を減らせなかった50人の青年を、2つのグループに分けて調べています。一方は bariatric surgery（肥満外科手術）を受け、もう一方は食事、運動、カウンセリングで体重を減らすプログラムに参加しました。
+結果は段落の最後の文に書かれています。
+Two years later, just 3 of the adolescents in the lifestyle-change group had reduced their weight by 25 percent or more, whereas 21 of the adolescents in the surgery group had.（2年後、生活習慣改善グループの青年のうち、体重を25パーセント以上減らしたのはわずか3人だったのに対し、手術グループの青年では21人がそうしていた）
+whereas は「～なのに対して」と2つを比べる語です。体重を大きく減らせた人は、生活習慣改善グループでは3人、手術グループでは21人でした。手術グループのほうがはるかに多いので、手術のほうが体重を減らすのに効果があったと言えます。
+本文と選択肢を対にすると、次のようになります。
+本文 just 3 of the adolescents in the lifestyle-change group ～, whereas 21 of the adolescents in the surgery group had（生活習慣改善グループでは3人だけだったのに対し、手術グループでは21人だった）→ 読み取れること ＝ 選択肢 Bariatric surgery is more effective than only making lifestyle changes（肥満外科手術は、生活習慣を変えるだけよりも効果がある）
+比べる相手は、than のあとの only making lifestyle changes（生活習慣を変えるだけ）です。ですから3が正解です。
+この問題の型：推論（3人と21人という結果から、どちらが効果的かを読み取る）
+【ほかの選択肢】
+1 本文と反対です。実験の対象は、who had been unable to lose weight despite repeated efforts to do so（何度も努力したにもかかわらず体重を減らせなかった）青年たちでしたが、手術グループでは21人が体重を25パーセント以上減らしました。手術でもよい結果が出ないとは言えません。
+2 本文には、手術を受けた青年の体力が落ちたという話はありません。手術グループは退院後に運動プログラムに従うよう求められたと書かれているだけです。
+4 第1段落に、この手術は患者の食欲を減らすものだとは書かれていますが、2年後にまた体重が増え始めたという話はありません。2年後の結果は、手術グループの21人が体重を大きく減らしていたというものです。
+【覚えるポイント】
+・whereas：「～なのに対して」。2つのものを比べるときに使います。
+・実験の結果をたずねる設問では、数字（ここでは3人と21人）を比べて、どちらが多いか・少ないかを確かめましょう。選択肢では、その結果が more effective than ～（～よりも効果がある）のような比較の言い方に言いかえられていることが多いです。

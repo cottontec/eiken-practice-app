@@ -1,0 +1,35 @@
+---
+choices: Using surgery to treat type 2 diabetes might discourage people from making lifestyle choices that could prevent the disease. | Referring to the increase in type 2 diabetes cases as a crisis could negatively affect the mind-set of people who suffer from it. | Surgery has been proven to be less effective in treating obesity-related diseases than Dr. David Haslam claims it is. | Encouraging surgery to treat weight loss could lead to shortages of operating rooms for patients with medical emergencies.
+answerText: Using surgery to treat type 2 diabetes might discourage people from making lifestyle choices that could prevent the disease.
+---
+【正解】1 Using surgery to treat type 2 diabetes might discourage people from making lifestyle choices that could prevent the disease.（2型糖尿病を治療するために手術を使うと、人々が、その病気を防ぐことができる生活習慣を選ばなくなってしまうかもしれない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is Dr. David Katz's main concern?（デイビッド・カッツ博士の主な心配は何ですか。）
+1 Using surgery to treat type 2 diabetes might discourage people from making lifestyle choices that could prevent the disease.（2型糖尿病を治療するために手術を使うと、人々が、その病気を防ぐことができる生活習慣を選ばなくなってしまうかもしれない。）
+2 Referring to the increase in type 2 diabetes cases as a crisis could negatively affect the mind-set of people who suffer from it.（2型糖尿病の患者の増加を「危機」と呼ぶことは、その病気に苦しむ人々の考え方に悪い影響を与えるおそれがある。）
+3 Surgery has been proven to be less effective in treating obesity-related diseases than Dr. David Haslam claims it is.（手術は、肥満に関係する病気の治療において、デイビッド・ハズラム医師が主張するほど効果がないことが証明されている。）
+4 Encouraging surgery to treat weight loss could lead to shortages of operating rooms for patients with medical emergencies.（体重を減らすための手術を勧めると、急いで治療が必要な患者のための手術室が足りなくなるおそれがある。）
+【考え方】
+まず見るところ：第4段落の He believes this could lessen societal efforts aimed at encouraging healthy diets and exercise programs, ～
+カッツ博士は第4段落の後半に出てきます。肥満の危機があることは認めているものの、is concerned about using surgery to combat type 2 diabetes（2型糖尿病と闘うために手術を使うことを心配している）と書かれています。
+その心配の中身が、次の文です。
+He believes this could lessen societal efforts aimed at encouraging healthy diets and exercise programs, which reduce the risk of developing the illness in the first place.（彼は、そうすることで、健康的な食事や運動プログラムを勧める社会の取り組みが弱まりかねないと考えている。健康的な食事や運動プログラムは、そもそもこの病気にかかる危険を減らすものなのだ）
+lessen は「減らす、弱める」、societal は「社会の」、in the first place は「そもそも、最初から」です。this は「手術を使って2型糖尿病と闘うこと」を指しています。
+最後の引用も、同じ考えを表しています。
+“relying on operating rooms may obscure the opportunity to use lifestyle as our medicine.”（「手術室に頼ることは、生活習慣を薬として使う機会を見えにくくするかもしれない」）
+obscure は「見えにくくする、ぼやけさせる」です。本文と選択肢を対にすると、次のようになります。
+本文 using surgery to combat type 2 diabetes（2型糖尿病と闘うために手術を使うこと）＝ 選択肢 Using surgery to treat type 2 diabetes（2型糖尿病を治療するために手術を使うこと）
+本文 lessen societal efforts aimed at encouraging healthy diets and exercise programs（健康的な食事や運動プログラムを勧める社会の取り組みを弱める）→ 選択肢 discourage people from making lifestyle choices（人々が生活習慣を選ばなくなるようにする）
+本文 reduce the risk of developing the illness in the first place（そもそもこの病気にかかる危険を減らす）＝ 選択肢 could prevent the disease（その病気を防ぐことができる）
+ですから1が正解です。
+この問題の型：言いかえ（reduce the risk of developing the illness ＝ prevent the disease）
+【ほかの選択肢】
+2 カッツ博士は accepts that there is an obesity crisis（肥満の危機があることは認めている）と書かれています。「危機」と呼ぶことが患者の考え方に悪い影響を与える、という心配は述べていません。
+3 本文には、手術がハズラム医師の主張ほど効果がないと証明されたという話はありません。カッツ博士の心配は、手術の効果ではなく、生活習慣を改める取り組みが弱まることです。
+4 カッツ博士の言葉に operating rooms（手術室）が出てきますが、これは「手術に頼ること」のたとえとして使われています。手術室が足りなくなるという心配は書かれていません。
+【覚えるポイント】
+・in the first place：「そもそも、最初から」。reduce the risk of ～：「～の危険を減らす」。
+・「主な心配」をたずねる設問では、is concerned about ～（～を心配している）の直後の文に、心配の理由が書かれていることが多いです。引用の中の語（ここでは operating rooms）だけに引きずられず、文全体の意味で判断しましょう。
