@@ -1,0 +1,28 @@
+---
+choices: torch | bribe | strain | gem
+answerText: strain
+---
+【正解】3 strain（負担、重圧）
+【和訳】
+（英文）
+A lack of rain in California has put a ［strain］ on the state's ability to supply enough water to everyone. Officials have begun restricting people's water usage.
+（訳）
+カリフォルニア州の雨不足は、すべての人に十分な水を供給する州の能力に負担をかけている。当局は、人々の水の使用を制限し始めている。
+（選択肢の意味）
+1 torch：たいまつ、懐中電灯
+2 bribe：わいろ（不正に便宜をはかってもらうためにわたすお金や品物）
+3 strain：負担、重圧
+4 gem：宝石
+【考え方】
+まず見るところ：文の初めの A lack of rain と、次の文の restricting people's water usage
+空所のある文は、「雨不足が、水を供給する州の能力に何をもたらしたか」を述べています。
+A lack of rain in California has put a ( ) on the state's ability to supply enough water to everyone.（カリフォルニア州の雨不足は、すべての人に十分な水を供給する州の能力に（　）をかけている）
+雨が少ないと、みんなに十分な水を届けるのが難しくなります。次の文の Officials have begun restricting people's water usage.（当局は、人々の水の使用を制限し始めている）も、水が足りなくて困っていることを示しています。officials は「当局（役所などの責任者）」です。put a strain on ～ で「～に負担をかける」という意味になるので、3が正解です。
+この問題の型：熟語・決まった形（put a strain on ～：～に負担をかける）
+【ほかの選択肢】
+1 torch は「たいまつ、懐中電灯」です。「水を供給する能力にたいまつをかける」となり、意味が通りません。
+2 bribe は「わいろ」です。雨不足がわいろをもたらすわけではなく、水の使用を制限する話ともつながりません。
+4 gem は「宝石」です。「水を供給する能力に宝石をかける」となり、意味が通りません。
+【覚えるポイント】
+・put a strain on ～：「～に負担をかける」。a lack of ～ は「～の不足」、restrict は「制限する」です。
+・put a ( ) on ～ の形の空所では、put と on といっしょに決まった意味を作る名詞が入ることがあります。前後の「困っている様子」（ここでは水の使用の制限）から、よい意味か悪い意味かを考える手がかりにしましょう。

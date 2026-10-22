@@ -1,0 +1,28 @@
+---
+choices: banner | seal | assumption | surplus
+answerText: surplus
+---
+【正解】4 surplus（余り、余った分）
+【和訳】
+（英文）
+Gregor installed solar panels on his house's roof. They usually generate more electricity than he uses, and he can sell this ［surplus］ to the electric company.
+（訳）
+グレゴールは自分の家の屋根に太陽光パネルを取りつけた。そのパネルはたいてい、彼が使うよりも多くの電気を作り出し、彼はこの余った分を電力会社に売ることができる。
+（選択肢の意味）
+1 banner：横断幕、旗
+2 seal：印、封、アザラシ
+3 assumption：思いこみ、仮定
+4 surplus：余り、余った分
+【考え方】
+まず見るところ：空所の前の more electricity than he uses と this
+空所の前に this（この）があるので、前に書かれた内容を指す語が入ると考えられます。
+They usually generate more electricity than he uses（そのパネルはたいてい、彼が使うよりも多くの電気を作り出す）
+They は solar panels（太陽光パネル）を指しています。パネルが作る電気は、彼が使う量より多いので、使いきれない電気が余ります。その余りを電力会社に売れるという流れです。surplus は「余り、余った分」なので、4が正解です。
+この問題の型：指示語（this surplus ＝ 彼が使いきれずに余った電気）
+【ほかの選択肢】
+1 banner は「横断幕、旗」です。前の文に横断幕の話はなく、this banner が何を指すのか分かりません。
+2 seal は「印、封、アザラシ」です。「この印を電力会社に売る」となり、電気の話とつながりません。
+3 assumption は「思いこみ、仮定」です。「この思いこみを電力会社に売る」となり、意味が通りません。
+【覚えるポイント】
+・surplus：「余り、余った分」。generate は「（電気などを）作り出す」です。
+・this ( ) の形の空所では、this が前の文のどの内容を指すかを確かめましょう。ここでは more electricity than he uses（使うより多い電気）が、「余り」を表す語の手がかりになります。
