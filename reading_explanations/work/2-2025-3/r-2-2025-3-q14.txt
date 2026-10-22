@@ -1,6 +1,7 @@
 ---
 choices: bit by bit | far and away | all or nothing | safe and sound
 answerText: safe and sound
+reviewed: yes
 ---
 【正解】4 safe and sound（無事に、何事もなく）
 【和訳】

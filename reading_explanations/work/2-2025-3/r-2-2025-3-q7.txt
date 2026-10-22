@@ -1,6 +1,7 @@
 ---
 choices: tie | earn | hire | pour
 answerText: tie
+reviewed: yes
 ---
 【正解】1 tie（結ぶ）
 【和訳】
@@ -14,7 +15,7 @@ Neil stopped to ［tie］ his shoelaces in the middle of the sidewalk. They had 
 3 hire：雇う
 4 pour：注ぐ
 【考え方】
-まず見るところ：2文目の They had come undone
+まず見るところ：次の文の They had come undone
 空所のあとは his shoelaces（彼のくつひも）です。くつひもをどうしたのかを考えます。
 They had come undone while he was walking.（歩いている間に、それらはほどけてしまっていた）
 They は前の文の his shoelaces を指しています。come undone は「ほどける」という意味です。

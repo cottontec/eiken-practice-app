@@ -1,0 +1,29 @@
+---
+choices: acknowledge | disguise | compress | yield
+answerText: acknowledge
+---
+【正解】1 acknowledge（（事実を）認める）
+【和訳】
+（英文）
+Therapists believe it is important for patients to ［acknowledge］ their problems. If patients keep saying that nothing is wrong, it is unlikely they will get better.
+（訳）
+セラピスト（患者の治療にあたる専門家）は、患者が自分の問題を（認める）ことが大切だと考えている。もし患者が、悪いところは何もないと言い続けるなら、患者がよくなる見こみは低い。
+（選択肢の意味）
+1 acknowledge：（事実を）認める
+2 disguise：変装させる、（本心などを）隠す
+3 compress：圧縮する、押し縮める
+4 yield：（作物や結果を）生み出す、ゆずる
+【考え方】
+まず見るところ：2文目の If patients keep saying that nothing is wrong
+If patients keep saying that nothing is wrong, it is unlikely they will get better.（もし患者が、悪いところは何もないと言い続けるなら、よくなる見こみは低い）
+keep ～ing は「～し続ける」、it is unlikely（that）～ は「～しそうにない」という意味です。「何も悪いところはない」と言い続ける、つまり自分の問題を認めない患者は、なかなかよくならない、と述べています。
+これは、1文目の「患者が自分の問題を（　）ことが大切だ」の理由を、反対の場合から説明しています。問題を認めないとよくならないのですから、大切なのは「問題を認めること」です。
+acknowledge は「（事実を）認める」という意味なので、1が正解です。
+この問題の型：対比（問題を認める⇔何も悪くないと言い続ける）
+【ほかの選択肢】
+2 disguise は「変装させる、（本心などを）隠す」です。問題を隠すのは「何も悪くない」と言い続けるのと同じことで、2文目ではそれではよくならないと述べているので、反対になります。
+3 compress は「圧縮する、押し縮める」です。「自分の問題を圧縮する」では意味が通りません。
+4 yield は「（作物や結果を）生み出す」や「ゆずる」です。「自分の問題を生み出すことが大切だ」では意味が通らず、2文目ともつながりません。
+【覚えるポイント】
+・acknowledge：「（事実を）認める」。acknowledge one’s problems で「自分の問題を認める」。
+・「～することが大切だ」のあとに If ～（もし～しなければ、よくならない）のような反対の場合の説明が続くときは、その反対を考えると空所の手がかりになります。

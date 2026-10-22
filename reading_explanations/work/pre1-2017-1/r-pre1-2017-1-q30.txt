@@ -1,0 +1,30 @@
+---
+choices: become sick first | not been allowed near people | consumed fewer pests | not declined
+answerText: not declined
+---
+【正解】4 not declined（減っていなかった）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 become sick first（先に病気になっていた）
+2 not been allowed near people（人の近くに行くことを許されていなかった）
+3 consumed fewer pests（（実際より）少ない害獣を食べていた）
+4 not declined（減っていなかった）
+【考え方】
+まず見るところ：第2段落の When vultures began disappearing, wild dog populations increased ～
+空所のある文は次のとおりです。
+These deaths might have been avoided if the vulture population had (30).（もしハゲワシの数が（30）だったら、これらの死は避けられたかもしれない）
+might have been avoided if ～ had … は「もし（実際とは違って）…だったら、避けられたかもしれない」と、過去の事実と反対のことを考える言い方です。These deaths（これらの死）は、病気の大流行で亡くなった約5万人のことです。
+では、なぜ大流行が起きたのかを確かめます。
+When vultures began disappearing, wild dog populations increased, as they no longer had to compete with vultures for food.（ハゲワシがいなくなり始めると、野犬の数が増えた。野犬はもうハゲワシとえさを奪い合う必要がなくなったからである）
+This contributed to a disease outbreak（このことは、病気の大流行の一因となった）
+つまり「ハゲワシが減った→野犬が増えた→病気が広がった」という流れです。もしハゲワシが減っていなかったら、野犬は増えず、多くの死は避けられたかもしれません。よって4が正解です。
+この問題の型：因果（ハゲワシが減る→野犬が増える→病気の流行）／文法（if ～ had … で過去の事実と反対を考える）
+【ほかの選択肢】
+1 「先に病気になっていたら」では、死を避けることにつながりません。本文では、ハゲワシの胃は肉の中の有害なウイルスや細菌をほとんど殺すと書かれており、ハゲワシが病気になれば防げたという話はありません。
+2 「人の近くに行くことを許されていなかったら」も合いません。本文にはもともと the birds rarely come into contact with humans（この鳥が人間と接触することはめったにない）とあり、問題は人に病気をうつす野犬が増えたことです。
+3 「（実際より）少ない害獣を食べていたら」という話は本文にありません。害獣のジャッカルは農家の人々が毒で殺そうとした動物で、ハゲワシが害獣を食べることと人の死を結びつける内容は書かれていません。
+【覚えるポイント】
+・might have been avoided if ～ had …：「もし…だったら、避けられたかもしれない」（実際にはそうではなかった）。
+・「もし～だったら防げたかもしれない」という空所では、実際に起きた原因（ここではハゲワシが減ったこと）を打ち消した内容が入ることが多いので、本文の原因の流れをたどると手がかりになります。

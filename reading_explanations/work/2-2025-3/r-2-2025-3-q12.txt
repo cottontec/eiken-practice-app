@@ -1,6 +1,7 @@
 ---
 choices: more or less | sooner or later | day and night | before and after
 answerText: more or less
+reviewed: yes
 ---
 【正解】1 more or less（だいたい、ほぼ）
 【和訳】

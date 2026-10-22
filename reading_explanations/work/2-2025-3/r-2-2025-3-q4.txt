@@ -1,6 +1,7 @@
 ---
 choices: president | spectator | philosopher | conductor
 answerText: philosopher
+reviewed: yes
 ---
 【正解】3 philosopher（哲学者）
 【和訳】

@@ -1,0 +1,33 @@
+---
+choices: They search for fairy circles because the grass around them is often more nutritious than grass in other areas. | They create fairy circles as a way to ensure that they have a source of water when there is little rainfall. | They store roots beneath fairy circles so they can have food during the dry season, when many plants die. | They live in fairy circles that contain less water because these last longer during the dry season.
+answerText: They create fairy circles as a way to ensure that they have a source of water when there is little rainfall.
+---
+【正解】2 They create fairy circles as a way to ensure that they have a source of water when there is little rainfall.（シロアリは、雨がほとんど降らないときに水の供給源を確実に持てるようにする方法として、フェアリーサークルを作る。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What does Norbert Juergens believe is true of termites?（ノルベルト・ユルゲンスは、シロアリについて何が正しいと考えていますか。）
+1 They search for fairy circles because the grass around them is often more nutritious than grass in other areas.（シロアリは、フェアリーサークルの周りの草はほかの場所の草より栄養があることが多いので、フェアリーサークルを探す。）
+2 They create fairy circles as a way to ensure that they have a source of water when there is little rainfall.（シロアリは、雨がほとんど降らないときに水の供給源を確実に持てるようにする方法として、フェアリーサークルを作る。）
+3 They store roots beneath fairy circles so they can have food during the dry season, when many plants die.（シロアリは、多くの植物が枯れる乾季に食べ物があるように、フェアリーサークルの下に根をたくわえる。）
+4 They live in fairy circles that contain less water because these last longer during the dry season.（シロアリは、水分の少ないフェアリーサークルに住む。そうした円のほうが乾季に長くもつからである。）
+【考え方】
+まず見るところ：第1段落の He concluded that ～ と Juergens says the termites are actually altering their environment ～
+第1段落で、ユルゲンスの考えは次のように書かれています。
+the moisture content in the soil of fairy circles was relatively high because there were no plants to absorb the rain there（そこには雨水を吸い上げる植物がないので、フェアリーサークルの土の水分量は比較的多かった）
+He concluded that termites kill the plants by feeding on their roots.（彼は、シロアリが植物の根を食べることで植物を枯らしているのだと結論づけた）
+Juergens says the termites are actually altering their environment to create a moisture supply that helps them survive the region's dry season.（ユルゲンスによると、シロアリは実際に自分たちの環境を変えて、この地域の乾季を生きのびるのに役立つ水分の供給源を作り出しているのだという）
+alter は「変える」、moisture supply は「水分の供給源」です。シロアリが植物を枯らすと、水を吸う植物がなくなり、円の土に水分が残ります。こうして、草のない円（フェアリーサークル）と水分のたくわえが同時にできることになります。
+本文と選択肢2を対にすると、次のようになります。
+本文 altering their environment to create a moisture supply（環境を変えて水分の供給源を作り出す）→ 選択肢 create fairy circles as a way to ensure that they have a source of water（水の供給源を確実に持つ方法としてフェアリーサークルを作る）
+本文 the region's dry season（この地域の乾季）＝ 選択肢 when there is little rainfall（雨がほとんど降らないとき）
+本文の「環境を変える」は、植物を枯らして草のない円を作ることなので、選択肢では「フェアリーサークルを作る」と表しています。よって2が正解です。
+この問題の型：言いかえ（create a moisture supply→ensure that they have a source of water）
+【ほかの選択肢】
+1 本文にない内容です。フェアリーサークルの周りの草の栄養については書かれていません。シロアリは円の下に住んでおり、草を探して円に来るという話もありません。
+3 本文と合いません。ユルゲンスによると、シロアリは植物の根を食べて植物を枯らすのであり、根をたくわえるとは書かれていません。乾季に向けて作るのは、食べ物ではなく水分の供給源です。
+4 本文と逆です。フェアリーサークルの土の水分量は比較的多いと書かれています。水分の少ない円に住むのではありません。
+【覚えるポイント】
+・moisture supply：「水分の供給源」。
+・「～さんは何を正しいと考えているか」という設問では、その人の名前のあとの concluded that ～ や says ～ の部分を探し、そこに書かれた目的（to create ～）と選択肢の目的（as a way to ～）が同じかどうかを確かめると手がかりになります。

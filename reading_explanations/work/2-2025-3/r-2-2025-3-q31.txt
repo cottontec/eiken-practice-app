@@ -1,6 +1,7 @@
 ---
 choices: Television appeared in the twentieth century mainly to broadcast advertisements. | Advertisements can help businesses share information about their products and make a profit. | São Paulo followed Grenoble's successful way to ban electronic advertisements. | Freedom of speech is the most important right above all other rights in Switzerland.
 answerText: Advertisements can help businesses share information about their products and make a profit.
+reviewed: yes
 ---
 【正解】2 Advertisements can help businesses share information about their products and make a profit.（広告は、企業が自分たちの製品についての情報を伝えたり、利益を上げたりするのに役立つことがある。）
 【和訳】
@@ -23,7 +24,7 @@ This tool not only encouraged people to buy goods and helped businesses make mon
 make money（お金をかせぐ）と make a profit（利益を上げる）は、ほぼ同じ意味です。ですから2が正解です。
 この問題の型：言いかえ（make money → make a profit）
 【ほかの選択肢】
-1 本文にありません。本文に出てくるのは古代エジプトと新聞で、テレビの話は出てきません。
+1 本文にありません。広告が広まったきっかけとして本文に出てくるのは新聞の発明で、テレビの話は出てきません。
 3 本文と合いません。第3段落では、サンパウロの法律は2000年代の初めのことで、グルノーブルの決定は Later（その後）とあります。順番が逆です。また、サンパウロの法律では電子看板は使うことができました。
 4 言い切りすぎです。第4段落には freedom of speech is emphasized in the country（その国では言論の自由が重んじられている）とありますが、ほかのすべての権利より上の最も重要な権利だとまでは書かれていません。
 【覚えるポイント】

@@ -1,6 +1,7 @@
 ---
 choices: show messages from people who are not members of his company. | be sent to the family members of Mr. Jenkins's coworkers from the past. | include a short company history and a timeline of its growth. | be shown on display screens set up on each table during the party.
 answerText: show messages from people who are not members of his company.
+reviewed: yes
 ---
 【正解】1 show messages from people who are not members of his company.（彼の会社の一員ではない人々からのメッセージを見せる。）
 【和訳】

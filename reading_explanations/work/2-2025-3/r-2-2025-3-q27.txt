@@ -1,14 +1,15 @@
 ---
 choices: people have become more likely to come across advertisements with incorrect information. | stores and businesses put more effort into creating better advertisements than others. | the importance of advertising in ancient Egypt has become the target of study. | even ordinary people have begun to make their own advertisements for different purposes.
 answerText: people have become more likely to come across advertisements with incorrect information.
+reviewed: yes
 ---
-【正解】1 people have become more likely to come across advertisements with incorrect information.（人々が、まちがった情報を含む広告に出くわすことが、以前より多くなった。）
+【正解】1 people have become more likely to come across advertisements with incorrect information.（人々が、まちがった情報を含む広告に、以前より出くわしやすくなった。）
 【和訳】
 ＜本文の全訳＞
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：With an increase in advertisements in people's daily lives,（人々の日常生活の中で広告が増えたことで、）
-1 people have become more likely to come across advertisements with incorrect information.（人々が、まちがった情報を含む広告に出くわすことが、以前より多くなった。）
+1 people have become more likely to come across advertisements with incorrect information.（人々が、まちがった情報を含む広告に、以前より出くわしやすくなった。）
 2 stores and businesses put more effort into creating better advertisements than others.（店や企業は、ほかよりもよい広告を作ることに、より力を入れた。）
 3 the importance of advertising in ancient Egypt has become the target of study.（古代エジプトにおける広告の重要性が、研究の対象になった。）
 4 even ordinary people have begun to make their own advertisements for different purposes.（ふつうの人々でさえ、さまざまな目的のために自分の広告を作り始めた。）
@@ -19,7 +20,7 @@ The increase in advertisements has led to more advertisements with wrong informa
 lead to ～ は「～につながる、～をもたらす」です。
 本文と選択肢を対にすると、次のようになります。
 本文 wrong information（まちがった情報）＝ 選択肢 incorrect information（正しくない情報）
-本文 more advertisements with wrong information（まちがった情報を含む広告が多くなった）→ 選択肢 people have become more likely to come across ～（人々が～に出くわすことが多くなった）
+本文 more advertisements with wrong information（まちがった情報を含む広告が多くなった）→ 選択肢 people have become more likely to come across ～（人々が～に出くわしやすくなった）
 まちがった情報を含む広告が増えれば、人々がそうした広告を目にする機会も増えると考えられます。come across は「（偶然）出くわす」、be likely to ～ は「～しそうだ」です。ですから1が正解です。
 この問題の型：言いかえ（wrong information → incorrect information）／推論（広告が増えた→出くわしやすくなった）
 【ほかの選択肢】

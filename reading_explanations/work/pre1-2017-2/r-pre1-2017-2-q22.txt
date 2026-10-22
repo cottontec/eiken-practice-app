@@ -1,0 +1,32 @@
+---
+choices: given in | bounced back | stood down | wrapped up
+answerText: bounced back
+---
+【正解】2 bounced back（立ち直った、回復した）
+【和訳】
+（英文）
+After the biggest company in the town closed down, many workers lost their jobs. However, the local economy has ［bounced back］ recently, and employment is steady.
+（訳）
+町でいちばん大きな会社が閉鎖されたあと、多くの労働者が職を失った。しかし、最近、地元の経済は（立ち直り）、雇用は安定している。
+（選択肢の意味）
+1 given in：屈服した、降参した
+2 bounced back：立ち直った、回復した
+3 stood down：（地位から）退いた、辞任した
+4 wrapped up：（仕事などを）終えた、まとめた
+【考え方】
+まず見るところ：空所の文の However と、後半の employment is steady
+最初の文を確かめます。
+After the biggest company in the town closed down, many workers lost their jobs.（町でいちばん大きな会社が閉鎖されたあと、多くの労働者が職を失った）
+close down は「（店や会社が）閉鎖される、廃業する」です。町の経済にとって悪い出来事です。
+次に、空所の文を見ます。
+However, the local economy has ( ) recently, and employment is steady.（しかし、最近、地元の経済は（　）、雇用は安定している）
+However（しかし）があるので、前の文の悪い状況とは反対の、よい方向の内容が続きます。employment is steady（雇用は安定している）も、仕事がある状態が続いていることを表しています。
+bounce back は「（ボールがはね返るように）立ち直る、回復する」という意味です。「悪い状況から経済が立ち直り、雇用が安定している」とつながるので、2が正解です。
+この問題の型：対比（However：職を失った⇔経済が立ち直った）／熟語・決まった形（bounce back）
+【ほかの選択肢】
+1 given in は「屈服した、降参した」です。「経済が降参した」では悪い方向の話になり、However のあとの「雇用は安定している」と合いません。
+3 stood down は「（役職などから）退いた、辞任した」です。人が地位を離れるときに使う言い方で、経済には使えません。
+4 wrapped up は「（仕事や会議などを）終えた、まとめた」です。「地元の経済が終えた」では意味が通らず、雇用が安定しているという後半ともつながりません。
+【覚えるポイント】
+・bounce back：「立ち直る、回復する」。
+・前の文に悪い出来事があり、However のあとに「安定している」のようなよい状態が続くときは、空所に「回復する、立ち直る」という意味の語句が入る手がかりになります。

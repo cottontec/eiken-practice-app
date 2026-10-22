@@ -1,0 +1,30 @@
+---
+choices: simplifies | hovers | portrays | verifies
+answerText: portrays
+---
+【正解】3 portrays（（役を）演じる、描く）
+【和訳】
+（英文）
+Although the actor usually ［portrays］ tough gangsters in films, in real life he is a kind and gentle man.
+（訳）
+その俳優は映画ではたいてい、こわもてのギャングを（演じている）が、実生活では親切でおだやかな人だ。
+（選択肢の意味）
+1 simplifies：単純にする
+2 hovers：（空中に）浮かぶ、うろうろする
+3 portrays：（役を）演じる、描く
+4 verifies：（正しいかどうか）確かめる
+【考え方】
+まず見るところ：空所のあとの tough gangsters in films と、後半の in real life
+Although the actor usually ( ) tough gangsters in films（その俳優は映画ではたいてい、こわもてのギャングを（　）けれども）
+tough は「たくましくて乱暴な、こわもての」、gangster は「ギャング（犯罪をする集団の一員）」です。in films は「映画の中で」という意味です。
+in real life he is a kind and gentle man（実生活では、彼は親切でおだやかな人だ）
+Although（～だけれども）があるので、前半と後半は反対の向きの内容になります。「映画の中では乱暴なギャング⇔実生活では親切でおだやか」という対比です。俳優が映画の中でギャングになっているのは、その役を演じているからです。
+portray は「（役を）演じる、（人物を）描く」という意味なので、3が正解です。
+この問題の型：対比（in films 映画の中⇔in real life 実生活）／語の意味・組み合わせ（portray gangsters）
+【ほかの選択肢】
+1 simplifies は「単純にする、分かりやすくする」です。「俳優がギャングを単純にする」では意味が通りません。
+2 hovers は「（空中に）浮かぶ、（その場を）うろうろする」です。後ろに直接「ギャング」を置いて「ギャングを浮かぶ」とは言えず、意味が通りません。
+4 verifies は「（正しいかどうか）確かめる」です。「映画の中でギャングを確かめる」では、実生活との対比になりません。
+【覚えるポイント】
+・portray：「（役を）演じる、（人物を）描く」。
+・Although の文で in films（映画の中で）と in real life（実生活で）が対になっているときは、前半に「（役を）演じる」のような映画の中の動作を表す語が入る手がかりになります。

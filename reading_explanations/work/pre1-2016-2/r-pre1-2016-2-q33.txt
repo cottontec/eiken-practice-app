@@ -1,0 +1,34 @@
+---
+choices: ensure there is always enough maple syrup to meet consumer demand for the product, regardless of weather conditions. | protect consumers from dishonest producers who sell small quantities of maple syrup at unreasonably high prices. | help to keep the flavor of maple syrup consistent regardless of the season, which results in a loyal customer base. | prevent producers from selling maple syrup that has been mixed with artificial ingredients.
+answerText: ensure there is always enough maple syrup to meet consumer demand for the product, regardless of weather conditions.
+---
+【正解】1 ensure there is always enough maple syrup to meet consumer demand for the product, regardless of weather conditions.（天候の状態にかかわらず、消費者がほしいと思う量を満たすのに十分なメープルシロップが、常にあるようにする。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to the federation, one reason its rules are necessary is that they（連盟によると、その規則が必要である理由の一つは、規則が～ということである。）
+1 ensure there is always enough maple syrup to meet consumer demand for the product, regardless of weather conditions.（天候の状態にかかわらず、消費者がほしいと思う量を満たすのに十分なメープルシロップが、常にあるようにする。）
+2 protect consumers from dishonest producers who sell small quantities of maple syrup at unreasonably high prices.（少量のメープルシロップを不当に高い値段で売る不正直な生産者から、消費者を守る。）
+3 help to keep the flavor of maple syrup consistent regardless of the season, which results in a loyal customer base.（季節にかかわらずメープルシロップの風味を一定に保つのに役立ち、その結果、いつも買ってくれる客ができる。）
+4 prevent producers from selling maple syrup that has been mixed with artificial ingredients.（生産者が、人工の材料を混ぜたメープルシロップを売るのを防ぐ。）
+【考え方】
+まず見るところ：第2段落の The federation claims its maple syrup reserve keeps both supply and prices steady.
+設問の According to the federation（連盟によると）は、本文の The federation claims（連盟は～と主張している）に当たります。
+The federation claims its maple syrup reserve keeps both supply and prices steady.（連盟は、メープルシロップの在庫が供給と価格の両方を安定させていると主張している）
+supply は「供給（売りに出される量）」、steady は「安定した」という意味です。続く文では、在庫が必要な理由が説明されています。
+Maple syrup production varies greatly depending on the weather, making harvests unpredictable.（メープルシロップの生産量は天候によって大きく変わるので、収穫量は予測できない）
+さらに、規則ができる前は、収穫が少ないと stocks ran low and prices rose too high, causing consumers to switch to artificial syrup（在庫が少なくなって価格が上がりすぎ、消費者が人工のシロップに乗りかえる原因となった）と書かれています。
+天候が悪く収穫が少ない年でも、在庫があればシロップが足りなくなりません。本文と選択肢を対にすると、次のようになります。
+・本文 keeps supply ～ steady（供給を安定させる）→ 選択肢 ensure there is always enough maple syrup（十分なシロップが常にあるようにする）
+・本文 varies greatly depending on the weather（天候によって大きく変わる）→ 選択肢 regardless of weather conditions（天候の状態にかかわらず）
+→読み取れること：在庫があるので、天候で収穫が変わっても、消費者が求める量のシロップを用意できる。ですから1が正解です。
+meet consumer demand は「消費者の需要（ほしいと思う量）を満たす」という意味です。
+この問題の型：言いかえ（keeps supply steady → always enough）／推論（天候で収穫が変わる→在庫で補う）
+【ほかの選択肢】
+2 本文にありません。価格が上がりすぎたのは収穫が少なかったためであり、不正直な生産者が高い値段で売ったという話は出てきません。
+3 本文にありません。連盟の主張は供給と価格を安定させることで、シロップの風味を一定に保つという話は書かれていません。
+4 本文の内容と違います。artificial syrup（人工のシロップ）は出てきますが、それは価格が上がりすぎて消費者が乗りかえたものです。生産者が人工の材料を混ぜたという話ではありません。
+【覚えるポイント】
+・regardless of ～：「～にかかわらず、～に関係なく」。本文の depending on ～（～によって）と反対の向きの言葉で、言いかえの手がかりになることがあります。
+・According to ～（～によると）で始まる設問では、本文の ～ claims や ～ says の部分を探すと、答えの場所が見つけやすくなります。

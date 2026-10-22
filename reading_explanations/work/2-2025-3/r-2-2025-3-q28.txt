@@ -1,6 +1,7 @@
 ---
 choices: To encourage young people to cook more often at home. | To promote products that are good for the environment. | To protect people's health from being harmed. | To increase profits for businesses selling healthier products.
 answerText: To protect people's health from being harmed.
+reviewed: yes
 ---
 【正解】3 To protect people's health from being harmed.（人々の健康がそこなわれないように守るため。）
 【和訳】

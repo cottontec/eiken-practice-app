@@ -1,6 +1,7 @@
 ---
 choices: banning advertisements would be against the right to advertise and freedom of speech. | removing advertisements would improve the economy and bring more tourists. | fewer advertisements will lead to a decrease in the number of violent crimes. | it will be easier for the cities to invite new businesses by banning advertisements.
 answerText: banning advertisements would be against the right to advertise and freedom of speech.
+reviewed: yes
 ---
 【正解】1 banning advertisements would be against the right to advertise and freedom of speech.（広告を禁止することは、広告をする権利と言論の自由に反するだろう。）
 【和訳】
@@ -27,7 +28,7 @@ this right（この権利）は、前の文の the right to advertise（広告�
 【ほかの選択肢】
 2 本文にありません。ベルニエの自治体は、広告を取り除けば市の美しさが取りもどされ、環境全体がよくなると主張していますが、経済がよくなる、観光客が増えるという話はありません。
 3 本文にありません。犯罪の件数についての話は出てきません。
-4 本文と合いません。本文では、広告が禁止されたら客を失うかもしれないと心配する企業があると書かれていて、広告の禁止で新しい企業を招きやすくなるという話はありません。
+4 本文にありません。企業については、広告が禁止されたら客を失うかもしれないと心配している企業がある、と書かれているだけで、広告の禁止で新しい企業を招きやすくなるという話は出てきません。
 【覚えるポイント】
 ・go against ～：「～に反する」。be against ～（～に反対である、～に反する）と言いかえられることがあります。
 ・this right（この権利）のような指示語が出てきたら、すぐ前の文の何を指すか（ここでは the right to advertise）を確かめると、選択肢との対応を見つける手がかりになります。

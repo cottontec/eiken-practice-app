@@ -1,0 +1,31 @@
+---
+choices: pursued | concealed | prolonged | frustrated
+answerText: frustrated
+---
+【正解】4 frustrated（（思いどおりにならず）いらいらした）
+【和訳】
+（英文）
+After spending two hours trying unsuccessfully to repair his bicycle’s brakes, Leo got so ［frustrated］ that he threw his tools at the wall of his garage.
+（訳）
+自転車のブレーキを直そうとして2時間かけたもののうまくいかず、レオはとても（いらいらした）ので、ガレージの壁に工具を投げつけた。
+（選択肢の意味）
+1 pursued：追いかけられた
+2 concealed：隠された
+3 prolonged：長引いた、引き延ばされた
+4 frustrated：（思いどおりにならず）いらいらした
+【考え方】
+まず見るところ：文の初めの trying unsuccessfully to repair と、空所のあとの he threw his tools at the wall
+After spending two hours trying unsuccessfully to repair his bicycle’s brakes（自転車のブレーキを直そうとして、うまくいかないまま2時間を過ごしたあと）
+unsuccessfully は「うまくいかずに」という意味です。2時間がんばっても直らなかったことが分かります。
+次に、空所の文の形を見ます。
+Leo got so ( ) that he threw his tools at the wall of his garage（レオはとても（　）なったので、ガレージの壁に工具を投げつけた）
+so ～ that … は「とても～なので…」という意味です。工具を壁に投げつけるのは、腹が立ったり、いらいらしたりしたときの行動です。
+frustrated は「（思いどおりにならず）いらいらした、不満がたまった」という意味です。「直らなくていらいらし、工具を投げた」とつながるので、4が正解です。
+この問題の型：因果（うまく直らない→いらいらする→工具を投げる）／熟語・決まった形（so ～ that …）
+【ほかの選択肢】
+1 pursued は「追いかけられた」です。この文にはレオを追いかける人は出てこないので、合いません。
+2 concealed は「隠された」です。「レオはとても隠されたので」では意味が通りません。
+3 prolonged は「長引いた、引き延ばされた」です。2時間という長さの話はありますが、prolonged は話し合いや時間などの「物事」が長引くことを表す語で、人の気持ちは表せません。「レオがとても長引いた」では意味が通りません。
+【覚えるポイント】
+・frustrated：「（思いどおりにならず）いらいらした」。get frustrated で「いらいらする」。
+・so ～ that … の文では、that のあとの行動（ここでは工具を投げつけた）が、空所に入る気持ちや様子の手がかりになります。

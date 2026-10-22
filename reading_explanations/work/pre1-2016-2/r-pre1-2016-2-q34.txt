@@ -1,0 +1,32 @@
+---
+choices: They have helped rival producers get more customers because storing maple syrup for long periods affects its quality. | They may cause some customers to stop buying maple syrup because they think producers are being treated unfairly. | They have encouraged Quebec's producers to plant fewer maple trees, which is decreasing overall production. | They may allow rival producers to take business away from Quebec's producers in the future.
+answerText: They may allow rival producers to take business away from Quebec's producers in the future.
+---
+【正解】4 They may allow rival producers to take business away from Quebec's producers in the future.（規則によって、将来、競争相手の生産者がケベックの生産者から商売を奪うことになるかもしれない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What do critics say about the federation's rules?（批判する人々は、連盟の規則について何と言っているか。）
+1 They have helped rival producers get more customers because storing maple syrup for long periods affects its quality.（メープルシロップを長い期間保管すると品質に影響するので、規則は、競争相手の生産者がより多くの客を得る手助けをしてきた。）
+2 They may cause some customers to stop buying maple syrup because they think producers are being treated unfairly.（生産者が不公平に扱われていると考えて、一部の客がメープルシロップを買うのをやめる原因に、規則がなるかもしれない。）
+3 They have encouraged Quebec's producers to plant fewer maple trees, which is decreasing overall production.（規則は、ケベックの生産者が植えるカエデの木を減らすよう仕向けてきて、そのことが全体の生産量を減らしている。）
+4 They may allow rival producers to take business away from Quebec's producers in the future.（規則によって、将来、競争相手の生産者がケベックの生産者から商売を奪うことになるかもしれない。）
+【考え方】
+まず見るところ：第3段落の最後の There are now fears that the current restrictions will limit the ability of Quebec's producers to compete with unregulated producers from other areas.
+批判する人々の意見は、第3段落の Critics argue, however, ～（しかし、批判する人々は～と主張している）から始まります。
+Critics argue, however, that these tight controls on price and supply are threatening Quebec's maple syrup industry.（しかし、批判する人々は、価格と供給に対するこうした厳しい管理が、ケベックのメープルシロップ産業をおびやかしていると主張している）
+続けて、ケベックが市場で占める割合が小さくなっていること、アメリカの生産量が2012年から2014年の間に2倍以上に増えたことが書かれています。そして段落の最後は次のとおりです。
+There are now fears that the current restrictions will limit the ability of Quebec's producers to compete with unregulated producers from other areas.（今では、現在の制限によって、ケベックの生産者が、ほかの地域の規制を受けていない生産者と競争する力が制限されるのではないかという心配が生まれている）
+本文と選択肢を対にすると、次のようになります。
+・本文 unregulated producers from other areas（ほかの地域の規制を受けていない生産者）＝ 選択肢 rival producers（競争相手の生産者）
+・本文 fears that ～ will limit the ability of Quebec's producers to compete（ケベックの生産者の競争する力が制限されるという心配）→ 選択肢 may allow rival producers to take business away from Quebec's producers in the future（将来、競争相手がケベックの生産者から商売を奪うかもしれない）
+fears（心配）はこれから起こるかもしれないことなので、選択肢では may ～ in the future（将来～かもしれない）と表されています。競争する力が弱まれば、客や売り上げをほかの地域の生産者に取られるおそれがあります。ですから4が正解です。
+この問題の型：言いかえ（unregulated producers from other areas → rival producers）／推論（競争する力が弱まる→商売を奪われるかもしれない）
+【ほかの選択肢】
+1 本文にありません。連盟がほぼ丸1年分の売れていないシロップを倉庫に抱えていることは書かれていますが、長く保管すると品質が落ちるという話は出てきません。
+2 本文にありません。客が「生産者が不公平に扱われている」と考えて買うのをやめるという話はありません。消費者が人工のシロップに乗りかえた話は第2段落にありますが、それは価格が上がりすぎたためです。
+3 本文にありません。ニューヨーク州にケベック全体より多くのカエデの木があることは書かれていますが、ケベックの生産者が植える木を減らした話はありません。小さくなっていると書かれているのは、ケベックが市場で占める割合です。
+【覚えるポイント】
+・compete with ～：「～と競争する」。rival（競争相手）とあわせて覚えておくと、言いかえに気づきやすくなります。
+・本文の There are fears that ～（～という心配がある）は、まだ起きていない将来のことを表すので、選択肢の may ～ in the future のような言い方と結びつけると手がかりになります。

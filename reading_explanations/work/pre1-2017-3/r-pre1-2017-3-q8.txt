@@ -1,0 +1,29 @@
+---
+choices: integral | finite | improper | desirable
+answerText: improper
+---
+【正解】3 improper（不適切な、失礼な）
+【和訳】
+（英文）
+In some cultures it is ［improper］ to ask how much money someone makes. In fact, the topic of personal finances in general should be avoided in conversation.
+（訳）
+文化によっては、人がどれくらいお金をかせいでいるかをたずねるのは（不適切）です。実際、個人のお金の事情という話題は全般に、会話の中で避けるべきものです。
+（選択肢の意味）
+1 integral：欠かせない、なくてはならない
+2 finite：限りのある
+3 improper：不適切な、失礼な
+4 desirable：望ましい
+【考え方】
+まず見るところ：2文目の should be avoided in conversation
+1文目は it is (　) to ～（～することは（　）だ）の形で、「人の収入をたずねること」がどうなのかを述べています。
+2文目は In fact（実際）で始まり、1文目の内容をさらに強める形で説明しています。
+In fact, the topic of personal finances in general should be avoided in conversation.（実際、個人のお金の事情という話題は全般に、会話の中で避けるべきだ）
+personal finances は「個人のお金の事情（収入や貯金など）」です。お金の話全体を避けるべきなのですから、収入をたずねることは「してはいけないこと、失礼なこと」になります。improper は「不適切な」という意味なので、3が正解です。
+この問題の型：言いかえ（improper → should be avoided）
+【ほかの選択肢】
+1 integral は「欠かせない」です。「収入をたずねるのは欠かせない」となり、2文目の「お金の話は避けるべきだ」と反対の内容になります。
+2 finite は「限りのある」です。「収入をたずねるのは限りがある」では意味が通りません。
+4 desirable は「望ましい」です。「収入をたずねるのは望ましい」となり、「避けるべきだ」という2文目と反対になります。
+【覚えるポイント】
+・improper：「不適切な、失礼な」。proper（適切な）に、反対の意味を表す im- がついた語です。
+・2文目が In fact（実際）で始まるときは、1文目と同じ方向の内容をさらに強めて述べていることが多いので、2文目の内容から1文目の空所を考えるのが手がかりになります。

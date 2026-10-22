@@ -1,0 +1,33 @@
+---
+choices: formation | intimidation | flattery | proficiency
+answerText: flattery
+---
+【正解】3 flattery（お世辞）
+【和訳】
+（英文）
+A: Hi, Professor Jones. You’re looking very nice in that suit today.
+B: Thank you, Jim. But don’t think ［flattery］ will get you a better grade on your report!
+（訳）
+A：こんにちは、ジョーンズ教授。今日はそのスーツがとてもよくお似合いですね。
+B：ありがとう、ジム。でも、（お世辞）によって、レポートでもっとよい成績がもらえるとは思わないでくださいね！
+（選択肢の意味）
+1 formation：形成、隊形
+2 intimidation：おどし、脅迫
+3 flattery：お世辞
+4 proficiency：熟達、（高い）技能
+【考え方】
+まず見るところ：Aの発言の You’re looking very nice in that suit today.
+You’re looking very nice in that suit today.（今日はそのスーツがとてもよくお似合いですね）
+Aのジムは、ジョーンズ教授の服装をほめています。
+次に、Bの答えを見ます。
+But don’t think ( ) will get you a better grade on your report!（でも、（　）によって、レポートでもっとよい成績がもらえるとは思わないでくださいね！）
+get you a better grade は「あなたにもっとよい成績をもたらす」という意味です。教授は「ほめてくれてありがとう」と言いながら、「でも、ほめても成績は上がりませんよ」と、冗談まじりに注意していると考えられます。
+flattery は「お世辞（相手を喜ばせるために、大げさにほめること）」です。Aのほめ言葉を flattery と呼ぶと話がつながるので、3が正解です。
+この問題の型：言いかえ（You’re looking very nice → flattery）／対比（Thank you ⇔ But don’t think ～）
+【ほかの選択肢】
+1 formation は「形成（形づくること）、隊形」です。Aの発言を指す語にはならず、「形成によってもっとよい成績がもらえる」では意味が通りません。
+2 intimidation は「おどし、脅迫」です。Aは教授をほめているのであって、おどしてはいないので合いません。
+4 proficiency は「熟達、（高い）技能」です。高い実力ならむしろよい成績につながる理由になり、「思わないでね」と注意する内容になりません。また、Aのほめ言葉とも結びつきません。
+【覚えるポイント】
+・flattery：「お世辞（大げさにほめること）」。
+・会話で一方がほめ、もう一方が「でも、～でよい成績がもらえると思わないで」と返しているときは、空所に「ほめ言葉、お世辞」を表す語が入る手がかりになります。前の発言を一語でまとめる名詞を探しましょう。

@@ -1,6 +1,7 @@
 ---
 choices: shake hands | give way | take pains | make sense
 answerText: take pains
+reviewed: yes
 ---
 【正解】3 take pains（苦労する、骨を折る）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: innocently | thankfully | traditionally | resentfully
 answerText: thankfully
+reviewed: yes
 ---
 【正解】2 thankfully（ありがたいことに、幸いにも）
 【和訳】

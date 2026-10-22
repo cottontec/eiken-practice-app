@@ -1,6 +1,7 @@
 ---
 choices: fortune | distinction | loyalty | suspicion
 answerText: loyalty
+reviewed: yes
 ---
 【正解】3 loyalty（忠誠心、変わらずに支え続ける気持ち）
 【和訳】

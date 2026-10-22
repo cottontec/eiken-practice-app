@@ -1,0 +1,32 @@
+---
+choices: Because the soil in Namibia is much deeper and can hold more water, the circles there tend to be larger. | The plants that grow around the Australian circles do not need much water, so these circles are generally drier. | Water collects underneath the Namibian circles, whereas it flows to the edge of the Australian ones. | Rainfall amounts have more effect on the Namibian circles, while the type of soil has more effect on the Australian ones.
+answerText: Water collects underneath the Namibian circles, whereas it flows to the edge of the Australian ones.
+---
+【正解】3 Water collects underneath the Namibian circles, whereas it flows to the edge of the Australian ones.（ナミビアの円では水が円の下にたまるが、オーストラリアの円では水が円のふちへ流れる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one difference between the fairy circles in Namibia and Australia?（ナミビアとオーストラリアのフェアリーサークルの違いの一つは何ですか。）
+1 Because the soil in Namibia is much deeper and can hold more water, the circles there tend to be larger.（ナミビアの土は（オーストラリアの土より）ずっと深く、より多くの水をたくわえられるので、そこの円は（オーストラリアの円より）大きくなりがちである。）
+2 The plants that grow around the Australian circles do not need much water, so these circles are generally drier.（オーストラリアの円の周りに生える植物はあまり水を必要としないので、これらの円は（ナミビアの円より）たいてい乾いている。）
+3 Water collects underneath the Namibian circles, whereas it flows to the edge of the Australian ones.（ナミビアの円では水が円の下にたまるが、オーストラリアの円では水が円のふちへ流れる。）
+4 Rainfall amounts have more effect on the Namibian circles, while the type of soil has more effect on the Australian ones.（ナミビアの円には雨の量のほうが大きく影響し、一方、オーストラリアの円には土の種類のほうが大きく影響する。）
+【考え方】
+まず見るところ：第3段落の The soil in Namibia's fairy circles is sandy, ～ と The soil in the Australian outback, however, ～
+第3段落の初めに、Getzin believes the Namibian and Australian fairy circles benefit the surrounding plants in slightly different ways.（ゲッツィンは、ナミビアとオーストラリアのフェアリーサークルは、少し異なる方法で周りの植物に役立っていると考えている）とあり、そのあとに違いが書かれています。
+The soil in Namibia's fairy circles is sandy, allowing rainfall to penetrate and be stored beneath them to nourish the plants just outside the circles.（ナミビアのフェアリーサークルの土は砂なので、雨水がしみこんで円の下にたくわえられ、円のすぐ外側の植物を育てる）
+Consequently, rainfall cannot get through the surface and so flows to the area immediately surrounding the circles.（その結果、雨水は地面の表面を通りぬけることができず、円のすぐ周りの場所へ流れていく）
+penetrate は「しみこむ」、beneath は「～の下に」、immediately surrounding は「すぐ周りの」です。2つ目の文は、オーストラリアの土がかたいことの結果です。
+本文と選択肢3を対にすると、次のようになります。
+本文 be stored beneath them（円の下にたくわえられる）＝ 選択肢 Water collects underneath the Namibian circles（ナミビアの円では水が円の下にたまる）
+本文 flows to the area immediately surrounding the circles（円のすぐ周りの場所へ流れる）→ 選択肢 it flows to the edge of the Australian ones（オーストラリアの円では水が円のふちへ流れる）
+「円のすぐ周りの場所」を、選択肢では「円のふち」と表しています。よって3が正解です。
+この問題の型：対比（ナミビア：下にたまる⇔オーストラリア：周りへ流れる）／言いかえ（the area immediately surrounding→the edge）
+【ほかの選択肢】
+1 本文にない内容です。ナミビアの土は sandy（砂）だと書かれていますが、土の深さや円の大きさを2つの国で比べる話はありません。
+2 本文にない内容です。オーストラリアの円の周りの植物があまり水を必要としないとは書かれていません。むしろゲッツィンは、どちらの円も植物どうしが水を奪い合うことでできると考えています。
+4 本文に書かれていない比べ方です。第3段落で違いの原因として書かれているのは、ナミビアの土が砂で、オーストラリアの土がかたいという、どちらも土の種類のことです。雨の量がナミビアの円により大きく影響するとは書かれていません。
+【覚えるポイント】
+・whereas：「～だが一方…」。2つのものの違いを並べるときに使います。
+・2つの場所の違いを問う設問では、however や whereas の前後に分かれて書かれたそれぞれの特徴を対にして、選択肢がどちらの場所の特徴を正しく組み合わせているかを確かめると手がかりになります。

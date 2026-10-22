@@ -1,6 +1,7 @@
 ---
 choices: can say when they heard the song | keep some distance from the song | may buy the song without hesitation | learn how to play musical instruments
 answerText: may buy the song without hesitation
+reviewed: yes
 ---
 【正解】3 may buy the song without hesitation（ためらうことなくその歌を買うかもしれない）
 【和訳】

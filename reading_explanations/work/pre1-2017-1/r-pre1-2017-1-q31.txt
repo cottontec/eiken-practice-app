@@ -1,0 +1,31 @@
+---
+choices: vultures should not be the focus | this is not the only problem | the programs have already succeeded | the birds should be relocated
+answerText: this is not the only problem
+---
+【正解】2 this is not the only problem（これが唯一の問題ではない）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 vultures should not be the focus（ハゲワシを重点的に扱うべきではない）
+2 this is not the only problem（これが唯一の問題ではない）
+3 the programs have already succeeded（その計画はすでに成功している）
+4 the birds should be relocated（この鳥はほかの場所に移されるべきだ）
+【考え方】
+まず見るところ：第3段落の空所の前の However, vultures breed extremely slowly と、空所のあとの funding の話
+空所の前は次のとおりです。
+However, vultures breed extremely slowly, with females producing only one egg each year.（しかし、ハゲワシは繁殖がきわめて遅く、メスは1年にたった1個しか卵を産まない）
+これは、繁殖計画がうまくいくのを難しくする1つ目の問題です。
+空所のあとで、パリー＝ジョーンズは別の話をしています。
+She notes that the Indian government has, in the past, given substantial funding to tiger-conservation programs.（彼女は、インド政府が過去にトラの保護計画に多額の資金を出してきたことを指摘している）
+As it stands, however, the vulture programs struggle to obtain support.（しかし現状では、ハゲワシの計画は支援を得るのに苦労している）
+substantial funding は「多額の資金」、as it stands は「現状では」です。ハゲワシの計画にはお金の支援が足りないという、もう一つの問題が書かれています。
+繁殖が遅いことに加えて、資金不足という別の問題もあるのですから、「これ（繁殖が遅いこと）が唯一の問題ではない」が入ります。よって2が正解です。
+この問題の型：指示語（this＝ハゲワシの繁殖が遅いこと）／具体例とまとめ（トラとの資金の差→もう一つの問題）
+【ほかの選択肢】
+1 本文と逆です。パリー＝ジョーンズは、政府がハゲワシの保護にも資金を出せば計画は「安全で、確かなもの」になると言っており、ハゲワシの保護を進めたいと考えています。
+3 本文と合いません。計画は could give the birds a chance of recovering（回復の見込みが生まれるかもしれない）と書かれているだけで、さらに現状では支援を得るのに苦労しています。すでに成功しているとは言えません。
+4 この鳥をほかの場所に移すという話は本文にありません。パリー＝ジョーンズが話しているのは、政府の資金のことです。
+【覚えるポイント】
+・as it stands：「現状では」。
+・ある人の発言が空所になっているときは、そのあとに続く She notes ～ や she says などの具体的な説明をまとめると、その人の主張が分かる手がかりになります。

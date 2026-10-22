@@ -1,6 +1,7 @@
 ---
 choices: Collecting the necessary numbers about Mr. Jenkins's sales to make slides. | Putting together a list of songs to play for people to choose from. | Checking and preparing computers at the sales department before the party. | Creating something exciting to show Mr. Jenkins's history at the company.
 answerText: Creating something exciting to show Mr. Jenkins's history at the company.
+reviewed: yes
 ---
 【正解】4 Creating something exciting to show Mr. Jenkins's history at the company.（会社でのジェンキンスさんの歩みを示す、心おどるものを作ること。）
 【和訳】
@@ -27,7 +28,7 @@ have trouble ～ing は「～するのに苦労する」、graphic は「図、�
 【ほかの選択肢】
 1 本文と合いません。We have the data（データは手元にある）とあるので、数字を集めることに手助けは必要ありません。必要なのは、そのデータを図にすることです。
 2 本文にありません。曲のリストについては、メールに書かれていません。
-3 本文と合いません。メールでは、イベント当日のよい映像と音のための機材の話が出てきますが、パーティーの前に営業部のコンピューターを点検するという話はありません。
+3 本文と合いません。メールでは、イベント当日のよい映像と音のための機材の話が出てきます。ただし、その文は we would like to help set up the right equipment（私たちは適切な機材の設置を手伝いたい）と書かれていて、文字どおりには手伝うのはジュリアたちの側です。どちらの読み方でも、パーティーの前に営業部のコンピューターを点検して準備するという話は書かれていません。
 【覚えるポイント】
 ・have trouble ～ing：「～するのに苦労する」。この形のあとに、手助けを求めている内容が書かれていることが多いです。
 ・「何の手助けを求めているか」という設問では、need help（手助けが必要だ）や ask for your help（あなたの手助けをお願いする）の近くを読み、すでに済んでいること（ここでは We have the data）と区別すると手がかりになります。

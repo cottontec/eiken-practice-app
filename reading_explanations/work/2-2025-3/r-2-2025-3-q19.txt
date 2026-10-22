@@ -1,6 +1,7 @@
 ---
 choices: use the product for a long time | buy many products one after another | grow their personal collection of devices | find devices with more features
 answerText: use the product for a long time
+reviewed: yes
 ---
 【正解】1 use the product for a long time（製品を長い間使う）
 【和訳】

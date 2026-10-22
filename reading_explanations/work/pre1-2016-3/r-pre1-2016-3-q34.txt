@@ -1,0 +1,34 @@
+---
+choices: how the depth of the relationships between twinned towns offers unique advantages in dealing with local problems. | the importance of considering the needs of local citizens before entering into a town-twinning relationship. | a way to encourage twinned towns to solve disagreements by getting local people involved in meetings. | the benefits of using the experience of elderly citizens when discussing issues between twinned towns.
+answerText: how the depth of the relationships between twinned towns offers unique advantages in dealing with local problems.
+---
+【正解】1 how the depth of the relationships between twinned towns offers unique advantages in dealing with local problems.（姉妹都市どうしの関係の深さが、地域の問題に取り組むうえで、ほかにはない利点をもたらすということ。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：The twinned cities of Deventer and Tartu are an example of（姉妹都市であるデーフェンテルとタルトゥは、～の例である。）
+1 how the depth of the relationships between twinned towns offers unique advantages in dealing with local problems.（姉妹都市どうしの関係の深さが、地域の問題に取り組むうえで、ほかにはない利点をもたらすということ。）
+2 the importance of considering the needs of local citizens before entering into a town-twinning relationship.（姉妹都市の関係を結ぶ前に、地元の住民が必要としていることを考えることの大切さ。）
+3 a way to encourage twinned towns to solve disagreements by getting local people involved in meetings.（地元の人々を会議に参加させることで、姉妹都市どうしが意見の対立を解決するように促す方法。）
+4 the benefits of using the experience of elderly citizens when discussing issues between twinned towns.（姉妹都市どうしの問題を話し合うときに、高齢の住民の経験を生かすことの利点。）
+【考え方】
+まず見るところ：第3段落の the relationships that develop between twinned towns still bring unique benefits と、そのあとの For example, the longstanding link between Deventer ～
+第3段落の初めには、姉妹都市提携を支持する人々の考えが書かれています。
+Advocates of town twinning, however, counter that the relationships that develop between twinned towns still bring unique benefits in the modern age.（しかし、姉妹都市提携を支持する人々は、姉妹都市どうしの間に育まれる関係は、現代でも今なお、ほかにはない利点をもたらしていると反論する）
+advocate は「支持する人」、counter は「反論する」という意味です。すぐあとの For example（たとえば）で、デーフェンテルとタルトゥの例が挙げられます。
+the longstanding link between Deventer in the Netherlands and Tartu in Estonia led the two cities to hold extensive meetings involving public officials in order to deal with social welfare issues in Tartu（オランダのデーフェンテルとエストニアのタルトゥの長年にわたる結びつきによって、両市は、タルトゥの社会福祉の問題に取り組むために、公務員を交えた大がかりな会議を開くことになった）
+longstanding は「長年にわたる」、social welfare は「社会福祉（お年寄りや病気の人などの生活を支えるしくみ）」です。この会議が、医療従事者の研修や高齢者の介護の新しい政策につながりました。
+本文と選択肢1を対にすると、次のようになります。
+本文 the longstanding link（長年にわたる結びつき）、the rich, long-term community connections（豊かで長く続く地域どうしのつながり）→ 選択肢 the depth of the relationships（関係の深さ）
+本文 unique benefits（ほかにはない利点）＝ 選択肢 unique advantages（ほかにはない利点）
+本文 deal with social welfare issues in Tartu（タルトゥの社会福祉の問題に取り組む）→ 選択肢 dealing with local problems（地域の問題に取り組む）
+ですから1が正解です。
+この問題の型：具体例とまとめ（For example：デーフェンテルとタルトゥ→長い関係が地域の問題の解決に役立つ）／言いかえ（unique benefits ＝ unique advantages）
+【ほかの選択肢】
+2 本文にありません。デーフェンテルとタルトゥの例は、すでに長く続いている関係が役立った話で、姉妹都市の関係を結ぶ「前に」何を考えるべきか、という話ではありません。
+3 本文と合いません。会議は public officials（公務員）を交えて、タルトゥの社会福祉の問題に取り組むために開かれました。姉妹都市どうしの意見の対立を解決するためではなく、地元の人々を会議に参加させたとも書かれていません。
+4 一部の語だけが本文と重なっています。本文の the elderly（高齢者）は、新しい政策の対象である「介護を受ける人」として出てきます。高齢の住民の経験を話し合いに生かした、とは書かれていません。
+【覚えるポイント】
+・「～は…の例である」という設問では、その例の直前にある主張の文（ここでは still bring unique benefits）が答えの中心になることが多いので、For example の前の文を確かめると手がかりになります。
+・longstanding（長年にわたる）や long-term（長く続く）は、選択肢で depth of the relationships（関係の深さ）のようにまとめて言いかえられることがあります。

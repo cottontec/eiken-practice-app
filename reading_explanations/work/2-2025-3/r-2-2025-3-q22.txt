@@ -1,6 +1,7 @@
 ---
 choices: the possible influence of people's expressions | the negative feelings toward certain letters | the possible effect of their rooms | the negative influence of outside noise
 answerText: the possible influence of people's expressions
+reviewed: yes
 ---
 【正解】1 the possible influence of people's expressions（人々の表情が与えるかもしれない影響）
 【和訳】

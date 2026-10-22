@@ -1,6 +1,7 @@
 ---
 choices: make a move | take a nap | make a wish | take a chance
 answerText: take a nap
+reviewed: yes
 ---
 【正解】2 take a nap（昼寝をする）
 【和訳】
@@ -16,7 +17,7 @@ B：（昼寝をし）ようと思う。昨晩よく眠れなかったから、�
 3 make a wish：願いごとをする
 4 take a chance：思い切ってやってみる、運にかける
 【考え方】
-まず見るところ：Bの2文目の I didn't sleep well last night, so I'm feeling pretty tired.
+まず見るところ：Bの答えの I didn't sleep well last night, so I'm feeling pretty tired.
 Aは、午後に何をする予定かをたずねています。Bは次のように答えています。
 I think I'll ( ).（（　）しようと思う）
 そのあとに、理由が続いています。

@@ -1,0 +1,30 @@
+---
+choices: pharmacy | upbringing | conquest | spectacle
+answerText: upbringing
+---
+【正解】2 upbringing（育ち、生い立ち）
+【和訳】
+（英文）
+The presidential candidate came from a wealthy family. This hurt his popularity among the poor, who felt his ［upbringing］ prevented him from understanding their economic troubles.
+（訳）
+その大統領候補は裕福な家の出身でした。このことは、貧しい人々の間での彼の人気を下げました。貧しい人々は、彼の（育ち）のせいで、彼には自分たちの経済的な苦しみが理解できないと感じたのです。
+（選択肢の意味）
+1 pharmacy：薬局
+2 upbringing：育ち、生い立ち（どのような家庭で、どのように育てられたか）
+3 conquest：征服（戦って相手の国などを支配すること）
+4 spectacle：見もの、壮観（目をひく光景）
+【考え方】
+まず見るところ：1文目の came from a wealthy family
+1文目で、大統領候補について次のことが書かれています。
+The presidential candidate came from a wealthy family.（その大統領候補は裕福な家の出身だった）
+2文目の This（このこと）は、この「裕福な家の出身であること」を指しています。それが貧しい人々の間での人気を下げたと述べ、その理由を who 以下で説明しています。
+who felt his (　) prevented him from understanding their economic troubles（彼の（　）が、彼が自分たちの経済的な苦しみを理解するのをさまたげていると感じた）
+prevent A from ～ing は「Aが～するのをさまたげる」です。理解をさまたげているのは、1文目の「裕福な家で育ったこと」だと考えられます。upbringing は「育ち、生い立ち」という意味なので、2が正解です。
+この問題の型：指示語（This ＝裕福な家の出身であること）
+【ほかの選択肢】
+1 pharmacy は「薬局」です。「彼の薬局が、貧しい人々の苦しみを理解するのをさまたげた」となり、1文目の「裕福な家の出身」とつながりません。
+3 conquest は「征服」です。この候補が何かを征服したという話は文中になく、意味が通りません。
+4 spectacle は「見もの、壮観」です。「彼の見ものが理解をさまたげた」となり、意味が通りません。
+【覚えるポイント】
+・upbringing：「育ち、生い立ち」。動詞の bring up（育てる）から来た語です。
+・2文目の This が前の文の内容を指しているときは、その内容（ここでは came from a wealthy family）を別の語で言いかえたものが空所に入ることが多いです。

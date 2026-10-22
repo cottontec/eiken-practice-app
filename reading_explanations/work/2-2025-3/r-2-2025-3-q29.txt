@@ -1,6 +1,7 @@
 ---
 choices: given a few years before they were completely banned. | discussed more often than any other topic in advertisements. | criticized by government officials more. | left without becoming the target of the law.
 answerText: left without becoming the target of the law.
+reviewed: yes
 ---
 【正解】4 left without becoming the target of the law.（法律の対象にならないまま残された。）
 【和訳】

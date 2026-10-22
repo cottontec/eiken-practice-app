@@ -1,0 +1,36 @@
+---
+choices: It has failed to follow government guidelines designed to control the number of producers who can sell maple syrup. | Producers believe it has cheated them by keeping a higher percentage of the profits than the regulations allow. | It has forced producers to accept strict conditions, including delays in payment and also fines when they do not cooperate. | Since it increased the fees that it charges to producers, many of them have been in danger of going out of business.
+answerText: It has forced producers to accept strict conditions, including delays in payment and also fines when they do not cooperate.
+---
+【正解】3 It has forced producers to accept strict conditions, including delays in payment and also fines when they do not cooperate.（連盟は生産者に、支払いの遅れや、協力しないときの罰金を含む厳しい条件を受け入れさせてきた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：How has the Federation of Quebec Maple Syrup Producers upset some of its members?（ケベック・メープルシロップ生産者連盟は、どのようにして一部の会員を怒らせてきたか。）
+1 It has failed to follow government guidelines designed to control the number of producers who can sell maple syrup.（連盟は、メープルシロップを売ることのできる生産者の数を制限するための政府の指針に従ってこなかった。）
+2 Producers believe it has cheated them by keeping a higher percentage of the profits than the regulations allow.（生産者たちは、連盟が規則で認められているよりも高い割合の利益を取ることで、自分たちをだましてきたと考えている。）
+3 It has forced producers to accept strict conditions, including delays in payment and also fines when they do not cooperate.（連盟は生産者に、支払いの遅れや、協力しないときの罰金を含む厳しい条件を受け入れさせてきた。）
+4 Since it increased the fees that it charges to producers, many of them have been in danger of going out of business.（連盟が生産者から取る手数料を引き上げて以来、多くの生産者が廃業の危機にある。）
+【考え方】
+まず見るところ：第1段落の Some producers, angered by this system, have tried to sell their syrup on their own.
+設問の upset は「怒らせる、気持ちを乱す」という意味です。本文では angered（腹を立てた）がこれに当たります。
+Some producers, angered by this system, have tried to sell their syrup on their own.（この仕組みに腹を立てた生産者の中には、自分でシロップを売ろうとした者もいる）
+this system（この仕組み）は、その前に書かれた連盟のやり方を指します。生産者は法律で連盟への加入と規則に従うことを義務づけられていて、連盟がシロップをすべて売り、売れた分から手数料を取ります。さらに次のように書かれています。
+it maintains a large stock of syrup in reserve, so producers sometimes have to wait months, or even years, to receive the profits from sales of their product（連盟は大量のシロップを在庫として保管しているので、生産者は売り上げから利益を受け取るまでに、数か月、ときには数年も待たなければならないことがある）
+そして、自分で売ろうとした生産者への対応が書かれています。
+In such cases, the federation has reacted by taking away all their syrup and making them pay harsh financial penalties.（そのような場合、連盟は、彼らのシロップをすべて取り上げ、厳しい罰金を払わせるという対応をとってきた）
+本文と選択肢を対にすると、次のようになります。
+・本文 wait months, or even years, to receive the profits（利益を受け取るまで数か月、ときには数年待つ）＝ 選択肢 delays in payment（支払いの遅れ）
+・本文 making them pay harsh financial penalties（厳しい罰金を払わせる）＝ 選択肢 fines（罰金）
+・本文 tried to sell their syrup on their own（自分でシロップを売ろうとした）→ 選択肢 when they do not cooperate（協力しないとき）
+・本文 legally required to join ～ and to obey its regulations（法律で加入と規則に従うことを義務づけられている）→ 選択肢 forced producers to accept strict conditions（厳しい条件を受け入れさせた）
+ですから3が正解です。
+この問題の型：言いかえ（wait months → delays in payment、financial penalties → fines）
+【ほかの選択肢】
+1 本文にありません。生産者が法律で連盟への加入を義務づけられていることは書かれていますが、連盟が政府の指針に従わなかった話や、生産者の数を制限する指針の話は出てきません。
+2 本文にありません。連盟が売れたシロップ1リットルにつき26セントの手数料を取ることは書かれていますが、規則で認められているより多く取っているとは書かれていません。
+4 本文にありません。手数料を引き上げた話も、多くの生産者が廃業の危機にあるという話も書かれていません。
+【覚えるポイント】
+・financial penalties ＝ fines：どちらも「罰金」。内容一致問題では、このように別の語に言いかえられることがよくあります。
+・設問の upset（怒らせる）のような気持ちを表す語は、本文の angered のような同じ向きの語を探すと、答えの場所を見つける手がかりになります。

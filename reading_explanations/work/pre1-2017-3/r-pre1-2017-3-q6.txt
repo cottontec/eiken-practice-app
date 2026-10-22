@@ -1,0 +1,29 @@
+---
+choices: refrain | enforce | scold | curb
+answerText: refrain
+---
+【正解】1 refrain（控える、やめる）
+【和訳】
+（英文）
+The teacher asked the boy nicely to ［refrain］ from chewing gum in class several times. When he refused to stop, the teacher sent him to the principal's office.
+（訳）
+先生はその男の子に、授業中にガムをかむのを（控える）ように、何度か優しく頼みました。男の子がやめるのを拒んだとき、先生は彼を校長室へ行かせました。
+（選択肢の意味）
+1 refrain：控える、やめる（refrain from ～ing で「～するのを控える」）
+2 enforce：（法律や規則を）守らせる、実施する
+3 scold：しかる
+4 curb：（よくないことを）おさえる、抑制する
+【考え方】
+まず見るところ：空所のすぐ後ろの from chewing gum と、2文目の When he refused to stop
+空所の後ろは from chewing gum in class（授業中にガムをかむことから）となっています。from のあとに ～ing が続く形に合う動詞を探します。refrain from ～ing で「～するのを控える、やめる」という決まった形になります。
+2文目も確かめます。
+When he refused to stop, the teacher sent him to the principal's office.（男の子がやめるのを拒んだとき、先生は彼を校長室へ行かせた）
+refuse to ～ は「～するのを拒む」です。男の子は「やめること」を拒んだので、先生は「ガムをかむのをやめて」と頼んでいたと分かります。形も意味も合うので、1が正解です。
+この問題の型：熟語・決まった形（refrain from ～ing）
+【ほかの選択肢】
+2 enforce は「（規則などを）守らせる」です。enforce the rules のように後ろに直接名詞を置き、from ～ing の形はとりません。「男の子にガムをかむことから守らせるように頼んだ」となり、意味も通りません。
+3 scold は「しかる」です。しかるのは先生のほうで、「男の子にしかるように頼んだ」では、頼む相手と動作をする人が合いません。scold from ～ing という形もとりません。
+4 curb は「おさえる、抑制する」です。curb a habit のように後ろに直接名詞を置く語で、from ～ing の形はとりません。
+【覚えるポイント】
+・refrain from ～ing：「～するのを控える、やめる」。お知らせや注意書きでよく使われる、ていねいな言い方です。
+・空所のすぐ後ろに from ～ing があるときは、その形といっしょに使う動詞（refrain など）かどうかが答えを決める手がかりになります。

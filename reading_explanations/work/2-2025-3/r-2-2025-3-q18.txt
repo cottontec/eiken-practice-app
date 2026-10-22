@@ -1,6 +1,7 @@
 ---
 choices: boil water quickly with old electric kettles | design colorful electric kettles | take apart most electric kettles at home | try new electric kettles in shops
 answerText: take apart most electric kettles at home
+reviewed: yes
 ---
 【正解】3 take apart most electric kettles at home（ほとんどの電気ケトルを家で分解する）
 【和訳】

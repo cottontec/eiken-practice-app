@@ -1,6 +1,7 @@
 ---
 choices: As fast as | As far as | As long as | As well as
 answerText: As far as
+reviewed: yes
 ---
 【正解】2 As far as（～するかぎり〔では〕）
 【和訳】

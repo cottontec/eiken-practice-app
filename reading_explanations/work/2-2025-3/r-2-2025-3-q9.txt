@@ -1,6 +1,7 @@
 ---
 choices: wealth | rage | ignorance | poverty
 answerText: ignorance
+reviewed: yes
 ---
 【正解】3 ignorance（知らないこと、無知）
 【和訳】

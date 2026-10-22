@@ -1,6 +1,7 @@
 ---
 choices: recover | review | expand | suspect
 answerText: review
+reviewed: yes
 ---
 【正解】2 review（見直す、評価する）
 【和訳】

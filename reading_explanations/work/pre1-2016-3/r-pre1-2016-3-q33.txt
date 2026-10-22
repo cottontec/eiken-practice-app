@@ -1,0 +1,32 @@
+---
+choices: Young volunteers who know how to use social media effectively are needed to improve the relationships between towns. | Although online communication between twin towns is useful, there is a need for more face-to-face meetings. | Twin-town relationships focus too much on young people and should make an effort to also include older people. | It has become less relevant because of technological advances that have improved methods of communication.
+answerText: It has become less relevant because of technological advances that have improved methods of communication.
+---
+【正解】4 It has become less relevant because of technological advances that have improved methods of communication.（連絡の手段をよくした技術の進歩のために、姉妹都市提携は（以前より）重要ではなくなった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What do critics say about town twinning?（批評家たちは姉妹都市提携について何と言っているか。）
+1 Young volunteers who know how to use social media effectively are needed to improve the relationships between towns.（町どうしの関係をよくするためには、ソーシャルメディアを効果的に使う方法を知っている若いボランティアが必要だ。）
+2 Although online communication between twin towns is useful, there is a need for more face-to-face meetings.（姉妹都市どうしのオンラインでのやりとりは役に立つが、もっと直接顔を合わせて会うことが必要だ。）
+3 Twin-town relationships focus too much on young people and should make an effort to also include older people.（姉妹都市の関係は若い人々に重点を置きすぎており、年配の人々も加えるように努力すべきだ。）
+4 It has become less relevant because of technological advances that have improved methods of communication.（連絡の手段をよくした技術の進歩のために、姉妹都市提携は（以前より）重要ではなくなった。）
+【考え方】
+まず見るところ：第2段落の a growing number of critics have been arguing that town twinning no longer plays the essential role ～
+批評家（critics：問題点を指摘して批判する人）の意見は第2段落に書かれています。
+Recently, however, a growing number of critics have been arguing that town twinning no longer plays the essential role in European society that it once did, since social media and online information enable individuals and businesses to establish and maintain relationships with people abroad.（しかし最近では、姉妹都市提携は、かつて果たしていたような欠かせない役割を、もはやヨーロッパ社会で果たしていないと主張する批評家が増えている。ソーシャルメディアやオンラインの情報によって、個人や企業が外国の人々との関係を築き、保つことができるからである）
+no longer は「もはや～ない」、essential は「欠かせない、とても大切な」、since はここでは「～なので」という理由の意味です。
+本文と選択肢4を対にすると、次のようになります。
+本文 no longer plays the essential role ... that it once did（かつてのような欠かせない役割をもはや果たしていない）＝ 選択肢 has become less relevant（（以前より）重要ではなくなった）
+本文 since social media and online information enable ～（ソーシャルメディアやオンラインの情報によって～できるので）→ 選択肢 because of technological advances that have improved methods of communication（連絡の手段をよくした技術の進歩のために）
+ソーシャルメディアやオンラインの情報は、連絡の手段をよくした技術の進歩の具体例です。選択肢では、それをまとめた言い方になっています。
+relevant は「（今の状況に）かかわりのある、重要な意味を持つ」という意味です。ですから4が正解です。
+この問題の型：言いかえ（no longer plays the essential role ＝ has become less relevant）／因果（since ～：ネットで外国の人とつながれる→役割が小さくなった）
+【ほかの選択肢】
+1 本文にありません。第2段落には、young people do not think getting involved is worthwhile（若い人々はかかわることに価値があると思わない）とありますが、ソーシャルメディアに詳しい若いボランティアが必要だ、とは書かれていません。
+2 本文にありません。批評家は、オンラインでつながれるので姉妹都市提携の役割が小さくなったと言っていますが、直接会うことがもっと必要だとは言っていません。
+3 本文と合いません。本文では、ボランティアや支援者が引退し、若い人々はかかわろうとしない、と書かれています。若い人々に重点を置きすぎているという話ではありません。
+【覚えるポイント】
+・no longer ～ that it once did（かつてのように～することはもはやない）は、選択肢で less relevant（（以前より）重要ではない）のように、比べる形で言いかえられることがあります。
+・since には「～以来」のほかに「～なので」という理由の意味もあります。since のあとに理由が書かれているときは、選択肢の because of ～ と対応させて確かめると手がかりになります。

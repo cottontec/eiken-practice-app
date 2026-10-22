@@ -1,6 +1,7 @@
 ---
 choices: The manager announced a new company policy about retirement. | The IT department talked about new computers for the office. | Julia Young's team agreed on details for a future celebration. | Employees talked about taking over tasks from Mr. Jenkins.
 answerText: Julia Young's team agreed on details for a future celebration.
+reviewed: yes
 ---
 【正解】3 Julia Young's team agreed on details for a future celebration.（ジュリア・ヤングのチームが、これから行うお祝いの会の詳細について合意した。）
 【和訳】

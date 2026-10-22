@@ -1,32 +1,33 @@
 ---
 choices: in search of | for fear of | on behalf of | with regard to
 answerText: in search of
+reviewed: yes
 ---
 【正解】1 in search of（～を探して）
 【和訳】
 （英文）
 Clara went to the bookstore ［in search of］ a novel by an author she had heard about. She wanted to buy a copy to read that evening.
 （訳）
-クララは、うわさに聞いていた作家の小説（を探して）書店へ行きました。その晩に読むために、1冊買いたかったのです。
+クララは、聞いたことのある作家の小説（を探して）書店へ行きました。その晩に読むために、1冊買いたかったのです。
 （選択肢の意味）
 1 in search of：～を探して
 2 for fear of：～を恐れて、～しないように
 3 on behalf of：～の代わりに、～を代表して
 4 with regard to：～に関して
 【考え方】
-まず見るところ：2文目の She wanted to buy a copy
+まず見るところ：次の文の She wanted to buy a copy
 空所のある文は次のとおりです。
 Clara went to the bookstore ( ) a novel by an author she had heard about.（クララは、聞いたことのある作家の小説（　）書店へ行った）
-an author she had heard about は「彼女が（うわさを）聞いたことのある作家」です。
+an author she had heard about は「彼女が聞いたことのある作家」です。
 次の文を見ます。
 She wanted to buy a copy to read that evening.（彼女はその晩に読むために1冊買いたかった）
 a copy は、ここでは「（本の）1冊」です。クララはその小説を買うために書店へ行ったのですから、小説を探しに行ったと考えられます。
 in search of ～ は「～を探して」なので、1が正解です。
 この問題の型：熟語・決まった形（in search of ～＝～を探して）
 【ほかの選択肢】
-2 for fear of は「～を恐れて、～しないように」です。「小説を恐れて書店へ行った」となり、その小説を買いたかったという2文目と合いません。
+2 for fear of は「～を恐れて、～しないように」です。「小説を恐れて書店へ行った」となり、その小説を買いたかったという次の文と合いません。
 3 on behalf of は「～の代わりに、～を代表して」です。「小説の代わりに書店へ行った」となり、意味が通りません。
-4 with regard to は「～に関して」です。「小説に関して書店へ行った」となり、2文目の「買いたかった」という、書店へ行った目的をはっきり表すことができません。
+4 with regard to は「～に関して」です。「小説に関して書店へ行った」となり、次の文の「買いたかった」という、書店へ行った目的をはっきり表すことができません。
 【覚えるポイント】
 ・in search of ～：「～を探して」。search は「探すこと」です。
 ・went to ～ ( ) のように、どこかへ行った理由を表す語句を選ぶ問題では、次の文の She wanted to ～（～したかった）が、行った目的を知る手がかりになります。

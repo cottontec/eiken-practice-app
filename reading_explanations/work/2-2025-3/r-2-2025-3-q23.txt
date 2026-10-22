@@ -1,6 +1,7 @@
 ---
 choices: On the contrary | Meanwhile | Fortunately | Moreover
 answerText: Moreover
+reviewed: yes
 ---
 【正解】4 Moreover（さらに、そのうえ）
 【和訳】
