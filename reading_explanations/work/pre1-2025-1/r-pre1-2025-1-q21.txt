@@ -1,6 +1,7 @@
 ---
 choices: task would not be easy | soldiers were well trained | emus were unable to escape | farmers could assist the soldiers
 answerText: task would not be easy
+reviewed: yes
 ---
 【正解】1 task would not be easy（その任務は簡単ではないだろう）
 【和訳】

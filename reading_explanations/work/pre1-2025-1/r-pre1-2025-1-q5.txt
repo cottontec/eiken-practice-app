@@ -1,6 +1,7 @@
 ---
 choices: distracts | reforms | pacifies | dismisses
 answerText: distracts
+reviewed: yes
 ---
 【正解】1 distracts（～の気を散らす、注意をそらす）
 【和訳】

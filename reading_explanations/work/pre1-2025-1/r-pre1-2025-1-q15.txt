@@ -1,6 +1,7 @@
 ---
 choices: root out | pass for | take up | blow up
 answerText: take up
+reviewed: yes
 ---
 【正解】3 take up（〔趣味などを〕始める）
 【和訳】

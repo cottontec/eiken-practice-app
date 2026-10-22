@@ -1,6 +1,7 @@
 ---
 choices: It can actually strengthen personal relationships among people who feel that they have been the victims of harm from others. | It can cause people to follow social rules so that they are more likely to behave in a way that is acceptable to the group. | It can allow individuals a chance to make a situation fairer when they are being treated badly by the rest of society. | It can indirectly lead to increased competition that can cause many people in society to enjoy greater success.
 answerText: It can cause people to follow social rules so that they are more likely to behave in a way that is acceptable to the group.
+reviewed: yes
 ---
 【正解】2 It can cause people to follow social rules so that they are more likely to behave in a way that is acceptable to the group.（それは人々に社会のきまりを守らせ、その結果、人々が集団に受け入れられるような行動をとる可能性がより高くなることがある。）
 【和訳】

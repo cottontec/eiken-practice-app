@@ -1,6 +1,7 @@
 ---
 choices: hazardous | vigorous | furious | monotonous
 answerText: hazardous
+reviewed: yes
 ---
 【正解】1 hazardous（危険な）
 【和訳】

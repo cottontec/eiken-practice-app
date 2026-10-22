@@ -1,6 +1,7 @@
 ---
 choices: occupied | invisible | irrelevant | anxious
 answerText: irrelevant
+reviewed: yes
 ---
 【正解】3 irrelevant（関係がない）
 【和訳】

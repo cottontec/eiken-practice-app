@@ -1,6 +1,7 @@
 ---
 choices: pressed for | put through | forked over | set off
 answerText: set off
+reviewed: yes
 ---
 【正解】4 set off（〔警報など〕を鳴らした、作動させた）
 【和訳】

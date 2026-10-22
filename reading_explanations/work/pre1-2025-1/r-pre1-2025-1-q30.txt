@@ -1,6 +1,7 @@
 ---
 choices: demonstrates that revenge seems to be more common in societies where the justice system is not working well. | supports the idea that the desire to get revenge has an unexpected connection with how much wealth an individual possesses. | shows that societies with strict punishments for criminals are likely to have much lower rates of crime than those that do not. | helps to explain the changes that have come about as tribal societies gradually changed into more-modern ones.
 answerText: demonstrates that revenge seems to be more common in societies where the justice system is not working well.
+reviewed: yes
 ---
 【正解】1 demonstrates that revenge seems to be more common in societies where the justice system is not working well.（司法の仕組みがうまく機能していない社会では、復讐がより多く見られるらしいことを示す（例）。）
 【和訳】

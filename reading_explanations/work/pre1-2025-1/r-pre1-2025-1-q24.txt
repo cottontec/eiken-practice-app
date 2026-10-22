@@ -1,6 +1,7 @@
 ---
 choices: got married to famous gladiators | prohibited their slaves from becoming gladiators | enjoyed watching gladiatorial games | actively chose to become gladiators
 answerText: actively chose to become gladiators
+reviewed: yes
 ---
 【正解】4 actively chose to become gladiators（自分から進んで剣闘士になることを選んだ）
 【和訳】

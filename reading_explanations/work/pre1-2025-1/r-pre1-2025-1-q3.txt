@@ -1,6 +1,7 @@
 ---
 choices: slender | gloomy | abnormal | prompt
 answerText: prompt
+reviewed: yes
 ---
 【正解】4 prompt（すばやい、即座の）
 【和訳】

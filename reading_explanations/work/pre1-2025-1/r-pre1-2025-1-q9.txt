@@ -1,6 +1,7 @@
 ---
 choices: acute | rash | invalid | imminent
 answerText: invalid
+reviewed: yes
 ---
 【正解】3 invalid（無効の）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: gave supplies of water and food to the Mary Celeste's crew to prevent them from dying before reaching Italy. | repaired the damage to the Mary Celeste, which was then able to continue its journey to Italy. | contacted British authorities in Gibraltar, who came to salvage the Mary Celeste. | took the Mary Celeste to Gibraltar because they thought they could make money by doing so.
 answerText: took the Mary Celeste to Gibraltar because they thought they could make money by doing so.
+reviewed: yes
 ---
 【正解】4 took the Mary Celeste to Gibraltar because they thought they could make money by doing so.（そうすることでお金が得られると考えたので、メアリー・セレスト号をジブラルタルへ運んだ。）
 【和訳】

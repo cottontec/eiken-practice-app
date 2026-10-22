@@ -1,6 +1,7 @@
 ---
 choices: vivid | weary | hazy | feeble
 answerText: vivid
+reviewed: yes
 ---
 【正解】1 vivid（あざやかな）
 【和訳】

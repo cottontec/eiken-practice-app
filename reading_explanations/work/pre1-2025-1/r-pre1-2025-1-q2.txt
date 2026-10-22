@@ -1,6 +1,7 @@
 ---
 choices: intake | outburst | breakup | layout
 answerText: outburst
+reviewed: yes
 ---
 【正解】2 outburst（感情の爆発、急に怒りだすこと）
 【和訳】

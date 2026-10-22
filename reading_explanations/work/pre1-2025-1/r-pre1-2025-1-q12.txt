@@ -1,6 +1,7 @@
 ---
 choices: greedily | obediently | intentionally | thoroughly
 answerText: intentionally
+reviewed: yes
 ---
 【正解】3 intentionally（わざと、意図的に）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: Despite this | Similarly | In fact | Therefore
 answerText: In fact
+reviewed: yes
 ---
 【正解】3 In fact（実際、実のところ）
 【和訳】

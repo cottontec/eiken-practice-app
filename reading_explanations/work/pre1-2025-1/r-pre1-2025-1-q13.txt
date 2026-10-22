@@ -1,6 +1,7 @@
 ---
 choices: component | obligation | symptom | resolution
 answerText: obligation
+reviewed: yes
 ---
 【正解】2 obligation（義務、責任）
 【和訳】

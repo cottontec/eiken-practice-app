@@ -1,6 +1,7 @@
 ---
 choices: making gladiators fight to the death | having women fight each other | increasing the prize money for gladiators | banning female gladiators
 answerText: having women fight each other
+reviewed: yes
 ---
 【正解】2 having women fight each other（女性どうしを戦わせること）
 【和訳】

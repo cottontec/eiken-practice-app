@@ -1,6 +1,7 @@
 ---
 choices: interact | collapse | precede | constrain
 answerText: interact
+reviewed: yes
 ---
 【正解】1 interact（交流する、関わり合う）
 【和訳】

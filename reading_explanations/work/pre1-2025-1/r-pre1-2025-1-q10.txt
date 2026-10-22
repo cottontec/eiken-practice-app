@@ -1,6 +1,7 @@
 ---
 choices: loophole | stronghold | blueprint | aftermath
 answerText: loophole
+reviewed: yes
 ---
 【正解】1 loophole（〔法律などの〕抜け穴）
 【和訳】

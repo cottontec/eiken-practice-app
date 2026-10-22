@@ -1,6 +1,7 @@
 ---
 choices: It may have been a way for males to demonstrate their physical strength and their ability to protect females from danger. | It could have helped to keep them safe from animals because it brought out anger, making them better able to respond to attacks. | It would have had the effect of helping to prevent other people from trying to kill them or steal their belongings. | It seems to have provided a way for them to handle stress related to suffering caused by the harmful actions of other humans.
 answerText: It would have had the effect of helping to prevent other people from trying to kill them or steal their belongings.
+reviewed: yes
 ---
 【正解】3 It would have had the effect of helping to prevent other people from trying to kill them or steal their belongings.（それには、ほかの人々が自分たちを殺そうとしたり、持ち物を盗もうとしたりするのを防ぐのに役立つ効果があっただろう。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: infected | recited | galloped | diverted
 answerText: diverted
+reviewed: yes
 ---
 【正解】4 diverted（～の向きを変えた、～をう回させた）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: formulated | privatized | ventilated | deformed
 answerText: privatized
+reviewed: yes
 ---
 【正解】2 privatized（～を民営化した）
 【和訳】

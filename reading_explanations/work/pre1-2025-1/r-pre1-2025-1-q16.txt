@@ -1,6 +1,7 @@
 ---
 choices: bulk up | track down | lay off | pick on
 answerText: track down
+reviewed: yes
 ---
 【正解】2 track down（～を〔追跡して〕見つけ出す）
 【和訳】

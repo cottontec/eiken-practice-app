@@ -1,6 +1,7 @@
 ---
 choices: excursion | potency | friction | negligence
 answerText: potency
+reviewed: yes
 ---
 【正解】2 potency（〔薬などの〕効き目の強さ、効力）
 【和訳】

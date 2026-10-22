@@ -1,6 +1,7 @@
 ---
 choices: It had a problem because it focused on the reasons that people wanted to get revenge rather than the degree of anger they felt. | It was created using the results of a well-known psychological study, but it reached an incorrect conclusion about them. | It was based on a misunderstanding about the relationship between victims and the people who cause harm to them. | It incorrectly suggested that revenge worked to reduce the amount of negative emotion, such as anger, that a wronged person felt.
 answerText: It incorrectly suggested that revenge worked to reduce the amount of negative emotion, such as anger, that a wronged person felt.
+reviewed: yes
 ---
 【正解】4 It incorrectly suggested that revenge worked to reduce the amount of negative emotion, such as anger, that a wronged person felt.（それは、復讐には、ひどい目にあわされた人が感じる、怒りのような負の感情の量を減らすはたらきがあると、誤って示していた。）
 【和訳】

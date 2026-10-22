@@ -1,6 +1,7 @@
 ---
 choices: The mystery of what happened to the Mary Celeste would never be solved because official reports contain little information about the incident. | Several factors led to the Mary Celeste's captain deciding he had no choice but to get his crew off the ship. | The crew of the Mary Celeste likely escaped to Santa Maria to avoid being blamed for abandoning the ship. | Records of the Mary Celeste's discovery were altered in order to cover up what really happened.
 answerText: Several factors led to the Mary Celeste's captain deciding he had no choice but to get his crew off the ship.
+reviewed: yes
 ---
 【正解】2 Several factors led to the Mary Celeste's captain deciding he had no choice but to get his crew off the ship.（いくつかの要因によって、メアリー・セレスト号の船長は、乗組員を船から降ろすしかないと決めることになった。）
 【和訳】

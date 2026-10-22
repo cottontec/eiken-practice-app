@@ -1,6 +1,7 @@
 ---
 choices: work through | pass up | plow through | wind up
 answerText: pass up
+reviewed: yes
 ---
 【正解】2 pass up（〔機会など〕を見送る、断る）
 【和訳】

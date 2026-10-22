@@ -1,6 +1,7 @@
 ---
 choices: British authorities suspected that the crew of the Dei Gratia stole the Mary Celeste's cargo and killed its crew. | The Dei Gratia's crew refused to board the Mary Celeste at first because they believed its cargo was too dangerous. | It is unlikely that pirates attacked the Mary Celeste because it was unusual for them to operate where the ship was discovered. | Evidence found on the Mary Celeste suggests that damage to the ship was caused by an explosion.
 answerText: It is unlikely that pirates attacked the Mary Celeste because it was unusual for them to operate where the ship was discovered.
+reviewed: yes
 ---
 【正解】3 It is unlikely that pirates attacked the Mary Celeste because it was unusual for them to operate where the ship was discovered.（船が見つかった場所で海賊が活動するのはめずらしかったので、海賊がメアリー・セレスト号を襲ったとは考えにくい。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: returned to their hometowns | refused to become farmers | accepted the challenge | chose to stay in the army
 answerText: accepted the challenge
+reviewed: yes
 ---
 【正解】3 accepted the challenge（その挑戦を受け入れた）
 【和訳】
