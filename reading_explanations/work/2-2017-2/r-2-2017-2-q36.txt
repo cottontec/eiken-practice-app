@@ -1,0 +1,34 @@
+---
+choices: By selling their sheep to the tourists that visit in the summer. | By showing their traditional lifestyle to tourists and teaching them skills. | By cooking traditional Navajo foods and serving them in local restaurants. | By carrying goods such as Navajo blankets up the mountains in the winter.
+answerText: By showing their traditional lifestyle to tourists and teaching them skills.
+---
+【正解】2 By showing their traditional lifestyle to tourists and teaching them skills.（観光客に伝統的な暮らし方を見せ、技術を教えることによって。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：現代のナバホ族の羊飼いの中には、どのようにしてお金をかせぐことができている人がいますか。
+1 夏に訪れる観光客に羊を売ることによって。
+2 観光客に伝統的な暮らし方を見せ、技術を教えることによって。
+3 伝統的なナバホ料理を作り、地元のレストランで出すことによって。
+4 冬に、ナバホの毛布などの品物を山の上へ運ぶことによって。
+【考え方】
+今の羊飼いの暮らしとお金のかせぎ方は、第3段落に書かれています。
+・These shepherds follow the traditional way of life, leading their sheep up to the mountains in the summer and bringing them back for the winter.（これらの羊飼いは伝統的な暮らし方を守っていて、夏には羊を山の上へ連れて行き、冬に向けて連れて戻ってくる）
+・Now, some of these shepherds have started offering cultural tours.（今では、こうした羊飼いの中には、文化体験ツアーを提供し始めた人もいる）
+・By paying a small fee, tourists can travel with them as they move the sheep.（少しの料金を払うことで、観光客は、羊飼いが羊を移動させるときに一緒に旅をすることができる）
+・The tourists can also learn Navajo cooking and weaving skills.（観光客は、ナバホ族の料理や機織りの技術を学ぶこともできる）
+・In this way, the shepherds can earn extra income（このようにして、羊飼いたちは追加の収入を得ることができる）
+羊を移動させることは、羊飼いの伝統的な暮らし方の一部です。観光客はそれに同行し、料理や機織りの技術を学びます。羊飼いはその料金で収入を得ています。
+本文と選択肢を対にすると、次のようになります。
+本文 tourists can travel with them as they move the sheep（観光客は、羊飼いが羊を移動させるときに一緒に旅ができる）→ 選択肢 showing their traditional lifestyle to tourists（観光客に伝統的な暮らし方を見せる）
+本文 The tourists can also learn Navajo cooking and weaving skills.（観光客は料理や機織りの技術を学べる）＝ 選択肢 teaching them skills（彼らに技術を教える）
+本文 earn extra income（追加の収入を得る）＝ 設問 make money（お金をかせぐ）
+「学ぶ」（観光客の側）が「教える」（羊飼いの側）に言いかえられています。2が正解です。
+【ほかの選択肢】
+1 本文には、観光客に羊を売るという話はありません。観光客は料金を払って、羊の移動に同行します。また、夏は羊を山へ連れて行く季節として出てくるだけです。
+3 本文で料理は、観光客が「学ぶ」ものとして出てきます。羊飼いが料理を作って地元のレストランで出すとは書かれていません。
+4 本文では、山へ連れて行くのは夏で、連れて行くのは羊です。冬は羊を連れて戻ってくる季節です。毛布などの品物を山の上へ運ぶという話はありません。
+【覚えるポイント】
+・by -ing：「～することによって」と方法を表します。
+・earn income：「収入を得る」。extra は「追加の、余分の」。

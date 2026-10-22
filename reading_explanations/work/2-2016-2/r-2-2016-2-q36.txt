@@ -1,6 +1,7 @@
 ---
 choices: To provide a place for NASA to keep the plants that it will send to space. | To discover what types of poisons are created by artificial materials. | To learn more about the types of plants that can be grown in space. | To find ways to make the air in spaceships safe and clean.
 answerText: To find ways to make the air in spaceships safe and clean.
+reviewed: yes
 ---
 【正解】4 To find ways to make the air in spaceships safe and clean.（宇宙船の中の空気を安全できれいにする方法を見つけるため。）
 【和訳】

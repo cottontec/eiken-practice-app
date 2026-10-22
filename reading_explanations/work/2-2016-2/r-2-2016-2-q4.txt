@@ -1,6 +1,7 @@
 ---
 choices: melt | reuse | strike | convert
 answerText: convert
+reviewed: yes
 ---
 【正解】4 convert（変える、換算する）
 【和訳】

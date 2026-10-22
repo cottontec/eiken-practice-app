@@ -1,6 +1,7 @@
 ---
 choices: had economic advantages | caused medical problems | reduced environmental damage | decreased the availability of food
 answerText: had economic advantages
+reviewed: yes
 ---
 【正解】1 had economic advantages（経済的な利点があった）
 【和訳】

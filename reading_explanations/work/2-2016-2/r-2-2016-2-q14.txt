@@ -1,6 +1,7 @@
 ---
 choices: sense | number | title | matter
 answerText: matter
+reviewed: yes
 ---
 【正解】4 matter（〔as a matter of course で〕当然のこととして）
 【和訳】

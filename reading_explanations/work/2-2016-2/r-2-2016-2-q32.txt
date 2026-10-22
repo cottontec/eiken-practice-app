@@ -1,6 +1,7 @@
 ---
 choices: More of the Mogao Caves have been closed to visitors. | Visitors are being asked to avoid breathing too close to the paintings. | Some of the visitors are being taught new ways to preserve paintings. | The number of visitors has been reduced from 400 to 40 a day.
 answerText: More of the Mogao Caves have been closed to visitors.
+reviewed: yes
 ---
 【正解】1 More of the Mogao Caves have been closed to visitors.（莫高窟のうち、〔以前より〕多くの洞窟が訪問者に対して閉じられている。）
 【和訳】

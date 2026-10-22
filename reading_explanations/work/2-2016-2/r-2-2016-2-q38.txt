@@ -1,6 +1,7 @@
 ---
 choices: Many buildings made of artificial materials have been rebuilt to prevent illness. | Plants are able to clean the air with their leaves while getting food for themselves. | The United States made a lot of money as a result of rising oil prices in the 1970s. | People doing space research commonly suffer from sore eyes and breathing problems.
 answerText: Plants are able to clean the air with their leaves while getting food for themselves.
+reviewed: yes
 ---
 【正解】2 Plants are able to clean the air with their leaves while getting food for themselves.（植物は、自分の栄養を得ながら、葉で空気をきれいにすることができる。）
 【和訳】

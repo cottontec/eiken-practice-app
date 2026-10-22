@@ -1,6 +1,7 @@
 ---
 choices: replacement | distributor | navigator | witness
 answerText: replacement
+reviewed: yes
 ---
 【正解】1 replacement（後任、代わりの人）
 【和訳】

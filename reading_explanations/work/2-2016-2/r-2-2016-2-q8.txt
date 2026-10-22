@@ -1,6 +1,7 @@
 ---
 choices: envy | exaggerate | embarrass | enlarge
 answerText: embarrass
+reviewed: yes
 ---
 【正解】3 embarrass（恥ずかしい思いをさせる）
 【和訳】

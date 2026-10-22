@@ -1,6 +1,7 @@
 ---
 choices: Like before | In turn | At least | For once
 answerText: In turn
+reviewed: yes
 ---
 【正解】2 In turn（今度は、その結果として）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: was confused | was confusing | confused | confusing
 answerText: was confused
+reviewed: yes
 ---
 【正解】1 was confused（戸惑った、混乱した）
 【和訳】

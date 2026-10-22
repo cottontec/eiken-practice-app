@@ -1,6 +1,7 @@
 ---
 choices: out of use | out of place | on the go | on the run
 answerText: out of use
+reviewed: yes
 ---
 【正解】1 out of use（使われていない）
 【和訳】

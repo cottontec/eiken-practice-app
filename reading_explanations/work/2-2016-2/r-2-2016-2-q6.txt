@@ -1,6 +1,7 @@
 ---
 choices: peacefully | voluntarily | consciously | approximately
 answerText: approximately
+reviewed: yes
 ---
 【正解】4 approximately（およそ、約）
 【和訳】

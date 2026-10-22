@@ -1,6 +1,7 @@
 ---
 choices: allowed only 2,000 tourists to look at its paintings by Michelangelo. | invited 6 million visitors to see its 500-year-old wall paintings on one day. | installed an air-conditioning system in order to make visitors more comfortable. | tried to reduce damage to its paintings by buying an air-conditioning system.
 answerText: tried to reduce damage to its paintings by buying an air-conditioning system.
+reviewed: yes
 ---
 【正解】4 tried to reduce damage to its paintings by buying an air-conditioning system.（空調設備を購入することで、絵画への害を減らそうとした。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: sending Jenny Myers an e-mail with their bank information. | mailing their payment and a renewal form to the country club. | going to the country club and filling out a payment form. | using the online payment system on the country club's website.
 answerText: using the online payment system on the country club's website.
+reviewed: yes
 ---
 【正解】4 using the online payment system on the country club's website.（カントリークラブのウェブサイトのオンライン支払いのしくみを使うこと〔によって〕。）
 【和訳】

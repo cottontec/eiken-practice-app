@@ -1,6 +1,7 @@
 ---
 choices: for a change | for the benefit | at the sight | at the expense
 answerText: for the benefit
+reviewed: yes
 ---
 【正解】2 for the benefit（〔for the benefit of ～ で〕～のために）
 【和訳】

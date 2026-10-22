@@ -1,6 +1,7 @@
 ---
 choices: detail | trouble | part | touch
 answerText: part
+reviewed: yes
 ---
 【正解】3 part（〔in part で〕一部は、部分的に）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: Wolverton reduced pollution by teaching people to use energy efficiently. | Wolverton developed plants that are more effective at removing poisons from the air. | Wolverton wrote a book that recommends the safest building materials to use. | Wolverton created a container that helps plants reduce dangerous chemicals in buildings.
 answerText: Wolverton created a container that helps plants reduce dangerous chemicals in buildings.
+reviewed: yes
 ---
 【正解】4 Wolverton created a container that helps plants reduce dangerous chemicals in buildings.（ウォルバートンは、植物が建物の中の危険な化学物質を減らすのを助ける容器を作った。）
 【和訳】

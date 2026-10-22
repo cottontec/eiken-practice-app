@@ -1,6 +1,7 @@
 ---
 choices: flows | shares | argues | marries
 answerText: flows
+reviewed: yes
 ---
 【正解】1 flows（流れる、流れ込む）
 【和訳】

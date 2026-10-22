@@ -1,6 +1,7 @@
 ---
 choices: unexpected economic problems occur among people living around famous sites. | the carbon dioxide and humidity in their breath harm the things they go to see. | air pollution caused by the carbon dioxide from airplanes increases. | people have trouble breathing because of the high levels of humidity.
 answerText: the carbon dioxide and humidity in their breath harm the things they go to see.
+reviewed: yes
 ---
 【正解】2 the carbon dioxide and humidity in their breath harm the things they go to see.（彼らの息に含まれる二酸化炭素と湿気が、彼らが見に行くものに害を与える。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: poverty | publicity | solution | separation
 answerText: publicity
+reviewed: yes
 ---
 【正解】2 publicity（世間の注目、宣伝）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: modern materials on which bacteria and other unhealthy things can grow. | materials releasing poisonous chemicals that get trapped in buildings. | a reduction in the amount of air available for people living in the building. | an increased number of people living and working together in the same space.
 answerText: materials releasing poisonous chemicals that get trapped in buildings.
+reviewed: yes
 ---
 【正解】2 materials releasing poisonous chemicals that get trapped in buildings.（建物の中に閉じこめられる有毒な化学物質を放出する材料〔によって〕。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: still more | for instance | even though | in case
 answerText: even though
+reviewed: yes
 ---
 【正解】3 even though（～にもかかわらず、～だけれども）
 【和訳】

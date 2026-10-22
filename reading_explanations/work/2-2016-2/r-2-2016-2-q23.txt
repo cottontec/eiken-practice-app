@@ -1,6 +1,7 @@
 ---
 choices: involved in choosing | interested in exercise | to eat vegetables | to use fewer services
 answerText: involved in choosing
+reviewed: yes
 ---
 【正解】1 involved in choosing（選ぶことにかかわって）
 【和訳】

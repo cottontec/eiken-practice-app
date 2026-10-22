@@ -1,6 +1,7 @@
 ---
 choices: much more | at best | except for | rather than
 answerText: rather than
+reviewed: yes
 ---
 【正解】4 rather than（～よりむしろ）
 【和訳】

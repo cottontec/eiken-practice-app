@@ -1,6 +1,7 @@
 ---
 choices: in fashion | on demand | in effect | on duty
 answerText: in effect
+reviewed: yes
 ---
 【正解】3 in effect（有効で、実施されて）
 【和訳】

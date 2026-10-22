@@ -1,6 +1,7 @@
 ---
 choices: fading | referring | maintaining | supplying
 answerText: referring
+reviewed: yes
 ---
 【正解】2 referring（refer：〔refer to で〕～のことを言う、～に言及する）
 【和訳】

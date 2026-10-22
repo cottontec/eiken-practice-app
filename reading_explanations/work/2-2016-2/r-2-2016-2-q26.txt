@@ -1,6 +1,7 @@
 ---
 choices: not able to help them | worried they might get hurt | not surprised by the results | ready to start new research
 answerText: not surprised by the results
+reviewed: yes
 ---
 【正解】3 not surprised by the results（その結果に驚かなかった）
 【和訳】

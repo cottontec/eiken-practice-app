@@ -1,6 +1,7 @@
 ---
 choices: They were trying to reduce the amount of energy that was being used. | They were trying to make buildings that could have air conditioners in them. | They wanted to increase the amount of air getting in and out of the buildings. | They wanted to make homes warmer and more comfortable in the winter.
 answerText: They were trying to reduce the amount of energy that was being used.
+reviewed: yes
 ---
 【正解】1 They were trying to reduce the amount of energy that was being used.（使われているエネルギーの量を減らそうとしていた。）
 【和訳】

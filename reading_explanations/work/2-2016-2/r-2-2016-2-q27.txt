@@ -1,6 +1,7 @@
 ---
 choices: To remind him to renew his golf membership. | To show him how to replace his golf member's card. | To tell him the fees for his golf membership are decreasing. | To answer his questions about how to become a golf member.
 answerText: To remind him to renew his golf membership.
+reviewed: yes
 ---
 【正解】1 To remind him to renew his golf membership.（彼にゴルフ会員資格を更新するよう念を押すため。）
 【和訳】

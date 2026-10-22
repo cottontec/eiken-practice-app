@@ -1,6 +1,7 @@
 ---
 choices: With luck | For this reason | At the same time | By then
 answerText: At the same time
+reviewed: yes
 ---
 【正解】3 At the same time（同時に）
 【和訳】

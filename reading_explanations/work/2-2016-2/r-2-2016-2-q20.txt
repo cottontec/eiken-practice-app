@@ -1,6 +1,7 @@
 ---
 choices: Sit | Sitting | Sits | Be sitting
 answerText: Sitting
+reviewed: yes
 ---
 【正解】2 Sitting（座って、座ると）
 【和訳】

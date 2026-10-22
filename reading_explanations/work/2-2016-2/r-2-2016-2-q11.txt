@@ -1,6 +1,7 @@
 ---
 choices: speaking of | waiting for | dealing with | heating up
 answerText: speaking of
+reviewed: yes
 ---
 【正解】1 speaking of（～と言えば）
 【和訳】

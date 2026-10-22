@@ -1,6 +1,7 @@
 ---
 choices: The majority of the paintings have turned out to be copies. | There were not as many Buddhist paintings as they had expected to see. | They did not have enough time to look at the paintings inside the caves. | The long lines at the visitors' center have prevented them from seeing the paintings.
 answerText: They did not have enough time to look at the paintings inside the caves.
+reviewed: yes
 ---
 【正解】3 They did not have enough time to look at the paintings inside the caves.（洞窟の中の絵画を見る時間が十分になかった。）
 【和訳】

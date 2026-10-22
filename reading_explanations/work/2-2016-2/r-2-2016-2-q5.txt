@@ -1,6 +1,7 @@
 ---
 choices: protest | qualify | betray | illustrate
 answerText: qualify
+reviewed: yes
 ---
 【正解】2 qualify（資格を得る、条件を満たす）
 【和訳】

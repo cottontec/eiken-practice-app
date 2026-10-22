@@ -1,6 +1,7 @@
 ---
 choices: The gift shop is having a sale because it is closing soon. | Golfers will get a discount if they buy a 5-year membership. | The cost for a daily pass is going to increase by 15 percent. | Members will be able to bring some guests for free.
 answerText: Members will be able to bring some guests for free.
+reviewed: yes
 ---
 【正解】4 Members will be able to bring some guests for free.（会員は何人かのゲストを無料で連れてこられるようになる。）
 【和訳】

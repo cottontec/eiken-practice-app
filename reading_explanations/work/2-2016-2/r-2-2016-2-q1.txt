@@ -1,6 +1,7 @@
 ---
 choices: offensive | abrupt | enormous | familiar
 answerText: enormous
+reviewed: yes
 ---
 【正解】3 enormous（巨大な、とても大きな）
 【和訳】

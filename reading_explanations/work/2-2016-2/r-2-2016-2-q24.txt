@@ -1,6 +1,7 @@
 ---
 choices: improve academic ability | develop social skills | reduce stress easily | forget pain quickly
 answerText: develop social skills
+reviewed: yes
 ---
 【正解】2 develop social skills（社会的な技能を身につける）
 【和訳】
