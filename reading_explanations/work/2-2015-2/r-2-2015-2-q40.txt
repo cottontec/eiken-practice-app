@@ -1,6 +1,7 @@
 ---
 choices: Government rules make it hard to start new companies that provide fuel for cars. | It is difficult to compete with big businesses that already have many customers. | They cannot afford the type of engines that are able to run on biofuel. | The number of cars that can use biofuel will probably not increase in the future.
 answerText: Government rules make it hard to start new companies that provide fuel for cars.
+reviewed: yes
 ---
 【正解】1 Government rules make it hard to start new companies that provide fuel for cars.（政府の規則のために、車の燃料を提供する新しい会社を始めるのが難しい。）
 【和訳】

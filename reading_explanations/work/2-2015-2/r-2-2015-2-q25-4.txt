@@ -2,6 +2,7 @@
 choices: should | come | to | have | my party
 answerText: to
 order: 1 4 2 3 5
+reviewed: yes
 ---
 【正解】3 to（この問題の4番目）
 【完成文】

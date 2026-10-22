@@ -1,6 +1,7 @@
 ---
 choices: Children will study hard to get educational funds from the government. | The government will pay health workers to improve children's health. | Researchers have been gathering various data about children over a long period. | Specialists have been employing children to collect data about the environment.
 answerText: Researchers have been gathering various data about children over a long period.
+reviewed: yes
 ---
 【正解】3 Researchers have been gathering various data about children over a long period.（研究者たちは、長い期間にわたって、子どもたちについてのさまざまなデータを集め続けている。）
 【和訳】

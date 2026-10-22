@@ -1,6 +1,7 @@
 ---
 choices: He is a security guard for a company called Citiborg. | He is in charge of a new building project outside the city. | He helped his company get a new client to use its services. | He made a new moving schedule for his team members.
 answerText: He helped his company get a new client to use its services.
+reviewed: yes
 ---
 【正解】3 He helped his company get a new client to use its services.（彼は、自分の会社が新しい顧客にサービスを利用してもらえるように手助けした。）
 【和訳】

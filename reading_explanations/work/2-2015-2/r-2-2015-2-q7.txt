@@ -1,6 +1,7 @@
 ---
 choices: conclude | engage | compare | respond
 answerText: respond
+reviewed: yes
 ---
 【正解】4 respond（答える、反応する）
 【和訳】

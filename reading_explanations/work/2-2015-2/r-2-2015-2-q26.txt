@@ -1,6 +1,7 @@
 ---
 choices: Traditionally | Furthermore | Unfortunately | Nevertheless
 answerText: Nevertheless
+reviewed: yes
 ---
 【正解】4 Nevertheless（それにもかかわらず、それでも）
 【和訳】

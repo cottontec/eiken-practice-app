@@ -1,6 +1,7 @@
 ---
 choices: at random | in particular | by accident | for granted
 answerText: in particular
+reviewed: yes
 ---
 【正解】2 in particular（特に）
 【和訳】

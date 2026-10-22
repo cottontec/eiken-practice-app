@@ -1,6 +1,7 @@
 ---
 choices: tired of | encouraged by | pleased with | worried about
 answerText: worried about
+reviewed: yes
 ---
 【正解】4 worried about（～を心配している）
 【和訳】

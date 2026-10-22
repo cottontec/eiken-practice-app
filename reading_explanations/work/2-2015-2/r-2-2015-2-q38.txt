@@ -1,6 +1,7 @@
 ---
 choices: It can help taxis run much more quickly than gasoline can. | It does much less harm to the environment than regular fuel. | People can buy it at restaurants instead of at gas stations. | People use it to produce eco-friendly foods for cafés.
 answerText: It does much less harm to the environment than regular fuel.
+reviewed: yes
 ---
 【正解】2 It does much less harm to the environment than regular fuel.（それは、ふつうの燃料よりも環境に与える害がずっと少ない。）
 【和訳】

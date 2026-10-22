@@ -1,6 +1,7 @@
 ---
 choices: disappointing | available | rare | valuable
 answerText: available
+reviewed: yes
 ---
 【正解】2 available（手に入る、利用できる）
 【和訳】

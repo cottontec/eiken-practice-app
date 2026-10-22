@@ -1,6 +1,7 @@
 ---
 choices: achievements | limitations | estimates | territories
 answerText: achievements
+reviewed: yes
 ---
 【正解】1 achievements（業績、成し遂げたこと）
 【和訳】

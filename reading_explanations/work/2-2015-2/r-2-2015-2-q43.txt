@@ -1,6 +1,7 @@
 ---
 choices: gather data about children in order to help them lead better lives. | go to the children's schools to learn more about Australian education. | measure how well parents can solve their children's problems. | provide health services to children living in the community.
 answerText: gather data about children in order to help them lead better lives.
+reviewed: yes
 ---
 【正解】1 gather data about children in order to help them lead better lives.（子どもたちがよりよい生活を送れるように手助けするために、子どもたちについてのデータを集める。）
 【和訳】

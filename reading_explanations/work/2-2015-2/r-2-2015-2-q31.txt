@@ -1,6 +1,7 @@
 ---
 choices: As usual | At first | Amazingly | Additionally
 answerText: Amazingly
+reviewed: yes
 ---
 【正解】3 Amazingly（驚いたことに）
 【和訳】

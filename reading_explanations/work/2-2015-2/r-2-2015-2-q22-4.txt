@@ -2,6 +2,7 @@
 choices: time | by the | had already | left | the station
 answerText: by the
 order: 3 4 5 2 1
+reviewed: yes
 ---
 【正解】2 by the（この問題の4番目）
 【完成文】

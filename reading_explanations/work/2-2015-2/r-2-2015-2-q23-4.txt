@@ -2,6 +2,7 @@
 choices: computer | some | using | his | trouble
 answerText: his
 order: 2 5 3 4 1
+reviewed: yes
 ---
 【正解】4 his（この問題の4番目）
 【完成文】

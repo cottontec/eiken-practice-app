@@ -1,6 +1,7 @@
 ---
 choices: watching television has no effect on children's emotions. | participating in organized activities has a positive effect on children. | children who watch a lot of television are bad at sports. | children who do organized activities like to control their friends.
 answerText: participating in organized activities has a positive effect on children.
+reviewed: yes
 ---
 【正解】2 participating in organized activities has a positive effect on children.（組織的な活動に参加することは、子どもたちによい影響を与える。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: question | word | letter | sentence
 answerText: word
+reviewed: yes
 ---
 【正解】2 word（（have a word with ～ で）～とちょっと話をする）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: substitutes | immigrants | opponents | candidates
 answerText: immigrants
+reviewed: yes
 ---
 【正解】2 immigrants（移民）
 【和訳】

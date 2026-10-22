@@ -1,6 +1,7 @@
 ---
 choices: broke into | made up | brought back | turned down
 answerText: turned down
+reviewed: yes
 ---
 【正解】4 turned down（断った）
 【和訳】

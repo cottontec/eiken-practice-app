@@ -2,6 +2,7 @@
 choices: skillful | far | by | most | the
 answerText: most
 order: 3 2 5 4 1
+reviewed: yes
 ---
 【正解】4 most（この問題の4番目）
 【完成文】

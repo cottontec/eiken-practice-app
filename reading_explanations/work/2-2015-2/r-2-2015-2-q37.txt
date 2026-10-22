@@ -1,6 +1,7 @@
 ---
 choices: make both the air and the local sewer system cleaner. | help restaurants that have no way to get rid of their kitchen waste. | invent cars with special engines that run on cleaner fuel than gasoline. | save more money for both the transportation and food businesses.
 answerText: make both the air and the local sewer system cleaner.
+reviewed: yes
 ---
 【正解】1 make both the air and the local sewer system cleaner.（空気と地元の下水道の両方を、（今より）きれいにする。）
 【和訳】

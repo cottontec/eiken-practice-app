@@ -1,6 +1,7 @@
 ---
 choices: is looking for ways to pay for damage caused by flooding. | is paying drivers to use fuel made from waste. | spends a lot of money every month cleaning up oil. | says that too much car oil has been getting into the water.
 answerText: spends a lot of money every month cleaning up oil.
+reviewed: yes
 ---
 【正解】3 spends a lot of money every month cleaning up oil.（油を掃除するのに、毎月多額のお金を使っている。）
 【和訳】

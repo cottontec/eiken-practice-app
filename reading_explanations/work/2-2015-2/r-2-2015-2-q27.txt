@@ -1,6 +1,7 @@
 ---
 choices: dangerous | attractive | unenjoyable | steady
 answerText: dangerous
+reviewed: yes
 ---
 【正解】1 dangerous（危険な）
 【和訳】

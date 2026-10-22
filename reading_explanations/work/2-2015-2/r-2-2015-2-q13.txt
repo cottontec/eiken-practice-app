@@ -1,6 +1,7 @@
 ---
 choices: in comparison | in a sense | at a time | last of all
 answerText: at a time
+reviewed: yes
 ---
 【正解】3 at a time（一度に）
 【和訳】

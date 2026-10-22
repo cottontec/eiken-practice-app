@@ -1,6 +1,7 @@
 ---
 choices: have | had | will have | would have
 answerText: would have
+reviewed: yes
 ---
 【正解】4 would have（（would have said で）言っていただろう）
 【和訳】

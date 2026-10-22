@@ -1,6 +1,7 @@
 ---
 choices: which | that | if | for
 answerText: that
+reviewed: yes
 ---
 【正解】2 that（～という（うわさ））
 【和訳】

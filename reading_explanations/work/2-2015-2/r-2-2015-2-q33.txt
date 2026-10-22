@@ -1,6 +1,7 @@
 ---
 choices: documents | complaints | commercials | discoveries
 answerText: discoveries
+reviewed: yes
 ---
 【正解】4 discoveries（発見）
 【和訳】

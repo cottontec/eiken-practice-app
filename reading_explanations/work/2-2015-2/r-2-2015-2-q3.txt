@@ -1,6 +1,7 @@
 ---
 choices: incapable | ungrateful | uninformed | invisible
 answerText: incapable
+reviewed: yes
 ---
 【正解】1 incapable（～することができない）
 【和訳】

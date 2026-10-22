@@ -1,6 +1,7 @@
 ---
 choices: to visit | visiting | been visited | visited
 answerText: visited
+reviewed: yes
 ---
 【正解】4 visited（訪れた（having visited で「訪れたことがあったので」））
 【和訳】

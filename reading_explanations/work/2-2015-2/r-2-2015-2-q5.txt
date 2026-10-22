@@ -1,6 +1,7 @@
 ---
 choices: fate | desire | benefit | custom
 answerText: fate
+reviewed: yes
 ---
 【正解】1 fate（運命）
 【和訳】

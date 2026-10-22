@@ -2,6 +2,7 @@
 choices: skillful | far | by | most | the
 answerText: far
 order: 3 2 5 4 1
+reviewed: yes
 ---
 【正解】2 far（この問題の2番目）
 【完成文】

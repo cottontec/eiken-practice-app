@@ -2,6 +2,7 @@
 choices: person | be | the | to | last
 answerText: the
 order: 2 3 5 1 4
+reviewed: yes
 ---
 【正解】3 the（この問題の2番目）
 【完成文】

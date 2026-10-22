@@ -1,6 +1,7 @@
 ---
 choices: dream up | hang on | head for | grow into
 answerText: head for
+reviewed: yes
 ---
 【正解】3 head for（～へ向かう）
 【和訳】

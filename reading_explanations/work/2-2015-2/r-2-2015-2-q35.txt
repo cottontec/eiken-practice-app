@@ -1,6 +1,7 @@
 ---
 choices: They have to take their plants home. | They have to bring their boxes to the closet. | They must give their desk keys to John Willoughby. | They must pack up their computers and put labels on them.
 answerText: They have to take their plants home.
+reviewed: yes
 ---
 【正解】1 They have to take their plants home.（彼らは自分の植物を家に持ち帰らなければならない。）
 【和訳】

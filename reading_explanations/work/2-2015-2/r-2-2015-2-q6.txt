@@ -1,6 +1,7 @@
 ---
 choices: apparently | endlessly | informally | previously
 answerText: apparently
+reviewed: yes
 ---
 【正解】1 apparently（どうやら～らしい、見たところ）
 【和訳】

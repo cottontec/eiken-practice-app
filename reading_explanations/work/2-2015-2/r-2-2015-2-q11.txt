@@ -1,6 +1,7 @@
 ---
 choices: make sure | take advantage | be part | give details
 answerText: make sure
+reviewed: yes
 ---
 【正解】1 make sure（確かめる）
 【和訳】

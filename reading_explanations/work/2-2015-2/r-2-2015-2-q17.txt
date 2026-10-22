@@ -1,6 +1,7 @@
 ---
 choices: bottom line | final stage | side effect | best way
 answerText: bottom line
+reviewed: yes
 ---
 【正解】1 bottom line（いちばん大事な点、要するに）
 【和訳】

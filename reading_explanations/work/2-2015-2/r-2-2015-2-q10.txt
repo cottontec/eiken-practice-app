@@ -1,6 +1,7 @@
 ---
 choices: expression | occupation | indication | impression
 answerText: occupation
+reviewed: yes
 ---
 【正解】2 occupation（職業、仕事）
 【和訳】

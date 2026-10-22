@@ -1,6 +1,7 @@
 ---
 choices: Australians want the government to spend more money on education. | The government is unhappy with the results of the study. | Older children have better control of their emotions than younger children. | The study follows two separate groups of children.
 answerText: The study follows two separate groups of children.
+reviewed: yes
 ---
 【正解】4 The study follows two separate groups of children.（その研究は、2つの別々のグループの子どもたちを追っている。）
 【和訳】

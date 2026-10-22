@@ -1,6 +1,7 @@
 ---
 choices: contrast | delete | straighten | tolerate
 answerText: tolerate
+reviewed: yes
 ---
 【正解】4 tolerate（我慢する、大目に見る）
 【和訳】

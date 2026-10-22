@@ -1,6 +1,7 @@
 ---
 choices: more comfortable | more common | dirtier | safer
 answerText: more common
+reviewed: yes
 ---
 【正解】2 more common（よりよく見られる、より多い）
 【和訳】

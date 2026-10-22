@@ -1,6 +1,7 @@
 ---
 choices: blamed | offended | enabled | recognized
 answerText: enabled
+reviewed: yes
 ---
 【正解】3 enabled（～できるようにした、可能にした）
 【和訳】

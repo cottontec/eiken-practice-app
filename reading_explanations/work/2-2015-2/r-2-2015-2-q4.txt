@@ -1,6 +1,7 @@
 ---
 choices: revolved | attached | witnessed | imitated
 answerText: witnessed
+reviewed: yes
 ---
 【正解】3 witnessed（目にした、実際に見た）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: Print out surveys about childcare for his team members. | Ask his team members to update their online profiles. | Find out how many of his team members need childcare. | Tell his team members to fill out an online survey.
 answerText: Tell his team members to fill out an online survey.
+reviewed: yes
 ---
 【正解】4 Tell his team members to fill out an online survey.（チームのメンバーに、オンラインのアンケートに記入するよう伝える。）
 【和訳】
