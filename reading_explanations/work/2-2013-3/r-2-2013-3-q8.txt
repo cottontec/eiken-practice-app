@@ -1,6 +1,7 @@
 ---
 choices: assume | pretend | recommend | consume
 answerText: assume
+reviewed: yes
 ---
 【正解】1 assume（（確かめずに）～だと思う）
 【和訳】

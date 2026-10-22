@@ -1,0 +1,25 @@
+---
+choices: destroyed | purchased | produced | buried
+answerText: produced
+---
+【正解】3 produced（生み出される）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 destroyed：破壊される
+2 purchased：購入される
+3 produced：生み出される
+4 buried：埋められる
+【考え方】
+空所の文は researchers around the world are trying to find new ways to reduce the amount being (　)（世界中の研究者たちが、～されている量を減らす新しい方法を見つけようとしている）です。the amount being ～ed は「～されている量」という意味で、being のあとに過去分詞を置くと「（今）～されている」という受け身の意味になります。
+まず前の文を見ます。One major cause of global warming is the release of carbon dioxide by companies and individuals into the air.（地球温暖化の大きな原因の1つは、企業や個人が二酸化炭素を空気中に放出することだ）とあります。release は「放出（外に出すこと）」です。空所の文は Because of this（このため）で始まるので、研究者たちは温暖化の原因である二酸化炭素の量を減らそうとしていると考えられます。
+次の文も手がかりです。Some ideas include using fossil fuels more efficiently or finding new sources of energy.（アイデアの中には、化石燃料をより効率よく使うことや、新しいエネルギー源を見つけることがある）とあります。どちらも、二酸化炭素が出る量そのものを少なくする方法です。
+produce は「生み出す、作り出す」で、the amount being produced で「生み出されている（二酸化炭素の）量」となります。正解は3です。
+【ほかの選択肢】
+1 destroyed を入れると「破壊されている量を減らす」となります。二酸化炭素が壊される量を減らせば空気中の二酸化炭素はむしろ残ることになり、温暖化を防ぐための研究という流れと反対になります。
+2 purchased を入れると「購入されている量を減らす」となります。本文には二酸化炭素を買うという話はなく、あとの「化石燃料を効率よく使う」などの方法ともつながりません。
+4 buried を入れると「埋められている量を減らす」となります。本文では、二酸化炭素を閉じこめてためておく（trap and store）ことは「もう1つの解決策」として紹介されているので、その量を減らそうとするのは流れと反対です。
+【覚えるポイント】
+・the amount being ～ed：「～されている量」。being＋過去分詞で「（今）～されている」。
+・Because of this：「このため」。前の文が原因、あとの文がその結果になります。

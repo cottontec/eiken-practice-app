@@ -2,6 +2,7 @@
 choices: far | any | the teachers | of | as
 answerText: of
 order: 1 5 2 4 3
+reviewed: yes
 ---
 【正解】4 of（この問題の4番目）
 【完成文】
@@ -9,7 +10,7 @@ Yes. Ms. Baker said that as ( far as any of the teachers ) know, the application
 並べ方：1 far → 5 as → 2 any → 4 of → 3 the teachers（2番目は5、4番目は4）
 【和訳】
 A：ジャッキー、マクスウェル大学の願書の締め切りがいつか聞いた？
-B：うん。ベイカーさんによると、どの先生が知っている限りでも、願書は来月まで締め切りにならないそうだよ。
+B：うん。ベイカーさんによると、先生たちが知っている限りでは（どの先生に聞いても）、願書は来月まで締め切りにならないそうだよ。
 【考え方】
 4番目を決めるために、文全体の形から考えます。Bは、願書の締め切りについて先生たちが知っていることを伝えています。空所の前の as と、空所のあとの know に注目します。
 空所の前の as と選択肢の far、as で as far as（～する限りでは）を作ります。空所の中は 1 far → 5 as と始まります。

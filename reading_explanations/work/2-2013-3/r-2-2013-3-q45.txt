@@ -1,6 +1,7 @@
 ---
 choices: Using a currency such as the euro is important for protecting jobs. | Banks will not trade local money for major currencies. | Local currencies are often not accepted by businesses in a region. | The Chiemgauer is mainly used at German high schools.
 answerText: Local currencies are often not accepted by businesses in a region.
+reviewed: yes
 ---
 【正解】3 Local currencies are often not accepted by businesses in a region.（地域通貨は、その地域の店や会社に受け取ってもらえないことが多い。）
 【和訳】

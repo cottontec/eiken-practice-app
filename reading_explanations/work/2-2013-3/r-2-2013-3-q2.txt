@@ -1,6 +1,7 @@
 ---
 choices: mixture | progress | influence | humor
 answerText: progress
+reviewed: yes
 ---
 【正解】2 progress（進歩、上達）
 【和訳】

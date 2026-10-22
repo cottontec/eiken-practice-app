@@ -1,0 +1,25 @@
+---
+choices: At most | As always | For this reason | In particular
+answerText: For this reason
+---
+【正解】3 For this reason（このため）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 At most：多くても、せいぜい
+2 As always：いつものように
+3 For this reason：このため、こういう理由で
+4 In particular：特に
+【考え方】
+空所の前の文と、あとの文の関係を考えます。
+前の文は In many countries today, governments are spending less than they used to on programs for people who need help.（今日、多くの国では、政府が援助を必要とする人々のための事業に使うお金が、以前よりも少なくなっている）です。less than they used to は「以前（そうしていた）よりも少なく」という比べる言い方です。
+空所のあとは charities and other voluntary organizations need to provide more aid than before（慈善団体やそのほかのボランティア団体は、以前よりも多くの援助を提供する必要がある）です。
+政府が使うお金が以前より少なくなったので、その分、慈善団体などが以前より多くの援助をしなければならない、という原因と結果の関係になっています。結果を述べる文の頭に置くのは For this reason（このため）なので、3が正解です。
+【ほかの選択肢】
+1 At most（多くても、せいぜい）は、数や量の上限を表すときに使います。「多くても、慈善団体は以前より多くの援助を提供する必要がある」となり、意味が通りません。
+2 As always（いつものように）を入れると「いつものように、以前よりも多くの援助が必要だ」となります。あとの文は than before（以前よりも）と変化を述べているので、「いつものように」とは合いません。
+4 In particular（特に）は、前に述べたことの中から1つを取り出して詳しく述べるときに使います。あとの文は前の文の中の例ではなく、前の文の結果なので、合いません。
+【覚えるポイント】
+・For this reason：「このため、こういう理由で」。前の文が原因、あとの文が結果になります。
+・less than they used to：「以前よりも少なく」。used to ～ は「以前は～していた」。

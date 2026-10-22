@@ -1,6 +1,7 @@
 ---
 choices: breath | view | deal | cure
 answerText: deal
+reviewed: yes
 ---
 【正解】3 deal（a good deal of ～ で「たくさんの～」）
 【和訳】

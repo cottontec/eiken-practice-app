@@ -1,6 +1,7 @@
 ---
 choices: genuine | straight | frank | honest
 answerText: genuine
+reviewed: yes
 ---
 【正解】1 genuine（本物の）
 【和訳】

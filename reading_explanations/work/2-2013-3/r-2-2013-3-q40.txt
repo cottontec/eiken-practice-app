@@ -1,6 +1,7 @@
 ---
 choices: It costs a lot to repair the damage they cause to doors and stairs. | Some younger children have trouble controlling them. | They can make it hard for some children to have a normal life. | Schools are often unable to pay for them without help.
 answerText: Schools are often unable to pay for them without help.
+reviewed: yes
 ---
 【正解】4 Schools are often unable to pay for them without help.（学校は、手助けがないとその代金を払えないことが多い。）
 【和訳】

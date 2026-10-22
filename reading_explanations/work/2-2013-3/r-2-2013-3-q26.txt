@@ -1,6 +1,7 @@
 ---
 choices: made | limited | wasted | taken
 answerText: wasted
+reviewed: yes
 ---
 【正解】3 wasted（むだにされる）
 【和訳】

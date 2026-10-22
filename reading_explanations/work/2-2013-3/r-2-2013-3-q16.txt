@@ -1,6 +1,7 @@
 ---
 choices: falls | drops | goes | pays
 answerText: goes
+reviewed: yes
 ---
 【正解】3 goes（go by で「（時が）過ぎる」）
 【和訳】

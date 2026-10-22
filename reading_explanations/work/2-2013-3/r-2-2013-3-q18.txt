@@ -1,6 +1,7 @@
 ---
 choices: Far | Little | Always | Ever
 answerText: Little
+reviewed: yes
 ---
 【正解】2 Little（Little did he know ～ で「彼は～とは少しも知らなかった」）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: giving up | forgetting about | going against | reacting to
 answerText: reacting to
+reviewed: yes
 ---
 【正解】4 reacting to（～に反応すること）
 【和訳】

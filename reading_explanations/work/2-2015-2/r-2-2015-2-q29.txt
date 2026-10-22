@@ -1,0 +1,25 @@
+---
+choices: more comfortable | more common | dirtier | safer
+answerText: more common
+---
+【正解】2 more common（よりよく見られる、より多い）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 more comfortable：より快適な
+2 more common：よりよく見られる、より多い
+3 dirtier：より汚い
+4 safer：より安全な
+【考え方】
+空所の前の文では、some people are concerned that keeping animals in crowded cities may lead to people catching diseases from them（混み合った都市で動物を飼うと、人々が動物から病気をうつされることにつながるかもしれないと心配する人もいる）と、都市型農業への心配が書かれています。
+空所の文は Supporters of urban farming, though, say that diseases among animals are (　) on farms in the countryside.（しかし、都市型農業を支持する人たちは、動物の間の病気は田舎の農場のほうが（　）と言う）です。though（しかし）があるので、支持する人たちは、前の心配に言い返していると分かります。
+次の文がその理由です。This is because in the countryside thousands of animals are kept together in small spaces, so it is easy for diseases to pass from one animal to another.（これは、田舎では何千頭もの動物が狭い場所にいっしょに飼われているので、病気が動物から動物へうつりやすいからだ）とあります。
+田舎のほうが病気がうつりやすいのですから、動物の病気は、都市の農場よりも田舎の農場のほうがよく見られる、ということになります。more common は「よりよく見られる、より多い」で、比べている相手は都市の農場です。正解は2です。
+【ほかの選択肢】
+1 more comfortable は「より快適な」です。「動物の間の病気は田舎の農場のほうが快適だ」となり、意味が通りません。
+3 dirtier は「より汚い」です。「病気が汚い」という言い方は、病気が動物から動物へうつりやすいという次の文の理由とつながりません。
+4 safer は「より安全な」です。入れると「病気は田舎の農場のほうが安全だ」となり、病気がうつりやすいという次の文と合いません。
+【覚えるポイント】
+・common：「よく見られる、ありふれた」。more common は「（ほかと比べて）よりよく見られる」。
+・lead to ～：「～につながる、～を引き起こす」。

@@ -1,0 +1,24 @@
+---
+choices: successful | costly | difficult | educational
+answerText: successful
+---
+【正解】1 successful（成功した、うまくいく）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 successful：成功した、うまくいく
+2 costly：費用のかかる
+3 difficult：難しい
+4 educational：教育的な、教育に役立つ
+【考え方】
+空所の文は Because of this, they seem likely to become some of the most (　) ways of dealing with carbon dioxide.（このため、それらは二酸化炭素に対処する方法の中で最も～な方法のいくつかになりそうだ）です。deal with ～ は「～に対処する、～を処理する」です。
+Because of this の this が指す前の文を見ます。All of these materials have the advantage that they are cheap and, in turn, attractive to manufacturers.（これらの材料にはすべて、安く、その結果として製造業者にとって魅力的だという利点がある）とあります。in turn は「その結果として」です。
+安くて製造業者に魅力的なら、多くの会社に使われ、二酸化炭素への対策としてうまくいくと考えられます。successful は「成功した、うまくいく」なので、some of the most successful ways で「最も成功した方法のいくつか」となります。利点から自然につながるので、1が正解です。
+【ほかの選択肢】
+2 costly は「費用のかかる」です。前の文で材料は cheap（安い）と述べられているので、反対の内容になります。
+3 difficult は「難しい」です。安くて魅力的という利点を Because of this で受けて「最も難しい方法」とするのは、流れが反対です。
+4 educational は「教育的な」です。本文には教育についての話がなく、安くて製造業者に魅力的という理由ともつながりません。
+【覚えるポイント】
+・in turn：「その結果として、今度は」。A and, in turn, B で「Aで、その結果Bだ」。
+・deal with ～：「～に対処する、～を処理する」。

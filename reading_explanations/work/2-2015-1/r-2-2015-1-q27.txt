@@ -1,0 +1,26 @@
+---
+choices: Nevertheless | Therefore | Occasionally | Moreover
+answerText: Moreover
+---
+【正解】4 Moreover（さらに、そのうえ）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Nevertheless：それにもかかわらず
+2 Therefore：したがって、それゆえ
+3 Occasionally：時々
+4 Moreover：さらに、そのうえ
+【考え方】
+空所の前後の流れを見ます。第2段落で This plastic has various advantages.（このプラスチックにはさまざまな利点がある）と述べたあと、利点が順に並べられています。
+1つ目は First of all, the process of making it removes carbon from the atmosphere.（まず第一に、それを作る過程で大気から炭素が取り除かれる）です。
+空所のあとは unlike traditional plastics, it quickly breaks up and is absorbed into the environment after it is thrown away（従来のプラスチックとは違って、捨てられたあとすばやく分解されて環境に吸収される）で、これは2つ目の利点です。
+さらにその次は Also, it is cheaper than regular plastics（また、普通のプラスチックより安い）と、3つ目の利点が続きます。
+このように、利点を1つずつ付け足していく流れなので、「さらに、そのうえ」と情報を加える Moreover が入ります。正解は4です。
+【ほかの選択肢】
+1 Nevertheless（それにもかかわらず）は、前の内容から予想されることと反対のことを述べるときに使います。ここでは利点に利点を付け足しているだけなので、合いません。
+2 Therefore（したがって）は、前の内容の結果を述べるときに使います。「作る過程で炭素が取り除かれる。したがって、捨てたあとすばやく分解される」となりますが、作るときのことと捨てたあとのことは別の話で、原因と結果の関係にはなっていません。
+3 Occasionally（時々）を入れると「時々、捨てたあとすばやく分解される」となります。First of all のあとに続く2つ目の利点を述べる文として流れに合わず、本文はこのプラスチックの性質として分解されることを述べています。
+【覚えるポイント】
+・Moreover：「さらに、そのうえ」。Also、In addition、Furthermore と同じく、情報を付け足すときに使います。
+・First of all ～. Moreover ～. Also ～.：理由や利点を順番に並べるときの目印になります。

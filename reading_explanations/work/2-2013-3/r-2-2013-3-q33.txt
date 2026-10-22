@@ -1,6 +1,7 @@
 ---
 choices: laws | customs | clinics | techniques
 answerText: techniques
+reviewed: yes
 ---
 【正解】4 techniques（技術、方法）
 【和訳】

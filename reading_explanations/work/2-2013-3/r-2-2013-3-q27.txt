@@ -1,6 +1,7 @@
 ---
 choices: opportunity | permission | necessity | confidence
 answerText: opportunity
+reviewed: yes
 ---
 【正解】1 opportunity（機会）
 【和訳】

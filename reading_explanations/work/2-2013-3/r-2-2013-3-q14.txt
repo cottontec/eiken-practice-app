@@ -1,6 +1,7 @@
 ---
 choices: head | foot | mind | hand
 answerText: hand
+reviewed: yes
 ---
 【正解】4 hand（close at hand で「すぐ近くに」）
 【和訳】

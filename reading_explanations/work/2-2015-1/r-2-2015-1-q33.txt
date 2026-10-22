@@ -1,0 +1,25 @@
+---
+choices: risky | honest | effective | negative
+answerText: effective
+---
+【正解】3 effective（効果的な）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 risky：危険な、危険をともなう
+2 honest：正直な
+3 effective：効果的な、効果がある
+4 negative：否定的な、よくない
+【考え方】
+空所の文は This is one example of how the Impetus-PEF approach to advising charities has proven to be (　).（これは、慈善団体に助言するというインペタスPEFのやり方が～であると証明されてきたことを示す一例だ）です。prove to be ～ は「～であると分かる、証明される」です。
+This（これ）が指すのは、直前のセント・ジャイルズ・トラストの話です。インペタスPEFが関わる前は、協力する刑務所が2か所、住まいを見つけた人が160人、仕事を見つけた人が8人でした。助言を受け始めてからは、刑務所24か所、住まい2,407人、仕事226人と、劇的に大きくなっています。
+さらに次の文に Because of its achievements, this approach is now being adopted throughout Europe.（その成果のおかげで、このやり方は今、ヨーロッパ全体で取り入れられつつある）とあります。achievement は「成果」です。
+数字が大きく伸び、成果があったのですから、インペタスPEFのやり方は「効果的だ」と証明されたことになります。正解は3です。
+【ほかの選択肢】
+1 risky を入れると「やり方が危険だと証明された」となります。数字が大きく伸びて成果が出ているという例とは反対の内容です。
+2 honest を入れると「やり方が正直だと証明された」となります。本文の例は、援助できる人数がどれだけ増えたかを示すもので、正直さを示す話ではありません。
+4 negative を入れると「やり方がよくないと証明された」となります。成果のおかげでヨーロッパ全体に広がっているという次の文と反対になります。
+【覚えるポイント】
+・prove to be ～：「～であると分かる、証明される」。has proven to be effective で「効果的だと証明されてきた」。
+・achievement：「成果、達成」。

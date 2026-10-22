@@ -1,6 +1,7 @@
 ---
 choices: cheered | tipped | banned | leaned
 answerText: banned
+reviewed: yes
 ---
 【正解】3 banned（禁止した）
 【和訳】

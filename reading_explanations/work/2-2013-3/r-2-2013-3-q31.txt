@@ -1,6 +1,7 @@
 ---
 choices: visual | physical | artificial | cultural
 answerText: physical
+reviewed: yes
 ---
 【正解】2 physical（体の、身体の）
 【和訳】

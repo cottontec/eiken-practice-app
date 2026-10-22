@@ -1,0 +1,29 @@
+---
+choices: were introduced by a professor that they both know. | graduated from the same university over 10 years ago. | have been sending e-mails to each other for a long time. | have been asked to give a presentation together in England.
+answerText: have been sending e-mails to each other for a long time.
+---
+【正解】3 have been sending e-mails to each other for a long time.（長い間、おたがいにEメールを送り合っている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：バリー・ジョンストンとリドリー博士は、
+1 2人とも知っている教授によって紹介された。
+2 10年以上前に同じ大学を卒業した。
+3 長い間、おたがいにEメールを送り合っている。
+4 イギリスで一緒に発表をするよう頼まれている。
+【考え方】
+2人の関係は、メールの第1段落に書かれています。
+1文目は It was great to finally meet you at Reedstone University in England last week.（先週、イギリスのリードストーン大学で、ついにお会いできてとてもよかった）です。finally は「ついに、やっと」で、2人は先週初めて直接会ったことが分かります。
+2文目は We've been reading each other's research and communicating by e-mail for almost 10 years（私たちは10年近く、おたがいの研究を読み、Eメールでやりとりしてきた）です。We've been ～ing（have been ～ing）は「（今まで）ずっと～してきた」という意味で、communicate by e-mail は「Eメールでやりとりする」、for almost 10 years は「10年近くの間」です。
+本文と選択肢は次のように対応しています。
+本文 We've been … communicating by e-mail（Eメールでやりとりしてきた）＝ 選択肢 have been sending e-mails to each other（おたがいにEメールを送り合っている）
+本文 for almost 10 years（10年近くの間）→ 選択肢 for a long time（長い間）
+10年近くという期間を、選択肢では「長い間」とまとめて言っています。正解は3です。
+【ほかの選択肢】
+1 本文には、2人がだれかに紹介されたという話は書かれていません。2人は、おたがいの研究を読み、Eメールでやりとりしてきた関係です。
+2 本文の「10年」は、2人がEメールでやりとりしてきた期間（almost 10 years＝10年近く）です。同じ大学を卒業したという話はなく、「10年以上前」という点も本文の「10年近く」と合いません。
+4 イギリスのリードストーン大学は、先週2人が会った場所です。発表をするのは4月にニューヨークの大学で開かれるセミナーで、発表するのはリドリー博士です。イギリスで一緒に発表するとは書かれていません。
+【覚えるポイント】
+・have been ～ing：「（今まで）ずっと～している、～してきた」。
+・each other：「おたがい」。each other's research で「おたがいの研究」。

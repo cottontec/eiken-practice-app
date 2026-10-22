@@ -2,6 +2,7 @@
 choices: her | give | to | refused | the money
 answerText: her
 order: 4 3 2 1 5
+reviewed: yes
 ---
 【正解】1 her（この問題の4番目）
 【完成文】

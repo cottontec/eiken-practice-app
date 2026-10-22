@@ -1,6 +1,7 @@
 ---
 choices: harmony | humidity | tragedy | tendency
 answerText: humidity
+reviewed: yes
 ---
 【正解】2 humidity（湿度、しめり気）
 【和訳】

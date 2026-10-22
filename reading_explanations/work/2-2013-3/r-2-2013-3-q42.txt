@@ -1,6 +1,7 @@
 ---
 choices: It helps to promote school programs in the local area. | It can lead to the creation of more jobs in the community. | It teaches children in the community how money works. | It allows people to buy things at a discount from stores in the region.
 answerText: It can lead to the creation of more jobs in the community.
+reviewed: yes
 ---
 【正解】2 It can lead to the creation of more jobs in the community.（地域社会でより多くの仕事が生まれることにつながりうる。）
 【和訳】

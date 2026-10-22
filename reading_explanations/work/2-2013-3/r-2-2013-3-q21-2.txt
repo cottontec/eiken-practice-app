@@ -2,6 +2,7 @@
 choices: far | any | the teachers | of | as
 answerText: as
 order: 1 5 2 4 3
+reviewed: yes
 ---
 【正解】5 as（この問題の2番目）
 【完成文】
@@ -9,13 +10,13 @@ Yes. Ms. Baker said that as ( far as any of the teachers ) know, the application
 並べ方：1 far → 5 as → 2 any → 4 of → 3 the teachers（2番目は5、4番目は4）
 【和訳】
 A：ジャッキー、マクスウェル大学の願書の締め切りがいつか聞いた？
-B：うん。ベイカーさんによると、どの先生が知っている限りでも、願書は来月まで締め切りにならないそうだよ。
+B：うん。ベイカーさんによると、先生たちが知っている限りでは（どの先生に聞いても）、願書は来月まで締め切りにならないそうだよ。
 【考え方】
 まず空所の前後を見ます。空所の直前に as があり、空所のあとに know が続いています。そして、コンマ（,）のあとに the application isn't due until next month（願書は来月まで締め切りにならない）という文があります。
 選択肢に far と as があるので、空所の前の as と合わせて as far as ～（～する限りでは）という決まった言い方を作ると考えます。as far as ＋ 主語 ＋ know で「（主語）が知っている限りでは」となります。
 空所の前にすでに as が1つあるので、空所の中は far → as の順に始めます。5 as は、as far as の2つ目の as として、far のすぐあとの2番目に置かれます。
 次に know の主語を作ります。2 any、4 of、3 the teachers を any of the teachers（先生たちのうちのだれでも）と並べます。any of ～ は「～のうちのどれ（だれ）でも」という意味です。
-これで as far as any of the teachers know（どの先生が知っている限りでも）となり、コンマのあとの文につながります。したがって2番目は5 as です。
+これで as far as any of the teachers know（先生たちが知っている限りでは。any of ～ を使っているので「どの先生に聞いても」という意味合いになります）となり、コンマのあとの文につながります。したがって2番目は5 as です。
 まちがえやすいのは、空所の前の as を見落として、5 as → 1 far の順に始めてしまう並べ方です。as as far any of the teachers know となり、as が2つ続くうえに、far のあとの as がなくなって as far as の形になりません。
 【覚えるポイント】
 ・as far as ＋ 主語 ＋ know：「（主語）が知っている限りでは」。

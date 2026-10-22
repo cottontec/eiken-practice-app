@@ -1,6 +1,7 @@
 ---
 choices: to avoid being affected by economic problems in other places. | to help the businesses in their own communities grow internationally. | because they want people visiting from elsewhere to buy more things. | because they have trouble selling their goods to countries in Europe.
 answerText: to avoid being affected by economic problems in other places.
+reviewed: yes
 ---
 【正解】1 to avoid being affected by economic problems in other places.（ほかの場所の経済問題の影響を受けないようにするために）
 【和訳】

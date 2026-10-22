@@ -1,6 +1,7 @@
 ---
 choices: promise | chance | margin | cost
 answerText: cost
+reviewed: yes
 ---
 【正解】4 cost（at the cost of ～ で「～を犠牲にして」）
 【和訳】

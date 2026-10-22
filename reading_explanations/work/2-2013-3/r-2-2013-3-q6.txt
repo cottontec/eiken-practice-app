@@ -1,6 +1,7 @@
 ---
 choices: spoil | recognize | elect | launch
 answerText: recognize
+reviewed: yes
 ---
 【正解】2 recognize（見分ける、それと分かる）
 【和訳】

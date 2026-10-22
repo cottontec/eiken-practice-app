@@ -1,6 +1,7 @@
 ---
 choices: Big businesses will switch from the euro to the local currency. | The economy will grow so much that it will not need a local money. | Local people will no longer need to buy supplies from other areas. | The Chiemgauer will be used in about half of the local economy.
 answerText: The Chiemgauer will be used in about half of the local economy.
+reviewed: yes
 ---
 【正解】4 The Chiemgauer will be used in about half of the local economy.（キームガウアーが地域の経済の約半分で使われるようになる。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: probability | consumption | magnificence | frequency
 answerText: consumption
+reviewed: yes
 ---
 【正解】2 consumption（消費、消費量）
 【和訳】

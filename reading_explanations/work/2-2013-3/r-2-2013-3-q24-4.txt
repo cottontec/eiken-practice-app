@@ -2,6 +2,7 @@
 choices: the shop | her | decorated | that | way
 answerText: decorated
 order: 5 4 1 3 2
+reviewed: yes
 ---
 【正解】3 decorated（この問題の4番目）
 【完成文】

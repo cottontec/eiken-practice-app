@@ -1,6 +1,7 @@
 ---
 choices: for | out | down | along
 answerText: for
+reviewed: yes
 ---
 【正解】1 for（～に賛成で）
 【和訳】

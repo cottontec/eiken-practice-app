@@ -1,6 +1,7 @@
 ---
 choices: signature | scale | priority | evidence
 answerText: priority
+reviewed: yes
 ---
 【正解】3 priority（優先、優先権）
 【和訳】

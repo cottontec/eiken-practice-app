@@ -2,6 +2,7 @@
 choices: will | in | an increase | result | the commercial
 answerText: will
 order: 5 1 4 2 3
+reviewed: yes
 ---
 【正解】1 will（この問題の2番目）
 【完成文】

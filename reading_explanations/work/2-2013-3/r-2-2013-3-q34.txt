@@ -1,6 +1,7 @@
 ---
 choices: she has been planning to cancel her insurance. | she had not been hurt badly in the accident. | the insurance company has not been very helpful. | the accident was caused by another person on a bicycle.
 answerText: she had not been hurt badly in the accident.
+reviewed: yes
 ---
 【正解】2 she had not been hurt badly in the accident.（事故でひどいけがはしなかったと）
 【和訳】

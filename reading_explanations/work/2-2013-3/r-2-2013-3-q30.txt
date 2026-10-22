@@ -1,6 +1,7 @@
 ---
 choices: By chance | On the other hand | For instance | Due to this
 answerText: Due to this
+reviewed: yes
 ---
 【正解】4 Due to this（このために）
 【和訳】

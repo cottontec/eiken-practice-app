@@ -1,6 +1,7 @@
 ---
 choices: To help professionals visit places that are far away. | To allow patients to move around more easily in hospitals. | To replace factory workers with robots that work faster. | To let salesmen show people products that are too large to carry.
 answerText: To help professionals visit places that are far away.
+reviewed: yes
 ---
 【正解】1 To help professionals visit places that are far away.（専門家が遠くの場所を訪れるのを助けるため。）
 【和訳】

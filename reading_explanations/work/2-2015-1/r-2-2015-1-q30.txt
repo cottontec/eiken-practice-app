@@ -1,0 +1,24 @@
+---
+choices: useful | strange | average | impossible
+answerText: useful
+---
+【正解】1 useful（役に立つ）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 useful：役に立つ
+2 strange：奇妙な
+3 average：平均的な
+4 impossible：不可能な
+【考え方】
+空所の文は One day in the 1990s, he realized that some of the advice he gave to companies would actually be (　) for charities.（1990年代のある日、彼は、自分が会社に与えていた助言の一部が、実は慈善団体にとって～だろうということに気づいた）です。charity は「慈善団体（困っている人を助ける活動をする団体）」です。
+そのあとの文を見ます。Together with a friend, he founded Impetus-PEF. This organization asks businesspeople to assist charities by giving them expert advice for free.（彼は友人と一緒にインペタスPEFを設立した。この団体は、ビジネスをする人々に、専門的な助言を無料で与えることで慈善団体を手助けするよう頼んでいる）とあります。
+スローンは、会社への助言を慈善団体にも生かせると気づいたからこそ、慈善団体に助言を与える団体を作ったと考えられます。useful は「役に立つ」なので、助言が慈善団体にとって役に立つ、という内容になり、あとの流れとつながります。正解は1です。
+【ほかの選択肢】
+2 strange を入れると「助言が慈善団体にとって奇妙なものだろう」となります。そう気づいたのなら、慈善団体に助言を与える団体を作るという次の文の流れと合いません。
+3 average を入れると「助言が慈善団体にとって平均的だろう」となり、意味が通りません。団体を作るきっかけにもなりません。
+4 impossible を入れると「助言が慈善団体にとって不可能だろう」となり、意味が通りません。助言を与える団体を作ったという流れとも反対です。
+【覚えるポイント】
+・be useful for ～：「～にとって役に立つ」。
+・for free：「無料で」。

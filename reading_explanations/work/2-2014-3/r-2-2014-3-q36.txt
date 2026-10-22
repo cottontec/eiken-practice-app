@@ -1,0 +1,31 @@
+---
+choices: Make her presentation longer than it was originally supposed to be. | Help Dr. Mendez announce the speakers as they come on stage. | Find someone to replace the professor who canceled his talk. | Give a speech to the other researchers during the lunch break.
+answerText: Make her presentation longer than it was originally supposed to be.
+---
+【正解】1 Make her presentation longer than it was originally supposed to be.（自分の発表を、もともとの予定よりも長くする。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：リドリー博士が頼まれていることの1つは何ですか。
+1 自分の発表を、もともとの予定よりも長くする。
+2 講演者がステージに上がるときに、メンデス博士がその人たちを紹介するのを手伝う。
+3 講演を取りやめた教授の代わりになる人を探す。
+4 昼休みの間に、ほかの研究者たちに向けてスピーチをする。
+【考え方】
+リドリー博士に頼んでいることは、メールの第3段落に書かれています。
+1文目は I said last week that you would be giving a 50-minute presentation before the lunch break.（先週、あなたには昼休みの前に50分間の発表をしていただくとお話しした）で、もともとの予定は「50分間の発表」だったと分かります。
+2文目で、午前中に特別講演をすることになっていたメンデス博士が講演を取りやめた（has canceled）と書かれています。
+3文目は To make up for his 50 minutes, we'd like you and the other speakers to add an extra 10 minutes to your presentations.（彼の50分を埋め合わせるために、あなたとほかの講演者の皆さんには、発表に追加で10分を加えていただきたい）です。make up for ～ は「～を埋め合わせる」、we'd like you to ～ は「あなたに～してもらいたい」とていねいに頼む言い方、add an extra 10 minutes は「追加で10分を加える」です。
+50分の予定だった発表に10分を加えるので、発表はもともとの予定より長くなります。
+本文と選択肢は次のように対応しています。
+本文 add an extra 10 minutes to your presentations（発表に追加で10分を加える）＝ 選択肢 Make her presentation longer（自分の発表を長くする）
+本文 I said last week that you would be giving a 50-minute presentation（先週、50分間の発表をしていただくとお話しした）→ 選択肢 than it was originally supposed to be（もともとの予定よりも）
+選択肢の be supposed to ～ は「～することになっている」、originally は「もともと、最初は」という意味です。正解は1です。
+【ほかの選択肢】
+2 メンデス博士は、講演を取りやめた教授です。リドリー博士が彼の手伝いをするとは書かれていません。ステージについて書かれているのは、リドリー博士自身が昼食後の閉会式でステージに上がることだけです。
+3 本文では、メンデス博士がいなくなった50分を、リドリー博士やほかの講演者が発表に10分を加えて埋め合わせるとしています。代わりの人を探すようには頼まれていません。
+4 リドリー博士の発表は before the lunch break（昼休みの前）です。昼休みの間にスピーチをするとは書かれていません。昼食のあとに頼まれているのは、閉会式でステージに上がることです。
+【覚えるポイント】
+・make up for ～：「～を埋め合わせる、～の不足を補う」。
+・be supposed to ～：「～することになっている」。was supposed to give a special lecture で「特別講演をすることになっていた」。

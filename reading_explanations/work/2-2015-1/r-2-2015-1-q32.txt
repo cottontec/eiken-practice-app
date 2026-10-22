@@ -1,0 +1,24 @@
+---
+choices: involved | replaced | damaged | paid
+answerText: involved
+---
+【正解】1 involved（関わった）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 involved：（be involved で）関わる、加わる
+2 replaced：取りかえられた
+3 damaged：損害を受けた、傷つけられた
+4 paid：支払われた
+【考え方】
+空所の文は Before Impetus-PEF was (　), St Giles Trust was very small.（インペタスPEFが～される前、セント・ジャイルズ・トラストはとても小さかった）です。
+これに対して、2文あとに After Impetus-PEF began giving it advice, though, it grew dramatically.（しかし、インペタスPEFが助言を与え始めてから、劇的に大きくなった）とあります。Before ～ と After ～ が対比（2つを比べて違いを示すこと）になっています。
+つまり、空所の部分は「インペタスPEFが助言を与え始める」ことと同じような内容になるはずです。be involved は「関わる、加わる」という意味で、Before Impetus-PEF was involved で「インペタスPEFが関わる前」となります。インペタスPEFがセント・ジャイルズ・トラストに関わって助言を始めた、という流れにつながるので、1が正解です。
+【ほかの選択肢】
+2 replaced を入れると「インペタスPEFが取りかえられる前」となります。インペタスPEFが何かと取りかえられたという話は本文にありません。
+3 damaged を入れると「インペタスPEFが損害を受ける前」となります。そのような話は本文になく、After のあとの「助言を与え始めてから」との対比にもなりません。
+4 paid を入れると「インペタスPEFがお金を支払われる前」となります。第1段落にあるように、インペタスPEFは助言を for free（無料で）与える団体なので、流れに合いません。
+【覚えるポイント】
+・be involved (in ～)：「（～に）関わる、加わる」。
+・Before ～ ... After ～：前と後を比べる対比の目印になります。

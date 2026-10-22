@@ -1,6 +1,7 @@
 ---
 choices: more | quite | after | yet
 answerText: yet
+reviewed: yes
 ---
 【正解】4 yet（have yet to ～ で「まだ～していない」）
 【和訳】

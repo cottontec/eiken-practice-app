@@ -1,6 +1,7 @@
 ---
 choices: stolen | steal | to steal | stealing
 answerText: stolen
+reviewed: yes
 ---
 【正解】1 stolen（have ＋ もの ＋ stolen で「ものを盗まれる」）
 【和訳】

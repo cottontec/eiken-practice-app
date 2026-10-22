@@ -1,6 +1,7 @@
 ---
 choices: He needs to check how much money the hospital received. | He thinks the hospital stay cannot be paid for by the insurance. | Ms. Kaufmann does not have the receipt from her visit. | Ms. Kaufmann's bicycle is still in front of the hospital.
 answerText: He needs to check how much money the hospital received.
+reviewed: yes
 ---
 【正解】1 He needs to check how much money the hospital received.（彼は、病院がいくらお金を受け取ったかを確認する必要がある。）
 【和訳】

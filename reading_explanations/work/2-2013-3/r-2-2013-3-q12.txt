@@ -1,6 +1,7 @@
 ---
 choices: by | on | in | at
 answerText: by
+reviewed: yes
 ---
 【正解】1 by（by way of ～ で「～経由で」）
 【和訳】

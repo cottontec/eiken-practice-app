@@ -2,6 +2,7 @@
 choices: other | compared | Alice | to | Japanese
 answerText: compared
 order: 3 2 5 4 1
+reviewed: yes
 ---
 【正解】2 compared（この問題の2番目）
 【完成文】

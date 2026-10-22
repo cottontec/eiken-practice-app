@@ -1,6 +1,7 @@
 ---
 choices: Whenever | Otherwise | Moreover | Afterward
 answerText: Afterward
+reviewed: yes
 ---
 【正解】4 Afterward（そのあとで）
 【和訳】

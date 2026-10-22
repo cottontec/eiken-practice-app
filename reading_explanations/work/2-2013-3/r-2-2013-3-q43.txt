@@ -1,6 +1,7 @@
 ---
 choices: a part of the money they pay is given to charities in the area. | the money they spend is used by the government to support the euro. | they are charged a fee of 5 percent that goes to local businesses. | they are given one week to spend their money in local shops.
 answerText: a part of the money they pay is given to charities in the area.
+reviewed: yes
 ---
 【正解】1 a part of the money they pay is given to charities in the area.（払ったお金の一部が地域の慈善団体に渡される。）
 【和訳】

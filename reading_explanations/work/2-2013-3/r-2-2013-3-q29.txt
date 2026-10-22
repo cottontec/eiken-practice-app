@@ -1,6 +1,7 @@
 ---
 choices: regret | research | donate | correct
 answerText: donate
+reviewed: yes
 ---
 【正解】3 donate（寄付する）
 【和訳】

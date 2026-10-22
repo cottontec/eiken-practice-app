@@ -1,6 +1,7 @@
 ---
 choices: see what is going on outside while they are at school. | connect to the Internet and write their opinions online. | take part in classes together with other students. | move from room to room within their own homes.
 answerText: take part in classes together with other students.
+reviewed: yes
 ---
 【正解】3 take part in classes together with other students.（ほかの生徒たちといっしょに授業に参加すること）
 【和訳】

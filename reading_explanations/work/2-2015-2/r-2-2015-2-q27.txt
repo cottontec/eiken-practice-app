@@ -1,0 +1,25 @@
+---
+choices: dangerous | attractive | unenjoyable | steady
+answerText: dangerous
+---
+【正解】1 dangerous（危険な）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 dangerous：危険な
+2 attractive：魅力的な
+3 unenjoyable：楽しめない、おもしろくない
+4 steady：安定した、着実な
+【考え方】
+空所の文は Many people also think that the food produced using modern farming methods is (　).（多くの人々はさらに、現代の農業の方法を使って作られた食料は（　）だとも考えている）です。
+この段落では、田舎の農業についての心配が順に書かれています。まず modern farming methods, which use many chemicals, are damaging nature（化学物質をたくさん使う現代の農業の方法は、自然を傷つけている）とあります。chemicals は「化学物質」です。
+空所のあとの文に注目します。They want to grow vegetables and raise animals themselves, because they can be sure that the food they eat does not contain any chemicals that may harm their bodies.（彼らは野菜を育てたり動物を飼ったりすることを自分たちでしたい。なぜなら、自分が食べる食料に、体に害を与えるかもしれない化学物質が一切含まれていないと確信できるからだ）とあります。harm は「害を与える」です。
+人々は、現代の方法で作られた食料には体に害のある化学物質が含まれているかもしれない、と心配していることが分かります。ですから、そうした食料を「危険だ」と考えている、とするのが自然です。正解は1です。
+【ほかの選択肢】
+2 attractive は「魅力的な」です。入れると「現代の方法で作られた食料は魅力的だと考えている」となりますが、そのあとで人々は化学物質を心配して自分で育てたいと言っているので、反対の内容になってしまいます。
+3 unenjoyable は「楽しめない、おもしろくない」です。あとの文で心配しているのは、化学物質が体に害を与えるかどうかです。食べて楽しいかどうかの話ではないので合いません。
+4 steady は「安定した、着実な」です。「食料が安定している」となり、化学物質への心配という流れとつながりません。
+【覚えるポイント】
+・harm ～：「～に害を与える」。名詞では「害」という意味です。
+・be sure that ～：「～ということを確信している」。
