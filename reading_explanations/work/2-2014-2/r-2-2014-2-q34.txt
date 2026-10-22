@@ -1,0 +1,29 @@
+---
+choices: wants to write a book on how to raise money for charity. | volunteers at a library to help students with their homework. | works for an organization that helps children learn to read. | is looking for some teachers to work at schools in rural areas.
+answerText: works for an organization that helps children learn to read.
+---
+【正解】3 works for an organization that helps children learn to read.（子どもたちが読むことを学ぶのを手助けする団体で働いている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：サラ・ハンターは、自分が～と言っている。
+1 慈善活動（困っている人を助ける活動）のためのお金の集め方について、本を書きたいと思っている。
+2 図書館でボランティアをして、生徒たちの宿題を手伝っている。
+3 子どもたちが読むことを学ぶのを手助けする団体で働いている。
+4 農村地域の学校で働く先生を何人か探している。
+【考え方】
+サラ・ハンターが自分について述べているのは、Eメールの第1段落です。
+My name is Sarah Hunter, and I am the managing director at Books-for-All, an organization that helps improve the reading skills of children around the world.（私はサラ・ハンターで、世界中の子どもたちの読む力を伸ばす手助けをしている団体、ブックス・フォー・オールの運営責任者をしている）とあります。managing director は「運営責任者」、reading skills は「読む力」です。
+さらに、We send volunteers to rural areas in developing countries to teach children how to read and write.（私たちは、発展途上国の農村地域にボランティアを送り、子どもたちに読み書きを教えている）とも書かれています。
+本文と選択肢を対にすると、次のようになります。
+本文 I am the managing director at Books-for-All, an organization …（団体の運営責任者をしている）→ 選択肢 works for an organization（団体で働いている）
+本文 helps improve the reading skills of children（子どもたちの読む力を伸ばす手助けをする）→ 選択肢 helps children learn to read（子どもたちが読むことを学ぶのを手助けする）
+運営責任者としてその団体で働いているので、works for an organization と言いかえることができます。正解は3です。
+【ほかの選択肢】
+1 本文の raises money（お金を集める）は、図書館を建てるために団体がお金を集めているという話です。お金の集め方について本を書きたいとは、どこにも書かれていません。
+2 サラ・ハンターは団体の運営責任者です。図書館でボランティアをして宿題を手伝っているとは書かれていません。
+4 本文では、農村地域に「ボランティアを送っている」と書かれていますが、学校で働く先生を探しているとは書かれていません。
+【覚えるポイント】
+・managing director：「運営責任者」。work for ～ は「～（の会社や団体）で働く」。
+・help 人 ～（動詞の元の形）：「人が～するのを手助けする」。help children learn to read で「子どもたちが読むことを学ぶのを手助けする」。

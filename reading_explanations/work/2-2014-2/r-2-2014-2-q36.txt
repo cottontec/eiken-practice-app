@@ -1,0 +1,29 @@
+---
+choices: Explain how people can help with his organization's activities. | Give a lecture to managers about library-building projects. | Answer questions that people have about the organization. | Record a video of a lecture which will be shown at an event.
+answerText: Explain how people can help with his organization's activities.
+---
+【正解】1 Explain how people can help with his organization's activities.（人々がどのように彼の団体の活動を手伝えるかを説明する。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ジョー・プラットがウェストン・コミュニティーセンターですることの1つは何ですか。
+1 人々がどのように彼の団体の活動を手伝えるかを説明する。
+2 図書館建設のプロジェクトについて、管理職の人たちに講義をする。
+3 人々が団体について持っている質問に答える。
+4 催しで上映される講義のビデオを撮影する。
+【考え方】
+ジョー・プラットについては、第3段落に書かれています。
+まず、The collection will be held from 10 a.m. to 5 p.m. at the Weston Community Center.（収集会は午前10時から午後5時まで、ウェストン・コミュニティーセンターで行われる）とあり、催しの場所がウェストン・コミュニティーセンターだと分かります。
+続いて、Also at the event, Joe Pratt, the program manager of our library projects, will show a video and give a presentation about how people can volunteer with Books-for-All.（また、この催しでは、図書館プロジェクトの事業責任者であるジョー・プラットが、ビデオを上映し、人々がブックス・フォー・オールでボランティアをする方法について発表を行う）とあります。give a presentation は「発表をする」、volunteer は「ボランティアをする（自分から進んで手伝う）」です。
+本文と選択肢を対にすると、次のようになります。
+本文 give a presentation about ～（～について発表をする）→ 選択肢 Explain ～（～を説明する）
+本文 how people can volunteer with Books-for-All（人々がブックス・フォー・オールでボランティアをする方法）→ 選択肢 how people can help with his organization's activities（人々がどのように彼の団体の活動を手伝えるか）
+ボランティアをすることは、団体の活動を手伝うことにあたります。正解は1です。
+【ほかの選択肢】
+2 ジョー・プラットの肩書き（仕事の上での立場）は program manager（事業責任者）ですが、管理職の人たちに向けて講義をするとは書かれていません。発表の内容も、ボランティアのしかたについてで、図書館建設のプロジェクトについてではありません。
+3 本文の questions（質問）は、Eメールの最後の Please contact me if you … have any questions.（質問があれば私に連絡してください）に出てきます。これはサラ・ハンターが編集者に向けて言っていることで、ジョー・プラットが会場で人々の質問に答えるとは書かれていません。
+4 ジョー・プラットはビデオを show（上映する）と書かれていますが、講義のビデオを撮影する（record）とは書かれていません。
+【覚えるポイント】
+・give a presentation about ～：「～について発表をする」。
+・volunteer with ～：「～（の団体）でボランティアをする」。
