@@ -1,0 +1,31 @@
+---
+choices: smooth over | burn out | give off | cross out
+answerText: cross out
+---
+【正解】4 cross out（線を引いて消す）
+【和訳】
+（英文）
+A: I've made a list of people to invite to our wedding party, but it's much too long.
+B: Well, let's ［cross out］ the people we don't know so well and invite the ones who are left.
+（訳）
+A：私たちの結婚パーティーに招待する人のリストを作ったけれど、あまりにも長すぎるよ。
+B：それなら、あまりよく知らない人たちを（線を引いて消して）、残った人たちを招待しよう。
+（選択肢の意味）
+1 smooth over：（問題やもめごとを）丸くおさめる、取りつくろう
+2 burn out：燃えつきる；（働きすぎて）疲れ果てる
+3 give off：（におい・熱・光などを）出す
+4 cross out：（線を引いて）消す
+【考え方】
+まず見るところ：Aの it's much too long と、Bの最後の invite the ones who are left
+Aは、招待する人のリストが長すぎると困っています。much too long は「あまりにも長すぎる」という意味です。
+Bは、リストを短くする方法を提案しています。
+let's (　) the people we don't know so well and invite the ones who are left（あまりよく知らない人たちを（　）、残った人たちを招待しよう）
+the ones who are left は「残った人たち」です。残る人がいるということは、その前にリストから何人かを消すということです。cross out は「線を引いて消す」という意味で、リストから名前を消すことを表せるので、4が正解です。
+この問題の型：語の意味・組み合わせ（list から cross out する → the ones who are left）
+【ほかの選択肢】
+1 smooth over は「（もめごとを）丸くおさめる」です。「よく知らない人たちを丸くおさめる」では、リストを短くする話になりません。
+2 burn out は「燃えつきる、疲れ果てる」です。「よく知らない人たちを燃えつきさせる」となり、意味が通りません。
+3 give off は「（においや熱を）出す」です。「よく知らない人たちを出す」では、リストから消して残った人を招待するという流れになりません。
+【覚えるポイント】
+・cross out ～：「～を線を引いて消す」。リストや書いた文字を消すときに使います。
+・提案の文の後半に the ones who are left（残った人たち）のような「残り」を表す言葉があるときは、前半に「取り除く、消す」意味の語句が入ると考えるのが手がかりになります。
