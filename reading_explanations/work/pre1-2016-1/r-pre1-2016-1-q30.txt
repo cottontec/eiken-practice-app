@@ -1,6 +1,7 @@
 ---
 choices: giving a warning to other plants | providing food for other plants | spreading its seeds | trying to defend itself
 answerText: trying to defend itself
+reviewed: yes
 ---
 【正解】4 trying to defend itself（自分の身を守ろうとしている）
 【和訳】

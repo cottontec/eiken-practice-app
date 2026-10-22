@@ -1,6 +1,7 @@
 ---
 choices: invalid | offensive | unstable | enclosed
 answerText: invalid
+reviewed: yes
 ---
 【正解】1 invalid（無効な）
 【和訳】

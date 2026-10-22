@@ -1,6 +1,7 @@
 ---
 choices: span | sphere | token | curb
 answerText: token
+reviewed: yes
 ---
 【正解】3 token（しるし）
 【和訳】

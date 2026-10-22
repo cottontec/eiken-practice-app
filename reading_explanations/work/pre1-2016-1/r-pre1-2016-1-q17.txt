@@ -1,6 +1,7 @@
 ---
 choices: depicted | disguised | nourished | raided
 answerText: raided
+reviewed: yes
 ---
 【正解】4 raided（〔警察が〕強制捜査に入った、急に踏み込んだ）
 【和訳】

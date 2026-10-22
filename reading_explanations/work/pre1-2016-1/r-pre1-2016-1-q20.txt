@@ -1,6 +1,7 @@
 ---
 choices: harass | restrain | forge | sweep
 answerText: forge
+reviewed: yes
 ---
 【正解】3 forge（〔関係などを〕築く）
 【和訳】

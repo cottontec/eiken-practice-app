@@ -1,6 +1,7 @@
 ---
 choices: Using surgery to treat type 2 diabetes might discourage people from making lifestyle choices that could prevent the disease. | Referring to the increase in type 2 diabetes cases as a crisis could negatively affect the mind-set of people who suffer from it. | Surgery has been proven to be less effective in treating obesity-related diseases than Dr. David Haslam claims it is. | Encouraging surgery to treat weight loss could lead to shortages of operating rooms for patients with medical emergencies.
 answerText: Using surgery to treat type 2 diabetes might discourage people from making lifestyle choices that could prevent the disease.
+reviewed: yes
 ---
 【正解】1 Using surgery to treat type 2 diabetes might discourage people from making lifestyle choices that could prevent the disease.（2型糖尿病を治療するために手術を使うと、人々が、その病気を防ぐことができる生活習慣を選ばなくなってしまうかもしれない。）
 【和訳】

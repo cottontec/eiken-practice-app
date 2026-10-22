@@ -1,6 +1,7 @@
 ---
 choices: Museum visitors become upset if they feel that their access to the artworks on display is being limited. | Fewer people visit the museums because the public is reminded that museums can be targets for criminals. | Improvements in the equipment used by thieves have made it harder for security systems to detect them. | Some kinds of technology used in security systems can cause damage to the artworks they are supposed to protect.
 answerText: Museum visitors become upset if they feel that their access to the artworks on display is being limited.
+reviewed: yes
 ---
 【正解】1 Museum visitors become upset if they feel that their access to the artworks on display is being limited.（美術館の来館者は、展示されている美術品に近づくことが制限されていると感じると、気分を害する。）
 【和訳】

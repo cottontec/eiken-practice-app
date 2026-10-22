@@ -1,6 +1,7 @@
 ---
 choices: hold out | pull through | draw on | mark down
 answerText: draw on
+reviewed: yes
 ---
 【正解】3 draw on（〔知識や経験などを〕生かす、利用する）
 【和訳】

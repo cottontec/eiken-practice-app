@@ -1,6 +1,7 @@
 ---
 choices: the public was opposed to the government giving funding to schools to promote women's athletics. | there was widespread concern that its focus on sports would lower the quality of math and science programs. | its main goal was to ensure that females and males were given the same chances in the classroom. | most schools were opposed to it because they did not want to have their budgets for athletics cut.
 answerText: its main goal was to ensure that females and males were given the same chances in the classroom.
+reviewed: yes
 ---
 【正解】3 its main goal was to ensure that females and males were given the same chances in the classroom.（その主な目的は、女子と男子が教室で同じ機会を与えられるようにすることだった。）
 【和訳】

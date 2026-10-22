@@ -1,6 +1,7 @@
 ---
 choices: increase will be gradual | law is often ignored | city will give businesses money | economy has improved so much
 answerText: increase will be gradual
+reviewed: yes
 ---
 【正解】1 increase will be gradual（〔the と合わせて〕引き上げは段階的に行われる）
 【和訳】

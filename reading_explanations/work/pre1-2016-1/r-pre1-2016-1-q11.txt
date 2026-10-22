@@ -1,6 +1,7 @@
 ---
 choices: flap | dock | scratch | bid
 answerText: bid
+reviewed: yes
 ---
 【正解】4 bid（試み、努力）
 【和訳】

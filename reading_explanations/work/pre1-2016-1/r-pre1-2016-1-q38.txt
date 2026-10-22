@@ -1,6 +1,7 @@
 ---
 choices: type 2 diabetes in children may be caused by kidney and liver problems rather than by having a high percentage of body fat. | obese adolescents who undergo surgery instead of a diet and exercise program are more likely to die young. | the symptoms of type 2 diabetes are less serious in children than they are in adults who develop the disease. | early death from certain medical conditions is linked to being severely overweight as an adolescent.
 answerText: early death from certain medical conditions is linked to being severely overweight as an adolescent.
+reviewed: yes
 ---
 【正解】4 early death from certain medical conditions is linked to being severely overweight as an adolescent.（ある種の病気による早死には、青年期にひどく太りすぎていることと関係がある。）
 【和訳】

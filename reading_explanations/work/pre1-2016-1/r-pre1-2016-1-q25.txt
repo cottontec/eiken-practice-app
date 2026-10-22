@@ -1,6 +1,7 @@
 ---
 choices: pull back | shake up | send for | tear down
 answerText: tear down
+reviewed: yes
 ---
 【正解】4 tear down（〔建物などを〕取り壊す）
 【和訳】

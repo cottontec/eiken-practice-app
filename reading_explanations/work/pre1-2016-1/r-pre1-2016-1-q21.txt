@@ -1,6 +1,7 @@
 ---
 choices: tender | conditional | sturdy | imperfect
 answerText: conditional
+reviewed: yes
 ---
 【正解】2 conditional（条件つきの）
 【和訳】

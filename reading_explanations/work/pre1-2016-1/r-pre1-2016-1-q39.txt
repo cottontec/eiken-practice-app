@@ -1,6 +1,7 @@
 ---
 choices: Adolescents who have been unsuccessful in losing weight in the past generally have poor results with bariatric surgery. | Adolescents who have bariatric surgery tend to show significantly reduced fitness levels after the operation. | Bariatric surgery is more effective than only making lifestyle changes for adolescents who are attempting to lose weight. | Bariatric surgery can successfully reduce appetite in adolescents, but patients tend to start gaining weight again after two years.
 answerText: Bariatric surgery is more effective than only making lifestyle changes for adolescents who are attempting to lose weight.
+reviewed: yes
 ---
 【正解】3 Bariatric surgery is more effective than only making lifestyle changes for adolescents who are attempting to lose weight.（体重を減らそうとしている青年にとって、肥満外科手術は、生活習慣を変えるだけよりも効果がある。）
 【和訳】

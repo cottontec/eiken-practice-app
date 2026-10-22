@@ -1,6 +1,7 @@
 ---
 choices: led a number of states to consider passing a law that guarantees women the right to play on men's sports teams. | helped women remain healthy long after they have graduated from high school or college. | improved overall education levels, even in certain states where access to athletics is still limited. | had a major impact on society because it has helped a large number of women find jobs.
 answerText: had a major impact on society because it has helped a large number of women find jobs.
+reviewed: yes
 ---
 【正解】4 had a major impact on society because it has helped a large number of women find jobs.（多くの女性が仕事を見つけるのを助けてきたので、社会に大きな影響を与えてきた。）
 【和訳】

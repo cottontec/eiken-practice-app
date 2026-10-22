@@ -1,6 +1,7 @@
 ---
 choices: museum employees often hesitate to report missing items out of fear that they will be accused of stealing. | statistics on theft vary depending on the type of museum and the importance of its collections. | museums change exhibits so regularly that it is difficult for workers to keep track of smaller works of art. | thefts often go undiscovered as they are usually committed by people who work at the institutions that own the pieces.
 answerText: thefts often go undiscovered as they are usually committed by people who work at the institutions that own the pieces.
+reviewed: yes
 ---
 【正解】4 thefts often go undiscovered as they are usually committed by people who work at the institutions that own the pieces.（盗難は、たいていその品物を所有する施設で働く人によって行われるので、気づかれないままであることが多い。）
 【和訳】

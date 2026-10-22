@@ -1,6 +1,7 @@
 ---
 choices: massive | earnest | assured | captive
 answerText: captive
+reviewed: yes
 ---
 【正解】4 captive（とらわれた、捕虜になった）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: Further surgeries actually did little to increase patients' chances of losing a significant amount of weight. | Because the silicone bands are not designed to be long-lasting, it is no surprise that patients needed more than one operation. | The surgery did not improve important health indicators as much as had been originally predicted. | Those in the lifestyle-change group were able to improve certain aspects of their health without the dangers of surgery.
 answerText: Those in the lifestyle-change group were able to improve certain aspects of their health without the dangers of surgery.
+reviewed: yes
 ---
 【正解】4 Those in the lifestyle-change group were able to improve certain aspects of their health without the dangers of surgery.（生活習慣改善グループの人たちは、手術の危険なしに、健康のある面を改善することができた。）
 【和訳】

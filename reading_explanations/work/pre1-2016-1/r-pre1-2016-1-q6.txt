@@ -1,6 +1,7 @@
 ---
 choices: disturbance | consequence | deduction | commencement
 answerText: disturbance
+reviewed: yes
 ---
 【正解】1 disturbance（騒ぎ、騒動）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: For instance | In addition to this | Therefore | Contrary to this
 answerText: Therefore
+reviewed: yes
 ---
 【正解】3 Therefore（したがって、それゆえ）
 【和訳】

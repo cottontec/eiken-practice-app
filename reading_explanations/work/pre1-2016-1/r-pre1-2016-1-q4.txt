@@ -1,6 +1,7 @@
 ---
 choices: inanimate | infectious | crooked | prompt
 answerText: infectious
+reviewed: yes
 ---
 【正解】2 infectious（人にうつりやすい、周りに広がりやすい）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: how the sticky tips are produced | why the plant kills insects | how insects avoid it | what the trichomes are made of
 answerText: why the plant kills insects
+reviewed: yes
 ---
 【正解】2 why the plant kills insects（なぜその植物が昆虫を殺すのか）
 【和訳】

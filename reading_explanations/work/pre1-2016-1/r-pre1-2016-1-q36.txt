@@ -1,6 +1,7 @@
 ---
 choices: It was a legal battle between schools and the US government that led to more opportunities for female athletes. | It contributed to a national trend that led the US government to change its interpretation of Title IX. | It made people acknowledge that if a woman could defeat a man in a sporting event, women could also excel in academics. | It demonstrated that the lack of adequate training facilities had been having a negative effect on female athletes' abilities.
 answerText: It contributed to a national trend that led the US government to change its interpretation of Title IX.
+reviewed: yes
 ---
 【正解】2 It contributed to a national trend that led the US government to change its interpretation of Title IX.（それは、アメリカ政府がタイトル・ナインの解釈を変えることにつながった全国的な流れに一役買った。）
 【和訳】

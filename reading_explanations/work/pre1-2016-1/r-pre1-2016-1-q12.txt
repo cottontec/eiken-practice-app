@@ -1,6 +1,7 @@
 ---
 choices: conceal | convince | contemplate | conclude
 answerText: convince
+reviewed: yes
 ---
 【正解】2 convince（説得する、納得させる）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: overrate | outsource | overthrow | outline
 answerText: overthrow
+reviewed: yes
 ---
 【正解】3 overthrow（〔政府などを〕倒す、転覆させる）
 【和訳】

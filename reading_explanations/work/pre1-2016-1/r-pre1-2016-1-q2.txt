@@ -1,6 +1,7 @@
 ---
 choices: withered | shrugged | growled | steered
 answerText: withered
+reviewed: yes
 ---
 【正解】1 withered（しおれた）
 【和訳】

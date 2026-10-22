@@ -1,6 +1,7 @@
 ---
 choices: extension | autopsy | adoption | itinerary
 answerText: autopsy
+reviewed: yes
 ---
 【正解】2 autopsy（検死解剖）
 【和訳】

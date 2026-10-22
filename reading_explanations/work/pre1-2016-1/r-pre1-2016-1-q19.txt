@@ -1,6 +1,7 @@
 ---
 choices: superior | fragile | reluctant | intact
 answerText: reluctant
+reviewed: yes
 ---
 【正解】3 reluctant（気が進まない、乗り気でない）
 【和訳】

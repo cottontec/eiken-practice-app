@@ -1,0 +1,32 @@
+---
+choices: overdue | blurry | consecutive | plural
+answerText: overdue
+---
+【正解】1 overdue（遅すぎる、予定や期限より遅れた）
+【和訳】
+（英文）
+A: I know this apology is ［overdue］, but I want to say that I'm sorry for being so rude to you last week.
+B: Thank you, but I wish you'd said something earlier.
+（訳）
+A：この謝罪が（遅すぎる）ことは分かっているけれど、先週あなたにひどく失礼な態度をとったことを謝りたいと思って。
+B：ありがとう。でも、もっと早く何か言ってくれたらよかったのに。
+（選択肢の意味）
+1 overdue：遅すぎる、予定や期限より遅れた
+2 blurry：ぼやけた、はっきりしない
+3 consecutive：連続した
+4 plural：複数の
+【考え方】
+まず見るところ：Bの I wish you'd said something earlier.
+Aは、先週の失礼な態度を謝っています。空所は「この謝罪は〇〇だと分かっている」の部分です。
+Bの答えを見ます。
+Thank you, but I wish you'd said something earlier.（ありがとう。でも、もっと早く何か言ってくれたらよかったのに）
+I wish you'd (＝ you had) said ～ は「（実際には言わなかったが）言ってくれたらよかったのに」という意味です。earlier は「（今よりも）もっと早く」です。Bは、謝るのが遅かったと感じています。
+Aも、自分の謝罪が遅れていることを分かっていて、そのうえで謝っていると考えられます。overdue は「遅すぎる、期限より遅れた」なので、1が正解です。
+この問題の型：語の意味・組み合わせ（overdue と earlier が同じ「遅さ」を表す）
+【ほかの選択肢】
+2 blurry は「ぼやけた」です。「この謝罪はぼやけている」では、Bの「もっと早く言ってほしかった」という返事とつながりません。
+3 consecutive は「連続した」です。謝罪が続いているという話はなく、Bの返事とも合いません。
+4 plural は「複数の」で、ふつうは文法で名詞の数について使う語です。「この謝罪は複数だ」では意味が通りません。
+【覚えるポイント】
+・overdue：「遅すぎる、期限が過ぎた」。apology：「謝罪」。I wish you'd said ～：「～と言ってくれたらよかったのに」。
+・会話の空所は、相手の返事（ここでは earlier：もっと早く）が、何について話しているかを決める手がかりになります。

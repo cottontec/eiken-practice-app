@@ -1,6 +1,7 @@
 ---
 choices: wreck | forsake | prevail | ascertain
 answerText: ascertain
+reviewed: yes
 ---
 【正解】4 ascertain（確かめる、突き止める）
 【和訳】

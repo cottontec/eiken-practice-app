@@ -1,6 +1,7 @@
 ---
 choices: refugee | tenant | minor | bachelor
 answerText: minor
+reviewed: yes
 ---
 【正解】3 minor（未成年者）
 【和訳】

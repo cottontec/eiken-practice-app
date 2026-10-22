@@ -1,6 +1,7 @@
 ---
 choices: preference | quote | discourse | circuit
 answerText: quote
+reviewed: yes
 ---
 【正解】2 quote（見積もり、見積額）
 【和訳】

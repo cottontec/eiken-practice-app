@@ -1,6 +1,7 @@
 ---
 choices: hasty | striking | tragic | towering
 answerText: hasty
+reviewed: yes
 ---
 【正解】1 hasty（急いだ、あわただしい）
 【和訳】

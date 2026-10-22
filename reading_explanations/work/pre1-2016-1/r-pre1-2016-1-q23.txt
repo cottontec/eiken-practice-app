@@ -1,6 +1,7 @@
 ---
 choices: touch up | wash down | dream up | get around
 answerText: get around
+reviewed: yes
 ---
 【正解】4 get around（動き回る、出歩く）
 【和訳】

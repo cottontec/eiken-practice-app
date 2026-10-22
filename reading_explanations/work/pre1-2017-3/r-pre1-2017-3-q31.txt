@@ -1,0 +1,30 @@
+---
+choices: has hurt the government's popularity | could affect growth in the future | has come with a hidden benefit | shows signs of improving
+answerText: could affect growth in the future
+---
+【正解】2 could affect growth in the future（将来の成長に影響するかもしれない）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 has hurt the government's popularity（政府の人気を落としてきた）
+2 could affect growth in the future（将来の成長に影響するかもしれない）
+3 has come with a hidden benefit（隠れた利点をもたらしてきた）
+4 shows signs of improving（改善のきざしを見せている）
+【考え方】
+まず見るところ：第3段落の最後の文 If Gurugram fails to follow Singapore's example, it seems its economic miracle may not last very long.
+空所の文の The situation Gurugram now faces（グルグラムが今直面している状況）は、第2段落で説明された、公共サービスが足りない状況のことです。その状況がどうなのかを、第3段落が説明しています。
+まず、シンガポールとの比較が出てきます。
+However, Singapore's economic miracle was the result of significant efforts to develop a healthy, educated workforce and stable public services that are available to both rich and poor residents alike.（しかし、シンガポールの経済的な奇跡は、健康で教育を受けた労働力と、豊かな住民にも貧しい住民にも同じように利用できる安定した公共サービスを育てるための、大きな努力の結果だった）
+workforce は「労働力（働く人々全体）」です。シンガポールが成功したのは、健康で教育を受けた労働力と、豊かな人も貧しい人も使える公共サービスを育てる努力をしたからだ、と言っています。これは、公共サービスが足りないグルグラムと反対です。
+そして最後の文で、次のようにまとめています。
+If Gurugram fails to follow Singapore's example, it seems its economic miracle may not last very long.（グルグラムがシンガポールの例にならうことができなければ、その経済的な奇跡はあまり長く続かないかもしれないと思われる）
+今の状況のままでは、経済の成長が続かないかもしれない、ということです。これは「将来の成長に影響するかもしれない」と同じ方向の内容なので、2が正解です。
+この問題の型：推論（シンガポールとの比較→今の状況のままでは成長が続かないかもしれない）
+【ほかの選択肢】
+1 「政府の人気を落としてきた」は、本文に根拠がありません。第3段落では、政府の人気については何も書かれておらず、話題は経済の成長が続くかどうかです。
+3 「隠れた利点をもたらしてきた」は、第3段落の内容と合いません。第3段落は今の状況のせいで経済的な奇跡が長く続かないかもしれないと述べており、利点の話ではありません。開発の遅れが有利に働いたという話は第1段落に書かれた以前のことで、「今直面している状況」とはちがいます。
+4 「改善のきざしを見せている」は、本文に根拠がありません。第2段落では、公共サービスの代わりの解決策を使えるのは一部の企業や裕福な住民だけだと書かれており、状況がよくなっているとは述べられていません。
+【覚えるポイント】
+・If ～ fails to ...：「もし～が…できなければ」。条件の文の後ろに悪い結果（may not last very long）が書かれているときは、今のままでは問題があるという筆者の考えを表しています。
+・段落の最初の文に空所があるときは、その段落の最後の文がまとめになっていることが多いので、最後の文を先に読むのが手がかりになります。

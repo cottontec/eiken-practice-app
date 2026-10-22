@@ -1,6 +1,7 @@
 ---
 choices: pushing for | letting down | giving off | driving up
 answerText: pushing for
+reviewed: yes
 ---
 【正解】1 pushing for（～を強く求めて）
 【和訳】

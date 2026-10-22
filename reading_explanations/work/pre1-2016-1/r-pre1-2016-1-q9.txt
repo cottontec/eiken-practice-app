@@ -1,6 +1,7 @@
 ---
 choices: upcoming | forthcoming | spacious | peculiar
 answerText: forthcoming
+reviewed: yes
 ---
 【正解】2 forthcoming（〔人が〕進んで話す、協力的な）
 【和訳】

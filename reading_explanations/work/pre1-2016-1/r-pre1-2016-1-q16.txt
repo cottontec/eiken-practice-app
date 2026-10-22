@@ -1,6 +1,7 @@
 ---
 choices: disconnect | irrigate | bypass | counter
 answerText: irrigate
+reviewed: yes
 ---
 【正解】2 irrigate（〔土地や作物に〕水を引く、かんがいする）
 【和訳】

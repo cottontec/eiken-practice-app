@@ -1,6 +1,7 @@
 ---
 choices: prove the raise was unnecessary | make up for increased labor costs | cause problems for the economy | force people to obey the law
 answerText: make up for increased labor costs
+reviewed: yes
 ---
 【正解】2 make up for increased labor costs（増えた人件費を埋め合わせる）
 【和訳】
