@@ -1,0 +1,26 @@
+---
+choices: confusing | pleasant | foolish | public
+answerText: pleasant
+---
+【正解】2 pleasant（楽しい、心地よい）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 confusing：分かりにくい、混乱させる
+2 pleasant：楽しい、心地よい
+3 foolish：ばかげた
+4 public：公共の、公の
+【考え方】
+空所は第3段落の But he said that the experience at the station had been quite (　).（しかし彼は、基地での経験はとても（　）だったと言った）にあります。he は、MDRSに滞在した研究者のフィリップ・クニオです。
+まず、空所の前の文を見ます。He said that he was surprised by how much time he spent doing daily chores.（毎日の家事にどれほど多くの時間を使ったかに驚いたと言った）とあります。chores は「家事、毎日の決まった仕事」です。家事に時間をとられたというのは、少しよくない感想です。
+次の文は But（しかし）で始まっているので、その反対の、よい感想がくると予想できます。
+さらに、空所のあとの文 In fact, he said that he would not mind moving to Mars permanently in the future.（実際、彼は、将来火星に永住することになってもかまわないと言った）が決め手です。would not mind ～ing は「～してもかまわない」という意味です。火星に住んでもいいと思うほど、基地での生活が気に入ったのです。
+pleasant は「楽しい、心地よい」という意味なので、正解は2です。
+【ほかの選択肢】
+1 confusing は「分かりにくい、混乱させる」です。but のあとのよい感想にならず、火星に住んでもかまわないという次の文とも合いません。
+3 foolish は「ばかげた」です。ばかげた経験だと思ったなら、火星に住んでもかまわないとは言わないはずで、次の文と合いません。
+4 public は「公共の、公の」です。経験が「公共のものだった」では、クニオの感想として意味が通りません。
+【覚えるポイント】
+・would not mind ～ing：「～してもかまわない」。
+・In fact：「実際」。前の文の内容を、さらに強める具体的な話を続けるときに使います。

@@ -1,0 +1,28 @@
+---
+choices: called Mr. Bradstock to talk about his book. | interviewed a novelist on his television show. | read a mystery novel written by Kate Stevens. | said that he had enjoyed The Carrington Affair.
+answerText: said that he had enjoyed The Carrington Affair.
+---
+【正解】4 said that he had enjoyed The Carrington Affair.（『カリントン事件』を楽しんで読んだと言った。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：昨日、マーティン・ジョーンズは
+1 本について話すために、ブラッドストック氏に電話をかけた。
+2 自分のテレビ番組で、ある小説家にインタビューをした。
+3 ケイト・スティーブンスが書いた推理小説を読んだ。
+4 『カリントン事件』を楽しんで読んだと言った。
+【考え方】
+まず、このメールを書いたのはケイト・スティーブンス（番組のプロデューサー）で、受け取ったのはジョセフ・ブラッドストック（本の著者）だと確認します。マーティン・ジョーンズは番組の司会者で、メールの中では「彼」として話題に出てくる人です。
+設問は「昨日」のマーティンについてたずねています。第1段落の初めに It was nice to talk to you on the telephone yesterday.（昨日はお電話でお話しできてうれしかった）とあり、昨日ケイトとブラッドストック氏が電話で話したことが分かります。
+そのすぐあとに After we spoke, Martin told me that he was looking forward to talking to you about your book, The Carrington Affair. He said it was the best mystery novel he had read for a long time.（私たちが話したあと、マーティンは私に、あなたの本『カリントン事件』についてあなたと話すのを楽しみにしていると言った。彼は、それがここしばらくの間に読んだ中でいちばんよい推理小説だったと言った）とあります。電話のあとにマーティンがこう言ったと書かれており、選択肢の中でマーティンの昨日の行動として本文に合うのはこの内容です。
+本文と選択肢は次のように対応しています。
+本文 He said it was the best mystery novel he had read for a long time（ここしばらくで読んだ中でいちばんよい推理小説だと言った）＝ 選択肢 said that he had enjoyed The Carrington Affair（『カリントン事件』を楽しんで読んだと言った）
+「いちばんよい推理小説だった」と言っているのですから、その本を楽しんで読んだということです。正解は4です。
+【ほかの選択肢】
+1 昨日ブラッドストック氏と電話で話したのは、メールを書いたケイトです。マーティンが電話をかけたとは書かれていないので、人物が違います。
+2 インタビューは10月23日の金曜日に収録される予定で、まだ行われていません。また、昨日マーティンが小説家にインタビューしたという話もないので、時期が違います。
+3 マーティンが読んだのは、ブラッドストック氏の本（your book）である『カリントン事件』です。ケイトが書いた小説ではないので、書いた人が違います。
+【覚えるポイント】
+・look forward to -ing：「～するのを楽しみにしている」。
+・the best ～ (that) he had read：「彼が読んだ中でいちばんよい～」。for a long time がつくと「ここしばらくの間で」。

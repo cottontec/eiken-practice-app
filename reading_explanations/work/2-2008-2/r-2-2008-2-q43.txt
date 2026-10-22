@@ -1,0 +1,29 @@
+---
+choices: produces chemicals similar to those in spider silk. | is responsible for problems after some implant operations. | can be successfully transferred into another patient's body. | can be improved by newly developed artificial chemicals.
+answerText: is responsible for problems after some implant operations.
+---
+【正解】2 is responsible for problems after some implant operations.（インプラント手術のあとに起きる問題の原因になることがある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：体の免疫システムは、（　）。
+1 クモの糸に含まれるものに似た化学物質を作り出す
+2 インプラント手術のあとに起きる問題の原因になることがある
+3 別の患者の体にうまく移しかえることができる
+4 新しく開発された人工の化学物質によって改善できる
+【考え方】
+免疫システムについては第3段落に書かれています。
+まず The immune system protects the body from disease by attacking the bacteria and viruses that enter the body from outside.（免疫システムは、外から入ってくる細菌やウイルスを攻撃することで、体を病気から守る）と、その働きが説明されています。
+続いて This sort of protection is usually necessary, but sometimes it has negative effects.（この種の守りはふつう必要だが、ときによくない影響がある）とあります。negative effects は「よくない影響」です。
+その例として、医師が人工のひざのようなインプラント（体の中に入れる人工の部品）を入れる手術をすると、The immune system treats the implants as possible sources of danger, and this can cause the body to reject them after the operation.（免疫システムはインプラントを危険の元かもしれないものとして扱い、そのせいで手術のあとに体がそれを拒絶することがある）と書かれています。reject は「拒絶する、受け入れない」です。
+つまり、手術のあとにインプラントが拒絶されるという問題は、免疫システムによって起こるのです。本文と選択肢は次のように対応しています。
+本文 this can cause the body to reject them after the operation（このせいで手術のあと体がそれを拒絶することがある）＝ 選択肢 is responsible for problems after some implant operations（インプラント手術のあとに起きる問題の原因になる）
+be responsible for ～ は「～の原因である、～に責任がある」という意味です。正解は2です。
+【ほかの選択肢】
+1 免疫システムが化学物質を作るとは書かれていません。本文の化学物質の話は、科学者がクモの糸に含まれる化学物質を突きとめた、というものです。
+3 本文で体に入れられるのはインプラントです。免疫システムを別の患者の体に移しかえるという話はありません。
+4 人工の化学物質で免疫システムを改善するという話は本文にありません。本文で人工的に作られたと書かれているのはクモの糸です。
+【覚えるポイント】
+・be responsible for ～：「～の原因である、～に責任がある」。
+・cause ～ to ...：「～に…させる、～が…する原因になる」。

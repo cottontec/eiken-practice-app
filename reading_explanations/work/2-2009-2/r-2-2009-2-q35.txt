@@ -1,0 +1,29 @@
+---
+choices: An edited version of The Martin Jones Show will be broadcast. | Staff members will help Mr. Bradstock get ready for the show. | There will be a rehearsal for Mr. Bradstock and the other guests. | Martin Jones will record interviews with members of the audience.
+answerText: Staff members will help Mr. Bradstock get ready for the show.
+---
+【正解】2 Staff members will help Mr. Bradstock get ready for the show.（スタッフが、ブラッドストック氏が番組の準備をするのを手伝う。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：金曜日のインタビューの前に起こることの1つは何ですか。
+1 『マーティン・ジョーンズ・ショー』の編集された版が放送される。
+2 スタッフが、ブラッドストック氏が番組の準備をするのを手伝う。
+3 ブラッドストック氏とほかのゲストのためのリハーサルがある。
+4 マーティン・ジョーンズが、観客の人たちとのインタビューを収録する。
+【考え方】
+設問の before the interview on Friday（金曜日のインタビューの前に）に注目して、第2段落を読みます。
+We will start filming at 7 p.m. on Friday, but please arrive at the studio an hour earlier.（金曜日は午後7時に撮影を始めるが、スタジオには1時間早く来てください）とあります。そのあと That will give our staff time to help you prepare.（そうすれば、スタッフがあなたの準備を手伝う時間がとれる）と続きます。That は「1時間早く来ること」を指します。
+さらに They will put some makeup on your face and attach a microphone to your clothing.（スタッフは顔にメイクをして、服にマイクを取り付ける）と、準備の中身も書かれています。
+本文と選択肢は次のように対応しています。
+本文 our staff ＝ 選択肢 Staff members（スタッフ）
+本文 help you prepare（あなたが準備するのを手伝う）＝ 選択肢 help Mr. Bradstock get ready for the show（ブラッドストック氏が番組の準備をするのを手伝う）
+prepare と get ready はどちらも「準備をする」という意味です。撮影の1時間前に行われることなので、インタビューの前のできごとです。正解は2です。
+【ほかの選択肢】
+1 本文には the show will be broadcast on October 25（番組は10月25日に放送される）とあります。インタビューの収録は10月23日なので、編集された番組が放送されるのはインタビューのあとです。時期が違います。
+3 本文には Martin never holds rehearsals（マーティンは決してリハーサルを行わない）とあります。リハーサルはないので、本文と反対です。また、ほかのゲストについても書かれていません。
+4 本文には、インタビューが in front of a small audience（少人数の観客の前で）収録されるとあるだけです。マーティンが観客にインタビューするという話はありません。
+【覚えるポイント】
+・help 人 ＋ 動詞の元の形：「人が～するのを手伝う」。help you prepare、help Mr. Bradstock get ready の形です。
+・get ready for ～：「～の準備をする」。prepare とほぼ同じ意味です。
