@@ -1,0 +1,29 @@
+---
+choices: mortal | bashful | pious | concise
+answerText: bashful
+---
+【正解】2 bashful（恥ずかしがって、もじもじした）
+【和訳】
+（英文）
+At first, the little girl felt ［bashful］ in front of the large audience at the speech contest, but after about a minute she began to feel more confident.
+（訳）
+はじめ、その小さな女の子は、スピーチコンテストで大勢の聴衆の前に立って（恥ずかしく）感じたが、1分ほどたつと、はじめのときより自信を感じ始めた。
+（選択肢の意味）
+1 mortal：いつかは死ぬ運命の
+2 bashful：恥ずかしがって、もじもじした
+3 pious：信心深い（神や仏を深く信じている）
+4 concise：（文章や話が）簡潔な
+【考え方】
+まず見るところ：空所の前の At first と、but のあとの she began to feel more confident
+but after about a minute she began to feel more confident（しかし1分ほどたつと、はじめのときより自信を感じ始めた）
+confident は「自信のある」という意味です。more confident（より自信のある）と、but（しかし）があるので、はじめは自信がない様子だったと分かります。
+the little girl felt (　) in front of the large audience（小さな女の子は大勢の聴衆の前で（　）と感じた）
+大勢の人の前で自信がない気持ちといえば「恥ずかしい、もじもじする」です。bashful は「恥ずかしがって」なので、2が正解です。
+この問題の型：対比（At first 恥ずかしい⇔あとで自信が出てきた）
+【ほかの選択肢】
+1 mortal は「いつかは死ぬ運命の」です。スピーチの前に感じる気持ちを表す語ではなく、「自信が出てきた」との対比にもなりません。
+3 pious は「信心深い」です。大勢の聴衆の前で感じる気持ちではなく、自信がない様子を表しません。
+4 concise は「（文章や話が）簡潔な」です。話し方や文章について使う語で、女の子が「簡潔に感じた」では意味が通りません。
+【覚えるポイント】
+・bashful：「恥ずかしがって、もじもじした」。confident：「自信のある」。audience：「聴衆、観客」。
+・At first ～, but ... more confident のように、あとで「より自信が出た」と書かれているときは、はじめの空所に「自信がない気持ち」を表す語が入る手がかりになります。
