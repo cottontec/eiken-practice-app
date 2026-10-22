@@ -1,0 +1,29 @@
+---
+choices: are even fascinated by this feeling | are often afraid of opening their eyes | forget fear soon after it happens | love surprising their friends and family
+answerText: are even fascinated by this feeling
+---
+【正解】1 are even fascinated by this feeling（この感覚に夢中にさえなる）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 are even fascinated by this feeling（この感覚に夢中にさえなる）
+2 are often afraid of opening their eyes（目を開けることをよくこわがる）
+3 forget fear soon after it happens（恐怖を感じたあと、すぐにそれを忘れる）
+4 love surprising their friends and family（友だちや家族を驚かせることが大好きである）
+【考え方】
+まず見るところ：第2段落の空所のあとの They like scary things and seek excitement.
+空所は第2段落の Some people (22). です。すぐあとの文に、その人々の説明があります。
+They like scary things and seek excitement.（そうした人々はこわいものが好きで、興奮を求める）
+さらに次の文も見ます。
+This also explains why many people enjoy activities such as riding roller coasters.（このことは、多くの人々がジェットコースターに乗るような活動を楽しむ理由の説明にもなる）
+空所に入るのは、「こわいものが好き」「こわい感覚を楽しむ」という人々の様子だと分かります。
+1の be fascinated by ～ は「～に夢中になる、～にひきつけられる」という意味です。this feeling（この感覚）は、直前に書かれた恐怖の感覚を指しています。even（～さえ）は、「恐怖はいやなものなのに、それに夢中になることさえある」という意外さを表しています。「この感覚に夢中にさえなる人もいる。そうした人々はこわいものが好きだ」となり、つながります。ですから1が正解です。
+この問題の型：指示語（this feeling が指す恐怖の感覚）
+【ほかの選択肢】
+2 「目を開けることをよくこわがる」では、恐怖をいやがっていることになります。次の文の They like scary things（こわいものが好きだ）と合いません。
+3 「恐怖を感じたあと、すぐにそれを忘れる」は、本文に書かれていません。こわいものが好きで興奮を求める、という次の文の説明にもなりません。
+4 「友だちや家族を驚かせることが大好き」は、自分が恐怖を感じる話ではなく、ほかの人を驚かせる話です。ジェットコースターに乗るのを楽しむ理由ともつながりません。
+【覚えるポイント】
+・be fascinated by ～：「～に夢中になる、～にひきつけられる」。seek は「～を求める」です。
+・Some people (　). の空所では、すぐあとの They ～ の文がその人々を説明していることが多いので、その文と同じ方向の内容を選ぶと考えやすくなります。
