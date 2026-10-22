@@ -1,0 +1,30 @@
+---
+choices: begin growing new crops that people were more likely to want to eat. | use some of Mamallapuram's garbage to create fuel for making electricity. | send 800 kilograms of Mamallapuram's garbage to nearby cities to be burned. | increase the amount of fossil fuels being used to cut down on harmful food waste.
+answerText: use some of Mamallapuram's garbage to create fuel for making electricity.
+---
+【正解】2 use some of Mamallapuram's garbage to create fuel for making electricity.（ママッラプラムのごみの一部を使って、電気を作るための燃料を生み出すこと。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ハンド・イン・ハンドの計画の一部は、
+1 人々が（これまでの作物より）食べたがりそうな新しい作物を育て始めることだった。
+2 ママッラプラムのごみの一部を使って、電気を作るための燃料を生み出すことだった。
+3 ママッラプラムのごみ800キログラムを、燃やしてもらうために近くの都市へ送ることだった。
+4 有害な食べ物のごみを減らすために、使われる化石燃料の量を増やすことだった。
+【考え方】
+ハンド・イン・ハンドの計画の中身は、第3段落の First,（まず）から説明されています。
+・First, a center was built that can turn food waste into a type of fuel called biogas.（まず、食べ物のごみをバイオガスと呼ばれる燃料の一種に変えることができるセンターが建てられた）
+・The biogas is then used to make electricity for the town.（バイオガスはその後、町の電気を作るために使われる）
+食べ物のごみから燃料（バイオガス）を作り、それで電気を作っていることが分かります。
+本文と選択肢を対にすると、次のようになります。
+本文 turn food waste into a type of fuel called biogas ＝ 選択肢 use some of Mamallapuram's garbage to create fuel
+本文 used to make electricity ＝ 選択肢 for making electricity
+food waste（食べ物のごみ）は町のごみの一部なので、some of Mamallapuram's garbage（ママッラプラムのごみの一部）と表されています。
+【ほかの選択肢】
+1 作物については、The remaining food waste is turned into fertilizer for use in growing crops.（残りの食べ物のごみは、作物を育てるのに使う肥料に変えられる）とあるだけです。人々が食べたがりそうな新しい作物を育て始めるという話はありません。
+3 800キログラムは、The center can process up to 800 kilograms of waste every day.（センターは1日に最大800キログラムのごみを処理できる）という、町のセンターで処理できる量です。近くの都市へ送って燃やすとは書かれていません。
+4 本文には allows the town to cut down on the fossil fuels needed to make electricity（町が電気を作るのに必要な化石燃料を減らすことができる）とあります。化石燃料は減らすのであって、増やすのではないので、本文と反対です。
+【覚えるポイント】
+・turn A into B：「AをBに変える」。
+・cut down on ～：「～（の量）を減らす」。

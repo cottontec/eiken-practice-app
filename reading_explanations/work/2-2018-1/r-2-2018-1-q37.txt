@@ -1,0 +1,28 @@
+---
+choices: It has provided jobs to more people living in Mamallapuram. | It has reduced the amount of glass and metal that people are using. | It has helped more people learn to make products from cloth and paper. | It has increased the amount of money the tourist industry brings to Mamallapuram.
+answerText: It has provided jobs to more people living in Mamallapuram.
+---
+【正解】1 It has provided jobs to more people living in Mamallapuram.（ママッラプラムに住む、より多くの人々に仕事を与えてきた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ハンド・イン・ハンドの計画の結果の1つは何ですか。
+1 ママッラプラムに住む、より多くの人々に仕事を与えてきた。
+2 人々が使うガラスや金属の量を減らしてきた。
+3 布や紙で製品を作れるようになる人が増えるのを助けてきた。
+4 観光業がママッラプラムにもたらすお金の量を増やしてきた。
+【考え方】
+設問の result（結果）に注目し、計画によって何が起きたかを探します。第4段落の後半に次の文があります。
+According to Hand in Hand, the plan has not only solved some of the environmental problems caused by the tourist industry, but it has also resulted in more local people being employed.（ハンド・イン・ハンドによると、この計画は観光業によって引き起こされた環境問題のいくつかを解決しただけでなく、〔以前より〕多くの地元の人々が雇われることにもつながった）
+not only A but also B は「AだけでなくBも」という意味です。result in ～ は「～という結果になる」、be employed は「雇われる」です。
+本文と選択肢を対にすると、次のようになります。
+本文 resulted in more local people being employed ＝ 選択肢 It has provided jobs to more people living in Mamallapuram
+local people（地元の人々）が people living in Mamallapuram（ママッラプラムに住む人々）に、being employed（雇われること）が provided jobs（仕事を与えた）に言いかえられています。同じ段落の The project also employs people to recycle other kinds of waste（このプロジェクトでは、ほかの種類のごみをリサイクルするために人を雇ってもいる）も、この内容につながります。
+【ほかの選択肢】
+2 ガラスや金属については、それらをリサイクルするために人を雇っているとあるだけです。人々が使う量を減らしたとは書かれていません。
+3 プラスチックの品物が布や紙のものに置きかえられたことは書かれていますが、布や紙で製品を作れるようになる人が増えたという話はありません。
+4 観光客が町に経済的な利益をもたらすことは第1段落に書かれていますが、それは計画の結果ではありません。計画によって観光業のもたらすお金が増えたとは書かれていません。
+【覚えるポイント】
+・result in ～：「～という結果になる」。
+・be employed：「雇われる」。provide jobs（仕事を与える）と言いかえられます。

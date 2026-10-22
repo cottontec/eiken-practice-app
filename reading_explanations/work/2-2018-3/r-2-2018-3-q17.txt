@@ -1,5 +1,22 @@
 ---
-choices: together with | back from | over with | away from
+choices: together with | over with | back from | away from
 answerText: over with
 ---
-【正解】3 over with（get it over with：〔いやなことを〕済ませてしまう）
+【正解】2 over with（get it over with：〔いやなことを〕済ませてしまう）
+【和訳】
+A：今日は歯医者さんに行くの？
+B：うん、歯を1本抜いてもらわないといけないんだ。口が痛まなくなるように、早く（済ませてしまい）たいよ。
+（選択肢の意味）get it ～ の形にしたとき　1 together with：～と一緒にまとめる　2 over with：（いやなことを）済ませてしまう　3 back from：～から取り戻す　4 away from：～から離す
+【考え方】
+B は I have to get a tooth pulled out.（歯を1本抜いてもらわなければならない）と言っています。get ＋もの＋ pulled out で「（ものを）抜いてもらう」という意味です。
+続く I can't wait to ～ は「早く～したい、～するのが待ちきれない」です。そのあとの so that my mouth will stop hurting は「口が痛むのが止まるように」という意味で、目的を表しています。
+歯を抜くのはうれしいことではありませんが、終われば痛みが止まります。ですから B は「いやなことだけれど、早く終わらせてしまいたい」と考えているのです。get it over with は「（いやなことを）済ませてしまう、終わらせてしまう」という決まった言い方です。it は「歯を抜いてもらうこと」を指しています。ですから、2が正解です。
+over with の with のあとには名詞がありませんが、get it over with はこの形のまま使う決まった言い方です。
+【ほかの選択肢】
+1 together with は「～と一緒に」です。with のあとに「何と一緒に」を表す名詞が必要ですが、この文では with のすぐあとが so that になっていて、文が成り立ちません。
+3 back from は、get it back from ～ で「～からそれを取り戻す」という意味になります。from のあとに「どこから（だれから）」を表す語が必要で、この文では成り立ちません。また、歯を抜いてもらいたいという話とも合いません。
+4 away from は、get it away from ～ で「～からそれを離す」という意味になります。from のあとに「何から離すか」を表す語が必要で、この文では成り立ちません。
+【覚えるポイント】
+・get it over with：「（いやなことを）済ませてしまう」。
+・I can't wait to ～：「早く～したい、～するのが待ちきれない」。
+・get ＋もの＋過去分詞（-ed などの形）：「（ものを）～してもらう」。get a tooth pulled out＝歯を抜いてもらう。

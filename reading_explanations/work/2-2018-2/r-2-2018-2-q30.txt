@@ -1,0 +1,30 @@
+---
+choices: provides information on how people use their eyes. | helps disabled people see small items on the screens of computers. | acts like a human eye allowing people to see what is happening around them. | makes it easier for people who have trouble moving their hands to use a computer.
+answerText: makes it easier for people who have trouble moving their hands to use a computer.
+---
+【正解】4 makes it easier for people who have trouble moving their hands to use a computer.（手を動かすのが難しい人々が、コンピューターを使いやすくなるようにする。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：PCEyeは（　）装置である。
+1 人々が目をどのように使っているかについての情報を提供する
+2 障がいのある人々が、コンピューターの画面上の小さなものを見られるように手助けする
+3 人間の目のように働き、人々が自分の周りで起きていることを見られるようにする
+4 手を動かすのが難しい人々が、コンピューターを（今までより）使いやすくなるようにする
+【考え方】
+PCEyeがどんな装置なのかは、第1段落に書かれています。
+まず、However, many disabled people cannot use their hands freely.（しかし、障がいのある人の多くは、手を自由に使うことができない）とあります。その前の文で、マウスを使えばカーソルを動かしたりクリックしたりできると説明されています。マウスは手で動かすものなので、手を自由に使えない人にはそれが難しいということです。
+続いて、A Swedish company called the Tobii Group has come up with a device that can help such people.（トビー・グループというスウェーデンの会社が、そのような人々の助けになる装置を考え出した）とあります。such people（そのような人々）は、手を自由に使えない人々を指しています。
+そして、It is called the PCEye, and it allows users to move a cursor on the computer screen just by moving their eyes.（それはPCEyeと呼ばれ、利用者は目を動かすだけで、コンピューター画面上のカーソルを動かすことができる）と説明されています。
+本文と選択肢を対にすると、次のようになります。
+本文 disabled people cannot use their hands freely（障がいのある人は手を自由に使えない）＝ 選択肢 people who have trouble moving their hands（手を動かすのが難しい人々）
+本文 a device that can help such people ～ move a cursor ～ just by moving their eyes（そのような人々を助け、目を動かすだけでカーソルを動かせる装置）→ 選択肢 makes it easier ～ to use a computer（コンピューターを使いやすくする）
+ですから、4が正解です。
+【ほかの選択肢】
+1 第2段落に a camera that watches the movements of a person's eyes（人の目の動きを見るカメラ）とありますが、これはカーソルを動かすための仕組みです。人々が目をどう使っているかという情報を提供する装置だとは書かれていません。
+2 PCEyeが助けるのは、手を自由に使えない人々です。画面上の小さなものを見られるようにする、つまり見る力を助ける装置だとは書かれていません。
+3 PCEyeは目の動きでカーソルを動かす装置で、人間の目の代わりに周りの様子を見せるものではありません。本文にこのような内容はありません。
+【覚えるポイント】
+・come up with ～：「～を考え出す、思いつく」。
+・such people（そのような人々）のような語が出てきたら、だれを指しているのかを前の文で確かめましょう。

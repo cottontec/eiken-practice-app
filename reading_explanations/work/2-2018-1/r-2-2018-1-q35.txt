@@ -8,7 +8,7 @@ answerText: The large amount of food they throw away can damage the environment.
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
 設問：観光客がママッラプラムで引き起こしている問題の1つは何ですか。
-1 観光客が食べ物を買うのに大金を払い、それによって物の値段が上がる。
+1 観光客が食べ物を買うのに大金を払い、それによって値段が上がる。
 2 観光客は、市のリサイクル計画に参加しないことで汚染を引き起こしている。
 3 観光客が運転する車やその他の乗り物が、その地域で大気汚染を引き起こしている。
 4 観光客が捨てる大量の食べ物が、環境を傷つけることがある。
@@ -22,7 +22,7 @@ Until recently, this has been thrown away in garbage dumps, leading to both air 
 本文 leading to both air and water pollution → 選択肢 can damage the environment
 「観光客が出す食べ物のごみ」が「観光客が捨てる食べ物」に、「空気と水の汚染につながる」が「環境を傷つける」に言いかえられています。
 【ほかの選択肢】
-1 観光客は These tourists bring many economic benefits to the town（町に多くの経済的な利益をもたらす）と書かれていますが、食べ物の値段が上がるという話は本文にありません。
+1 観光客は These tourists bring many economic benefits to the town（町に多くの経済的な利益をもたらす）と書かれていますが、観光客が大金を払うせいで値段が上がるという話は本文にありません。
 2 リサイクルの計画は、NGOのハンド・イン・ハンドが考え出したものです。観光客がその計画に参加しないせいで汚染が起きている、とは書かれていません。
 3 本文の大気汚染（air pollution）の原因は、ごみ捨て場に捨てられた食べ物のごみです。観光客の車などの乗り物が原因だとは書かれていません。
 【覚えるポイント】

@@ -1,0 +1,29 @@
+---
+choices: It costs less than most other devices used for the same purposes. | It stops people from accessing dangerous sites on the Internet. | It allows more disabled people to find jobs working with computers. | It makes it cheaper for people to contact their friends and relatives.
+answerText: It allows more disabled people to find jobs working with computers.
+---
+【正解】3 It allows more disabled people to find jobs working with computers.（それによって、より多くの障がいのある人々が、コンピューターを使って働く仕事を見つけられる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：PCEyeの利点の1つは何ですか。
+1 同じ目的で使われるほかの大部分の装置よりも費用がかからない。
+2 人々がインターネット上の危険なサイトを利用するのを防ぐ。
+3 それによって、（以前より）多くの障がいのある人々が、コンピューターを使って働く仕事を見つけられる。
+4 人々が友人や親せきに連絡を取るのを（以前より）安くする。
+【考え方】
+advantage は「利点、よい点」という意味です。PCEyeのよい点は、第4段落に書かれています。
+Meanwhile, the PCEye has made a big difference to thousands of disabled people.（その一方で、PCEyeはすでに、何千人もの障がいのある人々の生活を大きく変えてきた）とあり、そのあとに具体的な内容が続きます。
+Not only does it allow them to access the Internet or contact their friends and relatives, but it also improves their employment opportunities.（PCEyeによって、インターネットを利用したり友人や親せきに連絡を取ったりできるようになるだけでなく、仕事に就く機会もよりよいものになる）
+Not only A but also B は「AだけでなくBも」という意味です。employment opportunities は「雇用の機会（仕事に就くチャンス）」、improve は「よくする、向上させる」です。
+本文と選択肢を対にすると、次のようになります。
+本文 it also improves their employment opportunities（障がいのある人々の仕事に就く機会をよくする）→ 選択肢 It allows more disabled people to find jobs（より多くの障がいのある人々が仕事を見つけられる）
+仕事に就く機会がよくなれば、仕事を見つけられる人が増えると考えられます。また、PCEyeはコンピューターを使うための装置なので、選択肢の working with computers（コンピューターを使って働く）は、その装置を使って仕事ができるようになることを表していると読み取れます。ですから、3が正解です。
+【ほかの選択肢】
+1 本文には At present, the main problem is the high price of the device（現在、主な問題は装置の値段が高いことだ）とあります。ほかの装置より安いのではなく、値段が高いことが問題だとされているので、本文と反対です。
+2 インターネット上の危険なサイトを防ぐという話は、本文にありません。本文に書かれているのは、インターネットを利用できるようになるということです。
+4 本文には、PCEyeによって友人や親せきに連絡を取ることが「できるようになる」とありますが、それが「安くなる」とは書かれていません。「安くする」という話は、装置そのものの値段について会社が取り組んでいることで、連絡の費用の話ではありません。
+【覚えるポイント】
+・Not only A but also B：「AだけでなくBも」。この文では Not only が文の頭に来て、does it allow と語順が入れかわっています。
+・employment opportunities：「雇用の機会、仕事に就くチャンス」。
