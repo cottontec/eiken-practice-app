@@ -182,13 +182,13 @@
       "batchId": "2-2026-2",
       "target": 31,
       "written": 31,
-      "contentReviewed": 0,
-      "status": "complete_unreviewed",
+      "contentReviewed": 31,
+      "status": "complete_reviewed",
       "blank": 0,
       "issues": 0,
       "checkErrors": 0,
       "checkWarnings": 0
     }
   ],
-  "updatedAt": "2026-10-22T21:27:20+00:00"
+  "updatedAt": "2026-10-22T21:27:55+00:00"
 }
