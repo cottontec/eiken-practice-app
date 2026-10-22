@@ -1,6 +1,7 @@
 ---
 choices: difficult to relax | fun to see the lights | easy to watch the stars | hard to open their shops
 answerText: difficult to relax
+reviewed: yes
 ---
 【正解】1 difficult to relax（くつろぐのが難しい）
 【和訳】

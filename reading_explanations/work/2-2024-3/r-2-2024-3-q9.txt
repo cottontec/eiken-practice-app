@@ -1,6 +1,7 @@
 ---
 choices: attractive | national | financial | ignorant
 answerText: financial
+reviewed: yes
 ---
 【正解】3 financial（財政の、お金に関する）
 【和訳】

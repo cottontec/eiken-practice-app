@@ -1,6 +1,7 @@
 ---
 choices: break up with | fall back on | come over to | speak ill of
 answerText: fall back on
+reviewed: yes
 ---
 【正解】2 fall back on（（いざというときに）～に頼る）
 【和訳】
@@ -19,7 +20,7 @@ When Julia lost her job（ジュリアが仕事を失ったとき）
 仕事を失うと、給料が入ってこなくなります。
 she had to (　) her savings for a few months until she found a new one（新しい仕事が見つかるまでの数か月間、貯金を（　）しなければならなかった）
 savings は「貯金」です。one は前に出た job の代わりで、a new one は「新しい仕事」です。給料がない間、ジュリアは貯金を使って暮らすしかなかったと考えられます。
-fall back on ～ は「（ほかに手がないときに）～に頼る」という意味です。「数か月間、貯金に頼らなければならなかった」となり、意味が通ります。ですから2が正解です。
+fall back on ～ は「（いざというときに）～に頼る」という意味です。「数か月間、貯金に頼らなければならなかった」となり、意味が通ります。ですから2が正解です。
 この問題の型：熟語・決まった形（fall back on ～）
 【ほかの選択肢】
 1 break up with ～ は「～と別れる、～との関係を終わらせる」で、ふつう恋人などの人について使います。「貯金と別れる」となり、仕事を失った場面に合いません。

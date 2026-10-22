@@ -1,6 +1,7 @@
 ---
 choices: requests | timetables | suitcases | consequences
 answerText: consequences
+reviewed: yes
 ---
 【正解】4 consequences（結果、（行動から生じる）影響）
 【和訳】

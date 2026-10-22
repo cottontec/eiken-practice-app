@@ -1,6 +1,7 @@
 ---
 choices: fall over | turn over | cut off | pick out
 answerText: pick out
+reviewed: yes
 ---
 【正解】4 pick out（選び出す）
 【和訳】

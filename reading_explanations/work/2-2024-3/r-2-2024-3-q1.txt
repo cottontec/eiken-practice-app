@@ -1,6 +1,7 @@
 ---
 choices: opportunity | campaign | representative | subscription
 answerText: subscription
+reviewed: yes
 ---
 【正解】4 subscription（定期購読、定期的に利用する契約）
 【和訳】

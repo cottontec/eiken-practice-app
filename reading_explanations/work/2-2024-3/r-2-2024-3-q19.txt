@@ -1,6 +1,7 @@
 ---
 choices: plant trees | go shopping | drive cars | walk alone
 answerText: drive cars
+reviewed: yes
 ---
 【正解】3 drive cars（車を運転する）
 【和訳】
@@ -23,8 +24,8 @@ drive cars（車を運転する）を入れると、「サークの通りでは�
 この問題の型：因果（Therefore／車がない→街灯がいらない）
 【ほかの選択肢】
 1 plant trees（木を植える）は、本文に書かれていません。木を植えることと、明かりや街灯の話は関係がありません。
-2 go shopping（買い物に行く）は、本文の They buy lights when they really need them.（本当に必要なときには明かりを買う）と合いません。島の人々は買い物をしています。
-4 walk alone（一人で歩く）は、本文の Walking and riding horses and bicycles are allowed（歩くことや、馬や自転車に乗ることは許されている）と合いません。歩くことは許されています。
+2 go shopping（買い物に行く）は、本文に They buy lights when they really need them.（本当に必要なときには明かりを買う）とあり、人々は明かりを買うことがあります。買い物ができないという話は書かれていないので、「通りで買い物ができない」とは合いません。
+4 walk alone（一人で歩く）は、本文の Walking and riding horses and bicycles are allowed（歩くことや、馬や自転車に乗ることは許されている）と合いません。歩くことは許されていて、一人で歩くことを禁じる内容もありません。
 【覚えるポイント】
 ・prevent ～ from -ing：「～が…するのを防ぐ」。
 ・空所の文の直後に With no ～（～がないので）のような説明が続くときは、その「ない」ものが空所の内容の手がかりになります。

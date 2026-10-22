@@ -1,6 +1,7 @@
 ---
 choices: concerned by their parents | reduced when they are full | influenced by the environment | important when they have a fever
 answerText: influenced by the environment
+reviewed: yes
 ---
 【正解】3 influenced by the environment（環境によって影響を受ける）
 【和訳】

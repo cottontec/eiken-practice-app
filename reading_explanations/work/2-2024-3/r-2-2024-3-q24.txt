@@ -1,6 +1,7 @@
 ---
 choices: Which teaching materials to use next semester. | How many teachers' meetings to have each week. | Who to ask for opinions about the new textbooks. | When to invite textbook sellers to suggest their books.
 answerText: Which teaching materials to use next semester.
+reviewed: yes
 ---
 【正解】1 Which teaching materials to use next semester.（来学期にどの教材を使うか。）
 【和訳】

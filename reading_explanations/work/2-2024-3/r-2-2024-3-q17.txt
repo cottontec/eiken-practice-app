@@ -1,6 +1,7 @@
 ---
 choices: down the road | back and forth | on the way | side by side
 answerText: side by side
+reviewed: yes
 ---
 【正解】4 side by side（横に並んで）
 【和訳】

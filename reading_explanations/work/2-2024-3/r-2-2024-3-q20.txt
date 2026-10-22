@@ -1,6 +1,7 @@
 ---
 choices: In other words | In the end | In a word | In contrast
 answerText: In contrast
+reviewed: yes
 ---
 【正解】4 In contrast（それとは対照的に）
 【和訳】

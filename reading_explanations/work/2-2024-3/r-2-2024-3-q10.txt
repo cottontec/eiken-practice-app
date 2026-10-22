@@ -1,6 +1,7 @@
 ---
 choices: split | drift | resolve | grasp
 answerText: drift
+reviewed: yes
 ---
 【正解】2 drift（ただよう、流される）
 【和訳】

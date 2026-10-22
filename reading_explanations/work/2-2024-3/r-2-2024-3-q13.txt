@@ -1,6 +1,7 @@
 ---
 choices: for the good | on the rise | in the course | at the mercy
 answerText: at the mercy
+reviewed: yes
 ---
 【正解】4 at the mercy（at the mercy of ～で「～のなすがままに、～に左右されて」）
 【和訳】

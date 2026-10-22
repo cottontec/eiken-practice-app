@@ -1,6 +1,7 @@
 ---
 choices: separately | meanwhile | nowadays | permanently
 answerText: separately
+reviewed: yes
 ---
 【正解】1 separately（別々に）
 【和訳】

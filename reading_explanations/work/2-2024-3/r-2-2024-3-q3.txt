@@ -1,6 +1,7 @@
 ---
 choices: storage | reverse | heaven | denial
 answerText: storage
+reviewed: yes
 ---
 【正解】1 storage（収納、保管）
 【和訳】

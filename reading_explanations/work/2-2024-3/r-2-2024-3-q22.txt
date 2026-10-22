@@ -1,6 +1,7 @@
 ---
 choices: running from their enemies | their body temperature low | the inside of caves warm | digging a hole to hide in
 answerText: their body temperature low
+reviewed: yes
 ---
 【正解】2 their body temperature low（体温を低く（保つ））
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: on the go | in the way | by the book | to the point
 answerText: on the go
+reviewed: yes
 ---
 【正解】1 on the go（休まず動き回って、忙しく活動して）
 【和訳】

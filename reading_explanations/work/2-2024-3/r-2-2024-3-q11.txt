@@ -1,13 +1,14 @@
 ---
 choices: in honor | for lack | at risk | on suspicion
 answerText: in honor
+reviewed: yes
 ---
 【正解】1 in honor（in honor of ～で「～に敬意を表して、～をたたえて」）
 【和訳】
 （英文）
 A statue was put up in front of city hall ［in honor］ of the city's first mayor.
 （訳）
-その市の最初の市長をたたえて（市長に敬意を表して）、市役所の前に像が建てられました。
+その市の最初の市長に敬意を表して、市役所の前に像が建てられました。
 （選択肢の意味）
 1 in honor：（in honor of ～で）～に敬意を表して、～をたたえて
 2 for lack：（for lack of ～で）～が不足しているために

@@ -1,6 +1,7 @@
 ---
 choices: realized that his life was full of small things that were not worth remembering. | took photos of himself when an important thing was happening. | began to record every detail of his life by using a camera. | made sure to take pictures of every person he met every day.
 answerText: began to record every detail of his life by using a camera.
+reviewed: yes
 ---
 【正解】3 began to record every detail of his life by using a camera.（カメラを使って、自分の生活の細かいところまですべて記録し始めた。）
 【和訳】

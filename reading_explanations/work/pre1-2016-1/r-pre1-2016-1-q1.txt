@@ -1,0 +1,32 @@
+---
+choices: overrate | outsource | overthrow | outline
+answerText: overthrow
+---
+【正解】3 overthrow（〔政府などを〕倒す、転覆させる）
+【和訳】
+（英文）
+Many analysts say the country is close to civil war. They believe the military will try to ［overthrow］ the current government and rule until an election can be held.
+（訳）
+多くの専門家は、その国は内戦の一歩手前だと言っている。彼らは、軍が現在の政府を（倒そう）として、選挙が行えるようになるまで国を治めるだろうと考えている。
+（選択肢の意味）
+1 overrate：過大評価する（実際より高く見積もる）
+2 outsource：外部に任せる、外注する
+3 overthrow：（政府などを）倒す、転覆させる
+4 outline：概要を述べる、輪郭を描く
+【考え方】
+まず見るところ：空所のあとの and rule until an election can be held
+1文目に、次のようにあります。
+Many analysts say the country is close to civil war.（多くの専門家は、その国は内戦の一歩手前だと言っている）
+analyst は「分析する人、専門家」、civil war は「内戦（同じ国の中で国民どうしが争う戦争）」です。国の中で大きな争いが起きそうな、緊迫した状況だと分かります。
+次に、空所のある文の後半を見ます。
+and rule until an election can be held（そして、選挙が行えるようになるまで国を治める）
+rule は「（国を）治める、支配する」です。軍が国を治めるということは、今の政府はもう国を治めていない状態になっているはずです。
+つまり軍は、the current government（現在の政府）を力で取り除こうとしていると考えられます。overthrow は「（政府や支配者を）倒す、転覆させる」という意味なので、3が正解です。
+この問題の型：語の意味・組み合わせ（overthrow the government）
+【ほかの選択肢】
+1 overrate は「過大評価する（実際より高く見積もる）」です。「軍が現在の政府を過大評価しようとして、選挙まで国を治める」となり、軍が国を治めることにつながりません。
+2 outsource は「（仕事などを）外部に任せる」です。「軍が現在の政府を外部に任せる」では意味が通らず、内戦の一歩手前という話とも合いません。
+4 outline は「概要を述べる、輪郭を描く」です。「軍が現在の政府の概要を述べる」では、そのあと軍が国を治めることの説明になりません。
+【覚えるポイント】
+・overthrow the current government：「現在の政府を倒す」。
+・空所のあとに「（軍が）選挙まで国を治める」のような、その行動の結果にあたる内容があるときは、それにつながる動詞を選ぶ手がかりになります。

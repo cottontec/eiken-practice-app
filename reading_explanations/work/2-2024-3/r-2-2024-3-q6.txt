@@ -1,6 +1,7 @@
 ---
 choices: outcome | appetite | victim | conflict
 answerText: outcome
+reviewed: yes
 ---
 【正解】1 outcome（結果）
 【和訳】

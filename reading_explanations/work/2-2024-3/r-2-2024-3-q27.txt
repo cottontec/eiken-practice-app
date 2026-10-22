@@ -1,6 +1,7 @@
 ---
 choices: To keep their thoughts organized. | To let others know about some important events. | To show them to someone they love. | To read them when they feel stressed.
 answerText: To keep their thoughts organized.
+reviewed: yes
 ---
 【正解】1 To keep their thoughts organized.（自分の考えを整理しておくため。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: Sometimes, it is necessary to stop keeping a diary and enjoy the moment. | He can feel as if time passes more slowly by keeping a detailed record. | His memory has gotten much worse compared to before he started a diary. | Bigger life events create more emotions and feelings than smaller ones.
 answerText: He can feel as if time passes more slowly by keeping a detailed record.
+reviewed: yes
 ---
 【正解】2 He can feel as if time passes more slowly by keeping a detailed record.（詳しい記録をつけることで、時間がよりゆっくり過ぎるように感じられる。）
 【和訳】
@@ -15,7 +16,7 @@ answerText: He can feel as if time passes more slowly by keeping a detailed reco
 【考え方】
 まず見るところ：第4段落の最後の With a detailed record of his life, ～
 With a detailed record of his life, he can now remember his life clearly, and he says that the last ten years felt much longer than the ones before.（自分の生活の詳しい記録があるので、彼は今では自分の人生をはっきりと思い出すことができ、この10年間はそれより前の年月よりもずっと長く感じられたと言っている）
-the last ten years は「この（最近の）10年間」、the ones before は「それより前の年月」です。日記をつけてきたこの10年間が、それより前の年月よりもずっと長く感じられた、と比べています。
+the last ten years は「この（最近の）10年間」、the ones before は「それより前の年月」です。最近の10年間が、それより前の年月よりもずっと長く感じられた、と比べています。
 本文と選択肢を対にすると、次のようになります。
 本文 With a detailed record of his life（生活の詳しい記録があるので）＝ 選択肢 by keeping a detailed record（詳しい記録をつけることで）
 本文 the last ten years felt much longer than the ones before（この10年間はそれより前の年月よりもずっと長く感じられた）→ 選択肢 time passes more slowly（時間がよりゆっくり過ぎる）

@@ -1,6 +1,7 @@
 ---
 choices: asked students to show their opinions in the survey conducted last semester. | is useful for students to exchange their ideas in business situations. | helps students learn how to write good essays and reports using academic English. | presents grammar and vocabulary in a way that is interesting to students.
 answerText: presents grammar and vocabulary in a way that is interesting to students.
+reviewed: yes
 ---
 【正解】4 presents grammar and vocabulary in a way that is interesting to students.（文法や語彙を、生徒にとっておもしろい方法で示している。）
 【和訳】

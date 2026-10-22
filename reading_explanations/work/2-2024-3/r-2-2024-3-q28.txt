@@ -1,6 +1,7 @@
 ---
 choices: His work and pets kept him too busy. | His pictures and papers did not show enough of his past. | He always failed to keep a diary. | He was not ready to keep writing his journals as a scientist.
 answerText: His pictures and papers did not show enough of his past.
+reviewed: yes
 ---
 【正解】2 His pictures and papers did not show enough of his past.（彼の写真や書いたものは、彼の過去を十分には示していなかった。）
 【和訳】

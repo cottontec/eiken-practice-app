@@ -1,6 +1,7 @@
 ---
 choices: intends to cancel the next teachers' meeting. | knows a lot about educational materials. | was hired by the school after he finished an online course. | visited the local school to fix teachers' computers.
 answerText: knows a lot about educational materials.
+reviewed: yes
 ---
 【正解】2 knows a lot about educational materials.（教材についてよく知っている。）
 【和訳】
