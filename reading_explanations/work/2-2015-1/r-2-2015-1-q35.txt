@@ -1,0 +1,32 @@
+---
+choices: Sign in at the information desk before entering the library. | Ask the library staff to help them locate important information. | Visit one of the university's other libraries to borrow books. | Go to the second floor of the library to check out books.
+answerText: Go to the second floor of the library to check out books.
+---
+【正解】4 Go to the second floor of the library to check out books.（本を借りるために図書館の2階へ行く。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：7月15日以降に、図書館を訪れる人がすべきことの1つは何ですか。
+1 図書館に入る前に、案内カウンターで記名（受付）をする。
+2 重要な情報をさがすのを手伝ってくれるよう、図書館の職員に頼む。
+3 本を借りるために、大学のほかの図書館の1つを訪れる。
+4 本を借りるために、図書館の2階へ行く。
+【考え方】
+まず July 15（7月15日）がどこに出てくるかを確かめます。第1段落2文目に Between July 15 and October 20, a new wing ... will be added to the first floor.（7月15日から10月20日までの間に、新しい棟が1階に増築される）とあります。つまり、7月15日からは工事が始まります。
+工事中に利用者がすべきことは、第2段落に書かれています。
+While the new rooms are being built, library users will not have access to the first floor.（新しい部屋が建てられている間、利用者は1階に入れない）
+When you enter the library, please use the stairs to the right of the entrance and go up to the second floor.（図書館に入ったら、入口の右側の階段を使って2階へ上がってください）
+The information desk will be located there while construction is taking place.（工事中、案内カウンターはそこ〈2階〉に置かれる）
+If you would like to borrow books, please check them out at the information desk.（本を借りたい場合は、案内カウンターで貸し出しの手続きをしてください）
+check out は「（本などを）借り出す手続きをする」という意味です。案内カウンターが2階にあり、本はそこで借りるのですから、本を借りるには2階へ行くことになります。
+本文と選択肢は次のように対応しています。
+本文 go up to the second floor（2階へ上がる）＋ The information desk will be located there（案内カウンターは2階に置かれる）＋ check them out at the information desk（案内カウンターで借りる）→ 読み取れること：本を借りるには2階へ行く ＝ 選択肢 Go to the second floor of the library to check out books
+3つの文を合わせて読むと、選択肢4の内容になります。正解は4です。
+【ほかの選択肢】
+1 案内カウンターは2階にあり、図書館に入ってから階段で上がった先にあります。図書館に入る前に案内カウンターで記名するという話は本文にありません。
+2 本文で職員にたずねるように書かれているのは、if you are having trouble finding an older book（古い本が見つからなくて困っている場合）です。「重要な情報」をさがすのを手伝ってもらうという話ではありません。
+3 大学のほかの図書館については、本文に何も書かれていません。本は、この図書館の2階の案内カウンターで借りられます。
+【覚えるポイント】
+・check out：「（図書館の本などを）借り出す手続きをする」。ホテルでは「チェックアウトする（出る手続きをする）」の意味にもなります。
+・have access to ～：「～に入れる、～を利用できる」。will not have access to ～ で「～に入れない」。

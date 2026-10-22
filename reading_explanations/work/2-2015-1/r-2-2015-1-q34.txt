@@ -1,0 +1,28 @@
+---
+choices: Build a new library with more space. | Create a study space in the multimedia center. | Make the university's library larger. | Add another floor to the multimedia center.
+answerText: Make the university's library larger.
+---
+【正解】3 Make the university's library larger.（大学の図書館をより大きくする。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：大学は何をすることに決めましたか。
+1 もっと広い場所のある新しい図書館を建てる。
+2 マルチメディアセンターの中に学習スペースを作る。
+3 大学の図書館をより大きくする。
+4 マルチメディアセンターに階をもう1つ加える。
+【考え方】
+設問の decided（決めた）と同じ語が、メールの本文第1段落の1文目にあります。
+In order to save money, the university has decided to increase the size of the current library rather than build a new one.（費用を節約するために、大学は、新しい図書館を建てるのではなく、今の図書館を大きくすることに決めた）
+increase the size of ～ は「～の大きさを増やす」、current は「今の、現在の」、A rather than B は「BではなくA」という意味です。大学が決めたのは「今の図書館を大きくすること」で、「新しい図書館を建てること」ではありません。
+本文と選択肢は次のように対応しています。
+本文 increase the size of the current library ＝ 選択肢 Make the university's library larger
+larger は large（大きい）の比べる形（比較級）で、「（今より）もっと大きく」という意味です。正解は3です。
+【ほかの選択肢】
+1 本文には rather than build a new one（新しい図書館を建てるのではなく）とあります。新しい図書館を建てないことにしたので、本文と反対です。
+2 新しい棟には two study rooms and a multimedia center（2つの学習室とマルチメディアセンター）ができると書かれていて、学習室とマルチメディアセンターは別々に並べられています。マルチメディアセンターの中に学習スペースを作るとは書かれていません。
+4 本文では、新しい棟が the first floor（1階）に加えられると書かれています。マルチメディアセンターに階を1つ加えるという話はありません。
+【覚えるポイント】
+・A rather than B：「BではなくA」。B のほうを選ばなかったことを表します。
+・increase the size of ～：「～の大きさを増やす、～を大きくする」。

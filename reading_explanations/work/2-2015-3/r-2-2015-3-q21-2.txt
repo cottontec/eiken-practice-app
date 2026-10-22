@@ -1,0 +1,21 @@
+---
+choices: with | whoever | to | play | wants
+answerText: wants
+order: 2 5 3 4 1
+---
+【正解】5 wants（この問題の2番目）
+【完成文】
+Sure, Philip. ( Whoever wants to play with ) us is welcome to join.
+並べ方：2 whoever → 5 wants → 3 to → 4 play → 1 with（2番目は5、4番目は4）
+【和訳】
+A：エリカ、次の土曜日、私の兄弟と私も、あなたやあなたの友達といっしょにサッカーをしてもいいですか。
+B：もちろんですよ、フィリップ。私たちといっしょにプレーしたい人はだれでも、大歓迎ですよ。
+【考え方】
+まず空所のあとを見ます。us is welcome to join（…は参加して大歓迎だ）とあり、is が文の動詞です。ですから空所から us までの部分が、文の主語（「だれが」にあたる部分）になると考えられます。
+選択肢の whoever は「～する人はだれでも」という意味で、whoever ＋ 動詞 のまとまりで、文の主語になることができます。Aは「いっしょにサッカーをしてもいいか」とたずねているので、主語は「私たちといっしょにプレーしたい人はだれでも」という意味にすると、会話がつながります。
+whoever は1人の人として扱うので、すぐあとの動詞は s の付いた 5 wants にします。want to ～ で「～したい」なので、wants → 3 to → 4 play と続けます。最後に 1 with を置き、空所のあとの us とつなげて play with us（私たちといっしょにプレーする）とします。
+したがって2番目は5 wants です。
+まちがえやすいのは、2 whoever → 4 play → 1 with → 5 wants → 3 to（Whoever play with wants to us …）のように、whoever のすぐあとに play を置いてしまう並べ方です。これでは play に s が付いていないうえ、wants to のあとに動詞がなくなり、文が成り立ちません。
+【覚えるポイント】
+・whoever ～：「～する人はだれでも」。whoever ＋ 動詞 で文の主語になり、動詞は he や she のときと同じ形（wants など）にします。
+・be welcome to ～：「自由に～してよい、～するのは大歓迎だ」。
