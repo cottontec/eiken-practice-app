@@ -1,6 +1,7 @@
 ---
 choices: attempted to pressure both governments to ensure that the Salvadoran immigrants received better treatment. | were prevented by their governments from reporting on illegal acts that were being committed against citizens. | put so much emphasis on the soccer rivalry that they failed to report more-important news about illegal acts. | were asked by their governments to make up untrue or misleading news stories that made the other country look bad.
 answerText: were asked by their governments to make up untrue or misleading news stories that made the other country look bad.
+reviewed: yes
 ---
 【正解】4 were asked by their governments to make up untrue or misleading news stories that made the other country look bad.（自国の政府から、相手の国が悪く見えるような、うその、または誤解を招くニュースの話を作るよう頼まれていた。）
 【和訳】
@@ -27,7 +28,7 @@ at the request of ～ は「～の求めに応じて」です。
 この問題の型：言いかえ（at the request of ～ → were asked by ～）
 【ほかの選択肢】
 1 本文に書かれていません。メディアが移民によりよい扱いを受けさせるために両国の政府に圧力をかけたという話は出てきません。本文のメディアは、政府の求めに応じて報道していました。
-2 本文の内容と合いません。メディアは政府に報道を止められたのではなく、政府の求めに応じて報道していました。また、エルサルバドルの報道機関は、ホンジュラス政府による cruel and illegal treatment（残酷で違法な扱い）について報じています。
+2 本文の内容と合いません。エルサルバドルの報道機関は、ホンジュラス政府による cruel and illegal treatment（残酷で違法な扱い）について報じており、しかもこうした報道は政府の求めに応じて行われたと書かれています。メディアが政府に報道を止められていたという記述はありません。
 3 本文に書かれていません。第3段落の報道は、移民の扱いや移民による犯罪についてのもので、メディアがサッカーでの対抗意識を強調しすぎたという話は出てきません。
 【覚えるポイント】
 ・at the request of ～：「～の求めに応じて」。受け身の be asked by ～（～に頼まれる）と同じ内容を表しています。

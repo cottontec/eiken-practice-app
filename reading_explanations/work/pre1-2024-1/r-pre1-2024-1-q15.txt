@@ -1,6 +1,7 @@
 ---
 choices: tear into | get by | part with | feel for
 answerText: feel for
+reviewed: yes
 ---
 【正解】4 feel for（～に同情する、～の気持ちを思いやる）
 【和訳】

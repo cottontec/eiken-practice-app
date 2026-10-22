@@ -1,6 +1,7 @@
 ---
 choices: preceding | simultaneous | plentiful | contemporary
 answerText: contemporary
+reviewed: yes
 ---
 【正解】4 contemporary（現代的な、現代の）
 【和訳】

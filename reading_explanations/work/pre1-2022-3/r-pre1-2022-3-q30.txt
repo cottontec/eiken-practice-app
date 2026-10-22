@@ -1,6 +1,7 @@
 ---
 choices: collect dead insects | hide its smell from insects | trick the flies with its smell | provide a safe place for flies
 answerText: trick the flies with its smell
+reviewed: yes
 ---
 【正解】3 trick the flies with its smell（においでハエをだます）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: The fact that it was created in France meant that architects had trouble adjusting it to fit the cultural needs of people in other countries. | Architects who implemented the system’s design elements were often criticized for not following the default size for men. | A rapid change in the average height of men and women in postwar Britain meant that buildings designed under the system quickly became difficult to use. | Many of the spaces in buildings designed based on its principles were beneficial in some ways but problematic in other ways.
 answerText: Many of the spaces in buildings designed based on its principles were beneficial in some ways but problematic in other ways.
+reviewed: yes
 ---
 【正解】4 Many of the spaces in buildings designed based on its principles were beneficial in some ways but problematic in other ways.（その原則にもとづいて設計された建物の空間の多くは、いくつかの点では有益だったが、ほかの点では問題があった。）
 【和訳】

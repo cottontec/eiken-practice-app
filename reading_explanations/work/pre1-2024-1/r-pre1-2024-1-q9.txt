@@ -1,6 +1,7 @@
 ---
 choices: admissible | animate | bearable | coherent
 answerText: bearable
+reviewed: yes
 ---
 【正解】3 bearable（耐えられる、我慢できる）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: packing up | looking into | watching over | showing up
 answerText: watching over
+reviewed: yes
 ---
 【正解】3 watching over（見守る、世話をする）
 【和訳】

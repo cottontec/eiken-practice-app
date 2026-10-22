@@ -1,6 +1,7 @@
 ---
 choices: If they were not able to join a new pack soon after leaving, then their survival rate would dramatically decrease. | The actions of those that eventually established their own packs may often have been influenced by another organism. | Wolves that lived alone were found to have far fewer fatal parasites than those that stayed with their packs. | Although they did not leave their packs in an unfriendly way, they often ended up fighting violently with their old packs.
 answerText: The actions of those that eventually established their own packs may often have been influenced by another organism.
+reviewed: yes
 ---
 【正解】2 The actions of those that eventually established their own packs may often have been influenced by another organism.（最終的に自分たちの群れを作ったオオカミの行動は、別の生き物に影響されていたことが多かったのかもしれない。）
 【和訳】
@@ -29,7 +30,7 @@ organism は「生き物、生物」です。本文の appears to（～のよう
 【ほかの選択肢】
 1 本文に書かれていません。群れを去ったオオカミが別の群れに守ってもらおうとすることは書かれていますが、すぐに加われないと生き残る割合が大きく下がるという話は出てきません。
 3 本文に書かれていません。寄生生物を持っていたのは、自分たちの群れを作ったオオカミの多くです。一匹で暮らすオオカミと群れにとどまったオオカミの寄生生物の数を比べた話は出てきません。また、この寄生生物が命にかかわるとも書かれていません。
-4 本文の内容と合いません。本文では、群れを去るのは When a significant conflict does occur（大きな対立が実際に起きたとき）の dissatisfied wolves（不満を持ったオオカミ）です。仲たがいせずに去ったとは書かれておらず、元の群れと激しく争ったという話も出てきません。
+4 本文から読み取れません。本文では、When a significant conflict does occur（大きな対立が実際に起きたとき）に dissatisfied wolves（不満を持ったオオカミ）が群れを去るとあり、友好的に去ったとは言えません。また、去ったあとに元の群れと激しく争ったという話も出てきません。
 【覚えるポイント】
 ・organism：「生き物、生物」。
 ・本文の具体的な名前（ここでは a particular parasite called Toxoplasma gondii）は、選択肢では another organism のような広い言葉に言いかえられることが多いので、その言いかえに気づくことが手がかりになります。

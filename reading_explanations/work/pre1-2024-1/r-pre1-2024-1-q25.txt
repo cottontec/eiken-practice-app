@@ -1,6 +1,7 @@
 ---
 choices: researchers have observed some captured wolves successfully joining packs in the wild after escaping. | the behavior thought to be demonstrated by alpha male wolves has only ever been seen in human males in prisons. | members of captive wolf packs that disagree with each other often end up forming smaller packs. | the concept of alpha male behavior in wolf packs originally came from observations of captured wolves instead of wild ones.
 answerText: the concept of alpha male behavior in wolf packs originally came from observations of captured wolves instead of wild ones.
+reviewed: yes
 ---
 【正解】4 the concept of alpha male behavior in wolf packs originally came from observations of captured wolves instead of wild ones.（オオカミの群れのアルファオスの行動という考えは、もともと野生のオオカミではなく、捕らえられたオオカミの観察から生まれたものだったから。）
 【和訳】

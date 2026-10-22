@@ -1,6 +1,7 @@
 ---
 choices: make out | tune up | draw up | blow out
 answerText: make out
+reviewed: yes
 ---
 【正解】1 make out（〔見えにくいものを〕読み取る、見分ける）
 【和訳】

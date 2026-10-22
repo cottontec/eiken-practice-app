@@ -1,6 +1,7 @@
 ---
 choices: most buildings were used by such a diverse range of people that it would be impossible to design something that suited everyone. | doing so would likely lead architects to overlook the requirements of the actual people a building is primarily used by. | the majority of people did not have sufficient knowledge to appreciate the methods and design principles that architects focused on. | attempting to involve as many people as possible in the design process often led to a confusing and unpopular final product.
 answerText: doing so would likely lead architects to overlook the requirements of the actual people a building is primarily used by.
+reviewed: yes
 ---
 【正解】2 doing so would likely lead architects to overlook the requirements of the actual people a building is primarily used by.（そうすると、建築家が、建物を主に使う実際の人々が必要とするものを見落とすことになりやすいから。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: worshiped | perished | haunted | jeered
 answerText: perished
+reviewed: yes
 ---
 【正解】2 perished（死んだ、命を落とした）
 【和訳】

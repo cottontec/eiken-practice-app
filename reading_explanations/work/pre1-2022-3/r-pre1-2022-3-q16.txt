@@ -1,6 +1,7 @@
 ---
 choices: pathetic | analytical | dedicated | ceaseless
 answerText: pathetic
+reviewed: yes
 ---
 【正解】1 pathetic（情けない、みじめな）
 【和訳】

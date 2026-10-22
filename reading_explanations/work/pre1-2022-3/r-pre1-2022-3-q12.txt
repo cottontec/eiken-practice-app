@@ -1,6 +1,7 @@
 ---
 choices: poetic | savage | frail | rash
 answerText: frail
+reviewed: yes
 ---
 【正解】3 frail（〔体が〕弱った、かよわい）
 【和訳】

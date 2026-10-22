@@ -1,6 +1,7 @@
 ---
 choices: moderate | conform | paraphrase | decipher
 answerText: paraphrase
+reviewed: yes
 ---
 【正解】3 paraphrase（（別の言葉で）言いかえる）
 【和訳】

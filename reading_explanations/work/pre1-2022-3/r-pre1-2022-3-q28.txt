@@ -1,6 +1,7 @@
 ---
 choices: were more divided than previously thought | often sent packages to China | struggled to obtain enough food | maintained some of their food traditions
 answerText: maintained some of their food traditions
+reviewed: yes
 ---
 【正解】4 maintained some of their food traditions（自分たちの食の伝統の一部を保っていた）
 【和訳】

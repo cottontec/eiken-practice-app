@@ -1,6 +1,7 @@
 ---
 choices: correspondents | janitors | captives | peasants
 answerText: peasants
+reviewed: yes
 ---
 【正解】4 peasants（農民たち、小作農たち）
 【和訳】

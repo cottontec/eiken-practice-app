@@ -1,6 +1,7 @@
 ---
 choices: elevation | domestication | deception | verification
 answerText: domestication
+reviewed: yes
 ---
 【正解】2 domestication（〔動物を〕飼いならすこと、家畜化）
 【和訳】

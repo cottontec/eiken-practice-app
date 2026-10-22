@@ -1,6 +1,7 @@
 ---
 choices: execution | vaccination | diagnosis | tendency
 answerText: diagnosis
+reviewed: yes
 ---
 【正解】3 diagnosis（診断）
 【和訳】

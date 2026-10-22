@@ -1,6 +1,7 @@
 ---
 choices: resigning | lobbying | violating | exhibiting
 answerText: lobbying
+reviewed: yes
 ---
 【正解】2 lobbying（（政府や議員に）働きかけている）
 【和訳】

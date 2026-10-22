@@ -1,6 +1,7 @@
 ---
 choices: It was so serious that it is still having a negative influence on the research and development of technology for the blind today. | It would have caused fewer bad feelings if Helen Keller had not decided that she should become involved in it. | It had some positive effects in the long term because the competition led to improvements in the lives of blind people. | It could have been avoided if people in those days had been more accepting of technologies like the typewriter.
 answerText: It had some positive effects in the long term because the competition led to improvements in the lives of blind people.
+reviewed: yes
 ---
 【正解】3 It had some positive effects in the long term because the competition led to improvements in the lives of blind people.（その競争が目の見えない人々の暮らしの向上につながったので、長い目で見るといくつかのよい影響があった。）
 【和訳】

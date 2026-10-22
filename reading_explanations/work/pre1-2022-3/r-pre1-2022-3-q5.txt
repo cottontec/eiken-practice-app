@@ -1,6 +1,7 @@
 ---
 choices: clog | boom | flaw | dump
 answerText: flaw
+reviewed: yes
 ---
 【正解】3 flaw（欠陥、まちがい）
 【和訳】

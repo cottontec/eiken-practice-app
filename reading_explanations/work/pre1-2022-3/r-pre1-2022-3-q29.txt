@@ -1,6 +1,7 @@
 ---
 choices: Rather | In short | Nonetheless | In exchange
 answerText: In exchange
+reviewed: yes
 ---
 【正解】4 In exchange（その見返りとして、引きかえに）
 【和訳】

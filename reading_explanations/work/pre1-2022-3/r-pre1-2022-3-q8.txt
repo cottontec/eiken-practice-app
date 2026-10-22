@@ -1,6 +1,7 @@
 ---
 choices: commemorate | alienate | liberate | incorporate
 answerText: incorporate
+reviewed: yes
 ---
 【正解】4 incorporate（組みこむ、取り入れる）
 【和訳】

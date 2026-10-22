@@ -1,6 +1,7 @@
 ---
 choices: alleged | amicable | abusive | adhesive
 answerText: amicable
+reviewed: yes
 ---
 【正解】2 amicable（友好的な、仲のよい）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: dialed up | went under | came along | pulled through
 answerText: went under
+reviewed: yes
 ---
 【正解】2 went under（倒産した）
 【和訳】

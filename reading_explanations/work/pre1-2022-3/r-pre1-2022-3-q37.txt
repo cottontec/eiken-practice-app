@@ -1,6 +1,7 @@
 ---
 choices: American diplomats still continue to worry that fighting will break out between Honduras and El Salvador again. | The terrible effects of the Soccer War made Honduras and El Salvador realize that their actions leading up to the war were wrong. | A mistaken belief about the Soccer War meant that its real causes were not recognized, resulting in another conflict. | The US government's policies caused many Central American nations to cut off relations, making the conflict in the region worse.
 answerText: A mistaken belief about the Soccer War meant that its real causes were not recognized, resulting in another conflict.
+reviewed: yes
 ---
 【正解】3 A mistaken belief about the Soccer War meant that its real causes were not recognized, resulting in another conflict.（サッカー戦争についての誤った思いこみのせいで、その本当の原因が認識されず、その結果、別の紛争が起きた。）
 【和訳】

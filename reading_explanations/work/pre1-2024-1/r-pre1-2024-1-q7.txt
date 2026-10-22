@@ -1,6 +1,7 @@
 ---
 choices: inept | outgoing | awkward | precise
 answerText: outgoing
+reviewed: yes
 ---
 【正解】2 outgoing（社交的な、外向的な）
 【和訳】

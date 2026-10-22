@@ -1,6 +1,7 @@
 ---
 choices: Changing the design of a fence after it has been built can actually cause more problems than building a new one. | It is possible that fences will continue to have an effect on animals in an area even after the fences have been removed. | Putting up multiple fences in a given area without a clear plan beforehand has not stopped animals from entering dangerous areas. | The number of animal species that make use of fences to protect themselves from predators has increased.
 answerText: It is possible that fences will continue to have an effect on animals in an area even after the fences have been removed.
+reviewed: yes
 ---
 【正解】2 It is possible that fences will continue to have an effect on animals in an area even after the fences have been removed.（フェンスが取り除かれたあとでさえ、フェンスがその地域の動物に影響を与え続ける可能性がある。）
 【和訳】

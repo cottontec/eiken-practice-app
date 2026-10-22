@@ -1,6 +1,7 @@
 ---
 choices: The time it saved blind people in reading made up for the fact that it took much longer to write than Braille. | The fact that it combined raised dots with other features made it easier for blind people to use it when communicating with one another. | Although it was difficult for students to learn, the fact that it could be read more quickly than Braille was a major advantage. | It was worth adopting because of the role it could play in helping blind people to better fit in with people who are able to see.
 answerText: It was worth adopting because of the role it could play in helping blind people to better fit in with people who are able to see.
+reviewed: yes
 ---
 【正解】4 It was worth adopting because of the role it could play in helping blind people to better fit in with people who are able to see.（目の見えない人々が、目の見える人々の中によりよく溶けこむのを助けるという役割を果たせるので、取り入れる価値があった。）
 【和訳】

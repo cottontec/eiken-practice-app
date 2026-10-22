@@ -1,6 +1,7 @@
 ---
 choices: has led to more mystery | many foods were of poor quality | this was not always the case | not all shipments arrived safely
 answerText: this was not always the case
+reviewed: yes
 ---
 【正解】3 this was not always the case（いつもそうだったわけではない）
 【和訳】
@@ -21,7 +22,7 @@ Since the fish is native not to China or Hong Kong but rather to Southeast Asian
 つまり、香港を通って送られてきたものの中に、中国や香港が元ではない魚がふくまれていたのです。this（このこと）は「食料品の産地が香港と中国であること」を指し、not always は「いつも～というわけではない」です。「香港と中国産だという考えが、いつも当てはまったわけではない」という証拠になるので、3が正解です。
 この問題の型：対比（長い間の思いこみ⇔however のあとの新しい証拠）、指示語（this が前の文の内容を指す）
 【ほかの選択肢】
-1 has led to more mystery（さらなる謎につながった）を入れると、「分析が、さらなる謎につながったという証拠を与えた」となり、意味がつながりません。また、後ろでは考古学者たちが魚の運ばれ方を説明しており、謎が深まったという話にはなっていません。
+1 has led to more mystery（さらなる謎につながった）を入れると、「魚の骨の分析が、さらなる謎につながったという証拠を与えた」のような意味になります。しかし、前の文の「産地は香港と中国だという考え」との関係が示されず、後ろで魚の産地と運ばれ方が説明されている流れともつながりません。謎が深まったという話も出てきません。
 2 many foods were of poor quality（多くの食べ物は質が悪かった）は、本文に書かれていません。本文で問題にされているのは食料品の産地で、品質の話は出てきません。
 4 not all shipments arrived safely（すべての積み荷が無事に届いたわけではない）は、本文に書かれていません。本文は魚がどこでとられ、どう運ばれたかを説明しており、積み荷が無事に届いたかどうかの話は出てきません。
 【覚えるポイント】

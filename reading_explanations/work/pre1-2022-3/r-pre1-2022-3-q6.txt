@@ -1,6 +1,7 @@
 ---
 choices: trimmed | teased | paralyzed | acquired
 answerText: paralyzed
+reviewed: yes
 ---
 【正解】3 paralyzed（まひした、〔恐怖などで〕動けなくなった）
 【和訳】

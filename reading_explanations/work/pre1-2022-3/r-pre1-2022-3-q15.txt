@@ -1,6 +1,7 @@
 ---
 choices: transmitted | rejoiced | nauseated | offended
 answerText: transmitted
+reviewed: yes
 ---
 【正解】1 transmitted（送られる、伝えられる）
 【和訳】

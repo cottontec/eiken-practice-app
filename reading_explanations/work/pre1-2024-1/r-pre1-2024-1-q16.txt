@@ -1,6 +1,7 @@
 ---
 choices: ran out of | came up with | got down to | looked in on
 answerText: got down to
+reviewed: yes
 ---
 【正解】3 got down to（～に（本気で）取りかかった）
 【和訳】

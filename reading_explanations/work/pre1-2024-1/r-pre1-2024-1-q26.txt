@@ -1,6 +1,7 @@
 ---
 choices: Members of a wild wolf pack tend not to use violence to make sure other wolves follow the rules of the group. | The lead female wolf generally only gives orders to other wolves in the pack that are her own offspring. | Many wild packs are likely to be led by the strongest pair of wolves that do not yet have partners. | The power structure of their packs tends to be firmly fixed until the younger members have grown into adult wolves.
 answerText: Members of a wild wolf pack tend not to use violence to make sure other wolves follow the rules of the group.
+reviewed: yes
 ---
 【正解】1 Members of a wild wolf pack tend not to use violence to make sure other wolves follow the rules of the group.（野生のオオカミの群れのメンバーは、ほかのオオカミに群れのルールを守らせるために暴力を使わない傾向がある。）
 【和訳】

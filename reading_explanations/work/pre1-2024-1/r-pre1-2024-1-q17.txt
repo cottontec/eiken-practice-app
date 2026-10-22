@@ -1,6 +1,7 @@
 ---
 choices: grow into | put forth | answer for | turn away
 answerText: put forth
+reviewed: yes
 ---
 【正解】2 put forth（（力・努力など）を出す、注ぐ）
 【和訳】

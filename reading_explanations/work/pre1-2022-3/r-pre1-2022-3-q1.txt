@@ -1,6 +1,7 @@
 ---
 choices: desperate | philosophical | inadequate | instrumental
 answerText: instrumental
+reviewed: yes
 ---
 【正解】4 instrumental（重要な役割を果たす、大いに役立つ）
 【和訳】

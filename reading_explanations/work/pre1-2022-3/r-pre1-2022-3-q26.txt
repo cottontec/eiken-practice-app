@@ -1,6 +1,7 @@
 ---
 choices: Consequently | Despite this | Similarly | In contrast
 answerText: Consequently
+reviewed: yes
 ---
 【正解】1 Consequently（その結果、したがって）
 【和訳】
@@ -27,4 +28,4 @@ they tended to live in neighborhoods known as Chinatowns, where there were bette
 4 In contrast（それとは対照的に）は、2つのものの違いを比べるときに使います。前の文と後ろの文は、比べ合う2つのものを並べているわけではないので、つながりません。
 【覚えるポイント】
 ・Consequently：「その結果、したがって」。前に原因、後ろに結果が来るときに使います。
-・空所の前の語（employment and accommodation）が空所の後ろで言いかえられている（jobs and housing）ときは、前の問題に対して後ろでどう行動したかが書かれていることが多いので、「原因→結果」のつながりかどうかを確かめるのが手がかりになります。
+・前の文で困りごと（ここでは差別）が書かれ、後ろの文でそれに対して人々がとった行動（ここではチャイナタウンに住むこと）が書かれているときは、「原因→結果」のつながりになっているかを確かめるのが手がかりになります。

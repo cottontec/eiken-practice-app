@@ -1,6 +1,7 @@
 ---
 choices: deprived | revived | obstructed | agitated
 answerText: revived
+reviewed: yes
 ---
 【正解】2 revived（復活させられた、よみがえった）
 【和訳】

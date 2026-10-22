@@ -1,6 +1,7 @@
 ---
 choices: defensive | innovative | abrupt | mournful
 answerText: innovative
+reviewed: yes
 ---
 【正解】2 innovative（革新的な）
 【和訳】

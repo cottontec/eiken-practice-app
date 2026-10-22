@@ -1,6 +1,7 @@
 ---
 choices: overtaken | overridden | underfed | underrated
 answerText: underrated
+reviewed: yes
 ---
 【正解】4 underrated（過小評価された）
 【和訳】

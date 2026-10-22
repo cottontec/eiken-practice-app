@@ -1,6 +1,7 @@
 ---
 choices: The changes that they caused in the migration patterns of animals resulted in the spread of disease among cattle. | They could be responsible for indirectly affecting an industry that is important to the country's economy. | They are considered necessary in order to increase the safety of tourists who visit the country to see wildlife. | The success they have had in reducing disease-spreading species has benefited ecosystems in unexpected ways.
 answerText: They could be responsible for indirectly affecting an industry that is important to the country's economy.
+reviewed: yes
 ---
 【正解】2 They could be responsible for indirectly affecting an industry that is important to the country's economy.（そのフェンスは、国の経済にとって大切な産業に間接的に影響を与える原因になるかもしれない。）
 【和訳】

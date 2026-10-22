@@ -1,6 +1,7 @@
 ---
 choices: there is further support for this theory | the chemical has another purpose | the plant is an important food source | many insects see the plant as a danger
 answerText: there is further support for this theory
+reviewed: yes
 ---
 【正解】1 there is further support for this theory（この説にはさらなる裏づけがある）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: scorch | intensify | exceed | utter
 answerText: utter
+reviewed: yes
 ---
 【正解】4 utter（（言葉）を発する、口に出す）
 【和訳】

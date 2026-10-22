@@ -1,6 +1,7 @@
 ---
 choices: carving | luring | soothing | ranking
 answerText: carving
+reviewed: yes
 ---
 【正解】1 carving（彫ること、刻むこと）
 【和訳】

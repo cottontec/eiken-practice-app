@@ -1,6 +1,7 @@
 ---
 choices: solitude | corruption | excess | consent
 answerText: solitude
+reviewed: yes
 ---
 【正解】1 solitude（ひとりでいること、孤独）
 【和訳】

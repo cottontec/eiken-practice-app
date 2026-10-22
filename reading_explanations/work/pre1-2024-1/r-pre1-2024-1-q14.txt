@@ -1,6 +1,7 @@
 ---
 choices: fragments | sermons | mergers | garments
 answerText: fragments
+reviewed: yes
 ---
 【正解】1 fragments（破片、かけら）
 【和訳】

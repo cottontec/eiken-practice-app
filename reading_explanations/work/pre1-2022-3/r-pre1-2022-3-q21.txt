@@ -1,6 +1,7 @@
 ---
 choices: withdraw | bypass | upgrade | overload
 answerText: withdraw
+reviewed: yes
 ---
 【正解】1 withdraw（退く、身を引く）
 【和訳】

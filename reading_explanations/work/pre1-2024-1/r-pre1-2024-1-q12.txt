@@ -1,6 +1,7 @@
 ---
 choices: clung | ground | strained | posed
 answerText: clung
+reviewed: yes
 ---
 【正解】1 clung（くっついた、はりついた）
 【和訳】

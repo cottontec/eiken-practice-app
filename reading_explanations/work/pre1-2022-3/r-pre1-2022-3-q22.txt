@@ -1,6 +1,7 @@
 ---
 choices: rolling in | adding up | holding out | passing down
 answerText: rolling in
+reviewed: yes
 ---
 【正解】1 rolling in（〔雲・嵐などが〕押し寄せてくる）
 【和訳】

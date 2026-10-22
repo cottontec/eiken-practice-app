@@ -1,6 +1,7 @@
 ---
 choices: struggled to find enough food | traveled throughout the year | traded with each other | formed larger communities
 answerText: traveled throughout the year
+reviewed: yes
 ---
 【正解】2 traveled throughout the year（1年を通じて移動していた）
 【和訳】

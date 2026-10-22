@@ -1,6 +1,7 @@
 ---
 choices: fatigue | petition | deficit | conspiracy
 answerText: deficit
+reviewed: yes
 ---
 【正解】3 deficit（赤字、不足額）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: Many of the architectural techniques pioneered by Matrix eventually came to dominate the design processes taught in architecture schools today. | Although the methods Matrix used to include ordinary people in the design process of buildings were too simple to be effective, they helped people feel included. | People who were previously ignored became more confident to give their opinions regarding the design of spaces around them. | Even though the group’s members no longer do architecture-related work, designers of public areas continue to take inspiration from their principles.
 answerText: People who were previously ignored became more confident to give their opinions regarding the design of spaces around them.
+reviewed: yes
 ---
 【正解】3 People who were previously ignored became more confident to give their opinions regarding the design of spaces around them.（以前は無視されていた人々が、身の回りの空間の設計について、より自信を持って意見を言うようになった。）
 【和訳】

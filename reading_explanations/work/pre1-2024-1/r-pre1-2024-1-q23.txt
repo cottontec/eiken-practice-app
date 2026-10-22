@@ -1,6 +1,7 @@
 ---
 choices: also came with some challenges | have made her a lot of money | were not understood by her family | helped her begin a new career
 answerText: also came with some challenges
+reviewed: yes
 ---
 【正解】1 also came with some challenges（いくつかの困難ももたらした）
 【和訳】

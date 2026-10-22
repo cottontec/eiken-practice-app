@@ -1,6 +1,7 @@
 ---
 choices: setbacks | artifacts | pledges | salutes
 answerText: artifacts
+reviewed: yes
 ---
 【正解】2 artifacts（人工遺物、昔の人が作った物）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: stuck up for | got around to | fell back on | went in with
 answerText: stuck up for
+reviewed: yes
 ---
 【正解】1 stuck up for（～をかばった、～の味方をした）
 【和訳】

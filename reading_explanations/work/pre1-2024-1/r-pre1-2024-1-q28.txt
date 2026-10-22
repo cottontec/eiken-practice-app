@@ -1,6 +1,7 @@
 ---
 choices: The large number of new groups being established made it difficult for individual architects to be successful by themselves. | Some architects felt that people who used the buildings they designed often did not care about the person who designed them. | The way in which a majority of buildings were designed at the time only considered the needs of a single group of people. | Many women who worked as architects believed that feminist architecture needed to have a stronger identity.
 answerText: The way in which a majority of buildings were designed at the time only considered the needs of a single group of people.
+reviewed: yes
 ---
 【正解】3 The way in which a majority of buildings were designed at the time only considered the needs of a single group of people.（当時、建物の大部分の設計のされ方は、1つの集団の人々のニーズしか考えていなかった。）
 【和訳】

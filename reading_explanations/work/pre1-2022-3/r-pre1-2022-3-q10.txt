@@ -1,6 +1,7 @@
 ---
 choices: scarcely | courteously | tediously | obnoxiously
 answerText: courteously
+reviewed: yes
 ---
 【正解】2 courteously（礼儀正しく、ていねいに）
 【和訳】

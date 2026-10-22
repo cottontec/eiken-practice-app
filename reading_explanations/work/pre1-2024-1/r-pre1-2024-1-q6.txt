@@ -1,6 +1,7 @@
 ---
 choices: deflect | devour | deprive | deploy
 answerText: deflect
+reviewed: yes
 ---
 【正解】1 deflect（（ボールなど）の向きをそらす、はじく）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: misfortune | dialect | aptitude | thorn
 answerText: aptitude
+reviewed: yes
 ---
 【正解】3 aptitude（才能、適性）
 【和訳】

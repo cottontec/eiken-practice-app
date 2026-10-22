@@ -1,6 +1,7 @@
 ---
 choices: occurred more often in young people | could only be treated with medicine | was limited to certain skills | could only occur in two ways
 answerText: could only occur in two ways
+reviewed: yes
 ---
 【正解】4 could only occur in two ways（2つの形でしか起こりえない）
 【和訳】

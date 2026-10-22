@@ -1,6 +1,7 @@
 ---
 choices: fences that cross through more than one type of habitat benefit animals more than those built within a single habitat. | although fences create many problems, they have less of an effect on the ability of animal populations to survive than previously thought. | fences are effective at protecting some species from other harmful species that tend to use up the resources many animals need to survive. | although fences are not harmful to some species, they can have serious negative effects on a large number of animals.
 answerText: although fences are not harmful to some species, they can have serious negative effects on a large number of animals.
+reviewed: yes
 ---
 【正解】4 although fences are not harmful to some species, they can have serious negative effects on a large number of animals.（フェンスは一部の種には害がないが、多くの動物に深刻な悪い影響を与えることがある（ということ）。）
 【和訳】
