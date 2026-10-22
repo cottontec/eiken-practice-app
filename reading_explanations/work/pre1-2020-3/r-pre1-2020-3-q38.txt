@@ -1,0 +1,31 @@
+---
+choices: Coral reefs that do not support much life are generally found in areas of the ocean that are home to a wide variety of marine species. | In spite of the lack of life in the open water around them, coral reefs are able to support large populations of sea creatures. | Coral reefs that form in cold water are better able to support life than those that develop where temperatures are higher. | Sea creatures that live alone prefer to live near coral reefs, while those found in groups prefer parts of the ocean with warmer water.
+answerText: In spite of the lack of life in the open water around them, coral reefs are able to support large populations of sea creatures.
+---
+【正解】2 In spite of the lack of life in the open water around them, coral reefs are able to support large populations of sea creatures.（周りの外洋には生き物が少ないにもかかわらず、サンゴ礁はたくさんの海の生き物を支えることができる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Which of the following statements best summarizes "Darwin's Paradox"?（次のうち、「ダーウィンのパラドックス」を最もよくまとめているのはどれか。）
+1 Coral reefs that do not support much life are generally found in areas of the ocean that are home to a wide variety of marine species.（あまり生き物を支えていないサンゴ礁は、ふつう、さまざまな種類の海の生き物がすむ海域で見られる。）
+2 In spite of the lack of life in the open water around them, coral reefs are able to support large populations of sea creatures.（周りの外洋には生き物が少ないにもかかわらず、サンゴ礁はたくさんの海の生き物を支えることができる。）
+3 Coral reefs that form in cold water are better able to support life than those that develop where temperatures are higher.（冷たい水の中にできるサンゴ礁は、水温がより高い場所にできるサンゴ礁よりも、生き物をよく支えることができる。）
+4 Sea creatures that live alone prefer to live near coral reefs, while those found in groups prefer parts of the ocean with warmer water.（単独で暮らす海の生き物はサンゴ礁の近くに住むのを好むが、群れで見られる生き物はより暖かい水の海域を好む。）
+【考え方】
+まず見るところ：第1段落の最後の What was it, he wondered, that caused a coral island to become a fertile oasis amid the nearly lifeless desert of the ocean around it?
+paradox は「パラドックス（一見すると筋が通らないように思えること）」です。第2段落の This mystery, which became known as "Darwin's Paradox,"（「ダーウィンのパラドックス」として知られるようになったこの謎）の This mystery（この謎）は、第1段落の最後の文の疑問を指しています。
+What was it, he wondered, that caused a coral island to become a fertile oasis amid the nearly lifeless desert of the ocean around it?（サンゴ礁の島を、周りのほとんど生き物のいない海という砂漠の中の、豊かなオアシスにしているのは何なのだろうか、と彼は不思議に思った）
+fertile は「豊かな、実りの多い」、oasis は「オアシス（砂漠の中で水があり、植物が育つ場所）」、amid は「～の中で」、lifeless は「生き物のいない」です。周りの海には生き物が少ないのに、サンゴ礁の島の周りにはたくさんの生き物がいる、という謎です。
+本文と選択肢2を対にすると、次のようになります。
+本文 the nearly lifeless desert of the ocean around it（周りのほとんど生き物のいない海という砂漠）＝ 選択肢 the lack of life in the open water around them（周りの外洋に生き物が少ないこと）
+本文 a fertile oasis／an abundance of marine species around them（豊かなオアシス／周りのたくさんの種類の海の生き物）＝ 選択肢 support large populations of sea creatures（たくさんの海の生き物を支える）
+ですから2が正解です。
+この問題の型：指示語（This mystery＝第1段落の最後の疑問）／言いかえ（lifeless desert ＝ lack of life、fertile oasis ＝ support large populations）
+【ほかの選択肢】
+1 本文と逆です。本文では、生き物が少ないのは周りの外洋で、サンゴ礁の周りにはたくさんの生き物がいます。選択肢1は、生き物の少ないサンゴ礁が生き物の多い海域にあると言っているので、関係が反対になっています。
+3 本文にありません。本文に冷たい水が出てくるのは第3段落の湧昇（深海の冷たい水が上がってくること）の説明だけで、冷たい水のサンゴ礁と暖かい水のサンゴ礁を比べた話はありません。
+4 本文にありません。単独で暮らす生き物と群れで暮らす生き物の好む場所の違いは、どこにも書かれていません。
+【覚えるポイント】
+・paradox：「パラドックス、逆説（一見すると筋が通らないように思えること）」。ここでは「暖かく青い海なのに生き物が少なく、サンゴ礁の周りだけ生き物が多い」ことです。
+・「～をまとめているのはどれか」という設問では、This mystery（この謎）のような指示語が指す前の部分を見つけると手がかりになります。対比されている2つ（ここでは周りの海とサンゴ礁）の関係が、選択肢で逆になっていないかを確かめます。

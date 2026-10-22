@@ -1,6 +1,7 @@
 ---
 choices: The use of hostile architecture only lessens the symptoms of societal problems, while ignoring the actual causes. | Homeless people and others who spend time in public spaces must be consulted about their design. | Although homeless people and teenagers often intentionally damage architecture, the damage is usually minor. | Hostile architecture shows that architects are prioritizing their own financial gain over the opportunity to help society.
 answerText: The use of hostile architecture only lessens the symptoms of societal problems, while ignoring the actual causes.
+reviewed: yes
 ---
 【正解】1 The use of hostile architecture only lessens the symptoms of societal problems, while ignoring the actual causes.（敵対的建築を使うことは、社会の問題の症状を軽くするだけで、本当の原因は無視している。）
 【和訳】

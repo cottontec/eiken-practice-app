@@ -1,6 +1,7 @@
 ---
 choices: rotate | spoil | rehabilitate | gargle
 answerText: spoil
+reviewed: yes
 ---
 【正解】2 spoil（～を甘やかしてだめにする）
 【和訳】

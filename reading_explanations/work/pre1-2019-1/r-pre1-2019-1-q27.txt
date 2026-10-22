@@ -1,6 +1,7 @@
 ---
 choices: was influenced by a social trend | put a huge strain on the city | remains difficult to explain | came too late
 answerText: was influenced by a social trend
+reviewed: yes
 ---
 【正解】1 was influenced by a social trend（ある社会の流れに影響を受けていた）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: victorious | needy | conventional | adverse
 answerText: adverse
+reviewed: yes
 ---
 【正解】4 adverse（不利な、都合の悪い）
 【和訳】

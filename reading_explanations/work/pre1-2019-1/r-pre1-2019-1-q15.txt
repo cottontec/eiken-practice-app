@@ -1,6 +1,7 @@
 ---
 choices: shallow | stern | lean | aquatic
 answerText: stern
+reviewed: yes
 ---
 【正解】2 stern（厳しい、いかめしい）
 【和訳】

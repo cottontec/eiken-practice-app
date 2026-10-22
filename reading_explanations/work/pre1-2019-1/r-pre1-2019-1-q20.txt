@@ -1,6 +1,7 @@
 ---
 choices: encased | minimized | designated | interrupted
 answerText: designated
+reviewed: yes
 ---
 【正解】3 designated（指名された、任命された）
 【和訳】

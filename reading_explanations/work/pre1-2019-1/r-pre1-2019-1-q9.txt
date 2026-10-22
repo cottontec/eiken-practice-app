@@ -1,6 +1,7 @@
 ---
 choices: administrator | inspector | originator | intruder
 answerText: intruder
+reviewed: yes
 ---
 【正解】4 intruder（侵入者、勝手に入りこむ人）
 【和訳】

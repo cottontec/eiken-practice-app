@@ -1,6 +1,7 @@
 ---
 choices: recurrent | swift | nautical | frantic
 answerText: recurrent
+reviewed: yes
 ---
 【正解】1 recurrent（くり返し現れる、何度も起こる）
 【和訳】

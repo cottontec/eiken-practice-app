@@ -1,6 +1,7 @@
 ---
 choices: turned down | packed up | aired out | felt for
 answerText: felt for
+reviewed: yes
 ---
 【正解】4 felt for（～に同情した、～を気の毒に思った）
 【和訳】

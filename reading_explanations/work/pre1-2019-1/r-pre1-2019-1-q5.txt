@@ -1,6 +1,7 @@
 ---
 choices: equivalent | ethical | extravagant | ethnic
 answerText: ethical
+reviewed: yes
 ---
 【正解】2 ethical（倫理的な、人として正しい）
 【和訳】

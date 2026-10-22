@@ -1,6 +1,7 @@
 ---
 choices: chunk | horn | prop | knot
 answerText: knot
+reviewed: yes
 ---
 【正解】4 knot（結び目）
 【和訳】

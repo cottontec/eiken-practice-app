@@ -1,6 +1,7 @@
 ---
 choices: vulnerable | instructive | stale | genuine
 answerText: vulnerable
+reviewed: yes
 ---
 【正解】1 vulnerable（〔攻撃などに〕弱い、やられやすい）
 【和訳】

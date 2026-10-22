@@ -1,6 +1,7 @@
 ---
 choices: can sometimes have an effect on public behavior that is opposite to what its designers originally intended. | can actually make public spaces more comfortable since it improves the flow of pedestrian traffic in crowded areas. | sends the message that people are only considered to be true members of society when they are earning or spending money. | is designed by architects who care more about how spaces look than how citizens will want to use those spaces.
 answerText: sends the message that people are only considered to be true members of society when they are earning or spending money.
+reviewed: yes
 ---
 【正解】3 sends the message that people are only considered to be true members of society when they are earning or spending money.（人々が本当の社会の一員として見なされるのは、お金をかせいでいるか使っているときだけだ、というメッセージを送っている。）
 【和訳】

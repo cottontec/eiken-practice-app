@@ -1,6 +1,7 @@
 ---
 choices: It is important in order to ensure that governments are quick to repair damage to publicly funded structures. | It promotes employee satisfaction by encouraging workers to spend more time in outside areas during break periods. | It helps businesses protect themselves by forcing criminals to operate in open areas that can be easily observed. | It is necessary to ensure public safety in spite of the fact that it may reduce the appeal of shared spaces.
 answerText: It is necessary to ensure public safety in spite of the fact that it may reduce the appeal of shared spaces.
+reviewed: yes
 ---
 【正解】4 It is necessary to ensure public safety in spite of the fact that it may reduce the appeal of shared spaces.（それは、みんなで使う場所の魅力を下げるかもしれないにもかかわらず、一般の人々の安全を確保するために必要だ。）
 【和訳】

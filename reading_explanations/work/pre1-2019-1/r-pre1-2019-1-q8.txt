@@ -1,6 +1,7 @@
 ---
 choices: exceed | endeavor | entice | exhale
 answerText: endeavor
+reviewed: yes
 ---
 【正解】2 endeavor（努力する）
 【和訳】

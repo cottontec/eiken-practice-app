@@ -1,0 +1,31 @@
+---
+choices: disgrace | closure | mercy | seclusion
+answerText: mercy
+---
+【正解】3 mercy（慈悲、情け）
+【和訳】
+（英文）
+After considering the case, the judge decided to show ［mercy］ and only gave the man a warning. She said that he was clearly very sorry for his crime.
+（訳）
+その事件についてよく考えたあと、裁判官は（情け）をかけることに決め、その男性に警告を与えるだけにした。裁判官は、彼が自分の犯した罪を明らかにとても悔やんでいると言った。
+（選択肢の意味）
+1 disgrace：不名誉、恥
+2 closure：閉鎖、（物事の）区切り
+3 mercy：慈悲、情け（罰を軽くしてゆるすこと）
+4 seclusion：人から離れて暮らすこと、隔離
+【考え方】
+まず見るところ：空所のあとの and only gave the man a warning
+裁判官が何かを show（示す）ことに決めた結果が、空所のあとに書かれています。
+only gave the man a warning（その男性に警告を与えるだけにした）
+only（～だけ）があるので、裁判官は重い罰を与えず、警告だけですませたことが分かります。罰を軽くしたということです。
+次の文には、その理由が書かれています。
+She said that he was clearly very sorry for his crime.（彼女は、彼が自分の罪を明らかにとても悔やんでいると言った）
+男性が深く反省していたので、裁判官は罰を軽くしたのです。mercy は「慈悲、情け」で、show mercy で「情けをかける」という意味になります。よって3が正解です。
+この問題の型：語の意味・組み合わせ（show mercy：情けをかける）
+【ほかの選択肢】
+1 disgrace は「不名誉、恥」です。「恥を示すことに決め、警告だけを与えた」となり、罰を軽くしたことと意味がつながりません。
+2 closure は「閉鎖、区切り」です。「閉鎖を示すことに決めた」では、警告だけですませたこととつながらず、意味が通りません。
+4 seclusion は「人から離れて暮らすこと、隔離」です。「隔離を示すことに決め、警告だけを与えた」となり、意味が通りません。
+【覚えるポイント】
+・show mercy：「情けをかける、慈悲を示す」。be sorry for ～：「～を悔やむ、～をすまなく思う」。
+・空所のあとに only gave ～ a warning（警告だけを与えた）のような「軽い対応」が書かれているときは、罰を軽くすることを表す語が入る手がかりになります。

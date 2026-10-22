@@ -1,6 +1,7 @@
 ---
 choices: He wanted to end Oxford's rivalry with Cambridge in order to improve the overall quality of education in England. | He believed connections with a group of new institutions could expand his university's influence throughout England. | He wanted to decrease universities' association with the government by ensuring each one could become financially independent. | He believed that Oxford's courses needed to be brought more in line with the university's original educational standards.
 answerText: He believed connections with a group of new institutions could expand his university's influence throughout England.
+reviewed: yes
 ---
 【正解】2 He believed connections with a group of new institutions could expand his university's influence throughout England.（彼は、新しい教育機関の集まりとのつながりによって、自分の大学の影響をイングランド中に広げられると考えていた。）
 【和訳】

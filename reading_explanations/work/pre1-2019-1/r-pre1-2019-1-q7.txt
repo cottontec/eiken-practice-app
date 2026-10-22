@@ -1,6 +1,7 @@
 ---
 choices: disposable | admirable | industrious | ingenious
 answerText: disposable
+reviewed: yes
 ---
 【正解】1 disposable（使い捨ての）
 【和訳】

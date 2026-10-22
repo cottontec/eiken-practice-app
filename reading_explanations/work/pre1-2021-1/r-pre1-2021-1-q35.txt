@@ -1,0 +1,34 @@
+---
+choices: reducing many plant species that the Sámi rely on as a source of food when reindeer are not available. | impacting both the living areas and food sources of the animals that the Sámi depend on economically. | forcing the Sámi to adopt farming methods that are financially less rewarding than their traditional ones. | attracting corporations that have put pressure on the Sámi to give up their land for oil and gas exploration.
+answerText: impacting both the living areas and food sources of the animals that the Sámi depend on economically.
+---
+【正解】2 impacting both the living areas and food sources of the animals that the Sámi depend on economically.（サーミの人々が経済的に頼っている動物の、すみかと食べ物の両方に影響を与えること。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Climate change has affected the Sámi lifestyle by（気候変動は、～ことによって、サーミの人々の生活様式に影響を与えてきた。）
+1 reducing many plant species that the Sámi rely on as a source of food when reindeer are not available.（トナカイが手に入らないときにサーミの人々が食べ物として頼っている、多くの種類の植物を減らす）
+2 impacting both the living areas and food sources of the animals that the Sámi depend on economically.（サーミの人々が経済的に頼っている動物の、すみかと食べ物の両方に影響を与える）
+3 forcing the Sámi to adopt farming methods that are financially less rewarding than their traditional ones.（伝統的なやり方よりも収入の少ない農業のやり方を取り入れるよう、サーミの人々に強いる）
+4 attracting corporations that have put pressure on the Sámi to give up their land for oil and gas exploration.（石油や天然ガスの探査のために土地を手放すようサーミの人々に圧力をかけてきた企業を、引き寄せる）
+【考え方】
+まず見るところ：第1段落の the reindeer herds they rely on are under severe pressure due to climate change and the resulting habitat loss と、prevents reindeer from accessing the plants they need for food
+第1段落の初めに、サーミの人々は reindeer farming（トナカイの飼育）で生計を立ててきたとあります。そのうえで、次のように書かれています。
+However, the reindeer herds they rely on are under severe pressure due to climate change and the resulting habitat loss.（しかし、彼らが頼っているトナカイの群れは、気候変動と、その結果として起こるすみかの喪失によって、厳しい圧力にさらされている）
+herd は「（動物の）群れ」、habitat は「すみか、生息地」です。気候変動で、トナカイのすみかが失われていることが分かります。
+さらに、食べ物についても次のように書かれています。
+Unstable temperatures in winter cause snow to melt and then freeze into ice, which prevents reindeer from accessing the plants they need for food.（冬の気温が不安定なために、雪がとけてから凍って氷になり、それによってトナカイは、食べ物として必要な植物にたどりつけなくなる）
+本文と選択肢2を対にすると、次のようになります。
+本文 the reindeer herds they rely on（彼らが頼っているトナカイの群れ）＝ 選択肢 the animals that the Sámi depend on economically（サーミの人々が経済的に頼っている動物）
+本文 habitat loss（すみかの喪失）＝ 選択肢 the living areas（すみか）への影響
+本文 prevents reindeer from accessing the plants they need for food（トナカイが食べ物の植物にたどりつけない）＝ 選択肢 food sources（食べ物）への影響
+ですから2が正解です。
+この問題の型：言いかえ（rely on ＝ depend on／habitat ＝ living areas）
+【ほかの選択肢】
+1 本文にありません。本文で植物が出てくるのは、トナカイが食べる植物としてです。トナカイが手に入らないときにサーミの人々が植物を食べる、という話は書かれていません。
+3 本文にありません。サーミの人々が、伝統的なやり方より収入の少ない農業のやり方を取り入れさせられた、とは書かれていません。
+4 一部だけ本文と重なりますが、言い切りすぎです。企業が石油や天然ガスの探査のためにサーミの土地に進出していることは書かれています。しかし、企業がサーミの人々に土地を手放すよう圧力をかけた、とは書かれていません。本文で under severe pressure（厳しい圧力にさらされている）とされているのは、トナカイの群れです。
+【覚えるポイント】
+・選択肢に both A and B（AとBの両方）があるときは、AとBのそれぞれについて本文に根拠があるかを確かめます。ここでは habitat loss（すみか）と the plants they need for food（食べ物）の両方が本文にありました。
+・rely on ＝ depend on（～に頼る）のように、本文と選択肢で同じ意味の別の語が使われることがよくあります。

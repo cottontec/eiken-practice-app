@@ -1,6 +1,7 @@
 ---
 choices: hold out | wash away | pass out | blast off
 answerText: hold out
+reviewed: yes
 ---
 【正解】1 hold out（〔要求が通るまで〕ゆずらずに持ちこたえる）
 【和訳】

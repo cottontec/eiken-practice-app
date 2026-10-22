@@ -1,6 +1,7 @@
 ---
 choices: had warned that this would happen | were unfamiliar with the local culture | tried to profit from the situation | could not cooperate with each other
 answerText: were unfamiliar with the local culture
+reviewed: yes
 ---
 【正解】2 were unfamiliar with the local culture（地元の文化をよく知らなかった）
 【和訳】

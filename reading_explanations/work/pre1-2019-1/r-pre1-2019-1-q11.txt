@@ -1,6 +1,7 @@
 ---
 choices: virtually | tenderly | vividly | diagonally
 answerText: virtually
+reviewed: yes
 ---
 【正解】1 virtually（事実上、ほとんど）
 【和訳】

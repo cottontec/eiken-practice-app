@@ -1,6 +1,7 @@
 ---
 choices: have become more severe because of increases in the quantity of wheat that people regularly consume. | occur to some degree in the majority of people whose ancestors came from European countries. | can actually lead to increased absorption of nutrients in around 1 percent of people with the condition. | occur in only a small percentage of the people whose genes put them at risk for the condition.
 answerText: occur in only a small percentage of the people whose genes put them at risk for the condition.
+reviewed: yes
 ---
 【正解】4 occur in only a small percentage of the people whose genes put them at risk for the condition.（遺伝子のせいでこの病気にかかるおそれがある人々のうち、ほんの少しの割合の人にしか起こらない。）
 【和訳】

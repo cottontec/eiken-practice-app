@@ -1,6 +1,7 @@
 ---
 choices: gaze | summit | friction | procession
 answerText: procession
+reviewed: yes
 ---
 【正解】4 procession（行列）
 【和訳】

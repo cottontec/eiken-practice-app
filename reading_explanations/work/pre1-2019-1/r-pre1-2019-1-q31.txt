@@ -1,6 +1,7 @@
 ---
 choices: Despite this | In contrast | Otherwise | Not surprisingly
 answerText: Not surprisingly
+reviewed: yes
 ---
 【正解】4 Not surprisingly（当然のことながら、驚くことではないが）
 【和訳】

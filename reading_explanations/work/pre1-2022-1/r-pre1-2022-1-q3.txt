@@ -1,0 +1,30 @@
+---
+choices: echo | bow | dump | shrug
+answerText: shrug
+---
+【正解】4 shrug（〈肩を〉すくめる）
+【和訳】
+（英文）
+A: Annabel, don't just ［shrug］ your shoulders when I ask you if you've finished your homework. Give me a clear answer.
+B: Sorry, Mom. I'm almost done with it.
+（訳）
+A：アナベル、宿題が終わったかどうか聞いているのに、ただ肩を（すくめる）だけなのはやめて。はっきり答えて。
+B：ごめんなさい、お母さん。もうすぐ終わるところ。
+（選択肢の意味）
+1 echo：こだまする、（言葉を）くり返す
+2 bow：おじぎをする、（頭を）下げる
+3 dump：（どさっと）捨てる、投げ出す
+4 shrug：（肩を）すくめる（「さあ」「知らない」という気持ちを表す動作）
+【考え方】
+まず見るところ：空所のあとの your shoulders と、Give me a clear answer.
+空所のあとに your shoulders（あなたの肩）が続いています。肩を使ってする動作の語が入ると考えられます。
+Give me a clear answer.（はっきり答えて）
+お母さんは、アナベルがはっきり答えずに、あいまいな動作ですませたことを注意しています。shrug one's shoulders は「肩をすくめる」で、「さあね」「分からない」という気持ちを表す動作です。よって4が正解です。
+この問題の型：語の意味・組み合わせ（shrug ＋ shoulders）
+【ほかの選択肢】
+1 echo は「こだまする、くり返す」です。「肩をくり返す」では意味が通りません。
+2 bow は「おじぎをする、頭を下げる」です。「肩をおじぎさせる」では意味が通らず、おじぎは答えをはっきりさせない動作でもないので、Give me a clear answer. ともつながりません。
+3 dump は「どさっと捨てる」です。「肩を捨てる」では意味が通りません。
+【覚えるポイント】
+・shrug one's shoulders：「肩をすくめる」。be done with ～：「～を終える」。
+・空所のすぐあとに体の部分（ここでは shoulders）があるときは、その部分を使う動作を表す語かどうかが手がかりになります。

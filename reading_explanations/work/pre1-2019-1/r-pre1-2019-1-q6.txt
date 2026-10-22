@@ -1,6 +1,7 @@
 ---
 choices: paraphrase | contradict | obstruct | scorn
 answerText: paraphrase
+reviewed: yes
 ---
 【正解】1 paraphrase（～を〔別の言葉で〕言いかえる）
 【和訳】

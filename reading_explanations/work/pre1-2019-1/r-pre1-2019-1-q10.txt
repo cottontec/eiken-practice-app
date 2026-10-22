@@ -1,6 +1,7 @@
 ---
 choices: declaration | attachment | elimination | supplement
 answerText: elimination
+reviewed: yes
 ---
 【正解】3 elimination（取り除くこと、なくすこと）
 【和訳】

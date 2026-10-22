@@ -1,6 +1,7 @@
 ---
 choices: tombs | bolts | stems | ashes
 answerText: stems
+reviewed: yes
 ---
 【正解】3 stems（茎）
 【和訳】

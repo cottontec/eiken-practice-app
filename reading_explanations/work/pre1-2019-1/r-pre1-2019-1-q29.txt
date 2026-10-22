@@ -1,6 +1,7 @@
 ---
 choices: amount of time was limited | farmers had already received aid | report had not been accurate | local cattle were not fit for export
 answerText: report had not been accurate
+reviewed: yes
 ---
 【正解】3 report had not been accurate（報告書は正確ではなかった）
 【和訳】

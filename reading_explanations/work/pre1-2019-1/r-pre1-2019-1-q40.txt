@@ -1,6 +1,7 @@
 ---
 choices: Students there encouraged students at other universities to oppose the "Stamford Oath" by ignoring attempts to legally enforce it. | It was established by people whose ultimate goal was to become a part of either Oxford or Cambridge. | The government approved its establishment in order to show its willingness to make changes and therefore gain popularity with the public. | It was established without the permission of the ruling powers in England and was criticized by them because of this.
 answerText: It was established without the permission of the ruling powers in England and was criticized by them because of this.
+reviewed: yes
 ---
 【正解】4 It was established without the permission of the ruling powers in England and was criticized by them because of this.（それはイングランドで権力を持つ者たちの許可を得ずに設立され、そのことで彼らから批判された。）
 【和訳】

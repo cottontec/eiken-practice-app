@@ -1,6 +1,7 @@
 ---
 choices: There was an increase in the rates of serious diseases among Dutch children who started eating more German foods. | Many sick Dutch children experienced an improvement in their health when their access to a staple food was cut off. | Health benefits were observed when some Dutch and German adults added grass and tulip bulbs to their regular diet. | Dutch children who ate a lot of bread weighed much more than German children who had a similar diet.
 answerText: Many sick Dutch children experienced an improvement in their health when their access to a staple food was cut off.
+reviewed: yes
 ---
 【正解】2 Many sick Dutch children experienced an improvement in their health when their access to a staple food was cut off.（主食を手に入れる道が断たれたとき、病気だった多くのオランダの子どもたちの健康がよくなった。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: evade | comply | stare | horrify
 answerText: comply
+reviewed: yes
 ---
 【正解】2 comply（〔規則などに〕従う）
 【和訳】

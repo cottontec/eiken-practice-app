@@ -1,6 +1,7 @@
 ---
 choices: tremble | magnify | sympathize | harass
 answerText: tremble
+reviewed: yes
 ---
 【正解】1 tremble（震える）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: fracture | disclose | invoice | withstand
 answerText: disclose
+reviewed: yes
 ---
 【正解】2 disclose（～を明かす、公表する）
 【和訳】

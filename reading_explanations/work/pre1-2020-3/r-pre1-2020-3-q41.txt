@@ -1,0 +1,32 @@
+---
+choices: It could help scientists understand more clearly how global warming affects the patterns of storms and floods that form in coastal areas. | It might enable scientists to lessen the harmful effects that the fishing industry has had on the ecosystems around coral reefs. | It could help scientists to understand how ocean currents can be prevented from warming even though global temperatures are increasing. | It might enable scientists to discover ways to protect coral reefs against shifts in ocean currents and temperatures.
+answerText: It might enable scientists to discover ways to protect coral reefs against shifts in ocean currents and temperatures.
+---
+【正解】4 It might enable scientists to discover ways to protect coral reefs against shifts in ocean currents and temperatures.（科学者たちが、海流や気温の変化からサンゴ礁を守る方法を見つけられるようになるかもしれない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：How might a better understanding of the IME be useful?（IMEをよりよく理解することは、どのように役に立つかもしれないか。）
+1 It could help scientists understand more clearly how global warming affects the patterns of storms and floods that form in coastal areas.（地球温暖化が、海岸地域で起こる嵐や洪水のパターンにどのように影響するかを、科学者たちがよりはっきり理解する助けになるかもしれない。）
+2 It might enable scientists to lessen the harmful effects that the fishing industry has had on the ecosystems around coral reefs.（漁業がサンゴ礁の周りの生態系に与えてきた有害な影響を、科学者たちが減らせるようになるかもしれない。）
+3 It could help scientists to understand how ocean currents can be prevented from warming even though global temperatures are increasing.（地球の気温が上がっていても、どうすれば海流が暖まるのを防げるかを、科学者たちが理解する助けになるかもしれない。）
+4 It might enable scientists to discover ways to protect coral reefs against shifts in ocean currents and temperatures.（科学者たちが、海流や気温の変化からサンゴ礁を守る方法を見つけられるようになるかもしれない。）
+【考え方】
+まず見るところ：第4段落の最後の It will become increasingly vital to better understand the IME and take appropriate action to preserve it ～
+第4段落では、まずサンゴ礁がこれから受ける影響が書かれています。
+As climate change raises global temperatures and alters the movement of ocean currents around the planet, reef ecosystems will be affected significantly.（気候変動によって地球の気温が上がり、地球のまわりの海流の動きが変わるにつれて、サンゴ礁の生態系は大きな影響を受けるだろう）
+alter は「変える」、ocean currents は「海流」です。
+It will become increasingly vital to better understand the IME and take appropriate action to preserve it so that the harmful effects of future weather patterns on coral reefs can be reduced.（将来の天候のパターンがサンゴ礁に与える有害な影響を減らせるように、IMEをよりよく理解し、それを守るための適切な行動をとることが、ますます重要になるだろう）
+vital は「極めて重要な」、preserve は「守る、保存する」、so that ～ can ... は「～が…できるように」です。IMEをよく理解すれば、気候の変化からサンゴ礁を守る行動がとれる、という流れです。
+本文 raises global temperatures and alters the movement of ocean currents（気温が上がり、海流の動きが変わる）＝ 選択肢 shifts in ocean currents and temperatures（海流や気温の変化）
+本文 take appropriate action ～ so that the harmful effects ～ on coral reefs can be reduced（サンゴ礁への有害な影響を減らせるように適切な行動をとる）→ 選択肢 discover ways to protect coral reefs（サンゴ礁を守る方法を見つける）
+ですから4が正解です。
+この問題の型：言いかえ（alters the movement of ocean currents ＝ shifts in ocean currents）／推論
+【ほかの選択肢】
+1 本文にありません。本文で嵐や洪水が出てくるのは、サンゴ礁が海岸線を嵐や洪水の影響から守っているという説明です。IMEの理解が嵐や洪水のパターンの理解に役立つとは書かれていません。
+2 本文にありません。本文では、サンゴ礁は漁業にとって重要な資源だと書かれていますが、漁業がサンゴ礁の生態系に有害な影響を与えてきたという話は出てきません。
+3 本文にありません。海流が暖まるのを防ぐという話は出てきません。本文で述べられているのは、気候の変化からサンゴ礁を守ることです。
+【覚えるポイント】
+・alter と shift はどちらも「変える、変化（する）」の意味で、言いかえに使われることがあります。
+・「どのように役に立つか」という設問では、本文の so that ～ can ...（～が…できるように）のような目的を表す部分が答えの手がかりになることが多いです。

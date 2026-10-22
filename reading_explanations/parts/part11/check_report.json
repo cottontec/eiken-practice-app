@@ -2,7 +2,8 @@
   "pre1-2019-1": {
     "stats": {
       "target": 41,
-      "written": 41
+      "written": 41,
+      "reviewed": 41
     },
     "errors": [],
     "warnings": []
@@ -33,6 +34,14 @@
     "warnings": []
   },
   "pre1-2019-3": {
+    "stats": {
+      "target": 41,
+      "written": 41
+    },
+    "errors": [],
+    "warnings": []
+  },
+  "pre1-2020-3": {
     "stats": {
       "target": 41,
       "written": 41

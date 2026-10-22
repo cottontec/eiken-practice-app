@@ -1,6 +1,7 @@
 ---
 choices: ensure that attacks on the Lollard and Puritan movements did not spread outside the universities. | enable intellectual movements in England to compete with those occurring in continental Europe. | put a stop to the crisis that had resulted from the universities having to pay more taxes than other institutions. | make it easier to prevent the rise of groups of intellectuals who challenged the accepted political or religious order.
 answerText: make it easier to prevent the rise of groups of intellectuals who challenged the accepted political or religious order.
+reviewed: yes
 ---
 【正解】4 make it easier to prevent the rise of groups of intellectuals who challenged the accepted political or religious order.（受け入れられていた政治や宗教の秩序に異議を唱える知識人の集団が現れるのを、防ぎやすくするため。）
 【和訳】

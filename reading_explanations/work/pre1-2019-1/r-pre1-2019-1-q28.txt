@@ -1,6 +1,7 @@
 ---
 choices: inspired a new type of art | can also be seen in a positive light | also caused damage outside Florence | nearly became a more serious emergency
 answerText: can also be seen in a positive light
+reviewed: yes
 ---
 【正解】2 can also be seen in a positive light（よい面から見ることもできる）
 【和訳】

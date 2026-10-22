@@ -1,6 +1,7 @@
 ---
 choices: The Russian children were more likely to have celiac disease because of the high amount of bread in their diet. | The symptoms of celiac disease were more severe in the Finnish children because they ate a certain type of wheat. | The Russian children's living circumstances were responsible for their lower rates of celiac disease. | The Finnish children got sicker because they were exposed to bacteria known to cause allergic reactions.
 answerText: The Russian children's living circumstances were responsible for their lower rates of celiac disease.
+reviewed: yes
 ---
 【正解】3 The Russian children's living circumstances were responsible for their lower rates of celiac disease.（ロシアの子どもたちの生活環境が、彼らのセリアック病の割合が（フィンランドの子どもたちより）低いことの原因だった。）
 【和訳】

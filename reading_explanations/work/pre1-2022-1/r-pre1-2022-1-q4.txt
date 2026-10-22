@@ -1,0 +1,28 @@
+---
+choices: sprain | segment | transition | vacancy
+answerText: vacancy
+---
+【正解】4 vacancy（〈ホテルなどの〉空き部屋、空き）
+【和訳】
+（英文）
+When there is a big business convention in town, it is almost impossible to find a hotel with a ［vacancy］. Most hotels quickly get fully booked.
+（訳）
+町で大きなビジネスの大会があるときは、（空き部屋）のあるホテルを見つけるのはほとんど不可能だ。ほとんどのホテルがすぐに予約でいっぱいになる。
+（選択肢の意味）
+1 sprain：ねんざ
+2 segment：部分、区切り
+3 transition：移り変わり
+4 vacancy：（ホテルなどの）空き部屋、空き
+【考え方】
+まず見るところ：次の文の Most hotels quickly get fully booked.
+空所をふくむ文は「大きな大会があるときは、〇〇のあるホテルを見つけるのはほとんど不可能だ」という内容です。その理由が次の文に書かれています。
+Most hotels quickly get fully booked.（ほとんどのホテルがすぐに予約でいっぱいになる）
+fully booked は「予約でいっぱい、満室」という意味です。満室のホテルばかりなので、見つけにくいのは「空き部屋のあるホテル」です。vacancy は「空き部屋、空き」なので、4が正解です。
+この問題の型：因果（満室になる→空き部屋のあるホテルが見つからない）
+【ほかの選択肢】
+1 sprain は「ねんざ」です。「ねんざのあるホテルを見つけるのは不可能だ」では意味が通りません。
+2 segment は「部分、区切り」です。「部分のあるホテル」では、満室になるという次の文とつながりません。
+3 transition は「移り変わり」です。「移り変わりのあるホテル」では意味が通らず、満室の話とも合いません。
+【覚えるポイント】
+・vacancy：「（ホテルの）空き部屋、（仕事の）空き」。fully booked：「予約でいっぱいの」。
+・空所のあとの文が理由や説明になっているときは、その文（ここでは fully booked）の反対の状態を表す語が空所に入ることがあるので、つながりを確かめます。

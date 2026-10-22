@@ -1,6 +1,7 @@
 ---
 choices: skimmed over | branched off | tipped over | scratched out
 answerText: branched off
+reviewed: yes
 ---
 【正解】2 branched off（枝分かれした、別の方向へ分かれた）
 【和訳】

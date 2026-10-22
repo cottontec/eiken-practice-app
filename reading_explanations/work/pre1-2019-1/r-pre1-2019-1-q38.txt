@@ -1,6 +1,7 @@
 ---
 choices: Universities on the European continent were considered so superior to English ones that there was little demand for new universities in England. | England had far fewer universities than the rest of Europe because graduates were prohibited from teaching at new educational institutions. | The reputations of England's two universities were so well established that other universities in Europe were unable to compete with them. | Charles Morton's establishment of an educational institution in London had a significant effect on the way the public viewed education.
 answerText: England had far fewer universities than the rest of Europe because graduates were prohibited from teaching at new educational institutions.
+reviewed: yes
 ---
 【正解】2 England had far fewer universities than the rest of Europe because graduates were prohibited from teaching at new educational institutions.（卒業生が新しい教育機関で教えることを禁じられていたため、イングランドの大学はヨーロッパのほかの地域よりもはるかに少なかった。）
 【和訳】
