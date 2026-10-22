@@ -1,6 +1,7 @@
 ---
 choices: make more space for the whole animals that they eat. | better digest the blood of the animals that they eat. | be able to catch more food more quickly. | help them digest large meals more quickly.
 answerText: help them digest large meals more quickly.
+reviewed: yes
 ---
 【正解】4 help them digest large meals more quickly.（大量の食事をより速く消化するのに役立てる（ために）。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: once a day | in a group | at school | with a microphone
 answerText: in a group
+reviewed: yes
 ---
 【正解】2 in a group（集団で）
 【和訳】

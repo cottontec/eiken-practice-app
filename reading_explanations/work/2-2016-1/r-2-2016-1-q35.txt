@@ -1,6 +1,7 @@
 ---
 choices: believe that their children are not learning an important skill. | think that the world is changing and their children need computer skills. | are not able to teach their children how to use computers at home. | feel that spending so much time studying will harm their children's eyes.
 answerText: believe that their children are not learning an important skill.
+reviewed: yes
 ---
 【正解】1 believe that their children are not learning an important skill.（自分の子どもたちが大切な技能を身につけていないと思っている（から）。）
 【和訳】

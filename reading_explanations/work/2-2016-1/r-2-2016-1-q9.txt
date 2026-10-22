@@ -1,6 +1,7 @@
 ---
 choices: revolution | solution | tragedy | hospitality
 answerText: hospitality
+reviewed: yes
 ---
 【正解】4 hospitality（親切なもてなし）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: It becomes able to produce more blood to pump around the body. | It becomes weak and damaged as a result of becoming bigger. | It has to be supported by various muscles in the body. | It has to be given a special medicine to help it grow.
 answerText: It becomes weak and damaged as a result of becoming bigger.
+reviewed: yes
 ---
 【正解】2 It becomes weak and damaged as a result of becoming bigger.（大きくなった結果、弱って傷ついてしまう。）
 【和訳】

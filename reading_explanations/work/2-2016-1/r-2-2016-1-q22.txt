@@ -1,6 +1,7 @@
 ---
 choices: In fact | At last | Unfortunately | Traditionally
 answerText: In fact
+reviewed: yes
 ---
 【正解】1 In fact（実際、実際に）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: It encourages them to focus more on their patients when performing operations. | It gives them stronger muscles which help them carry heavy medical equipment. | It helps them do their job better by allowing them to see small movements more easily. | It improves their ability to move their hands accurately while performing surgeries.
 answerText: It improves their ability to move their hands accurately while performing surgeries.
+reviewed: yes
 ---
 【正解】4 It improves their ability to move their hands accurately while performing surgeries.（手術をしている間に、手を正確に動かす能力を高める。）
 【和訳】
@@ -19,8 +20,8 @@ This can be very important in certain jobs, such as for doctors who perform oper
 This（これ）は、前の文の「とても正確で細かい動きができること」を指しています。つまり、手書きによって手の筋肉が強くなり、正確に手を動かせるようになることが、手術をする医師にとって大切だということです。
 本文と選択肢を対にすると、次のようになります。
 本文 allows people to make very accurate, small movements（とても正確で細かい動きをできるようにする）＝ 選択肢 improves their ability to move their hands accurately（手を正確に動かす能力を高める）
-本文 doctors who perform operations（手術を行う医師）＝ 選択肢 while performing surgeries（手術をしている間に）
-operation も surgery も「手術」という意味です。ですから4が正解です。
+本文 doctors who perform operations（手術を行う医師）→ 選択肢 while performing surgeries（手術をしている間に）
+operation も surgery も「手術」という意味です。本文は「手術を行う医師にとって正確な動きが重要だ」と述べているので、手術の最中に手を正確に動かす力のことだと読み取れます。ですから4が正解です。
 【ほかの選択肢】
 1 本文には、手書きによって医師が患者にもっと集中できるようになる、とは書かれていません。本文が述べているのは、手の動きの正確さです。
 2 本文で強くなると書かれているのは the small muscles in the hand（手の小さな筋肉）で、それは正確で細かい動きのためです。重い医療機器を運ぶための筋肉の話はありません。

@@ -1,6 +1,7 @@
 ---
 choices: practice | defense | sense | chance
 answerText: practice
+reviewed: yes
 ---
 【正解】1 practice（実行、実践）
 【和訳】

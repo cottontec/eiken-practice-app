@@ -1,6 +1,7 @@
 ---
 choices: climate | border | habit | welfare
 answerText: welfare
+reviewed: yes
 ---
 【正解】4 welfare（福祉、幸福）
 【和訳】

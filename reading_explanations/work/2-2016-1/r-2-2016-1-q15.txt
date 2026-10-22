@@ -1,6 +1,7 @@
 ---
 choices: at a loss | within reach | on average | in a row
 answerText: at a loss
+reviewed: yes
 ---
 【正解】1 at a loss（途方に暮れて、どうしてよいか分からなくて）
 【和訳】

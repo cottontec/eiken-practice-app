@@ -1,6 +1,7 @@
 ---
 choices: was checking | was being checked | had been checked | would be checking
 answerText: was being checked
+reviewed: yes
 ---
 【正解】2 was being checked（点検されているところだった）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: It has the effect of making mice's heart cells grow larger. | It can be used to increase the size of farm animals. | It expands dramatically when added to the blood of other animals. | It reduces the size of mice's hearts while the mice are sleeping.
 answerText: It has the effect of making mice's heart cells grow larger.
+reviewed: yes
 ---
 【正解】1 It has the effect of making mice's heart cells grow larger.（それには、マウスの心臓の細胞を大きくする効果がある。）
 【和訳】

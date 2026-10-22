@@ -1,6 +1,7 @@
 ---
 choices: appear | imitate | hesitate | cope
 answerText: cope
+reviewed: yes
 ---
 【正解】4 cope（うまく対処する）
 【和訳】

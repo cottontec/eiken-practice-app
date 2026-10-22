@@ -1,6 +1,7 @@
 ---
 choices: gathering | firing | kidding | staring
 answerText: staring
+reviewed: yes
 ---
 【正解】4 staring（じっと見つめている）
 【和訳】

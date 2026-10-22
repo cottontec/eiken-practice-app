@@ -1,6 +1,7 @@
 ---
 choices: under way | out of date | in touch | in the air
 answerText: under way
+reviewed: yes
 ---
 【正解】1 under way（進行中で、行われている最中で）
 【和訳】

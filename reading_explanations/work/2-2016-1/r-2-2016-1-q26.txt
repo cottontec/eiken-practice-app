@@ -1,6 +1,7 @@
 ---
 choices: In this way | Rather | Even so | At first
 answerText: In this way
+reviewed: yes
 ---
 【正解】1 In this way（このようにして）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: running | ran | to run | run
 answerText: running
+reviewed: yes
 ---
 【正解】1 running（流れている）
 【和訳】

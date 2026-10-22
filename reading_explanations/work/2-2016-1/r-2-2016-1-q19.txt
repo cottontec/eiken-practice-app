@@ -1,6 +1,7 @@
 ---
 choices: unless | although | that | than
 answerText: that
+reviewed: yes
 ---
 【正解】3 that（～ということ）
 【和訳】

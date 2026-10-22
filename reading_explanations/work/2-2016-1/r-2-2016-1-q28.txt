@@ -1,6 +1,7 @@
 ---
 choices: Whether or not it was new when she bought it. | How many kilometers it has been driven for. | If she knows a good place to have its oil changed. | What model of car it is and when it was made.
 answerText: Whether or not it was new when she bought it.
+reviewed: yes
 ---
 【正解】1 Whether or not it was new when she bought it.（彼女が買ったとき、それが新車だったかどうか。）
 【和訳】
@@ -17,7 +18,8 @@ answerText: Whether or not it was new when she bought it.
 Are you the first owner of the car, or was it already used when you bought it?（あなたはその車の最初の持ち主ですか、それとも、あなたが買ったときにはすでに使われた車でしたか）
 「最初の持ち主かどうか」「買ったときにすでに使われていたかどうか」をたずねることは、「買ったときに新車だったのか、中古車だったのか」をたずねていることになります。used はここでは「使われた、中古の」という意味です。
 本文と選択肢を対にすると、次のようになります。
-本文 was it already used when you bought it?（買ったときにはすでに使われていたか）→ 読み取れること：買ったときに新車だったかどうかをたずねている ＝ 選択肢 Whether or not it was new when she bought it
+本文 Are you the first owner of the car, or was it already used when you bought it?（最初の持ち主か、それとも買ったときにはすでに使われていたか）→ 読み取れること：買ったときに新車だったかどうかをたずねている
+この読み取れることを、選択肢では Whether or not it was new when she bought it（彼女が買ったとき、それが新車だったかどうか）と表しています。
 whether or not ～ は「～かどうか」という意味です。ですから1が正解です。
 【ほかの選択肢】
 2 走行距離は、ホルターさんがたずねていることではありません。第2段落で Your advertisement says ... that it has been driven for 100,000 kilometers（あなたの広告には、10万キロメートル走行していると書かれている）と、広告にすでに書かれていた内容として述べています。

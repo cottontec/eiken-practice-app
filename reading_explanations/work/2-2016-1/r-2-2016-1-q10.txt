@@ -1,6 +1,7 @@
 ---
 choices: instructing | struggling | celebrating | managing
 answerText: struggling
+reviewed: yes
 ---
 【正解】2 struggling（苦労している、もがいている）
 【和訳】

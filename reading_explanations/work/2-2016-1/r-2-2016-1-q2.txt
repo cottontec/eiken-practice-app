@@ -1,6 +1,7 @@
 ---
 choices: field | brand | range | sphere
 answerText: range
+reviewed: yes
 ---
 【正解】3 range（範囲、幅）
 【和訳】

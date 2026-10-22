@@ -1,6 +1,7 @@
 ---
 choices: delicate | suspicious | brilliant | valuable
 answerText: suspicious
+reviewed: yes
 ---
 【正解】2 suspicious（あやしい、疑わしい）
 【和訳】

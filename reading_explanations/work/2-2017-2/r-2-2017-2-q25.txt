@@ -17,7 +17,7 @@ answerText: find their favorite food
 ・What they noticed, however, is that orcas can find chinook salmon even when chinook salmon are swimming with other salmon of the same size.（しかし、彼らが気づいたのは、チヌークサーモンが同じ大きさのほかのサケと一緒に泳いでいるときでさえ、オルカがチヌークサーモンを見つけられるということだった）
 prefer A to B は「BよりAを好む」という意味です。オルカはチヌークサーモンが好きなので、チヌークサーモンはオルカの大好物だと言えます。そして、その大好物を、ほかのサケにまじっていても見つけられるのが「驚くべき能力」です。
 本文と選択肢を対にすると、次のようになります。
-本文 orcas prefer chinook salmon ＝ 選択肢 their favorite food（大好物）
+本文 orcas prefer chinook salmon（チヌークサーモンのほうを好む）→ 選択肢 their favorite food（大好物）
 本文 orcas can find chinook salmon ＝ 選択肢 find
 1が正解です。
 【ほかの選択肢】

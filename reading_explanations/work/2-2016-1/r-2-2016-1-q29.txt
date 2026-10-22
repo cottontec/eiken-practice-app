@@ -1,6 +1,7 @@
 ---
 choices: Call him on the phone to tell him about the car. | Bring the car to his house so he can look at it. | Send him an e-mail with answers to his questions. | Tell him her work schedule so that they can meet.
 answerText: Send him an e-mail with answers to his questions.
+reviewed: yes
 ---
 【正解】3 Send him an e-mail with answers to his questions.（彼の質問への答えを書いたEメールを彼に送る。）
 【和訳】

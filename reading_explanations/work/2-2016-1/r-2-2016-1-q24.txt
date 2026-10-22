@@ -1,6 +1,7 @@
 ---
 choices: difficult to remove | coming from somewhere else | more dangerous than before | spreading to new places
 answerText: coming from somewhere else
+reviewed: yes
 ---
 【正解】2 coming from somewhere else（どこかほかのところから来ている）
 【和訳】

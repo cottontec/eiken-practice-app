@@ -1,6 +1,7 @@
 ---
 choices: revenge | nonsense | popularity | sympathy
 answerText: sympathy
+reviewed: yes
 ---
 【正解】4 sympathy（同情、思いやり）
 【和訳】

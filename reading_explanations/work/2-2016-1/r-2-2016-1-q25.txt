@@ -1,6 +1,7 @@
 ---
 choices: misunderstood that acrylic | accepted that polyester | suggested that plastic | denied that clothing
 answerText: denied that clothing
+reviewed: yes
 ---
 【正解】4 denied that clothing（衣服が（問題であること）を否定した）
 【和訳】

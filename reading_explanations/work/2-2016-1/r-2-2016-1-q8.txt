@@ -1,6 +1,7 @@
 ---
 choices: melt | peel | analyze | substitute
 answerText: peel
+reviewed: yes
 ---
 【正解】2 peel（皮をむく）
 【和訳】

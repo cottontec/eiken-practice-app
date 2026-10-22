@@ -1,6 +1,7 @@
 ---
 choices: dedicate | amuse | emphasize | abandon
 answerText: emphasize
+reviewed: yes
 ---
 【正解】3 emphasize（強調する）
 【和訳】

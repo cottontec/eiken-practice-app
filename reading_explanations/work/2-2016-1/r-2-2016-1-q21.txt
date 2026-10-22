@@ -1,6 +1,7 @@
 ---
 choices: improves memory | leads to heart disease | has many health benefits | causes a number of problems
 answerText: has many health benefits
+reviewed: yes
 ---
 【正解】3 has many health benefits（健康によい点をたくさん持っている）
 【和訳】

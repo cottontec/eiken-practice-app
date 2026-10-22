@@ -1,6 +1,7 @@
 ---
 choices: treasured | interrupted | persuaded | examined
 answerText: interrupted
+reviewed: yes
 ---
 【正解】2 interrupted（じゃまされる、中断される）
 【和訳】

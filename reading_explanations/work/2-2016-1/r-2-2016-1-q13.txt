@@ -1,6 +1,7 @@
 ---
 choices: took | broke | drew | came
 answerText: came
+reviewed: yes
 ---
 【正解】4 came（come into being で「生まれる、生じる」）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: in need of | in charge of | aware of | short of
 answerText: in charge of
+reviewed: yes
 ---
 【正解】2 in charge of（～を担当して、～の責任者で）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: relatively | leisurely | bravely | concretely
 answerText: relatively
+reviewed: yes
 ---
 【正解】1 relatively（比較的、ほかと比べるとわりあいに）
 【和訳】

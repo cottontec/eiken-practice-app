@@ -1,6 +1,7 @@
 ---
 choices: a combination of writing and typing is the best way to help children learn. | the brain has a hard time handling information when a person is writing. | children who are typing use fewer parts of the brain than children who are writing by hand. | most people prefer to write letters to their children by computer rather than by hand.
 answerText: children who are typing use fewer parts of the brain than children who are writing by hand.
+reviewed: yes
 ---
 【正解】3 children who are typing use fewer parts of the brain than children who are writing by hand.（キーボードで打っている子どもは、手で書いている子どもより、脳の使う部分が少ない。）
 【和訳】

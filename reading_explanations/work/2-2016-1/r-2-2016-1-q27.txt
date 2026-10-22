@@ -1,6 +1,7 @@
 ---
 choices: put an advertisement on the Internet for a used car. | wants to buy his first car sometime soon. | is going to turn 18 years old in a few weeks. | is shopping for a present for his mother and father.
 answerText: is going to turn 18 years old in a few weeks.
+reviewed: yes
 ---
 【正解】3 is going to turn 18 years old in a few weeks.（数週間後に18歳になる。）
 【和訳】

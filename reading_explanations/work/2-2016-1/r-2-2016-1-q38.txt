@@ -1,6 +1,7 @@
 ---
 choices: Typing helps students come up with more ideas and organize them better. | Children use a larger variety of words when writing by hand. | Good handwriting has recently become an important skill. | Teachers spend a lot of time preparing for classes that teach typing.
 answerText: Children use a larger variety of words when writing by hand.
+reviewed: yes
 ---
 【正解】2 Children use a larger variety of words when writing by hand.（子どもたちは、手で書くときのほうがより多くの種類の言葉を使う。）
 【和訳】
@@ -20,7 +21,7 @@ vocabulary は「語彙（使うことばの全体、ことばの種類）」で
 本文 when children wrote by hand, they used a wider range of vocabulary ＝ 選択肢 Children use a larger variety of words when writing by hand
 a wider range of ～（より幅広い～）が a larger variety of ～（より多くの種類の～）に、vocabulary が words に言いかえられています。ですから2が正解です。
 【ほかの選択肢】
-1 本文と逆の内容です。本文では、より複雑な考えを表現したのは手で書いたとき（when children wrote by hand ... expressed more complex ideas）です。キーボードで打つことが考えを増やしたりまとめたりするのに役立つ、とは書かれていません。
+1 本文の内容と合いません。本文では、より複雑な考えを表現したのは手で書いたとき（when children wrote by hand ... expressed more complex ideas）です。キーボードで打つことが考えを増やしたりまとめたりするのに役立つ、とはどこにも書かれていません。
 3 時期が違います。第2段落には In the past, learning good handwriting was considered a necessary part of a good education（昔は、上手な字を書けるようになることは、よい教育に欠かせない一部だと考えられていた）とあります。上手な手書きが大切だと考えられていたのは「昔」で、「最近になって」大切になったのではありません。
 4 先生がキーボードの授業の準備に多くの時間をかけている、という話は本文にありません。本文の時間の話は、学校が手書きを教える時間が（以前より）ずっと少なくなっている、という内容です。
 【覚えるポイント】
