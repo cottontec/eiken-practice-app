@@ -1,6 +1,7 @@
 ---
 choices: They have made it clear that finding alternatives to common metals will become important in the very near future. | They have made people realize that the way common metals are used has more effect on the environment than had previously been known. | They have increased debates about how current population increases are going to affect the supply of necessary materials in the future. | They have influenced the way that people see modern environmental problems and made it more difficult to have meaningful communication about them.
 answerText: They have influenced the way that people see modern environmental problems and made it more difficult to have meaningful communication about them.
+reviewed: yes
 ---
 【正解】4 They have influenced the way that people see modern environmental problems and made it more difficult to have meaningful communication about them.（そうした議論は、人々が現代の環境問題をどう見るかに影響を与え、環境問題について意味のある話し合いをするのをより難しくしてきた。）
 【和訳】

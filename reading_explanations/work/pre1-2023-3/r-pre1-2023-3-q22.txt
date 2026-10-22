@@ -1,6 +1,7 @@
 ---
 choices: die away | rub down | back out | call off
 answerText: die away
+reviewed: yes
 ---
 【正解】1 die away（〈音などが〉だんだん弱まって消える）
 【和訳】

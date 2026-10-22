@@ -1,6 +1,7 @@
 ---
 choices: Belief in meritocracy can cause managers to evaluate male employees more harshly than they deserve. | Meritocracies seem to cause significant declines in the job performance of both male and female employees. | Trying to use financial rewards to encourage belief in meritocracy can have the completely opposite effect. | People are less likely to be aware of their own prejudices when they believe the company is a meritocracy.
 answerText: People are less likely to be aware of their own prejudices when they believe the company is a meritocracy.
+reviewed: yes
 ---
 【正解】4 People are less likely to be aware of their own prejudices when they believe the company is a meritocracy.（人は、会社が能力主義だと信じていると、自分自身の偏見に気づきにくくなる。）
 【和訳】

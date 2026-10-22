@@ -1,6 +1,7 @@
 ---
 choices: discreet | artificial | realistic | temporary
 answerText: discreet
+reviewed: yes
 ---
 【正解】1 discreet（口が堅い、慎重な）
 【和訳】

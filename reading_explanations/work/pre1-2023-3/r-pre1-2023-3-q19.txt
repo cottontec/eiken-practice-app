@@ -1,6 +1,7 @@
 ---
 choices: pierced | radiated | ceased | rejected
 answerText: pierced
+reviewed: yes
 ---
 【正解】1 pierced（突き刺して穴をあけられた）
 【和訳】

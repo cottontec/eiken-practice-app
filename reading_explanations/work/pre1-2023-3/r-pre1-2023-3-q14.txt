@@ -1,6 +1,7 @@
 ---
 choices: sacred | grim | sheer | lean
 answerText: lean
+reviewed: yes
 ---
 【正解】4 lean（〈肉が〉脂肪の少ない、赤身の）
 【和訳】

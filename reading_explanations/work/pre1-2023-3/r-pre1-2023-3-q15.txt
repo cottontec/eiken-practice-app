@@ -1,6 +1,7 @@
 ---
 choices: orphans | phases | leases | allies
 answerText: orphans
+reviewed: yes
 ---
 【正解】1 orphans（孤児〈親を亡くした子ども〉）
 【和訳】

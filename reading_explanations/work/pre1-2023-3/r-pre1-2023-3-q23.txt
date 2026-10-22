@@ -1,6 +1,7 @@
 ---
 choices: see out | pin down | juice up | book in
 answerText: pin down
+reviewed: yes
 ---
 【正解】2 pin down（〈原因などを〉はっきり突き止める）
 【和訳】

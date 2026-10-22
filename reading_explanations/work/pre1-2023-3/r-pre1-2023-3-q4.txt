@@ -1,6 +1,7 @@
 ---
 choices: entrepreneurs | amenities | leftovers | receptacles
 answerText: amenities
+reviewed: yes
 ---
 【正解】2 amenities（快適に過ごすための設備、便利な設備）
 【和訳】

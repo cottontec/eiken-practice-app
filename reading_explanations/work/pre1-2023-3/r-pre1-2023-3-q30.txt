@@ -1,6 +1,7 @@
 ---
 choices: are damaged by bubbles | are lighter than they appear | help them save energy | actually frighten predators
 answerText: help them save energy
+reviewed: yes
 ---
 【正解】3 help them save energy（アオイガイがエネルギーを節約するのに役立っている）
 【和訳】

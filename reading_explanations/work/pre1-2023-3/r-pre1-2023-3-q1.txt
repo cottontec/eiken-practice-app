@@ -1,6 +1,7 @@
 ---
 choices: ascribe | emit | rattle | allocate
 answerText: emit
+reviewed: yes
 ---
 【正解】2 emit（〈煙・光・熱などを〉出す、放つ）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: he did not think that the prices of certain essential goods were related to the prices of things like common metals. | he believed that the price of the metals would not be affected even if they became rare due to the increased demand. | he wanted to demonstrate that increases in population would not result in serious shortages of the materials that humans needed to live. | he did not accept the idea that the world's population was going to increase as much as Ehrlich predicted it would.
 answerText: he wanted to demonstrate that increases in population would not result in serious shortages of the materials that humans needed to live.
+reviewed: yes
 ---
 【正解】3 he wanted to demonstrate that increases in population would not result in serious shortages of the materials that humans needed to live.（人口が増えても、人間が生きるのに必要な材料がひどく不足することにはならないと示したかったから。）
 【和訳】

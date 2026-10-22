@@ -1,6 +1,7 @@
 ---
 choices: glances | fabric | installations | compensation
 answerText: compensation
+reviewed: yes
 ---
 【正解】4 compensation（補償〈損害やめいわくのうめ合わせとして支払われるもの〉）
 【和訳】

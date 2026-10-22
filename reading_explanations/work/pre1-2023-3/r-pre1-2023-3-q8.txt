@@ -1,6 +1,7 @@
 ---
 choices: pledge | ridge | quota | stock
 answerText: ridge
+reviewed: yes
 ---
 【正解】2 ridge（尾根〈山の高いところが細長く続いている部分〉）
 【和訳】

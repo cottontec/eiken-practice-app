@@ -1,6 +1,7 @@
 ---
 choices: drew back | made up | pulled through | cooled off
 answerText: drew back
+reviewed: yes
 ---
 【正解】1 drew back（あとずさりした、身を引いた）
 【和訳】

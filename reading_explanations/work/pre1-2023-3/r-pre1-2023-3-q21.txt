@@ -1,6 +1,7 @@
 ---
 choices: empirical | fiscal | verbal | plural
 answerText: plural
+reviewed: yes
 ---
 【正解】4 plural（複数の）
 【和訳】

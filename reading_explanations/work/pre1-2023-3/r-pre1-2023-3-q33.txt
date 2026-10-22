@@ -1,6 +1,7 @@
 ---
 choices: persuaded the Confederates to let him work on one of its ships so that he could use the ship to get back to his hometown. | lost his job on the docks because the Confederates no longer had a need for enslaved workers. | was made to work on a ship that was used by the Confederates to transport weapons needed to fight the civil war. | gained favor with the Confederates by helping them find a way to get their ships out of Charleston harbor.
 answerText: was made to work on a ship that was used by the Confederates to transport weapons needed to fight the civil war.
+reviewed: yes
 ---
 【正解】3 was made to work on a ship that was used by the Confederates to transport weapons needed to fight the civil war.（南北戦争を戦うのに必要な武器を運ぶために南部連合が使っていた船で働かされた。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: treaty | inclusion | fortune | aftermath
 answerText: aftermath
+reviewed: yes
 ---
 【正解】4 aftermath（〈災害などの〉直後の時期、余波〈あとに残る影響〉）
 【和訳】

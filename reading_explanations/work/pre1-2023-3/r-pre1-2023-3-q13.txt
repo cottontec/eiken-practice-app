@@ -1,6 +1,7 @@
 ---
 choices: adjacent | justified | integral | peculiar
 answerText: justified
+reviewed: yes
 ---
 【正解】2 justified（正当だと認められる、もっともな理由がある）
 【和訳】

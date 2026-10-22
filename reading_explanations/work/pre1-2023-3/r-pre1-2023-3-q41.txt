@@ -1,6 +1,7 @@
 ---
 choices: More people have come to recognize that when people are poor, it may not necessarily be their fault. | It has caused people to change their views regarding how many immigrants should be allowed into the country. | People are slowly beginning to lose their prejudices against members of other races and social classes. | There is more recognition of the effort that wealthy people have made to achieve their high status in life.
 answerText: More people have come to recognize that when people are poor, it may not necessarily be their fault.
+reviewed: yes
 ---
 【正解】1 More people have come to recognize that when people are poor, it may not necessarily be their fault.（人が貧しいとき、それは必ずしもその人のせいではないかもしれないと認める人が増えてきた。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: The specific metals and the time period that were chosen for the bet seem to have had an effect on the result. | Although the prices of a few metals did decrease, Ehrlich was correct about the increasing shortages due to population growth. | It demonstrated that neither Ehrlich nor Simon was actually correct about the long-term trends that were occurring. | Simon would still have won, even if the governments of countries in Eastern Europe had not had problems in the 1990s.
 answerText: The specific metals and the time period that were chosen for the bet seem to have had an effect on the result.
+reviewed: yes
 ---
 【正解】1 The specific metals and the time period that were chosen for the bet seem to have had an effect on the result.（賭けのために選ばれた特定の金属と期間が、結果に影響を与えたようだ。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: couch | sip | glimpse | pinch
 answerText: glimpse
+reviewed: yes
 ---
 【正解】3 glimpse（ちらりと見ること）
 【和訳】

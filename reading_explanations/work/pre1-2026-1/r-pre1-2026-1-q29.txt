@@ -1,0 +1,36 @@
+---
+choices: There are limits to how intelligent animals can become, and no amount of breeding will ever be able to overcome them. | It is possible that an attempt to increase animal intelligence will actually have the opposite of its intended effect. | Attempts to increase an animal's intelligence could interfere with other important aspects of the animal's biology. | While it is possible to slightly increase animal intelligence, it is not likely that it will be inherited by an animal's offspring.
+answerText: Attempts to increase an animal's intelligence could interfere with other important aspects of the animal's biology.
+---
+【正解】3 Attempts to increase an animal's intelligence could interfere with other important aspects of the animal's biology.（動物の知能を高めようとする試みは、その動物の体のしくみのほかの重要な面をさまたげるおそれがある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What does the fish experiment indicate about attempts at animal uplift?（魚の実験は、動物の知能を引き上げる試みについて何を示しているか。）
+1 There are limits to how intelligent animals can become, and no amount of breeding will ever be able to overcome them.（動物がどれだけ賢くなれるかには限界があり、どれだけかけ合わせをしても、それを乗り越えることは決してできないだろう。）
+2 It is possible that an attempt to increase animal intelligence will actually have the opposite of its intended effect.（動物の知能を高めようとする試みが、実際には、ねらった効果とは反対の効果をもたらす可能性がある。）
+3 Attempts to increase an animal's intelligence could interfere with other important aspects of the animal's biology.（動物の知能を高めようとする試みは、その動物の体のしくみのほかの重要な面をさまたげるおそれがある。）
+4 While it is possible to slightly increase animal intelligence, it is not likely that it will be inherited by an animal's offspring.（動物の知能を少し高めることはできるが、それが動物の子どもに受けつがれる見込みは低い。）
+【考え方】
+まず見るところ：第2段落の最後の As this experiment indicates, trying to boost intelligence may disrupt other physical attributes
+魚の実験は第2段落に書かれています。まず、よい結果です。
+The young of the larger-brained fish tended to have even bigger brains, and the babies' performance on cognitive tests was superior to that of fish with smaller brains.（脳の大きい魚の子どもは、さらに大きな脳を持つ傾向があり、その子どもたちの認知テストの成績は、脳の小さい魚の成績より優れていた）
+cognitive tests は「認知テスト（考えたり覚えたりする力を測るテスト）」です。次に、問題点が書かれています。
+However, the researchers also observed that these fish produced young that had smaller digestive systems, and this in turn seems to have led them to produce fewer offspring.（しかし研究者たちは、これらの魚が、より小さな消化器官を持つ子どもを生んだことにも気づいた。そしてこのことが、今度は、それらの魚が生む子どもの数がより少なくなることにつながったようだ）
+そして、実験から言えることがまとめられています。
+As this experiment indicates, trying to boost intelligence may disrupt other physical attributes, leading to consequences that extend beyond the individual animals to entire populations.（この実験が示すように、知能を高めようとすると、体のほかの特徴が乱されるかもしれず、それが、一匹一匹の動物をこえて集団全体にまで及ぶ結果につながるかもしれない）
+disrupt は「～を乱す」、physical attributes は「体の特徴」です。
+本文と選択肢を対にすると、次のようになります。
+本文 trying to boost intelligence（知能を高めようとすること）＝ 選択肢 Attempts to increase an animal's intelligence（動物の知能を高めようとする試み）
+本文 may disrupt（乱すかもしれない）≒ 選択肢 could interfere with（さまたげるおそれがある）
+本文 other physical attributes（体のほかの特徴）→ 選択肢 other important aspects of the animal's biology（体のしくみのほかの重要な面）
+消化器官の大きさや子どもの数という、知能とは別の体の面に影響が出たことが、選択肢3の内容にあたります。ですから3が正解です。
+この問題の型：言いかえ（disrupt other physical attributes → interfere with other important aspects of the animal's biology）
+【ほかの選択肢】
+1 本文には、動物の賢さに限界があるという話や、かけ合わせでは乗り越えられないという話は書かれていません。むしろ、脳の大きい魚の子どもは even bigger brains（さらに大きな脳）を持ち、テストの成績も優れていました。
+2 この実験で、ねらった効果は知能を高めることです。子どもたちのテストの成績は優れていたので、知能については反対の効果は出ていません。出てきた問題は、消化器官が小さくなったり、子どもの数が少なくなったりしたことで、これは知能とは別の面への影響です。
+4 本文では、脳の大きい魚の子どもがさらに大きな脳を持ち、テストの成績も優れていたと書かれています。高まった知能は子どもに受けつがれているので、「子どもに受けつがれる見込みは低い」は本文の内容と合いません。
+【覚えるポイント】
+・disrupt：「～を乱す」。interfere with ～：「～をさまたげる、～のじゃまをする」。
+・「この実験は何を示しているか」とたずねる設問では、As this experiment indicates（この実験が示すように）のような、実験をまとめる文が答えの手がかりになることが多いです。

@@ -1,0 +1,33 @@
+---
+choices: Rules often disqualify individuals who face barriers to employment that are real but may not be covered by official policies. | They allow people with irregular job schedules to receive payments as long as they work fewer hours than a full-time job. | The longer a person has been receiving SNAP benefits, the more likely they are to be affected by the changes. | People who are classified as able-bodied typically lose the opportunity to do part-time work.
+answerText: Rules often disqualify individuals who face barriers to employment that are real but may not be covered by official policies.
+---
+【正解】1 Rules often disqualify individuals who face barriers to employment that are real but may not be covered by official policies.（規則によって、現実にあるのに公式の政策では考えに入れられていないかもしれない、働くうえでの障害を抱えた人々が、資格を失うことがよくある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What do we learn about how employment requirements for SNAP can affect able-bodied adults without dependents?（SNAPの就労要件が、扶養家族のいない、健康で働ける大人にどのような影響を与えうるかについて、何が分かるか。）
+1 Rules often disqualify individuals who face barriers to employment that are real but may not be covered by official policies.（規則によって、現実にあるのに公式の政策では考えに入れられていないかもしれない、働くうえでの障害を抱えた人々が、資格を失うことがよくある。）
+2 They allow people with irregular job schedules to receive payments as long as they work fewer hours than a full-time job.（就労要件は、仕事の予定が不規則な人々が、フルタイムの仕事より短い時間働きさえすれば、給付を受け取ることを認めている。）
+3 The longer a person has been receiving SNAP benefits, the more likely they are to be affected by the changes.（SNAPの給付を長く受け取っている人ほど、その変化の影響を受けやすい。）
+4 People who are classified as able-bodied typically lose the opportunity to do part-time work.（健康で働けると分類された人々は、たいていパートタイムの仕事をする機会を失う。）
+【考え方】
+まず見るところ：第2段落の For instance, individuals recovering from surgery, ～ despite significant barriers to regular employment. と、段落の最後の This inconsistency ～
+For instance, individuals recovering from surgery, managing mental illness, or facing housing instability may be classified as "able-bodied" despite significant barriers to regular employment.（たとえば、手術から回復しつつある人や、心の病気とつき合いながら暮らしている人、住まいが安定していない人が、定期的に働くことに大きな障害があるにもかかわらず、「健康で働ける」と分類されることがある）
+barrier は「障害、さまたげ」という意味です。実際には働くのが難しい事情があるのに、政策の上では「健康で働ける」人として扱われてしまう、ということです。
+This inconsistency between rigid policy definitions and real-world conditions often leads to the loss of food assistance among people who are actively trying to support themselves.（このような、融通のきかない政策上の定義と現実の状況との食い違いは、自分で自分の生活を支えようと積極的に努力している人々が食料援助を失うことに、しばしばつながる）
+inconsistency は「食い違い」、rigid は「融通のきかない、厳格な」という意味です。政策の決まりと現実が合っていないために、援助を失う人が出てくると書かれています。
+本文と選択肢を対にすると、次のようになります。
+・本文 significant barriers to regular employment（定期的に働くことへの大きな障害）→ 選択肢 barriers to employment that are real（現実にある、働くうえでの障害）
+・本文 rigid policy definitions（融通のきかない政策上の定義）と real-world conditions（現実の状況）の食い違い → 選択肢 may not be covered by official policies（公式の政策では考えに入れられていないかもしれない）
+・本文 often leads to the loss of food assistance（食料援助を失うことにしばしばつながる）→ 選択肢 Rules often disqualify（規則によって資格を失うことがよくある）
+disqualify は「資格を失わせる」という意味です。ですから1が正解です。
+この問題の型：言いかえ（the loss of food assistance → disqualify）／具体例とまとめ（手術・心の病気・住まいの例→現実の障害）
+【ほかの選択肢】
+2 本文の内容と合いません。第2段落には、労働時間が予測できなかったり限られていたりする仕事の人は、people can find themselves falling below the required minimums（求められる最低限の労働時間を下回ってしまうことがある）と書かれていて、それが援助を失うことにつながると述べられています。短い時間働けば給付を受け取れる、という話ではありません。
+3 本文にありません。第1段落に long-term reliance on public support（公的な支援に長い間頼ること）を抑えたいというねらいは書かれていますが、長く給付を受けている人ほど影響を受けやすいとは書かれていません。
+4 本文にありません。第2段落には低賃金の仕事の労働時間が限られていることは書かれていますが、「健康で働ける」と分類された人がパートタイムの仕事をする機会を失うとは書かれていません。
+【覚えるポイント】
+・disqualify：「資格を失わせる」。本文の the loss of food assistance（食料援助を失うこと）が、選択肢ではこの語で言いかえられています。
+・本文に For instance（たとえば）で具体例が並んでいるときは、選択肢がその例をまとめた言い方（ここでは barriers to employment that are real）になっていないかを確かめることが手がかりになります。

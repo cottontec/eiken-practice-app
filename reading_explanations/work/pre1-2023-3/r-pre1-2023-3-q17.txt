@@ -1,6 +1,7 @@
 ---
 choices: furious | bilateral | potent | overdue
 answerText: overdue
+reviewed: yes
 ---
 【正解】4 overdue（〈返却などの〉期限が過ぎた）
 【和訳】

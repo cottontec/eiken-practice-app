@@ -1,6 +1,7 @@
 ---
 choices: rigid | notable | acute | drowsy
 answerText: drowsy
+reviewed: yes
 ---
 【正解】4 drowsy（眠い、うとうとした）
 【和訳】

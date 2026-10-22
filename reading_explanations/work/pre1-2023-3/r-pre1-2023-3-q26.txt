@@ -1,6 +1,7 @@
 ---
 choices: scientists cannot yet explain | can lead to environmental damage | would likely cause health problems in humans | sometimes puts them at risk
 answerText: would likely cause health problems in humans
+reviewed: yes
 ---
 【正解】3 would likely cause health problems in humans（人間ならおそらく健康上の問題を引き起こすであろう）
 【和訳】

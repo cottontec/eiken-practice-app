@@ -1,6 +1,7 @@
 ---
 choices: agonized | delighted | expanded | generated
 answerText: agonized
+reviewed: yes
 ---
 【正解】1 agonized（ひどく悩んだ、苦しんだ）
 【和訳】

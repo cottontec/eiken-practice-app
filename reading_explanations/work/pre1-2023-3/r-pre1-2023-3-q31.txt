@@ -1,6 +1,7 @@
 ---
 choices: In fact | Regardless | For one thing | In exchange
 answerText: In fact
+reviewed: yes
 ---
 【正解】1 In fact（実際、それどころか）
 【和訳】

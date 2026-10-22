@@ -1,6 +1,7 @@
 ---
 choices: He had managed to obtain a Union flag, which he raised to prevent the Union Navy from attacking his ship. | His knowledge of the harbor allowed him to find a route that avoided Confederate guards. | He had friends in the Union Navy who were sympathetic to his situation and helped him get out of the harbor. | His experience had taught him how to trick the Confederate checkpoints into letting his ship pass safely.
 answerText: His experience had taught him how to trick the Confederate checkpoints into letting his ship pass safely.
+reviewed: yes
 ---
 【正解】4 His experience had taught him how to trick the Confederate checkpoints into letting his ship pass safely.（彼は経験から、南部連合の検問所をだまして自分の船を安全に通過させる方法を身につけていた。）
 【和訳】

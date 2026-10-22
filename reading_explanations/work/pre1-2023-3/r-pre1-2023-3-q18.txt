@@ -1,6 +1,7 @@
 ---
 choices: monetary | judicial | mutual | indifferent
 answerText: mutual
+reviewed: yes
 ---
 【正解】3 mutual（お互いの、双方の）
 【和訳】

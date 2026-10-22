@@ -1,6 +1,7 @@
 ---
 choices: bid | heap | vice | grain
 answerText: heap
+reviewed: yes
 ---
 【正解】2 heap（〈積み重ねた物の〉山）
 【和訳】

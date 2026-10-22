@@ -1,6 +1,7 @@
 ---
 choices: wealthy people have found unfair ways to ensure that they continue to maintain their position without working hard. | the methods that are usually used to evaluate workers are often unfair, especially to members of the upper class. | it has created a sense of constant competition that can have negative effects on people's mental health. | the amount of resentment between members of different social classes has grown significantly because of it.
 answerText: it has created a sense of constant competition that can have negative effects on people's mental health.
+reviewed: yes
 ---
 【正解】3 it has created a sense of constant competition that can have negative effects on people's mental health.（能力主義が、人々の心の健康に悪い影響を与えうる、絶え間ない競争の感覚を生み出したことだ。）
 【和訳】

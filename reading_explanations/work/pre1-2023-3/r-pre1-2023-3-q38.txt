@@ -1,6 +1,7 @@
 ---
 choices: Efforts to ensure that a wider range of students are able to attend elite universities have not always been successful. | Although efforts at instituting meritocracy were unsuccessful at first, great progress has been made recently. | Efforts to make education more open to a wide variety of people have been more effective than efforts to open up companies. | Bringing the ideal of meritocracy to universities cannot be done unless it first comes to ordinary schools.
 answerText: Efforts to ensure that a wider range of students are able to attend elite universities have not always been successful.
+reviewed: yes
 ---
 【正解】1 Efforts to ensure that a wider range of students are able to attend elite universities have not always been successful.（より幅広い学生が一流大学に通えるようにする取り組みは、いつも成功してきたわけではない。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: grizzly bears do not create naturally | are also found in humans | cause Type 2 diabetes in bears | are responsible for other diseases
 answerText: are also found in humans
+reviewed: yes
 ---
 【正解】2 are also found in humans（人間にも見られる）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: discriminated | implicated | eliminated | constrained
 answerText: implicated
+reviewed: yes
 ---
 【正解】2 implicated（〈犯罪などに〉関わっていることを示した、巻きこんだ）
 【和訳】

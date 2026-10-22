@@ -1,6 +1,7 @@
 ---
 choices: deforming | investing | discarding | intruding
 answerText: intruding
+reviewed: yes
 ---
 【正解】4 intruding（立ち入ること、踏み込んでくること）
 【和訳】

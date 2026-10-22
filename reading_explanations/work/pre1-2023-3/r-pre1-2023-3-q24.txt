@@ -1,6 +1,7 @@
 ---
 choices: sends off | measures up | knuckles down | sums up
 answerText: measures up
+reviewed: yes
 ---
 【正解】2 measures up（〈基準・期待に〉達する、かなう）
 【和訳】

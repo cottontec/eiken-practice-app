@@ -1,6 +1,7 @@
 ---
 choices: interpreted | facilitated | reprimanded | devastated
 answerText: devastated
+reviewed: yes
 ---
 【正解】4 devastated（荒らされる、ひどく破壊される）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: He was forced to go to Charleston to prevent his mother from being harmed by the man who owned her. | He was concerned that he would be separated from his wife and children forever if they were bought by a different owner. | He earned enough money to buy freedom for his family, but his owner refused to let them go. | He took his family to live in Charleston because he thought it was a safe place to raise his children.
 answerText: He was concerned that he would be separated from his wife and children forever if they were bought by a different owner.
+reviewed: yes
 ---
 【正解】2 He was concerned that he would be separated from his wife and children forever if they were bought by a different owner.（彼は、妻と子どもたちが別の所有者に買われたら、自分は彼らと永遠に引き離されてしまうのではないかと心配していた。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: misery | insight | hassle | literacy
 answerText: insight
+reviewed: yes
 ---
 【正解】2 insight（深い理解、洞察〈物事の本当の姿を見抜くこと〉）
 【和訳】
