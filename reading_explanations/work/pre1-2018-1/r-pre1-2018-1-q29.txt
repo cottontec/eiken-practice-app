@@ -1,0 +1,27 @@
+---
+choices: there was conflict over resources | climate change caused food shortages | the islanders knew they were coming | the moai attracted dangerous outsiders
+answerText: there was conflict over resources
+---
+【正解】1 there was conflict over resources（資源をめぐる争いがあった）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 there was conflict over resources（資源をめぐる争いがあった）
+2 climate change caused food shortages（気候の変化が食料不足を引き起こした）
+3 the islanders knew they were coming（島民たちは彼らがやって来ることを知っていた）
+4 the moai attracted dangerous outsiders（モアイが危険なよそ者を引き寄せた）
+【考え方】
+まず見るところ：第1段落の The traditional explanation for this disappearance is that (　). と、第2段落の According to this theory, ～
+空所の文は「この消滅についての昔からの説明は、〇〇というものだ」という意味です。this disappearance は、前の文の「高度な文化がほぼ完全に消えてしまったこと」を指します。その説明の中身は、第2段落の According to this theory（この説によれば）から書かれています。
+the inhabitants had been making fishing canoes from the island's trees, but eventually all the trees were cut down（住民たちは島の木々から漁のためのカヌーを作っていたが、やがて木はすべて切り倒された）
+competition for the remaining food supply turned violent（残された食料をめぐる争いは暴力的なものになった）
+木や食料は、人が生きるために使う resources（資源）です。それが足りなくなり、奪い合いが暴力にまでなった、というのが昔からの説です。よって1が正解です。
+この問題の型：具体例とまとめ（木を切りつくす・食料を奪い合う → 資源をめぐる争い）
+【ほかの選択肢】
+2 「気候の変化」は本文に出てきません。第2段落では、食料が足りなくなった原因は、木を切りつくしたことと、農業の技術や豊かな土がなかったことだとされています。
+3 第1段落で、文化はヨーロッパ人が来たときまでにほぼ消えていたとあり、第2段落の説明も島の中での食料の奪い合いの話です。島民がだれかの到着を知っていたという話は本文にありません。
+4 第2段落で争ったのは島の住民どうしで、モアイがよそ者を引き寄せたという話は本文にありません。第3段落の最後でも、この説は「住民に責任があった」という考えだとまとめられています。
+【覚えるポイント】
+・conflict over ～：「～をめぐる争い」。resources：「資源（生きるために使う物）」。
+・空所の直後の段落が According to this theory（この説によれば）で始まるときは、その段落の内容をまとめた言い方が空所に入る手がかりになります。

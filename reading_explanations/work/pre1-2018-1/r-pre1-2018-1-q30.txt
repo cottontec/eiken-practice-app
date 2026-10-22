@@ -1,0 +1,28 @@
+---
+choices: Instead | On the other hand | Consequently | Even so
+answerText: Consequently
+---
+【正解】3 Consequently（その結果）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Instead（その代わりに）
+2 On the other hand（その一方で）
+3 Consequently（その結果）
+4 Even so（たとえそうでも、それでも）
+【考え方】
+まず見るところ：第2段落の competition for the remaining food supply turned violent と、空所の後ろの the population fell
+空所の前では、昔からの説の流れが書かれています。木がなくなり、農業だけでは全員を養えず、次のようになりました。
+the land could not support everyone, and competition for the remaining food supply turned violent（その土地はすべての人を養うことができず、残された食料をめぐる争いは暴力的なものになった）
+空所のあとは次のとおりです。
+the population fell from around 15,000 in 1600 to only a few thousand in 1722（人口は1600年のおよそ1万5,000人から、1722年にはわずか数千人にまで減った）
+食料が足りず、暴力的な争いが起きたことの「結果」として人口が減った、という関係です。Consequently は「その結果」なので、3が正解です。
+この問題の型：因果（食料不足と争い → Consequently → 人口が減った）
+【ほかの選択肢】
+1 Instead は「その代わりに」です。人口が減ったことは、争いの「代わり」に起きたことではないので合いません。
+2 On the other hand は「その一方で」で、2つのことを比べるときに使います。争いと人口の減少は比べる関係ではなく、原因と結果の関係なので合いません。
+4 Even so は「それでも」で、前の内容から予想されることと反対のことが続くときに使います。争いが暴力的になったあとで人口が減るのは予想どおりの流れなので、合いません。
+【覚えるポイント】
+・Consequently：「その結果」。population fell from A to B：「人口がAからBに減った」。
+・つなぎの言葉の空所では、前の文が「原因」、あとの文が「結果」になっているかどうかを確かめることが、Consequently などを選ぶ手がかりになります。

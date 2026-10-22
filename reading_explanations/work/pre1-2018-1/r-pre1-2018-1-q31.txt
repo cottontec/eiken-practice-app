@@ -1,0 +1,28 @@
+---
+choices: had gotten used to | had not become skilled at | decided to focus mainly on | were not entirely dependent upon
+answerText: were not entirely dependent upon
+---
+【正解】4 were not entirely dependent upon（～に完全に頼っていたわけではなかった）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 had gotten used to（～に慣れていた）
+2 had not become skilled at（～が上手になっていなかった）
+3 decided to focus mainly on（主に～に力を入れることにした）
+4 were not entirely dependent upon（～に完全に頼っていたわけではなかった）
+【考え方】
+まず見るところ：第3段落の around half the protein in the inhabitants' diet continued to come from marine sources
+第3段落では、リポとハントという2人の考古学者が、昔からの説に反対する考えを述べています。空所の前の文を見ます。
+analyses of human, animal, and plant remains at two archaeological sites independently show that around half the protein in the inhabitants' diet continued to come from marine sources（2か所の遺跡での人間・動物・植物の遺物の分析が、それぞれ別々に、住民の食事のたんぱく質のおよそ半分が引き続き海産物から得られていたことを示している）
+protein は「たんぱく質（肉や魚などに多く含まれる栄養）」、marine sources は「海でとれる食べ物」です。たんぱく質の半分を海から得ていたのなら、人々は陸の作物だけで暮らしていたわけではありません。
+This indicates that the people (　) growing crops on land.（このことは、人々が陸で作物を育てることに〇〇ことを示している）
+「完全に頼っていたわけではなかった」が入ります。第2段落の昔からの説の people had to depend on farming alone（人々は農業だけに頼らなければならなかった）とも反対の内容になり、2人が昔からの説に反対しているという流れに合います。よって4が正解です。
+この問題の型：対比（昔からの説 depend on farming alone ⇔ not entirely dependent upon growing crops）
+【ほかの選択肢】
+1 had gotten used to は「～に慣れていた」です。たんぱく質の半分を海から得ていたことは、作物づくりに慣れていたことを示す証拠にはなりません。
+2 had not become skilled at は「～が上手になっていなかった」です。食事のたんぱく質がどこから来たかという分析からは、作物づくりの腕前は分かりません。
+3 decided to focus mainly on は「主に～に力を入れることにした」です。たんぱく質の半分を海から得ていたという内容と反対になります。
+【覚えるポイント】
+・not entirely ～：「完全に～というわけではない」（一部だけを打ち消す言い方）。be dependent upon ～：「～に頼っている」。
+・空所の前の This indicates that ～（このことは～を示している）の This が指す内容（ここでは「たんぱく質の半分は海から」）から、何が言えるかを考えることが手がかりになります。
