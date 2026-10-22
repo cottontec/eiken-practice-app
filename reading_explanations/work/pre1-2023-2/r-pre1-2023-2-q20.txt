@@ -1,0 +1,29 @@
+---
+choices: ample | regal | vain | crafty
+answerText: ample
+---
+【正解】1 ample（十分な、たっぷりある）
+【和訳】
+（英文）
+Joseph was not sure if he could afford a taxi home from work, but after checking his wallet, he found that he had ［ample］ money for the ride.
+（訳）
+ジョセフは、仕事場から家までタクシーに乗るお金の余裕があるかどうか分かりませんでしたが、財布を確かめたあと、乗るのに（十分な）お金があることが分かりました。
+（選択肢の意味）
+1 ample：十分な、たっぷりある
+2 regal：王のような、堂々とした
+3 vain：むだな、うぬぼれの強い
+4 crafty：ずるがしこい
+【考え方】
+まず見るところ：前半の was not sure if he could afford a taxi と、but after checking his wallet
+Joseph was not sure if he could afford a taxi home from work（ジョセフは、仕事場から家までタクシーに乗るお金の余裕があるかどうか分からなかった）
+afford は「（お金の）余裕がある」、not sure if ～ は「～かどうか分からない」です。
+but after checking his wallet, he found that he had ( ) money for the ride（しかし財布を確かめたあと、乗るのに（　）お金があることが分かった）
+but（しかし）でつながっているので、「お金が足りるか心配だった」のとは反対に、「お金は足りていた」という内容になると考えられます。ample は「十分な、たっぷりある」なので、1が正解です。
+この問題の型：対比（足りるか分からない⇔十分にあった）
+【ほかの選択肢】
+2 regal は「王のような、堂々とした」です。「乗るのに王のようなお金があった」となり、お金が足りるかどうかの話とつながりません。
+3 vain は「むだな、うぬぼれの強い」です。「乗るのにむだなお金があった」では、お金が足りるかどうかという心配への答えになりません。
+4 crafty は「ずるがしこい」で、人の性格を表す語です。「ずるがしこいお金」となり、意味が通りません。
+【覚えるポイント】
+・ample：「十分な、たっぷりある」。ample money（十分なお金）のように、量が足りていることを表します。
+・not sure if ～（～かどうか分からない）, but ... found that ～（しかし～だと分かった）の文では、but の後ろに心配が解けた結果がくることが多いので、心配の中身（ここではお金が足りるか）から考えると手がかりになります。

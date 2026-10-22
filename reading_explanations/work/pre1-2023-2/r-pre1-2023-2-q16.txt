@@ -1,0 +1,29 @@
+---
+choices: idle | agile | sane | needy
+answerText: idle
+---
+【正解】1 idle（何もしていない、仕事がなくて暇な）
+【和訳】
+（英文）
+When Jonathan started at his company, he was often ［idle］ all day. However, after a few months, he took on more tasks and now has little free time.
+（訳）
+ジョナサンは会社で働き始めたころ、一日中（何もすることがない）ことがよくありました。しかし、数か月後、彼はより多くの仕事を引き受け、今では自由な時間がほとんどありません。
+（選択肢の意味）
+1 idle：何もしていない、仕事がなくて暇な
+2 agile：（動きが）すばやい、機敏な
+3 sane：正気の、分別のある
+4 needy：貧しい、（愛情などを）ひどくほしがる
+【考え方】
+まず見るところ：次の文の However と now has little free time
+However, after a few months, he took on more tasks and now has little free time.（しかし、数か月後、彼はより多くの仕事を引き受け、今では自由な時間がほとんどない）
+take on は「（仕事など）を引き受ける」、little free time は「自由な時間がほとんどない」です。
+However（しかし）があるので、働き始めたころは、今とは反対の様子だったと考えられます。今は「暇がほとんどない」のですから、最初のころは「暇だった、することがなかった」となります。
+idle は「何もしていない、仕事がなくて暇な」なので、was often idle all day で「一日中何もすることがないことがよくあった」となり、次の文と対比になります。ですから1が正解です。
+この問題の型：対比（最初は暇⇔今は自由な時間がほとんどない）
+【ほかの選択肢】
+2 agile は「（動きが）すばやい、機敏な」です。「一日中すばやかった」では、However のあとの「今は自由な時間がほとんどない」と反対の様子になりません。
+3 sane は「正気の、分別のある」です。「一日中正気だった」となり、仕事の量や暇な時間の話とつながりません。
+4 needy は「貧しい、（愛情などを）ひどくほしがる」です。「一日中貧しかった」では、仕事が増えて暇がなくなったという次の文と対比になりません。
+【覚えるポイント】
+・idle：「何もしていない、仕事がなくて暇な」。little free time（自由な時間がほとんどない）と反対の様子を表します。
+・When ～ started ...（～が始めたころ）の文のあとに However, now ～ と続くときは、「今」の様子の反対が空所に入ることが多いので、However の後ろを先に読むと手がかりになります。

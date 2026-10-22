@@ -7,7 +7,7 @@ answerText: went for
 （英文）
 As the suspect was being arrested by the police, he ［went for］ an officer's gun. Luckily, he was stopped before he could get it.
 （訳）
-容疑者は警察に逮捕されているときに、警察官の銃を（取ろうとし）ました。幸いにも、彼はそれを手に入れる前に止められました。
+容疑者は警察に逮捕されているときに、警察官の銃を（取ろうとし）ました。幸いなことに、彼はそれを手に入れる前に止められました。
 （選択肢の意味）
 1 went for：～を取ろうとした、～に飛びかかった
 2 let up：（雨などが）弱まった、手をゆるめた
@@ -19,7 +19,7 @@ As the suspect was being arrested by the police, he ［went for］ an officer's 
 As the suspect was being arrested by the police, he ( ) an officer's gun.（容疑者は警察に逮捕されているときに、警察官の銃を（　））
 suspect は「容疑者（罪をおかした疑いのある人）」、was being arrested は「逮捕されている最中だった」という意味です。
 あとの文は次のとおりです。
-Luckily, he was stopped before he could get it.（幸いにも、彼はそれを手に入れる前に止められた）
+Luckily, he was stopped before he could get it.（幸いなことに、彼はそれを手に入れる前に止められた）
 it は an officer's gun（警察官の銃）を指します。容疑者は銃を「手に入れる前に止められた」ので、銃を手に入れようとしていたことが分かります。go for ～ は「～を取ろうとする、～に飛びかかる」なので、1が正解です。
 この問題の型：指示語（it ＝ an officer's gun）／推論（手に入れる前に止められた→取ろうとした）
 【ほかの選択肢】

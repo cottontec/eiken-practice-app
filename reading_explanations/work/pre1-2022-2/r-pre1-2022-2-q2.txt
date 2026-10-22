@@ -1,0 +1,29 @@
+---
+choices: remodel | stumble | overlap | instill
+answerText: instill
+---
+【正解】4 instill（考えや気持ちを植えつける、教えこむ）
+【和訳】
+（英文）
+Jocelyn always reminded her son not to tell lies. She believed it was important to ［instill］ a strong sense of honesty in him.
+（訳）
+ジョスリンはいつも息子に、うそをつかないようにと念を押していた。彼女は、息子に強い正直さの感覚を（植えつける）ことが大切だと信じていた。
+（選択肢の意味）
+1 remodel：（建物などを）改装する、作り直す
+2 stumble：つまずく
+3 overlap：重なり合う
+4 instill：（考えや気持ちを）植えつける、教えこむ
+【考え方】
+まず見るところ：空所のあとの a strong sense of honesty in him と、前の文の reminded her son not to tell lies
+Jocelyn always reminded her son not to tell lies.（ジョスリンはいつも息子に、うそをつかないようにと念を押していた）
+remind ～ not to ... は「～に…しないように念を押す（思い出させる）」という意味です。ジョスリンは、くり返し息子に正直でいるよう教えていたことが分かります。
+it was important to (　) a strong sense of honesty in him（息子の中に強い正直さの感覚を（　）することが大切だ）
+instill A in B は「B（人）の心にA（考えや気持ち）を少しずつ植えつける、教えこむ」という意味です。いつも注意していたのは、息子の心に正直さを育てるためだと考えると、話がつながります。よって4が正解です。
+この問題の型：熟語・決まった形（instill A in B〈BにAを植えつける〉）
+【ほかの選択肢】
+1 remodel は「（建物などを）改装する、作り直す」です。「息子の中の正直さの感覚を改装する」となり、うそをつかないよう教えていたという話とつながりません。
+2 stumble は「つまずく」です。「強い正直さの感覚をつまずく」となり、意味が通りません。
+3 overlap は「重なり合う」です。「息子の中で正直さの感覚を重なり合わせる」となり、意味が通りません。
+【覚えるポイント】
+・instill A in B：「Bの心にAを植えつける、教えこむ」。remind ～ not to ...：「～に…しないように念を押す」。
+・空所のあとに a sense of ～（～の感覚）と in him（彼の中に）が続くときは、「人の心に考えや気持ちを育てる」という意味の動詞が入る手がかりになります。

@@ -1,0 +1,29 @@
+---
+choices: subsidy | mirage | summit | crutch
+answerText: summit
+---
+【正解】3 summit（頂上、山頂）
+【和訳】
+（英文）
+Due to the snowstorm, the climbers were unable to reach the mountain's ［summit］. They had to turn around just a few hundred meters from the top.
+（訳）
+吹雪のせいで、登山者たちはその山の（頂上）にたどり着くことができませんでした。彼らは、頂上からわずか数百メートルのところで引き返さなければなりませんでした。
+（選択肢の意味）
+1 subsidy：補助金
+2 mirage：しんきろう（実際にはないものが見える現象）、幻
+3 summit：頂上、山頂
+4 crutch：松葉づえ
+【考え方】
+まず見るところ：次の文の just a few hundred meters from the top
+They had to turn around just a few hundred meters from the top.（彼らは、頂上からわずか数百メートルのところで引き返さなければならなかった）
+turn around は「引き返す」、the top は「頂上」です。登山者たちは、頂上の手前で引き返したことが分かります。
+the climbers were unable to reach the mountain's ( )（登山者たちは山の（　）にたどり着けなかった）
+引き返したのですから、たどり着けなかったのは頂上です。summit は「頂上、山頂」で、次の文の the top の言いかえになっています。ですから3が正解です。
+この問題の型：言いかえ（the mountain's summit → the top）
+【ほかの選択肢】
+1 subsidy は「補助金（国などが出してくれるお金）」です。「山の補助金にたどり着けなかった」となり、意味が通りません。
+2 mirage は「しんきろう、幻」です。「山のしんきろうにたどり着けなかった」となり、次の文の「頂上から数百メートルのところで引き返した」とつながりません。
+4 crutch は「松葉づえ（足をけがした人が使うつえ）」です。「山の松葉づえにたどり着けなかった」となり、意味が通りません。
+【覚えるポイント】
+・summit：「頂上、山頂」。reach the summit（頂上にたどり着く）の形で使われ、the top と言いかえられることがあります。
+・空所のある文の次の文で、同じものが別のやさしい語（ここでは the top）で言いかえられていることがあるので、次の文まで読むと手がかりになります。

@@ -1,0 +1,32 @@
+---
+choices: They were well staffed but lacked adequate medical supplies for the large numbers of people who required treatment. | They provided medical treatment at the government’s expense to all Khmer people who were in need of it. | They demonstrated that Jayavarman only had compassion for Khmer people who had accepted Buddhism. | They were seen by leaders in the region as an inappropriate use of funds that were supposed to be solely for the purpose of promoting Buddhism.
+answerText: They provided medical treatment at the government’s expense to all Khmer people who were in need of it.
+---
+【正解】2 They provided medical treatment at the government’s expense to all Khmer people who were in need of it.（それらは、治療が必要なすべてのクメールの人々に、政府の費用で治療を行った。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is true of the hospitals built by Jayavarman?（ジャヤーヴァルマンが建てた病院について正しいのはどれか。）
+1 They were well staffed but lacked adequate medical supplies for the large numbers of people who required treatment.（それらには働く人は十分にいたが、治療を必要とする大勢の人々のための十分な医療物資がなかった。）
+2 They provided medical treatment at the government’s expense to all Khmer people who were in need of it.（それらは、治療が必要なすべてのクメールの人々に、政府の費用で治療を行った。）
+3 They demonstrated that Jayavarman only had compassion for Khmer people who had accepted Buddhism.（それらは、ジャヤーヴァルマンが、仏教を受け入れたクメールの人々にだけ思いやりを持っていたことを示した。）
+4 They were seen by leaders in the region as an inappropriate use of funds that were supposed to be solely for the purpose of promoting Buddhism.（それらは、その地域の指導者たちから、仏教を広める目的だけに使われるはずの資金の、ふさわしくない使い方だと見なされた。）
+【考え方】
+まず見るところ：第3段落の Supplies from the government arrived at these hospitals frequently と any citizen in the empire, regardless of income or social standing, was eligible for treatment at no cost
+病院については、第3段落に書かれています。
+Supplies from the government arrived at these hospitals frequently, and it appears that any citizen in the empire, regardless of income or social standing, was eligible for treatment at no cost.（政府からの物資はこれらの病院にたびたび届き、帝国のどの国民も、収入や社会的な地位に関係なく、無料で治療を受ける資格があったようである）
+supplies は「物資（必要な品物）」、regardless of ～ は「～に関係なく」、was eligible for ～ は「～を受ける資格があった」、at no cost は「無料で」という意味です。
+病院の物資は政府から届けられ、国民はだれでも無料で治療を受けられたので、治療にかかる費用は政府が出していたことが読み取れます。
+本文と選択肢を対にすると、次のようになります。
+本文 any citizen in the empire, regardless of income or social standing（帝国のどの国民も、収入や社会的な地位に関係なく）→ 選択肢 all Khmer people（すべてのクメールの人々）
+本文 Supplies from the government ／ at no cost（政府からの物資／無料で）→ 読み取れること：at the government’s expense（政府の費用で）
+よって2が正解です。
+この問題の型：言いかえ（any citizen ～ regardless of income → all Khmer people）／推論（政府からの物資・無料→政府の費用で）
+【ほかの選択肢】
+1 本文と内容がちがいます。病院で医師や薬剤師などが雇われていたことは書かれていますが、物資は Supplies from the government arrived at these hospitals frequently（政府からの物資はこれらの病院にたびたび届いた）とあり、物資が足りなかったとは書かれていません。
+3 本文と内容がちがいます。治療を受ける資格は any citizen in the empire, regardless of income or social standing（帝国のどの国民も、収入や社会的な地位に関係なく）にあったとされています。仏教を受け入れた人だけに思いやりを持っていたとは書かれておらず、病院は、むしろ人々を仏教に改宗させる助けになったと考えられています。
+4 本文にありません。地域の指導者たちが病院を、資金のふさわしくない使い方だと見ていたという話はありません。
+【覚えるポイント】
+・at no cost：「無料で」。be eligible for ～ は「～を受ける資格がある」。
+・「～について正しいのはどれか」という設問では、本文の regardless of ～（～に関係なく）のような「だれでも」を表す言い方が、選択肢では all（すべての）に言いかえられることが多く、手がかりになります。

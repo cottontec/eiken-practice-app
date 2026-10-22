@@ -1,0 +1,31 @@
+---
+choices: patriots | spectators | mimics | executives
+answerText: spectators
+---
+【正解】2 spectators（見物人、観客）
+【和訳】
+（英文）
+A: I couldn't believe how crowded this year's summer parade was.
+B: I know! There were so many ［spectators］ in the streets I could barely move.
+（訳）
+A：今年の夏のパレードがどれほど混んでいたか、信じられなかったよ。
+B：本当にね！通りに（見物人）がとても多くて、ほとんど動けなかったよ。
+（選択肢の意味）
+1 patriots：愛国者（自分の国を強く愛する人々）
+2 spectators：見物人、観客
+3 mimics：ものまねをする人
+4 executives：（会社の）重役、経営者
+【考え方】
+まず見るところ：Aの how crowded this year's summer parade was
+I couldn't believe how crowded this year's summer parade was.（今年の夏のパレードがどれほど混んでいたか、信じられなかった）
+crowded は「混雑した、人がいっぱいの」です。AとBはパレードの混雑について話しています。
+There were so many ( ) in the streets I could barely move.（通りに（　）がとても多くて、ほとんど動けなかった）
+barely は「ほとんど～ない」です。パレードの日に通りにたくさんいたのは、パレードを見に来た人たちだと考えられます。spectator は「見物人、観客」なので、2が正解です。
+この問題の型：語の意味・組み合わせ（parade ＋ spectators）
+【ほかの選択肢】
+1 patriots は「愛国者（自分の国を強く愛する人々）」です。会話はパレードの混雑の話で、そこにいた人々が国を愛しているかどうかは話題になっていません。
+3 mimics は「ものまねをする人」です。パレードの通りがものまねをする人でいっぱいだったという話は、会話から読み取れません。
+4 executives は「（会社の）重役、経営者」です。パレードの混雑の話に、会社の重役が通りに大勢いたという内容はつながりません。
+【覚えるポイント】
+・spectator：「見物人、観客」。parade（パレード）や game（試合）など、何かを見に来た人を表します。
+・会話の空所が「どんな人がたくさんいたか」を表すときは、その場面（ここでは parade）に集まるのが自然な人を表す名詞を選ぶと手がかりになります。

@@ -1,0 +1,29 @@
+---
+choices: harassed | breached | drained | gripped
+answerText: gripped
+---
+【正解】4 gripped（～をしっかりつかんだ、にぎった）
+【和訳】
+（英文）
+The girl was scared of high places, so she ［gripped］ her father's hand. She held it tightly as they looked out the window from the top of the tower.
+（訳）
+その女の子は高い所がこわかったので、父親の手を（しっかりつかみました）。塔のてっぺんから窓の外をながめている間、彼女はその手をきつくにぎっていました。
+（選択肢の意味）
+1 harassed：～を困らせた、～にいやがらせをした
+2 breached：（約束・規則など）を破った、（壁など）を突き破った
+3 drained：（水など）を流し出した、～をくたくたに疲れさせた
+4 gripped：～をしっかりつかんだ、にぎった
+【考え方】
+まず見るところ：次の文の She held it tightly
+She held it tightly as they looked out the window from the top of the tower.（塔のてっぺんから窓の外をながめている間、彼女はそれをきつくにぎっていた）
+it は前の文の her father's hand（父親の手）を指します。hold ～ tightly は「～をきつくにぎる、しっかり持つ」です。
+The girl was scared of high places, so she ( ) her father's hand.（その女の子は高い所がこわかったので、父親の手を（　））
+高い所がこわかったので、父親の手をしっかりつかんだ、と考えると、次の文の「きつくにぎっていた」と合います。grip は「～をしっかりつかむ、にぎる」なので、4が正解です。
+この問題の型：言いかえ（gripped → held it tightly）／因果（こわい→手をつかむ）
+【ほかの選択肢】
+1 harassed は「～を困らせた、～にいやがらせをした」です。「父親の手にいやがらせをした」となり、こわくて手をにぎるという流れと合いません。
+2 breached は「（約束・規則など）を破った、（壁など）を突き破った」です。「父親の手を破った」となり、意味が通りません。
+3 drained は「（水など）を流し出した、～をくたくたに疲れさせた」です。「父親の手を流し出した」となり、次の文の「きつくにぎっていた」ともつながりません。
+【覚えるポイント】
+・grip：「～をしっかりつかむ、にぎる」。hold ～ tightly（～をきつくにぎる）と同じような意味を表します。
+・空所の次の文に、同じ動作をくわしく説明する文（ここでは She held it tightly）があるときは、その動作を1語で表す語を選ぶと手がかりになります。

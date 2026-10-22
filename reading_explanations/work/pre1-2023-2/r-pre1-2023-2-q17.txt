@@ -1,0 +1,31 @@
+---
+choices: courteous | optimistic | suspicious | flustered
+answerText: optimistic
+---
+【正解】2 optimistic（楽観的な）
+【和訳】
+（英文）
+A: Guess what? I've got an interview for that job as a TV announcer!
+B: That's great, but don't be too ［optimistic］ just yet. There'll be a lot of competition for that position.
+（訳）
+A：ねえ、聞いて。あのテレビのアナウンサーの仕事の面接を受けることになったよ！
+B：それはすごいね。でも、今はまだあまり（楽観的に）なりすぎないで。その職には、たくさんの競争相手がいるだろうから。
+（選択肢の意味）
+1 courteous：礼儀正しい
+2 optimistic：楽観的な（物事がうまくいくと考える）
+3 suspicious：疑い深い、あやしいと思う
+4 flustered：あわてた、うろたえた
+【考え方】
+まず見るところ：Bの最後の There'll be a lot of competition for that position.
+There'll be a lot of competition for that position.（その職をめぐっては、たくさんの競争があるだろう）
+competition は「競争」、position は「職、地位」です。その仕事に応募する人がたくさんいて、受かるのは簡単ではない、ということです。
+That's great, but don't be too ( ) just yet.（それはすごいね。でも、今はまだあまり（　）になりすぎないで）
+but のあとでBは、競争が激しいことを理由に、Aに注意をしています。「きっと受かる」と考えすぎないで、という注意だと考えると、理由とつながります。optimistic は「楽観的な（物事がうまくいくと考える）」なので、2が正解です。
+この問題の型：因果（競争が激しい→楽観的になりすぎないで）／対比（That's great ⇔ but ～）
+【ほかの選択肢】
+1 courteous は「礼儀正しい」です。「礼儀正しくなりすぎないで」では、競争が激しいという理由とつながりません。
+3 suspicious は「疑い深い、あやしいと思う」です。競争が激しいことは、受かるかどうかを慎重に考える理由になります。「疑いすぎないで」という注意の理由にはなりません。
+4 flustered は「あわてた、うろたえた」です。「あわてすぎないで」という注意は、競争が激しいという理由とつながりません。
+【覚えるポイント】
+・optimistic：「楽観的な（物事がうまくいくと考える）」。don't be too optimistic（楽観的になりすぎないで）は、まだ結果が決まっていない相手に注意するときの言い方です。
+・don't be too ～（～になりすぎないで）のあとに理由の文が続くときは、その理由（ここでは「競争が多い」）から考えて、相手が気をつけるべき気持ちを選ぶと手がかりになります。

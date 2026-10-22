@@ -1,0 +1,32 @@
+---
+choices: people demanded that the Khmer empire open itself up to Buddhism to stop the spread of a deadly disease. | he hoped to use the temples as a way to keep other Khmer rulers satisfied and prevent them from rebelling against his government. | he wanted to show his people that he was different from the previous ruler, who they felt had not been as religious as he should have been. | he likely believed that he did not have very long to live and wished to achieve as much as possible during his time as king.
+answerText: he likely believed that he did not have very long to live and wished to achieve as much as possible during his time as king.
+---
+【正解】4 he likely believed that he did not have very long to live and wished to achieve as much as possible during his time as king.（彼は、自分がそれほど長くは生きられないと信じていて、王である間にできるだけ多くのことを成しとげたいと願っていた可能性が高い。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：The passage suggests that one reason Jayavarman built so many temples was that（本文によると、ジャヤーヴァルマンがそれほど多くの寺院を建てた理由の一つは～ことだと考えられる。）
+1 people demanded that the Khmer empire open itself up to Buddhism to stop the spread of a deadly disease.（命にかかわる病気が広がるのを止めるために、人々が、クメール帝国が仏教を受け入れるよう求めた。）
+2 he hoped to use the temples as a way to keep other Khmer rulers satisfied and prevent them from rebelling against his government.（ほかのクメールの支配者たちを満足させておき、彼らが彼の政府にそむくのを防ぐ手段として、寺院を使いたいと思った。）
+3 he wanted to show his people that he was different from the previous ruler, who they felt had not been as religious as he should have been.（前の支配者は信仰心が足りなかったと国民が感じていたので、自分は前の支配者とはちがうということを国民に示したかった。）
+4 he likely believed that he did not have very long to live and wished to achieve as much as possible during his time as king.（彼は、自分がそれほど長くは生きられないと信じていて、王である間にできるだけ多くのことを成しとげたいと願っていた可能性が高い。）
+【考え方】
+まず見るところ：第2段落の Some researchers suggest he did this because he felt his time may be limited
+寺院を多く建てた理由は、第2段落の後半に書かれています。
+Some researchers suggest he did this because he felt his time may be limited—he became king relatively late in life, at the age of 61, and he suffered from a long-term medical condition.（一部の研究者は、彼がこうしたのは、自分に残された時間が限られているかもしれないと感じていたからだと述べている。彼が王になったのは人生の比較的遅い時期の61歳のときで、また彼は長く続く病気をわずらっていた）
+did this（こうした）は、前の文の building temples faster and in greater numbers than any previous king（それまでのどの王よりも速く、多くの寺院を建てた）ことを指します。his time may be limited は「自分の時間が限られているかもしれない」、つまり「長くは生きられないかもしれない」という意味です。
+また、同じ段落の初めには、he also seems to have been obsessed with constructing as many Buddhist temples as possible during his reign（彼は在位中にできるだけ多くの仏教寺院を建てることに取りつかれていたようでもある）とあります。
+本文と選択肢を対にすると、次のようになります。
+本文 he felt his time may be limited（自分に残された時間が限られているかもしれないと感じた）→ 選択肢 he likely believed that he did not have very long to live（それほど長くは生きられないと信じていた可能性が高い）
+本文 as many Buddhist temples as possible during his reign（在位中にできるだけ多くの仏教寺院を）→ 選択肢 achieve as much as possible during his time as king（王である間にできるだけ多くのことを成しとげる）
+よって4が正解です。
+この問題の型：言いかえ（his time may be limited → did not have very long to live）／指示語（did this＝寺院を速く多く建てたこと）
+【ほかの選択肢】
+1 本文にありません。病気については、ジャヤーヴァルマン自身が長く続く病気をわずらっていたとあるだけで、病気の広がりを止めるために人々が仏教を求めたという話はありません。
+2 本文にありません。ほかの支配者を満足させるために寺院を建てたという話はありません。第1段落では、ジャヤーヴァルマンは帝国を支配しようとしたほかの武将たちを crush（打ち破った）と書かれています。
+3 本文にありません。前の支配者の信仰心が足りないと国民が感じていたという話はありません。本文には、宗教を広めることは長い間クメール文化の基本的な部分だったとあるだけです。
+【覚えるポイント】
+・one's time may be limited：「自分に残された時間が限られているかもしれない」。選択肢では did not have very long to live（それほど長く生きられない）と言いかえられています。
+・理由をたずねる設問では、本文の because や「理由」を表す言い方のあとに、ダッシュ（—）で具体的な説明が続くことがあります。両方を読んで選択肢と照らし合わせることが手がかりになります。

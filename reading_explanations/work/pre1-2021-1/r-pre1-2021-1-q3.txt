@@ -7,7 +7,7 @@ answerText: ironic
 （英文）
 It is sadly ［ironic］ that, in developing countries, many of the farmers who grow nutritious crops for export do not have enough food to feed their own families.
 （訳）
-発展途上国では、輸出用に栄養のある作物を育てている農家の多くが、自分の家族に食べさせるだけの十分な食べ物を持っていません。これは悲しいことに（皮肉な）ことです。
+発展途上国では、輸出用に栄養のある作物を育てている農家の多くが、自分の家族に食べさせるのに十分な食べ物を持っていません。これは悲しいことに（皮肉な）ことです。
 （選択肢の意味）
 1 indefinite：はっきりしない、期限が決まっていない
 2 ironic：皮肉な（当然そうなると思われることと、逆の結果になっている）

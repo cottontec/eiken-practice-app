@@ -1,0 +1,29 @@
+---
+choices: saturated | flattered | ingested | ridiculed
+answerText: ridiculed
+---
+【正解】4 ridiculed（あざ笑われた、ばかにされた）
+【和訳】
+（英文）
+Throughout the course of history, many great thinkers were at first ［ridiculed］ for their ideas before eventually being taken seriously.
+（訳）
+歴史を通じて、多くの偉大な思想家たちは、最終的に真剣に受け止められるようになる前に、はじめはその考えのせいで（あざ笑われた）。
+（選択肢の意味）
+1 saturated：（水などで）びしょぬれにされた、いっぱいにされた
+2 flattered：おだてられた、ほめられた
+3 ingested：（食べ物などが）体の中に取りこまれた
+4 ridiculed：あざ笑われた、ばかにされた
+【考え方】
+まず見るところ：空所の前の at first と、文の最後の before eventually being taken seriously
+before eventually being taken seriously（最終的に真剣に受け止められるようになる前に）
+take ～ seriously は「～を真剣に受け止める」という意味です。eventually（最終的に、やがて）とあるので、はじめは真剣に受け止められていなかったことが分かります。
+were at first (　) for their ideas（はじめはその考えのせいで（　）された）
+at first（はじめは）と eventually（最終的に）で、前とあとの様子が対比（2つを比べて違いを示すこと）されています。「はじめはあざ笑われたが、やがて真剣に受け止められた」とすると話が通ります。ridiculed は「あざ笑われた、ばかにされた」なので、4が正解です。
+この問題の型：対比（at first あざ笑われた⇔eventually 真剣に受け止められた）
+【ほかの選択肢】
+1 saturated は「びしょぬれにされた、いっぱいにされた」です。「考えのせいでびしょぬれにされた」となり、意味が通りません。
+2 flattered は「おだてられた、ほめられた」です。はじめからほめられていたのなら、「やがて真剣に受け止められた」との対比になりません。
+3 ingested は「体の中に取りこまれた」です。思想家が「考えのせいで食べられた」となり、意味が通りません。
+【覚えるポイント】
+・ridicule：「あざ笑う、ばかにする」。take ～ seriously：「～を真剣に受け止める」。eventually：「最終的に、やがて」。
+・at first（はじめは）と eventually（最終的に）が1つの文に出てくるときは、前とあとが反対の様子になることが多いので、あとの様子から空所の意味を逆に考えます。
