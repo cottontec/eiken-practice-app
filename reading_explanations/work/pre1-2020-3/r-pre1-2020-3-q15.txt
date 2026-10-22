@@ -1,0 +1,30 @@
+---
+choices: concede | consolidate | foster | plaster
+answerText: concede
+---
+【正解】1 concede（負けを認めて譲る）
+【和訳】
+（英文）
+After most of the votes were counted, it was clear the candidate could not win. He decided to ［concede］ the election to his opponent.
+（訳）
+ほとんどの票が数えられたあと、その候補者が勝てないことははっきりしていました。彼は、相手の候補者に選挙の勝ちを（譲る）ことに決めました。
+（選択肢の意味）
+1 concede：負けを認めて譲る
+2 consolidate：強化する、ひとつにまとめる
+3 foster：育てる、促進する
+4 plaster：しっくいを塗る、べたべた貼る
+【考え方】
+まず見るところ：前半の文の it was clear the candidate could not win
+After most of the votes were counted, it was clear the candidate could not win.（ほとんどの票が数えられたあと、その候補者が勝てないことははっきりしていた）
+votes は「票」、candidate は「候補者（選挙に立った人）」です。もう勝てないとはっきりしたことが分かります。
+空所のある文は次のとおりです。
+He decided to (　) the election to his opponent.（彼は、相手の候補者に選挙を（　）ことに決めた）
+opponent は「対立する相手」です。勝てないと分かった候補者がすることとして自然なのは、負けを認めることです。concede the election to ～ で「～に選挙の勝ちを譲る、つまり選挙での負けを認める」という意味になるので、1が正解です。
+この問題の型：因果（勝てないと分かった→負けを認めた）／語の意味・組み合わせ（concede the election to ～）
+【ほかの選択肢】
+2 consolidate は「強化する、ひとつにまとめる」です。「相手に選挙を強化することに決めた」となり、意味が通りません。
+3 foster は「育てる、促進する」です。「相手に選挙を育てることに決めた」となり、勝てないと分かったという前半の文とつながりません。
+4 plaster は「しっくいを塗る、べたべた貼る」です。「相手に選挙をしっくいで塗る」となり、意味が通りません。
+【覚えるポイント】
+・concede：「（負けや事実を）認める」。concede the election to ～ は「～に選挙の勝ちを譲る（負けを認める）」という意味です。
+・could not win（勝てなかった）のように結果がはっきりした文のあとでは、その人がその結果を受け入れてどうしたかが続くことが多いので、それが空所の手がかりになります。
