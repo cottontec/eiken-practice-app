@@ -1,0 +1,33 @@
+---
+choices: The large number of new groups being established made it difficult for individual architects to be successful by themselves. | Some architects felt that people who used the buildings they designed often did not care about the person who designed them. | The way in which a majority of buildings were designed at the time only considered the needs of a single group of people. | Many women who worked as architects believed that feminist architecture needed to have a stronger identity.
+answerText: The way in which a majority of buildings were designed at the time only considered the needs of a single group of people.
+---
+【正解】3 The way in which a majority of buildings were designed at the time only considered the needs of a single group of people.（当時、建物の大部分の設計のされ方は、1つの集団の人々のニーズしか考えていなかった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What led to the formation of Matrix?（何がきっかけでマトリックスは結成されましたか。）
+1 The large number of new groups being established made it difficult for individual architects to be successful by themselves.（新しいグループがたくさん作られていたことで、建築家が一人で成功するのが難しくなっていた。）
+2 Some architects felt that people who used the buildings they designed often did not care about the person who designed them.（一部の建築家は、自分たちが設計した建物を使う人々が、それを設計した人のことを気にかけないことが多いと感じていた。）
+3 The way in which a majority of buildings were designed at the time only considered the needs of a single group of people.（当時、建物の大部分の設計のされ方は、1つの集団の人々のニーズしか考えていなかった。）
+4 Many women who worked as architects believed that feminist architecture needed to have a stronger identity.（建築家として働く多くの女性が、フェミニスト建築はより強い独自性を持つ必要があると考えていた。）
+【考え方】
+まず見るところ：第1段落の frustrated with the ways that the male-dominated architectural field had often failed to take women’s needs into account
+第1段落で、マトリックスとなるグループが本を書いたいきさつが述べられています。
+However, in the 1980s, a group of British women architects, frustrated with the ways that the male-dominated architectural field had often failed to take women’s needs into account, wrote a book describing the goals of their “feminist architecture.”（しかし1980年代、男性中心の建築の分野が女性のニーズを考えに入れないことが多かったやり方に不満を持ったイギリスの女性建築家のグループが、自分たちの「フェミニスト建築」の目標を説明する本を書いた）
+frustrated with ～ は「～に不満を持って」、take ～ into account は「～を考えに入れる」、fail to ～ は「～しない、～できない」です。フェミニスト建築とは、女性の立場やニーズを大切にする建築のことです。
+第2段落では、マトリックスが変えようとした考え方が説明されています。
+The most common architectural design philosophy that Matrix sought to change was concerned with men’s comfort.（マトリックスが変えようとした、最も一般的な建築設計の考え方は、男性の快適さを重視するものだった）
+本文と選択肢を対にすると、次のようになります。
+本文 The most common architectural design philosophy（最も一般的な建築設計の考え方）→ 選択肢 The way in which a majority of buildings were designed（建物の大部分の設計のされ方）
+本文 was concerned with men’s comfort / had often failed to take women’s needs into account（男性の快適さを重視し、女性のニーズを考えに入れないことが多かった）→ 選択肢 only considered the needs of a single group of people（1つの集団の人々のニーズしか考えていなかった）
+選択肢の a single group of people（1つの集団の人々）は、ここでは男性のことを指していると読み取れます。ですから3が正解です。
+この問題の型：言いかえ（men’s comfort → the needs of a single group of people）
+【ほかの選択肢】
+1 本文に書かれていません。新しいグループがたくさん作られていたことや、建築家が一人では成功しにくかったことは、本文に出てきません。
+2 本文に書かれていません。第1段落の最初に not everyone considers the gender of the architect（誰もが建築家の性別について考えるわけではない）とありますが、これは話題の導入です。マトリックスができたきっかけとして述べられているのは、女性のニーズが考えに入れられていなかったことへの不満です。
+4 本文に書かれていません。「フェミニスト建築」という言葉は第1段落に出てきますが、その独自性をより強くする必要があったという話はありません。
+【覚えるポイント】
+・take ～ into account：「～を考えに入れる」。fail to take ～ into account で「～を考えに入れない」。
+・「何がきっかけで～したか」という設問では、frustrated with（～に不満を持って）のような気持ちを表す語のあとに、理由が書かれていることが多いです。

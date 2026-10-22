@@ -1,0 +1,33 @@
+---
+choices: The fact that it was created in France meant that architects had trouble adjusting it to fit the cultural needs of people in other countries. | Architects who implemented the system’s design elements were often criticized for not following the default size for men. | A rapid change in the average height of men and women in postwar Britain meant that buildings designed under the system quickly became difficult to use. | Many of the spaces in buildings designed based on its principles were beneficial in some ways but problematic in other ways.
+answerText: Many of the spaces in buildings designed based on its principles were beneficial in some ways but problematic in other ways.
+---
+【正解】4 Many of the spaces in buildings designed based on its principles were beneficial in some ways but problematic in other ways.（その原則にもとづいて設計された建物の空間の多くは、よい点がある一方で、問題のある点もあった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What do we learn about Le Modulor?（ル・モデュロールについて何が分かりますか。）
+1 The fact that it was created in France meant that architects had trouble adjusting it to fit the cultural needs of people in other countries.（それがフランスで作られたために、建築家たちは、ほかの国の人々の文化的なニーズに合うようにそれを調整するのに苦労した。）
+2 Architects who implemented the system’s design elements were often criticized for not following the default size for men.（この体系の設計の要素を取り入れた建築家たちは、男性の標準の大きさに従っていないとよく批判された。）
+3 A rapid change in the average height of men and women in postwar Britain meant that buildings designed under the system quickly became difficult to use.（戦後のイギリスで男性と女性の平均身長が急に変わったために、この体系で設計された建物はすぐに使いにくくなった。）
+4 Many of the spaces in buildings designed based on its principles were beneficial in some ways but problematic in other ways.（その原則にもとづいて設計された建物の空間の多くは、よい点がある一方で、問題のある点もあった。）
+【考え方】
+まず見るところ：第2段落の While many of these elements, like tall doorways, did not negatively impact average British women と other elements, such as the tall height of stair steps
+第2段落では、ル・モデュロールの体系が説明されています。
+Following this system’s principles, architectural design elements were arranged based on the default height of the so-called ideal man: just under two meters.（この体系の原則に従って、建築設計の要素は、いわゆる理想的な男性の標準の身長、つまり2メートル弱をもとに配置された）
+so-called は「いわゆる」、default は「標準の、もとになる」です。ル・モデュロールは、背の高い男性を基準に建物を設計する体系だったことが分かります。
+While many of these elements, like tall doorways, did not negatively impact average British women—who were slightly more than one and a half meters tall on average in the 1940s—other elements, such as the tall height of stair steps, made buildings harder for them to navigate.（高い出入り口のように、こうした要素の多くは、平均的なイギリスの女性（1940年代には平均で1.5メートルを少し超える身長だった）に悪い影響を与えなかったが、階段の段の高さのような、ほかの要素は、女性たちにとって建物をより動き回りにくくした）
+While A, B は「Aである一方でB」です。高い出入り口は困らないけれど、高い段の階段は困る、というように、困らない面と困る面の両方があったと分かります。
+本文と選択肢を対にすると、次のようになります。
+本文 did not negatively impact（悪い影響を与えなかった）→ 選択肢 beneficial in some ways（いくつかの点ではよかった）
+本文 made buildings harder for them to navigate（女性たちにとって建物をより動き回りにくくした）→ 選択肢 problematic in other ways（ほかの点では問題があった）
+「悪い影響がなかった」は「よかった」と全く同じ意味ではありません。それでも、問題のない点と問題のある点の両方があったという内容が、選択肢の in some ways ～ but ... in other ways（いくつかの点では～だが、ほかの点では…）に当たるので、4が正解です。
+この問題の型：対比（悪い影響がない要素⇔動き回りにくくする要素）
+【ほかの選択肢】
+1 本文に書かれていません。ル・モデュロールがフランスで作られたことは書かれていますが、ほかの国の文化に合わせる調整に苦労したという話は出てきません。本文で問題になっているのは、文化ではなく身長の違いです。
+2 本文に書かれていません。この体系は男性の標準の身長をもとにしていたと書かれているだけで、男性の標準の大きさに従わない建築家が批判されたという話は出てきません。
+3 本文に書かれていません。本文には1940年代の女性の平均身長は出てきますが、戦後のイギリスで平均身長が急に変わったという話はありません。建物が使いにくかったのは、2メートル弱の男性を基準にした設計だったためです。
+【覚えるポイント】
+・While A, B：「Aである一方でB」。
+・While の文は、前半と後半で反対の内容を並べていることが多いので、選択肢の in some ways ～ but ... in other ways のような「両面」を表す言い方と結びつける手がかりになります。

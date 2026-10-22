@@ -1,0 +1,33 @@
+---
+choices: Given the physical demands of space travel, it was understandable that men rather than women were being sent into space. | The missions were considered too important to rely on the calculations of human computers. | The astronauts at the time felt the media should have given women working on the missions more credit. | The missions could only be effectively completed thanks to the precision of the calculations made by human computers.
+answerText: The missions could only be effectively completed thanks to the precision of the calculations made by human computers.
+---
+【正解】4 The missions could only be effectively completed thanks to the precision of the calculations made by human computers.（宇宙計画は、人間コンピューターが行った計算の正確さのおかげで、はじめてうまく成しとげることができた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What does the author of the passage say about US space missions in the 1950s and '60s?（筆者は、1950年代と60年代のアメリカの宇宙計画について何と言っていますか。）
+1 Given the physical demands of space travel, it was understandable that men rather than women were being sent into space.（宇宙旅行が体に大きな負担をかけることを考えると、女性ではなく男性が宇宙へ送られていたのは理解できることだった。）
+2 The missions were considered too important to rely on the calculations of human computers.（宇宙計画はあまりにも重要なので、人間コンピューターの計算に頼ることはできないと考えられていた。）
+3 The astronauts at the time felt the media should have given women working on the missions more credit.（当時の宇宙飛行士たちは、メディアが宇宙計画にたずさわる女性たちをもっと評価すべきだったと感じていた。）
+4 The missions could only be effectively completed thanks to the precision of the calculations made by human computers.（宇宙計画は、人間コンピューターが行った計算の正確さのおかげで、はじめてうまく成しとげることができた。）
+【考え方】
+まず見るところ：第1段落の最後の Without them, it would have been impossible to launch spacecraft, and any inaccuracies could have had life-threatening consequences for the astronauts.
+第1段落では、宇宙飛行士の陰で、人間コンピューターと呼ばれた女性たちが複雑な計算を行っていたことが紹介されています。まず、次の文があります。
+Behind the scenes, however, others played a crucial role in making US space missions, including the moon landing, successful.（しかし、その裏で、月面着陸をはじめとするアメリカの宇宙計画を成功させるうえで、ほかの人々が非常に重要な役割を果たしていた）
+crucial は「非常に重要な、決定的な」です。そして段落の最後に、次のようにあります。
+Without them, it would have been impossible to launch spacecraft, and any inaccuracies could have had life-threatening consequences for the astronauts.（彼女たちがいなければ、宇宙船を打ち上げることは不可能だっただろうし、どんな不正確さも、宇宙飛行士の命をおびやかす結果をもたらしかねなかった）
+Without ～, it would have been ... は「～がいなかったら、…だっただろう」と、実際とは違う場合を考える言い方です。inaccuracy は「不正確さ」です。人間コンピューターがいなければ打ち上げはできず、計算が少しでも不正確なら命にかかわった、ということは、彼女たちの正確な計算があってこそ宇宙計画が成功した、と読み取れます。
+本文と選択肢を対にすると、次のようになります。
+本文 Without them, it would have been impossible to launch spacecraft（彼女たちがいなければ打ち上げは不可能だっただろう）→ 選択肢 could only be effectively completed thanks to ～（～のおかげで、はじめてうまく成しとげることができた）
+本文 any inaccuracies could have had life-threatening consequences（どんな不正確さも命にかかわる結果になりかねなかった）→ 選択肢 the precision of the calculations（計算の正確さ）
+ですから4が正解です。
+この問題の型：言いかえ（Without them, it would have been impossible → could only be completed thanks to）
+【ほかの選択肢】
+1 本文には、宇宙旅行の体への負担を考えて男性が宇宙へ送られたのは理解できる、という話はありません。第1段落の physically demanding（体に大きな負担がかかる）は、人間コンピューターの計算の仕事について述べた言葉で、宇宙旅行についての言葉ではありません。
+2 本文とは反対です。第1段落には、人間コンピューターがいなければ宇宙船の打ち上げは不可能だったとあり、宇宙計画は彼女たちの計算に頼っていました。また第4段落では、宇宙飛行士のジョン・グレンが、コンピューターの計算を人間コンピューターのキャサリン・ジョンソンに確かめてもらうよう頼んでいます。
+3 本文には、当時の宇宙飛行士がメディアの報道についてどう感じていたかは書かれていません。第1段落にあるのは、メディアの報道もあって宇宙飛行士が有名になった、ということだけです。
+【覚えるポイント】
+・Without ～, it would have been impossible to ...：「～がなかったら、…することは不可能だっただろう」。つまり「～があったからこそ…できた」という意味になります。
+・設問が筆者の考えをたずねているときは、段落の最後で筆者がまとめている文（ここでは Without them, ～）が、答えの手がかりになることが多いです。

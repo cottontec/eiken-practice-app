@@ -1,0 +1,35 @@
+---
+choices: the focus of the Cold War began to turn away from conducting space-related missions. | it made efforts to address some of the inequities that certain human computers had experienced. | female supervisors were awarded additional compensation to make up for their historically low wages. | it realized that winning the space race would only be possible if it recruited some of the Soviet Union's human computers.
+answerText: it made efforts to address some of the inequities that certain human computers had experienced.
+---
+【正解】2 it made efforts to address some of the inequities that certain human computers had experienced.（NASAは、一部の人間コンピューターが受けてきた不公平のいくつかに取り組もうと努力した。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：The author of the passage points out that after NASA was established,（筆者が指摘しているのは、NASAが設立されたあと、）
+1 the focus of the Cold War began to turn away from conducting space-related missions.（冷戦の焦点が、宇宙に関係する計画を行うことからそれ始めたということだ。）
+2 it made efforts to address some of the inequities that certain human computers had experienced.（NASAは、一部の人間コンピューターが受けてきた不公平のいくつかに取り組もうと努力したということだ。）
+3 female supervisors were awarded additional compensation to make up for their historically low wages.（監督する立場の女性たちが、それまで長く低かった賃金の埋め合わせとして、追加の報酬をあたえられたということだ。）
+4 it realized that winning the space race would only be possible if it recruited some of the Soviet Union's human computers.（NASAは、ソビエト連邦の人間コンピューターの一部を雇い入れなければ、宇宙開発競争に勝つことはできないと気づいたということだ。）
+【考え方】
+まず見るところ：第3段落の最後の When NASA was established in 1958, it abolished that policy and also improved other conditions for women.
+第3段落の後半では、NACAで働く女性たちが受けていた差別が書かれています。
+Nevertheless, women were not treated as equals.（それでも、女性は対等には扱われていなかった）
+African American women faced an additional layer of discrimination as they were forced to conduct much of their work in segregated facilities.（アフリカ系アメリカ人の女性は、仕事の多くを人種によって分けられた施設で行うよう強いられていたので、さらにもう一つの差別に直面していた）
+segregated は「（人種によって）分けられた」、discrimination は「差別」です。
+段落の最後は、次のとおりです。
+When NASA was established in 1958, it abolished that policy and also improved other conditions for women.（1958年にNASAが設立されると、NASAはその方針を廃止し、女性のためのほかの条件も改善した）
+abolish は「廃止する（やめる）」です。that policy（その方針）は、アフリカ系アメリカ人の女性を分けられた施設で働かせる方針を指します。NASAは、人間コンピューターとして働く女性たちが受けていた不公平な扱いを、改めようとしたのです。
+本文と選択肢を対にすると、次のようになります。
+本文 abolished that policy and also improved other conditions for women（その方針を廃止し、女性のためのほかの条件も改善した）→ 選択肢 made efforts to address some of the inequities（不公平のいくつかに取り組もうと努力した）
+本文 African American women ／ women（アフリカ系アメリカ人の女性／女性）→ 選択肢 certain human computers（一部の人間コンピューター）
+address は「（問題に）取り組む」、inequity は「不公平」です。ですから2が正解です。
+この問題の型：言いかえ（abolished that policy and improved other conditions → made efforts to address some of the inequities）
+【ほかの選択肢】
+1 本文には、NASAの設立後に冷戦の焦点が宇宙からそれていったという話はありません。第3段落にあるのは、冷戦の緊張が高まって、アメリカが宇宙により多くの注意を向けるようになったということです。
+3 本文には、監督する立場の女性に追加の報酬があたえられたという話はありません。第3段落によると、NACAでは女性の給料は比較的高かったとされていて、「それまで長く低かった賃金」の埋め合わせという話も出てきません。
+4 本文には、NASAがソビエト連邦の人間コンピューターを雇おうとしたという話はありません。ソビエト連邦は、第3段落で冷戦の相手として出てくるだけです。
+【覚えるポイント】
+・abolish：「（制度や方針を）廃止する」。address は「（問題に）取り組む」、inequity は「不公平」。
+・設問に after NASA was established のような時期が書かれているときは、本文で同じ時期を表す語句（ここでは When NASA was established in 1958）を探し、そのあとに書かれた内容と選択肢を比べることが手がかりになります。
