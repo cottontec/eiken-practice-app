@@ -1,6 +1,7 @@
 ---
 choices: diversion | maneuver | urgency | contempt
 answerText: urgency
+reviewed: yes
 ---
 【正解】3 urgency（緊急（急いで対応しなければならないこと））
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: distress | referral | detention | prominence
 answerText: prominence
+reviewed: yes
 ---
 【正解】4 prominence（有名であること、目立つ地位）
 【和訳】

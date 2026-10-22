@@ -1,6 +1,7 @@
 ---
 choices: dwellings | refuges | prospects | ornaments
 answerText: ornaments
+reviewed: yes
 ---
 【正解】4 ornaments（飾り、装飾品）
 【和訳】

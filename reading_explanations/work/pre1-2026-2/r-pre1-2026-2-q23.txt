@@ -1,6 +1,7 @@
 ---
 choices: should be found in a range of food sources | must trigger a physical response in the body | should be easy for people to describe | must last for a certain amount of time
 answerText: must trigger a physical response in the body
+reviewed: yes
 ---
 【正解】2 must trigger a physical response in the body（体の中で身体的な反応を引き起こさなければならない）
 【和訳】

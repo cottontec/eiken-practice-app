@@ -1,6 +1,7 @@
 ---
 choices: inheritance | excerpt | odor | agenda
 answerText: excerpt
+reviewed: yes
 ---
 【正解】2 excerpt（抜粋（文章の一部を抜き出したもの））
 【和訳】

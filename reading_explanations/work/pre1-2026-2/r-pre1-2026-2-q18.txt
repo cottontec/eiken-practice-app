@@ -1,6 +1,7 @@
 ---
 choices: set about | took after | brought down | called on
 answerText: set about
+reviewed: yes
 ---
 【正解】1 set about（～に取りかかった）
 【和訳】

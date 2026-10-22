@@ -1,6 +1,7 @@
 ---
 choices: They took as many precautions as they felt necessary to ensure that there could not be a repetition of the event that had occurred on Elba. | They should have considered relocating him to Ascension, as that island had more secure facilities than those on Saint Helena. | They would have preferred to hold him on the island of Elba because its proximity to Europe made it easier to keep British troops there. | They felt that he should have been kept in a regular prison, but there were no suitable facilities available on Saint Helena at that time.
 answerText: They took as many precautions as they felt necessary to ensure that there could not be a repetition of the event that had occurred on Elba.
+reviewed: yes
 ---
 【正解】1 They took as many precautions as they felt necessary to ensure that there could not be a repetition of the event that had occurred on Elba.（イギリスは、エルバ島で起きた出来事がくり返されることのないよう、必要だと感じた限りの用心をした。）
 【和訳】

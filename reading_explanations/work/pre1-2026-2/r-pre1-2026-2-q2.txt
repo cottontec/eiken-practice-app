@@ -1,6 +1,7 @@
 ---
 choices: dizzy | keen | fussy | bare
 answerText: bare
+reviewed: yes
 ---
 【正解】4 bare（（木が）葉の落ちた、むき出しの）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: phase out | swear by | rub in | run up
 answerText: run up
+reviewed: yes
 ---
 【正解】4 run up（（借金や請求額を）ためる、かさませる）
 【和訳】

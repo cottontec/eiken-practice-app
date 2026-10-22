@@ -1,6 +1,7 @@
 ---
 choices: was the only viable option | might have limitations | could only be understood by scientists | mainly benefited large businesses
 answerText: might have limitations
+reviewed: yes
 ---
 【正解】2 might have limitations（限界があるかもしれない）
 【和訳】

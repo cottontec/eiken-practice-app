@@ -1,6 +1,7 @@
 ---
 choices: it would be better for local environmental initiatives to focus on removing invasive species that have caused damage rather than spending money on replanting efforts. | efforts by Saint Helena islanders to restore forests damaged by centuries of exploitation could contribute to improvements in the island's natural environment. | the interior highlands have likely been able to avoid the environmental damage that other areas have suffered from due to their inaccessibility. | the local community should consider introducing animal species from other South Atlantic islands that are similar to those that have become extinct on Saint Helena.
 answerText: efforts by Saint Helena islanders to restore forests damaged by centuries of exploitation could contribute to improvements in the island's natural environment.
+reviewed: yes
 ---
 【正解】2 efforts by Saint Helena islanders to restore forests damaged by centuries of exploitation could contribute to improvements in the island's natural environment.（何世紀にもわたる乱用で損なわれた森を元に戻そうとするセントヘレナ島の人々の取り組みが、島の自然環境をよくすることにつながる可能性がある。）
 【和訳】

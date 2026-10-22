@@ -1,6 +1,7 @@
 ---
 choices: loiter | scratch | mourn | applaud
 answerText: loiter
+reviewed: yes
 ---
 【正解】1 loiter（（用もなく）ぶらぶらする、うろつく）
 【和訳】

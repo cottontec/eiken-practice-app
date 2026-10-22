@@ -1,6 +1,7 @@
 ---
 choices: soothing | punctual | clumsy | idealistic
 answerText: idealistic
+reviewed: yes
 ---
 【正解】4 idealistic（理想主義的な（理想ばかりを追い求める））
 【和訳】

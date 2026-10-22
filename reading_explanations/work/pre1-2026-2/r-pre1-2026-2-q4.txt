@@ -1,6 +1,7 @@
 ---
 choices: confine | inhibit | familiarize | seize
 answerText: familiarize
+reviewed: yes
 ---
 【正解】3 familiarize（（familiarize oneself with ～ で）～に慣れ親しむ、～をよく知るようにする）
 【和訳】

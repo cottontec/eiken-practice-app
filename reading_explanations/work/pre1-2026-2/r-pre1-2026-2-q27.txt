@@ -1,6 +1,7 @@
 ---
 choices: They are much more effective for reducing unemployment rates when a recession is not as serious. | Evidence suggests that they tend to encourage recipients to relocate to areas where more jobs are available. | They tend to free up resources for other types of government programs that promote economic recovery. | Because SNAP benefits have the effect of stimulating local economies, enforcing work requirements can make it harder to recover from recessions.
 answerText: Because SNAP benefits have the effect of stimulating local economies, enforcing work requirements can make it harder to recover from recessions.
+reviewed: yes
 ---
 【正解】4 Because SNAP benefits have the effect of stimulating local economies, enforcing work requirements can make it harder to recover from recessions.（SNAPの給付には地域の経済を活発にする効果があるので、就労要件を実施すると、景気後退から立ち直るのが難しくなることがある。）
 【和訳】

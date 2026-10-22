@@ -1,6 +1,7 @@
 ---
 choices: the changes seem to have had much more effect on people with dependents than on those who did not have them. | people who were removed from SNAP frequently returned to the program later with stronger motivation to remain employed. | although the changes were intended to encourage people to find jobs, they were mostly unsuccessful in doing so. | providing benefits through electronic cards rather than cash payments significantly increased recipients' willingness to search for stable employment.
 answerText: although the changes were intended to encourage people to find jobs, they were mostly unsuccessful in doing so.
+reviewed: yes
 ---
 【正解】3 although the changes were intended to encourage people to find jobs, they were mostly unsuccessful in doing so.（その変化は人々に仕事を見つけるよう促すことを目的としていたが、そうすることにはほとんど成功しなかった。）
 【和訳】

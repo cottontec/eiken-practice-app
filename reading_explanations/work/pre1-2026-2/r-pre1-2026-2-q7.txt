@@ -1,6 +1,7 @@
 ---
 choices: rugged | clerical | majestic | apt
 answerText: clerical
+reviewed: yes
 ---
 【正解】2 clerical（事務の）
 【和訳】

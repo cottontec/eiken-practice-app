@@ -1,6 +1,7 @@
 ---
 choices: hammer out | jump in | weed out | step aside
 answerText: hammer out
+reviewed: yes
 ---
 【正解】1 hammer out（（話し合いを重ねて）苦労してまとめる）
 【和訳】

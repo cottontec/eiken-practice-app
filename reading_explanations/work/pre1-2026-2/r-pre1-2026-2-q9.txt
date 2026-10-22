@@ -1,6 +1,7 @@
 ---
 choices: preoccupied | trespassed | grated | endorsed
 answerText: preoccupied
+reviewed: yes
 ---
 【正解】1 preoccupied（（be preoccupied with ～ で）～で頭がいっぱいの）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: Although there was evidence that vessels of other European nations had already visited, the Portuguese claimed the island for Portugal. | The Portuguese realized that they could profit from the island's wealth of natural resources by charging Dutch and other nations' vessels to restock there. | The East India Company quickly took control of the island before it was found by anyone else, allowing it to exploit the natural resources there. | The Portuguese were able to take advantage of the island's natural resources for decades because other nations were not aware of its existence.
 answerText: The Portuguese were able to take advantage of the island's natural resources for decades because other nations were not aware of its existence.
+reviewed: yes
 ---
 【正解】4 The Portuguese were able to take advantage of the island's natural resources for decades because other nations were not aware of its existence.（ほかの国々がこの島の存在を知らなかったので、ポルトガル人は何十年もの間、島の天然資源を利用することができた。）
 【和訳】

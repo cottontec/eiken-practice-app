@@ -1,6 +1,7 @@
 ---
 choices: governments wanted their money back | problems could not be fixed | new bugs were found | people saw it differently
 answerText: people saw it differently
+reviewed: yes
 ---
 【正解】4 people saw it differently（人々はそれを違ったふうに見ていた）
 【和訳】

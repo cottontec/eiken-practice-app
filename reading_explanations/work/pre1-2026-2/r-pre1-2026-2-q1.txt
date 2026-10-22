@@ -1,6 +1,7 @@
 ---
 choices: restrain | recharge | resume | reflect
 answerText: restrain
+reviewed: yes
 ---
 【正解】1 restrain（（力で）取り押さえる、抑えつける）
 【和訳】

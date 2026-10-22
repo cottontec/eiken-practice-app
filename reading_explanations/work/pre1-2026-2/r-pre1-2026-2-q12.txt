@@ -1,6 +1,7 @@
 ---
 choices: peculiar | conceited | fragrant | transparent
 answerText: peculiar
+reviewed: yes
 ---
 【正解】1 peculiar（変わった、奇妙な）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: held against | kept from | grown into | sailed through
 answerText: held against
+reviewed: yes
 ---
 【正解】1 held against（（be held against ～ で）～に不利な材料にされる、～が悪く思われる理由にされる）
 【和訳】

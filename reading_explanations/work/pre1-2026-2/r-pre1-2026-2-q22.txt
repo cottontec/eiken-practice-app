@@ -1,6 +1,7 @@
 ---
 choices: In exchange | Consequently | Nevertheless | In short
 answerText: Nevertheless
+reviewed: yes
 ---
 【正解】3 Nevertheless（それにもかかわらず）
 【和訳】

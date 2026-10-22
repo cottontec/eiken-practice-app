@@ -1,6 +1,7 @@
 ---
 choices: dignity | controversy | monarchy | itinerary
 answerText: itinerary
+reviewed: yes
 ---
 【正解】4 itinerary（旅程（旅行の道順や予定））
 【和訳】

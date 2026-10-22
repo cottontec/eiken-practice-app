@@ -1,6 +1,7 @@
 ---
 choices: column | succession | inaction | inspection
 answerText: inspection
+reviewed: yes
 ---
 【正解】4 inspection（検査、立ち入り調査）
 【和訳】

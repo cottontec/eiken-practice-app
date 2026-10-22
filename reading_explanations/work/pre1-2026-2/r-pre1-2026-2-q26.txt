@@ -1,6 +1,7 @@
 ---
 choices: Rules often disqualify individuals who face barriers to employment that are real but may not be covered by official policies. | They allow people with irregular job schedules to receive payments as long as they work fewer hours than a full-time job. | The longer a person has been receiving SNAP benefits, the more likely they are to be affected by the changes. | People who are classified as able-bodied typically lose the opportunity to do part-time work.
 answerText: Rules often disqualify individuals who face barriers to employment that are real but may not be covered by official policies.
+reviewed: yes
 ---
 【正解】1 Rules often disqualify individuals who face barriers to employment that are real but may not be covered by official policies.（規則によって、現実にあるのに公式の政策では考えに入れられていないかもしれない、働くうえでの障害を抱えた人々が、資格を失うことがよくある。）
 【和訳】

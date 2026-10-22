@@ -1,6 +1,7 @@
 ---
 choices: could lose their significance in the future | remain constant throughout a person's lifetime | often have cultural and historical significance | influence eating behavior and health
 answerText: influence eating behavior and health
+reviewed: yes
 ---
 【正解】4 influence eating behavior and health（食べる行動や健康に影響を与える）
 【和訳】

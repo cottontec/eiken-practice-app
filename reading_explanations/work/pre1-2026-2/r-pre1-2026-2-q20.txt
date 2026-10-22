@@ -1,6 +1,7 @@
 ---
 choices: Furthermore | However | In any case | On the contrary
 answerText: Furthermore
+reviewed: yes
 ---
 【正解】1 Furthermore（さらに、そのうえ）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: Its use declined around 1807 because the British navy no longer needed it to patrol the South Atlantic in its fight against the slave trade. | A technological development in the shipping industry contributed to the decline of its utility as a resupply port for trade ships. | Even after 1807, some ships carrying slaves demanded the use of Saint Helena's port facilities before continuing their journeys across the South Atlantic. | Many nations continued to use it even after the Suez Canal opened because they had established facilities there that enabled them to resupply quickly.
 answerText: A technological development in the shipping industry contributed to the decline of its utility as a resupply port for trade ships.
+reviewed: yes
 ---
 【正解】2 A technological development in the shipping industry contributed to the decline of its utility as a resupply port for trade ships.（海運業での技術の発達が、貿易船の補給港としての役立ち方が衰えることの一因となった。）
 【和訳】
