@@ -1,0 +1,30 @@
+---
+choices: discard | formulate | displace | illuminate
+answerText: formulate
+---
+【正解】2 formulate（〔計画・考えなどを〕練り上げる、まとめる）
+【和訳】
+（英文）
+Dr. Stamitts encourages her patients to ［formulate］ long-term goals for weight loss. She wants them to make a plan they can follow throughout their lives.
+（訳）
+スタミッツ医師は、患者たちに、減量のための長期的な目標を（立てる）ようにすすめている。彼女は、患者たちが一生を通じて続けられる計画を作ってほしいと思っている。
+（選択肢の意味）
+1 discard：捨てる
+2 formulate：（計画・考えなどを）練り上げる、まとめる
+3 displace：（ある場所から）移動させる、取って代わる
+4 illuminate：照らす、明らかにする
+【考え方】
+まず見るところ：後ろの文の She wants them to make a plan
+空所のある文は、スタミッツ医師が患者たちに、減量のための長期的な目標を（　）するようすすめている、と言っています。encourage A to do は「Aに～するようすすめる」という意味です。
+後ろの文を見ます。
+She wants them to make a plan they can follow throughout their lives.（彼女は、患者たちが一生を通じて続けられる計画を作ってほしいと思っている）
+医師が望んでいるのは、患者が計画を作ることです。ですから、空所の文でも「目標を立てる、練り上げる」ことをすすめていると考えられます。
+formulate は「（計画・考えなどを）練り上げる、まとめる」という意味なので、2が正解です。
+この問題の型：言いかえ（formulate long-term goals→make a plan）／語の意味・組み合わせ（formulate goals）
+【ほかの選択肢】
+1 discard は「捨てる」です。「長期的な目標を捨てるようにすすめる」となり、一生続けられる計画を作ってほしいという後ろの文と反対の向きになります。
+3 displace は「移動させる、取って代わる」です。「目標を移動させる」となり、計画を作るという後ろの文と結びつきません。
+4 illuminate は「照らす、明らかにする」です。明かりで照らすことや、分かりにくいことを説明して明らかにすることを表す語で、「計画を作る」という言いかえにはなりません。
+【覚えるポイント】
+・formulate：「（計画・考えなどを）練り上げる、まとめる」。formulate goals（目標を立てる）、formulate a plan（計画を練る）のように使います。
+・後ろの文が She wants them to ～ のように医師の願いを説明しているときは、その中の動詞（ここでは make a plan）が空所の語を言いかえていることが多いので、両方を結びつけて考えると手がかりになります。
