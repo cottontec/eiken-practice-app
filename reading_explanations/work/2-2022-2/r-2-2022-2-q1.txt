@@ -1,6 +1,7 @@
 ---
 choices: remarkably | nervously | suddenly | carefully
 answerText: remarkably
+reviewed: yes
 ---
 【正解】1 remarkably（驚くほど、目立って）
 【和訳】

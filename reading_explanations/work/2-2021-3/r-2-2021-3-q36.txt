@@ -8,12 +8,13 @@ reviewed: yes
 ＜本文の全訳＞
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
-設問：ヨーロッパの人々は、なぜヨーロッパでパイナップルを育てる方法を探したのですか。
+設問：Why did Europeans look for ways to grow pineapples in Europe?（ヨーロッパの人々は、なぜヨーロッパでパイナップルを育てる方法を探したのですか。）
 1 In order to become as rich as the people who grew pineapples in South America.（南アメリカでパイナップルを育てていた人々と同じくらい裕福になるため。）
 2 In order to stop pirates from attacking their ships and taking their valuable fruit.（海賊が自分たちの船をおそって、貴重な果物をうばうのを防ぐため。）
 3 Because many pineapples were no longer fresh when they arrived in Europe.（多くのパイナップルが、ヨーロッパに着いたときにはもう新鮮ではなかったから。）
 4 Because huge amounts of fuel were needed to ship pineapples from South America.（南アメリカからパイナップルを船で運ぶのに、大量の燃料が必要だったから。）
 【考え方】
+まず見るところ：第3段落の最初の Unfortunately, the journey from South America to Europe at the time took over a month, so pineapples usually went bad before they reached their destination.
 設問の look for ways to grow pineapples in Europe（ヨーロッパでパイナップルを育てる方法を探す）と同じ内容が、第3段落にあります。
 Europeans tried to find ways to grow pineapples in Europe instead.（ヨーロッパの人々は、代わりにヨーロッパでパイナップルを育てる方法を見つけようとした）
 instead（代わりに）は、ここでは「南アメリカから運ぶ代わりに」ということです。その理由は、すぐ前の文に書かれています。
@@ -22,10 +23,12 @@ go bad は「（食べ物が）いたむ、くさる」、destination は「目�
 本文と選択肢を対にすると、次のようになります。
 本文 pineapples usually went bad before they reached their destination（パイナップルはたいてい、目的地に着く前にいたんでしまった）＝ 選択肢 many pineapples were no longer fresh when they arrived in Europe（多くのパイナップルが、ヨーロッパに着いたときにはもう新鮮ではなかった）
 no longer ～ は「もはや～ない」です。ですから3が正解です。
+この問題の型：因果（1か月以上かかる→いたむ→ヨーロッパで育てようとした）、指示語（instead が指す「運ぶこと」）
 【ほかの選択肢】
 1 南アメリカでパイナップルを育てていた人々が裕福だったという話も、その人々と同じくらい裕福になりたかったという話も、本文にありません。本文にあるのは、ヨーロッパでパイナップルを育てることが、とても裕福な人々の趣味になったということです。
 2 海賊の話は本文にありません。
 4 本文の Huge amounts of fuel were needed（大量の燃料が必要だった）は、ヨーロッパに建てた温室を暖かく保つための燃料のことです。南アメリカから船で運ぶための燃料ではありません。また、燃料の話は、ヨーロッパで育て始めたあとのことで、育てる方法を探した理由ではありません。
 【覚えるポイント】
 ・go bad：「（食べ物が）いたむ、くさる」。
+・次に同じ形が出たら：Why ～?（なぜ）の設問では、設問の語句が出てくる文の「前」に、so ～（だから～）につながる理由が書かれていることがあります。instead や so などの語を手がかりに、前の文も読みます。
 ・no longer ～：「もはや～ない」。

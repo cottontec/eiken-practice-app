@@ -1,6 +1,7 @@
 ---
 choices: recognition | innocence | surgery | inquiry
 answerText: surgery
+reviewed: yes
 ---
 【正解】3 surgery（手術）
 【和訳】

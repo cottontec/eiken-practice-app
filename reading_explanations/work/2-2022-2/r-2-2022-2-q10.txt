@@ -1,6 +1,7 @@
 ---
 choices: committed | defended | eliminated | imported
 answerText: eliminated
+reviewed: yes
 ---
 【正解】3 eliminated（〔競技などで〕敗退させられた、取り除かれた）
 【和訳】

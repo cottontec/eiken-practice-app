@@ -1,6 +1,7 @@
 ---
 choices: send someone to help him put the TV back into its box. | solve the problem in time for him to watch a sports event. | tell him about tournaments sponsored by Television Depot. | give him instructions to allow him to fix the problem himself.
 answerText: solve the problem in time for him to watch a sports event.
+reviewed: yes
 ---
 【正解】2 solve the problem in time for him to watch a sports event.（彼があるスポーツの催しを見るのに間に合うように、問題を解決してくれる。）
 【和訳】

@@ -1,0 +1,32 @@
+---
+choices: testimony | convictions | maturity | implications
+answerText: implications
+---
+【正解】4 implications（〔起こりうる〕影響）
+【和訳】
+（英文）
+After dangerous chemicals were released from the factory into the town's water supply, authorities warned of health ［implications］ for local residents.
+（訳）
+危険な化学物質が工場から町の水道に流れ出たあと、当局は、地元の住民への健康上の（影響）について警告しました。
+（選択肢の意味）
+1 testimony：証言
+2 convictions：有罪判決；強い信念
+3 maturity：成熟（大人になること、十分に育つこと）
+4 implications：（起こりうる）影響、結果
+【考え方】
+まず見るところ：前半の dangerous chemicals were released と、空所の前の warned of health
+前半で、何が起こったかが分かります。
+After dangerous chemicals were released from the factory into the town's water supply（危険な化学物質が工場から町の水道に流れ出たあと）
+release は「放出する、出す」、water supply は「水道、水の供給」という意味です。
+後半は次のとおりです。
+authorities warned of health (　) for local residents（当局は、地元の住民にとっての健康上の（　）について警告した）
+authorities は「当局（役所など、決める権限を持つ機関）」、warn of ～ は「～について警告する」という意味です。危険な化学物質が水道に入ったのですから、当局が警告するのは「住民の健康にどんな悪いことが起こりうるか」です。
+implication は「（あることから起こりうる）影響、結果」という意味で、health implications で「健康への影響」となります。ですから4が正解です。
+この問題の型：因果（化学物質の流出→健康への影響を警告）
+【ほかの選択肢】
+1 testimony は「証言（裁判などで、見たことや知っていることを話すこと）」です。「健康上の証言について警告した」となり、意味が通りません。
+2 convictions は「有罪判決」や「強い信念」です。「健康上の有罪判決について警告した」となり、化学物質の流出の話とつながりません。
+3 maturity は「成熟（十分に育つこと）」です。「住民の健康上の成熟について警告した」では、危険な化学物質が流れ出たことと結びつきません。
+【覚えるポイント】
+・implication：「（起こりうる）影響、結果」。health implications で「健康への影響」。
+・warn of ～（～について警告する）の後ろには、起こるかもしれない悪いことが入ることが多く、前の文の出来事（ここでは化学物質の流出）から考えるのが手がかりになります。

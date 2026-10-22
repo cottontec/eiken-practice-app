@@ -13,15 +13,19 @@ reviewed: yes
 3 Like before（以前のように）
 4 By then（そのときまでには）
 【考え方】
-空所は第3段落の最後の (26), they will be able to find a substance that can help prevent traffic accidents but does not damage the environment. です。「（26）、彼らは、交通事故を防ぐのに役立ち、それでいて環境を傷つけない物質を見つけることができるだろう」という意味で、they は researchers（研究者たち）を指します。
+まず見るところ：空所の前の文 This is not an easy problem to solve, but researchers are continuing to try different ways to melt ice. と、空所のあとの will be able to find
+空所は第3段落の最後の (　), they will be able to find a substance that can help prevent traffic accidents but does not damage the environment. です。they は researchers（研究者たち）を指します。
 空所の前の文を見ます。
 This is not an easy problem to solve, but researchers are continuing to try different ways to melt ice.（これは簡単に解決できる問題ではないが、研究者たちは氷をとかすさまざまな方法を試し続けている）
-問題は簡単ではないけれど、研究者たちは努力を続けている、という内容です。そのあとで will be able to find（見つけることができるだろう）と、これから先の希望が述べられています。まだ見つかっていないので、確実ではありません。
-With luck（うまくいけば、運がよければ）は、「必ずとは言えないが、うまくいけば～だろう」と、望んでいることを言うときに使います。「簡単ではないが、研究者たちは試し続けている。うまくいけば、見つけられるだろう」となり、自然につながります。ですから2が正解です。
+問題は簡単ではないけれど、研究者たちは努力を続けている、という内容です。
+そのあとで will be able to find（見つけることができるだろう）と、これから先の希望が述べられています。まだ見つかっていないので、確実ではありません。
+With luck（うまくいけば、運がよければ）は、「必ずとは言えないが、うまくいけば～だろう」と望んでいることを言うときに使います。「簡単ではないが、試し続けている。うまくいけば、見つけられるだろう」となるので、2が正解です。
+この問題の型：推論（まだ見つかっていない→確実ではない希望）、対比（not an easy problem, but ～）
 【ほかの選択肢】
 1 In reality（実際には）は、「思われていることとちがって、現実には～だ」と事実を言うときに使います。あとの文は、これから先の希望を表す will be able to ～ なので、つながりが合いません。
 3 Like before（以前のように）では、「以前のように物質を見つけられるだろう」となります。しかし本文では、塩もビーツの汁も環境に害があり、以前にそのような物質が見つかったという話はありません。
 4 By then（そのときまでには）は、then（そのとき）が前に出てきた特定の時を指します。空所の前には、どの時のことかを表す言葉がないので、合いません。
 【覚えるポイント】
 ・With luck,：「うまくいけば、運がよければ」。これから先のことを望むときに使います。
+・次に同じ形が出たら：文末に will be able to ～ のような未来の希望があり、前の文でまだ解決していないことが書かれているときは、「うまくいけば」のような確実ではないことを表す語句を考えると手がかりになります。
 ・an easy problem to solve：「解決するのが簡単な問題」。to solve が problem を説明しています。

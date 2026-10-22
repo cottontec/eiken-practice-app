@@ -1,6 +1,7 @@
 ---
 choices: read through | refrain from | reflect on | refer to
 answerText: refrain from
+reviewed: yes
 ---
 【正解】2 refrain from（～を控える）
 【和訳】

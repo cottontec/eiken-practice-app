@@ -1,6 +1,7 @@
 ---
 choices: majority | similarity | quantity | flexibility
 answerText: flexibility
+reviewed: yes
 ---
 【正解】4 flexibility（柔軟性、融通がきくこと）
 【和訳】

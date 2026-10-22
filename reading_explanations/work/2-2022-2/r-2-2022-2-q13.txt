@@ -1,6 +1,7 @@
 ---
 choices: difference | point | fool | start
 answerText: fool
+reviewed: yes
 ---
 【正解】3 fool（ばか、愚か者）
 【和訳】

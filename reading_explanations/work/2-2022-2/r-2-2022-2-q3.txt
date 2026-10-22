@@ -1,6 +1,7 @@
 ---
 choices: patient | phrase | conflict | courage
 answerText: conflict
+reviewed: yes
 ---
 【正解】3 conflict（対立、争い）
 【和訳】

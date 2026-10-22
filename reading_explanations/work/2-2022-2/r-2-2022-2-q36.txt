@@ -1,25 +1,28 @@
 ---
 choices: produces fruit that the local people have enjoyed for a long time. | was discovered by the Tohono O'odham people about 200 years ago. | has roots that grow 15 meters below the ground to reach water. | is best to eat with a special sauce made from traditional wine.
 answerText: produces fruit that the local people have enjoyed for a long time.
+reviewed: yes
 ---
 【正解】1 produces fruit that the local people have enjoyed for a long time.（地元の人々が長い間楽しんできた実をつける。）
 【和訳】
 ＜本文の全訳＞
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
-設問：サワロサボテンは、（　）。
+設問：The saguaro cactus ～.（サワロサボテンは、～。）
 1 produces fruit that the local people have enjoyed for a long time.（地元の人々が長い間楽しんできた実をつける）
 2 was discovered by the Tohono O'odham people about 200 years ago.（約200年前にトホノ・オオダムの人々によって発見された）
 3 has roots that grow 15 meters below the ground to reach water.（水に届くように、地下15メートルまでのびる根を持っている）
 4 is best to eat with a special sauce made from traditional wine.（伝統的なワインから作られる特別なソースをつけて食べるのがいちばんだ）
 【考え方】
-サワロサボテンについては、第3段落に書かれています。
+まず見るところ：第3段落の This fruit—the saguaro fruit—has long been a favorite food of the Tohono O'odham people.
+設問は、サワロサボテンについて正しいことをたずねています。サワロサボテンの説明は、第3段落に書かれています。
 Once a year, around June, they produce red fruit. This fruit—the saguaro fruit—has long been a favorite food of the Tohono O'odham people.（年に1回、6月ごろに、サワロサボテンは赤い実をつける。この実、つまりサワロの実は、長い間ずっとトホノ・オオダムの人々の大好物だ）
 has long been ～ は「長い間ずっと～だ」という意味で、昔から今まで続いていることを表します。
 本文と選択肢を対にすると、次のようになります。
 本文 they produce red fruit（赤い実をつける）＝ 選択肢 produces fruit（実をつける）
 本文 has long been a favorite food of the Tohono O'odham people（長い間ずっとトホノ・オオダムの人々の大好物だ）＝ 選択肢 that the local people have enjoyed for a long time（地元の人々が長い間楽しんできた）
 the Tohono O'odham people（トホノ・オオダムの人々）が the local people（地元の人々）に、has long been a favorite food（長い間ずっと大好物だ）が have enjoyed for a long time（長い間楽しんできた）に言いかえられています。1が正解です。
+この問題の型：言いかえ（has long been a favorite food → have enjoyed for a long time）
 【ほかの選択肢】
 2 本文の200という数字は、Saguaro cactuses can live for over 200 years（サワロサボテンは200年以上生きることがある）という寿命の話です。200年前に発見されたという話ではありません。
 3 本文の15という数字は、grow more than 15 meters tall（高さ15メートルを超えるまで育つ）という高さの話です。根が地下15メートルまでのびるという話ではありません。
@@ -27,3 +30,4 @@ the Tohono O'odham people（トホノ・オオダムの人々）が the local pe
 【覚えるポイント】
 ・have long been ～：「長い間ずっと～である」。
 ・so that ～ can ...：「～が…できるように」。
+・選択肢に数字（200年、15メートルなど）が出てくるときは、本文の同じ数字が何を表しているか（寿命か、高さか）を確かめます。数字だけが同じでも、内容が違えば正解になりません。

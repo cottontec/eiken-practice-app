@@ -1,24 +1,31 @@
 ---
 choices: They used to protect the border between Mexico and the United States. | They lived in small communities and kept farms in a dry area. | They ate wild plants and animals instead of growing their own food. | They were forced to leave their homes and live in the Sonoran Desert.
 answerText: They lived in small communities and kept farms in a dry area.
+reviewed: yes
 ---
 【正解】2 They lived in small communities and kept farms in a dry area.（彼らは乾燥した地域で、小さな集落に住み、畑を営んでいた。）
 【和訳】
 ＜本文の全訳＞
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
-設問：北アメリカのトホノ・オオダムの人々について、正しいことは何ですか。
+設問：What is true about the Tohono O'odham people of North America?（北アメリカのトホノ・オオダムの人々について、正しいことは何ですか。）
 1 They used to protect the border between Mexico and the United States.（彼らはかつて、メキシコとアメリカ合衆国の間の国境を守っていた。）
 2 They lived in small communities and kept farms in a dry area.（彼らは乾燥した地域で、小さな集落に住み、畑を営んでいた。）
 3 They ate wild plants and animals instead of growing their own food.（彼らは自分たちで食べ物を育てる代わりに、野生の植物や動物を食べていた。）
 4 They were forced to leave their homes and live in the Sonoran Desert.（彼らは家を離れて、ソノラ砂漠で暮らすことを強いられた。）
 【考え方】
-第1段落を見ます。The Tohono O'odham people are Native Americans who come from the Sonoran Desert.（トホノ・オオダムの人々は、ソノラ砂漠の出身のアメリカ先住民だ）とあり、さらに Traditionally, the Tohono O'odham people lived in villages and grew crops such as beans, corn, and melons.（伝統的に、トホノ・オオダムの人々は村で暮らし、豆やトウモロコシ、メロンなどの作物を育てていた）と書かれています。また、第2段落の初めに the Sonoran Desert is hot and dry（ソノラ砂漠は暑くて乾燥している）とあります。
+まず見るところ：第1段落の Traditionally, the Tohono O'odham people lived in villages and grew crops such as beans, corn, and melons.
+設問は、トホノ・オオダムの人々について正しいことをたずねています。昔の暮らしは、第1段落に書かれています。
+The Tohono O'odham people are Native Americans who come from the Sonoran Desert.（トホノ・オオダムの人々は、ソノラ砂漠の出身のアメリカ先住民だ）
+Traditionally, the Tohono O'odham people lived in villages and grew crops such as beans, corn, and melons.（伝統的に、トホノ・オオダムの人々は村で暮らし、豆やトウモロコシ、メロンなどの作物を育てていた）
+また、第2段落の初めに、砂漠の様子が書かれています。
+Although the Sonoran Desert is hot and dry, it has over 2,000 different species of plants.（ソノラ砂漠は暑くて乾燥しているが、2,000種を超えるさまざまな植物がある）
 本文と選択肢を対にすると、次のようになります。
-本文 lived in villages（村で暮らした）＝ 選択肢 lived in small communities（小さな集落に住んだ）
-本文 grew crops（作物を育てた）＝ 選択肢 kept farms（畑を営んだ）
-本文 the Sonoran Desert is hot and dry（ソノラ砂漠は暑くて乾燥している）＝ 選択肢 a dry area（乾燥した地域）
+本文 lived in villages（村で暮らした）→ 選択肢 lived in small communities（小さな集落に住んだ）
+本文 grew crops（作物を育てた）→ 選択肢 kept farms（畑を営んだ）
+本文 the Sonoran Desert is hot and dry（ソノラ砂漠は暑くて乾燥している）→ 選択肢 a dry area（乾燥した地域）
 village（村）が small community（小さな集落、小さな共同体）に、grew crops（作物を育てた）が kept farms（畑を営んだ）に言いかえられています。2が正解です。
+この問題の型：言いかえ（villages → small communities、grew crops → kept farms）
 【ほかの選択肢】
 1 本文には The Sonoran Desert lies around the border between the United States and Mexico.（ソノラ砂漠はアメリカ合衆国とメキシコの国境のあたりに広がっている）とあります。これは砂漠の場所の説明で、彼らが国境を守っていたという話ではありません。
 3 本文には They also ate some of the wild plants and animals that are found in the desert.（彼らはまた、砂漠で見られる野生の植物や動物の一部も食べていた）とあります。also（また、～も）とあるように、作物を育てることに加えて野生のものも食べていたのです。「自分たちで育てる代わりに」という部分が本文と違います。
@@ -26,3 +33,4 @@ village（村）が small community（小さな集落、小さな共同体）に
 【覚えるポイント】
 ・come from ～：「～の出身である」。
 ・instead of ～ing：「～する代わりに」。
+・「正しいものを選ぶ」設問では、選択肢の言葉を本文の言葉に置きかえ、本文のどの部分と対応するかを1つずつ確かめます。instead of ～（～の代わりに）のような言葉が入る選択肢は、本文と程度が合っているかに注意します。

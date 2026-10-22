@@ -1,6 +1,7 @@
 ---
 choices: Its thin threads are over 20 times stronger than those of silk. | It stopped Bangladesh from becoming a major exporter of clothes. | Modern techniques have allowed factories to produce it cheaply. | Many people say it is the best kind that there has ever been.
 answerText: Many people say it is the best kind that there has ever been.
+reviewed: yes
 ---
 【正解】4 Many people say it is the best kind that there has ever been.（多くの人が、それはこれまでにあった中で最もよい種類の布だと言っている。）
 【和訳】

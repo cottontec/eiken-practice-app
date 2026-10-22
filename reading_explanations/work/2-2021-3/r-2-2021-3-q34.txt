@@ -8,24 +8,27 @@ reviewed: yes
 ＜本文の全訳＞
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
-設問：もともと、パイナップルは
+設問：Originally, pineapples were（もともと、パイナップルは）
 1 hard for many people to get because they only grew in a few places.（限られた場所でしか育たなかったので、多くの人にとって手に入れにくかった。）
 2 thought to be too sweet by the native people of South America.（南アメリカの先住民から、甘すぎると思われていた。）
 3 introduced to countries like Brazil and Paraguay by the Carib people.（カリブ族の人々によって、ブラジルやパラグアイのような国々に持ちこまれた。）
 4 used by people on Caribbean islands as food for farm animals.（カリブ海の島々の人々によって、家畜のえさとして使われていた。）
 【考え方】
+まず見るところ：第1段落の For a long time, though, in most parts of the world, they were extremely rare. と、They first grew in places which are now parts of Brazil and Paraguay.
 設問の Originally（もともと、最初は）に合わせて、昔のパイナップルについて書かれた第1段落を読みます。
 For a long time, though, in most parts of the world, they were extremely rare.（しかし長い間、世界のほとんどの地域で、パイナップルはきわめて珍しいものだった）
 Pineapples originally come from South America. They first grew in places which are now parts of Brazil and Paraguay.（パイナップルはもともと南アメリカの原産だ。最初に育ったのは、現在のブラジルとパラグアイの一部にあたる地域だった）
-rare は「珍しい、めったにない」です。パイナップルは南アメリカの一部の地域にしかなく、世界のほとんどの地域では珍しいものでした。
+rare は「珍しい、めったにない」です。「限られた場所でしか育たなかった」とは本文に直接書かれていませんが、原産地が南アメリカの一部で、世界のほとんどの地域では珍しかったことから、そう読み取れます。
 本文と選択肢を対にすると、次のようになります。
-本文 in most parts of the world, they were extremely rare（世界のほとんどの地域で、きわめて珍しかった）→ 読み取れること：多くの人にとって手に入れにくかった ＝ 選択肢 hard for many people to get
-本文 Pineapples originally come from South America. They first grew in places which are now parts of Brazil and Paraguay.（もともと南アメリカの原産で、最初は現在のブラジルとパラグアイの一部で育った）→ 読み取れること：世界のほとんどの地域にはなく、限られた場所でしか育っていなかった ＝ 選択肢 they only grew in a few places（限られた場所でしか育たなかった）
+本文 in most parts of the world, they were extremely rare（世界のほとんどの地域で、きわめて珍しかった）→ 読み取れること：多くの人にとって手に入れにくかった → 選択肢 hard for many people to get
+本文 They first grew in places which are now parts of Brazil and Paraguay（最初は現在のブラジルとパラグアイの一部で育った）→ 読み取れること：育つ場所が限られていた → 選択肢 they only grew in a few places（限られた場所でしか育たなかった）
 ですから1が正解です。
+この問題の型：推論（原産地が一部・世界では珍しい→手に入れにくい）、言いかえ（extremely rare ＝ hard to get）
 【ほかの選択肢】
 2 本文には Their natural sweetness made them a favorite of the native people.（その自然な甘さによって、パイナップルは先住民の大好物になった）とあります。先住民は甘さを好んでいたので、「甘すぎると思われていた」は本文と反対です。
 3 本文では、パイナップルはブラジルやパラグアイの一部にあたる地域で最初に育ったと書かれています。カリブ族の人々がそこへ持ちこんだという話はありません。カリブ族について書かれているのは、パイナップルが特に人気があったことです。
 4 家畜のえさとして使われていたという話は本文にありません。カリブ海の島々の人々については、パイナップルが特に人気があったと書かれています。
 【覚えるポイント】
 ・originally：「もともと、最初は」。come from ～ は「～の出身だ、～の原産だ」です。
+・次に同じ形が出たら：設問に Originally や At first のような「昔の様子」を表す語があるときは、本文の最初のほうで、今とはちがう昔の状態が書かれた部分を探すと手がかりになります。本文に直接書かれていない言い方は、複数の文からの読み取りかどうかを確かめます。
 ・rare：「珍しい、めったにない」。

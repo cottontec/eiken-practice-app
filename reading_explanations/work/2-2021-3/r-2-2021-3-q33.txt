@@ -8,24 +8,27 @@ reviewed: yes
 ＜本文の全訳＞
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
-設問：科学者たちがエルピストステガリアンの化石を調べたとき、何を発見しましたか。
+設問：What did scientists discover when they examined the elpistostegalian fossil?（科学者たちがエルピストステガリアンの化石を調べたとき、何を発見しましたか。）
 1 The elpistostegalian's bones were not strong enough for it to survive in deep water.（エルピストステガリアンの骨は、深い水の中で生き延びられるほど強くなかった。）
 2 The elpistostegalian's hands and feet must have developed sometime after it left the sea.（エルピストステガリアンの手足は、海を離れたあとのいつかに発達したにちがいない。）
 3 The elpistostegalian could not have been one of the links between sea and land animals.（エルピストステガリアンは、海の動物と陸の動物をつなぐものの1つではありえなかった。）
 4 The elpistostegalian was different from other fish because its fins contained bones.（エルピストステガリアンは、ひれに骨がふくまれていたので、ほかの魚とちがっていた。）
 【考え方】
+まず見るところ：第4段落の The scientists found that the front fins of this ancient fish contained bones ... と、Normally, fins do not contain any bones at all.
 設問の examined the elpistostegalian fossil（エルピストステガリアンの化石を調べた）ときの発見は、第4段落に書かれています。
 The scientists found that the front fins of this ancient fish contained bones like the ones in the hands of land animals.（科学者たちは、この古代の魚の前びれに、陸上の動物の手にある骨のような骨がふくまれていることを発見した）
 Normally, fins do not contain any bones at all.（ふつう、ひれには骨がまったくふくまれていない）
-not ～ any ... at all は「まったく～ない」という強い否定です。ふつうの魚のひれには骨がないのに、エルピストステガリアンのひれには骨があった、ということです。
+not ～ any ... at all は「まったく～ない」という強い否定です。ふつうのひれには骨がないのに、エルピストステガリアンのひれには骨があった、ということです。
 本文と選択肢を対にすると、次のようになります。
 本文 the front fins of this ancient fish contained bones（この古代の魚の前びれには骨がふくまれていた）＝ 選択肢 its fins contained bones（ひれに骨がふくまれていた）
-本文 Normally, fins do not contain any bones at all.（ふつう、ひれには骨がまったくない）→ 読み取れること：ほかの魚のひれとはちがう ＝ 選択肢 was different from other fish
+本文 Normally, fins do not contain any bones at all.（ふつう、ひれには骨がまったくふくまれていない）→ 読み取れること：ほかの魚のひれとはちがう → 選択肢 was different from other fish
 ですから4が正解です。
+この問題の型：対比（ふつうのひれ ⇔ 骨のあるひれ）、推論（ふつうとちがう→ほかの魚とちがう）
 【ほかの選択肢】
 1 本文には、骨は to allow the fish to support its body when it was in shallow water（浅い水の中にいるときに体を支えられるように）発達したとあります。深い水の中で生き延びられるほど強くなかった、という話は本文にありません。
 2 本文には the fish began developing hands and feet even before it left the sea（この魚は、海を離れる前から手足を発達させ始めていた）とあります。「海を離れたあと」は本文と反対です。
 3 本文の最後に This makes it even more likely that the elpistostegalian is one of the links between fish and tetrapods.（このことから、エルピストステガリアンが魚と四肢動物をつなぐものの1つである可能性がいっそう高くなる）とあります。「つなぐものではありえなかった」は本文と反対です。
 【覚えるポイント】
 ・not ～ any ... at all：「まったく～ない」。
+・次に同じ形が出たら：設問が What did ～ discover?（何を発見したか）のときは、found that ～ や discovered that ～ のあとの内容を探します。Normally（ふつうは）のような文が近くにあれば、「ふつうとのちがい」が答えになることがあります。
 ・even before ～：「～する前から（すでに）」。even は「～でさえ」と、意外さを強めます。

@@ -1,6 +1,7 @@
 ---
 choices: as to | as if | if only | if not
 answerText: as if
+reviewed: yes
 ---
 【正解】2 as if（まるで～のように）
 【和訳】

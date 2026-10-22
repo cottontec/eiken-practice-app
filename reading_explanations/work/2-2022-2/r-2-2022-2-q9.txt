@@ -1,6 +1,7 @@
 ---
 choices: maintain | abandon | prevent | supply
 answerText: abandon
+reviewed: yes
 ---
 【正解】2 abandon（置き去りにする、見捨てる）
 【和訳】

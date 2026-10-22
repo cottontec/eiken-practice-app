@@ -1,23 +1,29 @@
 ---
 choices: The U.S. government wanted them to behave more like other U.S. citizens. | The U.S. government offered them opportunities to travel overseas to study. | They wanted their children to study English so that they could enter good schools. | They lost their independence after a war that took place in the early 20th century.
 answerText: The U.S. government wanted them to behave more like other U.S. citizens.
+reviewed: yes
 ---
 【正解】1 The U.S. government wanted them to behave more like other U.S. citizens.（アメリカ政府が、彼らにもっとほかのアメリカ国民と同じようにふるまってほしいと考えた。）
 【和訳】
 ＜本文の全訳＞
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
-設問：なぜ多くのトホノ・オオダムの人々は、伝統に従うのをやめたのですか。
+設問：Why did many Tohono O'odham people stop following their traditions?（なぜ多くのトホノ・オオダムの人々は、伝統に従うのをやめたのですか。）
 1 The U.S. government wanted them to behave more like other U.S. citizens.（アメリカ政府が、彼らにもっとほかのアメリカ国民と同じようにふるまってほしいと考えた。）
 2 The U.S. government offered them opportunities to travel overseas to study.（アメリカ政府が、彼らに勉強のために海外へ行く機会を与えた。）
 3 They wanted their children to study English so that they could enter good schools.（彼らは、子どもたちがよい学校に入れるように、英語を勉強してほしいと思った。）
 4 They lost their independence after a war that took place in the early 20th century.（彼らは、20世紀の初めに起こった戦争のあとで独立を失った。）
 【考え方】
-第4段落を見ます。However, in the early 20th century, the U.S. government forced them to change their lifestyle.（しかし、20世紀の初めに、アメリカ政府は彼らに生活様式を変えるよう強制した）とあります。force ＋人＋ to ～ は「（人）に無理やり～させる」という意味です。
-続いて It sent Tohono O'odham children to schools to make them learn English and forget their own culture.（政府は、トホノ・オオダムの子どもたちに英語を学ばせ、自分たちの文化を忘れさせるために、子どもたちを学校に行かせた）とあり、その後 Many stopped following their traditional way of life.（多くの人が、伝統的な暮らし方に従うのをやめてしまった）と書かれています。
-政府は、彼らに自分たちの文化を忘れさせ、英語を学ばせようとしました。このことから、政府は彼らに、自分たちの伝統的な暮らしではなく、ほかのアメリカの人々と同じような暮らし方をさせようとしていたと考えられます。
+まず見るところ：第4段落の However, in the early 20th century, the U.S. government forced them to change their lifestyle. と、そのあとの Many stopped following their traditional way of life.
+設問は、多くの人が伝統をやめた理由をたずねています。理由は、第4段落に書かれています。
+However, in the early 20th century, the U.S. government forced them to change their lifestyle.（しかし、20世紀の初めに、アメリカ政府は彼らに生活様式を変えるよう強制した）
+force ＋人＋ to ～ は「（人）に無理やり～させる」という意味です。
+It sent Tohono O'odham children to schools to make them learn English and forget their own culture.（政府は、トホノ・オオダムの子どもたちに英語を学ばせ、自分たちの文化を忘れさせるために、子どもたちを学校に行かせた）
+Many stopped following their traditional way of life.（多くの人が、伝統的な暮らし方に従うのをやめてしまった）
+政府は、彼らに自分たちの文化を忘れさせ、英語を学ばせようとしました。このことから、政府は彼らに、伝統的な暮らしではなく、ほかのアメリカの人々と同じような暮らし方をさせようとしていたと考えられます。
 本文 forced them to change their lifestyle / to make them learn English and forget their own culture → 選択肢 wanted them to behave more like other U.S. citizens
-本文の言葉をそのまま言いかえたものではありませんが、政府がしたことの目的をまとめると、1の内容になります。1が正解です。
+本文の言葉をそのまま言いかえたものではありません。しかし、ほかの3つは本文と合わず、1だけが政府のねらいに当てはまります。1が正解です。
+この問題の型：因果（政府の強制→伝統をやめた）、推論（政府のしたことから、ねらいをまとめる）
 【ほかの選択肢】
 2 本文には、政府が子どもたちを schools（学校）に行かせたとありますが、勉強のために海外へ行く機会を与えたという話はありません。
 3 子どもたちに英語を学ばせようとしたのは、アメリカ政府です。トホノ・オオダムの人々自身が、よい学校に入らせるために子どもに英語を学ばせたかったのではありません。人物が違います。
@@ -25,3 +31,4 @@ answerText: The U.S. government wanted them to behave more like other U.S. citiz
 【覚えるポイント】
 ・force ＋人＋ to ～：「（人）に無理やり～させる」。
 ・make ＋人＋動詞の原形：「（人）に～させる」。
+・Why ～? の設問で、理由が選択肢と同じ言葉で書かれていないときは、出来事の流れ（政府が強制した→多くの人がやめた）を順に追い、本文と食い違わない選択肢を選びます。人物（だれが何をしたか）が合っているかも確かめます。

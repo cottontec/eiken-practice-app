@@ -1,6 +1,7 @@
 ---
 choices: protest | expose | conduct | represent
 answerText: expose
+reviewed: yes
 ---
 【正解】2 expose（さらす、当てる）
 【和訳】

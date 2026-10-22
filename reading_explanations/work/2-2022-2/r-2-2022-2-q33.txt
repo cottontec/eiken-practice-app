@@ -1,6 +1,7 @@
 ---
 choices: It wants to make the country famous for producing high-quality cloth. | It believes that his project will create new jobs for Bangladeshis. | Because he will quit unless he gets additional financial support. | Because he may discover a way to produce cheap clothes more easily.
 answerText: It wants to make the country famous for producing high-quality cloth.
+reviewed: yes
 ---
 【正解】1 It wants to make the country famous for producing high-quality cloth.（政府は、その国を高品質の布の生産で有名にしたいと考えている。）
 【和訳】

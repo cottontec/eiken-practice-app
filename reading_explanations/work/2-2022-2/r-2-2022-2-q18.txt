@@ -1,6 +1,7 @@
 ---
 choices: Having | Had | Have | To have
 answerText: Having
+reviewed: yes
 ---
 【正解】1 Having（〔Having ＋過去分詞 で〕～したので、～してきたので）
 【和訳】

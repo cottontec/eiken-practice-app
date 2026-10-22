@@ -1,6 +1,7 @@
 ---
 choices: In any case | Unfortunately | By mistake | Similarly
 answerText: Similarly
+reviewed: yes
 ---
 【正解】4 Similarly（同じように）
 【和訳】

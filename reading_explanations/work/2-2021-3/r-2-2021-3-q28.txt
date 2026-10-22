@@ -8,24 +8,28 @@ reviewed: yes
 ＜本文の全訳＞
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
-設問：来月、何が起こる予定ですか。
+設問：What is going to happen next month?（来月、何が起こる予定ですか。）
 1 Some college students will volunteer at the company.（何人かの大学生が、その会社でボランティアをする。）
 2 Kent Gardiner will move to the design department.（ケント・ガーディナーさんがデザイン部へ異動する。）
 3 Workers at the company will get their first bonus for 10 years.（会社の従業員が、10年ぶりにボーナスを受け取る。）
 4 Three people will join the customer service department.（3人が顧客サービス部に加わる。）
 【考え方】
-設問の next month（来月）という語を本文で探すと、第2段落に Six new people will be joining our company next month.（来月、6人の新しい人が当社に加わる）とあります。
+まず見るところ：第2段落の Six new people will be joining our company next month. と、そのあとの We'll have three new co-workers altogether
+設問の next month（来月）という語を本文で探すと、第2段落に次の文があります。
+Six new people will be joining our company next month.（来月、6人の新しい人が当社に加わる）
 その続きを読みます。
-two of them will be coming to work with us in the customer service department（そのうちの2人が、顧客サービス部に来て私たちといっしょに働く）
+They've all recently graduated from college, and two of them will be coming to work with us in the customer service department.（全員が最近大学を卒業した人たちで、そのうちの2人が、顧客サービス部に来て私たちといっしょに働く）
 We'll have three new co-workers altogether because Kent Gardiner will also be moving to our department at the same time.（ケント・ガーディナーさんも同じ時期に私たちの部署へ異動してくるので、新しい同僚は全部で3人になる）
-新しく入る6人のうちの2人と、デザイン部から移ってくるケント・ガーディナーさんを合わせて、顧客サービス部には3人が加わります。at the same time（同じ時期に）は、来月のことを指しています。our department は、このメールを書いたエイミーの部署、つまり顧客サービス部です。
+新しく入る6人のうちの2人と、デザイン部から移ってくるケント・ガーディナーさんを合わせて、顧客サービス部には3人が加わります。our department は、このメールを書いたエイミーの部署、つまり顧客サービス部です。
 本文と選択肢を対にすると、次のようになります。
 本文 We'll have three new co-workers altogether（新しい同僚が全部で3人になる）＝ 選択肢 Three people will join the customer service department（3人が顧客サービス部に加わる）
 ですから4が正解です。
+この問題の型：言いかえ（three new co-workers ＝ three people will join）、具体例とまとめ（2人＋1人＝3人）
 【ほかの選択肢】
 1 本文には They've all recently graduated from college（全員が最近大学を卒業した）とあります。来月来るのは、大学を卒業して会社に入る人たちで、大学生がボランティアをするという話ではありません。
 2 本文には He has worked in the design department at G&K Electronics for 10 years（彼はデザイン部で10年間働いてきた）とあり、ケントさんはデザイン部から顧客サービス部へ移ってきます。異動する向きが反対です。
 3 ボーナスの話は本文にありません。10 years は、ケントさんがデザイン部で働いてきた年数です。
 【覚えるポイント】
 ・altogether：「全部で、合計で」。
+・次に同じ形が出たら：人数や数が出てくる問題では、本文のあちこちに出てくる数（ここでは2人と1人）を足したり、合計を表す語（altogether）を探したりすると手がかりになります。
 ・co-worker：「同僚（同じ職場で働く仲間）」。

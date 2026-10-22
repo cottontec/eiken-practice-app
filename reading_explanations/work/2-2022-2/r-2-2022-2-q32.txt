@@ -1,6 +1,7 @@
 ---
 choices: to find plants like the ones that were used to make Dhaka muslin. | to check whether samples of Dhaka muslin were genuine or fake. | to explain the evolution of Dhaka muslin at an exhibition. | to create artificial Dhaka muslin in a laboratory in London.
 answerText: to find plants like the ones that were used to make Dhaka muslin.
+reviewed: yes
 ---
 【正解】1 to find plants like the ones that were used to make Dhaka muslin.（ダッカ・モスリンを作るのに使われていたものに似た植物を見つけるために。）
 【和訳】

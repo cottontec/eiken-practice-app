@@ -1,6 +1,7 @@
 ---
 choices: fulfill | cheat | heal | retire
 answerText: heal
+reviewed: yes
 ---
 【正解】3 heal（〔けがなどが〕治る）
 【和訳】

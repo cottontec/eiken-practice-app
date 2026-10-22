@@ -1,6 +1,7 @@
 ---
 choices: not very important | not created by him | difficult to like | based on his friends
 answerText: not created by him
+reviewed: yes
 ---
 【正解】2 not created by him（彼によって作り出されたものではない）
 【和訳】

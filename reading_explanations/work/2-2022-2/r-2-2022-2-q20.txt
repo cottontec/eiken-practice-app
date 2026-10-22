@@ -1,6 +1,7 @@
 ---
 choices: tell | telling | tells | told
 answerText: telling
+reviewed: yes
 ---
 【正解】2 telling（〔There is no telling で〕分からない、予測できない）
 【和訳】

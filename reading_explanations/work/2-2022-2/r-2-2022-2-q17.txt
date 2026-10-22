@@ -1,6 +1,7 @@
 ---
 choices: of late | in vain | for sure | by chance
 answerText: in vain
+reviewed: yes
 ---
 【正解】2 in vain（むだで、むだに終わって）
 【和訳】

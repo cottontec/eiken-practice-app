@@ -1,6 +1,7 @@
 ---
 choices: completely disappears | ends up elsewhere | is given to charities | could be used again
 answerText: ends up elsewhere
+reviewed: yes
 ---
 【正解】2 ends up elsewhere（ほかの場所に行き着く）
 【和訳】

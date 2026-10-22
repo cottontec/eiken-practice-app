@@ -8,12 +8,13 @@ reviewed: yes
 ＜本文の全訳＞
 {{本文全訳}}
 ＜この設問と選択肢の訳＞
-設問：来週、レイチェル・マーティンさんは
+設問：Next week, Rachel Martin will（来週、レイチェル・マーティンさんは）
 1 retire from the company after working there for over 40 years.（40年以上働いたあとで、会社を退職する。）
 2 leave work for a while because she will have a child.（子どもが生まれるので、しばらく仕事を休む。）
 3 become the manager of the company's accounting department.（会社の経理部の部長になる。）
 4 be in charge of planning a special event for Peter Smith.（ピーター・スミスさんのための特別な行事を計画する担当になる。）
 【考え方】
+まず見るところ：第3段落の最後の Also, starting next week, Rachel Martin will take six months off
 設問の Next week（来週）と Rachel Martin という名前を本文で探します。第3段落の最後にあります。
 Also, starting next week, Rachel Martin will take six months off because her baby will be born very soon.（また、来週から、レイチェル・マーティンさんが、もうすぐ赤ちゃんが生まれるため、6か月間休みを取る）
 take ～ off は「（期間）の休みを取る」です。six months off は「6か月の休み」です。
@@ -21,10 +22,12 @@ take ～ off は「（期間）の休みを取る」です。six months off は�
 本文 will take six months off（6か月間休みを取る）＝ 選択肢 leave work for a while（しばらく仕事を休む）
 本文 her baby will be born very soon（もうすぐ赤ちゃんが生まれる）＝ 選択肢 she will have a child（子どもが生まれる）
 本文の six months（6か月）が、選択肢では for a while（しばらくの間）に言いかえられています。ですから2が正解です。
+この問題の型：言いかえ（six months off ＝ for a while）、因果（赤ちゃんが生まれる→休みを取る）
 【ほかの選択肢】
 1 40年以上働いて退職するのは、レイチェルさんではなくピーター・スミスさんです。本文に Peter has worked at G&K Electronics for over 40 years.（ピーターさんは40年以上働いてきた）とあります。また、退職するのは来週ではなく来月末です。人物も時期もちがいます。
 3 経理部の部長は、退職するピーター・スミスさんです。レイチェルさんが経理部の部長になるという話は本文にありません。
 4 本文には、ピーターさんの短い退職式が2月28日に開かれると書かれていますが、だれがそれを計画するのかは書かれていません。レイチェルさんが担当するという話はありません。
 【覚えるポイント】
 ・take ～ off：「（期間）の休みを取る」。take a day off は「1日休みを取る」です。
+・次に同じ形が出たら：設問に人名と時（Rachel Martin、Next week）があるときは、まずその人名と時が一度に出てくる文を探します。同じ文に理由（because ～）があれば、選択肢もその理由とセットで言いかえられていることが多いです。
 ・for a while：「しばらくの間」。

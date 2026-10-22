@@ -1,6 +1,7 @@
 ---
 choices: The sound level cannot be changed with the remote control. | The remote control uses up its batteries in just a few hours. | The buttons on the TV do not seem to be working. | The TV sometimes turns itself off unexpectedly.
 answerText: The sound level cannot be changed with the remote control.
+reviewed: yes
 ---
 【正解】1 The sound level cannot be changed with the remote control.（リモコンで音の大きさを変えることができない。）
 【和訳】

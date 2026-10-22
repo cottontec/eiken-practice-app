@@ -1,6 +1,7 @@
 ---
 choices: call off | pick on | fall for | bring out
 answerText: call off
+reviewed: yes
 ---
 【正解】1 call off（～を中止する）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: Various colors were introduced to appeal to European customers. | The price of Dhaka muslin in Europe increased dramatically. | Makers began to use British techniques to make better cloth. | Production of high-quality Dhaka muslin stopped completely.
 answerText: Production of high-quality Dhaka muslin stopped completely.
+reviewed: yes
 ---
 【正解】4 Production of high-quality Dhaka muslin stopped completely.（高品質のダッカ・モスリンの生産は完全に止まった。）
 【和訳】

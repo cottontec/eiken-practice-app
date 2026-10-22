@@ -1,6 +1,7 @@
 ---
 choices: marvelous | industrial | humble | compact
 answerText: marvelous
+reviewed: yes
 ---
 【正解】1 marvelous（すばらしい）
 【和訳】

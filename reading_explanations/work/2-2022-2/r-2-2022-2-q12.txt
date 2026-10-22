@@ -1,6 +1,7 @@
 ---
 choices: On the move | In respect | As a whole | By then
 answerText: As a whole
+reviewed: yes
 ---
 【正解】3 As a whole（全体として）
 【和訳】

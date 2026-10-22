@@ -20,7 +20,8 @@
   "2-2022-1": {
     "stats": {
       "target": 38,
-      "written": 38
+      "written": 38,
+      "reviewed": 38
     },
     "errors": [],
     "warnings": []
@@ -46,7 +47,8 @@
   "2-2022-2": {
     "stats": {
       "target": 38,
-      "written": 38
+      "written": 38,
+      "reviewed": 38
     },
     "errors": [],
     "warnings": []

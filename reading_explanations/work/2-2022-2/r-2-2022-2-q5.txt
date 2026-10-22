@@ -1,6 +1,7 @@
 ---
 choices: reputation | anticipation | observation | examination
 answerText: reputation
+reviewed: yes
 ---
 【正解】1 reputation（評判）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: live in large family groups | have to make long journeys | see these as food | leave the ocean
 answerText: see these as food
+reviewed: yes
 ---
 【正解】3 see these as food（これらを食べ物だと思う）
 【和訳】

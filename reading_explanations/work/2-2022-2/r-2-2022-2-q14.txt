@@ -1,6 +1,7 @@
 ---
 choices: counting on | insisting on | comparing with | interfering with
 answerText: interfering with
+reviewed: yes
 ---
 【正解】4 interfering with（～に干渉すること、口出しすること）
 【和訳】

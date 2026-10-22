@@ -1,6 +1,7 @@
 ---
 choices: the history of cats as pets | how to take care of cats | the personalities of some cats | how cats' bodies work
 answerText: the personalities of some cats
+reviewed: yes
 ---
 【正解】3 the personalities of some cats（何匹かのネコの性格）
 【和訳】

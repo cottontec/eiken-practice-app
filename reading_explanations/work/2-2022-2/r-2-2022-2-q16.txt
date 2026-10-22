@@ -1,6 +1,7 @@
 ---
 choices: by means | in charge | at times | for all
 answerText: by means
+reviewed: yes
 ---
 【正解】1 by means（〔by means of ～ で〕～を使って、～によって）
 【和訳】
