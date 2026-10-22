@@ -1,0 +1,31 @@
+---
+choices: tie | earn | hire | pour
+answerText: tie
+---
+【正解】1 tie（結ぶ）
+【和訳】
+（英文）
+Neil stopped to ［tie］ his shoelaces in the middle of the sidewalk. They had come undone while he was walking.
+（訳）
+ニールは、くつひもを（結ぶ）ために、歩道の真ん中で立ち止まりました。歩いている間に、くつひもがほどけてしまっていたのです。
+（選択肢の意味）
+1 tie：結ぶ
+2 earn：（お金を）かせぐ、（努力して）得る
+3 hire：雇う
+4 pour：注ぐ
+【考え方】
+まず見るところ：2文目の They had come undone
+空所のあとは his shoelaces（彼のくつひも）です。くつひもをどうしたのかを考えます。
+They had come undone while he was walking.（歩いている間に、それらはほどけてしまっていた）
+They は前の文の his shoelaces を指しています。come undone は「ほどける」という意味です。
+くつひもがほどけていたので、ニールはそれを結び直すために立ち止まったと考えられます。tie は「結ぶ」なので、1が正解です。
+なお、stopped to ～ は「～するために立ち止まった」という意味です。
+この問題の型：因果（くつひもがほどけた→結ぶために立ち止まった）／指示語（They＝his shoelaces）
+【ほかの選択肢】
+2 earn は「（お金を）かせぐ」です。「くつひもをかせぐために立ち止まった」となり、意味が通りません。
+3 hire は「雇う」です。「くつひもを雇う」となり、意味が通りません。
+4 pour は「注ぐ」です。くつひもは注ぐことができるものではないので、「くつひもを注ぐ」では意味が通りません。
+【覚えるポイント】
+・tie：「結ぶ」。tie one's shoelaces で「くつひもを結ぶ」です。
+・come undone：「ほどける」。あとの文に「ほどけた」とあれば、空所には「結ぶ」が入る手がかりになります。
+・stop to ～：「～するために立ち止まる」。

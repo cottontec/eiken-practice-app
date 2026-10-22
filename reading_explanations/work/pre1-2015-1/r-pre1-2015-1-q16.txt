@@ -1,0 +1,30 @@
+---
+choices: inelegant | abundant | proficient | rigid
+answerText: abundant
+---
+【正解】2 abundant（豊富な、たくさんある）
+【和訳】
+（英文）
+In summer, the area has ［abundant］ birdlife. In winter, however, it is so cold that most of the birds fly to warmer regions.
+（訳）
+夏には、その地域には（豊富な）鳥類がいる。しかし冬はとても寒いので、ほとんどの鳥が（その地域より）暖かい地域へ飛んで行ってしまう。
+（選択肢の意味）
+1 inelegant：上品でない、ぶかっこうな
+2 abundant：豊富な、たくさんある
+3 proficient：熟達した、上手な
+4 rigid：かたい、きびしくて融通がきかない
+【考え方】
+まず見るところ：次の文の In winter, however と most of the birds fly to warmer regions
+空所のある文は In summer, the area has (　) birdlife.（夏には、その地域には（　）鳥類がいる）です。birdlife は「（ある地域にすむ）鳥類、鳥たち」です。
+次の文は however（しかし）を使って、冬のようすを述べています。
+In winter, however, it is so cold that most of the birds fly to warmer regions.（しかし冬はとても寒いので、ほとんどの鳥が暖かい地域へ飛んで行ってしまう）
+so ～ that ... は「とても～なので…」です。冬はほとんどの鳥がいなくなる、と書かれています。
+however があるので、夏はその反対、つまり「鳥がたくさんいる」と考えられます。abundant は「豊富な、たくさんある」なので、2が正解です。
+この問題の型：対比（In summer 鳥が豊富 ⇔ In winter, however ほとんどいなくなる）
+【ほかの選択肢】
+1 inelegant は「上品でない」です。「夏は上品でない鳥類がいる」では、冬に鳥がいなくなるという話との対比になりません。
+3 proficient は「熟達した、上手な」で、人の技能について使う語です。birdlife（鳥類）を説明する語として合いません。
+4 rigid は「かたい、きびしい」です。「かたい鳥類」では意味が通らず、冬との対比にもなりません。
+【覚えるポイント】
+・abundant：「豊富な、たくさんある」。abundant birdlife で「豊富な鳥類（たくさんの鳥）」。
+・In summer ～. In winter, however, ... のように季節を比べている文では、however のあとの内容と反対の意味になる語を選ぶことが手がかりになります。

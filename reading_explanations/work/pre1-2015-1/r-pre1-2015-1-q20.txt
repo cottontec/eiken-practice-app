@@ -1,0 +1,29 @@
+---
+choices: considerate | immodest | rotten | fictitious
+answerText: considerate
+---
+【正解】1 considerate（思いやりのある）
+【和訳】
+（英文）
+Sharing a house with people is fine as long as everyone is ［considerate］ and understanding of one another's habits.
+（訳）
+人と家を共有するのは、全員がお互いの習慣に（思いやりがあり）、理解があるかぎり、問題ない。
+（選択肢の意味）
+1 considerate：思いやりのある
+2 immodest：慎みのない、うぬぼれた
+3 rotten：腐った、ひどい
+4 fictitious：架空の、作り話の
+【考え方】
+まず見るところ：空所の後ろの and understanding of one another's habits
+文の前半は Sharing a house with people is fine（人と家を共有するのは問題ない）です。そのあとに条件が続きます。
+as long as everyone is (　) and understanding of one another's habits（全員が、お互いの習慣に（　）で、理解があるかぎり）
+as long as ～ は「～するかぎり、～でさえあれば」です。understanding はここでは「理解のある」という意味の形容詞（人や物のようすを表す語）で、one another's habits は「お互いの習慣」です。
+空所は and で understanding と並んでいるので、同じように「一緒に暮らすうえでよい性格」を表す語が入ると考えられます。considerate は「思いやりのある」なので、1が正解です。considerate of ～ で「～に思いやりのある」と、of one another's habits にもつながります。
+この問題の型：語の意味・組み合わせ（considerate and understanding）
+【ほかの選択肢】
+2 immodest は「慎みのない、うぬぼれた」です。全員がうぬぼれているなら一緒に暮らすのは難しくなり、「問題ない」の条件になりません。
+3 rotten は「腐った、ひどい」です。understanding（理解のある）とよい性格どうしで並ばず、家を共有するための条件として合いません。
+4 fictitious は「架空の、作り話の」です。人の性格を表す語ではなく、条件として意味が通りません。
+【覚えるポイント】
+・considerate：「思いやりのある」。considerate and understanding で「思いやりがあって理解がある」。
+・空所が and で別の語と並んでいるときは、並んでいる語（ここでは understanding）と同じ向きの意味の語を選ぶことが手がかりになります。

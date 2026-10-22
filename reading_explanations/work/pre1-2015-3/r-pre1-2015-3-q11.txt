@@ -1,0 +1,29 @@
+---
+choices: assumption | auction | axis | accord
+answerText: accord
+---
+【正解】4 accord（合意、協定）
+【和訳】
+（英文）
+The two nations held talks over the course of a week to solve their trade issues. On the last day, they finally reached an ［accord］.
+（訳）
+その2つの国は、貿易問題を解決するために、1週間にわたって話し合いを行った。最終日に、両国はついに（合意）に達した。
+（選択肢の意味）
+1 assumption：思いこみ、前提（正しいと仮に考えること）
+2 auction：競売、オークション
+3 axis：軸、中心線
+4 accord：合意、協定
+【考え方】
+まず見るところ：1文目の held talks ～ to solve their trade issues と、2文目の finally reached
+1文目には、2つの国が貿易問題を解決するために話し合いを続けたことが書かれています。
+On the last day, they finally reached an (　).（最終日に、両国はついに（　）に達した）
+finally（ついに）とあるので、長い話し合いの末にたどり着いた結果が入ります。話し合いの結果としてたどり着くものは「合意」です。accord は「合意、協定」で、reach an accord で「合意に達する」となります。ですから4が正解です。
+なお、4つの選択肢はどれも母音（a）で始まるので、空所の前の an は答えを決める手がかりになりません。
+この問題の型：熟語・決まった形（reach an accord）
+【ほかの選択肢】
+1 assumption は「思いこみ、前提」です。「1週間の話し合いの末、ついに思いこみに達した」となり、問題を解決するという目的と合いません。
+2 auction は「競売、オークション」です。国どうしの話し合いの結果として「オークションに達する」となり、意味が通りません。
+3 axis は「軸」です。「ついに軸に達した」となり、意味が通りません。
+【覚えるポイント】
+・reach an accord：「合意に達する」。
+・held talks（話し合いをした）や finally（ついに）のように、話し合いが続いてようやくたどり着いたことを表す語は、「合意」「結論」などの語が入る手がかりになります。

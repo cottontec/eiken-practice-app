@@ -11,8 +11,7 @@
   "pre1-2014-2": {
     "stats": {
       "target": 41,
-      "written": 31,
-      "missing": 10
+      "written": 41
     },
     "errors": [],
     "warnings": []
@@ -20,8 +19,7 @@
   "pre1-2014-3": {
     "stats": {
       "target": 41,
-      "written": 31,
-      "missing": 10
+      "written": 41
     },
     "errors": [],
     "warnings": []

@@ -1,0 +1,31 @@
+---
+choices: parental | clerical | nutritional | radical
+answerText: clerical
+---
+【正解】2 clerical（事務の）
+【和訳】
+（英文）
+Stephanie's job involved mostly ［clerical］ work such as making copies and entering data.
+（訳）
+ステファニーの仕事は、主に、コピーをとったりデータを入力したりといった（事務の）仕事だった。
+（選択肢の意味）
+1 parental：親の
+2 clerical：事務の
+3 nutritional：栄養の、栄養に関する
+4 radical：根本的な、過激な
+【考え方】
+まず見るところ：空所の後ろの such as making copies and entering data
+空所は work（仕事）の前にあり、どんな種類の仕事かを説明する語が入ります。
+そのあとに具体例が続いています。
+such as making copies and entering data（コピーをとったりデータを入力したりといった）
+such as ～ は「～のような」という意味で、前の語の例を挙げる言い方です。
+コピーをとること、データを入力することは、会社などでの「事務の仕事」の代表的な例です。clerical は「事務の」という意味なので、2が正解です。
+involve は「～を含む、（仕事が）～をともなう」です。involved mostly ～ work で「主に～の仕事をともなっていた」、つまり「仕事の多くが～だった」となります。
+この問題の型：具体例とまとめ（such as コピー・データ入力 → 事務の仕事）
+【ほかの選択肢】
+1 parental は「親の」です。parental work では「親としての仕事」となり、コピーをとる・データを入力するという例と合いません。
+3 nutritional は「栄養の」です。「栄養に関する仕事」の例として、コピーやデータ入力は当てはまりません。
+4 radical は「根本的な、過激な」です。「過激な仕事」とコピーやデータ入力は結びつかず、such as の例と合いません。
+【覚えるポイント】
+・clerical work：「事務の仕事」。書類を作ったり整理したりする仕事を表します。
+・空所のすぐ後ろに such as ～（～のような）があるときは、その具体例をまとめて言える語を選ぶことが手がかりになります。

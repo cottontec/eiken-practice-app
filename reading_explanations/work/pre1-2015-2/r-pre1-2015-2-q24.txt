@@ -1,0 +1,31 @@
+---
+choices: rule out | relate to | come after | put through
+answerText: relate to
+---
+【正解】2 relate to（～に共感する、～の気持ちが分かる）
+【和訳】
+（英文）
+Karen found the characters in the movie about sailing difficult to ［relate to］ because she had never been on a boat before.
+（訳）
+カレンは、それまで一度も船に乗ったことがなかったので、帆船で海を走ることについての映画の登場人物たちに（共感する）のは難しいと感じた。
+（選択肢の意味）
+1 rule out：（可能性などを）除外する、ないと判断する
+2 relate to：～に共感する、～の気持ちが分かる
+3 come after：～のあとに来る；～を追いかける
+4 put through：（電話を）つなぐ；（つらいことを）経験させる
+【考え方】
+まず見るところ：文の最後の because she had never been on a boat before
+文の形を見ます。
+Karen found the characters ... difficult to (　)（カレンは、登場人物たちを（　）のが難しいと思った）
+find A difficult to ～ は「Aを～するのは難しいと思う」です。A に当たるのは the characters in the movie about sailing（帆船で海を走ることについての映画の登場人物たち）です。
+理由は文の最後にあります。
+because she had never been on a boat before（それまで一度も船に乗ったことがなかったので）
+船に乗った経験がないので、船で海に出る登場人物たちの気持ちが分かりにくかったと考えられます。relate to ～ は「～に共感する、～の気持ちが分かる」なので、2が正解です。
+この問題の型：因果（船に乗ったことがない→because→登場人物に共感しにくい）
+【ほかの選択肢】
+1 rule out は「除外する」です。「登場人物たちを除外するのが難しい」では、船に乗ったことがないという理由とつながりません。
+3 come after は「～のあとに来る、～を追いかける」です。「登場人物たちを追いかけるのが難しい」では、映画を見ている人の気持ちとして意味が通りません。
+4 put through は「（電話を）つなぐ」や「（つらいことを）経験させる」です。「登場人物たちを経験させるのが難しい」では意味が通りません。
+【覚えるポイント】
+・relate to ～：「～に共感する、～の気持ちが分かる」。find A difficult to ～：「Aを～するのは難しいと思う」。
+・because（～なので）のあとに「経験がなかった」という理由があるときは、「経験がないとできないこと」を表す語が空所に入る手がかりになります。

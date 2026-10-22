@@ -1,0 +1,31 @@
+---
+choices: encourage physical activity | help prevent behavioral problems | teach them about healthy food | raise students' test scores
+answerText: help prevent behavioral problems
+---
+【正解】2 help prevent behavioral problems（問題行動を防ぐのに役立つ）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 encourage physical activity（体を動かすことをうながす）
+2 help prevent behavioral problems（問題行動を防ぐのに役立つ）
+3 teach them about healthy food（彼らに健康的な食べ物について教える）
+4 raise students' test scores（生徒のテストの点数を上げる）
+【考え方】
+まず見るところ：第1段落の One reason for this is that ～ と、段落の最後の parents have a chance to stop it early on
+空所は第1段落の it has been found that regular, shared meals (29).（定期的に家族がそろってとる食事は（29）ことが分かっている）です。すぐあとに One reason for this is that ～（その理由の1つは～ということだ）とあるので、そのあとを読めば、空所の内容の理由が分かります。
+when parents discuss everyday things such as schoolwork and friends with their children, they become more aware of what is going on in their children's lives（親が学校の勉強や友だちといった日常のことについて子どもと話すと、子どもの生活の中で何が起きているかに、親がより気づくようになる）
+続く文で、その結果が書かれています。
+Then, if something about what their children are doing indicates a serious issue such as bullying or illegal drug use, parents have a chance to stop it early on.（そうすると、子どもがしていることの中に、いじめや違法な薬物の使用といった深刻な問題を示すものがあった場合、親はそれを早いうちにやめさせる機会を持てる）
+いじめや違法な薬物の使用は、子どもの「問題行動（よくない行い）」の例です。それを早いうちにやめさせられるのですから、家族の食事は問題行動を防ぐのに役立つと言えます。
+本文 bullying or illegal drug use（いじめや違法な薬物の使用）＝ 選択肢 behavioral problems（問題行動）
+本文 stop it early on（それを早いうちにやめさせる）→ 選択肢 help prevent（防ぐのに役立つ）
+ですから2が正解です。
+この問題の型：具体例とまとめ（いじめ・薬物の使用→behavioral problems）
+【ほかの選択肢】
+1 「体を動かすことをうながす」となります。第1段落に運動の話はなく、One reason for this のあとの「子どもの問題に早く気づける」という理由とつながりません。
+3 「健康的な食べ物について教える」となります。第1段落で述べられている理由は、親子の会話で子どもの生活に気づけることです。食べ物について教えるという話ではありません。なお、第2段落の肥満の話は家で作った食事についての別の研究で、この空所の理由として書かれたものではありません。
+4 「生徒のテストの点数を上げる」となります。schoolwork（学校の勉強）は親子が話す話題の例として出てくるだけです。点数が上がるという結果は書かれておらず、あとの「深刻な問題をやめさせる」という内容と合いません。
+【覚えるポイント】
+・behavioral problems：「問題行動」。early on：「早いうちに、初期の段階で」。
+・空所のすぐあとに One reason for this is that ～（その理由の1つは～）があるときは、その理由とつながる内容が空所に入るので、理由の部分を最後まで読んでから選ぶことが手がかりになります。

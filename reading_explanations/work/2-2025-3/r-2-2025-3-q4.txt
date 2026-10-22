@@ -1,0 +1,31 @@
+---
+choices: president | spectator | philosopher | conductor
+answerText: philosopher
+---
+【正解】3 philosopher（哲学者）
+【和訳】
+（英文）
+A: What do you want to be when you grow up, Amy?
+B: I'm not sure, but I think I'd like to be a ［philosopher］. I want to learn about the meaning of life.
+（訳）
+A：エイミー、大きくなったら何になりたいの？
+B：よく分からないけれど、（哲学者）になりたいと思っているよ。人生の意味について学びたいんだ。
+（選択肢の意味）
+1 president：大統領、社長
+2 spectator：観客、見物人
+3 philosopher：哲学者
+4 conductor：（音楽の）指揮者、（列車などの）車掌
+【考え方】
+まず見るところ：Bの最後の文の I want to learn about the meaning of life.
+Bは、なりたいものを答えたあとに、その理由のような文を続けています。
+I want to learn about the meaning of life.（私は人生の意味について学びたい）
+the meaning of life（人生の意味）のように、人が生きることや世の中のしくみについて深く考える学問を哲学といいます。そして、その学問を研究する人を哲学者といいます。
+philosopher は「哲学者」なので、3が正解です。
+この問題の型：語の意味・組み合わせ（the meaning of life → philosopher）
+【ほかの選択肢】
+1 president は「大統領、社長」です。国や会社のリーダーで、「人生の意味について学びたい」という理由とは結びつきません。
+2 spectator は「観客、見物人」です。スポーツなどを見る人のことで、将来なりたい仕事としても、人生の意味を学びたいという理由ともつながりません。
+4 conductor は「（音楽の）指揮者、車掌」です。音楽や列車にかかわる仕事で、人生の意味を学びたいという理由とは結びつきません。
+【覚えるポイント】
+・philosopher：「哲学者」。philosophy は「哲学」です。
+・なりたい職業を選ぶ問題では、すぐあとの I want to ～（～したい）の内容が、どの職業かを決める手がかりになります。

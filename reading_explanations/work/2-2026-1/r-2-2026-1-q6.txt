@@ -1,0 +1,30 @@
+---
+choices: gradual | chemical | typical | false
+answerText: typical
+---
+【正解】3 typical（典型的な、いつもの）
+【和訳】
+（英文）
+On a ［typical］ Saturday night, Mr. and Mrs. Nelson order pizza and watch TV together. But sometimes, they go out to a restaurant.
+（訳）
+（いつもの）土曜日の夜には、ネルソンさん夫婦はピザを注文して、いっしょにテレビを見ます。でも、ときどきはレストランに出かけます。
+（選択肢の意味）
+1 gradual：だんだんの、少しずつの
+2 chemical：化学の
+3 typical：典型的な、いつもの
+4 false：まちがった、うその
+【考え方】
+まず見るところ：2文目の But sometimes, they go out to a restaurant.
+1文目は、ネルソンさん夫婦の土曜日の夜の過ごし方です。order（注文する）、watch（見る）が現在形（今の習慣を表す形）なので、ふだんくり返していることを表しています。
+2文目を見ます。
+But sometimes, they go out to a restaurant.（でも、ときどきはレストランに出かける）
+sometimes（ときどき）と But（でも）から、1文目は「ふだんはこうする」という話で、2文目は「ときどきは別のことをする」という話だと分かります。
+typical は「典型的な、いつもの（よくある）」という意味です。On a typical Saturday night で「いつもの土曜日の夜には」となり、2文目の sometimes と対比（2つを比べて違いを示すこと）になります。ですから3が正解です。
+この問題の型：対比（typical ⇔ But sometimes）
+【ほかの選択肢】
+1 gradual は「だんだんの、少しずつの」です。「少しずつの土曜日の夜」となり、意味が通りません。
+2 chemical は「化学の」です。「化学の土曜日の夜」では意味が通らず、ピザやテレビの話とも合いません。
+4 false は「まちがった、うその」です。「うその土曜日の夜」となり、ふだんの過ごし方の話になりません。
+【覚えるポイント】
+・on a typical ～：「いつもの（ふつうの）～には」。
+・あとの文に But sometimes（でも、ときどき）があるときは、前の文が「ふだん、いつも」の話になっていることが多いので、それに合う語を選ぶ手がかりになります。

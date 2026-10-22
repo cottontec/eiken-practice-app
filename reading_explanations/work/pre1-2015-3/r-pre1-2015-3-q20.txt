@@ -1,0 +1,28 @@
+---
+choices: spontaneous | pressing | resistant | ancient
+answerText: resistant
+---
+【正解】3 resistant（〔～に〕強い、耐えられる）
+【和訳】
+（英文）
+Modern building materials are designed to be more ［resistant］ to extreme temperatures and rain, so houses generally last much longer than they did in the past.
+（訳）
+現代の建築材料は、極端な気温や雨に対して（昔の材料より）いっそう（強い）ように作られている。そのため、家は一般に、昔よりもずっと長もちする。
+（選択肢の意味）
+1 spontaneous：自然に起こる、自発的な
+2 pressing：差し迫った、急を要する
+3 resistant：（～に）強い、耐えられる
+4 ancient：古代の、大昔の
+【考え方】
+まず見るところ：空所のあとの to extreme temperatures and rain と、so houses generally last much longer
+空所のあとには to extreme temperatures and rain（極端な気温や雨に対して）が続いています。
+so houses generally last much longer than they did in the past（そのため、家は一般に、昔よりもずっと長もちする）
+so（そのため）のあとには結果が書かれています。家が昔よりずっと長もちするのは、建築材料が暑さや寒さ、雨に「強い」からだと考えられます。resistant to ～ は「～に強い、～に耐えられる」という意味なので、3が正解です。
+この問題の型：因果（材料が気温や雨に強い → 家が長もちする）
+【ほかの選択肢】
+1 spontaneous は「自然に起こる、自発的な」です。「極端な気温や雨に対してより自発的に」となり、家が長もちする理由になりません。
+2 pressing は「差し迫った、急を要する」です。建築材料の性質を表す語として、意味が通りません。
+4 ancient は「古代の、大昔の」です。文の初めの Modern（現代の）と反対の意味になり、「現代の建築材料はより古代のものになるよう作られている」となって意味が通りません。
+【覚えるポイント】
+・resistant to ～：「～に強い、～に耐えられる」。
+・so（そのため）のあとに結果が書かれているときは、その結果の原因になる内容を空所に入れられるか、という見方が手がかりになります。

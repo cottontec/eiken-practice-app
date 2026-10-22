@@ -1,0 +1,30 @@
+---
+choices: many people worked behind the scenes | some children watched quietly from home | almost no children waited to meet him | several students talked about the costumes
+answerText: many people worked behind the scenes
+---
+【正解】1 many people worked behind the scenes（多くの人々が裏方として働いた）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 many people worked behind the scenes（多くの人々が裏方として働いた）
+2 some children watched quietly from home（何人かの子どもたちが家から静かに見ていた）
+3 almost no children waited to meet him（彼に会うのを待っていた子どもはほとんどいなかった）
+4 several students talked about the costumes（何人かの生徒が衣装について話した）
+【考え方】
+まず見るところ：第2段落の空所のあとの to make the event successful と、次の文の Their efforts
+空所は第2段落の This was possible because (19) to make the event successful. です。This（これ）は、直前の文の内容を指しています。
+This activity turned a writing task into an exciting community event.（この活動によって、書くという課題が、わくわくする地域の行事に変わった）
+つまり空所には、「地域の行事にすることができた理由」が入ります。空所のあとは to make the event successful（その行事を成功させるために）なので、行事を成功させるためにだれかが何かをした、という内容が合います。
+次の文も見ます。
+Their efforts brought people of different ages together.（彼らの努力によって、さまざまな年齢の人々が1つに集まった）
+Their efforts（彼らの努力）の「彼ら」は、空所に入る人々を指していると考えられます。段落の初めにも、衣装を作る、うわさを広める、劇のような場面を演じるなどの努力が書かれています。
+1の behind the scenes は「裏方として、人目につかないところで」という意味です。「多くの人々が行事を成功させるために裏方として働いた」となり、Their efforts ともつながります。ですから1が正解です。
+この問題の型：指示語（This・Their efforts が指すもの）
+【ほかの選択肢】
+2 「何人かの子どもたちが家から静かに見ていた」では、行事を成功させるための努力になりません。次の文の Their efforts（彼らの努力）ともつながりません。
+3 「彼に会うのを待っていた子どもはほとんどいなかった」は、行事が「わくわくする地域の行事」になったという内容と合いません。成功の理由にもなりません。
+4 「何人かの生徒が衣装について話した」では、話しただけで、行事を成功させる努力にはならず、さまざまな年齢の人々が集まったこととも結びつきません。本文で衣装は「作られた」と書かれています。
+【覚えるポイント】
+・behind the scenes：「裏方として、人目につかないところで」。bring ～ together は「～を1つに集める、まとめる」です。
+・This was possible because ～ の空所では、This が指す前の文の内容と、空所のあとの文の Their efforts のような語句の両方につながる選択肢を選ぶと考えやすくなります。

@@ -1,0 +1,31 @@
+---
+choices: bit by bit | far and away | all or nothing | safe and sound
+answerText: safe and sound
+---
+【正解】4 safe and sound（無事に、何事もなく）
+【和訳】
+（英文）
+A: Did your cat come home last night?
+B: Yes, he did. He came home at 3 a.m. He looked a little dirty, but otherwise he was ［safe and sound］.
+（訳）
+A：あなたのねこは、昨晩家に帰ってきた？
+B：うん、帰ってきたよ。午前3時に帰ってきたんだ。少し汚れているように見えたけれど、それ以外は（無事）だったよ。
+（選択肢の意味）
+1 bit by bit：少しずつ
+2 far and away：ずばぬけて、はるかに
+3 all or nothing：すべてかゼロか、全部かまったくなしか
+4 safe and sound：無事に、何事もなく
+【考え方】
+まず見るところ：空所の前の He looked a little dirty, but otherwise
+Aは、ねこが昨晩帰ってきたかをたずねています。Bは「帰ってきた」と答え、そのときの様子を話しています。
+He looked a little dirty, but otherwise he was ( ).（少し汚れているように見えたが、それ以外は（　）だった）
+otherwise はここでは「それ以外の点では」という意味です。「少し汚れていた」という困った点を1つだけ挙げて、but otherwise（でもそれ以外は）と続けているので、空所には「問題なかった」という意味が入ると考えられます。
+safe and sound は「無事に、何事もなく」なので、4が正解です。
+この問題の型：対比（少し汚れていた⇔それ以外は無事だった）
+【ほかの選択肢】
+1 bit by bit は「少しずつ」です。「それ以外は少しずつだった」となり、ねこの様子を表す言い方として意味が通りません。
+2 far and away は「ずばぬけて、はるかに」です。「それ以外はずばぬけていた」となり、何がずばぬけていたのか分からず、意味が通りません。
+3 all or nothing は「すべてかゼロか」です。「それ以外はすべてかゼロかだった」となり、ねこが帰ってきたときの様子として意味が通りません。
+【覚えるポイント】
+・safe and sound：「無事に、何事もなく」。
+・～, but otherwise ...（～だが、それ以外は…）の形では、but の前に「よくない点」、あとに「それ以外はよかった」という内容がくることが多く、手がかりになります。

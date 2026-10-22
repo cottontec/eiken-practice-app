@@ -1,0 +1,28 @@
+---
+choices: minute | tangled | surplus | dreary
+answerText: minute
+---
+【正解】1 minute（ごくわずかな、ごく小さな）
+【和訳】
+（英文）
+This poison is so powerful that even a ［minute］ quantity can be deadly. It must be handled with extreme caution.
+（訳）
+この毒はとても強力なので、（ごくわずかな）量でさえ命にかかわることがある。それは極めて慎重に扱わなければならない。
+（選択肢の意味）
+1 minute：ごくわずかな、ごく小さな
+2 tangled：もつれた、からまった
+3 surplus：余った、余分の
+4 dreary：退屈な、どんよりした
+【考え方】
+まず見るところ：空所の前の so powerful that even a
+この文は so ～ that ...（とても～なので…）の形です。「この毒はとても強力なので、～」と続きます。
+even a (　) quantity can be deadly（（　）量でさえ命にかかわることがある）
+even は「～でさえ」という意味です。毒がとても強いことを表すには、「ほんの少しの量でさえ命にかかわる」とするのが自然です。minute は形容詞として「ごくわずかな、ごく小さな」という意味（読み方は「マイニュート」）で、a minute quantity は「ごくわずかな量」です。ですから1が正解です。
+この問題の型：語の意味・組み合わせ（even a minute quantity）
+【ほかの選択肢】
+2 tangled は「もつれた、からまった」です。「もつれた量でさえ」となり、意味が通りません。
+3 surplus は「余った、余分の」です。「余分な量でさえ命にかかわる」では、毒がとても強力であることを表すことになりません。
+4 dreary は「退屈な、どんよりした」です。「退屈な量でさえ」となり、意味が通りません。
+【覚えるポイント】
+・minute：名詞では「分」ですが、形容詞では「ごくわずかな、ごく小さな」という意味になり、読み方も変わります。
+・so powerful that even ～（とても強力なので～でさえ）の形では、even のあとに「ふつうなら問題にならないほど少ない・小さい」ことを表す語が入る手がかりになります。

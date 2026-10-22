@@ -1,0 +1,29 @@
+---
+choices: cheery | feeble | barren | vital
+answerText: barren
+---
+【正解】3 barren（〔土地が〕不毛の、草木が育たない）
+【和訳】
+（英文）
+At first glance, the Mojave Desert seems ［barren］, but a surprising number of wild plants can be found growing there.
+（訳）
+ちょっと見たところでは、モハーベ砂漠は（草木が育たない）ように見えるが、そこには驚くほど多くの野生の植物が生えているのが見られる。
+（選択肢の意味）
+1 cheery：陽気な、明るい
+2 feeble：弱々しい、かすかな
+3 barren：（土地が）不毛の、草木や作物が育たない
+4 vital：生き生きとした；欠かせない
+【考え方】
+まず見るところ：文の初めの At first glance と、空所のあとの but a surprising number of wild plants
+文の初めの At first glance は「ちょっと見たところでは」という意味です。この言い方のあとには、「見た目はこうだが、実際は違う」という話が続くことがあります。
+空所のあとを見ます。
+but a surprising number of wild plants can be found growing there（しかし、そこには驚くほど多くの野生の植物が生えているのが見られる）
+but（しかし）のあとに「驚くほど多くの植物」とあるので、空所には「植物がない」という見た目が入ると考えられます。barren は「草木が育たない」なので、3が正解です。
+この問題の型：対比（見た目は植物がない⇔実際は多くの植物がある）
+【ほかの選択肢】
+1 cheery は「陽気な、明るい」で、人の様子などに使う語です。「砂漠は陽気に見えるが、驚くほど多くの植物がある」では、but の前後が反対の内容になりません。
+2 feeble は「弱々しい」です。「砂漠は弱々しく見える」では、植物が多いという but のあとの内容と対比になりません。
+4 vital は「生き生きとした」です。「砂漠は生き生きとして見えるが、驚くほど多くの植物がある」では、but の前後が反対になりません。
+【覚えるポイント】
+・barren：「（土地が）不毛の、草木が育たない」。
+・At first glance（ちょっと見たところでは）と but がそろっているときは、「見た目」と「実際」が反対になっていることが多いので、but のあとの内容を裏返すと空所の手がかりになります。

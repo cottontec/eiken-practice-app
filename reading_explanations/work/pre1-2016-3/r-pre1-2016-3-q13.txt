@@ -1,0 +1,30 @@
+---
+choices: petty | coarse | sacred | willing
+answerText: sacred
+---
+【正解】3 sacred（神聖な、聖なる）
+【和訳】
+（英文）
+The ancient Greeks believed Mount Olympus to be a ［sacred］ place. They considered it to be the home of their gods.
+（訳）
+古代ギリシャの人々は、オリンポス山を（神聖な）場所だと信じていました。彼らはそこを、自分たちの神々のすみかだと考えていたのです。
+（選択肢の意味）
+1 petty：ささいな、心の狭い
+2 coarse：（手ざわりが）粗い、下品な
+3 sacred：神聖な、聖なる
+4 willing：進んで～する、いやがらない
+【考え方】
+まず見るところ：2文目の the home of their gods
+1文目は「古代ギリシャの人々は、オリンポス山を（　）場所だと信じていた」という内容です。believe A to be B は「AをBだと信じる」という意味です。
+2文目は次のとおりです。
+They considered it to be the home of their gods.（彼らはそれを自分たちの神々のすみかだと考えていた）
+it は Mount Olympus（オリンポス山）を指します。consider A to be B は「AをBだと考える」という意味で、1文目の believe A to be B と同じ形です。
+つまり2文目は、1文目の「（　）場所」を具体的に説明しています。神々が住む場所は、人々にとって「神聖な場所」です。sacred は「神聖な、聖なる」という意味なので、3が正解です。
+この問題の型：言いかえ（sacred place ＝ the home of their gods）
+【ほかの選択肢】
+1 petty は「ささいな、取るに足りない」や「心の狭い」です。神々のすみかを「取るに足りない場所」と言うのは、2文目の内容と合いません。
+2 coarse は「（手ざわりが）粗い、ざらざらした」や「下品な」です。2文目の「神々のすみか」の説明になりません。
+4 willing は「進んで～する、いやがらない」で、ふつう人の気持ちについて使います。「進んで～する場所」となり、意味が通りません。
+【覚えるポイント】
+・sacred：「神聖な、聖なる」。gods（神々）や religion（宗教）の話題と結びつきやすい語です。
+・1文目と2文目が believe A to be B と consider A to be B のように同じ形で並んでいるときは、2文目が1文目を言いかえて説明していることが多いので、2文目のBの部分から空所の語を考えると手がかりになります。

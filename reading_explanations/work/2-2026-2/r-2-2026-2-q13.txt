@@ -1,0 +1,31 @@
+---
+choices: for this reason | in other words | on the whole | in that case
+answerText: on the whole
+---
+【正解】3 on the whole（全体としては、概して）
+【和訳】
+（英文）
+The new computer program has some problems, but ［on the whole］ it is very good. Most people who use it are happy with it.
+（訳）
+その新しいコンピュータープログラムにはいくつか問題がありますが、（全体としては）とてもよいものです。それを使っているほとんどの人が、それに満足しています。
+（選択肢の意味）
+1 for this reason：このため
+2 in other words：言いかえれば
+3 on the whole：全体としては、概して
+4 in that case：その場合は
+【考え方】
+まず見るところ：but の前の has some problems と、あとの it is very good
+空所のある文は次のとおりです。
+The new computer program has some problems, but ( ) it is very good.（その新しいコンピュータープログラムにはいくつか問題があるが、（　）とてもよい）
+but（しかし）の前は「いくつか問題がある」という悪い点、あとは「とてもよい」というよい点です。細かい問題はあっても、全部をまとめて見ればよい、という流れになっています。
+2文目もこれを支えています。
+Most people who use it are happy with it.（それを使っているほとんどの人が、それに満足している）
+on the whole は「全体としては、概して（細かい点を除いて全体を見ると）」という意味なので、3が正解です。
+この問題の型：対比（いくつか問題がある⇔全体としてはよい）
+【ほかの選択肢】
+1 for this reason は「このため」で、前の内容が理由で、あとがその結果になるときに使います。「いくつか問題がある、しかしこのためとてもよい」となり、問題があることがよい理由になってしまうので合いません。
+2 in other words は「言いかえれば」で、前の内容を別の言葉で言い直すときに使います。「問題がある」と「とてもよい」は同じ内容の言い直しではないので合いません。
+4 in that case は「その場合は」で、前に述べた場合や条件を受けて使います。この文には「もし～なら」という場合の話がないので合いません。
+【覚えるポイント】
+・on the whole：「全体としては、概して」。
+・but の前に小さな欠点、あとによい点がくる文では、「全体としては」のように、まとめて評価する語句が入ることが多いです。

@@ -1,0 +1,32 @@
+---
+choices: postponed | concealed | rewarded | emphasized
+answerText: postponed
+---
+【正解】1 postponed（延期された）
+【和訳】
+（英文）
+The soccer game was ［postponed］ because of heavy rain. It was rescheduled for the following Saturday.
+（訳）
+そのサッカーの試合は、大雨のために（延期されました）。試合は、次の土曜日に予定が組み直されました。
+（選択肢の意味）
+1 postponed：延期された
+2 concealed：隠された
+3 rewarded：ほうびを与えられた、報われた
+4 emphasized：強調された
+【考え方】
+まず見るところ：because of heavy rain と、2文目の rescheduled for the following Saturday
+空所のある文は次のとおりです。
+The soccer game was ( ) because of heavy rain.（そのサッカーの試合は、大雨のために（　））
+was のあとに動詞の ed の形がくると、「～された」という受け身（ほかから何かをされることを表す形）になります。大雨のせいで試合がどうされたのかを考えます。
+次に、2文目を見ます。
+It was rescheduled for the following Saturday.（試合は、次の土曜日に予定が組み直された）
+reschedule は「予定を組み直す」という意味です。試合が別の日に移されたことが分かります。
+postpone は「延期する（予定をあとに延ばす）」という意味なので、was postponed で「延期された」となり、2文目とつながります。ですから1が正解です。
+この問題の型：語の意味・組み合わせ（大雨→試合が延期された）／言いかえ（postponed → rescheduled for the following Saturday）
+【ほかの選択肢】
+2 concealed は「隠された」です。「試合は大雨のために隠された」となり、意味が通りません。
+3 rewarded は「ほうびを与えられた、報われた」です。大雨は試合がほうびを受ける理由にはならず、次の土曜日に予定が組み直されたこととも合いません。
+4 emphasized は「強調された」です。「試合は大雨のために強調された」となり、意味が通りません。
+【覚えるポイント】
+・postpone：「延期する」。be postponed で「延期される」。
+・because of ～（～のために）のあとに出てくる原因と、次の文に書かれた結果（ここでは予定の組み直し）の両方に合う語を選ぶと、手がかりになります。

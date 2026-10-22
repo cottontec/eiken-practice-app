@@ -1,0 +1,30 @@
+---
+choices: pronounce | distrust | aggravate | fabricate
+answerText: fabricate
+---
+【正解】4 fabricate（〔うその話を〕でっち上げる）
+【和訳】
+（英文）
+After he skipped the morning's classes, Rupert tried to ［fabricate］ a convincing story to explain his absence to his teachers.
+（訳）
+午前の授業をさぼったあと、ルパートは、先生たちに欠席の説明をするために、もっともらしい話を（でっち上げ）ようとした。
+（選択肢の意味）
+1 pronounce：～を発音する、宣言する
+2 distrust：～を信用しない
+3 aggravate：～を悪化させる
+4 fabricate：（うその話を）でっち上げる、作り上げる
+【考え方】
+まず見るところ：文の初めの skipped the morning's classes と、空所の後ろの a convincing story
+skip は、ここでは「（授業を）さぼる、わざと休む」という意味です。
+空所の後ろは a convincing story（もっともらしい話）です。convincing は「説得力のある、本当だと思わせるような」です。
+さらに、目的が書かれています。
+to explain his absence to his teachers（先生たちに欠席の説明をするために）
+ルパートは授業をさぼったので、本当の理由は言えません。そこで、先生たちが信じてくれそうな話を作ろうとした、と考えられます。fabricate は「（うその話を）でっち上げる」なので、4が正解です。
+この問題の型：語の意味・組み合わせ（fabricate a story）／因果（さぼった → 話を作る）
+【ほかの選択肢】
+1 pronounce は「発音する、宣言する」です。「もっともらしい話を発音しようとした」では、さぼったことをごまかすという流れに合いません。
+2 distrust は「信用しない」です。「自分の作る話を信用しない」となると、先生たちに説明するという目的とつながりません。
+3 aggravate は「悪化させる」です。「もっともらしい話を悪化させる」では意味が通りません。
+【覚えるポイント】
+・fabricate a story：「話をでっち上げる」。
+・「わざと休んだ」などの悪いことのあとに、convincing story（もっともらしい話）が続くときは、「うそを作る」という意味の語が入る手がかりになります。

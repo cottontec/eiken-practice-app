@@ -1,0 +1,31 @@
+---
+choices: harass | restrain | forge | sweep
+answerText: forge
+---
+【正解】3 forge（〔関係などを〕築く）
+【和訳】
+（英文）
+In a globalized world, major corporations need to ［forge］ business relationships with companies in other countries. Such ties are important for businesses to survive.
+（訳）
+グローバル化した世界では、大企業は、外国の会社との取引関係を（築く）必要がある。そのようなつながりは、企業が生き残るために重要だ。
+（選択肢の意味）
+1 harass：（人に）嫌がらせをする、悩ませる
+2 restrain：抑える、制限する
+3 forge：（関係などを）築く；（金属を）鍛える
+4 sweep：掃く、さっと払う
+【考え方】
+まず見るところ：2文目の Such ties are important for businesses to survive.
+空所のある文は、次のとおりです。
+major corporations need to (　) business relationships with companies in other countries（大企業は、外国の会社との取引関係を（　）する必要がある）
+globalized は「グローバル化した（国と国の結びつきが強まり、世界全体がつながった）」、corporation は「企業」、business relationship は「取引関係、仕事上の関係」です。
+2文目を見ます。
+Such ties are important for businesses to survive.（そのようなつながりは、企業が生き残るために重要だ）
+ties は「つながり、結びつき」で、空所の文の business relationships を言いかえたものです。つながりが大切なのですから、外国の会社との関係を「作る、深める」必要があると考えられます。forge は「（関係などを）築く」という意味で、forge relationships で「関係を築く」となります。ですから3が正解です。
+この問題の型：言いかえ（business relationships ＝ Such ties）
+【ほかの選択肢】
+1 harass は「嫌がらせをする」です。「外国の会社との取引関係に嫌がらせをする必要がある」となり、つながりが重要だという2文目と合いません。
+2 restrain は「抑える、制限する」です。「取引関係を抑える必要がある」では、つながりが大切だという話と反対になります。
+4 sweep は「掃く」です。「取引関係を掃く」となり、意味が通りません。
+【覚えるポイント】
+・forge relationships：「関係を築く」。forge には「（金属を）鍛える」という意味もあります。
+・あとの文の Such ～（そのような～）が空所の文の語を言いかえているときは、その文の内容（ここでは「つながりは重要だ」）から空所の動詞を考える手がかりになります。

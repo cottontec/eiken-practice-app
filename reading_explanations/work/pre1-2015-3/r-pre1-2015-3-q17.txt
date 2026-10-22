@@ -1,0 +1,27 @@
+---
+choices: upload | input | outsmart | offset
+answerText: offset
+---
+【正解】4 offset（～を埋め合わせる、相殺する）
+【和訳】
+（英文）
+When Edward travels on business, his company gives him a fixed amount of money per day to ［offset］ the cost of meals and other expenses.
+（訳）
+エドワードが出張するとき、彼の会社は、食事代やそのほかの費用を（埋め合わせる）ために、1日あたり決まった額のお金を彼に渡している。
+（選択肢の意味）
+1 upload：（データを）アップロードする
+2 input：（データを）入力する
+3 outsmart：～を出し抜く（知恵で相手に勝つ）
+4 offset：～を埋め合わせる、相殺する
+【考え方】
+まず見るところ：空所のあとの the cost of meals and other expenses
+travel on business は「出張する（仕事で出かける）」です。会社はエドワードに、a fixed amount of money per day（1日あたり決まった額のお金）を渡しています。
+空所のあとには the cost of meals and other expenses（食事代やそのほかの費用）が続いています。会社がお金を渡すのは、出張中にエドワードが払う費用の分を補うためだと考えられます。offset は「（かかった費用などを）埋め合わせる、相殺する（差し引きしてなくす）」という意味なので、「費用を埋め合わせるためにお金を渡す」となり、自然につながります。ですから4が正解です。
+この問題の型：語の意味・組み合わせ（offset the cost）
+【ほかの選択肢】
+1 upload は「（データを）アップロードする」です。「食事代をアップロードするためにお金を渡す」となり、意味が通りません。
+2 input は「（データを）入力する」です。「食事代を入力するためにお金を渡す」となり、お金を渡す目的として合いません。
+3 outsmart は「出し抜く（知恵で相手に勝つ）」です。「食事代を出し抜くために」となり、意味が通りません。
+【覚えるポイント】
+・offset the cost：「費用を埋め合わせる（かかったお金の分を補う）」。
+・「お金を渡す、払う」の目的を表す to ～ のあとに the cost（費用）が来たら、「費用をまかなう・埋め合わせる」という意味の動詞が入る手がかりになります。

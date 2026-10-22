@@ -1,0 +1,34 @@
+---
+choices: Lord Elgin initially tried to stop the marbles from being shipped to Britain so he could finish his work with them in Greece. | The British government argued that maintenance of the marbles would be much cheaper if they were kept in Britain. | Britain and Greece disagree on whether Lord Elgin had a lawful right to take the marbles to Britain. | Britain believed the marbles did not belong in Greece as Ottoman rulers had brought them there illegally.
+answerText: Britain and Greece disagree on whether Lord Elgin had a lawful right to take the marbles to Britain.
+---
+【正解】3 Britain and Greece disagree on whether Lord Elgin had a lawful right to take the marbles to Britain.（イギリスとギリシャは、エルギン卿に大理石彫刻をイギリスへ持っていく法的な権利があったかどうかについて、意見が合わない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What do we learn about the removal of the Elgin Marbles from Greece?（エルギン・マーブルがギリシャから持ち去られたことについて、何が分かるか。）
+1 Lord Elgin initially tried to stop the marbles from being shipped to Britain so he could finish his work with them in Greece.（エルギン卿は初め、ギリシャで彫刻を使った自分の作業を終えられるように、彫刻がイギリスへ送られるのを止めようとした。）
+2 The British government argued that maintenance of the marbles would be much cheaper if they were kept in Britain.（イギリス政府は、大理石彫刻をイギリスに置いておけば、維持管理の費用がずっと安くすむと主張した。）
+3 Britain and Greece disagree on whether Lord Elgin had a lawful right to take the marbles to Britain.（イギリスとギリシャは、エルギン卿に大理石彫刻をイギリスへ持っていく法的な権利があったかどうかについて、意見が合わない。）
+4 Britain believed the marbles did not belong in Greece as Ottoman rulers had brought them there illegally.（イギリスは、オスマン帝国の支配者たちが大理石彫刻を不法にギリシャへ持ちこんだので、それはギリシャにあるべきではないと考えた。）
+【考え方】
+まず見るところ：第2段落の最後の The legality of Elgin's actions has long been disputed by the Greeks, ～
+第2段落の最後に、エルギンが彫刻を持ち去ったことについての、ギリシャの人々の考えが書かれています。
+The legality of Elgin's actions has long been disputed by the Greeks, who have been calling for the marbles' return ever since.（エルギンの行為が合法だったかどうかについては、ギリシャの人々が長い間異議を唱えてきており、彼らはそれ以来ずっと大理石彫刻の返還を求め続けている）
+legality は「合法であること（法律にかなっていること）」、dispute は「異議を唱える、争う」という意味です。
+一方、イギリスの側については、第3段落に次の文があります。
+All requests made to the British government, however, have been rejected.（しかし、イギリス政府に出された要求は、すべて拒否されてきた）
+ギリシャは「持ち去りは合法ではなかったので返してほしい」と求め、イギリスは返さないという立場です。
+本文と選択肢3を対にすると、次のようになります。
+・本文 The legality of Elgin's actions（エルギンの行為が合法かどうか）＝ 選択肢 whether Lord Elgin had a lawful right to take the marbles to Britain（エルギン卿に彫刻をイギリスへ持っていく法的な権利があったかどうか）
+・本文 has long been disputed by the Greeks（ギリシャの人々が長い間異議を唱えてきた）と、イギリス政府が要求をすべて拒否してきたこと → 選択肢 Britain and Greece disagree（イギリスとギリシャは意見が合わない）
+2つ目は、ギリシャの異議とイギリスの拒否を合わせて読み取れることです。よって3が正解です。
+この問題の型：言いかえ（legality ＝ lawful right、disputed → disagree）
+【ほかの選択肢】
+1 本文と反対です。彫刻を取り外してイギリスへ送ったのはエルギン自身です。エルギンが彫刻を送るのを止めようとしたとは書かれていません。
+2 本文にありません。維持管理の費用の話は出てきません。大英博物館の当局者が挙げているのは、ロンドンで研究できることやヨーロッパの美術と比べられることです。
+4 本文と違います。大理石彫刻は、もともとアテネのパルテノン神殿の一部でした。オスマン帝国の支配者がギリシャへ持ちこんだという話はありません。
+【覚えるポイント】
+・legality：「合法であること」。dispute：「異議を唱える、争う」。call for ～：「～を求める」。
+・「意見が合わない」という選択肢では、本文で両方の立場（ここではギリシャの異議とイギリスの拒否）が書かれているかを確かめるのが手がかりになります。

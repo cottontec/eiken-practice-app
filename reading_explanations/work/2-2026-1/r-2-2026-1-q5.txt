@@ -1,0 +1,29 @@
+---
+choices: hate | foster | divide | pronounce
+answerText: foster
+---
+【正解】2 foster（～を育てる、はぐくむ）
+【和訳】
+（英文）
+Teachers at Billings Academy try to ［foster］ leadership qualities in their students. They teach the students how to communicate, make decisions, and take responsibility.
+（訳）
+ビリングズ・アカデミーの先生たちは、生徒たちのリーダーとしての資質を（育て）ようとしています。先生たちは生徒たちに、意思を伝え合う方法、物事を決める方法、責任を引き受ける方法を教えています。
+（選択肢の意味）
+1 hate：～をひどく嫌う
+2 foster：～を育てる、はぐくむ
+3 divide：～を分ける
+4 pronounce：～を発音する
+【考え方】
+まず見るところ：2文目の They teach the students how to communicate, make decisions, and take responsibility.
+空所のあとの目的語（動詞が表す動作を受ける語）は leadership qualities（リーダーとしての資質）です。先生たちがそれをどうしようとしているのかを、2文目から考えます。
+They teach the students how to communicate, make decisions, and take responsibility.（先生たちは生徒たちに、意思を伝え合う方法、物事を決める方法、責任を引き受ける方法を教えている）
+伝え合うこと、決めること、責任を引き受けることは、どれもリーダーに必要な力です。先生たちはそうした力を教えて、生徒の中にリーダーの資質を伸ばそうとしていると分かります。
+foster は「～を育てる、はぐくむ」という意味です。「生徒たちのリーダーとしての資質を育てようとしている」となり、2文目とつながります。ですから2が正解です。
+この問題の型：具体例とまとめ（教えている3つのこと → leadership qualities を育てる）
+【ほかの選択肢】
+1 hate は「～をひどく嫌う」です。リーダーに必要な力を教えている先生たちが、その資質を嫌おうとする、というのは2文目と合いません。
+3 divide は「～を分ける」です。「リーダーとしての資質を分けようとする」では、2文目の「教えている」という内容とつながりません。
+4 pronounce は「～を発音する」です。資質は発音するものではないので、意味が通りません。
+【覚えるポイント】
+・foster：「（能力や気持ちなど）を育てる、はぐくむ」。take responsibility は「責任を引き受ける」です。
+・空所の文の次に They teach ～ のような具体的な説明が続くときは、その説明をまとめた動作を表す語を選ぶと考えやすくなります。

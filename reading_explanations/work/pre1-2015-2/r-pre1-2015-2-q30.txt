@@ -1,0 +1,29 @@
+---
+choices: do not appear frequently enough | ignore scientific evidence | are too difficult to understand | put a lot of pressure on them
+answerText: put a lot of pressure on them
+---
+【正解】4 put a lot of pressure on them（彼らに大きなプレッシャーをかける）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 do not appear frequently enough（じゅうぶんな回数、載っていない）
+2 ignore scientific evidence（科学的な証拠を無視している）
+3 are too difficult to understand（難しすぎて理解できない）
+4 put a lot of pressure on them（彼らに大きなプレッシャーをかける）
+【考え方】
+まず見るところ：第2段落の However, some parents say と、段落の最後の feel like bad parents
+空所は第2段落の However, some parents say that these kinds of articles (30).（しかし、こうした記事は（30）と言う親もいる）です。these kinds of articles（こうした記事）は、前の文の「家で作った食事が肥満を減らす」という報告のことです。
+However（しかし）のあとなので、親たちがこうした記事をよく思っていないことが分かります。その理由は、このあとに書かれています。
+many parents say the "good parents cook for their families" message is unrealistic（多くの親は、「よい親は家族のために料理をする」というメッセージは現実的ではないと言う）
+home-cooked meals are a "widely promoted standard to which all mothers are held."（家で作る食事は「すべての母親が守るよう求められている、広く勧められた基準」である）
+This can make people feel like bad parents if their work schedule does not allow them to cook.（このために、仕事の予定のせいで料理ができない人々が、自分は悪い親だと感じてしまうことがある）
+「守るよう求められている基準」や「自分は悪い親だと感じてしまう」は、親が記事などから大きなプレッシャー（心の重荷、追いつめられる感じ）を受けていることを表しています。4の them は some parents（一部の親たち）を指し、「こうした記事は自分たちに大きなプレッシャーをかける」となるので、4が正解です。
+この問題の型：対比（However：記事がいつも載っている⇔親は負担に感じている）
+【ほかの選択肢】
+1 「こうした記事はじゅうぶんな回数、載っていない」となります。すぐ前の文に such reports now appear regularly in the media（そうした報告がメディアにいつも載っている）とあり、反対の内容です。
+2 「こうした記事は科学的な証拠を無視している」となります。記事は研究の結果を伝えるもので、本文では、親たちは記事が現実的ではないと言っているのであって、科学的な証拠を無視しているとは言っていません。
+3 「こうした記事は難しすぎて理解できない」となります。あとに続く親たちの不満は、メッセージが現実的ではないことや、悪い親だと感じさせられることで、記事が難しいという話は出てきません。
+【覚えるポイント】
+・put pressure on ～：「～にプレッシャーをかける」。standard to which ～ are held：「～が守るよう求められている基準」。
+・However のあとの空所は、そのあとに続く具体的な説明（ここでは「現実的ではない」「悪い親だと感じる」）をまとめた内容になることが多いので、空所のあとまで読んでから選ぶことが手がかりになります。

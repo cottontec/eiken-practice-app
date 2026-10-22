@@ -1,0 +1,29 @@
+---
+choices: emitting | appointing | restating | instigating
+answerText: emitting
+---
+【正解】1 emitting（（ガスなどを）出している、放出している）
+【和訳】
+（英文）
+The factory was forced to close down when authorities discovered that it had been ［emitting］ harmful chemicals into the atmosphere.
+（訳）
+有害な化学物質を工場が大気中に（放出し）続けていたことを当局が発見したとき、その工場は閉鎖に追いこまれました。
+（選択肢の意味）
+1 emitting：（ガスや光などを）出している、放出している
+2 appointing：任命している、（日時などを）決めている
+3 restating：言い直している、くり返し述べている
+4 instigating：（争いなどを）けしかけている、引き起こしている
+【考え方】
+まず見るところ：空所の後ろの harmful chemicals into the atmosphere
+空所の後ろは harmful chemicals into the atmosphere（有害な化学物質を大気の中へ）です。atmosphere は「大気（地球をとりまく空気）」、chemicals は「化学物質」という意味です。「化学物質を大気の中へ（　）していた」という形なので、空所には「出す」に当たる動詞が入ると考えられます。
+文の前半は The factory was forced to close down（その工場は閉鎖に追いこまれた）です。be forced to do は「～させられる、～せざるをえなくなる」という意味です。閉鎖は、当局（authorities：役所など、取りしまる力を持つ機関）が何かを発見したときに起きています。ですから、工場は何か悪いことをしていたと考えられます。
+emit は「（ガスや光などを）出す、放出する」という意味で、emit ～ into the atmosphere で「～を大気中に放出する」になります。有害な物質を出していたのなら、閉鎖に追いこまれたこととつながるので、1が正解です。
+had been emitting は過去完了進行形（過去のある時点までずっと続いていたことを表す形）で、当局が発見したときまで放出が続いていたことを表しています。
+この問題の型：語の意味・組み合わせ（emit ～ into the atmosphere）／因果（有害物質を放出→閉鎖に追いこまれた）
+【ほかの選択肢】
+2 appointing は「（人を役職に）任命している」や「（日時などを）決めている」です。「有害な化学物質を大気の中へ任命していた」となり、意味が通りません。
+3 restating は「言い直している、くり返し述べている」です。言葉について使う語で、「化学物質を大気の中へ言い直していた」となり、意味が通りません。
+4 instigating は「（争いや騒ぎなどを）けしかけている、引き起こしている」です。目的語（動詞の後ろにきて「～を」に当たる語）には争いや騒ぎなどがくるので、化学物質と into the atmosphere とは組み合わせられません。
+【覚えるポイント】
+・emit：「（ガスや光などを）出す、放出する」。emit ～ into the atmosphere（～を大気中に放出する）のように使われます。
+・空所の後ろに「何を」「どこへ」（ここでは harmful chemicals と into the atmosphere）がそろっているときは、その両方とつながる動詞を選ぶと手がかりになります。

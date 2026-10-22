@@ -1,0 +1,31 @@
+---
+choices: major | upper | direct | elastic
+answerText: upper
+---
+【正解】2 upper（上の、上部の）
+【和訳】
+（英文）
+At the gym, Hugh did exercises to increase the strength of his ［upper］ body. After a few months, people began to comment on his big chest muscles.
+（訳）
+ジムで、ヒューは（上半身の）力を強くするための運動をしました。数か月後、人々は彼の大きな胸の筋肉について話題にし始めました。
+（選択肢の意味）
+1 major：主要な、大きいほうの
+2 upper：上の、上部の
+3 direct：直接の、まっすぐな
+4 elastic：伸び縮みする、弾力のある
+【考え方】
+まず見るところ：2文目の his big chest muscles
+空所のある文は次のとおりです。
+Hugh did exercises to increase the strength of his ( ) body（ヒューは自分の（　）体の力を強くするための運動をした）
+空所には、body（体）を説明する語が入ります。どの部分の体をきたえたのかを、2文目から考えます。
+people began to comment on his big chest muscles（人々は彼の大きな胸の筋肉について話題にし始めた）
+chest は「胸」、muscles は「筋肉」です。運動の成果として胸の筋肉が大きくなったのですから、きたえたのは胸をふくむ体の上のほうだと考えられます。
+upper body で「上半身（体の上の部分）」という意味になるので、2が正解です。
+この問題の型：語の意味・組み合わせ（upper body＝上半身）
+【ほかの選択肢】
+1 major は「主要な、大きいほうの」です。「主要な体の力」となり、体のどの部分をきたえたのかが分からず、胸の筋肉の話につながりません。
+3 direct は「直接の、まっすぐな」です。「直接の体」となり、意味が通りません。
+4 elastic は「伸び縮みする、弾力のある」です。「伸び縮みする体の力を強くする」となり、2文目の胸の筋肉が大きくなったという話とつながりません。
+【覚えるポイント】
+・upper body：「上半身」。upper は「上の、上部の」という意味です。
+・空所の語が体のどこを指すかを決める問題では、あとの文に出てくる体の部分（ここでは chest＝胸）が手がかりになります。

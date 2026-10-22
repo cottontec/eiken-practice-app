@@ -1,0 +1,33 @@
+---
+choices: Returning the marbles to Athens would result in a loss of interest in European art among the British public. | Although it would be ideal to display the marbles in Athens, they cannot be safely transported there. | It is in the best interest of the British public to keep the marbles in London because of the tourism the pieces attract to Britain. | The way the marbles are displayed in London allows them to be studied in a historical context.
+answerText: The way the marbles are displayed in London allows them to be studied in a historical context.
+---
+【正解】4 The way the marbles are displayed in London allows them to be studied in a historical context.（ロンドンでの大理石彫刻の展示のしかたによって、彫刻を歴史的な流れの中で研究することができる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one thing authorities at the British Museum say about the Elgin Marbles?（大英博物館の当局者がエルギン・マーブルについて言っていることの一つは何か。）
+1 Returning the marbles to Athens would result in a loss of interest in European art among the British public.（大理石彫刻をアテネに返すと、イギリスの人々の間でヨーロッパの美術への関心が失われるだろう。）
+2 Although it would be ideal to display the marbles in Athens, they cannot be safely transported there.（大理石彫刻をアテネで展示するのが理想的だろうが、そこへ安全に運ぶことはできない。）
+3 It is in the best interest of the British public to keep the marbles in London because of the tourism the pieces attract to Britain.（彫刻がイギリスに呼びこむ観光のために、大理石彫刻をロンドンに置いておくことがイギリスの人々にとって最も利益になる。）
+4 The way the marbles are displayed in London allows them to be studied in a historical context.（ロンドンでの大理石彫刻の展示のしかたによって、彫刻を歴史的な流れの中で研究することができる。）
+【考え方】
+まず見るところ：第3段落の Moreover, they argue that displaying the marbles alongside works from European cultures ～
+大英博物館の当局者（authorities）の考えは、第3段落の後半に書かれています。まず、次の文があります。
+Authorities there believe the ability to study and research the marbles in London has contributed to a greater international appreciation for Greek cultural heritage.（大英博物館の当局者は、ロンドンで大理石彫刻を研究・調査できることが、ギリシャの文化遺産が国際的により高く評価されることに貢献してきたと考えている）
+さらに、Moreover（さらに）で次の主張が続きます。
+Moreover, they argue that displaying the marbles alongside works from European cultures that both influenced and were influenced by Greek sculpture allows for a historical comparison of European art.（さらに、彼らは、ギリシャの彫刻に影響を与え、またギリシャの彫刻から影響を受けたヨーロッパの文化の作品と並べて大理石彫刻を展示することで、ヨーロッパの美術を歴史的に比べることができると主張している）
+alongside ～ は「～と並べて」、allow for ～ は「～を可能にする」という意味です。
+本文と選択肢4を対にすると、次のようになります。
+・本文 displaying the marbles alongside works from European cultures（ヨーロッパの文化の作品と並べて彫刻を展示すること）＝ 選択肢 The way the marbles are displayed in London（ロンドンでの彫刻の展示のしかた）
+・本文 allows for a historical comparison of European art（ヨーロッパの美術を歴史的に比べることを可能にする）＝ 選択肢 allows them to be studied in a historical context（歴史的な流れの中で研究できるようにする）
+よって4が正解です。
+この問題の型：言いかえ（historical comparison ＝ studied in a historical context）
+【ほかの選択肢】
+1 本文にありません。当局者は、ロンドンで研究できることがギリシャの文化遺産への国際的な評価を高めたと言っていますが、返還するとイギリスの人々がヨーロッパの美術への関心を失うとは言っていません。
+2 本文にありません。当局者は、アテネで展示するのが理想的だとは言っていません。また、彫刻を安全に運べないという話もありません。第4段落の大気汚染の話は、ギリシャで彫刻をきちんと管理できるかという問題で、大英博物館の当局者の発言ではありません。
+3 一部だけ本文と合います。毎年何百万人もの人が大英博物館を訪れることは書かれていますが、当局者が「観光のためにロンドンに置くのがイギリスの人々にとって最も利益になる」と言ったとは書かれていません。当局者が挙げているのは、研究や比較ができるという理由です。
+【覚えるポイント】
+・alongside ～：「～と並べて」。allow for ～：「～を可能にする」。appreciation：「（よさを）認めること、評価」。
+・「だれが何と言っているか」をたずねる設問では、Authorities there believe ～ や they argue ～ のように発言した人を示す部分を探し、ほかの人の話（ここでは訪問者の数や第4段落のギリシャ側の話）と区別するのが手がかりになります。

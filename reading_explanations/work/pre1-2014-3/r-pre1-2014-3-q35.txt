@@ -1,0 +1,35 @@
+---
+choices: White fat is present in mammals of all ages, while brown fat is only found in infant mammals. | In human babies, white fat serves mainly to regulate body temperature, while brown fat has multiple functions. | Brown fat provides mammals with protection from the cold by burning energy, while white fat stores energy. | Weight-loss and dieting research tends to focus on brown fat, while white fat is often ignored.
+answerText: Brown fat provides mammals with protection from the cold by burning energy, while white fat stores energy.
+---
+【正解】3 Brown fat provides mammals with protection from the cold by burning energy, while white fat stores energy.（褐色脂肪はエネルギーを燃やすことで哺乳類を寒さから守るが、白色脂肪はエネルギーをたくわえる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one difference between white fat and brown fat?（白色脂肪と褐色脂肪の違いの一つは何か。）
+1 White fat is present in mammals of all ages, while brown fat is only found in infant mammals.（白色脂肪はあらゆる年齢の哺乳類にあるが、褐色脂肪は哺乳類の赤ちゃんにしか見られない。）
+2 In human babies, white fat serves mainly to regulate body temperature, while brown fat has multiple functions.（人間の赤ちゃんでは、白色脂肪は主に体温を調節する働きをするが、褐色脂肪にはいくつもの働きがある。）
+3 Brown fat provides mammals with protection from the cold by burning energy, while white fat stores energy.（褐色脂肪はエネルギーを燃やすことで哺乳類を寒さから守るが、白色脂肪はエネルギーをたくわえる。）
+4 Weight-loss and dieting research tends to focus on brown fat, while white fat is often ignored.（減量やダイエットの研究は褐色脂肪に注目しがちで、白色脂肪はしばしば無視される。）
+【考え方】
+まず見るところ：第2段落の white fat, mainly functions as a way to store energy と、Brown fat, on the other hand, burns calories in order to warm the body.
+第2段落で、2種類の脂肪が比べられています。まず白色脂肪です。
+The more visible kind, white fat, mainly functions as a way to store energy.（より目に見えやすい種類である白色脂肪は、主にエネルギーをたくわえる手段として働く）
+次に、on the other hand（一方）で褐色脂肪の説明が続きます。
+Brown fat, on the other hand, burns calories in order to warm the body.（一方、褐色脂肪は、体を温めるためにカロリーを燃やす）
+Some animals rely on their brown fat stores for protection from the winter cold.（動物の中には、冬の寒さから身を守るために、たくわえた褐色脂肪に頼るものもいる）
+カロリーは、食べ物から得られるエネルギーの量のことです。
+本文と選択肢3を対にすると、次のようになります。
+・本文 burns calories in order to warm the body（体を温めるためにカロリーを燃やす）＝ 選択肢 by burning energy（エネルギーを燃やすことで）
+・本文 for protection from the winter cold（冬の寒さから身を守るために）＝ 選択肢 provides mammals with protection from the cold（哺乳類を寒さから守る）
+・本文 white fat, mainly functions as a way to store energy（白色脂肪は主にエネルギーをたくわえる手段として働く）＝ 選択肢 white fat stores energy（白色脂肪はエネルギーをたくわえる）
+よって3が正解です。
+この問題の型：対比（white fat ⇔ brown fat, on the other hand）と言いかえ
+【ほかの選択肢】
+1 「褐色脂肪は哺乳類の赤ちゃんにしか見られない」が本文と違います。本文には、冬の寒さに備えて褐色脂肪に頼る動物がいることや、エネルベック博士が大人の人間にも褐色脂肪があることを確かめたことが書かれています。only（～だけ）が言い切りすぎです。
+2 本文と反対です。本文では、赤ちゃんが体温を一定に保つために使うのは褐色脂肪で、白色脂肪ではありません。また、褐色脂肪に「いくつもの働きがある」とも書かれていません。
+4 本文にありません。第1段落には、褐色脂肪が人がやせる手助けになるかもしれないという研究が紹介されていますが、減量の研究で白色脂肪が無視されているとは書かれていません。
+【覚えるポイント】
+・store energy：「エネルギーをたくわえる」。burn calories：「カロリーを燃やす（使う）」。
+・2つのものの違いをたずねる設問では、本文の on the other hand（一方）や while（～だが）の前後で、それぞれの説明を分けて読むのが手がかりになります。

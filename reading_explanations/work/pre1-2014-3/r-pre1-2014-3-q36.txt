@@ -1,0 +1,32 @@
+---
+choices: using imaging technology to examine tumors for evidence of brown fat cell activity. | focusing on a part of the body that is known to show levels of heat production often thought to be associated with cancer. | examining fat cells in a number of people whose bodies were burning fewer calories than average. | comparing the activity of various cancer cells at low temperatures to see which ones remained more active.
+answerText: focusing on a part of the body that is known to show levels of heat production often thought to be associated with cancer.
+---
+【正解】2 focusing on a part of the body that is known to show levels of heat production often thought to be associated with cancer.（がんと関係があるとよく考えられる程度の熱を出すことで知られる、体の部分に注目すること。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Dr. Sven Enerbäck tested his theory by（スベン・エネルベック博士は、～によって自分の説を確かめた。）
+1 using imaging technology to examine tumors for evidence of brown fat cell activity.（画像技術を使って、褐色脂肪の細胞が活動しているしるしがないかどうか腫瘍を調べること。）
+2 focusing on a part of the body that is known to show levels of heat production often thought to be associated with cancer.（がんと関係があるとよく考えられる程度の熱を出すことで知られる、体の部分に注目すること。）
+3 examining fat cells in a number of people whose bodies were burning fewer calories than average.（体が燃やすカロリーが平均より少ない何人もの人の脂肪細胞を調べること。）
+4 comparing the activity of various cancer cells at low temperatures to see which ones remained more active.（どのがん細胞がより活発なままかを見るために、低い温度でさまざまながん細胞の活動を比べること。）
+【考え方】
+まず見るところ：第3段落の Enerbäck concentrated his search on his subjects' necks, ～
+エネルベック博士の説（theory）は、第3段落の初めにある「人間は大人になっても褐色脂肪をいくらか持ち続けているかもしれない」という考えです。それを確かめるために、彼は「ホットスポット」（細胞が熱を生み出すために余分な血糖を燃やしている場所）を探す画像技術を使いました。ホットスポットは、多くの場合、腫瘍（体の中で細胞が異常に増えてできるかたまり）のしるしです。
+そのうえで、調べる場所をしぼりました。
+Enerbäck concentrated his search on his subjects' necks, an area where hot spots often give false-positive cancer test results.（エネルベックは被験者の首に的をしぼって調べた。首は、ホットスポットがしばしばがん検査で偽陽性を示す部分である）
+false-positive は「偽陽性（本当はがんではないのに、がんがあるように出る結果）」です。つまり首は、がんのしるしと思われるような熱がよく見つかる場所だということです。
+本文と選択肢2を対にすると、次のようになります。
+・本文 concentrated his search on his subjects' necks（被験者の首に的をしぼって調べた）＝ 選択肢 focusing on a part of the body（体の部分に注目すること）
+・本文 an area where hot spots often give false-positive cancer test results（ホットスポットがしばしばがん検査で偽陽性を示す部分）＝ 選択肢 that is known to show levels of heat production often thought to be associated with cancer（がんと関係があるとよく考えられる程度の熱を出すことで知られる）
+ホットスポットは「熱を出している場所」なので、heat production（熱を出すこと）と言いかえられています。よって2が正解です。
+この問題の型：言いかえ（hot spots ＝ heat production、false-positive cancer test results ＝ often thought to be associated with cancer）
+【ほかの選択肢】
+1 一部だけ正しい選択肢です。画像技術を使ったことは本文と合いますが、エネルベックが調べたのは首のホットスポットで、腫瘍の中に褐色脂肪の活動のしるしを探したわけではありません。首のホットスポットは、がんではないのにがんのように見えるものでした。
+3 本文にありません。燃やすカロリーが平均より少ない人々を選んで調べたという話は書かれていません。
+4 本文と違います。エネルベックは被験者を軽い寒さにさらし、その褐色脂肪の細胞が以前よりはるかに活発であることを見つけました。低い温度で比べたのはがん細胞ではありません。
+【覚えるポイント】
+・concentrate A on B：「AをBに集中させる」。false-positive：「偽陽性（本当は違うのに、あるように出る結果）」。
+・「どうやって確かめたか」をたずねる設問では、正解の選択肢が本文の具体的な言葉（ここでは necks や hot spots）を、a part of the body や heat production のように広い言葉に言いかえていることが多いです。

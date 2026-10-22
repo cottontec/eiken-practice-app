@@ -1,0 +1,27 @@
+---
+choices: could not come to a conclusion | regretted not saving their money | had changed their minds | had ignored the researcher's advice
+answerText: had changed their minds
+---
+【正解】3 had changed their minds（考えを変えていた）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 could not come to a conclusion（結論を出すことができなかった）
+2 regretted not saving their money（お金を貯金しなかったことを後悔した）
+3 had changed their minds（考えを変えていた）
+4 had ignored the researcher's advice（研究者の助言を無視していた）
+【考え方】
+まず見るところ：第2段落の Before spending, ～ と、空所のあとの The majority reported that ～
+空所は第2段落の the respondents' answers generally showed that they (27).（回答者たちの答えはおおむね、彼らが（27）ことを示していた）です。respondent は「回答者（質問に答えた人）」です。お金を使う前と後で、回答者の考えがどうだったかを比べます。
+Before spending, most respondents expressed the belief that an experience might be more enjoyable but a new possession would be worth more to them.（お金を使う前には、回答者のほとんどが、経験のほうが楽しいかもしれないが、新しい持ち物のほうが自分にとって価値が大きいだろう、という考えを示した）
+The majority reported that life experiences had given them more value for their money.（大多数の人が、人生の経験のほうが、払ったお金に対してより多くの価値を与えてくれたと答えた）
+お金を使う前は「物のほうが価値が大きい」と考えていたのに、使ったあとは「経験のほうが価値が大きかった」と答えています。つまり、考えが反対に変わったのです。change one's mind は「考えを変える」という意味なので、3が正解です。
+この問題の型：対比（使う前の考え ⇔ 使ったあとの答え）
+【ほかの選択肢】
+1 「結論を出すことができなかった」は、空所のあとで大多数の人が「経験のほうが価値が大きかった」とはっきり答えていることと合いません。
+2 「お金を貯金しなかったことを後悔した」という話は、本文にありません。回答者たちは、お金を使った経験に価値があったと答えています。
+4 研究者が回答者に助言をした、という話は本文にありません。ハウエルは、使う前と後に話を聞いただけです。
+【覚えるポイント】
+・change one's mind：「考えを変える」。
+・Before ～（～する前は）と after ～（～したあとは）で同じ人たちの考えが比べられているときは、「考えが変わった」ことが話の中心になっていることが多いです。前とあとの内容が反対になっているかを確かめましょう。

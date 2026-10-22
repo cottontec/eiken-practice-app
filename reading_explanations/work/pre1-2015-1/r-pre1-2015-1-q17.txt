@@ -1,0 +1,30 @@
+---
+choices: fatigue | literacy | friction | ignition
+answerText: fatigue
+---
+【正解】1 fatigue（疲労、ひどい疲れ）
+【和訳】
+（英文）
+When Camilla finished the project after 24 hours of nonstop work, she was overcome by ［fatigue］, so she went straight to bed.
+（訳）
+24時間休みなしで働いてそのプロジェクトを終えたとき、カミラは（疲労）にすっかりまいってしまったので、まっすぐベッドに向かった。
+（選択肢の意味）
+1 fatigue：疲労、ひどい疲れ
+2 literacy：読み書きの能力
+3 friction：摩擦（こすれ合うこと）、（人と人との）あつれき
+4 ignition：点火、（車の）エンジンをかける装置
+【考え方】
+まず見るところ：after 24 hours of nonstop work と so she went straight to bed
+カミラは after 24 hours of nonstop work（24時間休みなしの作業のあと）でプロジェクトを終えました。nonstop は「休みなしの」です。
+空所のある部分は she was overcome by (　) です。be overcome by ～ は「～に打ち負かされる、～ですっかりまいってしまう」という意味です。
+そのあとに結果が続きます。
+so she went straight to bed（だから、まっすぐベッドに向かった）
+24時間休まず働いて、そのまますぐ寝たのですから、カミラはひどく疲れていたと考えられます。fatigue は「疲労、ひどい疲れ」なので、1が正解です。
+この問題の型：因果（24時間休みなし → 疲労 → so まっすぐ寝た）
+【ほかの選択肢】
+2 literacy は「読み書きの能力」です。「読み書きの能力にまいってしまったので寝た」となり、意味が通りません。
+3 friction は「摩擦、あつれき」です。だれかとの対立は書かれておらず、「まっすぐ寝た」理由になりません。
+4 ignition は「点火」です。火をつけることや車のエンジンについて使う語で、人がまいってしまうものではありません。
+【覚えるポイント】
+・fatigue：「疲労、ひどい疲れ」。be overcome by fatigue で「疲労ですっかりまいってしまう」。
+・空所の前に原因（長時間の作業）、後ろに so ～（だから～）の結果があるときは、両方をつなぐ語を選ぶことが手がかりになります。

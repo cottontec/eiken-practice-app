@@ -1,0 +1,30 @@
+---
+choices: the possible influence of people's expressions | the negative feelings toward certain letters | the possible effect of their rooms | the negative influence of outside noise
+answerText: the possible influence of people's expressions
+---
+【正解】1 the possible influence of people's expressions（人々の表情が与えるかもしれない影響）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 the possible influence of people's expressions（人々の表情が与えるかもしれない影響）
+2 the negative feelings toward certain letters（特定の文字に対するよくない感情）
+3 the possible effect of their rooms（彼らの部屋が与えるかもしれない影響）
+4 the negative influence of outside noise（外の騒音による悪い影響）
+【考え方】
+まず見るところ：第2段落の空所の前の using letters instead of pictures
+最初の実験で使われたものを確かめます。
+he showed college students pictures of people's faces from a graduation album（彼は大学生たちに、卒業アルバムからとった人々の顔写真を見せた）
+次に、空所のある文を見ます。
+Zajonc also did the same experiment using letters instead of pictures to avoid (22).（ザイアンスは、（22）を避けるために、写真の代わりに文字を使って同じ実験も行った）
+instead of ～ は「～の代わりに」、avoid は「避ける」です。顔写真をやめて文字に変えることで避けられるものが、空所に入ります。
+顔写真には、にこにこしている、こわそうだ、といった表情があります。学生が写真を好きになったのは、見た回数ではなく表情のせいかもしれません。文字には表情がないので、文字を使えばその心配をなくせると考えられます。
+expression は「表情」なので、「人々の表情が与えるかもしれない影響を避けるために」となり、1が正解です。
+この問題の型：推論（顔写真から文字に変えた→表情の影響をなくすため）
+【ほかの選択肢】
+2 「特定の文字に対するよくない感情を避けるために、文字を使った」となります。文字への感情を避けたいなら文字を使うのはおかしいので、話の筋が通りません。
+3 「彼らの部屋が与えるかもしれない影響を避けるために、写真の代わりに文字を使った」となります。部屋の話は本文になく、写真を文字に変えても部屋の影響がなくなるわけではないので、つながりません。
+4 「外の騒音による悪い影響を避けるために、写真の代わりに文字を使った」となります。騒音の話は本文になく、写真を文字に変えても騒音は防げないので、つながりません。
+【覚えるポイント】
+・expression：「表情」。people's expressions で「人々の表情」です。
+・instead of A（Aの代わりに）を使って実験を変えた理由を問われたときは、「AにはあってBにはないもの」を考えると手がかりになります（ここでは顔写真にはあって文字にはない「表情」）。

@@ -1,0 +1,28 @@
+---
+choices: lay into | get back | stumble on | turn away
+answerText: turn away
+---
+【正解】4 turn away（～を追い返す、〔入るのを〕断る）
+【和訳】
+（英文）
+The restaurant is so popular that every day the staff has to ［turn away］ customers because there are no free tables.
+（訳）
+そのレストランはとても人気があるので、空いているテーブルがないため、店員は毎日お客さんを（断ら）なければならない。
+（選択肢の意味）
+1 lay into：～を激しく責める、～に殴りかかる
+2 get back：～を取り戻す、戻る
+3 stumble on：～を偶然見つける
+4 turn away：～を追い返す、（入るのを）断る
+【考え方】
+まず見るところ：文の最後の because there are no free tables
+この文は so ～ that ...（とても～なので…）の形で、レストランがとても人気がある結果が that のあとに書かれています。
+because there are no free tables（空いているテーブルがないので）
+空いているテーブルがないとき、店員が来たお客さんにすることは、「入れないと断る」ことです。turn away は「～を追い返す、（入るのを）断る」という意味なので、4が正解です。
+この問題の型：因果（空いているテーブルがない → お客さんを断る）
+【ほかの選択肢】
+1 lay into は「～を激しく責める」です。席がないことを理由に、店員がお客さんを激しく責めるというのは、話の流れに合いません。
+2 get back は「～を取り戻す」です。「空いているテーブルがないので、お客さんを取り戻す」となり、意味が通りません。
+3 stumble on は「～を偶然見つける」です。毎日お客さんを偶然見つけなければならない、となり、意味が通りません。
+【覚えるポイント】
+・turn away ～：「～を追い返す、（入るのを）断る」。
+・because のあとに書かれた理由（ここでは no free tables）は、空所の行動を決める手がかりになるので、その理由から自然に起こる行動を選びましょう。

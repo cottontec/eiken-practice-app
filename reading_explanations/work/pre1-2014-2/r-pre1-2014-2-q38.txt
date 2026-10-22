@@ -1,0 +1,33 @@
+---
+choices: Philippe Bunau-Varilla tried to keep the U.S. government from learning of the danger posed by Nicaragua's Momotombo Volcano. | The French government tried to convince U.S. officials to continue constructing the canal they had begun in Nicaragua. | Philippe Bunau-Varilla persuaded the U.S. government to give up its original plans to build a canal across Nicaragua. | The Nicaraguan government prevented U.S. business leaders from going ahead with their plans for a canal across Nicaragua.
+answerText: Philippe Bunau-Varilla persuaded the U.S. government to give up its original plans to build a canal across Nicaragua.
+---
+【正解】3 Philippe Bunau-Varilla persuaded the U.S. government to give up its original plans to build a canal across Nicaragua.（フィリップ・ビュノー＝バリーヤは、ニカラグアを横切る運河を造るという当初の計画をあきらめるよう、アメリカ政府を説得した。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What happened in the early 1900s?（1900年代の初めに何が起こったか。）
+1 Philippe Bunau-Varilla tried to keep the U.S. government from learning of the danger posed by Nicaragua's Momotombo Volcano.（フィリップ・ビュノー＝バリーヤは、ニカラグアのモモトンボ火山がもたらす危険をアメリカ政府に知られないようにしようとした。）
+2 The French government tried to convince U.S. officials to continue constructing the canal they had begun in Nicaragua.（フランス政府は、ニカラグアで始めていた運河の建設を続けるよう、アメリカの当局者たちを説得しようとした。）
+3 Philippe Bunau-Varilla persuaded the U.S. government to give up its original plans to build a canal across Nicaragua.（フィリップ・ビュノー＝バリーヤは、ニカラグアを横切る運河を造るという当初の計画をあきらめるよう、アメリカ政府を説得した。）
+4 The Nicaraguan government prevented U.S. business leaders from going ahead with their plans for a canal across Nicaragua.（ニカラグア政府は、アメリカの実業界の指導者たちが、ニカラグアを横切る運河の計画を進めるのをさまたげた。）
+【考え方】
+まず見るところ：第1段落の In 1902, French engineer Philippe Bunau-Varilla was lobbying ～ から段落の最後まで
+設問の the early 1900s（1900年代の初め）に当たるのは、第1段落の In 1902（1902年）の部分です。
+In 1902, French engineer Philippe Bunau-Varilla was lobbying the United States to back a canal in Panama that had been abandoned, half-finished, by France.（1902年、フランス人技師のフィリップ・ビュノー＝バリーヤは、フランスが半分完成させたまま放棄していたパナマの運河を支援するよう、アメリカに働きかけていた）
+lobby は「（政治家などに）働きかける」、back は「支援する、後押しする」、abandon は「放棄する、見捨てる」という意味です。
+To emphasize the risks of digging across Nicaragua, he sent hundreds of U.S. lawmakers a Nicaraguan stamp ～.（ニカラグアを横切って掘ることの危険を強調するために、彼は何百人ものアメリカの議員にニカラグアの切手を送った）
+This convinced them to shift their support to the site in Panama.（これによって議員たちは、支持をパナマの場所へ移すことにした）
+1800年代のアメリカは、ニカラグアと協定を結び、ニカラグアのルートを考えていました。ビュノー＝バリーヤは、火山の切手で危険を強調し、議員たちの支持をパナマへ移させたのです。
+本文と選択肢を対にすると、次のようになります。
+本文 This convinced them to shift their support to the site in Panama.（これによって議員たちは、支持をパナマの場所へ移すことにした）→ 選択肢 persuaded the U.S. government to give up its original plans to build a canal across Nicaragua（ニカラグアを横切る運河の当初の計画をあきらめるよう、アメリカ政府を説得した）
+支持をニカラグアからパナマへ「移した」ことが、ニカラグアの計画を「あきらめた」ことに当たります。ですから3が正解です。
+この問題の型：言いかえ（支持をパナマへ移す→ニカラグアの計画をあきらめる）
+【ほかの選択肢】
+1 本文と反対です。ビュノー＝バリーヤは、火山の危険を「隠そう」としたのではなく、To emphasize the risks（危険を強調するために）火山の切手を議員に送りました。
+2 本文と合いません。フランスが途中で放棄した運河は Panama（パナマ）にあったもので、ニカラグアではありません。また、アメリカに働きかけたのはフランス人技師のビュノー＝バリーヤで、フランス政府がそうしたとは書かれていません。
+4 本文に書かれていません。アメリカが決定を下せなかったのは、concerns about regional politics and the threat posed by earthquakes and volcanos（地域の政治情勢への心配や、地震と火山がもたらす危険）のためでした。ニカラグア政府がさまたげたという話はなく、むしろアメリカの人々はニカラグアと協定を結んでいました。
+【覚えるポイント】
+・convince A to ～：「Aを説得して～させる」。shift one's support to ～：「支持を～へ移す」。
+・年代をたずねる設問（ここでは the early 1900s）では、本文の年号（ここでは In 1902）を探し、その前後の出来事を読むのが手がかりになります。

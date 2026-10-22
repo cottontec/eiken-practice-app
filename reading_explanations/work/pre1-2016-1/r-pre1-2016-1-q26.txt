@@ -1,0 +1,30 @@
+---
+choices: increase will be gradual | law is often ignored | city will give businesses money | economy has improved so much
+answerText: increase will be gradual
+---
+【正解】1 increase will be gradual（〔the と合わせて〕引き上げは段階的に行われる）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 increase will be gradual（〔the と合わせて〕引き上げは段階的に〔少しずつ〕行われる）
+2 law is often ignored（〔the と合わせて〕その法律はしばしば無視される）
+3 city will give businesses money（〔the と合わせて〕市が企業にお金を与える）
+4 economy has improved so much（〔the と合わせて〕経済がとても大きく良くなった）
+【考え方】
+まず見るところ：空所のすぐあとの To support their argument, they point to the fact that ～
+第1段落では、最低賃金（働く人に払わなければならない最低の給料）の引き上げを批判する人々の考えが書かれています。賃金が上がると、企業は今ほど多くの人を雇えなくなり、生き残るのも難しくなるかもしれない、という心配です。
+第2段落は、それに対する支持者の考えです。
+Supporters of a higher minimum wage, however, say this will not be a problem because the (26).（しかし、最低賃金の引き上げを支持する人々は、（26）ので、これは問題にならないと言う）
+空所には「問題にならない理由」が入ります。
+その理由は、すぐあとの文で裏づけられています。
+To support their argument, they point to the fact that San Francisco is making sure businesses can adjust to the changes without cutting staff—its plan involves raising the minimum wage by just a dollar or so per year over the course of four years.（自分たちの主張を裏づけるために、彼らは、サンフランシスコが、企業が従業員を減らさずに変化に対応できるように気を配っているという事実を挙げる――市の計画には、4年間かけて、最低賃金を1年にわずか1ドルほどずつ引き上げることが含まれているのだ）
+「4年かけて、1年に1ドルほどずつ」上げるということは、一度に上げるのではなく、少しずつ上げるということです。gradual は「段階的な、少しずつの」という意味なので、the increase will be gradual（引き上げは段階的に行われる）が理由として合います。ですから1が正解です。
+この問題の型：言いかえ（by just a dollar or so per year over the course of four years ＝ gradual）
+【ほかの選択肢】
+2 「その法律はしばしば無視される」を入れると、「法律が守られないから問題にならない」という理由になります。しかし本文では、市が1年に1ドルほどずつ確実に賃金を上げる計画だと書かれていて、法律が無視されるという話はありません。
+3 「市が企業にお金を与える」を入れると、市の援助があるから問題ないという理由になります。しかし本文で挙げられている裏づけは、賃金を少しずつ上げる計画であり、市が企業にお金を渡すとは書かれていません。
+4 「経済がとても大きく良くなった」を入れると、景気がよいから問題ないという理由になります。しかし、すぐあとの文の裏づけは賃金の上げ方についての話で、経済がすでに良くなったことは書かれていません。
+【覚えるポイント】
+・gradual：「段階的な、少しずつの」。
+・空所のすぐあとに To support their argument（自分たちの主張を裏づけるために）とあるときは、そのあとに書かれた具体的な事実が、空所の主張をそのまま支えているはずです。具体的な内容を短くまとめた選択肢を選びましょう。

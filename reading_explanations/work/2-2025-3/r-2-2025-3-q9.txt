@@ -1,0 +1,32 @@
+---
+choices: wealth | rage | ignorance | poverty
+answerText: ignorance
+---
+【正解】3 ignorance（知らないこと、無知）
+【和訳】
+（英文）
+Arguments often result from people's ［ignorance］ of each other's ways, so it is important for everyone to try to understand the people around them.
+（訳）
+口論は、人々がお互いのやり方を（知らないこと）から起こることがよくあります。ですから、だれもが周りの人々を理解しようとすることが大切です。
+（選択肢の意味）
+1 wealth：富、財産
+2 rage：激しい怒り
+3 ignorance：知らないこと、無知
+4 poverty：貧しさ、貧困
+【考え方】
+まず見るところ：文の後半の so it is important for everyone to try to understand the people around them
+前半は次のとおりです。
+Arguments often result from people's ( ) of each other's ways（口論は、人々のお互いのやり方の（　）から起こることがよくある）
+argument は「口論、言い争い」、result from ～ は「～から生じる、～が原因で起こる」です。空所には口論の原因が入ります。
+後半は次のとおりです。
+so it is important for everyone to try to understand the people around them（だから、だれもが周りの人々を理解しようとすることが大切だ）
+so（だから）のあとで「理解しようとすることが大切だ」と言っています。解決策が「理解すること」なので、原因は「相手のことを分かっていないこと」だと考えられます。
+ignorance は「知らないこと、無知」で、ignorance of ～ で「～を知らないこと」となるので、3が正解です。
+この問題の型：因果（相手のやり方を知らない→口論になる→だから理解しようとすることが大切）
+【ほかの選択肢】
+1 wealth は「富、財産」です。「お互いのやり方の富」となり、意味が通りません。
+2 rage は「激しい怒り」です。「お互いのやり方の激しい怒り」となり、意味が通りません。また、後半の「理解しようとすることが大切」という解決策とも結びつきません。
+4 poverty は「貧しさ」です。「お互いのやり方の貧しさ」となり、お金の話は文のどこにも出てこないので合いません。
+【覚えるポイント】
+・ignorance：「知らないこと、無知」。ignorance of ～ で「～を知らないこと」です。形容詞は ignorant（知らない）です。
+・result from ～：「～から生じる」。原因を選ぶ問題では、so（だから）のあとの解決策から逆に原因を考えると手がかりになります。

@@ -1,0 +1,32 @@
+---
+choices: take a chance | make a mess | take a break | make a living
+answerText: make a mess
+---
+【正解】2 make a mess（散らかす）
+【和訳】
+（英文）
+When children play with toys, it is natural for them to ［make a mess］. Parents should teach them to clean up afterward.
+（訳）
+子どもがおもちゃで遊ぶとき、（散らかしてしまう）のは自然なことです。親は、あとで片づけるように子どもに教えるべきです。
+（選択肢の意味）
+1 take a chance：思い切ってやってみる
+2 make a mess：散らかす
+3 take a break：ひと休みする
+4 make a living：生計を立てる
+【考え方】
+まず見るところ：2文目の clean up afterward
+空所のある文は次のとおりです。
+When children play with toys, it is natural for them to ( ).（子どもがおもちゃで遊ぶとき、（　）のは自然なことだ）
+it is natural for ～ to ... は「～が…するのは自然なことだ」という意味です。子どもがおもちゃで遊ぶときに自然にしてしまうことを考えます。
+2文目は次のとおりです。
+Parents should teach them to clean up afterward.（親は、あとで片づけるように子どもに教えるべきだ）
+clean up は「片づける、きれいにする」です。あとで片づける必要があるのは、遊んでいる間に散らかしたからです。
+make a mess は「散らかす、ごちゃごちゃにする」という意味なので、2が正解です。
+この問題の型：熟語・決まった形（make a mess）／因果（散らかす→あとで片づける）
+【ほかの選択肢】
+1 take a chance は「思い切ってやってみる」です。「子どもがおもちゃで遊ぶとき、思い切ってやってみるのは自然だ」となり、あとで片づけるという2文目とつながりません。
+3 take a break は「ひと休みする」です。ひと休みすることは、あとで片づけなければならない理由にならないので合いません。
+4 make a living は「生計を立てる（働いて生活に必要なお金を得る）」です。おもちゃで遊ぶ子どもの話に合いません。
+【覚えるポイント】
+・make a mess：「散らかす」。反対の動作は clean up（片づける）です。
+・あとの文に clean up（片づける）が出てきたら、その前に「散らかす」ような内容があると考えると、空所を選ぶ手がかりになります。

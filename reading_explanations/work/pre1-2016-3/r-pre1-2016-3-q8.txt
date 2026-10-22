@@ -1,0 +1,30 @@
+---
+choices: blister | heed | crumb | fluke
+answerText: heed
+---
+【正解】2 heed（注意、心に留めること）
+【和訳】
+（英文）
+Robert paid no ［heed］ to his doctor's warnings about his unhealthy lifestyle, continuing to smoke, drink, and eat junk food every day.
+（訳）
+ロバートは、健康によくない生活習慣についての医師の警告に（まったく注意を払わず）、毎日たばこを吸い、お酒を飲み、ジャンクフードを食べ続けました。
+（選択肢の意味）
+1 blister：（皮膚の）水ぶくれ
+2 heed：注意、心に留めること
+3 crumb：（パンなどの）くず、かけら
+4 fluke：まぐれ、思いがけない幸運
+【考え方】
+まず見るところ：空所の前の paid no と、文の後半の continuing to smoke, drink, and eat junk food every day
+空所の部分は paid no ( ) to his doctor's warnings（医師の警告に（　）を払わなかった）です。
+文の後半は次のとおりです。
+continuing to smoke, drink, and eat junk food every day（毎日たばこを吸い、お酒を飲み、ジャンクフードを食べ続けた）
+医師から警告されたのに、健康によくない生活を続けたのですから、ロバートは警告を気にしなかったのです。
+heed は「注意、心に留めること」という意味の名詞で、pay no heed to ～ で「～にまったく注意を払わない、～を気にかけない」という決まった形になります。後半の内容とぴったり合うので、2が正解です。
+この問題の型：熟語・決まった形（pay no heed to ～）
+【ほかの選択肢】
+1 blister は「（皮膚の）水ぶくれ」です。「警告に水ぶくれを払わなかった」となり、意味が通りません。
+3 crumb は「（パンなどの）くず、かけら」です。「警告にパンくずを払わなかった」となり、意味が通りません。
+4 fluke は「まぐれ、思いがけない幸運」です。pay ～ to の形と合わず、警告を無視して生活を変えなかったという後半ともつながりません。
+【覚えるポイント】
+・pay no heed to ～：「～にまったく注意を払わない」。pay attention to ～（～に注意を払う）と同じように pay と to の間に名詞が入る形です。
+・空所の前後に pay ～ to のような決まった形の一部が見えているときは、その形に入る名詞を思い出し、後半の行動（ここでは警告を無視して不健康な生活を続けたこと）と合うかを確かめると手がかりになります。

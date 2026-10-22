@@ -1,0 +1,29 @@
+---
+choices: In short | On the contrary | For instance | Otherwise
+answerText: In short
+---
+【正解】1 In short（要するに、手短に言えば）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 In short（要するに、手短に言えば）
+2 On the contrary（それどころか、反対に）
+3 For instance（たとえば）
+4 Otherwise（そうでなければ）
+【考え方】
+まず見るところ：第3段落の She feels communities need to develop creative solutions と、空所のあとの parents will need support
+空所は第3段落の最後の文の初めにあります。まず、その前の文を見ます。
+She feels communities need to develop creative solutions, such as organizing shared kitchens or having schools provide healthy takeout meals that can be eaten by families at home.（彼女は、地域社会が、共同の台所を用意したり、家族が家で食べられる健康的な持ち帰りの食事を学校に用意してもらったりといった、工夫をこらした解決策を考え出す必要があると感じている）
+ここでボーエンは、親だけに料理をまかせるのではなく、地域社会や学校が手を貸す方法を挙げています。
+次に、空所のあとを見ます。
+if family meals are to survive in today's busy, fast-paced world, parents will need support in providing them（今日の忙しく目まぐるしい世界で家族の食事が生き残るためには、親は食事を用意するうえで支えを必要とするだろう）
+前の文の「地域社会や学校が工夫して手を貸す」という具体的な案を、「親には支えが必要だ」と短くまとめています。In short は「要するに」なので、1が正解です。
+この問題の型：具体例とまとめ（共同の台所・学校の持ち帰りの食事→In short, parents will need support）
+【ほかの選択肢】
+2 On the contrary は「それどころか、反対に」で、前の内容を打ち消すときに使います。空所のあとの「親には支えが必要だ」は、前の文の「地域社会が解決策を考える必要がある」と同じ方向の内容なので、合いません。
+3 For instance は「たとえば」で、あとに具体的な例が続きます。空所のあとは具体的な例ではなく、全体をまとめた考えなので、合いません。具体的な例は、前の文の such as ～ の部分に書かれています。
+4 Otherwise は「そうでなければ」です。「解決策を考える必要がある。そうでなければ、家族の食事が生き残るためには親は支えを必要とするだろう」となり、意味が通りません。
+【覚えるポイント】
+・In short：「要するに、手短に言えば」。
+・つなぎの言葉を選ぶときは、空所の前後が「同じ方向か、反対か」「具体的な例か、まとめか」を確かめると手がかりになります。段落の最後でそれまでの内容をまとめる文には、In short がよく使われます。

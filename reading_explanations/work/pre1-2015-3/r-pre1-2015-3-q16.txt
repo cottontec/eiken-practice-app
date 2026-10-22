@@ -1,0 +1,28 @@
+---
+choices: analysis | obligation | impulse | artifact
+answerText: obligation
+---
+【正解】2 obligation（義務）
+【和訳】
+（英文）
+The law states that an employer has an ［obligation］ to allow all female employees maternity leave regardless of how long they have worked at the company.
+（訳）
+法律は、雇い主には、その会社で働いてきた期間の長さに関係なく、すべての女性従業員に出産休暇を認める（義務）があると定めている。
+（選択肢の意味）
+1 analysis：分析（細かく分けて調べること）
+2 obligation：義務
+3 impulse：衝動（ついそうしたくなる、とっさの気持ち）
+4 artifact：人工物、（昔の人が作った）遺物
+【考え方】
+まず見るところ：文の初めの The law states that と、空所のあとの to allow
+文の初めの The law states that ～ は「法律は～と定めている」という意味です。法律が決めている内容が that のあとに書かれています。
+an employer has an (　) to allow all female employees maternity leave（雇い主には、すべての女性従業員に出産休暇を認める（　）がある）
+maternity leave は「出産休暇（子どもを産む前後に仕事を休めること）」です。法律が定めることで、雇い主が「しなければならないこと」を表すのは「義務」です。have an obligation to ～ で「～する義務がある」となるので、2が正解です。
+この問題の型：熟語・決まった形（have an obligation to ～）
+【ほかの選択肢】
+1 analysis は「分析」です。「雇い主には出産休暇を認める分析がある」となり、意味が通りません。
+3 impulse は「衝動（とっさにそうしたくなる気持ち）」です。法律が定めるのは、雇い主の気持ちではなく、しなければならないことなので、合いません。
+4 artifact は「人工物、遺物」です。「出産休暇を認める人工物がある」となり、意味が通りません。
+【覚えるポイント】
+・have an obligation to ～：「～する義務がある」。regardless of ～ は「～に関係なく」です。
+・The law states that ～（法律は～と定めている）のように、法律や規則の話のときは、「義務」「権利」など、決まりに関わる語が入る手がかりになります。

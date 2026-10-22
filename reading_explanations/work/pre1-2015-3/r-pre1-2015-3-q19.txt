@@ -1,0 +1,28 @@
+---
+choices: decoding | poaching | inhaling | sprinkling
+answerText: poaching
+---
+【正解】2 poaching（密猟）
+【和訳】
+（英文）
+Efforts are now being made to protect wild tigers in some parts of Asia, where ［poaching］ of the animals for their skin has led to a sharp decrease in numbers.
+（訳）
+アジアの一部の地域では、今、野生のトラを守る取り組みが行われている。そこでは、毛皮を目的としたトラの（密猟）が、数の急激な減少を招いてきた。
+（選択肢の意味）
+1 decoding：（暗号などの）解読
+2 poaching：密猟（禁じられているのに動物をとること）
+3 inhaling：（息などを）吸いこむこと
+4 sprinkling：（水や粉などを）まくこと、ふりかけること
+【考え方】
+まず見るところ：空所のあとの of the animals for their skin と、has led to a sharp decrease in numbers
+文の初めには、アジアの一部の地域で野生のトラを守る取り組みが行われていると書かれています。where 以下は、その地域で何が起きているかの説明です。
+(　) of the animals for their skin has led to a sharp decrease in numbers（毛皮を目的としたトラの（　）が、数の急激な減少を招いてきた）
+the animals は tigers（トラ）を指しています。トラの毛皮をとるために行われ、トラの数を大きく減らしてきたことは、トラをとらえたり殺したりすることです。poaching は「密猟（法律で禁じられているのに動物をとること）」なので、2が正解です。
+この問題の型：因果（密猟 → 数の急激な減少）
+【ほかの選択肢】
+1 decoding は「（暗号などの）解読」です。「毛皮のためのトラの解読」となり、意味が通りません。
+3 inhaling は「吸いこむこと」です。「トラを吸いこむこと」となり、意味が通りません。
+4 sprinkling は「（水などを）まくこと」です。「毛皮のためにトラをまくこと」となり、意味が通りません。
+【覚えるポイント】
+・poaching：「密猟（法律で禁じられているのに動物をとること）」。
+・for their skin（毛皮のために）や a sharp decrease in numbers（数の急激な減少）のように、目的と結果が書かれているときは、その両方をつなぐ行動を表す語が入る手がかりになります。

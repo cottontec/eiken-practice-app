@@ -1,0 +1,30 @@
+---
+choices: inflated | reconciled | bewildered | adored
+answerText: bewildered
+---
+【正解】3 bewildered（すっかり混乱した、わけが分からなくなった）
+【和訳】
+（英文）
+When Aaron moved to Tokyo, he was completely ［bewildered］ by the subway system, but after a few weeks he understood it well enough to get around.
+（訳）
+アーロンは東京に引っ越したとき、地下鉄のしくみにすっかり（混乱して、わけが分からなくなって）しまいましたが、数週間たつと、あちこち移動できるくらいには地下鉄のことが分かるようになりました。
+（選択肢の意味）
+1 inflated：ふくらまされた、大げさにされた
+2 reconciled：仲直りさせられた、（いやなことを）しかたなく受け入れた
+3 bewildered：すっかり混乱した、わけが分からなくなった
+4 adored：とても好かれた、あがめられた
+【考え方】
+まず見るところ：文の後半の but after a few weeks he understood it
+後半は次のとおりです。
+but after a few weeks he understood it well enough to get around（しかし数週間たつと、あちこち移動できるくらいにはそれが分かるようになった）
+it は前半の the subway system（地下鉄のしくみ）を指します。well enough to get around は「移動できるくらいには十分に」という意味です。
+but（しかし）でつながっているので、前半は「よく分かった」とは反対向きの内容になるはずです。つまり、引っ越したばかりのころは、地下鉄のしくみが「分からなかった」のです。
+bewildered は「（複雑なものなどに）すっかり混乱した、わけが分からなくなった」という意味です。be bewildered by ～ で「～にすっかり混乱する」となり、後半の「数週間で分かるようになった」と対になるので、3が正解です。
+この問題の型：対比（最初は混乱した⇔数週間で分かるようになった）
+【ほかの選択肢】
+1 inflated は「ふくらまされた、大げさにされた」です。「地下鉄のしくみにすっかりふくらまされた」となり、意味が通りません。
+2 reconciled は「仲直りさせられた」や「（いやなことを）しかたなく受け入れた」です。どちらにしても、後半の「数週間たつと分かるようになった」という but のあとの内容と反対向きになりません。
+4 adored は「とても好かれた、あがめられた」です。「地下鉄のしくみにとても好かれた」となり、意味が通りません。後半の「分かるようになった」とも対になりません。
+【覚えるポイント】
+・bewildered：「すっかり混乱した、わけが分からなくなった」。be bewildered by ～（～にすっかり混乱する）の形で使われます。
+・A, but B の文で、Bが「分かるようになった」のように変化したあとの様子なら、Aにはその前の反対の様子（ここでは「分からなかった」）が入ると考えると手がかりになります。

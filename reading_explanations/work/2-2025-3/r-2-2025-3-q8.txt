@@ -1,0 +1,31 @@
+---
+choices: fortune | distinction | loyalty | suspicion
+answerText: loyalty
+---
+【正解】3 loyalty（忠誠心、変わらずに支え続ける気持ち）
+【和訳】
+（英文）
+A: Why do you think many people support the soccer team, even though it has not won a championship for twenty years?
+B: Because the fans have a lot of ［loyalty］ to the team.
+（訳）
+A：そのサッカーチームは20年間優勝していないのに、多くの人がそのチームを応援しているのはなぜだと思う？
+B：ファンたちが、そのチームに強い（忠誠心）を持っているからだよ。
+（選択肢の意味）
+1 fortune：財産、幸運
+2 distinction：区別、すぐれていること
+3 loyalty：忠誠心、変わらずに支え続ける気持ち
+4 suspicion：疑い
+【考え方】
+まず見るところ：Aの質問の even though it has not won a championship for twenty years
+Aの質問は次のとおりです。
+Why do you think many people support the soccer team, even though it has not won a championship for twenty years?（そのサッカーチームは20年間優勝していないのに、なぜ多くの人がそのチームを応援していると思うか）
+even though は「～なのに、～にもかかわらず」という意味です。勝てていないのに応援をやめない理由をたずねています。
+勝っても負けても応援し続けるのは、チームへの変わらない気持ちがあるからだと考えられます。loyalty は「忠誠心（ある人や集団を裏切らず、支え続ける気持ち）」なので、3が正解です。
+この問題の型：語の意味・組み合わせ（loyalty to ～＝～への忠誠心）
+【ほかの選択肢】
+1 fortune は「財産、幸運」です。「ファンはチームに多くの財産〔幸運〕を持っている」となり、勝てないチームを応援し続ける理由になりません。
+2 distinction は「区別、すぐれていること」です。「チームへの多くの区別」となり、意味が通りません。
+4 suspicion は「疑い」です。チームを疑う気持ちがあるなら応援し続ける理由にはならないので、話の流れと反対になります。
+【覚えるポイント】
+・loyalty：「忠誠心」。have loyalty to ～ で「～に忠誠心を持っている、～を変わらず支える」です。形容詞は loyal（忠実な）です。
+・even though ～（～なのに）があるときは、「それでも～するのはなぜか」を考えると、答えの気持ちを表す語を選ぶ手がかりになります。

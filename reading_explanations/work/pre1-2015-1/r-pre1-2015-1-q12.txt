@@ -1,0 +1,30 @@
+---
+choices: reservoirs | pavilions | barricades | valves
+answerText: barricades
+---
+【正解】3 barricades（バリケード、通れないようにする柵や障害物）
+【和訳】
+（英文）
+For the safety of participants at the economic forum, police put ［barricades］ in the streets to prevent protesters from getting too close to the conference center.
+（訳）
+経済フォーラムの参加者の安全のために、警察は、抗議する人々が会議場に近づきすぎないよう、通りに（バリケード）を置いた。
+（選択肢の意味）
+1 reservoir：貯水池、ため池
+2 pavilion：（博覧会などの）展示館、あずまや
+3 barricade：バリケード（通れないようにする柵や障害物）
+4 valve：（水やガスの）弁、バルブ
+【考え方】
+まず見るところ：空所のあとの to prevent protesters from getting too close
+空所のある部分は police put (　) in the streets（警察は通りに（　）を置いた）です。何のために置いたのかが、そのあとに書かれています。
+to prevent protesters from getting too close to the conference center（抗議する人々が会議場に近づきすぎないように）
+prevent A from ～ing は「Aが～するのを防ぐ」です。protester は「抗議する人（反対の意見を示すために集まる人）」です。
+人が近づけないように通りに置くものは、通り道をふさぐ柵や障害物です。barricade は「バリケード（通れないようにする柵や障害物）」なので、3が正解です。
+文の初めの For the safety of participants（参加者の安全のために）も、人の動きを止めるための物であることと合います。
+この問題の型：語の意味・組み合わせ（put ～ in the streets to prevent ...）
+【ほかの選択肢】
+1 reservoirs は「貯水池」です。通りに貯水池を置くことはできず、人が近づくのを防ぐ目的とも合いません。
+2 pavilions は「展示館、あずまや」です。建物を通りに置いても、抗議する人々を止める目的にはつながりません。
+4 valves は「（水やガスの）弁」です。管の中の流れを調整する部品で、人が近づくのを防ぐ物ではありません。
+【覚えるポイント】
+・barricade：「バリケード」。put barricades in the streets で「通りにバリケードを置く」。
+・to prevent A from ～ing（Aが～するのを防ぐために）のような目的が書かれていたら、その目的に役立つ物を選ぶことが手がかりになります。

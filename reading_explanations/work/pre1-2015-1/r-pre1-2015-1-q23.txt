@@ -1,0 +1,29 @@
+---
+choices: talked into | handed off | taken over | driven off
+answerText: talked into
+---
+【正解】1 talked into（説得されて〔～する気にさせられて〕）
+【和訳】
+（英文）
+Although Michelle did not need a new vacuum cleaner, she was ［talked into］ buying one by the convincing salesman.
+（訳）
+ミシェルは新しい掃除機を必要としていなかったが、説得力のある販売員に（説得されて）1台買うことになった。
+（選択肢の意味）
+1 talk into：（talk A into ～ing で）Aを説得して～させる
+2 hand off：（物や仕事を）手渡す、引き渡す
+3 take over：～を引き継ぐ、乗っ取る
+4 drive off：～を追い払う、車で走り去る
+【考え方】
+まず見るところ：文の初めの Although ～ did not need と、最後の by the convincing salesman
+文の前半は Although Michelle did not need a new vacuum cleaner（ミシェルは新しい掃除機を必要としていなかったが）です。Although（～だけれども）があるので、後半は「必要ないのに～した」という反対の向きの内容になると考えられます。
+空所のある部分は she was (　) buying one by the convincing salesman です。one は a vacuum cleaner（掃除機）を指します。convincing は「説得力のある」です。
+talk A into ～ing は「Aを説得して～させる」です。ここは受け身（～される）の形で、be talked into ～ing で「説得されて～する」となります。
+「必要なかったのに、説得力のある販売員に説得されて、掃除機を買うことになった」となり、前半とも by the convincing salesman ともつながります。ですから1が正解です。
+この問題の型：熟語・決まった形（be talked into ～ing）／対比（Although 必要ない ⇔ 買うことになった）
+【ほかの選択肢】
+2 handed off（手渡された）を入れると、「販売員によって、掃除機を買うことへ手渡された」となり、意味が通りません。
+3 taken over（引き継がれた、乗っ取られた）を入れると、「販売員によって買うことを乗っ取られた」となり、意味が通りません。
+4 driven off（追い払われた）を入れると、「販売員に追い払われた」となります。販売員が客を追い払うのでは、Although の後半として「買うことになった」流れになりません。
+【覚えるポイント】
+・be talked into ～ing：「説得されて～する」。talk A into ～ing（Aを説得して～させる）の受け身の形です。
+・空所のすぐ後ろが ～ing の形のときは、into ～ing のように、後ろに ～ing を続けられる語句かどうかが手がかりになります。

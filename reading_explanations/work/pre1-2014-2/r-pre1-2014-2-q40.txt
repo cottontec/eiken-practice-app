@@ -1,0 +1,33 @@
+---
+choices: The Nicaraguan government should use money earned from the canal to improve Lake Nicaragua's water quality. | Most of the people living near Lake Nicaragua are opposed to the lake being used for drinking water only. | If Lake Nicaragua becomes part of the canal, people in the region will have to find a new source of drinking water. | Lake Nicaragua is not deep enough to be used as part of a major international shipping passage.
+answerText: If Lake Nicaragua becomes part of the canal, people in the region will have to find a new source of drinking water.
+---
+【正解】3 If Lake Nicaragua becomes part of the canal, people in the region will have to find a new source of drinking water.（もしニカラグア湖が運河の一部になれば、その地域の人々は新しい飲み水の供給源を見つけなければならなくなるだろう。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What does Victor Campos suggest?（ビクトル・カンポスは何を示唆しているか。）
+1 The Nicaraguan government should use money earned from the canal to improve Lake Nicaragua's water quality.（ニカラグア政府は、運河でかせいだお金を、ニカラグア湖の水質をよくするために使うべきだ。）
+2 Most of the people living near Lake Nicaragua are opposed to the lake being used for drinking water only.（ニカラグア湖の近くに住む人々のほとんどは、湖が飲み水のためだけに使われることに反対している。）
+3 If Lake Nicaragua becomes part of the canal, people in the region will have to find a new source of drinking water.（もしニカラグア湖が運河の一部になれば、その地域の人々は新しい飲み水の供給源を見つけなければならなくなるだろう。）
+4 Lake Nicaragua is not deep enough to be used as part of a major international shipping passage.（ニカラグア湖は、主要な国際航路の一部として使えるほど深くはない。）
+【考え方】
+まず見るところ：第3段落の最後の文 As environmental activist Victor Campos comments, "Either you use [Lake Nicaragua] for floating boats or you use it for drinking water, but you can't use it for both things at once."
+まず、ニカラグア湖について書かれた部分を確かめます。
+Furthermore, Lake Nicaragua, the region's most important source of drinking water, would be incorporated into the canal and connected to the Pacific Ocean.（さらに、その地域で最も重要な飲み水の供給源であるニカラグア湖が運河に組みこまれ、太平洋とつながることになる）
+source は「供給源（何かが手に入るもと）」、incorporate は「組みこむ」という意味です。湖が太平洋とつながると、塩水が入ってきます。
+カンポスの言葉は次のとおりです。
+"Either you use [Lake Nicaragua] for floating boats or you use it for drinking water, but you can't use it for both things at once."（「［ニカラグア湖を］船を浮かべるために使うか、飲み水のために使うかのどちらかで、両方のことに同時に使うことはできない」）
+either A or B は「AかBのどちらか」、at once はここでは「同時に」という意味です。カンポスは、湖を運河として使えば、飲み水には使えなくなると言っています。そうなると、その地域で最も重要な飲み水の供給源を失うことになります。
+本文と選択肢を対にすると、次のようになります。
+本文 you can't use it for both things at once（両方のことに同時に使うことはできない）＋ the region's most important source of drinking water（その地域で最も重要な飲み水の供給源）→ 読み取れること：選択肢 If Lake Nicaragua becomes part of the canal, people in the region will have to find a new source of drinking water.（湖が運河の一部になれば、その地域の人々は新しい飲み水の供給源を見つけなければならなくなる）
+ですから3が正解です。
+この問題の型：推論（湖は船か飲み水のどちらかにしか使えない→運河にすれば飲み水を別に探す必要がある）
+【ほかの選択肢】
+1 本文に書かれていません。運河でかせいだお金を湖の水質をよくするために使うべきだ、という話は出てきません。
+2 本文に書かれていません。湖の近くに住む人々のほとんどが何に反対しているかについては述べられていません。また、カンポスが心配しているのは、湖が飲み水に使えなくなることのほうです。
+4 本文に書かれていません。本文で深さについて出てくるのは、作業員が岩の多い土地を掘って、貨物船を収められるだけの深さの閘門（水の高さを調節して船を通す仕組み）を作らなければならない、という話です。湖が浅すぎるとは述べられていません。
+【覚えるポイント】
+・either A or B：「AかBのどちらか」。can't ～ both at once：「両方を同時に～することはできない」。
+・人物の言葉が何を示唆しているかを考えるときは、その言葉の直前に書かれている事実（ここでは、湖が地域で最も重要な飲み水の供給源であること）と組み合わせるのが手がかりになります。

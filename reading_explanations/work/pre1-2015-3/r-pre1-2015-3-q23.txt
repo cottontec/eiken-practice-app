@@ -1,0 +1,28 @@
+---
+choices: rounding off | scaling down | throwing up | filling out
+answerText: throwing up
+---
+【正解】3 throwing up（吐いて、もどして）
+【和訳】
+（英文）
+Dan ate the old food in the refrigerator even though his wife said it might make him sick. Sure enough, after a few hours he was in the bathroom ［throwing up］.
+（訳）
+ダンは、具合が悪くなるかもしれないと妻が言ったのに、冷蔵庫の古い食べ物を食べた。案の定、数時間後、彼はトイレで（吐いて）いた。
+（選択肢の意味）
+1 rounding off：（仕事などを）仕上げる、（数を）四捨五入する
+2 scaling down：（規模を）縮小する
+3 throwing up：吐く、もどす
+4 filling out：（書類に）記入する
+【考え方】
+まず見るところ：1文目の it might make him sick と、2文目の Sure enough
+1文目で、妻は古い食べ物について it might make him sick（それで具合が悪くなるかもしれない）と言っていました。それでもダンは食べてしまいました。
+Sure enough, after a few hours he was in the bathroom (　).（案の定、数時間後、彼はトイレで（　）いた）
+Sure enough は「案の定、思ったとおり」という意味で、前に予想されたことが本当に起きたときに使います。妻の予想どおり具合が悪くなった様子を表すのは「吐いて」です。throw up は「吐く、もどす」なので、3が正解です。
+この問題の型：熟語・決まった形（Sure enough ／ throw up）
+【ほかの選択肢】
+1 rounding off は「仕上げる、四捨五入する」です。「トイレで仕上げていた」となり、具合が悪くなったという予想とつながりません。
+2 scaling down は「（規模を）縮小する」です。「トイレで規模を縮小していた」となり、意味が通りません。
+4 filling out は「（書類に）記入する」です。「トイレで記入していた」となり、妻の予想どおりになったという流れに合いません。
+【覚えるポイント】
+・throw up：「吐く、もどす」。
+・Sure enough（案の定）は、その前に書かれた予想（ここでは make him sick）が本当になったことを表す手がかりになるので、予想と同じ内容の語を選びましょう。

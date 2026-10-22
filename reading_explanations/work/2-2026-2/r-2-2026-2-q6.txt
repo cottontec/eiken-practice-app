@@ -1,0 +1,34 @@
+---
+choices: proposal | sensation | narrative | collection
+answerText: proposal
+---
+【正解】1 proposal（提案）
+【和訳】
+（英文）
+A: The student council said they would make a ［proposal］ about what to do with the money from the school festival.
+B: Really? I'd like to hear their ideas.
+（訳）
+A：生徒会が、学校祭で得たお金をどうするかについて（提案）をすると言っていたよ。
+B：本当？ 生徒会の考えを聞いてみたいな。
+（選択肢の意味）
+1 proposal：提案
+2 sensation：感覚、大評判
+3 narrative：物語
+4 collection：収集、集めたもの
+【考え方】
+まず見るところ：Bの答えの I'd like to hear their ideas
+Aの文は次のとおりです。
+The student council said they would make a ( ) about what to do with the money from the school festival.（生徒会が、学校祭で得たお金をどうするかについて（　）をすると言っていた）
+about what to do with ～ は「～をどうするかについて」という意味です。お金の使い道について、生徒会が何をするのかを考えます。
+次に、Bの答えを見ます。
+Really? I'd like to hear their ideas.（本当？ 生徒会の考えを聞いてみたい）
+their ideas（彼らの考え）は、生徒会がお金の使い道について出す考えのことです。
+proposal は「提案（考えや計画を出して示すこと）」という意味で、make a proposal で「提案をする」となります。お金の使い道についての提案なら、Bが「考えを聞きたい」と答えるのと自然につながるので、1が正解です。
+この問題の型：語の意味・組み合わせ（make a proposal）／言いかえ（proposal → their ideas）
+【ほかの選択肢】
+2 sensation は「感覚、大評判」です。「お金をどうするかについて感覚をする」となり、意味が通りません。
+3 narrative は「物語」です。「お金をどうするかについての物語を作る」となり、使い道を決める話にもBの「考えを聞きたい」にもつながりません。
+4 collection は「収集、集めたもの」です。「お金をどうするかについての収集をする」となり、意味が通りません。お金はすでに学校祭で得たものなので、その使い道を話している場面とも合いません。
+【覚えるポイント】
+・make a proposal：「提案をする」。
+・空所の名詞に迷ったら、相手の答えに出てくる語（ここでは their ideas）が空所の語を言いかえていないかを確かめると、手がかりになります。

@@ -1,0 +1,31 @@
+---
+choices: make a move | take a nap | make a wish | take a chance
+answerText: take a nap
+---
+【正解】2 take a nap（昼寝をする）
+【和訳】
+（英文）
+A: What are you planning to do this afternoon?
+B: I think I'll ［take a nap］. I didn't sleep well last night, so I'm feeling pretty tired.
+（訳）
+A：今日の午後は何をする予定？
+B：（昼寝をし）ようと思う。昨晩よく眠れなかったから、かなり疲れているんだ。
+（選択肢の意味）
+1 make a move：行動を起こす、（その場を）出発する
+2 take a nap：昼寝をする、ひと眠りする
+3 make a wish：願いごとをする
+4 take a chance：思い切ってやってみる、運にかける
+【考え方】
+まず見るところ：Bの2文目の I didn't sleep well last night, so I'm feeling pretty tired.
+Aは、午後に何をする予定かをたずねています。Bは I think I'll ( ).（（　）しようと思う）と答え、その理由を続けています。
+I didn't sleep well last night, so I'm feeling pretty tired.（昨晩よく眠れなかったので、かなり疲れている）
+so は「だから」です。よく眠れなくて疲れているのですから、午後にすることとして自然なのは、少し眠って休むことです。
+take a nap は「昼寝をする、ひと眠りする」なので、2が正解です。
+この問題の型：因果（眠れなくて疲れている→昼寝をする）
+【ほかの選択肢】
+1 make a move は「行動を起こす、出発する」です。疲れているという理由とつながらず、何をするのかもはっきりしません。
+3 make a wish は「願いごとをする」です。よく眠れず疲れていることが、午後に願いごとをする理由にはなりません。
+4 take a chance は「思い切ってやってみる、運にかける」です。何をやってみるのかが分からず、疲れているという理由ともつながりません。
+【覚えるポイント】
+・take a nap：「昼寝をする、ひと眠りする」。
+・I think I'll ( ). のあとに理由（～なので）が続くときは、その理由から自然に決まる行動を選ぶと手がかりになります。

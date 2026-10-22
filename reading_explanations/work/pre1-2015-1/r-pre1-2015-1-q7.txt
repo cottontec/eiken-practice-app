@@ -1,0 +1,32 @@
+---
+choices: comrade | guardian | defendant | outcast
+answerText: defendant
+---
+【正解】3 defendant（被告人、裁判でうったえられた人）
+【和訳】
+（英文）
+The ［defendant］ told the judge he was innocent and that he had been nowhere near the jewelry store at the time of the robbery.
+（訳）
+（被告人）は裁判官に、自分は無実であり、強盗があった時刻には宝石店の近くにはまったくいなかったと言った。
+（選択肢の意味）
+1 comrade：仲間、同志
+2 guardian：保護者、守る人
+3 defendant：被告人（裁判でうったえられた人）
+4 outcast：（社会や仲間から）追い出された人、のけ者
+【考え方】
+まず見るところ：told the judge he was innocent
+空所は文の主語で、裁判官に話をしている人がだれかを考えます。
+The (　) told the judge he was innocent（（　）は裁判官に、自分は無実だと言った）
+judge は「裁判官」、innocent は「無実の、罪をおかしていない」です。
+さらに、次のように続きます。
+he had been nowhere near the jewelry store at the time of the robbery（強盗があった時刻には、宝石店の近くにはまったくいなかった）
+nowhere near ～ は「～の近くにはまったくない」という意味です。強盗事件について、裁判官の前で「自分はやっていない、現場の近くにもいなかった」と主張しているのは、罪をうたがわれて裁判にかけられている人です。
+defendant は「被告人（裁判でうったえられた人）」なので、3が正解です。
+この問題の型：語の意味・組み合わせ（judge・innocent・robbery → 裁判の場面）
+【ほかの選択肢】
+1 comrade は「仲間、同志」です。だれの仲間なのかが書かれておらず、裁判官に自分の無実を主張する人を表す語として合いません。
+2 guardian は「保護者、守る人」です。保護者が「自分は無実だ」と言うのでは、強盗事件の裁判の場面と結びつきません。
+4 outcast は「のけ者」です。仲間から追い出された人のことで、裁判で無実を主張する立場を表す語ではありません。
+【覚えるポイント】
+・defendant：「被告人」。judge（裁判官）、innocent（無実の）などと一緒に、裁判の場面でよく使われます。
+・人を表す語を選ぶ問題では、その人が「だれに」「何を」言っているかを見て、場面（ここでは裁判）を決めることが手がかりになります。

@@ -1,0 +1,28 @@
+---
+choices: prove the raise was unnecessary | make up for increased labor costs | cause problems for the economy | force people to obey the law
+answerText: make up for increased labor costs
+---
+【正解】2 make up for increased labor costs（増えた人件費を埋め合わせる）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 prove the raise was unnecessary（引き上げが不要だったと証明する）
+2 make up for increased labor costs（増えた人件費を埋め合わせる）
+3 cause problems for the economy（経済に問題を引き起こす）
+4 force people to obey the law（人々に法律を守らせる）
+【考え方】
+まず見るところ：空所の前の causing businesses' incomes to rise as well と、空所の文の This should
+空所の前の文には、次のようにあります。
+As the minimum wage rises, employees will have more money to spend on things like shopping and eating out, causing businesses' incomes to rise as well.（最低賃金が上がるにつれて、従業員は買い物や外食などに使えるお金が増え、それによって企業の収入も上がることになる）
+空所の文 This should (27). の This は、この「企業の収入も上がること」を指しています。should はここでは「～するはずだ」という意味です。
+第1段落では、批判する人々が the rise in labor costs（人件費の上昇）で企業が苦しくなると心配していました。賃金を上げれば企業が払うお金は増えますが、同時に企業の収入も上がれば、その分を取り戻せます。make up for ～ は「～を埋め合わせる、～の不足を補う」という意味です。「企業の収入が上がることが、増えた人件費を埋め合わせるはずだ」となり、話がつながります。
+さらに次の文には、最低賃金が高い地域ほど経済成長が大きい傾向があるという研究が書かれていて、この考えを支えています。ですから2が正解です。
+この問題の型：指示語（This ＝ 企業の収入も上がること）
+【ほかの選択肢】
+1 「引き上げが不要だったと証明する」を入れると、支持者が引き上げをよいものとして説明している第2段落の流れと合いません。企業の収入が上がることは、引き上げが不要だという証明にはなりません。
+3 「経済に問題を引き起こす」を入れると、企業の収入が上がることを悪いことのように述べることになります。次の文の In fact（実際）のあとに、最低賃金が高い地域ほど経済成長が大きいとあることとも反対になります。
+4 「人々に法律を守らせる」を入れると、企業の収入が上がることで人々が法律を守るようになる、という話になります。本文には法律を守るかどうかの話はありません。
+【覚えるポイント】
+・make up for ～：「～を埋め合わせる、～の不足を補う」。
+・This should (　). のように This で始まる短い文に空所があるときは、まず This が前の文のどの内容を指すかを確かめ、それが第1段落の心配（人件費の上昇）にどう答えているかを考えると、答えが見つけやすくなります。

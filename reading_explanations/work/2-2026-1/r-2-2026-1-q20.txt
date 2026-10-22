@@ -1,0 +1,29 @@
+---
+choices: To begin with | Unfortunately | In this way | On the other hand
+answerText: In this way
+---
+【正解】3 In this way（このようにして）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 To begin with（まず初めに）
+2 Unfortunately（残念なことに）
+3 In this way（このようにして）
+4 On the other hand（一方で）
+【考え方】
+まず見るところ：第3段落の空所の前の She protected passengers from having the newspapers and books they were reading stolen by Bibliobandido.
+空所の前では、ニューヨークで作られたキャラクターが何をしたかが書かれています。
+She protected passengers from having the newspapers and books they were reading stolen by Bibliobandido.（彼女は、乗客が読んでいる新聞や本がビブリオバンディードに盗まれないように守った）
+空所のあとは、このキャラクターがもたらしたことです。
+this character added a creative twist to public reading while traveling and reminded people of the joy of reading（このキャラクターは、移動中に人前で読書をすることに創造的なひねりを加え、人々に読書の喜びを思い出させた）
+「乗客の新聞や本を守った」という具体的な活動によって、「移動中の読書に新しい工夫が加わり、読書の楽しさを思い出させた」という結果になっています。前の文の活動をまとめて、その結果を述べる流れです。
+In this way は「このようにして」という意味で、前に書いたやり方をまとめて、その結果を述べるときに使います。ですから3が正解です。
+この問題の型：具体例とまとめ（乗客の本を守った → In this way, 読書の喜びを思い出させた）
+【ほかの選択肢】
+1 To begin with は「まず初めに」で、いくつかのことを順に挙げる最初に使います。ここはニューヨークのキャラクターの話の最後で、前の文の結果を述べているので合いません。
+2 Unfortunately は「残念なことに」です。空所のあとは「創造的なひねりを加えた」「読書の喜びを思い出させた」というよい内容なので、合いません。
+4 On the other hand は「一方で」で、前とちがう面を比べるときに使います。空所の前とあとはどちらもこのキャラクターのよい働きの話で、比べる関係になっていません。
+【覚えるポイント】
+・In this way：「このようにして」。remind ～ of ... は「～に…を思い出させる」です。
+・空所のあとが「このキャラクターは～した」のように前の文の活動の結果を述べているときは、In this way のようなまとめの言葉が入る手がかりになります。空所のあとがよい内容か悪い内容かも確かめましょう。

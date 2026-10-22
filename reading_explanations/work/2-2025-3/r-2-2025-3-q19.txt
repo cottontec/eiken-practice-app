@@ -1,0 +1,30 @@
+---
+choices: use the product for a long time | buy many products one after another | grow their personal collection of devices | find devices with more features
+answerText: use the product for a long time
+---
+【正解】1 use the product for a long time（製品を長い間使う）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 use the product for a long time（製品を長い間使う）
+2 buy many products one after another（次から次へとたくさんの製品を買う）
+3 grow their personal collection of devices（自分が集めた機器の数を増やす）
+4 find devices with more features（より多くの機能がついた機器を探す）
+【考え方】
+まず見るところ：第2段落の空所の前の He provides a product that looks good and is also easy to repair. と、空所のあとの This is how he helps reduce electronic waste.
+第2段落では、まず問題が説明されています。
+This culture of throwing away broken items and buying new ones has led to a large amount of electronic waste in Britain.（壊れた品物を捨てて新しいものを買うというこの文化は、イギリスで大量の電子ごみを生むことにつながってきた）
+次に、ケイの取り組みが書かれています。
+He provides a product that looks good and is also easy to repair.（彼は、見た目がよく、しかも修理しやすい製品を提供している）
+空所の文は By doing so, he encourages people to (19).（そうすることで、彼は人々に（19）するよう促している）です。By doing so は「そうすることで」で、修理しやすい製品を提供することを指しています。
+さらに、空所のあとは This is how he helps reduce electronic waste.（このようにして、彼は電子ごみを減らす手助けをしている）です。
+壊れても修理できれば、捨てずに使い続けることができます。それが電子ごみを減らすことにつながります。ですから空所には「製品を長く使う」が入り、1が正解です。
+この問題の型：因果（修理しやすい→長く使う→電子ごみが減る）
+【ほかの選択肢】
+2 「次から次へとたくさんの製品を買うよう促している」となります。これは、本文で電子ごみの原因とされている「捨てて新しいものを買う文化」と同じ方向で、電子ごみを減らすという次の文と反対になります。
+3 「自分が集めた機器の数を増やすよう促している」となります。機器が増えることは、修理して使い続けることとも、電子ごみを減らすこととも結びつきません。
+4 「より多くの機能がついた機器を探すよう促している」となります。機能の多さの話は本文になく、新しい機器を探すことは、修理して使い続けるという話と合いません。
+【覚えるポイント】
+・By doing so（そうすることで）や This is how ～（このようにして～）は、前の文と後ろの文をつなぐ手がかりです。空所がその間にあるときは、「前の行動」と「あとの結果」の両方に合うものを選ぶと手がかりになります。
+・one after another：「次から次へと」。

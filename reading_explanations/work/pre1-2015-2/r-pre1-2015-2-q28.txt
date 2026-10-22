@@ -1,0 +1,27 @@
+---
+choices: make it hard for doctors to use | play a significant role in | be lessened by | require long-term
+answerText: play a significant role in
+---
+【正解】2 play a significant role in（～において重要な役割を果たす）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 make it hard for doctors to use（医師が～を使うのを難しくする）
+2 play a significant role in（～において重要な役割を果たす）
+3 be lessened by（～によって弱められる）
+4 require long-term（長期の～を必要とする）
+【考え方】
+まず見るところ：第3段落の recovered more quickly than those whose bodies did not
+空所は第3段落の最後の This suggests that short-term stress could (28) medical treatments in the future. です。This（このこと）が指す、その前の文を見ます。
+In this experiment, patients whose bodies responded to the stress of an operation by sending immune cells to tissues where they were needed recovered more quickly than those whose bodies did not.（この実験では、手術というストレスに対して、免疫細胞を必要とされる組織へ送ることで反応した体の患者は、そうしなかった体の患者よりも早く回復した）
+those whose bodies did not は「体がそうしなかった患者」、つまり免疫細胞を送らなかった患者のことです。比べる相手はその患者たちで、免疫細胞を送った患者のほうが早く回復しました。
+つまり、手術による短い間のストレスが、回復を助けていたことになります。2を入れると「短期的なストレスが、将来、医療の治療において重要な役割を果たしうる」となり、この結果から言えることとしてつながります。ですから2が正解です。
+この問題の型：指示語（This＝早く回復したという実験の結果）
+【ほかの選択肢】
+1 「短期的なストレスが、医師が治療を使うのを難しくしうる」となります。実験ではストレスへの反応が回復を早めたので、治療のじゃまになるという内容とは反対です。
+3 「短期的なストレスが、将来、医療の治療によって弱められうる」となります。本文の実験が示したのは、ストレスへの反応が回復に役立つということで、ストレスを治療で弱めることではありません。
+4 「短期的なストレスが、将来、長期の医療の治療を必要としうる」となります。実験では患者が早く回復したので、長い治療が必要になるという内容とは合いません。また、第1段落では、ストレスホルモンが害になるのは in the long term（長期的に）だと書かれており、短期的なストレスの話とは違います。
+【覚えるポイント】
+・play a significant role in ～：「～において重要な役割を果たす」。
+・This suggests that ～（このことは～を示している）の空所は、This が指す前の文の結果から言えることを選ぶと答えの手がかりになります。
