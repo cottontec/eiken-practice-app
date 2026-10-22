@@ -1,0 +1,27 @@
+---
+choices: involved illegal access to public land | had negatively affected the competitor's sales | would influence other companies' actions | was a danger to people in the area
+answerText: was a danger to people in the area
+---
+【正解】4 was a danger to people in the area（その地域の人々にとって危険である）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 involved illegal access to public land（公共の土地に違法に立ち入ることを伴っていた）
+2 had negatively affected the competitor's sales（競争相手の会社の売り上げに悪い影響を与えていた）
+3 would influence other companies' actions（ほかの会社の行動に影響を与えるだろう）
+4 was a danger to people in the area（その地域の人々にとって危険である）
+【考え方】
+まず見るところ：第2段落の空所の次の文 Specifically, it raised concerns that ～
+空所の文は「その訴訟は、この計画が〇〇だと主張した」という意味です。lawsuit は「訴訟（裁判に訴えること）」です。次の文の Specifically（具体的には）から、訴訟の主張の中身がくわしく書かれています。
+Specifically, it raised concerns that a compound found in citrus peels called d-limonene would enter water supplies.（具体的には、かんきつ類の皮に含まれるd-リモネンという化合物が、水道の水源に入りこむのではないかという懸念を示した）
+さらに、その次の文に Although the lawsuit asserted d-limonene causes cancer（訴訟ではd-リモネンががんを引き起こすと主張されたが）とあります。
+つまり訴訟は、「がんの原因になる物質が飲み水に入る」と主張していました。これは、その地域に住む人々の健康にとって危険だ、という主張です。よって4が正解です。
+この問題の型：具体例とまとめ（Specifically 以下の「水源に入る」「がんの原因」→ 人々にとって危険）
+【ほかの選択肢】
+1 「公共の土地に違法に立ち入った」という主張は本文にありません。第1段落にあるとおり、ごみを捨てることは政府との取り決めで許されていました。
+2 訴訟を起こしたのは競争相手の会社ですが、売り上げへの影響を主張したとは書かれていません。Specifically 以下で示された主張の中身は、d-リモネンが水源に入ることでした。
+3 「ほかの会社の行動に影響を与える」という主張は本文にありません。Specifically 以下の「水源に入る」「がんを引き起こす」という具体的な中身とつながりません。
+【覚えるポイント】
+・raise concerns that ～：「～ではないかという懸念を示す」。assert：「強く主張する」。
+・空所のすぐあとに Specifically（具体的には）があるときは、そのあとの具体的な内容をまとめた言い方が空所に入る手がかりになります。
