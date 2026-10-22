@@ -1,0 +1,29 @@
+---
+choices: peculiar | conceited | fragrant | transparent
+answerText: peculiar
+---
+【正解】1 peculiar（変わった、奇妙な）
+【和訳】
+（英文）
+The horse has a ［peculiar］ habit of trying to chase its own tail. The owner has never seen any other horse do something so odd.
+（訳）
+その馬には、自分のしっぽを追いかけようとする変わった癖がある。飼い主は、ほかのどの馬もそんなに奇妙なことをするのを見たことがない。
+（選択肢の意味）
+1 peculiar：変わった、奇妙な
+2 conceited：うぬぼれた
+3 fragrant：よい香りの
+4 transparent：透明な
+【考え方】
+まず見るところ：後ろの文の最後の something so odd
+The horse has a ( ) habit of trying to chase its own tail.（その馬には、自分のしっぽを追いかけようとする（　）癖がある）
+空所には、その馬の癖がどんな癖なのかを表す語が入ります。
+The owner has never seen any other horse do something so odd.（飼い主は、ほかのどの馬もそんなに奇妙なことをするのを見たことがない）
+odd は「奇妙な、変わった」という意味です。something so odd（そんなに奇妙なこと）は、前の文の「しっぽを追いかけようとする癖」を言いかえています。ですから、空所にも odd と近い意味の語が入ります。peculiar は「変わった、奇妙な」という意味なので、1が正解です。
+この問題の型：言いかえ（a peculiar habit → something so odd）
+【ほかの選択肢】
+2 conceited は「うぬぼれた」です。人の性格を表す語で、「うぬぼれた癖」となり、後ろの odd（奇妙な）という言いかえと合いません。
+3 fragrant は「よい香りの」です。においを表す語で、しっぽを追いかけるという行動の説明になりません。
+4 transparent は「透明な」です。「透明な癖」となり、意味が通りません。
+【覚えるポイント】
+・peculiar：「変わった、奇妙な」。この問題では odd（奇妙な）が同じ意味の言いかえになっています。
+・後ろの文に something so ～（そんなに～なこと）のような言い方があるときは、それが前の文の内容を言いかえていることが多いので、空所の語の意味の手がかりになります。
