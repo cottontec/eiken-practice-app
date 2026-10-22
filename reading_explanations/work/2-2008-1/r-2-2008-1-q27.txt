@@ -1,0 +1,27 @@
+---
+choices: equally | in addition | by mistake | on the other hand
+answerText: on the other hand
+---
+【正解】4 on the other hand（一方で、それに対して）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 equally：同じように、平等に
+2 in addition：さらに、そのうえ
+3 by mistake：まちがって
+4 on the other hand：一方で、それに対して
+【考え方】
+空所は第2段落の最後の文 Those with cars that use less, (　), are able to get a discount on the original fee.（使う燃料が少ない車の持ち主は、（　）、もとの料金から割引を受けることができる）にあります。Those with ～ は「～を持っている人たち」、discount は「割引」です。
+すぐ前の文は owners of cars that use more fuel have to pay higher fees for this permission（燃料を多く使う車の持ち主は、この許可のためにより高い料金を払わなければならない）です。
+2つの文を比べると、次のように反対の内容になっています。
+前の文：燃料を多く使う車（use more fuel）→ 高い料金（higher fees）
+空所の文：燃料を少ししか使わない車（use less）→ 割引（a discount）
+このように2つのものを比べて違いを示すときに使うのが on the other hand（一方で、それに対して）です。正解は4です。
+【ほかの選択肢】
+1 equally は「同じように、平等に」です。前の文と「同じように」ではなく、反対の扱いを受けているので合いません。
+2 in addition は「さらに、そのうえ」です。同じ向きの情報を付け加えるときに使う語句です。ここでは「高い料金」と「割引」という反対の内容が並んでいるので合いません。
+3 by mistake は「まちがって」です。割引は新しい規則による決まりなので、「まちがって割引を受けられる」では意味が通りません。
+【覚えるポイント】
+・on the other hand：「一方で、それに対して」。2つのことを比べて違いを示すときに使います。
+・get a discount on ～：「～の割引を受ける」。

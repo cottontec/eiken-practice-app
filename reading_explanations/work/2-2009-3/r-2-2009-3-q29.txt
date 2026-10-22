@@ -1,0 +1,25 @@
+---
+choices: required | employed | failing | waiting
+answerText: required
+---
+【正解】1 required（be required to ～ で「～するよう義務づけられている」）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 required：（be required to ～ で）～するよう義務づけられている、求められている
+2 employed：雇われている
+3 failing：（be failing to ～ で）～しそこなっている
+4 waiting：（be waiting to ～ で）～するのを待っている
+【考え方】
+空所は第3段落の最後の文 In fact, the chain has decided to start showing the number of calories in its products even in cities where restaurants are not (　) to.（実際、そのチェーンは、レストランが（　）いない都市でも、商品のカロリーの数値を表示し始めることに決めた）にあります。
+空所のあとの to は、そのあとに続くはずの言葉が省略された形です。前に出てきた show the number of calories（カロリーの数値を表示する）がくり返しになるので、to のあとが省かれています。つまり「レストランがカロリーを表示することを（　）いない都市」という意味です。
+ここで even（～でさえ）に注目します。第2段落で、ニューヨークがレストランチェーンにカロリーの表示をさせる法律を作ったことが書かれていました。そのような法律がない都市では、カロリーを表示しなくてもかまいません。それなのに、このチェーンは「そうした都市でさえ」表示を始めると決めたのです。
+require は「～を義務づける、求める」という意味で、be required to ～ で「～するよう義務づけられている」となります。where restaurants are not required to (show the calories) で「レストランが（カロリーの表示を）義務づけられていない都市」となり、even の意味とも合います。正解は1です。
+【ほかの選択肢】
+2 employed は「雇われている」です。「レストランが雇われていない都市」では意味が通らず、そのあとの to ともつながりません。
+3 failing は be failing to ～ で「～しそこなっている」です。「レストランがカロリーの表示をしそこなっていない都市でさえ」となり、法律で表示を求められているかどうかという話とつながらず、even の意味も生きません。
+4 waiting は be waiting to ～ で「～するのを待っている」です。「レストランが表示するのを待っていない都市」では、何を言いたいのかがはっきりせず、意味が通りません。
+【覚えるポイント】
+・be required to ～：「～するよう義務づけられている、～しなければならない」。
+・文の終わりの to：前に出た動詞のくり返しをさけて、to のあとを省くことがあります。何が省かれているかは前の文から考えます。

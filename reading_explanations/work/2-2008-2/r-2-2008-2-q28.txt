@@ -1,0 +1,25 @@
+---
+choices: hidden | controlled | mistaken | punished
+answerText: controlled
+---
+【正解】2 controlled（管理される、制限される）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 hidden：隠される
+2 controlled：管理される、制限される
+3 mistaken：まちがえられる
+4 punished：罰せられる
+【考え方】
+空所は第3段落の After that, logging will start again, but it will be strictly (　). にあります。logging は「伐採（木を切り出すこと）」、it はその伐採を指します。strictly は「厳しく」です。「8年後に伐採は再開されるが、それは厳しく（　）される」という意味になります。
+直前の文では For eight years, it will not cut down any trees.（8年間は木を1本も切らない）とあり、RFFIが森を自然な状態に戻そうとしていることが分かります。
+空所の直後の文が決め手です。One of the conditions of the loan from Bank of America was that no more than 3 percent of the forest can be used for logging in any year.（融資の条件の1つは、どの年も、伐採に使えるのは森林の3パーセントまでということだった）。no more than ～ は「～以下、たった～まで」です。
+伐採してよい広さに上限が決められているので、伐採は自由に行われるのではなく、決まりによって「厳しく管理される」と分かります。正解は2です。
+【ほかの選択肢】
+1 hidden は「隠される」です。伐採を隠すという話は本文にありません。むしろ、伐採してよい量の条件がはっきり示されています。
+3 mistaken は「まちがえられる」です。「伐採は厳しくまちがえられる」となり、意味が通りません。
+4 punished は「罰せられる」です。罰せられるのは人であり、伐採そのものではありません。また、本文には伐採した人を罰するという話もありません。
+【覚えるポイント】
+・be strictly controlled：「厳しく管理される、厳しく制限される」。
+・no more than ～：「～以下、たった～だけ」。ここでは上限を示しています。

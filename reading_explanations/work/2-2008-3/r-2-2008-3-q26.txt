@@ -1,0 +1,25 @@
+---
+choices: replace | prefer | defend | expand
+answerText: replace
+---
+【正解】1 replace（取り替える）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 replace：～を取り替える
+2 prefer：～のほうを好む
+3 defend：～を守る
+4 expand：～を広げる、拡大する
+【考え方】
+空所は第1段落の Recently, however, more and more wine producers have started to (　) their cork stoppers.（しかし最近、ますます多くのワイン生産者が、コルクのせんを〜し始めている）という文にあります。
+この文の前では、ワイン生産者が何百年もの間コルクのせんを使ってきたと書かれています。そこに however（しかし）があるので、最近はそれまでとちがうことが起きていると分かります。
+空所の文のあとには、This is because cork stoppers have certain disadvantages.（これは、コルクのせんにはいくつかの欠点があるからだ）と理由が続きます。disadvantage は「欠点、不利な点」です。さらに段落の最後で To avoid these problems, many wine producers use plastic stoppers.（こうした問題を避けるため、多くのワイン生産者はプラスチックのせんを使っている）と書かれています。
+つまり、生産者たちは欠点のあるコルクのせんをやめて、プラスチックのせんに変えているのです。replace は「～を（別のものに）取り替える」という意味なので、「コルクのせんを取り替え始めている」となり、前後とつながります。正解は1です。
+【ほかの選択肢】
+2 prefer は「～のほうを好む」です。「コルクのせんのほうを好み始めた」となり、直後の「コルクには欠点がある」「プラスチックのせんを使っている」という内容と反対になってしまいます。
+3 defend は「～を守る」です。コルクのせんを守り始めた、では however（しかし）でそれまでとの変化を示す流れにも、欠点の説明にも合いません。
+4 expand は「～を広げる、拡大する」です。コルクのせんの使用を広げているのなら、プラスチックのせんに変えているという段落の最後の文と合いません。
+【覚えるポイント】
+・replace：「～を取り替える」。replace A with B で「AをBと取り替える」。
+・disadvantage：「欠点、不利な点」。反対は advantage（利点）です。

@@ -1,0 +1,25 @@
+---
+choices: Furthermore | Unfortunately | On average | By chance
+answerText: Furthermore
+---
+【正解】1 Furthermore（さらに、そのうえ）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Furthermore：さらに、そのうえ
+2 Unfortunately：残念なことに、あいにく
+3 On average：平均すると
+4 By chance：偶然に、たまたま
+【考え方】
+空所は第2段落の最後の文の始めにあります。このような文と文をつなぐ言葉の問題では、空所の前と後の内容がどんな関係かを考えます。
+空所の前は It is unusual for a bank to lend so much money to a nonprofit organization, but the bank made the loan as part of its new environmental policy.（銀行が非営利団体にこれほど多くのお金を貸すのは珍しいが、この銀行は新しい環境方針の一環として融資を行った）です。銀行がRFFIを助けたという内容です。
+空所の後は it is allowing the RFFI a long period of time to pay back the money and will not charge as much interest as usual.（銀行はRFFIに長い期間をかけてお金を返すことを認め、利息も通常ほど多くは取らない）です。interest は「利息」です。これも、銀行がRFFIに有利な条件を出しているという内容です。
+前も後も「銀行がRFFIを助けている」という同じ向きの話で、後の文はさらに別の助けを付け加えています。このように、前の内容に情報を付け足すときに使うのが Furthermore（さらに、そのうえ）です。正解は1です。
+【ほかの選択肢】
+2 Unfortunately は「残念なことに」です。返済期間が長く利息が少ないのはRFFIにとってよいことなので、「残念なことに」とつなぐと意味が合いません。
+3 On average は「平均すると」です。数や量の平均について述べるときの言葉で、銀行の融資の条件を付け加える文には合いません。
+4 By chance は「偶然に」です。銀行は新しい環境方針として考えたうえで融資をしているので、「偶然に」条件を決めたことにはなりません。
+【覚えるポイント】
+・Furthermore：「さらに、そのうえ」。前の内容に同じ向きの情報を付け足すときに使います。In addition や Moreover も近い意味です。
+・charge interest：「利息を取る」。not ～ as much ... as usual で「いつもほど多くの…を～ない」。

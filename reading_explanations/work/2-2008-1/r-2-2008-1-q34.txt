@@ -1,0 +1,26 @@
+---
+choices: Meet a famous author in person. | Discuss her ideas for a new book. | Give a presentation on marketing. | Make arrangements for a trip.
+answerText: Give a presentation on marketing.
+---
+【正解】3 Give a presentation on marketing.（マーケティングについて講演をする。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ブレナーさんはボストンで何をする予定ですか。
+1 有名な著者に直接会う。
+2 新しい本のための自分の考えについて話し合う。
+3 マーケティングについて講演をする。
+4 旅行の手配をする。
+【考え方】
+まず、ブレナーさんがボストンへ行くことを確かめます。第2段落に、ブレナーさんが乗る飛行機は arriving in Boston at 12:10 p.m.（午後12時10分にボストンに到着する）と書かれています。そして第1段落の最初に I have made the arrangements for your visit to my company（私の会社にお越しいただく件について手配した）とあるので、ボストンではトムの会社を訪れることが分かります。
+では、そこで何をするのでしょうか。第1段落に You said in your e-mail that your presentation would be based on the marketing issues you wrote about in your book.（あなたはEメールで、講演はご著書で書かれたマーケティングの問題に基づいたものになると言っていた）とあります。presentation は「講演、発表」、be based on ～ は「～に基づいている」です。さらに第3段落にも We will use a conference room in our office building for the presentation.（講演には事務所ビルの会議室を使う）とあります。
+本文 your presentation would be based on the marketing issues（講演はマーケティングの問題に基づいたものになる）＝ 選択肢 Give a presentation on marketing（マーケティングについて講演をする）
+正解は3です。
+【ほかの選択肢】
+1 「著者に直接会う」のは、ブレナーさんではなくトムと同僚たちです。My co-workers and I are excited about having the chance to meet the author ... in person（同僚たちも私も、著者に直接会える機会を楽しみにしている）とあり、その著者がブレナーさん本人です。人物が違います。
+2 本文で出てくる本は、ブレナーさんがすでに書いた本（your book）です。講演はその本に書いたマーケティングの問題に基づいていると書かれているだけで、「新しい本」についての話し合いは本文にありません。
+4 旅行の手配をしたのはトムです。I have made the arrangements for your visit（あなたの訪問の手配をした）と書いているのはトムなので、ブレナーさんがボストンで手配をするわけではありません。
+【覚えるポイント】
+・presentation：「講演、発表」。give a presentation で「講演をする、発表をする」。
+・be based on ～：「～に基づいている」。

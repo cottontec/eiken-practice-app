@@ -1,0 +1,28 @@
+---
+choices: The gates are closed to stop too much traffic from entering the tunnel. | The entire tunnel will be used for floodwater only a few times a year. | The routes of two rivers in Kuala Lumpur were changed by engineers. | The Malaysian government hopes to build a second SMART tunnel in Kuala Lumpur.
+answerText: The entire tunnel will be used for floodwater only a few times a year.
+---
+【正解】2 The entire tunnel will be used for floodwater only a few times a year.（トンネル全体が洪水の水のために使われるのは、年に数回だけだろう。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：次の記述のうち、正しいものはどれですか。
+1 あまりに多くの車がトンネルに入るのを防ぐために、門が閉じられる。
+2 トンネル全体が洪水の水のために使われるのは、年に数回だけだろう。
+3 クアラルンプールの2つの川の流れる道すじが、技術者たちによって変えられた。
+4 マレーシア政府は、クアラルンプールに2本目のSMARTトンネルを建設したいと考えている。
+【考え方】
+トンネル全体（the whole tunnel）が水のために使われるのは、3番目のモードです。第3段落に During the severe storms that hit Kuala Lumpur two or three times a year and flood the area with an enormous amount of water, the tunnel goes into the third mode.（年に2、3回クアラルンプールをおそい、この地域を莫大な量の水で水びたしにする激しい暴風雨の間、トンネルは3番目のモードに入る）とあります。severe は「激しい」、enormous は「莫大な、ものすごく大きい」です。
+そして3番目のモードでは the tunnel is closed to traffic entirely（トンネルは完全に通行止めになり）、water can fill the whole tunnel（水がトンネル全体を満たす）と書かれています。
+つまり、トンネル全体が洪水の水に使われるのは、激しい暴風雨が来る年に2、3回だけです。
+本文 water can fill the whole tunnel（水がトンネル全体を満たす）＝ 選択肢 The entire tunnel will be used for floodwater（トンネル全体が洪水の水に使われる）
+本文 two or three times a year（年に2、3回）＝ 選択肢 only a few times a year（年に数回だけ）
+entire は「全体の」で、whole と同じような意味です。正解は2です。
+【ほかの選択肢】
+1 本文に出てくる門は、水をトンネルに入れるために開けられる Special gates（特別な門）です。車が多くなりすぎないように門を閉じるという話はありません。
+3 第1段落には、クアラルンプールがクラン川とアンパン川の合流する地点に築かれたとあるだけです。技術者が川の流れを変えたという話は本文にありません。
+4 政府については、この新しいトンネルが2つの機能の両方を果たせると is confident（確信している）と書かれているだけです。2本目のトンネルを作りたいという話は本文にありません。
+【覚えるポイント】
+・entire：「全体の、まるごとの」。the entire tunnel ＝ the whole tunnel（トンネル全体）。
+・be closed to traffic：「車の通行が禁止される、通行止めになる」。

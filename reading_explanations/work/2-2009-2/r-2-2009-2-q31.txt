@@ -1,0 +1,26 @@
+---
+choices: delicate | attractive | private | temporary
+answerText: attractive
+---
+【正解】2 attractive（魅力的な）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 delicate：繊細な、こわれやすい
+2 attractive：魅力的な
+3 private：個人の、私的な
+4 temporary：一時的な
+【考え方】
+空所は第2段落の However, when supporters of the plan explained to them that the new buildings would actually save money in the long term by cutting energy costs, the plan began to seem more (　) to the residents.（しかし、計画に賛成する人たちが、新しい建物はエネルギーの費用を減らすので、長い目で見れば実際にはお金の節約になると説明すると、その計画は住民にとってより～に思えるようになった）という文にあります。in the long term は「長い目で見れば」、residents は「住民」という意味です。
+前の文は At first, many of the town's residents thought this would be too expensive.（初めは、町の住民の多くが、これは費用がかかりすぎるだろうと考えた）です。初めは計画によくない印象を持っていたのです。
+そのあと However（しかし）があり、「実はお金の節約になる」と説明を受けた、と続きます。ですから、住民の受け止め方は、よい方向に変わったと考えられます。
+さらに次の文には Many residents decided to rebuild their homes so that they would be as energy-efficient as possible.（多くの住民が、できるだけエネルギー効率がよくなるように家を建て直すことに決めた）とあり、住民が計画を受け入れたことが分かります。
+attractive は「魅力的な」という意味なので、the plan began to seem more attractive to the residents で「その計画は住民にとってより魅力的に思えるようになった」となります。正解は2です。
+【ほかの選択肢】
+1 delicate は「繊細な、こわれやすい」です。「お金の節約になる」と聞いて計画がこわれやすく思えた、では話の流れに合いません。
+3 private は「個人の、私的な」です。お金の節約になると聞いたことと、計画が個人的なものに思えることはつながりません。
+4 temporary は「一時的な」です。本文では「長い目で見れば」お金の節約になると説明されており、計画が一時的なものに思えたという流れになりません。
+【覚えるポイント】
+・attractive：「魅力的な」。seem attractive to ～ で「～にとって魅力的に思える」。
+・in the long term：「長い目で見れば、長期的には」。

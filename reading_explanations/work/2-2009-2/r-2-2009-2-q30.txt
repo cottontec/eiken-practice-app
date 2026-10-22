@@ -1,0 +1,25 @@
+---
+choices: purchase | rename | improve | transfer
+answerText: improve
+---
+【正解】3 improve（～をよりよくする、～を改善する）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 purchase：～を購入する
+2 rename：～の名前を変える
+3 improve：～をよりよくする、～を改善する
+4 transfer：～を移す、～を移転する
+【考え方】
+空所は第1段落の Some of those who remained, however, decided not only to rebuild their town, but to (　) it.（しかし、残った人々の中には、町を建て直すだけでなく、町を～しようと決めた人たちもいた）という文にあります。not only A but (also) B は「AだけでなくBも」という意味です。it は their town（自分たちの町）を指します。
+「建て直すだけでなく」と言っているので、空所には「元どおりにする」よりもさらに進んだことが入ると考えられます。
+次の文を見ます。They came up with a plan to turn it into the most environmentally friendly town in the United States.（彼らは、町をアメリカで最も環境にやさしい町に変えるという計画を思いついた）とあります。turn A into B は「AをBに変える」、environmentally friendly は「環境にやさしい」という意味です。
+竜巻の前よりもよい町にしようとしているのですから、improve（～をよりよくする）が合います。正解は3です。
+【ほかの選択肢】
+1 purchase は「～を購入する」です。住民が自分たちの町を買うという話は本文になく、次の文の「環境にやさしい町に変える計画」ともつながりません。
+2 rename は「～の名前を変える」です。本文には町の名前を変える話はなく、計画の中身は環境にやさしい町に変えることです。
+4 transfer は「～を移す、～を移転する」です。町を別の場所に移すという話は本文になく、計画の内容と合いません。
+【覚えるポイント】
+・improve：「～をよりよくする、～を改善する」。
+・turn A into B：「AをBに変える」。

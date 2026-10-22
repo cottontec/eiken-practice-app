@@ -1,0 +1,28 @@
+---
+choices: Greenville High School's cafeteria will be able to save money. | Students will be able to grow their own vegetables. | The cafeteria will be able to make orders by e-mail. | Mr. Brown will be able to transport the vegetables himself.
+answerText: Greenville High School's cafeteria will be able to save money.
+---
+【正解】1 Greenville High School's cafeteria will be able to save money.（グリーンビル高校の食堂は、お金を節約することができる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：メリッサ・ワグナーによると、ピース・バレー農場を選ぶことのよい点の1つは何ですか。
+1 グリーンビル高校の食堂は、お金を節約することができる。
+2 生徒たちが、自分たちで野菜を育てることができる。
+3 食堂が、メールで注文をすることができる。
+4 ブラウンさんが、自分で野菜を運ぶことができる。
+【考え方】
+設問の advantage は「よい点、有利な点」です。メリッサが、ほかの農場と比べた自分の農場のよい点を述べているところを探します。
+メールの第3段落に Since our farm is so close to the school, the cost of transporting the vegetables would be very low.（当農場は学校のすぐ近くにあるので、野菜を運ぶ費用はとても安くすむ）とあります。Since ～ は「～なので」、transport は「運ぶ」です。
+続けて Because of this, I believe that we can offer vegetables at lower prices than other suppliers.（このため、ほかの仕入れ先よりも安い価格で野菜を提供できると考えている）とあります。
+農場が近い → 運ぶ費用が安い → 野菜を安く売れる、という流れです。野菜を安く買えれば、学校の食堂はお金を節約できます。本文と選択肢は次のように対応しています。
+本文 we can offer vegetables at lower prices than other suppliers（ほかの仕入れ先より安い価格で野菜を提供できる）＝ 選択肢 Greenville High School's cafeteria will be able to save money（グリーンビル高校の食堂はお金を節約できる）
+売る側の「安く提供できる」を、買う側から見て「お金を節約できる」と言いかえています。正解は1です。
+【ほかの選択肢】
+2 本文で野菜を育てるのはピース・バレー農場です。生徒が自分で野菜を育てられるという話は本文にありません。
+3 本文には、メリッサがこのメールに資料を添付したことや、質問があれば気軽に連絡してほしいことは書かれています。しかし、食堂がメールで注文できるとは書かれておらず、農場を選ぶよい点としても挙げられていません。
+4 本文では the cost of transporting the vegetables would be very low（野菜を運ぶ費用はとても安い）とあるだけで、だれが運ぶかは書かれていません。ブラウンさんが自分で運べるという話はありません。
+【覚えるポイント】
+・advantage：「よい点、有利な点」。反対の意味の語は disadvantage（不利な点）です。
+・at lower prices than ～：「～より安い価格で」。

@@ -1,0 +1,29 @@
+---
+choices: He is planning to buy a farm in Greenville County. | The school was looking for people to work in the cafeteria. | Some of his students were hoping to work on a local farm. | Mr. Brown wants to use more fresh vegetables in school meals.
+answerText: Mr. Brown wants to use more fresh vegetables in school meals.
+---
+【正解】4 Mr. Brown wants to use more fresh vegetables in school meals.（ブラウンさんは、学校の食事にもっと新鮮な野菜を使いたいと思っている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ロン・スターンがメリッサ・ワグナーに伝えたことの1つは何ですか。
+1 彼は、グリーンビル郡の農場を買う計画を立てている。
+2 学校は、食堂で働く人を探していた。
+3 彼の学校の生徒の何人かが、地元の農場で働きたいと思っていた。
+4 ブラウンさんは、学校の食事にもっと新鮮な野菜を使いたいと思っている。
+【考え方】
+まず、ロン・スターンがだれかを確かめます。メールの第1段落に Ron Stern, your school's principal（貴校の校長のロン・スターン）とあります。principal は「校長」です。このメールはメリッサがブラウンさんに書いたものなので、your school はブラウンさんの学校、グリーンビル高校です。
+次に、スターンさんがメリッサに何を伝えたかを探します。He told me that ～（彼は私に～と教えてくれた）のあとに2つの内容があります。
+1つ目は you became the cafeteria manager at Greenville High School last month（あなたは先月グリーンビル高校の食堂の責任者になった）です。
+2つ目は you are planning to introduce a policy of serving more fresh vegetables in the cafeteria（あなたは食堂で新鮮な野菜をもっと多く出す方針を取り入れる計画をしている）です。さらに He mentioned that you are looking for a local farm to supply them.（あなたが野菜を納める地元の農場を探しているとも言っていた）とも書かれています。
+2つ目の内容が選択肢4と合います。本文と選択肢は次のように対応しています。
+本文 you are planning to introduce a policy of serving more fresh vegetables in the cafeteria（食堂で新鮮な野菜をもっと多く出す方針を取り入れる計画だ）＝ 選択肢 Mr. Brown wants to use more fresh vegetables in school meals（ブラウンさんは学校の食事にもっと新鮮な野菜を使いたい）
+本文の you はブラウンさん、the cafeteria で出すものは school meals（学校の食事）です。正解は4です。
+【ほかの選択肢】
+1 本文で農場を経営しているのはメリッサで、I run Peace Valley Farm（私はピース・バレー農場を経営している）とあります。スターンさんが農場を買う計画をしているとは書かれていません。
+2 スターンさんが伝えたのは、ブラウンさんが探しているのは a local farm to supply them（野菜を納める地元の農場）だということです。食堂で働く人を探しているとは書かれていません。
+3 生徒について書かれているのは、メリッサの there are about 1,500 students at your school（貴校には約1,500人の生徒がいる）という人数の話だけです。生徒が農場で働きたがっているという内容は本文にありません。
+【覚えるポイント】
+・principal：「校長」。
+・introduce a policy：「方針を取り入れる、新しい決まりを始める」。

@@ -1,0 +1,29 @@
+{
+  "part": 4,
+  "targetAnswerSlots": 100,
+  "batches": [
+    {
+      "batchId": "2-2008-3",
+      "target": 50,
+      "written": 50,
+      "contentReviewed": 0,
+      "status": "complete_unreviewed",
+      "blank": 0,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 0
+    },
+    {
+      "batchId": "2-2009-1",
+      "target": 50,
+      "written": 50,
+      "contentReviewed": 0,
+      "status": "complete_unreviewed",
+      "blank": 0,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 0
+    }
+  ],
+  "updatedAt": "2026-10-22T04:56:43+00:00"
+}

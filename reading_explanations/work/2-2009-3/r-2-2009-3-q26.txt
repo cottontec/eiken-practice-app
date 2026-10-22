@@ -1,0 +1,25 @@
+---
+choices: For instance | In particular | Therefore | Nevertheless
+answerText: Therefore
+---
+【正解】3 Therefore（それゆえ、そのため）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 For instance：たとえば
+2 In particular：特に
+3 Therefore：それゆえ、そのため
+4 Nevertheless：それにもかかわらず
+【考え方】
+空所は第1段落の最後の文の初めにあります。選択肢はどれも、前の文とあとの文の関係を示す言葉です。そこで、空所の前とあとの内容をそれぞれ確かめます。
+空所の前の文は In fact, research has shown that sometimes even experts cannot tell which foods have the most calories.（実際、専門家でさえ、どの食べ物のカロリーがいちばん高いのか分からないことがあると、研究で示されている）です。その前にも、人々はメニューのどの品がいちばん太りやすいのか本当に知っているのか、という問いかけがあります。つまり「カロリーの高さは見ただけではなかなか分からない」という内容です。
+空所のあとは some people have been arguing that there should be laws to make restaurants tell customers exactly how many calories are contained in each item they sell（レストランが売るそれぞれの品に何カロリー含まれているかを、客に正確に知らせるようレストランに義務づける法律を作るべきだと主張している人々もいる）です。
+「カロリーは専門家でも分からないことがある」→「だから、店がカロリーをはっきり示すべきだという意見がある」という、原因と結果の関係になっています。Therefore は「それゆえ、そのため」と、前の内容を理由にして結果を述べるときに使う言葉です。正解は3です。
+【ほかの選択肢】
+1 For instance は「たとえば」です。前に述べたことの具体例を出すときに使います。法律を作るべきだという意見は、「専門家でもカロリーが分からない」ことの例ではないので、合いません。
+2 In particular は「特に」です。前に述べたことの中から、とりわけ1つを取り上げるときに使います。あとの文は前の文の一部を取り上げたものではなく、そこから出てきた意見なので、合いません。
+4 Nevertheless は「それにもかかわらず」です。前の内容から予想されることと反対のことを述べるときに使います。カロリーが分かりにくいから表示を求める、という自然な流れなので、反対の内容をつなぐ言葉は合いません。
+【覚えるポイント】
+・Therefore：「それゆえ、そのため」。前の文が理由、あとの文が結果になります。
+・there should be ～：「～があるべきだ」。ここでは「法律を作るべきだ」という意見を表しています。

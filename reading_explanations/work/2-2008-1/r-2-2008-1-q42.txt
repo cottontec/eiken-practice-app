@@ -1,0 +1,27 @@
+---
+choices: water to pass directly to the city center for use in homes. | traffic to reach a lake without crowding the highways. | rainwater to flow away safely below traffic lanes. | engineers to change the direction of traffic when there are problems.
+answerText: rainwater to flow away safely below traffic lanes.
+---
+【正解】3 rainwater to flow away safely below traffic lanes.（雨水が、車が通る道路の下を安全に流れ去るための（方法を提供する）。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：雨水管理・道路トンネルは、～ための方法を提供します。
+1 水が、家庭で使うために都心へ直接流れていく
+2 車が、幹線道路を混雑させずに湖まで行く
+3 雨水が、車が通る道路の下を安全に流れ去る
+4 技術者が、問題があるときに車の進む向きを変える
+【考え方】
+設問の provides a way for ～ to ... は「～が…するための方法を提供する」という意味です。トンネルのしくみは第2段落に書かれています。
+In this tunnel, the upper and middle levels function as highways for traffic to flow smoothly（このトンネルでは、上の層と真ん中の層が、車がスムーズに流れるための幹線道路として機能する）とあり、続けて When necessary, the bottom level of the tunnel carries rainwater to a storage lake.（必要なときには、トンネルの一番下の層が雨水を貯水湖へ運ぶ）とあります。
+つまり、上の2つの層は車が通る道路で、雨水はその下の一番下の層を流れていきます。
+本文 the bottom level ... carries rainwater（一番下の層が雨水を運ぶ）＝ 選択肢 rainwater to flow away ... below traffic lanes（雨水が、車が通る道路の下を流れ去る）
+traffic lanes は「車線、車が通る道」です。safely（安全に）については、第4段落に The tunnel has been carefully designed to be as safe as possible.（このトンネルはできるだけ安全になるよう注意深く設計されている）とあります。正解は3です。
+【ほかの選択肢】
+1 本文で city center（都心）が出てくるのは、上の層と真ん中の層が providing cars with direct access to the city center（車が都心へ直接行けるようにする）という部分です。都心へ直接行くのは「車」であって「水」ではありません。また、水を家庭で使うという話は本文にありません。
+2 lake（湖）へ運ばれるのは、車ではなく雨水です。本文には the bottom level ... carries rainwater to a storage lake（一番下の層が雨水を貯水湖へ運ぶ）とあります。
+4 本文には、トンネルのモードを切りかえることは書かれていますが、技術者が車の進む向きを変えるという話はありません。
+【覚えるポイント】
+・function as ～：「～として機能する、～の役目を果たす」。
+・provide A with B：「AにBを与える」。providing cars with direct access で「車に直接の通り道を与える（車が直接行けるようにする）」。

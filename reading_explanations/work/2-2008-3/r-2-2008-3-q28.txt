@@ -1,0 +1,24 @@
+---
+choices: sold | chosen | lost | split
+answerText: lost
+---
+【正解】3 lost（失われた）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 sold：売られた
+2 chosen：選ばれた
+3 lost：失われた
+4 split：分割された、割られた
+【考え方】
+空所は第2段落の最後の In the hot summer of 2003, for example, nearly 10 percent of the country's forests were (　).（たとえば2003年の暑い夏には、その国の森林の10パーセント近くが〜された）という文にあります。were のあとに過去分詞（lost のような形）が入る受け身（「～される」という形）の文です。
+この文は for example（たとえば）で始まっているので、直前の文の具体的な例です。直前の文は The new trees burn much more easily than cork oaks, and this has led to a huge increase in forest fires.（新しい木はコルクガシよりずっと燃えやすく、このことが森林火災の大幅な増加につながっている）です。
+つまり、2003年の夏には森林火災のために、森林の10パーセント近くが燃えてなくなったということです。lose は「～を失う」で、were lost で「失われた」となります。正解は3です。
+【ほかの選択肢】
+1 sold は「売られた」です。森林が売られた話は本文になく、森林火災が増えたことの例になりません。
+2 chosen は「選ばれた」です。森林の10パーセントが選ばれた、では火災の例として意味が通りません。
+4 split は「分割された、割られた」です。森林が分割された話は本文になく、火災が増えたという直前の文の例になりません。
+【覚えるポイント】
+・lead to ～：「～につながる、～を引き起こす」。has led to a huge increase で「大幅な増加につながっている」。
+・for example のあとは、直前の内容の具体例がきます。前の文とセットで読みましょう。

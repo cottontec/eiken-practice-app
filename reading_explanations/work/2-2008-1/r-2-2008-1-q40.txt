@@ -1,0 +1,27 @@
+---
+choices: He understands that it is not always possible for people to sit back at an angle of 135 degrees. | He says that it is not practical for parents to tell their children to stop playing video games. | He thinks that a major cause of back pain is changing sitting positions too often. | He found that the best treatment for back pain is different for every individual.
+answerText: He understands that it is not always possible for people to sit back at an angle of 135 degrees.
+---
+【正解】1 He understands that it is not always possible for people to sit back at an angle of 135 degrees.（彼は、人々がいつも135度の角度で後ろにもたれてすわれるわけではないことを分かっている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：バシール博士について正しいのは、次のうちどれですか。
+1 彼は、人々がいつも135度の角度で後ろにもたれてすわれるわけではないことを分かっている。
+2 彼は、親が子どもにテレビゲームをやめるように言うのは現実的ではないと言っている。
+3 彼は、腰痛の主な原因は、すわる姿勢をあまりに何度も変えることだと考えている。
+4 彼は、腰痛の最もよい治療法は一人一人ちがうことを発見した。
+【考え方】
+第2段落で、最も健康によい姿勢は leaning backward at an angle of 135 degrees（135度の角度で後ろにもたれること）だと分かりました。
+第4段落の最初に Dr. Bashir points out that people need to be practical as well.（バシール博士は、人々は現実的になることも必要だと指摘している）とあります。practical は「現実的な、実際的な」です。続けて There are many tasks, such as using a computer, that are difficult to do if one is leaning backward.（コンピューターを使うことなど、後ろにもたれていてはしにくい作業がたくさんある）と説明しています。
+つまり博士は、135度でもたれる姿勢が一番よいと分かっていても、作業によってはいつもその姿勢ではいられない、ということを理解しているのです。
+本文 many tasks ... that are difficult to do if one is leaning backward（後ろにもたれているとしにくい作業がたくさんある）＝ 選択肢 it is not always possible for people to sit back at an angle of 135 degrees（いつも135度でもたれてすわれるわけではない）
+not always は「いつも～とは限らない」という意味です。正解は1です。
+【ほかの選択肢】
+2 博士は people should avoid spending a long time leaning over computers or video games（コンピューターやテレビゲームの上に身を乗り出して長い時間を過ごすのを避けるべきだ）と言い、Parents will certainly agree with this piece of advice.（親はきっとこの助言に賛成するだろう）と書かれています。親が子どもに注意するのが「現実的ではない」とは書かれていません。
+3 本文には it is important to move around and change position from time to time（ときどき体を動かして姿勢を変えることが大切だ）とあります。姿勢を変えることはすすめられているので、腰痛の原因だというのは反対の内容です。
+4 腰痛の治療法が人によってちがうという話は本文にありません。博士の研究は、どのすわり方が背骨によいかを調べたものです。
+【覚えるポイント】
+・not always ～：「いつも～とは限らない」。一部だけを否定する言い方です。
+・lean backward：「後ろにもたれる」。lean over ～ は「～の上に身を乗り出す」。

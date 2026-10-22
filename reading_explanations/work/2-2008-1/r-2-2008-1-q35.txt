@@ -1,0 +1,26 @@
+---
+choices: Fly to Boston from Atlanta. | Put some flight tickets in the mail. | Book a room at the Majestic Hotel. | Pick Ms. Brenner up from the airport.
+answerText: Pick Ms. Brenner up from the airport.
+---
+【正解】4 Pick Ms. Brenner up from the airport.（空港でブレナーさんを出迎える。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：トム・ノースは、6月18日に自分が何をすると言っていますか。
+1 アトランタからボストンへ飛行機で行く。
+2 飛行機のチケットを郵送する。
+3 マジェスティック・ホテルの部屋を予約する。
+4 空港でブレナーさんを出迎える。
+【考え方】
+June 18（6月18日）という日付が出てくるのは第2段落です。You will be taking Southeastern Airways Flight 258, departing from Atlanta at 9:30 a.m. on June 18 and arriving in Boston at 12:10 p.m.（あなたは6月18日午前9時30分にアトランタを出発し、午後12時10分にボストンに着くサウスイースタン航空258便に乗る予定だ）とあります。
+すぐ次の文が I will meet you at the airport and take you to your hotel.（私が空港であなたを迎え、ホテルまでお連れする）です。I はトムです。つまり、ブレナーさんがボストンに着く6月18日に、トムは空港へ迎えに行くということです。
+本文 I will meet you at the airport（私が空港であなたを迎える）＝ 選択肢 Pick Ms. Brenner up from the airport（空港でブレナーさんを出迎える）
+pick ～ up は「（車などで）～を迎えに行く、拾う」という意味です。正解は4です。
+【ほかの選択肢】
+1 6月18日にアトランタからボストンへ飛行機で行くのは、トムではなくブレナーさんです。You will be taking ～ Flight 258（あなたは258便に乗る予定だ）と、トムは相手のことを書いています。人物が違います。
+2 チケットの郵送は、I put your plane tickets in the mail yesterday（昨日チケットを郵送した）とあるように、すでに済んでいます。メールの日付は6月13日なので、郵送したのは6月12日です。6月18日の予定ではないので、時期が違います。
+3 ホテルについては I have booked a room for you at the Majestic Hotel（マジェスティック・ホテルに部屋を予約してある）と、すでに予約が済んでいることが書かれています。6月18日にすることではないので、時期が違います。
+【覚えるポイント】
+・pick ～ up：「（車などで）～を迎えに行く」。pick ～ up from the airport で「空港で～を出迎える」。
+・put ～ in the mail：「～を郵送する」。

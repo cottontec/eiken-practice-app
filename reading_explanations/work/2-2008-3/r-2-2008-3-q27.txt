@@ -1,0 +1,24 @@
+---
+choices: challenging | discovering | removing | protecting
+answerText: protecting
+---
+【正解】4 protecting（守ること）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 challenging：～に挑戦すること、～に異議を唱えること
+2 discovering：～を発見すること
+3 removing：～を取り除くこと
+4 protecting：～を守ること
+【考え方】
+空所は第2段落の The WWF believes that the cork industry is necessary for (　) the forests in the areas where cork oaks grow.（WWFは、コルク産業はコルクガシが育つ地域の森林を〜するために必要だと考えている）という文にあります。for のあとなので、動詞に -ing がついた形（「～すること」）が選択肢に並んでいます。
+WWFは環境保護団体で、ワイン業界にコルクのせんを捨てないよう求めています。その理由として、空所の文のすぐあとに One reason for this is that cork oaks do not catch fire very easily, so they help prevent the spread of forest fires.（その理由の1つは、コルクガシは簡単には火がつかないので、森林火災が広がるのを防ぐのに役立つということだ）とあります。
+コルクガシは森林火災から森を守る役目をしているのです。コルク産業が続けば農家はコルクガシを育て続けるので、森を守ることにつながります。protect は「～を守る」という意味なので、necessary for protecting the forests で「森林を守るために必要」となります。正解は4です。
+【ほかの選択肢】
+1 challenging は「～に挑戦すること、～に異議を唱えること」です。「森林に挑戦するために必要」では意味が通らず、火災を防ぐという理由ともつながりません。
+2 discovering は「～を発見すること」です。森林はすでにある場所なので、「森林を発見するために必要」では話が合いません。
+3 removing は「～を取り除くこと」です。「森林を取り除くために必要」では、環境保護団体であるWWFの考えとも、コルクガシが火災を防ぐという理由とも反対になります。
+【覚えるポイント】
+・be necessary for ～ing：「～するために必要である」。
+・catch fire：「火がつく、燃え出す」。do not catch fire easily で「燃えにくい」。

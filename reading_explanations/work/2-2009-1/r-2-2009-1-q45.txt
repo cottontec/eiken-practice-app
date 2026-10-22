@@ -1,0 +1,27 @@
+---
+choices: Moore got lost on his way to an ocean race in Hawaii. | The problem of garbage in the Pacific Ocean is getting worse. | Sailors avoid the horse latitudes because of the amount of plastic there. | Garbage from Asia is not usually carried by ocean currents.
+answerText: The problem of garbage in the Pacific Ocean is getting worse.
+---
+【正解】2 The problem of garbage in the Pacific Ocean is getting worse.（太平洋のごみの問題は悪化している。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：次の記述のうち正しいものはどれですか。
+1 ムーアはハワイでの海のレースに向かう途中で道に迷った。
+2 太平洋のごみの問題は悪化している。
+3 船乗りは、そこにあるプラスチックの量のためにホース・ラティテューズを避けている。
+4 アジアからのごみはふつう、海流によって運ばれない。
+【考え方】
+本文全体と合うものを選ぶ問題なので、選択肢を1つずつ本文と照らし合わせます。
+第3段落の2文目に Over the last 70 years, however, more and more plastic has ended up in the ocean.（この70年の間に、ますます多くのプラスチックが海に行き着くようになった）とあり、段落の最後に The huge area of plastic garbage discovered by Moore has actually been growing for decades.（ムーアが発見したプラスチックごみの巨大な海域は、実は何十年もの間、大きくなり続けている）とあります。for decades は「何十年もの間」という意味です。
+さらに第4段落の最後に、Moore warns that we must take action before the problem becomes too big to solve.（ムーアは、問題が大きくなりすぎて解決できなくなる前に行動しなければならないと警告している）とあります。本文と選択肢は次のように対応しています。
+本文 has actually been growing for decades（何十年もの間、大きくなり続けている）＝ 選択肢 is getting worse（悪化している）
+ごみの海域がどんどん大きくなっているということは、問題が悪くなっているということです。正解は2です。
+【ほかの選択肢】
+1 本文では、ムーアはハワイでのレースに参加したあと、ホース・ラティテューズを訪れました。レースに向かう途中で道に迷ったという話はないので、誤りです。
+3 本文では、船乗りがこの海域にめったに行かないのは it has almost no wind（ほとんど風がない）ため、船で通り抜けるのが難しいからだと書かれています。プラスチックの量が理由ではないので、原因がちがいます。
+4 本文では、海流は北アメリカの西海岸と the eastern coasts of Asia（アジアの東海岸）からごみを集める、と書かれています。アジアからのごみも海流で運ばれているので、本文と反対です。
+【覚えるポイント】
+・get worse：「悪化する、もっと悪くなる」。
+・for decades：「何十年もの間」。decade は「10年間」です。

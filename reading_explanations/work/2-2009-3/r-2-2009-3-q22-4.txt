@@ -1,0 +1,21 @@
+---
+choices: had difficulty | some of | finding | the employees | the
+answerText: finding
+order: 2 4 1 3 5
+---
+【正解】3 finding（この問題の4番目）
+【完成文】
+Last night, F&V Communications had a company party at Moise's Tasty Pizzas. ( Some of the employees had difficulty finding the ) restaurant, so they were late.
+並べ方：2 some of → 4 the employees → 1 had difficulty → 3 finding → 5 the（2番目は4、4番目は3）
+【和訳】
+昨夜、F&Vコミュニケーションズ社は、モイーズ・テイスティ・ピザで会社のパーティーを開きました。従業員の何人かはそのレストランを見つけるのに苦労したので、遅刻しました。
+【考え方】
+空所は文の初めなので、まず主語（「～は」にあたる部分）を作ります。
+2 some of と 4 the employees を合わせると、some of the employees（従業員のうちの何人か）になります。これが主語です。
+次に動詞を置きます。1 had difficulty は動詞 had で始まっているので、主語のあとにきます。have difficulty ～ing は「～するのに苦労する」という決まった言い方です。ですから、had difficulty のあとには ～ing の形の 3 finding を続けます。
+find のあとには「何を見つけるのに苦労したか」がきます。空所のあとに restaurant があるので、5 the をその前に置いて the restaurant（そのレストラン）とします。
+こうして Some of the employees had difficulty finding the restaurant（従業員の何人かはそのレストランを見つけるのに苦労した）となり、so they were late（それで遅刻した）ともつながります。
+まちがえやすいのは、the を employees の前に重ねようとすることです。4 the employees にはすでに the が付いているので、5 the は restaurant の前に使います。
+【覚えるポイント】
+・have difficulty ～ing：「～するのに苦労する」。have trouble ～ing も同じ意味です。
+・some of the ～：「～のうちのいくつか、何人か」。

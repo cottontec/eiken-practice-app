@@ -1,0 +1,27 @@
+---
+choices: often helps the sales manager at Rosa's Fashions. | has recently taken a management-training course. | has some experience with the work done by a sales manager. | is responsible for finding new employees to work at the store.
+answerText: has some experience with the work done by a sales manager.
+---
+【正解】3 has some experience with the work done by a sales manager.（販売マネージャーがする仕事をいくらか経験したことがある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ローザ・レイノルズによると、ジーナ・テイトは（　）。
+1 ローザズ・ファッションズの販売マネージャーをよく手伝っている
+2 最近、管理職研修のコースを受けた
+3 販売マネージャーがする仕事をいくらか経験したことがある
+4 店で働く新しい従業員を見つける責任を負っている
+【考え方】
+第3段落を見ます。最初に Although Gina has never been a sales manager before（ジーナさんはこれまで販売マネージャーになったことはないが）とあり、販売マネージャーの経験そのものはないと分かります。
+しかし続けて、Occasionally, however, I have asked Gina to work on tasks that a sales manager would normally do, such as training new employees and creating monthly sales reports.（しかしときどき、新しい従業員を教育したり、毎月の販売報告書を作ったりといった、ふつうなら販売マネージャーがするような仕事をジーナさんに頼んできた）とあります。occasionally は「ときどき」、tasks は「仕事、作業」です。さらに Based on the efficient way that Gina has carried out these tasks（ジーナさんがこれらの仕事を手際よくこなしてきたことから考えて）とあり、ジーナさんが実際にその仕事をしてきたことが分かります。
+つまり、販売マネージャーという肩書きはなくても、その仕事の一部はやったことがあるのです。本文と選択肢は次のように対応しています。
+本文 I have asked Gina to work on tasks that a sales manager would normally do（ふつう販売マネージャーがする仕事をジーナさんに頼んできた）＝ 選択肢 has some experience with the work done by a sales manager（販売マネージャーがする仕事をいくらか経験している）
+正解は3です。
+【ほかの選択肢】
+1 本文には Since my store is quite small, I do not employ a sales manager.（私の店はかなり小さいので、販売マネージャーは雇っていない）とあります。ローザズ・ファッションズには販売マネージャーがいないので、その人を手伝うことはできません。
+2 ジーナさんが管理職の研修を受けたという話は本文にありません。
+4 本文でジーナさんがしたのは、新しい従業員を「教育すること（training）」です。新しい従業員を「見つけること」ではありません。また、それはときどき頼まれた仕事で、責任を負っている（担当している）とも書かれていないので誤りです。
+【覚えるポイント】
+・Although ～, …：「～だけれども…」。前半で弱い点を認め、後半でよい点を述べる形です。
+・carry out ～：「（仕事など）をやりとげる、実行する」。

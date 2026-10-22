@@ -1,0 +1,25 @@
+---
+choices: benefit | describe | trick | embarrass
+answerText: benefit
+---
+【正解】1 benefit（～の役に立つ、～のためになる）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 benefit：～の役に立つ、～のためになる
+2 describe：～を説明する、描写する
+3 trick：～をだます
+4 embarrass：～に恥ずかしい思いをさせる、～を困らせる
+【考え方】
+空所は第3段落の The information can also (　) owners in another way. にあります。The information は、DNA検査で分かる「犬の血筋についての情報」です。also と in another way（別の点でも）があるので、前の文とは別の、同じ向きの話が加わると分かります。
+前の文は Most owners who try DNA testing do so because they are curious about their dog's background.（DNA検査を試す飼い主のほとんどは、犬の血筋に興味があるからそうする）です。つまり1つ目は「興味を満たせる」というよい点です。
+空所のあとを見ると、Some breeds are more likely to suffer from certain health problems.（犬種によっては特定の病気にかかりやすいものがある）、Knowing a dog's background can help owners and veterinarians make better healthcare choices.（犬の血筋を知れば、飼い主や獣医がよりよい健康管理の選択をする助けになる）とあります。veterinarian は「獣医」です。
+これは、情報が犬の健康を守るのに役立つという、もう1つのよい点です。ですから「情報は別の点でも飼い主の役に立つ」となる benefit が入ります。正解は1です。
+【ほかの選択肢】
+2 describe は「～を説明する、描写する」です。「情報が飼い主を別の点で説明する」となり、意味が通りません。情報が説明するのは飼い主ではなく犬の血筋です。
+3 trick は「～をだます」です。あとに続くのは、健康管理に役立つというよい話なので、飼い主をだますという内容とは逆です。
+4 embarrass は「～に恥ずかしい思いをさせる」です。あとに続く内容は情報が役に立つという話で、飼い主が恥ずかしい思いをするとは書かれていません。
+【覚えるポイント】
+・benefit ～：「～の役に立つ、～のためになる」。名詞として「利益、恩恵」という意味もあります。
+・be likely to ～：「～しやすい、～しそうだ」。

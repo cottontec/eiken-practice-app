@@ -1,0 +1,27 @@
+---
+choices: People who share a room could stay for free. | Some of the people would have to sleep in twin rooms. | Eight people would have to go to another hotel. | She would offer a discount if more people were staying.
+answerText: Some of the people would have to sleep in twin rooms.
+---
+【正解】2 Some of the people would have to sleep in twin rooms.（何人かの人はツインルームで寝なければならないだろう。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：スーザン・タリーは、セミナー参加者の宿泊について何と言っていますか。
+1 部屋を相部屋で使う人は無料で泊まれるだろう。
+2 何人かの人はツインルームで寝なければならないだろう。
+3 8人はほかのホテルへ行かなければならないだろう。
+4 もっと多くの人が泊まるなら、彼女は割引をするだろう。
+【考え方】
+設問の accommodations は「宿泊施設、宿泊」という意味です。宿泊について書かれているのは第2段落です。
+第2段落では、シェルダンさんは40人分のシングルルームを希望しましたが、we only have 32 single rooms free on that night（その夜は空いているシングルルームが32室しかない）と書かれています。free はここでは「空いている」という意味です。続けて there are some twin rooms available（ツインルームにはいくつか空きがある）とあり、May I recommend that the remaining eight people share those rooms?（残りの8人にはそれらの部屋を相部屋で使うことをおすすめしてもよろしいでしょうか）と提案しています。twin room は「ベッドが2つある2人用の部屋」です。
+40人のうち32人はシングルルームに泊まれますが、残りの8人はツインルームを2人ずつで使うことになります。本文と選択肢は次のように対応しています。
+本文 the remaining eight people share those rooms（残りの8人がそれらの〔ツインの〕部屋を相部屋で使う）＝ 選択肢 Some of the people would have to sleep in twin rooms（何人かの人はツインルームで寝なければならないだろう）
+正解は2です。
+【ほかの選択肢】
+1 本文には、大口の予約なので宿泊料金を通常料金から a 15-percent discount（15パーセントの割引）にするとあります。相部屋の人が無料で泊まれるとは書かれていないので、誤りです。free は第2段落では「（部屋が）空いている」という意味で使われていて、「無料」という意味ではありません。
+3 残りの8人は、同じホテルのツインルームを相部屋で使うよう提案されています。ほかのホテルへ行くという話ではないので、誤りです。
+4 割引は Since this is a large booking（これは大口の予約なので）、今の40人の予約に対して行うと書かれています。「もっと多くの人が泊まるなら」という条件はついていないので、誤りです。
+【覚えるポイント】
+・free：「無料の」のほかに「空いている、ひまな」という意味もあります。rooms free で「空いている部屋」。
+・the remaining ～：「残りの～」。

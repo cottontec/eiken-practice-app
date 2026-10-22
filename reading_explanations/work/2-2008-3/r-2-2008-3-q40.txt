@@ -1,0 +1,29 @@
+---
+choices: Prove his theory in a way that will not damage the structure. | Build a crane on top of the pyramid to conduct his survey. | Use his computer software to make plans for a new pyramid. | Get permission to take stones back to France to study them.
+answerText: Prove his theory in a way that will not damage the structure.
+---
+【正解】1 Prove his theory in a way that will not damage the structure.（建造物を傷つけない方法で自分の説を証明すること。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ウーダンは何をしたいと思っていますか。
+1 建造物を傷つけない方法で、自分の説を証明すること。
+2 調査を行うために、ピラミッドの頂上にクレーンを建てること。
+3 コンピューターソフトを使って、新しいピラミッドの設計図を作ること。
+4 石をフランスに持ち帰って研究する許可を得ること。
+【考え方】
+ウーダンさんがこれからしようとしていることは、第4段落に書かれています。
+まず he has applied to the Egyptian authorities for permission to conduct a survey of the pyramid（彼はピラミッドの調査を行う許可をエジプト当局に申請した）とあります。authorities は「当局（国や役所の担当機関）」、survey は「調査」です。
+次に He plans to use advanced technology that will allow him to scan the structure without harming it.（彼は、建造物を傷つけずに走査できる先端技術を使うつもりだ）とあります。scan は「機械で内部を調べる、走査する」、harm は「傷つける」です。
+そして最後に、調査によってピラミッドの内部に坂があると分かれば、なぞが解き明かされると書かれています。つまりウーダンさんは、建物を傷つけない方法で調べて、自分の説（内部に坂がある）が正しいことを示したいのです。本文と選択肢は次のように対応しています。
+本文 scan the structure without harming it（建造物を傷つけずに走査する）＝ 選択肢 in a way that will not damage the structure（建造物を傷つけない方法で）
+本文 his survey shows that there is a slope inside the pyramid（調査によってピラミッド内部に坂があると示される）＝ 選択肢 Prove his theory（自分の説を証明する）
+harm と damage は、どちらも「傷つける、損なう」という意味です。正解は1です。
+【ほかの選択肢】
+2 クレーンは、ウーダンさんの説ではなく、昔からある別の説で使われたとされるものです。ウーダンさんがクレーンを建てて調査するという話は本文にありません。
+3 ウーダンさんはコンピューターソフトを使って今あるピラミッドの3Dモデルを作りましたが、新しいピラミッドの設計図を作るという話はありません。
+4 ウーダンさんが求めているのはピラミッドを調査する許可です。石をフランスへ持ち帰る許可ではないので誤りです。建物を傷つけずに調べたいという考えとも合いません。
+【覚えるポイント】
+・without ～ing：「～しないで、～せずに」。without harming it で「それを傷つけずに」。
+・apply to ～ for …：「～に…を申請する」。

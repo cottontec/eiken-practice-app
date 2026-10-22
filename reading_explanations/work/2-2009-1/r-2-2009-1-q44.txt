@@ -1,0 +1,28 @@
+---
+choices: Taking the plastic out of the ocean would be hard. | The ocean is becoming too dangerous to travel on. | Governments should reduce the production of plastic. | The solution is to find a material to use instead of plastic.
+answerText: Taking the plastic out of the ocean would be hard.
+---
+【正解】1 Taking the plastic out of the ocean would be hard.（海からプラスチックを取り出すのは難しいだろう。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ムーアがごみの問題について言っていることの1つは何ですか。
+1 海からプラスチックを取り出すのは難しいだろう。
+2 海は危険になりすぎて、その上を移動できなくなっている。
+3 政府はプラスチックの生産を減らすべきだ。
+4 解決策は、プラスチックの代わりに使う材料を見つけることだ。
+【考え方】
+ムーアの考えは第4段落に書かれています。
+1文目と2文目は What is the solution? Some people say that governments should try to remove the plastic from the ocean.（解決策は何か。政府が海からプラスチックを取り除くよう努めるべきだと言う人もいる）です。remove は「取り除く」という意味です。
+3文目に Moore, however, thinks that this would be very difficult.（しかし、ムーアはそれはとても難しいだろうと考えている）とあります。this（それ）は、直前の「海からプラスチックを取り除くこと」を指しています。本文と選択肢は次のように対応しています。
+本文 remove the plastic from the ocean（海からプラスチックを取り除く）＝ 選択肢 Taking the plastic out of the ocean（海からプラスチックを取り出すこと）
+本文 this would be very difficult（それはとても難しいだろう）＝ 選択肢 would be hard（難しいだろう）
+正解は1です。
+【ほかの選択肢】
+2 第1段落に、船乗りがホース・ラティテューズへめったに行かないのは風がほとんどないからだと書かれていますが、海が危険になりすぎて移動できないとムーアが言ったという話はありません。
+3 ムーアがすすめているのは、プラスチックをもっとリサイクルすることと、捨てるときにもっと注意することです。政府がプラスチックの生産を減らすべきだとは書かれていないので、誤りです。本文で政府が出てくるのは、「政府が海からプラスチックを取り除くべきだ」と言う人々の意見の中です。
+4 プラスチックの代わりの材料を見つけるという話は本文にありません。ムーアが一番大切だと言っているのは、stop more plastic from getting into the ocean（これ以上プラスチックが海に入らないようにすること）です。
+【覚えるポイント】
+・remove A from B：「BからAを取り除く」。take A out of B（BからAを取り出す）で言いかえられます。
+・stop A from ～ing：「Aが～するのを止める、防ぐ」。

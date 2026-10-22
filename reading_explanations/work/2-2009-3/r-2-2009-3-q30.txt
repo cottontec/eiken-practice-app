@@ -1,0 +1,24 @@
+---
+choices: question | borrow | promote | ignore
+answerText: promote
+---
+【正解】3 promote（～を推し進める、広める）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 question：～を疑う、～に疑問をもつ
+2 borrow：～を借りる
+3 promote：～を推し進める、広める
+4 ignore：～を無視する
+【考え方】
+空所は第1段落の The MDRS was built by the Mars Society, an organization founded in 1998 to (　) the idea of human beings traveling to Mars.（MDRSは、人類が火星へ旅をするという考えを（　）ために1998年に設立された団体、火星協会によって建てられた）という文にあります。to (　) は「～するために」と、火星協会が作られた目的を表しています。
+火星協会がどんな活動をしているかを、あとの文で確かめます。Since 2002, the Mars Society has been running programs at the MDRS ～（2002年から、火星協会はMDRSでプログラムを運営している）とあり、The aim is to help people prepare for actual trips to Mars in the future.（その目的は、将来の実際の火星旅行に人々が備えられるよう手助けすることだ）と続きます。
+人々が火星旅行に備えるのを手伝っているのですから、この団体は人類の火星旅行に賛成し、それを実現させようとしていると分かります。promote は「（考えや活動など）を推し進める、広める」という意味です。「人類の火星旅行という考えを推し進めるために作られた団体」となり、あとの活動の説明とつながります。正解は3です。
+【ほかの選択肢】
+1 question は動詞で「～を疑う、～に疑問をもつ」です。火星旅行の考えを疑う団体なら、人々が火星旅行に備えるのを手伝うことはないはずで、あとの文と合いません。
+2 borrow は「～を借りる」です。「火星旅行という考えを借りるために」では意味が通りません。
+4 ignore は「～を無視する」です。考えを無視するために団体を作る、ということは意味が通らず、火星旅行の準備を手伝う活動とも反対です。
+【覚えるポイント】
+・promote：「～を推し進める、広める、促進する」。
+・the idea of A ～ing：「Aが～するという考え」。ここでは the idea of human beings traveling to Mars で「人類が火星へ旅をするという考え」です。

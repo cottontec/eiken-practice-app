@@ -1,0 +1,28 @@
+---
+choices: realized that many other people had the same ideas. | sent his notes to Wallace to have them checked. | waited to learn more about Wallace's theories. | spent years collecting evidence to support it.
+answerText: spent years collecting evidence to support it.
+---
+【正解】4 spent years collecting evidence to support it.（何年もかけて、それを裏づける証拠を集めた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：自分の進化論を出版する前に、ダーウィンは（　　）。
+1 ほかの多くの人が同じ考えをもっていることに気づいた
+2 自分のメモを確認してもらうためにウォレスに送った
+3 ウォレスの理論についてもっと知るために待った
+4 何年もかけて、それを裏づける証拠を集めた
+【考え方】
+ダーウィンが理論を発表する前のことは、第4段落の初めに書かれています。
+1文目に Darwin had first thought of his theory of evolution 20 years earlier, but he had delayed making it public because he knew that many people would find it difficult to accept.（ダーウィンは20年前に初めて進化論を思いついていたが、多くの人が受け入れにくいと感じるだろうと分かっていたので、それを発表するのを遅らせていた）とあります。delay は「遅らせる」、make ～ public は「～を発表する、公にする」という意味です。
+2文目に He used this time to gather as much evidence as possible for his theory.（彼はこの期間を使って、自分の理論のためにできるだけ多くの証拠を集めた）と続きます。this time（この期間）は、思いついてから発表するまでの長い年月のことです。本文と選択肢は次のように対応しています。
+本文 used this time（この〔何年もの〕期間を使った）＝ 選択肢 spent years（何年も費やした）
+本文 gather as much evidence as possible for his theory（理論のためにできるだけ多くの証拠を集める）＝ 選択肢 collecting evidence to support it（それを裏づける証拠を集める）
+選択肢の it は his theory of evolution（彼の進化論）を指しています。正解は4です。
+【ほかの選択肢】
+1 本文には、ダーウィンが「ウォレス」が同じ理論を思いついていたと知ってショックを受けたことは書かれていますが、「ほかの多くの人」が同じ考えをもっていたと気づいたという話はありません。人数が言い切りすぎです。
+2 本文では、1858年に考えを送ったのはウォレスで、送り先がダーウィンです。ダーウィンがウォレスにメモを送ったのではないので、人物が逆になっています。
+3 ダーウィンが発表を遅らせたのは、多くの人が受け入れにくいと感じるだろうと思ったからです。ウォレスの理論について知るために待ったのではないので、理由がちがいます。
+【覚えるポイント】
+・spend ＋ 時間 ＋ ～ing：「～して（時間）を過ごす、～するのに（時間）を使う」。
+・as much ～ as possible：「できるだけ多くの～」。

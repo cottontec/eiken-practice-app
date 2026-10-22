@@ -1,0 +1,24 @@
+---
+choices: leadership | feedback | influence | security
+answerText: feedback
+---
+【正解】2 feedback（意見、感想、反応）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 leadership：指導力、指導者としての立場
+2 feedback：（体験などについての）意見、感想、反応
+3 influence：影響、影響力
+4 security：安全、警備
+【考え方】
+空所は第2段落の最初の文にあります。secret patients visit a doctor or dentist's clinic ... and then provide (　) on their experience there（覆面患者は医者や歯医者の診療所を訪れ、そのあとで、そこでの体験について（　）を提供する）です。provide は「～を提供する、与える」、on ～ はここでは「～について」です。
+第1段落では、覆面調査員が店を調べたあとで報告書を書くことが説明され、覆面患者も do the same thing for medical clinics（診療所のために同じことをする）と書かれていました。つまり覆面患者は、診療所での体験について「どうだったか」を伝える役目をもっています。
+feedback は「（体験や仕事などについての）意見、感想」という意味で、provide feedback on ～ で「～について意見を伝える」となります。正解は2です。
+【ほかの選択肢】
+1 leadership は「指導力」です。「そこでの体験について指導力を提供する」となり、患者のふりをして診療所を調べる人の役目に合いません。
+3 influence は「影響」です。provide influence on という言い方は自然ではなく、覆面患者の役目が「体験を報告すること」であるという内容とも合いません。
+4 security は「安全、警備」です。覆面患者は診療所を警備するのではなく、サービスを調べて伝える人なので合いません。
+【覚えるポイント】
+・feedback：「（体験などについての）意見、感想、反応」。give/provide feedback on ～ で「～について意見を伝える」。
+・as the name suggests：「その名前が示すとおり」。

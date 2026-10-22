@@ -1,0 +1,25 @@
+---
+choices: requests | concerns | attitudes | incomes
+answerText: incomes
+---
+【正解】4 incomes（収入）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 requests：要求、依頼
+2 concerns：心配、関心事
+3 attitudes：態度、考え方
+4 incomes：収入
+【考え方】
+空所は第2段落の The new rules, however, will reduce their (　) even further.（しかし新しい規則は、彼らの〜をさらに減らすだろう）という文にあります。their は taxi drivers（タクシー運転手たち）を指します。reduce は「～を減らす」、even further は「さらにいっそう」です。
+直前の文では、運転手たちが the recent high price of gasoline means they already have to work 10 or 12 hours a day just to make enough money to live（最近のガソリン価格の高さのために、生活できるだけのお金をかせぐのに、すでに1日10時間や12時間働かなければならない）と言っています。お金をかせぐのがすでに大変だという話です。
+空所の文のあとには、クレジットカードで支払われると運転手は料金の5パーセントをカード会社に払わなければならないこと、GPSの画面は取り付けるのに3,000ドルもかかることが例として書かれています。どちらも運転手の手元に残るお金が減る話です。
+ですから、新しい規則は運転手の「収入」をさらに減らすと考えられます。income は「収入」で、reduce their incomes で「彼らの収入を減らす」となります。正解は4です。even further（さらに）も、ガソリン代の高さですでに収入が苦しいことに付け加えている、という流れに合います。
+【ほかの選択肢】
+1 requests は「要求、依頼」です。新しい規則が運転手の要求を減らすという話は本文になく、あとに続くお金の例ともつながりません。
+2 concerns は「心配、関心事」です。お金がかかる規則によって運転手の心配が「減る」のでは、話が反対になります。
+3 attitudes は「態度、考え方」です。あとに続くのはカード会社への支払いやGPSの費用といったお金の話なので、態度が減るという内容とは結びつきません。
+【覚えるポイント】
+・income：「収入」。reduce one's income で「～の収入を減らす」。
+・even further：「さらにいっそう」。すでにある状態がもっと進むことを表します。

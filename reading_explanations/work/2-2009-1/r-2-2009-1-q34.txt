@@ -1,0 +1,27 @@
+---
+choices: He is planning to buy a projector and a screen. | He has to make a change to his reservation. | He would like to hold a seminar at her hotel. | He wants someone to make a presentation.
+answerText: He would like to hold a seminar at her hotel.
+---
+【正解】3 He would like to hold a seminar at her hotel.（彼は彼女のホテルでセミナーを開きたいと思っている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：シェルダンさんはなぜスーザン・タリーにEメールを書いたのですか。
+1 彼はプロジェクターとスクリーンを買う予定である。
+2 彼は自分の予約を変更しなければならない。
+3 彼は彼女のホテルでセミナーを開きたいと思っている。
+4 彼はだれかに発表をしてもらいたいと思っている。
+【考え方】
+このEメールは、スーザン・タリーがシェルダンさんに送った返事です。ですから、シェルダンさんが最初に何を書いてきたのかは、返事の中から読み取ります。
+第1段落の1文目に Thank you for your e-mail about using the Lily Hotel for your company's sales training seminar in August.（8月の貴社の営業研修セミナーにリリー・ホテルを使うことについてのEメールをありがとうございます）とあります。続けて、希望の日 August 8（8月8日）に会議場が空いていることを伝えています。
+つまり、シェルダンさんは「自分の会社のセミナーをリリー・ホテルで開きたい」という内容のEメールを送ったのです。スーザン・タリーはリリー・ホテルのイベント担当マネージャーなので、her hotel（彼女のホテル）はリリー・ホテルのことです。本文と選択肢は次のように対応しています。
+本文 using the Lily Hotel for your company's sales training seminar（会社の営業研修セミナーにリリー・ホテルを使うこと）＝ 選択肢 hold a seminar at her hotel（彼女のホテルでセミナーを開く）
+正解は3です。
+【ほかの選択肢】
+1 本文の projector and a large screen（プロジェクターと大きなスクリーン）は、会議場に備えつけられている設備として書かれています。シェルダンさんがそれを買う予定だという話はないので、誤りです。
+2 シェルダンさんが予約を変更しなければならない、という話は本文にありません。シングルルームが40室そろわないので、残りの8人にツインルームの相部屋を提案しているのはホテル側のスーザン・タリーです。これはタリーさんが返事の中で伝えたことで、シェルダンさんがEメールを書いた理由ではないので、誤りです。
+4 だれかに発表をしてもらいたい、という内容は本文のどこにも書かれていません。
+【覚えるポイント】
+・hold a seminar：「セミナーを開く」。hold には「（会などを）開く」という意味があります。
+・返事のEメールでは、Thank you for your e-mail about ～ の部分に、相手が最初に送ってきた用件が書かれていることが多いです。

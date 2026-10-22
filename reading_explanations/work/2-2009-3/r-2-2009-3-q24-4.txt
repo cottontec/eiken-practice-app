@@ -1,0 +1,19 @@
+---
+choices: about $1,200 | amounted | trip | to | the
+answerText: to
+order: 5 3 2 4 1
+---
+【正解】4 to（この問題の4番目）
+【完成文】
+William got back from his trip to China last week. The cost of ( the trip amounted to about $1,200 ). It was more expensive than he had expected, but he is still glad he went.
+並べ方：5 the → 3 trip → 2 amounted → 4 to → 1 about $1,200（2番目は3、4番目は4）
+【和訳】
+ウィリアムは先週、中国旅行から帰ってきました。その旅行の費用は、合計で約1,200ドルになりました。思っていたよりも高くつきましたが、それでも彼は行ってよかったと思っています。
+【考え方】
+空所の前は The cost of（～の費用）です。of のあとには名詞がくるので、5 the と 3 trip を合わせて the trip（その旅行）を置きます。The cost of the trip（その旅行の費用）がこの文の主語（「～は」にあたる部分）になります。
+次に動詞を置きます。動詞は 2 amounted です。amount to ～ は「（合計が）～に達する、～になる」という決まった言い方です。そこで 4 to を続けます。
+to のあとに金額の 1 about $1,200（約1,200ドル）を置くと、The cost of the trip amounted to about $1,200.（その旅行の費用は合計で約1,200ドルになった）という文ができます。次の文の It was more expensive than he had expected（思っていたより高かった）ともつながります。
+まちがえやすいのは、amounted のすぐあとに about $1,200 を置き、to をあとに回す並べ方です。amount は「～に達する」と言うとき to といっしょに使うので、amounted to about $1,200 の順にします。
+【覚えるポイント】
+・amount to ～：「（合計が）～に達する、～になる」。
+・more ～ than ＋ 主語 ＋ had expected：「（主語が）予想していたよりも～」。

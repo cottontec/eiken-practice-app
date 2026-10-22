@@ -1,0 +1,28 @@
+---
+choices: the builders began by making 3-D models of the pyramid. | the Egyptians moved the stones up a slope inside the pyramid. | the wooden-cranes theory should be tested on another pyramid. | the mystery will be explained by measuring rooms in the pyramid.
+answerText: the Egyptians moved the stones up a slope inside the pyramid.
+---
+【正解】2 the Egyptians moved the stones up a slope inside the pyramid.（エジプト人はピラミッドの内部にある坂を使って石を上へ運んだ。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ジャン＝ピエール・ウーダンは（　）と考えている。
+1 建設者たちは、まずピラミッドの3Dモデルを作ることから始めた
+2 エジプト人はピラミッドの内部にある坂を使って石を上へ運んだ
+3 木製クレーン説は別のピラミッドで確かめられるべきだ
+4 ピラミッドの中の部屋を測ることで、なぞが解き明かされるだろう
+【考え方】
+ウーダンさんの考えは、第3段落に書かれています。
+Eventually, he concluded that the stones must have been pulled up a gentle slope inside the pyramid itself.（最終的に彼は、石はピラミッドそのものの内部にあるゆるやかな坂を引き上げられたにちがいない、という結論に達した）とあります。slope は「坂、斜面」、must have been ～ed は「～されたにちがいない」です。
+つまりウーダンさんは、石を持ち上げたのはクレーンではなく、ピラミッドの中の坂を使って引き上げたのだと考えています。本文と選択肢は次のように対応しています。
+本文 the stones must have been pulled up a gentle slope（石はゆるやかな坂を引き上げられたにちがいない）＝ 選択肢 the Egyptians moved the stones up a slope（エジプト人は坂を使って石を上へ運んだ）
+本文 inside the pyramid itself（ピラミッドそのものの内部に）＝ 選択肢 inside the pyramid（ピラミッドの内部に）
+本文は「石が引き上げられた」という受け身（「～される」という形）ですが、選択肢では「エジプト人が石を運んだ」と、動かした人を主語にしています。正解は2です。
+【ほかの選択肢】
+1 3Dモデルを作ったのは、ウーダンさんと彼のチームです。古代の建設者が3Dモデルを作ったという話ではないので、人物が違います。
+3 ウーダンさんは木製クレーン説ではなく、自分の新しい説（内部の坂の説）を提案しています。クレーン説を別のピラミッドで確かめるべきだという話は本文にありません。
+4 ウーダンさんは、坂は the hallways and rooms that have already been discovered（すでに発見されている通路や部屋）から完全に切り離されていると考えています。部屋を測るのではなく、建物を走査（スキャン）して坂があるかどうかを確かめようとしているので、誤りです。
+【覚えるポイント】
+・must have been ～ed：「～されたにちがいない」。過去のことを強く推し量る言い方です。
+・conclude that ～：「～という結論を下す」。

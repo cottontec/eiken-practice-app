@@ -1,0 +1,19 @@
+---
+choices: bound for | due to | made for | owing to
+answerText: bound for
+---
+【正解】1 bound for（～行きの）
+【和訳】
+ロンドン発パリ行きの列車は、大雪のために1時間以上遅れました。
+（選択肢の意味）1 ～行きの　2 ～が原因で、～する予定で　3 ～向けに作られた　4 ～のために、～が原因で
+【考え方】
+空所の前後を見ます。The train (　) Paris from London（ロンドンから、パリ～の列車）とあります。from London は「ロンドンから（出発する）」という意味です。
+出発地が from London で示されているので、Paris は列車の行き先だと考えられます。bound for ～ は「～行きの」という意味で、The train bound for Paris from London で「ロンドン発パリ行きの列車」となります。正解は1です。
+文の後半の because of the heavy snow（大雪のために）は、遅れた理由を表しています。
+【ほかの選択肢】
+2 due to は「～が原因で」です。また be due to ～ で「～する予定だ」という使い方もあります。しかし The train due to Paris という形では「パリ行きの」という意味になりません。遅れた理由はあとの because of the heavy snow で示されています。
+3 made for は「～向けに作られた」です。「パリ向けに作られた列車」となり、from London ともつながりません。
+4 owing to は「～のために、～が原因で」です。「パリが原因で列車が遅れた」のような意味になり、意味が通りません。
+【覚えるポイント】
+・bound for ～：「～行きの」。列車・船・飛行機などの行き先を表します。
+・because of ～：「～のために、～が原因で」。

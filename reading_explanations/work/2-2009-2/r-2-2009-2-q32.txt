@@ -1,0 +1,28 @@
+---
+choices: border | memory | culture | economy
+answerText: economy
+---
+【正解】4 economy（経済）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 border：境界、国境
+2 memory：記憶、思い出
+3 culture：文化
+4 economy：経済
+【考え方】
+空所は第3段落の最初の文 The new policy seems to be bringing benefits to the town's (　), too.（この新しい方針は、町の～にも利益をもたらしているようだ）にあります。policy は「方針」、benefits は「利益、よいこと」という意味です。最後の too（～も）は、環境によいことに加えて、別の面でもよいことがあると示しています。
+では、どんな面でよいことがあったのでしょうか。あとの文を見ると、次のようなことが書かれています。
+・tourists started coming to visit the town（観光客が町を訪れるようになった）
+・the U.S. government offered funds to help Greensburg rebuild（アメリカ政府が再建を助けるための資金を出した）
+・some large companies ～ decided to build facilities there（いくつかの大企業がそこに施設を建てることを決めた）
+観光客が来たり、資金が出たり、企業が施設を建てたりすると、町にお金が入り、町の暮らしを支える力が強くなります。第1段落には、竜巻の前から jobs had been getting more difficult to find（仕事が見つけにくくなってきていた）とも書かれていました。また、段落の最後には a brighter and wealthier future（より明るく、より豊かな未来）とあります。wealthier は「より豊かな、より裕福な」です。
+これらはすべて、お金や仕事に関わる「経済」の話です。economy は「経済」という意味なので、正解は4です。
+【ほかの選択肢】
+1 border は「境界、国境」です。町の境界に利益があるという話はなく、観光客や企業が来るという内容と合いません。
+2 memory は「記憶、思い出」です。町の記憶に利益があるという話はなく、あとの文とつながりません。
+3 culture は「文化」です。あとの文に書かれているのは観光客や資金、企業の施設のことで、文化がよくなったという話ではありません。
+【覚えるポイント】
+・economy：「経済」。形容詞は economic（経済の）です。
+・bring benefits to ～：「～に利益をもたらす」。

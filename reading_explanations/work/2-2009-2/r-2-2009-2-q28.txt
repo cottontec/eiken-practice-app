@@ -1,0 +1,26 @@
+---
+choices: effective | official | artificial | educational
+answerText: effective
+---
+【正解】1 effective（効果的な、よく働く）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 effective：効果的な、よく働く
+2 official：公式の
+3 artificial：人工の、人の手で作った
+4 educational：教育の、教育に役立つ
+【考え方】
+空所は第2段落の最後の文 Many people were amazed that a woman without any special knowledge of machines could come up with such an (　) design.（機械について特別な知識を何も持たない女性が、これほど～な設計を思いつけたことに、多くの人が驚いた）にあります。come up with ～ は「～を思いつく」という意味です。
+人々が驚いたのは、機械にくわしくない女性が「すごい設計」を思いついたからだと考えられます。では、この設計のどこがすごかったのでしょうか。
+すぐ前の文に Her invention won a prize at the 1893 Chicago World's Fair, and it worked so well that the same basic design is still used today.（彼女の発明は1893年のシカゴ万国博覧会で賞を取り、とてもうまく働いたので、同じ基本的な設計が今でも使われている）とあります。so ～ that … は「とても～なので…」という意味です。
+つまり、この設計は「とてもうまく働く」ものでした。effective は「効果的な、よく働く」という意味なので、such an effective design（これほど効果的な設計）となり、前の文の worked so well と内容が合います。正解は1です。
+なお、4つの選択肢はどれも an のあとに置ける語なので、an からは答えを決められません。意味で選びます。
+【ほかの選択肢】
+2 official は「公式の」です。本文には、コクランの設計が公式に決められたものだという話はなく、人々が驚いた理由になりません。
+3 artificial は「人工の、人の手で作った」です。設計が人工的かどうかは、人々が驚いた理由になりません。前の文の「とてもうまく働いた」ともつながりません。
+4 educational は「教育の、教育に役立つ」です。食器洗い機の設計が教育に役立つという話は本文にありません。
+【覚えるポイント】
+・effective：「効果的な、よく効く」。
+・come up with ～：「（考えなど）を思いつく」。

@@ -1,0 +1,25 @@
+---
+choices: afraid | disappointed | surprised | confident
+answerText: confident
+---
+【正解】4 confident（自信がある、確信している）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 afraid：心配している、恐れている
+2 disappointed：がっかりしている
+3 surprised：驚いている
+4 confident：自信がある、確信している
+【考え方】
+空所は第3段落の Although the new DNA tests are not cheap, the testing companies are (　) that they will be in demand. にあります。「新しいDNA検査は安くはないが、検査会社は、それらに需要があるだろうと（　）」という意味です。be in demand は「需要がある、多くの人に求められる」、they は the new DNA tests です。
+Although ～ は「～だけれども」です。「安くはない」という心配な点を一度認めたうえで、そのあと「それでも売れるだろう」という前向きな内容が続く形です。
+次の文がその理由です。After all, they point out, many owners already spend hundreds of dollars on accessories for their dogs each month.（なんといっても、多くの飼い主はすでに毎月、犬のアクセサリーに何百ドルも使っている、と彼らは指摘している）。After all は「なんといっても、だって～なのだから」です。さらに最後の文で、ペットの健康のためにあと数ドル払う価値はきっとある、と述べています。
+犬にお金を使う飼い主が多いことを理由に「検査は売れる」と考えているので、検査会社は「自信を持っている」と分かります。正解は4です。
+【ほかの選択肢】
+1 afraid は「心配している」です。be afraid that ～ は「（残念ながら）～ではないかと思う」となり、検査会社が自分たちの検査に需要があることを心配している、という不自然な意味になります。あとの文も前向きな理由なので合いません。
+2 disappointed は「がっかりしている」です。需要があると考えて、がっかりするのは不自然です。
+3 surprised は「驚いている」です。検査会社は、飼い主がすでに多くのお金を使っているという理由を挙げて需要を予想しており、予想外のことに驚いているわけではありません。
+【覚えるポイント】
+・be confident that ～：「～だと自信を持っている、確信している」。
+・be in demand：「需要がある、多くの人に求められている」。

@@ -1,0 +1,29 @@
+---
+choices: Scientists have started using airplanes to find garbage. | Seabirds have started to leave more plastic in the environment. | More garbage that cannot break down easily has gone into the ocean. | The growth in the number of ships has led to more pollution.
+answerText: More garbage that cannot break down easily has gone into the ocean.
+---
+【正解】3 More garbage that cannot break down easily has gone into the ocean.（簡単には分解されないごみが、より多く海に入るようになった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：この70年の間に何が変わりましたか。
+1 科学者たちがごみを見つけるために飛行機を使い始めた。
+2 海鳥が環境の中により多くのプラスチックを残すようになった。
+3 簡単には分解されないごみが、より多く海に入るようになった。
+4 船の数が増えたことで、より多くの汚染が起こった。
+【考え方】
+設問の over the last 70 years（この70年の間に）は、第3段落にそのまま出てきます。
+1文目は In the past, most of this garbage was made of natural materials that easily broke down and became part of the environment.（昔は、このごみのほとんどは、簡単に分解されて自然の一部になる天然の材料でできていた）です。break down は「分解される（くずれて細かくなり、なくなっていく）」という意味です。
+2文目は Over the last 70 years, however, more and more plastic has ended up in the ocean.（しかし、この70年の間に、ますます多くのプラスチックが海に行き着くようになった）です。however（しかし）があるので、昔の「簡単に分解されるごみ」と比べて変わったことを述べていると分かります。
+3文目に Plastic is useful because it is very strong, but for the same reason, it remains in the ocean for years.（プラスチックはとてもじょうぶなので便利だが、同じ理由で何年も海に残る）とあり、プラスチックは簡単には分解されないことが分かります。本文と選択肢は次のように対応しています。
+本文 more and more plastic has ended up in the ocean（ますます多くのプラスチックが海に行き着いた）＝ 選択肢 More garbage ... has gone into the ocean（より多くのごみが海に入った）
+本文 it remains in the ocean for years（何年も海に残る）＝ 選択肢 that cannot break down easily（簡単には分解されない）
+正解は3です。
+【ほかの選択肢】
+1 本文の airplane（飛行機）は、海鳥の胃から見つかったプラスチックが、第二次世界大戦中に撃ち落とされた飛行機のものだった、という例の中に出てきます。科学者がごみを探すのに飛行機を使い始めたという話ではないので、誤りです。
+2 本文では、海鳥の胃の中からプラスチックが見つかったと書かれています。海鳥がプラスチックを環境に残すようになったのではなく、海鳥はプラスチックを飲み込んでしまった側なので、誤りです。
+4 船の数が増えたという話は本文にありません。
+【覚えるポイント】
+・break down：「分解される、くずれる」。
+・end up in ～：「最後には～に行き着く」。

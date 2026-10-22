@@ -1,0 +1,22 @@
+---
+choices: they | the | watch | that | one
+answerText: they
+order: 2 5 4 1 3
+---
+【正解】1 they（この問題の4番目）
+【完成文】
+Mr. and Mrs. Johnson have a big DVD collection. They have lots of favorite movies, but ( the one that they watch ) the most is My Funny Summer.
+並べ方：2 the → 5 one → 4 that → 1 they → 3 watch（2番目は5、4番目は1）
+【和訳】
+ジョンソン夫妻はDVDをたくさん集めています。お気に入りの映画はたくさんありますが、2人がいちばんよく見るのは『マイ・ファニー・サマー』です。
+【考え方】
+まず、空所のあとを見ます。空所のあとは the most is My Funny Summer.（いちばん…なのは『マイ・ファニー・サマー』だ）です。is の前までがこの文の主語（「～は」にあたる部分）になるので、空所の中は「～なもの」というまとまりになるはずです。
+次に、前の部分とのつながりを考えます。They have lots of favorite movies, but ～（お気に入りの映画はたくさんあるが、～）と言っているので、「その中でいちばん～な映画は」という内容が続くと考えられます。
+2 the と 5 one を合わせると the one（その1本、そのもの）になります。one はここでは movie（映画）の代わりをしています。
+その the one を説明するために、4 that を続けます。that はここでは前の名詞（the one）に説明を付け足す働きをしていて、that のあとに「どんな映画か」がきます。that they watch で「彼らが見る（映画）」となります。
+空所のあとの the most（いちばん多く）は watch にかかり、that they watch the most で「彼らがいちばんよく見る」となります。
+こうして the one that they watch the most is My Funny Summer（彼らがいちばんよく見る映画は『マイ・ファニー・サマー』だ）という文ができます。
+まちがえやすいのは、they watch the one ～ のように they から始める並べ方です。それでは they watch が文の中心になってしまい、あとの is とつながりません。is の前は「～なもの」というまとまりにする必要があります。
+【覚えるポイント】
+・the one that ＋ 主語 ＋ 動詞：「（主語）が～するもの」。one は前に出た名詞のくり返しをさけるために使います。
+・動詞 ＋ the most：「いちばん多く～する」。

@@ -1,0 +1,27 @@
+---
+choices: accepts buffet reservations on its website. | has a restaurant that is open from 10 a.m. to 4 p.m. | sends guests information about places to eat. | can provide a lunch in the conference hall.
+answerText: can provide a lunch in the conference hall.
+---
+【正解】4 can provide a lunch in the conference hall.（会議場で昼食を用意することができる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：スーザン・タリーは、リリー・ホテルは（　　）と言っています。
+1 ウェブサイトでビュッフェの予約を受けつけている。
+2 午前10時から午後4時まで開いているレストランがある。
+3 宿泊客に食事をする場所についての情報を送る。
+4 会議場で昼食を用意することができる。
+【考え方】
+食事について書かれているのは第3段落です。
+第3段落の2文目に If you would like everyone at the seminar to eat together, we can serve a buffet lunch in the conference hall.（セミナーの皆さんにそろって食事をしてほしい場合は、会議場でビュッフェ形式の昼食を出すことができます）とあります。buffet は「ビュッフェ（並べられた料理を自分で取って食べる形式）」、serve は「（食事を）出す」という意味です。本文と選択肢は次のように対応しています。
+本文 we can serve a buffet lunch（私たちはビュッフェ形式の昼食を出すことができる）＝ 選択肢 can provide a lunch（昼食を用意することができる）
+本文 in the conference hall ＝ 選択肢 in the conference hall（会議場で）
+provide は「用意する、提供する」という意味で、本文の serve の言いかえになっています。正解は4です。
+【ほかの選択肢】
+1 本文には Further information about our restaurants and other services is available on the hotel's website.（レストランやそのほかのサービスの詳しい情報はウェブサイトで見られる）とあります。ウェブサイトで見られるのは情報で、ビュッフェの予約を受けつけているとは書かれていないので、誤りです。
+2 from 10 a.m. to 4 p.m.（午前10時から午後4時まで）は、シェルダンさんが予定しているセミナーの時間です。レストランの営業時間ではないので、時間の使われ方がちがいます。
+3 食事の場所についての情報は、ホテルのウェブサイトで見られると書かれています。ホテルが宿泊客に情報を「送る」とは書かれていないので、誤りです。
+【覚えるポイント】
+・serve：（食事や飲み物を）「出す」。provide（用意する、提供する）で言いかえられることがあります。
+・would like ＋ 人 ＋ to ～：「（人）に～してほしい」。

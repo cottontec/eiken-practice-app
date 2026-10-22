@@ -1,0 +1,20 @@
+---
+choices: experiment | philosophy | discrimination | conference
+answerText: philosophy
+---
+【正解】2 philosophy（考え方、人生観）
+【和訳】
+A：ジェームズ、あなたの人生観を言い表すとしたら、どんなものですか。
+B：難しい質問ですね。でも、ぼくの基本的な考え方は、どんな場面でも最善をつくすということです。
+（選択肢の意味）1 実験　2 哲学、考え方、人生観　3 差別　4 会議
+【考え方】
+Aの質問は How would you describe your (　) of life?（あなたの人生の（　）をどのように言い表しますか）です。
+手がかりはBの答えです。Bは my basic approach is to do my best in every situation（ぼくの基本的な考え方は、どんな場面でも最善をつくすことだ）と答えています。approach はここでは「（物事への）取り組み方、考え方」という意味です。Bは、自分が生きるうえで大切にしている考え方を答えているのです。
+philosophy は「哲学」という意味のほかに、「（その人の）考え方、方針」という意味があります。philosophy of life で「人生観、人生哲学（生きるうえでの考え方）」となります。Bの答えとぴったり合うので、正解は2です。
+【ほかの選択肢】
+1 experiment は「実験」です。「あなたの人生の実験を言い表すと？」では、生き方についての考えを答えたBの返事と合いません。
+3 discrimination は「差別」です。「あなたの人生の差別」では意味が通らず、Bの答えともつながりません。
+4 conference は「会議」です。「あなたの人生の会議」では意味が通りません。
+【覚えるポイント】
+・philosophy of life：「人生観、人生哲学」。
+・do one's best：「最善をつくす、全力をつくす」。

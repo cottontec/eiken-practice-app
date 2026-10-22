@@ -1,0 +1,24 @@
+---
+choices: identify | increase | publish | purchase
+answerText: identify
+---
+【正解】1 identify（～を見つけ出す、特定する）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 identify：～を見つけ出す、特定する（どれなのかをはっきりさせる）
+2 increase：～を増やす
+3 publish：～を出版する、公表する
+4 purchase：～を買う、購入する
+【考え方】
+空所は第1段落の Later, the "shoppers" write a report to help the business (　) areas that need to be improved.（あとで「調査員」たちは、店が改善を必要とする点を（　）手助けとなる報告書を書く）にあります。help ＋人など＋動詞の原形 で「～が…するのを手助けする」という意味です。areas はここでは「点、部分」、that need to be improved は「改善される必要がある」です。
+その前の文には、覆面調査員は to check on the quality of the service being offered（提供されているサービスの質を調べるために）店にいる、と書かれています。サービスの質を調べた結果を報告書にまとめるのは、店が「どこを直せばよいか」を知るためです。
+identify は「（はっきりしていないものを）見つけ出す、特定する」という意味です。help the business identify areas that need to be improved で「店が改善の必要な点を見つけ出す手助けをする」となり、流れに合います。正解は1です。
+【ほかの選択肢】
+2 increase は「～を増やす」です。「改善が必要な点を増やす手助け」では、サービスをよくしたい店の目的と反対になります。
+3 publish は「～を出版する、公表する」です。報告書は店のために書くもので、店が自分の悪い点を世の中に公表するという話は本文にありません。
+4 purchase は「～を買う」です。「改善が必要な点を買う」となり、意味が通りません。
+【覚えるポイント】
+・identify：「～を見つけ出す、特定する」。identify the problem で「問題点を突き止める」。
+・help ＋人など＋動詞の原形：「～が…するのを手助けする」。
