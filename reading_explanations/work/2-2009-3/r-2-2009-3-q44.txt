@@ -2,7 +2,7 @@
 choices: Fly by itself to find new forest areas. | Provide information to help farmers plant trees. | Allow the tree inside it to grow in the earth. | Send out a signal to tell scientists where it is.
 answerText: Allow the tree inside it to grow in the earth.
 ---
-【正解】3 Allow the tree inside it to grow in the earth.（中の木が地中で育てるようにすること。）
+【正解】3 Allow the tree inside it to grow in the earth.（中の木が地中で育つことができるようにすること。）
 【和訳】
 ＜本文の全訳＞
 {{本文全訳}}
@@ -10,14 +10,14 @@ answerText: Allow the tree inside it to grow in the earth.
 設問：モシェ・アラマロの容器が行うように作られていることの1つは何ですか。
 1 新しい森林の場所を見つけるために、ひとりでに飛ぶこと。
 2 農家の人々が木を植えるのに役立つ情報を提供すること。
-3 中の木が地中で育てるようにすること。
+3 中の木が地中で育つことができるようにすること。
 4 自分がどこにいるかを科学者に知らせる信号を出すこと。
 【考え方】
 設問の is designed to do（～するように作られている、設計されている）に注目します。第3段落の最後に He designed a special container that could hold a young tree along with some water and soil in which it could grow.（彼は、若い木を、いくらかの水と、その中で木が育つことのできる土といっしょに入れておける特別な容器を設計した）とあります。
 さらに第4段落で、容器のしくみがくわしく書かれています。When Alamaro's containers are dropped from an airplane, they land with enough speed to become buried in the earth.（アラマロの容器は、飛行機から落とされると、地面にうまるほどの速さで着地する）、The container then slowly breaks down into the soil so that the tree's roots can grow.（それから容器はゆっくりと分解されて土にかえり、木の根がのびられるようになる）とあります。so that ～ can … は「～が…できるように」という意味です。
-つまり、容器は地面にうまったあと、中の木が土の中で根をのばして育てるように作られているのです。本文と選択肢は次のように対応しています。
+つまり、容器は地面にうまったあと、中の木が土の中で根をのばして育つことができるように作られているのです。本文と選択肢は次のように対応しています。
 本文 a special container that could hold a young tree（若い木を入れておける特別な容器）＝ 選択肢 the tree inside it（その中の木）
-本文 become buried in the earth ～ so that the tree's roots can grow（地面にうまり、木の根がのびられるように）＝ 選択肢 Allow the tree ～ to grow in the earth（木が地中で育てるようにする）
+本文 become buried in the earth ～ so that the tree's roots can grow（地面にうまり、木の根がのびられるように）＝ 選択肢 Allow the tree ～ to grow in the earth（木が地中で育つことができるようにする）
 allow A to ～ は「Aが～できるようにする」という意味です。正解は3です。
 【ほかの選択肢】
 1 容器は飛行機から落とされるもので、容器がひとりでに飛ぶという話は本文にありません。
