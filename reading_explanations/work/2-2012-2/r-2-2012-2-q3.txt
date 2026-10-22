@@ -1,6 +1,7 @@
 ---
 choices: objection | potential | variety | audience
 answerText: potential
+reviewed: yes
 ---
 【正解】2 potential（可能性、潜在的な力）
 【和訳】

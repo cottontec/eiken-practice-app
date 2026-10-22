@@ -1,6 +1,7 @@
 ---
 choices: It teaches people about the cultural traditions of the Philippines. | It helps the Philippines maintain peaceful relations with other countries. | It results in more efforts to help poor people in the Philippines. | It encourages more foreign volunteers to come to the Philippines.
 answerText: It results in more efforts to help poor people in the Philippines.
+reviewed: yes
 ---
 【正解】3 It results in more efforts to help poor people in the Philippines.（それは、フィリピンの貧しい人々を助けるための、より多くの努力につながる。）
 【和訳】
@@ -13,7 +14,7 @@ answerText: It results in more efforts to help poor people in the Philippines.
 3 フィリピンの貧しい人々を助けるための、より多くの努力につながる。
 4 より多くの外国人ボランティアがフィリピンに来るよう促す。
 【考え方】
-レイチェル・ナルス・キントスは、第4段落に出てくる人物で、VSOバハギナンの広報責任者です。彼女は、フィリピン人のボランティアを海外へ送ることには two advantages（2つの利点）があると言っています。
+レイチェル・ナルス・キントスは、第4段落に出てくる人物で、VSOバハギナンの広報責任者です。キントスは、フィリピン人のボランティアを海外へ送ることには two advantages（2つの利点）があると言っています。
 1つ目は they gain international experience that can then help them in their own careers（国際的な経験を得て、それがのちに自分自身の仕事の道に役立つ）です。
 2つ目は they often come back to the Philippines after their time abroad determined to do more to end poverty in their home country（海外で過ごしたあと、自分の国の貧困をなくすためにもっと力を尽くそうと決意してフィリピンに戻ってくることが多い）です。poverty は「貧困（貧しいこと）」、determined to ～ は「～しようと決意して」という意味です。
 2つ目の利点は、海外から戻ったボランティアが、フィリピンの貧しい人々のためにもっと努力するようになる、ということです。本文と選択肢は次のように対応しています。

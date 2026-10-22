@@ -1,6 +1,7 @@
 ---
 choices: engagement | element | narration | nutrition
 answerText: engagement
+reviewed: yes
 ---
 【正解】1 engagement（婚約）
 【和訳】

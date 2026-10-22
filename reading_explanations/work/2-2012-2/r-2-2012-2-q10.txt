@@ -1,6 +1,7 @@
 ---
 choices: suppose | confess | spoil | compromise
 answerText: compromise
+reviewed: yes
 ---
 【正解】4 compromise（妥協する、歩み寄る）
 【和訳】

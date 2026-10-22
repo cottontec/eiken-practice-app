@@ -1,6 +1,7 @@
 ---
 choices: basic | helpful | risky | complicated
 answerText: helpful
+reviewed: yes
 ---
 【正解】2 helpful（役に立つ）
 【和訳】

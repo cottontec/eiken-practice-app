@@ -1,6 +1,7 @@
 ---
 choices: If not | If only | Even though | Even when
 answerText: If only
+reviewed: yes
 ---
 【正解】2 If only（～でさえあれば）
 【和訳】

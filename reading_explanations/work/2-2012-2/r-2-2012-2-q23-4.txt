@@ -2,6 +2,7 @@
 choices: avoid | slowly | to | having | so as
 answerText: avoid
 order: 2 5 3 1 4
+reviewed: yes
 ---
 【正解】1 avoid（この問題の4番目）
 【完成文】

@@ -1,6 +1,7 @@
 ---
 choices: As a result | In other words | For instance | Nevertheless
 answerText: Nevertheless
+reviewed: yes
 ---
 【正解】4 Nevertheless（それにもかかわらず）
 【和訳】
@@ -12,7 +13,7 @@ answerText: Nevertheless
 3 For instance：たとえば
 4 Nevertheless：それにもかかわらず、それでもなお
 【考え方】
-空所は第3段落の後半にあり、空所のあとは there have been more reports of piranhas biting people in recent years（近年、ピラニアが人にかみついたという報告が増えている）です。
+空所は第3段落の後半にあり、空所のあとは there have been more reports of piranhas biting people in recent years（近年、ピラニアが人にかみついたという報告が以前より多くなっている）です。
 空所の前の内容を確かめます。第2段落では「ピラニアはめったに人を襲わない」、第3段落の前半では「ルーズベルトが見た出来事は、ピラニアを危険に見せるために仕組まれたものだった」と書かれています。どちらも「ピラニアの恐ろしい評判は大げさだ」という内容です。
 ところが空所のあとでは、「人にかみついたという報告が増えている」と、ピラニアが人を傷つけることもあるという話になります。前の内容から予想されることとは逆の事実を述べているので、「それにもかかわらず」という言葉でつなぐのが合います。
 Nevertheless は「それにもかかわらず、それでもなお」という意味なので、4が正解です。

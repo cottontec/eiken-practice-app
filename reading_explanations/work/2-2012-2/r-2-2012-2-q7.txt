@@ -1,6 +1,7 @@
 ---
 choices: declare | resolve | decorate | sacrifice
 answerText: sacrifice
+reviewed: yes
 ---
 【正解】4 sacrifice（犠牲にする）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: since | but | as | whether
 answerText: whether
+reviewed: yes
 ---
 【正解】4 whether（～かどうか）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: It grew larger by combining with other volunteer organizations. | It was created to give volunteers more professional experience. | It pays the transportation costs for volunteers to go to other countries. | It is the oldest volunteer organization in the United Kingdom.
 answerText: It pays the transportation costs for volunteers to go to other countries.
+reviewed: yes
 ---
 【正解】3 It pays the transportation costs for volunteers to go to other countries.（ボランティアがほかの国へ行くための交通費を支払っている。）
 【和訳】
@@ -14,7 +15,7 @@ answerText: It pays the transportation costs for volunteers to go to other count
 4 イギリスで最も古いボランティア団体である。
 【考え方】
 VSOについての基本的な説明は、第1段落にまとまっています。
-第1段落の5文目に Although these volunteers are not paid, VSO covers all their expenses, including travel.（こうしたボランティアは給料を受け取らないが、VSOは旅費を含めて彼らの費用をすべて負担している）とあります。cover は、ここでは「（費用を）まかなう、負担する」という意味です。expenses は「費用」、including travel は「旅費を含めて」です。
+第1段落の4文目に Although these volunteers are not paid, VSO covers all their expenses, including travel.（こうしたボランティアは給料を受け取らないが、VSOは旅費を含めて彼らの費用をすべて負担している）とあります。cover は、ここでは「（費用を）まかなう、負担する」という意味です。expenses は「費用」、including travel は「旅費を含めて」です。
 VSOはボランティアを海外へ送る団体なので、ここでの旅費はほかの国へ行くための費用です。本文と選択肢は次のように対応しています。
 本文 VSO covers all their expenses（VSOは彼らの費用をすべて負担する）＝ 選択肢 It pays ～（それは～を支払う）
 本文 including travel（旅費を含めて）＝ 選択肢 the transportation costs for volunteers to go to other countries（ボランティアがほかの国へ行く交通費）

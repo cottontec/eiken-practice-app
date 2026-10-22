@@ -1,6 +1,7 @@
 ---
 choices: informed | supplied | represented | described
 answerText: informed
+reviewed: yes
 ---
 【正解】1 informed（知らせた）
 【和訳】

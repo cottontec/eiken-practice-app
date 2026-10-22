@@ -1,6 +1,7 @@
 ---
 choices: It does not form partnerships with other volunteer agencies. | It sends people of any nationality to help with projects. | It relies on money from both wealthy and developing countries. | It does not provide medical help to developing countries.
 answerText: It sends people of any nationality to help with projects.
+reviewed: yes
 ---
 【正解】2 It sends people of any nationality to help with projects.（どんな国籍の人でも、事業を手伝うために送り出す。）
 【和訳】

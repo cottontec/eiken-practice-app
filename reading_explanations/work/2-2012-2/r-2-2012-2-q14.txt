@@ -1,6 +1,7 @@
 ---
 choices: burst | dropped | poured | drew
 answerText: burst
+reviewed: yes
 ---
 【正解】1 burst（突然～しだした）
 【和訳】

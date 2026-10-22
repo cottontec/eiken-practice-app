@@ -1,6 +1,7 @@
 ---
 choices: is | be | was | being
 answerText: being
+reviewed: yes
 ---
 【正解】4 being（～であるので）
 【和訳】

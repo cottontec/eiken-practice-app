@@ -1,6 +1,7 @@
 ---
 choices: position | appearance | security | benefit
 answerText: appearance
+reviewed: yes
 ---
 【正解】2 appearance（外観、見た目）
 【和訳】

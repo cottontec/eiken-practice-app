@@ -1,6 +1,7 @@
 ---
 choices: amusing | empty | believable | disgusting
 answerText: disgusting
+reviewed: yes
 ---
 【正解】4 disgusting（むかむかするような、ひどく不快な）
 【和訳】

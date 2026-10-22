@@ -1,6 +1,7 @@
 ---
 choices: scientific | embarrassing | scary | temporary
 answerText: scary
+reviewed: yes
 ---
 【正解】3 scary（恐ろしい、怖い）
 【和訳】
@@ -12,7 +13,7 @@ answerText: scary
 3 scary：恐ろしい、怖い
 4 temporary：一時的な
 【考え方】
-空所は第1段落の4文目、Historians say this (　) image began when Theodore Roosevelt ... visited Brazil in 1913.（歴史家たちは、この～なイメージは、セオドア・ルーズベルトが1913年にブラジルを訪れたときに始まったと言っている）にあります。
+空所は第1段落の3文目、Historians say this (　) image began when Theodore Roosevelt ... visited Brazil in 1913.（歴史家たちは、この～なイメージは、セオドア・ルーズベルトが1913年にブラジルを訪れたときに始まったと言っている）にあります。
 this image（このイメージ）とあるので、その前の文で説明されたピラニアのイメージを指していると考えます。前の文には People think of them as aggressive and dangerous（人々はピラニアを攻撃的で危険なものと考えている）、they are often shown attacking and eating people in novels and films（小説や映画では人を襲って食べる姿がよく描かれる）とあります。どちらも、ピラニアが「恐ろしい」というイメージです。
 また、第2段落の1文目では、同じイメージが this frightening reputation（この恐ろしい評判）と言いかえられています。frightening は「恐ろしい」という意味で、scary とほぼ同じ意味です。scary を入れると「この恐ろしいイメージ」となり、前後の内容と合うので、3が正解です。
 【ほかの選択肢】

@@ -1,6 +1,7 @@
 ---
 choices: Take orders for coffee and other drinks from the guests. | Repair any damaged items that they find in the guest rooms. | Help the regular staff with cleaning the dining room, kitchen, and lobby. | Let the chief housekeeper know if something in a guest room is not working.
 answerText: Let the chief housekeeper know if something in a guest room is not working.
+reviewed: yes
 ---
 【正解】4 Let the chief housekeeper know if something in a guest room is not working.（客室の中の何かが動かなければ、清掃責任者に知らせる。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: arrive | arrived | arriving | will arrive
 answerText: arriving
+reviewed: yes
 ---
 【正解】3 arriving（到着すること）
 【和訳】

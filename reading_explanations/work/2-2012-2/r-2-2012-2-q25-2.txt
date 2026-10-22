@@ -2,6 +2,7 @@
 choices: than | known | to | have | better
 answerText: known
 order: 4 2 5 1 3
+reviewed: yes
 ---
 【正解】2 known（この問題の2番目）
 【完成文】

@@ -1,6 +1,7 @@
 ---
 choices: took over | went ahead | sat up | kept off
 answerText: sat up
+reviewed: yes
 ---
 【正解】3 sat up（寝ないで起きていた）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: briefly | secretly | unfortunately | usually
 answerText: usually
+reviewed: yes
 ---
 【正解】4 usually（たいてい、ふつうは）
 【和訳】

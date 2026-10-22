@@ -1,6 +1,7 @@
 ---
 choices: touch | command | recovery | advance
 answerText: command
+reviewed: yes
 ---
 【正解】2 command（指揮、命令）
 【和訳】

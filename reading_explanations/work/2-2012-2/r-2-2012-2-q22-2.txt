@@ -2,6 +2,7 @@
 choices: took | and | into | broke | Mr. Smith's house
 answerText: into
 order: 4 3 5 2 1
+reviewed: yes
 ---
 【正解】3 into（この問題の2番目）
 【完成文】

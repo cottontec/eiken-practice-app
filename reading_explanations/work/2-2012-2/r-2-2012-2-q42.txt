@@ -1,6 +1,7 @@
 ---
 choices: are separated from the clothes when the cleaning process has finished. | contain enough water and energy to wash the clothes. | stop the clothes from being damaged while they are being washed. | must be taken out to be cleaned each time the machine is used.
 answerText: are separated from the clothes when the cleaning process has finished.
+reviewed: yes
 ---
 【正解】1 are separated from the clothes when the cleaning process has finished.（洗う工程が終わると、衣服から分けられる。）
 【和訳】

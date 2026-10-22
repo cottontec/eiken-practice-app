@@ -1,6 +1,7 @@
 ---
 choices: improved | exported | protected | offered
 answerText: protected
+reviewed: yes
 ---
 【正解】3 protected（保護された）
 【和訳】

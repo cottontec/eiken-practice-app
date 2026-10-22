@@ -2,6 +2,7 @@
 choices: avoid | slowly | to | having | so as
 answerText: so as
 order: 2 5 3 1 4
+reviewed: yes
 ---
 【正解】5 so as（この問題の2番目）
 【完成文】

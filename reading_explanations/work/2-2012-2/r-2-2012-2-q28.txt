@@ -1,6 +1,7 @@
 ---
 choices: organized | copied | recorded | shortened
 answerText: organized
+reviewed: yes
 ---
 【正解】1 organized（計画された、仕組まれた）
 【和訳】

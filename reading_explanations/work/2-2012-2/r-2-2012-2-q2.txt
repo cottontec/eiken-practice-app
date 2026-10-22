@@ -1,6 +1,7 @@
 ---
 choices: interpret | approve | behave | delay
 answerText: behave
+reviewed: yes
 ---
 【正解】3 behave（ふるまう、行動する）
 【和訳】

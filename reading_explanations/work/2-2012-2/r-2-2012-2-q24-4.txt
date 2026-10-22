@@ -2,6 +2,7 @@
 choices: would | so | work on | she | rather not
 answerText: rather not
 order: 2 4 1 5 3
+reviewed: yes
 ---
 【正解】5 rather not（この問題の4番目）
 【完成文】

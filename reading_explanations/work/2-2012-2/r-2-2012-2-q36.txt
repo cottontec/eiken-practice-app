@@ -1,6 +1,7 @@
 ---
 choices: Tell him how much her company's service would cost. | Meet him to sign a contract for cleaning services. | Contact Ms. Clarke to find out about the hotel's requirements. | E-mail him the details of the cleaning schedule for next month.
 answerText: Tell him how much her company's service would cost.
+reviewed: yes
 ---
 【正解】1 Tell him how much her company's service would cost.（彼女の会社のサービスにいくらかかるのかを彼に伝える。）
 【和訳】

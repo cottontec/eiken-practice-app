@@ -1,6 +1,7 @@
 ---
 choices: VSO volunteers today do not fit the pattern of VSO volunteers in the past. | a poorer country refused help from an international volunteer organization. | the Philippines receives more international volunteers than other areas in Asia. | many doctors are trying to focus more on public-health problems in Africa.
 answerText: VSO volunteers today do not fit the pattern of VSO volunteers in the past.
+reviewed: yes
 ---
 【正解】1 VSO volunteers today do not fit the pattern of VSO volunteers in the past.（今日のVSOのボランティアは、過去のVSOのボランティアの型に当てはまらない。）
 【和訳】

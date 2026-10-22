@@ -1,6 +1,7 @@
 ---
 choices: Many people do not have enough money to buy one. | They consume one-third of the water used in homes. | A lot of energy is required to heat the water they use. | They do not get clothes as clean as washing by hand.
 answerText: A lot of energy is required to heat the water they use.
+reviewed: yes
 ---
 【正解】3 A lot of energy is required to heat the water they use.（洗濯機が使う水を温めるのに、多くのエネルギーが必要とされる。）
 【和訳】

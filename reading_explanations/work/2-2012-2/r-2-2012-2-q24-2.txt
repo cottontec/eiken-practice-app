@@ -2,6 +2,7 @@
 choices: would | so | work on | she | rather not
 answerText: she
 order: 2 4 1 5 3
+reviewed: yes
 ---
 【正解】4 she（この問題の2番目）
 【完成文】

@@ -1,6 +1,7 @@
 ---
 choices: send over | come about | look out | walk up
 answerText: look out
+reviewed: yes
 ---
 【正解】3 look out（気をつける、用心する）
 【和訳】

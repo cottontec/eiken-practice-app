@@ -1,6 +1,7 @@
 ---
 choices: profit | grief | surface | origin
 answerText: grief
+reviewed: yes
 ---
 【正解】2 grief（深い悲しみ）
 【和訳】

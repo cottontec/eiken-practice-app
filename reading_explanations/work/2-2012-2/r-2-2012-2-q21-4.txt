@@ -2,13 +2,14 @@
 choices: but | museums | what she | was the | enjoyed most
 answerText: was the
 order: 1 3 5 4 2
+reviewed: yes
 ---
 【正解】4 was the（この問題の4番目）
 【完成文】
 Cathleen visited Italy last year. She thought that the restaurants and hotels were excellent, ( but what she enjoyed most was the museums ). She spent a long time looking at the displays and learning about Italian history.
 並べ方：1 but → 3 what she → 5 enjoyed most → 4 was the → 2 museums（2番目は3、4番目は4）
 【和訳】
-キャスリーンは去年イタリアを訪れました。彼女は、レストランやホテルもすばらしいと思いましたが、いちばん楽しんだのは博物館でした。彼女は、展示品を見たり、イタリアの歴史について学んだりして、長い時間を過ごしました。
+キャスリーンは去年イタリアを訪れました。彼女は、レストランやホテルはすばらしいと思いましたが、いちばん楽しんだのは博物館でした。彼女は、展示品を見たり、イタリアの歴史について学んだりして、長い時間を過ごしました。
 【考え方】
 前半で「レストランやホテルはすばらしかった」と言ったあと、次の文で展示品やイタリアの歴史の話をしています。前半とは別のものをいちばん楽しんだ、という流れなので、最初に 1 but（しかし）を置きます。
 but のあとには 3 what she と 5 enjoyed most を続けて、what she enjoyed most（彼女がいちばん楽しんだもの）というまとまりをつくります。what は「～するもの・こと」という意味のまとまりをつくる語で、このまとまりが主語になります。

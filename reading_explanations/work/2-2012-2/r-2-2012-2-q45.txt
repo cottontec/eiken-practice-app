@@ -1,6 +1,7 @@
 ---
 choices: Burkinshaw's research has already helped the United States to save a lot of water. | Burkinshaw's research was originally about ways to change the color of plastic materials. | The new machines can wash clothes more quickly than ordinary washing machines. | The new machines are better at washing nylon clothes than those made from other materials.
 answerText: Burkinshaw's research was originally about ways to change the color of plastic materials.
+reviewed: yes
 ---
 【正解】2 Burkinshaw's research was originally about ways to change the color of plastic materials.（バーキンショーの研究は、もともとはプラスチック素材の色を変える方法についてのものだった。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: situation | choice | question | balance
 answerText: choice
+reviewed: yes
 ---
 【正解】2 choice（選択、選ぶ余地）
 【和訳】

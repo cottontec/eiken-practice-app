@@ -1,6 +1,7 @@
 ---
 choices: explanations | imitations | donations | reservations
 answerText: donations
+reviewed: yes
 ---
 【正解】3 donations（寄付、寄付金）
 【和訳】

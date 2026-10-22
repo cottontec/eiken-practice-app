@@ -1,6 +1,7 @@
 ---
 choices: out of | up to | over from | far in
 answerText: out of
+reviewed: yes
 ---
 【正解】1 out of（～の外へ）
 【和訳】
