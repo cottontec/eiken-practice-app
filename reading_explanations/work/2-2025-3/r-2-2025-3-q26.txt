@@ -1,0 +1,33 @@
+---
+choices: Collecting the necessary numbers about Mr. Jenkins's sales to make slides. | Putting together a list of songs to play for people to choose from. | Checking and preparing computers at the sales department before the party. | Creating something exciting to show Mr. Jenkins's history at the company.
+answerText: Creating something exciting to show Mr. Jenkins's history at the company.
+---
+【正解】4 Creating something exciting to show Mr. Jenkins's history at the company.（会社でのジェンキンスさんの歩みを示す、心おどるものを作ること。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What does Julia Young want help with?（ジュリア・ヤングは何について手助けを求めていますか。）
+1 Collecting the necessary numbers about Mr. Jenkins's sales to make slides.（スライドを作るために、ジェンキンスさんの営業成績についての必要な数字を集めること。）
+2 Putting together a list of songs to play for people to choose from.（人々がその中から選べるように、流す曲のリストをまとめること。）
+3 Checking and preparing computers at the sales department before the party.（パーティーの前に、営業部のコンピューターを点検して準備すること。）
+4 Creating something exciting to show Mr. Jenkins's history at the company.（会社でのジェンキンスさんの歩みを示す、心おどるものを作ること。）
+【考え方】
+まず見るところ：第3段落の we're having trouble creating a clear and exciting graphic to show his great sales results over the years
+ジュリアが困っていることは、第3段落に書かれています。
+We have collected all the photos, but we're having trouble creating a clear and exciting graphic to show his great sales results over the years.（写真はすべて集めたが、長年にわたる彼のすばらしい営業成績を示す、分かりやすくて心おどる図を作るのに苦労している）
+We have the data and need help turning it into a powerful picture.（データは手元にあり、それを印象の強い図にするための手助けが必要だ）
+have trouble ～ing は「～するのに苦労する」、graphic は「図、グラフ」です。
+本文と選択肢を対にすると、次のようになります。
+本文 creating（作ること）＝ 選択肢 Creating（作ること）
+本文 a clear and exciting graphic（分かりやすくて心おどる図）→ 選択肢 something exciting（心おどるもの）
+本文 his great sales results over the years（長年にわたる彼のすばらしい営業成績）→ 選択肢 Mr. Jenkins's history at the company（会社でのジェンキンスさんの歩み）
+長年の営業成績は、ジェンキンスさんが会社で歩んできた道のりの一部を示すものです。ですから4が正解です。
+この問題の型：言いかえ（a clear and exciting graphic → something exciting）
+【ほかの選択肢】
+1 本文と合いません。We have the data（データは手元にある）とあるので、数字を集めることに手助けは必要ありません。必要なのは、そのデータを図にすることです。
+2 本文にありません。曲のリストについては、メールに書かれていません。
+3 本文と合いません。メールでは、イベント当日のよい映像と音のための機材の話が出てきますが、パーティーの前に営業部のコンピューターを点検するという話はありません。
+【覚えるポイント】
+・have trouble ～ing：「～するのに苦労する」。この形のあとに、手助けを求めている内容が書かれていることが多いです。
+・「何の手助けを求めているか」という設問では、need help（手助けが必要だ）や ask for your help（あなたの手助けをお願いする）の近くを読み、すでに済んでいること（ここでは We have the data）と区別すると手がかりになります。

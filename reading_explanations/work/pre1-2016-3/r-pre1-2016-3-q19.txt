@@ -1,0 +1,30 @@
+---
+choices: carved | scattered | escorted | restructured
+answerText: escorted
+---
+【正解】3 escorted（護衛した、付き添って守った）
+【和訳】
+（英文）
+The country was on high alert for terrorism, so four extra police cars ［escorted］ the visiting prime minister from the airport to his hotel.
+（訳）
+その国はテロに対して厳重な警戒態勢をとっていたので、追加で4台のパトカーが、訪問中の首相を空港からホテルまで（護衛しました）。
+（選択肢の意味）
+1 carved：彫った、刻んだ
+2 scattered：まき散らした、散らばらせた
+3 escorted：護衛した、付き添って守った
+4 restructured：作り直した、組織を立て直した
+【考え方】
+まず見るところ：文の前半の on high alert for terrorism と、空所の後ろの from the airport to his hotel
+前半は次のとおりです。
+The country was on high alert for terrorism（その国はテロに対して厳重な警戒態勢をとっていた）
+on high alert は「厳重に警戒している」という意味です。terrorism（テロ）は、暴力で人々をおどそうとする行為のことです。
+後半は so（だから）で始まり、警戒していた結果どうしたかが書かれています。four extra police cars ( ) the visiting prime minister from the airport to his hotel（追加の4台のパトカーが、訪問中の首相を空港からホテルまで（　）した）です。
+テロを警戒しているので、首相が移動するときにパトカーがそばについて守ったと考えられます。escort は「（人に）付き添って守る、護衛する」という意味で、escort A from B to C で「AをBからCまで護衛する」になります。ですから3が正解です。
+この問題の型：因果（テロを警戒→パトカーが首相を護衛）
+【ほかの選択肢】
+1 carved は「彫った、刻んだ」です。「パトカーが首相を空港からホテルまで彫った」となり、意味が通りません。
+2 scattered は「まき散らした、散らばらせた」です。「パトカーが首相を散らばらせた」となり、意味が通りません。
+4 restructured は「作り直した、（組織などを）立て直した」です。目的語（動詞の後ろにきて「～を」に当たる語）には会社や組織などがくるので、「首相を空港からホテルまで立て直した」となり、意味が通りません。
+【覚えるポイント】
+・escort：「（人に）付き添って守る、護衛する」。escort A from B to C（AをBからCまで護衛する）の形で使われます。
+・so（だから）の前に危険や警戒の話（ここでは on high alert for terrorism）があるときは、後ろにはそれに備えた行動がくると考えると手がかりになります。
