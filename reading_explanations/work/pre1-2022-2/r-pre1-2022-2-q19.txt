@@ -1,0 +1,29 @@
+---
+choices: disclosure | admittance | attainment | anarchy
+answerText: anarchy
+---
+【正解】4 anarchy（無秩序、大混乱）
+【和訳】
+（英文）
+During the riot, the town was in a state of ［anarchy］. People were out in the streets fighting and breaking windows, and many stores were robbed.
+（訳）
+暴動の間、町は（無秩序）の状態だった。人々は通りに出てけんかをしたり窓を割ったりし、多くの店が強盗にあった。
+（選択肢の意味）
+1 disclosure：（秘密などを）明らかにすること、公開
+2 admittance：入ること（の許可）、入場
+3 attainment：達成、なしとげること
+4 anarchy：無秩序（決まりが守られず、まとまりがない状態）、無政府状態
+【考え方】
+まず見るところ：空所の前の During the riot と、あとの文の People were out in the streets fighting and breaking windows
+People were out in the streets fighting and breaking windows, and many stores were robbed.（人々は通りに出てけんかをしたり窓を割ったりし、多くの店が強盗にあった）
+けんか、窓を割ること、強盗と、町の決まりが守られていない様子が具体的に書かれています。riot は「暴動（大勢の人が暴れてさわぎを起こすこと）」です。
+the town was in a state of (　)（町は（　）の状態だった）
+a state of ～ は「～の状態」です。あとの文の様子をまとめて表すのは anarchy（無秩序）なので、4が正解です。
+この問題の型：具体例とまとめ（けんか・窓を割る・強盗 → anarchy）
+【ほかの選択肢】
+1 disclosure は「明らかにすること、公開」です。「町は公開の状態だった」となり、あとの文の暴れている様子と合いません。
+2 admittance は「入ること（の許可）」です。「町は入場の状態だった」となり、意味が通りません。
+3 attainment は「達成」です。何かをなしとげたという話ではなく、あとの文の混乱した様子と合いません。
+【覚えるポイント】
+・anarchy：「無秩序、無政府状態」。riot：「暴動」。in a state of ～：「～の状態で」。
+・空所のあとに具体的な出来事がいくつも並んでいるときは、空所がそれらをまとめる語であることが多いので、出来事に共通する様子を考えます。

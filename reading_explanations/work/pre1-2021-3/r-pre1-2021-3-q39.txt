@@ -1,0 +1,34 @@
+---
+choices: A number of leaders saw it as a reason to also invade Egypt, which led to the destruction of many ancient artifacts. | It revealed information about ancient Egyptian culture that led Europeans to change their opinion of medicines made from mummies. | It was opposed by wealthy Europeans, who thought it would result in their collections of ancient artifacts being destroyed. | It led to an increased interest in mummies and inspired Europeans to use them for a number of purposes.
+answerText: It led to an increased interest in mummies and inspired Europeans to use them for a number of purposes.
+---
+【正解】4 It led to an increased interest in mummies and inspired Europeans to use them for a number of purposes.（それはミイラへの関心の高まりにつながり、ヨーロッパの人々がミイラをいくつもの目的に使うきっかけとなった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one thing we learn about Napoleon Bonaparte's military campaign in Egypt?（ナポレオン・ボナパルトのエジプトへの軍事遠征について分かることの一つは何か。）
+1 A number of leaders saw it as a reason to also invade Egypt, which led to the destruction of many ancient artifacts.（多くの指導者がそれを、自分たちもエジプトに攻め入る理由と考え、そのことが多くの古代の遺物の破壊につながった。）
+2 It revealed information about ancient Egyptian culture that led Europeans to change their opinion of medicines made from mummies.（それは古代エジプトの文化についての情報を明らかにし、その情報によって、ヨーロッパの人々はミイラから作られた薬についての考えを変えた。）
+3 It was opposed by wealthy Europeans, who thought it would result in their collections of ancient artifacts being destroyed.（それは裕福なヨーロッパの人々に反対された。彼らは、それによって自分たちの古代の遺物の収集品がこわされることになると考えた。）
+4 It led to an increased interest in mummies and inspired Europeans to use them for a number of purposes.（それはミイラへの関心の高まりにつながり、ヨーロッパの人々がミイラをいくつもの目的に使うきっかけとなった。）
+【考え方】
+まず見るところ：第2段落の the European public's fascination with mummies reached new heights when ～ Napoleon Bonaparte led a military campaign in Egypt
+第2段落で、ナポレオンの遠征が出てきます。
+Nevertheless, the European public's fascination with mummies reached new heights when French leader Napoleon Bonaparte led a military campaign in Egypt（それにもかかわらず、フランスの指導者ナポレオン・ボナパルトがエジプトへの軍事遠征を率いたとき、ヨーロッパの一般の人々のミイラへの強い関心は、新たな高まりに達した）
+fascination は「強い関心、夢中になること」、reach new heights は「新たな高まりに達する」です。そのあとには、ミイラがいろいろなことに使われたようすが書かれています。
+the unwrapping and displaying of mummies at private parties became a popular activity（個人のパーティーでミイラの包帯をほどいて見せることが、人気のある催しになった）
+Mummies were also used in various other ways, such as being turned into crop fertilizer and fuel for railway engines.（ミイラはまた、作物の肥料や鉄道の機関車の燃料にされるなど、ほかのさまざまな方法でも使われた）
+第3段落にも、マミー・ブラウンという顔料の需要が「ナポレオンのエジプト遠征のころに高まった」とあります。
+本文と選択肢4を対にすると、次のようになります。
+・本文 fascination with mummies reached new heights（ミイラへの強い関心が新たな高まりに達した）→ 選択肢 an increased interest in mummies（ミイラへの関心の高まり）
+・本文 used in various other ways（ほかのさまざまな方法で使われた）→ 選択肢 use them for a number of purposes（いくつもの目的に使う）
+遠征のときに関心が高まり、そのあとにさまざまな使い方が並べられているので、遠征がミイラをいろいろな目的に使うきっかけになったと読み取れます。よって4が正解です。
+この問題の型：言いかえ（reached new heights → an increased interest）
+【ほかの選択肢】
+1 本文に書かれていません。ほかの指導者たちもエジプトに攻め入ったという話や、多くの遺物がこわされたという話はありません。本文には、遠征の科学調査が遺物の記録につながったとあります。
+2 本文の内容と違います。ヨーロッパの人々がミイラの薬を使うのをやめたのは、advances in medical knowledge（医学の知識の進歩）によるもので、18世紀までにはもうやめていたと書かれています。遠征で分かった情報によって考えが変わったのではありません。
+3 本文に書かれていません。裕福なヨーロッパの人々が遠征に反対したという話はありません。本文には、裕福な旅行者たちが、収集品にする古代の遺物を手に入れるためにエジプトを訪れたとあります。
+【覚えるポイント】
+・fascination with ～：「～への強い関心」。reach new heights：「新たな高まりに達する」。artifact：「（昔の人が作った）遺物」。
+・設問がある出来事（ここではナポレオンの遠征）について「分かること」をたずねているときは、その出来事の名前が出てくる文と、そのすぐあとに続く具体例をあわせて読むのが手がかりになります。

@@ -1,0 +1,29 @@
+---
+choices: scrub | enchant | prune | evaluate
+answerText: evaluate
+---
+【正解】4 evaluate（評価する、よしあしを判断する）
+【和訳】
+（英文）
+Caleb finished a draft of his proposal, so he asked his manager to ［evaluate］ it. Unfortunately, she thought it still needed a lot of improvement.
+（訳）
+ケイレブは提案書の下書きを書き終えたので、上司にそれを（評価して）くれるよう頼んだ。残念なことに、上司は、それにはまだ多くの改善が必要だと考えた。
+（選択肢の意味）
+1 scrub：ごしごしこする
+2 enchant：うっとりさせる、魅了する
+3 prune：（木の枝を）刈りこむ、（余分な部分を）削る
+4 evaluate：評価する、よしあしを判断する
+【考え方】
+まず見るところ：あとの文の she thought it still needed a lot of improvement
+Unfortunately, she thought it still needed a lot of improvement.（残念なことに、上司は、それにはまだ多くの改善が必要だと考えた）
+she は前の文の his manager（上司）、it は a draft of his proposal（提案書の下書き）を指します。上司は下書きを読んで、出来がまだ十分ではないと判断したことが分かります。
+he asked his manager to (　) it（上司にそれを（　）してくれるよう頼んだ）
+draft は「下書き」です。下書きができたので、上司に出来を見てもらうよう頼んだと考えると、あとの「まだ改善が必要だと考えた」という判断につながります。evaluate は「評価する、よしあしを判断する」なので、4が正解です。
+この問題の型：因果（下書きができた so 評価を頼んだ）
+【ほかの選択肢】
+1 scrub は「ごしごしこする」です。「下書きをごしごしこする」となり、意味が通りません。
+2 enchant は「うっとりさせる」です。「上司に下書きをうっとりさせてくれるよう頼んだ」となり、意味が通りません。
+3 prune は「（木の枝を）刈りこむ、（余分な部分を）削る」です。上司に削ることを頼んだという話は書かれておらず、上司が出来を見て「まだ改善が必要だ」と判断した流れには、「評価する」のほうが合います。
+【覚えるポイント】
+・evaluate：「評価する」。draft：「下書き」。proposal：「提案、提案書」。improvement：「改善」。
+・空所のあとの文に「その人がどう考えたか（she thought ～）」という判断が書かれているときは、空所に「判断する、評価する」という意味の語が入る手がかりになります。

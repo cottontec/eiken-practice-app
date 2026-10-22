@@ -1,0 +1,29 @@
+---
+choices: has two disadvantages | cannot be avoided | is a gamble worth taking | prevents creative thinking
+answerText: has two disadvantages
+---
+【正解】1 has two disadvantages（2つの欠点がある）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 has two disadvantages（2つの欠点〈不利な点〉がある）
+2 cannot be avoided（避けることができない）
+3 is a gamble worth taking（やってみる価値のある賭けである）
+4 prevents creative thinking（創造的な考え方をさまたげる）
+【考え方】
+まず見るところ：第2段落の空所のあとの Not only do companies end up with poor managers but they also lose ～
+空所の文は「今の成果だけにもとづいて社員を昇進させることは〇〇」という内容です。空所のすぐあとの文が、その説明になっています。
+Not only do companies end up with poor managers but they also lose their best workers in lower-level positions.（会社は、結局はよくない管理職をかかえることになるだけでなく、低い地位にいた最も優秀な働き手も失ってしまう）
+not only A but also B は「AだけでなくBも」という意味です。ここでは悪いことが2つ挙げられています。
+・1つ目：poor managers（よくない管理職）をかかえることになる
+・2つ目：their best workers（最も優秀な働き手）を失う
+悪いことが2つあるので、「2つの欠点がある」となる1が正解です。disadvantage は「欠点、不利な点」です。
+この問題の型：具体例とまとめ（not only A but also B の2つの悪い点 → two disadvantages）
+【ほかの選択肢】
+2 cannot be avoided は「避けることができない」です。本文の最後の段落では、新しい管理職に研修を行うことで影響を減らせると書かれているので、避けられないとは言っていません。また、次の文の2つの悪い点を説明する内容にもなっていません。
+3 is a gamble worth taking は「やってみる価値のある賭けである」です。次の文では悪い結果だけが挙げられており、やってみる価値があるという内容とつながりません。
+4 prevents creative thinking は「創造的な考え方をさまたげる」です。本文には創造的な考え方についての話はなく、次の文の内容とも合いません。
+【覚えるポイント】
+・Not only do ～ but they also ...：「～だけでなく…も」（not only が文の始めに来ると、do companies のように語順が入れかわります）。disadvantage：「欠点、不利な点」。
+・選択肢に two のような数があるときは、空所のあとに not only A but also B などで、実際にその数だけのことが挙げられているかを数えて確かめます。

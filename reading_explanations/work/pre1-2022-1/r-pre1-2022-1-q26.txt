@@ -1,0 +1,28 @@
+---
+choices: earn lower-than-average salaries | love their jobs | have worked for several companies | perform poorly
+answerText: perform poorly
+---
+【正解】4 perform poorly（仕事の成果が上がらない）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 earn lower-than-average salaries（平均より低い給料をもらっている）
+2 love their jobs（自分の仕事が大好きである）
+3 have worked for several companies（いくつかの会社で働いたことがある）
+4 perform poorly（仕事の成果が上がらない）
+【考え方】
+まず見るところ：第1段落の空所のあとの According to the theory, ～ と、文の最後の positions for which their abilities are unsuited
+空所の文は「ピーターの法則は、管理職の地位にいる人々の中に、なぜ〇〇な人が多いのかを説明できるかもしれない」という内容です。この法則の中身は、すぐあとの文に書かれています。
+According to the theory, employees who perform well in lower-level positions will eventually rise to positions they are not prepared for.（この理論によると、低い地位でよい成果を上げる社員は、やがて、自分が対応する準備のできていない地位にまで上がっていく）
+さらに段落の最後では、社員は「自分の能力に合わない地位」にたどり着くと書かれています。
+results in them eventually reaching positions for which their abilities are unsuited（結果として、社員がやがて自分の能力に合わない地位にたどり着くことにつながる）
+準備ができておらず、能力も合わない地位についた人は、その地位ではうまく仕事ができないと考えられます。つまり、この法則が説明するのは「管理職なのに成果が上がらない人が多いのはなぜか」ということです。perform poorly は「成果が上がらない」なので、4が正解です。前の文の perform well（よい成果を上げる）と反対の言い方になっている点も手がかりです。
+この問題の型：対比（低い地位で perform well ⇔ 管理職で perform poorly）
+【ほかの選択肢】
+1 earn lower-than-average salaries は「平均より低い給料をもらっている」です。本文には給料の話は書かれておらず、法則の説明（能力に合わない地位につく）ともつながりません。
+2 love their jobs は「仕事が大好きである」です。本文が説明しているのは、能力に合わない地位についてしまうという問題で、仕事が好きかどうかについては書かれていません。
+3 have worked for several companies は「いくつかの会社で働いたことがある」です。本文は同じ会社の中で昇進していく話で、会社を移った経験については書かれていません。
+【覚えるポイント】
+・perform well / perform poorly：「よい成果を上げる／成果が上がらない」。be promoted：「昇進する」。unsuited：「向いていない」。
+・空所が文章の最初の文にあるときは、そのあとの According to ～ のような説明の文や段落の最後のまとめに答えの手がかりがあることが多いので、段落全体を読んでから選びます。

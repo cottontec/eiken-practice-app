@@ -1,0 +1,32 @@
+---
+choices: The substances that were added to the pigment to improve its color destroyed any biological evidence that tests could have detected. | The way that ancient Egyptians prepared mummies changed, so the contents of the pigment were not consistent. | Artists mixed the pigment with other types of paint before applying it to paintings, so it would only be present in very small amounts. | The art industry has tried to prevent researchers from conducting tests on paintings because of concerns that the results could affect their value.
+answerText: The way that ancient Egyptians prepared mummies changed, so the contents of the pigment were not consistent.
+---
+【正解】2 The way that ancient Egyptians prepared mummies changed, so the contents of the pigment were not consistent.（古代エジプト人のミイラの作り方が変わったので、顔料の中身が一定ではなかった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one thing that makes it difficult to determine whether a painting contains mummy brown?（ある絵にマミー・ブラウンがふくまれているかどうかを判断するのを難しくしていることの一つは何か。）
+1 The substances that were added to the pigment to improve its color destroyed any biological evidence that tests could have detected.（顔料の色をよくするために加えられた物質が、検査で見つけられたかもしれない生物の手がかりを、すべてこわしてしまった。）
+2 The way that ancient Egyptians prepared mummies changed, so the contents of the pigment were not consistent.（古代エジプト人のミイラの作り方が変わったので、顔料の中身が一定ではなかった。）
+3 Artists mixed the pigment with other types of paint before applying it to paintings, so it would only be present in very small amounts.（画家たちは絵にぬる前に顔料をほかの種類の絵の具と混ぜたので、顔料はごく少しの量しかふくまれていないだろう。）
+4 The art industry has tried to prevent researchers from conducting tests on paintings because of concerns that the results could affect their value.（美術業界は、結果が絵の価値に影響するかもしれないという心配から、研究者が絵を検査するのを妨げようとしてきた。）
+【考え方】
+まず見るところ：第4段落の the mummification process itself, ～ underwent changes over time. と、These same factors make it almost impossible ～
+第4段落では、マミー・ブラウンを見分けにくくしている理由が、いくつか並べられています。まず、動物の体の一部がミイラの一部として売られることがありました。次に、製造業者によって使うミイラの部分が違ったため、市場に出回る顔料には there was little consistency（ほとんど一貫性がなかった）とあります。さらに、次の文が続きます。
+Additionally, the mummification process itself, including the substances used to preserve the bodies, underwent changes over time.（さらに、ミイラ作りの工程そのものも、体を保存するのに使われた物質をふくめて、時代とともに変化した）
+そして、これらをまとめて次のように述べています。
+These same factors make it almost impossible for researchers today to detect the presence of mummy brown in specific paintings.（これらの同じ要因のために、今日の研究者が、特定の絵にマミー・ブラウンが使われているかどうかを見つけ出すことは、ほとんど不可能になっている）
+本文と選択肢2を対にすると、次のようになります。
+・本文 the mummification process itself ～ underwent changes over time（ミイラ作りの工程そのものが、時代とともに変化した）＝ 選択肢 The way that ancient Egyptians prepared mummies changed（古代エジプト人のミイラの作り方が変わった）
+・本文 little consistency（ほとんど一貫性がない）→ 選択肢 the contents of the pigment were not consistent（顔料の中身が一定ではなかった）
+本文では、「一貫性がない」ことは製造業者の違いについて書かれていますが、ミイラ作りの工程が変われば、材料になるミイラの中身もそろわないことになります。どちらも These same factors（これらの同じ要因）としてまとめられているので、2が正解です。
+この問題の型：言いかえ（the mummification process ～ underwent changes ＝ the way ～ prepared mummies changed）
+【ほかの選択肢】
+1 本文に書かれていません。本文に出てくる substances（物質）は「体を保存するのに使われた物質」で、顔料の色をよくするために加えられた物質ではありません。それが検査の手がかりをこわしたという話もありません。
+3 本文に書かれていません。画家たちが顔料をほかの絵の具と混ぜたことや、そのために量がごく少なくなったという話はありません。
+4 本文に書かれていません。美術業界が検査を妨げようとしたという話はありません。本文の最後には、美術を愛する人々がショックを受けるかもしれないとありますが、それは検査を妨げることとは別の話です。
+【覚えるポイント】
+・consistency：「一貫性（いつも同じであること）」。undergo changes：「変化を受ける、変わる」。detect：「見つけ出す」。
+・本文で Also、Additionally（さらに）と理由が並び、These same factors（これらの同じ要因）でまとめられているときは、並べられた理由のうち、選択肢がどれを言いかえているかを1つずつ確かめるのが手がかりになります。

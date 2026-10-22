@@ -1,0 +1,29 @@
+---
+choices: stationary | candid | edible | hideous
+answerText: edible
+---
+【正解】3 edible（食べられる）
+【和訳】
+（英文）
+The flowers of some plants are actually ［edible］ and can be used to make salads both more delicious and more visually attractive.
+（訳）
+一部の植物の花は、実は（食べることができ）、サラダをよりおいしく、見た目もより魅力的にするのに使うことができる。
+（選択肢の意味）
+1 stationary：動かない、止まったままの
+2 candid：率直な（思ったことをそのまま言う）
+3 edible：食べられる
+4 hideous：ひどく醜い
+【考え方】
+まず見るところ：空所のあとの can be used to make salads both more delicious and more visually attractive
+can be used to make salads both more delicious and more visually attractive（サラダをよりおいしく、見た目もより魅力的にするのに使うことができる）
+make ～ ... は「～を…にする」、visually は「見た目の点で」という意味です。花をサラダに入れて「よりおいしくする」のですから、その花は食べられるものだと分かります。
+The flowers of some plants are actually (　)（一部の植物の花は、実は（　）だ）
+actually（実は）は、ふつうは思われていないことを言うときに使われます。「花は実は食べられる」とすると、あとの内容とつながります。edible は「食べられる」なので、3が正解です。
+この問題の型：語の意味・組み合わせ（salads・delicious → edible）
+【ほかの選択肢】
+1 stationary は「動かない」です。花が動かないことは、サラダをおいしくすることとつながりません。
+2 candid は「率直な」です。人の話し方や態度について使う語で、「花は率直だ」では意味が通りません。
+4 hideous は「ひどく醜い」です。花が醜いとすると、サラダの見た目をより魅力的にするという内容と合いません。
+【覚えるポイント】
+・edible：「食べられる」。visually attractive：「見た目が魅力的な」。make ～ ...：「～を…にする」。
+・空所のあとに「どのように使えるか（can be used to ～）」が書かれているときは、その使い方ができる理由になる性質を表す語が入る手がかりになります。

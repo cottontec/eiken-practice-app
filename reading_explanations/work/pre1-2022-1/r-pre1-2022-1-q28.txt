@@ -1,0 +1,27 @@
+---
+choices: Of course | On the other hand | What is more | For a similar reason
+answerText: On the other hand
+---
+【正解】2 On the other hand（一方で、それに対して）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Of course（もちろん）
+2 On the other hand（一方で、それに対して）
+3 What is more（さらに、そのうえ）
+4 For a similar reason（同じような理由で）
+【考え方】
+まず見るところ：第3段落の空所の前の new employees receive specialized training と、空所のあとの new managers are often given little or no training
+空所の前とあとの文を比べます。
+In most companies, new employees receive specialized training in how to do their jobs.（たいていの会社では、新しく入った社員は、自分の仕事のやり方について専門的な研修を受ける）
+new managers are often given little or no training（新しい管理職は、研修をほとんど、あるいはまったく受けないことが多い）
+新しく入った社員は研修を受けるのに、新しい管理職は研修をほとんど受けません。2つのことがらを比べて、違いを示しています。このような対比（2つを比べて違いを示すこと）を表すのが On the other hand（一方で）なので、2が正解です。
+この問題の型：対比（新しい社員は研修を受ける⇔新しい管理職は受けない）
+【ほかの選択肢】
+1 Of course は「もちろん」です。新しい社員が研修を受けることから、新しい管理職が研修を受けないことは当然出てくる話ではないので、つながりません。
+3 What is more は「さらに、そのうえ」です。前と同じ方向の内容を付け加えるときに使いますが、ここでは「研修を受ける」と「研修を受けない」という反対の内容なので、合いません。
+4 For a similar reason は「同じような理由で」です。前の文には理由が書かれておらず、内容も反対なので、つながりません。
+【覚えるポイント】
+・On the other hand：「一方で、それに対して」。little or no ～：「ほとんど、あるいはまったく～ない」。
+・空所の前後の文で、new employees と new managers のように似た2つのものが比べられ、内容が反対になっているときは、対比を表すつなぎの言葉が入る手がかりになります。
