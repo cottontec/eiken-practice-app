@@ -1,0 +1,28 @@
+---
+choices: encourage their students to participate in sports to create competition. | focus on competition and require students to study for many hours. | believe that all students should receive the same education. | doubt that Finland's education system is good for students.
+answerText: focus on competition and require students to study for many hours.
+---
+【正解】2 focus on competition and require students to study for many hours.（競争に重点を置き、生徒に長時間勉強することを求める。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：PISAの調査で上位にいる国々のほとんどの学校は、
+1 競争を生み出すために、生徒にスポーツに参加するよう勧めている。
+2 競争に重点を置き、生徒に長時間勉強することを求める。
+3 すべての生徒が同じ教育を受けるべきだと考えている。
+4 フィンランドの教育制度が生徒のためになるかどうか疑っている。
+【考え方】
+設問の the countries at the top of the PISA survey（PISAの調査で上位にいる国々）は、第2段落の the others that come at the top of the survey（調査で上位に入るほかの国々）にあたります。その国々の学校のようすは、次の文に書かれています。
+Those countries' schools generally emphasize competition between students and between schools, and they often have long hours of study, much homework, and frequent tests.（そうした国々の学校は一般に、生徒どうしや学校どうしの競争を重視しており、勉強時間が長く、宿題が多く、テストがひんぱんにあることが多い）
+emphasize は「重視する、強調する」、frequent は「ひんぱんな、よくある」です。本文と選択肢の対応は次のとおりです。
+本文 emphasize competition（競争を重視する）＝ 選択肢 focus on competition（競争に重点を置く）
+本文 have long hours of study（勉強時間が長い）→ 選択肢 require students to study for many hours（生徒に長時間勉強することを求める）
+学校で勉強時間が長いということは、学校が生徒に長く勉強させているということだと読み取れます。設問の Most schools（ほとんどの学校）も、本文の generally（一般に）と合っています。正解は2です。
+【ほかの選択肢】
+1 本文の competition（競争）は、生徒どうしや学校どうしの勉強の競争のことです。スポーツに参加させるという話はありません。
+3 「すべての生徒の平等」を目指しているのはフィンランドです。本文には The aim of this system is to promote equality between students（この制度の目的は生徒どうしの平等を推し進めること）とありますが、this system はフィンランドの制度を指しています。上位にいるほかの国々の学校の考え方ではありません。
+4 本文には、上位にいる国々がフィンランドの教育制度を疑っているという話はありません。むしろ最後の段落には、フィンランドの成果を見て、自国のやり方を見直し始めた国もあると書かれています。
+【覚えるポイント】
+・emphasize ～：「～を重視する、～を強調する」。focus on ～（～に重点を置く）と近い意味です。
+・require ＋ 人 ＋ to ～：「人に～することを求める（義務づける）」。
