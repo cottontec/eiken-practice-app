@@ -1,0 +1,29 @@
+---
+choices: denial | grin | substitute | tremor
+answerText: substitute
+---
+【正解】3 substitute（代わりのもの、代用品）
+【和訳】
+（英文）
+These days, low-fat milk is popular, but some people will only drink regular milk. They say the low-fat version is no ［substitute］ for the real thing.
+（訳）
+最近は低脂肪乳が人気だが、普通の牛乳しか飲もうとしない人もいる。その人たちは、低脂肪のものは本物の（代わり）にはまったくならないと言う。
+（選択肢の意味）
+1 denial：否定、否認
+2 grin：（歯を見せて）にっこり笑うこと
+3 substitute：代わりのもの、代用品
+4 tremor：（体などの）震え、小さな地震
+【考え方】
+まず見るところ：空所の前後の is no (　) for the real thing
+前半の文で、some people will only drink regular milk（普通の牛乳しか飲もうとしない人もいる）とあります。regular は「普通の」、ここの will は「～しようとする」という意志を表しています。
+空所のある文は、次のとおりです。
+They say the low-fat version is no (　) for the real thing.（その人たちは、低脂肪のものは本物の（　）にはまったくならないと言う）
+the real thing（本物）は、ここでは普通の牛乳のことです。普通の牛乳しか飲まない人たちは、「低脂肪乳では普通の牛乳の代わりにならない」と考えているはずです。substitute は「代わりのもの」という意味で、be no substitute for ～ で「～の代わりにはまったくならない」となります。ですから3が正解です。
+この問題の型：熟語・決まった形（be no substitute for ～）
+【ほかの選択肢】
+1 denial は「否定、否認」です。「低脂肪のものは本物の否定ではない」となり、普通の牛乳しか飲まない理由として意味が通りません。
+2 grin は「にっこり笑うこと」です。「低脂肪のものは本物のにっこり笑うことではない」では意味が通りません。
+4 tremor は「震え、小さな地震」です。「低脂肪のものは本物の震えではない」では意味が通りません。
+【覚えるポイント】
+・be no substitute for ～：「～の代わりにはまったくならない」。
+・is no (　) for ～ の形で、前に「～しか…しない」のような好みの話があるときは、「代わりのもの」を表す語が入る手がかりになります。
