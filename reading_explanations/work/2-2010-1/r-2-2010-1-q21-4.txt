@@ -1,0 +1,20 @@
+---
+choices: to | wait for | made | everyone was | 30 minutes
+answerText: wait for
+order: 4 3 1 2 5
+---
+【正解】2 wait for（この問題の4番目）
+【完成文】
+As a result, ( everyone was made to wait for 30 minutes ) while the engine was checked.
+並べ方：4 everyone was → 3 made → 1 to → 2 wait for → 5 30 minutes（2番目は3、4番目は2）
+【和訳】
+リンダが飛行機に乗ったあと、エンジンにちょっとした問題がありました。その結果、エンジンが点検される間、全員が30分待たされました。それから、飛行機はようやく出発の準備ができました。
+【考え方】
+空所の前の As a result（その結果）は、前の文の「エンジンにちょっとした問題があった」を受けています。空所のあとの while the engine was checked（エンジンが点検される間）から、点検の間に乗客がどうなったかを述べる文だと分かります。
+主語（「だれが」にあたる語）は 4 everyone was（全員が）です。続けて 3 made を置き、was made（～させられた）とします。make ＋ 人 ＋ 動詞の元の形（人に～させる）を受け身（「～される」という形）にすると be made to ～ となり、to が必要です。ここまでで everyone was made to と、3番目までが決まります。
+4番目は、to のあとに来る動詞です。選択肢の中で動詞を含むのは 2 wait for（～を待つ）だけです。最後に 5 30 minutes を置くと wait for 30 minutes（30分間待つ）となります。
+したがって4番目は2 wait for です。
+もし 5 30 minutes を4番目に置くと、to 30 minutes wait for となり、to のあとに動詞が来ないので文が成り立ちません。
+【覚えるポイント】
+・be made to ～：「～させられる」。受け身では to が入ることが、並べるときの手がかりになります。
+・As a result：「その結果」。前の文の原因を受けて、結果を述べるときに使います。

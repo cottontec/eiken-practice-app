@@ -1,0 +1,20 @@
+---
+choices: over | all | her | take | of
+answerText: of
+order: 4 1 2 5 3
+---
+【正解】5 of（この問題の4番目）
+【完成文】
+When Susan quit the company, the manager asked Jack to ( take over all of her ) responsibilities while they looked for someone else.
+並べ方：4 take → 1 over → 2 all → 5 of → 3 her（2番目は1、4番目は5）
+【和訳】
+スーザンが会社を辞めたとき、上司はジャックに、ほかの人を探す間、彼女の受け持っていた仕事をすべて引き継ぐよう頼みました。
+【考え方】
+スーザンが辞め、会社は someone else（ほかの人）を探しています。その間、ジャックがスーザンの仕事を代わりにする、という流れです。
+asked Jack to のあとには動詞の元の形が来るので、4 take を置き、1 over と合わせて take over（～を引き継ぐ）とします。ここまでで2番目までが決まります。
+次に、引き継ぐものを表す部分を作ります。空所のあとの responsibilities（責任、受け持ちの仕事）の前に、her（彼女の）が直接つく形にします。そして all of ～（～のすべて）を使って、2 all → 5 of → 3 her と並べます。all of her responsibilities で「彼女の受け持ちの仕事すべて」です。
+したがって4番目は5 of です。
+all her responsibilities という言い方もありますが、この問題では of も使わなければならないので、all of her の順にします。her of all のように並べると意味が通りません。
+【覚えるポイント】
+・all of ～：「～のすべて」。all of her responsibilities で「彼女の受け持ちの仕事すべて」です。
+・take over ～：「～を引き継ぐ」。

@@ -1,0 +1,21 @@
+---
+choices: is | there | knowing | no | when
+answerText: knowing
+order: 2 1 4 3 5
+---
+【正解】3 knowing（この問題の4番目）
+【完成文】
+No. His meetings often take a long time. ( There is no knowing when ) he'll be done.
+並べ方：2 there → 1 is → 4 no → 3 knowing → 5 when（2番目は1、4番目は3）
+【和訳】
+A：ジーナ、リーさんと話をしなければならないんだ。彼の会議がいつ終わるか知ってる？
+B：いいえ。彼の会議はよく長引くんです。いつ終わるかは分かりません。
+【考え方】
+Bは No. と答え、「彼の会議はよく長くかかる」と理由を述べています。空所の文は「彼がいつ終わるか分からない」という内容になるはずです。
+この意味を表すのが、There is no ～ing（～することはできない）という決まった言い方です。no のあとには ～ing の形が来ます。選択肢の中で ～ing の形は 3 knowing だけなので、no knowing（知ることはできない）とまとまります。
+文の初めは 2 there と 1 is で There is とし、そのあとに 4 no、3 knowing が続きます。最後の 5 when は空所のあとの he'll be done とつながり、when he'll be done（彼がいつ終わるか）となります。
+したがって4番目は3 knowing です。
+when を4番目に置いて There is no when knowing … とすると、no のあとに ～ing の形が来ないので文が成り立ちません。
+【覚えるポイント】
+・There is no knowing ～：「～は知りようがない、～は分からない」。
+・when he'll be done：「彼がいつ終わるか」。文の中で「いつ～か」を表す部分です。

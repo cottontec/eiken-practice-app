@@ -1,0 +1,20 @@
+---
+choices: mistake | his | made | for | up
+answerText: up
+order: 3 5 4 2 1
+---
+【正解】5 up（この問題の2番目）
+【完成文】
+But he ( made up for his mistake ) by taking her out to a nice restaurant for dinner.
+並べ方：3 made → 5 up → 4 for → 2 his → 1 mistake（2番目は5、4番目は2）
+【和訳】
+レイチェルは、夫が結婚記念日のことを忘れていたので、とても腹を立てていました。でも夫は、すてきなレストランへ夕食に連れて行くことで、自分の失敗の埋め合わせをしました。
+【考え方】
+1文目では、夫が結婚記念日を忘れたので、レイチェルがとても upset（腹を立てて、気持ちが乱れて）だったと書かれています。2文目は But（でも）で始まり、by taking her out to a nice restaurant for dinner（彼女をすてきなレストランへ夕食に連れて行くことによって）と続きます。夫は、忘れていたことの「おわび」として食事に連れて行ったと考えられます。
+空所の前の he（彼は）が主語（「だれが」にあたる語）なので、そのあとには動詞が必要です。選択肢の中で動詞は 3 made です。made と 5 up と 4 for を合わせると make up for ～（～の埋め合わせをする）という決まった言い方になります。
+for のあとには埋め合わせをする対象を置きます。2 his と 1 mistake で his mistake（彼の失敗）です。made up for his mistake で「自分の失敗の埋め合わせをした」となります。
+したがって2番目は5 up です。
+made for up … のように for と up の順番を入れかえると、決まった言い方にならず、意味が通りません。
+【覚えるポイント】
+・make up for ～：「～の埋め合わせをする、～を取り戻す」。
+・by ～ing：「～することによって」。方法を表します。

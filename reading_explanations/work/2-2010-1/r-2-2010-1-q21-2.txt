@@ -1,0 +1,21 @@
+---
+choices: to | wait for | made | everyone was | 30 minutes
+answerText: made
+order: 4 3 1 2 5
+---
+【正解】3 made（この問題の2番目）
+【完成文】
+As a result, ( everyone was made to wait for 30 minutes ) while the engine was checked.
+並べ方：4 everyone was → 3 made → 1 to → 2 wait for → 5 30 minutes（2番目は3、4番目は2）
+【和訳】
+リンダが飛行機に乗ったあと、エンジンにちょっとした問題がありました。その結果、エンジンが点検される間、全員が30分待たされました。それから、飛行機はようやく出発の準備ができました。
+【考え方】
+まず話の流れを確かめます。エンジンに問題があり、そのあと while the engine was checked（エンジンが点検される間）と続き、最後に「ようやく出発の準備ができた」とあります。点検の間、乗っていた人たちは「待たされた」と考えられます。
+次に、文の主語（「だれが」にあたる語）を決めます。選択肢の中で主語になれるのは 4 everyone was（全員が）です。これを最初に置きます。
+was のあとに 3 made を続けると was made（～させられた）となります。make ＋ 人 ＋ 動詞の元の形 は「人に～させる」という意味ですが、「人が～させられる」という受け身（「～される」という形）にすると、be made to ～ のように to が入ります。そこで 1 to を置き、to のあとに動詞の 2 wait for（～を待つ）を続けます。
+wait for のあとには待つ時間 5 30 minutes を置きます。wait for 30 minutes で「30分間待つ」です。こうして everyone was made to wait for 30 minutes（全員が30分間待たされた）ができます。
+したがって2番目は3 made です。
+まちがえやすいのは、能動の形（「～させる」の形）のつもりで everyone was to … と to を2番目に置いてしまう並べ方です。そうすると made の置き場所がなくなり、文が成り立ちません。
+【覚えるポイント】
+・be made to ～：「～させられる」。make ＋ 人 ＋ 動詞の元の形（人に～させる）を受け身にすると、to が必要になります。
+・wait for ～：「～の間待つ、～を待つ」。wait for 30 minutes は「30分間待つ」です。

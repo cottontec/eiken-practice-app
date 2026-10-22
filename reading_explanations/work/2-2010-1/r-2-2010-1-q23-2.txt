@@ -1,0 +1,21 @@
+---
+choices: over | all | her | take | of
+answerText: over
+order: 4 1 2 5 3
+---
+【正解】1 over（この問題の2番目）
+【完成文】
+When Susan quit the company, the manager asked Jack to ( take over all of her ) responsibilities while they looked for someone else.
+並べ方：4 take → 1 over → 2 all → 5 of → 3 her（2番目は1、4番目は5）
+【和訳】
+スーザンが会社を辞めたとき、上司はジャックに、ほかの人を探す間、彼女の受け持っていた仕事をすべて引き継ぐよう頼みました。
+【考え方】
+まず話の流れを確かめます。スーザンが会社を辞め、while they looked for someone else（彼らがほかの人を探す間）とあります。つまり、代わりの人が見つかるまでの間、ジャックがスーザンの仕事をすることになったと考えられます。
+空所の前は asked Jack to です。ask ＋ 人 ＋ to ～ は「人に～するよう頼む」で、to のあとには動詞の元の形が来ます。選択肢の中で動詞は 4 take なので、これを最初に置きます。
+take と 1 over を合わせると take over ～（～を引き継ぐ）となり、話の流れにぴったり合います。
+引き継ぐものは空所のあとの responsibilities（責任、受け持ちの仕事）です。all of ～（～のすべて）を使い、2 all → 5 of → 3 her と並べると、all of her responsibilities（彼女の受け持ちの仕事すべて）となります。
+したがって2番目は1 over です。
+take all of her over responsibilities のように over を後ろに回すと、over が responsibilities の前に来てしまい、文が成り立ちません。
+【覚えるポイント】
+・take over ～：「～を引き継ぐ」。
+・ask ＋ 人 ＋ to ～：「人に～するよう頼む」。
