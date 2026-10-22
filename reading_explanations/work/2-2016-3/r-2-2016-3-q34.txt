@@ -1,0 +1,28 @@
+---
+choices: People prefer living a healthy life to eating sweets such as chocolate. | People will not want to buy chocolate any longer because it is too expensive. | They will have to increase the price of chocolate by 60 percent to cover costs. | They are not able to produce as much chocolate as people want to buy.
+answerText: They are not able to produce as much chocolate as people want to buy.
+---
+【正解】4 They are not able to produce as much chocolate as people want to buy.（人々が買いたいと思うほどの量のチョコレートを、生産することができない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：チョコレートメーカーは何を心配していますか。
+1 人々は、チョコレートのような甘いものを食べるより、健康的な生活を送る方を好む。
+2 チョコレートが高すぎるので、人々はもうチョコレートを買いたがらなくなるだろう。
+3 費用をまかなうために、彼ら（メーカー）はチョコレートの価格を60パーセント上げなければならなくなるだろう。
+4 彼ら（メーカー）は、人々が買いたいと思うほどの量のチョコレートを、生産することができない。
+【考え方】
+設問の chocolate manufacturers（チョコレートメーカー）が出てくるのは、第1段落です。
+Some chocolate manufacturers, however, are warning that there may be a major shortage of chocolate in the near future. This is because the world is now consuming more chocolate than it can produce. Moreover, demand keeps increasing.（しかし、チョコレートメーカーの中には、近い将来、チョコレートが大幅に不足するかもしれないと警告しているところもある。これは、世界が今、生産できる量よりも多くのチョコレートを消費しているからだ。そのうえ、需要は増え続けている）
+メーカーが心配しているのは、チョコレートが足りなくなることです。その理由は、食べられる量（消費）が、作れる量（生産）を上回っていることです。
+本文と選択肢を対にすると、次のようになります。
+本文 the world is now consuming more chocolate than it can produce（生産できる量よりも多くのチョコレートを消費している）→ 選択肢 They are not able to produce as much chocolate as people want to buy（人々が買いたいと思うほどの量を生産できない）
+「消費が生産より多い」ことを、反対側から「生産が、人々のほしい量に追いつかない」と言いかえています。ですから、4が正解です。
+【ほかの選択肢】
+1 人々が甘いものより健康的な生活を好むという話は、本文にありません。むしろ、チョコレートの需要は増え続けていると書かれています。
+2 第1段落に、チョコレートの価格が上がったことは書かれていますが、人々が高すぎて買わなくなるという話はありません。本文は demand keeps increasing（需要は増え続けている）と、反対の内容を述べています。
+3 本文の over 60 percent（60パーセント以上）は、2012年から2014年までの間にすでに上がった価格の上がり方です。メーカーがこれから費用をまかなうために60パーセント値上げしなければならない、という話ではありません。
+【覚えるポイント】
+・more ～ than … can produce：「…が生産できるより多くの～」。not able to produce as much ～ as …（…ほどの量の～を生産できない）と同じ関係を表せます。
+・shortage：「不足」。a major shortage of ～ で「～の大幅な不足」。

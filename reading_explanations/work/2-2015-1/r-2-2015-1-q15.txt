@@ -1,6 +1,7 @@
 ---
 choices: hit | sold | came | drove
 answerText: came
+reviewed: yes
 ---
 【正解】3 came（came to an end で「終わった」）
 【和訳】

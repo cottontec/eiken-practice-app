@@ -2,6 +2,7 @@
 choices: see | tennis | play | him | to
 answerText: play
 order: 5 1 4 3 2
+reviewed: yes
 ---
 【正解】3 play（この問題の4番目）
 【完成文】

@@ -1,6 +1,7 @@
 ---
 choices: he would forget | he forgets | did he forget | should he forget
 answerText: did he forget
+reviewed: yes
 ---
 【正解】3 did he forget（彼は忘れた）
 【和訳】

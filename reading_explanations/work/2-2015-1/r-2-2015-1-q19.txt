@@ -1,6 +1,7 @@
 ---
 choices: while | that | but | to
 answerText: that
+reviewed: yes
 ---
 【正解】2 that（～ということ）
 【和訳】

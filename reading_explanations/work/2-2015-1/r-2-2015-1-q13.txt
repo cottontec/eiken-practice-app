@@ -1,6 +1,7 @@
 ---
 choices: familiar to | conscious of | typical of | inferior to
 answerText: inferior to
+reviewed: yes
 ---
 【正解】4 inferior to（～より劣っている）
 【和訳】

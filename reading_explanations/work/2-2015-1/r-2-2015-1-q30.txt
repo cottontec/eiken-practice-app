@@ -1,6 +1,7 @@
 ---
 choices: useful | strange | average | impossible
 answerText: useful
+reviewed: yes
 ---
 【正解】1 useful（役に立つ）
 【和訳】

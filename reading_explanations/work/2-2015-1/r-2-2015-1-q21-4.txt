@@ -2,6 +2,7 @@
 choices: a | an oak tree | even tell | from | can't
 answerText: from
 order: 5 3 2 4 1
+reviewed: yes
 ---
 【正解】4 from（この問題の4番目）
 【完成文】

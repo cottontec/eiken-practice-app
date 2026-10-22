@@ -2,6 +2,7 @@
 choices: so many | eaten | of | them | having
 answerText: eaten
 order: 5 2 1 3 4
+reviewed: yes
 ---
 【正解】2 eaten（この問題の2番目）
 【完成文】

@@ -1,0 +1,25 @@
+---
+choices: make money through tips | find a second job | return money to the restaurant | pay fewer taxes
+answerText: make money through tips
+---
+【正解】1 make money through tips（チップでお金をかせぐ）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 make money through tips（チップでお金をかせぐ）
+2 find a second job（2つ目の仕事を見つける）
+3 return money to the restaurant（レストランにお金を返す）
+4 pay fewer taxes（税金をより少なく払う）
+【考え方】
+空所は第1段落の This is because it is expected that they will (24).（これは、彼らが（24）ものと考えられているからだ）です。This（これ）は、すぐ前の文の内容を指しています。
+すぐ前の文は in most American restaurants, waiters are paid a very low hourly wage（アメリカのほとんどのレストランでは、ウェイターに支払われる時給はとても低い）です。つまり空所の文は、「ウェイターの時給が低いのはなぜか」という理由を説明しています。they は waiters（ウェイターたち）のことです。
+次に、空所のあとの文を見ます。As a result, tips are a very important part of their income.（その結果、チップは彼らの収入のとても大切な部分になっている）とあります。
+「時給は低い → その理由は（24） → その結果、チップが収入の大切な部分になる」という流れです。この流れに合うのは、「ウェイターはチップでお金をかせぐものだと考えられているから、時給が低い」という内容です。よって1が正解です。
+【ほかの選択肢】
+2 「2つ目の仕事を見つける」を入れると、「ウェイターは2つ目の仕事を見つけるものだと考えられているから、時給が低い」となります。それでは、そのあとの「その結果、チップが収入の大切な部分になっている」とつながりません。
+3 「レストランにお金を返す」を入れると、ウェイターがお金を店に返すという話になります。本文にそのような話はなく、チップが大切な収入だという流れとも合いません。
+4 「税金をより少なく払う」を入れると、税金の話になります。本文には税金の話は出てこず、チップが収入の大切な部分になるという次の文とつながりません。
+【覚えるポイント】
+・This is because ～：「これは～だからだ」。前の文の理由を説明する言い方です。
+・As a result：「その結果」。前の内容から生じる結果がそのあとにきます。

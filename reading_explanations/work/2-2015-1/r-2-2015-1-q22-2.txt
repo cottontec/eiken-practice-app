@@ -2,6 +2,7 @@
 choices: for | drivers | look | should | out
 answerText: should
 order: 2 4 3 5 1
+reviewed: yes
 ---
 【正解】4 should（この問題の2番目）
 【完成文】

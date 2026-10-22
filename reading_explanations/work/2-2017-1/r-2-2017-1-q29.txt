@@ -1,0 +1,28 @@
+---
+choices: asks Mr. Fields to send a copy of her book to some publishers for her. | wants Mr. Fields to recommend a professional artist for her book. | would like Mr. Fields to call her at home by the end of the week. | gives Mr. Fields another way to contact her if he wants to speak to her.
+answerText: gives Mr. Fields another way to contact her if he wants to speak to her.
+---
+【正解】4 gives Mr. Fields another way to contact her if he wants to speak to her.（フィールズさんが彼女と話したい場合に備えて、彼女に連絡する別の方法を伝えている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ジェーン・ブルックスは、
+1 フィールズさんに、自分の代わりにいくつかの出版社へ本の写しを送るよう頼んでいる。
+2 フィールズさんに、自分の本のためにプロの画家を推薦してほしいと思っている。
+3 フィールズさんに、週末までに自宅へ電話をしてほしいと思っている。
+4 フィールズさんが彼女と話したい場合に備えて、彼女に連絡する別の方法を伝えている。
+【考え方】
+第3段落の終わりに、次の文があります。
+If you prefer to speak over the phone, you can call my home at 304-555-8989.（電話で話すほうがよければ、私の自宅の304-555-8989に電話できる）
+ジェーンはEメールでフィールズさんに連絡していますが、ここでは、Eメールのほかに電話という連絡の方法を伝えています。本文と選択肢を対にすると、次のようになります。
+本文 If you prefer to speak over the phone ＝ 選択肢 if he wants to speak to her
+本文 you can call my home at 304-555-8989 ＝ 選択肢 gives Mr. Fields another way to contact her
+Eメール以外の連絡方法である自宅の電話番号が、another way to contact her（彼女に連絡する別の方法）と言いかえられています。よって4が正解です。
+【ほかの選択肢】
+1 ジェーンは、本の写しをフィールズさんへのEメールに添付しています（I have attached a copy of the book to this e-mail.）。ほかの出版社へ送ってほしいとは頼んでいません。
+2 本文には as I am a professional artist（私はプロの画家なので）とあり、ジェーン自身がプロの画家です。挿絵も自分で描いていて、できれば自分の絵を使いたいと書いています。ほかの画家を推薦してほしいとは言っていません。
+3 電話については If you prefer to speak over the phone（電話で話すほうがよければ）とあるだけで、電話するかどうかはフィールズさんにまかせています。「週末までに」という期限も本文にはありません。
+【覚えるポイント】
+・prefer to ～：「～するほうを好む」。If you prefer to ～ で「～するほうがよければ」。
+・over the phone：「電話で」。

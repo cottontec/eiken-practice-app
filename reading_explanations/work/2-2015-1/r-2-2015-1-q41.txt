@@ -1,6 +1,7 @@
 ---
 choices: The number of jobs available in factories stopped growing. | Its economy went from being agriculture- to manufacturing-based. | It began to be called "post-industrial" by economic experts. | The service industry became the most important source of jobs.
 answerText: Its economy went from being agriculture- to manufacturing-based.
+reviewed: yes
 ---
 【正解】2 Its economy went from being agriculture- to manufacturing-based.（経済が、農業中心から製造業中心へと変わった。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: The price of fuel needed to import clothes made abroad has gone up. | People feel that the quality of clothing is better if it is more expensive. | The clothing made in Asia does not match American tastes in fashion. | Workers in factories in South America are being treated badly.
 answerText: The price of fuel needed to import clothes made abroad has gone up.
+reviewed: yes
 ---
 【正解】1 The price of fuel needed to import clothes made abroad has gone up.（海外で作られた服を輸入するのに必要な燃料の価格が上がった。）
 【和訳】

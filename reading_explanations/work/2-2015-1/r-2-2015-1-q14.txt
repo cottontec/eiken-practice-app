@@ -1,6 +1,7 @@
 ---
 choices: bitter | smart | fast | kind
 answerText: kind
+reviewed: yes
 ---
 【正解】4 kind（親切な）
 【和訳】

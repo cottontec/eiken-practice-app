@@ -1,6 +1,7 @@
 ---
 choices: gained | encouraged | promised | remained
 answerText: encouraged
+reviewed: yes
 ---
 【正解】2 encouraged（励ました、～するよう勧めた）
 【和訳】

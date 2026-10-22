@@ -1,6 +1,7 @@
 ---
 choices: risky | honest | effective | negative
 answerText: effective
+reviewed: yes
 ---
 【正解】3 effective（効果的な）
 【和訳】

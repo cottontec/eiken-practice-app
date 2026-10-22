@@ -1,6 +1,7 @@
 ---
 choices: fascinate | illustrate | appreciate | congratulate
 answerText: congratulate
+reviewed: yes
 ---
 【正解】4 congratulate（祝う、お祝いを言う）
 【和訳】

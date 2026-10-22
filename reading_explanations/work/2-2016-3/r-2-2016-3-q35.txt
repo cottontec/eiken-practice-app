@@ -1,0 +1,30 @@
+---
+choices: the quality of life of people around the world is improving. | many people living in South America are now selling chocolate. | middle-class people are unlikely to buy large amounts of chocolate. | Chinese people are more interested in luxury goods than other people.
+answerText: the quality of life of people around the world is improving.
+---
+【正解】1 the quality of life of people around the world is improving.（世界中の人々の生活の質が向上している。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：チョコレートの需要の変化が示しているのは、……ということです。
+1 世界中の人々の生活の質が向上している
+2 南アメリカに住む多くの人々が、今ではチョコレートを売っている
+3 中流階級の人々は、チョコレートを大量に買いそうにない
+4 中国の人々は、ほかの人々よりもぜいたく品に興味を持っている
+【考え方】
+需要（ほしいと思われる量）の変化について書かれているのは、第2段落です。流れを順に確かめます。
+・Chocolate is a luxury item, so most of it is consumed in wealthy countries.（チョコレートはぜいたく品なので、そのほとんどは豊かな国々で消費されている）
+・with the strong economic growth of many developing countries over the past two decades, demand for chocolate has risen（過去20年にわたって多くの発展途上国が力強く経済成長したことにともなって、チョコレートの需要が高まってきた）
+・In this sense, the growing shortage of chocolate can be seen as a sign that the standard of living is rising around the world.（この意味で、高まりつつあるチョコレート不足は、世界中で生活水準が上がっているしるしだと見ることができる）
+ぜいたく品であるチョコレートを、豊かな国以外の人々も買えるようになって需要が増えた、という流れです。段落の最後で、それが「世界中で生活水準が上がっているしるし」だとまとめられています。
+本文と選択肢を対にすると、次のようになります。
+本文 the standard of living is rising around the world（世界中で生活水準が上がっている）＝ 選択肢 the quality of life of people around the world is improving（世界中の人々の生活の質が向上している）
+standard of living（生活水準）が quality of life（生活の質）に、rising（上がっている）が improving（向上している）に言いかえられています。ですから、1が正解です。
+【ほかの選択肢】
+2 本文には Demand for chocolate has also grown dramatically in South America.（南アメリカでも、チョコレートの需要が劇的に伸びている）とあります。これはチョコレートをほしがる人が増えたという話で、南アメリカの人々がチョコレートを売っているという話ではありません。
+3 本文と反対です。本文には the development of a large middle class in China and India has led to more chocolate being consumed（中国とインドで大きな中流階級が育ってきたことで、〔以前より〕多くのチョコレートが消費されるようになった）と書かれています。
+4 本文では、中国の人々とほかの国の人々の、ぜいたく品への興味を比べてはいません。中国はインドと並んで、中流階級が育ってチョコレートの消費が増えた例として挙げられているだけです。
+【覚えるポイント】
+・standard of living：「生活水準」。quality of life（生活の質）と言いかえられることがあります。
+・In this sense：「この意味で」。段落の内容をまとめる文の始めによく使われ、設問の答えになることが多い部分です。

@@ -1,0 +1,27 @@
+---
+choices: To make matters worse | At least | Moreover | As a result
+answerText: Moreover
+---
+【正解】3 Moreover（さらに、そのうえ）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 To make matters worse（さらに悪いことに）
+2 At least（少なくとも）
+3 Moreover（さらに、そのうえ）
+4 As a result（その結果）
+【考え方】
+空所は第2段落の (25), cars use a lot of energy when increasing speed quickly.（（25）、車は急にスピードを上げるときに多くのエネルギーを使う）の始めにあります。
+空所の前では、ゆっくり走るとガソリンが少なくてすむ、という1つ目の点が述べられています。
+・driving at 90 kilometers per hour uses 25 percent less gasoline than driving at 110 kilometers per hour（時速90キロで走ると、時速110キロで走るよりガソリンが25パーセント少なくてすむ）
+・Just by driving more slowly, far less fuel is used per kilometer.（よりゆっくり走るだけで、1キロあたりに使われる燃料ははるかに少なくなる）
+空所のあとでは、「急にスピードを上げると多くのエネルギーを使う」という別の点が述べられ、For this reason（このため）、「一定の速さで走り、速さもゆっくり変えるのがよい」とまとめられています。
+つまり、空所の前後は「ガソリンを節約するための運転の注意点」を2つ並べています。前の内容に同じ種類の内容を付け足すときは Moreover（さらに）を使います。3が正解です。
+【ほかの選択肢】
+1 To make matters worse は「さらに悪いことに」で、悪い状況にもっと悪いことが重なるときに使います。空所の前は「ゆっくり走るだけで燃料が少なくてすむ」というよい話なので、つながりません。
+2 At least は「少なくとも」で、最低限これだけは言える、というときに使います。空所のあとは、前の話に別の注意点を付け足しているので、合いません。
+4 As a result は「その結果」です。ゆっくり走ると燃料が少なくてすむことの結果として、車が急にスピードを上げるときに多くのエネルギーを使うわけではないので、原因と結果の関係になりません。
+【覚えるポイント】
+・Moreover：「さらに、そのうえ」。前の内容に、同じ方向の内容を付け足すときに使います。
+・For this reason：「このため」。前に書かれた内容を理由として、あとに結論を続けます。

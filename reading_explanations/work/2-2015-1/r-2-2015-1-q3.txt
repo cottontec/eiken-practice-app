@@ -1,6 +1,7 @@
 ---
 choices: license | refund | profit | budget
 answerText: refund
+reviewed: yes
 ---
 【正解】2 refund（返金、払い戻し）
 【和訳】

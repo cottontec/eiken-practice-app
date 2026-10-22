@@ -1,6 +1,7 @@
 ---
 choices: Using the same hand improves people's ability to compete against others. | Using the same hand helps people to understand mathematics better. | Using the same hand allows people to share tools with each other easily. | Using the same hand makes it easier for people to become leaders.
 answerText: Using the same hand allows people to share tools with each other easily.
+reviewed: yes
 ---
 【正解】3 Using the same hand allows people to share tools with each other easily.（同じ手を使うと、人々が互いに道具を簡単に共有できる。）
 【和訳】

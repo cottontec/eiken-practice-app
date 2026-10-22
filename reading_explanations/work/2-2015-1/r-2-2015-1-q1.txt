@@ -1,6 +1,7 @@
 ---
 choices: nutritious | vague | temporary | neat
 answerText: neat
+reviewed: yes
 ---
 【正解】4 neat（きちんとした、きれい好きな）
 【和訳】

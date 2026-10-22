@@ -1,6 +1,7 @@
 ---
 choices: extent | term | chance | method
 answerText: extent
+reviewed: yes
 ---
 【正解】1 extent（程度、範囲）
 【和訳】

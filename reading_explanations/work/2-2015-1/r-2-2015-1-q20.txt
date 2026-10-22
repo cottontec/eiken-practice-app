@@ -1,6 +1,7 @@
 ---
 choices: so | for | or | if
 answerText: for
+reviewed: yes
 ---
 【正解】2 for（というのは～だから）
 【和訳】

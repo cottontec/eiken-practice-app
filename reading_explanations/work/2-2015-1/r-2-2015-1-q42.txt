@@ -1,6 +1,7 @@
 ---
 choices: allowed workers to afford new technology such as computers. | caused some shops to close because they could not pay their workers. | caused companies to move factories to places where workers were paid less. | allowed the development of technology that could take the place of workers.
 answerText: caused companies to move factories to places where workers were paid less.
+reviewed: yes
 ---
 【正解】3 caused companies to move factories to places where workers were paid less.（企業に、労働者の賃金が〈アメリカより〉低い場所へ工場を移させた。）
 【和訳】

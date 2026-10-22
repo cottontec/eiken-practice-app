@@ -1,6 +1,7 @@
 ---
 choices: successful | costly | difficult | educational
 answerText: successful
+reviewed: yes
 ---
 【正解】1 successful（成功した、うまくいく）
 【和訳】

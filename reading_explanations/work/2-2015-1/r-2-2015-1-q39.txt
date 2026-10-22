@@ -1,6 +1,7 @@
 ---
 choices: Sports without teamwork have a larger percentage of left-handed participants. | American football requires cooperation between 25 percent of the players. | There was a little less cooperation in boxing than they had first expected to find. | The theory that they had about left-handed people was very unreliable.
 answerText: Sports without teamwork have a larger percentage of left-handed participants.
+reviewed: yes
 ---
 【正解】1 Sports without teamwork have a larger percentage of left-handed participants.（チームワークのない競技のほうが、左利きの参加者の割合が大きい。）
 【和訳】
@@ -19,7 +20,7 @@ answerText: Sports without teamwork have a larger percentage of left-handed part
 例として、about 25 percent of boxers are left-handed（ボクサーの約25パーセントが左利き）である一方、アメリカンフットボールでは左利きの割合が the rest of the population（それ以外の人々）よりずっと低いと述べています。
 本文と選択肢は次のように対応しています。
 本文 participants only compete against one other opponent（1人の相手とだけ戦う）→ 読み取れること：チームで協力しない競技 ＝ 選択肢 Sports without teamwork
-本文 many more left-handed athletes in the first kind of sport than in the second / about 25 percent of boxers ... much lower（アメフト）＝ 選択肢 have a larger percentage of left-handed participants
+本文 many more left-handed athletes in the first kind of sport than in the second（1つ目の種類の競技には2つ目よりずっと多くの左利きの選手がいる）＋ about 25 percent of boxers are left-handed（ボクサーの約25パーセントが左利き）→ 読み取れること：チームワークのない競技のほうが左利きの割合が大きい ＝ 選択肢 have a larger percentage of left-handed participants
 larger は large の比べる形（比較級）で、ここでは「チームワークのある競技と比べて大きい」という意味です。正解は1です。
 【ほかの選択肢】
 2 本文の25パーセントは、ボクサーのうち左利きの人の割合です。アメリカンフットボールで選手の25パーセントの協力が必要だという話ではないので、本文と違います。

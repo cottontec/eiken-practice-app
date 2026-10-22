@@ -1,6 +1,7 @@
 ---
 choices: There are not enough workers who know how to use the machines. | It is too expensive to run training programs for new factory workers. | The weakness of the economy has caused the U.S. to raise taxes. | The equipment used in manufacturing abroad must be brought back.
 answerText: There are not enough workers who know how to use the machines.
+reviewed: yes
 ---
 【正解】1 There are not enough workers who know how to use the machines.（機械の使い方を知っている労働者が十分にいない。）
 【和訳】

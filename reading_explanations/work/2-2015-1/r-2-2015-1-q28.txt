@@ -1,6 +1,7 @@
 ---
 choices: explaining | closing | expanding | selling
 answerText: expanding
+reviewed: yes
 ---
 【正解】3 expanding（拡大している）
 【和訳】

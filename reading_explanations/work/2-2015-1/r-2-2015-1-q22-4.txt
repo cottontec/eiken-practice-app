@@ -2,6 +2,7 @@
 choices: for | drivers | look | should | out
 answerText: out
 order: 2 4 3 5 1
+reviewed: yes
 ---
 【正解】5 out（この問題の4番目）
 【完成文】

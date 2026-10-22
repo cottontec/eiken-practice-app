@@ -1,6 +1,7 @@
 ---
 choices: At most | As always | For this reason | In particular
 answerText: For this reason
+reviewed: yes
 ---
 【正解】3 For this reason（このため）
 【和訳】

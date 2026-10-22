@@ -1,0 +1,29 @@
+---
+choices: A bee learns some important lessons about life. | A cat becomes good friends with a talking tree. | A boy loses his toy and meets some other characters. | A family of bears has trouble finding the way home.
+answerText: A boy loses his toy and meets some other characters.
+---
+【正解】3 A boy loses his toy and meets some other characters.（男の子がおもちゃをなくし、ほかの何人かの登場人物に出会う。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：『Allen's Adventure（アレンの冒険）』という本の中では、何が起こりますか。
+1 ハチが、人生についての大切な教えをいくつか学ぶ。
+2 ネコが、話をする木と仲よしになる。
+3 男の子がおもちゃをなくし、ほかの何人かの登場人物に出会う。
+4 クマの家族が、家に帰る道を見つけるのに苦労する。
+【考え方】
+本の内容は第2段落に書かれています。
+・it is a story about a young boy who loses his teddy bear（それは、テディベアをなくした小さな男の子の物語だ）
+・He goes looking for the bear, and meets a new character during each part of his adventure—a bee, a cat, and a talking tree.（男の子はクマを探しに出かけ、冒険のそれぞれの場面で新しい登場人物――ハチ、ネコ、話をする木――に出会う）
+テディベアはクマのぬいぐるみで、おもちゃの一種です。また、ハチ・ネコ・話をする木は、男の子が出会う登場人物です。本文と選択肢を対にすると、次のようになります。
+本文 a young boy who loses his teddy bear ＝ 選択肢 A boy loses his toy
+本文 meets a new character ... a bee, a cat, and a talking tree ＝ 選択肢 meets some other characters
+teddy bear（テディベア）が toy（おもちゃ）に、ハチ・ネコ・木が some other characters（ほかの何人かの登場人物）に言いかえられています。よって3が正解です。
+【ほかの選択肢】
+1 本文には they each teach him an important lesson about life（彼らはそれぞれ、男の子に人生についての大切な教えを伝える）とあります。教えを学ぶのは男の子で、ハチは教える側です。人物が逆になっています。
+2 本文には The boy becomes friends with them（男の子は彼らと友だちになる）とあります。友だちになるのは男の子とハチ・ネコ・木です。ネコと木が仲よくなるとは書かれていません。
+4 本文に出てくるクマは、男の子がなくしたテディベア（ぬいぐるみ）だけです。クマの家族は出てきません。家に帰るのは、テディベアを見つけた男の子です。
+【覚えるポイント】
+・character：「（物語の）登場人物」。人間だけでなく、動物や話をする木なども character と呼びます。
+・具体的な語（teddy bear）が、まとめた語（toy）に言いかえられることがよくあります。

@@ -1,6 +1,7 @@
 ---
 choices: most children are born with the ability to use both hands equally well. | there are several factors that cause people to be either right- or left-handed. | the percentage of left-handed people has been increasing for 5,000 years. | some children begin using one hand more than the other at about 10 years old.
 answerText: there are several factors that cause people to be either right- or left-handed.
+reviewed: yes
 ---
 【正解】2 there are several factors that cause people to be either right- or left-handed.（人が右利きか左利きのどちらかになる原因となる要因がいくつかある。）
 【和訳】
@@ -17,9 +18,9 @@ answerText: there are several factors that cause people to be either right- or l
 Nobody is sure why most people are one or the other, but experts agree that a mixture of genetic and environmental factors determines which we will be.（なぜほとんどの人がどちらか一方になるのかは、だれにもはっきりとは分かっていないが、遺伝的な要因と環境的な要因が混ざり合って、私たちがどちらになるかが決まるという点では、専門家の意見は一致している）
 factor は「要因（ある結果を生む原因の1つ1つ）」、genetic は「遺伝的な（親から子へ受けつがれる性質に関する）」、environmental は「環境的な（育つまわりの様子に関する）」、determine は「決める」です。which we will be は、前の文の right-handed or left-handed を受けて「右利きと左利きのどちらになるか」という意味です。
 本文と選択肢は次のように対応しています。
-本文 a mixture of genetic and environmental factors（遺伝的な要因と環境的な要因が混ざったもの）＝ 選択肢 several factors（いくつかの要因）
+本文 a mixture of genetic and environmental factors（遺伝的な要因と環境的な要因が混ざったもの）→ 読み取れること：要因は1つではなく、いくつもある ＝ 選択肢 several factors（いくつかの要因）
 本文 determines which we will be（どちらになるかを決める）＝ 選択肢 cause people to be either right- or left-handed（人を右利きか左利きのどちらかにする）
-遺伝と環境という2種類以上の要因が関わっていることを、選択肢では several factors と言いかえています。正解は2です。
+遺伝的な要因と環境的な要因という、種類の違う要因が組み合わさって決まるのですから、要因は1つだけではありません。このことを、選択肢では several factors（いくつかの要因）と表しています。正解は2です。
 【ほかの選択肢】
 1 本文の1文目には there are a few who can use both hands equally well（両手を同じくらいうまく使える人も少しはいる）とあります。「ほとんどの子ども」がその能力を持って生まれるとは書かれておらず、本文とは違います。
 3 本文には only about 10 percent of people are left-handed, and it has been this way for at least 5,000 years（左利きは約10パーセントしかおらず、少なくとも5,000年の間ずっとそうだった）とあります。割合は変わっていないので、「増え続けている」は本文と違います。

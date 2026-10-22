@@ -2,6 +2,7 @@
 choices: see | tennis | play | him | to
 answerText: see
 order: 5 1 4 3 2
+reviewed: yes
 ---
 【正解】1 see（この問題の2番目）
 【完成文】

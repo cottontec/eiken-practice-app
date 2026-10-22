@@ -1,6 +1,7 @@
 ---
 choices: along with | fresh from | prior to | aside from
 answerText: prior to
+reviewed: yes
 ---
 【正解】3 prior to（～より前に）
 【和訳】

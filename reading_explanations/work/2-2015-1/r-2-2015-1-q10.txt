@@ -1,6 +1,7 @@
 ---
 choices: sight | existence | dawn | rhythm
 answerText: dawn
+reviewed: yes
 ---
 【正解】3 dawn（夜明け）
 【和訳】

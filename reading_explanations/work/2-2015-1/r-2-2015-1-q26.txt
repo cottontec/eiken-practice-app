@@ -1,6 +1,7 @@
 ---
 choices: destroyed | purchased | produced | buried
 answerText: produced
+reviewed: yes
 ---
 【正解】3 produced（生み出される）
 【和訳】

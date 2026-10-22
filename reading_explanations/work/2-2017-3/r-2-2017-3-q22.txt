@@ -1,0 +1,28 @@
+---
+choices: created additional problems | achieved two goals | resulted in a higher cost of food | was a growing trend
+answerText: achieved two goals
+---
+【正解】2 achieved two goals（2つの目標を達成した）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 created additional problems（さらなる問題を生んだ）
+2 achieved two goals（2つの目標を達成した）
+3 resulted in a higher cost of food（食べ物の費用がより高くなる結果になった）
+4 was a growing trend（広がりつつある流行だった）
+【考え方】
+空所は第2段落の However, it was not until he opened his first restaurant that he realized that avoiding food waste (22). にあります。it was not until ～ that … は「～して初めて…した」という意味なので、「自分の最初のレストランを開いて初めて、食べ物のむだを避けることが（22）だと気づいた」となります。
+空所のすぐあとの文を見ます。
+First, it helped his business by saving money, and second, it was better for the environment.（第一に、それはお金の節約になることで彼の商売の助けになり、第二に、環境にとってよりよいことだった）
+it は avoiding food waste（食べ物のむだを避けること）を指しています。First（第一に）と second（第二に）で、よいことが2つ挙げられています。
+・お金を節約して商売を助ける
+・環境にとってよりよい
+食べ物のむだを避けることで、この2つの目的が同時にかなったと分かります。achieved two goals（2つの目標を達成した）を入れると、あとの First, second の説明とぴったり合います。2が正解です。
+【ほかの選択肢】
+1 「さらなる問題を生んだ」では、あとの文で、商売の助けになった・環境によかったという「よいこと」が2つ挙げられていることと合いません。
+3 「食べ物の費用がより高くなる結果になった」は、あとの文の by saving money（お金を節約することで）と反対の内容です。
+4 「広がりつつある流行だった」では、あとの文で、それが彼の商売や環境にとってどう役立ったかが説明されていることとつながりません。流行かどうかの話は、空所のあとには書かれていません。
+【覚えるポイント】
+・it was not until ～ that …：「～して初めて…した」。
+・First, …, and second, …（第一に…、第二に…）のように数え上げる文は、その前の「いくつのこと」とつながっていることが多いです。

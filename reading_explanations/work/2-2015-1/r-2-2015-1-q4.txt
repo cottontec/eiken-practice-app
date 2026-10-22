@@ -1,6 +1,7 @@
 ---
 choices: bleeding | pretending | figuring | wasting
 answerText: bleeding
+reviewed: yes
 ---
 【正解】1 bleeding（出血すること）
 【和訳】

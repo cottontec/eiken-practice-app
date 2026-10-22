@@ -1,0 +1,28 @@
+---
+choices: Furthermore | Similarly | On the other hand | To make matters worse
+answerText: On the other hand
+---
+【正解】3 On the other hand（その一方で、他方では）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Furthermore（さらに、その上）
+2 Similarly（同じように）
+3 On the other hand（その一方で、他方では）
+4 To make matters worse（さらに悪いことに）
+【考え方】
+第2段落は Tipping has both good and bad points.（チップには、よい点と悪い点の両方がある）という文で始まっています。この段落では、よい点と悪い点の両方が書かれると予想できます。
+空所の前には、よい点が書かれています。
+・Many restaurant owners like the system（多くのレストランの経営者がこの仕組みを気に入っている）
+・This is attractive to customers（これは客にとって魅力的だ）
+・tipping encourages waiters to give better service（チップがあることで、ウェイターはよりよいサービスをしようという気持ちになる）
+空所のあとには、tipping can sometimes be confusing for visitors to the United States（チップはアメリカを訪れる人にとって、ときにわかりにくいことがある）と、悪い点が書かれています。
+よい点から悪い点へと話が変わるところなので、前と反対の内容を示す On the other hand（その一方で）が入ります。よって3が正解です。
+【ほかの選択肢】
+1 Furthermore（さらに）は、前と同じ向きの内容を付け加えるときに使います。前はよい点、あとは悪い点なので、向きが反対になっていて合いません。
+2 Similarly（同じように）は、前と似た内容を続けるときに使います。よい点と悪い点は似た内容ではないので合いません。
+4 To make matters worse（さらに悪いことに）は、悪いことのあとに、もっと悪いことを付け加えるときに使います。空所の前には悪いことではなく、よい点が書かれているので合いません。
+【覚えるポイント】
+・On the other hand：「その一方で」。前とちがう面や反対の内容を示すときに使います。
+・both good and bad points：「よい点と悪い点の両方」。このように書かれた段落では、どこでよい点から悪い点に変わるかに注目しましょう。

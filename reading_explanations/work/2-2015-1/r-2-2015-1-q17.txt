@@ -1,6 +1,7 @@
 ---
 choices: face | foot | heart | hand
 answerText: face
+reviewed: yes
 ---
 【正解】1 face（make a face で「顔をしかめる」）
 【和訳】

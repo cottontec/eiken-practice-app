@@ -1,6 +1,7 @@
 ---
 choices: bark | spot | count | melt
 answerText: spot
+reviewed: yes
 ---
 【正解】2 spot（見つける）
 【和訳】

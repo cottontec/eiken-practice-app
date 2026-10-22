@@ -1,0 +1,30 @@
+---
+choices: They got along better with younger people than with people of their own age. | They had better memories than others but are not as good at paying attention. | There were no differences between their brains and those of other people their age. | The part of their brains related to memory and thinking was unusually healthy.
+answerText: The part of their brains related to memory and thinking was unusually healthy.
+---
+【正解】4 The part of their brains related to memory and thinking was unusually healthy.（彼らの脳のうち、記憶と思考に関係する部分が、並外れて健康だった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：研究者たちは、スーパーエイジャーについて何を知って驚きましたか。
+1 彼らは、自分と同じ年齢の人々とよりも、より若い人々との方が仲よくやっていけた。
+2 彼らはほかの人々よりも記憶力がよかったが、注意を払うことはほかの人々ほど得意ではない。
+3 彼らの脳と、同じ年齢のほかの人々の脳との間には、違いがなかった。
+4 彼らの脳のうち、記憶と思考に関係する部分が、並外れて健康だった。
+【考え方】
+設問の were surprised（驚いた）と同じ言葉が、第3段落にあります。
+The researchers were surprised to find that the brains of the SuperAgers looked just as healthy as—and in some ways healthier than—those of the younger group.（研究者たちは、スーパーエイジャーの脳が、より若いグループの脳とちょうど同じくらい健康で、さらにいくつかの点ではより若いグループの脳よりも健康に見えることを知って、驚いた）
+続けて、どの部分がそうだったのかが説明されています。
+In particular, the outer layer of the brain, known as the cortex, was thicker than the people in the younger group. This part of the brain is connected to both memory and thinking.（とくに、皮質として知られる脳の外側の層は、より若いグループの人々〔の皮質〕よりも厚かった。脳のこの部分は、記憶と思考の両方に関係している）
+本文と選択肢を対にすると、次のようになります。
+本文 This part of the brain is connected to both memory and thinking ＝ 選択肢 The part of their brains related to memory and thinking（記憶と思考に関係する脳の部分）
+本文 80歳を超える人の皮質が、より若いグループよりも厚く、脳がより若いグループと同じくらい、またはそれ以上に健康に見えた → 選択肢 was unusually healthy（並外れて健康だった）
+80歳を超えているのに、より若い人たち以上の状態だったので、「並外れて健康」と言えます。ですから、4が正解です。
+【ほかの選択肢】
+1 スーパーエイジャーが、より若い人々と仲よくやっていけたという話は、本文にありません。「より若いグループ」は、テストや脳のスキャンで比べる相手として出てくるだけです。
+2 「注意を払うことがほかの人々ほど得意ではない」という部分が、本文と反対です。第3段落に the part of the brain that helps people pay attention was also thicker than is normally the case with older people（人が注意を払うのを助ける脳の部分も、高齢者でふつうに見られるよりも厚かった）と書かれています。
+3 「同じ年齢のほかの人々の脳と違いがなかった」は、本文と反対です。スーパーエイジャーの脳は、より若いグループと比べても同じくらいかそれ以上に健康で、注意にかかわる部分は高齢者のふつうの状態よりも厚かったと書かれています。
+【覚えるポイント】
+・just as ～ as …：「…とちょうど同じくらい～」。healthier than ～ は「～よりも健康な」。
+・be connected to ～：「～に関係している」。選択肢では related to ～（～に関係する）と言いかえられています。

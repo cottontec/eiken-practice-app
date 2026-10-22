@@ -1,6 +1,7 @@
 ---
 choices: able to be checked out with permission from the staff. | too delicate to be handled by visitors to the library. | being moved to the basement by the staff at the library. | going to be taken to another building to be preserved.
 answerText: being moved to the basement by the staff at the library.
+reviewed: yes
 ---
 【正解】3 being moved to the basement by the staff at the library.（図書館の職員によって地下へ移されているところだ。）
 【和訳】

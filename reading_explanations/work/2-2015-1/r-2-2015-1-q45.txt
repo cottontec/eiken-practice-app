@@ -1,6 +1,7 @@
 ---
 choices: Experts expect that factory jobs in Asia will continue to decline dramatically. | Not only clothing but other types of industries might return to the U.S. in the future. | No human workers will be needed at all in the future to make goods in factories. | Wages in developing countries might soon become higher than those in the U.S.
 answerText: Not only clothing but other types of industries might return to the U.S. in the future.
+reviewed: yes
 ---
 【正解】2 Not only clothing but other types of industries might return to the U.S. in the future.（衣料品だけでなく、ほかの種類の産業も、将来アメリカに戻ってくるかもしれない。）
 【和訳】

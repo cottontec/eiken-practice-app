@@ -1,0 +1,25 @@
+---
+choices: avoid using fertilizers | buy his vegetables | do the same thing | move to London
+answerText: do the same thing
+---
+【正解】3 do the same thing（同じことをする）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 avoid using fertilizers（肥料を使うのを避ける）
+2 buy his vegetables（彼の野菜を買う）
+3 do the same thing（同じことをする）
+4 move to London（ロンドンに移る）
+【考え方】
+空所は第3段落の The restaurant was a success, and other restaurants have begun to (23).（そのレストランは成功し、ほかのレストランが（23）し始めている）にあります。The restaurant は、ポッツ・ドーソンが開いた環境に優しいレストラン、エイコーン・ハウスです。
+空所のあとの文を見ます。
+Indeed, as more consumers are attracted to green businesses, it is likely that the number of "eco-restaurants" will continue to increase in the future.（実際、環境に優しい事業にひきつけられる消費者が増えるにつれて、「エコ・レストラン」の数は今後も増え続ける可能性が高い）
+continue to increase（増え続ける）とあるので、エコ・レストランはすでに増え始めていると読み取れます。つまり、エイコーン・ハウスが成功したあと、ほかのレストランもエイコーン・ハウスのように環境に優しいやり方を取り入れ始めた、という流れです。do the same thing（同じことをする）を入れると、この流れに合います。3が正解です。
+【ほかの選択肢】
+1 「肥料を使うのを避ける」は、エイコーン・ハウスのやり方と合いません。エイコーン・ハウスは、残った食べ物から肥料を作り、それを屋上菜園で使っていました。
+2 「彼の野菜を買う」は本文に書かれていません。屋上菜園の野菜は、エイコーン・ハウスで出される料理に使われたとあり、ほかのレストランに売ったという話はありません。
+4 「ロンドンに移る」も本文に書かれていません。ロンドンはエイコーン・ハウスがある場所ですが、ほかのレストランがロンドンに移ったという話はなく、あとの「エコ・レストランが増え続ける」という文ともつながりません。
+【覚えるポイント】
+・do the same thing：「同じことをする」。前に書かれたやり方をまねることを表します。
+・continue to ～：「～し続ける」。continue to increase は「（すでに増えていて）これからも増え続ける」という意味です。

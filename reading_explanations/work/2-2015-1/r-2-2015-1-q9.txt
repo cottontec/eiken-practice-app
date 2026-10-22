@@ -1,6 +1,7 @@
 ---
 choices: considerably | previously | hesitantly | literally
 answerText: hesitantly
+reviewed: yes
 ---
 【正解】3 hesitantly（ためらいながら）
 【和訳】

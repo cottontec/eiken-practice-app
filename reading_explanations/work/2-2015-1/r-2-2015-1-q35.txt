@@ -1,6 +1,7 @@
 ---
 choices: Sign in at the information desk before entering the library. | Ask the library staff to help them locate important information. | Visit one of the university's other libraries to borrow books. | Go to the second floor of the library to check out books.
 answerText: Go to the second floor of the library to check out books.
+reviewed: yes
 ---
 【正解】4 Go to the second floor of the library to check out books.（本を借りるために図書館の2階へ行く。）
 【和訳】

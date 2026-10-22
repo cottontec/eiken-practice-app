@@ -1,6 +1,7 @@
 ---
 choices: Build a new library with more space. | Create a study space in the multimedia center. | Make the university's library larger. | Add another floor to the multimedia center.
 answerText: Make the university's library larger.
+reviewed: yes
 ---
 【正解】3 Make the university's library larger.（大学の図書館をより大きくする。）
 【和訳】

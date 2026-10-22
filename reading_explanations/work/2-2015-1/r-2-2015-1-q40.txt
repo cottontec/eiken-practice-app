@@ -1,6 +1,7 @@
 ---
 choices: It is becoming more and more important to have left-handed people in society. | People who are born left-handed can train themselves to become right-handed. | There is little evidence that people became left-handed as a result of evolution. | Having some left-handed people in the population has helped humans to survive.
 answerText: Having some left-handed people in the population has helped humans to survive.
+reviewed: yes
 ---
 【正解】4 Having some left-handed people in the population has helped humans to survive.（人口の中に左利きの人が何人かいることは、人類が生き残るのに役立ってきた。）
 【和訳】

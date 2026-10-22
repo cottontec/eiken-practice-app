@@ -1,6 +1,7 @@
 ---
 choices: in the meantime | on the edge | on the whole | in the long run
 answerText: in the meantime
+reviewed: yes
 ---
 【正解】1 in the meantime（その間に）
 【和訳】
