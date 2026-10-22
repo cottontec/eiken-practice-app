@@ -1,0 +1,31 @@
+---
+choices: she had to take care of her younger brothers and sisters. | she was asked to go and work at her parents' school. | the scores that she got at school were not good enough. | the university did not allow women to become students.
+answerText: the university did not allow women to become students.
+---
+【正解】4 the university did not allow women to become students.（その大学が、女性が学生になることを認めていなかった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Marie Curie was not able to go to university in Warsaw because（マリー・キュリーがワルシャワの大学に行けなかったのは、～からです。）
+1 she had to take care of her younger brothers and sisters.（彼女が弟や妹の世話をしなければならなかった）
+2 she was asked to go and work at her parents' school.（彼女が両親の学校に行って働くよう頼まれた）
+3 the scores that she got at school were not good enough.（彼女が学校で取った成績が十分ではなかった）
+4 the university did not allow women to become students.（その大学が、女性が学生になることを認めていなかった）
+【考え方】
+まず見るところ：第2段落の At the time, it only accepted male students.
+She did well at school, but she was unable to attend the University of Warsaw.（学校の成績はよかったが、ワルシャワ大学に通うことはできなかった）
+設問の was not able to go to university in Warsaw は、本文の was unable to attend the University of Warsaw の言いかえです。
+At the time, it only accepted male students.（当時、その大学は男子学生しか受け入れていなかった）
+it は the University of Warsaw（ワルシャワ大学）を指しています。only は「～だけ」という意味です。
+本文と選択肢を対にすると、次のようになります。
+本文 it only accepted male students（男子学生しか受け入れていなかった）＝ 選択肢 the university did not allow women to become students（その大学は、女性が学生になることを認めていなかった）
+「男子だけを受け入れた」ということは、「女性は学生になれなかった」ということです。ですから4が正解です。
+この問題の型：言いかえ（only accepted male students ＝ did not allow women）
+【ほかの選択肢】
+1 本文には She was the youngest of five children（5人の子どものうちいちばん年下だった）とあります。いちばん年下なので弟や妹はおらず、本文と合いません。
+2 本文には her parents were both teachers（両親はどちらも教師だった）とありますが、両親の学校で働くよう頼まれたという話はありません。
+3 本文には She did well at school（学校の成績はよかった）とあり、成績が十分ではなかったという選択肢とは反対です。
+【覚えるポイント】
+・only accepted male students：「男子学生しか受け入れなかった」。only（～だけ）があるときは、「それ以外は認めない」という意味に言いかえられることがあります。
+・because で終わる設問は、本文の理由を表す部分（ここでは At the time, ～）をさがすと答えが見つかります。

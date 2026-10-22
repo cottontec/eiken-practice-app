@@ -1,0 +1,34 @@
+---
+choices: Marie Curie had a lot of difficulty remembering facts when she was a child. | Marie Curie and her sister agreed to help each other to study at university. | Marie Curie was taught science by a female professor at a university in Paris. | Marie Curie wanted to study science after finding out how X-ray machines worked.
+answerText: Marie Curie and her sister agreed to help each other to study at university.
+---
+【正解】2 Marie Curie and her sister agreed to help each other to study at university.（マリー・キュリーと姉は、大学で勉強するためにお互いに助け合うことに同意した。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Which of the following statements is true?（次の記述のうち、正しいものはどれですか。）
+1 Marie Curie had a lot of difficulty remembering facts when she was a child.（マリー・キュリーは、子どものころ、事実を覚えるのにとても苦労した。）
+2 Marie Curie and her sister agreed to help each other to study at university.（マリー・キュリーと姉は、大学で勉強するためにお互いに助け合うことに同意した。）
+3 Marie Curie was taught science by a female professor at a university in Paris.（マリー・キュリーは、パリの大学で女性の教授から科学を教わった。）
+4 Marie Curie wanted to study science after finding out how X-ray machines worked.（マリー・キュリーは、X線装置のしくみを知ったあとで、科学を勉強したいと思った。）
+【考え方】
+まず見るところ：第3段落の初めの Marie Curie and her sister worked together so that they could both get university degrees.
+Marie Curie and her sister worked together so that they could both get university degrees.（マリー・キュリーと姉は、2人とも大学の学位を取れるように協力した）
+so that ～ は「～するように」という意味です。2人とも大学で学ぶための協力だと分かります。
+Marie Curie agreed to give some of the money she earned so that her sister could study medicine.（マリー・キュリーは、姉が医学を学べるように、自分がかせいだお金の一部を渡すことに同意した）
+まず、マリー・キュリーが姉を助けることに同意しています。
+Her sister promised that, after she graduated, she would support Marie Curie's studies.（姉は、自分が卒業したあとは、マリー・キュリーの勉強を支えると約束した）
+次に、姉がマリー・キュリーを助けると約束しています。
+本文と選択肢を対にすると、次のようになります。
+本文 worked together ～ / agreed to give some of the money ～ / promised ～ she would support Marie Curie's studies（協力した／お金を渡すことに同意した／勉強を支えると約束した）→ 選択肢 agreed to help each other to study at university（大学で勉強するためにお互いに助け合うことに同意した）
+本文の3つの文をまとめると、2人が順番にお互いを助ける取り決めをしたことになります。ですから2が正解です。
+なお、第2段落に She was the youngest of five children（5人の子どものうちいちばん年下だった）とあるので、この sister は姉だと分かります。
+この問題の型：具体例とまとめ（3つの文→help each other）
+【ほかの選択肢】
+1 本文には She was a bright child who was good at remembering facts.（頭のよい子どもで、事実を覚えるのが得意だった）とあります。「覚えるのにとても苦労した」は本文と反対です。
+3 パリの大学で女性の教授に教わったという話は、本文にありません。本文で教授になったのは、ピエールが亡くなったあとのマリー・キュリー自身です。
+4 本文には Her research has led to the development of technologies such as X-ray machines（彼女の研究は、X線装置のような技術の開発につながっている）とあります。X線装置は彼女の研究から生まれたもので、それを知って科学を勉強したくなったという話ではありません。順序が逆です。
+【覚えるポイント】
+・help each other：「お互いに助け合う」。本文で「AがBを助ける」「BがAを助ける」が別々の文に書かれているとき、選択肢では each other（お互い）でまとめられることがあります。
+・内容一致の問題では、選択肢が本文と「反対」「順序が逆」になっていないかを一つずつ確かめましょう。

@@ -1,0 +1,31 @@
+---
+choices: They could get part-time jobs in the bookmaking industry. | They could sell their work at higher prices in the city. | The city's location provided inspiration for their work. | The city allowed people to live more freely than other places.
+answerText: The city allowed people to live more freely than other places.
+---
+【正解】4 The city allowed people to live more freely than other places.（その都市は、ほかの場所よりも人々が自由に暮らすことを認めていた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one reason that writers, artists, and craftspeople were attracted to Venice?（作家や芸術家、職人がベネチアに引きつけられた理由の1つは何ですか。）
+1 They could get part-time jobs in the bookmaking industry.（製本業でアルバイトの仕事を得ることができた。）
+2 They could sell their work at higher prices in the city.（その都市では、自分の作品を〔ほかの場所より〕高い値段で売ることができた。）
+3 The city's location provided inspiration for their work.（その都市の位置が、彼らの作品にひらめきを与えた。）
+4 The city allowed people to live more freely than other places.（その都市は、ほかの場所よりも人々が自由に暮らすことを認めていた。）
+【考え方】
+まず見るところ：第1段落の This freedom attracted writers, artists, and craftspeople to the city.
+This freedom attracted writers, artists, and craftspeople to the city.（この自由が、作家や芸術家、職人をこの都市に引きつけた）
+設問の were attracted to Venice（ベネチアに引きつけられた）は、この文を受け身（「～される」の形）で言いかえたものです。引きつけたのは This freedom（この自由）なので、「この」が指す内容を前の文で確かめます。
+there were fewer laws controlling people's behavior than in other parts of Europe（ヨーロッパのほかの地域よりも、人々の行動を取りしまる法律が少なかった）
+法律による取りしまりがほかより少なかったことを、本文は This freedom（この自由）とまとめています。
+本文と選択肢を対にすると、次のようになります。
+本文 fewer laws controlling people's behavior than in other parts of Europe（ヨーロッパのほかの地域より、人々の行動を取りしまる法律が少なかった）／ This freedom（この自由）→ 選択肢 The city allowed people to live more freely than other places（その都市は、ほかの場所よりも人々が自由に暮らすことを認めていた）
+比べる相手も、本文の other parts of Europe（ヨーロッパのほかの地域）と選択肢の other places（ほかの場所）で対応しています。ですから4が正解です。
+この問題の型：指示語（This freedom の This）
+【ほかの選択肢】
+1 製本業が発展したのは、作家や芸術家、職人がベネチアに集まり、印刷機が発明されたあとのことです。アルバイトの仕事が得られたから集まった、という話は本文にありません。
+2 作品を高い値段で売れたという話は本文にありません。
+3 本文には Not only was the city's location important（その都市の位置が重要だっただけでなく）とあり、位置が重要だったことは書かれています。しかし、それは国際貿易で有名だった理由の話で、位置が作品にひらめきを与えたとは書かれていません。一部だけ本文の語句を使っていますが、内容は合いません。
+【覚えるポイント】
+・Not only A but also B：「AだけでなくBも」。この文では、Bの「法律が少なかった」がすぐあとの This freedom につながっています。
+・This ～ で始まる文が理由を述べているときは、This が指す直前の文の中身まで読むと、選択肢の言いかえに気づきやすくなります。

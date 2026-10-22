@@ -1,0 +1,31 @@
+---
+choices: dispose | disable | dismantle | dispute
+answerText: dispose
+---
+【正解】1 dispose（処分する ※dispose of ～ の形で「～を処分する」）
+【和訳】
+（英文）
+With strict anti-pollution laws being introduced, many factories will have to find new ways to ［dispose］ of the dangerous waste materials they produce.
+（訳）
+厳しい公害防止の法律が導入されつつある中で、多くの工場は、自分たちが出す危険な廃棄物を（処分する）新しい方法を見つけなければならなくなるでしょう。
+（選択肢の意味）
+1 dispose：処分する（dispose of ～ で「～を処分する」）
+2 disable：（機械などを）動かなくする、働けなくする
+3 dismantle：（機械や建物を）分解する、解体する
+4 dispute：異議を唱える、言い争う
+【考え方】
+まず見るところ：空所のすぐ後ろの of the dangerous waste materials
+文の前半は、工場が置かれている状況を説明しています。
+With strict anti-pollution laws being introduced（厳しい公害防止の法律が導入されつつある中で）
+anti-pollution は「公害（工場の煙や排水などで環境がよごれること）を防ぐ」という意味です。法律が厳しくなるので、工場は危険なごみの扱い方を考え直す必要がある、という流れです。
+空所の後ろは次のようになっています。
+find new ways to (　) of the dangerous waste materials they produce（自分たちが出す危険な廃棄物を（　）新しい方法を見つける）
+waste materials は「廃棄物（いらなくなって捨てるもの）」です。空所の直後に of があることが決め手になります。dispose of ～ で「～を処分する、片づける」という決まった形になり、「危険な廃棄物を処分する新しい方法」と意味も通ります。ですから1が正解です。
+この問題の型：熟語・決まった形（dispose of ～）
+【ほかの選択肢】
+2 disable は「（機械などを）動かなくする」という意味で、disable ～ のように直接あとに目的語（動作を受けるもの）を置きます。disable of という形にはならず、「廃棄物を動かなくする」では意味も通りません。
+3 dismantle は「分解する、解体する」という意味で、これも dismantle ～ の形で使い、of はつきません。また、廃棄物を「分解する」方法では、法律に合わせて危険なごみを片づけるという話とずれます。
+4 dispute は「異議を唱える（反対の意見を言う）」という意味です。「廃棄物に異議を唱える新しい方法」では意味が通りません。
+【覚えるポイント】
+・dispose of ～：「～を処分する、片づける」。
+・空所のすぐ後ろに of などの前置詞があるときは、その前置詞といっしょに使う動詞かどうかが、答えを決める手がかりになることが多いです。

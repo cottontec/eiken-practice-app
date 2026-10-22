@@ -1,0 +1,30 @@
+---
+choices: It took five years for her to become good at speaking French. | The food she ate was not good enough for her to stay healthy. | She needed a lot of money to pay for her sister's medicine. | Her university would not let her study for a degree in physics.
+answerText: The food she ate was not good enough for her to stay healthy.
+---
+【正解】2 The food she ate was not good enough for her to stay healthy.（彼女が食べていた食べ物は、健康を保つのに十分なものではなかった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What was one difficulty faced by Marie Curie when she studied in Paris?（マリー・キュリーがパリで勉強していたときに直面した困難の1つは何でしたか。）
+1 It took five years for her to become good at speaking French.（フランス語を話すのが上手になるのに5年かかった。）
+2 The food she ate was not good enough for her to stay healthy.（彼女が食べていた食べ物は、健康を保つのに十分なものではなかった。）
+3 She needed a lot of money to pay for her sister's medicine.（姉の薬代を払うのに、多くのお金が必要だった。）
+4 Her university would not let her study for a degree in physics.（彼女の大学は、彼女が物理学の学位を取るための勉強をさせてくれなかった。）
+【考え方】
+まず見るところ：第3段落の she suffered health problems because she could not afford good-quality food
+Life was hard for her because she had little money, and she suffered health problems because she could not afford good-quality food.（お金がほとんどなかったので生活は苦しく、質のよい食べ物を買う余裕がなかったので、健康上の問題に苦しんだ）
+これはパリの大学で勉強を始めたあとの様子です。afford は「（お金の）余裕がある」という意味です。
+本文と選択肢を対にすると、次のようになります。
+本文 she could not afford good-quality food（質のよい食べ物を買う余裕がなかった）→ 選択肢 The food she ate was not good enough（食べていた食べ物は十分なものではなかった）
+本文 she suffered health problems（健康上の問題に苦しんだ）→ 選択肢 for her to stay healthy（健康を保つのに）
+質のよい食べ物が買えず、そのために健康をこわしたのですから、「食べていたものは健康を保つのに十分ではなかった」と読み取れます。ですから2が正解です。
+この問題の型：因果（because のあとが原因）／言いかえ
+【ほかの選択肢】
+1 本文の five years（5年）は、After five years of working for a rich family（ある裕福な家庭のもとで5年間働いたあと）という、パリへ行く前の話です。フランス語の話は本文にありません。
+3 本文の medicine は、her sister could study medicine（姉が医学を学べるように）の「医学」の意味です。姉の薬代の話ではありません。また、お金を渡したのはパリで勉強する前の話です。
+4 本文には she got a degree in physics in 1893（1893年に物理学の学位を取った）とあります。物理学の勉強をさせてもらえなかったという選択肢とは反対です。
+【覚えるポイント】
+・afford ～：「～を買う（お金の）余裕がある」。could not afford ～ は「～を買う余裕がなかった」。
+・medicine には「医学」と「薬」の2つの意味があります。本文でどちらの意味で使われているかを、study（学ぶ）などのまわりの語から確かめましょう。
