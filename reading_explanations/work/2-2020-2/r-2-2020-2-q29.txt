@@ -1,6 +1,7 @@
 ---
 choices: leave certain kinds of food at home. | tell the restaurants if they have allergies. | eat peanuts and other nuts for their health. | stay out of certain areas of the campus.
 answerText: leave certain kinds of food at home.
+reviewed: yes
 ---
 【正解】1 leave certain kinds of food at home.（ある種類の食べ物を家に置いてくる）
 【和訳】

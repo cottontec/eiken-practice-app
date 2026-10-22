@@ -1,6 +1,7 @@
 ---
 choices: taught children about the importance of nature through drawing classes. | wrote books about children living in the countryside in the Lake District. | traveled all over the world encouraging children to read more books. | was an author who is also famous for her efforts to protect nature.
 answerText: was an author who is also famous for her efforts to protect nature.
+reviewed: yes
 ---
 【正解】4 was an author who is also famous for her efforts to protect nature.（自然を守る取り組みでも有名な作家だった）
 【和訳】

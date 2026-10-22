@@ -1,6 +1,7 @@
 ---
 choices: affection | insurance | violence | mineral
 answerText: insurance
+reviewed: yes
 ---
 【正解】2 insurance（保険）
 【和訳】

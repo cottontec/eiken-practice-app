@@ -1,6 +1,7 @@
 ---
 choices: has become the most popular type of chocolate in the world. | has more sugar but less fat than most types of chocolate. | tastes good but is healthier to eat than traditional chocolate. | helps people who dislike the flavor of traditional chocolate.
 answerText: tastes good but is healthier to eat than traditional chocolate.
+reviewed: yes
 ---
 【正解】3 tastes good but is healthier to eat than traditional chocolate.（味はよいが、昔ながらのチョコレートよりも食べるのに健康的である。）
 【和訳】

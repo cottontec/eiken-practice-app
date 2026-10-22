@@ -1,6 +1,7 @@
 ---
 choices: cry | crying | to cry | have cried
 answerText: crying
+reviewed: yes
 ---
 【正解】2 crying（泣くこと）
 【和訳】

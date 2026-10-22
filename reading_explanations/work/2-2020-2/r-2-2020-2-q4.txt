@@ -1,6 +1,7 @@
 ---
 choices: translating | measuring | arresting | greeting
 answerText: translating
+reviewed: yes
 ---
 【正解】1 translating（翻訳している）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: achieved | attended | assumed | attached
 answerText: attached
+reviewed: yes
 ---
 【正解】4 attached（添付した、取り付けた）
 【和訳】

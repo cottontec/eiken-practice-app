@@ -1,6 +1,7 @@
 ---
 choices: together with | over with | back from | away from
 answerText: over with
+reviewed: yes
 ---
 【正解】2 over with（get it over with：〔いやなことを〕済ませてしまう）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: Potter paid for it herself because publishers did not believe that they could make money from it. | The first publisher of her book thought that it would be more popular than a color version of the book. | Most publishers were not able to create color versions of books during that time period. | Potter's friends told her that her pictures looked better in black and white.
 answerText: Potter paid for it herself because publishers did not believe that they could make money from it.
+reviewed: yes
 ---
 【正解】1 Potter paid for it herself because publishers did not believe that they could make money from it.（出版社がその本でお金をかせげると思わなかったので、ポターが自分で費用を払ったから。）
 【和訳】
@@ -20,7 +21,7 @@ answerText: Potter paid for it herself because publishers did not believe that t
 本文が直接述べている理由は Because of costs（費用のため）です。そしてその費用は、出版社ではなくポター自身が払っていました。自分で印刷代を払ったために費用をおさえる必要があり、白黒になったと考えられます。
 本文と選択肢を対にすると、次のようになります。
 本文 she paid one publisher to print copies ＝ 選択肢 Potter paid for it herself
-本文 Unlike the publishers, Potter felt certain that the book would be a success（出版社とは違って、ポターは成功すると確信していた）→ 読み取れること：出版社はその本が成功する（お金になる）とは思っていなかった（選択肢の publishers did not believe that they could make money from it）
+本文 none of them were interested in publishing it（どの出版社も出版に興味を示さなかった）、Unlike the publishers, Potter felt certain that the book would be a success（出版社とは違って、ポターは成功すると確信していた）→ 読み取れること：出版社はその本が成功する（お金になる）とは思っていなかった（選択肢の publishers did not believe that they could make money from it）
 ですから1が正解です。
 【ほかの選択肢】
 2 本文では、最初の本がすぐに売り切れたあとで the publisher decided to publish a color version（出版社はカラー版を出版することに決めた）とあります。出版社が白黒のほうが人気が出ると考えたとは書かれていません。

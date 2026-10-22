@@ -1,6 +1,7 @@
 ---
 choices: a special program where women could learn how to develop new computers. | a device that could quickly do calculations that took humans a long time to complete. | an event held by the U.S. Army to increase the security of their computers. | a type of device that was used by computers to increase the speed of their calculations.
 answerText: a device that could quickly do calculations that took humans a long time to complete.
+reviewed: yes
 ---
 【正解】2 a device that could quickly do calculations that took humans a long time to complete.（人間が終えるのに長い時間がかかる計算を、すばやく行うことができる装置。）
 【和訳】

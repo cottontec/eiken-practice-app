@@ -1,6 +1,7 @@
 ---
 choices: whoever | whatever | whenever | wherever
 answerText: whoever
+reviewed: yes
 ---
 【正解】1 whoever（～する人はだれでも）
 【和訳】

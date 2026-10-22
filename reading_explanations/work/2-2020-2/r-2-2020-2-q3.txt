@@ -1,6 +1,7 @@
 ---
 choices: tube | loan | unit | pile
 answerText: loan
+reviewed: yes
 ---
 【正解】2 loan（ローン、貸付金）
 【和訳】

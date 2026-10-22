@@ -1,6 +1,7 @@
 ---
 choices: participate | spread | delay | whisper
 answerText: participate
+reviewed: yes
 ---
 【正解】1 participate（参加する）
 【和訳】

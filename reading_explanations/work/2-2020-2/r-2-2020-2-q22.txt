@@ -1,6 +1,7 @@
 ---
 choices: understand the nutrition | increase the number of crops | do not get the variety of food | cannot cook the fish
 answerText: do not get the variety of food
+reviewed: yes
 ---
 【正解】3 do not get the variety of food（さまざまな種類の食べ物を手に入れていない）
 【和訳】

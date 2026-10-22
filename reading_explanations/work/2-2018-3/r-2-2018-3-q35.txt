@@ -1,6 +1,7 @@
 ---
 choices: Women began doing jobs which had mostly been done by men before the men went to war. | Men who had studied math in college often found it difficult to find a place to work. | The U.S. Army calculated the time it took to build rockets and bombs. | The U.S. Army hired a group of women to fight along with men overseas.
 answerText: Women began doing jobs which had mostly been done by men before the men went to war.
+reviewed: yes
 ---
 【正解】1 Women began doing jobs which had mostly been done by men before the men went to war.（男性が戦争に行く前は主に男性がしていた仕事を、女性がし始めた。）
 【和訳】

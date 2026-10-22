@@ -1,6 +1,7 @@
 ---
 choices: decline | postpone | correct | elect
 answerText: correct
+reviewed: yes
 ---
 【正解】3 correct（直す、訂正する）
 【和訳】

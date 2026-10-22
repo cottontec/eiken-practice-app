@@ -1,6 +1,7 @@
 ---
 choices: the Vikings did not originally come from Scandinavia. | the Vikings did not play an important role in world history. | people living in Scandinavia now are not related to the Vikings. | most people's view of the Vikings is not completely accurate.
 answerText: most people's view of the Vikings is not completely accurate.
+reviewed: yes
 ---
 【正解】4 most people's view of the Vikings is not completely accurate.（バイキングについてのほとんどの人の見方は、完全に正しいわけではない）
 【和訳】

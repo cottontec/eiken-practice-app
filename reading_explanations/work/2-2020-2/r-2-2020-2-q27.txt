@@ -1,6 +1,7 @@
 ---
 choices: Some students have not been following campus rules. | He wants to tell students about important changes. | The university is not offering some services this year. | One of the university's dining areas will be moving.
 answerText: He wants to tell students about important changes.
+reviewed: yes
 ---
 【正解】2 He wants to tell students about important changes.（彼は、大切な変更について学生に伝えたいと思っている。）
 【和訳】

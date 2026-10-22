@@ -1,6 +1,7 @@
 ---
 choices: considerate of | confident of | known to | engaged to
 answerText: considerate of
+reviewed: yes
 ---
 【正解】1 considerate of（～に思いやりがある）
 【和訳】

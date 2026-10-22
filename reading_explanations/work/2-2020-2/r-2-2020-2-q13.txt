@@ -1,6 +1,7 @@
 ---
 choices: lifted across | poured over | handed down | used up
 answerText: handed down
+reviewed: yes
 ---
 【正解】3 handed down（〔次の世代へ〕伝えられる、受け継がれる）
 【和訳】

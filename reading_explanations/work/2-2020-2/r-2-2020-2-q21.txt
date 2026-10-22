@@ -1,6 +1,7 @@
 ---
 choices: receive support from the government | rely on modern grocery stores | make donations to their families | recognize the difficulty of farming
 answerText: rely on modern grocery stores
+reviewed: yes
 ---
 【正解】2 rely on modern grocery stores（現代の食料品店に頼る）
 【和訳】

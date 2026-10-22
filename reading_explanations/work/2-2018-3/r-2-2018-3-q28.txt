@@ -1,6 +1,7 @@
 ---
 choices: Exchange it for other goods on the store's website. | Write about it in his review of the book. | Tell Maze and get a coupon code. | Send an e-mail to the customer service center.
 answerText: Send an e-mail to the customer service center.
+reviewed: yes
 ---
 【正解】4 Send an e-mail to the customer service center.（カスタマーサービスセンターにEメールを送る。）
 【和訳】

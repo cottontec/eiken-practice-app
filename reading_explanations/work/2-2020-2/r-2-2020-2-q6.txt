@@ -1,6 +1,7 @@
 ---
 choices: wound | trap | index | soil
 answerText: soil
+reviewed: yes
 ---
 【正解】4 soil（土、土壌）
 【和訳】

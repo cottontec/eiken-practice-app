@@ -1,6 +1,7 @@
 ---
 choices: For one thing | In contrast | Similarly | Meanwhile
 answerText: For one thing
+reviewed: yes
 ---
 【正解】1 For one thing（1つには）
 【和訳】

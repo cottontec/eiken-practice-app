@@ -1,6 +1,7 @@
 ---
 choices: more | than | as | too
 answerText: as
+reviewed: yes
 ---
 【正解】3 as（twice as ～ as ... で「…の2倍～」）
 【和訳】

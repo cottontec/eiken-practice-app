@@ -1,6 +1,7 @@
 ---
 choices: too warm for people to see | too dry for clouds to form | too dark for scientists to study | too windy for normal clouds
 answerText: too dry for clouds to form
+reviewed: yes
 ---
 【正解】2 too dry for clouds to form（乾燥しすぎていて雲ができない）
 【和訳】

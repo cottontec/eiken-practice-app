@@ -1,6 +1,7 @@
 ---
 choices: enthusiasm | coincidence | origin | warning
 answerText: enthusiasm
+reviewed: yes
 ---
 【正解】1 enthusiasm（熱意、熱心さ）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: Children enjoyed the stories about the character so much that it was made into a film. | Children could buy the toys and other objects that were used by the character. | It was made into a doll at the same time its stories were first published. | It was the first character from a book to have many products based on it.
 answerText: It was the first character from a book to have many products based on it.
+reviewed: yes
 ---
 【正解】4 It was the first character from a book to have many products based on it.（それは、その登場人物をもとにした商品がたくさん作られた、本の登場人物として最初のものだった。）
 【和訳】

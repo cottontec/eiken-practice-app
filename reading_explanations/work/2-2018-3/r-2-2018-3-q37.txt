@@ -1,6 +1,7 @@
 ---
 choices: She created a group to support women who want to become computer programmers. | She made a documentary about a group of women who helped develop modern computer programming. | She became the first woman to get a degree in computer programming at Harvard University. | She developed a new way to use computer programming to create movies.
 answerText: She made a documentary about a group of women who helped develop modern computer programming.
+reviewed: yes
 ---
 【正解】2 She made a documentary about a group of women who helped develop modern computer programming.（彼女は、現代のコンピューターのプログラミングの発展に役立った女性のグループについてのドキュメンタリーを作った。）
 【和訳】
@@ -19,7 +20,7 @@ documentary は「ドキュメンタリー（実際の出来事を記録した�
 その女性たちについては、第4段落の始めに the women created one of the first computer programs（女性たちは最初のコンピュータープログラムの1つを作った）、また Finally, the women were recognized for the big role they had played in the development of modern computing.（ようやく、女性たちは、現代のコンピューター技術の発展で果たした大きな役割を認められた）とあります。
 本文と選択肢を対にすると、次のようになります。
 本文 made a documentary about them ＝ 選択肢 made a documentary about a group of women
-本文 the big role they had played in the development of modern computing ＝ 選択肢 who helped develop modern computer programming
+本文 the big role they had played in the development of modern computing（現代のコンピューター技術の発展で果たした大きな役割）→ 選択肢 who helped develop modern computer programming
 ですから、2が正解です。
 【ほかの選択肢】
 1 クライマンが女性を支援するグループを作ったとは書かれていません。本文にあるのは、彼女が「これらの女性を記憶にとどめることは、より多くの女性がコンピューター科学の仕事につく励みになる」と考えていることだけです。

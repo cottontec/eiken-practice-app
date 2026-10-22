@@ -1,6 +1,7 @@
 ---
 choices: Fortunately | In this way | On the other hand | As a result
 answerText: On the other hand
+reviewed: yes
 ---
 【正解】3 On the other hand（一方で）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: It will become cheaper next month. | Customers receive five books each month. | Maze chooses the book of the month randomly. | Mr. Smith can get 10 percent off for the whole year.
 answerText: It will become cheaper next month.
+reviewed: yes
 ---
 【正解】1 It will become cheaper next month.（それは来月、（今より）安くなる。）
 【和訳】

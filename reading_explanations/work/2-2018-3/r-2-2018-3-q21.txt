@@ -1,6 +1,7 @@
 ---
 choices: become more stylish | gain more clients | increase their profits | attract new employees
 answerText: attract new employees
+reviewed: yes
 ---
 【正解】4 attract new employees（新しい社員を引きつける）
 【和訳】
@@ -13,7 +14,7 @@ answerText: attract new employees
 4 attract new employees（新しい社員を引きつける）
 【考え方】
 空所は第1段落の Their goals are to both impress customers and (21). です。Their goals は「成功している会社が、広告やよいイメージ作りにお金を使う目的」のことです。both A and B は「AとBの両方」なので、目的は「客によい印象を与えること」と「（21）」の2つです。
-空所のすぐあとの文を見ます。In fact, people who are looking for a job are much more likely to apply to a famous and successful company.（実際、仕事を探している人は、有名で成功している会社にずっと応募しやすい）とあります。In fact（実際）は、前に述べたことを、事実で裏づけるときに使う言い方です。
+空所のすぐあとの文を見ます。In fact, people who are looking for a job are much more likely to apply to a famous and successful company.（実際、仕事を探している人は、有名で成功している会社に〔そうでない会社よりも〕ずっと応募する可能性が高い）とあります。In fact（実際）は、前に述べたことを、事実で裏づけるときに使う言い方です。
 この文は「仕事を探している人」、つまり、これから社員になるかもしれない人の話です。有名で成功している会社のほうに応募者が集まるのですから、よいイメージ作りには「働きたい人を集める」という目的があると分かります。attract は「引きつける」、employees は「社員、従業員」です。ですから、4が正解です。
 また、第2段落以降も、人々が働きたい会社をどう選ぶかという話が続いており、4の内容と流れが合います。
 【ほかの選択肢】

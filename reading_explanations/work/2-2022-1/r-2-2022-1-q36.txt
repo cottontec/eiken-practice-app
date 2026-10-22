@@ -1,0 +1,29 @@
+---
+choices: The humans who owned it made drawings that show how to set it up. | Some of the pieces that make up the statue have never been found. | The statue can be put together in a number of different ways. | It was made by people who had not yet begun growing their own food.
+answerText: It was made by people who had not yet begun growing their own food.
+---
+【正解】4 It was made by people who had not yet begun growing their own food.（それは、まだ自分たちで食べ物を育て始めていなかった人々によって作られた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：シギルの偶像について、最近発見されたことの一つは何ですか。
+1 それを持っていた人々が、組み立て方を示す絵を描いた。
+2 像を組み立てている部品のいくつかは、一度も見つかっていない。
+3 像は、いくつもの違ったやり方で組み立てることができる。
+4 それは、まだ自分たちで食べ物を育て始めていなかった人々によって作られた。
+【考え方】
+設問は「最近（recently）発見されたこと」です。第3段落に in the last few years（ここ数年）という、最近のことを表す語句があります。
+For a long time, people did not know how old it was, but analysis of the wood in the last few years has revealed that it was made around 12,500 years ago—long before humans in the area began farming.（長い間、人々はそれがどれくらい古いのかを知らなかったが、ここ数年の木の分析によって、それが約1万2,500年前、つまりその地域の人類が農業を始めるずっと前に作られたことが明らかになった）
+analysis は「分析（細かく調べること）」、reveal は「明らかにする」という意味です。ここ数年の分析で、像が農業の始まるずっと前に作られたことが分かりました。農業を始める前ということは、人々はまだ自分たちで作物を育てていなかったということです。
+本文と選択肢を対にすると、次のようになります。
+本文 in the last few years has revealed（ここ数年で明らかになった）＝ 設問 has been recently discovered（最近発見された）
+本文 long before humans in the area began farming（その地域の人類が農業を始めるずっと前）＝ 選択肢 people who had not yet begun growing their own food（まだ自分たちで食べ物を育て始めていなかった人々）
+ですから、4が正解です。
+【ほかの選択肢】
+1 第3段落の最後に only drawings of them remain（それらの絵だけが残っている）とありますが、これは失われた部品（them）の絵のことです。持ち主の人々が描いたとも、組み立て方を示す絵だとも書かれていません。
+2 本文には some pieces were lost during the early 20th century（20世紀の初めに部品のいくつかが失われた）とあります。部品は1890年に像と一緒に見つかり、そのあとで失われたので、「一度も見つかっていない」わけではありません。また、これは20世紀の初めの出来事で、ここ数年で発見されたことではありません。
+3 本文には、像は taken down and set up again in a different place（分解して別の場所で再び組み立てる）ことができるように作られていたとあります。違うのは組み立てる「場所」で、組み立て方がいくつもあるとは書かれていません。また、これが最近発見されたことだとも書かれていません。
+【覚えるポイント】
+・in the last few years：「ここ数年で」。設問の recently（最近）の言いかえになっています。
+・long before ～：「～するずっと前に」。

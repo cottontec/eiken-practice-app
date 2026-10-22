@@ -1,6 +1,7 @@
 ---
 choices: Women calculated the movements of rockets and bombs for the U.S. Army during World War II. | Kathryn Kleiman began teaching computer science at Harvard University in 1986. | The first computer was so large that it took two days for a group of women to repair. | About 75 percent of young American women have said that they will study computer science.
 answerText: Women calculated the movements of rockets and bombs for the U.S. Army during World War II.
+reviewed: yes
 ---
 【正解】1 Women calculated the movements of rockets and bombs for the U.S. Army during World War II.（第二次世界大戦中、女性たちはアメリカ陸軍のためにロケットや爆弾の動きを計算した。）
 【和訳】

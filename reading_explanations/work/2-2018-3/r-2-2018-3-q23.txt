@@ -1,6 +1,7 @@
 ---
 choices: What is more | Like before | For this purpose | Despite this
 answerText: What is more
+reviewed: yes
 ---
 【正解】1 What is more（さらに、そのうえ）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: needed more young people | worried about this trend | seen a change | found a problem
 answerText: seen a change
+reviewed: yes
 ---
 【正解】3 seen a change（変化を目にしてきた）
 【和訳】

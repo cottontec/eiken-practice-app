@@ -1,6 +1,7 @@
 ---
 choices: Much is known about the Vikings' religion because of their literature. | The Vikings often settled in new places to get the materials they needed to produce their books. | Most Vikings preferred being warriors to being farmers or traders. | Viking culture was mostly stolen from countries such as Denmark, Norway, and Sweden.
 answerText: Much is known about the Vikings' religion because of their literature.
+reviewed: yes
 ---
 【正解】1 Much is known about the Vikings' religion because of their literature.（彼らの文学のおかげで、バイキングの宗教について多くのことが知られている。）
 【和訳】

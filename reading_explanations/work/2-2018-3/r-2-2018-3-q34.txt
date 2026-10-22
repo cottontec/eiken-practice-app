@@ -1,6 +1,7 @@
 ---
 choices: Most people had forgotten that some of the first computer programmers were female. | A majority of people who study to become computer programmers are women. | Male computer programmers have trouble finding jobs in the modern economy. | Most of the men working in computer programming studied at the University of Pennsylvania.
 answerText: Most people had forgotten that some of the first computer programmers were female.
+reviewed: yes
 ---
 【正解】1 Most people had forgotten that some of the first computer programmers were female.（ほとんどの人は、最初のコンピュータープログラマーの中に女性がいたことを忘れていた。）
 【和訳】

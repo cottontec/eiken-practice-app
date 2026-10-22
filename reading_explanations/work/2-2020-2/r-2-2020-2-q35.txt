@@ -1,6 +1,7 @@
 ---
 choices: people today have begun to use their boats to travel great distances. | explorers from Europe and the Middle East paid them a lot of money to build boats. | they were able to travel to faraway places where they set up villages and traded. | they traded with other countries to get the weapons that they needed.
 answerText: they were able to travel to faraway places where they set up villages and traded.
+reviewed: yes
 ---
 【正解】3 they were able to travel to faraway places where they set up villages and traded.（彼らは遠く離れた場所まで旅をすることができ、そこで村を作ったり交易をしたりした）
 【和訳】
@@ -26,7 +27,7 @@ answerText: they were able to travel to faraway places where they set up village
 【ほかの選択肢】
 1 本文にあるのは、バイキングの船の some of which still exist today（その中には今も残っているものがある）ということだけです。今の人々がその船を使って長い距離を旅し始めたとは書かれていません。
 2 ヨーロッパや中東は、バイキングが交易路を作った場所として出てきます。そこの探検家がバイキングにお金を払って船を造らせたという話は本文にありません。
-4 第3段落には They were also experts at making cloth and weapons.（彼らは布や武器を作る名人でもあった）とあります。武器は自分たちで作っていたので、武器を手に入れるために交易したという話は本文と合いません。
+4 交易の目的が必要な武器を手に入れることだったとは、本文に書かれていません。武器については、第3段落に They were also experts at making cloth and weapons.（彼らは布や武器を作る名人でもあった）とあるだけで、また、この選択肢は船造りが上手だったこととも結びつきません。
 【覚えるポイント】
 ・be good at -ing：「～するのが上手だ」。
 ・not only A but also B：「AだけでなくBも」。

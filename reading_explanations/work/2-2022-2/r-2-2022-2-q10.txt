@@ -1,0 +1,19 @@
+---
+choices: committed | defended | eliminated | imported
+answerText: eliminated
+---
+【正解】3 eliminated（〔競技などで〕敗退させられた、取り除かれた）
+【和訳】
+ローラは、バドミントンの大会でそんなに早く（敗退した）ことが残念でしたが、今は試合をする友だちを応援しています。
+（選択肢の意味）1 （commit の過去分詞）犯された、（be committed to で）～に打ち込んで　2 守られた　3 （競技などで）敗退させられた、取り除かれた　4 輸入された
+【考え方】
+空所は being (　) from the badminton tournament の中にあります。being ＋過去分詞は「～されること」という意味です。過去分詞は、eliminated のように「～される」という意味を表すときに使う形です。つまり、「バドミントンの大会から〔　〕されること」が残念だった、という内容です。
+so early（そんなに早く）と、but now she supports her friends during their matches（しかし今は、試合中の友だちを応援している）に注目します。ローラは自分ではもう試合をせず、友だちを応援する側に回っていることが分かります。
+eliminate は「取り除く」、スポーツでは「（相手を）敗退させる」という意味です。be eliminated from the tournament で「大会で敗退する」となります。早く負けてしまって残念だったけれど、今は友だちを応援している、という流れになるので、3が正解です。
+【ほかの選択肢】
+1 committed は commit の過去分詞です。commit は「（罪などを）犯す」という意味で、be committed to ～（～に打ち込んでいる）のように to と組み合わせて使う言い方もあります。「大会から犯された」のような意味になり、文に合いません。
+2 defended は defend（守る）の過去分詞です。「大会から守られることが残念だった」となり、意味が通りません。
+4 imported は import（輸入する）の過去分詞です。「大会から輸入されることが残念だった」となり、意味が通りません。
+【覚えるポイント】
+・be eliminated from ～：「～（大会など）で敗退する、～から外される」。
+・be unhappy about ～：「～を残念に思う、～が不満だ」。

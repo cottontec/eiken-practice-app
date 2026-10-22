@@ -1,6 +1,7 @@
 ---
 choices: going to disappear soon | caused mainly by volcanoes | dangerous for humans | related to global warming
 answerText: related to global warming
+reviewed: yes
 ---
 【正解】4 related to global warming（地球温暖化と関係がある）
 【和訳】

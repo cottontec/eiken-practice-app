@@ -1,6 +1,7 @@
 ---
 choices: Many people still believe in their gods and follow their religion. | The names of their gods are still used in modern languages. | Modern literature is often based on the stories of their heroes. | People began using Christmas trees after reading their mythology.
 answerText: The names of their gods are still used in modern languages.
+reviewed: yes
 ---
 【正解】2 The names of their gods are still used in modern languages.（彼らの神々の名前は、今でも現代の言語で使われている。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: to know | knowing | being known | having known
 answerText: to know
+reviewed: yes
 ---
 【正解】1 to know（〔ひょっとして〕知っている）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: more | less | most | least
 answerText: more
+reviewed: yes
 ---
 【正解】1 more（no more than ～：～より多くない、～以下）
 【和訳】

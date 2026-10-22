@@ -1,6 +1,7 @@
 ---
 choices: to confirm his order of The Oldest Day. | to ask him to review a book that he bought. | because he needs help logging in to his account. | because he was unhappy with his recent purchase.
 answerText: to ask him to review a book that he bought.
+reviewed: yes
 ---
 【正解】2 to ask him to review a book that he bought.（彼が買った本のレビューを書くよう頼むため。）
 【和訳】

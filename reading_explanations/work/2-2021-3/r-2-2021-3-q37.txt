@@ -1,0 +1,30 @@
+---
+choices: Pineapple farms were created in places closer to Europe than South America. | Ships were invented that took less time to travel from South America to Europe. | They became so common that ordinary people became tired of eating them. | The climate in Britain changed so that people could grow them in their gardens.
+answerText: Ships were invented that took less time to travel from South America to Europe.
+---
+【正解】2 Ships were invented that took less time to travel from South America to Europe.（南アメリカからヨーロッパまで、（それまでより）短い時間で行ける船が発明された。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ヨーロッパでパイナップルの価格が下がった原因は何ですか。
+1 南アメリカよりもヨーロッパに近い場所に、パイナップル農園が作られた。
+2 南アメリカからヨーロッパまで、（それまでより）短い時間で行ける船が発明された。
+3 パイナップルがとてもありふれたものになったので、ふつうの人々はそれを食べることにあきた。
+4 イギリスの気候が変わり、人々が自分の庭でパイナップルを育てられるようになった。
+【考え方】
+設問の the price of pineapples ... to go down（パイナップルの価格が下がる）と同じ内容が、第4段落の prices decreased（価格が下がった）です。その前後を読みます。
+After ships with steam engines were invented, it became much quicker to make the journey from South America to Europe.（蒸気機関で動く船が発明されると、南アメリカからヨーロッパへの旅は（以前より）ずっと速くなった）
+Pineapple imports grew and prices decreased so that even ordinary people could buy them.（パイナップルの輸入は増え、価格は下がって、ふつうの人々でさえパイナップルを買えるようになった）
+蒸気機関で動く船が発明されて旅が速くなり、そのあと輸入が増えて価格が下がった、という流れです。
+本文と選択肢を対にすると、次のようになります。
+本文 ships with steam engines were invented（蒸気機関で動く船が発明された）＝ 選択肢 Ships were invented（船が発明された）
+本文 it became much quicker to make the journey from South America to Europe（南アメリカからヨーロッパへの旅が（以前より）ずっと速くなった）＝ 選択肢 took less time to travel from South America to Europe（南アメリカからヨーロッパまで、（それまでより）短い時間で行ける）
+本文の much quicker（ずっと速い）が、選択肢では less time（より短い時間）に言いかえられています。比べる相手は、第3段落にある、1か月以上かかっていた当時の旅だと考えられます。ですから2が正解です。
+【ほかの選択肢】
+1 南アメリカよりヨーロッパに近い場所にパイナップル農園が作られたという話は本文にありません。本文に出てくるのは、ヨーロッパに建てられた温室です。
+3 本文の最後には、パイナップルは became a common fruit enjoyed around the world（世界中で楽しまれるありふれた果物になった）とあります。ふつうの人々があきたという話はなく、「楽しまれる」という本文と合いません。また、ありふれた果物になったのは価格が下がった結果で、原因ではありません。
+4 イギリスの気候が変わったという話は本文にありません。イギリスの庭について書かれているのは、パイナップルの形をした石の像が見られるということです。
+【覚えるポイント】
+・much quicker：「（以前より）ずっと速い」。much は比較級（「より～」を表す形）を強めます。
+・decrease：「減る、下がる」。go down（下がる）と同じ意味です。

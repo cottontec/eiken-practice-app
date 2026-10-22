@@ -1,6 +1,7 @@
 ---
 choices: principles | substitutes | decades | critics
 answerText: principles
+reviewed: yes
 ---
 【正解】1 principles（原理、基本となる決まり）
 【和訳】

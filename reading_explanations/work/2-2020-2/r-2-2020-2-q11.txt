@@ -1,6 +1,7 @@
 ---
 choices: by degrees | by no means | in no time | in advance
 answerText: by no means
+reviewed: yes
 ---
 【正解】2 by no means（決して～ない）
 【和訳】

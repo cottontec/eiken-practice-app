@@ -1,6 +1,7 @@
 ---
 choices: in detail | for nothing | on end | at most
 answerText: for nothing
+reviewed: yes
 ---
 【正解】2 for nothing（無料で、ただで）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: signature | disaster | emotion | occupation
 answerText: occupation
+reviewed: yes
 ---
 【正解】4 occupation（職業）
 【和訳】

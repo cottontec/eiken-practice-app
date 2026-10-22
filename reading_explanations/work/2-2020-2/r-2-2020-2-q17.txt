@@ -1,6 +1,7 @@
 ---
 choices: come down | bring out | go by | carry on
 answerText: carry on
+reviewed: yes
 ---
 【正解】4 carry on（～を続ける）
 【和訳】

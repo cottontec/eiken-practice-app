@@ -1,6 +1,7 @@
 ---
 choices: in the moment | at its best | to the point | out of focus
 answerText: out of focus
+reviewed: yes
 ---
 【正解】4 out of focus（ピントが合っていない、ぼやけている）
 【和訳】

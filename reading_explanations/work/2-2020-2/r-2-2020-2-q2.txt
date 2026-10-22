@@ -1,6 +1,7 @@
 ---
 choices: intelligent | steady | pleasant | awkward
 answerText: awkward
+reviewed: yes
 ---
 【正解】4 awkward（気まずい、居心地が悪い）
 【和訳】

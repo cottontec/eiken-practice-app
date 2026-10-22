@@ -1,6 +1,7 @@
 ---
 choices: safely | widely | politely | accidentally
 answerText: politely
+reviewed: yes
 ---
 【正解】3 politely（ていねいに、礼儀正しく）
 【和訳】

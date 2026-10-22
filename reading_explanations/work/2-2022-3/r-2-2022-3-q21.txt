@@ -1,0 +1,25 @@
+---
+choices: has appeared in several movies | has been given a new image | was based on a real person | was created by an apple farm
+answerText: was based on a real person
+---
+【正解】3 was based on a real person（実在の人物がもとになっていた）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 has appeared in several movies（いくつかの映画に登場してきた）
+2 has been given a new image（新しいイメージを与えられてきた）
+3 was based on a real person（実在の人物がもとになっていた）
+4 was created by an apple farm（あるリンゴ農園によって作り出された）
+【考え方】
+空所は第1段落の However, Johnny Appleseed (21). です。
+直前の文は Much of this story is fiction.（この話の多くは作り話〔フィクション〕だ）です。そのあとが However（しかし）で始まるので、空所には「作り話」とは反対の、本当のことにかかわる内容が入ると考えられます。
+さらに、空所のすぐあとに This was a man called John Chapman, who was born in the northeastern state of Massachusetts in 1774.（それはジョン・チャップマンという名前の男性で、1774年に北東部のマサチューセッツ州で生まれた）と続きます。This（それ）が指すのは、実際に生まれて生きていた一人の男性です。
+「作り話が多いが、しかしジョニー・アップルシードには実在のモデルがいた。それがジョン・チャップマンだ」とつなげると、話がすっきり通ります。be based on ～ は「～にもとづいている、～がもとになっている」という意味なので、3が正解です。
+【ほかの選択肢】
+1 「いくつかの映画に登場してきた」を入れると、次の This was a man called John Chapman（それはジョン・チャップマンという男性だった）とつながりません。映画の話は本文に出てきません。
+2 「新しいイメージを与えられてきた」を入れても、「作り話が多い。しかし」という対比にならず、次の文で実在の男性を紹介する流れとも合いません。
+4 「あるリンゴ農園によって作り出された」を入れると、次の文で This（それ）が1774年生まれの男性を指すこととつながりません。リンゴ農園が話を作ったとは本文に書かれていません。
+【覚えるポイント】
+・be based on ～：「～にもとづいている、～がもとになっている」。
+・fiction（作り話）のあとに However が来たら、本当のこと（事実）の話が続くことが多いです。

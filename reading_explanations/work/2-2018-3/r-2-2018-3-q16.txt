@@ -1,6 +1,7 @@
 ---
 choices: admitted | revealed | determined | frightened
 answerText: determined
+reviewed: yes
 ---
 【正解】3 determined（固く決心している）
 【和訳】

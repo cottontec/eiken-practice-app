@@ -1,6 +1,7 @@
 ---
 choices: staring at | laying off | coping with | throwing away
 answerText: staring at
+reviewed: yes
 ---
 【正解】1 staring at（～をじっと見つめること）
 【和訳】

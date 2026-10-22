@@ -1,6 +1,7 @@
 ---
 choices: confusion | allowance | pronunciation | significance
 answerText: significance
+reviewed: yes
 ---
 【正解】4 significance（重要性、意義）
 【和訳】

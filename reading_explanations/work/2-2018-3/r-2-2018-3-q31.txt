@@ -1,6 +1,7 @@
 ---
 choices: To add a harder feeling to some types of chocolate. | To improve the taste of the milk used in chocolate. | To reduce the amount of sugar that is necessary. | To prevent the various ingredients from separating.
 answerText: To prevent the various ingredients from separating.
+reviewed: yes
 ---
 【正解】4 To prevent the various ingredients from separating.（さまざまな材料が分かれるのを防ぐため。）
 【和訳】

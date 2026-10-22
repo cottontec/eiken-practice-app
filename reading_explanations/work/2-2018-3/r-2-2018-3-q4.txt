@@ -1,6 +1,7 @@
 ---
 choices: intend | matter | regret | preserve
 answerText: intend
+reviewed: yes
 ---
 【正解】1 intend（つもりである、意図する）
 【和訳】

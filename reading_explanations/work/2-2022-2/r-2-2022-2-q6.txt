@@ -1,0 +1,19 @@
+---
+choices: protest | expose | conduct | represent
+answerText: expose
+---
+【正解】2 expose（さらす、当てる）
+【和訳】
+日光は、人が健康でいるために大切です。しかし、肌をあまりに多くの日光に（さらす）のはよくありません。
+（選択肢の意味）1 抗議する　2 さらす、当てる　3 （調査などを）行う、指揮する　4 表す、代表する
+【考え方】
+空所の後ろは skin to too much sunlight です。skin は「肌」、too much sunlight は「多すぎる日光」です。空所に入る動詞は、「肌」と「日光」を to でつなぐ形で使えるものだと分かります。
+expose A to B は「AをB（光や風など）にさらす、当てる」という意味です。expose skin to too much sunlight で「肌を多すぎる日光にさらす」となります。
+前の文には Sunlight is important for people to stay healthy.（日光は人が健康でいるために大切だ）とあり、However（しかし）のあとで「日光に当たりすぎるのはよくない」と、注意すべき点を述べています。流れも自然なので、2が正解です。
+【ほかの選択肢】
+1 protest は「抗議する」です。「肌を多すぎる日光に抗議する」となり、意味が通りません。
+3 conduct は「（調査などを）行う、（楽団を）指揮する」です。conduct a survey（調査を行う）のように使う語で、「肌を日光に行う」では意味が通りません。
+4 represent は「表す、代表する」です。「肌を日光に表す」となり、意味が通りません。
+【覚えるポイント】
+・expose A to B：「AをBにさらす、当てる」。
+・too much ～：「多すぎる～」。

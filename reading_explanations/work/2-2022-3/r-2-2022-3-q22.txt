@@ -1,0 +1,29 @@
+---
+choices: reason to celebrate | normal reaction | serious mistake | chance to make money
+answerText: chance to make money
+---
+【正解】4 chance to make money（お金をかせぐ機会）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 reason to celebrate（祝う理由）
+2 normal reaction（ふつうの反応）
+3 serious mistake（重大なまちがい）
+4 chance to make money（お金をかせぐ機会）
+【考え方】
+空所は第2段落の Chapman saw this as a (22). です。see A as B は「AをBとみなす、AをBだと考える」という意味です。
+this（これ）が指すのは、直前の文の many people in the eastern United States were moving west to find cheap land（アメリカ東部の多くの人々が、安い土地を見つけるために西へ移り住もうとしていた）ということです。
+空所のあとには、チャップマンがしたことが続きます。
+・He got free bags of apple seeds（リンゴの種の入った袋を無料で手に入れた）
+・he bought land and planted apple trees in places that would likely become towns（町になりそうな場所で土地を買い、リンゴの木を植えた）
+・he would return to these places to check his apple trees and sell them（そうした場所に戻ってきて、リンゴの木を確かめて売った）
+・he also sold his land to people who wanted to settle there（そこに住みつきたい人々に土地を売ることもあった）
+種を無料で手に入れ、人が移ってきそうな場所に木を植えて、あとで木や土地を売っています。つまり、チャップマンは人々が西へ移ってくることを、もうけるチャンスと考えたのだと分かります。ですから、4が正解です。
+【ほかの選択肢】
+1 「祝う理由」を入れると「人々が西へ移ることを祝う理由だと考えた」となりますが、そのあとに祝ったという話はなく、木や土地を売った話とつながりません。
+2 「ふつうの反応」を入れると「これをふつうの反応だと考えた」となります。そのあとに続く、種を手に入れて木を植え、売ったという行動の説明になりません。
+3 「重大なまちがい」を入れると「人々が西へ移るのはまちがいだと考えた」となります。しかしチャップマン自身は、人々が住みそうな場所に木を植えて売っており、反対の考えとは合いません。
+【覚えるポイント】
+・see A as B：「AをBとみなす、AをBだと考える」。
+・make money：「お金をかせぐ、もうける」。

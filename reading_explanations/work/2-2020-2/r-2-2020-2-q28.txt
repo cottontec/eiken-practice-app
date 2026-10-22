@@ -1,6 +1,7 @@
 ---
 choices: Their numbers are decreasing this year. | Their opening hours will not change. | They are not hiring new workers. | They will open earlier on weekdays.
 answerText: Their opening hours will not change.
+reviewed: yes
 ---
 【正解】2 Their opening hours will not change.（それらの営業時間は変わらない。）
 【和訳】

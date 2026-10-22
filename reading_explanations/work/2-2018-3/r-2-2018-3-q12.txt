@@ -1,6 +1,7 @@
 ---
 choices: in | with | to | after
 answerText: after
+reviewed: yes
 ---
 【正解】4 after（～にちなんで）
 【和訳】

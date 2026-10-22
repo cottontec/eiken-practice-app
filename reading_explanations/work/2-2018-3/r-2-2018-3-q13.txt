@@ -1,6 +1,7 @@
 ---
 choices: long | far | much | well
 answerText: far
+reviewed: yes
 ---
 【正解】2 far（as far as I'm concerned：私に関する限りは）
 【和訳】

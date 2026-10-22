@@ -1,6 +1,7 @@
 ---
 choices: Local people gained new techniques and information to improve their lives. | Many of the large houses were destroyed and rebuilt by Viking architects. | They were turned into places where Vikings could make their cloth and weapons. | The communities already living there were forced to move to Ireland, Britain, and France.
 answerText: Local people gained new techniques and information to improve their lives.
+reviewed: yes
 ---
 【正解】1 Local people gained new techniques and information to improve their lives.（地元の人々が、暮らしをよくするための新しい技術や情報を得た。）
 【和訳】

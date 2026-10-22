@@ -1,6 +1,7 @@
 ---
 choices: A type of fruit juice that can be added to chocolate to improve its taste. | A way to make chocolate that maintains the sweet flavor of fruit juice. | Up to half of the fat in chocolate can be replaced with fruit juice. | Fruit juice can be added to traditional chocolate to make it harder.
 answerText: Up to half of the fat in chocolate can be replaced with fruit juice.
+reviewed: yes
 ---
 【正解】3 Up to half of the fat in chocolate can be replaced with fruit juice.（チョコレートの脂肪の最大半分を、果物のジュースに置きかえることができる。）
 【和訳】

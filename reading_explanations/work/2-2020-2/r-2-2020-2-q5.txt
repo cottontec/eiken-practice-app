@@ -1,6 +1,7 @@
 ---
 choices: luckily | obviously | commonly | separately
 answerText: obviously
+reviewed: yes
 ---
 【正解】2 obviously（明らかに、見るからに）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: she used much of her wealth to purchase a variety of animals to keep as pets. | she began to work together with her grandfather and father in the family business. | her friends told her that she should publish her stories based on her childhood experiences. | her family asked her to take care of her grandfather as he got older.
 answerText: her friends told her that she should publish her stories based on her childhood experiences.
+reviewed: yes
 ---
 【正解】3 her friends told her that she should publish her stories based on her childhood experiences.（友人たちが彼女に、子ども時代の経験をもとにした物語を出版するべきだと言った）
 【和訳】
@@ -21,7 +22,7 @@ these experiences（こうした経験）は、自然を観察したり、ペッ
 本文と選択肢を対にすると、次のようになります。
 本文 Her friends suggested to her that she publish these stories ＝ 選択肢 her friends told her that she should publish her stories
 本文 use these experiences to create illustrated stories → 読み取れること：物語は子ども時代の経験をもとにしている（選択肢の based on her childhood experiences）
-suggest that ～ は「～してはどうかと勧める」という意味で、「～するべきだと言った」と同じ内容です。ですから3が正解です。
+suggest that ～ は「～してはどうかと勧める」という意味で、「～するべきだと言った」とほぼ同じ内容です。ですから3が正解です。
 【ほかの選択肢】
 1 本文には her many pets（たくさんのペット）と、家が裕福だったことは書かれています。しかし、大人になった彼女が財産を使って動物を買ったとは書かれていません。
 2 本文には Potter learned much from them（ポターは祖父と父から多くのことを学んだ）とあります。しかし、祖父や父と一緒に家の事業で働いたとは書かれていません。

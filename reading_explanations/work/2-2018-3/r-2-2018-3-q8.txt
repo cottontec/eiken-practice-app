@@ -1,6 +1,7 @@
 ---
 choices: marching | observing | behaving | approving
 answerText: behaving
+reviewed: yes
 ---
 【正解】3 behaving（behave：ふるまう、行儀よくする）
 【和訳】

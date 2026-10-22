@@ -1,6 +1,7 @@
 ---
 choices: it | this | what | which
 answerText: it
+reviewed: yes
 ---
 【正解】1 it（〔あとの that 以下を指す〕それ）
 【和訳】

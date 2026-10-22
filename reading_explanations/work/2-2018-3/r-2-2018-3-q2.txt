@@ -1,6 +1,7 @@
 ---
 choices: common | private | illegal | complex
 answerText: illegal
+reviewed: yes
 ---
 【正解】3 illegal（違法の、法律で禁じられた）
 【和訳】

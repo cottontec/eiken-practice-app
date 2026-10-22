@@ -1,6 +1,7 @@
 ---
 choices: shake hands | take cover | make believe | pay attention
 answerText: pay attention
+reviewed: yes
 ---
 【正解】4 pay attention（注意を払う、集中する）
 【和訳】
