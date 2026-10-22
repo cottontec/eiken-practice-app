@@ -1,0 +1,29 @@
+---
+choices: Explain about triangles to the class. | Study harder for tests in the future. | Understand a topic from math class. | Read the next chapter carefully.
+answerText: Understand a topic from math class.
+---
+【正解】3 Understand a topic from math class.（数学の授業の単元を理解すること。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：シルビアにとって、何をすることが大切ですか。
+1 クラスのみんなに三角形について説明すること。
+2 これから先、テストに向けてもっと一生けんめい勉強すること。
+3 数学の授業の単元を理解すること。
+4 次の章を注意深く読むこと。
+【考え方】
+設問の it is important for Sylvia to do（シルビアにとって～することが大切だ）と同じ言い方が、第2段落にあります。
+However, it is very important for her to learn this topic.（しかし、この単元を学ぶことは彼女にとってとても大切だ）
+this topic（この単元）は、その前の文に出てくる、シルビアが休んで聞きのがした三角形についての内容です。第2段落の初めに she missed some important explanations about triangles during the class（彼女は授業中の三角形についての大切な説明を聞きのがした）とあります。
+さらに、If she doesn't, she will have trouble in the future because we will use the concepts again in the next chapter.（もし学ばなければ、次の章でまたその考え方を使うので、彼女はこの先困るだろう）とも書かれています。
+本文と選択肢を対にすると、次のようになります。
+本文 learn this topic（この単元を学ぶ）＝ 選択肢 Understand a topic from math class（数学の授業の単元を理解する）
+数学の授業で習った三角形の単元を、きちんと分かるようになることが大切だ、ということです。ですから3が正解です。
+【ほかの選択肢】
+1 三角形の説明を聞きのがしたのはシルビアのほうで、シルビアがクラスのみんなに説明するという話は本文にありません。
+2 本文には、テストの結果が悪かったことについて I know that this is not her fault.（これは彼女のせいではないことは分かっている）とあります。先生が大切だと言っているのは、もっと勉強がんばることではなく、聞きのがした単元を学ぶことです。
+4 本文に the next chapter（次の章）は出てきますが、それは「次の章でまたその考え方を使うから、今の単元を学ぶ必要がある」という理由の説明です。次の章を注意深く読むように、とは書かれていません。
+【覚えるポイント】
+・It is important for ＋人＋ to ～：「（人）にとって～することが大切だ」。設問と同じ形を本文から探すと、根拠が見つかります。
+・topic：「話題、テーマ」。授業の話では「単元（学習のひとまとまり）」を指すことがあります。

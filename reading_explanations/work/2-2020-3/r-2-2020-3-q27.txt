@@ -1,0 +1,28 @@
+---
+choices: started going to Berkton Middle School. | received a bad grade in math class. | got a new math teacher at school. | was not well enough to attend classes.
+answerText: was not well enough to attend classes.
+---
+【正解】4 was not well enough to attend classes.（授業に出られるほど体調がよくなかった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：2週間ほど前、シルビアは～。
+1 バークトン中学校に通い始めた
+2 数学の授業で悪い成績を取った
+3 学校で新しい数学の先生がついた
+4 授業に出られるほど体調がよくなかった
+【考え方】
+設問の A couple of weeks ago（2週間ほど前）という言葉が、本文のどこに出てくるかを探します。a couple of ～ は「2つほどの～」という意味です。
+第1段落に次の文があります。
+I know Sylvia had a bad cold a couple of weeks ago, so she missed a few classes.（シルビアが2週間ほど前にひどい風邪をひいて、授業を何回か休んだことは知っている）
+本文と選択肢を対にすると、次のようになります。
+本文 had a bad cold ..., so she missed a few classes（ひどい風邪をひいたので、授業を何回か休んだ）→ 選択肢 was not well enough to attend classes（授業に出られるほど体調がよくなかった）
+not well enough to ～ は「～できるほど体調がよくない」という意味です。風邪で授業を休んだことを、「授業に出られる体調ではなかった」と言いかえています。ですから4が正解です。
+【ほかの選択肢】
+1 本文には、シルビアがバークトン中学校に通い始めたという話はありません。タッカー先生は、すでにシルビアの数学の教師としてメールを書いています。
+2 本文に she did very poorly on yesterday's test（昨日のテストでとても悪い結果だった）とあるので、悪い点を取ったこと自体は本文と合います。しかし、それは「昨日」のテストのことで、「2週間ほど前」に起きたことではありません。時期が違います。
+3 新しい数学の先生がついたという話は本文にありません。タッカー先生は、自分がシルビアの数学の教師だと名乗っているだけです。
+【覚えるポイント】
+・a couple of ～：「2つほどの～、2、3の～」。a couple of weeks ago は「2週間ほど前」です。
+・not ～ enough to …：「…できるほど～ない」。not well enough to attend は「出席できるほど体調がよくない」です。

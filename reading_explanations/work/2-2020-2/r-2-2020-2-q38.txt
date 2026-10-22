@@ -1,0 +1,30 @@
+---
+choices: Much is known about the Vikings' religion because of their literature. | The Vikings often settled in new places to get the materials they needed to produce their books. | Most Vikings preferred being warriors to being farmers or traders. | Viking culture was mostly stolen from countries such as Denmark, Norway, and Sweden.
+answerText: Much is known about the Vikings' religion because of their literature.
+---
+【正解】1 Much is known about the Vikings' religion because of their literature.（彼らについての文学のおかげで、バイキングの宗教について多くのことが知られている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：次の文のうち、正しいものはどれですか。
+1 彼らについての文学のおかげで、バイキングの宗教について多くのことが知られている。
+2 バイキングは、自分たちの本を作るのに必要な材料を手に入れるために、新しい場所にたびたび定住した。
+3 ほとんどのバイキングは、農民や商人であることよりも、戦士であることのほうを好んだ。
+4 バイキングの文化は、主にデンマーク、ノルウェー、スウェーデンのような国々から盗んだものだった。
+【考え方】
+本文全体と照らし合わせる問題なので、選択肢を1つずつ確かめます。1の内容は第4段落にあります。
+・The Vikings also had a complicated religion and mythology.（バイキングはまた、複雑な宗教と神話を持っていた）
+・We know a lot about this from literature telling of their history and the adventures of their heroes.（私たちはこのことについて、彼らの歴史や英雄たちの冒険を語る文学から多くを知っている）
+this（このこと）は、前の文の a complicated religion and mythology（複雑な宗教と神話）を指しています。
+本文と選択肢を対にすると、次のようになります。
+本文 We know a lot about this ＝ 選択肢 Much is known about the Vikings' religion
+本文 from literature telling of their history and the adventures of their heroes ＝ 選択肢 because of their literature
+「私たちは多くを知っている」を受け身（～される、という形）で言いかえると「多くのことが知られている」になります。また、本文の from literature（文学から）を、選択肢では because of their literature（彼らの〔歴史や英雄を語る〕文学のおかげで）と表しています。ですから1が正解です。
+【ほかの選択肢】
+2 第3段落に The Vikings settled down in many of the places they traded with.（バイキングは交易をした場所の多くに定住した）とあります。しかし、本を作るための材料を手に入れるために定住したとは書かれていません。
+3 第2段落に Not all Vikings were warriors. Many were actually farmers and traders.（すべてのバイキングが戦士だったわけではない。実は、多くは農民や商人だった）とあります。ほとんどのバイキングが戦士であることを好んだという話は本文になく、多くは農民や商人だったという内容とも合いません。
+4 デンマーク、ノルウェー、スウェーデンは、バイキングの出身地であるスカンジナビアに今ある国として出てきます。また、第1段落に They had a rich culture of their own（彼らには独自の豊かな文化があった）とあり、文化をほかの国から盗んだという内容と合いません。
+【覚えるポイント】
+・Not all ～：「すべての～が…というわけではない」。一部を否定する言い方です。
+・tell of ～：「～について語る」。

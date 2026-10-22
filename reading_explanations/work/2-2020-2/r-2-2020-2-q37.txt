@@ -1,0 +1,28 @@
+---
+choices: Many people still believe in their gods and follow their religion. | The names of their gods are still used in modern languages. | Modern literature is often based on the stories of their heroes. | People began using Christmas trees after reading their mythology.
+answerText: The names of their gods are still used in modern languages.
+---
+【正解】2 The names of their gods are still used in modern languages.（彼らの神々の名前は、今でも現代の言語で使われている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：バイキングが現代の世界に与えた影響の1つは何ですか。
+1 多くの人々が今でも彼らの神々を信じ、彼らの宗教に従っている。
+2 彼らの神々の名前は、今でも現代の言語で使われている。
+3 現代の文学は、彼らの英雄の物語をもとにしていることが多い。
+4 人々は、彼らの神話を読んだあとで、クリスマスツリーを使い始めた。
+【考え方】
+現代への影響は、第4段落の some parts of their religion can still be found in modern cultures（彼らの宗教の一部は、今でも現代の文化の中に見つけることができる）のあとに、例として書かれています。
+・For example, the names for the days of the week Thursday and Friday in English and Swedish come from the names of Viking gods.（たとえば、英語とスウェーデン語の曜日の名前である木曜日と金曜日は、バイキングの神々の名前から来ている）
+本文と選択肢を対にすると、次のようになります。
+本文 in English and Swedish（英語とスウェーデン語で）→ 選択肢 in modern languages（現代の言語で）
+本文 the names for the days of the week ... come from the names of Viking gods（曜日の名前がバイキングの神々の名前から来ている）→ 読み取れること：神々の名前が、今も曜日の名前の中で使われている（選択肢の The names of their gods are still used）
+come from ～ は「～から来ている、～に由来する」という意味です。今も使われている Thursday や Friday という言葉の中に、神々の名前が生きていることになります。ですから2が正解です。
+【ほかの選択肢】
+1 本文には the Vikings eventually became Christians（バイキングは最終的にキリスト教徒になった）とあります。宗教の一部が現代の文化に残っているとは書かれていますが、今も多くの人がバイキングの神々を信じているとは書かれていません。
+3 本文の literature（文学）は、We know a lot about this from literature telling of their history and the adventures of their heroes（私たちは、彼らの歴史や英雄たちの冒険を語る文学からこのことについて多くを知っている）という部分に出てきます。これはバイキングの宗教を知る手がかりとしての文学で、現代の文学がそれをもとにしているという話ではありません。
+4 本文には many scholars believe that Christmas trees were originally trees used in Viking rituals（多くの学者は、クリスマスツリーはもともとバイキングの儀式で使われた木だったと考えている）とあります。人々が神話を読んでからクリスマスツリーを使い始めたとは書かれていません。
+【覚えるポイント】
+・come from ～：「～から来ている、～に由来する」。
+・eventually：「最終的に、結局」。
