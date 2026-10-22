@@ -1,0 +1,31 @@
+---
+choices: has not been solved with temporary housing programs run by the government. | has not been as common a problem as it is in other countries around the world. | is often not a long-term situation but rather something that lasts for a short period. | is often not a problem for large cities but is more common in smaller cities.
+answerText: is often not a long-term situation but rather something that lasts for a short period.
+---
+【正解】3 is often not a long-term situation but rather something that lasts for a short period.（多くの場合、長く続く状況ではなく、むしろ短い期間だけ続くものである。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：アメリカでは、ホームレスであるという問題は
+1 政府が運営する一時的な住宅のプログラムでは解決されていない。
+2 世界のほかの国々での問題ほど、よくある問題ではない。
+3 多くの場合、長く続く状況ではなく、むしろ短い期間だけ続くものである。
+4 多くの場合、大都市の問題ではなく、小さな都市でのほうがよく見られる。
+【考え方】
+アメリカのホームレスの状況は、第1段落に書かれています。
+・it is estimated that on any one night, around 600,000 people are living on the streets of American cities（どの夜をとっても、約60万人がアメリカの都市の路上で生活していると推定されている）
+・However, a majority of these people are only homeless temporarily while they look for new homes.（しかし、こうした人々の大多数は、新しい家を探している間だけ、一時的にホームレスになっているにすぎない）
+a majority of ～ は「～の大多数」、temporarily は「一時的に（短い間だけ）」という意味です。つまり、ホームレスの人の多くは、長い間ではなく、新しい家が見つかるまでの短い間だけホームレスなのです。
+本文と選択肢を対にすると、次のようになります。
+本文 a majority of these people（こうした人々の大多数）→ 選択肢 often（多くの場合）
+本文 only homeless temporarily（一時的にホームレスであるにすぎない）＝ 選択肢 not a long-term situation but rather something that lasts for a short period（長く続く状況ではなく、むしろ短い期間だけ続くもの）
+not A but rather B は「AではなくむしろB」という意味です。3が正解です。
+なお、続く文に Some, though, have been without a place to live for many years.（けれども、何年もの間、住む場所がない人もいる）とありますが、これは「一部の人」についての話で、大多数は一時的だという内容と食い違いません。
+【ほかの選択肢】
+1 本文には、政府が運営する一時的な住宅のプログラムの話は出てきません。運動を始めたのはコミュニティー・ソリューションズという団体で、地方自治体（local governments）は住まいの費用を出した、と書かれているだけです。
+2 本文には U.S. cities are no exception（アメリカの都市も例外ではない）とあります。世界中の多くの都市と同じように、アメリカでもホームレスは大きな問題だという意味なので、「ほかの国々ほどよくある問題ではない」は反対の内容です。
+4 本文は In many cities around the world（世界中の多くの都市で）や the streets of American cities（アメリカの都市の路上）と述べているだけで、大都市と小さな都市を比べる話はありません。
+【覚えるポイント】
+・temporarily：「一時的に」。反対の意味は long-term（長期の）や permanently（永久に）。
+・no exception：「例外ではない」。「ほかと同じように当てはまる」という意味です。
