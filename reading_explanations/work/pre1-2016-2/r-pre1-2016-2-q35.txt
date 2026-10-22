@@ -1,6 +1,7 @@
 ---
 choices: The willingness of people to assist crime victims is affected by the length of time they have lived in an urban area. | Victims of minor crimes in urban areas tend not to report them because such crimes occur so frequently. | Witnesses are more likely to assist victims of crimes in situations involving violence than in other circumstances. | In cases where violent crimes occur, there are usually other people present who observe them happening.
 answerText: In cases where violent crimes occur, there are usually other people present who observe them happening.
+reviewed: yes
 ---
 【正解】4 In cases where violent crimes occur, there are usually other people present who observe them happening.（暴力犯罪が起こる場合、たいていは、それが起こるのを見ているほかの人がその場にいる。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: merit | disdain | congestion | interference
 answerText: merit
+reviewed: yes
 ---
 【正解】1 merit（実力、能力、長所）
 【和訳】

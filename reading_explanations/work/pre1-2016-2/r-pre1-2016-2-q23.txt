@@ -1,6 +1,7 @@
 ---
 choices: ran through | answered for | got into | brought about
 answerText: got into
+reviewed: yes
 ---
 【正解】3 got into（～に興味を持つようになった、夢中になった）
 【和訳】

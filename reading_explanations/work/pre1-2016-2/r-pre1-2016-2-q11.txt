@@ -1,6 +1,7 @@
 ---
 choices: cherished | administered | disgusted | punctured
 answerText: administered
+reviewed: yes
 ---
 【正解】2 administered（（治療などが）施される）
 【和訳】

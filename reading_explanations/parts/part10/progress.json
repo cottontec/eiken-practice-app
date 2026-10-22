@@ -83,8 +83,8 @@
       "batchId": "pre1-2016-2",
       "target": 41,
       "written": 41,
-      "contentReviewed": 0,
-      "status": "complete_unreviewed",
+      "contentReviewed": 41,
+      "status": "complete_reviewed",
       "blank": 0,
       "issues": 0,
       "checkErrors": 0,
@@ -148,14 +148,14 @@
     {
       "batchId": "pre1-2018-2",
       "target": 41,
-      "written": 12,
+      "written": 19,
       "contentReviewed": 0,
       "status": "in_progress",
-      "blank": 29,
+      "blank": 22,
       "issues": 0,
       "checkErrors": 0,
       "checkWarnings": 0
     }
   ],
-  "updatedAt": "2026-10-22T21:30:39+00:00"
+  "updatedAt": "2026-10-22T21:32:00+00:00"
 }

@@ -1,6 +1,7 @@
 ---
 choices: comprehended | eliminated | pierced | enriched
 answerText: eliminated
+reviewed: yes
 ---
 【正解】2 eliminated（（試合で）敗退させられた、除かれた）
 【和訳】

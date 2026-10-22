@@ -1,6 +1,7 @@
 ---
 choices: sloppy | rotten | victorious | exclusive
 answerText: exclusive
+reviewed: yes
 ---
 【正解】4 exclusive（限られた人しか利用できない、高級な）
 【和訳】

@@ -1,0 +1,31 @@
+---
+choices: The government was able to provide high salaries for workers who could build and maintain residents' homes. | It required families to earn an income, so communities did not have to rely on financial help from the government. | Poor people began learning practical skills at educational institutions, which allowed them to find work all over the city. | It created a demand for construction supplies, which encouraged some residents to start new businesses locally.
+answerText: It created a demand for construction supplies, which encouraged some residents to start new businesses locally.
+---
+【正解】4 It created a demand for construction supplies, which encouraged some residents to start new businesses locally.（その計画は建築資材の需要を生み、そのことが、一部の住民が地元で新しい事業を始めるきっかけになった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What was one result of Operation Site?（オペレーション・サイトの結果の一つは何だったか。）
+1 The government was able to provide high salaries for workers who could build and maintain residents' homes.（政府は、住民の家を建てたり手入れしたりできる労働者に、高い給料を出すことができた。）
+2 It required families to earn an income, so communities did not have to rely on financial help from the government.（その計画は家族に収入を得ることを求めたので、地域社会は政府からのお金の援助にたよらなくてもよかった。）
+3 Poor people began learning practical skills at educational institutions, which allowed them to find work all over the city.（貧しい人々は教育機関で実用的な技術を学び始め、そのおかげで市のいたるところで仕事を見つけることができた。）
+4 It created a demand for construction supplies, which encouraged some residents to start new businesses locally.（その計画は建築資材の需要を生み、そのことが、一部の住民が地元で新しい事業を始めるきっかけになった。）
+【考え方】
+まず見るところ：第2段落の最後の文 To supply local needs, some people also established independent enterprises ～
+第2段落では、オペレーション・サイトのよい結果が並べられています。住民は自分で家を建てなければならなかったので、大工仕事や配管工事の技術を身につけました。最後の文は次のとおりです。
+To supply local needs, some people also established independent enterprises in their area, manufacturing and selling such things as window frames, sewage pipes, and wooden panels.（また、地元の需要を満たすために、自分の地域で独立した事業を起こし、窓わくや下水管、木の板などを作って売る人々もいた）
+enterprise は「事業、企業」、sewage pipe は「下水管（よごれた水を流す管）」です。窓わく・下水管・木の板は、どれも家を建てるための材料です。
+本文と選択肢を対にすると、次のようになります。
+本文 local needs（地元の需要）と、作って売った物が window frames, sewage pipes, and wooden panels → 読み取れること：家を建てるための資材が地元で必要とされた（選択肢 created a demand for construction supplies）
+本文 some people also established independent enterprises in their area（自分の地域で独立した事業を起こす人々もいた）＝ 選択肢 encouraged some residents to start new businesses locally（一部の住民が地元で新しい事業を始めるきっかけになった）
+住民が自分で家を建てる計画だったので、地元で建築資材が必要になった、と考えられます。ですから4が正解です。
+この問題の型：言いかえ（established independent enterprises in their area → start new businesses locally）
+【ほかの選択肢】
+1 本文に書かれていません。本文では、住民が自分たちで家を建て、身につけた技術で近所の人の家づくりを手伝ったと書かれています。政府が労働者に高い給料を出したという話はありません。
+2 本文に書かれていません。計画が家族に収入を得ることを求めたという話はありません。また、第3段落では、政府からの追加の援助がなかったことが批判されており、「援助にたよらなくてよかった」という結果としては書かれていません。
+3 本文と合いません。住民が技術を身につけたのは、自分で家を建てなければならなかったからで、教育機関で学んだのではありません。技術は地域のほかの人々に伝えられたと書かれており、市のいたるところで仕事を見つけたという話もありません。
+【覚えるポイント】
+・enterprise：「事業、企業」。establish an enterprise で「事業を起こす」という意味になります。本文の established independent enterprises in their area が、選択肢では start new businesses locally と言いかえられています。
+・「結果の一つ」をたずねる設問では、よい結果がいくつも並んでいる段落の中から、選択肢の具体的な語（ここでは construction supplies）に当たるもの（window frames など）を探すのが手がかりになります。

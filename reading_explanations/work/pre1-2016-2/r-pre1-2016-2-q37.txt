@@ -1,6 +1,7 @@
 ---
 choices: By changing people's attitudes in order to increase their feelings of responsibility for the people around them. | By educating people about the root causes of serious social problems such as racism and child abuse. | By encouraging people to think for themselves rather than letting themselves be influenced by opinion leaders. | By organizing community events that provide opportunities for people to get to know one another better.
 answerText: By changing people's attitudes in order to increase their feelings of responsibility for the people around them.
+reviewed: yes
 ---
 【正解】1 By changing people's attitudes in order to increase their feelings of responsibility for the people around them.（周りの人々に対する責任感を高めるために、人々の考え方を変えることによって。）
 【和訳】

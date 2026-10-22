@@ -1,6 +1,7 @@
 ---
 choices: ensure there is always enough maple syrup to meet consumer demand for the product, regardless of weather conditions. | protect consumers from dishonest producers who sell small quantities of maple syrup at unreasonably high prices. | help to keep the flavor of maple syrup consistent regardless of the season, which results in a loyal customer base. | prevent producers from selling maple syrup that has been mixed with artificial ingredients.
 answerText: ensure there is always enough maple syrup to meet consumer demand for the product, regardless of weather conditions.
+reviewed: yes
 ---
 【正解】1 ensure there is always enough maple syrup to meet consumer demand for the product, regardless of weather conditions.（天候の状態にかかわらず、消費者がほしいと思う量を満たすのに十分なメープルシロップが、常にあるようにする。）
 【和訳】

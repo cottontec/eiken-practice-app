@@ -1,6 +1,7 @@
 ---
 choices: Bacteria could have an effect on the brain even if they are unable to pass through the blood-brain barrier. | Certain chemicals in the blood-brain barrier prevent sensory nerves from carrying messages from the gut microbiome to the brain. | The bacteria in the gut microbiome are so unlike the substances in the brain that the blood-brain barrier could easily keep them out. | It is more likely that organisms from the digestive system could enter the brain through the blood-brain barrier than through other pathways.
 answerText: Bacteria could have an effect on the brain even if they are unable to pass through the blood-brain barrier.
+reviewed: yes
 ---
 【正解】1 Bacteria could have an effect on the brain even if they are unable to pass through the blood-brain barrier.（細菌は、たとえ血液脳関門を通り抜けられなくても、脳に影響を与えうる。）
 【和訳】

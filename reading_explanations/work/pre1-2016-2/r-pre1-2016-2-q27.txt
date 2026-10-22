@@ -1,6 +1,7 @@
 ---
 choices: number of students per class | training they provide for teachers | classroom environment | focus of their courses
 answerText: classroom environment
+reviewed: yes
 ---
 【正解】3 classroom environment（教室の環境）
 【和訳】

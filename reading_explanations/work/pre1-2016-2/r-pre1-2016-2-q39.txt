@@ -1,6 +1,7 @@
 ---
 choices: Whether the knowledge that it was going to drown would have an effect on how a mouse's gut microbiome functions. | Whether L. rhamnosus could strengthen a mouse's physical condition enough to improve its swimming ability. | Whether increasing the levels of stress hormones in a mouse could reduce the number of microbes in its gut microbiome. | Whether L. rhamnosus could have an effect on a mouse's mental state when it was put in a stressful situation.
 answerText: Whether L. rhamnosus could have an effect on a mouse's mental state when it was put in a stressful situation.
+reviewed: yes
 ---
 【正解】4 Whether L. rhamnosus could have an effect on a mouse's mental state when it was put in a stressful situation.（ストレスのかかる状況に置かれたときのマウスの精神状態に、L・ラムノサスが影響を与えられるかどうか。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: Based on this | Even so | On the other hand | In exchange
 answerText: Based on this
+reviewed: yes
 ---
 【正解】1 Based on this（このことにもとづいて）
 【和訳】

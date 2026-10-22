@@ -1,6 +1,7 @@
 ---
 choices: simmer | mimic | delegate | penetrate
 answerText: delegate
+reviewed: yes
 ---
 【正解】3 delegate（（仕事・権限を）任せる、ゆだねる）
 【和訳】

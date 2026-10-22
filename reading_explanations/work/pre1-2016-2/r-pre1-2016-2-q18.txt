@@ -1,6 +1,7 @@
 ---
 choices: flashy | dazed | sentimental | righteous
 answerText: sentimental
+reviewed: yes
 ---
 【正解】3 sentimental（思い出にかかわる、感情的な）
 【和訳】

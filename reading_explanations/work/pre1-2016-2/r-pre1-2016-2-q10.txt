@@ -1,6 +1,7 @@
 ---
 choices: pace | motion | trait | grip
 answerText: pace
+reviewed: yes
 ---
 【正解】1 pace（ペース、生活や物事の速さ・調子）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: societal conflict | a change in leadership | technological advancement | a growing economy
 answerText: societal conflict
+reviewed: yes
 ---
 【正解】1 societal conflict（社会の中の争い）
 【和訳】

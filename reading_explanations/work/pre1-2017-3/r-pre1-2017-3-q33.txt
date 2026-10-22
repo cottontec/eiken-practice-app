@@ -1,0 +1,33 @@
+---
+choices: human settlements can help provide valuable manpower for locating and capturing pests. | although islands can be successfully cleared of pests, continued efforts may be needed after the project's completion. | eliminating certain pest species can make it easier to find and kill other pest species that hide in the same places. | standard pest-control methods can result in some pest species increasing in number after others are eliminated.
+answerText: although islands can be successfully cleared of pests, continued efforts may be needed after the project's completion.
+---
+【正解】2 although islands can be successfully cleared of pests, continued efforts may be needed after the project's completion.（島から有害動物をうまく取り除くことはできるが、計画が終わったあとも取り組みを続ける必要があるかもしれない（ということ）。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：The examples of Rangitoto and Motutapu show that（ランギトト島とモツタプ島の例が示しているのは、）
+1 human settlements can help provide valuable manpower for locating and capturing pests.（人間の居住地は、有害動物を見つけてとらえるための貴重な人手を提供するのに役立つことがある（ということ）。）
+2 although islands can be successfully cleared of pests, continued efforts may be needed after the project's completion.（島から有害動物をうまく取り除くことはできるが、計画が終わったあとも取り組みを続ける必要があるかもしれない（ということ）。）
+3 eliminating certain pest species can make it easier to find and kill other pest species that hide in the same places.（ある種類の有害動物を根絶すると、同じ場所に隠れているほかの種類の有害動物を見つけて殺すことがより簡単になることがある（ということ）。）
+4 standard pest-control methods can result in some pest species increasing in number after others are eliminated.（標準的な有害動物の駆除の方法では、ある種類の有害動物が根絶されたあと、別の種類の有害動物の数が増えることがある（ということ）。）
+【考え方】
+まず見るところ：第2段落の The daily ferry ～ has become a cause for concern, however と but to date they remain pest-free
+第2段落で、2つの島での取り組みが説明されています。まず、根絶がうまくいったことが書かれています。
+Rats were eliminated in weeks, followed by rabbits and other pests（ネズミは数週間で根絶され、続いてウサギやほかの有害動物も根絶された）
+次に、根絶のあとの心配が書かれています。
+The daily ferry linking the two islands to Auckland has become a cause for concern, however, as hitchhiking pests have to be regularly prevented from sneaking onto the islands, but to date they remain pest-free.（しかし、2つの島とオークランドを結ぶ毎日のフェリーが心配の種になっている。便乗してくる有害動物が島にこっそり入りこむのを、定期的に防がなければならないからだ。それでも、今のところ、島々には有害動物がいないままである）
+hitchhiking pests は「ヒッチハイクする有害動物」、つまりフェリーにまぎれて乗ってくる有害動物のことです。to date は「今のところ」、pest-free は「有害動物がいない」という意味です。
+本文と選択肢を対にすると、次のようになります。
+本文 Rats were eliminated ～、they remain pest-free（根絶され、有害動物がいないままである）＝ 選択肢 islands can be successfully cleared of pests（島から有害動物をうまく取り除くことができる）
+本文 hitchhiking pests have to be regularly prevented from sneaking onto the islands（入りこむのを定期的に防がなければならない）→ 読み取れること：根絶が終わったあとも取り組みを続ける必要がある（選択肢 continued efforts may be needed after the project's completion）
+ですから2が正解です。
+この問題の型：言いかえ（regularly prevented → continued efforts）
+【ほかの選択肢】
+1 本文と反対です。本文には efforts were complicated by human settlements, which provided hiding spots（人間の居住地が隠れ場所となったため、取り組みは複雑になった）とあり、居住地は取り組みをむずかしくしたものとして書かれています。人手を提供したという話はありません。
+3 本文に書かれていません。ネズミのあとにウサギなどが根絶されたという順番は書かれていますが、ある種類を根絶したことでほかの種類を見つけやすくなったという話はありません。また、隠れ場所として書かれているのは人間の居住地です。
+4 本文に書かれていません。2つの島では、ネズミに続いてウサギやほかの有害動物も根絶されたと書かれており、ある種類が増えたという話はありません。
+【覚えるポイント】
+・to date：「今のところ、これまでのところ」。remain pest-free（有害動物がいないままである）と組み合わせて、「今のところうまくいっている」ことを表しています。
+・「例が示していること」をたずねる設問では、その例の段落の中の however（しかし）の前後で「うまくいった点」と「心配な点」の両方を確かめるのが手がかりになります。

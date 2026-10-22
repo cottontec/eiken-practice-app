@@ -1,6 +1,7 @@
 ---
 choices: enhanced | affiliated | bothered | evaluated
 answerText: affiliated
+reviewed: yes
 ---
 【正解】2 affiliated（提携している、つながりがある）
 【和訳】

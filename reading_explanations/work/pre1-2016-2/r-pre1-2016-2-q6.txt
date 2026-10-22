@@ -1,6 +1,7 @@
 ---
 choices: overhaul | compliment | disown | surrender
 answerText: compliment
+reviewed: yes
 ---
 【正解】2 compliment（ほめる）
 【和訳】

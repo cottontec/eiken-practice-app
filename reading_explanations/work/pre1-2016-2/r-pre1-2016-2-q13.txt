@@ -1,6 +1,7 @@
 ---
 choices: detain | deflect | uphold | elect
 answerText: uphold
+reviewed: yes
 ---
 【正解】3 uphold（（約束・決まりなどを）守る、支持する）
 【和訳】

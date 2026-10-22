@@ -1,6 +1,7 @@
 ---
 choices: obstacle | texture | fragrance | torch
 answerText: obstacle
+reviewed: yes
 ---
 【正解】1 obstacle（障害、じゃまになるもの）
 【和訳】

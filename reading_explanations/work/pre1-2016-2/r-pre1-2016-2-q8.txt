@@ -1,6 +1,7 @@
 ---
 choices: impassable | immeasurable | impractical | immediate
 answerText: impractical
+reviewed: yes
 ---
 【正解】3 impractical（実際的でない、実行できそうにない）
 【和訳】

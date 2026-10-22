@@ -1,0 +1,31 @@
+---
+choices: tame | penetrate | despise | authorize
+answerText: authorize
+---
+【正解】4 authorize（認める、許可する）
+【和訳】
+（英文）
+Banks will usually only ［authorize］ loans for people who have good financial histories. If you have had money troubles, it is unlikely they will loan you any money.
+（訳）
+銀行はふつう、お金に関するこれまでの記録がよい人に対してだけ、貸し付けを（認めます）。これまでにお金のトラブルがあったことがあれば、銀行があなたにお金を貸してくれる見込みは低いでしょう。
+（選択肢の意味）
+1 tame：（動物を）飼いならす
+2 penetrate：つらぬく、しみこむ
+3 despise：軽蔑する（ばかにして見下す）
+4 authorize：（正式に）認める、許可する
+【考え方】
+まず見るところ：空所の後ろの loans for people who have good financial histories と、後半の文の it is unlikely they will loan you any money
+空所のある文は次のとおりです。
+Banks will usually only (　) loans for people who have good financial histories.（銀行はふつう、お金に関するこれまでの記録がよい人に対してだけ、貸し付けを（　））
+loan は名詞で「貸し付け、ローン（お金を貸すこと）」です。financial history は「お金に関するこれまでの記録」で、借りたお金をきちんと返してきたかどうかなどのことです。only があるので、「記録がよい人にだけ」という条件がついています。
+後半の文は、その反対の場合を説明しています。
+If you have had money troubles, it is unlikely they will loan you any money.（これまでにお金のトラブルがあったことがあれば、銀行があなたにお金を貸してくれる見込みは低い）
+記録がよい人にはお金を貸し、トラブルがあった人には貸さない、という話です。ですから、空所には「（貸し付けを）認める、許可する」という意味の語が入ります。authorize は「（正式に）認める、許可する」という意味なので、4が正解です。
+この問題の型：対比（記録がよい人には認める⇔トラブルのあった人には貸さない）
+【ほかの選択肢】
+1 tame は「（動物を）飼いならす」です。「貸し付けを飼いならす」となり、意味が通りません。
+2 penetrate は「つらぬく、しみこむ」です。「貸し付けをつらぬく」となり、意味が通りません。
+3 despise は「軽蔑する」です。「記録がよい人に対してだけ貸し付けを軽蔑する」となり、記録がよくない人にはお金を貸さないという後半の文とつながりません。
+【覚えるポイント】
+・authorize：「（正式に）認める、許可する」。名詞は authorization（許可）です。
+・only（～だけ）がついた文のあとに、それ以外の場合を説明する文が続くときは、その2つの文を比べると空所の意味をしぼりこむ手がかりになります。

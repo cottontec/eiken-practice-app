@@ -1,0 +1,29 @@
+---
+choices: count for | go back on | sell out | do away with
+answerText: count for
+---
+【正解】1 count for（〈not count for anything で〉何の価値もない、何の役にも立たない）
+【和訳】
+（英文）
+Kevin realized his long years of service to the company did not ［count for］ anything when he was suddenly fired as part of a cost-cutting measure.
+（訳）
+ケビンは、経費削減策の一つとして突然解雇されたとき、会社での長年の勤務が何の（意味も持たなかった）ことに気づいた。
+（選択肢の意味）
+1 count for：（～の）価値がある、重みを持つ
+2 go back on：（約束などを）破る
+3 sell out：売り切る、売り切れる
+4 do away with：廃止する、取り除く
+【考え方】
+まず見るところ：空所の前の his long years of service to the company と、後ろの when he was suddenly fired
+空所の文の主語は his long years of service to the company（会社での彼の長年の勤務）です。何年も会社のために働いてきたのに、ケビンは次のようなことになりました。
+when he was suddenly fired as part of a cost-cutting measure（経費削減策の一部として、突然解雇されたとき）
+fire は「解雇する（やめさせる）」、cost-cutting measure は「経費（かかるお金）を減らすための対策」です。長く働いてきたことは、解雇を防ぐ役には立たなかったのです。
+count for ～ は「～の価値がある」で、not count for anything で「何の価値もない」となります。よって1が正解です。
+この問題の型：熟語・決まった形（not count for anything：何の価値もない）
+【ほかの選択肢】
+2 go back on は「（約束などを）破る」です。「長年の勤務は何の約束も破らなかった」となり、主語の「勤務」と合いません。
+3 sell out は「売り切る」です。「長年の勤務が何も売り切らなかった」では意味が通りません。
+4 do away with は「廃止する」です。「長年の勤務が何も廃止しなかった」では、突然解雇されたこととつながりません。
+【覚えるポイント】
+・not count for anything：「何の価値もない、何の役にも立たない」。be fired：「解雇される」。
+・句動詞（動詞と前置詞などが組になって1つの意味を表す語句）の問題では、空所の文の主語（ここでは長年の勤務）と組み合わせて意味が通るかを確かめることが手がかりになります。

@@ -1,0 +1,31 @@
+---
+choices: creek | accord | venue | estate
+answerText: accord
+---
+【正解】2 accord（協定、合意）
+【和訳】
+（英文）
+Leaders in both countries hope the newly signed peace ［accord］ will not be broken. No one wants the fighting to carry on any longer.
+（訳）
+両国の指導者たちは、新たに署名された平和（協定）が破られないことを願っています。これ以上戦いが続くことを望んでいる人はだれもいません。
+（選択肢の意味）
+1 creek：小川
+2 accord：協定、合意
+3 venue：（行事などの）開催地、会場
+4 estate：（広い）地所；財産
+【考え方】
+まず見るところ：空所の前の newly signed peace と、後ろの will not be broken
+空所のある文は次のとおりです。
+Leaders in both countries hope the newly signed peace (　) will not be broken.（両国の指導者たちは、新たに署名された平和の（　）が破られないことを願っている）
+newly signed は「新たに署名された」です。署名するものは、約束を書いた文書です。さらに、will not be broken（破られない）とあるので、空所には「破ることのできる約束」を表す語が入ります。
+後半の文も確かめます。
+No one wants the fighting to carry on any longer.（これ以上戦いが続くことを望んでいる人はだれもいない）
+carry on は「続く」です。戦いを終わらせるために、両国が約束を結んだという流れです。accord は「協定、合意（国どうしなどが正式に取り決めた約束）」という意味で、peace accord で「平和協定」となるので、2が正解です。
+この問題の型：語の意味・組み合わせ（signed・broken と accord）
+【ほかの選択肢】
+1 creek は「小川」です。小川に署名することはできず、「平和の小川が破られない」も意味が通りません。
+3 venue は「開催地、会場」です。会場に署名したり、会場を破ったりはしないので、合いません。
+4 estate は「地所（広い土地）、財産」です。土地に署名するのではなく、戦いをやめる約束の話とつながりません。
+【覚えるポイント】
+・peace accord：「平和協定」。accord は agreement（合意、協定）とほぼ同じ意味です。
+・sign（署名する）と break（破る）の両方といっしょに使える名詞は、「約束、取り決め」を表す語であることが多く、答えを決める手がかりになります。

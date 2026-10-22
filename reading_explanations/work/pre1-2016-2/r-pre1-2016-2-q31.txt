@@ -1,6 +1,7 @@
 ---
 choices: their ties with other groups | a fear of outsiders | far-reaching natural disasters | the attraction of other areas
 answerText: the attraction of other areas
+reviewed: yes
 ---
 【正解】4 the attraction of other areas（ほかの地域の魅力）
 【和訳】

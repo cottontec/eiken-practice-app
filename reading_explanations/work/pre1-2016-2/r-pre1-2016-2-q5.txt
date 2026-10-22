@@ -1,6 +1,7 @@
 ---
 choices: paired | mocked | puzzled | notified
 answerText: mocked
+reviewed: yes
 ---
 【正解】2 mocked（からかわれる、ばかにされる）
 【和訳】

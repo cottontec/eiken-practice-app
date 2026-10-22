@@ -1,6 +1,7 @@
 ---
 choices: are often too afraid to take risks in situations where there is a chance they may be injured themselves. | tend to decide whether they will get involved in a particular situation based on the reactions of others. | are more likely to place their own safety above the needs of others in emergency situations such as fires. | tend to react to dangerous situations by panicking when they are part of a group.
 answerText: tend to decide whether they will get involved in a particular situation based on the reactions of others.
+reviewed: yes
 ---
 【正解】2 tend to decide whether they will get involved in a particular situation based on the reactions of others.（ある状況にかかわるかどうかを、ほかの人の反応にもとづいて決める傾向がある。）
 【和訳】
@@ -25,7 +26,7 @@ conclude は「結論づける」という意味です。人は、周りの人�
 【ほかの選択肢】
 1 本文にありません。実験の煙は火事を示すものでしたが、自分がけがをするのをこわがったという話は書かれていません。二人の結論は、周りの人の反応についてのものです。
 3 本文にありません。参加者が自分の安全を優先したとは書かれていません。報告しなかったのは、周りの人が反応していなかったためだと結論づけられています。
-4 本文と合いません。ほかの人と一緒のとき、参加者はあわてふためいたのではなく、むしろ反応せず、報告したのはわずか10パーセントでした。
+4 本文にありません。参加者があわてたとは書かれていません。ほかの人と一緒のときについて書かれているのは、煙を報告した参加者がわずか10パーセントだったということです。
 【覚えるポイント】
 ・respond / react：どちらも「反応する」。名詞の形 reaction（反応）で言いかえられることがあります。
 ・「実験が何を示したか」をたずねる設問では、本文の concluded that ～ や found that ～ のあとをまず読むと、答えの場所を見つける手がかりになります。

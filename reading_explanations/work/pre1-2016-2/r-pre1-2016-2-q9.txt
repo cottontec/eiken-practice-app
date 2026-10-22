@@ -1,6 +1,7 @@
 ---
 choices: recollect | deteriorate | reveal | liberate
 answerText: liberate
+reviewed: yes
 ---
 【正解】4 liberate（解放する、自由にする）
 【和訳】
@@ -10,7 +11,7 @@ Soldiers moved quickly to ［liberate］ the political prisoners after the dicta
 独裁者が打ち負かされたあと、兵士たちは政治犯たちを（解放する）ために、すばやく動いた。歓声をあげる群衆は、囚人たちの待ち望まれていた自由を祝った。
 （選択肢の意味）
 1 recollect：思い出す
-2 deteriorate：悪化する、悪化させる
+2 deteriorate：悪化する（だんだん状態が悪くなる）
 3 reveal：明らかにする
 4 liberate：解放する、自由にする
 【考え方】
@@ -21,7 +22,7 @@ long-awaited は「長い間待ち望まれていた」、freedom は「自由�
 この問題の型：言いかえ（liberate → freedom）
 【ほかの選択肢】
 1 recollect は「思い出す」です。「兵士たちが政治犯たちを思い出すためにすばやく動いた」となり、囚人たちの自由を祝う後ろの文とつながりません。
-2 deteriorate は「悪化する、悪化させる」です。囚人たちの状態を悪くするのでは、人々が歓声をあげて自由を祝うことと反対になります。
+2 deteriorate は「悪化する（だんだん状態が悪くなる）」で、後ろに the political prisoners のような「～を」に当たる語を直接つなげて使う語ではありません。意味の面でも、人々が歓声をあげて自由を祝っていることと反対になります。
 3 reveal は「明らかにする」です。「政治犯たちを明らかにする」となり、何を明らかにするのか意味が通らず、自由を祝う話にもつながりません。
 【覚えるポイント】
 ・liberate：「解放する、自由にする」。後ろの文の freedom（自由）と結びつく語です。

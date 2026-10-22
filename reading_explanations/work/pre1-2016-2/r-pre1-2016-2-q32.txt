@@ -1,6 +1,7 @@
 ---
 choices: It has failed to follow government guidelines designed to control the number of producers who can sell maple syrup. | Producers believe it has cheated them by keeping a higher percentage of the profits than the regulations allow. | It has forced producers to accept strict conditions, including delays in payment and also fines when they do not cooperate. | Since it increased the fees that it charges to producers, many of them have been in danger of going out of business.
 answerText: It has forced producers to accept strict conditions, including delays in payment and also fines when they do not cooperate.
+reviewed: yes
 ---
 【正解】3 It has forced producers to accept strict conditions, including delays in payment and also fines when they do not cooperate.（連盟は生産者に、支払いの遅れや、協力しないときの罰金を含む厳しい条件を受け入れさせてきた。）
 【和訳】

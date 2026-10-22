@@ -1,6 +1,7 @@
 ---
 choices: disagreeable | vulnerable | thoughtless | clueless
 answerText: vulnerable
+reviewed: yes
 ---
 【正解】2 vulnerable（（被害などを）受けやすい、弱い）
 【和訳】

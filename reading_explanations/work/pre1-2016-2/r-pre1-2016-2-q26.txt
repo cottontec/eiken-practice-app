@@ -1,6 +1,7 @@
 ---
 choices: rapidly increases | causes parents to worry about | may lead to a drop in | seldom improves
 answerText: seldom improves
+reviewed: yes
 ---
 【正解】4 seldom improves（めったに向上させない）
 【和訳】

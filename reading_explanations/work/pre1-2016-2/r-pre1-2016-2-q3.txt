@@ -1,6 +1,7 @@
 ---
 choices: outlook | influx | uproar | oversight
 answerText: uproar
+reviewed: yes
 ---
 【正解】3 uproar（大騒ぎ、激しい抗議の声）
 【和訳】

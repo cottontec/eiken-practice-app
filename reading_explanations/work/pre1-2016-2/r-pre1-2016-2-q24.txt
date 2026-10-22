@@ -1,6 +1,7 @@
 ---
 choices: tune in | play up | check off | call on
 answerText: tune in
+reviewed: yes
 ---
 【正解】1 tune in（（テレビ・ラジオの）チャンネルを合わせる、番組を見る）
 【和訳】

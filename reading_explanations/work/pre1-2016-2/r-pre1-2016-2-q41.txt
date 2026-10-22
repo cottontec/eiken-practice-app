@@ -1,6 +1,7 @@
 ---
 choices: They have improved humans' ability to survive in difficult living situations as a way to increase their own chances of survival. | They have changed human behavior in ways that make it easier for them to move to a large number of new hosts. | They have increased the differences between individual humans so that there is a greater chance they can find an appropriate host. | They have altered the way humans digest food in order to make it easier for them to live inside people.
 answerText: They have changed human behavior in ways that make it easier for them to move to a large number of new hosts.
+reviewed: yes
 ---
 【正解】2 They have changed human behavior in ways that make it easier for them to move to a large number of new hosts.（微生物は、自分たちが多くの新しい宿主へ移りやすくなるように、人間の行動を変えてきた。）
 【和訳】

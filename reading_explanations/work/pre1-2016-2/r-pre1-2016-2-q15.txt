@@ -1,6 +1,7 @@
 ---
 choices: blameless | linear | paternal | irrational
 answerText: irrational
+reviewed: yes
 ---
 【正解】4 irrational（理屈に合わない、理性的でない）
 【和訳】

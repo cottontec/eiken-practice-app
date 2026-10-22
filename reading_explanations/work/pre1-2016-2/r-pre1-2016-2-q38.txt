@@ -1,6 +1,7 @@
 ---
 choices: Depression and anxiety could be a more significant cause of digestive problems than previously thought. | There is a possibility that altering the gut microbiome could successfully treat various mood disorders in humans. | Dietary supplements commonly used to treat stomach illnesses can prevent the stomach from functioning properly. | The gut microbiome of people who use dietary supplements tends to contain a number of chemicals that negatively affect mood.
 answerText: There is a possibility that altering the gut microbiome could successfully treat various mood disorders in humans.
+reviewed: yes
 ---
 【正解】2 There is a possibility that altering the gut microbiome could successfully treat various mood disorders in humans.（腸内マイクロバイオームを変えることで、人間のさまざまな気分の障害をうまく治療できる可能性がある。）
 【和訳】

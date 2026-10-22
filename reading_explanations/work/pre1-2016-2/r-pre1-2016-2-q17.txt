@@ -1,6 +1,7 @@
 ---
 choices: columns | constellations | councils | compartments
 answerText: compartments
+reviewed: yes
 ---
 【正解】4 compartments（仕切られた区画、仕切り）
 【和訳】

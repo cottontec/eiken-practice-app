@@ -1,6 +1,7 @@
 ---
 choices: They have helped rival producers get more customers because storing maple syrup for long periods affects its quality. | They may cause some customers to stop buying maple syrup because they think producers are being treated unfairly. | They have encouraged Quebec's producers to plant fewer maple trees, which is decreasing overall production. | They may allow rival producers to take business away from Quebec's producers in the future.
 answerText: They may allow rival producers to take business away from Quebec's producers in the future.
+reviewed: yes
 ---
 【正解】4 They may allow rival producers to take business away from Quebec's producers in the future.（規則によって、将来、競争相手の生産者がケベックの生産者から商売を奪うことになるかもしれない。）
 【和訳】

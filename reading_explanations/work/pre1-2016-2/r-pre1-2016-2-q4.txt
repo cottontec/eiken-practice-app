@@ -1,6 +1,7 @@
 ---
 choices: cynical | resilient | outdated | assertive
 answerText: cynical
+reviewed: yes
 ---
 【正解】1 cynical（疑ってかかる、皮肉な見方をする）
 【和訳】

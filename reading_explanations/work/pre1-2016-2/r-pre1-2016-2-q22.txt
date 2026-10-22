@@ -1,6 +1,7 @@
 ---
 choices: pull off | free up | see off | put down
 answerText: pull off
+reviewed: yes
 ---
 【正解】1 pull off（（難しいことを）やってのける、成功させる）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: literally | suitably | bitterly | tranquilly
 answerText: literally
+reviewed: yes
 ---
 【正解】1 literally（文字どおりに）
 【和訳】
@@ -28,4 +29,4 @@ Bは「本当になぐるつもりはなく、気持ちを言葉にしただけ�
 4 tranquilly は「静かに、落ち着いて」です。「そんなに落ち着いて受け取らないで」となり、本気にしたAに言う言葉としては合いません。
 【覚えるポイント】
 ・take ～ literally：「～を文字どおりに受け取る」。
-・mean it：「本気で言う」。相手が本気かどうかを確かめる会話では、literally（文字どおりに）のような語が答えになることが多いので、Bが「本気ではなかった」と言っているかどうかが手がかりになります。
+・mean it：「本気で言う」。Aが「本気だったの？」とたずね、Bが「怒りを言葉にしただけ」と答える流れでは、Don't take ～ literally（文字どおりに受け取らないで）の形が手がかりになります。

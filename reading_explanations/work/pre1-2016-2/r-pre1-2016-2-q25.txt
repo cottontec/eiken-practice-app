@@ -1,6 +1,7 @@
 ---
 choices: banks on | stands for | turns down | springs from
 answerText: springs from
+reviewed: yes
 ---
 【正解】4 springs from（～から生じる、～に由来する）
 【和訳】
@@ -17,7 +18,7 @@ Mario's interest in Chinese art ［springs from］ the years he spent living in 
 まず見るところ：空所の後ろの the years he spent living in Beijing と、後ろの文の In his free time, he often visited local art galleries and museums.
 Mario's interest in Chinese art ( ) the years he spent living in Beijing as a university student.（マリオの中国美術への関心は、大学生として北京で暮らした年月（　））
 In his free time, he often visited local art galleries and museums.（自由な時間には、よく地元の画廊や美術館を訪れていた）
-後ろの文から、マリオは北京にいた間、中国の美術にたくさん触れていたことが分かります。ですから、中国美術への関心は北京で暮らした年月がきっかけで生まれた、と考えられます。spring from ～ は「～から生じる、～に由来する」という意味なので、4が正解です。
+後ろの文から、マリオは自由な時間によく地元の画廊や美術館を訪れていたことが分かります。ですから、中国美術への関心は北京で暮らした年月がきっかけで生まれた、と考えられます。spring from ～ は「～から生じる、～に由来する」という意味なので、4が正解です。
 この問題の型：熟語・決まった形（spring from ～）／因果（北京での暮らし→中国美術への関心）
 【ほかの選択肢】
 1 banks on は「～を当てにする」です。「中国美術への関心が北京で暮らした年月を当てにしている」となり、意味が通りません。

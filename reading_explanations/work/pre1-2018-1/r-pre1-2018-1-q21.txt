@@ -1,0 +1,31 @@
+---
+choices: ascend | betray | cherish | uphold
+answerText: betray
+---
+【正解】2 betray（裏切る）
+【和訳】
+（英文）
+A: I'm sorry, Becky. I shouldn't have told anyone about your secret date with Marc.
+B: How could you ［betray］ me like that? I'll never talk to you about my private life again.
+（訳）
+A：ごめんね、ベッキー。マークとの秘密のデートのことを、だれにも話すべきではなかった。
+B：どうしてあんなふうに私を（裏切る）ことができたの？　もう二度と、あなたに私生活のことは話さないから。
+（選択肢の意味）
+1 ascend：登る、上がる
+2 betray：裏切る、（秘密を）もらす
+3 cherish：大切にする
+4 uphold：支持する、守る
+【考え方】
+まず見るところ：Aの I shouldn't have told anyone about your secret date と、Bの I'll never talk to you about my private life again.
+Aは、ベッキーの秘密のデートのことをほかの人に話してしまい、謝っています。shouldn't have ～ は「～するべきではなかった（のに、してしまった）」という意味です。
+Bは怒って、次のように言っています。
+I'll never talk to you about my private life again.（もう二度とあなたに私生活のことは話さない）
+信じて話した秘密を、ほかの人にもらされたのですから、Bは「裏切られた」と感じています。How could you ～? は「どうして～できたの？（ひどい）」と相手を責める言い方です。betray は「裏切る」なので、2が正解です。
+この問題の型：語の意味・組み合わせ（秘密をもらす ＝ 信頼を裏切る）
+【ほかの選択肢】
+1 ascend は「登る」です。「どうしてあんなふうに私を登れたの？」では意味が通りません。
+3 cherish は「大切にする」です。秘密をもらした相手を責める場面なので、反対の意味になってしまいます。
+4 uphold は「支持する、守る」です。「どうしてあんなふうに私を支持できたの？」では、秘密をもらされて怒っている流れと合いません。
+【覚えるポイント】
+・betray：「裏切る」。How could you ～?：「どうして～できたの？」と相手を責める言い方。shouldn't have ～：「～するべきではなかった」。
+・How could you ～? のように相手を責める文では、空所に悪い行いを表す語が入ることが多く、前の発言（ここでは秘密を話したこと）がその中身の手がかりになります。

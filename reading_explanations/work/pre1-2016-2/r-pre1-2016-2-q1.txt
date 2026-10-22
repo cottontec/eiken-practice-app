@@ -1,6 +1,7 @@
 ---
 choices: mobility | oddity | sensibility | variability
 answerText: mobility
+reviewed: yes
 ---
 【正解】1 mobility（動き回れること、移動する力）
 【和訳】
