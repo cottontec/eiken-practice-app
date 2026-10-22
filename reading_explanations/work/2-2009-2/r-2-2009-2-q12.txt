@@ -1,6 +1,7 @@
 ---
 choices: came to light | kept in touch | burst into tears | lost her way
 answerText: burst into tears
+reviewed: yes
 ---
 【正解】3 burst into tears（突然泣き出した）
 【和訳】

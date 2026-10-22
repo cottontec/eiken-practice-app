@@ -2,6 +2,7 @@
 choices: be | could not | sure | getting | of
 answerText: be
 order: 2 1 3 5 4
+reviewed: yes
 ---
 【正解】1 be（この問題の2番目）
 【完成文】

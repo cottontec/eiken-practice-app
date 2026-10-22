@@ -1,6 +1,7 @@
 ---
 choices: counted | described | delayed | reduced
 answerText: reduced
+reviewed: yes
 ---
 【正解】4 reduced（～を減らした）
 【和訳】

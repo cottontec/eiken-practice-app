@@ -1,6 +1,7 @@
 ---
 choices: the U.S. Navy began using whales to explore the ocean. | an environmental group discovered a new kind of whale. | some whales died because of sonar used by the U.S. Navy. | a new sonar system was used to find some lost whales.
 answerText: some whales died because of sonar used by the U.S. Navy.
+reviewed: yes
 ---
 【正解】3 some whales died because of sonar used by the U.S. Navy.（アメリカ海軍が使ったソナーのせいで、何頭かのクジラが死んだ。）
 【和訳】

@@ -2,6 +2,7 @@
 choices: cheap | from | but it | far | was
 answerText: was
 order: 3 5 4 2 1
+reviewed: yes
 ---
 【正解】5 was（この問題の2番目）
 【完成文】

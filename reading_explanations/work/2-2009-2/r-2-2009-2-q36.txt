@@ -1,6 +1,7 @@
 ---
 choices: read out parts of his book during the interview. | bring a copy of his book to show members of the audience. | avoid telling viewers too much about the story in his book. | tell viewers that he has not appeared on a talk show before.
 answerText: avoid telling viewers too much about the story in his book.
+reviewed: yes
 ---
 【正解】3 avoid telling viewers too much about the story in his book.（自分の本の物語について、視聴者に話しすぎないようにする（ように助言している）。）
 【和訳】

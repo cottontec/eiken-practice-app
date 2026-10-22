@@ -1,6 +1,7 @@
 ---
 choices: purchase | rename | improve | transfer
 answerText: improve
+reviewed: yes
 ---
 【正解】3 improve（～をよりよくする、～を改善する）
 【和訳】

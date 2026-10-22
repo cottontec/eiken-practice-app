@@ -1,0 +1,20 @@
+---
+choices: seemed | to | lost | have | he
+answerText: seemed
+order: 5 1 2 4 3
+---
+【正解】1 seemed（この問題の2番目）
+【完成文】
+Dave was worried when he got to the airport because ( he seemed to have lost ) his plane ticket.
+並べ方：5 he → 1 seemed → 2 to → 4 have → 3 lost（2番目は1、4番目は4）
+【和訳】
+デイブは空港に着いたとき心配になりました。飛行機のチケット（航空券）をなくしてしまったようだったからです。幸い、彼はそれをリュックの底で見つけました。
+【考え方】
+まず話の流れを確かめます。デイブは空港で was worried（心配していた）、そして次の文で Luckily, he found it in the bottom of his backpack.（幸い、彼はそれをリュックの底で見つけた）とあります。it は his plane ticket（航空券）です。あとで見つかったのですから、空所の部分は「航空券をなくしてしまったようだった」という内容になります。
+次に形です。because のあとには主語と動詞が必要なので、1番目は 5 he、2番目は動詞の 1 seemed です。seem to ～ は「～のようだ」という意味です。
+seemed のあとに 2 to を置き、さらに 4 have と 3 lost を続けて to have lost とします。lost は lose（なくす）の過去分詞（have と組んで「～してしまった」を表す形）です。seem to have lost で「（そのときより前に）なくしてしまったようだ」となり、空所のあとの his plane ticket につながります。
+したがって2番目は1 seemed です。
+まちがえやすいのは、he のあとに lost を置いて he lost to have seemed … とする並べ方です。これでは意味が通りません。また、本当になくしたわけではなく、あとで見つかったのですから、「なくしたようだった」と seemed を使う形が話に合います。
+【覚えるポイント】
+・seem to have ＋ 過去分詞：「（それより前に）～してしまったようだ」。
+・Luckily：「幸い、運よく」。

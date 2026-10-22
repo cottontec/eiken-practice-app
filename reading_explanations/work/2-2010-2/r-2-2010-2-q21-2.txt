@@ -1,0 +1,22 @@
+---
+choices: the | of | that's | out | question
+answerText: out
+order: 3 4 2 1 5
+---
+【正解】4 out（この問題の2番目）
+【完成文】
+But you know ( that's out of the question ) with my salary, Vicky. New TVs are so expensive these days.
+並べ方：3 that's → 4 out → 2 of → 1 the → 5 question（2番目は4、4番目は1）
+【和訳】
+A：ねえ、もっと大きいテレビを買おうよ。うちのテレビはすごく小さいもの。
+B：でも、私の給料ではそんなことはとても無理だって分かっているでしょう、ヴィッキー。新しいテレビは最近とても高いんだから。
+【考え方】
+まず話の流れを確かめます。Aは大きいテレビを買おうと言っています。Bは But（でも）で答え始め、最後に New TVs are so expensive these days.（新しいテレビは最近とても高い）と言っています。Bは「大きいテレビを買うのは無理だ」と言いたいのだと分かります。
+選択肢の 4 out、2 of、1 the、5 question を並べると、out of the question（問題外だ、とても無理だ）という決まった言い方ができます。
+では、この言い方の主語は何でしょうか。3 that's は that is の短い形で、「それは～だ」となります。that は「大きいテレビを買うこと」を指します。そこで that's を先頭に置き、that's out of the question（それは問題外だ）とします。you know（that）～ は「～だと分かっているでしょう」という意味で、know のあとに that's ～ の文がそのまま続きます。
+最後の with my salary（私の給料では）は、「私の給料を考えると」という意味で文の終わりにつながります。
+したがって2番目は4 out です。
+まちがえやすいのは、that's the question と先に続けてしまい、残った out of を最後に回す並べ方です。that's the question out of では意味の通る文になりません。out of the question は、この順番のまま覚えておく決まった言い方です。
+【覚えるポイント】
+・out of the question：「問題外だ、とても無理だ」。
+・you know (that) ～：「～だと分かっているでしょう」。

@@ -1,6 +1,7 @@
 ---
 choices: Similarly | Usually | Surprisingly | Recently
 answerText: Surprisingly
+reviewed: yes
 ---
 【正解】3 Surprisingly（意外なことに、驚いたことに）
 【和訳】

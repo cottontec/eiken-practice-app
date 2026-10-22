@@ -1,0 +1,20 @@
+---
+choices: chemicals | of | be | free | to
+answerText: be
+order: 5 3 4 2 1
+---
+【正解】3 be（この問題の2番目）
+【完成文】
+She wants her food ( to be free of chemicals ).
+並べ方：5 to → 3 be → 4 free → 2 of → 1 chemicals（2番目は3、4番目は2）
+【和訳】
+デボラは自分の健康に気をつかっていて、健康食品の店で自然の材料を買います。彼女は、自分の食べ物に化学物質が入っていないことを望んでいます。
+【考え方】
+まず、1文目の内容を確かめます。デボラは cares about her health（健康に気をつかっている）ので、natural ingredients（自然の材料）を買っています。ingredient は「（料理の）材料」です。ですから、彼女の食べ物には「体によくないものが入っていてほしくない」と考えられます。
+次に文の形を考えます。空所の前は She wants her food です。want ＋ もの ＋ to ～ で「ものが～であってほしい」という形になります。そこで 5 to を1番目に置き、そのあとに動詞の元の形の 3 be を続けます。
+be のあとには 4 free を置きます。free of ～ は「～が含まれていない、～がない」という意味です。2 of と 1 chemicals（化学物質）を続けると、to be free of chemicals（化学物質が含まれていないこと）となります。
+したがって2番目は3 be です。
+まちがえやすいのは、to のあとにすぐ free を置いて to free … とする並べ方です。to のあとには動詞の元の形が必要で、free だけでは「化学物質がない状態であってほしい」という意味を作れません。be を入れて to be free とします。
+【覚えるポイント】
+・want ＋ もの ＋ to ～：「ものが～であってほしい」。
+・be free of ～：「～が含まれていない、～がない」。

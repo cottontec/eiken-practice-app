@@ -1,6 +1,7 @@
 ---
 choices: The National Park Service recently sold the Gettysburg site. | Park officials used old maps to decide what objects to remove. | There will be no trees left in the park after the project is finished. | Taking care of nature is not part of Don Barger's job.
 answerText: Park officials used old maps to decide what objects to remove.
+reviewed: yes
 ---
 【正解】2 Park officials used old maps to decide what objects to remove.（公園の職員は、どの物を取り除くかを決めるために古い地図を使った。）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: for humans to make noises that are less stressful to animals. | for people to avoid the areas whales normally use for feeding. | for conservation groups to help animals find their way. | for ships to use sonar in order to avoid hitting whales.
 answerText: for humans to make noises that are less stressful to animals.
+reviewed: yes
 ---
 【正解】1 for humans to make noises that are less stressful to animals.（人間が、動物にとってストレスの少ない音を出すこと。）
 【和訳】

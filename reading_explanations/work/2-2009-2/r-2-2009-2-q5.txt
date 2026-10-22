@@ -1,6 +1,7 @@
 ---
 choices: fines | receipts | wages | taxes
 answerText: wages
+reviewed: yes
 ---
 【正解】3 wages（賃金、給料）
 【和訳】

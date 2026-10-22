@@ -1,6 +1,7 @@
 ---
 choices: delicate | attractive | private | temporary
 answerText: attractive
+reviewed: yes
 ---
 【正解】2 attractive（魅力的な）
 【和訳】

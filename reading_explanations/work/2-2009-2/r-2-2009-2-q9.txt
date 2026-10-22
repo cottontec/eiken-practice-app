@@ -1,11 +1,12 @@
 ---
 choices: superior | appropriate | extensive | ignorant
 answerText: appropriate
+reviewed: yes
 ---
 【正解】2 appropriate（ふさわしい、適切な）
 【和訳】
-A：ミシェル、ジーンズは今夜のパーティーにふさわしくないと思うわ。もう少しきちんとした服を持っていないの？
-B：分かったわ、お母さん。着替えてくる。
+A：ミシェル、ジーンズは今夜のパーティーにふさわしくないと思うよ。もう少しきちんとした服を持っていないの？
+B：分かったよ、お母さん。着替えてくる。
 （選択肢の意味）1 （ほかより）優れた　2 ふさわしい、適切な　3 広い範囲にわたる　4 無知な、知らない
 【考え方】
 Aの2文目を見ます。Don't you have something a little more formal?（もう少しきちんとした服を持っていないの？）とあります。formal は「正式な、きちんとした」という意味です。Bも I'll go and change.（着替えてくる）と答えています。

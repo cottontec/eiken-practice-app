@@ -1,6 +1,7 @@
 ---
 choices: praised | greeted | roasted | sealed
 answerText: sealed
+reviewed: yes
 ---
 【正解】4 sealed（～に封をした）
 【和訳】

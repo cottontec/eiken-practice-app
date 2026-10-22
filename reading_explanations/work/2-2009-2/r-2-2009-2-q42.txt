@@ -1,6 +1,7 @@
 ---
 choices: Take pictures of the battlefield before it is changed. | Prevent tourists from walking on the site of the battle. | Make the site more like it was at the time of the battle. | Move the park to where the battle was actually fought.
 answerText: Make the site more like it was at the time of the battle.
+reviewed: yes
 ---
 【正解】3 Make the site more like it was at the time of the battle.（その場所を、戦いの当時の様子にもっと近づける。）
 【和訳】

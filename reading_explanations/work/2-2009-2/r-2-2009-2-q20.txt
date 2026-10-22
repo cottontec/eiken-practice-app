@@ -1,6 +1,7 @@
 ---
 choices: should | can | ought | were
 answerText: should
+reviewed: yes
 ---
 【正解】1 should（if ～ should で「万一～なら」）
 【和訳】

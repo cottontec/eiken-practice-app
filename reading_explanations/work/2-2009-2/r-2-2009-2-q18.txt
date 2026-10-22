@@ -1,6 +1,7 @@
 ---
 choices: off | over | between | from
 answerText: over
+reviewed: yes
 ---
 【正解】2 over（～をおおうように、～の上に）
 【和訳】

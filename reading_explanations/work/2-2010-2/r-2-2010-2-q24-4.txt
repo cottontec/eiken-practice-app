@@ -1,0 +1,20 @@
+---
+choices: little | of | has | winning | hope
+answerText: of
+order: 3 1 5 2 4
+---
+【正解】2 of（この問題の4番目）
+【完成文】
+She knows that her team ( has little hope of winning ) the game, but she is going to try her best anyway.
+並べ方：3 has → 1 little → 5 hope → 2 of → 4 winning（2番目は1、4番目は2）
+【和訳】
+エミリーのバスケットボールチームは、今夜、ずっと強いチームと対戦することになっています。彼女は自分のチームが試合に勝つ見込みがほとんどないことを分かっていますが、それでも全力を尽くすつもりです。
+【考え方】
+4番目を決めるには、hope の使い方に注目します。hope of ～ing で「～する望み、～する見込み」という意味になります。空所のあとに the game があるので、of winning the game（試合に勝つこと）とつながります。こうして hope → of → winning の順が決まります。
+前半は、主語 her team のあとに動詞 3 has を置き、has little hope（望みがほとんどない）とします。little は数えられない名詞の前に置いて「ほとんど～ない」を表します。
+相手は a much stronger team（ずっと強いチーム）で、後半には but she is going to try her best anyway（それでも全力を尽くすつもりだ）とあります。「勝つ見込みはほとんどないが、それでもがんばる」となり、話が通ります。
+並びは has → little → hope → of → winning なので、4番目は2 of です。
+of を hope の前に置いて has little of hope とすると、hope と winning の間をつなぐ語がなくなり、hope winning the game という形が残って文が成り立ちません。
+【覚えるポイント】
+・hope of ～ing：「～する望み、見込み」。of のあとは名詞か ing 形がきます。
+・anyway：「それでも、とにかく」。

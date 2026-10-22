@@ -1,6 +1,7 @@
 ---
 choices: out | to | over | up
 answerText: up
+reviewed: yes
 ---
 【正解】4 up（end up -ing で「結局～することになる」）
 【和訳】

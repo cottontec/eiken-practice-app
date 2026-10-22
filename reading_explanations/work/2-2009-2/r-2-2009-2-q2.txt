@@ -1,6 +1,7 @@
 ---
 choices: bravely | rarely | frankly | precisely
 answerText: rarely
+reviewed: yes
 ---
 【正解】2 rarely（めったに～ない）
 【和訳】

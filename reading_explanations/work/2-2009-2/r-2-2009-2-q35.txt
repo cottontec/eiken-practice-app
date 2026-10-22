@@ -1,6 +1,7 @@
 ---
 choices: An edited version of The Martin Jones Show will be broadcast. | Staff members will help Mr. Bradstock get ready for the show. | There will be a rehearsal for Mr. Bradstock and the other guests. | Martin Jones will record interviews with members of the audience.
 answerText: Staff members will help Mr. Bradstock get ready for the show.
+reviewed: yes
 ---
 【正解】2 Staff members will help Mr. Bradstock get ready for the show.（スタッフが、ブラッドストック氏が番組の準備をするのを手伝う。）
 【和訳】

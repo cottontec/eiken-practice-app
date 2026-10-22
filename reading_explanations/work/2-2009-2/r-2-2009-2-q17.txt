@@ -1,6 +1,7 @@
 ---
 choices: keep | make | take | hold
 answerText: take
+reviewed: yes
 ---
 【正解】3 take（take your time で「ゆっくりやってください、急がなくていいです」）
 【和訳】

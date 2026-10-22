@@ -1,6 +1,7 @@
 ---
 choices: famine | demonstration | prediction | investment
 answerText: famine
+reviewed: yes
 ---
 【正解】1 famine（ききん、食べ物がひどく不足すること）
 【和訳】

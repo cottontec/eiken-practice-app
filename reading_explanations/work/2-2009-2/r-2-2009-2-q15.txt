@@ -1,6 +1,7 @@
 ---
 choices: bound for | due to | made for | owing to
 answerText: bound for
+reviewed: yes
 ---
 【正解】1 bound for（～行きの）
 【和訳】

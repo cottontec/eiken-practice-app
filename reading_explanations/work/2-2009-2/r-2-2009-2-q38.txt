@@ -1,6 +1,7 @@
 ---
 choices: Oil companies are looking for dynamite that makes less noise. | Sonar is the only sound made by humans that whales can hear. | The ocean near California is 10 times noisier than other areas. | Ships are responsible for most of the noise in the oceans.
 answerText: Ships are responsible for most of the noise in the oceans.
+reviewed: yes
 ---
 【正解】4 Ships are responsible for most of the noise in the oceans.（海の騒音の大部分は、船が原因になっている。）
 【和訳】

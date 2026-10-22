@@ -2,6 +2,7 @@
 choices: and | between | a choice | French fries | given
 answerText: a choice
 order: 5 3 2 4 1
+reviewed: yes
 ---
 【正解】3 a choice（この問題の2番目）
 【完成文】

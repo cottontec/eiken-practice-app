@@ -1,6 +1,7 @@
 ---
 choices: had a great influence on the result of the Civil War. | took place two years after a turning point in the war. | lasted from 1863 until the end of the Civil War. | was the South's biggest success of the war.
 answerText: had a great influence on the result of the Civil War.
+reviewed: yes
 ---
 【正解】1 had a great influence on the result of the Civil War.（南北戦争の結果に大きな影響を与えた。）
 【和訳】

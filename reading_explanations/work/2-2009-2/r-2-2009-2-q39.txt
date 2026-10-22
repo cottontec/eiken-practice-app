@@ -1,6 +1,7 @@
 ---
 choices: Whales are having difficulty communicating with humans. | The behavior of certain sea animals has been changing. | Ships are crashing into other ships and damaging them. | Sonar does not work when whales are in the area.
 answerText: The behavior of certain sea animals has been changing.
+reviewed: yes
 ---
 【正解】2 The behavior of certain sea animals has been changing.（ある種の海の動物の行動が変わってきている。）
 【和訳】

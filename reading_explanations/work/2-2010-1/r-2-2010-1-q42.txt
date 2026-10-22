@@ -1,0 +1,27 @@
+---
+choices: The worms that live inside a whale's body. | The oil that is found inside whale bones. | The shellfish that live on the surface of the whale. | The fish and crabs that have been eaten by whales.
+answerText: The oil that is found inside whale bones.
+---
+【正解】2 The oil that is found inside whale bones.（クジラの骨の中にある油。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：バクテリアは、ホエールフォールのどの部分を食べていますか。
+1 クジラの体の中にすむ虫。
+2 クジラの骨の中にある油。
+3 クジラの表面にすむ貝。
+4 クジラに食べられた魚やカニ。
+【考え方】
+bacteria（バクテリア、細菌）という語は、3つの段階を説明する第2段落に出てきます。
+Finally, in the last stage, a wide variety of species—including bacteria and shellfish—eat the oil inside the whale's bones.（そして最後の段階では、バクテリアや貝などを含むさまざまな種類の生き物が、クジラの骨の中の油を食べる）とあります。設問の feed on ～ は「～を食べる、～をえさにする」という意味です。
+本文と選択肢は次のように対応しています。
+本文 eat the oil inside the whale's bones（クジラの骨の中の油を食べる）＝ 選択肢 The oil that is found inside whale bones（クジラの骨の中にある油）
+正解は2です。
+【ほかの選択肢】
+1 本文の worms（虫）は、次の段階で eat the surface of the bones（骨の表面を食べる）生き物として出てきます。バクテリアが虫を食べるとは書かれていません。
+3 shellfish（貝）は、バクテリアといっしょに骨の中の油を食べる生き物として出てきます。バクテリアが貝を食べるとも、貝がクジラの表面にすんでいるとも書かれていません。
+4 本文では、crabs and fish（カニや魚）がクジラの肉を食べる、とあります。カニや魚がクジラに食べられたのではなく、反対です。また、バクテリアがそれらを食べるとも書かれていません。
+【覚えるポイント】
+・feed on ～：「～を食べる、～をえさにする」。
+・a wide variety of ～：「さまざまな種類の～」。

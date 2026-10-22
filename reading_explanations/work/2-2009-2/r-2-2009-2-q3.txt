@@ -1,6 +1,7 @@
 ---
 choices: breeze | shield | theory | lack
 answerText: lack
+reviewed: yes
 ---
 【正解】4 lack（不足）
 【和訳】

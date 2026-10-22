@@ -1,6 +1,7 @@
 ---
 choices: examined | convinced | restricted | substituted
 answerText: convinced
+reviewed: yes
 ---
 【正解】2 convinced（～を納得させた、～を説得した）
 【和訳】

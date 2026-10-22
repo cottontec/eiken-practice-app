@@ -1,6 +1,7 @@
 ---
 choices: the goal of the project is to help people imagine what happened at Gettysburg. | visitors have a responsibility to help restore the site to its original condition. | many of the natural features of Gettysburg were destroyed during the battle. | the reason for cutting down the "witness trees" is to allow people to see more clearly.
 answerText: the goal of the project is to help people imagine what happened at Gettysburg.
+reviewed: yes
 ---
 【正解】1 the goal of the project is to help people imagine what happened at Gettysburg.（事業の目的は、ゲティスバーグで起こったことを人々が想像できるようにすることだ。）
 【和訳】

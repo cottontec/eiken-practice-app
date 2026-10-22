@@ -1,0 +1,21 @@
+---
+choices: seemed | to | lost | have | he
+answerText: have
+order: 5 1 2 4 3
+---
+【正解】4 have（この問題の4番目）
+【完成文】
+Dave was worried when he got to the airport because ( he seemed to have lost ) his plane ticket.
+並べ方：5 he → 1 seemed → 2 to → 4 have → 3 lost（2番目は1、4番目は4）
+【和訳】
+デイブは空港に着いたとき心配になりました。飛行機のチケット（航空券）をなくしてしまったようだったからです。幸い、彼はそれをリュックの底で見つけました。
+【考え方】
+4番目を決めるには、to と have と lost の並び方を考えます。
+まず前半です。because のあとは主語と動詞なので、he seemed（彼は～のようだった）と始めます。seem to ～ は「～のようだ」で、to のあとには動詞の元の形がきます。
+ここで、航空券をなくしたのは、デイブが心配になった時点より前のことです。「それより前に～してしまったようだ」と言うときは、to のあとに have ＋ 過去分詞を置いて seem to have ～ の形にします。lost は lose（なくす）の過去分詞（have と組んで「～してしまった」を表す形）です。そこで to → have → lost の順になります。
+並びは he → seemed → to → have → lost なので、4番目は4 have です。
+to lost have のように lost を先に置くと、to のあとに動詞の元の形がこないので正しい形になりません。have は to のすぐあと、lost はその次です。
+次の文 Luckily, he found it in the bottom of his backpack.（幸い、リュックの底で見つかった）から、本当になくしたのではなく「なくしたように思えた」だけだったと分かり、seemed を使った文の意味ともぴったり合います。
+【覚えるポイント】
+・seem to have ＋ 過去分詞：「（それより前に）～してしまったようだ」。
+・plane ticket：「飛行機のチケット、航空券」。

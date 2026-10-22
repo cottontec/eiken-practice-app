@@ -1,6 +1,7 @@
 ---
 choices: debated | required | lectured | trusted
 answerText: debated
+reviewed: yes
 ---
 【正解】1 debated（～について議論した）
 【和訳】

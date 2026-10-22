@@ -1,6 +1,7 @@
 ---
 choices: composed | determined | managed | constructed
 answerText: composed
+reviewed: yes
 ---
 【正解】1 composed（～を作曲した）
 【和訳】

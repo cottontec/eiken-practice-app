@@ -1,0 +1,28 @@
+---
+choices: A submarine that had sunk after crashing into a whale. | A new species of whale that lives deep in the ocean. | A whale's body that was being eaten by sea creatures. | A part of the ocean where many whales live together.
+answerText: A whale's body that was being eaten by sea creatures.
+---
+【正解】3 A whale's body that was being eaten by sea creatures.（海の生き物に食べられているクジラの死がい。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：1987年に、科学者のチームは何を発見しましたか。
+1 クジラにぶつかって沈んだ潜水艇。
+2 海の深いところにすむ新しい種類のクジラ。
+3 海の生き物に食べられているクジラの死がい。
+4 多くのクジラがいっしょにすんでいる海の一部。
+【考え方】
+1987年という年は、第1段落に出てきます。A whale fall was first discovered by accident in 1987 by a team of scientists（ホエールフォールは、1987年に科学者のチームによって偶然初めて発見された）とあります。by accident は「偶然に」です。
+では、ホエールフォールとは何かというと、1文目で説明されています。the dead body of a whale that has fallen to the ocean floor and become a source of food for other sea creatures（海の底に沈んで、ほかの海の生き物たちの食べ物のもとになったクジラの死がい）です。source は「もと、源」という意味です。
+つまり、科学者たちが発見したのは、海の生き物の食べ物になっているクジラの死がいです。本文と選択肢は次のように対応しています。
+本文 the dead body of a whale（クジラの死がい）＝ 選択肢 A whale's body（クジラの体）
+本文 become a source of food for other sea creatures（ほかの海の生き物の食べ物のもとになった）＝ 選択肢 was being eaten by sea creatures（海の生き物に食べられていた）
+正解は3です。
+【ほかの選択肢】
+1 本文の submarine（潜水艇）は、科学者たちが海底を調査するのに乗っていたものです。潜水艇がクジラにぶつかって沈んだという話はありません。
+2 本文で new species（新しい種）が出てくるのは、ホエールフォールで見つかった生き物についてです。新しい種類のクジラを発見したとは書かれていません。
+4 発見されたのは1頭のクジラの死がいで、多くのクジラがすむ場所ではありません。
+【覚えるポイント】
+・a source of food：「食べ物のもと、食料源」。
+・by accident：「偶然に」。

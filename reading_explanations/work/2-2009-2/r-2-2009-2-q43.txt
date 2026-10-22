@@ -1,6 +1,7 @@
 ---
 choices: The electric poles and motels are too useful to be removed. | More people, roads, and stores should be allowed in the park. | "Witness trees" should be cut down after 100 years have passed. | The trees that have grown since the battle are also part of history.
 answerText: The trees that have grown since the battle are also part of history.
+reviewed: yes
 ---
 【正解】4 The trees that have grown since the battle are also part of history.（戦いのあとに育った木も、歴史の一部である。）
 【和訳】

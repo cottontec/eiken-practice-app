@@ -1,0 +1,21 @@
+---
+choices: get | want | caught | in | to
+answerText: to
+order: 2 5 1 3 4
+---
+【正解】5 to（この問題の2番目）
+【完成文】
+Thanks, Janet. I have a meeting this morning, so I don't ( want to get caught in ) a traffic jam.
+並べ方：2 want → 5 to → 1 get → 3 caught → 4 in（2番目は5、4番目は3）
+【和訳】
+A：マーク、ラジオで聞いたんだけど、幹線道路で事故があったそうだよ。今日は幹線道路ではなく、パーム通りを通って仕事に行ったほうがいいよ。
+B：ありがとう、ジャネット。今朝は会議があるから、渋滞に巻きこまれたくないんだ。
+【考え方】
+まず会話の流れを確認します。Aは、幹線道路で事故があったので、別の道を通るようにすすめています。事故があると、道路は車で混み合います。Bは「今朝は会議がある」と言っているので、遅れたくない、つまり渋滞にあいたくないと考えていることが分かります。
+次に、空所の前の I don't に注目します。don't のあとには動詞の元の形がくるので、2 want を置きます。want のあとは to ＋ 動詞の元の形 で「～したい」となるので、5 to を続けます。ここで I don't want to ～（～したくない）ができます。
+残りの get、caught、in で、get caught in ～（～に巻きこまれる、～にあう）という決まった言い方を作ります。get caught は「つかまる、巻きこまれる」という意味で、in のあとに a traffic jam（交通渋滞）が続きます。
+完成文は I don't want to get caught in a traffic jam.（渋滞に巻きこまれたくない）です。したがって2番目は5 to です。
+まちがえやすいのは、I don't get to want … のように get を先に置く並べ方です。これでは caught in をつなげることができず、文になりません。
+【覚えるポイント】
+・get caught in ～：「（渋滞や雨など）にあう、巻きこまれる」。get caught in the rain（雨にあう）のようにも使います。
+・don't want to ～：「～したくない」。

@@ -1,0 +1,20 @@
+---
+choices: cases | to | needs | he | where
+answerText: needs
+order: 1 5 4 3 2
+---
+【正解】3 needs（この問題の4番目）
+【完成文】
+He can usually fix errors in programs by himself, but there are ( cases where he needs to ) ask his co-workers to help him.
+並べ方：1 cases → 5 where → 4 he → 3 needs → 2 to（2番目は5、4番目は3）
+【和訳】
+ケビンはコンピューターのプログラマーです。彼はふつう、プログラムのまちがいを自分ひとりで直すことができますが、同僚に助けてくれるよう頼む必要がある場合もあります。
+【考え方】
+4番目を決めるために、まず前から順に組み立てます。but there are のあとには名詞がくるので、1番目は 1 cases（場合）です。there are cases で「～な場合がある」となります。
+2番目には、cases に説明を付け足す 5 where（～する場合）を置きます。where のあとには「だれがどうする」という主語と動詞の組が続きます。主語は 4 he（彼）、動詞は 3 needs（必要とする）です。he は1人なので、動詞に s がついた needs と形が合っています。
+最後に 2 to を置くと、needs to ask his co-workers to help him（同僚に助けてくれるよう頼む必要がある）となります。空所のあとが ask（動詞の元の形）なので、その直前に to がくると分かります。
+こうして cases → where → he → needs → to と並び、4番目は3 needs です。
+needs と to の順を逆にして to needs とすると、to のあとに s のついた動詞がくることになり、正しい形になりません。また to が空所の最後にないと、空所のあとの ask とつながりません。
+【覚えるポイント】
+・need to ＋ 動詞の元の形：「～する必要がある」。
+・ask ＋ 人 ＋ to ～：「人に～してくれるよう頼む」。

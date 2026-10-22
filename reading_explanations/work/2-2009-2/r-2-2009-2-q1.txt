@@ -1,6 +1,7 @@
 ---
 choices: quality | percentage | minimum | regulation
 answerText: percentage
+reviewed: yes
 ---
 【正解】2 percentage（割合、パーセンテージ）
 【和訳】

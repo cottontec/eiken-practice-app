@@ -2,6 +2,7 @@
 choices: having | remembered | she | although | met
 answerText: she
 order: 4 3 2 1 5
+reviewed: yes
 ---
 【正解】3 she（この問題の2番目）
 【完成文】
@@ -9,13 +10,13 @@ Well, there was a woman named Amanda. ( Although she remembered having met ) me 
 並べ方：4 although → 3 she → 2 remembered → 1 having → 5 met（2番目は3、4番目は1）
 【和訳】
 A：ピーター、昨夜のパーティーで新しい人に会った？
-B：ええと、アマンダという女性がいたよ。彼女は以前ぼくに会ったことを覚えていたのに、ぼくは彼女のことをまったく覚えていなかったんだ。本当に申し訳ない気持ちになったよ。
+B：ええと、アマンダという女性がいたよ。彼女は以前私に会ったことを覚えていたのに、私は彼女のことをまったく覚えていなかったんだ。本当に申し訳ない気持ちになったよ。
 【考え方】
-まず、空所のあとを見ます。コンマのあとに I didn't remember her at all.（ぼくは彼女のことをまったく覚えていなかった）とあり、最後に I felt really bad.（本当に申し訳なく思った）と続きます。申し訳なく思ったのは、相手は自分のことを覚えていたのに、自分は覚えていなかったからだと考えられます。
+まず、空所のあとを見ます。コンマのあとに I didn't remember her at all.（私は彼女のことをまったく覚えていなかった）とあり、最後に I felt really bad.（本当に申し訳なく思った）と続きます。申し訳なく思ったのは、相手は自分のことを覚えていたのに、自分は覚えていなかったからだと考えられます。
 「相手は覚えていた」と「自分は覚えていなかった」は反対の内容なので、4 although（～だけれども）から始めます。although のあとには「主語＋動詞」が続きます。
 主語は 3 she（アマンダ）、動詞は 2 remembered（覚えていた）です。Although she remembered となります。
 remember のあとに -ing の形を続けると「～したことを覚えている」という意味になります。そこで 1 having を置きます。having のあとに 5 met を続けた having met は「（それより前に）会ったこと」を表します。
-こうして Although she remembered having met me before,（彼女は以前ぼくに会ったことを覚えていたけれど）が完成し、空所のあとの me before ともつながります。
+こうして Although she remembered having met me before,（彼女は以前私に会ったことを覚えていたけれど）が完成し、空所のあとの me before ともつながります。
 まちがえやすいのは、Although she met having remembered のように、met と remembered の位置を入れかえる並べ方です。これでは意味が通りません。「覚えていた」のはパーティーのときのこと、「会った」のはそれよりさらに前のことなので、remembered having met の順になります。
 したがって、2番目は 3 she です。
 【覚えるポイント】

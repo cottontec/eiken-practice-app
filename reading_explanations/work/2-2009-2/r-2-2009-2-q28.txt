@@ -1,6 +1,7 @@
 ---
 choices: effective | official | artificial | educational
 answerText: effective
+reviewed: yes
 ---
 【正解】1 effective（効果的な、よく働く）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: replaced | protected | provided | decorated
 answerText: protected
+reviewed: yes
 ---
 【正解】2 protected（～を守った）
 【和訳】

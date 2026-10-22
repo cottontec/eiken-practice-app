@@ -1,6 +1,7 @@
 ---
 choices: attention | health | silence | access
 answerText: attention
+reviewed: yes
 ---
 【正解】1 attention（注目、注意）
 【和訳】

@@ -1,6 +1,7 @@
 ---
 choices: called Mr. Bradstock to talk about his book. | interviewed a novelist on his television show. | read a mystery novel written by Kate Stevens. | said that he had enjoyed The Carrington Affair.
 answerText: said that he had enjoyed The Carrington Affair.
+reviewed: yes
 ---
 【正解】4 said that he had enjoyed The Carrington Affair.（『カリントン事件』を楽しんで読んだと言った。）
 【和訳】

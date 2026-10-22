@@ -1,6 +1,7 @@
 ---
 choices: upon | from | of | through
 answerText: of
+reviewed: yes
 ---
 【正解】3 of（remind A of B で「AにBを思い出させる」）
 【和訳】

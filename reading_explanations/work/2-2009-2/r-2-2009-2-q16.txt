@@ -1,6 +1,7 @@
 ---
 choices: up | away | off | over
 answerText: off
+reviewed: yes
 ---
 【正解】3 off（show off で「見せびらかす、自慢して見せる」）
 【和訳】

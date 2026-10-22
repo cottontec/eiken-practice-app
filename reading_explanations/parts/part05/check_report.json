@@ -2,7 +2,8 @@
   "2-2009-2": {
     "stats": {
       "target": 50,
-      "written": 50
+      "written": 50,
+      "reviewed": 50
     },
     "errors": [],
     "warnings": []
@@ -35,5 +36,13 @@
         "【考え方】が完全に同一"
       ]
     ]
+  },
+  "2-2010-1": {
+    "stats": {
+      "target": 50,
+      "written": 50
+    },
+    "errors": [],
+    "warnings": []
   }
 }

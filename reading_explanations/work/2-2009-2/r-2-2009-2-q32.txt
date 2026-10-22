@@ -1,6 +1,7 @@
 ---
 choices: border | memory | culture | economy
 answerText: economy
+reviewed: yes
 ---
 【正解】4 economy（経済）
 【和訳】

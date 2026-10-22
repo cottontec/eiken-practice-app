@@ -12,6 +12,7 @@ import argparse, json, re, sys, unicodedata, collections, datetime
 
 HERE = Path(__file__).resolve().parent.parent
 PLACEHOLDER = '{{本文全訳}}'
+GENDERED = re.compile(r'ぼく|僕|俺|おれは|あたし|わよ|わね|かしら|おまえ|(?<=[ただるいすてっ])わ(?=[。！？、])')
 HEAD_COMMON = ['【正解】', '【和訳】', '【考え方】', '【覚えるポイント】']
 FORBIDDEN = [('```', 'コード囲み'), ('|---', 'Markdown表'), ('別の問題を見', '他問参照'),
              ('を参照してください', '他問参照'), ('上の問題を見', '他問参照'), ('前の問題を見', '他問参照')]
@@ -156,6 +157,9 @@ def check_batch(src_root, part, batch_id):
                 for i, c in enumerate(choices, 1):
                     if c and norm(c) not in ntext:
                         warns.append((qid, f'選択肢{i}「{c}」が抽出テキストに見つからない（画像で要確認）'))
+            g = GENDERED.findall(body)
+            if g:
+                warns.append((qid, f'性別を決める口調の可能性：{"・".join(sorted(set(g)))}（中立的な表現に）'))
             reasoning = section_block(body, '【考え方】').strip()
             if reasoning:
                 reasoning_seen[reasoning].append(qid)
