@@ -1,0 +1,31 @@
+---
+choices: put forth | backed off | fell under | piled up
+answerText: put forth
+---
+【正解】1 put forth（〔考えなどを〕出す、提案する）
+【和訳】
+（英文）
+When Tom first ［put forth］ his idea for a new product, his boss did not seem to like it. He was therefore surprised the next day to hear that his proposal had been accepted.
+（訳）
+トムが新製品のアイデアを初めて（出した）とき、上司はそれを気に入っていないようだった。そのため、トムは翌日、自分の提案が受け入れられたと聞いて驚いた。
+（選択肢の意味）
+1 put forth：（考えなどを）出す、提案する
+2 backed off：後ずさりした、（主張などから）手を引いた
+3 fell under：（～の部類に）入った、（影響などを）受けた
+4 piled up：積み上げた、たまった
+【考え方】
+まず見るところ：次の文の his proposal had been accepted
+空所のある文は、次のとおりです。
+When Tom first (　) his idea for a new product, his boss did not seem to like it.（トムが新製品のアイデアを初めて（　）とき、上司はそれを気に入っていないようだった）
+上司がアイデアを気に入るかどうかを判断できたのは、トムがそのアイデアを上司に示したからです。
+次の文には、次のようにあります。
+He was therefore surprised the next day to hear that his proposal had been accepted.（そのため、トムは翌日、自分の提案が受け入れられたと聞いて驚いた）
+proposal は「提案」です。his idea（彼のアイデア）が、ここでは his proposal（彼の提案）と言いかえられています。つまり、トムはアイデアを提案したのです。put forth は「（考えや計画などを）出す、提案する」という意味なので、1が正解です。
+この問題の型：言いかえ（put forth his idea → his proposal）
+【ほかの選択肢】
+2 backed off は「後ずさりした、手を引いた」です。「アイデアから手を引いた」と言うには from などが必要で、「アイデアを後ずさりした」では意味が通りません。手を引いたなら、提案が受け入れられたという話にもつながりません。
+3 fell under は「（～の部類に）入った、（影響などを）受けた」です。「トムがアイデアの部類に入った」では意味が通りません。
+4 piled up は「積み上げた、たまった」です。「アイデアを積み上げた」では、上司に提案したことを表せません。
+【覚えるポイント】
+・put forth an idea：「アイデアを出す、提案する」。
+・空所の文の目的語（ここでは his idea）が、あとの文で別の言葉（his proposal）に言いかえられているときは、その言いかえが空所の動作を決める手がかりになります。
