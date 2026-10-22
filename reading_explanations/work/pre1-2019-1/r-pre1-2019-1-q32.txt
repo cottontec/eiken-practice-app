@@ -1,0 +1,33 @@
+---
+choices: It is important in order to ensure that governments are quick to repair damage to publicly funded structures. | It promotes employee satisfaction by encouraging workers to spend more time in outside areas during break periods. | It helps businesses protect themselves by forcing criminals to operate in open areas that can be easily observed. | It is necessary to ensure public safety in spite of the fact that it may reduce the appeal of shared spaces.
+answerText: It is necessary to ensure public safety in spite of the fact that it may reduce the appeal of shared spaces.
+---
+【正解】4 It is necessary to ensure public safety in spite of the fact that it may reduce the appeal of shared spaces.（それは、みんなで使う場所の魅力を下げるかもしれないにもかかわらず、一般の人々の安全を確保するために必要だ。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What argument is given in favor of hostile architecture?（敵対的建築に賛成する意見として、どのような主張が挙げられているか。）
+1 It is important in order to ensure that governments are quick to repair damage to publicly funded structures.（それは、公的なお金で作られた建造物の損傷を、政府がすばやく修理するようにするために重要だ。）
+2 It promotes employee satisfaction by encouraging workers to spend more time in outside areas during break periods.（それは、働く人たちが休憩時間に屋外でより長い時間を過ごすようにうながすことで、従業員の満足度を高める。）
+3 It helps businesses protect themselves by forcing criminals to operate in open areas that can be easily observed.（それは、犯罪者に、簡単に見張ることのできる開けた場所で活動させることで、企業が自分たちの身を守る助けになる。）
+4 It is necessary to ensure public safety in spite of the fact that it may reduce the appeal of shared spaces.（それは、みんなで使う場所の魅力を下げるかもしれないにもかかわらず、一般の人々の安全を確保するために必要だ。）
+【考え方】
+まず見るところ：第1段落の To supporters, hostile architecture is essential.
+設問の in favor of ～ は「～に賛成して」です。賛成する人たちの意見は、第1段落の終わりに書かれています。
+To supporters, hostile architecture is essential.（支持する人たちにとって、敵対的建築は欠かせないものだ）
+They claim it serves society by defending the public against unacceptable behavior and troublemaking individuals, even though it makes spaces both unattractive and uncomfortable.（それは場所を魅力がなく居心地の悪いものにしてしまうが、受け入れられない行動や、問題を起こす人々から一般の人々を守ることで社会の役に立っている、と彼らは主張する）
+本文と選択肢を対にすると、次のようになります。
+本文 essential（欠かせない）＝ 選択肢 necessary（必要な）
+本文 defending the public against ～（～から一般の人々を守る）→ 選択肢 ensure public safety（一般の人々の安全を確保する）
+本文 even though（～だけれども）＝ 選択肢 in spite of the fact that（～という事実にもかかわらず）
+本文 makes spaces both unattractive and uncomfortable（場所を魅力がなく居心地の悪いものにする）→ 選択肢 may reduce the appeal of shared spaces（みんなで使う場所の魅力を下げるかもしれない）
+「場所の魅力は下がるけれど、人々を守るために欠かせない」という支持者の主張を、選択肢4がまとめています。ですから4が正解です。
+この問題の型：言いかえ（essential ＝ necessary、even though ＝ in spite of the fact that）
+【ほかの選択肢】
+1 本文には、政府が建造物の損傷を修理するという話はありません。支持者の意見は、受け入れられない行動や問題を起こす人々から一般の人々を守る、というものです。
+2 本文には、従業員の満足度や、働く人の休憩時間の話は書かれていません。また、敵対的建築の目的は、人々が長い時間たむろするのを discourage（思いとどまらせる）ことなので、「より長い時間を過ごすようにうながす」は本文と反対の向きです。
+3 第1段落に where criminals make drug deals（犯罪者が薬物の取引をする場所）は出てきますが、これは人々が身の危険を感じる環境の例です。犯罪者を見張りやすい開けた場所で活動させる、とは書かれていません。
+【覚えるポイント】
+・in favor of ～：「～に賛成して」。even though ～ と in spite of the fact that ～ は、どちらも「～にもかかわらず」です。
+・「賛成する意見」をたずねる設問では、To supporters（支持する人たちにとって）や They claim（彼らは主張する）のような、意見の持ち主を示す語句を探すのが手がかりになります。

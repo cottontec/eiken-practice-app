@@ -1,0 +1,34 @@
+---
+choices: can sometimes have an effect on public behavior that is opposite to what its designers originally intended. | can actually make public spaces more comfortable since it improves the flow of pedestrian traffic in crowded areas. | sends the message that people are only considered to be true members of society when they are earning or spending money. | is designed by architects who care more about how spaces look than how citizens will want to use those spaces.
+answerText: sends the message that people are only considered to be true members of society when they are earning or spending money.
+---
+【正解】3 sends the message that people are only considered to be true members of society when they are earning or spending money.（人々が本当の社会の一員として見なされるのは、お金をかせいでいるか使っているときだけだ、というメッセージを送っている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to Iain Borden, hostile architecture（イアン・ボーデンによると、敵対的建築は）
+1 can sometimes have an effect on public behavior that is opposite to what its designers originally intended.（ときには、人々の行動に、設計者が初めにねらっていたのとは反対の影響を与えることがある。）
+2 can actually make public spaces more comfortable since it improves the flow of pedestrian traffic in crowded areas.（混み合った場所での歩行者の流れをよくするので、実は公共の場所をより快適にすることがある。）
+3 sends the message that people are only considered to be true members of society when they are earning or spending money.（人々が本当の社会の一員として見なされるのは、お金をかせいでいるか使っているときだけだ、というメッセージを送っている。）
+4 is designed by architects who care more about how spaces look than how citizens will want to use those spaces.（市民がその場所をどう使いたいと思うかよりも、場所の見た目のほうを気にする建築家たちによって設計されている。）
+【考え方】
+まず見るところ：第2段落の He says hostile architecture suggests that we are regarded as citizens only when ～
+イアン・ボーデンの意見は、第2段落の初めに書かれています。
+He says hostile architecture suggests that we are regarded as citizens only when "we are either working or consuming goods directly."（彼によれば、敵対的建築は、私たちが市民として見なされるのは「働いているか、直接ものを消費しているときだけ」だということを示している）
+suggest は、ここでは「（それとなく）示す」、consume goods は「ものを消費する（買って使う）」です。
+本文と選択肢を対にすると、次のようになります。
+本文 suggests that ～（～ということを示している）≒ 選択肢 sends the message that ～（～というメッセージを送っている）
+本文 we are regarded as citizens（私たちは市民として見なされる）≒ 選択肢 people are considered to be true members of society（人々は本当の社会の一員として見なされる）
+本文 only when（～のときだけ）＝ 選択肢 only ～ when（～のときだけ）
+本文 working（働いている）→ 選択肢 earning money（お金をかせいでいる）
+本文 consuming goods（ものを消費している）→ 選択肢 spending money（お金を使っている）
+次の文の、何かを買ったあとの短い休憩は許すが、休んだり人と交流したりして過ごすことは思いとどまらせる、という説明もこの考えに合っています。ですから3が正解です。
+この問題の型：言いかえ（regarded as citizens ≒ considered to be true members of society、working or consuming ≒ earning or spending money）
+【ほかの選択肢】
+1 ボーデンは、敵対的建築がある人々を退けるための戦略だと言っていて、設計者のねらいと反対の結果になるとは言っていません。本文に書かれていない内容です。
+2 本文には、歩行者の流れの話は書かれていません。また第1段落で、敵対的建築は場所を uncomfortable（居心地の悪い）ものにすると書かれているので、「より快適にする」は本文と反対です。
+4 本文には、建築家が場所の見た目を気にしているという話は書かれていません。建築家を批判しているのはジェームズ・ファーザーですが、その理由は人々が長く居たくない建物を設計することであり、見た目の話ではありません。
+【覚えるポイント】
+・be regarded as ～：「～として見なされる」。be considered to be ～ もほぼ同じ意味です。
+・「〇〇によると」という設問では、まずその人物の名前を本文で探し、その直後の says や argues のあとの内容と選択肢を一語ずつ対にして比べるのが手がかりになります。
