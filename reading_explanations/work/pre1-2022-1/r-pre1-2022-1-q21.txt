@@ -1,0 +1,28 @@
+---
+choices: modify | pluck | exclaim | distill
+answerText: modify
+---
+【正解】1 modify（変える、修正する）
+【和訳】
+（英文）
+To help Paul lose weight, his doctor recommended that he ［modify］ his diet. Specifically, she suggested that he eat fewer fatty foods and more fiber.
+（訳）
+ポールがやせるのを助けるため、医師は彼に、食生活を（変える）ようすすめた。具体的には、医師は、脂肪の多い食べ物を減らし、食物繊維を増やすよう提案した。
+（選択肢の意味）
+1 modify：（一部を）変える、修正する
+2 pluck：引き抜く、（毛を）抜く
+3 exclaim：叫ぶ
+4 distill：蒸留する（液体を熱して、蒸気を冷やして取り出す）
+【考え方】
+まず見るところ：次の文の Specifically, she suggested that he eat fewer fatty foods and more fiber.
+Specifically は「具体的には」という意味で、前の文の内容をくわしく説明するときに使います。
+Specifically, she suggested that he eat fewer fatty foods and more fiber.（具体的には、彼女は、彼が脂肪の多い食べ物を減らし、食物繊維を増やすよう提案した）
+fewer は「より少ない」、more は「より多い」です。食べるものの量を変えることなので、医師がすすめたのは「食生活を変えること」だと分かります。modify は「変える、修正する」なので、1が正解です。
+この問題の型：具体例とまとめ（Specifically のあとの具体的な内容 → modify his diet）
+【ほかの選択肢】
+2 pluck は「引き抜く」です。「食生活を引き抜く」では意味が通りません。
+3 exclaim は「叫ぶ」です。「食生活を叫ぶ」では意味が通らず、やせるための助言になりません。
+4 distill は「蒸留する」です。「食生活を蒸留する」では意味が通りません。
+【覚えるポイント】
+・modify one's diet：「食生活を変える」。specifically：「具体的には」。fiber：「食物繊維」。
+・Specifically（具体的には）のあとの文は、前の文をくわしく言い直しているので、空所の語を決めるときのよい手がかりになります。

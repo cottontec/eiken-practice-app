@@ -1,0 +1,28 @@
+---
+choices: furious | bilateral | potent | overdue
+answerText: overdue
+---
+【正解】4 overdue（〈返却などの〉期限が過ぎた）
+【和訳】
+（英文）
+While borrowing books is free, most libraries will charge a late fee for those that are ［overdue］.
+（訳）
+本を借りるのは無料だが、ほとんどの図書館は、（返却期限が過ぎた）本には延滞料（遅れたことに対する料金）を取る。
+（選択肢の意味）
+1 furious：激しく怒った
+2 bilateral：二者の間の、両側の
+3 potent：強力な、（薬などが）よく効く
+4 overdue：（返却などの）期限が過ぎた
+【考え方】
+まず見るところ：空所の前の charge a late fee for those that are
+While ～ は「～だが、～である一方」で、前半と後半を比べています。前半は「本を借りるのは無料」、後半は「お金を取る場合」です。
+most libraries will charge a late fee for those that are (　)（ほとんどの図書館は、〇〇である本には延滞料を取る）
+those は前の books（本）を指します。late fee は「遅れたことに対する料金」です。料金がかかるのは、返す期限に遅れた本だと考えられます。overdue は「期限が過ぎた」なので、4が正解です。
+この問題の型：語の意味・組み合わせ（late fee ＋ overdue）
+【ほかの選択肢】
+1 furious は「激しく怒った」で、人について使う語です。「激しく怒った本に延滞料を取る」となり、意味が通りません。
+2 bilateral は「二者の間の」です。「二者の間の本に延滞料を取る」となり、意味が通りません。
+3 potent は「強力な、よく効く」です。「強力な本に延滞料を取る」となり、late fee（遅れた料金）とつながりません。
+【覚えるポイント】
+・overdue：「（返却・支払いなどの）期限が過ぎた」。late fee：「延滞料、遅れたことに対する料金」。
+・空所の前に late fee（遅れた料金）のような「遅れ」を表す語があるときは、期限に関わる語が入る手がかりになります。

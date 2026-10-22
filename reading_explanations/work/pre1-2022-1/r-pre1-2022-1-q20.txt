@@ -1,0 +1,28 @@
+---
+choices: grotesque | defiant | devoted | feeble
+answerText: devoted
+---
+【正解】3 devoted（献身的な、熱心な）
+【和訳】
+（英文）
+Timothy is a very ［devoted］ employee. He is reliable and eager to help, and he always shows loyalty to his company and coworkers.
+（訳）
+ティモシーはとても（献身的な）社員だ。彼は頼りになり、進んで人を手助けし、いつも会社と同僚に忠実な態度を示している。
+（選択肢の意味）
+1 grotesque：異様な、気味の悪い
+2 defiant：反抗的な
+3 devoted：献身的な（人や仕事のために力をつくす）
+4 feeble：弱々しい
+【考え方】
+まず見るところ：次の文の reliable、eager to help、shows loyalty
+空所には、ティモシーがどんな社員かを表す語が入ります。その説明が次の文に書かれています。
+He is reliable and eager to help, and he always shows loyalty to his company and coworkers.（彼は頼りになり、進んで人を手助けし、いつも会社と同僚に忠実な態度を示している）
+reliable は「頼りになる」、eager to help は「進んで手助けする」、loyalty は「忠実さ（裏切らずに尽くすこと）」です。どれも、会社や仲間のために力をつくす人のようすです。devoted は「献身的な」なので、3が正解です。
+この問題の型：具体例とまとめ（reliable・eager to help・loyalty → devoted）
+【ほかの選択肢】
+1 grotesque は「異様な、気味の悪い」です。頼りになり、進んで手助けするという、ほめる説明と合いません。
+2 defiant は「反抗的な」です。会社や同僚に忠実だという説明と反対の性質なので、合いません。
+4 feeble は「弱々しい」です。頼りになるという reliable と合いません。
+【覚えるポイント】
+・devoted：「献身的な」。reliable：「頼りになる」。loyalty：「忠実さ」。
+・空所が人物の性質を表すとき、次の文にその人のようすが並べて書かれていれば、それらをまとめた語が入ることが多いので、並んだ語に共通する意味を考えます。

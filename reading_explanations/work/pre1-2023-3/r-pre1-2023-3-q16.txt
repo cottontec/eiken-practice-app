@@ -1,0 +1,28 @@
+---
+choices: discriminated | implicated | eliminated | constrained
+answerText: implicated
+---
+【正解】2 implicated（〈犯罪などに〉関わっていることを示した、巻きこんだ）
+【和訳】
+（英文）
+The man ［implicated］ himself in the crime when he lied about where he was on the night of the murder.
+（訳）
+その男は、殺人のあった夜に自分がどこにいたかについてうそをついたとき、自分がその犯罪に（関わっていることを示してしまった）。
+（選択肢の意味）
+1 discriminated：差別した、区別した
+2 implicated：（犯罪などに）関わっていることを示した、巻きこんだ
+3 eliminated：取り除いた
+4 constrained：制限した、おさえつけた
+【考え方】
+まず見るところ：空所の後ろの himself in the crime と、when he lied about where he was
+空所のあとは「自分を、その犯罪の中に」という形です。いつそうなったのかが、when の後ろに書かれています。
+when he lied about where he was on the night of the murder（殺人のあった夜に自分がどこにいたかについてうそをついたとき）
+事件の夜の居場所についてうそをつくと、「何かかくしているのでは」と疑われ、犯罪に関わっていると見られます。implicate A in B は「AがBに関わっていることを示す、AをBに巻きこむ」で、implicate himself in the crime で「自分がその犯罪に関わっていることを示してしまう」となるので、2が正解です。
+この問題の型：熟語・決まった形（implicate A in B）
+【ほかの選択肢】
+1 discriminated は「差別した、区別した」です。「自分をその犯罪の中で差別した」となり、うそをついたこととつながりません。
+3 eliminated は「取り除いた」です。「自分をその犯罪の中で取り除いた」となり意味が通らず、うそをついて疑われることともつながりません。
+4 constrained は「制限した、おさえつけた」です。「自分をその犯罪の中で制限した」となり、意味が通りません。
+【覚えるポイント】
+・implicate A in B：「AがBに関わっていることを示す、AをBに巻きこむ」。
+・空所の後ろに in the crime（その犯罪に）のような前置詞＋名詞がついているときは、その前置詞と組み合わせて使える動詞かどうかが手がかりになります。

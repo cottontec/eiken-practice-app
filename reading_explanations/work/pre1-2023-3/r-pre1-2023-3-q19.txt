@@ -1,0 +1,28 @@
+---
+choices: pierced | radiated | ceased | rejected
+answerText: pierced
+---
+【正解】1 pierced（突き刺して穴をあけられた）
+【和訳】
+（英文）
+Before cooking a potato, its skin should be ［pierced］ with a fork. This lets steam escape from the small holes, preventing the potato from exploding.
+（訳）
+じゃがいもを調理する前に、その皮にはフォークで（穴をあけて）おくべきだ。こうすると小さな穴から蒸気が抜け、じゃがいもが破裂するのを防ぐ。
+（選択肢の意味）
+1 pierced：突き刺して穴をあけられた
+2 radiated：（光・熱を）放たれた
+3 ceased：止められた、終わった
+4 rejected：断られた、受け入れられなかった
+【考え方】
+まず見るところ：空所の後ろの with a fork と、次の文の the small holes
+「じゃがいもの皮は、フォークで〇〇されるべきだ」という文です。次の文で、そうする理由が書かれています。
+This lets steam escape from the small holes, preventing the potato from exploding.（こうすると小さな穴から蒸気が抜け、じゃがいもが破裂するのを防ぐ）
+the small holes（その小さな穴）とあるので、前の文でフォークを使って穴をあけたことが分かります。pierce は「突き刺して穴をあける」で、should be pierced で「穴をあけられるべきだ」となるので、1が正解です。
+この問題の型：指示語（This ／ the small holes が前の文の動作を指す）
+【ほかの選択肢】
+2 radiated は「（光・熱を）放たれた」です。「皮はフォークで放たれるべきだ」となり、意味が通りません。
+3 ceased は「止められた、終わった」です。「皮はフォークで止められるべきだ」となり、次の文の「小さな穴」ともつながりません。
+4 rejected は「断られた」です。「皮はフォークで断られるべきだ」となり、意味が通りません。
+【覚えるポイント】
+・pierce：「突き刺して穴をあける」。prevent A from ～ing：「Aが～するのを防ぐ」。
+・次の文に the small holes（その小さな穴）のように the がついた語があるときは、前の文でそれを作った動作が書かれているはずなので、空所の動詞を決める手がかりになります。

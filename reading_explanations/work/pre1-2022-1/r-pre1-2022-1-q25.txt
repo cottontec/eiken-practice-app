@@ -1,0 +1,28 @@
+---
+choices: casting away | putting down | stepping up | betting on
+answerText: betting on
+---
+【正解】4 betting on（～に賭けて〈いた〉、～を当てにして〈いた〉）
+【和訳】
+（英文）
+Last year, Harold spent all his money buying shares in various companies. He was ［betting on］ the stock market performing well over the next few years.
+（訳）
+昨年、ハロルドは自分のお金をすべて使って、さまざまな会社の株を買った。彼は、その後の数年間、株式市場が好調であることに（賭けていた）。
+（選択肢の意味）
+1 casting away：捨てている
+2 putting down：下に置いている、けなしている
+3 stepping up：（量や速さを）上げている、強めている
+4 betting on：～に賭けている、～を当てにしている
+【考え方】
+まず見るところ：前の文の spent all his money buying shares と、空所のあとの the stock market performing well
+ハロルドはお金をすべて使って株（会社の持ち主の一部になる権利で、会社の調子がよいと値上がりしやすいもの）を買いました。
+He was betting on the stock market performing well over the next few years.（彼は、その後の数年間、株式市場が好調であることに賭けていた）
+the stock market performing well は「株式市場が好調であること」です。全部のお金で株を買ったのは、株式市場が好調になれば得をすると考えたからです。bet on ～ は「～に賭ける、～を当てにする」なので、4が正解です。
+この問題の型：推論（全財産で株を買う→株式市場の好調に賭けている）
+【ほかの選択肢】
+1 casting away は「捨てている」です。「株式市場が好調であることを捨てていた」では、株を買った理由になりません。
+2 putting down は「けなしている」です。株式市場の好調をけなしていたのなら、全部のお金で株を買ったことと合いません。
+3 stepping up は「上げている、強めている」です。ハロルド一人が株式市場の好調を強めることはできず、意味が通りません。
+【覚えるポイント】
+・bet on ～：「～に賭ける、～を当てにする」。shares：「株」。perform well：「好調である、よい成果を出す」。
+・前の文で人物が大きな行動（ここでは全部のお金で株を買ったこと）をしているときは、空所の文がその理由や期待を表していることが多いので、「何を期待していたか」を考えます。

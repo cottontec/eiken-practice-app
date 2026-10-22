@@ -1,0 +1,28 @@
+---
+choices: sacred | grim | sheer | lean
+answerText: lean
+---
+【正解】4 lean（〈肉が〉脂肪の少ない、赤身の）
+【和訳】
+（英文）
+For people trying to lose weight, many doctors advise choosing ［lean］ meats, such as chicken breast, over meats that are fatty.
+（訳）
+体重を減らそうとしている人に対して、多くの医師は、脂肪の多い肉よりも、鶏の胸肉のような（脂肪の少ない）肉を選ぶよう勧めている。
+（選択肢の意味）
+1 sacred：神聖な（神に関わる、けがしてはならない）
+2 grim：厳しい、険しい、気味の悪い
+3 sheer：まったくの、（布などが）透けるほど薄い
+4 lean：（肉が）脂肪の少ない、赤身の
+【考え方】
+まず見るところ：choosing (　) meats ... over meats that are fatty
+choose A over B は「BよりもAを選ぶ」という形です。この文では、Bの部分が次のようになっています。
+over meats that are fatty（脂肪の多い肉よりも）
+体重を減らしたい人に勧めるのは、脂肪の多い肉と反対の「脂肪の少ない肉」です。例として挙げられた chicken breast（鶏の胸肉）も、脂肪の少ない肉です。lean は肉について使うと「脂肪の少ない、赤身の」という意味になるので、4が正解です。
+この問題の型：対比（lean meats ⇔ meats that are fatty）
+【ほかの選択肢】
+1 sacred は「神聖な」です。「神聖な肉を選ぶ」では、脂肪の多い肉と比べる意味にならず、体重を減らすこととも関係がありません。
+2 grim は「厳しい、気味の悪い」です。「気味の悪い肉」では、脂肪の多い肉との比べ方として意味が通りません。
+3 sheer は「まったくの、透けるほど薄い」です。肉の性質として「脂肪の多い」と反対の意味にはならず、合いません。
+【覚えるポイント】
+・lean：（肉が）「脂肪の少ない、赤身の」。choose A over B：「BよりもAを選ぶ」。
+・choose A over B の形では、BとAが反対の性質になっていることが多いので、B（ここでは fatty）の反対を考えるのが手がかりになります。
