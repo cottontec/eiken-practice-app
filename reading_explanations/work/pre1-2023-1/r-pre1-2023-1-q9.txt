@@ -1,0 +1,34 @@
+---
+choices: swift | aloof | shallow | durable
+answerText: durable
+reviewed: yes
+---
+【正解】4 durable（丈夫な、長持ちする）
+【和訳】
+（英文）
+Bibi loves hiking and playing sports, so she needs clothes that do not wear out too quickly. When she goes shopping, she generally buys clothing that is ［durable］.
+（訳）
+ビビはハイキングやスポーツをするのが大好きなので、あまり早くすり切れない服が必要だ。買い物に行くと、彼女はたいてい（丈夫な）服を買う。
+（選択肢の意味）
+1 swift：速い、すばやい
+2 aloof：よそよそしい、（人と）距離を置いた
+3 shallow：浅い、浅はかな
+4 durable：丈夫な、長持ちする
+【考え方】
+まず見るところ：前の文の clothes that do not wear out too quickly
+最初に、前の文を見ます。
+Bibi loves hiking and playing sports, so she needs clothes that do not wear out too quickly.（ビビはハイキングやスポーツをするのが大好きなので、あまり早くすり切れない服が必要だ）
+wear out は「すり切れる、使いものにならなくなる」です。ビビは体を動かすことが多いので、すぐにだめにならない服が必要だということです。
+次に、空所のある文を見ます。
+When she goes shopping, she generally buys clothing that is ( ).（買い物に行くと、彼女はたいてい（　）服を買う）
+必要な服を買っていると考えると、空所には「すり切れにくい」という意味の語が入ります。
+durable は「丈夫な、長持ちする」なので、4が正解です。
+この問題の型：言いかえ（clothes that do not wear out too quickly → clothing that is durable）
+【ほかの選択肢】
+1 swift は「速い、すばやい」です。服そのものが速いわけではなく、すり切れにくい服という前の文の内容と合いません。
+2 aloof は「よそよそしい、（人と）距離を置いた」です。人の態度を表す語で、服の性質には使いません。
+3 shallow は「浅い、浅はかな」です。「浅い服」では意味が通らず、すり切れにくさとも関係がありません。
+【覚えるポイント】
+・durable：「丈夫な、長持ちする」。
+・wear out：「すり切れる、使いものにならなくなる」。
+・前の文で「どんなものが必要か」が説明されているときは、あとの文の空所にその言いかえ（ここでは do not wear out → durable）が入ることが多いので、前の文の説明を手がかりにします。

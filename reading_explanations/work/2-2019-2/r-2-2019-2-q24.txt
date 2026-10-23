@@ -1,0 +1,26 @@
+---
+choices: visited a museum | decided to go fishing | seen one of these creatures | sold pictures of whales
+answerText: seen one of these creatures
+reviewed: yes
+---
+【正解】3 seen one of these creatures（この生き物を目にした）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 visited a museum（美術館・博物館を訪れた）
+2 decided to go fishing（つりに行くことに決めた）
+3 seen one of these creatures（この生き物〔のうちの1頭〕を目にした）
+4 sold pictures of whales（クジラの写真〔絵〕を売った）
+【考え方】
+空所は第1段落の More and more people in the city have looked out at the ocean and ( 24 ). です。「市内では、海を眺めて（24）した人がますます増えている」という意味です。
+まず、すぐ前の文を見ます。ニューヨーク市は最近 becoming famous for something else—humpback whales（別のもの、つまりザトウクジラでも有名になりつつある）と書かれています。
+次に、すぐあとの文を見ます。fishermen first noticed the whales in the area and the sightings have become more frequent ever since（漁師たちがこの地域で初めてクジラに気づき、それ以来、目撃はますます多くなっている）とあります。sighting は「目撃（見かけること）」という意味です。
+前後とも「ニューヨークでクジラが見られるようになった」という話です。ですから、海を眺めた人たちは「クジラを見た」と考えられます。seen one of these creatures の these creatures（これらの生き物）は、前の文の humpback whales を指しています。また、文の形も have looked out ... and (have) seen となり、have のあとに過去分詞（seen）が並ぶ形になっています。ですから、3が正解です。
+【ほかの選択肢】
+1 「美術館・博物館を訪れた」は合いません。museums は、ニューヨークがもともと有名なものとして第1段落の最初に出てくるだけです。「海を眺めて美術館を訪れた人が増えている」では、クジラの話につながりません。
+2 「つりに行くことに決めた」は合いません。第1段落に fishermen（漁師たち）は出てきますが、彼らはクジラに初めて気づいた人として書かれています。つりに行く人が増えたという話はなく、あとの「目撃が増えた」ともつながりません。
+4 「クジラの写真（絵）を売った」は本文にありません。クジラの写真や絵を売る話はどこにも出てきません。
+【覚えるポイント】
+・sighting：「目撃（見かけること）」。動詞 see や名詞 sight（見ること、光景）と関係のある語です。
+・these creatures のように these ＋名詞があるときは、前の文の何を指すのかを確かめましょう。

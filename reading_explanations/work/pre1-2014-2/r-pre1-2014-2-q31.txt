@@ -1,0 +1,30 @@
+---
+choices: makes diseases hard to recognize | will lead to further advances | needs to change | has been necessary
+answerText: needs to change
+reviewed: yes
+---
+【正解】3 needs to change（変わる必要がある）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 makes diseases hard to recognize（病気を見分けにくくする）
+2 will lead to further advances（さらなる進歩につながるだろう）
+3 needs to change（変わる必要がある）
+4 has been necessary（これまで必要だった）
+【考え方】
+まず見るところ：第3段落の空所の後ろの The increasing number of allergies in developed countries, he says, is related to the destruction of the microbiome by antibiotics.
+空所のある文は次のとおりです。
+Dr. David Relman ... is convinced that the medical establishment's focus on killing germs ( 31 ).（デイビッド・レルマン博士は、病原菌を殺すことに重点を置く医学界のやり方は（31）と確信している）
+medical establishment は「医学界（医療の世界の中心となる人々や組織）」、be convinced は「確信している」という意味です。レルマン博士が「病原菌を殺すことに重点を置くやり方」をどう考えているかは、後ろの文から分かります。
+The increasing number of allergies in developed countries, he says, is related to the destruction of the microbiome by antibiotics.（先進国でアレルギーが増えていることは、抗生物質によってマイクロバイオームが破壊されていることと関係がある、と彼は言う）
+つまりレルマン博士は、菌を殺すやり方がアレルギーの増加という問題につながっていると考えています。さらに彼は、マイクロバイオームを自然保護区のように、多様性（いろいろな種類がそろっていること）を大切にして管理すべきだと言っています。これは、菌を殺すことに重点を置く今のやり方とはちがう考え方です。
+これらから、レルマン博士は「今のやり方は変わる必要がある」と考えていると読み取れます。ですから3が正解です。
+この問題の型：推論（問題点の指摘と新しい提案→今のやり方は変わるべき）
+【ほかの選択肢】
+1 「病気を見分けにくくする」は、本文に書かれていません。レルマン博士が問題にしているのはアレルギーの増加で、病気を見分けることについては述べていません。
+2 「さらなる進歩につながるだろう」は、レルマン博士の考えと反対です。彼は菌を殺すやり方がアレルギーの増加と関係していると言い、ほかの管理のしかたを提案しているので、このやり方をよいものとは考えていません。
+4 「これまで必要だった」も、本文に根拠がありません。レルマン博士は菌を殺すやり方の問題点を述べているだけで、それが必要だったと認める発言はありません。
+【覚えるポイント】
+・be convinced that ～：「～と確信している」。
+・ある人物の意見を表す空所は、そのあとの発言（ここではアレルギーの増加の指摘と、新しい管理のしかたの提案）から、その人物がそのやり方に賛成か反対かを考えるのが手がかりになります。

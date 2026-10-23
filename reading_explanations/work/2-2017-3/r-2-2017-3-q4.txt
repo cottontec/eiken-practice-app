@@ -1,0 +1,27 @@
+---
+choices: prevent | organize | complicate | harvest
+answerText: organize
+reviewed: yes
+---
+【正解】2 organize（計画して準備する、まとめる）
+【和訳】
+（英文）
+Dorothy was put in charge of the school festival. She had to prepare a schedule and ［organize］ all the activities.
+（訳）
+ドロシーは学園祭の責任者に任命されました。彼女は予定表を用意し、すべての催しを（計画して準備し）なければなりませんでした。
+（選択肢の意味）
+1 prevent：防ぐ
+2 organize：計画して準備する、まとめる
+3 complicate：複雑にする
+4 harvest：収穫する
+【考え方】
+最初の文の was put in charge of ～ は「～の責任者に任命された、～を任された」という意味です。ドロシーは学園祭全体を任されたことが分かります。
+空所のある文は She had to prepare a schedule and (　) all the activities.（彼女は予定表を用意し、すべての活動を（　）しなければならなかった）です。and で prepare a schedule（予定表を用意する）と並んでいるので、空所にも責任者がする仕事が入ると考えます。
+organize は「計画して準備する、まとめる」という意味です。organize all the activities で「すべての催しを計画して準備する」となり、学園祭の責任者の仕事として自然です。2が正解です。
+【ほかの選択肢】
+1 prevent は「防ぐ」です。「すべての催しを防ぐ」となり、学園祭を任された人の仕事として意味が通りません。
+3 complicate は「複雑にする」です。「すべての催しを複雑にする」となり、責任者がしなければならない仕事とは考えられません。
+4 harvest は「（作物を）収穫する」です。学園祭の催しは収穫するものではないので、意味が通りません。
+【覚えるポイント】
+・be put in charge of ～：「～の責任者に任命される、～を任される」。
+・organize：「計画して準備する、まとめる」。organize an event（行事を準備する）のように使います。

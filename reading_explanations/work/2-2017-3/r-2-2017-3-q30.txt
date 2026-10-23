@@ -1,0 +1,29 @@
+---
+choices: some people's minds do not respond well to bibliotherapy. | mental illnesses are becoming more common in modern times. | many modern treatments for mental illnesses are not effective. | reading can have benefits for people's mental health.
+answerText: reading can have benefits for people's mental health.
+reviewed: yes
+---
+【正解】4 reading can have benefits for people's mental health.（読書は人々の心の健康によい効果をもたらしうる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：一部の医師によると、
+1 some people's minds do not respond well to bibliotherapy.（読書療法にうまく反応しない心を持つ人もいる。）
+2 mental illnesses are becoming more common in modern times.（現代では、心の病気がより一般的になってきている。）
+3 many modern treatments for mental illnesses are not effective.（心の病気の現代の治療法の多くは効果がない。）
+4 reading can have benefits for people's mental health.（読書は人々の心の健康によい効果をもたらしうる。）
+【考え方】
+設問の some doctors（一部の医師）という語句を本文で探します。第1段落にあります。
+The idea that books are good for the mind has existed since ancient times, and in modern times, too, some doctors have emphasized the importance of reading for mental health.（本が心によいという考えは古代から存在しており、現代においても、心の健康のために読書が大切であることを強調してきた医師たちがいる）
+emphasize は「強調する」という意味です。一部の医師は「読書は心の健康にとって大切だ」と強く言ってきたことが分かります。
+本文と選択肢を対にすると、次のようになります。
+本文 the importance of reading for mental health（心の健康のための読書の大切さ）→ 選択肢 reading can have benefits for people's mental health（読書は人々の心の健康によい効果をもたらしうる）
+読書が心の健康にとって大切だと強調しているのは、読書が心の健康によい効果を持つと考えているからだと読み取れます。4が正解です。
+【ほかの選択肢】
+1 読書療法がうまく効かない人がいる、という内容は本文にありません。本文は読書療法の効果について述べています。
+2 心の病気が現代で増えている、という内容は本文にありません。in modern times（現代において）という語句は本文にも出てきますが、それは医師が読書の大切さを強調してきた時代を表しています。
+3 本文には、医学の専門家の言葉として reading can be as effective as other forms of treatment（読書はほかの治療法と同じくらい効果的になりうる）とあります。これは読書がほかの治療法と同じくらい効く、という意味で、ほかの治療法に効果がないとは言っていません。
+【覚えるポイント】
+・emphasize the importance of ～：「～の大切さを強調する」。
+・as effective as ～：「～と同じくらい効果的な」。

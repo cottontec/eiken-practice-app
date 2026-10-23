@@ -1,0 +1,29 @@
+---
+choices: reducing electricity use | causing new problems | growing in popularity | improving the environment
+answerText: growing in popularity
+reviewed: yes
+---
+【正解】3 growing in popularity（人気が高まっている）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 reducing electricity use（電気の使用を減らしている）
+2 causing new problems（新しい問題を引き起こしている）
+3 growing in popularity（人気が高まっている）
+4 improving the environment（環境をよくしている）
+【考え方】
+空所は第1段落の Nevertheless, e-bikes are quickly (21). です。Nevertheless は「それにもかかわらず」という意味で、前の文と反対の内容が続くことを表します。
+前の文は Some cycling fans think that it is "cheating" to use a bike with a motor.（サイクリング好きの人の中には、モーター付きの自転車を使うのは「ずる」だと考える人もいる）です。eバイクをよく思わない人がいる、という内容です。ですから、空所にはそれと反対の、eバイクにとってよい内容が入ると考えられます。
+さらに、空所のすぐあとの文に注目します。
+In fact, e-bike sales in the United States were eight times greater in 2018 than in 2014 according to one survey.（実際、ある調査によると、アメリカでのeバイクの売り上げは、2018年には2014年の8倍だった）
+In fact（実際）は、前に言ったことを具体的な事実で裏づけるときに使います。売り上げが4年で8倍になったというのは、eバイクを買う人が急に増えた、つまり人気が急に高まったことを示す事実です。
+growing in popularity は「人気が高まっている」という意味です。e-bikes are quickly growing in popularity で「eバイクは急速に人気が高まっている」となり、Nevertheless の前とも In fact のあととも、きちんとつながります。ですから3が正解です。
+【ほかの選択肢】
+1 「電気の使用を減らしている」を入れると、「それにもかかわらず、eバイクは急速に電気の使用を減らしている」となります。eバイクはモーターを使う自転車で、電気の使用を減らすという話は本文にありません。また、あとの「売り上げが8倍」という事実の裏づけにもなりません。
+2 「新しい問題を引き起こしている」は、第3段落で専門家が問題を指摘しているので、入りそうに見えるかもしれません。しかし、空所の前は「ずるだと考える人もいる」という否定的な意見で、Nevertheless（それにもかかわらず）のあとには反対のよい内容が来るはずです。また、「売り上げが8倍」は問題を表す事実ではありません。
+4 「環境をよくしている」は、第2段落に「環境によい影響を与えるかもしれない」とあるので、入りそうに見えるかもしれません。しかし、それは研究者の主張で、may（かもしれない）が付いています。空所のすぐあとの「売り上げが8倍になった」という事実は、環境がよくなったことの裏づけにはなりません。
+【覚えるポイント】
+・Nevertheless：「それにもかかわらず」。前の文と反対の内容が続く合図です。
+・In fact：「実際」。前の文の内容を、具体的な事実で裏づけるときに使います。
+・～ times greater ... than …：「…の～倍」。eight times greater in 2018 than in 2014 は「2018年は2014年の8倍」です。

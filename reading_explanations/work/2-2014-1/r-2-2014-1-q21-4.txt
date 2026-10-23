@@ -1,0 +1,21 @@
+---
+choices: goes | every | then he | now and | to
+answerText: goes
+order: 2 4 3 1 5
+reviewed: yes
+---
+【正解】1 goes（この問題の4番目）
+【完成文】
+Phil does not go shopping very often, but ( every now and then he goes to ) the mall to buy new shoes.
+並べ方：2 every → 4 now and → 3 then he → 1 goes → 5 to（2番目は4、4番目は1）
+【和訳】
+フィルはあまり買い物に行きませんが、ときどき、新しい靴を買いにショッピングモールへ行きます。
+【考え方】
+4番目を決めるために、空所の中を「いつ」と「だれが・どうする」の2つに分けて考えます。
+空所のあとは the mall to buy new shoes（新しい靴を買うためにショッピングモールへ）です。ここから、空所の中には「フィルがモールへ行く」という内容が入ると分かります。主語は 3 then he の he、動詞は 1 goes、場所へ向かうことを表すのが 5 to です。he goes to the mall で「彼はモールへ行く」となります。
+残った 2 every と 4 now and は、then he の then とつながって every now and then（ときどき）となります。前半の does not go shopping very often（あまり買い物に行かない）と but でつながり、「あまり行かないが、ときどきは行く」という意味になります。
+every now and then のあとに he goes to が続くので、並びは every → now and → then he → goes → to です。4番目は1 goes です。
+every now and then he to goes のように to と goes を逆にしてしまうと、「行く」という動詞が to の前にこないので、the mall とつながりません。go to ＋場所 の順で覚えておきましょう。
+【覚えるポイント】
+・go to ＋場所：「（場所）へ行く」。
+・every now and then：「ときどき」。

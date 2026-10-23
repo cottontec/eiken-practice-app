@@ -1,0 +1,33 @@
+---
+choices: has the faces of famous historical leaders carved into it. | may show that early humans believed in the existence of gods. | is a symbol of the importance of farming to early humans. | was probably at the center of one of the first human villages.
+answerText: may show that early humans believed in the existence of gods.
+reviewed: yes
+---
+【正解】2 may show that early humans believed in the existence of gods.（初期の人類が神々の存在を信じていたことを示しているかもしれない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：The Shigir Idol is a wooden statue that（シギルの偶像は、次のような木の像です。）
+1 has the faces of famous historical leaders carved into it.（歴史上の有名な指導者たちの顔が彫り込まれている。）
+2 may show that early humans believed in the existence of gods.（初期の人類が神々の存在を信じていたことを示しているかもしれない。）
+3 is a symbol of the importance of farming to early humans.（初期の人類にとっての農業の大切さを表すしるしである。）
+4 was probably at the center of one of the first human villages.（おそらく最初の人類の村の一つの中心にあった。）
+【考え方】
+まず見るところ：第2段落の The Shigir Idol is a tall wooden statue ～ と、そのあとの Experts say ～
+設問は「シギルの偶像がどんな木の像か」です。第2段落に、シギルの偶像の説明があります。
+The Shigir Idol is a tall wooden statue that has faces and symbols carved into it.（シギルの偶像は、顔や記号が彫り込まれた背の高い木の像だ）
+Experts say that it is very likely that these symbols express religious beliefs about the gods they worshipped.（専門家たちは、これらの記号が、人々が崇拝していた神々についての宗教的な信仰を表している可能性がとても高いと言っている）
+worship は「崇拝する（神などをうやまって拝む）」という意味です。神々を崇拝していたということは、神々がいると信じていたということです。また、専門家は it is very likely（可能性がとても高い）と言っていて、はっきりそうだと決まったわけではありません。
+本文と選択肢を対にすると、次のようになります。
+本文 these symbols express religious beliefs about the gods they worshipped（記号は、崇拝していた神々についての宗教的な信仰を表している）→ 選択肢 early humans believed in the existence of gods（初期の人類が神々の存在を信じていた）と読み取れます。
+前の文の A recent discovery, though, suggests that religious beliefs may have existed before this time.（しかし、最近のある発見は、宗教的な信仰がこの時期より前に存在していたかもしれないことを示している）も、同じ内容です。本文の it is very likely や may have existed は、どちらも言い切らない言い方です。選択肢も may show（示しているかもしれない）と言い切っていないので、本文と合っています。
+ですから、2が正解です。
+この問題の型：言いかえ（religious beliefs about the gods ＝ believed in gods）、推論（記号の意味から人類の信仰を考える）
+【ほかの選択肢】
+1 シギルの偶像には faces（顔）が彫り込まれていますが、それが歴史上の有名な指導者たちの顔だとは書かれていません。顔の部分だけが本文と同じで、だれの顔かという点は本文にありません。
+3 第3段落に、像は long before humans in the area began farming（その地域の人類が農業を始めるずっと前）に作られたとあります。農業の大切さを表すしるしだという話はありません。
+4 第3段落に、像は持ち主の人々が移動するときに分解して別の場所で組み立てられるように作られていたとあります。また、農業を始めて村に住む前の時代のものです。最初の村の中心にあったという話は本文にありません。
+【覚えるポイント】
+・worship：「崇拝する（神などをうやまって拝む）」。
+・選択肢に may や probably があるときは、本文にも it is very likely や may have ～ のような言い切らない表現があるかを確かめます。程度（言い切りか、可能性か）が合っているかも、正解を決める手がかりになります。

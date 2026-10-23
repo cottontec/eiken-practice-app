@@ -1,0 +1,31 @@
+---
+choices: clutch | violate | wield | resume
+answerText: resume
+reviewed: yes
+---
+【正解】4 resume（再開する）
+【和訳】
+（英文）
+Janelle was able to ［resume］ long-distance running three months after injuring her knee. She was happy that she was able to train again.
+（訳）
+ジャネルは、ひざをけがしてから3か月後に長距離走を（再開する）ことができた。彼女は再び練習できるようになったことがうれしかった。
+（選択肢の意味）
+1 clutch：しっかりつかむ
+2 violate：（規則などを）破る、違反する
+3 wield：（道具・権力などを）ふるう、使いこなす
+4 resume：再開する（中断していたことをまた始める）
+【考え方】
+まず見るところ：後ろの文の she was able to train again
+She was happy that she was able to train again.（彼女は再び練習できるようになったことがうれしかった）
+train は「練習する、トレーニングする」、again は「再び」という意味です。けがでいったん止まっていた練習を、また始められたことが分かります。
+空所のある文は次のとおりです。
+Janelle was able to ( ) long-distance running three months after injuring her knee.（ジャネルは、ひざをけがしてから3か月後に長距離走を（　）ことができた）
+「再び練習できた」という後ろの文と合わせると、長距離走を「再開する」ことができた、と考えられます。resume は「再開する」なので、4が正解です。
+この問題の型：言いかえ（resume long-distance running → train again）
+【ほかの選択肢】
+1 clutch は「しっかりつかむ」です。「長距離走をしっかりつかむ」となり、意味が通りません。
+2 violate は「（規則などを）破る」です。「長距離走を破る」となり、再び練習できて喜んでいる後ろの文とつながりません。
+3 wield は「（道具・権力などを）ふるう」です。長距離走は手に持ってふるうものではないので、意味が通りません。
+【覚えるポイント】
+・resume：「再開する」。この文では train again（再び練習する）で言いかえられています。
+・後ろの文に again（再び）があるときは、空所に「もう一度始める」という意味の語が入らないかを考えると手がかりになります。

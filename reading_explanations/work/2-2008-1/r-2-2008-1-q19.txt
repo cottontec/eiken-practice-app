@@ -1,0 +1,24 @@
+---
+choices: getting | get | to getting | to get
+answerText: to get
+reviewed: yes
+---
+【正解】4 to get（manage to ～ で「なんとか～する」）
+【和訳】
+レスリーには歴史のレポートを書くのに2日しかありませんでしたが、彼女は一生懸命取り組み、なんとか時間どおりにそれを仕上げました。
+（選択肢の意味）
+1 getting：get の ing 形
+2 get（原形）
+3 to getting：to＋getting
+4 to get：to＋get（原形）
+【考え方】
+空所の前の managed に注目します。manage は、うしろに〈to＋動詞の原形〉を続けて manage to ～ とすると「なんとか～する、どうにか～をやりとげる」という意味になります。動詞の原形は、get のように -ing や -s などがつかない、もとの形のことです。
+文の前半は Leslie only had two days to write her history report（レスリーには歴史のレポートを書くのに2日しかなかった）、but she worked hard（でも一生懸命取り組んだ）です。時間が少なかったのにがんばった、という流れなので、「なんとか仕上げた」という意味の manage to がぴったりです。
+get it done は「それを終わらせる、仕上げる」、on time は「時間どおりに」です。managed to get it done on time で「なんとか時間どおりに仕上げた」となります。正解は4です。
+【ほかの選択肢】
+1 getting は ing 形です。manage のあとに ing 形を続けて「なんとか～する」とは言いません。
+2 get は原形ですが、manage のあとには to が必要です。managed get という形にはなりません。
+3 to getting は to のあとが ing 形になっています。manage to ～ の to のあとは原形にするので、誤りです。
+【覚えるポイント】
+・manage to ～：「なんとか～する、どうにか～をやりとげる」。to のあとは動詞の原形です。
+・get ～ done：「～を終わらせる、仕上げる」。on time は「時間どおりに」。

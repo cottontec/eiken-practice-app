@@ -1,0 +1,32 @@
+---
+choices: least | less | only | worse
+answerText: less
+reviewed: yes
+---
+【正解】2 less（～も。no less than ～ の形）
+【和訳】
+（英文）
+Chris has been training hard for the city soccer championship. He runs no ［less］ than 5 kilometers and spends over an hour exercising in the gym every day.
+（訳）
+クリスは、市のサッカー選手権大会に向けて、ずっと一生懸命トレーニングをしています。彼は毎日、5キロメートル（も）走り、ジムで1時間以上運動しています。
+（選択肢の意味）
+1 least：最も少ない
+2 less：より少ない
+3 only：ただ～だけ
+4 worse：より悪い
+【考え方】
+まず見るところ：空所のあとの than と、前の He runs no
+He runs no (　) than 5 kilometers and spends over an hour exercising in the gym every day.（彼は毎日、5キロメートル（　）走り、ジムで1時間以上運動している）
+than は、比較級（「より～」を表す形）といっしょに使います。選択肢の中で than と組み合わせられるのは、less（より少ない）と worse（より悪い）です。
+Chris has been training hard for the city soccer championship.（クリスは、市のサッカー選手権大会に向けて、ずっと一生懸命トレーニングをしている）
+一生懸命トレーニングしていて、ジムでも1時間以上運動しているので、走る距離も多いと考えられます。
+no less than ～ は「～より少ないことはない」から「～も」という意味で、数や量が多いことを強調する言い方です。空所に less を入れると「5キロメートルも走る」となり、トレーニングの様子に合うので、2が正解です。
+この問題の型：熟語・決まった形（no less than ～）、推論（トレーニングの様子から、量の多さを考える）
+【ほかの選択肢】
+1 least は「最も少ない」という最上級（「最も～」を表す形）です。than とは組み合わせないので、no least than という形にはなりません。
+3 only は「ただ～だけ」です。比較級ではないので、no only than という形にはなりません。
+4 worse は bad（悪い）の比較級なので than と組み合わせられますが、「5キロメートルより悪くなく走る」となり、意味が通りません。
+【覚えるポイント】
+・no less than ～：「～も」。数や量が多いことを強調します。反対に no more than ～ は「たった～しか」です。
+・次に同じ形が出たら：空所のあとに than があるときは、まず比較級（less、worse など）かどうかを確かめます。そのうえで、前後の内容が「多い」のか「少ない」のかを見て、no less / no more のどちらかを決めると手がかりになります。
+・has been training：「（今まで）ずっとトレーニングしている」。

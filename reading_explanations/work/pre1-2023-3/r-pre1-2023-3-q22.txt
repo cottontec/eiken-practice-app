@@ -1,0 +1,29 @@
+---
+choices: die away | rub down | back out | call off
+answerText: die away
+reviewed: yes
+---
+【正解】1 die away（〈音などが〉だんだん弱まって消える）
+【和訳】
+（英文）
+As the man walked up into the hills, the noises of the city began to ［die away］ until the only thing he could hear was the birds singing.
+（訳）
+その男性が丘の上へ歩いて登っていくにつれて、街の騒音は（だんだん小さくなり）始め、ついには聞こえるのは鳥のさえずりだけになった。
+（選択肢の意味）
+1 die away：（音などが）だんだん弱まって消える
+2 rub down：こすってきれいにする、（体を）マッサージする
+3 back out：（約束などから）手を引く
+4 call off：中止する、取りやめる
+【考え方】
+まず見るところ：空所の後ろの until the only thing he could hear was the birds singing
+主語は the noises of the city（街の騒音）です。空所の後ろに、その結果どうなったかが書かれています。
+until the only thing he could hear was the birds singing（彼に聞こえる唯一のものが鳥のさえずりになるまで）
+the only thing he could hear は「彼が聞くことのできた唯一のもの」です。最後には鳥の声しか聞こえなくなったのですから、街の騒音は少しずつ小さくなって消えていったと考えられます。die away は「（音などが）だんだん弱まって消える」なので、1が正解です。
+この問題の型：語の意味・組み合わせ（noises ＋ die away）
+【ほかの選択肢】
+2 rub down は「こすってきれいにする」で、あとに目的語（動作を受ける語）を置いて使います。「街の騒音がこすってきれいにし始めた」となり、意味が通りません。
+3 back out は「（約束などから）手を引く」で、ふつう人について使います。「街の騒音が約束から手を引き始めた」となり、意味が通りません。
+4 call off は「中止する」で、あとに中止するもの（試合や会議など）を置いて使います。「街の騒音が中止し始めた」となり、意味が通りません。
+【覚えるポイント】
+・die away：「（音・風などが）だんだん弱まって消える」。the only thing he could hear：「彼に聞こえる唯一のもの」。
+・began to (　) until ～（～になるまで…し始めた）の形では、until の後ろの最後の様子（ここでは鳥の声だけになった）が、空所の変化の向きを決める手がかりになります。

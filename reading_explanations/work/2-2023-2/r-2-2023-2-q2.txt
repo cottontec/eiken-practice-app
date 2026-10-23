@@ -1,0 +1,31 @@
+---
+choices: structure | baggage | disadvantage | lecture
+answerText: disadvantage
+reviewed: yes
+---
+【正解】3 disadvantage（不利な点、欠点）
+【和訳】
+（英文）
+Having a part-time job is good for Kaoru because she needs extra money to spend, but one ［disadvantage］ is that she cannot go out with her friends on weekends.
+（訳）
+カオルは自分で使うための余分なお金が必要なので、アルバイトをすることは彼女にとってよいことです。しかし、1つの（不利な点）は、週末に友だちと遊びに出かけられないことです。
+（選択肢の意味）
+1 structure：構造、仕組み
+2 baggage：（旅行の）手荷物
+3 disadvantage：不利な点、欠点
+4 lecture：講義
+【考え方】
+まず見るところ：文の前半の is good for Kaoru と、そのあとの but
+Having a part-time job is good for Kaoru（アルバイトをすることはカオルにとってよい）
+前半ではアルバイトのよい面を述べています。そのあとに but（しかし）が続くので、後半では反対に、よくない面が述べられると考えられます。
+one (　) is that she cannot go out with her friends on weekends（1つの（　）は、週末に友だちと出かけられないことだ）
+is that ～ は「～ということだ」という意味で、that 以下が空所の名詞の中身を説明しています。「週末に友だちと出かけられない」は、アルバイトのよくない面です。
+disadvantage（不利な点、欠点）を入れると、but の前の「よい面」とうまく対比（2つを比べて違いを示すこと）されます。ですから3が正解です。
+この問題の型：対比（よい面 ⇔ よくない面）
+【ほかの選択肢】
+1 structure は「構造、仕組み」です。「1つの構造は、週末に友だちと出かけられないことだ」となり、意味が通りません。
+2 baggage は「（旅行の）手荷物」です。アルバイトのよくない面を表す言葉ではなく、文に合いません。
+4 lecture は「講義（大学などでの話による授業）」です。「1つの講義は、週末に友だちと出かけられないことだ」となり、意味が通りません。
+【覚えるポイント】
+・disadvantage：「不利な点、欠点」。反対の意味の語は advantage（有利な点、利点）です。
+・前半で good（よい）と言ったあとに but が来たら、後半には反対の「よくない面」を表す語が入る手がかりになります。

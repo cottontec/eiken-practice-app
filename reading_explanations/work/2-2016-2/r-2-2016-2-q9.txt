@@ -1,0 +1,27 @@
+---
+choices: flows | shares | argues | marries
+answerText: flows
+reviewed: yes
+---
+【正解】1 flows（流れる、流れ込む）
+【和訳】
+（英文）
+Money ［flows］ into Hawaii during the holiday season because of the large number of tourists during that period.
+（訳）
+休暇の時期には、その期間の観光客の数が多いので、お金がハワイに（流れ込みます）。
+（選択肢の意味）
+1 flows：流れる
+2 shares：分け合う、共有する
+3 argues：言い争う、主張する
+4 marries：結婚する
+【考え方】
+文の主語（「何が」に当たる語）は Money（お金）で、空所のすぐあとに into Hawaii（ハワイの中へ）が続いています。「お金がハワイの中へ（　）する」という形です。
+理由を表す because of the large number of tourists during that period（その期間の観光客の数が多いので）に注目します。観光客がたくさん来ると、ホテルや買い物などでお金を使うので、ハワイにたくさんのお金が入ってきます。
+flow は「流れる」という意味で、flow into ～ で「～に流れ込む」となります。お金が水のように次々と入ってくる様子を表す言い方で、観光客が多いという理由とも合うので、1が正解です。
+【ほかの選択肢】
+2 shares は「分け合う、共有する」です。「お金がハワイの中へ分け合う」となり、意味が通りません。
+3 argues は「言い争う、主張する」です。人が主語のときに使う語で、お金が言い争うことはありません。
+4 marries は「結婚する」です。お金が主語では意味が通りません。
+【覚えるポイント】
+・flow into ～：「～に流れ込む」。水だけでなく、お金や人が入ってくる様子にも使います。
+・because of ～：「～のために、～が原因で」。あとに名詞のまとまりが続きます。

@@ -1,0 +1,28 @@
+---
+choices: has been having trouble finding new police officers. | cannot get a local company to recycle its old cars. | is interested in buying police cars that do not use gasoline. | has bought products from Trireme Autos in the past.
+answerText: is interested in buying police cars that do not use gasoline.
+reviewed: yes
+---
+【正解】3 is interested in buying police cars that do not use gasoline.（ガソリンを使わないパトカーを買うことに関心がある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ウォーカートン市は…
+1 has been having trouble finding new police officers.（新しい警察官を見つけるのに苦労している。）
+2 cannot get a local company to recycle its old cars.（地元の会社に古い車をリサイクルしてもらうことができない。）
+3 is interested in buying police cars that do not use gasoline.（ガソリンを使わないパトカーを買うことに関心がある。）
+4 has bought products from Trireme Autos in the past.（過去にトライリーム自動車から製品を買ったことがある。）
+【考え方】
+設問は「ウォーカートン市」について問うています。メールの第1段落を見ます。
+Trireme Autos is happy to hear that the city of Walkerton wants to replace some of its traditional, gasoline-powered police cars with electric ones.（トライリーム自動車は、ウォーカートン市が、従来のガソリンで走るパトカーの一部を電気で走るパトカーに置き換えたいと考えていると聞いて、うれしく思っている）とあります。replace A with B は「AをBに置き換える」、electric ones の ones は police cars のことです。
+つまり、市はガソリンで走るパトカーの代わりに、電気で走るパトカーを使いたいと考えています。電気で走るパトカーは、ガソリンを使わないパトカーです。本文と選択肢は次のように対応しています。
+本文 wants to replace ～ gasoline-powered police cars with electric ones（ガソリンで走るパトカーを電気のパトカーに置き換えたい）＝ 選択肢 is interested in buying police cars that do not use gasoline（ガソリンを使わないパトカーを買うことに関心がある）
+ザッカーマンさんの会社は電気自動車を作る会社で、市に自社の車を使ってもらおうとしているので、「買うことに関心がある」という言い方とも合います。正解は3です。
+【ほかの選択肢】
+1 新しい警察官を見つけることについては、本文に書かれていません。本文で話題になっているのは警察官ではなく、パトカーです。
+2 古い車のリサイクルについては、本文に書かれていません。本文は、古いパトカーの一部を電気のパトカーに置き換える話です。
+4 市が以前にトライリーム自動車から製品を買ったことがあるとは、本文に書かれていません。
+【覚えるポイント】
+・replace A with B：「AをBに置き換える、AをBと取りかえる」。
+・gasoline-powered：「ガソリンで動く」。electric（電気で動く）と対になっています。

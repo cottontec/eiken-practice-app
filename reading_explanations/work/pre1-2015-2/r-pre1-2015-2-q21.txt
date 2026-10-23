@@ -1,0 +1,32 @@
+---
+choices: descendant | commuter | wanderer | servant
+answerText: descendant
+reviewed: yes
+---
+【正解】1 descendant（子孫）
+【和訳】
+（英文）
+Alice did some research on her family history and was surprised to learn that she is a ［descendant］ of the Norwegian royal family on her mother's side.
+（訳）
+アリスは自分の家族の歴史について少し調べ、自分が母方でノルウェー王家の（子孫）だと知って驚いた。
+（選択肢の意味）
+1 descendant：子孫
+2 commuter：通勤する人、通学する人
+3 wanderer：さまよう人、放浪者
+4 servant：使用人、召使い
+【考え方】
+まず見るところ：文の初めの research on her family history と、文の最後の on her mother's side
+文の初めを見ます。
+Alice did some research on her family history（アリスは自分の家族の歴史について少し調べた）
+家族の歴史を調べると、自分の祖先（先祖）がだれなのかが分かります。
+文の最後も見ます。
+on her mother's side（母方で）
+これは「母親の側の血筋で」という意味です。つまりアリスは、母親の家系をさかのぼるとノルウェー王家につながると知ったのです。descendant は「子孫」なので、1が正解です。
+この問題の型：語の意味・組み合わせ（a descendant of ～ on one's mother's side）
+【ほかの選択肢】
+2 commuter は「通勤する人」です。家族の歴史を調べて分かることではなく、「母方で」という血筋の話ともつながりません。
+3 wanderer は「さまよう人」です。「母方でノルウェー王家のさまよう人だ」では意味が通りません。
+4 servant は「使用人」です。「母方でノルウェー王家の使用人だ」では、家族の歴史を調べて分かる血のつながりの話になりません。on her mother's side（母方で）は血筋を表すので、合いません。
+【覚えるポイント】
+・a descendant of ～：「～の子孫」。on one's mother's side：「母方で」。
+・family history（家族の歴史）や on one's mother's side（母方で）のような語句は、血のつながりを表す語が入る手がかりになります。

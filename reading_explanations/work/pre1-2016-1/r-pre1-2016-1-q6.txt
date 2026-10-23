@@ -1,0 +1,31 @@
+---
+choices: disturbance | consequence | deduction | commencement
+answerText: disturbance
+reviewed: yes
+---
+【正解】1 disturbance（騒ぎ、騒動）
+【和訳】
+（英文）
+The police rushed to Green Park after receiving a report of a ［disturbance］ there. Upon arriving, they found members of two rival gangs fighting.
+（訳）
+警察は、グリーン公園で（騒ぎ）が起きているという通報を受けて、急いでそこへ向かった。到着すると、対立する2つのギャング団のメンバーが争っていた。
+（選択肢の意味）
+1 disturbance：騒ぎ、騒動
+2 consequence：結果
+3 deduction：差し引くこと；推論
+4 commencement：開始；卒業式
+【考え方】
+まず見るところ：あとの文の they found members of two rival gangs fighting
+空所のある文では、警察が a report of a (　) there（そこでの（　）の通報）を受けて、グリーン公園へ急いだと書かれています。警察が急いで向かうのですから、何か困ったことが起きていると考えられます。
+次の文で、着いたときの様子が分かります。
+Upon arriving, they found members of two rival gangs fighting.（到着すると、対立する2つのギャング団のメンバーが争っていた）
+rival は「対立している、張り合っている」、gang は「ギャング団（乱暴なことをする集団）」です。公園でけんかが起きていたということです。
+disturbance は「騒ぎ、騒動（人々の平和をみだす出来事）」という意味です。「騒ぎの通報を受けて急行した」となり、着いたらけんかが起きていたという次の文とつながります。ですから1が正解です。
+この問題の型：具体例とまとめ（あとの文のけんか ＝ 騒ぎ）
+【ほかの選択肢】
+2 consequence は「結果」です。「公園での結果の通報」では、何が起きたのかが分からず、警察が急ぐ理由になりません。
+3 deduction は「差し引くこと、推論」です。「公園での推論の通報」となり、けんかが起きていた場面に合いません。
+4 commencement は「開始、卒業式」です。「公園での開始の通報」では意味が通らず、ギャング団の争いともつながりません。
+【覚えるポイント】
+・a report of a disturbance：「騒ぎ（が起きているという）の通報」。
+・空所の名詞が何を指すかは、あとの文（到着すると争っていた）に具体的に書かれていることが多いので、その様子をまとめる語を選びましょう。

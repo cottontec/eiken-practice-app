@@ -1,0 +1,34 @@
+---
+choices: attentively | consecutively | wearily | eloquently
+answerText: attentively
+reviewed: yes
+---
+【正解】1 attentively（注意深く、熱心に）
+【和訳】
+（英文）
+“Class, I want you all to listen very ［attentively］,” the teacher said. “Much of what I will say is not in the textbook but will be on the test.”
+（訳）
+「みなさん、全員にとても（注意深く）聞いてほしいと思います」と先生は言った。「私がこれから話すことの多くは、教科書には載っていませんが、テストには出ます」。
+（選択肢の意味）
+1 attentively：注意深く、熱心に
+2 consecutively：連続して
+3 wearily：疲れて、うんざりして
+4 eloquently：雄弁に（上手に話して）
+【考え方】
+まず見るところ：先生のあとのことば Much of what I will say is not in the textbook but will be on the test.
+最初に、空所のある部分を確かめます。
+I want you all to listen very ( )（全員にとても（　）聞いてほしい）
+空所には listen（聞く）のしかたを表す副詞（動詞のようすを説明する語）が入ります。
+次に、先生のあとのことばを見ます。
+Much of what I will say is not in the textbook but will be on the test.（私がこれから話すことの多くは、教科書には載っていませんが、テストには出ます）
+教科書に載っていないことがテストに出るので、生徒は先生の話をしっかり聞かなければなりません。
+attentively は「注意深く、熱心に」なので、1が正解です。
+この問題の型：因果（教科書にないがテストに出る → 注意深く聞いてほしい）
+【ほかの選択肢】
+2 consecutively は「連続して」です。「連続して聞いてほしい」では、教科書にないことがテストに出るという理由とつながりません。
+3 wearily は「疲れて、うんざりして」です。テストに出る大事な話を「うんざりして聞いてほしい」と先生が言うのは、あとのことばと合いません。
+4 eloquently は「雄弁に（上手に話して）」です。話し方を表す語なので、listen（聞く）のしかたには合いません。
+【覚えるポイント】
+・attentively：「注意深く、熱心に」。listen attentively で「注意深く聞く」。
+・Much of what I will say：「私がこれから話すことの多く」。
+・空所に動詞のしかたを表す語が入るときは、あとに続く理由（ここでは「テストに出る」）から、どんなふうにしてほしいのかを考えると手がかりになります。

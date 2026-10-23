@@ -1,0 +1,24 @@
+---
+choices: examined | convinced | restricted | substituted
+answerText: convinced
+reviewed: yes
+---
+【正解】2 convinced（～を納得させた、～を説得した）
+【和訳】
+初め、デビーの両親は彼女にトルコへ旅行してほしくないと思っていましたが、最終的に彼女は、それが自分にとってよい経験になるだろうと両親を納得させました。
+（選択肢の意味）
+1 examined：～を調べた
+2 convinced：～を納得させた
+3 restricted：～を制限した
+4 substituted：～を代わりに使った
+【考え方】
+文の前半は At first, Debbie's parents did not want her to travel to Turkey（初め、デビーの両親は彼女にトルコへ旅行してほしくなかった）です。そのあと but eventually（しかし最終的に）と続きます。eventually は「最終的に、ついに」という意味です。
+but があるので、後半では前半と反対の方向に話が進むと考えられます。初めは反対していた両親が、最後には考えを変えた、という流れです。
+空所のあとは them that it would be a good experience for her（両親に、それが彼女にとってよい経験になるだろうと）という形です。convince は convince 人 that ～ の形で「人に～だと納得させる」という意味になります。she convinced them that ～ で「彼女は～だと両親を納得させた」となり、話の流れに合います。正解は2です。
+【ほかの選択肢】
+1 examined は「～を調べた、～を診察した」です。「両親を、それがよい経験になるだろうと調べた」となり、意味が通りません。
+3 restricted は「～を制限した」です。restrict 人 that ～ という形はとらず、両親が考えを変えたという流れにも合いません。
+4 substituted は「～を代わりに使った」です。「両親を代わりに使った」となり、意味が通りません。
+【覚えるポイント】
+・convince 人 that ～：「人に～だと納得させる」。
+・eventually：「最終的に、ついに」。

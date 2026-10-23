@@ -1,0 +1,31 @@
+---
+choices: fall off | trip up | sit in | try out
+answerText: fall off
+reviewed: yes
+---
+【正解】1 fall off（減る、落ちこむ）
+【和訳】
+（英文）
+The online music video was popular at first, but the number of viewers soon began to ［fall off］, and most people had forgotten about it within a couple of months.
+（訳）
+そのインターネット上の音楽ビデオは、最初は人気があったが、視聴者の数はすぐに（減り）始め、2、3か月のうちには、ほとんどの人がそのビデオのことを忘れてしまっていた。
+（選択肢の意味）
+1 fall off：減る、落ちこむ
+2 trip up：つまずく、（人を）まちがえさせる
+3 sit in：（会議などに）出席する、見学する
+4 try out：試す、（チームなどの）テストを受ける
+【考え方】
+まず見るところ：文の初めの was popular at first, but と、後半の most people had forgotten about it
+The online music video was popular at first, but the number of viewers soon began to ( )（その音楽ビデオは、最初は人気があったが、視聴者の数はすぐに（　）始めた）
+at first は「最初は」という意味で、あとで状況が変わることを予告しています。but（しかし）があるので、後半は「人気が落ちた」という反対の内容になると考えられます。
+and most people had forgotten about it within a couple of months（そして、2、3か月のうちに、ほとんどの人がそのことを忘れてしまっていた）
+a couple of は「2、3の」です。忘れられたということは、見る人がどんどん少なくなったということです。
+fall off は「（数や量が）減る、落ちこむ」という意味です。the number of viewers（視聴者の数）が減り始めた、となるので、1が正解です。
+この問題の型：対比（最初は人気⇔視聴者の数が減る）／熟語・決まった形（fall off）
+【ほかの選択肢】
+2 trip up は「つまずく、（人を）まちがえさせる」です。「視聴者の数がつまずき始めた」では意味が通りません。
+3 sit in は「（会議などに）出席する、（授業などを）見学する」です。数について使う言い方ではなく、意味が通りません。
+4 try out は「試す、（チームなどに入るための）テストを受ける」です。「視聴者の数が試し始めた」では意味が通りません。
+【覚えるポイント】
+・fall off：「（数や量が）減る、落ちこむ」。
+・at first（最初は）～, but … の形では、but のあとに最初と反対の変化が来ます。「人気があった」のあとなら「減る、落ちる」という内容を探す手がかりになります。

@@ -1,0 +1,30 @@
+---
+choices: frowned | slipped | guessed | crawled
+answerText: frowned
+reviewed: yes
+---
+【正解】1 frowned（顔をしかめた）
+【和訳】
+（英文）
+When the teacher said there would be a test next week, the students ［frowned］. They had hoped that they would have more time to study.
+（訳）
+先生が来週テストがあると言ったとき、生徒たちは（顔をしかめました）。生徒たちは、勉強する時間がもっとあればと望んでいたのです。
+（選択肢の意味）
+1 frowned：顔をしかめた、まゆをひそめた
+2 slipped：すべった
+3 guessed：推測した
+4 crawled：はって進んだ
+【考え方】
+まず見るところ：2文目の They had hoped that they would have more time to study.
+1文目では、先生が「来週テストがある」と言ったときの生徒たちの反応が空所になっています。2文目で、生徒たちの気持ちが説明されています。
+They had hoped that they would have more time to study.（生徒たちは、勉強する時間がもっとあればと望んでいた）
+had hoped は、先生の話を聞く前から望んでいたことを表します。もっと時間がほしかったのに、テストは来週だと言われたので、生徒たちはいやな気持ちになったと考えられます。
+frown は「顔をしかめる、まゆをひそめる」という意味で、frowned はその過去形です。いやな気持ちが顔に出たことを表すので、2文目とつながります。ですから1が正解です。
+この問題の型：因果（もっと時間がほしかった → 顔をしかめた）
+【ほかの選択肢】
+2 slipped は「すべった」です。テストの話を聞いて生徒たちがすべった、というのは、勉強の時間がほしかったという気持ちと結びつきません。
+3 guessed は「推測した」です。何を推測したのかが書かれておらず、2文目の気持ちの説明ともつながりません。
+4 crawled は「はって進んだ」です。テストの知らせを聞いたときの反応としては合いません。
+【覚えるポイント】
+・frown：「顔をしかめる、まゆをひそめる」。過去形は frowned です。
+・人の反応を表す動詞を選ぶときは、そのあとに書かれた気持ち（ここでは had hoped ～）がうれしいものか、いやなものかを確かめると、答えを決める手がかりになります。

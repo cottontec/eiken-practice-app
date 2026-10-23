@@ -1,0 +1,31 @@
+---
+choices: transparent | deficient | modified | pessimistic
+answerText: deficient
+reviewed: yes
+---
+【正解】2 deficient（不足している、足りない）
+【和訳】
+（英文）
+The doctor said Marlene's diet was ［deficient］ in iron and other minerals, and that this was causing her to tire easily and have poor health.
+（訳）
+医師は、マーリーンの食事は鉄分やほかのミネラルが（不足して）いて、そのせいで彼女は疲れやすく、体調がよくないのだと言いました。
+（選択肢の意味）
+1 transparent：透明な、すき通った
+2 deficient：不足している、足りない
+3 modified：修正された、一部を変えられた
+4 pessimistic：悲観的な（物事を悪いほうに考える）
+【考え方】
+まず見るところ：空所の後ろの in iron and other minerals と、後半の this was causing her to tire easily
+空所の後ろは in iron and other minerals（鉄分やほかのミネラルの点で）です。iron は「鉄、鉄分」、minerals は「ミネラル（体に必要な栄養素の一種）」です。
+後半は次のとおりです。
+and that this was causing her to tire easily and have poor health（そして、このことが彼女を疲れやすくし、体調を悪くしているのだと）
+this は前半の「食事が鉄分などの点で（　）であること」を指します。疲れやすく体調が悪い原因になるのですから、食事に鉄分やミネラルが「足りない」と考えられます。
+deficient は「不足している、足りない」という意味で、be deficient in ～ で「～が不足している」という形になります。空所の後ろの in ともつながるので、2が正解です。
+この問題の型：熟語・決まった形（be deficient in ～）／指示語（this＝鉄分などが不足していること）
+【ほかの選択肢】
+1 transparent は「透明な、すき通った」です。「食事は鉄分の点で透明だった」となり、意味が通りません。疲れやすい原因にもなりません。
+3 modified は「修正された、一部を変えられた」です。「食事は鉄分の点で修正されていた」では、なぜ疲れやすくなったのかが分かりません。
+4 pessimistic は「悲観的な」で、人の考え方について使う語です。「食事が悲観的だった」となり、意味が通りません。
+【覚えるポイント】
+・be deficient in ～：「～が不足している」。栄養や健康の話題で使われることがあります。
+・空所の後ろの this が何を指すかをたどり、それが「疲れやすい、体調が悪い」のような悪い結果の原因になっているときは、「不足」や「欠けている」の意味の語が手がかりになります。

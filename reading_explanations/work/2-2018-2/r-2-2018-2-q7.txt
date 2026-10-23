@@ -1,0 +1,27 @@
+---
+choices: compromises | statistics | terminals | religions
+answerText: statistics
+reviewed: yes
+---
+【正解】2 statistics（統計、統計の数字）
+【和訳】
+（英文）
+The computer company studied its sales ［statistics］ to learn more about who was buying its products. It found that people in their 20s bought the most expensive computers.
+（訳）
+そのコンピューター会社は、だれが自社の製品を買っているのかをもっと知るために、販売の（統計）を調べました。その結果、最も高価なコンピューターを買っていたのは20代の人々だと分かりました。
+（選択肢の意味）
+1 compromises：妥協
+2 statistics：統計
+3 terminals：終点、（コンピューターの）端末
+4 religions：宗教
+【考え方】
+空所の前は studied its sales（自社の販売の～を調べた）です。そのあとの to learn more about who was buying its products は「だれが自社の製品を買っているのかについてもっと知るために」という意味で、調べた目的を表しています。
+次の文では It found that people in their 20s bought the most expensive computers.（20代の人々が最も高価なコンピューターを買っていると分かった）と、調べた結果が書かれています。in their 20s は「20代の」という意味です。
+「どの年代の人が、どの値段のコンピューターを買ったか」を知るには、販売の数字をまとめたものを調べる必要があります。statistics は「統計」、つまり、たくさんの数字を集めて整理したデータのことです。sales statistics で「販売統計」となり、目的とも結果ともつながります。ですから、2が正解です。
+【ほかの選択肢】
+1 compromises は「妥協（おたがいにゆずり合って決めること）」です。「販売の妥協を調べた」となり、だれが買っているかを知る方法になりません。
+3 terminals は「終点、終着駅、（コンピューターの）端末」です。「販売の端末を調べた」では機械そのものを調べたことになり、20代の人が最も高価なコンピューターを買っていたという、数字をもとにした発見とつながりません。
+4 religions は「宗教」です。会社が販売の宗教を調べるという内容は意味が通りません。
+【覚えるポイント】
+・statistics：「統計（たくさんの数字を集めて整理したもの）」。sales statistics（販売統計）のように使います。
+・in one's 20s：「20代の」。in their 30s なら「30代の」です。

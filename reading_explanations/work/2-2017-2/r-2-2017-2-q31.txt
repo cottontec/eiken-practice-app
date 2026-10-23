@@ -1,0 +1,31 @@
+---
+choices: Homeless people are offered job training and given new jobs. | Homeless people are provided with homes without any requirements. | It supports people who have trouble paying for medical treatments. | It helps people who have recently lost their home find a new one.
+answerText: Homeless people are provided with homes without any requirements.
+reviewed: yes
+---
+【正解】2 Homeless people are provided with homes without any requirements.（ホームレスの人々は、何の条件もなく住まいを提供される。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：10万戸の住まい運動は、ホームレスの人々を助けるための従来の（それまでの）方法と、どのように違いますか。
+1 Homeless people are offered job training and given new jobs.（ホームレスの人々は、職業訓練を提供され、新しい仕事を与えられる。）
+2 Homeless people are provided with homes without any requirements.（ホームレスの人々は、何の条件もなく住まいを提供される。）
+3 It supports people who have trouble paying for medical treatments.（医療費を払うのに困っている人々を支援する。）
+4 It helps people who have recently lost their home find a new one.（最近家を失った人々が、新しい家を見つけるのを手助けする。）
+【考え方】
+従来の方法と運動のやり方の違いは、第2段落に書かれています。
+・従来の方法：in the past, homeless people were often required to participate in job-training programs or receive treatment for their illnesses before they would be given a home（以前は、ホームレスの人々は、住まいを与えられる前に、職業訓練のプログラムに参加したり、病気の治療を受けたりするよう求められることがよくあった）
+・運動のやり方：The 100,000 Homes Campaign decided to adopt a different approach. The organization would first give them somewhere to live and after that help them change their lives.（10万戸の住まい運動は違うやり方を取り入れることにした。団体は、まず住む場所を与え、そのあとで生活を変えるのを手助けすることにした）
+be required to ～ は「～することを求められる」という意味です。以前は、住まいをもらうには、先に職業訓練や治療という条件を満たす必要がありました。運動では順番を逆にして、まず住まいを与えています。
+本文と選択肢を対にすると、次のようになります。
+本文 first give them somewhere to live（まず住む場所を与える）＝ 選択肢 are provided with homes（住まいを提供される）
+本文 以前は were required to ～ before they would be given a home（住まいの前に～を求められた）が、運動ではそうしない → 選択肢 without any requirements（何の条件もなく）
+2が正解です。
+【ほかの選択肢】
+1 職業訓練は、従来の方法で「住まいの前に求められていたもの」として出てきます。運動の違いとして書かれているのではありません。また、団体が新しい仕事を与えたとも書かれていません。第4段落の finding work（仕事を見つけた）は、助けられた人々自身がしたことです。
+3 医療費の話は第3段落に出てきますが、それは「ホームレスの人々が高額な医療を必要としやすく、その費用を自治体が払うことになる」という、自治体が住まいの費用を出した理由です。医療費の支払いに困っている人を支援するとは書かれていません。
+4 運動が助けようとしたのは these long-term homeless（こうした長期のホームレスの人々）で、何年も住む場所がない人々です。最近家を失った人々ではないので、対象が違います。
+【覚えるポイント】
+・be required to ～：「～することを求められる」。requirement は「（満たすべき）条件」。
+・adopt a different approach：「違うやり方を取り入れる」。

@@ -1,0 +1,29 @@
+---
+choices: provide safe homes | find clean water | produce enough food | make enough energy
+answerText: produce enough food
+reviewed: yes
+---
+【正解】3 produce enough food（十分な食べ物を生産する）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 provide safe homes（安全な住まいを提供する）
+2 find clean water（きれいな水を見つける）
+3 produce enough food（十分な食べ物を生産する）
+4 make enough energy（十分なエネルギーを作る）
+【考え方】
+空所は第1段落の many people are worried that they will not be able to (21) for all the people in the world です。「多くの人々が、世界中のすべての人々のために（21）できなくなるのではないかと心配している」という意味です。
+この文は Therefore（そのため）で始まっているので、前の文に心配の理由が書かれています。
+・The world's population is steadily increasing（世界の人口は着実に増え続けている）
+・global warming has led to dramatic climate change（地球温暖化が劇的な気候の変化を引き起こしてきた）
+・Hot, dry summers in many areas where crops are grown have made farming more difficult.（作物が育てられている多くの地域で、暑く乾いた夏が農業を以前より難しくしてきた）
+人口が増えているのに、作物を育てる農業は難しくなっています。そこから心配されるのは、「すべての人のための食べ物を十分に作れなくなること」です。
+さらに、第2段落以降を見ると、「簡単な解決策」として、イギリスで作物（crops）の40パーセント以上が無駄になっている話や、余った果物と野菜を集めて配る団体の話が続き、最後に our food problems（私たちの食料問題）とまとめられています。話題が一貫して食べ物であることからも、3が正解だと確かめられます。
+【ほかの選択肢】
+1 「安全な住まいを提供する」は、本文に住まいの話がないので合いません。心配の理由として書かれているのは、人口の増加と農業が難しくなったことです。
+2 「きれいな水を見つける」について、本文には dry（乾いた）という語がありますが、暑く乾いた夏は「農業を難しくしたもの」として書かれています。水を見つける話はなく、そのあとの解決策も作物の無駄を減らす話なので、つながりません。
+4 「十分なエネルギーを作る」は、本文にエネルギーの話が出てきません。後の段落の解決策も果物と野菜についての話です。
+【覚えるポイント】
+・Therefore：「そのため、したがって」。前の文に理由や原因が書かれている合図です。
+・空所の答えに迷ったら、あとの段落の「解決策」が何の問題を解決しようとしているかを確かめると、空所の内容が分かることがあります。

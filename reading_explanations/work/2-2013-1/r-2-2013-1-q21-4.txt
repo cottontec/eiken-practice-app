@@ -1,0 +1,21 @@
+---
+choices: with | she | angry | deal | has to
+answerText: with
+order: 2 5 4 1 3
+reviewed: yes
+---
+【正解】1 with（この問題の4番目）
+【完成文】
+Amanda works in the call center at a computer company. Sometimes, ( she has to deal with angry ) customers when they telephone the company.
+並べ方：2 she → 5 has to → 4 deal → 1 with → 3 angry（2番目は5、4番目は1）
+【和訳】
+アマンダは、コンピューター会社のコールセンター（電話の問い合わせを受ける部署）で働いています。ときどき、客が会社に電話をかけてきたときに、彼女は怒っている客に対応しなければなりません。
+【考え方】
+空所は Sometimes,（ときどき）のあとにあり、文の初めの部分です。まず主語（「～は」にあたる語）を決めます。選択肢の中で主語になれるのは 2 she（彼女は）だけです。she は前の文の Amanda を指します。
+次に動詞の部分を置きます。5 has to は「～しなければならない」という意味で、あとに動詞の原形（変化しない元の形）が続きます。ここでは 4 deal を続けます。
+deal は 1 with と組み合わせて deal with ～（～に対応する、～を相手にする）という決まった言い方になります。with のあとには「だれに対応するのか」がきます。空所のすぐあとに customers（客）があるので、3 angry を customers の前に置いて angry customers（怒っている客）とします。
+4番目に 1 with が来るのは、「～に対応する」という意味は deal with ～ の形で表し、with のあとに対応する相手（angry customers）を置くからです。
+with を deal の前に置いて with deal とするのはまちがいです。「～に対応する」は deal with ～ の順番で使う決まった言い方です。
+【覚えるポイント】
+・deal with ～：「～に対応する、～を扱う」。deal with a problem（問題に対処する）のようにも使います。
+・have to ～：「～しなければならない」。主語が she なので has to になります。

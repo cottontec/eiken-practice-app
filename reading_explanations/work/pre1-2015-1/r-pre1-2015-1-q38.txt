@@ -1,0 +1,34 @@
+---
+choices: Efforts to bring more teachers to low-income areas had created a shortage of qualified teachers in high-performing schools. | Changes in the public education system had resulted in a generally lower level of education for high school students. | Students from low-income families had not changed their attitudes toward high school education over the previous 20 years. | The number of high school graduates in the United States had decreased due to changes in the nation's economy.
+answerText: Changes in the public education system had resulted in a generally lower level of education for high school students.
+reviewed: yes
+---
+【正解】2 Changes in the public education system had resulted in a generally lower level of education for high school students.（公教育の仕組みの変化によって、高校生の教育の水準が全体的に下がっていたから。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Why did the National Commission on Excellence in Education release a warning in 1983?（教育の卓越性に関する国家委員会は、なぜ1983年に警告を出したのか。）
+1 Efforts to bring more teachers to low-income areas had created a shortage of qualified teachers in high-performing schools.（低所得の地域により多くの教師を送る取り組みによって、成績のよい学校で資格をもつ教師が足りなくなっていたから。）
+2 Changes in the public education system had resulted in a generally lower level of education for high school students.（公教育の仕組みの変化によって、高校生の教育の水準が全体的に下がっていたから。）
+3 Students from low-income families had not changed their attitudes toward high school education over the previous 20 years.（低所得の家庭の生徒が、それまでの20年間、高校教育に対する態度を変えていなかったから。）
+4 The number of high school graduates in the United States had decreased due to changes in the nation's economy.（国の経済の変化によって、アメリカの高校卒業生の数が減っていたから。）
+【考え方】
+まず見るところ：第1段落の Unfortunately, declines in ～ と、最後の文の this was destroying
+警告の内容は、第1段落の最後の文に書かれています。
+In 1983, the National Commission on Excellence in Education warned that this was destroying the "educational foundations of our society" and threatening the nation's future.（1983年、教育の卓越性に関する国家委員会は、このことが「私たちの社会の教育の土台」を壊し、国の将来をおびやかしていると警告した）
+this（このこと）が何を指すかを、前の文で確かめます。
+Unfortunately, declines in the overall quality of public education and in high school students' academic performance, which had resulted from changes in both college entrance standards and high school graduation requirements, were also observed.（残念なことに、公教育の全体的な質の低下と、高校生の学力の低下も見られた。これらの低下は、大学の入学基準と高校の卒業要件の両方が変わったことから生じたものだった）
+decline は「低下」、result from ～ は「～から生じる」です。
+本文と選択肢を対にすると、次のようになります。
+本文 changes in both college entrance standards and high school graduation requirements（大学の入学基準と高校の卒業要件の両方の変化）→ 選択肢 Changes in the public education system（公教育の仕組みの変化）
+本文 declines in the overall quality of public education and in high school students' academic performance（公教育の全体的な質と、高校生の学力の低下）→ 選択肢 a generally lower level of education for high school students（高校生の教育の水準が全体的に下がった）
+本文の which had resulted from ～ は「～から生じた」、選択肢の had resulted in ～ は「～という結果になった」で、原因と結果の向きを入れかえた言い方になっています。ですから2が正解です。
+この問題の型：指示語（this ＝ 前の文の質と学力の低下）／因果（result from ⇔ result in）
+【ほかの選択肢】
+1 本文には、低所得の地域に教師を送る取り組みのせいで、成績のよい学校の教師が足りなくなった、という話はありません。1960年代からの政策は、低所得の生徒の learning opportunities（学習の機会）を増やすものでした。
+3 本文には、低所得の家庭の生徒の高校教育に対する態度についての話はありません。20年間に書かれているのは、政策によって高校の卒業生の数が増えたことです。
+4 本文と反対です。本文には、政策によって raising the number of high school graduates by 25 percent（高校の卒業生の数を25パーセント増やした）とあり、卒業生の数は増えています。国の経済の変化についても書かれていません。
+【覚えるポイント】
+・A result from B：「AはBから生じる」。B result in A：「BはAという結果になる」。原因と結果の向きが反対になるので、どちらが原因かを確かめましょう。
+・警告や主張の文に this（このこと）があるときは、その直前の文をもう一度読むことが、理由をたずねる設問の手がかりになります。

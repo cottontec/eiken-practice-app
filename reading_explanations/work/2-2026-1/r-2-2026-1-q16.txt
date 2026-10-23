@@ -1,0 +1,30 @@
+---
+choices: distinct from | composed of | absent from | threatening to
+answerText: distinct from
+reviewed: yes
+---
+【正解】1 distinct from（～とはっきり異なる）
+【和訳】
+（英文）
+The two paintings looked ［distinct from］ each other at first, but when John looked more closely, he saw that they were very similar in one way.
+（訳）
+その2枚の絵は、最初はたがいに（はっきり異なって）見えましたが、ジョンがもっと注意深く見ると、ある点でとてもよく似ていることが分かりました。
+（選択肢の意味）
+1 distinct from：～とはっきり異なる
+2 composed of：～で構成された、～でできている
+3 absent from：～を欠席して、～にない
+4 threatening to：～をおびやかすような、～にとってこわい感じの
+【考え方】
+まず見るところ：but のあとの they were very similar in one way
+文の前半と後半が but（しかし）でつながっています。後半を先に見ます。
+when John looked more closely, he saw that they were very similar in one way（ジョンがもっと注意深く見ると、ある点でとてもよく似ていることが分かった）
+前半には at first（最初は）があります。but の前後は反対の内容になるので、「最初は似ていないように見えた」→「よく見ると似ていた」という流れだと分かります。
+distinct from ～ は「～とはっきり異なる」という意味です。looked distinct from each other で「たがいにはっきり異なって見えた」となり、後半の very similar（とてもよく似ている）と対比（2つを比べて違いを示すこと）になります。ですから1が正解です。
+この問題の型：対比（at first distinct ⇔ but very similar）
+【ほかの選択肢】
+2 composed of は「～で構成された、～でできている」です。「2枚の絵は、たがいで構成されているように見えた」となり、意味が通りません。
+3 absent from は「～を欠席して、～にない」です。「たがいを欠席しているように見えた」となり、絵の見え方を表せません。
+4 threatening to は「～をおびやかすような、～にとってこわい感じの」です。「たがいをおびやかすように見えた」では、後半の「よく似ていた」と対比になる「似ていない」という意味にならず、but の前後がつながりません。
+【覚えるポイント】
+・distinct from ～：「～とはっきり異なる」。similar は「似ている」です。
+・at first（最初は）～, but ...（しかし…）の文では、but の前後が反対の内容になることが多いので、後半の語（ここでは similar）の反対の意味を探すと答えを決める手がかりになります。

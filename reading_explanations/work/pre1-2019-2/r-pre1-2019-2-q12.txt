@@ -1,0 +1,33 @@
+---
+choices: deflated | oppressed | complemented | overstated
+answerText: overstated
+reviewed: yes
+---
+【正解】4 overstated（大げさに言われた、誇張された）
+【和訳】
+（英文）
+Although many people are afraid of being attacked by a shark in the ocean, the danger is greatly ［overstated］. The truth is that you are more likely to be struck by lightning.
+（訳）
+多くの人が海でサメに襲われることを恐れているが、その危険は大いに（誇張されている）。実は、（サメに襲われるより）雷に打たれる可能性のほうが高いのだ。
+（選択肢の意味）
+1 deflated：空気が抜けた、（気持ちが）しぼんだ
+2 oppressed：（権力で）押さえつけられた、しいたげられた
+3 complemented：補われた、引き立てられた
+4 overstated：大げさに言われた、誇張された
+【考え方】
+まず見るところ：文の最初の Although と、次の文の The truth is that ～
+Although は「～だけれども」で、前半と後半が反対の流れになることを示します。
+Although many people are afraid of being attacked by a shark in the ocean,（多くの人が海でサメに襲われることを恐れているが、）
+前半は「多くの人がサメをこわがっている」です。後半の the danger（その危険）は、サメに襲われる危険を指しています。
+次の文で、事実が示されます。
+The truth is that you are more likely to be struck by lightning.（実は、雷に打たれる可能性のほうが高いのだ）
+be likely to ～ は「～しそうだ、～する可能性がある」です。サメに襲われるより雷に打たれる可能性のほうが高い、と事実を示しています。つまり、サメの危険は人々がこわがっているほど大きくない、という流れです。
+overstate は「大げさに言う、実際より大きく言う」なので、the danger is greatly overstated（その危険は大いに誇張されている）となり、4が正解です。
+この問題の型：対比（人々の思いこみ⇔実際の危険の小ささ）
+【ほかの選択肢】
+1 deflated は「空気が抜けた、しぼんだ」です。「その危険は大いに空気が抜けている」では意味が通りません。
+2 oppressed は「（権力で）押さえつけられた」です。人々や国民について使う語で、「その危険は押さえつけられている」では、雷のほうが可能性が高いという次の文の説明につながりません。
+3 complemented は「補われた、引き立てられた」です。「その危険は大いに補われている」では意味が通りません。
+【覚えるポイント】
+・overstate：「大げさに言う、実際より大きく言う」。be greatly overstated で「大いに誇張されている、ひどく大げさに言われている」。
+・Although ～（～だけれども）で人々の思いこみが書かれ、次に The truth is that ～（実は～）が続くときは、空所に「思いこみは正しくない」という方向の語が入る手がかりになります。

@@ -1,0 +1,38 @@
+---
+choices: They tend to demonstrate a way of thinking that is similar to an attitude encouraged by religions. | They should seek the advice of doctors regarding their diet because the foods they tend to eat are less healthy than they think. | They have little in common with vegans or vegetarians because there is no philosophical element to orthorexia. | They need support from churches and other religious organizations because treatments with a spiritual element are more effective.
+answerText: They tend to demonstrate a way of thinking that is similar to an attitude encouraged by religions.
+reviewed: yes
+---
+【正解】1 They tend to demonstrate a way of thinking that is similar to an attitude encouraged by religions.（オルトレキシアに苦しむ人は、宗教が勧める態度に似た考え方を示す傾向がある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What point regarding orthorexia sufferers is supported by Dr. Steven Bratman's comment?（スティーブン・ブラットマン医師の発言によって裏づけられているのは、オルトレキシアに苦しむ人についてのどのような点ですか。）
+1 They tend to demonstrate a way of thinking that is similar to an attitude encouraged by religions.（オルトレキシアに苦しむ人は、宗教が勧める態度に似た考え方を示す傾向がある。）
+2 They should seek the advice of doctors regarding their diet because the foods they tend to eat are less healthy than they think.（オルトレキシアに苦しむ人が食べがちな食べ物は、本人が思っているほど健康によくないので、食事について医者の助言を求めるべきだ。）
+3 They have little in common with vegans or vegetarians because there is no philosophical element to orthorexia.（オルトレキシアには哲学的な要素がないので、オルトレキシアに苦しむ人には、ヴィーガンや菜食主義者との共通点がほとんどない。）
+4 They need support from churches and other religious organizations because treatments with a spiritual element are more effective.（精神的な要素のある治療のほうが（そうでない治療より）効果があるので、オルトレキシアに苦しむ人には教会やそのほかの宗教団体からの支えが必要だ。）
+【考え方】
+まず見るところ：第4段落の Some experts note the similarities between orthorexia … and spiritual practices と、ブラットマン医師の発言
+第4段落は、オルトレキシアと宗教的な行いが似ているという話から始まります。
+Some experts note the similarities between orthorexia—in which ideas about food often take on strong moral associations—and spiritual practices.（オルトレキシア――そこでは、食べ物についての考えがしばしば強い道徳的な意味合いを帯びる――と、精神的な修行との類似点を指摘する専門家もいる）
+spiritual practices は「精神的な修行（宗教などで心をきたえるための行い）」です。
+そのあとに、ブラットマン医師の発言があります。
+the inner life of sufferers "becomes dominated by efforts to resist temptation."（この障害に苦しむ人の内面の生活は「誘惑に抵抗しようとする努力に支配されるようになる」）
+temptation は「誘惑（してはいけないことをしたくなる気持ち）」です。ここでの誘惑は、避けている食べ物を食べたくなる気持ちのことだと考えられます。
+段落の最後の文も確かめます。
+In an age where religion is seen as less central to everyday life, orthorexia may simply be a new way for people to turn toward ritual and control of their physical desires.（宗教が日常生活の中で（かつてより）中心的なものではないと見られている時代において、オルトレキシアは、人々が儀式や、体の欲求を抑えることへと向かう新しい方法にすぎないのかもしれない）
+この文は、宗教の役割が小さくなった時代に、オルトレキシアが「体の欲求を抑えること」へ向かう新しい方法になっているかもしれない、と述べています。つまり本文は、体の欲求を抑えることを、宗教的な行いと結びつけて考えています。
+本文と選択肢1を対にすると、次のようになります。
+本文 the similarities between orthorexia … and spiritual practices（オルトレキシアと精神的な修行との類似点）→ 選択肢 similar to an attitude encouraged by religions（宗教が勧める態度に似ている）
+本文 efforts to resist temptation（誘惑に抵抗しようとする努力）→ 選択肢 a way of thinking（考え方）
+ブラットマン医師の発言は、オルトレキシアの人の心が「誘惑に負けまいとする」宗教的な修行に似ていることを示しており、選択肢1の内容を支えていると読み取れます。よって1が正解です。
+この問題の型：推論（誘惑に抵抗する努力→宗教が勧める態度に似ている）／具体例とまとめ（発言が段落の主張を支える）
+【ほかの選択肢】
+2 本文にない内容です。オルトレキシアの人が食べる物が本人の思っているほど健康によくない、という話も、医者の助言を求めるべきだという話も書かれていません。
+3 本文と逆です。第4段落には、オルトレキシアと結びつけられることのある、ヴィーガンや菜食主義者の食事には often have a philosophical element（哲学的な要素があることが多い）とあります。
+4 本文にない内容です。教会や宗教団体による支えや、精神的な要素のある治療の効果については書かれていません。本文は宗教的な行いとの「似ている点」を述べているだけです。
+【覚えるポイント】
+・resist temptation：「誘惑に抵抗する」。
+・「～の発言によって裏づけられているのはどの点か」という設問では、発言の前後の文（ここでは段落の初めの similarities ～ と最後のまとめ）に書かれた主張を探し、発言がその主張のどの部分を支えているかを考えると手がかりになります。

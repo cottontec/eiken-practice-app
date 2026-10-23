@@ -1,0 +1,27 @@
+---
+choices: capture | behave | launch | impress
+answerText: launch
+reviewed: yes
+---
+【正解】3 launch（〔新製品を〕売り出す、発売する）
+【和訳】
+（英文）
+KLD Hair Care will ［launch］ a new product next week. The product is a new type of hair gel, and it will be sold in stores starting next Tuesday.
+（訳）
+KLDヘアケア社は、来週、新製品を発売します。その製品は新しい種類のヘアジェル（髪の形を整えるための整髪料）で、来週の火曜日から店で売られます。
+（選択肢の意味）
+1 capture：捕まえる、とらえる
+2 behave：ふるまう
+3 launch：（新製品を）売り出す、開始する
+4 impress：感心させる、よい印象を与える
+【考え方】
+1文目は KLD Hair Care will (　) a new product next week.（KLDヘアケア社は来週、新製品を（　）するだろう）です。空所のあとの a new product（新製品）が、空所に入る動詞の目的語（「～を」にあたる語）です。
+2文目に it will be sold in stores starting next Tuesday（それは来週の火曜日から店で売られる）とあります。starting ～ は「～から（始まって）」という意味です。つまり、新製品がもうすぐ売り出されるという話です。
+launch は「（新製品を）売り出す、（事業などを）始める」という意味です。launch a new product で「新製品を発売する」となり、2文目の「来週火曜日から店で売られる」と合います。正解は3です。
+【ほかの選択肢】
+1 capture は「捕まえる、とらえる」です。「会社が新製品を捕まえる」となり、意味が通りません。
+2 behave は「ふるまう、行儀よくする」です。behave はふつう後ろに目的語をとらないので、behave a new product という形にはならず、意味も通りません。
+4 impress は「（人を）感心させる、よい印象を与える」です。impress の後ろには、ふつう感心させる相手の「人」がきます。「会社が新製品を感心させる」となり、意味が通りません。
+【覚えるポイント】
+・launch a new product：「新製品を発売する」。launch には「（ロケットなどを）打ち上げる」という意味もあります。
+・starting ～：「～から（始まって）」。starting next Tuesday で「来週の火曜日から」。

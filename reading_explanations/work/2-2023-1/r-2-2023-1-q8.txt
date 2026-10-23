@@ -1,0 +1,30 @@
+---
+choices: sprayed | demanded | awarded | punished
+answerText: sprayed
+reviewed: yes
+---
+【正解】1 sprayed（〔液体〕を吹きかけた、まいた）
+【和訳】
+（英文）
+Yesterday, there was a small fire at a house on the street where Ben lives. Firefighters ［sprayed］ water onto the fire and soon put it out.
+（訳）
+昨日、ベンが住んでいる通りのある家で、小さな火事がありました。消防士たちは火に水を（吹きかけ）、すぐにそれを消しました。
+（選択肢の意味）
+1 sprayed：～を吹きかけた、まいた
+2 demanded：～を要求した
+3 awarded：（賞など）をあたえた
+4 punished：～を罰した
+【考え方】
+まず見るところ：空所のあとの water onto the fire
+1文目から、小さな火事があったことが分かります。2文目は次のとおりです。
+Firefighters (　) water onto the fire and soon put it out.（消防士たちは火に水を（　）し、すぐにそれを消した）
+put out ～ は「（火など）を消す」、it は the fire（火）を指しています。onto は「～の上へ」という意味で、水が火のほうへ向かって動いていく様子を表します。
+火を消すために水をどうしたのかを考えると、「吹きかけた」が合います。spray は「（液体）を吹きかける、まく」という意味で、spray water onto ～ で「～に水を吹きかける」となります。ですから1が正解です。
+この問題の型：語の意味・組み合わせ（spray water onto ～）
+【ほかの選択肢】
+2 demanded は「～を要求した（強く求めた）」です。「火に水を要求した」となり、意味が通りません。
+3 awarded は「（賞など）をあたえた」です。「火に水を賞としてあたえた」となり、意味が通りません。
+4 punished は「～を罰した」です。罰する相手は人なので、「水を火の上へ罰した」では文が成り立ちません。
+【覚えるポイント】
+・spray A onto B：「AをBに吹きかける」。put out ～ は「（火など）を消す」です。
+・空所のあとに「何を」「どこへ」（water onto the fire）が続くときは、その2つと組み合わせて意味が通る動詞を選びましょう。

@@ -1,0 +1,27 @@
+---
+choices: For instance | In contrast | Since then | Even so
+answerText: In contrast
+reviewed: yes
+---
+【正解】2 In contrast（それに対して、対照的に）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 For instance（たとえば）
+2 In contrast（それに対して、対照的に）
+3 Since then（それ以来）
+4 Even so（たとえそうでも、それでも）
+【考え方】
+空所は第1段落の (24), NLCs are formed around 80 kilometers away, in a section of the sky called the mesosphere. の文の始めにあります。文と文をつなぐ言葉を選ぶので、空所の前と後を比べます。
+空所の前：Most clouds form near the earth's surface—usually within 10 kilometers of the ground.（ほとんどの雲は地表の近く、たいていは地面から10キロメートル以内でできる）
+空所の後：NLCs are formed around 80 kilometers away（NLCはおよそ80キロメートル離れたところでできる）
+前は「ふつうの雲は低いところでできる」、後は「NLCはずっと高いところでできる」という内容で、2種類の雲のできる高さの違いを比べています。さらにその前には NLCs are different from the clouds we see every day.（NLCは私たちが毎日見る雲とは違う）とあり、違いを説明する流れであることが分かります。
+2つのものの違いを示すときに使うのが In contrast（それに対して）です。ですから、2が正解です。
+【ほかの選択肢】
+1 For instance（たとえば）は、前の内容の具体例を続けるときに使います。NLCは「ほとんどの雲」の例ではなく、それとは違う雲として説明されているので、合いません。
+3 Since then（それ以来）は、前に出てきた時点から後のことを述べるときに使います。空所の前には「いつ」を表す時点が出てこないので、then が指すものがなく、つながりません。
+4 Even so（たとえそうでも、それでも）は、「雨が強く降っていた。それでも、試合は行われた」のように、前の内容から考えると意外なことを続けるときに使います。ここに入れると「ほとんどの雲は地面から10キロメートル以内でできる。それでも、NLCはおよそ80キロメートル離れたところでできる」となります。しかし、ふつうの雲が低いところでできるからといって、NLCも低いところでできるはずだという話ではありません。ここは2種類の雲のできる高さを比べて違いを示しているので、「それでも」ではなく In contrast（それに対して）が合います。
+【覚えるポイント】
+・In contrast：「それに対して、対照的に」。2つのものの違いを示すときに使います。
+・be different from ～：「～とは違う」。この表現が出てきたら、違いを比べる流れを予想しましょう。

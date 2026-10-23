@@ -1,0 +1,26 @@
+---
+choices: marked up | stood down | gave in | set out
+answerText: set out
+reviewed: yes
+---
+【正解】4 set out（取りかかった、乗り出した）
+【和訳】
+（英文）
+After retiring and moving to the countryside, Leroy ［set out］ to write a novel. His goal was to complete it within a year.
+（訳）
+退職して田舎に引っ越した後、リロイは小説を書くことに（取りかかった）。彼の目標は、それを1年以内に書き上げることだった。
+（選択肢の意味）
+1 marked up：値上げした、書きこみをした　2（役職から）身を引いた、辞任した
+3 gave in：降参した、（要求に）負けて従った
+4 set out：取りかかった、乗り出した
+【考え方】
+空所の後ろに to write a novel（小説を書くことに）と、to + 動詞の原形が続いています。そして2文目に His goal was to complete it within a year.（彼の目標は、それを1年以内に完成させることだった）とあります。
+目標を決めて小説を書き始めた、という流れなので、空所には「（何かをしようと）始める、取りかかる」という意味の語句が入ると考えられます。
+set out to do は「～しようと取りかかる、～することに乗り出す」という意味の決まった形です。to write a novel ともぴったりつながるので、4が正解です。
+【ほかの選択肢】
+1 marked up は「値上げした」「（文書に）書きこみをした」という意味です。marked up to write a novel という形では意味が通りません。
+2 stood down は「（役職から）身を引いた、辞任した」という意味です。リロイはすでに退職している（After retiring）ので、ここでさらに「身を引いた」というのは話の流れに合いません。
+3 gave in は「降参した、（圧力や要求に）負けて従った」という意味で、give in to ～（～に屈する）の形で使います。to write a novel と組み合わせて「小説を書くことに降参した」となり、意味が通りません。
+【覚えるポイント】
+・set out to do：「～しようと取りかかる、～することに乗り出す」。
+・give in (to ～)：「（～に）屈する、降参する」。to の後ろには名詞がきます。

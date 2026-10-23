@@ -1,0 +1,33 @@
+---
+choices: anxious | suspicious | devious | nutritious
+answerText: nutritious
+reviewed: yes
+---
+【正解】4 nutritious（栄養のある）
+【和訳】
+（英文）
+A: Honey, that was delicious! Thanks for cooking tonight.
+B: My pleasure. And it was ［nutritious］ as well. I used only healthy ingredients because I know you've been trying to eat better recently.
+（訳）
+A：ねえ、おいしかったよ！今夜は料理を作ってくれてありがとう。
+B：どういたしまして。それに、（栄養のある）料理でもあったよ。最近あなたが体によい食事をしようとしているのを知っているから、健康によい材料だけを使ったよ。
+（選択肢の意味）
+1 anxious：心配している；切望している
+2 suspicious：疑わしい、あやしいと思っている
+3 devious：ずるい、遠回りの
+4 nutritious：栄養のある
+【考え方】
+まず見るところ：Bの最後の文の I used only healthy ingredients
+Aは「おいしかった」とほめています。Bは「どういたしまして」と答えたあと、もう一つ料理のよい点を付け加えています。
+And it was (　) as well.（それに、（　）でもあった）
+as well は「～も、その上」です。そのあと、Bはその理由を説明しています。
+I used only healthy ingredients because I know you've been trying to eat better recently.（最近あなたが体によい食事をしようとしているのを知っているから、健康によい材料だけを使った）
+ingredients は「（料理の）材料」です。健康によい材料だけを使ったのですから、料理は体によい、栄養のあるものだったと分かります。nutritious は「栄養のある」という意味なので、4が正解です。
+この問題の型：言いかえ（nutritious → healthy ingredients）
+【ほかの選択肢】
+1 anxious は「心配している」です。人の気持ちを表す語で、料理について「心配していた」とは言いません。健康によい材料を使ったという説明ともつながりません。
+2 suspicious は「疑わしい、あやしい」です。料理をほめられたあとに「それに、あやしくもあった」と付け加えるのはおかしく、健康によい材料の話とも合いません。
+3 devious は「ずるい」です。料理が「ずるい」では意味が通らず、よい点を付け加える流れにもなりません。
+【覚えるポイント】
+・nutritious：「栄養のある」。名詞は nutrition（栄養）です。
+・And ～ as well（それに～でもある）で何かを付け加えるときは、すぐあとの文の理由（ここでは healthy ingredients）が、付け加えた内容の手がかりになることが多いです。

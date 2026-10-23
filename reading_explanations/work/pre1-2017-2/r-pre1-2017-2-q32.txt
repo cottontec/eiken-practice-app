@@ -1,0 +1,36 @@
+---
+choices: Their ability to slow down important physical processes allows them to survive in extreme environments. | The large amount of sugar in their cells makes them a valuable food source for other animals. | They have shown that an organism’s cells can remain healthy for a long time after the organism has died. | The fact that they cannot digest sugar in certain situations makes them useful for studying cell processes.
+answerText: Their ability to slow down important physical processes allows them to survive in extreme environments.
+reviewed: yes
+---
+【正解】1 Their ability to slow down important physical processes allows them to survive in extreme environments.（大切な体の働きをゆっくりにする能力によって、極端な環境でも生き延びることができるから。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Why have tardigrades attracted attention from scientists recently?（クマムシは最近、なぜ科学者の注目を集めているのですか。）
+1 Their ability to slow down important physical processes allows them to survive in extreme environments.（大切な体の働きをゆっくりにする能力によって、極端な環境でも生き延びることができるから。）
+2 The large amount of sugar in their cells makes them a valuable food source for other animals.（細胞の中に多くの糖があるので、ほかの動物にとって貴重な食料になるから。）
+3 They have shown that an organism’s cells can remain healthy for a long time after the organism has died.（生き物が死んだあとも、その細胞が長い間健康なままでいられることを示したから。）
+4 The fact that they cannot digest sugar in certain situations makes them useful for studying cell processes.（ある状況では糖を消化できないという事実のために、細胞の働きを研究するのに役立つから。）
+【考え方】
+まず見るところ：第1段落の have recently attracted scientific attention because of their ability to enter a state known as cryptobiosis
+設問の attracted attention（注目を集めた）は、第1段落に出てきます。
+These unusual creatures have recently attracted scientific attention because of their ability to enter a state known as cryptobiosis.（この変わった生き物は、クリプトビオシスとして知られる状態に入る能力のために、最近、科学者の注目を集めている）
+because of ～（～のために）のあとが理由です。クリプトビオシスがどんな状態かは、続く文で説明されています。
+When tardigrades are exposed to radiation, extremely hot or cold temperatures, or environments with no oxygen or moisture, a certain type of sugar replaces the water in their cells.（クマムシが、放射線や、極端に高い温度や低い温度、あるいは酸素や水分のない環境にさらされると、ある種類の糖が細胞の中の水と入れかわる）
+Their rate of digestion and breathing, as well as their cell functions, are then reduced to 0.01 percent of normal.（すると、消化と呼吸の速さ、そして細胞の働きが、ふだんの0.01パーセントにまで下がる）
+さらに、凍っていたクマムシが30年以上たってからよみがえらされたことがある、とも書かれています。
+本文と選択肢を対にすると、次のようになります。
+本文 rate of digestion and breathing, as well as their cell functions, are then reduced（消化と呼吸の速さ、細胞の働きが下がる）→ 選択肢 slow down important physical processes（大切な体の働きをゆっくりにする）
+本文 radiation, extremely hot or cold temperatures, or environments with no oxygen or moisture（放射線、極端な温度、酸素や水分のない環境）→ 選択肢 extreme environments（極端な環境）
+本文 have been revived ～ more than three decades later（30年以上たってからよみがえらされた）→ 選択肢 survive（生き延びる）と読み取れる
+クリプトビオシスの中身をまとめた言い方になっているので、1が正解です。
+この問題の型：言いかえ（reduced to 0.01 percent of normal → slow down important physical processes）／具体例とまとめ
+【ほかの選択肢】
+2 本文にありません。第1段落には、ある種類の糖が細胞の中の水と入れかわると書かれていますが、そのためにクマムシがほかの動物の食料になるという話はありません。
+3 本文と合いません。本文に書かれているのは、クリプトビオシスの状態に入って凍っていたクマムシが revived（よみがえらされた）ことで、生き物が死んだあとも細胞が健康なままだという話ではありません。
+4 本文にありません。第1段落には消化の速さが下がるとは書かれていますが、糖を消化できないという話はありません。
+【覚えるポイント】
+・be reduced to ～ percent of normal：「ふだんの～パーセントにまで下がる」。選択肢では slow down（ゆっくりにする）と言いかえられています。
+・設問の言葉（ここでは attracted attention）が本文のどこに出てくるかを探し、その直後の because of ～ や、続く説明の文を読むと、理由を答える手がかりになります。

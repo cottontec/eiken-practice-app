@@ -1,0 +1,26 @@
+---
+choices: had actually begun much earlier | did not surprise its designers | failed to reach beyond the exhibit | revealed a major problem
+answerText: failed to reach beyond the exhibit
+reviewed: yes
+---
+【正解】3 failed to reach beyond the exhibit（展示の外にまでは広がらなかった）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 had actually begun much earlier（実はずっと前に始まっていた）
+2 did not surprise its designers（その家の設計者たちを驚かせなかった）
+3 failed to reach beyond the exhibit（展示の外にまでは広がらなかった）
+4 revealed a major problem（大きな問題を明らかにした）
+【考え方】
+空所のある文は However, the public's fascination with the house ( 26 ).（しかし、その家に対する人々の強い関心は〇〇）です。fascination は「強くひきつけられること、魅了」という意味です。
+まず、空所の前の文を確かめます。The attraction proved wildly popular, drawing large numbers of visitors.（この呼び物は大人気となり、大勢の来場者を集めた）とあります。その直後に However（しかし）がくるので、空所には「人気があった」こととは反対向きの内容、つまり人々の関心に限界があった、という内容が入ると予想できます。
+次に、空所の後ろの文を見ます。While some of the things featured in the home ... later became mainstream products, the concept of "all things plastic" seemed largely forgotten when the house was torn down in 1967.（その家の一部のもの〔電子レンジや電動歯ブラシ〕はのちに広く使われる製品になったが、「何もかもプラスチック」という考え方は、1967年に家が取り壊されたときには、ほとんど忘れられていたようだった）とあります。mainstream は「主流の、広く使われている」という意味です。
+つまり、展示そのものは人気だったのに、「家を全部プラスチックで作る」という考え方は世の中に広まらず、忘れられてしまったのです。これは「人々の関心は展示の外にまでは広がらなかった」という3の内容とぴったり合います。fail to do は「～しない、～できない」、reach beyond ～ は「～を越えて届く」という意味です。
+【ほかの選択肢】
+1 「実はずっと前に始まっていた」は、本文に書かれていません。本文は1957年の展示から話を始めていて、それより前に関心があったという話は出てきません。また、However の後ろで「関心が広がらず、考え方が忘れられた」という流れになっていることとも合いません。
+2 「設計者たちを驚かせなかった」は、本文に書かれていません。設計者がどう感じたかについては、一言も触れられていません。
+4 「大きな問題を明らかにした」も、本文に根拠がありません。空所の後ろでは、考え方が「忘れられた」ことが述べられているだけで、家に問題があったとは書かれていません。プラスチックの資材の欠点（寿命が短いこと）が出てくるのは第3段落で、ウェールズの会社が開発した新しい建築資材の話です。1957年の「未来の家」の話ではありません。
+【覚えるポイント】
+・However のあとは、前の内容と反対向きの話がくると予想して読みましょう。
+・fail to do：「～しない、～できない」。fail は「失敗する」だけでなく、「～しないままになる」という意味でもよく使われます。

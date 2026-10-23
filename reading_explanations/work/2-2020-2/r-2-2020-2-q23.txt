@@ -1,0 +1,25 @@
+---
+choices: For one thing | In contrast | Similarly | Meanwhile
+answerText: For one thing
+reviewed: yes
+---
+【正解】1 For one thing（1つには）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 For one thing（1つには、1つの理由として）
+2 In contrast（対照的に）
+3 Similarly（同じように）
+4 Meanwhile（その間に、一方で）
+【考え方】
+空所は第3段落の (23), the attitude of the local people towards these greenhouses is not always good.（（23）、こうした温室に対する地元の人々の態度は、必ずしもよいとは限らない）の文頭にあります。つなぎの言葉の問題なので、前の文との関係を考えます。
+空所の前の文は Nevertheless, there have been difficulties with starting new greenhouses in other Inuit communities.（それでも、ほかのイヌイットの共同体で新しく温室を始めることには困難があった）です。ここで「困難があった」とまとめて言い、空所の文で「地元の人々の態度がよいとは限らない」と、その困難の中身を具体的に挙げています。さらに、Because gardening has never been a part of Inuit culture, some communities have no interest in greenhouses.（園芸はイヌイットの文化の一部になったことがないので、温室に興味がない共同体もある）と、態度がよくない理由を説明しています。
+このように、前で述べた「困難」の具体例・理由の1つを挙げるときに使うのが For one thing（1つには）です。ですから1が正解です。
+【ほかの選択肢】
+2 In contrast は「対照的に」と、前と反対の内容を述べるときに使います。「温室を始めるのに困難があった」と「地元の人々の態度がよいとは限らない」は反対の内容ではなく、同じ向きの内容なので合いません。
+3 Similarly は「同じように」と、前に述べたことと似た別の例を加えるときに使います。空所の文は、前の文の「困難」とは別に似た例を並べているのではなく、その困難の中身を説明しているので合いません。
+4 Meanwhile は「その間に、一方で」と、同じ時期の別の出来事や別の話題に移るときに使います。空所の文は前の文の困難の中身を説明しているので、話題を切りかえる語は合いません。
+【覚えるポイント】
+・For one thing：「1つには」。理由や例の1つ目を挙げるときに使います。
+・not always ～：「必ずしも～とは限らない」。全部を否定するのではなく、一部を否定する言い方です。

@@ -1,0 +1,20 @@
+---
+choices: would | so | work on | she | rather not
+answerText: she
+order: 2 4 1 5 3
+reviewed: yes
+---
+【正解】4 she（この問題の2番目）
+【完成文】
+Alice wants to spend as much time with her children as possible, ( so she would rather not work on ) weekends. However, she will have to go into the office this Saturday to finish a report.
+並べ方：2 so → 4 she → 1 would → 5 rather not → 3 work on（2番目は4、4番目は5）
+【和訳】
+アリスはできるだけ多くの時間を子どもたちと過ごしたいと思っています。だから、週末はできれば働きたくないと思っています。しかし、今週の土曜日は報告書を仕上げるために、会社に行かなければなりません。
+【考え方】
+空所の前は Alice wants to spend as much time with her children as possible,（アリスはできるだけ多くの時間を子どもたちと過ごしたい）で、ここで1つの文の形がまとまっています。カンマのあとには、前の文と後ろの文をつなぐ語が必要なので、最初に 2 so（だから）を置きます。子どもと過ごしたいという理由から、週末の仕事についての考えが続く流れです。
+so のあとには、新しい文の主語と動詞が必要です。主語になれる選択肢は 4 she だけなので、so のすぐあと、2番目に she を置きます。she はアリスのことです。
+そのあとは 1 would と 5 rather not を続けます。would rather ～ は「（どちらかといえば）～したい」、would rather not ～ は「（どちらかといえば）～したくない」という意味です。最後に動詞を含む 3 work on を置き、空所のあとの weekends とつなげると、on weekends（週末に）となります。
+したがって2番目は4 she です。
+【覚えるポイント】
+・would rather not ～：「（どちらかといえば）～したくない」。not の位置は rather のあとです。
+・as much ～ as possible：「できるだけ多くの～」。

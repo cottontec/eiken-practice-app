@@ -1,0 +1,29 @@
+---
+choices: widely | fairly | deeply | vaguely
+answerText: fairly
+reviewed: yes
+---
+【正解】2 fairly（公平に、公正に）
+【和訳】
+（英文）
+Mary is paid less than the other people in her section, but she is often given more work to do. She feels that her boss is not treating her ［fairly］.
+（訳）
+メアリーは、同じ部署のほかの人たちよりも給料が少ないのに、より多くの仕事を与えられることがよくあります。彼女は、上司が自分を（公平に）扱っていないと感じています。
+（選択肢の意味）
+1 widely：広く
+2 fairly：公平に、公正に
+3 deeply：深く
+4 vaguely：ぼんやりと、あいまいに
+【考え方】
+最初の文でメアリーの状況を確かめます。
+Mary is paid less than the other people in her section（メアリーは同じ部署のほかの人たちよりも給料が少ない）
+but she is often given more work to do（しかし、より多くの仕事を与えられることがよくある）
+ほかの人より給料は少ないのに、仕事はより多いのですから、メアリーは損な扱いを受けています。
+空所のある文は She feels that her boss is not treating her (　).（彼女は、上司が自分を（　）扱っていないと感じている）です。treat は「扱う」という意味です。not があるので、「上司は自分を～には扱っていない」という不満を表す文になります。fairly（公平に）を入れると「上司は自分を公平に扱っていない」となり、最初の文の状況とぴったり合います。2が正解です。
+【ほかの選択肢】
+1 widely は「広く」です。「上司は自分を広く扱っていない」となり、給料や仕事の量の不満とつながりません。
+3 deeply は「深く」です。「上司は自分を深く扱っていない」となり、意味が通りません。
+4 vaguely は「ぼんやりと、あいまいに」です。「上司は自分をあいまいに扱っていない」となり、給料が少なく仕事が多いという不公平の話とつながりません。
+【覚えるポイント】
+・treat ～ fairly：「～を公平に扱う」。fair（公平な）に -ly が付いて「公平に」という意味になります。
+・be paid less than ～：「～よりも給料が少ない」。

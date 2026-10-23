@@ -1,0 +1,27 @@
+---
+choices: on behalf | on account | for fear | for need
+answerText: for fear
+reviewed: yes
+---
+【正解】3 for fear（for fear of ～ で「～を恐れて」）
+【和訳】
+（英文）
+Tom's boss does not like it when people disagree with his plans. As a result, Tom never says no to him ［for fear］ of losing his job.
+（訳）
+トムの上司は、人が自分の計画に反対するのを好みません。その結果、トムは仕事を失うことを（恐れて）、上司に決して「いいえ」と言いません。
+（選択肢の意味）
+1 on behalf of ～：～の代わりに、～を代表して
+2 on account of ～：～のために（理由）
+3 for fear of ～：～を恐れて
+4 for need：need：必要（for need of という決まった言い方はない）
+【考え方】
+空所のあとに of losing his job（仕事を失うことの）があるので、「（　）of ～」の形の熟語を考えます。
+1文目の Tom's boss does not like it when people disagree with his plans.（トムの上司は、人が自分の計画に反対するのを好まない）に注目します。his plans の his は上司を指します。As a result（その結果）とあるので、2文目は上司がそういう人であることから起きていることです。
+上司に反対すると、きらわれて仕事を失うかもしれません。だからトムは決して「いいえ」と言わないのです。for fear of ～ は「～を恐れて、～しないように」という意味なので、「仕事を失うことを恐れて」となり、話がつながります。よって3が正解です。
+【ほかの選択肢】
+1 on behalf of ～ は「～の代わりに、～を代表して」です。「仕事を失うことの代わりに、決していいえと言わない」となり、意味が通りません。
+2 on account of ～ は「～のために、～が理由で」です。「仕事を失ったことが理由で、決していいえと言わない」となりますが、トムはまだ仕事を失っていません。失うのを心配しているのですから、合いません。
+4 need は「必要」です。for need of losing his job では「仕事を失う必要のために」のような意味になり、通じません。
+【覚えるポイント】
+・for fear of ～：「～を恐れて、～しないように」。
+・say no to ～：「～に『いいえ』と言う、～に反対する」。

@@ -1,0 +1,25 @@
+---
+choices: paint | painting | to paint | to be painted
+answerText: painting
+reviewed: yes
+---
+【正解】2 painting（ペンキを塗ること）
+【和訳】
+A：あなた、天井が終わったら、台所の壁にペンキを塗ってもらえないかな？
+B：いいよ、サラ。
+（選択肢の意味）
+1 paint：～にペンキを塗る（元の形）
+2 painting：ペンキを塗ること（-ing 形）
+3 to paint：ペンキを塗ること、塗るために（to のついた形）
+4 to be painted：塗られること（to be ＋ 過去分詞の形）
+【考え方】
+空所の前に would you mind があります。Would you mind -ing? は「～していただけませんか」と、ていねいにお願いする言い方です。mind はもともと「～をいやだと思う」という意味なので、直訳すると「～するのはおいやですか」となります。
+mind のあとに「～すること」を続けるときは、-ing の形を使います。to のついた形（to paint）は使いません。ですから、would you mind painting the kitchen walls で「台所の壁にペンキを塗ってもらえませんか」となります。正解は2です。
+after you finish the ceiling（天井を終えたら）とあるので、Bは今、天井の作業をしているところだと分かります。Bの No problem.（いいよ）は、お願いを引き受ける返事です。
+【ほかの選択肢】
+1 paint は動詞の元の形です。mind のあとに元の形をそのまま置くことはできません。
+3 to paint は to のついた形です。mind は to のついた形をあとに続けないので、入りません。
+4 to be painted は「塗られること」という意味の形です。mind のあとに to のついた形は続かないうえ、Bに「壁を塗ってほしい」とお願いする意味にもなりません。
+【覚えるポイント】
+・Would you mind -ing?：「～していただけませんか」。引き受けるときは No problem. や Not at all. などと答えます。
+・mind のあとは -ing の形：mind painting（塗ることをいやがる）のように使います。

@@ -1,0 +1,30 @@
+---
+choices: Some officials were very effective | The problem was not new | Community leaders opposed the smugglers | The money was usually recovered
+answerText: The problem was not new
+reviewed: yes
+---
+【正解】2 The problem was not new（その問題は新しいものではなかった）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Some officials were very effective（一部の役人はとても有能だった）
+2 The problem was not new（その問題は新しいものではなかった）
+3 Community leaders opposed the smugglers（地域のリーダーたちは密輸をする人々に反対した）
+4 The money was usually recovered（そのお金はたいてい取り戻された）
+【考え方】
+まず見るところ：第2段落の空所のすぐあとの文 smuggling operations along the coast had existed since at least the previous century
+空所の前の文は、次のとおりです。
+Smuggling throughout England caused enormous financial losses for the government.（イングランド全体での密輸は、政府に莫大な財政上の損失をもたらした）
+enormous は「莫大な、とても大きな」、financial losses は「財政上の損失（お金の面での損）」です。密輸が政府にとって大きな問題だったことが書かれています。
+空所のあとには however（しかし）があり、すぐあとの文は次のとおりです。
+Despite government efforts to prevent them, smuggling operations along the coast had existed since at least the previous century.（政府がそれを防ごうと努力していたにもかかわらず、沿岸での密輸の活動は、少なくとも前の世紀から存在していた）
+since at least the previous century は「少なくとも前の世紀から」です。18世紀の話なので、その前の世紀からずっと密輸が続いていたということです。つまり、密輸という問題は昔からあり、新しいものではありませんでした。The problem was not new は「その問題は新しいものではなかった」という意味なので、2が正解です。
+この問題の型：言いかえ（had existed since at least the previous century → was not new）
+【ほかの選択肢】
+1 Some officials were very effective は「一部の役人はとても有能だった」です。あとの文では、密輸の活動がよく組織化されて役人から逃れたことや、取り締まりが困難で危険だったことが書かれており、役人がうまく取り締まった話にはつながりません。
+3 Community leaders opposed the smugglers は「地域のリーダーたちは密輸をする人々に反対した」です。本文には the support of local communities（地元の地域社会の支援）が取り締まりを難しくしたとあり、地域のリーダーが反対したという話は書かれていません。
+4 The money was usually recovered は「そのお金はたいてい取り戻された」です。本文には、損失のお金が取り戻されたという話はありません。空所のあとの文も、密輸が前の世紀から続いていたという内容で、お金の話にはつながりません。
+【覚えるポイント】
+・previous：「前の」。since at least the previous century で「少なくとも前の世紀から」。
+・空所のあとの文に had existed since ～（～から存在していた）のような「いつから続いているか」が書かれているときは、空所の文がそれをまとめた内容（ここでは新しいものではない）になる手がかりになります。

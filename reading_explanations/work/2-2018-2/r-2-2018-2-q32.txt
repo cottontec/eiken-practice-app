@@ -1,0 +1,31 @@
+---
+choices: Those who enjoy using the most attractive types of new technology. | Those who have trouble touching the screen while holding a tablet computer. | Those who are not interested in playing new games on tablet computers. | Those who have not yet learned how to type on a traditional keyboard.
+answerText: Those who have trouble touching the screen while holding a tablet computer.
+reviewed: yes
+---
+【正解】2 Those who have trouble touching the screen while holding a tablet computer.（タブレット型コンピューターを持ちながら画面に触れるのに苦労する人々。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：PCEyeを使うことに興味を持つかもしれない人々の一例は何ですか。
+1 Those who enjoy using the most attractive types of new technology.（最も魅力的な種類の新しい技術を使うのが好きな人々。）
+2 Those who have trouble touching the screen while holding a tablet computer.（タブレット型コンピューターを持ちながら画面に触れるのに苦労する人々。）
+3 Those who are not interested in playing new games on tablet computers.（タブレット型コンピューターで新しいゲームをすることに興味がない人々。）
+4 Those who have not yet learned how to type on a traditional keyboard.（ふつうのキーボードで文字を打つ方法をまだ身につけていない人々。）
+【考え方】
+第3段落は、手を使えない人以外の利用者について書かれています。Although the device is useful for people who cannot use their hands, the company believes that it will be attractive to other types of users, too.（この装置は手を使えない人々に役立つが、会社は、ほかの種類の利用者にとっても魅力的なものになるだろうと考えている）とあります。
+そのあとに、具体的にどんな人かが書かれています。
+In particular, people who use tablet computers often find it difficult to hold the computer in their hands and touch the screen at the same time.（特に、タブレット型コンピューターを使う人は、コンピューターを手に持つことと画面に触れることを同時にするのは難しいと感じることがよくある）
+For these people, the PCEye could be extremely useful.（こうした人々にとって、PCEyeはきわめて役に立つ可能性がある）
+本文と選択肢を対にすると、次のようになります。
+本文 find it difficult to ～（～するのは難しいと感じる）＝ 選択肢 have trouble -ing（～するのに苦労する）
+本文 hold the computer in their hands and touch the screen at the same time（コンピューターを手に持つことと画面に触れることを同時にする）＝ 選択肢 touching the screen while holding a tablet computer（タブレット型コンピューターを持ちながら画面に触れる）
+ですから、2が正解です。
+【ほかの選択肢】
+1 本文の attractive（魅力的な）は、PCEyeがほかの利用者にとって魅力的なものになるだろう、という意味で使われています。「最も魅力的な種類の新しい技術を使うのが好きな人々」が興味を持つとは書かれていません。
+3 本文には、会社は people will enjoy playing computer games where they can control the game just by using their eyes（人々が目を使うだけで操作できるコンピューターゲームを楽しむだろう）と考えている、とあります。ゲームを楽しむ人が興味を持つという内容なので、「ゲームに興味がない人々」は反対です。
+4 キーボードで文字を打つことについては、本文に何も書かれていません。
+【覚えるポイント】
+・find it difficult to ～：「～するのは難しいと感じる」。have trouble -ing（～するのに苦労する）と言いかえられます。
+・In particular：「特に」。そのあとに具体的な例が来る合図です。

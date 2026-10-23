@@ -1,0 +1,29 @@
+---
+choices: whichever | whatever | whenever | wherever
+answerText: whenever
+reviewed: yes
+---
+【正解】3 whenever（いつでも～のときに）
+【和訳】
+（英文）
+A: Dale, I made some cookies yesterday. I'll stop by your house later and give you some.
+B: That would be great. You can come over ［whenever］ you like. I'll be home all day.
+（訳）
+A：デール、昨日クッキーを作りました。あとであなたの家に寄って、いくつか渡しますね。
+B：それはうれしいです。いつでも好きなときに来てください。一日じゅう家にいますから。
+（選択肢の意味）
+1 whichever：どちらを～しても
+2 whatever：何を～しても
+3 whenever：いつ～しても、～するときはいつでも
+4 wherever：どこへ～しても、～するところはどこでも
+【考え方】
+Aは I'll stop by your house later（あとであなたの家に寄る）と言っています。stop by は「立ち寄る」です。
+Bは You can come over (　) you like.（あなたが好きな（　）来ていい）と言い、そのあとに I'll be home all day.（一日じゅう家にいる）と理由を付け加えています。come over は「（相手の家などに）やって来る」です。
+一日じゅう家にいるのだから、何時に来てもかまわない、という内容になります。whenever は「～するときはいつでも」という意味で、whenever you like で「いつでも好きなときに」となります。正解は3です。
+【ほかの選択肢】
+1 whichever は「どちらを～しても、～するものはどちらでも」です。「好きなどちらでも来ていい」となり、何を選ぶのかが文の中にないので意味が通りません。
+2 whatever は「何を～しても、～するものは何でも」です。come over（来る）のあとに「好きなものは何でも」を置いても、意味が通りません。
+4 wherever は「～するところはどこでも」です。行き先はBの家と決まっているので、「どこでも好きなところに来ていい」は会話に合いません。また、I'll be home all day.（一日じゅう家にいる）は、時間についての理由です。
+【覚えるポイント】
+・whenever you like：「いつでも好きなときに」。
+・stop by：「立ち寄る」。come over：「（相手のところへ）やって来る、訪ねて来る」。

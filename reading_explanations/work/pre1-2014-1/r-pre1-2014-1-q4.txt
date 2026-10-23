@@ -1,0 +1,27 @@
+---
+choices: allegation | diagram | outlay | itinerary
+answerText: itinerary
+reviewed: yes
+---
+【正解】4 itinerary（旅程、旅行の日程表）
+【和訳】
+（英文）
+When planning a vacation in North Africa, make sure your ［itinerary］ includes the pyramids.
+（訳）
+北アフリカでの休暇を計画するときは、必ずあなたの（旅程）にピラミッドを入れるようにしてください。
+（選択肢の意味）
+1（証拠のない）申し立て、主張
+2 図、図表
+3 支出、出費
+4 旅程、旅行の日程表
+【考え方】
+文の初めの When planning a vacation in North Africa（北アフリカでの休暇を計画するときは）に注目します。旅行の計画の話だと分かります。
+次に make sure your ( ) includes the pyramids（必ずあなたの〇〇がピラミッドを含むようにしなさい）とあります。make sure ～ は「必ず～するようにする」、include は「含む」という意味です。
+旅行の計画の中で「ピラミッドを含める」ものは、どこをいつ回るかを書いた予定、つまり「旅程（旅行の日程や行き先の予定）」です。itinerary はまさにこの意味なので、4が正解です。
+【ほかの選択肢】
+1 allegation は「（証拠がないまま）だれかが悪いことをしたと言い立てること、申し立て」という意味です。旅行の計画とは関係がありません。
+2 diagram は「図、図表」という意味です。「図にピラミッドを含めなさい」では、旅行の計画として何を言いたいのかが分かりません。
+3 outlay は「支出、出費（使ったお金）」という意味です。「出費がピラミッドを含む」では意味が通りません。
+【覚えるポイント】
+・itinerary：「旅程、旅行の日程表」。旅行でどこへいつ行くかをまとめた予定のことです。
+・make sure (that) ～：「必ず～するようにする、～を確かめる」。

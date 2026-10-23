@@ -1,0 +1,29 @@
+---
+choices: see what is going on outside while they are at school. | connect to the Internet and write their opinions online. | take part in classes together with other students. | move from room to room within their own homes.
+answerText: take part in classes together with other students.
+reviewed: yes
+---
+【正解】3 take part in classes together with other students.（ほかの生徒たちといっしょに授業に参加すること）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：VGoによって、子どもたちは～ことができる。
+1 see what is going on outside while they are at school.（学校にいる間に、外で起きていることを見る）
+2 connect to the Internet and write their opinions online.（インターネットにつないで、オンラインで意見を書く）
+3 take part in classes together with other students.（ほかの生徒たちといっしょに授業に参加する）
+4 move from room to room within their own homes.（自分の家の中で部屋から部屋へと移動する）
+【考え方】
+VGoのしくみは第2段落で説明されています。A display screen shows the face of the child, and speakers allow his or her voice to be heard.（画面には子どもの顔が映り、スピーカーによってその子の声が聞こえる）、A camera and microphones allow the child to see and hear what is happening at the school.（カメラとマイクによって、その子は学校で起きていることを見たり聞いたりできる）とあります。
+そして段落の最後に In this way, the child can take part in school life much like any other child.（このようにして、その子はほかのどの子どもともほとんど同じように学校生活に参加できる）とまとめられています。
+また第3段落では、学校の職員たちが the possibility of using it in classrooms（それを教室で使える可能性）に気づいたと書かれています。
+本文と選択肢は次のように対応しています。
+本文 take part in school life much like any other child（ほかのどの子どもともほとんど同じように学校生活に参加する）＝ 選択肢 take part in classes together with other students（ほかの生徒たちといっしょに授業に参加する）
+画面で顔を見せ、声を届け、学校のようすを見聞きできるので、教室でほかの生徒たちと同じように授業に参加できるということです。したがって3が正解です。
+【ほかの選択肢】
+1 本文で子どもが見たり聞いたりできるのは what is happening at the school（学校で起きていること）です。子どもは家にいて、学校のようすを見るので、「学校にいる間に外のようすを見る」という選択肢とは逆になっています。
+2 本文でインターネットが出てくるのは、車輪を操作する（can be controlled over the Internet）ところです。オンラインで意見を書くという話は本文にありません。
+4 本文では、使う人はロボットを move it around the school（学校のあちこちへ動かす）ことができると書かれています。動くのは学校の中で、自分の家の中ではありません。
+【覚えるポイント】
+・allow ＋ 人 ＋ to ～：「人が～できるようにする」。
+・take part in ～：「～に参加する」。

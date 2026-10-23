@@ -1,0 +1,32 @@
+---
+choices: They have improved humans' ability to survive in difficult living situations as a way to increase their own chances of survival. | They have changed human behavior in ways that make it easier for them to move to a large number of new hosts. | They have increased the differences between individual humans so that there is a greater chance they can find an appropriate host. | They have altered the way humans digest food in order to make it easier for them to live inside people.
+answerText: They have changed human behavior in ways that make it easier for them to move to a large number of new hosts.
+reviewed: yes
+---
+【正解】2 They have changed human behavior in ways that make it easier for them to move to a large number of new hosts.（微生物は、自分たちが多くの新しい宿主へ移りやすくなるように、人間の行動を変えてきた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to the author of the passage, how have microbes likely affected human evolution?（この文章の筆者によると、微生物はおそらく人間の進化にどのような影響を与えてきたか。）
+1 They have improved humans' ability to survive in difficult living situations as a way to increase their own chances of survival.（微生物は、自分たちが生き残る可能性を高める方法として、厳しい生活の状況で人間が生き延びる力を高めてきた。）
+2 They have changed human behavior in ways that make it easier for them to move to a large number of new hosts.（微生物は、自分たちが多くの新しい宿主へ移りやすくなるように、人間の行動を変えてきた。）
+3 They have increased the differences between individual humans so that there is a greater chance they can find an appropriate host.（微生物は、自分たちに合った宿主を見つけられる可能性がより高くなるように、人間一人一人の違いを大きくしてきた。）
+4 They have altered the way humans digest food in order to make it easier for them to live inside people.（微生物は、人間の体の中で暮らしやすくするために、人間の食べ物の消化のしかたを変えてきた。）
+【考え方】
+まず見るところ：第4段落の their ability to influence their hosts' behavior may have evolved as a survival strategy
+進化の話は第4段落に書かれています。host は「宿主（微生物がすみついている生き物）」という意味です。
+Since microbes have inhabited the human digestive system for millions of years, their ability to influence their hosts' behavior may have evolved as a survival strategy.（微生物は何百万年もの間、人間の消化器官にすみついてきたので、宿主の行動に影響を与える微生物の能力は、生き残るための戦略として進化してきたのかもしれない）
+続く文には、細菌は食べ物を分け合ったり体が触れ合ったりすることで宿主の間を移動するので、encouraging humans to interact with large numbers of individuals benefits microbes（人間が多くの人と交流するように促すことが、微生物の得になる）と書かれています。最後のクライアンの言葉も、社交的であるほど the more chances the microbes have to exchange and spread（微生物が行き来し、広がる機会が増える）というものです。
+本文と選択肢を対にすると、次のようになります。
+・本文 influence their hosts' behavior（宿主の行動に影響を与える）→ 選択肢 changed human behavior（人間の行動を変えてきた）
+・本文 Bacteria are transferred between host organisms（細菌は宿主の間を移動する）＋ interact with large numbers of individuals（多くの人と交流する）→ 選択肢 make it easier for them to move to a large number of new hosts（多くの新しい宿主へ移りやすくする）
+→読み取れること：微生物は、人間がたくさんの人と交流するように行動を変え、自分たちが次々と新しい宿主へ移れるようにしてきた。ですから2が正解です。
+この問題の型：言いかえ（influence their hosts' behavior → changed human behavior）／推論（多くの人と交流させる→新しい宿主へ移りやすい）
+【ほかの選択肢】
+1 一部だけ本文と合います。本文の a survival strategy（生き残るための戦略）は微生物自身が生き残るためのものです。しかし、微生物が厳しい生活の状況で人間が生き延びる力を高めた、とは書かれていません。
+3 本文にありません。人間一人一人の違いを大きくしたという話は書かれていません。本文が述べているのは、人間の行動（社交的になること）への影響です。
+4 本文にありません。微生物が人間の消化器官にすみついてきたことや、消化に重要な役割を果たすことは書かれていますが、消化のしかたを変えてきたとは書かれていません。
+【覚えるポイント】
+・host：「宿主（微生物などがすみついている生き物）」。
+・the more ～, the more ...（～すればするほど、ますます…）の文は、筆者の考えの理由をまとめていることが多いので、何と何が結びついているのかを確かめると手がかりになります。

@@ -1,0 +1,25 @@
+---
+choices: enjoyable | temporary | separate | official
+answerText: enjoyable
+reviewed: yes
+---
+【正解】1 enjoyable（楽しい、楽しめる）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 enjoyable：楽しい、楽しめる
+2 temporary：一時的な、仮の
+3 separate：別々の、分かれた
+4 official：公式の、正式な
+【考え方】
+空所は第2段落の最後の文、Kuria hopes that these things will make the Ikotoilets (　) places to visit.（クリアは、こうしたものによって、イコトイレットが訪れるのに～な場所になることを願っている）にあります。make A B は「AをBにする」という意味です。
+these things（こうしたもの）が何を指すかを確かめます。直前の文は The second is that the Ikotoilets are designed to be fun, with music, a small shop selling refreshments, and other facilities.（2つ目は、イコトイレットが、音楽や、軽い飲食物を売る小さな店、そのほかの設備をそなえて、楽しめるように設計されていることだ）です。these things は、この「音楽、小さな店、そのほかの設備」を指しています。
+これらは、イコトイレットが to be fun（楽しいものになる）ように用意されたものです。ですから、クリアは、これらによってイコトイレットが訪れて「楽しい」場所になることを願っていると考えられます。enjoyable は「楽しい、楽しめる」という意味で、fun の言いかえになっています。1が正解です。
+【ほかの選択肢】
+2 temporary を入れると「訪れるのに一時的な場所」となります。音楽や店があることと、一時的な場所であることはつながりません。
+3 separate を入れると「訪れるのに別々の場所」となります。何と何が別々なのかが本文になく、楽しめるように作られているという前の文ともつながりません。
+4 official を入れると「訪れるのに公式の場所」となります。音楽や店は、公式の場所にするためのものとしては書かれていないので、合いません。
+【覚えるポイント】
+・make A B：「AをBにする」。例：make the Ikotoilets enjoyable places（イコトイレットを楽しい場所にする）
+・be designed to ～：「～するように設計されている、作られている」。

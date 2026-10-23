@@ -1,0 +1,22 @@
+---
+choices: early | there | sure | to get | be
+answerText: there
+order: 5 3 4 2 1
+reviewed: yes
+---
+【正解】2 there（この問題の4番目）
+【完成文】
+OK, Grace. I've heard it gets really crowded. ( Be sure to get there early ) so you can find a good place to sit!
+並べ方：5 be → 3 sure → 4 to get → 2 there → 1 early（2番目は3、4番目は2）
+【和訳】
+A：お母さん、今夜ダンと花火を見に行ってくるね。10時ごろには家に帰るよ。
+B：わかった、グレース。とても混むと聞いているよ。座るのにいい場所を見つけられるように、必ず早めにそこに着くようにしてね！
+【考え方】
+Bは「とても混むらしい」と言ったあとで、空所に続けて so you can find a good place to sit（座るのにいい場所を見つけられるように）と言っています。いい場所をとるためにするべきことは、早く会場に着くことだと考えられます。
+空所は主語のない命令文（「～しなさい」と言う文）なので、動詞の原形 5 be で始め、be sure to ～（必ず～する）の形にします。ここまでで Be → sure → to get と3番目まで決まります。
+次は get のあとです。get there は「そこに着く」という意味です。there は「そこに」という意味をすでに含む語なので、前に to や at は付けず、get のすぐあとに置きます。そのあとに early（早く）を置き、get there early（早くそこに着く）とします。そこで4番目には 2 there が入ります。
+したがって4番目は2 there です。
+まちがえやすいのは、Be sure to get early there のように early を there の前に置く並べ方です。get there（そこに着く）をひとまとまりにして、early はそのあとに置くのが自然な語順です。
+【覚えるポイント】
+・get there：「そこに着く」。get home（家に着く）と同じように、there の前に to は付けません。
+・be sure to ～：「必ず～する」。

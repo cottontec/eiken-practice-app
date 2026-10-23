@@ -1,0 +1,31 @@
+---
+choices: The country where they live does not make much effort to protect them. | They are not as friendly as animals such as monkeys or chimpanzees. | They avoid contact with humans as much as possible to protect their babies. | The location where they live is only in a certain area of Africa.
+answerText: The location where they live is only in a certain area of Africa.
+reviewed: yes
+---
+【正解】4 The location where they live is only in a certain area of Africa.（ボノボがすんでいる場所は、アフリカのある地域だけだから。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Why do many people not know much about bonobos?（多くの人がボノボについてあまり知らないのはなぜですか。）
+1 The country where they live does not make much effort to protect them.（ボノボがすんでいる国が、ボノボを守るためにあまり努力していないから。）
+2 They are not as friendly as animals such as monkeys or chimpanzees.（ボノボは、サルやチンパンジーのような動物ほど友好的ではないから。）
+3 They avoid contact with humans as much as possible to protect their babies.（ボノボは、自分の赤ちゃんを守るために、人間と接触するのをできるだけ避けるから。）
+4 The location where they live is only in a certain area of Africa.（ボノボがすんでいる場所は、アフリカのある地域だけだから。）
+【考え方】
+まず見るところ：第1段落の Not many people know about bonobos because ～
+設問の not know much about bonobos（ボノボについてあまり知らない）と同じ内容が、第1段落に Not many people know about bonobos（ボノボについて知っている人は多くない）という形で出てきます。そのあとの because（～なので）に理由が書かれています。
+Not many people know about bonobos because they do not live in many different areas.（ボノボはいろいろな地域にすんでいるわけではないので、ボノボについて知っている人は多くない）
+They live in just one area of the Democratic Republic of the Congo, in the middle of Africa.（ボノボは、アフリカの中央にあるコンゴ民主共和国の、たった1つの地域にすんでいる）
+理由は、ボノボがすんでいる場所が限られていることです。
+本文 They live in just one area of the Democratic Republic of the Congo, in the middle of Africa.（アフリカの中央にあるコンゴ民主共和国のたった1つの地域にすんでいる）＝ 選択肢 The location where they live is only in a certain area of Africa.（すんでいる場所はアフリカのある地域だけだ）
+just one area（たった1つの地域）が only in a certain area（ある地域だけ）に言いかえられています。ですから4が正解です。
+この問題の型：因果（because のあとが理由）／言いかえ（just one area ＝ only in a certain area）
+【ほかの選択肢】
+1 ボノボがすんでいる国がボノボを守る努力をしていない、という話は本文にありません。本文に出てくるのは、すんでいる国の名前（コンゴ民主共和国）だけです。
+2 本文の内容と合いません。第4段落には、ボノボは平和に暮らしてよく協力し合い、チンパンジーのほうが友好的ではないと書かれています。また、友好的かどうかは、人々がボノボを知らない理由としては書かれていません。
+3 赤ちゃんを守るために人間を避けるという話は、本文にありません。本文が挙げている理由は、すんでいる地域が限られていることです。
+【覚えるポイント】
+・in just one area：「たった1つの地域に」。only in a certain area（ある地域だけに）とほぼ同じ意味です。
+・Why の設問では、設問と同じ内容の文を本文で探し、そのあとの because や This is because のような理由を表す語句を確かめると、根拠を見つけやすくなります。

@@ -1,0 +1,33 @@
+---
+choices: came from a word that was used in another language. | people can spell in a variety of different ways. | was rejected by dictionary editors for many years. | has gained a different meaning from its original one.
+answerText: has gained a different meaning from its original one.
+reviewed: yes
+---
+【正解】4 has gained a different meaning from its original one.（もとの意味とは違う意味を得た。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：The word "cookie" is an example of an English word that（「クッキー」という語は、～英語の語の例です。）
+1 came from a word that was used in another language.（別の言語で使われていた語から来た）
+2 people can spell in a variety of different ways.（人々がいろいろな違ったつづり方で書ける）
+3 was rejected by dictionary editors for many years.（何年もの間、辞書の編集者に受け入れられなかった）
+4 has gained a different meaning from its original one.（もとの意味とは違う意味を得た）
+【考え方】
+まず見るところ：第3段落の new meanings are added to existing words. For example, the word "cookie" ～
+In some cases, completely new words are added to the dictionary, but in other cases, new meanings are added to existing words.（完全に新しい語が辞書に加えられる場合もあれば、すでにある語に新しい意味が加えられる場合もある）
+For example（たとえば）のあとの「クッキー」は、後半の「すでにある語に新しい意味が加えられる場合」の例です。
+the word "cookie" used to have a single meaning: a kind of baked snack. In the late 20th century, the same word started to be used to refer to special computer files（「クッキー」という語には、かつては焼いたお菓子の一種という1つの意味しかなかった。20世紀の終わりごろ、同じ語が特別なコンピューターファイルを指すのに使われ始めた）
+もとはお菓子の意味だけだった語が、コンピューターのファイルという別の意味でも使われるようになったのです。
+本文と選択肢を対にすると、次のようになります。
+本文 used to have a single meaning: a kind of baked snack（かつてはお菓子という1つの意味だった）＝ 選択肢 its original one（もとの意味）
+本文 started to be used to refer to special computer files（コンピューターファイルを指すのに使われ始めた）＝ 選択肢 has gained a different meaning（違う意味を得た）
+ですから4が正解です。
+この問題の型：具体例とまとめ（For example のあとの「クッキー」の例）／言いかえ
+【ほかの選択肢】
+1 「クッキー」が別の言語から来た語だという話は、本文にありません。
+2 つづり方がいろいろあるという話は、本文にありません。
+3 本文には、Within a few years（数年のうちに）この意味がとても広まったので、編集者たちは辞書に加えることにした、とあります。「何年もの間受け入れられなかった」とは書かれていません。提案が認められない場合の話は第4段落にありますが、それは「クッキー」の話ではありません。
+【覚えるポイント】
+・existing words：「すでにある語」。original（もとの）と組で考えると、「もとの語に新しい意味が加わる」という話の流れがつかめます。
+・設問が「～の例です」という形なら、本文の For example の直前の文が、その例が何を示すためのものかを教えてくれることが多いです。

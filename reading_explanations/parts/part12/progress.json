@@ -1,0 +1,106 @@
+{
+  "part": 12,
+  "targetAnswerSlots": 289,
+  "batches": [
+    {
+      "batchId": "pre1-2023-3",
+      "target": 41,
+      "written": 41,
+      "contentReviewed": 41,
+      "status": "complete_reviewed",
+      "blank": 0,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 0
+    },
+    {
+      "batchId": "pre1-2024-1",
+      "target": 31,
+      "written": 31,
+      "contentReviewed": 31,
+      "status": "complete_reviewed",
+      "blank": 0,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 0
+    },
+    {
+      "batchId": "pre1-2024-2",
+      "target": 31,
+      "written": 31,
+      "contentReviewed": 31,
+      "status": "complete_reviewed",
+      "blank": 0,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 0
+    },
+    {
+      "batchId": "pre1-2024-3",
+      "target": 31,
+      "written": 31,
+      "contentReviewed": 31,
+      "status": "complete_reviewed",
+      "blank": 0,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 0
+    },
+    {
+      "batchId": "pre1-2025-1",
+      "target": 31,
+      "written": 31,
+      "contentReviewed": 31,
+      "status": "complete_reviewed",
+      "blank": 0,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 0
+    },
+    {
+      "batchId": "pre1-2025-2",
+      "target": 31,
+      "written": 31,
+      "contentReviewed": 31,
+      "status": "complete_reviewed",
+      "blank": 0,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 0
+    },
+    {
+      "batchId": "pre1-2025-3",
+      "target": 31,
+      "written": 31,
+      "contentReviewed": 31,
+      "status": "complete_reviewed",
+      "blank": 0,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 0
+    },
+    {
+      "batchId": "pre1-2026-1",
+      "target": 31,
+      "written": 31,
+      "contentReviewed": 31,
+      "status": "complete_reviewed",
+      "blank": 0,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 0
+    },
+    {
+      "batchId": "pre1-2026-2",
+      "target": 31,
+      "written": 31,
+      "contentReviewed": 31,
+      "status": "complete_reviewed",
+      "blank": 0,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 0
+    }
+  ],
+  "updatedAt": "2026-10-22T23:12:44+00:00"
+}

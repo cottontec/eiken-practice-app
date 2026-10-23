@@ -1,0 +1,33 @@
+---
+choices: Whether or not they lived in caves. | How they were able to get things to eat. | Where their groups originally came from. | Which kinds of animals they used to hunt.
+answerText: How they were able to get things to eat.
+reviewed: yes
+---
+【正解】2 How they were able to get things to eat.（どのようにして食べる物を手に入れることができたか。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What can be learned from the stone objects left behind by early humans?（初期の人類が残した石でできた物から、何が分かりますか。）
+1 Whether or not they lived in caves.（彼らが洞窟に住んでいたかどうか。）
+2 How they were able to get things to eat.（彼らがどのようにして食べる物を手に入れることができたか。）
+3 Where their groups originally came from.（彼らの集団がもともとどこから来たのか。）
+4 Which kinds of animals they used to hunt.（彼らがどんな種類の動物を狩っていたか。）
+【考え方】
+まず見るところ：第1段落の始め、stone objects が出てくる文とそのすぐあとの文
+設問は「石でできた物（stone objects）から分かること」です。第1段落の始めに stone objects という、設問と同じ語句があります。
+Humans who lived before the development of farming left many stone objects behind.（農業が発達する前に生きていた人類は、石でできた物を多く残した）
+leave ～ behind は「～をあとに残す」という意味です。続く文を見ます。
+These objects are usually parts of tools or weapons, and they show us how these people obtained their food.（これらの物はたいてい道具や武器の一部で、こうした人々がどのようにして食べ物を手に入れていたかを私たちに教えてくれる）
+この文の they は These objects（石でできた物）を指していて、「食べ物の手に入れ方」を教えてくれると書かれています。
+本文と選択肢を対にすると、次のようになります。
+本文 how these people obtained their food（こうした人々がどのようにして食べ物を手に入れていたか）＝ 選択肢 How they were able to get things to eat（どのようにして食べる物を手に入れることができたか）
+obtain（手に入れる）が get に、food（食べ物）が things to eat（食べる物）に言いかえられています。ですから、2が正解です。
+この問題の型：言いかえ（obtained their food ＝ get things to eat）、指示語（they ＝ 石でできた物）
+【ほかの選択肢】
+1 本文で洞窟（caves）が出てくるのは、洞窟の壁に描かれた絵（paintings on the walls inside caves）の話です。石でできた物から、洞窟に住んでいたかどうかが分かるとは書かれていません。
+3 集団がもともとどこから来たのかについては、本文に書かれていません。洞窟の絵から「集団で暮らしていた」ことが分かるとありますが、これも出身地の話ではなく、石でできた物の話でもありません。
+4 本文で狩りが出てくるのは、洞窟の絵がほとんど狩りの場面だという話です（These are mostly hunting scenes）。石でできた物から、どんな種類の動物を狩っていたかが分かるとは書かれていません。
+【覚えるポイント】
+・leave ～ behind：「～をあとに残す」。
+・「～から何が分かるか」という設問では、設問の語句（stone objects）が出てくる文と、そのあとの they show us ～ のような「教えてくれる」という表現に注目します。obtain は get とほぼ同じ意味で、選択肢ではよく get に言いかえられます。

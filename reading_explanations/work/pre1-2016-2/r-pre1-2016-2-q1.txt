@@ -1,0 +1,31 @@
+---
+choices: mobility | oddity | sensibility | variability
+answerText: mobility
+reviewed: yes
+---
+【正解】1 mobility（動き回れること、移動する力）
+【和訳】
+（英文）
+When Jim broke his big toe, he found that it really limited his ［mobility］. He could hardly walk, even with a cane.
+（訳）
+ジムは足の親指の骨を折ったとき、そのせいで自分の（動き回る力）がとても制限されることに気づいた。つえを使っても、ほとんど歩けなかったのだ。
+（選択肢の意味）
+1 mobility：動き回れること、移動する力
+2 oddity：奇妙さ、変わったところ
+3 sensibility：感受性（物事を細かく感じ取る力）
+4 variability：変わりやすさ
+【考え方】
+まず見るところ：後ろの文の He could hardly walk, even with a cane.
+He could hardly walk, even with a cane.（つえを使っても、ほとんど歩けなかった）
+hardly は「ほとんど～ない」という否定の意味を表す語です。even with a cane は「つえがあっても」という意味です。
+空所のある文は次のとおりです。
+he found that it really limited his ( )（それ（足の親指の骨折）が自分の（　）をとても制限していることに気づいた）
+limit は「制限する、限る」という意味です。足の指を折って「ほとんど歩けない」のですから、制限されたのは「動き回る力」だと考えられます。mobility は「動き回れること、移動する力」なので、1が正解です。
+この問題の型：言いかえ（hardly walk → limited his mobility）／語の意味・組み合わせ（limit one's mobility）
+【ほかの選択肢】
+2 oddity は「奇妙さ、変わったところ」です。「骨折が彼の奇妙さを制限した」となり、「ほとんど歩けなかった」という後ろの文とつながりません。
+3 sensibility は「感受性（物事を細かく感じ取る力）」です。骨折で感じ取る力が制限された、という話ではなく、後ろの文は歩けないことを述べているので合いません。
+4 variability は「変わりやすさ」です。「骨折が彼の変わりやすさを制限した」となり、意味が通りません。
+【覚えるポイント】
+・mobility：「動き回れること、移動する力」。limit one's mobility で「動き回るのを制限する」。
+・空所の文のすぐ後ろに具体的な様子（ここでは could hardly walk）が書かれているときは、その様子をひとことでまとめる語を選ぶと手がかりになります。

@@ -1,0 +1,23 @@
+---
+choices: job | the | called | experience | for more
+answerText: job
+order: 2 1 3 5 4
+reviewed: yes
+---
+【正解】1 job（この問題の2番目）
+【完成文】
+Well, they didn't hire me. They said that ( the job called for more experience ) with computers.
+並べ方：2 the → 1 job → 3 called → 5 for more → 4 experience（2番目は1、4番目は5）
+【和訳】
+A：グロリア、IT企業の面接はどうだった？
+B：うーん、採用されなかったよ。その仕事にはコンピューターについてのもっと多くの経験が必要だと言われたんだ。
+【考え方】
+Bは「採用されなかった」と言い、その理由として They said that ～（彼らは～と言った）と続けています。that のあとには、主語と動詞のそろった文がきます。
+まず主語です。2 the と 1 job を合わせて the job（その仕事）とします。
+次に動詞です。3 called と 5 for more に注目します。call for ～ は「～を必要とする、～を求める」という意味の決まった言い方です。called for more（もっと多くの～を必要とした）として、そのあとに 4 experience を置きます。more experience with computers で「コンピューターについてのもっと多くの経験」となり、空所のあとの with computers ともつながります。
+こうして「その仕事にはコンピューターについてのもっと多くの経験が必要だ」となり、採用されなかった理由として筋が通ります。
+2番目に 1 job が来るのは、1番目の the のあとに名詞が必要で、the job で「その仕事」という主語ができるからです。
+まちがえやすいのは、experience を主語にして the experience called for more job のようにしてしまうことです。これでは「経験がもっと多くの仕事を必要とした」となり、意味が通りません。
+【覚えるポイント】
+・call for ～：「～を必要とする、～を求める」。
+・experience with ～：「～についての経験、～を扱った経験」。

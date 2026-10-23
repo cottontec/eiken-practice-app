@@ -1,0 +1,26 @@
+---
+choices: suspect | passion | destruction | gravity
+answerText: passion
+reviewed: yes
+---
+【正解】2 passion（情熱、熱中）
+【和訳】
+（英文）
+Mike has a ［passion］ for collecting old records. Whenever he visits a city, he always looks for used record stores.
+（訳）
+マイクは、古いレコードを集めることに夢中です。どこかの都市を訪れるときはいつも、中古レコード店を探します。
+（選択肢の意味）
+1 suspect：容疑者
+2 passion：情熱、熱中
+3 destruction：破壊
+4 gravity：重力、重大さ
+【考え方】
+2文目を見ます。Whenever he visits a city, he always looks for used record stores.（彼はどこかの都市を訪れるときはいつも、中古レコード店を探す）とあります。whenever は「～するときはいつでも」、used は「中古の」です。
+どこへ行っても中古レコード店を探すのは、古いレコードを集めることがとても好きだからだと考えられます。have a passion for ～ で「～に情熱を持っている、～に夢中である」という意味になります。Mike has a passion for collecting old records で「マイクは古いレコード集めに夢中だ」となり、2文目とつながります。正解は2です。
+【ほかの選択肢】
+1 suspect は「容疑者（罪を犯したと疑われている人）」です。「古いレコード集めの容疑者を持っている」となり、意味が通りません。
+3 destruction は「破壊」です。「古いレコード集めの破壊を持っている」となり、意味が通りません。いつもレコード店を探すという2文目ともつながりません。
+4 gravity は「重力、重大さ」です。「古いレコード集めの重力を持っている」となり、意味が通りません。
+【覚えるポイント】
+・have a passion for ～：「～に情熱を持っている、～が大好きである」。
+・whenever ～：「～するときはいつでも」。

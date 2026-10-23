@@ -1,0 +1,34 @@
+---
+choices: sanctuary | gasp | revelation | stroll
+answerText: stroll
+reviewed: yes
+---
+【正解】4 stroll（散歩、ぶらぶら歩き）
+【和訳】
+（英文）
+A: I always like to take a ［stroll］ around the block before bed.
+B: Really? If I do anything active at night, even a short walk like that, I can’t get to sleep.
+（訳）
+A：私はいつも、寝る前にこのあたりの一区画をぐるりと（散歩する）のが好きなんだ。
+B：本当？私は、夜に体を動かすことを何かすると、そういう短い散歩でさえ、眠れなくなるんだ。
+（選択肢の意味）
+1 sanctuary：聖域（神聖な場所）；（動物の）保護区
+2 gasp：（おどろいて）息をのむこと、あえぎ
+3 revelation：（意外な事実が）明らかになること
+4 stroll：散歩、ぶらぶら歩き
+【考え方】
+まず見るところ：Bの even a short walk like that
+Aの文は次のとおりです。
+I always like to take a (　) around the block before bed.（私はいつも、寝る前にこのあたりの一区画をぐるりと（　）するのが好きだ）
+block はここでは「（道路で囲まれた）一区画」で、around the block で「その区画をぐるりと一周して」という意味です。
+Bの答えに、大きな手がかりがあります。
+If I do anything active at night, even a short walk like that, I can’t get to sleep.（夜に体を動かすことを何かすると、そういう短い散歩でさえ、眠れなくなる）
+a short walk like that（そういう短い散歩）の that は、Aが言ったことを指しています。つまり、Aは寝る前に「散歩」をしていると分かります。stroll は「散歩、ぶらぶら歩き」という意味で、take a stroll で「散歩する」となるので、4が正解です。
+この問題の型：指示語（a short walk like that が A の言った stroll を指す）
+【ほかの選択肢】
+1 sanctuary は「聖域、保護区」です。「区画をぐるりと聖域する」となり、意味が通りません。Bの言う「短い散歩」にも当たりません。
+2 gasp は「息をのむこと」です。take a gasp は「はっと息をのむ」ことで、区画をぐるりと回る動きにはならず、Bの「短い散歩」とも合いません。
+3 revelation は「（意外な事実が）明らかになること」です。寝る前の習慣としても、Bの「短い散歩」の説明とも合いません。
+【覚えるポイント】
+・take a stroll：「散歩する」。take a walk とほぼ同じ意味です。
+・相手の返事の like that（そのような）などの指示語が何を指しているかを確かめると、空所の語の意味が分かる手がかりになります。

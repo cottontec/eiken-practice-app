@@ -1,0 +1,28 @@
+---
+choices: The ocean has become increasingly crowded. | It has to spend a lot of money on fuel. | There are not enough goods being traded. | Carbon dioxide has been affecting ships' engines.
+answerText: It has to spend a lot of money on fuel.
+reviewed: yes
+---
+【正解】2 It has to spend a lot of money on fuel.（燃料に多くのお金を使わなければならない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：海運業界が直面している問題の1つは何ですか。
+1 The ocean has become increasingly crowded.（海がますます混雑してきた。）
+2 It has to spend a lot of money on fuel.（燃料に多くのお金を使わなければならない。）
+3 There are not enough goods being traded.（取り引きされている品物が十分にない。）
+4 Carbon dioxide has been affecting ships' engines.（二酸化炭素が船のエンジンに影響を与えてきた。）
+【考え方】
+設問の facing the shipping industry は「海運業界が直面している（目の前にかかえている）」という意味です。shipping industry は「海運業界（船で荷物を運ぶ仕事をする業界）」です。
+第1段落を見ます。These ships consume an enormous amount of fuel.（これらの船は、ばく大な量の燃料を消費する）とあり、続いて This not only costs a great deal of money but also results in a lot of carbon dioxide being released into the atmosphere.（このことは、多額のお金がかかるだけでなく、大量の二酸化炭素が大気中に放出される結果にもなっている）と書かれています。not only A but also B は「AだけでなくBも」という意味です。
+さらに As a result, the shipping industry is searching hard for ways to reduce the amount of fuel it uses.（その結果、海運業界は使う燃料の量を減らす方法を懸命に探している）とあります。燃料にお金がかかることが、業界にとっての問題になっていると分かります。本文と選択肢は次のように対応しています。
+本文 consume an enormous amount of fuel. This ... costs a great deal of money（ばく大な量の燃料を消費し、多額のお金がかかる）＝ 選択肢 It has to spend a lot of money on fuel.（燃料に多くのお金を使わなければならない）
+正解は2です。
+【ほかの選択肢】
+1 本文には、品物を運ぶ船の数が劇的に増えたと書かれています。しかし、海が混雑して困っているとは書かれていません。本文が問題としているのは、増えた船が使う燃料の量なので、誤りです。
+3 本文の1文目は there has been huge growth in global trade（世界の貿易が大きく伸びている）です。取り引きされる品物が足りないのではなく、その反対なので誤りです。
+4 二酸化炭素については、大気中に放出されると書かれています。船のエンジンに影響を与えているとは書かれていないので、誤りです。
+【覚えるポイント】
+・not only A but also B：「AだけでなくBも」。
+・result in ～：「～という結果になる」。

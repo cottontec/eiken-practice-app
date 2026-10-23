@@ -1,0 +1,30 @@
+---
+choices: denial | contradiction | majesty | prejudice
+answerText: denial
+reviewed: yes
+---
+【正解】1 denial（否定、事実を認めないこと）
+【和訳】
+（英文）
+The man was in ［denial］ that his marriage was over. Even after his wife left and filed for divorce, he insisted it was possible to get back together.
+（訳）
+その男性は、自分の結婚生活が終わったことを認めようとしなかった。妻が出て行き、離婚を申し立てたあとでさえ、彼は、よりを戻すことは可能だと言い張った。
+（選択肢の意味）
+1 denial：否定、（つらい事実を）認めないこと
+2 contradiction：矛盾（話のつじつまが合わないこと）、反対の言葉
+3 majesty：威厳、（王などへの呼びかけで）陛下
+4 prejudice：偏見（かたよった見方）
+【考え方】
+まず見るところ：次の文の Even after ～, he insisted it was possible to get back together
+空所のある文は「その男性は、結婚生活が終わったということについて（　）の状態だった」という意味です。男性の様子は、次の文に書かれています。
+Even after his wife left and filed for divorce, he insisted it was possible to get back together.（妻が出て行き、離婚を申し立てたあとでさえ、彼は、よりを戻すことは可能だと言い張った）
+妻が出て行って離婚の手続きまで始めたのに、男性は「まだやり直せる」と言い張っています。つまり、結婚生活が終わったという事実を受け入れていません。
+be in denial that ～ で「～という（つらい）事実を認めようとしない」という意味になります。ですから、1が正解です。
+この問題の型：熟語・決まった形（be in denial that ～：～を認めようとしない）
+【ほかの選択肢】
+2 contradiction は「矛盾」です。「結婚生活が終わったということについて矛盾の状態だった」となり、事実を受け入れない男性の様子を表す文になりません。
+3 majesty は「威厳」です。「結婚生活が終わったということについて威厳の状態だった」となり、意味が通りません。
+4 prejudice は「偏見」です。偏見は、ある人や集団についてのかたよった見方を表します。ここで書かれているのは、自分の結婚が終わったという事実を受け入れないことなので、合いません。
+【覚えるポイント】
+・be in denial that ～：「～という事実を認めようとしない」。つらいことを受け入れられないときに使います。
+・空所のある文のあとに Even after ～（～したあとでさえ）で始まる文が続くときは、その文が人物の様子を具体的に説明していることが多いです。「それでも何を言い張ったか」に注目すると、人物の気持ちや状態を表す語を選ぶ手がかりになります。

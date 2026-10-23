@@ -1,0 +1,30 @@
+---
+choices: temperament | accumulation | veneer | glossary
+answerText: temperament
+reviewed: yes
+---
+【正解】1 temperament（気質、性格）
+【和訳】
+（英文）
+Lisa looks exactly like her twin sister, but she has a completely different ［temperament］. She is very calm and rarely gets angry, unlike her sister.
+（訳）
+リサは双子の姉（妹）と見た目がそっくりだが、まったく違う（気質）を持っている。リサはとても落ち着いていて、姉（妹）とは違って、めったに怒らない。
+（選択肢の意味）
+1 temperament：気質、性格（その人が生まれつき持っている感じ方や行動のくせ）
+2 accumulation：たまること、蓄積
+3 veneer：表面にはる薄い板、うわべ
+4 glossary：用語集（むずかしい言葉とその意味を集めたもの）
+【考え方】
+まず見るところ：空所の前の but と、次の文の She is very calm and rarely gets angry
+前半の Lisa looks exactly like her twin sister（リサは双子の姉〈妹〉と見た目がそっくりだ）のあとに、but（しかし）が続いています。見た目は同じだが、何かが completely different（まったく違う）という対比（2つを比べて違いを示すこと）です。
+何が違うのかは、次の文に書かれています。
+She is very calm and rarely gets angry, unlike her sister.（彼女はとても落ち着いていて、姉〈妹〉とは違って、めったに怒らない）
+「落ち着いている」「めったに怒らない」は、その人の性格のことです。temperament は「気質、性格」なので、1が正解です。
+この問題の型：対比（見た目は同じ⇔性格は違う）
+【ほかの選択肢】
+2 accumulation は「たまること、蓄積」です。「まったく違う蓄積を持っている」では、落ち着いていて怒らないという説明とつながりません。
+3 veneer は「表面にはる薄い板、うわべ」です。見た目（うわべ）はそっくりだと前半で言っているので、「まったく違ううわべを持っている」は意味が合いません。
+4 glossary は「用語集」です。性格の説明とまったく関係がなく、意味が通りません。
+【覚えるポイント】
+・temperament：「気質、性格」。rarely：「めったに～ない」。unlike ～：「～とは違って」。
+・「見た目はそっくり、but ～」のように対比があるときは、そのあとの文で何が違うのかが説明されていることが多いので、次の文を手がかりにします。

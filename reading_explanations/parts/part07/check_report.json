@@ -1,0 +1,66 @@
+{
+  "2-2012-3": {
+    "stats": {
+      "target": 50,
+      "written": 50,
+      "reviewed": 50
+    },
+    "errors": [],
+    "warnings": []
+  },
+  "2-2012-2": {
+    "stats": {
+      "target": 50,
+      "written": 50,
+      "reviewed": 50
+    },
+    "errors": [],
+    "warnings": []
+  },
+  "2-2013-1": {
+    "stats": {
+      "target": 50,
+      "written": 50,
+      "reviewed": 50
+    },
+    "errors": [],
+    "warnings": []
+  },
+  "2-2013-2": {
+    "stats": {
+      "target": 50,
+      "written": 50,
+      "reviewed": 50,
+      "selfsolveMismatch": 2
+    },
+    "errors": [],
+    "warnings": []
+  },
+  "2-2013-3": {
+    "stats": {
+      "target": 50,
+      "written": 50,
+      "reviewed": 50
+    },
+    "errors": [],
+    "warnings": []
+  },
+  "2-2014-1": {
+    "stats": {
+      "target": 50,
+      "written": 50,
+      "reviewed": 50
+    },
+    "errors": [],
+    "warnings": []
+  },
+  "2-2014-2": {
+    "stats": {
+      "target": 50,
+      "written": 50,
+      "reviewed": 50
+    },
+    "errors": [],
+    "warnings": []
+  }
+}

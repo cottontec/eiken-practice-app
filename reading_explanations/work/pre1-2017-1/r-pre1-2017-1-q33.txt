@@ -1,0 +1,33 @@
+---
+choices: because the Australian termites only eat a certain type of plant, they could not be causing the fairy circles. | the Australian termites are not able to dig as deeply into the fairy circles as the Namibian termites are. | termites do not cause fairy circles since the circles can form in areas where the insects are not present in significant numbers. | although termites play a role in making fairy circles bigger, the circles are created by rainfall patterns.
+answerText: termites do not cause fairy circles since the circles can form in areas where the insects are not present in significant numbers.
+reviewed: yes
+---
+【正解】3 termites do not cause fairy circles since the circles can form in areas where the insects are not present in significant numbers.（フェアリーサークルはシロアリがあまりいない場所でもできることがあるので、シロアリがフェアリーサークルを作るのではない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Stephan Getzin's findings suggest that（シュテファン・ゲッツィンの調査結果が示しているのは、…ということである。）
+1 because the Australian termites only eat a certain type of plant, they could not be causing the fairy circles.（オーストラリアのシロアリはある種類の植物しか食べないので、シロアリがフェアリーサークルを作っているはずはない。）
+2 the Australian termites are not able to dig as deeply into the fairy circles as the Namibian termites are.（オーストラリアのシロアリは、ナミビアのシロアリほど深くフェアリーサークルの中を掘ることができない。）
+3 termites do not cause fairy circles since the circles can form in areas where the insects are not present in significant numbers.（フェアリーサークルはシロアリがあまりいない場所でもできることがあるので、シロアリがフェアリーサークルを作るのではない。）
+4 although termites play a role in making fairy circles bigger, the circles are created by rainfall patterns.（シロアリはフェアリーサークルを大きくする役割を果たしているが、円そのものは雨の降り方によって作られる。）
+【考え方】
+まず見るところ：第2段落の ecologist Stephan Getzin ruled out insects as a cause, since ～
+第2段落に、ゲッツィンの調査結果が書かれています。
+After studying these circles, ecologist Stephan Getzin ruled out insects as a cause, since there were not many termite nests present, and there was no evidence that the location of the few existing nests was related to the circle distribution pattern.（これらの円を調べたあと、生態学者のシュテファン・ゲッツィンは、昆虫を原因から除外した。シロアリの巣はあまりなく、わずかにある巣の位置が円の分布の模様と関係しているという証拠もなかったからである）
+rule out ～ as a cause は「～を原因から除外する（原因ではないと判断する）」、distribution は「分布（どこにどう散らばっているか）」です。
+本文と選択肢3を対にすると、次のようになります。
+本文 ruled out insects as a cause（昆虫を原因から除外した）＝ 選択肢 termites do not cause fairy circles（シロアリがフェアリーサークルを作るのではない）
+本文 there were not many termite nests present（シロアリの巣はあまりなかった）→ 選択肢 the insects are not present in significant numbers（シロアリがあまりいない）
+本文は「巣があまりない」、選択肢は「シロアリがあまりいない」と言っています。
+巣が少なければ、そこにいるシロアリも少ないと考えられるので、同じ内容を表していると言えます。オーストラリアではシロアリが少ないのに円ができていたので、シロアリが原因ではないということです。よって3が正解です。
+この問題の型：言いかえ（ruled out insects as a cause→termites do not cause fairy circles）／因果（since ～ の理由）
+【ほかの選択肢】
+1 本文にない内容です。オーストラリアのシロアリが食べる植物の種類については書かれていません。ゲッツィンがシロアリを除外した理由は、巣が少なく、巣の位置と円の模様に関係が見られなかったことです。
+2 本文にない内容です。シロアリがどれくらい深く掘れるかについて、オーストラリアとナミビアを比べる話はありません。
+4 本文と合いません。ゲッツィンはシロアリを原因から除外しており、シロアリが円を大きくしているとは言っていません。また、ゲッツィンの考えでは、円は大きな植物が小さな植物から水分を奪うことでできるので、「雨の降り方によって作られる」という説明とも違います。
+【覚えるポイント】
+・rule out A as a cause：「Aを原因から除外する、Aが原因ではないと判断する」。
+・ある説を否定する研究者の話では、since や because のあとにその根拠（ここでは巣が少ないこと）が書かれていることが多いので、根拠の部分と選択肢の理由が合っているかを確かめると手がかりになります。

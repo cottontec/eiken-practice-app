@@ -1,0 +1,29 @@
+---
+choices: conceal | counter | expire | assert
+answerText: assert
+reviewed: yes
+---
+【正解】4 assert（〈強く〉主張する）
+【和訳】
+（英文）
+The suspect continued to ［assert］ his innocence to the police. He told them repeatedly he had been nowhere near the place where the crime had occurred.
+（訳）
+その容疑者は、警察に対して自分の無実を（主張し）続けた。彼は、犯罪が起きた場所の近くにはまったくいなかったと、警察に何度も言った。
+（選択肢の意味）
+1 conceal：かくす
+2 counter：反論する、対抗する
+3 expire：期限が切れる
+4 assert：（強く）主張する
+【考え方】
+まず見るところ：空所のあとの his innocence と、次の文の He told them repeatedly ～
+innocence は「無実（罪をおかしていないこと）」です。容疑者が自分の無実をどうし続けたのかを考えます。
+He told them repeatedly he had been nowhere near the place where the crime had occurred.（彼は、犯罪が起きた場所の近くにはまったくいなかったと、警察に何度も言った）
+nowhere near ～ は「～の近くにはまったくいない」という意味です。容疑者は、現場の近くにはいなかったと何度もくり返し言っています。これは、自分は無実だと言い張ることにあたります。assert は「主張する」なので、4が正解です。
+この問題の型：言いかえ（assert his innocence → told them repeatedly ～）
+【ほかの選択肢】
+1 conceal は「かくす」です。「自分の無実をかくし続けた」となり、何度も「現場の近くにいなかった」と言ったこととは反対になります。
+2 counter は「反論する、対抗する」です。「自分の無実に反論し続けた」では、自分で自分の無実を否定することになり、次の文とつながりません。
+3 expire は「期限が切れる」です。あとに his innocence のような目的語をとる形にならず、意味が通りません。
+【覚えるポイント】
+・assert one's innocence：「無実を主張する」。nowhere near ～：「～の近くにはまったくない」。repeatedly：「くり返し」。
+・空所のあとの文で、人物が何度も言っている内容が書かれているときは、空所に「言う・主張する」という種類の動詞が入る手がかりになります。

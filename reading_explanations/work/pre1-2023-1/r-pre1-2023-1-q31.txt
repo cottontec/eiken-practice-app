@@ -1,0 +1,32 @@
+---
+choices: few dinosaur eggs have been found | there are not more dinosaur species | some dinosaurs were unable to produce eggs | dinosaur babies often did not survive
+answerText: few dinosaur eggs have been found
+reviewed: yes
+---
+【正解】1 few dinosaur eggs have been found（見つかっている恐竜の卵がほとんどない）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 few dinosaur eggs have been found（見つかっている恐竜の卵がほとんどない）
+2 there are not more dinosaur species（恐竜の種類がもっと多くない）
+3 some dinosaurs were unable to produce eggs（卵を産めない恐竜もいた）
+4 dinosaur babies often did not survive（恐竜の赤ちゃんは、生き残れないことが多かった）
+【考え方】
+まず見るところ：第3段落の空所のあとの Since softer materials break down easily, they are much less likely to be preserved in the fossil record.
+最初に、空所の前の文を見ます。
+Through their analysis, the US researchers discovered evidence that suggests the eggs of early dinosaurs were, in fact, soft-shelled.（分析を通して、アメリカの研究者たちは、初期の恐竜の卵は実はやわらかい殻だったことを示す証拠を発見した）
+空所の文は If true, this could explain why ( ).（もしそれが本当なら、このことは、なぜ（　）のかを説明できるかもしれない）です。this は「初期の恐竜の卵はやわらかい殻だった」ということを指します。
+次に、空所のあとの文を見ます。
+Since softer materials break down easily, they are much less likely to be preserved in the fossil record.（よりやわらかい物質は分解されやすいので、化石の記録として残る可能性がずっと低いのだ）
+break down は「分解される、くずれる」、preserve は「保存する、残す」です。やわらかい殻の卵は化石として残りにくいことになります。
+卵が化石として残りにくければ、見つかる恐竜の卵は少なくなります。few は「ほとんど～ない」という意味なので、1が正解です。
+この問題の型：因果（やわらかい殻 → 化石に残りにくい → 見つかる卵が少ない）／指示語（this がやわらかい殻だったことを指す）
+【ほかの選択肢】
+2 「恐竜の種類がもっと多くない」は、空所のあとの文とつながりません。あとの文が説明しているのは、やわらかい物質が化石として残りにくいことで、恐竜の種類の数そのものではありません。
+3 「卵を産めない恐竜もいた」とは、本文に書かれていません。本文は、初期の恐竜の卵がやわらかい殻だったという話で、卵を産めなかったという話ではありません。
+4 「恐竜の赤ちゃんは、生き残れないことが多かった」とは、本文に書かれていません。あとの文は、化石として残るかどうかの説明で、赤ちゃんが生き残ったかどうかの説明にはなりません。
+【覚えるポイント】
+・few ～：「ほとんど～ない」。a がつかない few は「少ない」ことを強く表します。
+・be preserved in the fossil record：「化石の記録として残る」。
+・explain why ( ) の空所では、すぐあとに続く理由の文（ここでは Since ～）が何を説明しているかを考え、その結果を空所に入れると手がかりになります。

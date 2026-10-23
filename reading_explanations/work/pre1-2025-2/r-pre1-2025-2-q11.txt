@@ -1,0 +1,32 @@
+---
+choices: sinister | indebted | perilous | doomed
+answerText: indebted
+reviewed: yes
+---
+【正解】2 indebted（恩を受けている、借りがある）
+【和訳】
+（英文）
+The politician claimed he was ［indebted］ to no one, but everyone knew he had received donations from many companies to help his campaign.
+（訳）
+その政治家は、自分はだれにも（借りが）ないと主張したが、彼が選挙運動を助けるための献金を多くの企業から受け取っていたことは、だれもが知っていた。
+（選択肢の意味）
+1 sinister：悪意のある、不吉な
+2 indebted：恩を受けている、借りがある
+3 perilous：（とても）危険な
+4 doomed：（悪い結果に）運命づけられた、破滅する運命の
+【考え方】
+まず見るところ：空所のあとの to no one と、but のあとの he had received donations from many companies
+空所のある部分は、次のとおりです。
+The politician claimed he was (　) to no one（その政治家は、自分はだれにも（　）ないと主張した）
+claim は「主張する」です。to no one（だれに対しても～ない）とあるので、「だれに対して何がないのか」を考えます。
+but のあとは、次のとおりです。
+but everyone knew he had received donations from many companies to help his campaign（しかし、彼が選挙運動を助けるための献金を多くの企業から受け取っていたことは、だれもが知っていた）
+donation は「寄付、献金」、campaign は「選挙運動」です。実際には多くの企業からお金をもらっていたので、本当はその企業に「借り」があるはずです。but で、政治家の主張と実際とが反対になっているのですから、政治家は「だれにも借りはない」と言っていたと考えられます。indebted to ～ は「～に恩を受けている、借りがある」なので、2が正解です。
+この問題の型：対比（だれにも借りはないという主張 ⇔ 実は企業から献金を受けていた）
+【ほかの選択肢】
+1 sinister は「悪意のある、不吉な」です。「自分はだれにとっても不吉ではない」となり、but のあとの「多くの企業から献金を受け取っていた」と反対の関係になりません。
+3 perilous は「（とても）危険な」です。ふつう場所や状況について使う語で、「自分はだれにとっても危険ではない」としても、献金を受け取っていたこととは反対の関係になりません。
+4 doomed は「（悪い結果に）運命づけられた」です。「自分はだれにも運命づけられていない」となり、意味が通りません。
+【覚えるポイント】
+・be indebted to ～：「～に恩を受けている、～に借りがある」。indebted to no one で「だれにも借りがない」。
+・claimed ～, but everyone knew ... の形は、人の主張と実際とが反対になっていることが多いので、but のあとの事実（ここでは献金を受け取っていた）から主張の中身を考えると手がかりになります。

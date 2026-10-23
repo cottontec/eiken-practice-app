@@ -1,0 +1,30 @@
+---
+choices: was the only viable option | might have limitations | could only be understood by scientists | mainly benefited large businesses
+answerText: might have limitations
+reviewed: yes
+---
+【正解】2 might have limitations（限界があるかもしれない）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 was the only viable option（唯一の実行可能な選択肢だった）
+2 might have limitations（限界があるかもしれない）
+3 could only be understood by scientists（科学者にしか理解できなかった）
+4 mainly benefited large businesses（主に大企業に利益をもたらした）
+【考え方】
+まず見るところ：第1段落の空所のあとの For example, there was the question of what would happen in the year 2000 ～
+Some experts pointed out that the two-digit system ( 19 ).（一部の専門家は、この2けたの方式は（19）と指摘した）
+two-digit system は、年を「1999」ではなく「99」のように、最後の2けたで表す方式のことです。空所には、専門家たちがこの方式について指摘した内容が入ります。
+For example, there was the question of what would happen in the year 2000 if computer systems incorrectly interpreted the final two digits to mean 1900 instead of 2000.（たとえば、もしコンピューターシステムが最後の2けたの数字を誤って2000年ではなく1900年を意味するものと解釈したら、2000年に何が起こるのかという問題があった）
+For example（たとえば）で始まるこの文は、空所の内容の具体例です。2けたでは「00」が1900年なのか2000年なのか区別できない、という弱点が挙げられています。
+Regardless, such concerns were largely brushed aside（それでも、そうした心配はおおむね退けられた）
+専門家の指摘は such concerns（そうした心配）と言いかえられています。空所には「心配」にあたる内容、つまり方式の弱点を表すものが入るので、might have limitations（限界があるかもしれない）の2が正解です。
+この問題の型：具体例とまとめ（1900年と2000年を区別できない例→限界）／言いかえ（空所の内容 → such concerns）
+【ほかの選択肢】
+1 was the only viable option（唯一の実行可能な選択肢だった）は、2けたの方式をほめる内容です。続く For example の文は方式の弱点の例で、such concerns（そうした心配）とも言いかえられているので、つながりません。
+3 could only be understood by scientists（科学者にしか理解できなかった）は、方式の分かりにくさについての内容です。続く例は「理解できるかどうか」ではなく「2000年に何が起こるか」という問題なので、合いません。
+4 mainly benefited large businesses（主に大企業に利益をもたらした）は、だれが得をしたかについての内容です。続く例には大企業の話がなく、心配として退けられたという流れにも合いません。
+【覚えるポイント】
+・limitation：「限界、弱点」。might have limitations で「限界があるかもしれない」。
+・空所のすぐあとに For example（たとえば）があるときは、その例が何をまとめたものか（ここでは方式の弱点）を考えると、空所に入る内容が決まる手がかりになります。

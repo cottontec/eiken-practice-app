@@ -1,0 +1,27 @@
+---
+choices: Above | Despite | Outside | Within
+answerText: Despite
+reviewed: yes
+---
+【正解】2 Despite（～にもかかわらず）
+【和訳】
+（英文）
+Monica trained very hard for the state tennis championships. ［Despite］ her efforts, she could not win.
+（訳）
+モニカは州のテニス選手権大会に向けて、とても熱心に練習しました。その努力（にもかかわらず）、彼女は勝つことができませんでした。
+（選択肢の意味）
+1 Above：～の上に、～より上に
+2 Despite：～にもかかわらず
+3 Outside：～の外に
+4 Within：～以内に、～の中で
+【考え方】
+最初の文は Monica trained very hard for the state tennis championships.（モニカは州のテニス選手権大会に向けて、とても熱心に練習した）です。state は、アメリカなどの「州」です。
+次の文は (　) her efforts, she could not win.（彼女の努力（　）、彼女は勝つことができなかった）です。her efforts（彼女の努力）は、最初の文の「とても熱心に練習した」ことを指しています。
+「熱心に練習した」のに「勝てなかった」ので、前と後ろが予想と反対の結果になっています。このように「～なのに」という関係を表すのが despite（～にもかかわらず）です。Despite her efforts で「努力にもかかわらず」となるので、2が正解です。despite は前置詞（名詞の前に置いて意味を付け加える語）なので、後ろに her efforts という名詞が来ます。
+【ほかの選択肢】
+1 Above は「～の上に、～より上に」です。「努力の上に、勝てなかった」では意味が通りません。
+3 Outside は「～の外に」です。「努力の外で、勝てなかった」では意味が通りません。
+4 Within は「～以内に、～の中で」です。「努力の中で、勝てなかった」では、熱心に練習したのに勝てなかったという「～なのに」の関係を表せません。
+【覚えるポイント】
+・despite ～：「～にもかかわらず」。in spite of ～ と同じ意味です。後ろには名詞が来ます。
+・train hard for ～：「～に向けて熱心に練習する」。

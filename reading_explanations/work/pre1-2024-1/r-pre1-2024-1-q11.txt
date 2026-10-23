@@ -1,0 +1,34 @@
+---
+choices: misfortune | dialect | aptitude | thorn
+answerText: aptitude
+reviewed: yes
+---
+【正解】3 aptitude（才能、適性）
+【和訳】
+（英文）
+A: Akari has a real ［aptitude］ for math, but I don’t think her current class is challenging enough.
+B: I agree. Let’s look into moving her to an advanced class.
+（訳）
+A：アカリには数学の（才能）が本当にあるけれど、今のクラスは十分に手ごたえがあるとは思えないね。
+B：同感だね。彼女を上級クラスに移すことを検討してみよう。
+（選択肢の意味）
+1 misfortune：不運、不幸
+2 dialect：方言（地域によって違う言葉）
+3 aptitude：才能、適性（向いていること）
+4 thorn：（植物の）とげ
+【考え方】
+まず見るところ：Aの文の but I don’t think her current class is challenging enough と、Bの文の an advanced class
+空所のあるAの文の後半は次のとおりです。
+but I don’t think her current class is challenging enough（でも、今のクラスは十分に手ごたえがあるとは思えない）
+challenging は「やりがいのある、（ほどよく）難しい」です。Aは、今のクラスはアカリにとって簡単すぎると考えていると読み取れます。
+Bの提案も確かめます。
+Let’s look into moving her to an advanced class.（彼女を上級クラスに移すことを検討してみよう）
+look into ～ は「～を検討する、調べる」です。上級クラスに移すことを考えるのは、アカリが数学をよくできるからだと考えられます。aptitude は「才能、適性」で、have an aptitude for ～ で「～の才能がある」という意味になるので、3が正解です。
+この問題の型：熟語・決まった形（have an aptitude for ～）
+【ほかの選択肢】
+1 misfortune は「不運」です。「数学の不運が本当にある」となり、上級クラスに移そうというBの提案とつながりません。
+2 dialect は「方言」です。「数学の方言が本当にある」となり、意味が通りません。
+4 thorn は「（植物の）とげ」です。「数学のとげが本当にある」となり、意味が通りません。
+【覚えるポイント】
+・have an aptitude for ～：「～の才能（適性）がある」。
+・but のあとの「今のクラスは手ごたえが足りない」や、相手の「上級クラスへ」という提案は、その人の能力が高いことを示す手がかりになります。

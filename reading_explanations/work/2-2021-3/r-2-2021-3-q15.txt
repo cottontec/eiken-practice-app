@@ -1,0 +1,32 @@
+---
+choices: wore out | persisted in | relied on | made for
+answerText: persisted in
+reviewed: yes
+---
+【正解】2 persisted in（～をし続けた、～に固執した）
+【和訳】
+（英文）
+Richard's teacher told Richard to stop bothering the other students. She said that if he ［persisted in］ behaving badly, she would send him to the principal's office.
+（訳）
+リチャードの先生は、リチャードに、ほかの生徒たちのじゃまをするのをやめるように言いました。先生は、もし彼が悪いふるまいを（し続けたら）、彼を校長室へ行かせると言いました。
+（選択肢の意味）
+1 wore out：すり減らした、使い古した
+2 persisted in：～をし続けた、～に固執した
+3 relied on：～に頼った
+4 made for：～の方へ向かった、～に役立った
+【考え方】
+まず見るところ：1つ目の文 told Richard to stop bothering the other students と、空所のある文の if he (　) behaving badly
+Richard's teacher told Richard to stop bothering the other students.（リチャードの先生は、リチャードにほかの生徒たちのじゃまをするのをやめるように言った）
+bother は「じゃまをする、迷惑をかける」です。先生は、悪いふるまいをやめるよう注意しています。
+She said that if he (　) behaving badly, she would send him to the principal's office.（先生は、もし彼が悪いふるまいを（　）なら、彼を校長室へ行かせると言った）
+校長室へ行かせるのは、注意を聞かなかった場合の対応だと考えられます。つまり、「やめずに悪いふるまいを続けたら」という条件になるはずです。
+persist in ～ing は「（やめずに）～し続ける、～に固執する（こだわってやめない）」という意味です。She said のあとなので、時を合わせて過去形の persisted になっています。ですから2が正解です。
+この問題の型：熟語・決まった形（persist in ～ing）、因果（注意されてもやめなければ→校長室）
+【ほかの選択肢】
+1 wore out は wear out（すり減らす、使い古す）の過去形です。「悪いふるまいをすり減らしたら」では意味が通りません。
+3 relied on は rely on（～に頼る）の過去形です。「悪いふるまいに頼ったら」となり、先生がやめるように注意した話とつながりません。
+4 made for は make for（～の方へ向かう、～に役立つ）の過去形です。「悪いふるまいの方へ向かったら」では、悪いふるまいを続けるという意味にならず、文が通じません。
+【覚えるポイント】
+・persist in ～ing：「（やめずに）～し続ける」。
+・次に同じ形が出たら：if ～（もし～なら）の条件のあとに罰や注意の内容が続いているときは、「やめるように言われたのに続けたら」という流れになる語句を選ぶと手がかりになります。
+・stop ～ing：「～するのをやめる」。

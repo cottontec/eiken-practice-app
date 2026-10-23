@@ -1,0 +1,29 @@
+---
+choices: hovered | bragged | decayed | conspired
+answerText: decayed
+reviewed: yes
+---
+【正解】3 decayed（虫歯になった、腐った）
+【和訳】
+（英文）
+Dr. Smith told the patient his tooth had ［decayed］ so badly she would have to pull it. She warned him to start taking better care of his teeth.
+（訳）
+歯医者のスミスさんはその患者に、彼の歯はひどく虫歯になっているので、抜かなければならないだろうと言った。彼女は彼に、歯をもっと大切に手入れし始めるよう注意した。
+（選択肢の意味）
+1 hovered：（hover で）空中に浮かぶ、うろうろする
+2 bragged：（brag で）自慢する
+3 decayed：（decay で）虫歯になる、腐る
+4 conspired：（conspire で）陰謀をたくらむ（こっそり悪いことを計画する）
+【考え方】
+まず見るところ：空所のあとの so badly she would have to pull it と、次の文の taking better care of his teeth
+空所のある部分は his tooth had ( ) so badly (that) she would have to pull it（彼の歯はひどく（　）していたので、彼女はそれを抜かなければならないだろう）です。so ～ (that) ... で「とても～なので…」となり、ここでは that が省かれています。pull は「（歯を）抜く」です。
+She warned him to start taking better care of his teeth.（彼女は彼に、歯をもっと大切に手入れし始めるよう注意した）
+歯を抜かなければならないほど悪くなり、手入れをもっとするよう言われているので、歯が虫歯になっていたと考えられます。decay は「虫歯になる、腐る」なので、3が正解です。
+この問題の型：因果（ひどく虫歯になった → 抜かなければならない）
+【ほかの選択肢】
+1 hovered は「空中に浮かぶ」です。「歯がひどく浮かんでいた」となり、歯を抜く理由として意味が通りません。
+2 bragged は「自慢する」です。人がするもので、「歯がひどく自慢していた」では意味が通りません。
+4 conspired は「陰謀をたくらむ」です。これも人がするもので、歯について使うと意味が通りません。
+【覚えるポイント】
+・decay：「（歯が）虫歯になる、腐る」。take care of ～ は「～の手入れをする、～を大切にする」です。
+・so badly (that) ～ の文では、後ろの「結果」（ここでは歯を抜くこと）から、どれほど悪いことが起きたのかを考えると、空所の語を選ぶ手がかりになります。

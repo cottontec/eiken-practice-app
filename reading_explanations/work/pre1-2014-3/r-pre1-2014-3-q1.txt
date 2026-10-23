@@ -1,0 +1,32 @@
+---
+choices: intentional | fundamental | speculative | courageous
+answerText: fundamental
+reviewed: yes
+---
+【正解】2 fundamental（根本的な、いちばん基本となる）
+【和訳】
+（英文）
+A: Vivian, what's been the key to your successful marriage?
+B: There are several, but trust is ［fundamental］. Without it, any relationship will fail.
+（訳）
+A：ビビアン、あなたの結婚生活がうまくいっている秘けつは何だったの？
+B：いくつかあるけれど、信頼は（根本的なもの）だよ。信頼がなければ、どんな関係もだめになってしまう。
+（選択肢の意味）
+1 intentional：意図的な、わざとの
+2 fundamental：根本的な、いちばん基本となる
+3 speculative：推測による、憶測の（確かな根拠のない）
+4 courageous：勇気のある
+【考え方】
+まず見るところ：空所のあとの Without it, any relationship will fail.
+Aは結婚生活がうまくいく the key（秘けつ）をたずねています。Bは「いくつかある」と答えたうえで、but trust is (　) と信頼の話を始めます。but（でも）があるので、「いくつかある中でも、信頼は特別だ」という内容が続くと考えられます。
+空所の次の文を見ます。it は trust（信頼）を指しています。
+Without it, any relationship will fail.（それがなければ、どんな関係もうまくいかなくなる）
+信頼がなければ関係そのものが成り立たない、と言っているので、信頼は関係の「土台」になるものだと分かります。fundamental は「根本的な、いちばん基本となる」という意味です。「信頼は根本的なものだ。それがなければどんな関係もだめになる」となり、2文がきれいにつながります。よって2が正解です。
+この問題の型：語の意味・組み合わせ（次の文 Without it ～ が空所の説明になっている）
+【ほかの選択肢】
+1 intentional は「意図的な、わざとの」です。「信頼はわざとのものだ」となり、「それがなければどんな関係もだめになる」という次の文の理由になりません。
+3 speculative は「推測による、確かな根拠のない」です。「信頼は推測によるものだ」では、結婚生活の秘けつを答えたことにならず、次の文ともつながりません。
+4 courageous は「勇気のある」で、ふつうは人やその行動について使います。「信頼は勇気がある」は意味が通りません。
+【覚えるポイント】
+・fundamental：「根本的な、いちばん基本となる」。fundamental to ～ で「～にとって欠かせない」という意味にもなります。
+・空所の直後に Without it, ～（それがなければ～）とあるときは、その it が「なくてはならないもの」だと説明している手がかりになります。

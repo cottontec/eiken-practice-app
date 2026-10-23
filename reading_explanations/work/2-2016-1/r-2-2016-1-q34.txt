@@ -1,0 +1,32 @@
+---
+choices: It takes students less time to learn how to type than it does to learn how to write. | It allows teachers to spend less time working with students in their classes. | It helps students perform tasks in class faster and prepares them for future jobs. | It helps students learn by connecting them with other students around the world.
+answerText: It helps students perform tasks in class faster and prepares them for future jobs.
+reviewed: yes
+---
+【正解】3 It helps students perform tasks in class faster and prepares them for future jobs.（それは生徒が授業での作業を（より）速く行うのに役立ち、将来の仕事への準備にもなる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：なぜ一部の学校は、生徒にコンピューターを使うよう勧めているのですか。
+1 It takes students less time to learn how to type than it does to learn how to write.（生徒にとって、キーボードの打ち方を覚えるのにかかる時間は、字の書き方を覚えるのにかかる時間より短いから。）
+2 It allows teachers to spend less time working with students in their classes.（先生が授業で生徒と一緒に取り組む時間を（今より）少なくできるから。）
+3 It helps students perform tasks in class faster and prepares them for future jobs.（生徒が授業での作業を（より）速く行うのに役立ち、将来の仕事への準備にもなるから。）
+4 It helps students learn by connecting them with other students around the world.（世界中のほかの生徒とつながることで、生徒が学ぶのに役立つから。）
+【考え方】
+設問の encourage students to use computers（生徒にコンピューターを使うよう勧める）と同じ言い方が、第1段落にあります。
+some encourage students to use computers in other classes, too（ほかの授業でもコンピューターを使うよう生徒に勧めている学校もある）
+そのすぐあとの文が、その理由を説明しています。This は「コンピューターを使うこと」を指します。
+This not only allows students to take notes and complete assignments more quickly but also helps them gain the skills they need for jobs they will do in the future.（このことによって、生徒はノートを取ったり課題を仕上げたりするのを（コンピューターを使わない場合より）速くできるだけでなく、将来就く仕事に必要な技能を身につけることにも役立つ）
+not only A but also B は「AだけでなくBも」という意味で、よい点が2つ挙げられています。
+本文と選択肢を対にすると、次のようになります。
+本文 take notes and complete assignments more quickly（ノートを取ったり課題を仕上げたりするのを速くできる）→ 選択肢 perform tasks in class faster（授業での作業を速く行う）
+本文 gain the skills they need for jobs they will do in the future（将来就く仕事に必要な技能を身につける）＝ 選択肢 prepares them for future jobs（将来の仕事への準備になる）
+1つ目の組は、意味がまったく同じというわけではありません。本文の「ノートを取る」「課題を仕上げる」という具体的な作業を、選択肢では tasks in class（授業での作業）とまとめて言いかえています。本文は「ほかの授業でもコンピューターを使う（use computers in other classes）」という話の続きなので、授業の中でする作業の例として読めます。2つ目の組は、ほぼ同じ意味の言いかえです。2つのよい点の両方が入っているのは3だけなので、3が正解です。
+【ほかの選択肢】
+1 キーボードの打ち方と字の書き方の、覚えるのにかかる時間を比べた話は、本文にありません。本文で時間が少なくなっていると書かれているのは、学校が手書きを教える時間（spending much less time teaching students how to write by hand）です。
+2 先生が生徒と取り組む時間を減らせる、という話は本文にありません。本文の less time は、手書きを教える時間が少なくなっているという話で、コンピューターを勧める理由ではありません。
+4 本文の around the world は、many schools around the world（世界中の多くの学校）という部分に出てくるだけです。世界中のほかの生徒とつながる、という話は本文にありません。
+【覚えるポイント】
+・not only A but also B：「AだけでなくBも」。2つの理由やよい点を並べるときに使います。
+・This（このこと）が文の初めにあるときは、直前の文のどの内容を指すのかを確かめます。

@@ -1,0 +1,21 @@
+---
+choices: travel | to | objected to | her decision | Jill's parents
+answerText: objected to
+order: 5 3 4 2 1
+reviewed: yes
+---
+【正解】3 objected to（この問題の2番目）
+【完成文】
+( Jill's parents objected to her decision to travel ) alone in Europe and Asia. They were very worried about her safety.
+並べ方：5 Jill's parents → 3 objected to → 4 her decision → 2 to → 1 travel（2番目は3、4番目は2）
+【和訳】
+ジルの両親は、ヨーロッパとアジアを1人で旅行するという彼女の決心に反対しました。両親は彼女の身の安全をとても心配していました。
+【考え方】
+空所は文の初めなので、まず主語（「～は」にあたる部分）を決めます。人を表す 5 Jill's parents（ジルの両親）が主語になります。2文目の They were very worried about her safety.（彼らは彼女の安全をとても心配していた）の They も、ジルの両親を指していると考えられます。
+次に動詞です。3 objected to は object to ～（～に反対する）の過去の形です。この to のあとには、反対するものを表す名詞がきます。そこで 4 her decision（彼女の決心）を続けて、objected to her decision（彼女の決心に反対した）とします。
+残りは 2 to と 1 travel です。decision to ～ で「～するという決心」という意味になるので、her decision to travel（旅行するという彼女の決心）とします。空所のあとの alone in Europe and Asia（ヨーロッパとアジアを1人で）は、travel にかかります。
+2番目に 3 objected to が来るのは、主語の Jill's parents のすぐあとに、両親が何をしたかを表す動詞が必要だからです。
+まちがえやすいのは、objected to のあとにすぐ travel を置いてしまうことです。objected to の to は「～に（反対する）」の意味で、うしろには名詞がくるので、先に her decision を置きます。
+【覚えるポイント】
+・object to ～：「～に反対する」。to のあとには名詞や ～ing の形がきます。
+・decision to ～：「～するという決心」。make a decision to ～（～しようと決める）の形でも使います。

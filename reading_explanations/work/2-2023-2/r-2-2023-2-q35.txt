@@ -1,0 +1,33 @@
+---
+choices: uses traditional methods to make his products. | owns about 20 bookstores in the city of Venice. | has developed a new technique for printing on glass. | tries to use recycled materials to produce books.
+answerText: uses traditional methods to make his products.
+reviewed: yes
+---
+【正解】1 uses traditional methods to make his products.（伝統的な方法を使って製品を作っている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Paolo Olbi is a bookmaker who（パオロ・オルビは、～本作りの職人です。）
+1 uses traditional methods to make his products.（伝統的な方法を使って製品を作っている）
+2 owns about 20 bookstores in the city of Venice.（ベネチアの町に約20軒の書店を持っている）
+3 has developed a new technique for printing on glass.（ガラスに印刷する新しい技術を開発した）
+4 tries to use recycled materials to produce books.（リサイクルされた材料を使って本を作ろうとしている）
+【考え方】
+まず見るところ：第2段落の He makes use of techniques that have existed for centuries ～
+Paolo Olbi is helping to keep this tradition alive.（パオロ・オルビは、この伝統を守り続ける手助けをしている）
+this tradition（この伝統）は、第1段落の最後にある「高品質の本を手で作る伝統」を指しています。
+He makes use of techniques that have existed for centuries to produce beautiful books, diaries, and photo albums.（彼は、何世紀も前からある技術を使って、美しい本や日記帳、写真のアルバムを作っている）
+make use of ～ は「～を利用する、～を使う」という意味です。techniques that have existed for centuries（何世紀も前からある技術）は、昔から受けつがれてきた技術、つまり伝統的な技術のことです。
+本文と選択肢を対にすると、次のようになります。
+本文 makes use of techniques that have existed for centuries（何世紀も前からある技術を使う）＝ 選択肢 uses traditional methods（伝統的な方法を使う）
+本文 to produce beautiful books, diaries, and photo albums（美しい本や日記帳、写真のアルバムを作るために）＝ 選択肢 to make his products（製品を作るために）
+ですから1が正解です。
+この問題の型：言いかえ（techniques that have existed for centuries ＝ traditional methods）
+【ほかの選択肢】
+2 本文の about 20 bookstores（約20軒の書店）は、オルビが技術を学び始めた1962年に、ベネチアにあった手作りの本の店の数です。オルビが持っている店の数ではありません。また、今はオルビの店をふくめて3軒しか残っていません。
+3 本文の glass（ガラス）は、表紙の材料の1つとして出てくるムラーノというガラスのことです。ガラスに印刷する新しい技術を開発したとは書かれておらず、オルビが使っているのは何世紀も前からある技術です。
+4 リサイクルされた材料の話は本文にありません。表紙の材料は手で刷った紙、革、木、ガラスと書かれています。
+【覚えるポイント】
+・make use of ～：「～を利用する、～を使う」。
+・本文の that have existed for centuries（何世紀も前からある）のような長い説明は、選択肢では traditional（伝統的な）のような短い1語に言いかえられることが多いです。

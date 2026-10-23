@@ -1,0 +1,26 @@
+---
+choices: under | in | on | beyond
+answerText: on
+reviewed: yes
+---
+【正解】3 on（decide on ～：～に決める）
+【和訳】
+（英文）
+It is difficult for many students to decide ［on］ a university to enter after high school.
+（訳）
+多くの生徒にとって、高校を出たあとに入る大学を（選んで決める）のは難しいことです。（空所に on を入れた decide on ～「～に決める」を訳しています）
+（選択肢の意味）
+1 under：～の下に
+2 in：～の中に
+3 on：～について、～に（decide on ～ で「～に決める」）
+4 beyond：～を越えて
+【考え方】
+文の形は It is difficult for ～ to …（～にとって…するのは難しい）です。to のあとは decide (　) a university to enter after high school（高校のあとに入る大学を（　）決める）となっています。a university to enter の to enter は「入る（ための）」と前の a university を説明しています。
+decide on ～ は「（いくつかの中から）～に決める」という決まった言い方です。decide on a university to enter で「入る大学を決める」となります。たくさんの大学の中から1つを選ぶのが難しい、という意味の文になります。ですから3が正解です。
+【ほかの選択肢】
+1 under は「～の下に」です。decide under a university では「大学の下で決める」となり、意味が通りません。
+2 in は「～の中に」です。decide in a university では「大学の中で決める」となり、どの大学に入るかを選ぶという意味になりません。
+4 beyond は「～を越えて」です。decide beyond a university では「大学を越えて決める」となり、意味が通りません。
+【覚えるポイント】
+・decide on ～：「（選んで）～に決める」。I decided on the red one.（赤いのに決めた）のように使います。
+・名詞＋ to ～：「～する（ための）名詞」。a university to enter は「入る大学」です。

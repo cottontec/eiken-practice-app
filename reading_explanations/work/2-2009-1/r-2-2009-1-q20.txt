@@ -1,0 +1,23 @@
+---
+choices: of | by | on | at
+answerText: of
+reviewed: yes
+---
+【正解】1 of（an audience of ～ で「～人の観客」）
+【和訳】
+昨夜、ジャックは学校の劇に出演しました。その劇を見るために、学校の体育館には約500人の観客がいました。
+（選択肢の意味）
+1 of：～の、～から成る
+2 by：～によって、～のそばに
+3 on：～の上に
+4 at：～で（場所・時の一点）
+【考え方】
+空所の文は There was an audience (　) about 500 people in the school gym（学校の体育館に約500人〜観客がいた）です。audience は「観客、聴衆（見たり聞いたりしに集まった人たち）」という意味です。
+audience は観客の「集まり全体」を表す語で、何人の集まりかを言うときは an audience of ～（～人から成る観客）と of を使います。of にはここで「～から成る」という意味があり、an audience of about 500 people で「約500人の観客」となります。1が正解です。
+【ほかの選択肢】
+2 by は「～によって、～のそばに」です。an audience by 500 people では「500人のそばの観客」のようになり、人数を表せません。
+3 on は「～の上に、～について」です。an audience on 500 people という言い方はしません。
+4 at は「～で（場所や時の一点）」です。場所は in the school gym で表されていて、at のあとに人数を置いても意味が通りません。
+【覚えるポイント】
+・an audience of ＋ 数 ＋ people：「～人の観客」。a crowd of ～（～の群衆）、a group of ～（～の集団）と同じ形です。
+・perform in ～：「（劇など）に出演する」。

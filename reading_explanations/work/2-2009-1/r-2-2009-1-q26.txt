@@ -1,0 +1,26 @@
+---
+choices: Nevertheless | Accordingly | Furthermore | Similarly
+answerText: Nevertheless
+reviewed: yes
+---
+【正解】1 Nevertheless（それにもかかわらず）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Nevertheless：それにもかかわらず、それでも
+2 Accordingly：したがって、それに応じて
+3 Furthermore：さらに、そのうえ
+4 Similarly：同じように
+【考え方】
+空所は第1段落の3文目の初めにあります。このような文と文をつなぐ語を選ぶ問題では、空所の前と後の内容がどんな関係かを確かめます。
+空所の前の2文は、For many people, the idea of renting a pet dog for the day ... seems wrong.（多くの人にとって、ペットの犬を1日だけ借りるという考えはまちがっているように思える）と、This is because, unlike a car, a dog is a living creature with feelings.（なぜなら、車とちがって、犬は気持ちをもった生き物だからだ）です。つまり「犬のレンタルはよくない」と考える人が多い、という内容です。
+空所のあとは in recent years, businesses around the world have started to offer such dog-rental services（近年、世界中の企業がそのような犬のレンタルサービスを提供し始めている）です。
+「多くの人がよくないと思っている」のに「企業はそのサービスを始めている」のですから、前と後ろは予想とは逆の関係になっています。Nevertheless は「それにもかかわらず」という意味で、前の内容から予想されることと反対のことを述べるときに使います。1が正解です。
+【ほかの選択肢】
+2 Accordingly は「したがって」と、前の内容の当然の結果を述べるときに使います。「よくないと思われている。したがって企業がサービスを始めた」となり、つながりが逆になってしまいます。
+3 Furthermore は「さらに」と、同じ向きの内容を付け足すときに使います。前の「よくないと思われている」と後ろの「サービスが始まっている」は同じ向きの内容ではないので合いません。
+4 Similarly は「同じように」と、似た例を並べるときに使います。空所の前後は似た内容ではなく、逆の内容なので合いません。
+【覚えるポイント】
+・Nevertheless：「それにもかかわらず」。However（しかし）よりも「予想に反して」という感じが強い語です。
+・unlike ～：「～とちがって」。like（～のように）の反対の意味です。

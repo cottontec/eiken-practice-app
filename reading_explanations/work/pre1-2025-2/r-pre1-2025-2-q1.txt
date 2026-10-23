@@ -1,0 +1,32 @@
+---
+choices: stocky | cheery | ambitious | remote
+answerText: remote
+reviewed: yes
+---
+【正解】4 remote（遠く離れた、人里離れた）
+【和訳】
+（英文）
+The couple decided not to buy the house in the countryside because it was so ［remote］. The nearest town was over two hours away by car.
+（訳）
+その夫婦は、田舎にあるその家を買わないことにした。その家がとても（人里離れた）ところにあったからだ。いちばん近い町まで、車で2時間以上かかった。
+（選択肢の意味）
+1 stocky：（体が）ずんぐりした、がっしりした
+2 cheery：明るい、陽気な
+3 ambitious：野心的な、大がかりな
+4 remote：遠く離れた、人里離れた
+【考え方】
+まず見るところ：次の文の The nearest town was over two hours away by car.
+空所のある文は、次のとおりです。
+The couple decided not to buy the house in the countryside because it was so (　).（その夫婦は、田舎にあるその家を、とても（　）だったので買わないことにした）
+because のあとが「買わなかった理由」です。it は the house（その家）を指します。家がどんな様子だったから買うのをやめたのかを考えます。
+次の文に、その理由がくわしく書かれています。
+The nearest town was over two hours away by car.（いちばん近い町まで、車で2時間以上かかった）
+nearest は「いちばん近い」、away は「離れて」です。いちばん近い町でも車で2時間以上かかるのですから、その家はほかの町からとても遠い場所にあったと分かります。remote は「遠く離れた、人里離れた」という意味なので、4が正解です。
+この問題の型：具体例とまとめ（近い町まで車で2時間以上 → 遠く離れている）
+【ほかの選択肢】
+1 stocky は「（体が）ずんぐりした、がっしりした」です。ふつうは人や動物の体つきを表す語で、家の様子を表す語としては合いません。「近い町まで2時間以上」という説明ともつながりません。
+2 cheery は「明るい、陽気な」です。「家がとても明るく陽気だったので買わなかった」となり、買わない理由になりません。次の文の「町まで遠い」という説明とも合いません。
+3 ambitious は「野心的な、大がかりな」です。「家がとても大がかりだったので」となっても、次の文の「いちばん近い町まで車で2時間以上」という距離の話とはつながりません。
+【覚えるポイント】
+・remote：「遠く離れた、人里離れた」。
+・because のあとの空所は、次の文の具体的な説明（ここでは over two hours away by car）がどんな様子をまとめた語かを考えると、答えを決める手がかりになります。

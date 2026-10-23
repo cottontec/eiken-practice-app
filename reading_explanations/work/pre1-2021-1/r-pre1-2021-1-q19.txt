@@ -1,0 +1,30 @@
+---
+choices: garments | descendants | inhabitants | compartments
+answerText: descendants
+reviewed: yes
+---
+【正解】2 descendants（子孫）
+【和訳】
+（英文）
+Some of the people living on the tropical island are the ［descendants］ of French sailors who arrived there 200 years ago.
+（訳）
+その熱帯の島に住んでいる人々の一部は、200年前にそこへやって来たフランス人の船乗りたちの（子孫）です。
+（選択肢の意味）
+1 garments：衣服
+2 descendants：子孫
+3 inhabitants：住民、住んでいる人や動物
+4 compartments：（列車などの）仕切られた部屋、区画
+【考え方】
+まず見るところ：空所のあとの of French sailors who arrived there 200 years ago
+空所のある文は次のとおりです。
+Some of the people living on the tropical island are the ( ) of French sailors who arrived there 200 years ago.（その熱帯の島に住んでいる人々の一部は、200年前にそこへやって来たフランス人の船乗りたちの（　）だ）
+空所の名詞は「今、島に住んでいる人々」を言いかえたものです。そして of のあとは「200年前に島へ来た船乗りたち」です。
+200年前の人々と今の人々の関係なので、「先祖と子孫」の関係だと考えられます。descendant は「子孫」なので、2が正解です。
+この問題の型：語の意味・組み合わせ（the descendants of ～）
+【ほかの選択肢】
+1 garments は「衣服」です。「島に住んでいる人々の一部は、船乗りたちの衣服だ」となり、意味が通りません。
+3 inhabitants は「住民」です。the inhabitants of ～ の of のあとにはふつう場所が来て、「～の住民」となります。ここでは of のあとが French sailors（フランス人の船乗りたち）という人なので、「船乗りたちの住民」となり、意味が通りません。
+4 compartments は「仕切られた部屋、区画」です。「島に住んでいる人々の一部は、船乗りたちの区画だ」となり、意味が通りません。
+【覚えるポイント】
+・descendant：「子孫」。the descendants of ～ で「～の子孫」となります。反対の意味の語は ancestor（先祖）です。
+・200 years ago（200年前）のように、昔の人と今の人を結びつける文では、「先祖と子孫」の関係が手がかりになることがあります。

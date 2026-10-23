@@ -1,0 +1,30 @@
+---
+choices: bureau | nuisance | sequel | metaphor
+answerText: nuisance
+reviewed: yes
+---
+【正解】2 nuisance（やっかいなこと、面倒なこと）
+【和訳】
+（英文）
+At first, the Smiths enjoyed their backyard swimming pool, but keeping it clean became such a ［nuisance］ that they left it covered most of the time.
+（訳）
+はじめ、スミス家の人たちは裏庭のプールを楽しんでいたが、プールをきれいに保つことがとても（やっかいなこと）になったので、ほとんどいつもカバーをかけたままにしておいた。
+（選択肢の意味）
+1 bureau：（役所の）局、事務所
+2 nuisance：やっかいなこと、面倒なこと
+3 sequel：（本や映画の）続編
+4 metaphor：比喩（あるものを別のものにたとえる言い方）
+【考え方】
+まず見るところ：空所の前の At first, ～ enjoyed と but、空所のあとの that they left it covered most of the time
+At first, the Smiths enjoyed their backyard swimming pool, but ～（はじめ、スミス家の人たちは裏庭のプールを楽しんでいたが、～）
+At first（はじめは）と but があるので、そのあとには「楽しんでいた」とは反対の、よくない変化が書かれると予想できます。
+keeping it clean became such a (　) that they left it covered most of the time（プールをきれいに保つことがとても（　）になったので、ほとんどいつもカバーをかけたままにした）
+such a ～ that ... は「とても～なので…」という形です。プールを使わずにカバーをかけたままにしたのは、そうじが面倒になったからだと考えられます。nuisance は「やっかいなこと、面倒なこと」なので、2が正解です。
+この問題の型：対比（はじめは楽しんでいた⇔面倒になった）
+【ほかの選択肢】
+1 bureau は「（役所の）局、事務所」です。「プールをきれいに保つことが事務所になった」となり、意味が通りません。
+3 sequel は「続編」です。「プールをきれいに保つことが続編になった」となり、意味が通りません。
+4 metaphor は「比喩（たとえ）」です。プールのそうじがたとえになるという話ではなく、カバーをかけたままにした理由になりません。
+【覚えるポイント】
+・nuisance：「やっかいなこと、面倒なこと」。such a ～ that ...：「とても～なので…」。
+・At first（はじめは）～, but ... の形では、but のあとに「はじめとは違う状態」がくることが多いので、空所に入る語の向き（よいことか、よくないことか）を決める手がかりになります。

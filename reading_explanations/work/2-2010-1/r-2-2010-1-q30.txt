@@ -1,0 +1,26 @@
+---
+choices: Moreover | Nevertheless | Instead | Rather
+answerText: Moreover
+reviewed: yes
+---
+【正解】1 Moreover（そのうえ、さらに）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Moreover：そのうえ、さらに
+2 Nevertheless：それにもかかわらず
+3 Instead：その代わりに、そうではなく
+4 Rather：むしろ
+【考え方】
+空所は文の初めにあるので、前の文とのつながりを考えます。
+前の文までには、宿題の多さを疑う親が増え、They complain that their children ... are being given so much homework that they have little time left for playing or relaxing.（彼らは、子どもがあまりに多くの宿題を出されているので、遊んだりくつろいだりする時間がほとんど残っていないと不満を言っている）と書かれています。つまり、「親が宿題の多さを批判している」という内容です。
+空所のあとは some experts have also begun to criticize the amount of homework children are expected to do（子どもがするよう求められている宿題の量を批判し始めた専門家もいる）です。also（～も）があることに注目します。親だけでなく専門家「も」宿題の量を批判し始めた、と同じ方向の内容を付け加えています。
+同じ方向の内容を付け加えるときに使うのが Moreover（そのうえ、さらに）です。正解は1です。
+【ほかの選択肢】
+2 Nevertheless は「それにもかかわらず」で、前の内容から予想されることと反対のことを言うときに使います。親も専門家も宿題の量を批判していて、前後は反対の内容ではないので合いません。
+3 Instead は「その代わりに、そうではなく」で、前のことを打ち消して別のことを言うときに使います。ここでは親の批判を打ち消しておらず、専門家の批判を付け加えているので合いません。
+4 Rather は「むしろ」で、前の内容を訂正して、より正しいことを言うときに使います。親の不満を訂正しているわけではなく、also（～も）で付け加えているので合いません。
+【覚えるポイント】
+・Moreover：「そのうえ、さらに」。前と同じ方向の内容を付け加えるときに使います。
+・so ～ that …：「とても～なので…」。so much homework that ～ は「とても多くの宿題なので～」です。

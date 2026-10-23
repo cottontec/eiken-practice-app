@@ -1,0 +1,31 @@
+---
+choices: create treatments for people who have trouble reading. | develop a surgery to fix problems on the surface of the brain. | help teachers who teach young children how to read. | discover new tools that can be used to develop children’s skills.
+answerText: create treatments for people who have trouble reading.
+reviewed: yes
+---
+【正解】1 create treatments for people who have trouble reading.（読むことに苦労している人々のための治療法を生み出す。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：科学者たちは、自分たちの研究が（　）ために使えるかもしれないと述べています。
+1 create treatments for people who have trouble reading.（読むことに苦労している人々のための治療法を生み出す）
+2 develop a surgery to fix problems on the surface of the brain.（脳の表面の問題を治すための手術を開発する）
+3 help teachers who teach young children how to read.（幼い子どもたちに読み方を教える先生を助ける）
+4 discover new tools that can be used to develop children’s skills.（子どもたちの能力を伸ばすのに使える新しい道具を見つける）
+【考え方】
+設問の their research can be used to ～（自分たちの研究が～のために使える）と同じ言い方が、第4段落の始めにあります。
+・the scientists hope that this research can be used to support people with dyslexia—a condition in which people have difficulty learning to read.（科学者たちは、この研究がディスレクシア――読むことを学ぶのが難しい状態――の人々を支えるために使えることを願っている）
+・by gaining a better understanding of the way that part of the brain works, better treatments can be developed.（脳のその部分の働き方をよりよく理解することで、よりよい治療法を開発することができる）
+dyslexia（ディスレクシア）は、本文の中で「読むことを学ぶのが難しい状態」と説明されています。treatment は「治療、治療法」という意味です。
+本文と選択肢を対にすると、次のようになります。
+本文 people with dyslexia（読むことを学ぶのが難しい状態の人々） ＝ 選択肢 people who have trouble reading
+本文 better treatments can be developed → 選択肢 create treatments
+have difficulty ～ing（～するのが難しい）が have trouble ～ing（～するのに苦労する）に、develop（開発する）が create（生み出す）に言いかえられています。1が正解です。
+【ほかの選択肢】
+2 本文では、ディスレクシアは often（多くの場合）problems with the way the deep area of the brain works（脳の深い部分の働き方の問題）によって起こると書かれています。脳の表面の問題を治すとは書かれていません。また、手術の話も本文にありません。
+3 幼い子どもに読み方を教える先生を助ける、という話は本文にありません。この研究の参加者も大人です。
+4 本文の最後にある new techniques（新しい方法）は、to make reading easier for such people（そのような人々にとって読むことを楽にする）ためのものです。子どもたちの能力を伸ばすための道具とは書かれていません。
+【覚えるポイント】
+・have difficulty ～ing ／ have trouble ～ing：「～するのが難しい、～するのに苦労する」。
+・treatment：「治療、治療法」。

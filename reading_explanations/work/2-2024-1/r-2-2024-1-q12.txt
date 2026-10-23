@@ -1,0 +1,31 @@
+---
+choices: As a general rule | In the long run | Over and over | On the contrary
+answerText: As a general rule
+reviewed: yes
+---
+【正解】1 As a general rule（ふつうは、原則として）
+【和訳】
+（英文）
+［As a general rule］, Sam finishes his homework before eating dinner. Sometimes, however, he has too much to do and must continue it after dinner.
+（訳）
+（ふつうは）、サムは夕食を食べる前に宿題を終わらせます。しかし、ときどきやることが多すぎて、夕食のあとも宿題を続けなければなりません。
+（選択肢の意味）
+1 As a general rule：ふつうは、原則として
+2 In the long run：長い目で見れば、最終的には
+3 Over and over：何度も繰り返して
+4 On the contrary：それどころか、反対に
+【考え方】
+まず見るところ：2文目の Sometimes, however
+2文目は次のとおりです。
+Sometimes, however, he has too much to do and must continue it after dinner.（しかし、ときどきはやることが多すぎて、夕食のあとも宿題を続けなければならない）
+however（しかし）は、前の文と反対向きの内容を述べるときに使います。
+2文目は「ときどきの例外」です。これと対になる1文目は「ふだんは夕食前に宿題を終わらせる」という、ふだんのやり方だと考えられます。
+As a general rule は「ふつうは、原則として」という意味です。「ふつうは夕食前に宿題を終わらせる。しかし、ときどきは～」とつながるので、1が正解です。
+この問題の型：対比（ふつうは⇔ときどきは）
+【ほかの選択肢】
+2 In the long run は「長い目で見れば、最終的には」です。「最終的には夕食前に宿題を終わらせる」となり、毎日の習慣と、ときどきの例外を比べる2文目とつながりません。
+3 Over and over は「何度も繰り返して」です。「何度も繰り返して、夕食前に宿題を終わらせる」となり、ふだんはどうしているかという話として不自然です。
+4 On the contrary は「それどころか、反対に」で、前に述べたことを打ち消して反対のことを言うときに使います。この文は最初の文で、打ち消す内容が前にないので合いません。
+【覚えるポイント】
+・As a general rule：「ふつうは、原則として」。usually や generally に近い意味です。
+・空所のあとの文に Sometimes, however（しかし、ときどきは）があるときは、その前に「ふだんはどうしているか」を表す語句がくることが多く、手がかりになります。

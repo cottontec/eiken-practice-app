@@ -1,0 +1,32 @@
+---
+choices: He always regretted turning down an offer to work in a famous observatory. | He ended up pursuing a career in astronomy as the result of an unexpected event. | He succeeded in fulfilling his childhood dream of doing research related to the night sky. | He only decided to study astronomy because doing so allowed him to stay in the United States.
+answerText: He ended up pursuing a career in astronomy as the result of an unexpected event.
+reviewed: yes
+---
+【正解】2 He ended up pursuing a career in astronomy as the result of an unexpected event.（彼は、予想外の出来事の結果として、天文学の仕事の道に進むことになった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is implied about Trouvelot in the second paragraph?（第2段落で、トルーヴェロについてどのようなことが示されているか。）
+1 He always regretted turning down an offer to work in a famous observatory.（彼は、有名な天文台で働くという申し出を断ったことを、いつも後悔していた。）
+2 He ended up pursuing a career in astronomy as the result of an unexpected event.（彼は、予想外の出来事の結果として、天文学の仕事の道に進むことになった。）
+3 He succeeded in fulfilling his childhood dream of doing research related to the night sky.（彼は、夜空に関係する研究をするという子どものころの夢をかなえることに成功した。）
+4 He only decided to study astronomy because doing so allowed him to stay in the United States.（彼が天文学を研究することに決めたのは、ただ、そうすればアメリカ合衆国にいられるからだった。）
+【考え方】
+まず見るところ：第2段落の a rare natural phenomenon led him to a different field of study
+設問の implied は「（はっきりとは言わずに）示されている」という意味です。第2段落の書き出しを見ます。
+The spongy moth incident marked the end of Trouvelot's hopes of becoming a respected entomologist, but a rare natural phenomenon led him to a different field of study.（マイマイガの事件によって、尊敬される昆虫学者になるというトルーヴェロの望みは終わったが、まれな自然現象が、彼を別の研究分野へと導いた）
+「まれな自然現象」とは、次の文に書かれた、太陽嵐によってマサチューセッツ州でオーロラが見えたことです。トルーヴェロはその光の絵をかき、その絵がすばらしかったので、有名な天文台で働くように招かれ、天体の絵をかき始めました。
+もともと昆虫学者になりたかった人が、めったに起きない現象をきっかけに、天文学の道へ進んだという流れです。本文と選択肢を対にすると、次のようになります。
+・本文 a rare natural phenomenon（まれな自然現象）→ 読み取れること → 選択肢 an unexpected event（予想外の出来事）
+・本文 led him to a different field of study（彼を別の研究分野へ導いた）、invited to work at a well-known US observatory（アメリカの有名な天文台で働くように招かれた）→ 言いかえると → 選択肢 ended up pursuing a career in astronomy（天文学の仕事の道に進むことになった）
+ですから、2が正解です。
+この問題の型：推論（まれな自然現象がきっかけ → 予想外の出来事で天文学の道へ）
+【ほかの選択肢】
+1 本文では、トルーヴェロは有名な天文台で働くように招かれ、There, he began making detailed and beautiful astronomical drawings（そこで彼は、細かくて美しい天体の絵をかき始めた）と書かれています。申し出を断ったという内容は、この説明と合いません。
+3 本文に書かれているトルーヴェロの望みは、尊敬される昆虫学者になることでした。夜空に関係する研究をするという子どものころの夢については、本文に書かれていません。
+4 天文学を選べばアメリカにいられるという理由は、本文に書かれていません。本文では、オーロラの絵がすばらしかったことで天文台に招かれたと書かれています。
+【覚えるポイント】
+・end up ～ing：「最後には～することになる、結局～することになる」。最初の予定とはちがう結果になったときによく使います。
+・What is implied ～?（何が示されているか）の設問では、本文の言葉がそのまま選択肢にあるとは限りません。本文の rare（まれな）を unexpected（予想外の）のように、意味の近い言葉に置きかえて読む必要があることが多いです。

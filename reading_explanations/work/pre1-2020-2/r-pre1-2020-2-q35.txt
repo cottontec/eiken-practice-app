@@ -1,0 +1,37 @@
+---
+choices: It helped Swiss companies increase their market share, enabling them to become the industry leaders. | While Swiss watches were well made, they were unable to compete with quartz ones in terms of accuracy and cost. | Although some thought quartz technology was inferior and doubted its appeal, it was quickly adopted by Swiss watchmakers. | It threatened only lesser-known makers of cheap Swiss watches, and drove them out of the market.
+answerText: While Swiss watches were well made, they were unable to compete with quartz ones in terms of accuracy and cost.
+reviewed: yes
+---
+【正解】2 While Swiss watches were well made, they were unable to compete with quartz ones in terms of accuracy and cost.（スイスの時計はよくできていたが、正確さと価格の点でクオーツ時計に太刀打ちできなかった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What impact did quartz technology initially have on Swiss watch companies?（クオーツ技術は、はじめのうち、スイスの時計会社にどのような影響を与えたか。）
+1 It helped Swiss companies increase their market share, enabling them to become the industry leaders.（スイスの会社が市場で占める割合を増やすのを助け、業界の先頭に立てるようにした。）
+2 While Swiss watches were well made, they were unable to compete with quartz ones in terms of accuracy and cost.（スイスの時計はよくできていたが、正確さと価格の点でクオーツ時計に太刀打ちできなかった。）
+3 Although some thought quartz technology was inferior and doubted its appeal, it was quickly adopted by Swiss watchmakers.（クオーツ技術は劣っていると考え、その魅力を疑う人もいたが、スイスの時計メーカーにすぐに取り入れられた。）
+4 It threatened only lesser-known makers of cheap Swiss watches, and drove them out of the market.（安いスイス時計を作るあまり有名でないメーカーだけをおびやかし、市場から追い出した。）
+【考え方】
+まず見るところ：第1段落の This led to battery-powered watches that were cheaper and more precise.
+第1段落の始めで、スイスの時計がどんなものだったかが書かれています。
+Their mechanical timepieces, famous for reliability, used a complex system of springs and gears to keep time.（信頼性の高さで有名なスイスの機械式時計は、ばねと歯車の複雑なしくみを使って時を刻んでいた）
+スイスの時計は、よくできた信頼できるものだったことが分かります。
+次に、クオーツ技術が何をもたらしたかを見ます。
+This led to battery-powered watches that were cheaper and more precise.（これにより、より安く、より正確な電池式の腕時計が生まれた）
+Swiss companies were slow to respond, ～ and Swiss watch exports fell sharply.（スイスの会社は対応が遅く、スイスの時計の輸出は急激に落ちこんだ）
+クオーツ時計の方が安くて正確だったため、スイスの時計は売れなくなりました。
+本文と選択肢2を対にすると、次のようになります。
+本文 famous for reliability（信頼性の高さで有名）→ 選択肢 Swiss watches were well made（スイスの時計はよくできていた）
+本文 cheaper and more precise（より安く、より正確）→ 選択肢 in terms of accuracy and cost（正確さと価格の点で）
+本文 Swiss watch exports fell sharply（輸出が急激に落ちこんだ）→ 選択肢 were unable to compete（太刀打ちできなかった）
+よって2が正解です。
+この問題の型：言いかえ（cheaper and more precise→accuracy and cost）／因果（安くて正確なクオーツ時計→スイスの輸出が落ちた）
+【ほかの選択肢】
+1 本文と合いません。クオーツ技術が広まると、スイスの時計の輸出は急激に落ちこみ、有名なブランドが廃業しました。スイスの会社が割合を増やして先頭に立ったのではありません。
+3 後半が本文と合いません。前半の「劣っていると考えた」は、スイスのメーカーが looked down on the lower technical skill（技術の低さを見下していた）とあるので一部は合います。しかし本文は Swiss companies were slow to respond（スイスの会社は対応が遅かった）と述べており、「すぐに取り入れられた」のではありません。
+4 本文と合いません。本文には World-famous brands were put out of business（世界的に有名なブランドが廃業に追いこまれた）とあり、おびやかされたのはあまり有名でないメーカーだけではありません。
+【覚えるポイント】
+・in terms of ～：「～の点で」。cheaper（より安い）は cost（価格）、more precise（より正確な）は accuracy（正確さ）と言いかえられています。
+・設問に initially（はじめのうち）があるときは、本文の時間の流れのうち最初の段階（ここでは第1段落の1970年代まで）を探し、あとの段落の内容（1980年代の復活）と混ぜないようにすると手がかりになります。

@@ -1,0 +1,28 @@
+---
+choices: Darwin's original theory had to be completely changed. | Animals died out when they did not fit their environments. | It would take him many years to prove that Darwin was right. | Some species travel long distances to find a suitable environment.
+answerText: Animals died out when they did not fit their environments.
+reviewed: yes
+---
+【正解】2 Animals died out when they did not fit their environments.（動物は環境に合わないと絶滅した。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ウォレスがジャングルを探検していたときに気づいたことの1つは何ですか。
+1 Darwin's original theory had to be completely changed.（ダーウィンの最初の理論は完全に変えられなければならなかった。）
+2 Animals died out when they did not fit their environments.（動物は環境に合わないと絶滅した。）
+3 It would take him many years to prove that Darwin was right.（ダーウィンが正しいことを証明するには何年もかかるだろう。）
+4 Some species travel long distances to find a suitable environment.（いくつかの種は、適した環境を見つけるために長い距離を移動する。）
+【考え方】
+第2段落の最後に、ウォレスがマレーシアとインドネシアのジャングルを探検し、It was while he was there that he thought of his idea.（彼が自分の考えを思いついたのは、そこにいたときだった）とあります。では、その「考え」とは何かを第3段落で確かめます。
+第3段落では、ウォレスは each part of the world had different species that matched the environments they lived in（世界のそれぞれの地域に、そこで暮らす環境に合ったちがう種がいる）ことに興味をもった、とあります。species は「（生き物の）種、種類」です。そして One day, he realized that this was because only the animals that matched their environments survived, while the others died out.（ある日、彼は、これは環境に合った動物だけが生き残り、そのほかの動物は絶滅したからだと気づいた）と続きます。die out は「絶滅する（その種類の生き物がすべて死んでいなくなる）」という意味です。
+the others（そのほかの動物）は、「環境に合わなかった動物」のことです。本文と選択肢は次のように対応しています。
+本文 only the animals that matched their environments survived, while the others died out（環境に合った動物だけが生き残り、ほかは絶滅した）＝ 選択肢 Animals died out when they did not fit their environments（動物は環境に合わないと絶滅した）
+本文の match（合う）が、選択肢では fit（合う）に言いかえられています。正解は2です。
+【ほかの選択肢】
+1 ダーウィンの理論を完全に変えなければならない、という話は本文にありません。ウォレスはダーウィンと同じ理論を思いついたのです。
+3 ダーウィンが正しいことを証明するのに何年もかかると、ウォレスが気づいたという話は本文にありません。何年もかけて証拠を集めたのはダーウィン自身で、人物がちがいます。
+4 種が適した環境を求めて長い距離を移動するという話は本文にありません。本文では、環境に合わない動物は移動するのではなく絶滅したと書かれています。
+【覚えるポイント】
+・die out：「絶滅する」。
+・match ～ / fit ～：どちらも「～に合う」。本文と選択肢で言いかえによく使われます。

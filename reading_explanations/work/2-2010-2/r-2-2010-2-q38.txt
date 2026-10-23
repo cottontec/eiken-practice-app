@@ -1,0 +1,30 @@
+---
+choices: By donating machines for treating cataracts to many countries around the world. | By developing equipment that lets veterinarians treat animals without leaving their hospitals. | By inventing a special lens that changes size after it is put in the animal's eye. | By creating artificial lenses that can be used by a variety of different animals.
+answerText: By creating artificial lenses that can be used by a variety of different animals.
+reviewed: yes
+---
+【正解】4 By creating artificial lenses that can be used by a variety of different animals.（さまざまな種類の動物に使える人工のレンズを作ることによって。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：S&Vテクノロジーズが白内障の動物を助けてきた方法の1つは何ですか。
+1 By donating machines for treating cataracts to many countries around the world.（白内障を治療するための機械を世界中の多くの国に寄付することによって。）
+2 By developing equipment that lets veterinarians treat animals without leaving their hospitals.（獣医が自分の病院を離れることなく動物を治療できる機器を開発することによって。）
+3 By inventing a special lens that changes size after it is put in the animal's eye.（動物の目に入れたあとで大きさが変わる特別なレンズを発明することによって。）
+4 By creating artificial lenses that can be used by a variety of different animals.（さまざまな種類の動物に使える人工のレンズを作ることによって。）
+【考え方】
+S&Vテクノロジーズが開発したものは、第2段落に2つ書かれています。
+1つ目は a portable machine for removing diseased lenses（病気になったレンズを取り除くための、持ち運びのできる機械）です。portable は「持ち運びのできる」です。
+2つ目は special plastic lenses for animals' eyes（動物の目のための特別なプラスチックのレンズ）です。そのあとに These can be made in any size, from tiny ones for cats to large ones for animals such as elephants.（このレンズは、ネコ用の小さなものからゾウのような動物用の大きなものまで、どんな大きさにでも作ることができる）と説明されています。
+ネコからゾウまで、どんな大きさの動物にも合わせて作れるのですから、いろいろな種類の動物に使えるということです。本文と選択肢は次のように対応しています。
+本文 developed special plastic lenses for animals' eyes（動物の目のための特別なプラスチックのレンズを開発した）＝ 選択肢 creating artificial lenses（人工のレンズを作ること）
+本文 from tiny ones for cats to large ones for animals such as elephants（ネコ用の小さなものからゾウのような動物用の大きなものまで）＝ 選択肢 can be used by a variety of different animals（さまざまな種類の動物に使える）
+正解は4です。
+【ほかの選択肢】
+1 本文には、S&Vテクノロジーズが機械を多くの国に寄付したとは書かれていません。中国へ獣医を送ったのはイギリスの慈善団体アニマル・ヘルス・トラストで、機械の寄付の話ではありません。
+2 本文では、持ち運びできる機械によって、獣医は to visit the animal rather than having it brought to a hospital（動物を病院に連れてきてもらうのではなく、自分が動物のところへ出向く）ことができるとあります。獣医は病院を離れて動物のところへ行くのですから、「病院を離れることなく」は本文と反対です。
+3 本文では、レンズは can be made in any size（どんな大きさにでも作れる）とあります。これは、動物に合わせていろいろな大きさで作れるという意味です。目に入れたあとで大きさが変わるとは書かれていません。
+【覚えるポイント】
+・from A to B：「AからBまで」。from tiny ones for cats to large ones for animals such as elephants で、大きさのはばの広さを表しています。
+・a variety of ～：「さまざまな～」。

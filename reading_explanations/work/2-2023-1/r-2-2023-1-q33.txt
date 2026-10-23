@@ -1,0 +1,32 @@
+---
+choices: spend more time teaching themselves and their children. | use their energy for volunteer activities in their communities. | invent other machines to carry out tasks in the home. | live in parts of the world where there are many rivers and lakes.
+answerText: spend more time teaching themselves and their children.
+reviewed: yes
+---
+【正解】1 spend more time teaching themselves and their children.（自分自身や自分の子どもたちに教えることに、より多くの時間を使う。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Washing machines have allowed people to（洗濯機のおかげで、人々は～できるようになった。）
+1 spend more time teaching themselves and their children.（自分自身や自分の子どもたちに教えることに、より多くの時間を使う）
+2 use their energy for volunteer activities in their communities.（地域でのボランティア活動に自分の力を使う）
+3 invent other machines to carry out tasks in the home.（家の中の作業を行うための、ほかの機械を発明する）
+4 live in parts of the world where there are many rivers and lakes.（川や湖がたくさんある地域に住む）
+【考え方】
+まず見るところ：第4段落の They used some of this extra time and energy to study and teach their children.
+設問の Washing machines have allowed people to ～ は「洗濯機は人々が～できるようにした」、つまり「洗濯機のおかげで人々は～できるようになった」という意味です。第4段落を見ます。
+Automatic washing machines gave people more time and energy for other activities than any other new technology did.（自動の洗濯機は、ほかのどの新しい技術よりも多くの、ほかの活動のための時間と力を人々に与えた）
+They used some of this extra time and energy to study and teach their children.（人々は、この余分な時間と力の一部を使って、勉強をしたり、子どもたちに教えたりした）
+洗濯機のおかげで時間と力に余裕ができ、その一部を「自分が勉強すること」と「子どもたちに教えること」に使った、ということです。
+本文と選択肢を対にすると、次のようになります。
+本文 used some of this extra time and energy to study and teach their children（余分な時間と力の一部を使って、勉強をしたり子どもたちに教えたりした）＝ 選択肢 spend more time teaching themselves and their children（自分自身や子どもたちに教えることに、より多くの時間を使う）
+study（勉強する）が teaching themselves（自分自身に教える＝自分で学ぶ）に言いかえられています。また、本文の more time や extra time（余分な時間）が、選択肢の more time に当たります。ですから1が正解です。
+この問題の型：言いかえ（study ＝ teach themselves）
+【ほかの選択肢】
+2 本文で、余分な時間と力を使ったと書かれているのは、勉強と子どもたちに教えることです。地域でのボランティア活動については書かれていません。
+3 洗濯機のおかげで、人々がほかの家庭用の機械を発明したという話は本文にありません。
+4 本文の rivers（川）や lakes（湖）は、第2段落で、洗濯機がなかったころに洗濯物を運んでいった場所として出てくるだけです。洗濯機によって、川や湖の多い地域に住めるようになったとは書かれていません。
+【覚えるポイント】
+・A allow(s) B to ～：「AはBが～できるようにする」→「Aのおかげで、Bは～できる」。teach oneself は「自分自身に教える」→「自分で学ぶ」です。
+・選択肢に themselves（自分自身）がある場合は、本文の study（勉強する）のような「自分で行う動作」の言いかえになっていないかを確かめましょう。

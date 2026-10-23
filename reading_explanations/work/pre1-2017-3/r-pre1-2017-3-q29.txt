@@ -1,0 +1,31 @@
+---
+choices: started a nationwide trend | affected other cities even more | was actually an advantage | was being criticized internationally
+answerText: was actually an advantage
+reviewed: yes
+---
+【正解】3 was actually an advantage（実は有利な点だった）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 started a nationwide trend（全国的な流行を始めた）
+2 affected other cities even more（ほかの都市にさらに大きな影響を与えた）
+3 was actually an advantage（実は有利な点だった）
+4 was being criticized internationally（国際的に批判されていた）
+【考え方】
+まず見るところ：第1段落の空所の後ろの Gurgaon's lack of development made land cheap と many foreign companies chose to locate their offices there
+空所の前の文で、グルガオンの状態が説明されています。
+Gurgaon was undeveloped and had no local government（グルガオンは開発されておらず、地方自治体もなかった）
+local government は「地方自治体（市や町など、その地域の行政を行う組織）」です。空所の文 As it turns out, this ( 29 ). の this は、この「開発されておらず、地方自治体もなかったこと」を指しています。As it turns out は「結果的に、あとで分かったことには」という意味です。
+空所の後ろには、その結果が2つ書かれています。
+Gurgaon's lack of development made land cheap, attracting residents from the capital, New Delhi.（グルガオンの開発の遅れは土地の値段を安くし、首都ニューデリーから住民を引きつけた）
+because Gurgaon had skilled English-speaking workers in an environment free from local-government regulation, many foreign companies chose to locate their offices there（グルガオンには、地方自治体による規制のない環境の中に、英語を話す熟練した労働者たちがいたため、多くの外国企業がそこに事務所を置くことを選んだ）
+regulation は「規制（決まりで制限すること）」です。開発の遅れは「土地が安い」、地方自治体がないことは「規制がない」という、よい結果につながりました。一見よくない状態が「実は有利だった」ということなので、3が正解です。
+この問題の型：具体例とまとめ（土地が安い・規制がない→有利な点だった）
+【ほかの選択肢】
+1 「全国的な流行を始めた」は、本文に根拠がありません。第1段落で述べられているのはグルガオンに人や企業が集まったことで、ほかの地域がまねをしたという話は出てきません。
+2 「ほかの都市にさらに大きな影響を与えた」は、本文に根拠がありません。空所の後ろに書かれているのはグルガオン自身に起きたよい結果で、ほかの都市への影響は書かれていません。
+4 「国際的に批判されていた」は、本文と合いません。空所の後ろでは、多くの外国企業がグルガオンに事務所を置くことを選んだと書かれており、国際的に批判された話はありません。
+【覚えるポイント】
+・As it turns out：「結果的に、あとで分かったことには」。予想とちがう結果を述べるときによく使われます。
+・空所の文の this が「一見よくない状態」を指していて、後ろによい結果が続いているときは、「実は有利だった」のような意外な評価が入ることが多いです。

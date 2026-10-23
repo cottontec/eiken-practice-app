@@ -1,0 +1,173 @@
+{
+  "2-2014-3": {
+    "stats": {
+      "target": 50,
+      "written": 50,
+      "reviewed": 50
+    },
+    "errors": [],
+    "warnings": []
+  },
+  "2-2015-1": {
+    "stats": {
+      "target": 50,
+      "written": 50,
+      "reviewed": 50
+    },
+    "errors": [],
+    "warnings": []
+  },
+  "2-2015-2": {
+    "stats": {
+      "target": 50,
+      "written": 50,
+      "reviewed": 50
+    },
+    "errors": [],
+    "warnings": []
+  },
+  "2-2016-1": {
+    "stats": {
+      "target": 38,
+      "written": 38,
+      "reviewed": 38
+    },
+    "errors": [],
+    "warnings": []
+  },
+  "2-2015-3": {
+    "stats": {
+      "target": 50,
+      "written": 50,
+      "reviewed": 50
+    },
+    "errors": [],
+    "warnings": []
+  },
+  "2-2016-2": {
+    "stats": {
+      "target": 38,
+      "written": 38,
+      "reviewed": 38
+    },
+    "errors": [],
+    "warnings": []
+  },
+  "2-2016-3": {
+    "stats": {
+      "target": 38,
+      "written": 38,
+      "reviewed": 38
+    },
+    "errors": [],
+    "warnings": []
+  },
+  "2-2017-1": {
+    "stats": {
+      "target": 38,
+      "written": 38,
+      "reviewed": 38
+    },
+    "errors": [],
+    "warnings": []
+  },
+  "2-2017-3": {
+    "stats": {
+      "target": 38,
+      "written": 38,
+      "reviewed": 38
+    },
+    "errors": [],
+    "warnings": []
+  },
+  "2-2017-2": {
+    "stats": {
+      "target": 38,
+      "written": 38,
+      "reviewed": 38
+    },
+    "errors": [],
+    "warnings": []
+  },
+  "2-2018-1": {
+    "stats": {
+      "target": 38,
+      "written": 38,
+      "reviewed": 38
+    },
+    "errors": [],
+    "warnings": [
+      [
+        "r-2-2018-1-q33",
+        "選択肢1「A judge decided that there was no longer any copyright on the song.」が抽出テキストに見つからない（画像で要確認）"
+      ],
+      [
+        "r-2-2018-1-q33",
+        "選択肢2「Filmmakers bought the copyright for the song from the company that owned it.」が抽出テキストに見つからない（画像で要確認）"
+      ]
+    ]
+  },
+  "2-2018-2": {
+    "stats": {
+      "target": 38,
+      "written": 38,
+      "reviewed": 38
+    },
+    "errors": [],
+    "warnings": []
+  },
+  "2-2019-1": {
+    "stats": {
+      "target": 38,
+      "written": 38,
+      "reviewed": 38
+    },
+    "errors": [],
+    "warnings": []
+  },
+  "2-2018-3": {
+    "stats": {
+      "target": 38,
+      "written": 38,
+      "reviewed": 38
+    },
+    "errors": [],
+    "warnings": []
+  },
+  "2-2020-2": {
+    "stats": {
+      "target": 38,
+      "written": 38,
+      "reviewed": 38
+    },
+    "errors": [],
+    "warnings": []
+  },
+  "2-2019-3": {
+    "stats": {
+      "target": 38,
+      "written": 38,
+      "reviewed": 38
+    },
+    "errors": [],
+    "warnings": []
+  },
+  "2-2019-2": {
+    "stats": {
+      "target": 38,
+      "written": 38,
+      "reviewed": 38
+    },
+    "errors": [],
+    "warnings": []
+  },
+  "2-2020-3": {
+    "stats": {
+      "target": 38,
+      "written": 38,
+      "reviewed": 38
+    },
+    "errors": [],
+    "warnings": []
+  }
+}

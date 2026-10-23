@@ -1,0 +1,21 @@
+---
+choices: the shop | her | decorated | that | way
+answerText: that
+order: 5 4 1 3 2
+reviewed: yes
+---
+【正解】4 that（この問題の2番目）
+【完成文】
+Lydia is pleased with the ( way that the shop decorated her ) wedding cake.
+並べ方：5 way → 4 that → 1 the shop → 3 decorated → 2 her（2番目は4、4番目は3）
+【和訳】
+リディアは、その店が自分のウエディングケーキを飾りつけたやり方に満足しています。店の人たちは、アイシング（砂糖で作る、ケーキの飾り用のクリーム状のもの）でたくさんの美しい花を作り、それをケーキの上にのせたのです。
+【考え方】
+まず空所の直前を見ます。Lydia is pleased with the（リディアは～に満足している）と、the で終わっています。the のすぐあとには名詞がくるので、選択肢の中から the に続く名詞を探します。1 the shop にはすでに the が付いているので、the the shop となってしまいます。そこで 5 way（やり方）を先頭に置き、the way（やり方）とします。
+the way のあとに、どんなやり方なのかを説明する文を続けます。4 that は、the way のような名詞のあとに置いて、その名詞を説明する「主語 ＋ 動詞」の文をつなぐ働きをします。そのため that は way の直後、2番目に入ります。
+that のあとは「その店が彼女のウエディングケーキを飾りつけた」という文にします。1 the shop（主語）→ 3 decorated（動詞、飾りつけた）→ 2 her（彼女の）と並べると、空所のあとの wedding cake につながって her wedding cake（彼女のウエディングケーキ）となります。
+これで the way that the shop decorated her wedding cake（その店が彼女のウエディングケーキを飾りつけたやり方）となります。次の文の「たくさんの美しい花を作ってケーキの上にのせた」は、その飾りつけのやり方を具体的に説明しています。したがって2番目は4 that です。
+まちがえやすいのは、the way that her the shop ～ のように、her を the shop の前に置こうとする並べ方です。1 the shop にはすでに the が付いているので her the shop とは言えません。残った her は、空所のあとの wedding cake の前に置いて her wedding cake とします。
+【覚えるポイント】
+・the way (that) ＋ 主語 ＋ 動詞：「（主語）が～するやり方」。
+・be pleased with ～：「～に満足している、～を気に入っている」。

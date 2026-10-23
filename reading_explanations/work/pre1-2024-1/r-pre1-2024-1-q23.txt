@@ -1,0 +1,30 @@
+---
+choices: also came with some challenges | have made her a lot of money | were not understood by her family | helped her begin a new career
+answerText: also came with some challenges
+reviewed: yes
+---
+【正解】1 also came with some challenges（いくつかの困難ももたらした）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 also came with some challenges（いくつかの困難ももたらした）
+2 have made her a lot of money（彼女に多くのお金をもたらした）
+3 were not understood by her family（家族に理解されなかった）
+4 helped her begin a new career（彼女が新しい仕事を始める助けになった）
+【考え方】
+まず見るところ：第2段落の空所の後ろの ignoring other aspects of her life と She had to work hard to find a balance
+空所の前では、突然身についた能力のよい面が書かれています。
+Though she had never taken a class or had any previous experience, she found she could draw amazing pictures with realistic details, much like a professional artist.（彼女は授業を受けたことも、それまでの経験も一切なかったのに、プロの画家のように、本物そっくりの細かい部分のあるすばらしい絵が描けることに気づいた）
+空所の後ろには、次の2つの文が続きます。
+Reportedly, the woman felt the need to draw and paint for hours, ignoring other aspects of her life.（伝えられるところでは、この女性は、生活のほかの面をかえりみずに、何時間も絵を描きたいという欲求を感じたという）
+She had to work hard to find a balance that allowed her to live with her condition.（彼女は、この状態とともに暮らしていけるようなバランスを見つけるために、懸命に努力しなければならなかった）
+絵を描くことに夢中になって生活のほかの面をかえりみなかったことや、バランスを取るのに苦労したことは、能力にともなう「困難」です。also（～も）は、よい面だけでなく困難も、ということを表しています。ですから1が正解です。
+この問題の型：具体例とまとめ（何時間も描く・バランスに苦労→困難ももたらした）
+【ほかの選択肢】
+2 「多くのお金をもたらした」は、本文に書かれていません。第2段落には絵が上手に描けるようになったことは書かれていますが、絵でお金を得たという話は出てきません。
+3 「家族に理解されなかった」は、本文に書かれていません。第2段落に家族は出てきません。第3段落の家族の話は、この症候群がほかの家族にも見られるかどうかを科学者が分かっていない、という内容です。
+4 「新しい仕事を始める助けになった」は、本文に書かれていません。much like a professional artist（プロの画家のように）は絵のうまさを表すたとえで、画家の仕事を始めたとは書かれていません。
+【覚えるポイント】
+・come with ～：「～をともなう、～がついてくる」。
+・空所の後ろに「何時間も」「懸命に努力しなければならなかった」のような苦労が並んでいるときは、空所でそれをまとめていると考えると手がかりになります。

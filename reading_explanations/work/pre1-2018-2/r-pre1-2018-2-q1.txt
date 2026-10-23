@@ -1,0 +1,32 @@
+---
+choices: incidence | sanction | objective | occupancy
+answerText: objective
+reviewed: yes
+---
+【正解】3 objective（目的、目標）
+【和訳】
+（英文）
+“The ［objective］ of today’s training course is to teach you how to operate all of the machines safely,” said the manager. “This will help reduce the number of accidents in the factory.”
+（訳）
+「今日の研修の（目的）は、すべての機械を安全に動かす方法を皆さんに教えることです」と責任者は言いました。「これは、工場での事故の数を減らすのに役立つでしょう。」
+（選択肢の意味）
+1 incidence：（病気や事件などの）発生率、起こる割合
+2 sanction：認可（正式に許すこと）；制裁（ルールを破った相手への罰）
+3 objective：目的、目標
+4 occupancy：（建物や部屋を）使うこと、入居していること
+【考え方】
+まず見るところ：空所の後ろの is to teach you how to operate all of the machines safely
+空所のある文の形は次のとおりです。
+The (　) of today’s training course is to teach you how to operate all of the machines safely（今日の研修の（　）は、すべての機械を安全に動かす方法を皆さんに教えることだ）
+「研修の（　）は、～を教えることだ」という形です。is to teach ～ の部分は、研修で「何をしようとしているのか」を説明しています。ですから、空所には「ねらい、目的」を表す語が入ると考えられます。
+後半の文も確かめます。
+This will help reduce the number of accidents in the factory.（これは、工場での事故の数を減らすのに役立つだろう）
+機械の安全な使い方を教えることで事故を減らしたい、という研修のねらいが分かり、流れとも合います。objective は名詞で「目的、目標」という意味なので、3が正解です。
+この問題の型：語の意味・組み合わせ（The objective of ～ is to ...）
+【ほかの選択肢】
+1 incidence は「（病気や事件などの）発生率」です。「今日の研修の発生率は、機械の動かし方を教えることだ」となり、意味が通りません。
+2 sanction は「認可」や「制裁（罰）」という意味です。「研修の認可（制裁）は、機械の動かし方を教えることだ」となり、研修のねらいを説明する文になりません。
+4 occupancy は「（建物や部屋を）使うこと、入居していること」です。「研修の入居は、～を教えることだ」となり、意味が通りません。
+【覚えるポイント】
+・objective：名詞で「目的、目標」。purpose（目的）とほぼ同じ意味で使われます。
+・The (　) of ～ is to ... のように、空所の後ろが「～すること」と説明している形では、「目的・ねらい」を表す語が入らないか考えると手がかりになります。

@@ -1,0 +1,28 @@
+---
+choices: intelligent | steady | pleasant | awkward
+answerText: awkward
+reviewed: yes
+---
+【正解】4 awkward（気まずい、居心地が悪い）
+【和訳】
+（英文）
+Keith was the only person to wear jeans to the formal party, and people were looking at him strangely. He felt ［awkward］, so he went home early.
+（訳）
+キースは、その正式なパーティーにジーンズをはいて行った、ただ1人の人でした。そして、人々は彼のことを変な目で見ていました。彼は（気まずく）感じたので、早く家に帰りました。
+（選択肢の意味）
+1 intelligent：頭のよい
+2 steady：安定した、しっかりした
+3 pleasant：楽しい、心地よい
+4 awkward：気まずい、居心地が悪い
+【考え方】
+空所は He felt (　) で、キースがどんな気持ちになったかを表します。
+まず前の文を見ます。the only person to wear jeans to the formal party は「正式なパーティーにジーンズをはいて行ったただ1人の人」という意味です。formal は「正式な、改まった」で、ふつうはきちんとした服を着ていく場です。さらに people were looking at him strangely（人々が彼を変な目で見ていた）とあります。
+また、空所のあとは so he went home early（だから早く家に帰った）です。so は「だから」と結果を表します。
+1人だけ場に合わない服装で、周りから変な目で見られ、早く帰ってしまったのですから、キースは居心地の悪い思いをしたと考えられます。awkward（気まずい、居心地が悪い）が合うので、4が正解です。
+【ほかの選択肢】
+1 intelligent は「頭のよい、知能の高い」です。「頭がよいと感じたので早く帰った」となり、変な目で見られたことともつながりません。
+2 steady は「安定した、しっかりした」です。落ち着いた気持ちなら早く帰る理由になりにくく、文の流れに合いません。
+3 pleasant は「楽しい、心地よい」です。「心地よく感じたので早く帰った」となり、so（だから）の前後がつながりません。
+【覚えるポイント】
+・feel awkward：「気まずく感じる、居心地が悪い」。
+・formal party：「正式なパーティー、改まった集まり」。

@@ -1,0 +1,31 @@
+---
+choices: Keep an eye on how words are used in the English language. | Decide how to spell the new words that are added to English. | Check for technological developments that could help their work. | Make changes to words that people have difficulty expressing.
+answerText: Keep an eye on how words are used in the English language.
+reviewed: yes
+---
+【正解】1 Keep an eye on how words are used in the English language.（英語の中で語がどのように使われているかに目を配る。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one thing that the creators of English dictionaries must do?（英語の辞書を作る人々がしなければならないことの1つは何ですか。）
+1 Keep an eye on how words are used in the English language.（英語の中で語がどのように使われているかに目を配る。）
+2 Decide how to spell the new words that are added to English.（英語に加えられる新しい語のつづりを決める。）
+3 Check for technological developments that could help their work.（自分たちの仕事に役立つかもしれない技術の発展がないかを調べる。）
+4 Make changes to words that people have difficulty expressing.（人々が表現するのに苦労する語に変更を加える。）
+【考え方】
+まず見るところ：第1段落の最後の The people who create dictionaries need to constantly check ～
+The people who create dictionaries need to constantly check which words are being used and how they are being used（辞書を作る人々は、どの語が使われているか、そしてそれらがどのように使われているかを、常に確認する必要がある）
+設問の the creators of English dictionaries（英語の辞書を作る人々）は、本文の The people who create dictionaries の言いかえです。
+本文と選択肢を対にすると、次のようになります。
+本文 need to ＝ 設問 must（～しなければならない）
+本文 constantly check ～ how they are being used（それらがどのように使われているかを常に確認する）＝ 選択肢 Keep an eye on how words are used（語がどのように使われているかに目を配る）
+keep an eye on ～ は「～から目を離さない、～に目を配る」という意味で、constantly check（常に確認する）と同じ内容です。ですから1が正解です。
+この問題の型：言いかえ（constantly check ＝ keep an eye on）
+【ほかの選択肢】
+2 新しい語のつづりを決めるという話は、本文のどこにもありません。
+3 本文の technological developments（技術の発展）は、新しい語が生まれるもととして出てくる言葉です。また、コンピューターが仕事に役立つことは第2段落にありますが、「仕事に役立つ技術の発展がないかを調べなければならない」とは書かれていません。同じ語句を使っていても、内容が違います。
+4 本文には、ほかの語は they no longer help people express their ideas（人々が考えを表すのにもう役立たなくなる）ために使われなくなる、とあります。これは使われなくなる語の説明で、「表現するのに苦労する語に変更を加える」とは書かれていません。
+【覚えるポイント】
+・keep an eye on ～：「～から目を離さない、～に目を配る」。
+・設問の must は、本文の need to や have to の言いかえになっていることが多いので、本文で need to のある文をさがすと根拠が見つけやすくなります。

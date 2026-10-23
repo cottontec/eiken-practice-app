@@ -1,0 +1,29 @@
+---
+choices: More people have started talking about the dangers of air pollution. | Visitors to London have been using his devices to measure pollution. | The government has promised to do more to clean up London's air. | Experts have begun using pigeons to collect data about other problems.
+answerText: More people have started talking about the dangers of air pollution.
+reviewed: yes
+---
+【正解】1 More people have started talking about the dangers of air pollution.（大気汚染の危険について話し始める人が増えた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：デュケノワのプロジェクトのおかげで、何が起こりましたか。
+1 More people have started talking about the dangers of air pollution.（大気汚染の危険について話し始める人が増えた。）
+2 Visitors to London have been using his devices to measure pollution.（ロンドンを訪れた人々が、汚染を測るために彼の装置を使っている。）
+3 The government has promised to do more to clean up London's air.（政府が、ロンドンの空気をきれいにするためにもっと取り組むと約束した。）
+4 Experts have begun using pigeons to collect data about other problems.（専門家たちが、ほかの問題についてのデータを集めるためにハトを使い始めた。）
+【考え方】
+設問は「プロジェクトの結果として起こったこと」です。第4段落の終わりに、プロジェクトのあとの人々の様子が書かれています。
+The website had many visitors, and they began to discuss Duquesnoy's project and the problem of air pollution.（ウェブサイトには多くの人が訪れ、彼らはデュケノワのプロジェクトや大気汚染の問題について話し合い始めた）
+As a result, more people are saying that the government should do more to clean up London's air.（その結果、政府はロンドンの空気をきれいにするためにもっと取り組むべきだと言う人が増えている）
+本文と選択肢を対にすると、次のようになります。
+本文 they began to discuss ... the problem of air pollution ＝ 選択肢 More people have started talking about the dangers of air pollution
+began to discuss（話し合い始めた）が have started talking（話し始めた）に、the problem of air pollution（大気汚染の問題）が the dangers of air pollution（大気汚染の危険）に言いかえられています。第1段落では、汚染が目に見えないため行動を求める人がほとんどいなかったので、そこから話す人が増えたことになります。
+【ほかの選択肢】
+2 本文の visitors は「ウェブサイトを訪れた人」（The website had many visitors）のことで、ロンドンを訪れた観光客などではありません。また、装置はハトの背中に付けられたもので、訪れた人々が使っているとは書かれていません。
+3 本文に書かれているのは、「政府はもっと取り組むべきだと言う人が増えている」ことです。政府が実際に約束したとは書かれていません。主語が人々から政府にすりかえられています。
+4 プロジェクトを手伝った専門家（an expert）は出てきますが、専門家がほかの問題のデータ集めにハトを使い始めたという話は本文にありません。
+【覚えるポイント】
+・As a result：「その結果」。設問で「何が起こったか」と聞かれたら、この語句のあとを確かめましょう。
+・visitor：「訪問者」。どこを訪れた人なのか（ここではウェブサイト）を確かめることが大切です。

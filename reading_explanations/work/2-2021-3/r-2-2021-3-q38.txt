@@ -1,0 +1,32 @@
+---
+choices: Some people did not want to eat pineapples because their appearance was unusual. | Pineapples used to be a way for people to show how wealthy they were. | The pineapples that grew naturally in parts of South America were not sweet. | Sugar was widely available in Europe at the time of Christopher Columbus.
+answerText: Pineapples used to be a way for people to show how wealthy they were.
+reviewed: yes
+---
+【正解】2 Pineapples used to be a way for people to show how wealthy they were.（パイナップルは、かつて、人々が、自分がどれほど裕福かを示す手段だった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Which of the following statements is true?（次の記述のうち、正しいものはどれですか。）
+1 Some people did not want to eat pineapples because their appearance was unusual.（見た目が変わっていたので、パイナップルを食べたがらない人もいた。）
+2 Pineapples used to be a way for people to show how wealthy they were.（パイナップルは、かつて、人々が、自分がどれほど裕福かを示す手段だった。）
+3 The pineapples that grew naturally in parts of South America were not sweet.（南アメリカの一部で自然に育っていたパイナップルは、甘くなかった。）
+4 Sugar was widely available in Europe at the time of Christopher Columbus.（クリストファー・コロンブスの時代のヨーロッパでは、砂糖が広く手に入った。）
+【考え方】
+まず見るところ：第3段落の Growing pineapples became a hobby for very rich people, and pineapples became a status symbol.
+「次の記述のうち正しいものはどれか」という設問なので、選択肢を1つずつ本文と照らし合わせます。2の wealthy（裕福な）に関係する内容が、第3段落の後半にあります。
+Growing pineapples became a hobby for very rich people, and pineapples became a status symbol.（パイナップルを育てることはとても裕福な人々の趣味になり、パイナップルは地位の象徴になった）
+status symbol は「地位の象徴（その人の身分や豊かさを示すもの）」です。温室を暖めるのに大量の燃料が必要で、育つまでに4年もかかったので、パイナップルを育てられたのは、とても裕福な人々だったと考えられます。
+本文と選択肢を対にすると、次のようになります。
+本文 pineapples became a status symbol（パイナップルは地位の象徴になった）、a hobby for very rich people（とても裕福な人々の趣味）→ 読み取れること：パイナップルは、持ち主の豊かさを示すものだった → 選択肢 a way for people to show how wealthy they were（人々が、自分がどれほど裕福かを示す手段）
+選択肢の used to be ～ は「かつては～だった（今はちがう）」です。本文の最後に、パイナップルは the pineapple lost its luxury image（ぜいたく品というイメージを失った）とあるのとも合います。ですから2が正解です。
+この問題の型：言いかえ（status symbol ＝ a way to show how wealthy they were）、推論（本文の内容から、どんな役割だったかを考える）
+【ほかの選択肢】
+1 本文の Because of its unusual appearance and status, the pineapple also became a popular image in art and design.（その変わった見た目と地位のために、パイナップルは芸術やデザインでも人気のある図柄になった）では、変わった見た目は人気の理由として書かれています。見た目のせいで食べたがらなかったという話はありません。また、第3段落に、食べられるのではなく飾りとして使われることがよくあったとありますが、その理由として見た目は書かれていません。
+3 本文の第1段落には Their natural sweetness made them a favorite of the native people.（その自然な甘さによって、パイナップルは先住民の大好物になった）とあります。南アメリカのパイナップルは甘かったので、本文と反対です。
+4 本文の第2段落には At that time in Europe, there was very little sugar（当時のヨーロッパには砂糖がほとんどなかった）とあります。「砂糖が広く手に入った」は本文と反対です。
+【覚えるポイント】
+・status symbol：「地位の象徴（その人の身分や豊かさを示すもの）」。
+・次に同じ形が出たら：Which ～ is true?（正しいものはどれか）の設問では、選択肢の語（wealthy、sugar、sweet など）が本文のどこに出てくるかを探して、1つずつ本文の内容と同じか反対かを確かめると手がかりになります。
+・used to ～：「かつては～だった、以前はよく～したものだった」。今はそうではないことを表します。

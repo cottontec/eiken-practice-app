@@ -1,0 +1,27 @@
+---
+choices: provide a home to whales | increase in temperature | contain harmful chemicals | produce more fuel
+answerText: contain harmful chemicals
+reviewed: yes
+---
+【正解】3 contain harmful chemicals（有害な化学物質を含む）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 provide a home to whales（クジラにすみかを与える）
+2 increase in temperature（温度が上がる）
+3 contain harmful chemicals（有害な化学物質を含む）
+4 produce more fuel（より多くの燃料を生み出す）
+【考え方】
+空所は第2段落の Moreover, the water in and around New York began to ( 25 ). です。「さらに、ニューヨークとその周辺の水が（25）し始めた」という意味です。
+Moreover は「さらに」と、前と同じ向きの内容を付け加える語です。前の文では、クジラの肉は人気があり続け、20世紀までに大西洋のザトウクジラが約700頭しかいなくなっていた、という「悪いこと」が書かれていました。ですから、空所にもクジラにとっての悪いことが入ると考えられます。
+決め手は、すぐあとの文です。
+Scientists believe that these two things—too much hunting and water pollution—caused the humpbacks to disappear（科学者たちは、この2つのこと、つまりとりすぎと水の汚染が、ザトウクジラが姿を消す原因になったと考えている）
+these two things（この2つのこと）は、前に書かれた2つのことをまとめた言い方です。1つ目の too much hunting（とりすぎ）は、それより前に書かれたクジラ漁の話です。2つ目の water pollution（水の汚染）が、空所の文の内容に当たります。contain harmful chemicals（有害な化学物質を含む）を入れると、「水が有害な化学物質を含むようになった」となり、water pollution（水の汚染）と対応します。ですから、3が正解です。
+【ほかの選択肢】
+1 「クジラにすみかを与える」は反対の内容です。この段落は、クジラが減って姿を消した理由を説明していて、すぐあとの文でも、水の汚染がクジラが消えた原因とされています。
+2 「温度が上がる」は合いません。すぐあとの文で、この内容は water pollution（水の汚染）とまとめられています。また第3段落でも、汚染を減らす法律ができて the water became cleaner（水がきれいになった）とあり、問題だったのは水の温度ではなく、水の汚れだと分かります。
+4 「より多くの燃料を生み出す」は合いません。燃料の話は、人々がクジラの脂肪を燃料に使ったという話で、水が燃料を生み出すという内容は本文にありません。
+【覚えるポイント】
+・Moreover：「さらに」。前と同じ方向の内容（ここでは、クジラにとっての悪いこと）を付け加えます。
+・these two things のような「まとめの言葉」があるときは、前に出た2つが何かを確かめると、空所の中身が分かります。

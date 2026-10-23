@@ -1,0 +1,31 @@
+---
+choices: sink in | sit by | wear off | make out
+answerText: sit by
+reviewed: yes
+---
+【正解】2 sit by（何もせずに見ている、傍観する）
+【和訳】
+（英文）
+A: Are you sure you want to go to the protest, Shari?
+B: Yes. I can't just ［sit by］ while an important historic building is destroyed. I would feel terrible if I didn't try to stop it.
+（訳）
+A：シャリ、本当に抗議活動に行きたいの？
+B：うん。大切な歴史的建物が壊されるのを、ただ（何もせずに見ている）ことはできないよ。止めようとしなかったら、ひどくつらい気持ちになると思う。
+（選択肢の意味）
+1 sink in：（話の意味などが）よく分かってくる、しみこむ
+2 sit by：何もせずに見ている、傍観する
+3 wear off：（効き目などが）だんだん薄れる
+4 make out：理解する、見分ける
+【考え方】
+まず見るところ：Bの I can't just (　) while ～ と、I would feel terrible if I didn't try to stop it.
+Aは、シャリが protest（抗議活動。反対の気持ちを示すための集まり）に本当に行きたいのかたずねています。Bは Yes. と答え、理由を述べています。
+I would feel terrible if I didn't try to stop it.（もしそれを止めようとしなかったら、ひどくつらい気持ちになるだろう）
+it は、歴史的な建物が壊されることを指します。Bは、何もしないでいることはしたくないと考えています。ですから、I can't just (　) while ～ は「～の間、ただ何もせずにいることはできない」という意味になるはずです。sit by は「何もせずに見ている」なので、2が正解です。just（ただ～だけ）も、「何もしない」という意味を強めています。
+この問題の型：語の意味・組み合わせ（can't just sit by：ただ見ているだけではいられない）
+【ほかの選択肢】
+1 sink in は「（話の意味などが）よく分かってくる」です。「建物が壊される間、私はただ分かってくることはできない」では意味が通りません。
+3 wear off は「（効き目などが）だんだん薄れる」です。人について「ただ薄れることはできない」と言っても、抗議に行く理由になりません。
+4 make out は「理解する、見分ける」で、ふつうはあとに目的語（～を）が必要です。この文では何を理解するのかが分からず、意味が通りません。
+【覚えるポイント】
+・sit by：「（悪いことが起きているのに）何もせずに見ている」。protest：「抗議活動」。
+・I can't just ～ のあとに「止めようとしなかったら後悔する」という文が続くときは、空所に「何もしない」という意味の語句が入る手がかりになります。

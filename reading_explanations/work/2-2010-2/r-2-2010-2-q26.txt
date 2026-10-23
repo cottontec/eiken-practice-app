@@ -1,0 +1,27 @@
+---
+choices: leisure | industry | nature | culture
+answerText: nature
+reviewed: yes
+---
+【正解】3 nature（自然）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 leisure：余暇、自由な時間
+2 industry：産業、工業
+3 nature：自然
+4 culture：文化
+【考え方】
+空所は第1段落の最後の文 According to experts, artificial light is doing damage both to (　) and to human beings.（専門家によると、人工の光は〜と人間の両方に被害を与えている）にあります。both A and B は「AとBの両方」という意味です。つまり、人工の光が被害を与えている相手が2つあり、その1つが human beings（人間）です。
+もう1つが何かは、第2段落を読むと分かります。第2段落では、光害の被害が2つの方向から説明されています。
+1つ目は It also harms our health（私たちの健康も害する）で、これは人間への被害です。
+2つ目は It also affects wildlife（野生生物にも影響を与える）で、カメの赤ちゃんの例が続きます。wildlife は「野生生物」です。
+人間と並ぶもう1つの被害の相手は、野生生物、つまり自然の生き物たちです。また第1段落でも、光害は negative effect of artificial light on the environment（人工の光が環境に与える悪い影響）と説明されています。nature（自然）を入れると、第2段落の内容とぴったり合うので、3が正解です。
+【ほかの選択肢】
+1 leisure は「余暇、自由な時間」です。「人工の光は余暇と人間の両方に被害を与えている」となります。第2段落には余暇についての被害は書かれていないので、合いません。
+2 industry は「産業、工業」です。本文で述べられている被害は、人間の健康と野生生物へのものです。産業が被害を受けるという話は出てこないので、合いません。
+4 culture は「文化」です。「文化と人間の両方に被害」となりますが、文化への被害は本文のどこにも書かれていないので、合いません。
+【覚えるポイント】
+・both A and B：「AとBの両方」。この文では A に入る語を、あとの段落の説明から考えました。
+・do damage to ～：「～に被害を与える」。

@@ -1,0 +1,31 @@
+---
+choices: symptom | rejection | biography | contribution
+answerText: rejection
+reviewed: yes
+---
+【正解】2 rejection（不採用〔の通知〕、断ること）
+【和訳】
+（英文）
+David felt the job interview had gone badly, so he thought that the letter from the company would be a ［rejection］. He was surprised to find he had actually got the job.
+（訳）
+デイビッドは、仕事の面接がうまくいかなかったと感じていたので、会社からの手紙は（不採用の通知）だろうと思っていました。彼は、実際にはその仕事に採用されたと分かって驚きました。
+（選択肢の意味）
+1 symptom：（病気の）症状
+2 rejection：不採用、断ること
+3 biography：伝記
+4 contribution：貢献、寄付
+【考え方】
+まず見るところ：最初の文の had gone badly, so と、2文目の actually got the job
+David felt the job interview had gone badly（デイビッドは仕事の面接がうまくいかなかったと感じた）
+そのあとに so（それで、だから）が続くので、後半は「うまくいかなかった」と感じた結果、どう思ったかを表しています。面接がうまくいかなかったと思えば、会社からの手紙は「採用しません」という知らせだろう、と考えるのが自然です。
+He was surprised to find he had actually got the job.（彼は、実際にはその仕事に採用されたと分かって驚いた）
+actually（実際には）は、予想とちがっていたことを表します。採用されないと思っていたのに採用されたので驚いた、という流れです。
+rejection（不採用）を入れると、2つの文がつながります。ですから2が正解です。
+この問題の型：因果（went badly, so ～）
+【ほかの選択肢】
+1 symptom は「（病気の）症状」です。「会社からの手紙は症状だろう」となり、意味が通りません。
+3 biography は「伝記（ある人の一生を書いた本）」です。会社から届く手紙の中身として合いません。
+4 contribution は「貢献、寄付」です。面接がうまくいかなかったから手紙が寄付だろう、とはならず、前後とつながりません。
+【覚えるポイント】
+・rejection：「不採用、断ること」。動詞は reject（断る、受け入れない）です。
+・was surprised や actually があるときは、その前に「予想」が書かれていることが多く、予想の中身が空所の手がかりになります。

@@ -1,0 +1,24 @@
+---
+choices: by | of | with | at
+answerText: of
+reviewed: yes
+---
+【正解】2 of（independent of ～ で「～から自立した」）
+【和訳】
+アーロンは親から自立したいと思っていますが、自分のアパートを借りる余裕がないので、実家で暮らさなければなりません。
+（選択肢の意味）
+1 by：～によって、～のそばに
+2 of：～の、～から
+3 with：～といっしょに、～を使って
+4 at：～で、～に
+【考え方】
+空所の前は independent（独立した、自立した）、うしろは his parents（彼の親）です。independent of ～ で「～から独立した、～にたよらない」という決まった形になります。be independent of his parents で「親から自立している」です。
+文の後半も見ます。he cannot afford to rent his own apartment, so he has to live at home（自分のアパートを借りる余裕がないので、家で暮らさなければならない）。can't afford to ～ は「～する（お金の）余裕がない」です。but（しかし）でつながっているので、前半は「親から自立したい」という、後半とは反対の願いになります。
+意味も形も合うので、2が正解です。
+【ほかの選択肢】
+1 by は「～によって」です。independent by his parents では「親によって自立した」のようになり、決まった形にも意味にも合いません。
+3 with は「～といっしょに」です。「親といっしょに自立したい」となり、親から離れて暮らしたいという内容と合いません。
+4 at は「～で、～に」です。independent at his parents という言い方はしません。
+【覚えるポイント】
+・independent of ～：「～から独立した、自立した」。反対の意味の dependent on ～（～にたよっている）とセットで覚えましょう。
+・can't afford to ～：「～する（お金の）余裕がない」。

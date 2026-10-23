@@ -1,0 +1,26 @@
+---
+choices: As a consequence | Nonetheless | In addition | Similarly
+answerText: Nonetheless
+reviewed: yes
+---
+【正解】2 Nonetheless（それでもなお、それにもかかわらず）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 As a consequence（その結果）
+2 Nonetheless（それでもなお、それにもかかわらず）
+3 In addition（さらに、それに加えて）
+4 Similarly（同じように）
+【考え方】
+空所には文と文をつなぐ語句が入ります。このような問題では、空所の前と後ろの内容がどんな関係になっているかを確かめます。
+空所の前の文は The material does have some drawbacks, the main one being its lifespan, which can be as short as 50 years.（この資材には確かにいくつかの欠点があり、その主なものは寿命で、短い場合には50年ほどしかもたない）です。drawback は「欠点」、lifespan は「寿命（使える期間）」という意味です。does have の does は「確かに～ある」と強める働きをしていて、「欠点があることは認める」という気持ちを表しています。
+空所の後ろは a low-cost home that reduces the amount of plastic waste put into landfills is a promising start（埋め立て地に捨てられるプラスチックごみを減らす低価格の家は、有望な第一歩である）です。landfill は「埋め立て地（ごみを埋めて処分する場所）」、promising は「有望な、これから期待できる」という意味です。
+前の文は「欠点がある」という悪い面、後ろの文は「有望な第一歩だ」というよい面で、内容の向きが反対です。欠点を認めたうえで、「それでも価値がある」と言っているので、逆接（前と反対の内容をつなぐこと）を表す Nonetheless（それでもなお）が入ります。よって2が正解です。
+【ほかの選択肢】
+1 As a consequence は「その結果」という意味で、前の内容が原因、後ろの内容が結果になるときに使います。「寿命が短い。その結果、有望な第一歩だ」では、原因と結果としてつながりません。
+3 In addition は「さらに、それに加えて」という意味で、同じ向きの内容をつけ加えるときに使います。ここでは前の文が欠点、後ろの文が長所で、内容の向きが反対なので合いません。
+4 Similarly は「同じように」という意味で、前と似た内容を並べるときに使います。「欠点がある」と「有望だ」は似た内容ではないので合いません。
+【覚えるポイント】
+・Nonetheless：「それでもなお、それにもかかわらず」。nevertheless もほぼ同じ意味です。
+・does have のように動詞の前に do / does / did を置くと、「確かに～だ」と強める働きをします。後ろに「でも」と反対の内容が続くことが多い形です。

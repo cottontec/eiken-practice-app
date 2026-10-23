@@ -1,0 +1,31 @@
+---
+choices: fizzing | gushing | howling | puffing
+answerText: gushing
+reviewed: yes
+---
+【正解】2 gushing（〔液体を〕勢いよく噴き出している）
+【和訳】
+（英文）
+A: Craig, did they manage to fix that burst pipe at the construction site down the street?
+B: Yes, thank goodness. It was ［gushing］ so much water I thought the entire neighborhood would flood!
+（訳）
+A：クレイグ、通りの先の工事現場にある、あの破裂した水道管は、なんとか直せたの？
+B：うん、よかったよ。あまりにたくさんの水を（噴き出して）いたから、近所一帯が水びたしになるかと思ったよ！
+（選択肢の意味）
+1 fizzing：（炭酸のように）シューッと泡立っている
+2 gushing：（液体を）勢いよく噴き出している
+3 howling：（犬などが）遠ぼえしている、（風が）うなっている
+4 puffing：（煙などを）ぷっと吐いている、息を切らしている
+【考え方】
+まず見るところ：空所のあとの so much water と、I thought the entire neighborhood would flood
+Aの質問に出てくる burst pipe は「破裂した水道管」です。Bの答えの It は、この水道管を指しています。
+It was (　) so much water I thought the entire neighborhood would flood!（あまりにたくさんの水を（　）いたから、近所一帯が水びたしになるかと思ったよ！）
+so much water (that) ～ は「あまりにたくさんの水を…ので～」という形です。flood は「水びたしになる、洪水になる」です。近所が水びたしになると思うほど、大量の水が勢いよく出ていたと分かります。gush は「（液体が・液体を）勢いよく噴き出す」という意味なので、2が正解です。
+この問題の型：語の意味・組み合わせ（gush water）
+【ほかの選択肢】
+1 fizzing は「（炭酸のように）シューッと泡立っている」です。泡が立つ様子を表す語で、近所が水びたしになるほど大量の水が出る様子には合いません。
+3 howling は「遠ぼえしている、（風が）うなっている」です。声や音を表す語で、「水道管が大量の水を遠ぼえしていた」では意味が通りません。
+4 puffing は「（煙などを）ぷっと吐いている」です。煙や息を短く出す様子で、大量の水が出て近所が水びたしになりそうな様子には合いません。
+【覚えるポイント】
+・gush：「（液体が）勢いよく噴き出す」。burst pipe（破裂した水道管）や so much water といっしょに使われています。
+・so much ～ (that) … の形では、that 以下の結果（ここでは「近所が水びたしになるかと思った」）の大きさが、空所の動作の強さを考える手がかりになります。

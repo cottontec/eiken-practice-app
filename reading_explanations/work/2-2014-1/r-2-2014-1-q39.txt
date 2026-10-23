@@ -1,0 +1,30 @@
+---
+choices: It had many more participants than the BBC Lab UK study did. | It investigated the effects of brain-training programs on younger people. | It tested the memories of people who are good at math and languages. | It showed that brain-training programs help brainpower in some cases.
+answerText: It showed that brain-training programs help brainpower in some cases.
+reviewed: yes
+---
+【正解】4 It showed that brain-training programs help brainpower in some cases.（脳トレーニングのプログラムが、場合によっては脳の力の助けになることを示した。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：カリフォルニア大学ロサンゼルス校の研究は、BBCラボUKの研究とどのような点で違っていましたか。
+1 It had many more participants than the BBC Lab UK study did.（BBCラボUKの研究よりも、ずっと多くの参加者がいた。）
+2 It investigated the effects of brain-training programs on younger people.（脳トレーニングのプログラムが、より若い人々に与える効果を調べた。）
+3 It tested the memories of people who are good at math and languages.（数学や言語が得意な人々の記憶力をテストした。）
+4 It showed that brain-training programs help brainpower in some cases.（脳トレーニングのプログラムが、場合によっては脳の力の助けになることを示した。）
+【考え方】
+2つの研究の結果を比べます。
+BBCラボUKの研究（第2段落）の結論は、their overall brainpower did not increase（参加者の全体的な脳の力は高まらなかった）でした。
+一方、第3段落は Other research, though, shows that these programs can have a beneficial effect on the brains of older people.（しかし、別の研究では、こうしたプログラムが高齢の人の脳によい効果をもたらすことがあると示されている）で始まります。beneficial は「ためになる、有益な」です。そのあとに、カリフォルニア大学ロサンゼルス校の研究で、平均年齢82歳の参加者に the participants showed clear signs that their brains were working better（参加者たちには、脳の働きがよくなったというはっきりしたしるしが見られた）と書かれています。
+BBCラボUKの研究では、参加者は自分が行った練習そのものは上手になりましたが、全体的な脳の力は高まりませんでした。これに対し、カリフォルニア大学の研究では、高齢の参加者たちの脳の働きがよくなりました。本文と選択肢は次のように対応しています。
+本文 the participants showed clear signs that their brains were working better（参加者たちの脳の働きがよくなったというはっきりしたしるし）＝ 選択肢 help brainpower（脳の力の助けになる）
+本文 can have a beneficial effect on the brains of older people（高齢の人の脳によい効果をもたらすことがある）＝ 選択肢 in some cases（場合によっては）
+can（～することがある）と of older people（高齢の人の）から、プログラムはだれにでも効くのではなく、高齢の人の場合のように「一部の場合に」効果があると分かります。これが in some cases にあたります。脳の力への効果を示したかどうかが2つの研究の違いなので、正解は4です。
+【ほかの選択肢】
+1 カリフォルニア大学の研究の参加者は69人で、BBCラボUKの研究は1万3千人でした。参加者が多かったのはBBCラボUKのほうなので、反対です。
+2 カリフォルニア大学の研究の参加者は an average age of 82（平均年齢82歳）の人たちです。より若い人々ではなく、高齢の人々について調べた研究です。
+3 本文には games involving memory, language, and mathematics（記憶、言語、数学に関わるゲーム）をしたとありますが、数学や言語が得意な人を選んで記憶力をテストしたとは書かれていません。
+【覚えるポイント】
+・beneficial：「ためになる、有益な」。have a beneficial effect on ～ で「～によい効果をもたらす」です。
+・in some cases：「場合によっては、一部の場合には」。

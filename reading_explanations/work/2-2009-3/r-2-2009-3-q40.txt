@@ -1,0 +1,28 @@
+---
+choices: It is helping people protect their computers from damage. | It is helping people measure the size of the network. | It has already saved many lives in Los Angeles. | It has already recorded one earthquake.
+answerText: It has already recorded one earthquake.
+reviewed: yes
+---
+【正解】4 It has already recorded one earthquake.（すでに1つの地震を記録している。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ジェシー・ローレンスの計画について正しいのはどれですか。
+1 It is helping people protect their computers from damage.（人々が自分のコンピューターを被害から守るのに役立っている。）
+2 It is helping people measure the size of the network.（人々がネットワークの大きさを測るのに役立っている。）
+3 It has already saved many lives in Los Angeles.（すでにロサンゼルスで多くの命を救った。）
+4 It has already recorded one earthquake.（すでに1つの地震を記録している。）
+【考え方】
+ローレンスの計画とは、クエイク・キャッチャー・ネットワークのことです。この設問は特定の場所をたずねていないので、選択肢を1つずつ本文と照らし合わせます。
+第4段落に Although the number of computers connected worldwide at present is still small, Quake-Catcher successfully recorded an earthquake in Los Angeles in July 2008.（現在、世界中でつながっているコンピューターの数はまだ少ないものの、クエイク・キャッチャーは2008年7月にロサンゼルスでの地震を記録することに成功した）とあります。
+本文と選択肢は次のように対応しています。
+本文 successfully recorded an earthquake in Los Angeles in July 2008（2008年7月にロサンゼルスでの地震を記録することに成功した）＝ 選択肢 has already recorded one earthquake（すでに1つの地震を記録している）
+an earthquake（ある1つの地震）が one earthquake（1つの地震）に言いかえられています。正解は4です。
+【ほかの選択肢】
+1 コンピューターを落としたときに守るのは、もともとの加速度計の働きです。ローレンスの計画は、その加速度計を利用して地震を記録しようとするもので、人々のコンピューターを守るための計画ではありません。
+2 ネットワークにつながっているコンピューターの数はまだ少ない、とは書かれていますが、計画が、人々がネットワークの大きさを測るのに役立っているという話は本文にありません。
+3 ロサンゼルスについて本文にあるのは、地震を「記録した」ことだけです。多くの命を救ったという話はありません。また、人々が安全な場所へ逃げられるよう地震を知らせることは、may one day（いつの日か～かもしれない）と、これから先の話として書かれているだけです。すでに多くの命を救ったと言うのは言い過ぎです。
+【覚えるポイント】
+・Although ～：「～だけれども」。前半とあとの文が反対の内容になります。
+・may one day ～：「いつの日か～するかもしれない」。まだ実現していない、将来の話を表します。

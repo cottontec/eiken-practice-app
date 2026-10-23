@@ -1,0 +1,27 @@
+---
+choices: budget | crop | basis | illusion
+answerText: basis
+reviewed: yes
+---
+【正解】3 basis（基礎、根拠）
+【和訳】
+（英文）
+Jodie was chosen for the manager's position on the ［basis］ of her excellent public-speaking skills and her years of experience at the company.
+（訳）
+ジョディは、人前で話すすばらしい技術と、その会社での長年の経験にもとづいて、マネージャー（部署などをまとめる立場の人）の役職に選ばれました。
+（選択肢の意味）
+1 budget：予算
+2 crop：作物
+3 basis：基礎、根拠
+4 illusion：錯覚、思い違い
+【考え方】
+空所は on the (　) of her excellent public-speaking skills and her years of experience（すばらしい人前で話す技術と長年の経験の（　）で）の部分です。public-speaking は「人前で話すこと」です。
+文の前半は、ジョディがマネージャーの役職に選ばれたということです。空所のあとに並んでいる「話す技術」と「長年の経験」は、彼女が選ばれた理由、つまり選ぶときのよりどころだと考えられます。
+basis は「基礎、根拠」という意味で、on the basis of ～ で「～にもとづいて、～を根拠にして」という決まった言い方になります。正解は3です。
+【ほかの選択肢】
+1 budget は「予算」です。「技術と経験の予算で選ばれた」となり、意味が通りません。
+2 crop は「作物、収穫」です。「技術と経験の作物で選ばれた」となり、意味が通りません。
+4 illusion は「錯覚、思い違い」です。「すばらしい技術と経験の錯覚で選ばれた」となり、実際には技術も経験もないかのような意味になってしまいます。文の内容と合いません。
+【覚えるポイント】
+・on the basis of ～：「～にもとづいて、～を根拠にして」。
+・years of experience：「長年の経験」。

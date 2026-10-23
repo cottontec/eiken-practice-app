@@ -1,0 +1,33 @@
+---
+choices: split | drift | resolve | grasp
+answerText: drift
+reviewed: yes
+---
+【正解】2 drift（ただよう、流される）
+【和訳】
+（英文）
+A: The boat is starting to ［drift］ away from the shore.
+B: Oh no! We need to catch it before it floats away!
+（訳）
+A：ボートが岸から（ただよって）離れ始めているよ。
+B：たいへん！流されていってしまう前に、つかまえないと！
+（選択肢の意味）
+1 split：割れる、分かれる
+2 drift：ただよう、流される
+3 resolve：解決する、決心する
+4 grasp：しっかりつかむ、理解する
+【考え方】
+まず見るところ：Bの before it floats away
+The boat is starting to (　) away from the shore.（ボートが岸から（　）離れ始めている）
+主語は The boat（ボート）です。ボートが岸から離れていく様子を表す動詞が入ります。
+We need to catch it before it floats away!（流されていってしまう前に、つかまえないと）
+it は the boat を指します。float away は「浮かんで流れていく」という意味です。ボートは水の上をただよいながら岸から離れていると分かります。
+「ただよう、流される」という意味の drift を入れると、drift away from the shore（ただよって岸から離れる）となり、Bの floats away と合います。ですから2が正解です。
+この問題の型：言いかえ（drift away ⇔ floats away）
+【ほかの選択肢】
+1 split は「割れる、分かれる」です。ボートが割れるという話ではなく、Bは「流されていく前につかまえよう」と言っているので合いません。
+3 resolve は「解決する、決心する」です。「ボートが岸から解決して離れる」となり、意味が通りません。
+4 grasp は「しっかりつかむ」です。Bの catch（つかまえる）と意味が近いですが、つかむのは人のすることで、ボートがすることではありません。「ボートがつかんで岸から離れる」となり、意味が通りません。
+【覚えるポイント】
+・drift：「ただよう、流される」。drift away で「ただよって離れていく」。
+・会話問題では、相手の返事の中に空所の語と近い意味の言葉（ここでは floats away）が出てくることがあるので、返事をよく読みましょう。

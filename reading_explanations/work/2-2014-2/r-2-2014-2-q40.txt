@@ -1,0 +1,31 @@
+---
+choices: build houses and offices entirely from recycled materials. | create products that have a positive effect on the environment. | find items that do not cause any air pollution when they are made. | make sure that we only buy items that have been previously used.
+answerText: create products that have a positive effect on the environment.
+reviewed: yes
+---
+【正解】2 create products that have a positive effect on the environment.（環境によい影響を与える製品を作る。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：新しい考え方では、「アップサイクル」は～ために使われるべきだ。
+1 build houses and offices entirely from recycled materials.（完全にリサイクルされた材料で、家や事務所を建てる）
+2 create products that have a positive effect on the environment.（環境によい影響を与える製品を作る）
+3 find items that do not cause any air pollution when they are made.（作られるときに空気の汚れをまったく生まない品物を見つける）
+4 make sure that we only buy items that have been previously used.（私たちが必ず中古の品物だけを買うようにする）
+【考え方】
+アップサイクルについては、第4段落に書かれています。
+This refers to recycling goods into new and better products.（これは、製品をリサイクルして、新しい、よりよい製品にすることを指す）とあります。refer to ～ は「～を指す」です。
+続く文が答えの中心です。In this approach, the newly created goods would also help make the environment better.（この考え方では、新しく作られた製品は、環境をよりよくすることにも役立つことになる）とあります。
+その例として、空気をきれいにするのに役立つカーペットや、使うよりも多くのエネルギーを生み出す建物が挙げられています。どちらも、環境に「よい働きかけ」をする製品です。
+本文と選択肢は次のように対応しています。
+本文 the newly created goods（新しく作られた製品）→ 選択肢 create products（製品を作る）
+本文 help make the environment better（環境をよりよくするのに役立つ）→ 選択肢 have a positive effect on the environment（環境によい影響を与える）
+positive は「よい、プラスの」、effect は「影響」です。正解は2です。
+【ほかの選択肢】
+1 本文で紹介されている建物は、使うよりも多くのエネルギーを生み出す建物です。完全にリサイクルされた材料で建てるとは書かれていません。entirely（完全に）が本文にない内容です。
+3 本文のカーペットは、できあがった製品として空気をきれいにするのに役立つものです。作られるときに空気の汚れをまったく生まない品物を見つける、という話ではありません。
+4 アップサイクルは、製品をリサイクルしてよりよい製品にすることです。中古の品物だけを買うようにするとは書かれていません。
+【覚えるポイント】
+・have a positive effect on ～：「～によい影響を与える」。反対は have a negative effect on ～（～に悪い影響を与える）。
+・refer to ～：「～を指す、～のことを言う」。

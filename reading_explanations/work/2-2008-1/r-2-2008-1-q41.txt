@@ -1,0 +1,29 @@
+---
+choices: engineers are building flood walls that are several kilometers long. | bad weather often makes the construction of new roads impossible. | the heaviest rainstorms are usually during the morning. | floods sometimes cause traffic jams to get worse.
+answerText: floods sometimes cause traffic jams to get worse.
+reviewed: yes
+---
+【正解】4 floods sometimes cause traffic jams to get worse.（洪水のせいで、交通渋滞がひどくなることがある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：クアラルンプールでは、
+1 engineers are building flood walls that are several kilometers long.（技術者たちが、長さ数キロメートルの洪水防止用の壁を建設している。）
+2 bad weather often makes the construction of new roads impossible.（悪天候のせいで、新しい道路の建設ができないことがよくある。）
+3 the heaviest rainstorms are usually during the morning.（最も激しい暴風雨は、たいてい朝に起こる。）
+4 floods sometimes cause traffic jams to get worse.（洪水のせいで、交通渋滞がひどくなることがある。）
+【考え方】
+クアラルンプールの様子は第1段落に書かれています。The city is known for its traffic jams, as well as for the sudden floods（この都市は、交通渋滞と突然の洪水で知られている）とあり、渋滞と洪水という2つの問題があることが分かります。
+次の文の後半に when heavy rains flood the roads, driving becomes extremely dangerous and traffic problems get worse（大雨で道路が水びたしになると、運転は非常に危険になり、交通の問題はさらに悪くなる）とあります。flood はここでは「～を水びたしにする」という動詞です。
+つまり、洪水が起きると渋滞などの交通の問題がひどくなるのです。
+本文 when heavy rains flood the roads（大雨で道路が水びたしになると）＝ 選択肢 floods（洪水が）
+本文 traffic problems get worse（交通の問題がさらに悪くなる）＝ 選択肢 cause traffic jams to get worse（交通渋滞をひどくする）
+本文の when ～（～するときには）は、いつもではなく大雨のときに起こることなので、選択肢では sometimes（ときどき）と言いかえられています。正解は4です。
+【ほかの選択肢】
+1 several kilometers long（数キロメートルの長さ）という言葉は本文にありますが、それはラッシュアワーの traffic jams（交通渋滞）の長さです。洪水防止用の壁の長さではありません。また、技術者たちが作ったのは壁ではなくトンネルです。
+2 本文に書かれているのは、悪天候のときに運転が危険になることと、かつては洪水への防御施設が too costly（費用がかかりすぎた）ということです。悪天候で道路の建設ができないという話はありません。
+3 morning（朝）は、the morning and evening rush hours（朝と夕方のラッシュアワー）という渋滞の時間帯として出てくるだけです。暴風雨が朝に多いとは書かれていません。
+【覚えるポイント】
+・traffic jam：「交通渋滞」。
+・cause ～ to ...：「～に…させる、～が…する原因になる」。cause traffic jams to get worse で「交通渋滞をひどくする」。

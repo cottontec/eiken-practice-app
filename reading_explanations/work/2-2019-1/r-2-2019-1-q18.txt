@@ -1,0 +1,27 @@
+---
+choices: This | That | These | Those
+answerText: Those
+reviewed: yes
+---
+【正解】4 Those（those who ～ で「～する人々」）
+【和訳】
+（英文）
+After the smartphones that P-Tech designed had problems, the company decided to give refunds only to people with receipts. ［Those］ who did not have receipts were unhappy.
+（訳）
+P-Tech社が設計したスマートフォンに問題が起きたあと、その会社は、レシートを持っている人にだけ返金することにしました。レシートを持っていなかった（人々）は不満でした。
+（選択肢の意味）
+1 This：これ
+2 That：あれ、それ
+3 These：これら
+4 Those：それら、（those who ～ で）～する人々
+【考え方】
+空所のある文は (　) who did not have receipts were unhappy. です。空所のすぐ後ろに who did not have receipts（レシートを持っていなかった）があります。who は、前の語に「どんな人か」という説明を付け足す働きをする語です。
+前の文で、会社は only to people with receipts（レシートを持っている人にだけ）返金すると決めました。ですから、空所の文は「レシートを持っていなかった人々は不満だった」という意味になると考えられます。
+those who ～ は「～する人々」という意味の決まった言い方です。Those who did not have receipts で「レシートを持っていなかった人々」となります。また、動詞が were と複数の形になっていることとも合います。ですから、4が正解です。
+【ほかの選択肢】
+1 This は「これ」という1つのものを指す語です。動詞の were は複数の主語に使う形なので合いません。また、This who ～ という言い方はしません。
+2 That も「あれ、それ」という1つのものを指す語です。This と同じく were と合わず、That who ～ という言い方もしません。
+3 These は「これら」という複数を指す語ですが、「～する人々」と言うときに These who ～ という言い方はふつうしません。この意味では those who ～ を使います。
+【覚えるポイント】
+・those who ～：「～する人々」。Those who did not have receipts は「レシートを持っていなかった人々」です。
+・give refunds to ～：「～に返金する」。refund は「払い戻し、返金」です。

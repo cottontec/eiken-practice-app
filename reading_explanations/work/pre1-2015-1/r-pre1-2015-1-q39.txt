@@ -1,0 +1,35 @@
+---
+choices: having academically successful college graduates teach in school classrooms can lead to improved student performance. | college graduates with previous experience volunteering in school classrooms are better able to teach high-achieving students. | putting low-performing children from poor areas in classrooms with wealthier students will motivate them to do well in school. | educational reform should be led by individuals who have experience working with students from disadvantaged backgrounds.
+answerText: having academically successful college graduates teach in school classrooms can lead to improved student performance.
+reviewed: yes
+---
+【正解】1 having academically successful college graduates teach in school classrooms can lead to improved student performance.（学業で成果を上げた大学卒業生に学校の教室で教えてもらうことは、生徒の成績の向上につながりうる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：The Teach for America program is based on the idea that（ティーチ・フォー・アメリカの取り組みは、～という考えに基づいている。）
+1 having academically successful college graduates teach in school classrooms can lead to improved student performance.（学業で成果を上げた大学卒業生に学校の教室で教えてもらうことは、生徒の成績の向上につながりうる。）
+2 college graduates with previous experience volunteering in school classrooms are better able to teach high-achieving students.（以前に学校の教室でボランティアをした経験のある大学卒業生のほうが、成績のよい生徒をうまく教えることができる。）
+3 putting low-performing children from poor areas in classrooms with wealthier students will motivate them to do well in school.（貧しい地域の成績の低い子どもたちを、より裕福な生徒たちと同じ教室に入れると、彼らに学校でよい成績をとろうという意欲がわく。）
+4 educational reform should be led by individuals who have experience working with students from disadvantaged backgrounds.（教育改革は、恵まれない環境で育った生徒と関わった経験のある人々が率いるべきだ。）
+【考え方】
+まず見るところ：第2段落の Founded on the theory that highly motivated college graduates can make a difference in the classroom
+設問の is based on the idea that ～ は「～という考えに基づいている」です。本文では、第2段落に次のようにあります。
+Founded on the theory that highly motivated college graduates can make a difference in the classroom, TFA recruits academically successful young people（強いやる気をもった大学卒業生は教室で変化をもたらすことができる、という理論に基づいて設立されたTFAは、学業で成果を上げた若者たちを採用している）
+be founded on ～ は「～に基づいて設立される」、make a difference は「（よい）変化をもたらす」です。
+第3段落にも、TFAのねらいが書かれています。
+By placing high achievers—who are, it should be noted, not trained as professional teachers—in struggling classrooms, TFA hopes to level the educational playing field.（優秀な人たち――ただし、注意しておくべきことに、彼らはプロの教師としての訓練を受けていない――を苦しんでいる教室に配置することで、TFAは教育の条件を公平にしたいと考えている）
+本文と選択肢を対にすると、次のようになります。
+本文 Founded on the theory that（～という理論に基づいて設立された）＝ 選択肢 is based on the idea that（～という考えに基づいている）
+本文 academically successful young people ～ teaching in underperforming schools（学業で成果を上げた若者が、成績の振るわない学校で教える）＝ 選択肢 having academically successful college graduates teach in school classrooms（学業で成果を上げた大学卒業生に教室で教えてもらう）
+本文 can make a difference in the classroom（教室で変化をもたらすことができる）→ 選択肢 can lead to improved student performance（生徒の成績の向上につながりうる）
+ですから1が正解です。
+この問題の型：言いかえ（founded on the theory ＝ based on the idea、make a difference → improved student performance）
+【ほかの選択肢】
+2 本文には、ボランティアの経験についての話はありません。また、TFAが教師を送るのは underperforming schools（成績の振るわない学校）なので、「成績のよい生徒をうまく教える」という点も本文と合いません。
+3 本文には、貧しい地域の子どもたちを裕福な生徒と同じ教室に入れる、という考えは書かれていません。TFAがするのは、優秀な大学卒業生を苦しんでいる教室に教師として送ることです。
+4 本文には、恵まれない環境の生徒と関わった経験のある人々が改革を率いるべきだ、という話はありません。TFAが採用するのは、学業で成果を上げた若者で、本文には not trained as professional teachers（プロの教師としての訓練を受けていない）とも書かれています。
+【覚えるポイント】
+・be founded on the theory that ～：「～という理論に基づいて設立される」。be based on the idea that ～ と言いかえられます。
+・「～という考えに基づいている」とたずねる設問では、本文の theory、idea、belief などの語のあとに続く that ～ の部分を探すことが手がかりになります。

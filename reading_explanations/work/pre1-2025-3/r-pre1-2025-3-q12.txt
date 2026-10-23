@@ -1,0 +1,32 @@
+---
+choices: ransom | precaution | autonomy | conservation
+answerText: autonomy
+reviewed: yes
+---
+【正解】3 autonomy（自主性、自分で決める自由）
+【和訳】
+（英文）
+The company gave its salespeople ［autonomy］ over their daily work. They are now free to make their own decisions without having to get approval from management.
+（訳）
+その会社は、営業担当者たちに、日々の仕事についての（自主性）を与えた。彼らは今では、経営陣の承認を得なくても、自由に自分で決めることができる。
+（選択肢の意味）
+1 ransom：身代金
+2 precaution：用心、予防策
+3 autonomy：自主性、自分で決める自由
+4 conservation：（自然などの）保護、保存
+【考え方】
+まず見るところ：次の文の free to make their own decisions
+空所のある文は、次のとおりです。
+The company gave its salespeople (　) over their daily work.（その会社は、営業担当者たちに、日々の仕事についての（　）を与えた）
+salespeople は「営業担当者、販売員」です。空所には、会社が営業担当者たちに与えたものが入ります。
+次の文で、その結果が説明されています。
+They are now free to make their own decisions without having to get approval from management.（彼らは今では、経営陣の承認を得なくても、自由に自分で決めることができる）
+approval は「承認（よいと認めること）」、management は「経営陣（会社を動かす立場の人たち）」です。上の人の許しなしに自分で決められるようになったのですから、会社が与えたのは「自分で決める自由」です。autonomy は「自主性、自分で決める自由」という意味なので、3が正解です。
+この問題の型：言いかえ（autonomy → free to make their own decisions）
+【ほかの選択肢】
+1 ransom は「身代金」です。「日々の仕事について身代金を与えた」となり、意味が通りません。
+2 precaution は「用心、予防策」です。用心を与えた、では、次の文の「自由に自分で決められる」という説明につながりません。
+4 conservation は「（自然などの）保護、保存」です。「日々の仕事について保護を与えた」となり、自分で決められるようになったこととつながりません。
+【覚えるポイント】
+・autonomy：「自主性、自分で決める自由」。give ～ autonomy over ... で「～に…についての自主性を与える」。
+・空所の次の文が They are now free to ～（今では自由に～できる）のように「その結果どうなったか」を説明しているときは、それを短く言いかえた語が空所に入る手がかりになります。

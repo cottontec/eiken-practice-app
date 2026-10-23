@@ -1,0 +1,27 @@
+---
+choices: scenery | investment | justice | emphasis
+answerText: justice
+reviewed: yes
+---
+【正解】3 justice（正義）
+【和訳】
+（英文）
+Pamela is a good police officer because she has a strong sense of ［justice］. She fights crime because she does not like to see people treated unfairly.
+（訳）
+パメラは強い正義感を持っているので、よい警察官です。人々が不公平に扱われるのを見るのがいやなので、彼女は犯罪と戦っています。
+（選択肢の意味）
+1 scenery：景色
+2 investment：投資
+3 justice：正義
+4 emphasis：強調
+【考え方】
+1文目は Pamela is a good police officer because she has a strong sense of (　).（パメラは強い（　）の感覚を持っているので、よい警察官だ）です。a sense of ～ は「～の感覚、～を感じ取る心」という意味です。
+2文目にその中身が書かれています。She fights crime because she does not like to see people treated unfairly.（人々が不公平に扱われるのを見るのがいやなので、犯罪と戦っている）です。unfairly は「不公平に、不当に」です。
+不公平なことを許さず、正しいことを守ろうとする気持ちは「正義感」です。justice は「正義」という意味で、a sense of justice で「正義感」となります。正解は3です。
+【ほかの選択肢】
+1 scenery は「景色」です。「強い景色の感覚」では、警察官としてのよさの理由になりません。
+2 investment は「投資（もうけを期待してお金などをつぎこむこと）」です。犯罪と戦う理由とはつながりません。
+4 emphasis は「強調、重点」です。「強い強調の感覚」となり、意味が通りません。
+【覚えるポイント】
+・a sense of justice：「正義感」。a sense of humor（ユーモアのセンス）、a sense of direction（方向感覚）なども同じ形です。
+・see ＋ 人 ＋ 過去分詞：「人が～されるのを見る」。see people treated unfairly で「人々が不公平に扱われるのを見る」。

@@ -1,0 +1,28 @@
+---
+choices: unexpected economic problems occur among people living around famous sites. | the carbon dioxide and humidity in their breath harm the things they go to see. | air pollution caused by the carbon dioxide from airplanes increases. | people have trouble breathing because of the high levels of humidity.
+answerText: the carbon dioxide and humidity in their breath harm the things they go to see.
+reviewed: yes
+---
+【正解】2 the carbon dioxide and humidity in their breath harm the things they go to see.（彼らの息に含まれる二酸化炭素と湿気が、彼らが見に行くものに害を与える。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：観光客の数が増えるにつれて、
+1 unexpected economic problems occur among people living around famous sites.（有名な場所の周辺に住む人々の間で、思いがけない経済的な問題が起こる。）
+2 the carbon dioxide and humidity in their breath harm the things they go to see.（彼ら（観光客）の息に含まれる二酸化炭素と湿気が、彼らが見に行くものに害を与える。）
+3 air pollution caused by the carbon dioxide from airplanes increases.（飛行機から出る二酸化炭素によって引き起こされる大気汚染が増える。）
+4 people have trouble breathing because of the high levels of humidity.（湿度が高いために、人々が息をするのに苦労する。）
+【考え方】
+設問は「観光客が増えるにつれて、どうなるか」です。第1段落に、観光客の増加が引き起こす問題が書かれています。
+In particular, some famous works of art are being affected. This is because people's breath increases carbon dioxide and humidity levels. Gradually, these levels damage old paintings and other works of art.（特に、いくつかの有名な芸術作品が影響を受けている。これは、人々の息が二酸化炭素と湿度の水準を上げるからだ。少しずつ、こうした水準が古い絵画やほかの芸術作品をいためる）
+観光客が見に行くのは、有名な場所にある絵画などの芸術作品です。その作品が、観光客の息による二酸化炭素と湿度によっていためられている、という内容です。
+本文 people's breath increases carbon dioxide and humidity levels ... these levels damage old paintings and other works of art ＝ 選択肢 the carbon dioxide and humidity in their breath harm the things they go to see
+damage（いためる）が harm（害を与える）に、old paintings and other works of art（古い絵画やほかの芸術作品）が the things they go to see（彼らが見に行くもの）に言いかえられています。ですから、2が正解です。
+【ほかの選択肢】
+1 第1段落には、観光の増加は周辺地域に economic benefits（経済的な利益）をもたらすと書かれています。unexpected problems（思いがけない問題）という言葉もありますが、それは芸術作品がいためられる問題のことで、経済的な問題ではありません。
+3 本文の初めに As air travel gets cheaper（飛行機での旅行が安くなるにつれて）とありますが、飛行機から出る二酸化炭素や大気汚染については書かれていません。本文の二酸化炭素は、人々の息によるものです。
+4 湿度が高くなることは書かれていますが、それがいためるのは絵画などの芸術作品です。人々が息をするのに苦労するという話は本文にありません。
+【覚えるポイント】
+・as ＋文：「～するにつれて」。As the number of tourists increases で「観光客の数が増えるにつれて」。
+・damage と harm：どちらも「害を与える、いためる」。言いかえによく使われます。

@@ -1,0 +1,32 @@
+---
+choices: shallow | stern | lean | aquatic
+answerText: stern
+reviewed: yes
+---
+【正解】2 stern（厳しい、いかめしい）
+【和訳】
+（英文）
+Despite his ［stern］ appearance, the teacher created a relaxed atmosphere in his classroom, and he was gentle and kind to his students.
+（訳）
+（厳しそうな）見た目にもかかわらず、その先生は自分の教室にくつろいだ雰囲気を作り、生徒たちに優しく親切だった。
+（選択肢の意味）
+1 shallow：浅い、考えが浅い
+2 stern：厳しい、いかめしい
+3 lean：やせた、細身の
+4 aquatic：水中の、水生の
+【考え方】
+まず見るところ：文の初めの Despite と、後ろの relaxed atmosphere / gentle and kind
+Despite ～ は「～にもかかわらず」で、前と後ろが反対の向きになる言い方です。
+Despite his (　) appearance（（　）見た目にもかかわらず）
+appearance は「見た目、外見」です。後ろの内容を見ます。
+the teacher created a relaxed atmosphere in his classroom, and he was gentle and kind to his students（その先生は自分の教室にくつろいだ雰囲気を作り、生徒たちに優しく親切だった）
+relaxed は「くつろいだ」、gentle は「穏やかで優しい」です。後ろは「優しく、くつろげる先生」なので、見た目はその反対の「厳しそう」だったと考えられます。
+stern は「厳しい、いかめしい」なので、2が正解です。
+この問題の型：対比（Despite 厳しそうな見た目 ⇔ 優しく親切）
+【ほかの選択肢】
+1 shallow は「浅い、考えが浅い」です。「浅い見た目」では意味がはっきりせず、「優しく親切だった」と反対の向きになりません。
+3 lean は「やせた」です。「やせた見た目」は意味は通りますが、やせていることと優しく親切なことは反対の向きではないので、Despite とつながりません。
+4 aquatic は「水中の、水生の」です。「水中の見た目」となり、先生の外見の説明として意味が通りません。
+【覚えるポイント】
+・stern：「厳しい、いかめしい」。stern appearance で「厳しそうな見た目」。
+・Despite ～ の中に空所があるときは、文の後半（ここでは優しい・くつろいだ）と反対の向きの語を選ぶことが手がかりになります。

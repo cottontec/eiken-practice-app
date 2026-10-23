@@ -1,0 +1,30 @@
+---
+choices: Whether or not it was new when she bought it. | How many kilometers it has been driven for. | If she knows a good place to have its oil changed. | What model of car it is and when it was made.
+answerText: Whether or not it was new when she bought it.
+reviewed: yes
+---
+【正解】1 Whether or not it was new when she bought it.（彼女が買ったとき、それが新車だったかどうか。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ジョン・ホルターがマイランさんに、彼女の車についてたずねていることの1つは何ですか。
+1 Whether or not it was new when she bought it.（彼女が買ったとき、それが新車だったかどうか。）
+2 How many kilometers it has been driven for.（それが何キロメートル走行しているか。）
+3 If she knows a good place to have its oil changed.（オイルを交換してもらうのによい場所を彼女が知っているかどうか。）
+4 What model of car it is and when it was made.（それが何という型の車で、いつ作られたか。）
+【考え方】
+ホルターさんの質問は、第2段落に並んでいます。その中の次の文に注目します。
+Are you the first owner of the car, or was it already used when you bought it?（あなたはその車の最初の持ち主ですか、それとも、あなたが買ったときにはすでに使われた車でしたか）
+「最初の持ち主かどうか」「買ったときにすでに使われていたかどうか」をたずねることは、「買ったときに新車だったのか、中古車だったのか」をたずねていることになります。used はここでは「使われた、中古の」という意味です。
+本文と選択肢を対にすると、次のようになります。
+本文 Are you the first owner of the car, or was it already used when you bought it?（最初の持ち主か、それとも買ったときにはすでに使われていたか）→ 読み取れること：買ったときに新車だったかどうかをたずねている
+この読み取れることを、選択肢では Whether or not it was new when she bought it（彼女が買ったとき、それが新車だったかどうか）と表しています。
+whether or not ～ は「～かどうか」という意味です。ですから1が正解です。
+【ほかの選択肢】
+2 走行距離は、ホルターさんがたずねていることではありません。第2段落で Your advertisement says ... that it has been driven for 100,000 kilometers（あなたの広告には、10万キロメートル走行していると書かれている）と、広告にすでに書かれていた内容として述べています。
+3 ホルターさんがたずねているのは how often have you been changing the oil?（オイルをどのくらいの頻度で交換してきたか）です。交換の回数・頻度をたずねていて、オイル交換によい場所を知っているかはたずねていません。
+4 車の型と作られた年は、広告に the car is a 2006 model（その車は2006年型だ）と書かれていたことです。ホルターさんはそれを知ったうえで書いているので、質問ではありません。
+【覚えるポイント】
+・whether or not ～：「～かどうか」。if ～ も同じ意味で使えます。
+・used car：「中古車（だれかがすでに使った車）」。

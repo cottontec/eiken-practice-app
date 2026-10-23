@@ -1,0 +1,32 @@
+---
+choices: Differences among works of pottery found throughout the site prove that theories about trade links between the Philistines and other groups are wrong. | Although the Philistines’ burial practices were based on those of their neighbors, they show that the cultures influenced each other. | It is unlikely that the objects found buried at the gravesite have been there for as long as the skeletons have. | The time that passed between the Philistines’ arrival and the burials makes the remains less useful for determining the Philistines’ origins.
+answerText: The time that passed between the Philistines’ arrival and the burials makes the remains less useful for determining the Philistines’ origins.
+reviewed: yes
+---
+【正解】4 The time that passed between the Philistines’ arrival and the burials makes the remains less useful for determining the Philistines’ origins.（ペリシテ人がやって来てから埋葬までにたった時間のせいで、遺骨は、ペリシテ人の起源を突き止めるのに役立つ度合いが低くなっている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What does the author of the passage say about the gravesite?（この文章の筆者は、墓地について何と言っていますか。）
+1 Differences among works of pottery found throughout the site prove that theories about trade links between the Philistines and other groups are wrong.（遺跡のあちこちで見つかった陶器の作品どうしの違いは、ペリシテ人とほかの集団の間の交易のつながりについての説がまちがっていることを証明している。）
+2 Although the Philistines’ burial practices were based on those of their neighbors, they show that the cultures influenced each other.（ペリシテ人の埋葬のやり方は近くの民族のやり方をもとにしていたが、それは文化どうしが互いに影響し合ったことを示している。）
+3 It is unlikely that the objects found buried at the gravesite have been there for as long as the skeletons have.（墓地に埋められた状態で見つかった物が、人骨と同じくらい長くそこにあったとは考えにくい。）
+4 The time that passed between the Philistines’ arrival and the burials makes the remains less useful for determining the Philistines’ origins.（ペリシテ人がやって来てから埋葬までにたった時間のせいで、遺骨は、ペリシテ人の起源を突き止めるのに役立つ度合いが低くなっている。）
+【考え方】
+まず見るところ：第4段落の Most of the burials occurred at least 200 years after the Philistines first arrived in the area, however
+第4段落では、まず墓地の埋葬のやり方や陶器から、ペリシテ人がおそらく移住してきた人々だったと述べています。そのあとに、however（しかし）で注意すべき点が続きます。
+Most of the burials occurred at least 200 years after the Philistines first arrived in the area, however, so the likelihood of cultural and genetic exchange with other peoples means the skeletons may not provide definite answers regarding their origins.（しかし、埋葬のほとんどは、ペリシテ人が初めてこの地域にやって来てから少なくとも200年後に行われたものなので、ほかの民族との文化や遺伝子の交流があった可能性を考えると、人骨は彼らの起源について確かな答えを与えないかもしれない）
+likelihood は「可能性、見こみ」、definite は「確かな、はっきりした」、origins は「起源（どこから来たのか）」です。やって来てから200年以上たつ間に、ほかの民族とまじり合ったかもしれないので、人骨を調べても、もともとどこから来たのかははっきりしないかもしれない、ということです。
+本文と選択肢を対にすると、次のようになります。
+本文 at least 200 years after the Philistines first arrived（初めてやって来てから少なくとも200年後）→ 選択肢 The time that passed between the Philistines’ arrival and the burials（やって来てから埋葬までにたった時間）
+本文 the skeletons may not provide definite answers regarding their origins（人骨は彼らの起源について確かな答えを与えないかもしれない）→ 選択肢 makes the remains less useful for determining the Philistines’ origins（遺骨が起源を突き止めるのに役立つ度合いが低くなる）
+よって4が正解です。
+この問題の型：因果（埋葬が200年以上あと→ほかの民族とまじった可能性→起源の答えが出にくい）／言いかえ（may not provide definite answers → less useful）
+【ほかの選択肢】
+1 本文にありません。陶器については、カナン人やエジプト人やユダヤ人のものよりエーゲ海の民族のものに似ていると書かれ、移住してきた証拠とされています。陶器どうしの違いや、交易についての説がまちがっているという話はありません。
+2 本文と反対です。ペリシテ人の埋葬のやり方は in sharp contrast to the burial customs of neighboring Middle Eastern peoples（近くに住む中東の民族の埋葬の習慣とははっきりと違っていた）と書かれています。近くの民族のやり方をもとにしていたのではなく、エーゲ海のギリシャの島々の習慣に似ていました。
+3 本文にありません。墓地で見つかった物（香水のびんや陶器など）が、人骨より新しいかどうかという話はありません。
+【覚えるポイント】
+・definite：「確かな、はっきりした」。may not provide definite answers で「確かな答えを与えないかもしれない」。
+・段落の終わり近くに however（しかし）があり、「～かもしれない」と注意する文が続くときは、筆者がその発見の限界（分からないこと）を述べていることが多いので、筆者の考えをたずねる設問の手がかりになります。

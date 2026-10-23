@@ -1,0 +1,35 @@
+---
+choices: They produced fewer types of watches in order to better compete with Swiss makers in the mechanical watch market. | They partnered with Swiss watchmakers so that they could move their production to Switzerland to reduce overall costs. | They constantly added new models of quartz watches so that Swiss watchmakers could not keep up with the changes. | They combined quartz technology with traditional Swiss watch technology to appeal to consumers in the mechanical watch market.
+answerText: They produced fewer types of watches in order to better compete with Swiss makers in the mechanical watch market.
+reviewed: yes
+---
+【正解】1 They produced fewer types of watches in order to better compete with Swiss makers in the mechanical watch market.（機械式時計の市場でスイスのメーカーとよりうまく競争するために、作る時計の種類を減らした。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to the second paragraph, what strategy did Japanese watchmakers use in the 1970s?（第2段落によると、1970年代に日本の時計メーカーはどんな戦略を使ったか。）
+1 They produced fewer types of watches in order to better compete with Swiss makers in the mechanical watch market.（機械式時計の市場でスイスのメーカーとよりうまく競争するために、作る時計の種類を減らした。）
+2 They partnered with Swiss watchmakers so that they could move their production to Switzerland to reduce overall costs.（全体の費用を減らすために生産をスイスに移せるよう、スイスの時計メーカーと手を組んだ。）
+3 They constantly added new models of quartz watches so that Swiss watchmakers could not keep up with the changes.（スイスの時計メーカーが変化についていけないように、クオーツ時計の新しいモデルを絶えず増やした。）
+4 They combined quartz technology with traditional Swiss watch technology to appeal to consumers in the mechanical watch market.（機械式時計の市場の消費者に売りこむために、クオーツ技術とスイスの伝統的な時計の技術を組み合わせた。）
+【考え方】
+まず見るところ：第2段落の They were able to maintain a high standard of quality by decreasing and continuously refining the range of models.
+第2段落の中ほどから、日本のメーカーの話が出てきます。
+in the 1970s, Japanese watchmakers began manufacturing inexpensive mechanical watches similar to those made by the Swiss（1970年代に、日本の時計メーカーは、スイス製のものに似た安価な機械式時計を作り始めた）
+日本のメーカーは、クオーツ時計だけでなく、スイス製のものに似た機械式時計でも勝負を始めたのです。
+次の文に、そのやり方が書かれています。
+They were able to maintain a high standard of quality by decreasing and continuously refining the range of models.（日本のメーカーは、モデルの種類を減らし、絶えず改良し続けることで、高い品質の水準を保つことができた）
+This proved incredibly profitable, allowing them to overtake the Swiss in this market too.（これは非常に大きな利益を生むことが分かり、日本のメーカーはこの市場でもスイスを追い抜くことができた）
+本文と選択肢1を対にすると、次のようになります。
+本文 decreasing ～ the range of models（モデルの種類を減らす）＝ 選択肢 produced fewer types of watches（作る時計の種類を減らした）
+本文 overtake the Swiss in this market too（この市場でもスイスを追い抜いた）→ 選択肢 better compete with Swiss makers in the mechanical watch market（機械式時計の市場でスイスとよりうまく競争する）
+よって1が正解です。
+この問題の型：言いかえ（decreasing the range of models→produced fewer types）／指示語（this market＝機械式時計の市場）
+【ほかの選択肢】
+2 本文にない内容です。日本のメーカーがスイスのメーカーと手を組んだことや、生産をスイスに移したことは書かれていません。
+3 本文と合いません。日本のメーカーはモデルの種類を「減らした（decreasing）」のであり、新しいモデルを絶えず増やしたのではありません。また、ここで話題になっているのはクオーツ時計ではなく、機械式時計です。
+4 本文にない内容です。日本のメーカーが作ったのは、スイス製に似た安価な機械式時計です。クオーツ技術とスイスの伝統技術を組み合わせたという話はありません。
+【覚えるポイント】
+・the range of models：「モデルの種類の幅」。decrease the range（幅をせまくする）は「種類を減らす」ことです。
+・by ～ing（～することによって）のあとには、方法や戦略が書かれていることが多いので、設問に strategy（戦略）とあるときは by のあとの語句と選択肢を対にすると手がかりになります。

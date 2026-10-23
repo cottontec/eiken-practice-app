@@ -1,0 +1,37 @@
+---
+choices: realized that despite the high cost, it was necessary to vaccinate every person in countries where people were being infected. | began focusing on locating people with the disease and preventing its spread by vaccinating people in the area around them. | adopted a new type of vaccine that was more effective in preventing the disease than the one invented by Edward Jenner. | started a policy of closely monitoring a community for five months after the last reported outbreak of the disease.
+answerText: began focusing on locating people with the disease and preventing its spread by vaccinating people in the area around them.
+reviewed: yes
+---
+【正解】2 began focusing on locating people with the disease and preventing its spread by vaccinating people in the area around them.（病気にかかった人を見つけ出し、その周りの地域の人々に予防接種をすることで病気が広がるのを防ぐことに、力を注ぎ始めた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Smallpox was finally eliminated after the World Health Organization（天然痘は、世界保健機関が～したあと、ついになくなった。）
+1 realized that despite the high cost, it was necessary to vaccinate every person in countries where people were being infected.（費用が高いにもかかわらず、人々が感染している国々では全員に予防接種をする必要があると気づいた。）
+2 began focusing on locating people with the disease and preventing its spread by vaccinating people in the area around them.（病気にかかった人を見つけ出し、その周りの地域の人々に予防接種をすることで病気が広がるのを防ぐことに、力を注ぎ始めた。）
+3 adopted a new type of vaccine that was more effective in preventing the disease than the one invented by Edward Jenner.（エドワード・ジェンナーが発明したワクチンよりも病気の予防に効果のある、新しい種類のワクチンを取り入れた。）
+4 started a policy of closely monitoring a community for five months after the last reported outbreak of the disease.（病気の流行が最後に報告されたあと、5か月間ある地域を注意深く見張るという方針を始めた。）
+【考え方】
+まず見るところ：第3段落の In 1966, however, William Foege と、段落の最後の The WHO adopted the technique
+第3段落では、WHO の計画がぶつかった障害がまず書かれています。インドのような国については、次のようにあります。
+the task of vaccinating everyone was so expensive and time-consuming that many believed the elimination of smallpox to be impossible（全員に予防接種をするという仕事はあまりにも費用と時間がかかったので、多くの人が、天然痘をなくすことは不可能だと考えた）
+つまり、「全員に予防接種をする」という方法は、うまくいかないと思われていました。
+そのあとに however（しかし）が続き、新しい方法が説明されます。
+William Foege ～ realized that close monitoring and fast responses could prevent the spread of smallpox outbreaks.（ウィリアム・フェイギは、注意深く見張り、すばやく対応すれば、天然痘の流行が広がるのを防げることに気づいた）
+By vaccinating everyone both within and immediately surrounding a smallpox victim's community, he was able to stop outbreaks in the region in five months.（天然痘患者の住む地域の中と、そのすぐ周りの全員に予防接種をすることで、彼はその地方での流行を5か月で止めることができた）
+The WHO adopted the technique, and it proved to be just what was needed to eliminate the virus.（WHOはこの方法を取り入れ、それはまさにウイルスをなくすのに必要なものであることが分かった）
+本文と選択肢を対にすると、次のようになります。
+本文 close monitoring（注意深く見張ること）→ 選択肢 locating people with the disease（病気にかかった人を見つけ出すこと）
+本文 vaccinating everyone both within and immediately surrounding a smallpox victim's community（患者の住む地域の中とそのすぐ周りの全員に予防接種をすること）＝ 選択肢 vaccinating people in the area around them（その周りの地域の人々に予防接種をすること）
+本文 prevent the spread of smallpox outbreaks（天然痘の流行が広がるのを防ぐ）＝ 選択肢 preventing its spread（病気が広がるのを防ぐ）
+ですから2が正解です。
+この問題の型：対比（全員に予防接種＝不可能と思われた⇔however→患者の周りに予防接種）
+【ほかの選択肢】
+1 全員に予防接種をすることは、本文では so expensive and time-consuming（あまりにも費用と時間がかかる）ため不可能だと思われた方法です。天然痘をなくしたのは、それに代わるフェイギの方法なので、逆の内容です。
+3 本文には、ジェンナーのものより効果のある新しいワクチンを取り入れたという話はありません。WHO が取り入れたのは、ワクチンの種類ではなく、予防接種をする相手を決める方法（technique）です。
+4 本文の five months（5か月）は、フェイギがその地方での流行を止めるのにかかった期間です。最後の流行のあとに5か月間見張るという方針ではありません。数字は同じでも、使われ方が違います。
+【覚えるポイント】
+・prove to be ～：「～であることが分かる」。just what was needed：「まさに必要とされていたもの」。
+・本文の数字（ここでは five months）が選択肢にそのまま出てきても、何についての数字かが違うことがあります。数字が本文のどの部分で、何を表しているかを確かめることが手がかりになります。

@@ -1,0 +1,30 @@
+---
+choices: plays out | smooths over | runs through | clears out
+answerText: runs through
+reviewed: yes
+---
+【正解】3 runs through（ざっと目を通す、ひととおり説明する）
+【和訳】
+（英文）
+At the start of every meeting, the team leader quickly ［runs through］ a list of topics that will be discussed so that everyone knows what to expect.
+（訳）
+毎回の会議の始めに、チームリーダーは、全員がこれから何があるのかを分かるように、話し合われる予定の議題の一覧を手早くひととおり説明する。
+（選択肢の意味）
+1 plays out：（出来事が）展開する、最後までやる
+2 smooths over：（問題などを）取りつくろう、丸く収める
+3 runs through：ざっと目を通す、ひととおり説明する
+4 clears out：片づける、（中の物を出して）空にする
+【考え方】
+まず見るところ：空所のあとの a list of topics と、so that everyone knows what to expect
+空所のあとは a list of topics that will be discussed（話し合われる予定の議題の一覧）です。チームリーダーがこの一覧をどうするのかを考えます。
+so that everyone knows what to expect（全員がこれから何があるのかを分かるように）
+so that ～ は「～するように」と目的を表します。全員が会議の内容を前もって分かるようにするには、議題の一覧を全員に向けて読み上げたり、説明したりする動作が合います。
+run through は「ざっと目を通す、ひととおり説明する」という意味です。また、quickly（手早く）ともよく合います。ですから、3が正解です。
+この問題の型：熟語・決まった形（run through：ひととおり説明する）
+【ほかの選択肢】
+1 plays out は「展開する、最後までやる」です。「議題の一覧を手早く最後までやる」となり、会議の始めに全員に予定を知らせるという目的と合いません。
+2 smooths over は「（問題などを）取りつくろう」です。議題の一覧は問題やもめごとではないので、「一覧を取りつくろう」では意味が通りません。
+4 clears out は「片づける、空にする」です。「議題の一覧を片づける」とすると、全員が会議の内容を知ることができなくなり、so that 以下の目的とつながりません。
+【覚えるポイント】
+・run through ～：「～にざっと目を通す、～をひととおり説明する」。
+・so that ～（～するように）があるときは、その目的を果たすためにどんな行動が必要かを考えると、空所の語を選ぶ手がかりになります。

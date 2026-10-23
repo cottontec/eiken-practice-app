@@ -1,0 +1,22 @@
+---
+choices: live | will never | to | up | she
+answerText: will never
+order: 5 2 1 4 3
+reviewed: yes
+---
+【正解】2 will never（この問題の2番目）
+【完成文】
+Sarah's parents are both doctors. They want her to become one, too, but she is not sure if she is smart enough. She is afraid that ( she will never live up to ) their expectations.
+並べ方：5 she → 2 will never → 1 live → 4 up → 3 to（2番目は2、4番目は4）
+【和訳】
+サラの両親は2人とも医者です。両親はサラにも医者になってほしいと思っていますが、サラは自分が十分に頭がよいかどうか自信がありません。彼女は、自分が両親の期待に決してこたえられないのではないかと心配しています。
+【考え方】
+空所は She is afraid that ～（彼女は～ではないかと心配している）の that のあとにあります。that のあとには「主語＋動詞」の形が続くので、まず主語として 5 she（彼女は）を置きます。この she はサラ自身です。
+次に 2 will never（決して～しないだろう）を置きます。will のあとには動詞の原形（変化しない元の形）がくるので、1 live を続けます。
+live は 4 up、3 to と組み合わせて live up to ～（期待などにこたえる、期待どおりになる）という決まった言い方になります。to のあとに空所のあとの their expectations（両親の期待）がきて、「両親の期待に決してこたえられないだろう」となります。
+前の文の「医者になってほしいと思われているが、自分が十分に頭がよいか自信がない」という内容とも自然につながります。
+2番目に 2 will never が来るのは、主語 she と動詞 live の間に、「決して～しないだろう」という意味を加える will never を置くからです。
+live to up のように up と to の順番を入れかえるのはまちがいです。live up to ～ は、この順番で使う決まった言い方です。
+【覚えるポイント】
+・live up to ～：「（期待など）にこたえる、（基準など）にかなう」。live up to one's expectations で「～の期待にこたえる」。
+・be afraid that ～：「～ではないかと心配する」。

@@ -1,0 +1,31 @@
+---
+choices: miracle | criticism | convention | monument
+answerText: convention
+reviewed: yes
+---
+【正解】3 convention（大会、大きな集まり）
+【和訳】
+（英文）
+The city held a big ［convention］ for computer game fans last weekend. Many people from all over the country came to buy and sell games.
+（訳）
+先週末、その市はコンピューターゲームのファンのための大きな（大会）を開きました。国じゅうから多くの人が、ゲームを買ったり売ったりするためにやって来ました。
+（選択肢の意味）
+1 miracle：奇跡
+2 criticism：批判
+3 convention：大会、大きな集まり
+4 monument：記念碑
+【考え方】
+まず見るところ：空所の前の The city held a big (　) と、2文目の came to buy and sell games
+The city held a big (　)（その市は大きな（　）を開いた）
+held は hold の過去形で、ここでは「（会やもよおしを）開く、開催する」という意味です。ですから、空所には会やもよおしを表す語が入ると考えます。
+Many people from all over the country came to buy and sell games.（国じゅうから多くの人が、ゲームを買ったり売ったりするためにやって来た）
+大勢の人が集まり、ゲームの売り買いをするもよおしだったことが分かります。
+convention は「大会、（同じ趣味や仕事の人が集まる）大きな集まり」という意味の名詞です。a big convention for computer game fans（コンピューターゲームのファンのための大きな大会）とすると、2文目と合います。ですから3が正解です。
+この問題の型：語の意味・組み合わせ（hold a convention）／具体例とまとめ（人が集まって売り買い→大会）
+【ほかの選択肢】
+1 miracle は「奇跡」です。「市がファンのために奇跡を開いた」となり、意味が通りません。
+2 criticism は「批判」です。「ファンのための大きな批判を開いた」となり、人がゲームを売り買いしに来た2文目とつながりません。
+4 monument は「記念碑」です。記念碑は建てるもので、「開く」ものではありません。また、ゲームを売り買いする人が集まったことの説明になりません。
+【覚えるポイント】
+・convention：「大会、大きな集まり」。hold は「（会を）開く」で、過去形は held。
+・hold a big (　) のように動詞 hold と組み合わさる名詞は、会やもよおしを表すことが多いので、あとの文で人が何をしに集まったかを確かめましょう。

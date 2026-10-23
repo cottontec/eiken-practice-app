@@ -1,0 +1,33 @@
+---
+choices: mystifying | trespassing | misplacing | accelerating
+answerText: accelerating
+reviewed: yes
+---
+【正解】4 accelerating（速めている、早めている）
+【和訳】
+（英文）
+With the nation facing a shortage of electricity, the government is ［accelerating］ plans to increase the number of wind and solar farms.
+（訳）
+国が電力不足に直面している中で、政府は、風力発電所と太陽光発電所の数を増やす計画を（速めて）います。
+（選択肢の意味）
+1 mystifying：（人を）当惑させている、けむに巻いている
+2 trespassing：（他人の土地に）無断で入っている
+3 misplacing：置き忘れている、置き場所をまちがえている
+4 accelerating：速めている、早めている
+【考え方】
+まず見るところ：文の初めの With the nation facing a shortage of electricity
+文の初めは次のとおりです。
+With the nation facing a shortage of electricity（国が電力不足に直面している中で）
+With A doing は「Aが～している状態で、Aが～している中で」という意味の形です。shortage は「不足」という意味です。
+後半は次のとおりです。
+the government is ( ) plans to increase the number of wind and solar farms（政府は、風力発電所と太陽光発電所の数を増やす計画を（　）している）
+wind and solar farms は「風力発電所と太陽光発電所」のことです。
+電気が足りないのですから、電気を作る場所を増やす計画は、急いで進めたいはずです。accelerate は「速める、早める」という意味で、accelerate plans で「計画（の進み具合）を速める」になります。電力不足という状況に合うので、4が正解です。
+この問題の型：因果（電力不足→発電所を増やす計画を速める）／語の意味・組み合わせ（accelerate plans）
+【ほかの選択肢】
+1 mystifying は「（人を）当惑させている、けむに巻いている」です。目的語（動詞の後ろにきて「～を」に当たる語）にはふつう人がきます。「計画を当惑させている」となり、意味が通りません。
+2 trespassing は「（他人の土地に）無断で入っている」です。「計画に無断で入っている」となり、意味が通りません。
+3 misplacing は「置き忘れている、置き場所をまちがえている」です。「計画を置き忘れている」となり、電力不足に対応しようとしている政府の様子に合いません。
+【覚えるポイント】
+・accelerate：「速める、早める」。車のアクセル（accelerator）と同じ仲間の語です。
+・With A doing（Aが～している中で）で文が始まるときは、その状況（ここでは電力不足）に対して、後半で何をするのが自然かを考えると手がかりになります。

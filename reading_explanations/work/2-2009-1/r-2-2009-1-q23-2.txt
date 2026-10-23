@@ -1,0 +1,22 @@
+---
+choices: her | with | to | cope | housework by
+answerText: cope
+order: 3 4 2 1 5
+reviewed: yes
+---
+【正解】4 cope（この問題の2番目）
+【完成文】
+Recently, Jon's grandmother has not been able ( to cope with her housework by ) herself.
+並べ方：3 to → 4 cope → 2 with → 1 her → 5 housework by（2番目は4、4番目は1）
+【和訳】
+最近、ジョンのおばあさんは、自分ひとりでは家事をこなすことができなくなっています。ジョンは、週に1回おばあさんの家に行ってもらうために、そうじをする人を雇うことにしました。
+【考え方】
+空所の前は has not been able（～できないでいる）です。be able to ～ で「～できる」という意味なので、able のあとにはまず 3 to を置き、続けて動詞の原形を入れます。選択肢の中の動詞は cope です。
+cope with ～ は「～をうまく処理する、～に対処する」という意味です。そこで to cope with と並べます。
+with のあとには何を処理するのかがきます。her housework（彼女の家事）とし、5 housework by の by は、空所のあとの herself とつながって by herself（自分ひとりで）となります。
+完成した to cope with her housework by herself は「自分ひとりで家事をこなすこと」という意味です。2文目の「ジョンはそうじをする人を雇うことにした」という内容とも合います。
+5 housework by は2語で1つの選択肢になっているので、by が空所の最後にくることから考えると、その前に her、さらに前に with と、後ろから組み立てることもできます。
+したがって2番目は4 copeです。
+【覚えるポイント】
+・cope with ～：「～をうまく処理する、～に対処する」。
+・by oneself：「自分ひとりで」。by herself は「彼女ひとりで」。

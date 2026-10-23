@@ -1,0 +1,30 @@
+---
+choices: hurdle | slot | anthem | dock
+answerText: dock
+reviewed: yes
+---
+【正解】4 dock（波止場、埠頭）
+【和訳】
+（英文）
+To prevent the import of illegal goods, all ships are checked at the ［dock］ before their cargo is unloaded.
+（訳）
+違法な品物の輸入を防ぐために、すべての船は、積み荷が降ろされる前に（波止場）で検査される。
+（選択肢の意味）
+1 hurdle：（競走の）ハードル、障害
+2 slot：細長い差し入れ口、（予定の）枠
+3 anthem：国歌、賛歌
+4 dock：波止場、埠頭（船を着けて荷物を積み降ろしする場所）
+【考え方】
+まず見るところ：空所の前の all ships are checked at the と、文の最後の before their cargo is unloaded
+空所のある部分は次のとおりです。
+all ships are checked at the ( ) before their cargo is unloaded（すべての船は、積み荷が降ろされる前に（　）で検査される）
+at the ( ) なので、空所には場所を表す語が入ります。船が積み荷（cargo）を降ろす前に検査を受ける場所です。
+船が着いて荷物を積み降ろしする場所は「波止場、埠頭」です。dock はこの意味なので、4が正解です。
+この問題の型：語の意味・組み合わせ（ships・cargo・unloaded→dock）
+【ほかの選択肢】
+1 hurdle は「ハードル、障害」です。陸上競技で飛びこえる道具や、乗りこえるべき困難を表す語で、船が検査を受ける場所になりません。
+2 slot は「細長い差し入れ口、（予定の）枠」です。硬貨を入れる口などを表す語で、船が着く場所ではありません。
+3 anthem は「国歌、賛歌」です。歌を表す語なので、at the anthem（国歌で）では船が検査を受ける場所になりません。
+【覚えるポイント】
+・dock：「波止場、埠頭」。船が着いて荷物を積み降ろしする場所です。
+・at the ( ) のあとに before their cargo is unloaded（積み荷が降ろされる前に）のような説明があるときは、ships（船）や cargo（積み荷）と結びつく場所を表す語を選ぶと手がかりになります。

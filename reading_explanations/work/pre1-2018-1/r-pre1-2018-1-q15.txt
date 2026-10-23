@@ -1,0 +1,29 @@
+---
+choices: shamelessly | enviously | narrowly | frankly
+answerText: narrowly
+reviewed: yes
+---
+【正解】3 narrowly（かろうじて、危うく）
+【和訳】
+（英文）
+Yesterday, Joe ［narrowly］ missed being involved in a car accident. Another car suddenly pulled out in front of him, and he had to react quickly to avoid it.
+（訳）
+昨日、ジョーは（危うく）自動車事故に巻き込まれるところだった。別の車が突然目の前に出てきて、彼はそれをよけるためにすばやく反応しなければならなかった。
+（選択肢の意味）
+1 shamelessly：恥ずかしげもなく、ずうずうしく
+2 enviously：うらやましそうに
+3 narrowly：かろうじて、危うく
+4 frankly：率直に
+【考え方】
+まず見るところ：空所の後ろの missed being involved in a car accident と、次の文の he had to react quickly to avoid it
+miss ～ing は「～しないですむ、～をのがれる」、be involved in ～ は「～に巻き込まれる」です。つまり、ジョーは事故に巻き込まれずにすみました。どのようにすんだのかを、次の文で確かめます。
+Another car suddenly pulled out in front of him, and he had to react quickly to avoid it.（別の車が突然目の前に出てきて、彼はそれをよけるためにすばやく反応しなければならなかった）
+すばやく反応して、ぎりぎりのところで事故をさけたと分かります。narrowly は「かろうじて、ぎりぎりで」で、narrowly miss ～ で「危うく～するところだった（ぎりぎりでのがれた）」という意味になります。よって3が正解です。
+この問題の型：熟語・決まった形（narrowly miss ～ing：危うく～するところだった）
+【ほかの選択肢】
+1 shamelessly は「恥ずかしげもなく」です。事故をよけた話で、恥ずかしげもなくのがれたとは言えず、意味が通りません。
+2 enviously は「うらやましそうに」です。事故をのがれた様子を表す語にはならず、次の文の「すばやく反応した」とつながりません。
+4 frankly は「率直に」で、話し方などに使う語です。事故をのがれた様子を表すことはできません。
+【覚えるポイント】
+・narrowly miss ～ing：「危うく～するところだった、ぎりぎりで～をのがれた」。be involved in ～：「～に巻き込まれる」。
+・次の文に react quickly（すばやく反応した）や avoid（よける）があるときは、「ぎりぎりで助かった」という内容の語が入る手がかりになります。

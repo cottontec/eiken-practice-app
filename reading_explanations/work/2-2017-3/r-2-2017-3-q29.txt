@@ -1,0 +1,31 @@
+---
+choices: Go online and visit the FlashWeb website to get a discount. | Upgrade to FlashWeb100 at her current apartment. | Call FlashWeb to see how much her new service will cost. | Schedule an appointment with FlashWeb to set up her Internet.
+answerText: Schedule an appointment with FlashWeb to set up her Internet.
+reviewed: yes
+---
+【正解】4 Schedule an appointment with FlashWeb to set up her Internet.（インターネットを設置してもらうために、フラッシュウェブとの予約を入れる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ニクソンさんは今月末までに何をするべきですか。
+1 Go online and visit the FlashWeb website to get a discount.（割引を受けるために、インターネットでフラッシュウェブのウェブサイトを見る。）
+2 Upgrade to FlashWeb100 at her current apartment.（今のアパートで、フラッシュウェブ100にアップグレードする。）
+3 Call FlashWeb to see how much her new service will cost.（新しいサービスにいくらかかるかを知るために、フラッシュウェブに電話する。）
+4 Schedule an appointment with FlashWeb to set up her Internet.（インターネットを設置してもらうために、フラッシュウェブとの予約を入れる。）
+【考え方】
+設問の before the end of the month（今月末までに）と同じ言い方を本文で探します。第3段落にあります。
+Also, we will need to schedule a day and time for one of our staff to come and set up the Internet service in your new place.（また、私どものスタッフが新しいお住まいにうかがってインターネットサービスを設置する日時を決める必要がある）
+Before the end of this month, set up the appointment on our website or call us at 1-800-555-8989.（今月末までに、ウェブサイトで、または1-800-555-8989にお電話で、ご予約をお取りください）
+appointment は「（人と会う）約束、予約」という意味です。ここでは、スタッフが来てインターネットを設置する日時の予約のことです。
+本文と選択肢を対にすると、次のようになります。
+本文 set up the appointment（予約を取る）＝ 選択肢 Schedule an appointment（予約の日時を決める）
+本文 come and set up the Internet service（来てインターネットサービスを設置する）→ 選択肢 to set up her Internet（インターネットを設置してもらうために）
+4が正解です。
+【ほかの選択肢】
+1 ウェブサイトは、予約を取る方法の1つとして出てきます。ウェブサイトを見ると割引が受けられるとは書かれていないので、本文にない内容です。
+2 本文には when you move to Clairton, you can upgrade to the FlashWeb100（クレアトンに引っ越すとフラッシュウェブ100にアップグレードできる）とあります。今の地域で最も速いのはフラッシュウェブ25なので、今のアパートでアップグレードするのではありません。場所が違います。
+3 電話は、予約を取る方法の1つとして出てきます。新しいサービスの料金はメールの中ですでに説明されている（月にわずか5ドル高くなるだけ）ので、料金を知るために電話するよう求められてはいません。
+【覚えるポイント】
+・appointment：「（人と会う）約束、予約」。make an appointment / set up an appointment で「予約を取る」。
+・set up ～：「（機械やサービスなど）を設置する、準備する」。この文章では、set up the appointment（予約を取る）と set up the Internet service（インターネットサービスを設置する）の2つの意味で使われています。

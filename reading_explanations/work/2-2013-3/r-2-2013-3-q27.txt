@@ -1,0 +1,26 @@
+---
+choices: opportunity | permission | necessity | confidence
+answerText: opportunity
+reviewed: yes
+---
+【正解】1 opportunity（機会）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 opportunity：機会
+2 permission：許可
+3 necessity：必要、必要性
+4 confidence：自信
+【考え方】
+空所は第2段落の This gives them less (　) to work or go to school.（このことは彼女たちに、働いたり学校に行ったりする～をより少なくしか与えない）にあります。them は前の文の women and girls（女性や女の子たち）を指します。
+This が指すのは前の文の内容です。women and girls are usually responsible for walking long distances to get this water（ふつうは女性や女の子たちが、この水をくむために長い距離を歩く役目を負っている）とあります。水をくむために長い距離を歩くと、そのぶん時間がかかり、働いたり学校に行ったりすることができにくくなります。
+opportunity は「機会、チャンス」という意味で、less opportunity to work or go to school で「働いたり学校に行ったりする機会が少ない」となります。したがって1が正解です。
+段落の終わりの women and girls gained time to do other things（女性や女の子たちはほかのことをする時間を得た）も手がかりになります。プレイポンプによって時間ができたということは、それまでは水くみのために、ほかのことをする時間や機会が少なかったということです。
+【ほかの選択肢】
+2 permission を入れると「働いたり学校に行ったりする許可が少なくなる」となります。本文に書かれているのは長い距離を歩くことに時間がとられる話で、だれかが許可を出さないという話ではありません。
+3 necessity を入れると「働いたり学校に行ったりする必要が少なくなる」となります。水をくみに長い距離を歩くことは、働く必要や学校に行く必要を減らすわけではないので、意味が通りません。
+4 confidence を入れると「働いたり学校に行ったりする自信が少なくなる」となります。本文は水くみに時間がかかるという話で、自信の話は出てきません。
+【覚えるポイント】
+・opportunity to ～：「～する機会」。
+・be responsible for ～：「～を受け持っている、～の役目を負っている」。

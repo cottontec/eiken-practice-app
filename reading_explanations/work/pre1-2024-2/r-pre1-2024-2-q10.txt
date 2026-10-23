@@ -1,0 +1,32 @@
+---
+choices: densely | virtually | flexibly | suspiciously
+answerText: densely
+reviewed: yes
+---
+【正解】1 densely（密集して、ぎっしりと）
+【和訳】
+（英文）
+After growing up in a small village, it was a big shock for Shiori to move to a ［densely］ populated city like Tokyo.
+（訳）
+小さな村で育ったあと、東京のような人口の（密集した）都市に引っ越すことは、シオリにとって大きなショックだった。
+（選択肢の意味）
+1 densely：密集して、ぎっしりと
+2 virtually：事実上、ほとんど
+3 flexibly：柔軟に
+4 suspiciously：疑わしそうに、怪しく
+【考え方】
+まず見るところ：文の最初の a small village と、空所のあとの populated city like Tokyo
+文の最初に、シオリがどこで育ったかが書かれています。
+After growing up in a small village（小さな村で育ったあと）
+そして、引っ越し先が大きなショックだったと書かれています。
+a (　) populated city like Tokyo（東京のような〇〇人の住んでいる都市）
+populated は「人が住んでいる」です。小さな村で育ったシオリが大きなショックを受けたのですから、東京は村とはちがい、人がたくさん集まって住んでいる都市だと考えられます。
+densely は「密集して、ぎっしりと」で、densely populated で「人口が密集した」という決まった組み合わせになります。よって1が正解です。
+この問題の型：語の意味・組み合わせ（densely populated ＝ 人口が密集した）
+【ほかの選択肢】
+2 virtually は「事実上、ほとんど」です。「東京のような、事実上人が住んでいる都市」となり意味がはっきりせず、小さな村から引っ越して驚いた理由になりません。
+3 flexibly は「柔軟に」です。「柔軟に人が住んでいる都市」では意味が通りません。
+4 suspiciously は「疑わしそうに、怪しく」です。「怪しく人が住んでいる都市」では意味が通りません。
+【覚えるポイント】
+・densely populated：「人口が密集した」。grow up in ～：「～で育つ」。
+・populated（人が住んでいる）の前に空所があるときは、「どれくらい多く住んでいるか」を表す語の組み合わせを考えることが手がかりになります。

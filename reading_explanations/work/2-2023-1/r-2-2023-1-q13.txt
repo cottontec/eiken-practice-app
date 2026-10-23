@@ -1,0 +1,31 @@
+---
+choices: heard of | turned over | shut off | ruled out
+answerText: shut off
+reviewed: yes
+---
+【正解】3 shut off（〔電気・水道・ガスなど〕を止める）
+【和訳】
+（英文）
+Due to construction work on Bayside Street, the electricity to the houses on the street had to be ［shut off］ for two hours.
+（訳）
+ベイサイド通りでの工事のため、その通りの家々への電気は、2時間（止められ）なければなりませんでした。
+（選択肢の意味）
+1 heard of：～について聞く、～のことを知っている
+2 turned over：～をひっくり返す、～を引き渡す
+3 shut off：（電気・水道・ガスなど）を止める
+4 ruled out：（可能性など）を除外する
+【考え方】
+まず見るところ：文の初めの Due to construction work と、空所の前の had to be
+文の初めは理由を表しています。due to ～ は「～のために、～が原因で」です。
+Due to construction work on Bayside Street（ベイサイド通りでの工事のため）
+主語と空所の部分は次のとおりです。had to be ＋過去分詞（「～される」を表す形）で「～されなければならなかった」という意味です。
+the electricity to the houses on the street had to be (　) for two hours（その通りの家々への電気は、2時間（　）されなければならなかった）
+工事のために、電気が2時間どうされたのかを考えます。shut off ～ は「（電気・水道・ガスなど）を止める」という意味で、be shut off で「止められる」となります。工事のために電気が2時間止められた、と意味が通るので、3が正解です。
+この問題の型：熟語・決まった形（shut off ～）
+【ほかの選択肢】
+1 heard of は「～について聞く、～のことを知っている」で、be heard of で「（世間に）知られる」となります。「電気が2時間知られなければならなかった」となり、意味が通りません。
+2 turned over は「～をひっくり返す」「～を引き渡す」です。「電気が2時間ひっくり返されなければならなかった」となり、工事の話に合いません。
+4 ruled out は「（可能性など）を除外する（考えの中から外す）」です。「電気が2時間除外されなければならなかった」となり、意味が通りません。
+【覚えるポイント】
+・shut off ～：「（電気・水道・ガスなど）を止める」。due to ～ は「～のために、～が原因で」です。
+・空所の前に be があり、あとに「何を」に当たる語がないときは、主語（ここでは電気）が「～される」という意味になる語句を考えましょう。

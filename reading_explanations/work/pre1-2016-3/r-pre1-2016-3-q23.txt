@@ -1,0 +1,32 @@
+---
+choices: stick with | split up | drive off | pin down
+answerText: stick with
+reviewed: yes
+---
+【正解】1 stick with（（計画など）を変えずに守る、続ける）
+【和訳】
+（英文）
+Some of the team members thought they would need more time to finish the project, but in the end they decided to ［stick with］ their original plan to finish by June.
+（訳）
+チームのメンバーの何人かは、プロジェクトを終えるにはもっと時間が必要だろうと考えましたが、最終的に彼らは、6月までに終えるという最初の計画を（変えずに守る）ことに決めました。
+（選択肢の意味）
+1 stick with：（計画など）を変えずに守る、～を続ける
+2 split up：～を分ける、分かれる
+3 drive off：～を追い払う、車で走り去る
+4 pin down：～をはっきりさせる、突き止める
+【考え方】
+まず見るところ：but in the end と、空所の後ろの their original plan
+前半は次のとおりです。
+Some of the team members thought they would need more time to finish the project（チームのメンバーの何人かは、プロジェクトを終えるにはもっと時間が必要だろうと考えた）
+もっと時間が必要なら、終わる時期を遅らせることも考えられます。
+後半は but in the end（しかし最終的に）で始まり、前半と反対向きの結論が書かれています。in the end は「最終的に、結局」という意味です。
+they decided to ( ) their original plan to finish by June（6月までに終えるという最初の計画を（　）することに決めた）
+original plan は「最初の計画、もとの計画」です。「時間がもっと必要だという意見もあったが、結局は最初の計画のままにした」と考えると、but の前後がつながります。stick with は「（計画や考えなど）を変えずに守る、～を続ける」という意味なので、1が正解です。
+この問題の型：対比（もっと時間が必要という意見⇔最初の計画どおりにする）／熟語・決まった形（stick with ～）
+【ほかの選択肢】
+2 split up は「～を分ける、分かれる」です。「6月までに終えるという最初の計画を分けることに決めた」では、計画のどこをどう分けるのかが分からず、意味がはっきり通りません。but のあとの「最終的に決めたこと」としても、前半の「もっと時間が必要だ」という意見との対比になりません。
+3 drive off は「～を追い払う」や「車で走り去る」です。「最初の計画を追い払う」となり、意味が通りません。
+4 pin down は「～をはっきりさせる、突き止める」です。最初の計画はすでに「6月までに終える」と決まっているので、「はっきりさせることに決めた」では、but の前後の対比になりません。
+【覚えるポイント】
+・stick with ～：「（計画や考えなど）を変えずに守る、～を続ける」。original plan（最初の計画）と組み合わせて使われることがあります。
+・but in the end（しかし最終的に）のあとには、前半で出た意見とは反対向きの決定がくることが多いので、前半の意見（ここでは「もっと時間が必要」）と比べて考えると手がかりになります。

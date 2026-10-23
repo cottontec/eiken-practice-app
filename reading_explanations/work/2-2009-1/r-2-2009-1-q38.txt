@@ -1,0 +1,28 @@
+---
+choices: wanted to study nature in South America. | was offered a job working for Darwin. | could not afford to stay there any longer. | did not believe Darwin's theory of evolution.
+answerText: could not afford to stay there any longer.
+reviewed: yes
+---
+【正解】3 could not afford to stay there any longer.（それ以上そこにとどまる〔お金の〕余裕がなかった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ウォレスは（　　）ので、17歳のときに学校をやめた。
+1 wanted to study nature in South America.（南アメリカで自然を研究したかった）
+2 was offered a job working for Darwin.（ダーウィンのもとで働く仕事をすすめられた）
+3 could not afford to stay there any longer.（それ以上そこにとどまる（お金の）余裕がなかった）
+4 did not believe Darwin's theory of evolution.（ダーウィンの進化論を信じていなかった）
+【考え方】
+設問の「17歳で学校をやめた」理由を本文でさがします。第2段落の2文目と3文目に Darwin was from a wealthy family and studied at Cambridge University, while Wallace's family was poor. For this reason, Wallace had to leave school when he was 17 years old.（ダーウィンは裕福な家の出身でケンブリッジ大学で学んだが、一方ウォレスの家は貧しかった。このため、ウォレスは17歳のときに学校をやめなければならなかった）とあります。
+For this reason（このため）の this は、直前の「ウォレスの家は貧しかった」ことを指しています。つまり、家が貧しくてお金がなかったために学校をやめたのです。
+選択肢の could not afford to ～ は「～する（お金の）余裕がなかった」という意味です。there は school（学校）を指します。本文と選択肢は次のように対応しています。
+本文 Wallace's family was poor. For this reason, Wallace had to leave school（家が貧しかった。このため学校をやめなければならなかった）＝ 選択肢 could not afford to stay there any longer（それ以上そこにとどまる余裕がなかった）
+正解は3です。
+【ほかの選択肢】
+1 ウォレスが南アメリカへ行ったのは1848年で、教師として働くうちに自然の研究に興味をもったあとのことです。学校をやめた理由として書かれているのは家が貧しかったことなので、時期も理由もちがいます。
+2 ダーウィンのもとで働く仕事をすすめられたという話は本文にありません。学校をやめたあと、ウォレスは教師として働いていました。
+4 ウォレスは、ダーウィンとは別に、ダーウィンと同じ理論を思いついた人物です。ダーウィンの理論を信じていなかったという話は本文になく、学校をやめた理由でもありません。
+【覚えるポイント】
+・can't afford to ～：「～する（お金や時間の）余裕がない」。
+・For this reason：「このため」。this が前の文の内容を指す目印です。

@@ -1,0 +1,33 @@
+---
+choices: They quit after a short time because of the poor conditions they were forced to work under. | Their salaries were usually paid by religious organizations rather than by the colleges themselves. | There was a high degree of competition among them to gain the best positions at the colleges. | Their religious backgrounds tended to be an effective way to get students to enroll at their colleges.
+answerText: Their religious backgrounds tended to be an effective way to get students to enroll at their colleges.
+reviewed: yes
+---
+【正解】4 Their religious backgrounds tended to be an effective way to get students to enroll at their colleges.（彼らの宗教的な背景は、学生を自分たちの大学に入学させるための効果的な方法になる傾向があった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is true regarding many faculty members at US colleges in the nineteenth century?（19世紀のアメリカの大学の多くの教員について、正しいことは何か。）
+1 They quit after a short time because of the poor conditions they were forced to work under.（彼らは、働かされていたひどい環境のために、短い期間でやめた。）
+2 Their salaries were usually paid by religious organizations rather than by the colleges themselves.（彼らの給料は、ふつう大学そのものではなく、宗教団体によって支払われていた。）
+3 There was a high degree of competition among them to gain the best positions at the colleges.（彼らの間では、大学で最もよい地位を得るための激しい競争があった。）
+4 Their religious backgrounds tended to be an effective way to get students to enroll at their colleges.（彼らの宗教的な背景は、学生を自分たちの大学に入学させるための効果的な方法になる傾向があった。）
+【考え方】
+まず見るところ：第2段落の the faculty members were often religious men と、Administrators knew this would help to attract students
+faculty members は「教員（大学で教える人たち）」です。教員については、第2段落に次のように書かれています。
+Rather than being scholars, the faculty members were often religious men representing the different branches of Christianity that existed in the United States at the time.（教員たちは、学者であるよりも、当時アメリカ合衆国に存在したキリスト教のさまざまな宗派を代表する宗教家の男性であることが多かった）
+Administrators knew this would help to attract students from those religious organizations.（大学の運営者たちは、このことがそれらの宗教団体から学生を集めるのに役立つと分かっていた）
+this は、前の文の「教員が宗派を代表する宗教家であること」を指します。administrator は「（大学を）運営する人」です。教員が宗教家であることは、その宗教団体の学生を大学に集めるのに役立った、ということです。
+本文と選択肢4を対にすると、次のようになります。
+本文 religious men representing the different branches of Christianity（キリスト教のさまざまな宗派を代表する宗教家）→ 選択肢 Their religious backgrounds（彼らの宗教的な背景）
+本文 would help to attract students（学生を集めるのに役立つ）→ 選択肢 an effective way to get students to enroll（学生を入学させるための効果的な方法）
+enroll は「入学する、登録する」という意味です。ですから4が正解です。
+この問題の型：指示語（this ＝ 教員が宗教家であること）／言いかえ（help to attract students → an effective way to get students to enroll）
+【ほかの選択肢】
+1 本文に書かれていません。第2段落には、教員の働く環境がひどかったことや、教員が短い期間でやめたことは書かれていません。
+2 本文に書かれていません。第2段落で宗教団体が出てくるのは、教員が宗教家だったことで、その団体から学生を集めやすかったという話です。教員の給料を誰が払っていたかには触れていません。
+3 本文に書かれていません。第2段落にある fierce competition（激しい競争）は、to recruit students（学生を集めるための）競争で、その結果、授業料が低くおさえられていたという話です。教員どうしがよい地位を争ったという話ではありません。
+【覚えるポイント】
+・this（このこと）が指す内容は、すぐ前の文にあることが多いので、this を前の文の内容に置きかえて読むと、選択肢と比べやすくなります。
+・本文の competition（競争）のように、選択肢と同じ語が出てきても、「誰と誰の、何のための競争か」が同じかどうかを確かめることが大切です。

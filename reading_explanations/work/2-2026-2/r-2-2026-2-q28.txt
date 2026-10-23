@@ -1,0 +1,32 @@
+---
+choices: The size of the supermarkets and the number of shoppers with cars increased. | Supermarkets began to provide shopping baskets that shoppers could take home. | Store owners offered various discounts for those people who bought large amounts. | People's lifestyles became busier, and they could not find time for shopping.
+answerText: The size of the supermarkets and the number of shoppers with cars increased.
+reviewed: yes
+---
+【正解】1 The size of the supermarkets and the number of shoppers with cars increased.（スーパーマーケットの大きさと、車を持つ買い物客の数が増えた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Why did people start buying more items in a single shopping trip?（人々はなぜ、1回の買い物で（以前より）多くの品物を買うようになったのですか。）
+1 The size of the supermarkets and the number of shoppers with cars increased.（スーパーマーケットの大きさと、車を持つ買い物客の数が増えた。）
+2 Supermarkets began to provide shopping baskets that shoppers could take home.（スーパーマーケットが、買い物客が家に持ち帰ることのできる買い物かごを用意し始めた。）
+3 Store owners offered various discounts for those people who bought large amounts.（店の経営者が、たくさん買う人々に、さまざまな割引をした。）
+4 People's lifestyles became busier, and they could not find time for shopping.（人々の生活が（以前より）忙しくなり、買い物をする時間を見つけられなかった。）
+【考え方】
+まず見るところ：第2段落の As supermarkets grew larger and more people began driving cars
+設問の started buying more items in a single shopping trip という語句は、第2段落にそのまま出てきます。
+As supermarkets grew larger and more people began driving cars, people started buying more items in a single shopping trip.（スーパーマーケットが大きくなり、車を運転し始める人が増えるにつれて、人々は1回の買い物で（以前より）多くの品物を買うようになった）
+As ～ は、ここでは「～につれて」という意味で、あとの内容が起きた背景を表しています。
+本文と選択肢を対にすると、次のようになります。
+本文 supermarkets grew larger（スーパーマーケットが大きくなった）→ 選択肢 The size of the supermarkets ～ increased（スーパーマーケットの大きさが増した）
+本文 more people began driving cars（車を運転し始める人が増えた）→ 選択肢 the number of shoppers with cars increased（車を持つ買い物客の数が増えた）
+本文は「車を運転し始める人」、選択肢は「車を持つ買い物客」と言い方が少し違いますが、この文は買い物の話なので、車で買い物に来る人が増えたことを表していると読み取れます。ですから1が正解です。
+この問題の型：言いかえ（grew larger → the size ～ increased）／因果（店が大きくなり車の人が増えた→たくさん買うようになった）
+【ほかの選択肢】
+2 本文にありません。家に持ち帰ることのできる買い物かごの話は書かれていません。本文に出てくるかごは、店の中で腕で持ち歩くものです。
+3 本文にありません。たくさん買う人への割引の話は書かれていません。第2段落にあるのは、カートでスーパーマーケットの経営者が売り上げを増やせたという話です。
+4 本文にありません。人々の生活が忙しくなったという話も、買い物をする時間がなかったという話も書かれていません。
+【覚えるポイント】
+・grow larger：「（以前より）大きくなる」。選択肢では The size ～ increased（大きさが増した）と言いかえられています。
+・設問の語句（ここでは buying more items in a single shopping trip）が本文にそのまま出てくるときは、その文の前半（As ～ や Because ～）に理由が書かれていることが多いので、そこを確かめると手がかりになります。

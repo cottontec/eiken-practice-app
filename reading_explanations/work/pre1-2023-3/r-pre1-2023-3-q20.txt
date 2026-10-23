@@ -1,0 +1,29 @@
+---
+choices: bid | heap | vice | grain
+answerText: heap
+reviewed: yes
+---
+【正解】2 heap（〈積み重ねた物の〉山）
+【和訳】
+（英文）
+After trimming the tree, the men gathered up the cut branches and placed them all in one big ［heap］.
+（訳）
+木を刈りこんだ（枝を切って形を整えた）あと、男性たちは切った枝を集め、それを全部一つの大きな（山）にして置いた。
+（選択肢の意味）
+1 bid：入札（買いたい値段を申し出ること）、付け値
+2 heap：（積み重ねた物の）山
+3 vice：悪い行い、悪い習慣
+4 grain：穀物、（砂などの）粒
+【考え方】
+まず見るところ：空所の前の gathered up the cut branches and placed them all in one big
+男性たちは、切った枝を集めました。そのあとの動作が次の部分です。
+placed them all in one big (　)（それを全部、一つの大きな〇〇の中に置いた）
+them は the cut branches（切った枝）を指します。たくさんの枝を集めて一か所に置けば、枝が積み重なった「山」ができます。heap は「（積み重ねた物の）山」なので、2が正解です。
+この問題の型：語の意味・組み合わせ（gathered up ～ and placed them all in one big ＋ 集めた物の形）
+【ほかの選択肢】
+1 bid は「入札、付け値」です。「切った枝を全部、一つの大きな付け値の中に置いた」となり、意味が通りません。
+3 vice は「悪い行い」です。「切った枝を全部、一つの大きな悪い行いの中に置いた」となり、意味が通りません。
+4 grain は「穀物、粒」です。grain は小さな粒を表すので、たくさんの枝をまとめて置く「一つの大きな〇〇」には合いません。
+【覚えるポイント】
+・heap：「（積み重ねた物の）山」。gather up ～：「～を拾い集める」。
+・gather（集める）や all（全部）のあとに one big (　) が続くときは、集めた物が積み重なった形を表す語が入る手がかりになります。

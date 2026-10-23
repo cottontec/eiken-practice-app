@@ -1,0 +1,31 @@
+---
+choices: returned to their hometowns | refused to become farmers | accepted the challenge | chose to stay in the army
+answerText: accepted the challenge
+reviewed: yes
+---
+【正解】3 accepted the challenge（その挑戦を受け入れた）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 returned to their hometowns（故郷の町に戻った）
+2 refused to become farmers（農家になることを断った）
+3 accepted the challenge（その挑戦を受け入れた）
+4 chose to stay in the army（軍隊に残ることを選んだ）
+【考え方】
+まず見るところ：第1段落の空所の後ろの This is despite the fact that the soil quality was often poor, ～
+空所の前では、元兵士たちに土地が与えられたことが書かれています。
+they were eventually offered plots of land to become crop farmers（やがて元兵士たちには、作物を育てる農家になるための土地の区画が与えられることになった）
+空所の文は「何千人もの人々が（　）」です。その土地の申し出に対して、人々がどうしたのかが入ります。
+空所の後ろの文を見ます。
+This is despite the fact that the soil quality was often poor, and some plots were considered too small to bring in enough income.（これは、土の質が悪いことが多く、十分な収入を得るには狭すぎると考えられた区画もあったにもかかわらずのことだ）
+despite ～ は「～にもかかわらず」です。後ろには、土地の悪い条件が並んでいます。つまり空所には「条件が悪いのに、それでも～した」という内容が入ります。
+悪い条件の土地で農家になるのは、難しいことへの挑戦です。accepted the challenge（その挑戦を受け入れた）を入れると、「条件が悪いにもかかわらず、何千人もの人が農家になることを引き受けた」となります。第2段落の Once settled, some farmers（住みつくと、農家の中には）とも合うので、3が正解です。
+この問題の型：対比（despite：条件が悪い ⇔ それでも挑戦を受け入れた）
+【ほかの選択肢】
+1 「故郷の町に戻った」を入れると、悪い条件にもかかわらず故郷に戻った、となり、despite の前後がつながりません。また第2段落では、元兵士たちが農家として住みついたことが書かれています。
+2 「農家になることを断った」を入れると、「土地の条件が悪いにもかかわらず断った」となります。条件が悪いなら断るのは自然なので、despite（～にもかかわらず）と合いません。第2段落の農家として住みついた話ともつながりません。
+4 「軍隊に残ることを選んだ」を入れると、兵士たちはすでに国に帰って仕事を探していた、という第1段落の初めの内容と合いません。後ろの文の土地の条件の話ともつながりません。
+【覚えるポイント】
+・accept the challenge：「挑戦を受け入れる、難しいことを引き受ける」。despite the fact that ～ は「～という事実にもかかわらず」です。
+・空所の後ろに despite（～にもかかわらず）と悪い条件が続くときは、空所には「それでも～した」という向きの内容が入ると考えるのが手がかりになります。

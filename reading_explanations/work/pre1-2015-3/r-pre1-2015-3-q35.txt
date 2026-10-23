@@ -1,0 +1,33 @@
+---
+choices: the film failed to include a warning required by the Hays Code about the numerous acts of violence that were shown. | the director claimed he did not think the things Bonnie Parker and Clyde Barrow did were wrong. | the main characters did things that did not meet the moral standards of the American film industry. | the inability of the police to arrest the two main characters made law enforcement officials look foolish.
+answerText: the main characters did things that did not meet the moral standards of the American film industry.
+reviewed: yes
+---
+【正解】3 the main characters did things that did not meet the moral standards of the American film industry.（主人公たちが、アメリカの映画業界の道徳上の基準に合わないことをした〔から〕。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：One reason that Bonnie and Clyde was shocking when it was released is that（『ボニーとクライド』が公開されたときに衝撃的だった理由の1つは、～ということだ。）
+1 the film failed to include a warning required by the Hays Code about the numerous acts of violence that were shown.（その映画が、映し出される数多くの暴力行為について、ヘイズ・コードが求める注意書きを入れなかった。）
+2 the director claimed he did not think the things Bonnie Parker and Clyde Barrow did were wrong.（監督が、ボニー・パーカーとクライド・バロウがしたことは悪いと思わない、と主張した。）
+3 the main characters did things that did not meet the moral standards of the American film industry.（主人公たちが、アメリカの映画業界の道徳上の基準に合わないことをした。）
+4 the inability of the police to arrest the two main characters made law enforcement officials look foolish.（警察が2人の主人公を逮捕できなかったことで、警察官たちがおろかに見えた。）
+【考え方】
+まず見るところ：第2段落の Bonnie and Clyde shocked the United States by going against this
+設問の shocking（衝撃的な）に近い語は、第2段落の shocked（衝撃を与えた）です。その前後を読みます。
+A main rule of the code was that movies should avoid the promotion of "crimes, wrongdoing, evil, or sin."（そのコードの主な決まりの一つは、映画は「犯罪、悪事、悪、または罪」をあおることを避けるべきだ、というものだった）
+Bonnie and Clyde shocked the United States by going against this; the film showed its main characters enjoying their life of crime and expressing little guilt about shooting people.（『ボニーとクライド』は、これに逆らうことでアメリカに衝撃を与えた。その映画は、主人公たちが犯罪の生活を楽しみ、人を撃つことにほとんど罪悪感を示さない様子を描いた）
+the code は、段落の初めにある the Hays Code（ヘイズ・コード）のことで、アメリカの映画監督たちが従ってきた a set of industry guidelines（業界の一連の指針）です。本文と選択肢を対にすると、次のようになります。
+・本文 industry guidelines known as the Hays Code（ヘイズ・コードとして知られる業界の指針）→ 内容から言いかえると → 選択肢 the moral standards of the American film industry（アメリカの映画業界の道徳上の基準）
+・本文 going against this（これに逆らう）→ ほぼ同じ内容 → 選択肢 did not meet（〔基準に〕合わなかった）
+・本文 its main characters enjoying their life of crime（主人公たちが犯罪の生活を楽しむ）→ まとめると → 選択肢 the main characters did things（主人公たちがしたこと）
+「犯罪をあおるな」という業界の決まりに逆らって、主人公たちが犯罪を楽しむ様子を描いたことが、衝撃の理由です。ですから3が正解です。
+この問題の型：言いかえ（going against the Hays Code → did not meet the moral standards）
+【ほかの選択肢】
+1 本文では、ヘイズ・コードが暴力についての「注意書き」を求めていたという話はありません。書かれているのは、限られた暴力は認めていたが、血や痛々しい苦しみは禁じていたことです。
+2 監督のペンが「2人のしたことは悪いと思わない」と主張した、という話は本文にありません。犯罪にほとんど罪悪感を示さないのは、映画の中の登場人物です。
+4 本文には、警察が悪者のように見えるようにした（making the police who chased them seem evil）とありますが、「逮捕できないのでおろかに見えた」という話ではありません。evil（悪い）と foolish（おろかな）は違う意味です。
+【覚えるポイント】
+・go against ～：「～に逆らう、～に反する」。meet the standards は「基準を満たす」です。
+・設問の語（shocking）と同じ仲間の語（shocked）を本文で探すと、答えの手がかりの場所が見つかりやすいです。本文の具体的な名前（the Hays Code）が、選択肢では説明的な言い方（the moral standards of the American film industry）に言いかえられることがよくあります。

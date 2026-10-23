@@ -1,0 +1,30 @@
+---
+choices: animals make some noise | owls sleep in the day | sound arrives at each ear | their eye recognizes the light
+answerText: sound arrives at each ear
+reviewed: yes
+---
+【正解】3 sound arrives at each ear（音がそれぞれの耳に届く）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 animals make some noise（動物が物音を立てる）
+2 owls sleep in the day（フクロウが昼間に眠る）
+3 sound arrives at each ear（音がそれぞれの耳に届く）
+4 their eye recognizes the light（フクロウの目が光を認識する）
+【考え方】
+まず見るところ：第1段落の空所の前の Their ears are located at different heights
+Their ears are located at different heights on the left and right sides of their heads.（フクロウの耳は、頭の左側と右側で、ちがう高さについている。）
+第1段落は、目の話のあと not only their eyes but also their ears（目だけでなく、耳も）と、耳の話に移っています。左右の耳の高さがちがう、というのがこの部分の大切な点です。
+This makes the time at which ( 21 ) different.（このことによって、（21）時間がちがってくる。）
+This（このこと）は、「左右の耳の高さがちがうこと」を指しています。耳の位置がちがうと、何の時間がちがってくるのかを考えます。
+They analyze this difference instantly and determine the accurate position of the animals.（フクロウはこのちがいを瞬時に分析して、動物の正確な位置を突き止める。）
+左右の耳の位置がちがえば、音が右の耳と左の耳に届くまでの時間に差が出ます。フクロウはその差を分析して、動物の正確な位置を突き止めるのです。ですから3の sound arrives at each ear（音がそれぞれの耳に届く）が正解です。
+この問題の型：指示語（This ＝ 左右の耳の高さがちがうこと）
+【ほかの選択肢】
+1 「動物が物音を立てる」時間は、動物の側が決めることです。フクロウの耳の高さがちがうことによって変わるものではないので、This makes ～（このことによって～）の流れに合いません。
+2 「フクロウが昼間に眠る」時間は、耳の位置とは関係がありません。第1段落の初めに夜に活動するとはありますが、耳の高さのちがいで眠る時間が変わるという話ではありません。
+4 「目が光を認識する」は、目の話です。空所の前はすでに耳の話に移っていて、耳の高さのちがいで目が光をとらえる時間が変わるわけではないので、合いません。
+【覚えるポイント】
+・not only A but also B：「AだけでなくBも」。話の中心がAからBへ移る合図になることがあります。
+・This makes ～ の This が何を指すかを前の文で確かめ、その原因から起こる結果として自然なものを選ぶと、答えの手がかりになります。

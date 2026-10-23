@@ -1,0 +1,32 @@
+---
+choices: the development of a type of poison that does not harm deer and birds if they eat it. | a technology that will pose less of a danger to other animals that inhabit areas near the pests. | drone technology that enables scientists to find and remove pests without killing them. | a warning system that will keep non-pest species away from areas where poison has been introduced.
+answerText: a technology that will pose less of a danger to other animals that inhabit areas near the pests.
+reviewed: yes
+---
+【正解】2 a technology that will pose less of a danger to other animals that inhabit areas near the pests.（有害動物の近くの地域に住むほかの動物にとって、より危険の少ない技術。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：New methods to help eliminate pests from the entire country of New Zealand are expected to rely on（ニュージーランド全土から有害動物を根絶するのに役立つ新しい方法は、何にたよることになると予想されているか。）
+1 the development of a type of poison that does not harm deer and birds if they eat it.（シカや鳥が食べても害を与えない種類の毒の開発。）
+2 a technology that will pose less of a danger to other animals that inhabit areas near the pests.（有害動物の近くの地域に住むほかの動物にとって、より危険の少ない技術。）
+3 drone technology that enables scientists to find and remove pests without killing them.（科学者が有害動物を殺さずに見つけて取り除くことができるドローンの技術。）
+4 a warning system that will keep non-pest species away from areas where poison has been introduced.（毒がまかれた地域に、有害動物ではない種類の動物を近づけないようにする警告のしくみ。）
+【考え方】
+まず見るところ：第3段落の One concern with standard methods ～ と、最後の文 Targeting individual pests in this way would greatly lessen the risks ～
+第3段落では、まず標準的な方法の問題点が書かれています。
+One concern with standard methods is that the use of a poison called 1080 can harm animals such as deer and birds.（標準的な方法について心配されることの一つは、1080と呼ばれる毒を使うと、シカや鳥などの動物に害を与えることがある点だ）
+次に、新しい技術が説明されています。biosensor は「バイオセンサー（生き物が出す物質を感知する装置）」です。この技術を取りつけたドローンで標的を見つけ、限られた量の毒を正確な場所に置く、と書かれています。
+Targeting individual pests in this way would greatly lessen the risks that come with widespread distribution by helicopter.（このように有害動物を1匹ずつねらえば、ヘリコプターで広い範囲にまくことにともなう危険を大きく減らせるだろう）
+本文と選択肢を対にすると、次のようになります。
+本文 can harm animals such as deer and birds（シカや鳥などの動物に害を与えることがある）＋ would greatly lessen the risks（危険を大きく減らせる）→ 読み取れること：新しい方法は、ほかの動物にとってより危険が少ない（選択肢 pose less of a danger to other animals）
+ここでの比較の相手は、ヘリコプターで毒を広くまく標準的な方法です。ですから2が正解です。
+この問題の型：推論（危険を減らす→ほかの動物にとってより安全）
+【ほかの選択肢】
+1 本文に書かれていません。新しい方法でも、ドローンが置くのは limited amounts of the poison（限られた量の毒）で、その毒がシカや鳥に害を与えない新しい種類だとは書かれていません。
+3 本文と合いません。ドローンは標的を見つけて毒を置くために使われるので、有害動物を殺さずに取り除くわけではありません。
+4 本文に書かれていません。新しい方法は毒を置く場所をしぼるもので、ほかの動物を近づけないための警告のしくみの話は出てきません。
+【覚えるポイント】
+・lessen the risks：「危険を減らす」。選択肢では pose less of a danger（より少ない危険をもたらす）と言いかえられています。
+・新しい方法についての設問では、その前に書かれた「今の方法の問題点（ここでは can harm animals）」を確かめると、新しい方法が何を改善するのかが分かる手がかりになります。

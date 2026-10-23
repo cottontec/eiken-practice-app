@@ -1,0 +1,27 @@
+---
+choices: expression | occupation | indication | impression
+answerText: occupation
+reviewed: yes
+---
+【正解】2 occupation（職業、仕事）
+【和訳】
+（英文）
+After working as a long-distance truck driver for 10 years, James wanted to find an ［occupation］ that would let him spend more time at home with his family.
+（訳）
+10年間長距離トラックの運転手として働いたあと、ジェームズは、（今よりも）もっと多くの時間を家で家族といっしょに過ごせるような職業を見つけたいと思いました。
+（選択肢の意味）
+1 expression：表現、表情
+2 occupation：職業、仕事
+3 indication：しるし、兆候
+4 impression：印象
+【考え方】
+文の前半の After working as a long-distance truck driver for 10 years（10年間長距離トラックの運転手として働いたあと）に注目します。long-distance は「長距離の」です。長距離トラックの運転手は、遠くまで荷物を運ぶので、家を長く離れることが多い仕事だと考えられます。
+後半の James wanted to find an (　) that would let him spend more time at home with his family では、that 以下が空所の語を説明しています。let ＋ 人 ＋ ～ は「人に～させてくれる」なので、「家で家族と過ごす時間をもっと増やさせてくれる（　）」という意味です。more time は、トラックの運転手として働いていたときと比べて「もっと多くの時間」ということです。
+仕事を10年続けたあと、家族との時間を増やせるものを探すのですから、新しい仕事を探していると考えられます。occupation は「職業、仕事」なので、正解は2です。なお、空所の前は an ですが、4つの選択肢はどれも母音（ア・イ・ウ・エ・オに近い音）で始まるので、an では答えを決められません。
+【ほかの選択肢】
+1 expression は「表現、表情」です。「家族と過ごす時間を増やせる表現を見つけたい」となり、意味が通りません。
+3 indication は「しるし、兆候」です。「家族と過ごす時間を増やせるしるしを見つけたい」となり、10年働いたあとに家族との時間を増やせるものを探すという話とつながりません。
+4 impression は「印象」です。「家族と過ごす時間を増やせる印象」となり、意味が通りません。
+【覚えるポイント】
+・occupation：「職業、仕事」。job より改まった言い方です。
+・let ＋ 人 ＋ 動詞の元の形：「人に～させてくれる」。

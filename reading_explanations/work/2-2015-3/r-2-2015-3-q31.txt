@@ -1,0 +1,26 @@
+---
+choices: equipment | medicine | insurance | skills
+answerText: medicine
+reviewed: yes
+---
+【正解】2 medicine（薬）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 equipment：器具、設備
+2 medicine：薬
+3 insurance：保険
+4 skills：技術、技能
+【考え方】
+空所の文は This means that patients often have to wait a long time before they can be given the right (　) by their doctors.（このことは、患者が医者から適切な（　）をもらえるまでに、長い時間待たなければならないことが多いということを意味している）です。be given ～ by … は「…から～を与えられる」という受け身の形です。
+This（このこと）は、直前の文の「顕微鏡は高価なので、貧しい国々には十分な数がない」という内容を指しています。顕微鏡が足りないと、病気の原因を突き止めるのに時間がかかります。
+同じ段落の If a doctor can quickly identify the disease and give the correct treatment, many lives can be saved.（医者が病気をすばやく突き止めて正しい治療をすれば、多くの命が救える）も手がかりです。identify は「突き止める」、treatment は「治療」です。医者は病気を突き止めたあとで、患者に正しい治療をします。
+空所には、医者が病気を突き止めたあとに患者に与えるもので、the right（適切な）が付くものが入ります。medicine は「薬」なので、「適切な薬をもらえるまで長い時間待たなければならない」となり、話の流れに合います。正解は2です。
+【ほかの選択肢】
+1 equipment は「器具、設備」です。本文で足りないとされている器具（顕微鏡）は医者が使うもので、医者が患者に与えるものではありません。
+3 insurance は「保険（病気などのときにお金が支払われるしくみ）」です。保険は医者が患者に与えるものではなく、病気を突き止めるのが遅れるという話ともつながりません。
+4 skills は「技術、技能」です。医者が患者に技術を与えるという話ではなく、意味が通りません。
+【覚えるポイント】
+・be given ～ by …：「…から～を与えられる」。give の受け身の形です。
+・identify：「（原因や正体を）突き止める、特定する」。

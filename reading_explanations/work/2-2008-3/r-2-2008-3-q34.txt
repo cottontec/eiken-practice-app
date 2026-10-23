@@ -1,0 +1,29 @@
+---
+choices: To recommend one of her employees for a job at his store. | To get more information about a position he advertised. | To ask about opening a new clothing store in Boston. | To inform him that Gina Tate is moving to Chicago.
+answerText: To recommend one of her employees for a job at his store.
+reviewed: yes
+---
+【正解】1 To recommend one of her employees for a job at his store.（自分の従業員の1人を、彼の店の仕事に推薦するため。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ローザ・レイノルズはなぜボンドさんにEメールを書いているのですか。
+1 To recommend one of her employees for a job at his store.（自分の従業員の1人を、彼の店の仕事に推薦するため。）
+2 To get more information about a position he advertised.（彼が広告を出した職について、もっと情報を得るため。）
+3 To ask about opening a new clothing store in Boston.（ボストンで新しい衣料品店を開くことについてたずねるため。）
+4 To inform him that Gina Tate is moving to Chicago.（ジーナ・テイトがシカゴに引っ越すことを彼に知らせるため。）
+【考え方】
+Eメールを書いた目的は、ふつう最初のほうに書かれています。件名は Ms. Gina Tate's application（ジーナ・テイトさんの応募）です。
+本文の1文目に This e-mail is a recommendation for Gina Tate, who applied for the position of sales manager at your shoe store.（このEメールは、あなたの靴店の販売マネージャーの職に応募したジーナ・テイトさんについての推薦状だ）とあります。recommendation は「推薦（よい人だとすすめること）」です。
+次の文で、ジーナさんは2005年からローザさんの衣料品店で販売員として働いていると分かります。つまり、ジーナさんはローザさんの店の従業員です。本文と選択肢は次のように対応しています。
+本文 a recommendation for Gina Tate（ジーナ・テイトさんについての推薦状）＝ 選択肢 To recommend one of her employees（自分の従業員の1人を推薦するため）
+本文 the position of sales manager at your shoe store（あなたの靴店の販売マネージャーの職）＝ 選択肢 a job at his store（彼の店の仕事）
+メールの最後も I am confident she would be an excellent sales manager at your store.（彼女はあなたの店ですばらしい販売マネージャーになると確信している）としめくくられており、全体がジーナさんを推薦する内容です。正解は1です。
+【ほかの選択肢】
+2 ボンドさんの店の販売マネージャーの職は出てきますが、ローザさんがその職についての情報を求めている文はありません。ローザさんはジーナさんを推薦しているので、目的が違います。
+3 ボストンはジーナさんが家庭の事情で引っ越す先です。ローザさんがボストンで新しい店を開くという話は本文にありません。
+4 ジーナさんが引っ越すのはシカゴではなくボストンです。シカゴは、ローザさんの店があり、ジーナさんが今働いている場所です。場所が違うので誤りです。
+【覚えるポイント】
+・recommendation：「推薦、推薦状」。動詞は recommend（推薦する、すすめる）。
+・apply for ～：「～に応募する、申しこむ」。application は「応募、申しこみ」。

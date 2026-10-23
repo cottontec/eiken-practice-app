@@ -1,0 +1,30 @@
+---
+choices: If placed near the bodies of people who had died, it would be eaten by them in an existence after death. | It could bring the dead back to life due to special qualities the god Ra had given it. | If offerings of it were made to the pharaohs, the people would be rewarded by the gods. | It should be used only for religious purposes because of its strong association with divine beings.
+answerText: If placed near the bodies of people who had died, it would be eaten by them in an existence after death.
+reviewed: yes
+---
+【正解】1 If placed near the bodies of people who had died, it would be eaten by them in an existence after death.（亡くなった人々の遺体の近くに置かれれば、死後の世界でその人々に食べられるだろう。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：古代エジプト人がはちみつについて信じていたことの一つは何か。
+1 If placed near the bodies of people who had died, it would be eaten by them in an existence after death.（亡くなった人々の遺体の近くに置かれれば、死後の世界でその人々に食べられるだろう。）
+2 It could bring the dead back to life due to special qualities the god Ra had given it.（ラー神がはちみつに与えた特別な性質によって、死者を生き返らせることができる。）
+3 If offerings of it were made to the pharaohs, the people would be rewarded by the gods.（はちみつをファラオにささげれば、人々は神々からほうびを与えられるだろう。）
+4 It should be used only for religious purposes because of its strong association with divine beings.（神々と強く結びついているので、宗教的な目的だけに使われるべきである。）
+【考え方】
+設問は ancient Egyptian belief（古代エジプト人が信じていたこと）をたずねています。belief は「信じていること、信仰」という意味です。そこで、本文の中で古代エジプト人の考えが書かれている第1段落を探します。
+第1段落の最後の文に、pots of it were placed in the tombs of royalty in the belief that they would consume it in the afterlife（王族があの世でそれを口にするだろうと信じられていたため、王族の墓にははちみつの入ったつぼが置かれた）とあります。in the belief that ～ は「～と信じて」、consume は「食べる、消費する」、afterlife は「あの世、死後の世界」という意味です。
+この文と選択肢1を対にして見ると、次のように言いかえられています。
+・本文 placed in the tombs（墓に置かれた）＝ 選択肢 placed near the bodies of people who had died（亡くなった人々の遺体の近くに置かれる）
+・本文 they would consume it（彼らがそれを食べるだろう）＝ 選択肢 it would be eaten by them（それは彼らに食べられるだろう）
+・本文 in the afterlife（あの世で）＝ 選択肢 in an existence after death（死後の存在の中で、つまり死後の世界で）
+本文では「王族の墓」となっているところを、選択肢では「亡くなった人々」と少し広く言っていますが、「死者のそばに置いたはちみつを、死者があの世で食べる」という信仰の中身は一致しています。よって1が正解です。
+【ほかの選択肢】
+2 本文でラー神が出てくるのは、bees were created from the tears of the god Ra（ミツバチはラー神の涙から生まれた）という部分だけです。ラー神がはちみつに特別な性質を与えたことや、はちみつが死者を生き返らせることは書かれていません。はちみつは死者を埋葬に向けて整えるのに使われたとありますが、生き返らせるためではありません。
+3 本文では、「ミツバチの王」がファラオの称号だったとは書かれていますが、人々がファラオにはちみつをささげると神々からほうびがもらえる、という話は出てきません。
+4 本文には、はちみつが神と結びついていたことや宗教的な儀式で重要だったことは書かれていますが、「宗教的な目的だけに使うべきだ」とは書かれていません。本文は honey also had divine associations（はちみつは神との結びつき「も」持っていた）と also（～もまた）を使っていて、人間が昔からはちみつで食べ物を甘くしてきたことに加えて、エジプト人にとっては神とのつながりもあった、という書き方です。「だけ」と言い切っている点で、本文から言える内容を越えています。
+【覚えるポイント】
+・in the belief that ～：「～と信じて」。設問の belief（信じていること）と同じ語が本文にあり、答えの場所を探す手がかりになります。
+・afterlife ＝ existence after death（死後の世界）のように、内容一致問題では本文の語が別の言い方に言いかえられます。

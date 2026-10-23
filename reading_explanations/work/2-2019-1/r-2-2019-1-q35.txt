@@ -1,0 +1,31 @@
+---
+choices: It supports businesses that are trying to create databases. | It gathers basic data about all the citizens of the country. | It helps poor people gain access to new types of technology. | It collects the fingerprints of people who have committed crimes.
+answerText: It gathers basic data about all the citizens of the country.
+reviewed: yes
+---
+【正解】2 It gathers basic data about all the citizens of the country.（それは、国のすべての国民についての基本的な情報を集める。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：インド固有識別庁（UIDAI）の目的は何ですか。
+1 It supports businesses that are trying to create databases.（それは、データベースを作ろうとしている会社を支援する。）
+2 It gathers basic data about all the citizens of the country.（それは、国のすべての国民についての基本的な情報を集める。）
+3 It helps poor people gain access to new types of technology.（それは、貧しい人々が新しい種類の技術を利用できるよう手助けする。）
+4 It collects the fingerprints of people who have committed crimes.（それは、罪を犯した人々の指紋を集める。）
+【考え方】
+UIDAIの説明は第2段落にあります。
+This is a project to record the identity of every Indian individual in a huge government database.（これは、インドの一人ひとりの身元を政府の巨大なデータベースに記録する事業だ）
+The government records the name, date of birth, address, and fingerprints of each person.（政府は、それぞれの人の名前、生年月日、住所、指紋を記録する）
+every Indian individual は「インドの一人ひとり」、identity は「身元（その人がだれであるか）」という意味です。名前・生年月日・住所などは、その人についての基本的な情報だと言えます。
+本文と選択肢を対にすると、次のようになります。
+本文 every Indian individual（インドの一人ひとり）＝ 選択肢 all the citizens of the country（国のすべての国民）
+本文 record ... the name, date of birth, address, and fingerprints（名前、生年月日、住所、指紋を記録する）→ 選択肢 gathers basic data（基本的な情報を集める）
+ですから、2が正解です。
+【ほかの選択肢】
+1 データベースを作っているのは government（政府）です。データベースを作ろうとしている会社を支援するとは書かれていません。
+3 本文には using new technology to help the poor（新しい技術を使って貧しい人々を助ける）とあります。新しい技術を使うのは政府で、貧しい人々が新しい技術を使えるようにするという話ではありません。
+4 指紋を記録するのは each person（一人ひとり）についてです。罪を犯した人に限った話ではありません。
+【覚えるポイント】
+・every individual：「一人ひとり（の人）」。all the citizens と同じように、国民全員を表しています。
+・identity：「身元、その人がだれであるか」。

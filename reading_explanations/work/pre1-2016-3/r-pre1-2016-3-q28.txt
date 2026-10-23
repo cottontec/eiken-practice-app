@@ -1,0 +1,33 @@
+---
+choices: What is more | As a result | Instead | In comparison
+answerText: What is more
+reviewed: yes
+---
+【正解】1 What is more（そのうえ、さらに）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 What is more（そのうえ、さらに）
+2 As a result（その結果）
+3 Instead（その代わりに、そうではなく）
+4 In comparison（それに比べて）
+【考え方】
+まず見るところ：第3段落の初めの Pleistocene rewilding could have significant drawbacks
+第3段落の初めは次のとおりです。
+Some scientists, however, say Pleistocene rewilding could have significant drawbacks.（しかし、一部の科学者は、更新世の再野生化には重大な欠点がありうると言っている）
+drawback は「欠点、不利な点」という意味です。このあと、欠点が順に挙げられていきます。
+1つ目の欠点は費用です。監視のプログラムや柵が必要で、次のように書かれています。
+Both of these steps would involve major economic costs.（これらの対策はどちらも、多額の経済的な費用を伴うだろう）
+空所のあとは次のとおりです。
+( 28 ), since the end of the Pleistocene epoch, many ecosystems and species have evolved dramatically. Reintroducing species into such altered environments could have a destabilizing effect.（（　）、更新世が終わってから、多くの生態系や種は大きく進化してきた。そのように変わってしまった環境に種を再導入すると、不安定にする影響が出るおそれがある）
+destabilizing は「不安定にする」という意味です。これは、費用とは別の2つ目の欠点です。
+欠点に別の欠点を付け足しているので、「そのうえ、さらに」という意味の What is more が入ります。ですから1が正解です。
+この問題の型：語の意味・組み合わせ（What is more＝そのうえ）／具体例とまとめ（欠点が1つ目、2つ目と並んでいる）
+【ほかの選択肢】
+2 As a result（その結果）は、前の内容が原因で、あとの内容がその結果のときに使います。「費用がかかる」ことが原因で「更新世のあと生態系が大きく進化した」わけではないので、合いません。
+3 Instead（その代わりに）は、前の内容を打ち消して別のものを示すときに使います。費用の問題を打ち消しているのではなく、欠点をもう1つ加えているので、合いません。
+4 In comparison（それに比べて）は、2つのものを比べるときに使います。ここでは費用と生態系の変化を比べているのではなく、どちらも欠点として並べているので、合いません。
+【覚えるポイント】
+・What is more：「そのうえ、さらに」。同じ向きの内容（ここではどちらも欠点）を付け足すときに使います。
+・つなぎの言葉の空所では、空所の前とあとの内容がどんな関係か（付け足し・原因と結果・打ち消し・比較）を一言でまとめてから選ぶと手がかりになります。

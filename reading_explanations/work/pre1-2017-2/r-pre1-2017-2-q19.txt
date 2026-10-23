@@ -1,0 +1,33 @@
+---
+choices: diagrams | treaties | exemptions | mechanisms
+answerText: exemptions
+reviewed: yes
+---
+【正解】3 exemptions（（義務の）免除）
+【和訳】
+（英文）
+Many charities receive tax ［exemptions］ from the government. Since they do not have to pay taxes, they have more money to spend on helping society.
+（訳）
+多くの慈善団体は、政府から税の（免除）を受けている。税金を払わなくてよいので、より多くのお金を、社会を助けるために使うことができる。
+（選択肢の意味）
+1 diagrams：図、図表
+2 treaties：（国と国の）条約
+3 exemptions：（義務の）免除
+4 mechanisms：仕組み、機械装置
+【考え方】
+まず見るところ：あとの文の Since they do not have to pay taxes
+最初に、空所のある文を確かめます。
+Many charities receive tax ( ) from the government.（多くの慈善団体は、政府から税の（　）を受けている）
+charity は「慈善団体（困っている人を助ける活動をする団体）」です。
+次に、あとの文を見ます。
+Since they do not have to pay taxes, they have more money to spend on helping society.（税金を払わなくてよいので、社会を助けるために使えるお金がより多くある）
+Since は「～なので」と理由を表します。they は慈善団体を指し、「税金を払わなくてよい」と説明されています。あとの文は、前の文で政府から受けているものの中身を説明していると考えられます。
+exemption は「（義務の）免除（しなければならないことを、しなくてよいと認めること）」です。tax exemptions で「税の免除」となり、「税金を払わなくてよい」と同じ内容になるので、3が正解です。
+この問題の型：言いかえ（tax exemptions → do not have to pay taxes）
+【ほかの選択肢】
+1 diagrams は「図、図表」です。「政府から税の図を受け取る」では、税金を払わなくてよいというあとの文とつながりません。
+2 treaties は「（国と国の間の）条約」です。条約は国どうしが結ぶもので、慈善団体が政府から受け取るものではありません。
+4 mechanisms は「仕組み、機械装置」です。「政府から税の仕組みを受け取る」では意味が通らず、税金を払わなくてよい理由にもなりません。
+【覚えるポイント】
+・tax exemption：「税の免除（税金を払わなくてよいこと）」。
+・空所のある文のあとに Since ～（～なので）で始まる説明が続くときは、その説明（ここでは do not have to pay taxes）が空所の語の言いかえになっていないかを確かめると手がかりになります。

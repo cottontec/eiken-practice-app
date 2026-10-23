@@ -1,0 +1,32 @@
+---
+choices: paraphrase | contradict | obstruct | scorn
+answerText: paraphrase
+reviewed: yes
+---
+【正解】1 paraphrase（～を〔別の言葉で〕言いかえる）
+【和訳】
+（英文）
+Many students complained the book was very difficult to understand in places, so the teacher tried to ［paraphrase］ those sections using simpler language.
+（訳）
+多くの生徒が、その本はところどころとても理解しにくいと不満を言ったので、先生はそれらの部分を、より簡単な言葉を使って（言いかえ）ようとした。
+（選択肢の意味）
+1 paraphrase：～を（別の言葉で）言いかえる
+2 contradict：～と矛盾する、～に反論する
+3 obstruct：～をじゃまする、ふさぐ
+4 scorn：～をばかにする、軽べつする
+【考え方】
+まず見るところ：空所の後ろの using simpler language と、前半の difficult to understand in places
+前半の文では、生徒たちの不満が書かれています。
+Many students complained the book was very difficult to understand in places（多くの生徒が、その本はところどころとても理解しにくいと不満を言った）
+in places は「ところどころ」です。そのあとの so（だから）で、先生がしたことが続きます。
+the teacher tried to (　) those sections using simpler language（先生はそれらの部分を、より簡単な言葉を使って（　）ようとした）
+those sections（それらの部分）は、理解しにくい部分のことです。simpler は「より簡単な」で、本の文章よりも簡単な言葉という意味です。
+分かりにくい部分を、簡単な言葉で別の言い方にすれば、生徒たちは理解しやすくなります。paraphrase は「別の言葉で言いかえる」なので、1が正解です。
+この問題の型：因果（so 分かりにくい → 言いかえる）／語の意味・組み合わせ（paraphrase ～ using simpler language）
+【ほかの選択肢】
+2 contradict は「～と矛盾する、～に反論する」です。「分かりにくい部分に、簡単な言葉を使って反論しようとした」となり、生徒が理解できるように助けるという流れに合いません。
+3 obstruct は「～をじゃまする、ふさぐ」です。「それらの部分をじゃましようとした」では意味が通りません。
+4 scorn は「～をばかにする」です。本の部分をばかにしても、生徒が理解しやすくなるわけではなく、so の前後がつながりません。
+【覚えるポイント】
+・paraphrase：「別の言葉で言いかえる」。
+・using simpler language（より簡単な言葉を使って）のように「やり方」を表す語句があるときは、そのやり方で何をするのかを考えると、空所の動詞を決める手がかりになります。

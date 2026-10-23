@@ -1,0 +1,32 @@
+---
+choices: interferes with | bursts into | accounts for | graduates from
+answerText: interferes with
+reviewed: yes
+---
+【正解】1 interferes with（～のじゃまをする、～を妨げる）
+【和訳】
+（英文）
+Laura likes to listen to music while studying, but Bob does not. He feels it ［interferes with］ his concentration.
+（訳）
+ローラは勉強しながら音楽を聞くのが好きですが、ボブはそうではありません。彼は、それが自分の集中（のじゃまをする）と感じています。
+（選択肢の意味）
+1 interferes with：～のじゃまをする、～を妨げる
+2 bursts into：突然～しだす、～に飛びこむ
+3 accounts for：～を説明する、～の割合を占める
+4 graduates from：～を卒業する
+【考え方】
+まず見るところ：1文目の but Bob does not
+1文目は次のとおりです。
+Laura likes to listen to music while studying, but Bob does not.（ローラは勉強しながら音楽を聞くのが好きだが、ボブはそうではない）
+but のあとの Bob does not は、「ボブは勉強しながら音楽を聞くのが好きではない」という意味です。2文目は、その理由を説明しています。
+He feels it ( ) his concentration.（彼は、それが自分の集中を（　）と感じている）
+it は、前の文の「勉強しながら音楽を聞くこと」を指していると考えられます。concentration は「集中」です。好きではない理由なので、音楽が集中に悪い影響を与えるという内容が入ります。
+interfere with ～ は「～のじゃまをする、～を妨げる」という意味です。主語の it に合わせて s がついた interferes with で「集中のじゃまをする」となるので、1が正解です。
+この問題の型：対比（ローラは好き⇔ボブは好きではない）／指示語（it ＝勉強しながら音楽を聞くこと）
+【ほかの選択肢】
+2 bursts into は「突然～しだす、～に飛びこむ」です。「それが自分の集中に突然飛びこむ」となり、意味が通りません。
+3 accounts for は「～を説明する、～の割合を占める」です。「それが自分の集中を説明する」となり、ボブが音楽を聞きながら勉強するのを好まない理由になりません。
+4 graduates from は「～を卒業する」です。「それが自分の集中を卒業する」となり、意味が通りません。
+【覚えるポイント】
+・interfere with ～：「～のじゃまをする、～を妨げる」。
+・but のあとに「この人はそうではない」と書かれ、次の文で理由が続くときは、その理由が「よくない影響」を表す語になっているかを確かめると手がかりになります。

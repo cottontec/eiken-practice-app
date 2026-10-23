@@ -1,0 +1,29 @@
+---
+choices: is working for a charity that helps save buildings. | hopes Mr. Pritchett will take her position at the GHS. | recently volunteered at St. Frances Park. | is the editor of a monthly newsletter.
+answerText: is working for a charity that helps save buildings.
+reviewed: yes
+---
+【正解】1 is working for a charity that helps save buildings.（建物を守る手助けをしている慈善団体で働いている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：レイチェル・バーカーは…
+1 is working for a charity that helps save buildings.（建物を守る手助けをしている慈善団体で働いている。）
+2 hopes Mr. Pritchett will take her position at the GHS.（プリチェットさんに、GHSでの自分の役職を引き継いでほしいと思っている。）
+3 recently volunteered at St. Frances Park.（最近、セント・フランシス公園でボランティアをした。）
+4 is the editor of a monthly newsletter.（月刊の会報の編集者である。）
+【考え方】
+レイチェル・バーカーはこのメールを書いた人です。第1段落の初めに I'm the PR manager for the Grantville Historical Society (GHS)（私はグラントビル歴史協会（GHS）の広報責任者です）とあり、GHSで働いていることが分かります。PR manager は「広報（団体の活動を世の中に知らせる仕事）の責任者」という意味です。
+次に、GHSがどんな団体かを確かめます。同じ段落で、GHSのことを our charity（私たちの慈善団体）と呼んでいます。charity は「慈善団体（困っている人や大切なものを助けるために活動する団体）」です。さらに、催しの目的は to get enough signatures to save the old City Hall from being knocked down（古い市庁舎が取り壊されないよう守るため、十分な署名を集めること）だと書かれています。第3段落にも It costs a lot of money to buy and fix up older buildings in town（町の古い建物を買い取って修理するには多くのお金がかかる）とあります。
+本文と選択肢は次のように対応しています。
+本文 I'm the PR manager for the Grantville Historical Society ／ our charity ＝ 選択肢 is working for a charity
+本文 save the old City Hall from being knocked down ／ buy and fix up older buildings ＝ 選択肢 helps save buildings
+正解は1です。
+【ほかの選択肢】
+2 プリチェットさんへのお願いは、催しでの手伝い（ステージの準備や公園のそうじ）と寄付です。レイチェルの役職を引き継いでほしいという話は本文にありません。
+3 以前に催しでボランティアをしたのは、レイチェルではなくプリチェットさんです（Your name was on our list of members who have volunteered at an event in the past）。また、セント・フランシス公園の催しは3月2日にこれから開かれるもので、すでにボランティアをしたわけではありません。
+4 本文には our monthly newsletter（私たちの月刊の会報）という言葉が出てきますが、レイチェルの役職は広報責任者（PR manager）で、会報の編集者だとは書かれていません。
+【覚えるポイント】
+・save ～ from being ...：「～が…されないように守る」。
+・knock down ～：「（建物など）を取り壊す」。本文では be knocked down（取り壊される）の形で使われています。

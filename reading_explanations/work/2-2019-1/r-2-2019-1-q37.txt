@@ -1,0 +1,30 @@
+---
+choices: too much money was spent purchasing the high-quality machines used for the project. | the new system is working very differently from the original model for the program. | it can cause difficult problems if incorrect information is accidentally recorded. | it would be too challenging to set up a similar program in developing countries.
+answerText: it can cause difficult problems if incorrect information is accidentally recorded.
+reviewed: yes
+---
+【正解】3 it can cause difficult problems if incorrect information is accidentally recorded.（まちがった情報がうっかり記録されると、やっかいな問題が起こる可能性がある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：UIDAIについて人々が持っている心配の1つは、（　）ということです。
+1 too much money was spent purchasing the high-quality machines used for the project.（その事業に使う質の高い機械を買うのに、お金がかかりすぎた）
+2 the new system is working very differently from the original model for the program.（新しい仕組みが、その制度のもともとの手本とはかなり違う動き方をしている）
+3 it can cause difficult problems if incorrect information is accidentally recorded.（まちがった情報がうっかり記録されると、やっかいな問題が起こる可能性がある）
+4 it would be too challenging to set up a similar program in developing countries.（発展途上国で同じような制度を作るのは、難しすぎるだろう）
+【考え方】
+UIDAIへの心配は、第4段落に書かれています。段落の最初に Not everybody, though, thinks that the new system is a success.（しかし、だれもが新しい仕組みを成功だと考えているわけではない）とあり、some people point to problems（問題点を指摘する人々もいる）と続きます。その例が For example のあとにあります。
+For example, if a mistake is made when recording the details of an individual, it is extremely difficult to get it corrected and people will be unable to access government services.（たとえば、個人の情報を記録するときにまちがいがあると、それを直してもらうのはきわめて難しく、人々は政府のサービスを利用できなくなってしまう）
+get it corrected は「それを直してもらう」という意味です。記録のまちがいは直すのが難しく、サービスを受けられなくなるという問題です。
+本文と選択肢を対にすると、次のようになります。
+本文 if a mistake is made when recording the details of an individual（個人の情報を記録するときにまちがいがあると）＝ 選択肢 if incorrect information is accidentally recorded（まちがった情報がうっかり記録されると）
+本文 it is extremely difficult to get it corrected and people will be unable to access government services（直してもらうのはきわめて難しく、政府のサービスを利用できなくなる）→ 選択肢 it can cause difficult problems（やっかいな問題が起こる可能性がある）
+ですから、3が正解です。
+【ほかの選択肢】
+1 本文で機械について書かれているのは、some machines designed to check the identity of individuals do not work properly（身元を確認する機械の中にはきちんと動かないものがある）ということです。機械を買うのにお金をかけすぎたとも、質の高い機械だとも書かれていません。
+2 本文の model という語は、some government officials argue that it provides a model for other developing countries（一部の役人は、この仕組みがほかの発展途上国の手本になると主張している）という文に出てきます。もともとの手本と違う動き方をしているという心配ではありません。
+4 本文では、ほかの発展途上国の手本になると主張する役人がいると書かれています。発展途上国で同じような制度を作るのが難しすぎるという心配は書かれていません。
+【覚えるポイント】
+・get ～ corrected：「～を直してもらう」。get ＋物＋過去分詞（～された形）で「（物）を～してもらう」となります。
+・Not everybody thinks ～：「だれもが～と考えているわけではない」。一部の人は違う考えを持っている、という意味です。

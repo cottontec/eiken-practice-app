@@ -1,0 +1,31 @@
+---
+choices: rough up | give out | break up | take over
+answerText: rough up
+reviewed: yes
+---
+【正解】1 rough up（手荒く扱う、暴力をふるう）
+【和訳】
+（英文）
+The police officer was shocked when his partner suggested they ［rough up］ a suspect in order to force him to admit he had stolen money. Using violence in this way was not allowed.
+（訳）
+その警察官は、相棒が、容疑者にお金を盗んだことを無理やり認めさせるために、容疑者を（痛めつけよう）と提案したとき、ショックを受けた。このように暴力を使うことは許されていなかった。
+（選択肢の意味）
+1 rough up：手荒く扱う、暴力をふるって痛めつける
+2 give out：配る
+3 break up：ばらばらにする、解散させる
+4 take over：引きつぐ、乗っ取る
+【考え方】
+まず見るところ：次の文の Using violence in this way was not allowed.
+相棒が提案したことの中身は、次の部分です。
+they (　) a suspect in order to force him to admit he had stolen money（お金を盗んだことを無理やり認めさせるために、容疑者を〇〇する）
+suspect は「容疑者（罪を犯したと疑われている人）」、force ～ to … は「～に無理やり…させる」です。次の文が大きな手がかりです。
+Using violence in this way was not allowed.（このように暴力を使うことは許されていなかった）
+in this way（このように）は、相棒が提案したやり方を指しています。つまり、相棒の提案は「暴力を使う」ことでした。rough up は「手荒く扱う、暴力をふるう」なので、1が正解です。
+この問題の型：指示語（in this way ＝ 容疑者を rough up すること）
+【ほかの選択肢】
+2 give out は「配る」です。「容疑者を配る」では意味が通らず、暴力を使うことにもなりません。
+3 break up は「ばらばらにする、解散させる」です。集まりや集団をばらばらにするときなどに使い、「容疑者を解散させる」では意味が通りません。
+4 take over は「引きつぐ、乗っ取る」です。「容疑者を引きつぐ」では、暴力を使って認めさせるという内容になりません。
+【覚えるポイント】
+・rough up ～：「～を手荒く扱う、～に暴力をふるう」。suspect：「容疑者」。force ～ to …：「～に無理やり…させる」。
+・空所の次の文に in this way（このように）があるときは、その文の内容（ここでは violence）が空所の語の意味を表している手がかりになります。

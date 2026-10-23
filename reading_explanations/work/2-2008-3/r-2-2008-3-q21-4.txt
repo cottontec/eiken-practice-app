@@ -1,0 +1,23 @@
+---
+choices: able | provided | am | that | I
+answerText: am
+order: 2 4 5 3 1
+reviewed: yes
+---
+【正解】3 am（この問題の4番目）
+【完成文】
+B: I would be happy to, ( provided that I am able ) to take a day off next week.
+並べ方：2 provided → 4 that → 5 I → 3 am → 1 able（2番目は4、4番目は3）
+【和訳】
+A：上司が、月曜日までにこの報告書を仕上げてほしいと言っているんだ。週末に仕事をしてもらえるかな？
+B：喜んでやりますよ。ただし、来週1日休みを取ることができればですが。
+【考え方】
+4番目を決めるために、まず全体の形を考えます。Bは I would be happy to（喜んでそうします）と週末の仕事を引き受けたあと、来週休みを取ることについて付け加えています。週末に働く代わりの「条件」を述べていると考えられます。
+条件を表すのは、2 provided と 4 that を組み合わせた provided that ～（～という条件で、～ならば）です。これを空所の最初に置きます。
+provided that のあとには、〈主語＋動詞〉のそろった文がきます。主語になれるのは 5 I です。I に合う be 動詞は 3 am なので、I am と続けます。ここが4番目です。
+最後の 1 able は、空所のあとの to take と合わさって be able to ～（～することができる）となります。am と able がつながって I am able to take a day off（1日休みを取ることができる）という形が完成します。
+したがって4番目は3 am です。
+もし able を am より前に置くと、I able am to … となり、英語の語順になりません。be able to ～ は必ず be 動詞が able の前にきます。
+【覚えるポイント】
+・be able to ～：「～することができる」。主語に合わせて be 動詞を変えます（I am able to ～）。
+・provided that ～：「～という条件で、～ならば」。

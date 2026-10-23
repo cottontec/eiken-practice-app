@@ -1,0 +1,26 @@
+---
+choices: effort | source | advantage | purpose
+answerText: source
+reviewed: yes
+---
+【正解】2 source（発生源、もと）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 effort：努力
+2 source：発生源、もと、出どころ
+3 advantage：有利な点、利点
+4 purpose：目的
+【考え方】
+空所は第1段落の Carbon dioxide is a common greenhouse gas, and one (　) of it is cars.（二酸化炭素はよく見られる温室効果ガスで、その（　）の1つが自動車だ）という文にあります。carbon dioxide は「二酸化炭素」、greenhouse gas は「温室効果ガス（地球をあたためてしまう気体）」です。
+of it の it は、前に出てきた carbon dioxide（二酸化炭素）を指しています。つまり「二酸化炭素の（　）の1つが自動車だ」という意味です。
+次の文には not all cars produce the same amount of this gas（すべての車が同じ量のこのガスを出すわけではない）とあります。produce は「～を出す、生み出す」です。ここから、車は二酸化炭素を「出す」ものとして書かれていると分かります。
+二酸化炭素を出すもの、つまり「二酸化炭素が生まれるもと」を表す語は source（発生源、もと）です。one source of it で「その発生源の1つ」となるので、2が正解です。
+【ほかの選択肢】
+1 effort は「努力」です。「二酸化炭素の努力の1つが自動車だ」となり、意味が通りません。
+3 advantage は「有利な点、利点」です。「二酸化炭素の利点の1つが自動車だ」となり、二酸化炭素を減らそうという段落の流れとも合いません。
+4 purpose は「目的」です。「二酸化炭素の目的の1つが自動車だ」となり、意味が通りません。
+【覚えるポイント】
+・source：「発生源、もと、出どころ」。a source of ～ で「～のもと、～を生み出すもの」。
+・not all ～：「すべての～が…というわけではない」。一部だけを否定する言い方です。

@@ -1,0 +1,31 @@
+---
+choices: root out | pass for | take up | blow up
+answerText: take up
+reviewed: yes
+---
+【正解】3 take up（〔趣味などを〕始める）
+【和訳】
+（英文）
+After retirement, many people ［take up］ new hobbies that they did not have time for when they were working.
+（訳）
+退職したあと、多くの人は、働いていたころには時間がなかった新しい趣味を（始める）。
+（選択肢の意味）
+1 root out：～を根こそぎにする、～を取り除く
+2 pass for：～として通る、～と見なされる
+3 take up：（趣味などを）始める
+4 blow up：爆発する、～を爆破する、（風船などを）ふくらませる
+【考え方】
+まず見るところ：空所の後ろの new hobbies that they did not have time for when they were working
+文の初めの After retirement は「退職したあと」です。retirement は「退職（年をとって仕事をやめること）」です。
+空所の後ろを見ます。
+new hobbies that they did not have time for when they were working（働いていたころには時間がなかった新しい趣味）
+that 以下は、new hobbies（新しい趣味）について説明を付け足しています。働いていたころは時間がなくてできなかった趣味、ということです。
+仕事をやめて時間ができたので、それまでできなかった趣味を新しく始める、と考えると話がつながります。take up ～ は「（趣味などを）始める」なので、3が正解です。
+この問題の型：熟語・決まった形（take up ＋ 趣味）／対比（退職したあと ⇔ 働いていたころ）
+【ほかの選択肢】
+1 root out は「～を根こそぎにする、取り除く」です。「時間がなかった新しい趣味を取り除く」となり、退職して時間ができたという流れに合いません。
+2 pass for は「～として通る、～と見なされる」です。「多くの人は新しい趣味として通る」となり、意味が通りません。
+4 blow up は「～を爆破する、ふくらませる」です。「新しい趣味を爆破する」となり、意味が通りません。
+【覚えるポイント】
+・take up ～：「（趣味やスポーツなどを）始める」。
+・After retirement（退職したあと）と when they were working（働いていたころ）のように、時間ができた時期とできなかった時期が比べられているときは、「新しく始める」向きの語が入る手がかりになります。

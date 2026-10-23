@@ -1,0 +1,26 @@
+---
+choices: honest | mistaken | excited | disappointed
+answerText: mistaken
+reviewed: yes
+---
+【正解】2 mistaken（思い違いをしている、間違っている）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 honest：正直な
+2 mistaken：思い違いをしている、間違っている
+3 excited：わくわくしている、興奮している
+4 disappointed：がっかりしている
+【考え方】
+空所は第1段落の最後の文 A recent survey carried out in the United States, however, has shown that many people are (　) about the best way to do this.（しかし、アメリカで最近行われた調査で、多くの人がそのための最もよい方法について～だと分かった）にあります。to do this（そうすること）は、直前の文の reduce the amount of energy they use（使うエネルギーの量を減らす）を指しています。
+however（しかし）があるので、この文は「政府は人々にエネルギーを減らしてもらおうとがんばってきた」という前の文と、うまくいっていない方向でつながると予想できます。
+そこで、空所のあとの段落を確かめます。第2段落では、最も多かった答えの「電灯を消すこと」は、専門家によると this saves very little electricity（これで節約できる電気はごくわずか）だと書かれています。さらに第3段落の最初には Why do so many people have the wrong idea about what they should do ～?（なぜこれほど多くの人が、何をすべきかについて間違った考えをもっているのか）とあります。
+つまり、多くの人はエネルギーを減らす最もよい方法について「間違った考え」をもっているのです。be mistaken about ～ は「～について思い違いをしている」という意味なので、2が正解です。
+【ほかの選択肢】
+1 honest は「正直な」です。「多くの人が最もよい方法について正直だ」となり、調査で分かったこととして意味が通りません。第3段落の「間違った考え」ともつながりません。
+3 excited は「わくわくしている」です。「多くの人が最もよい方法についてわくわくしている」という話は本文になく、第2段落の「人々の答えは効果が小さかった」という内容とも合いません。
+4 disappointed は「がっかりしている」です。本文には、人々がエネルギーの節約方法にがっかりしているという話はありません。調査で分かったのは、人々の考えが間違っているということです。
+【覚えるポイント】
+・be mistaken about ～：「～について思い違いをしている」。
+・have the wrong idea about ～：「～について間違った考えをもっている」。本文ではこの言い方で(26)の内容が言いかえられています。

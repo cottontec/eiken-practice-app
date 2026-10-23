@@ -1,0 +1,32 @@
+---
+choices: perch | breeze | gleam | sizzle
+answerText: gleam
+reviewed: yes
+---
+【正解】3 gleam（輝き、きらめき）
+【和訳】
+（英文）
+The little girl had a ［gleam］ in her eye as she told her grandmother about the new puppy her mother had given her. It was clear she was very happy.
+（訳）
+その小さな女の子は、母親がくれた新しい子犬のことを祖母に話しながら、目を（輝かせて）いた。彼女がとても喜んでいるのは明らかだった。
+（選択肢の意味）
+1 perch：（鳥の）止まり木
+2 breeze：そよ風
+3 gleam：輝き、きらめき
+4 sizzle：（油で焼くときの）ジュージューいう音
+【考え方】
+まず見るところ：次の文の It was clear she was very happy.
+空所のある部分は、次のとおりです。
+The little girl had a (　) in her eye（その小さな女の子は、目に（　）があった）
+in her eye（目に）とあるので、空所には、目に見られる様子を表す語が入ります。
+次の文は、次のとおりです。
+It was clear she was very happy.（彼女がとても喜んでいるのは明らかだった）
+新しい子犬の話をしている女の子がとても喜んでいる様子が、目に表れていたと考えられます。gleam は「輝き、きらめき」という意味で、have a gleam in one's eye で「目を輝かせている」という意味になるので、3が正解です。
+この問題の型：語の意味・組み合わせ（a gleam in her eye → 喜びで目が輝く）
+【ほかの選択肢】
+1 perch は「（鳥の）止まり木」です。「目に止まり木があった」となり、意味が通りません。
+2 breeze は「そよ風」です。「目にそよ風があった」となり、意味が通りません。喜んでいる様子を表すことにもなりません。
+4 sizzle は「（油で焼くときの）ジュージューいう音」です。「目にジュージューいう音があった」となり、意味が通りません。
+【覚えるポイント】
+・have a gleam in one's eye：「目を輝かせている」。gleam は「輝き、きらめき」。
+・It was clear she was very happy.（とても喜んでいるのは明らかだった）のように、次の文に気持ちがはっきり書かれているときは、その気持ちが表れた様子を表す語が空所に入る手がかりになります。

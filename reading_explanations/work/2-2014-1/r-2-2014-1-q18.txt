@@ -1,0 +1,27 @@
+---
+choices: been announced | announced | being announced | been announcing
+answerText: been announced
+reviewed: yes
+---
+【正解】1 been announced（発表されて〔いた〕）
+【和訳】
+（英文）
+Richard arrived late to the awards ceremony. The winner of the first award had already ［been announced］ by the time he found his seat.
+（訳）
+リチャードは授賞式に遅れて着きました。彼が自分の席を見つけたときには、最初の賞の受賞者はすでに発表されていました。
+（選択肢の意味）
+1 been announced：発表されて（いた）
+2 announced：発表して（いた）
+3 being announced：発表されている途中で
+4 been announcing：ずっと発表して（いた）
+【考え方】
+2文目の主語は The winner of the first award（最初の賞の受賞者）です。受賞者は自分で何かを発表するのではなく、だれかによって名前を「発表される」側です。ですから「～される」という意味の形が必要です。
+「～される」は be動詞 ＋ 過去分詞（announced のような形）で表します。空所の前に had already（すでに～していた）があり、had のあとでは be動詞が been になります。had already been announced で「（そのときまでに）すでに発表されていた」という意味です。
+by the time he found his seat（彼が席を見つけたときまでに）も、過去のある時点より前にもう終わっていたことを示していて、had ＋ been ＋ 過去分詞の形と合います。正解は1です。
+【ほかの選択肢】
+2 announced を入れると had already announced となり、「受賞者がすでに（何かを）発表していた」という意味になります。受賞者は発表される側なので合いません。また、何を発表したのかも書かれていません。
+3 being announced を入れると had already being announced となりますが、had のすぐあとに being を置く形はありません。
+4 been announcing を入れると had already been announcing となり、「受賞者がずっと（何かを）発表していた」という意味になります。受賞者が発表していたのではないので合いません。
+【覚えるポイント】
+・had ＋ been ＋ 過去分詞：「（過去のある時点までに）すでに～されていた」。
+・by the time ～：「～するときまでに」。

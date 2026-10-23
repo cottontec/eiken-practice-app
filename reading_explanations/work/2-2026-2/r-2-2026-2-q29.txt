@@ -1,0 +1,34 @@
+---
+choices: offering them special discounts for using the carts. | changing their design to make the carts more appealing. | showing men using the carts in the store in advertisements. | hiring people to demonstrate using the carts in the store.
+answerText: hiring people to demonstrate using the carts in the store.
+reviewed: yes
+---
+【正解】4 hiring people to demonstrate using the carts in the store.（店内でカートを使ってみせる人を雇うこと。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Goldman convinced shoppers to use shopping carts by（ゴールドマンは、～ことによって、買い物客がショッピングカートを使うよう説得しました。）
+1 offering them special discounts for using the carts.（カートを使う人に特別な割引をする）
+2 changing their design to make the carts more appealing.（カートを（それまでより）魅力的にするために、デザインを変える）
+3 showing men using the carts in the store in advertisements.（店内でカートを使っている男性を広告で見せる）
+4 hiring people to demonstrate using the carts in the store.（店内でカートを使ってみせる人を雇う）
+【考え方】
+まず見るところ：第3段落の He hired people who walked around his store pushing the shopping carts and demonstrating how useful the carts were.
+第3段落の初めに、最初は買い物客がカートを使いたがらなかったことが書かれています。そのあとに次の文があります。
+Goldman had to find a clever way to change their minds.（ゴールドマンは、彼らの考えを変えるための、うまい方法を見つけなければならなかった）
+その方法が、次の文です。
+He hired people who walked around his store pushing the shopping carts and demonstrating how useful the carts were.（彼は、ショッピングカートを押しながら店内を歩き回り、カートがどれほど便利かを実際にやってみせる人たちを雇った）
+demonstrate は「実際にやってみせる、実演する」という意味です。続く文には、その結果が書かれています。
+When customers saw others using the carts comfortably, they started using them too.（ほかの人がカートを楽そうに使っているのを見ると、客たちもそれを使い始めた）
+本文と選択肢を対にすると、次のようになります。
+本文 He hired people who walked around his store pushing the shopping carts and demonstrating（店内でカートを押しながら歩き回り、実際にやってみせる人たちを雇った）→ 選択肢 hiring people to demonstrate using the carts in the store（店内でカートを使ってみせる人を雇う）
+ですから4が正解です。
+この問題の型：言いかえ（hired people ～ demonstrating → hiring people to demonstrate）
+【ほかの選択肢】
+1 本文にありません。カートを使う人への割引の話は書かれていません。
+2 本文にありません。第3段落の方法は、使ってみせる人を雇うことで、デザインを変えたわけではありません。デザインの改良は第4段落に出てきますが、それはたくさんのカートをしまうためや、子どもの安全のためで、買い物客を説得するためではありません。
+3 一部だけ正しい内容です。店内でカートを使ってみせたことは本文と合いますが、広告で見せたという話は書かれていません。また、雇った人が男性だったとも書かれていません。
+【覚えるポイント】
+・demonstrate：「実際にやってみせる、実演する」。
+・「どのようにして説得したか」をたずねる設問では、本文の change their minds（考えを変える）のような語句のすぐあとに方法が書かれていることが多いので、そこを確かめると手がかりになります。

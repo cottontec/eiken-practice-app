@@ -1,0 +1,33 @@
+---
+choices: lean | bulky | impaired | predictable
+answerText: bulky
+reviewed: yes
+---
+【正解】2 bulky（かさばる、大きくて扱いにくい）
+【和訳】
+（英文）
+The coffee table that Giovanna bought was too ［bulky］ to fit in the trunk of her car, so she had to ask the shop to deliver it to her home.
+（訳）
+ジョバンナが買ったコーヒーテーブルは、（かさばり）すぎて車のトランクに入らなかったので、彼女は店に、家まで配達してくれるよう頼まなければならなかった。
+（選択肢の意味）
+1 lean：やせた、（肉が）脂肪の少ない
+2 bulky：かさばる、大きくて扱いにくい
+3 impaired：（働きが）損なわれた、弱った
+4 predictable：予測できる
+【考え方】
+まず見るところ：空所のあとの to fit in the trunk of her car
+最初に、空所の前後の形を確かめます。
+was too ( ) to fit in the trunk of her car（（　）すぎて、車のトランクに入らなかった）
+too ～ to … は「～すぎて…できない」という意味です。fit in ～ は「～に（ちょうど）収まる」、trunk は「（車の）トランク（荷物を入れる場所）」です。
+次に、後半を見ます。
+so she had to ask the shop to deliver it to her home（だから彼女は、店に家まで配達してくれるよう頼まなければならなかった）
+自分の車で運べなかったので、配達を頼んだ、という流れです。トランクに入らない理由は、テーブルが大きすぎることだと考えられます。
+bulky は「かさばる、大きくて扱いにくい」という意味なので、2が正解です。
+この問題の型：熟語・決まった形（too ～ to …）／因果（大きすぎてトランクに入らない→配達を頼む）
+【ほかの選択肢】
+1 lean は「やせた、（肉が）脂肪の少ない」です。人や肉について使う語で、細いのならむしろトランクに入りやすくなるので、合いません。
+3 impaired は「（働きが）損なわれた、弱った」です。テーブルがこわれているかどうかは、トランクに入るかどうかとは関係がありません。
+4 predictable は「予測できる」です。「予測できすぎてトランクに入らない」では意味が通りません。
+【覚えるポイント】
+・bulky：「かさばる、大きくて扱いにくい」。
+・too ～ to fit in …（～すぎて…に入らない）の形では、空所に「大きさ」を表す語が入ることが多いので、fit in が手がかりになります。

@@ -1,0 +1,35 @@
+---
+choices: there is evidence to show that Moore's law can also be a useful tool in the field of politics. | the amount of effort that is necessary for Moore's law to remain true has increased greatly over time. | while the age of leaders in the worlds of business and politics is increasing, this is not the case for Nobel Prize winners. | universities in the United States are unlikely to make major new discoveries because they have limited resources.
+answerText: the amount of effort that is necessary for Moore's law to remain true has increased greatly over time.
+reviewed: yes
+---
+【正解】2 the amount of effort that is necessary for Moore's law to remain true has increased greatly over time.（ムーアの法則が当てはまり続けるのに必要な努力の量は、時がたつにつれて大きく増えてきたということだ。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：A paper by researchers in the United States concluded that（アメリカの研究者たちによる論文が結論づけたのは、）
+1 there is evidence to show that Moore's law can also be a useful tool in the field of politics.（ムーアの法則は政治の分野でも役に立つ道具になりうることを示す証拠がある、ということだ。）
+2 the amount of effort that is necessary for Moore's law to remain true has increased greatly over time.（ムーアの法則が当てはまり続けるのに必要な努力の量は、時がたつにつれて大きく増えてきた、ということだ。）
+3 while the age of leaders in the worlds of business and politics is increasing, this is not the case for Nobel Prize winners.（企業や政治の世界の指導者の年齢は上がっているが、ノーベル賞受賞者には当てはまらない、ということだ。）
+4 universities in the United States are unlikely to make major new discoveries because they have limited resources.（アメリカの大学は、資源が限られているので、大きな新しい発見をしそうにない、ということだ。）
+【考え方】
+まず見るところ：第2段落の As a paper by researchers from two universities in the United States concludes, "～"
+第2段落の最初で、ムーアの法則が当てはまってきた理由が書かれています。
+Moore's law has largely held true, but only because the amount of manpower and time used to make it possible have also greatly increased.（ムーアの法則はおおむね当てはまってきたが、それは、それを可能にするために使われる人手と時間の量もまた大きく増えてきたからにすぎない）
+そのあとに、論文の結論が引用されています。
+"The constant exponential growth implied by Moore's law has been achieved only by a staggering increase in the amount of resources devoted to pushing the frontier forward."（「ムーアの法則が示す一定の指数関数的な成長は、最先端を前へ押し進めることに注ぎこまれる資源の量が驚くほど増えたことによってのみ、達成されてきた」）
+staggering は「驚くほどの」、resources は「資源（人・お金・時間など、使えるもの）」です。
+本文と選択肢2を対にすると、次のようになります。
+・本文 has been achieved（達成されてきた）→ 選択肢 for Moore's law to remain true（ムーアの法則が当てはまり続けるのに）
+・本文 the amount of resources devoted to pushing the frontier forward（最先端を押し進めることに注ぎこまれる資源の量）→ 選択肢 the amount of effort that is necessary（必要な努力の量）
+・本文 a staggering increase（驚くほどの増加）→ 選択肢 has increased greatly（大きく増えてきた）
+よって2が正解です。
+この問題の型：言いかえ（a staggering increase in the amount of resources → the amount of effort ～ has increased greatly）
+【ほかの選択肢】
+1 本文に書かれていません。第2段落で政治が出てくるのは Political and business leaders are getting older（政治や企業の指導者は年齢が上がってきている）という部分だけで、ムーアの法則が政治の分野で役立つという話ではありません。
+3 本文と合いません。本文には the average age of Nobel Prize winners is rising（ノーベル賞受賞者の平均年齢は上がっている）とあり、ノーベル賞受賞者にも年齢が上がる傾向が当てはまります。また、これは論文の結論として書かれたものではありません。
+4 本文に書かれていません。論文を書いたのはアメリカの2つの大学の研究者ですが、アメリカの大学の資源が限られているので大きな発見をしそうにないという話はありません。
+【覚えるポイント】
+・hold true：「当てはまる、成り立つ」。staggering：「驚くほどの」。resources：「資源（人・お金・時間など）」。
+・設問に A paper ～ concluded that とあるときは、本文の As a paper ～ concludes, "～" のような引用部分を探し、その中の語句（ここでは resources）が選択肢でどう言いかえられているか（effort）を確かめることが手がかりになります。

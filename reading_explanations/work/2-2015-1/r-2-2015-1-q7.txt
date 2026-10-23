@@ -1,0 +1,27 @@
+---
+choices: gained | encouraged | promised | remained
+answerText: encouraged
+reviewed: yes
+---
+【正解】2 encouraged（励ました、～するよう勧めた）
+【和訳】
+（英文）
+Sarah wanted to stay in the easy math class, but her teacher ［encouraged］ her to move up to the advanced class. He said that she would learn much more in that class.
+（訳）
+サラはやさしい数学のクラスにとどまりたいと思っていましたが、先生は彼女に上級クラスへ上がるよう勧めました。先生は、そのクラスでなら（今のクラスより）ずっと多くのことを学べるだろうと言いました。
+（選択肢の意味）
+1 gained：得た
+2 encouraged：励ました、～するよう勧めた
+3 promised：約束した
+4 remained：～のままだった
+【考え方】
+空所のあとが her to move up to the advanced class（彼女が上級クラスへ上がること）になっていることに注目します。〈動詞＋人＋to ～〉の形で「人に～するように…する」という意味を作れる動詞を考えます。
+encourage は〈encourage＋人＋to ～〉で「人に～するよう勧める、励ます」という意味です。but（しかし）の前ではサラは「やさしいクラスにとどまりたかった」とあり、先生はそれとは反対に「上級クラスへ上がるよう勧めた」となって、流れがつながります。
+さらに2文目で、先生は she would learn much more in that class（そのクラスでならずっと多く学べるだろう）と、上級クラスへ移る理由を話しています。サラを励まして勧めている様子に合うので、2が正解です。
+【ほかの選択肢】
+1 gained は「得た」です。gain は「（物）を得る」という意味で、〈gain＋人＋to ～〉の形で「人に～させる」という意味にはならないので、この文には合いません。
+3 promised は「約束した」です。〈promise＋人＋to ～〉の形では、～するのは約束した本人になります。「先生がサラに、（先生自身が）上級クラスへ上がると約束した」となり、意味が通りません。
+4 remained は「～のままだった」です。remain はあとに人を置いて「人に～させる」という形をとらないので、文が成り立ちません。
+【覚えるポイント】
+・encourage 人 to ～：「人に～するよう勧める、励ます」。
+・move up to ～：「（上のクラスや段階）へ上がる」。

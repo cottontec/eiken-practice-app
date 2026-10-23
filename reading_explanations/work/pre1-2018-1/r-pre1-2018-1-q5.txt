@@ -1,0 +1,31 @@
+---
+choices: abridged | supreme | notorious | hysterical
+answerText: abridged
+reviewed: yes
+---
+【正解】1 abridged（短くまとめた、要約版の）
+【和訳】
+（英文）
+Hugo doesn't have enough time to read the full texts of classic books, so he buys ［abridged］ versions of them to read while commuting to work.
+（訳）
+ヒューゴは、古典の本を全文読むだけの時間がないので、通勤中に読むために、それらの（短縮）版を買っている。
+（選択肢の意味）
+1 abridged：短くまとめた、要約版の
+2 supreme：最高の
+3 notorious：（悪いことで）有名な、悪名高い
+4 hysterical：ひどく興奮した、取り乱した
+【考え方】
+まず見るところ：文の前半の doesn't have enough time to read the full texts
+前半を見ます。
+Hugo doesn't have enough time to read the full texts of classic books（ヒューゴは古典の本の全文を読むのに十分な時間がない）
+full texts は「全文、省略していない文章」です。そのあとに so（だから）が続くので、後半には「時間がないので、どうしているか」が書かれます。
+he buys (　) versions of them（彼はそれらの〇〇版を買う）
+全文を読む時間がない人が買うのは、短くまとめられた版だと考えられます。abridged は「短くまとめた、要約版の」なので、1が正解です。full texts（全文）と abridged versions（短縮版）が反対の関係になっています。
+この問題の型：因果（時間がない so 短い版を買う）
+【ほかの選択肢】
+2 supreme は「最高の」です。「最高の版を買う」では、時間がないという理由とつながりません。
+3 notorious は「悪名高い」です。「悪名高い版」では、時間がないから買うという流れに合いません。
+4 hysterical は「ひどく興奮した」で、ふつうは人のようすを表します。本の版の説明としては意味が通りません。
+【覚えるポイント】
+・abridged version：「短縮版、要約版」。この文では full texts（全文）と対になっています。
+・so（だから）でつながる文では、前半の理由（ここでは時間が足りない）が、後半の空所に入る語を決める手がかりになります。

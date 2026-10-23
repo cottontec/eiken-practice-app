@@ -1,0 +1,30 @@
+---
+choices: Similarly | Consequently | In spite of this | On the contrary
+answerText: Consequently
+reviewed: yes
+---
+【正解】2 Consequently（その結果、したがって）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Similarly（同じように）
+2 Consequently（その結果、したがって）
+3 In spite of this（それにもかかわらず）
+4 On the contrary（それどころか、反対に）
+【考え方】
+まず見るところ：第1段落の空所の直前の Because of its high altitude, Mesa Verde received more rainfall than the surrounding lowlands
+空所の前の文は次のとおりです。
+Because of its high altitude, Mesa Verde received more rainfall than the surrounding lowlands, which were often affected by long droughts.（標高が高いため、メサ・ヴェルデには、長い干ばつにたびたび見舞われた周りの低地よりも多くの雨が降った）
+altitude は「標高（海面からの高さ）」、drought は「干ばつ（雨が降らず、ひどい水不足になること）」という意味です。メサ・ヴェルデは、周りの低地より雨に恵まれていました。
+空所のあとは次のとおりです。
+( 29 ), Mesa Verde was more stable in terms of agriculture, and its population expanded tremendously over the next 700 years.（（29）、メサ・ヴェルデは（周りの低地より）農業の面で安定しており、その後の700年の間に人口が大幅に増えた）
+雨が多ければ作物が育ちやすく、農業が安定します。前の文が原因、後ろの文がその結果という関係です。Consequently は「その結果、したがって」なので、2が正解です。
+この問題の型：因果（雨が多い→その結果、農業が安定し人口が増えた）
+【ほかの選択肢】
+1 Similarly は「同じように」で、前の内容と似た別の例を並べるときに使います。後ろの文は前の文の結果であり、似た別の例ではないので合いません。
+3 In spite of this は「それにもかかわらず」で、前の内容から予想されることと反対の結果がくるときに使います。雨が多いことは農業にとってよいことなので、農業が安定したのは予想どおりの結果であり、合いません。
+4 On the contrary は「それどころか、反対に」で、前の内容を打ち消すときに使います。後ろの文は前の文を打ち消していないので合いません。
+【覚えるポイント】
+・Consequently：「その結果、したがって」。前の文が原因、後ろの文が結果になっているときに使われます。
+・つなぎ言葉の空所では、前の文と後ろの文が「原因と結果」「似た例」「反対の内容」のどの関係かを先に決めると手がかりになります。

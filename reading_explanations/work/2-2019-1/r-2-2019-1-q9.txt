@@ -1,0 +1,29 @@
+---
+choices: temporary | brilliant | entire | portable
+answerText: temporary
+reviewed: yes
+---
+【正解】1 temporary（一時的な、仮の）
+【和訳】
+（英文）
+A: I heard that Paula has moved into your house. Is it true?
+B: Yes, but it's only ［temporary］. Her new apartment will be ready in a few weeks.
+（訳）
+A：ポーラがあなたの家に引っ越してきたと聞いたよ。本当？
+B：うん。でも、（一時的な）ことにすぎないよ。彼女の新しいアパートが数週間で用意できるんだ。
+（選択肢の意味）
+1 temporary：一時的な、仮の
+2 brilliant：すばらしい、輝かしい
+3 entire：全体の、まるごとの
+4 portable：持ち運びのできる
+【考え方】
+Aは「ポーラがあなたの家に引っ越してきたのは本当か」とたずねています。Bは Yes, but it's only (　).（うん、でも、それは（　）にすぎない）と答えています。only は「～にすぎない、～だけ」という意味です。
+そのあとの Her new apartment will be ready in a few weeks.（彼女の新しいアパートは数週間で用意できる）に注目します。数週間たてば、ポーラは新しいアパートに移ることになります。つまり、Bの家に住むのは短い間だけだと分かります。
+temporary は「一時的な、仮の（短い間だけの）」という意味です。it's only temporary で「一時的なことにすぎない」となり、次の文の内容と合います。ですから、1が正解です。
+【ほかの選択肢】
+2 brilliant は「すばらしい、輝かしい」です。「すばらしいことにすぎない」となり、but（でも）でつなぐ意味も、次の文の「数週間で新しいアパートが用意できる」ともつながりません。
+3 entire は「全体の、まるごとの」です。「全体にすぎない」となり、意味が通りません。
+4 portable は「持ち運びのできる」です。物について使う語で、引っ越して住んでいることを説明する文には合いません。
+【覚えるポイント】
+・temporary：「一時的な」。反対の意味の語は permanent（永久の、ずっと続く）です。
+・in a few weeks：「数週間で、数週間後に」。in ＋時間 で「（今から）～後に」を表します。

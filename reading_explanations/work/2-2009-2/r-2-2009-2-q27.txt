@@ -1,0 +1,26 @@
+---
+choices: replaced | protected | provided | decorated
+answerText: protected
+reviewed: yes
+---
+【正解】2 protected（～を守った）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 replaced：～を取り替えた、～に取って代わった
+2 protected：～を守った
+3 provided：～を与えた、～を用意した
+4 decorated：～を飾った
+【考え方】
+空所は第2段落の This not only (　) the dishes but also made them much cleaner.（これは食器を～しただけでなく、食器をずっときれいにもした）という文にあります。not only A but also B は「AだけでなくBも」という意味で、AとBの2つのよい点を並べています。This は、すぐ前に書かれている「食器をかごに入れて熱い石けん水を吹きかける」という設計を指します。
+ここで、コクランがなぜ食器洗い機を作ったかを思い出します。第1段落に Her problem was that the dishes often got damaged as they were being washed.（彼女の悩みは、食器が洗われている間によく傷つくことだった）とあり、Cochrane wanted to find a safer way to clean her valuable dishes.（高価な食器をきれいにする、もっと安全な方法を見つけたかった）と続きます。
+また、第2段落の初めにも a design for a dishwasher that did less damage to dishes than washing them by hand（手で洗うよりも食器を傷つけることが少ない食器洗い機の設計）とあります。
+つまり、この設計のよい点の1つは「食器を傷つけない」ことです。protect は「～を守る」という意味なので、protected the dishes で「食器を（傷から）守った」となります。もう1つのよい点 made them much cleaner（ずっときれいにした）と並べても自然です。正解は2です。
+【ほかの選択肢】
+1 replaced は「～を取り替えた」です。「食器を取り替えた」となり、食器を傷つけずに洗うという設計の説明になりません。
+3 provided は「～を与えた、～を用意した」です。「食器を用意した」となり、洗い方の説明として意味が通りません。
+4 decorated は「～を飾った」です。この設計は食器を洗うためのもので、食器を飾ることとは関係がありません。
+【覚えるポイント】
+・not only A but also B：「AだけでなくBも」。
+・do damage to ～：「～に損害を与える、～を傷つける」。do less damage で「傷つけることが少ない」。

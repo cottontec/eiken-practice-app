@@ -1,0 +1,31 @@
+---
+choices: the Vikings did not originally come from Scandinavia. | the Vikings did not play an important role in world history. | people living in Scandinavia now are not related to the Vikings. | most people's view of the Vikings is not completely accurate.
+answerText: most people's view of the Vikings is not completely accurate.
+reviewed: yes
+---
+【正解】4 most people's view of the Vikings is not completely accurate.（バイキングについてのほとんどの人の見方は、完全に正しいわけではない）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：現代の研究によると、～。
+1 the Vikings did not originally come from Scandinavia.（バイキングは、もともとスカンジナビアの出身ではなかった。）
+2 the Vikings did not play an important role in world history.（バイキングは、世界の歴史で重要な役割を果たさなかった。）
+3 people living in Scandinavia now are not related to the Vikings.（現在スカンジナビアに住んでいる人々は、バイキングとつながりがない。）
+4 most people's view of the Vikings is not completely accurate.（バイキングについてのほとんどの人の見方は、完全に正しいわけではない。）
+【考え方】
+設問の According to modern research（現代の研究によると）と同じ modern research が、第1段落に出てきます。
+・The traditional image of the Vikings is that they were warriors who attacked communities, killed people, and stole their wealth.（バイキングの伝統的なイメージは、共同体を襲い、人々を殺し、その富を奪った戦士というものだ）
+・Although some did such things, modern research has shown that they were much more than just violent robbers.（そのようなことをした者もいたが、現代の研究によって、彼らが単なる乱暴な強盗よりもはるかに大きな存在だったことが分かってきた）
+つまり、多くの人が持っている「乱暴な戦士」というイメージは一部では当たっているものの、それだけではバイキングの姿を正しく表していない、ということです。
+本文と選択肢を対にすると、次のようになります。
+本文 The traditional image of the Vikings（バイキングの伝統的なイメージ）→ 選択肢 most people's view of the Vikings（バイキングについてのほとんどの人の見方）
+本文 Although some did such things ... they were much more than just violent robbers（そうした者もいたが、単なる乱暴な強盗よりはるかに大きな存在だった）→ 読み取れること：そのイメージは完全に正しいわけではない（選択肢の not completely accurate）
+not completely は「完全に～というわけではない」と一部を否定する言い方で、「そうした者もいた」という本文の内容とも合います。ですから4が正解です。
+【ほかの選択肢】
+1 本文の内容と反対です。第1段落の最初に The Vikings were a group of people from Scandinavia（バイキングはスカンジナビア出身の人々の集団だった）とあります。
+2 本文の内容と合いません。第1段落に They had a rich culture of their own which had a wide influence in Europe.（彼らには独自の豊かな文化があり、ヨーロッパに幅広い影響を与えた）とあり、第2段落には、彼らが多くの場所に旅した最初のヨーロッパ人だったことも書かれています。
+3 現在スカンジナビアに住む人々とバイキングとのつながりについては、本文に書かれていません。
+【覚えるポイント】
+・not completely ～：「完全に～というわけではない」。一部を否定する言い方です。
+・much more than just ～：「単なる～よりはるかに大きな存在、～だけではない」。

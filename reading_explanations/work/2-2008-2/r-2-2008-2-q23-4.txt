@@ -1,0 +1,22 @@
+---
+choices: words | not | 3,000 | than | less
+answerText: 3,000
+order: 2 5 4 3 1
+reviewed: yes
+---
+【正解】3 3,000（この問題の4番目）
+【完成文】
+The teacher told the students that their history reports should be ( not less than 3,000 words ) long.
+並べ方：2 not → 5 less → 4 than → 3 3,000 → 1 words（2番目は5、4番目は3）
+【和訳】
+先生は生徒たちに、歴史のレポートは少なくとも3,000語の長さにするように言いました。それより短いレポートには、低い成績をつけると言いました。
+【考え方】
+まず、次の文を見ます。He said that shorter reports would be given a lower grade.（それより短いレポートには低い成績がつけられる、と先生は言った）。つまり先生は、レポートの長さに「これ以上は必要」という下の限度を決めたと分かります。
+次に、空所のあとの long に注目します。数量 ＋ long で「（数量）の長さ」となります。ですから、long の直前には 3 3,000 と 1 words を並べた 3,000 words（3,000語）が来ます。
+残りは 2 not・5 less・4 than です。less than ～ は「～より少ない」ですが、その前に not を置いた not less than ～ は「～より少なくない」、つまり「少なくとも～」という意味になります。これが「短いレポートは低い成績になる」という次の文と合います。
+したがって not less than 3,000 words long（少なくとも3,000語の長さ）が完成します。
+この問題で問われている4番目は 3 3,000 です。than のあとに比べる数の 3,000 を置き、そのあとに単位の words を続けるので、3,000 が4番目になります。
+まちがえやすいのは less than not のように not を後ろに置く並べ方や、not を外して less than 3,000 words とする考え方です。less than 3,000 words だけでは「3,000語より少ない」となり、次の文と反対の意味になってしまいます。
+【覚えるポイント】
+・not less than ～：「～より少なくない、少なくとも～」。at least ～ と同じような意味です。
+・数量 ＋ long：「（数量）の長さの」。3,000 words long で「3,000語の長さの」。

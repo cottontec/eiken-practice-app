@@ -1,0 +1,34 @@
+---
+choices: Higgins wanted to produce a novel which proved that the traditional rules of crime fiction still held true in modern times. | The novel is unusual because Higgins tells the story through interactions between the characters rather than by describing specific events in detail. | Higgins relied heavily on dialogue throughout the novel because he lacked the confidence to write long passages of narration. | Although the novel provides an authentic description of the criminal world, Higgins did not consider it to be a true crime novel.
+answerText: The novel is unusual because Higgins tells the story through interactions between the characters rather than by describing specific events in detail.
+reviewed: yes
+---
+【正解】2 The novel is unusual because Higgins tells the story through interactions between the characters rather than by describing specific events in detail.（ヒギンズが、具体的な出来事をくわしく描くのではなく、登場人物どうしのやりとりを通して物語を語っているので、この小説は珍しい。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：In the second paragraph, what do we learn about The Friends of Eddie Coyle?（第2段落で、『エディ・コイルの友人たち』について何が分かるか。）
+1 Higgins wanted to produce a novel which proved that the traditional rules of crime fiction still held true in modern times.（ヒギンズは、犯罪小説の昔からの決まりが現代でもまだ当てはまることを証明する小説を作りたかった。）
+2 The novel is unusual because Higgins tells the story through interactions between the characters rather than by describing specific events in detail.（ヒギンズが、具体的な出来事をくわしく描くのではなく、登場人物どうしのやりとりを通して物語を語っているので、この小説は珍しい。）
+3 Higgins relied heavily on dialogue throughout the novel because he lacked the confidence to write long passages of narration.（ヒギンズは、長い語りの文章を書く自信がなかったので、小説全体で会話に大きく頼った。）
+4 Although the novel provides an authentic description of the criminal world, Higgins did not consider it to be a true crime novel.（この小説は犯罪の世界を本物どおりに描いているが、ヒギンズはそれを本当の犯罪小説だとは考えていなかった。）
+【考え方】
+まず見るところ：第2段落の One aspect that distinguishes ～ is that it is written almost entirely in dialogue. と、Important events are not described directly, ～
+第2段落の最初に、この小説がほかの犯罪小説とどう違うのかが書かれています。
+One aspect that distinguishes The Friends of Eddie Coyle from other crime novels is that it is written almost entirely in dialogue.（『エディ・コイルの友人たち』をほかの犯罪小説と区別する点の一つは、それがほとんどすべて会話で書かれていることだ）
+distinguish A from B は「AをBと区別する」、dialogue は「会話」です。続いて this was a highly original approach（これは非常に独創的なやり方だった）とあり、さらに次の文があります。
+Important events are not described directly, instead being introduced through conversations between characters in the novel.（重要な出来事は直接描かれず、その代わりに、小説の登場人物どうしの会話を通して示される）
+本文と選択肢2を対にすると、次のようになります。
+・本文 distinguishes ～ from other crime novels / a highly original approach（ほかの犯罪小説と区別する／非常に独創的なやり方）→ 選択肢 The novel is unusual（この小説は珍しい）
+・本文 through conversations between characters（登場人物どうしの会話を通して）→ 選択肢 through interactions between the characters（登場人物どうしのやりとりを通して）
+・本文 Important events are not described directly（重要な出来事は直接描かれない）→ 選択肢 rather than by describing specific events in detail（具体的な出来事をくわしく描くのではなく）
+よって2が正解です。
+この問題の型：言いかえ（conversations between characters → interactions between the characters）
+【ほかの選択肢】
+1 本文に書かれていません。本文は、犯罪小説がふつうは注意深く組み立てられた筋書きに頼っていることにふれ、それと比べて会話だけで書くのは「非常に独創的なやり方」だったと述べています。昔からの決まりが今も当てはまることを証明したかった、という話は書かれていません。
+3 本文に書かれていません。語りの部分を控えめにしたことは書かれていますが、その理由が「自信がなかったから」だとは書かれていません。第3段落には、会話を通して語るのが最も引きつける方法だという、ヒギンズの信念が書かれています。
+4 本文に書かれていません。この小説は犯罪の世界を現実に近い形で描いていますが、ヒギンズがそれを本当の犯罪小説だと考えていなかった、という話はありません。本文はこの作品を This crime novel（この犯罪小説）と呼んでいますが、ヒギンズ自身がどう考えていたかは書かれていません。
+【覚えるポイント】
+・distinguish A from B：「AをBと区別する」。dialogue：「会話」。original approach：「独創的なやり方」。
+・設問が In the second paragraph のように段落を指定しているときは、その段落の最初の文（ここでは One aspect that distinguishes ～）にまとめが書かれていることが多く、選択肢の unusual のような言いかえを見つける手がかりになります。

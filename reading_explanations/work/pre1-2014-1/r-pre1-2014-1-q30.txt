@@ -1,0 +1,28 @@
+---
+choices: signals from dogs near them | how well they know a given area | whether their owner can see them | how often commands are repeated
+answerText: whether their owner can see them
+reviewed: yes
+---
+【正解】3 whether their owner can see them（飼い主に自分が見えているかどうか）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 signals from dogs near them（近くにいるほかの犬からの合図）
+2 how well they know a given area（ある場所をどれだけよく知っているか）
+3 whether their owner can see them（飼い主に自分が見えているかどうか）
+4 how often commands are repeated（命令が何回くり返されるか）
+【考え方】
+空所のある文は Instead, dogs seem to base their behavior on ( 30 ).（そうではなく、犬は〇〇に基づいて行動しているようだ）です。base A on B は「AをBに基づかせる、Bをもとに決める」という意味です。Instead（そうではなく）があるので、直前の文で否定された内容の「代わりの答え」が空所に入ります。
+第2段落の流れを順に確かめます。
+1つ目の事実：most dogs will eat food when their owner leaves the room（たいていの犬は、飼い主が部屋を出ていくと食べ物を食べる）。
+2つ目の事実：even when its owner is present, a dog will eat the food if the room is dark（飼い主がその場にいても、部屋が暗ければ犬は食べ物を食べる）。
+そして直前の文で、The presence of its owner, therefore, is not what influences a dog's actions.（したがって、犬の行動に影響を与えているのは、飼い主がその場にいることではない）とまとめています。
+2つの場面に共通しているのは、「飼い主が部屋にいない」か「部屋が暗い」かのどちらの場合も、飼い主から犬の姿が見えない、という点です。段落の最初にも、犬は what humans can perceive（人間が何を知覚できるか）を理解できるのかもしれない、と書かれています。ですから、犬は「飼い主に自分が見えているかどうか」をもとに行動を決めていると考えられます。よって3が正解です。
+【ほかの選択肢】
+1 「近くにいるほかの犬からの合図」は、本文に出てきません。実験の話には、ほかの犬は登場しません。
+2 「ある場所をどれだけよく知っているか」も、本文に根拠がありません。部屋が明るいか暗いかは書かれていますが、犬がその場所に慣れているかどうかは問題にされていません。
+4 「命令が何回くり返されるか」も、本文にありません。本文には「食べてはいけないと命令された後でも」とありますが、命令の回数によって行動が変わるという話は出てきません。
+【覚えるポイント】
+・base A on B：「AをBに基づかせる」。base one's behavior on ～ で「～をもとに行動を決める」。
+・Instead：「そうではなく、その代わりに」。前で否定した内容の代わりになる答えが後ろにきます。

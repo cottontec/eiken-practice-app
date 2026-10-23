@@ -1,0 +1,27 @@
+---
+choices: finish | been finished | finishing | finished
+answerText: finished
+reviewed: yes
+---
+【正解】4 finished（終えた）
+【和訳】
+（英文）
+Having ［finished］ his cup of coffee, Harry paid his bill and left the café.
+（訳）
+コーヒーを1杯飲み（終える）と、ハリーは代金を払ってカフェを出ました。
+（選択肢の意味）
+1 finish：終える（原形）
+2 been finished：終えられた（受け身の形）
+3 finishing：終えている（-ing の形）
+4 finished：終えた（過去分詞）
+【考え方】
+この文は Having ( ) his cup of coffee, のあとに、Harry paid his bill and left the café.（ハリーは代金を払ってカフェを出た）と続いています。文の頭の Having ～ の部分は、「～して、…した」とあとの文に説明を付け足す形です。
+Having のあとには過去分詞（finished のように、have のあとに置いて「～してしまった」を表す形）が来ます。Having finished ～ で「～を終えてしまってから」という意味になり、あとの文の動作より前にすんだことを表します。
+コーヒーを飲み終えたのは、代金を払って店を出るより前のことです。Having finished his cup of coffee で「コーヒーを飲み終えてから」となり、順番が正しく表せます。ですから、4が正解です。
+【ほかの選択肢】
+1 finish は原形（もとの形）です。Having のあとに原形は置けません。
+2 been finished は「終えられた」という受け身の形です。Having been finished にすると「ハリーが終えられた」という意味になってしまい、あとの his cup of coffee（コーヒー）を「ハリーが終えた」という文になりません。
+3 finishing は -ing の形です。Having finishing という形は英語にありません。
+【覚えるポイント】
+・Having ＋過去分詞 ～, ...：「～してしまってから…」。あとの文より前にすんだことを表します。
+・After he had finished his coffee, Harry paid his bill. のように書きかえることもできます。

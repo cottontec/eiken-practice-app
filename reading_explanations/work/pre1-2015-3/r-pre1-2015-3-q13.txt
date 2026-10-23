@@ -1,0 +1,29 @@
+---
+choices: exceptional | deceased | habitual | blatant
+answerText: exceptional
+reviewed: yes
+---
+【正解】1 exceptional（並外れた、とびぬけて優秀な）
+【和訳】
+（英文）
+Only a few truly ［exceptional］ students are able to complete the course in six months. For everyone else, it takes a full year.
+（訳）
+本当に（とびぬけて優秀な）ごく少数の学生だけが、その課程を6か月で修了することができる。それ以外のすべての人にとっては、まる1年かかる。
+（選択肢の意味）
+1 exceptional：並外れた、とびぬけて優秀な、例外的な
+2 deceased：亡くなった
+3 habitual：習慣的な、いつもの
+4 blatant：見え透いた、あからさまな
+【考え方】
+まず見るところ：文の初めの Only a few と、次の文の For everyone else, it takes a full year.
+最初の文は、Only a few（ごく少数だけが）その課程を6か月で終えられる、と言っています。
+For everyone else, it takes a full year.（それ以外のすべての人にとっては、まる1年かかる）
+ふつうの人は1年かかるところを、半分の6か月で終えられるのは、特別にできる人だけだと分かります。exceptional は「並外れた、とびぬけて優秀な」という意味なので、「本当にとびぬけて優秀なごく少数の学生だけが」となり、次の文との対比（2つを比べて違いを示すこと）にも合います。ですから1が正解です。
+この問題の型：対比（6か月で終えるごく少数 ⇔ 1年かかるそれ以外の人）
+【ほかの選択肢】
+2 deceased は「亡くなった」です。亡くなった学生が課程を修了することはできないので、意味が通りません。
+3 habitual は「習慣的な、いつもの」です。「本当にいつもの学生」となり、6か月で終えられる特別な学生を表す語として合いません。
+4 blatant は「見え透いた、あからさまな」で、うそや悪い行いなどを説明する語です。課程を早く終える学生の説明としては合いません。
+【覚えるポイント】
+・exceptional：「並外れた、とびぬけて優秀な」。「ふつうの例から外れるほど優れた」というイメージの語です。
+・Only a few ～ と For everyone else ～ のように、少数の人とそれ以外の人が比べられているときは、少数の人の特別さを表す語が入る手がかりになります。

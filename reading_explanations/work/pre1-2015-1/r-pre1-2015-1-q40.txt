@@ -1,0 +1,33 @@
+---
+choices: Students of well-paid teachers are more likely to go on to receive a college education. | Students in low-income areas should have access to the same equipment and resources that those in wealthy areas have. | Students show the most progress when they are instructed by skilled individuals who possess a high level of knowledge about education. | Students in low-income areas are best motivated by teachers with socioeconomic backgrounds similar to their own.
+answerText: Students show the most progress when they are instructed by skilled individuals who possess a high level of knowledge about education.
+reviewed: yes
+---
+【正解】3 Students show the most progress when they are instructed by skilled individuals who possess a high level of knowledge about education.（生徒は、教育について高い知識をもつ、技能のある人に教えられるときに、最も伸びる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What does Richard Kahlenberg say about student achievement?（リチャード・カーレンバーグは、生徒の学力について何と言っているか。）
+1 Students of well-paid teachers are more likely to go on to receive a college education.（給料のよい教師の生徒は、〔そうでない教師の生徒より〕大学教育を受けることへ進む可能性が高い。）
+2 Students in low-income areas should have access to the same equipment and resources that those in wealthy areas have.（低所得の地域の生徒は、裕福な地域の生徒がもっているのと同じ設備や教材を使えるようにするべきだ。）
+3 Students show the most progress when they are instructed by skilled individuals who possess a high level of knowledge about education.（生徒は、教育について高い知識をもつ、技能のある人に教えられるときに、最も伸びる。）
+4 Students in low-income areas are best motivated by teachers with socioeconomic backgrounds similar to their own.（低所得の地域の生徒は、自分と似た社会経済的な背景〔家庭の収入や社会での立場〕をもつ教師によって、最もやる気を引き出される。）
+【考え方】
+まず見るところ：第3段落の teacher expertise is one of the most important factors in determining student achievement
+カーレンバーグの言葉は、第3段落に引用されています。
+education specialist Richard Kahlenberg points out that "a growing body of research indicates that teacher expertise is one of the most important factors in determining student achievement."（教育の専門家であるリチャード・カーレンバーグは、「ますます多くの研究が、教師の専門的な知識や技能が、生徒の学力を決める最も重要な要因の一つであることを示している」と指摘している）
+expertise は「専門的な知識や技能」、factor は「要因（結果を左右するもの）」、determine は「決める」です。
+この直前の文では、貧しい地域の学校が skilled, committed teachers（技能があって熱心な教師）を集めるのに苦労している、と書かれています。カーレンバーグの言葉は、それが小さな問題ではない理由として引用されています。
+本文と選択肢を対にすると、次のようになります。
+本文 teacher expertise（教師の専門的な知識や技能）→ 選択肢 skilled individuals who possess a high level of knowledge about education（教育について高い知識をもつ、技能のある人）
+本文 one of the most important factors in determining student achievement（生徒の学力を決める最も重要な要因の一つ）→ 選択肢 Students show the most progress when ～（～のとき生徒は最も伸びる）
+本文は「最も重要な要因の一つ」という言い方で、選択肢は「最も伸びる」という言い方なので、まったく同じ文ではありません。しかし、4つの選択肢のうち、カーレンバーグの「教師の専門性が生徒の学力を大きく左右する」という内容に合うのは3だけです。ですから3が正解です。
+この問題の型：言いかえ（teacher expertise → skilled individuals with knowledge about education）
+【ほかの選択肢】
+1 本文の Teaching is not a well-paid career in the United States（アメリカでは教職は給料のよい仕事ではない）は、カーレンバーグの言葉のあとに書かれた筆者の説明です。カーレンバーグが、給料のよい教師の生徒は大学へ進みやすいと言っているわけではありません。
+2 本文には、設備や教材をそろえるべきだという話はありません。カーレンバーグが述べているのは、教師の専門的な知識や技能の大切さです。
+4 本文には、生徒と似た社会経済的な背景をもつ教師がよい、という話はありません。カーレンバーグが重要だと言っているのは、教師の背景ではなく専門性です。
+【覚えるポイント】
+・expertise：「専門的な知識や技能」。skilled（技能のある）や a high level of knowledge（高い知識）と言いかえられることがあります。
+・人物の意見をたずねる設問では、その人の名前のあとの引用（" "）の中身と、その前後にある筆者自身の説明とを分けて読むことが手がかりになります。

@@ -1,0 +1,34 @@
+---
+choices: Authorities will not allow the use of Dracula to promote tourism until all historical details relating to the legend are corrected. | Tourists to Romania are encouraged to visit areas that have no connection to either the Dracula legend or Vlad III. | The Ministry of Tourism disagrees with other ministries about whether promoting Dracula is good for the country. | While recognizing Dracula's appeal to tourists, officials direct them to places of interest with a historical focus.
+answerText: While recognizing Dracula's appeal to tourists, officials direct them to places of interest with a historical focus.
+reviewed: yes
+---
+【正解】4 While recognizing Dracula's appeal to tourists, officials direct them to places of interest with a historical focus.（当局者たちは、ドラキュラが観光客を引きつけることを認めながらも、観光客を歴史に重点を置いた名所へと向かわせている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What best characterizes the current stance of the Romanian government toward Dracula tourism?（ドラキュラ観光に対するルーマニア政府の現在の立場を最もよく表しているものはどれですか。）
+1 Authorities will not allow the use of Dracula to promote tourism until all historical details relating to the legend are corrected.（当局は、伝説に関係する歴史の細かい点がすべて正されるまで、観光を宣伝するためにドラキュラを使うことを許さない。）
+2 Tourists to Romania are encouraged to visit areas that have no connection to either the Dracula legend or Vlad III.（ルーマニアを訪れる観光客は、ドラキュラ伝説ともヴラド3世とも関係のない地域を訪れるようにすすめられている。）
+3 The Ministry of Tourism disagrees with other ministries about whether promoting Dracula is good for the country.（観光省は、ドラキュラを宣伝することが国のためになるかどうかについて、ほかの省と意見が合っていない。）
+4 While recognizing Dracula's appeal to tourists, officials direct them to places of interest with a historical focus.（当局者たちは、ドラキュラが観光客を引きつけることを認めながらも、観光客を歴史に重点を置いた名所へと向かわせている。）
+【考え方】
+まず見るところ：第3段落の More recently, ～ と、最後の However, it is strongly biased toward historical fact, ～
+設問の current stance は「現在の立場」です。第3段落の後半に、最近の政府の様子が書かれています。
+More recently, Romania's Ministry of Tourism decided Dracula's value as a means of improving the economy through tourism was too great to ignore.（より最近になって、ルーマニアの観光省は、観光を通じて経済をよくする手段としてのドラキュラの価値は、大きすぎて無視できないと判断した）
+The national tourism website now features information about Dracula-related sites and activities.（国の観光ウェブサイトには現在、ドラキュラに関係する場所や活動についての情報が載っている）
+However, it is strongly biased toward historical fact, emphasizing sightseeing attractions in the region that have a connection to actual events.（しかし、そのサイトは歴史的な事実に強くかたよっており、その地方の観光名所のうち、実際の出来事と関係のあるものを強調している）
+be biased toward ～ は「～のほうにかたよっている」、emphasize は「強調する」です。政府はドラキュラの観光の価値を認めつつ、紹介するのは歴史に関係のある場所が中心だと分かります。
+本文と選択肢を対にすると、次のようになります。
+本文 Dracula's value ～ was too great to ignore（ドラキュラの価値は大きすぎて無視できない）→ 選択肢 recognizing Dracula's appeal to tourists（ドラキュラが観光客を引きつけることを認める）
+本文 emphasizing sightseeing attractions ～ that have a connection to actual events（実際の出来事と関係のある観光名所を強調している）→ 選択肢 direct them to places of interest with a historical focus（観光客を歴史に重点を置いた名所へと向かわせる）
+ですから4が正解です。
+この問題の型：言いかえ（biased toward historical fact → with a historical focus）
+【ほかの選択肢】
+1 第3段落には、国の観光ウェブサイトに現在ドラキュラに関係する場所や活動の情報が載っていると書かれています。すでにドラキュラを観光に使っているので、「歴史の細かい点が正されるまで許さない」は本文と合いません。
+2 本文では、ウェブサイトは実際の出来事と関係のある名所を強調していると書かれていますが、ドラキュラ伝説ともヴラド3世とも関係のない地域をすすめているとは書かれていません。サイトにはドラキュラに関係する場所や活動の情報も載っていると書かれているので、ドラキュラと関係のない地域をすすめているとは言えません。
+3 本文に出てくるのは観光省だけで、ほかの省と意見が分かれているという話はありません。本文にない内容です。
+【覚えるポイント】
+・be biased toward ～：「～のほうにかたよっている」。選択肢では with a historical focus（歴史に重点を置いた）と言いかえられています。
+・設問に current（現在の）とあるときは、本文の now や More recently のような今の時期を示す語のあとを読むことが、答えの手がかりになります。

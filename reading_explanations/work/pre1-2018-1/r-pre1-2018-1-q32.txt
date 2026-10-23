@@ -1,0 +1,34 @@
+---
+choices: Although officials claimed it would reduce air pollution, it had little effect when tested in other neighborhoods. | It only covered a limited area, so critics pointed out it would fail to reduce traffic in Manhattan as a whole. | Although it was generally popular, there were concerns it would have a negative economic effect on the area. | The mayor stopped promoting it because citizens complained it would force them to shop at inconvenient times.
+answerText: Although it was generally popular, there were concerns it would have a negative economic effect on the area.
+reviewed: yes
+---
+【正解】3 Although it was generally popular, there were concerns it would have a negative economic effect on the area.（その計画はおおむね人気があったが、その地域の経済に悪い影響を与えるのではないかという懸念があった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Why was the 1971 plan to ban cars from entering Manhattan's business district never put into effect?（マンハッタンのビジネス街に車が入るのを禁止する1971年の計画は、なぜ実行されなかったのか。）
+1 Although officials claimed it would reduce air pollution, it had little effect when tested in other neighborhoods.（当局者たちは大気汚染を減らすと主張したが、ほかの地区で試したところ、ほとんど効果がなかった。）
+2 It only covered a limited area, so critics pointed out it would fail to reduce traffic in Manhattan as a whole.（限られた地域しか対象にしていなかったので、批判する人々は、マンハッタン全体の交通量は減らせないだろうと指摘した。）
+3 Although it was generally popular, there were concerns it would have a negative economic effect on the area.（その計画はおおむね人気があったが、その地域の経済に悪い影響を与えるのではないかという懸念があった。）
+4 The mayor stopped promoting it because citizens complained it would force them to shop at inconvenient times.（市民が、不便な時間に買い物をしなければならなくなると不満を言ったので、市長はその計画を勧めるのをやめた。）
+【考え方】
+まず見るところ：第1段落の was widely applauded by citizens と、Unfortunately, a recession made local businesses worry ～
+第1段落で、1971年の計画がどうなったかが書かれています。まず、市民の反応です。
+The plan, promoted as a solution to the air pollution problem, was widely applauded by citizens.（大気汚染問題の解決策として宣伝されたその計画は、市民から広く支持された）
+applaud は「拍手を送る、称賛する」です。次の文で、計画が実行されなかった理由が書かれています。
+Unfortunately, a recession made local businesses worry the no-car zone would keep away potential customers, so the proposal was defeated.（残念なことに、不景気のために、地元の企業は車の乗り入れ禁止区域が客になりそうな人々を遠ざけるのではないかと心配し、その提案は否決された）
+recession は「不景気（お金の回りが悪くなること）」、potential customers は「客になりそうな人々」です。
+本文と選択肢3を対にすると、次のようになります。
+・本文 was widely applauded by citizens（市民から広く支持された）＝ 選択肢 it was generally popular（おおむね人気があった）
+・本文 local businesses worry the no-car zone would keep away potential customers（地元の企業は、客が遠ざかるのではないかと心配した）→ 選択肢 there were concerns it would have a negative economic effect on the area（地域の経済に悪い影響を与えるという懸念があった）
+客が来なくなるのは、地元の店や会社のもうけが減ること、つまり地域の経済への悪い影響です。よって3が正解です。
+この問題の型：言いかえ（keep away potential customers → negative economic effect）
+【ほかの選択肢】
+1 本文にありません。計画は大気汚染の解決策として宣伝されましたが、ほかの地区で試したという話は書かれていません。
+2 本文にありません。禁止の対象は a crowded area of Manhattan's business district（ビジネス街の中の混雑した地域）でしたが、その範囲がせまいと批判されたという話はありません。
+4 人物と理由が本文と違います。心配したのは市民ではなく local businesses（地元の企業）で、市民は計画を広く支持していました。市長が勧めるのをやめたという話もなく、計画は proposal was defeated（否決された）と書かれています。
+【覚えるポイント】
+・be widely applauded：「広く称賛される、支持される」。be defeated：「（提案などが）否決される」。
+・「なぜ実行されなかったか」をたずねる設問では、Unfortunately（残念なことに）や so（だから）のあとに理由と結果が書かれていることが多いので、そこを探すのが手がかりになります。

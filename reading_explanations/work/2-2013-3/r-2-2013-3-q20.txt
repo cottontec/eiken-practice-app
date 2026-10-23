@@ -1,0 +1,23 @@
+---
+choices: stolen | steal | to steal | stealing
+answerText: stolen
+reviewed: yes
+---
+【正解】1 stolen（have ＋ もの ＋ stolen で「ものを盗まれる」）
+【和訳】
+ダイアナはレストランでハンドバッグを（盗まれました）。彼女はそれを隣の席に置いていて、彼女が見ていないときに、だれかがそれを持っていったのです。
+（選択肢の意味）
+1 stolen：盗まれた（steal の過去分詞）
+2 steal：盗む（元の形）
+3 to steal：盗むこと、盗むための
+4 stealing：盗んでいる
+【考え方】
+2文目の someone took it when she was not looking（彼女が見ていないときに、だれかがそれを持っていった）から、ハンドバッグは盗まれたと分かります。
+1文目は Diana had her purse (　) at a restaurant. です。have ＋ もの ＋ 過去分詞（「～された」という意味を表す動詞の形）で「ものを～される」という意味になります。ハンドバッグは「盗む」のではなく「盗まれる」側なので、steal（盗む）の過去分詞 stolen を入れます。had her purse stolen で「ハンドバッグを盗まれた」となります。したがって1が正解です。
+【ほかの選択肢】
+2 steal は元の形です。have ＋ 人 ＋ 元の形 は「人に～させる、してもらう」という意味で、had her purse steal では「ハンドバッグに盗ませた」となり、意味が通りません。
+3 to steal を入れると had her purse to steal となりますが、have ＋ もの ＋ to ～ の形では「ものを～される」という意味になりません。盗まれたという2文目の内容を表せません。
+4 stealing を入れると had her purse stealing となり、ハンドバッグが何かを「盗んでいる」ことになってしまうので、意味が通りません。
+【覚えるポイント】
+・have ＋ もの ＋ 過去分詞：「ものを～される」（いやなことをされたとき）、「ものを～してもらう」。
+・steal - stole - stolen：「盗む」の形の変化。

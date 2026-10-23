@@ -1,0 +1,32 @@
+---
+choices: a series of | the edge of | a member of | the back of
+answerText: a series of
+reviewed: yes
+---
+【正解】1 a series of（一連の、いくつも続く）
+【和訳】
+（英文）
+After ［a series of］ tests, the doctors discovered that Masahiro had a rare illness. They immediately started treating him.
+（訳）
+（一連の）検査のあと、医師たちは、マサヒロがめずらしい病気にかかっていることを発見しました。医師たちはすぐに彼の治療を始めました。
+（選択肢の意味）
+1 a series of：一連の、いくつも続く
+2 the edge of：～のはし、～のふち
+3 a member of：～の一員
+4 the back of：～の裏、～の後ろ
+【考え方】
+まず見るところ：空所のあとの tests と、discovered that Masahiro had a rare illness
+空所のすぐあとの名詞は tests（検査）で、s が付いた複数形（2つ以上を表す形）です。
+After ～ tests（～の検査のあと）
+そのあとで、医師たちが分かったことが述べられています。
+the doctors discovered that Masahiro had a rare illness（医師たちは、マサヒロがめずらしい病気にかかっていることを発見した）
+rare illness（めずらしい病気）を見つけるために、いくつもの検査を続けて行ったと考えられます。
+a series of ～ は「一連の～、いくつも続く～」という意味で、あとに複数形の名詞が来ます。After a series of tests で「一連の検査のあと」となり、意味が通ります。ですから1が正解です。
+この問題の型：熟語・決まった形（a series of ＋複数形の名詞）
+【ほかの選択肢】
+2 the edge of は「～のはし、～のふち」です。「検査のはしのあと」となり、意味が通りません。
+3 a member of は「～の一員」です。「検査の一員のあと」では、検査について何も表せず、意味が通りません。
+4 the back of は「～の裏、～の後ろ」です。「検査の裏のあと」となり、病気を発見した流れに合いません。
+【覚えるポイント】
+・a series of ～：「一連の～」。rare は「めずらしい」、treat は「～を治療する」です。
+・空所のあとが tests のような複数形の名詞なら、「いくつもの」という意味を表す語句が合うかどうかを考えると、答えを決める手がかりになります。

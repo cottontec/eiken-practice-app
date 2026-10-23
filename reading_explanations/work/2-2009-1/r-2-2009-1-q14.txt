@@ -1,0 +1,24 @@
+---
+choices: brought about | consisted of | recovered from | wore out
+answerText: brought about
+reviewed: yes
+---
+【正解】1 brought about（引き起こした）
+【和訳】
+ビングリー電機は先月倒産しました。その会社の破たんを引き起こしたのは、社長のまずい判断だったと人々は言っています。
+（選択肢の意味）
+1 brought about：引き起こした
+2 consisted of：（～から）成り立っていた
+3 recovered from：（～から）回復した
+4 wore out：すり減らした、使い古した
+【考え方】
+1文目の went out of business は「倒産した、商売をやめた」という意味です。
+2文目は People say it was the president's bad decisions that (　) the company's collapse.（その会社の破たんを〜したのは、社長のまずい判断だったと人々は言う）です。it was ～ that ... は「…したのは～だ」と、～の部分を強める言い方です。collapse は「崩壊、破たん（だめになること）」という意味です。
+「社長のまずい判断」が原因で、「会社の破たん」が結果です。原因と結果をつなぐには「引き起こす」という意味の語が必要です。bring about は「引き起こす、もたらす」という意味の熟語で、ここでは過去形 brought about になっています。1が正解です。
+【ほかの選択肢】
+2 consisted of は consist of ～（～から成り立っている）の過去形です。「判断が会社の破たんから成り立っていた」となり、意味が通りません。
+3 recovered from は recover from ～（～から回復する）の過去形です。「まずい判断が破たんから回復した」となり、倒産したという1文目とも合いません。
+4 wore out は wear out（すり減らす、使い古す）の過去形です。「判断が破たんをすり減らした」では意味が通りません。
+【覚えるポイント】
+・bring about ～：「～を引き起こす、もたらす」。cause とほぼ同じ意味です。
+・go out of business：「倒産する、廃業する」。

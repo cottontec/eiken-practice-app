@@ -1,0 +1,21 @@
+---
+choices: rid | some things | get | that | of
+answerText: some things
+order: 3 1 5 2 4
+reviewed: yes
+---
+【正解】2 some things（この問題の4番目）
+【完成文】
+Miranda's apartment is very small, so she decided to ( get rid of some things that ) she no longer uses in order to make more space.
+並べ方：3 get → 1 rid → 5 of → 2 some things → 4 that（2番目は1、4番目は2）
+【和訳】
+ミランダのアパートはとても狭いので、彼女は、もっとスペースを作るために、もう使っていない物をいくつか処分することにしました。
+【考え方】
+今回は、空所のあとの部分から考えてみます。空所のすぐあとは she no longer uses（彼女はもはや使っていない）です。no longer は「もはや～ない」です。use（使う）は「何を」使うのかを後ろに必要とする動詞ですが、uses のあとには、その「何を」がありません。
+このような形は、「名詞 ＋ that ＋ 主語 ＋ 動詞」で、前の名詞に説明を付け足すときによく見られます。選択肢で名詞にあたるのは 2 some things（いくつかの物）なので、空所の最後を some things that とすると、some things that she no longer uses（彼女がもう使っていない物）というまとまりができます。ここでの that は、前の名詞に説明を付け足す働きをする関係代名詞です。
+残りは 3 get、1 rid、5 of です。空所の前の decided to のあとには動詞の元の形が来るので get から始め、get rid of ～（～を処分する）という決まった言い方にします。get rid of some things that she no longer uses で「もう使っていない物をいくつか処分する」となり、in order to make more space（もっとスペースを作るために）という目的にも合います。
+したがって4番目は2 some things です。
+get rid of は3語でひとまとまりなので、of を things のあとに回して get rid some things of that のようにすることはできません。of のすぐあとに、処分する物（some things）を置きます。
+【覚えるポイント】
+・get rid of ～：「～を処分する、～を取り除く」。
+・no longer ～：「もはや～ない」。

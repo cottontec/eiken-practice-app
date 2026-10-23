@@ -1,0 +1,30 @@
+---
+choices: Companies were not willing to sell them for personal use. | The price has been too high for most consumers. | A number of safety problems must still be overcome. | The materials required for each object cost around $5,000.
+answerText: The price has been too high for most consumers.
+reviewed: yes
+---
+【正解】2 The price has been too high for most consumers.（価格が、ほとんどの消費者にとって高すぎた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：家庭で使う人々が3Dプリンターを手に入れるのを難しくしてきたものは何ですか。
+1 Companies were not willing to sell them for personal use.（企業が、個人で使うための3Dプリンターを売りたがらなかった。）
+2 The price has been too high for most consumers.（価格が、ほとんどの消費者にとって高すぎた。）
+3 A number of safety problems must still be overcome.（いくつもの安全面の問題を、まだ乗り越えなければならない。）
+4 The materials required for each object cost around $5,000.（物を1つ作るのに必要な材料が、約5,000ドルかかる。）
+【考え方】
+家庭で使う人と3Dプリンターの関係は、第4段落に書かれています。
+まず The increasing popularity of 3-D printers is mainly due to reductions in price.（3Dプリンターの人気が高まっているのは、主に価格が下がったためだ）とあります。due to ～ は「～が原因で」、reduction は「引き下げ、減少」です。
+次に Industrial 3-D printers used to cost as much as $100,000 each（産業用の3Dプリンターは以前は1台10万ドルもした）とあります。used to ～ は「以前は～だった」、as much as ～ は「～もの（多くの額）」です。
+さらに、4,995ドルで売る計画について This will put the printer within the reach of many individual consumers.（これによって、多くの個人の消費者がこのプリンターを手に入れられるようになる）とあります。within the reach of ～ は「～の手が届くところに」です。
+「値段が下がれば手が届くようになる」ということは、これまでは値段が高すぎて、ふつうの人には手が届かなかったということです。本文と選択肢は次のように対応しています。
+本文 used to cost as much as $100,000 each（以前は1台10万ドルもした）、This will put the printer within the reach of many individual consumers（これで多くの個人の消費者の手が届くようになる）＝ 選択肢 The price has been too high for most consumers（価格がほとんどの消費者にとって高すぎた）
+正解は2です。
+【ほかの選択肢】
+1 本文には companies are now developing smaller, more affordable 3-D printers for personal use（企業は今、個人で使うための、より小さく手ごろな価格の3Dプリンターを開発している）とあります。企業が売りたがらなかったとは書かれていません。
+3 安全面の問題については、本文にまったく書かれていません。
+4 本文の4,995ドル（約5,000ドル）は、アメリカの会社が家庭向けに売る予定の3Dプリンター本体の価格です。物を1つ作るための材料の値段ではありません。
+【覚えるポイント】
+・within (the) reach of ～：「～の手が届くところに、～が手に入れられる範囲に」。
+・used to ～：「以前は～だった（今はちがう）」。

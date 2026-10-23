@@ -1,0 +1,34 @@
+---
+choices: "Families" are free to create their own rules and do not necessarily have to follow the rules contained in the community's constitution. | The number of people in a "family" is controlled to create the best conditions for resolving group issues and maintaining good relationships. | The mock battles that are intended to solve disagreements sometimes become serious and result in some members leaving their "families." | The community contains "families" of different sizes so that members can choose whether to live in a large or a small group setting.
+answerText: The number of people in a "family" is controlled to create the best conditions for resolving group issues and maintaining good relationships.
+reviewed: yes
+---
+【正解】2 The number of people in a "family" is controlled to create the best conditions for resolving group issues and maintaining good relationships.（「家族」の人数は、集団の問題を解決し、よい関係を保つのに最もよい条件を作るように管理されている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is true of the social structure at Damanhur?（ダマヌールの社会のしくみについて正しいものはどれか。）
+1 "Families" are free to create their own rules and do not necessarily have to follow the rules contained in the community's constitution.（「家族」は自由に自分たちの決まりを作ることができ、共同体の憲章にある決まりに必ずしも従う必要はない。）
+2 The number of people in a "family" is controlled to create the best conditions for resolving group issues and maintaining good relationships.（「家族」の人数は、集団の問題を解決し、よい関係を保つのに最もよい条件を作るように管理されている。）
+3 The mock battles that are intended to solve disagreements sometimes become serious and result in some members leaving their "families."（意見の対立を解決するための模擬戦は、ときどき本気の争いになり、一部のメンバーが「家族」を離れる結果になる。）
+4 The community contains "families" of different sizes so that members can choose whether to live in a large or a small group setting.（共同体にはさまざまな大きさの「家族」があり、メンバーは大きな集団で暮らすか小さな集団で暮らすかを選ぶことができる。）
+【考え方】
+まず見るところ：第3段落の Damanhur organizes its members into family-like groups of 15 to 20 people.
+第3段落では、ダマヌールの「家族」の人数について、次のように書かれています。
+Damanhur organizes its members into family-like groups of 15 to 20 people.（ダマヌールは、メンバーを15人から20人の家族のような集団に分けている）
+The community has found that creating intimacy becomes difficult if a "family" has more than 25 people.（この共同体は、「家族」が25人より多くなると、親しい関係を作るのが難しくなることに気づいた）
+In contrast, when there are too few people in the "family," there is not enough collective knowledge to allow for effective decision-making.（反対に、「家族」の人数が少なすぎると、効果的な意思決定ができるだけの共有された知識が足りなくなる）
+多すぎても少なすぎてもうまくいかないことが書かれており、人数を15人から20人にしているのはそのためだと読み取れます。本文と選択肢2を対にすると、次のようになります。
+・本文 organizes its members into family-like groups of 15 to 20 people（15人から20人の集団に分けている）→ 選択肢 The number of people in a "family" is controlled（「家族」の人数は管理されている）
+・本文 creating intimacy（親しい関係を作ること）→ 選択肢 maintaining good relationships（よい関係を保つこと）
+・本文 effective decision-making（効果的な意思決定）→ 選択肢 resolving group issues（集団の問題を解決すること）
+よって2が正解です。
+この問題の型：言いかえ（groups of 15 to 20 people → The number of people ～ is controlled）
+【ほかの選択肢】
+1 本文に書かれていません。本文には、ダマヌールの理想は憲章に示され、選挙で選ばれたリーダーたちによって守られているとあります。「家族」が自由に決まりを作り、憲章に従わなくてもよいという話はありません。
+3 本文に書かれていません。模擬戦は playful mock battles（遊びの模擬戦）として、もめごとに対処する方法として紹介されているだけです。本気の争いになったり、メンバーが「家族」を離れたりするという話はありません。
+4 本文に書かれていません。本文では「家族」を15人から20人にしていると書かれており、メンバーが大きな集団か小さな集団かを選べるという話はありません。
+【覚えるポイント】
+・intimacy：「親しさ、親しい関係」。In contrast：「反対に、それに対して」。decision-making：「意思決定（物事を決めること）」。
+・本文で「多すぎると～、反対に少なすぎると～」と両方の問題が書かれているときは、その間のちょうどよい数を選んでいる理由を表していることが多いので、選択肢がその理由を正しく言いかえているかを確かめます。

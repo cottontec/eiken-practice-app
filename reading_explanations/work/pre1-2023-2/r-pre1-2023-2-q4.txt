@@ -1,0 +1,33 @@
+---
+choices: acquainted | discharged | emphasized | subdued
+answerText: acquainted
+reviewed: yes
+---
+【正解】1 acquainted（知り合いである）
+【和訳】
+（英文）
+A: How long have you and Linda been ［acquainted］, Bill?
+B: Oh, we've known each other for at least 10 years, maybe longer.
+（訳）
+A：ビル、あなたとリンダは（知り合って）どれくらいになるの？
+B：ああ、お互いに知り合って少なくとも10年になるよ。たぶん、もっと長いね。
+（選択肢の意味）
+1 acquainted：知り合いである
+2 discharged：退院させられた、解雇された
+3 emphasized：強調された
+4 subdued：おさえつけられた、（気分が）沈んだ
+【考え方】
+まず見るところ：Bの答えの we've known each other for at least 10 years
+we've known each other for at least 10 years（私たちは少なくとも10年、お互いを知っている）
+know each other は「お互いを知っている、知り合いである」、at least は「少なくとも」という意味です。
+Bは「どれくらいの期間、知り合いなのか」に答えています。ですから、Aは「リンダとどれくらい知り合いなのか」とたずねたと考えられます。
+How long have you and Linda been ( )?（あなたとリンダはどれくらい（　）なのか）
+be acquainted は「知り合いである」という意味です。have been acquainted で「（今まで）ずっと知り合いである」となり、Bの答えとぴったり合うので、1が正解です。
+この問題の型：言いかえ（been acquainted → have known each other）
+【ほかの選択肢】
+2 discharged は「退院させられた、解雇された」です。「あなたとリンダはどれくらい退院しているの」となり、「お互いを10年知っている」というBの答えと合いません。
+3 emphasized は「強調された」です。人について「どれくらい強調されているの」とたずねても意味が通りません。
+4 subdued は「おさえつけられた、（気分が）沈んだ」です。「どれくらい元気がないの」とたずねたとすると、知り合ってからの年数を答えるBの返事と合いません。
+【覚えるポイント】
+・be acquainted：「知り合いである」。How long have you been acquainted?（どれくらい知り合いなのか）は、know each other（お互いを知っている）と同じ内容を表します。
+・会話の空所は、もう一人の答え（ここでは we've known each other）が、空所を含む質問の言いかえになっていることが多いので、答えの文を先に読むと手がかりになります。

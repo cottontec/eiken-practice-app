@@ -1,0 +1,28 @@
+---
+choices: is located in an office building in Clayton City. | does not offer health checks for newborn babies. | has a doctor who specializes in small children. | only does checkups for babies during certain months.
+answerText: does not offer health checks for newborn babies.
+reviewed: yes
+---
+【正解】2 does not offer health checks for newborn babies.（新生児の健康診断を行っていない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ピーター・ウィルカーソンは、保健局は……と言っています。
+1 is located in an office building in Clayton City.（クレイトン市のオフィスビルの中にある。）
+2 does not offer health checks for newborn babies.（新生児（生まれたばかりの赤ちゃん）の健康診断を行っていない。）
+3 has a doctor who specializes in small children.（小さな子どもを専門とするお医者さんがいる。）
+4 only does checkups for babies during certain months.（特定の月にだけ、赤ちゃんの健診を行っている。）
+【考え方】
+設問は「保健局」について、ピーターが何と言っているかをたずねています。第2段落の始めを見ます。
+To answer your first question, no, we do not perform health checks for newborns at the health department.（最初のご質問にお答えしますと、いいえ、保健局では新生児の健康診断は行っていません）
+本文と選択肢を対にすると、次のようになります。
+本文 we do not perform health checks for newborns ＝ 選択肢 does not offer health checks for newborn babies
+perform（行う）が offer（提供する、行う）に、newborns（新生児）が newborn babies（生まれたばかりの赤ちゃん）に言いかえられています。ですから、2が正解です。
+【ほかの選択肢】
+1 本文の Her office is in Clayton City（彼女の診療所はクレイトン市にある）の Her は、ピーターがすすめたピーターソン医師のことです。保健局の場所ではありません。また、オフィスビルの中にあるとも書かれていません。
+3 本文には a doctor who specializes in small children（小さな子どもを専門とするお医者さん）という言葉がありますが、これは健康診断のために赤ちゃんを連れて行く先として紹介されたお医者さんです。保健局にそのお医者さんがいるとは書かれておらず、保健局では健康診断を行っていないと書かれています。
+4 本文の 1-, 3-, 6-, 9-, and 12-month health checks（生後1か月、3か月、6か月、9か月、12か月の健康診断）を行っているのは、ピーターソン医師です。保健局は新生児の健康診断を行っていないので、人物（場所）が違います。
+【覚えるポイント】
+・perform ～：「～を行う」。offer ～（～を提供する）と言いかえられることがあります。
+・本文に同じ言葉が出てきても、それが「だれの（どこの）」話なのかを確かめます。

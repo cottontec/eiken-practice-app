@@ -1,0 +1,32 @@
+---
+choices: occupy | polish | illustrate | congratulate
+answerText: illustrate
+reviewed: yes
+---
+【正解】3 illustrate（～を〔例や図などで〕分かりやすく示す、説明する）
+【和訳】
+（英文）
+The biology professor showed his students some videos of living cells. He wanted to ［illustrate］ how cells work.
+（訳）
+生物学の教授は学生たちに、生きている細胞の動画をいくつか見せました。教授は、細胞がどのように働くかを（分かりやすく示し）たかったのです。
+（選択肢の意味）
+1 occupy：～を占める
+2 polish：～をみがく
+3 illustrate：～を（例や図などで）分かりやすく示す、説明する
+4 congratulate：～を祝う
+【考え方】
+まず見るところ：1文目の showed his students some videos of living cells
+1文目で教授がしたことを確かめます。
+The biology professor showed his students some videos of living cells.（生物学の教授は学生たちに、生きている細胞の動画をいくつか見せた）
+2文目は、教授がそうした目的を述べています。
+He wanted to ～ how cells work.（教授は、細胞がどのように働くかを～したかった）
+動画を見せたのは、細胞の働きを目で見て分かるようにするためだと考えられます。
+illustrate は「～を（例や図などで）分かりやすく示す、説明する」という意味です。「細胞がどのように働くかを分かりやすく示したかった」となり、動画を見せたこととつながります。ですから3が正解です。
+この問題の型：語の意味・組み合わせ（動画を見せる → how cells work を示す）
+【ほかの選択肢】
+1 occupy は「～を占める」です。「細胞がどのように働くかを占めたかった」となり、意味が通りません。
+2 polish は「～をみがく」です。how cells work（細胞がどのように働くか）はみがくことのできる物ではないので、合いません。
+4 congratulate は「～を祝う」です。「細胞がどのように働くかを祝いたかった」となり、動画を見せた目的として意味が通りません。
+【覚えるポイント】
+・illustrate：「～を（例や図などで）分かりやすく示す」。how cells work は「細胞がどのように働くか」です。
+・空所のあとに how ～（どのように～か）が続くときは、「説明する、示す」のような意味の動詞が入ることが多く、答えを選ぶ手がかりになります。

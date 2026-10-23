@@ -1,0 +1,35 @@
+---
+choices: ashamed | stealthy | dissimilar | tolerable
+answerText: tolerable
+reviewed: yes
+---
+【正解】4 tolerable（がまんできる、まあまあの）
+【和訳】
+（英文）
+A: How are you enjoying your new job, Roger?
+B: The work itself is a bit boring, but it's ［tolerable］. I like my colleagues, and the salary is reasonable.
+（訳）
+A：ロジャー、新しい仕事はどう？ 楽しんでいる？
+B：仕事そのものは少し退屈だけれど、（まあまあがまんできる）よ。同僚のことは好きだし、給料もそれなりだよ。
+（選択肢の意味）
+1 ashamed：恥ずかしく思っている
+2 stealthy：こっそりした、人目をしのぶ
+3 dissimilar：似ていない
+4 tolerable：がまんできる、まあまあの
+【考え方】
+まず見るところ：Bの前半の but と、後半の I like my colleagues, and the salary is reasonable.
+Bの前半の文は次のとおりです。
+The work itself is a bit boring, but it's (　).（仕事そのものは少し退屈だけれど、（　）だ）
+but（けれど）があるので、空所には「少し退屈だ」とは反対向きの、よい方向の内容が入ると考えられます。
+Bの後半の文は、その理由に当たります。
+I like my colleagues, and the salary is reasonable.（同僚のことは好きだし、給料もそれなりだ）
+colleague は「同僚（同じ職場で働く仲間）」、reasonable はここでは「（金額が）妥当な、それなりの」という意味です。
+仕事は少し退屈でも、同僚や給料にはまずまず満足しているので、「がまんできる、まあまあだ」という評価になります。tolerable は「がまんできる、まあまあの」という意味なので、4が正解です。
+この問題の型：対比（a bit boring ⇔ but よい点）
+【ほかの選択肢】
+1 ashamed は「（人が）恥ずかしく思っている」という意味で、人の気持ちを表す語です。空所の it は仕事のことなので、「仕事が恥ずかしく思っている」となり、意味が通りません。
+2 stealthy は「こっそりした」という意味です。「仕事はこっそりしている」では、同僚が好き、給料もそれなりという後の文とつながりません。
+3 dissimilar は「似ていない」という意味です。何と似ていないのかが会話に出てこず、but の後ろの評価として意味が通りません。
+【覚えるポイント】
+・tolerable：「がまんできる、まあまあの」。動詞 tolerate（がまんする）とつながっています。
+・「～だけれど（but）」の後ろの空所は、その後ろに続く理由の文（ここでは同僚や給料のよい点）とも合う語を選ぶのが手がかりになります。

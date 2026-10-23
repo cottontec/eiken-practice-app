@@ -1,0 +1,25 @@
+---
+choices: disappointing | available | rare | valuable
+answerText: available
+reviewed: yes
+---
+【正解】2 available（手に入る、利用できる）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 disappointing：がっかりさせる、期待外れの
+2 available：手に入る、利用できる
+3 rare：めったにない、珍しい
+4 valuable：価値のある、高価な
+【考え方】
+空所の前の文は Before, only organizations like universities and companies could purchase the equipment and materials to do this.（以前は、大学や企業のような組織だけが、これを行うための機器や材料を買うことができた）です。purchase は「買う」、equipment は「機器、装置」です。
+空所の文は Now, however, cheap materials and equipment are (　) on the Internet.（しかし今では、安い材料や機器がインターネットで（　））です。Before（以前は）と Now, however（しかし今では）が対になっているので、「以前は組織しか買えなかった」のとは反対に、「今はだれでも買える」という内容になると考えられます。
+さらに次の文に As a result, people can create laboratories in their homes and experiment on DNA.（その結果、人々は自宅に実験室を作って、DNAの実験をすることができる）とあります。ふつうの人が自宅で実験できるのは、安い材料や機器を手に入れられるようになったからです。available は「手に入る、利用できる」なので、正解は2です。
+【ほかの選択肢】
+1 disappointing は「がっかりさせる、期待外れの」です。入れると「安い材料や機器はインターネットでは期待外れだ」となり、その結果として自宅に実験室を作れる、という次の文とつながりません。
+3 rare は「めったにない、珍しい」です。入れると「インターネットではめったに見つからない」となり、だれでも自宅で実験できるようになったという流れと反対になります。
+4 valuable は「価値のある、高価な」です。入れても、ふつうの人がそれを買えるようになったかどうかは分からないので、「その結果、自宅に実験室を作れる」という次の文の理由になりません。また cheap（安い）という語とも合いにくくなります。
+【覚えるポイント】
+・available：「手に入る、利用できる」。be available on the Internet で「インターネットで手に入る」。
+・Before, ～. Now, however, ...：「以前は～だった。しかし今では…」と、昔と今を比べる書き方です。

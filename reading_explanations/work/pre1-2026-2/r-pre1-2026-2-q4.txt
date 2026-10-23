@@ -1,0 +1,30 @@
+---
+choices: confine | inhibit | familiarize | seize
+answerText: familiarize
+reviewed: yes
+---
+【正解】3 familiarize（（familiarize oneself with ～ で）～に慣れ親しむ、～をよく知るようにする）
+【和訳】
+（英文）
+The couple took regular walks to ［familiarize］ themselves with their new neighborhood. They wanted to learn their way around as quickly as possible.
+（訳）
+その2人は、自分たちの新しい近所に慣れるために、定期的に散歩をした。2人は、できるだけ早くその辺りの道を覚えたいと思っていた。
+（選択肢の意味）
+1 confine：閉じこめる、限定する
+2 inhibit：妨げる、抑える
+3 familiarize：慣れ親しませる、よく知らせる
+4 seize：つかむ、奪い取る
+【考え方】
+まず見るところ：後ろの文の They wanted to learn their way around as quickly as possible.
+The couple took regular walks to ( ) themselves with their new neighborhood.（その2人は、新しい近所に（　）ために、定期的に散歩をした）
+to ～ は「～するために」と、散歩をした目的を表しています。空所には、新しい近所に対して2人が何をしたかったのかが入ります。
+They wanted to learn their way around as quickly as possible.（2人は、できるだけ早くその辺りの道を覚えたいと思っていた）
+learn one's way around は「（ある場所の）道や様子が分かるようになる」という意味です。散歩をしたのは、新しい土地をよく知るためだと分かります。familiarize oneself with ～ で「～に慣れ親しむ、～をよく知るようにする」という意味になるので、3が正解です。
+この問題の型：熟語・決まった形（familiarize oneself with ～）／言いかえ（familiarize themselves with ～ と learn their way around が、同じ目的を表している）
+【ほかの選択肢】
+1 confine は「閉じこめる、限定する」です。「新しい近所に自分たちを閉じこめるために散歩をした」となり、道を覚えたいという後ろの文とつながりません。
+2 inhibit は「妨げる、抑える」です。「自分たちを抑えるために散歩をした」となり、新しい近所の道を覚えたいという目的と合いません。
+4 seize は「つかむ、奪い取る」です。「自分たちを新しい近所でつかむために」となり、意味が通りません。
+【覚えるポイント】
+・familiarize oneself with ～：「～に慣れ親しむ、～をよく知るようにする」。空所の後ろの themselves with が、この形の手がかりになります。
+・目的を表す to ～ の空所では、後ろの文に書かれた「したいこと」（ここでは learn their way around）と同じ向きの語を選ぶことが手がかりになります。

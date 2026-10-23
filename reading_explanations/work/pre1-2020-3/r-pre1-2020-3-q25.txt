@@ -1,0 +1,29 @@
+---
+choices: kept away | made up | worked up | played out
+answerText: made up
+reviewed: yes
+---
+【正解】2 made up（仲直りした）
+【和訳】
+（英文）
+After the two friends had a terrible argument, they did not speak to each other for a month. Eventually, though, they ［made up］, and now they spend even more time together.
+（訳）
+その2人の友人はひどい口げんかをしたあと、1か月の間お互いに口をききませんでした。しかし最終的に、2人は（仲直りし）、今ではさらに多くの時間を一緒に過ごしています。
+（選択肢の意味）
+1 kept away：（keep away の過去形）近づかなかった、離れていた
+2 made up：（make up の過去形）仲直りした
+3 worked up：（work up の過去形）（感情などを）かき立てた、だんだん作り上げた
+4 played out：（play out の過去形）（出来事が）展開した、最後まで行われた
+【考え方】
+まず見るところ：空所のある文の Eventually, though と、文の最後の now they spend even more time together
+Eventually, though, they (　), and now they spend even more time together.（しかし最終的に、2人は（　）、今ではさらに多くの時間を一緒に過ごしている）
+eventually は「最終的に、ついに」、though はここでは「しかし」です。前の文では、ひどい口げんかをして1か月口をきかなかったと書かれていました。though があるので、そのあとは前の文と反対の、よい方向の話になると考えられます。
+さらに、今ではさらに多くの時間を一緒に過ごしているのですから、2人の関係は元に戻ったことが分かります。make up は「仲直りする」という意味なので、2が正解です。
+この問題の型：対比（けんかして口をきかなかった⇔今は一緒に過ごしている）／熟語・決まった形（make up）
+【ほかの選択肢】
+1 kept away は「近づかなかった、離れていた」です。「最終的に2人は離れていた」となり、今ではさらに多くの時間を一緒に過ごしているという内容と合いません。
+3 worked up は「（感情などを）かき立てた」です。「最終的に2人はかき立てた」となり、何をかき立てたのかも分からず、仲直りして一緒に過ごしているという内容を表せません。
+4 played out は「（出来事が）展開した、最後まで行われた」です。「最終的に2人は展開した」となり、意味が通りません。
+【覚えるポイント】
+・make up：「仲直りする」。make up with ～ で「～と仲直りする」です。make up にはほかに「作り上げる、化粧をする」などの意味もあるので、前後の内容で判断します。
+・though や however（しかし）のあとは、前の文と反対の流れになることが多いです。前の「けんか」と後ろの「一緒に過ごしている」の間をつなぐ語を考えると手がかりになります。

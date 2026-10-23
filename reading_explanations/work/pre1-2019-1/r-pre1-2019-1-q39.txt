@@ -1,0 +1,34 @@
+---
+choices: ensure that attacks on the Lollard and Puritan movements did not spread outside the universities. | enable intellectual movements in England to compete with those occurring in continental Europe. | put a stop to the crisis that had resulted from the universities having to pay more taxes than other institutions. | make it easier to prevent the rise of groups of intellectuals who challenged the accepted political or religious order.
+answerText: make it easier to prevent the rise of groups of intellectuals who challenged the accepted political or religious order.
+reviewed: yes
+---
+【正解】4 make it easier to prevent the rise of groups of intellectuals who challenged the accepted political or religious order.（受け入れられていた政治や宗教の秩序に異議を唱える知識人の集団が現れるのを、防ぎやすくするため。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：The government and church in England united in support of Oxford and Cambridge to（イングランドの政府と教会は、～ために手を結んでオックスフォードとケンブリッジを支えた）
+1 ensure that attacks on the Lollard and Puritan movements did not spread outside the universities.（ロラード派とピューリタンの運動への攻撃が、大学の外へ広がらないようにするため。）
+2 enable intellectual movements in England to compete with those occurring in continental Europe.（イングランドの知的な運動が、ヨーロッパ大陸で起こっている運動と競争できるようにするため。）
+3 put a stop to the crisis that had resulted from the universities having to pay more taxes than other institutions.（大学がほかの機関より多くの税金を払わなければならなかったことから生じた危機を終わらせるため。）
+4 make it easier to prevent the rise of groups of intellectuals who challenged the accepted political or religious order.（受け入れられていた政治や宗教の秩序に異議を唱える知識人の集団が現れるのを、防ぎやすくするため。）
+【考え方】
+まず見るところ：第2段落の as the monopoly allowed them to quickly and efficiently identify and put an end to movements that threatened their authority
+第2段落で、政府と教会が協力した理由が書かれています。
+Both the government and the country's official church happily cooperated, as the monopoly allowed them to quickly and efficiently identify and put an end to movements that threatened their authority.（政府と国の公式の教会はどちらも喜んで協力した。独占のおかげで、自分たちの権威をおびやかす運動を、すばやく効率的に見つけ出して終わらせることができたからである）
+monopoly は「独占（1つまたは少数のものだけがひとりじめすること）」、authority は「権威（人を従わせる力）」、threaten は「おびやかす」です。ここでの as は「～なので」という理由を表しています。
+そのあと、例として、オックスフォードの知識人たちが起こしたロラード派の運動や、ケンブリッジの学生たちの反乱がおさえつけられたことが書かれています。
+本文と選択肢を対にすると、次のようになります。
+本文 quickly and efficiently identify and put an end to ～（すばやく効率的に見つけ出して終わらせる）→ 選択肢 make it easier to prevent ～（～を防ぎやすくする）
+本文 movements（運動）＋ 例 intellectuals at Oxford, students at Cambridge（オックスフォードの知識人、ケンブリッジの学生）→ 選択肢 groups of intellectuals（知識人の集団）
+本文 threatened their authority（政府と教会の権威をおびやかした）→ 選択肢 challenged the accepted political or religious order（受け入れられていた政治や宗教の秩序に異議を唱えた）
+ですから4が正解です。
+この問題の型：言いかえ（threatened their authority → challenged the accepted order）／具体例とまとめ（ロラード派・ピューリタン → 知識人の集団）
+【ほかの選択肢】
+1 本文では、政府と教会はロラード派の運動をおさえつけた側で、ピューリタンの指導者たちは当局から迫害を受けました。運動への攻撃が大学の外へ広がらないようにした、という話は本文に書かれていません。
+2 本文には、イングランドの知的な運動をヨーロッパ大陸の運動と競争させるという話はありません。政府と教会は、むしろ自分たちをおびやかす運動を終わらせようとしていました。
+3 本文の税金の話は、ロラード派が the tax-exempt status of the church（教会が税金を免除されている立場）を批判したというものです。大学が多くの税金を払わなければならなかったという話はありません。また、本文の「危機」は19世紀初めに政府と教会が経験したもので、両大学を支えた理由ではありません。
+【覚えるポイント】
+・put an end to ～：「～を終わらせる」。threaten one's authority は「～の権威をおびやかす」。
+・「何のために」をたずねる設問では、本文の as ～（～なので）や allowed them to ～（彼らが～できるようにした）のように、目的や理由を表す部分を探すのが手がかりになります。

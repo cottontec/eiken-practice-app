@@ -1,0 +1,33 @@
+---
+choices: was prevented from going into effect because there were doubts as to whether it was necessary. | lasted only a short time before pressure from the tourist industry led to it being reversed. | will go into effect when a new port for the cruise ships is built and new passage routes are agreed on. | will likely lead other port cities to take similar measures to regulate the cruise business.
+answerText: was prevented from going into effect because there were doubts as to whether it was necessary.
+reviewed: yes
+---
+【正解】1 was prevented from going into effect because there were doubts as to whether it was necessary.（必要かどうかに疑いがあったため、施行されるのをさまたげられた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：The law that was passed in 2013（2013年に成立した法律は、）
+1 was prevented from going into effect because there were doubts as to whether it was necessary.（必要かどうかに疑いがあったため、施行されるのをさまたげられた。）
+2 lasted only a short time before pressure from the tourist industry led to it being reversed.（観光業界からの圧力によって取り消されるまで、短い間しか続かなかった。）
+3 will go into effect when a new port for the cruise ships is built and new passage routes are agreed on.（クルーズ船のための新しい港が造られ、新しい航路が合意されたときに、施行される。）
+4 will likely lead other port cities to take similar measures to regulate the cruise business.（ほかの港町がクルーズ事業を規制するために同じような対策をとるきっかけになるだろう。）
+【考え方】
+まず見るところ：第3段落の Before the law went into effect, however, it was suspended by a regional court ～
+第3段落で、2013年に成立した法律について書かれています。大型クルーズ船の数を制限し、9万6,000トンを超える船を禁止する法律です。その法律がどうなったかは、次の文に書かれています。
+Before the law went into effect, however, it was suspended by a regional court on the basis that there was insufficient evidence of the dangers posed by cruise ships.（しかし、その法律が施行される前に、クルーズ船がもたらす危険の証拠が不十分だという理由で、地方の裁判所によって法律の効力が停止された）
+go into effect は「施行される（実際に効力を持つ）」、suspend は「（一時的に）停止する」、on the basis that ～ は「～という理由で」、insufficient は「不十分な」という意味です。
+本文と選択肢1を対にすると、次のようになります。
+・本文 Before the law went into effect, it was suspended（施行される前に効力が停止された）＝ 選択肢 was prevented from going into effect（施行されるのをさまたげられた）
+・本文 there was insufficient evidence of the dangers（危険の証拠が不十分だった）→ 選択肢 there were doubts as to whether it was necessary（必要かどうかに疑いがあった）
+2つ目は同じ意味の言いかえではありません。危険の証拠が足りないのなら、船を制限する法律が本当に必要かどうか疑わしい、と読み取れる、というつながりです。
+よって1が正解です。
+この問題の型：言いかえ（insufficient evidence of the dangers → 必要かどうか疑わしい）
+【ほかの選択肢】
+2 本文と違います。法律は施行される前に停止されたので、「短い間続いた」わけではありません。また、止めたのは地方の裁判所で、観光業界からの圧力とは書かれていません。
+3 本文にありません。地元の行政が新しい港へ船の行き先を変えることを提案したとはありますが、港ができたら法律が施行されるとは書かれておらず、新しい航路の合意の話もありません。
+4 本文にありません。ほかの港町が同じような対策をとるかどうかについては、何も書かれていません。
+【覚えるポイント】
+・go into effect：「施行される、効力を持つ」。suspend：「（一時的に）停止する」。insufficient evidence：「不十分な証拠」。
+・法律や計画が「どうなったか」をたずねる設問では、however のあとの Before ～ や suspended のような、予定どおりに進まなかったことを示す語が答えの手がかりになります。

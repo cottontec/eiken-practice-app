@@ -1,0 +1,33 @@
+---
+choices: hoped for | ran into | looked over | complied with
+answerText: ran into
+reviewed: yes
+---
+【正解】2 ran into（～に偶然出会った）
+【和訳】
+（英文）
+A: Guess who I just ［ran into］. Do you remember Gina from college?
+B: Oh, yes. I met her the other day, too. It seems she works in the same building as us.
+（訳）
+A：私がついさっきだれに（ばったり会った）か、当ててみて。大学時代のジーナを覚えてる？
+B：ああ、うん。私もこの前、彼女に会ったよ。彼女は私たちと同じビルで働いているみたいだね。
+（選択肢の意味）
+1 hoped for：～を望んだ
+2 ran into：～に偶然出会った
+3 looked over：～にざっと目を通した
+4 complied with：（規則・要求など）に従った
+【考え方】
+まず見るところ：Bの I met her the other day, too.
+I met her the other day, too.（私もこの前、彼女に会った）
+too（～も）があるので、Aも最近ジーナに「会った」ことが分かります。Aの文の just は「ついさっき」という意味です。
+Guess who I just (　).（私がついさっきだれを（　）したか、当ててみて）
+ジーナは大学時代の知り合いです。It seems she works in the same building as us.（彼女は私たちと同じビルで働いているみたいだ）とあるので、同じビルで働いていれば、約束しなくても会うことがあっても不思議ではありません。
+run into ～ は「～に偶然出会う、ばったり会う」という意味で、ran は run の過去形です。「だれにばったり会ったか当ててみて」は、意外な人に会ったときの自然な言い方なので、2が正解です。
+この問題の型：熟語・決まった形（run into ～）、推論（会話の流れから状況を考える）
+【ほかの選択肢】
+1 hoped for は hope for ～（～を望む）の過去形です。「だれを望んだか当ててみて」では、Bの「私もこの前彼女に会った」という答えとつながりません。
+3 looked over は look over ～（～にざっと目を通す、～を調べる）の過去形です。書類などに使う言い方で、「だれにざっと目を通したか当ててみて」では、Bの「私も会った」とつながりません。
+4 complied with は comply with ～（規則・要求などに従う）の過去形です。「だれに従ったか当ててみて」となり、大学時代の知り合いに会った話と合いません。
+【覚えるポイント】
+・run into ～：「～に偶然出会う」。bump into ～ もほぼ同じ意味です。
+・会話問題では、相手（B）の返事に出てくる語（ここでは met her, too）から、空所の動作が何だったかを逆にたどります。Guess who ～.：「だれが［だれを］～か当ててみて」。

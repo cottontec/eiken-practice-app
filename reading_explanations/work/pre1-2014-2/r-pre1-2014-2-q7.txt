@@ -1,0 +1,32 @@
+---
+choices: Swamp | Breadth | Chatter | Torture
+answerText: Chatter
+reviewed: yes
+---
+【正解】3 Chatter（おしゃべり）
+【和訳】
+（英文）
+［Chatter］ in the audience made it difficult for some people to hear the presentation. Finally, the speaker asked those talking to be quiet or to leave the room.
+（訳）
+聴衆の中の（おしゃべり）のせいで、発表が聞こえにくくなった人もいました。とうとう、話し手は、しゃべっている人たちに、静かにするか部屋から出ていくように頼みました。
+（選択肢の意味）
+1 Swamp：沼地
+2 Breadth：幅、広さ
+3 Chatter：おしゃべり、ぺちゃくちゃ話す声
+4 Torture：拷問、ひどい苦しみ
+【考え方】
+まず見るところ：後ろの文の those talking
+最初の文は、発表が聞こえにくかった原因を述べています。
+(　) in the audience made it difficult for some people to hear the presentation.（聴衆の中の（　）が、一部の人にとって発表を聞くのを難しくした）
+audience は「聴衆（話を聞きに集まった人たち）」です。make it difficult for 人 to ～ は「人が～するのを難しくする」という意味です。
+次の文で、その原因がはっきり分かります。
+Finally, the speaker asked those talking to be quiet or to leave the room.（とうとう、話し手は、しゃべっている人たちに、静かにするか部屋から出ていくように頼んだ）
+those talking は「しゃべっている人たち」です。話し手がしゃべっている人たちに注意したのですから、発表が聞こえにくかった原因は、聴衆の「おしゃべり」だと分かります。chatter は「おしゃべり、ぺちゃくちゃ話す声」という意味なので、3が正解です。
+この問題の型：言いかえ（Chatter ⇔ those talking）
+【ほかの選択肢】
+1 Swamp は「沼地」です。「聴衆の中の沼地」となり、意味が通りません。
+2 Breadth は「幅、広さ」です。「聴衆の中の幅」では、発表が聞こえにくくなった理由になりません。
+4 Torture は「拷問、ひどい苦しみ」です。聴衆の中に苦しみがあったという話は出てこず、後ろの文の「しゃべっている人たち」にも結びつきません。
+【覚えるポイント】
+・chatter：「おしゃべり、ぺちゃくちゃ話す声」。
+・空所のある文のあとに、原因をくわしく言う文（ここでは those talking）が続くことがよくあります。後ろの文まで読んで、言いかえになっている語を探すのが手がかりになります。

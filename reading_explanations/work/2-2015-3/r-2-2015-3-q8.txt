@@ -1,0 +1,27 @@
+---
+choices: generated | harvested | transmitted | motivated
+answerText: motivated
+reviewed: yes
+---
+【正解】4 motivated（やる気を起こさせた）
+【和訳】
+（英文）
+The dream of someday becoming a doctor ［motivated］ Sarah to study hard for her exams. She knew that she would not succeed if she did not get good grades.
+（訳）
+いつか医者になるという夢が、サラに試験に向けて一生懸命勉強する意欲を起こさせました。よい成績をとらなければ成功しないだろうと、彼女は分かっていたのです。
+（選択肢の意味）
+1 generated：生み出した
+2 harvested：収穫した
+3 transmitted：送った、伝えた
+4 motivated：やる気を起こさせた
+【考え方】
+1文目の主語は The dream of someday becoming a doctor（いつか医者になるという夢）です。空所のあとには Sarah to study hard for her exams（サラが試験に向けて一生懸命勉強すること）が続いています。「夢」が「サラ」にどう働きかけたのかを考えます。
+2文目には She knew that she would not succeed if she did not get good grades.（よい成績をとらなければ成功しないだろうと分かっていた）とあります。医者になる夢があるからこそ、がんばって勉強しようと思ったという流れです。
+motivate は「（人に）やる気を起こさせる」という意味で、motivate ＋ 人 ＋ to ～ の形で「人を～する気にさせる」となります。正解は4です。
+【ほかの選択肢】
+1 generated は「（電気や熱などを）生み出した」です。generate ＋ 人 ＋ to ～ という形では使わず、「夢がサラを生み出した」のような意味になってしまいます。
+2 harvested は「（作物を）収穫した」です。「夢がサラを収穫した」となり、意味が通りません。
+3 transmitted は「（信号や情報などを）送った、伝えた」です。「夢がサラを送った」となり、意味が通りません。
+【覚えるポイント】
+・motivate ＋ 人 ＋ to ～：「人を～する気にさせる」。名詞の motivation は「やる気、動機」です。
+・the dream of ～ing：「～するという夢」。

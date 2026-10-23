@@ -1,0 +1,34 @@
+---
+choices: insufficient | inactive | irrelevant | irresistible
+answerText: irresistible
+reviewed: yes
+---
+【正解】4 irresistible（抵抗できない、抑えきれない）
+【和訳】
+（英文）
+Betty is having a hard time losing weight. When shopping at the grocery store, she gets an ［irresistible］ urge to buy cakes and cookies.
+（訳）
+ベティは体重を減らすのに苦労している。食料品店で買い物をしているとき、彼女はケーキやクッキーを買いたいという（抑えきれない）衝動にかられるのだ。
+（選択肢の意味）
+1 insufficient：不十分な、足りない
+2 inactive：活動していない、不活発な
+3 irrelevant：無関係な、見当ちがいの
+4 irresistible：抵抗できない、抑えきれない
+【考え方】
+まず見るところ：前の文の is having a hard time losing weight と、空所の後ろの urge
+最初の文を見ます。
+Betty is having a hard time losing weight.（ベティは体重を減らすのに苦労している）
+have a hard time ～ing は「～するのに苦労する」です。
+空所のある文は、その苦労の理由を説明しています。
+she gets an (　) urge to buy cakes and cookies（彼女はケーキやクッキーを買いたいという（　）衝動にかられる）
+urge は「衝動（～したいという強い気持ち）」です。体重を減らしたいのに、甘いものを買いたい気持ちに負けてしまうから苦労している、と考えると、前の文とつながります。
+irresistible は「抵抗できない、抑えきれない」なので、irresistible urge で「抑えきれない衝動」となります。ですから4が正解です。
+なお、空所の前が an なので母音で始まる語が入りますが、4つとも i で始まるので、ここでは決め手になりません。
+この問題の型：因果（抑えきれない衝動 → 体重を減らすのに苦労）
+【ほかの選択肢】
+1 insufficient は「不十分な」です。「甘いものを買いたい気持ちが不十分だ」となると、甘いものをあまり買わないことになり、体重を減らすのに苦労している理由になりません。
+2 inactive は「活動していない」です。「活動していない衝動」では意味がはっきりせず、苦労している理由の説明になりません。
+3 irrelevant は「無関係な」です。「無関係な衝動」では、何と無関係なのか分からず、前の文とのつながりがありません。
+【覚えるポイント】
+・irresistible urge：「抑えきれない衝動」。resist（抵抗する）に、「～できる」の -ible と「～ない」の ir- がついた形です。
+・前の文に「苦労している」などの悩みがあるときは、次の文がその理由になっていることが多く、悩みの原因になる語を選ぶことが手がかりになります。

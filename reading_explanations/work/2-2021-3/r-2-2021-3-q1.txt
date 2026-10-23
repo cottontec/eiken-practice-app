@@ -1,0 +1,33 @@
+---
+choices: proved | accused | captured | neglected
+answerText: captured
+reviewed: yes
+---
+【正解】3 captured（捕らえられた）
+【和訳】
+（英文）
+A rare bird escaped from the zoo last week. It was finally ［captured］ today and taken back to the zoo.
+（訳）
+先週、1羽の珍しい鳥が動物園から逃げ出しました。その鳥は今日ようやく（捕らえられ）、動物園に連れ戻されました。
+（選択肢の意味）
+1 proved：証明された
+2 accused：責められた、訴えられた
+3 captured：捕らえられた
+4 neglected：ほうっておかれた、世話をされなかった
+【考え方】
+まず見るところ：空所のある文の前の A rare bird escaped from the zoo last week.
+A rare bird escaped from the zoo last week.（先週、珍しい鳥が動物園から逃げ出した）
+逃げた鳥の話です。空所のある文は、その鳥のその後を表しています。
+It was finally (　) today and taken back to the zoo.（その鳥は今日ようやく（　）、動物園に連れ戻された）
+It は逃げた鳥を指します。was ～ed は受け身（「～される」という形）で、「その鳥は今日ようやく（　）され、動物園に連れ戻された」という意味になります。
+動物園に連れ戻されるには、その前に鳥がつかまっていなければなりません。capture は「（人や動物を）捕らえる、つかまえる」なので、was captured で「捕らえられた」となります。
+finally（ようやく、ついに）も、逃げてからしばらくたって、やっとつかまった様子に合います。ですから3が正解です。
+この問題の型：語の意味・組み合わせ（taken back to the zoo とつながる語）、因果（逃げた→つかまった→連れ戻された）
+【ほかの選択肢】
+1 proved は prove（証明する）の過去分詞で、was proved は「証明された」です。「鳥が証明された」では意味が通らず、動物園に連れ戻されたこととつながりません。
+2 accused は accuse（責める、訴える）の過去分詞で、was accused は「責められた、訴えられた」です。人が何か悪いことをしたと言われる場面で使う語で、逃げた鳥を連れ戻す話には合いません。
+4 neglected は neglect（ほうっておく、世話をしない）の過去分詞で、was neglected は「ほうっておかれた」です。ほうっておかれたのでは、動物園に連れ戻されることにつながりません。
+【覚えるポイント】
+・capture：「（人や動物を）捕らえる、つかまえる」。be captured で「捕らえられる」。
+・次に同じ形が出たら：文の中に「逃げた」と「連れ戻された」のように出来事の始めと終わりがあるときは、その間に起こったはずのこと（ここでは「つかまえる」）を表す語を探すと、手がかりになります。
+・be taken back to ～：「～に連れ戻される」。

@@ -1,0 +1,33 @@
+---
+choices: contemporary | tremendous | sinister | simultaneous
+answerText: contemporary
+reviewed: yes
+---
+【正解】1 contemporary（現代的な、今の時代の）
+【和訳】
+（英文）
+Although the novel was written more than a hundred years ago, readers today will probably be surprised at how ［contemporary］ the characters seem.
+（訳）
+その小説は100年以上前に書かれたものですが、今日の読者は、登場人物たちがいかに（現代的に）見えるかにおそらく驚くでしょう。
+（選択肢の意味）
+1 contemporary：現代的な、今の時代の
+2 tremendous：ものすごい、とてつもない
+3 sinister：不吉な、悪意のありそうな
+4 simultaneous：同時に起こる
+【考え方】
+まず見るところ：文の初めの Although the novel was written more than a hundred years ago
+前半は次のとおりです。
+Although the novel was written more than a hundred years ago（その小説は100年以上前に書かれたけれども）
+Although（～だけれども）があるので、後半には「100年以上前に書かれた」ことから考えると意外な内容がくると予想できます。
+後半は次のとおりです。
+readers today will probably be surprised at how ( ) the characters seem（今日の読者は、登場人物たちがいかに（　）に見えるかにおそらく驚くだろう）
+how ～ は「どれほど～か」という意味です。
+100年以上前の小説なら、登場人物は昔の人らしく見えるのがふつうです。それなのに今の読者が驚くのは、登場人物が「今の時代の人のように」見えるからだと考えられます。contemporary は「現代的な、今の時代の」という意味なので、1が正解です。
+この問題の型：対比（100年以上前に書かれた⇔登場人物が現代的に見える）
+【ほかの選択肢】
+2 tremendous は「ものすごい、とてつもない」です。「登場人物がいかにものすごく見えるか」となり、Although の前半の「100年以上前に書かれた」ことと反対向きになりません。
+3 sinister は「不吉な、悪意のありそうな」です。登場人物が不吉に見えることは、書かれた時期の古さとは関係がなく、Although の前後がつながりません。
+4 simultaneous は「同時に起こる」で、出来事について使う語です。「登場人物がいかに同時に起こるように見えるか」となり、意味が通りません。
+【覚えるポイント】
+・contemporary：「現代的な、今の時代の」。「同時代の」という意味もあります。
+・Although のあとに古さや時間（ここでは more than a hundred years ago）が書かれているときは、後半にそれと反対向きの「新しさ」がくることがあり、空所の語を考える手がかりになります。

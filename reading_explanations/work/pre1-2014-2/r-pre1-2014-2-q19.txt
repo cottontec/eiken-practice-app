@@ -1,0 +1,31 @@
+---
+choices: pluck | enforce | recollect | remodel
+answerText: enforce
+reviewed: yes
+---
+【正解】2 enforce（〔規則などを〕守らせる、実行させる）
+【和訳】
+（英文）
+Students are not allowed to bring cell phones onto school grounds. This rule is difficult to ［enforce］, however, because teachers cannot search the students or their lockers.
+（訳）
+生徒は、学校の敷地内に携帯電話を持ちこむことを許されていません。しかし、先生は生徒やそのロッカーを調べることができないので、この規則を（守らせる）のは難しいです。
+（選択肢の意味）
+1 pluck：（羽などを）むしる、引き抜く
+2 enforce：（規則などを）守らせる、実行させる
+3 recollect：思い出す
+4 remodel：改装する、作りかえる
+【考え方】
+まず見るところ：空所の前の This rule is difficult to と、後ろの because teachers cannot search the students or their lockers
+前半の文で、学校の規則が説明されています。
+Students are not allowed to bring cell phones onto school grounds.（生徒は、学校の敷地内に携帯電話を持ちこむことを許されていない）
+後半の文では、その規則の問題点が述べられています。
+This rule is difficult to (　), however, because teachers cannot search the students or their lockers.（しかし、先生は生徒やそのロッカーを調べることができないので、この規則を（　）のは難しい）
+search は「（持ち物などを）調べる」という意味です。先生が持ち物を調べられなければ、生徒が携帯電話を持ってきても見つけることができません。つまり、規則があっても、それを生徒に「守らせる」ことが難しいのです。enforce は「（規則などを）守らせる、実行させる」という意味で、enforce a rule（規則を守らせる）とよく組み合わせて使います。ですから2が正解です。
+この問題の型：因果（because 調べられない→守らせにくい）
+【ほかの選択肢】
+1 pluck は「（羽などを）むしる、引き抜く」という意味です。「規則をむしるのは難しい」となり、意味が通りません。
+3 recollect は「思い出す」という意味です。「規則を思い出すのは難しい」とすると、その理由が「先生が持ち物を調べられないから」となり、つながりません。
+4 remodel は「改装する、作りかえる」という意味です。「規則を作りかえるのが難しい」とすると、先生が持ち物を調べられないことが理由にならず、意味がつながりません。
+【覚えるポイント】
+・enforce a rule：「規則を守らせる、規則を実行させる」。
+・because の後ろの理由（ここでは「調べられない」）から逆に考えて、何が難しいのかを決めると、答えを選ぶ手がかりになります。

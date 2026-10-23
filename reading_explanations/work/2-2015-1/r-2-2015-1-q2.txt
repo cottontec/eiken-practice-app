@@ -1,0 +1,26 @@
+---
+choices: bark | spot | count | melt
+answerText: spot
+reviewed: yes
+---
+【正解】2 spot（見つける）
+【和訳】
+（英文）
+Emma's family's dog got out of the yard and ran away. Emma stayed at home to wait while her dad drove around the neighborhood to see if he could ［spot］ the dog.
+（訳）
+エマの家の犬が庭から出て、逃げてしまいました。エマは待つために家に残り、その間、父親は犬を見つけられるかどうか確かめようと、車で近所を回りました。
+（選択肢の意味）
+1 bark：ほえる
+2 spot：見つける
+3 count：数える
+4 melt：溶ける、溶かす
+【考え方】
+1文目で、犬が庭から逃げてしまったことが分かります。2文目の while her dad drove around the neighborhood（その間、父親は車で近所を回った）の目的が、to see if he could (　) the dog です。see if ～ は「～かどうか確かめる」という意味です。
+逃げた犬をさがして近所を車で回っているのですから、父親が確かめたかったのは「犬を見つけられるかどうか」です。spot は動詞で「（さがしているものを）見つける」という意味なので、see if he could spot the dog で「犬を見つけられるかどうか確かめる」となります。正解は2です。
+【ほかの選択肢】
+1 bark は「ほえる」です。ほえるのは犬のほうで、「父親が犬をほえられるかどうか確かめるために」となり、意味が通りません。
+3 count は「数える」です。逃げたのは家の犬1匹で、それをさがしている場面です。「犬を数えられるかどうか」では、車で近所を回る目的に合いません。
+4 melt は「溶ける、溶かす」です。「犬を溶かせるかどうか」となり、意味が通りません。
+【覚えるポイント】
+・spot：動詞で「見つける」。名詞では「地点、場所」「しみ、斑点」などの意味もあります。
+・see if ～：「～かどうか確かめる」。

@@ -1,0 +1,33 @@
+---
+choices: Whether the knowledge that it was going to drown would have an effect on how a mouse's gut microbiome functions. | Whether L. rhamnosus could strengthen a mouse's physical condition enough to improve its swimming ability. | Whether increasing the levels of stress hormones in a mouse could reduce the number of microbes in its gut microbiome. | Whether L. rhamnosus could have an effect on a mouse's mental state when it was put in a stressful situation.
+answerText: Whether L. rhamnosus could have an effect on a mouse's mental state when it was put in a stressful situation.
+reviewed: yes
+---
+【正解】4 Whether L. rhamnosus could have an effect on a mouse's mental state when it was put in a stressful situation.（ストレスのかかる状況に置かれたときのマウスの精神状態に、L・ラムノサスが影響を与えられるかどうか。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What did John Cryan hope to determine by performing his experiment?（ジョン・クライアンは、実験を行うことで何を突き止めたいと考えたか。）
+1 Whether the knowledge that it was going to drown would have an effect on how a mouse's gut microbiome functions.（自分がおぼれそうだと知っていることが、マウスの腸内マイクロバイオームの働き方に影響するかどうか。）
+2 Whether L. rhamnosus could strengthen a mouse's physical condition enough to improve its swimming ability.（L・ラムノサスが、泳ぐ力を高めるほどマウスの体の調子を強くできるかどうか。）
+3 Whether increasing the levels of stress hormones in a mouse could reduce the number of microbes in its gut microbiome.（マウスのストレスホルモンの量を増やすと、腸内マイクロバイオームの微生物の数を減らせるかどうか。）
+4 Whether L. rhamnosus could have an effect on a mouse's mental state when it was put in a stressful situation.（ストレスのかかる状況に置かれたときのマウスの精神状態に、L・ラムノサスが影響を与えられるかどうか。）
+【考え方】
+まず見るところ：第2段落の to see how altering their gut microbiome would affect their mental condition during a stress experiment
+実験の目的は、第2段落の次の文に書かれています。
+He took a group of healthy mice and fed half of them food containing L. rhamnosus for several weeks to see how altering their gut microbiome would affect their mental condition during a stress experiment.（クライアンは健康なマウスの集団を用意し、腸内マイクロバイオームを変えることがストレス実験の間のマウスの精神状態にどう影響するかを見るために、その半分に数週間、L・ラムノサスを含むえさを与えた）
+to see ～ は「～を確かめるために」と目的を表しています。L・ラムノサスを与えることで腸内マイクロバイオームを変え、それが心の状態にどう影響するかを調べようとしたのです。
+本文と選択肢を対にすると、次のようになります。
+・本文 their mental condition（マウスの精神状態）＝ 選択肢 a mouse's mental state（マウスの精神状態）
+・本文 during a stress experiment（ストレス実験の間）＝ 選択肢 when it was put in a stressful situation（ストレスのかかる状況に置かれたとき）
+・本文 fed ～ food containing L. rhamnosus ～ to see how altering their gut microbiome would affect（L・ラムノサスを含むえさを与えて、腸内マイクロバイオームを変えることがどう影響するかを見る）→ 選択肢 Whether L. rhamnosus could have an effect（L・ラムノサスが影響を与えられるかどうか）
+ですから4が正解です。
+この問題の型：言いかえ（mental condition → mental state、a stress experiment → a stressful situation）
+【ほかの選択肢】
+1 本文の内容と違います。本文には、マウスはおぼれる危険がないことを知らなかったと書かれていますが、おぼれそうだと知っていることが腸内マイクロバイオームの働きに影響するかを調べたのではありません。
+2 本文の内容と違います。泳ぎ続けた時間は測っていますが、それは体の強さではなく、あきらめるまでの心の状態を見るためです。本文には hopelessness（絶望）、stay calm and persevere（落ち着いてがんばり続ける）と、心の様子が書かれています。
+3 本文の内容と違います。ストレスホルモンの量を増やしたのではなく、L・ラムノサスを与えられたマウスのほうがストレスホルモンが少なかったと書かれています。微生物の数を減らすという話もありません。
+【覚えるポイント】
+・mental condition ＝ mental state：どちらも「精神状態、心の状態」。
+・「実験で何を確かめたかったか」をたずねる設問では、本文の to see how ～（～かを確かめるために）のような目的を表す部分が答えの手がかりになります。

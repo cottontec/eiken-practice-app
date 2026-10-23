@@ -1,0 +1,34 @@
+---
+choices: It was so serious that it is still having a negative influence on the research and development of technology for the blind today. | It would have caused fewer bad feelings if Helen Keller had not decided that she should become involved in it. | It had some positive effects in the long term because the competition led to improvements in the lives of blind people. | It could have been avoided if people in those days had been more accepting of technologies like the typewriter.
+answerText: It had some positive effects in the long term because the competition led to improvements in the lives of blind people.
+reviewed: yes
+---
+【正解】3 It had some positive effects in the long term because the competition led to improvements in the lives of blind people.（その競争が目の見えない人々の暮らしの向上につながったので、長い目で見るといくつかのよい影響があった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What conclusion does the author of the passage make about the War of the Dots?（筆者は点の戦争についてどんな結論を出しているか。）
+1 It was so serious that it is still having a negative influence on the research and development of technology for the blind today.（それはとても深刻だったので、今日でもなお、目の見えない人々のための技術の研究や開発に悪い影響を与えている。）
+2 It would have caused fewer bad feelings if Helen Keller had not decided that she should become involved in it.（もしヘレン・ケラーが自分が関わるべきだと決めていなかったら、それが生んだ悪い感情はもっと少なかっただろう。）
+3 It had some positive effects in the long term because the competition led to improvements in the lives of blind people.（その競争が目の見えない人々の暮らしの向上につながったので、長い目で見るといくつかのよい影響があった。）
+4 It could have been avoided if people in those days had been more accepting of technologies like the typewriter.（もし当時の人々がタイプライターのような技術をもっと受け入れていたら、それは避けられたかもしれない。）
+【考え方】
+まず見るところ：第4段落の Although the War of the Dots interfered with blind people's education for a time, it had a silver lining
+最後の段落の終わりに、筆者のまとめがあります。
+Although the War of the Dots interfered with blind people's education for a time, it had a silver lining: the intense battle stimulated the development of various technologies, such as new typewriters, that greatly enhanced blind people's literacy rates and ability to participate in modern society.（点の戦争は一時、目の見えない人々の教育を妨げたが、よい面もあった。その激しい争いが、新しいタイプライターのようなさまざまな技術の開発をうながし、それらの技術が、目の見えない人々の識字率と、現代社会に参加する力を大きく高めたのである）
+interfere with ～ は「～を妨げる」、for a time は「一時、しばらくの間」です。silver lining は「（悪いことの中の）明るい面、よい面」です。stimulate は「うながす、刺激する」、enhance は「高める」です。
+本文と選択肢を対にすると、次のようになります。
+本文 it had a silver lining（よい面もあった）＝ 選択肢 It had some positive effects（いくつかのよい影響があった）
+本文 the intense battle（激しい争い）＝ 選択肢 the competition（その競争）
+本文 greatly enhanced blind people's literacy rates and ability to participate in modern society（識字率と社会に参加する力を大きく高めた）→ 選択肢 improvements in the lives of blind people（目の見えない人々の暮らしの向上）
+本文 interfered with ～ for a time（一時は妨げた）⇔ 選択肢 in the long term（長い目で見ると）
+ですから3が正解です。
+この問題の型：対比（一時的な悪い面⇔Although のあとのよい面）、言いかえ（silver lining → positive effects）
+【ほかの選択肢】
+1 本文の内容と合いません。本文では、点の戦争が教育を妨げたのは for a time（一時）とされ、さらに、その争いがさまざまな技術の開発をうながしたと書かれています。今日でも技術の研究や開発に悪い影響を与えているという話は出てきません。
+2 本文に書かれていません。ヘレン・ケラーが関わらなければ悪い感情が少なかっただろうという話は出てきません。本文では、彼女は論争を終わらせるのに非常に大きな影響を与えた人物として書かれています。
+4 本文に書かれていません。当時の人々がタイプライターなどの技術をもっと受け入れていれば点の戦争を避けられた、という話は出てきません。本文でタイプライターは、点の戦争をきっかけに開発がうながされた技術の例として出てきます。
+【覚えるポイント】
+・silver lining：「（悪いことの中の）明るい面、よい面」。
+・筆者の結論をたずねる設問では、最後の段落の Although ～, ...（～だけれども…）の文に注目し、Although の後ろの悪い面よりも、カンマのあとの筆者が強調したい内容（ここではよい面）を手がかりにします。

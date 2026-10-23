@@ -1,0 +1,29 @@
+---
+choices: To discover why the brainpower of certain participants did not increase. | To test scientifically how effective brain-training programs actually are. | To find out which age groups are better at different mental exercises. | To develop a new way of using computers to help people's thinking skills.
+answerText: To test scientifically how effective brain-training programs actually are.
+reviewed: yes
+---
+【正解】2 To test scientifically how effective brain-training programs actually are.（脳トレーニングのプログラムが実際にどれくらい効果があるのかを、科学的に調べるため。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：BBCラボUKが行った研究の目的は何でしたか。
+1 To discover why the brainpower of certain participants did not increase.（特定の参加者の脳の力が、なぜ高まらなかったのかを見つけるため。）
+2 To test scientifically how effective brain-training programs actually are.（脳トレーニングのプログラムが実際にどれくらい効果があるのかを、科学的に調べるため。）
+3 To find out which age groups are better at different mental exercises.（どの年齢層が、さまざまな頭の練習をより得意としているのかを明らかにするため。）
+4 To develop a new way of using computers to help people's thinking skills.（人々の考える力を助けるために、コンピューターを使う新しい方法を開発するため。）
+【考え方】
+BBCラボUKの研究については、第2段落に書かれています。
+最初の文は Until recently, there has been a lack of proper scientific research into the effectiveness of these programs.（最近まで、これらのプログラムの効果について、きちんとした科学的な研究が足りなかった）です。lack は「不足」、effectiveness は「効果、有効性」です。
+次の文で In response to this, BBC Lab UK, a British website, decided to carry out a study of the effects of brain-training computer programs on overall brainpower.（これを受けて、イギリスのウェブサイトであるBBCラボUKは、脳トレーニングのコンピューター・プログラムが全体的な脳の力にどんな効果をもたらすかについて、研究を行うことにした）と続きます。in response to ～ は「～を受けて、～に応えて」です。
+つまり、「プログラムの効果についての科学的な研究がなかったので、それを調べることにした」という流れです。本文と選択肢は次のように対応しています。
+本文 a lack of proper scientific research into the effectiveness ＋ carry out a study of the effects ＝ 選択肢 To test scientifically how effective brain-training programs actually are（プログラムが実際にどれくらい効果があるのかを科学的に調べる）
+正解は2です。
+【ほかの選択肢】
+1 「全体的な脳の力は高まらなかった」というのは、研究の結論（研究をした結果分かったこと）です。研究の目的ではありません。また、高まらなかったのは特定の参加者ではなく、参加者全体の話です。
+3 年齢による違いは、第3段落のカリフォルニア大学の研究や、第4段落のバレンズエラ准教授の話に出てきます。BBCラボUKの研究で年齢層を比べたとは書かれていません。
+4 BBCラボUKは、すでにあるプログラムの効果を調べたのであり、新しい方法を開発したとは書かれていません。
+【覚えるポイント】
+・in response to ～：「～を受けて、～に応えて」。
+・effectiveness：「効果、有効性」。effective（効果的な）の名詞の形です。

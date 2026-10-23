@@ -1,0 +1,32 @@
+---
+choices: tragic | plentiful | remorseful | revolting
+answerText: remorseful
+reviewed: yes
+---
+【正解】3 remorseful（深く後悔している、反省している）
+【和訳】
+（英文）
+A: Did Greg apologize to the teacher for cheating on the test?
+B: Yes, but he doesn't seem very ［remorseful］. I heard him laughing about it later with his friends.
+（訳）
+A：グレッグは、テストでカンニングしたことを先生に謝ったの？
+B：うん、でも彼はあまり（反省している）ようには見えないよ。あとで友達とそのことを笑っているのが聞こえたよ。
+（選択肢の意味）
+1 tragic：悲劇的な、痛ましい
+2 plentiful：たくさんある、豊富な
+3 remorseful：深く後悔している、反省している
+4 revolting：実に不快な、むかつくような
+【考え方】
+まず見るところ：Bの but he doesn't seem very ( ) と、I heard him laughing about it later
+Yes, but he doesn't seem very ( ).（うん、でも彼はあまり（　）ようには見えない）
+not very ～ は「あまり～ない」という意味です。but（でも）があるので、「謝った」ことと食い違う内容が来るはずです。
+I heard him laughing about it later with his friends.（あとで友達とそのことを笑っているのが聞こえた）
+カンニングのことを友達と笑っているのですから、グレッグは本当は悪いと思っていない様子です。remorseful は「深く後悔している、反省している」なので、「あまり反省しているようには見えない」となり、3が正解です。
+この問題の型：対比（but：謝った⇔反省していない）
+【ほかの選択肢】
+1 tragic は「悲劇的な」です。「彼はあまり悲劇的には見えない」となり、謝ったのに笑っていたという話とつながりません。
+2 plentiful は「たくさんある、豊富な」で、物の量を表す語です。人の様子について使うと意味が通りません。
+4 revolting は「実に不快な」です。「彼はあまり不快には見えない」となり、あとで友達と笑っていたという話の説明になりません。
+【覚えるポイント】
+・remorseful：「深く後悔している、反省している」。apologize（謝る）と一緒に出てくる語です。
+・Yes, but ～ で相手の質問を認めたあとに「でも…」と続くときは、そのあとの具体的な行動（ここでは笑っていた）から、どんな気持ちが欠けているのかを考えると手がかりになります。

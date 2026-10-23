@@ -1,0 +1,33 @@
+---
+choices: tension | survival | privacy | justice
+answerText: tension
+reviewed: yes
+---
+【正解】1 tension（緊張、張りつめた状態）
+【和訳】
+（英文）
+A: Why has the office been so quiet recently?
+B: Since Amy and Ben had an argument, there has been a lot of ［tension］ between them.
+（訳）
+A：最近、どうして職場はこんなに静かなの？
+B：エイミーとベンが言い争いをしてから、2人の間にはずっと強い（緊張した空気）があるんだよ。
+（選択肢の意味）
+1 tension：緊張、張りつめた状態
+2 survival：生き残ること
+3 privacy：プライバシー（他人に立ち入られない個人の生活）
+4 justice：正義、公正
+【考え方】
+まず見るところ：Bの答えの Since Amy and Ben had an argument
+Since Amy and Ben had an argument（エイミーとベンが言い争いをしてから）
+since は、あとに there has been（ずっと～がある）という現在完了形（過去から今まで続いていることを表す形）が続いているので、「～して以来」という意味です。Aは「職場がなぜ静かなのか」とたずねているので、言い争いのあとに生まれた状態が答えになります。
+けんかをした2人の間には、ぴりぴりした気まずい空気が生まれると考えられます。tension は「緊張、張りつめた状態」という意味で、a lot of tension between them で「2人の間の強い緊張」となります。職場が静かな理由として自然なので、1が正解です。
+この問題の型：因果（言い争い → 緊張）、語の意味・組み合わせ
+【ほかの選択肢】
+2 survival は「生き残ること」です。「2人の間に生き残ることがたくさんある」となり、意味が通りません。
+3 privacy は「プライバシー（他人に立ち入られない個人の生活）」です。言い争いをしたことと「2人の間のプライバシー」はつながらず、職場が静かな理由になりません。
+4 justice は「正義、公正」です。言い争いのあとに「2人の間に正義がたくさんある」となり、意味が通りません。
+【覚えるポイント】
+・tension between A and B：「AとBの間の緊張（気まずい空気）」。
+・since ～：「～して以来」。現在完了形といっしょによく使います。
+・have an argument：「言い争いをする、口げんかをする」。
+・Why（なぜ）への答えでは、理由にあたる出来事（ここでは言い争い）から、その結果として起こる状態を考えて、空所の語を選びます。

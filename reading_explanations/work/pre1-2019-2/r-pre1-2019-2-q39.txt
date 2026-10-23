@@ -1,0 +1,33 @@
+---
+choices: The fact that poverty is declining rapidly means that providing UBI will cost less than it did in the past. | Increasing funding for education is the first step governments should take to help citizens find better-paying employment. | Improving the living standards of individuals would ultimately have large-scale beneficial effects on society as a whole. | Solving the problem of homelessness is the most important issue for developed countries to address if they hope to end poverty.
+answerText: Improving the living standards of individuals would ultimately have large-scale beneficial effects on society as a whole.
+reviewed: yes
+---
+【正解】3 Improving the living standards of individuals would ultimately have large-scale beneficial effects on society as a whole.（個人の生活水準を高めることは、最終的には社会全体に大きな規模でよい影響を与えるだろう。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What claim do some people make in support of universal basic income?（ユニバーサル・ベーシック・インカムを支持して、一部の人々はどんな主張をしていますか。）
+1 The fact that poverty is declining rapidly means that providing UBI will cost less than it did in the past.（貧困が急速に減っているということは、UBIを提供する費用が以前より少なくてすむということだ。）
+2 Increasing funding for education is the first step governments should take to help citizens find better-paying employment.（教育への資金を増やすことが、国民がより給料のよい仕事を見つけられるよう助けるために、政府がとるべき最初の一歩である。）
+3 Improving the living standards of individuals would ultimately have large-scale beneficial effects on society as a whole.（個人の生活水準を高めることは、最終的には社会全体に大きな規模でよい影響を与えるだろう。）
+4 Solving the problem of homelessness is the most important issue for developed countries to address if they hope to end poverty.（貧困をなくしたいなら、ホームレスの問題を解決することが、先進国が取り組むべき最も重要な課題である。）
+【考え方】
+まず見るところ：第2段落の Supporters argue this approach could eliminate poverty in society. のあとに続く、UBIのよい点
+第2段落で、UBIを支持する人々の考えが書かれています。
+UBI would provide money for things like food, shelter, and clothing, and, in the process, reduce stress on economies by increasing individuals' buying power.（UBIは、食べ物、住まい、衣服などのためのお金を与え、その過程で、個人の購買力を高めることによって、経済への負担を減らすだろう）
+buying power は「購買力（物を買う力）」です。一人一人の暮らしを支えることが、経済全体にもよい影響を与える、という考えです。
+そのあとにも、栄養不良やホームレス状態が減ること、子どもの成績がよくなること、大人が事業を始めたり新しい技能を身につけたりできることが挙げられています。どれも「個人の暮らしがよくなる → 社会によい影響が広がる」という流れです。
+本文と選択肢を対にすると、次のようになります。
+本文 provide money for things like food, shelter, and clothing（食べ物、住まい、衣服などのためのお金を与える）→ 選択肢 Improving the living standards of individuals（個人の生活水準を高める）
+本文 reduce stress on economies（経済への負担を減らす）、could eliminate poverty in society（社会から貧困をなくすことができるだろう）→ 選択肢 large-scale beneficial effects on society as a whole（社会全体への大きな規模のよい影響）
+ですから3が正解です。
+この問題の型：具体例とまとめ（食料・住まい・教育・仕事のよい効果 → 社会全体へのよい影響）
+【ほかの選択肢】
+1 第1段落には、所得の格差や経済的な不安定さが still major problems（依然として大きな問題）だと書かれています。貧困が急速に減っているという話はなく、UBIの費用が以前より少なくてすむという話もありません。本文にない内容です。
+2 本文には、生徒の学業や、大人が新しい技能を身につけることは出てきますが、政府が教育への資金を増やすべきだという話はありません。「最初の一歩」という順番の話もありません。
+4 第2段落には、ホームレス状態が栄養不良と並んで、貧困による最もひどい影響の2つのうちの1つとして挙げられ、UBIで減るだろうと書かれています。しかし、それが先進国にとって最も重要な課題だとは書かれていません。言い切りすぎです。
+【覚えるポイント】
+・buying power：「購買力（物を買う力）」。reduce stress on economies は「経済への負担を減らす」。
+・設問が支持する人の主張をたずねていて、本文に具体的なよい点がいくつも並んでいるときは、それらをまとめて一般的に言いかえた選択肢を選ぶ手がかりになります。

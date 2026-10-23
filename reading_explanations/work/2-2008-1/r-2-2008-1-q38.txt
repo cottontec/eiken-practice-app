@@ -1,0 +1,28 @@
+---
+choices: The most common sitting position is at a 90-degree angle. | Sitting up straight in a chair can be harmful to the backbone. | The key to sitting comfortably is to put one's feet on a chair. | People tend to sit in a variety of positions during the day.
+answerText: Sitting up straight in a chair can be harmful to the backbone.
+reviewed: yes
+---
+【正解】2 Sitting up straight in a chair can be harmful to the backbone.（いすに背すじをまっすぐにしてすわることは、背骨に害を与えることがある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：研究者たちが発見したことの1つは何ですか。
+1 The most common sitting position is at a 90-degree angle.（最もよく見られるすわり方は、90度の角度ですわるものである。）
+2 Sitting up straight in a chair can be harmful to the backbone.（いすに背すじをまっすぐにしてすわることは、背骨に害を与えることがある。）
+3 The key to sitting comfortably is to put one's feet on a chair.（楽にすわるための秘訣は、足をいすの上にのせることである。）
+4 People tend to sit in a variety of positions during the day.（人は1日の間にさまざまな姿勢ですわる傾向がある。）
+【考え方】
+研究の結果は第2段落に書かれています。It was found that sitting with the back at a 90-degree angle actually puts a lot of stress on the lower part of the backbone.（背中を90度の角度にしてすわることは、実は背骨の下の部分に大きな負担をかけることが分かった）とあります。It was found that ～ は「～ということが分かった」、put stress on ～ は「～に負担をかける」です。
+「背中を90度にしてすわる」とは、背中と太ももが直角になるように背すじを立ててすわる姿勢、つまり「背すじをまっすぐにしてすわる」ことです。第1段落で親が子どもに言っている sit with their backs straight（背すじをまっすぐにしてすわる）と同じ姿勢です。第1段落で研究が some surprising results（いくつかの驚くべき結果）を得たと書かれていました。親が「よい」と信じてきた姿勢が背骨に負担をかけると分かったことは、その「驚くべき結果」の1つだと考えられます。
+本文 sitting with the back at a 90-degree angle（背中を90度にしてすわること）＝ 選択肢 Sitting up straight in a chair（いすに背すじをまっすぐにしてすわること）
+本文 puts a lot of stress on the lower part of the backbone（背骨の下の部分に大きな負担をかける）＝ 選択肢 can be harmful to the backbone（背骨に害を与えることがある）
+正解は2です。
+【ほかの選択肢】
+1 本文には、90度ですわると背骨に負担がかかる、と書かれているだけです。90度が「最もよく見られるすわり方」かどうかは、本文に書かれていません。
+3 本文で最も健康によいとされたのは with the feet flat on the floor（足の裏を床にぴったりつけて）後ろにもたれる姿勢です。足をのせるのは「いす」ではなく「床」なので、誤りです。
+4 研究ではボランティアが in a variety of positions（さまざまな姿勢で）すわったときにスキャンしましたが、それは研究の方法です。「人は1日の間にさまざまな姿勢ですわる傾向がある」ということを発見したわけではありません。
+【覚えるポイント】
+・put stress on ～：「～に負担（圧力）をかける」。
+・harmful：「害のある、有害な」。be harmful to ～ で「～に害がある」。本文の even more harmful（さらに害が大きい）にも使われています。

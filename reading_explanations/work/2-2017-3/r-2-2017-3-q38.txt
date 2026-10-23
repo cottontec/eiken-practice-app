@@ -1,0 +1,31 @@
+---
+choices: Russian scientists would like to use frozen earth to protect seeds. | Human DNA can be used to help scientists learn more about the genetic history of plants. | The fruit and seeds of Silene stenophylla may have been buried by an ancient animal. | The first plant that had flowers grew in Siberia over 32,000 years ago.
+answerText: The fruit and seeds of Silene stenophylla may have been buried by an ancient animal.
+reviewed: yes
+---
+【正解】3 The fruit and seeds of Silene stenophylla may have been buried by an ancient animal.（シレネ・ステノフィラの果実と種は、大昔の動物によって埋められたのかもしれない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：次の記述のうち、正しいものはどれですか。
+1 Russian scientists would like to use frozen earth to protect seeds.（ロシアの科学者たちは、種を守るために凍った土を使いたいと思っている。）
+2 Human DNA can be used to help scientists learn more about the genetic history of plants.（人間のDNAは、科学者たちが植物の遺伝の歴史についてもっと知るのに役立てられる。）
+3 The fruit and seeds of Silene stenophylla may have been buried by an ancient animal.（シレネ・ステノフィラの果実と種は、大昔の動物によって埋められたのかもしれない。）
+4 The first plant that had flowers grew in Siberia over 32,000 years ago.（花をつけた最初の植物は、3万2000年以上前にシベリアで育った。）
+【考え方】
+本文全体から正しいものを選ぶ問題なので、選択肢を1つずつ本文と照らし合わせます。3は、第2段落の次の文と合います。
+The scientists discovered seeds and fruits of the plant buried deep below the ground.（科学者たちは、その植物の種と果実が地中深くに埋まっているのを発見した）
+They believe the seeds and fruits were put there by an ancient animal which stored them to eat during the winter.（彼らは、その種と果実は、冬の間に食べるためにそれらをたくわえていた大昔の動物によってそこに置かれたと考えている）
+there（そこに）は「地中深く」を指しています。
+本文と選択肢を対にすると、次のようになります。
+本文 They believe（科学者たちは～と考えている）→ 選択肢 may have been（～だったのかもしれない）
+本文 were put there（地中深くに置かれた）＝ 選択肢 have been buried（埋められた）
+科学者たちが「そう考えている」ということなので、確かなことではありません。それを may have been（～だったのかもしれない）と表しています。3が正解です。
+【ほかの選択肢】
+1 本文では、永久凍土が種の中の遺伝情報を protected（守った）と述べられています。これは過去に起きたことの説明で、科学者たちがこれから凍った土を使って種を守りたいと思っているとは書かれていません。
+2 本文で DNA が出てくるのは、the study of DNA（DNAの研究）が大昔の植物や動物を調べる科学者たちの重要な道具になった、という部分です。人間のDNAを植物の研究に使うという話は書かれていません。
+4 本文の32,000-year-old plant（3万2000年前の植物）は、科学者たちがこれまでによみがえらせた中で群を抜いて最も古い植物です。花をつけた最初の植物がシベリアで育ったという話は本文になく、言い過ぎです。
+【覚えるポイント】
+・may have ＋過去分詞：「～したのかもしれない」。過去のことについての推測を表します。
+・Which of the following statements is true? の問題は、選択肢ごとに本文の該当箇所を探して確かめます。

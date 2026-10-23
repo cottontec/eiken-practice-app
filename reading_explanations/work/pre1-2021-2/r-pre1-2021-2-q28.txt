@@ -1,0 +1,31 @@
+---
+choices: have already been successful | should ignore written sources | may be focusing on the wrong location | could be destroying their remains
+answerText: may be focusing on the wrong location
+reviewed: yes
+---
+【正解】3 may be focusing on the wrong location（まちがった場所に注目しているのかもしれない）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 have already been successful（すでに成功している）
+2 should ignore written sources（書かれた資料を無視すべきだ）
+3 may be focusing on the wrong location（まちがった場所に注目しているのかもしれない）
+4 could be destroying their remains（その遺跡を壊しているかもしれない）
+【考え方】
+まず見るところ：第3段落の Sennacherib, however, ruled in the city of Nineveh, 300 miles from Babylon と、最後の文
+空所のある文は次のとおりです。
+Research by scholar Stephanie Dalley suggests that efforts to find the gardens ( 28 ).（学者のステファニー・ダリーの研究は、庭園を見つけようとする取り組みが（28）ことを示している）
+空所には、ダリーの研究から分かる「庭園さがし」についての考えが入ります。そこで、そのあとに書かれたダリーの研究の中身を見ます。
+Sennacherib, however, ruled in the city of Nineveh, 300 miles from Babylon.（しかし、センナケリブが治めていたのは、バビロンから300マイル離れたニネベという都市だった）
+If Dalley is correct, ancient descriptions of the Hanging Gardens of Babylon may actually refer to the gardens at Sennacherib’s palace.（もしダリーが正しければ、バビロンの空中庭園についての古代の記述は、実はセンナケリブの宮殿の庭園のことを指しているのかもしれない）
+センナケリブの宮殿の庭園はニネベにあり、バビロンから遠く離れています。古い書物に描かれた庭園が、実はニネベの庭園のことだとすれば、バビロンで庭園をさがしても見つからないことになります。
+つまり、庭園さがしは「さがす場所がまちがっているのかもしれない」ということなので、3が正解です。
+この問題の型：推論（庭園はバビロンではなくニネベにあったのかもしれない→さがす場所がちがう）
+【ほかの選択肢】
+1 have already been successful は「すでに成功している」です。第2段落に archaeologists have been unable to locate any ruins（考古学者たちは遺跡を一つも見つけられずにいる）とあり、成功していません。
+2 should ignore written sources は「書かれた資料を無視すべきだ」です。ダリーはセンナケリブが書いた文書を翻訳して手がかりにしているので、書かれた資料を無視すべきだという考えにはつながりません。
+4 could be destroying their remains は「その遺跡を壊しているかもしれない」です。調査が遺跡を壊しているという話は、本文にありません。
+【覚えるポイント】
+・location：「場所、位置」。focus on the wrong location で「まちがった場所に注目する」。
+・空所のある文が「ある研究は～ということを示している」という形のときは、そのあとに書かれた研究の中身（ここではニネベの庭園の話）をまとめた内容が入る手がかりになります。

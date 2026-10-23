@@ -1,0 +1,26 @@
+---
+choices: First of all | By mistake | As a result | On average
+answerText: As a result
+reviewed: yes
+---
+【正解】3 As a result（その結果）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 First of all：まず第一に
+2 By mistake：まちがって
+3 As a result：その結果
+4 On average：平均して
+【考え方】
+空所は第1段落の2文目の初めにあります。このような空所では、前の文と後ろの文がどんな関係にあるかを考えます。
+前の文は Every day, so much information is added to the Internet that no individual could hope to read it all.（毎日とても多くの情報がインターネットに加えられるので、だれもそのすべてを読もうと望むことはできない）です。so ～ that …（とても～なので…）の形で、「情報が多すぎて全部は読めない」という困った状況を述べています。
+後ろの文は a new kind of site, known as a "social-news site," is becoming popular in the United States（「ソーシャルニュース・サイト」という新しい種類のサイトがアメリカで人気になってきている）です。さらに次の文で、このサイトは save people time（人々の時間を節約する）と説明されています。
+つまり、「情報が多すぎて読みきれない」という原因があり、そのため「時間を節約できるサイトが人気になっている」という結果が生まれた、という関係です。原因から結果へつなぐ As a result（その結果）が合うので、正解は3です。
+【ほかの選択肢】
+1 First of all は「まず第一に」で、いくつかのことを順番に並べるときの最初に使います。ここでは前の文の「原因」を受けて「結果」を述べているので、順番を数える言葉は合いません。
+2 By mistake は「まちがって」です。新しい種類のサイトが「まちがって」人気になっているとは書かれておらず、時間を節約できるという長所があるから人気だという流れに合いません。
+4 On average は「平均して」で、数や量の平均を言うときに使います。この文には平均を表す数がなく、サイトが人気になっていることと結びつきません。
+【覚えるポイント】
+・As a result：「その結果」。前に原因、後ろに結果がくるときに使います。
+・so ～ that …：「とても～なので…」。ここでは so much information that ～（とても多くの情報なので～）の形です。

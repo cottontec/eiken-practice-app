@@ -1,0 +1,27 @@
+---
+choices: no less | no more | any less | any more
+answerText: no less
+reviewed: yes
+---
+【正解】1 no less（no less ～ than … で「…に劣らず～」）
+【和訳】
+（英文）
+Roger is a chef at a health-food restaurant. His goal is to create healthy versions of dishes that are ［no less］ delicious than the original versions.
+（訳）
+ロジャーは健康食レストランのシェフです。彼の目標は、元の料理（もともとの作り方の料理）に（劣らず）おいしい、健康的な料理を作り出すことです。
+（選択肢の意味）
+1 no less：（no less ～ than … で）…に劣らず～、…と同じくらい～
+2 no more：（no more ～ than … で）…より少しも～ではない
+3 any less：（not any less ～ than … の形で）…に劣らず～
+4 any more：（not any more ～ than … の形で）…より少しも～ではない
+【考え方】
+空所のあとの delicious than the original versions（元のもの〔もともとの作り方の料理〕より、おいしい）に注目します。than があるので、元の料理と比べている文です。
+ロジャーは健康食レストランのシェフで、目標は create healthy versions of dishes（料理の健康的な版〔バージョン〕を作ること）です。that are (　) delicious ～ は、その健康的な料理がどんな料理かを説明しています。
+健康的な料理を作る人の目標としては、「元の料理と比べても、おいしさが少しも劣らない」ものを作ることが自然です。no less ～ than … は「…より少しも劣っていない」、つまり「…に劣らず～、…と同じくらい～」という意味です。よって1が正解です。
+【ほかの選択肢】
+2 no more ～ than … は「…より少しも～ではない」という意味です。no more delicious than the original versions では「元の料理より少しもおいしくない」となり、目標として自然ではありません。
+3 any less ～ は、ふつう not などの否定の語といっしょに使う形です（not any less ～ で「少しも劣らない」）。この文には not がないので、are any less delicious than ～ とは言えません。
+4 any more ～ も、ふつう not などの否定の語や疑問文といっしょに使う形です。この文には not がないので、ここには入りません。
+【覚えるポイント】
+・no less ～ than …：「…に劣らず～、…と同じくらい～」。
+・version：「（ある物の）版、型」。a healthy version of ～ で「～の健康的なもの」。

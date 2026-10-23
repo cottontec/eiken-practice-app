@@ -1,0 +1,29 @@
+---
+choices: They take fewer days off for things like medical appointments. | They have trouble getting back on schedule after the long weekend. | Companies cannot get their employees to work hard at the office. | Companies are able to sell buildings that are not being used.
+answerText: They take fewer days off for things like medical appointments.
+reviewed: yes
+---
+【正解】1 They take fewer days off for things like medical appointments.（病院の予約などのために休む日がより少なくなる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：人々が週4日勤務になったときに起こることの1つは何ですか。
+1 They take fewer days off for things like medical appointments.（病院の予約などのために休む日がより少なくなる。）
+2 They have trouble getting back on schedule after the long weekend.（長い週末のあと、予定どおりの生活に戻るのに苦労する。）
+3 Companies cannot get their employees to work hard at the office.（会社は、従業員を職場で一生懸命働かせることができない。）
+4 Companies are able to sell buildings that are not being used.（会社は、使っていない建物を売ることができる。）
+【考え方】
+週4日勤務の利点は、第2段落にまとめられています。
+Moreover, they take fewer holidays from work to do things like visiting the doctor or the bank.（さらに、医者や銀行に行くといった用事のために仕事を休む日が、より少なくなる）とあります。Moreover は「さらに」、take a holiday from work は「仕事を休む」、fewer は「より少ない」です。週4日勤務なら、休みの日に医者や銀行に行けるので、そのために仕事を休む必要が減るのだと考えられます。
+本文と選択肢は次のように対応しています。
+本文 take fewer holidays from work（仕事を休む日がより少なくなる）→ 選択肢 take fewer days off（休む日がより少なくなる）
+本文 to do things like visiting the doctor（医者に行くといった用事のため）→ 選択肢 for things like medical appointments（病院の予約などのため）
+take ～ days off は「～日の休みを取る」、medical appointment は「病院の予約、診察の約束」です。正解は1です。
+【ほかの選択肢】
+2 本文には、3日休めるので they tend to be healthier and more hardworking when they are at work（職場ではより健康で、よりよく働く傾向がある）と書かれています。長い週末のあとに苦労するとは書かれていません。
+3 本文では、従業員はより hardworking（よく働く）になる傾向があると書かれています。会社が従業員を一生懸命働かせられない、というのは本文と反対の内容です。
+4 本文に書かれているのは、employers can close buildings for the day（雇い主はその日は建物を閉めることができる）と、照明や暖房のお金を節約できることです。建物を売るとは書かれていません。
+【覚えるポイント】
+・take ～ off：「～の休みを取る」。take a day off で「1日休みを取る」。
+・fewer：「より少ない」。few（少ない）の比較級（「より～」を表す形）で、数えられるもの（days など）に使います。

@@ -1,0 +1,29 @@
+---
+choices: come into | bring about | close in | sum up
+answerText: come into
+reviewed: yes
+---
+【正解】1 come into（〈財産などを〉受け継ぐ、手に入れる）
+【和訳】
+（英文）
+Wendy thought she was going to ［come into］ a lot of money when her grandfather died. She was shocked to learn that he had left her almost nothing.
+（訳）
+ウェンディは、祖父が亡くなったとき、自分は大金を（受け継ぐ）ことになると思っていた。祖父が彼女にほとんど何も残していなかったと知って、ウェンディはショックを受けた。
+（選択肢の意味）
+1 come into：（財産などを）受け継ぐ、手に入れる
+2 bring about：引き起こす、もたらす
+3 close in：（周りから）迫ってくる
+4 sum up：まとめる、要約する
+【考え方】
+まず見るところ：空所の後ろの a lot of money when her grandfather died と、次の文の he had left her almost nothing
+ウェンディは、祖父が亡くなったときに、大金を〇〇すると思っていました。次の文を見ます。
+She was shocked to learn that he had left her almost nothing.（彼女は、彼が自分にほとんど何も残していなかったと知ってショックを受けた）
+leave A B は「（亡くなった人が）AにBを残す」です。ウェンディは、祖父がたくさんのお金を残してくれる、つまり自分が大金を受け継ぐと思っていたのに、実際にはほとんど何も残されていなかったのです。come into は「（財産などを）受け継ぐ、手に入れる」なので、1が正解です。
+この問題の型：対比（大金を受け継ぐと思っていた ⇔ ほとんど何も残されていなかった）
+【ほかの選択肢】
+2 bring about は「引き起こす」です。「大金を引き起こす」では意味が通りません。
+3 close in は「迫ってくる」で、あとに名詞をそのまま置いて「～を…する」とは使いません。「大金を迫ってくる」では意味が通りません。
+4 sum up は「まとめる、要約する」です。「祖父が亡くなったら大金をまとめる」では、次の文の「何も残されていなかった」とつながりません。
+【覚えるポイント】
+・come into (money)：「（お金・財産を）受け継ぐ、手に入れる」。leave A B：「（亡くなった人が）AにBを残す」。
+・was shocked to learn（知ってショックを受けた）のあとには、予想と違う事実が書かれます。その事実の反対が、前の文の予想（空所）の中身の手がかりになります。

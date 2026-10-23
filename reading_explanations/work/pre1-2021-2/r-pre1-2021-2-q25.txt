@@ -1,0 +1,32 @@
+---
+choices: roll around | rip up | wash down | live on
+answerText: live on
+reviewed: yes
+---
+【正解】4 live on（～で生活する、～を頼りに暮らす）
+【和訳】
+（英文）
+Greg enjoyed his part-time job at the café, but he found he could not ［live on］ the salary he was getting, so he started looking for a full-time job.
+（訳）
+グレッグはカフェでのアルバイトを楽しんでいたが、もらっている給料では（生活していけ）ないと分かったので、フルタイムの仕事を探し始めた。
+（選択肢の意味）
+1 roll around：転がり回る、（ある時期が）めぐってくる
+2 rip up：（紙などを）引き裂く、ずたずたにする
+3 wash down：（食べ物を飲み物で）流しこむ、洗い流す
+4 live on：～で生活する、～を頼りに暮らす
+【考え方】
+まず見るところ：空所のすぐあとの the salary と、後半の so he started looking for a full-time job
+空所のある部分を確かめます。
+he found he could not ( ) the salary he was getting（もらっている給料では（　）ないと分かった）
+salary は「給料」です。空所の語句は、後ろの the salary he was getting（もらっている給料）とつながります。
+次に、後半を見ます。
+so he started looking for a full-time job（それで、フルタイムの仕事を探し始めた）
+full-time job は「決められた勤務時間をすべて働く仕事」です。アルバイトは楽しかったのに別の仕事を探したのは、今の給料では足りなかったからだと考えられます。live on ～ は「～で生活する」なので、「その給料では生活できない」となり、4が正解です。
+この問題の型：対比（enjoyed ～, but：楽しんでいたが給料が足りない）／熟語・決まった形（live on ～：～で生活する）
+【ほかの選択肢】
+1 roll around は「転がり回る、（時期が）めぐってくる」です。「給料を転がり回ることができない」では意味が通りません。
+2 rip up は「引き裂く」です。「給料を引き裂くことができない」では、仕事を探し始めた理由になりません。
+3 wash down は「（食べ物を）飲み物で流しこむ」です。「給料を流しこむことができない」では意味が通りません。
+【覚えるポイント】
+・live on ～：「～（お金や食べ物）で生活する」。live on the salary で「その給料で暮らす」。
+・but と so が続く文では、but のあとに「困ったこと」、so のあとに「その対策」が書かれていることが多く、対策（ここでは別の仕事探し）から困ったことの中身を考える手がかりになります。

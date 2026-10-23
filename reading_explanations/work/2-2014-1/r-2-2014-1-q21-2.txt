@@ -1,0 +1,21 @@
+---
+choices: goes | every | then he | now and | to
+answerText: now and
+order: 2 4 3 1 5
+reviewed: yes
+---
+【正解】4 now and（この問題の2番目）
+【完成文】
+Phil does not go shopping very often, but ( every now and then he goes to ) the mall to buy new shoes.
+並べ方：2 every → 4 now and → 3 then he → 1 goes → 5 to（2番目は4、4番目は1）
+【和訳】
+フィルはあまり買い物に行きませんが、ときどき、新しい靴を買いにショッピングモールへ行きます。
+【考え方】
+まず文の流れを確かめます。前半は Phil does not go shopping very often（フィルはあまり買い物に行かない）です。not ～ very often は「あまり～しない」という意味です。そのあとに but（しかし）が続くので、後半は「でも、ときには行く」という内容になると考えられます。
+選択肢を見ると、every、now and、then he があります。この3つをつなぐと every now and then（ときどき）という決まった言い方ができます。「あまり行かない、でもときどきは行く」という流れにぴったりです。
+every now and then he の he が主語になるので、次に動詞の 1 goes を置きます。主語が he なので、go に es の付いた goes になっています。最後に 5 to を置くと、空所のあとの the mall とつながって goes to the mall（ショッピングモールへ行く）となります。
+並びは every → now and → then he → goes → to で、2番目は4 now and です。
+まちがえやすいのは、now and every then he goes to のように now and を先に置く並べ方です。every now and then はこの順番で1つのまとまりなので、語の順番を入れかえると意味が通らなくなります。
+【覚えるポイント】
+・every now and then：「ときどき」。now and then だけでも同じ意味で使えます。
+・not ～ very often：「あまり～しない」。

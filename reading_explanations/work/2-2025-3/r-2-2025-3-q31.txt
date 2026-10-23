@@ -1,0 +1,32 @@
+---
+choices: Television appeared in the twentieth century mainly to broadcast advertisements. | Advertisements can help businesses share information about their products and make a profit. | São Paulo followed Grenoble's successful way to ban electronic advertisements. | Freedom of speech is the most important right above all other rights in Switzerland.
+answerText: Advertisements can help businesses share information about their products and make a profit.
+reviewed: yes
+---
+【正解】2 Advertisements can help businesses share information about their products and make a profit.（広告は、企業が自分たちの製品についての情報を伝えたり、利益を上げたりするのに役立つことがある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Which of the following statements is true?（次の記述のうち、正しいものはどれですか。）
+1 Television appeared in the twentieth century mainly to broadcast advertisements.（テレビは、主に広告を放送するために20世紀に登場した。）
+2 Advertisements can help businesses share information about their products and make a profit.（広告は、企業が自分たちの製品についての情報を伝えたり、利益を上げたりするのに役立つことがある。）
+3 São Paulo followed Grenoble's successful way to ban electronic advertisements.（サンパウロは、電子広告を禁止したグルノーブルの成功したやり方にならった。）
+4 Freedom of speech is the most important right above all other rights in Switzerland.（スイスでは、言論の自由がほかのすべての権利より上の、最も重要な権利である。）
+【考え方】
+まず見るところ：第1段落の advertising spread as a way for businesses to share information about their products と helped businesses make money
+本文全体と照らし合わせる設問なので、選択肢を1つずつ本文と比べます。2は第1段落と合います。
+advertising spread as a way for businesses to share information about their products（広告は、企業が自分たちの製品についての情報を伝える手段として広まった）
+This tool not only encouraged people to buy goods and helped businesses make money but also ～（この手段は、人々に商品を買うよう促し、企業がお金をかせぐのを助けただけでなく、～）
+本文と選択肢を対にすると、次のようになります。
+本文 a way for businesses to share information about their products（企業が製品の情報を伝える手段）→ 選択肢 help businesses share information about their products（企業が製品の情報を伝えるのに役立つ）
+本文 helped businesses make money（企業がお金をかせぐのを助けた）＝ 選択肢 help businesses ～ make a profit（企業が利益を上げるのに役立つ）
+make money（お金をかせぐ）と make a profit（利益を上げる）は、ほぼ同じ意味です。ですから2が正解です。
+この問題の型：言いかえ（make money → make a profit）
+【ほかの選択肢】
+1 本文にありません。広告が広まったきっかけとして本文に出てくるのは新聞の発明で、テレビの話は出てきません。
+3 本文と合いません。第3段落では、サンパウロの法律は2000年代の初めのことで、グルノーブルの決定は Later（その後）とあります。順番が逆です。また、サンパウロの法律では電子看板は使うことができました。
+4 言い切りすぎです。第4段落には freedom of speech is emphasized in the country（その国では言論の自由が重んじられている）とありますが、ほかのすべての権利より上の最も重要な権利だとまでは書かれていません。
+【覚えるポイント】
+・make money／make a profit：どちらも「お金をかせぐ、利益を上げる」。選択肢で言いかえられることがあります。
+・Which of the following statements is true? の問題では、the most（最も）や above all（何よりも）のような強い言葉を含む選択肢は、本文がそこまで言っているかを確かめると、言い切りすぎを見分ける手がかりになります。

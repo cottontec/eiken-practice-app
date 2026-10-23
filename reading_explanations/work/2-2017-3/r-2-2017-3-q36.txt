@@ -1,0 +1,30 @@
+---
+choices: The plant used to produce fewer flowers than it produces now. | The plant has evolved to have shorter petals on its flowers. | The ancient plant was a different color from its modern relative. | The modern plant is found across a wider area of Russia than the ancient one.
+answerText: The plant has evolved to have shorter petals on its flowers.
+reviewed: yes
+---
+【正解】2 The plant has evolved to have shorter petals on its flowers.（その植物は、進化して花の花びらがより短くなった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ロシアの科学者たちが、大昔の植物を現代の近縁種（近い仲間）と比べて分かったことの1つは何ですか。
+1 The plant used to produce fewer flowers than it produces now.（その植物は、昔は今よりも少ない数の花をつけていた。）
+2 The plant has evolved to have shorter petals on its flowers.（その植物は、進化して花の花びらがより短くなった。）
+3 The ancient plant was a different color from its modern relative.（大昔の植物は、現代の近縁種とは違う色だった。）
+4 The modern plant is found across a wider area of Russia than the ancient one.（現代の植物は、大昔の植物よりもロシアの広い地域で見られる。）
+【考え方】
+大昔の花と現代の花の比較は、第3段落に書かれています。
+A modern relative of the original flower still grows in Siberia, but when the ancient flower was grown, it had some important differences from the modern flower.（もとの花の現代の近縁種が今もシベリアで育っているが、大昔の花を育ててみると、それには現代の花とのいくつかの重要な違いがあった）
+The petals on the ancient flower were much longer and also spaced further apart.（大昔の花の花びらは〔現代の花よりも〕ずっと長く、また花びらどうしの間隔もより広くあいていた）
+大昔の花の花びらが現代の花よりずっと長かった、ということは、逆に言えば、現代の花の花びらのほうが短いということです。また、次の文に Studying the ancient flower will allow the scientists to learn more about how plants have evolved.（大昔の花を研究することで、科学者たちは植物がどのように進化してきたかについて、より多くを知ることができる）とあり、この違いが進化（長い時間をかけて生き物が変化すること）と関係していると分かります。
+本文と選択肢を対にすると、次のようになります。
+本文 The petals on the ancient flower were much longer（大昔の花の花びらは〔現代の花よりも〕ずっと長かった）→ 選択肢 has evolved to have shorter petals（進化して花びらがより短くなった）
+2が正解です。
+【ほかの選択肢】
+1 花の数の違いについては、本文に書かれていません。本文にある違いは、花びらの長さと間隔です。
+3 色の違いについても、本文に書かれていません。
+4 本文には、大昔の花が used to grow in Siberia（かつてシベリアで育っていた）、現代の近縁種が still grows in Siberia（今もシベリアで育っている）とあるだけです。どちらが広い地域で見られるかは書かれていません。
+【覚えるポイント】
+・much longer：「（比べる相手より）ずっと長い」。much は比較の意味を強めます。
+・A is longer than B は、言いかえると B is shorter than A になります。比較は、何と何を比べているかを確かめて読みます。

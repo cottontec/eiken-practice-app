@@ -1,0 +1,29 @@
+---
+choices: shortening | observing | exporting | decorating
+answerText: exporting
+reviewed: yes
+---
+【正解】3 exporting（輸出すること）
+【和訳】
+（英文）
+Mark started a coffee farm in Hawaii. He was not able to sell many coffee beans in Hawaii, but he has made a lot of money since he started ［exporting］ them to other countries.
+（訳）
+マークはハワイでコーヒー農園を始めました。彼はハワイではあまり多くのコーヒー豆を売ることができませんでしたが、それをほかの国々に（輸出し）始めてから、たくさんのお金をかせいできました。
+（選択肢の意味）
+1 shortening：短くすること
+2 observing：観察すること
+3 exporting：輸出すること
+4 decorating：飾ること
+【考え方】
+空所のある文 He was not able to ～ の前半と後半が but（しかし）でつながっている点に注目します。
+・前半：He was not able to sell many coffee beans in Hawaii（ハワイではあまり多くのコーヒー豆を売ることができなかった）
+・後半：he has made a lot of money since he started (　) them to other countries（それらをほかの国々に（　）し始めてから、たくさんのお金をかせいできた）
+them は coffee beans（コーヒー豆）を指しています。ハワイではあまり売れなかったが、ほかの国に「どうする」ようになってから、お金をかせげるようになった、という対比（2つを比べて違いを示すこと）です。
+export は「（ほかの国へ）輸出する」という意味で、export A to B で「AをBへ輸出する」となります。to other countries ともつながります。豆をほかの国に売るようになったからお金をかせげた、という流れになるので、3が正解です。
+【ほかの選択肢】
+1 shortening は「短くすること」です。「コーヒー豆をほかの国々に短くし始めてから」となり、意味が通りません。
+2 observing は「観察すること」です。豆を観察しても売ったことにはならず、お金をかせいだ理由になりません。
+4 decorating は「飾ること」です。「コーヒー豆をほかの国々に飾り始めてから」となり、意味が通りません。
+【覚えるポイント】
+・export A to B：「AをBへ輸出する」。反対の意味は import（輸入する）。
+・start -ing：「～し始める」。since he started -ing で「～し始めてから（ずっと）」。

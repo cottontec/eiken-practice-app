@@ -1,0 +1,29 @@
+---
+choices: dehydration | visibility | chatter | literacy
+answerText: dehydration
+reviewed: yes
+---
+【正解】1 dehydration（脱水症状。体の水分が足りなくなること）
+【和訳】
+（英文）
+Athletes are advised to drink water frequently during their workouts in order to prevent ［dehydration］.
+（訳）
+運動選手は、（脱水症状）を防ぐために、トレーニング中にこまめに水を飲むよう勧められている。
+（選択肢の意味）
+1 dehydration：脱水症状（体の水分が足りなくなること）
+2 visibility：見通し、視界
+3 chatter：おしゃべり
+4 literacy：読み書きの能力
+【考え方】
+まず見るところ：文の前半の drink water frequently と、空所の前の in order to prevent
+in order to ～ は「～するために」、prevent は「防ぐ」です。つまり、空所には「トレーニング中にこまめに水を飲むことで防げるもの」が入ります。
+Athletes are advised to drink water frequently during their workouts（運動選手は、トレーニング中にこまめに水を飲むよう勧められている）
+運動をすると汗をかいて、体の水分が減ります。水を飲むのは、体の水分が足りなくなるのを防ぐためです。dehydration は「脱水症状」なので、1が正解です。de- は「取り去る」、hydr- は「水」を表す部分で、「水分が抜けること」を意味します。
+この問題の型：因果（水を飲む in order to 脱水を防ぐ）
+【ほかの選択肢】
+2 visibility は「見通し、視界」です。水を飲んで視界を防ぐことにはならず、意味が通りません。
+3 chatter は「おしゃべり」です。水を飲むこととおしゃべりを防ぐことはつながりません。
+4 literacy は「読み書きの能力」です。読み書きの能力は防ぐものではなく、意味が通りません。
+【覚えるポイント】
+・dehydration：「脱水症状」。prevent ～：「～を防ぐ」。in order to ～：「～するために」。
+・prevent（防ぐ）のあとの空所には、よくないことを表す語が入ります。その前に書かれた行動（ここでは水を飲むこと）で防げるものかどうかが手がかりになります。

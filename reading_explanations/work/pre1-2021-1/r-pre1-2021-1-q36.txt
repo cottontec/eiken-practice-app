@@ -1,0 +1,37 @@
+---
+choices: The organizations that provide financial support in their communities have been negatively affected by changes to their society. | Sámi who have been forced to move from rural regions to urban areas are choosing to reject their culture in order to be accepted. | The conflict between younger Sámi and the older generation regarding reindeer farming is leading many to suffer from mental health issues. | Younger Sámi are struggling with mental health issues caused by isolation from their families and the loss of their cultural traditions.
+answerText: Younger Sámi are struggling with mental health issues caused by isolation from their families and the loss of their cultural traditions.
+reviewed: yes
+---
+【正解】4 Younger Sámi are struggling with mental health issues caused by isolation from their families and the loss of their cultural traditions.（若いサーミの人々は、家族からの孤立と文化的な伝統の喪失によって引き起こされた、心の健康の問題に苦しんでいる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to the passage, what difficulties are the Sámi facing?（本文によると、サーミの人々はどんな困難に直面しているか。）
+1 The organizations that provide financial support in their communities have been negatively affected by changes to their society.（彼らの共同体で経済的な支援をしている団体が、社会の変化によって悪い影響を受けてきた。）
+2 Sámi who have been forced to move from rural regions to urban areas are choosing to reject their culture in order to be accepted.（農村部から都市部へ移ることを強いられたサーミの人々は、受け入れてもらうために自分たちの文化を捨てることを選んでいる。）
+3 The conflict between younger Sámi and the older generation regarding reindeer farming is leading many to suffer from mental health issues.（トナカイの飼育をめぐる若いサーミの人々と年上の世代との対立が、多くの人に心の健康の問題を引き起こしている。）
+4 Younger Sámi are struggling with mental health issues caused by isolation from their families and the loss of their cultural traditions.（若いサーミの人々は、家族からの孤立と文化的な伝統の喪失によって引き起こされた、心の健康の問題に苦しんでいる。）
+【考え方】
+まず見るところ：第2段落の Some teenagers and young adults have fled to cities for work と、With their lives uprooted and their cultural traditions being lost ～, many suffer from significant mental health problems.
+第2段落は、サーミの人々が直面している困難についての段落です。まず、若い人々について次のように書かれています。
+Some teenagers and young adults have fled to cities for work, and these urban Sámi have found themselves alienated and the target of discrimination due to their heritage.（10代の若者や若い大人の中には、仕事を求めて都市へのがれた人々がおり、こうした都市に住むサーミの人々は、自分たちが疎外され、その出自のために差別の対象になっていることに気づいた）
+fled は flee（のがれる）の過去分詞、alienated は「疎外された（周りから受け入れられず孤立した）」という意味です。
+続く文は次のとおりです。
+With their lives uprooted and their cultural traditions being lost without access to vibrant Sámi social groups, many suffer from significant mental health problems.（生活の基盤を根こそぎ失い、活気あるサーミの社会集団に加わることができないまま文化的な伝統が失われていく中で、多くの人が深刻な心の健康の問題に苦しんでいる）
+uprooted は「根こそぎにされた（住みなれた場所から引きはなされた）」という意味です。
+本文と選択肢4を対にすると、次のようになります。
+本文 teenagers and young adults（10代の若者や若い大人）＝ 選択肢 Younger Sámi（若いサーミの人々）
+本文 suffer from significant mental health problems（深刻な心の健康の問題に苦しむ）＝ 選択肢 are struggling with mental health issues（心の健康の問題に苦しんでいる）
+本文 their cultural traditions being lost（文化的な伝統が失われていく）＝ 選択肢 the loss of their cultural traditions（文化的な伝統の喪失）
+本文 lives uprooted（生活の基盤を根こそぎ失う）、fled to cities（都市へのがれた）、alienated（孤立した）→ 選択肢 isolation from their families（家族からの孤立）
+本文には families（家族）という語そのものはありませんが、若い人々が住みなれた場所をはなれ、都市で孤立していることを、選択肢は「家族からの孤立」とまとめていると考えられます。ほかの選択肢には本文の根拠がないので、4が正解です。
+この問題の型：言いかえ（teenagers and young adults ＝ Younger Sámi／cultural traditions being lost ＝ the loss of their cultural traditions）
+【ほかの選択肢】
+1 本文にありません。共同体で経済的な支援をしている団体については、何も書かれていません。
+2 本文にない内容を含んでいます。都市へ移った若い人々が差別を受けていることは書かれていますが、受け入れてもらうために自分たちの文化を捨てることを選んでいる、とは書かれていません。本文では、文化的な伝統は「失われていく」とされており、自分から捨てているとは書かれていません。また、移ることを「強いられた」とも書かれていません。
+3 本文にありません。若いサーミの人々と年上の世代がトナカイの飼育をめぐって対立している、という話は出てきません。
+【覚えるポイント】
+・本文の語がそのまま出てこない選択肢（ここでは families）は、まず「ほかの選択肢に本文の根拠があるか」を確かめ、根拠のある選択肢がほかにないかを比べると判断の手がかりになります。
+・With their lives uprooted ～（生活の基盤を根こそぎ失って）のような With ～ の形は、そのあとの文の状況や原因を説明していることがあります。

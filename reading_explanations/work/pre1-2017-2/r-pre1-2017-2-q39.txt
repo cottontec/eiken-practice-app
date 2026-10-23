@@ -1,0 +1,34 @@
+---
+choices: Their military victories in the Middle East ensured that their culture survived and became dominant there. | Their ironworking and archery techniques were copied by peoples in Egypt and other areas. | Their culture eventually merged with those of other groups that lived in the Middle East. | Their refusal to move away from coastal areas left them open to attacks by more warlike peoples.
+answerText: Their culture eventually merged with those of other groups that lived in the Middle East.
+reviewed: yes
+---
+【正解】3 Their culture eventually merged with those of other groups that lived in the Middle East.（彼らの文化は、やがて中東に住んでいたほかの集団の文化と一つになった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one thing that is known about the Philistines?（ペリシテ人について分かっていることの1つは何ですか。）
+1 Their military victories in the Middle East ensured that their culture survived and became dominant there.（中東での軍事的な勝利によって、彼らの文化は確実に生き残り、その地で優勢になった。）
+2 Their ironworking and archery techniques were copied by peoples in Egypt and other areas.（彼らの鉄を加工する技術と弓矢の技術は、エジプトやほかの地域の民族にまねされた。）
+3 Their culture eventually merged with those of other groups that lived in the Middle East.（彼らの文化は、やがて中東に住んでいたほかの集団の文化と一つになった。）
+4 Their refusal to move away from coastal areas left them open to attacks by more warlike peoples.（海沿いの地域から移るのを拒んだため、彼らは（自分たちより）好戦的な民族から攻撃を受けやすくなった。）
+【考え方】
+まず見るところ：第2段落の最後の Eventually, however, they suffered a series of military defeats and were gradually absorbed into the cultures of other peoples in the region.
+第2段落には、ペリシテ人について分かっていることが順に書かれています。
+They are known to have fought against the Jews, as well as other peoples in the Middle East, such as the Egyptians and Canaanites, on numerous occasions, achieving much military success.（彼らは、ユダヤ人だけでなく、エジプト人やカナン人のような中東のほかの民族とも何度も戦い、軍事的に大きな成功を収めたことが知られている）
+Eventually, however, they suffered a series of military defeats and were gradually absorbed into the cultures of other peoples in the region.（しかし、やがて彼らは軍事的な敗北を次々と経験し、しだいにその地域のほかの民族の文化に吸収されていった）
+be absorbed into ～ は「～に吸収される（取りこまれて一つになる）」という意味です。in the region（その地域の）は、中東のガザ周辺の地域を指しています。
+本文と選択肢を対にすると、次のようになります。
+本文 Eventually（やがて）＝ 選択肢 eventually（やがて）
+本文 were gradually absorbed into the cultures of other peoples（ほかの民族の文化にしだいに吸収された）→ 選択肢 merged with those of other groups（ほかの集団の文化と一つになった）
+本文 in the region（その地域の）→ 選択肢 that lived in the Middle East（中東に住んでいた）
+merge は「合わさって一つになる」という意味です。ほかの文化に吸収されることを、文化が一つに合わさったと言いかえているので、3が正解です。
+この問題の型：言いかえ（were absorbed into → merged with）／対比（軍事的な成功⇔however やがて敗北と吸収）
+【ほかの選択肢】
+1 本文と合いません。ペリシテ人は大きな軍事的成功を収めましたが、やがて敗北が続き、ほかの民族の文化に吸収されました。彼らの文化が生き残って優勢になったのではありません。第1段落にも、書かれた記録を何も残さなかったとあります。
+2 本文にありません。鉄を加工する技術と弓矢の技術は、ペリシテ人の軍事的な成功の理由とされているだけで、エジプトなどの民族にまねされたという話はありません。
+4 本文にありません。ペリシテ人が海沿いの地域から移るのを拒んだという話も、そのために攻撃を受けやすくなったという話もありません。
+【覚えるポイント】
+・be absorbed into ～：「～に吸収される」。merge with ～（～と一つになる）と近い意味で言いかえられています。
+・段落の途中で Eventually, however（しかし、やがて）が出てきたら、そこから話の向きが変わり、最後にどうなったかが書かれていることが多いので、「分かっていること」を探す手がかりになります。

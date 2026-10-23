@@ -1,0 +1,33 @@
+---
+choices: given a few years before they were completely banned. | discussed more often than any other topic in advertisements. | criticized by government officials more. | left without becoming the target of the law.
+answerText: left without becoming the target of the law.
+reviewed: yes
+---
+【正解】4 left without becoming the target of the law.（法律の対象にならないまま残された。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Under São Paulo's Clean City Law, electronic signs were（サンパウロのクリーン・シティ法のもとで、電子看板は、）
+1 given a few years before they were completely banned.（完全に禁止されるまで、数年の猶予（待ってもらえる期間）を与えられた。）
+2 discussed more often than any other topic in advertisements.（広告に関するほかのどの話題よりも多く話し合われた。）
+3 criticized by government officials more.（政府の役人から、より多く批判された。）
+4 left without becoming the target of the law.（法律の対象にならないまま残された。）
+【考え方】
+まず見るところ：第3段落の However, electronic signs, ～, could be used even under the law.
+第3段落では、まずクリーン・シティ法で禁止された広告が説明されています。
+This law prohibited advertisements on taxis and buses, and outside store entrances.（この法律は、タクシーやバスの広告と、店の入り口の外の広告を禁止した）
+そのあと、However（しかし）で電子看板の話になります。
+However, electronic signs, which had started to gain popularity, could be used even under the law.（しかし、人気が出始めていた電子看板は、この法律のもとでも使うことができた）
+even under the law は「その法律のもとでさえ」という意味で、法律ができたあとも電子看板は使えたということです。
+本文と選択肢を対にすると、次のようになります。
+本文 could be used even under the law（その法律のもとでも使うことができた）→ 選択肢 left without becoming the target of the law（法律の対象にならないまま残された）
+法律で禁止されずに使い続けられたということは、法律の対象にならなかったということです。ですから4が正解です。
+この問題の型：対比（However：多くの広告は禁止⇔電子看板は使えた）／言いかえ（could be used even under the law → left without becoming the target of the law）
+【ほかの選択肢】
+1 本文と合いません。サンパウロの法律のもとで電子看板が禁止されたとは書かれていません。電子看板を含む広告を禁止する決定をしたのは、その後のフランスのグルノーブルです。
+2 本文にありません。電子看板がほかのどの話題よりも多く話し合われたという話はありません。
+3 本文にありません。政府の役人が電子看板を批判したという話は出てきません。
+【覚えるポイント】
+・even under the law：「その法律のもとでさえ」。法律があっても例外として許されていたことを表します。
+・However（しかし）のあとには、それまでの話の「例外」が書かれていることが多く、「～はどうだったか」とたずねる設問の答えの手がかりになります。

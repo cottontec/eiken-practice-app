@@ -1,0 +1,32 @@
+---
+choices: The price of fuel needed to import clothes made abroad has gone up. | People feel that the quality of clothing is better if it is more expensive. | The clothing made in Asia does not match American tastes in fashion. | Workers in factories in South America are being treated badly.
+answerText: The price of fuel needed to import clothes made abroad has gone up.
+reviewed: yes
+---
+【正解】1 The price of fuel needed to import clothes made abroad has gone up.（海外で作られた服を輸入するのに必要な燃料の価格が上がった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：衣料品の製造がアメリカに戻ってきている理由の1つは何ですか。
+1 The price of fuel needed to import clothes made abroad has gone up.（海外で作られた服を輸入するのに必要な燃料の価格が上がった。）
+2 People feel that the quality of clothing is better if it is more expensive.（人々は、服は値段が高いほど品質がよいと感じている。）
+3 The clothing made in Asia does not match American tastes in fashion.（アジアで作られた服は、アメリカ人のファッションの好みに合わない。）
+4 Workers in factories in South America are being treated badly.（南アメリカの工場の労働者は、ひどい扱いを受けている。）
+【考え方】
+衣料品産業（the clothing industry）の話は、第3段落に書かれています。工場が戻ってきている理由として、3つのことが順に挙げられています。
+1つ目：Since then, however, wages have risen in these countries.（しかし、それ以来、これらの国々では賃金が上がってきた）
+2つ目：Additionally, the rising price of fuel has made transporting the clothes back to the U.S. much more expensive.（さらに、燃料の値上がりによって、衣服をアメリカへ運び戻す費用が〈以前より〉ずっと高くなった）
+3つ目：Furthermore, many American customers say that they would rather buy clothes made in the U.S. to support the economy, even if they were to be more expensive.（そのうえ、多くのアメリカの客は、たとえ値段が高くなるとしても、経済を支えるためにアメリカで作られた服を買うほうがよいと言っている）
+2つ目の理由が選択肢1にあたります。fuel は「燃料」、transport は「運ぶ」です。海外で作った服をアメリカへ運び戻すことは、海外から服を輸入する（import）ことと同じです。
+本文と選択肢は次のように対応しています。
+本文 the rising price of fuel（燃料の値上がり）＝ 選択肢 The price of fuel ... has gone up
+本文 transporting the clothes back to the U.S.（衣服をアメリカへ運び戻すこと）＝ 選択肢 import clothes made abroad（海外で作られた服を輸入すること）
+正解は1です。
+【ほかの選択肢】
+2 本文の3つ目の理由は、客が「たとえ高くても、経済を支えるために」アメリカ製の服を買いたいと言っていることです。値段が高いほど品質がよいと感じているわけではないので、本文と違います。
+3 アジアで作られた服がアメリカ人の好みに合わないという話は、本文にありません。アジアについて書かれているのは、低い賃金を利用するために工場を移したことと、その後賃金が上がったことです。
+4 南アメリカの工場の労働者がひどい扱いを受けているという話は、本文にありません。
+【覚えるポイント】
+・would rather ～：「（どちらかと言えば）むしろ～したい」。
+・even if ～：「たとえ～だとしても」。

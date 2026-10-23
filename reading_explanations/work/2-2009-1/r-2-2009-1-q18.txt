@@ -1,0 +1,25 @@
+---
+choices: though | unless | while | whether
+answerText: whether
+reviewed: yes
+---
+【正解】4 whether（～かどうか。whether A or B で「AかBか」）
+【和訳】
+友だちと私は、休暇でシドニーを訪れるとき、ツアーに参加するほうがよいか、それとも自分たちで市内を旅して回るほうがよいかを話し合っていました。
+（選択肢の意味）
+1 though：～だけれども
+2 unless：～でない限り
+3 while：～している間に、～の一方で
+4 whether：～かどうか
+【考え方】
+文の主な部分は My friends and I were discussing (　) ～（友だちと私は〜を話し合っていた）です。discuss は「～について話し合う」という意味で、そのあとに何を話し合ったのかが続きます。
+空所のあとを見ると、it would be better to go on a tour or to travel around the city by ourselves（ツアーに参加するほうがよいか、それとも自分たちで市内を回るほうがよいか）と、or（それとも）で2つの案が並んでいます。
+whether A or B は「AかそれともBか」という意味です。「ツアーか自分たちでか、どちらがよいかを話し合っていた」となり、discussing の中身としてぴったりなので、4が正解です。
+空所のあとの or が大きな手がかりです。
+【ほかの選択肢】
+1 though は「～だけれども」です。「～だけれども話し合っていた」となり、何を話し合ったのかが分からなくなります。
+2 unless は「～でない限り」です。条件を表す語なので、discussing のあとに話し合った中身を続けることができません。
+3 while は「～している間に、～の一方で」です。時や対比（2つを比べて違いを示すこと）を表す語で、or と組み合わせて2つの案を比べる形にはなりません。
+【覚えるポイント】
+・whether A or B：「AかそれともBか」。discuss whether ～ で「～かどうかを話し合う」。
+・by ourselves：「自分たちだけで」。

@@ -1,0 +1,34 @@
+---
+choices: The use of hostile architecture only lessens the symptoms of societal problems, while ignoring the actual causes. | Homeless people and others who spend time in public spaces must be consulted about their design. | Although homeless people and teenagers often intentionally damage architecture, the damage is usually minor. | Hostile architecture shows that architects are prioritizing their own financial gain over the opportunity to help society.
+answerText: The use of hostile architecture only lessens the symptoms of societal problems, while ignoring the actual causes.
+reviewed: yes
+---
+【正解】1 The use of hostile architecture only lessens the symptoms of societal problems, while ignoring the actual causes.（敵対的建築を使うことは、社会の問題の症状を軽くするだけで、本当の原因は無視している。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is the main point suggested in the third paragraph?（第3段落で示されている主な論点は何か。）
+1 The use of hostile architecture only lessens the symptoms of societal problems, while ignoring the actual causes.（敵対的建築を使うことは、社会の問題の症状を軽くするだけで、本当の原因は無視している。）
+2 Homeless people and others who spend time in public spaces must be consulted about their design.（ホームレスの人々や、公共の場所で時間を過ごすほかの人々に、その場所のデザインについて意見を聞かなければならない。）
+3 Although homeless people and teenagers often intentionally damage architecture, the damage is usually minor.（ホームレスの人々や十代の若者はよくわざと建物を傷つけるが、その損傷はたいてい小さい。）
+4 Hostile architecture shows that architects are prioritizing their own financial gain over the opportunity to help society.（敵対的建築は、建築家たちが、社会を助ける機会よりも自分たちのお金のもうけを優先していることを示している。）
+【考え方】
+まず見るところ：第3段落の rather than installing structures that simply push ～ to other places と deal with the roots of the problem
+第3段落の初めの文を見ます。
+Critics say rather than installing structures that simply push homeless people and teens to other places, officials should deal with the roots of the problem（批判する人たちは、ホームレスの人々や十代の若者を別の場所へ追いやるだけの構造物を設置するのではなく、役人たちは問題の根本に取り組むべきだと言う）
+rather than ～ は「～ではなく」、simply は、ここでは「ただ～するだけ」、roots は「根本、根っこ」です。
+敵対的建築は、人々を別の場所へ追いやるだけで、ホームレスの人がいるという問題そのものは解決しません。だから、住宅や保護施設などで根本から取り組むべきだ、という主張です。
+本文と選択肢を対にすると、次のようになります。
+本文 structures that simply push ～ to other places（別の場所へ追いやるだけの構造物）→ 選択肢 only lessens the symptoms（症状を軽くするだけ）
+本文 the roots of the problem（問題の根本）＝ 選択肢 the actual causes（本当の原因）
+本文 rather than ～, should deal with the roots（～ではなく根本に取り組むべき）→ 選択肢 while ignoring the actual causes（本当の原因は無視している）
+symptom は「症状（病気のときに表に出るしるし）」で、ここでは問題の表に見えている部分のたとえです。ですから1が正解です。
+この問題の型：言いかえ（the roots of the problem ＝ the actual causes）／推論（追いやるだけ → 症状を軽くするだけ）
+【ほかの選択肢】
+2 第3段落では、役人が保護施設や住宅などを優先すべきだと書かれていますが、ホームレスの人々などに場所のデザインについて意見を聞くべきだとは書かれていません。
+3 本文には、ホームレスの人々や十代の若者が建物をわざと傷つけるという話も、その損傷が小さいという話も書かれていません。
+4 本文には、建築家がお金のもうけを優先しているという話は書かれていません。第3段落のファーザーの言葉は、よい行動をうながす空間をデザインする必要がある、というものです。
+【覚えるポイント】
+・deal with the roots of the problem：「問題の根本に取り組む」。roots（根）は「根本の原因」の意味でも使われます。
+・段落の主な論点をたずねる設問では、段落の初めの文の rather than ～（～ではなく）や should（～すべき）のような、筆者や人物の主張を表す語句が手がかりになります。

@@ -1,0 +1,28 @@
+---
+choices: thought of the same theory of evolution as Darwin. | helped Darwin to test some of his ideas about nature. | became more famous than Darwin in the 19th century. | introduced Darwin's discovery to people around the world.
+answerText: thought of the same theory of evolution as Darwin.
+reviewed: yes
+---
+【正解】1 thought of the same theory of evolution as Darwin.（ダーウィンと同じ進化論を思いついた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：アルフレッド・ラッセル・ウォレスは（　　）科学者だった。
+1 thought of the same theory of evolution as Darwin.（ダーウィンと同じ進化論を思いついた）
+2 helped Darwin to test some of his ideas about nature.（ダーウィンが自然についての考えのいくつかを確かめるのを手伝った）
+3 became more famous than Darwin in the 19th century.（19世紀にダーウィンよりも有名になった）
+4 introduced Darwin's discovery to people around the world.（ダーウィンの発見を世界中の人々に紹介した）
+【考え方】
+ウォレスがどんな科学者だったかは、第1段落の最後に書かれています。theory of evolution は「進化論（生き物が長い時間をかけて変化してきたという考え）」です。
+第1段落の3文目と4文目に Many people do not know, however, that he was not the only person to come up with this theory. In fact, another British scientist named Alfred Russel Wallace (1823–1913) developed exactly the same idea independently of Darwin.（しかし、ダーウィンがこの理論を思いついた唯一の人物ではなかったことを多くの人は知らない。実は、アルフレッド・ラッセル・ウォレスという別のイギリスの科学者が、ダーウィンとは別に、まったく同じ考えを生み出していた）とあります。come up with ～ は「～を思いつく」、independently of ～ は「～とは関係なく、～とは別に」という意味です。
+また第3段落の最後にも、Darwin was shocked to find that Wallace had come up with the same theory as he had.（ダーウィンは、ウォレスが自分と同じ理論を思いついていたことを知ってショックを受けた）とあります。本文と選択肢は次のように対応しています。
+本文 developed exactly the same idea（まったく同じ考えを生み出した）／ had come up with the same theory as he had（彼と同じ理論を思いついていた）＝ 選択肢 thought of the same theory of evolution as Darwin（ダーウィンと同じ進化論を思いついた）
+正解は1です。
+【ほかの選択肢】
+2 ウォレスはダーウィンとは別に、自分で考えを生み出しました。ダーウィンの考えを確かめるのを手伝ったという話は本文にないので、誤りです。証拠を集めたのはダーウィン自身です。
+3 本文では、進化論が有名になったのは1859年にダーウィンが『種の起源』を出版したときだと書かれています。ウォレスがダーウィンより有名になったという話はなく、第1段落では、ウォレスのことを多くの人が知らないと書かれているので、誤りです。
+4 ウォレスがダーウィンの発見を世界中に紹介したという話は本文にありません。ウォレスが送ったのは自分の考えで、それをダーウィンに送ったのです。
+【覚えるポイント】
+・come up with ～：「～を思いつく」。選択肢では think of ～（～を思いつく）で言いかえられています。
+・independently of ～：「～とは関係なく、～とは別に」。

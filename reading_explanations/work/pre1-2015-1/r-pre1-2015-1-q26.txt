@@ -1,0 +1,32 @@
+---
+choices: presented an alternative | asked the government for help | stopped benefiting the economy | resisted making changes
+answerText: presented an alternative
+reviewed: yes
+---
+【正解】1 presented an alternative（代わりとなる道を示した）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 presented an alternative（代わりとなる道〔別の選択肢〕を示した）
+2 asked the government for help（政府に助けを求めた）
+3 stopped benefiting the economy（経済の役に立たなくなった）
+4 resisted making changes（変化を起こすことに抵抗した）
+【考え方】
+まず見るところ：空所の前の leaving the animals and their owners without work と、空所の後ろの Desperate to make money
+空所は第1段落の Meanwhile, the tourism industry has (26). です。
+空所の前の文を見ます。
+In 1989, however, logging was banned because of concerns about deforestation, leaving the animals and their owners without work.（しかし1989年、森林破壊への心配から伐採が禁止され、ゾウとその飼い主たちは仕事を失った）
+logging は「伐採（木を切り出すこと）」、ban は「禁止する」です。それまでの仕事がなくなった、という内容です。
+Meanwhile は「その一方で」で、別の動きを紹介する語です。空所の後ろの文を見ます。
+Desperate to make money, many elephant owners now offer sightseers the chance to ride their animals or watch them perform tricks.（お金をかせごうと必死になって、今では多くのゾウの飼い主が、観光客に、ゾウに乗ったり芸を見たりする機会を提供している）
+伐採の仕事を失った飼い主たちが、今は観光の仕事でお金をかせいでいます。つまり観光産業が、伐採に代わる新しい仕事を差し出したことになります。
+alternative は「代わりとなるもの、別の選択肢」、present は「示す、差し出す」です。ですから1が正解です。
+この問題の型：因果（仕事を失った → 観光が代わりの道に）／具体例とまとめ（ゾウに乗る・芸を見せる仕事 → alternative）
+【ほかの選択肢】
+2 「政府に助けを求めた」を入れると、観光産業が政府に助けを求めたことになります。本文には、観光産業が政府に何かを頼んだという話はなく、次の文の「飼い主たちが観光客にゾウに乗る機会を提供している」ともつながりません。
+3 「経済の役に立たなくなった」を入れると、観光産業はもうかっていないことになります。しかし次の文では、飼い主たちがお金をかせぐために観光の仕事をしているので、話が反対になります。
+4 「変化を起こすことに抵抗した」を入れると、観光産業が変わろうとしなかったことになります。次の文で書かれているのは、ゾウを使った新しい観光の仕事が広がったことなので、合いません。
+【覚えるポイント】
+・alternative：「代わりとなるもの、別の選択肢」。present an alternative で「代わりの道を示す」。
+・「仕事を失った」などの困った出来事のあとに Meanwhile（その一方で）が来たら、その困りごとに対して別の動きがあったことを述べる手がかりになります。空所の後ろの具体例も確かめましょう。

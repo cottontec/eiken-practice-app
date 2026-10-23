@@ -1,0 +1,32 @@
+---
+choices: merit | disdain | congestion | interference
+answerText: merit
+reviewed: yes
+---
+【正解】1 merit（実力、能力、長所）
+【和訳】
+（英文）
+A: I can't believe Joe became the manager of our section. It's only because he's the president's son.
+B: Really? I think he got the job based on ［merit］. He's very smart and hardworking, you know.
+（訳）
+A：ジョーが私たちの課の課長になったなんて信じられない。社長の息子だからというだけだよ。
+B：そう？ ジョーは（実力）でその仕事を得たんだと思うよ。とても頭がよくて働き者だからね。
+（選択肢の意味）
+1 merit：実力、能力、長所
+2 disdain：軽べつ（相手を見下すこと）
+3 congestion：混雑、渋滞
+4 interference：じゃま、口出し
+【考え方】
+まず見るところ：Bの He's very smart and hardworking, you know.
+Aは It's only because he's the president's son.（社長の息子だからというだけだ）と言っています。ジョーが課長になったのは親の力のおかげだ、という考えです。
+Bは Really?（そう？）と疑問を示して、次のように言います。
+He's very smart and hardworking, you know.（とても頭がよくて働き者だからね）
+Bは、ジョー本人の能力をほめています。ですから「ジョーは実力で仕事を得た」と言っていると考えられます。based on merit は「実力にもとづいて」という意味なので、1が正解です。
+この問題の型：対比（社長の息子だから⇔本人の実力で）
+【ほかの選択肢】
+2 disdain は「軽べつ」です。「軽べつにもとづいて仕事を得た」となり、意味が通りません。
+3 congestion は「混雑、渋滞」です。「混雑にもとづいて仕事を得た」となり、意味が通りません。
+4 interference は「じゃま、口出し」です。「だれかの口出しによって仕事を得た」となり、Bが続けて言う「とても頭がよくて働き者だ」という本人の能力の話とつながりません。
+【覚えるポイント】
+・based on merit：「実力にもとづいて」。merit は「長所」のほか、「（ほめられるべき）実力、能力」の意味でも使われます。
+・Really? のように相手に疑問を示す言葉のあとは、相手と反対の考えがくることが多いので、前の人の意見と比べて考えると手がかりになります。

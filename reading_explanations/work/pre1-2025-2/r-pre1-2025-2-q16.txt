@@ -1,0 +1,32 @@
+---
+choices: hold out | shoot down | get over | snap up
+answerText: shoot down
+reviewed: yes
+---
+【正解】2 shoot down（撃ち落とす）
+【和訳】
+（英文）
+The country's military was able to ［shoot down］ the enemy's spy drone before it could gather any information about the country's defenses.
+（訳）
+その国の軍は、敵のスパイ用ドローン（遠くから操作する無人の飛行機）が国の防衛について何の情報も集められないうちに、それを（撃ち落とす）ことができた。
+（選択肢の意味）
+1 hold out：持ちこたえる、（手などを）差し出す
+2 shoot down：撃ち落とす
+3 get over：乗りこえる、（病気などから）立ち直る
+4 snap up：（すばやく）買い取る、飛びつく
+【考え方】
+まず見るところ：空所のあとの the enemy's spy drone と、before it could gather any information
+空所のある部分は、次のとおりです。
+The country's military was able to (　) the enemy's spy drone（その国の軍は、敵のスパイ用ドローンを（　）ことができた）
+military は「軍」、spy drone は「スパイ用のドローン（情報をこっそり集めるための無人の飛行機）」です。
+続く部分は、次のとおりです。
+before it could gather any information about the country's defenses（それが国の防衛について何の情報も集められないうちに）
+it は the enemy's spy drone（敵のスパイ用ドローン）を指し、defenses は「防衛（国を守るためのしくみ）」です。軍は、飛んでいる敵のドローンが情報を集める前に、それを止めたのです。飛んでいるものを止めるには撃って落とすことになるので、shoot down（撃ち落とす）が入り、2が正解です。
+この問題の型：語の意味・組み合わせ（shoot down a drone：ドローンを撃ち落とす）
+【ほかの選択肢】
+1 hold out は「持ちこたえる、（手などを）差し出す」です。「敵のドローンを差し出すことができた」となり、意味が通りません。
+3 get over は「乗りこえる、（病気などから）立ち直る」です。「敵のドローンを乗りこえることができた」となり、情報を集めさせないようにする行動になりません。
+4 snap up は「（すばやく）買い取る、飛びつく」です。安い品物などをすぐに買うときに使う語で、「敵のドローンを買い取った」となり、意味が通りません。
+【覚えるポイント】
+・shoot down ～：「～（飛行機など）を撃ち落とす」。
+・before it could ～ のように「相手が～する前に」と書かれているときは、相手の行動を止める意味の語句が入る手がかりになります。

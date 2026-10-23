@@ -1,0 +1,26 @@
+---
+choices: quality | percentage | minimum | regulation
+answerText: percentage
+reviewed: yes
+---
+【正解】2 percentage（割合、パーセンテージ）
+【和訳】
+A：テッド、あなたの高校のクラスの何パーセントが大学に進学したの？
+B：正確には知らないけれど、半分以上だったと思うよ。
+（選択肢の意味）
+1 quality：質
+2 percentage：割合、パーセンテージ
+3 minimum：最小限、最低限
+4 regulation：規則、規制
+【考え方】
+まず、Bの答えを見ます。I think it was over half.（半分以上だったと思う）と言っています。「半分以上」というのは、クラス全体のうち、どれくらいの人数だったかを表す答えです。
+ですから、Aは「クラスの中のどれくらいの割合が大学へ進んだか」をたずねていたと考えられます。
+What percentage of ～ ...? は「～の何パーセントが…か」と割合をたずねる言い方です。空所に percentage を入れると、What percentage of your high school class went on to college?（あなたの高校のクラスの何パーセントが大学に進学したの？）となり、Bの答えとぴったり合います。正解は2です。
+なお、went on to college の go on to ～ は「（次の段階の）～へ進む」という意味です。
+【ほかの選択肢】
+1 quality は「質（もののよしあし）」です。「クラスのどんな質が大学に進んだか」となり、意味が通りません。「半分以上」という答えとも合いません。
+3 minimum は「最小限、最低の量」です。What minimum of ～ という言い方はふつうせず、「半分以上」という割合の答えとも合いません。
+4 regulation は「規則、規制」です。「クラスのどの規則が大学に進んだか」となり、意味が通りません。
+【覚えるポイント】
+・What percentage of ～ ...?：「～の何パーセントが…か」。割合をたずねる言い方です。
+・over half：「半分以上」。

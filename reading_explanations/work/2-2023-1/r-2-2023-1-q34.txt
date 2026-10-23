@@ -1,0 +1,35 @@
+---
+choices: Several parts of people's brains are involved in dreaming. | Dreams do not usually appear to have a clear meaning. | People often do not want to describe their dreams honestly. | Different people sometimes have exactly the same dream.
+answerText: Dreams do not usually appear to have a clear meaning.
+reviewed: yes
+---
+【正解】2 Dreams do not usually appear to have a clear meaning.（夢には、たいていはっきりした意味があるようには思えない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one reason that scientists are uncertain about why people dream?（科学者たちが、人がなぜ夢を見るのかについてはっきり分かっていない理由の1つは何ですか。）
+1 Several parts of people's brains are involved in dreaming.（人の脳のいくつかの部分が、夢を見ることに関わっている。）
+2 Dreams do not usually appear to have a clear meaning.（夢には、たいていはっきりした意味があるようには思えない。）
+3 People often do not want to describe their dreams honestly.（人々は、自分の夢を正直に話したがらないことが多い。）
+4 Different people sometimes have exactly the same dream.（違う人どうしが、まったく同じ夢を見ることがときどきある。）
+【考え方】
+まず見るところ：第1段落の On top of this, they often do not make sense
+設問の uncertain（はっきり分かっていない）という語は、第1段落に出てきます。
+they are still uncertain about the purpose of dreams（科学者たちは、夢の目的については、いまだにはっきりと分かっていない）
+このあとに、その理由が2つ書かれています。1つ目は、次の文です。
+One reason for this is the variety of dreams that people have（その理由の1つは、人々が見る夢の種類の多さだ）
+2つ目は、On top of this（それに加えて）で始まる文です。
+On top of this, they often do not make sense and are mostly forgotten soon after waking up.（それに加えて、夢は意味をなさないことが多く、目が覚めてすぐにほとんど忘れられてしまう）
+make sense は「意味をなす、筋が通る」で、do not make sense は「意味をなさない、わけが分からない」という意味です。
+本文と選択肢を対にすると、次のようになります。
+本文 they often do not make sense（夢は意味をなさないことが多い）→ ほぼ同じ内容の言いかえ → 選択肢 Dreams do not usually appear to have a clear meaning（夢には、たいていはっきりした意味があるようには思えない）
+本文の often（よく、多くの場合）が usually（たいてい）に、do not make sense（意味をなさない）が do not appear to have a clear meaning（はっきりした意味があるようには思えない）に言いかえられています。ですから2が正解です。
+この問題の型：言いかえ（do not make sense → do not appear to have a clear meaning）
+【ほかの選択肢】
+1 本文の the parts of people's brains that are involved in dreaming（夢を見ることに関わる脳の部分）は、科学者たちが「多くのことを明らかにしてきた」こととして書かれています。分かっていることなので、はっきり分からない理由にはなっていません。
+3 人々が夢を正直に話したがらない、という話は本文にありません。本文に書かれているのは、夢が目覚めてすぐにほとんど忘れられてしまうということです。
+4 違う人どうしが同じ夢を見る、という話は本文にありません。本文はむしろ、the variety of dreams（夢の種類の多さ）を理由に挙げています。
+【覚えるポイント】
+・make sense：「意味をなす、筋が通る」。do not make sense は「意味をなさない」です。
+・One reason ～ のあとに On top of this（それに加えて）などが続くときは、理由が2つ以上書かれていることが多いので、両方を確かめてから選択肢と比べましょう。

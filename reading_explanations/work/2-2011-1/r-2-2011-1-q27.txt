@@ -1,0 +1,26 @@
+---
+choices: lose | prefer | control | delay
+answerText: lose
+reviewed: yes
+---
+【正解】1 lose（失う）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 lose：失う、なくす
+2 prefer：～のほうを好む
+3 control：制御する、管理する
+4 delay：遅らせる
+【考え方】
+空所は第1段落の6文目、They feared that students would (　) the habit of studying.（彼らは、学生が勉強の習慣を〜するだろうと心配した）にあります。They は直前の文の many U.S. colleges（アメリカの多くの大学）を指しています。feared は「おそれた、心配した」という意味です。
+直前の文には At first, many U.S. colleges were suspicious of gap years.（最初、アメリカの多くの大学はギャップイヤーを疑わしく思っていた）とあります。suspicious は「疑わしく思う、信用しない」という意味です。大学は、ギャップイヤーについて何かよくないことが起こると心配したのです。
+1年間勉強から離れると、勉強する習慣がなくなってしまうかもしれません。lose は「失う」なので、lose the habit of studying で「勉強の習慣を失う」となり、大学の心配として意味が通ります。
+さらに、次の2文で Now, however（しかし今では）と話が変わり、the experience can be valuable（その経験は価値がありうる）、it helps students become more enthusiastic about studying（それは学生が勉強にもっと熱心になる助けになる）と、心配とは反対の結果が書かれています。この流れとも合うので、1が正解です。
+【ほかの選択肢】
+2 prefer は「～のほうを好む」です。「学生が勉強の習慣のほうを好むだろう」となり、大学が心配することになりません。
+3 control は「制御する、管理する」です。「学生が勉強の習慣を管理するだろう」となり、これも心配する理由になりません。
+4 delay は「遅らせる」です。「勉強の習慣を遅らせる」という言い方は意味がはっきりせず、あとの「勉強にもっと熱心になる」という反対の結果ともつながりません。
+【覚えるポイント】
+・lose the habit of ～ing：「～する習慣をなくす」。反対は get into the habit of ～ing（～する習慣がつく）です。
+・be suspicious of ～：「～を疑わしく思う」。

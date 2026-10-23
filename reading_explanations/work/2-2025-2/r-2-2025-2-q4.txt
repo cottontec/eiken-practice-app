@@ -1,0 +1,31 @@
+---
+choices: device | complaint | occupation | proverb
+answerText: occupation
+reviewed: yes
+---
+【正解】3 occupation（職業）
+【和訳】
+（英文）
+After working as a taxi driver for more than 10 years, Sue has decided to try a new ［occupation］. She is now training to become a nurse.
+（訳）
+10年を超えてタクシー運転手として働いたあと、スーは新しい（職業）に挑戦することに決めました。彼女は今、看護師になるための訓練を受けています。
+（選択肢の意味）
+1 device：装置、機器
+2 complaint：不満、苦情
+3 occupation：職業
+4 proverb：ことわざ
+【考え方】
+まず見るところ：文の始めの working as a taxi driver と、うしろの文の training to become a nurse
+After working as a taxi driver for more than 10 years（10年を超えてタクシー運転手として働いたあと）
+スーは、長い間タクシー運転手という仕事をしてきました。
+She is now training to become a nurse.（彼女は今、看護師になるための訓練を受けている。）
+タクシー運転手のあとに、看護師という別の仕事を目指していることが分かります。つまり、スーが挑戦すると決めたのは「新しい仕事」です。
+「職業」という意味の occupation を入れると、try a new occupation（新しい職業に挑戦する）となり、前後の内容とつながります。ですから3が正解です。
+この問題の型：具体例とまとめ（タクシー運転手・看護師 → occupation）
+【ほかの選択肢】
+1 device は「装置、機器」です。「新しい装置を試すことに決めた」では、看護師になる訓練を受けているという話とつながりません。
+2 complaint は「不満、苦情」です。「新しい苦情を試す」という言い方は意味が通らず、仕事を変える話にもなりません。
+4 proverb は「ことわざ」です。「新しいことわざを試す」となり、看護師になる訓練の話とつながりません。
+【覚えるポイント】
+・occupation：「職業」。job（仕事）とほぼ同じ意味のかたい語です。
+・文の中に taxi driver や nurse のような職業の名前がいくつか出てきたら、空所にはそれらをまとめる語が入る可能性を考えましょう。

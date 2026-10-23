@@ -1,0 +1,27 @@
+---
+choices: sight | existence | dawn | rhythm
+answerText: dawn
+reviewed: yes
+---
+【正解】3 dawn（夜明け）
+【和訳】
+（英文）
+Brenda woke up just before ［dawn］ and went down to the beach to watch the sunrise.
+（訳）
+ブレンダは夜明けの直前に起きて、日の出を見るために浜辺へ下りて行きました。
+（選択肢の意味）
+1 sight：視力、見えること、光景
+2 existence：存在
+3 dawn：夜明け
+4 rhythm：リズム
+【考え方】
+just before (　) は「～の直前に」なので、空所には「時」を表す語が入りそうだと考えます。
+文の後半に to watch the sunrise（日の出を見るために）とあります。日の出を見に浜辺へ行くのですから、起きたのは太陽がのぼる少し前、つまり夜明け前です。
+dawn は「夜明け」という意味で、woke up just before dawn で「夜明けの直前に起きた」となります。正解は3です。
+【ほかの選択肢】
+1 sight は「視力、見えること、光景」です。「見えることの直前に起きた」となり、意味が通りません。
+2 existence は「存在」です。「存在の直前に起きた」となり、意味が通りません。
+4 rhythm は「リズム」です。「リズムの直前に起きた」となり、時を表せないので意味が通りません。
+【覚えるポイント】
+・dawn：「夜明け」。from dawn till dusk で「夜明けから夕暮れまで」。
+・sunrise：「日の出」。反対は sunset（日の入り）です。

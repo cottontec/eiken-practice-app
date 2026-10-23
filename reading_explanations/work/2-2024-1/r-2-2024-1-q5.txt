@@ -1,0 +1,31 @@
+---
+choices: behavior | composition | attendance | liberty
+answerText: liberty
+reviewed: yes
+---
+【正解】4 liberty（自由）
+【和訳】
+（英文）
+One of the most important values of France is ［liberty］. The country has many laws that make sure people are free to say what they want.
+（訳）
+フランスの最も大切な価値観の1つは（自由）です。その国には、人々が言いたいことを自由に言えることを確かなものにする法律がたくさんあります。
+（選択肢の意味）
+1 behavior：行動、ふるまい
+2 composition：構成、作文、作曲
+3 attendance：出席
+4 liberty：自由
+【考え方】
+まず見るところ：2文目の free to say what they want
+2文目が1文目の説明になっています。
+The country has many laws that make sure people are free to say what they want.（その国には、人々が言いたいことを自由に言えることを確かなものにする法律がたくさんある）
+make sure ～ は「～を確実にする、必ず～であるようにする」という意味です。
+この文のカギは free（自由な）です。フランスには「自由に言える」ことを守る法律が多いことから、フランスが大切にしている価値観（大切だと考えている考え方）は「自由」だと分かります。
+liberty は「自由」という意味の名詞なので、4が正解です。
+この問題の型：言いかえ（free → liberty）
+【ほかの選択肢】
+1 behavior は「行動、ふるまい」です。「最も大切な価値観の1つは行動だ」では、自由に言えることを守る法律の説明とつながりません。
+2 composition は「構成、作文、作曲」です。価値観の話にも、自由に言えることを守る法律の話にも合いません。
+3 attendance は「出席」です。「最も大切な価値観は出席だ」となり、2文目の内容と結びつきません。
+【覚えるポイント】
+・liberty：「自由」。形容詞 free（自由な）、名詞 freedom（自由）とあわせて覚えましょう。
+・1文目に空所があり、2文目がその説明になっている問題では、2文目の中から空所の語と同じ意味の語（ここでは free）を探すと手がかりになります。

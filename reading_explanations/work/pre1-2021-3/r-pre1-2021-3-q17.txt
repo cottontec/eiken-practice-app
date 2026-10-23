@@ -1,0 +1,31 @@
+---
+choices: vulnerable | clueless | conventional | phonetic
+answerText: conventional
+reviewed: yes
+---
+【正解】3 conventional（従来の、昔からの決まりどおりの）
+【和訳】
+（英文）
+The young author decided not to follow ［conventional］ storytelling rules and wrote his novel in a unique style.
+（訳）
+その若い作家は、（従来の）物語の書き方の決まりに従わないことに決め、独特の書き方で小説を書いた。
+（選択肢の意味）
+1 vulnerable：傷つきやすい、弱い
+2 clueless：何も分かっていない
+3 conventional：従来の、昔からの決まりどおりの
+4 phonetic：発音の、音声の
+【考え方】
+まず見るところ：空所の前の decided not to follow と、後ろの wrote his novel in a unique style
+作家は、ある決まりに「従わない」ことに決めました。
+decided not to follow (　) storytelling rules（〇〇な物語の書き方の決まりに従わないことに決めた）
+そして、and のあとに、実際にどう書いたかが続きます。
+wrote his novel in a unique style（独特の書き方で小説を書いた）
+unique は「独特の、ほかにない」です。「ほかにない書き方」をしたのですから、従わなかったのは、これまでふつうに使われてきた決まりだと考えられます。conventional は「従来の、昔からの決まりどおりの」なので、3が正解です。
+この問題の型：対比（conventional ⇔ unique）
+【ほかの選択肢】
+1 vulnerable は「傷つきやすい、弱い」です。「傷つきやすい物語の書き方の決まり」では意味が通らず、unique style との対比にもなりません。
+2 clueless は「何も分かっていない」です。人について使う語で、「何も分かっていない書き方の決まり」では意味が通りません。
+4 phonetic は「発音の」です。「発音の物語の書き方の決まり」となり、独特の書き方で小説を書いたこととつながりません。
+【覚えるポイント】
+・conventional：「従来の、昔からの決まりどおりの」。unique：「独特の」。storytelling：「物語を語ること、物語の書き方」。
+・「～に従わない」のあとに unique（独特の）が出てくるときは、その反対の「ふつうの、昔からの」という意味の語が入る手がかりになります。

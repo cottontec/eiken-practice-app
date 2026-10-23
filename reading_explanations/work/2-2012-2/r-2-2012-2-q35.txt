@@ -1,0 +1,29 @@
+---
+choices: Take orders for coffee and other drinks from the guests. | Repair any damaged items that they find in the guest rooms. | Help the regular staff with cleaning the dining room, kitchen, and lobby. | Let the chief housekeeper know if something in a guest room is not working.
+answerText: Let the chief housekeeper know if something in a guest room is not working.
+reviewed: yes
+---
+【正解】4 Let the chief housekeeper know if something in a guest room is not working.（客室の中の何かが動かなければ、清掃責任者に知らせる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：アダム・テイラーがラックストーン・クリーニングのスタッフにしてほしいと思っていることの1つは何ですか。
+1 Take orders for coffee and other drinks from the guests.（お客からコーヒーやほかの飲み物の注文を受ける。）
+2 Repair any damaged items that they find in the guest rooms.（客室で見つけた壊れた物を修理する。）
+3 Help the regular staff with cleaning the dining room, kitchen, and lobby.（食堂、調理場、ロビーの清掃で、正規のスタッフを手伝う。）
+4 Let the chief housekeeper know if something in a guest room is not working.（客室の中の何かが動かなければ、清掃責任者に知らせる。）
+【考え方】
+ラックストーン・クリーニングのスタッフにしてほしい仕事は、メールの第2段落に書かれています。ベッドを整える、浴室を掃除する、掃除機をかける、という仕事に加えて、In addition, we would want them to check that everything in the room is working.（さらに、客室内のすべての物がきちんと動くかどうかを確かめてほしい）とあります。
+続けて、If the coffee maker is broken, for example, the cleaner should tell Ms. Clarke.（たとえば、コーヒーメーカーが壊れていたら、清掃員はクラークに知らせるべきだ）と具体的な例が示されています。
+では、クラークとはだれでしょうか。第2段落の1文目に Cleaning at our hotel is managed by our chief housekeeper, Linda Clarke.（当ホテルの清掃は、清掃責任者のリンダ・クラークが管理している）とあります。chief housekeeper は「（ホテルの）清掃責任者、客室係の主任」です。本文と選択肢は次のように対応しています。
+本文 the cleaner should tell Ms. Clarke（清掃員はクラークに知らせるべきだ）＝ 選択肢 Let the chief housekeeper know（清掃責任者に知らせる）
+本文 the coffee maker is broken（コーヒーメーカーが壊れている）／ check that everything ... is working（すべてが動くか確かめる）＝ 選択肢 something in a guest room is not working（客室の何かが動かない）
+したがって、4が正解です。
+【ほかの選択肢】
+1 本文に出てくるコーヒーは、壊れているかもしれない物の例としての coffee maker（コーヒーメーカー）だけです。お客から飲み物の注文を受けるという話はありません。
+2 壊れた物を見つけたときにしてほしいのは、クラークに「知らせる」ことです。スタッフが自分で「修理する」とは書かれていないので、本文と違います。
+3 本文には We employ regular staff to clean the dining room, kitchen, and lobby. We only need your staff to work in the guest rooms.（食堂、調理場、ロビーの清掃には正規のスタッフを雇っている。御社のスタッフには客室での仕事だけをお願いしたい）とあります。食堂などの手伝いは頼んでいないので、本文と反対です。
+【覚えるポイント】
+・let ＋ 人 ＋ know：「（人）に知らせる」。tell ＋ 人 とほぼ同じ意味です。
+・be working：「（機械などが）きちんと動いている」。

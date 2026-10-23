@@ -1,0 +1,31 @@
+---
+choices: crawl | mourn | meditate | haunt
+answerText: crawl
+reviewed: yes
+---
+【正解】1 crawl（はう、はって進む）
+【和訳】
+（英文）
+In one part of the cave, the ceiling was so low that Vikram had to ［crawl］ on his hands and knees for about ten meters.
+（訳）
+その洞窟のある場所では、天井がとても低かったので、ビクラムは約10メートルにわたって、両手とひざをついて（はって進ま）なければならなかった。
+（選択肢の意味）
+1 crawl：はう、はって進む
+2 mourn：（人の死などを）悲しむ、嘆く
+3 meditate：めい想する（心を静めて深く考える）
+4 haunt：（幽霊が）出る、（考えなどが）つきまとう
+【考え方】
+まず見るところ：the ceiling was so low that ～ と、空所のあとの on his hands and knees
+文は so ～ that ...（とても～なので…）の形になっています。
+the ceiling was so low that Vikram had to (　)（天井がとても低かったので、ビクラムは〇〇しなければならなかった）
+天井が低くて、立って歩けなかったと考えられます。さらに、空所のあとに体の使い方が書かれています。
+on his hands and knees for about ten meters（両手とひざをついて、約10メートルにわたって）
+両手とひざをついて10メートル進むのは「はう」ことです。crawl は「はう、はって進む」なので、1が正解です。
+この問題の型：因果（天井が低い so ～ that → はって進む）
+【ほかの選択肢】
+2 mourn は「悲しむ、嘆く」です。「両手とひざをついて10メートル悲しまなければならなかった」となり、天井が低いという理由ともつながりません。
+3 meditate は「めい想する」です。「10メートルにわたってめい想しなければならなかった」となり、進む距離を表す for about ten meters と合いません。
+4 haunt は「（幽霊が）出る、つきまとう」です。天井が低いことで幽霊が出なければならないという意味になり、意味が通りません。
+【覚えるポイント】
+・crawl on one's hands and knees：「両手とひざをついてはう」。so ～ that ...：「とても～なので…」。
+・空所のあとに on his hands and knees（両手とひざをついて）や距離が書かれているときは、体を動かして進む動詞が入る手がかりになります。

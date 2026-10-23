@@ -1,0 +1,34 @@
+---
+choices: TFA recruits are only in the classroom for two years, so any improvement they bring to classroom achievement is temporary at best. | Veteran teachers are experiencing cuts in salary and benefits because of the high number of TFA teachers willing to work for low pay. | The impact TFA recruits have on communities has been much smaller than it could be because of the program's limited funding. | The impressive background and intelligence of TFA teachers is not enough to make up for their lack of training and experience.
+answerText: The impressive background and intelligence of TFA teachers is not enough to make up for their lack of training and experience.
+reviewed: yes
+---
+【正解】4 The impressive background and intelligence of TFA teachers is not enough to make up for their lack of training and experience.（TFAの教師のすばらしい経歴と知性は、訓練と経験の不足を補うのに十分ではない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What does Deborah Appleman suggest about the TFA program?（デボラ・アップルマンは、TFAの取り組みについてどんなことをほのめかしているか。）
+1 TFA recruits are only in the classroom for two years, so any improvement they bring to classroom achievement is temporary at best.（TFAの採用者は2年間しか教室にいないので、彼らが教室の学力にもたらす向上は、どれもよくて一時的なものにすぎない。）
+2 Veteran teachers are experiencing cuts in salary and benefits because of the high number of TFA teachers willing to work for low pay.（安い給料でも働こうとするTFAの教師が多いせいで、ベテランの教師は給料や手当を減らされている。）
+3 The impact TFA recruits have on communities has been much smaller than it could be because of the program's limited funding.（取り組みの資金が限られているため、TFAの採用者が地域社会に与える影響は、本来ありうるよりもずっと小さくなっている。）
+4 The impressive background and intelligence of TFA teachers is not enough to make up for their lack of training and experience.（TFAの教師のすばらしい経歴と知性は、訓練と経験の不足を補うのに十分ではない。）
+【考え方】
+まず見るところ：第4段落の Deborah Appleman ～ says there is an elitist attitude at TFA
+アップルマンの意見は、第4段落の最後に書かれています。
+Deborah Appleman ～ says there is an elitist attitude at TFA, "a belief that the best and the brightest can make a difference in the lives of children who are less fortunate, even when they are not professionally prepared to do so."（デボラ・アップルマンは、TFAにはエリート意識があると言う。それは「たとえ専門的な準備ができていなくても、最も優秀で頭のよい人たちなら、恵まれない子どもたちの人生に変化をもたらすことができる、という考え」だという）
+elitist attitude は「エリート意識（自分たちは特別に優れているという考え方）」で、よくない意味で使われています。アップルマンは、「優秀なら、準備ができていなくても大丈夫」という考えを批判していると読み取れます。
+設問の suggest は「ほのめかす（はっきりとは言わずに伝える）」です。
+本文と選択肢を対にすると、次のようになります。
+本文 the best and the brightest（最も優秀で頭のよい人たち）→ 選択肢 impressive background and intelligence（すばらしい経歴と知性）
+本文 not professionally prepared（専門的な準備ができていない）→ 選択肢 lack of training and experience（訓練と経験の不足）
+本文 elitist attitude、a belief ～ even when they are not professionally prepared（エリート意識、専門的な準備ができていなくても～という考え）→ 選択肢 is not enough to make up for（～を補うのに十分ではない）
+make up for ～ は「～を補う、埋め合わせる」です。また、アップルマンの言葉の直前には、TFAの教師の生徒の成績は、訓練を受けた1年目の教師の生徒と比べて少しもよくなく、経験を積んだ教師の生徒には一貫して上回られていた、という研究結果も書かれています。ですから4が正解です。
+この問題の型：推論（批判的な言葉 elitist attitude から、アップルマンの考えを読み取る）／言いかえ
+【ほかの選択肢】
+1 TFAの採用者が2年間教えることは第2段落に書かれていますが、アップルマンの言葉ではありません。アップルマンは、向上が一時的だとは言っておらず、専門的な準備がないことを問題にしています。
+2 給料の話は第5段落の Other critics（ほかに批判する人々）の意見で、アップルマンの意見ではありません。しかも内容は、TFAの採用者は給料が上がる前に辞めることが多いので学校が雇う、というもので、ベテランの教師の給料が減らされているとは書かれていません。
+3 第5段落の limited funding（限られた資金）は、TFAではなく学校の資金のことで、これも Other critics の意見です。TFAの資金が限られているせいで地域社会への影響が小さい、という話は書かれていません。
+【覚えるポイント】
+・make up for ～：「～を補う、埋め合わせる」。not enough to make up for ～ で「～を補うには十分ではない」。
+・suggest（ほのめかす）とたずねる設問では、人物の言葉の中の評価を表す語（ここでは elitist attitude、belief）に注目し、その人が何をよくないと考えているかを読み取ることが手がかりになります。

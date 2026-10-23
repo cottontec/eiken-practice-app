@@ -1,0 +1,27 @@
+---
+choices: What is more | Like before | For this purpose | Despite this
+answerText: What is more
+reviewed: yes
+---
+【正解】1 What is more（さらに、そのうえ）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 What is more（さらに、そのうえ）
+2 Like before（以前と同じように）
+3 For this purpose（この目的のために）
+4 Despite this（これにもかかわらず）
+【考え方】
+空所は第3段落の (23), the owners say that this enjoyable environment leads to better ideas, ～ の文の始めにあります。文と文をつなぐ言葉を選ぶ問題なので、空所の前と後の内容を比べます。
+空所の前：it has set up an informal working environment where employees are able to chat and joke with their co-workers, so employees say they enjoy working there.（この会社は、社員が同僚とおしゃべりをしたり冗談を言い合ったりできる、堅苦しくない職場環境を整えているので、社員たちはそこで働くのが楽しいと言っている）
+空所の後：the owners say that this enjoyable environment leads to better ideas（経営者たちは、この楽しい環境がよりよいアイデアにつながると言っている）
+前は「社員が楽しく働ける」というよい点、後は「よりよいアイデアが生まれる」という別のよい点です。よい点にもう1つよい点を付け加えているので、「さらに、そのうえ」という意味の What is more が合います。ですから、1が正解です。
+このあとも Customers, too, are attracted ～（客もまた引きつけられている）とよい点が続き、With all these benefits（こうした利点がそろっていることから）とまとめられています。よい点を重ねていく流れであることが確かめられます。
+【ほかの選択肢】
+2 Like before（以前と同じように）を入れると、「以前と同じように、経営者は～と言っている」となります。本文には、以前の様子は書かれていないので、つながりません。
+3 For this purpose（この目的のために）を入れると、「社員が楽しく働けるという目的のために、楽しい環境がよりよいアイデアにつながる」となり、意味が通りません。空所のあとは、何かの目的のためにしたことではなく、楽しい環境から生まれたよい結果です。
+4 Despite this（これにもかかわらず）は、前の内容から予想されることと反対の内容を続けるときに使います。前後はどちらもよい点なので、反対の関係になっておらず、合いません。
+【覚えるポイント】
+・What is more：「さらに、そのうえ」。よい点や理由を付け加えるときに使います。
+・lead to ～：「～につながる、～を引き起こす」。

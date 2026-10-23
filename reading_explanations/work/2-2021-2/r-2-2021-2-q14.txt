@@ -1,0 +1,29 @@
+---
+choices: low | hard | sick | lazy
+answerText: sick
+reviewed: yes
+---
+【正解】3 sick（be sick of ～ で「～にうんざりしている」）
+【和訳】
+（英文）
+A: Janet is always complaining about her job.
+B: Yeah, I'm getting ［sick］ of it. I wish she'd stop.
+（訳）
+A：ジャネットはいつも仕事のことで文句を言っているね。
+B：うん、（うんざり）してきたよ。やめてくれたらいいのに。
+（選択肢の意味）
+1 low：低い
+2 hard：かたい、難しい
+3 sick：病気の（sick of ～ で「～にうんざりした」）
+4 lazy：怠けた、だらけた
+【考え方】
+Aは Janet is always complaining about her job.（ジャネットはいつも仕事のことで文句を言っている）と言っています。complain about ～ は「～について文句を言う」です。is always ～ing の形は、「いつも～してばかりいる」という、少し困った気持ちを表すことがあります。
+Bは Yeah, I'm getting (　) of it. と答え、I wish she'd stop.（彼女がやめてくれたらいいのに）と続けています。she'd は she would の短い形です。it はジャネットが文句を言うことを指します。
+文句をやめてほしいと願っているので、Bはジャネットの文句に嫌気がさしていると分かります。get sick of ～ は「～にうんざりしてくる」という決まった言い方です。I'm getting sick of it. で「それにうんざりしてきている」となるので、3が正解です。空所のあとの of も、この言い方の手がかりになります。
+【ほかの選択肢】
+1 low は「低い」です。get low of ～ という言い方はなく、「文句に低くなってきた」では意味が通りません。
+2 hard は「かたい、難しい」です。get hard of ～ という言い方はなく、「やめてくれたらいいのに」という気持ちを表せません。
+4 lazy は「怠けた、だらけた」です。get lazy of ～ という言い方はなく、ジャネットの文句に対する気持ちを表す語にもなりません。
+【覚えるポイント】
+・be sick of ～ ／ get sick of ～：「～にうんざりしている／うんざりしてくる」。be tired of ～ もほぼ同じ意味です。
+・I wish she'd (would) ～：「彼女が～してくれたらいいのに」。

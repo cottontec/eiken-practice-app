@@ -1,0 +1,32 @@
+---
+choices: It was so much brighter than usual that many sea animals became distracted by the lights and were unable to orient themselves. | It was a result of the same phenomenon that had likely caused the whales to become confused and navigate incorrectly. | Its presence over the Norwegian Sea caused many birds to fly toward the North Sea, which led the whales to follow. | Its appearance farther south than usual weakened the whales' ability to use sonar clicks to confirm the depth of the waters.
+answerText: It was a result of the same phenomenon that had likely caused the whales to become confused and navigate incorrectly.
+reviewed: yes
+---
+【正解】2 It was a result of the same phenomenon that had likely caused the whales to become confused and navigate incorrectly.（それは、おそらくクジラを混乱させ、まちがった方向へ進ませた現象と同じ現象の結果だった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is true of the aurora borealis in the context of the passage?（本文の流れの中で、オーロラについて正しいものはどれか。）
+1 It was so much brighter than usual that many sea animals became distracted by the lights and were unable to orient themselves.（それはふだんよりずっと明るかったので、多くの海の動物がその光に気を取られ、自分の向きを確かめられなくなった。）
+2 It was a result of the same phenomenon that had likely caused the whales to become confused and navigate incorrectly.（それは、おそらくクジラを混乱させ、まちがった方向へ進ませた現象と同じ現象の結果だった。）
+3 Its presence over the Norwegian Sea caused many birds to fly toward the North Sea, which led the whales to follow.（それがノルウェー海の上に現れたことで、多くの鳥が北海の方へ飛び、それにクジラがついて行くことになった。）
+4 Its appearance farther south than usual weakened the whales' ability to use sonar clicks to confirm the depth of the waters.（それがふだんより南に現れたことで、ソナーのクリック音を使って海の深さを確かめるクジラの能力が弱まった。）
+【考え方】
+まず見るところ：第2段落の These bright lights in the northern sky are caused by storms that occur on the sun
+設問の the aurora borealis（オーロラ）は、第2段落に出てきます。そのあとの文で、オーロラがどうして起こるのかと、クジラとの関係が説明されています。
+These bright lights in the northern sky are caused by storms that occur on the sun, and they are a sign that these storms are strongly interfering with Earth's magnetic field.（北の空に見えるこの明るい光は、太陽で起こる嵐によって引き起こされるもので、これらの嵐が地球の磁場を強く乱していることのしるしだ）
+Such storms can confuse migratory animals such as birds, and probably also caused whales relying on the magnetic field to become disoriented and enter shallow waters.（このような嵐は、鳥のような渡りをする動物を混乱させることがあり、おそらく、磁場に頼っていたクジラにも方向を見失わせ、浅い海に入りこませたのだろう）
+つまり、太陽の嵐が「オーロラ」を生み、同じ太陽の嵐が「クジラの混乱」も引き起こしたと考えられているのです。本文と選択肢を対にすると、次のようになります。
+・本文 are caused by storms that occur on the sun（太陽で起こる嵐によって引き起こされる）→ 言いかえると → 選択肢 was a result of the same phenomenon（同じ現象の結果だった）
+・本文 probably also caused whales ... to become disoriented and enter shallow waters（おそらくクジラにも方向を見失わせ、浅い海に入りこませた）→ ほぼ同じ内容 → 選択肢 had likely caused the whales to become confused and navigate incorrectly（おそらくクジラを混乱させ、まちがった方向へ進ませた）
+本文の probably（おそらく）が、選択肢では likely（おそらく）になっています。ですから2が正解です。
+この問題の型：因果（太陽の嵐 → オーロラ、太陽の嵐 → クジラの混乱）
+【ほかの選択肢】
+1 オーロラがふだんよりずっと明るかったとは、本文に書かれていません。また、本文でクジラを混乱させたのは、光ではなく、太陽の嵐による磁場の乱れです。
+3 本文には、太陽の嵐が鳥のような渡りをする動物を混乱させることがある、とは書かれています。しかし、鳥が北海の方へ飛び、クジラがそれについて行ったという話は書かれていません。
+4 オーロラがふだんより南に現れたという話は、本文に書かれていません。また、ソナーのクリック音が使えなかったのは、オーロラのせいではなく、底に砂や泥がある浅い海に入ったためだと第1段落に書かれています。
+【覚えるポイント】
+・aurora borealis：「オーロラ（北極光）」。interfere with ～ は「～を乱す、～のじゃまをする」、disoriented は「方向が分からなくなった」です。
+・「AがBを引き起こし、AがCも引き起こした」という文では、BとCは「同じ原因から起こったこと」になります。選択肢の the same phenomenon（同じ現象）のような言葉が出てきたら、本文で何が原因になっているかを確かめましょう。

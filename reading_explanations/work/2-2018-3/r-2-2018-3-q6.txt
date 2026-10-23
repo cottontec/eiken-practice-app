@@ -1,0 +1,27 @@
+---
+choices: decline | postpone | correct | elect
+answerText: correct
+reviewed: yes
+---
+【正解】3 correct（直す、訂正する）
+【和訳】
+（英文）
+Mr. Wilson read his students' English essays and wrote comments about the mistakes. He then returned the essays to his students and asked them to ［correct］ the errors for homework.
+（訳）
+ウィルソンさんは、生徒たちの英語の作文を読んで、まちがいについてコメントを書きました。それから、作文を生徒たちに返し、宿題としてそのまちがいを（直す）ように言いました。
+（選択肢の意味）
+1 decline：断る、減る
+2 postpone：延期する
+3 correct：直す、訂正する
+4 elect：（選挙で）選ぶ
+【考え方】
+最初の文に、ウィルソンさんは作文を読んで wrote comments about the mistakes（まちがいについてコメントを書いた）とあります。続く文では、作文を返して asked them to ( ) the errors for homework（宿題としてまちがいを（　）するよう生徒に頼んだ）と続きます。asked them to ～ は「彼らに～するように頼んだ（言った）」、errors は mistakes と同じく「まちがい」です。
+ウィルソンさんがまちがいにコメントを付けて作文を返したのですから、生徒が宿題ですることは、そのまちがいを直すことだと考えられます。correct はここでは動詞で「直す、訂正する」という意味です。ですから、3が正解です。
+なお、correct には「正しい」という形容詞（ものの様子を表す語）の意味もあります。ここでは to のあとに置かれ、the errors を目的語（動作を受けるもの）にしているので、動詞として使われています。
+【ほかの選択肢】
+1 decline は「（申し出などを）断る、減る」です。「まちがいを断る」となり、意味が通りません。
+2 postpone は「延期する」です。会議や試合などの予定をあとにのばすときに使う語です。「まちがいを延期する」となり、意味が通りません。
+4 elect は「（選挙で）選ぶ」です。「まちがいを選挙で選ぶ」となり、意味が通りません。
+【覚えるポイント】
+・correct：動詞では「直す、訂正する」、形容詞では「正しい」。
+・ask ＋人＋ to ～：「（人）に～するように頼む」。

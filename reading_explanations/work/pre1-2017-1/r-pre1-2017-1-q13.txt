@@ -1,0 +1,33 @@
+---
+choices: apprentices | siblings | peasants | referees
+answerText: siblings
+reviewed: yes
+---
+【正解】2 siblings（きょうだい〈兄弟姉妹〉）
+【和訳】
+（英文）
+A: How many ［siblings］ do you have?
+B: We're a big family. I have three brothers and one sister.
+（訳）
+A：（きょうだい）は何人いるの？
+B：うちは大家族だよ。兄（弟）が3人と、姉（妹）が1人いるよ。
+（選択肢の意味）
+1 apprentices：見習い、弟子
+2 siblings：きょうだい（兄弟姉妹）
+3 peasants：（昔の）小作農、農民
+4 referees：（スポーツの）審判
+【考え方】
+まず見るところ：Bの答えの three brothers and one sister
+Aは How many ( ) do you have?（（　）は何人いるの？）とたずねています。
+Bの答えは次のとおりです。
+We're a big family. I have three brothers and one sister.（うちは大家族だよ。兄（弟）が3人と、姉（妹）が1人いる）
+brothers と sister が年上か年下かは書かれていないので、和訳では「兄（弟）」「姉（妹）」としています。
+Bは、brothers（兄（弟））と sister（姉（妹））の人数を答えています。ですから、Aは「きょうだいは何人いるか」をたずねたと分かります。sibling は男女を区別せずに「きょうだい（兄弟姉妹）」を表す語なので、2が正解です。
+この問題の型：言いかえ（brothers and sister→siblings）
+【ほかの選択肢】
+1 apprentices は「見習い、弟子」です。Bは家族の話をしているので、「見習いは何人いるの？」という質問とは合いません。
+3 peasants は「（昔の）小作農、農民」です。Bの答えは家族のきょうだいの人数なので、合いません。
+4 referees は「（スポーツの）審判」です。「審判は何人いるの？」という質問に、家族のきょうだいの人数で答えることはありません。
+【覚えるポイント】
+・siblings：「きょうだい（兄弟姉妹）」。男女の区別をせずに使います。
+・How many ( ) …? という質問では、答えの中で数えられているもの（ここでは brothers と sister）をまとめて表す語が空所に入ると考えると手がかりになります。

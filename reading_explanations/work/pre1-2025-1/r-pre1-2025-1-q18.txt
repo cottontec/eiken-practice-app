@@ -1,0 +1,31 @@
+---
+choices: work through | pass up | plow through | wind up
+answerText: pass up
+reviewed: yes
+---
+【正解】2 pass up（〔機会など〕を見送る、断る）
+【和訳】
+（英文）
+Richard decided to ［pass up］ the job offer from the large company. Although the pay was good, he did not want to relocate his family to a new city.
+（訳）
+リチャードは、その大企業からの仕事の誘い（就職の申し出）を（見送る）ことに決めた。給料はよかったが、彼は家族を新しい町へ引っ越させたくなかった。
+（選択肢の意味）
+1 work through：～に（じっくり）取り組む、～を最後までやりとげる
+2 pass up：（機会など）を見送る、断る
+3 plow through：～を苦労して進む、（大量の仕事など）を苦労してやりとげる
+4 wind up：（結局）～になる、～を終わりにする
+【考え方】
+まず見るところ：後半の文の Although the pay was good, he did not want to relocate his family to a new city.
+空所のある文は「リチャードは、その大企業からの仕事の誘いを（　）ことに決めた」という意味です。job offer は「仕事の誘い、就職の申し出」です。
+後半の文を見ます。
+Although the pay was good, he did not want to relocate his family to a new city.（給料はよかったが、彼は家族を新しい町へ引っ越させたくなかった）
+Although ～ は「～だけれども」です。pay は「給料」、relocate は「引っ越させる、移転させる」です。「給料がよい」は誘いを受ける理由、「家族を引っ越させたくない」は誘いを受けない理由です。
+Although で「よい点はあったが」と認めたうえで、受けない理由が書かれているので、リチャードは誘いを断ったと考えられます。pass up は「（機会など）を見送る、断る」なので、2が正解です。
+この問題の型：対比（Although：給料はよい ⇔ 引っ越させたくない）／熟語・決まった形（pass up ～）
+【ほかの選択肢】
+1 work through は「～にじっくり取り組む」です。「仕事の誘いにじっくり取り組むことに決めた」では、家族を引っ越させたくないという理由とつながりません。
+3 plow through は「～を苦労してやりとげる」です。大量の仕事や読み物などについて使う語で、「仕事の誘いを苦労してやりとげる」では意味が通りません。
+4 wind up は「（結局）～になる、～を終わりにする」です。「仕事の誘いを終わりにすることに決めた」では意味がはっきりせず、断る理由を述べた後半の文ともつながりません。
+【覚えるポイント】
+・pass up ～：「（機会や申し出など）を見送る、断る」。
+・Although（～だけれども）で「よい点」を認めたあとに「したくない理由」が続くときは、前の文に「断る、見送る」向きの語が入る手がかりになります。

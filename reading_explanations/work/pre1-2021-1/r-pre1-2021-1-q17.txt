@@ -1,0 +1,31 @@
+---
+choices: monitors | signifies | vomits | regulates
+answerText: signifies
+reviewed: yes
+---
+【正解】2 signifies（表す、意味する）
+【和訳】
+（英文）
+Although a smile generally ［signifies］ happiness, some people also smile to cover up negative emotions, such as anger.
+（訳）
+ほほえみはふつう幸せを（表します）が、怒りのような否定的な感情を隠すためにもほほえむ人がいます。
+（選択肢の意味）
+1 monitors：監視する、見守る
+2 signifies：表す、意味する
+3 vomits：吐く、もどす
+4 regulates：規制する、調整する
+【考え方】
+まず見るところ：文の初めの Although と、後半の smile to cover up negative emotions
+文の初めの Although は「～だけれども」という意味です。前半と後半は、反対向きの内容になります。
+後半は次のとおりです。
+some people also smile to cover up negative emotions, such as anger（怒りのような否定的な感情を隠すためにもほほえむ人がいる）
+cover up は「隠す」、negative emotions は「否定的な（よくない）感情」です。後半は「ほほえみが否定的な感情を隠すこともある」という内容です。
+これと反対向きになるのは、「ほほえみはふつう幸せを表す」という内容です。signify は「表す、意味する」なので、2が正解です。後半の also（～もまた）は、「幸せを表すときのほかに」という流れを示しています。
+この問題の型：対比（ふつうは幸せを表す⇔否定的な感情を隠すこともある）
+【ほかの選択肢】
+1 monitors は「監視する」です。「ほほえみはふつう幸せを監視する」となり、意味が通りません。
+3 vomits は「吐く、もどす」です。「ほほえみはふつう幸せを吐く」となり、意味が通りません。
+4 regulates は「規制する、調整する」です。「ほほえみはふつう幸せを調整する」となり、後半の「感情を隠すためにほほえむ」こととも反対向きの関係になりません。
+【覚えるポイント】
+・signify：「表す、意味する」。表情や合図などが、どんな気持ちや意味を表しているかを言うときに使われます。
+・Although A, B（Aだけれども、B）の文では、AとBが反対向きの内容になります。片方（ここではB）の意味が分かれば、空所のあるもう片方の内容を考える手がかりになります。

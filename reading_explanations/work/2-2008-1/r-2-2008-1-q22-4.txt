@@ -1,0 +1,22 @@
+---
+choices: not | mention | main course | the | to
+answerText: the
+order: 1 5 2 4 3
+reviewed: yes
+---
+【正解】4 the（この問題の4番目）
+【完成文】
+Unfortunately, I had a stomachache all evening. I couldn't even finish the salad, ( not to mention the main course ), so I left early.
+並べ方：1 not → 5 to → 2 mention → 4 the → 3 main course（2番目は5、4番目は4）
+【和訳】
+A：ロジャー、昨夜は友だちのディナーパーティーを楽しんだ？
+B：残念ながら、一晩中おなかが痛かったんだ。サラダさえ食べきれなくて、メインの料理は言うまでもなかったよ。だから早めに帰ったんだ。
+【考え方】
+選択肢に 1 not、5 to、2 mention があることに注目します。not to mention ～ は「～は言うまでもなく」という決まった言い方です。そこで 1 not → 5 to → 2 mention と並べます。
+mention は「～について言う、～に触れる」という意味なので、そのあとには名詞がきます。4 the と 3 main course（メインの料理）を the main course の順に並べて続けます。
+空所の前は I couldn't even finish the salad（サラダさえ食べきれなかった）です。even は「～さえ」です。サラダのような軽い料理さえ食べられなかったのだから、もっと量の多いメインの料理は「言うまでもなく（もちろん）」食べられなかった、という意味になります。否定の文のあとに not to mention を置くと、「…さえできなかった。～はなおさらだ」という意味を表せます。
+to を mention のあとに置いて not mention to the main course とすると、決まった言い方の形がくずれてしまいます。to は not のすぐあとに置きます。
+したがって4番目は4 the です。
+【覚えるポイント】
+・not to mention ～：「～は言うまでもなく」。
+・couldn't even ～：「～さえできなかった」。

@@ -1,0 +1,30 @@
+---
+choices: They are the only racket available in so many colors. | Their low price will make them popular with customers. | His company will start manufacturing them in the United States. | The main reason people buy them is that they have light frames.
+answerText: Their low price will make them popular with customers.
+reviewed: yes
+---
+【正解】2 Their low price will make them popular with customers.（その低い価格のおかげで、客に人気が出るだろう。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ティム・ニューイーがスターライトのテニスラケットについて述べていることの1つは何ですか。
+1 They are the only racket available in so many colors.（これほど多くの色で手に入るラケットは、それだけである。）
+2 Their low price will make them popular with customers.（その低い価格のおかげで、客に人気が出るだろう。）
+3 His company will start manufacturing them in the United States.（彼の会社は、アメリカでそれらの製造を始める予定である。）
+4 The main reason people buy them is that they have light frames.（人々がそれらを買う主な理由は、軽いフレームがあることである。）
+【考え方】
+ラケットの特徴は、メールの第2段落にまとめて書かれています。
+まず But the main selling point is that no other rackets of similar quality are available so cheaply.（しかし一番のセールスポイントは、同じくらいの品質のラケットで、これほど安く手に入るものはほかにないということだ）とあります。selling point は「売りになる点、セールスポイント」です。つまり、一番の強みは「安さ」です。
+続いて We are offering them at $18 each（1本18ドルで提供している）と具体的な値段が示されています。さらに段落の最後で We feel confident that they will sell in your store very quickly.（御店でとても早く売れると確信している）と述べています。
+「安いこと」が一番の強みで、だから「よく売れる」と言っているのです。本文と選択肢は次のように対応しています。
+本文 no other rackets of similar quality are available so cheaply（同じ品質でこれほど安いラケットはほかにない）＝ 選択肢 Their low price（その低い価格）
+本文 they will sell in your store very quickly（御店でとても早く売れるだろう）＝ 選択肢 will make them popular with customers（客に人気が出るだろう）
+正解は2です。
+【ほかの選択肢】
+1 本文には they come in a variety of colors（さまざまな色がそろっている）とあるだけです。「これほど多くの色がそろっているのはこのラケットだけだ」とは書かれていません。本文で「ほかにない」と言っているのは、色ではなく安さについてなので、言い切りすぎです。
+3 本文には The rackets are manufactured in China（ラケットは中国で製造されている）とあり、アメリカについては we have just started selling them（販売を始めたばかりだ）とあります。アメリカで始めたのは「製造」ではなく「販売」なので、誤りです。
+4 軽いフレームについては They have light frames made from aluminum（アルミニウムでできた軽いフレームがある）と書かれています。しかし、本文で一番のセールスポイント（the main selling point）とされているのは安さです。軽いフレームが主な理由だとは書かれていないので、誤りです。
+【覚えるポイント】
+・selling point：「（商品の）売りになる点、セールスポイント」。
+・sell：「売る」のほか、「（商品が）売れる」という意味もあります。they will sell quickly は「すぐに売れるだろう」です。

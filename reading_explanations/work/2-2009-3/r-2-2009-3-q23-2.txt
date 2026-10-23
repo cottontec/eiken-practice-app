@@ -1,0 +1,23 @@
+---
+choices: turns | that | she | it | out
+answerText: turns
+order: 4 1 5 2 3
+reviewed: yes
+---
+【正解】1 turns（この問題の2番目）
+【完成文】
+Yeah. ( It turns out that she ) had a fight with her boyfriend this morning. They decided to break up.
+並べ方：4 it → 1 turns → 5 out → 2 that → 3 she（2番目は1、4番目は2）
+【和訳】
+A：アリスがどうして授業中に泣いていたのか分かった？
+B：うん。彼女は今朝、ボーイフレンドとけんかをしたことが分かったよ。2人は別れることにしたんだ。
+【考え方】
+まず、Aの質問を確認します。Did you find out why Alice was crying in class?（アリスがなぜ授業中に泣いていたのか分かった？）です。Bは Yeah.（うん）と答えているので、このあとに分かった理由がくるはずです。
+選択肢の 1 turns と 5 out を見ると、turn out（～だと分かる、結局～だと判明する）という言い方が思いうかびます。これを It turns out that ～（～だということが分かる）の形で使います。It が文の主語の位置に入り、that 以下が「分かった内容」を表します。
+that のあとには文の主語と動詞が必要です。空所のあとには had a fight（けんかをした）があるので、主語として 3 she を that のすぐあとに置きます。she had a fight with her boyfriend this morning で「彼女は今朝ボーイフレンドとけんかをした」となります。
+こうして It turns out that she had a fight with her boyfriend this morning.（彼女は今朝ボーイフレンドとけんかをしたことが分かった）となり、Aの質問の答えになります。
+2番目に 1 turns が来るのは、It turns out that ～ の形で、主語 it のすぐあとに動詞 turns を置くからです（it は1つのものを表す主語なので、今のことを言う動詞に s が付いた turns になります）。
+まちがえやすいのは She turns out that ～ のように she を先頭に置く並べ方です。この形ではあとの had a fight の主語がいなくなってしまいます。she は that のあとに置いて、had a fight の主語にします。
+【覚えるポイント】
+・It turns out that ～：「～だということが分かる、結局～だと判明する」。
+・break up：「（恋人どうしが）別れる」。

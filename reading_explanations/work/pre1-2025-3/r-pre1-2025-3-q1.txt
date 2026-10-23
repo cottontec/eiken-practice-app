@@ -1,0 +1,32 @@
+---
+choices: evaded | sterilized | wrecked | commuted
+answerText: evaded
+reviewed: yes
+---
+【正解】1 evaded（～から逃れた、～の手をかわした）
+【和訳】
+（英文）
+The men who escaped from prison ［evaded］ the police for three weeks, but they were finally caught and brought back.
+（訳）
+刑務所から脱走した男たちは、3週間、警察の手を（逃れた）が、最後には捕まって連れ戻された。
+（選択肢の意味）
+1 evaded：～から逃れた、～の手をかわした
+2 sterilized：～を殺菌した、～を消毒した
+3 wrecked：～をめちゃめちゃに壊した
+4 commuted：通勤した、通学した
+【考え方】
+まず見るところ：but のあとの they were finally caught and brought back
+空所のある部分は、次のとおりです。
+The men who escaped from prison (　) the police for three weeks（刑務所から脱走した男たちは、3週間、警察を（　））
+escape from prison は「刑務所から脱走する」です。空所には、脱走した男たちが警察に対して3週間どうしていたかが入ります。
+but のあとには、次のように書かれています。
+but they were finally caught and brought back（しかし、最後には捕まって連れ戻された）
+finally（最後には、ついに）とあるので、それまでの3週間は捕まらずにいたと分かります。but（しかし）は前と反対の内容をつなぐので、空所には「警察に捕まらなかった」という意味の語が入ります。evade は「～から（うまく）逃れる、～をかわす」という意味なので、1が正解です。
+この問題の型：対比（3週間逃れた⇔最後には捕まった）
+【ほかの選択肢】
+2 sterilized は「～を殺菌した」です。「警察を3週間殺菌した」となり、意味が通りません。
+3 wrecked は「～をめちゃめちゃに壊した」です。「警察を壊した」では意味が通らず、but のあとの「最後には捕まった」ともつながりません。
+4 commuted は「通勤した、通学した」です。「警察を3週間通勤した」となり、意味が通りません。脱走した男たちの話にも合いません。
+【覚えるポイント】
+・evade：「～から（うまく）逃れる、～をかわす」。evade the police で「警察の手を逃れる」。
+・but they were finally caught（しかし最後には捕まった）のように、but のあとに「最後にどうなったか」が書かれているときは、空所に反対の様子（ここでは捕まらずにいたこと）が入る手がかりになります。

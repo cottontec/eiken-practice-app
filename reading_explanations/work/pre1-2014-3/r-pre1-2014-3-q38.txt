@@ -1,0 +1,36 @@
+---
+choices: Greece's history as part of the Ottoman Empire makes it difficult to determine exactly which country they belong to. | The British government acquired them from one of its citizens instead of directly from the marbles' country of origin. | They were transferred to Britain more than 100 years before the treaty was negotiated. | The international community officially recognized Britain as their rightful owner prior to 1970.
+answerText: They were transferred to Britain more than 100 years before the treaty was negotiated.
+reviewed: yes
+---
+【正解】3 They were transferred to Britain more than 100 years before the treaty was negotiated.（条約が話し合われるより100年以上前に、イギリスへ移されたから。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Why are the Elgin Marbles not covered by the UNESCO treaty?（エルギン・マーブルがユネスコの条約の対象にならないのはなぜか。）
+1 Greece's history as part of the Ottoman Empire makes it difficult to determine exactly which country they belong to.（ギリシャがオスマン帝国の一部だった歴史のために、それがどの国のものかを正確に決めるのが難しいから。）
+2 The British government acquired them from one of its citizens instead of directly from the marbles' country of origin.（イギリス政府は、大理石彫刻のもとの国から直接ではなく、自国民の一人からそれを手に入れたから。）
+3 They were transferred to Britain more than 100 years before the treaty was negotiated.（条約が話し合われるより100年以上前に、イギリスへ移されたから。）
+4 The international community officially recognized Britain as their rightful owner prior to 1970.（国際社会が1970年より前に、イギリスを正当な持ち主として公式に認めたから。）
+【考え方】
+まず見るところ：第1段落の there is no mention of how to treat objects acquired prior to that と、第2段落の In the early 1800s
+この設問は、第1段落の条約の決まりと、第2段落の年代を組み合わせて考えます。
+まず、第1段落で条約の限界が説明されています。
+For one, although it calls for governments to recover and return objects illegally imported after the treaty was established, there is no mention of how to treat objects acquired prior to that.（一つには、条約は、条約が定められたあとに不法に輸入された品を取り戻して返すよう各国政府に求めているが、それより前に手に入れられた品をどう扱うかについては何も触れていない）
+条約が定められたのは1970年です。つまり、この条約の対象は1970年より後に持ちこまれた品で、それより前の品は対象になっていません。
+次に、第2段落でエルギン・マーブルがイギリスへ運ばれた時期を見ます。
+In the early 1800s, when Greece was ruled by the Ottoman Empire, the British ambassador, Lord Elgin, began making casts and drawings of the ancient artworks.（1800年代の初め、ギリシャがオスマン帝国に支配されていたころ、イギリスの大使だったエルギン卿は、その古代の美術品の型を取ったり絵に描いたりし始めた）
+そして、Elgin removed roughly half of the remaining pieces and shipped them to Britain（エルギンは残っていた部分のおよそ半分を取り外してイギリスへ送った）と続きます。
+本文と選択肢3を対にすると、次のようになります。
+・本文 shipped them to Britain（それらをイギリスへ送った）＝ 選択肢 They were transferred to Britain（イギリスへ移された）
+・本文 In the early 1800s ～ と 1970 → 選択肢 more than 100 years before the treaty（条約より100年以上前）
+1800年代の初めから1970年までには、100年をはるかに超える年月があります。ですから「100年以上前」は本文から読み取れます。なお、選択肢の negotiated（話し合われた）は本文の put forth（打ち出した）と語が違いますが、ここでは条約が成立した1970年ごろを指しているので、判断には影響しません。条約はそれより前の品を扱っていないので、エルギン・マーブルは対象にならないのです。よって3が正解です。
+この問題の型：推論（第1段落の条約の決まりと、第2段落の年代を組み合わせる）
+【ほかの選択肢】
+1 本文にありません。ギリシャがオスマン帝国に支配されていたことは書かれていますが、そのせいでどの国のものか決められない、とは書かれていません。条約の対象にならない理由として本文が挙げているのは、持ち出された時期です。
+2 一部だけ本文と合うように読めます。エルギンがイギリスへ送った彫刻は最終的にイギリス政府に売られた、とあるので、イギリス政府がイギリス人から手に入れたこと自体は本文と食いちがいません。しかし、条約の対象にならない理由として、だれから手に入れたかは挙げられていません。
+4 本文にありません。国際社会がイギリスを正当な持ち主と認めたという話はなく、むしろ第1段落には、こうした品の正当な持ち主が激しく議論されているとあります。
+【覚えるポイント】
+・prior to ～：「～より前に」。call for ～：「～を求める」。
+・「なぜ対象にならないのか」をたずねる設問では、決まりが当てはまる条件（ここでは「条約のあとに輸入された品」）と、その品の時期を別々の段落から見つけて組み合わせるのが手がかりになります。

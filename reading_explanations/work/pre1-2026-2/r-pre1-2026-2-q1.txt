@@ -1,0 +1,30 @@
+---
+choices: restrain | recharge | resume | reflect
+answerText: restrain
+reviewed: yes
+---
+【正解】1 restrain（（力で）取り押さえる、抑えつける）
+【和訳】
+（英文）
+The cabin crew was forced to ［restrain］ a passenger on the airplane when he started to become violent toward a person sitting near him.
+（訳）
+その客室乗務員たちは、飛行機の乗客の1人が近くに座っていた人に対して乱暴になり始めたとき、その乗客を取り押さえざるを得なかった。
+（選択肢の意味）
+1 restrain：（人や動物を力で）取り押さえる、抑えつける
+2 recharge：充電する、（力を）回復させる
+3 resume：再開する
+4 reflect：反射する、反映する、よく考える
+【考え方】
+まず見るところ：文の後半の when he started to become violent toward a person sitting near him
+when he started to become violent toward a person sitting near him（彼が近くに座っていた人に対して乱暴になり始めたとき）
+violent は「乱暴な、暴力的な」という意味です。乗客が周りの人に乱暴をし始めた、という場面だと分かります。
+The cabin crew was forced to ( ) a passenger（客室乗務員たちは、乗客を（　）せざるを得なかった）
+be forced to ～ は「～せざるを得ない、やむを得ず～する」という意味です。暴れ始めた乗客に対して、乗務員がやむを得ずすることといえば、その人を押さえて動けないようにすることです。restrain は「（人を力で）取り押さえる」という意味なので、1が正解です。
+この問題の型：因果（乗客が乱暴になった→取り押さえざるを得なかった）／語の意味・組み合わせ（restrain a passenger）
+【ほかの選択肢】
+2 recharge は「充電する、（力を）回復させる」です。「乱暴になり始めた乗客を充電せざるを得なかった」となり、意味が通りません。
+3 resume は「再開する」です。「乗客を再開せざるを得なかった」となり、人を目的語（動作を受ける相手）にしても意味が通りません。
+4 reflect は「反射する、反映する」です。「乗客を反射せざるを得なかった」となり、乱暴をし始めた人への対応になりません。
+【覚えるポイント】
+・restrain：「（人を力で）取り押さえる、抑えつける」。暴れる人を止める場面で使われます。
+・be forced to ～：「～せざるを得ない」。この形のあとには、本当はしたくないけれど、状況のためにやむを得ずする行動が来ることが多いので、前後に書かれた「状況」を手がかりに考えます。

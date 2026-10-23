@@ -1,0 +1,31 @@
+---
+choices: are both overused | are essentially the same | should have different roles | both lack evidence that they work
+answerText: should have different roles
+reviewed: yes
+---
+【正解】3 should have different roles（異なる役割を持つべきだ）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 are both overused（どちらも使われすぎている）
+2 are essentially the same（本質的には同じだ）
+3 should have different roles（異なる役割を持つべきだ）
+4 both lack evidence that they work（どちらも効くという証拠がない）
+【考え方】
+まず見るところ：第3段落の空所のあとの Instead of viewing herbal medicines as an alternative to standard drugs, ～
+空所のある文は次のとおりです。
+They also feel that herbal medicines and modern, doctor-prescribed drugs ( 28 ).（彼らはまた、薬草の薬と、医師が処方する現代の薬とは（　）と考えている）
+They は、薬草の薬を支持する人々を指します。空所には、支持する人々が2種類の薬の関係をどう考えているかが入ります。
+空所のあとの文は次のとおりです。
+Instead of viewing herbal medicines as an alternative to standard drugs, which are often necessary in emergencies or to fight serious infections, people should instead use them to maintain overall health and wellness.（緊急時や重い感染症と戦うためにしばしば必要となる標準的な薬に代わるものとして薬草の薬を見るのではなく、人々はむしろ、全体的な健康と元気な状態を保つために薬草の薬を使うべきだ）
+alternative は「代わりになるもの」です。標準的な薬は「緊急時や重い感染症」のために、薬草の薬は「全体的な健康を保つ」ために、と使い道を分けるべきだと言っています。
+つまり、2種類の薬はそれぞれ別の役割を持つべきだ、という考えです。ですから3が正解です。
+この問題の型：具体例とまとめ（緊急時は標準的な薬・健康を保つには薬草の薬→異なる役割）
+【ほかの選択肢】
+1 「どちらも使われすぎている」は、本文にありません。支持する人々は、薬の使いすぎについては何も述べていません。
+2 「本質的には同じだ」は、あとの文と合いません。あとの文では、2種類の薬を別々の目的に使うべきだと言っているので、同じものだという考えとは反対向きです。
+4 「どちらも効くという証拠がない」は、空所のあとの文とつながりません。あとの文で説明されているのは2種類の薬の使い道の違いで、証拠があるかないかの話ではありません。また、標準的な薬については often necessary in emergencies（緊急時にしばしば必要だ）と書かれています。
+【覚えるポイント】
+・Instead of A, ～ should instead B（Aするのではなく、むしろBすべきだ）は、考え方の向きを示す言い方です。Aを否定してBを勧めていることに注目します。
+・空所に「考えのまとめ」が入るときは、すぐあとの文の具体的な説明（ここでは「どんなときにどちらの薬を使うか」）をまとめた選択肢を選ぶと手がかりになります。

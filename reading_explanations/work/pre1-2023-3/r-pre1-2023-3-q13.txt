@@ -1,0 +1,29 @@
+---
+choices: adjacent | justified | integral | peculiar
+answerText: justified
+reviewed: yes
+---
+【正解】2 justified（正当だと認められる、もっともな理由がある）
+【和訳】
+（英文）
+Killing another human being is generally considered to be a crime unless it is ［justified］, as in the case of self-defense.
+（訳）
+ほかの人間を殺すことは、正当防衛の場合のように（正当だと認められる）のでない限り、一般に犯罪だと考えられている。
+（選択肢の意味）
+1 adjacent：となりの、すぐ近くの
+2 justified：正当だと認められる、もっともな理由がある
+3 integral：欠かせない、なくてはならない
+4 peculiar：変わった、独特の
+【考え方】
+まず見るところ：空所の前の a crime unless it is と、後ろの as in the case of self-defense
+unless ～ は「～でない限り」です。「人を殺すことは犯罪だ」という文に、例外の条件をつけています。その例外の例が、空所の後ろに書かれています。
+as in the case of self-defense（正当防衛の場合のように）
+self-defense は「正当防衛（自分の身を守るために、やむをえず相手に反撃すること）」です。正当防衛は、理由があるので罪にならない場合の例です。justify は「正当だと認める」で、it is justified で「それが正当だと認められる」となるので、2が正解です。
+この問題の型：具体例とまとめ（self-defense → justified）
+【ほかの選択肢】
+1 adjacent は「となりの、すぐ近くの」です。「となりにあるのでない限り犯罪だ」となり、意味が通りません。
+3 integral は「欠かせない、なくてはならない」です。「欠かせないのでない限り犯罪だ」となり、正当防衛の例ともつながりません。
+4 peculiar は「変わった、独特の」です。「変わっているのでない限り犯罪だ」となり、正当防衛の例とつながりません。
+【覚えるポイント】
+・justified：「正当だと認められる」。unless ～：「～でない限り」。self-defense：「正当防衛」。
+・unless ～ のあとに as in the case of ～（～の場合のように）と例が続くときは、その例に共通する性質が空所に入る手がかりになります。

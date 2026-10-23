@@ -1,0 +1,32 @@
+---
+choices: were likely hunted by dinosaurs | relied on eggs for food | did not lay eggs | may not have existed with dinosaurs
+answerText: did not lay eggs
+reviewed: yes
+---
+【正解】3 did not lay eggs（卵を産まなかった）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 were likely hunted by dinosaurs（恐竜に狩られていた可能性が高い）
+2 relied on eggs for food（食べ物を卵に頼っていた）
+3 did not lay eggs（卵を産まなかった）
+4 may not have existed with dinosaurs（恐竜と同じ時代にはいなかったかもしれない）
+【考え方】
+まず見るところ：第1段落の空所のあとの The researchers’ findings challenge this idea, however
+最初に、研究者たちの発見を確かめます。
+Researchers now believe it is a 66-million-year-old soft-shelled egg and that it probably contained a mosasaur（研究者たちは今、それが6,600万年前のやわらかい殻の卵で、おそらくモササウルスが入っていたと考えている）
+it は「ザ・シング」と呼ばれた化石を指します。研究者たちは、これを「モササウルスの卵」だと考えています。
+次に、空所のあとの文を見ます。
+The researchers’ findings challenge this idea, however（しかし、研究者たちの発見はこの考えに疑問を投げかけている）
+challenge は「～に疑問を投げかける、異議を唱える」です。this idea は、空所を含む「以前の化石の証拠が示していた考え」を指します。「モササウルスの卵が見つかった」という発見が疑問を投げかける考えは、「モササウルスは卵を産まなかった」というものだと考えられます。
+したがって、3が正解です。
+この問題の型：指示語（this idea が空所の内容を指す）／対比（以前の考え：卵を産まない⇔発見：モササウルスの卵）
+【ほかの選択肢】
+1 「恐竜に狩られていた可能性が高い」という考えには、モササウルスの卵が見つかったという発見は疑問を投げかけません。this idea とつながらないので合いません。
+2 「食べ物を卵に頼っていた」では、見つかった卵の中にはモササウルスが入っていたという発見と結びつきません。卵を食べていたかどうかは、この化石の発見で疑問が出る考えではありません。
+4 「恐竜と同じ時代にはいなかったかもしれない」は、第1段落の a large aquatic reptile that existed around the same time as dinosaurs（恐竜とほぼ同じ時代に存在した、水中にすむ大型の爬虫類）と合いません。また、卵の発見は、生きていた時代についての考えに疑問を投げかけるものではありません。
+【覚えるポイント】
+・lay eggs：「卵を産む」。
+・challenge this idea：「この考えに疑問を投げかける、異議を唱える」。
+・空所のあとに challenge this idea（この考えに疑問を投げかける）のような文があるときは、新しい発見（ここでは卵）と反対の内容が空所に入ることが多いので、発見の中身を先に確かめると手がかりになります。

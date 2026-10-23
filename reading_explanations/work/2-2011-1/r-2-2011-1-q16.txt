@@ -1,0 +1,24 @@
+---
+choices: head | nature | word | attitude
+answerText: word
+reviewed: yes
+---
+【正解】3 word（a man of his word で「約束を守る人」）
+【和訳】
+その首相は約束を守る人として知られていたので、税金を下げるという約束を守れなかったとき、支持者の多くはがっかりしました。
+（選択肢の意味）
+1 head：頭
+2 nature：性質、自然
+3 word：ことば、約束
+4 attitude：態度
+【考え方】
+文の後半を見ます。when he failed to keep his promise to cut taxes, many of his supporters were disappointed（彼が税金を下げるという約束を守れなかったとき、支持者の多くはがっかりした）。fail to ～ は「～できない、～しそこなう」です。
+前半と後半は so（だから）でつながっています。ですから前半には、「約束を守れなかったとき、人々がとくにがっかりした理由」が入ります。いつも約束を守る人だと思われていたなら、約束をやぶったときに人々はがっかりします。
+word には「ことば」のほかに「約束」という意味があり、a man of his word で「約束を守る人」という決まった言い方になります。したがって3が正解です。
+【ほかの選択肢】
+1 head は「頭」です。a man of his head という言い方はなく、意味が通りません。
+2 nature は「性質、自然」です。a man of his nature では、どんな性質なのかが分からず、約束を守れなかったときにがっかりされた理由になりません。
+4 attitude は「態度」です。a man of his attitude という言い方はなく、どんな態度かも分からないので、後半とつながりません。
+【覚えるポイント】
+・a man of his word：「約束を守る人」。keep one's word も「約束を守る」です。
+・fail to ～：「～できない、～しそこなう」。

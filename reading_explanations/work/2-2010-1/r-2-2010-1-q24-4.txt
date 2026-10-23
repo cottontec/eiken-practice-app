@@ -1,0 +1,22 @@
+---
+choices: faster | is | than | student | no other
+answerText: faster
+order: 5 4 2 1 3
+reviewed: yes
+---
+【正解】1 faster（この問題の4番目）
+【完成文】
+Oh, definitely Becky. ( No other student is faster than ) she is. She easily won the last three races.
+並べ方：5 no other → 4 student → 2 is → 1 faster → 3 than（2番目は4、4番目は1）
+【和訳】
+A：土曜日の自転車レースではだれが勝つと思う？
+B：ああ、絶対にベッキーだよ。彼女より速い生徒はほかにいないからね。この前の3つのレースで楽に勝ったんだ。
+【考え方】
+Bはベッキーが勝つと言い、その理由を空所の文で述べています。空所のあとが she is. で終わっていることに注目します。than she is（彼女がそうであるより）の形にすると、「彼女より～」と比べる文になります。
+比べる文の中心になる形は、No other ＋ 名詞 ＋ is ＋ 比較級（「より～」を表す形）＋ than …（…より～な（名詞）はほかにない）です。まず 5 no other と 4 student で No other student（ほかのどの生徒も～ない）を作り、2 is を続けます。
+4番目には、is のあとに来る比較級 1 faster（より速い）を置きます。最後に 3 than を置くと、than she is とつながります。
+したがって4番目は1 faster です。
+than を4番目に置いて is than faster とすると、比べる語 faster が than のあとに来てしまい、文が成り立ちません。比較級は than の前に置きます。
+【覚えるポイント】
+・比較級 ＋ than …：「…より～」。faster than she is で「彼女より速い」です。
+・easily won the last three races：「この前の3つのレースに楽に勝った」。the last three ～ は「最近の3つの～」です。

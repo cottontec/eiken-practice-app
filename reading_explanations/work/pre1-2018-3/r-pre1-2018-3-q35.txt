@@ -1,0 +1,34 @@
+---
+choices: Computer analysis of real-time data has proved more useful than satellite measurements. | Satellite data showing changes in the level of Earth's crust can indicate volcanic activity. | Computer models allow scientists to calculate the temperature of magma in a given location. | Satellite data gathered during extreme weather events can be useful in predicting the size of eruptions.
+answerText: Satellite data showing changes in the level of Earth's crust can indicate volcanic activity.
+reviewed: yes
+---
+【正解】2 Satellite data showing changes in the level of Earth's crust can indicate volcanic activity.（地球の地殻の高さの変化を示す人工衛星のデータが、火山の活動を示すことがある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one example of a recent advance in predicting volcanic eruptions?（火山の噴火の予測における最近の進歩の例の一つは何か。）
+1 Computer analysis of real-time data has proved more useful than satellite measurements.（リアルタイムのデータのコンピューター分析のほうが、人工衛星による測定より役に立つと分かった。）
+2 Satellite data showing changes in the level of Earth's crust can indicate volcanic activity.（地球の地殻の高さの変化を示す人工衛星のデータが、火山の活動を示すことがある。）
+3 Computer models allow scientists to calculate the temperature of magma in a given location.（コンピューターモデルによって、科学者はある場所のマグマの温度を計算できる。）
+4 Satellite data gathered during extreme weather events can be useful in predicting the size of eruptions.（極端な気象現象の間に集められた人工衛星のデータが、噴火の規模を予測するのに役立つことがある。）
+【考え方】
+まず見るところ：第1段落の Additionally, scientists now use satellite data to measure slight changes in the landscape around volcanoes.
+設問は、噴火の予測の「最近の進歩」の例をたずねています。第1段落の後半に、人工衛星を使った新しい方法が書かれています。
+Additionally, scientists now use satellite data to measure slight changes in the landscape around volcanoes.（さらに、科学者たちは今では、人工衛星のデータを使って、火山の周りの地形のわずかな変化を測っている）
+Earth's crust can rise a millimeter at a time as it is pushed up by the pressure of the hot liquid rock, or magma, below.（地球の地殻は、その下にある熱い液体の岩、つまりマグマの圧力で押し上げられて、一度に1ミリずつ盛り上がることがある）
+satellite cameras far above can determine whether a volcano's surface is rising—an indicator of a possible eruption（はるか上空にある人工衛星のカメラなら、火山の表面が盛り上がっているかどうかを判断することができる。これは、噴火が起こるかもしれないことを示すしるしだ）
+本文と選択肢を対にすると、次のようになります。
+・本文 satellite data（人工衛星のデータ）＝ 選択肢 Satellite data（人工衛星のデータ）
+・本文 Earth's crust can rise ／ a volcano's surface is rising（地殻が盛り上がる／火山の表面が盛り上がっている）→ 言いかえると → 選択肢 changes in the level of Earth's crust（地殻の高さの変化）
+・本文 an indicator of a possible eruption（噴火が起こるかもしれないことを示すしるし）→ ほぼ同じ内容 → 選択肢 can indicate volcanic activity（火山の活動を示すことがある）
+ですから2が正解です。
+この問題の型：言いかえ（the surface is rising → changes in the level of Earth's crust）
+【ほかの選択肢】
+1 本文では、コンピューターモデルを修正する分析方法も real-time satellite data（リアルタイムの人工衛星のデータ）を使っていると書かれています。コンピューター分析と人工衛星による測定のどちらがより役に立つかを比べた話は、本文に書かれていません。
+3 本文に書かれているのは、コンピューターモデルによって地質の活動についての理解が深まったことです。マグマの温度を計算するという話は書かれていません。
+4 本文の初めの極端な気象現象（ハリケーンや吹雪）は、Unlike ～（～とは違って）の形で、予測が難しい地震や噴火と比べるために出てくるだけです。その間に集めたデータで噴火の規模を予測するという話は書かれていません。
+【覚えるポイント】
+・indicator：「しるし、指標」。an indicator of a possible eruption は「噴火が起こるかもしれないことを示すしるし」で、選択肢の indicate（示す）と同じ仲間の語です。
+・設問に recent advance（最近の進歩）とあるときは、本文の In recent years や now（今では）のような語の近くを探しましょう。本文の「盛り上がる（rise）」のような具体的な言い方が、選択肢では changes in the level（高さの変化）とまとめられることがよくあります。

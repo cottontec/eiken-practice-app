@@ -1,0 +1,33 @@
+---
+choices: unconcerned | jealous | capable | disabled
+answerText: unconcerned
+reviewed: yes
+---
+【正解】1 unconcerned（関心がない、気にかけない）
+【和訳】
+（英文）
+Bill used to be ［unconcerned］ by the problems faced by developing countries. After visiting a few, though, he became more interested in trying to help.
+（訳）
+ビルは以前、発展途上国が直面している問題に（関心がありませんでした）。しかし、いくつかの国を訪れたあと、彼は助けようとすることに（以前より）もっと関心を持つようになりました。
+（選択肢の意味）
+1 unconcerned：関心がない、気にかけない
+2 jealous：嫉妬して、うらやんで
+3 capable：能力がある
+4 disabled：障がいのある
+【考え方】
+まず見るところ：文の初めの used to be と、2文目の though, he became more interested
+空所のある文は次のとおりです。
+Bill used to be ( ) by the problems faced by developing countries.（ビルは以前、発展途上国が直面している問題に（　）だった）
+used to be ～ は「以前は～だった（今はそうではない）」という意味です。ですから、2文目には「今は違う」という内容がくると考えられます。
+2文目は次のとおりです。
+After visiting a few, though, he became more interested in trying to help.（しかし、いくつかの国を訪れたあと、彼は助けようとすることに（以前より）もっと関心を持つようになった）
+though は「しかし」で、前の文と反対の向きの内容を示します。訪れたあとで「もっと関心を持つようになった」のだから、以前のビルは問題にあまり関心がなかったことになります。
+unconcerned は「関心がない、気にかけない」という意味なので、1が正解です。
+この問題の型：対比（以前は関心がなかった⇔訪れたあとは関心を持った）
+【ほかの選択肢】
+2 jealous は「嫉妬して、うらやんで」です。「発展途上国が直面している問題をうらやんでいた」となり、意味が通りません。
+3 capable は「能力がある」です。「問題によって能力があった」となり、意味が通りません。また、2文目の「もっと関心を持つようになった」という変化とも結びつきません。
+4 disabled は「障がいのある」です。「問題によって障がいがあった」となり、2文目の関心の変化の話とつながりません。
+【覚えるポイント】
+・used to be ～：「以前は～だった」。今とは違うことを表します。
+・used to と though（しかし）が出てきたら、「以前」と「今」が反対の内容になっていると考えると、空所に入る語を決める手がかりになります。

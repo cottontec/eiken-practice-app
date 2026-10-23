@@ -1,0 +1,31 @@
+---
+choices: insoluble | uptight | vivid | weary
+answerText: insoluble
+reviewed: yes
+---
+【正解】1 insoluble（解決できない）
+【和訳】
+（英文）
+The prize-winning scientist told the audience at the lecture that even apparently ［insoluble］ problems can usually be worked out with patience and hard work.
+（訳）
+賞を受けたその科学者は、講演会の聴衆に、一見（解決できない）ように思える問題でさえ、忍耐と努力によってたいていは解決できると語りました。
+（選択肢の意味）
+1 insoluble：解決できない；（物質が）溶けない
+2 uptight：神経質な、ぴりぴりした
+3 vivid：あざやかな、生き生きとした
+4 weary：疲れきった
+【考え方】
+まず見るところ：空所の前の even apparently と、後ろの can usually be worked out
+科学者が聴衆に語った内容は、that の後ろに書かれています。
+even apparently (　) problems can usually be worked out with patience and hard work（一見（　）な問題でさえ、忍耐と努力によってたいていは解決できる）
+work out は「（問題を）解決する」、patience は「忍耐（がまん強さ）」という意味です。
+ここで大切なのは even（～でさえ）と apparently（一見、見たところは）です。apparently は「見たところは～だが、実際はちがうかもしれない」という意味を表します。「見たところ（　）な問題でさえ、実際には解決できる」という流れなので、空所には「解決できる」とは反対の「解決できない」が入ると考えられます。
+insoluble は「解決できない」という意味です。「一見解決できないように見える問題でさえ、たいていは解決できる」となり、意味がうまく通るので、1が正解です。
+この問題の型：対比（一見解決できない⇔実際には解決できる）
+【ほかの選択肢】
+2 uptight は「神経質な、ぴりぴりした」という意味で、ふつう人のようすを表します。「一見神経質な問題」となり、意味が通りません。
+3 vivid は「あざやかな、生き生きとした」という意味です。「一見あざやかな問題でさえ解決できる」では、even（～でさえ）がつくほど解決しにくい問題という意味になりません。
+4 weary は「疲れきった」という意味で、これもふつう人のようすを表します。「一見疲れきった問題」となり、意味が通りません。
+【覚えるポイント】
+・insoluble：「解決できない」。soluble（解決できる）に「否定」を表す in- がついた形です。
+・even apparently ～（一見～なものでさえ）の後ろに「実際には…できる」が続くときは、空所に「…できる」と反対の意味の語が入ることが多く、答えを選ぶ手がかりになります。

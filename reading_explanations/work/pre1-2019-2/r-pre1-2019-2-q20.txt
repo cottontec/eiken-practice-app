@@ -1,0 +1,30 @@
+---
+choices: testimony | visibility | congestion | drainage
+answerText: congestion
+reviewed: yes
+---
+【正解】3 congestion（混雑、渋滞）
+【和訳】
+（英文）
+A major accident caused serious ［congestion］ on the highway, as two lanes of traffic were closed for over an hour.
+（訳）
+大きな事故のせいで、幹線道路でひどい（渋滞）が起きた。2つの車線が1時間以上閉鎖されたためだ。
+（選択肢の意味）
+1 testimony：証言
+2 visibility：見通し、視界のよさ
+3 congestion：混雑、渋滞
+4 drainage：排水、水はけ
+【考え方】
+まず見るところ：as のあとの two lanes of traffic were closed for over an hour
+空所のある部分は「大きな事故が、幹線道路でひどい（　）を引き起こした」です。caused は「引き起こした」、highway は「幹線道路（大きな道路）」です。
+文の後半の as は「～なので」と理由を表しています。
+as two lanes of traffic were closed for over an hour（2つの車線が1時間以上閉鎖されたためだ）
+lane は「車線」です。車が通れる車線が1時間以上閉じられれば、車が先に進めず、道路が混みます。congestion は「混雑、渋滞」という意味なので、3が正解です。
+この問題の型：因果（車線の閉鎖 → ひどい渋滞）
+【ほかの選択肢】
+1 testimony は「証言」です。事故について証言することはありえますが、「幹線道路でひどい証言を引き起こした」では意味が通らず、車線の閉鎖が理由になりません。
+2 visibility は「見通し、視界のよさ」です。「ひどい見通しを引き起こした」では意味が通らず、車線が閉鎖されたことで見通しが変わるわけでもありません。
+4 drainage は「排水、水はけ」です。「幹線道路でひどい排水を引き起こした」では、車線の閉鎖とつながりません。
+【覚えるポイント】
+・traffic congestion：「交通渋滞」。serious congestion で「ひどい渋滞」。
+・文の後半に as ～（～なので）があるときは、その理由（ここでは車線の閉鎖）から考えて、そこから生まれる結果の語を選ぶ手がかりになります。

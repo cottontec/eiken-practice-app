@@ -1,0 +1,31 @@
+---
+choices: there is an important reason for | people can control | hormones serve no purpose in | it is difficult to measure
+answerText: there is an important reason for
+reviewed: yes
+---
+【正解】1 there is an important reason for（～には重要な理由がある）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 there is an important reason for（～には重要な理由がある）
+2 people can control（人々は～をコントロールできる）
+3 hormones serve no purpose in（～においてホルモンは何の役にも立たない）
+4 it is difficult to measure（～を測るのは難しい）
+【考え方】
+まず見るところ：第1段落の Recent research, however, と、空所のすぐあとの Although ～, they are useful
+空所は第1段落の studies by ～ Firdaus Dhabhar show that (26) the human stress response. です。まず、空所の前の流れを確かめます。
+Scientists have long believed that stress is harmful because it weakens the immune system.（科学者たちは長い間、ストレスは免疫系を弱めるので有害だと信じてきた）
+Recent research, however, has shown that this is not always the case.（しかし最近の研究で、これがいつも当てはまるわけではないことが示された）
+however（しかし）があるので、「ストレスはいつも害になる」という古い考えとは違う内容が、このあとに続くと分かります。
+次に、空所のすぐあとの文を見ます。
+Although stress hormones are damaging in the long term, they are useful in situations where the body is in immediate danger.（ストレスホルモンは長期的には害になるが、体がさし迫った危険の中にある状況では役に立つ）
+ここで、ストレスの反応には「役に立つ」場面があると説明されています。つまり、ストレス反応はただ害になるだけでなく、体にとって意味がある、ということです。1を入れると「人間のストレス反応には重要な理由がある」となり、あとの「危険なときには役に立つ」という説明とつながります。ですから1が正解です。
+この問題の型：対比（ストレスは有害という考え⇔役に立つ場面がある）
+【ほかの選択肢】
+2 「人々はストレス反応をコントロールできる」となります。本文では、ストレス反応を人が自分で操れるかどうかは話題になっておらず、あとの「危険なときに役に立つ」という説明ともつながりません。
+3 「ストレス反応においてホルモンは何の役にも立たない」となります。すぐあとの文で、ストレスホルモンは they are useful（役に立つ）と書かれているので、反対の内容です。
+4 「ストレス反応を測るのは難しい」となります。本文には、ストレス反応の測り方の話は出てきません。あとの文がストレスホルモンの「役に立つ点」を説明していることともつながりません。
+【覚えるポイント】
+・in the long term：「長期的には」。immediate danger：「さし迫った危険」。
+・空所のすぐあとの文は、空所の内容をくわしく説明していることが多いので、空所に入れた内容とあとの説明がつながるかを確かめましょう。

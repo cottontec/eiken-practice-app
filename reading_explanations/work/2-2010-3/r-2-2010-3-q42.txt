@@ -1,0 +1,29 @@
+---
+choices: There was a shortage of wood in California. | They could not get all the metals that they needed. | Hughes's factory was located far from the Atlantic Ocean. | The airplane could not be designed to take off from land.
+answerText: They could not get all the metals that they needed.
+reviewed: yes
+---
+【正解】2 They could not get all the metals that they needed.（必要な金属をすべて手に入れることはできなかった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ヒューズとカイザーが直面した困難の1つは何でしたか。
+1 There was a shortage of wood in California.（カリフォルニアで木材が不足していた。）
+2 They could not get all the metals that they needed.（必要な金属をすべて手に入れることはできなかった。）
+3 Hughes's factory was located far from the Atlantic Ocean.（ヒューズの工場が大西洋から遠いところにあった。）
+4 The airplane could not be designed to take off from land.（その飛行機を、陸から飛び立てるように設計することができなかった。）
+【考え方】
+設問の difficulty（困難）にあたる語を本文から探すと、第2段落に The major problem they faced（2人が直面した大きな問題）があります。
+The major problem they faced, however, was a shortage of metals caused by the war.（しかし、2人が直面した大きな問題は、戦争によって起きた金属の不足だった）とあります。shortage は「不足」です。そして This meant that the plane had to be built almost entirely of wood.（そのため、飛行機はほとんどすべてを木で造らなければならなかった）と続きます。
+さらに第3段落でも、作業が長引いた理由として even the small amount of metal they wanted was difficult to obtain（2人が必要とした少しの金属でさえ、手に入れるのが難しかった）と書かれています。obtain は「手に入れる」です。
+本文と選択肢は次のように対応しています。
+本文 a shortage of metals（金属の不足）／ difficult to obtain（手に入れるのが難しい）＝ 選択肢 could not get all the metals that they needed（必要な金属をすべては手に入れられなかった）
+正解は2です。
+【ほかの選択肢】
+1 不足していたのは金属です。木は、金属の代わりに飛行機のほとんどすべてを造るのに使われました。不足していたものが違うので、誤りです。
+3 ヒューズの会社がカリフォルニアにあったことは書かれていますが、大西洋から遠いことが問題だったという話は本文にありません。
+4 本文には、ハーキュリーズは a giant plane that could take off from and land on the ocean（海の上から飛び立ち、海の上に降りることのできる巨大な飛行機）として開発されたとあるだけです。陸から飛び立てるように設計できなかったことが困難だったとは書かれていないので、誤りです。
+【覚えるポイント】
+・shortage of ～：「～の不足」。
+・obtain：「手に入れる」。get とほぼ同じ意味のかたい語です。

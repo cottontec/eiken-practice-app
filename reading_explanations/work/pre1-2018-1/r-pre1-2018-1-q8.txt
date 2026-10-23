@@ -1,0 +1,30 @@
+---
+choices: abruptly | humorously | exceptionally | sarcastically
+answerText: exceptionally
+reviewed: yes
+---
+【正解】3 exceptionally（並外れて、特別に）
+【和訳】
+（英文）
+To the teacher's surprise, most students performed ［exceptionally］ well on the exam. She had expected more of them to struggle with the difficult questions.
+（訳）
+先生が驚いたことに、ほとんどの生徒が試験で（並外れて）よい成績をとった。先生は、実際よりももっと多くの生徒が難しい問題に苦戦するだろうと予想していた。
+（選択肢の意味）
+1 abruptly：突然に、いきなり
+2 humorously：ユーモアを交えて、おどけて
+3 exceptionally：並外れて、特別に
+4 sarcastically：皮肉を込めて
+【考え方】
+まず見るところ：文の初めの To the teacher's surprise と、次の文の She had expected more of them to struggle
+To the teacher's surprise は「先生が驚いたことに」という意味です。先生は何に驚いたのでしょうか。次の文を見ます。
+She had expected more of them to struggle with the difficult questions.（彼女は、もっと多くの生徒が難しい問題に苦戦すると予想していた）
+more of them は、実際に苦戦した生徒の数と比べて「もっと多くの生徒が」という意味です。先生の予想よりも、生徒たちはずっとよくできたのです。
+ですから、空所の文 most students performed (　) well（ほとんどの生徒が〇〇よくできた）には、well（よく）を強める語が入ります。exceptionally は「並外れて、特別に」なので、3が正解です。
+この問題の型：語の意味・組み合わせ（exceptionally ＋ well で「並外れてよく」）
+【ほかの選択肢】
+1 abruptly は「突然に」です。「突然によくできた」では、予想よりよくできて驚いたという話と合いません。
+2 humorously は「おどけて」です。試験の出来がよかったことを表す言い方にならず、意味が通りません。
+4 sarcastically は「皮肉を込めて」です。話し方などに使う語で、試験の出来を表す well とは合いません。
+【覚えるポイント】
+・exceptionally well：「並外れてよく」。perform well on the exam：「試験でよい成績をとる」。
+・To one's surprise（～が驚いたことに）があるときは、次の文の「予想（had expected）」と実際の結果の差が、空所の意味を決める手がかりになります。

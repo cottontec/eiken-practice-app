@@ -1,0 +1,36 @@
+---
+choices: Although Inuit peoples' consumption of foods associated with heart disease is high, they suffer comparatively few heart attacks. | Inuit peoples develop nutrition-related diseases that, in other peoples, are caused by a lack of animal fat in the diet. | In spite of their diet of mainly meats, fish, and greens, Inuit peoples suffer from high rates of nutrition-related diseases. | A disease known to be caused by a lack of vitamin C tends to occur in Inuit peoples who consume relatively little fat.
+answerText: Although Inuit peoples' consumption of foods associated with heart disease is high, they suffer comparatively few heart attacks.
+reviewed: yes
+---
+【正解】1 Although Inuit peoples' consumption of foods associated with heart disease is high, they suffer comparatively few heart attacks.（イヌイットの人々は、心臓病と関係のある食べ物を多くとっているが、心臓発作を起こすことは（ほかの人々と比べて）少ない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：How can the "Inuit paradox" best be defined?（「イヌイットのパラドックス」は、どのように説明するのが最もよいか。）
+1 Although Inuit peoples' consumption of foods associated with heart disease is high, they suffer comparatively few heart attacks.（イヌイットの人々は、心臓病と関係のある食べ物を多くとっているが、心臓発作を起こすことは（ほかの人々と比べて）少ない。）
+2 Inuit peoples develop nutrition-related diseases that, in other peoples, are caused by a lack of animal fat in the diet.（イヌイットの人々は、ほかの民族では食事の中の動物性脂肪が足りないことによって起こる、栄養に関係する病気にかかる。）
+3 In spite of their diet of mainly meats, fish, and greens, Inuit peoples suffer from high rates of nutrition-related diseases.（主に肉、魚、青菜という食事であるにもかかわらず、イヌイットの人々は栄養に関係する病気にかかる割合が高い。）
+4 A disease known to be caused by a lack of vitamin C tends to occur in Inuit peoples who consume relatively little fat.（ビタミンCの不足によって起こると知られている病気が、脂肪を比較的少ししかとらないイヌイットの人々に起こりやすい。）
+【考え方】
+まず見るところ：第2段落の In fact, residents of the Nunavik villages ～ と、The term "Inuit paradox" has been used to describe these findings.
+paradox は「パラドックス（一見すると矛盾していること、つじつまが合わないように見えること）」という意味です。第2段落の最後には、次のようにあります。
+The term "Inuit paradox" has been used to describe these findings.（こうした発見を表すのに「イヌイットのパラドックス」という言葉が使われてきた）
+these findings（こうした発見）が何かを、その前の文で確かめます。
+Based on this, one might expect the Inuit to suffer high rates of scurvy, heart disease, and other nutrition-related illnesses, but they do not.（このことから、イヌイットは壊血病や心臓病、その他の栄養に関係する病気にかかる割合が高いだろうと予想する人もいるかもしれないが、実際にはそうではない）
+In fact, residents of the Nunavik villages of northern Canada suffer half as many heart attacks as other Canadians, even though more than half of the Inuit's calories come from fat.（実際、イヌイットのカロリーの半分以上が脂肪からとられているにもかかわらず、カナダ北部のヌナビクの村々の住民が起こす心臓発作の数は、ほかのカナダ人の半分である）
+half as many ～ as … は「…の半分の数の～」という意味です。第1段落には、脂肪（saturated fat：飽和脂肪）が心臓病と関係があるとされていることも書かれていました。
+本文と選択肢1を対にすると、次のようになります。
+本文 more than half of the Inuit's calories come from fat（カロリーの半分以上が脂肪から）→ 選択肢 consumption of foods associated with heart disease is high（心臓病と関係のある食べ物を多くとっている）
+本文 half as many heart attacks as other Canadians（ほかのカナダ人の半分の数の心臓発作）＝ 選択肢 comparatively few heart attacks（（ほかと比べて）少ない心臓発作）
+本文 even though（～にもかかわらず）＝ 選択肢 Although（～だけれども）
+「心臓に悪いとされるものを多く食べているのに、心臓発作が少ない」という、つじつまが合わないように見える事実が「パラドックス」なので、1が正解です。
+この問題の型：指示語（these findings＝脂肪が多いのに心臓発作が少ないこと）／言いかえ（half as many ～ as … ＝ comparatively few）
+【ほかの選択肢】
+2 本文にありません。本文では、ほかの民族で病気が動物性脂肪の不足によって起こるとは書かれていません。第1段落では、むしろ脂肪の多い食事が心臓病と関係があるとされています。
+3 本文と反対です。本文では、イヌイットは栄養に関係する病気にかかる割合が高いと予想されるかもしれないが、but they do not（実際にはそうではない）と書かれています。また、青菜は夏の短い間しか手に入らないので、「主に肉、魚、青菜」という部分も本文と合いません。
+4 本文と合いません。ビタミンC不足で起こる病気（壊血病）は、イヌイットには見られないと書かれています（The absence of scurvy：壊血病がないこと）。また、イヌイットは脂肪を多くとっているので、「脂肪を比較的少ししかとらない」という部分も違います。
+【覚えるポイント】
+・paradox（一見すると矛盾していること）の説明を求められたら、本文の「予想」と「実際」の食い違い（ここでは one might expect ～, but they do not）を探すと手がかりになります。
+・half as many ～ as …：「…の半分の数の～」。比べる相手（ここでは other Canadians）も一緒に確かめましょう。

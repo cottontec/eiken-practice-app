@@ -1,0 +1,32 @@
+---
+choices: it created new movies and TV shows that used the song in them. | it charged companies two million dollars each time they wanted to use it. | it began to make a lot of money each year by charging people who used it. | it carefully checked whether the song had become more popular than before.
+answerText: it began to make a lot of money each year by charging people who used it.
+reviewed: yes
+---
+【正解】3 it began to make a lot of money each year by charging people who used it.（その会社は、その歌を使う人にお金を請求することで、毎年たくさんのお金を得るようになった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ワーナー・チャペルが「ハッピー・バースデー」の著作権を買ったあと、
+1 it created new movies and TV shows that used the song in them.（その会社は、その歌を使った新しい映画やテレビ番組を作った。）
+2 it charged companies two million dollars each time they wanted to use it.（その会社は、各社がその歌を使いたいと思うたびに、200万ドルを請求した。）
+3 it began to make a lot of money each year by charging people who used it.（その会社は、その歌を使う人にお金を請求することで、毎年たくさんのお金を得るようになった。）
+4 it carefully checked whether the song had become more popular than before.（その会社は、その歌が以前より人気になったかどうかを注意深く調べた。）
+【考え方】
+設問の After Warner/Chappell bought the copyright（ワーナー・チャペルが著作権を買ったあと）と同じ言い方が、第3段落にあります。そのあとの文を順に見ます。
+・the company decided to carefully check all movies and TV shows to see if the song was being used（この歌が使われているかどうかを確かめるために、すべての映画とテレビ番組を注意深く調べることにした）
+・They charged different amounts of money depending on how popular the show was.（番組の人気の度合いによって、異なる金額を請求した）
+・It is estimated that the company has made two million dollars a year from the song.（この会社はこの歌から1年に200万ドルを得てきたと推定されている）
+歌を使っている番組を見つけてお金を請求し、1年に200万ドルという大きなお金を得ていたことが分かります。
+本文と選択肢を対にすると、次のようになります。
+本文 They charged different amounts of money → 選択肢 by charging people who used it
+本文 has made two million dollars a year ＝ 選択肢 make a lot of money each year
+歌が使われている番組を調べたうえでお金を請求しているので、請求した相手は「歌を使った人」です。また、a year（1年につき）が each year（毎年）に、two million dollars（200万ドル）が a lot of money（たくさんのお金）に言いかえられています。
+【ほかの選択肢】
+1 ワーナー・チャペルがしたのは、ほかの人が作った映画やテレビ番組を調べることです。自分で新しい映画や番組を作ったとは書かれていません。
+2 200万ドルは、この会社がこの歌から得た1年間の金額です。1回ごとに200万ドルを請求したのではありません。また、請求した金額は番組の人気によって違っていたので、毎回同じ金額でもありません。
+4 会社が調べたのは if the song was being used（歌が使われているかどうか）です。歌が以前より人気になったかどうかを調べたのではありません。popular という語は、請求額を決める番組の人気について使われています。
+【覚えるポイント】
+・depending on ～：「～によって、～しだいで」。
+・two million dollars a year：「1年に200万ドル」。a year は「1年につき」という意味です。

@@ -1,0 +1,31 @@
+---
+choices: how the sticky tips are produced | why the plant kills insects | how insects avoid it | what the trichomes are made of
+answerText: why the plant kills insects
+reviewed: yes
+---
+【正解】2 why the plant kills insects（なぜその植物が昆虫を殺すのか）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 how the sticky tips are produced（ねばねばした先端がどのように作られるのか）
+2 why the plant kills insects（なぜその植物が昆虫を殺すのか）
+3 how insects avoid it（昆虫がどのようにしてその植物を避けるのか）
+4 what the trichomes are made of（トライコームが何でできているのか）
+【考え方】
+まず見るところ：空所のすぐあとの Unlike carnivorous plants, ～
+空所の文は、次のとおりです。
+For many years, the serpentine columbine was a mystery because no one could figure out (29).（長年の間、サーペンタイン・コロンバインはなぞだった。だれも（29）を解き明かせなかったからだ）
+figure out は「解き明かす、理解する」です。空所には、長年なぞだったことの中身が入ります。
+すぐあとの文を見ます。
+Unlike carnivorous plants, the serpentine columbine does not obtain nutrition from the prey it catches—the insects simply remain on its surface.（食虫植物とは違って、サーペンタイン・コロンバインは、捕らえた獲物から栄養を得ない――昆虫は、ただその表面に残っているだけなのだ）
+carnivorous plant は「食虫植物（虫などを捕らえて栄養にする植物）」、nutrition は「栄養」、prey は「獲物」です。食虫植物なら、虫を殺して栄養にするという目的があります。ところがこの植物は、虫を殺しても栄養にしないのです。
+「では、何のために虫を殺すのか」が分からなかった、という流れになります。さらに第2段落は The puzzle seems to have been solved（このなぞは解かれたようだ）と始まり、捕らえた虫の死がいが植物にどう役立つのかが説明されています。ですから2が正解です。
+この問題の型：対比（食虫植物は栄養にする⇔この植物は栄養にしない → 殺す理由がなぞ）
+【ほかの選択肢】
+1 「ねばねばした先端がどのように作られるのか」を入れると、なぞは毛の先のでき方だったことになります。しかし、すぐあとの文は栄養を得ないという話で、第2段落でも毛の先の作られ方は説明されていません。
+3 「昆虫がどのようにしてその植物を避けるのか」を入れると、なぞは虫のよけ方だったことになります。本文では、毛にとまった昆虫は動けなくなって死ぬと書かれていて、虫が植物を避ける方法は話題になっていません。
+4 「トライコームが何でできているのか」を入れると、なぞは毛の材料だったことになります。しかし、すぐあとの文や第2段落で解き明かされているのは、虫を殺す理由であり、毛の材料ではありません。
+【覚えるポイント】
+・figure out ～：「～を解き明かす、理解する」。
+・「なぞだった」という空所のあとに Unlike ～（～とは違って）が続くときは、ふつうとどこが違うのかが、なぞの中身を考える手がかりになります。次の段落で「なぞ」がどう解かれたかも確かめましょう。

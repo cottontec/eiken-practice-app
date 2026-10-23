@@ -1,0 +1,33 @@
+---
+choices: It was generally successful in areas where citizens, rather than government officials, decided on property boundaries. | It was a two-stage program that had some success between 1940 and 1960 but began to fail after its second stage began in 1965. | After it was first introduced, it changed over time to provide people with less and less assistance from the government. | From its first planning stages, it aimed to distribute plots of land to the poor rather than provide actual housing.
+answerText: After it was first introduced, it changed over time to provide people with less and less assistance from the government.
+reviewed: yes
+---
+【正解】3 After it was first introduced, it changed over time to provide people with less and less assistance from the government.（初めて導入されたあと、その計画は時がたつにつれて変わり、人々への政府からの援助はだんだん少なくなっていった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is true of the program known as "Operation Site"?（「オペレーション・サイト」として知られる計画について、正しいものはどれか。）
+1 It was generally successful in areas where citizens, rather than government officials, decided on property boundaries.（政府の役人ではなく市民が土地の境界線を決めた地域では、その計画はおおむね成功した。）
+2 It was a two-stage program that had some success between 1940 and 1960 but began to fail after its second stage began in 1965.（その計画は2段階の計画で、1940年から1960年の間にある程度成功したが、1965年に第2段階が始まったあと、うまくいかなくなり始めた。）
+3 After it was first introduced, it changed over time to provide people with less and less assistance from the government.（初めて導入されたあと、その計画は時がたつにつれて変わり、人々への政府からの援助はだんだん少なくなっていった。）
+4 From its first planning stages, it aimed to distribute plots of land to the poor rather than provide actual housing.（その計画は、最初の計画の段階から、実際の住宅を提供するのではなく、貧しい人々に土地の区画を配ることを目指していた。）
+【考え方】
+まず見るところ：第1段落の complete with a simple wooden house ～、After a few years ～ only a kitchen and bathroom were provided、Eventually, families were simply offered plots of land.
+第1段落で、計画の内容が時の流れにそって3段階で説明されています。まず、始まったときです。
+the state provided families with a plot of land in the city's outer areas, complete with a simple wooden house, electricity, and running water（国は家族たちに、市の外側の地域にある一区画の土地を、簡素な木造の家、電気、水道つきで提供した）
+plot は「（土地の）一区画」、running water は「水道（の水）」です。
+After a few years, as demand grew, only a kitchen and bathroom were provided, with residents having to build a house around these.（数年後、需要が増えるにつれて、台所と浴室だけが提供されるようになり、住民はこれらを囲むように家を建てなければならなくなった）
+Eventually, families were simply offered plots of land.（最終的には、家族たちには、ただ土地の区画だけが提供された）
+本文と選択肢を対にすると、次のようになります。
+本文 家・電気・水道つきの土地 → 台所と浴室だけ → ただ土地の区画だけ ＝ 選択肢 changed over time to provide people with less and less assistance from the government（時がたつにつれて変わり、政府からの援助がだんだん少なくなっていった）
+less and less は「だんだん少なく」という意味です。提供される物が減っていった流れとぴったり合うので、3が正解です。
+この問題の型：言いかえ（家→台所と浴室→土地だけ → less and less assistance）
+【ほかの選択肢】
+1 本文に書かれていません。本文では、政府の役人が白いチョークで長方形を描いて区画を割り当てたことは書かれていますが、市民が境界線を決めた地域があったことや、そこで成功したことは書かれていません。
+2 本文と時期が合いません。1940年から1960年は、サンティアゴの人口が2倍になった時期です。オペレーション・サイトは1965年に始められた計画なので、1940年から1960年の間にはまだありませんでした。
+4 本文と合いません。計画が始まったときは、簡素な木造の家つきの土地が提供されていました。土地の区画だけを配るようになったのは Eventually（最終的に）のことで、最初からそれを目指していたわけではありません。
+【覚えるポイント】
+・less and less ～：「だんだん少ない～」。
+・本文に After a few years（数年後）、Eventually（最終的に）のような時の流れを表す言葉があるときは、段階ごとに何が変わったかを並べて比べるのが手がかりになります。

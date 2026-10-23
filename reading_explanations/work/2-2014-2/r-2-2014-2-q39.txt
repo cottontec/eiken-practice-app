@@ -1,0 +1,29 @@
+---
+choices: It tries to figure out how safe they are for use in buildings. | It considers how much energy is needed to create them. | It looks at the price of the materials from which they are made. | It compares them with similar products and chooses the best one.
+answerText: It considers how much energy is needed to create them.
+reviewed: yes
+---
+【正解】2 It considers how much energy is needed to create them.（製品を作るのにどれだけのエネルギーが必要かを考慮する。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：クレイドル・トゥ・クレイドルの仕組みが製品を測る方法の1つは何ですか。
+1 It tries to figure out how safe they are for use in buildings.（製品が建物の中で使うのにどれくらい安全かを明らかにしようとする。）
+2 It considers how much energy is needed to create them.（製品を作るのにどれだけのエネルギーが必要かを考慮する。）
+3 It looks at the price of the materials from which they are made.（製品の材料の値段を調べる。）
+4 It compares them with similar products and chooses the best one.（製品を似た製品と比べて、いちばんよいものを選ぶ。）
+【考え方】
+製品を評価する仕組みについては、第3段落に書かれています。
+McDonough and Braungart developed a system for rating goods according to how close they come to the C2C ideal.（マクダナーとブラウンガートは、製品を、C2Cの理想にどれだけ近いかによって評価する仕組みを作った）とあります。rate は「評価する」、ideal は「理想」です。
+続く文が、設問の答えにあたります。In the system, goods are measured in various ways, including how safe they are for the environment and the amount of energy used to make them.（この仕組みでは、製品はさまざまな方法で測られる。その中には、環境にとってどれくらい安全か、作るのにどれくらいの量のエネルギーが使われたかがふくまれる）です。including ～ は「～をふくめて」です。
+本文と選択肢は次のように対応しています。
+本文 the amount of energy used to make them（製品を作るのに使われるエネルギーの量）→ 選択肢 how much energy is needed to create them（製品を作るのにどれだけのエネルギーが必要か）
+make と create はどちらも「作る」という意味です。また、本文の goods are measured（製品が測られる）を、選択肢では It considers（その仕組みが考慮する）と言いかえています。正解は2です。
+【ほかの選択肢】
+1 本文で測られるのは how safe they are for the environment（環境にとってどれくらい安全か）です。建物の中で使うのにどれくらい安全か、ではありません。bricks used in buildings（建物に使われるれんが）は、よい評価を受けた製品の例として出てくるだけです。
+3 材料の値段を調べるとは、本文のどこにも書かれていません。
+4 本文では、製品は C2C の理想にどれだけ近いかで評価され、400を超える製品がよい評価を受けたと書かれています。似た製品と比べていちばんよいものを1つ選ぶ仕組みではありません。
+【覚えるポイント】
+・the amount of ～：「～の量」。how much ～ と言いかえることができます。
+・rate：「評価する」。rating は「評価」。

@@ -1,0 +1,29 @@
+---
+choices: clamp | drizzle | comet | blaze
+answerText: blaze
+reviewed: yes
+---
+【正解】4 blaze（火事、激しい炎）
+【和訳】
+（英文）
+A fire broke out on Kruger Street last night. It took firefighters almost 12 hours, but they eventually managed to get the ［blaze］ under control.
+（訳）
+昨夜、クルーガー通りで火事が起きた。消防士たちには12時間近くかかったが、最終的に、彼らはその火事をなんとか鎮めることができた。
+（選択肢の意味）
+1 clamp：留め金、締め具（物をはさんで固定する道具）
+2 drizzle：霧雨
+3 comet：すい星
+4 blaze：火事、激しい炎
+【考え方】
+まず見るところ：前半の文の A fire broke out と、空所のあとの under control
+前半の文で、火事が起きたことが書かれています。
+A fire broke out on Kruger Street last night.（昨夜、クルーガー通りで火事が起きた）
+break out は「（火事や戦争などが）起こる」です。空所のある文では、消防士たちが12時間近くかけて、何かを get ～ under control（～を抑えこむ、鎮める）ことができたと書かれています。消防士が鎮めるのは火事です。blaze は「火事、激しい炎」で、前半の文の fire を別の語で言いかえたものなので、4が正解です。
+この問題の型：言いかえ（a fire → the blaze）
+【ほかの選択肢】
+1 clamp は「留め金、締め具」です。「消防士たちが留め金を鎮めた」となり、火事の話とつながりません。
+2 drizzle は「霧雨」です。消防士たちが12時間かけて霧雨を鎮めるという内容になり、前半の文の火事の話と合いません。
+3 comet は「すい星」です。空の天体のことで、消防士が抑えこむものではありません。
+【覚えるポイント】
+・blaze：「火事、激しい炎」。get ～ under control は「～を抑えこむ、鎮める」です。
+・空所の前に the があるときは、前の文に出てきたものを別の語で言いかえていることがよくあります。前の文（ここでは A fire）を読み返して、同じものを指す語を探しましょう。

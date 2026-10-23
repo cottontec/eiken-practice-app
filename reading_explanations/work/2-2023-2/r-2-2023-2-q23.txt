@@ -1,0 +1,30 @@
+---
+choices: used a robot to look for oil | found an ancient stone tool | built a small museum | noticed some recent changes
+answerText: found an ancient stone tool
+reviewed: yes
+---
+【正解】2 found an ancient stone tool（古代の石の道具を見つけた）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 used a robot to look for oil（ロボットを使って石油を探した）
+2 found an ancient stone tool（古代の石の道具を見つけた）
+3 built a small museum（小さな博物館を建てた）
+4 noticed some recent changes（最近のいくつかの変化に気づいた）
+【考え方】
+まず見るところ：第3段落の空所のあとの As a result, ～ continue to make discoveries
+The researchers are using these maps to choose sites where humans probably lived.（研究者たちはこれらの地図を使って、人間がおそらく住んでいた場所を選んでいる）
+At one of these sites, the researchers (23).（そうした場所の1つで、研究者たちは（23））
+these sites は「人間がおそらく住んでいた場所」を指しています。
+As a result, they are hopeful that they will continue to make discoveries about the culture and lifestyles of the people of Doggerland.（その結果、彼らはドッガーランドの人々の文化や暮らし方について、これからも発見を続けられるだろうと期待している）
+As a result（その結果）とあるので、空所には「これからも発見を続けられる」と期待できるようになった原因が入ります。continue to make discoveries（発見をし続ける）という言い方から、研究者たちはすでに何かを発見したと考えられます。
+found an ancient stone tool を入れると、人が住んでいたと思われる場所で実際に古代の道具が見つかったので、これからも発見が続くと期待している、という流れになります。ですから2が正解です。
+この問題の型：因果（As a result）
+【ほかの選択肢】
+1 本文で石油を探しているのは companies（会社）です。研究者たちは、その会社が集めたデータを使って地図を作りましたが、自分たちで石油を探したとも、ロボットを使ったとも書かれていません。また、石油を探しても、ドッガーランドの人々の文化や暮らし方について発見が続くと期待する理由になりません。
+3 博物館を建てたという話は本文にありません。また、博物館を建てたことは、「その結果、これからも発見を続けられると期待している」という流れの原因になりません。
+4 研究者たちが知りたいのは、昔ドッガーランドに住んでいた人々のことです。「最近の変化に気づいた」では、昔の人々の文化や暮らし方についての発見につながりません。
+【覚えるポイント】
+・As a result：「その結果」。前の文が原因、あとの文が結果であることを示します。
+・空所のあとが As a result で始まるときは、その結果（ここでは発見を続けられるという期待）を生む原因になる選択肢を選ぶのが手がかりになります。

@@ -1,0 +1,36 @@
+---
+choices: made sure that police officers who had been at the previous day's demonstration would not be on duty for the gathering in Haymarket Square. | hoped that the number of participants for such an important event would be greater than the actual number of people who attended on May 4. | realized that as the final speeches became more passionate, he had no choice but to give the police permission to end the gathering using force. | believed that because the proceedings had generally passed without incident, there were unlikely to be any major problems for the remainder of the protest.
+answerText: believed that because the proceedings had generally passed without incident, there were unlikely to be any major problems for the remainder of the protest.
+reviewed: yes
+---
+【正解】4 believed that because the proceedings had generally passed without incident, there were unlikely to be any major problems for the remainder of the protest.（（シカゴ市長は）集会がおおむね何事もなく進んでいたので、抗議集会の残りの時間に大きな問題が起こることはなさそうだと考えた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to the passage, the mayor of Chicago（本文によると、シカゴ市長は）
+1 made sure that police officers who had been at the previous day's demonstration would not be on duty for the gathering in Haymarket Square.（前日のデモの場にいた警察官たちが、ヘイマーケット広場での集会の勤務につかないようにした。）
+2 hoped that the number of participants for such an important event would be greater than the actual number of people who attended on May 4.（それほど重要な催しなのだから、参加者の数が、5月4日に実際に参加した人数より多くなることを望んでいた。）
+3 realized that as the final speeches became more passionate, he had no choice but to give the police permission to end the gathering using force.（最後の演説がより熱を帯びていくにつれて、力ずくで集会を終わらせる許可を警察に出すしかないと気づいた。）
+4 believed that because the proceedings had generally passed without incident, there were unlikely to be any major problems for the remainder of the protest.（集会がおおむね何事もなく進んでいたので、抗議集会の残りの時間に大きな問題が起こることはなさそうだと考えた。）
+【考え方】
+まず見るところ：第1段落の For the most part, it did just that. と Convinced that all was in order, he left early.
+第1段落では、市長が集会に来た目的が書かれています。
+one of them being the Chicago mayor—there to ensure the protest passed peacefully（その一人はシカゴ市長で、抗議の集会が平穏に進むのを確かめるためにその場にいた）
+mayor は「市長」、ensure は「確かめる、確実にする」です。
+続く文で、集会の様子と市長の行動が書かれています。
+For the most part, it did just that.（集会は、大部分においてまさにそのとおり（平穏）に進んだ）
+Convinced that all was in order, he left early.（すべて問題ないと確信して、市長は早めにその場を去った）
+it did just that の just that は、前の passed peacefully（平穏に進む）を指しています。be convinced that ～ は「～だと確信する」、in order は「問題のない状態で」です。
+本文と選択肢を対にすると、次のようになります。
+本文 For the most part, it did just that（大部分においてまさにそのとおり（平穏）に進んだ）→ 選択肢 the proceedings had generally passed without incident（集会がおおむね何事もなく進んでいた）
+本文 Convinced that all was in order, he left early（すべて問題ないと確信して、早めに去った）→ 読み取れること：残りの時間にも大きな問題は起こらないだろうと考えていた（there were unlikely to be any major problems for the remainder of the protest）
+残りの時間に問題が起こると思っていたら、早めに帰ることはなかったと考えられます。ですから4が正解です。
+この問題の型：推論（問題ないと確信して早めに帰った → 残りも大丈夫だと考えた）
+【ほかの選択肢】
+1 本文には、前日のデモで警察が労働者を殺したことは書かれていますが、市長がその警察官たちを集会の勤務から外したという話はありません。
+2 本文には a few thousand people attended（数千人が参加した）とあるだけで、市長がもっと多くの人が来ることを望んでいたとは書かれていません。
+3 本文では、市長は he left early（早めにその場を去った）と書かれており、そのあと集会が終わりに近づいたころに警察が解散させようとしました。市長が警察に力ずくで集会を終わらせる許可を出したとは書かれていません。
+【覚えるポイント】
+・be convinced that ～：「～だと確信する」。Convinced that all was in order で「すべて問題ないと確信して」。
+・人物について問う設問では、Convinced that ～, he left early のように「どう考えて、何をしたか」が書かれた文を探し、その考えと選択肢の「believed ～（～と考えた）」を比べることが手がかりになります。

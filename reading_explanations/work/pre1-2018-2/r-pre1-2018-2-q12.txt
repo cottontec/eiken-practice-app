@@ -1,0 +1,32 @@
+---
+choices: dose | riot | blockade | habitat
+answerText: habitat
+reviewed: yes
+---
+【正解】4 habitat（生息地、すみか）
+【和訳】
+（英文）
+The forest ［habitat］ of many animals is being destroyed by logging companies. Environmentalists fear these animals will soon have nowhere to live.
+（訳）
+多くの動物の森の（すみか）が、木材を切り出す会社によって破壊されつつあります。環境保護活動家たちは、これらの動物がまもなく、すむ場所をなくしてしまうのではないかと心配しています。
+（選択肢の意味）
+1 dose：（薬の）1回分の量
+2 riot：暴動（大勢の人が暴れてさわぎを起こすこと）
+3 blockade：（道路や港などの）封鎖
+4 habitat：（動物や植物の）生息地、すみか
+【考え方】
+まず見るところ：後半の文の these animals will soon have nowhere to live
+空所のある文は次のとおりです。
+The forest (　) of many animals is being destroyed by logging companies.（多くの動物の森の（　）が、木材を切り出す会社によって破壊されつつある）
+logging は「（材木にするために）木を切り出すこと」です。is being destroyed は「破壊されつつある（今まさにこわされている途中だ）」という意味です。
+後半の文が、それによって起こることを述べています。
+Environmentalists fear these animals will soon have nowhere to live.（環境保護活動家たちは、これらの動物がまもなく、すむ場所をなくしてしまうのではないかと心配している）
+environmentalist は「環境保護活動家（自然を守る活動をする人）」です。森がこわされると動物たちは「すむ場所がなくなる」のですから、こわされている森は動物の「すみか」だと分かります。habitat は「生息地、すみか」という意味なので、4が正解です。
+この問題の型：言いかえ（habitat ⇔ nowhere to live）
+【ほかの選択肢】
+1 dose は「（薬の）1回分の量」です。「多くの動物の森の1回分の量」となり、意味が通りません。
+2 riot は「暴動」です。動物が暴動を起こすわけではなく、森がこわされる話とつながりません。
+3 blockade は「封鎖（道などをふさいで通れなくすること）」です。「動物の森の封鎖がこわされている」となり、動物のすむ場所がなくなるという後半の文と合いません。
+【覚えるポイント】
+・habitat：「（動物や植物の）生息地、すみか」。
+・後ろの文の nowhere to live（すむ場所がない）のような表現は、前の文で「すむ場所」を表す語が使われている手がかりになります。

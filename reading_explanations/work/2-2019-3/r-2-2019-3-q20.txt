@@ -1,0 +1,26 @@
+---
+choices: no telling where | no matter what | anything but | in which case
+answerText: no matter what
+reviewed: yes
+---
+【正解】2 no matter what（何を～しても）
+【和訳】
+（英文）
+Daniel is a model who appears in many fashion magazines. Many people think that he looks good ［no matter what］ he wears.
+（訳）
+ダニエルは、たくさんのファッション雑誌に出ているモデルです。多くの人が、彼は（何を）着て（も）すてきに見えると思っています。
+（選択肢の意味）
+1 no telling where：（there is no telling where の形で）どこなのか分からない
+2 no matter what：何を～しても
+3 anything but：決して～ではない、～のほかは何でも
+4 in which case：その場合には
+【考え方】
+空所の前は he looks good（彼はすてきに見える）で、すでに文の形がそろっています。空所のあとは he wears（彼が着る）です。wear は「～を着る」という意味なので、本来は「何を着るか」にあたる語が必要です。しかし、he wears のあとには何もありません。そこで、空所の中に「何を」にあたる what を含む語句が入ると考えます。
+no matter what ～ は「たとえ何を～しても」という意味です。no matter what he wears で「彼が何を着ても」となり、he looks good no matter what he wears（彼は何を着てもすてきに見える）という文ができます。人気のモデルについての説明としても自然です。2が正解です。
+【ほかの選択肢】
+1 no telling where は、there is no telling where ～（どこで～か分からない）のように使う言い方の一部です。where（どこで）は場所を表す語なので、wears のあとに欠けている「何を」の代わりにはなりません。he looks good no telling where he wears では、正しい文になりません。
+3 anything but は「決して～ではない」「～のほかは何でも」という意味で、ふつう anything but easy（決して簡単ではない）のように、あとに語句を続けて使います。he looks good anything but he wears では、正しい文の形になりません。
+4 in which case は「その場合には」という意味で、前に述べたことを受けて使います。he looks good, in which case ～（すてきに見え、その場合には～）となってしまい、he wears のあとに何を着るのかが欠けたままなので、文が成り立ちません。
+【覚えるポイント】
+・no matter what ～：「たとえ何を～しても」。no matter where（どこで～しても）、no matter how（どんなに～しても）もあります。
+・look good：「すてきに見える、似合う」。

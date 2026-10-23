@@ -1,0 +1,31 @@
+---
+choices: dialed up | went under | came along | pulled through
+answerText: went under
+reviewed: yes
+---
+【正解】2 went under（倒産した）
+【和訳】
+（英文）
+The company suffered from five years of decreasing sales until it finally ［went under］. It closed its doors forever last week.
+（訳）
+その会社は5年間、売り上げが減り続けて苦しんだすえに、ついに（倒産しました）。先週、その会社は永久に扉を閉じました（営業をやめました）。
+（選択肢の意味）
+1 dialed up：電話をかけた、（量などを）上げた
+2 went under：倒産した、（事業が）だめになった
+3 came along：やって来た、（物事が）うまく進んだ
+4 pulled through：（困難や病気を）乗り切った
+【考え方】
+まず見るところ：空所の前の five years of decreasing sales と、続く文の closed its doors forever
+空所の文では、会社が苦しんだ様子が書かれています。
+The company suffered from five years of decreasing sales until it finally (　).（その会社は5年間、売り上げが減り続けて苦しみ、ついに（　）した）
+until it finally ～ は「ついに～するまで」で、苦しみの最後にどうなったかを表します。続く文を見ます。
+It closed its doors forever last week.（先週、その会社は永久に扉を閉じた）
+close its doors forever は「永久に扉を閉じる」、つまり会社が営業をやめたということです。売り上げが減り続けた末に営業をやめたのですから、go under（倒産する）が合います。2が正解です。
+この問題の型：言いかえ（went under → closed its doors forever）
+【ほかの選択肢】
+1 dialed up は「電話をかけた」です。「ついに電話をかけた」となり、続く「永久に扉を閉じた」とつながりません。
+3 came along は「やって来た、うまく進んだ」です。「ついにうまく進んだ」となり、続く「永久に扉を閉じた」とつながりません。
+4 pulled through は「（困難を）乗り切った」です。会社は先週永久に扉を閉じたのですから、苦しい時期を乗り切ったことにはならず、続く文と合いません。
+【覚えるポイント】
+・go under：「（会社などが）倒産する」。went は go の過去形です。
+・suffered from ～ until it finally (　) のように、苦しい状態の最後を表す形では、続く文の結果（ここでは closed its doors forever）を見て、その結果をひとことで表す語句を選ぶのが手がかりになります。

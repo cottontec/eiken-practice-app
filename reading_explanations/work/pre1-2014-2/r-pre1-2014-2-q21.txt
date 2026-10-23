@@ -1,0 +1,33 @@
+---
+choices: inventive | tentative | overcast | definable
+answerText: overcast
+reviewed: yes
+---
+【正解】3 overcast（〔空が〕一面に曇った）
+【和訳】
+（英文）
+The day started out sunny and warm, but the sky soon became ［overcast］. Samuel began to wish he had his umbrella with him.
+（訳）
+その日は晴れて暖かく始まりましたが、空はまもなく（一面の曇り空）になりました。サミュエルは、かさを持っていればよかったのにと思い始めました。
+（選択肢の意味）
+1 inventive：発明の才能がある、工夫に富んだ
+2 tentative：仮の、ためらいがちな
+3 overcast：（空が）一面に曇った
+4 definable：定義できる、はっきり説明できる
+【考え方】
+まず見るところ：前半の文の sunny and warm と but、後半の文の umbrella
+前半の文は次のとおりです。
+The day started out sunny and warm, but the sky soon became (　).（その日は晴れて暖かく始まったが、空はまもなく（　）になった）
+but（しかし）があるので、空所には sunny（晴れた）とは反対の、空のようすを表す語が入ると考えられます。
+後半の文も手がかりになります。
+Samuel began to wish he had his umbrella with him.（サミュエルは、かさを持っていればよかったのにと思い始めた）
+wish he had ～ は「～を持っていればいいのに」という意味で、実際にはかさを持っていないことを表します。かさがほしくなったのは、雨が降りそうな空になったからだと考えられます。
+overcast は「（空が）一面に曇った」という意味です。「晴れていたが、空がまもなく曇ってきて、かさがほしくなった」となり、2つの文がうまくつながるので、3が正解です。
+この問題の型：対比（sunny and warm ⇔ but 曇り空）
+【ほかの選択肢】
+1 inventive は「発明の才能がある、工夫に富んだ」という意味で、人について使う語です。「空がまもなく工夫に富んだ」となり、意味が通りません。
+2 tentative は「仮の、ためらいがちな」という意味で、計画や態度などについて使います。空のようすを表す言葉としては合いません。
+4 definable は「定義できる、はっきり説明できる」という意味です。「空がまもなく定義できるようになった」となり、かさがほしくなった理由にもなりません。
+【覚えるポイント】
+・overcast：「（空が）一面に曇った」。
+・天気の話で but があるときは、but の前の天気（ここでは sunny）と反対の天気を表す語が入ることが多く、次の文（ここでは umbrella）でそれを確かめられます。

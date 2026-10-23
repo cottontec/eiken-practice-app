@@ -1,0 +1,29 @@
+---
+choices: sweet | guilty | enormous | particular
+answerText: particular
+reviewed: yes
+---
+【正解】4 particular（好みがうるさい、こだわりがある）
+【和訳】
+（英文）
+A: I'm thinking of buying Dad some wine for his birthday.
+B: Well, he's very ［particular］ about wine. You'd better ask him what kind he wants.
+（訳）
+A：お父さんの誕生日に、ワインを買ってあげようと思っているの。
+B：うーん、お父さんはワインについてはとても（こだわりがある）よ。どんな種類がほしいか、本人に聞いたほうがいいね。
+（選択肢の意味）
+1 sweet：甘い、優しい
+2 guilty：罪悪感のある
+3 enormous：巨大な
+4 particular：好みがうるさい、こだわりがある
+【考え方】
+Bの2文目 You'd better ask him what kind he wants.（どんな種類がほしいか、彼に聞いたほうがいい）に注目します。You'd better は You had better の短い形で、「～したほうがいい」と忠告するときに使います。
+自分で選ばずに本人に聞いたほうがいいと言うのは、お父さんがワインの種類に強い好みを持っていて、適当に選ぶと気に入らないかもしれないからだと考えられます。
+particular は「特定の」という意味のほかに、be particular about ～ の形で「～について好みがうるさい、こだわりがある」という意味になります。he's very particular about wine とすると、本人に聞くべき理由になります。
+【ほかの選択肢】
+1 sweet は「甘い、（人が）優しい」です。「ワインについてとても優しい」では、本人に聞いたほうがいい理由になりません。
+2 guilty は「罪悪感のある、有罪の」です。feel guilty about ～（～について悪いと感じる）という言い方はありますが、この会話には何かを悪いと感じる理由が出てこず、「本人に聞いたほうがいい」という忠告ともつながりません。
+3 enormous は「巨大な、ばく大な」です。人の性格や好みを表す語ではなく、he's very enormous about wine とは言いません。
+【覚えるポイント】
+・be particular about ～：「～について好みがうるさい、こだわりがある」。
+・had better ～：「～したほうがいい」。You'd better と短くして使うことが多いです。

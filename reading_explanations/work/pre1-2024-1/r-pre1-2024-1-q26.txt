@@ -1,0 +1,32 @@
+---
+choices: Members of a wild wolf pack tend not to use violence to make sure other wolves follow the rules of the group. | The lead female wolf generally only gives orders to other wolves in the pack that are her own offspring. | Many wild packs are likely to be led by the strongest pair of wolves that do not yet have partners. | The power structure of their packs tends to be firmly fixed until the younger members have grown into adult wolves.
+answerText: Members of a wild wolf pack tend not to use violence to make sure other wolves follow the rules of the group.
+reviewed: yes
+---
+【正解】1 Members of a wild wolf pack tend not to use violence to make sure other wolves follow the rules of the group.（野生のオオカミの群れのメンバーは、ほかのオオカミに群れのルールを守らせるために暴力を使わない傾向がある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What did biologists learn about wild wolves in the 1980s and 1990s?（1980年代と1990年代に、生物学者たちは野生のオオカミについて何を知りましたか。）
+1 Members of a wild wolf pack tend not to use violence to make sure other wolves follow the rules of the group.（野生のオオカミの群れのメンバーは、ほかのオオカミに群れのルールを守らせるために暴力を使わない傾向がある。）
+2 The lead female wolf generally only gives orders to other wolves in the pack that are her own offspring.（リーダーのメスのオオカミは、ふつう、群れのほかのオオカミのうち、自分の子どもであるものにだけ命令する。）
+3 Many wild packs are likely to be led by the strongest pair of wolves that do not yet have partners.（多くの野生の群れは、まだつがいの相手のいないオオカミのうち、最も強い2匹に率いられている可能性が高い。）
+4 The power structure of their packs tends to be firmly fixed until the younger members have grown into adult wolves.（群れの力関係の仕組みは、年下のメンバーが大人のオオカミに成長するまで、しっかりと固定されている傾向がある。）
+【考え方】
+まず見るところ：第2段落の is usually enforced by communication rather than violence
+第2段落は、1980年代と1990年代の生物学者たちの観察についての段落です。リーダーの仕組みを説明したあと、次のように述べられています。
+This system appears to be fully accepted by most wild wolves and is usually enforced by communication rather than violence.（この仕組みは、ほとんどの野生のオオカミに完全に受け入れられているようで、ふつうは暴力ではなくコミュニケーションによって守られている）
+This system は、その前の文の「群れのすべてのオオカミはリーダーのオスの決定に従い、リーダーのオス以外の全員はリーダーのメスにも従う」という仕組みを指します。enforce は「（決まりなどを）守らせる」、A rather than B は「BではなくA」です。
+本文と選択肢を対にすると、次のようになります。
+本文 is usually enforced by communication rather than violence（ふつうは暴力ではなくコミュニケーションによって守られている）→ 選択肢 tend not to use violence to make sure other wolves follow the rules（ルールを守らせるために暴力を使わない傾向がある）
+本文 This system（この仕組み）→ 選択肢 the rules of the group（群れのルール）
+本文の usually（ふつうは）に合わせて、選択肢も tend not to（～しない傾向がある）と言い切っていません。ですから1が正解です。
+この問題の型：言いかえ（communication rather than violence → not use violence）
+【ほかの選択肢】
+2 本文の内容と合いません。第2段落には all but the lead male also submit to the lead female（リーダーのオス以外の全員が、リーダーのメスにも従う）とあります。群れには自分たちの子どものほかに、つがいの相手のいない大人のオオカミもいて、その全員がリーダーのメスに従います。
+3 本文の内容と合いません。群れを率いるのは an older adult male and a female wolf（年長の大人のオスとメスのオオカミ）の1組で、つがいの相手のいないオオカミは、率いられる側の other adult wolves without partners（つがいの相手のいないほかの大人のオオカミ）として出てきます。また、「最も強い」2匹だとは書かれていません。
+4 本文の内容と合いません。第2段落には The social structure is also flexible（社会の仕組みは柔軟でもある）とあり、食べ物が見つけにくいときには最も若いオオカミを先に食べさせるという例が挙げられています。また、年下のメンバーが大人になるまで、という話も出てきません。
+【覚えるポイント】
+・A rather than B：「BではなくA」。
+・選択肢の tend not to（～しない傾向がある）のような控えめな言い方は、本文の usually（ふつうは）と対応していることがあり、言いかえを見つける手がかりになります。

@@ -1,0 +1,28 @@
+---
+choices: it | this | what | which
+answerText: it
+reviewed: yes
+---
+【正解】1 it（〔あとの that 以下を指す〕それ）
+【和訳】
+（英文）
+Michelle found ［it］ surprising that Tom had never seen the movie The King of Jewels. The movie was extremely popular, and all of her other friends had already seen it.
+（訳）
+ミシェルは、トムが映画『The King of Jewels（宝石の王）』を一度も見たことがないのを意外に思いました。その映画はとても人気があり、彼女のほかの友だちはみんな、すでにそれを見ていたのです。
+（選択肢の意味）
+1 it：それ（あとの内容を指す仮の語）
+2 this：これ
+3 what：～すること、何
+4 which：どちら、（前の名詞を説明する）～するもの
+【考え方】
+空所の前後は Michelle found (　) surprising that Tom had never seen the movie ～ です。
+find A ＋形容詞 は「Aを～だと思う、感じる」という形です。ここでは、ミシェルが意外だと思った中身は that Tom had never seen the movie（トムがその映画を一度も見たことがないということ）です。
+しかし、この that ～ の部分は長いので、find のすぐあとに置かず、文の後ろに回しています。そのかわりに、find のあとの位置には it を置きます。この it は、あとに出てくる that 以下の内容を指す仮の目的語（動作を受ける語の位置に、とりあえず置く語）です。
+it を入れると「ミシェルは、トムがその映画を見たことがないということを意外に思った」となり、文の形も意味も成り立ちます。ですから1が正解です。
+【ほかの選択肢】
+2 this は「これ」です。this は、あとに来る that 以下の内容を指す仮の語としては使いません。Michelle found this surprising that ～ は正しい英語になりません。
+3 what は「～すること、何」です。found what surprising that ～ では、what のあとの文の形が成り立たず、正しい英語になりません。
+4 which は「どちら」や、前の名詞に説明を付け足す語です。found のすぐあとには説明される名詞がなく、文の形が成り立ちません。
+【覚えるポイント】
+・find it ＋形容詞＋ that ～：「～ということを…だと思う」。it は that 以下を指します。
+・had never seen：「（その時までに）一度も見たことがなかった」。

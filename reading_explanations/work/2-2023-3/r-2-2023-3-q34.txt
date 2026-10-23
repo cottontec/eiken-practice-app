@@ -1,0 +1,32 @@
+---
+choices: She won the first Nobel Prize for chemistry. | She found a new way to choose Nobel Prize winners. | She received Nobel Prizes in more than one subject area. | She discovered errors in a Nobel Prize winner's research.
+answerText: She received Nobel Prizes in more than one subject area.
+reviewed: yes
+---
+【正解】3 She received Nobel Prizes in more than one subject area.（彼女は2つ以上の分野でノーベル賞を受けた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What was one of Marie Curie's achievements?（マリー・キュリーの業績の1つは何でしたか。）
+1 She won the first Nobel Prize for chemistry.（彼女は化学の最初のノーベル賞を取った。）
+2 She found a new way to choose Nobel Prize winners.（彼女はノーベル賞の受賞者を選ぶ新しい方法を見つけた。）
+3 She received Nobel Prizes in more than one subject area.（彼女は2つ以上の分野でノーベル賞を受けた。）
+4 She discovered errors in a Nobel Prize winner's research.（彼女はあるノーベル賞受賞者の研究に誤りを見つけた。）
+【考え方】
+まず見るところ：第1段落の in physics と in chemistry
+She got it for the research that she and her husband had carried out in physics.（彼女がその賞を受けたのは、自分と夫が物理学の分野で行った研究に対してだった）
+1903年の1度目のノーベル賞は、物理学の分野の研究に対するものでした。
+This time, the prize was for discoveries that she had made in chemistry.（このときの賞は、彼女が化学の分野で成しとげた発見に対するものだった）
+8年後の2度目のノーベル賞は、化学の分野の発見に対するものでした。
+本文と選択肢を対にすると、次のようになります。
+本文 物理学（physics）で1度目、化学（chemistry）で2度目のノーベル賞 ＝ 選択肢 Nobel Prizes in more than one subject area（2つ以上の分野でのノーベル賞）
+more than one は「1つより多い」、つまり「2つ以上」という意味です。物理学と化学の2つの分野で受賞しているので、3が正解です。
+この問題の型：言いかえ（physics と chemistry → more than one subject area）
+【ほかの選択肢】
+1 本文にある「最初」は、the first woman to receive a Nobel Prize（ノーベル賞を受けた最初の女性）と the first person ever to win a second Nobel Prize（2度目のノーベル賞を受けた史上初めての人物）です。化学のノーベル賞で最初の受賞者だったとは書かれていません。
+2 ノーベル賞の受賞者を選ぶ方法の話は、本文にありません。
+4 ほかの受賞者の研究に誤りを見つけたという話は、本文にありません。
+【覚えるポイント】
+・more than one ～：「1つより多い～」、つまり「2つ以上の～」。
+・本文の具体的な語（physics・chemistry）が、選択肢ではまとめた言葉（subject area：分野）に言いかえられることがよくあります。

@@ -1,0 +1,30 @@
+---
+choices: Pigeons are not as affected by high levels of air pollution as other birds. | Pigeons are cheap to use because they are common in many big cities. | He found out that using drones in the city of London was not allowed. | He thought that using birds would make more people interested in his project.
+answerText: He found out that using drones in the city of London was not allowed.
+reviewed: yes
+---
+【正解】3 He found out that using drones in the city of London was not allowed.（ロンドン市内でドローンを使うことは許されていないと分かった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ピエール・デュケノワがプロジェクトにハトを使うことにした理由の1つは何ですか。
+1 Pigeons are not as affected by high levels of air pollution as other birds.（ハトはほかの鳥ほど、ひどい大気汚染の影響を受けない。）
+2 Pigeons are cheap to use because they are common in many big cities.（ハトは多くの大都市でよく見られるので、使うのに費用が安くすむ。）
+3 He found out that using drones in the city of London was not allowed.（ロンドン市内でドローンを使うことは許されていないと分かった。）
+4 He thought that using birds would make more people interested in his project.（鳥を使えば、より多くの人が自分のプロジェクトに興味を持つだろうと考えた。）
+【考え方】
+設問は「ハトを使うことにした理由の1つ」です。第2段落の終わりに、ハトを使うことになったいきさつが書かれています。
+At first, Duquesnoy thought about using drones, but he was told that it was against the law to fly drones in London. After that, he realized he could use pigeons instead.（最初、デュケノワはドローンを使うことを考えたが、ロンドンでドローンを飛ばすのは法律違反だと言われた。そのあとで、彼は代わりにハトを使えることに気づいた）
+instead は「その代わりに」という意味で、ここでは「ドローンの代わりに」ということです。ドローンが使えないと分かったことが、ハトを使うきっかけになっています。
+本文と選択肢を対にすると、次のようになります。
+本文 he was told that it was against the law to fly drones in London ＝ 選択肢 He found out that using drones in the city of London was not allowed
+was told（～と言われた）が found out（～と分かった）に、against the law（法律に反する）が not allowed（許されていない）に言いかえられています。
+なお、第3段落の he could be sure that they would return to their homes（ハトがすみかに戻ってくると確信できた）も伝書バトを選んだ理由ですが、選択肢にはこの内容はありません。
+【ほかの選択肢】
+1 ハトがほかの鳥より大気汚染の影響を受けにくいという話は、本文のどこにもありません。
+2 本文に a bird common in many big cities（多くの大都市でよく見かける鳥）とはありますが、「費用が安い」とは書かれていません。「よく見かける」という部分だけが本文と同じで、「安いから使った」という理由は本文にありません。
+4 デュケノワの目的は make people more aware of the problem（人々にこの問題〔大気汚染〕をもっと意識させる）ことでした。結果として多くの人がウェブサイトを見ましたが、「鳥を使えば人が興味を持つと考えたからハトを選んだ」とは書かれていません。
+【覚えるポイント】
+・against the law：「法律に反して、法律違反で」。not allowed（許されていない）と言いかえられることが多いです。
+・instead：「その代わりに」。何の代わりなのかを前の文から確かめましょう。

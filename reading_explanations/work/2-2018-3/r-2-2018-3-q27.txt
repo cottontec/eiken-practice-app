@@ -1,0 +1,31 @@
+---
+choices: to confirm his order of The Oldest Day. | to ask him to review a book that he bought. | because he needs help logging in to his account. | because he was unhappy with his recent purchase.
+answerText: to ask him to review a book that he bought.
+reviewed: yes
+---
+【正解】2 to ask him to review a book that he bought.（彼が買った本のレビューを書くよう頼むため。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：メイズ・オンライン・ブックスがスミスさんにEメールを送ったのは、
+1 to confirm his order of The Oldest Day.（『The Oldest Day』の注文を確認するため。）
+2 to ask him to review a book that he bought.（彼が買った本のレビューを書くよう頼むため。）
+3 because he needs help logging in to his account.（彼がアカウントへのログインに手助けを必要としているから。）
+4 because he was unhappy with his recent purchase.（彼が最近買ったものに不満だったから。）
+【考え方】
+メールの目的は、ふつう最初の部分に書かれています。第1段落を確かめます。
+Thank you for your recent order of The Oldest Day by Rachel Woodrow.（レイチェル・ウッドロウ作の『The Oldest Day』をご注文いただき、ありがとうございました）
+We at Maze Online Books would like you to take a few minutes to write a review of the book online.（私たちメイズ・オンライン・ブックスは、数分お時間をいただいて、インターネット上でその本のレビューを書いていただきたいと思っています）
+would like you to ～ は「あなたに～してほしい」と、ていねいにお願いする言い方です。review は「レビュー（本などの感想や評価）」です。そのあとも、お礼に2ドル割り引くこと、レビューの書き方（ログインして「レビュー」のリンクをクリックする）が説明されています。
+本文と選択肢を対にすると、次のようになります。
+本文 would like you to ～ write a review of the book ＝ 選択肢 to ask him to review a book
+本文 your recent order of The Oldest Day（最近ご注文いただいた本）＝ 選択肢 a book that he bought（彼が買った本）
+ですから、2が正解です。
+【ほかの選択肢】
+1 メールの最初で注文へのお礼は述べていますが、注文の内容を確認することがメールの目的ではありません。お礼のすぐあとは、レビューを書いてほしいというお願いと、その方法の説明が続いています。
+3 Simply log in to your Maze account（メイズのアカウントにログインするだけです）とありますが、これはレビューを書くための手順の説明です。スミスさんがログインに困っているとは書かれていません。
+4 スミスさんが買ったものに不満だったとは、どこにも書かれていません。第2段落の If you had a problem with delivery or payment（配送や支払いに問題があった場合は）は、「もし問題があったなら」という仮の話で、実際に問題があったとは言っていません。
+【覚えるポイント】
+・would like ＋人＋ to ～：「（人）に～してほしい」と、ていねいにお願いする言い方です。
+・Eメールの目的を問う設問では、最初の段落に書かれたお願いや用件を確かめましょう。

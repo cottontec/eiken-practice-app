@@ -1,0 +1,30 @@
+---
+choices: reptile | glacier | blockade | portfolio
+answerText: portfolio
+reviewed: yes
+---
+【正解】4 portfolio（作品集）
+【和訳】
+（英文）
+The art student showed her ［portfolio］ to the gallery owner. It contained samples of her paintings, drawings, and photographs.
+（訳）
+その美術の学生は、画廊の持ち主に自分の（作品集）を見せた。それには、彼女の絵画、線画、写真の見本が入っていた。
+（選択肢の意味）
+1 reptile：は虫類（ヘビやトカゲなど）
+2 glacier：氷河
+3 blockade：封鎖
+4 portfolio：作品集（自分の作品をまとめたもの）
+【考え方】
+まず見るところ：後ろの文の It contained samples of her paintings, drawings, and photographs.
+空所に入るのは、学生が gallery owner（画廊の持ち主）に見せたものです。gallery は、ここでは「画廊（絵などを展示したり売ったりする所）」です。それが何かは、後ろの文に書かれています。
+It contained samples of her paintings, drawings, and photographs.（それには、彼女の絵画、線画、写真の見本が入っていた）
+It は、前の文の空所に入るものを指しています。contained は「～を中に含んでいた」です。
+自分の作品の見本をまとめたものは portfolio（作品集）です。美術の学生が画廊の持ち主に作品集を見せる、という話は自然につながります。ですから4が正解です。
+この問題の型：指示語（It ＝ 空所に入るもの）／語の意味・組み合わせ
+【ほかの選択肢】
+1 reptile は「は虫類」です。は虫類の中に絵や写真の見本が入っている、ということはなく、意味が通りません。
+2 glacier は「氷河」です。学生が画廊の持ち主に見せるものではなく、絵や写真の見本を含むものでもありません。
+3 blockade は「封鎖（道や港などを通れないようにふさぐこと）」です。作品の見本が入っているものではないので、合いません。
+【覚えるポイント】
+・portfolio：「作品集」。絵や写真などの作品の見本をまとめたものです。
+・空所のすぐ後ろの文が It ～ で始まるときは、It が空所の語を指していることがあります。その文の説明（ここでは「作品の見本が入っていた」）から空所の語を考えるのが手がかりになります。

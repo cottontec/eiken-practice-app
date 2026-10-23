@@ -1,0 +1,28 @@
+---
+choices: seriously | instantly | currently | especially
+answerText: currently
+reviewed: yes
+---
+【正解】3 currently（現在は、今のところ）
+【和訳】
+（英文）
+A: How many people work at your company, Mr. Seward?
+B: We ［currently］ have 30 employees, but we plan to hire 5 more at the end of the year.
+（訳）
+A：スワードさん、あなたの会社では何人の人が働いていますか。
+B：（現在は）30人の従業員がいますが、年末にさらに5人雇う予定です。
+（選択肢の意味）
+1 seriously：真剣に、深刻に
+2 instantly：すぐに、即座に
+3 currently：現在は、今のところ
+4 especially：特に
+【考え方】
+Aは会社で働いている人数をたずねています。Bは We (　) have 30 employees（私たちには30人の従業員が（　）いる）と答えたあと、but we plan to hire 5 more at the end of the year（しかし、年末にさらに5人雇う予定だ）と続けています。
+but のあとは「これから先（年末）」の話です。ですから、but の前は「今は」の話だと考えると、「今は30人だが、年末にはもう5人増える予定だ」と自然につながります。currently は「現在は、今のところ」という意味なので、3が正解です。
+【ほかの選択肢】
+1 seriously は「真剣に、深刻に」です。「私たちは真剣に30人の従業員がいる」となり、人数を答える文として意味が通りません。
+2 instantly は「すぐに、即座に」です。「すぐに30人の従業員がいる」では、今の人数と年末の予定を比べる流れになりません。
+4 especially は「特に」です。「特に30人の従業員がいる」では、何と比べて「特に」なのかが分からず、意味が通りません。
+【覚えるポイント】
+・currently：「現在は、今のところ」。形容詞 current は「現在の」という意味です。
+・plan to ～：「～する予定だ、～するつもりだ」。hire は「雇う」です。

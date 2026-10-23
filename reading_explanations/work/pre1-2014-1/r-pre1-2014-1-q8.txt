@@ -1,0 +1,27 @@
+---
+choices: audibly | stoically | lawfully | crudely
+answerText: stoically
+reviewed: yes
+---
+【正解】2 stoically（苦しさを表に出さずに、じっと耐えて）
+【和訳】
+（英文）
+Although he had broken his finger early in the rugby game, Henry carried on ［stoically］. He made no mention of his injury to his teammates.
+（訳）
+ヘンリーはラグビーの試合の早い段階で指を骨折していたにもかかわらず、（じっと耐えて）プレーを続けた。彼はチームメートにけがのことを一言も言わなかった。
+（選択肢の意味）
+1 audibly：聞こえるように、声に出して
+2 stoically：苦しさを表に出さずに、じっと耐えて
+3 lawfully：合法的に、法律にしたがって
+4 crudely：乱暴に、雑に
+【考え方】
+1文目は Although（～にもかかわらず）で始まっています。「指を骨折していた」のに「プレーを続けた（carried on）」という、予想と反対の内容がつながっています。
+空所は carried on（続けた）がどのような様子だったかを説明する副詞（動詞などにようすを付け足す語）です。ヒントは2文目の He made no mention of his injury to his teammates.（彼はチームメートにけがのことを一言も言わなかった）です。make no mention of ～ は「～について何も言わない」という意味です。
+骨折の痛みがあっても、それを口にも顔にも出さずにプレーを続けた、という様子が読み取れます。stoically は「苦痛や感情を表に出さず、じっと耐えて」という意味なので、2が正解です。
+【ほかの選択肢】
+1 audibly は「（ほかの人に）聞こえるように、声に出して」という意味です。けがのことを一言も言わなかった、という2文目と合いません。
+3 lawfully は「合法的に、法律にしたがって」という意味です。けがをしてもプレーを続けた様子を表す語としては合いません。
+4 crudely は「乱暴に、雑に」という意味です。けがについて何も言わなかったという内容は、プレーが雑だったことを示していないので、手がかりとつながりません。
+【覚えるポイント】
+・stoically：「苦痛を表に出さずに、じっと耐えて」。形容詞は stoic（ストイックな、我慢強い）です。
+・make no mention of ～：「～について一言も触れない」。

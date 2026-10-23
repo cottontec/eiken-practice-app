@@ -1,0 +1,29 @@
+---
+choices: flow around a central area that moves very little. | carry garbage from North America to the eastern coasts of Asia. | move more slowly as they reach the areas near the coasts. | keep garbage from being carried out into the ocean.
+answerText: flow around a central area that moves very little.
+reviewed: yes
+---
+【正解】1 flow around a central area that moves very little.（ほとんど動かない中心の海域のまわりを流れている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：北太平洋の海流は（　　）。
+1 flow around a central area that moves very little.（ほとんど動かない中心の海域のまわりを流れている）
+2 carry garbage from North America to the eastern coasts of Asia.（北アメリカからアジアの東海岸へごみを運ぶ）
+3 move more slowly as they reach the areas near the coasts.（海岸の近くの海域に着くにつれて、よりゆっくり動く）
+4 keep garbage from being carried out into the ocean.（ごみが海に運び出されないようにする）
+【考え方】
+海流（currents）について書かれているのは第2段落です。current は「（水や空気の）流れ」で、ocean current で「海流」です。
+2文目に The water in the northern Pacific flows in a huge circle, but in the center of the circle, there is an area where it hardly moves.（北太平洋の海水は巨大な円をえがいて流れているが、その円の中心には、水がほとんど動かない海域がある）とあります。hardly は「ほとんど～ない」という否定の意味をもつ語です。
+3文目には As ocean currents move around this center（海流がこの中心のまわりを動くとき）と続きます。本文と選択肢は次のように対応しています。
+本文 ocean currents move around this center（海流はこの中心のまわりを動く）＝ 選択肢 flow around a central area（中心の海域のまわりを流れる）
+本文 an area where it hardly moves（水がほとんど動かない海域）＝ 選択肢 a central area that moves very little（ほとんど動かない中心の海域）
+正解は1です。
+【ほかの選択肢】
+2 本文では、海流は北アメリカの西海岸とアジアの東海岸からごみを集め、slowly carry it to the center（ゆっくりと中心へ運ぶ）と書かれています。北アメリカからアジアへ運ぶのではなく、両方から円の中心へ運ぶので、行き先がちがいます。
+3 本文で「ゆっくり」なのは、ごみを中心へ運ぶ動きです。海岸の近くでゆっくりになるとは書かれていないので、誤りです。
+4 本文では、海流は海岸からごみを集めて海の中心へ運ぶと書かれています。ごみが海に出ていかないようにするのではなく、反対に海へ運んでいるので、誤りです。
+【覚えるポイント】
+・hardly：「ほとんど～ない」。not がなくても否定の意味になる点に注意しましょう。
+・ocean current：「海流」。

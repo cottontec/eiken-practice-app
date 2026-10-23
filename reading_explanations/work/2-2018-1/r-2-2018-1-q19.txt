@@ -1,0 +1,26 @@
+---
+choices: what | who | when | how
+answerText: how
+reviewed: yes
+---
+【正解】4 how（どのようにして）
+【和訳】
+（英文）
+When the young businessman was asked ［how］ he became rich, he answered that it was through hard work and nothing else.
+（訳）
+その若い実業家は、（どのようにして）お金持ちになったのかと聞かれたとき、それは懸命に働いたことによるもので、ほかの何によるものでもないと答えました。
+（選択肢の意味）
+1 what：何を、何が
+2 who：だれが、だれを
+3 when：いつ
+4 how：どのようにして
+【考え方】
+空所のあとの he became rich（彼はお金持ちになった）は、主語と動詞がそろい、文として足りない部分がありません。ですから、空所には「何」や「だれ」のような名詞の代わりになる語ではなく、「いつ」「どのように」のように、文全体に情報を付け加える語が入ります。
+次に、答えの内容を見ます。he answered that it was through hard work and nothing else（それは懸命に働くことによってであり、ほかの何ものでもないと答えた）とあります。through ～ は「～によって、～を通して」と手段（やり方）を表します。手段を答えているので、たずねられたのは「どのようにしてお金持ちになったか」です。よって4が正解です。
+【ほかの選択肢】
+1 what は「何」です。what he became rich では、he became rich に「何」に当たる部分が欠けていないので、文の形が成り立ちません。
+2 who は「だれ」です。who he became rich も、what と同じ理由で文の形が成り立ちません。
+3 when は「いつ」で、文の形としては入ります。しかし「いつお金持ちになったのか」と聞かれたのなら、時期を答えるはずです。答えは through hard work（懸命に働くことによって）という手段なので、合いません。
+【覚えるポイント】
+・be asked how ～：「どのようにして～かとたずねられる」。
+・through hard work：「懸命に働くことによって」。through は手段を表します。

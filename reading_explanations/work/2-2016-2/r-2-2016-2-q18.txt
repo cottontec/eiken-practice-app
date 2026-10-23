@@ -1,0 +1,27 @@
+---
+choices: was confused | was confusing | confused | confusing
+answerText: was confused
+reviewed: yes
+---
+【正解】1 was confused（戸惑った、混乱した）
+【和訳】
+（英文）
+Erica ［was confused］ about her boss's decision to give her a pay raise. She had thought he did not like her work performance.
+（訳）
+エリカは、上司が自分の給料を上げると決めたことに（戸惑いました）。彼女は、上司が自分の仕事ぶりを気に入っていないと思っていたのです。
+（選択肢の意味）
+1 was confused：戸惑った、混乱した
+2 was confusing：（人を）混乱させるようなものだった
+3 confused：混乱させた
+4 confusing：混乱させるような
+【考え方】
+confuse は「（人を）混乱させる、戸惑わせる」という意味の動詞です。どの形が入るかは、エリカが「混乱させる側」なのか「混乱させられる側」なのかで決まります。
+2文目の She had thought he did not like her work performance.（彼女は、上司が自分の仕事ぶりを気に入っていないと思っていた）に注目します。had thought は「（給料を上げると決まった時よりも前に）思っていた」という意味です。気に入られていないと思っていたのに、給料が上がることになったので、エリカは驚き、よく分からない気持ちになったと考えられます。
+つまり、エリカは上司の決定によって「混乱させられた」側です。be confused は「（人が）混乱している、戸惑っている」という意味で、be confused about ～ で「～に戸惑う」となります。ですから、1 was confused が正解です。
+【ほかの選択肢】
+2 was confusing は「（ほかの人を）混乱させるようなものだった」という意味です。エリカが周りを混乱させたという話ではないので、合いません。
+3 confused だけだと「（何かを）混乱させた」という意味の動詞の過去形になり、あとに「だれを」混乱させたのかが必要です。空所のあとは about her boss's decision なので、文が成り立ちません。
+4 confusing は「混乱させるような」という意味で、be 動詞がないとこの文の動詞（文の中心となる動きを表す語）になれません。Erica confusing about ～ では文として成り立ちません。
+【覚えるポイント】
+・be confused about ～：「～に戸惑う、～で混乱する」。人の気持ちを表すときは -ed の形を使います。
+・confusing：「（物事が人を）混乱させるような」。The question is confusing.（その質問は分かりにくい）のように使います。

@@ -1,0 +1,30 @@
+---
+choices: use bumps in the road to generate electricity. | remove liquid from the engine to make it lighter. | supply fuel to the engine in a way that saves energy. | stop rough surfaces from damaging the shock absorbers.
+answerText: use bumps in the road to generate electricity.
+reviewed: yes
+---
+【正解】1 use bumps in the road to generate electricity.（道路のでこぼこを利用して電気を生み出す。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：学生たちの新しいしくみは（　）ように作られている。
+1 use bumps in the road to generate electricity.（道路のでこぼこを利用して電気を生み出す）
+2 remove liquid from the engine to make it lighter.（エンジンから液体を取り除いて、エンジンを軽くする）
+3 supply fuel to the engine in a way that saves energy.（エネルギーを節約するやり方で、エンジンに燃料を送る）
+4 stop rough surfaces from damaging the shock absorbers.（でこぼこした路面がショックアブソーバーを傷めないようにする）
+【考え方】
+新しいしくみの中身は、第2段落に書かれています。
+まず the idea of designing shock absorbers that can create electricity（電気を生み出すことのできるショックアブソーバーを設計するというアイデア）とあります。
+続いて、しくみの説明があります。Each time the vehicle hits a bump, the impact causes the shock absorber to move.（乗り物がでこぼこにぶつかるたびに、その衝撃でショックアブソーバーが動く）。その動きで液体が発電機へ送られてホイール（回転する輪）を回し、The turning of the wheel produces electricity（ホイールが回ることで電気が生まれる）と書かれています。
+つまり、でこぼこを通ったときの衝撃を利用して電気を作るしくみです。本文と選択肢は次のように対応しています。
+本文 Each time the vehicle hits a bump（乗り物がでこぼこにぶつかるたびに）＝ 選択肢 use bumps in the road（道路のでこぼこを利用する）
+本文 create electricity / produces electricity（電気を生み出す）＝ 選択肢 generate electricity（電気を生み出す）
+正解は1です。
+【ほかの選択肢】
+2 本文の液体は、ショックアブソーバーの動きでパイプを通って発電機へ送られるものです。エンジンから液体を取り除くとは書かれていません。乗り物が軽くなるのは、電気を作るためのふつうの装置がいらなくなるからです。
+3 燃料が節約されるとは書かれていますが、それはエンジンに頼る装置がいらなくなり、乗り物が軽くなるためです。エンジンへの燃料の送り方を変えるしくみではありません。
+4 新しいショックアブソーバーがでこぼこから自分自身を守る、という話は本文にありません。
+【覚えるポイント】
+・generate electricity：「電気を生み出す、発電する」。本文の create / produce electricity と同じ意味です。
+・each time ～：「～するたびに」。

@@ -1,0 +1,31 @@
+---
+choices: their ties with other groups | a fear of outsiders | far-reaching natural disasters | the attraction of other areas
+answerText: the attraction of other areas
+reviewed: yes
+---
+【正解】4 the attraction of other areas（ほかの地域の魅力）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 their ties with other groups（ほかの集団とのつながり）
+2 a fear of outsiders（よそ者への恐れ）
+3 far-reaching natural disasters（広い範囲に及ぶ自然災害）
+4 the attraction of other areas（ほかの地域の魅力）
+【考え方】
+まず見るところ：第3段落の factors from outside likely contributed as well と、最後の文の drawing the Ancient Puebloans away from Mesa Verde
+空所のある文は次のとおりです。
+The Ancient Puebloans' departure has also been linked to ( 31 ).（古代プエブロ人が去ったことは、（31）とも結びつけられてきた）
+departure は「去ること、出発」という意味です。続く文に、どんな理由なのかが書かれています。
+Although conditions at Mesa Verde may have played a part, factors from outside likely contributed as well.（メサ・ヴェルデの状況も一因だったかもしれないが、外からの要因もおそらく関係していた）
+「外からの要因」の例として、リオグランデ川の谷が挙げられています。そこは多くの古代プエブロ人が移り住んだ場所で、valuable sources of food and important materials such as wood（貴重な食料源や、木材のような重要な資源）があることで知られていました。そして段落の最後に次のように書かれています。
+Coupled with existing stresses, this would have been a powerful force in drawing the Ancient Puebloans away from Mesa Verde.（すでにあったさまざまな負担と合わさって、このことは、古代プエブロ人をメサ・ヴェルデから引き離す強い力になったことだろう）
+draw ～ away from ... は「～を…から引き離す、引き寄せて離れさせる」という意味です。食料や資源の豊かなほかの場所が人々を引きつけた、ということなので、attraction（引きつける力、魅力）を使った4が正解です。
+この問題の型：具体例とまとめ（リオグランデ川の谷の食料や資源→ほかの地域の魅力）／言いかえ（drawing ～ away → attraction）
+【ほかの選択肢】
+1 「ほかの集団とのつながり」は本文にありません。リオグランデ川の谷については食料や資源のことが書かれているだけで、そこに住む集団との関係は書かれていません。
+2 「よそ者への恐れ」は本文にありません。第3段落は、外の地域が人々を引きつけたという話であり、外から来た人をこわがった話ではありません。
+3 「広い範囲に及ぶ自然災害」は本文にありません。第3段落に災害の話は出てこず、気候の変化は第2段落で、長い間唱えられてきた理由として出てくるだけです。
+【覚えるポイント】
+・attraction：「引きつける力、魅力」。動詞 attract（引きつける）の名詞の形です。
+・空所の文の後ろに For example（たとえば）で具体例が出てくるときは、その例（ここでは食料や資源のある別の場所）が全体として何を表しているかを考えると手がかりになります。

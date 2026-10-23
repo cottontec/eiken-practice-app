@@ -1,0 +1,34 @@
+---
+choices: ornaments | riots | numerals | sobs
+answerText: sobs
+reviewed: yes
+---
+【正解】4 sobs（すすり泣き、すすり泣く声）
+【和訳】
+（英文）
+A: I think I just heard ［sobs］ coming from Mary's room. Can you go check on her?
+B: She's upset about her breakup with Barry. Maybe it's better to give her some time alone.
+（訳）
+A：今、メアリーの部屋から（すすり泣く声）が聞こえた気がするよ。ようすを見に行ってくれる？
+B：メアリーはバリーと別れたことで動揺しているんだよ。少しの間、1人にしてあげたほうがいいかもしれないね。
+（選択肢の意味）
+1 ornaments：飾り、装飾品
+2 riots：暴動
+3 numerals：数字
+4 sobs：すすり泣き、すすり泣く声
+【考え方】
+まず見るところ：空所の後ろの coming from Mary's room と、Bの She's upset about her breakup with Barry.
+Aの発言は次のとおりです。
+I think I just heard (　) coming from Mary's room.（今、メアリーの部屋から（　）が聞こえてきた気がする）
+heard（聞いた）とあるので、空所には「耳で聞こえるもの」が入ります。
+Bの答えから、メアリーのようすが分かります。
+She's upset about her breakup with Barry.（メアリーはバリーと別れたことで動揺している）
+upset は「動揺した、取り乱した」、breakup は「（恋人どうしが）別れること」という意味です。恋人と別れて悲しんでいる人の部屋から聞こえてくるのは、泣く声だと考えられます。sob は「すすり泣き（声をつまらせて泣くこと）」という意味なので、4が正解です。
+この問題の型：因果（別れて動揺している→泣く声が聞こえる）
+【ほかの選択肢】
+1 ornaments は「飾り、装飾品」です。飾りが「聞こえる」ことはないので、heard と合いません。
+2 riots は「暴動（大勢の人が騒ぎを起こすこと）」です。1人の部屋から暴動が聞こえてくるのは不自然で、Bの「別れて動揺している」という説明ともつながりません。
+3 numerals は「数字」です。数字が部屋から聞こえてくることはなく、意味が通りません。
+【覚えるポイント】
+・sob：「すすり泣き」。動詞でも「すすり泣く」という意味で使います。
+・heard（聞いた）の後ろの空所には、耳で聞こえるものが入ります。さらに相手の返事（ここでは upset）から、どんな音かをしぼりこむのが手がかりになります。

@@ -1,0 +1,25 @@
+---
+choices: gravity | knowledge | sunshine | tradition
+answerText: gravity
+reviewed: yes
+---
+【正解】1 gravity（重力）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 gravity：重力（物を下へ引っぱる力）
+2 knowledge：知識
+3 sunshine：日光
+4 tradition：伝統
+【考え方】
+空所は第3段落の最初の文 Water towers work by using the power of (　).（給水塔は〜の力を利用して働く）にあります。この段落の最初の文なので、続く文で「どうやって働くのか」が説明されていると考えて読み進めます。
+次の文に、しくみが書かれています。The wooden tank on top of the tower is filled with water by a pump, and the water then flows down through pipes to each part of the building that needs it.（塔の上にある木のタンクはポンプで水を満たされ、その水は管を通って、建物の中で水を必要とする各部分へ流れ落ちる）です。flows down は「流れ落ちる、下へ流れる」です。
+水を高い所にためておき、そこから下へ流すと、水は自然に建物の各部分へ届きます。水が上から下へ流れるのは、重力（物を下へ引っぱる力）のはたらきです。第2段落では、地下の水道の圧力だけでは上の階まで水を送れないことが問題でした。給水塔はそれとは反対に、上から下へ水を落とすしくみです。gravity を入れると説明と合うので、1が正解です。
+【ほかの選択肢】
+2 knowledge は「知識」です。「給水塔は知識の力を利用して働く」となりますが、続く説明はポンプと水の流れ方のことで、知識の話ではありません。
+3 sunshine は「日光」です。続く説明には、日光を使う話は出てきません。水はポンプでタンクに入れられ、そこから流れ落ちるだけなので、合いません。
+4 tradition は「伝統」です。第1段落で給水塔のデザインが100年ほとんど変わっていないとありますが、ここで説明されているのは給水塔がどうやって水を送るかというしくみです。「伝統の力で働く」では、水が流れ落ちる説明とつながりません。
+【覚えるポイント】
+・gravity：「重力」。the power of gravity で「重力の力」。
+・flow down：「流れ落ちる、下へ流れる」。

@@ -1,0 +1,31 @@
+---
+choices: drop by | come across | go against | do without
+answerText: do without
+reviewed: yes
+---
+【正解】4 do without（～なしで済ませる）
+【和訳】
+（英文）
+A storm caused the power to go off in Greenville yesterday. Residents had to ［do without］ electricity for two hours before the supply was restored.
+（訳）
+昨日、嵐のせいでグリーンビルでは停電が起きました。住民は、電気の供給が元にもどるまでの2時間、電気（なしで過ごさ）なければなりませんでした。
+（選択肢の意味）
+1 drop by：（～に）立ち寄る
+2 come across：～に偶然出会う、～を偶然見つける
+3 go against：～に逆らう、～に反する
+4 do without：～なしで済ませる
+【考え方】
+まず見るところ：1文目の the power to go off と、2文目の before the supply was restored
+A storm caused the power to go off（嵐のせいで電気が止まった）
+cause ～ to ... は「～が…する原因となる」、the power goes off は「電気が止まる、停電する」という意味です。嵐のせいで停電したということです。
+Residents had to (　) electricity for two hours before the supply was restored.（住民は、供給が元にもどるまで2時間、電気を（　）しなければならなかった）
+restore は「元にもどす」という意味です。停電していた2時間、住民は電気を使えなかったはずです。
+do without は「～なしで済ませる、～なしでやっていく」という意味です。do without electricity で「電気なしで過ごす」となり、停電の話とつながります。ですから4が正解です。
+この問題の型：熟語・決まった形（do without ～）
+【ほかの選択肢】
+1 drop by は「（～に）立ち寄る」です。「電気に立ち寄る」となり、意味が通りません。
+2 come across は「～に偶然出会う、～を偶然見つける」です。「電気を偶然見つける」では、停電で電気が使えなかったという内容とつながりません。
+3 go against は「～に逆らう、～に反する」です。「電気に逆らう」となり、意味が通りません。
+【覚えるポイント】
+・do without ～：「～なしで済ませる、～なしでやっていく」。
+・前の文で「何かが使えなくなった」と書かれていたら、その間「～なしで過ごす」という意味の語句が入らないか考えるのが手がかりになります。

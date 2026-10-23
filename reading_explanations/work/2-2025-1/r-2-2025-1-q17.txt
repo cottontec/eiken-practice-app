@@ -1,0 +1,32 @@
+---
+choices: with ease | on board | in turn | at times
+answerText: at times
+reviewed: yes
+---
+【正解】4 at times（ときどき）
+【和訳】
+（英文）
+A: How is the novel you are reading?
+B: It's good, but ［at times］ it is hard to understand. The author uses very complex language.
+（訳）
+A：あなたが読んでいる小説はどう？
+B：いいよ。でも、（ときどき）理解しにくいんだ。作者がとても複雑な言葉を使っているよ。
+（選択肢の意味）
+1 with ease：簡単に、楽々と
+2 on board：（乗り物に）乗って
+3 in turn：順番に、今度は
+4 at times：ときどき
+【考え方】
+まず見るところ：Bの It's good, but と、空所のあとの it is hard to understand
+It's good, but (　) it is hard to understand.（いいけれど、（　）理解しにくい）
+but（でも）の前では小説をほめ、あとでは「理解しにくい」という困った点を言っています。小説全体はよいと言っているのですから、理解しにくいのはいつもではなく、ところどころだと考えられます。
+The author uses very complex language.（作者はとても複雑な言葉を使っている）
+この文は、理解しにくいことがある理由の説明になっています。at times は「ときどき」という意味で、「いいけれど、ときどき理解しにくい」となり、前後とつながります。ですから4が正解です。
+この問題の型：対比（It's good ⇔ hard to understand）／語の意味・組み合わせ
+【ほかの選択肢】
+1 with ease は「簡単に、楽々と」です。「楽々と理解しにくい」となり、意味がぶつかって通りません。
+2 on board は「（乗り物に）乗って」です。小説が理解しにくいという話に、乗り物は関係がなく、意味が通りません。
+3 in turn は「順番に、今度は」です。「順番に理解しにくい」となり、何の順番なのか分からず、意味が通りません。
+【覚えるポイント】
+・at times：「ときどき」。sometimes と同じような意味です。
+・It's good, but ～ のように、よい点を言ったあとで but を使って悪い点を言うときは、「ときどき」のように悪い点を少しやわらげる語句が入ることがあります。

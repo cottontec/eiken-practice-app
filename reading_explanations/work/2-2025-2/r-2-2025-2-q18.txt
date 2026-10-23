@@ -1,0 +1,29 @@
+---
+choices: As a result | In other words | On the other hand | In the same way
+answerText: On the other hand
+reviewed: yes
+---
+【正解】3 On the other hand（一方で、それに対して）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 As a result（その結果として）
+2 In other words（言いかえれば、つまり）
+3 On the other hand（一方で、それに対して）
+4 In the same way（同じように）
+【考え方】
+まず見るところ：第1段落の空所の前の from the beginning と、空所のうしろの by chance
+Some inventions, like Edison's light bulb, are the result of the inventor's desire to create them from the beginning.（エジソンの電球のように、発明者が最初からそれを作り出したいと望んだ結果として生まれた発明もある。）
+空所の前の文は、「最初から作ろうと思って作った発明」について述べています。エジソンが実験をくり返して電球を発明した話は、その例です。
+( 18 ), there are other types of inventions that were created by chance.（（18）、偶然に生み出された、別の種類の発明がある。）
+空所のうしろは other types（別の種類）の発明で、by chance（偶然に）生まれたものです。「最初から作ろうとした」と「偶然に生まれた」は、反対の内容です。
+2つの反対のものを比べて示すときに使う On the other hand（一方で）を入れると、前後の流れがつながります。ですから3が正解です。
+この問題の型：対比（最初から作ろうとした発明⇔偶然に生まれた発明）
+【ほかの選択肢】
+1 As a result は「その結果として」です。前の文が原因、後ろの文がその結果になるときに使います。「最初から作ろうとした発明がある。その結果、偶然に生まれた発明がある」では、原因と結果の関係になっていません。
+2 In other words は「言いかえれば」です。前と同じ内容を別の言葉で言い直すときに使いますが、「最初から作ろうとした」と「偶然に生まれた」は同じ内容ではないので、合いません。
+4 In the same way は「同じように」です。前と似た内容を続けるときに使いますが、後ろは other types（別の種類）の発明の話で、前とは反対の内容なので合いません。
+【覚えるポイント】
+・On the other hand：「一方で、それに対して」。2つのちがうものを比べるときに使います。
+・つなぎの言葉を選ぶ空所では、空所の前と後ろの文の関係（反対か、同じか、原因と結果か）を先に決めると答えを選びやすくなります。ここでは from the beginning と by chance が反対になっていることが手がかりでした。

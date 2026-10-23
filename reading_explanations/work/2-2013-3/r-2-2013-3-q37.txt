@@ -1,0 +1,28 @@
+---
+choices: Their friends from school do not live close enough to them. | Their schools no longer help them go to and from school. | They cannot attend school because of their health. | They are not allowed to be taught at home by their parents.
+answerText: They cannot attend school because of their health.
+reviewed: yes
+---
+【正解】3 They cannot attend school because of their health.（健康上の理由で学校に通えない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：一部の子どもたちが抱えている問題の1つは何ですか。
+1 Their friends from school do not live close enough to them.（学校の友達が、十分近くに住んでいない。）
+2 Their schools no longer help them go to and from school.（学校が、通学の手助けをもうしてくれない。）
+3 They cannot attend school because of their health.（健康上の理由で学校に通えない。）
+4 They are not allowed to be taught at home by their parents.（家で親に教わることが許されていない。）
+【考え方】
+設問の some children（一部の子どもたち）にあたる子どもたちが、第1段落に出てきます。In fact, there are children who cannot participate in school life because of illnesses, such as severe allergies.（実際に、重いアレルギーなどの病気のために、学校生活に参加できない子どもたちがいる）とあります。participate in ～ は「～に参加する」、illness は「病気」という意味です。
+本文と選択肢は次のように対応しています。
+本文 cannot participate in school life（学校生活に参加できない）＝ 選択肢 cannot attend school（学校に通えない）
+本文 because of illnesses（病気のために）＝ 選択肢 because of their health（健康上の理由で）
+病気のために学校生活に参加できないということは、健康の問題のために学校に通えないということです。したがって3が正解です。
+【ほかの選択肢】
+1 友達が近くに住んでいないという話は本文にありません。本文では、子どもたちが学校で得る友情を楽しめないことが書かれていますが、その理由は病気で学校に行けないことです。
+2 学校が通学の手助けをしなくなったという話は本文にありません。
+4 本文には These children can be taught at home（こうした子どもたちは家で教育を受けることができる）とあります。家で教わることが許されていないという選択肢は本文と反対です。
+【覚えるポイント】
+・participate in ～ ＝ take part in ～：「～に参加する」。
+・because of illnesses ≒ because of their health：病気のため＝健康上の理由で。

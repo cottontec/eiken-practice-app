@@ -1,0 +1,31 @@
+---
+choices: He read an advertisement for it in the newspaper. | He heard about it from someone at his college. | He saw a posting for it on The Matlock Post website. | He received an e-mail about the job from a friend.
+answerText: He read an advertisement for it in the newspaper.
+reviewed: yes
+---
+【正解】1 He read an advertisement for it in the newspaper.（彼は新聞でその仕事の広告を読んだ。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ロバート・ミッチェルは、新聞記者の仕事のことを最初にどのようにして知りましたか。
+1 He read an advertisement for it in the newspaper.（彼は新聞でその仕事の広告を読んだ。）
+2 He heard about it from someone at his college.（彼は大学のだれかからそれについて聞いた。）
+3 He saw a posting for it on The Matlock Post website.（彼は『マトロック・ポスト』紙のウェブサイトでその求人の掲示を見た。）
+4 He received an e-mail about the job from a friend.（彼は友人からその仕事についてのEメールを受け取った。）
+【考え方】
+設問の first（最初に）に注目します。仕事のことを知った方法が本文にいくつか出てくるなら、どれが先だったかを確かめる必要があります。
+第1段落に、次の2つの文があります。
+I saw an advertisement for the job in your newspaper last Sunday.（この前の日曜日に、御社の新聞でこの仕事の広告を見ました）
+I then visited your website, where I saw some instructions for applying by e-mail.（それから御社のウェブサイトを訪れ、そこでEメールで応募するための説明を見ました）
+then は「それから、そのあとで」という意味です。つまり、まず新聞で広告を見て、そのあとでウェブサイトを訪れたという順番です。最初に仕事のことを知ったのは、新聞の広告だと分かります。
+本文と選択肢を対にすると、次のようになります。
+本文 I saw an advertisement for the job in your newspaper ＝ 選択肢 He read an advertisement for it in the newspaper
+saw（見た）が read（読んだ）に、the job が it に言いかえられています。ですから1が正解です。
+【ほかの選択肢】
+2 大学のだれかから聞いたという話は、本文に書かれていません。大学について出てくるのは、卒業したことや大学新聞で記事を書いていたことです。
+3 ウェブサイトを訪れたのは、新聞で広告を見た then（そのあと）です。また、ウェブサイトで見たのは instructions for applying by e-mail（Eメールで応募するための説明）だと書かれています。最初に知った方法ではないので、順番が違います。
+4 友人からEメールを受け取ったという話は、本文にありません。Eメールは、ロバートが応募のためにロビンソンさんに送っているものです。
+【覚えるポイント】
+・then：「それから、そのあとで」。出来事の順番を示す手がかりになります。
+・advertisement for ～：「～の広告」。短くして ad とも言います。

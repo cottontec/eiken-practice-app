@@ -1,0 +1,22 @@
+---
+choices: the | mystery | was | exciting | more
+answerText: was
+order: 2 3 1 5 4
+reviewed: yes
+---
+【正解】3 was（この問題の2番目）
+【完成文】
+The ( mystery was the more exciting ) of the two. I didn't really like the science-fiction one.
+並べ方：2 mystery → 3 was → 1 the → 5 more → 4 exciting（2番目は3、4番目は5）
+【和訳】
+A：ビリー、この2冊の本のうち、どちらを読むのがおすすめ？
+B：2冊のうちでは、ミステリーのほうがわくわくしたよ。SFのほうはあまり好きじゃなかったんだ。
+【考え方】
+Aは which of these two books（この2冊の本のうちどちら）と、2冊のうちどちらがおすすめかをたずねています。Bは2文目で I didn't really like the science-fiction one.（SFの本はあまり好きではなかった）と言っています。the science-fiction one の one は book（本）の代わりです。つまり、Bは「もう1冊のほう、ミステリーがよかった」と答えると考えられます。
+空所の前に The があるので、The のあとに 2 mystery を置いて The mystery（そのミステリーの本）を文の主語にします。主語のあとには動詞が必要なので、2番目には 3 was を置きます。
+was のあとには「どんな本だったか」がきます。2つのものを比べて「2つのうちで、より～なほう」と言うときは、「the＋比較級（「より～」を表す形）＋of the two」という形を使います。exciting の比較級は more exciting なので、was のあとに the → more → exciting と並べます。最後に空所のあとの of the two につながります。
+したがって2番目は3 was です。
+まちがえやすいのは、The more exciting mystery was the のように more exciting を mystery の前に置く並べ方です。この並べ方では最後に the が余ってしまい、空所のあとの of the two とうまくつながりません。
+【覚えるポイント】
+・the＋比較級＋of the two：「2つのうちで、より～なほう」。2つを比べるときは、最上級ではなく比較級に the を付けます。
+・the ～ one：one は前に出た名詞のくり返しを避けるために使います。ここでは the science-fiction one ＝ the science-fiction book です。

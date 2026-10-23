@@ -1,0 +1,35 @@
+---
+choices: Samples of it gave authorities data they needed to locate the source of toxic chemicals in the city’s air. | Analyzing its growth patterns helped authorities understand why many of the city’s trees were not properly absorbing nutrients. | The city was able to reduce levels of pollutants by removing it from hundreds of trees it was found growing on. | The US Forest Service helped the city grow it in two locations in order to absorb pollutants in the air.
+answerText: Samples of it gave authorities data they needed to locate the source of toxic chemicals in the city’s air.
+reviewed: yes
+---
+【正解】1 Samples of it gave authorities data they needed to locate the source of toxic chemicals in the city’s air.（その試料は、市の空気中の有毒な化学物質の発生源を突き止めるのに必要なデータを、当局に与えた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：How was Orthotrichum lyellii useful to the city of Portland, Oregon?（オルトトリクム・ライエリーは、オレゴン州ポートランド市にとってどのように役に立ったか。）
+1 Samples of it gave authorities data they needed to locate the source of toxic chemicals in the city’s air.（その試料は、市の空気中の有毒な化学物質の発生源を突き止めるのに必要なデータを、当局に与えた。）
+2 Analyzing its growth patterns helped authorities understand why many of the city’s trees were not properly absorbing nutrients.（その育ち方を分析したことで、当局は、市の多くの木がなぜ栄養をきちんと吸収できていないのかを理解することができた。）
+3 The city was able to reduce levels of pollutants by removing it from hundreds of trees it was found growing on.（市は、それが生えているのが見つかった何百本もの木からそれを取り除くことで、汚染物質の濃度を下げることができた。）
+4 The US Forest Service helped the city grow it in two locations in order to absorb pollutants in the air.（アメリカ森林局は、空気中の汚染物質を吸収させるために、市が2つの場所でそれを育てるのを手伝った。）
+【考え方】
+まず見るところ：第1段落の However, it could not determine the origin of the metals. と、第2段落の最初の文 Analysis of 350 moss samples ～
+第1段落で、DEQ（オレゴン州環境品質局）が困っていたことが分かります。
+However, it could not determine the origin of the metals.（しかし、DEQはそれらの金属がどこから来たのかを突き止めることができなかった）
+determine は「突き止める、はっきりさせる」、origin は「出どころ、起源」です。このコケは汚染物質を取りこんで細胞にためるので、その量と種類を測ると、汚染の出どころをたどることができる、と説明されています。
+第2段落の最初の文で、実際にどう役立ったかが書かれています。
+Analysis of 350 moss samples from trees around Portland helped the DEQ narrow down the highest pollutant concentrations to the area around two glass factories.（ポートランド周辺の木々から採った350のコケの試料を分析したことで、DEQは、汚染物質の濃度が最も高い場所を、2つのガラス工場の周辺地域にしぼりこむことができた）
+narrow down A to B は「AをBにしぼりこむ」です。
+本文と選択肢を対にすると、次のようになります。
+本文 moss samples（コケの試料）＝ 選択肢 Samples of it（その試料）
+本文 determine the origin of the metals / narrow down ～ to the area around two glass factories（金属の出どころを突き止める／2つのガラス工場の周辺にしぼりこむ）＝ 選択肢 locate the source of toxic chemicals（有毒な化学物質の発生源を突き止める）
+authorities は「当局（役所など、権限を持つ組織）」で、ここではDEQのことです。ですから1が正解です。
+この問題の型：言いかえ（determine the origin ＝ locate the source）
+【ほかの選択肢】
+2 本文に書かれていません。本文では、このコケが空気から栄養を吸収すると説明されていますが、市の木々が栄養をきちんと吸収できていないという話や、コケの育ち方を分析したという話は出てきません。分析したのは、コケに含まれる有毒物質の量と種類です。
+3 本文に書かれていません。地元の環境の中の濃度が下がったのは、第3段落にあるとおり、両方の工場がヒ素とカドミウムを使うのをやめたあとのことです。コケを木から取り除いたという話は出てきません。
+4 本文に書かれていません。アメリカ森林局は、ポートランドの木々にもともとよく生えているこのコケを利用するよう勧めただけで、2つの場所で育てたという話はありません。本文に出てくる two は、2つのガラス工場のことです。
+【覚えるポイント】
+・narrow down A to B：「AをBにしぼりこむ」。場所や原因を特定する話でよく使われます。
+・「どのように役に立ったか」をたずねる設問では、その前に書かれている「困っていたこと」（ここでは could not determine the origin）を確かめると、何が解決されたのかが分かり、答えの手がかりになります。

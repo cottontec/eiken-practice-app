@@ -1,0 +1,31 @@
+---
+choices: deed | phase | vein | shriek
+answerText: shriek
+reviewed: yes
+---
+【正解】4 shriek（悲鳴、かん高い叫び声）
+【和訳】
+（英文）
+Jack was awakened in the night by a loud ［shriek］ coming from his daughter's bedroom. It turned out she had had a bad dream.
+（訳）
+ジャックは夜中に、娘の寝室から聞こえてきた大きな（悲鳴）で目を覚ました。娘は悪い夢を見ていたのだと分かった。
+（選択肢の意味）
+1 deed：行い、行為
+2 phase：段階、局面
+3 vein：静脈（血液を心臓へもどす血管）
+4 shriek：悲鳴、かん高い叫び声
+【考え方】
+まず見るところ：空所の前の a loud と、空所の後ろの coming from his daughter's bedroom
+ジャックは夜中に何かによって目を覚ましました。was awakened by ～ は「～によって目を覚まさせられた」という意味です。
+a loud (　) coming from his daughter's bedroom（娘の寝室から聞こえてくる大きな〇〇）
+loud は「（音や声が）大きい」という意味なので、空所には音や声を表す語が入ります。さらに、次の文に理由が書かれています。
+It turned out she had had a bad dream.（彼女は悪い夢を見ていたのだと分かった）
+it turned out ～ は「～だと分かった」です。悪い夢を見た娘が上げる、大きな声といえば「悲鳴」です。shriek は「悲鳴、かん高い叫び声」なので、4が正解です。
+この問題の型：語の意味・組み合わせ（loud ＋ 音を表す語）
+【ほかの選択肢】
+1 deed は「行い」です。「大きな行いが寝室から聞こえてきた」となり、loud（音が大きい）とも、目を覚ましたこととも合いません。
+2 phase は「段階」です。「大きな段階が寝室から聞こえてきた」では意味が通りません。
+3 vein は「静脈（血管）」です。寝室から聞こえてくる音にはならず、意味が通りません。
+【覚えるポイント】
+・shriek：「悲鳴、かん高い叫び声」。be awakened by ～：「～で目を覚ます」。
+・空所の直前に loud（大きな音の）があるときは、空所に音や声を表す語が入る手がかりになります。

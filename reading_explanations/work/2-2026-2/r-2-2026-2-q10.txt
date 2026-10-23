@@ -1,0 +1,31 @@
+---
+choices: forgives | exists | prays | stares
+answerText: exists
+reviewed: yes
+---
+【正解】2 exists（存在する）
+【和訳】
+（英文）
+Some people think that life ［exists］ on other planets, but others believe that Earth is the only place with living things.
+（訳）
+ほかの惑星に生命が（存在する）と考える人もいますが、地球が生き物のいる唯一の場所だと信じている人もいます。
+（選択肢の意味）
+1 forgives：許す
+2 exists：存在する
+3 prays：祈る
+4 stares：じっと見つめる
+【考え方】
+まず見るところ：but のあとの Earth is the only place with living things
+文の形は Some people think ～, but others believe ...（～と考える人もいれば、…と信じる人もいる）です。2つの反対の考えが並べられています。
+but のあとの考えは次のとおりです。
+others believe that Earth is the only place with living things（地球が生き物のいる唯一の場所だと信じている人もいる）
+この反対の考えは、「地球以外にも生き物がいる」というものになります。ここでの life は「人生」ではなく「生命、生き物」という意味です。
+exist は「存在する、ある」という意味で、life exists on other planets で「ほかの惑星に生命が存在する」となります。but のあとの考えとちょうど反対になるので、2が正解です。
+この問題の型：対比（ほかの惑星に生命がいる⇔地球だけ）
+【ほかの選択肢】
+1 forgives は「許す」です。「生命がほかの惑星で許す」となり、意味が通りません。
+3 prays は「祈る」です。「生命がほかの惑星で祈る」となり、意味が通りません。生命（生き物）がいるかどうかを述べる文脈とも合いません。
+4 stares は「じっと見つめる」です。「生命がほかの惑星でじっと見つめる」となり、意味が通りません。
+【覚えるポイント】
+・exist：「存在する」。life exists on ～ で「～に生命が存在する」。
+・Some people ～, but others ... の文では、2つの考えが反対になるので、片方の考えから、もう片方に入る語を考えることができます。

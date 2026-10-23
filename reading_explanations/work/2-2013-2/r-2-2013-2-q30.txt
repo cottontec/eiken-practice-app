@@ -1,0 +1,26 @@
+---
+choices: beneficial | simple | dramatic | temporary
+answerText: dramatic
+reviewed: yes
+---
+【正解】3 dramatic（劇的な、大きな）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 beneficial：有益な、ためになる
+2 simple：単純な、簡単な
+3 dramatic：劇的な、大きな
+4 temporary：一時的な
+【考え方】
+空所は第1段落の climate change will have some (　) impacts on fish, too（気候変動は魚にもいくつかの（　）影響を与えるだろう）にあります。impact は「影響」です。
+まず、その前の文を見ます。climate change is a huge threat to the future of many land animals（気候変動は多くの陸上の動物の将来にとって大きな脅威だ）とあり、but what about fish?（では魚はどうか）と問いかけています。threat は「脅威（危険をもたらすおそれのあるもの）」です。
+次に、空所のあとの文を見ます。the average size of fish in the oceans will get much smaller（海の魚の平均の大きさがずっと小さくなる）、their numbers will greatly decrease（その数が大きく減る）とあります。much や greatly（大いに）から、変化がとても大きいことが分かります。
+ですから、魚への影響は「大きく、はげしい」ものだと考えられます。dramatic は「劇的な（はげしく大きな変化の）」という意味なので、正解は3です。
+【ほかの選択肢】
+1 beneficial は「有益な、ためになる」です。あとの文は魚が小さくなり数が減るという悪い影響を述べているので、「有益な影響」では合いません。
+2 simple は「単純な」です。第3段落に Global warming is very complicated（地球温暖化はとても複雑だ）とあり、影響を計算するのも難しいと書かれているので、「単純な影響」とは言えません。
+4 temporary は「一時的な」です。本文は2050年までに魚の大きさや数が大きく変わるという話で、影響がしばらくで終わるとは書かれていません。
+【覚えるポイント】
+・have an impact on ～：「～に影響を与える」。
+・not only A but also B：「AだけでなくBも」。

@@ -1,0 +1,21 @@
+---
+choices: make | couldn't | heard | she | herself
+answerText: couldn't
+order: 4 2 1 5 3
+reviewed: yes
+---
+【正解】2 couldn't（この問題の2番目）
+【完成文】
+The music was very loud at the restaurant. Ayako was trying to talk to her friends, but ( she couldn't make herself heard ) above the music.
+並べ方：4 she → 2 couldn't → 1 make → 5 herself → 3 heard（2番目は2、4番目は5）
+【和訳】
+そのレストランでは音楽がとても大きな音で流れていました。アヤコは友だちに話しかけようとしていましたが、音楽の音に負けてしまい、自分の声を聞いてもらうことができませんでした。
+【考え方】
+まず、空所の前を見ます。but（しかし）のあとなので、ここから新しい主語と動詞の文が始まります。主語には 4 she を置き、そのあとに 2 couldn't（～できなかった）を続けます。couldn't のあとには動詞の元の形（原形）がくるので、1 make を置きます。
+残りは 5 herself と 3 heard です。make ＋ 人 ＋ heard で「人（の声）を聞いてもらう」という意味になります。make oneself heard は「自分の声を（相手に）聞いてもらう、自分の言うことを伝える」という決まった言い方です。heard は hear の過去分詞（ここでは「聞かれる」という意味を表す形）で、「自分が聞かれる状態にする」ということです。
+空所のあとの above the music は「音楽（の音）に負けずに、音楽より大きく」という意味です。she couldn't make herself heard above the music で「音楽に負けずに自分の声を聞いてもらうことはできなかった」となります。1文目の The music was very loud（音楽がとてもうるさかった）とつながります。
+2番目に 2 couldn't が来るのは、主語 she のすぐあとに「～できなかった」を表す couldn't を置き、そのあとに動詞の元の形 make を続けるからです。
+まちがえやすいのは make heard herself と並べることです。make のあとには先に「だれを」にあたる herself を置き、そのあとに heard を置きます。
+【覚えるポイント】
+・make oneself heard：「自分の声を聞いてもらう、自分の言うことを伝える」。
+・above the noise / music：「騒音や音楽に負けずに、それより大きく」。

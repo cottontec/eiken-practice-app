@@ -1,0 +1,23 @@
+---
+choices: may | our | the typhoon | through | well pass
+answerText: through
+order: 3 1 5 4 2
+reviewed: yes
+---
+【正解】4 through（この問題の4番目）
+【完成文】
+The forecast isn't always right. ( The typhoon may well pass through our ) area, so we should be prepared.
+並べ方：3 the typhoon → 1 may → 5 well pass → 4 through → 2 our（2番目は1、4番目は4）
+【和訳】
+A：お父さん、どうして窓を全部閉めているの？ 天気予報では、台風はもうこっちには来ないと言っていたよ。
+B：天気予報がいつも正しいとは限らないよ。台風がこの地域を通る可能性は十分にあるから、備えておいたほうがいい。
+【考え方】
+Bの文は、空所のあとが area, so we should be prepared（地域、だから備えておくべきだ）となっています。空所には、備えるべき理由になる文が入ると考えられます。
+まず主語です。Aの話は台風のことなので、3 the typhoon（その台風）を主語にします。
+次に動詞の部分です。5 well pass に注目します。may well ～ は「たぶん～するだろう、～する可能性が十分ある」という意味の決まった言い方です。ですから 1 may を well pass の前に置いて、may well pass（通る可能性が十分ある）とします。may のあとには動詞のもとの形がくるので、pass の形とも合います。
+pass through ～ は「～を通り抜ける」という意味です。そこで 4 through を続け、最後に 2 our を空所のあとの area の前に置いて、through our area（私たちの地域を）とします。
+4番目に 4 through が来るのは、pass のあとに「どこを通るか」を表す語が必要で、pass through ～ で「～を通り抜ける」という意味になるからです。
+まちがえやすいのは、may を the typhoon の前に置いて疑問文の形にしてしまうことです。ここは「台風が通るかもしれない」と述べる文なので、主語 → may の順にします。
+【覚えるポイント】
+・may well ～：「たぶん～するだろう、～する可能性が十分ある」。
+・not always ～：「いつも～とは限らない」。

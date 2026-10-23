@@ -1,0 +1,30 @@
+---
+choices: They have skin that has changed dramatically over the years. | They had become mummies 3,000 years earlier than scientists originally thought. | Their appearance is different from people who currently live in the area. | Their clothes were too thick and heavy to be worn in a desert area.
+answerText: Their appearance is different from people who currently live in the area.
+reviewed: yes
+---
+【正解】3 Their appearance is different from people who currently live in the area.（その見た目が、現在その地域に住んでいる人々とは違う。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：中国の新疆地区で見つかったミイラについて、驚くべきことは何ですか。
+1 They have skin that has changed dramatically over the years.（長い年月の間に、皮膚が大きく変わってしまっている。）
+2 They had become mummies 3,000 years earlier than scientists originally thought.（科学者たちが最初に考えていたよりも、3,000年早くミイラになっていた。）
+3 Their appearance is different from people who currently live in the area.（その見た目が、現在その地域に住んでいる人々とは違う。）
+4 Their clothes were too thick and heavy to be worn in a desert area.（その衣服は厚くて重すぎて、砂漠の地域では着られなかった。）
+【考え方】
+設問の surprising（驚くべき）に注目して、第2段落を見ます。
+However, the mummies have one very surprising characteristic—they all look as though they came from Europe.（しかし、これらのミイラには、とても驚くべき特徴が1つある。どのミイラも、ヨーロッパから来たように見えるのだ）
+look as though ～ は「まるで～のように見える」という意味です。そのあとに例が続きます。インパン・マンは blond hair（金髪）で、古代ギリシャのものに似たデスマスクをつけています。チェルチェン・マンは red hair（赤い髪）で、wears clothes that are unlike anything usually worn in the area（その地域でふつう着られているどんなものとも違う衣服を身につけている）とあります。
+つまり、中国で見つかったのに、ヨーロッパの人のような見た目をしていることが「驚くべき特徴」です。また第3段落でも、these European-looking people ended up in China（このヨーロッパ人のような外見の人々が中国にたどり着いた）ことのなぞが取り上げられています。
+本文と選択肢を対にすると、次のようになります。
+本文 they all look as though they came from Europe（どれもヨーロッパから来たように見える）＋ unlike anything usually worn in the area（その地域でふつう着られているものとは違う）→ 選択肢 Their appearance is different from people who currently live in the area（見た目が、現在その地域に住む人々とは違う）
+本文は「中国の地域にいるのに、ヨーロッパの人のように見える」ことを驚きとしています。ここから、その地域の人々とは見た目が違う、ということが読み取れます。ですから、3が正解です。
+【ほかの選択肢】
+1 本文には Their hair, skin, and clothes are almost the same as when the people died（髪、皮膚、衣服は、亡くなったときとほとんど同じだ）とあります。皮膚は大きく変わっておらず、本文と反対です。
+2 本文には、the people died over 3,000 years ago（その人々は3,000年以上前に亡くなった）とあるだけです。科学者が最初に考えていたより3,000年早かった、という話は書かれていません。
+4 チェルチェン・マンの衣服は、その地域のものとは違い、古代ヨーロッパのケルト人のものに似ていると書かれています。しかし、衣服が厚すぎるとか重すぎるとかいう話は、本文にありません。
+【覚えるポイント】
+・look as though ～：「まるで～のように見える」。
+・be unlike ～：「～とは違う、～に似ていない」。

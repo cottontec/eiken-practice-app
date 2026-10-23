@@ -1,0 +1,29 @@
+---
+choices: free | shocked | equal | ready
+answerText: ready
+reviewed: yes
+---
+【正解】4 ready（〔be ready to ～ の形で〕～する気持ちになっている）
+【和訳】
+（英文）
+A: I don't think we'll be able to reserve a hotel. It's too late.
+B: I'm not ［ready］ to give up yet. I'll call every hotel in the city if I have to.
+（訳）
+A：ホテルは予約できないと思うよ。もう遅すぎるよ。
+B：私はまだあきらめる（気にはなれ）ないよ。必要なら、市内のホテル全部に電話するよ。
+（選択肢の意味）
+1 free：自由な、ひまな
+2 shocked：衝撃を受けた、ショックを受けた
+3 equal：等しい
+4 ready：準備ができた、～する気持ちになっている
+【考え方】
+Aは It's too late.（もう遅すぎる）と言って、ホテルの予約をあきらめかけています。
+Bの答えの I'm not (　) to give up yet. の give up は「あきらめる」、yet は否定の文で「まだ（～ない）」という意味です。そのあとに I'll call every hotel in the city if I have to.（必要なら市内のホテル全部に電話する）と続くので、Bはあきらめるつもりがないことが分かります。
+be ready to ～ は「～する準備ができている、～する気持ちになっている」という意味です。not を付けた I'm not ready to give up yet で「まだあきらめる気にはなれない」となり、あとの「ホテル全部に電話する」という強い気持ちとつながります。4が正解です。
+【ほかの選択肢】
+1 free は be free to ～ で「（許されていて）自由に～してよい」です。I'm not free to give up yet とすると「まだあきらめることを許されていない」のような意味になり、だれかに止められているように聞こえます。会話には、Bがあきらめるのを止めている人は出てきません。Bはあとで「必要ならホテル全部に電話する」と言っていて、自分の気持ちとしてあきらめたくないことを伝えているので、合いません。
+2 shocked は be shocked to ～ で「～して衝撃を受ける」です。「まだあきらめてショックを受けてはいない」のような意味になり、あとの「ホテル全部に電話する」という話とつながりません。
+3 equal は「等しい、同じである」です。equal のあとに to give up を続けても、「あきらめる気持ちがない」という意味にはならず、文の意味が通りません。
+【覚えるポイント】
+・be ready to ～：「～する準備ができている、～する気持ちになっている」。not ready to give up で「まだあきらめる気になれない」。
+・if I have to：「（そうする）必要があれば」。have to のあとの動詞（ここでは call every hotel）が省略された形です。

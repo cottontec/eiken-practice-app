@@ -1,0 +1,33 @@
+---
+choices: type 2 diabetes in children may be caused by kidney and liver problems rather than by having a high percentage of body fat. | obese adolescents who undergo surgery instead of a diet and exercise program are more likely to die young. | the symptoms of type 2 diabetes are less serious in children than they are in adults who develop the disease. | early death from certain medical conditions is linked to being severely overweight as an adolescent.
+answerText: early death from certain medical conditions is linked to being severely overweight as an adolescent.
+reviewed: yes
+---
+【正解】4 early death from certain medical conditions is linked to being severely overweight as an adolescent.（ある種の病気による早死には、青年期にひどく太りすぎていることと関係がある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：The New England Journal of Medicine study suggests that（『ニュー・イングランド・ジャーナル・オブ・メディシン』に載った研究は、～ということを示している。）
+1 type 2 diabetes in children may be caused by kidney and liver problems rather than by having a high percentage of body fat.（子どもの2型糖尿病は、体脂肪の割合が高いことよりも、むしろ腎臓や肝臓の問題によって引き起こされているのかもしれない。）
+2 obese adolescents who undergo surgery instead of a diet and exercise program are more likely to die young.（食事と運動のプログラムの代わりに手術を受けた肥満の青年は、（そうでない青年より）若くして亡くなる可能性が高い。）
+3 the symptoms of type 2 diabetes are less serious in children than they are in adults who develop the disease.（2型糖尿病の症状は、この病気になった大人よりも、子どものほうが軽い。）
+4 early death from certain medical conditions is linked to being severely overweight as an adolescent.（ある種の病気による早死には、青年期にひどく太りすぎていることと関係がある。）
+【考え方】
+まず見るところ：第1段落の According to a study in the New England Journal of Medicine, ～
+設問の研究は、第1段落に出てきます。
+According to a study in the New England Journal of Medicine, people who are obese as adolescents are twice as likely to die before age 55 of conditions like diabetes and heart disease.（『ニュー・イングランド・ジャーナル・オブ・メディシン』に載った研究によると、青年期に肥満である人は、（そうでない人と比べて）糖尿病や心臓病などの病気によって55歳になる前に亡くなる可能性が2倍高い）
+obese は「肥満の（ひどく太っている）」、adolescent は「青年（10代の若者）」、twice as likely to ～ は「～する可能性が2倍だ」です。
+10代で肥満だと、55歳より前に病気で亡くなる可能性が高くなる、という内容です。本文と選択肢を対にすると、次のようになります。
+本文 people who are obese as adolescents（青年期に肥満である人）＝ 選択肢 being severely overweight as an adolescent（青年期にひどく太りすぎていること）
+本文 die before age 55 of conditions like diabetes and heart disease（糖尿病や心臓病などの病気によって55歳になる前に亡くなる）＝ 選択肢 early death from certain medical conditions（ある種の病気による早死に）
+本文 twice as likely（可能性が2倍）→ 選択肢 is linked to（関係がある）
+ですから4が正解です。
+この問題の型：言いかえ（obese ＝ severely overweight、die before age 55 ＝ early death）
+【ほかの選択肢】
+1 原因と結果が逆です。本文では、2型糖尿病は It can result in kidney and liver problems（腎臓や肝臓の問題を引き起こすことがある）と書かれていて、腎臓や肝臓の問題が糖尿病の原因だとは書かれていません。また、これはこの研究の内容でもありません。
+2 この研究は、青年期に肥満だった人が早く亡くなりやすいことを示したもので、手術を受けた人と食事・運動のプログラムを受けた人を比べたものではありません。本文にない内容です。
+3 本文には、子どもと大人で症状の重さを比べた話はありません。第1段落には、2型糖尿病は子どもでは appears to progress particularly quickly（特に速く進行するようだ）とあり、子どものほうが症状が軽いとは書かれていません。また、これは『ニュー・イングランド・ジャーナル・オブ・メディシン』の研究の内容でもありません。
+【覚えるポイント】
+・twice as likely to ～：「～する可能性が2倍だ」。be linked to ～：「～と関係がある」。
+・研究の名前が設問に出てきたら、本文で According to a study in ～（～の研究によると）のように、その名前が出てくる文を探しましょう。答えの手がかりはその文に集まっていることが多いです。

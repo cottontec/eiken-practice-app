@@ -1,0 +1,30 @@
+---
+choices: abbreviate | attest | carve | yield
+answerText: abbreviate
+reviewed: yes
+---
+【正解】1 abbreviate（～を短くする、縮める）
+【和訳】
+（英文）
+The teacher asked the student to ［abbreviate］ his essay. She said it should be about half the length it was.
+（訳）
+先生はその生徒に、作文を（短くする）ように頼んだ。先生は、作文はそのときの長さのおよそ半分にするべきだと言った。
+（選択肢の意味）
+1 abbreviate：～を短くする、縮める、省略する
+2 attest：～を証明する、証言する
+3 carve：～を彫る、刻む
+4 yield：（作物や利益など）を生み出す、～をゆずる
+【考え方】
+まず見るところ：後ろの文の it should be about half the length it was
+先生が生徒の作文について、どうするように頼んだのかを考えます。具体的な中身は後ろの文にあります。
+She said it should be about half the length it was.（彼女は、それはそのときの長さのおよそ半分にするべきだと言った）
+She は the teacher（先生）、it は his essay（彼の作文）を指しています。half the length it was は「そのときの長さの半分」です。
+作文を今の半分くらいの長さにするということは、作文を短くするということです。abbreviate は「～を短くする、縮める」という意味なので、話がつながります。ですから1が正解です。
+この問題の型：具体例とまとめ（half the length ＝ 短くすること）／指示語（She ＝ 先生、it ＝ 作文）
+【ほかの選択肢】
+2 attest は「～を証明する、証言する」です。「作文を証明する」となり、長さを半分にするという話とつながりません。
+3 carve は「～を彫る、刻む」です。木や石などを彫るときに使う語で、作文の長さを変える話としては合いません。
+4 yield は「～を生み出す、～をゆずる」です。「作文を生み出すように頼んだ」では、すでにある作文を半分の長さにするという後ろの文と合いません。
+【覚えるポイント】
+・abbreviate：「～を短くする、縮める、省略する」。
+・頼んだ内容が空所になっているときは、後ろの文の said ～（～と言った）の中身が、その頼みを具体的に言いかえていることがあります。そこを見るのが手がかりになります。

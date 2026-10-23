@@ -1,0 +1,34 @@
+---
+choices: While lemons had once been believed to cure a serious disease, profits from growing the fruit declined when this was discovered not to be true. | Although large amounts of money could be earned from growing lemons, setting up a lemon farm could only be done at great expense. | Because of Sicily's unpredictable climate, farmers new to growing lemons regularly had to throw away large amounts of bad lemon crops. | Due to rules about where lemons could be grown, purchasing enough land to make the business profitable was a serious issue.
+answerText: Although large amounts of money could be earned from growing lemons, setting up a lemon farm could only be done at great expense.
+reviewed: yes
+---
+【正解】2 Although large amounts of money could be earned from growing lemons, setting up a lemon farm could only be done at great expense.（レモンを育てることで多額のお金をかせぐことができたが、レモン農園を始めるには大きな費用をかけるしかなかった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one difficulty Sicilian farmers faced in the 1700s?（1700年代にシチリアの農家が直面した困難の一つは何か。）
+1 While lemons had once been believed to cure a serious disease, profits from growing the fruit declined when this was discovered not to be true.（レモンはかつて重い病気を治すと信じられていたが、それが本当ではないと分かったとき、レモンを育てることで得られる利益は減った。）
+2 Although large amounts of money could be earned from growing lemons, setting up a lemon farm could only be done at great expense.（レモンを育てることで多額のお金をかせぐことができたが、レモン農園を始めるには大きな費用をかけるしかなかった。）
+3 Because of Sicily's unpredictable climate, farmers new to growing lemons regularly had to throw away large amounts of bad lemon crops.（シチリアの予測できない気候のために、レモンを育て始めたばかりの農家は、よく大量の傷んだレモンを捨てなければならなかった。）
+4 Due to rules about where lemons could be grown, purchasing enough land to make the business profitable was a serious issue.（レモンを育ててよい場所についての規則のために、商売で利益を出せるだけの土地を買うことが大きな問題だった。）
+【考え方】
+まず見るところ：第2段落の caused revenues from the fruit to skyrocket と、the shift to large-scale lemon growing required huge financial investments
+設問の the 1700s（1700年代）は、第2段落の初めの In the 1700s に当たります。まず、レモンでお金がかせげるようになったことが書かれています。
+In the 1700s, it was discovered that lemon juice prevented a deadly disease called scurvy, leading to greatly increased demand for lemons, which caused revenues from the fruit to skyrocket.（1700年代に、レモンの果汁が壊血病と呼ばれる命にかかわる病気を防ぐことが発見された。それによってレモンの需要が大きく高まり、そのことがレモンから得られる収入を急上昇させた）
+revenue は「収入」、skyrocket は「急上昇する」という意味です。
+一方で、困難も書かれています。
+In addition, the shift to large-scale lemon growing required huge financial investments to build facilities and develop irrigation systems.（さらに、大規模なレモン栽培に移るには、施設を建てたり、かんがい設備を整えたりするための、巨額の資金を投じる必要があった）
+本文と選択肢2を対にすると、次のようになります。
+本文 caused revenues from the fruit to skyrocket（レモンから得られる収入を急上昇させた）＝ 選択肢 large amounts of money could be earned from growing lemons（レモンを育てることで多額のお金をかせぐことができた）
+本文 required huge financial investments to build facilities（施設を建てるのに巨額の資金を投じる必要があった）＝ 選択肢 setting up a lemon farm could only be done at great expense（レモン農園を始めるには大きな費用をかけるしかなかった）
+ですから2が正解です。
+この問題の型：言いかえ（huge financial investments ＝ great expense）
+【ほかの選択肢】
+1 本文にありません。本文では、レモンの果汁が病気を防ぐことが「発見され」、需要と収入が大きく増えたと書かれています。それが本当ではないと分かって利益が減った、という話は出てきません。
+3 本文にありません。本文には fruit's sensitivity to frost（レモンが霜に弱いこと）は書かれていますが、それは栽培できる場所が限られた理由です。傷んだレモンを大量に捨てなければならなかった、とは書かれていません。
+4 原因が違います。レモンの栽培が特定の場所に限られていたのは、規則のためではなく、霜に弱いためです。また、土地を買うことが問題だったという話は書かれていません。
+【覚えるポイント】
+・設問に年代（ここでは in the 1700s）があるときは、本文で同じ年代が出てくる段落を探し、その段落の中から根拠を見つけます。
+・本文の huge financial investments（巨額の資金を投じること）が選択肢で great expense（大きな費用）になっているように、お金に関する語句は別の言い方で言いかえられることがよくあります。

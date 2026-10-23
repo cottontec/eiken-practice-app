@@ -1,0 +1,27 @@
+---
+choices: created | inspired | astonished | disturbed
+answerText: inspired
+reviewed: yes
+---
+【正解】2 inspired（刺激を受けて、やる気になって）
+【和訳】
+（英文）
+After watching the Olympic marathon, Karen was ［inspired］ to start jogging. She now runs 5 kilometers a day.
+（訳）
+オリンピックのマラソンを見て、カレンは（刺激を受け、）ジョギングを始める気になりました。彼女は今、1日に5キロメートル走っています。
+（選択肢の意味）
+1 created：作られた
+2 inspired：刺激を受けた、やる気にさせられた
+3 astonished：とても驚いた
+4 disturbed：じゃまをされた、心をかき乱された
+【考え方】
+まず流れを確かめます。After watching the Olympic marathon（オリンピックのマラソンを見たあと）に、カレンはジョギングを始め、She now runs 5 kilometers a day.（今は1日に5キロメートル走っている）とあります。マラソンを見たことがきっかけで、自分も走り始めたと分かります。
+空所の形は was ( ) to start jogging です。be inspired to ～ は「（何かに）刺激を受けて～する気になる」という意味です。inspire はもともと「（人に）やる気を起こさせる」という意味の動詞で、was inspired と受け身（「～される」の形）にすると「やる気にさせられた」となります。
+inspired を入れると、「マラソンを見て刺激を受け、ジョギングを始める気になった。今では1日に5キロ走っている」となり、きっかけと結果がきれいにつながります。ですから、2が正解です。
+【ほかの選択肢】
+1 created は「作られた、生み出された」です。「カレンはジョギングを始めるために作られた」となり、意味が通りません。
+3 astonished は「とても驚いた」です。was astonished to ～ は「～してとても驚いた」という意味になり、「ジョギングを始めて驚いた」となります。自分で始めたことに驚くのは不自然で、マラソンを見たことがきっかけになったという流れも表せません。
+4 disturbed は「じゃまをされた、心をかき乱された」です。「ジョギングを始めて心をかき乱された」となり、今は1日に5キロ走っているという前向きな話と合いません。
+【覚えるポイント】
+・be inspired to ～：「刺激を受けて～する気になる」。
+・inspire ＋人＋ to ～：「人を～する気にさせる」。The movie inspired me to study English.（その映画を見て英語を勉強する気になった）のように使います。

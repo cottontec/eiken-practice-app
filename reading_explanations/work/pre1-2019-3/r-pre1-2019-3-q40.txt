@@ -1,0 +1,33 @@
+---
+choices: consuming them as supplements does not offer the illness-fighting benefits claimed by Pauling, and can even be harmful to one's health. | consuming higher doses of them as supplements is more effective for preventing disease than taking small doses. | the problem Pauling was attempting to solve with his research was not actually a real one. | smokers should consume beta carotene supplements along with vitamin A and E supplements to reduce the risk of certain diseases.
+answerText: consuming them as supplements does not offer the illness-fighting benefits claimed by Pauling, and can even be harmful to one's health.
+reviewed: yes
+---
+【正解】1 consuming them as supplements does not offer the illness-fighting benefits claimed by Pauling, and can even be harmful to one's health.（抗酸化物質をサプリメントとしてとっても、ポーリングが主張したような病気と戦う効果は得られず、健康に害を与えることさえありうる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Research into antioxidants that has been done since Pauling's time has shown that（ポーリングの時代以降に行われてきた抗酸化物質の研究は、～ということを示してきた。）
+1 consuming them as supplements does not offer the illness-fighting benefits claimed by Pauling, and can even be harmful to one's health.（抗酸化物質をサプリメントとしてとっても、ポーリングが主張したような病気と戦う効果は得られず、健康に害を与えることさえありうる）
+2 consuming higher doses of them as supplements is more effective for preventing disease than taking small doses.（抗酸化物質をサプリメントとして多めの量でとるほうが、少量をとるより病気を防ぐのに効果がある）
+3 the problem Pauling was attempting to solve with his research was not actually a real one.（ポーリングが研究で解決しようとしていた問題は、実は本当の問題ではなかった）
+4 smokers should consume beta carotene supplements along with vitamin A and E supplements to reduce the risk of certain diseases.（喫煙者は、ある種の病気の危険性を減らすために、ビタミンAとEのサプリメントと一緒にベータカロテンのサプリメントをとるべきだ）
+【考え方】
+まず見るところ：第3段落の numerous studies have shown that vitamin C cannot cure the common cold と、Notably, studies showed that ～
+numerous studies have shown that vitamin C cannot cure the common cold. In fact, most studies evaluating similar supplements have not supported their use.（数多くの研究が、ビタミンCでは風邪を治せないことを示してきた。実際、似たようなサプリメントを評価したほとんどの研究は、その使用を支持していない）
+numerous は「数多くの」、evaluate は「評価する（よいか悪いかを調べる）」という意味です。サプリメントに、ポーリングが言ったような効果は見られなかったということです。
+Notably, studies showed that long-term smokers who took beta carotene and vitamin A or E supplements actually had an increased likelihood of developing lung cancer or heart disease compared with those who did not.（特に、ベータカロテンとビタミンAかEのサプリメントをとった長年の喫煙者は、とらなかった人たちに比べて、肺がんや心臓病になる可能性が実際に高かったことが、研究によって示された）
+likelihood は「可能性」という意味です。サプリメントをとった人のほうが病気になりやすかったのですから、体に害があった例です。
+本文と選択肢を対にすると、次のようになります。
+・本文 vitamin C cannot cure the common cold / most studies ～ have not supported their use（ビタミンCでは風邪を治せない／ほとんどの研究は使用を支持していない）→ 選択肢 does not offer the illness-fighting benefits claimed by Pauling（ポーリングが主張した病気と戦う効果は得られない）
+・本文 had an increased likelihood of developing lung cancer or heart disease（肺がんや心臓病になる可能性が高かった）→ 選択肢 can even be harmful to one's health（健康に害を与えることさえありうる）
+ですから1が正解です。
+この問題の型：言いかえ（cannot cure / have not supported → does not offer the benefits／increased likelihood of ～ cancer → harmful）
+【ほかの選択肢】
+2 本文にはそのような研究結果はありません。それどころか第4段落では、Taking large doses of antioxidants may interrupt this natural defensive action（大量の抗酸化物質をとると、この自然な防御の働きをじゃまするかもしれない）と述べられています。
+3 本文にありません。第2段落では、フリーラジカルが多すぎると酸化ストレスが起こり、がんやほかの病気につながることがある、と書かれています。ポーリングが取り組んだ問題が本当の問題ではなかったとは書かれていません。
+4 本文と反対です。ベータカロテンとビタミンAかEのサプリメントをとった長年の喫煙者は、肺がんや心臓病になる可能性が高かったと書かれています。危険性が減るのではありません。
+【覚えるポイント】
+・an increased likelihood of ～：「～になる可能性が高いこと」。選択肢では harmful（害がある）とまとめて言いかえられています。
+・研究の結果をたずねる設問では、本文の studies have shown that ～ / studies showed that ～ のあとを読むと、答えの場所を見つける手がかりになります。

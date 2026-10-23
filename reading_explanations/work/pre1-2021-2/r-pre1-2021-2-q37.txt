@@ -1,0 +1,34 @@
+---
+choices: It is a mistake to judge Richard’s ability based only on the losses he suffered on the battlefield and not on the reforms he introduced. | The historians who claim that Richard knowingly carried out terrible acts are likely to be incorrect in their assessment of him. | The crimes that Richard committed while he was king greatly exceed the positive things he did for the country. | Richard was likely no better or worse as a ruler than other kings who ruled England in the distant past.
+answerText: Richard was likely no better or worse as a ruler than other kings who ruled England in the distant past.
+reviewed: yes
+---
+【正解】4 Richard was likely no better or worse as a ruler than other kings who ruled England in the distant past.（リチャードは、支配者として、遠い昔にイングランドを治めたほかの王たちよりよくも悪くもなかった可能性が高い。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Which of the following statements would the author of the passage most likely agree with?（この文章の筆者が最も賛成しそうなのは、次のどの意見か。）
+1 It is a mistake to judge Richard’s ability based only on the losses he suffered on the battlefield and not on the reforms he introduced.（リチャードの能力を、彼が行った改革ではなく、戦場で負けたことだけをもとに判断するのはまちがいである。）
+2 The historians who claim that Richard knowingly carried out terrible acts are likely to be incorrect in their assessment of him.（リチャードが分かったうえでひどい行いをしたと主張する歴史学者たちは、彼についての評価がまちがっている可能性が高い。）
+3 The crimes that Richard committed while he was king greatly exceed the positive things he did for the country.（リチャードが王だった間に犯した罪は、彼が国のために行ったよいことを大きく上回っている。）
+4 Richard was likely no better or worse as a ruler than other kings who ruled England in the distant past.（リチャードは、支配者として、遠い昔にイングランドを治めたほかの王たちよりよくも悪くもなかった可能性が高い。）
+【考え方】
+まず見るところ：第3段落の In the end, it is probably wisest to see Richard as a ruler who operated in a manner typical of the time in which he lived
+筆者の考えは、第3段落の後半の In the end（結局のところ）から書かれています。
+In the end, it is probably wisest to see Richard as a ruler who operated in a manner typical of the time in which he lived, and to realize that exactly how he came to power may not really matter that much.（結局のところ、リチャードを、彼が生きた時代に典型的なやり方でふるまった支配者として見ること、そして、彼がどのようにして権力の座についたのかは、実はそれほど重要ではないのかもしれないと理解することが、おそらく最も賢明だろう）
+typical は「典型的な（よくある、ふつうの）」、in a manner は「～なやり方で」という意味です。筆者は、リチャードを「その時代によくいたタイプの支配者」として見るのがよいと考えています。特別に悪い王でも、特別によい王でもない、という見方だと読み取れます。
+さらに、筆者はニコルズ枢機卿のことばを引いています。
+“In his day, political power was invariably won or maintained on the battlefield and only by ruthless determination, strong alliances and a willingness to employ the use of force.”（「彼の時代には、政治の権力は、決まって戦場で勝ち取られるか保たれるかするものであり、それはただ、容赦のない決意と、強い同盟と、力を使うことをいとわない気持ちによってのみなされた」）
+invariably は「決まって、いつも」という意味です。その時代の政治の権力は、決まって力を使って得たり守ったりするものだった、ということです。
+本文と選択肢を対にすると、次のようになります。
+本文 a ruler who operated in a manner typical of the time in which he lived（彼が生きた時代に典型的なやり方でふるまった支配者）→ 選択肢 no better or worse as a ruler than other kings who ruled England in the distant past（遠い昔にイングランドを治めたほかの王たちよりよくも悪くもない）
+筆者の考えから読み取れる内容なので、4が正解です。
+この問題の型：推論（その時代に典型的な支配者→ほかの王たちとよくも悪くも変わらない）／言いかえ（typical of the time → no better or worse as a ruler than other kings）
+【ほかの選択肢】
+1 本文にありません。リチャードの能力を戦場で負けたことだけで判断している人の話は出てきません。改革については、第3段落でリチャード3世協会が挙げているとあるだけで、筆者がこのような意見を述べているわけではありません。
+2 筆者の考えとしては書かれていません。筆者は歴史学者たちの見方（残酷な行いをした可能性も十分にある）を紹介していますが、それがまちがっているとは言っていません。筆者は、どのように権力についたかはそれほど重要ではないかもしれない、と述べています。
+3 言い切りすぎです。本文では、歴史学者たちも some of Richard’s policies were beneficial（リチャードの政策のいくつかは役に立った）と認めており、筆者も、罪とよいことのどちらが大きいかを比べてはいません。筆者は、リチャードをその時代に典型的な支配者として見るのがよいと述べています。
+【覚えるポイント】
+・typical of ～：「～に典型的な、～によくある」。
+・筆者の意見をたずねる設問では、In the end（結局のところ）や it is probably wisest to ～（～するのがおそらく最も賢明だ）のような、まとめの言い方のあとに筆者の結論が書かれていることが多く、手がかりになります。

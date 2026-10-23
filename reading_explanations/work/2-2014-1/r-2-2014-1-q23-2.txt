@@ -1,0 +1,22 @@
+---
+choices: provided | come | you | home | that
+answerText: that
+order: 1 5 3 2 4
+reviewed: yes
+---
+【正解】5 that（この問題の2番目）
+【完成文】
+You can go bowling ( provided that you come home ) by ten o'clock. I don't want you out too late.
+並べ方：1 provided → 5 that → 3 you → 2 come → 4 home（2番目は5、4番目は2）
+【和訳】
+A：お母さん、今夜アンナとボウリングに行ってもいい？
+B：10時までに家に帰ってくるのなら、ボウリングに行ってもいいよ。あまり遅くまで外にいてほしくないからね。
+【考え方】
+Bの2文目 I don't want you out too late.（あなたにあまり遅くまで外にいてほしくない）から、Bはボウリングに行くことを許す代わりに、帰る時刻の約束をさせていると分かります。空所のあとの by ten o'clock（10時までに）も、その約束の一部です。
+「～という条件で、もし～ならば」と条件を言うときに使えるのが provided that ～ です。そこで、まず 1 provided、次に 5 that を置きます。
+that のあとには「主語＋動詞」が続きます。主語は 3 you、動詞は 2 come です。最後に 4 home を置くと come home（家に帰る）となり、by ten o'clock とつながります。
+並びは provided → that → you → come → home で、2番目は5 that です。
+なお、provided だけでも「もし～ならば」の意味で使え、that は省かれることもあります。しかし、この問題では5語すべてを使うので、that は provided のすぐあとに置きます。
+【覚えるポイント】
+・provided (that) ～：「～という条件で、もし～ならば」。
+・want ＋人＋ out：「（人）に外にいてほしい」。ここでは否定で「外にいてほしくない」です。

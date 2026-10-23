@@ -1,0 +1,31 @@
+---
+choices: are considered easier to train | have never been bred in this way | are found in fewer places | have developed a major advantage
+answerText: have never been bred in this way
+reviewed: yes
+---
+【正解】2 have never been bred in this way（このように交配されたことが一度もない）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 are considered easier to train（〔犬や馬より〕訓練しやすいと考えられている）
+2 have never been bred in this way（このように交配されたことが一度もない）
+3 are found in fewer places（〔犬や馬より〕少ない場所でしか見られない）
+4 have developed a major advantage（大きな利点を身につけてきた）
+【考え方】
+まず見るところ：空所の前の on the other hand と、空所の後ろの no different genetically from wild elephants
+空所は第2段落の Elephants, on the other hand, (27). です。on the other hand は「一方で」で、前の内容と対比（2つを比べて違いを示すこと）をするときに使います。
+空所の前の文を見ます。
+Truly domesticated species, such as dogs and horses, have been specially bred so that they inherit characteristics that make them calmer, and therefore easier for humans to control.（犬や馬のような本当に家畜化された種は、より落ち着いた性質になり、そのため人間にとってより扱いやすくなるような特徴を受け継ぐように、特別に交配されてきた）
+breed（過去分詞 bred）は「（親を選んで）交配する、子を産ませる」、inherit は「受け継ぐ」です。犬や馬は、おとなしい性質を受け継ぐように交配されてきた、ということです。
+空所の後ろの文を見ます。
+Working elephants in Thailand are no different genetically from wild elephants.（タイの働くゾウは、遺伝子の面では野生のゾウと何も変わらない）
+働くゾウが野生のゾウと遺伝子の面で同じなのは、犬や馬のような交配がされていないからです。2の in this way（このように）は、前の文の「特別に交配されてきた」やり方を指しています。「犬や馬は特別に交配されてきた。一方、ゾウはこのように交配されたことが一度もない」となり、対比が成り立ちます。ですから2が正解です。
+この問題の型：対比（犬や馬 ⇔ on the other hand ゾウ）／指示語（in this way ＝ 前の文の交配のしかた）
+【ほかの選択肢】
+1 「（犬や馬より）訓練しやすいと考えられている」を入れると、ゾウのほうが扱いやすいことになります。しかし本文では、ゾウは閉じこめられ、食べ物を与えられず、たたかれて飼いならされると書かれており、扱いやすいとは言えません。また、on the other hand の対比にもなりません。
+3 「（犬や馬より）少ない場所でしか見られない」を入れると、すむ場所の数の話になります。前の文は交配と性質の話、後ろの文は遺伝子の話なので、どちらともつながりません。
+4 「大きな利点を身につけてきた」を入れると、ゾウに何かよい点があることになります。どんな利点かは本文に書かれておらず、「野生のゾウと遺伝子の面で何も変わらない」という次の文とも結びつきません。
+【覚えるポイント】
+・breed（bred）：「交配する、（品種を）作り出す」。be specially bred で「特別に交配される」。
+・on the other hand（一方で）の空所では、前の文の内容と反対になるものを選びます。in this way のような指示語が選択肢にあるときは、それが前の文のどこを指すかを確かめることが手がかりになります。

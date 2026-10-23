@@ -1,0 +1,34 @@
+---
+choices: component | boundary | privilege | pillar
+answerText: privilege
+reviewed: yes
+---
+【正解】3 privilege（光栄なこと、特権）
+【和訳】
+（英文）
+Some of Professor Kimble's co-workers at the university consider teaching to be a duty, but she thinks of it as a ［privilege］. She feels honored to help young people learn.
+（訳）
+大学でのキンブル教授の同僚の中には、教えることを義務だと考える人もいますが、彼女はそれを（光栄なこと）だと考えています。彼女は、若い人たちが学ぶのを手助けすることを名誉に感じているのです。
+（選択肢の意味）
+1 component：構成要素、部品
+2 boundary：境界、境目
+3 privilege：光栄なこと、特権
+4 pillar：柱、（組織などを）支える中心的な人やもの
+【考え方】
+まず見るところ：but の前の a duty と、2文目の She feels honored
+1文目は but（しかし）で2つの考えを比べています。
+Some of Professor Kimble's co-workers at the university consider teaching to be a duty（大学でのキンブル教授の同僚の中には、教えることを義務だと考える人もいる）
+duty は「義務（しなければならないこと）」です。but のあとは次のとおりです。
+she thinks of it as a ( )（彼女はそれを（　）だと考えている）
+it は teaching（教えること）を指します。この部分は、「義務」とは違う考え方になるはずです。
+2文目は次のとおりです。
+She feels honored to help young people learn.（彼女は、若い人たちが学ぶのを手助けすることを名誉に感じている）
+honored は「光栄に思う、名誉に感じる」という意味です。privilege は「光栄なこと、（限られた人だけに与えられる）特権」という意味で、「させてもらえてありがたいこと」という気持ちを表します。「しなければならない義務」と反対向きで、2文目の「名誉に感じる」ともつながるので、3が正解です。
+この問題の型：対比（duty：義務⇔privilege：光栄なこと）／言いかえ（privilege → feels honored）
+【ほかの選択肢】
+1 component は「構成要素、部品」です。「教えることを部品だと考えている」となり、意味が通りません。「名誉に感じる」ともつながりません。
+2 boundary は「境界、境目」です。「教えることを境界だと考えている」となり、意味が通りません。
+4 pillar は「柱」や「（組織などを）支える中心的な人やもの」です。教えることを「柱」と考えても、2文目の「名誉に感じている」という気持ちの説明にはなりません。また、but の前の「義務」と反対向きの考え方にもなりません。
+【覚えるポイント】
+・privilege：「光栄なこと、特権」。think of A as a privilege で「Aを光栄なことだと考える」となり、「させてもらえてありがたい」という気持ちを表します。
+・A but B の形で2人（またはグループ）の考えが比べられているときは、Aの語（ここでは duty）と反対向きの語を選び、次の文の気持ち（ここでは honored）と合うかを確かめると手がかりになります。

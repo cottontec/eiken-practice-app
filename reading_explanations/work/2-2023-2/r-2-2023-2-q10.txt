@@ -1,0 +1,31 @@
+---
+choices: punish | defeat | filter | steady
+answerText: steady
+reviewed: yes
+---
+【正解】4 steady（安定させる、〔体を〕しっかり支える）
+【和訳】
+（英文）
+Kate took a walk by the sea yesterday. Some of the rocks were wet and slippery, so she often had to ［steady］ herself to avoid falling into the water.
+（訳）
+ケイトは昨日、海辺を散歩しました。岩のいくつかがぬれていてすべりやすかったので、彼女は水に落ちないように、たびたび自分の体を（安定させ）なければなりませんでした。
+（選択肢の意味）
+1 punish：罰する
+2 defeat：負かす、打ち破る
+3 filter：ろ過する（こして不純物を取り除く）
+4 steady：安定させる、しっかり支える
+【考え方】
+まず見るところ：wet and slippery, so と、空所の後ろの to avoid falling into the water
+Some of the rocks were wet and slippery（岩のいくつかがぬれていてすべりやすかった）
+そのあとに so（それで、だから）が続くので、後半はすべりやすい岩の上でどうしなければならなかったかを表しています。
+she often had to (　) herself to avoid falling into the water（彼女は水に落ちないように、たびたび自分自身を（　）しなければならなかった）
+to avoid falling は「落ちるのを避けるために」という意味です。すべりやすい岩の上で落ちないためには、体がぐらつかないようにすることが必要です。
+steady は「安定した」という意味の形容詞としてよく使われますが、動詞では「安定させる、しっかり支える」という意味になります。steady herself で「自分の体を安定させる」となり、文の流れに合います。ですから4が正解です。
+この問題の型：因果（slippery, so ～）
+【ほかの選択肢】
+1 punish は「罰する」です。punish herself（自分を罰する）では、水に落ちないようにするための行動になりません。
+2 defeat は「負かす、打ち破る」です。defeat herself（自分自身を負かす）となり、すべりやすい岩の上での行動として意味が通りません。
+3 filter は「ろ過する（こして不純物を取り除く）」です。水などに使う言葉で、filter herself では意味が通りません。
+【覚えるポイント】
+・steady oneself：「体を安定させる、体のバランスを保つ」。steady は形容詞では「安定した、しっかりした」です。
+・to avoid -ing（～するのを避けるために）があるときは、何を避けたいのか（ここでは水に落ちること）から、空所の動作を考えるのが手がかりになります。

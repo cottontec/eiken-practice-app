@@ -1,0 +1,32 @@
+---
+choices: Children enjoyed the stories about the character so much that it was made into a film. | Children could buy the toys and other objects that were used by the character. | It was made into a doll at the same time its stories were first published. | It was the first character from a book to have many products based on it.
+answerText: It was the first character from a book to have many products based on it.
+reviewed: yes
+---
+【正解】4 It was the first character from a book to have many products based on it.（それは、その登場人物をもとにした商品がたくさん作られた、本の登場人物として最初のものだった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ピーターラビットについて、ほかにない点は何でしたか。
+1 Children enjoyed the stories about the character so much that it was made into a film.（子どもたちがその登場人物の物語をとても楽しんだので、映画になった。）
+2 Children could buy the toys and other objects that were used by the character.（子どもたちが、その登場人物が使っていたおもちゃやそのほかの物を買うことができた。）
+3 It was made into a doll at the same time its stories were first published.（その物語が初めて出版されたのと同時に、人形になった。）
+4 It was the first character from a book to have many products based on it.（それは、その登場人物をもとにした商品がたくさん作られた、本の登場人物として最初のものだった。）
+【考え方】
+設問の unique は「ほかにない、唯一の」という意味です。第4段落に、ピーターラビットが「初めて」だったことが書かれています。
+・After publishing the first book, she made a doll of Peter Rabbit and patented it. This was the first time a character from a book had been patented.（最初の本を出版したあと、彼女はピーターラビットの人形を作り、その特許権を取った。本の登場人物が特許権を取られたのは、これが初めてだった）
+・She then went on to develop dolls, games, dishes, and other products.（彼女はその後さらに、人形やゲーム、食器、そのほかの商品を開発していった）
+・Today, we are used to seeing toys and products connected with characters from books for sale. Peter Rabbit, though, was the first of these.（今日、私たちは、本の登場人物に関連したおもちゃや商品が売られているのを見ることに慣れている。しかし、ピーターラビットはそうしたものの最初だった）
+本文と選択肢を対にすると、次のようになります。
+本文 toys and products connected with characters from books ... Peter Rabbit, though, was the first of these → 読み取れること：本の登場人物に関連した商品が作られたのは、ピーターラビットが最初だった
+本文 dolls, games, dishes, and other products（人形、ゲーム、食器、そのほかの商品）→ 選択肢の many products（たくさんの商品）
+この内容を、選択肢では It was the first character from a book to have many products based on it と表しています。connected with ～（～に関連した）と based on ～（～をもとにした）は、ここではほぼ同じ内容を指しています。
+本の登場人物をもとにした商品は今ではよくありますが、ピーターラビットはその最初でした。ですから4が正解です。
+【ほかの選択肢】
+1 ピーターラビットが映画になったという話は本文にありません。
+2 本文にあるのは、人形やゲーム、食器など、本に関連した商品が作られたことです。それらが物語の中でピーターラビットが使っていた物だとは書かれていません。
+3 本文には After publishing the first book, she made a doll of Peter Rabbit（最初の本を出版したあと、ピーターラビットの人形を作った）とあります。人形は本の出版のあとに作られたので、「同時に」という点が本文と違います。
+【覚えるポイント】
+・be used to -ing：「～することに慣れている」。
+・connected with ～：「～に関連した」。

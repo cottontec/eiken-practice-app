@@ -1,0 +1,27 @@
+---
+choices: arguing | spilling | convincing | maintaining
+answerText: spilling
+reviewed: yes
+---
+【正解】2 spilling（こぼすこと）
+【和訳】
+（英文）
+Yesterday was a hot day at the zoo, so Heather bought an ice cream. It melted so quickly that she could not help ［spilling］ some on her dress.
+（訳）
+昨日は動物園で暑い日だったので、ヘザーはアイスクリームを買いました。それがとても早くとけたので、彼女は服にいくらか（こぼして）しまうのを避けられませんでした。
+（選択肢の意味）
+1 arguing：言い争うこと
+2 spilling：こぼすこと
+3 convincing：納得させること
+4 maintaining：保つこと、維持すること
+【考え方】
+2文目は so ～ that …（とても～なので…）の形です。It melted so quickly（それはとても早くとけた）が原因で、that 以下がその結果です。It はヘザーが買ったアイスクリームを指します。
+結果の部分には could not help -ing という形が使われています。これは「～せずにはいられなかった、どうしても～してしまった」という意味です。
+アイスクリームがとても早くとけると、とけたアイスが垂れて服に付いてしまいます。そこで spill（こぼす）の -ing 形を入れると、could not help spilling some on her dress（服に少しこぼしてしまうのを避けられなかった）となり、原因と結果がつながります。some は「アイスクリームのいくらか」という意味です。
+【ほかの選択肢】
+1 arguing は「言い争うこと」です。argue は相手と意見をぶつけ合うときに使う語で、some on her dress（服にいくらか）とつながらず、アイスがとけたという原因とも合いません。
+3 convincing は「（人を）納得させること」です。アイスクリームを服に納得させる、という意味の通らない文になります。
+4 maintaining は「（状態を）保つこと、維持すること」です。「服の上にいくらか保つのを避けられなかった」となり、とけたアイスの様子を表せません。
+【覚えるポイント】
+・cannot help -ing：「～せずにはいられない、どうしても～してしまう」。
+・so ～ that …：「とても～なので…」。原因と結果を表します。

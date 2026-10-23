@@ -1,0 +1,27 @@
+---
+choices: established | endured | disposed | deceived
+answerText: deceived
+reviewed: yes
+---
+【正解】4 deceived（だました）
+【和訳】
+（英文）
+Jack ［deceived］ his friends by telling them that he was working as a top chef at an expensive restaurant. Actually, he was a waiter and did not do any cooking.
+（訳）
+ジャックは、値段の高いレストランで一流の料理人として働いていると友人たちに話して、彼らを（だましました）。実際には、彼はウエーターで、料理はまったくしていませんでした。
+（選択肢の意味）
+1 established：設立した、確立した
+2 endured：耐えた、我慢した
+3 disposed：配置した、（dispose of で）処分した
+4 deceived：だました
+【考え方】
+空所のあとの by telling them that ～ は「彼らに～と話すことによって」という意味です。ジャックは友人たちに「高級レストランで一流の料理人として働いている」と話しました。
+次の文は Actually（実際には）で始まり、he was a waiter and did not do any cooking（彼はウエーターで、料理はまったくしていなかった）と続きます。not ～ any は「まったく～ない」という意味です。つまり、ジャックが友人に話したことは本当ではありませんでした。
+本当でないことを話して相手に信じさせることは「だます」です。deceive（だます）の過去形 deceived を入れると「本当でないことを話して友人たちをだました」となり、2つの文がぴったりつながります。ですから、4が正解です。
+【ほかの選択肢】
+1 established は establish（設立する、確立する）の過去形です。「友人たちを設立した」となり、意味が通りません。
+2 endured は endure（耐える、我慢する）の過去形です。「友人たちに耐えた」では、うその話をしたことの説明になりません。
+3 disposed は dispose（配置する）の過去形で、dispose of ～ の形なら「～を処分する」という意味になります。どちらの意味でも「料理人だと話して友人たちを（　）した」には合いません。
+【覚えるポイント】
+・deceive：「（人を）だます」。deceive A by -ing で「～することでAをだます」。
+・Actually：「実際には、本当は」。前に書かれたことと事実が違うときによく使われます。

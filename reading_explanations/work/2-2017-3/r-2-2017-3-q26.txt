@@ -1,0 +1,28 @@
+---
+choices: meeting as few people | spending as much money | visiting as many places | using as little gasoline
+answerText: using as little gasoline
+reviewed: yes
+---
+【正解】4 using as little gasoline（〔as ～ as possible の形で〕できるだけ少ないガソリンを使い）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+（どれも、あとの as possible と組み合わせて「できるだけ～」という意味になります）
+1 meeting as few people（できるだけ少ない人に会い）
+2 spending as much money（できるだけ多くのお金を使い）
+3 visiting as many places（できるだけ多くの場所を訪れ）
+4 using as little gasoline（できるだけ少ないガソリンを使い）
+【考え方】
+空所は第3段落の They drive ordinary cars as far as they can while (26) as possible.（彼らは、（26）ながら、ふつうの車をできるだけ遠くまで走らせる）にあります。They は、効率のよい運転を趣味にしている hypermiling（ハイパーマイリング）をする人々です。as ～ as possible は「できるだけ～」、while は「～しながら」という意味です。
+空所の前で、ハイパーマイリングは this activity of efficient driving（効率のよい運転というこの活動）を趣味にしたものだと説明されています。効率のよい運転とは、この文章の流れでは、少ないガソリンで走ることです。
+空所のあとの文も見ます。
+The best hypermilers can drive a car for hundreds of kilometers on just a few liters of fuel.（最も優れたハイパーマイラーは、ほんの数リットルの燃料で、車を何百キロメートルも走らせることができる）
+「できるだけ遠くまで」と「ほんの数リットルの燃料で」が対応しています。ですから、空所には「できるだけ少ないガソリンを使いながら」が入ります。4が正解です。
+【ほかの選択肢】
+1 「できるだけ少ない人に会いながら」は、効率のよい運転の話とは関係がありません。人と会うことについては本文に書かれていません。
+2 「できるだけ多くのお金を使いながら」は、本文の流れと反対です。この文章は、ガソリンを節約する運転の仕方について述べています。
+3 「できるだけ多くの場所を訪れながら」も本文にありません。ハイパーマイリングは、少ない燃料で遠くまで走ることを目指すもので、訪れる場所の数は話題になっていません。
+【覚えるポイント】
+・as ～ as possible：「できるだけ～」。as little gasoline as possible で「できるだけ少ないガソリン」。
+・little は数えられないもの（gasoline など）の量が少ないことに、few は数えられるもの（people など）の数が少ないことに使います。

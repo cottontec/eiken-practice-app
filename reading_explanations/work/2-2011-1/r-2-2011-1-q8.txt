@@ -1,0 +1,24 @@
+---
+choices: duties | enemies | reflections | policies
+answerText: enemies
+reviewed: yes
+---
+【正解】2 enemies（敵）
+【和訳】
+1837年、ポッサムと呼ばれる動物が初めてニュージーランドに持ちこまれました。ポッサムには天敵がいなかったので、その数は増え、国じゅうにすばやく広がりました。
+（選択肢の意味）
+1 duties：義務
+2 enemies：敵
+3 reflections：反射、映った姿
+4 policies：政策、方針
+【考え方】
+2文目の It had no natural (　), so its numbers grew and it spread quickly throughout the country.（それには自然の〜がいなかったので、その数は増え、国じゅうにすばやく広がった）を見ます。It はポッサムを指します。
+so（だから）の前に、数が増えて広がった理由が書かれています。動物の数がどんどん増えるのは、その動物を食べたりおそったりする相手がいないときです。
+natural enemy は「天敵（自然の中で、その動物を食べたりおそったりする動物）」という意味です。had no natural enemies で「天敵がいなかった」となり、「だから数が増えて広がった」と理由がつながります。したがって2が正解です。
+【ほかの選択肢】
+1 duties は「義務」です。「ポッサムには自然の義務がなかった」となり、数が増えた理由になりません。
+3 reflections は「反射、（水や鏡に）映った姿」です。「自然の映った姿がなかった」となり、意味が通りません。
+4 policies は「政策、方針」です。動物が政策をもつことはなく、意味が通りません。
+【覚えるポイント】
+・natural enemy：「天敵」。
+・spread throughout ～：「～じゅうに広がる」。

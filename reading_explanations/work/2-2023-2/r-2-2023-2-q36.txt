@@ -1,0 +1,34 @@
+---
+choices: opening schools in Venice where people could learn to read. | printing more and more books about topics such as religion and law. | writing a series of novels about artists and philosophers in Venice. | finding ways to reduce the size, weight, and prices of books.
+answerText: finding ways to reduce the size, weight, and prices of books.
+reviewed: yes
+---
+【正解】4 finding ways to reduce the size, weight, and prices of books.（本の大きさ、重さ、値段を減らす方法を見つけること。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Aldus Manutius helped to increase the popularity of books by（アルドゥス・マヌティウス（アルド・マヌーツィオ）は、～ことによって、本の人気を高める助けとなりました。）
+1 opening schools in Venice where people could learn to read.（人々が読み方を学べる学校をベネチアに開く）
+2 printing more and more books about topics such as religion and law.（宗教や法律などの話題についての本をますます多く印刷する）
+3 writing a series of novels about artists and philosophers in Venice.（ベネチアの芸術家や哲学者についての一連の小説を書く）
+4 finding ways to reduce the size, weight, and prices of books.（本の大きさ、重さ、値段を減らす方法を見つける）
+【考え方】
+まず見るところ：第3段落の Manutius developed techniques to produce smaller, lighter, and cheaper books. と These developments made books more popular ～
+Until the late 15th century, books were large, heavy, and very expensive.（15世紀後半まで、本は大きく、重く、とても高価だった）
+Manutius developed techniques to produce smaller, lighter, and cheaper books.（マヌティウスは、〔それまでの本より〕小さく、軽く、安い本を作る技術を開発した）
+smaller、lighter、cheaper は、small（小さい）、light（軽い）、cheap（安い）の比較級（「より～」を表す形）で、それまでの「大きく、重く、高価な」本と比べています。
+These developments made books more popular and easier to buy for ordinary people.（こうした進歩によって、本は〔それまでより〕人気が高まり、ふつうの人々にとって買いやすいものになった）
+These developments（こうした進歩）は、小さく軽く安い本を作る技術や、小説などを印刷したことを指しています。
+本文と選択肢を対にすると、次のようになります。
+本文 developed techniques to produce smaller, lighter, and cheaper books（より小さく、軽く、安い本を作る技術を開発した）＝ 選択肢 finding ways to reduce the size, weight, and prices of books（本の大きさ、重さ、値段を減らす方法を見つける）
+本文 made books more popular（本の人気を高めた）＝ 設問 increase the popularity of books（本の人気を高める）
+ですから4が正解です。
+この問題の型：言いかえ（smaller, lighter, and cheaper ＝ reduce the size, weight, and prices）
+【ほかの選択肢】
+1 学校を開いたという話は本文にありません。マヌティウスが行ったのは、印刷会社を作り、本の作り方を変えたことです。
+2 本文には They were mostly about religion and law.（それまでの本はおもに宗教や法律についてだった）とあり、マヌティウスはそれに加えて novels and books about art and philosophy（小説や芸術・哲学の本）を印刷しました。宗教や法律の本をますます多く印刷したとは書かれていません。
+3 本文の he printed novels ～ は「小説を印刷した」で、自分で小説を書いたのではありません。また、芸術家や哲学者についての小説ではなく、「芸術や哲学についての本」を印刷したと書かれています。
+【覚えるポイント】
+・比較級（smaller、cheaper など）は、それまでのものと比べて「より～」を表します。smaller books を作る ＝ 本の大きさを reduce（減らす）、のように言いかえられることがあります。
+・print（印刷する）と write（書く）は別の動作です。選択肢の動詞が本文と同じかどうかを確かめるのが手がかりになります。

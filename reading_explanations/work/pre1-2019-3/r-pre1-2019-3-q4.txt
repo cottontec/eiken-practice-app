@@ -1,0 +1,30 @@
+---
+choices: expansively | abstractly | deliberately | bashfully
+answerText: deliberately
+reviewed: yes
+---
+【正解】3 deliberately（わざと、故意に）
+【和訳】
+（英文）
+Ed apologized to Kim for breaking her vase, but Kim was not convinced it was an accident. She accused him of breaking it ［deliberately］.
+（訳）
+エドはキムの花びんを割ったことをキムに謝ったが、キムはそれが事故だとは納得していなかった。キムは、エドが花びんを（わざと）割ったと責めた。
+（選択肢の意味）
+1 expansively：広々と、（気持ちが）打ち解けて
+2 abstractly：抽象的に（具体的でなく、ぼんやりと）
+3 deliberately：わざと、故意に
+4 bashfully：恥ずかしそうに
+【考え方】
+まず見るところ：前の文の Kim was not convinced it was an accident
+Kim was not convinced it was an accident（キムはそれが事故だとは納得していなかった）
+be convinced は「納得している、確信している」という意味です。not があるので、キムは「事故（うっかり起きたこと）だった」とは思っていません。
+She accused him of breaking it ( ).（キムは、エドがそれを（　）割ったと責めた）
+accuse A of ～ing は「Aが～したと責める（非難する）」という意味です。事故ではないと思っているのですから、キムは「わざと割った」と責めたと考えられます。deliberately は「わざと、故意に」なので、3が正解です。
+この問題の型：対比（accident（事故・偶然）⇔ deliberately（わざと））
+【ほかの選択肢】
+1 expansively は「広々と、（気持ちが）打ち解けて」です。「打ち解けて割った」となり、事故ではないと疑う話とつながりません。
+2 abstractly は「抽象的に」です。花びんを割るという具体的な動作に「抽象的に」を付けても意味が通りません。
+4 bashfully は「恥ずかしそうに」です。「恥ずかしそうに割った」と責めても、事故かどうかを疑っている前の文とつながりません。
+【覚えるポイント】
+・deliberately：「わざと、故意に」。an accident（事故、うっかり起きたこと）と反対の意味を表します。
+・前の文に not convinced it was an accident（事故だとは思っていない）のような否定があるときは、その反対の内容を表す語を探すと手がかりになります。

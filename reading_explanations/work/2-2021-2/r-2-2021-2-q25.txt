@@ -1,0 +1,27 @@
+---
+choices: Later on | At last | In other words | On the other hand
+answerText: On the other hand
+reviewed: yes
+---
+【正解】4 On the other hand（一方、それに対して）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Later on（あとで、のちに）
+2 At last（ついに、やっと）
+3 In other words（言いかえると、つまり）
+4 On the other hand（一方、それに対して）
+【考え方】
+空所は第2段落の (25), the cows that had been kept alone continued to react ... の文頭です。空所の前とあとで、だれのどんな様子が書かれているかを比べます。
+・空所の前：The cows that had been kept in pairs were interested in the container at first but soon ignored it.（2頭1組で飼われていた牛は、最初はその容器に興味を示したが、すぐに無視するようになった）
+・空所のあと：the cows that had been kept alone continued to react as if it was the first time they had seen the container（1頭だけで飼われていた牛は、まるでその容器を見たのが初めてであるかのような反応をし続けた）
+in pairs は「2頭1組で」、alone は「1頭だけで」です。前は「2頭で飼われた牛」、あとは「1頭で飼われた牛」と、違うグループの牛について書かれています。そして、前の牛は「すぐに無視した」のに、あとの牛は「反応し続けた」と、反応も反対です。as if ～ は「まるで～であるかのように」という意味です。
+2つのものを比べて違いを示すときには、On the other hand（一方、それに対して）を使います。ですから4が正解です。
+【ほかの選択肢】
+1 Later on は「あとで、のちに」で、時間の順序を表します。空所のあとは、前と同じ牛の「その後」の様子ではなく、別のグループの牛の様子なので合いません。
+2 At last は「ついに、やっと」で、待っていたことや長く続いたことの結果を表します。1頭で飼われた牛が反応し続けたことは、何かの末にやっと起きた結果ではないので合いません。
+3 In other words は「言いかえると、つまり」で、前の内容を別の言葉で言い直すときに使います。空所のあとは、前の内容の言い直しではなく、別のグループの反対の反応なので合いません。
+【覚えるポイント】
+・On the other hand：「一方、それに対して」。2つのものの違いを示すときに使います。
+・as if ～：「まるで～であるかのように」。

@@ -1,0 +1,30 @@
+---
+choices: matrimony | federation | horizon | correspondence
+answerText: correspondence
+reviewed: yes
+---
+【正解】4 correspondence（手紙のやりとり、文通）
+【和訳】
+（英文）
+American presidents Thomas Jefferson and John Adams exchanged letters with each other for over 50 years. This ［correspondence］ is an important part of American history.
+（訳）
+アメリカの大統領だったトーマス・ジェファーソンとジョン・アダムズは、50年以上にわたって互いに手紙をやりとりした。この（手紙のやりとり）は、アメリカの歴史の重要な一部である。
+（選択肢の意味）
+1 matrimony：結婚（していること）
+2 federation：連邦、連合
+3 horizon：地平線、水平線
+4 correspondence：手紙のやりとり、文通
+【考え方】
+まず見るところ：前の文の exchanged letters with each other と、空所の前の This
+exchanged letters with each other for over 50 years（50年以上にわたって互いに手紙をやりとりした）
+exchange letters は「手紙をやりとりする」という意味です。
+This (　) is an important part of American history.（この（　）は、アメリカの歴史の重要な一部である）
+This（この）は、前の文に書かれたことを指しています。前の文の内容は「2人が手紙をやりとりしたこと」なので、それを一言で表す語が入ります。correspondence は「手紙のやりとり、文通」なので、4が正解です。
+この問題の型：指示語（This ～ が前の文の exchanged letters を指す）
+【ほかの選択肢】
+1 matrimony は「結婚」です。前の文には2人が結婚したとは書かれておらず、This が指す「手紙のやりとり」を表しません。
+2 federation は「連邦、連合」です。国や団体の集まりを表す語で、前の文の「手紙のやりとり」を指すことはできません。
+3 horizon は「地平線、水平線」です。前の文の内容と関係がなく、意味が通りません。
+【覚えるポイント】
+・correspondence：「手紙のやりとり、文通」。exchange letters：「手紙をやりとりする」。
+・空所の直前に This があるときは、前の文の内容を一言でまとめる語が入ることが多いので、前の文の動詞（ここでは exchanged letters）を名詞で言いかえるとどうなるかを考えます。

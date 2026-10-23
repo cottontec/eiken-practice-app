@@ -1,0 +1,21 @@
+---
+choices: mistake | his | made | for | up
+answerText: his
+order: 3 5 4 2 1
+reviewed: yes
+---
+【正解】2 his（この問題の4番目）
+【完成文】
+But he ( made up for his mistake ) by taking her out to a nice restaurant for dinner.
+並べ方：3 made → 5 up → 4 for → 2 his → 1 mistake（2番目は5、4番目は2）
+【和訳】
+レイチェルは、夫が結婚記念日のことを忘れていたので、とても腹を立てていました。でも夫は、すてきなレストランへ夕食に連れて行くことで、自分の失敗の埋め合わせをしました。
+【考え方】
+夫は結婚記念日を忘れるという失敗をしました。But（でも）のあとで、夫はレイチェルを夕食に連れて行っています。失敗のおわびをした、という流れです。
+he のあとには動詞が必要なので 3 made を置きます。続けて 5 up、4 for と並べると、make up for ～（～の埋め合わせをする）という決まった言い方になります。ここまでで3番目までが決まります。
+for のあとには「何の埋め合わせか」を表す名詞のまとまりが来ます。2 his（彼の）は名詞の前につく語なので、1 mistake（失敗）の前に置き、his mistake とします。
+したがって4番目は2 his です。
+mistake his の順にすると、his のあとにつく名詞がなくなり、文が成り立ちません。
+【覚えるポイント】
+・make up for ～：「～の埋め合わせをする」。made は make の過去の形です。
+・take ～ out to ...：「～を…へ連れ出す」。take her out to a nice restaurant は「彼女をすてきなレストランへ連れて行く」です。

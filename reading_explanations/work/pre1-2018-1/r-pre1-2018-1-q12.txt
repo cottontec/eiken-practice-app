@@ -1,0 +1,29 @@
+---
+choices: sculptures | boundaries | columns | fatalities
+answerText: fatalities
+reviewed: yes
+---
+【正解】4 fatalities（〈事故や災害による〉死者）
+【和訳】
+（英文）
+A strong storm hit the small island nation last week. Luckily, there were no ［fatalities］, but 11 people received minor injuries and were treated at hospitals.
+（訳）
+先週、強い嵐がその小さな島国を襲った。幸いにも（死者）は出なかったが、11人が軽いけがをして病院で手当てを受けた。
+（選択肢の意味）
+1 sculptures：彫刻
+2 boundaries：境界、境目
+3 columns：柱、（新聞などの）コラム
+4 fatalities：（事故や災害による）死者
+【考え方】
+まず見るところ：空所の前の Luckily, there were no と、後ろの but 11 people received minor injuries
+Luckily は「幸いにも」です。嵐のあとで「幸いにも〇〇がなかった」と言っているので、空所には嵐で起こると困ることが入ります。
+but 11 people received minor injuries and were treated at hospitals（しかし11人が軽いけがをして、病院で手当てを受けた）
+but（しかし）でつないで「軽いけが人は出た」と言っています。「けが人は出たが、〇〇はいなかった」という流れなので、けがよりも重い被害、つまり死者が入ると分かります。fatality は「（事故や災害による）死者」で、fatalities はその複数形です。よって4が正解です。
+この問題の型：対比（no fatalities, but minor injuries）
+【ほかの選択肢】
+1 sculptures は「彫刻」です。「幸いにも彫刻がなかった」では、けが人の話とつながりません。
+2 boundaries は「境界」です。嵐の被害として「境界がなかったのは幸い」とは言えず、意味が通りません。
+3 columns は「柱」です。「幸いにも柱がなかった」では、but 以下のけが人の話と対にならず、意味が通りません。
+【覚えるポイント】
+・fatality：「（事故や災害による）死者」。minor injuries：「軽いけが」。
+・Luckily, there were no ～, but ... の形では、but のあとの被害（ここでは軽いけが）より重い被害が空所に入る手がかりになります。

@@ -1,0 +1,30 @@
+---
+choices: elect | impact | sweep | launch
+answerText: launch
+reviewed: yes
+---
+【正解】4 launch（打ち上げる）
+【和訳】
+（英文）
+It was raining very hard in the morning, so the government had to wait to ［launch］ the rocket into space.
+（訳）
+朝はとても激しく雨が降っていたので、政府はロケットを宇宙へ（打ち上げる）のを待たなければなりませんでした。
+（選択肢の意味）
+1 elect：（選挙で）選ぶ
+2 impact：強い影響を与える、衝突する
+3 sweep：掃く、さっと払う
+4 launch：打ち上げる、発射する
+【考え方】
+まず見るところ：空所のあとの the rocket into space
+the rocket into space（ロケットを宇宙へ）
+ロケットを宇宙へ向けてすることは「打ち上げる」ことです。launch は「（ロケットなどを）打ち上げる、発射する」という意味で、launch ～ into space で「～を宇宙へ打ち上げる」となります。
+It was raining very hard in the morning（朝はとても激しく雨が降っていた）
+こちらは、打ち上げを待たなければならなかった理由です。so（だから）でつながっているので、悪天候のために打ち上げを遅らせた、という流れになります。ですから、4が正解です。
+この問題の型：語の意味・組み合わせ（launch ～ into space）、因果（雨→待った）
+【ほかの選択肢】
+1 elect は「（選挙で）選ぶ」です。「ロケットを宇宙へ選ぶ」となり、意味が通りません。
+2 impact は「強い影響を与える、衝突する」です。「ロケットを宇宙へ衝突させる」となり、雨で待たなければならなかった話と合いません。
+3 sweep は「掃く、さっと払う」です。「ロケットを宇宙へ掃く」となり、意味が通りません。
+【覚えるポイント】
+・launch：「（ロケットなどを）打ち上げる」。新しい商品やサービスを「売り出す、始める」という意味でも使われます。
+・動詞を選ぶときは、そのあとの「目的語＋into ～」などの形をまず訳して、その動作にふさわしい動詞を考えます。had to wait to ～（～するのを待たなければならなかった）は、過去の文なので had to になっています。

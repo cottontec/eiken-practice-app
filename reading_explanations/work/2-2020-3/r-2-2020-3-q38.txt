@@ -1,0 +1,29 @@
+---
+choices: George Washington introduced the idea of recycling iron to the United States. | There was an increase in the need for metals during the 19th century. | Metals can reduce the amount of poisons released by electricity production. | Companies spend about $60 million each year on gold for new smartphones.
+answerText: There was an increase in the need for metals during the 19th century.
+reviewed: yes
+---
+【正解】2 There was an increase in the need for metals during the 19th century.（19世紀の間に、金属の必要性が高まった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：次の記述のうち、正しいものはどれですか。
+1 George Washington introduced the idea of recycling iron to the United States.（ジョージ・ワシントンが、鉄をリサイクルするという考えをアメリカに取り入れた。）
+2 There was an increase in the need for metals during the 19th century.（19世紀の間に、金属の必要性が高まった。）
+3 Metals can reduce the amount of poisons released by electricity production.（金属は、電気をつくるときに出る毒の量を減らすことができる。）
+4 Companies spend about $60 million each year on gold for new smartphones.（企業は、新しいスマートフォンのための金に、毎年約6,000万ドルを使っている。）
+【考え方】
+本文全体から正しいものを選ぶ設問なので、選択肢を1つずつ本文と照らし合わせます。2の「19世紀」は、第3段落の初めに出てきます。
+During the 19th century, large companies specializing in recycling were established to meet a higher demand for metals.（19世紀には、〔それまでより〕高まった金属の需要にこたえるために、リサイクルを専門とする大企業がつくられた）
+demand は「需要（ある物が求められる量）」という意味です。a higher demand は、比較の形 higher（より高い）を使って、需要がそれまでより高まったことを表しています。
+本文と選択肢を対にすると、次のようになります。
+本文 a higher demand for metals（〔それまでより〕高まった金属の需要）＝ 選択肢 an increase in the need for metals（金属の必要性の高まり）
+demand（需要）が need（必要性）に、higher（より高い）が increase（増加）に言いかえられています。ですから2が正解です。
+【ほかの選択肢】
+1 本文には Americans were encouraged to donate iron items to be recycled for George Washington's army（アメリカの人々は、ジョージ・ワシントンの軍隊のためにリサイクルされるよう、鉄製品を寄付することを勧められた）とあります。ワシントンの軍隊のために鉄が集められたのであって、ワシントンがその考えを取り入れたとは書かれていません。だれが寄付を勧めたのかも書かれていません。
+3 本文には、金属を作り出すときに多くの毒が出ることと、大量の電気が使われることが書かれています。金属が、電気をつくるときに出る毒を減らすという話はありません。
+4 本文の約6,000万ドルは、アメリカ人が使い終わった携帯電話を捨てることで、毎年埋め立て地に捨てている金と銀の金額です。企業が新しいスマートフォンの金に使っている金額ではありません。また、本文は「金と銀」で、金だけではありません。
+【覚えるポイント】
+・demand for ～：「～の需要（求められる量）」。need for ～（～の必要性）と言いかえられることがあります。
+・specialize in ～：「～を専門とする」。companies specializing in recycling は「リサイクルを専門とする会社」です。

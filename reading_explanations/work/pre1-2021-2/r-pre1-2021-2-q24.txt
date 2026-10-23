@@ -1,0 +1,35 @@
+---
+choices: get by | opt for | call off | play up
+answerText: call off
+reviewed: yes
+---
+【正解】3 call off（中止する、取りやめる）
+【和訳】
+（英文）
+A: Honey, we may have to ［call off］ the family picnic this week. The weather forecast is predicting rain.
+B: In that case, we can just have a pizza party at home instead.
+（訳）
+A：ねえ、今週の家族のピクニックは（中止し）なければならないかもしれないね。天気予報では雨が予想されているよ。
+B：それなら、代わりに家でピザパーティーをすればいいね。
+（選択肢の意味）
+1 get by：なんとかやっていく
+2 opt for：～を選ぶ
+3 call off：中止する、取りやめる
+4 play up：強調する、大げさに言う
+【考え方】
+まず見るところ：Aのあとの文の predicting rain と、Bの instead
+Aのあとの文を確かめます。
+The weather forecast is predicting rain.（天気予報では雨が予想されている）
+雨が降れば、外でのピクニックはできません。
+Bの答えも見ます。
+In that case, we can just have a pizza party at home instead.（それなら、代わりに家でピザパーティーをすればいいね）
+instead は「その代わりに」という意味です。ピクニックをやめて、家でパーティーをする代わりの案を出しています。
+ですから、Aは「ピクニックを中止しなければならないかもしれない」と言ったと分かります。call off は「（予定していたことを）中止する」なので、3が正解です。
+この問題の型：因果（雨の予報→ピクニックを中止）／言いかえ（instead が中止の代わりの案を示す）
+【ほかの選択肢】
+1 get by は「なんとかやっていく」です。後ろに the family picnic を直接置いて「ピクニックをなんとかやっていく」とは言わず、意味が通りません。
+2 opt for は「～を選ぶ」です。「雨の予報なのでピクニックを選ばなければならない」では、Bが代わりの案を出す流れとつながりません。
+4 play up は「強調する、大げさに言う」です。「ピクニックを強調しなければならない」では、雨の予報とも、Bの代わりの案ともつながりません。
+【覚えるポイント】
+・call off ～：「（予定していたことを）中止する」。
+・相手が instead（その代わりに）を使って別の案を出しているときは、もとの予定がなくなる話をしていたことが多く、空所に「中止する」などの語句が入る手がかりになります。

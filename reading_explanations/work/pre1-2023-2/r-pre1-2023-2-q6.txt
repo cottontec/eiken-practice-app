@@ -1,0 +1,29 @@
+---
+choices: tactic | bait | currency | menace
+answerText: currency
+reviewed: yes
+---
+【正解】3 currency（通貨）
+【和訳】
+（英文）
+Tyler's father suggested that he get some foreign ［currency］ from his local bank before his vacation because changing money abroad is often more expensive.
+（訳）
+外国でお金を両替するほうが高くつくことが多いので、休暇の前に地元の銀行で外国の（通貨）をいくらか手に入れておくように、とタイラーの父親は彼に勧めました。
+（選択肢の意味）
+1 tactic：作戦、かけひき
+2 bait：（魚などをつるための）えさ
+3 currency：通貨（その国で使われているお金）
+4 menace：おどし、危険なもの
+【考え方】
+まず見るところ：文の後半の because changing money abroad is often more expensive
+because changing money abroad is often more expensive（外国でお金を両替するほうが高くつくことが多いので）
+changing money は「お金を両替すること（ある国のお金を別の国のお金に替えること）」、abroad は「外国で」です。more expensive は「より高くつく」という意味で、外国での両替を避けたほうがよい理由として述べられています。
+「外国で両替すると高くつくから、出発前に地元の銀行で手に入れておく」という流れなので、手に入れるのは外国のお金だと分かります。foreign currency は「外国の通貨」なので、3が正解です。
+この問題の型：因果（外国での両替は高い→地元の銀行で外国のお金を手に入れる）／語の意味・組み合わせ（foreign currency）
+【ほかの選択肢】
+1 tactic は「作戦、かけひき」です。「銀行で外国の作戦を手に入れる」となり、両替の話と合いません。
+2 bait は「（魚などをつるための）えさ」です。銀行で手に入れるものではなく、両替の話ともつながりません。
+4 menace は「おどし、危険なもの」です。「銀行で外国の危険なものを手に入れる」となり、意味が通りません。
+【覚えるポイント】
+・foreign currency：「外国の通貨」。changing money（両替）、bank（銀行）などの語といっしょに出てくることが多い組み合わせです。
+・because の後ろに理由が書かれているときは、その理由（ここでは「外国での両替は高い」）から、前半で何を手に入れるのが自然かを考えると手がかりになります。

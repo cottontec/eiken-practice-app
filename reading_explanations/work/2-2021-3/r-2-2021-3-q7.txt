@@ -1,0 +1,34 @@
+---
+choices: confused | promoted | arrested | located
+answerText: confused
+reviewed: yes
+---
+【正解】1 confused（混乱させた）
+【和訳】
+（英文）
+A: Was Bob able to help you with your science homework?
+B: Actually, he just ［confused］ me. I couldn't understand his complicated explanations.
+（訳）
+A：ボブに理科の宿題を手伝ってもらえた？
+B：実は、彼は私を（混乱させた）だけだったよ。彼の複雑な説明が理解できなかったんだ。
+（選択肢の意味）
+1 confused：混乱させた
+2 promoted：昇進させた、（物事を）進めた
+3 arrested：逮捕した
+4 located：（場所を）見つけ出した
+【考え方】
+まず見るところ：Bの2つ目の文 I couldn't understand his complicated explanations.
+I couldn't understand his complicated explanations.（彼の複雑な説明が理解できなかった）
+complicated は「複雑な、ややこしい」です。説明が分からなかったのですから、Bは頭がこんがらがってしまったはずです。
+Actually, he just (　) me.（実は、彼はただ私を（　）しただけだった）
+Aは「ボブは宿題を手伝ってくれたか」とたずねています。Actually（実は）は、相手が思っていることとちがう事実を言うときによく使うので、ボブは役に立たなかった、という答えだと考えられます。
+confuse は「（人を）混乱させる」という意味で、just は「ただ～しただけ」です。he just confused me で「彼は私を混乱させただけだった」となり、前後が自然につながるので、1が正解です。
+この問題の型：因果（説明が複雑→理解できず混乱）、対比（手伝えたか ⇔ Actually 実は）
+【ほかの選択肢】
+2 promoted は promote（昇進させる、（物事を）進める）の過去形です。「彼は私を昇進させただけだった」では、宿題の話とも、説明が分からなかった話ともつながりません。
+3 arrested は arrest（逮捕する）の過去形です。警察などが人をつかまえるときに使う語で、宿題を手伝う話には合いません。
+4 located は locate（（場所を）見つけ出す）の過去形です。「彼は私を見つけ出しただけだった」では、説明が理解できなかったことにつながりません。
+【覚えるポイント】
+・confuse：「（人を）混乱させる」。be confused は「混乱している」です。
+・次に同じ形が出たら：Actually, ～（実は～）で始まる答えは、相手の予想とちがうことを言う合図になります。そのあとに続く理由の文（ここでは「説明が理解できなかった」）が、空所の語を決める手がかりになります。
+・Actually,：「実は」。

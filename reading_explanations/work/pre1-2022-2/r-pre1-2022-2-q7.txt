@@ -1,0 +1,30 @@
+---
+choices: jumble | relic | fraud | treaty
+answerText: relic
+reviewed: yes
+---
+【正解】2 relic（昔から残っているもの、遺物）
+【和訳】
+（英文）
+Typewriters are a ［relic］ of the past. They remind us how far technology has advanced since they were common in offices and homes.
+（訳）
+タイプライターは過去の（遺物）だ。タイプライターは、それがオフィスや家庭でよく見られたころから、技術がどれほど進歩したかを私たちに思い出させてくれる。
+（選択肢の意味）
+1 jumble：ごちゃまぜ、寄せ集め
+2 relic：（昔から残っているもの）遺物、なごり
+3 fraud：詐欺（だますこと）、にせもの
+4 treaty：条約（国と国が結ぶ約束）
+【考え方】
+まず見るところ：空所のあとの of the past と、あとの文の They remind us how far technology has advanced
+They remind us how far technology has advanced since they were common in offices and homes.（タイプライターは、それがオフィスや家庭でよく見られたころから、技術がどれほど進歩したかを私たちに思い出させてくれる）
+remind us ～ は「私たちに～を思い出させる」です。were common（よく見られた）と過去形なので、タイプライターは今ではあまり使われていない古い道具だと考えられます。
+Typewriters are a (　) of the past.（タイプライターは過去の（　）だ）
+今も残っていて、昔の様子を思い出させるものを relic（遺物、なごり）といいます。a relic of the past で「過去の遺物」となるので、2が正解です。
+この問題の型：語の意味・組み合わせ（a relic of the past〈過去の遺物〉）
+【ほかの選択肢】
+1 jumble は「ごちゃまぜ、寄せ集め」です。「タイプライターは過去のごちゃまぜだ」となり、技術の進歩を思い出させるという内容とつながりません。
+3 fraud は「詐欺、にせもの」です。タイプライターがだますためのものだという話はなく、意味が通りません。
+4 treaty は「条約」です。タイプライターは国どうしの約束ではないので、意味が通りません。
+【覚えるポイント】
+・a relic of the past：「過去の遺物」。remind ～ of ... / remind ～ how ...：「～に…を思い出させる」。
+・空所のあとに of the past（過去の）があり、次の文で「昔と今の違い」が説明されているときは、「昔から残っているもの」を表す語が入る手がかりになります。

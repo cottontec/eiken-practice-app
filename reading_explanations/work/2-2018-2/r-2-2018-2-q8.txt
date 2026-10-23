@@ -1,0 +1,27 @@
+---
+choices: formation | currency | envelopes | quarrels
+answerText: formation
+reviewed: yes
+---
+【正解】1 formation（隊形、並び方）
+【和訳】
+（英文）
+All the soccer players went onto the field and quickly got into ［formation］. They were ready for the game to start.
+（訳）
+サッカー選手たちは全員フィールドに出て、すばやく（隊形）につきました。彼らは試合が始まる準備ができていました。
+（選択肢の意味）
+1 formation：隊形、並び方、形成
+2 currency：通貨
+3 envelopes：封筒
+4 quarrels：口論、口げんか
+【考え方】
+最初の文の前半は All the soccer players went onto the field（サッカー選手全員がフィールドに出た）です。そのあと quickly got into（　）（すばやく～に入った）と続きます。
+あとの文の They were ready for the game to start.（彼らは試合が始まる準備ができていた）が手がかりです。試合開始の直前に選手たちがすばやくすることといえば、決められた位置について並ぶことです。
+formation は「隊形（チームなどが決めた並び方）」という意味で、get into formation で「隊形を組む、決められた位置につく」となります。これを入れると「フィールドに出て、すばやく隊形を組んだ。試合開始の準備ができていた」となり、2つの文がつながります。ですから、1が正解です。
+【ほかの選択肢】
+2 currency は「通貨（その国で使われているお金）」です。「すばやく通貨に入った」となり、意味が通りません。
+3 envelopes は「封筒」です。選手たちが封筒に入るということはなく、意味が通りません。
+4 quarrels は「口論、口げんか」です。get into quarrels なら「口げんかを始める」という意味になりますが、そうすると「すばやく口げんかを始めた」となり、次の「試合が始まる準備ができていた」という文とつながりません。
+【覚えるポイント】
+・get into formation：「隊形を組む、決められた位置につく」。
+・be ready for ～ to ...：「～が…する準備ができている」。ready for the game to start で「試合が始まる準備ができている」。

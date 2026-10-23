@@ -1,0 +1,32 @@
+---
+choices: dedication | tariff | stiffness | blockade
+answerText: dedication
+reviewed: yes
+---
+【正解】1 dedication（打ちこむこと、献身）
+【和訳】
+（英文）
+The student's ［dedication］ to improving his grades was impressive. He spent hours studying in the library and often asked his teachers for extra homework.
+（訳）
+成績を上げることへのその生徒の（打ちこみぶり）は、感心するほどだった。彼は図書館で何時間も勉強し、先生たちによく追加の宿題を頼んだ。
+（選択肢の意味）
+1 dedication：打ちこむこと、献身（ある目的に力をそそぐこと）
+2 tariff：関税（外国から入ってくる品物にかける税）
+3 stiffness：かたさ、こわばり
+4 blockade：封鎖（出入りできないようにふさぐこと）
+【考え方】
+まず見るところ：次の文の spent hours studying と asked his teachers for extra homework
+空所のある文は次のとおりです。
+The student's ( ) to improving his grades was impressive.（成績を上げることへのその生徒の（　）は、感心するほどだった）
+impressive は「感心させる、すばらしい」です。
+次の文に、その生徒の様子が具体的に書かれています。
+He spent hours studying in the library and often asked his teachers for extra homework.（彼は図書館で何時間も勉強し、先生たちによく追加の宿題を頼んだ）
+何時間も勉強し、自分から宿題を増やしてもらうのは、成績を上げることに一生懸命に取り組んでいる様子です。dedication to ～ は「～に打ちこむこと」という意味なので、1が正解です。ここでの to は「～へ」という前置詞なので、後ろは improving と -ing の形になっています。
+この問題の型：具体例とまとめ（何時間も勉強・追加の宿題→dedication）
+【ほかの選択肢】
+2 tariff は「関税」です。「成績を上げることへの生徒の関税」となり、意味が通りません。
+3 stiffness は「かたさ、こわばり」です。体や物がかたいことを表す語で、次の文の熱心に勉強する様子と結びつきません。
+4 blockade は「封鎖」です。道や港をふさぐことを表す語で、生徒の勉強の様子には合いません。
+【覚えるポイント】
+・dedication to ～：「～に打ちこむこと、～への献身」。to のあとは名詞や -ing の形がきます。
+・空所の文のあとに具体的な行動が並んでいるときは、それらをまとめて表す名詞が空所に入ることが多いので、行動の共通点（ここでは一生懸命さ）を考えると手がかりになります。

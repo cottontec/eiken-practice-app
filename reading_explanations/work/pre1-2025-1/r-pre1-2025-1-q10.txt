@@ -1,0 +1,30 @@
+---
+choices: loophole | stronghold | blueprint | aftermath
+answerText: loophole
+reviewed: yes
+---
+【正解】1 loophole（〔法律などの〕抜け穴）
+【和訳】
+（英文）
+The unclear wording of the law meant that it had been legally possible to avoid paying taxes. Many people took advantage of this ［loophole］ before the law was finally changed this year.
+（訳）
+その法律の言葉づかいがはっきりしなかったため、法律に違反せずに税金を払わないですませることができた。今年ついに法律が変えられるまで、多くの人がこの（抜け穴）を利用した。
+（選択肢の意味）
+1 loophole：（法律などの）抜け穴
+2 stronghold：とりで、拠点
+3 blueprint：設計図、（詳しい）計画
+4 aftermath：（災害や事件などの）余波、直後の時期
+【考え方】
+まず見るところ：前の文の The unclear wording of the law と legally possible to avoid paying taxes、空所の前の this
+前の文には、法律の問題点が書かれています。
+The unclear wording of the law meant that it had been legally possible to avoid paying taxes.（その法律の言葉づかいがはっきりしなかったため、法律に違反せずに税金を払わないですませることができた）
+wording は「言葉づかい、言い回し」、legally は「法律の上で、合法的に（法律に違反せずに）」です。法律の書き方があいまいだったので、税金を払わない方法が生まれていた、ということです。
+空所の前の this（この）は、前の文の内容を指しています。法律のすきまをついて、決まりを破らずに税金を逃れる方法は「抜け穴」と呼ばれます。法律が今年変えられた、つまりその抜け穴がふさがれたという流れとも合います。ですから1が正解です。
+この問題の型：指示語（this ＋空所 ＝ 前の文の内容）／言いかえ（legally possible to avoid paying taxes ≒ loophole）
+【ほかの選択肢】
+2 stronghold は「とりで、拠点」です。「多くの人がこのとりでを利用した」となり、法律の言葉づかいの話と合いません。
+3 blueprint は「設計図、計画」です。前の文に設計図や計画の話はなく、「この設計図を利用した」では意味が通りません。
+4 aftermath は「（災害や事件などの）余波」です。前の文に災害や事件は書かれていないので、「この余波を利用した」では合いません。
+【覚えるポイント】
+・take advantage of ～：「～を利用する（うまく使う）」。loophole は「（法律などの）抜け穴」です。
+・「this ＋空所」の形では、空所には前の文の内容をひとことでまとめた名詞が入ることが多く、前の文を短く言いかえてみることが手がかりになります。

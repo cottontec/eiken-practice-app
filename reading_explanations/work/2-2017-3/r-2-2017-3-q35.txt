@@ -1,0 +1,32 @@
+---
+choices: They used genetic material from an ancient fruit they discovered. | They used ancient seeds that they had found deep below the ground. | They planted the seeds deep in the ground to protect them during the cold winter. | They planted the fruit in a new kind of container that they had specially designed.
+answerText: They used genetic material from an ancient fruit they discovered.
+reviewed: yes
+---
+【正解】1 They used genetic material from an ancient fruit they discovered.（彼らは、自分たちが発見した大昔の果実から取った遺伝物質を使った。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ロシアの科学者たちは、どのようにしてシレネ・ステノフィラを育てることができましたか。
+1 They used genetic material from an ancient fruit they discovered.（彼らは、自分たちが発見した大昔の果実から取った遺伝物質を使った。）
+2 They used ancient seeds that they had found deep below the ground.（彼らは、地中深くで見つけた大昔の種を使った。）
+3 They planted the seeds deep in the ground to protect them during the cold winter.（彼らは、寒い冬の間に守るために、種を地中深くに植えた。）
+4 They planted the fruit in a new kind of container that they had specially designed.（彼らは、自分たちが特別に設計した新しい種類の入れ物に果実を植えた。）
+【考え方】
+シレネ・ステノフィラの育て方は、第2段落に書かれています。順に確かめます。
+The scientists discovered seeds and fruits of the plant buried deep below the ground.（科学者たちは、その植物の種と果実が地中深くに埋まっているのを発見した）
+The seeds that the scientists found failed to grow because they were damaged.（科学者たちが見つけた種は、傷んでいたため育たなかった）
+However, the scientists were able to take genetic material from the fruit to grow a new plant.（しかし、科学者たちは果実から遺伝物質を取り出して、新しい植物を育てることができた）
+見つけたのは「種」と「果実」の2つです。種は fail to ～（～しそこなう）とあるとおり、育ちませんでした。そこで However（しかし）のあと、果実から取り出した genetic material（遺伝物質）を使って育てたと書かれています。
+本文と選択肢を対にすると、次のようになります。
+本文 take genetic material from the fruit（果実から遺伝物質を取り出す）＝ 選択肢 used genetic material from an ancient fruit（大昔の果実から取った遺伝物質を使った）
+本文 The scientists discovered … fruits of the plant（科学者たちがその植物の果実を発見した）＝ 選択肢 an ancient fruit they discovered（彼らが発見した大昔の果実）
+1が正解です。
+【ほかの選択肢】
+2 地中深くで見つけた種は、because they were damaged（傷んでいたため）育ちませんでした。種ではなく果実を使ったので、本文と違います。
+3 種を地中深くに埋めたのは科学者ではありません。本文には、種と果実は冬の間に食べるために大昔の動物がたくわえたものだと科学者たちが考えている、とあります。人物が違います。
+4 特別な入れ物を設計したという話は、本文にありません。
+【覚えるポイント】
+・fail to ～：「～しそこなう、～できない」。failed to grow で「育たなかった」。
+・genetic material：「遺伝物質（生き物の特徴を伝えるもとになるもの）」。

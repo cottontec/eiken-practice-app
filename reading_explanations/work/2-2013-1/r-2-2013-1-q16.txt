@@ -1,0 +1,27 @@
+---
+choices: around | on | under | out
+answerText: out
+reviewed: yes
+---
+【正解】4 out（die out で「絶滅する、消えてなくなる」）
+【和訳】
+（英文）
+Today, a large number of languages in the world are dying ［out］. There are many that have already been completely lost.
+（訳）
+今日、世界の非常に多くの言語が消えつつあります。すでに完全に失われてしまった言語もたくさんあります。
+（選択肢の意味）
+1 around：まわりに
+2 on：上に、続けて
+3 under：下に
+4 out：外へ、すっかり
+【考え方】
+2文目の There are many that have already been completely lost.（すでに完全に失われてしまったものがたくさんある）に注目します。many は many languages（多くの言語）のことです。
+2文目で「すでに完全に失われた言語がたくさんある」と言っているので、1文目は「多くの言語が今まさに消えていこうとしている」という内容だと考えられます。
+die out は「（種類や習慣などが）絶滅する、すっかり消えてなくなる」という意味です。are dying out で「消えつつある」となり、2文目とつながります。動物の種類や言語、古い習慣などがだんだん消えていくときに使う言い方です。正解は4です。
+【ほかの選択肢】
+1 around を入れて are dying around としても、「消えてなくなる」という意味にはならず、2文目の「すでに完全に失われた」とつながりません。
+2 on を入れて are dying on としても、「言語が消えていく」という意味を表すことはできず、2文目につながりません。
+3 under は「～の下に」で、ふつうあとに名詞が続きます。ここでは空所のあとで文が終わっているので、are dying under では何の下なのかが分からず、意味が通りません。
+【覚えるポイント】
+・die out：「絶滅する、すっかり消えてなくなる」。言語・動物の種類・習慣などに使います。
+・a large number of ～：「非常に多くの～」。

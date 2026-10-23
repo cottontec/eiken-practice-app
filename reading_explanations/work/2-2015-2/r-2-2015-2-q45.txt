@@ -1,0 +1,29 @@
+---
+choices: Australians want the government to spend more money on education. | The government is unhappy with the results of the study. | Older children have better control of their emotions than younger children. | The study follows two separate groups of children.
+answerText: The study follows two separate groups of children.
+reviewed: yes
+---
+【正解】4 The study follows two separate groups of children.（その研究は、2つの別々のグループの子どもたちを追っている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：次の記述のうち、正しいものはどれですか。
+1 Australians want the government to spend more money on education.（オーストラリアの人々は、政府に（今より）多くのお金を教育に使ってほしいと思っている。）
+2 The government is unhappy with the results of the study.（政府は、研究の結果に不満を持っている。）
+3 Older children have better control of their emotions than younger children.（年上の子どもたちは、年下の子どもたちよりも、自分の感情をうまくコントロールできる。）
+4 The study follows two separate groups of children.（その研究は、2つの別々のグループの子どもたちを追っている。）
+【考え方】
+本文全体の内容と、それぞれの選択肢を比べます。
+第1段落に This project, "Growing Up in Australia," is tracking two groups of children from early childhood until they become adults.（「グローイング・アップ・イン・オーストラリア」というこのプロジェクトは、2つのグループの子どもたちを、幼いころから大人になるまで追い続けている）とあります。
+さらに第2段落には When the study began, the first group of children was aged 0–1, while the second group was aged 4–5.（研究が始まったとき、1つ目のグループの子どもたちは0～1歳で、2つ目のグループは4～5歳だった）とあり、2つのグループは年齢の違う別々のグループだと分かります。
+本文と選択肢を対にすると、次のようになります。
+本文 is tracking two groups of children（2つのグループの子どもたちを追い続けている）＝ 選択肢 follows two separate groups of children（2つの別々のグループの子どもたちを追っている）
+本文の track（追う、追跡する）が、選択肢では follow（追う）に言いかえられています。separate は「別々の」です。正解は4です。
+【ほかの選択肢】
+1 オーストラリアの人々が、政府に教育にもっとお金を使ってほしいと思っているという話は、本文にありません。本文にあるのは、政府がプロジェクトに資金を出していること、研究の情報を使ってよりよい教育政策や健康政策を作っていることです。
+2 本文の最後に The Australian government is now using this information to make better educational and health policies（オーストラリア政府は今、この情報をよりよい教育政策や健康政策を作るのに使っている）とあります。政府が結果に不満を持っているとは書かれていません。
+3 本文で感情のコントロールについて書かれているのは、組織的な活動に多くの時間を使う子どもたちのことです。年上の子どもと年下の子どもを比べた結果は書かれていないので、本文にない内容です。
+【覚えるポイント】
+・track ～ ／ follow ～：どちらも「～を追う、追跡する」。
+・separate：「別々の、分かれた」。

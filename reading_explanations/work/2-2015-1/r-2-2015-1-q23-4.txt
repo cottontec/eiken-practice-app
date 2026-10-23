@@ -1,0 +1,21 @@
+---
+choices: see | tennis | play | him | to
+answerText: play
+order: 5 1 4 3 2
+reviewed: yes
+---
+【正解】3 play（この問題の4番目）
+【完成文】
+Hank is 78 years old, but he acts much younger. ( To see him play tennis ) with his grandchildren so actively, you would never guess that he was over 70.
+並べ方：5 To → 1 see → 4 him → 3 play → 2 tennis（2番目は1、4番目は3）
+【和訳】
+ハンクは78歳ですが、（実際の年齢より）ずっと若く振る舞います。彼が孫たちとあんなに活発にテニスをするのを見たら、70歳を超えているとはとても思わないでしょう。
+【考え方】
+空所のあとの with his grandchildren so actively（孫たちとあんなに活発に）に注目します。孫たちと一緒に活発に何かをしている場面なので、選択肢の play tennis（テニスをする）がこの部分とつながると考えます。
+では、だれがテニスをするのでしょうか。選択肢に him（彼を）があり、テニスをするのはハンクです。また、see（見る）があることから、「彼がテニスをするのを見る」という内容を作ります。〈see＋人＋動詞の元の形〉で「人が～するのを見る」という形になるので、see him play の順に並べます。play のあとに目的語の tennis を置きます。
+残った 5 to は文の頭に置き、To see him play tennis（彼がテニスをするのを見たら）とします。後半の you would never guess ～（とても思わないだろう）とつながり、条件の意味になります。
+4番目は3 play です。
+まちがえやすいのは、To see him tennis play（5 1 4 2 3）のように、tennis を play の前に置いてしまう並べ方です。英語では、「テニスをする」は「する（play）」のあとに「テニス（tennis）」を置くので、play tennis の順になります。
+【覚えるポイント】
+・see＋人＋動詞の元の形：「人が～するのを見る」。see him playing tennis（～ing）の形にすると「彼がテニスをしているところを見る」となります。
+・would never guess：「とても～とは思わないだろう」。

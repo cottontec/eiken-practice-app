@@ -1,0 +1,32 @@
+---
+choices: secretly | gently | barely | repeatedly
+answerText: barely
+reviewed: yes
+---
+【正解】3 barely（かろうじて、やっとのことで）
+【和訳】
+（英文）
+The Green Wolves and the Blue Stars were very evenly matched in the championship game. The Green Wolves ［barely］ won when they scored a goal in the last seconds of the game.
+（訳）
+優勝決定戦で、グリーン・ウルブズとブルー・スターズはとても互角でした。グリーン・ウルブズは、試合の最後の数秒でゴールを決めて、（かろうじて）勝ちました。
+（選択肢の意味）
+1 secretly：こっそりと、ひそかに
+2 gently：やさしく、穏やかに
+3 barely：かろうじて、やっとのことで
+4 repeatedly：くり返して
+【考え方】
+まず見るところ：1文目の very evenly matched と、2文目の in the last seconds of the game
+1文目を見ます。
+The Green Wolves and the Blue Stars were very evenly matched in the championship game.（優勝決定戦で、グリーン・ウルブズとブルー・スターズはとても互角だった）
+evenly matched は「力が同じくらいで、互角の」という意味です。2文目の勝ち方も確かめます。
+when they scored a goal in the last seconds of the game（試合の最後の数秒でゴールを決めたとき）
+力が互角で、試合が終わる直前にやっと点を入れて勝ったのですから、ぎりぎりの勝利だったと分かります。
+barely は「かろうじて、やっとのことで」という意味です。「かろうじて勝った」となり、2つの文の内容に合います。ですから3が正解です。
+この問題の型：語の意味・組み合わせ（evenly matched・last seconds → barely won）
+【ほかの選択肢】
+1 secretly は「こっそりと、ひそかに」です。試合で勝つことは、こっそり行うものではないので合いません。
+2 gently は「やさしく、穏やかに」です。「やさしく勝った」となり、互角の試合で最後の数秒に点を入れた勝ち方を表せません。
+4 repeatedly は「くり返して」です。この文は1つの優勝決定戦の話なので、「くり返し勝った」とは合いません。
+【覚えるポイント】
+・barely：「かろうじて、やっとのことで」。evenly matched は「互角の」です。
+・「互角」「最後の数秒」のように、ぎりぎりだったことを示す語句があるときは、勝ち方や結果の程度を表す語を選ぶ手がかりになります。

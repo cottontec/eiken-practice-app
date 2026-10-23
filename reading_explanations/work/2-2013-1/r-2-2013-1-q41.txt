@@ -1,0 +1,29 @@
+---
+choices: By promoting low-fat versions of many popular foods. | By forcing them to pay more for certain kinds of food. | By decreasing the amount of sugar allowed in products. | By creating laws concerning how much people are allowed to eat.
+answerText: By forcing them to pay more for certain kinds of food.
+reviewed: yes
+---
+【正解】2 By forcing them to pay more for certain kinds of food.（ある種の食べ物に、より多くのお金を払わせることによって。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：政府が人々をより健康にしようとしている方法の1つは何ですか。
+1 By promoting low-fat versions of many popular foods.（多くの人気のある食べ物の低脂肪版を広めることによって。）
+2 By forcing them to pay more for certain kinds of food.（ある種の食べ物に、より多くのお金を払わせることによって。）
+3 By decreasing the amount of sugar allowed in products.（製品に入れてよい砂糖の量を減らすことによって。）
+4 By creating laws concerning how much people are allowed to eat.（人々が食べてよい量についての法律を作ることによって。）
+【考え方】
+設問の「人々をより健康にしようとする方法」は、第1段落の初めに書かれています。
+In many countries, governments are trying to get citizens to eat more healthily.（多くの国で、政府は、市民がもっと健康的な食事をするように仕向けようとしている）
+One way in which governments are trying to do this is by increasing taxes on foods that are unhealthy.（政府がこれを行おうとしている方法の1つは、健康によくない食べ物にかける税金を上げることだ）
+健康によくない食べ物の税金が上がると、その食べ物を買う人は、前よりも多くのお金を払わなければならなくなります。本文と選択肢は次のように対応しています。
+本文 increasing taxes on foods that are unhealthy（健康によくない食べ物にかける税金を上げること）＝ 選択肢 forcing them to pay more for certain kinds of food（ある種の食べ物に、より多くのお金を払わせること）
+本文の「健康によくない食べ物」が、選択肢では certain kinds of food（ある種の食べ物）と言いかえられています。force ～ to ... は「～に…させる、無理に…させる」という意味です。正解は2です。
+【ほかの選択肢】
+1 低脂肪の食べ物を広めるという話は、本文にありません。本文で述べられているのは、脂肪に税金をかけることです。
+3 デンマークは砂糖を多く含む製品に「税金をかけている」と書かれています。製品に入れてよい砂糖の量を減らしたとは書かれていません。
+4 人々が食べてよい量を決める法律の話は、本文にありません。
+【覚えるポイント】
+・get ～ to ...：「～に…させる、～が…するように仕向ける」。
+・tax on ～：「～にかける税金」。increase taxes on ～ で「～にかける税金を上げる」。

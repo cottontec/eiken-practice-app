@@ -1,0 +1,31 @@
+---
+choices: The British government held the East India Company responsible for an uprising that occurred. | The Indian people voted for British rule after losing confidence in the Indian emperor's ability to rule the country effectively. | The Indian people asked for the help of the British in preventing a war between India and China. | The Indian emperor decided to join forces with the British as a political strategy to maintain control of India.
+answerText: The British government held the East India Company responsible for an uprising that occurred.
+reviewed: yes
+---
+【正解】1 The British government held the East India Company responsible for an uprising that occurred.（イギリス政府が、起きた反乱の責任は東インド会社にあると考えた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What led to the British government taking control of India?（イギリス政府がインドの支配権をにぎることになったのは、何がきっかけだったか。）
+1 The British government held the East India Company responsible for an uprising that occurred.（イギリス政府が、起きた反乱の責任は東インド会社にあると考えた。）
+2 The Indian people voted for British rule after losing confidence in the Indian emperor's ability to rule the country effectively.（インドの人々が、インドの皇帝が国をうまく治める能力を信じられなくなったあと、イギリスによる支配に賛成の票を投じた。）
+3 The Indian people asked for the help of the British in preventing a war between India and China.（インドの人々が、インドと中国の間の戦争を防ぐために、イギリスに助けを求めた。）
+4 The Indian emperor decided to join forces with the British as a political strategy to maintain control of India.（インドの皇帝が、インドの支配を保つための政治的な戦略として、イギリスと手を結ぶことに決めた。）
+【考え方】
+まず見るところ：第2段落の The British government, which blamed the East India Company for allowing the rebellion to happen, took control of India
+第2段落では、1850年代に東インド会社の軍の兵士たちが反乱を起こし、それが東インド会社の終わりのきっかけになったと書かれています。そのあと、次の文が続きます。
+The British government, which blamed the East India Company for allowing the rebellion to happen, took control of India, and an era of direct British rule began.（イギリス政府は、反乱が起きるのを許したとして東インド会社を責め、インドの支配権をにぎった。そして、イギリスによる直接の支配の時代が始まった）
+blame A for B は「BのことでAを責める」という意味です。本文と選択肢1を対にすると、次のようになります。
+・本文 blamed the East India Company for allowing the rebellion to happen（反乱が起きるのを許したとして東インド会社を責めた）→ 選択肢 held the East India Company responsible for an uprising（反乱の責任は東インド会社にあると考えた）
+・本文 the rebellion（反乱）＝ 選択肢 an uprising（反乱）
+hold A responsible for B は「Bの責任はAにあると考える」という意味で、blame A for B とほぼ同じことを表します。よって1が正解です。
+この問題の型：言いかえ（blamed A for ～ → held A responsible for ～）
+【ほかの選択肢】
+2 本文に書かれていません。インドの人々が投票したという話はありません。本文では、反乱を起こした兵士たちは、むしろインドの皇帝を再び権力の座につけようとしてデリーへ進軍したと書かれています。
+3 本文に書かれていません。インドと中国の間の戦争についての話はなく、インドの人々がイギリスに助けを求めたとも書かれていません。
+4 本文に書かれていません。本文には、イギリスは removed the Indian emperor from power（インドの皇帝を権力の座から退けた）とあります。皇帝がイギリスと手を結んだという話はありません。本文の joined forces（力を合わせた）は、反乱のときに異なる宗教の人々が力を合わせたという第3段落の話です。
+【覚えるポイント】
+・blame A for B：「BのことでAを責める」。hold A responsible for B：「Bの責任はAにあると考える」。rebellion / uprising：「反乱」。
+・設問が What led to ～?（何が～につながったか）のときは、本文で ～ にあたるできごと（ここでは took control of India）の直前や、同じ文の中に書かれた理由を探します。

@@ -1,0 +1,31 @@
+---
+choices: it is unlikely that they can grow plants from seeds that are over 2,000 years old. | ancient seeds that were kept in Israel will be easier to grow than Russian seeds. | they will be able to grow plants in areas where the earth is permanently frozen. | the frozen soil in Siberia is able to keep the DNA of plants safe for a long time.
+answerText: the frozen soil in Siberia is able to keep the DNA of plants safe for a long time.
+reviewed: yes
+---
+【正解】4 the frozen soil in Siberia is able to keep the DNA of plants safe for a long time.（シベリアの凍った土は、植物のDNAを長い間安全に保つことができる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ロシアの科学者たちは、～と考えている。
+1 it is unlikely that they can grow plants from seeds that are over 2,000 years old.（2000年より古い種から植物を育てることは、おそらくできない）
+2 ancient seeds that were kept in Israel will be easier to grow than Russian seeds.（イスラエルで保たれていた大昔の種は、ロシアの種よりも育てやすい）
+3 they will be able to grow plants in areas where the earth is permanently frozen.（土地が一年中凍っている地域で植物を育てることができる）
+4 the frozen soil in Siberia is able to keep the DNA of plants safe for a long time.（シベリアの凍った土は、植物のDNAを長い間安全に保つことができる）
+【考え方】
+設問の believe（考えている）を手がかりに、第4段落の The Russian scientists believe ～ を見ます。
+The Russian scientists believe the reason why the Siberian seeds were preserved for so long is that they were buried in permanently frozen earth, which protected the genetic information in the seeds.（ロシアの科学者たちは、シベリアの種がこれほど長い間保たれていた理由は、それらが永久凍土〔一年中凍ったままの土地〕に埋まっていたからであり、その凍土が種の中の遺伝情報を守ったのだと考えている）
+which protected the genetic information in the seeds の which は、前の permanently frozen earth（永久凍土）を指して、それに説明を付け足しています。つまり「永久凍土が、種の中の遺伝情報を守った」という意味です。DNAは、この遺伝情報を記録しているものです。
+本文と選択肢を対にすると、次のようになります。
+本文 permanently frozen earth（永久凍土）＝ 選択肢 the frozen soil in Siberia（シベリアの凍った土）
+本文 protected the genetic information in the seeds（種の中の遺伝情報を守った）＝ 選択肢 keep the DNA of plants safe（植物のDNAを安全に保つ）
+本文 preserved for so long（これほど長い間保たれた）＝ 選択肢 for a long time（長い間）
+4が正解です。
+【ほかの選択肢】
+1 本文では、ロシアの科学者たちは3万2000年前の植物をすでに育てています。さらに they may be able to bring back even older plants（さらに古い植物をよみがえらせることができるかもしれない）とも考えているので、本文と反対です。
+2 イスラエルの話は、Before this, the oldest seed to have been grown was from a 2,000-year-old tree in Israel.（これ以前に育てられたことのある最も古い種は、イスラエルの2000年前の木の種だった）とあるだけです。イスラエルの種のほうが育てやすいとは書かれていません。
+3 科学者たちが考えているのは、永久凍土にほかにも大昔の種が含まれているということです。凍った土地で植物を育てられるとは書かれていません。
+【覚えるポイント】
+・the reason why ～ is that …：「～の理由は…ということだ」。
+・permanently frozen：「永久に凍った、一年中凍ったままの」。

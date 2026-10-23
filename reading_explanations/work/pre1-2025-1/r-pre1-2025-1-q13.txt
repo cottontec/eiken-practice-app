@@ -1,0 +1,30 @@
+---
+choices: component | obligation | symptom | resolution
+answerText: obligation
+reviewed: yes
+---
+【正解】2 obligation（義務、責任）
+【和訳】
+（英文）
+In some countries, it is the ［obligation］ of families, not the government, to financially support senior citizens.
+（訳）
+国によっては、高齢者をお金の面で支えることは、政府ではなく家族の（義務）だ。
+（選択肢の意味）
+1 component：構成要素、部品
+2 obligation：義務、責任
+3 symptom：症状、兆候（何かが起きているしるし）
+4 resolution：決意、解決、決議
+【考え方】
+まず見るところ：空所の後ろの of families, not the government と、to financially support senior citizens
+この文は、it is the ( ) of A to ～ の形です。it は、後ろの to financially support senior citizens（高齢者をお金の面で支えること）を指しています。
+つまり、「高齢者をお金の面で支えることは、Aの（　）だ」という意味の文です。
+of families, not the government（政府ではなく、家族の）
+not ～ で「～ではなく」と、家族と政府を比べています。高齢者を支えるのは政府と家族のどちらなのか、その「役目」を言っている文だと考えられます。obligation は「義務、責任（しなければならないこと）」なので、「高齢者を支えるのは、政府ではなく家族の義務だ」となり、意味が通ります。ですから2が正解です。
+この問題の型：熟語・決まった形（it is the obligation of A to ～）／対比（families ⇔ the government）
+【ほかの選択肢】
+1 component は「構成要素、部品」です。「高齢者を支えることは家族の部品だ」となり、意味が通りません。
+3 symptom は「症状、兆候」です。「高齢者を支えることは家族の症状だ」となり、意味が通りません。
+4 resolution は「決意、解決」です。「高齢者を支えることは、政府ではなく家族の決意だ」では、政府と家族のどちらがその役目を負うのか、という文の中心と合いません。
+【覚えるポイント】
+・it is the obligation of A to ～：「～することはAの義務だ」。
+・「A であって B ではない（A, not B）」と、だれがするのかを比べている文では、「役目・責任」を表す語が入る手がかりになります。

@@ -1,0 +1,27 @@
+---
+choices: achievements | limitations | estimates | territories
+answerText: achievements
+reviewed: yes
+---
+【正解】1 achievements（業績、成し遂げたこと）
+【和訳】
+（英文）
+Grant Falkner has directed many successful movies during his career. Last night, a special ceremony was held to celebrate his ［achievements］.
+（訳）
+グラント・フォークナーは、これまでの経歴の中で、成功した映画をたくさん監督してきました。昨夜、彼の業績を祝うために、特別な式典が開かれました。
+（選択肢の意味）
+1 achievements：業績、成し遂げたこと
+2 limitations：限界、制限
+3 estimates：見積もり、推定
+4 territories：領土、なわばり
+【考え方】
+1文目の has directed many successful movies during his career（経歴の中で、成功した映画をたくさん監督してきた）に注目します。direct は「（映画を）監督する」、successful は「成功した」、career は「（仕事の）経歴」です。
+2文目では a special ceremony was held to celebrate his (　)（彼の（　）を祝うために特別な式典が開かれた）とあります。was held は「開かれた」、to celebrate は「祝うために」です。
+何を祝ったのかを考えると、1文目に書かれた「成功した映画をたくさん作ってきたこと」だと分かります。これまでに成し遂げたよい仕事を表すのは achievements（業績）です。celebrate his achievements で「彼の業績を祝う」となるので、正解は1です。
+【ほかの選択肢】
+2 limitations は「限界、制限」です。「彼の限界を祝う」となり、たくさんの成功を収めたという1文目と合いません。
+3 estimates は「見積もり、推定（だいたいの数や金額を考えたもの）」です。映画監督の成功を祝う式典で「見積もり」を祝うことはなく、意味が通りません。
+4 territories は「領土、なわばり」です。映画を監督してきた人の話とは関係がなく、「彼の領土を祝う」では意味が通りません。
+【覚えるポイント】
+・achievement：「業績、成し遂げたこと」。動詞 achieve（成し遂げる）の名詞の形です。
+・celebrate ～：「～を祝う」。

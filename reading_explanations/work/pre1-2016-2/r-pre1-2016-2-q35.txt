@@ -1,0 +1,32 @@
+---
+choices: The willingness of people to assist crime victims is affected by the length of time they have lived in an urban area. | Victims of minor crimes in urban areas tend not to report them because such crimes occur so frequently. | Witnesses are more likely to assist victims of crimes in situations involving violence than in other circumstances. | In cases where violent crimes occur, there are usually other people present who observe them happening.
+answerText: In cases where violent crimes occur, there are usually other people present who observe them happening.
+reviewed: yes
+---
+【正解】4 In cases where violent crimes occur, there are usually other people present who observe them happening.（暴力犯罪が起こる場合、たいていは、それが起こるのを見ているほかの人がその場にいる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What did the study of crimes in the United States indicate?（アメリカ合衆国の犯罪についての研究は、何を示したか。）
+1 The willingness of people to assist crime victims is affected by the length of time they have lived in an urban area.（犯罪の被害者を助けようとする人々の気持ちは、その人々が都市部に住んできた期間の長さに影響される。）
+2 Victims of minor crimes in urban areas tend not to report them because such crimes occur so frequently.（都市部での軽い犯罪の被害者は、そのような犯罪がとてもよく起こるので、それを届け出ない傾向がある。）
+3 Witnesses are more likely to assist victims of crimes in situations involving violence than in other circumstances.（目撃者は、ほかの状況よりも、暴力がかかわる状況のほうが、犯罪の被害者を助ける可能性が高い。）
+4 In cases where violent crimes occur, there are usually other people present who observe them happening.（暴力犯罪が起こる場合、たいていは、それが起こるのを見ているほかの人がその場にいる。）
+【考え方】
+まず見るところ：第1段落の researchers found that 72 percent of the incidents had been observed by at least one witness
+設問の the study of crimes in the United States（アメリカ合衆国の犯罪についての研究）は、第1段落の In a study of violent crimes in the United States ～ の部分です。
+In a study of violent crimes in the United States based on data from the annual National Crime Victimization Survey, researchers found that 72 percent of the incidents had been observed by at least one witness.（毎年行われる全米犯罪被害調査のデータにもとづいた、アメリカ合衆国の暴力犯罪についての研究で、研究者たちは、事件の72パーセントが少なくとも1人の目撃者に見られていたことを発見した）
+incident は「事件、出来事」、witness は「目撃者（その場で見ていた人）」という意味です。暴力犯罪の4分の3近くで、見ている人がいたことになります。
+本文と選択肢を対にすると、次のようになります。
+・本文 72 percent of the incidents（事件の72パーセント）→ 選択肢 usually（たいていは）
+・本文 had been observed by at least one witness（少なくとも1人の目撃者に見られていた）＝ 選択肢 there are ～ other people present who observe them happening（それが起こるのを見ているほかの人がその場にいる）
+72パーセントは半分よりかなり多いので、「たいていは」と言いかえられます。ですから4が正解です。
+この問題の型：言いかえ（72 percent → usually、observed by at least one witness → other people present who observe them）
+【ほかの選択肢】
+1 本文にありません。都市に住んでいる期間の長さが、助けようとする気持ちに影響するという話は書かれていません。また、都市の暮らしが傍観者効果の原因だという考えは研究の結果ではなく、第2段落でおそらく正しくないと述べられています。
+2 本文にありません。この研究は暴力犯罪についてのもので、軽い犯罪の被害者が届け出をしないという話は出てきません。
+3 本文にありません。暴力がかかわる状況のほうが目撃者が助けやすい、という比べ方は書かれていません。研究が示したのは、目撃者がいた事件の割合です。
+【覚えるポイント】
+・witness：「目撃者」。observe（見る、観察する）と一緒に覚えておくと、言いかえに気づきやすくなります。
+・本文の数字（ここでは 72 percent）は、選択肢では usually（たいてい）や most（ほとんど）のような言葉に言いかえられることがあるので、数字の大きさがどの言葉に当たるかを考えると手がかりになります。

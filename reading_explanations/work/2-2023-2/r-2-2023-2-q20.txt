@@ -1,0 +1,30 @@
+---
+choices: the | on | at | a
+answerText: the
+reviewed: yes
+---
+【正解】1 the（〔the moment ～ の形で〕～した瞬間に、～するとすぐに）
+【和訳】
+（英文）
+Miranda screamed for joy ［the］ moment she heard that she had got into Budgeforth College.
+（訳）
+ミランダは、バッジフォース大学に合格したと聞いた（瞬間に）、喜びのあまり叫び声を上げました。
+（選択肢の意味）
+1 the：その（名詞の前に付けて、特定のものを表す語）
+2 on：～の上に、～の日に
+3 at：～で、（時刻）に
+4 a：1つの、ある
+【考え方】
+まず見るところ：空所のあとの moment she heard
+moment は「瞬間」という意味です。そのあとに she heard ～（彼女は～と聞いた）と、主語と動詞がそろった文の形が続いていることに注目します。
+the moment ～ は、あとに主語と動詞を続けて「～した瞬間に、～するとすぐに」という意味を表す決まった言い方です。the moment she heard ～ で「彼女が～と聞いた瞬間に」となります。
+she had got into Budgeforth College（バッジフォース大学に合格した）
+had got into ～ は「～に合格した（入学できることになった）」という意味です。screamed for joy は「喜びのあまり叫んだ」なので、文全体の意味が通ります。ですから1が正解です。
+この問題の型：熟語・決まった形（the moment ＋主語＋動詞）
+【ほかの選択肢】
+2 on を入れると on moment she heard ～ となります。moment の前に the がなく、「～した瞬間に」という決まった言い方になりません。
+3 at を入れると at moment she heard ～ となります。これも moment の前に the がないので、正しい英語になりません。
+4 a を入れると a moment she heard ～ となります。a moment は「少しの間」という意味で、あとに she heard ～ という文を続けて「～した瞬間に」という意味にすることはできません。
+【覚えるポイント】
+・the moment ＋主語＋動詞：「～した瞬間に、～するとすぐに」。as soon as ～ とほぼ同じ意味です。
+・空所のあとが moment ＋主語＋動詞 の形になっていたら、the moment（～した瞬間に）の形ではないかと考えるのが手がかりになります。

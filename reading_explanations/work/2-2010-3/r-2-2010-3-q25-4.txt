@@ -1,0 +1,21 @@
+---
+choices: by | paid | the | is | hour
+answerText: the
+order: 4 2 1 3 5
+reviewed: yes
+---
+【正解】3 the（この問題の4番目）
+【完成文】
+Takeshi is a cook at a restaurant. He ( is paid by the hour ), so he tries to work as many hours as he can.
+並べ方：4 is → 2 paid → 1 by → 3 the → 5 hour（2番目は2、4番目は3）
+【和訳】
+タケシはレストランの料理人です。彼は時間単位で給料をもらっているので、できるだけ多くの時間働こうとしています。
+【考え方】
+空所のあとは so he tries to work as many hours as he can（だから彼はできるだけ多くの時間働こうとしている）です。長く働きたい理由を、空所で表していると考えられます。
+主語 He のあとに 4 is と 2 paid を置いて is paid（支払われる）とします。be動詞（is など）のあとに paid を置くと「～される」という意味になります。
+次に、残りの by、the、hour で「どのように支払われるか」を表します。by the hour で「1時間単位で」という意味です。by the ～ の形では、by のすぐあとに the がきて、そのあとに単位を表す語（ここでは hour）が続きます。
+並べると is → paid → by → the → hour となり、4番目は3 the です。
+by hour the や the by hour のような順では「1時間単位で」の意味になりません。by the hour の順で覚えておきましょう。
+【覚えるポイント】
+・by the hour：「1時間単位で」。給料などを「時間いくらで」払うときに使います。
+・be paid：「（お金を）支払われる」。

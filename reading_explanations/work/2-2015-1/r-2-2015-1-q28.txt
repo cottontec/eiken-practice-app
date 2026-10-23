@@ -1,0 +1,25 @@
+---
+choices: explaining | closing | expanding | selling
+answerText: expanding
+reviewed: yes
+---
+【正解】3 expanding（拡大している）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 explaining：説明している
+2 closing：閉じている、閉鎖している
+3 expanding：拡大している、広げている
+4 selling：売っている
+【考え方】
+空所の文は Because of this, the owners are now (　) the business.（このため、所有者たちは今、事業を～しているところだ）です。Because of this（このため）とあるので、前の文が理由になります。
+前の文は In fact, the new plastic is already being used in various ways, and demand for it is increasing.（実際、この新しいプラスチックはすでにさまざまな形で使われていて、その需要は高まっている）です。demand は「需要（買いたい、ほしいと求められること）」です。その前にも This could make it popular with manufacturers.（このことで、製造業者の間で人気が出るかもしれない）とあります。
+求められる量が増えているのですから、会社はもっとたくさん作れるように事業を大きくするはずです。expand は「拡大する、広げる」なので、expanding the business で「事業を拡大している」となります。正解は3です。
+【ほかの選択肢】
+1 explaining を入れると「事業を説明している」となります。需要が高まっていることの結果として「説明している」というのは、つながりが分かりません。
+2 closing を入れると「事業を閉鎖している」となります。需要が高まっているのに事業を閉じるのは、Because of this（このため）の流れと反対です。
+4 selling を入れると「事業を売っている」となります。本文には事業を手放す話はなく、需要が高まっていることが事業を売る理由になるとは書かれていません。
+【覚えるポイント】
+・expand：「拡大する、広げる」。expand the business で「事業を拡大する」。
+・demand for ～：「～への需要」。demand for ～ is increasing で「～の需要が高まっている」。

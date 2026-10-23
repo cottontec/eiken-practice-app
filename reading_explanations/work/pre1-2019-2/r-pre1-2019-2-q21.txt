@@ -1,0 +1,30 @@
+---
+choices: ruin | despair | suppress | thrive
+answerText: thrive
+reviewed: yes
+---
+【正解】4 thrive（元気にうまくやっていく、生き生きと育つ）
+【和訳】
+（英文）
+Bailey had been unhappy at his old school, so his mother was relieved when he began to ［thrive］ in his new one. His grades improved, and he made friends easily.
+（訳）
+ベイリーは前の学校で楽しく過ごせていなかったので、新しい学校で彼が（生き生きとうまくやり）始めたとき、母親はほっとした。成績は上がり、友達もすぐにできた。
+（選択肢の意味）
+1 ruin：台なしにする、だめにする
+2 despair：絶望する
+3 suppress：（感情などを）抑える、（反乱などを）しずめる
+4 thrive：元気にうまくやっていく、生き生きと育つ
+【考え方】
+まず見るところ：次の文の His grades improved, and he made friends easily.
+前半では、Bailey had been unhappy at his old school（ベイリーは前の学校で楽しく過ごせていなかった）とあります。そのため、母親は was relieved（ほっとした）のです。ほっとしたのは、新しい学校ではうまくいき始めたからだと考えられます。
+次の文で、新しい学校での様子が具体的に書かれています。
+His grades improved, and he made friends easily.（成績は上がり、友達もすぐにできた）
+grades は「成績」です。勉強も友達づくりもうまくいっていることが分かります。thrive は「元気にうまくやっていく、生き生きと育つ」という意味なので、4が正解です。
+この問題の型：具体例とまとめ（成績が上がり友達ができた → うまくやっている）
+【ほかの選択肢】
+1 ruin は「台なしにする」です。「新しい学校で台なしにし始めた」では、何を台なしにしたのかが分からず、母親がほっとした理由にもなりません。
+2 despair は「絶望する」です。「新しい学校で絶望し始めた」では、成績が上がり友達ができたという次の文と合わず、母親がほっとする理由にもなりません。
+3 suppress は「（感情などを）抑える」です。「新しい学校で抑え始めた」では何を抑えたのかが分からず、意味が通りません。
+【覚えるポイント】
+・thrive：「元気にうまくやっていく、生き生きと育つ」。
+・was relieved when ～（～したときほっとした）とあるときは、そのあとの具体的な様子（ここでは成績と友達）がよい方向かどうかが、空所の語を決める手がかりになります。

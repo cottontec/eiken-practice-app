@@ -1,0 +1,26 @@
+---
+choices: take a different approach | get rid of poor people | build better houses elsewhere | check up on people
+answerText: take a different approach
+reviewed: yes
+---
+【正解】1 take a different approach（別のやり方をとる）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 take a different approach（別のやり方をとる）
+2 get rid of poor people（貧しい人々を追い払う）
+3 build better houses elsewhere（どこか別の場所に、もっとよい家を建てる）
+4 check up on people（人々のようすを調べる）
+【考え方】
+空所は第1段落の Now, the UN is asking cities to (24).（今、国連は都市に（24）するよう求めている）です。
+まず、空所の前を見ます。City officials usually consider slums a problem, and the solution has been to try to get rid of them.（市の役人はふつうスラムを問題と考えていて、これまでの解決策はスラムをなくそうとすることだった）とあります。get rid of ～ は「～を取り除く、なくす」という意味です。
+次に、空所のすぐあとを見ます。That is, they want cities to improve slums and make them part of the city, rather than destroy them.（つまり、国連は、都市がスラムを壊すのではなく、スラムをよくして都市の一部にすることを望んでいる）とあります。That is は「つまり」という意味で、前の内容を言いかえるときに使います。
+これまでは「スラムをなくす」というやり方でしたが、国連が求めているのは「スラムを壊さずによくする」という、それとは違うやり方です。take a different approach（別のやり方をとる）を入れると、That is 以下がその「別のやり方」の説明になり、うまくつながります。ですから、1が正解です。
+【ほかの選択肢】
+2 「貧しい人々を追い払う」は、国連の考えと反対です。国連はスラムを壊さずに改善し、都市の一部にすることを求めていて、住んでいる人を追い出す話ではありません。
+3 「どこか別の場所に、もっとよい家を建てる」は、That is 以下の内容と合いません。国連が望んでいるのは、今あるスラムをよくして都市の一部にすることで、別の場所に家を建てることではありません。
+4 「人々のようすを調べる」は、That is 以下の「スラムをよくして都市の一部にする」の言いかえになりません。本文にも、人々を調べるという話はありません。
+【覚えるポイント】
+・That is,：「つまり」。前の内容を言いかえるので、空所の内容を知る手がかりになります。
+・rather than ～：「～ではなく、～するよりむしろ」。

@@ -1,0 +1,29 @@
+---
+choices: ransom | applause | monopoly | prank
+answerText: ransom
+reviewed: yes
+---
+【正解】1 ransom（身代金）
+【和訳】
+（英文）
+After the kidnappers returned the child to its parents in exchange for a large ［ransom］, they tried to escape with the money. Police soon caught them, however, and returned the money to the couple.
+（訳）
+誘拐犯たちは、多額の（身代金）と引きかえに子どもを両親に返したあと、そのお金を持って逃げようとした。しかし、警察はすぐに彼らを捕まえ、そのお金を夫婦に返した。
+（選択肢の意味）
+1 ransom：身代金（誘拐した人を返すかわりに求めるお金）
+2 applause：拍手
+3 monopoly：独占（ひとりじめ）
+4 prank：いたずら
+【考え方】
+まず見るところ：空所の前の the kidnappers returned the child ～ in exchange for a large と、空所のあとの escape with the money
+kidnapper は「誘拐犯（人を連れ去る犯人）」です。in exchange for ～ は「～と引きかえに」という意味です。
+they tried to escape with the money（彼らはそのお金を持って逃げようとした）
+the money（そのお金）とあるので、誘拐犯たちが子どもと引きかえに受け取ったのはお金だと分かります。誘拐した人を返すかわりに受け取るお金は「身代金」です。ransom は「身代金」なので、1が正解です。
+この問題の型：指示語（the money ＝ 空所に入るもの）
+【ほかの選択肢】
+2 applause は「拍手」です。拍手と引きかえに子どもを返したことになり、そのあとの the money ともつながりません。
+3 monopoly は「独占」です。「多額の独占と引きかえに」では意味が通りません。
+4 prank は「いたずら」です。いたずらと引きかえに子どもを返すことはなく、お金の話ともつながりません。
+【覚えるポイント】
+・ransom：「身代金」。in exchange for ～：「～と引きかえに」。kidnapper：「誘拐犯」。
+・空所のあとの文に the money のような the ＋名詞があるときは、それが空所に入る語を指していることがあるので、何を指すかを確かめます。

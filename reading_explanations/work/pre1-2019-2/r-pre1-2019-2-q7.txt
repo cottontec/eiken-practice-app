@@ -1,0 +1,32 @@
+---
+choices: schemes | analogies | glaciers | inquiries
+answerText: inquiries
+reviewed: yes
+---
+【正解】4 inquiries（問い合わせ、聞きこみ、調査）
+【和訳】
+（英文）
+Police have been making ［inquiries］ into the man's whereabouts on the night of the theft. They asked his family and friends where he was that night.
+（訳）
+警察は、盗みがあった夜にその男がどこにいたかについて、ずっと（聞きこみ調査）を行っている。警察は、その夜彼がどこにいたかを、彼の家族や友人にたずねた。
+（選択肢の意味）
+1 schemes：計画、たくらみ
+2 analogies：たとえ、似ている点
+3 glaciers：氷河
+4 inquiries：問い合わせ、聞きこみ、調査
+【考え方】
+まず見るところ：次の文の They asked his family and friends where he was that night.
+空所のある文は、次のとおりです。
+Police have been making (　) into the man's whereabouts on the night of the theft.（警察は、盗みがあった夜にその男がどこにいたかについて、ずっと（　）を行っている）
+whereabouts は「いる場所、居場所」、theft は「盗み」です。have been making は「（今まで）ずっと～している」という意味を表します。
+次の文で、警察が実際にしたことが書かれています。
+They asked his family and friends where he was that night.（警察は、その夜彼がどこにいたかを、彼の家族や友人にたずねた）
+人にたずねて回ることは「問い合わせ、聞きこみ」です。inquiry は「問い合わせ、調査」という意味で、make inquiries into ～ で「～について調べる、問い合わせる」となります。ですから4が正解です。
+この問題の型：言いかえ（asked his family and friends ＝ making inquiries）
+【ほかの選択肢】
+1 schemes は「計画、たくらみ」です。「男の居場所についてたくらみを行っている」となり、家族や友人にたずねたという次の文と合いません。
+2 analogies は「たとえ、似ている点」です。「男の居場所についてたとえを行っている」では意味が通りません。
+3 glaciers は「氷河（山の上から少しずつ流れ下る、大きな氷のかたまり）」です。「男の居場所について氷河を行っている」では意味が通りません。
+【覚えるポイント】
+・make inquiries into ～：「～について問い合わせる、調べる」。inquiry は動詞 inquire（たずねる）の名詞の形です。
+・空所の次の文に asked ～（～にたずねた）のような具体的な行動が書かれているときは、それを1語でまとめた名詞を選ぶ手がかりになります。

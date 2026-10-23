@@ -1,0 +1,23 @@
+---
+choices: on | from | she | had | the smile
+answerText: had
+order: 2 5 3 4 1
+reviewed: yes
+---
+【正解】4 had（この問題の4番目）
+【完成文】
+No, but judging ( from the smile she had on ) her face this morning, it must have gone well.
+並べ方：2 from → 5 the smile → 3 she → 4 had → 1 on（2番目は5、4番目は4）
+【和訳】
+A：リンダの就職の面接がどうだったか、聞いた？
+B：いや、でも、今朝彼女が顔に浮かべていた笑顔から判断すると、うまくいったに違いないよ。
+【考え方】
+今回は、空所のあとの her face（彼女の顔）から逆にたどってみます。her face の直前には、「顔に」を表す 1 on が来ると考えられます。have ～ on one's face は「顔に～を浮かべている」という言い方で、on は「（表面）に」の意味です。
+では、顔に何を浮かべていたのでしょうか。選択肢の 5 the smile（その笑顔）です。そして、浮かべていたのは 3 she（彼女）なので、the smile she had on her face（彼女が顔に浮かべていた笑顔）というまとまりを作ります。the smile のあとに she had … が続いて、どんな笑顔かを説明しています。このように名詞のすぐあとに「主語 ＋ 動詞」を続けて説明を加える形では、つなぎの that などが省かれることがよくあります。
+残った 2 from は、空所の前の judging と組み合わせて judging from ～（～から判断すると）とします。
+並べると from the smile she had on her face となり、「（今朝）彼女が顔に浮かべていた笑顔から判断すると、うまくいったに違いない」という意味になります。
+したがって4番目は4 had です。
+she と had の順番にも気をつけます。from the smile had she on のように had を先にすると、主語と動詞の順番が逆になり、説明のまとまりになりません。「主語 she ＋ 動詞 had」の順に置きます。
+【覚えるポイント】
+・have ～ on one's face：「顔に～を浮かべている」。
+・名詞 ＋ 主語 ＋ 動詞：the smile she had のように、名詞のあとに「主語 ＋ 動詞」を続けて説明を加えることができます。

@@ -1,0 +1,32 @@
+---
+choices: purchase comic books made by people from the Gravelton area. | watch movies based on her favorite comic books. | take lessons in how to create her own comic books. | display her paintings of famous comic book characters.
+answerText: purchase comic books made by people from the Gravelton area.
+reviewed: yes
+---
+【正解】1 purchase comic books made by people from the Gravelton area.（グラベルトン地域の人々が作ったコミック本を買う。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：At the Gravelton Comic Show, Alice will be able to（グラベルトン・コミック・ショーで、アリスは～ことができる。）
+1 purchase comic books made by people from the Gravelton area.（グラベルトン地域の人々が作ったコミック本を買う）
+2 watch movies based on her favorite comic books.（お気に入りのコミック本をもとにした映画を見る）
+3 take lessons in how to create her own comic books.（自分のコミック本の作り方の講習を受ける）
+4 display her paintings of famous comic book characters.（有名なコミック本の登場人物をかいた自分の絵を展示する）
+【考え方】
+まず見るところ：第1段落の There will be thousands of comic books on sale, including ～
+There will be thousands of comic books on sale, including rare items and comic books by local creators（何千冊ものコミック本が販売され、その中には珍しい品や、地元の作者によるコミック本も含まれる）
+設問は「ショーでアリスができること」で、ショーでできることは第1段落にまとめて書かれています。on sale は「販売されて」という意味で、売られているのでアリスはそれを買うことができます。
+本文と選択肢を対にすると、次のようになります。
+本文 comic books ... on sale（コミック本が販売される）→ 選択肢 purchase comic books（コミック本を買う）
+本文 comic books by local creators（地元の作者によるコミック本）→ 選択肢 comic books made by people from the Gravelton area（グラベルトン地域の人々が作ったコミック本）
+purchase は「購入する、買う」という意味です。ショーはグラベルトンで開かれるので、ここでの local（地元の）は、グラベルトンの地域のことを指していると考えられます。ですから1が正解です。
+この問題の型：言いかえ（local creators → people from the Gravelton area）
+【ほかの選択肢】
+2 映画を見られるという話は、本文にありません。お気に入りのコミック本については、Tシャツやポスターなどのグッズが売られるとあるだけです。
+3 コミック本の作り方の講習を受けられるという話は、本文にありません。本文にあるのは、アーティストや作家に meet and talk to（会って話をする）機会があるということで、講習を受けることではありません。
+4 自分の絵を展示できるという話は、本文にありません。来場者が参加できるものとして本文に書かれているのは、衣装コンテストや、アーティストや作家と話す機会などです。
+【覚えるポイント】
+・on sale：「販売されて、売りに出されて」。「特売で」という意味で使うこともあります。
+・local：「地元の、その地域の」。どの地域を指すのかは、文章の中で確かめましょう。
+・「できること」を選ぶ問題では、メールの中で「～があります」「～する機会があります」と書かれた部分を探し、選択肢の言いかえと対応させます。

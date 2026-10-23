@@ -1,0 +1,31 @@
+---
+choices: stick around | step down | play up | take off
+answerText: stick around
+reviewed: yes
+---
+【正解】1 stick around（その場に残る、とどまる）
+【和訳】
+（英文）
+A: Alexandra, did you ［stick around］ for the encore at the concert last night? I had to leave a bit early.
+B: I did, Ben. The group performed three more songs, which was great!
+（訳）
+A：アレクサンドラ、昨夜のコンサートでは、アンコールまで残っていた？ 私は少し早めに帰らなければならなかったんだ。
+B：残っていたよ、ベン。そのグループはさらに3曲演奏してくれて、それがすばらしかったよ！
+（選択肢の意味）
+1 stick around：その場に残る、とどまる
+2 step down：（役職などから）身を引く、辞任する
+3 play up：強調する、大げさに言う
+4 take off：（飛行機が）離陸する、（急いで）立ち去る
+【考え方】
+まず見るところ：Aの後半の I had to leave a bit early と、Bの答えの The group performed three more songs
+Aは、自分は少し早めに帰らなければならなかったと言っています。そのため、A自身はアンコールを見られなかったと考えられます。
+I had to leave a bit early.（私は少し早めに帰らなければならなかった）
+そこでAは、アレクサンドラがアンコールまで会場に残っていたかどうかをたずねていると考えられます。Bの答えの I did（残っていた）のあとには、The group performed three more songs（そのグループはさらに3曲演奏した）と、アンコールの様子が続いています。stick around は「その場に残る、とどまる」なので、1が正解です。
+この問題の型：対比（A は早めに帰った ⇔ B は最後まで残った）
+【ほかの選択肢】
+2 step down は「（役職などから）身を引く」です。「アンコールのために辞任した？」となり、コンサートの話として意味が通りません。
+3 play up は「強調する」です。「アンコールのために強調した？」となり、意味が通りません。
+4 take off は「立ち去る」です。「アンコールのために立ち去った？」とたずねたのなら、Bがアンコールの様子を話している答えと合いません。
+【覚えるポイント】
+・stick around：「その場に残る、とどまる」。encore は「アンコール（演奏が終わったあとに、客のよびかけで追加される演奏）」です。
+・会話では、たずねた人が自分について言ったこと（ここでは早めに帰ったこと）が、何をたずねているのかの手がかりになります。答えの内容（アンコールの様子）とも合うかどうかを確かめましょう。

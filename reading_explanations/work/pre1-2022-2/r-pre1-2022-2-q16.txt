@@ -1,0 +1,30 @@
+---
+choices: irrigate | harmonize | outpace | overthrow
+answerText: overthrow
+reviewed: yes
+---
+【正解】4 overthrow（政府や指導者を倒す）
+【和訳】
+（英文）
+Several generals attempted to ［overthrow］ the country's prime minister. However, they were unsuccessful, and he remains in power.
+（訳）
+何人かの将軍が、その国の首相を（倒そう）とした。しかし、彼らは成功せず、首相は今も権力の座にある。
+（選択肢の意味）
+1 irrigate：（畑などに）水を引く
+2 harmonize：調和させる
+3 outpace：（～より）速く進む、追いこす
+4 overthrow：（政府や指導者を）倒す
+【考え方】
+まず見るところ：あとの文の However, they were unsuccessful, and he remains in power.
+However, they were unsuccessful, and he remains in power.（しかし、彼らは成功せず、首相は今も権力の座にある）
+remain in power は「権力の座にとどまる」という意味です。将軍たちが失敗した結果、首相が権力の座にとどまっているのですから、将軍たちがしようとしたのは、首相を権力の座から下ろすことだと分かります。
+Several generals attempted to (　) the country's prime minister.（何人かの将軍が、その国の首相を（　）しようとした）
+general はここでは「将軍（軍隊の高い位の人）」、attempt to ～ は「～しようとする」です。overthrow は「（政府や指導者を）倒す」なので、4が正解です。
+この問題の型：対比（倒そうとした⇔失敗して首相は権力の座にある）
+【ほかの選択肢】
+1 irrigate は「（畑などに）水を引く」です。「首相に水を引こうとした」となり、意味が通りません。
+2 harmonize は「調和させる」です。「首相を調和させようとした」となり意味が通らず、失敗して首相が今も権力の座にあるという結果ともつながりません。
+3 outpace は「（～より）速く進む、追いこす」です。速さの話ではないので、首相が権力の座にとどまっているという結果とつながりません。
+【覚えるポイント】
+・overthrow：「（政府や指導者を）倒す」。attempt to ～：「～しようとする」。remain in power：「権力の座にとどまる」。
+・However, they were unsuccessful（しかし、成功しなかった）のように「失敗」が書かれているときは、失敗しなかったら何が起きたかを考えると、空所の動詞の意味が分かります。

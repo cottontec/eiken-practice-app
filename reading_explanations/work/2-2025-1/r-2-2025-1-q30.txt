@@ -1,0 +1,30 @@
+---
+choices: reduce the amount of tea leaves used and cut production costs. | make tea bags look more modern and appealing to customers. | give more space for tea leaves to move around in tea bags. | compete with a traditional tea-making method in the market.
+answerText: give more space for tea leaves to move around in tea bags.
+reviewed: yes
+---
+【正解】3 give more space for tea leaves to move around in tea bags.（ティーバッグの中で茶葉が動き回るための空間を、より多くあたえるため。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Pyramid-shaped tea bags were introduced to（ピラミッド型のティーバッグが取り入れられたのは、）
+1 reduce the amount of tea leaves used and cut production costs.（使う茶葉の量を減らし、生産の費用を下げるため。）
+2 make tea bags look more modern and appealing to customers.（ティーバッグをより現代的で、客にとって魅力のあるものに見せるため。）
+3 give more space for tea leaves to move around in tea bags.（ティーバッグの中で茶葉が動き回るための空間を、より多くあたえるため。）
+4 compete with a traditional tea-making method in the market.（市場で、伝統的なお茶のいれ方と競争するため。）
+【考え方】
+まず見るところ：第4段落の In the late 1990s, pyramid-shaped tea bags appeared on the market. と、次の The shape offers more space ～
+In the late 1990s, pyramid-shaped tea bags appeared on the market.（1990年代後半には、ピラミッド型のティーバッグが市場に登場した）
+The shape offers more space for tea leaves to move freely compared to square tea bags.（この形は、四角いティーバッグと比べて、茶葉が自由に動くためのより多くの空間をもたらす）
+ピラミッド型について本文に書かれているよい点は、四角いティーバッグよりも茶葉が自由に動ける空間が多いことです。段落の初めの Tea bags continue to improve.（ティーバッグは改良され続けている）の例として書かれているので、この点がピラミッド型を取り入れた目的だと考えられます。
+本文 offers more space for tea leaves to move freely ＝ 選択肢 give more space for tea leaves to move around in tea bags
+offers（もたらす）が give（あたえる）に、move freely（自由に動く）が move around（動き回る）に言いかえられています。ですから3が正解です。
+この問題の型：言いかえ（offers more space → give more space）
+【ほかの選択肢】
+1 茶葉の量を減らすことや、生産の費用を下げることは、本文に書かれていません。本文で費用の話が出てくるのは、第2段落のろ紙が安かったという部分で、ピラミッド型の話ではありません。
+2 ピラミッド型の見た目が現代的で魅力があるという話は、本文にありません。本文が述べているのは、茶葉が動ける空間のことです。
+4 伝統的なお茶のいれ方と競争するためという話は、本文にありません。伝統的な方法（袋に入っていない茶葉を使う方法）は第3段落のイギリスの話で出てきますが、ピラミッド型とは関係づけられていません。
+【覚えるポイント】
+・compared to ～：「～と比べて」。比べる相手（ここでは square tea bags 四角いティーバッグ）を確かめましょう。
+・「～は何のために取り入れられたか」という設問では、その物のよい点を説明している文（ここでは The shape offers ～）が答えの手がかりになることが多いです。

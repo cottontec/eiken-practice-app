@@ -1,0 +1,35 @@
+---
+choices: The village’s geographical location has made it difficult for them to find schoolteachers willing to move there. | The emergency medical clinic that is run by the village government does not allow them access to its doctors. | The police force in the village has failed to address the safety and security issues that they have raised. | The village’s status in the national political structure has left them with a lack of support from the government.
+answerText: The village’s status in the national political structure has left them with a lack of support from the government.
+reviewed: yes
+---
+【正解】4 The village’s status in the national political structure has left them with a lack of support from the government.（国の政治の仕組みの中での村の位置づけのせいで、政府からの支援が足りない状態になっているから。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Why are people who live in La Nahuaterique unhappy about their situation?（ラ・ナワテリケに住む人々は、なぜ自分たちの状況に不満を持っているのですか。）
+1 The village’s geographical location has made it difficult for them to find schoolteachers willing to move there.（村の地理的な位置のせいで、そこへ移り住んでくれる学校の先生を見つけるのが難しくなっているから。）
+2 The emergency medical clinic that is run by the village government does not allow them access to its doctors.（村の役所が運営している救急診療所が、彼らに、そこの医師の診察を受けさせてくれないから。）
+3 The police force in the village has failed to address the safety and security issues that they have raised.（村の警察が、彼らが訴えてきた安全と治安の問題に対処してこなかったから。）
+4 The village’s status in the national political structure has left them with a lack of support from the government.（国の政治の仕組みの中での村の位置づけのせいで、政府からの支援が足りない状態になっているから。）
+【考え方】
+まず見るところ：第2段落の residents complain of feeling isolated and forgotten by the Honduran state と One reason is that ～
+設問の unhappy（不満を持っている）にあたる言葉は、第2段落の最初に出てきます。
+Within the village, residents complain of feeling isolated and forgotten by the Honduran state.（村の中では、住民たちが、ホンジュラスという国から孤立し、忘れられていると感じていると不満を訴えている）
+complain は「不満を言う」という意味です。その理由が、次の文に書かれています。
+One reason is that La Nahuaterique does not belong to any officially recognized region and therefore lacks any form of political representation in local and national government.（その理由の一つは、ラ・ナワテリケが正式に認められたどの地域にも属しておらず、そのため、地方や国の政府に、どんな形の政治的な代表も持っていないことである）
+political representation は「政治的な代表（住民の意見を政治に届ける議員など）」です。第4段落の最後にも with little or no help from the Honduran state（ホンジュラスという国からほとんど、あるいはまったく助けを受けられないまま）とあります。
+本文と選択肢を対にすると、次のようになります。
+本文 complain of feeling isolated and forgotten（孤立し、忘れられていると不満を訴えている）→ 設問 unhappy about their situation（状況に不満を持っている）
+本文 does not belong to any officially recognized region（正式に認められたどの地域にも属していない）→ 選択肢 The village’s status in the national political structure（国の政治の仕組みの中での村の位置づけ）
+本文 forgotten by the Honduran state / little or no help from the Honduran state（国から忘れられている／国からほとんど助けを受けられない）→ 選択肢 a lack of support from the government（政府からの支援が足りない）
+よって4が正解です。
+この問題の型：言いかえ（does not belong to any officially recognized region → The village’s status）／因果（どの地域にも属さない→政治的な代表がない→支援が足りない）
+【ほかの選択肢】
+1 本文と合いません。第2段落には there are a number of schools（学校はいくつかある）と書かれていて、学校の先生が見つからないという話はありません。
+2 本文と合いません。村には a medical clinic capable of handling emergencies（緊急の患者に対応できる診療所）がないと書かれています。最も近い診療所はエルサルバドルにあり、村の役所が運営している診療所はありません。
+3 本文と合いません。村には a police force（警察）がないと書かれているので、村の警察が問題に対処してこなかった、という話にはなりません。
+【覚えるポイント】
+・complain of ～：「～だと不満を訴える」。設問では unhappy（不満を持っている）と言いかえられています。
+・選択肢に出てくる施設（学校・診療所・警察）が、本文で「ある」と書かれているのか「ない」と書かれているのかを確かめることが、まちがった選択肢を見分ける手がかりになります。

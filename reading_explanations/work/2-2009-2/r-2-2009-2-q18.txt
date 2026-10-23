@@ -1,0 +1,24 @@
+---
+choices: off | over | between | from
+answerText: over
+reviewed: yes
+---
+【正解】2 over（～をおおうように、～の上に）
+【和訳】
+そのホラー映画にはとても暴力的な場面がいくつかあったので、ダンは娘の目を手でおおいました。
+（選択肢の意味）
+1 off：～から離れて
+2 over：～をおおうように、～の上に
+3 between：～の間に
+4 from：～から
+【考え方】
+文の前半は Some of the scenes in the horror movie were very violent（そのホラー映画の場面のいくつかはとても暴力的だった）です。violent は「暴力的な」という意味です。so（だから）のあとに、ダンがしたことが書かれています。
+暴力的な場面があったので、父親のダンは、娘にそれを見せたくなかったと考えられます。そのために手を娘の目に当てて、見えないようにしたのです。
+over は「～の上に、～をおおうように」という意味です。put his hands over his daughter's eyes で「娘の目の上に手を置いた」、つまり「娘の目を手でおおった」となります。正解は2です。
+【ほかの選択肢】
+1 off は「～から離れて」です。put his hands off his daughter's eyes では「手を娘の目から離して置く」のようになり、見えないようにするという流れに合いません。
+3 between は「（2つのもの）の間に」です。「娘の目の間に手を置いた」となり、目をかくすことになりません。
+4 from は「～から」です。put his hands from his daughter's eyes では意味が通りません。
+【覚えるポイント】
+・put one's hands over ～：「～を手でおおう」。
+・violent：「暴力的な、激しい」。

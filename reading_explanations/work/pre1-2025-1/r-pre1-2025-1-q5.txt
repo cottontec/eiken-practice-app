@@ -1,0 +1,31 @@
+---
+choices: distracts | reforms | pacifies | dismisses
+answerText: distracts
+reviewed: yes
+---
+【正解】1 distracts（～の気を散らす、注意をそらす）
+【和訳】
+（英文）
+Using a smartphone while driving is now illegal in many places because it ［distracts］ drivers, who should always be watching the road.
+（訳）
+運転中にスマートフォンを使うことは、今では多くの場所で違法（法律で禁じられていること）だ。それは、スマートフォンが、常に道路を見ているべき運転手の（気を散らす）からだ。
+（選択肢の意味）
+1 distracts：～の気を散らす、注意をそらす
+2 reforms：～を改革する、改心させる
+3 pacifies：～をなだめる、落ち着かせる
+4 dismisses：～を退ける、解雇する
+【考え方】
+まず見るところ：空所の前の because と、後ろの drivers, who should always be watching the road
+空所の前の because は「～なので」です。後ろには、運転中のスマートフォンの使用がなぜ違法なのか、その理由が書かれています。
+空所の後ろを見ます。
+drivers, who should always be watching the road（運転手、つまり常に道路を見ているべき人たち）
+who 以下は、drivers（運転手）について説明を付け足しています。運転手は、いつも道路を見ていなければなりません。
+it はスマートフォンを使うことを指しています。スマートフォンを使うと、道路から目や注意がそれてしまいます。distract は「～の気を散らす、注意をそらす」なので、「運転手の気を散らすから違法だ」となり、話がつながります。ですから1が正解です。
+この問題の型：因果（because のあとが違法になった理由）
+【ほかの選択肢】
+2 reforms は「～を改革する、改心させる」です。「スマートフォンが運転手を改革するから違法だ」では、法律で禁じる理由になりません。
+3 pacifies は「～をなだめる、落ち着かせる」です。運転手を落ち着かせるのは危険なことではないので、違法になる理由になりません。
+4 dismisses は「～を退ける、解雇する」です。「スマートフォンが運転手を解雇する」となり、意味が通りません。
+【覚えるポイント】
+・distract ～：「～の気を散らす、～の注意をそらす」。
+・because のあとが「なぜ禁止されているか」の理由になっているときは、空所には危険や悪い結果につながる意味の語が入る、と考えるのが手がかりになります。

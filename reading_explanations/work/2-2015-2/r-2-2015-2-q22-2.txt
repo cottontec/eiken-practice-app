@@ -1,0 +1,20 @@
+---
+choices: time | by the | had already | left | the station
+answerText: left
+order: 3 4 5 2 1
+reviewed: yes
+---
+【正解】4 left（この問題の2番目）
+【完成文】
+The train ( had already left the station by the time ) Sam reached the platform. He had to wait about 20 minutes for the next one to come.
+並べ方：3 had already → 4 left → 5 the station → 2 by the → 1 time（2番目は4、4番目は2）
+【和訳】
+サムがホームに着いたときには、電車はもう駅を出てしまっていました。サムは、次の電車が来るまで20分ほど待たなければなりませんでした。
+【考え方】
+まず話の流れを確かめます。2文目に He had to wait about 20 minutes for the next one to come.（彼は次の電車が来るまで20分ほど待たなければならなかった）とあります。the next one は「次の電車」です。次の電車を待ったのですから、サムが乗るはずだった電車は、もう出てしまっていたと分かります。
+文の主語は The train（電車）です。そのあとに動詞の部分を続けます。3 had already と 4 left を並べると had already left（もう出てしまっていた）になります。had ＋ 過去分詞 は過去完了（過去のある時より前に、ある動作がもう終わっていたことを表す形）です。left は leave（出発する、去る）の過去分詞です。leave は「～を出る」という意味でもあるので、そのあとに 5 the station を置いて had already left the station（もう駅を出てしまっていた）とします。
+残った 2 by the と 1 time で by the time（～するときまでに）を作り、空所のあとの Sam reached the platform（サムがホームに着いた）につなげます。完成文は The train had already left the station by the time Sam reached the platform. で、2番目は4 left です。
+まちがえやすいのは、had already left by the time the station Sam reached ～ のように the station を by the time のあとに置く並べ方です。これでは the station と Sam reached the platform がつながらず、文が成り立ちません。
+【覚えるポイント】
+・by the time ～：「～するときまでに（は）」。
+・had already ＋ 過去分詞：「（過去のある時には）もう～してしまっていた」。

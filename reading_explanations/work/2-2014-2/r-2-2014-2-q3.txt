@@ -1,0 +1,27 @@
+---
+choices: spared | renewed | led | healed
+answerText: spared
+reviewed: yes
+---
+【正解】1 spared（（いやなことを）させずにすませてもらった、免れた）
+【和訳】
+（英文）
+David was ［spared］ from having to give a presentation in front of the whole company when his co-worker offered to do it for him.
+（訳）
+同僚が代わりにやろうと申し出てくれたとき、デイビッドは、会社の全員の前で発表をしなければならないことを免れました。
+（選択肢の意味）
+1 spared：（いやなことを）させずにすませてもらった、免れた
+2 renewed：新しくされた、更新された
+3 led：導かれた、連れて行かれた
+4 healed：（傷や病気が）治された
+【考え方】
+空所の前に was があり、選択肢はどれも過去分詞（「～された」という受け身の形を作る動詞の形）です。was (　) from having to give a presentation は「発表をしなければならないことから（　）された」という意味になります。
+手がかりは文の後半です。when his co-worker offered to do it for him は「同僚が自分の代わりにそれをやろうと申し出たとき」です。co-worker は「同僚（同じ職場で働く人）」、offer to ～ は「～しようと申し出る」です。it は「会社全体の前で発表をすること」を指します。
+同僚が代わりに発表してくれるなら、デイビッドは発表しなくてよくなります。spare は「（人に、いやなことを）させずにすませる」という意味で、be spared from ～ing で「～しなくてすむ、～を免れる」となります。正解は1です。
+【ほかの選択肢】
+2 renewed は「新しくされた、（契約などが）更新された」です。「発表をしなければならないことから更新された」となり、意味が通りません。
+3 led は lead（導く、連れて行く）の過去分詞で、was led from ～ は「～から連れて行かれた」となります。発表をしなくてすんだという内容になりません。
+4 healed は「（傷や病気が）治された」です。デイビッドがけがや病気をしていたという話はなく、「発表をしなければならないことから治された」では意味が通りません。
+【覚えるポイント】
+・be spared from ～ing：「～しなくてすむ、～を免れる」。spare は「（いやなことを）させずにすませる」。
+・offer to ～：「～しようと申し出る」。

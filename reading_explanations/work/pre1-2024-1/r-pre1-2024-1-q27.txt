@@ -1,0 +1,36 @@
+---
+choices: If they were not able to join a new pack soon after leaving, then their survival rate would dramatically decrease. | The actions of those that eventually established their own packs may often have been influenced by another organism. | Wolves that lived alone were found to have far fewer fatal parasites than those that stayed with their packs. | Although they did not leave their packs in an unfriendly way, they often ended up fighting violently with their old packs.
+answerText: The actions of those that eventually established their own packs may often have been influenced by another organism.
+reviewed: yes
+---
+【正解】2 The actions of those that eventually established their own packs may often have been influenced by another organism.（最終的に自分たちの群れを作ったオオカミの行動は、別の生き物に影響されていたことが多かったのかもしれない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to the passage, what did researchers discover about wild wolves that left their packs?（本文によると、研究者たちは群れを去った野生のオオカミについて何を発見しましたか。）
+1 If they were not able to join a new pack soon after leaving, then their survival rate would dramatically decrease.（去ったあとすぐに新しい群れに加われなければ、生き残る割合が大きく下がる。）
+2 The actions of those that eventually established their own packs may often have been influenced by another organism.（最終的に自分たちの群れを作ったオオカミの行動は、別の生き物に影響されていたことが多かったのかもしれない。）
+3 Wolves that lived alone were found to have far fewer fatal parasites than those that stayed with their packs.（一匹で暮らすオオカミは、群れにとどまったオオカミよりも、命にかかわる寄生生物がはるかに少ないことが分かった。）
+4 Although they did not leave their packs in an unfriendly way, they often ended up fighting violently with their old packs.（彼らは仲たがいして群れを去ったわけではないのに、最後には元の群れと激しく争うことが多かった。）
+【考え方】
+まず見るところ：第3段落の many of them were carrying a particular parasite called Toxoplasma gondii
+第3段落では、群れを去ったオオカミについて、2022年に分かったことが書かれています。
+In 2022, researchers discovered that wild wolves that had started their own pack often had something in common: many of them were carrying a particular parasite called Toxoplasma gondii.（2022年、研究者たちは、自分たちの群れを作った野生のオオカミには、ある共通点がよくあることを発見した。その多くが、トキソプラズマ・ゴンディと呼ばれる特定の寄生生物を持っていたのである）
+parasite は「寄生生物（ほかの生き物の体に入りこんで生きる生き物）」です。
+その寄生生物の働きは、次の文に書かれています。
+This parasite appears to make the wolves more likely to take bolder and riskier actions, which can aid their survival in some situations.（この寄生生物は、オオカミをより大胆で危険な行動をとりやすくするようで、それがいくつかの状況では生き残るのに役立つことがある）
+寄生生物がオオカミの行動に影響しているようだ、ということです。
+本文と選択肢を対にすると、次のようになります。
+本文 wild wolves that had started their own pack（自分たちの群れを作った野生のオオカミ）＝ 選択肢 those that eventually established their own packs（最終的に自分たちの群れを作ったオオカミ）
+本文 a particular parasite（特定の寄生生物）→ 選択肢 another organism（別の生き物）
+本文 appears to make the wolves more likely to take bolder and riskier actions（オオカミをより大胆で危険な行動をとりやすくするようだ）→ 選択肢 The actions ... may often have been influenced（行動が影響されていたのかもしれない）
+organism は「生き物、生物」です。本文の appears to（～のようだ）に合わせて、選択肢も may（～かもしれない）と言い切っていません。ですから2が正解です。
+この問題の型：言いかえ（a particular parasite → another organism）
+【ほかの選択肢】
+1 本文に書かれていません。群れを去ったオオカミが別の群れに守ってもらおうとすることは書かれていますが、すぐに加われないと生き残る割合が大きく下がるという話は出てきません。
+3 本文に書かれていません。寄生生物を持っていたのは、自分たちの群れを作ったオオカミの多くです。一匹で暮らすオオカミと群れにとどまったオオカミの寄生生物の数を比べた話は出てきません。また、この寄生生物が命にかかわるとも書かれていません。
+4 本文から読み取れません。本文では、When a significant conflict does occur（大きな対立が実際に起きたとき）に dissatisfied wolves（不満を持ったオオカミ）が群れを去るとあり、友好的に去ったとは言えません。また、去ったあとに元の群れと激しく争ったという話も出てきません。
+【覚えるポイント】
+・organism：「生き物、生物」。
+・本文の具体的な名前（ここでは a particular parasite called Toxoplasma gondii）は、選択肢では another organism のような広い言葉に言いかえられることが多いので、その言いかえに気づくことが手がかりになります。

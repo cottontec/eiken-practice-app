@@ -1,0 +1,31 @@
+---
+choices: unanimous | insane | crisp | rash
+answerText: unanimous
+reviewed: yes
+---
+【正解】1 unanimous（満場一致の、全員が賛成の）
+【和訳】
+（英文）
+The committee's decision to give the prize to the young scientist was nearly ［unanimous］. Only one of the eight members voted against it.
+（訳）
+その若い科学者に賞を与えるという委員会の決定は、ほぼ（満場一致）だった。8人の委員のうち、反対票を投じたのは1人だけだった。
+（選択肢の意味）
+1 unanimous：満場一致の、全員が賛成の
+2 insane：正気でない、ばかげた
+3 crisp：ぱりっとした、てきぱきした
+4 rash：軽率な、早まった
+【考え方】
+まず見るところ：空所の前の nearly と、後ろの文の Only one of the eight members voted against it.
+空所のある文は、委員会の決定が nearly ( ) だった、と言っています。nearly は「ほぼ、ほとんど」です。
+後ろの文を見ます。
+Only one of the eight members voted against it.（8人の委員のうち、反対票を投じたのは1人だけだった）
+反対したのは8人のうち1人だけなので、ほとんどの委員が賛成した形だと考えられます。全員の賛成ではありませんが、それに近い状態です。
+unanimous は「満場一致の（全員が賛成の）」という意味です。nearly unanimous で「ほぼ満場一致」となるので、1が正解です。
+この問題の型：語の意味・組み合わせ（nearly unanimous）／言いかえ（反対が1人だけ→ほぼ全員が賛成）
+【ほかの選択肢】
+2 insane は「正気でない、ばかげた」です。後ろの文は投票の数を説明しているだけで、決定がばかげているかどうかを示す内容はありません。
+3 crisp は「ぱりっとした、てきぱきした」です。食べ物の歯ざわりや話し方などを表す語で、投票の結果の説明につながりません。
+4 rash は「軽率な、早まった」です。「ほぼ軽率だった」となり、後ろの文の「反対は1人だけ」という投票の数とは結びつきません。
+【覚えるポイント】
+・unanimous：「満場一致の、全員が賛成の」。nearly unanimous（ほぼ満場一致）のように使います。
+・空所の前に nearly（ほぼ）があり、後ろの文に Only one ～ voted against（反対は1人だけ）のような数があるときは、その数が空所の語を説明していることが多いので、「全員に近い」かどうかを確かめると手がかりになります。

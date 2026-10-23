@@ -1,0 +1,26 @@
+---
+choices: expectation | cause | benefit | difference
+answerText: difference
+reviewed: yes
+---
+【正解】4 difference（違い）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 expectation：期待、予想
+2 cause：原因
+3 benefit：利点、恩恵
+4 difference：違い
+【考え方】
+空所は第2段落の One major (　) between Utah and Mars, however, is that Utah is very hot, whereas Mars would actually be very cold.（しかし、ユタと火星の大きな（　）の1つは、ユタはとても暑いのに対して、火星は実際にはとても寒いだろうということだ）にあります。
+まず、直前の文を見ます。MDRSの場所は it is very similar to the landscape on Mars（火星の地形ととてもよく似ている）から選ばれた、とあります。そのあとに however（しかし）があるので、ここでは「似ている」とは反対の、「似ていない点」が述べられると予想できます。
+次に、that 以下の内容を見ます。Utah is very hot, whereas Mars would actually be very cold（ユタはとても暑いのに対して、火星はとても寒いだろう）とあります。whereas は「～であるのに対して」と、2つのものを比べて違いを示す言葉です。暑いと寒いという、ユタと火星の違いが述べられています。
+また、空所のあとの between Utah and Mars（ユタと火星の間の）も、difference between A and B（AとBの違い）という形に合います。正解は4です。
+【ほかの選択肢】
+1 expectation は「期待、予想」です。「ユタと火星の間の大きな期待の1つは、ユタが暑く火星が寒いことだ」では意味が通りません。
+2 cause は「原因」です。暑さと寒さは何かの原因として述べられているわけではないので、合いません。
+3 benefit は「利点、恩恵」です。ユタが暑く火星が寒いことは利点ではなく、however のあとで似ていない点を述べる流れにも合いません。
+【覚えるポイント】
+・difference between A and B：「AとBの違い」。
+・whereas：「～であるのに対して」。2つのものの違いを比べて示すときに使います。

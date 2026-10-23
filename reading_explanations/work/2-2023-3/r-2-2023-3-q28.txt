@@ -1,0 +1,33 @@
+---
+choices: Make a presentation about what they did at the fair to Ms. Jones. | Take a day off during the week before the event to prepare. | Hand in some forms at least seven days before then. | Fill out an attendance application and send it to the university.
+answerText: Hand in some forms at least seven days before then.
+reviewed: yes
+---
+【正解】3 Hand in some forms at least seven days before then.（その日の少なくとも7日前までに、書類を提出する。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What should staff members do if they attend the fair on February 24?（2月24日のフェアに参加する場合、スタッフは何をするべきですか。）
+1 Make a presentation about what they did at the fair to Ms. Jones.（フェアでしたことについて、ジョーンズさんに発表をする。）
+2 Take a day off during the week before the event to prepare.（準備のために、催しの前の週に1日休みを取る。）
+3 Hand in some forms at least seven days before then.（その日の少なくとも7日前までに、書類を提出する。）
+4 Fill out an attendance application and send it to the university.（出席の申込書に記入して、大学に送る。）
+【考え方】
+まず見るところ：第2段落の最後の These should be submitted at least one week before the fair.
+Either way, you should speak to Ms. Jones on the second floor to get your weekend work or overtime applications.（どちらの場合も、2階のジョーンズさんに声をかけて、週末勤務または残業の申請書を受け取ってください）
+フェアは土曜日なので、参加する人は申請書を受け取る必要があります。applications は「申請書」です。
+These should be submitted at least one week before the fair.（それらは、フェアの少なくとも1週間前までに提出しなければならない）
+These は、前の文の applications（申請書）を指しています。submit は「提出する」という意味です。
+本文と選択肢を対にすると、次のようになります。
+本文 These (applications) should be submitted ＝ 選択肢 Hand in some forms
+本文 at least one week before the fair ＝ 選択肢 at least seven days before then
+submit（提出する）が hand in に、applications（申請書）が forms（書類）に、one week（1週間）が seven days（7日）に言いかえられています。then は設問の February 24（2月24日）を指します。ですから3が正解です。
+この問題の型：指示語（These ＝ applications）／言いかえ（one week ＝ seven days）
+【ほかの選択肢】
+1 ジョーンズさんは申請書を受け取りに行く相手です。フェアでしたことを発表するという話は本文にありません。
+2 本文の take an extra day off during the following week は「（フェアの）翌週に休みを1日余分に取る」で、休むのはフェアのあとの週です。また、この休みは準備のためではなく、フェアが土曜日にあることへの対応として書かれています。選択肢の「前の週」「準備のため」は本文と違います。
+4 申請書は社内のジョーンズさんから受け取るもので、週末勤務か残業のためのものです。出席の申込書を大学に送るという話は本文にありません。
+【覚えるポイント】
+・submit ＝ hand in：「提出する」。
+・期限の問題では、one week と seven days のように数字の言いかえがよくあります。before（前）と following（あと）のような、時の前後の取り違えにも気をつけましょう。

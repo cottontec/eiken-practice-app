@@ -1,0 +1,30 @@
+---
+choices: They help the birds learn how to survive in Wisconsin's winter. | They fly together with a group of birds that are the same gender. | They show the birds how to fly to Florida in their first winter. | They provide food for the cranes on their journey south.
+answerText: They show the birds how to fly to Florida in their first winter.
+reviewed: yes
+---
+【正解】3 They show the birds how to fly to Florida in their first winter.（最初の冬に、鳥たちにフロリダ州までの飛び方を示す。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：アメリカシロヅル東部パートナーシップ（Whooping Crane Eastern Partnership）の科学者たちは、若いアメリカシロヅルをどのように手助けしていますか。
+1 They help the birds learn how to survive in Wisconsin's winter.（ウィスコンシン州の冬を生きのびる方法を、鳥たちが学ぶのを手助けする。）
+2 They fly together with a group of birds that are the same gender.（同じ性別の鳥の群れといっしょに飛ぶ。）
+3 They show the birds how to fly to Florida in their first winter.（最初の冬に、鳥たちにフロリダ州までの飛び方を示す。）
+4 They provide food for the cranes on their journey south.（南へ向かう旅の途中で、ツルたちにえさを与える。）
+【考え方】
+科学者たちが若い鳥にしていることは、第3段落に書かれています。
+Later, the young birds are taken from Maryland to Wisconsin, where the scientists teach them how to fly.（その後、若い鳥たちはウィスコンシン州へ連れていかれ、そこで科学者たちが飛び方を教える）
+From there, they fly about 2,200 kilometers south to Florida to spend the winter.（そこから鳥たちは、冬を過ごすために、南のフロリダ州まで約2,200キロメートル飛ぶ）
+The first time, scientists lead the way in a small airplane. From the second year, though, the birds travel by themselves.（最初のときは、科学者たちが小型飛行機で先導する。しかし、2年目からは、鳥たちは自分たちだけで移動する）
+lead the way は「先に立って道案内をする、先導する」です。鳥たちが初めて冬を過ごしにフロリダ州へ飛ぶとき、科学者たちが飛行機で前を飛んで道を示しているのです。本文と選択肢の対応は次のとおりです。
+本文 The first time, scientists lead the way（最初のときは、科学者たちが先導する）→ 選択肢 show the birds how to fly to Florida in their first winter（最初の冬に、フロリダ州までの飛び方を示す）
+フロリダ州へ行くのは冬を過ごすためなので、「最初のとき」は「最初の冬」にあたります。正解は3です。
+【ほかの選択肢】
+1 鳥たちは、冬を過ごすためにウィスコンシン州からフロリダ州へ飛んでいきます。ウィスコンシン州の冬を生きのびる方法を教えるという話はありません。ウィスコンシン州で教えているのは how to fly（飛び方）です。
+2 本文で gender（性別）が出てくるのは、科学者たちが the gender of each bird（それぞれの鳥の性別）を記録してきたという部分です。同じ性別の鳥の群れといっしょに飛ぶという話ではありません。また、科学者たちは最初の年に小型飛行機で先導するのであって、鳥の群れの中で飛ぶわけではありません。
+4 本文には、旅の途中で鳥たちにえさを与えるという話はありません。
+【覚えるポイント】
+・lead the way：「先に立って道案内をする、先導する」。
+・by themselves：「自分たちだけで」。

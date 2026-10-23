@@ -1,0 +1,22 @@
+---
+choices: would | so | work on | she | rather not
+answerText: rather not
+order: 2 4 1 5 3
+reviewed: yes
+---
+【正解】5 rather not（この問題の4番目）
+【完成文】
+Alice wants to spend as much time with her children as possible, ( so she would rather not work on ) weekends. However, she will have to go into the office this Saturday to finish a report.
+並べ方：2 so → 4 she → 1 would → 5 rather not → 3 work on（2番目は4、4番目は5）
+【和訳】
+アリスはできるだけ多くの時間を子どもたちと過ごしたいと思っています。だから、週末はできれば働きたくないと思っています。しかし、今週の土曜日は報告書を仕上げるために、会社に行かなければなりません。
+【考え方】
+前半の「できるだけ子どもたちと過ごしたい」と、空所の内容をつなぐために、最初に 2 so（だから）を置き、主語の 4 she を続けます。
+主語のあとには動詞の部分が来ます。ここで 1 would と 5 rather not に注目します。would rather ～ は「（どちらかといえば）～したい」という決まった言い方で、打ち消すときは would rather not ～（～したくない）と、not を rather のあとに置きます。そこで、would の次の4番目に rather not が来ます。
+rather not のあとには動詞の原形（形を変えないもとの形）が来るので、3 work on を置きます。on は空所のあとの weekends と組になって on weekends（週末に）となります。
+she would rather not work on weekends で「彼女は週末には働きたくない」となり、次の文の However（しかし）以下の「今週の土曜日は会社に行かなければならない」と反対の内容がうまくつながります。
+she rather not would work のように would を後ろに回すと、would rather not という決まった語順がくずれるので、正しい文になりません。
+したがって4番目は5 rather not です。
+【覚えるポイント】
+・would rather ～ / would rather not ～：「（どちらかといえば）～したい／～したくない」。
+・on weekends：「週末に」。

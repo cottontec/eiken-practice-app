@@ -1,0 +1,32 @@
+---
+choices: They take up a lot of space in the city's harbor while contributing little to the local economy. | The expansion of the city's canals to accommodate them is proving to be too expensive. | They are too large to reliably enter the city without the risk of a serious accident. | Their large size prevents tourists on land from enjoying much of the city's architecture.
+answerText: They are too large to reliably enter the city without the risk of a serious accident.
+reviewed: yes
+---
+【正解】3 They are too large to reliably enter the city without the risk of a serious accident.（大きすぎるので、重大な事故の危険なしに確実に市に入ることはできない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one complaint about the cruise ships that visit Venice?（ベネチアを訪れるクルーズ船についての不満の一つは何か。）
+1 They take up a lot of space in the city's harbor while contributing little to the local economy.（市の港で多くの場所を占めているのに、地元の経済にはほとんど貢献していない。）
+2 The expansion of the city's canals to accommodate them is proving to be too expensive.（船を受け入れるために市の運河を広げることに、費用がかかりすぎると分かってきている。）
+3 They are too large to reliably enter the city without the risk of a serious accident.（大きすぎるので、重大な事故の危険なしに確実に市に入ることはできない。）
+4 Their large size prevents tourists on land from enjoying much of the city's architecture.（船が大きいので、陸にいる観光客は市の建築物の多くを楽しむことができない。）
+【考え方】
+まず見るところ：第1段落の Critics say that since the ships are so much bigger than ～
+設問の complaint は「不満、苦情」です。船に反対する人々の意見を探します。第1段落に、Critics（批判する人々）の言い分が書かれています。
+Critics say that since the ships are so much bigger than the old structures lining the canals, a single navigation error could lead to the destruction of several irreplaceable buildings.（批判する人々は、船は運河沿いに並ぶ古い建物よりもはるかに大きいので、たった一度の操船のミスで、取り替えのきかない建物がいくつも壊されることになりかねないと言う）
+navigation error は「操船のミス（船を動かすときの失敗）」、irreplaceable は「取り替えのきかない」という意味です。船が大きすぎるので、少しのミスでも大きな事故になるおそれがある、という不満です。
+本文と選択肢3を対にすると、次のようになります。
+・本文 so much bigger than the old structures（古い建物よりはるかに大きい）→ 選択肢 too large（大きすぎる）。「はるかに大きいので危険がある」を、「大きすぎて確実には入れない」と言いかえています。
+・本文 a single navigation error could lead to the destruction of several irreplaceable buildings（一度の操船ミスで建物がいくつも壊されかねない）＝ 選択肢 the risk of a serious accident（重大な事故の危険）
+よって3が正解です。
+この問題の型：言いかえ（建物が壊されかねない ＝ 重大な事故の危険）
+【ほかの選択肢】
+1 本文と反対です。第1段落には the city's economy relies heavily on the ships' presence（市の経済は船がやって来ることに大きく頼っている）とあり、「地元の経済にほとんど貢献していない」とは書かれていません。
+2 本文にありません。船を受け入れるために運河を広げるという話も、その費用の話も出てきません。
+4 本文にありません。本文には、船が乗客に「水上都市」の眺めを見せるとありますが、陸にいる観光客が建物を楽しめなくなるという不満は書かれていません。
+【覚えるポイント】
+・complaint：「不満、苦情」。critics：「批判する人々」。irreplaceable：「取り替えのきかない」。
+・「不満」をたずねる設問では、本文の Critics say ～ のように反対する人の意見を示す語を探すと、根拠の文を見つける手がかりになります。

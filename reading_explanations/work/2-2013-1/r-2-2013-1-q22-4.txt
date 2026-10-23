@@ -1,0 +1,21 @@
+---
+choices: made | clear | that | she | it
+answerText: clear
+order: 4 1 5 2 3
+reviewed: yes
+---
+【正解】2 clear（この問題の4番目）
+【完成文】
+Clark asked his professor if he could turn in his chemistry report late. She said it was possible, but ( she made it clear that ) he would lose points for being late.
+並べ方：4 she → 1 made → 5 it → 2 clear → 3 that（2番目は1、4番目は2）
+【和訳】
+クラークは、化学のレポートを遅れて提出してもよいかどうか、教授にたずねました。教授は、それは可能だと言いましたが、遅れたことで減点されるということをはっきりと伝えました。
+【考え方】
+空所は but（しかし）のすぐあとにあります。but のあとには、新しく「主語（～は）＋動詞（～する）」の形が続くと考えます。主語になれるのは 4 she（彼女は）で、前の文の She と同じく教授を指します。
+次に動詞を置きます。選択肢の中で動詞は 1 made だけです。make it clear that ～ は「～ということをはっきりさせる、はっきり伝える」という決まった言い方です。ここでの it は、あとの that ～ の内容（遅れたら減点されること）を先に指しておく語です。make A B（AをBにする）の形なので、made のあとに it、その次に clear を置きます。
+最後に 3 that を置くと、that のあとの he would lose points for being late（遅れたことで減点される）が「はっきり伝えた内容」になり、文がつながります。
+4番目に 2 clear が来るのは、make A B（AをBにする）の形で、A にあたる it のすぐあとに、B にあたる clear（はっきりした）を置くからです。
+it を使わずに made clear that ～ と言うこともできますが、この問題では5つすべてを使うので、it を made と clear の間に置きます。made clear it のように it を clear のあとに置くのはまちがいです。
+【覚えるポイント】
+・make it clear that ～：「～ということをはっきりさせる、はっきり伝える」。
+・turn in ～：「～を提出する」。hand in ～ も同じ意味です。

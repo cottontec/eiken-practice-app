@@ -1,0 +1,33 @@
+---
+choices: the changes seem to have had much more effect on people with dependents than on those who did not have them. | people who were removed from SNAP frequently returned to the program later with stronger motivation to remain employed. | although the changes were intended to encourage people to find jobs, they were mostly unsuccessful in doing so. | providing benefits through electronic cards rather than cash payments significantly increased recipients' willingness to search for stable employment.
+answerText: although the changes were intended to encourage people to find jobs, they were mostly unsuccessful in doing so.
+reviewed: yes
+---
+【正解】3 although the changes were intended to encourage people to find jobs, they were mostly unsuccessful in doing so.（その変化は人々に仕事を見つけるよう促すことを目的としていたが、そうすることにはほとんど成功しなかった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to the first paragraph, studies of the effects of reforms to SNAP have shown that（第1段落によると、SNAPの改革の効果についての研究が示しているのは、）
+1 the changes seem to have had much more effect on people with dependents than on those who did not have them.（その変化は、扶養家族のいない人々よりも、扶養家族のいる人々に、ずっと大きな影響を与えたようだということだ。）
+2 people who were removed from SNAP frequently returned to the program later with stronger motivation to remain employed.（SNAPから外された人々は、のちに、働き続けようとするより強い意欲を持って、たびたびこのプログラムに戻ってきたということだ。）
+3 although the changes were intended to encourage people to find jobs, they were mostly unsuccessful in doing so.（その変化は人々に仕事を見つけるよう促すことを目的としていたが、そうすることにはほとんど成功しなかったということだ。）
+4 providing benefits through electronic cards rather than cash payments significantly increased recipients' willingness to search for stable employment.（現金での支払いではなく電子カードで給付を行うことが、受給者の安定した仕事を探そうとする意欲を大きく高めたということだ。）
+【考え方】
+まず見るところ：第1段落の最後の Multiple studies that have examined the validity of these reforms, though, have indicated that the reforms had little or no effect on their overall employment rate.
+It was hoped that the changes would motivate such individuals to seek employment and discourage long-term reliance on public support.（その変化によって、そうした人々が仕事を探す気持ちになり、公的な支援に長い間頼ることが抑えられると期待されていた）
+motivate ～ to ... は「～に…する気を起こさせる」、seek employment は「仕事を探す」という意味です。改革のねらいは、人々に仕事を探させることでした。
+Multiple studies that have examined the validity of these reforms, though, have indicated that the reforms had little or no effect on their overall employment rate.（しかし、これらの改革の妥当性を調べた複数の研究は、改革が彼らの全体的な就業率にほとんど、あるいはまったく影響を与えなかったことを示している）
+little or no effect は「ほとんど、あるいはまったく効果がない」、employment rate は「就業率（働いている人の割合）」という意味です。研究によると、ねらいどおりには仕事につく人が増えなかったということです。
+本文と選択肢を対にすると、次のようになります。
+・本文 It was hoped that the changes would motivate such individuals to seek employment（その変化によって、そうした人々が仕事を探す気持ちになると期待されていた）→ 選択肢 the changes were intended to encourage people to find jobs（その変化は人々に仕事を見つけるよう促すことを目的としていた）
+・本文 the reforms had little or no effect on their overall employment rate（改革は彼らの全体的な就業率にほとんど、あるいはまったく影響を与えなかった）→ 選択肢 they were mostly unsuccessful in doing so（そうすることにはほとんど成功しなかった）
+ですから3が正解です。
+この問題の型：言いかえ（had little or no effect → mostly unsuccessful）／対比（期待されたこと⇔研究で分かったこと）
+【ほかの選択肢】
+1 本文にありません。改革の対象は able-bodied adults without dependents（扶養家族のいない、健康で働ける大人）で、扶養家族のいる人といない人への影響を比べた研究は、第1段落に書かれていません。
+2 本文にありません。SNAPから外された人々がのちにプログラムに戻ってきたことや、働き続ける意欲が強くなったことは書かれていません。研究が示しているのは、就業率にほとんど影響がなかったことです。
+4 本文にありません。第1段落の an electronic card（電子カード）は、給付の受け取り方を説明しているだけです。現金と比べたことや、電子カードで仕事を探す意欲が高まったことは書かれていません。
+【覚えるポイント】
+・little or no effect：「ほとんど、あるいはまったく効果がない」。選択肢では mostly unsuccessful（ほとんど成功しなかった）と言いかえられています。
+・本文に It was hoped that ～（～が期待されていた）と though（しかし）が続くときは、期待と実際の結果が食い違っていることが多いので、両方を対にして選択肢と比べることが手がかりになります。

@@ -1,0 +1,28 @@
+---
+choices: They remove chemicals that pollute the water. | They can be used by farmers to grow more crops. | They are not affected by the disease themselves. | They can help local people to make money.
+answerText: They can help local people to make money.
+reviewed: yes
+---
+【正解】4 They can help local people to make money.（その魚は、地元の人々がお金をかせぐ助けになりうる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：マラリアと闘うために魚を使うことの利点の1つは何ですか。
+1 They remove chemicals that pollute the water.（その魚は、水を汚す化学薬品を取り除く。）
+2 They can be used by farmers to grow more crops.（その魚は、農家の人がより多くの作物を育てるのに使える。）
+3 They are not affected by the disease themselves.（その魚自身は、その病気にかからない。）
+4 They can help local people to make money.（その魚は、地元の人々がお金をかせぐ助けになりうる。）
+【考え方】
+設問の advantage は「利点、よい点」です。第3段落の1文目に Using fish to control mosquitoes has many advantages.（魚を使って蚊を抑えることには多くの利点がある）とあり、そのあとに利点が順に挙げられています。
+1つ目は、環境に害を与えないこと。2つ目は、魚が自分で繁殖するので安い方法になること。そして4文目に In addition, some of these fish can be caught and sold, meaning that local people can actually earn an income from them.（さらに、こうした魚の一部はとって売ることができるので、地元の人々が実際にそれで収入を得られる）とあります。earn an income は「収入を得る」です。
+魚をとって売れば地元の人々の収入になる、ということは、魚が人々のお金かせぎの助けになるということです。本文と選択肢は次のように対応しています。
+本文 local people can actually earn an income from them（地元の人々がそれで収入を得られる）＝ 選択肢 They can help local people to make money（地元の人々がお金をかせぐ助けになりうる）
+正解は4です。
+【ほかの選択肢】
+1 本文には、魚を使う方法は does no damage to the environment（環境に何の害も与えない）とあります。しかし、魚が水を汚す化学薬品を取り除くとは書かれていません。
+2 魚が農家の人の作物づくりに使われるという話は本文にありません。
+3 魚自身がマラリアにかからないという話は本文にありません。
+【覚えるポイント】
+・earn an income：「収入を得る」。make money（お金をかせぐ）と近い意味です。
+・advantage：「利点、よい点」。反対は disadvantage（欠点）。

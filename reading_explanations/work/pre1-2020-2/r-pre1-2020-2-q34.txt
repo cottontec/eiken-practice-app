@@ -1,0 +1,35 @@
+---
+choices: might prevent the spread of superbugs but would do more harm than good to many communities. | would result in people both breaking the law to obtain the drugs and further polluting waterways. | is unrealistic because of the large influence pharmaceutical manufacturers have on the country's economy. | should take priority over more long-term tasks such as cleaning up the Ganges River and other waterways.
+answerText: might prevent the spread of superbugs but would do more harm than good to many communities.
+reviewed: yes
+---
+【正解】1 might prevent the spread of superbugs but would do more harm than good to many communities.（スーパーバグの広がりを防ぐかもしれないが、多くの地域社会にとっては、よいことより害の方が大きいだろう。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to the author of the passage, limiting the availability of antibiotics in India（この文章の筆者によると、インドで抗生物質を手に入りにくくすることは、…）
+1 might prevent the spread of superbugs but would do more harm than good to many communities.（スーパーバグの広がりを防ぐかもしれないが、多くの地域社会にとっては、よいことより害の方が大きいだろう。）
+2 would result in people both breaking the law to obtain the drugs and further polluting waterways.（人々が薬を手に入れるために法律を破ることと、水路をさらに汚すことの両方を引き起こすだろう。）
+3 is unrealistic because of the large influence pharmaceutical manufacturers have on the country's economy.（製薬会社がその国の経済に大きな影響力を持っているので、現実的ではない。）
+4 should take priority over more long-term tasks such as cleaning up the Ganges River and other waterways.（ガンジス川やほかの水路をきれいにするといった、より長い時間がかかる仕事よりも優先されるべきだ。）
+【考え方】
+まず見るところ：第3段落の始めの Solving the superbug problem is not as easy as simply restricting the availability of antibiotics, however.
+第3段落の始めを見ます。
+Solving the superbug problem is not as easy as simply restricting the availability of antibiotics, however.（しかし、スーパーバグの問題を解決するのは、単に抗生物質を手に入りにくくすることほど簡単ではない）
+抗生物質を減らせば耐性菌も減りそうに思えますが、それほど簡単ではない、と言っています。
+理由は次の文に書かれています。
+research has shown that lack of access to antibiotics would cause more deaths than infections by superbugs would（抗生物質が手に入らなくなると、スーパーバグによる感染症が引き起こすよりも多くの死者が出ることが、研究によって示されている）
+これは、抗生物質を手に入りにくくすると、スーパーバグによる死者よりも多くの人が亡くなるということです。
+本文と選択肢1を対にすると、次のようになります。
+本文 not as easy as simply restricting the availability of antibiotics（単に手に入りにくくすることほど簡単ではない）→ 選択肢 might prevent the spread of superbugs（スーパーバグの広がりを防ぐかもしれない）
+本文 would cause more deaths than infections by superbugs would（スーパーバグによる感染症よりも多くの死者を出す）→ 選択肢 would do more harm than good（よいことより害の方が大きい）
+「防ぐかもしれない」の部分は、第2段落で抗生物質の使いすぎが原因の一つとされていることから読み取れます。また、医師のいない地域が多いことも書かれているので、「多くの地域社会にとって」害が大きいという言い方にも合います。よって1が正解です。
+この問題の型：対比（however：手に入りにくくすればよさそう⇔それほど簡単ではない）／推論（より多くの死者が出る→害の方が大きい）
+【ほかの選択肢】
+2 本文にない内容です。人々が薬を手に入れるために法律を破ることや、そのせいで水路がさらに汚れることは、本文のどこにも書かれていません。
+3 本文にない内容です。製薬会社が経済に大きな影響力を持っているという話はありません。本文が挙げる理由は、医師のいない地域が多いことと、抗生物質が手に入らないと死者が増えることです。
+4 本文の流れと合いません。本文は、手に入りにくくすることは簡単な解決策ではないと述べ、そのため多くの人が、水路の中の抗生物質と細菌を減らし水質を改善することが鍵だと考えている、と続けています。手に入りにくくすることを川の浄化より優先すべきだとは言っていません。
+【覚えるポイント】
+・do more harm than good：「よいことより害の方が大きい、かえって害になる」。
+・not as easy as simply ～（単に～することほど簡単ではない）は、「～すれば解決しそうに見えるが、別の問題がある」ことを表す言い方です。そのすぐあとに理由が書かれていることが多いので、次の文の比較（ここでは more deaths than ～）を手がかりにします。

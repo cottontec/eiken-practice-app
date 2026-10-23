@@ -1,0 +1,34 @@
+---
+choices: allow patients to receive new organs without having to take drugs that prevent their immune system from rejecting the new tissue. | allow doctors to create new types of cells that would greatly shorten the time needed to grow organs in the laboratory. | assist in repairing damaged organs received from donors in order to increase the supply of organs available for transplant. | alter the structure of tissues from organ donors so that the reproduction of cells would occur more efficiently.
+answerText: allow patients to receive new organs without having to take drugs that prevent their immune system from rejecting the new tissue.
+reviewed: yes
+---
+【正解】1 allow patients to receive new organs without having to take drugs that prevent their immune system from rejecting the new tissue.（患者が、免疫システムが新しい組織を拒絶するのを防ぐ薬を飲まなくても、新しい臓器を受け取れるようにする（可能性がある）。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to the author of the passage, the use of 3D printers in the medical industry could（この文章の筆者によると、医療の分野で3Dプリンターを使うことは、何をする可能性があるか。）
+1 allow patients to receive new organs without having to take drugs that prevent their immune system from rejecting the new tissue.（患者が、免疫システムが新しい組織を拒絶するのを防ぐ薬を飲まなくても、新しい臓器を受け取れるようにする。）
+2 allow doctors to create new types of cells that would greatly shorten the time needed to grow organs in the laboratory.（医師が、研究室で臓器を育てるのに必要な時間を大きく短くするような、新しい種類の細胞を作れるようにする。）
+3 assist in repairing damaged organs received from donors in order to increase the supply of organs available for transplant.（移植に使える臓器の数を増やすために、提供者から受け取った傷んだ臓器を修理するのを助ける。）
+4 alter the structure of tissues from organ donors so that the reproduction of cells would occur more efficiently.（細胞の増殖がより効率よく起こるように、臓器提供者からの組織の構造を変える。）
+【考え方】
+まず見るところ：第1段落の最後の文 Using 3D printers ～ has the potential to eliminate these problems.
+第1段落の最後の文で、3Dプリンターの可能性が述べられています。
+Using 3D printers to produce organs made from either the patient's own cells or from artificially generated ones, however, has the potential to eliminate these problems.（しかし、患者自身の細胞か、人工的に作られた細胞のどちらかから作られた臓器を、3Dプリンターを使って生み出すことには、これらの問題をなくせる可能性がある）
+these problems（これらの問題）は、その前に書かれた臓器移植の問題を指しています。その一つが次の内容です。
+tissue from donors must be carefully matched with that of recipients so that the recipient's immune system does not reject the organ（臓器を受け取る人の免疫システムがその臓器を拒絶しないように、提供者の組織は受け取る人の組織と注意深く合わせなければならない）
+Even when things go well, recipients must take medications so the transplanted organ can survive in their body.（うまくいった場合でさえ、臓器を受け取った人は、移植された臓器が体の中で生き続けられるように、薬を飲まなければならない）
+immune system は「免疫システム（体に入ってきた異物を攻撃して体を守るしくみ）」、reject は「拒絶する（受けつけない）」です。
+本文と選択肢を対にすると、次のようになります。
+本文 recipients must take medications so the transplanted organ can survive（移植された臓器が生き続けられるように薬を飲まなければならない）＋ has the potential to eliminate these problems（これらの問題をなくせる可能性がある）→ 読み取れること：患者自身の細胞から作った臓器なら、拒絶を防ぐための薬を飲まなくてもよくなるかもしれない（選択肢 without having to take drugs that prevent their immune system from rejecting the new tissue）
+ですから1が正解です。
+この問題の型：指示語（these problems ＝ 組織を合わせる必要・薬を飲む必要など）
+【ほかの選択肢】
+2 本文に書かれていません。人工的に作られた細胞（artificially generated ones）は出てきますが、それで研究室で臓器を育てる時間が短くなるとは書かれていません。本文では、研究室で組織を育てる技術は限られた成功しか収めていないと述べられています。
+3 本文に書かれていません。3Dプリンターは、提供者から臓器を手に入れる代わりに臓器を作るためのもので、提供者の傷んだ臓器を修理するという話は出てきません。
+4 本文に書かれていません。3Dプリンターは患者自身の細胞か人工的に作られた細胞から臓器を作るもので、提供者の組織の構造を変えるという話はありません。
+【覚えるポイント】
+・have the potential to ～：「～する可能性がある」。設問の could（～する可能性がある）とつながる表現です。
+・these problems のように前の内容をまとめて指す語があるときは、その前の文に書かれた問題を一つずつ確かめ、選択肢がどれを言いかえているかを見るのが手がかりになります。

@@ -1,0 +1,26 @@
+---
+choices: regularly | correctly | hardly | politely
+answerText: regularly
+reviewed: yes
+---
+【正解】1 regularly（いつも決まって、定期的に）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 regularly：いつも決まって、定期的に
+2 correctly：正しく
+3 hardly：ほとんど～ない
+4 politely：礼儀正しく
+【考え方】
+空所は、コーリー・スプリングという大学生について述べた文にあります。Spring had been searching for good sites and posting them to Netscape as a hobby for some time, and his contributions (　) received a high number of votes.（スプリングはしばらくの間、趣味としてよいサイトを探してネットスケープに投稿しており、彼の投稿は〜多くの票を得ていた）という文です。
+まず、スプリングはその前の文で these expert surfers（こうした専門家サーファー）の1人として紹介されています。専門家サーファーとは、人気のある記事をよく投稿する人たちのことでした。
+さらに次の文には、Calacanis believed that Spring would attract many new visitors to the site.（カラカニスは、スプリングがサイトに多くの新しい訪問者を引きつけるだろうと考えた）とあります。
+こうした流れから、スプリングの投稿は「いつも決まって」多くの票を集めていたと考えられます。regularly は「定期的に、いつも決まって」という意味なので、1が正解です。
+【ほかの選択肢】
+2 correctly は「正しく」です。票を「正しく」受け取る、という言い方では意味が通らず、スプリングの投稿が人気だったという話になりません。
+3 hardly は「ほとんど～ない」です。これを入れると「彼の投稿は多くの票をほとんど得なかった」となり、専門家サーファーとして紹介されたことや、カラカニスの期待と反対になってしまいます。
+4 politely は「礼儀正しく」です。投稿が票を「礼儀正しく」受け取る、では意味が通りません。
+【覚えるポイント】
+・regularly：「定期的に、いつも決まって」。
+・a high number of ～：「多数の～」。

@@ -1,0 +1,29 @@
+---
+choices: distinguish | confirm | promote | govern
+answerText: confirm
+reviewed: yes
+---
+【正解】2 confirm（確認する）
+【和訳】
+（英文）
+A: Kevin, did you call the hotel to ［confirm］ my reservation for tomorrow?
+B: Yes, Ms. Harris. They said you can check in anytime after two o'clock.
+（訳）
+A：ケビン、明日の私の予約を（確認する）ために、ホテルに電話した？
+B：はい、ハリスさん。2時以降ならいつでもチェックインできると言っていました。
+（選択肢の意味）
+1 distinguish：区別する
+2 confirm：確認する
+3 promote：促進する、昇進させる
+4 govern：治める、統治する
+【考え方】
+空所の前後は call the hotel to (　) my reservation for tomorrow（明日の私の予約を（　）するためにホテルに電話する）です。この to ～ は「～するために」と目的を表します。
+Bの They said you can check in anytime after two o'clock.（2時以降ならいつでもチェックインできると言っていた）に注目します。They はホテルの人たちのことです。ケビンはホテルに電話をして、予約がちゃんと入っていることや、チェックインの時間を聞いたりしたのだと考えられます。
+confirm は「（正しいかどうか、決まっているかどうかを）確認する」という意味です。confirm my reservation で「私の予約を確認する」となり、Bの答えと自然につながります。ですから2が正解です。
+【ほかの選択肢】
+1 distinguish は「区別する、見分ける」です。「予約を区別するために電話した」では、チェックインの時間を聞いてきたというBの答えとつながりません。
+3 promote は「促進する、昇進させる、宣伝する」です。「予約を宣伝するために電話した」となり、意味が通りません。
+4 govern は「（国などを）治める、統治する」です。「予約を治める」では意味が通りません。
+【覚えるポイント】
+・confirm a reservation：「予約を確認する」。旅行やホテルの話でよく使う言い方です。
+・anytime after ～：「～以降ならいつでも」。

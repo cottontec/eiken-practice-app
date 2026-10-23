@@ -1,0 +1,31 @@
+---
+choices: dropped by | came down | passed on | went off
+answerText: went off
+reviewed: yes
+---
+【正解】4 went off（〔警報などが〕鳴った）
+【和訳】
+（英文）
+The security alarm in the hotel ［went off］ in the middle of the night, so all the guests and workers had to leave quickly.
+（訳）
+真夜中にホテルの防犯警報が（鳴った）ので、宿泊客と従業員は全員、急いで外に出なければなりませんでした。
+（選択肢の意味）
+1 dropped by：立ち寄った
+2 came down：下りてきた、落ちてきた
+3 passed on：伝えた、亡くなった
+4 went off：（警報などが）鳴った、（爆弾などが）爆発した
+【考え方】
+まず見るところ：主語の The security alarm と、so 以下の had to leave quickly
+The security alarm in the hotel ( ) in the middle of the night（真夜中にホテルの防犯警報が（　））
+主語は security alarm（防犯警報、警報装置）です。警報装置がどうしたのかを表す語句が空所に入ります。
+so all the guests and workers had to leave quickly（だから、宿泊客と従業員は全員、急いで外に出なければならなかった）
+so（だから）の後ろが結果です。全員が急いで建物を出たのは、警報が鳴ったからだと考えられます。
+go off には「（警報や目覚まし時計などが）鳴る」という意味があります。went off を入れると「警報が鳴った」となり、so 以下の結果とつながります。ですから4が正解です。
+この問題の型：熟語・決まった形（alarm ＋ go off）
+【ほかの選択肢】
+1 dropped by は drop by（立ち寄る）の過去形です。人がどこかに少し寄るときに使うので、「警報が立ち寄った」となり、意味が通りません。
+2 came down は come down（下りてくる、落ちてくる）の過去形です。「警報が下りてきた」では、全員が急いで外に出なければならなかった理由になりません。
+3 passed on は pass on（〔情報などを〕伝える、亡くなる）の過去形です。「警報が伝えた」では何を伝えたのかが書かれておらず、意味が通りません。
+【覚えるポイント】
+・go off：「（警報や目覚まし時計などが）鳴る」。過去形は went off です。
+・熟語を選ぶ問題では、主語（ここでは alarm）が何かを確かめ、その主語と組み合わせて自然な意味になるかを考えると、答えを選ぶ手がかりになります。

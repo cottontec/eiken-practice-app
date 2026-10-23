@@ -1,0 +1,30 @@
+---
+choices: Mr. Fletcher asked her about the services provided by Kidland Childcare. | She was unable to speak to Mr. Fletcher when he called yesterday. | Mr. Fletcher's son has started to attend Kidland Childcare. | She needs more information about Mr. Fletcher's son.
+answerText: Mr. Fletcher asked her about the services provided by Kidland Childcare.
+reviewed: yes
+---
+【正解】1 Mr. Fletcher asked her about the services provided by Kidland Childcare.（フレッチャーさんが、キッドランド・チャイルドケアが行っているサービスについて彼女にたずねた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ジュディ・セブリングは、なぜフレッチャーさんにメールを書いているのですか。
+1 Mr. Fletcher asked her about the services provided by Kidland Childcare.（フレッチャーさんが、キッドランド・チャイルドケアが行っているサービスについて彼女にたずねたから。）
+2 She was unable to speak to Mr. Fletcher when he called yesterday.（昨日フレッチャーさんが電話をかけてきたとき、彼女は彼と話すことができなかったから。）
+3 Mr. Fletcher's son has started to attend Kidland Childcare.（フレッチャーさんの息子が、キッドランド・チャイルドケアに通い始めたから。）
+4 She needs more information about Mr. Fletcher's son.（彼女は、フレッチャーさんの息子についてもっと情報が必要だから。）
+【考え方】
+メールを書いた理由は、たいていメールの最初に書かれています。第1段落の初めを見ます。
+Thank you for contacting Kidland Childcare.（キッドランド・チャイルドケアにお問い合わせいただき、ありがとうございます）
+As I promised on the phone yesterday, I am e-mailing you today to give you the information you asked for about our childcare services for your son.（昨日お電話でお約束したとおり、息子さんのための当園の保育サービスについて、お求めの情報をお伝えするために、本日メールをお送りしています）
+to give you the information ～ の to は「～するために」と目的を表します。つまり、フレッチャーさんがたずねた情報を伝えることが、このメールの目的です。
+本文と選択肢を対にすると、次のようになります。
+本文 the information you asked for about our childcare services ＝ 選択肢 asked her about the services provided by Kidland Childcare
+本文の「（あなたが）求めた、当園の保育サービスについての情報」が、選択肢では「キッドランド・チャイルドケアが行うサービスについて彼女にたずねた」と言いかえられています。ですから、1が正解です。
+【ほかの選択肢】
+2 本文と反対の内容です。As I promised on the phone yesterday（昨日お電話でお約束したとおり）や As I said（お話ししたとおり）とあるので、2人は昨日電話で話をしています。
+3 本文にありません。メールの最後に If you would like to come and visit our center with your son（息子さんと一緒に見学にいらっしゃりたいなら）とあり、まだ見学もしていない段階だと読み取れます。息子が通い始めたとは書かれていません。
+4 人物の立場が逆です。このメールは、ジュディ・セブリングが情報を「もらう」ためではなく、フレッチャーさんに保育サービスの情報を「伝える」ために書かれています。息子について質問している部分はありません。
+【覚えるポイント】
+・ask for ～：「～を求める」。the information you asked for で「あなたが求めた情報」です。
+・メールの目的は、Thank you for ～ や I am e-mailing you to ～ のあたりに書かれていることが多いです。

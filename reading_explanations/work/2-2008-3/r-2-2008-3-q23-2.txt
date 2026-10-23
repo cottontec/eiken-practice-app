@@ -1,0 +1,21 @@
+---
+choices: do | you | sit | all | is
+answerText: you
+order: 4 2 1 5 3
+reviewed: yes
+---
+【正解】2 you（この問題の2番目）
+【完成文】
+A: Tim, ( all you do is sit ) on the sofa and watch TV. Why don't you go outside and get some exercise?
+並べ方：4 all → 2 you → 1 do → 5 is → 3 sit（2番目は2、4番目は5）
+【和訳】
+A：ティム、ソファに座ってテレビを見てばかりいるね。外に行って少し運動したらどうだい？
+B：この映画が終わったらすぐに散歩に行くよ、お父さん。
+【考え方】
+まず会話の流れを見ます。父親（A）は、空所の文のあとで Why don't you go outside and get some exercise?（外に出て少し運動したらどうか）と言っています。ですから空所の文では、ティムが動かずにテレビばかり見ていることを注意していると考えられます。
+ここで使うのは All you do is ～（あなたがすることは～だけだ、～してばかりいる）という言い方です。All を先頭に置き、そのあとに you do（あなたがする）を続けます。All you do は「あなたがするすべてのこと」、つまり「あなたがすることといえば」という意味のまとまりで、これが文の主語になります。したがって2番目は2 you です。
+主語のまとまりのあとに動詞 5 is を置き、最後に 3 sit を続けます。All you do is sit on the sofa and watch TV. で「あなたがすることといえば、ソファに座ってテレビを見ることだけだ」となります。is のあとの sit は to のない動詞の元の形ですが、この言い方では to を付けずに使うことがよくあります。
+まちがえやすいのは、you do all is sit … のように all を後ろに回す並べ方です。これでは主語と動詞のまとまりがくずれ、文になりません。
+【覚えるポイント】
+・All you do is ～：「あなたは～してばかりいる、～するだけだ」。相手の行動を注意するときによく使います。
+・Why don't you ～?：「～したらどう？」と提案する言い方です。

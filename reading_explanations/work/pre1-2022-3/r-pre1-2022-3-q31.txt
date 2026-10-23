@@ -1,0 +1,30 @@
+---
+choices: there is further support for this theory | the chemical has another purpose | the plant is an important food source | many insects see the plant as a danger
+answerText: there is further support for this theory
+reviewed: yes
+---
+【正解】1 there is further support for this theory（この説にはさらなる裏づけがある）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 there is further support for this theory（この説にはさらなる裏づけがある）
+2 the chemical has another purpose（その化学物質には別の目的がある）
+3 the plant is an important food source（その植物は大切な食料源である）
+4 many insects see the plant as a danger（多くの昆虫がその植物を危険なものとみなしている）
+【考え方】
+まず見るところ：第3段落の空所の前の the researchers believe the plant has evolved specifically to target flies と、空所の後ろの This comes from the fact that ～
+空所の前の文で、研究者たちの考えが書かれています。
+the researchers believe the plant has evolved specifically to target flies that use dead beetles as egg-laying sites（研究者たちは、この植物は、死んだ甲虫を卵を産む場所として使うハエを特にねらうように進化してきたと考えている）
+evolve は「進化する（長い時間をかけて生き物の性質が変わっていく）」、target は「ねらう」です。
+空所の後ろは次のとおりです。
+This comes from the fact that the plant's flowers are located among dead leaves and rocks on the ground—exactly where the flies usually search for dead beetles.（これは、この植物の花が、地面の枯れ葉や石の間――まさにハエがふだん死んだ甲虫を探す場所――にあるという事実から来ている）
+花がハエの探す場所にあるという事実は、「この植物はそのハエをねらって進化した」という考えをさらに支える証拠になります。They also say that ～（彼らはまた～とも言っている）の also とも合います。this theory（この説）は前の文の研究者たちの考えを指し、support は「裏づけ、支え」なので、1が正解です。
+この問題の型：具体例とまとめ（花の場所という事実 → 説のさらなる裏づけ）、指示語（this theory が前の文の考えを指す）
+【ほかの選択肢】
+2 the chemical has another purpose（その化学物質には別の目的がある）は、本文に書かれていません。空所の後ろの文は花のある場所の話で、化学物質の別の目的は出てきません。
+3 the plant is an important food source（その植物は大切な食料源である）は、本文に書かれていません。空所の後ろの文は花のある場所の話で、その植物がだれかの食料になるという話は出てきません。
+4 many insects see the plant as a danger（多くの昆虫がその植物を危険なものとみなしている）は、本文に書かれていません。空所の後ろの文は花がハエの探す場所にあるという話で、昆虫がこの植物をどう見ているかは書かれていません。
+【覚えるポイント】
+・further support for ～：「～へのさらなる裏づけ」。theory は「説、理論」です。
+・空所の後ろが This comes from the fact that ～（これは～という事実から来ている）のように「根拠」を示しているときは、空所にはその根拠が支える主張（ここでは前の説を支えること）が入る手がかりになります。

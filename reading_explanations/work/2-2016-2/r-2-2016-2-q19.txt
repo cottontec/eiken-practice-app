@@ -1,0 +1,27 @@
+---
+choices: still more | for instance | even though | in case
+answerText: even though
+reviewed: yes
+---
+【正解】3 even though（～にもかかわらず、～だけれども）
+【和訳】
+（英文）
+Ben went to work as usual this morning ［even though］ he was not feeling well.
+（訳）
+ベンは体調がよくなかった（にもかかわらず）、今朝いつもどおり仕事に行きました。
+（選択肢の意味）
+1 still more：なおさら、さらに多く
+2 for instance：たとえば
+3 even though：～にもかかわらず
+4 in case：～の場合に備えて
+【考え方】
+空所の前は Ben went to work as usual this morning（ベンは今朝いつもどおり仕事に行った）、空所のあとは he was not feeling well（彼は体調がよくなかった）です。空所のあとに主語（he）と動詞（was）がそろった文が続いているので、空所には2つの文をつなぐ語が入ります。
+体調がよくないなら、ふつうは仕事を休むことが考えられます。ところがベンは「いつもどおり仕事に行った」ので、2つの内容は予想と反対の関係になっています。
+even though は「～にもかかわらず、～だけれども」という意味で、予想と反対のことをつなぎます。「体調がよくなかったにもかかわらず、いつもどおり仕事に行った」となり、意味が通るので、3が正解です。
+【ほかの選択肢】
+1 still more は「なおさら、さらに多く」です。2つの文をつなぐ働きはなく、ここに入れても文として成り立ちません。
+2 for instance は「たとえば」です。例を挙げる言い方で、「体調がよくなかった」は「仕事に行った」ことの例ではありません。
+4 in case は「～の場合に備えて」です。「体調がよくない場合に備えて、いつもどおり仕事に行った」となり、意味が通りません。
+【覚えるポイント】
+・even though ～：「～にもかかわらず」。though（～だけれども）を even で強めた形です。
+・as usual：「いつもどおり、いつものように」。

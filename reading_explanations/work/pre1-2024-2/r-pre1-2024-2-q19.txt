@@ -1,0 +1,30 @@
+---
+choices: its economy suffered badly | it did not help Great Britain | its actions told a different story | it needed assistance
+answerText: its actions told a different story
+reviewed: yes
+---
+【正解】3 its actions told a different story（その行動は別の事実を物語っていた）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 its economy suffered badly（その経済はひどい打撃を受けた）
+2 it did not help Great Britain（それはイギリスを助けなかった）
+3 its actions told a different story（その行動は別の事実を物語っていた）
+4 it needed assistance（それは援助を必要としていた）
+【考え方】
+まず見るところ：第1段落の空所の前の officially neutral と Nevertheless
+空所の前の文では、戦争に加わる前のアメリカの立場が書かれています。
+Before the United States entered World War II, it was officially neutral in the conflict.（アメリカは、第二次世界大戦に加わる前、その戦争では公式には中立だった）
+neutral は「中立の（どちらの味方にもつかない）」です。そのあとに Nevertheless（それにもかかわらず）が続くので、空所には「中立だった」とは食いちがう内容が入ります。
+空所のあとの文を見ます。
+In the form of steel, foodstuffs, and other essential goods, the United States provided a lifeline.（鋼鉄、食料品、そのほかの欠かせない品物という形で、アメリカは命綱を差し出した）
+アメリカは、公式には中立と言いながら、実際にはイギリスなど連合国に物資を送って助けていました。its actions told a different story は「その行動は（言っていることとは）別の事実を物語っていた」という意味で、「口では中立、行動は連合国の味方」という食いちがいを表します。よって3が正解です。
+この問題の型：対比（公式には中立⇔実際の行動は援助）
+【ほかの選択肢】
+1 its economy suffered badly は「その経済はひどい打撃を受けた」です。アメリカの経済が打撃を受けたことは本文に書かれていません。また、空所のあとはアメリカが物資を差し出した話で、経済の話にはつながりません。
+2 it did not help Great Britain は「それはイギリスを助けなかった」です。空所のあとで、アメリカは援助を必死に求めていたイギリスなどに the United States provided a lifeline（命綱を差し出した）と書かれているので、合いません。
+4 it needed assistance は「それは援助を必要としていた」です。本文で援助を必死に求めていたのは Great Britain and other Allied nations（イギリスやほかの連合国）で、アメリカは援助を与える側なので合いません。
+【覚えるポイント】
+・officially neutral：「公式には中立の」。Nevertheless：「それにもかかわらず」。tell a different story：「（言っていることとは）別の事実を物語る」。
+・officially（公式には）のような語のあとに Nevertheless が続くときは、「表向きの立場」と「実際の行動」が食いちがっているという流れを考えることが手がかりになります。

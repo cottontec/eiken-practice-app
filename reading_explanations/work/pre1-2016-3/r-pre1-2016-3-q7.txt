@@ -1,0 +1,35 @@
+---
+choices: boasting | grumbling | kneading | wavering
+answerText: boasting
+reviewed: yes
+---
+【正解】1 boasting（自慢している）
+【和訳】
+（英文）
+A: Erica beats me every time we play tennis. She's an outstanding player.
+B: Yeah, and she knows it, too. She's always ［boasting］ about how good she is.
+（訳）
+A：エリカとテニスをすると、毎回私が負けるんだ。彼女はずば抜けた選手だよ。
+B：うん、しかも本人もそれが分かっているよね。自分がどれだけうまいかを、いつも（自慢して）いるよ。
+（選択肢の意味）
+1 boasting：自慢している
+2 grumbling：ぶつぶつ不平を言っている
+3 kneading：（パン生地などを）こねている
+4 wavering：（気持ちが）揺れ動いている、迷っている
+【考え方】
+まず見るところ：Bの and she knows it, too と、空所の後ろの about how good she is
+Aは、エリカがテニスのずば抜けた選手（outstanding player）だと言っています。Bはそれに答えて、次のように言います。
+Yeah, and she knows it, too.（うん、しかも本人もそれが分かっている）
+it は「エリカがずば抜けた選手であること」を指します。
+続く文は次のとおりです。
+She's always ( ) about how good she is.（自分がどれだけうまいかについて、いつも（　）している）
+自分のうまさを分かっていて、そのうまさについていつも口にしている様子です。boast about ～ は「～について自慢する」という意味です。She's always boasting で「いつも自慢してばかりいる」となり、話の流れに合うので、1が正解です。
+be always doing は「いつも～してばかりいる」という形で、少しあきれた気持ちを表すことがあります。
+この問題の型：語の意味・組み合わせ（boast about ～）／指示語（it＝ずば抜けた選手であること）
+【ほかの選択肢】
+2 grumbling は「ぶつぶつ不平を言っている」です。grumble about ～ の形は使えますが、「自分がどれだけうまいかについて不平を言う」となり、意味が通りません。
+3 kneading は「（パン生地などを）こねている」です。手でこねる動作のことで、「自分がどれだけうまいか」について話す様子にはなりません。
+4 wavering は「（気持ちが）揺れ動いている、迷っている」です。本人が自分のうまさを分かっている（she knows it）という流れと合いません。
+【覚えるポイント】
+・boast about ～：「～について自慢する」。
+・空所の後ろの about のあとの内容（ここでは how good she is）は、空所の動詞が「何について話しているのか」を表しています。about のあとまで読んでから、それに合う動詞を選ぶと手がかりになります。

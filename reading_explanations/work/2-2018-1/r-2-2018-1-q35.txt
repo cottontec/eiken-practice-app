@@ -1,0 +1,31 @@
+---
+choices: They pay large amounts of money to buy food which causes the prices to increase. | They are causing pollution by failing to participate in the city's recycling program. | The cars and other vehicles they drive cause air pollution in the area. | The large amount of food they throw away can damage the environment.
+answerText: The large amount of food they throw away can damage the environment.
+reviewed: yes
+---
+【正解】4 The large amount of food they throw away can damage the environment.（観光客が捨てる大量の食べ物が、環境を傷つけることがある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：観光客がママッラプラムで引き起こしている問題の1つは何ですか。
+1 They pay large amounts of money to buy food which causes the prices to increase.（観光客が食べ物を買うのに大金を払い、それによって値段が上がる。）
+2 They are causing pollution by failing to participate in the city's recycling program.（観光客は、市のリサイクル計画に参加しないことで汚染を引き起こしている。）
+3 The cars and other vehicles they drive cause air pollution in the area.（観光客が運転する車やその他の乗り物が、その地域で大気汚染を引き起こしている。）
+4 The large amount of food they throw away can damage the environment.（観光客が捨てる大量の食べ物が、環境を傷つけることがある。）
+【考え方】
+第2段落の最初に、観光客が引き起こす問題がはっきり書かれています。
+One of the biggest problems is the amount of food waste tourists produce.（最も大きな問題の1つは、観光客が出す食べ物のごみの量だ）
+そのあとに、レストランの客が毎日約3トンの食べ物のごみを出すこと、そして次の文が続きます。
+Until recently, this has been thrown away in garbage dumps, leading to both air and water pollution.（最近まで、このごみはごみ捨て場に捨てられ、空気と水の両方の汚染につながっていた）
+本文と選択肢を対にすると、次のようになります。
+本文 the amount of food waste tourists produce ＝ 選択肢 The large amount of food they throw away
+本文 leading to both air and water pollution → 選択肢 can damage the environment
+「観光客が出す食べ物のごみ」が「観光客が捨てる食べ物」に、「空気と水の汚染につながる」が「環境を傷つける」に言いかえられています。
+【ほかの選択肢】
+1 観光客は These tourists bring many economic benefits to the town（町に多くの経済的な利益をもたらす）と書かれていますが、観光客が大金を払うせいで値段が上がるという話は本文にありません。
+2 リサイクルの計画は、NGOのハンド・イン・ハンドが考え出したものです。観光客がその計画に参加しないせいで汚染が起きている、とは書かれていません。
+3 本文の大気汚染（air pollution）の原因は、ごみ捨て場に捨てられた食べ物のごみです。観光客の車などの乗り物が原因だとは書かれていません。
+【覚えるポイント】
+・food waste：「食べ物のごみ、食品廃棄物」。
+・lead to ～：「～につながる、～を引き起こす」。

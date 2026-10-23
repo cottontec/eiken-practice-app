@@ -1,0 +1,27 @@
+---
+choices: needlessly | entirely | scientifically | violently
+answerText: entirely
+reviewed: yes
+---
+【正解】2 entirely（完全に、すっかり）
+【和訳】
+（英文）
+At first, the marketing department and the sales department were working on the project together. But people in the sales department were too busy, so now the project is being run ［entirely］ by the marketing department.
+（訳）
+最初は、マーケティング部と営業部がいっしょにそのプロジェクトに取り組んでいました。しかし、営業部の人たちは忙しすぎたので、今ではそのプロジェクトは（完全に）マーケティング部によって運営されています。
+（選択肢の意味）
+1 needlessly：不必要に
+2 entirely：完全に、すっかり
+3 scientifically：科学的に
+4 violently：乱暴に、激しく
+【考え方】
+1文目と2文目の「前」と「今」の違いに注目します。
+At first（最初は）、マーケティング部と営業部の2つの部が together（いっしょに）プロジェクトに取り組んでいました。ところが But 以下で、営業部は too busy（忙しすぎた）とあり、so now（それで今は）と続きます。
+営業部が忙しくて手を引いたのですから、今はもう一方のマーケティング部だけでプロジェクトを動かしていると考えられます。「2つの部で」から「マーケティング部だけで」に変わったことを表すには、「完全に、すっかり」という意味の entirely がぴったりです。is being run entirely by ～ で「完全に～によって運営されている」となります。なお、is being run は「運営されているところだ」という受け身（「～される」という形）の進行形です。
+【ほかの選択肢】
+1 needlessly は「不必要に、むだに」です。「不必要にマーケティング部によって運営されている」となり、営業部が忙しかったという理由とつながりません。
+3 scientifically は「科学的に」です。プロジェクトの運営のしかたが科学的かどうかは、この文の話題（どちらの部が担当しているか）と関係がありません。
+4 violently は「乱暴に、激しく」です。「乱暴に運営されている」となり、文の流れに合いません。
+【覚えるポイント】
+・entirely：「完全に、すっかり」。completely とほぼ同じ意味です。
+・be being ＋過去分詞：「～されているところだ」（受け身の進行形）。

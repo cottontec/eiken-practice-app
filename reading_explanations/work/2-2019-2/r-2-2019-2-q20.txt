@@ -1,0 +1,27 @@
+---
+choices: what | which | than | for
+answerText: what
+reviewed: yes
+---
+【正解】1 what（A is to B what C is to D の形）
+【和訳】
+（英文）
+Water is to fish ［what］ land is to humans. It is the place where they live.
+（訳）
+魚にとっての水は、人間にとっての陸と（同じようなもの）です。それは、彼らが住む場所なのです。
+（選択肢の意味）
+1 what（ここでは A is to B what C is to D の形を作る語）
+2 which（～するもの、どちら）
+3 than（～よりも）
+4 for（～のために）
+【考え方】
+この文は、空所の前が Water is to fish、空所のあとが land is to humans です。空所をはさんで、「水と魚」「陸と人間」という2つの組み合わせが同じ形で並んでいます。
+英語には A is to B what C is to D.（AとBの関係は、CとDの関係と同じだ）という決まった言い方があります。Water is to fish what land is to humans. は「魚にとっての水は、人間にとっての陸と同じようなものだ」という意味になります。
+次の文の It is the place where they live.（それは彼らが住む場所だ）が、どう同じなのかを説明しています。ここでは、人間にとって陸が住む場所であるのと同じように、魚にとって水は住む場所だ、ということです。ですから、1が正解です。
+【ほかの選択肢】
+2 which は「～するもの」「どちら」です。前の名詞に説明を付け足す働きもしますが、その場合は、説明される名詞が which の前に必要です。ここで which の前にあるのは fish なので、「陸が人間にとってそうである魚」のようになり、意味が通りません。what は、前に名詞がなくても「～であるもの」というまとまりを作れるので、この形に使われます。
+3 than は「～よりも」で、more や -er の形といっしょに比べるときに使います。この文には比べる語がないので合いません。
+4 for は「～のために」などの意味の前置詞（名詞の前に置く語）です。前置詞のあとには名詞が来ますが、ここでは land is to humans という文（主語と動詞のまとまり）が続いているので、形が合いません。
+【覚えるポイント】
+・A is to B what C is to D：「AとBの関係は、CとDの関係と同じだ」。Reading is to the mind what exercise is to the body.（読書と心の関係は、運動と体の関係と同じだ）がよく知られた例です。
+・2つの組み合わせが同じ形で並んでいたら、この言い方を思い出しましょう。

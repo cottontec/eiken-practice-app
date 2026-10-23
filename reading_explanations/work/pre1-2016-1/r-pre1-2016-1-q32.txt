@@ -1,0 +1,33 @@
+---
+choices: They became less common when art owners began refusing to pay money for the return of their stolen paintings. | Little-known pieces by famous artists are usually stolen, as well-known works are too hard to sell on the open market. | The thieves are forced to find ways to obtain cash in exchange for the artworks that do not involve selling them directly. | Police usually recover the artworks when the thieves attempt to exchange them for illegal drugs and weapons.
+answerText: The thieves are forced to find ways to obtain cash in exchange for the artworks that do not involve selling them directly.
+reviewed: yes
+---
+【正解】3 The thieves are forced to find ways to obtain cash in exchange for the artworks that do not involve selling them directly.（泥棒は、美術品と引き換えに現金を手に入れるための、美術品を直接売ることを伴わない方法を見つけざるをえない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is true of high-profile museum thefts?（世間の注目を集める美術館での盗難について、正しいのはどれですか。）
+1 They became less common when art owners began refusing to pay money for the return of their stolen paintings.（美術品の持ち主が、盗まれた絵画を返してもらうためにお金を払うのを断るようになると、そうした盗難は以前より少なくなった。）
+2 Little-known pieces by famous artists are usually stolen, as well-known works are too hard to sell on the open market.（よく知られた作品は公開の市場で売るのが難しすぎるので、たいていは有名な画家のあまり知られていない作品が盗まれる。）
+3 The thieves are forced to find ways to obtain cash in exchange for the artworks that do not involve selling them directly.（泥棒は、美術品と引き換えに現金を手に入れるための、美術品を直接売ることを伴わない方法を見つけざるをえない。）
+4 Police usually recover the artworks when the thieves attempt to exchange them for illegal drugs and weapons.（泥棒が美術品を違法な薬物や武器と交換しようとすると、たいてい警察が美術品を取り戻す。）
+【考え方】
+まず見るところ：第1段落の As these thefts often involve masterpieces that are too famous to be sold on the open market, ～
+設問の high-profile museum thefts（世間の注目を集める美術館での盗難）は、第1段落に出てきます。
+As these thefts often involve masterpieces that are too famous to be sold on the open market, the criminals must trade them for items such as illegal drugs or weapons, which can then be sold for cash.（こうした盗難では、あまりに有名なために公開の市場では売ることのできない名作が狙われることが多いので、犯人たちはそれらを違法な薬物や武器などの品物と交換しなければならない。そうした品物なら、そのあとで売って現金にすることができるのだ）
+too ～ to … は「あまりに～なので…できない」、open market は「公開の市場（だれでも売り買いできる場）」です。有名すぎる名作はそのまま売れないので、いったん薬物や武器と交換し、それを売って現金にする、という方法です。
+続く文には、もう1つの方法も書かれています。
+In other cases, the thefts are more like kidnappings, where the thieves demand money from the artworks' owners in exchange for their safe return.（また別の場合には、盗難はむしろ誘拐に近いもので、泥棒は、美術品を無事に返すのと引き換えに、美術品の持ち主にお金を要求する）
+どちらも、美術品を直接売らずにお金を手に入れる方法です。本文と選択肢を対にすると、次のようになります。
+本文 the criminals must trade them for items ～ which can then be sold for cash（犯人たちは、それらを、あとで売って現金にできる品物と交換しなければならない）→ 選択肢 The thieves are forced to find ways to obtain cash ～ that do not involve selling them directly（泥棒は、現金を手に入れるための、美術品を直接売ることを伴わない方法を見つけざるをえない）
+「交換してから売る」という具体的なやり方が、「直接売ることを伴わない方法」とまとめて言いかえられ、must（～しなければならない）が are forced to（～せざるをえない）に言いかえられています。ですから3が正解です。
+この問題の型：言いかえ（must trade them for items ～ sold for cash ＝ find ways ～ that do not involve selling them directly）
+【ほかの選択肢】
+1 本文には、泥棒が持ち主にお金を要求する場合があることは書かれていますが、持ち主がお金を払うのを断るようになって盗難が減ったという話はありません。本文にない内容です。
+2 本文と反対です。本文では、こうした盗難では too famous to be sold on the open market（あまりに有名なために公開の市場では売れない）名作が狙われることが多いと書かれています。あまり知られていない作品が盗まれるのではありません。
+4 本文にない内容です。第1段落には most stolen artworks are never recovered（盗まれた美術品のほとんどは、決して取り戻されることがない）とあり、警察が取り戻すことはむしろまれだと読み取れます。薬物や武器と交換しようとしたときに警察が取り戻す、という話も書かれていません。
+【覚えるポイント】
+・too ～ to …：「あまりに～なので…できない」。too famous to be sold で「あまりに有名なので売ることができない」。
+・選択肢の do not involve selling them directly（直接売ることを伴わない）のような説明は、本文の「交換してから売る」「返す代わりにお金を求める」といった具体的な方法をまとめた言い方であることが多いので、本文の具体例と1つずつ照らし合わせましょう。

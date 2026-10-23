@@ -1,0 +1,34 @@
+---
+choices: difference | point | fool | start
+answerText: fool
+reviewed: yes
+---
+【正解】3 fool（ばか、愚か者）
+【和訳】
+（英文）
+A: What's wrong, Emily?
+B: Jim made a ［fool］ of me in front of my friends. He said my shoes were ugly.
+（訳）
+A：どうしたの、エミリー？
+B：ジムが、友だちの前で私を（笑いもの）にしたんだ。私の靴がかっこ悪いと言ったんだよ。
+（選択肢の意味）
+1 difference：違い
+2 point：要点、点
+3 fool：ばか、愚か者
+4 start：始まり、開始
+【考え方】
+まず見るところ：Bの Jim made a (　) of me in front of my friends. と、次の文 He said my shoes were ugly.
+What's wrong, Emily?（どうしたの、エミリー？）
+Aは様子のおかしいエミリーにたずねています。Bは困っていることを答えています。
+He said my shoes were ugly.（彼は私の靴がかっこ悪いと言った）
+ugly は「みにくい、かっこ悪い」という意味です。しかもそれは in front of my friends（友だちの前で）のことでした。
+make a fool of ～ は「～を笑いものにする、～をばかにする」という決まった言い方です。Jim made a fool of me で「ジムが私を笑いものにした」となり、友だちの前で靴をけなされた内容に合います。3が正解です。
+この問題の型：熟語・決まった形（make a fool of ～）、具体例とまとめ（靴をけなす→笑いものにする）
+【ほかの選択肢】
+1 difference は「違い」です。make a difference は「違いを生む、大切な影響を与える」という言い方です。「ジムが私に違いを生んだ」のような意味になり、靴をけなされて困っている話とつながりません。
+2 point は「要点、点」です。make a point of ～ing は「必ず～するようにしている」という言い方で、of のあとに me を置いても意味が通りません。
+4 start は「始まり、開始」です。make a start（始める）という言い方はありますが、「私の始まりを作った」のような意味になり、靴をけなされた話とつながりません。
+【覚えるポイント】
+・make a fool of ～：「～を笑いものにする、～をばかにする」。
+・What's wrong?：「どうしたの？」と相手を心配してたずねる言い方です。
+・make a (　) of ～ の形は、(　) に入る語で意味が決まる決まった言い方です。次の文の出来事（ここでは靴をけなされた話）がどんな内容かを手がかりに選びます。

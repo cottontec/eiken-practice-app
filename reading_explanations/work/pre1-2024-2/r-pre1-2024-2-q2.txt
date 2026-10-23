@@ -1,0 +1,31 @@
+---
+choices: shrewd | defective | serene | classified
+answerText: classified
+reviewed: yes
+---
+【正解】4 classified（機密の）
+【和訳】
+（英文）
+To protect government secrets, high-level workers must complete a security check before they can view ［classified］ documents.
+（訳）
+政府の秘密を守るために、地位の高い職員は、（機密）文書を見ることができるようになる前に、セキュリティ審査（安全のための調べ）を終えなければならない。
+（選択肢の意味）
+1 shrewd：抜け目のない、頭の切れる
+2 defective：欠陥のある
+3 serene：穏やかな、静かな
+4 classified：機密の（決められた人しか見てはいけない）
+【考え方】
+まず見るところ：文の最初の To protect government secrets
+文の最初で、この決まりの目的が示されています。
+To protect government secrets（政府の秘密を守るために）
+秘密を守るために、職員は審査を受けなければなりません。そのあとで見ることができるのが、空所のついた文書です。
+before they can view (　) documents（〇〇文書を見ることができるようになる前に）
+審査を通った人だけが見られる文書は、秘密の情報が書かれた文書だと考えられます。classified は「機密の（決められた人しか見てはいけない）」なので、4が正解です。classified documents で「機密文書」という意味になります。
+この問題の型：語の意味・組み合わせ（government secrets → classified documents）
+【ほかの選択肢】
+1 shrewd は「抜け目のない、頭の切れる」で、ふつうは人の性質を表します。「抜け目のない文書」では意味が通りません。
+2 defective は「欠陥のある」です。「欠陥のある文書を見る前に審査を受ける」となり、政府の秘密を守るという目的とつながりません。
+3 serene は「穏やかな、静かな」です。「穏やかな文書」では意味が通らず、秘密を守る話とも合いません。
+【覚えるポイント】
+・classified documents：「機密文書」。security check：「セキュリティ審査（安全のための調べ）」。
+・文の最初に To protect ～（～を守るために）のような目的が書かれているときは、その目的が空所の語を決める手がかりになります。

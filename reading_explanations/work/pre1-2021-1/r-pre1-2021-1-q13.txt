@@ -1,0 +1,33 @@
+---
+choices: dazed | vicious | heartfelt | superior
+answerText: vicious
+reviewed: yes
+---
+【正解】2 vicious（凶暴な、激しく危険な）
+【和訳】
+（英文）
+Mark spent more than a month in the hospital after becoming the victim of a ［vicious］ bear attack.
+（訳）
+マークは、クマによる（凶暴な）襲撃の被害者になったあと、1か月以上を病院で過ごしました。
+（選択肢の意味）
+1 dazed：ぼうっとした、目がくらんだ
+2 vicious：凶暴な、激しく危険な
+3 heartfelt：心からの
+4 superior：よりすぐれた、上等な
+【考え方】
+まず見るところ：文の前半の spent more than a month in the hospital
+前半は次のとおりです。
+Mark spent more than a month in the hospital（マークは1か月以上を病院で過ごした）
+1か月以上も入院していたので、マークは大けがをしたと考えられます。
+後半は次のとおりです。
+after becoming the victim of a ( ) bear attack（（　）クマの襲撃の被害者になったあと）
+victim は「被害者、犠牲者」、attack は「襲撃、襲いかかること」です。空所には、どんな襲撃だったかを表す形容詞（名詞のようすや性質を表す語）が入ります。
+長く入院するほどのけがをしたのですから、襲撃は激しいものだったと考えられます。vicious は「凶暴な、激しく危険な」なので、2が正解です。
+この問題の型：因果（凶暴な襲撃を受けた→1か月以上入院）
+【ほかの選択肢】
+1 dazed は「ぼうっとした、目がくらんだ」です。人の状態を表す語なので、「ぼうっとしたクマの襲撃」となり、1か月以上の入院という結果ともつながりません。
+3 heartfelt は「心からの」です。heartfelt thanks（心からの感謝）のように気持ちについて使う語なので、「心からのクマの襲撃」となり、意味が通りません。
+4 superior は「よりすぐれた、上等な」です。「よりすぐれたクマの襲撃」となり、意味が通りません。
+【覚えるポイント】
+・vicious：「凶暴な、激しく危険な」。attack（襲撃）のような、乱暴な行為を表す語と組み合わせて使われます。
+・空所が形容詞のときは、文のほかの部分にある結果（ここでは more than a month in the hospital）から、そのようすが「激しい」か「おだやか」かを考えると手がかりになります。

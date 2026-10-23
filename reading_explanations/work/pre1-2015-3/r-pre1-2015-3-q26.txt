@@ -1,0 +1,29 @@
+---
+choices: Likewise | For example | As a result | For one thing
+answerText: Likewise
+reviewed: yes
+---
+【正解】1 Likewise（同様に、同じように）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Likewise（同様に、同じように）
+2 For example（たとえば）
+3 As a result（その結果）
+4 For one thing（一つには）
+【考え方】
+まず見るところ：空所の前の Some people purchase objects と、空所のあとの money can also be spent on experiences
+空所は第1段落の (26), money can also be spent on experiences, ～ の初めにあります。このような空所では、前の文とあとの文がどんな関係でつながっているかを考えます。
+Some people purchase objects, such as cars or watches, to make themselves feel good.（自分をいい気分にするために、車や腕時計のような物を買う人もいる）
+(26), money can also be spent on experiences, such as taking a vacation or eating an expensive meal.（（26）、お金は、休暇をとることや高価な食事をすることのような、経験に使うこともできる）
+前の文は「物にお金を使う」話、あとの文は「経験にお金を使う」話です。物と経験は中身は違いますが、どちらも「お金の使い道」という同じ種類の話で、あとの文には also（～も）もあります。つまり、「お金は物に使う人もいるし、同じように、経験にも使える」と、使い道をもう一つ並べて付け加えています。Likewise は「同様に、同じように」という意味で、前の内容に並べて付け加えるときに使うので、1が正解です。
+なお、物と経験のどちらが人を幸せにするかを比べるのは、このあとの文からです。この空所の文は、まず2つの使い道を並べて示しています。
+この問題の型：語の意味・組み合わせ（Likewise ＝ 同じ種類の話を並べる）
+【ほかの選択肢】
+2 For example（たとえば）を入れると、経験にお金を使うことが「物を買うこと」の例になってしまいます。経験は物とは別の使い道なので、例としてつながりません。
+3 As a result（その結果）を入れると、経験にお金を使えることが「物を買ったことの結果」になってしまいます。前の文とあとの文の間に、原因と結果の関係はありません。
+4 For one thing（一つには）は、理由などを一つずつ挙げ始めるときの言い方です。あとの文は前の文の理由を述べているわけではないので、つながりません。
+【覚えるポイント】
+・Likewise：「同様に、同じように」。前に書かれたことと同じ種類のことを、並べて付け加えるときに使います。
+・空所のあとの文に also（～も）があるときは、前の文と「同じ種類のことを並べている」手がかりになります。前とあとが例・結果・理由のどの関係になっているかを確かめてから、つなぎの言葉を選びましょう。

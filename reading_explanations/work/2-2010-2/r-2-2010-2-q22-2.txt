@@ -1,0 +1,22 @@
+---
+choices: cases | to | needs | he | where
+answerText: where
+order: 1 5 4 3 2
+reviewed: yes
+---
+【正解】5 where（この問題の2番目）
+【完成文】
+He can usually fix errors in programs by himself, but there are ( cases where he needs to ) ask his co-workers to help him.
+並べ方：1 cases → 5 where → 4 he → 3 needs → 2 to（2番目は5、4番目は3）
+【和訳】
+ケビンはコンピューターのプログラマーです。彼はふつう、プログラムのまちがいを自分ひとりで直すことができますが、同僚に助けてくれるよう頼む必要がある場合もあります。
+【考え方】
+空所の前は but there are です。there are のあとには「何があるのか」を表す名詞（複数）がきます。選択肢の中で名詞は 1 cases（場合）です。there are cases で「～な場合がある」となります。
+次に、cases のあとに「どんな場合か」という説明を付け足します。5 where は、cases のような「場合・場所」を表す語のあとに置いて、「～する（場合）」と説明を続ける働きをします。where のあとには主語と動詞が必要なので、4 he と 3 needs を続けて where he needs とします。
+最後に 2 to を置くと needs to ～（～する必要がある）となり、空所のあとの ask his co-workers to help him（同僚に助けてくれるよう頼む）につながります。ask ＋ 人 ＋ to ～ は「人に～してくれるよう頼む」です。
+文全体は「ふつうは自分で直せるが、同僚に助けを頼む必要がある場合もある」となり、but（しかし）の前後がうまく対比（2つを比べて違いを示すこと）になります。
+したがって2番目は5 where です。
+まちがえやすいのは、he needs を cases の前に置く並べ方です。there are he needs … では、there are のあとに名詞がこないので文になりません。
+【覚えるポイント】
+・there are cases where ～：「～する場合がある」。
+・need to ～：「～する必要がある」。

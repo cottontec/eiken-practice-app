@@ -1,0 +1,27 @@
+---
+choices: fading | referring | maintaining | supplying
+answerText: referring
+reviewed: yes
+---
+【正解】2 referring（refer：〔refer to で〕～のことを言う、～に言及する）
+【和訳】
+（英文）
+Mary kept talking about somebody in the office, but John was not sure who she was ［referring］ to.
+（訳）
+メアリーは職場のだれかについてずっと話していましたが、ジョンには、彼女がだれのことを（言って）いるのか、よく分かりませんでした。
+（選択肢の意味）
+1 fading：薄れていく、消えていく
+2 referring：（refer to で）～のことを言う
+3 maintaining：保つ、維持する
+4 supplying：供給する、与える
+【考え方】
+前半の Mary kept talking about somebody in the office（メアリーは職場のだれかについて話し続けた）に注目します。keep -ing は「～し続ける」という意味です。
+後半は but John was not sure who she was (　) to.（しかしジョンは、彼女がだれ（　）しているのかよく分からなかった）です。空所のあとに to があることが大切な手がかりです。who は to のあとに来るはずの語が前に出たもので、もとは she was (　) to whom（彼女はだれに対して（　）していたか）という形です。
+refer to ～ は「～のことを言う、～に言及する（話の中で取り上げる）」という意味です。who she was referring to で「彼女がだれのことを言っているのか」となり、メアリーが「だれか」について話していたという前半と合います。ですから、2が正解です。
+【ほかの選択肢】
+1 fading は fade（薄れていく、消えていく）の -ing 形です。「彼女がだれに向かって薄れていたのか」となり、意味が通りません。
+3 maintaining は maintain（保つ、維持する）の -ing 形です。「だれに保っていたのか」では意味が通らず、話をしていたという前半とも合いません。
+4 supplying は supply（供給する、与える）の -ing 形です。supply A to B（AをBに供給する）という形はありますが、何を与えたのかが文にありません。メアリーは話をしていただけなので、意味が合いません。
+【覚えるポイント】
+・refer to ～：「～のことを言う、～に言及する」。「～を参照する（調べる）」という意味もあります。
+・keep -ing：「～し続ける」。

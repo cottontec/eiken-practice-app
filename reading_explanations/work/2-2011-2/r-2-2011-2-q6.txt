@@ -1,0 +1,24 @@
+---
+choices: capability | progress | curiosity | desire
+answerText: progress
+reviewed: yes
+---
+【正解】2 progress（進歩、前進）
+【和訳】
+この20年の間に、コンピューター技術は大きな進歩をとげました。
+（選択肢の意味）
+1 capability：能力
+2 progress：進歩、前進
+3 curiosity：好奇心
+4 desire：願望、欲求
+【考え方】
+文は Over the past two decades, computer technology has made huge (　).（過去20年の間に、コンピューター技術は大きな〜をした）です。decade は「10年」なので、two decades は「20年」です。huge は「巨大な、とても大きな」です。
+空所の前に made があることに注目します。make progress で「進歩する」という決まった言い方があります。make huge progress なら「大きな進歩をとげる」です。
+主語はコンピューター技術で、「この20年で大きく進歩した」という内容は自然です。正解は2です。
+【ほかの選択肢】
+1 capability は「能力」です。「技術が大きな能力を作った」となり、make とも結びつかず、意味がはっきりしません。
+3 curiosity は「好奇心」です。好奇心は人がもつ気持ちなので、コンピューター技術が好奇心を作ったという内容は意味が通りません。
+4 desire は「願望、欲求」です。これも人の気持ちを表す語で、技術について「大きな願望を作った」とは言えません。
+【覚えるポイント】
+・make progress：「進歩する」。make huge progress で「大きな進歩をとげる」。
+・decade：「10年」。two decades は「20年」です。

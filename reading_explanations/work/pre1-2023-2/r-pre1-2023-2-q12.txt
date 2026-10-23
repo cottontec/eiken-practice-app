@@ -1,0 +1,29 @@
+---
+choices: grazing | dwindling | browsing | rebounding
+answerText: dwindling
+reviewed: yes
+---
+【正解】2 dwindling（だんだん減っている）
+【和訳】
+（英文）
+Miranda noticed that the amount of money in her savings account was ［dwindling］, so she decided to start spending less every month.
+（訳）
+ミランダは、自分の預金口座のお金の額が（だんだん減ってきている）ことに気づいたので、毎月使うお金を少なくし始めることにしました。
+（選択肢の意味）
+1 grazing：（牛などが）草を食べている
+2 dwindling：だんだん減っている
+3 browsing：（店の商品を）見て回っている、（本などを）拾い読みしている
+4 rebounding：（下がったあとで）また上がっている、はね返っている
+【考え方】
+まず見るところ：文の後半の so she decided to start spending less every month
+so she decided to start spending less every month（だから、彼女は毎月使うお金を少なくし始めることにした）
+so（だから）の後ろは結果です。spend less は「使うお金を少なくする」という意味です。
+使うお金を少なくしようと決めたのは、預金口座（savings account：銀行にお金を預けておく口座）のお金が困った状態になっていたからだと考えられます。dwindle は「だんだん減る、少なくなる」なので、was dwindling で「だんだん減ってきていた」となり、使うお金を少なくする理由になります。ですから2が正解です。
+この問題の型：因果（お金が減っている→使うお金を少なくする）
+【ほかの選択肢】
+1 grazing は「（牛などが）草を食べている」です。お金の額について「草を食べている」となり、意味が通りません。
+3 browsing は「（店の商品を）見て回っている、（本などを）拾い読みしている」です。人の動作を表す語で、お金の額の様子を表せないので、意味が通りません。
+4 rebounding は「（下がったあとで）また上がっている」です。お金の額がまた増えてきているなら、使うお金を少なくする理由にならず、so の後ろとつながりません。
+【覚えるポイント】
+・dwindle：「だんだん減る、少なくなる」。the amount of money（お金の額）や population（人口）などが少しずつ減るときに使われます。
+・A, so B（Aなので、B）の文で、Bが「使うお金を少なくする」のような対策なら、Aにはその対策が必要になる困った状態が入ると考えると手がかりになります。

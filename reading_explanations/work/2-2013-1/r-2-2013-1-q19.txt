@@ -1,0 +1,26 @@
+---
+choices: avoid | avoiding | to avoid | to be avoided
+answerText: to avoid
+reviewed: yes
+---
+【正解】3 to avoid（so as to ～ で「～するために」）
+【和訳】
+（英文）
+Anthony always leaves for work very early so as ［to avoid］ the rush-hour traffic.
+（訳）
+アンソニーは、ラッシュアワーの交通渋滞を避けるために、いつもとても早く仕事に出かけます。
+（選択肢の意味）
+1 avoid：避ける（動詞の元の形）
+2 avoiding：避けること、避けている
+3 to avoid：避けるために（so as のあと）
+4 to be avoided：避けられるために
+【考え方】
+空所の前の so as に注目します。so as to ＋ 動詞の原形（変化しない元の形）で「～するために」という、目的を表す決まった言い方になります。so as のあとには必ず to ＋ 動詞の原形がきます。
+入れてみると、so as to avoid the rush-hour traffic で「ラッシュアワーの交通渋滞を避けるために」となります。アンソニーがとても早く出かける目的として、自然に意味が通ります。正解は3です。
+【ほかの選択肢】
+1 avoid は to が付いていない形です。so as のあとに to がないと、目的を表す形になりません。
+2 avoiding は ～ing の形です。so as のあとには to ＋ 動詞の原形がくるので、この形は入りません。
+4 to be avoided は「避けられる」という受け身（「～される」という形）です。避けるのはアンソニー自身なので、「アンソニーが避けられるために」という意味では合いません。あとに the rush-hour traffic（避ける対象）が続いていることからも、受け身の形は合いません。
+【覚えるポイント】
+・so as to ～：「～するために」。否定は so as not to ～（～しないように）です。
+・leave for ～：「～に向けて出発する」。leave for work で「仕事に出かける」。

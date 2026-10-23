@@ -1,0 +1,25 @@
+---
+choices: permission | demand | assistance | responsibility
+answerText: demand
+reviewed: yes
+---
+【正解】2 demand（需要、求められること）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 permission：許可
+2 demand：需要、求められること
+3 assistance：援助、手助け
+4 responsibility：責任
+【考え方】
+空所の文は Some time later, however, (　) for Detroit's cars began to drop.（しかし、しばらくすると、デトロイトの車への（　）が落ち始めた）です。however（しかし）があるので、第1段落の「車がとても人気で、都市が発展した」という話とは反対の流れになります。
+次の文には、Other countries were producing cheaper and more efficient cars（ほかの国々がより安く、より効率のよい車を生産していた）とあり、さらに more and more of the city's factories went out of business（この都市の工場がますます多く廃業していった）と続きます。go out of business は「廃業する、つぶれる」です。
+ほかの国で安くてよい車が作られると、人々はそちらを買うようになり、デトロイトの車はあまり買われなくなります。demand for ～ は「～への需要（買いたい、ほしいと求められること）」という意味です。demand for Detroit's cars began to drop で「デトロイトの車への需要が落ち始めた」となり、工場がつぶれていった理由とつながります。正解は2です。
+【ほかの選択肢】
+1 permission は「許可」です。「デトロイトの車への許可が減り始めた」となりますが、本文には、車の販売や生産が許されなくなったという話はありません。工場が減った理由は、ほかの国の安くてよい車です。
+3 assistance は「援助、手助け」です。「デトロイトの車への援助が減り始めた」となりますが、だれかが車の会社を援助していたという話は本文にありません。ほかの国の車との競争の話とつながりません。
+4 responsibility は「責任」です。「デトロイトの車への責任が落ち始めた」となり、意味が通りません。
+【覚えるポイント】
+・demand for ～：「～への需要」。demand for ～ drops（需要が落ちる）、demand for ～ increases（需要が増える）のように使います。
+・go out of business：「廃業する、（会社や店が）つぶれる」。

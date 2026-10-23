@@ -1,0 +1,30 @@
+---
+choices: custody | procedure | finale | bait
+answerText: custody
+reviewed: yes
+---
+【正解】1 custody（親権（子どもを引き取って育てる権利））
+【和訳】
+（英文）
+In the divorce case, the judge awarded ［custody］ of the children to the mother but ruled that the father could visit them twice a month.
+（訳）
+その離婚裁判で、裁判官は子どもたちの（親権）を母親に与えたが、父親は月に2回子どもたちに会いに行ってよいという判決を下した。
+（選択肢の意味）
+1 custody：親権（子どもを引き取って育てる権利）、保護
+2 procedure：手順、手続き
+3 finale：フィナーレ（最後の場面、終わりの部分）
+4 bait：（魚つりなどの）えさ、おとり
+【考え方】
+まず見るところ：後半の but ruled that the father could visit them twice a month
+the judge awarded ( ) of the children to the mother（裁判官は子どもたちの（　）を母親に与えた）
+divorce case は「離婚裁判」、award A to B は「（裁判などで）AをBに与える、認める」という意味です。
+but ruled that the father could visit them twice a month（しかし、父親は月に2回子どもたちに会いに行ってよいと判決を下した）
+rule は「判決を下す、決定する」という意味です。but のあとで「父親は月に2回会いに行ってよい」とあるので、子どもたちはふだん母親と暮らすことになったと考えられます。離婚のとき、子どもを引き取って育てる権利を custody（親権）と言うので、1が正解です。
+この問題の型：対比（but：親権は母親に⇔父親は会いに行ける）／語の意味・組み合わせ（custody of the children）
+【ほかの選択肢】
+2 procedure は「手順、手続き」です。「子どもたちの手順を母親に与えた」となり、意味が通りません。
+3 finale は「フィナーレ、最後の場面」です。「子どもたちのフィナーレを母親に与えた」となり、意味が通りません。
+4 bait は「えさ、おとり」です。「子どもたちのえさを母親に与えた」となり、離婚裁判の判決の話として意味が通りません。
+【覚えるポイント】
+・custody of the children：「子どもたちの親権」。award custody to ～ で「～に親権を認める」です。
+・判決を述べる文で、but のあとに「もう一方の親ができること」（ここでは父親が月に2回会える）が書かれているときは、but の前で「どちらの親に何が与えられたのか」を考えると手がかりになります。

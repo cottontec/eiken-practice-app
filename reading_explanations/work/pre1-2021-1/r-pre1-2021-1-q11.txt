@@ -1,0 +1,32 @@
+---
+choices: inclined | clinched | demoted | adapted
+answerText: demoted
+reviewed: yes
+---
+【正解】3 demoted（降格させられた、地位を下げられた）
+【和訳】
+（英文）
+After many poor performances, the rugby player was ［demoted］ from his club's first team to its second team.
+（訳）
+何度も出来の悪いプレーが続いたあと、そのラグビー選手は、所属するクラブの1軍から2軍へ（降格させられました）。
+（選択肢の意味）
+1 inclined：（～したい）気持ちになった、傾いた
+2 clinched：（勝利・契約などを）勝ち取った、決めた
+3 demoted：降格させた（地位や順位を下げた）
+4 adapted：適応させた、（目的に合うように）作り変えた
+【考え方】
+まず見るところ：文の初めの After many poor performances と、from his club's first team to its second team
+文の初めは次のとおりです。
+After many poor performances（何度も出来の悪いプレーが続いたあと）
+poor performance は「出来の悪いプレー、悪い成績」という意味です。これがきっかけで、選手に何かよくないことが起きたと考えられます。
+空所のあとは次のとおりです。
+from his club's first team to its second team（所属クラブの1軍から2軍へ）
+from A to B（AからBへ）の形で、1軍から2軍へ移ったことが分かります。成績が悪かったので下のチームに移された、という流れです。be demoted from A to B で「AからBへ降格させられる」となるので、3が正解です。
+この問題の型：因果（出来の悪いプレーが続いた→1軍から2軍へ降格）
+【ほかの選択肢】
+1 inclined は be inclined to ～ で「～したい気持ちになる」という形でよく使われます。「1軍から2軍へ気持ちが傾いた」となり、意味が通りません。
+2 clinched は「勝ち取った、決めた」です。「選手は1軍から2軍へ勝ち取られた」となり、意味が通りません。出来の悪いプレーという理由とも合いません。
+4 adapted は「適応させた、作り変えた」です。「選手は1軍から2軍へ作り変えられた」となり、意味が通りません。
+【覚えるポイント】
+・demote：「降格させる（地位や順位を下げる）」。be demoted from A to B（AからBへ降格させられる）の形で使われます。
+・After many poor performances（何度も出来の悪いプレーが続いたあと）のように、文の初めに理由やきっかけが書かれているときは、そのあとの空所にはその結果が入ることが多いので、理由からよい結果か悪い結果かを考えると手がかりになります。

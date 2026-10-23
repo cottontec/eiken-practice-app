@@ -1,0 +1,32 @@
+---
+choices: provide | provided | to provide | only provide
+answerText: provided
+reviewed: yes
+---
+【正解】2 provided（もし～ならば、～という条件で）
+【和訳】
+（英文）
+A: Mom, can I go to the park to play with Jimmy later?
+B: Yes, ［provided］ you finish your homework first.
+（訳）
+A：お母さん、あとでジミーと遊びに公園へ行ってもいい？
+B：いいよ、先に宿題を終わらせる（ならね）。
+（選択肢の意味）
+1 provide：～を与える、～を用意する（動詞のもとの形）
+2 provided：もし～ならば、～という条件で
+3 to provide：～を与えること、～を与えるために
+4 only provide：～を与えるだけ
+【考え方】
+まず見るところ：空所のあとの you finish your homework first
+Aは公園に遊びに行ってもいいかたずね、Bは Yes,（いいよ）と答えています。そのあとに空所と次の部分が続きます。
+you finish your homework first（あなたが先に宿題を終わらせる）
+これは、主語（you）と動詞（finish）がそろった文の形です。そのため空所には、「いいよ」と「先に宿題を終わらせる」の2つの部分をつなぐ語が必要です。
+provided は「もし～ならば、～という条件で」という意味で、接続詞（文と文をつなぐ語）として使うことができます。provided you finish your homework first で「先に宿題を終わらせるならば」となり、公園に行ってよい条件を表します。ですから2が正解です。
+この問題の型：文法（語の形：文と文をつなぐ provided）
+【ほかの選択肢】
+1 provide は「～を与える、～を用意する」という動詞のもとの形です。文と文をつなぐ働きはないので、「いいよ」と「先に宿題を終わらせる」をつなぐことができません。
+3 to provide は「～を与えること」「～を与えるために」という形です。あとに主語と動詞のそろった文を続けることはできないので、ここには入りません。
+4 only provide は「～を与えるだけ」です。これも文と文をつなぐ働きがなく、正しい英文になりません。
+【覚えるポイント】
+・provided (that) ～：「もし～ならば、～という条件で」。if とほぼ同じ意味です。
+・空所のあとに主語と動詞のそろった文が続くときは、文と文をつなぐ働きのある形が入るかどうかを、まず確かめましょう。

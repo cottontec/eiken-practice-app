@@ -1,0 +1,29 @@
+---
+choices: to know | knowing | being known | having known
+answerText: to know
+reviewed: yes
+---
+【正解】1 to know（〔ひょっとして〕知っている）
+【和訳】
+（英文）
+A: I don't need this sofa anymore. Do you happen ［to know］ anyone who would want it?
+B: Yes! Actually, I'll take it.
+（訳）
+A：このソファはもういらないんだ。ひょっとして、それをほしがりそうな人をだれか（知って）いる？
+B：うん！　実は、私がもらうよ。
+（選択肢の意味）
+1 to know：to＋動詞の原形の形（知っている）
+2 knowing：-ing の形（知っていること）
+3 being known：受け身の -ing の形（知られていること）
+4 having known：完了の -ing の形（知っていたこと）
+【考え方】
+空所の前の happen に注目します。happen to ～ は「たまたま～する」という意味で、to のあとに動詞の原形（know のような、もとの形）が来ます。
+特に、疑問文の Do you happen to know ～? は「ひょっとして～を知っていますか」と、相手にていねいにたずねる言い方です。
+空所に to know を入れると「ひょっとして、それをほしがりそうな人をだれか知っている？」となります。Bが Yes!（うん！）と答え、自分が引き取ると言っている流れとも合います。ですから1が正解です。
+【ほかの選択肢】
+2 knowing は -ing の形です。happen は「たまたま～する」の意味では happen -ing の形を取らないので、Do you happen knowing ～? は正しい英語になりません。
+3 being known は「知られていること」という受け身の形です。happen のあとに来ないうえ、「だれかを知られている」となり、意味も通りません。
+4 having known は「（以前に）知っていたこと」という形です。これも happen のあとには来ないので、文の形が成り立ちません。
+【覚えるポイント】
+・happen to ～：「たまたま～する」。Do you happen to know ～? で「ひょっとして～を知っていますか」。
+・anyone who would want it：「それをほしがりそうな人（だれか）」。who が anyone に説明を付け足しています。

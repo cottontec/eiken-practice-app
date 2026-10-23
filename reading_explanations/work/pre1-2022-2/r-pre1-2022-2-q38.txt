@@ -1,0 +1,33 @@
+---
+choices: their soldiers were having limited success on missions in the desert because they were not being supplied with the right resources. | the airplanes being used to fly over enemy territory and make observations in the desert were in need of major improvements. | he could lead a unit of men on missions in the desert despite the fact that he had little experience in such an environment. | using a ground-based unit to gather information about enemy activities in the desert would be an effective strategy.
+answerText: using a ground-based unit to gather information about enemy activities in the desert would be an effective strategy.
+reviewed: yes
+---
+【正解】4 using a ground-based unit to gather information about enemy activities in the desert would be an effective strategy.（砂漠での敵の活動について情報を集めるために、地上で活動する部隊を使うことは効果的な戦略になるということ。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Major Ralph Bagnold was able to convince British army commanders that（ラルフ・バグノルド少佐がイギリス陸軍の司令官たちに納得させることができたのは、）
+1 their soldiers were having limited success on missions in the desert because they were not being supplied with the right resources.（兵士たちが適切な物資を与えられていないために、砂漠での任務であまり成果を上げられていないということ。）
+2 the airplanes being used to fly over enemy territory and make observations in the desert were in need of major improvements.（敵の領土の上を飛んで砂漠で観察を行うのに使われていた飛行機には、大きな改良が必要だということ。）
+3 he could lead a unit of men on missions in the desert despite the fact that he had little experience in such an environment.（そのような環境での経験がほとんどないにもかかわらず、自分が砂漠での任務で部隊を率いることができるということ。）
+4 using a ground-based unit to gather information about enemy activities in the desert would be an effective strategy.（砂漠での敵の活動について情報を集めるために、地上で活動する部隊を使うことは効果的な戦略になるということ。）
+【考え方】
+まず見るところ：第2段落の Bagnold insisted, however, that gathering information on the ground would be advantageous, and his persistence led to ～
+At first, British commanders rejected his proposal to form such a unit, believing airplanes were better suited for such long-range intelligence gathering.（最初、イギリス軍の司令官たちは、そうした部隊を作るという彼の提案を退けた。こうした長距離の情報収集には、飛行機のほうが向いていると考えたからである）
+such a unit（そうした部隊）は、前の文の「敵の部隊を観察して追跡できる、小規模で機動力の高い車両部隊」を指します。司令官たちは、最初は反対していました。
+Bagnold insisted, however, that gathering information on the ground would be advantageous, and his persistence led to the formation of the Long Range Desert Group (LRDG)（しかし、バグノルドは地上で情報を集めることが有利になると強く主張し、そのねばり強さによって長距離砂漠挺身隊〈LRDG〉が結成された）
+persistence は「ねばり強さ」です。強く主張し、そのねばり強さによって部隊が作られたのですから、バグノルドは司令官たちを納得させることができたと読み取れます。
+本文と選択肢4を対にすると、次のようになります。
+・本文 gathering information on the ground → 選択肢 using a ground-based unit to gather information about enemy activities（地上で活動する部隊を使って敵の活動の情報を集めること）
+・本文 would be advantageous（有利になる）→ 選択肢 would be an effective strategy（効果的な戦略になる）
+よって4が正解です。
+この問題の型：言いかえ（on the ground → ground-based、advantageous → effective）
+【ほかの選択肢】
+1 本文に書かれていません。第1段落には、砂漠では物資を運ぶのが難しかったことが書かれていますが、兵士が適切な物資を与えられていないから成果が上がらない、とバグノルドが司令官たちを説得したとは書かれていません。
+2 本文に書かれていません。司令官たちは、長距離の情報収集には飛行機のほうが向いていると考えていました。飛行機に大きな改良が必要だという話は出てきません。
+3 本文の内容と合いません。バグノルドは戦争の前に何年も北アフリカの砂漠を探検していて、その地形をよく知っていた（Bagnold knew the terrain well）と書かれています。「そのような環境での経験がほとんどない」は、この内容と食い違います。
+【覚えるポイント】
+・convince ～ that ...：「～に…だと納得させる」。insist that ～：「～だと強く主張する」。persistence：「ねばり強さ」。
+・設問が「～を納得させることができた（was able to convince）」のときは、本文で「最初は反対された（rejected）→ 強く主張した（insisted）→ 実現した（led to the formation）」という流れを探し、主張の中身を言いかえた選択肢を選びます。

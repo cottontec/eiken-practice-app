@@ -1,0 +1,24 @@
+---
+choices: need | up | to | your | back
+answerText: up
+order: 1 3 5 2 4
+reviewed: yes
+---
+【正解】2 up（この問題の4番目）
+【完成文】
+B: Well, you'll ( need to back up your ) ideas with facts, so I suggest you go to the library and look for information about your topic.
+並べ方：1 need → 3 to → 5 back → 2 up → 4 your（2番目は3、4番目は2）
+【和訳】
+A：エリクソン先生、来月の発表に向けて、私たちはどのように準備すればよいですか。
+B：そうですね、自分の考えを事実で裏づける必要があるでしょう。ですから、図書館に行って、自分のテーマについての情報を探すことをすすめます。
+【考え方】
+4番目を決めるには、5 back と 2 up の組み合わせに気づくことが大切です。
+まず前半を固めます。空所の前は you'll（you will）なので、動詞の元の形 1 need を置き、3 to を続けて need to ～（～する必要がある）とします。
+to のあとには動詞の元の形が入ります。残りのうち動詞として使えるのは 5 back です。back は「背中」という意味の名詞としてよく知られていますが、back up ～ で「～を裏づける、支える」という動詞の言い方になります。そこで back のすぐあとに 2 up を置きます。これが4番目です。
+最後に 4 your を置くと、空所のあとの ideas とつながって your ideas（あなたたちの考え）になります。back up your ideas with facts で「自分の考えを事実で裏づける」です。
+Bの後半で図書館で情報を探すことをすすめているのは、考えを支える事実を集めるためなので、意味の上でもつながります。
+したがって4番目は2 up です。
+もし your を up より前に置いて back your up ideas とすると、your と ideas の間に up が入りこんでしまい、文になりません。
+【覚えるポイント】
+・back up ～：「～を裏づける、支える」。back up your ideas with facts で「考えを事実で裏づける」。
+・I suggest (that) you ～：「あなたが～することをすすめる」。you のあとは動詞の元の形（go）になります。

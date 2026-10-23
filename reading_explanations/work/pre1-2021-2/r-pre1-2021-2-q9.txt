@@ -1,0 +1,32 @@
+---
+choices: diluted | fainted | persisted | corrected
+answerText: fainted
+reviewed: yes
+---
+【正解】2 fainted（気を失った）
+【和訳】
+（英文）
+Yesterday, Rhett ［fainted］ while working in the garden. When he woke up, his wife and children were standing around him with worried faces.
+（訳）
+昨日、レットは庭仕事をしている最中に（気を失った）。彼が目を覚ますと、妻と子どもたちが心配そうな顔で彼の周りに立っていた。
+（選択肢の意味）
+1 diluted：（液体を）薄めた
+2 fainted：気を失った
+3 persisted：（あきらめずに）やり続けた
+4 corrected：直した、訂正した
+【考え方】
+まず見るところ：あとの文の When he woke up と with worried faces
+あとの文を確かめます。
+When he woke up, his wife and children were standing around him with worried faces.（彼が目を覚ますと、妻と子どもたちが心配そうな顔で彼の周りに立っていた）
+woke up は「目を覚ました」という意味です。庭仕事をしていたのに「目を覚ました」とあり、家族が心配そうに周りにいるので、レットは途中で意識がなくなったと考えられます。
+次に、空所のある文を見ます。
+Yesterday, Rhett ( ) while working in the garden.（昨日、レットは庭仕事をしている最中に（　））
+faint は「気を失う、気絶する」という意味なので、2が正解です。
+この問題の型：推論（目を覚ました・家族が心配そう→気を失っていた）
+【ほかの選択肢】
+1 diluted は「薄めた」です。「何を」薄めたのかを表す語が後ろにないうえ、気を失って目を覚ましたという話につながりません。
+3 persisted は「やり続けた」です。「庭仕事をやり続けた」と考えても、そのあとの「目を覚ますと家族が心配そうに周りにいた」という話とつながりません。
+4 corrected は「直した、訂正した」です。「何を」直したのかが後ろになく、目を覚ましたという話にもつながりません。
+【覚えるポイント】
+・faint：「気を失う、気絶する」。
+・空所のあとに woke up（目を覚ました）や worried faces（心配そうな顔）のような「その後のようす」が書かれているときは、その前に何が起きたかを考えることが手がかりになります。

@@ -1,0 +1,31 @@
+---
+choices: India could afford to increase the size of its military because it was able to make trade deals with other countries. | India had little choice but to agree to business agreements that were unfavorable to it. | The Indian government needed to raise taxes in order to pay for losses from failed trade contracts. | The Indian government's relationship with China became worse, which almost resulted in a break in trade between the two countries.
+answerText: India had little choice but to agree to business agreements that were unfavorable to it.
+reviewed: yes
+---
+【正解】2 India had little choice but to agree to business agreements that were unfavorable to it.（インドは、自国に不利な取引の契約に同意するしかなかった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What was one result of India doing business with the East India Company?（インドが東インド会社と取引をしたことの結果の一つは何だったか。）
+1 India could afford to increase the size of its military because it was able to make trade deals with other countries.（インドは、ほかの国々と貿易の取り決めを結ぶことができたので、軍隊の規模を大きくする余裕ができた。）
+2 India had little choice but to agree to business agreements that were unfavorable to it.（インドは、自国に不利な取引の契約に同意するしかなかった。）
+3 The Indian government needed to raise taxes in order to pay for losses from failed trade contracts.（インド政府は、失敗した貿易の契約による損失を支払うために、税を上げる必要があった。）
+4 The Indian government's relationship with China became worse, which almost resulted in a break in trade between the two countries.（インド政府と中国との関係が悪くなり、そのことで、両国の間の貿易がとだえそうになった。）
+【考え方】
+まず見るところ：第1段落の the company pressured India into accepting trade contracts that, in general, were only of benefit to the company
+第1段落では、東インド会社がインドとどのような取引をしたかが書かれています。
+Due to its size, power, and resources, which included a private army of hundreds of thousands of Indian soldiers, the company pressured India into accepting trade contracts that, in general, were only of benefit to the company.（その規模、力、そして資源〈そこには何十万人ものインド人兵士からなる私設の軍隊も含まれていた〉のために、この会社はインドに圧力をかけ、全体として会社だけに利益があるような貿易の契約を受け入れさせた）
+pressure A into ～ing は「Aに圧力をかけて～させる」という意味です。本文と選択肢2を対にすると、次のようになります。
+・本文 pressured India into accepting（インドに圧力をかけて受け入れさせた）→ 選択肢 India had little choice but to agree to（インドは同意するしかなかった）
+・本文 trade contracts that ～ were only of benefit to the company（会社だけに利益がある貿易の契約）→ 選択肢 business agreements that were unfavorable to it（インドに不利な取引の契約）
+会社だけが得をする契約は、インドにとっては不利な契約だと言えます。よって2が正解です。
+この問題の型：言いかえ（pressured India into accepting → had little choice but to agree）
+【ほかの選択肢】
+1 本文に書かれていません。本文に出てくる何十万人ものインド人兵士の軍隊は、東インド会社が持っていた私設の軍隊（a private army）です。インドがほかの国と取引して軍隊を大きくしたという話はありません。
+3 人物（主体）が違います。本文で税金を納めさせたのは東インド会社で、it began forcing Indian citizens to pay it taxes（インドの市民に、会社へ税金を納めさせ始めた）とあります。インド政府が損失をうめるために税を上げたとは書かれていません。
+4 本文に書かれていません。第2段落に、会社の不正な取引が中国との外交関係を傷つけたとありますが、それはイギリス議会で会社の人気が落ちた理由として書かれています。インド政府と中国の関係が悪くなったことや、両国の貿易がとだえそうになったことは書かれていません。
+【覚えるポイント】
+・pressure A into ～ing：「Aに圧力をかけて～させる」。have little choice but to ～：「～するしかない」。unfavorable：「不利な」。
+・選択肢に have little choice but to ～（～するしかない）のような「無理にさせられた」ことを表す言い方があるときは、本文の pressure ～ into や force のような「させる」語と照らし合わせるのが手がかりになります。

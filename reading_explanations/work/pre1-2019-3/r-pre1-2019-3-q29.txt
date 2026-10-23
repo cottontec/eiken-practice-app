@@ -1,0 +1,32 @@
+---
+choices: home stadium's atmosphere | strategies used in road games | stress of traveling | confidence level of players
+answerText: stress of traveling
+reviewed: yes
+---
+【正解】3 stress of traveling（移動のストレス）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 home stadium's atmosphere（本拠地の球場の雰囲気）
+2 strategies used in road games（遠征試合で使われる作戦）
+3 stress of traveling（移動のストレス）
+4 confidence level of players（選手たちの自信の度合い）
+【考え方】
+まず見るところ：第1段落の空所のあとの However, ～ と、since luxuries such as first-class flights, fancy hotels, ～ have become standard
+空所のある文は次のとおりです。
+One proposed explanation for this is the ( 29 ).（このことを説明するために出された考えの一つは、（29）である）
+this は前の文の「本拠地で試合をするほうが勝つ可能性が高いこと」を指しています。空所には、その理由として考えられたものが入ります。
+However, author David Runciman notes that if this were true, there would have been a much bigger reduction in home advantage over the past century than there has been（しかし、作家のデイビッド・ランシマンは、もしこれが正しいなら、過去100年の間にホームアドバンテージは実際に減った分よりもずっと大きく減っていたはずだと指摘している）
+if this were true, there would have been ～ は「もしこれが正しいなら、～だったはずだ（でも実際はそうなっていない）」という意味です。ランシマンは空所の考えに反対しています。
+その理由は、次の部分に書かれています。
+since luxuries such as first-class flights, fancy hotels, and accompaniment by therapists for athletes playing away from home have become standard（本拠地を離れて試合をする選手たちにとって、飛行機のファーストクラス、豪華なホテル、セラピストの同行といったぜいたくが当たり前になっているからだ）
+飛行機のファーストクラスや豪華なホテルは、遠征（ほかの土地へ出かけること）の負担を軽くするものです。もし空所の考えが「移動のストレス」なら、移動が楽になった分、アウェーのチームの不利は減り、ホームアドバンテージも大きく減ったはずです。ランシマンの反論がこのようにつながるので、3が正解です。
+この問題の型：対比（However：移動のストレスという説⇔移動は楽になったのに有利さはあまり減っていない）／推論（ぜいたくな移動の例から空所の中身を考える）
+【ほかの選択肢】
+1 「本拠地の球場の雰囲気」は、この空所には合いません。ランシマンの反論は、遠征する選手のための飛行機やホテルの話なので、本拠地の球場の雰囲気についての考えに対する反論にはなりません。
+2 「遠征試合で使われる作戦」は、この空所には合いません。飛行機やホテル、セラピストの同行は試合の作戦とは関係がないので、ランシマンの反論とつながりません。
+4 「選手たちの自信の度合い」は、この空所には合いません。自信の話は第2段落で、本拠地の競技場をよく知っていることと結びつけて出てきます。第1段落の飛行機やホテルの反論とはつながりません。
+【覚えるポイント】
+・stress of traveling：「移動のストレス」。
+・ある考えのすぐあとに However, ～ if this were true（しかし、もしこれが正しいなら）という反論が続くときは、その反論で挙げられている例（ここでは飛行機・ホテル）から、元の考えの中身を考えることが手がかりになります。

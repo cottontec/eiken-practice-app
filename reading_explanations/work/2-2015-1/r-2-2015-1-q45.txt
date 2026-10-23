@@ -1,0 +1,30 @@
+---
+choices: Experts expect that factory jobs in Asia will continue to decline dramatically. | Not only clothing but other types of industries might return to the U.S. in the future. | No human workers will be needed at all in the future to make goods in factories. | Wages in developing countries might soon become higher than those in the U.S.
+answerText: Not only clothing but other types of industries might return to the U.S. in the future.
+reviewed: yes
+---
+【正解】2 Not only clothing but other types of industries might return to the U.S. in the future.（衣料品だけでなく、ほかの種類の産業も、将来アメリカに戻ってくるかもしれない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：次の記述のうち、正しいものはどれですか。
+1 Experts expect that factory jobs in Asia will continue to decline dramatically.（専門家たちは、アジアの工場の仕事が劇的に減り続けると予想している。）
+2 Not only clothing but other types of industries might return to the U.S. in the future.（衣料品だけでなく、ほかの種類の産業も、将来アメリカに戻ってくるかもしれない。）
+3 No human workers will be needed at all in the future to make goods in factories.（将来、工場で製品を作るのに、人間の労働者はまったく必要なくなる。）
+4 Wages in developing countries might soon become higher than those in the U.S.（発展途上国の賃金は、まもなくアメリカの賃金より高くなるかもしれない。）
+【考え方】
+本文全体から正しいものを選ぶ問題なので、選択肢を1つずつ本文と照らし合わせます。選択肢2の「ほかの産業も戻ってくるかもしれない」は、第3段落と第4段落の内容と結びつきます。
+第3段落1～2文目：Now, though, there are signs that some of the manufacturing industry that went abroad is beginning to return. One example of this is the clothing industry.（しかし今、海外へ出ていった製造業の一部が戻り始めている兆しがある。その一例が衣料品産業だ）
+衣料品産業は「一例」として挙げられています。
+第4段落最後の文：If these programs work, it seems that the U.S. may begin to see many types of manufacturing increase again.（これらのプログラムがうまくいけば、アメリカでは多くの種類の製造業が再び増え始めるかもしれないと思われる）
+本文と選択肢は次のように対応しています。
+本文 One example of this is the clothing industry（衣料品産業はその一例）＋ many types of manufacturing increase again（多くの種類の製造業が再び増える）→ 読み取れること：衣料品以外の製造業もアメリカで増える、つまり戻ってくる可能性がある ＝ 選択肢 Not only clothing but other types of industries might return to the U.S. in the future
+本文の may（～かもしれない）と、選択肢の might（～かもしれない）も対応しています。正解は2です。
+【ほかの選択肢】
+1 本文で dramatically（劇的に）減ったと書かれているのは、第1段落のアメリカの製造業です。アジアの工場の仕事が減り続けると専門家が予想しているという話は本文にありません。
+3 本文には、コンピューターなどの技術の発達で far fewer workers were needed（必要な労働者がはるかに少なくなった）とありますが、「まったく必要なくなる」とは書かれていません。第4段落では労働者に技術を教える研修の話もあるので、言い過ぎです。
+4 本文には wages have risen in these countries（これらの国々で賃金が上がってきた）とあるだけです。アメリカの賃金より高くなるかもしれないとは書かれていません。
+【覚えるポイント】
+・Not only A but (also) B：「AだけでなくBも」。
+・One example of this is ～：「その一例が～だ」。例は全体の一部であることを表します。

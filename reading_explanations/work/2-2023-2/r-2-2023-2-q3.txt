@@ -1,0 +1,31 @@
+---
+choices: regulate | reproduce | irritate | impress
+answerText: regulate
+reviewed: yes
+---
+【正解】1 regulate（〔規則によって〕規制する、取りしまる）
+【和訳】
+（英文）
+After a series of financial scandals, many people began to demand that the government make rules to ［regulate］ banks more strictly.
+（訳）
+一連の金融の不祥事（お金に関する、世間から非難されるような悪い出来事）のあと、多くの人々が、政府に対して、銀行をもっと厳しく（規制する）ための規則を作るよう求め始めました。
+（選択肢の意味）
+1 regulate：（規則によって）規制する、取りしまる
+2 reproduce：複製する、（生き物が）子を産んで増える
+3 irritate：いらいらさせる
+4 impress：感心させる、よい印象を与える
+【考え方】
+まず見るところ：空所の前の make rules to と、後ろの banks more strictly
+After a series of financial scandals（一連の金融の不祥事のあと）
+お金に関する悪い出来事が続いたので、人々が何かを求め始めた、という流れです。
+the government make rules to (　) banks more strictly（政府が、銀行をもっと厳しく（　）ための規則を作ること）
+rules（規則）と more strictly（もっと厳しく）がヒントです。規則を作って銀行を厳しくどうするのかを考えると、「規制する、取りしまる」が自然です。
+regulate を入れると「銀行をもっと厳しく規制するための規則」となり、不祥事のあとに人々が求めることとしてつながります。ですから1が正解です。
+この問題の型：語の意味・組み合わせ（rules ＋ regulate ＋ strictly）
+【ほかの選択肢】
+2 reproduce は「複製する（同じものを作る）、子を産んで増える」です。「銀行をもっと厳しく複製するための規則」となり、意味が通りません。
+3 irritate は「いらいらさせる」です。規則を作って銀行をいらいらさせる、という内容は、不祥事のあとに人々が求めることとして合いません。
+4 impress は「感心させる、よい印象を与える」です。「銀行をもっと厳しく感心させる」となり、意味が通りません。
+【覚えるポイント】
+・regulate：「（規則によって）規制する、取りしまる」。名詞は regulation（規則、規制）です。
+・rules（規則）や strictly（厳しく）といっしょに使われる動詞は、「取りしまる」という意味の語であることが多いです。

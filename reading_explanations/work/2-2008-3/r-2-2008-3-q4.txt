@@ -1,0 +1,24 @@
+---
+choices: objection | edition | solution | relation
+answerText: solution
+reviewed: yes
+---
+【正解】3 solution（解答、解決法）
+【和訳】
+この数学の問題の解答は次のページにありますが、自分で答えを見つけようとしてみるまでは、それを見てはいけません。
+（選択肢の意味）
+1 objection：反対、異議
+2 edition：（本の）版
+3 solution：解答、解決法
+4 relation：関係
+【考え方】
+空所のあとの to this math problem（この数学の問題への）と、文の後半に注目します。
+後半には don't look at it until you have tried to find the answer for yourself（自分で答えを見つけようとしてみるまでは、それを見てはいけない）とあります。it は前半の The (　) to this math problem を指しています。「自分で答えを出すまで見てはいけないもの」といえば、問題の答え（解き方）です。
+solution は「（問題の）解答、解決法」という意味で、the solution to ～ で「～の答え、～の解決法」となります。正解は3です。to という前置詞（名詞の前に置いて関係を示す語）とも自然につながります。
+【ほかの選択肢】
+1 objection は「反対、異議（反対の意見）」です。「この数学の問題への反対意見が次のページにある」では、自分で答えを出す前に見るなという話とつながりません。
+2 edition は「（本や新聞の）版」です。数学の問題の「版」が次のページにある、というのは意味が通りません。
+4 relation は「関係」です。「この数学の問題への関係が次のページにある」では意味が通りません。
+【覚えるポイント】
+・the solution to ～：「～の解答、～の解決法」。to を使うことに注意しましょう。
+・for yourself：「自分の力で、自分で」。

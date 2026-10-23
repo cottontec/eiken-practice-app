@@ -1,0 +1,31 @@
+---
+choices: Give copies of the newspaper to children so they can practice reading. | Publish an announcement about a book-collecting event. | Ask a reporter to write an article about the history of Books-for-All. | Put an ad in the newspaper asking for money to build a library.
+answerText: Publish an announcement about a book-collecting event.
+reviewed: yes
+---
+【正解】2 Publish an announcement about a book-collecting event.（本を集める催しについてのお知らせを掲載する。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：サラ・ハンターは『ウェストン・タイムズ』の編集者に何をしてほしいと思っていますか。
+1 Give copies of the newspaper to children so they can practice reading.（子どもたちが読む練習をできるように、新聞を子どもたちに配る。）
+2 Publish an announcement about a book-collecting event.（本を集める催しについてのお知らせを掲載する。）
+3 Ask a reporter to write an article about the history of Books-for-All.（記者に、ブックス・フォー・オールの歴史についての記事を書くよう頼む。）
+4 Put an ad in the newspaper asking for money to build a library.（図書館を建てるためのお金を求める広告を新聞に載せる。）
+【考え方】
+サラ・ハンターのお願いは、第2段落に書かれています。
+I would like to ask you to put an announcement on this page to advertise an event that we will be having next month.（私たちが来月開く催しを宣伝するために、このページにお知らせを載せていただけないか、お願いしたい）とあります。I would like to ask you to ～ は「あなたに～するようお願いしたい」というていねいな頼み方です。announcement は「お知らせ」、advertise は「宣伝する」です。
+どんな催しかは、次の文で On November 8, Books-for-All is going to have a book collection where members of the community can donate books.（11月8日に、ブックス・フォー・オールは、地域の人々が本を寄付できる本の収集会を開く）と説明されています。donate は「寄付する」です。
+第3段落の最後にも、If you could print an announcement about our event, I would be very thankful.（私たちの催しのお知らせを掲載していただけたら、とてもありがたい）と、同じお願いがくり返されています。
+本文と選択肢を対にすると、次のようになります。
+本文 put an announcement on this page / print an announcement（お知らせを載せる、掲載する）→ 選択肢 Publish an announcement（お知らせを掲載する）
+本文 a book collection（本の収集会）→ 選択肢 a book-collecting event（本を集める催し）
+正解は2です。
+【ほかの選択肢】
+1 新聞を子どもたちに配ってほしいとは書かれていません。集めた本は、海外の図書館や子どもたちに贈られると書かれていますが、それは新聞の話ではありません。
+3 記者にブックス・フォー・オールの歴史の記事を書いてほしいとは書かれていません。お願いしているのは、催しのお知らせを載せることです。
+4 団体が図書館を建てるためのお金を集めていることは第1段落に書かれていますが、編集者にお願いしているのは本の収集会のお知らせで、お金を求める広告ではありません。
+【覚えるポイント】
+・I would like to ask you to ～：「あなたに～するようお願いしたい」。ていねいな頼み方です。
+・announcement：「お知らせ、発表」。print や publish で「（新聞などに）掲載する」。

@@ -1,0 +1,25 @@
+---
+choices: increases | pauses | guidelines | techniques
+answerText: increases
+reviewed: yes
+---
+【正解】1 increases（増加）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 increases：増加
+2 pauses：一時停止、休止
+3 guidelines：指針、ガイドライン（目安となる決まり）
+4 techniques：技術、技法
+【考え方】
+空所は第3段落の初め、These sudden (　) in demand are known as "TV pickups,"（こうした需要の急な〜は「テレビ・ピックアップ」として知られている）にあります。demand は「需要（必要とされる量）」です。These（こうした）とあるので、前の段落の内容を受けていると分かります。
+第2段落の終わりを見ると、試合を見ている間は the demand for electricity goes down（電気の需要は下がる）とあり、When there is a break in the program, however, the opposite happens.（しかし番組の休けい時間には、その反対のことが起こる）と続きます。「下がる」の反対は「上がる」です。具体的には、イギリスでは国中の人が台所へ行き、電気ケトルのスイッチを入れて紅茶をいれる、と説明されています。
+つまり休けい時間に、一気に電気の需要が増えるのです。sudden increases in demand で「需要の急な増加」となるので、1が正解です。また pickup という語にも「（量や勢いが）上がること」という意味があり、内容と合っています。
+【ほかの選択肢】
+2 pauses は「一時停止、休止」です。番組には休けい（break）がありますが、空所は in demand（需要の）とつながり、「需要の急な休止」となってしまいます。休けい時間に需要は止まるのではなく増えるので、合いません。
+3 guidelines は「指針、目安となる決まり」です。「需要の急な指針」では意味が通りません。
+4 techniques は「技術、技法」です。「需要の急な技術」では意味が通らず、紅茶をいれる人が一度に増えるという前の内容ともつながりません。
+【覚えるポイント】
+・an increase in ～：「～の増加」。反対は a decrease in ～（～の減少）です。
+・the opposite happens：「その反対のことが起こる」。前に書かれたことの反対を考えると内容がつかめます。

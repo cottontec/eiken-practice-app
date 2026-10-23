@@ -1,0 +1,31 @@
+---
+choices: irritation | attendant | context | coherence
+answerText: irritation
+reviewed: yes
+---
+【正解】1 irritation（（皮膚の）炎症、ひりひりすること）
+【和訳】
+（英文）
+The doctor told Amanda her skin ［irritation］ was caused by the soap she was using. After she switched to a new soap, her hands no longer became dry and red.
+（訳）
+医師はアマンダに、皮膚の（炎症）は使っているせっけんが原因だと言いました。新しいせっけんに変えてから、彼女の手はもう乾燥して赤くなることはなくなりました。
+（選択肢の意味）
+1 irritation：（皮膚の）炎症、ひりひりすること
+2 attendant：係員、付き添いの人
+3 context：文脈、状況
+4 coherence：一貫性、話のまとまり
+【考え方】
+まず見るところ：2文目の her hands no longer became dry and red
+1文目は「医師は、アマンダの皮膚の（　）は使っているせっけんが原因だと言った」という内容です。空所には、せっけんが引き起こした「皮膚の何か」が入ります。
+2文目は次のとおりです。
+After she switched to a new soap, her hands no longer became dry and red.（新しいせっけんに変えてから、彼女の手はもう乾燥して赤くなることはなくなった）
+no longer ～ は「もう～ない」という意味です。せっけんを変える前は、手が「乾燥して赤くなって」いたことが分かります。
+irritation は「（皮膚などの）炎症、ひりひりすること」で、skin irritation で「皮膚の炎症、肌荒れ」になります。乾燥して赤くなるという様子とぴったり合うので、1が正解です。
+この問題の型：具体例とまとめ（乾燥して赤くなる→皮膚の炎症）／語の意味・組み合わせ（skin irritation）
+【ほかの選択肢】
+2 attendant は「係員、付き添いの人」です。「皮膚の係員はせっけんが原因だった」となり、意味が通りません。
+3 context は「文脈、（ものごとの）状況」です。「皮膚の文脈」となり、手が乾燥して赤くなる様子を表せません。
+4 coherence は「一貫性、話のまとまり」です。文章や考えについて使う語で、「皮膚の一貫性がせっけんで起こった」となり、意味が通りません。
+【覚えるポイント】
+・irritation：「（皮膚などの）炎症、ひりひりすること」。skin irritation で「皮膚の炎症、肌荒れ」です。
+・空所の文だけで決めにくいときは、次の文の具体的な様子（ここでは dry and red）を見ると、空所の語が何を指しているかの手がかりになります。

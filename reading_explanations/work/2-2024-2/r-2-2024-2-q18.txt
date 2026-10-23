@@ -1,0 +1,31 @@
+---
+choices: In other words | Instead | On the other hand | Unfortunately
+answerText: In other words
+reviewed: yes
+---
+【正解】1 In other words（言いかえれば、つまり）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 In other words（言いかえれば、つまり）
+2 Instead（その代わりに、そうではなく）
+3 On the other hand（その一方で、他方では）
+4 Unfortunately（残念なことに、あいにく）
+【考え方】
+まず見るところ：第1段落の空所の前の2文と、空所のあとの not drinking coffee but ～
+空所は、前の文とあとの文をつなぐ語句です。前後の文の関係を確かめます。
+However, coffee houses were not just places to enjoy a hot drink or a light meal.（しかし、コーヒーハウスは、温かい飲み物や軽い食事を楽しむためだけの場所ではなかった）
+They quickly became favorite places for customers to share ideas and news with each other.（コーヒーハウスはすぐに、客どうしが考えや知らせを伝え合うためのお気に入りの場所になった）
+ここでは「コーヒーハウスは飲み物を楽しむだけでなく、考えや知らせを伝え合う場所だった」と述べています。
+(18), their main attraction was not drinking coffee but the opportunity to debate and discuss culture with others.（（18）、コーヒーハウスのいちばんの魅力は、コーヒーを飲むことではなく、ほかの人たちと文化について議論したり話し合ったりする機会だった）
+not A but B は「AではなくB」という意味です。空所のあとの文も「飲むことより、話し合うことが大事だった」と言っていて、前の2文と同じ内容を別の言葉で言い直しています。
+In other words は「言いかえれば、つまり」という意味で、前の内容を別の言葉で言い直すときに使います。ですから1が正解です。
+この問題の型：言いかえ（飲み物だけの場所ではない＝コーヒーより話し合いが魅力）
+【ほかの選択肢】
+2 Instead は「その代わりに、そうではなく」です。前の文で述べたことを打ち消して、別のことを言うときに使います。前の文の「考えや知らせを伝え合う場所になった」は打ち消されておらず、あとの文はそれを言い直しているので、つながりません。
+3 On the other hand は「その一方で」です。前の内容と違う面や反対の内容を示すときに使います。空所の前後はどちらも「コーヒーハウスは話し合いの場だった」という同じ方向の内容なので、合いません。
+4 Unfortunately は「残念なことに」です。あとの文の「話し合う機会がいちばんの魅力だった」は残念なことではなく、コーヒーハウスのよさを述べているので、合いません。
+【覚えるポイント】
+・In other words：「言いかえれば、つまり」。前の内容を別の言葉で言い直すときに使います。
+・つなぎの語句を選ぶときは、空所の前とあとの文が「同じ内容の言い直し」なのか「反対の内容」なのかを比べると、答えを決める手がかりになります。

@@ -1,0 +1,20 @@
+---
+choices: skillful | far | by | most | the
+answerText: most
+order: 3 2 5 4 1
+reviewed: yes
+---
+【正解】4 most（この問題の4番目）
+【完成文】
+Sally was ( by far the most skillful ) piano player in the contest, so nobody was surprised when she won.
+並べ方：3 by → 2 far → 5 the → 4 most → 1 skillful（2番目は2、4番目は4）
+【和訳】
+サリーはそのコンテストで、ずば抜けていちばん上手なピアノ奏者だったので、彼女が優勝してもだれも驚きませんでした。
+【考え方】
+4番目を決めるために、空所のすぐあとの piano player（ピアノ奏者）からさかのぼって考えます。piano player の直前には、どんなピアノ奏者なのかを表す語がくるはずです。選択肢の中でそれに当たるのは、形容詞（名詞のようすや性質を表す語）の 1 skillful（上手な）です。ですから、空所の最後は skillful です。
+文の後半の so nobody was surprised when she won（だから、彼女が優勝してもだれも驚かなかった）から、サリーはコンテストの中でいちばん上手だったと考えられます。skillful の最上級（「いちばん～」を表す形）は the most skillful なので、skillful の前に 4 most、さらにその前に 5 the を置きます。
+残った 3 by と 2 far は by far（ずば抜けて）というまとまりで、最上級の前に置いて意味を強めます。並べると by → far → the → most → skillful となり、4番目は4 most です。
+まちがえやすいのは、by far most the skillful のように most と the の順番を逆にする並べ方です。最上級は the most ～ の順で、the が most の前にきます。
+【覚えるポイント】
+・by far the most ～：「ずば抜けていちばん～な」。by far は最上級の前に置いて意味を強めます。
+・skillful：「上手な、腕のよい」。

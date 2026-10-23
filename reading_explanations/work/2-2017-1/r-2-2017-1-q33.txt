@@ -1,0 +1,30 @@
+---
+choices: To reduce the amount of practice needed to become a good dancer. | To treat health problems that have been difficult to treat. | To help people who have trouble with their hearing. | To show people how to learn to concentrate better.
+answerText: To treat health problems that have been difficult to treat.
+reviewed: yes
+---
+【正解】2 To treat health problems that have been difficult to treat.（これまで治療が難しかった健康上の問題を治療するために。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：科学者たちによると、バレエダンサーの脳についての研究は、どのように役立てることができますか。
+1 To reduce the amount of practice needed to become a good dancer.（よいダンサーになるのに必要な練習の量を減らすために。）
+2 To treat health problems that have been difficult to treat.（これまで治療が難しかった健康上の問題を治療するために。）
+3 To help people who have trouble with their hearing.（耳の聞こえに問題がある人を助けるために。）
+4 To show people how to learn to concentrate better.（もっとうまく集中できるようになる方法を、人々に示すために。）
+【考え方】
+設問の According to scientists（科学者たちによると）と同じ言い方が、第4段落の始めにあります。この段落を見ていきます。
+・their research suggests the possibility of finding a new treatment for people who suffer from illnesses that cause them to become dizzy（彼らの研究は、目が回る原因となる病気に苦しむ人々のための、新しい治療法が見つかる可能性を示している）
+・Until now, medical researchers have found it difficult to treat such problems.（これまで、医学の研究者たちは、そのような問題を治療するのは難しいと感じてきた）
+研究は、目が回る病気の新しい治療法につながる可能性があります。そして、その病気はこれまで治療が難しいものでした。本文と選択肢を対にすると、次のようになります。
+本文 finding a new treatment for people who suffer from illnesses ＝ 選択肢 To treat health problems
+本文 Until now, medical researchers have found it difficult to treat such problems ＝ 選択肢 that have been difficult to treat
+illnesses（病気）が health problems（健康上の問題）に言いかえられています。よって2が正解です。
+【ほかの選択肢】
+1 よいダンサーになるための練習の量を減らす、という話は本文にありません。研究が役立つとされているのは、目が回る病気に苦しむ人々の治療です。
+3 本文に these diseases happen when something goes wrong with their ears（こうした病気は耳に問題が起きたときに起こる）とありますが、それは目が回る病気のことです。耳の聞こえ（音を聞く力）の問題については書かれていません。
+4 集中する力をつける方法の話は本文にありません。
+【覚えるポイント】
+・treatment：「治療（法）」。動詞は treat（治療する）です。
+・find it difficult to ～：「～するのは難しいと感じる」。

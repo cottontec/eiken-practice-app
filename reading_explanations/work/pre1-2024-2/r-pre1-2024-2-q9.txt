@@ -1,0 +1,33 @@
+---
+choices: strain | obedience | temper | odor
+answerText: odor
+reviewed: yes
+---
+【正解】4 odor（におい、特にいやなにおい）
+【和訳】
+（英文）
+A: Angus, where's that terrible ［odor］ coming from?
+B: Sorry, Salma, that's the garbage. I haven't taken it out in a few days.
+（訳）
+A：アンガス、あのひどい（におい）はどこからしているの？
+B：ごめん、サルマ、それはごみだよ。ここ数日、外に出していないよ。
+（選択肢の意味）
+1 strain：負担、緊張
+2 obedience：服従、言うことを聞くこと
+3 temper：気分、かんしゃく
+4 odor：におい（特にいやなにおい）
+【考え方】
+まず見るところ：Bの答えの that's the garbage と I haven't taken it out
+Aは「あのひどい〇〇はどこから来ているのか」とたずねています。Bの答えを見ます。
+that's the garbage（それはごみだよ）
+I haven't taken it out in a few days.（ここ数日、ごみを外に出していないよ）
+take out the garbage は「ごみを外に出す」です。何日も出していないごみから出てくる「ひどいもの」といえば、いやなにおいです。
+odor は「におい（特にいやなにおい）」なので、4が正解です。where's ～ coming from? は「～はどこから来ているの？」で、においや音の出どころをたずねるときに使われます。
+この問題の型：因果（ごみを出していない → ひどいにおい）
+【ほかの選択肢】
+1 strain は「負担、緊張」です。「ひどい負担はどこから来ているの？」に「それはごみだ」と答えるのは、つながりません。
+2 obedience は「服従、言うことを聞くこと」です。「ひどい服従」では意味が通りません。
+3 temper は「気分、かんしゃく」です。「ひどいかんしゃくはどこから来ているの？」となり、「ごみを出していない」という答えとつながりません。
+【覚えるポイント】
+・odor：「におい（特にいやなにおい）」。take out the garbage：「ごみを外に出す」。
+・Where's ～ coming from? の空所は、相手の答え（ここでは garbage）から、何が出てくるのかを考えることが手がかりになります。

@@ -1,0 +1,34 @@
+---
+choices: bonobos copied what people did instead of copying other bonobos. | bonobos could feel others' feelings even more than humans. | most bonobos did not yawn when they were feeling tired. | yawning was more common for younger bonobos than for older ones.
+answerText: bonobos could feel others' feelings even more than humans.
+reviewed: yes
+---
+【正解】2 bonobos could feel others' feelings even more than humans.（ボノボは、人間よりもさらに他者の気持ちを感じ取ることができる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：In a study about yawning, researchers found（あくびについての研究で、研究者たちは～ことを発見した。）
+1 bonobos copied what people did instead of copying other bonobos.（ボノボは、ほかのボノボのまねをするのではなく、人間がしたことをまねした）
+2 bonobos could feel others' feelings even more than humans.（ボノボは、人間よりもさらに他者の気持ちを感じ取ることができる）
+3 most bonobos did not yawn when they were feeling tired.（ほとんどのボノボは、疲れを感じているときにあくびをしなかった）
+4 yawning was more common for younger bonobos than for older ones.（あくびは、年上のボノボより年下のボノボによく見られた）
+【考え方】
+まず見るところ：第3段落の最後の文 This suggests that bonobos' ability to feel one another's feelings is more widespread than that of humans.
+あくびの研究は第3段落に書かれています。ボノボは、家族のあくびの動画を見ると自分もあくびをする傾向がありました。
+The bonobos who watched this video yawned as much as when they watched their families yawn.（この動画〔知らない者のあくびの動画〕を見たボノボは、家族のあくびを見たときと同じくらいあくびをした）
+一方、人間は、知らない人のあくびより、友人や家族のあくびを見たあとのほうが、あくびをしやすい傾向がありました。
+This suggests that bonobos' ability to feel one another's feelings is more widespread than that of humans.（このことは、ボノボの、互いの気持ちを感じ取る能力が、人間のその能力よりも広い範囲に及んでいることをうかがわせる）
+that of humans の that は ability（能力）を指し、「人間の能力」という意味です。ボノボは、家族だけでなく知らない相手の気持ちにも同じように反応するので、人間よりも気持ちを感じ取る力が広く働くということです。
+本文 bonobos' ability to feel one another's feelings is more widespread than that of humans（ボノボの、互いの気持ちを感じ取る能力は人間より広い範囲に及んでいる）
+→ 読み取れること：ボノボは人間よりも、他者の気持ちを感じ取ることができる
+選択肢 bonobos could feel others' feelings even more than humans
+本文の more widespread（より広い範囲に及ぶ）が、選択肢では even more（さらに多く）と表されています。ですから2が正解です。
+この問題の型：言いかえ（more widespread than humans → even more than humans）／指示語（that of humans の that ＝ ability）
+【ほかの選択肢】
+1 ボノボが人間のまねをしたという話は、本文にありません。ボノボが見た動画には、ボノボの家族と知らない者たちが映っていました。人間については、別に同じような状況で調べた結果が書かれているだけです。
+3 疲れているときのあくびについての結果は、本文にありません。本文の yawning, the act of opening their mouths when they were sleepy（あくび、つまり眠いときに口を開ける動作）は、あくびという言葉の説明です。疲れているときにあくびをしなかったとは書かれていません。
+4 年下のボノボと年上のボノボを比べた話は、本文にありません。本文で比べているのは、家族のあくびを見たときと知らない者のあくびを見たとき、そしてボノボと人間です。
+【覚えるポイント】
+・that of ～：前に出た名詞のくり返しをさける言い方です。ここでは that of humans ＝ the ability of humans（人間の能力）。
+・This suggests that ～（このことは～をうかがわせる）のような文は、研究の結果をまとめていることが多いので、研究についての設問ではまずこの文を確かめましょう。

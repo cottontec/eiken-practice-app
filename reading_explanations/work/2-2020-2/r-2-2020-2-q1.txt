@@ -1,0 +1,27 @@
+---
+choices: principles | substitutes | decades | critics
+answerText: principles
+reviewed: yes
+---
+【正解】1 principles（原理、基本となる決まり）
+【和訳】
+（英文）
+You must understand the basic ［principles］ of science in order to know why water becomes steam when it boils.
+（訳）
+水が沸騰すると（煮え立つと）なぜ水蒸気になるのかを知るためには、科学の基本的な（原理）を理解しなければなりません。
+（選択肢の意味）
+1 principles：原理、原則
+2 substitutes：代わりの物・人
+3 decades：10年間
+4 critics：批評家
+【考え方】
+空所は the basic (　) of science の中にあり、「科学の基本的な（　）」という意味になります。
+文の後半の in order to know why water becomes steam when it boils は「水が沸騰するとなぜ水蒸気になるのかを知るために」という意味です。in order to ～ は「～するために」と目的を表します。
+「なぜそうなるのか」を知るために理解しなければならないのは、科学のしくみを説明する基本の考え方です。principle（原理、すべての基本となる決まり）を入れると「科学の基本原理を理解しなければならない」となり、目的の部分と自然につながります。ですから1が正解です。
+【ほかの選択肢】
+2 substitute は「代わりの物・人」です。「科学の基本的な代わりの物を理解しなければならない」となり、水が水蒸気になる理由を知ることとつながりません。
+3 decade は「10年間」です。「科学の基本的な10年間を理解する」となり、意味が通りません。
+4 critic は「批評家（作品などのよしあしを論じる人）」です。人を表す語なので、「科学の基本的な批評家を理解する」となり、文に合いません。
+【覚えるポイント】
+・principle：「原理、原則」。the basic principles of ～ で「～の基本原理」。
+・in order to ～：「～するために」と目的を表す言い方です。

@@ -1,0 +1,30 @@
+---
+choices: worked for a professional newspaper for three years. | is attaching four articles to his job application. | was the news editor at a college newspaper for a while. | often writes letters to one of his professors in college.
+answerText: was the news editor at a college newspaper for a while.
+reviewed: yes
+---
+【正解】3 was the news editor at a college newspaper for a while.（しばらくの間、大学新聞のニュース編集者だった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ロバート・ミッチェルは
+1 worked for a professional newspaper for three years.（プロの新聞社で3年間働いた。）
+2 is attaching four articles to his job application.（仕事の応募書類に4本の記事を添付しようとしている。）
+3 was the news editor at a college newspaper for a while.（しばらくの間、大学新聞のニュース編集者だった。）
+4 often writes letters to one of his professors in college.（大学の教授の1人に、よく手紙を書いている。）
+【考え方】
+この設問はロバート自身についての内容を選ぶ問題なので、選択肢を1つずつ本文と照らし合わせます。ロバートの経験は第2段落にまとめて書かれています。
+However, I wrote for the college newspaper, The Campus Daily, for three years.（しかし、大学新聞の『キャンパス・デイリー』で3年間記事を書いていました）
+In my third year there, I was also the news editor.（そこでの3年目には、ニュース編集者も務めました）
+news editor は、新聞のニュースの記事をまとめたり直したりする役目の人です。ロバートは大学新聞で3年間記事を書き、そのうちの3年目にはニュース編集者だったことが分かります。
+本文と選択肢を対にすると、次のようになります。
+本文 In my third year there, I was also the news editor → 選択肢 was the news editor at a college newspaper for a while
+there は the college newspaper（大学新聞）を指します。in my third year（3年目に）という限られた期間が、for a while（しばらくの間）とまとめて言いかえられています。ですから3が正解です。
+【ほかの選択肢】
+1 3年間記事を書いていたのは、学生が運営する大学新聞『キャンパス・デイリー』です。本文には I do not have any professional experience yet（まだ仕事としての経験はまったくない）とあるので、プロの新聞社で働いたことはありません。
+2 本文の four は I wrote at least four articles a week（1週間に少なくとも4本の記事を書いた）という、書いていた記事の数です。添付しているのは I am attaching one of those（それらのうちの1本を添付する）とあるように、1本だけです。数が違います。
+4 教授について書かれているのは a recommendation letter written by my English professor, Dr. Olson（英語の教授のオルソン博士が書いてくれた推薦状）です。推薦状を書いたのは教授のほうで、ロバートがよく教授に手紙を書いているとは書かれていません。人物が違います。
+【覚えるポイント】
+・for a while：「しばらくの間」。
+・professional：「プロの、職業としての」。professional experience で「仕事としての経験」。

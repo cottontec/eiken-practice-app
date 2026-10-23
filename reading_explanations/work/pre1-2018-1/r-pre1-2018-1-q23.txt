@@ -1,0 +1,29 @@
+---
+choices: call on | hang up | show off | tune up
+answerText: tune up
+reviewed: yes
+---
+【正解】4 tune up（〈エンジンなどを〉調整する、整備する）
+【和訳】
+（英文）
+When Glen took his car to get a tire fixed, he also asked the mechanic to ［tune up］ the engine. He was pleased by how much better the car ran afterward.
+（訳）
+グレンは、タイヤを修理してもらうために車を持っていったとき、整備士にエンジンの（調整）も頼んだ。そのあと車が前よりずっとよく走るようになったので、グレンは喜んだ。
+（選択肢の意味）
+1 call on：（人を）訪ねる、（人に）求める
+2 hang up：電話を切る、（物を）つるす
+3 show off：見せびらかす
+4 tune up：（エンジンなどを）調整する、整備する
+【考え方】
+まず見るところ：空所の前の the mechanic と、次の文の how much better the car ran afterward
+グレンは、タイヤの修理のほかに、mechanic（車の整備士）にエンジンについて何かを頼みました。also（〜も）があるので、これも整備士がする作業だと考えられます。
+He was pleased by how much better the car ran afterward.（彼は、そのあと車がどれほどよく走るようになったかに喜んだ）
+how much better は「（前と比べて）どれほどよく」です。作業のあと、車の走りがよくなったのですから、整備士はエンジンの調子を整えたと分かります。tune up は「（エンジンなどを）調整する、整備する」なので、4が正解です。
+この問題の型：因果（エンジンを調整した → 車がよく走るようになった）
+【ほかの選択肢】
+1 call on は「（人を）訪ねる」で、ふつうは人を目的語にします。「エンジンを訪ねる」では意味が通りません。
+2 hang up は「電話を切る、つるす」です。「エンジンをつるしてもらった」では、車の走りがよくなったことの理由になりません。
+3 show off は「見せびらかす」です。整備士にエンジンを見せびらかしてもらっても、車の走りはよくなりません。
+【覚えるポイント】
+・tune up the engine：「エンジンを調整する」。get a tire fixed：「タイヤを修理してもらう」。
+・次の文に作業のあとの結果（ここでは ran better：よく走った）が書かれているときは、その結果を生む作業を表す語句が入る手がかりになります。

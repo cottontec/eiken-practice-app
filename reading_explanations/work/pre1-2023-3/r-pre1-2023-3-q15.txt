@@ -1,0 +1,29 @@
+---
+choices: orphans | phases | leases | allies
+answerText: orphans
+reviewed: yes
+---
+【正解】1 orphans（孤児〈親を亡くした子ども〉）
+【和訳】
+（英文）
+KBC is an organization that helps children who lost their parents. It helps these ［orphans］ find new homes where they can be well cared for.
+（訳）
+KBCは、親を亡くした子どもたちを助ける団体だ。KBCは、こうした（孤児たち）が、よく世話をしてもらえる新しい家を見つける手助けをしている。
+（選択肢の意味）
+1 orphans：孤児（親を亡くした子ども）
+2 phases：段階、局面
+3 leases：賃貸借の契約（土地や建物を貸し借りする取り決め）
+4 allies：味方、同盟国
+【考え方】
+まず見るところ：空所の前の these と、前の文の children who lost their parents
+空所の前に these（これらの、こうした）があるので、空所の語は前の文に出てきたものを言いかえていると考えられます。前の文を見ます。
+KBC is an organization that helps children who lost their parents.（KBCは、親を亡くした子どもたちを助ける団体だ）
+children who lost their parents は「親を亡くした子どもたち」です。これを1語で言うと orphans（孤児）になるので、1が正解です。空所の後ろの find new homes where they can be well cared for（よく世話をしてもらえる新しい家を見つける）とも合います。
+この問題の型：指示語（these ＋ 前の文の言いかえ）
+【ほかの選択肢】
+2 phases は「段階」です。「こうした段階が新しい家を見つける」となり、前の文の子どもたちを指すことができません。
+3 leases は「賃貸借の契約」です。契約は家を見つける側にはならず、子どもたちを指すこともできません。
+4 allies は「味方、同盟国」です。前の文に出てきたのは「親を亡くした子どもたち」なので、these allies（こうした味方）では前の文とつながりません。
+【覚えるポイント】
+・orphan：「孤児（親を亡くした子ども）」。be well cared for：「よく世話をしてもらう」。
+・空所の前に these や this があるときは、前の文に出てきた語句を1語で言いかえたものが入ることが多いので、前の文の名詞を確かめるのが手がかりになります。

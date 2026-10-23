@@ -1,0 +1,27 @@
+---
+choices: collapse | represent | insult | obtain
+answerText: represent
+reviewed: yes
+---
+【正解】2 represent（～を代表する）
+【和訳】
+（英文）
+Wendy wants to ［represent］ her school in a national science contest. Only one student's work from the school will be chosen for the event, and Wendy hopes it will be hers.
+（訳）
+ウェンディは、全国科学コンテストで自分の学校を（代表し）たいと思っています。その大会には学校から1人の生徒の作品しか選ばれず、ウェンディはそれが自分の作品になることを願っています。
+（選択肢の意味）
+1 collapse：崩れる、倒れる
+2 represent：～を代表する
+3 insult：～を侮辱する（ばかにして傷つける）
+4 obtain：～を手に入れる
+【考え方】
+2文目の Only one student's work from the school will be chosen for the event（その大会には、学校から1人の生徒の作品だけが選ばれる）に注目します。only は「～だけ」という意味で、学校の中から1人分の作品だけが大会に出られるということです。
+続く Wendy hopes it will be hers（ウェンディはそれが自分のものになることを願っている）の it は「選ばれる1人の生徒の作品」、hers は「彼女のもの（彼女の作品）」を指します。
+つまりウェンディは、学校の代表として全国大会に出たいと思っているのです。represent は「～を代表する（集団の代わりに出て、その集団を表す）」という意味なので、represent her school で「自分の学校を代表する」となり、話がつながります。よって2が正解です。
+【ほかの選択肢】
+1 collapse は「（建物などが）崩れる、（人が）倒れる」です。後ろに her school のような目的語（動作を受ける語）をふつう取らず、「学校を崩れる」では意味が通りません。
+3 insult は「～を侮辱する」です。自分の学校を侮辱したいという話は、作品が選ばれてほしいと願う内容と合いません。
+4 obtain は「～を手に入れる」です。「全国科学コンテストで学校を手に入れたい」となり、意味が通りません。
+【覚えるポイント】
+・represent ～：「～を代表する」。represent one's country（国を代表する）のように使います。
+・Only ～ will be chosen：「～だけが選ばれる」。only で数が限られていることが分かります。

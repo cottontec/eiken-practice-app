@@ -1,0 +1,33 @@
+---
+choices: Teachers are spending less time on subjects that are easy to test so that more time is left for physical education. | Students are taking a greater variety of classes so that they can meet stricter academic requirements. | School districts are allowing students to change their class schedules based on their individual needs and interests. | Learning opportunities that are not directly linked to standardized testing are being limited.
+answerText: Learning opportunities that are not directly linked to standardized testing are being limited.
+reviewed: yes
+---
+【正解】4 Learning opportunities that are not directly linked to standardized testing are being limited.（標準テストに直接結びつかない学習の機会が、減らされている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What has been one result of the educational legislation passed in 2002?（2002年に成立した教育の法律の結果の一つは何か。）
+1 Teachers are spending less time on subjects that are easy to test so that more time is left for physical education.（先生たちは、体育により多くの時間を残せるように、テストしやすい教科にかける時間を減らしている。）
+2 Students are taking a greater variety of classes so that they can meet stricter academic requirements.（生徒たちは、より厳しい学力の条件を満たせるように、より多くの種類の授業を受けている。）
+3 School districts are allowing students to change their class schedules based on their individual needs and interests.（学区は、生徒が一人一人の必要や興味に合わせて時間割を変えることを認めている。）
+4 Learning opportunities that are not directly linked to standardized testing are being limited.（標準テストに直接結びつかない学習の機会が、減らされている。）
+【考え方】
+まず見るところ：第1段落の design curriculums that focus narrowly on tested subjects と they often cut back on physical education and unstructured playtime
+第1段落で、2002年に施行された法律によって、学校は標準テスト（多くの学校で同じ問題・同じ採点のしかたで行うテスト）の結果で生徒の学力を証明しなければならなくなった、と説明されています。そのあとの変化が次の文です。
+For school districts that are falling behind, the pressure to show improvement has led them to design curriculums that focus narrowly on tested subjects.（遅れをとっている学区では、改善を示さなければならないという圧力から、テストされる教科だけに狭く重点を置いたカリキュラムを作るようになった）
+In the process, they often cut back on physical education and unstructured playtime.（その過程で、学校はしばしば、体育や、決まった内容のない自由な遊びの時間を減らしている）
+curriculum は「カリキュラム（何をどれだけ教えるかの計画）」、cut back on ～ は「～を減らす」という意味です。テストされる数学や読解に時間を多く使い、テストされない体育や自由な遊びの時間を減らしている、ということです。
+本文と選択肢を対にすると、次のようになります。
+本文 physical education and unstructured playtime（体育や自由な遊びの時間）→ 選択肢 Learning opportunities that are not directly linked to standardized testing（標準テストに直接結びつかない学習の機会）
+本文 cut back on（減らす）＝ 選択肢 are being limited（減らされている、制限されている）
+ですから4が正解です。
+この問題の型：言いかえ（体育や自由な遊び→テストに直接結びつかない学習の機会）
+【ほかの選択肢】
+1 本文と反対です。学校は、テストされる教科（数学と読解）により多くの時間を使い、体育の時間を減らしています。テストしやすい教科を減らして体育を増やしているのではありません。
+2 本文と合いません。本文では、カリキュラムは tested subjects（テストされる教科）に narrowly（狭く）重点を置いている、と書かれています。授業の種類が多くなっているのではなく、むしろしぼられています。
+3 本文に書かれていません。生徒が一人一人の必要や興味に合わせて時間割を変えられるという話はありません。
+【覚えるポイント】
+・cut back on ～：「～を減らす」。選択肢では be limited（制限される）と言いかえられています。
+・本文の具体的なもの（ここでは体育や自由な遊び）が、選択肢ではまとめた言い方（テストに直接結びつかない学習の機会）になっていることが多いので、具体例がどのまとめに当たるかを考えるのが手がかりになります。

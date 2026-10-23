@@ -1,0 +1,31 @@
+---
+choices: the problem can be easily solved | these facts are likely connected | health is not the only concern | this trend is spreading
+answerText: these facts are likely connected
+reviewed: yes
+---
+【正解】2 these facts are likely connected（これらの事実はおそらく関連している）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 the problem can be easily solved（その問題は簡単に解決できる）
+2 these facts are likely connected（これらの事実はおそらく関連している）
+3 health is not the only concern（健康だけが心配なことではない）
+4 this trend is spreading（この傾向は広がっている）
+【考え方】
+まず見るところ：第1段落の空所の前の2つの研究結果と、空所のあとの Ear infections and skin diseases both cause inflammation
+空所の前には、研究で分かった2つの事実が書かれています。
+chocolate-colored Labradors are more likely than Labradors of other colors to suffer from ear infections and skin diseases（チョコレート色のラブラドールは、ほかの色のラブラドールよりも、耳の感染症や皮膚の病気にかかりやすい）
+It also found their average life expectancy is about 10 percent shorter.（その研究ではまた、チョコレート色のラブラドールの平均寿命が、（ほかの色のラブラドールより）約10パーセント短いことも分かった）
+infection は「感染症（細菌などが体に入って起こる病気）」、life expectancy は「平均寿命」です。「病気になりやすい」と「寿命が短い」という2つの事実です。
+空所のあとでは、この2つをつなぐ説明が続きます。
+Ear infections and skin diseases both cause inflammation（耳の感染症と皮膚の病気は、どちらも炎症を引き起こす）
+さらに、炎症は長い目で見ると害があり、炎症のある人は若くして亡くなる傾向がある、と書かれています。つまり「病気になりやすい → 炎症が起きる → 寿命が短くなる」というつながりです。these facts are likely connected（これらの事実はおそらく関連している）を入れると、そのあとの説明への入り口になるので、2が正解です。
+この問題の型：因果（病気 → 炎症 → 寿命が短い）
+【ほかの選択肢】
+1 本文には、問題を解決する方法についての話はありません。空所のあとは、病気と寿命がどうつながるかの説明で、簡単に解決できるとは書かれていません。
+3 空所のあとの文は、感染症、炎症、寿命と、すべて健康についての説明です。健康以外の心配ごとに話が移っていないので、空所の直後の流れに合いません。
+4 本文には、この傾向がほかの犬や地域に広がっているという話はありません。空所のあとは、2つの事実がどうつながるかの説明です。
+【覚えるポイント】
+・life expectancy：「平均寿命」。inflammation は「炎症（はれ・熱・痛みが出る体の状態）」。
+・According to the research team, (　). のように研究者の考えが空所になっているときは、すぐあとの文で何が説明されているか（ここでは2つの事実のつながり）を見ると、答えの手がかりになります。

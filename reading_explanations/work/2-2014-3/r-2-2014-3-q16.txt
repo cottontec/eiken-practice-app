@@ -1,0 +1,29 @@
+---
+choices: on board | for hire | in place | behind schedule
+answerText: behind schedule
+reviewed: yes
+---
+【正解】4 behind schedule（予定より遅れて）
+【和訳】
+（英文）
+A: How's your new project going at work, Marcy?
+B: Not very well. We're ［behind schedule］, so the whole team is going to have to work through the weekend.
+（訳）
+A：職場の新しいプロジェクトはどう、マーシー？
+B：あまりうまくいっていないよ。予定より遅れているから、チーム全員で週末の間ずっと働かなければならなくなりそうなんだ。
+（選択肢の意味）
+1 on board：（乗り物に）乗って、（計画などに）加わって
+2 for hire：雇うことができる、貸し出し用の
+3 in place：所定の位置に、準備が整って
+4 behind schedule：予定より遅れて
+【考え方】
+Aは「新しいプロジェクトはどう？」とたずねています。Bは Not very well.（あまりうまくいっていない）と答えています。そのあとの文が、うまくいっていない中身の説明です。
+We're (　), so the whole team is going to have to work through the weekend.（私たちは（　）なので、チーム全員が週末の間ずっと働かなければならなくなりそうだ）。so は「だから」、the whole team は「チーム全員」、work through the weekend は「週末の間ずっと働く」という意味です。
+週末の間ずっと働かなければならない理由として考えられるのは、仕事が予定どおりに進んでいないことです。behind schedule は「予定より遅れて」という意味で、We're behind schedule で「私たちは予定より遅れている」となります。Not very well という答えとも、so のあとの「週末に働かなければならない」ともつながります。正解は4です。
+【ほかの選択肢】
+1 on board は「（乗り物に）乗って、（計画などに）加わって」です。「私たちは（計画に）加わっている」としても、うまくいっていない理由や週末に働く理由になりません。
+2 for hire は「（お金を払えば）雇うことができる、貸し出し用の」です。タクシーや働き手などについて使う語句で、チームの仕事の進み具合を表せません。
+3 in place は「所定の位置に、準備が整って」です。準備が整っているなら、Not very well（あまりうまくいっていない）とも、週末に働かなければならないこととも合いません。
+【覚えるポイント】
+・behind schedule：「予定より遅れて」。反対は ahead of schedule（予定より早く）、on schedule（予定どおりに）。
+・work through ～：「（期間）の間ずっと働く」。work through the weekend で「週末の間ずっと働く」。

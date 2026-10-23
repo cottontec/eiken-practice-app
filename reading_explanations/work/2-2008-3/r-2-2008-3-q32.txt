@@ -1,0 +1,25 @@
+---
+choices: ignoring | chasing | reflecting | maintaining
+answerText: ignoring
+reviewed: yes
+---
+【正解】1 ignoring（無視している）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 ignoring：～を無視している
+2 chasing：～を追いかけている
+3 reflecting：～を反映している、～を映している
+4 maintaining：～を維持している、～を保っている
+【考え方】
+空所は第3段落の Unfortunately, according to customers, many drivers are simply (　) the rules.（残念なことに、客によると、多くの運転手はただ規則を〜しているだけだ）という文にあります。Unfortunately（残念なことに）とあるので、よくないことが書かれていると分かります。
+空所の文のあとを読みます。This has now led the TLC to start what it calls "Operation Secret Rider."（このことから、TLCは「覆面乗客作戦」と呼ぶものを始めることになった）とあり、その作戦では If they find drivers breaking any of the rules, they charge them a fine（運転手が規則のどれかを破っているのを見つけると、罰金を科す）と説明されています。fine は「罰金」です。
+つまり、多くの運転手が規則を守っていないので、TLCは取りしまりを始めたのです。ignore は「～を無視する」という意味で、are simply ignoring the rules で「ただ規則を無視しているだけだ」となります。正解は1です。第2段落で運転手たちが規則に強く反対していたことや、2度ストライキをしたことからも、規則に従わない運転手がいることは自然な流れです。
+【ほかの選択肢】
+2 chasing は「～を追いかけている」です。「規則を追いかけている」では意味が通りません。
+3 reflecting は「～を反映している、～を映している」です。運転手が規則を反映していても、罰金で取りしまる理由にはなりません。
+4 maintaining は「～を維持している、～を保っている」です。運転手が規則を保っているのなら、Unfortunately（残念なことに）とも、取りしまりを始めたこととも合わず、話が反対になります。
+【覚えるポイント】
+・ignore：「～を無視する」。ignore the rules で「規則を無視する」。反対の意味の言い方は follow the rules（規則に従う）です。
+・lead ＋ 人など ＋ to ～：「（人など）に～させることになる、～するきっかけになる」。

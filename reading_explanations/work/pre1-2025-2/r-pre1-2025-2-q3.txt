@@ -1,0 +1,32 @@
+---
+choices: invaders | commuters | composers | installers
+answerText: commuters
+reviewed: yes
+---
+【正解】2 commuters（通勤する人たち、通勤者）
+【和訳】
+（英文）
+The new highway should be good for ［commuters］ who drive to work from the suburbs. The amount of time needed to drive into the city is expected to drop by 10 percent.
+（訳）
+その新しい幹線道路は、郊外から車で仕事に通う（通勤者たち）にとってよいものになるはずだ。都市部へ車で入るのにかかる時間は、10パーセント減ると予想されている。
+（選択肢の意味）
+1 invaders：侵略者たち
+2 commuters：通勤者たち、通学者たち
+3 composers：作曲家たち
+4 installers：（設備などを）取り付ける人たち、設置業者
+【考え方】
+まず見るところ：空所のあとの who drive to work from the suburbs
+空所のすぐあとに、who で始まる説明が続いています。who は前の人を表す語に説明を付け足す働きをする語（関係代名詞）です。
+(　) who drive to work from the suburbs（郊外から車で仕事に通う（　））
+suburbs は「郊外（都市のまわりの住宅地）」、drive to work は「車で仕事に行く」です。つまり空所には「郊外から車で仕事に通う人たち」を表す語が入ります。commuter は「通勤者（家から職場に通う人）」という意味なので、2が正解です。
+次の文も、この答えを支えています。
+The amount of time needed to drive into the city is expected to drop by 10 percent.（都市部へ車で入るのにかかる時間は、10パーセント減ると予想されている）
+通勤にかかる時間が短くなるので、新しい道路は通勤者にとってよいものになる、という流れです。
+この問題の型：語の意味・組み合わせ（who drive to work → commuters）
+【ほかの選択肢】
+1 invaders は「侵略者たち（攻めこんでくる人たち）」です。「郊外から車で仕事に通う侵略者」となり、意味が通りません。
+3 composers は「作曲家たち」です。作曲家が車で通勤することはありえますが、文は仕事の種類ではなく「車で仕事に通う人」についての話で、作曲家だけに限る理由がありません。
+4 installers は「（設備などを）取り付ける人たち」です。これも仕事の種類を表す語で、「郊外から車で仕事に通う人」全体を表す語になりません。
+【覚えるポイント】
+・commuter：「通勤者、通学者」。動詞は commute（通勤する、通学する）。
+・空所のすぐあとに who ～ の説明があるときは、その説明（ここでは drive to work from the suburbs）をひとことで表す人の語を選ぶと、答えを決める手がかりになります。

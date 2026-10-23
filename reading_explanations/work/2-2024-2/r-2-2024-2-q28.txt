@@ -1,0 +1,31 @@
+---
+choices: bonobos were seen to help other bonobos without getting a reward. | bonobos were required to push a button on the wall to get a piece of fruit. | some bonobos were able to jump out of the cage after getting some fruit. | researchers decided that bonobos and chimpanzees were very similar.
+answerText: bonobos were seen to help other bonobos without getting a reward.
+reviewed: yes
+---
+【正解】1 bonobos were seen to help other bonobos without getting a reward.（ボノボが、ごほうびをもらわずにほかのボノボを助ける様子が見られた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：In one study,（ある研究で、）
+1 bonobos were seen to help other bonobos without getting a reward.（ボノボが、ごほうびをもらわずにほかのボノボを助ける様子が見られた。）
+2 bonobos were required to push a button on the wall to get a piece of fruit.（ボノボは、果物を1つもらうために、壁のボタンを押さなければならなかった。）
+3 some bonobos were able to jump out of the cage after getting some fruit.（何頭かのボノボは、果物を手に入れたあと、おりから飛び出すことができた。）
+4 researchers decided that bonobos and chimpanzees were very similar.（研究者たちは、ボノボとチンパンジーはとても似ていると結論づけた。）
+【考え方】
+まず見るところ：第2段落の In one study, と、Even though they did not get any apples or reward themselves for helping others, ～
+設問の In one study（ある研究で）と同じ語句が、第2段落にあります。そのあとに研究の内容が書かれています。
+2頭のボノボがフェンスで仕切られた部屋に入れられ、一方の部屋にはリンゴがつり下げられました。リンゴを外せるのは、もう一方の部屋のボノボだけでした。
+Even though they did not get any apples or reward themselves for helping others, the bonobos often dropped the apple when there was another bonobo in the other room.（ほかの者を助けても、リンゴを1つももらえず、自分にごほうびを与えることもなかったにもかかわらず、ボノボは、もう一方の部屋に別のボノボがいるときには、しばしばリンゴを落としてやった）
+Even though ～ は「～にもかかわらず」という意味です。リンゴを落とすことで、もう一方の部屋のボノボを助けていますが、自分は何ももらっていません。
+本文 did not get any apples or reward themselves for helping others ... dropped the apple（ほかの者を助けても何ももらえないのに、リンゴを落とした）＝ 選択肢 help other bonobos without getting a reward（ごほうびをもらわずにほかのボノボを助けた）
+did not get any apples or reward themselves（リンゴも自分へのごほうびももらわなかった）が、without getting a reward（ごほうびをもらわずに）に言いかえられています。ですから1が正解です。
+この問題の型：言いかえ（did not get any apples or reward themselves ＝ without getting a reward）
+【ほかの選択肢】
+2 壁のボタンを押すという話は、本文にありません。本文のボノボは、フェンスに登ってリンゴを外しました。また、ボノボはリンゴを自分のためではなく、もう一方の部屋のボノボのために落としています。
+3 おりから飛び出すという話は、本文にありません。ボノボはフェンスに登ってリンゴに手を届かせましたが、果物を手に入れて外へ逃げたとは書かれていません。
+4 研究者がボノボとチンパンジーはとても似ていると結論づけた、という話は本文にありません。第4段落では、ボノボとチンパンジーの集団のしくみや友好的かどうかの違いが述べられています。
+【覚えるポイント】
+・Even though ～：「～にもかかわらず」。reward は「ごほうび」です。
+・設問が In one study, のように本文と同じ語句で始まるときは、本文の同じ語句のあとを読み、結果を述べた文（ここでは the bonobos often dropped the apple）と選択肢を見比べましょう。

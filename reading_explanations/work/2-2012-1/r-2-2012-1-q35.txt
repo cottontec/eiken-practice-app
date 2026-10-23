@@ -1,0 +1,30 @@
+---
+choices: It costs more than many other refrigerators on the market. | The current advertisements have not been seen by many people. | People do not know that it can help them save money on electricity. | The company has not done enough surveys to get customers' opinions.
+answerText: People do not know that it can help them save money on electricity.
+reviewed: yes
+---
+【正解】3 People do not know that it can help them save money on electricity.（人々は、それが電気代の節約に役立つことを知らない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：スティーブ・リーは、レンデックス500の売れ行きが悪い理由の1つは何だと考えていますか。
+1 It costs more than many other refrigerators on the market.（市場に出ているほかの多くの冷蔵庫よりも値段が高い。）
+2 The current advertisements have not been seen by many people.（今の広告を見た人が多くない。）
+3 People do not know that it can help them save money on electricity.（人々は、それが電気代の節約に役立つことを知らない。）
+4 The company has not done enough surveys to get customers' opinions.（会社が、客の意見を聞くための調査を十分にしていない。）
+【考え方】
+メールの第2段落を見ます。1文目で sales have been poor（売れ行きがよくない）と書かれ、そのあとで理由が説明されています。
+リーは I do not believe there is a problem with the product itself.（製品そのものに問題があるとは思わない）と書き、Rather, it seems that our recent advertising has not been effective.（むしろ、当社の最近の広告に効果がなかったようだ）と続けています。リーは、売れない理由を広告にあると考えています。
+では、広告の何がよくなかったのでしょうか。Our advertisements have concentrated on the Rendex 500's reasonable price.（当社の広告はレンデックス500の手ごろな価格を中心にしてきた）とあり、さらに They do not mention that it uses less electricity than many other refrigerators and so is better for the environment and costs less to run.（広告では、それがほかの多くの冷蔵庫より電気を使う量が少なく、そのため環境によく、動かす費用も少ないことに触れていない）と書かれています。mention は「～について触れる、言う」という意味です。
+広告で伝えていないので、人々は「この冷蔵庫は電気代が安くすむ」ということを知らない、というのがリーの考えです。本文と選択肢は次のように対応しています。
+本文 They do not mention that ～（広告は～に触れていない）＝ 選択肢 People do not know that ～（人々は～を知らない）
+本文 uses less electricity ... costs less to run（電気を使う量が少なく、動かす費用が少ない）＝ 選択肢 it can help them save money on electricity（電気代の節約に役立つ）
+正解は3です。
+【ほかの選択肢】
+1 本文では、広告が the Rendex 500's reasonable price（手ごろな価格）を中心にしていると書かれています。値段がほかの冷蔵庫より高いという話はないので、誤りです。なお、本文の costs less to run（動かす費用が少ない）は、値段ではなく、使うときにかかる電気代などの費用のことです。
+2 リーは広告が has not been effective（効果がなかった）と言っていますが、それは広告の中身が価格の話ばかりだったからです。広告を見た人の数が少ないとは書かれていないので、誤りです。
+4 本文には According to customer surveys（顧客調査によると）とあり、調査は行われています。調査が足りないとは書かれていないので、誤りです。
+【覚えるポイント】
+・mention ～：「～について触れる、言う」。
+・cost less to run：「動かす（使う）のに費用が少なくてすむ」。

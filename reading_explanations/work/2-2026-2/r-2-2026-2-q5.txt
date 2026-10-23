@@ -1,0 +1,33 @@
+---
+choices: opportunity | profit | experiment | minority
+answerText: minority
+reviewed: yes
+---
+【正解】4 minority（少数、少数の人々）
+【和訳】
+（英文）
+Police said that the trouble at last night's soccer game was caused by a small ［minority］ of people. Most fans behaved well and just watched the match.
+（訳）
+警察によると、昨夜のサッカーの試合での騒ぎは、ごく（少数）の人々によって引き起こされたということです。ほとんどのファンは行儀よくふるまい、ただ試合を見ていました。
+（選択肢の意味）
+1 opportunity：機会
+2 profit：利益、もうけ
+3 experiment：実験
+4 minority：少数、少数の人々
+【考え方】
+まず見るところ：2文目の Most fans behaved well
+空所のある文は次のとおりです。
+the trouble at last night's soccer game was caused by a small ( ) of people（昨夜のサッカーの試合での騒ぎは、小さな（　）の人々によって引き起こされた）
+騒ぎを起こしたのがどんな人々だったのかを考えます。
+次に、2文目を見ます。
+Most fans behaved well and just watched the match.（ほとんどのファンは行儀よくふるまい、ただ試合を見ていた）
+most は「ほとんどの」という意味です。ほとんどのファンは問題を起こしていないので、騒ぎを起こしたのはファンの中の一部の、数の少ない人々だと分かります。
+minority は「少数、少数の人々」という意味で、a small minority of people で「ごく少数の人々」となります。2文目の Most fans と反対の関係になるので、4が正解です。
+この問題の型：対比（ごく少数の人々⇔ほとんどのファン）
+【ほかの選択肢】
+1 opportunity は「機会」です。「騒ぎは人々の小さな機会によって引き起こされた」となり、意味が通りません。
+2 profit は「利益、もうけ」です。「人々の小さな利益によって騒ぎが起きた」となり、2文目の「ほとんどのファンは行儀よくしていた」という内容ともつながりません。
+3 experiment は「実験」です。サッカーの試合での騒ぎを人々の実験が起こしたという話ではなく、意味が通りません。
+【覚えるポイント】
+・a small minority of ～：「ごく少数の～」。反対の語は majority（大多数）です。
+・次の文に Most（ほとんどの）が出てきたら、前の文の「一部の人々」と比べている可能性があるので、数の多い・少ないを表す語が手がかりになります。

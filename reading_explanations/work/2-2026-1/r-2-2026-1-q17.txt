@@ -1,0 +1,32 @@
+---
+choices: flip over | lay off | bring about | catch up
+answerText: lay off
+reviewed: yes
+---
+【正解】2 lay off（～を解雇する）
+【和訳】
+（英文）
+The company had to ［lay off］ some of its workers because it was losing money. It was a very difficult decision to make.
+（訳）
+その会社はお金を失っていた（損を出していた）ので、従業員の一部を（解雇し）なければなりませんでした。それは、下すのがとても難しい決断でした。
+（選択肢の意味）
+1 flip over：～をひっくり返す
+2 lay off：～を解雇する（仕事をやめさせる）
+3 bring about：～を引き起こす
+4 catch up：追いつく
+【考え方】
+まず見るところ：1文目の because it was losing money と、2文目の a very difficult decision
+空所のあとの目的語（動詞が表す動作を受ける語）は some of its workers（従業員の一部）です。その理由が because のあとにあります。
+because it was losing money（お金を失っていた〔損を出していた〕ので）
+it は会社を指しています。会社が損を出しているときに、従業員に対してしなければならないこととして考えられるのは、人の数を減らすことです。2文目も見ます。
+It was a very difficult decision to make.（それは、下すのがとても難しい決断だった）
+従業員をやめさせるのは、会社にとってつらく、難しい決断です。
+lay off は「～を解雇する（仕事をやめさせる）」という意味です。「損を出していたので、従業員の一部を解雇しなければならなかった」となり、2つの文の内容に合います。ですから2が正解です。
+この問題の型：因果（損を出していた → 従業員を解雇した）
+【ほかの選択肢】
+1 flip over は「～をひっくり返す」です。「従業員の一部をひっくり返す」では意味が通りません。
+3 bring about は「～を引き起こす」です。「従業員の一部を引き起こす」となり、意味が通りません。
+4 catch up は「追いつく」です。「従業員の一部に追いつかなければならなかった」となり、会社が損を出していたという理由とつながりません。
+【覚えるポイント】
+・lay off ～：「～を解雇する」。lose money は「お金を失う、損をする」です。
+・because のあとに会社が損をしているという理由があり、さらに difficult decision（難しい決断）と続くときは、つらい決断を表す語句が入る手がかりになります。

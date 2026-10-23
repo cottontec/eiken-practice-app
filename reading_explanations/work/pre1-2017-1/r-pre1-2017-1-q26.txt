@@ -1,0 +1,32 @@
+---
+choices: refuse to obey the law | admit the truth | stop holding their main event | maintain their policy
+answerText: admit the truth
+reviewed: yes
+---
+【正解】2 admit the truth（真実を認める）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 refuse to obey the law（法律に従うことを拒む）
+2 admit the truth（真実を認める）
+3 stop holding their main event（主要な試合を開くのをやめる）
+4 maintain their policy（自分たちの方針を保ち続ける）
+【考え方】
+まず見るところ：第1段落の Most viewers already knew ～ と、Ever since its foundation in 1952, however, ～
+空所のある文は次のとおりです。
+The executives' decision to (26) was therefore a surprise.（そのため、（26）という幹部たちの決定は驚きだった）
+therefore（そのため）があるので、前の文に「なぜ驚きだったのか」の理由が書かれていると考えられます。そこで第1段落を初めから確かめます。
+WWF executives asked the state senate of New Jersey to recognize professional wrestling as a form of entertainment.（WWFの幹部たちは、ニュージャージー州の州議会上院に、プロレスを娯楽の一つの形として認めるよう求めた）
+Most viewers already knew that it was all a show（ほとんどの視聴者は、それがすべて見せ物であることをすでに知っていた）
+Ever since its foundation in 1952, however, the WWF had claimed professional wrestling was a true competitive sport.（しかし、1952年の設立以来ずっと、WWFはプロレスが本物の競技スポーツだと主張してきた）
+本当は「見せ物（娯楽）」なのに、WWFは長い間「本物のスポーツ」だと言い張ってきました。その幹部たちが、自分から「娯楽として認めてほしい」と求めたのです。
+これは、長年隠してきた本当のことを認めたことになります。今までの主張と逆のことをしたので、驚きだったと分かります。よって2が正解です。
+この問題の型：対比（本物のスポーツだと主張してきた⇔娯楽と認めるよう求めた）／言いかえ（recognize ～ as entertainment→admit the truth）
+【ほかの選択肢】
+1 「法律に従うことを拒む」では、本文と合いません。幹部たちは州議会に「認めてほしい」と求めており、法律に逆らったという話は書かれていません。
+3 「主要な試合を開くのをやめる」という話は本文にありません。幹部たちが決めたのは、プロレスの分類を変えてもらうよう求めることです。
+4 「自分たちの方針を保ち続ける」では、話が逆になります。WWFはそれまで「本物のスポーツだ」と主張してきたので、娯楽だと認めるよう求めたのは方針を変えたことになります。方針を保ち続けたのなら、驚きにもなりません。
+【覚えるポイント】
+・recognize A as B：「AをBとして認める」。
+・therefore … a surprise（そのため…は驚きだった）のような文では、前に書かれた「それまでの主張や常識」と反対のことが空所に入ることが多いので、前の文の内容と逆向きになっているかを確かめると手がかりになります。

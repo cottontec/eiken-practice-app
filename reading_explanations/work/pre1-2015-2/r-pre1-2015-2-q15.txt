@@ -1,0 +1,32 @@
+---
+choices: stroll | draft | barrel | blaze
+answerText: stroll
+reviewed: yes
+---
+【正解】1 stroll（散歩、ぶらぶら歩くこと）
+【和訳】
+（英文）
+The couple enjoyed walking, so they decided to take a ［stroll］ around the island resort rather than rent bicycles or drive.
+（訳）
+その二人は歩くのが好きだったので、自転車を借りたり車を運転したりするのではなく、島のリゾートを（散歩）することにした。
+（選択肢の意味）
+1 stroll：散歩、ぶらぶら歩くこと
+2 draft：下書き；すきま風
+3 barrel：たる
+4 blaze：炎、燃え上がる火
+【考え方】
+まず見るところ：文の初めの enjoyed walking と、文の最後の rather than rent bicycles or drive
+文の初めを見ます。
+The couple enjoyed walking（その二人は歩くのが好きだった）
+そのあとに so（だから）が続くので、二人は「歩くこと」に関係する行動を選んだと考えられます。
+文の最後も見ます。
+rather than rent bicycles or drive（自転車を借りたり車を運転したりするのではなく）
+rather than ～ は「～ではなく、～よりむしろ」です。自転車や車を使わない移動の方法といえば「歩くこと」です。take a stroll で「散歩する」となるので、1が正解です。
+この問題の型：対比（rather than：自転車や車⇔歩くこと）
+【ほかの選択肢】
+2 draft は「下書き」や「すきま風」です。「島のリゾートのまわりで下書きをとる」では意味が通りません。
+3 barrel は「たる」です。take a barrel around ～ では「たるを持って回る」ような意味になり、歩くのが好きだという理由とつながりません。
+4 blaze は「炎」です。「島のリゾートのまわりで炎をとる」では意味が通りません。
+【覚えるポイント】
+・take a stroll：「散歩する、ぶらぶら歩く」。
+・rather than ～（～ではなく）のあとに書かれているものは、空所の語と反対の選択肢になっていることが多く、何を選ばなかったのかを見ると答えの手がかりになります。

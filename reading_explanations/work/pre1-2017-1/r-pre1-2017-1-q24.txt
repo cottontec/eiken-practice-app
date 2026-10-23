@@ -1,0 +1,33 @@
+---
+choices: drop back | jump at | face off | play down
+answerText: play down
+reviewed: yes
+---
+【正解】4 play down（軽く扱う、大したことではないように言う）
+【和訳】
+（英文）
+The chemical company tried to ［play down］ the negative effects its new factory would have on the environment, but local people remained very concerned.
+（訳）
+その化学会社は、新しい工場が環境に与えるであろう悪い影響を（大したことではないように言おう）としたが、地元の人々はとても心配したままだった。
+（選択肢の意味）
+1 drop back：後ろに下がる、遅れる
+2 jump at：（機会などに）飛びつく
+3 face off：（相手と）向き合って対決する
+4 play down：軽く扱う、大したことではないように言う
+【考え方】
+まず見るところ：文の後半の but local people remained very concerned
+空所のある部分は次のとおりです。
+The chemical company tried to ( ) the negative effects its new factory would have on the environment（その化学会社は、新しい工場が環境に与えるであろう悪い影響を（　）しようとした）
+the negative effects のあとの its new factory would have on the environment は、「どんな悪い影響か」を後ろから説明しています。have an effect on ～ は「～に影響を与える」です。
+後半は次のとおりです。
+but local people remained very concerned（しかし、地元の人々はとても心配したままだった）
+remain は「～のままである」です。but（しかし）があるので、会社がしようとしたことは「住民の心配を減らすこと」だったと考えられます。
+悪い影響を「大したことではない」と言えば、住民を安心させようとしたことになります。play down は「軽く扱う、大したことではないように言う」なので、4が正解です。
+この問題の型：対比（会社は軽く見せようとした⇔住民は心配したまま）／熟語・決まった形（play down）
+【ほかの選択肢】
+1 drop back は「後ろに下がる、遅れる」です。後ろに「～を」がこない言い方なので、「悪い影響を後ろに下がろうとした」となり、意味が通りません。
+2 jump at は「（よい機会などに）飛びつく」です。会社が環境への悪い影響に飛びつこうとした、では、住民の心配と but でつながる流れになりません。
+3 face off は「（相手と）向き合って対決する」で、選手やチームなど争う者どうしについて使います。「悪い影響」を相手に対決するという言い方にはならず、住民が心配したままだったという流れとも結びつきません。
+【覚えるポイント】
+・play down：「軽く扱う、大したことではないように言う」。
+・tried to ～, but … remained concerned（～しようとしたが、…は心配したままだった）の形では、～の部分に「心配を減らそうとする行動」が入ると考えると手がかりになります。

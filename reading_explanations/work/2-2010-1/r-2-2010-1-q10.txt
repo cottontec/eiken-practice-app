@@ -1,0 +1,24 @@
+---
+choices: formulated | adored | consumed | disturbed
+answerText: formulated
+reviewed: yes
+---
+【正解】1 formulated（（計画などを）練り上げた、作成した）
+【和訳】
+政府は、家のない人々を助けるための新しい政策を作成したと発表しました。その政策は準備に数か月かかりましたが、今は導入できる状態になっています。
+（選択肢の意味）
+1 formulated：（計画などを）練り上げた、作成した
+2 adored：とても好きだった
+3 consumed：消費した
+4 disturbed：じゃました、乱した
+【考え方】
+1文目は The government announced that it had (　) a new policy to help the homeless.（政府は、家のない人々を助けるための新しい政策を～したと発表した）です。policy は「政策（政府が決める方針）」、the homeless は「家のない人々」です。
+2文目に The policy took several months to prepare, but now it is ready to be introduced.（その政策は準備に数か月かかったが、今は導入できる状態だ）とあります。prepare は「準備する」です。政府は数か月かけて政策を準備し、作り上げたことが分かります。
+formulate は「（計画や政策を）よく考えて作り上げる」という意味です。had formulated で「作成した（発表の時点で作り終えていた）」となり、2文目の内容と合うので、1が正解です。
+【ほかの選択肢】
+2 adored は「とても好きだった、あこがれていた」です。「政府が新しい政策を大好きだった」では、数か月かけて準備したという2文目とつながりません。
+3 consumed は「消費した、使い果たした」です。「新しい政策を使い果たした」となり、「今は導入できる状態だ」という2文目と合いません。
+4 disturbed は「じゃました、乱した」です。政府が自分の新しい政策をじゃましたのでは、導入の準備ができたという話になりません。
+【覚えるポイント】
+・formulate a policy：「政策を作成する、練り上げる」。plan（計画）などにも使います。
+・be ready to be introduced：「導入される準備ができている」。

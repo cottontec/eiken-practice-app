@@ -1,0 +1,32 @@
+---
+choices: immigration | organization | persuasion | admission
+answerText: persuasion
+reviewed: yes
+---
+【正解】3 persuasion（説得）
+【和訳】
+（英文）
+Good teachers always use ［persuasion］ rather than threats to get their students to study.
+（訳）
+よい先生は、生徒に勉強させるために、いつもおどしよりも（説得）を使います。
+（選択肢の意味）
+1 immigration：（外国からの）移住、入国
+2 organization：組織、団体
+3 persuasion：説得
+4 admission：入場（料）、入学（の許可）、（事実を）認めること
+【考え方】
+まず見るところ：空所のあとの rather than threats
+rather than threats（おどしよりもむしろ）
+A rather than B は「BよりもむしろA」という意味です。threat は「おどし（言うことを聞かないとひどい目にあわせると言うこと）」なので、空所にはおどしと反対のやり方が入ります。
+Good teachers always use (　) rather than threats to get their students to study.（よい先生は、生徒に勉強させるために、おどしよりもむしろ（　）をいつも使う）
+get ＋人＋ to ～ は「（人）に～させる」です。
+persuasion は「説得（理由を話して、相手に納得してもらうこと）」です。「おどすのではなく、話して納得させる」となり、よい先生のやり方として自然なので、3が正解です。
+この問題の型：対比（threats ⇔ 空所）、語の意味・組み合わせ
+【ほかの選択肢】
+1 immigration は「（外国からの）移住、入国」です。生徒に勉強させる方法ではないので、合いません。
+2 organization は「組織、団体」です。「おどしよりも組織を使う」では、おどしと比べる方法になっておらず、意味が通りません。
+4 admission は「入場（料）、入学（の許可）、（事実を）認めること」です。生徒に勉強させるために、おどしの代わりに使うものとしては意味が通りません。
+【覚えるポイント】
+・persuasion：「説得」。動詞は persuade（説得する）です。
+・次に同じ形が出たら：A rather than B の B に当たる語（ここでは threats）の意味を確かめ、空所にはそれと反対の方法を表す語を入れて考えると、手がかりになります。
+・get ＋人＋ to ～：「（人）に～させる」。

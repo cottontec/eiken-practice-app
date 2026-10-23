@@ -1,0 +1,30 @@
+---
+choices: put games for more subjects onto the site and made it available in more languages. | gave as much rice as possible to countries that had teams competing on Freerice. | produces more than 100 million grains of rice a day and gives it to the poor. | has started giving an award to the player who visits the website the most.
+answerText: put games for more subjects onto the site and made it available in more languages.
+reviewed: yes
+---
+【正解】1 put games for more subjects onto the site and made it available in more languages.（より多くの教科のゲームをサイトにのせ、より多くの言語で利用できるようにした。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：国連WFPは
+1 put games for more subjects onto the site and made it available in more languages.（より多くの教科のゲームをサイトにのせ、より多くの言語で利用できるようにした。）
+2 gave as much rice as possible to countries that had teams competing on Freerice.（フリーライスで競い合うチームのある国々に、できるだけ多くの米を与えた。）
+3 produces more than 100 million grains of rice a day and gives it to the poor.（1日に1億粒を超える米を生産し、それを貧しい人々に与えている。）
+4 has started giving an award to the player who visits the website the most.（ウェブサイトを最も多く訪れたプレーヤーに、賞を与え始めた。）
+【考え方】
+WFPがしたことは、第4段落に書かれています。
+In 2009, Breen gave the website to WFP, which added many new subjects, such as math, foreign languages, and literature, as well as versions of the game in other languages.（2009年、ブリーンはこのウェブサイトをWFPに譲り、WFPは、数学、外国語、文学など多くの新しい教科や、ほかの言語で遊べるゲームを加えた）とあります。
+which は前の WFP を指し、「そのWFPは～を加えた」と説明を付け足しています。A as well as B は「Bだけでなく A も」という意味で、ここではWFPが「新しい教科」と「ほかの言語のゲーム」の両方を加えたことを表しています。
+本文と選択肢は次のように対応しています。
+本文 added many new subjects（多くの新しい教科を加えた）＝ 選択肢 put games for more subjects onto the site（より多くの教科のゲームをサイトにのせた）
+本文 versions of the game in other languages（ほかの言語版のゲーム）＝ 選択肢 made it available in more languages（より多くの言語で利用できるようにした）
+正解は1です。
+【ほかの選択肢】
+2 チームで競い合うという話は本文にありません。as much rice as possible（できるだけ多くの米）という言葉は、最後の文に、プレーヤーができるだけ多くの米を寄付することを楽しんでいる、という形で出てくるだけです。
+3 本文には players were donating up to 100 million grains of rice a day（プレーヤーたちは1日に最大で1億粒の米を寄付していた）とあります。1億粒はプレーヤーの寄付の量で、WFPが生産した量ではありません。また、up to（最大で）なので「1億粒を超える」という点も合いません。
+4 賞を与えるという話は本文にありません。
+【覚えるポイント】
+・A as well as B：「Bだけでなく A も」。
+・available：「利用できる、手に入る」。

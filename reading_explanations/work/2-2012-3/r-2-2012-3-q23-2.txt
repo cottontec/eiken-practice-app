@@ -1,0 +1,21 @@
+---
+choices: learn | it | that she | surprised | her to
+answerText: surprised
+order: 2 4 5 1 3
+reviewed: yes
+---
+【正解】4 surprised（この問題の2番目）
+【完成文】
+Makiko knew that her photograph was good, but ( it surprised her to learn that she ) had won the photography contest. She never thought that she would get first prize for it.
+並べ方：2 it → 4 surprised → 5 her to → 1 learn → 3 that she（2番目は4、4番目は1）
+【和訳】
+マキコは自分の写真がよい出来だと分かっていましたが、写真コンテストで優勝したと知って驚きました。まさか自分がそれで1等賞をとるとは思っていませんでした。
+【考え方】
+空所は but のあとにあり、うしろには had won the photography contest（写真コンテストで優勝した）が続いています。had won の主語になれるのは 3 that she の she なので、that she had won the photography contest（彼女が写真コンテストで優勝したということ）が空所の最後の部分になります。
+次に、そのことを「知った」のは learn です。learn that ～ で「～ということを知る」という意味です。5 her to と組み合わせると、to learn that she had won ～（彼女が優勝したと知ること）となります。
+残りは 2 it と 4 surprised です。surprise ＋ 人 は「人を驚かせる」という意味です。it surprised her で「それが彼女を驚かせた」となります。この it は、あとに出てくる to learn that ～（～と知ったこと）を前もって指しておく語です。「～と知ったことが彼女を驚かせた」、つまり「～と知って彼女は驚いた」という意味になります。
+2番目に 4 surprised が来るのは、文の初めの it のすぐあとに「それがどうしたか」を表す動詞が必要だからです。
+こうしてできた文は、2文目の She never thought that she would get first prize for it.（まさか1等賞をとるとは思っていなかった）ともつながります。
+【覚えるポイント】
+・It surprised ＋ 人 ＋ to ～：「～して（人は）驚いた」。it はあとの to ～ の内容を指します。
+・learn that ～：「～ということを知る」。

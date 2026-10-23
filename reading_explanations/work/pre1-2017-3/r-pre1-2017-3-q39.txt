@@ -1,0 +1,32 @@
+---
+choices: Medical 3D printers are unable to construct objects layer by layer when a patient's own cells and artificially generated ones are used together. | The foundations the printers create are not strong enough to support all of the blood vessels that supply blood to organs. | Scientists have not yet been able to fully understand the processes cells use to organize themselves when they form organs. | Because the layers of an organ grow at different rates, it is difficult to design a printer that can print an entire organ.
+answerText: Scientists have not yet been able to fully understand the processes cells use to organize themselves when they form organs.
+reviewed: yes
+---
+【正解】3 Scientists have not yet been able to fully understand the processes cells use to organize themselves when they form organs.（科学者たちは、細胞が臓器を作るときに自分たちを組み立てる仕組みを、まだ完全には理解できていない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one problem regarding the creation of organs using 3D printers?（3Dプリンターを使って臓器を作ることに関する問題の一つは何か。）
+1 Medical 3D printers are unable to construct objects layer by layer when a patient's own cells and artificially generated ones are used together.（患者自身の細胞と人工的に作られた細胞をいっしょに使うと、医療用3Dプリンターは物体を層ごとに組み立てることができない。）
+2 The foundations the printers create are not strong enough to support all of the blood vessels that supply blood to organs.（プリンターが作る土台は、臓器に血液を送るすべての血管を支えられるほど強くない。）
+3 Scientists have not yet been able to fully understand the processes cells use to organize themselves when they form organs.（科学者たちは、細胞が臓器を作るときに自分たちを組み立てる仕組みを、まだ完全には理解できていない。）
+4 Because the layers of an organ grow at different rates, it is difficult to design a printer that can print an entire organ.（臓器の層はそれぞれちがう速さで育つので、臓器全体を印刷できるプリンターを設計するのは難しい。）
+【考え方】
+まず見るところ：第2段落の a major obstacle to creating entire organs remains: ～
+第2段落で、臓器全体を作るうえでの大きな障害が説明されています。
+Although significant advances have been achieved, a major obstacle to creating entire organs remains: the mechanisms by which cells interact with one another to form the complex structures in organs require more research before they can be replicated.（大きな進歩はなしとげられたものの、臓器全体を作るうえでの大きな障害が残っている。それは、細胞が互いに作用し合って臓器の中の複雑な構造を作るしくみは、再現できるようになる前に、さらに研究が必要だということだ）
+obstacle は「障害（じゃまになるもの）」、mechanism は「しくみ」、replicate は「再現する（同じものをもう一度作る）」です。コロン（:）の後ろで、その障害の中身が説明されています。
+本文と選択肢を対にすると、次のようになります。
+本文 the mechanisms by which cells interact with one another to form the complex structures in organs（細胞が互いに作用し合って臓器の中の複雑な構造を作るしくみ）＝ 選択肢 the processes cells use to organize themselves when they form organs（細胞が臓器を作るときに自分たちを組み立てる仕組み）
+本文 require more research（さらに研究が必要だ）→ 読み取れること：まだ完全には分かっていない（選択肢 have not yet been able to fully understand）
+ですから3が正解です。
+この問題の型：言いかえ（require more research → have not yet been able to fully understand）
+【ほかの選択肢】
+1 本文に書かれていません。本文では、患者自身の細胞か人工的に作られた細胞の「どちらか（either ～ or）」から臓器を作ると書かれていて、両方をいっしょに使ったときの問題は出てきません。層ごとに組み立てることは、医療用3Dプリンターのふつうの作り方として説明されています。
+2 本文に書かれていません。血管について書かれている問題は、中空で繊細な構造のために3Dプリンターで作り直すのが難しいということです。土台の強さが足りないという話はありません。
+4 本文に書かれていません。臓器の層がちがう速さで育つという話は、本文のどこにも出てきません。
+【覚えるポイント】
+・require more research：「さらに研究が必要だ」。これは「まだ十分に分かっていない」ことを表す言い方で、選択肢では have not yet been able to fully understand と言いかえられています。
+・a major obstacle ～ remains: のようにコロン（:）の前で「問題がある」と言っているときは、コロンの後ろにその中身が書かれていることが多いので、そこを選択肢と比べるのが手がかりになります。

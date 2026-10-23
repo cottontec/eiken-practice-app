@@ -1,0 +1,33 @@
+---
+choices: did away | kept on | went in | got on
+answerText: did away
+reviewed: yes
+---
+【正解】1 did away（～を廃止した、やめた。do away with ～ の形）
+【和訳】
+（英文）
+The fast-food restaurant ［did away］ with extra-large drinks because only a few customers ordered them. Now, the drinks are smaller and more customers order them with meals.
+（訳）
+そのファストフード店は、特大サイズの飲み物を注文する客がほんの少ししかいなかったので、特大サイズの飲み物を（やめました）。今では、飲み物は（以前より）小さく、（以前より）多くの客が食事といっしょに注文しています。
+（選択肢の意味）※どれも空所のあとの with とつながる形で考えます。
+1 did away：（do away with ～で）～を廃止した、やめた
+2 kept on：（keep on with ～で）～を続けた
+3 went in：（go in with ～で）～といっしょに入った、～に加わった
+4 got on：（get on with ～で）～とうまくやった、～を進めた
+【考え方】
+まず見るところ：空所のあとの with extra-large drinks と、理由を表す because only a few customers ordered them
+選択肢はどれも、空所のあとの with とつなげて考えます。
+because only a few customers ordered them（ほんの少しの客しかそれを注文しなかったので）
+only a few は「ほんの少ししか～ない」という意味で、特大サイズの飲み物はあまり売れていなかったことが分かります。
+Now, the drinks are smaller and more customers order them with meals.（今では、飲み物は（以前より）小さく、（以前より）多くの客が食事といっしょに注文している）
+今は飲み物が小さくなっているので、特大サイズはもう売られていないと読み取れます。
+売れないので特大サイズをやめた、という流れになる語句が必要です。do away with ～ は「～を廃止する、やめる」という熟語で、過去形の did away を入れると「特大サイズの飲み物を廃止した」となるので、1が正解です。
+この問題の型：熟語・決まった形（do away with ～）、因果（売れない→やめた）
+【ほかの選択肢】
+2 kept on は keep on with ～（～を続ける）の形で使うと、「特大サイズの飲み物を続けた」となります。しかし、あとの文では今の飲み物が小さくなっているので、続けたという内容と合いません。
+3 went in は go in with ～（～といっしょに入る、～に加わる）の形になり、「特大サイズの飲み物といっしょに入った」では意味が通りません。
+4 got on は get on with ～（～とうまくやっていく、～を進める）の形になり、「特大サイズの飲み物とうまくやった」では意味が通らず、飲み物が小さくなったこととも合いません。
+【覚えるポイント】
+・do away with ～：「～を廃止する、やめる」。get rid of ～（～を取り除く）と近い意味です。
+・次に同じ形が出たら：空所のあとに with や on などの小さな語がすぐ続くときは、熟語の一部の可能性があります。選択肢を with とつなげて意味を確かめ、前後の流れ（ここでは「売れない→今は小さい」）に合うものを選ぶと手がかりになります。
+・only a few ～：「ほんの少しの～しか…ない」。数が少ないことを強調します。

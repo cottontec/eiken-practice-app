@@ -1,0 +1,27 @@
+---
+choices: help people in other ways | reduce airline accidents | cure heart disease | make better clothing
+answerText: help people in other ways
+reviewed: yes
+---
+【正解】1 help people in other ways（ほかの方法で人々の役に立つ）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 help people in other ways（ほかの方法で人々の役に立つ）
+2 reduce airline accidents（飛行機の事故を減らす）
+3 cure heart disease（心臓病を治す）
+4 make better clothing（よりよい衣服を作る）
+【考え方】
+空所は第3段落の The researchers believe their system could be used to (23) in the future. です。「研究者たちは、自分たちのシステムが将来（23）ために使われる可能性があると考えている」という意味です。
+すぐあとの For example（たとえば）に注目します。そのあとが空所の具体例です。
+For example, it could be put on airplanes to help passengers sleep on long flights.（たとえば、長時間のフライトで乗客が眠れるよう助けるために、飛行機に取り付けられるかもしれない）
+ここまで、このシステムは高齢者が室内でよりよく眠れるようにするためのものとして説明されてきました。飛行機の乗客を助けるのは、それとは別の使い方です。さらに最後の文 Therefore, the ALADIN Project could be beneficial to people of all ages.（したがって、ALADINプロジェクトはあらゆる年齢の人々にとって役立つかもしれない）も、高齢者以外の人にも役立つという内容です。
+「ほかの方法で人々の役に立つ」なら、この例とまとめの文の両方につながります。よって1が正解です。
+【ほかの選択肢】
+2 飛行機の話は出てきますが、目的は help passengers sleep（乗客が眠れるよう助ける）ことです。事故を減らすとは書かれていません。
+3 心臓については heart rate decreases（心拍数が下がる）とありますが、これは眠る時間が近いことを知る手がかりとして使われているだけです。心臓病を治すという話はありません。
+4 衣服については sensors in the person's clothing（その人の衣服の中にあるセンサー）とありますが、センサーで体の変化を知るための話です。よりよい衣服を作るとは書かれておらず、あとの飛行機の例ともつながりません。
+【覚えるポイント】
+・in other ways：「ほかの方法で、ほかの点で」。
+・空所のあとに For example があれば、その具体例をまとめた内容が空所に入ることが多いです。

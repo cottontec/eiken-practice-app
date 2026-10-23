@@ -1,0 +1,29 @@
+---
+choices: found out why some spiders produce stronger kinds of silk. | developed artificial spider silk that is made from steel. | learned what chemicals are in spider silk. | discovered that a spider's silk changes during its lifetime.
+answerText: learned what chemicals are in spider silk.
+reviewed: yes
+---
+【正解】3 learned what chemicals are in spider silk.（クモの糸にどんな化学物質が含まれているかを知った。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：近年、科学者たちは（　）。
+1 found out why some spiders produce stronger kinds of silk.（なぜ一部のクモがより強い種類の糸を作るのかを突きとめた）
+2 developed artificial spider silk that is made from steel.（鋼鉄から作られた人工のクモの糸を開発した）
+3 learned what chemicals are in spider silk.（クモの糸にどんな化学物質が含まれているかを知った）
+4 discovered that a spider's silk changes during its lifetime.（クモの糸がその一生の間に変化することを発見した）
+【考え方】
+設問の In recent years（近年）に合う部分を探します。第1段落に many scientists have recently been researching spider silk, and they have made a number of important discoveries（最近、多くの科学者がクモの糸を研究していて、いくつもの重要な発見をしてきた）とあります。
+その発見の例として、They now know, for instance, how a spider produces its silk and what chemicals the silk contains.（たとえば今では、クモがどのように糸を作るのか、そして糸にどんな化学物質が含まれているのかが分かっている）と書かれています。for instance は「たとえば」、contain は「含む」です。
+後半の what chemicals the silk contains が選択肢3と合います。本文と選択肢は次のように対応しています。
+本文 They now know（今では分かっている）＝ 選択肢 learned（知った）
+本文 what chemicals the silk contains（糸がどんな化学物質を含んでいるか）＝ 選択肢 what chemicals are in spider silk（クモの糸にどんな化学物質があるか）
+正解は3です。
+【ほかの選択肢】
+1 本文で分かったと書かれているのは how a spider produces its silk（クモが「どのように」糸を作るか）です。「なぜ一部のクモがより強い糸を作るのか」については書かれていません。
+2 本文には Some scientists have even found a way to make spider silk artificially.（クモの糸を人工的に作る方法を見つけた科学者もいる）とあります。しかし鋼鉄（steel）が出てくるのは、クモの糸が同じ重さの鋼鉄の5倍強い、という強さの比べ方の部分だけです。鋼鉄から作ったとは書かれていません。
+4 クモの糸が一生の間に変化するという話は、本文にまったく書かれていません。
+【覚えるポイント】
+・contain ～：「～を含む」。what chemicals the silk contains で「糸がどんな化学物質を含んでいるか」。
+・for instance：「たとえば」。for example と同じ意味です。

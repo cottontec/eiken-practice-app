@@ -1,0 +1,27 @@
+---
+choices: journey | ignorance | opposite | currency
+answerText: ignorance
+reviewed: yes
+---
+【正解】2 ignorance（知らないこと、無知）
+【和訳】
+（英文）
+Professor Holt was surprised by his students' ［ignorance］ of World War I. Because they knew so little, he decided to spend more time on the topic.
+（訳）
+ホルト教授は、学生たちが第一次世界大戦について（知らないこと）に驚きました。学生たちがほとんど知らなかったので、教授はその話題にもっと多くの時間をかけることにしました。
+（選択肢の意味）
+1 journey：旅
+2 ignorance：知らないこと、無知
+3 opposite：反対のもの
+4 currency：通貨
+【考え方】
+空所のある文は「ホルト教授は、学生たちの第一次世界大戦の（　）に驚いた」という意味です。何に驚いたのかは、次の文から分かります。
+Because they knew so little（彼らがほとんど知らなかったので）とあります。they は学生たちのことです。so little は「とても少ししか～ない」という意味で、学生たちは第一次世界大戦についてほとんど知らなかったということです。そのため、教授は he decided to spend more time on the topic（その話題にもっと多くの時間をかけることにした）のです。
+ですから、教授が驚いたのは「学生たちが知らないこと」です。ignorance は「知らないこと、無知」という意味の名詞で、ignorance of ～ で「～について知らないこと」となります。2が正解です。
+【ほかの選択肢】
+1 journey は「旅」です。「学生たちの第一次世界大戦の旅に驚いた」となり、次の文の「ほとんど知らなかった」とつながりません。
+3 opposite は「反対のもの、逆のこと」です。「学生たちの第一次世界大戦の反対」では、何のことか分からず意味が通りません。
+4 currency は「通貨（国で使われているお金）」です。学生たちの知識の話をしている文に入れても、意味が通りません。
+【覚えるポイント】
+・ignorance of ～：「～について知らないこと、無知」。形容詞（人や物のようすを表す語）は ignorant（知らない）です。
+・so little：「ほとんど～ない」。量がとても少ないことを表します。

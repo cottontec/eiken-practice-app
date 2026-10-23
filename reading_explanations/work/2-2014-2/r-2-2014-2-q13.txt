@@ -1,0 +1,27 @@
+---
+choices: so that | even if | ever since | now that
+answerText: even if
+reviewed: yes
+---
+【正解】2 even if（たとえ～でも）
+【和訳】
+（英文）
+Mr. Richards said that he would start the meeting at two o'clock ［even if］ some of the club members were not there yet. He does not like waiting for people who are late.
+（訳）
+リチャーズさんは、たとえクラブのメンバーの何人かがまだ来ていなくても、会議を2時に始めると言いました。彼は、遅れてくる人を待つのが好きではないのです。
+（選択肢の意味）
+1 so that：～するように、～するために
+2 even if：たとえ～でも
+3 ever since：～して以来ずっと
+4 now that：今や～なので
+【考え方】
+空所の前は he would start the meeting at two o'clock（会議を2時に始める）、空所のあとは some of the club members were not there yet（クラブのメンバーの何人かがまだそこにいない）です。この2つをどうつなぐかを考えます。
+手がかりは2文目の He does not like waiting for people who are late.（彼は遅れてくる人を待つのが好きではない）です。遅れる人を待ちたくないので、メンバーがそろっていなくても予定どおり始める、と考えられます。
+even if は「たとえ～でも」という意味で、ある条件があっても結果は変わらないことを表します。「何人かがまだ来ていなくても2時に始める」となり、2文目とつながります。正解は2です。
+【ほかの選択肢】
+1 so that は「～するように、～するために」です。「メンバーの何人かがまだ来ていないように2時に始める」となり、意味が通りません。
+3 ever since は「～して以来ずっと」です。「何人かがまだ来ていない時から（ずっと）2時に始める」となり、意味が通りません。
+4 now that は「今や～なので」と理由を表します。「何人かがまだ来ていないので2時に始める」となりますが、メンバーが来ていないことは会議を始める理由になりません。
+【覚えるポイント】
+・even if ～：「たとえ～でも」。
+・not ～ yet：「まだ～ない」。

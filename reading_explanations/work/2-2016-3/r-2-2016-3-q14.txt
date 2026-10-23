@@ -1,0 +1,27 @@
+---
+choices: among | despite | beyond | throughout
+answerText: beyond
+reviewed: yes
+---
+【正解】3 beyond（～を越えて）
+【和訳】
+（英文）
+The young couple loved the house but decided that the price was ［beyond］ their reach. They looked for something cheaper instead.
+（訳）
+その若いカップルはその家をとても気に入りましたが、値段が自分たちの手の（届かないところにある）と判断しました。2人は代わりに、（その家より）安いものを探しました。
+（選択肢の意味）
+1 among：（3つ以上のもの）の間に
+2 despite：～にもかかわらず
+3 beyond：～を越えて、～の届かないところに
+4 throughout：～の間じゅう、～のすみずみまで
+【考え方】
+空所のあとの文の They looked for something cheaper instead.（2人は代わりに、もっと安いものを探した）に注目します。cheaper は「より安い」で、気に入った家よりも安いものを探したということです。
+家を気に入ったのに別の安いものを探したのは、値段が高すぎて買えなかったからだと考えられます。
+reach は「手の届く範囲」という意味です。beyond（～を越えて）と組み合わせた beyond one's reach は「～の手の届かないところに」という意味になります。the price was beyond their reach で「値段が自分たちには手の届かないものだった」となります。ですから、3が正解です。
+【ほかの選択肢】
+1 among は「（3つ以上のもの）の間に」です。「値段が手の届く範囲の間にあった」となり、買えなかったという話と合いません。
+2 despite は「～にもかかわらず」です。「値段が手の届く範囲にもかかわらずだった」となり、意味が通りません。
+4 throughout は「～の間じゅう、～のすみずみまで」です。「値段が手の届く範囲のすみずみまでだった」では意味が通りません。
+【覚えるポイント】
+・beyond one's reach：「（人）の手の届かないところに」。反対は within one's reach（手の届くところに）です。
+・something cheaper：「もっと安いもの」。something のような語には、形容詞（ものの様子を表す語）があとにつきます。

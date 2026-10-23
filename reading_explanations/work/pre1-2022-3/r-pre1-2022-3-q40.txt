@@ -1,0 +1,35 @@
+---
+choices: felt that neither Braille nor the New York Point system could possibly meet the needs of blind readers. | were unhappy that the debates over which system to use were indirectly preventing them from accessing reading materials. | did not like that they were being forced to use a writing system that had not been developed by a blind person. | were starting to think that other types of education had become much more important than learning to read books.
+answerText: were unhappy that the debates over which system to use were indirectly preventing them from accessing reading materials.
+reviewed: yes
+---
+【正解】2 were unhappy that the debates over which system to use were indirectly preventing them from accessing reading materials.（どの体系を使うかをめぐる議論が、間接的に、自分たちが読み物を手にすることを妨げていることに不満を持っていた（ということ）。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：The suggestion by the speaker at the national convention implies that blind people（全国大会での演説者の提案が暗に示しているのは、目の見えない人々が、）
+1 felt that neither Braille nor the New York Point system could possibly meet the needs of blind readers.（ブライユ点字もニューヨーク・ポイントの体系も、目の見えない読者の必要をとうてい満たせないと感じていた（ということ）。）
+2 were unhappy that the debates over which system to use were indirectly preventing them from accessing reading materials.（どの体系を使うかをめぐる議論が、間接的に、自分たちが読み物を手にすることを妨げていることに不満を持っていた（ということ）。）
+3 did not like that they were being forced to use a writing system that had not been developed by a blind person.（目の見えない人によって作られたのではない文字の体系を使わされていることをいやがっていた（ということ）。）
+4 were starting to think that other types of education had become much more important than learning to read books.（ほかの種類の教育のほうが、本を読めるようになることよりもずっと大切になったと考え始めていた（ということ）。）
+【考え方】
+まず見るところ：第3段落の Blind people, meanwhile, were severely inconvenienced と、the competing systems further limited their options
+設問の「演説者の提案」は、第3段落の最後に書かれています。
+a speaker reportedly summed up their frustrations by jokingly suggesting a violent response to the next person who invents a new system of printing for the blind（ある演説者が、目の見えない人々のための新しい印刷方式を次に発明する人には暴力で応じよう、と冗談めかして提案し、彼らのいらだちをまとめて表したと伝えられている）
+sum up は「まとめて表す」、frustrations は「いらだち、不満」です。この「いらだち」の中身は、その前の文に書かれています。
+Blind people, meanwhile, were severely inconvenienced; books they could read were already in short supply, and the competing systems further limited their options, as learning a new system required great time and effort.（その一方で、目の見えない人々はひどく不便な思いをしていた。彼らが読める本はすでに不足していたうえに、競い合う体系が彼らの選択肢をさらに狭めた。新しい体系を身につけるには、多くの時間と労力が必要だったからである）
+in short supply は「不足している」です。体系がいくつも競い合うと、読める本がさらに限られてしまうのです。
+本文と選択肢を対にすると、次のようになります。
+本文 debates about which was superior（どれがすぐれているかをめぐる議論）、the competing systems（競い合う体系）→ 選択肢 the debates over which system to use（どの体系を使うかをめぐる議論）
+本文 further limited their options, as learning a new system required great time and effort（新しい体系を身につけるのに時間と労力がかかるので、選択肢をさらに狭めた）→ 選択肢 indirectly preventing them from accessing reading materials（間接的に、読み物を手にすることを妨げる）
+本文 frustrations（いらだち）→ 選択肢 were unhappy（不満を持っていた）
+議論そのものが本を取り上げたのではなく、体系が増えて覚えるのが大変になったことで読める本が限られたので、indirectly（間接的に）と表されています。ですから2が正解です。
+この問題の型：推論（冗談の提案 → 新しい体系が増えることへのいらだち）、因果
+【ほかの選択肢】
+1 本文に書かれていません。目の見えない人々が、ブライユ点字もニューヨーク・ポイントも必要を満たせないと感じていたという話は出てきません。演説者のいらだちが向けられているのは、新しい印刷方式を次に発明する人です。
+3 本文に書かれていません。目の見えない人が作った体系ではないことへの不満は出てきません。本文に書かれている不満は、体系が競い合うことで読める本の選択肢が狭まったことです。
+4 本文に書かれていません。ほかの種類の教育のほうが大切だと考え始めたという話は出てきません。本文では、読める本が不足していることに困っていたと書かれています。
+【覚えるポイント】
+・in short supply：「不足している」。further limited their options は「選択肢をさらに狭めた」です。
+・「～が暗に示しているのは」をたずねる設問では、その発言や行動（ここでは冗談の提案）の直前にある、気持ちの理由を説明した文（ここでは Blind people, meanwhile, ～）を読むのが手がかりになります。

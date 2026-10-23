@@ -1,0 +1,20 @@
+---
+choices: avoid | slowly | to | having | so as
+answerText: so as
+order: 2 5 3 1 4
+reviewed: yes
+---
+【正解】5 so as（この問題の2番目）
+【完成文】
+When it started to snow, Steve drove his car very ( slowly so as to avoid having ) an accident. He wanted to get to work safely.
+並べ方：2 slowly → 5 so as → 3 to → 1 avoid → 4 having（2番目は5、4番目は1）
+【和訳】
+雪が降り始めたとき、スティーブは事故を起こさないように、とてもゆっくり車を運転しました。彼は安全に職場に着きたかったのです。
+【考え方】
+空所の直前は drove his car very（車をとても～運転した）です。very は「とても」という意味で、あとに様子を表す語が続きます。そこで最初に 2 slowly（ゆっくりと）を置き、very slowly（とてもゆっくりと）とします。
+次に、なぜゆっくり運転したのかを考えます。2文目に He wanted to get to work safely.（安全に職場に着きたかった）とあるので、空所の後半は「事故を起こさないために」という目的を表すと考えられます。so as to ～ は「～するために」と目的を表す言い方です。目的を表すまとまりの始まりになるので、slowly のすぐあと、2番目に 5 so as を置き、3 to を続けます。
+to のあとには動詞の原形（形を変えないもとの形）が来るので、1 avoid（避ける）を置きます。avoid のあとに動作を続けるときは -ing の形にするので、最後に 4 having を置き、空所のあとの an accident とつなげます。avoid having an accident で「事故を起こすのを避ける」となります。
+したがって2番目は5 so as です。
+【覚えるポイント】
+・so as to ～：「～するために」。in order to ～ とほぼ同じ意味です。
+・have an accident：「事故にあう、事故を起こす」。

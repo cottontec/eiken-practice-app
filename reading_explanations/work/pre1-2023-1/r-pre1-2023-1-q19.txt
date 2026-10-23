@@ -1,0 +1,34 @@
+---
+choices: reckless | gaping | dreary | uniform
+answerText: uniform
+reviewed: yes
+---
+【正解】4 uniform（均一な、そろった）
+【和訳】
+（英文）
+The carpenter was careful to choose a ［uniform］ piece of wood for the table. There would be problems if it did not have the same thickness throughout.
+（訳）
+その大工は、テーブル用に、（均一な）木材を注意して選んだ。もし全体を通して同じ厚さでなければ、問題が起こるだろう。
+（選択肢の意味）
+1 reckless：向こう見ずな、無謀な
+2 gaping：（穴などが）ぽっかり大きく開いた
+3 dreary：退屈な、陰気な
+4 uniform：均一な、（形や大きさが）そろった
+【考え方】
+まず見るところ：あとの文の if it did not have the same thickness throughout
+最初に、空所のある文を確かめます。
+The carpenter was careful to choose a ( ) piece of wood for the table.（その大工は、テーブル用に、（　）木材を注意して選んだ）
+carpenter は「大工」、be careful to ～ は「注意して～する」です。空所には、どんな木材かを表す形容詞（様子や性質を表す語）が入ります。
+次に、あとの文を見ます。
+There would be problems if it did not have the same thickness throughout.（もし全体を通して同じ厚さでなければ、問題が起こるだろう）
+it は a piece of wood（木材）を指します。thickness は「厚さ」、throughout は「全体を通して」です。全体が同じ厚さの木材を選ぶ必要があった、と分かります。
+uniform は「均一な（どこも同じでそろっている）」なので、4が正解です。
+この問題の型：言いかえ（uniform → the same thickness throughout）／指示語（it が木材を指す）
+【ほかの選択肢】
+1 reckless は「向こう見ずな、無謀な」です。人の行動を表す語で、木材の性質には使いません。
+2 gaping は「（穴などが）ぽっかり大きく開いた」です。大きな穴の開いた木材では、同じ厚さの木材を選ぶというあとの文と合いません。
+3 dreary は「退屈な、陰気な」です。「陰気な木材」では意味が通らず、厚さの話ともつながりません。
+【覚えるポイント】
+・uniform：「均一な、そろった」。名詞では「制服（みんながそろって着る服）」という意味もあります。
+・throughout：「全体を通して、～じゅう」。
+・あとの文に「もし～でなければ問題が起こる」と条件が書かれているときは、その条件（ここでは the same thickness throughout）を満たす語が空所に入ることが多いので、条件の内容を手がかりにします。

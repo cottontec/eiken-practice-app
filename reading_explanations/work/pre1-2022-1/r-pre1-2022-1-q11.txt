@@ -1,0 +1,29 @@
+---
+choices: obstruct | delegate | entangle | boost
+answerText: obstruct
+reviewed: yes
+---
+【正解】1 obstruct（さえぎる、じゃまをする）
+【和訳】
+（英文）
+The new hotel in front of Abraham's apartment building is not tall enough to ［obstruct］ his view of the mountains beyond the city. He can still see them clearly.
+（訳）
+エイブラハムのアパートの前にある新しいホテルは、街の向こうの山々の眺めを（さえぎる）ほどの高さはない。エイブラハムは今でも山々をはっきり見ることができる。
+（選択肢の意味）
+1 obstruct：さえぎる、じゃまをする
+2 delegate：（仕事などを）任せる
+3 entangle：からませる
+4 boost：押し上げる、高める
+【考え方】
+まず見るところ：空所の前の is not tall enough to と、次の文の He can still see them clearly.
+not ～ enough to ... は「…するほど～ではない」という意味です。ホテルは「〇〇するほど高くない」と言っています。
+He can still see them clearly.（彼は今でも山々をはっきり見ることができる）
+ホテルが建っても、山はまだはっきり見えています。つまり、ホテルは山の眺めをさえぎるほど高くないということです。obstruct は「さえぎる」なので、1が正解です。
+この問題の型：熟語・決まった形（not tall enough to ～：～するほど高くない）
+【ほかの選択肢】
+2 delegate は「任せる」です。「眺めを任せるほど高くない」では意味が通りません。
+3 entangle は「からませる」です。「眺めをからませる」では意味が通りません。
+4 boost は「押し上げる、高める」です。「眺めを高めるほど高くない」となり、山が今でもはっきり見えるという次の文とつながりません。
+【覚えるポイント】
+・obstruct one's view：「～の眺め（視界）をさえぎる」。not ～ enough to ...：「…するほど～ではない」。
+・not tall enough to ～ のあとに「今でも見える」という文が続くときは、「見えなくする」という意味の動詞が入る手がかりになります。

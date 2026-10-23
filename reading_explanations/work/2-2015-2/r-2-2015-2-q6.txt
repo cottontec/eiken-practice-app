@@ -1,0 +1,29 @@
+---
+choices: apparently | endlessly | informally | previously
+answerText: apparently
+reviewed: yes
+---
+【正解】1 apparently（どうやら～らしい、見たところ）
+【和訳】
+（英文）
+A: I wonder if Annie got the pay raise she wanted.
+B: Well, she's been looking really happy since she came out of the boss's office today, so ［apparently］ she did.
+（訳）
+A：アニーは希望していた昇給をしてもらえたのかな。
+B：そうだね、今日上司の部屋から出てきてからずっと、とてもうれしそうにしているから、どうやらしてもらえたみたいだよ。
+（選択肢の意味）
+1 apparently：どうやら～らしい、見たところ
+2 endlessly：果てしなく、いつまでも
+3 informally：形式ばらずに、非公式に
+4 previously：以前に
+【考え方】
+Aの I wonder if ～ は「～かなあ（と思う）」、pay raise は「昇給（給料が上がること）」です。Aは、アニーが昇給をしてもらえたかどうかを知りたがっています。
+Bは she's been looking really happy since she came out of the boss's office today（今日上司の部屋から出てきてから、ずっととてもうれしそうにしている）と答えています。Bはアニーから結果を直接聞いたわけではなく、様子を見て判断していることが分かります。
+そのあとの so (　) she did の so は「だから」、she did は she got the pay raise（昇給をしてもらえた）を短く言ったものです。「うれしそうだから、（　）昇給をしてもらえた」となるので、見た様子からの判断を表す語が入ります。apparently は「どうやら～らしい、見たところ～のようだ」という意味なので、正解は1です。
+【ほかの選択肢】
+2 endlessly は「果てしなく、いつまでも」です。「果てしなく昇給をしてもらえた」となり、意味が通りません。
+3 informally は「形式ばらずに、非公式に」です。「非公式に昇給をしてもらえた」となりますが、Bはうれしそうな様子から結果を推し量っているだけなので、どんな形で決まったかを言うのは話の流れに合いません。
+4 previously は「以前に」です。Bは「今日」上司の部屋から出てきてからの様子を理由にしているので、「以前に昇給をしてもらえた」とすると話が合いません。
+【覚えるポイント】
+・apparently：「どうやら～らしい、見たところ～のようだ」。見たり聞いたりしたことから判断するときに使います。
+・pay raise：「昇給」。

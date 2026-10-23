@@ -1,0 +1,30 @@
+---
+choices: They can survive without a permanent body of water. | They are already known to most people around the world. | They cost less to transport than other kinds of fish. | They live longer in lakes than most other kinds of fish.
+answerText: They can survive without a permanent body of water.
+reviewed: yes
+---
+【正解】1 They can survive without a permanent body of water.（いつも水がある場所がなくても生きのびることができるから。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：タンザニアの魚がバイオコントロールに特に適しているのはなぜですか。
+1 They can survive without a permanent body of water.（いつも水がある場所がなくても生きのびることができるから。）
+2 They are already known to most people around the world.（世界中のほとんどの人にすでに知られているから。）
+3 They cost less to transport than other kinds of fish.（ほかの種類の魚より運ぶのにお金がかからないから。）
+4 They live longer in lakes than most other kinds of fish.（ほかのほとんどの種類の魚より湖で長生きするから。）
+【考え方】
+タンザニアの魚は第4段落に出てきます。その前に書かれている「問題」とセットで読みます。
+3文目に One problem with using fish has been that it must be limited to permanent bodies of water, such as lakes.（魚を使うことの問題の1つは、湖のような、いつも水がある場所に限られてしまうことだった）とあります。permanent は「いつまでも続く、永続的な」、body of water は「水のある場所（湖・池など）」です。
+4文目は Mosquitoes, though, often lay their eggs in pools of rainwater that later dry up.（しかし、蚊はあとで干上がる雨水の水たまりに卵を産むことがよくある）です。dry up は「干上がる」です。
+そして5文目に Scientists have now found a kind of fish in the African country of Tanzania that can survive even when these pools are dry.（科学者たちは今、タンザニアで、こうした水たまりが干上がっているときでも生きのびることができる種類の魚を見つけた）とあります。
+ふつうの魚はいつも水がある場所でしか使えませんが、タンザニアの魚は、水たまりが干上がっても生きのびられます。だから、これまでの問題を解決できる、特に役に立つ魚なのです。本文と選択肢は次のように対応しています。
+本文 can survive even when these pools are dry（水たまりが干上がっているときでも生きのびられる）＝ 選択肢 can survive without a permanent body of water（いつも水がある場所がなくても生きのびられる）
+正解は1です。
+【ほかの選択肢】
+2 タンザニアの魚が世界中の人に知られているという話は本文にありません。「今、見つけた」と書かれています。
+3 魚を運ぶ費用については本文に書かれていません。
+4 本文でタンザニアの魚について言っているのは、水たまりが干上がっても生きのびられることです。湖でほかの魚より長生きするとは書かれていません。
+【覚えるポイント】
+・permanent：「いつまでも続く、永続的な」。
+・survive：「生きのびる」。

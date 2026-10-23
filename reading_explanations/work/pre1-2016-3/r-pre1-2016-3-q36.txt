@@ -1,0 +1,32 @@
+---
+choices: was releasing toxic materials into the river and so was affecting the health of people living along it. | had caused changes to the natural environment that needed to be dealt with in order for economic activities to continue. | was leading to large amounts of water being taken out of the river for construction purposes. | had changed the natural border between the countries, resulting in a small area of land being taken away from Nicaragua.
+answerText: had caused changes to the natural environment that needed to be dealt with in order for economic activities to continue.
+reviewed: yes
+---
+【正解】2 had caused changes to the natural environment that needed to be dealt with in order for economic activities to continue.（経済活動を続けるためには対処しなければならない、自然環境の変化を引き起こした。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Nicaragua claimed that a road being built by Costa Rica along the San Juan River（ニカラグアは、コスタリカがサンフアン川沿いに建設している道路が～と主張した。）
+1 was releasing toxic materials into the river and so was affecting the health of people living along it.（有毒な物質を川に流しており、そのため川沿いに住む人々の健康に影響を与えていた。）
+2 had caused changes to the natural environment that needed to be dealt with in order for economic activities to continue.（経済活動を続けるためには対処しなければならない、自然環境の変化を引き起こした。）
+3 was leading to large amounts of water being taken out of the river for construction purposes.（建設に使うために、川から大量の水がくみ出される原因になっていた。）
+4 had changed the natural border between the countries, resulting in a small area of land being taken away from Nicaragua.（両国の間の自然の国境を変えてしまい、その結果、ニカラグアから小さな土地が奪われた。）
+【考え方】
+まず見るところ：第2段落の continually reducing the depth of the water, making navigation increasingly difficult, and leading to high maintenance costs
+ニカラグアの主張は第2段落に書かれています。まず、道路の建設で大量の土などが川に押し流され続けていた、とあります。そのうえで、次のように書かれています。
+Nicaragua claimed that between 190,000 and 250,000 tons of material was being released into the San Juan River every year, continually reducing the depth of the water, making navigation increasingly difficult, and leading to high maintenance costs in order to keep it accessible to commercial traffic.（ニカラグアは、毎年19万トンから25万トンの物質がサンフアン川に流れこんでいて、そのために水深が浅くなり続け、船の航行がますます難しくなり、商業用の船が通れる状態を保つために多額の維持費がかかるようになっている、と主張した）
+navigation は「（船の）航行」、maintenance costs は「維持費（よい状態を保つための費用）」、commercial traffic は「商業用の（商売のための）船の行き来」という意味です。
+本文と選択肢2を対にすると、次のようになります。
+本文 continually reducing the depth of the water（水深を浅くし続ける）→ 選択肢 changes to the natural environment（自然環境の変化）
+本文 high maintenance costs in order to keep it accessible to commercial traffic（商業用の船が通れる状態を保つための多額の維持費）→ 選択肢 needed to be dealt with in order for economic activities to continue（経済活動を続けるために対処する必要があった）
+川が浅くなるという自然の変化があり、商売の船が通り続けるには費用をかけて手入れをしなければならない、という内容です。選択肢2はこれをまとめて言いかえているので、2が正解です。
+この問題の型：言いかえ（keep it accessible to commercial traffic → for economic activities to continue）／具体例とまとめ
+【ほかの選択肢】
+1 本文にありません。川に流れこんでいたのは dirt and other material（土やその他の物質）で、有毒な物質だとは書かれていません。川沿いに住む人々の健康への影響も書かれていません。
+3 本文にありません。本文に書かれているのは、道路の建設によって土などの物質が川に「押し流されていた」ことです。建設に使うために川から水がくみ出されたという話は出てきません。
+4 本文にありません。サンフアン川は a natural border between the two countries（両国の間の自然の国境）と書かれていますが、国境が変わったとも、ニカラグアが土地を奪われたとも書かれていません。土地の占領が問題になったのは、コスタリカが訴えたイスラ・ポルティージョスのほうです。
+【覚えるポイント】
+・本文の具体的な内容（ここでは水深・航行・維持費）は、選択肢で changes to the natural environment や economic activities のような、まとめた言い方に言いかえられることがあります。具体的な語を一つずつ選択肢のまとめた語に当てはめて確かめると手がかりになります。
+・maintenance costs：「維持費」。keep ～ accessible（～が利用できる状態を保つ）とあわせて、「手入れを続けないと使えなくなる」ことを表しています。

@@ -1,0 +1,35 @@
+---
+choices: The city's continuing refusal to provide additional funding for the company made it impossible for it to survive. | The city finally decided to allow a nonprofit company to manage it after the service failed to gain popularity. | While the service was popular with the public, low profits forced the city to look for funding elsewhere. | When the company that operated it was unable to make it successful, the city bought and attempted to expand the service.
+answerText: When the company that operated it was unable to make it successful, the city bought and attempted to expand the service.
+reviewed: yes
+---
+【正解】4 When the company that operated it was unable to make it successful, the city bought and attempted to expand the service.（運営していた会社がそれを成功させることができなかったとき、市がそのサービスを買い取り、広げようとした。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to the passage, what is true of Seattle's first bike-sharing service?（本文によると、シアトル初の自転車シェアリングサービスについて正しいものはどれか。）
+1 The city's continuing refusal to provide additional funding for the company made it impossible for it to survive.（市がその会社に追加の資金を出すことを断り続けたため、会社は生き残ることができなかった。）
+2 The city finally decided to allow a nonprofit company to manage it after the service failed to gain popularity.（そのサービスが人気を得られなかったあと、市は最終的に非営利の会社に運営を任せることにした。）
+3 While the service was popular with the public, low profits forced the city to look for funding elsewhere.（そのサービスは一般の人々に人気があったが、利益が少なかったため、市はほかに資金を探さなければならなかった。）
+4 When the company that operated it was unable to make it successful, the city bought and attempted to expand the service.（運営していた会社がそれを成功させることができなかったとき、市がそのサービスを買い取り、広げようとした。）
+【考え方】
+まず見るところ：第1段落の The public's underwhelming response, however, led to the city stepping in to purchase the service.
+設問の Seattle's first bike-sharing service（シアトル初の自転車シェアリングサービス）は、第1段落の Pronto Cycle Share のことです。その歩みは、第1段落に順に書かれています。
+Pronto was initially provided by a nonprofit company with help from a corporate sponsor.（プロントは当初、ある企業スポンサーの助けを受けて、非営利の会社によって提供されていた）
+The public's underwhelming response, however, led to the city stepping in to purchase the service.（しかし、一般の人々の反応が期待外れだったことから、市が乗り出してこのサービスを買い取ることになった）
+After continued unsatisfactory results, the city announced an enlargement of the service's network to encourage usage but failed to expand it significantly.（思わしくない結果が続いたあと、市は利用を促すためにサービスの網を拡大すると発表したが、大きく広げることはできなかった）
+underwhelming は「期待外れの」、step in は「乗り出す、介入する」、purchase は「買う」、enlargement は「拡大」です。
+本文と選択肢4を対にすると、次のようになります。
+本文 initially provided by a nonprofit company ～ underwhelming response（当初は非営利の会社が提供していたが、反応は期待外れ）→ 選択肢 the company that operated it was unable to make it successful（運営していた会社がそれを成功させることができなかった）
+本文 the city stepping in to purchase the service（市が乗り出してサービスを買い取った）＝ 選択肢 the city bought（市が買い取った）
+本文 announced an enlargement ～ but failed to expand it significantly（拡大を発表したが、大きく広げることはできなかった）→ 選択肢 attempted to expand the service（サービスを広げようとした）
+ですから4が正解です。
+この問題の型：言いかえ（purchase ＝ bought、announced an enlargement → attempted to expand）
+【ほかの選択肢】
+1 本文にありません。市が追加の資金を出すのを断ったとは書かれていません。むしろ、市はサービスを買い取り、網を広げると発表しています。プロントが廃止された理由として書かれているのは years of criticism and financial issues（何年にもわたる批判と財政上の問題）です。
+2 順番が違います。非営利の会社は initially（当初）からサービスを提供していました。人気が出なかったあとに市がしたのは、非営利の会社に任せることではなく、サービスを買い取ることです。
+3 本文と合いません。本文には The public's underwhelming response（一般の人々の反応が期待外れだった）とあり、人気があったとは書かれていません。また、市がほかに資金を探したという話も出てきません。
+【覚えるポイント】
+・underwhelming：「期待外れの、ぱっとしない」。overwhelming（圧倒的な）と反対の向きの語です。
+・サービスや会社の歩みをたずねる設問では、initially（当初は）、After ～（～のあと）、Finally（結局）のような時を表す語を追うと、出来事の順番が整理でき、選択肢の順番の違いに気づく手がかりになります。

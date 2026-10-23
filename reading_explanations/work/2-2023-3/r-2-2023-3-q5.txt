@@ -1,0 +1,29 @@
+---
+choices: opportunity | quantity | security | gravity
+answerText: quantity
+reviewed: yes
+---
+【正解】2 quantity（量）
+【和訳】
+（英文）
+Bob wanted to know the ［quantity］ of food that he needed to buy for his wife's party, so he asked her how many guests were coming.
+（訳）
+ボブは、妻のパーティーのために買う必要のある食べ物の（量）を知りたかったので、何人のお客さんが来るのかを彼女にたずねました。
+（選択肢の意味）
+1 opportunity：機会
+2 quantity：量
+3 security：安全、警備
+4 gravity：重力
+【考え方】
+まず見るところ：文の後半の so he asked her how many guests were coming
+so he asked her how many guests were coming（だから彼は、何人のお客さんが来るのかを彼女にたずねた）
+so は「だから」という意味で、前半がその理由になっています。お客さんの人数をたずねたのは、それによって用意する食べ物の分量が変わるからだと考えられます。
+quantity は「量、数量」という意味で、the quantity of ～ で「～の量」となります。これを入れると「買う必要のある食べ物の量を知りたかったので、何人来るのかをたずねた」となり、前半と後半がつながります。ですから2が正解です。
+この問題の型：因果（so の前が理由）
+【ほかの選択肢】
+1 opportunity は「機会、チャンス」です。「買う必要のある食べ物の機会」となり、意味が通りません。
+3 security は「安全、警備」です。「食べ物の安全を知りたかったので、人数をたずねた」では、人数をたずねる理由になりません。
+4 gravity は「重力」です。「食べ物の重力を知りたかった」となり、意味が通りません。
+【覚えるポイント】
+・quantity：「量、数量」。「質」は quality で、つづりが似ているので注意しましょう。
+・～, so ...（～だから…）の文では、so のあとの行動から、前半で知りたかったことや理由を考えることができます。

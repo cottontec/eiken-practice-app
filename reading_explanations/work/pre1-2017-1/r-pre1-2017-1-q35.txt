@@ -1,0 +1,35 @@
+---
+choices: the brains of young children begin to develop at a much faster rate once they reach a certain age. | children who learn to talk at an early age also begin to form their first memories more quickly. | the area of the brain where memories are stored changes when a child is around two years old. | it is untrue that children's brains cannot yet form memories during their earliest years.
+answerText: it is untrue that children's brains cannot yet form memories during their earliest years.
+reviewed: yes
+---
+【正解】4 it is untrue that children's brains cannot yet form memories during their earliest years.（ごく幼い時期の子どもの脳はまだ記憶を作ることができない、というのは正しくない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：The study by Robyn Fivush showed that（ロビン・フィヴァッシュによる研究が示したのは、…ということである。）
+1 the brains of young children begin to develop at a much faster rate once they reach a certain age.（幼い子どもの脳は、ある年齢に達すると、（それまでより）ずっと速い速度で発達し始める。）
+2 children who learn to talk at an early age also begin to form their first memories more quickly.（早い時期に話せるようになる子どもは、最初の記憶を作り始めるのも（そうでない子どもより）早い。）
+3 the area of the brain where memories are stored changes when a child is around two years old.（記憶がたくわえられる脳の場所は、子どもが2歳くらいのときに変わる。）
+4 it is untrue that children's brains cannot yet form memories during their earliest years.（ごく幼い時期の子どもの脳はまだ記憶を作ることができない、というのは正しくない。）
+【考え方】
+まず見るところ：第1段落の This theory came crashing down in 1987, however, when a study by Robyn Fivush ～
+第1段落では、まず1980年代までの考え方が書かれています。
+it was assumed that the brains of very young children were simply not capable of recording sensory input to form memories（ごく幼い子どもの脳は、感覚から入ってくる情報を記録して記憶を作ることがそもそもできないと思われていた）
+be capable of ～ は「～することができる」、sensory input は「感覚から入ってくる情報」です。
+続いて、フィヴァッシュの研究が出てきます。
+This theory came crashing down in 1987, however, when a study by Robyn Fivush of Emory University, in Atlanta, demonstrated that children as young as two were able to give verbal descriptions of events that had occurred many months before.（しかし、1987年、エモリー大学のロビン・フィヴァッシュによる研究が、わずか2歳の子どもでも、何か月も前に起きた出来事を言葉で説明できることを示したとき、この説は崩れ去った）
+come crashing down は「崩れ去る」です。2歳の子が何か月も前のことを話せるのですから、幼い子どもの脳も記憶を作れることになります。
+本文と選択肢4を対にすると、次のようになります。
+本文 This theory came crashing down（この説は崩れ去った）＝ 選択肢 it is untrue that ～（～というのは正しくない）
+本文 the brains of very young children were simply not capable of recording sensory input to form memories（ごく幼い子どもの脳は記憶を作ることがそもそもできない）＝ 選択肢 children's brains cannot yet form memories during their earliest years（ごく幼い時期の子どもの脳はまだ記憶を作れない）
+よって4が正解です。
+この問題の型：指示語（This theory＝幼い子どもの脳は記憶を作れないという説）／言いかえ（came crashing down→it is untrue）
+【ほかの選択肢】
+1 本文にない内容です。フィヴァッシュの研究は、2歳の子どもが前の出来事を言葉で説明できることを示したもので、脳がある年齢から速く発達し始めることを示したのではありません。
+2 本文にない内容です。研究では子どもが言葉で説明できるかを調べていますが、早く話せるようになる子どもと、そうでない子どもの記憶を比べた話はありません。
+3 本文にない内容です。2歳という年齢は出てきますが、それは記憶を言葉で説明できた子どもの年齢です。記憶がたくわえられる脳の場所が2歳ごろに変わるとは書かれていません。
+【覚えるポイント】
+・come crashing down：「（説などが）崩れ去る」。
+・This theory came crashing down のように「説が否定された」と書かれているときは、This theory が指す前の説の内容を確かめ、それを「正しくない」と言っている選択肢を探すと手がかりになります。

@@ -1,0 +1,30 @@
+---
+choices: watching television has no effect on children's emotions. | participating in organized activities has a positive effect on children. | children who watch a lot of television are bad at sports. | children who do organized activities like to control their friends.
+answerText: participating in organized activities has a positive effect on children.
+reviewed: yes
+---
+【正解】2 participating in organized activities has a positive effect on children.（組織的な活動に参加することは、子どもたちによい影響を与える。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：研究の結果、研究者たちは～ということを発見した。
+1 watching television has no effect on children's emotions.（テレビを見ることは、子どもたちの感情に何の影響も与えない）
+2 participating in organized activities has a positive effect on children.（組織的な活動に参加することは、子どもたちによい影響を与える）
+3 children who watch a lot of television are bad at sports.（テレビをたくさん見る子どもたちは、スポーツが苦手だ）
+4 children who do organized activities like to control their friends.（組織的な活動をする子どもたちは、友達をコントロールするのが好きだ）
+【考え方】
+研究の結果は、第4段落に書かれています。
+For instance に続く文に、researchers found that children who spend a lot of time doing organized activities, such as music lessons or sports, have good control of their emotions and behavior（研究者たちは、音楽のレッスンやスポーツのような組織的な活動に多くの時間を使う子どもたちは、自分の感情や行動をうまくコントロールできることを発見した）とあります。organized activities は「組織的な活動（指導する人や決まった予定のもとで行う活動）」、emotion は「感情」です。
+次の文には The study also found that they are able to complete their homework without their parents around.（研究ではまた、そうした子どもたちは、親がそばにいなくても宿題を終わらせることができることも分かった）とあります。
+感情や行動をうまくコントロールできること、ひとりで宿題を終わらせられることは、どちらもよいことです。組織的な活動をする子どもたちにこうしたよい点が見られたので、組織的な活動は子どもたちによい影響を与えている、と読み取れます。
+本文と選択肢を対にすると、次のようになります。
+本文 children who spend a lot of time doing organized activities ... have good control of their emotions and behavior ／ able to complete their homework without their parents around → 選択肢 participating in organized activities has a positive effect on children
+positive effect は「よい影響」です。正解は2です。
+【ほかの選択肢】
+1 本文には it found that children who watch a lot of television get upset easily（テレビをたくさん見る子どもたちは、すぐに気持ちが乱れやすいことが分かった）とあります。テレビが感情に影響しないのではなく、影響があるという結果なので、本文と反対です。
+3 テレビをたくさん見る子どもたちについて書かれているのは、気持ちが乱れやすく、行動が悪いということです。スポーツが苦手だとは書かれていません。sports（スポーツ）は、組織的な活動の例として出てきた語です。
+4 組織的な活動をする子どもたちがうまくコントロールできるのは their emotions and behavior（自分の感情や行動）です。友達をコントロールするのが好きだという話ではありません。
+【覚えるポイント】
+・have a positive effect on ～：「～によい影響を与える」。反対は have a negative effect on ～（～に悪い影響を与える）。
+・have good control of ～：「～をうまくコントロールできる」。

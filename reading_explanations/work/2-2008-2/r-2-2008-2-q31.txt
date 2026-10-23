@@ -1,0 +1,28 @@
+---
+choices: secret | polite | accurate | dangerous
+answerText: accurate
+reviewed: yes
+---
+【正解】3 accurate（正確な）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 secret：秘密の
+2 polite：礼儀正しい
+3 accurate：正確な
+4 dangerous：危険な
+【考え方】
+空所は第2段落の If owners pay a higher fee, they can have a more (　) test performed. にあります。「飼い主がもっと高い料金を払えば、もっと（　）な検査をしてもらえる」という意味です。have ～ performed は「～を行ってもらう」です。
+そこで、2つの検査を比べます。
+1つ目の検査：This $65 test can compare the pet's DNA with the DNA of 38 major breeds.（この65ドルの検査は、ペットのDNAを38の主な犬種のDNAと比べることができる）
+2つ目の検査：This test, which is based on blood samples, can recognize 134 breeds（この検査は血液のサンプルをもとにしていて、134の犬種を見分けることができる）
+1つ目は38種類、2つ目は134種類の犬種を見分けられます。たくさんの犬種と照らし合わせられるほど、犬の血筋をより細かく、正しく知ることができます。また、2つ目は専門家が行う検査です。
+つまり、高い料金の検査は「より正確な」検査だと考えられます。accurate は「正確な」なので、3が正解です。
+【ほかの選択肢】
+1 secret は「秘密の」です。高い検査が秘密で行われるという話は本文になく、見分けられる犬種が多いという説明ともつながりません。
+2 polite は「礼儀正しい」です。人の態度を表す言葉で、検査の性質を表すのには合いません。
+4 dangerous は「危険な」です。血液を使う検査ではありますが、本文には危険だとは書かれていません。お金を多く払って危険な検査を受ける、というのも不自然です。
+【覚えるポイント】
+・accurate：「正確な」。名詞は accuracy（正確さ）です。
+・have ～ performed：「～を（人に）行ってもらう」。have ＋ もの ＋ 過去分詞の形です。

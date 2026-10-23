@@ -1,0 +1,29 @@
+---
+choices: Getting people to agree to DNA analysis. | Preventing athletes from changing their DNA. | Deciding the right way to use DNA research. | Keeping the results of DNA tests private.
+answerText: Deciding the right way to use DNA research.
+reviewed: yes
+---
+【正解】3 Deciding the right way to use DNA research.（DNA研究の正しい使い方を決めること。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：今日、社会が直面している問題の1つは何ですか。
+1 Getting people to agree to DNA analysis.（人々にDNAの分析を受けることに同意してもらうこと。）
+2 Preventing athletes from changing their DNA.（運動選手が自分のDNAを変えるのを防ぐこと。）
+3 Deciding the right way to use DNA research.（DNA研究の正しい使い方を決めること。）
+4 Keeping the results of DNA tests private.（DNA検査の結果を秘密にしておくこと。）
+【考え方】
+設問の problem faced by society（社会が直面している問題）という言葉に注目して、本文から同じような言葉をさがします。
+第1段落の2文目に As a result, society is increasingly being faced with the problem of deciding how to use such research.（その結果、社会は、そのような研究をどう使うかを決めるという問題に、ますます直面するようになっている）とあります。such research（そのような研究）は、1文目の「DNAが私たちの成長や能力にどう影響しうるか」についての研究、つまりDNAの研究を指しています。
+3文目でも Should we analyze people's DNA and use this information to make decisions about how they should live?（人々のDNAを分析し、その情報を使って生き方を決めるべきなのか）と、研究の使い方についての問いが示されています。本文と選択肢は次のように対応しています。
+本文 society is increasingly being faced with the problem（社会はますます問題に直面している）＝ 設問 problem faced by society today
+本文 deciding how to use such research（そのような研究をどう使うかを決めること）＝ 選択肢 Deciding the right way to use DNA research（DNA研究の正しい使い方を決めること）
+正解は3です。
+【ほかの選択肢】
+1 本文には「DNAを分析すべきか」という問いはありますが、人々に分析を受けることに同意してもらうのが問題だ、という話はありません。
+2 運動選手が自分のDNAを変えるという話は、本文に出てきません。本文で扱っているのは、DNAを調べてその情報をどう使うかです。
+4 DNA検査の結果を秘密にしておくことについては、本文に書かれていません。第3段落では、会社が検査の結果を親に送り返すと書かれているだけです。
+【覚えるポイント】
+・be faced with ～：「～に直面している」。
+・how to ～：「～する方法、どう～するか」。how to use ～ は the way to use ～（～の使い方）とほぼ同じ意味です。

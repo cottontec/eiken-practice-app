@@ -1,0 +1,33 @@
+---
+choices: drift | reconcile | pierce | crouch
+answerText: reconcile
+reviewed: yes
+---
+【正解】2 reconcile（〔意見の違いなどを〕調整する、折り合いをつける）
+【和訳】
+（英文）
+After nearly coming to the point of divorce, Eri and Derrick decided to try to ［reconcile］ their differences. They have recently begun seeing a marriage counselor.
+（訳）
+エリとデリックは、もう少しで離婚するところまでいったあと、2人の食い違いに（折り合いをつける）努力をしてみることにしました。2人は最近、結婚カウンセラーのところに通い始めました。
+（選択肢の意味）
+1 drift：漂う、流される
+2 reconcile：（意見の違いなどを）調整する、折り合いをつける；仲直りさせる
+3 pierce：突き刺す、穴をあける
+4 crouch：しゃがむ、かがむ
+【考え方】
+まず見るところ：空所の後ろの their differences と、後ろの文の seeing a marriage counselor
+空所のある文の前半で、2人の状況が分かります。
+After nearly coming to the point of divorce（もう少しで離婚するところまでいったあと）
+nearly は「もう少しで、ほとんど」という意味です。2人は離婚寸前でしたが、実際には離婚していません。
+続く文は次のとおりです。
+They have recently begun seeing a marriage counselor.（2人は最近、結婚カウンセラーのところに通い始めた）
+marriage counselor は「結婚カウンセラー（夫婦の悩みの相談にのる専門家）」です。2人は関係を立て直そうとしていると分かります。
+空所の後ろの their differences は「2人の（意見や考えの）違い」です。reconcile は「（意見の違いなどを）調整する、折り合いをつける」という意味で、reconcile differences で「意見の違いに折り合いをつける」という決まった組み合わせになります。関係を立て直そうとする流れに合うので、2が正解です。
+この問題の型：語の意味・組み合わせ（reconcile one's differences）
+【ほかの選択肢】
+1 drift は「漂う、流される」という意味で、ふつうはあとに目的語（動作を受けるもの）を置かずに使います。「2人の違いを漂う」となり、意味が通りません。
+3 pierce は「突き刺す、穴をあける」という意味です。「2人の違いに穴をあける」となり、意味が通りません。
+4 crouch は「しゃがむ、かがむ」という意味で、体の動きを表します。「2人の違いをしゃがむ」では意味が通りません。
+【覚えるポイント】
+・reconcile one's differences：「（おたがいの）意見の違いに折り合いをつける」。
+・空所の後ろの名詞（ここでは differences）と組み合わせて意味が通る動詞はどれかを考えると、答えを選ぶ手がかりになります。

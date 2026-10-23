@@ -1,0 +1,31 @@
+---
+choices: soothing | punctual | clumsy | idealistic
+answerText: idealistic
+reviewed: yes
+---
+【正解】4 idealistic（理想主義的な（理想ばかりを追い求める））
+【和訳】
+（英文）
+The young politician was very ［idealistic］. He believed he could solve every social problem, but most of the older politicians thought his ideas were impractical.
+（訳）
+その若い政治家はとても理想主義的だった。彼は自分があらゆる社会問題を解決できると信じていたが、年上の政治家たちのほとんどは、彼の考えは現実的ではないと思っていた。
+（選択肢の意味）
+1 soothing：（心を）落ち着かせる、なだめるような
+2 punctual：時間を守る
+3 clumsy：不器用な
+4 idealistic：理想主義的な（理想ばかりを追い求める）
+【考え方】
+まず見るところ：後ろの文の He believed he could solve every social problem と his ideas were impractical
+The young politician was very ( ).（その若い政治家はとても（　）だった）
+空所には、この若い政治家がどんな人なのかを表す語が入ります。その説明は後ろの文に書かれています。
+He believed he could solve every social problem（彼は自分があらゆる社会問題を解決できると信じていた）
+but most of the older politicians thought his ideas were impractical（しかし、年上の政治家たちのほとんどは、彼の考えは現実的ではないと思っていた）
+impractical は「現実的ではない、実行できそうにない」という意味です。「すべての問題を解決できる」と信じているけれど、周りからは「現実的でない」と見られている人は、理想を追い求める人だと言えます。idealistic は「理想主義的な」という意味なので、4が正解です。
+この問題の型：具体例とまとめ（何でも解決できると信じる・考えが現実的でない→理想主義的）／対比（本人の考え⇔年上の政治家たちの見方）
+【ほかの選択肢】
+1 soothing は「（心を）落ち着かせる、なだめるような」です。後ろの文の「あらゆる問題を解決できると信じていた」という説明とつながりません。
+2 punctual は「時間を守る」です。後ろの文には時間についての話がなく、考えが現実的でないという説明と合いません。
+3 clumsy は「不器用な」です。手先や動きがぎこちない様子を表す語で、「考えが現実的でない」という説明とは合いません。
+【覚えるポイント】
+・idealistic：「理想主義的な」。impractical（現実的ではない）と見られるような考え方をする人を表すのに使われています。
+・人の性格を表す語が空所のときは、後ろの文に書かれたその人の考えや行動（ここでは He believed ～）をまとめて言い表す語を選ぶことが手がかりになります。

@@ -1,0 +1,26 @@
+---
+choices: delayed | returned | examined | shared
+answerText: delayed
+reviewed: yes
+---
+【正解】1 delayed（遅らされる）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 delayed：遅らされる
+2 returned：返される
+3 examined：調べられる
+4 shared：共有される
+【考え方】
+空所は第2段落の Even their e-mails are (　).（彼らのEメールでさえ（　）される）にあります。even は「～でさえ」という意味です。
+この段落では、基地を訪れた人々が live just as they would if they really were on Mars（本当に火星にいたとしたらそうするであろうとおりに生活する）と書かれ、その例として、外に出るときは模造の宇宙服を着ること、水をできるだけ少なく使うことが挙げられています。Even their e-mails ～ は「Eメールでさえ火星にいるときと同じようにする」という、さらにもう1つの例です。
+決め手は次の文の This is because it would take at least 20 minutes for an e-mail to reach Earth from Mars.（これは、火星から地球へEメールが届くのに少なくとも20分はかかるだろうからだ）です。火星にいるとEメールが届くのに時間がかかるので、それと同じように、基地でもEメールを「遅らせて」いるのだと分かります。
+delay は「～を遅らせる」という意味で、are delayed で「遅らされる」となります。正解は1です。
+【ほかの選択肢】
+2 returned は「返される」です。Eメールが送った人に返されるという話は、届くのに20分かかるという次の文の理由とつながりません。
+3 examined は「調べられる」です。Eメールの中身が調べられるという話は本文になく、届くまでの時間の話とつながりません。
+4 shared は「共有される」です。Eメールがほかの人と共有されるという話は本文になく、次の文の理由と合いません。
+【覚えるポイント】
+・delay：「～を遅らせる」。be delayed で「遅れる、遅らされる」。
+・This is because ～：「これは～だからだ」。前の文の理由を説明するときに使います。

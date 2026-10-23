@@ -1,0 +1,23 @@
+---
+choices: meeting | I'd | and get | continue the | rather
+answerText: rather
+order: 2 5 4 1 3
+reviewed: yes
+---
+【正解】5 rather（この問題の2番目）
+【完成文】
+To be honest, ( I'd rather continue the meeting and get ) everything done. We can have lunch after we finish.
+並べ方：2 I'd → 5 rather → 4 continue the → 1 meeting → 3 and get（2番目は5、4番目は1）
+【和訳】
+A：もう少し話し合わなければならないことがいくつかあるけれど、先にお昼休みにしようか？
+B：正直に言うと、私はむしろ会議を続けて、全部終わらせてしまいたいです。昼食は終わってからとればいいですよ。
+【考え方】
+まず、Aの提案と、Bのあとの文を確認します。Aは「先に昼休みにしようか」とたずねています。Bは最後に We can have lunch after we finish.（終わってから昼食をとればいい）と言っています。つまりBは、昼休みより先に会議を進めたいのです。
+次に、組み立ての中心を考えます。2 I'd と 5 rather を合わせると I'd rather ～（むしろ～したい）という決まった言い方になります。I'd は I would の短い形です。would rather のあとには動詞の元の形（原形）がくるので、4 continue the を続けて I'd rather continue the となります。
+continue the のあとには名詞が必要です。残りのうち名詞は 1 meeting なので、continue the meeting（会議を続ける）となります。
+最後に 3 and get を置くと、空所のあとの everything done とつながり、get everything done（すべてを終わらせる）となります。get ＋ もの ＋ done は「ものを～してしまう、仕上げる」という形です。and は continue と get の2つの動詞をつないでいます。
+したがって2番目は5 rather です。
+まちがえやすいのは、and get を continue の前に置いてしまう並べ方です。I'd rather and get … では、and の前につなぐ動詞がなく、文になりません。
+【覚えるポイント】
+・would rather ＋ 動詞の原形：「むしろ～したい」。I'd rather ～ の形でよく使います。
+・get ＋ もの ＋ done：「ものを済ませる、仕上げる」。

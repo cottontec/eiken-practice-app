@@ -1,0 +1,28 @@
+---
+choices: detail | trouble | part | touch
+answerText: part
+reviewed: yes
+---
+【正解】3 part（〔in part で〕一部は、部分的に）
+【和訳】
+（英文）
+When Ellie bought her house, she borrowed money from the bank. But she also paid in ［part］ with money she had saved.
+（訳）
+エリーは家を買ったとき、銀行からお金を借りました。しかし、彼女はためておいたお金で（一部を）支払いもしました。
+（選択肢の意味）
+1 detail：（in detail で）詳しく
+2 trouble：（in trouble で）困って
+3 part：（in part で）一部は、部分的に
+4 touch：（in touch で）連絡を取って
+【考え方】
+選択肢はどれも in のあとに入るので、in ～ という熟語（決まった言い方）の意味を比べます。
+1文目に she borrowed money from the bank（彼女は銀行からお金を借りた）とあります。2文目は But she also paid ... with money she had saved.（しかし彼女は、ためておいたお金でも支払った）です。also（～も）があることから、家の代金を「銀行から借りたお金」と「ためておいたお金」の両方で払ったことが分かります。
+両方で払ったのなら、ためておいたお金で払ったのは代金の全部ではなく、一部です。in part は「一部は、部分的に」という意味なので、「ためておいたお金で一部を支払った」となり、文の流れに合います。ですから、3が正解です。
+なお、she had saved は「（家を買う前に）ためていた」という意味で、had ＋過去分詞（過去のある時点よりも前のことを表す形）が使われています。
+【ほかの選択肢】
+1 in detail は「詳しく」です。「ためたお金で詳しく支払った」となり、意味が通りません。
+2 in trouble は「困って、もめごとに巻きこまれて」です。「困った状態で支払った」とすると、借りたお金とためたお金の両方で払ったという話と結びつきません。
+4 in touch は「連絡を取って」です。keep in touch（連絡を取り合う）などと使い、支払いの話には合いません。
+【覚えるポイント】
+・in part：「一部は、部分的に」。partly とほぼ同じ意味です。
+・pay with ～：「～で支払う」。with のあとに、支払いに使ったもの（お金・カードなど）が来ます。

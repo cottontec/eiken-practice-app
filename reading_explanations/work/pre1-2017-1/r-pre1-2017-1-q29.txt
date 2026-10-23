@@ -1,0 +1,31 @@
+---
+choices: In response to this | Contrary to this | For example | Even so
+answerText: In response to this
+reviewed: yes
+---
+【正解】1 In response to this（これを受けて、これに対応して）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 In response to this（これを受けて、これに対応して）
+2 Contrary to this（これに反して）
+3 For example（たとえば）
+4 Even so（たとえそうでも、それでも）
+【考え方】
+まず見るところ：第1段落の空所の直前の Diclofenac is toxic to the birds, ～
+空所の直前の文は次のとおりです。
+Diclofenac is toxic to the birds, which develop fatal kidney problems after feeding on the carcasses of cattle that have recently been treated with it.（ジクロフェナクはこの鳥にとって有毒であり、ハゲワシは、最近この薬で治療を受けた牛の死体を食べると、命にかかわる腎臓の病気になる）
+toxic は「有毒な」、fatal は「命にかかわる」、carcass は「（動物の）死体」です。ジクロフェナクという薬がハゲワシを死なせる原因になっていることが分かります。
+空所のあとは次のとおりです。
+India has placed a ban on the drug.（インドはこの薬を禁止した）
+place a ban on ～ は「～を禁止する」です。
+薬がハゲワシにとって危険だと分かったので、インドはその薬を禁止したという流れになります。前の内容への対応を表す In response to this（これを受けて）が入ります。よって1が正解です。
+この問題の型：因果（薬がハゲワシに有毒→薬を禁止）／指示語（this＝ジクロフェナクがハゲワシに有毒であること）
+【ほかの選択肢】
+2 Contrary to this（これに反して）は、前の内容と食い違うことを述べるときに使います。薬が有毒だから禁止したのは、前の内容に沿った行動なので合いません。
+3 For example（たとえば）は、前の内容の具体例を挙げるときに使います。「薬を禁止した」ことは「薬が有毒である」ことの例ではないので合いません。
+4 Even so（それでも）は、前の内容から予想されることと違う結果が続くときに使います。薬が有毒なら禁止するのは自然な結果なので、「それでも禁止した」ではつながりません。
+【覚えるポイント】
+・place a ban on ～：「～を禁止する」。
+・空所のあとに、前に書かれた問題への「対策」（ここでは薬の禁止）がくるときは、In response to this（これを受けて）のような、前の内容に対応したことを示す語句が入ることが多いと考えると手がかりになります。

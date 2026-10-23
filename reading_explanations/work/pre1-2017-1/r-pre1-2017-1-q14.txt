@@ -1,0 +1,33 @@
+---
+choices: excavation | meditation | alignment | enrollment
+answerText: enrollment
+reviewed: yes
+---
+【正解】4 enrollment（入学者数、在籍者数）
+【和訳】
+（英文）
+For years, ［enrollment］ at the college had been declining, but last year the number of freshmen suddenly increased.
+（訳）
+何年もの間、その大学の（入学者数）は減り続けていたが、昨年は新入生の数が急に増えた。
+（選択肢の意味）
+1 excavation：発掘（土を掘って昔のものを探すこと）
+2 meditation：瞑想（目を閉じて心を静めること）
+3 alignment：一列に並べること、（国や団体の）連携
+4 enrollment：入学（者数）、登録（者数）
+【考え方】
+まず見るところ：文の中ほどの but と、後半の the number of freshmen
+前半は次のとおりです。
+For years, ( ) at the college had been declining（何年もの間、その大学の（　）は減り続けていた）
+had been declining は「（その時まで）ずっと減り続けていた」という意味です。
+後半は次のとおりです。
+but last year the number of freshmen suddenly increased（しかし昨年は、新入生の数が急に増えた）
+freshmen は「新入生、1年生」です。but（しかし）の前後で「減っていた」と「増えた」が対比になっています。ですから、減り続けていたものは、後半の「新入生の数」と同じ種類のものだと考えられます。
+enrollment は「入学（者数）、登録（者数）」という意味なので、4が正解です。
+この問題の型：対比（減り続けていた⇔急に増えた）／言いかえ（enrollment→the number of freshmen）
+【ほかの選択肢】
+1 excavation は「発掘」です。「大学の発掘が減り続けていた」では、後半の「新入生の数が増えた」との対比になりません。
+2 meditation は「瞑想」です。「大学の瞑想が減り続けていた」となり、新入生の数の話とつながりません。
+3 alignment は「一列に並べること、連携」です。「大学の連携が減り続けていた」では意味がはっきりせず、新入生の数とも結びつきません。
+【覚えるポイント】
+・enrollment：「入学（者数）、登録（者数）」。
+・but の前後で「減った⇔増えた」のように反対の動きが書かれているときは、両方が同じものの話であることが多いので、後半の語（ここでは the number of freshmen）と同じものを表す選択肢を探すと手がかりになります。

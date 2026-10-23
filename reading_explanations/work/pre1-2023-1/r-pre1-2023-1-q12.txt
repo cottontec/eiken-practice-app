@@ -1,0 +1,34 @@
+---
+choices: genuine | impending | subdued | incomprehensible
+answerText: incomprehensible
+reviewed: yes
+---
+【正解】4 incomprehensible（理解できない）
+【和訳】
+（英文）
+Many readers found the author’s novels ［incomprehensible］. He was known for writing long, confusing sentences that had no clear meaning.
+（訳）
+多くの読者は、その作家の小説が（理解できない）と感じた。その作家は、はっきりした意味のない、長くて分かりにくい文を書くことで知られていた。
+（選択肢の意味）
+1 genuine：本物の
+2 impending：（悪いことが）差し迫った
+3 subdued：落ち着いた、控えめな
+4 incomprehensible：理解できない
+【考え方】
+まず見るところ：あとの文の long, confusing sentences that had no clear meaning
+最初に、空所のある文の形を確かめます。
+Many readers found the author’s novels ( ).（多くの読者は、その作家の小説が（　）と感じた）
+find A B は「AがBだと感じる、分かる」という形です。空所には、読者が小説をどう感じたかを表す形容詞（様子や性質を表す語）が入ります。
+次に、あとの文を見ます。
+He was known for writing long, confusing sentences that had no clear meaning.（その作家は、はっきりした意味のない、長くて分かりにくい文を書くことで知られていた）
+confusing は「分かりにくい、混乱させる」です。はっきりした意味のない文を書く作家の小説なので、読者には分かりにくかったと考えられます。
+incomprehensible は「理解できない」なので、4が正解です。
+この問題の型：言いかえ（incomprehensible → confusing sentences that had no clear meaning）
+【ほかの選択肢】
+1 genuine は「本物の」です。小説が本物だと感じたという内容は、分かりにくい文を書くというあとの文とつながりません。
+2 impending は「（悪いことが）差し迫った」です。「小説が差し迫っている」では意味が通りません。
+3 subdued は「落ち着いた、控えめな」です。あとの文は文が長くて分かりにくいという説明で、控えめな小説という話にはなりません。
+【覚えるポイント】
+・incomprehensible：「理解できない」。comprehend（理解する）に in-（～でない）がついた形です。
+・find A B：「AがBだと感じる」。
+・あとの文が He was known for ～（～で知られていた）で作家の特ちょうを説明しているときは、その特ちょう（ここでは confusing）から読者の感じ方を考えると手がかりになります。

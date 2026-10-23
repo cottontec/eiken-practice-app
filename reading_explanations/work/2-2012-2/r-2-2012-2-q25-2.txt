@@ -1,0 +1,23 @@
+---
+choices: than | known | to | have | better
+answerText: known
+order: 4 2 5 1 3
+reviewed: yes
+---
+【正解】2 known（この問題の2番目）
+【完成文】
+A: Gloria, what happened to your new bag? It looks terrible.
+B: Well, my dog chewed on it last night. I should ( have known better than to ) leave it on the sofa.
+並べ方：4 have → 2 known → 5 better → 1 than → 3 to（2番目は2、4番目は1）
+【和訳】
+A：グロリア、新しいバッグ、どうしたの？ひどいことになっているね。
+B：それが、昨夜うちの犬がかんだんだ。ソファーの上に置いておくなんてこと、しなければよかったよ。
+【考え方】
+空所の前に should があり、空所のすぐあとには leave it on the sofa（それをソファーの上に置いておく）が続いています。
+Bはバッグを犬にかまれてしまい、ソファーの上に置いたことをくやんでいると考えられます。過去にしたことについて「～すべきだった（のに、しなかった）」と言うときは、should have ＋ 過去分詞（動詞の変化した形の1つ。know の場合は known）を使います。そこで should のあとに 4 have を置き、2番目に過去分詞の 2 known を続けます。
+次に、know better than to ～ という決まった言い方を使います。これは「～しないだけの分別がある（～するほどばかではない）」という意味です。known のあとに 5 better、1 than、3 to を並べると、to のあとに空所の後ろの leave がつながります。
+should have known better than to leave it on the sofa で「ソファーの上に置いておくようなことをしないだけの分別をもっているべきだった」、つまり「置いておかなければよかった」という意味になります。
+したがって2番目は2 known です。
+【覚えるポイント】
+・should have ＋ 過去分詞：「～すべきだった（のに、しなかった）」。
+・know better than to ～：「～しないだけの分別がある、～するほどばかではない」。

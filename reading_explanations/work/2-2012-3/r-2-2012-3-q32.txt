@@ -1,0 +1,25 @@
+---
+choices: find | choose | lend | make
+answerText: lend
+reviewed: yes
+---
+【正解】3 lend（貸す）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 find：見つける
+2 choose：選ぶ
+3 lend：貸す
+4 make：作る
+【考え方】
+空所は第2段落の最後の Rather than buying an expensive tool that you are unlikely to use again, you can go onto the site and look for someone living nearby who is willing to (　) you one.（もう一度使うことはなさそうな高い道具を買う代わりに、そのサイトに行って、あなたに1つ（　）くれる気のある、近くに住む人を探すことができる）という文にあります。rather than ～ は「～するよりも、～する代わりに」、be willing to ～ は「～する気がある」という意味です。one は an expensive tool（高い道具）の代わりに使われています。
+この段落は、物を買うのではなく、ほかの人から借りるという話でした。前の文には、SnapGoods allows people to search for the owner of an item who will let them use it for a small amount of money or even for free（スナップグッズでは、少しのお金で、あるいは無料でさえそれを使わせてくれる持ち主を探すことができる）とあります。
+つまり、サイトで探すのは、自分の道具を使わせてくれる持ち主です。lend は「貸す」という意味で、lend ＋ 人 ＋ 物 の形で「人に物を貸す」となります。lend you one で「あなたに道具を1つ貸す」となり、「道具を買う代わりに」ともつながります。正解は3です。
+【ほかの選択肢】
+1 find は「見つける」です。find you one は「あなたに道具を1つ見つけてくれる」という意味になりますが、本文で探す相手は、道具を見つけてくれる人ではなく、自分の道具を使わせてくれる持ち主です。
+2 choose は「選ぶ」です。「あなたに道具を1つ選んでくれる人」となり、物を借りるという段落の話と合いません。
+4 make は「作る」です。「あなたに道具を1つ作ってくれる人」となり、借りるという話ではなくなってしまいます。
+【覚えるポイント】
+・lend ＋ 人 ＋ 物：「人に物を貸す」。反対は borrow（借りる）です。
+・be willing to ～：「～する気がある、進んで～する」。

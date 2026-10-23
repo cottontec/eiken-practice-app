@@ -1,0 +1,30 @@
+---
+choices: stray | botanical | slack | redundant
+answerText: botanical
+reviewed: yes
+---
+【正解】2 botanical（植物の、植物学の）
+【和訳】
+（英文）
+Ann's favorite place in Vancouver is the ［botanical］ garden. She really enjoys looking at all the plant species from around the world being grown there.
+（訳）
+バンクーバーでアンがいちばん好きな場所は、（植物）園だ。彼女は、そこで育てられている世界中のあらゆる種類の植物を見るのを、とても楽しんでいる。
+（選択肢の意味）
+1 stray：（群れや飼い主から）はぐれた、迷い出た
+2 botanical：植物の、植物学の
+3 slack：たるんだ、ゆるい；活気のない
+4 redundant：余分な、不要な
+【考え方】
+まず見るところ：次の文の all the plant species from around the world being grown there
+空所は garden（庭、園）の前にあり、どんな garden なのかを説明する語が入ります。手がかりは次の文です。
+She really enjoys looking at all the plant species from around the world being grown there.（彼女は、そこで育てられている世界中のあらゆる種類の植物を見るのを、とても楽しんでいる）
+species は「種（しゅ）、種類」です。世界中の植物が集められ、育てられている garden とは「植物園」のことです。
+botanical は「植物の」という意味で、botanical garden で「植物園」になります。ですから2が正解です。
+この問題の型：語の意味・組み合わせ（botanical garden）
+【ほかの選択肢】
+1 stray は「はぐれた、迷い出た」で、群れや飼い主からはぐれた動物などに使う語です。「はぐれた庭」では意味が通らず、世界中の植物を育てているという説明とも結びつきません。
+3 slack は「たるんだ、ゆるい」や「活気のない」です。「ゆるい庭」では意味が通りません。
+4 redundant は「余分な、不要な」です。「余分な庭」がいちばん好きな場所だというのは不自然で、植物を見るのを楽しんでいるという次の文ともつながりません。
+【覚えるポイント】
+・botanical garden：「植物園」。
+・空所のあとに名詞（ここでは garden）があるときは、その名詞を説明する語が入ります。次の文に「そこで何をしているか」が書かれていれば、それがどんな場所かを決める手がかりになります。

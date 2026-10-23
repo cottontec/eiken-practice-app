@@ -1,0 +1,32 @@
+---
+choices: trespassing | endorsing | swaying | convening
+answerText: trespassing
+reviewed: yes
+---
+【正解】1 trespassing（不法侵入（入ってはいけない土地に入ること））
+【和訳】
+（英文）
+The man’s hike through the forest was cut short when he was arrested for ［trespassing］. He had no idea that he had accidentally entered land owned by the government.
+（訳）
+その男性の森を通るハイキングは、彼が（不法侵入）で逮捕されたことで途中で終わってしまった。彼は、自分がうっかり政府の所有する土地に入ってしまっていたことに、まったく気づいていなかった。
+（選択肢の意味）
+1 trespassing：不法侵入（入ってはいけない土地に入ること）
+2 endorsing：支持すること、（小切手などに）裏書きすること
+3 swaying：揺れること、（人の考えを）揺さぶること
+4 convening：（会議などを）招集すること、集まること
+【考え方】
+まず見るところ：あとの文の he had accidentally entered land owned by the government
+あとの文を確かめます。
+He had no idea that he had accidentally entered land owned by the government.（彼は、自分がうっかり政府の所有する土地に入ってしまっていたことに、まったく気づいていなかった）
+had no idea は「まったく知らなかった」、accidentally は「うっかり、偶然に」、owned by the government は「政府が所有する」という意味です。男性は、入ってはいけない政府の土地に入ってしまっていました。
+次に、空所のある文を見ます。
+he was arrested for ( )（彼は（　）で逮捕された）
+arrested for ～ は「～の罪で逮捕された」という意味です。入ってはいけない土地に入ったことが逮捕の理由なので、trespassing（不法侵入）が合い、1が正解です。
+この問題の型：言いかえ（entered land owned by the government → trespassing）
+【ほかの選択肢】
+2 endorsing は「支持すること、裏書き」です。何かを支持したことで逮捕されるという話は、政府の土地に入ったというあとの文とつながりません。
+3 swaying は「揺れること」です。「揺れたことで逮捕された」では意味が通りません。
+4 convening は「招集すること、集まること」です。あとの文には会議や集まりの話はなく、うっかり土地に入ったことの説明になりません。
+【覚えるポイント】
+・trespass：「（他人の土地などに）不法に入る」。be arrested for trespassing で「不法侵入で逮捕される」。
+・arrested for ( )（～の罪で逮捕された）の空所は、前後に書かれた「その人がしたこと」をひと言で表す語が入る手がかりになります。

@@ -1,0 +1,32 @@
+---
+choices: They feel that they have no choice but to do extra work in order to compensate for their coworkers' weaknesses. | They become afraid they will be fired and attempt to isolate themselves from their coworkers. | It becomes easier for them to dishonestly take credit for the achievements of their coworkers. | It can cause them to exaggerate their experience and abilities when communicating with their coworkers.
+answerText: They become afraid they will be fired and attempt to isolate themselves from their coworkers.
+reviewed: yes
+---
+【正解】2 They become afraid they will be fired and attempt to isolate themselves from their coworkers.（彼らは解雇されるのではないかと恐れるようになり、同僚から自分を遠ざけようとする。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one effect that "impostor syndrome" may have on workers affected by it?（「インポスター症候群」が、その影響を受けている働く人々にもたらすかもしれない影響の一つは何か。）
+1 They feel that they have no choice but to do extra work in order to compensate for their coworkers' weaknesses.（彼らは、同僚の弱点を補うために、余分な仕事をするしかないと感じる。）
+2 They become afraid they will be fired and attempt to isolate themselves from their coworkers.（彼らは解雇されるのではないかと恐れるようになり、同僚から自分を遠ざけようとする。）
+3 It becomes easier for them to dishonestly take credit for the achievements of their coworkers.（彼らにとって、同僚がなしとげたことを不正に自分の手柄にすることがより簡単になる。）
+4 It can cause them to exaggerate their experience and abilities when communicating with their coworkers.（それによって彼らは、同僚とやりとりするときに、自分の経験や能力を大げさに言うことがある。）
+【考え方】
+まず見るところ：第1段落の最後の Others fear they will lose their job ～, so they distance themselves from colleagues as much as possible.
+第1段落の後半には、インポスター症候群が人によって異なる結果をもたらすことが書かれ、その例が2つ挙げられています。2つ目の例は次のとおりです。
+Others fear they will lose their job when their supposed lack of skill is discovered, so they distance themselves from colleagues as much as possible.（また、（本人がそう思いこんでいる）自分の技能の不足が見つかったら仕事を失うのではないかと恐れ、そのため、できるだけ同僚から距離を置く人もいる）
+distance oneself from ～ は「～から距離を置く」、colleague は「同僚」という意味です。
+本文と選択肢2を対にすると、次のようになります。
+本文 fear they will lose their job（仕事を失うのではないかと恐れる）＝ 選択肢 become afraid they will be fired（解雇されるのではないかと恐れるようになる）
+本文 distance themselves from colleagues（同僚から距離を置く）＝ 選択肢 isolate themselves from their coworkers（同僚から自分を遠ざける）
+ですから2が正解です。
+この問題の型：言いかえ（lose their job ＝ be fired／colleagues ＝ coworkers）
+【ほかの選択肢】
+1 一部だけ本文と重なりますが、理由が違います。本文には working far harder than they need to（必要以上にはるかに一生懸命働く）とありますが、その目的は prove their worth（自分の価値を証明する）ことです。同僚の弱点を補うためとは書かれていません。
+3 本文にありません。インポスター症候群の人は、自分の成功さえ受け入れられない人として書かれています。同僚の手柄を自分のものにするという話は出てきません。
+4 本文にありません。インポスター症候群の人は、自分の成功を信じられず、能力ではなく幸運のおかげだと考える人たちです。自分の経験や能力を大げさに言うという話は出てきません。
+【覚えるポイント】
+・Some ～. Others ....（～な人もいれば、…な人もいる）の形では、いくつかの例が並べて書かれます。設問の one effect（影響の一つ）は、こうした例のどれか一つを指していることが多いです。
+・lose their job（仕事を失う）＝ be fired（解雇される）、colleagues ＝ coworkers（同僚）のように、選択肢では本文の語が同じ意味の別の語に言いかえられることがよくあります。

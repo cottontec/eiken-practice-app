@@ -1,0 +1,31 @@
+---
+choices: entrusted | scraped | paved | simmered
+answerText: entrusted
+reviewed: yes
+---
+【正解】1 entrusted（任せた、預けた）
+【和訳】
+（英文）
+Janet ［entrusted］ her brother with watching her dog while she was on vacation. She knew he would take excellent care of it.
+（訳）
+ジャネットは、休暇で出かけている間、自分の犬の世話を兄（弟）に（任せた）。ジャネットは、兄（弟）が犬をとてもよく世話してくれると分かっていた。
+（選択肢の意味）
+1 entrusted：任せた、預けた
+2 scraped：こすった、削った
+3 paved：（道を）舗装した
+4 simmered：とろ火で煮た
+【考え方】
+まず見るところ：空所の後ろの her brother with watching her dog と、次の文の She knew he would take excellent care of it.
+空所のあとは「(人) with ～ing」という形になっています。entrust A with B で「AにBを任せる」という意味の決まった形があります。
+次の文で、ジャネットの気持ちが書かれています。
+She knew he would take excellent care of it.（彼女は、彼がその犬をとてもよく世話してくれると分かっていた）
+信頼できる相手だと分かっていたので、犬の世話を任せたと考えられます。entrusted は entrust（任せる）の過去形なので、1が正解です。
+なお、brother だけでは兄か弟かが分からないので、訳では「兄（弟）」としています。
+この問題の型：熟語・決まった形（entrust A with B：AにBを任せる）
+【ほかの選択肢】
+2 scraped は「こすった」です。「兄（弟）を犬の世話でこすった」では意味が通りません。
+3 paved は「舗装した」で、道路などに使う語です。人を目的語にして「犬の世話で舗装した」とは言えません。
+4 simmered は「とろ火で煮た」で、料理に使う語です。人と犬の世話の話には合いません。
+【覚えるポイント】
+・entrust A with B：「AにBを任せる」。take care of ～：「～の世話をする」。
+・空所のあとが「人＋ with ～」になっているときは、entrust A with B（AにBを任せる）のような、with と組になる動詞の形が手がかりになります。

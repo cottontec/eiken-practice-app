@@ -1,0 +1,24 @@
+---
+choices: leave | leaving | left | to leave
+answerText: leaving
+reviewed: yes
+---
+【正解】2 leaving（辞めること）
+【和訳】
+リチャードは自分の仕事があまり好きではなく、先月、会社を辞めることを考えました。しかし友人たちは、新しい仕事を見つけるのは難しいだろうからと、とどまるように忠告しました。
+（選択肢の意味）
+1 leave：去る、辞める（原形）
+2 leaving：去ること、辞めること（-ing形）
+3 left：去った、辞めた（過去形・過去分詞）
+4 to leave：去ること（to ＋原形）
+【考え方】
+空所の前の動詞 considered（考えた）に注目します。consider は「～することをよく考える、検討する」という意味で、「～すること」を続けるときは -ing の形をとり、consider ～ing とします。
+leave the company は「会社を辞める」です。considered leaving the company で「会社を辞めることを考えた」となります。
+2文目の his friends advised him to stay（友人たちはとどまるように忠告した）とも、「辞めようかと考えたが、友人に止められた」という流れでつながります。2が正解です。
+【ほかの選択肢】
+1 leave は原形です。considered のすぐあとに動詞の原形を置くことはできません。
+3 left は過去形・過去分詞です。considered left the company では、動詞が2つ並んでしまい、文として成り立ちません。
+4 to leave は「辞めること」と訳せる形ですが、consider は「～すること」を表すとき to ～ ではなく -ing の形を続けるので、ここには入りません。
+【覚えるポイント】
+・consider ～ing：「～することをよく考える、検討する」。
+・advise ＋人＋ to ～：「（人）に～するように忠告する」。

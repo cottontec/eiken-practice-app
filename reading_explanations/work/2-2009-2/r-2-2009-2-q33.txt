@@ -1,0 +1,25 @@
+---
+choices: attention | health | silence | access
+answerText: attention
+reviewed: yes
+---
+【正解】1 attention（注目、注意）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 attention：注目、注意
+2 health：健康
+3 silence：沈黙、静けさ
+4 access：（場所に）近づく方法、利用する権利
+【考え方】
+空所は第3段落の Local leaders hope that more companies, as well as tourists, will come to the town as a result of all the public (　).（地元の指導者たちは、世間からのこうした～がすべて集まった結果、観光客だけでなく、さらに多くの企業が町に来ることを期待している）という文にあります。as well as ～ は「～だけでなく」、as a result of ～ は「～の結果として」という意味です。
+観光客や企業が町に来る「原因」になるものを考えます。同じ段落の前のほうに Once reports about Greensburg appeared in the media, tourists started coming to visit the town.（グリーンズバーグについての報道がメディアに出るとすぐに、観光客がこの町を訪れるようになった）とあります。Once はここでは「～するとすぐに」という意味です。
+つまり、メディアで報道され、多くの人に知られたことで、観光客が来るようになったのです。public attention は「世間の注目（多くの人から関心を持たれること）」という意味です。all the public attention で「世間からのこうした注目のすべて」となり、報道によって町が注目されたことを表します。正解は1です。
+【ほかの選択肢】
+2 health は「健康」です。public health で「公衆衛生（人々の健康を守ること）」という言い方はありますが、本文には人々の健康についての話がなく、観光客や企業が来る理由になりません。
+3 silence は「沈黙、静けさ」です。本文では町がメディアで報道されており、静けさとは反対の状況です。
+4 access は「（場所に）近づく方法、利用する権利」です。町への交通の便がよくなったという話は本文になく、観光客や企業が来る理由として書かれていません。
+【覚えるポイント】
+・public attention：「世間の注目」。attract attention で「注目を集める」。
+・as a result of ～：「～の結果として」。

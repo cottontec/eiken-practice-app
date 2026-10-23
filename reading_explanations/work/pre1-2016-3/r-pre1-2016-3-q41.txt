@@ -1,0 +1,34 @@
+---
+choices: Certain genetic factors that allow their bodies to process large amounts of fat also make them more likely to get certain diseases. | Being forced to adapt to foods typically consumed by other peoples has led to genetic changes that have affected their health. | Their diet may have enabled them to evolve a protective genetic response that is lacking in other peoples. | Their genetic makeup prevents them from experiencing the benefits of supplements that contain omega-3 fats.
+answerText: Their diet may have enabled them to evolve a protective genetic response that is lacking in other peoples.
+reviewed: yes
+---
+【正解】3 Their diet may have enabled them to evolve a protective genetic response that is lacking in other peoples.（彼らの食事によって、ほかの民族にはない、体を守る遺伝的な反応が進化した可能性がある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What does recent research suggest about Inuit peoples?（最近の研究は、イヌイットの人々について何を示しているか。）
+1 Certain genetic factors that allow their bodies to process large amounts of fat also make them more likely to get certain diseases.（大量の脂肪を体が処理できるようにしているある遺伝的な要因が、ある種の病気にかかりやすくもしている。）
+2 Being forced to adapt to foods typically consumed by other peoples has led to genetic changes that have affected their health.（ほかの民族がふつう食べている食べ物に適応せざるをえなかったことが、彼らの健康に影響を与える遺伝的な変化につながった。）
+3 Their diet may have enabled them to evolve a protective genetic response that is lacking in other peoples.（彼らの食事によって、ほかの民族にはない、体を守る遺伝的な反応が進化した可能性がある。）
+4 Their genetic makeup prevents them from experiencing the benefits of supplements that contain omega-3 fats.（彼らの遺伝的な体質のために、オメガ3脂肪を含むサプリメントの効果を得ることができない。）
+【考え方】
+まず見るところ：第4段落の recent research on the Inuit genome と、It appears genetic adaptations that evolved in response to their consumption of omega-3 fats ～
+設問の recent research（最近の研究）は、第4段落の recent research on the Inuit genome（イヌイットのゲノムについての最近の研究）に当たります。genome は「ゲノム（その生き物が持つ遺伝情報の全体）」です。研究の中身は、次の文に書かれています。
+It appears genetic adaptations that evolved in response to their consumption of omega-3 fats allow Inuit peoples to process them more effectively than other peoples do, lessening the dangers posed by a high-fat diet.（オメガ3脂肪をとってきたことに応じて進化した遺伝的な適応によって、イヌイットの人々はほかの民族よりも効果的にオメガ3脂肪を処理することができ、高脂肪の食事がもたらす危険を小さくしているようなのである）
+genetic adaptation は「遺伝的な適応（長い時間をかけて、環境に合うように体の性質が受けつがれて変わること）」、lessen は「小さくする、減らす」という意味です。
+本文と選択肢3を対にすると、次のようになります。
+本文 in response to their consumption of omega-3 fats（オメガ3脂肪をとってきたことに応じて）→ 選択肢 Their diet may have enabled them（彼らの食事によって～できた可能性がある）
+本文 genetic adaptations that evolved（進化した遺伝的な適応）＝ 選択肢 evolve a ... genetic response（遺伝的な反応を進化させる）
+本文 lessening the dangers posed by a high-fat diet（高脂肪の食事がもたらす危険を小さくする）→ 選択肢 protective（体を守る）
+本文 more effectively than other peoples do（ほかの民族よりも効果的に）→ 選択肢 that is lacking in other peoples（ほかの民族にはない）
+本文の It appears（～のようだ）は、選択肢では may have（～した可能性がある）と、言い切らない形で言いかえられています。ですから3が正解です。
+この問題の型：言いかえ（genetic adaptations that evolved ＝ evolve a genetic response）／推論（危険を小さくする→体を守る）
+【ほかの選択肢】
+1 本文にありません。遺伝的な適応は、高脂肪の食事がもたらす危険を lessening（小さくする）と書かれています。同じ要因がある種の病気にかかりやすくしている、という話は出てきません。
+2 本文と合いません。イヌイットの遺伝的な適応は、their consumption of omega-3 fats（彼ら自身がオメガ3脂肪をとってきたこと）に応じて進化したものです。ほかの民族の食べ物に適応せざるをえなかった、とは書かれていません。
+4 本文にありません。第4段落の初めに、サプリメントの効果についての研究は inconclusive（はっきりした結論が出ていない）とありますが、イヌイットの遺伝的な体質のためにサプリメントの効果が得られない、とは書かれていません。
+【覚えるポイント】
+・研究の結果を述べる It appears ～（～のようだ）は、選択肢で may have ～（～した可能性がある）のように、言い切らない形で言いかえられることがあります。選択肢が本文より強く言い切っていないかを確かめる手がかりになります。
+・more effectively than other peoples do（ほかの民族よりも効果的に）のような比べる言い方は、lacking in other peoples（ほかの民族には欠けている）のように、「ほかにはない」という形に言いかえられることがあります。

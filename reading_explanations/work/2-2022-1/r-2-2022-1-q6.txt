@@ -1,0 +1,31 @@
+---
+choices: mentally | intelligently | annually | severely
+answerText: severely
+reviewed: yes
+---
+【正解】4 severely（ひどく、深刻に）
+【和訳】
+（英文）
+There was a fire at a restaurant in Brigston City yesterday. No one was hurt, but the building was ［severely］ damaged. The owners will have to build a new one.
+（訳）
+昨日、ブリグストン市のレストランで火事がありました。けがをした人はいませんでしたが、建物は（ひどく）損傷しました。所有者たちは新しい建物を建てなければならないでしょう。
+（選択肢の意味）
+1 mentally：精神的に、心の中で
+2 intelligently：賢く、知的に
+3 annually：毎年、年に1度
+4 severely：ひどく、深刻に
+【考え方】
+まず見るところ：最後の文 The owners will have to build a new one.
+The owners will have to build a new one.（所有者たちは新しい建物を建てなければならないだろう）
+one は building（建物）を指しています。建て直さなければならないほどなので、被害はとても大きかったと分かります。
+No one was hurt, but the building was (　) damaged.（だれもけがをしなかったが、建物は（　）損傷した）
+but は、「人は無事だったが、建物はそうではなかった」という対比（2つを比べて違いを示すこと）を表しています。空所は damaged（損傷を受けた）の程度を表す語です。
+severely は「ひどく、深刻に」という意味で、be severely damaged で「ひどい損傷を受ける」となります。ですから、4が正解です。
+この問題の型：対比（人は無事⇔建物は被害）、推論（建て直す必要から被害の大きさを考える）
+【ほかの選択肢】
+1 mentally は「精神的に、心の中で」です。建物には心がないので、「建物が精神的に損傷した」は意味が通りません。
+2 intelligently は「賢く、知的に」です。「建物が賢く損傷した」となり、意味が通りません。
+3 annually は「毎年、年に1度」です。「建物が毎年損傷した」となり、昨日の火事の話にも、建て直す話にも合いません。
+【覚えるポイント】
+・be severely damaged：「ひどく損傷する、大きな被害を受ける」。
+・副詞（動作や状態の程度・ようすを説明する語）を選ぶときは、そのあとの結果（ここでは建て直す必要がある）が、どのくらいの程度を表しているかを手がかりにします。

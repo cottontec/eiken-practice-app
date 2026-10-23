@@ -1,0 +1,31 @@
+---
+choices: Nevertheless | For example | Surprisingly | On the contrary
+answerText: For example
+reviewed: yes
+---
+【正解】2 For example（たとえば）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Nevertheless（それにもかかわらず）
+2 For example（たとえば）
+3 Surprisingly（驚いたことに）
+4 On the contrary（それどころか、反対に）
+【考え方】
+まず見るところ：第1段落の空所の前の文 Until recently, scientists focused mainly on how these organisms cause disease and how they can be destroyed.
+空所の前の文は次のとおりです。
+Until recently, scientists focused mainly on how these organisms cause disease and how they can be destroyed.（最近まで、科学者たちは主に、これらの生物がどのように病気を引き起こすのか、そしてどうすればそれらを殺すことができるのかに注目していた）
+organism は「生物」で、ここでは細菌やウイルスなどを指します。科学者たちは「細菌などを殺すこと」に注目していた、という内容です。
+空所の後ろの文は次のとおりです。
+the bacterium Helicobacter pylori, which is linked to certain diseases of the stomach, has been nearly eliminated by antibiotics in developed countries（ある種の胃の病気と関係があるヘリコバクター・ピロリという細菌は、先進国では抗生物質によって、ほとんど取り除かれてきた）
+antibiotic は「抗生物質（細菌を殺したり増えるのをおさえたりする薬）」、eliminate は「取り除く」という意味です。
+病気と関係がある細菌を薬で取り除いてきたというのは、前の文の「細菌を殺すことに注目していた」ことの具体的な例です。ですから、例を挙げるときに使う For example が合い、2が正解です。
+この問題の型：具体例とまとめ（細菌を殺すことに注目→ピロリ菌を取り除いた例）
+【ほかの選択肢】
+1 Nevertheless（それにもかかわらず）は、前の内容から予想されることと反対の内容が続くときに使います。「細菌を殺すことに注目していた」のあとに「細菌を取り除いてきた」が続くのは予想どおりの内容なので、合いません。
+3 Surprisingly（驚いたことに）は、意外な内容が続くときに使います。科学者が細菌を殺すことに注目していたのですから、ピロリ菌が取り除かれたことは意外なことではありません。
+4 On the contrary（それどころか、反対に）は、前の内容を打ち消して反対のことを言うときに使います。空所の後ろは前の内容を打ち消していないので、合いません。
+【覚えるポイント】
+・前の文が一般的な内容（科学者たちが注目していたこと）で、後ろの文が特定のもの（ピロリ菌）の話になっているときは、For example が入ることが多いです。
+・eliminate：「取り除く、なくす」。

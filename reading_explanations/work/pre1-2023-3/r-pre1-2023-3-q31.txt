@@ -1,0 +1,29 @@
+---
+choices: In fact | Regardless | For one thing | In exchange
+answerText: In fact
+reviewed: yes
+---
+【正解】1 In fact（実際、それどころか）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 In fact（実際、それどころか）
+2 Regardless（それでも、それに関係なく）
+3 For one thing（一つには）
+4 In exchange（その見返りに、引きかえに）
+【考え方】
+まず見るところ：第3段落の空所の前の they are able to control how far they dive と、後ろの this gives argonauts a considerable advantage
+第3段落では、ネフが「殻のせいで食べられやすくなる」と考えたのはまちがいだった、という研究者たちの考えが書かれています。アオイガイは空気を取りこむときしか浅い海にいないうえ、次のことができます。
+After quickly descending, they are able to control how far they dive.（すばやく下降したあとは、どれくらいの深さまでもぐるかを調節することができる）
+空所の後ろでは、このことをさらに一歩進めて、よい点を強調しています。
+(　), this gives argonauts a considerable advantage over other octopus species.（〇〇、このことによってアオイガイは、ほかの種類のタコに比べてかなり有利になっている）
+this は「もぐる深さを調節できること」を指します。「不利どころか、実はかなり有利になっている」と、前の内容を強めて付け加えています。In fact は「実際、それどころか」で、前の内容をさらに強めるときに使うので、1が正解です。
+この問題の型：指示語（this ＝ もぐる深さを調節できること）
+【ほかの選択肢】
+2 Regardless は「それでも、それに関係なく」で、前の内容と関係なく何かが起きるときに使います。ここでは、もぐる深さを調節できること（this）が有利さの理由になっているので、「それに関係なく」ではつながりません。
+3 For one thing は「一つには」で、理由をいくつか挙げるときの最初の理由に使います。空所の後ろは理由を並べ始める文ではなく、前の文で述べたことのよさを強める文なので合いません。
+4 In exchange は「その見返りに」で、何かと引きかえに別のものを得るときに使います。もぐる深さを調節できることと有利さは、交換の関係ではないので合いません。
+【覚えるポイント】
+・In fact：「実際、それどころか」。a considerable advantage over ～：「～に比べてかなりの強み」。
+・空所の後ろの this が前の文の内容をそのまま受けて、そのよさを強めているときは、In fact のような「さらに強めて付け加える」つなぎの言葉が入る手がかりになります。

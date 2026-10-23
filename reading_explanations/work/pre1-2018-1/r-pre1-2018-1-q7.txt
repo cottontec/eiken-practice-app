@@ -1,0 +1,31 @@
+---
+choices: attained | empowered | defied | expanded
+answerText: defied
+reviewed: yes
+---
+【正解】3 defied（逆らった、従わなかった）
+【和訳】
+（英文）
+Sue's parents wanted her to continue her college education, but she ［defied］ their wishes by dropping out to pursue a modeling career.
+（訳）
+スーの両親は、彼女に大学での勉強を続けてほしいと思っていたが、スーはモデルの仕事を目指すために大学を中退して、両親の願いに（逆らった）。
+（選択肢の意味）
+1 attained：（目標などを）達成した
+2 empowered：力を与えた、権限を与えた
+3 defied：逆らった、従わなかった
+4 expanded：広げた、拡大した
+【考え方】
+まず見るところ：文の真ん中の but と、後ろの by dropping out
+前半では、両親の願いが書かれています。
+Sue's parents wanted her to continue her college education（スーの両親は、彼女に大学教育を続けてほしかった）
+そのあと but（しかし）が来るので、スーは両親の願いとは反対のことをしたと考えられます。実際に何をしたかは、by ～（～することによって）の部分に書かれています。
+by dropping out to pursue a modeling career（モデルの仕事を目指すために中退することによって）
+drop out は「（学校を）中退する」です。大学を続けてほしいという願いに対して、中退したのですから、スーは両親の願いに逆らったことになります。defy は「逆らう、従わない」で、defied はその過去形です。よって3が正解です。
+この問題の型：対比（両親の願い but スーの行動）
+【ほかの選択肢】
+1 attained は「達成した」です。「両親の願いを達成した」だと、願いをかなえたことになり、大学を中退したことと反対になります。
+2 empowered は「力を与えた」です。「両親の願いに力を与えた」では、中退したこととつながりません。
+4 expanded は「広げた」です。「両親の願いを広げた」では意味が通りません。
+【覚えるポイント】
+・defy one's wishes：「～の願いに逆らう」。drop out：「中退する」。pursue a career：「仕事（の道）を目指す」。
+・but のあとに by ～ing（～することによって）が続くときは、by の部分の行動が、空所の動詞の中身を説明している手がかりになります。

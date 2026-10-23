@@ -1,0 +1,32 @@
+---
+choices: scorch | intensify | exceed | utter
+answerText: utter
+reviewed: yes
+---
+【正解】4 utter（（言葉）を発する、口に出す）
+【和訳】
+（英文）
+The kids did not ［utter］ a single word after they broke the lamp. They remained silent until their mom came and asked what had happened.
+（訳）
+子どもたちは、ランプを壊したあと、ひと言も（口に出し）ませんでした。お母さんがやって来て何があったのかとたずねるまで、子どもたちは黙ったままでした。
+（選択肢の意味）
+1 scorch：焦がす
+2 intensify：強める、激しくする
+3 exceed：（数や量が）～を超える
+4 utter：（声や言葉）を発する、口に出す
+【考え方】
+まず見るところ：後半の文の They remained silent
+空所のある文は次のとおりです。
+The kids did not (　) a single word after they broke the lamp.（子どもたちは、ランプを壊したあと、ひと言も（　）なかった）
+not ～ a single word は「ひと言も～ない」です。空所には、word（言葉）と組み合わせて使う動詞が入ります。
+後半の文で、子どもたちの様子が分かります。
+They remained silent until their mom came and asked what had happened.（お母さんがやって来て何があったのかとたずねるまで、子どもたちは黙ったままだった）
+remain silent は「黙ったままでいる」です。「ひと言も口に出さなかった」とすると、この文とぴったり合います。utter は「（言葉）を発する、口に出す」なので、4が正解です。
+この問題の型：言いかえ（did not utter a single word → remained silent）
+【ほかの選択肢】
+1 scorch は「焦がす」です。「ひと言も焦がさなかった」となり、意味が通りません。
+2 intensify は「強める、激しくする」です。「ひと言も強めなかった」となり、黙ったままだったという後半の文とつながりません。
+3 exceed は「（数や量が）～を超える」です。「ひと言も超えなかった」となり、意味が通りません。
+【覚えるポイント】
+・utter a word：「言葉を口に出す」。not utter a single word で「ひと言も言わない」。
+・空所のある文が否定（did not ～）のときは、次の文の remained silent のような言いかえを探すと、空所の意味を決める手がかりになります。

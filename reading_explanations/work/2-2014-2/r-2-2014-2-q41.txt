@@ -1,0 +1,31 @@
+---
+choices: They want to work over eight hours per day but are not allowed to. | They work much longer than what is thought to be average. | They are able to take at least three days off every week. | They are being asked to take more days off during the week.
+answerText: They work much longer than what is thought to be average.
+reviewed: yes
+---
+【正解】2 They work much longer than what is thought to be average.（平均だと考えられている時間よりもずっと長く働いている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：アメリカ合衆国の多くの人々について正しいことは何ですか。
+1 They want to work over eight hours per day but are not allowed to.（1日に8時間を超えて働きたいが、それを許されていない。）
+2 They work much longer than what is thought to be average.（平均だと考えられている時間よりもずっと長く働いている。）
+3 They are able to take at least three days off every week.（毎週少なくとも3日は休みを取ることができる。）
+4 They are being asked to take more days off during the week.（週の間に、もっと多くの日を休むよう求められている。）
+【考え方】
+第1段落の初めの2文に注目します。
+Most people in the United States, in theory, work on average eight hours a day, five days a week.（アメリカ合衆国のほとんどの人は、理屈の上では、平均して1日8時間、週5日働いている）とあります。in theory は「理屈の上では、たてまえとしては」という意味で、実際とは違うかもしれないことを示しています。
+次の文は In truth, though, many people work much longer than this.（しかし本当のところは、多くの人がこれよりずっと長く働いている）です。In truth は「本当のところは」、this は前の文の「平均して1日8時間、週5日」を指します。much longer は「ずっと長く」と、差が大きいことを表す比較の形です。
+さらに、86 percent of men and 67 percent of women work more than this each week（男性の86パーセント、女性の67パーセントが、毎週これより多く働いている）とも書かれています。
+本文と選択肢は次のように対応しています。
+本文 in theory, work on average eight hours a day, five days a week（理屈の上では、平均して1日8時間、週5日働く）→ 選択肢 what is thought to be average（平均だと考えられているもの）
+本文 many people work much longer than this（多くの人がこれよりずっと長く働いている）→ 選択肢 They work much longer than ～（～よりずっと長く働いている）
+正解は2です。
+【ほかの選択肢】
+1 本文では、多くの人が実際に8時間より長く働いていると書かれています。長く働きたいのに許されていない、というのは本文と反対の内容です。
+3 「3日間の週末」は、一部の専門家が「そのほうが理にかなっている」と言っている考えです。今、多くの人が毎週3日休めているわけではありません。
+4 もっと多くの日を休むよう求められているとは書かれていません。本文で述べられているのは、専門家が週4日勤務のほうが理にかなっていると言っていることです。
+【覚えるポイント】
+・in theory：「理屈の上では、たてまえとしては」。In truth（本当のところは）や in practice（実際には）と対になってよく使われます。
+・much longer than ～：「～よりずっと長く」。much は比較の差が大きいことを表します。

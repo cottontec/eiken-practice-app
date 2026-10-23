@@ -1,0 +1,30 @@
+---
+choices: gather data about children in order to help them lead better lives. | go to the children's schools to learn more about Australian education. | measure how well parents can solve their children's problems. | provide health services to children living in the community.
+answerText: gather data about children in order to help them lead better lives.
+reviewed: yes
+---
+【正解】1 gather data about children in order to help them lead better lives.（子どもたちがよりよい生活を送れるように手助けするために、子どもたちについてのデータを集める。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：子どもたちの家を訪ねる研究者たちは、
+1 gather data about children in order to help them lead better lives.（子どもたちがよりよい生活を送れるように手助けするために、子どもたちについてのデータを集める。）
+2 go to the children's schools to learn more about Australian education.（オーストラリアの教育についてもっと知るために、子どもたちの学校へ行く。）
+3 measure how well parents can solve their children's problems.（親が子どもの問題をどれくらいうまく解決できるかを測る。）
+4 provide health services to children living in the community.（地域社会に住む子どもたちに医療サービスを提供する。）
+【考え方】
+家を訪ねる研究者たちがすることは、第3段落に書かれています。
+最初の文は The researchers visit the participants' homes every two years to gather data.（研究者たちは、データを集めるために2年ごとに参加者の家を訪ねる）です。participant は「参加者」です。そのあと、親へのインタビュー、子どもの健康や学校での成績の測定、家庭の収入などの記録が説明されています。
+段落の最後の文は They plan to use all of this information to improve children's lives.（彼らは、これらの情報をすべて、子どもたちの生活をよりよくするために使う予定だ）です。improve は「よくする、改善する」です。
+本文と選択肢を対にすると、次のようになります。
+本文 visit the participants' homes ... to gather data（データを集めるために家を訪ねる）＝ 選択肢 gather data about children（子どもたちについてのデータを集める）
+本文 use all of this information to improve children's lives（子どもたちの生活をよりよくするために情報を使う）＝ 選択肢 in order to help them lead better lives（子どもたちがよりよい生活を送れるように手助けするために）
+lead a life は「生活を送る」という意味です。正解は1です。
+【ほかの選択肢】
+2 研究者たちは、子どもが学校でどれくらいよくできているかを測り、子どもが通う学校を記録しますが、子どもたちの学校へ行くとは書かれていません。また、目的は子どもたちの生活をよくすることで、オーストラリアの教育について知ることではありません。
+3 研究者たちが親にインタビューするのは parenting styles and the child's daily activities（子育てのしかたや子どもの毎日の活動）についてです。測るのは子どもたちの健康や学校での成績で、親が子どもの問題をどれくらい解決できるかを測るとは書かれていません。
+4 研究者たちは子どもたちの健康を測りますが（take measurements of the children's health）、医療サービスを提供するとは書かれていません。「測る」と「提供する」は違います。
+【覚えるポイント】
+・lead a better life：「よりよい生活を送る」。
+・take measurements of ～：「～を測る、測定する」。

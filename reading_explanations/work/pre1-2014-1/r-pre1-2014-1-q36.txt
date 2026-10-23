@@ -1,0 +1,30 @@
+---
+choices: Chile needs to share some of its ports with Bolivia because of the great expense required to maintain them. | Chile wants to be seen as treating Bolivia fairly in the eyes of the international community. | Chile hopes to convince Bolivia to cancel its plans for a tunnel that would give Bolivia access to nitrate reserves. | Chile wants to prevent an agreement between Bolivia and Peru that would lead to more competition with Chilean ports.
+answerText: Chile wants to be seen as treating Bolivia fairly in the eyes of the international community.
+reviewed: yes
+---
+【正解】2 Chile wants to be seen as treating Bolivia fairly in the eyes of the international community.（チリは、国際社会から、ボリビアを公平に扱っていると見られたいと思っている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：この文章の筆者によると、チリがボリビアとの緊張を和らげようとしている背景には、どのような要因があるか。
+1 Chile needs to share some of its ports with Bolivia because of the great expense required to maintain them.（港を維持するには多くの費用がかかるので、チリは港の一部をボリビアと共有する必要がある。）
+2 Chile wants to be seen as treating Bolivia fairly in the eyes of the international community.（チリは、国際社会から、ボリビアを公平に扱っていると見られたいと思っている。）
+3 Chile hopes to convince Bolivia to cancel its plans for a tunnel that would give Bolivia access to nitrate reserves.（チリは、ボリビアが硝酸塩の埋蔵地に行けるようになるトンネルの計画をやめるよう、ボリビアを説得したいと思っている。）
+4 Chile wants to prevent an agreement between Bolivia and Peru that would lead to more competition with Chilean ports.（チリは、チリの港との競争を強めることになるボリビアとペルーの間の合意を、防ぎたいと思っている。）
+【考え方】
+設問の ease tensions は「緊張を和らげる」という意味です。緊張を解こうとする試みについては、第3段落に Since then, there have been attempts to resolve the tensions（それ以来、緊張を解こうとする試みが行われてきた）とあり、続く文にチリの事情が書かれています。
+Hoping to take a greater role on the world stage, Chile is sensitive to being perceived as a bully toward its much poorer neighbor, and so allows Bolivian companies to trade using Chilean ports without paying taxes.（世界の舞台でより大きな役割を果たしたいと願うチリは、ずっと貧しい隣国をいじめていると見られることに敏感であり、そのため、ボリビアの企業が税金を払わずにチリの港を使って貿易することを認めている）
+be sensitive to ～ は「～を気にする、～に敏感である」、be perceived as ～ は「～だと見られる」、bully は「いじめる者」という意味です。and so（そのため）の前に理由、後ろに具体的な行動が書かれています。
+これを選択肢2と対にすると、次のようになります。
+・本文 on the world stage（世界の舞台で）＝ 選択肢 in the eyes of the international community（国際社会の目から見て）
+・本文 sensitive to being perceived as a bully（いじめる者だと見られることを気にしている）＝ 選択肢 wants to be seen as treating Bolivia fairly（ボリビアを公平に扱っていると見られたい）
+「いじめていると見られたくない」ことを、「公平に扱っていると見られたい」と裏返して言いかえています。よって2が正解です。
+【ほかの選択肢】
+1 本文には、港の維持に多くの費用がかかるという話はありません。チリがボリビアの企業に港を使わせている理由は、いじめていると見られたくないからだと書かれています。
+3 本文と食い違っています。トンネルは、2009年に Chilean architects（チリの建築家たち）が提案したもので、ボリビアの計画ではありません。また、目的は connect Bolivia to the sea（ボリビアを海と結ぶ）ことで、硝酸塩の埋蔵地に行くためとは書かれていません。チリがトンネル計画をやめさせたいという話もありません。
+4 本文には、ペルーが海岸線の土地をボリビアに貸していることは書かれていますが、チリがボリビアとペルーの合意を防ぎたいと思っている、という話はありません。
+【覚えるポイント】
+・be perceived as ～：「～だと見られる、思われる」。be seen as ～ もほぼ同じ意味です。
+・「～と見られたくない」を「（反対の）～と見られたい」と裏返す言いかえは、内容一致問題でよく使われます。

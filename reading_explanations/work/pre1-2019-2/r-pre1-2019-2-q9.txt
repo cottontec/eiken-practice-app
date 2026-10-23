@@ -1,0 +1,30 @@
+---
+choices: ferocious | ruthless | finite | migratory
+answerText: finite
+reviewed: yes
+---
+【正解】3 finite（限りのある、有限の）
+【和訳】
+（英文）
+Most of the world's energy resources are ［finite］. Gas and oil, for example, are expected to run out sometime this century.
+（訳）
+世界のエネルギー資源のほとんどは（限りがある）。たとえば、ガスや石油は今世紀中のいつかになくなると予想されている。
+（選択肢の意味）
+1 ferocious：どう猛な、激しい
+2 ruthless：冷酷な、情け容赦のない
+3 finite：限りのある、有限の
+4 migratory：（鳥などが）渡りをする、移動する
+【考え方】
+まず見るところ：次の文の are expected to run out sometime this century
+空所のある文は「世界のエネルギー資源のほとんどは（　）である」です。energy resources は「エネルギー資源（石油やガスなど、エネルギーのもとになるもの）」です。
+次の文は、for example（たとえば）で始まり、具体例を挙げています。
+Gas and oil, for example, are expected to run out sometime this century.（たとえば、ガスや石油は今世紀中のいつかになくなると予想されている）
+run out は「使い果たされる、なくなる」です。いつかなくなるということは、量に限りがあるということです。finite は「限りのある、有限の」という意味なので、3が正解です。
+この問題の型：具体例とまとめ（ガスや石油はなくなる → 資源には限りがある）
+【ほかの選択肢】
+1 ferocious は「どう猛な、激しい」です。動物や攻撃の様子に使う語で、「エネルギー資源はどう猛だ」では意味が通りません。
+2 ruthless は「冷酷な、情け容赦のない」です。人の性格や行動に使う語で、資源がなくなるという具体例とつながりません。
+4 migratory は「（鳥などが）渡りをする」です。「エネルギー資源は渡りをする」では意味が通りません。
+【覚えるポイント】
+・finite：「限りのある、有限の」。反対の意味の語は infinite（無限の）。
+・空所の次の文が for example で始まるときは、その具体例（ここでは run out＝なくなる）をまとめた性質を表す語を選ぶ手がかりになります。

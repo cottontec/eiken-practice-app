@@ -1,0 +1,34 @@
+---
+choices: decisive | subjective | redundant | distinct
+answerText: redundant
+reviewed: yes
+---
+【正解】3 redundant（余計な、同じことのくり返しでくどい）
+【和訳】
+（英文）
+A: Thanks for showing me the outline of your sales presentation. It's good, but it's a bit ［redundant］ in some places.
+B: I guess I do repeat some information too much. I'll try to take some of it out.
+（訳）
+A：営業のプレゼンテーション（発表）の概要を見せてくれてありがとう。よくできているけれど、ところどころ少し（くどい）ね。
+B：たしかに、いくつかの情報をくり返しすぎていると思う。その一部を削ってみるよ。
+（選択肢の意味）
+1 decisive：決定的な、きっぱりとした
+2 subjective：主観的な（自分だけの見方や感じ方にもとづいた）
+3 redundant：余計な、同じことのくり返しでくどい
+4 distinct：はっきりした、ほかとはっきり違う
+【考え方】
+まず見るところ：Bの答えの I do repeat some information too much
+Bの答えは次のとおりです。
+I guess I do repeat some information too much.（たしかに、いくつかの情報をくり返しすぎていると思う）
+do repeat の do は、repeat（くり返す）を強める働きをしています。Bは、Aの指摘を「たしかにそうだ」と認めているのです。
+さらにBは、次のように続けます。
+I'll try to take some of it out.（その一部を削ってみるよ）
+つまり、Aが指摘したのは「同じ情報のくり返しが多く、余計な部分がある」ということだと分かります。redundant は「（くり返しなどで）余計な、くどい」という意味なので、3が正解です。
+この問題の型：言いかえ（redundant ＝ repeat some information too much）
+【ほかの選択肢】
+1 decisive は「決定的な、きっぱりとした」です。「ところどころ少しきっぱりしている」では、注意する内容になりません。Bの「くり返しすぎている」という答えともつながりません。
+2 subjective は「主観的な」です。「ところどころ少し主観的だ」では、Bの「情報をくり返しすぎている」「その一部を削ってみる」という答えとつながりません。
+4 distinct は「はっきりした、ほかとはっきり違う」です。It's good, but（よくできているけれど）のあとに続く注意の言葉としては合いません。Bの答えともつながりません。
+【覚えるポイント】
+・redundant：「余計な、くどい」。くり返しが多くて、なくてもよい部分があるようすを表します。
+・会話の空所では、相手の返事（ここでは repeat some information too much と take some of it out）が、空所の語の意味を言いかえていることが多いので、まず返事を読むと手がかりになります。

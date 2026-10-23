@@ -1,0 +1,29 @@
+---
+choices: put an advertisement on the Internet for a used car. | wants to buy his first car sometime soon. | is going to turn 18 years old in a few weeks. | is shopping for a present for his mother and father.
+answerText: is going to turn 18 years old in a few weeks.
+reviewed: yes
+---
+【正解】3 is going to turn 18 years old in a few weeks.（数週間後に18歳になる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ジョン・ホルターの息子は、
+1 put an advertisement on the Internet for a used car.（インターネットに中古車の広告を出した。）
+2 wants to buy his first car sometime soon.（近いうちに初めての車を買いたいと思っている。）
+3 is going to turn 18 years old in a few weeks.（数週間後に18歳になる。）
+4 is shopping for a present for his mother and father.（父と母へのプレゼントを買いに出かけている。）
+【考え方】
+設問は「ジョン・ホルターの息子」についてです。メールの中で son（息子）が出てくる部分を探します。第1段落にあります。
+My son's 18th birthday is in a few weeks, and my wife and I are thinking about buying him his first car as a present.（数週間後に息子の18歳の誕生日があり、妻と私は、プレゼントとして息子に初めての車を買ってやろうと考えている）
+in a few weeks は「数週間後に」という意味です。「数週間後に18歳の誕生日がある」ということは、「数週間後に18歳になる」ということです。
+本文と選択肢を対にすると、次のようになります。
+本文 My son's 18th birthday is in a few weeks（息子の18歳の誕生日は数週間後だ）＝ 選択肢 is going to turn 18 years old in a few weeks（数週間後に18歳になる）
+turn ＋年齢は「（年齢）になる」という意味です。ですから3が正解です。
+【ほかの選択肢】
+1 広告を出したのは息子ではありません。第1段落で、ホルターさんはマイランさんに I saw your advertisement on the Internet（インターネットであなたの広告を見た）と書いています。広告を出したのはマイランさんです。人物が違います。
+2 初めての車を買おうとしているのは、息子ではなく my wife and I（妻と私）、つまり両親です。本文には、息子自身が車を買いたがっているとは書かれていません。
+4 プレゼントの向きが逆です。本文では、両親が息子に（buying him his first car as a present）プレゼントを買おうとしています。息子が両親へのプレゼントを買いに出かけているという話はありません。
+【覚えるポイント】
+・turn ＋年齢：「（年齢）になる」。例：turn 18（18歳になる）。
+・in a few weeks：「（今から）数週間後に」。in ＋期間は「～後に」という意味でよく使われます。

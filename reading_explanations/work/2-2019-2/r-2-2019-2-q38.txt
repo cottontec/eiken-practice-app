@@ -1,0 +1,30 @@
+---
+choices: Special agents often use special cards to show other agents who they are. | Doctors sometimes use electronic wires to help their patients sleep. | Rogers developed a type of silicon that keeps stickers on the skin. | Electronic stickers can be used to monitor patients who need a lot of sleep.
+answerText: Electronic stickers can be used to monitor patients who need a lot of sleep.
+reviewed: yes
+---
+【正解】4 Electronic stickers can be used to monitor patients who need a lot of sleep.（電子ステッカーは、たくさん眠る必要がある患者を観察するのに使うことができる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：次の記述のうち、正しいものはどれですか。
+1 Special agents often use special cards to show other agents who they are.（特別捜査官は、自分がだれかをほかの捜査官に示すために、特別なカードをよく使う。）
+2 Doctors sometimes use electronic wires to help their patients sleep.（医師は、患者が眠れるように、電線を使うことがある。）
+3 Rogers developed a type of silicon that keeps stickers on the skin.（ロジャーズは、ステッカーを皮膚に貼りつけたままにしておくための、新しい種類のシリコンを開発した。）
+4 Electronic stickers can be used to monitor patients who need a lot of sleep.（電子ステッカーは、たくさん眠る必要がある患者を観察するのに使うことができる。）
+【考え方】
+本文全体と照らし合わせる問題です。選択肢4の patients who need a lot of sleep（たくさん眠る必要がある患者）に近い語句が、第3段落の最初にあります。
+The new electronic stickers are useful for patients who need to sleep a lot, such as newborn babies, because the stickers do not bother them.（この新しい電子ステッカーは、生まれたばかりの赤ちゃんのような、たくさん眠る必要がある患者にとって役に立つ。ステッカーが彼らのじゃまにならないからだ）
+また、第1段落では、医師が患者の体の変化を観察するために機器を使うこと、そしてその機器が電子ステッカーに置きかわりつつあることが書かれています。つまり、電子ステッカーは患者の体の変化を観察する機器として、たくさん眠る患者にも役立つということです。
+本文と選択肢を対にすると、次のようになります。
+本文 patients who need to sleep a lot ＝ 選択肢 patients who need a lot of sleep
+本文 The new electronic stickers are useful for ～ → 選択肢 Electronic stickers can be used to monitor ～
+sleep a lot（たくさん眠る）が a lot of sleep（たくさんの睡眠）に言いかえられています。ですから、4が正解です。
+【ほかの選択肢】
+1 本文にありません。特別捜査官は第4段落に出てきますが、秘密の連絡手段を使う人としてで、特別なカードで自分がだれかを示すという話はありません。
+2 本文と反対の内容です。第1段落には、従来の機器は they need many electric wires（たくさんの電線を必要とする）ため、患者が move around freely or to sleep（自由に動き回ったり眠ったり）するのを難しくすることがあると書かれています。電線は眠るのを助けるものではなく、むしろ眠りのじゃまになっています。
+3 本文と合いません。第2段落によると、ロジャーズが開発したのは、a thin layer of silicon（シリコンの薄い層）に小さな電子部品を取り付けた機器（ステッカー）です。ステッカーを皮膚に貼りつけておくための新しいシリコンを開発したとは書かれていません。
+【覚えるポイント】
+・bother：「じゃまをする、悩ませる」。do not bother them で「彼らのじゃまにならない」です。
+・need to sleep a lot と need a lot of sleep のように、動詞と名詞を入れかえた言いかえがよく出ます。

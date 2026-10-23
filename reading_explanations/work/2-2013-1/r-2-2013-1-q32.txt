@@ -1,0 +1,25 @@
+---
+choices: questions | essays | quality | evidence
+answerText: evidence
+reviewed: yes
+---
+【正解】4 evidence（証拠）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 questions：質問、問題
+2 essays：作文、小論文
+3 quality：質
+4 evidence：証拠
+【考え方】
+空所の文は The Surui hope that such (　) will force the Brazilian government to take action against people damaging the forest.（スルイ族は、そのような（　）によって、ブラジル政府が森林を傷つけている人々に対して対策を取らざるをえなくなることを望んでいる）です。force ～ to ... は「～に…させる、～に…することを強いる」という意味です。
+such（そのような）は、前に出てきたものを指します。すぐ前の文には、Google also gave the Surui people smartphones that allowed them to take photographs of anybody cutting down trees.（グーグルはまた、スルイ族の人々に、木を切り倒している人がだれであっても写真に撮れるスマートフォンを渡した）とあります。また、その前には、グーグルが詳しい衛星写真を提供することに同意したとも書かれています。
+木を切り倒している人の写真は、だれが森を傷つけているかをはっきり示すものです。こうした写真は「証拠」になり、政府もそれを見れば対策を取らざるをえなくなる、という流れです。evidence を入れると「そのような証拠が政府に対策を取らせる」となるので、正解は4です。
+【ほかの選択肢】
+1 questions を入れると「そのような質問が政府に対策を取らせる」となります。such が指すのは写真であり、質問の話は前に出てきていないので合いません。
+2 essays を入れると「そのような作文が政府に対策を取らせる」となります。前の文で述べられているのは写真を撮ることで、作文を書く話はありません。
+3 quality を入れると「そのような質が政府に対策を取らせる」となります。such が指すのは写真という具体的なものなので、「質」ではつながりません。
+【覚えるポイント】
+・evidence：「証拠」。ふつう an を付けず、複数形にもしない語です。
+・take action against ～：「～に対して対策を取る、行動を起こす」。

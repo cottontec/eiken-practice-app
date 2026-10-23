@@ -1,0 +1,34 @@
+---
+choices: he died in a way that was very different from that which people in the past believed to be the case. | not only was he mostly free from physical disabilities, but he may also have been a capable fighter. | the injuries he suffered in his final battle were serious, but they were probably not the cause of his death. | his physical appearance likely had a greater influence on people’s impression of him than his ability as king.
+answerText: not only was he mostly free from physical disabilities, but he may also have been a capable fighter.
+reviewed: yes
+---
+【正解】2 not only was he mostly free from physical disabilities, but he may also have been a capable fighter.（彼には体の障がいがほとんどなかっただけでなく、有能な戦士でもあったかもしれない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：As a result of analysis of Richard’s body, it was learned that（リチャードの遺体を分析した結果、～ということが分かった。）
+1 he died in a way that was very different from that which people in the past believed to be the case.（彼は、昔の人々が事実だと信じていたものとは大きく異なるしかたで死んだ。）
+2 not only was he mostly free from physical disabilities, but he may also have been a capable fighter.（彼には体の障がいがほとんどなかっただけでなく、有能な戦士でもあったかもしれない。）
+3 the injuries he suffered in his final battle were serious, but they were probably not the cause of his death.（最後の戦いで受けた傷は重かったが、それらはおそらく彼の死の原因ではなかった。）
+4 his physical appearance likely had a greater influence on people’s impression of him than his ability as king.（王としての能力よりも、彼の外見のほうが、人々が持つ彼の印象に大きな影響を与えた可能性が高い。）
+【考え方】
+まず見るところ：第2段落の Richard’s reported physical disabilities were largely a myth と he was a skilled soldier
+遺体（骨格）の分析については、第2段落の後半に書かれています。
+According to analysis of the skeleton, it turns out that Richard’s reported physical disabilities were largely a myth.（骨格の分析によると、伝えられていたリチャードの体の障がいは、大部分が作り話だったことが分かった）
+skeleton は「骨格」、reported は「伝えられていた」、largely は「大部分は」、myth は「作り話、事実でない言い伝え」という意味です。
+In fact, some of the injuries observed on the bones suggest that Richard likely fought in battle, which supports historical reports that suggest he was a skilled soldier.（実際、骨に見られる傷のいくつかは、リチャードが戦いに加わっていた可能性が高いことを示しており、このことは、彼が腕のよい兵士だったことをうかがわせる歴史上の記録を裏づけている）
+骨の傷から、リチャードは戦いに加わっていたらしく、腕のよい兵士だったという記録とも合う、ということが分かりました。
+本文と選択肢を対にすると、次のようになります。
+本文 reported physical disabilities were largely a myth（伝えられていた体の障がいは大部分が作り話だった）→ 選択肢 not only was he mostly free from physical disabilities（彼には体の障がいがほとんどなかっただけでなく）
+本文 likely fought in battle ／ a skilled soldier（戦いに加わっていた可能性が高い／腕のよい兵士）→ 選択肢 he may also have been a capable fighter（有能な戦士でもあったかもしれない）
+よって2が正解です。
+この問題の型：言いかえ（largely a myth → mostly free from／a skilled soldier → a capable fighter）
+【ほかの選択肢】
+1 本文にありません。本文には、リチャードがどのように死んだかについて、昔の人が信じていたことと比べる話はありません。
+3 本文にありません。骨の傷は、リチャードが戦いに加わっていたことを示すものとして書かれているだけで、最後の戦いの傷の重さや、それが死の原因だったかどうかは書かれていません。
+4 本文にありません。外見と王としての能力のどちらが人々の印象に大きく影響したかを比べる話はありません。本文では、悪い評判のもとはモアの本だとされています。
+【覚えるポイント】
+・myth：「作り話、根拠のない言い伝え」。largely a myth は「大部分が作り話」なので、選択肢の mostly free from（ほとんど～がない）と結びつきます。
+・not only A but also B（AだけでなくBも）の形の選択肢は、AとBの両方が本文に書かれているかを1つずつ確かめることが手がかりになります。

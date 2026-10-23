@@ -1,0 +1,23 @@
+---
+choices: a | of | time | is | waste
+answerText: a
+order: 4 1 5 2 3
+reviewed: yes
+---
+【正解】1 a（この問題の2番目）
+【完成文】
+Don't you think doing homework ( is a waste of time ), Jenna?
+並べ方：4 is → 1 a → 5 waste → 2 of → 3 time（2番目は1、4番目は2）
+【和訳】
+A：宿題をするのは時間のむだだと思わない、ジェナ？
+B：実は、そう思わないよ。宿題は学ぶことに欠かせない一部だと思う。
+【考え方】
+まず文の形を確かめます。Don't you think ～?（～だと思わない？）の think のあとには、「主語＋動詞」の文が続きます。空所の前の doing homework（宿題をすること）が、その主語です。doing は動名詞（動詞に ing を付けて「～すること」という名詞の働きをする形）です。
+主語のあとには動詞が必要です。選択肢の中で動詞は 4 is だけなので、is を最初に置きます。doing homework is ～ で「宿題をすることは～だ」となります。
+残りの a、waste、of、time からは、a waste of time（時間のむだ）という決まった言い方が作れます。ここでの waste は「むだ、浪費」という意味の名詞で、「1つのむだ」として a を前に付けます。そこで is のあとに 1 a → 5 waste → 2 of → 3 time と続けます。
+Bの答え I don't（そうは思わない）と I think homework is a necessary part of learning.（宿題は学ぶことに欠かせない一部だと思う）は、「宿題は時間のむだ」という考えに反対する内容なので、会話の流れにも合います。
+したがって2番目は1 a です。
+まちがえやすい並べ方に is a time of waste があります。5語は全部使えていますが、「むだの時間だ」という意味になってしまい、a waste of time（時間のむだ）という決まった言い方になりません。a はすぐ後ろに waste を置いて a waste とします。
+【覚えるポイント】
+・a waste of time：「時間のむだ」。a waste of money なら「お金のむだ」。
+・Don't you think ～?：「～だと思わない？」と、相手に同意を求める言い方です。

@@ -1,0 +1,31 @@
+---
+choices: can be related to its behavior | is not as important as its breed | can be difficult to assess | has less significance in other breeds
+answerText: can be related to its behavior
+reviewed: yes
+---
+【正解】1 can be related to its behavior（その犬の行動と関係していることがある）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 can be related to its behavior（その犬の行動と関係していることがある）
+2 is not as important as its breed（その犬の犬種ほど重要ではない）
+3 can be difficult to assess（判断するのが難しいことがある）
+4 has less significance in other breeds（ほかの犬種では、より重要性が低い）
+【考え方】
+まず見るところ：第3段落の最後の golden-colored ones are even more aggressive than others
+空所のある文は、次のとおりです。
+Other studies have found that a dog's color (31).（ほかの研究では、犬の毛の色が（31）と分かっている）
+空所のあとに、その研究の例が書かれています。
+researchers discovered a relationship between melanin—a substance that affects a dog's coloring—and other chemicals that affect the dog's brain（研究者たちは、メラニン（犬の毛の色に影響を与える物質）と、犬の脳に影響を与えるほかの化学物質との間に関係があることを発見した）
+The study found that, among English cocker spaniels, which are known to be an aggressive breed to begin with, golden-colored ones are even more aggressive than others.（その研究では、もともと攻撃的な犬種として知られているイングリッシュ・コッカー・スパニエルの中でも、金色の毛のものは、ほかのものよりさらに攻撃的であることが分かった）
+aggressive は「攻撃的な」です。金色の毛の犬のほうが攻撃的だということは、毛の色と犬のふるまい（行動）に関係があるということです。behavior は「行動、ふるまい」なので、can be related to its behavior（その犬の行動と関係していることがある）が当てはまり、1が正解です。
+第1・第2段落は毛の色と「健康」の関係でしたが、第3段落は Other studies（ほかの研究）として、毛の色と「行動」の関係に話を広げています。
+この問題の型：具体例とまとめ（金色の犬はより攻撃的 → 毛の色は行動と関係がある）
+【ほかの選択肢】
+2 本文では、毛の色と犬種のどちらがより重要かは比べられていません。例に出てくるのは、同じ犬種の中で毛の色によって攻撃性が違うという研究で、「犬種ほど重要ではない」という内容にはなりません。
+3 本文には、毛の色を判断するのが難しいという話はありません。研究では、金色の毛の犬が攻撃的であることがはっきり示されています。
+4 本文には、ほかの犬種では毛の色の意味がより小さいという話はありません。第3段落の研究はイングリッシュ・コッカー・スパニエルについてのもので、ほかの犬種と比べた結果は書かれていません。
+【覚えるポイント】
+・aggressive：「攻撃的な」。behavior は「行動、ふるまい」。aggressive は behavior を具体的に表す語です。
+・Other studies have found that ～ (　). の空所は、そのあとの研究の例（ここでは毛の色と攻撃性）を一言でまとめた選択肢を選ぶ手がかりになります。

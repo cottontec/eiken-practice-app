@@ -1,0 +1,31 @@
+---
+choices: show messages from people who are not members of his company. | be sent to the family members of Mr. Jenkins's coworkers from the past. | include a short company history and a timeline of its growth. | be shown on display screens set up on each table during the party.
+answerText: show messages from people who are not members of his company.
+reviewed: yes
+---
+【正解】1 show messages from people who are not members of his company.（彼の会社の一員ではない人々からのメッセージを見せる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：The surprise movie for Mr. Jenkins's retirement party will（ジェンキンスさんの退職パーティーのためのサプライズ映像は、）
+1 show messages from people who are not members of his company.（彼の会社の一員ではない人々からのメッセージを見せる。）
+2 be sent to the family members of Mr. Jenkins's coworkers from the past.（ジェンキンスさんのかつての同僚の家族に送られる。）
+3 include a short company history and a timeline of its growth.（会社の短い歴史と、会社の成長を示す年表を含む。）
+4 be shown on display screens set up on each table during the party.（パーティーの間、それぞれのテーブルに設置された画面に映される。）
+【考え方】
+まず見るところ：第2段落の messages from his customers' companies
+movie はここでは「映画」ではなく、パーティーで映す「映像、動画」のことです。映像に何が入るかは、第2段落に書かれています。
+This will include slides about Mr. Jenkins's key achievements since joining the company, special photos with his coworkers, and messages from his customers' companies.（これには、入社以来のジェンキンスさんの主な功績についてのスライド、同僚といっしょの特別な写真、そして彼の顧客の会社からのメッセージが入る予定だ）
+customer は「顧客（お客さん）」です。顧客の会社の人は、ジェンキンスさんの会社の社員ではありません。
+本文と選択肢を対にすると、次のようになります。
+本文 messages from his customers' companies（彼の顧客の会社からのメッセージ）→ 選択肢 messages from people who are not members of his company（彼の会社の一員ではない人々からのメッセージ）
+ですから1が正解です。
+この問題の型：言いかえ（his customers' companies → people who are not members of his company）
+【ほかの選択肢】
+2 本文にありません。映像はパーティーで上映するもので、かつての同僚の家族に送るという話はありません。また、同僚は写真の中に出てくるだけです。
+3 本文にありません。映像に入るのは、ジェンキンスさんの功績のスライドや写真、メッセージです。会社の歴史や会社の成長の年表が入るとは書かれていません。
+4 本文と合いません。第2段落の最初に a surprise movie to be shown on a large screen（大きなスクリーンで上映するサプライズ映像）とあり、それぞれのテーブルの画面に映すとは書かれていません。
+【覚えるポイント】
+・customer：「顧客、お客さん」。his customers' companies は「彼の顧客の会社」で、彼の会社の外の人たちのことです。
+・選択肢が「～ではない人々」のように遠回しに言いかえているときは、本文のどの人々（ここでは customers）にあたるかを考えると手がかりになります。

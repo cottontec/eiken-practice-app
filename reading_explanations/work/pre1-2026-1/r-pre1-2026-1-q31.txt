@@ -1,0 +1,36 @@
+---
+choices: Humans need to develop better types of surgical procedures so that we do not harm animals when trying to uplift them. | It is likely that the same medical advances that are used to uplift animals will also help them to live longer, healthier lives. | Humans should develop the technology necessary for uplifting animals before we consider whether it is right to do so or not. | If humans use animals in the process of increasing our own intelligence, that would increase our obligation to uplift them.
+answerText: If humans use animals in the process of increasing our own intelligence, that would increase our obligation to uplift them.
+reviewed: yes
+---
+【正解】4 If humans use animals in the process of increasing our own intelligence, that would increase our obligation to uplift them.（もし人間が、自分たち自身の知能を高める過程で動物を利用するなら、そのことで、動物の知能を引き上げる私たちの義務は大きくなるだろう。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What does George Dvorsky believe about animal uplift?（ジョージ・ドボルスキーは、動物の知能の引き上げについてどのように考えているか。）
+1 Humans need to develop better types of surgical procedures so that we do not harm animals when trying to uplift them.（人間は、動物の知能を引き上げようとするときに動物を傷つけないように、よりよい種類の外科手術の方法を開発する必要がある。）
+2 It is likely that the same medical advances that are used to uplift animals will also help them to live longer, healthier lives.（動物の知能を引き上げるのに使われるのと同じ医学の進歩が、動物がより長く、より健康に生きる助けにもなりそうだ。）
+3 Humans should develop the technology necessary for uplifting animals before we consider whether it is right to do so or not.（人間は、そうすることが正しいかどうかを考える前に、動物の知能を引き上げるのに必要な技術を開発するべきだ。）
+4 If humans use animals in the process of increasing our own intelligence, that would increase our obligation to uplift them.（もし人間が、自分たち自身の知能を高める過程で動物を利用するなら、そのことで、動物の知能を引き上げる私たちの義務は大きくなるだろう。）
+【考え方】
+まず見るところ：第4段落の if humans artificially increase our own intelligence, animals will likely be sacrificed for that as well
+ドボルスキーの考えは、第4段落に書かれています。まず、主張の中心です。
+George Dvorsky, chairperson of the Institute for Ethics and Emerging Technologies, however, argues that withholding animal uplift is itself unethical.（しかし、倫理・新興技術研究所の会長であるジョージ・ドボルスキーは、動物の知能の引き上げを行わずにおくこと自体が倫理に反すると主張している）
+withhold は「～を与えずにおく、差し控える」、unethical は「倫理に反する（人として正しくない）」です。その理由が続きます。
+Animals have long been sacrificed as test subjects during the creation of new surgical procedures or the development of medicines that have increased human life expectancy, and if humans artificially increase our own intelligence, animals will likely be sacrificed for that as well.（動物は長い間、人間の平均寿命をのばしてきた新しい外科手術の方法や薬を生み出す過程で、実験の対象として犠牲にされてきた。そして、もし人間が自分たち自身の知能を人工的に高めるなら、そのためにもおそらく動物が犠牲にされるだろう）
+さらに、ドボルスキーの考えがまとめられています。
+According to Dvorsky, in light of increased awareness of animal rights and given the tremendous role that animals have played in improving human existence, withholding advances that could improve their intelligence would be just as unethical as withholding them from a group of humans who lack sufficient wealth to afford them.（ドボルスキーによれば、動物の権利への意識が高まっていることをふまえ、また動物が人間の暮らしをよくすることに果たしてきたとても大きな役割を考えると、動物の知能を高めうる進歩を動物に与えずにおくことは、それを手に入れるだけの十分なお金を持たない人々の集団に、その進歩を与えずにおくのと同じくらい倫理に反するという）
+本文と選択肢を対にすると、次のようになります。
+本文 if humans artificially increase our own intelligence, animals will likely be sacrificed for that（人間が自分たちの知能を高めるなら、そのために動物が犠牲にされるだろう）→ 選択肢 If humans use animals in the process of increasing our own intelligence（人間が自分たちの知能を高める過程で動物を利用するなら）
+本文 given the tremendous role that animals have played（動物が果たしてきた大きな役割を考えると）、withholding ～ would be unethical（与えずにおくことは倫理に反する）→ 選択肢 that would increase our obligation to uplift them（動物の知能を引き上げる義務は大きくなる）
+動物は人間のために犠牲にされてきたうえ、人間が自分たちの知能を高めるときにも、おそらく犠牲にされるだろう。そうした大きな役割を考えると、動物の知能を高める進歩を動物に与えずにおくのは倫理に反する、というのがドボルスキーの考えです。
+ここから、人間が自分たちの知能を高めるために動物を利用するなら、そのぶん動物の知能を引き上げる義務も大きくなる、と読み取れます。ですから4が正解です。
+この問題の型：推論（動物が犠牲になる → 引き上げないのは倫理に反する → 義務が大きくなる）／言いかえ（be sacrificed → use animals）
+【ほかの選択肢】
+1 第4段落の surgical procedures（外科手術の方法）は、人間の寿命をのばすための手術の方法を作る過程で、動物が犠牲にされてきたという話で出てきます。動物を傷つけないように、よりよい手術の方法を開発する必要がある、とドボルスキーが言っているわけではありません。
+2 本文で寿命がのびたと書かれているのは human life expectancy（人間の平均寿命）で、動物の寿命ではありません。知能を引き上げる進歩が動物を長生きさせる、という話は書かれていません。
+3 ドボルスキーは、動物の知能の引き上げを行わずにおくことは倫理に反すると、正しいかどうかについての考えをはっきり述べています。正しいかどうかを考える前に技術を開発するべきだ、とは言っていません。
+【覚えるポイント】
+・withhold：「～を与えずにおく、差し控える」。unethical：「倫理に反する」。
+・人物の考えをたずねる設問では、argues that ～（～と主張する）や According to ～（～によれば）のあとを読みます。理由として挙げられた事実（ここでは動物が犠牲にされてきたこと）と、主張とのつながりを考えるのが手がかりになります。

@@ -1,0 +1,31 @@
+---
+choices: Instead | Similarly | Even so | In short
+answerText: Similarly
+reviewed: yes
+---
+【正解】2 Similarly（同じように、同様に）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Instead（その代わりに、そうではなく）
+2 Similarly（同じように、同様に）
+3 Even so（それでも、そうだとしても）
+4 In short（要するに、手短に言えば）
+【考え方】
+まず見るところ：第2段落の空所のあとの a gene found in dogs with blue eyes and a white coat can increase rates of deafness
+第2段落の最初で、研究者の考えが示されています。
+The researchers believe color-related health problems in Labradors result from breeding by humans.（研究者たちは、ラブラドールの毛の色に関係する健康問題は、人間が行ってきた繁殖から生じていると考えている）
+そのあと、チョコレート色の犬は数が限られていて、耳の感染症や皮膚の問題に関係する遺伝子を多く持っている可能性が高い、と説明されます。gene は「遺伝子（親から子へ体の特徴を伝えるもの）」です。ここまでは「毛の色に関係する遺伝子 → 病気」という話です。
+空所のあとは、次のとおりです。
+(30), a gene found in dogs with blue eyes and a white coat can increase rates of deafness, while another gene, which gives dogs a pale, spotted coat, has been linked with high rates of blindness and deafness.（（30）、青い目と白い毛を持つ犬に見られるある遺伝子は、耳が聞こえなくなる割合を高めることがあり、一方、犬に薄い色のまだら模様の毛をもたらす別の遺伝子は、目が見えなくなったり耳が聞こえなくなったりする割合が高いことと結びつけられている）
+coat は「（動物の）毛」、deafness は「耳が聞こえないこと」、blindness は「目が見えないこと」です。ここでも「毛の色に関係する遺伝子 → 体の問題」という、前と同じ種類の例が挙げられています。
+Similarly は「同じように」と、前の内容と似た例を続けるときに使う語なので、2が正解です。
+この問題の型：具体例とまとめ（チョコレート色の例 → 同じような別の毛の色の例）
+【ほかの選択肢】
+1 Instead は「その代わりに、そうではなく」です。前の内容を打ち消して別のことを言うときに使います。ここでは前のチョコレート色の話を打ち消しておらず、似た例を加えているので合いません。
+3 Even so は「それでも」です。前の内容から予想されることと反対のことを言うときに使います。空所のあとも毛の色と体の問題の関係を示す例で、前と反対の内容ではないので合いません。
+4 In short は「要するに」です。前の内容を短くまとめるときに使います。空所のあとには、青い目と白い毛の犬や、まだら模様の犬という新しい例が出てくるので、まとめにはなっていません。
+【覚えるポイント】
+・Similarly：「同じように」。前と同じ種類の例や内容を続けるときの合図になる語です。
+・つなぎの語を選ぶ空所では、空所の前と後が「同じ種類の例」「反対の内容」「まとめ」のどれにあたるかを比べることが、答えを決める手がかりになります。

@@ -1,0 +1,31 @@
+---
+choices: occurred more often in young people | could only be treated with medicine | was limited to certain skills | could only occur in two ways
+answerText: could only occur in two ways
+reviewed: yes
+---
+【正解】4 could only occur in two ways（2つの形でしか起こりえない）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 occurred more often in young people（若い人により多く起こる）
+2 could only be treated with medicine（薬でしか治療できない）
+3 was limited to certain skills（ある特定の能力に限られている）
+4 could only occur in two ways（2つの形でしか起こりえない）
+【考え方】
+まず見るところ：第1段落の空所の後ろの People either were born with the syndrome, or they developed it after a serious head injury.
+空所のある文は次のとおりです。
+Until recently, scientists thought savant syndrome ( 22 ).（最近まで、科学者たちは、サヴァン症候群は（22）と考えていた）
+syndrome は「症候群（いくつかの症状がまとまって現れる状態）」です。Until recently（最近まで）は、「今は考えが変わった」ことを予告する言い方で、以前の考えの中身はすぐ後ろの文で説明されています。
+People either were born with the syndrome, or they developed it after a serious head injury.（人々はその症候群を持って生まれたか、あるいは頭に重いけがをしたあとにそれを発症したかのどちらかだった）
+either A or B は「AかBのどちらか」です。「生まれつき」と「頭のけがのあと」の2つの起こり方が示されています。
+However, we now know there is another scenario called sudden savant syndrome.（しかし今では、突発性サヴァン症候群と呼ばれる、別のケースがあることが分かっている）
+another scenario（別のケース）は、それまでの2つに加わる、3つめの起こり方です。以前は2つしかないと考えられていたので、4が正解です。
+この問題の型：対比（以前は2つだけ⇔今は別のケースもある）
+【ほかの選択肢】
+1 「若い人により多く起こる」は、本文に書かれていません。第1段落で述べられているのは、生まれつきか頭のけがのあとかという起こり方で、年齢の話は出てきません。
+2 「薬でしか治療できない」は、本文に書かれていません。本文には治療についての話が出てきません。
+3 「ある特定の能力に限られている」は、空所の後ろの文とつながりません。後ろの文は、能力の種類ではなく、生まれつきか頭のけがのあとかという起こり方を説明しています。
+【覚えるポイント】
+・either A or B：「AかBのどちらか」。
+・Until recently（最近まで）～ thought のあとに However, we now know が続くときは、「以前の考え」と「今分かったこと」を比べると、空所の内容を決める手がかりになります。

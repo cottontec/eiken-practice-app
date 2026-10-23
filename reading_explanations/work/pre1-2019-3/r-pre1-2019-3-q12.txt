@@ -1,0 +1,30 @@
+---
+choices: vain | witty | mutual | potent
+answerText: potent
+reviewed: yes
+---
+【正解】4 potent（強力な、効き目の強い）
+【和訳】
+（英文）
+The doctor told her patient he would need a ［potent］ painkiller after his surgery. "I don't usually recommend such strong medication," she said, "but you'll be in a lot of pain."
+（訳）
+医師は自分の患者に、手術のあとには（強力な）痛み止めが必要になるだろうと伝えた。「ふだんはこんなに強い薬は勧めないのですが」と医師は言った。「でも、あなたはひどく痛むことになるでしょう。」
+（選択肢の意味）
+1 vain：むだな、うぬぼれの強い
+2 witty：機知に富んだ（気のきいたことを言う）
+3 mutual：お互いの、相互の
+4 potent：強力な、効き目の強い
+【考え方】
+まず見るところ：医師の言葉の such strong medication
+"I don't usually recommend such strong medication,"（ふだんはこんなに強い薬は勧めない）
+medication は「薬」という意味です。such strong medication（こんなに強い薬）は、前の文で医師が必要だと伝えた痛み止めのことです。つまり、空所に入る語は、その痛み止めが「強い薬」であることを表すはずです。
+"but you'll be in a lot of pain."（でも、あなたはひどく痛むことになるでしょう）
+ひどく痛むので、ふだんは勧めない強い薬が必要だ、という流れです。potent は「強力な、効き目の強い」なので、4が正解です。
+この問題の型：言いかえ（a potent painkiller → such strong medication）
+【ほかの選択肢】
+1 vain は「むだな」です。むだな痛み止めが必要だとは言わないうえ、such strong medication（こんなに強い薬）とつながりません。
+2 witty は「機知に富んだ」で、人の話し方などを表す語です。「気のきいた痛み止め」となり、意味が通りません。
+3 mutual は「お互いの」です。「お互いの痛み止め」となり、意味が通りません。
+【覚えるポイント】
+・potent：「強力な、効き目の強い」。この文では strong（強い）で言いかえられています。
+・空所のあとに such ～（こんなに～な）がある文が続くときは、such のあとの語が空所の語の言いかえになっていないかを確かめると手がかりになります。

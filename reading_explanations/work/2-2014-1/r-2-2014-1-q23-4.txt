@@ -1,0 +1,23 @@
+---
+choices: provided | come | you | home | that
+answerText: come
+order: 1 5 3 2 4
+reviewed: yes
+---
+【正解】2 come（この問題の4番目）
+【完成文】
+You can go bowling ( provided that you come home ) by ten o'clock. I don't want you out too late.
+並べ方：1 provided → 5 that → 3 you → 2 come → 4 home（2番目は5、4番目は2）
+【和訳】
+A：お母さん、今夜アンナとボウリングに行ってもいい？
+B：10時までに家に帰ってくるのなら、ボウリングに行ってもいいよ。あまり遅くまで外にいてほしくないからね。
+【考え方】
+4番目を決めるには、空所の後半で「だれが・どうする」を組み立てます。
+Bは You can go bowling（ボウリングに行ってもいい）と言ったあとで、by ten o'clock（10時までに）と時刻を示し、I don't want you out too late.（あまり遅くまで外にいてほしくない）と続けています。つまり、「10時までに帰るなら行ってもいい」という条件をつけています。
+条件を表す provided that ～（～という条件で）を空所の初めに置きます。that のあとには、条件の中身を「主語＋動詞」の形で続けます。主語は 3 you、動詞は 2 come です。
+come のあとに 4 home を置くと come home（家に帰る、帰ってくる）になります。home はここでは「家へ」という意味なので、to を付けずに come home と言います。
+並びは provided → that → you → come → home で、4番目は2 come です。
+日本語の「家に帰る」の順番につられて you home come と並べると、動詞の come が home のあとにきてしまい、英語の文になりません。英語では「主語＋動詞」のあとに home を置きます。
+【覚えるポイント】
+・come home：「家に帰る、帰ってくる」。home の前に to は付けません。
+・provided that ～：「～という条件で、もし～ならば」。

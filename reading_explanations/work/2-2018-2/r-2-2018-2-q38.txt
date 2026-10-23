@@ -1,0 +1,30 @@
+---
+choices: The National Geographic Society went to India and Pakistan to collect DNA from mummies. | Cherchen Man is wearing clothes that are different from what would be expected. | Mair says that Western civilization was influenced by Chinese civilization. | Famous mummies from ancient Egypt were shown at an exhibition in China.
+answerText: Cherchen Man is wearing clothes that are different from what would be expected.
+reviewed: yes
+---
+【正解】2 Cherchen Man is wearing clothes that are different from what would be expected.（チェルチェン・マンは、予想されるものとは違う衣服を身につけている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：次の記述のうち、正しいものはどれですか。
+1 The National Geographic Society went to India and Pakistan to collect DNA from mummies.（ナショナル・ジオグラフィック協会は、ミイラからDNAを集めるためにインドとパキスタンへ行った。）
+2 Cherchen Man is wearing clothes that are different from what would be expected.（チェルチェン・マンは、予想されるものとは違う衣服を身につけている。）
+3 Mair says that Western civilization was influenced by Chinese civilization.（メアは、西洋の文明は中国の文明の影響を受けたと言っている。）
+4 Famous mummies from ancient Egypt were shown at an exhibition in China.（古代エジプトの有名なミイラが、中国の展覧会で展示された。）
+【考え方】
+本文全体にかかわる設問なので、選択肢に出てくる人物や団体の名前を手がかりに、1つずつ本文と照らし合わせます。
+チェルチェン・マンについては、第2段落に次のように書かれています。
+Another mummy, Cherchen Man, is 6 feet tall, has red hair, and wears clothes that are unlike anything usually worn in the area. Instead, they are similar to those worn by the Celtic people in ancient Europe.（別のミイラであるチェルチェン・マンは、身長が6フィートあり、赤い髪をしていて、その地域でふつう着られているどんなものとも違う衣服を身につけている。そうではなく、その衣服は古代ヨーロッパのケルト人が着ていたものに似ている）
+ミイラが見つかったのは中国の新疆地区なので、ふつうならその地域で着られている衣服を身につけていると考えられます。ところが、チェルチェン・マンの衣服はそれとは違っていました。
+本文と選択肢を対にすると、次のようになります。
+本文 clothes that are unlike anything usually worn in the area（その地域でふつう着られているどんなものとも違う衣服）→ 選択肢 clothes that are different from what would be expected（予想されるものとは違う衣服）
+「その地域でふつう着られているもの」が、「（その地域で見つかったミイラなら）着ていると予想されるもの」に言いかえられています。ですから、2が正解です。
+【ほかの選択肢】
+1 第3段落には、協会のチームが took samples of DNA from a group of mummies（ミイラのあるグループからDNAの試料を採った）とあるだけで、インドやパキスタンへ行ったとは書かれていません。インドとパキスタンは、ミイラやその祖先が来た場所の1つ（インダス川流域）として出てくるだけです。
+3 影響の向きが逆です。メアは、中国文明の初期の発展が西方の影響を受けていたかもしれないと述べています。西洋の文明が中国の文明の影響を受けたとは言っていません。
+4 古代エジプトのミイラは、第1段落で「最も有名なミイラ」として紹介されているだけです。中国の展覧会で展示されたという話は本文にありません。
+【覚えるポイント】
+・be unlike ～：「～とは違う」。be different from ～ と言いかえられます。
+・影響を表す文では、be influenced by ～（～の影響を受ける）の「だれが、だれから」影響を受けたのかの向きをよく確かめましょう。

@@ -1,0 +1,31 @@
+---
+choices: tolerable | slippery | militant | abrupt
+answerText: tolerable
+reviewed: yes
+---
+【正解】1 tolerable（がまんできる、耐えられる）
+【和訳】
+（英文）
+Although the medicine did not completely relieve Frank's headache, it made the pain more ［tolerable］, and he was able to continue working.
+（訳）
+その薬はフランクの頭痛を完全にはやわらげなかったが、痛みをより耐えられるものにし、彼は仕事を続けることができた。
+（選択肢の意味）
+1 tolerable：がまんできる、耐えられる
+2 slippery：すべりやすい
+3 militant：好戦的な（争うことを好む）、戦闘的な
+4 abrupt：突然の、ぶっきらぼうな
+【考え方】
+まず見るところ：文の前半の Although ～ did not completely relieve と、最後の he was able to continue working
+文の前半は Although（～だけれども）で始まっています。
+Although the medicine did not completely relieve Frank's headache（その薬はフランクの頭痛を完全にはやわらげなかったけれども）
+not completely は「完全に～というわけではない」という意味で、痛みは少し残っていたことが分かります。Although のあとに「完全にはやわらげなかった」とあるので、後半には「それでも薬にはよい効き目があった」という内容が来ると考えられます。
+it made the pain more ( ), and he was able to continue working.（痛みをより（　）ものにし、彼は仕事を続けることができた）
+痛みが残っていても仕事を続けられたのですから、痛みは「がまんできる程度」になったと分かります。ですから、1 tolerable が正解です。
+この問題の型：対比（完全には治らなかった ⇔ それでも耐えられるようになり、仕事を続けられた）
+【ほかの選択肢】
+2 slippery は「すべりやすい」です。床や道などについて使う語で、「痛みをよりすべりやすくした」となり、意味が通りません。
+3 militant は「好戦的な」です。人や集団の考え方・行動について使う語で、「痛みをより好戦的にした」となり、意味が通りません。
+4 abrupt は「突然の」です。「痛みをより突然のものにした」となり、仕事を続けることができたこととつながりません。
+【覚えるポイント】
+・tolerable：「がまんできる、耐えられる」。動詞 tolerate（がまんする）と関係のある語です。
+・not completely（完全に～というわけではない）は、一部だけ否定する言い方です。Although ～ not completely ... のあとには「それでも一部は効果があった」という内容が来ることが多いので、後半の結果（ここでは continue working）から空所を考えましょう。

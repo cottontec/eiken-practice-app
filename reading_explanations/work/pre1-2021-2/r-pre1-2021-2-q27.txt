@@ -1,0 +1,32 @@
+---
+choices: make no mention of the gardens | disagree about the size of the gardens | suggest the gardens did not last long | describe the gardens very differently
+answerText: make no mention of the gardens
+reviewed: yes
+---
+【正解】1 make no mention of the gardens（その庭園について何も触れていない）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 make no mention of the gardens（その庭園について何も触れていない）
+2 disagree about the size of the gardens（その庭園の大きさについて意見が分かれている）
+3 suggest the gardens did not last long（その庭園が長くは残らなかったことをうかがわせる）
+4 describe the gardens very differently（その庭園を大きく異なる形で描いている）
+【考え方】
+まず見るところ：第2段落の空所のあとの these were all produced centuries after と Without any firsthand records
+空所のある文は次のとおりです。
+Written records from the time of Nebuchadnezzar’s rule, however, ( 27 ).（しかし、ネブカドネザルが治めていた時代に書かれた記録は、（27））
+however（しかし）があるので、前の文の「庭園はネブカドネザルが造ったと長く考えられていた」とは食いちがう内容が入ります。
+次に、空所のあとの2つの文を見ます。
+The gardens have been mentioned in various ancient texts, which describe a tall, multileveled structure lined with vegetation, but these were all produced centuries after the gardens were said to have been built.（その庭園はさまざまな古代の書物で取り上げられており、それらは植物で覆われた、高くて何層にも重なった建造物を描いているが、これらはすべて、庭園が造られたとされる時期から何世紀もあとに書かれたものだった）
+Without any firsthand records of the gardens’ construction, archaeologists have been unable to locate any ruins in the area that prove they ever existed.（庭園の建設について直接の記録がまったくない状態で、考古学者たちは、その地域で庭園がかつて存在したことを証明する遺跡を一つも見つけられずにいる）
+庭園について書かれた書物は、どれも何世紀もあとのものです。firsthand records は「直接の記録（その時代に、実際に見た人が書いた記録）」で、それがまったくないと書かれています。つまり、ネブカドネザルの時代の記録には、庭園のことが書かれていないということです。
+make no mention of ～ は「～についてまったく触れない」という意味なので、1が正解です。
+この問題の型：言いかえ（Without any firsthand records → make no mention of the gardens）／対比（however：造ったと考えられていた⇔その時代の記録に出てこない）
+【ほかの選択肢】
+2 disagree about the size of the gardens は「庭園の大きさについて意見が分かれている」です。これだと、その時代の記録が庭園について書いていることになり、あとの「直接の記録がまったくない」と食いちがいます。
+3 suggest the gardens did not last long は「庭園が長くは残らなかったことをうかがわせる」です。これも、その時代の記録が庭園について何かを伝えていることになり、「直接の記録がない」という話とつながりません。
+4 describe the gardens very differently は「庭園を大きく異なる形で描いている」です。その時代の記録が庭園を描いているのであれば、「直接の記録がまったくない」という話と食いちがいます。
+【覚えるポイント】
+・make no mention of ～：「～についてまったく触れない」。
+・空所のあとに Without any ～ records（記録がまったくない）のような説明が続くときは、それが空所の内容の言いかえになっていることが多いので、あとの文までよく読むことが手がかりになります。

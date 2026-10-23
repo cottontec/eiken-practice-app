@@ -1,0 +1,22 @@
+---
+choices: get | want | caught | in | to
+answerText: caught
+order: 2 5 1 3 4
+reviewed: yes
+---
+【正解】3 caught（この問題の4番目）
+【完成文】
+Thanks, Janet. I have a meeting this morning, so I don't ( want to get caught in ) a traffic jam.
+並べ方：2 want → 5 to → 1 get → 3 caught → 4 in（2番目は5、4番目は3）
+【和訳】
+A：マーク、ラジオで聞いたんだけど、幹線道路で事故があったそうだよ。今日は幹線道路ではなく、パーム通りを通って仕事に行ったほうがいいよ。
+B：ありがとう、ジャネット。今朝は会議があるから、渋滞に巻きこまれたくないんだ。
+【考え方】
+4番目を決めるには、まず全体の形を考えます。Aは幹線道路で事故があったことを伝え、別の道を通るようにすすめています。Bは今朝会議があるので、渋滞にあって遅れたくないと考えています。
+空所の前は I don't なので、動詞の元の形 2 want を置き、5 to を続けて I don't want to ～（～したくない）とします。
+to のあとには動詞の元の形がくるので、1 get を置きます。get のあとに 3 caught を続けると get caught（つかまる、巻きこまれる）となり、さらに 4 in を置くと、空所のあとの a traffic jam とつながって get caught in a traffic jam（渋滞に巻きこまれる）ができます。
+並べると want → to → get → caught → in となり、4番目は3 caught です。
+もし in を caught の前に置いて get in caught とすると、「中に入る」の get in のあとに caught が続く形になり、文が成り立ちません。get caught in はこの順番で覚えましょう。
+【覚えるポイント】
+・get caught in a traffic jam：「交通渋滞に巻きこまれる」。
+・want to ＋ 動詞の元の形：「～したい」。

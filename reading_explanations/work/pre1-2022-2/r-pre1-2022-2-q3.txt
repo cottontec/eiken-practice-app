@@ -1,0 +1,30 @@
+---
+choices: detectable | earnest | cumulative | underlying
+answerText: earnest
+reviewed: yes
+---
+【正解】2 earnest（まじめな、心からの）
+【和訳】
+（英文）
+Zara was very angry with her boyfriend, but she forgave him after hearing his ［earnest］ apology. She was sure that he really was sorry.
+（訳）
+ザラはボーイフレンドにとても腹を立てていたが、彼の（心からの）謝罪を聞いて、彼を許した。ザラは、彼が本当に申し訳なく思っていると確信した。
+（選択肢の意味）
+1 detectable：見つけられる、気づくことができる
+2 earnest：まじめな、心からの
+3 cumulative：（だんだん）積み重なった
+4 underlying：根底にある、表に出ていない
+【考え方】
+まず見るところ：あとの文の She was sure that he really was sorry.
+She was sure that he really was sorry.（ザラは、彼が本当に申し訳なく思っていると確信した）
+be sure that ～ は「～だと確信する（強く信じる）」、sorry は「申し訳なく思って」という意味です。ザラは謝罪を聞いて、彼の気持ちが本物だと感じたことが分かります。
+she forgave him after hearing his (　) apology（彼の（　）謝罪を聞いたあと、彼を許した）
+とても怒っていたのに許したのは、謝罪が本気のものだったからだと考えられます。earnest は「まじめな、心からの」なので、2が正解です。
+この問題の型：言いかえ（earnest apology → he really was sorry）
+【ほかの選択肢】
+1 detectable は「見つけられる、気づくことができる」です。「気づくことができる謝罪」では、彼が本当に申し訳なく思っていると確信した理由になりません。
+3 cumulative は「（だんだん）積み重なった」です。何度も謝ったとは書かれておらず、「積み重なった謝罪」では、謝罪が本気だったかどうかを表せません。
+4 underlying は「根底にある、表に出ていない」です。ザラは謝罪を実際に聞いているので、「表に出ていない謝罪を聞いた」となり、意味が通りません。
+【覚えるポイント】
+・earnest：「まじめな、心からの」。apology：「謝罪」。forgive：「許す」（forgave は過去形）。
+・空所のあとの文に really（本当に）や be sure（確信する）があるときは、その文が空所の語の意味を説明していることが多いので、まずその文を読みます。

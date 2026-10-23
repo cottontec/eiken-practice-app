@@ -1,0 +1,30 @@
+---
+choices: held a training course for senior managers at Matterson International. | told Sarah Fuller that his company could provide training courses at a reduced price. | joined a discussion at Matterson International's Human Resources Department. | accepted a reservation for two training courses from one of Sarah Fuller's co-workers.
+answerText: told Sarah Fuller that his company could provide training courses at a reduced price.
+reviewed: yes
+---
+【正解】2 told Sarah Fuller that his company could provide training courses at a reduced price.（サラ・フラーに、自分の会社が割引価格で研修講座を提供できると伝えた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：先週、デイビスさんは（　）。
+1 held a training course for senior managers at Matterson International.（マターソン・インターナショナル社で、上級管理職向けの研修講座を開いた）
+2 told Sarah Fuller that his company could provide training courses at a reduced price.（サラ・フラーに、自分の会社が割引価格で研修講座を提供できると伝えた）
+3 joined a discussion at Matterson International's Human Resources Department.（マターソン・インターナショナル社の人事部での話し合いに参加した）
+4 accepted a reservation for two training courses from one of Sarah Fuller's co-workers.（サラ・フラーの同僚の1人から、2つの研修講座の予約を受けた）
+【考え方】
+このメールはサラ・フラーさんからデイビスさんにあてたものです。設問は「先週」デイビスさんがしたことなので、last week（先週）という語をさがします。
+メールの最初の文に Thank you for your call last week regarding the courses your company offers.（先週は、貴社が提供している講座についてお電話をいただき、ありがとうございました）とあります。regarding は「～について」という意味です。つまり、デイビスさんは先週、フラーさんに電話をかけました。
+次の文は It was kind of you to agree to give Matterson International a 10-percent discount off your regular group rates.（マターソン・インターナショナル社に、通常の団体料金から10パーセントの割引をしてくださることに同意していただき、ご親切に感謝します）です。discount は「割引」、rate は「料金」です。その電話の中で、デイビスさんは料金を割り引くことに同意したと分かります。
+本文と選択肢は次のように対応しています。
+本文 agree to give ～ a 10-percent discount（10パーセントの割引をすることに同意する）＝ 選択肢 could provide training courses at a reduced price（割引価格で研修講座を提供できる）
+本文 your call（あなたからの電話）＝ 選択肢 told Sarah Fuller（サラ・フラーに伝えた）
+reduced price は「下げられた価格、割引価格」です。したがって2が正解です。
+【ほかの選択肢】
+1 デイビスさんがマターソン社で研修講座を開いたという話は本文にありません。研修はこれから予約するもので、上級管理職向けという話も出てきません。
+3 人事部で話し合ったのは、フラーさんと my co-workers in the Human Resources Department（人事部の同僚たち）です。デイビスさんがその話し合いに参加したとは書かれていないので、人物がちがいます。
+4 2つの研修講座の予約を決めたのは、メールを書いているフラーさん自身です（I have decided to book two training courses）。また、それはこのメールで伝えている内容で、先週の出来事でもありません。同僚から予約を受けたという話は本文にありません。
+【覚えるポイント】
+・Thank you for your call regarding ～：「～についてお電話をいただきありがとうございます」。regarding は about とほぼ同じ意味です。
+・give ～ a discount：「～に割引をする」。選択肢では at a reduced price（割引価格で）と言いかえられています。

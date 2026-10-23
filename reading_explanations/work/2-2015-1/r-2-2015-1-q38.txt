@@ -1,0 +1,30 @@
+---
+choices: Using the same hand improves people's ability to compete against others. | Using the same hand helps people to understand mathematics better. | Using the same hand allows people to share tools with each other easily. | Using the same hand makes it easier for people to become leaders.
+answerText: Using the same hand allows people to share tools with each other easily.
+reviewed: yes
+---
+【正解】3 Using the same hand allows people to share tools with each other easily.（同じ手を使うと、人々が互いに道具を簡単に共有できる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：科学者たちは、ほとんどの人間が右利きに進化してきた理由の1つは何だと考えていますか。
+1 Using the same hand improves people's ability to compete against others.（同じ手を使うと、ほかの人と競争する能力が高まる。）
+2 Using the same hand helps people to understand mathematics better.（同じ手を使うと、人々が数学をよりよく理解するのに役立つ。）
+3 Using the same hand allows people to share tools with each other easily.（同じ手を使うと、人々が互いに道具を簡単に共有できる。）
+4 Using the same hand makes it easier for people to become leaders.（同じ手を使うと、人々が（同じ手を使わない場合より）リーダーになりやすくなる。）
+【考え方】
+evolve（進化する）という語が出てくるのは、第2段落の1文目と2文目です。
+Many scientists believe that the ability of human beings to cooperate—for example by sharing tools—has played an important role in our evolution.（多くの科学者は、人間の協力する能力――たとえば道具を共有すること――が、私たちの進化において重要な役割を果たしてきたと考えている）
+From this point of view, it is natural that we have evolved to use the same hand because it allows people to share tools more easily.（この観点からすると、私たちが同じ手を使うように進化してきたのは当然のことだ。なぜなら、そうすることで人々が道具をより簡単に共有できるからだ）
+cooperate は「協力する」、share は「共有する（みんなで一緒に使う）」、evolution は「進化（生き物が長い年月をかけて変化していくこと）」です。2文目の it は「同じ手を使うこと」を指しています。みんなが同じ手を使えば、同じ道具をみんなで使いやすくなる、ということです。
+本文と選択肢は次のように対応しています。
+本文 it（同じ手を使うこと）allows people to share tools more easily ＝ 選択肢 Using the same hand allows people to share tools with each other easily
+正解は3です。
+【ほかの選択肢】
+1 本文で、人と戦うときに有利になりうるとされているのは being left-handed（左利きであること）です。同じ手を使うこと（多くの人が右利きであること）は、協力のための理由として説明されているので、本文と違います。
+2 本文に出てくる数学（mathematics）は、2人の研究者が左利きの人数を予測するのに使ったものです。同じ手を使うと数学がよく分かるという話はありません。
+4 リーダーになることについては、本文に何も書かれていません。
+【覚えるポイント】
+・allow 人 to ～：「人が～できるようにする」。
+・share：「共有する、みんなで一緒に使う」。

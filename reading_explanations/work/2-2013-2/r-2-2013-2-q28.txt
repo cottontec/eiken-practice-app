@@ -1,0 +1,26 @@
+---
+choices: excuse | answer | reward | reason
+answerText: answer
+reviewed: yes
+---
+【正解】2 answer（答え、解決策）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 excuse：言い訳
+2 answer：答え、解決策
+3 reward：ほうび、報酬
+4 reason：理由
+【考え方】
+空所は第3段落の最初の文 Not everybody, however, thinks that standing desks are the (　).（しかし、だれもが立って使う机が（　）だと考えているわけではない）にあります。Not everybody ～ は「だれもが～というわけではない」という意味で、「そう考えない人もいる」ということです。
+まず第2段落の初めを思い出します。One solution that is becoming popular is tall desks that can be used while standing.（人気が高まりつつある解決策の1つが、立ったまま使える背の高い机だ）とあり、立って使う机は、一日中座っていることの問題を解決するものとして紹介されていました。
+空所のあとには、Standing all day in one place is also not very good for the health.（1か所で一日中立っていることも健康にあまりよくない）、many people find standing desks difficult to get used to（多くの人が立って使う机に慣れるのは難しいと感じている）と、この机の問題点が並んでいます。
+つまり第3段落は「立って使う机が問題の解決策だとはかぎらない」という内容です。answer には「答え」のほかに「（問題の）解決策」という意味があります。the answer で「（その問題の）解決策」となり、第2段落の solution（解決策）とも対応します。正解は2です。
+【ほかの選択肢】
+1 excuse は「言い訳」です。「立って使う机が言い訳だとはだれもが思っているわけではない」となり、何の言い訳なのかが本文に書かれておらず、意味が通りません。
+3 reward は「ほうび、報酬」です。立って使う机がほうびかどうかという話は本文になく、あとに続く問題点の説明ともつながりません。
+4 reason は「理由」です。「立って使う机が理由だ」では、何の理由なのかが分かりません。あとの文は机の問題点を挙げており、理由を説明する流れではありません。
+【覚えるポイント】
+・Not everybody ～：「だれもが～というわけではない」。一部の人は違う、という意味です。
+・the answer：「（問題の）答え、解決策」。solution とほぼ同じ意味で使えます。

@@ -1,0 +1,30 @@
+---
+choices: Based on this | Even so | On the other hand | In exchange
+answerText: Based on this
+reviewed: yes
+---
+【正解】1 Based on this（このことにもとづいて）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Based on this（このことにもとづいて）
+2 Even so（たとえそうでも、それでもなお）
+3 On the other hand（その一方で）
+4 In exchange（その代わりに、引きかえに）
+【考え方】
+まず見るところ：第2段落の最後の文の the researchers urge schools to consider simple yet cost-effective factors in classroom design
+空所の前には、サルフォード大学の研究結果が書かれています。
+Factors such as amount of daylight, temperature, and indoor air quality were found to have the greatest effect, followed by features such as room layout and wall color.（日光の量、温度、室内の空気の質といった要因が最も大きな影響を持ち、それに部屋の配置や壁の色といった特徴が続くことが分かった）
+空所のある文は次のとおりです。
+( 28 ), the researchers urge schools to consider simple yet cost-effective factors in classroom design when working to improve schoolchildren's performance.（（28）、研究者たちは学校に対し、児童・生徒の成績を向上させようとする際には、教室の設計において、簡単でありながら費用の面で効果の高い要因を検討するよう強く勧めている）
+urge は「強く勧める」という意味です。研究で「教室の条件が成績に影響する」と分かったので、研究者たちは「教室の設計を考えなさい」と勧めています。前の研究結果が、後ろの勧めの根拠になっている流れです。
+Based on this は「このことにもとづいて」という意味で、this は直前の研究結果を指します。ですから1が正解です。
+この問題の型：因果（研究結果→それにもとづく勧め）／指示語（this＝研究で分かったこと）
+【ほかの選択肢】
+2 Even so は「たとえそうでも」で、前の内容から予想されることと反対の内容を続けるときに使います。研究で教室の条件が大切だと分かったあとに、教室の設計を考えるよう勧めるのは同じ向きの流れなので合いません。
+3 On the other hand は「その一方で」で、前の内容と別の面や対照的な内容を示すときに使います。後ろの勧めは研究結果と対照的な内容ではないので合いません。
+4 In exchange は「その代わりに、引きかえに」で、何かと何かを交換する話に使います。この段落には交換の話は出てこないので合いません。
+【覚えるポイント】
+・Based on this：「このことにもとづいて」。前の結果や事実を根拠にして、次の考えや勧めを述べるときに使われます。
+・前に研究結果があり、後ろに urge（強く勧める）のような提案がくるときは、「結果にもとづいて」という意味のつなぎ言葉が手がかりになります。

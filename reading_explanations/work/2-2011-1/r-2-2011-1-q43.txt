@@ -1,0 +1,29 @@
+---
+choices: Increase the variety of pets that people keep. | Create new species that can avoid extinction. | Show that cloned animals are not healthy. | Make it possible to stop species from dying out.
+answerText: Make it possible to stop species from dying out.
+reviewed: yes
+---
+【正解】4 Make it possible to stop species from dying out.（種が絶滅するのを防げるようにする。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ベッツィー・ドレッサーは何をしようとしているか。
+1 Increase the variety of pets that people keep.（人々が飼うペットの種類を増やす。）
+2 Create new species that can avoid extinction.（絶滅を避けることのできる新しい種をつくる。）
+3 Show that cloned animals are not healthy.（クローンでつくられた動物は健康でないことを示す。）
+4 Make it possible to stop species from dying out.（種が絶滅するのを防げるようにする。）
+【考え方】
+ドレッサーの目標は、第3段落に書かれています。Dresser's goal, however, has not been to bring extinct animals back to life.（しかし、ドレッサーの目標は、絶滅した動物をよみがえらせることではない）。extinct は「絶滅した（その種類の生き物が1匹もいなくなった）」という意味です。
+次の文で、本当の目標が書かれています。Rather, she hopes to prevent animals from becoming extinct in the future.（むしろ、彼女は将来、動物が絶滅するのを防ぎたいと考えている）。rather は「むしろ、そうではなく」という意味で、前の文の「よみがえらせること」と比べて、本当の目標を示しています。
+さらに、第3段落の最後には she believes that this kind of cloning will allow scientists to increase animal populations when it is necessary（この種のクローン技術によって、必要なときに科学者が動物の数を増やせるようになると信じている）とあり、第4段落でもこの目標に向けて「冷凍動物園」を作っていると書かれています。
+本文と選択肢は次のように対応しています。
+本文 prevent animals from becoming extinct（動物が絶滅するのを防ぐ）＝ 選択肢 stop species from dying out（種が絶滅するのを防ぐ）
+die out は「絶滅する、死に絶える」という意味で、become extinct の言いかえです。したがって4が正解です。
+【ほかの選択肢】
+1 本文に出てくるペットのネコは、アフリカヤマネコのクローンをつくるために卵子を使った動物です。ペットの種類を増やそうとしているという話は本文にありません。
+2 ドレッサーがつくっているのは、アフリカヤマネコのように、すでにいる動物のクローンです。新しい種をつくるという話ではないので、誤りです。
+3 本文には、彼女がつくったクローンは have not only been healthy（健康であるだけでなく）とあります。クローンが健康でないことを示すという内容は反対です。
+【覚えるポイント】
+・prevent ＋ 動物など ＋ from ～ing：「～が…するのを防ぐ」。stop ～ from ～ing も同じ意味です。
+・become extinct ＝ die out：「絶滅する」。

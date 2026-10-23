@@ -1,0 +1,24 @@
+---
+choices: case | edge | part | start
+answerText: case
+reviewed: yes
+---
+【正解】1 case（as is often the case with ～ で「～にはよくあることだが」）
+【和訳】
+音楽が得意な人には（よくあることですが）、ジムは数学も得意です。
+（選択肢の意味）
+1 case：場合、事情、実情
+2 edge：端、ふち
+3 part：部分、役
+4 start：始まり
+【考え方】
+文の前半は As is often the (　) with people who are good at music です。people who are good at music は「音楽が得意な人々」で、who are good at music が people を説明しています。
+as is often the case with ～ は「～にはよくあることだが」という決まった言い方です。case にはここで「実情、事情」という意味があり、「～についてよくある実情のとおり」と考えると分かりやすいでしょう。
+後半は Jim is good at math, too.（ジムは数学も得意だ）です。「音楽が得意な人にはよくあることだが、ジムは数学も得意だ」となり、文の意味が通ります。正解は1です。
+【ほかの選択肢】
+2 edge は「端、ふち」です。as is often the edge with ～ という言い方はなく、意味が通りません。
+3 part は「部分、役」です。「音楽が得意な人々についてよくある部分」となり、ジムが数学も得意だという話とうまくつながりません。
+4 start は「始まり」です。「よくある始まり」では意味が通りません。
+【覚えるポイント】
+・as is often the case with ～：「～にはよくあることだが」。
+・be good at ～：「～が得意だ」。

@@ -1,0 +1,24 @@
+---
+choices: study | he | is | does | in
+answerText: study
+order: 2 4 3 1 5
+reviewed: yes
+---
+【正解】1 study（この問題の4番目）
+【完成文】
+I'm really worried about Billy. These days, all ( he does is study in ) his room.
+並べ方：2 he → 4 does → 3 is → 1 study → 5 in（2番目は4、4番目は1）
+【和訳】
+A：ビリーのことが本当に心配なんだ。最近、彼は自分の部屋で勉強ばかりしているんだよ。
+B：心配いらないよ。期末試験でいい成績をとりたいから、あんなに一生懸命勉強しているんだよ。
+【考え方】
+空所の前に all（すべて）があり、空所のあとに his room（彼の部屋）があります。また、Bの答えに He's studying so hard（彼はとても一生懸命勉強している）とあるので、Aはビリーが勉強ばかりしていることを心配していると分かります。
+All ＋ 人 ＋ do(es) is ～ は「人がすることは～だけだ、～ばかりしている」という言い方です。all のあとに 2 he → 4 does を置くと all he does（彼がするすべてのこと）というまとまりになり、これが文の主語（「何が」にあたる部分）になります。
+そのあとに 3 is を置き、「～は…だ」の「…」の部分として 1 study を続けます。この言い方では、is のあとに to を付けずに動詞のもとの形 study を置くことができます。最後に 5 in を置いて in his room（彼の部屋で）とします。
+all he does is study in his room で「彼がすることは、部屋で勉強することだけだ（部屋で勉強ばかりしている）」となります。
+all is he does study のように is を先に置くと、何がどうするのかが分からない文になってしまうので注意しましょう。
+4番目に study が来るのは、all he does is のあとに「彼がすることの中身」として study（勉強する）を置くからです。
+したがって4番目は1 studyです。
+【覚えるポイント】
+・All ＋ 人 ＋ do(es) is ～：「人は～ばかりしている」。All she did was cry.（彼女は泣いてばかりいた）のようにも使います。
+・do well on ～：「（試験など）でよい成績をとる」。

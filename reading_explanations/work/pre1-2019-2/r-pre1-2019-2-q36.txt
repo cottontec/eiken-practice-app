@@ -1,0 +1,34 @@
+---
+choices: It showed that lightning strikes were especially frequent in certain areas over the Indian Ocean and the South China Sea. | It was established to compare the intensity of storms occurring over land with those occurring over water. | It led to the discovery that storms which produce lightning become less powerful as they pass over busy shipping routes. | It helped researchers find that lightning strikes are twice as common over the Indian Ocean as they are over the South China Sea.
+answerText: It showed that lightning strikes were especially frequent in certain areas over the Indian Ocean and the South China Sea.
+reviewed: yes
+---
+【正解】1 It showed that lightning strikes were especially frequent in certain areas over the Indian Ocean and the South China Sea.（それは、インド洋と南シナ海の上の特定の場所で、落雷が特に多いことを示した。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is true of the network described in the second paragraph?（第2段落で説明されている観測網について正しいものはどれですか。）
+1 It showed that lightning strikes were especially frequent in certain areas over the Indian Ocean and the South China Sea.（それは、インド洋と南シナ海の上の特定の場所で、落雷が特に多いことを示した。）
+2 It was established to compare the intensity of storms occurring over land with those occurring over water.（それは、陸の上で起こる嵐の強さと、水の上で起こる嵐の強さを比べるためにつくられた。）
+3 It led to the discovery that storms which produce lightning become less powerful as they pass over busy shipping routes.（それによって、稲妻を生み出す嵐は、船の行き来が多い航路の上を通るにつれて弱くなることが発見された。）
+4 It helped researchers find that lightning strikes are twice as common over the Indian Ocean as they are over the South China Sea.（それは、インド洋の上では南シナ海の上の2倍、落雷が多いことを研究者が見つける助けになった。）
+【考え方】
+まず見るところ：第2段落の noticed an almost straight line of strikes と、最後の They found that powerful storms with frequent lightning strikes were almost twice as likely to occur in two of the busiest shipping routes ～
+第2段落では、雷のデータを集める観測網の一つについて説明されています。そのデータを調べたバーツは、次のことに気づきました。
+atmospheric scientist Katrina Virts noticed an almost straight line of strikes occurring across the Indian Ocean between Sri Lanka and the Indonesian island of Sumatra（大気科学者のカトリーナ・バーツは、スリランカとインドネシアのスマトラ島の間のインド洋を横切って、落雷がほぼまっすぐな線を描いて起きていることに気づいた）
+さらに分析を進めた結果が、段落の最後に書かれています。
+They found that powerful storms with frequent lightning strikes were almost twice as likely to occur in two of the busiest shipping routes across the northern Indian Ocean and the South China Sea.（その結果、雷を頻繁に伴う強い嵐が、インド洋北部と南シナ海を横切る、最も船の行き来が多い航路のうちの2つで、ほぼ2倍起こりやすいことが分かった）
+almost twice as likely（ほぼ2倍起こりやすい）の比べる相手は、この文には書かれていません。ここで押さえたいのは、強い嵐と落雷が、船の行き来が多い航路で特に起こりやすいという点です。
+本文と選択肢を対にすると、次のようになります。
+本文 two of the busiest shipping routes across the northern Indian Ocean and the South China Sea（インド洋北部と南シナ海を横切る、最も船の行き来が多い航路のうちの2つ）→ 選択肢 certain areas over the Indian Ocean and the South China Sea（インド洋と南シナ海の上の特定の場所）
+本文 storms with frequent lightning strikes were almost twice as likely to occur（雷を頻繁に伴う嵐がほぼ2倍起こりやすい）→ 選択肢 lightning strikes were especially frequent（落雷が特に多い）
+ですから1が正解です。
+この問題の型：言いかえ（two of the busiest shipping routes → certain areas）
+【ほかの選択肢】
+2 第2段落の最初には、観測網は detect lightning strikes and determine their frequency and location（落雷を感知し、その頻度と場所を突き止める）ためのものだと書かれています。陸と海の嵐の強さを比べるためにつくられたという話はありません。
+3 本文では、船の行き来が多い航路で、強い嵐がほぼ2倍起こりやすいと書かれています。航路の上を通ると嵐が弱くなるという話はなく、本文の内容と合いません。
+4 本文の「ほぼ2倍」は、インド洋北部と南シナ海を横切る、船の行き来が多い2つの航路についての話です。インド洋の上と南シナ海の上を比べて、インド洋のほうが2倍多いとは書かれていません。
+【覚えるポイント】
+・twice as likely to ～：「～する可能性が2倍ある、2倍～しやすい」。
+・選択肢に twice（2倍）のような数字や比較があるときは、本文にその比べ方（ここでは「インド洋と南シナ海を比べる」）が書かれているかを確かめることが、正しい選択肢を見分ける手がかりになります。

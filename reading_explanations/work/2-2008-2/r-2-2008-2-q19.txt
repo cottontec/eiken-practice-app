@@ -1,0 +1,24 @@
+---
+choices: find | to find | found | finding
+answerText: finding
+reviewed: yes
+---
+【正解】4 finding（have trouble ～ing で「～するのに苦労する」）
+【和訳】
+スーザンは、ピーターの家を見つけるのに苦労したので、彼のパーティーに遅れました。彼女はそれまでそこへ行ったことがなく、彼の道案内もあまり分かりやすくなかったのです。
+（選択肢の意味）
+1 find：見つける（原形）
+2 to find：見つけること（to ＋ 原形）
+3 found：見つけた（過去形・過去分詞）
+4 finding：見つけること（～ing 形）
+【考え方】
+選択肢はすべて find（見つける）の形を変えたものなので、空所の前の言い方に合う形を選ぶ問題です。
+空所の前は she had trouble です。have trouble ～ing で「～するのに苦労する、なかなか～できない」という決まった言い方になります。trouble のあとには動詞の ing 形がきます。
+意味も確かめます。2文目に She had not been there before, and his directions were not very clear.（彼女はそれまでそこへ行ったことがなく、彼の道案内もあまり分かりやすくなかった）とあります。directions は「道順の説明」です。初めて行く家で説明も分かりにくかったので、家を見つけるのに苦労した、という流れになります。正解は4です。
+【ほかの選択肢】
+1 find は原形です。had trouble find のように、trouble のあとに原形を置くことはできません。
+2 to find は to ＋ 原形です。have trouble to ～ という言い方はしません。
+3 found は過去形・過去分詞です。had trouble found では文の形として成り立ちません。
+【覚えるポイント】
+・have trouble ～ing：「～するのに苦労する」。have difficulty ～ing も同じ意味です。
+・directions：「道順の説明、道案内」。

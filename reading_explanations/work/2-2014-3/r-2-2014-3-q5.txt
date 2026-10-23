@@ -1,0 +1,29 @@
+---
+choices: equipment | supplement | percentage | disadvantage
+answerText: disadvantage
+reviewed: yes
+---
+【正解】4 disadvantage（不利な点、不利な条件）
+【和訳】
+（英文）
+A: I can't believe our school's volleyball team lost their game yesterday, Brett.
+B: Well, we had a big ［disadvantage］. Several of our best players were sick and couldn't play in the game.
+（訳）
+A：うちの学校のバレーボールチームが昨日の試合に負けたなんて信じられないよ、ブレット。
+B：うーん、私たちには大きな不利な点があったんだ。いちばんうまい選手のうち何人かが病気で、試合に出られなかったんだよ。
+（選択肢の意味）
+1 equipment：用具、設備
+2 supplement：補うもの、栄養補助食品
+3 percentage：割合、パーセンテージ
+4 disadvantage：不利な点、不利な条件
+【考え方】
+Aは「チームが負けたなんて信じられない」と言っています。Bはそれに答えて、we had a big (　).（私たちには大きな（　）があった）と言い、続けて理由を説明しています。
+その理由が Several of our best players were sick and couldn't play in the game.（いちばんうまい選手のうち何人かが病気で、試合に出られなかった）です。several of ～ は「～のうちの何人か」、best players は「いちばんうまい選手たち」です。
+うまい選手が試合に出られなければ、チームは不利な状態で戦うことになります。つまりBは、負けた原因として「チームに不利な条件があった」と言っているのです。disadvantage は「不利な点、不利な条件」という意味で、a big disadvantage で「大きな不利」となります。advantage（有利な点）に dis（反対の意味を表す部分）が付いた語です。正解は4です。
+【ほかの選択肢】
+1 equipment は「用具、設備」です。「大きな用具があった」となり、負けた理由になりません。2文目の「選手が病気だった」という話ともつながりません。
+2 supplement は「補うもの、栄養補助食品（サプリメント）」です。「大きなサプリメントがあった」となり、意味が通りません。
+3 percentage は「割合、パーセンテージ」です。「大きな割合があった」となり、何の割合なのか分からず、負けた理由の説明になりません。
+【覚えるポイント】
+・disadvantage：「不利な点、不利な条件」。反対の意味の語は advantage（有利な点）。
+・several of ～：「～のうちの何人か、いくつか」。

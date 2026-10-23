@@ -1,0 +1,28 @@
+---
+choices: Doctors often use spider silk during operations. | Scientists have found a way to produce man-made spider silk. | Rats and pigs showed negative reactions to spider-silk medicines. | Lewis has written stories about how spiders are used to heal people.
+answerText: Scientists have found a way to produce man-made spider silk.
+reviewed: yes
+---
+【正解】2 Scientists have found a way to produce man-made spider silk.（科学者たちは、人工のクモの糸を作る方法を見つけた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：次の記述のうち、正しいものはどれですか。
+1 Doctors often use spider silk during operations.（医師たちは、手術の間によくクモの糸を使う。）
+2 Scientists have found a way to produce man-made spider silk.（科学者たちは、人工のクモの糸を作る方法を見つけた。）
+3 Rats and pigs showed negative reactions to spider-silk medicines.（ネズミやブタは、クモの糸の薬によくない反応を示した。）
+4 Lewis has written stories about how spiders are used to heal people.（ルイスは、クモが人を治すのにどう使われるかについての物語を書いてきた。）
+【考え方】
+このように「正しいものはどれか」を問う設問では、選択肢を1つずつ本文と照らし合わせます。
+選択肢2の内容は、第1段落の最後の文に書かれています。Some scientists have even found a way to make spider silk artificially.（クモの糸を人工的に作る方法を見つけた科学者さえいる）。artificially は「人工的に」です。even（～さえ）は、それまでに述べた発見よりさらに進んだ発見であることを示しています。
+本文と選択肢は次のように対応しています。
+本文 found a way to make spider silk artificially（クモの糸を人工的に作る方法を見つけた）＝ 選択肢 found a way to produce man-made spider silk（人工のクモの糸を作る方法を見つけた）
+make ～ artificially（～を人工的に作る）が、produce man-made ～（人の手で作られた～を作る）と言いかえられています。man-made は「人工の、人の手で作られた」です。正解は2です。
+【ほかの選択肢】
+1 本文で医師がよく行うとされているのは、perform operations to place implants（インプラントを入れる手術を行う）ことです。インプラントをクモの糸で包むのはルイスが将来できるかもしれないと考えていることで、very little scientific research into the medical use of spider silk has been carried out（クモの糸の医療への利用についての科学的研究はほとんど行われてこなかった）とも書かれています。医師がよくクモの糸を使うとは言えません。
+3 本文では、ネズミやブタの免疫システムは show no reaction to spider silk（クモの糸に何の反応も示さない）とあります。よくない反応を示したというのは、本文と反対です。また、本文で体に入れられたのはクモの糸そのもので、「クモの糸の薬」とも書かれていません。
+4 本文で物語を語ってきたのは many cultures（多くの文化）で、for hundreds of years（何百年もの間）語られてきたものです。ルイスが物語を書いたとは書かれていません。人物が違うので誤りです。
+【覚えるポイント】
+・man-made：「人工の、人の手で作られた」。artificial も同じような意味です。
+・show no reaction to ～：「～に何の反応も示さない」。

@@ -1,0 +1,31 @@
+---
+choices: ingredients | attributes | perimeters | surroundings
+answerText: ingredients
+reviewed: yes
+---
+【正解】1 ingredients（材料、原料）
+【和訳】
+（英文）
+Miriam tries to use healthy ［ingredients］ when preparing food. For example, instead of using butter to make cookies, she uses olive oil.
+（訳）
+ミリアムは料理をするとき、健康によい（材料）を使うようにしています。たとえば、クッキーを作るのにバターを使う代わりに、オリーブオイルを使います。
+（選択肢の意味）
+1 ingredients：材料、原料
+2 attributes：特性、性質
+3 perimeters：周囲（の長さ）、外周
+4 surroundings：周囲の環境、まわりのようす
+【考え方】
+まず見るところ：後半の文の instead of using butter to make cookies, she uses olive oil
+For example, instead of using butter to make cookies, she uses olive oil.（たとえば、クッキーを作るのにバターを使う代わりに、オリーブオイルを使う）
+For example（たとえば）で始まるので、この文は空所のある文の具体例です。バターやオリーブオイルは、料理に使う「材料」です。
+空所のある文は次のとおりです。
+Miriam tries to use healthy (　) when preparing food.（ミリアムは料理をするとき、健康によい（　）を使うようにしている）
+具体例に合わせると、空所には「料理の材料」に当たる語が入ります。ingredients は「（料理の）材料」という意味なので、1が正解です。
+この問題の型：具体例とまとめ（バター→オリーブオイル＝健康によい材料）
+【ほかの選択肢】
+2 attributes は「（人や物がもつ）特性、性質」です。「健康によい性質を使う」となり、バターやオリーブオイルという具体例と合いません。
+3 perimeters は「（ある場所の）周囲、外周」です。「健康によい外周を使う」となり、料理の話として意味が通りません。
+4 surroundings は「周囲の環境、まわりのようす」です。「料理をするときに健康によい周囲の環境を使う」となり、意味が通りません。
+【覚えるポイント】
+・ingredients：「（料理の）材料、原料」。prepare food（料理をする）のような料理の話でよく使われます。
+・For example（たとえば）のあとの具体例は、前の文の空所に入る語の手がかりになります。具体例の中身（ここではバターやオリーブオイル）をまとめて言うとどうなるかを考えます。

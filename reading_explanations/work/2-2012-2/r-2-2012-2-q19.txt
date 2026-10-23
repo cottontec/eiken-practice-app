@@ -1,0 +1,24 @@
+---
+choices: arrive | arrived | arriving | will arrive
+answerText: arriving
+reviewed: yes
+---
+【正解】3 arriving（到着すること）
+【和訳】
+その国に着くとすぐに、公式の客たちは副大統領の出迎えを受けました。それから彼らは、歓迎会のために大統領官邸へ案内されました。
+（選択肢の意味）
+1 arrive：到着する（原形）
+2 arrived：到着した（過去形）
+3 arriving：到着すること（-ing形）
+4 will arrive：到着するだろう
+【考え方】
+空所の前に On があります。on は前置詞（名詞の前に置いて、時・場所などの関係を表す語）です。前置詞のあとには、名詞か、動詞に -ing を付けた形（「～すること」と名詞のように使う形）が来ます。
+選択肢の中で前置詞のあとに置けるのは arriving だけです。On arriving in the country で「その国に着くとすぐに」という意味になります。on -ing は「～するとすぐに、～すると同時に」という意味を表す言い方です。
+内容も確かめます。公式の客たちが the official guests were met by the vice president（副大統領に出迎えられた）のは、その国に着いたときのことです。そのあと They were then taken to the presidential palace（それから大統領官邸へ連れて行かれた）と続き、出来事の順番も自然です。3が正解です。
+【ほかの選択肢】
+1 arrive は動詞の原形です。前置詞 on のすぐあとに置くことはできないので、On arrive という形にはなりません。
+2 arrived は過去形です。On arrived とすると、前置詞のあとに名詞や -ing の形がない形になり、正しい文になりません。
+4 will arrive は「到着するだろう」です。On will arrive のように前置詞のあとに will を置くことはできず、話も過去の出来事なので合いません。
+【覚えるポイント】
+・on -ing：「～するとすぐに」。On hearing the news（その知らせを聞くとすぐに）のようにも使います。
+・前置詞のあとの動詞は -ing の形にします。

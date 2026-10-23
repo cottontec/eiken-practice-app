@@ -1,0 +1,32 @@
+---
+choices: unconditional | deceptive | unfaithful | primitive
+answerText: unconditional
+reviewed: yes
+---
+【正解】1 unconditional（無条件の）
+【和訳】
+（英文）
+After the general surrounded the city with his troops, he demanded the ［unconditional］ surrender of the enemy.
+（訳）
+その将軍は、自分の軍隊で都市を取り囲んだあと、敵に（無条件の）降伏を要求しました。
+（選択肢の意味）
+1 unconditional：無条件の（何の条件もつけない）
+2 deceptive：人をだますような、見かけと違う
+3 unfaithful：不誠実な、裏切るような
+4 primitive：原始的な、昔のままの
+【考え方】
+まず見るところ：空所の後ろの surrender of the enemy
+文の前半は次のとおりです。
+After the general surrounded the city with his troops（その将軍が、自分の軍隊で都市を取り囲んだあと）
+general はここでは名詞で「将軍（軍隊を指揮するいちばん上の人）」、troops は「軍隊、兵士たち」です。都市を取り囲んだので、将軍の側がとても有利な立場にいることが分かります。
+空所のある後半は次のとおりです。
+he demanded the (　) surrender of the enemy（彼は敵の（　）降伏を要求した）
+demand は「（強く）要求する」、surrender は「降伏（戦いに負けたと認めて相手に従うこと）」です。有利な立場の将軍が求める降伏なので、「敵の側から条件を出させない降伏」が自然です。unconditional surrender で「無条件降伏」というよく使われる組み合わせになるので、1が正解です。
+この問題の型：語の意味・組み合わせ（unconditional surrender）
+【ほかの選択肢】
+2 deceptive は「人をだますような」です。「だますような降伏を要求した」となり、自分が有利な立場で降伏を求める将軍の話とつながりません。
+3 unfaithful は「不誠実な、裏切るような」です。将軍が敵に「不誠実な降伏」を求めるのは意味が通りません。
+4 primitive は「原始的な」です。降伏のしかたが「原始的」かどうかは、この文の話と関係がありません。
+【覚えるポイント】
+・unconditional surrender：「無条件降伏」。un-（～でない）＋ conditional（条件つきの）でできた語です。
+・surrounded the city（都市を取り囲んだ）のように、一方が有利だと分かる場面では、その立場から求めるものを考えると答えの手がかりになります。

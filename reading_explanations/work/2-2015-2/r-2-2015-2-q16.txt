@@ -1,0 +1,27 @@
+---
+choices: broke into | made up | brought back | turned down
+answerText: turned down
+reviewed: yes
+---
+【正解】4 turned down（断った）
+【和訳】
+（英文）
+Ed was offered a big promotion at his company's New York office, but he ［turned down］ the job because he did not want to move to a big city.
+（訳）
+エドは、会社のニューヨーク支社での大きな昇進の話を持ちかけられましたが、大都市に引っ越したくなかったので、その仕事を断りました。
+（選択肢の意味）
+1 broke into：押し入った
+2 made up：作り上げた、でっち上げた、仲直りした
+3 brought back：持ち帰った、連れ戻した
+4 turned down：断った
+【考え方】
+文の前半の Ed was offered a big promotion at his company's New York office に注目します。was offered は「申し出られた、持ちかけられた」、promotion は「昇進（会社で地位が上がること）」です。「エドはニューヨーク支社での大きな昇進を持ちかけられた」という意味です。
+そのあとに but（しかし）があり、さらに because he did not want to move to a big city（大都市に引っ越したくなかったので）と理由が書かれています。
+昇進の話をもらったけれど、大都市に引っ越したくなかった、という流れなので、エドはその仕事を受けなかったと考えられます。turn down ～ は「～を断る」という意味で、turned down はその過去の形です。turned down the job で「その仕事を断った」となるので、正解は4です。
+【ほかの選択肢】
+1 broke into は「（建物などに）押し入った」です。「その仕事に押し入った」となり、意味が通りません。
+2 made up は「作り上げた、でっち上げた」などの意味です。「その仕事をでっち上げた」では、引っ越したくなかったという理由とつながりません。
+3 brought back は「持ち帰った、連れ戻した」です。「その仕事を持ち帰った」となり、but と「引っ越したくなかった」という理由に合いません。
+【覚えるポイント】
+・turn down ～：「（申し出や誘いを）断る」。
+・be offered ～：「～を申し出られる、持ちかけられる」。

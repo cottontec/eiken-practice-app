@@ -1,0 +1,26 @@
+---
+choices: In addition | On the other hand | Therefore | Fortunately
+answerText: On the other hand
+reviewed: yes
+---
+【正解】2 On the other hand（その一方で、それに対して）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 In addition：さらに、それに加えて
+2 On the other hand：その一方で、それに対して
+3 Therefore：したがって、そのため
+4 Fortunately：幸運にも、ありがたいことに
+【考え方】
+空所の前後の2文を比べます。
+前の文：Over time, the ingredients used in cooking have changed greatly.（時がたつにつれて、料理に使われる材料は大きく変わった）。ingredients は「（料理の）材料」、changed greatly は「大きく変わった」です。
+空所のあと：the methods used to cook them have stayed largely the same（それらを調理するのに使われる方法は、ほとんど同じままだった）。methods は「方法」、stayed largely the same は「ほとんど同じままだった」です。them は前の文の ingredients（材料）を指しています。
+前の文は「材料は大きく変わった」、後ろの文は「調理の方法はほとんど変わらなかった」で、2つは「変わったもの」と「変わらなかったもの」を比べています。このように、2つのことを並べて違いを示す（対比する）ときに使うのが On the other hand（その一方で）です。正解は2です。
+【ほかの選択肢】
+1 In addition（さらに）は、前と同じ向きの情報を付け足すときに使います。「材料は大きく変わった。さらに、方法はほとんど同じままだった」となり、「変わった」と「変わらなかった」という反対の内容をつなぐ言葉として合いません。
+3 Therefore（したがって）は、前の内容が原因で後ろが結果になるときに使います。「材料が大きく変わったので、方法は同じままだった」となりますが、材料が変わったことは方法が変わらなかった理由になりません。
+4 Fortunately（幸運にも）を入れると、「方法がほとんど同じままだったのはよいことだ」という意味になります。しかし本文は、そのあとで昔からの料理の思い込みには科学的な裏づけがないことが多いと述べており、方法が変わらなかったことをよいこととしては扱っていません。
+【覚えるポイント】
+・On the other hand：「その一方で、それに対して」。2つのことの違いを示すときに使います。
+・stay the same：「同じままである、変わらない」。largely（大部分は、ほとんど）が付くと「ほとんど変わらない」。

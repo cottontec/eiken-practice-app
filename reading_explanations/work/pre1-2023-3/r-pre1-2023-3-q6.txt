@@ -1,0 +1,29 @@
+---
+choices: deforming | investing | discarding | intruding
+answerText: intruding
+reviewed: yes
+---
+【正解】4 intruding（立ち入ること、踏み込んでくること）
+【和訳】
+（英文）
+When she first became famous, the actor loved the media attention she received. Soon, however, she grew tired of reporters ［intruding］ on her private life.
+（訳）
+その俳優は、初めて有名になったとき、メディアから受ける注目が大好きだった。しかしまもなく、記者たちが自分の私生活に（立ち入ってくる）ことに、彼女はうんざりするようになった。
+（選択肢の意味）
+1 deforming：形をゆがめること
+2 investing：投資すること（お金を出して、もうけを期待すること）
+3 discarding：捨てること
+4 intruding：立ち入ること、踏み込んでくること
+【考え方】
+まず見るところ：Soon, however, she grew tired of と、空所の後ろの on her private life
+最初の文では、有名になったばかりのころ、彼女はメディアの注目が大好きだったと書かれています。次の文は however（しかし）で始まり、気持ちが変わったことを表します。
+Soon, however, she grew tired of reporters (　) on her private life.（しかしまもなく、彼女は記者たちが私生活に〇〇することにうんざりするようになった）
+grow tired of A ～ing は「Aが～することにうんざりするようになる」です。うんざりする相手は、記者が私生活にまで入りこんでくることだと考えられます。intrude on ～ は「～に立ち入る、～をじゃまする」なので、4が正解です。
+この問題の型：対比（注目が大好きだった ⇔ うんざりするようになった）
+【ほかの選択肢】
+1 deforming は「形をゆがめること」です。「記者たちが私生活の上で形をゆがめる」となり、意味が通りません。
+2 investing は「投資すること」で、ふつう invest in ～（～に投資する）の形で使います。「記者たちが私生活に投資する」となり、意味が通りません。
+3 discarding は「捨てること」で、あとに捨てるものを置いて使います。「記者たちが私生活の上で捨てる」となり、意味が通りません。
+【覚えるポイント】
+・intrude on ～：「～に立ち入る、～をじゃまする」。grow tired of ～：「～にうんざりするようになる」。
+・however（しかし）の前後で気持ちが反対に変わっているときは、前の「よいこと」と反対の「いやなこと」を表す語が空所に入る手がかりになります。

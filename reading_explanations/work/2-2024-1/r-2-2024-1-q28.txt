@@ -1,0 +1,32 @@
+---
+choices: Machines would never be able to make objects as quickly as artists could. | Paintings and sculptures were not worth making because they were not useful. | The lives of people would improve if they returned to making things by hand. | Designers should specialize in producing just one or two types of items.
+answerText: The lives of people would improve if they returned to making things by hand.
+reviewed: yes
+---
+【正解】3 The lives of people would improve if they returned to making things by hand.（人々が手で物を作ることに戻れば、人々の生活はよくなるだろう。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one thing the members of the Arts and Crafts movement believed?（アーツ・アンド・クラフツ運動のメンバーが信じていたことの1つは何ですか。）
+1 Machines would never be able to make objects as quickly as artists could.（機械は決して、芸術家と同じくらい速く物を作れるようにはならないだろう。）
+2 Paintings and sculptures were not worth making because they were not useful.（絵画や彫刻は役に立たないので、作る価値がない。）
+3 The lives of people would improve if they returned to making things by hand.（人々が手で物を作ることに戻れば、人々の生活はよくなるだろう。）
+4 Designers should specialize in producing just one or two types of items.（デザイナーは、1種類か2種類の品物を作ることだけに専念するべきだ。）
+【考え方】
+まず見るところ：第2段落の believed that society would be better if people went back to the old ways of making things
+運動のメンバーが信じていたことは、第2段落に書かれています。
+one group of artists and designers believed that society would be better if people went back to the old ways of making things（芸術家とデザイナーのあるグループは、人々が昔ながらの物の作り方に戻れば、社会は（今より）よくなるだろうと信じていた）
+このグループが、アーツ・アンド・クラフツ運動を作った人々です。「昔ながらの物の作り方」とは何かは、第1段落に書かれています。工場ができる前、人々は make by hand（手で作る）していました。
+本文と選択肢を対にすると、次のようになります。
+本文 went back to the old ways of making things（昔ながらの物の作り方に戻る）→ 選択肢 returned to making things by hand（手で物を作ることに戻る）
+本文 society would be better（社会はよくなるだろう）→ 選択肢 The lives of people would improve（人々の生活はよくなるだろう）
+「昔ながらの作り方」が「手で作ること」だと第1段落から分かるので、3が正解です。
+この問題の型：言いかえ（the old ways of making things → making things by hand）／推論（第1段落と合わせて読む）
+【ほかの選択肢】
+1 本文の内容と合いません。第1段落には、機械と工場は items could be produced more quickly and easily（品物を（それまでより）速く簡単に生産できる）ようにするためのものだと書かれています。メンバーが「機械は芸術家ほど速く作れない」と信じていたという話はありません。
+2 本文の内容と合いません。第2段落に some members produced paintings and sculptures（メンバーの中には絵画や彫刻を制作する人もいた）とあり、絵画や彫刻に作る価値がないと考えていたとは書かれていません。
+4 デザイナーが1種類か2種類の品物だけを作るべきだという話は、本文にありません。
+【覚えるポイント】
+・go back to ～ / return to ～：「～に戻る」。本文と選択肢で、同じ意味の別の語に言いかえられることがあります。
+・本文で the old ways（昔ながらのやり方）のようにぼかした言い方が出てきたら、前の段落でその中身（ここでは by hand）が説明されていないかを探すと手がかりになります。

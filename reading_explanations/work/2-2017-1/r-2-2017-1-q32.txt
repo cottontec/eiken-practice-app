@@ -1,0 +1,31 @@
+---
+choices: are smaller and more easily damaged than athletes' brains. | can be cured of dizziness by scientists researching the brain. | produce more liquid to help them process signals more efficiently. | have developed a different way to process signals sent from their ears.
+answerText: have developed a different way to process signals sent from their ears.
+reviewed: yes
+---
+【正解】4 have developed a different way to process signals sent from their ears.（耳から送られる信号を処理する、ちがうやり方を発達させてきた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：実験から、バレエダンサーの脳は～ということが示された。
+1 are smaller and more easily damaged than athletes' brains.（運動選手の脳より小さく、運動選手の脳より傷つきやすい）
+2 can be cured of dizziness by scientists researching the brain.（脳を研究している科学者によって、目が回るのを治してもらうことができる）
+3 produce more liquid to help them process signals more efficiently.（信号をより効率よく処理するのを助けるために、より多くの液体を作り出す）
+4 have developed a different way to process signals sent from their ears.（耳から送られる信号を処理する、ちがうやり方を発達させてきた）
+【考え方】
+実験からわかったことは、第3段落に書かれています。順に見ていきます。
+・the part of the brain called the cerebellum was much smaller in the ballet dancers than in the athletes（小脳と呼ばれる脳の部分が、運動選手よりもバレエダンサーのほうがずっと小さかった）
+・The cerebellum is the part that processes the signals from the liquid in the ears.（小脳は、耳の中の液体から来る信号を処理する部分だ）
+・This suggested it is possible to avoid dizziness by changing the way the brain processes these signals.（このことは、脳がこれらの信号を処理するやり方を変えることで、目が回るのを避けられる可能性があることを示していた）
+・the ballet dancers' brains had actually developed over the years to make them stronger against dizziness（バレエダンサーの脳は、何年もかけて、目が回ることに対して前より強くなるように発達していた）
+耳からの信号を処理する小脳が、バレエダンサーでは運動選手よりずっと小さかったのです。そして、信号の処理のしかたが変われば目が回るのを避けられること、バレエダンサーの脳は目が回ることに強くなるように発達していたことが書かれています。ここから、バレエダンサーの脳は、耳からの信号をほかの人とはちがうやり方で処理するように発達してきたことが読み取れます。
+本文 the cerebellum ... much smaller ＋ changing the way the brain processes these signals ＋ had actually developed over the years → 読み取れること：have developed a different way to process signals sent from their ears
+よって4が正解です。
+【ほかの選択肢】
+1 本文で「小さい」と書かれているのは、脳全体ではなく小脳という一部分です。また、「傷つきやすい」という話は本文にありません。一部だけ本文と合っている選択肢です。
+2 本文では、バレエダンサーの脳は、何年もかけて自分で発達したと書かれています。科学者が治したのではありません。
+3 本文に、より多くの液体を作り出すという話はありません。本文で注目されているのは、液体の量ではなく、信号を処理する脳のしくみです。
+【覚えるポイント】
+・process：「（情報などを）処理する」。process signals で「信号を処理する」。
+・This suggested ～：「このことは～を示していた」。実験の結果から言えることがこのあとにきます。

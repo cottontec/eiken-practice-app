@@ -1,0 +1,27 @@
+---
+choices: have become | had become | became | becoming
+answerText: have become
+reviewed: yes
+---
+【正解】1 have become（would not have become で「なっていなかっただろう」）
+【和訳】
+（英文）
+If his mother had not encouraged him to cook when he was a boy, Benjamin would probably not ［have become］ a famous chef.
+（訳）
+もし少年のころに母親が料理をするよう勧めてくれていなかったら、ベンジャミンはおそらく有名な料理人に（なって）いなかったでしょう。
+（選択肢の意味）
+1 have become：（would のあとで）なっていた（だろう）
+2 had become：なってしまっていた（過去完了形）
+3 became：なった（過去形）
+4 becoming：なること、なっている（-ing 形）
+【考え方】
+前半の If his mother had not encouraged him to cook（もし母親が彼に料理をするよう勧めていなかったら）に注目します。If のあとが had ＋過去分詞（had not encouraged）の形になっています。
+これは、過去の事実と反対のことを「もし～だったら」と想像する言い方です。実際には母親は料理を勧め、ベンジャミンは有名な料理人になったと考えられます。
+この形では、後半を would ＋ have ＋過去分詞（～していただろう）にします。would のあとには動詞の原形（もとの形）が来るので、would not have become（なっていなかっただろう）となります。ですから、1が正解です。
+【ほかの選択肢】
+2 had become は過去完了形（had ＋過去分詞）です。would のあとには動詞の原形が来るので、would not had become とは言いません。
+3 became は過去形です。would のあとに過去形は置けません。
+4 becoming は -ing 形です。would のあとに -ing 形は置けません。
+【覚えるポイント】
+・If ＋主語＋ had ＋過去分詞 ～, 主語＋ would ＋ have ＋過去分詞 …：「もし（あのとき）～だったら、…していただろう」。過去の事実と反対のことを想像する形です。
+・encourage ～ to …：「～に…するよう勧める、はげます」。

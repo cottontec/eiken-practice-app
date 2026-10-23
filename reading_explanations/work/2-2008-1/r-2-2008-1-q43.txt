@@ -1,0 +1,27 @@
+---
+choices: Special gates open to allow traffic into the bottom level. | Water flows into the upper level from the storage lake. | Moderate storms force people to use the tunnel. | The tunnel is used both for rainwater and traffic.
+answerText: The tunnel is used both for rainwater and traffic.
+reviewed: yes
+---
+【正解】4 The tunnel is used both for rainwater and traffic.（トンネルが、雨水と車の通行の両方に使われる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：SMARTトンネルが2番目のモードにあるときに起こることの1つは何ですか。
+1 Special gates open to allow traffic into the bottom level.（特別な門が開いて、車が一番下の層に入れるようになる。）
+2 Water flows into the upper level from the storage lake.（水が貯水湖から上の層へ流れこむ。）
+3 Moderate storms force people to use the tunnel.（ほどほどの暴風雨のせいで、人々はトンネルを使わざるをえなくなる。）
+4 The tunnel is used both for rainwater and traffic.（トンネルが、雨水と車の通行の両方に使われる。）
+【考え方】
+second mode（2番目のモード）について書かれているのは第3段落です。In the second mode, during moderate storms, the bottom level carries away rainwater while the upper two levels remain open for traffic.（2番目のモードでは、ほどほどの暴風雨の間、一番下の層が雨水を運び去り、その一方で上の2つの層は車の通行のために開いたままになる）とあります。moderate は「ほどほどの、中くらいの」、while はここでは「その一方で、～している間に」、remain open は「開いたままである」です。
+つまり2番目のモードでは、一番下の層は雨水のために、上の2つの層は車のために、同時に使われています。
+本文 the bottom level carries away rainwater（一番下の層が雨水を運び去る）＋ the upper two levels remain open for traffic（上の2つの層は車の通行のために開いたまま）＝ 選択肢 The tunnel is used both for rainwater and traffic（トンネルが雨水と車の通行の両方に使われる）
+正解は4です。
+【ほかの選択肢】
+1 Special gates（特別な門）が開くのは3番目のモードのときで、しかも開くのは水を通すためです。本文には Special gates are then opened so that water can fill the whole tunnel（水がトンネル全体を満たせるように特別な門が開けられる）とあります。モードも目的も違います。
+2 本文では、水は一番下の層から貯水湖へ運ばれます。貯水湖から上の層へ水が流れこむという話はなく、向きも層も違います。
+3 本文に moderate storms（ほどほどの暴風雨）は出てきますが、それが人々にトンネルを使わせるという話はありません。2番目のモードでは上の2つの層が開いたままになる、と書かれているだけです。
+【覚えるポイント】
+・remain open：「開いたままである」。remain ＋状態を表す語 で「～のままである」。
+・both A and B：「AとBの両方」。この選択肢では both for rainwater and traffic となっています。

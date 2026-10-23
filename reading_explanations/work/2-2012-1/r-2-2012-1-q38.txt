@@ -1,0 +1,29 @@
+---
+choices: It helps water to flow through holes in the ship's bottom. | It saves fuel by mixing it with water from the sea. | It uses a pump to remove air from the ship's fuel. | It creates a layer of air on the bottom of the ship.
+answerText: It creates a layer of air on the bottom of the ship.
+reviewed: yes
+---
+【正解】4 It creates a layer of air on the bottom of the ship.（それは、船の底に空気の層を作る。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：空気泡システムはどのように働きますか。
+1 It helps water to flow through holes in the ship's bottom.（それは、船の底の穴を水が流れ抜けるのを助ける。）
+2 It saves fuel by mixing it with water from the sea.（それは、燃料を海水と混ぜることで燃料を節約する。）
+3 It uses a pump to remove air from the ship's fuel.（それは、ポンプを使って船の燃料から空気を取り除く。）
+4 It creates a layer of air on the bottom of the ship.（それは、船の底に空気の層を作る。）
+【考え方】
+設問の air-bubble system（空気泡システム）のしくみは、第2段落で説明されています。
+In this new system, the bottom of the ship has small holes in it, and a pump pushes air through the holes.（この新しいシステムでは、船の底に小さな穴があり、ポンプがその穴から空気を押し出す）とあります。
+続いて This creates bubbles that join together to form a layer.（これによって泡ができ、その泡がくっつき合って層になる）、The layer of air helps the ship to go forward more smoothly, so it needs less fuel.（この空気の層が、船がより滑らかに前へ進むのを助けるので、船に必要な燃料が少なくてすむ）と書かれています。layer は「層（重なった1枚の膜のようなもの）」です。
+船の底の穴から押し出された空気が泡になり、その泡が集まって空気の層ができる、というしくみです。本文と選択肢は次のように対応しています。
+本文 the bottom of the ship has small holes ... a pump pushes air through the holes ... bubbles that join together to form a layer（船の底の穴から空気を押し出し、泡がくっつき合って層になる）＝ 選択肢 It creates a layer of air on the bottom of the ship.（船の底に空気の層を作る）
+正解は4です。
+【ほかの選択肢】
+1 船の底の穴を通るのは、ポンプで押し出される空気です。水を流すのではないので、誤りです。
+2 燃料が節約されるのは、空気の層によって船が滑らかに進むからです。燃料を海水と混ぜるという話は本文にないので、誤りです。
+3 ポンプは空気を穴から押し出すために使われます。燃料から空気を取り除くという話は本文にないので、誤りです。
+【覚えるポイント】
+・layer：「層」。form a layer で「層を作る」。
+・push ～ through ...：「～を…から押し出す、…を通して押し出す」。

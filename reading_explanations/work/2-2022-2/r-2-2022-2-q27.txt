@@ -1,0 +1,33 @@
+---
+choices: It was sent to him without an instruction manual. | It has received some positive online reviews. | He got it from his local Television Depot store. | He chose it because it was in a recent sale.
+answerText: It has received some positive online reviews.
+reviewed: yes
+---
+【正解】2 It has received some positive online reviews.（それはインターネット上でいくつかの好意的な評価を受けている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one thing that Michael Green says about the TV that he bought?（マイケル・グリーンが、自分の買ったテレビについて述べていることの1つは何ですか。）
+1 It was sent to him without an instruction manual.（それは取扱説明書がついていない状態で彼に送られてきた。）
+2 It has received some positive online reviews.（それはインターネット上でいくつかの好意的な評価を受けている。）
+3 He got it from his local Television Depot store.（彼はそれを地元のテレビジョン・デポの店で手に入れた。）
+4 He chose it because it was in a recent sale.（最近のセールの対象だったので、彼はそれを選んだ。）
+【考え方】
+まず見るところ：第1段落の初めの After reading several excellent reviews of the ZX950 LCD TV on the Internet, I purchased one ～
+設問は、買ったテレビについて言っていることの1つをたずねています。買ったときのことは、メールの第1段落の初めに書かれています。
+After reading several excellent reviews of the ZX950 LCD TV on the Internet, I purchased one from your Television Depot online store.（インターネットでZX950液晶テレビのすばらしいレビューをいくつか読んだあと、御社のテレビジョン・デポのオンラインストアで1台購入しました）
+review は「レビュー（商品を使った人が書く評価や感想）」、purchase は「購入する、買う」です。
+本文と選択肢を対にすると、次のようになります。
+本文 several excellent reviews of the ZX950 LCD TV on the Internet（インターネット上の、ZX950液晶テレビについてのいくつかのすばらしいレビュー）
+選択肢 some positive online reviews（インターネット上のいくつかの好意的な評価）
+several（いくつかの）が some に、excellent（すばらしい）が positive（好意的な、よい評価の）に、on the Internet（インターネット上の）が online に言いかえられています。すばらしいレビューは、テレビをよく評価したレビューなので、「好意的な評価」と言えます。2が正解です。
+この問題の型：言いかえ（excellent reviews → positive online reviews）
+【ほかの選択肢】
+1 本文に I was able to set it up successfully by following the TV's instruction manual.（テレビの取扱説明書に従って、問題なく設置できた）とあります。第2段落にも I looked through the instruction manual（取扱説明書にひととおり目を通した）とあり、取扱説明書はついていました。本文と反対の内容です。
+3 本文では from your Television Depot online store（御社のテレビジョン・デポのオンラインストアで）買ったと書かれています。地元の店で買ったのではないので、買った場所が違います。
+4 セールについては、本文に何も書かれていません。本文に書かれているのは、インターネットですばらしいレビューを読んだあとに買ったということです。
+【覚えるポイント】
+・review：「レビュー、（商品などの）評価」。positive review は「好意的な評価」。
+・purchase：「購入する、買う」。buy とほぼ同じ意味です。
+・「～について言っていることの1つ」をたずねる設問では、設問の語句（ここでは the TV that he bought）に関係する部分を本文から探し、そこと選択肢の言いかえを照らし合わせます。

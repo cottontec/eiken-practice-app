@@ -1,0 +1,26 @@
+---
+choices: receive support from the government | rely on modern grocery stores | make donations to their families | recognize the difficulty of farming
+answerText: rely on modern grocery stores
+reviewed: yes
+---
+【正解】2 rely on modern grocery stores（現代の食料品店に頼る）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 receive support from the government（政府から支援を受ける）
+2 rely on modern grocery stores（現代の食料品店に頼る）
+3 make donations to their families（自分の家族に寄付をする）
+4 recognize the difficulty of farming（農業の難しさを認識する）
+【考え方】
+空所は第1段落の Most Inuit communities now (21) instead.（現在、ほとんどのイヌイットの共同体は、その代わりに（21））です。
+まず、空所の前を見ます。イヌイットの人々は traditionally survived by fishing, hunting seals, and gathering small plants to eat（昔から、魚をとり、アザラシを狩り、小さな植物を集めて食べることで生き延びてきた）のですが、global warming has greatly limited their traditional food supply（地球温暖化が伝統的な食料の供給を大きく限ってしまった）とあります。instead（その代わりに）は、「伝統的な方法で食料を得る代わりに」という意味だと分かります。つまり空所には、今の食料の手に入れ方が入ります。
+次に、空所のあとを見ます。However, these communities are far from farms and can only be accessed by airplane.（しかし、こうした共同体は農場から遠く、飛行機でしか行けない）と続き、さらに This results in high shipping costs, which makes the food in stores very expensive.（これが高い輸送費をもたらし、それが店の食べ物をとても高くしている）と書かれています。
+「店の食べ物」が高いことが問題になっているので、人々は今、店で食べ物を買っていると考えられます。rely on ～ は「～に頼る」という意味です。2を入れると「その代わりに現代の食料品店に頼っている。しかし、輸送費のせいで店の食べ物が高い」と、つながりが自然になります。ですから2が正解です。
+【ほかの選択肢】
+1 「政府から支援を受ける」は、本文に書かれていません。また、あとに続くのは店の食べ物が高いという話で、政府の支援の話とはつながりません。
+3 「自分の家族に寄付をする」では、伝統的な食料の代わりにどう食べ物を得ているかの説明になりません。寄付の話は本文にありません。
+4 「農業の難しさを認識する」は、第1段落の growing fruits and vegetables is very difficult（果物や野菜を育てるのはとても難しい）と関係がありそうに見えます。しかし、空所は伝統的な食料の「代わりに」何をしているかを表す部分で、そのあとの「店の食べ物が高い」という話にもつながりません。
+【覚えるポイント】
+・rely on ～：「～に頼る」。depend on ～ とほぼ同じ意味です。
+・instead：「その代わりに」。前に書かれたことの代わりに何をするかを表します。

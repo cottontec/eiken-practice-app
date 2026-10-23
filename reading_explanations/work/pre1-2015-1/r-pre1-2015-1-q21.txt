@@ -1,0 +1,30 @@
+---
+choices: conform | propel | lobby | deflect
+answerText: conform
+reviewed: yes
+---
+【正解】1 conform（〔規則などに〕従う、合わせる）
+【和訳】
+（英文）
+The principal reminded the students that they are expected to ［conform］ to the school rules, which include the wearing of uniforms.
+（訳）
+校長は生徒たちに、学校の規則に（従う）ことが求められていることを、あらためて思い出させた。その規則には、制服を着ることも含まれている。
+（選択肢の意味）
+1 conform：（規則などに）従う、合わせる
+2 propel：～を推進する、前へ押し進める
+3 lobby：（議員などに）働きかける、陳情する
+4 deflect：～の向きをそらす
+【考え方】
+まず見るところ：空所の後ろの to the school rules
+空所のある部分は they are expected to (　) to the school rules（彼らは学校の規則に（　）ことが求められている）です。be expected to ～ は「～することが求められている、～するはずだ」です。
+校長が生徒たちに求めるのは、学校の規則を守ることです。また、空所の後ろが to the school rules になっていることにも注目します。conform to ～ で「～に従う、～に合わせる」という意味になります。ですから1が正解です。
+remind A that ～ は「Aに～ということを思い出させる、あらためて伝える」です。
+which include the wearing of uniforms（その規則には制服を着ることが含まれる）は、the school rules に説明を付け足しています。
+この問題の型：熟語・決まった形（conform to the rules）
+【ほかの選択肢】
+2 propel は「推進する、前へ押し進める」で、後ろに押し進めるもの（人や物）を直接続けます。「学校の規則へ押し進める」では、何を押し進めるのか分からず、意味が通りません。
+3 lobby は「（議員などに）働きかける」です。規則を変えてもらうよう頼むことにはなっても、校長が生徒に求める「規則を守ること」にはなりません。
+4 deflect は「向きをそらす」で、後ろにそらすもの（ボールや批判など）を直接続けます。規則を守らせたい校長の話と合いません。
+【覚えるポイント】
+・conform to ～：「（規則など）に従う、合わせる」。conform to the school rules で「学校の規則に従う」。
+・空所の直後に to ～ があるときは、その to と組み合わせて意味が通る動詞かどうかを確かめることが手がかりになります。

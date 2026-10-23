@@ -1,0 +1,31 @@
+---
+choices: laughter | climate | illness | judgment
+answerText: judgment
+reviewed: yes
+---
+【正解】4 judgment（判断力、判断）
+【和訳】
+（英文）
+Sports referees and umpires must have excellent ［judgment］. They have to be able to make accurate decisions in just a few seconds, often under great pressure.
+（訳）
+スポーツのレフェリーやアンパイア（どちらも審判のこと）は、すぐれた（判断力）を持っていなければなりません。彼らは、多くの場合大きな重圧のもとで、ほんの数秒のうちに正確な判断を下せなければならないのです。
+（選択肢の意味）
+1 laughter：笑い、笑い声
+2 climate：気候
+3 illness：病気
+4 judgment：判断力、判断
+【考え方】
+まず見るところ：うしろの文の make accurate decisions in just a few seconds
+They have to be able to make accurate decisions in just a few seconds, often under great pressure.（彼らは、多くの場合大きな重圧のもとで、ほんの数秒のうちに正確な判断を下せなければならない。）
+make a decision は「決定する、判断を下す」という意味です。審判は短い時間で正しく決めなければならない、と説明しています。
+Sports referees and umpires must have excellent ( ).（スポーツの審判は、すぐれた（　）を持っていなければならない。）
+うしろの文は、前の文の「審判に必要なもの」をくわしく説明しています。すばやく正確に決めるために必要なのは「判断する力」です。
+judgment（判断力）を入れると must have excellent judgment（すぐれた判断力を持っていなければならない）となり、うしろの説明とつながります。ですから4が正解です。
+この問題の型：言いかえ（judgment ＝ make accurate decisions）
+【ほかの選択肢】
+1 laughter は「笑い、笑い声」です。「すぐれた笑いを持っていなければならない」では、正確な判断を下すといううしろの説明とつながりません。
+2 climate は「気候」です。審判が持っているものとして「気候」は合わず、意味が通りません。
+3 illness は「病気」です。「すぐれた病気を持っていなければならない」となり、意味が通りません。
+【覚えるポイント】
+・judgment：「判断力、判断」。動詞の judge（判断する）からできた名詞です。
+・「～を持っていなければならない」のあとに、うしろの文で「～できなければならない」と説明が続くときは、その説明をひと言でまとめた語が空所に入る手がかりになります。

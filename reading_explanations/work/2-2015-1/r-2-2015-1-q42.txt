@@ -1,0 +1,32 @@
+---
+choices: allowed workers to afford new technology such as computers. | caused some shops to close because they could not pay their workers. | caused companies to move factories to places where workers were paid less. | allowed the development of technology that could take the place of workers.
+answerText: caused companies to move factories to places where workers were paid less.
+reviewed: yes
+---
+【正解】3 caused companies to move factories to places where workers were paid less.（企業に、労働者の賃金が〈アメリカより〉低い場所へ工場を移させた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：アメリカの賃金の上昇は、
+1 allowed workers to afford new technology such as computers.（労働者がコンピューターなどの新しい技術を買えるようにした。）
+2 caused some shops to close because they could not pay their workers.（労働者に給料を払えなくなったので、一部の店を閉店させた。）
+3 caused companies to move factories to places where workers were paid less.（企業に、労働者の賃金が（アメリカより）低い場所へ工場を移させた。）
+4 allowed the development of technology that could take the place of workers.（労働者の代わりになりうる技術の開発を可能にした。）
+【考え方】
+rising wages in the U.S.（アメリカの賃金の上昇）は、第2段落4文目に出てきます。wage は「賃金（働いた人に払われるお金）」です。
+The other reason was rising wages in the U.S.（もう1つの理由は、アメリカの賃金の上昇だった）
+These made American workers much more expensive than workers in developing countries such as China.（賃金の上昇によって、アメリカの労働者は、中国などの発展途上国の労働者よりもずっと費用がかかるようになった）
+As a result, many American companies moved their factories abroad to take advantage of the cheaper labor.（その結果、多くのアメリカ企業が、より安い労働力を利用するために、工場を海外へ移した）
+These は rising wages を指しています。take advantage of ～ は「～を利用する」、labor は「労働力（働く人やその働き）」です。賃金が上がった結果、企業は人件費の安い国へ工場を移したのです。
+本文と選択肢は次のように対応しています。
+本文 As a result, many American companies moved their factories abroad ＝ 選択肢 caused companies to move factories
+本文 to take advantage of the cheaper labor（より安い労働力を利用するために）＝ 選択肢 to places where workers were paid less（労働者の賃金がより低い場所へ）
+cause ～ to ... は「～に…させる、～が…する原因になる」という意味です。正解は3です。
+【ほかの選択肢】
+1 本文には、労働者が新しい技術を買えるようになったという話はありません。コンピューターは、製造業が減った「1つ目の理由」として出てくるもので、賃金の上昇とは別の理由です。
+2 店が閉店したという話は本文にありません。賃金の上昇の結果として書かれているのは、工場を海外へ移したことです。
+4 本文で、新しい技術によって必要な労働者が少なくなったと書かれているのは「1つ目の理由」です。賃金の上昇がその技術の開発を可能にしたとは書かれていません。
+【覚えるポイント】
+・cause ～ to ...：「～に…させる、～が…する原因になる」。
+・take advantage of ～：「～を利用する」。

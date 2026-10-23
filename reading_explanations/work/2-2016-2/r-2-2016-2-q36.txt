@@ -1,0 +1,28 @@
+---
+choices: To provide a place for NASA to keep the plants that it will send to space. | To discover what types of poisons are created by artificial materials. | To learn more about the types of plants that can be grown in space. | To find ways to make the air in spaceships safe and clean.
+answerText: To find ways to make the air in spaceships safe and clean.
+reviewed: yes
+---
+【正解】4 To find ways to make the air in spaceships safe and clean.（宇宙船の中の空気を安全できれいにする方法を見つけるため。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ビル・ウォルバートンはなぜバイオホームを作ったのですか。
+1 To provide a place for NASA to keep the plants that it will send to space.（NASAが宇宙に送る植物を置いておく場所を用意するため。）
+2 To discover what types of poisons are created by artificial materials.（人工の材料によってどんな種類の毒が作り出されるかを発見するため。）
+3 To learn more about the types of plants that can be grown in space.（宇宙で育てることのできる植物の種類について、もっとよく知るため。）
+4 To find ways to make the air in spaceships safe and clean.（宇宙船の中の空気を安全できれいにする方法を見つけるため。）
+【考え方】
+設問は「バイオホームを作った理由」です。第3段落に、ウォルバートンがバイオホームを作ったことが書かれています。
+In order to study ways to keep the air in spaceships free from poisons released by modern materials, Wolverton created the BioHome（宇宙船の中の空気を、現代の材料から放出される毒がない状態に保つ方法を研究するために、ウォルバートンはバイオホームを作った）
+In order to ～ は「～するために」と目的を表します。keep A free from B は「AにBが含まれないようにしておく」という意味です。また、第3段落の初めにも、NASAが彼を雇ったのは to study ways to keep the air clean inside spaceships（宇宙船の中の空気をきれいに保つ方法を研究するため）だったと書かれています。
+本文 to study ways to keep the air in spaceships free from poisons ＝ 選択肢 To find ways to make the air in spaceships safe and clean
+free from poisons（毒が含まれない）が safe and clean（安全できれいな）に言いかえられています。ですから、4が正解です。
+【ほかの選択肢】
+1 植物は、バイオホームに入った人の目が痛くなるなどの問題を解決するために、あとから入れられたものです。NASAが宇宙に送る植物を置いておく場所としてバイオホームを作ったとは、書かれていません。
+2 本文の目的は、空気を毒がない状態に保つ「方法」を研究することです。どんな種類の毒が作られるかを発見することが目的だったとは書かれていません。
+3 宇宙で育てられる植物の種類については、本文に書かれていません。本文の植物の話は、空気をきれいにする働きについてです。
+【覚えるポイント】
+・in order to ～：「～するために」。理由をたずねる設問では、目的を表すこの言い方が手がかりになることがあります。
+・keep A free from B：「AにBが含まれないようにしておく」。free from ～ は「～がない」という意味です。

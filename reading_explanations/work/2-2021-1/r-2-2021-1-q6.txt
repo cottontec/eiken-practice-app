@@ -1,0 +1,27 @@
+---
+choices: campaigns | operations | illustrations | minerals
+answerText: minerals
+reviewed: yes
+---
+【正解】4 minerals（ミネラル）
+【和訳】
+（英文）
+Risa buys water that comes from a mountain stream. She says that drinking it is good because it has many ［minerals］ that her body needs.
+（訳）
+リサは、山の小川から取れる水を買っています。その水には体が必要とする（ミネラル）がたくさん含まれているので、飲むと体によいのだと彼女は言っています。
+（選択肢の意味）
+1 campaigns：運動、キャンペーン
+2 operations：手術、操作、作業
+3 illustrations：さし絵、図解
+4 minerals：ミネラル、鉱物
+【考え方】
+空所を含む部分は it has many (　) that her body needs（それは彼女の体が必要とする多くの（　）を持っている）です。it は、リサが買っている mountain stream（山の小川）の水を指しています。
+水の中に含まれていて、体に必要で、飲むと体によいものは何かを考えます。カルシウムやマグネシウムのような、体に必要な栄養の一種である minerals（ミネラル）が当てはまります。
+なお、that her body needs の that は、前の名詞 minerals に「体が必要とする」という説明を付け足す働きをしています（関係代名詞と呼ばれる語です）。
+【ほかの選択肢】
+1 campaigns は「（社会に働きかける）運動、キャンペーン」です。水の中にキャンペーンが入っているわけではなく、意味が通りません。
+2 operations は「手術、（機械の）操作、作業」です。水に含まれていて体が必要とするものではありません。
+3 illustrations は「さし絵、図解」です。水の成分とは関係がありません。
+【覚えるポイント】
+・mineral：「ミネラル、鉱物」。mineral water（ミネラルウォーター）という言葉でもおなじみです。
+・名詞＋that＋主語＋動詞：「（主語）が～する（名詞）」と、名詞に説明を付け足す形です。

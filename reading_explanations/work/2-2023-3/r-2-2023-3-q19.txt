@@ -1,0 +1,32 @@
+---
+choices: much more | much less | less than | more than
+answerText: much less
+reviewed: yes
+---
+【正解】2 much less（まして～はなおさら…ない）
+【和訳】
+（英文）
+A: Mom, can we go to Europe for our vacation this summer?
+B: That would be nice, Vicky. But we don't have enough money this year to go to the beach, ［much less］ overseas.
+（訳）
+A：お母さん、この夏の休みにヨーロッパへ行ける？
+B：それはすてきだね、ビッキー。でも、今年はビーチに行くだけのお金がないんだから、（まして）海外へは（なおさら行けない）よ。
+（選択肢の意味）
+1 much more：ずっと多く（肯定の文のあとで「まして～はなおさら…だ」）
+2 much less：（否定の文のあとで）まして～はなおさら…ない
+3 less than：～より少ない
+4 more than：～より多い
+【考え方】
+まず見るところ：Bの we don't have enough money this year to go to the beach
+we don't have enough money this year to go to the beach（今年はビーチに行くのに十分なお金がない）
+don't があるので、否定の文です。
+そのあとに (　) overseas（海外へ）が続きます。ビーチに行くよりも海外へ行くほうがお金がかかると考えると、「ビーチにも行けないのだから、海外へはなおさら行けない」という流れになると考えられます。
+much less は、否定の文のあとで「まして～はなおさら…ない」という意味を表します。これを入れると、Aの「ヨーロッパへ行ける？」への答えになります。ですから2が正解です。
+この問題の型：熟語・決まった形（否定の文, much less ～）
+【ほかの選択肢】
+1 much more は「ずっと多く」です。肯定の文（否定でない文）のあとで「まして～はなおさら…だ」の意味に使われることもありますが、ここは don't がある否定の文なので、「海外へはなおさら行けない」という意味を表せません。
+3 less than は「～より少ない」です。「ビーチに行くお金がない、海外より少なく」となり、意味がつながりません。
+4 more than は「～より多い」です。「ビーチに行くお金がない、海外より多く」となり、意味がつながりません。
+【覚えるポイント】
+・否定の文, much less ～：「まして～はなおさら…ない」。
+・much less と much more で迷ったら、前の文が否定の文かどうか（not や don't があるか）を確かめると決めやすくなります。

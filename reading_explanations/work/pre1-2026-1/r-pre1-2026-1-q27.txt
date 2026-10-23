@@ -1,0 +1,36 @@
+---
+choices: Even though the Sumer region was attacked and defeated by outside forces, the religious heritage of Uruk was not destroyed. | Uruk borrowed some of its religious architecture and artistic techniques from neighboring cities in Sumer. | The Akkadians had to destroy much of the wall and stone buildings in order to defeat Uruk. | Uruk's decline can be attributed to the fact that neighboring Sumerian cities created alliances with the Akkadians.
+answerText: Even though the Sumer region was attacked and defeated by outside forces, the religious heritage of Uruk was not destroyed.
+reviewed: yes
+---
+【正解】1 Even though the Sumer region was attacked and defeated by outside forces, the religious heritage of Uruk was not destroyed.（シュメール地方は外からの勢力に攻撃されて打ち負かされたが、ウルクの宗教的な遺産は破壊されなかった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Which of the following statements is true, based on the final paragraph?（最後の段落によると、次のうち正しいものはどれか。）
+1 Even though the Sumer region was attacked and defeated by outside forces, the religious heritage of Uruk was not destroyed.（シュメール地方は外からの勢力に攻撃されて打ち負かされたが、ウルクの宗教的な遺産は破壊されなかった。）
+2 Uruk borrowed some of its religious architecture and artistic techniques from neighboring cities in Sumer.（ウルクは、宗教的な建築や芸術の技術の一部を、シュメールの近くの都市から借りた。）
+3 The Akkadians had to destroy much of the wall and stone buildings in order to defeat Uruk.（アッカド人は、ウルクを打ち負かすために、城壁や石造りの建物の多くを破壊しなければならなかった。）
+4 Uruk's decline can be attributed to the fact that neighboring Sumerian cities created alliances with the Akkadians.（ウルクがおとろえたのは、近くのシュメールの都市がアッカド人と同盟（協力の約束）を結んだからだと考えられる。）
+【考え方】
+まず見るところ：第3段落の the Akkadians conquered much of Sumer. Despite this conquest, Uruk's religious districts were respected and protected
+最後の段落（第3段落）では、ウルクがほかの勢力に攻められたあとのことが書かれています。
+Uruk had competed with neighboring Sumerian cities for hundreds of years, leaving them all vulnerable to forces from other regions.（ウルクは何百年もの間、近くのシュメールの都市と競い合っていて、その結果、どの都市もほかの地域からの勢力に対して弱い立場になっていた）
+vulnerable は「（攻撃などに）弱い、傷つきやすい」です。そして実際に、外の勢力に攻められます。
+In the latter half of the third millennium BC, the Akkadians conquered much of Sumer.（紀元前3千年紀の後半に、アッカド人がシュメールの大部分を征服した）
+Despite this conquest, Uruk's religious districts were respected and protected（この征服にもかかわらず、ウルクの宗教的な地区は尊重され、守られた）
+conquer は「（戦って）～を征服する」です。
+本文と選択肢を対にすると、次のようになります。
+本文 the Akkadians conquered much of Sumer（アッカド人がシュメールの大部分を征服した）→ 選択肢 the Sumer region was attacked and defeated by outside forces（シュメール地方は外からの勢力に攻撃されて打ち負かされた）
+本文 Despite this conquest（この征服にもかかわらず）＝ 選択肢 Even though ～（～だけれども）
+本文 Uruk's religious districts were respected and protected（宗教的な地区は尊重され、守られた）→ 選択肢 the religious heritage of Uruk was not destroyed（宗教的な遺産は破壊されなかった）
+アッカド人は、前の文の forces from other regions（ほかの地域からの勢力）にあたると考えられるので、選択肢では outside forces（外からの勢力）と言いかえられています。ですから1が正解です。
+この問題の型：言いかえ（were respected and protected → was not destroyed）／対比（征服された⇔宗教的な地区は守られた）
+【ほかの選択肢】
+2 第3段落には、ウルクが近くの都市から宗教的な建築や芸術の技術を借りたという話は書かれていません。発掘調査で見つかったものとして建物や美術品が挙げられていますが、それはウルクの歴史的な重要性を示すものとして書かれています。
+3 第3段落には、アッカド人が城壁や石造りの建物を破壊したという話は書かれていません。城壁や石造りの建物は、考古学の発掘調査で見つかったものとして出てきます。
+4 第3段落では、ウルクの地位が続かなかった理由として、近くの都市と競い合ったことで、どの都市も弱い立場になったことが書かれています。近くの都市がアッカド人と同盟を結んだ、とは書かれていません。
+【覚えるポイント】
+・conquer：「～を征服する」。Despite ～：「～にもかかわらず」。
+・Despite ～ や Even though ～ のある文は、「～ということがあったのに、…だった」という形になります。本文の Despite ～ が、選択肢では Even though ～ に言いかえられることがあるので、同じ形の文どうしを比べると根拠を見つける手がかりになります。

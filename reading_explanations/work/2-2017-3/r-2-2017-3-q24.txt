@@ -1,0 +1,28 @@
+---
+choices: the amount of time they drive | the number of cars they have | their impact on the environment | their use of electricity
+answerText: their impact on the environment
+reviewed: yes
+---
+【正解】3 their impact on the environment（自分たちが環境に与える影響）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 the amount of time they drive（自分たちが運転する時間の長さ）
+2 the number of cars they have（自分たちが持っている車の数）
+3 their impact on the environment（自分たちが環境に与える影響）
+4 their use of electricity（自分たちの電気の使用）
+【考え方】
+空所は第1段落の However, even people who drive older cars can still do a lot to reduce (24).（しかし、古い車を運転する人々でさえ、（24）を減らすために、それでも多くのことができる）にあります。
+まず、空所の前の内容を確かめます。
+・Most new cars use much less gasoline than they did 20 years ago.（ほとんどの新しい車が使うガソリンは、20年前の車よりずっと少ない）
+・Naturally, these vehicles create less air pollution than older cars.（当然ながら、こうした車が生み出す大気汚染は、古い車より少ない）
+新しい車やハイブリッド車は、古い車より大気汚染が少ない、つまり環境への悪い影響が小さい、という話です。そのあとに However（しかし）が来て、「古い車を運転する人でも（24）を減らすことができる」と続きます。新しい車でなくても、環境への悪い影響を減らせる、という流れだと考えられます。
+空所のあとも確かめます。one of the best actions drivers can take is simply to change the way they drive（運転する人がとれる最もよい行動の1つは、単に運転の仕方を変えることだ）とあり、第2・第3段落では、ガソリンの使用を減らす運転の仕方が説明されています。ガソリンを減らすことは、大気汚染を減らし、環境への影響を減らすことにつながります。their impact on the environment（自分たちが環境に与える影響）を入れると、前後の流れに合います。3が正解です。
+【ほかの選択肢】
+1 「運転する時間の長さ」を減らす話は本文にありません。本文がすすめているのは運転の時間を減らすことではなく、運転の仕方を変えることです。むしろ「よりゆっくり走る」ことがすすめられています。
+2 「持っている車の数」を減らす話は本文にありません。本文の最後には without having to buy a new car（新しい車を買わなくても）とあり、今の車のままで運転の仕方を変えることが話題になっています。
+4 「電気の使用」は、ハイブリッド車がガソリンと電気の両方で走るという話に出てくるだけです。古い車を運転する人がまず減らせるものとして本文で説明されているのは、電気ではなくガソリンの使用です。
+【覚えるポイント】
+・impact on ～：「～への影響」。their impact on the environment で「彼らが環境に与える影響」。
+・However（しかし）のあとは、前の文から予想されることとは違う内容が来ます。ここでは「新しい車でなくても」という流れです。

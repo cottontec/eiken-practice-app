@@ -1,0 +1,29 @@
+---
+choices: setbacks | artifacts | pledges | salutes
+answerText: artifacts
+reviewed: yes
+---
+【正解】2 artifacts（人工遺物、昔の人が作った物）
+【和訳】
+（英文）
+Archaeologists found many ［artifacts］, including pieces of jewelry and pottery, while digging at the ancient burial ground. These will be given to the local history museum.
+（訳）
+考古学者たちは、古代の埋葬地を発掘しているときに、宝飾品や陶器のかけらなど、多くの（人工遺物）を見つけました。これらは地元の歴史博物館に贈られる予定です。
+（選択肢の意味）
+1 setbacks：つまずき、（物事の進み具合の）後退
+2 artifacts：人工遺物（昔の人が作った道具・器などで、遺跡から見つかる物）
+3 pledges：誓い、固い約束
+4 salutes：敬礼、あいさつ
+【考え方】
+まず見るところ：空所のすぐあとの including pieces of jewelry and pottery
+空所のあとに including ～（～を含めて、たとえば～など）があり、空所の語の具体例が示されています。
+including pieces of jewelry and pottery（宝飾品や陶器のかけらを含めて）
+jewelry は「宝飾品（指輪やネックレスなど）」、pottery は「陶器、焼き物」です。どちらも昔の人が作った物です。archaeologists は「考古学者（遺跡を掘って昔の人の暮らしを調べる人）」で、ancient burial ground は「古代の埋葬地（昔の人のお墓があった場所）」です。こうした場所から見つかる、人が作った物を artifacts（人工遺物）と言うので、2が正解です。続く These will be given to the local history museum.（これらは地元の歴史博物館に贈られる予定だ）も、博物館に置ける「物」であることと合っています。
+この問題の型：具体例とまとめ（jewelry, pottery → artifacts）
+【ほかの選択肢】
+1 setbacks は「つまずき、後退」です。「宝飾品や陶器のかけらを含む多くのつまずき」となり意味が通らず、博物館に贈ることもできません。
+3 pledges は「誓い」です。宝飾品や陶器のかけらは誓いの例にならず、意味が通りません。
+4 salutes は「敬礼」です。宝飾品や陶器のかけらは敬礼の例にならず、意味が通りません。
+【覚えるポイント】
+・artifact：「人工遺物、昔の人が作った物」。archaeologist（考古学者）と一緒に出てくることが多い語です。
+・空所のあとに including ～（～を含めて）があるときは、その後ろが空所の語の具体例なので、具体例をまとめて呼ぶ語を選ぶのが手がかりになります。

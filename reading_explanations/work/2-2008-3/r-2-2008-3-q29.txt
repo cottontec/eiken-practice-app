@@ -1,0 +1,25 @@
+---
+choices: colorful | profitable | unusual | international
+answerText: profitable
+reviewed: yes
+---
+【正解】2 profitable（もうかる、利益になる）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 colorful：色あざやかな
+2 profitable：もうかる、利益になる
+3 unusual：めずらしい、ふつうでない
+4 international：国際的な
+【考え方】
+空所は第3段落の In that case, they will have no choice but to plant trees that are more (　).（その場合、彼らはもっと〜な木を植えるしかなくなる）という文にあります。they は前の文の local farmers（地元の農家）です。have no choice but to ～ は「～するしかない」という意味です。
+In that case（その場合）が指すのは、直前の文の if wine producers do not buy cork stoppers, local farmers cannot make money from these trees（もしワイン生産者がコルクのせんを買わなければ、地元の農家はこれらの木からお金をかせぐことができない）という状況です。
+コルクガシでお金がかせげないなら、農家は生活のために、お金になるほかの木を植えるしかありません。第2段落にも、製紙業の原料になる速く育つ木に切り替えた農家のことが書かれていました。profitable は「もうかる、利益になる」という意味なので、trees that are more profitable で「もっともうかる木」となります。正解は2です。
+【ほかの選択肢】
+1 colorful は「色あざやかな」です。お金がかせげないという問題を解決する理由にはならず、前の文とつながりません。
+3 unusual は「めずらしい、ふつうでない」です。農家がめずらしい木を植えなければならない理由は本文に書かれていません。
+4 international は「国際的な」です。木が国際的かどうかは、農家がお金をかせげるかどうかの話と結びつきません。
+【覚えるポイント】
+・have no choice but to ～：「～するしかない」。
+・profitable：「もうかる、利益になる」。profit（利益）からできた語です。

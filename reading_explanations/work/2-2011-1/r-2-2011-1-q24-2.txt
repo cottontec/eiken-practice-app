@@ -1,0 +1,24 @@
+---
+choices: the | by | got | I | time
+answerText: the
+order: 2 1 5 4 3
+reviewed: yes
+---
+【正解】1 the（この問題の2番目）
+【完成文】
+No, I arrived too late. ( By the time I got ) there, she was already gone.
+並べ方：2 by → 1 the → 5 time → 4 I → 3 got（2番目は1、4番目は4）
+【和訳】
+A：きのう、美術展でジャネットと話す機会はあった？
+B：ううん、着くのが遅すぎたんだ。私がそこに着いたときには、彼女はもう帰ってしまっていたよ。
+【考え方】
+空所のあとは there, she was already gone（そこに、彼女はもういなくなっていた）です。カンマのあとに she was already gone という文があるので、空所とその直後の there は「いつのことか」を表す部分だと考えられます。
+選択肢の by, the, time に注目します。by the time ～ は「～するまでには、～したときにはもう」という決まった言い方です。2 by → 1 the → 5 time の順に並べます。
+by the time のあとには「だれが・どうした」が続きます。主語 4 I、動詞 3 got を置き、I got there（私がそこに着いた）とします。get there は「そこに着く」という意味です。
+By the time I got there, she was already gone.（私がそこに着いたときには、彼女はもういなくなっていた）となり、I arrived too late.（着くのが遅すぎた）ともつながります。
+by the I time ～ のように I を the と time の間に入れると、by the time のまとまりがくずれてしまうので注意しましょう。
+2番目に the が来るのは、by the time（～したときにはもう）というまとまりで、by と time の間に the が入るからです。
+したがって2番目は1 theです。
+【覚えるポイント】
+・by the time ～：「～するまでには、～したときにはもう」。
+・be gone：「いなくなっている、なくなっている」。

@@ -1,0 +1,30 @@
+---
+choices: cowardly | mainstream | feeble | dutiful
+answerText: mainstream
+reviewed: yes
+---
+【正解】2 mainstream（主流の、多くの人に好まれている）
+【和訳】
+（英文）
+Most radio stations prefer to play only ［mainstream］ music, as many listeners would rather hear songs that are popular than those by lesser-known artists.
+（訳）
+ほとんどのラジオ局は、（主流の）音楽だけを流すほうを好みます。というのも、多くのリスナーは、あまり知られていないアーティストの曲よりも、人気のある曲を聞きたいと思っているからです。
+（選択肢の意味）
+1 cowardly：臆病な、意気地のない
+2 mainstream：主流の、多くの人に好まれている
+3 feeble：弱々しい、力のない
+4 dutiful：（義務を）忠実に果たす、従順な
+【考え方】
+まず見るところ：文の後半の as many listeners would rather hear songs that are popular
+後半は as（～なので、というのも～だから）で始まり、前半の理由を説明しています。
+as many listeners would rather hear songs that are popular than those by lesser-known artists（というのも、多くのリスナーは、あまり知られていないアーティストの曲よりも、人気のある曲を聞きたいからだ）
+would rather A than B は「BよりもむしろAしたい」という意味です。those は songs（曲）を指し、lesser-known は「あまり知られていない」という意味です。
+リスナーが人気のある曲を聞きたがるので、ラジオ局は人気のある音楽を流したいのです。mainstream は「主流の、多くの人に好まれている」という意味で、songs that are popular（人気のある曲）の言いかえになります。ですから2が正解です。
+この問題の型：言いかえ（mainstream ＝ popular）／因果（as ～：リスナーが人気の曲を好む→ラジオ局は主流の音楽を流す）
+【ほかの選択肢】
+1 cowardly は「臆病な、意気地のない」です。人の性格を表す語で、「臆病な音楽」では意味が通りません。
+3 feeble は「弱々しい、力のない」です。「弱々しい音楽だけを流す」では、「人気のある曲を聞きたい」という理由とつながりません。
+4 dutiful は「（義務を）忠実に果たす、従順な」です。人について使う語で、「従順な音楽」では意味が通りません。
+【覚えるポイント】
+・mainstream：「主流の、多くの人に好まれている」。後半の popular（人気のある）と、lesser-known（あまり知られていない）との対比から意味をつかめます。
+・as ～ で理由が付け足されているときは、理由の中の語（ここでは popular）が空所の語の言いかえになっていないかを探すと手がかりになります。

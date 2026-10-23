@@ -1,0 +1,28 @@
+---
+choices: explorer | competitor | spectator | philosopher
+answerText: philosopher
+reviewed: yes
+---
+【正解】4 philosopher（哲学者）
+【和訳】
+（英文）
+Socrates was a great ［philosopher］ who lived in ancient Greece. Even today, many people study the wise things that he said.
+（訳）
+ソクラテスは、古代ギリシャに生きた偉大な（哲学者）でした。今日でも、多くの人々が彼の言った賢い言葉を学んでいます。
+（選択肢の意味）
+1 explorer：探検家
+2 competitor：競争相手、競技に出る人
+3 spectator：観客、見物人
+4 philosopher：哲学者
+【考え方】
+あとの文に注目します。
+Even today, many people study the wise things that he said.（今日でも、多くの人々が彼の言った賢いことを学んでいる）
+ソクラテスが言った wise things（賢いこと）が今も学ばれていることから、ソクラテスは深い考えを言葉で残した人だと分かります。
+philosopher は「哲学者」です。哲学者とは、生き方や物事の正しさなどについて深く考える人のことです。「古代ギリシャに生きた偉大な哲学者」となり、あとの文の「賢い言葉が今も学ばれている」という内容とつながります。4が正解です。
+【ほかの選択肢】
+1 explorer は「探検家（まだ知られていない土地を調べに行く人）」です。「偉大な探検家」としても、あとの文は彼が行った場所ではなく、彼が言った賢いことが今も学ばれているという内容なので、つながりません。
+2 competitor は「競争相手、競技に出る人」です。言った言葉が今も学ばれている理由の説明になりません。
+3 spectator は「観客、見物人」です。試合などを見る人のことで、「偉大な観客」では、賢い言葉が今も学ばれているという内容とつながりません。
+【覚えるポイント】
+・philosopher：「哲学者」。philosophy（哲学）を研究する人です。
+・-er / -or は「～する人」を表すことが多い語尾です。explorer（探検する人）、competitor（競争する人）、spectator（見る人）も同じ仲間です。

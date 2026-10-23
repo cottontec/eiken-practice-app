@@ -1,0 +1,26 @@
+---
+choices: instead of | thanks to | missed by | apart from
+answerText: thanks to
+reviewed: yes
+---
+【正解】2 thanks to（～のおかげで）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 instead of：～の代わりに
+2 thanks to：～のおかげで
+3 missed by：～に見落とされて
+4 apart from：～は別として、～を除いて
+【考え方】
+空所は第2段落の Recently, however, new methods for doing this have become available (　) scientists who have gathered DNA samples from different breeds. にあります。
+前半は「しかし最近、これを行う新しい方法が利用できるようになった」です。doing this は、直前の文の learn about their dog's background（犬の血筋について知ること）を指します。後半の scientists who have gathered DNA samples from different breeds は「さまざまな犬種からDNAのサンプルを集めてきた科学者たち」です。who 以下は scientists を説明しています。
+では、新しい方法が使えるようになったことと、DNAを集めた科学者たちは、どんな関係でしょうか。続く文を読むと、新しい方法とは、犬のDNAを38や134の犬種のDNAと比べる検査です。比べるためには、もとになるいろいろな犬種のDNAが必要です。それを集めたのが科学者たちなので、「科学者たちのおかげで新しい方法が使えるようになった」とつながります。
+thanks to ～ は「～のおかげで」と、よい結果の原因を示す言葉です。正解は2です。
+【ほかの選択肢】
+1 instead of は「～の代わりに」です。「科学者たちの代わりに方法が利用できるようになった」となり、方法と科学者を取りかえる意味になってしまうので合いません。
+3 missed by は「～に見落とされて」です。科学者たちはDNAを集めて方法を作り出した側なので、「科学者たちに見落とされて」は内容と反対です。
+4 apart from は「～は別として、～を除いて」です。「科学者たちは別として方法が利用できるようになった」となり、科学者たちがDNAを集めたことと新しい方法の結びつきが表せません。
+【覚えるポイント】
+・thanks to ～：「～のおかげで」。よい結果をもたらした原因を表します。
+・become available：「利用できるようになる、手に入るようになる」。

@@ -1,0 +1,36 @@
+---
+choices: Universities on the European continent were considered so superior to English ones that there was little demand for new universities in England. | England had far fewer universities than the rest of Europe because graduates were prohibited from teaching at new educational institutions. | The reputations of England's two universities were so well established that other universities in Europe were unable to compete with them. | Charles Morton's establishment of an educational institution in London had a significant effect on the way the public viewed education.
+answerText: England had far fewer universities than the rest of Europe because graduates were prohibited from teaching at new educational institutions.
+reviewed: yes
+---
+【正解】2 England had far fewer universities than the rest of Europe because graduates were prohibited from teaching at new educational institutions.（卒業生が新しい教育機関で教えることを禁じられていたため、イングランドの大学はヨーロッパのほかの地域よりもはるかに少なかった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What was true of England between the fourteenth and nineteenth centuries?（14世紀から19世紀までの間のイングランドについて、正しいものはどれか。）
+1 Universities on the European continent were considered so superior to English ones that there was little demand for new universities in England.（ヨーロッパ大陸の大学はイングランドの大学よりとても優れていると考えられていたので、イングランドでは新しい大学を求める声がほとんどなかった。）
+2 England had far fewer universities than the rest of Europe because graduates were prohibited from teaching at new educational institutions.（卒業生が新しい教育機関で教えることを禁じられていたため、イングランドの大学はヨーロッパのほかの地域よりもはるかに少なかった。）
+3 The reputations of England's two universities were so well established that other universities in Europe were unable to compete with them.（イングランドの2つの大学の評判はとても確立していたので、ヨーロッパのほかの大学はそれらと競争することができなかった。）
+4 Charles Morton's establishment of an educational institution in London had a significant effect on the way the public viewed education.（チャールズ・モートンがロンドンに教育機関を設立したことは、一般の人々の教育に対する見方に大きな影響を与えた。）
+【考え方】
+まず見るところ：第1段落の more than 100 universities と only two universities、そして This was because of the "Stamford Oath,"
+第1段落の初めで、大学の数が比べられています。
+Between the fourteenth and nineteenth centuries, more than 100 universities were founded or reestablished on the European continent.（14世紀から19世紀までの間に、ヨーロッパ大陸では100を超える大学が創設されたり、再建されたりした）
+In England, however, only two universities, Oxford and Cambridge, existed until the 1820s.（しかしイングランドでは、1820年代まで、オックスフォードとケンブリッジの2つの大学しか存在しなかった）
+次に、その理由が書かれています。
+This was because of the "Stamford Oath," enacted in 1334 by King Edward III, which made all graduates of Oxford and Cambridge swear they would not pass on the knowledge they had acquired to students outside of the two existing institutions.（これは、1334年に国王エドワード3世が定めた「スタンフォードの誓い」のためだった。この誓いは、オックスフォードとケンブリッジのすべての卒業生に、自分が身につけた知識を、既存の2つの教育機関の外にいる学生には伝えないと誓わせるものだった）
+oath は「誓い」、swear は「誓う」、pass on は「（ほかの人に）伝える」です。
+本文と選択肢を対にすると、次のようになります。
+本文 more than 100 universities（大陸で100を超える大学）⇔ only two universities（イングランドは2つだけ）→ 選択肢 far fewer universities than the rest of Europe（ヨーロッパのほかの地域よりはるかに少ない大学）
+本文 swear they would not pass on the knowledge ～ to students outside of the two existing institutions（2つの教育機関の外の学生には知識を伝えないと誓う）→ 選択肢 graduates were prohibited from teaching at new educational institutions（卒業生は新しい教育機関で教えることを禁じられていた）
+本文 This was because of ～（これは～のためだった）＝ 選択肢 because（～ため）
+ですから2が正解です。
+この問題の型：因果（誓い → 大学が2つしかない）／言いかえ（not pass on the knowledge ～ → prohibited from teaching）
+【ほかの選択肢】
+1 本文には、大陸の大学がイングランドの大学より優れていると考えられていたという話も、新しい大学を求める声がなかったという話もありません。大学が少なかった理由は、スタンフォードの誓いだと書かれています。
+3 本文には、イングランドの2つの大学の評判が高く、ヨーロッパのほかの大学が競争できなかった、という話はありません。
+4 本文では、モートンはロンドンに学校を作ったことで罪に問われ、何度も逮捕されて北アメリカへ移住したと書かれています。それが一般の人々の教育に対する見方に大きな影響を与えた、とは書かれていません。
+【覚えるポイント】
+・pass on ～：「～を（ほかの人に）伝える」。be prohibited from ～ing は「～することを禁じられる」。
+・本文に This was because of ～（これは～のためだった）があるときは、その前の事実（大学が少ない）と後ろの理由（誓い）をセットで押さえると、「理由つき」の選択肢を見分ける手がかりになります。

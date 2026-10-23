@@ -1,0 +1,28 @@
+---
+choices: was surprised to find an area with no wind. | took part in a race through the horse latitudes. | crashed into some garbage during an ocean race in Hawaii. | found an area of the Pacific Ocean with a lot of plastic in it.
+answerText: found an area of the Pacific Ocean with a lot of plastic in it.
+reviewed: yes
+---
+【正解】4 found an area of the Pacific Ocean with a lot of plastic in it.（プラスチックがたくさんある太平洋の海域を見つけた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：1997年に、チャールズ・ムーアは（　　）。
+1 was surprised to find an area with no wind.（風のない海域を見つけて驚いた）
+2 took part in a race through the horse latitudes.（ホース・ラティテューズを通るレースに参加した）
+3 crashed into some garbage during an ocean race in Hawaii.（ハワイでの海のレース中にごみにぶつかった）
+4 found an area of the Pacific Ocean with a lot of plastic in it.（プラスチックがたくさんある太平洋の海域を見つけた）
+【考え方】
+設問の In 1997 を手がかりに本文をさがすと、第1段落に出てきます。
+2文目に In 1997, after taking part in a race in Hawaii, he decided to visit an area in the northern Pacific Ocean known as the "horse latitudes."（1997年、ハワイでのレースに参加したあと、彼は「ホース・ラティテューズ」として知られる北太平洋の海域を訪れることにした）とあります。
+4文目と5文目に When Moore got there, he was shocked to find that for miles the water was full of small pieces of plastic. He had discovered what people now call the Great Pacific Garbage Patch.（ムーアがそこに着いたとき、何マイルにもわたって海水が小さなプラスチックのかけらでいっぱいなのを見てショックを受けた。彼は、今では太平洋ごみベルトと呼ばれているものを発見したのだった）と続きます。本文と選択肢は次のように対応しています。
+本文 he was shocked to find that for miles the water was full of small pieces of plastic（何マイルにもわたって海水がプラスチックのかけらでいっぱいなのを見つけた）＝ 選択肢 found an area of the Pacific Ocean with a lot of plastic in it（プラスチックがたくさんある太平洋の海域を見つけた）
+正解は4です。
+【ほかの選択肢】
+1 ホース・ラティテューズには almost no wind（ほとんど風がない）と書かれていますが、ムーアがショックを受けたのは、海がプラスチックでいっぱいだったからです。風がないことに驚いたのではないので、驚いた理由がちがいます。また本文は「ほとんど風がない」で、「まったく風がない」ではありません。
+2 ムーアが参加したレースは a race in Hawaii（ハワイでのレース）で、ホース・ラティテューズはそのレースのあとに自分で訪れた場所です。レースがホース・ラティテューズを通っていたとは書かれていないので、誤りです。
+3 レース中にごみにぶつかったという話は本文にありません。ごみ（プラスチック）を見つけたのはレースのあとに訪れた海域です。
+【覚えるポイント】
+・be full of ～：「～でいっぱいである」。
+・after ～ing：「～したあとで」。after taking part in a race で「レースに参加したあとで」。

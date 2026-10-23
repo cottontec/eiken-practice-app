@@ -1,0 +1,31 @@
+---
+choices: large from | size from | the large of | the size of
+answerText: the size of
+reviewed: yes
+---
+【正解】4 the size of（～の大きさ）
+【和訳】
+（英文）
+Ms. Misawa is very rich and lives in a huge house. Her kitchen is four times ［the size of］ other people's kitchens.
+（訳）
+ミサワさんはとてもお金持ちで、巨大な家に住んでいます。彼女の台所は、ほかの人たちの台所の4倍の（大きさ）です。
+（選択肢の意味）
+1 large from：大きい＋～から（この形では使いません）
+2 size from：大きさ＋～から（この形では使いません）
+3 the large of：the＋大きい＋～の（この形では使いません）
+4 the size of：～の大きさ
+【考え方】
+まず見るところ：空所の前の four times
+空所の前後は次のとおりです。four times は「4倍」という意味です。
+Her kitchen is four times (　) other people's kitchens.（彼女の台所は、ほかの人たちの台所の4倍（　）だ）
+ミサワさんの台所の大きさを、ほかの人たちの台所と比べています。
+「～の何倍の大きさ」を表すときは、倍数＋the size of ～ という形を使います。four times the size of other people's kitchens で「ほかの人たちの台所の4倍の大きさ」となります。1文目の lives in a huge house（巨大な家に住んでいる）とも内容が合うので、4が正解です。
+同じ意味は、four times as large as other people's kitchens（ほかの人たちの台所の4倍大きい）と表すこともできます。
+この問題の型：熟語・決まった形（倍数＋the size of ～）
+【ほかの選択肢】
+1 large from は、large（大きい）のあとに from（～から）を続けています。倍数を使って大きさを比べるときに large from という形は使わないので、正しい英文になりません。
+2 size from は、size（大きさ）のあとに from を続けています。「～の大きさ」を表すには of が必要で、from では正しい英文になりません。
+3 the large of は、the のあとに large を置いています。large は「大きい」という様子を表す語で、「大きさ」という意味の名詞としては使えないので、正しい英文になりません。
+【覚えるポイント】
+・倍数＋the size of ～：「～の…倍の大きさ」。倍数＋as large as ～ も「～の…倍大きい」という意味です。
+・空所の前に four times のような倍数があるときは、the size of ～ や as ～ as の形が入る手がかりになります。

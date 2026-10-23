@@ -1,0 +1,33 @@
+---
+choices: diversion | maneuver | urgency | contempt
+answerText: urgency
+reviewed: yes
+---
+【正解】3 urgency（緊急（急いで対応しなければならないこと））
+【和訳】
+（英文）
+A: Can we discuss that problem next week?
+B: No, I'm sorry. It's a matter of great ［urgency］, so I need to have your answer today.
+（訳）
+A：その問題について、来週話し合えますか。
+B：いいえ、すみません。とても急を要する問題なので、今日、あなたの答えをもらう必要があります。
+（選択肢の意味）
+1 diversion：気をそらすもの、気晴らし、（道路の）迂回
+2 maneuver：策略、巧みな動き
+3 urgency：緊急（急いで対応しなければならないこと）
+4 contempt：軽べつ（ばかにすること）
+【考え方】
+まず見るところ：Bの発言の後半の so I need to have your answer today
+A: Can we discuss that problem next week?（その問題について、来週話し合えますか）
+B: No, I'm sorry.（いいえ、すみません）
+Aは話し合いを来週にのばしたいと言っていますが、Bはそれを断っています。
+It's a matter of great ( ), so I need to have your answer today.（それはとても（　）の問題なので、今日、あなたの答えをもらう必要があります）
+so は「だから」という意味で、前に理由、後ろに結果が来ます。「今日答えが必要だ」という結果の理由になるのは、その問題が急いで対応しなければならないものだということです。a matter of great urgency で「とても急を要する問題」となるので、3が正解です。
+この問題の型：因果（急を要する問題だ→だから今日答えが必要）
+【ほかの選択肢】
+1 diversion は「気をそらすもの、気晴らし」です。「とても気晴らしの問題なので、今日答えが必要」となり、理由になりません。
+2 maneuver は「策略、巧みな動き」です。「とても策略の問題なので」となり、来週まで待てない理由として意味が通りません。
+4 contempt は「軽べつ（ばかにすること）」です。「とても軽べつの問題なので」となり、今日答えが必要な理由になりません。
+【覚えるポイント】
+・a matter of great urgency：「とても急を要する問題」。a matter of ～ は「～の問題、～に関わる事柄」という意味です。
+・空所のあとに so ～（だから～）が続くときは、so の後ろの結果（ここでは今日答えが必要）を説明できる理由になる語かどうかを確かめることが手がかりになります。

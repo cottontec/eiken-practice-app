@@ -1,0 +1,33 @@
+---
+choices: The ground is perfect for camping. | The staff working there is helpful. | It is located near public transportation. | It is popular among schoolchildren.
+answerText: It is located near public transportation.
+reviewed: yes
+---
+【正解】3 It is located near public transportation.（公共の交通機関の近くにある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one reason Matthew Watts is interested in the facility?（マシュー・ワッツがその施設に関心を持っている理由の1つは何ですか。）
+1 The ground is perfect for camping.（グラウンドがキャンプにぴったりである。）
+2 The staff working there is helpful.（そこで働く職員が親切で役に立つ。）
+3 It is located near public transportation.（公共の交通機関の近くにある。）
+4 It is popular among schoolchildren.（学校の子どもたちの間で人気がある。）
+【考え方】
+まず見るところ：第1段落の Also, your facility is appealing because it is easy to access from several train stations.
+マシューがこの施設に関心を持った理由は、第1段落に書かれています。1つ目は、同僚にすすめられたことです。
+One of my coworkers recommended your facility and suggested I contact you.（同僚の1人がそちらの施設をすすめてくれて、あなたに連絡してはどうかと提案してくれた）
+2つ目の理由は、Also（また）で始まる文にあります。
+Also, your facility is appealing because it is easy to access from several train stations.（また、そちらの施設は、いくつかの駅から行きやすいので、魅力的だ）
+appealing は「魅力的な」、easy to access from ～ は「～から行きやすい」という意味です。
+本文と選択肢を対にすると、次のようになります。
+本文 it is easy to access from several train stations（いくつかの駅から行きやすい）→ 言いかえると 選択肢 It is located near public transportation（公共の交通機関の近くにある）
+本文の train stations（駅）が、選択肢では public transportation（電車やバスなどの公共の交通機関）と、より広い言葉で言いかえられています。ですから3が正解です。
+この問題の型：言いかえ（easy to access from several train stations → near public transportation）
+【ほかの選択肢】
+1 キャンプの話は本文にありません。マシューがグラウンドを使いたいのは、athletic event（運動会）のためです。
+2 施設の職員が親切だとは、本文に書かれていません。本文の staff（職員）は、Our school ～ we have enough teachers and staff（私たちの学校には教師と職員も十分にいる）という、マシューの学校の職員のことです。
+4 学校の子どもたちの間で人気があるとは、書かれていません。本文にあるのは、同僚が以前に勤めていた学校の行事で、グラウンドの1つを使ったことがある、ということだけです。
+【覚えるポイント】
+・appealing：「魅力的な」。easy to access from ～ は「～から行きやすい」です。
+・設問に one reason（理由の1つ）とあるときは、本文の Also（また）などで加えられる理由も確かめましょう。本文の具体的な語（train stations）が、選択肢では広い言葉（public transportation）に言いかえられることがあります。

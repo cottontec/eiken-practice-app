@@ -1,0 +1,29 @@
+---
+choices: expertise | prejudice | surplus | fraction
+answerText: expertise
+reviewed: yes
+---
+【正解】1 expertise（専門知識、専門的な技術）
+【和訳】
+（英文）
+A: I've never written a formal contract before.
+B: Neither have I. Let's speak to Jolene in the legal department. Her ［expertise］ should be helpful.
+（訳）
+A：正式な契約書を書いたことは、これまで一度もないんです。
+B：私もありません。法務部のジョリーンに相談しましょう。彼女の（専門知識）がきっと役に立つはずです。
+（選択肢の意味）
+1 expertise：専門知識、専門的な技術
+2 prejudice：偏見（かたよった見方）
+3 surplus：余り、余剰
+4 fraction：一部分、わずか、分数
+【考え方】
+Aは I've never written a formal contract before.（正式な契約書を書いたことが一度もない）と言っています。contract は「契約書（約束ごとを正式に書いた文書）」です。
+Bは Neither have I.（私もない）と答え、Let's speak to Jolene in the legal department.（法務部のジョリーンに相談しよう）と提案します。legal department（法務部）は、会社の中で法律や契約に関わる仕事をする部署です。
+契約書を書いたことがない二人が、法律にくわしい部署の人に相談するのは、その人の「専門的な知識」を借りたいからです。Her ( ) should be helpful.（彼女の〇〇は役に立つはずだ）の空所には expertise（専門知識）が入ります。よって1が正解です。
+【ほかの選択肢】
+2 prejudice は「偏見（根拠のない、かたよった見方）」という意味です。偏見が役に立つ、では意味が通りません。
+3 surplus は「余り、余剰（必要な量を超えた分）」という意味です。契約書の書き方を教わりたい場面で、彼女の「余り」が役に立つ、では意味が通りません。
+4 fraction は「一部分、ほんのわずか」や「分数」という意味です。「彼女の一部分が役に立つ」では、何を言いたいのか分かりません。
+【覚えるポイント】
+・expertise：「専門知識、専門的な技術」。expert（専門家）と関係のある語です。
+・Neither have I.：否定の文に対して「私も～ない」と答える言い方です。

@@ -1,0 +1,29 @@
+---
+choices: The stones were too large to lift with wooden cranes. | There is no evidence that the Egyptians could make cranes. | Most wood used for cranes was being sold to foreign countries. | Cranes could not have been placed near the top of the pyramid.
+answerText: Cranes could not have been placed near the top of the pyramid.
+reviewed: yes
+---
+【正解】4 Cranes could not have been placed near the top of the pyramid.（クレーンをピラミッドの頂上近くに置くことはできなかったはずだ。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：木製クレーン説の問題点の1つは何ですか。
+1 The stones were too large to lift with wooden cranes.（石が大きすぎて、木製のクレーンで持ち上げられなかった。）
+2 There is no evidence that the Egyptians could make cranes.（エジプト人がクレーンを作れたという証拠がない。）
+3 Most wood used for cranes was being sold to foreign countries.（クレーンに使われる木材のほとんどは外国に売られていた。）
+4 Cranes could not have been placed near the top of the pyramid.（クレーンをピラミッドの頂上近くに置くことはできなかったはずだ。）
+【考え方】
+木製クレーン説の問題点は、第2段落に there are two problems with this theory（この説には2つの問題がある）として書かれています。
+1つめは、the first is that Egypt did not have enough forests to supply the wood（エジプトには木材を供給できるだけの森林がなかった）こと、そして importing the wood from abroad would have been too expensive（外国から木材を輸入するのは費用がかかりすぎただろう）ということです。
+2つめは、The second is that the stones near the top of the pyramid would have been too small for the cranes to stand on.（2つめは、ピラミッドの頂上近くの石は、クレーンがその上に立つには小さすぎただろうということだ）です。
+この説では、クレーンはピラミッドの上のさまざまな高さに置かれたことになっています。しかし頂上近くの石が小さすぎるなら、そこにクレーンを置くことはできません。本文と選択肢は次のように対応しています。
+本文 the stones near the top of the pyramid would have been too small for the cranes to stand on（頂上近くの石はクレーンが立つには小さすぎただろう）＝ 選択肢 Cranes could not have been placed near the top of the pyramid（クレーンを頂上近くに置くことはできなかったはずだ）
+could not have been ～ed は「～されることはできなかったはずだ」と、過去について「ありえなかった」と考えるときの言い方です。正解は4です。
+【ほかの選択肢】
+1 本文で「小さすぎた」とされているのは、頂上近くの石です。石が「大きすぎて持ち上げられなかった」とは書かれていないので、内容が反対です。
+2 本文には Ancient Egyptian paintings do show wooden machines like cranes（古代エジプトの絵には、確かにクレーンのような木製の機械がえがかれている）とあります。クレーンのような機械があった手がかりはあるので、「証拠がない」とは言えません。
+3 本文の問題は、エジプトに木材が足りず、輸入すると高すぎたということです。木材が外国に売られていたという話はなく、木材の動く向きも反対です。
+【覚えるポイント】
+・too ～ for … to ―：「…が―するには～すぎる」。too small for the cranes to stand on で「クレーンが上に立つには小さすぎる」。
+・could not have been ～ed：「～されることはありえなかったはずだ」と、過去のことを推し量る言い方です。

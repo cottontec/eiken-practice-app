@@ -1,0 +1,34 @@
+---
+choices: The two units were combined so that land and air raids could be performed at the same time. | The similar nature of their operations led to competition between the two units and their unwillingness to assist each other. | The LRDG used its knowledge of the desert to help the SAS improve both the effectiveness and safety of its missions. | The involvement of the SAS in LRDG missions made it more difficult for the LRDG to stay behind enemy lines for long periods of time.
+answerText: The LRDG used its knowledge of the desert to help the SAS improve both the effectiveness and safety of its missions.
+reviewed: yes
+---
+【正解】3 The LRDG used its knowledge of the desert to help the SAS improve both the effectiveness and safety of its missions.（LRDGは砂漠についての知識を使って、SASが任務の効果と安全性の両方を高めるのを助けた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Which of the following best describes the relationship between the LRDG and the Special Air Service (SAS)?（LRDGと特殊空挺部隊〈SAS〉の関係を最もよく表しているのはどれか。）
+1 The two units were combined so that land and air raids could be performed at the same time.（陸からの襲撃と空からの襲撃を同時に行えるように、2つの部隊は1つにまとめられた。）
+2 The similar nature of their operations led to competition between the two units and their unwillingness to assist each other.（活動の性質が似ていたことから、2つの部隊は競い合い、互いに助け合おうとしなくなった。）
+3 The LRDG used its knowledge of the desert to help the SAS improve both the effectiveness and safety of its missions.（LRDGは砂漠についての知識を使って、SASが任務の効果と安全性の両方を高めるのを助けた。）
+4 The involvement of the SAS in LRDG missions made it more difficult for the LRDG to stay behind enemy lines for long periods of time.（SASがLRDGの任務に加わったことで、LRDGは敵の前線の後方に長い間とどまることがより難しくなった。）
+【考え方】
+まず見るところ：第4段落の because of its men's extensive knowledge of the desert, the LRDG was given the responsibility of bringing the SAS ～ と、そのあとの This almost certainly helped the SAS ～
+because of its men's extensive knowledge of the desert, the LRDG was given the responsibility of bringing the SAS to and from all future targets by land, providing both transportation and navigation.（隊員たちが砂漠について幅広い知識をもっていたことから、LRDGは、それ以降のすべての攻撃目標へSASを陸路で送り迎えする役目を任され、移動手段と道案内の両方を提供した）
+navigation は「道案内（目的地までの道すじを示すこと）」です。LRDGは砂漠の知識を生かして、SASを運び、道案内をしました。
+This almost certainly helped the SAS accomplish its raids with greater success and fewer casualties.（このことが、SASがより大きな成功を収め、より少ない死傷者で襲撃をなしとげる助けになったのは、ほぼ確実である）
+casualties は「死傷者（死んだりけがをしたりした人）」です。
+本文と選択肢3を対にすると、次のようになります。
+・本文 its men's extensive knowledge of the desert → 選択肢 its knowledge of the desert（砂漠についての知識）
+・本文 helped the SAS accomplish its raids with greater success → 選択肢 help the SAS improve the effectiveness（効果を高めるのを助けた）
+・本文 with fewer casualties → 選択肢 improve the safety（安全性を高める）
+よって3が正解です。
+この問題の型：言いかえ（greater success → effectiveness、fewer casualties → safety）
+【ほかの選択肢】
+1 本文に書かれていません。LRDGはSASを陸路で送り迎えしましたが、2つの部隊が1つにまとめられたとは書かれていません。陸と空からの襲撃を同時に行ったという話も出てきません。
+2 本文の内容と合いません。LRDGは、SASの生き残った隊員を連れ帰る救出作戦を成功させ、その後もSASを送り迎えしています。「互いに助け合おうとしなくなった」は、この内容と食い違います。
+4 本文に書かれていません。SASが加わったことで、LRDGが敵の前線の後方に長くとどまりにくくなったという話は出てきません。
+【覚えるポイント】
+・casualties：「死傷者」。navigation：「道案内」。extensive：「幅広い」。
+・本文の with greater success and fewer casualties（より大きな成功と、より少ない死傷者で）のような2つの結果は、選択肢で effectiveness（効果）と safety（安全性）のように別の名詞で言いかえられることが多いので、1つずつ対応させて確かめます。

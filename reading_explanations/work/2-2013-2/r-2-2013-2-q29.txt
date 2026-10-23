@@ -1,0 +1,26 @@
+---
+choices: habits | spaces | hours | contracts
+answerText: habits
+reviewed: yes
+---
+【正解】1 habits（習慣、くせ）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 habits：習慣、くせ
+2 spaces：空間、場所
+3 hours：時間、（働く）時間帯
+4 contracts：契約
+【考え方】
+空所は第3段落の According to some experts, a better idea is for us to change our working (　).（何人かの専門家によると、よりよい考えは、私たちが働く（　）を変えることだ）にあります。
+では、専門家は何を変えるべきだと言っているのでしょうか。あとの文に具体的な例があります。Instead of sending an e-mail to someone in the same office, we should go and talk to them.（同じ職場の人にEメールを送る代わりに、その人のところへ行って話すべきだ）、We should also hold meetings while standing up or moving around.（立ったり動き回ったりしながら会議を開くべきだ）とあります。
+どちらも、Eメールの代わりに話しに行く、立ったり動き回ったりしながら会議を開く、というように、ふだんの働き方のやり方を変える話です。そして In this way, people can get more exercise even when they are working.（このようにすれば、働いているときでもより多く運動できる）とまとめています。
+habits は「習慣、くせ（いつもくり返しているやり方）」なので、working habits で「働き方の習慣」となり、例の内容と合います。正解は1です。
+【ほかの選択肢】
+2 spaces は「空間、場所」です。working spaces なら「仕事場」になりますが、あとの例はメールの代わりに話しに行く、立って会議をするなど、行動のしかたを変える話で、仕事場そのものを変える話ではありません。
+3 hours は「時間」です。working hours（勤務時間）を変える話なら、働く時間の長さや時間帯を変える例が来るはずですが、本文にはそのような例はありません。
+4 contracts は「契約」です。working contracts（雇用の契約）を変える話は本文になく、運動を増やすという話ともつながりません。
+【覚えるポイント】
+・working habits：「働き方の習慣」。
+・instead of ～ing：「～する代わりに」。

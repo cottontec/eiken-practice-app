@@ -1,0 +1,32 @@
+---
+choices: For a fresh start | On a specific occasion | In case of emergency | As a general rule
+answerText: As a general rule
+reviewed: yes
+---
+【正解】4 As a general rule（一般的には、原則として）
+【和訳】
+（英文）
+［As a general rule］, people should drink eight glasses of water a day to stay healthy. However, some people may need more or less than this.
+（訳）
+（一般的には）、健康でいるために、人は1日にコップ8杯の水を飲むべきです。しかし、人によっては、これよりも多く、あるいは少なく必要なこともあるかもしれません。
+（選択肢の意味）
+1 For a fresh start：新たなスタートのために
+2 On a specific occasion：ある特定の場合に
+3 In case of emergency：緊急の場合には
+4 As a general rule：一般的には、原則として
+【考え方】
+まず見るところ：2文目の However, some people may need more or less than this.
+1文目は、健康のために1日に飲むとよい水の量を述べています。
+people should drink eight glasses of water a day to stay healthy（健康でいるために、人は1日にコップ8杯の水を飲むべきだ）
+2文目は However（しかし）で始まっています。
+However, some people may need more or less than this.（しかし、人によっては、これよりも多く、あるいは少なく必要なこともあるかもしれない）
+this は「コップ8杯」を指しています。「8杯より多い人も少ない人もいる」と言っているので、1文目の「8杯」は、だれにでもぴったり当てはまる量ではなく、おおよその目安だと分かります。
+As a general rule は「一般的には、原則として」という意味です。「一般的には8杯飲むべきだが、人によってちがうこともある」となり、However の前後がうまくつながります。ですから4が正解です。
+この問題の型：対比（As a general rule ⇔ However, some people）
+【ほかの選択肢】
+1 For a fresh start は「新たなスタートのために」です。毎日の水の量の話に「新たなスタート」は関係がなく、2文目の「人によってちがう」ともつながりません。
+2 On a specific occasion は「ある特定の場合に」です。1文目は毎日の a day（1日に）の話で、特定の場合だけの話ではないので合いません。
+3 In case of emergency は「緊急の場合には」です。健康でいるために毎日飲む水の量は、緊急のときの話ではありません。
+【覚えるポイント】
+・As a general rule：「一般的には、原則として」。
+・空所のあとの文が However, some people ～（しかし、～な人もいる）と続くときは、前の文が「ふつうは、一般的には」という内容になっていることが多いので、それを表す語句を選ぶ手がかりになります。

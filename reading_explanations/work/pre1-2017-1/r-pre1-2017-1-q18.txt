@@ -1,0 +1,34 @@
+---
+choices: clumsy | rigid | nosy | sober
+answerText: clumsy
+reviewed: yes
+---
+【正解】1 clumsy（そそっかしい、不器用な）
+【和訳】
+（英文）
+A: Mom, I knocked the vase off the table and broke it. Sorry!
+B: Jenny, you're so ［clumsy］! That's the second thing you've broken this week.
+（訳）
+A：お母さん、テーブルから花びんを落として割っちゃった。ごめんなさい！
+B：ジェニー、あなたは本当に（そそっかしい）ね！今週壊した物は、これで2つ目だよ。
+（選択肢の意味）
+1 clumsy：そそっかしい、不器用な（よく物を落としたりぶつけたりする）
+2 rigid：かたい、頑固な
+3 nosy：詮索好きな（他人のことに首をつっこみたがる）
+4 sober：しらふの、まじめな
+【考え方】
+まず見るところ：Aの knocked the vase off the table と、Bの the second thing you've broken this week
+Aは次のように言っています。
+I knocked the vase off the table and broke it.（テーブルから花びんを落として割ってしまった）
+knock A off B は「A（物）をたたいたりぶつけたりして B から落とす」という意味です。
+Bは続けてこう言っています。
+That's the second thing you've broken this week.（今週壊した物は、これで2つ目だ）
+うっかり物を落として壊すことが、今週だけで2回目だと分かります。こうした人の様子を表す語は clumsy（そそっかしい、不器用な）なので、1が正解です。
+この問題の型：語の意味・組み合わせ（物を落として壊す→clumsy）
+【ほかの選択肢】
+2 rigid は「かたい、頑固な」です。花びんを割ったことや、物をよく壊すことと結びつきません。
+3 nosy は「詮索好きな（他人のことに首をつっこみたがる）」です。物を壊すこととは関係のない性質です。
+4 sober は「しらふの（お酒に酔っていない）、まじめな」です。物をよく壊す子どもに言う言葉として合いません。
+【覚えるポイント】
+・clumsy：「そそっかしい、不器用な」。
+・You're so ( )! のように人の性質を言う文では、その直後の文（ここでは「今週壊した物は2つ目だ」）が、その性質の証拠になっていることが多いので、そこから語を選ぶと手がかりになります。

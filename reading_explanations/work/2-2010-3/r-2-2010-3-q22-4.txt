@@ -1,0 +1,22 @@
+---
+choices: I'm | goes | saying | without | that
+answerText: that
+order: 2 4 3 5 1
+reviewed: yes
+---
+【正解】5 that（この問題の4番目）
+【完成文】
+I don't think it's been so bad. I'm from Alaska, so it ( goes without saying that I'm ) used to cold weather.
+並べ方：2 goes → 4 without → 3 saying → 5 that → 1 I'm（2番目は4、4番目は5）
+【和訳】
+A：ジェレミー、今年の東京の冬は本当に寒いよね？
+B：そんなにひどくはないと思うよ。アラスカの出身だから、寒い天気に慣れているのは言うまでもないんだ。
+【考え方】
+Bは「今年の冬はそんなにひどくない」と言い、その理由として I'm from Alaska（アラスカの出身だ）と述べています。寒さに慣れているという内容が続くと考えられます。
+空所の前の it と、選択肢の goes、without、saying から、it goes without saying that ～（～は言うまでもない）という決まった言い方を作ります。it のあとに 2 goes → 4 without → 3 saying と並べるので、ここまでで3番目まで決まります。
+4番目には、「言うまでもない」内容を導く 5 that が入ります。that のあとには、主語と動詞のそろった文の形が続きます。そこで 1 I'm を置き、空所のあとの used to cold weather とつなげて I'm used to cold weather（私は寒い天気に慣れている）とします。
+したがって4番目は5 that です。
+会話では that を省いて saying I'm … と言うこともありますが、この問題では5つの語句をすべて使うので、that は saying と I'm の間に置きます。
+【覚えるポイント】
+・it goes without saying that ～：「～は言うまでもない」。that のあとに、言うまでもない内容を文の形で続けます。
+・be used to ～：「～に慣れている」。

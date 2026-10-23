@@ -1,0 +1,34 @@
+---
+choices: pacified | restored | daunted | tackled
+answerText: daunted
+reviewed: yes
+---
+【正解】3 daunted（おじけづかされた、ひるまされた）
+【和訳】
+（英文）
+At first, Mick was ［daunted］ by the idea of going to live abroad by himself. Once he did it, however, it was less difficult than he had feared.
+（訳）
+最初、ミックは一人で外国に住みに行くという考えに（おじけづいていた）。しかし、いったんやってみると、それは恐れていたよりも難しくなかった。
+（選択肢の意味）
+1 pacified：なだめられた、落ち着かされた
+2 restored：元どおりにされた、回復された
+3 daunted：おじけづかされた、ひるまされた
+4 tackled：取り組まれた、（スポーツで）タックルされた
+【考え方】
+まず見るところ：あとの文の however と than he had feared
+最初に、空所のある文の形を確かめます。
+At first, Mick was ( ) by the idea of going to live abroad by himself.（最初、ミックは一人で外国に住みに行くという考えに（　））
+was ( ) by ～ は「～によって（　）された」という受け身（「～される」という形）です。At first（最初は）とあるので、このあとに「でも、あとでは違った」という話が続くと予想できます。
+次に、あとの文を見ます。
+Once he did it, however, it was less difficult than he had feared.（しかし、いったんやってみると、それは恐れていたよりも難しくなかった）
+however（しかし）は、前と後ろを対比（2つを比べてちがいを示すこと）させる語です。than he had feared（彼が恐れていたよりも）から、ミックは最初、一人で外国に住むことを恐れていたと分かります。
+daunt は「（人を）おじけづかせる、ひるませる」という意味で、be daunted by ～ で「～にひるむ、おじけづく」となります。「最初は不安でひるんでいた⇔やってみると思ったほど難しくなかった」という対比になるので、3が正解です。
+この問題の型：対比（however：最初はひるんでいた⇔やってみると恐れていたより難しくなかった）
+【ほかの選択肢】
+1 pacified は「なだめられた、落ち着かされた」です。「その考えに落ち着かされた」だと、最初から安心していたことになり、あとの文の than he had feared（恐れていたより）と合いません。
+2 restored は「元どおりにされた、回復された」です。「ミックはその考えによって元どおりにされた」では意味が通りません。
+4 tackled は「取り組まれた」「タックルされた」です。tackle（取り組む）の後ろには問題や仕事が来るので、「ミックがその考えに取り組まれた」となり、意味が通りません。
+【覚えるポイント】
+・be daunted by ～：「～にひるむ、おじけづく」。
+・less difficult than he had feared：「恐れていたよりも難しくない」。
+・At first（最初は）で始まり、あとに however が続く文では、「最初の気持ち」と「あとの結果」が反対になっていることが多いので、あとの文の気持ちを表す語（ここでは feared）が手がかりになります。

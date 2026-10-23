@@ -1,0 +1,29 @@
+---
+choices: will be | to be | had been | are being
+answerText: will be
+reviewed: yes
+---
+【正解】1 will be（〔未来に〕いるだろう）
+【和訳】
+（英文）
+A: I can't believe it. By this time tomorrow, we ［will be］ in Rome.
+B: Yes, I know. I'm really looking forward to getting there.
+（訳）
+A：信じられない。明日の今ごろには、私たちはローマに（いる）よ。
+B：うん、そうだね。そこに着くのが本当に楽しみだよ。
+（選択肢の意味）
+1 will be：（未来に）いるだろう
+2 to be：いること（to のついた形）
+3 had been：（過去のある時より前から）いた
+4 are being：（今）～であるようにふるまっている
+【考え方】
+空所の前の By this time tomorrow（明日の今ごろまでには）に注目します。tomorrow（明日）とあるので、これは未来のことです。
+Bも I'm really looking forward to getting there.（そこに着くのが本当に楽しみだ）と答えています。2人はまだローマに着いておらず、これから着くと分かります。
+未来のことを表すには will を使います。we will be in Rome で「私たちはローマにいるだろう」となるので、1が正解です。
+【ほかの選択肢】
+2 to be は「to＋動詞の元の形」で、これだけでは文の動詞の働きができません。we to be in Rome では文になりません。
+3 had been は過去完了形（過去のある時点までに～していた、という形）です。明日という未来の話には合いません。
+4 are being は be動詞の進行形で、「（今だけ）～のようにふるまっている」という意味になります。明日の今ごろという未来の話にも、ローマにいるという場所の話にも合いません。
+【覚えるポイント】
+・by this time tomorrow：「明日の今ごろ（まで）には」。未来の話なので will を使います。
+・look forward to ～ing：「～するのを楽しみにする」。to のあとは ～ing の形になります。

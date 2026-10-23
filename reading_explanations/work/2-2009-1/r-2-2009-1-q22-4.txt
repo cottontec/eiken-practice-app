@@ -1,0 +1,23 @@
+---
+choices: a | more | with | time | little
+answerText: more
+order: 3 1 5 2 4
+reviewed: yes
+---
+【正解】2 more（この問題の4番目）
+【完成文】
+Yeah. ( With a little more time ), I could have done a better job on it.
+並べ方：3 with → 1 a → 5 little → 2 more → 4 time（2番目は1、4番目は2）
+【和訳】
+A：バーンズ先生が、エッセイ（作文）を仕上げるのにあと数日多くくれていたらよかったのにな。
+B：うん。もう少し時間があれば、もっとよく書けたのにね。
+【考え方】
+空所のあとは I could have done a better job on it（私はそれをもっとうまくやれただろうに）です。could have ＋ 過去分詞 は「（実際にはしなかったが）～できただろうに」という意味で、実際とはちがうことを想像して言う形です。Aも I wish Mr. Burns had given us a few more days（先生がもう何日かくれていたらよかったのに）と、実際とはちがう願いを言っています。
+そこで空所は「もし～があれば」という条件を表すと考えます。with ～ は文の初めに置くと「～があれば」という条件の意味を表すことができます。最初に 3 with を置きます。
+with のあとには「何があれば」を表す名詞のまとまりがきます。a little は「少し」、more は「もっと多くの」です。a little more time で「もう少し多くの時間」となります。a と little はこの順番で a little とし、そのあとに more、最後に名詞の time を置きます。
+With a little more time（もう少し時間があれば）とすると、Aの「もう何日か欲しかった」という話ともつながります。
+little a more time や a more little time のように並べると、a little more（もう少し多くの）の決まった形がくずれてしまうので注意しましょう。
+したがって4番目は2 moreです。
+【覚えるポイント】
+・With ～, ...：「～があれば…」。文の初めの with が条件を表すことがあります。
+・a little more ＋ 名詞：「もう少し多くの～」。

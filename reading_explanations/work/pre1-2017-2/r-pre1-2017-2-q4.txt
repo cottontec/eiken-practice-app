@@ -1,0 +1,31 @@
+---
+choices: diploma | orbit | capital | faculty
+answerText: diploma
+reviewed: yes
+---
+【正解】1 diploma（卒業証書）
+【和訳】
+（英文）
+Mark received his university ［diploma］ two months after graduation. He framed it and hung it on the wall of his room.
+（訳）
+マークは、卒業の2か月後に大学の（卒業証書）を受け取った。彼はそれを額に入れて、自分の部屋の壁にかけた。
+（選択肢の意味）
+1 diploma：卒業証書
+2 orbit：（天体などの）軌道
+3 capital：首都、資本（もとになるお金）
+4 faculty：（大学の）学部、教員たち
+【考え方】
+まず見るところ：あとの文の He framed it and hung it on the wall
+He framed it and hung it on the wall of his room.（彼はそれを額に入れて、自分の部屋の壁にかけた）
+frame は「額に入れる」という意味です。it（それ）は、前の文でマークが受け取った「大学の（　）」を指しています。
+ですから、空所には「卒業のあとに受け取り、額に入れて壁にかけられるもの」が入ります。
+次に、前の文の two months after graduation（卒業の2か月後）を見ます。卒業と関係があり、紙でできていて額に入れて飾れるものは、卒業証書です。
+diploma は「卒業証書」なので、1が正解です。
+この問題の型：指示語（it が空所の名詞を指す）／語の意味・組み合わせ（university diploma）
+【ほかの選択肢】
+2 orbit は「（星や人工衛星が回る）軌道」です。大学の軌道を受け取って額に入れる、では意味が通りません。
+3 capital は「首都」や「資本（商売のもとになるお金）」です。どちらも、受け取って額に入れて壁にかけるものではありません。
+4 faculty は「（大学の）学部」や「（大学の）教員たち」です。university faculty という言い方はありますが、学部や教員を受け取って額に入れることはできないので、合いません。
+【覚えるポイント】
+・diploma：「卒業証書」。
+・空所のあとの文に it などの指示語があるときは、それが空所の語を指していないかを確かめ、「その物に何をしたか」（ここでは額に入れて壁にかけた）を手がかりにするとよいです。

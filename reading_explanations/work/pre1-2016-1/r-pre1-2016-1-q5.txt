@@ -1,0 +1,33 @@
+---
+choices: wreck | forsake | prevail | ascertain
+answerText: ascertain
+reviewed: yes
+---
+【正解】4 ascertain（確かめる、突き止める）
+【和訳】
+（英文）
+Based on their calculations, the scientists were able to ［ascertain］ that the asteroid traveling through space would miss Earth by over 100,000 kilometers.
+（訳）
+計算にもとづいて、科学者たちは、宇宙を進んでいるその小惑星が、10万キロメートル以上の差で地球に当たらずにそれることを（確かめる）ことができた。
+（選択肢の意味）
+1 wreck：壊す、難破させる
+2 forsake：見捨てる
+3 prevail：広く行きわたる；勝つ
+4 ascertain：確かめる、突き止める
+【考え方】
+まず見るところ：文の初めの Based on their calculations と、空所のあとの that ～
+文の初めは、次のようになっています。
+Based on their calculations（計算にもとづいて）
+科学者たちが計算をして、何かを明らかにした場面だと分かります。
+空所のあとには、that で始まる内容が続いています。
+that the asteroid traveling through space would miss Earth by over 100,000 kilometers（宇宙を進んでいるその小惑星が、10万キロメートル以上の差で地球に当たらずにそれるということ）
+asteroid は「小惑星」、miss は「当たらずにそれる」です。計算によって「小惑星が地球に当たらない」という事実を確かめた、という流れになります。
+ascertain は「（調べて）確かめる、突き止める」という意味で、ascertain that ～ で「～ということを確かめる」となります。ですから4が正解です。
+この問題の型：語の意味・組み合わせ（計算にもとづいて that ～ を確かめる）
+【ほかの選択肢】
+1 wreck は「壊す、難破させる」です。「小惑星が地球に当たらないということを壊すことができた」となり、意味が通りません。
+2 forsake は「見捨てる」です。計算にもとづいて「～ということを見捨てる」では、科学者が計算で明らかにした話になりません。
+3 prevail は「広く行きわたる、勝つ」です。科学者が計算で何かを明らかにするという意味にはならず、あとの that ～ ともつながりません。
+【覚えるポイント】
+・ascertain that ～：「～ということを確かめる、突き止める」。
+・Based on their calculations（計算にもとづいて）のように、調べた方法が文の初めに書かれているときは、「確かめる、明らかにする」という意味の動詞が入る手がかりになります。

@@ -1,0 +1,27 @@
+---
+choices: luckily | commonly | politely | silently
+answerText: politely
+reviewed: yes
+---
+【正解】3 politely（礼儀正しく、ていねいに）
+【和訳】
+（英文）
+Carrie wants her children to speak more ［politely］, so she often reminds them to say "please" and "thank you" to other people.
+（訳）
+キャリーは子どもたちにもっと（礼儀正しく）話してほしいと思っているので、ほかの人に「お願いします（please）」や「ありがとう（thank you）」と言うよう、よく子どもたちに念を押しています。
+（選択肢の意味）
+1 luckily：幸運にも
+2 commonly：一般に、よく
+3 politely：礼儀正しく、ていねいに
+4 silently：黙って、静かに
+【考え方】
+空所は speak more (　)（もっと（　）話す）の部分です。どんな話し方をしてほしいのかを、文の後半から考えます。
+後半は so she often reminds them to say "please" and "thank you" to other people（だから彼女は、ほかの人に please や thank you と言うよう、よく子どもたちに念を押している）です。remind ＋人＋ to ～ は「（人）に～することを思い出させる、念を押す」という意味です。
+please や thank you は、相手を大切にするていねいな言葉です。こうした言葉を言うよう念を押すのは、子どもたちに礼儀正しく話してほしいからだと分かります。so（だから）の前後が「理由→そのためにしていること」の関係になるので、politely（礼儀正しく）を入れると文がつながります。ですから3が正解です。
+【ほかの選択肢】
+1 luckily は「幸運にも、運よく」です。「もっと運よく話してほしい」では意味が通らず、please や thank you を言わせる理由にもなりません。
+2 commonly は「一般に、よく（ありふれて）」です。「もっと一般に話してほしい」では何を望んでいるのか分からず、ていねいな言葉を教えていることとつながりません。
+4 silently は「黙って、静かに」です。「もっと黙って話す」は話すことと合わないうえ、please や thank you と声に出して言うよう念を押していることとも反対になります。
+【覚えるポイント】
+・politely：「礼儀正しく、ていねいに」。形容詞は polite（礼儀正しい）、反対の意味は rudely（失礼に）です。
+・remind ＋人＋ to ～：「（人）に～するよう念を押す、思い出させる」。

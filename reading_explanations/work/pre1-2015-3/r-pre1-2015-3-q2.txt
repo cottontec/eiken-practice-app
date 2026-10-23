@@ -1,0 +1,29 @@
+---
+choices: weary | subjective | residential | affectionate
+answerText: residential
+reviewed: yes
+---
+【正解】3 residential（住宅の、居住用の）
+【和訳】
+（英文）
+The real estate agent specializes in selling ［residential］ properties. She particularly enjoys helping young couples purchase their first home.
+（訳）
+その不動産業者は、（住宅用の）物件を売ることを専門にしている。彼女は特に、若い夫婦が初めての家を買う手伝いをするのを楽しんでいる。
+（選択肢の意味）
+1 weary：疲れ果てた、うんざりした
+2 subjective：主観的な（自分の感じ方にもとづく）
+3 residential：住宅の、居住用の
+4 affectionate：愛情のこもった、優しい
+【考え方】
+まず見るところ：空所のある文の次の文の helping young couples purchase their first home
+最初の文の real estate agent は「不動産業者（土地や建物の売り買いの仲立ちをする人）」、properties は「物件（売り買いされる土地や建物）」です。空所には、どんな物件なのかを説明する語が入ります。
+She particularly enjoys helping young couples purchase their first home.（彼女は特に、若い夫婦が初めての家を買う手伝いをするのを楽しんでいる）
+次の文から、この人は人が住むための「家」を売っていることが分かります。residential は「住宅の、人が住むための」という意味で、residential properties は「住宅用の物件」です。次の文の内容と合うので、3が正解です。
+この問題の型：語の意味・組み合わせ（residential properties）
+【ほかの選択肢】
+1 weary は「疲れ果てた」です。「疲れ果てた物件」となり、建物や土地を説明する語として意味が通りません。
+2 subjective は「主観的な（その人の感じ方にもとづく）」です。「主観的な物件」となり、意味が通りません。
+4 affectionate は「愛情のこもった、優しい」で、ふつう人や態度を説明する語です。「優しい物件」となり、意味が通りません。
+【覚えるポイント】
+・residential：「住宅の、居住用の」。residential properties で「住宅用の物件」です。
+・空所のある文だけで決めにくいときは、次の文の具体的な内容（ここでは their first home）が、どんな種類の物かを教えてくれる手がかりになります。

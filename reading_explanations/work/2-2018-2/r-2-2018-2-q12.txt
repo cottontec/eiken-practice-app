@@ -1,0 +1,27 @@
+---
+choices: demand | common | advance | detail
+answerText: demand
+reviewed: yes
+---
+【正解】1 demand（in demand で「需要がある、求められている」）
+【和訳】
+（英文）
+Air conditioners were in ［demand］ last summer because of the very hot temperatures.
+（訳）
+昨年の夏は、気温がとても高かったため、エアコンは（よく求められていました）。
+（選択肢の意味）
+1 demand：需要、要求
+2 common：共通の、ふつうの
+3 advance：前進、進歩
+4 detail：細かい点、詳細
+【考え方】
+空所の前の in と組み合わせて、どんな意味になるかを考える問題です。
+文の後半の because of the very hot temperatures（とても高い気温のために）が手がかりです。because of ～ は「～のために、～が原因で」という意味です。とても暑い夏には、多くの人がエアコンを欲しがったり、使いたがったりすると考えられます。
+demand は「需要（ある物を欲しいと思う人の気持ちや量）」という意味で、be in demand で「需要がある、よく求められている」となります。Air conditioners were in demand で「エアコンがよく求められていた」となり、暑さが原因だという後半とつながります。ですから、1が正解です。
+【ほかの選択肢】
+2 common は「共通の、ふつうの」です。in common は have ～ in common（～を共通に持っている）の形で使い、「エアコンが共通していた」では何と何が共通なのかもなく、意味が通りません。
+3 advance は「前進、進歩」で、in advance は「前もって、事前に」という意味です。「エアコンは前もってだった」となり、文として成り立ちません。
+4 detail は「細かい点、詳細」で、in detail は「詳しく」という意味です。「エアコンは詳しくだった」となり、意味が通りません。
+【覚えるポイント】
+・be in demand：「需要がある、よく求められている」。
+・in ＋名詞の決まった言い方：in advance（前もって）、in detail（詳しく）、in common（共通して）もまとめて覚えましょう。

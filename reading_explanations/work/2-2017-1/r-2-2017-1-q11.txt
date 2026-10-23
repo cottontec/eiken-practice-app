@@ -1,0 +1,27 @@
+---
+choices: wrap | dig | catch | reach
+answerText: catch
+reviewed: yes
+---
+【正解】3 catch（catch one's breath で「息を整える、ひと息つく」）
+【和訳】
+（英文）
+After winning the 1,500-meter race, Edgar could not talk to the journalists immediately. It took him a few moments to ［catch］ his breath first.
+（訳）
+1,500メートル走で優勝したあと、エドガーはすぐには記者たちと話すことができませんでした。彼は、まず息を（整える）のに少し時間がかかったのです。
+（選択肢の意味）
+1 wrap：包む
+2 dig：掘る
+3 catch：つかまえる（catch one's breath で「息を整える」）
+4 reach：届く、たどり着く
+【考え方】
+最初の文に、エドガーは1,500メートル走に勝ったあと could not talk to the journalists immediately（すぐには記者と話せなかった）とあります。次の文は、その理由を説明しています。
+It took him a few moments to (　) his breath first.（彼はまず息を（　）するのに少し時間がかかった）という文です。It takes ＋人＋時間＋ to ～ は「人が～するのに（時間が）かかる」という形です。
+1,500メートルを走ったばかりなので、息が切れていたと考えられます。息が苦しいままでは話せないので、まず呼吸を落ち着かせる必要があります。catch one's breath は「息を整える、ひと息つく」という決まった言い方です。catch his breath で「（エドガーが）息を整える」となるので、3が正解です。
+【ほかの選択肢】
+1 wrap は「包む」です。「息を包む」という言い方はなく、意味が通りません。
+2 dig は「掘る」です。「息を掘る」となり、意味が通りません。
+4 reach は「届く、たどり着く」です。reach his breath という言い方はしません。すぐに話せなかった理由の説明にもなりません。
+【覚えるポイント】
+・catch one's breath：「息を整える、ひと息つく」。走ったあとなどによく使います。
+・It takes ＋人＋時間＋ to ～：「人が～するのに（時間が）かかる」。

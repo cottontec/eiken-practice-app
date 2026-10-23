@@ -1,0 +1,34 @@
+---
+choices: The US government acknowledged that its immigration authorities had failed to adequately investigate the Marielitos upon their arrival. | Media reports gave the impression that the Marielitos were responsible for Miami’s growing crime problem. | Many of the Marielitos began doing things that were not considered crimes in Cuba but that were illegal in the United States. | Miami’s previous Cuban immigrants distanced themselves from the Marielitos after some of them claimed to support Castro.
+answerText: Media reports gave the impression that the Marielitos were responsible for Miami’s growing crime problem.
+reviewed: yes
+---
+【正解】2 Media reports gave the impression that the Marielitos were responsible for Miami’s growing crime problem.（メディアの報道が、マイアミで増えている犯罪の問題はマリエリートスのせいだという印象を与えた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one reason US public opinion of the newly arrived “Marielitos” changed?（新しくやって来た「マリエリートス」に対するアメリカの世論が変わった理由の1つは何か。）
+1 The US government acknowledged that its immigration authorities had failed to adequately investigate the Marielitos upon their arrival.（アメリカ政府が、移民を担当する当局がマリエリートスの到着時に十分に調べなかったことを認めた。）
+2 Media reports gave the impression that the Marielitos were responsible for Miami’s growing crime problem.（メディアの報道が、マイアミで増えている犯罪の問題はマリエリートスのせいだという印象を与えた。）
+3 Many of the Marielitos began doing things that were not considered crimes in Cuba but that were illegal in the United States.（マリエリートスの多くが、キューバでは犯罪とされていなかったが、アメリカでは違法である行為をし始めた。）
+4 Miami’s previous Cuban immigrants distanced themselves from the Marielitos after some of them claimed to support Castro.（マリエリートスの一部がカストロを支持すると言ったあと、以前からマイアミにいたキューバ系移民たちは、マリエリートスと距離を置いた。）
+【考え方】
+まず見るところ：第2段落の The media was quick to exaggerate this, implying the Marielitos were causing huge increases in Miami’s murder, robbery, and assault rates.
+第2段落の最初の文で、世論が変わったことが分かります。
+The Cuban “Marielitos” were granted immediate refugee status and were viewed favorably by Americans until some were identified as criminals.（キューバ人の「マリエリートス」は、すぐに難民としての資格を認められ、その一部が犯罪者だと分かるまでは、アメリカ人から好意的に見られていた）
+favorably は「好意的に」、until ～ は「～するまでは」です。つまり、一部が犯罪者だと分かってから、見方が変わったということです。次の文で、メディアの伝え方が書かれています。
+The media was quick to exaggerate this, implying the Marielitos were causing huge increases in Miami’s murder, robbery, and assault rates.（メディアはすぐにこのことを大げさに伝え、マリエリートスがマイアミの殺人、強盗、暴行の発生率を大きく増やしているかのようにほのめかした）
+exaggerate は「大げさに言う」、imply は「ほのめかす（はっきり言わずに、それとなく示す）」です。
+本文と選択肢を対にすると、次のようになります。
+本文 The media ～ implying（メディアが～とほのめかした）＝ 選択肢 Media reports gave the impression（メディアの報道が～という印象を与えた）
+本文 the Marielitos were causing huge increases in Miami’s murder, robbery, and assault rates（マリエリートスがマイアミの殺人、強盗、暴行の発生率を大きく増やしている）＝ 選択肢 the Marielitos were responsible for Miami’s growing crime problem（マイアミで増えている犯罪の問題はマリエリートスのせいだ）
+実際には、犯罪が増えたのは主にコロンビアのギャングの麻薬に関係する活動のためでした。それでも、マリエリートスは犯罪者だという固定観念が広まりました。ですから2が正解です。
+この問題の型：言いかえ（implying ＝ gave the impression）
+【ほかの選択肢】
+1 本文に書かれていません。アメリカ政府が、到着したマリエリートスを十分に調べなかったと認めたという話は出てきません。本文で、受刑者などを送り出したと明らかにしたのはカストロです。
+3 本文の内容と合いません。本文にあるのは、仕事がないことや政府を批判したことのように、ほかのほとんどの国では犯罪ではないことのために、キューバで刑務所に入れられていたという話です。「キューバでは犯罪でなく、アメリカでは違法なこと」をし始めたという話ではありません。
+4 本文に書かれていません。以前からいたキューバ系移民がマリエリートスと距離を置いたという話や、マリエリートスがカストロを支持すると言ったという話は出てきません。本文では、犯罪者だという固定観念がキューバ系移民の社会全体にまで及んだと述べられています。
+【覚えるポイント】
+・imply：「ほのめかす（それとなく示す）」。選択肢の give the impression（印象を与える）は、その言いかえとしてよく使われます。
+・「世論が変わった理由」をたずねる設問では、until ～（～するまでは）のような、変わる前と後の境目を示す言葉のあとを読むと手がかりになります。

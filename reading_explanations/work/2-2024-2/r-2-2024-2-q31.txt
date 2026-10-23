@@ -1,0 +1,34 @@
+---
+choices: Bonobos almost never yawn when they are with bonobos from other families. | All experiments involving bonobos were conducted by the Democratic Republic of the Congo. | Bonobos live peacefully in groups that have no strong leaders. | Chimpanzees help others even when such actions will not benefit themselves.
+answerText: Bonobos live peacefully in groups that have no strong leaders.
+reviewed: yes
+---
+【正解】3 Bonobos live peacefully in groups that have no strong leaders.（ボノボは、強いリーダーのいない集団で平和に暮らしている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Which of the following statements is true?（次の記述のうち、正しいものはどれですか。）
+1 Bonobos almost never yawn when they are with bonobos from other families.（ボノボは、ほかの家族のボノボといっしょにいるときには、ほとんどあくびをしない。）
+2 All experiments involving bonobos were conducted by the Democratic Republic of the Congo.（ボノボに関わる実験はすべて、コンゴ民主共和国によって行われた。）
+3 Bonobos live peacefully in groups that have no strong leaders.（ボノボは、強いリーダーのいない集団で平和に暮らしている。）
+4 Chimpanzees help others even when such actions will not benefit themselves.（チンパンジーは、そうした行動が自分の得にならないときでも、ほかの者を助ける。）
+【考え方】
+まず見るところ：第4段落の Bonobos live in large groups where there is no clear leadership. と Bonobos, however, live in peace ～
+本文全体の内容から正しいものを選ぶ設問です。選択肢3の「リーダーのいない集団」「平和に暮らす」は、第4段落の内容です。
+Bonobos live in large groups where there is no clear leadership.（ボノボは、はっきりとしたリーダーのいない大きな集団で暮らしている）
+Bonobos, however, live in peace and work together more because of how their groups are set up（一方ボノボは、集団のしくみのおかげで、平和に暮らし、〔チンパンジーより〕よく協力し合う）
+チンパンジーの集団では大きくて強いオスがリーダーになるのに対し、ボノボの集団にはそのようなはっきりしたリーダーがいません。
+本文 live in peace（平和に暮らす）＝ 選択肢 live peacefully（平和に暮らす）
+本文 groups where there is no clear leadership（はっきりとしたリーダーのいない集団）
+→ 読み取れること：ボノボの集団には、チンパンジーの集団の「大きくて強いオス」のような強いリーダーはいない
+選択肢 groups that have no strong leaders（強いリーダーのいない集団）
+ですから3が正解です。
+この問題の型：言いかえ（live in peace ＝ live peacefully）／対比（ボノボ⇔チンパンジー）
+【ほかの選択肢】
+1 本文の内容と合いません。第3段落には、知らない者のあくびの動画を見たボノボは、家族のあくびを見たときと同じくらいあくびをしたとあります。ほかの家族のボノボのそばだとほとんどあくびをしない、とは書かれていません。
+2 実験をだれが行ったかは、本文に書かれていません。コンゴ民主共和国は、第1段落でボノボがすんでいる場所として出てくるだけです。また、All（すべて）と言い切っている点も本文からは分かりません。
+4 動物が違います。第2段落で、自分が何ももらえなくてもほかの者を助けたのは、ボノボです。チンパンジーについては、第4段落で友好的にふるまう理由が少ないと書かれています。
+【覚えるポイント】
+・live in peace：「平和に暮らす」。live peacefully と同じ意味です。
+・Which of the following statements is true? の設問では、選択肢ごとに「どの動物（人物）の話か」「本文のどの段落の話か」を確かめると、動物を入れかえた選択肢に気づきやすくなります。

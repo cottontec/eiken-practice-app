@@ -1,0 +1,32 @@
+---
+choices: plural | conventional | optional | communal
+answerText: optional
+reviewed: yes
+---
+【正解】3 optional（自由に選べる、任意の）
+【和訳】
+（英文）
+Reminder to students: you are required to attend the afternoon lecture, but the reception afterwards is ［optional］.
+（訳）
+学生の皆さんへのお知らせ：午後の講演には必ず出席しなければなりませんが、そのあとのレセプション（人を招いてもてなす会）は（自由参加）です。
+（選択肢の意味）
+1 plural：複数の
+2 conventional：従来どおりの、型にはまった
+3 optional：自由に選べる、任意の（してもしなくてもよい）
+4 communal：共同の、共用の
+【考え方】
+まず見るところ：前半の you are required to attend と、空所の前の but
+前半を見ます。
+you are required to attend the afternoon lecture（午後の講演には出席しなければならない）
+be required to ～ は「～することを求められている、～しなければならない」です。lecture は「講演、講義」です。
+そのあとに but（しかし）があるので、後半は前半と反対の内容になると考えられます。
+the reception afterwards is (　)（そのあとのレセプションは（　）だ）
+reception は「レセプション（講演などのあとに、人を招いてもてなす会）」です。「必ず出席しなければならない」と反対になるのは、「出ても出なくてもよい」です。optional は「自由に選べる、任意の」なので、3が正解です。
+この問題の型：対比（required：出席しなければならない⇔optional：自由に選べる）
+【ほかの選択肢】
+1 plural は「複数の」です。「レセプションは複数だ」となり、but の前の「出席しなければならない」と対比になりません。
+2 conventional は「従来どおりの、型にはまった」です。「レセプションは従来どおりだ」では、出席するかどうかの話とつながりません。
+4 communal は「共同の、共用の」です。「レセプションは共同のものだ」では、but の前の「必ず出席」と反対の意味になりません。
+【覚えるポイント】
+・be required to ～：「～しなければならない」。optional：「任意の、自由に選べる」。
+・but の前後では反対の内容が並ぶことが多いので、前半の語（ここでは required）と反対の意味の語を探すと、答えを選ぶ手がかりになります。

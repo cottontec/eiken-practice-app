@@ -1,0 +1,33 @@
+---
+choices: The mystery of what happened to the Mary Celeste would never be solved because official reports contain little information about the incident. | Several factors led to the Mary Celeste's captain deciding he had no choice but to get his crew off the ship. | The crew of the Mary Celeste likely escaped to Santa Maria to avoid being blamed for abandoning the ship. | Records of the Mary Celeste's discovery were altered in order to cover up what really happened.
+answerText: Several factors led to the Mary Celeste's captain deciding he had no choice but to get his crew off the ship.
+reviewed: yes
+---
+【正解】2 Several factors led to the Mary Celeste's captain deciding he had no choice but to get his crew off the ship.（いくつかの要因によって、メアリー・セレスト号の船長は、乗組員を船から降ろすしかないと決めることになった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What did Anne MacGregor conclude based on her investigation?（アン・マグレガーは、調査にもとづいてどんな結論を出したか。）
+1 The mystery of what happened to the Mary Celeste would never be solved because official reports contain little information about the incident.（公式の報告書にはその出来事についての情報がほとんどないので、メアリー・セレスト号に何が起きたのかというなぞは決して解けないだろう。）
+2 Several factors led to the Mary Celeste's captain deciding he had no choice but to get his crew off the ship.（いくつかの要因によって、メアリー・セレスト号の船長は、乗組員を船から降ろすしかないと決めることになった。）
+3 The crew of the Mary Celeste likely escaped to Santa Maria to avoid being blamed for abandoning the ship.（メアリー・セレスト号の乗組員は、船を見捨てたことを責められないように、おそらくサンタ・マリア島へ逃げた。）
+4 Records of the Mary Celeste's discovery were altered in order to cover up what really happened.（実際に起きたことを隠すために、メアリー・セレスト号の発見の記録が書きかえられた。）
+【考え方】
+まず見るところ：第3段落の MacGregor thinks that these issues, combined with the fact that ～
+マグレガーの調査は第3段落に書かれています。彼女は、船の水のポンプが詰まっていたことと、クロノメーター（船の位置を知るための正確な時計）が故障していたことの証拠を見つけました。そのため船長は、船の位置が分からず、海水を取り除くこともできなかっただろう、と書かれています。
+そのあとに、マグレガーの考えがまとめられています。
+MacGregor thinks that these issues, combined with the fact that the Mary Celeste had experienced rough seas the day before, would have been enough to make the captain resort to sacrificing the ship in order to ensure his crew's safety.（マグレガーは、こうした問題に、メアリー・セレスト号がその前日に荒れた海を経験していたという事実が重なって、船長は乗組員の安全を確保するために、船を犠牲にするという最後の手段をとることになったのだろう、と考えている）
+resort to ～ は「（ほかに方法がなく）最後の手段として～する」、ensure は「確かなものにする」です。
+本文と選択肢を対にすると、次のようになります。
+本文 these issues, combined with the fact that the Mary Celeste had experienced rough seas（こうした問題に、荒れた海の経験が重なって）≒ 選択肢 Several factors（いくつかの要因）
+本文 resort to sacrificing the ship（船を犠牲にするという最後の手段をとる）≒ 選択肢 had no choice but to get his crew off the ship（乗組員を船から降ろすしかない）
+本文の in order to ensure his crew's safety（乗組員の安全を確保するために）や、第3段落に the ship was abandoned（船は見捨てられた）とあることから、船を犠牲にするとは乗組員が船を離れることだと考えられます。ですから2が正解です。
+この問題の型：言いかえ（resort to ≒ had no choice but to）／具体例とまとめ（ポンプ・クロノメーター・荒れた海 → several factors）
+【ほかの選択肢】
+1 マグレガーは、航海日誌の写しと公式の報告書を分析して、ポンプやクロノメーターの証拠を見つけています。報告書に情報がほとんどないとは書かれておらず、なぞが決して解けないとも言っていません。
+3 第3段落の最後に、The question of why the crew never made it to Santa Maria remains unanswered（乗組員がなぜサンタ・マリア島にたどり着けなかったのかという疑問は、いまだに答えが出ていない）とあります。乗組員はサンタ・マリア島にたどり着いていないので、本文と合いません。責められないように逃げたという理由も、本文に書かれていません。
+4 記録が書きかえられたという話は、本文のどこにも書かれていません。マグレガーは記録を分析して証拠を見つけた人物として書かれています。
+【覚えるポイント】
+・resort to ～：「（ほかに方法がなく）最後の手段として～する」。have no choice but to ～ は「～するしかない」で、意味が近い言い方です。
+・「〇〇は調査からどんな結論を出したか」という設問では、本文の ～ thinks that や ～ believes のあとの内容と選択肢を対にして比べるのが手がかりになります。

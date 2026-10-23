@@ -1,0 +1,27 @@
+---
+choices: would wake | did wake | woke | waking
+answerText: would wake
+reviewed: yes
+---
+【正解】1 would wake（〔もしそうしなければ〕起こしてしまうだろう）
+【和訳】
+（英文）
+Janet knew she had to be very quiet when she got home late last night. Otherwise, she ［would wake］ her family up.
+（訳）
+ジャネットは、昨夜遅く家に帰ったとき、とても静かにしなければならないと分かっていました。そうしないと、家族を（起こしてしまう）でしょう。
+（選択肢の意味）
+1 would wake：起こしてしまうだろう
+2 did wake：本当に起こした（did で「起こした」を強めた形）
+3 woke：起こした
+4 waking：起こすこと、起こしている（-ing の形）
+【考え方】
+2文目の始めの Otherwise（そうでなければ、そうしないと）に注目します。ここでは「もし静かにしなければ」という意味です。
+ジャネットは、静かにしなければならないと分かっていました。ですから、2文目は「もし静かにしなかったら、こうなってしまう」という、実際には起きていない場合の話です。
+このように「もし～なら…するだろう」と、実際とは違う場合を考えるときは、would ＋動詞の原形（もとの形）を使います。would wake her family up で「家族を起こしてしまうだろう」となります。wake ～ up は「～を起こす」です。よって1が正解です。
+【ほかの選択肢】
+2 did wake は、did を付けて「本当に起こした」と強める形です。実際に家族を起こしたことになり、Otherwise（そうしないと）で始まる「もしもの話」に合いません。
+3 woke は wake の過去形で「起こした」です。これも実際に起こしたという意味になり、「静かにしなければ起こしてしまう」という内容を表せません。
+4 waking は -ing の形で、これだけでは文の動詞になれません。she waking her family up では文が成り立ちません。
+【覚えるポイント】
+・Otherwise, ～ would ….：「そうしないと（もしそうでなければ）、～は…するだろう」。
+・wake ～ up：「～を起こす」。

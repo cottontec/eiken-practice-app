@@ -1,0 +1,28 @@
+---
+choices: asked for advice about choosing a college. | recommended Mr. Klessmer as a teacher. | took Mr. Klessmer's class last year. | graduated from high school recently.
+answerText: took Mr. Klessmer's class last year.
+reviewed: yes
+---
+【正解】3 took Mr. Klessmer's class last year.（去年、クレスマーさんの授業を受けた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ミラは
+1 asked for advice about choosing a college.（大学選びについて助言を求めた。）
+2 recommended Mr. Klessmer as a teacher.（クレスマーさんを教師として推薦した。）
+3 took Mr. Klessmer's class last year.（去年、クレスマーさんの授業を受けた。）
+4 graduated from high school recently.（最近、高校を卒業した。）
+【考え方】
+このEメールは、クレスマーさんがミラさんに書いたものです。第1段落の my music class（私の音楽の授業）という言葉から、クレスマーさんは去年ミラさんに音楽を教えていた先生だと読み取れます。ミラさんについて書かれていることを、第1段落から探します。
+I enjoyed having you in my music class last year（去年、あなたが私の音楽の授業にいてくれて楽しかった）とあります。having you in my music class は、直訳すると「あなたを私の音楽の授業に持つ」で、「クレスマーさんがミラさんを自分の音楽の授業で受け持っていた」ということです。つまり、ミラさんは去年、クレスマーさんの音楽の授業を受けていました。
+本文と選択肢を対にすると、次のようになります。
+本文 having you in my music class last year（去年、あなたを私の音楽の授業で受け持った）＝ 選択肢 took Mr. Klessmer's class last year（去年、クレスマーさんの授業を受けた）
+教える側（クレスマーさん）から見た言い方が、ミラさんの側から見た言い方に変わっています。3が正解です。
+【ほかの選択肢】
+1 ミラさんが前のEメールで伝えたのは you needed a recommendation letter for the colleges that you are applying to（出願する大学のために推薦状が必要だ）ということです。大学選びについて助言を求めたとは書かれていません。
+2 推薦状（recommendation letter）を書くのはクレスマーさんのほうで、推薦されるのはミラさんです。ミラさんがクレスマーさんを推薦したのではないので、人物の関係が逆になっています。
+4 第1段落に You still have one year of high school left to go（あなたはまだ高校生活が1年残っている）とあります。ミラさんはまだ高校を卒業していないので、合いません。
+【覚えるポイント】
+・have ～ in one's class：「～を自分の授業で受け持つ」。生徒の側から言うと take one's class（～の授業を受ける）になります。
+・have ～ left (to go)：「～が（まだ）残っている」。

@@ -1,0 +1,33 @@
+---
+choices: possessive | horizontal | redundant | drastic
+answerText: redundant
+reviewed: yes
+---
+【正解】3 redundant（余分な、くり返しで不要な）
+【和訳】
+（英文）
+A: I think this sentence in your essay is ［redundant］.
+B: Oh, you're right. It's almost the same as what I said in the previous paragraph.
+（訳）
+A：あなたの作文のこの文は、（余分）だと思うよ。
+B：ああ、そのとおりだね。前の段落で言ったこととほとんど同じだ。
+（選択肢の意味）
+1 possessive：独り占めしたがる、所有欲の強い
+2 horizontal：水平の、横の
+3 redundant：余分な、（くり返しになっていて）不要な
+4 drastic：思い切った、極端な
+【考え方】
+まず見るところ：Bの答えの It's almost the same as what I said in the previous paragraph.
+Aは、作文のある文について「この文は（　）だと思う」と言っています。どんな文なのかは、Bの答えから分かります。
+Oh, you're right.（ああ、そのとおりだね）
+It's almost the same as what I said in the previous paragraph.（前の段落で言ったこととほとんど同じだ）
+Bは、その文が前の段落の内容とほとんど同じ、つまり同じことのくり返しになっていると認めています。くり返しの文は、作文の中では余分で、なくてもよいものです。
+ですから、「余分な、くり返しで不要な」という意味の redundant が合い、3が正解です。
+この問題の型：言いかえ（redundant → almost the same as what I said in the previous paragraph）
+【ほかの選択肢】
+1 possessive は「独り占めしたがる、所有欲の強い」です。「この文は独り占めしたがる」となり、意味が通りません。「前の段落とほとんど同じ」という答えともつながりません。
+2 horizontal は「水平の、横の」です。文が「横向き」かどうかは、「前の段落と同じ内容だ」というBの答えと関係がありません。
+4 drastic は「思い切った、極端な」です。前の段落と同じことを言っている文は、「極端な」文とはいえず、Bの答えと合いません。
+【覚えるポイント】
+・redundant：「余分な、（くり返しで）不要な」。
+・会話の空所では、相手の答え（ここでは you're right のあとの説明）が、空所の語をかみくだいて言いかえていることがあります。答えの文を先に読むのが手がかりになります。

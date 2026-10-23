@@ -1,0 +1,27 @@
+---
+choices: engaged to | ignorant of | capable of | visible to
+answerText: ignorant of
+reviewed: yes
+---
+【正解】2 ignorant of（～を知らない）
+【和訳】
+（英文）
+Dan had trouble when he first moved to Japan because he was ［ignorant of］ the local customs. For example, he did not take off his shoes when he went into his host family's house.
+（訳）
+ダンは、初めて日本に引っ越してきたとき、苦労しました。その土地の習慣を知らなかったからです。たとえば、ホストファミリーの家に入るとき、彼は靴を脱ぎませんでした。
+（選択肢の意味）
+1 engaged to：～と婚約している
+2 ignorant of：～を知らない
+3 capable of：～ができる、～の能力がある
+4 visible to：～に見える
+【考え方】
+1文目は Dan had trouble ... because he was (　) the local customs.（ダンは苦労した。なぜなら、その土地の習慣を（　）だったからだ）という形です。苦労した理由が because 以下に書かれています。
+2文目は For example（たとえば）で始まり、he did not take off his shoes when he went into his host family's house（ホストファミリーの家に入るとき、靴を脱がなかった）と、具体的な例を挙げています。日本の家では玄関で靴を脱ぐのがふつうです。ダンはそれをしなかったので、日本の習慣を知らなかったことが分かります。
+ignorant of ～ は「～を知らない」という意味です。he was ignorant of the local customs で「その土地の習慣を知らなかった」となり、苦労した理由とも、2文目の例ともつながります。正解は2です。
+【ほかの選択肢】
+1 engaged to ～ は「～と婚約している」です。「その土地の習慣と婚約していた」となり、意味が通りません。
+3 capable of ～ は「～ができる、～の能力がある」です。「その土地の習慣ができる能力があった」となり、苦労した理由になりません。靴を脱がなかったという例とも合いません。
+4 visible to ～ は「～に見える」です。「彼がその土地の習慣に見えていた」となり、意味が通りません。
+【覚えるポイント】
+・be ignorant of ～：「～を知らない」。名詞は ignorance（知らないこと、無知）です。
+・custom：「習慣、慣習」。local customs で「その土地の習慣」。

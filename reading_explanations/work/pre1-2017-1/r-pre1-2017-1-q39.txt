@@ -1,0 +1,34 @@
+---
+choices: A variety of information sources are making them feel that the consequences of unhealthy eating are severely damaging. | An increasing number of children are coming into contact with people who work in professions where physical traits are important. | Many children feel that they should resist attempts by parents and teachers to improve their dietary habits. | Many snacks have become unhealthier, which has led health professionals to change their dietary recommendations for children.
+answerText: A variety of information sources are making them feel that the consequences of unhealthy eating are severely damaging.
+reviewed: yes
+---
+【正解】1 A variety of information sources are making them feel that the consequences of unhealthy eating are severely damaging.（さまざまな情報源が、子どもたちに、健康によくない食べ方の結果はひどく害になると感じさせている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to the author of the passage, what is one possible reason children are at risk for orthorexia?（この文章の筆者によると、子どもたちがオルトレキシアになる危険がある理由として考えられることの一つは何ですか。）
+1 A variety of information sources are making them feel that the consequences of unhealthy eating are severely damaging.（さまざまな情報源が、子どもたちに、健康によくない食べ方の結果はひどく害になると感じさせている。）
+2 An increasing number of children are coming into contact with people who work in professions where physical traits are important.（体の特徴が重要な職業で働く人々と接する子どもが増えている。）
+3 Many children feel that they should resist attempts by parents and teachers to improve their dietary habits.（多くの子どもたちが、自分の食習慣を良くしようとする親や教師の働きかけに反発すべきだと感じている。）
+4 Many snacks have become unhealthier, which has led health professionals to change their dietary recommendations for children.（多くのお菓子が（以前より）健康によくなくなり、そのため医療の専門家は、子どもに勧める食事の内容を変えた。）
+【考え方】
+まず見るところ：第2段落の as parents, teachers, and the mass media cause food-related anxiety by overemphasizing healthy eating
+第2段落で、子どもたちについて次のように書かれています。
+Increasing numbers of children and adolescents, however, are also suffering from orthorexia, as parents, teachers, and the mass media cause food-related anxiety by overemphasizing healthy eating.（しかし、子どもや10代の若者の中にもオルトレキシアに苦しむ人が増えている。親や教師、マスメディアが健康的な食事を強調しすぎることで、食べ物に関する不安を引き起こしているからである）
+ここでの as は「～なので」と理由を表します。overemphasize は「強調しすぎる」、anxiety は「不安」です。
+続く例も確かめます。
+Some children, for example, worry that eating a cookie or a piece of candy will seriously affect their health（たとえば、クッキーやキャンディーを1つ食べることが自分の健康に深刻な影響を与えるのではないかと心配する子どももいる）
+本文と選択肢1を対にすると、次のようになります。
+本文 parents, teachers, and the mass media（親、教師、マスメディア）→ 選択肢 A variety of information sources（さまざまな情報源）
+本文 worry that eating a cookie or a piece of candy will seriously affect their health（クッキーやキャンディーを1つ食べることが健康に深刻な影響を与えると心配する）＝ 選択肢 feel that the consequences of unhealthy eating are severely damaging（健康によくない食べ方の結果はひどく害になると感じる）
+親・教師・マスメディアという何種類もの人や媒体を、選択肢では「さまざまな情報源」とまとめています。よって1が正解です。
+この問題の型：因果（as ～ が理由を表す）／言いかえ（parents, teachers, and the mass media→A variety of information sources）
+【ほかの選択肢】
+2 本文と合いません。体型を意識する職業の人々（ダンサーや俳優など）は、摂食障害が最もよく見られる人々として書かれています。子どもがそうした人々と接するようになったから、とは書かれていません。
+3 本文と逆です。子どもたちは親や教師の言う「健康的な食事」に反発しているのではなく、むしろそれを気にしすぎて不安になっています。
+4 本文にない内容です。お菓子が健康によくなくなったという話も、医療の専門家が子どもへの食事の勧めを変えたという話もありません。
+【覚えるポイント】
+・overemphasize：「強調しすぎる」。
+・理由を問う設問では、as や because のあとの部分を探し、そこに出てくる具体的な人や物（ここでは親・教師・マスメディア）を、選択肢がまとめた言葉（さまざまな情報源）で表していないかを確かめると手がかりになります。

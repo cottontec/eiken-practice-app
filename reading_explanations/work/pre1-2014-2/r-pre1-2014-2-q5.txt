@@ -1,0 +1,32 @@
+---
+choices: derived | subsidized | amplified | diagnosed
+answerText: diagnosed
+reviewed: yes
+---
+【正解】4 diagnosed（診断された）
+【和訳】
+（英文）
+Earl went to the hospital complaining of headaches, muscle pain, and fever. He was ［diagnosed］ with influenza after being tested for the virus.
+（訳）
+アールは、頭痛と筋肉の痛みと熱を訴えて病院へ行きました。ウイルスの検査を受けたあと、彼はインフルエンザだと（診断されました）。
+（選択肢の意味）
+1 derived：引き出された、由来した
+2 subsidized：補助金を受けた
+3 amplified：（音などを）大きくされた、増幅された
+4 diagnosed：診断された
+【考え方】
+まず見るところ：前半の went to the hospital と、空所の後ろの with influenza
+前半の文で、アールが病院へ行ったことが分かります。
+Earl went to the hospital complaining of headaches, muscle pain, and fever.（アールは、頭痛と筋肉の痛みと熱を訴えて病院へ行った）
+complain of ～ は「（痛みなど）を訴える」という意味です。
+空所のある文は次のとおりです。
+He was (　) with influenza after being tested for the virus.（ウイルスの検査を受けたあと、彼はインフルエンザ（　）された）
+病院で検査を受けたあとに起こることは、医者が「何の病気か」を決めることです。これを「診断する」と言います。diagnose は「診断する」で、be diagnosed with ～ で「～と診断される」という決まった形になります。空所の後ろの with influenza ともぴったり合うので、4が正解です。
+この問題の型：熟語・決まった形（be diagnosed with ～）
+【ほかの選択肢】
+1 derived は「引き出された、由来した」という意味で、be derived from ～（～に由来する）の形でよく使います。「インフルエンザで引き出された」となり、意味が通りません。
+2 subsidized は「補助金（国などが活動を助けるために出すお金）を受けた」という意味です。病院での検査の結果を表す言葉としては合いません。
+3 amplified は「（音などを）大きくされた」という意味です。「彼はインフルエンザで大きくされた」となり、意味が通りません。
+【覚えるポイント】
+・be diagnosed with ～：「～と診断される」。
+・hospital（病院）や tested（検査された）のような語があるときは、医療に関係する語が答えになることが多く、空所の後ろの前置詞（ここでは with）との組み合わせも確かめると確実です。

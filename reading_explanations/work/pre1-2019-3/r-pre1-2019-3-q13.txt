@@ -1,0 +1,29 @@
+---
+choices: remodeled | raided | doomed | knitted
+answerText: raided
+reviewed: yes
+---
+【正解】2 raided（（警察が）踏みこんで捜索した、手入れをした）
+【和訳】
+（英文）
+The police ［raided］ the warehouse because they thought it was being used by criminals to store illegal drugs.
+（訳）
+警察はその倉庫に（踏みこんで捜索した）。犯罪者たちが違法な薬物を保管するためにそこを使っていると考えたからだ。
+（選択肢の意味）
+1 remodeled：（建物などを）改築した、作り直した
+2 raided：（警察が）踏みこんで捜索した、手入れをした
+3 doomed：（悪い結果になるように）運命づけた
+4 knitted：編んだ
+【考え方】
+まず見るところ：because のあとの it was being used by criminals to store illegal drugs
+because they thought it was being used by criminals to store illegal drugs（犯罪者たちが違法な薬物を保管するためにそこを使っていると考えたので）
+criminals は「犯罪者」、store は「保管する、しまっておく」、illegal drugs は「違法な薬物」という意味です。was being used は「使われているところだった」という意味です。
+警察が「犯罪者が倉庫を悪いことに使っている」と考えたのなら、警察はその倉庫に急に入って調べたはずです。raid は「（警察が）踏みこんで捜索する、手入れをする」という意味なので、2が正解です。
+この問題の型：因果（because：犯罪に使われていると考えた→踏みこんで捜索した）
+【ほかの選択肢】
+1 remodeled は「改築した」です。犯罪に使われていると考えた警察が、倉庫を改築する理由はありません。
+3 doomed は「（悪い結果になるように）運命づけた」です。「警察が倉庫を運命づけた」となり、意味が通りません。
+4 knitted は「編んだ」です。「警察が倉庫を編んだ」となり、意味が通りません。
+【覚えるポイント】
+・raid：「（警察が）踏みこんで捜索する、手入れをする」。
+・because のあとに理由（ここでは犯罪に使われていると考えた）が書かれているときは、その理由から自然に起きる行動を表す語を選ぶことが手がかりになります。

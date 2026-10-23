@@ -1,0 +1,27 @@
+---
+choices: sympathize | betray | concentrate | persuade
+answerText: sympathize
+reviewed: yes
+---
+【正解】1 sympathize（同情する、相手の気持ちが分かる）
+【和訳】
+（英文）
+When Mary had her car stolen, John could ［sympathize］ with her because the same thing had happened to him once.
+（訳）
+メアリーが車を盗まれたとき、ジョンは彼女に（同情する）ことができました。同じことが、以前一度、彼に起こったことがあったからです。
+（選択肢の意味）
+1 sympathize：同情する、気持ちが分かる
+2 betray：裏切る
+3 concentrate：集中する
+4 persuade：説得する
+【考え方】
+まず、When Mary had her car stolen（メアリーが車を盗まれたとき）を確認します。have ＋物＋過去分詞 で「（物）を～される」という意味です。
+次に、because 以下の理由を見ます。because the same thing had happened to him once（同じことが以前一度、彼に起こったことがあったので）とあります。the same thing（同じこと）は「車を盗まれること」です。ジョンも車を盗まれた経験があるということです。
+同じつらい経験をした人は、相手の気持ちがよく分かります。sympathize は「同情する、相手の気持ちが分かる」という意味で、sympathize with ～ で「～に同情する」となります。空所のあとの with her ともつながります。1が正解です。
+【ほかの選択肢】
+2 betray は「裏切る」です。「同じことが起こったことがあるので、彼女を裏切ることができた」となり、理由と結果が結びつきません。
+3 concentrate は「集中する」です。「彼女と一緒に集中することができた」となり、車を盗まれた経験があるという理由とつながりません。
+4 persuade は「説得する（話をして相手を納得させる）」です。何を説得したのかが文の中になく、「同じ経験があるから」という理由とも結びつきません。
+【覚えるポイント】
+・sympathize with ～：「～に同情する、～の気持ちが分かる」。名詞は sympathy（同情）。
+・have ＋物＋過去分詞：「（物）を～される」。have one's car stolen で「車を盗まれる」。

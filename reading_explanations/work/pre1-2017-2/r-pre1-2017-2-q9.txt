@@ -1,0 +1,31 @@
+---
+choices: divert | resent | enlarge | renounce
+answerText: divert
+reviewed: yes
+---
+【正解】1 divert（（流れの向きを）変える、そらす）
+【和訳】
+（英文）
+So many farmers ［divert］ water from the local river to their fields that the river often becomes dry during the summer months.
+（訳）
+とても多くの農家が、地元の川から自分たちの畑へ水を（引いている）ので、その川は夏の数か月の間、しばしば干上がってしまう。
+（選択肢の意味）
+1 divert：（流れの向きを）変える、そらす
+2 resent：腹を立てる、恨む
+3 enlarge：大きくする、拡大する
+4 renounce：（権利などを）捨てる、放棄する
+【考え方】
+まず見るところ：空所のあとの water from the local river to their fields と、that the river often becomes dry
+この文は、So many ～ that …（とても多くの～が…するので、…）の形です。
+So many farmers ( ) water from the local river to their fields（とても多くの農家が、地元の川から自分たちの畑へ水を（　）ので）
+that the river often becomes dry during the summer months（その川は夏の数か月の間、しばしば干上がる）
+from A to B（AからBへ）があるので、空所には「水を川から畑へ動かす」意味の動詞が入ると分かります。そして、多くの農家がそうするので、川の水が減って干上がる、という流れです。
+divert は「（流れの向きを）変える、ほかへそらす」という意味です。divert water from the local river to their fields で「地元の川から自分たちの畑へ水を引く」となるので、1が正解です。
+この問題の型：熟語・決まった形（So many ～ that …／from A to B）／因果（多くの農家が水を引く→川が干上がる）
+【ほかの選択肢】
+2 resent は「（不満に思って）腹を立てる、恨む」です。「川から畑へ水に腹を立てる」では意味が通らず、川が干上がる理由にもなりません。
+3 enlarge は「大きくする、拡大する」です。「水を大きくする」では意味が通らず、from A to B（AからBへ）ともつながりません。
+4 renounce は「（権利などを）捨てる、放棄する」です。「川から畑へ水を放棄する」では from A to B（AからBへ）とつながらず、多くの農家がそうしたから川が干上がる、という流れにもなりません。
+【覚えるポイント】
+・divert A from B to C：「AをBからCへ（向きを変えて）回す」。divert water で「水を引く」。
+・空所の動詞のあとに from A to B があるときは、「何かをAからBへ動かす」意味の語が入る手がかりになります。

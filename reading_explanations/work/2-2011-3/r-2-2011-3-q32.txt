@@ -1,0 +1,25 @@
+---
+choices: hide | watch | taste | absorb
+answerText: watch
+reviewed: yes
+---
+【正解】2 watch（見守る、注意して見る）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 hide：隠す
+2 watch：見守る、注意して見る
+3 taste：味わう、味見をする
+4 absorb：吸収する
+【考え方】
+空所は第3段落の His patients need to (　) the amount of sugar in their blood carefully.（彼の患者は、血液中の糖の量を注意深く～する必要がある）にあります。
+すぐあとの文で、患者が何をしているかが説明されています。The patients measure their sugar levels with a special machine and then use cell phones connected to the Internet to send in the results each day.（患者は特別な機械で糖の値を測り、インターネットにつながった携帯電話で毎日その結果を送る）とあります。さらに、値が高くなりすぎると、下げる方法を説明するメッセージが届きます。
+つまり、患者は毎日、糖の量を測って変化に気をつけています。これは糖の量を「注意して見守る」ことです。watch は「見る」のほかに「（変化がないか）注意して見守る」という意味があり、carefully（注意深く）ともよく合います。2が正解です。
+【ほかの選択肢】
+1 hide は「隠す」です。患者は測った結果を毎日送っているので、糖の量を「隠す」のでは反対の内容になってしまいます。
+3 taste は「味わう、味見をする」です。患者は特別な機械で糖の値を測っているのであって、血液の中の糖を味わうという話ではありません。
+4 absorb は「吸収する」です。「血液中の糖の量を注意深く吸収する」となり、意味が通りません。後ろの文の「測って結果を送る」ともつながりません。
+【覚えるポイント】
+・watch ～ carefully：「～を注意深く見守る」。watch には「（変化がないか）気をつけて見る」という意味もあります。
+・measure：「測る」。名詞は measurement（測定、測定結果）で、本文では daily measurements（毎日の測定結果）と出てきます。

@@ -1,0 +1,31 @@
+---
+choices: Some students have not been following campus rules. | He wants to tell students about important changes. | The university is not offering some services this year. | One of the university's dining areas will be moving.
+answerText: He wants to tell students about important changes.
+reviewed: yes
+---
+【正解】2 He wants to tell students about important changes.（彼は、大切な変更について学生に伝えたいと思っている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ロジャー・テイラーはなぜこのEメールを書いているのですか。
+1 Some students have not been following campus rules.（一部の学生が、キャンパスの規則を守っていない。）
+2 He wants to tell students about important changes.（彼は、大切な変更について学生に伝えたいと思っている。）
+3 The university is not offering some services this year.（大学は今年、いくつかのサービスを行っていない。）
+4 One of the university's dining areas will be moving.（大学の食事エリアの1つが移転する。）
+【考え方】
+このEメールでは、書いた目的が第1段落に書かれています。
+・I have a few announcements to make.（いくつかお知らせがあります）
+・There will be a few changes to our dining services this year, and we want to make sure that everyone understands them.（今年は食事サービスにいくつかの変更があり、全員にそれを理解してもらいたい）
+・Some of these changes will affect rules in all of the dining areas on campus, so please read this message carefully.（これらの変更のいくつかはキャンパス内のすべての食事エリアの規則に影響するので、このメッセージをよく読んでください）
+本文と選択肢を対にすると、次のようになります。
+本文 There will be a few changes ... we want to make sure that everyone understands them（変更があり、全員に理解してもらいたい）→ 選択肢 He wants to tell students about ... changes（変更について学生に伝えたい）
+本文 will affect rules in all of the dining areas ... please read this message carefully → 読み取れること：学生にとって大切な変更である（選択肢の important）
+第2段落以降も、学生センターの開く時間の変更や、ナッツについての新しい規則など、変更の中身が続いています。ですから2が正解です。
+【ほかの選択肢】
+1 学生が規則を守っていないという話は本文にありません。ナッツについては We will also have a new rule（新しい規則ができる）とあり、これから始まる規則を知らせているだけです。
+3 今年行わなくなるサービスは、本文に書かれていません。書かれている変更は、学生センターが1時間早く開くこと、新しいカフェが開店することなどで、むしろサービスが増える内容です。ナッツの規則も、ナッツを含む食べ物を出さないという決まりで、サービスそのものをやめる話ではありません。
+4 食事エリアが移転するという話は本文にありません。学生センターについては、開く時間の変更と新しいカフェの開店が書かれているだけです。
+【覚えるポイント】
+・make sure that ～：「確実に～であるようにする」。
+・affect：「～に影響する」。

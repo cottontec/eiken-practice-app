@@ -1,0 +1,30 @@
+---
+choices: collect dead insects | hide its smell from insects | trick the flies with its smell | provide a safe place for flies
+answerText: trick the flies with its smell
+reviewed: yes
+---
+【正解】3 trick the flies with its smell（においでハエをだます）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 collect dead insects（死んだ昆虫を集める）
+2 hide its smell from insects（昆虫から自分のにおいを隠す）
+3 trick the flies with its smell（においでハエをだます）
+4 provide a safe place for flies（ハエに安全な場所を与える）
+【考え方】
+まず見るところ：第2段落の空所の前の attracts flies by smelling like the dead beetles と、But the plant does more than simply ～
+空所の前の文で、この植物がどうやってハエを引きつけるかが書かれています。
+one plant, Aristolochia microstoma, attracts flies by smelling like the dead beetles that some flies lay eggs in（アリストロキア・ミクロストマという植物が、一部のハエが卵を産みつける死んだ甲虫のようなにおいを出すことによって、ハエを引きつけている）
+beetles は「甲虫（カブトムシなどのかたい羽を持つ虫）」です。植物は本物の死んだ甲虫ではないのに、そのようなにおいを出してハエを呼び寄せています。つまり、においでハエをだましているのです。
+空所の文は次のとおりです。
+But the plant does more than simply (　).（しかし、この植物は単に（　）以上のことをする）
+does more than simply ～ は「単に～するだけではない、それ以上のことをする」です。～には、前の文で述べたことが入ります。そして後ろの文では、それ以上のこととして It temporarily traps them within its flowers（花の中にハエを一時的に閉じこめる）と書かれています。前の文の内容を言いかえた trick the flies with its smell が入るので、3が正解です。
+この問題の型：言いかえ（smelling like the dead beetles で引きつける → trick the flies with its smell）
+【ほかの選択肢】
+1 collect dead insects（死んだ昆虫を集める）は、本文に書かれていません。この植物は死んだ甲虫のようなにおいを出すのであって、死んだ昆虫を集めるとは書かれていません。
+2 hide its smell from insects（昆虫から自分のにおいを隠す）は、本文の内容と合いません。この植物は、においを出すことでハエを引きつけています。
+4 provide a safe place for flies（ハエに安全な場所を与える）は、本文に書かれていません。空所の前には安全な場所の話は出てこず、後ろではハエを一時的に閉じこめると書かれていますが、それが安全な場所を与えるためだとは書かれていません。
+【覚えるポイント】
+・do more than simply ～：「単に～するだけでなく、それ以上のことをする」。～には前に述べた内容が入り、後ろに「それ以上のこと」が続きます。
+・more than simply ～ の空所では、前の文の内容を言いかえたものを選び、後ろの文が「さらに進んだこと」になっているかを確かめるのが手がかりになります。

@@ -1,0 +1,29 @@
+---
+choices: oath | foe | symptom | compartment
+answerText: compartment
+reviewed: yes
+---
+【正解】4 compartment（仕切られた収納場所、区画）
+【和訳】
+（英文）
+Police found the stolen jewelry in a hidden ［compartment］ built inside the trunk of the suspected thief's car.
+（訳）
+警察は、盗まれた宝石を、どろぼうの疑いがある人物の車のトランクの中に作られた、かくし収納スペースで見つけた。
+（選択肢の意味）
+1 oath：誓い（必ず守ると約束すること）
+2 foe：敵
+3 symptom：（病気の）症状
+4 compartment：仕切られた収納場所、区画
+【考え方】
+まず見るところ：空所の前の hidden と、空所のあとの built inside the trunk
+空所には、宝石が見つかった「場所」を表す名詞が入ります。
+in a hidden ( ) built inside the trunk of the suspected thief's car（どろぼうの疑いがある人物の車のトランクの中に作られた、かくされた（　）の中に）
+hidden は「かくされた」、built inside the trunk は「トランクの中に作られた」です。the suspected thief は「どろぼうだと疑われている人」です。トランクの中に作られていて、宝石をかくしておける物は、仕切られた収納場所です。compartment は「仕切られた収納場所、区画」なので、4が正解です。
+この問題の型：語の意味・組み合わせ（a hidden compartment：かくし収納スペース）
+【ほかの選択肢】
+1 oath は「誓い」です。目に見える物ではないので、トランクの中に作ったり、宝石をしまったりできません。
+2 foe は「敵」です。「トランクの中に作られたかくされた敵」となり、意味が通りません。
+3 symptom は「（病気の）症状」です。トランクの中に作られる物ではないので、意味が通りません。
+【覚えるポイント】
+・compartment：「仕切られた収納場所、区画」。a hidden compartment で「かくし収納スペース」です。
+・空所のあとに built inside ～（～の中に作られた）のような説明が続くときは、空所に「作ることができる物、場所」が入る手がかりになります。

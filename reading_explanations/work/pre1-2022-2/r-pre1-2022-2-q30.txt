@@ -1,0 +1,30 @@
+---
+choices: increased their protests | started using different roads | began to change their minds | turned against cyclists
+answerText: began to change their minds
+reviewed: yes
+---
+【正解】3 began to change their minds（考えを変え始めた）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 increased their protests（抗議を強めた）
+2 started using different roads（別の道路を使い始めた）
+3 began to change their minds（考えを変え始めた）
+4 turned against cyclists（自転車乗りに反対するようになった）
+【考え方】
+まず見るところ：第2段落の空所の前の At first, the movement was resisted by farmers と Gradually, however、空所のあとの It convinced many farmers
+At first, the movement was resisted by farmers（最初、この運動は農民たちに反対された）
+resist は「反対する、抵抗する」です。At first（最初は）とあるので、あとで様子が変わることが予想できます。
+Gradually, however, farmers (　).（しかし、少しずつ、農民たちは（　））
+gradually は「少しずつ」、however は「しかし」です。最初は反対していた農民たちが、少しずつ「反対」とは違う方向へ進んだと考えられます。
+It convinced many farmers by emphasizing the benefits of roads（それは、道路の利点を強調することによって、多くの農民を納得させた）
+It は、空所のあとに出てくるパンフレットを指します。convince は「納得させる」です。パンフレットによって納得したのですから、農民たちは反対から賛成へと「考えを変え始めた」ことになります。よって3が正解です。
+この問題の型：対比（At first 反対⇔however 考えを変えた）
+【ほかの選択肢】
+1 increased their protests は「抗議を強めた」です。however（しかし）で前の「反対した」と逆の流れになるはずで、あとの「パンフレットが多くの農民を納得させた」ともつながりません。
+2 started using different roads は「別の道路を使い始めた」です。本文に書かれておらず、「その理由の一つはパンフレットで、それが農民を納得させた」という説明ともつながりません。
+4 turned against cyclists は「自転車乗りに反対するようになった」です。農民たちは最初から運動に反対していたので、however のあとで「反対するようになった」とするのは流れに合わず、パンフレットが農民を納得させたこととも合いません。
+【覚えるポイント】
+・change one's mind：「考えを変える」。resist：「反対する、抵抗する」。convince：「納得させる」。
+・At first（最初は）～. Gradually, however, ...（しかし、少しずつ…）の形では、however のあとに最初とは逆の変化がくることが多いので、最初の様子の反対を考えます。

@@ -1,0 +1,31 @@
+---
+choices: Kaiser left the project because the war had ended. | It was difficult to find workers because of the war. | Hughes spent a lot of time thinking about minor details. | The government did not provide the money it had promised.
+answerText: Hughes spent a lot of time thinking about minor details.
+reviewed: yes
+---
+【正解】3 Hughes spent a lot of time thinking about minor details.（ヒューズが、ささいな細かい点を考えるのに多くの時間を使った。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ハーキュリーズを造るのにとても長い時間がかかった理由の1つは何ですか。
+1 Kaiser left the project because the war had ended.（戦争が終わったので、カイザーが計画から手を引いた。）
+2 It was difficult to find workers because of the war.（戦争のせいで、働く人を見つけるのが難しかった。）
+3 Hughes spent a lot of time thinking about minor details.（ヒューズが、ささいな細かい点を考えるのに多くの時間を使った。）
+4 The government did not provide the money it had promised.（政府が約束していたお金を出さなかった。）
+【考え方】
+作業が長引いた理由は、第3段落に書かれています。
+Although the plane was needed immediately, the work took far longer than expected.（その飛行機はすぐにでも必要とされていたのに、作業は予想よりはるかに長くかかった）とあり、そのあとに理由が2つ挙げられています。
+1つ目は One reason was that even the small amount of metal they wanted was difficult to obtain.（理由の1つは、必要とした少しの金属でさえ手に入れるのが難しかったことだ）です。
+2つ目は Another was Hughes's concern with unimportant details.（もう1つは、ヒューズが重要でない細かい点にこだわったことだ）です。concern with ～ は「～へのこだわり、～を気にすること」です。その例として He would, for example, spend days worrying about the design of the plane's control panel.（たとえば、彼は飛行機の操縦盤のデザインについて、何日も悩み続けることがあった）とあります。
+本文と選択肢は次のように対応しています。
+本文 Hughes's concern with unimportant details（ヒューズが重要でない細かい点にこだわったこと）＝ 選択肢 Hughes ～ thinking about minor details（ヒューズがささいな細かい点を考えた）
+本文 spend days worrying about ～（何日も～について悩む）＝ 選択肢 spent a lot of time thinking about ～（～を考えるのに多くの時間を使った）
+minor は「小さな、重要でない」という意味で、本文の unimportant の言いかえです。正解は3です。
+【ほかの選択肢】
+1 本文では Eventually, Kaiser left the project（結局、カイザーは計画から手を引いた）のあと、By the time he finished, though, the war was over.（しかし、ヒューズが完成させたころには戦争は終わっていた）と続きます。本文は、カイザーが手を引き、ヒューズが1人で続け、完成させたころには戦争が終わっていた、という順で書かれています。戦争が終わったからカイザーが手を引いたとは書かれておらず、手を引いた理由そのものも本文にありません。また、作業が長引いた理由として本文が挙げているのは、金属の入手の難しさとヒューズのこだわりなので、誤りです。
+2 作業が遅れた理由として本文にあるのは、金属が手に入りにくかったことと、ヒューズのこだわりです。働く人が見つからなかったという話はないので、誤りです。
+4 本文には、ヒューズが政府のお金2,200万ドルを使ったとあります。政府が約束のお金を出さなかったという話はないので、誤りです。
+【覚えるポイント】
+・minor：「小さな、重要でない」。本文の unimportant と同じ意味で使われています。
+・take longer than expected：「予想より長くかかる」。

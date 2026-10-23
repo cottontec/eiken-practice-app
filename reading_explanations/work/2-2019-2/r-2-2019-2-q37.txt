@@ -1,0 +1,31 @@
+---
+choices: They could be used as a way for people to speak to each other in secret. | They will be used to encourage people to communicate with the government. | They can be used to monitor the conversations of spies from other countries. | They may prevent information from being shared with other people by mistake.
+answerText: They could be used as a way for people to speak to each other in secret.
+reviewed: yes
+---
+【正解】1 They could be used as a way for people to speak to each other in secret.（人々がひそかに話し合う手段として使えるかもしれないから。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：アメリカ政府はなぜ「電子ステッカー」に関心を持っているのですか。
+1 They could be used as a way for people to speak to each other in secret.（人々がひそかに話し合う手段として使えるかもしれないから。）
+2 They will be used to encourage people to communicate with the government.（人々が政府と連絡を取るようにうながすために使われるだろうから。）
+3 They can be used to monitor the conversations of spies from other countries.（外国のスパイの会話を見張るために使えるから。）
+4 They may prevent information from being shared with other people by mistake.（まちがって情報がほかの人に伝わるのを防ぐかもしれないから。）
+【考え方】
+the U.S. government（アメリカ政府）という語句は、第4段落に出てきます。その前の文から続けて読みます。
+Another possible use for the electronic stickers would be to allow people to communicate secretly with other people.（電子ステッカーのもう1つの考えられる使い道は、人々がほかの人とひそかに連絡を取り合えるようにすることだろう）
+According to Rogers, the U.S. government has shown an interest in developing a secret means of communication for special agents to use.（ロジャーズによると、アメリカ政府は、特別捜査官が使うための秘密の連絡手段を開発することに関心を示している）
+means は「手段、方法」という意味です。アメリカ政府が関心を持っているのは、「秘密の連絡手段」としての使い道です。
+本文と選択肢を対にすると、次のようになります。
+本文 allow people to communicate secretly with other people ＝ 選択肢 a way for people to speak to each other in secret
+本文 a secret means of communication（秘密の連絡手段）＝ 選択肢 a way for people to speak to each other in secret
+secretly（ひそかに）が in secret（ひそかに）に、communicate（連絡を取り合う）が speak to each other（話し合う）に言いかえられています。また、本文は possible use（考えられる使い道）や would be と、まだ実現していない可能性として書いています。選択肢でも could（～かもしれない）が使われていて、この点も本文と合っています。ですから、1が正解です。
+【ほかの選択肢】
+2 本文にありません。政府が考えているのは special agents（特別捜査官）がひそかに連絡を取り合うための手段で、一般の人々が政府と連絡を取るようにうながす話ではありません。
+3 本文にありません。外国のスパイの会話を見張るという話は出てきません。秘密の連絡手段は、自分たちの特別捜査官が使うためのものです。
+4 本文にありません。まちがって情報が伝わるのを防ぐという話は出てきません。
+【覚えるポイント】
+・means：「手段、方法」。a means of communication で「連絡の手段」です。形は複数形のように見えますが、1つの手段にも使います。
+・secretly ＝ in secret：「ひそかに、こっそり」。

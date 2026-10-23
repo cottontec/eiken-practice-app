@@ -1,0 +1,34 @@
+---
+choices: tragic | legible | tentative | spacious
+answerText: spacious
+reviewed: yes
+---
+【正解】4 spacious（広々とした）
+【和訳】
+（英文）
+A: Why do you want to move? Your apartment is so nice.
+B: I need somewhere more ［spacious］. This place is too small for all my possessions.
+（訳）
+A：どうして引っ越したいの？ あなたのアパート、とてもすてきだね。
+B：もっと（広々とした）場所が必要だよ。ここは、私の持ち物を全部置くには狭すぎるね。
+（選択肢の意味）
+1 tragic：悲劇的な、いたましい
+2 legible：（文字が）読みやすい
+3 tentative：仮の、ためらいがちな
+4 spacious：広々とした
+【考え方】
+まず見るところ：Bのあとの文の This place is too small
+Bの答えのあとの文を確かめます。
+This place is too small for all my possessions.（ここは、私の持ち物を全部置くには狭すぎる）
+too small は「小さすぎる、狭すぎる」、possessions は「持ち物」という意味です。Bは、今の部屋が狭いことを引っ越しの理由にしています。
+次に、空所のある文を見ます。
+I need somewhere more ( ).（もっと（　）場所が必要だ）
+今の場所が狭すぎるのですから、Bが求めているのは「もっと広い場所」です。spacious は「広々とした（空間がたっぷりある）」という意味なので、4が正解です。
+この問題の型：対比（too small⇔more spacious）
+【ほかの選択肢】
+1 tragic は「悲劇的な」です。「もっと悲劇的な場所が必要だ」では、引っ越したい理由として意味が通りません。
+2 legible は「（文字が）読みやすい」です。文字や書いたものについて使う語で、住む場所を表すのには合いません。
+3 tentative は「仮の、ためらいがちな」です。「もっと仮の場所が必要だ」では、狭すぎるという理由とつながりません。
+【覚えるポイント】
+・spacious：「広々とした」。space（空間）と関係のある語です。
+・空所のあとに「too small（狭すぎる）」のような今の不満が書かれているときは、その反対の性質を表す語が入る手がかりになります。

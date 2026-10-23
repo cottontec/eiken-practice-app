@@ -1,0 +1,33 @@
+---
+choices: To encourage young people to cook more often at home. | To promote products that are good for the environment. | To protect people's health from being harmed. | To increase profits for businesses selling healthier products.
+answerText: To protect people's health from being harmed.
+reviewed: yes
+---
+【正解】3 To protect people's health from being harmed.（人々の健康がそこなわれないように守るため。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Why have some countries decided to control certain types of advertisements?（一部の国が、特定の種類の広告を規制することに決めたのはなぜですか。）
+1 To encourage young people to cook more often at home.（若い人々に、家で料理をする回数を増やすよう促すため。）
+2 To promote products that are good for the environment.（環境によい製品を広めるため。）
+3 To protect people's health from being harmed.（人々の健康がそこなわれないように守るため。）
+4 To increase profits for businesses selling healthier products.（より健康によい製品を売る企業の利益を増やすため。）
+【考え方】
+まず見るところ：第2段落の最初の文の to protect public health and well-being と、最後の文の to protect people's health
+第2段落の最初の文に、国々が広告の規則を作った目的が書かれています。
+Different countries have set up rules stopping advertisements for some products and services to protect public health and well-being.（さまざまな国が、人々の健康と幸せな暮らしを守るために、一部の製品やサービスの広告を止める規則を設けてきた）
+そのあと、たばこ、お酒、健康によくない食べ物の例が続き、段落の最後で次のようにまとめています。
+In this way, advertising has been controlled strictly to protect people's health.（このように、広告は人々の健康を守るために厳しく規制されてきた）
+本文と選択肢を対にすると、次のようになります。
+本文 to protect people's health（人々の健康を守るために）＝ 選択肢 To protect people's health from being harmed（人々の健康がそこなわれないように守るため）
+本文 rules stopping advertisements for some products（一部の製品の広告を止める規則）→ 設問 control certain types of advertisements（特定の種類の広告を規制する）
+ですから3が正解です。
+この問題の型：具体例とまとめ（たばこ・お酒・健康によくない食べ物→人々の健康を守るため）
+【ほかの選択肢】
+1 本文にありません。若い人々については、お酒の広告を規制するという話が出てきますが、家で料理をするよう促すという話はありません。
+2 本文にありません。環境によい製品を広めるために広告を規制したという話は、本文に出てきません。
+4 本文にありません。広告を規制したのは人々の健康を守るためで、健康によい製品を売る企業の利益を増やすためとは書かれていません。
+【覚えるポイント】
+・In this way（このように）で始まる文は、それまでの具体例をまとめていることが多く、「なぜ」をたずねる設問の答えを探す手がかりになります。
+・control：ここでは「（広告などを）規制する、制限する」の意味です。

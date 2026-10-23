@@ -1,0 +1,33 @@
+---
+choices: is difficult to measure | has helped wild fish populations | was not caused by aquaculture | can easily be fixed
+answerText: can easily be fixed
+reviewed: yes
+---
+【正解】4 can easily be fixed（簡単に解決できる）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 is difficult to measure（はかるのが難しい）
+2 has helped wild fish populations（天然の魚の数を増やす助けになってきた）
+3 was not caused by aquaculture（水産養殖によって引き起こされたものではない）
+4 can easily be fixed（簡単に解決できる）
+【考え方】
+まず見るところ：第3段落の空所のあとの however と、最後の文の By focusing on ～, fish farms can become more ecologically friendly
+空所の前の文で、問題の中身を確かめます。
+For years, many aquaculture companies have focused on farming species such as salmon and tuna, which unfortunately have to be fed smaller fish that are caught in the wild.（何年もの間、多くの水産養殖の会社はサケやマグロのような種類の魚を育てることに力を入れてきたが、残念なことに、これらの魚には、天然でとられた、より小さな魚をえさとして与えなければならない）
+養殖のえさとして天然の魚が使われるので、天然の魚が減ってしまう、という問題です。
+次に、空所のある文と、そのあとの文を見ます。
+Experts say this problem ( 31 ), however.（しかし、専門家たちは、この問題は（31）と言う）
+By focusing on farming types of fish that eat algae or other common plantlike organisms, fish farms can become more ecologically friendly instead of making the situation worse.（藻類やそのほかのありふれた植物のような生物を食べる種類の魚の養殖に力を入れることで、養殖場は、状況を悪化させるのではなく、より環境にやさしいものになることができる）
+however があるので、問題の話から、明るい話へと流れが変わります。あとの文では、育てる魚の種類を変えることで問題が解決できる方法が示されています。
+本文 By focusing on farming types of fish that eat algae ～, fish farms can become more ecologically friendly（藻類などを食べる魚の養殖に力を入れることで、より環境にやさしくなれる）→ 選択肢 can easily be fixed（簡単に解決できる）
+と考えられるので、4が正解です。
+この問題の型：対比（however：問題がある⇔解決できる）／具体例とまとめ（あとの文の解決方法→can easily be fixed）
+【ほかの選択肢】
+1 is difficult to measure は「はかるのが難しい」です。あとの文は問題の大きさをはかる話ではなく、解決の方法を示しているので、つながりません。
+2 has helped wild fish populations は「天然の魚の数を増やす助けになってきた」です。この問題は、えさとして天然の魚が使われることなので、天然の魚を助けてきたというのは流れが逆になります。
+3 was not caused by aquaculture は「水産養殖によって引き起こされたものではない」です。前の文では、養殖の会社がサケやマグロを育て、そのえさに天然の魚を使っていると書かれているので、養殖が原因ではないというのは合いません。
+【覚えるポイント】
+・fix：「直す、解決する」。can easily be fixed で「簡単に解決できる」。
+・問題を説明した文のあとに however と空所があり、さらに By ～ing（～することで）で方法が続くときは、空所に「解決できる」という内容が入る手がかりになります。

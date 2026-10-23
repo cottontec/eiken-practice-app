@@ -1,0 +1,33 @@
+---
+choices: amount of time was limited | farmers had already received aid | report had not been accurate | local cattle were not fit for export
+answerText: report had not been accurate
+reviewed: yes
+---
+【正解】3 report had not been accurate（報告書は正確ではなかった）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 amount of time was limited（時間の量が限られていた）
+2 farmers had already received aid（農民たちはすでに援助を受けていた）
+3 report had not been accurate（報告書は正確ではなかった）
+4 local cattle were not fit for export（地元の牛は輸出に向いていなかった）
+【考え方】
+まず見るところ：第1段落の a report claiming ～ と、空所の後ろの James Ferguson ～ pointed out that ～
+空所の前では、計画のもとになった報告書の内容が書かれています。
+It was based primarily on a report claiming local people relied heavily on primitive farming customs and did not sell their cattle at market because they had little knowledge of the economy.（計画は主に、地元の人々は原始的な農業の習慣に大きく頼っていて、経済についての知識がほとんどないために牛を市場で売らない、と主張する報告書にもとづいていた）
+報告書は「地元の人々は農業に頼っている」「経済をよく知らない」と言っています。
+空所の文は However, the (29). で、However（しかし）があるので、前と反対の向きの内容が来ます。後ろの文を見ます。
+James Ferguson of Stanford University pointed out that people in the region earned most of their income from wage labor rather than farming, and were already familiar with agricultural markets.（スタンフォード大学のジェームズ・ファーガソンは、この地域の人々は収入の大部分を農業ではなく賃金労働から得ていて、農業の市場にもすでによく通じていた、と指摘した）
+報告書の主張とファーガソンの指摘を比べると、次のようになります。
+報告書 relied heavily on primitive farming customs（農業の習慣に大きく頼っている）⇔ ファーガソン earned most of their income from wage labor rather than farming（収入の大部分は農業ではなく賃金労働から）
+報告書 had little knowledge of the economy（経済の知識がほとんどない）⇔ ファーガソン were already familiar with agricultural markets（市場にすでによく通じていた）
+どちらも報告書の内容と反対です。つまり、報告書が正しくなかったということです。ですから3が正解です。
+この問題の型：対比（However 報告書の主張 ⇔ ファーガソンの指摘）
+【ほかの選択肢】
+1 「時間の量が限られていた」を入れると、計画の時間が足りなかったという話になります。しかし後ろの文でファーガソンが指摘しているのは、地元の人々の収入や市場の知識のことで、時間の話はどこにも書かれていません。
+2 「農民たちはすでに援助を受けていた」を入れると、ほかの援助がすでにあったという話になります。後ろの文の already（すでに）は市場をよく知っていたことについての語で、援助を受けていたとは書かれていません。
+4 「地元の牛は輸出に向いていなかった」を入れると、牛の質の話になります。本文には輸出の話はなく、後ろの文の人々の収入や市場の知識ともつながりません。
+【覚えるポイント】
+・accurate：「正確な」。not accurate で「正確ではない」。
+・However のあとの空所では、前に書かれた主張と、後ろに書かれた事実を比べて、どこが食い違っているかを見ると答えの手がかりになります。

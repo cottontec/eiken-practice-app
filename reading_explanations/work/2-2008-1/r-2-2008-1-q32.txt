@@ -1,0 +1,25 @@
+---
+choices: observe | prepare | imagine | remove
+answerText: observe
+reviewed: yes
+---
+【正解】1 observe（～を注意深く観察する）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 observe：～を注意深く観察する、よく見る
+2 prepare：～を準備する
+3 imagine：～を想像する
+4 remove：～を取り除く
+【考え方】
+空所は第2段落の With this in mind, secret patients (　) everything from the behavior of the doctors and the nursing staff to how clean the waiting room is.（このことを念頭に置いて、覆面患者は、医者や看護スタッフのふるまいから待合室がどれくらい清潔かまで、あらゆることを（　）する）にあります。from A to B は「AからBまで」、behavior は「ふるまい、態度」です。
+With this in mind（このことを念頭に置いて）の this は、すぐ前の文の内容を指しています。前の文には、患者の苦情の約3分の2が poor customer service rather than ... the actual medical treatment（実際の治療よりも、むしろ客へのサービスの悪さ）に関係している、と書かれています。
+苦情の多くがサービスに関することなので、覆面患者はスタッフの態度や待合室の清潔さまで、サービスにかかわるあらゆることを「注意深く見る」必要があります。observe は「～を注意深く観察する」という意味なので、1が正解です。
+【ほかの選択肢】
+2 prepare は「～を準備する」です。覆面患者は患者として訪れる人なので、医者のふるまいや待合室の清潔さを準備するわけではありません。
+3 imagine は「～を想像する」です。覆面患者は実際に診療所を訪れて体験するので、想像するのではなく実際に見て確かめます。
+4 remove は「～を取り除く」です。「医者のふるまいから待合室の清潔さまで、あらゆることを取り除く」となり、意味が通りません。
+【覚えるポイント】
+・observe：「～を注意深く観察する」。
+・with ～ in mind：「～を念頭に置いて、～を考えに入れて」。

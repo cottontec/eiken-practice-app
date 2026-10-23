@@ -1,0 +1,25 @@
+---
+choices: preventing | delaying | introducing | separating
+answerText: introducing
+reviewed: yes
+---
+【正解】3 introducing（～を導入すること）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 preventing：～を防ぐこと
+2 delaying：～を遅らせること
+3 introducing：～を導入すること、取り入れること
+4 separating：～を分けること、切り離すこと
+【考え方】
+空所は本文の最後の文 And now, they have begun to consider (　) similar plans.（そして今、それらの地域は同じような計画を（　）ことを検討し始めている）にあります。consider ～ing は「～することを検討する、よく考える」です。
+they は、すぐ前の文の nine other areas of London（ロンドンのほかの9つの地域）を指しています。その文には、これらの地域が have expressed support for the policy（この方針への支持を表明している）と書かれています。support は「支持（賛成して応援すること）」です。
+リッチモンドの方針に賛成している地域が、次に考えることは「自分たちの地域でも同じような計画を始めること」です。introduce は「（新しい制度など）を導入する、取り入れる」という意味なので、3が正解です。
+【ほかの選択肢】
+1 preventing は「～を防ぐこと」です。方針を支持している地域が、同じような計画を「防ぐ」ことを考えるのは、前の文と反対の内容になってしまいます。
+2 delaying は「～を遅らせること」です。支持を表明したばかりの地域が、計画を遅らせることを検討し始めるのは、流れに合いません。
+4 separating は「～を分けること、切り離すこと」です。「同じような計画を分けることを検討する」となり、意味が通りません。
+【覚えるポイント】
+・introduce：「（制度・方法など）を導入する、取り入れる」。人を「紹介する」という意味だけではありません。
+・consider ～ing：「～することを検討する」。consider のあとは to ～ ではなく ～ing の形にします。

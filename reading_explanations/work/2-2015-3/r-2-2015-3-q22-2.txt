@@ -1,0 +1,21 @@
+---
+choices: made | were | wait outside | to | they
+answerText: were
+order: 5 2 1 4 3
+reviewed: yes
+---
+【正解】2 were（この問題の2番目）
+【完成文】
+Although his family had a reservation, ( they were made to wait outside ) for over 20 minutes until their table was ready.
+並べ方：5 they → 2 were → 1 made → 4 to → 3 wait outside（2番目は2、4番目は4）
+【和訳】
+ジョージは、その新しいレストランのサービスに不満でした。彼の家族は予約をしていたのに、テーブルの準備ができるまで、20分以上外で待たされたのです。
+【考え方】
+空所の前は Although his family had a reservation,（彼の家族は予約をしていたのに）です。although は「～だけれども、～なのに」という意味で、そのあとには、予約をしていたこととは逆の、ジョージが不満に思った出来事が続くと考えられます。
+空所の部分は、主語と動詞のそろったふつうの文になります。主語には、his family（彼の家族）を指す 5 they を置きます。
+次に、家族は自分から外で待ったのではなく、店によって「待たされた」と考えます。make ＋ 人 ＋ 動詞の元の形 は「人に～させる」という意味で、これを受け身（「～される」を表す be ＋ 過去分詞 の形）にすると、人 ＋ be made to ～（～させられる）になります。そこで they のあとに 2 were → 1 made と続け、そのあとに 4 to → 3 wait outside を置きます。
+したがって2番目は2 were です。
+まちがえやすいのは、2 were → 5 they → 1 made → 4 to → 3 wait outside（were they made to wait outside）のように were を先に置く並べ方です。これは「彼らは外で待たされたのですか」とたずねる疑問文の語順です。although のあとに続く文の後半は、ふつうの文の語順にします。
+【覚えるポイント】
+・be made to ～：「～させられる」。make ＋ 人 ＋ 動詞の元の形（人に～させる）の受け身の形です。
+・although ～：「～だけれども、～なのに」。

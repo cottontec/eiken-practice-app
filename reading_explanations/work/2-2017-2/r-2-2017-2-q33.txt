@@ -1,0 +1,32 @@
+---
+choices: thinks that it does not have to help the homeless in the United States any more. | believes its program was not successful because many people became homeless again. | has started to provide the homeless with the healthcare and work that they need. | has reached its original goal and plans to expand its services to homeless people in other places.
+answerText: has reached its original goal and plans to expand its services to homeless people in other places.
+reviewed: yes
+---
+【正解】4 has reached its original goal and plans to expand its services to homeless people in other places.（もとの目標を達成し、ほかの場所のホームレスの人々にもサービスを広げる計画をしている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：コミュニティー・ソリューションズは
+1 thinks that it does not have to help the homeless in the United States any more.（もうアメリカのホームレスの人々を助ける必要はないと考えている。）
+2 believes its program was not successful because many people became homeless again.（多くの人々が再びホームレスになったので、自分たちのプログラムは成功しなかったと考えている。）
+3 has started to provide the homeless with the healthcare and work that they need.（ホームレスの人々に、彼らが必要とする医療と仕事を提供し始めた。）
+4 has reached its original goal and plans to expand its services to homeless people in other places.（もとの目標を達成し、ほかの場所のホームレスの人々にもサービスを広げる計画をしている。）
+【考え方】
+団体の成果とこれからの計画は、第4段落に書かれています。
+・The organization achieved its aim of providing 100,000 homes by July 2014.（団体は、2014年7月までに10万戸の住まいを提供するという目的を達成した）
+・Having accomplished its original aim, Community Solutions has set a much higher goal.（もとの目的を達成したコミュニティー・ソリューションズは、はるかに高い目標を立てた）
+・The organization hopes to find homes for all homeless people in the United States.（団体は、アメリカのすべてのホームレスの人々に住まいを見つけたいと願っている）
+・In addition, it plans to help other countries introduce similar campaigns to reduce homelessness.（さらに、ホームレスの状態を減らすために、ほかの国々が同じような運動を始めるのを手助けする計画もしている）
+本文と選択肢を対にすると、次のようになります。
+本文 achieved its aim / accomplished its original aim（もとの目的を達成した）＝ 選択肢 has reached its original goal（もとの目標を達成した）
+本文 find homes for all homeless people in the United States（アメリカのすべてのホームレスの人々に住まいを見つける）、help other countries introduce similar campaigns（ほかの国々が同じような運動を始めるのを手助けする）→ 選択肢 plans to expand its services to homeless people in other places（ほかの場所のホームレスの人々にもサービスを広げる計画をしている）
+選択肢の後半は、本文の2つの計画をまとめて、活動の範囲を広げると言いかえたものです。4が正解です。
+【ほかの選択肢】
+1 本文には hopes to find homes for all homeless people in the United States（アメリカのすべてのホームレスの人々に住まいを見つけたい）とあります。これからもアメリカのホームレスの人々を助けようとしているので、反対の内容です。
+2 本文には a few of the people it helped later became homeless again（助けた人々のうちの少数はのちに再びホームレスになった）とあります。再びホームレスになったのは「多くの人々」ではなく「少数」で、the great majority managed to change their lives（大多数はなんとか生活を変えることができた）とも書かれています。団体は目的も達成しているので、「成功しなかった」とは考えていません。
+3 本文の becoming healthier and finding work（前より健康になり、仕事を見つけた）は、助けられた人々に起きた変化です。団体が医療や仕事を提供し始めたとは書かれていません。
+【覚えるポイント】
+・Having ＋過去分詞 ～, ...：「～し終えて、…」。Having accomplished its original aim で「もとの目的を達成して」。
+・in addition：「さらに、それに加えて」。

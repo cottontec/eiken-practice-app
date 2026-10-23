@@ -1,0 +1,29 @@
+---
+choices: pace | motion | trait | grip
+answerText: pace
+reviewed: yes
+---
+【正解】1 pace（ペース、生活や物事の速さ・調子）
+【和訳】
+（英文）
+Mr. Brown decided he needed a change of ［pace］, so he quit his stressful job, moved to the countryside, and opened a small café.
+（訳）
+ブラウンさんは、（ペース）を変えること（気分転換）が必要だと判断し、ストレスの多い仕事を辞め、田舎に引っ越して、小さなカフェを開いた。
+（選択肢の意味）
+1 pace：ペース、生活や物事の速さ・調子
+2 motion：動き、動作
+3 trait：特徴、特性
+4 grip：握ること、つかむ力
+【考え方】
+まず見るところ：so のあとの quit his stressful job, moved to the countryside
+so he quit his stressful job, moved to the countryside, and opened a small café（だから、ストレスの多い仕事を辞め、田舎に引っ越して、小さなカフェを開いた）
+so（だから）の後ろには、ブラウンさんが実際にしたことが書かれています。仕事も住む場所も変えて、暮らし方を大きく変えたことが分かります。
+空所のある部分は he needed a change of ( )（（　）の変化が必要だった）です。a change of pace は「ペースを変えること、いつもと違う調子にすること」という意味の決まった言い方です。忙しくストレスの多い暮らしから、田舎でのゆったりした暮らしに変えた、という流れに合うので、1が正解です。
+この問題の型：熟語・決まった形（a change of pace）／因果（so）
+【ほかの選択肢】
+2 motion は「動き、動作」です。a change of motion は「動きの変化」となり、仕事や住む場所を変えた理由を表す言い方になりません。
+3 trait は「特徴、特性」で、主に人の性格などの特徴を言います。後ろに書かれているのは性格を変える話ではなく、仕事や住む場所を変えた話なので合いません。
+4 grip は「握ること、つかむ力」です。「握り方を変える必要があった」となり、仕事を辞めて田舎に引っ越すことにつながりません。
+【覚えるポイント】
+・a change of pace：「ペースを変えること、いつもと違う調子にすること」。
+・so の後ろに具体的な行動が並んでいるときは、その行動をひとことでまとめた理由が so の前の空所に入ることが多いので、後ろの行動から考えると手がかりになります。

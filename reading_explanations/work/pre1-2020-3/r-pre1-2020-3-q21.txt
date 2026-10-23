@@ -1,0 +1,31 @@
+---
+choices: divine | dutiful | sparse | lively
+answerText: divine
+reviewed: yes
+---
+【正解】1 divine（神の、神からの）
+【和訳】
+（英文）
+In ancient times, some people thought earthquakes were a ［divine］ warning. They believed God was telling them to change their behavior.
+（訳）
+古代には、地震は（神からの）警告だと考える人々がいました。彼らは、神が自分たちに行いを改めるよう告げているのだと信じていました。
+（選択肢の意味）
+1 divine：神の、神からの
+2 dutiful：義務をよく果たす、忠実な
+3 sparse：まばらな、少ない
+4 lively：生き生きとした、活発な
+【考え方】
+まず見るところ：後半の文の They believed God was telling them to change their behavior.
+They believed God was telling them to change their behavior.（彼らは、神が自分たちに行いを改めるよう告げているのだと信じていた）
+behavior は「行い、ふるまい」です。古代の人々は、地震を「神が告げていること」だと考えていたことが分かります。
+空所のある文は次のとおりです。
+some people thought earthquakes were a (　) warning（地震は（　）警告だと考える人々がいた）
+warning は「警告」です。後半の文の God（神）が告げているという内容に合わせると、空所には「神の、神からの」という意味の divine が入ります。ですから1が正解です。
+この問題の型：言いかえ（divine warning ＝ God was telling them）
+【ほかの選択肢】
+2 dutiful は「義務をよく果たす、忠実な」です。ふつう人の態度を表す語で、「地震は忠実な警告だ」となり、神が告げているという後半の文と合いません。
+3 sparse は「まばらな、少ない」です。「地震はまばらな警告だ」となり、意味が通りません。
+4 lively は「生き生きとした、活発な」です。「地震は生き生きとした警告だ」となり、神が告げているという後半の文と合いません。
+【覚えるポイント】
+・divine：「神の、神からの」。a divine warning で「神からの警告」です。
+・空所のあとの文に God（神）のような語が出てきたら、空所の形容詞（名詞のようすを表す語）がそれを言いかえていないかを確かめると手がかりになります。

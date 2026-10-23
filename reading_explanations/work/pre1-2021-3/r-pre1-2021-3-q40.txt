@@ -1,0 +1,33 @@
+---
+choices: provide an example of how the use of mummy brown was opposed by some people because it showed a lack of respect for the dead. | explain why mummy brown remained popular among well-known artists in spite of its poor technical performance. | give support for the theory that mummy brown was superior to other paint pigments because of its unique ingredients. | describe one reason why some artists developed a positive view of mummy brown after initially refusing to use it.
+answerText: provide an example of how the use of mummy brown was opposed by some people because it showed a lack of respect for the dead.
+reviewed: yes
+---
+【正解】1 provide an example of how the use of mummy brown was opposed by some people because it showed a lack of respect for the dead.（マミー・ブラウンを使うことが死者への敬意を欠いているという理由で、一部の人々に反対されたことの例を示す）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：The author of the passage mentions the British painter in order to（筆者がイギリスの画家について述べているのは、～ためである。）
+1 provide an example of how the use of mummy brown was opposed by some people because it showed a lack of respect for the dead.（マミー・ブラウンを使うことが死者への敬意を欠いているという理由で、一部の人々に反対されたことの例を示す）
+2 explain why mummy brown remained popular among well-known artists in spite of its poor technical performance.（技術的な性能が悪いにもかかわらず、マミー・ブラウンがなぜ有名な画家たちの間で人気があり続けたのかを説明する）
+3 give support for the theory that mummy brown was superior to other paint pigments because of its unique ingredients.（マミー・ブラウンは独特の材料のために、ほかの絵の具の顔料よりすぐれていたという説を裏づける）
+4 describe one reason why some artists developed a positive view of mummy brown after initially refusing to use it.（一部の画家が、最初はマミー・ブラウンを使うのを断っていたのに、なぜそれをよく思うようになったのか、その理由の一つを述べる）
+【考え方】
+まず見るところ：第3段落の最後の painting with a pigment made from deceased people increasingly came to be thought of as disrespectful—one well-known British painter ～
+イギリスの画家は、第3段落の最後の文に出てきます。
+Moreover, painting with a pigment made from deceased people increasingly came to be thought of as disrespectful—one well-known British painter who used mummy brown immediately buried his tube of the paint in the ground when he learned that real mummies had been used to produce it.（さらに、亡くなった人々から作られた顔料で絵を描くことは、しだいに死者への敬意を欠くことだと考えられるようになった――マミー・ブラウンを使っていたある有名なイギリスの画家は、本物のミイラがその絵の具を作るのに使われていたことを知ると、すぐに自分のその絵の具のチューブを地面に埋めた）
+deceased は「亡くなった」、disrespectful は「敬意を欠いた、失礼な」です。ダッシュ（――）の前で「死者に失礼だと考えられるようになった」と述べ、ダッシュのあとで、そのことを示す具体的な話としてイギリスの画家を挙げています。画家は、本物のミイラが使われていると知って、すぐに絵の具を埋めました。これは、その絵の具を使うことを受け入れなかったということです。
+本文と選択肢1を対にすると、次のようになります。
+・本文 disrespectful（敬意を欠いた）→ 選択肢 showed a lack of respect for the dead（死者への敬意を欠いていることを示した）
+・本文 buried his tube of the paint（絵の具のチューブを埋めた）→ 選択肢 was opposed by some people（一部の人々に反対された）
+・本文 ダッシュのあとの1人の画家の話 → 選択肢 provide an example（例を示す）
+よって1が正解です。
+この問題の型：具体例とまとめ（disrespectful ― その例としてのイギリスの画家）
+【ほかの選択肢】
+2 本文の内容と合いません。本文には the pigment had more critics than fans（この顔料には、好む人よりも批判する人のほうが多かった）とあり、有名な画家たちの間で人気があり続けたとは書かれていません。イギリスの画家も、本物のミイラが使われていると知って、絵の具を埋めています。
+3 本文に書かれていません。マミー・ブラウンがほかの顔料よりすぐれていたという説は出てきません。イギリスの画家の話は、材料が本物のミイラだと知って絵の具を埋めたというもので、すぐれていたことの裏づけにはなりません。
+4 本文と順番が逆です。イギリスの画家は、最初はマミー・ブラウンを使っていて、材料を知ったあとで絵の具を埋めました。「最初は使うのを断っていたが、あとでよく思うようになった」という流れではありません。
+【覚えるポイント】
+・disrespectful：「敬意を欠いた、失礼な」。deceased：「亡くなった」。more A than B：「BよりもAのほうが多い」。
+・「筆者が～について述べているのはなぜか」をたずねる設問では、その人物の話の直前の文を読みます。ダッシュ（―）や for example のあとに出てくる人物は、直前の文の内容の具体例であることが多いです。

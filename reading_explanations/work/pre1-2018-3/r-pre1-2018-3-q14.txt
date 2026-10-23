@@ -1,0 +1,29 @@
+---
+choices: transparent | sterile | crunchy | fragrant
+answerText: fragrant
+reviewed: yes
+---
+【正解】4 fragrant（香りのよい）
+【和訳】
+（英文）
+The flowers in Naoko's garden are particularly ［fragrant］. They can often be smelled from all the way across the street.
+（訳）
+ナオコの庭の花は、特に香りがよい。その花のにおいは、通りの向こう側からでもよくかぐことができる。
+（選択肢の意味）
+1 transparent：透明な、すき通った
+2 sterile：（土地が）やせた、無菌の
+3 crunchy：かりかりした、歯ごたえのある
+4 fragrant：香りのよい
+【考え方】
+まず見るところ：次の文の They can often be smelled
+空所には、ナオコの庭の花がどんな様子かを表す語が入ります。次の文がその説明です。
+They can often be smelled from all the way across the street.（その花のにおいは、通りの向こう側からでもよくかぐことができる）
+They は The flowers in Naoko's garden（ナオコの庭の花）を指しています。be smelled は「においをかがれる」で、all the way across the street は「通りをわたったずっと向こう側から」です。離れた場所からでもにおいが分かるのですから、香りが強いことになります。fragrant は「香りのよい」なので、4が正解です。
+この問題の型：具体例とまとめ（通りの向こうまでにおいが届く → 香りがよい）
+【ほかの選択肢】
+1 transparent は「透明な」です。花が透明でも、通りの向こうからにおいが分かる理由にはなりません。
+2 sterile は「（土地が）やせた、無菌の」です。においについての次の文とつながりません。
+3 crunchy は「かりかりした、歯ごたえのある」です。食べ物について使うことが多い語で、においの説明になりません。
+【覚えるポイント】
+・fragrant：「香りのよい」。particularly は「特に」です。
+・空所のある文のあとに、感覚（見る・聞く・かぐ）を表す語（ここでは smelled）が出てきたら、空所にも同じ感覚に関係する語が入る手がかりになります。

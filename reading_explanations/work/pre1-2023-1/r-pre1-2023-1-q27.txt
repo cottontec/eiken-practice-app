@@ -1,0 +1,32 @@
+---
+choices: topics had made the subjects nervous | subjects’ ratings did not always match | topic choices had been too varied | subjects’ expectations had been wrong
+answerText: subjects’ expectations had been wrong
+reviewed: yes
+---
+【正解】4 subjects’ expectations had been wrong（被験者の予想がまちがっていた）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 topics had made the subjects nervous（話題が被験者を緊張させていた）
+2 subjects’ ratings did not always match（被験者の評価は、いつも一致するわけではなかった）
+3 topic choices had been too varied（話題の選び方がばらばらすぎた）
+4 subjects’ expectations had been wrong（被験者の予想がまちがっていた）
+【考え方】
+まず見るところ：第2段落の At the beginning of the study, most subjects thought と、空所のあとの That is
+最初に、研究の初めに被験者がどう考えていたかを見ます。
+At the beginning of the study, most subjects thought they would enjoy casual conversations more.（研究の初めには、ほとんどの被験者は、気軽な会話のほうをより楽しめるだろうと考えていた）
+subject は「被験者（実験に参加する人）」、casual は「気軽な」です。被験者は「軽い話題のほうが楽しいだろう」と予想していました。
+次に、空所のあとの文を見ます。
+That is, most subjects reported having a more positive experience overall after discussing serious topics.（つまり、ほとんどの被験者は、まじめな話題について話し合ったあとに、全体として、より前向きな体験をしたと報告したのだ）
+That is（つまり）は、前の内容を言いかえるときに使います。実際には、まじめな話題のほうがよい体験になったので、初めの予想とは逆の結果でした。
+「予想がまちがっていた」という内容を、That is のあとの文が具体的に言いかえていることになるので、4が正解です。
+この問題の型：対比（初めの予想：気軽な会話が楽しい⇔結果：まじめな話題がよい体験）／言いかえ（That is）
+【ほかの選択肢】
+1 「話題が被験者を緊張させていた」とは、本文に書かれていません。That is のあとの「よりよい体験をした」という言いかえとも合いません。
+2 「被験者の評価は、いつも一致するわけではなかった」は、That is のあとの most subjects reported（ほとんどの被験者が報告した）と合いません。ほとんどの被験者が同じような結果を報告しており、評価がばらばらだったという話にはなりません。
+3 「話題の選び方がばらばらすぎた」とは、本文に書かれていません。第2段落には、それぞれの組が軽い話題と、より中身のある話題を考え出すよう求められたとあるだけで、選び方の問題は出てきません。That is のあとの内容ともつながりません。
+【覚えるポイント】
+・expectation：「予想、期待」。
+・That is：「つまり、言いかえると」。
+・研究の話で「初めは～と思っていた」と書かれているときは、そのあとの結果が予想と反対になることが多いので、初めの予想と結果を並べて比べると手がかりになります。

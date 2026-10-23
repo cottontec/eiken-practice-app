@@ -1,0 +1,25 @@
+---
+choices: cost | failure | decrease | criticism
+answerText: decrease
+reviewed: yes
+---
+【正解】3 decrease（減少）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 cost：費用
+2 failure：失敗
+3 decrease：減少
+4 criticism：批判
+【考え方】
+空所の文は Many people believe that the main reason for this (　) is the country's policy of giving a free box ...（多くの人は、この（　）の主な理由は、無料の箱を贈るという国の政策だと考えている）です。this（この）が付いているので、空所の語は、前に書かれていることを指しているはずです。
+前の文を順に見ます。1900年代の初めには every year around 6.5 percent died（毎年約6.5パーセントの赤ちゃんが亡くなった）とあり、そのあと Now, Finland has one of the lowest death rates for babies in the world.（今では、フィンランドは世界で最も赤ちゃんの死亡率の低い国の1つだ）と続きます。death rate は「死亡率（亡くなる人の割合）」です。
+つまり、亡くなる赤ちゃんの割合が「高い」から「低い」へと変わりました。この変化をひとことで表すのが decrease（減少）です。「この減少の主な理由は、無料の箱を贈る政策だ」となり、意味が通ります。正解は3です。
+【ほかの選択肢】
+1 cost は「費用」です。「この費用の主な理由は、無料の箱を贈る政策だ」となり、前の文の「死亡率が低くなった」という内容を指す語として合いません。
+2 failure は「失敗」です。赤ちゃんの死亡率が低くなったのはよい変化なので、「この失敗」と呼ぶのは合いません。
+4 criticism は「批判」です。本文では、この政策がだれかに批判されたという話は出てこないので、「この批判」が指すものがありません。
+【覚えるポイント】
+・decrease：「減少」（名詞）、「減る、減らす」（動詞）。反対は increase（増加）です。
+・death rate：「死亡率」。rate は「割合、率」です。

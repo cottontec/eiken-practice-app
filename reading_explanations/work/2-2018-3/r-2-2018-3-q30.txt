@@ -1,0 +1,31 @@
+---
+choices: has become the most popular type of chocolate in the world. | has more sugar but less fat than most types of chocolate. | tastes good but is healthier to eat than traditional chocolate. | helps people who dislike the flavor of traditional chocolate.
+answerText: tastes good but is healthier to eat than traditional chocolate.
+reviewed: yes
+---
+【正解】3 tastes good but is healthier to eat than traditional chocolate.（味はよいが、昔ながらのチョコレートよりも食べるのに健康的である。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ウォーリック大学の科学者チームによって開発されたチョコレートは、
+1 has become the most popular type of chocolate in the world.（世界で最も人気のある種類のチョコレートになった。）
+2 has more sugar but less fat than most types of chocolate.（ほとんどの種類のチョコレートよりも砂糖は多いが、脂肪は少ない。）
+3 tastes good but is healthier to eat than traditional chocolate.（味はよいが、昔ながらのチョコレートよりも食べるのに健康的である。）
+4 helps people who dislike the flavor of traditional chocolate.（昔ながらのチョコレートの味が嫌いな人々の役に立つ。）
+【考え方】
+ウォーリック大学の科学者チームは、第1段落の終わりに出てきます。
+Recently, though, a team of scientists at the University of Warwick in the United Kingdom has come up with a way to replace fat in chocolate without affecting the taste.（ところが最近、イギリスのウォーリック大学の科学者チームが、味に影響を与えずにチョコレートの脂肪を置きかえる方法を考え出した）
+come up with ～ は「～を考え出す」、without affecting the taste は「味に影響を与えずに」です。つまり、味はそのままで、害になることがある脂肪を減らせるということです。
+さらに、第2段落の終わりには has found a new and much healthier way（新しくて、ずっと健康的な方法を見つけた）とあり、第4段落の終わりにも The new method, however, will make it much healthier than before.（新しい方法によって、チョコレートは以前よりもずっと健康的になる）とあります。
+本文と選択肢を対にすると、次のようになります。
+本文 without affecting the taste（味に影響を与えずに）→ 選択肢 tastes good（味がよい）
+本文 much healthier than before（以前よりずっと健康的）＝ 選択肢 healthier to eat than traditional chocolate（昔ながらのチョコレートより食べるのに健康的）
+もとのチョコレートの味を保つと書かれているので、味はよいままだと読み取れます。ですから、3が正解です。
+【ほかの選択肢】
+1 第1段落の Chocolate is one of the most popular foods in the world（チョコレートは世界で最も人気のある食べ物の1つ）は、チョコレート全体についての話です。新しく開発されたチョコレートが世界で最も人気になったとは書かれていません。
+2 脂肪を減らすことは書かれていますが、砂糖を増やすとはどこにも書かれていません。第4段落では、新しい方法でも chocolate will continue to have fat and sugar（脂肪と砂糖が含まれ続ける）とあるだけです。「砂糖が多い」の部分が本文と合いません。
+4 第4段落に the aim is not to improve the flavor of the chocolate but to make it healthier（目的はチョコレートの味をよくすることではなく、より健康的にすること）とあります。昔ながらのチョコレートの味が嫌いな人のためのものではありません。
+【覚えるポイント】
+・without -ing：「～せずに」。without affecting the taste＝味に影響を与えずに。
+・come up with ～：「～を考え出す、思いつく」。

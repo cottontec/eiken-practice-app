@@ -1,0 +1,29 @@
+---
+choices: publicized | amended | devised | compelled
+answerText: compelled
+reviewed: yes
+---
+【正解】4 compelled（せざるをえない）
+【和訳】
+（英文）
+The company president said that due to the severe drop in sales, he felt ［compelled］ to cut the number of staff.
+（訳）
+その会社の社長は、売り上げがひどく落ちこんだため、従業員の数を減らさざるをえないと感じた、と言った。
+（選択肢の意味）
+1 publicized：公表された
+2 amended：修正された
+3 devised：考え出された、工夫された
+4 compelled：（feel compelled to ～ で）～せざるをえないと感じる
+【考え方】
+まず見るところ：空所の前の due to the severe drop in sales と、空所のあとの to cut the number of staff
+社長が従業員を減らそうとした理由が、空所の前に書かれています。
+due to the severe drop in sales（売り上げのひどい落ちこみのために）
+due to ～ は「～のために、～が原因で」という意味です。売り上げが大きく落ちたので、社長は「従業員を減らすしかない」と感じたと考えられます。compel は「（人に）むりやり～させる」という意味で、feel compelled to ～ で「～せざるをえないと感じる」となります。理由とうまくつながるので、4が正解です。
+この問題の型：熟語・決まった形（feel compelled to ～）
+【ほかの選択肢】
+1 publicized は「公表された」です。「社長は従業員の数を減らすために公表されたと感じた」となり、意味が通りません。
+2 amended は「（法律や文書などが）修正された」です。「社長が修正されたと感じた」となり、人の気持ちを表す言い方として意味が通りません。
+3 devised は「（計画などが）考え出された」です。「社長が考え出されたと感じた」となり、意味が通りません。
+【覚えるポイント】
+・feel compelled to ～：「～せざるをえないと感じる」。due to ～ は「～のために、～が原因で」です。
+・felt ( ) to ～ の形では、空所に人の気持ちや立場を表す語が入ります。前にある理由（ここでは due to the severe drop in sales）から、「しかたなく～する」のか「進んで～する」のかを考える手がかりにしましょう。

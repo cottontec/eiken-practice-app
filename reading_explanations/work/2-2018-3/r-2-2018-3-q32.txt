@@ -1,0 +1,30 @@
+---
+choices: A type of fruit juice that can be added to chocolate to improve its taste. | A way to make chocolate that maintains the sweet flavor of fruit juice. | Up to half of the fat in chocolate can be replaced with fruit juice. | Fruit juice can be added to traditional chocolate to make it harder.
+answerText: Up to half of the fat in chocolate can be replaced with fruit juice.
+reviewed: yes
+---
+【正解】3 Up to half of the fat in chocolate can be replaced with fruit juice.（チョコレートの脂肪の最大半分を、果物のジュースに置きかえることができる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：科学者チームは何を発見しましたか。
+1 A type of fruit juice that can be added to chocolate to improve its taste.（味をよくするためにチョコレートに加えることができる、ある種類の果物のジュース。）
+2 A way to make chocolate that maintains the sweet flavor of fruit juice.（果物のジュースの甘い風味を保つチョコレートの作り方。）
+3 Up to half of the fat in chocolate can be replaced with fruit juice.（チョコレートの脂肪の最大半分を、果物のジュースに置きかえることができる。）
+4 Fruit juice can be added to traditional chocolate to make it harder.（果物のジュースを昔ながらのチョコレートに加えて、より硬くすることができる。）
+【考え方】
+科学者チームの新しい方法は、第3段落でくわしく説明されています。
+In this method, first, fruit juice, which is healthier than fat, is converted into tiny bubbles.（この方法では、まず、脂肪よりも健康的な果物のジュースを、とても小さな泡に変える）
+According to the leader of the team, Stefan Bon, it is possible to replace up to 50 percent of the fat with fruit juice in this way.（チームのリーダーであるステファン・ボンによると、この方法で、脂肪の最大50パーセントを果物のジュースに置きかえることができる）
+replace A with B は「AをBに置きかえる」、up to ～ は「最大～まで」という意味です。
+本文と選択肢を対にすると、次のようになります。
+本文 replace up to 50 percent of the fat with fruit juice ＝ 選択肢 Up to half of the fat in chocolate can be replaced with fruit juice
+50 percent（50パーセント）は half（半分）と同じです。本文の it is possible to replace（置きかえることができる）が、選択肢では can be replaced（置きかえられる）という受け身の形（「～される」を表す形）で表されています。ですから、3が正解です。
+【ほかの選択肢】
+1 第4段落に the aim is not to improve the flavor of the chocolate but to make it healthier（目的はチョコレートの味をよくすることではなく、より健康的にすること）とあります。チームが見つけたのは、味をよくするための果物のジュースではありません。
+2 本文の the fruit juice maintains the feeling of chocolate in the mouth は「果物のジュースは、口の中でのチョコレートの食感を保つ」という意味です。保たれるのはチョコレートの食感であり、果物のジュースの甘い風味ではありません。また、第4段落では、純粋なチョコレートの味を保つ方法まで見つかったと書かれています。
+4 果物のジュースでチョコレートを硬くするとは、どこにも書かれていません。ジュースは材料をまとめるために使われ、口の中での食感は保たれると書かれています。
+【覚えるポイント】
+・replace A with B：「AをBに置きかえる」。受け身の形では A can be replaced with B（AはBに置きかえられる）となります。
+・up to ～：「最大～まで」。up to 50 percent＝最大50パーセント。

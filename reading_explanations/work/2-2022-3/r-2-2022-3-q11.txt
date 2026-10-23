@@ -1,0 +1,30 @@
+---
+choices: amounted to | aimed at | calmed down | checked with
+answerText: amounted to
+reviewed: yes
+---
+【正解】1 amounted to（（合計が）～に達した）
+【和訳】
+（英文）
+The big storm caused a lot of damage to many of the homes in the city. The cost to repair all the damage ［amounted to］ over $70 million.
+（訳）
+その大きな嵐は、市内の多くの家に大きな被害をもたらしました。すべての被害を修理する費用は、7,000万ドルを超える額（に達しました）。
+（選択肢の意味）
+1 amounted to：（合計が）～に達した
+2 aimed at：～をねらった、～を目指した
+3 calmed down：落ち着いた、静まった
+4 checked with：～に確認した、～に問い合わせた
+【考え方】
+まず見るところ：主語 The cost to repair all the damage と、空所のあとの over $70 million
+The cost to repair all the damage (　) over $70 million.（すべての被害を修理する費用は、7,000万ドルを超える額に（　））
+「費用が、金額に（　）」という形なので、費用の合計がいくらになったかを表す言葉が入ると考えます。
+amount to ～ は「（合計が）～に達する、～になる」という意味です。過去形の amounted to を入れると「修理費用は7,000万ドルを超える額に達した」となり、前の文の「大きな嵐で多くの家が被害を受けた」という内容ともつながるので、1が正解です。
+この問題の型：熟語・決まった形（amount to ～）
+【ほかの選択肢】
+2 aimed at は「～をねらった、～を目指した」です。「修理費用が7,000万ドル以上をねらった」となり、費用を主語にした文として意味が通りません。
+3 calmed down は「落ち着いた、静まった」です。あとに金額を続けることができず、「修理費用が7,000万ドル以上を落ち着いた」となって意味が通りません。
+4 checked with は「～に確認した、～に問い合わせた」で、checked with my boss（上司に確認した）のように、あとに人などが来ます。「修理費用が7,000万ドル以上に確認した」では意味が通りません。
+【覚えるポイント】
+・amount to ～：「（合計が）～に達する」。費用・数量の合計を言うときによく使います。
+・over ～：数字の前で「～を超える、～より多い」。
+・主語が cost（費用）で、空所のあとに金額が続くときは、合計を表す amount to ～ のような熟語が合うかを考えます。

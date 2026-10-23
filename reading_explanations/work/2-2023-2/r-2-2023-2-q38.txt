@@ -1,0 +1,32 @@
+---
+choices: One of the most famous printing companies in Venice was established in 1494. | The number of stores in Venice making handmade books has increased since 1962. | Olbi holds an annual exhibition in Venice to display the work of his students. | Laws to stop international trade were introduced in Venice in the Middle Ages.
+answerText: One of the most famous printing companies in Venice was established in 1494.
+reviewed: yes
+---
+【正解】1 One of the most famous printing companies in Venice was established in 1494.（ベネチアで最も有名な印刷会社の1つは、1494年に設立された。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Which of the following statements is true?（次の記述のうち、正しいものはどれですか。）
+1 One of the most famous printing companies in Venice was established in 1494.（ベネチアで最も有名な印刷会社の1つは、1494年に設立された。）
+2 The number of stores in Venice making handmade books has increased since 1962.（ベネチアで手作りの本を作る店の数は、1962年から増えている。）
+3 Olbi holds an annual exhibition in Venice to display the work of his students.（オルビは、教え子たちの作品を展示するために、ベネチアで毎年展示会を開いている。）
+4 Laws to stop international trade were introduced in Venice in the Middle Ages.（中世に、ベネチアで国際貿易をやめさせるための法律が取り入れられた。）
+【考え方】
+まず見るところ：第3段落の Manutius founded a printing company in 1494 ～
+この設問は、選択肢を1つずつ本文と照らし合わせます。1の1494という年は、第3段落に出てきます。
+Manutius founded a printing company in 1494 that became one of the most famous printing companies in Venice.（マヌティウスは1494年に印刷会社を設立し、その会社はベネチアで最も有名な印刷会社の1つになった）
+found は「設立する、創立する」という意味で、founded はその過去形です。that became ～ は a printing company を説明していて、「（その会社は）～になった」という意味です。
+本文と選択肢を対にすると、次のようになります。
+本文 Manutius founded a printing company in 1494（マヌティウスが1494年に印刷会社を設立した）＝ 選択肢 ～ was established in 1494（1494年に設立された）
+本文 that became one of the most famous printing companies in Venice（ベネチアで最も有名な印刷会社の1つになった）＝ 選択肢 One of the most famous printing companies in Venice（ベネチアで最も有名な印刷会社の1つ）
+本文の「マヌティウスが設立した」を、選択肢では「設立された」という受け身（「～される」の形）で表しています。ですから1が正解です。
+この問題の型：言いかえ（founded ＝ was established）
+【ほかの選択肢】
+2 第2段落には、1962年にはおよそ20軒あった手作りの本の店が、Now, though, Olbi's store is one of only three such places that remain.（しかし今では、オルビの店は残っているそのような店のわずか3軒のうちの1つだ）とあります。店の数は増えたのではなく減っているので、本文と反対です。
+3 第4段落には、2018年に a former student invited Olbi to display his books at an exhibition（かつての教え子の1人が、展示会で本を展示するようオルビを招いた）とあります。展示会を開いたのはオルビではなく、展示したのも教え子の作品ではなくオルビの本です。また、毎年開いているとも書かれていません。
+4 第1段落には、ベネチアは international trade（国際貿易）で有名で、there were fewer laws controlling people's behavior（人々の行動を取りしまる法律が〔ほかの地域より〕少なかった）とあります。国際貿易をやめさせる法律が作られたという話はありません。
+【覚えるポイント】
+・found：「設立する、創立する」（find〔見つける〕の過去形 found とは別の語です）。be established も「設立される」という意味です。
+・「正しいものはどれか」という設問では、選択肢の年・数・人物（ここでは1494、1962、20軒、だれが展示したか）を本文の同じ語句の近くで確かめるのが手がかりになります。

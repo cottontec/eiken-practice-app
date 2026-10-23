@@ -1,0 +1,22 @@
+---
+choices: from | home | he | got | minute
+answerText: he
+order: 5 3 4 2 1
+reviewed: yes
+---
+【正解】3 he（この問題の2番目）
+【完成文】
+Harold was hungry all afternoon, so he started making dinner the ( minute he got home from ) work.
+並べ方：5 minute → 3 he → 4 got → 2 home → 1 from（2番目は3、4番目は2）
+【和訳】
+ハロルドは午後の間ずっとおなかがすいていたので、仕事から家に帰るとすぐに夕食を作り始めました。
+【考え方】
+空所の前に the があり、選択肢に 5 minute があります。the minute ～ は「～するとすぐに」という意味の決まった言い方です。the moment ～ と同じ働きをします。
+the minute のあとには「主語 ＋ 動詞」を続けます。主語は 3 he、動詞は 4 got です。
+get home は「家に着く、帰宅する」という意味です。ですから got のあとに 2 home を置きます。最後に 1 from を置くと、空所のあとの work とつながって from work（仕事から、職場から）となります。
+こうして the minute he got home from work（仕事から家に帰るとすぐに）ができ、「午後ずっとおなかがすいていたので、すぐに夕食を作り始めた」という流れにも合います。
+2番目に 3 he が来るのは、the minute のあとには「だれが～するとすぐに」の「だれが」にあたる主語を置くからです。
+まちがえやすいのは、from と home を先に組み合わせて the minute he got from home とする並べ方です。こうすると「家から」という意味になり、空所のあとの work とつながりません。帰ってきたのは職場からなので、from は work の前に置きます。
+【覚えるポイント】
+・the minute ～：「～するとすぐに」。
+・get home from work：「仕事から家に帰る」。

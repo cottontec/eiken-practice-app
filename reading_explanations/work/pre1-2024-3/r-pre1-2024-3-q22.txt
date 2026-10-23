@@ -1,0 +1,28 @@
+---
+choices: Most materials were imported | Some were incorrectly classified | Many survive to this day | The designs are rarely similar
+answerText: Many survive to this day
+reviewed: yes
+---
+【正解】3 Many survive to this day（その多くは今日まで残っている）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Most materials were imported（ほとんどの材料は輸入されたものだった）
+2 Some were incorrectly classified（いくつかはまちがって分類されていた）
+3 Many survive to this day（その多くは今日まで残っている）
+4 The designs are rarely similar（その設計が似ていることはめったにない）
+【考え方】
+まず見るところ：第1段落の空所のあとの and the reason why has fascinated researchers と、次の文の The structures' durability
+空所のある文は「（22）、そしてその理由は研究者たちを強く引きつけてきた」という形です。空所には、研究者が「なぜだろう」と理由を知りたくなるような事実が入ります。その中身は次の文で分かります。
+The structures' durability has generally been attributed to the unique mix of volcanic ash and another material called lime in the concrete used to help build them.（それらの建造物の耐久性は、一般に、建てるのに使われたコンクリートに含まれる、火山灰と、石灰と呼ばれるもう1つの材料との独特な混ぜ合わせによるものだと考えられてきた）
+durability は「耐久性（長い間こわれずにもつこと）」です。つまり研究者が理由を知りたがっているのは、「ローマの建造物がなぜ長くこわれずに残っているのか」ということです。
+また、第3段落の最後にも why Roman structures have remained intact for so long（なぜローマの建造物がこれほど長い間そのままの形で残ってきたのか）とあります。ですから、空所には「その多くは今日まで残っている」が入り、3が正解です。
+この問題の型：言いかえ（Many survive to this day ＝ durability、remained intact for so long）
+【ほかの選択肢】
+1 材料が輸入されたものだったとは、本文に書かれていません。次の文で研究者が理由を調べているのは、材料がどこから来たかではなく、建造物の耐久性についてなので、つながりません。
+2 建造物がまちがって分類されていたとは、本文に書かれていません。次の文の「耐久性」の話にもつながりません。
+4 建造物の設計についての話は、本文に書かれていません。次の文からあとは、設計ではなく、コンクリートが長くもつ理由について述べているので、つながりません。
+【覚えるポイント】
+・survive：「生き残る、（こわれずに）残る」。survive to this day で「今日まで残っている」です。
+・( ), and the reason why ～（そしてその理由は～）の空所では、次の文で「その理由」が何について説明されているかを確かめましょう。理由の説明の中心にある語（ここでは durability）が、空所の内容を知る手がかりになります。

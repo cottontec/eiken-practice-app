@@ -1,0 +1,30 @@
+---
+choices: held against | kept from | grown into | sailed through
+answerText: held against
+reviewed: yes
+---
+【正解】1 held against（（be held against ～ で）～に不利な材料にされる、～が悪く思われる理由にされる）
+【和訳】
+（英文）
+Miranda plans to become a politician someday, so she is careful not to do anything that could be ［held against］ her in the future. She does not want a scandal to affect her chances of getting elected.
+（訳）
+ミランダはいつか政治家になるつもりなので、将来、自分に不利な材料にされるかもしれないことは何もしないよう気をつけている。彼女は、スキャンダル（評判を悪くするような出来事）が、選挙で選ばれる可能性に影響するのを望んでいない。
+（選択肢の意味）
+1 held against：（be held against ～ で）～に不利な材料にされる
+2 kept from：（be kept from ～ で）～に知らされない、～から隠される
+3 grown into：（grow into ～ で）成長して～になる、成長して（服などが）～に合うようになる
+4 sailed through：（sail through ～ で）～を楽々と切り抜ける
+【考え方】
+まず見るところ：後ろの文の She does not want a scandal to affect her chances of getting elected.
+she is careful not to do anything that could be ( ) her in the future（彼女は、将来自分に（　）かもしれないことは何もしないよう気をつけている）
+not to do anything は「何もしない」という意味です。空所には、政治家を目指すミランダが「してはいけない」と考えていることの説明が入ります。
+She does not want a scandal to affect her chances of getting elected.（彼女は、スキャンダルが、選挙で選ばれる可能性に影響するのを望んでいない）
+彼女が心配しているのは、今の行動があとでスキャンダルとして持ち出され、選挙で不利になることです。hold A against B は「AのことでBを悪く思う、AをBに不利な材料にする」という意味で、ここでは be held against her（彼女に不利な材料にされる）という形になっています。ですから1が正解です。
+この問題の型：熟語・決まった形（be held against ～）／因果（政治家になりたい→不利になることはしない）
+【ほかの選択肢】
+2 kept from は「（be kept from ～ で）～に知らされない、～から隠される」です。「将来、彼女に隠されるかもしれないこと」となり、彼女自身がしないよう気をつけている行動の説明になりません。
+3 grown into は「（grow into ～ で）成長して～になる」です。「将来、彼女に成長されるかもしれないこと」となり、意味が通りません。
+4 sailed through は「（sail through ～ で）～を楽々と切り抜ける」です。「将来、彼女に楽々と切り抜けられるかもしれないこと」となり、スキャンダルを心配する後ろの文とつながりません。
+【覚えるポイント】
+・hold A against B：「AのことでBを悪く思う、AをBに不利な材料にする」。この問題では be held against her（彼女に不利な材料にされる）という形で使われています。
+・空所の後ろに理由や気持ちを説明する文（ここでは a scandal を心配していること）があるときは、その心配につながる意味の語句を選ぶことが手がかりになります。

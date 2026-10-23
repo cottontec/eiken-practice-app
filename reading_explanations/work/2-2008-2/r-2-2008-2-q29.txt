@@ -1,0 +1,26 @@
+---
+choices: hesitate | advertise | apologize | cooperate
+answerText: cooperate
+reviewed: yes
+---
+【正解】4 cooperate（協力する）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 hesitate：ためらう
+2 advertise：宣伝する
+3 apologize：謝る
+4 cooperate：協力する
+【考え方】
+空所は本文の最後の文 Art Harwood, the president of the RFFI, believes that his group shows how loggers and environmentalists can (　) in a way that is to everybody's advantage. にあります。「RFFIの代表アート・ハーウッドは、自分たちの団体は、伐採業者と環境保護活動家が、みんなの利益になる形でどのように（　）できるかを示していると考えている」という意味です。to everybody's advantage は「みんなの利益になる」です。
+ここで、本文全体の流れを思い出します。第1段落では、かつて環境保護団体と木材会社の側が「木材戦争」で争っていました。しかしその後、some local environmentalists and people from timber companies have put aside their differences and started working together（地元の環境保護活動家の一部と木材会社の人々が意見の違いをわきに置き、協力し始めた）とあります。working together は「一緒に働く、協力する」です。
+そして第3段落では、伐採を管理しながら地元の仕事も生み、融資の返済にもつなげています。森を守りたい人にも、仕事が欲しい人にも利益がある形です。
+このように、対立していた2つのグループが一緒に働く姿をRFFIが示しているので、cooperate（協力する）が入ります。タイトルの A Forest Partnership（森をめぐる協力関係）とも合います。正解は4です。
+【ほかの選択肢】
+1 hesitate は「ためらう」です。「みんなの利益になる形でためらうことができる」となり、協力し始めたという本文の内容と合いません。
+2 advertise は「宣伝する」です。伐採業者と環境保護活動家が宣伝をするという話は本文にありません。
+3 apologize は「謝る」です。両者が謝り合ったとは書かれておらず、「みんなの利益になる形で」ともつながりません。
+【覚えるポイント】
+・cooperate：「協力する」。名詞は cooperation（協力）です。本文の work together と同じような意味です。
+・put aside one's differences：「意見の違いをわきに置く、対立をやめる」。

@@ -1,0 +1,26 @@
+---
+choices: briefly | secretly | unfortunately | usually
+answerText: usually
+reviewed: yes
+---
+【正解】4 usually（たいてい、ふつうは）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 briefly：短い時間、手短に
+2 secretly：こっそりと、ひそかに
+3 unfortunately：不運にも、残念ながら
+4 usually：たいてい、ふつうは
+【考え方】
+空所は第2段落の3文目、They (　) eat only the bodies of fish and animals that have died, or they take small bites out of other fish.（ピラニアは～死んだ魚や動物の体だけを食べるか、ほかの魚を少しずつかじり取る）にあります。
+この段落は、ピラニアの恐ろしい評判は exaggerated（大げさだ）という研究者の考えを説明しています。前の文では hardly ever attack people（めったに人を襲わない）とあります。空所の文は、それならピラニアは何を食べているのか、という「ふだんの食べ方」を説明していると考えられます。
+さらに次の文に注目します。They will sometimes form a large group and attack another animal, but this happens only when they are extremely hungry.（ときには大きな群れで別の動物を襲うこともあるが、それはひどくおなかをすかせているときだけだ）とあります。sometimes（ときには）と only when ～（～のときだけ）は、特別な場合を表しています。これと比べて、空所の文は「ふつうのとき」の話だと分かります。
+usually は「たいてい、ふつうは」という意味なので、4が正解です。
+【ほかの選択肢】
+1 briefly は「短い時間、手短に」です。「ピラニアは短い時間だけ死んだ魚を食べる」となり、次の文の「ときには群れで襲う」という特別な場合との比べ方になりません。
+2 secretly は「こっそりと」です。ピラニアが隠れて食べるという話は本文になく、空所の文がふだんの食べ方を説明していることとも合いません。
+3 unfortunately は「残念ながら」です。この段落は「ピラニアは思われているほど危険ではない」という話なので、死んだ魚を食べることを「残念ながら」と言う理由がありません。
+【覚えるポイント】
+・usually と sometimes：「たいてい」と「ときには」。並べて読むと、ふだんの様子と特別な場合が区別できます。
+・hardly ever：「めったに～ない」。

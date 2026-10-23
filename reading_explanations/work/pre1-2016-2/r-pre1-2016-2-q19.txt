@@ -1,0 +1,30 @@
+---
+choices: disagreeable | vulnerable | thoughtless | clueless
+answerText: vulnerable
+reviewed: yes
+---
+【正解】2 vulnerable（（被害などを）受けやすい、弱い）
+【和訳】
+（英文）
+The farming community is located in a low-lying area near a river, which makes it ［vulnerable］ to the effects of flooding.
+（訳）
+その農村は川の近くの低い土地にあり、そのことが、その農村を洪水の影響を（受けやすい）ものにしている。
+（選択肢の意味）
+1 disagreeable：不愉快な、感じの悪い
+2 vulnerable：（被害などを）受けやすい、弱い
+3 thoughtless：考えの足りない、軽率な
+4 clueless：何も分かっていない
+【考え方】
+まず見るところ：文の前半の a low-lying area near a river と、空所の後ろの to the effects of flooding
+The farming community is located in a low-lying area near a river（その農村は川の近くの低い土地にある）
+low-lying は「低い位置にある」という意味です。川の近くの低い土地は、川があふれたときに水が流れこみやすい場所です。
+, which makes it ( ) to the effects of flooding（そのことが、その農村を洪水の影響に（　）にしている）
+この which は、前の内容全体（川の近くの低い土地にあること）を受けています。be vulnerable to ～ は「～の被害を受けやすい、～に弱い」という意味の決まった形です。低い土地にあることの結果として「洪水の影響を受けやすい」となるので、2が正解です。
+この問題の型：熟語・決まった形（be vulnerable to ～）／因果（which makes it ～）
+【ほかの選択肢】
+1 disagreeable は「不愉快な、感じの悪い」です。「農村が洪水の影響に対して感じが悪い」となり、意味が通りません。
+3 thoughtless は「考えの足りない」で、人の性格や行動について使う語です。低い土地にあることの結果にはなりません。
+4 clueless は「何も分かっていない」で、人の様子を表す語です。土地の場所の結果として「洪水の影響について何も分かっていない」とはならず、意味が通りません。
+【覚えるポイント】
+・be vulnerable to ～：「～の被害を受けやすい、～に弱い」。
+・, which makes it ～ の形では、which が前の内容をまとめて受け、その結果を述べるので、前の内容から自然に起こる結果を選ぶと手がかりになります。

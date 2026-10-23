@@ -1,0 +1,30 @@
+---
+choices: The majority of the paintings have turned out to be copies. | There were not as many Buddhist paintings as they had expected to see. | They did not have enough time to look at the paintings inside the caves. | The long lines at the visitors' center have prevented them from seeing the paintings.
+answerText: They did not have enough time to look at the paintings inside the caves.
+reviewed: yes
+---
+【正解】3 They did not have enough time to look at the paintings inside the caves.（洞窟の中の絵画を見る時間が十分になかった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：アジャンター石窟を訪れた人の一部は、なぜ不満だったのですか。
+1 The majority of the paintings have turned out to be copies.（絵画の大部分が複製であると分かった。）
+2 There were not as many Buddhist paintings as they had expected to see.（見られると思っていたほど多くの仏教絵画がなかった。）
+3 They did not have enough time to look at the paintings inside the caves.（洞窟の中の絵画を見る時間が十分になかった。）
+4 The long lines at the visitors' center have prevented them from seeing the paintings.（見学者センターの長い行列のせいで、絵画を見ることができなかった。）
+【考え方】
+設問は「アジャンター石窟の訪問者の一部が不満だった理由」です。第4段落に、インドのアジャンター石窟の話が書かれています。
+まず、In order to protect the paintings, visitors are quickly rushed through the caves.（絵画を守るために、訪問者は急いで洞窟の中を通り抜けさせられる）とあります。
+次の文に、訪問者の不満が書かれています。
+However, many visitors complained about the short time, saying they could not look at the paintings properly（しかし、多くの訪問者が、絵をきちんと見ることができないと言って、時間が短いことに不満を言った）
+complain about ～ は「～について不満を言う」という意味です。訪問者は、洞窟の中にいられる時間が短く、絵をきちんと見られないことに不満を持っていました。
+本文 complained about the short time, saying they could not look at the paintings properly ＝ 選択肢 They did not have enough time to look at the paintings inside the caves
+the short time（短い時間）が did not have enough time（十分な時間がなかった）に言いかえられています。ですから、3が正解です。
+【ほかの選択肢】
+1 本文の copies（複製）は、訪問者の不満を受けて、地元の政府が見学者センターに作ったものです。洞窟の中の絵画は ancient Buddhist paintings（古代の仏教絵画）で、大部分が複製だったという話ではありません。
+2 not as many ～ as ... は「…ほど多くの～はない」という意味で、「期待していたほど多くの仏教絵画がなかった」となります。しかし本文には、洞窟には many ancient Buddhist paintings（たくさんの古代の仏教絵画）があると書かれています。不満の理由は絵の数ではなく、時間の短さです。
+4 見学者センターは、不満を受けて建てられたもので、訪問者はそこで複製を for as long as they like（好きなだけ長く）見ることができます。長い行列ができているという話は本文にありません。
+【覚えるポイント】
+・complain about ～：「～について不満を言う」。
+・not as ～ as ...：「…ほど～ではない」。何と何を比べているのかを確かめて読みましょう。

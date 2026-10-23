@@ -1,0 +1,32 @@
+---
+choices: He was forced to go to Charleston to prevent his mother from being harmed by the man who owned her. | He was concerned that he would be separated from his wife and children forever if they were bought by a different owner. | He earned enough money to buy freedom for his family, but his owner refused to let them go. | He took his family to live in Charleston because he thought it was a safe place to raise his children.
+answerText: He was concerned that he would be separated from his wife and children forever if they were bought by a different owner.
+reviewed: yes
+---
+【正解】2 He was concerned that he would be separated from his wife and children forever if they were bought by a different owner.（彼は、妻と子どもたちが別の所有者に買われたら、自分は彼らと永遠に引き離されてしまうのではないかと心配していた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to the first paragraph, what is true about Robert Smalls?（第1段落によると、ロバート・スモールズについて正しいのはどれか。）
+1 He was forced to go to Charleston to prevent his mother from being harmed by the man who owned her.（彼は、母親が彼女の所有者に危害を加えられるのを防ぐために、チャールストンへ行かされた。）
+2 He was concerned that he would be separated from his wife and children forever if they were bought by a different owner.（彼は、妻と子どもたちが別の所有者に買われたら、自分は彼らと永遠に引き離されてしまうのではないかと心配していた。）
+3 He earned enough money to buy freedom for his family, but his owner refused to let them go.（彼は家族の自由を買い取るのに十分なお金をかせいだが、彼の所有者は家族を手放すことを拒んだ。）
+4 He took his family to live in Charleston because he thought it was a safe place to raise his children.（彼は、チャールストンが子どもを育てるのに安全な場所だと思ったので、家族をそこへ連れていって住まわせた。）
+【考え方】
+まず見るところ：第1段落の but he constantly feared they would be sold to a different owner and he would never see them again
+第1段落の後半で、スモールズの結婚と家族について書かれています。
+Smalls later married an enslaved woman and had two children, but he constantly feared they would be sold to a different owner and he would never see them again.（スモールズはのちに、奴隷にされていた女性と結婚して2人の子どもをもうけたが、妻と子どもたちが別の所有者に売られ、自分は二度と彼らに会えなくなるのではないかと、いつも恐れていた）
+they は、スモールズの妻と2人の子どもを指します。本文と選択肢2を対にすると、次のようになります。
+・本文 he constantly feared（いつも恐れていた）→ 選択肢 He was concerned（心配していた）
+・本文 they would be sold to a different owner（別の所有者に売られる）→ 選択肢 they were bought by a different owner（別の所有者に買われる）
+・本文 he would never see them again（二度と彼らに会えない）→ 選択肢 he would be separated from his wife and children forever（妻と子どもたちと永遠に引き離される）
+「売られる」と「買われる」は、同じできごとを売る側から見るか、買う側から見るかのちがいです。よって2が正解です。
+この問題の型：言いかえ（sold to a different owner → bought by a different owner）
+【ほかの選択肢】
+1 チャールストンへ行った理由が本文とちがいます。本文では、母親が believing her son would be safer there（息子はそこでならより安全だろうと考えて）所有者を説得したとあり、守ろうとしたのは息子のスモールズです。母親が危害を加えられるのを防ぐためとは書かれていません。
+3 本文と合いません。本文には He was unable to raise enough money to buy his family's freedom（彼は家族の自由を買い取るのに十分なお金を集めることができなかった）とあり、お金が足りなかったので逃亡するしかなかったのです。
+4 本文に書かれていません。チャールストンが安全だと考えたのは、少年だったスモールズを波止場へ送った母親です。スモールズが家族をチャールストンへ連れていって住まわせたという話はありません。
+【覚えるポイント】
+・fear (that) ～：「～ではないかと恐れる」。be separated from ～：「～と引き離される」。
+・「売られる」と「買われる」のように、同じできごとを反対の立場から言いかえる選択肢があります。だれが何をしたのかを本文と照らし合わせると、正しい言いかえかどうかを見分ける手がかりになります。

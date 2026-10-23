@@ -1,0 +1,35 @@
+---
+choices: the number of soldiers sent to those areas would be greatly increased to allow the army to attack neighboring regions and continue the expansion of the Roman Republic. | local people were invited to Rome's capital to learn the Roman language and culture so that they could quickly become accustomed to Roman society. | ex-soldiers were given land there, which made it much easier to control the local people and ensure that the areas could be defended from various threats. | the areas were often lost again quite quickly because it was impossible for the army to prevent the many rebellions that occurred.
+answerText: ex-soldiers were given land there, which made it much easier to control the local people and ensure that the areas could be defended from various threats.
+reviewed: yes
+---
+【正解】3 ex-soldiers were given land there, which made it much easier to control the local people and ensure that the areas could be defended from various threats.（元兵士たちがそこで土地を与えられ、そのことによって、地元の人々を治め、その地域をさまざまな脅威から確実に守れるようにすることが、ずっと容易になった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to the third paragraph, after the Roman army took over new territories,（第3段落によると、ローマ軍が新しい領土を手に入れたあと、）
+1 the number of soldiers sent to those areas would be greatly increased to allow the army to attack neighboring regions and continue the expansion of the Roman Republic.（軍が近くの地域を攻撃して、ローマ共和国の拡大を続けられるように、その地域に送られる兵士の数が大きく増やされた。）
+2 local people were invited to Rome's capital to learn the Roman language and culture so that they could quickly become accustomed to Roman society.（地元の人々が、すぐにローマ社会になじめるように、ローマの言葉と文化を学ぶためにローマの首都へ招かれた。）
+3 ex-soldiers were given land there, which made it much easier to control the local people and ensure that the areas could be defended from various threats.（元兵士たちがそこで土地を与えられ、そのことによって、地元の人々を治め、その地域をさまざまな脅威から確実に守れるようにすることが、ずっと容易になった。）
+4 the areas were often lost again quite quickly because it was impossible for the army to prevent the many rebellions that occurred.（起きた多くの反乱を軍が防ぐことはできなかったので、その地域はかなりすぐにまた失われることが多かった。）
+【考え方】
+まず見るところ：第3段落の The land that former legionaries received was generally in newly conquered provinces
+第3段落には、新しく手に入れた地域で元兵士が果たした役割が書かれています。
+The land that former legionaries received was generally in newly conquered provinces（元軍団兵が受け取った土地は、たいてい新しく征服された属州にあった）
+Their presence also made it easier to overcome local resistance to Roman rule（彼らがいることはまた、ローマの支配に対する地元の抵抗をおさえることを容易にした）
+The mere presence of the veterans brought greater security to new territories, since they could assist in preventing rebellions and resisting invasions.（退役兵がそこにいるだけで、新しい領土の安全はより高まった。彼らは反乱を防いだり侵略に抵抗したりするのを助けることができたからである）
+legionary は「軍団兵（ローマ軍の兵士）」、veteran は「退役兵（軍を退いた兵士）」、province は「属州（ローマの支配下に入った地域）」です。元兵士が新しい土地に住むことで、地元の抵抗をおさえやすくなり、反乱や侵略から守りやすくなったのです。
+本文と選択肢3を対にすると、次のようになります。
+本文 The land that former legionaries received was ... in newly conquered provinces（元軍団兵が受け取った土地は新しく征服された属州にあった）→ 選択肢 ex-soldiers were given land there（元兵士たちがそこで土地を与えられた）
+本文 made it easier to overcome local resistance（地元の抵抗をおさえることを容易にした）→ 選択肢 made it much easier to control the local people（地元の人々を治めることをずっと容易にした）
+本文 preventing rebellions and resisting invasions（反乱を防ぎ、侵略に抵抗する）→ 選択肢 defended from various threats（さまざまな脅威から守る）
+ですから3が正解です。
+この問題の型：言いかえ（former legionaries ＝ ex-soldiers、rebellions and invasions → various threats）
+【ほかの選択肢】
+1 本文に書かれていません。第3段落には、新しい地域に送る兵士の数を大きく増やしたことや、そこから近くの地域を攻撃したことは書かれていません。そこに住んだのは土地を受け取った元兵士です。
+2 本文に書かれていません。第3段落では、ローマの文化を広めたのは新しい地域に住んだ元兵士たちだと書かれています。地元の人々を首都へ招いて言葉や文化を学ばせたという話は出てきません。
+4 第3段落の内容と合いません。本文には、元兵士たちが could assist in preventing rebellions（反乱を防ぐのを助けることができた）とあり、新しい領土の安全が高まったと書かれています。反乱を防げずに地域がすぐに失われたという内容とは食い違います。
+【覚えるポイント】
+・former（元の）は、選択肢で ex-（元～）のように言いかえられることがあります。former legionaries ＝ ex-soldiers のように、人を表す語の言いかえに気づくと、本文の該当する文を見つけやすくなります。
+・rebellions and invasions（反乱や侵略）のような具体的な危険は、選択肢で various threats（さまざまな脅威）のようにまとめて言われることがあります。

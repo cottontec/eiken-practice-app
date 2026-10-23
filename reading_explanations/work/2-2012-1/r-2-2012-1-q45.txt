@@ -1,0 +1,31 @@
+---
+choices: Some of the trees that the GEF planted in the 1980s are still growing in Africa. | The purpose of the Great Green Wall is to provide wood for new buildings. | Some people worry that trees from outside the local area will cause problems. | The Great Green Wall project was started by NGOs representing local communities.
+answerText: Some people worry that trees from outside the local area will cause problems.
+reviewed: yes
+---
+【正解】3 Some people worry that trees from outside the local area will cause problems.（その地域の外から来た木が問題を起こすと心配している人々がいる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：次の記述のうち正しいものはどれですか。
+1 Some of the trees that the GEF planted in the 1980s are still growing in Africa.（GEFが1980年代に植えた木の一部が、今もアフリカで育っている。）
+2 The purpose of the Great Green Wall is to provide wood for new buildings.（グレート・グリーン・ウォールの目的は、新しい建物のための木材を供給することだ。）
+3 Some people worry that trees from outside the local area will cause problems.（その地域の外から来た木が問題を起こすと心配している人々がいる。）
+4 The Great Green Wall project was started by NGOs representing local communities.（グレート・グリーン・ウォールの事業は、地域社会を代表するNGOによって始められた。）
+【考え方】
+本文全体に関わる設問なので、選択肢を1つずつ本文と照らし合わせます。
+3の内容は第3段落の後半に書かれています。A number of NGOs representing local communities, however, are concerned about the plan's possible effects.（しかし、地域社会を代表するいくつかのNGOは、この計画がもたらすかもしれない影響を心配している）とあります。
+その中身として They say this might mean introducing new kinds of trees from other areas that would damage local ecosystems and use up valuable farmland.（これは、地元の生態系を傷つけ、貴重な農地を使いつくしてしまうような、ほかの地域の新しい種類の木を持ちこむことになるかもしれない、と彼らは言う）とあります。that would damage ～ and use up ～ は、直前の new kinds of trees from other areas（ほかの地域の新しい種類の木）を説明しています。ecosystem は「生態系（その土地の生き物と自然環境のつながり）」です。
+本文と選択肢は次のように対応しています。
+本文 A number of NGOs ... are concerned about ～（いくつかのNGOは～を心配している）＝ 選択肢 Some people worry that ～（～と心配している人々がいる）
+本文 new kinds of trees from other areas（ほかの地域の新しい種類の木）＝ 選択肢 trees from outside the local area（その地域の外から来た木）
+本文 would damage local ecosystems and use up valuable farmland（地元の生態系を傷つけ、貴重な農地を使いつくす）＝ 選択肢 will cause problems（問題を起こす）
+正解は3です。
+【ほかの選択肢】
+1 本文で1980年代について書かれているのは、グレート・グリーン・ウォールの考えが it was first suggested in the 1980s（1980年代に初めて提案された）ということだけです。GEFがその時代に木を植えたとは書かれておらず、お金が不足していたので事業は始まっていませんでした。誤りです。
+2 木々が地元の人々に木材などをもたらすことは書かれていますが、それは計画のよい点の1つです。計画の目的は、砂漠の拡大を止め、砂あらしの被害を減らし、土を安定した肥えた状態に保つことなどで、新しい建物のための木材という話はないので誤りです。
+4 地域社会を代表するNGOは、計画の影響を心配している側として書かれています。事業が進むことになったのは、GEFをふくむ国際機関のグループがお金の寄付に同意したからで、NGOが事業を始めたとは書かれていないので、誤りです。
+【覚えるポイント】
+・be concerned about ～：「～を心配している」。選択肢の worry とほぼ同じ意味です。
+・introduce ～：「（新しいもの）を持ちこむ、取り入れる」。

@@ -1,0 +1,31 @@
+---
+choices: tranquil | conceptual | disciplinary | discriminatory
+answerText: disciplinary
+reviewed: yes
+---
+【正解】3 disciplinary（懲戒の、規律を守らせるための）
+【和訳】
+（英文）
+Two students were caught fighting in the school hallway. They were sent to the principal's office for ［disciplinary］ action.
+（訳）
+2人の生徒が、学校の廊下でけんかをしているところを見つかった。2人は（懲戒）処分のために校長室へ行かされた。
+（選択肢の意味）
+1 tranquil：静かな、穏やかな
+2 conceptual：概念上の（頭の中の考えについての）
+3 disciplinary：懲戒の（決まりを破った人を罰する）、規律を守らせるための
+4 discriminatory：差別的な
+【考え方】
+まず見るところ：最初の文の were caught fighting
+最初の文で、何が起きたかが書かれています。
+Two students were caught fighting in the school hallway.（2人の生徒が、学校の廊下でけんかをしているところを見つかった）
+be caught ～ing は「～しているところを見つかる」です。けんかをしているところを見つかった生徒は、学校で罰を受けると考えられます。
+They were sent to the principal's office for (　) action.（2人は〇〇の処置のために校長室へ行かされた）
+principal は「校長」です。disciplinary は「懲戒の（決まりを破った人を罰する）」という意味で、disciplinary action で「懲戒処分、罰としての処置」になります。よって3が正解です。
+この問題の型：語の意味・組み合わせ（disciplinary action ＝ 懲戒処分）
+【ほかの選択肢】
+1 tranquil は「静かな、穏やかな」です。「穏やかな処置のために校長室へ行かされた」となり、けんかをした生徒への対応としては合いません。
+2 conceptual は「概念上の」です。「概念上の処置」では意味が通りません。
+4 discriminatory は「差別的な」です。「差別的な処置のために校長室へ行かされた」となり、けんかをしたことへの対応として意味が通りません。
+【覚えるポイント】
+・disciplinary action：「懲戒処分、罰としての処置」。be caught ～ing：「～しているところを見つかる」。
+・最初の文に悪いことをした場面（ここでは fighting）があり、次の文で行き先や処置が書かれているときは、「罰」に関わる語が入る手がかりになります。

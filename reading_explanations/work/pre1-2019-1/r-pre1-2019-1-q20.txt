@@ -1,0 +1,33 @@
+---
+choices: encased | minimized | designated | interrupted
+answerText: designated
+reviewed: yes
+---
+【正解】3 designated（指名された、任命された）
+【和訳】
+（英文）
+Stephan has been ［designated］ by his manager to lead the new advertising project. He is nervous but also excited to be given such a responsibility.
+（訳）
+ステファンは、上司から、新しい広告プロジェクトを率いる役に（指名された）。彼はそのような責任を与えられて緊張しているが、同時にわくわくもしている。
+（選択肢の意味）
+1 encased：包みこまれた、（箱などに）入れられた
+2 minimized：最小限にされた
+3 designated：指名された、任命された
+4 interrupted：じゃまをされた、話をさえぎられた
+【考え方】
+まず見るところ：空所の後ろの by his manager to lead と、後半の文の to be given such a responsibility
+空所のある部分は、次のようになっています。
+Stephan has been (　) by his manager to lead the new advertising project（ステファンは、上司から、新しい広告プロジェクトを率いるように（　））
+has been ～ed by ... は「…によって～された」という受け身（されることを表す形）です。to lead ～ は「～を率いるように」です。
+後半の文も見ます。
+He is nervous but also excited to be given such a responsibility.（彼はそのような責任を与えられて緊張しているが、同時にわくわくもしている）
+such a responsibility（そのような責任）は、プロジェクトを率いる役のことです。上司から責任ある役を任された、と分かります。
+designate は「指名する、任命する」で、be designated to ～ で「～するように指名される」という意味になります。ですから3が正解です。
+この問題の型：言いかえ（be designated to lead ≒ be given such a responsibility）
+【ほかの選択肢】
+1 encased は「包みこまれた」です。「上司によって包みこまれた」となり、プロジェクトを率いる話とつながりません。
+2 minimized は「最小限にされた」です。「上司によって最小限にされた」では意味が通らず、責任を与えられたという後半の文とも合いません。
+4 interrupted は「じゃまをされた、話をさえぎられた」です。上司にじゃまをされたのでは、「責任を与えられてわくわくしている」という後半の文とつながりません。
+【覚えるポイント】
+・be designated to ～：「～するように指名される、任命される」。
+・後ろの文の to be given such a responsibility（そのような責任を与えられる）のように、同じことを別の言い方で表している部分が、空所の意味の手がかりになります。

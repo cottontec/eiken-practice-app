@@ -1,0 +1,25 @@
+---
+choices: imported | admired | disappeared | overlapped
+answerText: overlapped
+reviewed: yes
+---
+【正解】4 overlapped（重なった、重複した）
+【和訳】
+A：会議での2つの発表をどう思った、マージ？
+B：情報がかなり重なっていたと思う。ネイトは、エドがもう話したことの多くをくり返していたよ。
+（選択肢の意味）
+1 imported：輸入した
+2 admired：感心した、ほめた
+3 disappeared：消えた
+4 overlapped：重なった
+【考え方】
+Aは「2つの発表をどう思ったか」とたずねています。Bは I thought the information (　) a lot.（情報がとても（　）と思った）と答えています。
+そのあとの Nate repeated many of the things that Ed had already said.（ネイトは、エドがすでに言ったことの多くをくり返した）が手がかりです。1つ目の発表と2つ目の発表で、同じ内容が何度も出てきたということです。
+overlap は「（一部が）重なる、重複する」という意味です。the information overlapped a lot で「（2つの発表の）情報がたくさん重なっていた」となり、あとの文の説明と合います。正解は4です。
+【ほかの選択肢】
+1 imported は「輸入した」です。「情報がたくさん輸入した」となり、意味が通りません。ネイトがエドと同じことをくり返したという説明ともつながりません。
+2 admired は「感心した、ほめた」です。感心するのは人なので、「情報が感心した」では意味が通りません。
+3 disappeared は「消えた」です。発表の情報が消えたという話ではなく、同じ内容がくり返されたという話なので合いません。
+【覚えるポイント】
+・overlap：「重なる、重複する」。話や予定、範囲などが重なるときに使います。
+・What did you think of ～?：「～をどう思いましたか」。感想をたずねる言い方です。

@@ -1,0 +1,30 @@
+---
+choices: should be kept out of national parks | can generate benefits as well | must be more strictly regulated | have always had enough legal protection
+answerText: can generate benefits as well
+reviewed: yes
+---
+【正解】2 can generate benefits as well（利益〈よい結果〉を生み出すこともできる）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 should be kept out of national parks（国立公園に入れないようにするべきだ）
+2 can generate benefits as well（利益〈よい結果〉を生み出すこともできる）
+3 must be more strictly regulated（もっと厳しく規制されなければならない）
+4 have always had enough legal protection（いつも法律による十分な保護を受けてきた）
+【考え方】
+まず見るところ：第3段落の which are often known to cause ecological problems と、次の文の It therefore seems likely that ～
+第3段落の前半では、15年後の調査の結果が書かれています。
+Compared with a nearby area where no dumping of orange waste had occurred, the soil was richer in nutrients, the trees were larger, and there was a greater variety of plant species.（オレンジの廃棄物がまったく捨てられなかった近くの場所と比べると、土は栄養分が豊かで、木々は大きく、植物の種類も多かった）
+ごみを捨てた場所のほうが、自然がよくなっていたのです。空所の文は次のとおりです。
+The outcome demonstrates that private companies, which are often known to cause ecological problems, (　).（この結果は、生態系の問題を引き起こすことが多いとよく知られている民間の会社が、〇〇ことを示している）
+which 以下は「会社は自然に悪いことをすることが多い」という、ふだんのイメージです。これに対して、今回の結果は会社が自然によいことをした例です。ですから、「（問題を起こすだけでなく）よい結果を生み出すこともできる」が入ります。as well（～も）が、ふだんのイメージに加えて、という意味を表しています。よって2が正解です。
+次の文の「したがって、農業廃棄物で森林を回復させることは、もっと一般的になりそうだ」も、会社の廃棄物が役に立つという内容とつながります。
+この問題の型：対比（問題を起こすことが多い ⇔ よい結果も生み出せる）
+【ほかの選択肢】
+1 「国立公園に入れないようにするべきだ」は、会社が国立公園の自然をよくしたという結果と反対です。次の文の「農業廃棄物で森林を回復させることが一般的になりそうだ」ともつながりません。
+3 「もっと厳しく規制されなければならない」も、結果がよかったという内容とつながりません。この結果から、規制を強めるべきだという結論は出てきません。
+4 「いつも法律による十分な保護を受けてきた」という内容は本文に書かれていません。会社が生態系によい結果ももたらせるという、直前の「結果」の話ともつながりません。
+【覚えるポイント】
+・generate benefits：「利益（よい結果）を生み出す」。as well：「～も」。outcome：「結果」。
+・関係代名詞の which（前の名詞に説明を付け足す語）で「ふだんのイメージ」が説明されているときは、そのイメージと反対の内容が空所に入ることがあるので、前の段落の結果と合わせて確かめるのが手がかりになります。

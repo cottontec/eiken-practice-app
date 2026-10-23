@@ -1,0 +1,31 @@
+---
+choices: In exchange | In spite of this | Compared to this | Otherwise
+answerText: Otherwise
+reviewed: yes
+---
+【正解】4 Otherwise（そうでなければ）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 In exchange（その代わりに、引きかえに）
+2 In spite of this（これにもかかわらず）
+3 Compared to this（これと比べると）
+4 Otherwise（そうでなければ）
+【考え方】
+まず見るところ：第2段落の空所の前の a certain minimum population is required と、空所のあとの will gradually disappear
+空所の前の文は次のとおりです。
+Anthropologists theorize that a certain minimum population is required to allow for adequate sharing of a range of sophisticated technologies.（人類学者たちは、さまざまな高度な技術を十分に分かち合えるようにするには、ある最低限の人口が必要だという説を立てている）
+theorize は「説を立てる」、sophisticated は「高度な、進んだ」という意味です。「技術を伝えていくには、人口がある程度は必要だ」という考えです。
+次に、空所のあとを見ます。
+( 27 ), skills and techniques for making things will gradually disappear as the people who have mastered them die without teaching them to others.（（27）、物を作るための技能や技術は、それを身につけた人々がほかの人に教えないまま死んでいくにつれて、少しずつ消えていくだろう）
+技能が消えていくのは、技術を分かち合えるだけの人口がない場合です。つまり、空所には「もし最低限の人口がなければ」という意味の語が入ります。
+Otherwise は「そうでなければ（前に述べたことが成り立たなければ）」という意味です。「最低限の人口が必要だ。そうでなければ、技能は消えていく」とつながるので、4が正解です。
+この問題の型：因果（最低限の人口がない→技能が消えていく）
+【ほかの選択肢】
+1 In exchange は「その代わりに、引きかえに」です。何かと何かを交換する話ではないので、前の文と後ろの文がつながりません。
+2 In spite of this は「これにもかかわらず」です。「最低限の人口が必要だ。それにもかかわらず、技能は消えていく」となり、人口がないと技能が消えるという、前と後ろの原因と結果の関係を表せません。
+3 Compared to this は「これと比べると」です。前の文と後ろの文で、何か2つのものを比べているわけではないので、合いません。
+【覚えるポイント】
+・Otherwise：「そうでなければ」。前の文の条件が満たされなかった場合の結果を続けるときに使います。
+・「～が必要だ」という文のあとに悪い結果が続いているときは、「そうでなければ」という意味のつなぎの語が入る手がかりになります。

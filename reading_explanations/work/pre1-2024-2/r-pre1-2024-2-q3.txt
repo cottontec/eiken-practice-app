@@ -1,0 +1,31 @@
+---
+choices: vacate | pledge | offend | squeeze
+answerText: vacate
+reviewed: yes
+---
+【正解】1 vacate（〈部屋・建物などを〉空ける、明け渡す）
+【和訳】
+（英文）
+Rashid was hoping to stay in his university dormitory for two weeks after classes ended, but he was told that all students had to ［vacate］ their rooms immediately.
+（訳）
+ラシードは、授業が終わったあと2週間、大学の寮にとどまりたいと思っていたが、学生は全員ただちに部屋を（明け渡さ）なければならないと言われた。
+（選択肢の意味）
+1 vacate：（部屋・建物などを）空ける、明け渡す
+2 pledge：誓う、かたく約束する
+3 offend：（人の）気分を害する、怒らせる
+4 squeeze：しぼる、ぎゅっと押す
+【考え方】
+まず見るところ：前半の was hoping to stay と、そのあとの but
+前半では、ラシードの希望が書かれています。
+Rashid was hoping to stay in his university dormitory for two weeks after classes ended（ラシードは、授業が終わったあと2週間、大学の寮にとどまりたいと思っていた）
+dormitory は「寮」です。そのあとに but（しかし）が続くので、後半には希望とちがうことが起きたと考えられます。
+all students had to (　) their rooms immediately（学生は全員ただちに部屋を〇〇しなければならなかった）
+「寮にとどまりたい」の反対は「部屋を出る」です。vacate は「（部屋・建物などを）空ける、明け渡す」なので、1が正解です。immediately（ただちに）も、2週間とどまりたいという希望と対になっています。
+この問題の型：対比（とどまりたい⇔部屋を空けなければならない）
+【ほかの選択肢】
+2 pledge は「誓う、かたく約束する」です。「部屋を誓わなければならなかった」となり、意味が通りません。
+3 offend は「（人の）気分を害する」で、ふつうは人を目的語にします。「部屋の気分を害する」では意味が通りません。
+4 squeeze は「しぼる、ぎゅっと押す」です。「部屋をしぼらなければならなかった」では意味が通らず、寮にとどまりたいという希望との対比にもなりません。
+【覚えるポイント】
+・vacate one's room：「部屋を空ける、明け渡す」。dormitory：「寮」。
+・was hoping to ～, but ... の形では、but のあとに希望とは反対のことが書かれることが多いので、前半の動詞（ここでは stay）の反対の意味を考えることが手がかりになります。

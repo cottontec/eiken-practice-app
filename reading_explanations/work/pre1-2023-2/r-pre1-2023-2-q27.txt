@@ -1,0 +1,30 @@
+---
+choices: way people interpret | people who appear in | growing costs of creating | decreasing social value of
+answerText: decreasing social value of
+reviewed: yes
+---
+【正解】4 decreasing social value of（～の社会的な価値が下がっていること）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 way people interpret（人々が～を解釈する（受け取る）しかた）
+2 people who appear in（～に出演する人々）
+3 growing costs of creating（～を作る費用が増えていること）
+4 decreasing social value of（～の社会的な価値が下がっていること）
+【考え方】
+まず見るところ：第2段落の Documentaries, which were once devoted to informing viewers and raising awareness of problems in society, are too frequently becoming sensationalist entertainment
+空所のある文は次のとおりです。
+This has led to concerns regarding the ( 27 ) documentaries.（このことは、ドキュメンタリー（　）についての懸念につながっている）
+This（このこと）は、第1段落の最後に書かれた「映画制作者が、商業的魅力のために物語を変えるしかないと感じている」ことを指すと考えられます。concern は「懸念（心配）」です。何についての心配なのかは、続く文で説明されています。
+While documentaries used to be considered a form of investigative journalism, there has been a noticeable shift in their subject matter.（ドキュメンタリーはかつて調査報道の一つの形だと考えられていたが、その題材には目立った変化が起きている）
+Documentaries, which were once devoted to informing viewers and raising awareness of problems in society, are too frequently becoming sensationalist entertainment designed primarily to shock or excite viewers.（かつては視聴者に情報を伝え、社会の問題への意識を高めることにささげられていたドキュメンタリーが、主に視聴者に衝撃を与えたり興奮させたりするために作られた、扇情的な娯楽になってしまうことが、あまりにも多くなっている）
+かつては「情報を伝え、社会の問題に気づかせる」という、社会の役に立つ働きをしていたドキュメンタリーが、ただの娯楽になりつつある、ということです。これは「社会的な価値が下がっている」とまとめられます。ですから4が正解です。
+この問題の型：対比（かつては社会の問題を知らせた⇔今は扇情的な娯楽）／具体例とまとめ
+【ほかの選択肢】
+1 「人々がドキュメンタリーを解釈するしかた」は、第2段落の中心と合いません。第2段落で変わったと書かれているのはドキュメンタリーの題材や作られる目的で、視聴者の受け取り方の変化については書かれていません。
+2 「ドキュメンタリーに出演する人々」は、第2段落の内容と合いません。出演者にお金を払う話は第3段落の話題（Another worrying trend：もう一つの気がかりな傾向）として出てくるもので、空所に続く第2段落では出演者についての懸念は書かれていません。
+3 「ドキュメンタリーを作る費用が増えていること」は、第2段落の内容と合いません。第1段落には予算が気前よく出るようになったとありますが、第2段落で説明されている懸念は題材の変化と娯楽化で、費用の増加ではありません。
+【覚えるポイント】
+・This has led to concerns regarding ～（このことは～についての懸念につながっている）の空所は、続く文で懸念の中身がくわしく説明されることが多いので、続く文をまとめた選択肢を選ぶと手がかりになります。
+・once（かつては）と are becoming（～になりつつある）が同じ文にあるときは、昔と今の対比が書かれていると考えて、何がどう変わったのかを読み取ることが大切です。

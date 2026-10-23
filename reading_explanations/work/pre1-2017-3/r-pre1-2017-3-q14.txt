@@ -1,0 +1,30 @@
+---
+choices: drenched | congested | relieved | splintered
+answerText: congested
+reviewed: yes
+---
+【正解】2 congested（混雑した、渋滞した）
+【和訳】
+（英文）
+During the week, the road in front of Frank and Ellen's house was always ［congested］ with traffic, but on the weekends, it was quite empty.
+（訳）
+平日は、フランクとエレンの家の前の道路はいつも車で（混雑していました）が、週末は、かなりすいていました。
+（選択肢の意味）
+1 drenched：びしょぬれの
+2 congested：混雑した、渋滞した
+3 relieved：ほっとした、安心した
+4 splintered：（木などが）裂けた、割れた
+【考え方】
+まず見るところ：but の後ろの it was quite empty
+文の前半と後半は but（しかし）でつながっていて、平日と週末を比べています。後半は次のとおりです。
+but on the weekends, it was quite empty（しかし週末は、かなりすいていた）
+it は the road（道路）を指し、empty は「空いている、からっぽの」という意味です。but があるので、前半の平日の様子は、その反対の「混んでいる」だと考えられます。
+前半の空所の後ろには with traffic（交通で、車で）があります。congested with traffic で「車で混雑している、渋滞している」という意味になるので、2が正解です。
+この問題の型：対比（平日は混雑⇔週末はすいている）
+【ほかの選択肢】
+1 drenched は「びしょぬれの」です。drenched with ～ で「～でびしょぬれの」とは言えますが、「道路は車でびしょぬれだった」では意味が通らず、週末の「すいていた」との対比にもなりません。
+3 relieved は「ほっとした」です。人の気持ちを表す語で、道路について「車でほっとしていた」とは言いません。
+4 splintered は「裂けた、割れた」です。「道路は車で裂けていた」では、週末の「すいていた」と比べる内容になりません。
+【覚えるポイント】
+・be congested with traffic：「車で混雑している、渋滞している」。
+・but の前後で During the week（平日）と on the weekends（週末）のように時を比べているときは、後ろの様子（empty）と反対の意味の語が前に入ると考えるのが手がかりになります。

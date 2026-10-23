@@ -1,0 +1,20 @@
+---
+choices: seen | from | he was last | driving away | the
+answerText: seen
+order: 3 1 4 2 5
+reviewed: yes
+---
+【正解】1 seen（この問題の2番目）
+【完成文】
+The police are trying to find the man who robbed Central Bank this morning. ( He was last seen driving away from the ) bank in a blue car. The police hope that anyone with information will contact them.
+並べ方：3 he was last → 1 seen → 4 driving away → 2 from → 5 the（2番目は1、4番目は2）
+【和訳】
+警察は、今朝セントラル銀行で強盗をはたらいた男を探しています。その男は、青い車で銀行から走り去るところを目撃されたのが最後です。警察は、情報を持っている人ならだれでも連絡してくれることを望んでいます。
+【考え方】
+まず主語（「だれが」にあたる語）を決めます。3 he was last の he は、前の文の the man who robbed Central Bank（セントラル銀行で強盗をはたらいた男）を指します。これを最初に置きます。
+was のあとに 1 seen を続けると was seen となります。これは受け身（「～される」という形）で、「見られた、目撃された」という意味です。last は「最後に」という意味で、was last seen で「最後に目撃された」となります。
+次に「何をしているところを見られたか」を続けます。see ＋ 人 ＋ ～ing（人が～しているのを見る）を受け身にすると、人 ＋ was seen ＋ ～ing になります。そこで 4 driving away（車で走り去っている）を置きます。そのあとに 2 from と 5 the を続けると、空所のあとの bank とつながり from the bank（銀行から）となります。
+したがって2番目は1 seen です。
+【覚えるポイント】
+・be last seen ～ing：「最後に～しているところを目撃される」。事件や行方不明のニュースでよく使われます。
+・drive away from ～：「車で～から走り去る」。

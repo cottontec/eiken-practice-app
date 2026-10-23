@@ -1,0 +1,30 @@
+---
+choices: ransom | specimen | cavity | citation
+answerText: citation
+reviewed: yes
+---
+【正解】4 citation（（交通違反の）呼び出し状、違反切符）
+【和訳】
+（英文）
+Last week, a police officer stopped Javier and gave him a traffic ［citation］ for driving faster than the speed limit.
+（訳）
+先週、警察官がハビエルを止め、制限速度よりも速く運転していたことで、彼に交通違反の（呼び出し状）を渡した。
+（選択肢の意味）
+1 ransom：身代金
+2 specimen：標本、見本
+3 cavity：空洞、虫歯の穴
+4 citation：（交通違反などの）呼び出し状、違反切符／引用
+【考え方】
+まず見るところ：空所の前の a traffic と、後ろの for driving faster than the speed limit
+空所の前後をつなげて読みます。
+gave him a traffic （　） for driving faster than the speed limit（制限速度よりも速く運転していたことで、彼に交通の（　）を渡した）
+speed limit は「制限速度（出してよい速さの上限）」です。制限速度をこえて運転するのは交通違反です。for ～ は、ここでは「～したことで」と理由を表しています。
+警察官が交通違反をした人に渡すものは、違反したことを記した書類です。citation には「（違反をした人に出す）呼び出し状、違反切符」という意味があり、traffic citation で「交通違反の呼び出し状」となります。ですから4が正解です。
+この問題の型：語の意味・組み合わせ（traffic citation）
+【ほかの選択肢】
+1 ransom は「身代金（さらった人を返す代わりに求めるお金）」です。警察官が違反した人に渡すものではありません。
+2 specimen は「標本、見本」です。「交通の標本を渡した」となり、スピード違反の話とつながりません。
+3 cavity は「空洞、虫歯の穴」です。警察官が渡すものとしては、意味が通りません。
+【覚えるポイント】
+・traffic citation：「交通違反の呼び出し状、違反切符」。citation には「引用」という意味もあります。
+・空所の後ろの for ～ が「～したことで」と理由を表すときは、その理由（ここではスピード違反）の結果として何が渡されるのかを考えると、手がかりになります。

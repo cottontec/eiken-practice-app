@@ -1,0 +1,22 @@
+---
+choices: a | an oak tree | even tell | from | can't
+answerText: from
+order: 5 3 2 4 1
+reviewed: yes
+---
+【正解】4 from（この問題の4番目）
+【完成文】
+Not really, Tina. I ( can't even tell an oak tree from a ) maple tree. I wish I knew more about them.
+並べ方：5 can't → 3 even tell → 2 an oak tree → 4 from → 1 a（2番目は3、4番目は4）
+【和訳】
+A：ジョー、木のことをたくさん知っている？
+B：あまり知らないよ、ティナ。オークの木とカエデの木の区別さえつかないんだ。木のことをもっと知っていたらいいのに。
+【考え方】
+Bは「木のことはあまり知らない」と答えているので、空所には「どれほど知らないか」の例が入ると考えます。
+文の骨組みは、主語 I のあとに 5 can't、そのあとに動詞の 3 even tell です。tell は from と組み合わせて tell A from B（AとBを区別する）という形を作ります。
+次に、A と B に何を置くかを考えます。空所のすぐあとに maple tree（カエデの木）があります。a や an は、名詞の前に付いて「1つの」という意味を加える語（冠詞）なので、1 a は単独では終われず、あとの maple tree の前に置く必要があります。maple は子音（m の音）で始まるので a、oak は母音（o の音）で始まるので an が付いて an oak tree となっていることも、組み合わせを決める手がかりになります。
+そこで、A に 2 an oak tree、B に「1 a＋maple tree」を置き、can't even tell an oak tree from a maple tree とします。4番目は、A と B をつなぐ 4 from です。
+まちがえやすいのは、can't even tell a from an oak tree（5 3 1 4 2）とする並べ方です。この順番だと a のあとに名詞がなく、さらに an oak tree maple tree と名詞が2つ続いてしまうので、文として成り立ちません。
+【覚えるポイント】
+・tell A from B：「AとBを区別する」。distinguish A from B も同じ意味です。
+・a と an：次の語が子音の音で始まれば a、母音の音で始まれば an を使います。

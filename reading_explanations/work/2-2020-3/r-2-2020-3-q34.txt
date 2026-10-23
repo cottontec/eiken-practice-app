@@ -1,0 +1,31 @@
+---
+choices: A lot of living things need metals from the ground in order to survive. | A lot of the electricity that is used in the process causes fires. | The majority of metals are thrown away and take up space in landfills. | The process leads to the release of dangerous substances.
+answerText: The process leads to the release of dangerous substances.
+reviewed: yes
+---
+【正解】4 The process leads to the release of dangerous substances.（その過程によって、危険な物質が放出される。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：金属を作り出すことが環境を傷つける方法の1つは何ですか。
+1 A lot of living things need metals from the ground in order to survive.（多くの生き物が、生きていくために地中の金属を必要としている。）
+2 A lot of the electricity that is used in the process causes fires.（その過程で使われる電気の多くが、火事を引き起こす。）
+3 The majority of metals are thrown away and take up space in landfills.（金属の大部分が捨てられ、埋め立て地の場所を取っている。）
+4 The process leads to the release of dangerous substances.（その過程によって、危険な物質が放出される。）
+【考え方】
+金属を作り出すときの害は、第1段落に書かれています。
+Recycling metals, in particular, is important because when metals are produced from natural rocks, much harm is caused.（特に金属のリサイクルが大切なのは、天然の岩石から金属を作り出すときに、多くの害が引き起こされるからだ）
+そのあとに、害の具体的な内容が3つ挙げられています。
+Not only is land damaged when taking resources out of the ground, but also many poisons are released into the environment.（地中から資源を取り出すときに土地が傷つけられるだけでなく、多くの毒が環境の中に放出される）
+Furthermore, large amounts of electricity are used.（さらに、大量の電気が使われる）
+本文と選択肢を対にすると、次のようになります。
+本文 many poisons are released into the environment（多くの毒が環境の中に放出される）＝ 選択肢 The process leads to the release of dangerous substances（その過程によって、危険な物質が放出される）
+poisons（毒）が dangerous substances（危険な物質）に、are released（放出される）が the release（放出）に言いかえられています。The process（その過程）は、金属を作り出す作業のことです。ですから4が正解です。
+【ほかの選択肢】
+1 生き物が生きていくために地中の金属を必要としている、という話は本文にありません。本文の害は、土地が傷つくこと、毒が出ること、大量の電気が使われることです。
+2 本文には large amounts of electricity are used（大量の電気が使われる）とあり、電気を使うこと自体は本文と合います。しかし、その電気が火事を引き起こすとは書かれていません。一部だけ正しい選択肢です。
+3 本文の landfills（埋め立て地）は、第1段落の初めに「物が埋め立て地に捨てられないようにリサイクルする」という話で出てきます。これは物を捨てることの話で、金属を作り出すときの害ではありません。また、「金属の大部分が捨てられている」とも書かれていません。
+【覚えるポイント】
+・release：「放出する（外に出す）」。名詞でも「放出」の意味で使います。
+・Not only A but also B：「AだけでなくBも」。この文では Not only が文の初めにあるので、is land damaged のように語順が入れかわっています。

@@ -1,0 +1,25 @@
+---
+choices: effectively | indirectly | occasionally | awfully
+answerText: awfully
+reviewed: yes
+---
+【正解】4 awfully（ひどく、とても）
+【和訳】
+A：クレアはどこ？ もう店から戻っているはずなのに。
+B：うん、ずいぶん時間がかかっているよね。
+（選択肢の意味）
+1 effectively：効果的に
+2 indirectly：間接的に
+3 occasionally：ときどき、たまに
+4 awfully：ひどく、とても
+【考え方】
+Aは She should be back from the store by now.（彼女はもう店から戻っているはずだ）と言っています。should はここでは「～のはずだ」、by now は「今ごろはもう」という意味です。
+Bは Yes, it's taking her an (　) long time, isn't it?（うん、彼女は〜長い時間がかかっているよね）と同意しています。it takes 人 時間 は「人が（何かをするのに）時間がかかる」という形です。
+空所は long（長い）の前にあり、どれくらい長いのかを強める語が入ると考えます。awfully は「ひどく、とても」という意味で、awfully long time で「ずいぶん長い時間」となります。戻ってくるはずなのにまだ戻らない、という状況に合うので、4が正解です。
+【ほかの選択肢】
+1 effectively は「効果的に」です。「効果的に長い時間」となり、意味が通りません。
+2 indirectly は「間接的に」です。「間接的に長い時間」となり、どれくらい長いかを表す言葉になりません。
+3 occasionally は「ときどき、たまに」です。今まさに続いている1回の買い物について「ときどき長い時間がかかっている」とは言えず、会話に合いません。
+【覚えるポイント】
+・awfully：「ひどく、とても」。後ろの形容詞（long など）を強めます。
+・It takes 人 ＋ 時間.：「人が～するのに時間がかかる」。

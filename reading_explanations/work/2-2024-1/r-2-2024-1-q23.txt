@@ -1,0 +1,31 @@
+---
+choices: grow longer leaves and roots | can live in dry conditions | have a long growing season | are not the only cause
+answerText: are not the only cause
+reviewed: yes
+---
+【正解】4 are not the only cause（唯一の原因ではない）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 grow longer leaves and roots（（ほかの植物より）長い葉や根を伸ばす）
+2 can live in dry conditions（乾燥した環境でも生きられる）
+3 have a long growing season（生育期間が長い）
+4 are not the only cause（唯一の原因ではない）
+【考え方】
+まず見るところ：第3段落の空所のあとの but most plants sweat to some degree と Soybeans also release a lot of moisture.
+空所のある文は次のとおりです。
+In addition, corn crops (23).（さらに、トウモロコシは（23））
+空所のあとの文は次のとおりです。
+Corn releases more moisture than other plants, but most plants sweat to some degree.（トウモロコシはほかの植物より多くの湿気を放出するが、ほとんどの植物はある程度は汗をかく）
+Soybeans also release a lot of moisture.（大豆もまた、多くの湿気を放出する）
+湿気を出しているのはトウモロコシだけでなく、ほかの植物、特に大豆もだ、という説明です。つまり、湿度が上がる原因はトウモロコシだけではない、ということになります。
+ですから「（トウモロコシは）唯一の原因ではない」という4が正解です。最後の文でも、トウモロコシと大豆が中西部の作物の約75パーセントを占めるので、生産を増やす計画は不快な気象条件をさらに悪くするだけだ、と述べています。
+この問題の型：具体例とまとめ（ほかの植物も・大豆も→唯一の原因ではない）
+【ほかの選択肢】
+1 「（ほかの植物より）長い葉や根を伸ばす」とすると、そのあとの「ほかの植物や大豆も湿気を出す」という説明とつながりません。本文には葉や根の長さの話はありません。
+2 「乾燥した環境でも生きられる」とすると、あとの文とつながりません。本文は植物が湿気を放出する話で、乾燥に強いという話はありません。
+3 「生育期間が長い」とすると、あとの文とつながりません。トウモロコシが育つ期間の長さは本文に書かれていません。
+【覚えるポイント】
+・not the only ～：「唯一の～ではない（ほかにもある）」。
+・空所のあとに also（～もまた）を使った文が続くときは、「それだけではない」という内容が空所に入ることがあり、手がかりになります。

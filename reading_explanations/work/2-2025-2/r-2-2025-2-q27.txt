@@ -1,0 +1,32 @@
+---
+choices: to test an animal's ability to see in the dark. | to find out how far an animal can see outside. | to determine if an animal can recognize itself. | to see when a baby recognizes who its mother is.
+answerText: to determine if an animal can recognize itself.
+reviewed: yes
+---
+【正解】3 to determine if an animal can recognize itself.（動物が自分自身を認識できるかどうかを判断するため。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：The mirror test is used（ミラーテストが使われるのは、）
+1 to test an animal's ability to see in the dark.（暗い中で物を見る動物の能力を調べるためである。）
+2 to find out how far an animal can see outside.（動物が外でどれくらい遠くまで見えるかを知るためである。）
+3 to determine if an animal can recognize itself.（動物が自分自身を認識できるかどうかを判断するためである。）
+4 to see when a baby recognizes who its mother is.（赤ちゃんが、自分の母親がだれなのかをいつ認識するのかを確かめるためである。）
+【考え方】
+まず見るところ：第1段落の The mirror test is used to judge this.
+one idea that is often discussed is whether only humans can recognize or tell the difference between themselves and others（よく話し合われる考えの1つが、自分と他者とを認識したり、そのちがいを見分けたりできるのは人間だけなのかどうか、ということだ）
+whether ～ は「～かどうか」という意味です。ここでは、「自分と他者を見分けられるのは人間だけか」という問いが出されています。
+The mirror test is used to judge this.（ミラーテストは、このことを判断するのに使われる。）
+this（このこと）は、前の文の「自分と他者を見分けられるかどうか」を指しています。さらに段落の最後に、If the animal tries to remove the mark on its body, it shows that the animal recognizes itself.（もしその動物が体の印を取り除こうとすれば、それはその動物が自分自身を認識していることを示す）とあります。
+本文と選択肢を対にすると、次のようになります。
+本文 is used to judge this（このこと〔自分を認識できるかどうか〕を判断するのに使われる） ＝ 選択肢 to determine if an animal can recognize itself
+judge（判断する）が determine（判断する、決める）に、whether（～かどうか）が if（～かどうか）に言いかえられています。ですから3が正解です。
+この問題の型：指示語（this ＝ 自分と他者を見分けられるかどうか）
+【ほかの選択肢】
+1 暗い中で見る能力については、本文に書かれていません。ミラーテストは、体の印に気づいて取ろうとするかを見るテストです。
+2 外でどれくらい遠くまで見えるかについては、本文に書かれていません。
+4 赤ちゃんと母親の話は、本文に出てきません。ミラーテストで調べるのは、動物が「自分自身」を認識できるかどうかです。
+【覚えるポイント】
+・recognize oneself：「自分自身を認識する（自分だと分かる）」。本文の recognizes itself と同じ形です。
+・本文の this や it の指す内容が、設問の答えそのものになっていることがあります。this が出てきたら、前の文のどの部分を指すのかを確かめましょう。

@@ -1,0 +1,30 @@
+---
+choices: revolved | renewed | relieved | restrained
+answerText: revolved
+reviewed: yes
+---
+【正解】1 revolved（（周りを）回った）
+【和訳】
+（英文）
+In the past, many people believed the sun ［revolved］ around the earth. Advances in science and math eventually proved that, in fact, the earth moves around the sun.
+（訳）
+昔、多くの人々は、太陽が地球の周りを（回っている）と信じていました。科学と数学の進歩によって、実際には地球が太陽の周りを動いているということが、最終的に証明されました。
+（選択肢の意味）
+1 revolved：（周りを）回った
+2 renewed：新しくした、更新した
+3 relieved：ほっとさせた、（苦しみなどを）和らげた
+4 restrained：抑えた、おさえつけた
+【考え方】
+まず見るところ：あとの文の in fact, the earth moves around the sun
+あとの文は次のとおりです。
+Advances in science and math eventually proved that, in fact, the earth moves around the sun.（科学と数学の進歩によって、実際には地球が太陽の周りを動いているということが、最終的に証明された）
+in fact は「実際には」という意味で、昔の人の考えとは違う「本当のこと」を示しています。本当は「地球が太陽の周りを動いている」のです。
+ですから、昔の人々は反対に「太陽が地球の周りを回っている」と信じていたと考えられます。revolve around ～ は「～の周りを回る」という意味なので、1が正解です。believed（信じていた）が過去なので、そのあとの動詞も過去の形 revolved になっています。
+この問題の型：対比（昔の考え：太陽が回る⇔事実：地球が回る）
+【ほかの選択肢】
+2 renewed は「新しくした、更新した」です。「太陽が地球の周りを新しくした」となり、意味が通りません。
+3 relieved は「ほっとさせた、和らげた」です。「太陽が地球の周りをほっとさせた」となり、意味が通りません。
+4 restrained は「抑えた」です。「太陽が地球の周りを抑えた」となり、あとの文の moves around the sun（太陽の周りを動く）とも対になりません。
+【覚えるポイント】
+・revolve around ～：「～の周りを回る」。あとの文の move around ～（～の周りを動く）と同じような意味で使われています。
+・In the past, many people believed ～（昔、多くの人々は～と信じていた）のあとに in fact（実際には）が出てきたら、「昔の思いこみ」と「本当のこと」が対になっていることが多いので、本当のことから昔の思いこみを考えると手がかりになります。

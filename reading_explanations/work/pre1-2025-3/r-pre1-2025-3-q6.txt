@@ -1,0 +1,32 @@
+---
+choices: forgery | candidacy | leniency | rivalry
+answerText: rivalry
+reviewed: yes
+---
+【正解】4 rivalry（対抗意識、ライバル関係）
+【和訳】
+（英文）
+The ［rivalry］ between the two neighboring teams is very strong. Sometimes, the players have even fought during games.
+（訳）
+近隣の2つのチームの間の（対抗意識）はとても強い。ときには、選手たちが試合中にけんかをしたことさえある。
+（選択肢の意味）
+1 forgery：偽造（にせものを作ること）
+2 candidacy：立候補
+3 leniency：寛大さ（罰などを甘くすること）
+4 rivalry：対抗意識、ライバル関係
+【考え方】
+まず見るところ：次の文の the players have even fought during games
+空所のある文は、次のとおりです。
+The (　) between the two neighboring teams is very strong.（近隣の2つのチームの間の（　）はとても強い）
+neighboring は「近隣の、となり合った」です。空所には、2つのチームの間にある、強いものが入ります。
+次の文は、次のとおりです。
+Sometimes, the players have even fought during games.（ときには、選手たちが試合中にけんかをしたことさえある）
+even（～さえ）があるので、けんかまで起きるほど関係が激しいと分かります。rivalry は「対抗意識、ライバル関係（相手に負けまいと競い合う関係）」という意味なので、4が正解です。
+この問題の型：具体例とまとめ（試合中のけんか → 強い対抗意識）
+【ほかの選択肢】
+1 forgery は「偽造（にせものを作ること）」です。「2つのチームの間の偽造はとても強い」となり、意味が通りません。
+2 candidacy は「立候補」です。2つのチームの間の立候補が強い、となり、選手がけんかをしたという次の文ともつながりません。
+3 leniency は「寛大さ（罰などを甘くすること）」です。2つのチームの間の寛大さが強いのなら、試合中にけんかをするほどの関係にはなりません。
+【覚えるポイント】
+・rivalry：「対抗意識、ライバル関係」。rival（ライバル、競争相手）とつながりのある語です。
+・the players have even fought（選手たちがけんかさえした）のように、次の文で「どれくらい激しいか」が具体的に書かれているときは、それが空所の語を決める手がかりになります。

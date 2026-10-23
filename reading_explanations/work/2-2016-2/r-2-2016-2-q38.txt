@@ -1,0 +1,28 @@
+---
+choices: Many buildings made of artificial materials have been rebuilt to prevent illness. | Plants are able to clean the air with their leaves while getting food for themselves. | The United States made a lot of money as a result of rising oil prices in the 1970s. | People doing space research commonly suffer from sore eyes and breathing problems.
+answerText: Plants are able to clean the air with their leaves while getting food for themselves.
+reviewed: yes
+---
+【正解】2 Plants are able to clean the air with their leaves while getting food for themselves.（植物は、自分の栄養を得ながら、葉で空気をきれいにすることができる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：次の記述のうち、正しいものはどれですか。
+1 Many buildings made of artificial materials have been rebuilt to prevent illness.（人工の材料で作られた多くの建物が、病気を防ぐために建て直されてきた。）
+2 Plants are able to clean the air with their leaves while getting food for themselves.（植物は、自分の栄養を得ながら、葉で空気をきれいにすることができる。）
+3 The United States made a lot of money as a result of rising oil prices in the 1970s.（アメリカは、1970年代に石油の価格が上がった結果、たくさんのお金をかせいだ。）
+4 People doing space research commonly suffer from sore eyes and breathing problems.（宇宙の研究をしている人々は、目の痛みや呼吸の問題によく苦しんでいる。）
+【考え方】
+本文全体から正しいものを選ぶ設問なので、選択肢を1つずつ本文と照らし合わせます。2の内容は、第4段落の初めに書かれています。
+According to Wolverton's research, a plant can absorb chemicals through its leaves and then use them to feed itself.（ウォルバートンの研究によると、植物は葉から化学物質を吸収し、それを使って自分の栄養にすることができる）
+feed itself は「自分に食べ物（栄養）を与える」という意味です。植物は葉から空気中の化学物質を取りこみ、それを自分の栄養にしている、ということです。また、第3段落には He found that most of them were effective at helping to clean the air.（彼は、そのほとんど〔の植物〕が空気をきれいにするのに役立つことを発見した）とあります。この2つを合わせると、植物は葉から化学物質を取りこんで栄養にしながら、空気をきれいにしていることが分かります。
+本文 a plant can absorb chemicals through its leaves and then use them to feed itself ／ most of them were effective at helping to clean the air → 読み取れること：Plants are able to clean the air with their leaves while getting food for themselves
+through its leaves（葉を通して）が with their leaves（葉で）に、feed itself（自分の栄養にする）が getting food for themselves（自分のための食べ物を得る）に言いかえられています。ですから、2が正解です。
+【ほかの選択肢】
+1 建物が病気を防ぐために建て直された、という話は本文にありません。本文の最後では、植物を使うことで建物の空気をきれいに保てると書かれています。
+3 第1段落には、アメリカは石油の価格が上がって had trouble producing energy cheaply（エネルギーを安く生産するのに苦労した）とあります。お金をかせいだのではなく、困っていたという内容なので、本文と反対です。
+4 目が痛くなり息がしにくくなったのは、バイオホームに入った人々です。宇宙の研究をしている人々がふだんからそうした症状に苦しんでいる、とは書かれていません。
+【覚えるポイント】
+・absorb：「吸収する」。absorb A through B で「BからAを吸収する」。
+・feed oneself：「自分で栄養をとる」。itself（それ自身）のように、主語と同じものを指す語に注意しましょう。

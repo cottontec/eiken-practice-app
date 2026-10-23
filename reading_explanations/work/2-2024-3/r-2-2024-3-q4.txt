@@ -1,0 +1,31 @@
+---
+choices: requests | timetables | suitcases | consequences
+answerText: consequences
+reviewed: yes
+---
+【正解】4 consequences（結果、（行動から生じる）影響）
+【和訳】
+（英文）
+Ms. Walker asks her students to think about the ［consequences］ of their actions. She wants them to understand that their behavior will have effects on themselves and others.
+（訳）
+ウォーカーさんは自分の生徒たちに、自分たちの行動の（結果）について考えるように求めています。彼女は生徒たちに、自分たちのふるまいが自分自身やほかの人々に影響を与えるのだということを理解してほしいと思っています。
+（選択肢の意味）
+1 requests：頼みごと、要望
+2 timetables：時刻表、時間割
+3 suitcases：スーツケース
+4 consequences：結果、（行動から生じる）影響
+【考え方】
+まず見るところ：2文目の their behavior will have effects on themselves and others
+Ms. Walker asks her students to think about the (　) of their actions.（ウォーカーさんは生徒たちに、自分たちの行動の（　）について考えるように求めている）
+ask ＋人＋ to ～ は「人に～するように求める」という意味です。
+She wants them to understand that their behavior will have effects on themselves and others.（自分たちのふるまいが自分自身やほかの人々に影響を与えることを理解してほしいと思っている）
+2文目は1文目の説明になっています。have effects on ～ は「～に影響を与える」です。ウォーカーさんは「行動したあとに何が起こるか」を考えてほしいのです。
+行動などから生じる結果を表す consequences を入れると、the consequences of their actions（自分たちの行動の結果）となり、2文目の effects（影響）とつながります。ですから4が正解です。
+この問題の型：言いかえ（consequences ⇔ effects）
+【ほかの選択肢】
+1 requests は「頼みごと、要望」です。「行動の頼みごとについて考える」となり、2文目の「ふるまいが影響を与える」という説明とつながりません。
+2 timetables は「時刻表、時間割」です。「行動の時刻表について考える」では、意味が通りません。
+3 suitcases は「スーツケース」です。「行動のスーツケース」となり、意味が通りません。
+【覚えるポイント】
+・consequence：「（行動などから生じる）結果」。the consequences of ～ で「～の結果」。
+・1文目の空所を2文目がくわしく説明していることがあります。2文目の effects のように、空所と近い意味の語を探すと手がかりになります。

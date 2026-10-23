@@ -1,0 +1,29 @@
+---
+choices: run | burst | talk | divide
+answerText: talk
+reviewed: yes
+---
+【正解】3 talk（talk ＋人＋ into ～ing で「（人）を説得して～させる」）
+【和訳】
+（英文）
+A: This car is great, but it costs too much money.
+B: Don't worry, honey. Let me see if I can ［talk］ the car salesperson into giving us a discount, so we can buy it at a cheaper price.
+（訳）
+A：この車はすばらしいけれど、お金がかかりすぎるね。
+B：心配しないで、ねえ。車の販売員を（説得して）値引きしてもらえるかどうか、やってみるよ。そうすれば、もっと安い値段で買えるよ。
+（選択肢の意味）
+1 run：走る、動かす
+2 burst：破裂する
+3 talk：話す（talk ＋人＋ into ～ing で「（人）を説得して～させる」）
+4 divide：分ける
+【考え方】
+Aは This car is great, but it costs too much money.（この車はすばらしいけれど、お金がかかりすぎる）と言っています。
+Bは Let me see if I can (　) the car salesperson into giving us a discount と答えています。Let me see if ～ は「～かどうかやってみよう、確かめてみよう」、giving us a discount は「私たちに値引きをすること」です。honey は、家族や恋人など親しい相手への呼びかけの言葉です。
+空所のあとが「人（the car salesperson）＋ into ＋ ～ing」の形になっていることに注目します。talk ＋人＋ into ～ing は「（人）を説得して～させる」という決まった言い方です。「販売員を説得して値引きさせる」とすると、そのあとの so we can buy it at a cheaper price（そうすれば、もっと安い値段で買える）ともつながります。cheaper は cheap（安い）の比較級（「より～」を表す形）で、今の値段よりも安い値段で、ということです。ですから3が正解です。
+【ほかの選択肢】
+1 run は「走る、（店などを）経営する、動かす」です。「販売員を値引きに走らせる」のような言い方はせず、run ＋人＋ into ～ing で「説得する」という意味にはなりません。
+2 burst は「破裂する」です。burst into tears（急に泣き出す）のように、自分が急に何かをし始めるときに使う言い方で、相手（販売員）に値引きをさせる意味にはなりません。
+4 divide は「分ける」です。divide A into B（AをBに分ける）という形はありますが、「販売員を値引きに分ける」では意味が通りません。
+【覚えるポイント】
+・talk ＋人＋ into ～ing：「（人）を説得して～させる」。反対に talk ＋人＋ out of ～ing は「（人）を説得して～をやめさせる」です。
+・give ＋人＋ a discount：「（人）に値引きをする」。

@@ -1,0 +1,31 @@
+---
+choices: denials | domains | comparisons | complications
+answerText: complications
+reviewed: yes
+---
+【正解】4 complications（合併症）
+【和訳】
+（英文）
+When a person has major surgery, ［complications］ such as infection and nerve damage are possible, so operations are usually performed only when there are no other treatment options.
+（訳）
+人が大きな手術を受けるときには、感染症や神経の損傷などの（合併症）が起こる可能性があります。そのため、手術はふつう、ほかに治療の選択肢がないときにだけ行われます。
+（選択肢の意味）
+1 denials：否定、拒否
+2 domains：領域、分野
+3 comparisons：比較
+4 complications：合併症（病気や手術がもとになって起こる別の問題）
+【考え方】
+まず見るところ：空所の直後の such as infection and nerve damage
+such as infection and nerve damage（感染症や神経の損傷のような）
+such as ～ は「～のような」という意味で、空所の語の具体例を示しています。infection は「感染症（ばい菌などが体に入って起こる病気）」、nerve damage は「神経の損傷」です。どちらも手術のあとに起こるかもしれない、よくないことです。
+文の後半も見ます。
+so operations are usually performed only when there are no other treatment options（そのため、手術はふつう、ほかに治療の選択肢がないときにだけ行われる）
+so（そのため）でつながっているので、前半は「手術にはよくないことが起こる危険がある」という理由になっています。complications は医学では「合併症」の意味で、手術がもとで起こる感染症などを指します。ですから4が正解です。
+この問題の型：具体例とまとめ（感染症・神経の損傷＝合併症）／因果（危険がある→ほかに方法がないときだけ手術する）
+【ほかの選択肢】
+1 denials は「否定、拒否」です。「感染症や神経の損傷のような否定」となり、意味が通りません。
+2 domains は「領域、分野」です。「感染症や神経の損傷のような分野が起こる可能性がある」となり、意味が通りません。
+3 comparisons は「比較」です。「感染症や神経の損傷のような比較」となり、意味が通りません。手術をほかに方法がないときだけ行う理由にもなりません。
+【覚えるポイント】
+・complications：医学の話では「合併症（病気や手術がもとで起こる別の問題）」。ふつうの話では「面倒な問題、ややこしい事情」の意味にもなります。
+・such as ～（～のような）のあとには、空所の語の具体例がきます。具体例をまとめて言うとどんな語になるかを考えると手がかりになります。

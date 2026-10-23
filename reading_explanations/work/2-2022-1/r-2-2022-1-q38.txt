@@ -1,0 +1,31 @@
+---
+choices: The Shigir Idol shows there was cultural exchange between groups of early humans. | Paintings in caves show early humans participating in religious ceremonies. | Historians have believed for a long time that humans have always had religions. | The age of the Shigir Idol was a mystery for many years after it was discovered.
+answerText: The age of the Shigir Idol was a mystery for many years after it was discovered.
+reviewed: yes
+---
+【正解】4 The age of the Shigir Idol was a mystery for many years after it was discovered.（シギルの偶像の古さは、発見されてから長年、なぞだった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Which of the following statements is true?（次の記述のうち、正しいものはどれですか。）
+1 The Shigir Idol shows there was cultural exchange between groups of early humans.（シギルの偶像は、初期の人類の集団どうしの間に文化の交流があったことを示している。）
+2 Paintings in caves show early humans participating in religious ceremonies.（洞窟の絵は、初期の人類が宗教的な儀式に参加しているところを示している。）
+3 Historians have believed for a long time that humans have always had religions.（歴史学者たちは長い間、人類にはずっと宗教があったと信じてきた。）
+4 The age of the Shigir Idol was a mystery for many years after it was discovered.（シギルの偶像の古さは、発見されてから長年、なぞだった。）
+【考え方】
+まず見るところ：第3段落の For a long time, people did not know how old it was
+本文全体から正しい記述を選ぶ問題です。選択肢を1つずつ本文と照らし合わせます。4は、像の「古さ」についての記述なので、第3段落を見ます。
+The Shigir Idol was actually found in Russia in 1890. For a long time, people did not know how old it was, but analysis of the wood in the last few years has revealed that ～（シギルの偶像は、実は1890年にロシアで見つかった。長い間、人々はそれがどれくらい古いのかを知らなかったが、ここ数年の木の分析によって～が明らかになった）
+1890年に見つかってから、ここ数年の分析で分かるまで、像の古さは分かりませんでした。
+本文と選択肢を対にすると、次のようになります。
+本文 For a long time, people did not know how old it was（長い間、人々はそれがどれくらい古いのかを知らなかった）＝ 選択肢 The age of the Shigir Idol was a mystery for many years（シギルの偶像の古さは長年なぞだった）
+how old it was（どれくらい古いか）が the age（古さ、年代）に、for a long time（長い間）が for many years（長年）に言いかえられています。ですから、4が正解です。
+この問題の型：言いかえ（did not know how old it was ＝ the age was a mystery）、対比（長い間分からなかった⇔最近の分析で判明）
+【ほかの選択肢】
+1 本文には、シギルの偶像が、初期の人類は人々がかつて考えていたよりも進んだ文化を持っていたこと、そしておそらく宗教も持っていたことを歴史学者たちに示した、とあります。集団どうしの文化の交流については書かれていません。
+2 第1段落には they do not show that early humans participated in other social activities, such as religious ceremonies（洞窟の絵は、宗教的な儀式のような、ほかの社会的な活動に初期の人類が参加していたことは示していない）とあります。選択肢は本文と反対の内容です。
+3 第2段落には The lack of evidence led many historians to believe that religions did not develop until humans started to build farms and live in villages.（証拠がないことから、多くの歴史学者は、人類が農場を作って村に住み始めるまで宗教は発達しなかったと考えるようになった）とあります。「人類にはずっと宗教があった」と信じてきたのではなく、本文と反対の内容です。
+【覚えるポイント】
+・not ～ until ...：「…するまで～しない」。religions did not develop until ～ で「～するまで宗教は発達しなかった」。
+・「正しいものを選ぶ」問題では、選択肢の主語（ここでは The Shigir Idol, Paintings in caves, Historians）から本文の該当する場所を探し、本文と反対のことを言っていないかを1つずつ確かめます。how old ～ is：「～がどれくらい古いか」は、選択肢では the age（古さ、年代）と言いかえられています。

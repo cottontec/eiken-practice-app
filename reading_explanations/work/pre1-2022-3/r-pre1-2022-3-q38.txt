@@ -1,0 +1,36 @@
+---
+choices: The time it saved blind people in reading made up for the fact that it took much longer to write than Braille. | The fact that it combined raised dots with other features made it easier for blind people to use it when communicating with one another. | Although it was difficult for students to learn, the fact that it could be read more quickly than Braille was a major advantage. | It was worth adopting because of the role it could play in helping blind people to better fit in with people who are able to see.
+answerText: It was worth adopting because of the role it could play in helping blind people to better fit in with people who are able to see.
+reviewed: yes
+---
+【正解】4 It was worth adopting because of the role it could play in helping blind people to better fit in with people who are able to see.（目の見えない人々が、目の見える人々の中によりよく溶けこむのを助けるという役割を果たせるので、取り入れる価値があった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What did Samuel Gridley Howe believe about Boston Line Type?（サミュエル・グリドリー・ハウは、ボストン・ライン・タイプについて何を信じていたか。）
+1 The time it saved blind people in reading made up for the fact that it took much longer to write than Braille.（目の見えない人々が読むときに節約できる時間が、ブライユ点字よりも書くのにずっと時間がかかるという事実を埋め合わせていた。）
+2 The fact that it combined raised dots with other features made it easier for blind people to use it when communicating with one another.（盛り上がった点をほかの特徴と組み合わせていたので、目の見えない人どうしが連絡を取り合うときに使いやすかった。）
+3 Although it was difficult for students to learn, the fact that it could be read more quickly than Braille was a major advantage.（生徒たちが覚えるのは難しかったが、ブライユ点字よりも速く読めるということが大きな利点だった。）
+4 It was worth adopting because of the role it could play in helping blind people to better fit in with people who are able to see.（目の見えない人々が、目の見える人々の中によりよく溶けこむのを助けるという役割を果たせるので、取り入れる価値があった。）
+【考え方】
+まず見るところ：第1段落の Nevertheless, Howe believed that ～ outweighed this disadvantage と、His system, he argued, would allow blind people to better integrate into society
+第1段落では、まずボストン・ライン・タイプの欠点が書かれています。
+Blind students, however, found it more challenging to distinguish one letter from another than they did with Braille.（しかし、目の見えない生徒たちは、ブライユ点字の場合よりも、1つの文字をほかの文字と見分けるのが難しいと感じた）
+それでもハウは、次のように信じていました。
+Nevertheless, Howe believed that the fact that reading materials could be shared by both blind and sighted readers outweighed this disadvantage.（それでもハウは、読み物を目の見えない読者と目の見える読者の両方で共有できるという事実のほうが、この欠点よりも大きいと信じていた）
+outweigh は「～より重要である、～を上回る」、sighted は「目の見える」です。さらに、その理由が続きます。
+His system, he argued, would allow blind people to better integrate into society（彼の主張によれば、彼の体系は、目の見えない人々が社会によりよく溶けこめるようにするものだった）
+integrate into ～ は「～に溶けこむ、仲間入りする」です。
+本文と選択肢を対にすると、次のようになります。
+本文 would allow blind people to better integrate into society（目の見えない人々が社会によりよく溶けこめるようにする）→ 選択肢 helping blind people to better fit in with people who are able to see（目の見えない人々が、目の見える人々の中によりよく溶けこむのを助ける）
+本文 ～ outweighed this disadvantage（欠点よりも大きいと信じた）→ 読み取れること：It was worth adopting（取り入れる価値があった）
+ブライユ点字は目の見える人々のほとんどになじみがないので孤立を進めてしまう、とハウが考えていたことも、「目の見える人々の中に溶けこむ」という選択肢の内容と合います。ですから4が正解です。
+この問題の型：言いかえ（integrate into society → fit in with people who are able to see）、対比（欠点⇔Nevertheless のあとの利点）
+【ほかの選択肢】
+1 本文に書かれていません。ボストン・ライン・タイプで読む時間が節約できたという話は出てこず、生徒たちはむしろ文字を見分けるのが難しいと感じていました。また、ハウが書く時間の長さについて考えていたという話も出てきません。
+2 本文の内容と合いません。ボストン・ライン・タイプは、盛り上がった点ではなく、目の見える人々が使う標準的なアルファベットの文字を盛り上げたものでした。また、ハウが考えていたのは、目の見えない人どうしではなく、目の見えない人と見える人が読み物を共有できることでした。
+3 本文に書かれていません。ブライユ点字よりも速く読めたという話は出てきません。本文に書かれている欠点は、文字を見分けにくいということです。
+【覚えるポイント】
+・outweigh：「～より重要である、～を上回る」。A outweighed this disadvantage で「Aのほうが、この欠点よりも大きかった」です。
+・人物が「何を信じていたか」をたずねる設問では、Nevertheless（それでも）などのあとに続く、その人物の考え（ここでは Howe believed ～、he argued ～）の文を中心に読むのが手がかりになります。

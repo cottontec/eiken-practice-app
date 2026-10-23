@@ -1,0 +1,31 @@
+---
+choices: serene | charitable | eerie | fatal
+answerText: serene
+reviewed: yes
+---
+【正解】1 serene（穏やかな、のどかな）
+【和訳】
+（英文）
+During his summer vacation, Frank visited a small tropical island to relax. Having come straight from the loud, busy city, he enjoyed the island's ［serene］ atmosphere.
+（訳）
+夏休みの間、フランクはくつろぐために、小さな熱帯の島を訪れました。うるさくてあわただしい都会からまっすぐやって来た彼は、その島の（穏やかな）雰囲気を楽しみました。
+（選択肢の意味）
+1 serene：穏やかな、静かでのどかな
+2 charitable：慈善の（困っている人を助ける）、思いやりのある
+3 eerie：不気味な
+4 fatal：命にかかわる、致命的な
+【考え方】
+まず見るところ：to relax と、the loud, busy city
+1文目で、フランクが島を訪れた目的が書かれています。
+Frank visited a small tropical island to relax（フランクはくつろぐために、小さな熱帯の島を訪れた）
+2文目では、フランクがどこから来たかが書かれています。
+Having come straight from the loud, busy city（うるさくてあわただしい都会からまっすぐやって来て）
+「うるさくてあわただしい都会」と比べると、彼が楽しんだ島の雰囲気は、その反対の「静かで穏やかな」ものだと考えられます。くつろぐという目的にも合います。serene は「穏やかな、のどかな」という意味なので、1が正解です。
+この問題の型：対比（うるさい都会⇔穏やかな島）
+【ほかの選択肢】
+2 charitable は「慈善の、思いやりのある」です。人や団体について使う語で、「島の慈善の雰囲気」では、うるさい都会との対比になりません。
+3 eerie は「不気味な」です。不気味な雰囲気では、くつろぐために来たフランクが「楽しんだ」という内容に合いません。
+4 fatal は「命にかかわる」です。「島の命にかかわる雰囲気を楽しんだ」となり、意味が通りません。
+【覚えるポイント】
+・serene：「穏やかな、静かでのどかな」。景色や雰囲気、表情などに使います。
+・空所の前に loud, busy（うるさくて、あわただしい）のような様子を表す語があり、「そこから来て楽しんだ」という流れのときは、その反対の様子を表す語が入ると考えるのが手がかりになります。

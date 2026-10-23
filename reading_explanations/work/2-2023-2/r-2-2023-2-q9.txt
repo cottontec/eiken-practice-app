@@ -1,0 +1,31 @@
+---
+choices: jails | decades | principles | societies
+answerText: decades
+reviewed: yes
+---
+【正解】2 decades（10年間〔の複数形〕）
+【和訳】
+（英文）
+Louis has worked at the same company since he graduated from college. This year, after four ［decades］ of working there, he is going to retire.
+（訳）
+ルイスは、大学を卒業してからずっと同じ会社で働いています。今年、そこで40年（4つの10年間）働いたあとで、彼は退職する予定です。
+（選択肢の意味）
+1 jails：刑務所
+2 decades：10年間
+3 principles：原理、原則
+4 societies：社会
+【考え方】
+まず見るところ：空所の前の four と、後ろの of working there
+Louis has worked at the same company since he graduated from college.（ルイスは大学を卒業してからずっと同じ会社で働いている）
+has worked ～ since ... は「…からずっと～している」という意味で、長い間働いてきたことを表します。
+after four (　) of working there（そこで働いた4つの（　）のあとで）
+four（4つの）のあとに入るのは、働いた期間を表す言葉だと考えられます。decade は「10年間」という意味なので、four decades で「40年間」になります。
+大学を卒業してから退職するまで40年間働いた、という内容になり、自然につながります。ですから2が正解です。
+この問題の型：語の意味・組み合わせ（four ＋ 期間を表す語）
+【ほかの選択肢】
+1 jails は jail（刑務所）の複数形です。「そこで働いた4つの刑務所のあとで」となり、意味が通りません。
+3 principles は principle（原理、原則）の複数形です。働いた期間を表す言葉ではないので、four ～ of working there に合いません。
+4 societies は society（社会）の複数形です。「そこで働いた4つの社会」となり、意味が通りません。
+【覚えるポイント】
+・decade：「10年間」。four decades は「40年間」です。
+・数のあとに空所があり、そのあとに of -ing（～すること）が続くときは、「どれだけの期間～したか」を表す語が入る手がかりになります。

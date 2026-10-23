@@ -1,0 +1,33 @@
+---
+choices: the number of people will likely be appropriate for the space. | it will happen only on weekends this September or October. | only the students from the school will attend this year. | it will last all day until the end of the year.
+answerText: the number of people will likely be appropriate for the space.
+reviewed: yes
+---
+【正解】1 the number of people will likely be appropriate for the space.（人数は、おそらくその場所にちょうど合うだろう。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Regarding the event that is being planned,（計画されている行事について、～。）
+1 the number of people will likely be appropriate for the space.（人数は、おそらくその場所にちょうど合うだろう。）
+2 it will happen only on weekends this September or October.（今年の9月か10月の週末だけに行われる。）
+3 only the students from the school will attend this year.（今年は、その学校の生徒だけが参加する。）
+4 it will last all day until the end of the year.（年末まで一日中続く。）
+【考え方】
+まず見るところ：第2段落の Currently, we expect about 150 people to attend the event, ～ と、次の According to the website, ～
+計画中の運動会のことは、第2段落に書かれています。人数についての文を見ます。
+Currently, we expect about 150 people to attend the event, including some parents and teachers.（現在のところ、何人かの保護者と教師も含めて、約150人が運動会に参加すると見込んでいる）
+その次の文が続きます。
+According to the website, this is about the number of people your facility can hold.（ウェブサイトによると、これはそちらの施設が収容できる人数とほぼ同じだ）
+this は「約150人」を指しています。hold は、ここでは「（人を）収容する、入れる」という意味です。
+本文と選択肢を対にすると、次のようになります。
+本文 about 150 people ～ this is about the number of people your facility can hold（約150人は、施設が収容できる人数とほぼ同じ）→ 読み取れること：人数は施設の広さに合う ＝ 選択肢 the number of people will likely be appropriate for the space（人数は、おそらくその場所にちょうど合うだろう）
+本文の about（約、ほぼ）や Currently, we expect（現在のところ見込んでいる）が、選択肢では will likely（おそらく～だろう）で表されています。ですから1が正解です。
+この問題の型：言いかえ（about the number of people your facility can hold → appropriate for the space）
+【ほかの選択肢】
+2 本文には on a weekday in September or October（9月か10月の平日に）とあります。週末ではなく平日なので、合いません。
+3 本文では including some parents and teachers（何人かの保護者と教師も含めて）とあり、生徒だけが参加するのではありません。
+4 本文では、グラウンドを使いたいのは from 8 a.m. to 3 p.m.（午前8時から午後3時まで）で、時期は9月か10月の平日です。年末まで一日中続くわけではありません。
+【覚えるポイント】
+・hold：ここでは「（人を）収容する、入れる」。appropriate for ～ は「～にちょうど合う、ふさわしい」です。
+・数字のあとに this is about the number of ～（これは～の数とほぼ同じ）のような文が続くときは、this が何を指すかを確かめると、選択肢の言いかえ（appropriate for the space）に気づく手がかりになります。

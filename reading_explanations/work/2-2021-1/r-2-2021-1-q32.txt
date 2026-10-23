@@ -1,0 +1,30 @@
+---
+choices: They are less likely to make a mess on buildings and public places. | They can deliver messages to people living all over London. | They have been used since ancient times to perform amazing tricks. | They have the ability to find their way back to their homes.
+answerText: They have the ability to find their way back to their homes.
+reviewed: yes
+---
+【正解】4 They have the ability to find their way back to their homes.（自分のすみかへの帰り道を見つける能力がある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：デュケノワが使ったハトについて、特別なことは何ですか。
+1 They are less likely to make a mess on buildings and public places.（建物や公共の場所をよごすことが少ない。）
+2 They can deliver messages to people living all over London.（ロンドンじゅうに住む人々にメッセージを届けることができる。）
+3 They have been used since ancient times to perform amazing tricks.（古代から、驚くような芸をするために使われてきた。）
+4 They have the ability to find their way back to their homes.（自分のすみかへの帰り道を見つける能力がある。）
+【考え方】
+設問の the pigeons that Duquesnoy used（デュケノワが使ったハト）について、第3段落に説明があります。
+The pigeons that Duquesnoy decided to use were not ordinary pigeons, but homing pigeons.（デュケノワが使うことにしたハトは、ふつうのハトではなく、伝書バトだった）
+not A but B は「AではなくB」という意味です。homing pigeon（伝書バト）は、遠くで放しても自分の巣に帰ってくるハトのことです。続く文で、その特別な点が説明されています。
+These pigeons have an amazing ability to find their way back from the place where they are released to the place where they live（これらのハトには、放された場所から自分が住んでいる場所まで帰り道を見つけるという驚くべき能力がある）
+本文と選択肢を対にすると、次のようになります。
+本文 have an amazing ability to find their way back ... to the place where they live ＝ 選択肢 have the ability to find their way back to their homes
+the place where they live（彼らが住んでいる場所）が their homes（彼らのすみか）に言いかえられています。
+【ほかの選択肢】
+1 本文の They are not popular with residents because they make a mess on buildings and public places.（建物や公共の場所をよごすので住民に好かれていない）は、ロンドンにいるハト全体についての説明です。デュケノワが使ったハトはよごすことが少ない、とはどこにも書かれていません。
+2 本文には they have been used since ancient times for sending messages（古代からメッセージを送るために使われてきた）とありますが、これは昔からの使われ方です。デュケノワのハトがロンドンじゅうの人々にメッセージを届けるとは書かれていません。このプロジェクトでは、ハトは装置を付けて空気を測りました。
+3 古代から使われてきたのは for sending messages（メッセージを送るため）で、芸をするためではありません。amazing（驚くべき）という語は本文にもありますが、それは帰り道を見つける能力についての言葉です。
+【覚えるポイント】
+・not A but B：「AではなくB」。B の部分に大事な情報が来ます。
+・find one's way back：「帰り道を見つける」。

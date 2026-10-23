@@ -1,0 +1,29 @@
+---
+choices: wound | trap | index | soil
+answerText: soil
+reviewed: yes
+---
+【正解】4 soil（土、土壌）
+【和訳】
+（英文）
+A: Patricia, this salad is delicious! Did you say you grow your own vegetables?
+B: Yes. The secret is to mix seashells in the ［soil］ in your garden.
+（訳）
+A：パトリシア、このサラダ、おいしいね！　自分で野菜を育てているって言っていたよね？
+B：うん。秘訣は、庭の（土）に貝がらを混ぜることだよ。
+（選択肢の意味）
+1 wound：傷、けが
+2 trap：わな
+3 index：索引（本の後ろにある、語句をさがすための一覧）、指数
+4 soil：土、土壌
+【考え方】
+Aは you grow your own vegetables（自分で野菜を育てている）と言っていて、話題は野菜づくりです。
+Bは The secret is to mix seashells in the (　) in your garden.（秘訣は、庭の（　）に貝がらを混ぜることだ）と答えています。secret はここでは「秘密、秘訣（うまくいくためのこつ）」という意味です。
+野菜を育てるときに、庭で貝がらを混ぜ込むものといえば、野菜が根を張る土です。soil（土、土壌）を入れると「庭の土に貝がらを混ぜる」となり、野菜づくりのこつとして意味が通ります。ですから4が正解です。
+【ほかの選択肢】
+1 wound は「傷、けが」です。「庭の傷に貝がらを混ぜる」となり、意味が通りません。
+2 trap は「わな」です。「庭のわなに貝がらを混ぜる」では、野菜を育てるこつになりません。
+3 index は「索引、指数」です。本や数字に関係する語で、庭で何かを混ぜる場所にはなりません。
+【覚えるポイント】
+・soil：「土、土壌（植物が育つ土）」。
+・The secret is to ～：「秘訣は～することだ」。

@@ -1,0 +1,28 @@
+---
+choices: all the traffic inside has been cleared out. | the storm has continued for more than 48 hours. | monitoring stations have made sure the water level is not too high. | its designers have checked to see if the gates are working efficiently.
+answerText: all the traffic inside has been cleared out.
+reviewed: yes
+---
+【正解】1 all the traffic inside has been cleared out.（中にいる車がすべて出てしまった（ときに）。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：洪水の水がトンネルの3つの層に入ることができるのは、～ときです。
+1 all the traffic inside has been cleared out.（中にいる車がすべて出てしまった）
+2 the storm has continued for more than 48 hours.（暴風雨が48時間より長く続いた）
+3 monitoring stations have made sure the water level is not too high.（監視所が、水位が高すぎないことを確認した）
+4 its designers have checked to see if the gates are working efficiently.（設計者たちが、門が効率よく動いているかを点検した）
+【考え方】
+洪水の水がトンネルの3つの層すべてに入るのは、3番目のモードのときです。第3段落に Special gates are then opened so that water can fill the whole tunnel（水がトンネル全体を満たせるように特別な門が開けられる）とあります。
+では、門はいつ開けられるのでしょうか。第4段落に When it goes into the third mode, monitoring stations make sure that every vehicle has left before the gates are opened to the floodwaters.（3番目のモードに入るときには、門が洪水の水に向けて開けられる前に、監視所がすべての車がトンネルから出たことを確認する）とあります。monitoring station は「監視所（見張って調べる場所）」、make sure that ～ は「～であることを確かめる」です。
+つまり、車が1台も残っていないと確認されてから、水が入ってくるのです。
+本文 every vehicle has left（すべての車が出た）＝ 選択肢 all the traffic inside has been cleared out（中にいる車がすべて出てしまった）
+clear out は「（場所から）いなくなる、空にする」という意味です。正解は1です。
+【ほかの選択肢】
+2 48時間という数字は、vehicles are allowed to enter the tunnel again within 48 hours（48時間以内に車は再びトンネルに入ることを許される）という、水が引いたあとの話に出てきます。暴風雨が48時間続いたら水が入る、という意味ではありません。
+3 監視所が確かめるのは every vehicle has left（すべての車が出たこと）です。水位が高すぎないことを確かめるとは書かれていません。確かめる内容が違います。
+4 本文には、トンネルが carefully designed（注意深く設計された）とはありますが、水を入れる前に設計者が門を点検するという話はありません。
+【覚えるポイント】
+・make sure that ～：「～であることを確かめる」。
+・before ～：「～する前に」。before the gates are opened で「門が開けられる前に」。ここから「車が出る → 門が開く」という順番が分かります。

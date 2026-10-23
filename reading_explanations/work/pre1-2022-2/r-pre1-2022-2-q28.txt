@@ -1,0 +1,31 @@
+---
+choices: also had another purpose | was created much earlier | was originally built elsewhere | caused people to avoid the area
+answerText: also had another purpose
+reviewed: yes
+---
+【正解】1 also had another purpose（ほかの目的もあった）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 also had another purpose（ほかの目的もあった）
+2 was created much earlier（ずっと早い時期に造られた）
+3 was originally built elsewhere（もともとはほかの場所に造られた）
+4 caused people to avoid the area（人々をその地域に近づかないようにさせた）
+【考え方】
+まず見るところ：第3段落の空所の前の This suggests the circle was used as a calendar. と、空所のあとの he proposes that the circle was an astrological map
+This suggests the circle was used as a calendar.（このことは、このストーンサークルがこよみとして使われていたことを示している）
+まず、一部の石が太陽と一直線に並ぶことから、「こよみ」という使い道が書かれています。
+One astrophysicist, however, believes the circle (　).（しかし、ある天体物理学者は、このストーンサークルが（　）と考えている）
+however（しかし）があるので、天体物理学者は、こよみとは別の見方を示していると分かります。続きは次のとおりです。
+He points out that the positions of other stones match those of stars in the constellation Orion（彼は、ほかの石の位置がオリオン座の星の位置と一致していることを指摘している）
+he proposes that the circle was an astrological map showing the positions of stars in the night sky（彼は、このストーンサークルが夜空の星の位置を示す占星術の地図だったと提案している）
+other stones（ほかの石）が星の位置と合うことから、「こよみ」とは別に「星の地図」という使い道があったという考えです。これは「ほかの目的もあった」と言いかえられます。also（～も）は「こよみとしての使い道に加えて」という意味を表しています。よって1が正解です。
+この問題の型：対比（こよみとしての使い道⇔星の地図としての使い道）
+【ほかの選択肢】
+2 was created much earlier は「ずっと早い時期に造られた」です。天体物理学者は、石の位置が「造られた当時（at the time the circle was built）」のオリオン座と一致すると述べていて、造られた時期について別の考えを示してはいません。
+3 was originally built elsewhere は「もともとはほかの場所に造られた」です。造られた場所についての話は本文に書かれておらず、あとの「星の地図だった」という考えにもつながりません。
+4 caused people to avoid the area は「人々をその地域に近づかないようにさせた」です。本文に書かれておらず、あとの文は人々がどうしたかではなく、ストーンサークルが何に使われたかの話です。
+【覚えるポイント】
+・another purpose：「ほかの目的」。point out ～：「～を指摘する」。propose ～：「～を提案する」。
+・空所の前に however（しかし）があり、そのあとで「ある人の別の考え」が説明されているときは、その説明（ここでは星の地図）が前の考え（こよみ）とどんな関係かを確かめると、空所の内容が決まります。

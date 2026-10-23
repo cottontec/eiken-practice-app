@@ -1,0 +1,31 @@
+---
+choices: Some people are unlikely to be able to improve their memories through practice and exercise. | Most people with strong brains are genetically different from people with normal brains. | Living an active and social life is related to the health of people's brains. | Eating healthily before exercising has a positive effect on people's memories.
+answerText: Living an active and social life is related to the health of people's brains.
+reviewed: yes
+---
+【正解】3 Living an active and social life is related to the health of people's brains.（活動的で、人とかかわる生活を送ることは、人々の脳の健康と関係がある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：さまざまな研究から得られた証拠は、何を示していますか。
+1 Some people are unlikely to be able to improve their memories through practice and exercise.（練習や運動によって記憶力を高めることができそうにない人もいる。）
+2 Most people with strong brains are genetically different from people with normal brains.（強い脳を持つ人のほとんどは、ふつうの脳を持つ人と遺伝的に（親から受け継いだ性質が）違っている。）
+3 Living an active and social life is related to the health of people's brains.（活動的で、人とかかわる生活を送ることは、人々の脳の健康と関係がある。）
+4 Eating healthily before exercising has a positive effect on people's memories.（運動する前に健康的な食事をとることは、人々の記憶力によい影響を与える。）
+【考え方】
+設問の a variety of studies（さまざまな研究）は、第4段落の other studies（ほかの研究）にあたります。
+The SuperAgers not only had good memories but were also more energetic and active than other people the same age. This goes along with other studies which have shown that people who participate in many activities and are involved in their communities are less likely to suffer from brain problems.（スーパーエイジャーは記憶力がよいだけでなく、同じ年齢のほかの人々よりも元気で活動的だった。このことは、多くの活動に参加し、地域社会にかかわっている人々は、〔そうでない人々に比べて〕脳の問題に苦しむ可能性が低いことを示してきた、ほかの研究と一致する）
+スーパーエイジャーの研究と、ほかの研究の両方が、「活動的で、人とかかわっている人は脳が健康な傾向がある」という同じ方向を示しています。
+本文と選択肢を対にすると、次のようになります。
+本文 participate in many activities（多くの活動に参加する）→ 選択肢 active（活動的な）
+本文 are involved in their communities（地域社会にかかわっている）→ 選択肢 social（人とかかわる）
+本文 are less likely to suffer from brain problems（脳の問題に苦しむ可能性が低い）→ 選択肢 is related to the health of people's brains（脳の健康と関係がある）
+ですから、3が正解です。
+【ほかの選択肢】
+1 練習や運動で記憶力を高められない人がいるという話は、本文にありません。
+2 本文では、What scientists do not yet know, though, is whether such people are born with genetically stronger brains（しかし、科学者たちがまだ分かっていないのは、そうした人々が生まれつき遺伝的により強い脳を持っているのかどうかだ）と書かれています。遺伝によるものかどうかはまだ分かっていないので、「ほとんどが遺伝的に違う」と言い切ることはできません。
+4 本文の最後に diet（食事）という言葉は出てきますが、食事と生活習慣が脳を健康に保っているのかどうかは、科学者たちにまだ分かっていないことの1つとして書かれています。また、「運動する前に」食事をとるという話は本文にありません。
+【覚えるポイント】
+・be less likely to ～：「（ほかと比べて）～する可能性が低い」。
+・goes along with ～：「～と一致する、～と合う」。

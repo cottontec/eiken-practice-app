@@ -1,0 +1,32 @@
+---
+choices: absence | contempt | urgency | empathy
+answerText: urgency
+reviewed: yes
+---
+【正解】3 urgency（切迫、急を要すること）
+【和訳】
+（英文）
+With their deadline fast approaching, the researchers felt a great sense of ［urgency］ and worked late every night to get the job done.
+（訳）
+締め切りが急速に近づいていたので、研究者たちは強い（切迫）感を覚え、仕事を終わらせるために毎晩遅くまで働いた。
+（選択肢の意味）
+1 absence：不在、欠けていること
+2 contempt：軽蔑（けいべつ：人や物をばかにすること）
+3 urgency：切迫、急を要すること
+4 empathy：共感（相手の気持ちを自分のことのように感じること）
+【考え方】
+まず見るところ：文の初めの With their deadline fast approaching と、あとの worked late every night
+文の初めを見ます。
+With their deadline fast approaching（締め切りが急速に近づいていて）
+With A ～ing は「Aが～している状態で」という形で、ここでは研究者たちの置かれた状況、つまり理由を表しています。
+次に、空所のあとを見ます。
+worked late every night to get the job done（仕事を終わらせるために毎晩遅くまで働いた）
+締め切りが迫っていて、毎晩遅くまで働いたのですから、研究者たちは「急がなければ」という気持ちになっていたと分かります。a sense of urgency で「切迫感（急がなければならないという気持ち）」となるので、3が正解です。
+この問題の型：因果（締め切りが近い→急がなければという気持ち→遅くまで働く）
+【ほかの選択肢】
+1 absence は「不在、欠けていること」です。a sense of absence は「何かがない、だれかがいないという感じ」となり、締め切りに追われて遅くまで働くという流れとつながりません。
+2 contempt は「軽蔑」です。締め切りが近づいて研究者たちが軽蔑の気持ちを感じた、では、毎晩遅くまで働いた理由になりません。
+4 empathy は「共感」です。だれに共感したのかが文に書かれておらず、締め切りや遅くまで働くこととも結びつきません。
+【覚えるポイント】
+・a sense of urgency：「切迫感、急がなければという気持ち」。
+・With A ～ing（Aが～している状態で）で始まる文では、その部分が理由や状況を表していることが多く、空所の気持ちや行動を決める手がかりになります。

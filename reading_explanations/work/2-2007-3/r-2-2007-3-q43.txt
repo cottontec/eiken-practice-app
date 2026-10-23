@@ -1,0 +1,30 @@
+---
+choices: tested paromomycin by providing it for free to people abroad. | asked a drug company to continue developing paromomycin. | proved paromomycin is effective against black fever. | sold paromomycin to the Indian government.
+answerText: proved paromomycin is effective against black fever.
+reviewed: yes
+---
+【正解】3 proved paromomycin is effective against black fever.（パロモマイシンが黒熱病に効果があることを証明した。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ヘイルとインスティテュート・フォー・ワンワールド・ヘルスは（　）。
+1 tested paromomycin by providing it for free to people abroad.（海外の人々に無料で提供することで、パロモマイシンを試験した）
+2 asked a drug company to continue developing paromomycin.（ある製薬会社に、パロモマイシンの開発を続けるよう頼んだ）
+3 proved paromomycin is effective against black fever.（パロモマイシンが黒熱病に効果があることを証明した）
+4 sold paromomycin to the Indian government.（パロモマイシンをインド政府に売った）
+【考え方】
+設問は have ＋ 過去分詞（tested や proved のような「～した」を表す形）が続く形（現在完了）で、「これまでにしたこと」をたずねています。パロモマイシンについて書かれた第3段落を見ます。
+段落の初めに、Her company is expecting to achieve its first success with a drug to cure the disease known as black fever.（彼女の会社は、黒熱病として知られる病気を治す薬で、最初の成功を収めようとしている）とあります。ここでいう「薬」がパロモマイシンです。
+続いて、Together with other scientists, she tested the drug, which turned out to cure 94 percent of patients.（ほかの科学者たちといっしょに彼女がその薬を試験したところ、その薬は患者の94パーセントを治すことが分かった）と書かれています。turn out to ～ は「～だと分かる」という意味です。
+黒熱病を治すための薬を試験し、94パーセントの患者が治ったのですから、黒熱病に効果があると証明されたことになります。本文と選択肢は次のように対応しています。
+本文 she tested the drug, which turned out to cure 94 percent of patients（その薬を試験し、患者の94パーセントを治すと分かった）＝ 選択肢 proved paromomycin is effective（パロモマイシンが効果的だと証明した）
+本文 a drug to cure the disease known as black fever（黒熱病を治す薬）＝ 選択肢 against black fever（黒熱病に対して）
+正解は3です。
+【ほかの選択肢】
+1 本文で「無料で提供する」という話が出てくるのは、インド政府が薬を買って、必要な人々に無料で配ってくれることをヘイルさんが「望んでいる」という部分です。これから先の希望であり、試験の方法として書かれているわけではないので、誤りです。
+2 本文では、ある会社がパロモマイシンの開発を始めたものの、試験を終えていなかったとあります。そのあとヘイルさん自身が受け取って、ほかの科学者と試験しました。会社に開発を続けるよう頼んだのではないので、誤りです。
+4 本文には she plans to sell the drug in India（インドで販売する計画を立てている）、She hopes that the Indian government will buy the drug（インド政府が買ってくれることを望んでいる）とあります。まだ計画や希望の段階で、すでに売ったわけではないので、時期が違います。
+【覚えるポイント】
+・turn out to ～：「（結果として）～だと分かる」。
+・effective against ～：「～に対して効果がある」。

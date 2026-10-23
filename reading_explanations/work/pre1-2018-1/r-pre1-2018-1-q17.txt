@@ -1,0 +1,29 @@
+---
+choices: inefficient | gaudy | cowardly | cumulative
+answerText: inefficient
+reviewed: yes
+---
+【正解】1 inefficient（能率が悪い、むだが多い）
+【和訳】
+（英文）
+The manager got angry at his staff for being ［inefficient］. He said it was taking them twice as long to complete tasks as it should.
+（訳）
+マネージャーは、部下たちの（能率が悪い）ことに腹を立てた。マネージャーは、部下たちが仕事を終えるのに、本来かかるはずの時間の2倍もかかっていると言った。
+（選択肢の意味）
+1 inefficient：能率が悪い、むだが多い
+2 gaudy：けばけばしい、派手すぎる
+3 cowardly：臆病な
+4 cumulative：積み重なった、累積の
+【考え方】
+まず見るところ：次の文の twice as long to complete tasks as it should
+マネージャー（仕事の責任者）は、部下が〇〇だったので怒りました。got angry at A for ～ は「～のことでAに腹を立てた」です。理由は次の文に書かれています。
+He said it was taking them twice as long to complete tasks as it should.（彼は、彼らが仕事を終えるのに、本来かかるべき時間の2倍かかっていると言った）
+twice as long as ～ は「～の2倍の長さ（時間）」です。本来かかるはずの時間の2倍もかかっているのは、仕事の進め方にむだが多いということです。inefficient は「能率が悪い」なので、1が正解です。
+この問題の型：因果（仕事に2倍かかる → 能率が悪いと怒った）
+【ほかの選択肢】
+2 gaudy は「けばけばしい」で、服や色などについて使う語です。仕事に時間がかかりすぎるという理由とはつながりません。
+3 cowardly は「臆病な」です。臆病であることと、仕事に2倍の時間がかかることは結びつきません。
+4 cumulative は「積み重なった」で、ふつうは効果や数などについて使う語です。「部下たちが積み重なっていたので怒った」となり、意味が通りません。
+【覚えるポイント】
+・inefficient：「能率が悪い」。twice as long as ～：「～の2倍の時間」。
+・got angry at A for ～（～のことでAに腹を立てた）の文では、次の文の具体的な理由（ここでは2倍の時間がかかる）が、空所の性質を決める手がかりになります。

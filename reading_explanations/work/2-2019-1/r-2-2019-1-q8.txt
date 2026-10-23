@@ -1,0 +1,27 @@
+---
+choices: twist | civilize | murder | impose
+answerText: impose
+reviewed: yes
+---
+【正解】4 impose（〔税・義務などを〕課す）
+【和訳】
+（英文）
+The government is planning to ［impose］ a new tax on cars that use a lot of gasoline. It wants to encourage people to buy cars that use less fuel.
+（訳）
+政府は、ガソリンをたくさん使う車に新しい税を（課す）ことを計画しています。政府は、人々に、使う燃料がより少ない車を買うよう促したいと考えています。
+（選択肢の意味）
+1 twist：ねじる
+2 civilize：文明化する
+3 murder：殺害する
+4 impose：（税・義務などを）課す
+【考え方】
+空所のあとに a new tax on cars that use a lot of gasoline（ガソリンをたくさん使う車に対する新しい税）が続いています。tax は「税金」です。
+次の文に、政府のねらいが書かれています。It wants to encourage people to buy cars that use less fuel.（政府は、人々が、使う燃料がより少ない車を買うよう促したい）です。use less fuel は、ガソリンをたくさん使う車と比べて、使う燃料が少ないということです。
+ガソリンをたくさん使う車に税金をかければ、そうした車を買う人が減り、燃料をあまり使わない車を選ぶ人が増えると考えられます。impose は「（税・義務などを）課す」という意味で、impose A on B で「BにAを課す」となります。impose a new tax on cars で「車に新しい税を課す」となるので、4が正解です。
+【ほかの選択肢】
+1 twist は「ねじる、ひねる」です。「新しい税をねじる」となり、意味が通りません。
+2 civilize は「文明化する（社会を進んだ状態にする）」です。税について使う語ではなく、「新しい税を文明化する」では意味が通りません。
+3 murder は「（人を）殺害する」です。税に対して使う語ではなく、意味が通りません。
+【覚えるポイント】
+・impose A on B：「BにAを課す」。tax（税）のほか、rule（規則）などにも使います。
+・encourage ＋人＋ to ～：「（人）に～するよう促す、勧める」。

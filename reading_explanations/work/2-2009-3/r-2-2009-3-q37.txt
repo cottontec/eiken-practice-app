@@ -1,0 +1,29 @@
+---
+choices: they can work only in certain parts of the world. | they are extremely difficult to move around. | many countries cannot afford to own them. | many researchers find them too complicated.
+answerText: many countries cannot afford to own them.
+reviewed: yes
+---
+【正解】3 many countries cannot afford to own them.（多くの国には、それらを所有するだけのお金の余裕がない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：地震計の問題点の1つは、…ということだ。
+1 they can work only in certain parts of the world.（世界の特定の地域でしか動かない）
+2 they are extremely difficult to move around.（持ち運ぶのがとても難しい）
+3 many countries cannot afford to own them.（多くの国には、それらを所有するだけのお金の余裕がない）
+4 many researchers find them too complicated.（多くの研究者が、それらを複雑すぎると感じている）
+【考え方】
+設問の seismometers（地震計）は第1段落に出てきます。problem（問題点）にあたる内容を探すと、Unfortunately（残念なことに）という言葉が目に入ります。よくない点を述べるときの合図です。
+第1段落には Unfortunately, they are very expensive.（残念なことに、地震計はとても高価だ）とあり、続いて As a result, there are relatively few of them, and in many parts of the world they cannot be found at all.（その結果、地震計の数は比較的少なく、世界の多くの地域では1台も見当たらない）と書かれています。
+つまり、地震計は値段が高いため、多くの地域では手に入れられず、1台もないのです。選択肢3の cannot afford to ～ は「～するだけの（お金の）余裕がない」という意味です。本文と選択肢は次のように対応しています。
+本文 they are very expensive（とても高価だ）＝ 選択肢 cannot afford to own them（それらを所有するだけのお金の余裕がない）
+本文 in many parts of the world they cannot be found at all（世界の多くの地域では1台も見当たらない）＝ 選択肢 many countries（多くの国が）
+本文の「多くの地域」と選択肢の「多くの国」は言い方が少し違いますが、「高価だから多くの場所で持てていない」という内容を表しています。正解は3です。
+【ほかの選択肢】
+1 地震計が世界の多くの地域で見当たらないのは、高価で数が少ないからです。特定の地域でしか「動かない（働かない）」という話ではありません。本文には何百マイルも離れた地震まで記録できるとあるので、誤りです。
+2 地震計を持ち運ぶのが難しいという話は本文にありません。
+4 地震計が複雑すぎると研究者が感じているという話は本文にありません。本文の問題点は値段の高さです。
+【覚えるポイント】
+・cannot afford to ～：「～する（お金や時間の）余裕がない」。
+・As a result：「その結果」。前の文が原因、あとの文が結果になります。

@@ -1,0 +1,20 @@
+---
+choices: time | by the | had already | left | the station
+answerText: by the
+order: 3 4 5 2 1
+reviewed: yes
+---
+【正解】2 by the（この問題の4番目）
+【完成文】
+The train ( had already left the station by the time ) Sam reached the platform. He had to wait about 20 minutes for the next one to come.
+並べ方：3 had already → 4 left → 5 the station → 2 by the → 1 time（2番目は4、4番目は2）
+【和訳】
+サムがホームに着いたときには、電車はもう駅を出てしまっていました。サムは、次の電車が来るまで20分ほど待たなければなりませんでした。
+【考え方】
+4番目を決めるために、空所のあとの Sam reached the platform（サムがホームに着いた）に注目します。これは主語と動詞がそろった文なので、空所の終わりには、文と文をつなぐ言葉がくると考えられます。選択肢の 2 by the と 1 time を合わせると by the time（～するときまでに）になり、あとに文を続けることができます。ですから、空所の最後は by the time です。
+空所の前半は、主語 The train に続く動詞の部分です。3 had already ＋ 4 left で had already left（もう出てしまっていた）とし、そのあとに 5 the station（駅）を置いて「もう駅を出てしまっていた」とします。電車が出たのは、サムがホームに着いた時より前なので、過去完了（had ＋ 過去分詞。過去のある時より前にもう終わっていたことを表す形）が合います。
+並べると had already → left → the station → by the → time となり、4番目は2 by the です。2文目で、サムは次の電車を20分ほど待たなければならなかったと書かれているので、「着いたときにはもう出てしまっていた」という完成文と話が合います。
+まちがえやすいのは、by the time を The train のすぐあとに置いて The train by the time had already left the station Sam reached ～ とする並べ方です。by the time のあとには「主語＋動詞」の文がくるので、the station と Sam reached the platform が切れてしまい、文が成り立ちません。
+【覚えるポイント】
+・by the time ＋ 主語 ＋ 動詞：「（主語が）～するときまでに（は）」。
+・leave ～：「～を出る、出発する」。過去の形・過去分詞はどちらも left です。

@@ -1,0 +1,31 @@
+---
+choices: inform | informs | to inform | informed
+answerText: to inform
+reviewed: yes
+---
+【正解】3 to inform（残念ながら～を知らせる。regret to inform の形）
+【和訳】
+（英文）
+The letter said the bank regretted ［to inform］ Mr. Humphries that his application for a credit card had not been successful.
+（訳）
+その手紙には、銀行は、ハンフリーズさんに、彼のクレジットカードの申し込みが通らなかったことを（残念ながらお知らせする）と書いてありました。
+（選択肢の意味）
+1 inform：知らせる（もとの形）
+2 informs：知らせる（s の付いた形）
+3 to inform：知らせること、知らせるのを
+4 informed：知らせた、知らされた
+【考え方】
+まず見るところ：空所の前の regretted と、空所のあとの Mr. Humphries that ～
+the bank regretted (　) Mr. Humphries that his application for a credit card had not been successful（銀行は、ハンフリーズさんに、クレジットカードの申し込みが通らなかったことを（　）、残念に思った）
+regret は「残念に思う、後悔する」という意味の動詞で、regretted はその過去形です。すでに文の動詞になっているので、空所に動詞をそのまま続けることはできません。
+空所のあとは Mr. Humphries that ～ という形です。inform ＋人＋ that ～ は「（人）に～ということを知らせる」という意味です。
+regret to ～ は「残念ながら～する」という意味で、これから伝えるよくない知らせに「残念ですが」と言うときに使い、手紙やお知らせでよく見られます。regretted to inform Mr. Humphries that ～ で「残念ながらハンフリーズさんに～をお知らせする」となり、申し込みが通らなかったという残念な知らせにふさわしいので、3が正解です。
+この問題の型：文法（語の形：regret のあとの形）、熟語・決まった形（regret to ～）
+【ほかの選択肢】
+1 inform は動詞のもとの形です。regretted inform のように、動詞を2つ並べることはこの文ではできません。
+2 informs も動詞の形（主語が he や she などで、今のことを表すときの形）です。1と同じように、regretted のあとに直接続けることはできません。
+4 informed は過去形または過去分詞です。regretted informed と動詞を並べる形はこの文ではできず、意味も通りません。
+【覚えるポイント】
+・regret to ～：「残念ながら～する」。We regret to inform you that ～（残念ながら～をお知らせします）は、手紙などでよく使われます。
+・次に同じ形が出たら：空所の前の語がすでに動詞（過去形）のときは、空所には動詞をそのまま並べず、to ～ などの形が続かないかを考えると手がかりになります。
+・inform ＋人＋ that ～：「（人）に～ということを知らせる」。

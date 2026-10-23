@@ -1,0 +1,32 @@
+---
+choices: she used much of her wealth to purchase a variety of animals to keep as pets. | she began to work together with her grandfather and father in the family business. | her friends told her that she should publish her stories based on her childhood experiences. | her family asked her to take care of her grandfather as he got older.
+answerText: her friends told her that she should publish her stories based on her childhood experiences.
+reviewed: yes
+---
+【正解】3 her friends told her that she should publish her stories based on her childhood experiences.（友人たちが彼女に、子ども時代の経験をもとにした物語を出版するべきだと言った）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ポターが大人になったとき、～。
+1 she used much of her wealth to purchase a variety of animals to keep as pets.（彼女は、ペットとして飼うさまざまな動物を買うのに、自分の財産の多くを使った。）
+2 she began to work together with her grandfather and father in the family business.（彼女は、祖父と父と一緒に家の事業で働き始めた。）
+3 her friends told her that she should publish her stories based on her childhood experiences.（友人たちが彼女に、子ども時代の経験をもとにした物語を出版するべきだと言った。）
+4 her family asked her to take care of her grandfather as he got older.（家族が彼女に、年を取っていく祖父の世話をするよう頼んだ。）
+【考え方】
+設問の When Potter was an adult（ポターが大人になったとき）と同じ表現が、第2段落の as an adult（大人になって）です。その前後を見ます。
+・Her family's wealth also meant that she had much time to observe nature and play with her many pets.（家が裕福だったことは、彼女に自然を観察したり、たくさんのペットと遊んだりする時間がたっぷりあったということでもあった）
+・Then, as an adult, she began to use these experiences to create illustrated stories about animals for the children of her friends.（そして大人になると、彼女はこうした経験を生かして、友人たちの子どものために動物についての絵入りの物語を作り始めた）
+・Her friends suggested to her that she publish these stories as books.（友人たちは彼女に、これらの物語を本として出版してはどうかと勧めた）
+these experiences（こうした経験）は、自然を観察したり、ペットと遊んだりした経験です。Then, as an adult（そして大人になると）と続いているので、これらは大人になる前、つまり子ども時代の経験だと読み取れます。
+本文と選択肢を対にすると、次のようになります。
+本文 Her friends suggested to her that she publish these stories ＝ 選択肢 her friends told her that she should publish her stories
+本文 use these experiences to create illustrated stories → 読み取れること：物語は子ども時代の経験をもとにしている（選択肢の based on her childhood experiences）
+suggest that ～ は「～してはどうかと勧める」という意味で、「～するべきだと言った」とほぼ同じ内容です。ですから3が正解です。
+【ほかの選択肢】
+1 本文には her many pets（たくさんのペット）と、家が裕福だったことは書かれています。しかし、大人になった彼女が財産を使って動物を買ったとは書かれていません。
+2 本文には Potter learned much from them（ポターは祖父と父から多くのことを学んだ）とあります。しかし、祖父や父と一緒に家の事業で働いたとは書かれていません。
+4 祖父の世話をするよう頼まれたという話は、本文にありません。
+【覚えるポイント】
+・suggest (to ＋人) that ～：「（人に）～してはどうかと勧める」。that のあとの動詞は publish のように原形になることがあります。
+・based on ～：「～をもとにした」。

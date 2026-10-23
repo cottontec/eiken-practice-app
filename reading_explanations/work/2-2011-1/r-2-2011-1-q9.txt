@@ -1,0 +1,24 @@
+---
+choices: abuse | preserve | resolve | obtain
+answerText: abuse
+reviewed: yes
+---
+【正解】1 abuse（悪用する）
+【和訳】
+社員が顧客の食事代を払ったとき、社員はそのお金を会社から返してもらうことができます。しかし、この制度を悪用して、友人とする食事の代金を会社に払わせる人もいます。
+（選択肢の意味）
+1 abuse：悪用する、乱用する
+2 preserve：保存する、守る
+3 resolve：解決する
+4 obtain：手に入れる
+【考え方】
+1文目は、会社の決まりを説明しています。When employees pay for their clients' meals, they can get their money back from the company.（社員が顧客の食事代を払うと、会社からお金を返してもらえる）。client は「顧客、取引先の人」です。この決まりを、2文目では the system（その制度）と言いかえています。
+2文目は But（しかし）で始まり、some people (　) the system and get the company to pay for meals they have with friends（一部の人は制度を〜して、友人とする食事の代金を会社に払わせる）と続きます。get ＋ 人 ＋ to ～ は「人に～させる」です。
+本来は顧客との食事のための制度なのに、友人との食事代まで払わせているので、制度を正しくない目的に使っていることになります。abuse は「悪用する」という意味なので、1が正解です。
+【ほかの選択肢】
+2 preserve は「保存する、守る」です。「制度を守って、友人との食事代を会社に払わせる」となり、But で示される「よくない使い方」の話と合いません。
+3 resolve は「（問題を）解決する」です。制度は解決するものではなく、「制度を解決して」では意味が通りません。
+4 obtain は「手に入れる」です。制度はすでに会社にあるもので、「制度を手に入れて」では、友人との食事代を払わせるという内容とつながりません。
+【覚えるポイント】
+・abuse：「悪用する、乱用する」。
+・get ＋ 人 ＋ to ～：「人に～させる、してもらう」。

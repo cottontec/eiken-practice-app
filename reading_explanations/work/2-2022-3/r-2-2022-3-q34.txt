@@ -1,0 +1,33 @@
+---
+choices: By searching for behavior that seems like laughter in other species. | By analyzing the kinds of things that people think are funny. | By studying the reactions of human babies from the time they are born. | By investigating the muscles that are used when a person laughs.
+answerText: By searching for behavior that seems like laughter in other species.
+reviewed: yes
+---
+【正解】1 By searching for behavior that seems like laughter in other species.（ほかの種の中に、笑いのように見える行動を探すことによって。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：How are researchers trying to find out about the development of laughter in humans?（研究者たちは、人間の笑いがどのように発達してきたのかを、どのような方法で調べようとしていますか。）
+1 By searching for behavior that seems like laughter in other species.（ほかの種の中に、笑いのように見える行動を探すことによって。）
+2 By analyzing the kinds of things that people think are funny.（人々がおもしろいと思うものの種類を分析することによって。）
+3 By studying the reactions of human babies from the time they are born.（人間の赤ちゃんの反応を、生まれたときから研究することによって。）
+4 By investigating the muscles that are used when a person laughs.（人が笑うときに使われる筋肉を調べることによって。）
+【考え方】
+まず見るところ：第1段落の Researchers have been investigating how laughter evolved in humans by looking for similar behavior in other animals.
+Researchers have been investigating how laughter evolved in humans by looking for similar behavior in other animals.（研究者たちは、ほかの動物の中に似た行動を探すことによって、人間の笑いがどのように進化してきたのかを調べてきた）
+by -ing は「～することによって」と方法を表します。similar behavior（似た行動）は、笑いに似た行動のことです。続く文でも、evidence of laughter-like behavior in over 60 species（60を超える種に笑いに似た行動がある証拠）と書かれています。
+本文と選択肢を対にすると、次のようになります。
+本文 looking for（探すこと）＝ 選択肢 searching for（探すこと）
+本文 similar behavior（〔笑いに〕似た行動）＝ 選択肢 behavior that seems like laughter（笑いのように見える行動）
+本文 other animals（ほかの動物）＝ 選択肢 other species（ほかの種）
+設問の the development of laughter（笑いの発達）は、本文の how laughter evolved（笑いがどのように進化したか）の言いかえです。ですから1が正解です。
+この問題の型：言いかえ（looking for similar behavior → searching for behavior that seems like laughter）
+【ほかの選択肢】
+2 人がおもしろいと思うものの種類を分析するという話は、本文にありません。冗談（jokes）は出てきますが、それはチンパンジーなどが冗談を言うための複雑な言語を持っていない、という話です。
+3 人間の赤ちゃんを研究するという話は、本文にありません。
+4 筋肉（muscles）は第1段落に出てきますが、笑いが relax muscles（筋肉をほぐす）のに役立つという健康の話です。研究の方法として、笑うときの筋肉を調べるとは書かれていません。
+【覚えるポイント】
+・by -ing：「～することによって」。方法をたずねる How ～? の答えによく使われます。
+・look for ～ と search for ～：どちらも「～を探す」という意味です。
+・「どのような方法で」を問う問題では、本文で by -ing の形を探すと、方法が書かれている場所が見つかりやすくなります。

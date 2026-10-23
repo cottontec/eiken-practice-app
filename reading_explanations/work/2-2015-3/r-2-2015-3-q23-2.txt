@@ -1,0 +1,22 @@
+---
+choices: do | good | would | to | you
+answerText: do
+order: 3 1 5 2 4
+reviewed: yes
+---
+【正解】1 do（この問題の2番目）
+【完成文】
+Robert, you've been working all weekend! It ( would do you good to ) have some rest.
+並べ方：3 would → 1 do → 5 you → 2 good → 4 to（2番目は1、4番目は2）
+【和訳】
+A：ロバート、週末ずっと働いているじゃないですか！少し休むと、あなたのためになりますよ。
+B：ねえ、分かっていますよ。でも月曜日に大事な会議があるので、準備しておきたいのです。
+【考え方】
+Aは you've been working all weekend!（週末ずっと働いている）と言っています。そのあとには、ロバートに休むことをすすめる内容が続くと考えられます。
+空所の前の It と、空所のあとの have some rest（少し休む）に注目します。英語では、「～することは…だ」と言うとき、It を仮の主語（文の初めに置いて、本当の主語を後ろに回すための It）として、本当の主語の to ～ を後ろに置く形がよく使われます。ここでは to have some rest（少し休むこと）が本当の主語です。
+選択肢の do と good から、do ＋ 人 ＋ good（人のためになる）という決まった言い方を作ります。It のあとには、まず 3 would（～だろう）を置きます。would は助動詞（動詞の前に置いて意味を付け足す語）なので、すぐあとには動詞の元の形が来ます。そこで2番目に 1 do を置き、5 you → 2 good → 4 to と続けます。
+したがって2番目は1 do です。
+まちがえやすいのは、3 would → 5 you → 1 do → 2 good → 4 to（It would you do good to …）のように、would のあとに you を置く並べ方です。would のすぐあとには動詞の元の形が必要なので、would you の順にはなりません（would you ～? は疑問文の語順です）。
+【覚えるポイント】
+・It would do you good to ～：「～するとあなたのためになるだろう」。
+・助動詞（would、can、will など）のすぐあとには、動詞の元の形を置きます。

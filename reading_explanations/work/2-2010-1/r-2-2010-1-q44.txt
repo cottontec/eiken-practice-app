@@ -1,0 +1,30 @@
+---
+choices: how whales can live in cold and dark parts of the ocean. | how creatures can survive under difficult conditions. | how human beings can learn to swim in the deep sea. | how scientists can study the environments of other planets.
+answerText: how creatures can survive under difficult conditions.
+reviewed: yes
+---
+【正解】2 how creatures can survive under difficult conditions.（生き物が、厳しい条件のもとでどのように生き延びられるのか。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ホエールフォールから学べる重要なことの1つは、（　）である。
+1 how whales can live in cold and dark parts of the ocean.（クジラが、海の冷たく暗い部分でどのように生きられるのか）
+2 how creatures can survive under difficult conditions.（生き物が、厳しい条件のもとでどのように生き延びられるのか）
+3 how human beings can learn to swim in the deep sea.（人間が、深海で泳げるようにどのようになれるのか）
+4 how scientists can study the environments of other planets.（科学者が、ほかの惑星の環境をどのように研究できるのか）
+【考え方】
+第4段落は The chief benefit（最大の利益）について書かれています。
+まず深海について、The deep parts of the ocean are very difficult places to live. They are very cold and dark, and there is little food.（海の深い部分は生きていくのがとても難しい場所だ。とても冷たくて暗く、食べ物もほとんどない）とあります。
+それなのに、熱帯雨林と同じくらい多くの種類の生き物がすんでいます。そして Scientists believe that whale falls can provide important clues to how these creatures live in such a severe environment.（科学者たちは、ホエールフォールが、これらの生き物がそのように厳しい環境でどのように生きているのかについて、重要な手がかりを与えてくれると考えている）と書かれています。clue は「手がかり」、severe は「厳しい」です。
+本文と選択肢は次のように対応しています。
+本文 how these creatures live（これらの生き物がどのように生きているか）＝ 選択肢 how creatures can survive（生き物がどのように生き延びられるか）
+本文 in such a severe environment（そのように厳しい環境で）＝ 選択肢 under difficult conditions（厳しい条件のもとで）
+正解は2です。
+【ほかの選択肢】
+1 本文で「冷たく暗い深海でどのように生きているか」とされているのは、these creatures（深海にすむ多くの生き物）です。クジラがどう生きるかではありません。ホエールフォールは、深海に沈んだクジラの死がいのことです。
+3 人間が深海で泳げるようになる、という話は本文にありません。
+4 本文の our planet（私たちの惑星）は地球のことです。ほかの惑星の環境を研究するという話はありません。
+【覚えるポイント】
+・provide clues to ～：「～の手がかりを与える」。
+・severe environment：「厳しい環境」。選択肢では difficult conditions（厳しい条件）と言いかえられています。

@@ -1,0 +1,25 @@
+---
+choices: memory | trouble | cash | depth
+answerText: depth
+reviewed: yes
+---
+【正解】4 depth（in depth で「くわしく、徹底的に」）
+【和訳】
+A：今日の会議で、新しい広告キャンペーンについて話し合った？
+B：うん、でもくわしく話し合うだけの時間はなかったんだ。来週の特別会議で細かいところを詰めることになっているよ。
+（選択肢の意味）
+1 memory：記憶、思い出
+2 trouble：困ったこと（in trouble で「困って」）
+3 cash：現金（in cash で「現金で」）
+4 depth：深さ（in depth で「くわしく、徹底的に」）
+【考え方】
+空所の前は discuss it in (　) です。〈in＋名詞〉で「どのように話し合うか」を表す言い方を考えます。
+Bは Yes, but（うん、でも）と答えているので、会議でキャンペーンの話はしたものの、何か足りなかったことが分かります。次の文に We're going to work on the details at a special meeting next week.（来週の特別会議で詳細に取り組むつもりだ）とあります。details は「細かい点、詳細」です。つまり、今日の会議では細かいところまで話し合えなかったのです。
+depth は「深さ」という意味の名詞で、in depth で「深く、くわしく、徹底的に」となります。there wasn't enough time to discuss it in depth で「それをくわしく話し合うだけの十分な時間がなかった」となり、次の文の「詳細は来週」とつながります。正解は4です。
+【ほかの選択肢】
+1 memory は「記憶、思い出」です。in memory of ～ で「～を記念して、～をしのんで」と使いますが、「記憶の中で話し合う時間がなかった」では意味が通りません。
+2 trouble は「困ったこと、もめごと」です。in trouble は「困って、トラブルになって」で、話し合いのしかたを表す言い方ではないので合いません。
+3 cash は「現金」です。in cash は「現金で（支払う）」という意味で、話し合いの説明としては使いません。
+【覚えるポイント】
+・in depth：「くわしく、徹底的に」。discuss ～ in depth で「～をくわしく話し合う」。
+・work on ～：「～に取り組む」。

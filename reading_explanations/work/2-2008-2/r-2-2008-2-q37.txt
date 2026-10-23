@@ -1,0 +1,30 @@
+---
+choices: stores will sell cell phones that work as printers. | printers may no longer have parts that can be broken. | people may have a new way of replacing broken parts. | manufacturers will give people a new cell phone when they visit.
+answerText: people may have a new way of replacing broken parts.
+reviewed: yes
+---
+【正解】3 people may have a new way of replacing broken parts.（人々は、壊れた部品を取りかえる新しい方法を持つかもしれない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：近い将来、（　）。
+1 stores will sell cell phones that work as printers.（店は、プリンターとしても使える携帯電話を売るだろう）
+2 printers may no longer have parts that can be broken.（プリンターには、もう壊れる部品がなくなるかもしれない）
+3 people may have a new way of replacing broken parts.（人々は、壊れた部品を取りかえる新しい方法を持つかもしれない）
+4 manufacturers will give people a new cell phone when they visit.（製造元は、人々が訪ねてくると新しい携帯電話をくれるだろう）
+【考え方】
+設問の In the near future（近い将来）に注目し、本文で未来のことを述べている部分を探します。
+第1段落では、まず今の様子が書かれています。If they need to replace a broken piece of the cover, they either have to call the manufacturer or visit the store where they bought the phone.（カバーの壊れた部分を取りかえる必要があるときは、製造元に電話するか、電話を買った店に行かなければならない）。
+続いて未来の話になります。But in a few years, people may turn to an invention that allows them to create their own replacement parts at home — the 3-D printer.（しかし数年後には、人々は交換用の部品を自分で家で作れる発明品、つまり3Dプリンターを頼りにするかもしれない）。replacement parts は「交換用の部品」です。
+今は製造元や店に頼るしかないけれど、近い将来は3Dプリンターで自分で作れるようになるかもしれない、ということです。これは「部品を取りかえる新しい方法」です。本文と選択肢は次のように対応しています。
+本文 in a few years（数年後には）＝ 設問 In the near future（近い将来）
+本文 people may turn to an invention that allows them to create their own replacement parts（交換用部品を自分で作れる発明品を頼りにするかもしれない）＝ 選択肢 people may have a new way of replacing broken parts（壊れた部品を取りかえる新しい方法を持つかもしれない）
+正解は3です。
+【ほかの選択肢】
+1 本文の3Dプリンターは、携帯電話の部品を作るための機械です。プリンターとしても使える携帯電話を店が売る、という話は本文にありません。
+2 本文には、壊れた部品を3Dプリンターで作り直せるようになるとは書かれていますが、プリンターに壊れる部品がなくなるとは書かれていません。
+4 本文で製造元が出てくるのは、今は部品を取りかえるために製造元に電話をしなければならない、という部分です。製造元が新しい携帯電話をくれるとは書かれておらず、未来の話でもありません。
+【覚えるポイント】
+・replacement part：「交換用の部品」。動詞 replace（取りかえる）の名詞形 replacement が使われています。
+・turn to ～：「～を頼りにする、～に頼る」。

@@ -1,0 +1,32 @@
+---
+choices: inspired a new type of art | can also be seen in a positive light | also caused damage outside Florence | nearly became a more serious emergency
+answerText: can also be seen in a positive light
+reviewed: yes
+---
+【正解】2 can also be seen in a positive light（よい面から見ることもできる）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 inspired a new type of art（新しい種類の芸術を生み出した）
+2 can also be seen in a positive light（よい面から見ることもできる）
+3 also caused damage outside Florence（フィレンツェの外でも被害を出した）
+4 nearly became a more serious emergency（もっと深刻な緊急事態になりかけた）
+【考え方】
+まず見るところ：第3段落の空所の後ろの a great achievement と laid the foundations
+空所は第3段落の最初の文 The flood (28). です。この段落は、洪水のあとに何が起きたかをまとめています。
+空所の後ろで、美術史家のドナル・クーパーの言葉が引用されています。
+"The post-flood response stands as a great achievement of international collaboration and laid the foundations for Italian excellence in art conservation."（洪水後の対応は、国際的な協力の大きな成果であり、美術品の保存においてイタリアが優れた力を持つための土台を築きました）
+achievement は「成果」、collaboration は「協力」、foundation は「土台」です。洪水をきっかけに、よいことが生まれたという内容です。
+さらに、よい結果が続きます。
+The situation's urgency inspired new restoration methods, raising art-conservation standards.（事態が急を要したことが新しい修復方法を生み、美術品の保存の水準を高めた）
+Additionally, Florence's museums began conducting regular emergency drills.（さらに、フィレンツェの美術館は、定期的に緊急時の訓練を行うようになった）
+洪水はひどい災害でしたが、その結果、国際協力や新しい修復方法などのよい面も生まれました。in a positive light は「よい面から、前向きな見方で」です。also（～も）は、災害という悪い面だけでなく、という意味を表しています。ですから2が正解です。
+この問題の型：具体例とまとめ（国際協力の成果・新しい修復方法・訓練 → よい面）
+【ほかの選択肢】
+1 「新しい種類の芸術を生み出した」を入れると、洪水のあとに新しい芸術作品が生まれたことになります。本文で生まれたのは new restoration methods（新しい修復方法）で、芸術作品を直して守る方法です。新しい芸術が生まれたとは書かれていません。
+3 「フィレンツェの外でも被害を出した」を入れると、後ろの文とつながりません。後ろでは洪水のあとのよい成果が書かれていて、フィレンツェの外の被害については何も書かれていません。
+4 「もっと深刻な緊急事態になりかけた」は本文に書かれていません。段落の最後の However, many authorities believe more should be done to control the river（しかし、川を制御するためにもっと多くのことをするべきだと多くの専門家は考えている）は、将来の災害を避けるための話で、1966年の洪水がもっとひどくなりかけたという話ではありません。
+【覚えるポイント】
+・in a positive light：「よい面から、前向きな見方で」。
+・段落の最初の文が空所のときは、その段落全体の内容（ここでは洪水後のよい成果が並んでいる）をまとめた選択肢を選ぶのが手がかりになります。

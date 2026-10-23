@@ -1,0 +1,33 @@
+---
+choices: the presence of tourist boats has caused the number of minke whales in Faxaflói Bay to fall. | high levels of tourism in Doubtful Sound have made it harder for bottlenose dolphins there to obtain food. | minke whales in Faxaflói Bay have a greater fear of tourist boats than they do of killer whales. | tourism has made it difficult for biologists to do research on bottlenose dolphins in Doubtful Sound.
+answerText: high levels of tourism in Doubtful Sound have made it harder for bottlenose dolphins there to obtain food.
+reviewed: yes
+---
+【正解】2 high levels of tourism in Doubtful Sound have made it harder for bottlenose dolphins there to obtain food.（ダウトフル・サウンドで観光がさかんに行われていることで、そこのハンドウイルカがえさを得るのが〔以前より〕難しくなった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：David Lusseau believes that（デビッド・ルソーは、～と考えている。）
+1 the presence of tourist boats has caused the number of minke whales in Faxaflói Bay to fall.（観光船がいることで、ファクサフロイ湾のミンククジラの数が減った。）
+2 high levels of tourism in Doubtful Sound have made it harder for bottlenose dolphins there to obtain food.（ダウトフル・サウンドで観光がさかんに行われていることで、そこのハンドウイルカがえさを得るのが〔以前より〕難しくなった。）
+3 minke whales in Faxaflói Bay have a greater fear of tourist boats than they do of killer whales.（ファクサフロイ湾のミンククジラは、シャチよりも観光船を強く恐れている。）
+4 tourism has made it difficult for biologists to do research on bottlenose dolphins in Doubtful Sound.（観光のせいで、生物学者がダウトフル・サウンドのハンドウイルカを研究するのが難しくなった。）
+【考え方】
+まず見るところ：第2段落の the large number of dolphin-watching trips in Doubtful Sound と lost feeding opportunities
+ルソーの考えは、第1段落の最後と第2段落に書かれています。ダウトフル・サウンドについては、第2段落に次のようにあります。
+he found that the large number of dolphin-watching trips in Doubtful Sound, New Zealand, had caused the local population of bottlenose dolphins to decline from 67 to 56 over an eight-year span（ニュージーランドのダウトフル・サウンドでは、イルカウォッチングのツアーが多く行われたことで、その地域のハンドウイルカの数が、8年の間に67頭から56頭に減ったことを発見した）
+続けて、その理由が書かれています。
+Lusseau says the dolphins' efforts to avoid boats have led to lost feeding opportunities（ルソーによれば、イルカが船を避けようとしたことで、えさを食べる機会が失われた）
+本文と選択肢を対にすると、次のようになります。
+本文 the large number of dolphin-watching trips（イルカウォッチングのツアーが多いこと）→ 選択肢 high levels of tourism（観光がさかんなこと）
+本文 lost feeding opportunities（えさを食べる機会が失われた）→ 選択肢 made it harder ～ to obtain food（えさを得るのが難しくなった）
+obtain は「手に入れる」です。ツアーが多い → イルカが船を避ける → えさを食べる機会が減る、という流れが、選択肢2の内容と合います。ですから2が正解です。
+この問題の型：言いかえ（lost feeding opportunities → harder to obtain food）／因果（ツアーが多い → えさをとりにくい）
+【ほかの選択肢】
+1 本文と反対です。第2段落に Lusseau believes there has been no impact on the population size of minke whales in Faxaflói Bay（ルソーは、ファクサフロイ湾のミンククジラの数には影響が出ていないと考えている）とあります。数が減ったのは、ダウトフル・サウンドのハンドウイルカです。
+3 第1段落には、ミンククジラが reacting to the boats as they do to killer whales（シャチに対してするのと同じように、観光船に反応する）とあります。as ～ は「～と同じように」で、観光船とシャチへの反応が同じだと言っているだけです。観光船をシャチよりも強く恐れている、とは書かれていません。
+4 本文には、観光のせいで生物学者の研究が難しくなった、という話はありません。ルソーはむしろ、実際に観察や調査をして結果を出しています。
+【覚えるポイント】
+・lead to ～：「～につながる、～という結果になる」。efforts to avoid boats have led to lost feeding opportunities で「船を避けようとしたことが、えさを食べる機会の損失につながった」。
+・同じ人物が2つの場所（ここではファクサフロイ湾とダウトフル・サウンド）について述べているときは、選択肢の場所と動物の組み合わせが本文と同じかを確かめることが手がかりになります。

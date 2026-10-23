@@ -1,0 +1,36 @@
+---
+choices: It may not be as beneficial to the animals as is widely believed. | Its popularity is forcing the animals to move into dangerous areas. | Participants often ignore warnings about the danger to themselves. | Dolphins are at greater risk of being hit by tourist boats than whales are.
+answerText: It may not be as beneficial to the animals as is widely believed.
+reviewed: yes
+---
+【正解】1 It may not be as beneficial to the animals as is widely believed.（それは、広く信じられているほど動物たちにとって有益ではないかもしれない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is true of whale and dolphin watching as a tourist activity?（観光の活動としてのクジラとイルカのウォッチングについて、正しいものはどれか。）
+1 It may not be as beneficial to the animals as is widely believed.（それは、広く信じられているほど動物たちにとって有益ではないかもしれない。）
+2 Its popularity is forcing the animals to move into dangerous areas.（その人気のせいで、動物たちが危険な地域へ移動させられている。）
+3 Participants often ignore warnings about the danger to themselves.（参加者は、自分たちの身に及ぶ危険についての警告を無視することが多い。）
+4 Dolphins are at greater risk of being hit by tourist boats than whales are.（イルカは、クジラよりも観光船にぶつけられる危険が大きい。）
+【考え方】
+まず見るところ：第1段落の This is generally considered a positive development と、Concern is growing among scientists, however
+第1段落では、まず多くの人が持っている考えが書かれています。
+This is generally considered a positive development, as the activity is thought to increase appreciation for the animals and encourage support for conservation efforts.（これは一般に、よい進展だと考えられている。この活動は、動物たちのすばらしさを理解する気持ちを高め、保護活動への支持をうながすと考えられているからである）
+conservation は「（自然や動物の）保護」です。つまり、ウォッチングは動物たちのためにもなる、と一般には思われています。
+しかし、そのあとに however（しかし）で反対の内容が続きます。
+Concern is growing among scientists, however, regarding the risks involved.（しかし科学者たちの間では、それにともなう危険について心配が高まっている）
+このあと、船との衝突が増えたこと、動物の行動に影響が出ていること、第2段落ではイルカの数が減ったことが書かれています。
+本文と選択肢を対にすると、次のようになります。
+本文 generally considered（一般に考えられている）＝ 選択肢 widely believed（広く信じられている）
+本文 positive development ～ encourage support for conservation（よい進展、保護への支持をうながす）→ 選択肢 beneficial to the animals（動物たちにとって有益）
+本文 Concern ～ regarding the risks（危険についての心配）→ 選択肢 may not be as beneficial（それほど有益ではないかもしれない）
+「一般には動物のためになると思われているが、実は危険もある」という本文の流れを、選択肢1は「広く信じられているほど有益ではないかもしれない」とまとめています。ですから1が正解です。
+この問題の型：対比（一般の考え ⇔ however 科学者の心配）／言いかえ（generally considered ＝ widely believed）
+【ほかの選択肢】
+2 本文には、動物たちが危険な地域へ移動させられている、という話はありません。ミンククジラは船から速く泳ぎ去ると書かれていますが、危険な地域へ移るとは書かれていません。第3段落の areas where whale and dolphin populations are most at risk（クジラやイルカの集団が最も危険にさらされている地域）は、立ち入り禁止にする場所の話です。
+3 本文で書かれている危険は、クジラやイルカにとっての危険です。参加者自身の身に及ぶ危険や、参加者が警告を無視することについては書かれていません。
+4 本文には、the increasing number of tourist boats has made collisions with whales and dolphins more common（観光船の数が増えたことで、クジラやイルカとの衝突がよく起こるようになった）とあるだけで、イルカとクジラのどちらの危険が大きいかは比べていません。
+【覚えるポイント】
+・not as ～ as is widely believed：「広く信じられているほど～ではない」。一般の考えと事実のずれを表す言い方です。
+・本文が「一般に～と考えられている。しかし（however）～」の形で始まるときは、筆者や専門家の考えが however の後ろにあることが多く、設問の答えの手がかりになります。

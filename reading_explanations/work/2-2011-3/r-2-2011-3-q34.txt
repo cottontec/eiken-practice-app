@@ -1,0 +1,28 @@
+---
+choices: Tell students at the college why he stopped playing video games. | Become the next president of the Southbridge College Debating Club. | Help her to find a job at a company that makes educational software. | Argue that video games can have a positive effect on young people.
+answerText: Argue that video games can have a positive effect on young people.
+reviewed: yes
+---
+【正解】4 Argue that video games can have a positive effect on young people.（テレビゲームが若い人たちによい影響を与えうると主張する。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：カレン・スティーブンスがハワードさんにしてほしいことの1つは何ですか。
+1 Tell students at the college why he stopped playing video games.（なぜテレビゲームをするのをやめたのかを、大学の学生に話す。）
+2 Become the next president of the Southbridge College Debating Club.（サウスブリッジ・カレッジ・ディベート部の次の部長になる。）
+3 Help her to find a job at a company that makes educational software.（教育用ソフトウェアを作る会社で仕事を見つけるのを手伝う。）
+4 Argue that video games can have a positive effect on young people.（テレビゲームが若い人たちによい影響を与えうると主張する。）
+【考え方】
+カレンがメールを書いた目的は、第1段落の最初の文にあります。I am writing to ask you to be a guest speaker in a debate at the college on March 3.（3月3日に本校で行われるディベートにゲストスピーカーとして参加していただけないかをお願いしたく、ご連絡しています）とあります。
+では、そのディベートで何をしてほしいのでしょうか。ディベートのテーマは whether video games are a bad influence on teenagers（テレビゲームが10代の若者に悪い影響を与えるかどうか）です。そして段落の最後に You would be an excellent person to argue that video games can benefit young people.（あなたは、テレビゲームが若い人たちのためになりうると主張するのにうってつけの方だと思います）とあります。ハワードさんは教育用のテレビゲームを作る会社で働いているので、ゲームのよい面を主張する側を頼まれているのです。
+本文と選択肢は次のように対応しています。
+本文 argue that video games can benefit young people（テレビゲームが若い人たちのためになりうると主張する）＝ 選択肢 Argue that video games can have a positive effect on young people（テレビゲームが若い人たちによい影響を与えうると主張する）
+benefit（～のためになる）が have a positive effect on ～（～によい影響を与える）に言いかえられています。正解は4です。
+【ほかの選択肢】
+1 ハワードさんがテレビゲームをするのをやめたという話は、本文にありません。カレンが頼んでいるのは、ゲームのよい面を主張することです。
+2 カレンは自分がディベート部の部長だと書いていますが、ハワードさんに次の部長になってほしいとは書いていません。ハワードさんに頼んでいるのはゲストスピーカーです。
+3 ハワードさんはすでに教育用のテレビゲームを作るソフトウェア会社で働いています。カレンがその会社で仕事を見つけたいという話は本文にありません。
+【覚えるポイント】
+・I am writing to ～：「～するためにご連絡しています」。メールの目的を示す決まった書き出しです。
+・benefit ～：「～のためになる」。have a positive effect on ～（～によい影響を与える）とほぼ同じ意味です。

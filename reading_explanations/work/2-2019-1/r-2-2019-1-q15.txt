@@ -1,0 +1,28 @@
+---
+choices: to | at | on | from
+answerText: from
+reviewed: yes
+---
+【正解】4 from（～が原因で）
+【和訳】
+（英文）
+While Simon was on vacation, he became sick ［from］ eating too much food. After resting for a couple of hours, however, he felt better.
+（訳）
+サイモンは休暇中に、食べすぎ（が原因で）具合が悪くなりました。しかし、数時間休んだあと、彼は気分がよくなりました。
+（選択肢の意味）
+1 to：～へ、～まで
+2 at：～で、～に（場所・時刻など）
+3 on：～の上に、～について
+4 from：～から、～が原因で
+【考え方】
+空所の前後は he became sick (　) eating too much food です。became sick は「具合が悪くなった」、eating too much food は「食べ物を食べすぎること」です。
+食べすぎることは、具合が悪くなった原因だと考えられます。そこで、原因を表す前置詞（名詞や -ing 形の前に置いて、場所・時・原因などを表す語）を選びます。
+from には「～から」という意味のほかに、「～が原因で」という意味があります。became sick from eating too much food で「食べすぎが原因で具合が悪くなった」となります。ですから、4が正解です。
+次の文の After resting for a couple of hours, however, he felt better.（しかし、数時間休んだあと、彼は気分がよくなった）とも自然につながります。
+【ほかの選択肢】
+1 to は「～へ、～まで」のように、向かう先や行き着くところを表すことが多い語です。became sick to eating という言い方はなく、意味が通りません。
+2 at は「～で、～に」のように、場所や時刻などの一点を表すことが多い語です。became sick at eating too much food では、食べすぎが原因だということを表せません。
+3 on は「～の上に」「～について」などを表すことが多い語です。この文に入れても、食べすぎが具合の悪くなった原因だという関係ははっきり表せません。
+【覚えるポイント】
+・become sick from ～：「～が原因で具合が悪くなる」。from は原因を表すことがあります。
+・a couple of ～：「2、3の～」。a couple of hours で「数時間」です。

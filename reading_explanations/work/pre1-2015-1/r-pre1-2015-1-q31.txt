@@ -1,0 +1,33 @@
+---
+choices: Nevertheless | In other words | Moreover | For one thing
+answerText: Nevertheless
+reviewed: yes
+---
+【正解】1 Nevertheless（それにもかかわらず、それでも）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Nevertheless（それにもかかわらず、それでも）
+2 In other words（言いかえると、つまり）
+3 Moreover（さらに、そのうえ）
+4 For one thing（一つには〔理由を挙げるとき〕）
+【考え方】
+まず見るところ：空所の前の the number of fish in the creek has been increasing と、空所の後ろの it will be a while before scientists can determine
+空所は第3段落にあり、前の内容と後ろの内容のつながり方を表す語句を選ぶ問題です。
+空所の前を見ます。
+The project appears to have been a success.（この計画は成功だったようだ）
+the number of fish in the creek has been increasing（川の魚の数が増えてきている）
+計画はうまくいき、魚が増えている、というよい知らせです。
+空所の後ろを見ます。
+fish populations can vary so much from year to year that it will be a while before scientists can determine if this trend will continue（魚の数は年によって大きく変わることがあるので、この傾向が続くかどうかを科学者が判断できるようになるまでには、しばらく時間がかかるだろう）
+vary は「変わる」、this trend は「魚が増えているという傾向」です。つまり「まだ成功と言い切るのは早い」という、注意をうながす内容です。
+前はよい知らせ、後ろは「まだ分からない」という慎重な内容で、向きが反対になっています。このようなときにつなぐ語は、Nevertheless（それにもかかわらず、それでも）です。ですから1が正解です。
+この問題の型：対比（魚が増えている ⇔ Nevertheless まだ判断できない）
+【ほかの選択肢】
+2 In other words は「言いかえると」で、前と同じ内容を別の言葉で言うときに使います。後ろの文は「魚が増えている」の言いかえではなく、それに注意を加える内容なので合いません。
+3 Moreover は「さらに」で、前と同じ向きの内容を付け加えるときに使います。後ろの文は成功をさらにほめる内容ではないので、合いません。
+4 For one thing は「一つには」で、前に述べたことの理由や例を挙げるときに使います。後ろの文は、成功した理由の説明ではないので、合いません。
+【覚えるポイント】
+・Nevertheless：「それにもかかわらず、それでも」。前の内容を認めたうえで、それと反対の向きの内容を続けるときに使います。
+・つなぎの語句を選ぶ問題では、空所の前と後ろが「同じ向き」か「反対の向き」か、「言いかえ」か「理由」かを確かめることが手がかりになります。

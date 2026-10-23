@@ -1,0 +1,24 @@
+---
+choices: unlike | toward | with | between
+answerText: with
+reviewed: yes
+---
+【正解】3 with（identify A with B で「AをBと結びつけて考える」）
+【和訳】
+ショーンの母親は、以前よくアップルパイを焼いていました。今でも、ショーンはアップルパイのにおいを、子どものころの家と結びつけて思い浮かべます。
+（選択肢の意味）
+1 unlike：～とちがって
+2 toward：～のほうへ
+3 with：～と（いっしょに）
+4 between：～の間に
+【考え方】
+1文目は Sean's mother often used to bake apple pies.（ショーンの母親は以前よくアップルパイを焼いていた）です。used to ～ は「以前はよく～したものだ」という意味です。
+2文目は Sean identifies the smell of apple pie (　) his childhood home. です。空所の前にある identifies と組になる語を考えます。
+identify はふつう「～がだれ（何）であるかを確かめる」という意味ですが、identify A with B の形で「AをBと結びつけて考える、AといえばBを思い浮かべる」という意味になります。子どものころ、家で母親がよくアップルパイを焼いていたので、今でもそのにおいをかぐと子どものころの家が思い浮かぶ、という流れです。正解は3です。
+【ほかの選択肢】
+1 unlike は「～とちがって」です。identify A unlike B という形はなく、「子どものころの家とちがって」では1文目の話とつながりません。
+2 toward は「～のほうへ」です。identify A toward B という形はなく、意味が通りません。
+4 between は「（2つのもの）の間に」です。between のあとにはふつう2つのものが来ますが、ここには his childhood home の1つしかないので合いません。
+【覚えるポイント】
+・identify A with B：「AをBと結びつけて考える」。
+・used to ～：「以前はよく～したものだ」。

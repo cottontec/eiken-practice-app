@@ -1,0 +1,31 @@
+---
+choices: The website for each school Mira is interested in. | The address of each college Mira will apply to. | What date he should write at the top of each letter. | When each college will need the letter from him.
+answerText: When each college will need the letter from him.
+reviewed: yes
+---
+【正解】4 When each college will need the letter from him.（それぞれの大学が、いつ彼からの推薦状を必要とするか。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：クレスマーさんが知りたいことの1つは何ですか。
+1 The website for each school Mira is interested in.（ミラが関心を持っているそれぞれの学校のウェブサイト。）
+2 The address of each college Mira will apply to.（ミラが出願するそれぞれの大学の住所。）
+3 What date he should write at the top of each letter.（それぞれの推薦状のいちばん上に書くべき日付。）
+4 When each college will need the letter from him.（それぞれの大学が、いつ彼からの推薦状を必要とするか。）
+【考え方】
+クレスマーさんが知りたいことは、第2段落に書かれています。I need some information from you（あなたからいくつか情報をもらう必要がある）と言ったあと、次のことを頼んでいます。
+・please give me a list of the colleges you're applying to（出願する大学の一覧をください）
+・I'll need to know the deadline for each school（それぞれの学校の締め切りを知る必要がある）
+・Let me know what each school requires.（それぞれの学校が何を求めているかを知らせてください）
+このうちの the deadline for each school（それぞれの学校の締め切り）に注目します。deadline は「締め切り、期限」という意味です。締め切りが分かれば、それぞれの大学がいつまでに推薦状を必要としているかが分かります。
+本文と選択肢を対にすると、次のようになります。
+本文 the deadline for each school（それぞれの学校の締め切り）＝ 選択肢 When each college will need the letter from him（それぞれの大学が、いつ彼からの推薦状を必要とするか）
+4が正解です。
+【ほかの選択肢】
+1 本文には an online form（オンラインのフォーム）で推薦状を送る大学が多いとありますが、それぞれの学校のウェブサイトを教えてほしいとは書かれていません。
+2 本文には paper letters to be sent through the mail（郵便で送る紙の手紙）を求める大学もあるとありますが、クレスマーさんが知らせてほしいと言っているのは what each school requires（それぞれの学校が何を求めているか）です。大学の住所を求めてはいません。
+3 「日付」という点では締め切りと似ていますが、クレスマーさんが知りたいのは推薦状の締め切りです。推薦状のいちばん上に書く日付については、本文に書かれていません。
+【覚えるポイント】
+・deadline：「締め切り、期限」。
+・Let me know ～：「～を知らせてください」。

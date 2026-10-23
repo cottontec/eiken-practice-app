@@ -1,0 +1,27 @@
+---
+choices: up | out | well | less
+answerText: well
+reviewed: yes
+---
+【正解】3 well（speak well of ～ で「～をよく言う、ほめる」）
+【和訳】
+（英文）
+During her speech, the manager spoke ［well］ of the company president, saying that he had made the company the success it is today.
+（訳）
+スピーチの中で、そのマネージャー（管理職の人）は会社の社長のことを（よく）言い、彼が会社を今日のような成功に導いたのだと述べました。
+（選択肢の意味）
+1 up：上へ（speak up で「大きな声で話す、はっきり意見を言う」）
+2 out：外へ（speak out で「はっきり意見を言う」）
+3 well：よく（speak well of ～ で「～をよく言う、ほめる」）
+4 less：より少なく
+【考え方】
+空所のあとの of the company president と、文の後半の saying that he had made the company the success it is today（彼が会社を今日のような成功へと導いたと述べて）に注目します。he は社長を指します。
+マネージャーは、社長が会社を成功させたと話しています。これは社長をほめる内容です。
+speak well of ～ は「～のことをよく言う、～をほめる」という決まった言い方です。spoke well of the company president で「社長のことをほめた」となり、後半の内容と合います。ですから、3が正解です。
+【ほかの選択肢】
+1 up を入れると spoke up of ～ となります。speak up は「大きな声で話す、はっきり意見を言う」という意味で、of ～ と組み合わせて「～をほめる」という意味にはなりません。
+2 out を入れると spoke out of ～ となります。speak out は「はっきり意見を言う」で、反対の意見を言うときによく使います。「～をほめる」という意味にはならず、後半の内容とつながりません。
+4 less は「より少なく」です。spoke less of ～ では「～のことをより少なく話した」となり、社長が会社を成功させたとほめている後半と合いません。
+【覚えるポイント】
+・speak well of ～：「～のことをよく言う、～をほめる」。反対は speak ill of ～（～のことを悪く言う）です。
+・make ～ the success it is today：「～を今日のような成功に導く」。

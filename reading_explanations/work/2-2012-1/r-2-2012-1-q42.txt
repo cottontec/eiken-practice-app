@@ -1,0 +1,29 @@
+---
+choices: make it harder to travel between some countries. | benefit plants and animals as well as humans. | require a lot of wood and other materials to build. | reduce the number of sandstorms inside the Sahara Desert.
+answerText: benefit plants and animals as well as humans.
+reviewed: yes
+---
+【正解】2 benefit plants and animals as well as humans.（人間だけでなく植物や動物にも利益をもたらす。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：グレート・グリーン・ウォールは、
+1 make it harder to travel between some countries.（いくつかの国の間を行き来するのを難しくするだろう。）
+2 benefit plants and animals as well as humans.（人間だけでなく植物や動物にも利益をもたらすだろう。）
+3 require a lot of wood and other materials to build.（造るのにたくさんの木材やそのほかの材料が必要になるだろう。）
+4 reduce the number of sandstorms inside the Sahara Desert.（サハラ砂漠の中の砂あらしの数を減らすだろう。）
+【考え方】
+グレート・グリーン・ウォールがもたらすものは、第2段落で説明されています。
+4文目に Its trees will provide local people with wood and other materials, and it will become a home for plants and animals.（その木々は地元の人々に木材やそのほかの材料をもたらし、また、それは植物や動物のすみかになるだろう）とあります。provide A with B は「AにBを与える、もたらす」という意味です。
+この文の前半は人間（地元の人々）にとってのよい点、後半は植物や動物にとってのよい点です。つまり、グレート・グリーン・ウォールは、人間にも、植物や動物にも役立つものです。本文と選択肢は次のように対応しています。
+本文 provide local people with wood and other materials（地元の人々に木材などをもたらす）＝ 選択肢 benefit ... humans（人間に利益をもたらす）
+本文 become a home for plants and animals（植物や動物のすみかになる）＝ 選択肢 benefit plants and animals（植物や動物に利益をもたらす）
+benefit は「～に利益をもたらす、～の役に立つ」、A as well as B は「BだけでなくAも」という意味です。正解は2です。
+【ほかの選択肢】
+1 本文では、11の国がこの事業に参加すると書かれていますが、国と国の間を行き来しにくくなるという話はないので、誤りです。
+3 本文では、木材やそのほかの材料は、壁の木々が地元の人々にもたらすものとして書かれています。壁を造るのに木材が必要だという話ではないので、関係が逆になっています。
+4 本文には reduce damage from the sandstorms blowing off the Sahara（サハラ砂漠から吹きつける砂あらしによる被害を減らす）とあります。減らすのは砂漠から吹いてくる砂あらしの「被害」で、砂漠の中の砂あらしの「数」ではないので、誤りです。
+【覚えるポイント】
+・provide A with B：「AにBを与える、もたらす」。
+・A as well as B：「BだけでなくAも」。

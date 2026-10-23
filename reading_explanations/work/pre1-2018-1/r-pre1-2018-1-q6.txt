@@ -1,0 +1,29 @@
+---
+choices: indefinite | mandatory | graphic | daring
+answerText: mandatory
+reviewed: yes
+---
+【正解】2 mandatory（義務の、強制の）
+【和訳】
+（英文）
+A period of military service for young men in many countries is ［mandatory］. They are required to report for duty or face prison.
+（訳）
+多くの国では、若い男性が一定の期間、兵役につくこと（軍隊に入って務めること）は（義務）である。若い男性は任務につくために出頭しなければならず、そうしなければ刑務所に入ることになる。
+（選択肢の意味）
+1 indefinite：期限のない、はっきりしない
+2 mandatory：義務の、強制の
+3 graphic：生々しい、図や絵の
+4 daring：大胆な、向こう見ずな
+【考え方】
+まず見るところ：次の文の They are required to report for duty or face prison.
+最初の文は「多くの国で、若い男性の一定期間の兵役は〇〇だ」という意味です。military service は「兵役（軍隊での務め）」です。次の文が、その説明になっています。
+They are required to report for duty or face prison.（彼らは任務につくために出頭することを求められ、そうしなければ刑務所に入ることになる）
+be required to ～ は「～しなければならない」、A or B はここでは「Aしなさい、さもないとBになる」という意味です。行かなければ刑務所に入れられるのですから、兵役は自分で選べるものではなく、必ず行かなければならないものです。mandatory は「義務の、強制の」なので、2が正解です。
+この問題の型：言いかえ（mandatory ＝ be required to ～）
+【ほかの選択肢】
+1 indefinite は「期限のない」です。A period of ～（一定の期間の～）とあるので期間には区切りがあり、次の文も期間の長さではなく「行かなければならない」という話なので合いません。
+3 graphic は「生々しい」です。「兵役は生々しい」では、次の文の「出頭しなければ刑務所」という説明につながりません。
+4 daring は「大胆な」で、ふつうは人や行動について使います。「兵役は大胆だ」では、次の文の説明と合いません。
+【覚えるポイント】
+・mandatory：「義務の、強制の」。be required to ～：「～しなければならない」。
+・空所の次の文が be required to ～ や or face prison（さもなければ刑務所）のように「しないと罰がある」と述べているときは、「義務の」という意味の語を考える手がかりになります。

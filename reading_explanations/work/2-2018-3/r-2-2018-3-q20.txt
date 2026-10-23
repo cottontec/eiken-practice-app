@@ -1,0 +1,28 @@
+---
+choices: more | less | most | least
+answerText: more
+reviewed: yes
+---
+【正解】1 more（no more than ～：～より多くない、～以下）
+【和訳】
+（英文）
+David used to eat very big meals, but now he is on a diet to lose weight. He tries to eat no ［more］ than 1,800 calories per day.
+（訳）
+デイビッドは以前、とてもたくさんの量の食事をとっていましたが、今は体重を減らすためにダイエットをしています。彼は1日に1,800カロリー（より多く）は食べないようにしています。
+（選択肢の意味）
+1 more：より多く（many・much の比較級）
+2 less：より少なく（little の比較級）
+3 most：最も多く（最上級）
+4 least：最も少なく（最上級）
+【考え方】
+最初の文に、David used to eat very big meals, but now he is on a diet to lose weight.（デイビッドは以前はとてもたくさん食べていたが、今は体重を減らすためにダイエット中だ）とあります。used to ～ は「以前は～していた」、on a diet は「ダイエット中で」です。
+ダイエット中なので、続く文は「食べる量をおさえようとしている」という内容になるはずです。
+空所のあとに than（～より）があるので、比較級（「より～」を表す形）が入ります。no more than 1,800 calories は「1,800カロリーより多くない」、つまり「1,800カロリー以下」という意味です。tries to eat no more than 1,800 calories per day で「1日1,800カロリーより多くは食べないようにしている」となり、ダイエットの話と合います。ですから、1が正解です。
+【ほかの選択肢】
+2 less を入れると no less than 1,800 calories となり、「1,800カロリーもの、少なくとも1,800カロリーは」という意味になります。「1日に少なくとも1,800カロリーは食べるようにしている」では、食べる量をおさえるダイエットの話と合いません。
+3 most は「最も多く」を表す最上級（「いちばん～」を表す形）です。最上級は than（～より）と一緒には使わないので、文が成り立ちません。
+4 least は「最も少なく」を表す最上級です。3と同じく than と一緒には使えないので、文が成り立ちません。
+【覚えるポイント】
+・no more than ～：「～より多くない、～以下、たった～」。
+・no less than ～：「～もの、少なくとも～」。more と less で意味が反対になることに注意しましょう。
+・used to ～：「以前は～していた（今はしていない）」。

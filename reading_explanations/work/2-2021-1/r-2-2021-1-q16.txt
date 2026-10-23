@@ -1,0 +1,27 @@
+---
+choices: had some difficulty | did a lot of harm | took a break | found fault
+answerText: did a lot of harm
+reviewed: yes
+---
+【正解】2 did a lot of harm（大きな害をもたらした）
+【和訳】
+（英文）
+A heavy storm ［did a lot of harm］ in Montaine Valley last month. The farmers in the area could not sell their vegetables because they were damaged.
+（訳）
+先月、モンテーン渓谷で激しい嵐が（大きな被害をもたらしました）。その地域の農家の人たちは、野菜が傷んでしまったので、売ることができませんでした。
+（選択肢の意味）
+1 had some difficulty：少し苦労した
+2 did a lot of harm：大きな害をもたらした
+3 took a break：休憩した
+4 found fault：文句をつけた
+【考え方】
+2文目の内容に注目します。The farmers in the area could not sell their vegetables（その地域の農家は野菜を売ることができなかった）とあり、その理由は because they were damaged（それら〔野菜〕が傷んでいたので）です。
+野菜が傷んだ原因は、1文目の A heavy storm（激しい嵐）だと考えられます。そこで、主語の嵐が「被害を与えた」という意味になる語句を選びます。
+do harm は「害を与える」という意味で、did a lot of harm で「大きな害をもたらした」となります。harm は「害、被害」という意味の名詞です。嵐が大きな被害をもたらした→野菜が傷んで売れなかった、と1文目と2文目が原因と結果でつながります。
+【ほかの選択肢】
+1 had some difficulty は「少し苦労した」です。苦労するのは人などであり、嵐が苦労したという文になってしまいます。
+3 took a break は「休憩した」です。「嵐が休憩した（一時やんだ）」という意味になり、野菜が傷んで売れなかったという2文目の原因の説明になりません。
+4 found fault は「文句をつけた、あら探しをした」です。人が他人を批判するときの言い方で、嵐を主語にすると意味が通りません。
+【覚えるポイント】
+・do harm (to ～)：「（～に）害を与える」。do a lot of harm で「大きな害を与える」。
+・be damaged：「傷む、損害を受ける」。

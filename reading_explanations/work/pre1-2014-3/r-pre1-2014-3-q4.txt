@@ -1,0 +1,31 @@
+---
+choices: stingy | hectic | adorable | premature
+answerText: stingy
+reviewed: yes
+---
+【正解】1 stingy（けちな）
+【和訳】
+（英文）
+Tony accused his sister of being ［stingy］ after she refused to give him a dollar to buy a drink from the vending machine.
+（訳）
+トニーは、自動販売機で飲み物を買うための1ドルを姉（妹）がくれなかったあと、姉（妹）のことを（けち）だと責めた。
+（選択肢の意味）
+1 stingy：けちな
+2 hectic：とても忙しい、あわただしい
+3 adorable：とてもかわいらしい、愛らしい
+4 premature：早すぎる、時期が早い
+【考え方】
+まず見るところ：after のあとの she refused to give him a dollar
+まず、文の形を確かめます。accuse A of B は「AをBだと責める、非難する」という意味です。ですから、空所には、トニーが姉（妹）を責めるときに使う、よくない性質が入ります。
+次に、責めた理由を見ます。
+after she refused to give him a dollar to buy a drink from the vending machine（彼女が、自動販売機で飲み物を買うための1ドルを彼にあげるのを断ったあとで）
+refuse to ～ は「～するのを断る」という意味です。たった1ドルをくれなかった相手を責めるときの言葉といえば「けちだ」です。stingy は「けちな」という意味なので、1が正解です。
+なお、sister だけでは年上か年下か分からないため、訳では「姉（妹）」としています。
+この問題の型：因果（after 以下の出来事が、責めた理由になっている）
+【ほかの選択肢】
+2 hectic は「とても忙しい、あわただしい」で、ふつうは一日や予定のようすを表します。1ドルをくれなかったことと忙しさは関係がなく、責める理由になりません。
+3 adorable は「とてもかわいらしい」というほめる言葉です。accuse A of B（AをBだと責める）のBに入れると、「かわいいと責めた」となり、意味が通りません。
+4 premature は「早すぎる」です。お金をくれなかったことは「早すぎる」こととは関係がなく、意味が通りません。
+【覚えるポイント】
+・accuse A of B：「AをBだと責める、非難する」。Bにはよくない行いや性質が入ります。
+・accuse A of (　) の空所では、そのあとに書かれた出来事（ここでは「1ドルをくれなかった」）がどんな性質を表すかを考えると、答えを決める手がかりになります。

@@ -1,0 +1,34 @@
+---
+choices: boil water quickly with old electric kettles | design colorful electric kettles | take apart most electric kettles at home | try new electric kettles in shops
+answerText: take apart most electric kettles at home
+reviewed: yes
+---
+【正解】3 take apart most electric kettles at home（ほとんどの電気ケトルを家で分解する）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 boil water quickly with old electric kettles（古い電気ケトルですばやくお湯をわかす）
+2 design colorful electric kettles（色あざやかな電気ケトルをデザインする）
+3 take apart most electric kettles at home（ほとんどの電気ケトルを家で分解する）
+4 try new electric kettles in shops（店で新しい電気ケトルを試す）
+【考え方】
+まず見るところ：第1段落の空所のすぐあとの Unlike these kettles, Osiris can be separated ～
+空所のある文は次のとおりです。
+It is difficult to (18).（（18）することは難しい）
+何が難しいのかを、前後から考えます。
+まず、空所の前の文を見ます。
+What makes it unique is that ordinary people can repair it easily.（それが独特なのは、ふつうの人が簡単に修理できるという点だ）
+次に、空所のすぐあとの文を見ます。
+Unlike these kettles, Osiris can be separated simply by removing two screws at the bottom.（こうしたケトルと違って、オシリスは底にある2本のねじを外すだけで、ばらばらにすることができる）
+unlike は「～と違って」です。these kettles（こうしたケトル）は、空所の文に出てくるケトルを指していると考えられます。
+「オシリスは簡単にばらばらにできる」と比べているのですから、空所の文には「ほかのケトルはばらばらにするのが難しい」という内容が入るはずです。
+take apart は「分解する（部品ごとにばらばらにする）」なので、「ほとんどの電気ケトルを家で分解するのは難しい」となり、3が正解です。
+この問題の型：対比（ほかのケトルは分解が難しい⇔オシリスは簡単にばらばらにできる）／指示語（these kettles）
+【ほかの選択肢】
+1 「古い電気ケトルですばやくお湯をわかすのは難しい」となります。すぐあとの文はオシリスが簡単にばらばらにできるという話なので、お湯をわかす速さと比べることにならず、つながりません。
+2 「色あざやかな電気ケトルをデザインするのは難しい」となります。第1段落の最後に色を変えられるという話は出てきますが、それはばらばらにできるつくりのおかげだという説明です。デザインすることが難しいという話はなく、Unlike these kettles, Osiris can be separated ～ ともつながりません。
+4 「店で新しい電気ケトルを試すのは難しい」となります。店でケトルを試すという話は本文になく、ふつうの人が簡単に修理できるという前の文ともつながりません。
+【覚えるポイント】
+・take apart：「分解する、ばらばらにする」。本文の be separated（ばらばらにされる）や removing two screws（2本のねじを外す）と同じ方向の内容です。
+・空所のすぐあとに Unlike these ～（こうした～と違って）があるときは、空所の文に「あとの内容と反対のこと」が入ると考えると手がかりになります。

@@ -1,0 +1,29 @@
+---
+choices: dense | ethical | harsh | faint
+answerText: faint
+reviewed: yes
+---
+【正解】4 faint（かすかな、弱い）
+【和訳】
+（英文）
+The little girl stood up and made a speech, but her voice was so ［faint］ that most people in the audience could not hear what she was saying.
+（訳）
+その小さな女の子は立ち上がってスピーチをしましたが、声がとても（かすか）だったので、聴衆のほとんどの人は、彼女が何を言っているのか聞き取れませんでした。
+（選択肢の意味）
+1 dense：密集した；（霧などが）こい
+2 ethical：倫理的な（人として正しいかどうかに関わる）
+3 harsh：（声や音が）耳ざわりな；厳しい
+4 faint：（音・光などが）かすかな、弱い
+【考え方】
+まず見るところ：so (　) that ～ の形と、that の後ろの could not hear
+空所の前後は so (　) that ～ の形です。so ～ that ... は「とても～なので…」という意味で、that の後ろに「その結果どうなったか」が書かれます。
+most people in the audience could not hear what she was saying（聴衆のほとんどの人が、彼女が何を言っているのか聞き取れなかった）
+audience は「聴衆（話を聞きに集まった人たち）」です。聞き取れなかったという結果になるのは、声が小さく弱かったからだと考えられます。faint は「かすかな、弱い」という意味なので、4が正解です。
+この問題の型：因果（so ～ that ... の結果から考える）
+【ほかの選択肢】
+1 dense は「密集した、こい」です。人や木がぎっしり集まっている様子や、こい霧などに使う語で、「声がとても密集していたので」では意味が通りません。
+2 ethical は「倫理的な」です。声について「倫理的」とは言わず、聞き取れなかった理由にもなりません。
+3 harsh は「耳ざわりな」です。声について使うこともできますが、耳ざわりな声は、聞き取れないとは限りません。音の大きさや弱さではなく不快さを表す語なので、「聞き取れなかった」という結果の理由として決め手になりません。
+【覚えるポイント】
+・faint：「かすかな、弱い」。この文の her voice was so faint（声がとてもかすかだった）のように、音や光が弱いことを表します。
+・so (　) that ～ の形では、that の後ろに書かれた結果から、その原因になる様子を選ぶと考えるのが手がかりになります。

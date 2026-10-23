@@ -1,0 +1,30 @@
+---
+choices: have an online interview with Peter Decker. | receive training for two weeks in London. | come up with fun ideas for teaching children. | teach some trial Chinese lessons at the school.
+answerText: receive training for two weeks in London.
+reviewed: yes
+---
+【正解】2 receive training for two weeks in London.（ロンドンで2週間研修を受ける。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ユア・ワールド語学学校で仕事を始める前に、リーさんがしなければならないのは
+1 have an online interview with Peter Decker.（ピーター・デッカーとオンライン面接をすること。）
+2 receive training for two weeks in London.（ロンドンで2週間研修を受けること。）
+3 come up with fun ideas for teaching children.（子どもに教えるための楽しいアイデアを思いつくこと。）
+4 teach some trial Chinese lessons at the school.（学校で中国語のお試しの授業をいくつか行うこと。）
+【考え方】
+設問の Before starting her job（仕事を始める前に）と must（しなければならない）に注目して、本文から「仕事の開始前にすること」を探します。
+第1段落の最後に、次の文があります。
+The official start date for the position is August 1, but we would like you to attend a two-week training program here before then.（この職の正式な開始日は8月1日ですが、その前に、こちらで2週間の研修プログラムに参加していただきたいと考えています）
+before then は「その時より前に」、つまり8月1日の仕事開始より前に、という意味です。here（こちらで）は、メールを書いている学校のある場所を指します。第1段落の初めに the Your World Language School in London（ロンドンのユア・ワールド語学学校）とあるので、here はロンドンです。
+本文と選択肢を対にすると、次のようになります。
+本文 attend a two-week training program here ＝ 選択肢 receive training for two weeks in London
+「2週間の研修プログラムに参加する」が「2週間研修を受ける」に、「こちらで」が「ロンドンで」に言いかえられています。
+【ほかの選択肢】
+1 オンライン面接は、During your online interview（あなたのオンライン面接の際）とあるように、すでに終わっています。これから仕事を始める前にしなければならないことではありません。時期が違います。
+3 楽しいアイデアについては、面接のときに we thought you had some great ideas（あなたはすばらしいアイデアをお持ちだと感じた）と書かれています。リーさんはすでにアイデアを持っていると評価されたのであって、これから思いつくよう求められてはいません。
+4 お試しの授業を行うことは、本文のどこにも書かれていません。開始前に求められているのは研修への参加です。
+【覚えるポイント】
+・would like ＋人＋to ～：「（人）に～してもらいたい」。相手にていねいにお願いするときの言い方です。
+・before then：「その時より前に」。then が指す時（ここでは8月1日）を確かめましょう。

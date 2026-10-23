@@ -1,0 +1,23 @@
+---
+choices: solving | be solved | to solve | having solved
+answerText: to solve
+reviewed: yes
+---
+【正解】3 to solve（解くのが）
+【和訳】
+（英文）
+The chemistry problem was very easy ［to solve］. Almost everyone in the class got the right answer.
+（訳）
+その化学の問題は、（解くのが）とても簡単でした。クラスのほとんど全員が正しい答えを出しました。
+（選択肢の意味）どれも solve（解く）の形を変えたものです。1 解くこと、解いている　2 解かれる　3 解くのが、解くために　4 解いてしまったこと
+【考え方】
+空所の前の very easy（とても簡単な）に注目します。easy to ～ は「～するのが簡単だ」という決まった形です。to のあとには動詞の原形（もとの形）が来ます。
+The chemistry problem was very easy to solve. で「その化学の問題は解くのがとても簡単だった」となります。この形では、文の主語の The chemistry problem（化学の問題）が、solve（解く）の対象になっています。つまり「その問題を解くのは簡単だった」ということです。
+あとの Almost everyone in the class got the right answer.（クラスのほとんど全員が正しい答えを出した）も、問題が簡単だったことを示していて、つながります。3が正解です。
+【ほかの選択肢】
+1 solving は -ing 形です。easy のあとに -ing 形を直接続けて「～するのが簡単だ」という意味にすることはしないので、正しい文になりません。
+2 be solved は be ＋過去分詞（「～される」の形）ですが、to がありません。easy のあとに動詞の原形 be をそのまま続けることはできません。
+4 having solved は「解いてしまったこと」のように、すでに終わったことを表す形です。easy のあとに置いても「解くのが簡単だ」という意味にならず、文の形が合いません。
+【覚えるポイント】
+・A is easy to ～：「Aは～するのが簡単だ」。This book is easy to read.（この本は読みやすい）のように使います。
+・difficult to ～（～するのが難しい）も同じ形で使えます。

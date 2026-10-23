@@ -1,0 +1,31 @@
+---
+choices: prolong | withdraw | unfold | inform
+answerText: prolong
+reviewed: yes
+---
+【正解】1 prolong（～を長引かせる、引き延ばす）
+【和訳】
+（英文）
+A: I want to break up with Bridget, but I'm afraid to hurt her feelings.
+B: If you want to end the relationship, you shouldn't ［prolong］ it. She will only be more upset later if you delay telling her.
+（訳）
+A：ブリジットと別れたいんだけど、彼女の気持ちを傷つけるのがこわいんだ。
+B：関係を終わらせたいなら、それを（引き延ばす）べきではないよ。伝えるのを遅らせたら、彼女はあとになって（すぐに伝えた場合より）いっそう動揺するだけだよ。
+（選択肢の意味）
+1 prolong：～を長引かせる、引き延ばす
+2 withdraw：～を引っこめる、取り下げる、（お金を）引き出す
+3 unfold：～を広げる、（話などを）明らかにする
+4 inform：～に知らせる
+【考え方】
+まず見るところ：Bの後半の文の if you delay telling her
+Aは、ブリジットと別れたいけれど、気持ちを傷つけるのがこわいと言っています。Bの答えの it は、the relationship（その関係）を指しています。
+She will only be more upset later if you delay telling her.（伝えるのを遅らせたら、彼女はあとになっていっそう動揺するだけだ）
+delay は「遅らせる」です。Bは、言うのを先延ばしにすると、かえって相手を苦しめると言っています。ですから空所の文は「関係を長引かせてはいけない」という意味になるはずです。prolong は「～を長引かせる」なので、1が正解です。
+この問題の型：言いかえ（delay telling her → prolong it）
+【ほかの選択肢】
+2 withdraw は「～を引っこめる、取り下げる」です。「関係を終わらせたいなら、それを取り下げるべきではない」となり、「伝えるのを遅らせるな」という次の文とつながりません。
+3 unfold は「～を広げる、明らかにする」です。「関係を明らかにするべきではない」となり、早く伝えるよう勧める次の文と合いません。
+4 inform は「～に知らせる」です。Bは早く伝えるように勧めているので、「知らせるべきではない」という意味になると、話が反対になってしまいます。
+【覚えるポイント】
+・prolong：「（時間や状態を）長引かせる、引き延ばす」。
+・会話の中で、空所の文の理由を説明する文（ここでは if you delay telling her）があるときは、その文の語（delay＝遅らせる）が空所の語の意味を決める手がかりになります。

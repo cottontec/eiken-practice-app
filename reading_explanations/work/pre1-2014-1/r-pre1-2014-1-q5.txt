@@ -1,0 +1,27 @@
+---
+choices: contemporary | obsolete | innovative | tactless
+answerText: obsolete
+reviewed: yes
+---
+【正解】2 obsolete（時代遅れの、すたれた）
+【和訳】
+（英文）
+With the rapid advances occurring in the IT field, it often only takes a few months for your new computer to become ［obsolete］.
+（訳）
+IT（情報技術）の分野で急速な進歩が起きているので、新しいコンピューターが（時代遅れ）になるのに、たった数か月しかかからないこともよくある。
+（選択肢の意味）
+1 contemporary：現代の、同時代の
+2 obsolete：時代遅れの、すたれた
+3 innovative：革新的な、新しい工夫に富んだ
+4 tactless：気のきかない、無神経な
+【考え方】
+文の初めの With the rapid advances occurring in the IT field（IT分野で急速な進歩が起きているので）に注目します。ここでの with ～ は「～があるので」と理由を表しています。
+続く it often only takes a few months for your new computer to become ( ) は、it takes 時間 for A to do（Aが～するのに〇〇の時間がかかる）の形です。only a few months（たった数か月）とあるので、「新しいコンピューターがすぐに〇〇になってしまう」という意味だと分かります。
+技術がどんどん進むと、新しく買ったコンピューターも、すぐに古くなって役に立たなくなります。obsolete は「時代遅れの、もう使われなくなった」という意味なので、2が正解です。
+【ほかの選択肢】
+1 contemporary は「現代の、今の時代の」という意味です。新しいコンピューターが数か月で「現代のもの」になる、では、急速な進歩という理由とつながりません。
+3 innovative は「革新的な（今までにない新しい工夫がある）」という意味です。進歩が速いのなら、古いコンピューターは革新的ではなくなるはずなので、話が逆になります。
+4 tactless は「気のきかない、人の気持ちを考えない」という意味で、人の態度に使う語です。コンピューターには合いません。
+【覚えるポイント】
+・obsolete：「時代遅れの、すたれた」。become obsolete で「時代遅れになる」。
+・it takes 時間 for A to do：「Aが～するのに（時間が）かかる」。

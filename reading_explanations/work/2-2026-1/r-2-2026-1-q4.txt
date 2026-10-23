@@ -1,0 +1,34 @@
+---
+choices: tendency | discrimination | shelter | content
+answerText: tendency
+reviewed: yes
+---
+【正解】1 tendency（傾向、くせ）
+【和訳】
+（英文）
+A: Are you all right? You have a ［tendency］ to be quiet when you're worried.
+B: Do I? I never realized I was like that. I'm fine. I just don't have much to say today.
+（訳）
+A：大丈夫？　あなたは心配ごとがあるとき、だまりこむ（傾向）があるよね。
+B：そう？　自分がそんなふうだとは、一度も気づかなかったよ。私は大丈夫。今日はただ、あまり話すことがないだけなんだ。
+（選択肢の意味）
+1 tendency：傾向、くせ
+2 discrimination：差別
+3 shelter：避難所、住まい
+4 content：中身、内容
+【考え方】
+まず見るところ：空所のあとの to be quiet when you're worried と、Bの I was like that
+Aの言葉の空所のあとを見ます。
+to be quiet when you're worried（心配ごとがあるときに静かになる）
+これに対してBは次のように答えています。
+I never realized I was like that.（自分がそんなふうだとは、一度も気づかなかった）
+like that（そんなふう）は、「心配するとだまりこむ」というBの性格やくせを指しています。つまりAは、Bがいつもそうなりやすいことを伝えていると分かります。
+have a tendency to ～ は「～する傾向がある、～しがちである」という意味です。「あなたは心配ごとがあるとき、だまりこむ傾向がある」となり、Bの答えとも合います。ですから1が正解です。
+この問題の型：熟語・決まった形（have a tendency to ～）
+【ほかの選択肢】
+2 discrimination は「差別」です。「静かになる差別がある」となり、意味が通りません。Bの「そんなふうだとは気づかなかった」という答えとも合いません。
+3 shelter は「避難所、住まい」です。「心配ごとがあるとき、静かになる避難所を持っている」となり、Bの性格やくせの話になりません。
+4 content は「中身、内容」です。「静かになる中身を持っている」では意味が通りません。
+【覚えるポイント】
+・have a tendency to ～：「～する傾向がある、～しがちである」。
+・相手が I never realized I was like that.（自分がそんなふうだとは気づかなかった）と答えているときは、前の文が相手の性格やくせについて述べている手がかりになります。

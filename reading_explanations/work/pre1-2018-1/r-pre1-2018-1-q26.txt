@@ -1,0 +1,30 @@
+---
+choices: In other words | In exchange | Despite this | For instance
+answerText: In exchange
+reviewed: yes
+---
+【正解】2 In exchange（その見返りとして、引きかえに）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 In other words（言いかえると、つまり）
+2 In exchange（その見返りとして、引きかえに）
+3 Despite this（これにもかかわらず）
+4 For instance（たとえば）
+【考え方】
+まず見るところ：第1段落の空所の前の a deal with the government allowed ～ to do と、空所の後ろの the company was required to give the park some nearby land
+空所の前の文では、政府とデル・オロとの間の取り決めが書かれています。
+However, in 1997, that is exactly what a deal with the government allowed a local fruit juice company called Del Oro to do.（しかし1997年、政府との取り決めによって、デル・オロという地元の果汁会社に許されたのは、まさにそのことだった）
+that（そのこと）は、前の文の「国立公園に廃棄物を捨てること」を指します。deal は「取り決め、取引」です。つまり、デル・オロは国立公園にごみを捨てることを許されました。
+空所のあとは、次のとおりです。
+the company was required to give the park some nearby land that it owned（その会社は、自社が持っていた近くの土地を公園に差し出すことを求められた）
+「捨てることを許される」かわりに「土地を差し出す」という、お互いに何かを与え合う取引になっています。In exchange は「その見返りとして、引きかえに」なので、2が正解です。
+この問題の型：語の意味・組み合わせ（deal〈取引〉→ In exchange〈見返りに〉）
+【ほかの選択肢】
+1 In other words は「言いかえると」です。前の文と同じ内容を別の言葉で言い直すときに使います。「ごみを捨てることを許された」と「土地を差し出すことを求められた」は別の内容なので、言いかえにはなりません。
+3 Despite this は「これにもかかわらず」です。「ごみを捨てることを許されたにもかかわらず、土地を差し出すことを求められた」となり、取引の条件として土地を差し出すという関係が表せません。
+4 For instance は「たとえば」です。土地を差し出すことは、「ごみを捨てることを許された」ことの具体例ではないので合いません。
+【覚えるポイント】
+・In exchange：「その見返りとして、引きかえに」。deal：「取り決め、取引」。be required to ～：「～することを求められる」。
+・前の文に deal（取引）や allowed（許した）があり、そのあとに「求められたこと」が続くときは、「その見返りとして」という関係を考える手がかりになります。

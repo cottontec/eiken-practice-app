@@ -1,0 +1,22 @@
+---
+choices: to | interested | she | be | pretended
+answerText: pretended
+order: 3 5 1 4 2
+reviewed: yes
+---
+【正解】5 pretended（この問題の2番目）
+【完成文】
+Sarah went to a marketing presentation at work today. She thought that the topic was boring, but ( she pretended to be interested ) anyway.
+並べ方：3 she → 5 pretended → 1 to → 4 be → 2 interested（2番目は5、4番目は4）
+【和訳】
+サラは今日、職場でマーケティング（商品を売るための計画や宣伝についての仕事）に関する発表を聞きに行きました。彼女はテーマが退屈だと思いましたが、それでも興味があるふりをしました。
+【考え方】
+空所の前は She thought that the topic was boring, but（彼女はテーマが退屈だと思ったが）です。but のあとには、新しい主語と動詞が続くと考えます。選択肢で主語になれるのは 3 she なので、she を最初に置きます。
+次に動詞を考えます。選択肢の動詞は 5 pretended です。pretend to ～ で「～するふりをする」という意味になるので、pretended のあとに 1 to を置きます。
+to のあとには動詞の元の形が来ます。interested は「興味を持った」という意味の語で、「興味がある」と言うには be interested の形にします。そこで to のあとに 4 be、最後に 2 interested を置きます。
+she pretended to be interested（彼女は興味があるふりをした）となります。but（しかし）の前の「退屈だと思った」と反対の行動になり、最後の anyway（それでも、とにかく）ともつながります。
+pretended to interested be のように be を後ろに回すと、be interested（興味を持っている）の形がくずれてしまうので注意しましょう。
+2番目に来るのは 5 pretended です。主語 she のすぐあとには文の中心になる動詞が来るので、ここに pretended を置きます。
+【覚えるポイント】
+・pretend to ～：「～するふりをする」。
+・be interested：「興味を持っている」。

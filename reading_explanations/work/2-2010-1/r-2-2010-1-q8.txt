@@ -1,0 +1,24 @@
+---
+choices: endanger | undertake | annoy | reflect
+answerText: undertake
+reviewed: yes
+---
+【正解】2 undertake（引き受ける）
+【和訳】
+ジャスティンは、そのデータベースの事業を引き受けることに同意したとき、それを完成させるのに3年以上もかかるとは思いもしませんでした。
+（選択肢の意味）
+1 endanger：危険にさらす
+2 undertake：引き受ける
+3 annoy：いらいらさせる
+4 reflect：映す、反映する
+【考え方】
+前半は When Justin agreed to (　) the database project（ジャスティンがデータベースの事業を～することに同意したとき）です。project は「事業、計画、仕事のまとまり」のことです。
+後半は he never guessed that it would take over three years to complete（それを完成させるのに3年以上かかるとは、まったく思わなかった）です。つまり、ジャスティンはその仕事に取り組み、完成までやりとげる立場になったことが分かります。
+仕事について「～することに同意した」と言うとき自然なのは「引き受ける」です。undertake は「（仕事や責任を）引き受ける」という意味なので、2が正解です。
+【ほかの選択肢】
+1 endanger は「危険にさらす」です。「事業を危険にさらすことに同意した」では、自分でその事業を完成させる話とつながりません。
+3 annoy は「いらいらさせる」です。人に対して使う語で、「事業をいらいらさせる」では意味が通りません。
+4 reflect は「映す、反映する」です。「事業を映すことに同意した」となり、完成までにかかる年数の話と結びつきません。
+【覚えるポイント】
+・undertake：「（仕事・責任を）引き受ける」。
+・take over three years to complete：「完成させるのに3年以上かかる」。この over は「～より多く」という意味です。

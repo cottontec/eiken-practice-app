@@ -1,0 +1,29 @@
+---
+choices: rigid | notable | acute | drowsy
+answerText: drowsy
+reviewed: yes
+---
+【正解】4 drowsy（眠い、うとうとした）
+【和訳】
+（英文）
+Cathy felt ［drowsy］ after lunch, so she drank some coffee to help her stay awake for the rest of the day.
+（訳）
+キャシーは昼食のあと（眠く）感じたので、その日の残りの時間に目を覚ましていられるように、コーヒーを飲んだ。
+（選択肢の意味）
+1 rigid：硬い、（考えや決まりが）厳しい
+2 notable：注目に値する、目立った
+3 acute：（痛みなどが）激しい、鋭い
+4 drowsy：眠い、うとうとした
+【考え方】
+まず見るところ：so のあとの she drank some coffee to help her stay awake
+so は「だから、それで」で、前に理由、後ろに結果が来ます。結果の部分は次のとおりです。
+she drank some coffee to help her stay awake for the rest of the day（その日の残りの時間に目を覚ましていられるように、コーヒーを飲んだ）
+stay awake は「起きている、目を覚ましている」です。目を覚ましているためにコーヒーを飲んだのですから、その理由は「眠かったから」と考えられます。drowsy は「眠い、うとうとした」なので、4が正解です。
+この問題の型：因果（眠い → だからコーヒーを飲んだ）
+【ほかの選択肢】
+1 rigid は「硬い」です。「昼食のあと硬く感じたので、目を覚ましているためにコーヒーを飲んだ」となり、理由と結果がつながりません。
+2 notable は「注目に値する」で、ふつう物事について使います。「昼食のあと注目に値すると感じた」では意味が通りません。
+3 acute は「（痛みなどが）激しい」で、ふつう acute pain（激しい痛み）のように使います。「昼食のあと激しく感じた」では何がどうなったのか分からず、目を覚ましているためにコーヒーを飲んだこととつながりません。
+【覚えるポイント】
+・drowsy：「眠い、うとうとした」。stay awake：「目を覚ましている」。
+・「A, so B（A、だからB）」の形では、Bの結果（ここではコーヒーで目を覚ましておく）から逆にたどると、空所のA（理由）が決まる手がかりになります。

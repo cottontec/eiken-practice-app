@@ -1,0 +1,27 @@
+---
+choices: sensation | funeral | concept | triumph
+answerText: funeral
+reviewed: yes
+---
+【正解】2 funeral（葬式）
+【和訳】
+（英文）
+Henry Benson died at the age of 90. At his ［funeral］, many friends and family members gathered and talked about their happy memories of him.
+（訳）
+ヘンリー・ベンソンは90歳で亡くなりました。彼の葬式では、多くの友人や家族が集まり、彼についての楽しい思い出を語り合いました。
+（選択肢の意味）
+1 sensation：大評判、感覚
+2 funeral：葬式
+3 concept：概念、考え
+4 triumph：大勝利、大成功
+【考え方】
+1文目は Henry Benson died at the age of 90.（ヘンリー・ベンソンは90歳で亡くなった）です。ここで、人が亡くなった話だと分かります。
+2文目は At his (　), many friends and family members gathered and talked about their happy memories of him.（彼の（　）で、多くの友人や家族が集まり、彼についての楽しい思い出を語り合った）です。gathered は「集まった」、memories of him は「彼についての思い出」です。
+At his (　) は「彼の（　）で」と、人が集まった場面を表しています。亡くなった人のために友人や家族が集まり、その人の思い出を話す場は「葬式」です。funeral は「葬式」という意味なので、At his funeral で「彼の葬式で」となり、1文目ともつながります。正解は2です。
+【ほかの選択肢】
+1 sensation は「大評判（世の中を大さわぎさせること）、（体の）感覚」です。「彼の大評判で人が集まった」となり、亡くなった直後に思い出を語り合う場面と合いません。
+3 concept は「概念（物事についての大まかな考え）」です。At his concept では人が集まる場面や行事を表せず、意味が通りません。
+4 triumph は「大勝利、大成功」です。「彼の大勝利のときに集まった」となり、1文目の「90歳で亡くなった」という内容とつながりません。
+【覚えるポイント】
+・funeral：「葬式」。at one's funeral で「～の葬式で」。
+・memories of ～：「～についての思い出」。

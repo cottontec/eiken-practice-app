@@ -1,0 +1,29 @@
+---
+choices: In spite of this | To begin with | Even so | Therefore
+answerText: Therefore
+reviewed: yes
+---
+【正解】4 Therefore（そのため、したがって）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 In spite of this（このことにもかかわらず）
+2 To begin with（まず第一に、そもそも）
+3 Even so（たとえそうでも、それでも）
+4 Therefore（そのため、したがって）
+【考え方】
+まず見るところ：第3段落の空所の前の This is very important for people in areas near airports
+The research could help reduce noise from airplanes.（この研究は、飛行機の騒音を減らすのに役立つ可能性がある。）
+This is very important for people in areas near airports, where more flights have caused higher noise levels.（このことは、空港の近くの地域の人々にとってとても重要だ。そうした地域では、飛行機の便が増えたことによって、騒音がより大きくなってきた。）
+空港の近くでは騒音が大きくなっているので、騒音を減らす研究はとても大切だ、という内容です。This（このこと）は、「飛行機の騒音を減らすのに役立つこと」を指しています。
+( 23 ), many people hope for progress in this technology.（（23）、多くの人々がこの技術の進歩を望んでいる。）
+騒音を減らすことが大切だから、人々はこの技術が進むことを望んでいる、という関係です。前が理由、後ろが結果なので、「そのため」という意味の Therefore が入ります。ですから4が正解です。
+この問題の型：因果（騒音を減らすことが重要→技術の進歩を望む）
+【ほかの選択肢】
+1 In spite of this は「このことにもかかわらず」です。前と反対の結果が続くときに使うので、「重要であるにもかかわらず、人々は進歩を望んでいる」となり、意味がねじれてしまいます。
+2 To begin with は「まず第一に、そもそも」です。理由や話題を順に挙げ始めるときに使うので、段落の最後でまとめの結果を述べるこの文には合いません。
+3 Even so は「たとえそうでも、それでも」です。1と同じく前と反対の内容を続けるときに使うので、「重要だ。それでも、人々は進歩を望んでいる」となり、つながりません。
+【覚えるポイント】
+・Therefore：「そのため、したがって」。前の内容が理由で、後ろがその結果になるときに使います。
+・In spite of this や Even so は、前と反対の内容が続くときの合図です。空所の前後が「理由と結果」なのか「反対」なのかを先に決めると、つなぎの言葉を選ぶ手がかりになります。

@@ -1,0 +1,31 @@
+---
+choices: taught children about the importance of nature through drawing classes. | wrote books about children living in the countryside in the Lake District. | traveled all over the world encouraging children to read more books. | was an author who is also famous for her efforts to protect nature.
+answerText: was an author who is also famous for her efforts to protect nature.
+reviewed: yes
+---
+【正解】4 was an author who is also famous for her efforts to protect nature.（自然を守る取り組みでも有名な作家だった）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ビアトリクス・ポターは～。
+1 taught children about the importance of nature through drawing classes.（絵の教室を通じて、子どもたちに自然の大切さを教えた。）
+2 wrote books about children living in the countryside in the Lake District.（湖水地方の田園地帯に住む子どもたちについての本を書いた。）
+3 traveled all over the world encouraging children to read more books.（子どもたちにもっと本を読むよう勧めながら、世界中を旅した。）
+4 was an author who is also famous for her efforts to protect nature.（自然を守る取り組みでも有名な作家だった。）
+【考え方】
+ポターがどんな人かは、第1段落に書かれています。
+・The Tale of Peter Rabbit and other children's books by Beatrix Potter are popular around the world（ビアトリクス・ポターの『ピーターラビットのおはなし』やそのほかの子ども向けの本は世界中で人気がある）
+・Potter is also known for her work protecting the English countryside.（ポターは、イギリスの田園地帯を守る活動でも知られている）
+本文と選択肢を対にすると、次のようになります。
+本文 children's books by Beatrix Potter（ポターの子ども向けの本）→ 読み取れること：ポターは作家だった（選択肢の an author）
+本文 is also known for ＝ 選択肢 is also famous for（～でも有名だ）
+本文 her work protecting the English countryside（イギリスの田園地帯を守る活動）→ 選択肢 her efforts to protect nature（自然を守る取り組み）
+田園地帯は自然の多い場所で、すぐあとに This love of nature（この自然への愛）と続いているので、田園地帯を守ることを「自然を守る」と言いかえていると分かります。ですから4が正解です。
+【ほかの選択肢】
+1 第1段落には Potter spent much of her time drawing pictures of plants and animals（ポターは多くの時間を植物や動物の絵を描いて過ごした）とあります。しかし、これはポター自身が子どものころに絵を描いていた話で、子どもたちに絵の教室を開いたとは書かれていません。
+2 湖水地方は、ポターが子ども時代を過ごした場所として出てきます。ポターが作ったのは illustrated stories about animals（動物についての絵入りの物語）で、湖水地方に住む子どもたちについての本ではありません。
+3 本文にあるのは、ポターの本が popular around the world（世界中で人気がある）ということです。ポターが世界中を旅したとは書かれていません。
+【覚えるポイント】
+・be known for ～：「～で知られている」。be famous for ～ とほぼ同じ意味です。
+・countryside：「田園地帯、いなか」。

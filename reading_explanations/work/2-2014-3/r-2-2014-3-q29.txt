@@ -1,0 +1,26 @@
+---
+choices: important | dangerous | private | entertaining
+answerText: important
+reviewed: yes
+---
+【正解】1 important（重要な、大切な）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 important：重要な、大切な
+2 dangerous：危険な
+3 private：個人的な、私的な
+4 entertaining：楽しませる、おもしろい
+【考え方】
+空所の文は Hervé This, however, believes that his research may someday have an even more (　) use.（しかし、エルヴェ・ティスは、自分の研究はいつか、さらに（　）使い道を持つかもしれないと考えている）です。even more ～ は「さらにいっそう～」と、比べてもっと程度が大きいことを表します。use はここでは「使い道、用途」という名詞です。
+however（しかし）があるので、直前の「変わった料理が批評家にもお客さんにも人気になった」という話とは別の方向の話になります。どんな使い道なのかは、次の文から分かります。
+The reason is that his research could help solve the global problem of people eating unhealthily.（その理由は、彼の研究が、人々が健康によくない食事をしているという世界的な問題を解決するのに役立つ可能性があるからだ）。さらに、最後の文では、より健康によい食べ物をもっとおいしくすることで、深刻な病気を防ぐ食べ物を人々が選ぶようにしたい、と書かれています。
+人気の料理を作ることより、世界的な健康の問題を解決し、深刻な病気を防ぐことのほうが、さらに大切な使い道だと言えます。important を入れると an even more important use（さらにいっそう重要な使い道）となり、次の文の理由とつながります。正解は1です。
+【ほかの選択肢】
+2 dangerous（危険な）を入れると「さらに危険な使い道」となります。しかし次の文の理由は、世界的な問題の解決や病気の予防というよい使い道なので、反対の内容になります。
+3 private（個人的な）を入れると「さらに個人的な使い道」となります。しかし次の文は the global problem（世界的な問題）の解決の話なので、個人的な使い道とは合いません。
+4 entertaining（楽しませる）を入れると「さらに人を楽しませる使い道」となります。しかし次の文の理由は、楽しさではなく健康の問題を解決することなので、合いません。
+【覚えるポイント】
+・even more ～：「さらにいっそう～」。even は比較を強める語です。
+・help (to) ～：「～するのに役立つ」。help solve ～ で「～を解決するのに役立つ」。

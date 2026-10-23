@@ -1,0 +1,29 @@
+---
+choices: scarcely | courteously | tediously | obnoxiously
+answerText: courteously
+reviewed: yes
+---
+【正解】2 courteously（礼儀正しく、ていねいに）
+【和訳】
+（英文）
+Oscar is well-known for his friendly personality and good manners. Every morning, he ［courteously］ greets everyone in the office as he walks toward his desk.
+（訳）
+オスカーは、親しみやすい性格と行儀のよさでよく知られています。毎朝、彼は自分の机に向かって歩きながら、職場のみんなに（礼儀正しく）あいさつします。
+（選択肢の意味）
+1 scarcely：ほとんど～ない
+2 courteously：礼儀正しく、ていねいに
+3 tediously：うんざりするほど長々と、退屈に
+4 obnoxiously：不快なほどに、いやな感じで
+【考え方】
+まず見るところ：最初の文の his friendly personality and good manners
+最初の文で、オスカーがどんな人かが説明されています。
+Oscar is well-known for his friendly personality and good manners.（オスカーは、親しみやすい性格と行儀のよさでよく知られている）
+good manners は「行儀のよさ、礼儀正しさ」です。続く文は、その性格が表れた毎朝の行動の説明です。空所には「どのように」あいさつするかを表す語が入るので、good manners に合う courteously（礼儀正しく）が入ります。2が正解です。
+この問題の型：言いかえ（good manners → courteously）
+【ほかの選択肢】
+1 scarcely は「ほとんど～ない」です。「毎朝、ほとんどあいさつしない」となり、親しみやすく行儀がよいという前の文の説明と合いません。
+3 tediously は「うんざりするほど長々と」です。親しみやすい性格や行儀のよさの説明として合いません。
+4 obnoxiously は「いやな感じで」です。good manners（行儀のよさ）と反対の様子になり、前の文と合いません。
+【覚えるポイント】
+・courteously：「礼儀正しく、ていねいに」。courteous（礼儀正しい）に -ly がついた形です。
+・前の文で人物の性格が説明され、次の文でその人の行動が書かれているときは、性格の説明の語（ここでは good manners）が、行動のしかたを表す語を決める手がかりになります。

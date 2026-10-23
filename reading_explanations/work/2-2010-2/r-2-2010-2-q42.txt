@@ -1,0 +1,28 @@
+---
+choices: By using solar panels to make electricity from sunlight. | By heating water to make steam that will turn turbines. | By sending hot water from the Sahara Desert to Europe. | By connecting Africa's power system with the one in California.
+answerText: By heating water to make steam that will turn turbines.
+reviewed: yes
+---
+【正解】2 By heating water to make steam that will turn turbines.（水を熱して、タービンを回す蒸気を作ることによって。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：デザーテックの太陽熱発電所はどのようにして電気を作り出しますか。
+1 By using solar panels to make electricity from sunlight.（ソーラーパネルを使って、日光から電気を作ることによって。）
+2 By heating water to make steam that will turn turbines.（水を熱して、タービンを回す蒸気を作ることによって。）
+3 By sending hot water from the Sahara Desert to Europe.（サハラ砂漠からヨーロッパへお湯を送ることによって。）
+4 By connecting Africa's power system with the one in California.（アフリカの電力システムとカリフォルニアのものをつなぐことによって。）
+【考え方】
+発電所のしくみは、第2段落に書かれています。Solar power stations work by using the strong desert sunlight to turn water into steam. This steam then turns turbines to create electricity.（太陽熱発電所は、砂漠の強い日光を使って水を蒸気に変えることで動く。そして、この蒸気がタービンを回して電気を作る）とあります。turn A into B は「AをBに変える」、turbine は「タービン（羽根車）」です。
+強い日光で水が蒸気に変わるということは、日光の熱で水を熱しているということです。本文と選択肢は次のように対応しています。
+本文 using the strong desert sunlight to turn water into steam（砂漠の強い日光を使って水を蒸気に変える）＝ 選択肢 heating water to make steam（水を熱して蒸気を作る）
+本文 This steam then turns turbines（この蒸気がタービンを回す）＝ 選択肢 steam that will turn turbines（タービンを回す蒸気）
+正解は2です。
+【ほかの選択肢】
+1 第2段落の最初で、ソーラーパネルは日光を直接電気に変えるものだと説明されたあと、The Desertec plan is different.（デザーテックの計画は違う）とあります。デザーテックの発電所はソーラーパネルを使うものではないので、誤りです。
+3 ヨーロッパへ送るのは、サハラ砂漠で作られた電気で、方法は through power lines（送電線を通して）です。お湯を送るという話ではありません。
+4 カリフォルニアは、同じような発電所がすでに20年間動いている例として出てくるだけです。アフリカとカリフォルニアの電力システムをつなぐという話は本文にありません。
+【覚えるポイント】
+・turn A into B：「AをBに変える」。turn water into steam で「水を蒸気に変える」。
+・turn：「～を回す」という意味もあります。turn turbines で「タービンを回す」。

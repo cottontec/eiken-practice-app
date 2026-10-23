@@ -1,0 +1,31 @@
+---
+choices: commemorate | alienate | liberate | incorporate
+answerText: incorporate
+reviewed: yes
+---
+【正解】4 incorporate（組みこむ、取り入れる）
+【和訳】
+（英文）
+Tina's new goal is to get healthy. In addition to including more vegetables in her diet, she has decided to ［incorporate］ an exercise program into her daily routine.
+（訳）
+ティナの新しい目標は、健康になることです。食事により多くの野菜を入れることに加えて、彼女は毎日の決まった生活の中に運動のプログラムを（組みこむ）ことに決めました。
+（選択肢の意味）
+1 commemorate：（行事などで）記念する、祝う
+2 alienate：遠ざける、仲を悪くする
+3 liberate：解放する、自由にする
+4 incorporate：組みこむ、取り入れる
+【考え方】
+まず見るところ：空所のあとの an exercise program into her daily routine と、In addition to ～
+空所の文は In addition to ～（～に加えて）で始まっています。
+In addition to including more vegetables in her diet（食事により多くの野菜を入れることに加えて）
+健康になるという目標のために、野菜を食事に「入れる」ことに加えて、もう一つの行動が続くと分かります。空所の後ろは次のとおりです。
+(　) an exercise program into her daily routine（運動のプログラムを毎日の決まった生活の中へ（　）する）
+daily routine は「毎日の決まった生活、日課」です。incorporate A into B で「AをBの中に組みこむ」という意味になり、「運動を日課に組みこむ」となるので、4が正解です。including（入れること）と incorporate（組みこむ）は、どちらも「中に入れる」という似た行動です。
+この問題の型：熟語・決まった形（incorporate A into B）
+【ほかの選択肢】
+1 commemorate は「記念する」です。「運動のプログラムを毎日の生活の中へ記念する」となり、意味が通りません。
+2 alienate は「遠ざける、仲を悪くする」です。健康になるための行動として、運動を日課に「遠ざける」では意味が通らず、目標とも合いません。
+3 liberate は「解放する」です。「運動のプログラムを毎日の生活の中へ解放する」となり、意味が通りません。
+【覚えるポイント】
+・incorporate A into B：「AをBの中に組みこむ、取り入れる」。
+・空所のあとに into ～（～の中へ）があるときは、「中に入れる」という意味の動詞が入る手がかりになります。In addition to ～（～に加えて）の前後には、同じ目的（ここでは健康になること）のための行動が並ぶことが多いです。

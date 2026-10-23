@@ -1,0 +1,29 @@
+---
+choices: benefit | react | succeed | disappear
+answerText: react
+reviewed: yes
+---
+【正解】2 react（反応する）
+【和訳】
+（英文）
+A: I heard you broke up with your boyfriend last week. How did he ［react］?
+B: Pretty badly. First he started shouting, and then he started crying!
+（訳）
+A：先週、ボーイフレンド（恋人）と別れたって聞いたよ。彼はどう（反応した）？
+B：かなりひどかったよ。最初は大声でどなり始めて、それから泣き出したんだ！
+（選択肢の意味）
+1 benefit：利益を得る
+2 react：反応する
+3 succeed：成功する
+4 disappear：消える、いなくなる
+【考え方】
+Bの答えに注目します。Pretty badly.（かなりひどかった）と言い、そのあと First he started shouting, and then he started crying!（最初はどなり始めて、それから泣き出した）と説明しています。
+これは、別れ話をされた彼がそのときどんな態度をとったか、という内容です。何かを言われたりされたりしたときに見せる態度を「反応」といいます。
+react（反応する）を入れると、How did he react?（彼はどう反応したか）となり、「かなりひどかった。どなって、泣いた」というBの答えとぴったり合います。ですから、2が正解です。
+【ほかの選択肢】
+1 benefit は「利益を得る、得をする」です。「彼はどう得をしたか」とたずねても、「どなって、泣いた」という答えとは合いません。
+3 succeed は「成功する」です。「彼はどう成功したか」では、別れたときの様子をたずねる質問になりません。
+4 disappear は「消える、いなくなる」です。「どう消えたか」とたずねても、その場でどなったり泣いたりしたという答えとは合いません。
+【覚えるポイント】
+・react：「反応する」。名詞は reaction（反応）。How did ～ react? で「～はどう反応したか」。
+・break up with ～：「（恋人など）と別れる」。

@@ -1,0 +1,30 @@
+---
+choices: pessimism | pitch | impulse | vacuum
+answerText: impulse
+reviewed: yes
+---
+【正解】3 impulse（衝動、急にわき起こる気持ち）
+【和訳】
+（英文）
+Nora did not enjoy watching the horror movie. Every time something frightening happened, she had to resist the ［impulse］ to scream.
+（訳）
+ノラはそのホラー映画を見て楽しめなかった。何か怖いことが起こるたびに、彼女は叫びたい（衝動）をこらえなければならなかった。
+（選択肢の意味）
+1 pessimism：悲観（物事を悪いほうに考えること）
+2 pitch：音の高さ、（野球の）投球、売りこみの話
+3 impulse：衝動、急にわき起こる気持ち
+4 vacuum：真空、掃除機
+【考え方】
+まず見るところ：空所のある文の resist the ( ) to scream
+空所のある文を確かめます。
+Every time something frightening happened, she had to resist the ( ) to scream.（何か怖いことが起こるたびに、彼女は叫びたい（　）をこらえなければならなかった）
+frightening は「怖い」、resist は「こらえる、がまんする」、scream は「叫ぶ、悲鳴をあげる」という意味です。怖い場面で思わず叫びそうになる気持ちを、がまんしていたことが分かります。
+the ( ) to scream で「叫びたい（　）」となるので、空所には「急に何かをしたくなる気持ち」を表す語が入ります。impulse は「衝動（急にわき起こって、何かをしたくなる気持ち）」で、the impulse to ～ で「～したいという衝動」となるので、3が正解です。
+この問題の型：熟語・決まった形（resist the impulse to ～：～したい衝動をこらえる）
+【ほかの選択肢】
+1 pessimism は「悲観」です。「叫ぶ悲観をこらえる」では意味が通りません。
+2 pitch は「音の高さ、投球」です。「叫ぶ音の高さをこらえる」では、怖くて思わず叫びそうになる気持ちを表せません。
+4 vacuum は「真空、掃除機」です。「叫ぶ真空をこらえる」では意味が通りません。
+【覚えるポイント】
+・impulse：「衝動」。the impulse to ～ で「～したいという衝動」。
+・resist（こらえる）の後ろには、がまんする対象になる気持ちや行動が来ます。resist the ( ) to ～ の形では、「～したい気持ち」を表す名詞が入る手がかりになります。

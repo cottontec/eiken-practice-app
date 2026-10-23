@@ -1,0 +1,22 @@
+---
+choices: see | tennis | play | him | to
+answerText: see
+order: 5 1 4 3 2
+reviewed: yes
+---
+【正解】1 see（この問題の2番目）
+【完成文】
+Hank is 78 years old, but he acts much younger. ( To see him play tennis ) with his grandchildren so actively, you would never guess that he was over 70.
+並べ方：5 To → 1 see → 4 him → 3 play → 2 tennis（2番目は1、4番目は3）
+【和訳】
+ハンクは78歳ですが、（実際の年齢より）ずっと若く振る舞います。彼が孫たちとあんなに活発にテニスをするのを見たら、70歳を超えているとはとても思わないでしょう。
+【考え方】
+1文目で、ハンクは78歳なのにずっと若く振る舞う、と述べています。2文目は、そのことを具体的に説明する文です。
+2文目の後半は you would never guess that he was over 70（彼が70歳を超えているとは決して思わないだろう）です。would は「（もし～なら）…だろう」という意味を表します。そこで、前半は「もし～を見たら」という条件の意味になると考えます。
+文の頭に 5 To を置き、to のあとに動詞の元の形 1 see を続けて To see とします。〈to＋動詞の元の形〉は、このように文の頭に置かれて「～すれば、～したら」という条件の意味を表すことがあります。
+see は〈see＋人＋動詞の元の形〉で「人が～するのを見る」という形を作ります。そこで see のあとに 4 him、その動作として 3 play、play の目的語として 2 tennis を置きます。To see him play tennis で「彼がテニスをするのを見たら」となります。
+したがって2番目は1 see です。
+まちがえやすいのは、See him to play tennis（1 4 5 3 2）と see から始める並べ方です。この形は「テニスをするために彼を見なさい」という命令の文のようになり、コンマのあとの you would never guess ～ とつながりません。
+【覚えるポイント】
+・see＋人＋動詞の元の形：「人が～するのを見る」。
+・文の頭の to ～, you would ...：「～すれば（～したら）…だろう」という条件の意味になることがあります。

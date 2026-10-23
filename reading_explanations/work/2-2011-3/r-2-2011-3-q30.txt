@@ -1,0 +1,26 @@
+---
+choices: In addition | For instance | Nevertheless | Unfortunately
+answerText: In addition
+reviewed: yes
+---
+【正解】1 In addition（それに加えて、さらに）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 In addition：それに加えて、さらに
+2 For instance：例えば
+3 Nevertheless：それにもかかわらず
+4 Unfortunately：残念ながら、不運にも
+【考え方】
+空所は第1段落の4文目の最初にあります。このような文の最初の空所では、前の文と後ろの文がどんな関係でつながっているかを考えます。
+前の文は Cell phones have had an impact on how people do business and also on how they spend their leisure time.（携帯電話は、人々の仕事のやり方にも余暇の過ごし方にも影響を与えてきた）です。携帯電話が影響を与えてきた分野として「仕事」と「余暇」が挙げられています。
+後ろの文は many medical professionals are now investigating how to use cell phones to help them look after people's health（今では多くの医療の専門家が、人々の健康を守るのに役立つよう携帯電話をどう使うかを調べている）です。ここでは、仕事や余暇とは別の「医療」という新しい分野の話が付け加えられています。
+前の内容に、同じ方向の内容を付け足すときに使うのが In addition（それに加えて）です。「仕事や余暇に影響を与えてきた。それに加えて、医療でも使い方が研究されている」となり、流れが自然なので、1が正解です。
+【ほかの選択肢】
+2 For instance は「例えば」で、前に述べたことの具体例を示すときに使います。医療での研究は、前の文の「仕事」や「余暇の過ごし方」の例ではないので合いません。
+3 Nevertheless は「それにもかかわらず」で、前の内容から予想されることと反対の内容を続けるときに使います。携帯電話が生活に大きな影響を与えてきたことと、医療で使い方が研究されていることは反対の内容ではないので合いません。
+4 Unfortunately は「残念ながら」で、よくない出来事を述べるときに使います。医療の専門家が健康を守るために携帯電話の使い方を調べていることは、残念なことではありません。
+【覚えるポイント】
+・In addition：「それに加えて、さらに」。前の内容に同じ方向の内容を付け足す目印です。
+・have an impact on ～：「～に影響を与える」。

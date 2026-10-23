@@ -1,0 +1,28 @@
+---
+choices: Local communities did not want any more trees. | Nobody could find trees that were suitable for the wall. | There was not enough money available to plant the trees. | Some people were worried that the trees would create carbon dioxide.
+answerText: There was not enough money available to plant the trees.
+reviewed: yes
+---
+【正解】3 There was not enough money available to plant the trees.（木を植えるのに使える十分なお金がなかった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：グレート・グリーン・ウォールの事業を始めるのに長い時間がかかったのはなぜですか。
+1 Local communities did not want any more trees.（地域社会が、これ以上木を欲しがらなかったから。）
+2 Nobody could find trees that were suitable for the wall.（だれも、壁に適した木を見つけることができなかったから。）
+3 There was not enough money available to plant the trees.（木を植えるのに使える十分なお金がなかったから。）
+4 Some people were worried that the trees would create carbon dioxide.（木が二酸化炭素を作り出すと心配する人がいたから。）
+【考え方】
+第3段落を見ます。The idea itself is not a new one. In fact, it was first suggested in the 1980s.（この考え自体は新しいものではない。実は、1980年代に初めて提案された）とあります。1980年代に提案されたのに、第1段落によると計画は今やっと実行されようとしているので、始まるまでに長い時間がかかったことが分かります。
+その理由は次の文の The problem has been a shortage of money.（問題はお金の不足だった）です。shortage は「不足」という意味です。
+さらに This all changed in 2011, when a group of international organizations ... agreed to donate up to $3 billion to the project.（このすべてが変わったのは2011年で、そのとき国際機関のグループが事業に最大30億ドルを寄付することに同意した）とあります。お金が集まったことで状況が変わったので、それまではお金が足りなかったことが、事業がなかなか始まらなかった理由だと分かります。本文と選択肢は次のように対応しています。
+本文 a shortage of money（お金の不足）＝ 選択肢 There was not enough money available（使える十分なお金がなかった）
+正解は3です。
+【ほかの選択肢】
+1 地域社会を代表するNGOは、たくさんの木を植えることを心配していると書かれています。しかし、それは事業が遅れた理由として書かれたものではなく、「これ以上木を欲しがらなかった」とも書かれていないので、誤りです。
+2 本文で「ほかの地域の新しい種類の木」を心配する声はありますが、適した木がだれにも見つけられなかったという話はないので、誤りです。
+4 本文には The trees will also help to remove carbon dioxide from the air.（木々は空気中から二酸化炭素を取り除くのにも役立つだろう）とあります。木が二酸化炭素を作り出すと心配する人がいたという話はなく、本文の内容と反対なので誤りです。
+【覚えるポイント】
+・shortage of ～：「～の不足」。
+・donate ～ to ...：「～を…に寄付する」。

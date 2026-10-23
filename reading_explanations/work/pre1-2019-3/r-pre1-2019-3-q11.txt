@@ -1,0 +1,30 @@
+---
+choices: inaction | botany | anarchy | texture
+answerText: anarchy
+reviewed: yes
+---
+【正解】3 anarchy（無政府状態、大混乱）
+【和訳】
+（英文）
+The rebels created ［anarchy］ when they defeated the government. The country remained out of control until democratic leadership returned several years later.
+（訳）
+反乱を起こした人々は、政府を倒したとき、（無政府状態）を生み出した。その国は、数年後に民主的な指導体制が戻ってくるまで、統制がとれない状態のままだった。
+（選択肢の意味）
+1 inaction：何もしないこと
+2 botany：植物学
+3 anarchy：無政府状態（政府がなく、秩序がない混乱した状態）
+4 texture：手ざわり、質感
+【考え方】
+まず見るところ：後ろの文の The country remained out of control
+The rebels created ( ) when they defeated the government.（反乱を起こした人々は、政府を倒したとき、（　）を生み出した）
+rebels は「反乱を起こした人々」、defeat は「打ち負かす、倒す」という意味です。政府が倒されたあとの国の様子が空所に入ります。
+The country remained out of control until democratic leadership returned several years later.（その国は、数年後に民主的な指導体制が戻ってくるまで、統制がとれない状態のままだった）
+out of control は「統制がとれない（だれもまとめられない）」、democratic leadership は「民主的な（国民の意見で決める）指導体制」という意味です。政府がなくなり、国がまとまらない混乱した状態が続いたことが分かります。anarchy は「無政府状態」なので、3が正解です。
+この問題の型：言いかえ（anarchy → out of control）
+【ほかの選択肢】
+1 inaction は「何もしないこと」です。反乱を起こして政府を倒した人々について「何もしない状態を生み出した」と言っても、国が統制のとれない状態になったという後ろの文とつながりません。
+2 botany は「植物学」です。政府を倒したことと植物学は関係がなく、意味が通りません。
+4 texture は「手ざわり、質感」です。「政府を倒したとき手ざわりを生み出した」となり、意味が通りません。
+【覚えるポイント】
+・anarchy：「無政府状態、大混乱」。out of control（統制がとれない）と同じ向きの語です。
+・空所の次の文が「～まで、ずっと…のままだった（remained ～ until ...）」と状態を説明しているときは、その状態をひとことで表す名詞を探すと手がかりになります。

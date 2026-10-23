@@ -1,0 +1,31 @@
+---
+choices: testimony | tremor | dismissal | glossary
+answerText: dismissal
+reviewed: yes
+---
+【正解】3 dismissal（解雇）
+【和訳】
+（英文）
+Following his ［dismissal］ from the company, Todd collected unemployment insurance for a few months until he found a new job.
+（訳）
+会社から（解雇された）あと、トッドは新しい仕事が見つかるまでの数か月間、失業保険を受け取りました。
+（選択肢の意味）
+1 testimony：証言
+2 tremor：小さな揺れ、震え
+3 dismissal：解雇
+4 glossary：用語集
+【考え方】
+まず見るところ：文の後半の collected unemployment insurance ～ until he found a new job
+Todd collected unemployment insurance for a few months until he found a new job（トッドは新しい仕事が見つかるまでの数か月間、失業保険を受け取った）
+unemployment insurance は「失業保険（仕事を失った人が、しばらくの間お金を受け取れるしくみ）」です。失業保険を受け取り、そのあと新しい仕事を見つけたので、トッドは前の仕事を失っていたことが分かります。
+空所のある部分は次のとおりです。
+Following his (　) from the company（会社からの彼の（　）のあと）
+following ～ は「～のあとで」という意味です。会社をやめさせられること、つまり「解雇」を表すのは dismissal です。dismissal from the company で「会社からの解雇」となるので、3が正解です。
+この問題の型：推論（失業保険を受け取った→仕事を失っていた）／語の意味・組み合わせ（dismissal from the company）
+【ほかの選択肢】
+1 testimony は「（裁判などでの）証言」です。「会社からの証言のあと、失業保険を受け取った」となり、仕事を失った話とつながりません。
+2 tremor は「小さな揺れ、震え」です。「会社からの揺れのあと」となり、意味が通りません。
+4 glossary は「用語集（言葉とその説明を並べたもの）」です。「会社からの用語集のあと」となり、意味が通りません。
+【覚えるポイント】
+・dismissal：「解雇」。動詞は dismiss（解雇する、退ける）です。dismissal from the company で「会社からの解雇」となります。
+・unemployment insurance（失業保険）や found a new job（新しい仕事を見つけた）のような語句は、その前に仕事を失ったことの手がかりになります。

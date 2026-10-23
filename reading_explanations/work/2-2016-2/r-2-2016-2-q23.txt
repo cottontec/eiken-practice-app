@@ -1,0 +1,27 @@
+---
+choices: involved in choosing | interested in exercise | to eat vegetables | to use fewer services
+answerText: involved in choosing
+reviewed: yes
+---
+【正解】1 involved in choosing（選ぶことにかかわって）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 involved in choosing（選ぶことにかかわって）
+2 interested in exercise（運動に興味を持って）
+3 to eat vegetables（野菜を食べるように）
+4 to use fewer services（〔今より〕少ないサービスを使うように）
+【考え方】
+空所は第3段落の Stallings believes that getting residents (23) has also led to this change.（スターリングスは、入居者を（23）させたことも、この変化につながったと考えている）です。
+this change（この変化）は、前の文の They are more satisfied with their food and happier in general.（入居者は〔以前より〕食べ物に満足していて、全体として〔以前より〕幸せだ）を指します。also（～も）があるので、「味がよくなったこと」に加えて、もう1つの理由が空所の部分に書かれていることになります。
+空所のすぐあとの文が、その理由を具体的に説明しています。
+Residents help to decide which foods will be served and even grow some vegetables themselves.（入居者は、どの食べ物を出すかを決める手伝いをし、自分たちで野菜を育てることさえしている）
+「どの食べ物を出すかを決める手伝いをする」は、食べ物を選ぶことに参加していることを表します。get ＋人＋ involved in ～ は「（人）を～にかかわらせる、参加させる」という意味なので、getting residents involved in choosing で「入居者を（食べ物を）選ぶことにかかわらせること」となります。すぐあとの文の内容と合うので、1が正解です。
+【ほかの選択肢】
+2 interested in exercise を入れると、「入居者に運動への興味を持たせたこと」となります。本文には運動の話はなく、すぐあとの文の「食べ物を決める手伝い」「野菜を育てる」とも合いません。
+3 to eat vegetables を入れると、「入居者に野菜を食べさせたこと」となります。本文には入居者が野菜を育てる話はありますが、野菜を食べるようにさせたとは書かれていません。また、すぐあとの文が説明しているのは、食べ物を決めることに入居者がかかわっている点です。
+4 to use fewer services を入れると、「入居者が（今より）少ないサービスを使うようにさせたこと」となります。本文にはサービスを減らしたという話はなく、入居者が満足して幸せになった理由として説明されていません。
+【覚えるポイント】
+・get ＋人＋ involved in ～：「（人）を～にかかわらせる、参加させる」。be involved in ～ は「～にかかわっている」です。
+・lead to ～：「～につながる、～をもたらす」。has also led to this change で「この変化にもつながった」となります。

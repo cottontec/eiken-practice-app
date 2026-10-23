@@ -1,0 +1,26 @@
+---
+choices: technology | responsibilities | locations | communication
+answerText: technology
+reviewed: yes
+---
+【正解】1 technology（技術）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 technology：技術、科学技術
+2 responsibilities：責任、責務
+3 locations：場所、位置
+4 communication：意思の伝え合い、通信
+【考え方】
+空所は第3段落の In fact, if people were to change to newer (　), they could carry on living in the same way but still use much less energy.（実際には、もし人々がより新しい～に切りかえれば、同じように暮らし続けながら、それでもずっと少ないエネルギーですむだろう）にあります。
+直前の文では、多くの人が continuing to use the things they usually use, but less often（ふだん使っている物を、ただ使う回数を減らして使い続ける）ことしか考えていない、と書かれています。In fact（実際には）のあとは、それとはちがう考え方として「より新しい～に切りかえる」ことを示しています。
+すぐあとの例を見ると、For example, if people change to new kinds of highly efficient light bulbs, they can leave them on all the time and still use much less electricity than before.（例えば、新しい種類のとても効率のよい電球に切りかえれば、ずっとつけっぱなしにしていても以前よりずっと少ない電気しか使わない）とあります。新しい電球は、新しい「技術」の具体例です。また、段落の最後でも new fuel-saving inventions（燃料を節約する新しい発明品）という言葉が出てきます。
+ですから、空所には「技術」という意味の technology が入ります。change to newer technology で「より新しい技術に切りかえる」となり、1が正解です。
+【ほかの選択肢】
+2 responsibilities は「責任、責務」です。「より新しい責任に切りかえる」となり、そのあとの電球の例とつながりません。
+3 locations は「場所、位置」です。「より新しい場所に切りかえる」とすると引っこしの話のようになりますが、本文は「同じように暮らし続けながら」使う物を変える話なので合いません。
+4 communication は「意思の伝え合い、通信」です。専門家が一般の人にうまく伝えてこなかったという話は前に出てきますが、この文は使う物を新しくしてエネルギーを減らす話で、例も電球なので合いません。
+【覚えるポイント】
+・change to ～：「～に切りかえる、乗りかえる」。本文では change to a car ～、change to newer technology、change to new kinds of ～ light bulbs と何度も使われています。
+・carry on ～ing：「～し続ける」。

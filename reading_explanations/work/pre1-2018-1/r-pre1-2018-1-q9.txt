@@ -1,0 +1,30 @@
+---
+choices: menace | contraction | millennium | standstill
+answerText: standstill
+reviewed: yes
+---
+【正解】4 standstill（停止、止まった状態）
+【和訳】
+（英文）
+The racecar drivers came to a complete ［standstill］ because of the accident. The race started again once the damaged car had been cleared from the track.
+（訳）
+レーシングカーの運転手たちは、事故のために完全に（停止）した。壊れた車がコースから取り除かれると、レースは再開された。
+（選択肢の意味）
+1 menace：脅威、危険なもの
+2 contraction：縮むこと、収縮
+3 millennium：千年間
+4 standstill：停止、止まった状態
+【考え方】
+まず見るところ：次の文の The race started again
+空所の文は「運転手たちは、事故のために完全な〇〇に至った」という意味です。came to a complete (　) の形に注目します。
+次の文を見ます。
+The race started again once the damaged car had been cleared from the track.（壊れた車がコースから片づけられると、レースは再び始まった）
+started again（再び始まった）とあるので、その前にレースはいったん止まっていたことが分かります。standstill は「停止」で、come to a standstill で「止まる」という意味になります。よって4が正解です。
+この問題の型：熟語・決まった形（come to a complete standstill：完全に止まる）
+【ほかの選択肢】
+1 menace は「脅威」です。「完全な脅威に至った」では、レースが止まって再開したという流れとつながりません。
+2 contraction は「縮むこと」です。運転手たちが「完全な収縮に至った」では意味が通りません。
+3 millennium は「千年間」です。事故のために千年に至るという意味になり、意味が通りません。
+【覚えるポイント】
+・come to a (complete) standstill：「（完全に）止まる」。once ～：「いったん～すると、～したら」。
+・次の文に started again（再び始まった）があるときは、その前に「止まっていた」という内容が入る手がかりになります。

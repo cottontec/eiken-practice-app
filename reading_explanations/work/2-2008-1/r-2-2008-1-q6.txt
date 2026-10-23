@@ -1,0 +1,24 @@
+---
+choices: reserved | guarded | attempted | balanced
+answerText: attempted
+reviewed: yes
+---
+【正解】3 attempted（～しようと試みた）
+【和訳】
+昨年の6月、登山者のグループがラングレー山に登ろうと試みました。残念なことに、彼らは悪天候のせいで頂上にたどり着くことができませんでした。
+（選択肢の意味）
+1 reserved：～を予約した
+2 guarded：～を守った、見張った
+3 attempted：～を試みた
+4 balanced：～のバランスをとった
+【考え方】
+空所のあとは to climb Mt. Langley（ラングレー山に登ること）です。空所には、うしろに〈to＋動詞〉を続けられる動詞が入ります。
+2文目を見ると Unfortunately, they were not able to reach the top because of bad weather.（残念なことに、悪天候のせいで頂上にたどり着けなかった）とあります。つまり、登ろうとはしたけれど、成功しなかったのです。
+attempt to ～ は「～しようと試みる」という意味で、結果がうまくいったかどうかとは別に「やってみた」ことを表します。2文目の「たどり着けなかった」とぴったり合うので、3が正解です。
+【ほかの選択肢】
+1 reserved は「～を予約した」です。reserve はホテルや席などを予約するときに使い、reserved to climb（登ることを予約した）という形にはなりません。
+2 guarded は「～を守った、見張った」です。guarded to climb という形にはならず、意味も通りません。
+4 balanced は「～のバランスをとった」です。balanced to climb という形にはならず、「登ろうとして失敗した」という流れにも合いません。
+【覚えるポイント】
+・attempt to ～：「～しようと試みる」。名詞でも an attempt（試み）として使います。
+・because of ～：「～のせいで、～のために」。うしろには名詞（ここでは bad weather）が続きます。

@@ -1,0 +1,22 @@
+---
+choices: and | between | a choice | French fries | given
+answerText: a choice
+order: 5 3 2 4 1
+reviewed: yes
+---
+【正解】3 a choice（この問題の2番目）
+【完成文】
+( Given a choice between French fries and ) salad, Fiona always chooses salad. She tries to eat healthy food as often as she can.
+並べ方：5 given → 3 a choice → 2 between → 4 French fries → 1 and（2番目は3、4番目は4）
+【和訳】
+フライドポテトとサラダのどちらかを選べるとき、フィオナはいつもサラダを選びます。彼女はできるだけ頻繁に、健康によい食べ物を食べようとしています。
+【考え方】
+まず、文全体の意味を考えます。空所のすぐあとに salad があり、そのあと Fiona always chooses salad.（フィオナはいつもサラダを選ぶ）と続きます。2文目には She tries to eat healthy food as often as she can.（できるだけ健康によい食べ物を食べようとしている）とあります。ですから、空所をふくむ部分は「フライドポテトとサラダのどちらかを選べるとき」という内容になると考えられます。
+次に、組み立ての中心を考えます。2 between と 1 and を使うと、between A and B（AとBの間で）という形ができます。空所のあとの salad を B にして、between French fries and salad（フライドポテトとサラダの間で）とします。ですから、空所の最後は 4 French fries → 1 and の順になります。
+残りは 5 given と 3 a choice です。given は give（与える）が変化した形で、文の初めに置くと「～を与えられると」という意味になります。Given a choice で「選択肢を与えられると、選ぶことができるときは」となります。この a choice のすぐあとに between ～ を続けて、a choice between A and B（AとBのどちらかを選ぶこと）とします。
+こうして Given a choice between French fries and salad,（フライドポテトとサラダのどちらかを選べるときは）が完成します。
+まちがえやすいのは、between French fries and を前に置いて、Given a choice を最後にしてしまう並べ方です。そうすると salad が between のまとまりから離れてしまい、「フライドポテトとサラダの間で」という意味になりません。
+したがって、2番目は 3 a choice です。
+【覚えるポイント】
+・a choice between A and B：「AとBのどちらかを選ぶこと」。
+・Given ～,：文の初めで「～を与えられると、～があれば」。

@@ -1,0 +1,20 @@
+---
+choices: for | drivers | look | should | out
+answerText: out
+order: 2 4 3 5 1
+reviewed: yes
+---
+【正解】5 out（この問題の4番目）
+【完成文】
+Because driving in cold weather can be dangerous, ( drivers should look out for ) ice on the road during the winter.
+並べ方：2 drivers → 4 should → 3 look → 5 out → 1 for（2番目は4、4番目は5）
+【和訳】
+寒い天気の中での運転は危険なこともあるので、運転する人は冬の間、道路の氷に気をつけるべきです。
+【考え方】
+前半の Because driving in cold weather can be dangerous（寒い天気の中での運転は危険なこともあるので）が理由です。その結果として、運転する人がすべきことが述べられると考えます。
+選択肢の look、out、for に注目します。この3語で look out for ～（～に気をつける）という熟語になります。並べる順番は look → out → for で、for のすぐあとに気をつける相手（ここでは空所のあとの ice）がきます。
+熟語の前には、主語の 2 drivers と、「～すべきだ」を表す 4 should を置きます。これで drivers should look out for ice となり、4番目は5 out です。
+まちがえやすいのは、drivers should look for out（2 4 3 1 5）のように、for と out の順番を逆にしてしまう並べ方です。look for だけなら「～をさがす」という別の意味になり、そのあとに out が残ってしまいます。「～に気をつける」は look out for の順番で覚えておきましょう。
+【覚えるポイント】
+・look out for ～：「～に気をつける」。Look out!（気をつけて！）のように、look out だけでも使います。
+・look for ～：「～をさがす」。out が入るかどうかで意味が変わります。

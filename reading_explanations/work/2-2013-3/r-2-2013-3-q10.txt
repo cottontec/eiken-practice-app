@@ -1,0 +1,24 @@
+---
+choices: signature | scale | priority | evidence
+answerText: priority
+reviewed: yes
+---
+【正解】3 priority（優先、優先権）
+【和訳】
+緊急のときには、パトカーは道路でふつうの車よりも（優先されます）。自分の車を道路のわきに寄せて、パトカーを先に通さなければなりません。
+（選択肢の意味）
+1 signature：署名、サイン
+2 scale：規模、目盛り
+3 priority：優先、優先権
+4 evidence：証拠
+【考え方】
+2文目の You have to move your car to the side of the road and let them pass.（車を道路のわきに寄せて、パトカーを通さなければならない）に注目します。let them pass は「彼ら（パトカー）を通らせる」という意味です。
+ふつうの車がわきに寄って道をゆずるのですから、パトカーのほうが先に通ってよい、ということです。
+priority は「優先（ほかより先にすること）、優先権」という意味で、have priority over ～ で「～より優先される」となります。police cars have priority over regular vehicles で「パトカーはふつうの車より優先される」となり、2文目とつながります。したがって3が正解です。
+【ほかの選択肢】
+1 signature は「署名、サイン」です。「パトカーはふつうの車に対して署名を持つ」となり、意味が通りません。
+2 scale は「規模、目盛り」です。「ふつうの車に対して規模を持つ」となり、車がわきに寄って道をゆずる理由になりません。
+4 evidence は「証拠」です。「ふつうの車に対して証拠を持つ」となり、意味が通りません。
+【覚えるポイント】
+・have priority over ～：「～より優先される、～より先にする権利がある」。
+・let ＋ 人・もの ＋ 動詞の元の形：「～に…させる（させてあげる）」。let them pass で「彼らを通す」。

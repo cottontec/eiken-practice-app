@@ -1,0 +1,34 @@
+---
+choices: get down | round out | die away | lay out
+answerText: get down
+reviewed: yes
+---
+【正解】1 get down（下りる）
+【和訳】
+（英文）
+A: How long will it take to ［get down］ from the mountaintop, Jane?
+B: About three hours, but it will take longer if we walk at a slow pace.
+（訳）
+A：ジェーン、山頂から（下りる）のに、どのくらい時間がかかるかな。
+B：3時間くらいだね。でも、ゆっくりしたペースで歩いたら、それより長くかかるよ。
+（選択肢の意味）
+1 get down：下りる
+2 round out：仕上げる、締めくくる
+3 die away：（音などが）だんだん消える
+4 lay out：並べる、広げる、設計する
+【考え方】
+まず見るところ：空所のあとの from the mountaintop と、Bの if we walk at a slow pace
+Aの質問は、次のとおりです。
+How long will it take to (　) from the mountaintop, Jane?（ジェーン、山頂から（　）のに、どのくらい時間がかかるかな）
+How long will it take to ～? は「～するのにどのくらい時間がかかるか」、mountaintop は「山頂」です。from the mountaintop（山頂から）とあるので、山頂からどこかへ移動する話だと考えられます。
+Bの答えは、次のとおりです。
+About three hours, but it will take longer if we walk at a slow pace.（3時間くらいだね。でも、ゆっくりしたペースで歩いたら、それより長くかかるよ）
+pace は「歩く速さ」です。歩く速さでかかる時間が変わると答えているので、山頂から歩いて下りる話だと分かります。get down は「下りる」なので、1が正解です。
+この問題の型：語の意味・組み合わせ（get down from ～：～から下りる）
+【ほかの選択肢】
+2 round out は「仕上げる、締めくくる」です。「山頂から仕上げるのにどのくらいかかるか」となり、Bの「歩く速さで時間が変わる」という答えとも合いません。
+3 die away は「（音などが）だんだん消える」です。音や風などについて使う語で、「山頂から消えていくのにどのくらいかかるか」となり、歩いて移動する話になりません。
+4 lay out は「並べる、広げる、設計する」です。何を並べるのかが書かれておらず、「山頂から並べるのにどのくらいかかるか」となり、意味が通りません。
+【覚えるポイント】
+・get down from ～：「～から下りる」。
+・How long will it take to (　) from ～? のように from（～から）がついていて、答えに歩く速さの話が出てくるときは、移動を表す語句が入る手がかりになります。

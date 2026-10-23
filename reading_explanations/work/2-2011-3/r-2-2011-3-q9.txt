@@ -1,0 +1,24 @@
+---
+choices: retirement | achievement | mixture | quantity
+answerText: achievement
+reviewed: yes
+---
+【正解】2 achievement（達成、業績）
+【和訳】
+先週、マリアは会社で年間最優秀社員に選ばれました。この業績を祝うために、夫は彼女をすてきなレストランに連れて行きました。
+（選択肢の意味）
+1 retirement：引退、退職
+2 achievement：達成、業績
+3 mixture：混合、混ぜ合わせたもの
+4 quantity：量
+【考え方】
+1文目に Maria was chosen as Employee of the Year at her company（マリアは会社で年間最優秀社員に選ばれた）とあります。Employee of the Year は「その年いちばんよい働きをした社員」に贈られる称号です。
+2文目の To celebrate this (　) の this は、1文目の「年間最優秀社員に選ばれたこと」を指します。がんばった結果として手に入れた成果なので、「達成、業績」という意味の achievement がぴったり合います。
+To celebrate this achievement で「この業績を祝うために」となり、2が正解です。
+【ほかの選択肢】
+1 retirement は「引退、退職」です。マリアは会社で賞に選ばれたのであり、会社をやめたわけではないので、this retirement が指すものがありません。
+3 mixture は「混合、混ぜ合わせたもの」です。「この混合を祝うために」となり、意味が通りません。
+4 quantity は「量」です。「この量を祝うために」となり、1文目の内容を受けることができません。
+【覚えるポイント】
+・achievement：「達成、業績」。動詞は achieve（成しとげる）です。
+・celebrate：「祝う」。

@@ -1,0 +1,27 @@
+---
+choices: refused | withdrew | embraced | overtook
+answerText: withdrew
+reviewed: yes
+---
+【正解】2 withdrew（〔お金を〕引き出した）
+【和訳】
+（英文）
+Amy ［withdrew］ $300 from her bank account so she could buy a new watch.
+（訳）
+エイミーは、新しい腕時計を買えるように、銀行口座から300ドルを（引き出しました）。
+（選択肢の意味）
+1 refused：断った
+2 withdrew：（お金を）引き出した
+3 embraced：抱きしめた、受け入れた
+4 overtook：追い越した
+【考え方】
+空所のあとの $300 from her bank account（銀行口座から300ドルを）に注目します。from は「～から」という意味なので、空所には「お金を銀行口座から～した」という動作が入ります。
+さらに、so she could buy a new watch（新しい腕時計を買えるように）とあります。so ～ could … は「…できるように」という目的を表す言い方です。腕時計を買うためには、口座からお金を出す必要があります。
+withdrew は withdraw（引き出す）の過去形で、withdraw money from a bank account で「銀行口座からお金を引き出す」という意味になります。2が正解です。
+【ほかの選択肢】
+1 refused は「断った」です。「口座から300ドルを断った」となり、腕時計を買うという目的ともつながりません。
+3 embraced は「抱きしめた、（考えなどを）受け入れた」です。お金を口座から出す動作ではないので、意味が通りません。
+4 overtook は「（車などが）追い越した」です。「口座から300ドルを追い越した」となり、意味が通りません。
+【覚えるポイント】
+・withdraw ～ from …：「…から～を引き出す」。過去形は withdrew、過去分詞は withdrawn です。
+・bank account：「銀行口座」。

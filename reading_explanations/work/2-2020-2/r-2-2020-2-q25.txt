@@ -1,0 +1,26 @@
+---
+choices: near rural neighborhoods | in parks and gardens | along city streets | next to factories
+answerText: along city streets
+reviewed: yes
+---
+【正解】3 along city streets（都市の通り沿いに）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 near rural neighborhoods（田舎の住宅地の近くに）
+2 in parks and gardens（公園や庭園に）
+3 along city streets（都市の通り沿いに）
+4 next to factories（工場の隣に）
+【考え方】
+空所は第2段落の In particular, many trees have been planted (25).（特に、多くの木が（25）植えられてきた）です。In particular（特に）は、前の文の「木を植える」という考えの中で、とくにどこに植えているかを示しています。
+空所のあとの The idea is that ～ が手がかりです。chemicals that are released by the cars driving down the roads will be absorbed by the leaves of trees above them（道路を走る車が出す化学物質が、その上にある木の葉に吸収されるだろう）と書かれています。above them（それらの上に）の them は、道路を走る車を指していると考えられます。木は車の走る道路のすぐそばにあると分かります。
+さらに、次の文には the people living, walking, and cycling near these streets（こうした通りの近くで暮らしたり、歩いたり、自転車に乗ったりする人々）とあり、these streets（こうした通り）という言葉が出てきます。these（こうした）と言っているので、この「通り」は、すでに前の文で話題になっていたと考えられます。
+また、第1段落の話題は都市の大気汚染です。3を入れると「都市の通り沿いに多くの木が植えられてきた」となり、あとの「車の上の木の葉が化学物質を吸収する」「こうした通りの近くの人々」とつながります。ですから3が正解です。
+【ほかの選択肢】
+1 「田舎の住宅地の近くに」は、文章の話題に合いません。第1段落は都市部の大気汚染の話で、田舎の話は出てきません。
+2 「公園や庭園に」では、あとの「道路を走る車の上にある木の葉」や「こうした通り」とつながりません。
+4 「工場の隣に」では、あとの説明と合いません。本文で吸収されるのは工場ではなく、道路を走る車が出す化学物質です。
+【覚えるポイント】
+・along ～：「～に沿って」。along city streets で「都市の通り沿いに」。
+・In particular：「特に」。前に述べたことの中から、とくに1つを取り上げるときに使います。

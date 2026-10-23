@@ -1,0 +1,29 @@
+---
+choices: demand | achieve | pretend | suspect
+answerText: suspect
+reviewed: yes
+---
+【正解】4 suspect（～ではないかと思う）
+【和訳】
+（英文）
+A: Reuben seems pretty unhappy here at work, and he's taken a lot of days off lately.
+B: I've noticed that, too. I ［suspect］ he's looking for another job.
+（訳）
+A：ルーベンは、ここの職場でかなり不満そうだし、最近たくさん休みを取っているね。
+B：私もそれに気づいていたよ。彼は別の仕事を探しているんじゃないかと思う。
+（選択肢の意味）
+1 demand：要求する
+2 achieve：達成する
+3 pretend：～のふりをする
+4 suspect：～ではないかと思う
+【考え方】
+Aは、ルーベンについて「職場でかなり不満そう」「最近たくさん休みを取っている」と2つのことを言っています。Bは I've noticed that, too.（私もそれに気づいていた）と答えています。
+そのあとの I (　) he's looking for another job.（彼は別の仕事を探していると私は（　））で、Bは、気づいたことから考えた自分の考えを言っています。不満そうで休みが多いという様子から、「別の仕事を探しているのではないか」と、はっきりした証拠はないけれどそう思っている、という流れです。
+suspect は、あとに that ～（that は省略されることが多い）を続けて「～ではないかと思う、～だろうと疑う」という意味になります。正解は4です。
+【ほかの選択肢】
+1 demand は「要求する」です。「彼が別の仕事を探していることを私は要求する」となり、気づいたことを話している会話の流れに合いません。
+2 achieve は「達成する、成しとげる」です。「彼が別の仕事を探していることを私は達成する」となり、意味が通りません。
+3 pretend は「～のふりをする」です。「彼が別の仕事を探しているふりを私はする」となり、ルーベンの様子について話している会話に合いません。
+【覚えるポイント】
+・suspect (that) ～：「～ではないかと思う」。よくないことを疑うときによく使います。
+・take a day off：「1日休みを取る」。ここでは he's taken a lot of days off で「たくさん休みを取っている」。

@@ -1,0 +1,30 @@
+---
+choices: these are not the only reasons for | there are rules to stop people from | many popular websites have been | some TV companies began by
+answerText: these are not the only reasons for
+reviewed: yes
+---
+【正解】1 these are not the only reasons for（これらが～の唯一の理由ではない）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 these are not the only reasons for（これらが〔フェイクニュースを発表すること〕の唯一の理由ではない）
+2 there are rules to stop people from（人々が〔フェイクニュースを発表すること〕をやめさせる規則がある）
+3 many popular websites have been（多くの人気のあるウェブサイトが〔フェイクニュースを発表して〕きた）
+4 some TV companies began by（〔フェイクニュースを発表すること〕から始めたテレビ会社もある）
+【考え方】
+まず見るところ：第1段落の However, (24) publishing fake news. と、そのあとの In 1903
+空所のあとの publishing fake news は「フェイクニュースを発表すること」という意味です。空所の前には、フェイクニュースが使われる目的が2つ書かれています。
+They are sometimes used in order to get more people to read newspapers, watch TV programs, or visit online news sites.（それらは、より多くの人々に新聞を読ませたり、テレビ番組を見させたり、オンラインのニュースサイトを訪れさせたりするために使われることがある）
+People also use fake news to spread their political or religious beliefs.（また、人々は、自分の政治的な信念や宗教的な信念を広めるためにもフェイクニュースを使う）
+空所の文は However（しかし）で始まり、そのあとに次の文が続きます。
+In 1903 in the city of Clarksburg, West Virginia, fake news was used to check if a newspaper was really writing its own articles.（1903年、ウェストバージニア州のクラークスバーグ市では、ある新聞社が本当に自分たちで記事を書いているのかを確かめるために、フェイクニュースが使われた）
+これは、前の2つとは違う、3つ目の目的です。1を入れると「しかし、これらがフェイクニュースを発表する唯一の理由ではない」となり、these（これら）は前の2つの目的を指します。「ほかにも理由がある」と言ってから別の例を紹介する流れになるので、1が正解です。
+この問題の型：指示語（these が指す2つの目的）
+【ほかの選択肢】
+2 「人々がフェイクニュースを発表するのをやめさせる規則がある」を入れると、次は規則の説明が続くはずです。しかし、次の文は1903年にフェイクニュースが使われた例で、規則の話は本文に出てきません。
+3 「多くの人気のあるウェブサイトがフェイクニュースを発表してきた」を入れると、次の1903年の新聞の話とつながりません。1903年の例はウェブサイトではなく新聞についてです。
+4 「フェイクニュースを発表することから始めたテレビ会社もある」は、本文に書かれていない内容です。次の文の例も、テレビ会社ではなく新聞社についての話なので合いません。
+【覚えるポイント】
+・not the only reason for ～：「～の唯一の理由ではない（ほかにも理由がある）」。
+・空所のあとに、それまでと違う種類の例が出てくるときは、「ほかにもある」という意味の言葉が入る手がかりになります。these（これら）が何を指すかも確かめましょう。

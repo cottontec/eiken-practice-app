@@ -1,0 +1,30 @@
+---
+choices: compulsive | dependent | reputable | fertile
+answerText: reputable
+reviewed: yes
+---
+【正解】3 reputable（評判のよい、信頼できる）
+【和訳】
+（英文）
+When shopping for a used car, it is important to find a ［reputable］ dealer. It is easy for dealers to cheat you if you do not know much about cars.
+（訳）
+中古車を買いに行くときは、（評判のよい）販売業者を見つけることが大切だ。車についてあまり知らないと、販売業者があなたをだますのは簡単だ。
+（選択肢の意味）
+1 compulsive：やめられない、強迫的な（やめたくてもやめられない）
+2 dependent：頼っている、依存している
+3 reputable：評判のよい、信頼できる
+4 fertile：（土地が）肥えた、作物がよく育つ
+【考え方】
+まず見るところ：後ろの文の It is easy for dealers to cheat you
+空所のある文は、中古車を買うときには（　）販売業者を見つけることが大切だ、と言っています。dealer は「販売業者（品物を売る店や人）」です。
+後ろの文を見ます。
+It is easy for dealers to cheat you if you do not know much about cars.（車についてあまり知らないと、販売業者があなたをだますのは簡単だ）
+だまされるおそれがあるので、だまさない、きちんとした業者を選ぶことが大切だという流れになります。reputable は「評判のよい、信頼できる」という意味なので、3が正解です。
+この問題の型：因果（だまされやすい→信頼できる業者を選ぶ）／語の意味・組み合わせ（reputable dealer）
+【ほかの選択肢】
+1 compulsive は「やめられない、強迫的な」です。compulsive dealer では「やめられない販売業者」となり、だまされないための業者選びの話になりません。
+2 dependent は「頼っている、依存している」です。「（何かに）頼っている販売業者」となり、信頼できるかどうかを表す語ではありません。「頼りになる」は dependable という別の語なので、形の似た語に気をつけましょう。
+4 fertile は「（土地が）肥えた」です。土や畑について使う語で、販売業者の様子を表す語として意味が通りません。
+【覚えるポイント】
+・reputable：「評判のよい、信頼できる」。reputation（評判）と同じ仲間の語です。
+・後ろの文に cheat（だます）のような「困ること」が書かれているときは、空所にはそれを防ぐための性質を表す語が入ることが多いので、問題と対策の関係を確かめると手がかりになります。

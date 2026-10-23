@@ -1,0 +1,30 @@
+---
+choices: dignity | controversy | monarchy | itinerary
+answerText: itinerary
+reviewed: yes
+---
+【正解】4 itinerary（旅程（旅行の道順や予定））
+【和訳】
+（英文）
+Emir and Corinne were disappointed that they had to change their vacation ［itinerary］, but it was necessary for them to take a different route because of the storm.
+（訳）
+エミール（エミルとも）とコリーヌは、休暇旅行の旅程を変えなければならなかったことにがっかりしたが、嵐のために、2人は別のルートを通る必要があった。
+（選択肢の意味）
+1 dignity：威厳、品位
+2 controversy：論争、議論
+3 monarchy：君主制（王や女王が国を治めるしくみ）
+4 itinerary：旅程（旅行の道順や予定）
+【考え方】
+まず見るところ：文の後半の it was necessary for them to take a different route because of the storm
+they had to change their vacation ( )（2人は休暇の（　）を変えなければならなかった）
+空所には、2人が休暇について「変えなければならなかったもの」が入ります。
+it was necessary for them to take a different route because of the storm（嵐のために、2人は別のルートを通る必要があった）
+route は「道筋、ルート」です。嵐のせいで別の道を通ることになったのですから、変えたのは旅行の道順や予定だと分かります。itinerary は「旅程（旅行の道順や予定）」という意味なので、4が正解です。
+この問題の型：言いかえ（変えるもの vacation itinerary と、take a different route が同じ内容を指している）／因果（嵐→道順を変える）
+【ほかの選択肢】
+1 dignity は「威厳、品位」です。「休暇の威厳を変えなければならなかった」となり、別のルートを通ることとつながりません。
+2 controversy は「論争、議論」です。「休暇の論争を変えなければならなかった」となり、意味が通りません。
+3 monarchy は「君主制（王や女王が国を治めるしくみ）」です。国のしくみを表す語で、「休暇の君主制」となり意味が通りません。
+【覚えるポイント】
+・itinerary：「旅程（旅行の道順や予定）」。vacation itinerary で「休暇旅行の予定」。
+・空所のある文の後半に、同じことを別の言葉で説明した部分（ここでは take a different route）があるときは、それと言いかえになる語を選ぶことが手がかりになります。

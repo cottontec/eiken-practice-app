@@ -1,0 +1,33 @@
+---
+choices: reflect | struggle | tend | invest
+answerText: tend
+reviewed: yes
+---
+【正解】3 tend（～する傾向がある、～しがちである）
+【和訳】
+（英文）
+A: Do you think that cats are easier to keep as pets than dogs?
+B: No, I ［tend］ to prefer dogs. They are friendlier, and they listen to what you say.
+（訳）
+A：猫のほうが犬よりペットとして飼いやすいと思う？
+B：いいえ、私は（どちらかといえば）犬のほうが好きだよ。犬は（猫より）人なつこいし、こちらの言うことを聞くからね。
+（選択肢の意味）
+1 reflect：反映する、よく考える
+2 struggle：奮闘する、苦労する
+3 tend：～する傾向がある、～しがちである
+4 invest：投資する
+【考え方】
+まず見るところ：空所のあとの to prefer dogs
+Aは「猫のほうが犬より飼いやすいと思うか」とたずねています。Bの答えは次のとおりです。
+No, I ( ) to prefer dogs.（いいえ、私は犬のほうを好む（　））
+Bは No（いいえ）と答えたあと、犬のほうが好きだと言い、その理由として次のように続けています。
+They are friendlier, and they listen to what you say.（犬は（猫より）人なつこいし、こちらの言うことを聞く）
+空所のあとは to prefer（～のほうを好むこと）という形です。tend to ～ は「～する傾向がある、どちらかといえば～しがちだ」という意味の決まった形なので、I tend to prefer dogs で「私はどちらかといえば犬のほうが好きだ」となります。理由の説明ともつながるので、3が正解です。
+この問題の型：熟語・決まった形（tend to ～）
+【ほかの選択肢】
+1 reflect は「反映する、よく考える」です。「犬を好むことをよく考える」のような意味になり、Aの質問への答えとして意味が通りません。
+2 struggle は「奮闘する、苦労する」です。struggle to ～ は「～しようと苦労する」で、「犬を好もうと苦労している」となります。そのあとで犬のよいところを挙げているBの話と合いません。
+4 invest は「投資する（お金や時間をつぎこむ）」です。「犬を好むことに投資する」となり、意味が通りません。
+【覚えるポイント】
+・tend to ～：「～する傾向がある、どちらかといえば～しがちだ」。
+・空所のすぐあとに to ～ がきているときは、空所の動詞が to ～ と組み合わせて自然な意味になるかどうかを確かめると、選ぶ手がかりになります。

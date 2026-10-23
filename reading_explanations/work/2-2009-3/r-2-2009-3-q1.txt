@@ -1,0 +1,24 @@
+---
+choices: revised | injured | extended | displayed
+answerText: displayed
+reviewed: yes
+---
+【正解】4 displayed（展示される、飾られる）
+【和訳】
+ジェシカの絵は美術コンテストで1等賞をとったので、来月、市の図書館に展示される予定です。彼女の友だちはそれを見にそこへ行くつもりです。
+（選択肢の意味）
+1 revised：修正される、改訂される
+2 injured：けがをさせられる
+3 extended：延長される、広げられる
+4 displayed：展示される、飾られる
+【考え方】
+空所の文は it is going to be (　) in the city library next month.（それは来月、市の図書館で（　）される予定だ）です。it はジェシカの絵を指しています。be のあとに動詞の過去分詞（ここでは「～される」という意味を表す形）がきて、「絵が図書館で～される」という意味になります。
+手がかりは2つあります。1つ目は文の前半の Because Jessica's painting won first prize in the art contest（ジェシカの絵が美術コンテストで1等賞をとったので）です。賞をとった絵は、多くの人に見てもらえるように飾られることがよくあります。
+2つ目は次の文の Her friends will go there to see it.（友だちはそれを見にそこへ行く）です。図書館に行けば絵を「見る」ことができるのですから、絵は図書館に飾られるのだと分かります。display は「～を展示する、（人に見えるように）飾る」という意味なので、4 displayed が正解です。
+【ほかの選択肢】
+1 revised は revise（～を修正する、書き直す）の過去分詞です。「絵が図書館で修正される」では、1等賞をとった理由にも、友だちが見に行く理由にもなりません。
+2 injured は injure（～にけがをさせる）の過去分詞です。けがをするのは人や動物で、絵について使う語ではありません。
+3 extended は extend（～を延長する、広げる）の過去分詞です。「絵が図書館で延長される」では意味が通りません。
+【覚えるポイント】
+・display：「～を展示する、飾って見せる」。be displayed で「展示される」。名詞として on display（展示されて）という形でも使います。
+・win first prize：「1等賞をとる」。

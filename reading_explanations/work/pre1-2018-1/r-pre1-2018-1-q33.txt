@@ -1,0 +1,32 @@
+---
+choices: It made it possible for the city to replace the bridge toll plan with another method of reducing air pollution. | It resulted in the reelection of the mayor who had supported the law when it was first passed. | It made it cheaper for commuters to take public transportation than to drive over a bridge into Manhattan. | It caused legal battles that finally forced the city to remove existing tolls on bridges into Manhattan.
+answerText: It made it possible for the city to replace the bridge toll plan with another method of reducing air pollution.
+reviewed: yes
+---
+【正解】1 It made it possible for the city to replace the bridge toll plan with another method of reducing air pollution.（その法律によって、市は橋の通行料の計画を、大気汚染を減らす別の方法に置きかえることができた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：How did the national air-quality law affect New York City's traffic policies?（空気の質についての国の法律は、ニューヨーク市の交通政策にどのような影響を与えたか。）
+1 It made it possible for the city to replace the bridge toll plan with another method of reducing air pollution.（その法律によって、市は橋の通行料の計画を、大気汚染を減らす別の方法に置きかえることができた。）
+2 It resulted in the reelection of the mayor who had supported the law when it was first passed.（その法律によって、法律が最初に成立したときに支持していた市長が再び選ばれた。）
+3 It made it cheaper for commuters to take public transportation than to drive over a bridge into Manhattan.（その法律によって、通勤する人々にとって、車で橋を渡ってマンハッタンに入るよりも、公共交通機関を使うほうが安くなった。）
+4 It caused legal battles that finally forced the city to remove existing tolls on bridges into Manhattan.（その法律は法的な争いを引き起こし、最終的に市は、マンハッタンに入る橋のすでにある通行料をなくさざるをえなくなった。）
+【考え方】
+まず見るところ：第2段落の Eventually, instead of putting the original plan into place, the city was allowed to ～
+第2段落では、1973年のリンゼイの計画（橋に通行料をかける計画）が、空気の質を改善するための国の法律の一部として認められたと書かれています。しかし、次の市長がこれに反対し、連邦政府と争いました。その結末が次の文です。
+Eventually, instead of putting the original plan into place, the city was allowed to meet the national air-quality law's requirements by expanding environmentally friendly public transportation services.（最終的に、市は元の計画を実行する代わりに、環境にやさしい公共交通機関のサービスを広げることによって、空気の質についての国の法律の要件を満たすことを認められた）
+本文と選択肢1を対にすると、次のようになります。
+・本文 instead of putting the original plan into place（元の計画を実行する代わりに）→ 選択肢 replace the bridge toll plan（橋の通行料の計画を置きかえる）
+・本文 the city was allowed to（市は～することを認められた）＝ 選択肢 made it possible for the city to（市が～できるようにした）
+・本文 by expanding environmentally friendly public transportation services（環境にやさしい公共交通機関を広げることで）→ 選択肢 another method of reducing air pollution（大気汚染を減らす別の方法）
+「環境にやさしい公共交通機関を広げること」は、法律の要件（空気の質をよくすること）を満たすための方法なので、「大気汚染を減らす別の方法」と言いかえられます。よって1が正解です。
+この問題の型：言いかえ（instead of ～ the original plan → replace the plan）
+【ほかの選択肢】
+2 本文にありません。リンゼイの任期は終わり、次の市長は計画に反対したと書かれています。法律を支持した市長が再び選ばれたという話はありません。
+3 本文にありません。市は公共交通機関のサービスを広げましたが、橋を渡るよりも安くなったという比べ方は書かれていません。
+4 本文にありません。次の市長が連邦政府と争ったことは書かれていますが、市が「すでにあった通行料をなくさなければならなくなった」とは書かれていません。最後に some bridges into Manhattan remained toll-free（マンハッタンに入る橋のいくつかは通行料がかからないままだった）とあるだけです。
+【覚えるポイント】
+・instead of ～ing：「～する代わりに」。meet the requirements：「要件を満たす」。remain toll-free：「通行料が無料のままである」。
+・選択肢に remove（なくす）のような「変化」を表す語があるときは、本文にその変化が書かれているかどうかを確かめます。本文には remained toll-free（通行料がかからないままだった）とあるだけで、通行料をなくしたとは書かれていません。

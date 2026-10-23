@@ -1,0 +1,32 @@
+---
+choices: always share pictures with tourists | recently built new public schools | already use the Internet freely | still lack reliable Internet access
+answerText: still lack reliable Internet access
+reviewed: yes
+---
+【正解】4 still lack reliable Internet access（今でも、信頼できるインターネット接続がない）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 always share pictures with tourists（いつも観光客と写真を共有している）
+2 recently built new public schools（最近、新しい公立学校を建てた）
+3 already use the Internet freely（すでにインターネットを自由に使っている）
+4 still lack reliable Internet access（今でも、信頼できるインターネット接続がない）
+【考え方】
+まず見るところ：第3段落の空所の直後の Therefore, there were criticisms that ～
+第3段落は、次の文で始まります。
+However, not everyone was happy.（しかし、だれもが喜んだわけではなかった）
+この段落には、この計画への批判が書かれています。空所の前の文は次のとおりです。
+Some critics said the government was giving more attention to tourists.（批判する人の中には、政府は（地元の人々より）観光客のほうに多くの注意を向けていると言う人もいた）
+空所の直後の文は次のとおりです。
+Therefore, there were criticisms that the resources should be used more to improve communication services for local residents.（そのため、その資源は、地元の住民のための通信サービスをよくすることに、もっと使われるべきだという批判があった）
+Therefore（そのため）は、前の内容が理由で、あとがその結果であることを示します。「地元の通信サービスをよくするべきだ」という批判の理由になるのは、地元の通信サービスが十分でないことです。
+lack は「～がない、～が欠けている」、reliable は「信頼できる（安心して使える）」という意味です。still lack reliable Internet access で「今でも、信頼できるインターネット接続がない」となり、批判の理由になるので、4が正解です。
+この問題の型：因果（農村にはまだネットがない→地元のために使うべきだという批判）
+【ほかの選択肢】
+1 「いつも観光客と写真を共有している」は、地元の通信サービスをよくするべきだという批判の理由になりません。写真の共有は、第2段落の観光客についての話です。
+2 「最近、新しい公立学校を建てた」は、通信サービスとは関係がありません。学校の話は本文になく、Therefore のあとの批判ともつながりません。
+3 「すでにインターネットを自由に使っている」は、反対の内容です。地元ですでに自由に使えているなら、地元の通信サービスをよくするべきだという批判は生まれません。
+【覚えるポイント】
+・lack：「～がない、～が欠けている」。reliable：「信頼できる」。
+・空所の直後に Therefore（そのため）があるときは、そのあとの結果の理由になる内容を空所に入れると考えると、選ぶ手がかりになります。

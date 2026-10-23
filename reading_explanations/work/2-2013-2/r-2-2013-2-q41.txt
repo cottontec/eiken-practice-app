@@ -1,0 +1,30 @@
+---
+choices: The new technology that is used to find them is extremely expensive. | There are fewer companies that find and sell them than before. | There has been a greater demand for them due to the growth of industry. | The amount of metals people can remove from the ground is controlled.
+answerText: There has been a greater demand for them due to the growth of industry.
+reviewed: yes
+---
+【正解】3 There has been a greater demand for them due to the growth of industry.（産業の成長によって、それらの金属への需要が増えてきた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：近年、金やプラチナのような金属の価格が上がった理由の1つは何ですか。
+1 The new technology that is used to find them is extremely expensive.（それらを見つけるために使われる新しい技術が、非常に高価である。）
+2 There are fewer companies that find and sell them than before.（それらを見つけて売る会社が、以前より少ない。）
+3 There has been a greater demand for them due to the growth of industry.（産業の成長によって、それらの金属への需要が増えてきた。）
+4 The amount of metals people can remove from the ground is controlled.（人々が地中から取り出せる金属の量が、制限されている。）
+【考え方】
+設問は、金やプラチナなどの価格が上がった理由をたずねています。第1段落を読みます。
+第1段落の初めには、これらの金属は difficult to find and get out of the ground（見つけて地中から取り出すのが難しい）とあります。続く文には In addition, the expansion of industry over the last few decades has led to a huge rise in demand for these metals.（さらに、ここ数十年の産業の拡大によって、これらの金属の需要が大きく増えた）とあります。demand は「需要（ほしいと思われる量）」、lead to ～ は「～につながる、～を引き起こす」です。
+そのすぐあとに Prices have risen higher than ever before（価格はこれまでにないほど高くなっている）と続きます。手に入れるのが難しいうえに、ほしがる量が大きく増えたという流れのあとで価格の話が出てくるので、需要が増えたことが、価格が上がった理由の1つとして読み取れます。
+本文と選択肢は次のように対応しています。
+本文 a huge rise in demand for these metals（これらの金属の需要の大きな増加）＝ 選択肢 There has been a greater demand for them（それらへの需要が以前より大きくなってきた）
+本文 the expansion of industry ... has led to（産業の拡大が～につながった）＝ 選択肢 due to the growth of industry（産業の成長のために）
+due to ～ は「～のために、～が原因で」です。正解は3です。
+【ほかの選択肢】
+1 本文の new technology（新しい技術）は第3段落に出てきますが、それは宇宙旅行の費用を下げるための技術です。金属を見つける技術が高価だという話は書かれていません。
+2 金属を見つけて売る会社の数が減ったという話は本文にありません。
+4 本文には金属を地中から取り出すのが「難しい」とは書かれていますが、取り出せる量が「制限されている（決まりで抑えられている）」とは書かれていません。一部の言葉は似ていますが、内容が違います。
+【覚えるポイント】
+・demand for ～：「～への需要」。a rise in demand で「需要の増加」。
+・lead to ～：「～につながる、～を引き起こす」。

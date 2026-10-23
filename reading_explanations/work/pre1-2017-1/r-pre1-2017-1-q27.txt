@@ -1,0 +1,31 @@
+---
+choices: Moreover | Despite this | Rather | In other words
+answerText: Moreover
+reviewed: yes
+---
+【正解】1 Moreover（さらに、そのうえ）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Moreover（さらに、そのうえ）
+2 Despite this（これにもかかわらず）
+3 Rather（むしろ、そうではなく）
+4 In other words（言いかえると、つまり）
+【考え方】
+まず見るところ：第2段落の空所の前の For one, ～
+空所の前の文は次のとおりです。
+executives saw the benefits of making the change（幹部たちは、その変更をすることの利点が分かるようになった）
+For one, it would mean lower taxes on televised events.（一つには、それはテレビ放送される試合にかかる税金が安くなることを意味した）
+For one（一つには）は、いくつかある理由や利点の「1つ目」を挙げるときの言い方です。1つ目の利点は「税金が安くなること」です。
+空所のあとは次のとおりです。
+removing government rules would make it easier to put on action-filled performances using potentially dangerous moves that appealed to fans（政府の規則がなくなれば、ファンに受ける、危険をともなうかもしれない技を使った、アクション満載の演技を行いやすくなる）
+これは、ファンが求める刺激的なショーができるという、2つ目の利点です。1つ目の利点に2つ目の利点を付け加えているので、「さらに、そのうえ」という意味の Moreover が入ります。よって1が正解です。
+この問題の型：熟語・決まった形（For one, ～ の次に Moreover で付け加える）
+【ほかの選択肢】
+2 Despite this（これにもかかわらず）は、前と反対の向きの内容が続くときに使います。税金が安くなることも、刺激的なショーがしやすくなることも、どちらも利点なので、反対の向きではありません。
+3 Rather（むしろ、そうではなく）は、前の内容を打ち消して別の内容を出すときに使います。空所のあとは1つ目の利点を打ち消しておらず、付け加えているので合いません。
+4 In other words（言いかえると）は、前と同じ内容を別の言葉で言い直すときに使います。「税金が安くなる」と「規則がなくなって演技がしやすくなる」は別々の内容なので、言いかえにはなりません。
+【覚えるポイント】
+・For one, ～：「一つには～」。理由や利点の1つ目を挙げる合図です。
+・For one のあとの空所には、2つ目を付け加える Moreover（さらに）や In addition などが入ることが多いので、前後が同じ向きの別々の内容かどうかを確かめると手がかりになります。

@@ -1,0 +1,32 @@
+---
+choices: help explain the theory that including visual study materials in every subject taught at school is beneficial for all students. | offer an example that shows why presenting students with too many visual aids can weaken their listening and verbal skills. | illustrate the concept that each student has a favored method of acquiring new information and learns better in response to it. | show that most students want educators to keep utilizing traditional methods of teaching certain subjects.
+answerText: illustrate the concept that each student has a favored method of acquiring new information and learns better in response to it.
+reviewed: yes
+---
+【正解】3 illustrate the concept that each student has a favored method of acquiring new information and learns better in response to it.（生徒一人一人に新しい情報を身につけるための好みの方法があり、それに合わせるとよりよく学ぶ、という考え方を例で示すため。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：The author of the passage mentions "visual learners" in the first paragraph to（筆者が第1段落で「視覚型学習者」について述べているのは、～ためである。）
+1 help explain the theory that including visual study materials in every subject taught at school is beneficial for all students.（学校で教えるすべての教科に目で見る学習教材を入れることが、すべての生徒にとって有益だという理論を説明する助けにするため。）
+2 offer an example that shows why presenting students with too many visual aids can weaken their listening and verbal skills.（生徒に目で見る教材を多く見せすぎると、なぜ聞く力や言葉の力が弱まることがあるのかを示す例を挙げるため。）
+3 illustrate the concept that each student has a favored method of acquiring new information and learns better in response to it.（生徒一人一人に新しい情報を身につけるための好みの方法があり、それに合わせるとよりよく学ぶ、という考え方を例で示すため。）
+4 show that most students want educators to keep utilizing traditional methods of teaching certain subjects.（ほとんどの生徒が、特定の教科について、教育者に伝統的な教え方を使い続けてほしいと思っていることを示すため。）
+【考え方】
+まず見るところ：第1段落の The idea is that students learn better と、その次の For example, "visual learners"
+"visual learners"（視覚型学習者）は、第1段落で For example（たとえば）のあとに出てきます。何の例なのかは、その前の文に書かれています。
+The idea is that students learn better when they are taught in a way that corresponds with their preferred style.（その考え方とは、生徒は、自分の好むスタイルに合ったやり方で教えられると、よりよく学ぶというものだ）
+For example, "visual learners" can comprehend information more easily when they are presented with diagrams or illustrations, whereas other students may learn more easily through listening, or by working with their hands.（たとえば、「視覚型学習者」は、図やイラストを見せられると情報をより簡単に理解できるが、一方で、ほかの生徒は、聞くことや、手を使って作業することを通してのほうが、より簡単に学べるかもしれない）
+「視覚型学習者」は、「生徒にはそれぞれ好みのスタイルがあり、それに合わせて教えるとよく学ぶ」という考え方の具体例です。本文と選択肢を対にすると、次のようになります。
+・本文 their preferred style（自分の好むスタイル）→ 言いかえると → 選択肢 a favored method of acquiring new information（新しい情報を身につけるための好みの方法）
+・本文 students learn better when they are taught in a way that corresponds with ～（～に合ったやり方で教えられると、よりよく学ぶ）→ ほぼ同じ内容 → 選択肢 learns better in response to it（それに合わせるとよりよく学ぶ）
+illustrate は「（例を挙げて）示す、説明する」という意味です。ですから3が正解です。
+この問題の型：具体例とまとめ（The idea is ～ → For example, "visual learners"）
+【ほかの選択肢】
+1 本文では、視覚型学習者は図やイラストでよく学ぶ一方、ほかの生徒は聞くことや手を使う作業でよく学ぶかもしれないと書かれています。「すべての教科に目で見る教材を入れることが、すべての生徒にとって有益だ」という話ではありません。
+2 目で見る教材を見せすぎると聞く力や言葉の力が弱まるという話は、本文に書かれていません。
+4 本文の第1段落に書かれているのは、教師たちが伝統的な授業のやり方から抜け出そうとしてきたことです。生徒が伝統的な教え方を使い続けてほしいと思っているという話は書かれていません。
+【覚えるポイント】
+・illustrate：「（例を挙げて）示す、説明する」。preferred（好みの）は、選択肢の favored（好みの）とほぼ同じ意味です。
+・「筆者が～について述べているのはなぜか」という設問では、その語の前に For example（たとえば）があるかどうかを見ましょう。あれば、その前の文（ここでは The idea is ～）が「何の例か」を教えてくれる手がかりになります。

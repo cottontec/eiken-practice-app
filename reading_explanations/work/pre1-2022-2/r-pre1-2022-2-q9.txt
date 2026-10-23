@@ -1,0 +1,30 @@
+---
+choices: gravitate | detach | uphold | eradicate
+answerText: uphold
+reviewed: yes
+---
+【正解】3 uphold（法律などを守る、支える）
+【和訳】
+（英文）
+Police officers must promise to ［uphold］ the law. This includes, of course, following the law themselves.
+（訳）
+警察官は法律を（守る）ことを約束しなければならない。これにはもちろん、警察官自身が法律に従うことが含まれる。
+（選択肢の意味）
+1 gravitate：（～のほうへ）自然に引きつけられる
+2 detach：切り離す、取り外す
+3 uphold：（法律や決まりを）守る、支える
+4 eradicate：根絶する（根こそぎなくす）
+【考え方】
+まず見るところ：あとの文の This includes, of course, following the law themselves.
+This includes, of course, following the law themselves.（これにはもちろん、警察官自身が法律に従うことが含まれる）
+This（これ）は、前の文の「警察官が約束すること」を指します。その約束の中に「自分も法律に従うこと」が含まれる、と説明しています。
+Police officers must promise to (　) the law.（警察官は法律を（　）ことを約束しなければならない）
+「法律に従うこと」を含むのは、法律を守り、支える約束です。uphold the law は「法律を守る、法律が守られるようにする」という意味なので、3が正解です。
+この問題の型：指示語（This が空所を含む約束を指す）
+【ほかの選択肢】
+1 gravitate は「（～のほうへ）自然に引きつけられる」です。自然に起きることを約束するのは不自然で、「法律に従うこと」を含む約束にもなりません。
+2 detach は「切り離す」です。「法律を切り離すことを約束する」となり、意味が通りません。
+4 eradicate は「根絶する（根こそぎなくす）」です。「法律をなくすことを約束する」となり、「法律に従うことが含まれる」という説明と合いません。
+【覚えるポイント】
+・uphold the law：「法律を守る」。include：「含む」。follow the law：「法律に従う」。
+・空所のあとの文が This includes ～（これには～が含まれる）で始まるときは、This が指す内容に空所が含まれるので、～の部分が空所の意味を説明する手がかりになります。

@@ -1,0 +1,29 @@
+---
+choices: They will represent their families in an international competition. | They will learn social skills from regional volunteers. | They come from many different family backgrounds. | They have to go to various cities in Australia.
+answerText: They come from many different family backgrounds.
+reviewed: yes
+---
+【正解】3 They come from many different family backgrounds.（彼らはさまざまに異なる家庭の背景を持っている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：研究に参加している子どもたちについて正しいものはどれですか。
+1 They will represent their families in an international competition.（彼らは、国際的な大会で自分の家族を代表する。）
+2 They will learn social skills from regional volunteers.（彼らは、地域のボランティアから、人とうまく付き合う力（社会的な技能）を学ぶ。）
+3 They come from many different family backgrounds.（彼らは、さまざまに異なる家庭の背景を持っている。）
+4 They have to go to various cities in Australia.（彼らは、オーストラリアのさまざまな都市へ行かなければならない。）
+【考え方】
+参加している子どもたちがどのように選ばれたかは、第2段落に書かれています。
+In order to make sure that children from every kind of environment and background were chosen, the study found volunteers from each region.（あらゆる種類の環境と背景を持つ子どもたちが確実に選ばれるようにするために、この研究ではそれぞれの地域からボランティアを見つけた）とあります。background は「背景（育ってきた事情や家庭のようす）」、region は「地域」です。ここでの volunteers（ボランティア）は、自分から進んで研究に参加する人、つまり参加する子どもたち（とその家族）のことだと読み取れます。
+さらに The volunteers for both groups were chosen from a variety of different social and ethnic backgrounds to represent the diversity of Australia.（両方のグループのボランティアは、オーストラリアの多様性を表すように、さまざまに異なる社会的・民族的な背景の中から選ばれた）とあります。ethnic は「民族の」です。
+本文と選択肢を対にすると、次のようになります。
+本文 children from every kind of environment and background ／ chosen from a variety of different social and ethnic backgrounds（あらゆる環境と背景の子どもたち／さまざまに異なる社会的・民族的な背景から選ばれた）→ 選択肢 come from many different family backgrounds（さまざまに異なる家庭の背景を持っている）
+本文の a variety of different（さまざまに異なる）が、選択肢では many different に言いかえられています。正解は3です。
+【ほかの選択肢】
+1 本文の represent は「（オーストラリアの多様性を）表す」という意味で使われています。子どもたちが国際的な大会で家族を代表するという話はありません。
+2 本文の volunteers は、研究に参加する人として選ばれた人たちのことだと読み取れます。子どもたちに何かを教える人としては書かれていません。また social は「社会的な背景」という意味で使われていて、人とうまく付き合う力を学ぶという話は出てきません。
+4 本文では、研究者たちが参加者の家を訪ねます（The researchers visit the participants' homes）。子どもたちがさまざまな都市へ行かなければならないとは書かれていません。田舎や大都市の話は、参加者が住んでいる場所についてのものです。
+【覚えるポイント】
+・background：「背景（育ってきた事情、家庭や社会のようす）」。
+・a variety of ～：「さまざまな～」。

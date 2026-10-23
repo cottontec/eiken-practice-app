@@ -1,0 +1,31 @@
+---
+choices: specified | advertised | reminded | devoted
+answerText: devoted
+reviewed: yes
+---
+【正解】4 devoted（ささげた、注いだ）
+【和訳】
+（英文）
+Haruka wanted to enter a popular university, so she ［devoted］ all her attention to studying for the entrance exam.
+（訳）
+ハルカは人気のある大学に入りたかったので、入学試験の勉強に自分の注意のすべてを（注ぎ）ました。
+（選択肢の意味）
+1 specified：具体的に示した、はっきり決めた
+2 advertised：宣伝した
+3 reminded：思い出させた
+4 devoted：ささげた、（時間や力を）注いだ
+【考え方】
+まず見るところ：空所のあとの all her attention to studying
+she (　) all her attention to studying for the entrance exam（彼女は注意のすべてを入学試験の勉強に（　））
+空所のあとは「all her attention（彼女の注意のすべて）＋ to studying（勉強することに）」という形です。devote A to B は「AをBにささげる、AをBに注ぐ」という決まった形で、この形にぴったり合います。
+devoted all her attention to studying で「勉強に注意のすべてを注いだ」、つまり「勉強に集中した」となります。
+Haruka wanted to enter a popular university（ハルカは人気のある大学に入りたかった）
+この前半と so（だから）でつながり、「人気の大学に入りたいから、入試の勉強に全力を注いだ」という流れになります。ですから4が正解です。
+この問題の型：熟語・決まった形（devote A to B）
+【ほかの選択肢】
+1 specified は「具体的に示した、はっきり決めた」です。「注意のすべてを勉強に具体的に示した」となり、意味が通りません。
+2 advertised は「宣伝した」です。「注意のすべてを勉強に宣伝した」となり、意味が通りません。
+3 reminded は「思い出させた」です。ふつう「人」に何かを思い出させるときに使う語で、「注意のすべてに勉強を思い出させた」のような内容になってしまい、意味が通りません。
+【覚えるポイント】
+・devote A to B：「AをBにささげる、AをBに注ぐ」。空所のあとに「名詞＋ to ～」が続いているときは、その形をとる動詞かどうかを確かめると、答えを決める手がかりになります。
+・all one's attention：「（その人の）注意のすべて」。

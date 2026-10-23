@@ -1,0 +1,32 @@
+---
+choices: jealous of | confident of | limited to | identical to
+answerText: identical to
+reviewed: yes
+---
+【正解】4 identical to（～とまったく同じ、そっくりな）
+【和訳】
+（英文）
+The two cars looked ［identical to］ each other, but one cost three times as much as the other. The expensive one had far superior performance.
+（訳）
+その2台の車は、見た目がたがいに（まったく同じ）でしたが、一方の値段はもう一方の3倍でした。高いほうの車は、はるかにすぐれた性能を持っていました。
+（選択肢の意味）
+1 jealous of：～をねたんで、～をうらやんで
+2 confident of：～を確信して
+3 limited to：～に限られて
+4 identical to：～とまったく同じ、そっくりな
+【考え方】
+まず見るところ：空所の前の looked と、うしろの but one cost three times as much as the other
+The two cars looked ( ) each other（その2台の車は、見た目がたがいに（　）だった）
+look ＋様子を表す語で「～に見える」という意味です。2台の車がどう見えたかが空所に入ります。
+but one cost three times as much as the other（しかし、一方の値段はもう一方の3倍だった）
+but（しかし）があるので、前と後ろは反対の内容になります。後ろは「値段が3倍もちがう」「性能もはるかにちがう」という、2台の大きなちがいの話です。
+ですから前は「見た目は同じに見えた」という内容だと考えられます。identical to ～（～とまったく同じ）を入れると、「見た目は同じなのに、値段と性能は大きくちがう」という流れになります。ですから4が正解です。
+この問題の型：対比（見た目は同じ⇔値段・性能はちがう）
+【ほかの選択肢】
+1 jealous of は「～をねたんで、～をうらやんで」です。人の気持ちを表す語句なので、「2台の車がたがいをうらやんでいるように見えた」となり、意味が通りません。
+2 confident of は「～を確信して」です。これも人の気持ちを表す語句で、「車がたがいを確信しているように見えた」となり、意味が通りません。
+3 limited to は「～に限られて」です。「2台の車がたがいに限られているように見えた」となり、but のあとの値段のちがいとの対比になりません。
+【覚えるポイント】
+・identical to ～：「～とまったく同じ、そっくりな」。
+・three times as much as ～：「～の3倍（の量・金額）」。
+・but の後ろに「ちがい」が書かれていれば、前には「同じ・似ている」という内容が来ることが多く、空所を考える手がかりになります。

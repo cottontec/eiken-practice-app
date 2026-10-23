@@ -1,0 +1,35 @@
+---
+choices: Remains that have been illegally obtained are removed from display and given a proper burial. | Remains are displayed in ways that attempt to be informative to viewers without upsetting or shocking them. | The institutions agree to use remains only for research unless permission for other uses is given by family members. | The institutions display the remains for a certain amount of time and then return them to their places of origin.
+answerText: Remains are displayed in ways that attempt to be informative to viewers without upsetting or shocking them.
+reviewed: yes
+---
+【正解】2 Remains are displayed in ways that attempt to be informative to viewers without upsetting or shocking them.（遺体は、見学者を動揺させたり衝撃を与えたりせずに、見学者に情報を伝えようとするやり方で展示される。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one recent policy introduced by some institutions regarding human remains?（人間の遺体に関して、一部の施設が最近取り入れた方針の一つは何か。）
+1 Remains that have been illegally obtained are removed from display and given a proper burial.（不法に手に入れられた遺体は、展示から外され、きちんと埋葬される。）
+2 Remains are displayed in ways that attempt to be informative to viewers without upsetting or shocking them.（遺体は、見学者を動揺させたり衝撃を与えたりせずに、見学者に情報を伝えようとするやり方で展示される。）
+3 The institutions agree to use remains only for research unless permission for other uses is given by family members.（施設は、家族からほかの使い方の許可が出ないかぎり、遺体を研究のためだけに使うことに同意する。）
+4 The institutions display the remains for a certain amount of time and then return them to their places of origin.（施設は、一定の期間だけ遺体を展示し、そのあと元の場所に返す。）
+【考え方】
+まず見るところ：第3段落の more institutions have begun adopting policies to ensure they are displayed respectfully
+設問の institutions は「施設（博物館など）」、policy は「方針」です。第3段落の後半に、施設が取り入れ始めた方針が書かれています。
+more institutions have begun adopting policies to ensure they are displayed respectfully（それらが敬意をもって展示されるようにするための方針を取り入れ始めた施設が増えている）
+その中身が、次の文から具体的に書かれています。
+One priority of these institutions is to make sure educational and cultural information is communicated clearly.（こうした施設が重視していることの一つは、教育的・文化的な情報がはっきりと伝わるようにすることである）
+Many also use signs to prepare visitors for what they will see, and display mummies under soft lighting to create a peaceful, tomblike setting.（また多くの施設は、見学者がこれから目にするものに心の準備ができるよう案内板を使ったり、柔らかい照明の下でミイラを展示して、静かでお墓の中のような雰囲気を作り出したりしている）
+By taking care not to offend visitors（見学者を不快にさせないように気を配ることで）
+本文と選択肢を対にすると、次のようになります。
+本文 information is communicated clearly（情報がはっきりと伝わる）＝ 選択肢 informative to viewers（見学者に情報を伝える）
+本文 prepare visitors for what they will see、taking care not to offend visitors（心の準備をさせる、不快にさせないよう気を配る）→ 選択肢 without upsetting or shocking them（動揺させたり衝撃を与えたりせずに）
+upset は「動揺させる、気持ちを乱す」です。ですから2が正解です。
+この問題の型：言いかえ（communicated clearly ＝ informative、not to offend → without upsetting）／具体例とまとめ
+【ほかの選択肢】
+1 本文には、不法に手に入れた遺体を展示から外して埋葬する、という方針は書かれていません。
+3 本文と食い違います。施設は、教育上の宝を keeping such educational treasures from public view（人々の目から遠ざけておく）のではなく、敬意をもって展示する方針をとっています。研究のためだけに使う、家族の許可を得る、という話もありません。
+4 本文には、一定の期間だけ展示して元の場所に返す、という方針は書かれていません。インカのミイラは、アルゼンチンの博物館で展示されていると書かれているだけです。
+【覚えるポイント】
+・informative：「情報を与える、ためになる」。communicate information clearly（情報をはっきり伝える）の言いかえになります。
+・「方針」をたずねる設問では、policies という語のあとに続く具体的な取り組み（ここでは情報を伝える・心の準備をさせる・照明を工夫する）をまとめた選択肢を選ぶことが手がかりになります。

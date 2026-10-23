@@ -1,0 +1,30 @@
+---
+choices: sign up for one of the center's personal training sessions. | arrange to be in a feature in an online magazine. | learn about participating in a health seminar. | suggest new content for the center's website.
+answerText: arrange to be in a feature in an online magazine.
+reviewed: yes
+---
+【正解】2 arrange to be in a feature in an online magazine.（オンラインマガジンの特集に載るよう手配する。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Sarah Johnson should talk to a staff member at the front desk to（サラ・ジョンソンが受付の職員と話すとよいのは、～ためである。）
+1 sign up for one of the center's personal training sessions.（センターのパーソナルトレーニングの1つに申し込む）
+2 arrange to be in a feature in an online magazine.（オンラインマガジンの特集に載るよう手配する）
+3 learn about participating in a health seminar.（健康セミナーに参加することについて知る）
+4 suggest new content for the center's website.（センターのウェブサイトに新しい内容を提案する）
+【考え方】
+まず見るところ：第2段落の最後の文 If you're interested in being the subject of one of these stories, speak to someone at our front desk on your next visit.
+設問の talk to a staff member at the front desk（受付の職員と話す）と同じ内容が、本文では speak to someone at our front desk（受付の者に声をかける）という言い方で出てきます。
+If you're interested in being the subject of one of these stories, speak to someone at our front desk on your next visit.（これらの物語の1つで取り上げられることに興味がありましたら、次に来館されたときに受付の者に声をかけてください）
+these stories は、直前の文の Member Spotlight Stories（メンバー・スポットライト・ストーリーズ）のことです。これは、新しいオンラインマガジンの特集で、会員のフィットネスの体験談を紹介するものです。
+本文 being the subject of one of these stories（これらの物語の1つで取り上げられること）＝ 選択肢 be in a feature in an online magazine（オンラインマガジンの特集に載ること）
+subject は「（話や記事で）取り上げられる人、題材」という意味です。受付で話すのは、特集に載るための手続きのためだと分かります。ですから2が正解です。
+この問題の型：言いかえ（being the subject of these stories ＝ be in a feature）／指示語（these stories ＝ Member Spotlight Stories）
+【ほかの選択肢】
+1 パーソナルトレーニングの申し込み方は、本文に To sign up for the personal training session or the health seminar, please follow the instructions on our website.（パーソナルトレーニングや健康セミナーに申し込むには、ウェブサイトの案内に従ってください）とあります。受付ではなく、ウェブサイトで申し込みます。
+3 健康セミナーについても、1と同じ文に「ウェブサイトの案内に従ってください」とあります。受付で話すようにとは書かれていません。
+4 新しいサービスや加えてほしい機能についての意見は、Just reply to this e-mail.（このメールに返信するだけで結構です）とあり、受付ではなくメールで伝えます。また、ウェブサイトの内容を提案する話ではありません。
+【覚えるポイント】
+・be the subject of ～：「～で取り上げられる、～の題材になる」。
+・「どこで（だれに）何をするか」をたずねる設問では、本文で場所や方法（front desk・website・e-mail）ごとに何をするのかを整理すると、選択肢を見分ける手がかりになります。

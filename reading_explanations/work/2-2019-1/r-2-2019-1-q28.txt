@@ -1,0 +1,29 @@
+---
+choices: She needs to write articles for a college class. | She wants to get some practical writing skills. | She hopes to get a free copy of the magazine. | She saw an interesting article in it last month.
+answerText: She wants to get some practical writing skills.
+reviewed: yes
+---
+【正解】2 She wants to get some practical writing skills.（彼女は、実際に役立つ文章を書く力を身につけたいと思っている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ヘンズリーさんはなぜ『グリーンジン』に記事を書きたいのですか。
+1 She needs to write articles for a college class.（彼女は、大学の授業のために記事を書く必要がある。）
+2 She wants to get some practical writing skills.（彼女は、実際に役立つ文章を書く力を身につけたいと思っている。）
+3 She hopes to get a free copy of the magazine.（彼女は、その雑誌を1冊無料でもらいたいと思っている。）
+4 She saw an interesting article in it last month.（彼女は、先月その雑誌でおもしろい記事を見た。）
+【考え方】
+設問は「ヘンズリーさんが書きたい理由」です。メールの中で、ヘンズリーさん自身がEメールで伝えた内容を探します。第2段落の最初にあります。
+You said in your e-mail that you'd like to write for us because you're interested in the environment and want to get some writing experience.（あなたはEメールで、環境に関心があり、文章を書く経験を積みたいので、私たちの雑誌に書きたいと言っていた）
+because のあとに理由が2つあります。「環境に関心がある」と「文章を書く経験を積みたい」です。続く文でも、メリックさんは Becoming a volunteer writer is a great way for a college student like yourself to improve your skills!（ボランティアの書き手になることは、あなたのような大学生が力を伸ばすのにとてもよい方法だ）と言っています。
+本文と選択肢を対にすると、次のようになります。
+本文 want to get some writing experience（文章を書く経験を積みたい）→ 選択肢 wants to get some practical writing skills（実際に役立つ文章を書く力を身につけたい）
+practical は「実際に役立つ、実践的な」という意味です。実際に記事を書く経験をして書く力を伸ばしたい、という内容が言いかえられています。ですから、2が正解です。
+【ほかの選択肢】
+1 ヘンズリーさんが a college student（大学生）であることは書かれていますが、大学の授業のために記事を書く必要があるとは書かれていません。
+3 本文に出てくる「無料のもの」は、記事にする製品の free sample（無料のサンプル）です。雑誌を無料でもらいたいという話はありません。また、雑誌はもともと読者に無料で提供されています。
+4 先月その雑誌でおもしろい記事を見たという話は、本文にありません。
+【覚えるポイント】
+・get some writing experience：「文章を書く経験を積む」。
+・practical：「実際に役立つ、実践的な」。

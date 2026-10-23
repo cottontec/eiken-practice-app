@@ -1,0 +1,32 @@
+---
+choices: troop | proverb | cliff | duty
+answerText: cliff
+reviewed: yes
+---
+【正解】3 cliff（がけ）
+【和訳】
+（英文）
+Cindy had excellent views of the ocean and nearby islands as she stood at the edge of a tall ［cliff］. Looking down, she could see waves crashing on the rocks far below.
+（訳）
+シンディは高い（がけ）のふちに立っていたとき、海と近くの島々のすばらしいながめを目にしました。下を見ると、はるか下の岩に波が打ちつけているのが見えました。
+（選択肢の意味）
+1 troop：（兵士の）部隊、（人や動物の）群れ
+2 proverb：ことわざ
+3 cliff：がけ
+4 duty：義務、務め
+【考え方】
+まず見るところ：空所の前の the edge of a tall と、次の文の Looking down
+空所の前は次のとおりです。
+she stood at the edge of a tall ( )（彼女は高い（　）のふちに立っていた）
+edge は「ふち、はし」、tall は「高い」です。空所には、ふちに立つことができる、高さのある場所が入ります。
+次の文も見ます。
+Looking down, she could see waves crashing on the rocks far below.（下を見ると、はるか下の岩に波が打ちつけているのが見えた）
+海が見え、真下のずっと低いところで波が岩にぶつかっているのですから、彼女は海べの高いがけの上にいると考えられます。cliff は「がけ」なので、3が正解です。
+この問題の型：語の意味・組み合わせ（the edge of a tall cliff＝高いがけのふち）
+【ほかの選択肢】
+1 troop は「（兵士の）部隊、群れ」です。「高い部隊のふちに立っていた」となり、意味が通りません。
+2 proverb は「ことわざ」です。ことわざは立つことのできる場所ではないので、「高いことわざのふち」では意味が通りません。
+4 duty は「義務、務め」です。「高い義務のふちに立っていた」となり、次の文の、下を見ると波が見えたという話とつながりません。
+【覚えるポイント】
+・cliff：「がけ」。the edge of a cliff で「がけのふち」です。
+・場所を表す語を選ぶ問題では、そのあとの「下を見ると何が見えたか」のような景色の説明が、どんな場所かを決める手がかりになります。

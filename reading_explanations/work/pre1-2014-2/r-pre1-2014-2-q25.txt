@@ -1,0 +1,33 @@
+---
+choices: driven out | measured up | stood around | hammered out
+answerText: measured up
+reviewed: yes
+---
+【正解】2 measured up（〔期待や基準に〕かなった、ふさわしい働きをした）
+【和訳】
+（英文）
+Everyone had high expectations when the new prime minister was elected, but after his first year in office, public opinion was that he had not ［measured up］ to the job.
+（訳）
+新しい首相が選ばれたとき、だれもが大きな期待を寄せていましたが、在任1年目が過ぎると、世間の意見は、彼はその職務に（ふさわしい働きをして）いなかった、というものでした。
+（選択肢の意味）
+1 driven out：追い出した
+2 measured up：（measure up to ～ で）～の期待や基準にかなった、～にふさわしい働きをした
+3 stood around：何もせずに立っていた
+4 hammered out：（話し合って計画などを）まとめ上げた
+【考え方】
+まず見るところ：文の前半の high expectations と but、空所の後ろの to the job
+文の前半は次のとおりです。
+Everyone had high expectations when the new prime minister was elected（新しい首相が選ばれたとき、だれもが大きな期待を寄せていた）
+prime minister は「首相」、expectation は「期待」という意味です。その後に but（しかし）が続くので、後半は「期待どおりではなかった」という内容になると考えられます。
+後半は次のとおりです。
+after his first year in office, public opinion was that he had not (　) to the job（在任1年目が過ぎると、世間の意見は、彼はその職務に（　）していなかった、というものだった）
+public opinion は「世論（世の中の人々の意見）」、in office は「在任中で（その役職についていて）」という意味です。not があるので、空所の語句は「職務にふさわしい働きをした」というよい意味になり、全体で「ふさわしい働きをしていなかった」となるはずです。
+measure up to ～ は「～の期待や基準にかなう、～にふさわしい」という意味です。空所の後ろの to the job ともつながり、「期待されたが、職務にふさわしい働きはしていなかった」となるので、2が正解です。
+この問題の型：対比（high expectations ⇔ but 期待はずれ）
+【ほかの選択肢】
+1 driven out は「追い出した」という意味です。had not driven out to the job（職務へ追い出していなかった）となり、何を追い出すのかも分からず、意味が通りません。
+3 stood around は「何もせずにぶらぶらと立っていた」という意味で、to the job（職務に）と結びつく言い方ではありません。had not stood around to the job では、意味が通りません。
+4 hammered out は「（話し合って計画などを）まとめ上げた」という意味で、何をまとめ上げたのかを表す語が必要です。ここでは to the job が続くだけで、意味が通りません。
+【覚えるポイント】
+・measure up to ～：「～の期待や基準にかなう、～にふさわしい」。
+・空所の後ろの前置詞（ここでは to）までふくめて1つの熟語になるかを確かめると、答えを選ぶ手がかりになります。

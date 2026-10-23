@@ -1,0 +1,34 @@
+---
+choices: a protected area designation can easily be removed to allow environmentally damaging activities to occur. | agreements such as the Antarctic Treaty System are necessary in resource-rich areas of the world. | innovations in drilling operations have made it more cost-effective to extract oil in areas with severe climates. | the introduction of outside species can fundamentally change local ecosystems over a short period of time.
+answerText: innovations in drilling operations have made it more cost-effective to extract oil in areas with severe climates.
+reviewed: yes
+---
+【正解】3 innovations in drilling operations have made it more cost-effective to extract oil in areas with severe climates.（掘削作業の技術革新によって、厳しい気候の地域で石油を取り出すことが、より費用に見合うものになったこと。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：The example of the North Slope of Alaska illustrates how（アラスカのノーススロープの例が示しているのは、～ということである。）
+1 a protected area designation can easily be removed to allow environmentally damaging activities to occur.（環境に害を与える活動ができるように、保護区域の指定が簡単に取り消されうること。）
+2 agreements such as the Antarctic Treaty System are necessary in resource-rich areas of the world.（南極条約体制のような取り決めが、世界の資源が豊かな地域で必要であること。）
+3 innovations in drilling operations have made it more cost-effective to extract oil in areas with severe climates.（掘削作業の技術革新によって、厳しい気候の地域で石油を取り出すことが、より費用に見合うものになったこと。）
+4 the introduction of outside species can fundamentally change local ecosystems over a short period of time.（外来の種が持ち込まれると、その土地の生態系が短い期間で根本から変わりうること。）
+【考え方】
+まず見るところ：第2段落の Technological advances in the oil industry have made it more economical to drill in harsh environments
+ノーススロープの例は、第2段落の後半の石油の話の中に出てきます。例の直前の文が、この例で示したいことです。
+Technological advances in the oil industry have made it more economical to drill in harsh environments, and oil companies are pushing to expand their operations.（石油産業の技術の進歩によって、厳しい環境で掘ることがより経済的になり、石油会社は事業を広げようと強く働きかけている）
+For example, drilling is currently under way in Alaska's North Slope, an area of sub-zero temperatures where obtaining oil was once economically impractical.（たとえば、アラスカのノーススロープでは、現在掘削が行われている。そこは気温が氷点下の地域で、かつては石油を手に入れることが経済的に見合わなかった場所だ）
+harsh は「厳しい」、sub-zero は「氷点下の」、impractical は「実際的でない、見合わない」という意味です。「かつては見合わなかったが、今は掘っている」ということで、技術の進歩で厳しい環境でも掘れるようになったことの例になっています。
+本文と選択肢3を対にすると、次のようになります。
+本文 Technological advances in the oil industry（石油産業の技術の進歩）＝ 選択肢 innovations in drilling operations（掘削作業の技術革新）
+本文 more economical to drill（掘ることがより経済的）＝ 選択肢 more cost-effective to extract oil（石油を取り出すことがより費用に見合う）
+本文 harsh environments／sub-zero temperatures（厳しい環境／氷点下の気温）＝ 選択肢 areas with severe climates（厳しい気候の地域）
+ですから3が正解です。
+この問題の型：具体例とまとめ（For example の前の文＝例が示すこと）／言いかえ（economical ＝ cost-effective）
+【ほかの選択肢】
+1 本文にありません。ノーススロープが保護区域だったとも、その指定が取り消されたとも書かれていません。保護区域の話は第3段落の南極大陸についての内容です。
+2 本文にありません。ノーススロープの例は、技術の進歩で石油が掘りやすくなったことを示すもので、南極条約体制のような取り決めが必要だということを示すために使われてはいません。
+4 話題が違います。外来の種の話は第2段落の前半に出てきますが、ノーススロープの例は石油の掘削についてのもので、生態系の変化の例ではありません。
+【覚えるポイント】
+・cost-effective：「費用に見合う、効率のよい」。economical（経済的な、安上がりな）の言いかえとして使われることがあります。
+・For example（たとえば）で始まる具体例について「何を示しているか」をたずねられたら、For example の直前の文がその答えになることが多いので、まずそこを読みます。

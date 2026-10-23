@@ -1,0 +1,30 @@
+---
+choices: The Romans thought that important people should not be allowed to grow them. | Roman boys would never shave their faces until they had grown long beards. | Beards were unpopular for around 300 years before becoming popular again. | Their attitudes had an effect on fashions in Europe during the 17th century.
+answerText: Beards were unpopular for around 300 years before becoming popular again.
+reviewed: yes
+---
+【正解】3 Beards were unpopular for around 300 years before becoming popular again.（ひげは約300年の間人気がなかったが、その後再び人気になった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：古代ローマの人々のひげに対する考え方について、驚くべきことは何でしたか。
+1 The Romans thought that important people should not be allowed to grow them.（ローマの人々は、重要な人々がひげを生やすことは許されるべきではないと考えていた。）
+2 Roman boys would never shave their faces until they had grown long beards.（ローマの男の子は、長いひげが生えるまでは決して顔をそらなかった。）
+3 Beards were unpopular for around 300 years before becoming popular again.（ひげは約300年の間人気がなかったが、その後再び人気になった。）
+4 Their attitudes had an effect on fashions in Europe during the 17th century.（彼らの考え方は、17世紀のヨーロッパの流行に影響を与えた。）
+【考え方】
+第3段落は What is perhaps more surprising is that attitudes to beards have not only varied from culture to culture but also from time to time.（おそらくさらに驚くべきことは、ひげに対する考え方が、文化によって異なってきただけでなく、時代によっても異なってきたということだ）で始まります。not only A but also B は「AだけでなくBも」です。つまり、驚くべきことは「時代によって考え方が変わったこと」で、その例として古代ローマの話が続きます。
+Then, beards became unpopular, and for about three centuries, important Romans never had beards. However, beards suddenly became fashionable once more.（その後、ひげは人気がなくなり、約3世紀の間、重要なローマ人たちはまったくひげを生やさなかった。しかし、ひげは突然、再び流行するようになった）
+century は「100年、世紀」なので、three centuries は約300年です。fashionable は「流行している」、once more は「もう一度、再び」です。
+本文と選択肢を対にすると、次のようになります。
+本文 beards became unpopular, and for about three centuries ＝ 選択肢 Beards were unpopular for around 300 years
+本文 beards suddenly became fashionable once more ＝ 選択肢 before becoming popular again
+「約3世紀」が「約300年」に、「再び流行した」が「再び人気になった」に言いかえられています。ですから3が正解です。
+【ほかの選択肢】
+1 本文の important Romans never had beards（重要なローマ人たちはまったくひげを生やさなかった）は、ひげが人気のなかった時代の様子です。ひげを生やすことが許されなかった、つまり禁止されていたとは書かれていません。言い切りすぎです。
+2 本文の never shaved their faces until about 100 B.C.（紀元前100年ごろまで、まったく顔をそらなかった）は、時代の話です。男の子が長いひげが生えるまで顔をそらなかったという、年齢の話ではありません。
+4 本文には A similar thing happened later in Europe.（同じようなことが、のちにヨーロッパでも起こった）とあります。ヨーロッパでも似たことが起きたというだけで、ローマの人々の考え方がヨーロッパの流行に影響を与えたとは書かれていません。
+【覚えるポイント】
+・century：「100年、世紀」。three centuries は約300年です。
+・once more ＝ again：「もう一度、再び」。

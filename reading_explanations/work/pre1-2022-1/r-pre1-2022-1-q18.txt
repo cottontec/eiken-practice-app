@@ -1,0 +1,31 @@
+---
+choices: prestigious | spontaneous | cordial | petty
+answerText: prestigious
+reviewed: yes
+---
+【正解】1 prestigious（名門の、一流の）
+【和訳】
+（英文）
+Gaspar applied to go to a ［prestigious］ university. Unfortunately, his grades were not good enough, so he had to go to a lesser-known one.
+（訳）
+ガスパー（ガスパールとも）は（名門の）大学に入るために出願した。残念ながら、成績が十分ではなかったので、その大学より名の知られていない大学に行かなければならなかった。
+（選択肢の意味）
+1 prestigious：名門の、一流の（評判が高く、尊敬されている）
+2 spontaneous：自然に起こる、その場の思いつきの
+3 cordial：心のこもった、親切な
+4 petty：ささいな、つまらない
+【考え方】
+まず見るところ：次の文の his grades were not good enough と a lesser-known one
+ガスパーが出願した大学がどんな大学だったかは、次の文から分かります。
+his grades were not good enough, so he had to go to a lesser-known one（成績が十分ではなかったので、それより名の知られていない大学に行かなければならなかった）
+lesser-known は「より知られていない」という比較の言い方です。one は university を指します。
+成績が足りなかったので、出願した大学ではなく、それより有名でない大学に行くことになりました。
+ということは、出願したのは成績がよくないと入れない、有名で評判の高い大学だったと考えられます。prestigious は「名門の、一流の」なので、1が正解です。
+この問題の型：対比（名門の大学⇔それより名の知られていない大学）
+【ほかの選択肢】
+2 spontaneous は「その場の思いつきの」です。「その場の思いつきの大学」では意味が通らず、lesser-known との対比にもなりません。
+3 cordial は「心のこもった、親切な」です。成績が足りずに入れなかったことや、lesser-known（より知られていない）との対比とつながりません。
+4 petty は「ささいな、つまらない」です。つまらない大学に成績が足りずに入れず、それより名の知られていない大学に行った、となり、話がつながりません。
+【覚えるポイント】
+・prestigious：「名門の、一流の」。lesser-known：「（ほかと比べて）あまり知られていない」。
+・あとの文に lesser-known のような比較の言い方があるときは、空所の語がその反対（ここでは「よく知られた、評判の高い」）になっていることが多いので、比べる相手を確かめます。

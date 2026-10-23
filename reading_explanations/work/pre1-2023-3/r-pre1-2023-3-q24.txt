@@ -1,0 +1,30 @@
+---
+choices: sends off | measures up | knuckles down | sums up
+answerText: measures up
+reviewed: yes
+---
+【正解】2 measures up（〈基準・期待に〉達する、かなう）
+【和訳】
+（英文）
+The manager interviewed several applicants, but he has yet to find someone who ［measures up］ to his standards for the job.
+（訳）
+その責任者は何人かの応募者と面接したが、その仕事についての自分の基準に（達する）人をまだ見つけていない。
+（選択肢の意味）
+1 sends off：送り出す、発送する
+2 measures up：（基準・期待に）達する、かなう
+3 knuckles down：本気で取りかかる
+4 sums up：まとめる、要約する
+【考え方】
+まず見るところ：空所の後ろの to his standards for the job
+責任者は何人かと面接しましたが、まだ見つけていない人がいます。どんな人かが空所をふくむ部分です。
+someone who (　) to his standards for the job（その仕事についての自分の基準に〇〇する人）
+standards は「基準（これくらいはできてほしいという目安）」です。面接をしても見つからないのは、基準に届く人です。
+measure up to ～ は「（基準・期待）に達する」なので、2が正解です。has yet to ～ は「まだ～していない」です。
+この問題の型：熟語・決まった形（measure up to ～）
+【ほかの選択肢】
+1 sends off は「送り出す、発送する」で、あとに送るものを置いて使います。「仕事の基準へ送り出す人」となり、意味が通りません。
+3 knuckles down は「本気で取りかかる」で、ふつう knuckle down to ～（～に本気で取りかかる）と使います。「自分の基準に本気で取りかかる人」となり、責任者が人を選ぶ基準の話と合いません。
+4 sums up は「まとめる、要約する」です。「自分の基準にまとめる人」となり、意味が通りません。
+【覚えるポイント】
+・measure up to ～：「（基準・期待）に達する、かなう」。standards：「基準」。
+・空所の後ろの to ～（ここでは to his standards）は、どの句動詞（動詞＋up などの組み合わせで1つの意味になる語句）と組み合わさるかを決める手がかりになります。

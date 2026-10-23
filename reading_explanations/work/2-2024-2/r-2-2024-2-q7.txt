@@ -1,0 +1,31 @@
+---
+choices: dawn | faith | immigrant | minister
+answerText: minister
+reviewed: yes
+---
+【正解】4 minister（大臣）
+【和訳】
+（英文）
+The ［minister］ of education is responsible for ensuring that the country's schools, universities, and other places of learning are being managed well.
+（訳）
+教育（大臣）は、国の学校や大学、そのほかの学びの場がきちんと運営されているようにする責任を負っています。
+（選択肢の意味）
+1 dawn：夜明け
+2 faith：信頼、信仰
+3 immigrant：移民（外国から移り住んできた人）
+4 minister：大臣
+【考え方】
+まず見るところ：空所のあとの is responsible for ensuring that ～
+is responsible for ～（～に責任がある、～を担当している）
+責任を負うのは、ふつうは人や組織です。
+ensuring that the country's schools, universities, and other places of learning are being managed well（国の学校や大学、そのほかの学びの場がきちんと運営されているようにすること）
+ensure that ～ は「確実に～であるようにする」という意味です。国の学校全体に責任を持つのですから、国の大切な仕事をまかされた人だと考えられます。
+minister は「大臣」という意味です。the minister of education で「教育大臣」となり、国の学校がうまく運営されるようにする責任を負う人として、文の内容に合います。ですから4が正解です。
+この問題の型：語の意味・組み合わせ（the minister of education）
+【ほかの選択肢】
+1 dawn は「夜明け」です。the dawn of education は「教育の始まり」という意味になり、学校の運営に責任を負う人を表せません。
+2 faith は「信頼、信仰」です。「教育への信頼が、学校の運営に責任を負っている」となり、意味が通りません。
+3 immigrant は「移民（外国から移り住んできた人）」です。人を表す語ですが、「教育の移民」では意味が通らず、国の学校に責任を負う立場の人も表せません。
+【覚えるポイント】
+・minister：「大臣」。the minister of education で「教育大臣」。
+・空所の名詞が主語のときは、そのあとの動詞の部分（ここでは is responsible for）を見て、「人」が入るのか「もの」が入るのかを考えると選びやすくなります。

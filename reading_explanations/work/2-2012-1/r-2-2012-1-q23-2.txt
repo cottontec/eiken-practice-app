@@ -1,0 +1,22 @@
+---
+choices: it | takes | he will | for | granted that
+answerText: it
+order: 2 1 4 5 3
+reviewed: yes
+---
+【正解】1 it（この問題の2番目）
+【完成文】
+Ben is always doing nice things for Karen, but she never says thank you to him. She ( takes it for granted that he will ) always be there to help her.
+並べ方：2 takes → 1 it → 4 for → 5 granted that → 3 he will（2番目は1、4番目は5）
+【和訳】
+ベンはいつもカレンのために親切なことをしていますが、彼女は彼に一度もありがとうと言いません。彼女は、彼がいつでも自分を助けるためにそばにいてくれるのを、当たり前だと思っているのです。
+【考え方】
+選択肢の takes、it、for、granted that を見ると、take it for granted that ～（～ということを当然のことと思う）という決まった言い方が作れます。granted は「認められた」という意味で、for granted で「当然のこととして」となります。
+この言い方の it は、あとに来る that ～ の内容を指しています。初めに it を置いて、その中身を that 以下で説明する形です。
+主語 She のあとに 2 takes を置き、1 it、4 for、5 granted that と続けます。that のあとには「何を当然と思っているか」の文が来るので、3 he will を置きます。he will のあとに空所の外の always be there to help her（いつでも彼女を助けるためにそこにいる）が続きます。
+前の文では、ベンがいつも親切にしているのに、カレンは一度もお礼を言わないと書かれています。「彼がいつでも助けてくれるのを当たり前だと思っている」という内容は、お礼を言わない様子とつながります。
+takes for granted it that のように it を後ろに置くと、決まった言い方の形がくずれてしまうので注意しましょう。
+2番目に来るのは 1 it です。take it for granted that ～ では、it が takes のすぐあとに来て、that 以下の内容を前もって表しているからです。
+【覚えるポイント】
+・take it for granted that ～：「～ということを当然のことと思う」。
+・be there to help ～：「～を助けるためにそばにいる」。

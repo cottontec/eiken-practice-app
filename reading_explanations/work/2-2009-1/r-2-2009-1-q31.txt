@@ -1,0 +1,25 @@
+---
+choices: connect | suggest | prevent | repeat
+answerText: prevent
+reviewed: yes
+---
+【正解】3 prevent（防ぐ）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 connect：～をつなぐ
+2 suggest：～を提案する、それとなく示す
+3 prevent：～を防ぐ
+4 repeat：～をくり返す
+【考え方】
+空所は第2段落の初め、To (　) such results, power companies employ experts to predict exactly how much electricity should be produced at any time.（そのような結果を〜するために、電力会社は、どんなときにどれだけの電気を作るべきかを正確に予測する専門家を雇っている）にあります。employ は「雇う」、predict は「予測する」という意味です。
+such results（そのような結果）が何を指すかを、前の段落で確かめます。第1段落の最後に、作りすぎると the energy is wasted and the extra supply can damage the electric-power system（エネルギーがむだになり、余分な供給が電力のしくみをいためることがある）、少なすぎると people find it difficult to carry on with their daily lives（人々はふだんの生活を続けるのが難しくなる）とあります。どちらも困った結果です。
+困った結果に対して、電力会社は専門家を雇って正確に予測しようとしています。その目的は、困った結果が起こらないようにすることです。prevent は「防ぐ」という意味なので、「そのような結果を防ぐために」となり、3が正解です。
+【ほかの選択肢】
+1 connect は「つなぐ」です。「そのような結果をつなぐために専門家を雇う」では意味が通りません。
+2 suggest は「提案する、それとなく示す」です。電力会社は困った結果を「提案」したいわけではないので、合いません。
+4 repeat は「くり返す」です。「むだや生活の困りごとをくり返すために専門家を雇う」となり、目的が逆になってしまいます。
+【覚えるポイント】
+・prevent：「防ぐ」。prevent A from ～ing（Aが～するのを防ぐ）の形でもよく使います。
+・To ～, ...：文の初めの To ～ は「～するために」と目的を表すことがあります。

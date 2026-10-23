@@ -1,0 +1,29 @@
+---
+choices: The cost of salt is likely to increase in the near future. | Food products already provide clear information to customers. | Research shows that the public is against stricter controls. | Low-salt products are starting to become popular.
+answerText: Food products already provide clear information to customers.
+reviewed: yes
+---
+【正解】2 Food products already provide clear information to customers.（食品は、すでに客にはっきりとした情報を示している。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：食品業界がAMAの勧告に反対している理由の1つは何ですか。
+1 The cost of salt is likely to increase in the near future.（塩の値段が近いうちに上がりそうだ。）
+2 Food products already provide clear information to customers.（食品は、すでに客にはっきりとした情報を示している。）
+3 Research shows that the public is against stricter controls.（研究によると、一般の人々はより厳しい規制に反対している。）
+4 Low-salt products are starting to become popular.（減塩製品が人気になり始めている。）
+【考え方】
+食品業界の反対の理由は、第3段落に書かれています。
+まず One reason, of course, is the huge size of the salt market（理由の1つは、もちろん、塩の市場がとても大きいことだ）とあり、続いて But there are other reasons.（しかし、ほかにも理由がある）と述べています。
+そのほかの理由の1つ目が、As the food industry points out, the amount of salt each product contains is clearly printed on the package.（食品業界が指摘するように、それぞれの製品に含まれる塩の量は包装にはっきりと印刷されている）です。point out は「指摘する」という意味です。
+つまり食品業界は、「塩の量はもう包装に書いてあるのだから、客は自分で判断できる。新しい規制はいらない」と考えているのです。本文と選択肢は次のように対応しています。
+本文 the amount of salt each product contains is clearly printed on the package（それぞれの製品の塩の量は包装にはっきり印刷されている）＝ 選択肢 Food products already provide clear information to customers（食品はすでに客にはっきりとした情報を示している）
+正解は2です。
+【ほかの選択肢】
+1 本文には、塩の市場が年間3億4,000万ドルと大きいことは書かれていますが、塩の値段が上がりそうだという話はありません。本文にない内容なので、誤りです。
+3 本文に出てくる研究（Research）は、人々がとる塩の75パーセント以上が加工食品やレストランの食事から来ている、という内容です。一般の人々が厳しい規制に反対しているという研究は書かれていないので、誤りです。
+4 本文には the public does not seem to like them well enough to buy them very often（一般の人々は減塩版を、ひんぱんに買うほどには気に入っていないようだ）とあります。減塩製品は人気が出ていないので、本文と反対の内容です。
+【覚えるポイント】
+・point out ～：「～を指摘する」。
+・oppose ～：「～に反対する」。設問の opposes と本文の strongly opposes（強く反対している）が対応しています。

@@ -1,0 +1,22 @@
+---
+choices: need | up | to | your | back
+answerText: to
+order: 1 3 5 2 4
+reviewed: yes
+---
+【正解】3 to（この問題の2番目）
+【完成文】
+B: Well, you'll ( need to back up your ) ideas with facts, so I suggest you go to the library and look for information about your topic.
+並べ方：1 need → 3 to → 5 back → 2 up → 4 your（2番目は3、4番目は2）
+【和訳】
+A：エリクソン先生、来月の発表に向けて、私たちはどのように準備すればよいですか。
+B：そうですね、自分の考えを事実で裏づける必要があるでしょう。ですから、図書館に行って、自分のテーマについての情報を探すことをすすめます。
+【考え方】
+まず、Bの文の後半を見ます。so I suggest you go to the library and look for information about your topic（だから、図書館に行ってテーマについての情報を探すことをすすめる）とあります。so（だから）の前には、図書館で情報を探す理由が入るはずです。空所のあとの ideas with facts（事実を使って考えを）もヒントになります。
+次に、空所の前の you'll（you will の短い形）に注目します。will のあとには動詞の元の形がくるので、1 need を置きます。need to ～ で「～する必要がある」なので、そのあとに 3 to を続けます。したがって2番目は3 to です。
+to のあとには動詞の元の形がきます。5 back と 2 up を合わせると back up ～（～を裏づける、支える）という言い方になります。最後に 4 your を置くと、空所のあとの ideas とつながり、back up your ideas with facts（自分の考えを事実で裏づける）となります。
+「考えを事実で裏づける必要がある、だから図書館で情報を探しなさい」となり、so の前後がきちんとつながります。
+まちがえやすいのは、you'll to need … のように to を need の前に置く並べ方です。will のあとに to は置けないので、文になりません。
+【覚えるポイント】
+・need to ～：「～する必要がある」。
+・back up ～ with …：「～を…で裏づける」。自分の意見を証拠で支えるときに使います。

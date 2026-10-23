@@ -1,0 +1,27 @@
+---
+choices: were buying | buying | might buy | buy
+answerText: were buying
+reviewed: yes
+---
+【正解】1 were buying（買っているところだった）
+【和訳】
+（英文）
+The train left the station while Tim and Janet ［were buying］ some coffee for the journey. They had to wait 30 minutes for the next one.
+（訳）
+ティムとジャネットが旅のためにコーヒーを（買っている）間に、列車は駅を出発しました。2人は次の列車を30分待たなければなりませんでした。
+（選択肢の意味）
+1 were buying：買っているところだった（過去進行形）
+2 buying：買っている（-ing 形だけ）
+3 might buy：買うかもしれない
+4 buy：買う（現在形）
+【考え方】
+まず文全体の時を確かめます。The train left the station（列車は駅を出発した）の left は leave の過去形で、続く文の had to wait（待たなければならなかった）も過去です。過去の出来事の話だと分かります。
+次に while に注目します。while ～ は「～している間に」という意味で、ある出来事が起きたときに、ちょうど続いていた動作を表します。ここでは、列車が出発したとき、ティムとジャネットはちょうどコーヒーを買っている最中だった、という意味になります。
+過去のある時点で「～しているところだった」を表すには、過去進行形（was / were ＋ -ing の形）を使います。主語は Tim and Janet の2人なので were を使い、were buying となります。2人がコーヒーを買っている間に列車が出てしまい、次の列車を30分待つことになった、という流れにも合います。1が正解です。
+【ほかの選択肢】
+2 buying は -ing 形だけで、be 動詞（were）がありません。Tim and Janet の後ろに動詞として置くことができず、文の形が成り立ちません。
+3 might buy は「買うかもしれない」です。「買うかもしれない間に列車が出発した」となり、列車が出たときに実際にしていた動作を表せません。
+4 buy は現在形です。この文は left や had to wait のように過去の出来事なので、時が合いません。
+【覚えるポイント】
+・過去進行形（was / were ＋ -ing）：過去のある時点で「～しているところだった」。
+・while ～：「～している間に」。

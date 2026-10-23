@@ -1,0 +1,34 @@
+---
+choices: Although injecting mice with brown fat cells makes them thinner, such a treatment could not be used for people. | Since brown fat is only activated by physical exercise, its potential for helping severely overweight people is limited. | Using BMP7 to increase brown fat levels in people has been effective, but the treatment carries significant risks. | While brown fat could be a significant help to certain people, it would not be an appropriate option for everyone.
+answerText: While brown fat could be a significant help to certain people, it would not be an appropriate option for everyone.
+reviewed: yes
+---
+【正解】4 While brown fat could be a significant help to certain people, it would not be an appropriate option for everyone.（褐色脂肪はある種の人々には大きな助けになりうるが、すべての人に適した選択肢というわけではないだろう。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What does Dr. Yu-Hua Tseng believe about using brown fat to encourage weight loss?（ユーファ・ツェン博士は、体重を減らすために褐色脂肪を使うことについて、どう考えているか。）
+1 Although injecting mice with brown fat cells makes them thinner, such a treatment could not be used for people.（マウスに褐色脂肪の細胞を注射するとやせるが、そのような治療は人間には使えないだろう。）
+2 Since brown fat is only activated by physical exercise, its potential for helping severely overweight people is limited.（褐色脂肪は体を動かす運動によってしか活性化されないので、ひどく太りすぎている人々を助ける見込みは限られている。）
+3 Using BMP7 to increase brown fat levels in people has been effective, but the treatment carries significant risks.（BMP7を使って人の褐色脂肪の量を増やすことは効果を上げてきたが、その治療には大きな危険がともなう。）
+4 While brown fat could be a significant help to certain people, it would not be an appropriate option for everyone.（褐色脂肪はある種の人々には大きな助けになりうるが、すべての人に適した選択肢というわけではないだろう。）
+【考え方】
+まず見るところ：第4段落のツェン博士の言葉 especially for people who are overweight because of their genes と、最後の文の For people who have become obese due to overeating and lack of exercise, however, ～
+第4段落で、ツェン博士は自分の研究について、次のように話しています。
+"The hope is that this research will lead to better ways to treat obesity, especially for people who are overweight because of their genes,"（「この研究が、肥満を治療するよりよい方法、特に遺伝子のせいで太りすぎになっている人々のためのよりよい方法につながることが期待されています」）
+obesity は「肥満」、gene は「遺伝子（親から子へ受けつがれる体の性質のもと）」です。続けて「今のところ、こうした人々にとってよい選択肢はあまりない」とも言っています。
+一方、最後の文では however（しかし）で別の人々の話になります。
+For people who have become obese due to overeating and lack of exercise, however, she says that a change in lifestyle, rather than cellular intervention, is the proper course of treatment.（しかし、食べすぎと運動不足のせいで肥満になった人々については、細胞への介入ではなく、生活習慣を変えることが適切な治療法だと彼女は言う）
+本文と選択肢4を対にすると、次のようになります。
+・本文 better ways to treat obesity, especially for people who are overweight because of their genes（特に遺伝子のせいで太りすぎの人々のための、よりよい治療法）→ 選択肢 could be a significant help to certain people（ある種の人々には大きな助けになりうる）。「特に遺伝子のせいで太った人々」を「ある種の人々」と言いかえています。
+・本文 For people who have become obese due to overeating and lack of exercise, ... a change in lifestyle, rather than cellular intervention, is the proper course（食べすぎと運動不足で肥満になった人には、細胞への介入ではなく生活習慣を変えることが適切）→ 選択肢 it would not be an appropriate option for everyone（すべての人に適した選択肢ではない）。別の治療法が適切な人もいる、という読み取りです。
+よって4が正解です。
+この問題の型：対比（遺伝子のせいで太った人 ⇔ however 食べすぎと運動不足で太った人）
+【ほかの選択肢】
+1 本文と違います。ツェン博士は、この研究が肥満の人々の治療のよりよい方法につながることを期待していると言っています。「人間には使えないだろう」とは言っていません。
+2 本文と違います。第3段落には、低い温度が褐色脂肪を活性化させることが書かれていて、「運動によってしか活性化されない」とは書かれていません。
+3 本文にありません。BMP7を使ったのはマウスから取り出した細胞で、人に使って効果があったとは書かれていません。治療の危険についても書かれていません。
+【覚えるポイント】
+・obesity：「肥満」。rather than ～：「～ではなく」。cellular intervention：「細胞への介入（細胞に手を加えること）」。
+・研究者の考えをたずねる設問では、especially for ～（特に～には）や For ～, however（しかし～については）のように、「だれに向いているか」を分けて述べる言葉が答えの手がかりになります。

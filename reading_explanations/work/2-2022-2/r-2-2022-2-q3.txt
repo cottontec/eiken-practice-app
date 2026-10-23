@@ -1,0 +1,32 @@
+---
+choices: patient | phrase | conflict | courage
+answerText: conflict
+reviewed: yes
+---
+【正解】3 conflict（対立、争い）
+【和訳】
+（英文）
+People around the world are afraid that the ［conflict］ between the two countries will cause a war.
+（訳）
+世界中の人々が、その2つの国の間の（対立）が戦争を引き起こすのではないかと心配しています。
+（選択肢の意味）
+1 patient：患者
+2 phrase：言い回し、語句
+3 conflict：対立、争い
+4 courage：勇気
+【考え方】
+まず見るところ：空所の後ろの between the two countries と、will cause a war
+People around the world are afraid that ～（世界中の人々が、～ではないかと心配している）
+be afraid that ～ は「～ではないかと心配する、恐れる」という意味です。心配している内容が that 以下に書かれています。
+the (　) between the two countries will cause a war（2つの国の間の（　）が戦争を引き起こす）
+「2つの国の間の何か」が戦争を引き起こす、という内容です。空所には、国どうしがぶつかり合っている状態を表す語が入ると考えられます。
+conflict は「対立、争い」という意味で、the conflict between the two countries（2国間の対立）となり、意味が通ります。3が正解です。
+この問題の型：語の意味・組み合わせ（conflict between ～）、因果（対立→戦争）
+【ほかの選択肢】
+1 patient は名詞（ものや事柄の名前を表す語）では「患者」、形容詞では「がまん強い」という意味です。the のあとなので名詞として考えると、「2国間の患者が戦争を引き起こす」となり、意味が通りません。
+2 phrase は「言い回し、語句」です。「2国間の語句が戦争を引き起こす」となり、意味が通りません。
+4 courage は「勇気」です。「2国間の勇気が戦争を引き起こす」となり、世界中の人々が心配している内容として意味が通りません。
+【覚えるポイント】
+・conflict between ～：「～の間の対立、争い」。
+・be afraid that ～：「～ではないかと心配する、恐れる」。
+・空所の前後に between ～ や cause a war のような語句があるときは、「何と何の間の何か」「何を引き起こすのか」を先に考えてから選択肢を見ると、手がかりになります。

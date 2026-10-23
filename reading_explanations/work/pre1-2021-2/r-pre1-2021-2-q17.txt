@@ -1,0 +1,33 @@
+---
+choices: rotating | dissolving | devoting | exerting
+answerText: rotating
+reviewed: yes
+---
+【正解】1 rotating（交代制の、順番に回る）
+【和訳】
+（英文）
+At the newspaper, the editors work on ［rotating］ shifts. For one month, some of them work early shifts and some work late shifts. The following month, they switch.
+（訳）
+その新聞社では、編集者たちは（交代制の）勤務で働いている。1か月の間、一部の人は早い時間の勤務をし、一部の人は遅い時間の勤務をする。次の月には、それを入れかえる。
+（選択肢の意味）
+1 rotating：交代制の、順番に回る
+2 dissolving：溶ける、（組織などを）解散する
+3 devoting：（時間や力を）ささげる
+4 exerting：（力などを）働かせる、発揮する
+【考え方】
+まず見るところ：最後の文の The following month, they switch.
+空所のあとの2つの文を確かめます。
+For one month, some of them work early shifts and some work late shifts.（1か月の間、一部の人は早い時間の勤務をし、一部の人は遅い時間の勤務をする）
+The following month, they switch.（次の月には、それを入れかえる）
+shift は「（交代で働く）勤務時間」、switch は「入れかえる、切りかえる」という意味です。早い勤務と遅い勤務を、月ごとに入れかえていることが分かります。
+次に、空所のある文を見ます。
+the editors work on ( ) shifts（編集者たちは（　）勤務で働いている）
+勤務を順番に入れかえていくのですから、rotating（交代制の、順番に回る）が合います。rotate はもともと「回転する」という意味で、rotating shifts で「交代制の勤務」となるので、1が正解です。
+この問題の型：具体例とまとめ（月ごとに早番と遅番を入れかえる→rotating shifts）
+【ほかの選択肢】
+2 dissolving は「溶ける、解散する」です。「溶ける勤務」では意味が通りません。
+3 devoting は「ささげる」です。「何を何に」ささげるのかを表す形が必要で、勤務を順番に入れかえるようすを表せません。
+4 exerting は「（力などを）働かせる」です。「力を働かせている勤務」では、月ごとに入れかえるという説明と合いません。
+【覚えるポイント】
+・rotating shifts：「交代制の勤務」。rotate は「回転する、交代する」。
+・空所のあとに具体的なしくみ（ここでは月ごとに入れかえること）が説明されているときは、そのしくみをひと言で表す語を選ぶことが手がかりになります。

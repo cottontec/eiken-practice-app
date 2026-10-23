@@ -1,0 +1,30 @@
+---
+choices: buzzed | endorsed | tapped | slammed
+answerText: buzzed
+reviewed: yes
+---
+【正解】1 buzzed（ざわめいた、活気づいた）
+【和訳】
+（英文）
+The conference hall ［buzzed］ with excitement as the famous biologist rose to speak. Everyone knew she would announce a major discovery, but no one knew what it was.
+（訳）
+その有名な生物学者が話をするために立ち上がると、会議場は興奮で（ざわめいた）。彼女が大発見を発表するだろうとみんな知っていたが、それが何なのかはだれも知らなかった。
+（選択肢の意味）
+1 buzzed：ざわめいた、活気づいた（buzz の過去形）
+2 endorsed：支持した、推薦した（endorse の過去形）
+3 tapped：軽くたたいた（tap の過去形）
+4 slammed：（ドアなどを）バタンと閉めた、たたきつけた（slam の過去形）
+【考え方】
+まず見るところ：空所の後ろの with excitement と、後ろの文の Everyone knew she would announce a major discovery
+The conference hall ( ) with excitement as the famous biologist rose to speak.（その有名な生物学者が話をするために立ち上がると、会議場は興奮で（　））
+excitement は「興奮、わくわくした気持ち」、rose to speak は「話をするために立ち上がった」という意味です。
+Everyone knew she would announce a major discovery, but no one knew what it was.（彼女が大発見を発表するだろうとみんな知っていたが、それが何なのかはだれも知らなかった）
+大発見が何なのかをみんなが楽しみにしているので、会場は興奮でにぎやかになったと考えられます。buzz with ～ で「～でざわめく、活気づく」という意味になるので、1が正解です。buzz はハチの「ブンブン」という音から、人々のざわめきも表します。
+この問題の型：熟語・決まった形（buzz with excitement）／因果（大発見が何か知りたい→会場がざわめく）
+【ほかの選択肢】
+2 endorsed は「支持した、推薦した」で、ふつう後ろに「何を」支持するかが続きます。「会議場が興奮で支持した」となり、意味が通りません。
+3 tapped は「軽くたたいた」です。「会議場が興奮で軽くたたいた」となり、大発見を待つ人々の様子を表せません。
+4 slammed は「バタンと閉めた、たたきつけた」です。「会議場が興奮でバタンと閉めた」となり、意味が通りません。
+【覚えるポイント】
+・buzz with excitement：「興奮でざわめく」。場所（ここでは the conference hall）が主語になり、そこにいる人々の様子を表します。
+・空所のすぐ後ろに with excitement のような「気持ち」を表す語句があるときは、その気持ちのせいで場所がどうなったのかを表す語を選ぶことが手がかりになります。

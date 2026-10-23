@@ -1,0 +1,33 @@
+---
+choices: adopted by other cities | essential to its success | unpopular with local people | slowing down reform efforts
+answerText: essential to its success
+reviewed: yes
+---
+【正解】2 essential to its success（その成功に欠かせない）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 adopted by other cities（ほかの都市に取り入れられた）
+2 essential to its success（その成功に欠かせない）
+3 unpopular with local people（地元の人々に人気がない）
+4 slowing down reform efforts（改革の取り組みを遅らせている）
+【考え方】
+まず見るところ：第2段落の始めの In contrast, both bus usage and the number of routes have increased in London
+第2段落は In contrast（これとは対照的に）で始まり、第1段落の地方とは違うロンドンの様子を説明しています。
+In contrast, both bus usage and the number of routes have increased in London（これとは対照的に、ロンドンでは、バスの利用と路線の数の両方が増えてきた）
+ロンドンではバスがうまくいっている、つまり成功していることが分かります。
+次に、空所の前の文と空所の文を見ます。
+The city maintained its ability to plan all aspects of the bus network（ロンドン市は、バス網のあらゆる面を計画する力を持ち続けた）
+This has been ( ).（このことが（　）だった）
+This は、「市がバス網のすべてを計画する力を持ち続けたこと」を指しています。
+空所のあとでは、その力のおかげで、利益の上がる路線から資金を移し、恵まれない人々に大切な路線に補助金（足りない分を助けるお金）を出せると説明しています。計画する力がロンドンのバスの成功を支えているので、essential to its success（その成功に欠かせない）が入ります。
+よって2が正解です。its は、ここではロンドン市を指しています。
+この問題の型：指示語（This＝計画する力を持ち続けたこと）／因果（計画する力→資金を回せる→成功）
+【ほかの選択肢】
+1 adopted by other cities（ほかの都市に取り入れられた）は、本文にない内容です。ロンドンのやり方をほかの都市がまねたという話は書かれていません。
+3 unpopular with local people（地元の人々に人気がない）は、本文の流れと合いません。ロンドンではバスの利用が増えており、空所のあとも、市の管理の力がよい結果を生んでいるという説明です。
+4 slowing down reform efforts（改革の取り組みを遅らせている）は、本文にない内容です。空所のあとには、管理の力によって資金を回せるという利点が書かれており、何かを遅らせているという話はありません。
+【覚えるポイント】
+・essential to ～：「～に欠かせない、～にとって不可欠な」。
+・This has been ( ). のように This で始まる短い文の空所は、This が指す内容（前の文）と、そのあとの説明（ここでは資金を移せるという利点）の両方から「よいことか、悪いことか」を考えると手がかりになります。

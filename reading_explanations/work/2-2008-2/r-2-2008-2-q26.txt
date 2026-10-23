@@ -1,0 +1,27 @@
+---
+choices: preferred | copied | opposed | discovered
+answerText: opposed
+reviewed: yes
+---
+【正解】3 opposed（～に反対した）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 preferred：～のほうを好んだ
+2 copied：～をまねた、写した
+3 opposed：～に反対した
+4 discovered：～を発見した
+【考え方】
+空所は第1段落の However, since many local residents depended on the timber companies for their jobs, they often (　) the environmental groups. にあります。
+まず前半の since ～ は「～なので」と理由を表します。many local residents depended on the timber companies for their jobs は「地元の住民の多くは、仕事を木材会社に頼っていた」という意味です。つまり、住民の多くは木材会社で働いて生活していました。
+次に、環境保護団体が何をしていたかを確かめます。その少し前に environmental groups fought to stop the timber companies（環境保護団体は木材会社を止めようと戦った）とあります。木材会社が止められてしまうと、そこで働く住民は仕事を失うかもしれません。
+ですから、住民たちは自分の仕事を守るために、木材会社を止めようとする環境保護団体に「反対した」と考えるのが自然です。文の始めの However（しかし）も、直前の「住民も森の被害を心配していた」と反対の向きの話が続くことを示しています。oppose は「～に反対する」なので、3が正解です。
+さらに、すぐあとの文に put aside their differences（意見の違いをわきに置いた）とあり、住民側と環境保護側が以前は対立していたことが分かります。これも正解を裏づけます。
+【ほかの選択肢】
+1 preferred は「～のほうを好んだ」です。仕事を木材会社に頼っていた住民が、木材会社を止めようとする環境保護団体のほうを好んだ、というのは理由の since ～ とつながりません。
+2 copied は「～をまねた」です。住民が環境保護団体のやり方をまねたという話は本文になく、「仕事を木材会社に頼っていたので」という理由ともつながりません。また、次の文で両者には意見の違い（differences）があったと書かれており、まねていたという内容とは合いません。
+4 discovered は「～を発見した」です。環境保護団体はすでに木材会社と戦っていたので、住民が「発見した」というのは話の流れに合いません。
+【覚えるポイント】
+・oppose ～：「～に反対する」。be opposed to ～ という形でも使います。
+・depend on A for B：「BをAに頼る」。depended on the timber companies for their jobs で「仕事を木材会社に頼っていた」。

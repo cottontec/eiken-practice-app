@@ -1,0 +1,24 @@
+---
+choices: cheap | from | but it | far | was
+answerText: was
+order: 3 5 4 2 1
+reviewed: yes
+---
+【正解】5 was（この問題の2番目）
+【完成文】
+Thanks. I'm really happy I bought it, ( but it was far from cheap ). I had to save for a long time before I had enough money to get it.
+並べ方：3 but it → 5 was → 4 far → 2 from → 1 cheap（2番目は5、4番目は2）
+【和訳】
+A：トム、新しい自転車、すてきだね。
+B：ありがとう。買って本当によかったよ。でも、決して安くはなかったんだ。それを買うのに十分なお金がたまるまで、長い間貯金しなければならなかったんだよ。
+【考え方】
+まず、空所のあとの文を見ます。I had to save for a long time before I had enough money to get it.（それを買うのに十分なお金がたまるまで、長い間貯金しなければならなかった）とあります。save はここでは「貯金する」という意味です。長い間お金をためたのですから、自転車は高かったと分かります。
+空所の前は I'm really happy I bought it,（買って本当によかった）です。そのあとに「でも高かった」という内容が続くと考えると、3 but it（でも、それは）から始めるのが自然です。it は自転車を指します。
+it のあとには動詞が必要なので、5 was を置いて but it was とします。
+残りは 4 far、2 from、1 cheap です。far from ～ は「～からほど遠い、決して～ではない」という意味の決まった言い方です。far from cheap で「安いどころではない、決して安くない」となります。
+こうして but it was far from cheap（でも、それは決して安くはなかった）が完成し、あとの「長い間貯金した」という文とつながります。
+まちがえやすいのは、far と from を逆にして from far cheap としてしまう並べ方です。これでは意味のある英語になりません。far from の順で覚えておきましょう。
+したがって、2番目は 5 was です。
+【覚えるポイント】
+・far from ～：「～からほど遠い、決して～ではない」。far from cheap で「決して安くない」。
+・save：「貯金する、（お金を）ためる」。

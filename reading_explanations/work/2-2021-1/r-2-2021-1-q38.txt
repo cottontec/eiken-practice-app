@@ -1,0 +1,30 @@
+---
+choices: The SmartEnCity project has helped to turn Tartu into a more attractive city. | The European Union gave money to build 17 new apartment houses in Estonia. | Countries decided to leave the Soviet Union because of housing shortages. | Over 80 percent of gas consumption in Estonia is for heating private homes.
+answerText: The SmartEnCity project has helped to turn Tartu into a more attractive city.
+reviewed: yes
+---
+【正解】1 The SmartEnCity project has helped to turn Tartu into a more attractive city.（スマートエンシティ・プロジェクトは、タルトゥをより魅力的な町にするのに役立った。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：次の記述のうち、正しいものはどれですか。
+1 The SmartEnCity project has helped to turn Tartu into a more attractive city.（スマートエンシティ・プロジェクトは、タルトゥをより魅力的な町にするのに役立った。）
+2 The European Union gave money to build 17 new apartment houses in Estonia.（欧州連合は、エストニアに17棟の新しいアパートを建てるためにお金を出した。）
+3 Countries decided to leave the Soviet Union because of housing shortages.（国々は、住宅不足のためにソビエト連邦を離れることを決めた。）
+4 Over 80 percent of gas consumption in Estonia is for heating private homes.（エストニアのガスの消費量の80パーセント以上は、個人の家の暖房のためのものである。）
+【考え方】
+この設問は本文全体から正しいものを選ぶ問題なので、選択肢を1つずつ本文と照らし合わせます。
+選択肢1は、第4段落の次の文と対応しています。
+Moreover, the work on the apartments has improved the way the city looks.（さらに、アパートの工事によって、町の見た目もよくなった）
+the city は、プロジェクトが行われたタルトゥを指しています。the way the city looks は「町の見え方、町の見た目」という意味です。また第2段落でも、目的の1つは turn them into modern, good-looking homes（アパートを現代的で見た目のよい住まいに変えること）だと書かれていました。
+本文と選択肢を対にすると、次のようになります。
+本文 the work on the apartments has improved the way the city looks ＝ 選択肢 The SmartEnCity project has helped to turn Tartu into a more attractive city
+the work on the apartments（アパートの工事）が The SmartEnCity project に、improved the way the city looks（町の見た目をよくした）が turn Tartu into a more attractive city（タルトゥをより魅力的な町にする）に言いかえられています。attractive は「魅力的な、人を引きつける」という意味です。
+【ほかの選択肢】
+2 タルトゥの17棟は、エストニアがもともと持っていたアパートの建物を、環境に優しい住まいに変えた（改修した）ものです。new（新しく建てた）ものではありません。EUがお金を出したことは本文にありますが、新しいアパートを建てるためではありません。
+3 本文の a shortage of houses（住宅不足）は、ソビエト政府がアパートをたくさん建てた理由です。国々が独立したのは After the Soviet Union broke up in 1991（1991年にソビエト連邦が解体したあと）で、住宅不足のためにソビエト連邦を離れると決めたとは書かれていません。原因が違います。
+4 本文の80パーセントは、residents now use 80 percent less gas to heat their apartments（住民が部屋を暖めるのに使うガスが80パーセント少なくなった）という、タルトゥのアパートでの減った量です。エストニア全体のガス消費量の割合ではありません。数字の意味が違います。
+【覚えるポイント】
+・the way ～ looks：「～の見た目」。improve the way the city looks で「町の見た目をよくする」。
+・「80 percent less」（80パーセント少ない）のように、本文の数字が何を表しているのかを確かめることが大切です。

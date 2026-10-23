@@ -1,0 +1,25 @@
+---
+choices: documents | complaints | commercials | discoveries
+answerText: discoveries
+reviewed: yes
+---
+【正解】4 discoveries（発見）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 documents：書類、文書
+2 complaints：不満、苦情
+3 commercials：（テレビなどの）広告、コマーシャル
+4 discoveries：発見
+【考え方】
+空所の前の文は But defenders of biohacking argue that amateurs like Daniel Burd can come up with ideas that professional scientists are unlikely to think of.（しかし、バイオハッキングを擁護する人たちは、ダニエル・バードのような素人は、プロの科学者が思いつきそうにないアイデアを思いつくことができると主張している）です。defender は「擁護する人（支持して守ろうとする人）」、come up with ～ は「～を思いつく」、be unlikely to ～ は「～しそうにない」です。
+空所の文は They believe that, in the future, many important (　) will come out of the biohacking movement.（彼らは、将来、多くの重要な（　）がバイオハッキングの運動から生まれるだろうと考えている）です。They は前の文の「擁護する人たち」を指します。
+擁護する人たちは、素人がプロには思いつかないアイデアを出せると考えています。そうしたアイデアから将来生まれるものとして、important（重要な）と結びつくのは discoveries（発見）です。第2段落のダニエルのように、科学者が解決できなかった問題を解決する例も書かれていました。正解は4です。
+【ほかの選択肢】
+1 documents は「書類、文書」です。「多くの重要な書類が生まれる」となりますが、素人がプロには思いつかないアイデアを出せる、という前の文の主張とつながりません。
+2 complaints は「不満、苦情」です。バイオハッキングを擁護する人たちは、よい面を主張しています。その人たちが「重要な苦情が生まれる」と考えるのは、話の向きが反対です。
+3 commercials は「広告、コマーシャル」です。本文はDNAの実験や新しい生物を作る話で、広告の話は出てこないので合いません。
+【覚えるポイント】
+・come up with ～：「～を思いつく」。
+・be unlikely to ～：「～しそうにない」。

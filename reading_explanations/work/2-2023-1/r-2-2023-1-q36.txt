@@ -1,0 +1,32 @@
+---
+choices: Discuss the content of their dreams with other participants in the study. | Relate what happened in their dreams to what was happening in their lives. | Try to wake themselves up as soon as they knew that they were dreaming. | Compare their own dreams with a list of dreams that people commonly have.
+answerText: Relate what happened in their dreams to what was happening in their lives.
+reviewed: yes
+---
+【正解】2 Relate what happened in their dreams to what was happening in their lives.（夢の中で起きたことを、自分の生活の中で起きていたことと結びつける。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What was one thing that participants in Erin Wamsley's study were asked to do?（エリン・ワムズリーの研究の参加者たちが求められたことの1つは何でしたか。）
+1 Discuss the content of their dreams with other participants in the study.（自分の夢の内容について、研究のほかの参加者と話し合う。）
+2 Relate what happened in their dreams to what was happening in their lives.（夢の中で起きたことを、自分の生活の中で起きていたことと結びつける。）
+3 Try to wake themselves up as soon as they knew that they were dreaming.（夢を見ていると分かったらすぐに、自分で目を覚まそうとする。）
+4 Compare their own dreams with a list of dreams that people commonly have.（自分の夢を、人々がよく見る夢の一覧と比べる。）
+【考え方】
+まず見るところ：第3段落の The following morning, the participants tried to connect ～
+ワムズリーの研究については、第3段落に書かれています。参加者たちがしたことを順に確かめます。
+The participants were woken up several times during the night and asked to report what they had been dreaming about.（参加者たちは夜の間に何度か起こされ、どんな夢を見ていたかを報告するよう求められた）
+The following morning, the participants tried to connect the content of their dreams with events in their lives.（翌朝、参加者たちは、自分の夢の内容を、自分の生活の中の出来事と結びつけようとした）
+connect A with B は「AをBと結びつける」という意味です。
+本文と選択肢を対にすると、次のようになります。
+本文 connect the content of their dreams with events in their lives（夢の内容を、生活の中の出来事と結びつける）＝ 選択肢 Relate what happened in their dreams to what was happening in their lives（夢の中で起きたことを、生活の中で起きていたことと結びつける）
+connect A with B（AをBと結びつける）が relate A to B（AをBと関連づける）に、the content of their dreams（夢の内容）が what happened in their dreams（夢の中で起きたこと）に、events in their lives（生活の中の出来事）が what was happening in their lives（生活の中で起きていたこと）に言いかえられています。ですから2が正解です。
+この問題の型：言いかえ（connect A with B ＝ relate A to B）
+【ほかの選択肢】
+1 本文には、参加者たちが見ていた夢を報告するよう求められたとありますが、ほかの参加者と話し合ったとは書かれていません。
+3 本文では、参加者たちは were woken up several times（何度か起こされた）とあり、起こされる側でした。自分で目を覚まそうとした、という話ではありません。
+4 人々がよく見る夢の一覧と比べた、という話は本文にありません。参加者たちが夢を結びつけた相手は、自分の生活の中の出来事です。
+【覚えるポイント】
+・connect A with B ＝ relate A to B：「AをBと結びつける、関連づける」。
+・研究の内容をたずねる問題では、本文の were woken up（起こされた）のような「～された」と、選択肢の「自分で～した」の違いに注意すると、まちがいを見分ける手がかりになります。

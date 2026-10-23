@@ -1,0 +1,34 @@
+---
+choices: It may hurt the ability of local medical professionals to provide fee-based treatment for residents on their own. | The availability of foreign medical care can lead local healthcare providers to raise prices to levels patients cannot afford. | It could encourage local doctors to start performing important procedures such as childbirth using unsafe techniques. | Patients may choose to avoid getting medical help from volunteers because of fears of being treated by an amateur.
+answerText: It may hurt the ability of local medical professionals to provide fee-based treatment for residents on their own.
+reviewed: yes
+---
+【正解】1 It may hurt the ability of local medical professionals to provide fee-based treatment for residents on their own.（地元の医療の専門家が、自分たちの力で住民に料金を取って治療を行う力を損なうかもしれない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one criticism of medical voluntourism?（医療ボランツーリズムに対する批判の1つは何か。）
+1 It may hurt the ability of local medical professionals to provide fee-based treatment for residents on their own.（地元の医療の専門家が、自分たちの力で住民に料金を取って治療を行う力を損なうかもしれない。）
+2 The availability of foreign medical care can lead local healthcare providers to raise prices to levels patients cannot afford.（外国から来た医療を受けられることで、地元の医療提供者が、患者には払えないほどの水準まで料金を上げることがある。）
+3 It could encourage local doctors to start performing important procedures such as childbirth using unsafe techniques.（地元の医師が、出産のような大切な処置を、安全でない方法で行い始めるきっかけになるかもしれない。）
+4 Patients may choose to avoid getting medical help from volunteers because of fears of being treated by an amateur.（患者は、しろうとに治療されるのがこわいので、ボランティアから医療の助けを受けるのを避けることがある。）
+【考え方】
+まず見るところ：第2段落の Offering free care can also hurt healthcare providers in the local community who rely on patient fees to continue their work.
+第2段落は however（しかし）を含む文で始まり、医療ボランツーリズムへの批判が述べられています。その中に、次の文があります。
+Offering free care can also hurt healthcare providers in the local community who rely on patient fees to continue their work.（無料で医療を提供することは、仕事を続けるために患者からの料金に頼っている、地元の地域の医療提供者に害を与えることもある）
+healthcare provider は「医療提供者（医者や病院など、医療を行う人や所）」、rely on ～ は「～に頼る」、patient fee は「患者からの料金」です。続く文で、その理由が説明されています。
+People may postpone care until the next volunteers arrive, or refuse to pay for affordable care at their community hospital because volunteers are providing it for free.（人々は、次のボランティアが来るまで治療を先のばしにしたり、ボランティアが無料で提供しているからという理由で、地元の病院で受けられる手ごろな値段の医療にお金を払うのを拒んだりするかもしれない）
+患者がお金を払わなくなれば、料金で仕事を続けている地元の病院は困ってしまいます。
+本文と選択肢を対にすると、次のようになります。
+本文 hurt healthcare providers in the local community（地元の地域の医療提供者に害を与える）＝ 選択肢 hurt the ability of local medical professionals（地元の医療の専門家の力を損なう）
+本文 rely on patient fees to continue their work（仕事を続けるために患者からの料金に頼っている）＝ 選択肢 provide fee-based treatment（料金を取って治療を行う）
+fee-based は「料金にもとづく、料金を取る」、on their own は「自分たちの力で」です。ですから1が正解です。
+この問題の型：言いかえ（rely on patient fees ＝ fee-based treatment）
+【ほかの選択肢】
+2 本文に書かれていません。本文では、地元の病院の医療は affordable care（手ごろな値段の医療）とあり、地元の医療提供者が料金を上げるという話は出てきません。
+3 人物が違います。本文で出産の手助けを任されているのは Untrained volunteers（訓練を受けていないボランティア）です。地元の医師が安全でない方法を使い始めるとは書かれていません。
+4 本文に書かれていません。本文では、人々がボランティアの医療を避けるのではなく、次のボランティアが来るまで治療を先のばしにしたり、無料だからという理由で地元の病院に払うのを拒んだりするとあります。しろうとがこわいから避けるという理由は出てきません。
+【覚えるポイント】
+・rely on ～：「～に頼る」。rely on patient fees で「患者からの料金に頼る」。
+・批判をたずねる設問では、批判の段落の中から、選択肢の主語（ここでは地元の医療の専門家）と同じ人物について書かれている文を探すと手がかりになります。

@@ -1,0 +1,28 @@
+---
+choices: boredom | notice | warmth | reality
+answerText: warmth
+reviewed: yes
+---
+【正解】3 warmth（暖かさ）
+【和訳】
+（英文）
+A: Thanks for letting me stay here tonight, Carrie.
+B: No problem. But it's cold in the room where you'll be sleeping, so I'll give you a few blankets for extra ［warmth］.
+（訳）
+A：今夜ここに泊めてくれてありがとう、キャリー。
+B：どういたしまして。でも、あなたが寝る部屋は寒いから、もっと暖かくなるように、毛布を何枚か渡すね。
+（選択肢の意味）
+1 boredom：退屈
+2 notice：注意、知らせ
+3 warmth：暖かさ
+4 reality：現実
+【考え方】
+Bの文の前半 it's cold in the room where you'll be sleeping（あなたが寝る部屋は寒い）が手がかりです。where 以下は the room（部屋）に説明を加えていて、「あなたが寝ることになる部屋」という意味です。
+部屋が寒いので、Bは毛布を何枚か渡そうとしています。毛布を足す目的は、暖かさを足すことです。extra は「追加の、余分の」、warmth は warm（暖かい）の名詞の形で「暖かさ」です。for extra warmth で「暖かさを足すために」となり、「部屋が寒い」という理由とつながります。正解は3です。
+【ほかの選択肢】
+1 boredom は「退屈」です。「退屈を足すために毛布を渡す」となり、部屋が寒いという理由とつながりません。
+2 notice は「注意、知らせ」です。「追加の知らせのために毛布を渡す」となり、意味が通りません。
+4 reality は「現実」です。「追加の現実のために毛布を渡す」となり、意味が通りません。
+【覚えるポイント】
+・warmth：「暖かさ」。warm（暖かい）の名詞の形です。
+・for extra ～：「さらに～を足すために」。

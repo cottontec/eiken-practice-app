@@ -1,0 +1,26 @@
+---
+choices: disagrees | recovers | delays | returns
+answerText: disagrees
+reviewed: yes
+---
+【正解】1 disagrees（意見が違う、同意しない）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 disagrees：意見が違う、同意しない
+2 recovers：回復する、取り戻す
+3 delays：遅らせる、遅れる
+4 returns：戻る、返す
+【考え方】
+空所は第3段落の David Surplus, the chairman of B9 Energy, (　).（B9エナジー社の会長であるデイビッド・サープラスさんは（　））という文にあります。
+まず、空所の前に書かれている専門家の考えを確認します。専門家は、化石燃料の船のほうが帆船よりもずっと多く運べるので、Thus, even if the cost of fossil fuels rises, ships that use such fuels will still remain a cheaper way to transport goods than sailing ships.（そのため、たとえ化石燃料の値段が上がっても、そうした燃料を使う船は、それでも帆船より安く品物を運ぶ方法であり続けるだろう）と考えています。つまり「帆船は化石燃料の船に取って代わらないだろう」という考えです。
+次に、空所のあとのサープラスさんの考えを見ます。He points out that, one day, fossil fuels will run out.（いつか化石燃料はなくなると彼は指摘している）、He thinks that when this happens, his company's ships will be in a strong position to replace the ships used today.（そうなったとき、自分の会社の船は今使われている船に取って代わるのに有利な立場に立つと彼は考えている）とあります。
+専門家は「取って代わらない」、サープラスさんは「取って代わるだろう」と考えているので、専門家たちとサープラスさんの意見は反対です。disagree は「意見が違う、同意しない」という意味なので、正解は1です。
+【ほかの選択肢】
+2 recovers は「回復する、取り戻す」です。サープラスさんが病気やけがから回復したという話はなく、あとの文の「化石燃料はいつかなくなる」という意見ともつながりません。
+3 delays は「遅らせる、遅れる」です。何かを遅らせたという話は本文になく、空所のあとで彼が自分の意見を述べていることとつながりません。
+4 returns は「戻る、返す」です。サープラスさんがどこかへ戻るという話ではなく、専門家の考えに対する彼の意見を述べる流れに合いません。
+【覚えるポイント】
+・disagree：「意見が違う、同意しない」。反対は agree（同意する）です。
+・run out：「（物が）なくなる、尽きる」。

@@ -1,0 +1,32 @@
+---
+choices: They supply marine organisms with substances necessary for their survival by changing certain materials into a form that can be eaten. | Because they absorb a lot of sunlight that enters the water, they are able to provide more nutrients to steep areas around the islands. | The waste substances that the sponges produce are an important source of food for both corals and phytoplankton. | After feeding on phytoplankton, the sponges pass the nutrients on to the larger marine animals that feed on them.
+answerText: They supply marine organisms with substances necessary for their survival by changing certain materials into a form that can be eaten.
+reviewed: yes
+---
+【正解】1 They supply marine organisms with substances necessary for their survival by changing certain materials into a form that can be eaten.（ある物質を食べられる形に変えることで、海の生き物に生きるのに必要な物質を与えている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What role do sponges play in the IME?（カイメンはIMEの中でどんな役割を果たしているか。）
+1 They supply marine organisms with substances necessary for their survival by changing certain materials into a form that can be eaten.（ある物質を食べられる形に変えることで、海の生き物に生きるのに必要な物質を与えている。）
+2 Because they absorb a lot of sunlight that enters the water, they are able to provide more nutrients to steep areas around the islands.（水中に入ってくる日光をたくさん吸収するので、島の周りの急な場所により多くの栄養分を与えることができる。）
+3 The waste substances that the sponges produce are an important source of food for both corals and phytoplankton.（カイメンが出す排出物は、サンゴと植物プランクトンの両方にとって大切な食べ物になっている。）
+4 After feeding on phytoplankton, the sponges pass the nutrients on to the larger marine animals that feed on them.（カイメンは植物プランクトンを食べたあと、カイメンを食べるより大きな海の動物に栄養分を受け渡している。）
+【考え方】
+まず見るところ：第3段落の Sea creatures known as sponges are another key part of the process, as they suck in ～
+カイメンの役割は、第3段落に書かれています。
+Sea creatures known as sponges are another key part of the process, as they suck in the waste products of both coral and phytoplankton, convert the products into substances that marine life higher up in the food chain can consume, and then expel the substances into nearby areas, where they are eaten.（カイメンとして知られる海の生き物は、この過程のもう1つの重要な部分である。カイメンは、サンゴと植物プランクトンの両方の排出物を吸い込み、それを食物連鎖のより上にいる海の生き物が食べられる物質に変えて、その物質を近くの区域に吐き出す。そこで、その物質は食べられるのである）
+suck in は「吸い込む」、waste products は「排出物（生き物が出す、いらなくなったもの）」、convert A into B は「AをBに変える」、consume は「食べる、消費する」、expel は「外に出す」です。カイメンは、ほかの生き物の排出物を、食べられる物質に作りかえていることが分かります。
+本文と選択肢1を対にすると、次のようになります。
+本文 convert the products into substances that marine life ～ can consume（排出物を海の生き物が食べられる物質に変える）＝ 選択肢 changing certain materials into a form that can be eaten（ある物質を食べられる形に変える）
+本文 expel the substances into nearby areas, where they are eaten（その物質を近くに吐き出し、そこで食べられる）→ 選択肢 supply marine organisms with substances（海の生き物に物質を与える）
+ですから1が正解です。
+この問題の型：言いかえ（convert ～ into substances that ～ can consume ＝ changing ～ into a form that can be eaten）
+【ほかの選択肢】
+2 本文にありません。日光を必要とするのはサンゴで、カイメンが日光を吸収するとは書かれていません。また、本文で大切だとされているのは steep（急な）場所ではなく gradual slopes（ゆるやかな斜面）です。
+3 関係が逆です。本文では、カイメンがサンゴと植物プランクトンの排出物を吸い込むと書かれています。カイメンが出す物質がサンゴと植物プランクトンの食べ物になるとは書かれていません。
+4 本文にありません。カイメンが吸い込むのは植物プランクトンそのものではなく、その排出物です。また、カイメンがより大きな動物に食べられるという話も出てきません。本文で食べられるのは、カイメンが吐き出した物質です。
+【覚えるポイント】
+・convert A into B：「AをBに変える」。選択肢では change A into B（AをBに変える）と言いかえられています。
+・役割をたずねる設問では、「何を取りこみ（suck in）→何に変え（convert）→どこへ出すか（expel）」の順番を本文で追い、選択肢でその向きが逆になっていないかを確かめると手がかりになります。

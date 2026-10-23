@@ -1,0 +1,36 @@
+---
+choices: The division of social classes it caused had a bigger impact on Chilean society than the neighborhoods it created. | The poor condition of the homes that were built increased awareness of poverty and social inequality in South America. | Being provided with only a place to live was not enough to give poor people a long-term sense of stability in Chilean society. | It led to the establishment of stable, well-organized housing for the poor, which other large South American cities could not achieve.
+answerText: It led to the establishment of stable, well-organized housing for the poor, which other large South American cities could not achieve.
+reviewed: yes
+---
+【正解】4 It led to the establishment of stable, well-organized housing for the poor, which other large South American cities could not achieve.（その計画は、貧しい人々のための、安定して整然とした住宅地を作ることにつながった。それは、ほかの南アメリカの大都市にはなしとげられなかったことだ。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What does the author of the passage believe about the overall impact of Operation Site?（この文章の筆者は、オペレーション・サイトの全体的な影響についてどう考えているか。）
+1 The division of social classes it caused had a bigger impact on Chilean society than the neighborhoods it created.（その計画が引き起こした社会の階級の分断は、その計画が作った住宅地よりも、チリの社会に大きな影響を与えた。）
+2 The poor condition of the homes that were built increased awareness of poverty and social inequality in South America.（建てられた家の状態が悪かったことで、南アメリカの貧困と社会の不平等への関心が高まった。）
+3 Being provided with only a place to live was not enough to give poor people a long-term sense of stability in Chilean society.（住む場所を与えられただけでは、貧しい人々がチリの社会で長く安定していると感じるには十分ではなかった。）
+4 It led to the establishment of stable, well-organized housing for the poor, which other large South American cities could not achieve.（その計画は、貧しい人々のための、安定して整然とした住宅地を作ることにつながった。それは、ほかの南アメリカの大都市にはなしとげられなかったことだ。）
+【考え方】
+まず見るところ：第3段落の Nevertheless, on balance, Operation Site is commendable despite its critics. 以降
+第3段落の前半には、計画への批判が書かれています。そのあと、Nevertheless（それでもなお）で筆者自身の評価が示されます。
+Nevertheless, on balance, Operation Site is commendable despite its critics.（それでもなお、全体として見れば、オペレーション・サイトは、批判はあるものの、評価に値するものである）
+on balance は「全体として見れば」、commendable は「評価に値する、ほめられるべき」という意味です。筆者がそう考える理由が、そのあとに続きます。
+Many people still live on the land they were given in the 1960s, and many communities and homes are well maintained and arranged in an orderly fashion.（今でも多くの人々が1960年代に与えられた土地に住んでおり、多くの地域社会や家は手入れが行き届き、整然と並んでいる）
+Thanks to the program, Santiago managed to avoid the expansive, run-down slum areas that have become so problematic for other major South American cities in recent decades.（この計画のおかげで、サンティアゴは、ここ数十年の間にほかの南アメリカの大都市でとても大きな問題となってきた、広大で荒れ果てたスラム街を避けることができた）
+slum は「スラム（貧しい人々が住む、建物が古くて荒れた地域）」です。
+本文と選択肢を対にすると、次のようになります。
+本文 Many people still live on the land they were given in the 1960s（今でも多くの人々が1960年代に与えられた土地に住んでいる）→ 読み取れること：住まいが安定している（選択肢 stable）
+本文 well maintained and arranged in an orderly fashion（手入れが行き届き、整然と並んでいる）＝ 選択肢 well-organized（整然とした）
+本文 slum areas that have become so problematic for other major South American cities（ほかの南アメリカの大都市で大きな問題となってきたスラム街）→ 読み取れること：ほかの大都市はそうした住宅地を作れなかった（選択肢 which other large South American cities could not achieve）
+ですから4が正解です。
+この問題の型：対比（批判⇔ Nevertheless のあとの筆者の評価）
+【ほかの選択肢】
+1 本文と合いません。階級の分断は、批判する人たちの指摘として書かれています。筆者は全体として計画を評価しており、分断のほうが住宅地より大きな影響を与えたとは述べていません。
+2 本文と反対です。筆者は、多くの家が well maintained（手入れが行き届いている）と述べており、家の状態が悪かったとは書かれていません。南アメリカで貧困への関心が高まったという話もありません。
+3 本文と合いません。「政府の援助なしに土地だけを与えるのは侮辱だ」という批判は、第3段落の前半の Many people claimed ～（多くの人々が主張した）として紹介されていますが、貧しい人々が長い間安定していると感じられなかった、とは書かれていません。筆者は、今でも多くの人々が与えられた土地に住んでいると述べ、計画を評価しています。
+【覚えるポイント】
+・on balance：「全体として見れば」。よい点と悪い点の両方を考えたうえでの結論を述べるときに使います。
+・「筆者の考え」をたずねる設問では、批判を紹介した部分（Critics also note ～ など）と、Nevertheless のあとの筆者自身の評価を区別して読むのが手がかりになります。

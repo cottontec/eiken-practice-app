@@ -1,0 +1,22 @@
+---
+choices: I'm | goes | saying | without | that
+answerText: without
+order: 2 4 3 5 1
+reviewed: yes
+---
+【正解】4 without（この問題の2番目）
+【完成文】
+I don't think it's been so bad. I'm from Alaska, so it ( goes without saying that I'm ) used to cold weather.
+並べ方：2 goes → 4 without → 3 saying → 5 that → 1 I'm（2番目は4、4番目は5）
+【和訳】
+A：ジェレミー、今年の東京の冬は本当に寒いよね？
+B：そんなにひどくはないと思うよ。アラスカの出身だから、寒い天気に慣れているのは言うまでもないんだ。
+【考え方】
+まず会話の流れです。Aは「今年の東京の冬は本当に寒い」と言っていますが、Bは「そんなにひどくはないと思う」と答えています。その理由が、I'm from Alaska（アラスカの出身だ）です。寒い土地の出身なので、寒さには慣れている、という内容が続くと考えられます。
+空所の前に it があり、選択肢に goes、without、saying があることに注目します。it goes without saying that ～ で「～は言うまでもない」という決まった言い方になります。そこで it のあとに 2 goes → 4 without → 3 saying と並べます。without のような語のあとに動詞を置くときは ～ing の形にするので、without saying となります。
+次に 5 that を置き、そのあとに「言うまでもない内容」を続けます。空所のあとの used to cold weather（寒い天気に慣れている）とつながるのは 1 I'm で、I'm used to cold weather（私は寒い天気に慣れている）となります。be used to ～ は「～に慣れている」という意味です。
+したがって2番目は4 without です。
+まちがえやすいのは、it goes saying without … の順にしてしまうことです。without saying の順でないと「言うまでもない」の意味になりません。
+【覚えるポイント】
+・it goes without saying that ～：「～は言うまでもない」。
+・be used to ～：「～に慣れている」。to のあとには名詞（または ～ing）がきます。

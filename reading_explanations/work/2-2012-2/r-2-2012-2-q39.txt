@@ -1,0 +1,29 @@
+---
+choices: VSO volunteers today do not fit the pattern of VSO volunteers in the past. | a poorer country refused help from an international volunteer organization. | the Philippines receives more international volunteers than other areas in Asia. | many doctors are trying to focus more on public-health problems in Africa.
+answerText: VSO volunteers today do not fit the pattern of VSO volunteers in the past.
+reviewed: yes
+---
+【正解】1 VSO volunteers today do not fit the pattern of VSO volunteers in the past.（今日のVSOのボランティアは、過去のVSOのボランティアの型に当てはまらない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：VSOバハギナンは、～ことを示す一例です。
+1 VSO volunteers today do not fit the pattern of VSO volunteers in the past.（今日のVSOのボランティアが、過去のVSOのボランティアの型に当てはまらない）
+2 a poorer country refused help from an international volunteer organization.（より貧しい国が、国際的なボランティア団体からの援助を断った）
+3 the Philippines receives more international volunteers than other areas in Asia.（フィリピンが、アジアのほかの地域よりも多くの国際的なボランティアを受け入れている）
+4 many doctors are trying to focus more on public-health problems in Africa.（多くの医師が、アフリカの公衆衛生の問題にもっと力を入れようとしている）
+【考え方】
+VSOバハギナンについては、第3段落に書かれています。段落の1文目は The most dramatic example of this is probably in the Philippines.（このことの最も劇的な例は、おそらくフィリピンだろう）です。this（このこと）が何を指すかを、前の第2段落で確かめます。
+第2段落では、When we think of volunteers, we normally imagine people from wealthy countries helping people in poorer countries.（ボランティアというと、ふつうは豊かな国の人々がより貧しい国の人々を助ける様子を思い浮かべる）とあり、続いて Increasingly, though, VSO is recruiting volunteers from one developing country and sending them to help in another.（しかし、VSOはある発展途上国でボランティアを募集し、別の発展途上国へ送ることをますます多く行っている）と書かれています。これが this の内容で、「これまでのボランティアの姿とは違う、新しい現象」です。
+第3段落では、VSOバハギナンが600人を超えるフィリピン国民を、ほかの発展途上国へ送り出してきたと書かれています。
+ここで、過去のVSOのボランティアがどうだったかを第1段落で確かめます。VSOはもともとイギリスの18歳の若者を海外へ送り、のちには専門的な技能をもつ年上の人々を主に送るようになりました。また、第2段落にあるように、ボランティアといえばふつうは「豊かな国の人々」が思い浮かべられます。それに対してVSOバハギナンは、発展途上国であるフィリピンの人々を、別の発展途上国へ送り出しています。送り出される人の出身が豊かな国ではないという点で、過去のボランティアの型とは違うのです。本文と選択肢は次のように対応しています。
+本文 a new phenomenon（新しい現象）／ recruiting volunteers from one developing country and sending them to help in another（ある発展途上国でボランティアを募集し、別の発展途上国へ送る）＝ 選択肢 VSO volunteers today do not fit the pattern of VSO volunteers in the past（今日のVSOのボランティアは、過去のVSOのボランティアの型に当てはまらない）
+したがって、1が正解です。
+【ほかの選択肢】
+2 第3段落には Volunteers from developed countries regularly come to the Philippines to help with development projects.（先進国からのボランティアは、開発事業を手伝うためにふだんからフィリピンにやって来る）とあります。フィリピンが援助を断ったという話はなく、本文と反対です。
+3 フィリピンに先進国からボランティアが来ていることは書かれていますが、アジアのほかの地域と比べて多いかどうかは書かれていません。
+4 医師については、第2段落にインドの医師がアフリカの国へ派遣されることもあるという例が1つあるだけです。多くの医師が公衆衛生の問題に力を入れようとしているという話は本文になく、VSOバハギナンの例とも関係がありません。
+【覚えるポイント】
+・fit the pattern：「（よくある）型に当てはまる」。
+・an example of how ～：「どのように～かを示す例」。設問では「～ということを示す一例」と訳すと分かりやすくなります。

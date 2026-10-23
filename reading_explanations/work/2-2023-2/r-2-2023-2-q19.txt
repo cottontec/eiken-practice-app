@@ -1,0 +1,34 @@
+---
+choices: to not ought | not ought to | ought not to | to ought not
+answerText: ought not to
+reviewed: yes
+---
+【正解】3 ought not to（～すべきではない）
+【和訳】
+（英文）
+A: Brian, you ［ought not to］ put so much salt on your food. Eating too much salt can be bad for you.
+B: OK, Mom. I won't.
+（訳）
+A：ブライアン、食べ物にそんなにたくさん塩をかけるべきではないよ。塩をとりすぎると、体に悪いことがあるよ。
+B：分かったよ、お母さん。そうしないよ。
+（選択肢の意味）
+1 to not ought：正しい英語にならない並び
+2 not ought to：正しい英語にならない並び
+3 ought not to：～すべきではない
+4 to ought not：正しい英語にならない並び
+（どれも ought〔～すべきである〕、not、to を並べかえた形です）
+【考え方】
+まず見るところ：Aの Eating too much salt can be bad for you. と、Bの I won't.
+Eating too much salt can be bad for you.（塩をとりすぎると体に悪いことがある）
+OK, Mom. I won't.（分かったよ、お母さん。そうしない）
+ここから、Aはブライアンに「そんなにたくさん塩をかけてはいけない」と注意していると分かります。
+次に、ought の使い方を考えます。ought to ～ は「～すべきである」という意味で、should とほぼ同じ働きをします。これを「～すべきではない」と否定にするときは、not を ought のすぐあとに置いて ought not to ～ とします。
+you ought not to put so much salt on your food で「食べ物にそんなにたくさん塩をかけるべきではない」となり、内容にも合います。ですから3が正解です。
+この問題の型：文法（語順：ought not to）
+【ほかの選択肢】
+1 to not ought は to で始まっています。you のあとに to が来ると、文の中心になる動詞の形がなくなり、正しい英語になりません。
+2 not ought to は not が ought の前にあります。ought を否定するときは not を ought のあとに置くので、この順番は誤りです。
+4 to ought not は to で始まり、ought のあとに to もありません。正しい英語になりません。
+【覚えるポイント】
+・ought to ～：「～すべきである」。否定は ought not to ～（～すべきではない）です。
+・not の位置を問う問題では、ought のような「～すべき」を表す語のすぐあとに not が来るかどうかが判断の手がかりになります。

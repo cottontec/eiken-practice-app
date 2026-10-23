@@ -1,0 +1,35 @@
+---
+choices: frank | reluctant | spiteful | righteous
+answerText: reluctant
+reviewed: yes
+---
+【正解】2 reluctant（気が進まない、乗り気でない）
+【和訳】
+（英文）
+A: Why are you so ［reluctant］ to accept the job offer at DTP?
+B: Well, I'm concerned that I'd be even busier than I am now, so I'd really like something that'd give me a better work-life balance.
+（訳）
+A：どうしてDTP社での仕事の誘いを受けるのに、そんなに（気が進まない）の？
+B：うーん、今よりさらに忙しくなるのではないかと心配でね。だから、もっとよいワーク・ライフ・バランス（仕事と生活のつりあい）がとれるもの（仕事）が本当にほしいと思っているよ。
+（選択肢の意味）
+1 frank：率直な、ありのままに言う
+2 reluctant：気が進まない、乗り気でない
+3 spiteful：意地の悪い
+4 righteous：正しい、正義感の強い
+【考え方】
+まず見るところ：Bの答えの I'm concerned that I'd be even busier than I am now
+Aの質問は次のとおりです。
+Why are you so ( ) to accept the job offer at DTP?（どうしてDTP社での仕事の誘いを受けるのに、そんなに（　）の？）
+job offer は「仕事の誘い（採用の申し出）」です。空所には、仕事の誘いを受けることに対するBの気持ちが入ります。
+Bの答えは次のとおりです。
+I'm concerned that I'd be even busier than I am now（今よりさらに忙しくなるのではないかと心配だ）
+be concerned that ～ は「～ではないかと心配だ」という意味です。Bは、DTP社の仕事を受けると今よりもっと忙しくなりそうだと心配しています。
+ですから、その仕事を受けることには気が進まないのだと考えられます。be reluctant to ～ で「～するのに気が進まない」となるので、2が正解です。
+この問題の型：因果（今よりさらに忙しくなりそうで心配→誘いを受けるのに気が進まない）
+【ほかの選択肢】
+1 frank は「率直な」です。「仕事の誘いを受けるのにそんなに率直なのはなぜ？」となり、意味が通りません。Bの「忙しくなりそうで心配だ」という答えともつながりません。
+3 spiteful は「意地の悪い」です。「仕事の誘いを受けるのにそんなに意地が悪いのはなぜ？」となり、意味が通りません。
+4 righteous は「正しい、正義感の強い」です。「仕事の誘いを受けるのにそんなに正義感が強いのはなぜ？」となり、Bの答えとつながりません。
+【覚えるポイント】
+・be reluctant to ～：「～するのに気が進まない、～したがらない」。
+・Why are you so ～?（どうしてそんなに～なの？）という質問では、相手の答えに書かれている理由（ここでは I'm concerned that ～）から、どんな気持ちをたずねているのかを考えると手がかりになります。

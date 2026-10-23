@@ -1,0 +1,30 @@
+---
+choices: This is clearly demonstrated | There are long-lasting effects | This increases even more | There is a different type of benefit
+answerText: This is clearly demonstrated
+reviewed: yes
+---
+【正解】1 This is clearly demonstrated（このことがはっきりと示される）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 This is clearly demonstrated（このことがはっきりと示される）
+2 There are long-lasting effects（長く続く影響がある）
+3 This increases even more（これはさらにいっそう増える）
+4 There is a different type of benefit（別の種類の利点がある）
+【考え方】
+まず見るところ：第2段落の空所のあとの The team's home advantage initially goes away, only to return once the athletes get used to their new surroundings.
+第2段落は、ホームアドバンテージの理由として「本拠地の競技場をよく知っていること」を挙げています。ランシマンは、周りのささいな点でもよく知っていると「繰り返し行う体の動作をするときの自信を高める」ことがある、と指摘しています。
+( 30 ) when a team moves to a new home field.（チームが新しい本拠地の競技場に移るとき、（30））
+The team's home advantage initially goes away, only to return once the athletes get used to their new surroundings.（チームのホームアドバンテージは最初は消えてしまうが、選手たちが新しい環境に慣れると、結局また戻ってくる）
+initially は「最初は」、only to ～ は「（その結果）結局～する」、once ～ は「いったん～すると」という意味です。
+新しい競技場に移ると、まだその場所をよく知らないため、有利さが消えると考えられます。そして慣れると、また有利さが戻ります。
+これは「競技場をよく知っていることが有利さを生む」という前の考えが正しいことを示す例です。ですから「このことがはっきりと示される」という意味の1が正解です。
+この問題の型：具体例とまとめ（新しい競技場に移ったときの例→前の考えを裏づける）／指示語（This＝よく知っていることが自信を高めること）
+【ほかの選択肢】
+2 「長く続く影響がある」は、空所のあとの文と合いません。新しい競技場に移ると、有利さは最初は消えるものの、選手が慣れると戻ってきます。影響が長く続くという話ではありません。
+3 「これはさらにいっそう増える」は、空所のあとの文と合いません。新しい競技場に移ったとき、ホームアドバンテージは initially goes away（最初は消える）と書かれており、増えるのではありません。
+4 「別の種類の利点がある」は、空所のあとの文とつながりません。空所のあとは、前と同じホームアドバンテージが消えたり戻ったりする話で、別の種類の利点は出てきません。
+【覚えるポイント】
+・demonstrate：「（はっきりと）示す、証明する」。This is clearly demonstrated で「このことがはっきり示される」です。
+・空所のあとに具体的なできごと（ここでは新しい競技場での有利さの変化）が書かれているときは、それが前の考えを裏づける例なのか、別の話なのかを確かめることが手がかりになります。

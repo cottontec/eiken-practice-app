@@ -1,0 +1,30 @@
+---
+choices: nauseated | aligned | dispatched | corroded
+answerText: nauseated
+reviewed: yes
+---
+【正解】1 nauseated（吐き気がする、むかむかする）
+【和訳】
+（英文）
+After drinking several glasses of wine, Meg began to feel a bit ［nauseated］. She decided to go outside into the fresh air until her stomach felt better.
+（訳）
+ワインを何杯か飲んだあと、メグは少し（吐き気がして）きた。彼女は、胃の具合がよくなるまで、外に出て新鮮な空気にあたることにした。
+（選択肢の意味）
+1 nauseated：吐き気がする、むかむかする
+2 aligned：一列に並んだ、（考えが）一致した
+3 dispatched：送り出された、派遣された
+4 corroded：（金属が）さびてぼろぼろになった
+【考え方】
+まず見るところ：次の文の until her stomach felt better
+空所のある文は「ワインを何杯か飲んだあと、メグは少し（　）と感じ始めた」です。feel のあとには、体や気持ちの状態を表す語が入ります。
+次の文に、メグがとった行動が書かれています。
+She decided to go outside into the fresh air until her stomach felt better.（彼女は、胃の具合がよくなるまで、外に出て新鮮な空気にあたることにした）
+stomach は「胃、おなか」です。「胃の具合がよくなるまで」とあるので、メグはお酒を飲んで胃の具合が悪くなっていたと分かります。nauseated は「吐き気がする、むかむかする」という意味なので、1が正解です。
+この問題の型：因果（ワインを飲んだ → 吐き気がした → 外の空気にあたる）
+【ほかの選択肢】
+2 aligned は「一列に並んだ、（考えが）一致した」です。「メグは少し一列に並んだと感じ始めた」では意味が通らず、胃の具合が悪いことともつながりません。
+3 dispatched は「送り出された、派遣された」です。「メグは少し派遣されたと感じ始めた」では意味が通りません。
+4 corroded は「（金属が）さびてぼろぼろになった」です。金属などに使う語で、ワインを飲んだあとの人の体の状態を表せません。
+【覚えるポイント】
+・feel nauseated：「吐き気がする、気分が悪くなる」。
+・空所のあとの文に until her stomach felt better（胃の具合がよくなるまで）のような回復の内容があるときは、その前の空所には体の不調を表す語が入る手がかりになります。

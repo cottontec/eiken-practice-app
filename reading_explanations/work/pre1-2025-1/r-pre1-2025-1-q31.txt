@@ -1,0 +1,34 @@
+---
+choices: It can actually strengthen personal relationships among people who feel that they have been the victims of harm from others. | It can cause people to follow social rules so that they are more likely to behave in a way that is acceptable to the group. | It can allow individuals a chance to make a situation fairer when they are being treated badly by the rest of society. | It can indirectly lead to increased competition that can cause many people in society to enjoy greater success.
+answerText: It can cause people to follow social rules so that they are more likely to behave in a way that is acceptable to the group.
+reviewed: yes
+---
+【正解】2 It can cause people to follow social rules so that they are more likely to behave in a way that is acceptable to the group.（それは人々に社会のきまりを守らせ、その結果、人々が集団に受け入れられるような行動をとる可能性がより高くなることがある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to the fourth paragraph, what is one positive effect of revenge?（第4段落によると、復讐のよい影響の一つは何か。）
+1 It can actually strengthen personal relationships among people who feel that they have been the victims of harm from others.（それは、ほかの人から危害を受けた被害者だと感じている人々どうしの人間関係を、実際に強めることがある。）
+2 It can cause people to follow social rules so that they are more likely to behave in a way that is acceptable to the group.（それは人々に社会のきまりを守らせ、その結果、人々が集団に受け入れられるような行動をとる可能性がより高くなることがある。）
+3 It can allow individuals a chance to make a situation fairer when they are being treated badly by the rest of society.（それは、社会のほかの人々からひどい扱いを受けているときに、個人に状況をより公平にする機会を与えることがある。）
+4 It can indirectly lead to increased competition that can cause many people in society to enjoy greater success.（それは間接的に競争の高まりにつながり、その競争によって社会の多くの人がより大きな成功を手にすることがある。）
+【考え方】
+まず見るところ：第4段落の However, revenge may also send a message that affects the behavior of everyone in the society ～
+第4段落では、まず復讐の悪い面（個人にとっての大きな代償や、復讐の連鎖）が書かれています。そのあと However（しかし）で、よい面が示されます。
+However, revenge may also send a message that affects the behavior of everyone in the society by making it clear that certain types of actions will not be tolerated.（しかし復讐は、ある種の行動は許されないということをはっきりさせることで、社会のすべての人の行動に影響するメッセージを送ることもある）
+tolerate は「許す、がまんする」です。復讐があることで、「こういうことをすると仕返しされる」と、みんなが分かるということです。
+次の文も見ます。
+As well as making people aware of what not to do, it can indirectly lead to beneficial actions.（何をしてはいけないかを人々に気づかせるだけでなく、復讐は間接的に、よい行動につながることもある）
+本文と選択肢を対にすると、次のようになります。
+本文 making it clear that certain types of actions will not be tolerated / making people aware of what not to do（ある種の行動は許されないとはっきりさせる／何をしてはいけないかを気づかせる）→ 選択肢 cause people to follow social rules（人々に社会のきまりを守らせる）
+本文 affects the behavior of everyone in the society（社会のすべての人の行動に影響する）≒ 選択肢 behave in a way that is acceptable to the group（集団に受け入れられるような行動をとる）
+段落の最後の reinforcing behaviors that contribute positively to its overall success（全体の成功にプラスになる行動を強める）とも合います。ですから2が正解です。
+この問題の型：言いかえ（what not to do ≒ social rules）／具体例とまとめ（サッカーチームの例 → 集団に合った行動をとるようになる）
+【ほかの選択肢】
+1 第4段落では、damage to human relationships（人間関係が傷つくこと）が、復讐の個人にとっての代償として挙げられています。被害者どうしの人間関係が強まるという話は書かれていません。
+3 ひどい扱いを受けている個人が、状況をより公平にする機会を得るという話は、第4段落に書かれていません。
+4 本文にも indirectly lead to（間接的に～につながる）という言い方がありますが、本文でつながる先は beneficial actions（よい行動）です。競争の高まりについては書かれておらず、サッカーの例で高まるのも、練習でのチーム全体のやる気です。
+【覚えるポイント】
+・tolerate：「許す、がまんする」。will not be tolerated は「許されない」です。
+・段落の中で悪い面が書かれたあとに However（しかし）が出てきたら、そこからがよい面の説明になることが多いので、「よい影響は何か」という設問ではその後ろを中心に読むのが手がかりになります。

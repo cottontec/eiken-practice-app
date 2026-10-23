@@ -1,0 +1,34 @@
+---
+choices: most buildings were used by such a diverse range of people that it would be impossible to design something that suited everyone. | doing so would likely lead architects to overlook the requirements of the actual people a building is primarily used by. | the majority of people did not have sufficient knowledge to appreciate the methods and design principles that architects focused on. | attempting to involve as many people as possible in the design process often led to a confusing and unpopular final product.
+answerText: doing so would likely lead architects to overlook the requirements of the actual people a building is primarily used by.
+reviewed: yes
+---
+【正解】2 doing so would likely lead architects to overlook the requirements of the actual people a building is primarily used by.（そうすると、建築家が、建物を主に使う実際の人々が必要とするものを見落とすことになりやすいから。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Matrix argued against a focus on the “average” person because（マトリックスが「平均的な」人に注目することに反対したのは、）
+1 most buildings were used by such a diverse range of people that it would be impossible to design something that suited everyone.（ほとんどの建物はとてもさまざまな人々に使われているので、全員に合うものを設計するのは不可能だろうから。）
+2 doing so would likely lead architects to overlook the requirements of the actual people a building is primarily used by.（そうすると、建築家が、建物を主に使う実際の人々が必要とするものを見落とすことになりやすいから。）
+3 the majority of people did not have sufficient knowledge to appreciate the methods and design principles that architects focused on.（大部分の人々は、建築家が重視している方法や設計の原則を正しく理解できるだけの十分な知識を持っていなかったから。）
+4 attempting to involve as many people as possible in the design process often led to a confusing and unpopular final product.（できるだけ多くの人を設計の過程に加えようとすると、最終的にできあがるものが分かりにくく、人気のないものになることが多かったから。）
+【考え方】
+まず見るところ：第3段落の by trying to understand the specific needs of a building’s actual users
+第3段落で、マトリックスの主張が述べられています。
+In fact, one of Matrix’s key arguments denounced architects’ focus on the “average” person.（実際、マトリックスの重要な主張の1つは、建築家が「平均的な」人に注目することを強く非難するものだった）
+denounce は「強く非難する」です。なぜ非難したのかは、次の文に書かれています。
+The members of Matrix reasoned that architects could produce their greatest work by trying to understand the specific needs of a building’s actual users, which meant involving such people in the design process to identify necessary features and integrate them into the final design.（マトリックスのメンバーたちは、建築家は建物を実際に使う人々の特定のニーズを理解しようとすることで最高の仕事を生み出すことができると考えた。それはつまり、そうした人々を設計の過程に加えて、必要な特徴を見つけ出し、それを最終的な設計に取り入れるということだった）
+reason は、ここでは動詞で「（筋道を立てて）考える」です。マトリックスは、「平均的な人」ではなく「実際に使う人」のニーズを理解することが大切だと考えていました。
+本文と選択肢を対にすると、次のようになります。
+本文 the specific needs of a building’s actual users（建物を実際に使う人々の特定のニーズ）→ 選択肢 the requirements of the actual people a building is primarily used by（建物を主に使う実際の人々が必要とするもの）
+本文「実際に使う人のニーズを理解しようとすることで最高の仕事ができる」→ 読み取れること「平均的な人に注目すると、実際に使う人のニーズを見落としやすい」
+選択肢の overlook は「見落とす」です。本文に「見落とす」という語はそのままは出てきませんが、上の対応から、2が正解だと分かります。
+この問題の型：推論（実際に使う人を理解すべき→平均に注目すると見落とす）
+【ほかの選択肢】
+1 本文に書かれていません。マトリックスは実際に使う人々のニーズを理解することを大切にしていましたが、「建物を使う人がさまざますぎて、全員に合うものは設計できない」という理由は述べられていません。
+3 本文に書かれていません。人々の知識が足りないことは、「平均的な」人への注目に反対した理由として出てきません。第4段落には、小さな模型を使って even people with little knowledge of architecture（建築についてほとんど知識のない人々でさえ）設計の過程に加わっていると感じられた、とあり、マトリックスは知識の少ない人も設計に加えようとしていました。
+4 本文に書かれていません。マトリックスは、実際に使う人々を設計の過程に加えること（involving such people in the design process）を大切にしていました。人を加えると分かりにくく人気のないものになる、という話は本文に出てきません。
+【覚えるポイント】
+・denounce：「強く非難する」。
+・「なぜ反対したのか」をたずねる設問では、反対したことが書かれた文のすぐ後ろの reasoned that ～（～と考えた）のような文に、理由が書かれていることが多いです。

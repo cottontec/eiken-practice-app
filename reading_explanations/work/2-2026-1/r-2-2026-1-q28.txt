@@ -1,0 +1,31 @@
+---
+choices: The money left to him after his mother passed away. | The sales of the book he wrote about the natural world. | An invitation from his brother to travel to new places. | Support given by a group of scientists in South America.
+answerText: The money left to him after his mother passed away.
+reviewed: yes
+---
+【正解】1 The money left to him after his mother passed away.（母親が亡くなったあとに、彼に残されたお金。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What made it possible for Alexander von Humboldt to travel to South America?（何によって、アレクサンダー・フォン・フンボルトは南アメリカへ旅をすることができたのですか。）
+1 The money left to him after his mother passed away.（母親が亡くなったあとに、彼に残されたお金。）
+2 The sales of the book he wrote about the natural world.（彼が自然界について書いた本の売り上げ。）
+3 An invitation from his brother to travel to new places.（新しい場所へ旅をしようという、兄からのさそい。）
+4 Support given by a group of scientists in South America.（南アメリカの科学者の集団から与えられた支援。）
+【考え方】
+まず見るところ：第2段落の The money he received after his mother's death made his dream of traveling to South America come true.
+アレクサンダーの南アメリカへの旅については、第2段落に書かれています。
+The money he received after his mother's death made his dream of traveling to South America come true.（母親の死後に受け取ったお金によって、南アメリカへ旅をするという彼の夢がかなった）
+make ～ come true は「～を実現させる、かなえる」という意味です。お金が夢をかなえた、つまりそのお金のおかげで旅に行けたということです。
+本文と選択肢を対にすると、次のようになります。
+本文 The money he received after his mother's death（母親の死後に彼が受け取ったお金）→ 言いかえると 選択肢 The money left to him after his mother passed away（母親が亡くなったあとに、彼に残されたお金）
+本文の death（死）が passed away（亡くなった）に、received（受け取った）が left to him（彼に残された）に言いかえられています。また、設問の made it possible（可能にした）は、本文の made his dream ～ come true（夢をかなえた）の言いかえです。ですから1が正解です。
+この問題の型：言いかえ（received after his mother's death ＝ left to him after his mother passed away）
+【ほかの選択肢】
+2 本文には、Alexander wrote books about what he had learned there after the trip.（アレクサンダーは旅のあと、そこで学んだことについて本を書いた）とあります。本を書いたのは旅のあとなので、その売り上げで旅に行けたのではありません。時期が合いません。
+3 アレクサンダーは2人のうち年下なので、his brother は兄のヴィルヘルムです。しかし、兄からのさそいの話は本文にありません。本文では、冒険への興味は had been deeply interested in adventure since early childhood（幼いころからずっと冒険に強い興味を持っていた）というアレクサンダー自身のものです。
+4 南アメリカの科学者の集団から支援を受けたとは、本文に書かれていません。旅を可能にしたのは、母親の死後に受け取ったお金です。
+【覚えるポイント】
+・make ～ come true：「～を実現させる、かなえる」。pass away は「亡くなる」で、death（死）の言いかえとしてよく使われます。
+・「何によって～できたのか」という設問では、本文の made ～ possible や made ～ come true のような「～を可能にした」という形の主語を探すと、答えの手がかりになります。

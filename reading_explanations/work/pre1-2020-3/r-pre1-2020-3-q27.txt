@@ -1,0 +1,30 @@
+---
+choices: Alternatively | In contrast | What is more | Nevertheless
+answerText: What is more
+reviewed: yes
+---
+【正解】3 What is more（そのうえ、さらに）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Alternatively（あるいは、その代わりに）
+2 In contrast（それとは対照的に）
+3 What is more（そのうえ、さらに）
+4 Nevertheless（それにもかかわらず）
+【考え方】
+まず見るところ：第2段落の空所の直前の they got the most responses when there was a large amount of money in the wallet
+空所の前の文は次のとおりです。
+Surprisingly, they got the most responses when there was a large amount of money in the wallet.（驚いたことに、最も多くの返事があったのは、財布に多額のお金が入っていたときだった）
+responses は「返事」で、ここでは財布が見つかったことを知らせるEメールのことです。お金がたくさん入っているほど財布がよく返ってきた、ということです。
+空所のある文は次のとおりです。
+(27), an even higher number of wallets were returned when the amount of money was further increased.（（27）、お金の額をさらに増やすと、さらに多くの財布が返された）
+even higher は「さらに多い」、further increased は「さらに増やされた」です。前の文の「多額のお金→最も多く返ってきた」と、この文の「もっと増やす→さらに多く返ってきた」は、同じ方向の内容です。前の内容に同じ向きの情報を付け加えるつなぎ言葉は What is more（そのうえ、さらに）なので、3が正解です。
+この問題の型：語の意味・組み合わせ（つなぎ言葉 What is more）／言いかえ（the most responses → an even higher number of wallets were returned）
+【ほかの選択肢】
+1 Alternatively は「あるいは、その代わりに」と、別の選び方を示すつなぎ言葉です。前の文と空所の文は、どちらか一方を選ぶ関係ではなく、同じ方向の結果が続いているので合いません。
+2 In contrast は「それとは対照的に」と、反対の内容を示すつなぎ言葉です。空所の文は前の文と反対ではなく、同じ方向の結果をさらに強めているので合いません。
+4 Nevertheless は「それにもかかわらず」と、前の内容から予想されることと反対のことを示すつなぎ言葉です。前の文の「多額のお金のときに最も多く返ってきた」から、「さらに増やすともっと返ってきた」は予想と反対の内容ではないので合いません。
+【覚えるポイント】
+・What is more：「そのうえ、さらに」。前の文と同じ方向の情報を付け加えるときに使います。
+・つなぎ言葉の空所では、前の文と後ろの文が「同じ向き」か「反対の向き」かをまず確かめると手がかりになります。even（さらに）や further（さらに）は、同じ向きの内容が強まっていることを示すことが多い語です。

@@ -1,0 +1,22 @@
+---
+choices: found | moment | she | out | the
+answerText: found
+order: 5 2 3 1 4
+reviewed: yes
+---
+【正解】1 found（この問題の4番目）
+【完成文】
+Yukiko was very excited to learn that she had passed her college entrance examination. ( The moment she found out ), she called her parents to tell them the good news.
+並べ方：5 the → 2 moment → 3 she → 1 found → 4 out（2番目は2、4番目は1）
+【和訳】
+ユキコは、自分が大学の入学試験に合格したと知って、とても興奮しました。そのことを知るとすぐに、彼女はそのよい知らせを伝えるために両親に電話しました。
+【考え方】
+空所のあとは she called her parents to tell them the good news（彼女はよい知らせを伝えるために両親に電話した）で、主語と動詞がそろった文になっています。ですから空所には、「いつ電話したか」を表すまとまりが入ると考えます。
+the moment ＋ 主語 ＋ 動詞 は「～するとすぐに、～した瞬間に」という決まった言い方です。最初に 5 the、2 moment を置きます。
+その後ろに「だれがどうした」の形を続けます。主語は 3 she で、動詞は 1 found です。find out は「（事実を）知る、分かる」という意味なので、found のあとに 4 out を置きます。
+The moment she found out で「彼女が（合格したことを）知るとすぐに」となります。前の文の「合格したと知ってとても興奮した」という内容から、知ってすぐに両親へ電話した、という流れになります。
+The moment found she out のように she と found の順番を入れかえると、「だれがどうした」の形にならないので注意しましょう。
+4番目に found が来るのは、the moment のあとに続く「だれがどうした」の形で、主語の she のすぐあとに動詞が来るからです。したがって4番目は1 foundです。
+【覚えるポイント】
+・the moment ＋ 主語 ＋ 動詞：「～するとすぐに、～した瞬間に」。
+・find out：「（事実を）知る、分かる」。

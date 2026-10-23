@@ -1,0 +1,31 @@
+---
+choices: keeping their flowers and leaves clean | living under the leaves of large plants | eating the unnecessary leaves of plants | carrying their seeds to different places
+answerText: carrying their seeds to different places
+reviewed: yes
+---
+【正解】4 carrying their seeds to different places（植物の種をいろいろな場所へ運ぶこと）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 keeping their flowers and leaves clean（植物の花や葉をきれいに保つこと）
+2 living under the leaves of large plants（大きな植物の葉の下で暮らすこと）
+3 eating the unnecessary leaves of plants（植物のいらない葉を食べること）
+4 carrying their seeds to different places（植物の種をいろいろな場所へ運ぶこと）
+【考え方】
+まず見るところ：第1段落の空所の直後の This allows new plants to start growing far from the parent plant.
+空所のある文は次のとおりです。
+In addition, bats help many plants grow by (21).（さらに、コウモリは（21）ことによって、多くの植物が育つのを助けている）
+by ～ing は「～することによって」という意味で、コウモリがどのようにして植物が育つのを助けているのかが空所に入ります。
+次に、空所の直後の文を見ます。
+This allows new plants to start growing far from the parent plant.（このことによって、新しい植物が、親の植物から遠く離れたところで育ち始めることができる）
+This（このこと）は、空所の内容を指しています。新しい植物が親の植物から遠く離れたところで育ち始めるには、種が遠くへ運ばれる必要があります。
+4 carrying their seeds to different places は「植物の種をいろいろな場所へ運ぶこと」で、their は many plants（多くの植物）を指します。種が別の場所へ運ばれれば、そこで新しい植物が育ち始めるので、4が正解です。
+この問題の型：指示語（This ＝種をいろいろな場所へ運ぶこと）／因果（種を運ぶ→遠くで新しい植物が育つ）
+【ほかの選択肢】
+1 「植物の花や葉をきれいに保つこと」では、新しい植物が親の植物から遠く離れたところで育ち始めることにつながりません。
+2 「大きな植物の葉の下で暮らすこと」は、コウモリのすむ場所の話で、植物が育つのを助けることにも、遠くで新しい植物が育つことにもつながりません。
+3 「植物のいらない葉を食べること」は、植物の葉の話で、新しい植物が遠くで育ち始める理由になりません。本文でコウモリが食べると書かれているのは、植物に害を与える昆虫です。
+【覚えるポイント】
+・by ～ing：「～することによって」。方法を表します。
+・空所の直後の This allows ～（このことによって～できる）は、空所の内容がもたらす結果を説明していることが多いので、その結果を生む選択肢を選ぶと手がかりになります。

@@ -1,0 +1,29 @@
+---
+choices: been testing a special kind of chair made for children. | been trying to develop machines that can repair damaged bones. | found a way to scan the backbones of patients who are not lying down. | discovered that scanners can damage people's backs if used incorrectly.
+answerText: found a way to scan the backbones of patients who are not lying down.
+reviewed: yes
+---
+【正解】3 found a way to scan the backbones of patients who are not lying down.（横になっていない患者の背骨をスキャンする方法を見つけた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：最近、科学者たちは
+1 been testing a special kind of chair made for children.（子ども用に作られた特別な種類のいすを試験している。）
+2 been trying to develop machines that can repair damaged bones.（傷んだ骨を治すことができる機械を開発しようとしている。）
+3 found a way to scan the backbones of patients who are not lying down.（横になっていない患者の背骨をスキャンする方法を見つけた。）
+4 discovered that scanners can damage people's backs if used incorrectly.（スキャナーは正しく使わないと人の背中を傷めることがあると発見した。）
+【考え方】
+設問の Recently（最近）に注目し、第1段落で「最近」の変化を述べている部分を探します。
+まず Until recently, however, scientists had not been able to test the truth of this idea.（しかし最近まで、科学者たちはこの考えが本当か確かめられなかった）とあり、その理由として the scanners used by doctors to look at the backbone only worked when patients were lying down（医者が背骨を見るために使うスキャナーは、患者が横になっているときしか使えなかった）と書かれています。backbone は「背骨」です。
+続いて Now, a new machine has been developed that can scan the bones of a person in a sitting position.（今では、すわった姿勢の人の骨をスキャンできる新しい機械が開発されている）とあります。つまり、横になっていなくても背骨を調べられるようになったのです。
+本文 can scan the bones of a person in a sitting position（すわった姿勢の人の骨をスキャンできる）＝ 選択肢 scan the backbones of patients who are not lying down（横になっていない患者の背骨をスキャンする）
+本文 a new machine has been developed（新しい機械が開発された）＝ 選択肢 found a way（方法を見つけた）
+正解は3です。
+【ほかの選択肢】
+1 本文の最初に、親が子どもに「背すじをまっすぐにすわりなさい」と言うことは出てきますが、子ども用の特別ないすを試験したという話はありません。いすについては、第3段落でバシール博士が「企業は従業員にいすを用意すべきだ」と言っているだけです。
+2 新しい機械は骨を「スキャンする（写し出して調べる）」ためのもので、傷んだ骨を「治す」機械ではありません。本文にない内容です。
+4 本文に書かれているのは、これまでのスキャナーは横になっているときしか使えなかった、ということだけです。スキャナーが背中を傷めるという話は本文にありません。
+【覚えるポイント】
+・until recently：「最近まで（は）」。「最近になって変わった」ことを知らせる合図になります。
+・lie down：「横になる」。lying down は「横になっている」。

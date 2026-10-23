@@ -1,0 +1,35 @@
+---
+choices: Most of the reported cases of animals using natural substances for medicinal purposes were false. | Most chemical substances produced by plants were harmful to animals even when only consumed in small amounts. | Chimpanzees supplemented their diets with leaves when they could not get adequate nutrition from their usual food sources. | Chimpanzees deliberately ate the leaves of certain plants when they were suffering from parasitic infections.
+answerText: Chimpanzees deliberately ate the leaves of certain plants when they were suffering from parasitic infections.
+reviewed: yes
+---
+【正解】4 Chimpanzees deliberately ate the leaves of certain plants when they were suffering from parasitic infections.（チンパンジーは、寄生虫の感染に苦しんでいるときに、ある種の植物の葉をわざと食べていた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What did a group of researchers in the 1970s conclude?（1970年代のある研究者のグループは、どのような結論を出しましたか。）
+1 Most of the reported cases of animals using natural substances for medicinal purposes were false.（動物が薬として自然の物質を使ったと報告された例のほとんどは、まちがいだった。）
+2 Most chemical substances produced by plants were harmful to animals even when only consumed in small amounts.（植物が作り出す化学物質のほとんどは、少しの量しか体に取り入れなくても、動物にとって害になった。）
+3 Chimpanzees supplemented their diets with leaves when they could not get adequate nutrition from their usual food sources.（チンパンジーは、ふだんの食べ物から十分な栄養をとれないとき、葉で食事を補っていた。）
+4 Chimpanzees deliberately ate the leaves of certain plants when they were suffering from parasitic infections.（チンパンジーは、寄生虫の感染に苦しんでいるときに、ある種の植物の葉をわざと食べていた。）
+【考え方】
+まず見るところ：第2段落の the behavior occurred more frequently when stomach parasites were common と The researchers hypothesized that ～
+第2段落は、1970年代にタンザニアでチンパンジーを研究した研究者たちの話です。まず、次のようにあります。
+They observed some chimpanzees in the group swallowing the leaves of plants that were not a part of their regular diet.（研究者たちは、群れの中の何頭かのチンパンジーが、ふだんの食べ物には入っていない植物の葉を飲みこんでいるのを観察した）
+swallow は「飲みこむ」、regular diet は「ふだんの食べ物」です。続いて、葉をかまずに丸ごと飲みこんでいたので栄養のためではないことは明らかで、この行動は胃の寄生虫が多いときにより頻繁に起こった、と書かれています。そして、次の文が研究者たちの結論にあたります。
+The researchers hypothesized that the leaves were being used to remove the parasites, and they used the term "zoopharmacognosy" to refer to this self-medicating behavior.（研究者たちは、その葉が寄生虫を取り除くために使われているという仮説を立て、この自己治療の行動を表すのに「ズーファーマコグノシー」という言葉を使った）
+hypothesize は「仮説（まだ確かめられていない、説明のための考え）を立てる」です。チンパンジーは、寄生虫がいるときに、それを取り除く目的で、ふだんは食べない葉を飲みこんでいた、と研究者たちは考えたのです。
+本文と選択肢を対にすると、次のようになります。
+本文 the leaves were being used to remove the parasites（その葉は寄生虫を取り除くために使われていた）→ 選択肢 deliberately ate the leaves（わざと葉を食べていた）
+本文 when stomach parasites were common among the group（群れの中で胃の寄生虫が多く見られるとき）→ 選択肢 when they were suffering from parasitic infections（寄生虫の感染に苦しんでいるとき）
+本文 the leaves of plants that were not a part of their regular diet（ふだんの食べ物には入っていない植物の葉）→ 選択肢 the leaves of certain plants（ある種の植物の葉）
+ですから4が正解です。
+この問題の型：言いかえ（used to remove the parasites → deliberately ate ～ when suffering from parasitic infections）
+【ほかの選択肢】
+1 本文には、動物が自然の物質を薬として使ったという報告のほとんどがまちがいだった、という話はありません。第1段落では、科学者たちがそうした例を数多く報告してきたことが書かれていて、研究者たちがそれをまちがいだと結論づけたとは書かれていません。
+2 第1段落には、植物の化学物質の中には some of these chemicals have medicinal properties（薬としての性質を持つものもある）と書かれています。化学物質のほとんどが少しの量でも動物に害になる、という話は本文にありません。
+3 第2段落には、葉をかまずに丸ごと飲みこんでいたので they were obviously not consuming them for nutritional purposes（栄養をとる目的で食べているのでないことは明らかだった）とあります。栄養を補うために葉を食べていた、という選択肢は本文と反対です。
+【覚えるポイント】
+・hypothesize：「仮説を立てる」。parasite は「寄生虫」、parasitic infection は「寄生虫の感染」。
+・設問の conclude（結論を出す）は、本文では hypothesized（仮説を立てた）のような別の語で書かれていることがあるので、研究者の「考え」を表す動詞を探すことが手がかりになります。

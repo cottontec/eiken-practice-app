@@ -1,0 +1,31 @@
+---
+choices: irregular | dismayed | uneasy | unwarranted
+answerText: unwarranted
+reviewed: yes
+---
+【正解】4 unwarranted（根拠のない、正当な理由のない）
+【和訳】
+（英文）
+Mrs. Smith called the police after seeing a man walk up to several homes on her street, but her suspicions were ［unwarranted］. He was working for a delivery company.
+（訳）
+スミスさんは、ある男が自分の住む通りの何軒かの家に歩いて近づいていくのを見て、警察に通報したが、その疑いは（根拠のないもの）だった。その男は配達会社の仕事をしていたのだ。
+（選択肢の意味）
+1 irregular：不規則な、ふつうでない
+2 dismayed：（人が）うろたえた、がっかりした
+3 uneasy：（人が）不安な、落ち着かない
+4 unwarranted：根拠のない、正当な理由のない
+【考え方】
+まず見るところ：空所の前の but her suspicions were と、次の文の He was working for a delivery company.
+スミスさんは、知らない男が何軒もの家に近づくのを見て、あやしいと思い警察を呼びました。suspicion は「疑い」です。
+but her suspicions were (　).（しかし、彼女の疑いは〇〇だった）
+but（しかし）があるので、疑いについて、予想とは反対のことが書かれると考えられます。次の文を見ます。
+He was working for a delivery company.（彼は配達会社の仕事をしていた）
+男は荷物を配るために家々を回っていただけで、あやしい人ではありませんでした。つまり、スミスさんの疑いには理由がなかったのです。unwarranted は「根拠のない、正当な理由のない」なので、4が正解です。
+この問題の型：対比（警察を呼んだ but 疑いは根拠がなかった）
+【ほかの選択肢】
+1 irregular は「不規則な」です。「疑いが不規則だった」では、男が配達の仕事をしていたという次の文の説明になりません。
+2 dismayed は「うろたえた」で、人の気持ちを表す語です。「疑いがうろたえた」とは言えず、意味が通りません。
+3 uneasy は「不安な」で、これも人の気持ちを表す語です。「疑いが不安だった」では、次の文の「配達の仕事をしていただけ」という説明につながりません。
+【覚えるポイント】
+・unwarranted：「根拠のない」。suspicion：「疑い」。
+・but のあとの空所では、次の文に書かれた「本当のこと」（ここでは配達の仕事をしていた）が、前半の思いこみをどう打ち消すかが手がかりになります。

@@ -1,0 +1,32 @@
+---
+choices: health of ecosystems | sense of danger they feel | presence of similar animals | number of humans near them
+answerText: sense of danger they feel
+reviewed: yes
+---
+【正解】2 sense of danger they feel（その動物が感じる危険の感覚）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 health of ecosystems（生態系の健全さ）
+2 sense of danger they feel（その動物が感じる危険の感覚）
+3 presence of similar animals（似た動物がいること）
+4 number of humans near them（その動物の近くにいる人間の数）
+【考え方】
+まず見るところ：第1段落の実験の方法 Speakers broadcasting recordings of sounds ～ と The birds were protected from actual predators ～
+段落の初めでは、ふつうの考え方と、それに対する新しい研究が書かれています。
+The impact predators have on populations of their prey is usually blamed on direct killing.（捕食者がえものの個体数に与える影響は、ふつう、直接殺されることのせいだと考えられている）
+Recent research, however, suggests this is only part of the picture.（しかし最近の研究は、これが全体の一部にすぎないことを示している）
+つまり、「殺されること」以外にも、えものの数に影響するものがある、という話です。その「ほかのもの」を確かめるのが、空所のある実験です。
+実験の方法を見ます。
+Speakers broadcasting recordings of sounds made by either predators or non-predators were put in different sections of the birds' habitat.（捕食者か捕食者でない動物のどちらかの音の録音を流すスピーカーが、鳥のすみかの別々の区画に置かれた）
+The birds were protected from actual predators by fencing and nets.（鳥たちは、さくと網によって本物の捕食者から守られていた）
+鳥は本物の捕食者には襲われません。聞こえるのは捕食者の「音」だけです。それでも数に影響が出るかを調べたのですから、実験で確かめたかったのは、えものが「危険を感じること」の影響だと考えられます。第3段落にも responded to the threat of predators（捕食者の脅威に反応した）とあります。よって2が正解です。
+この問題の型：推論（実験の方法から、実験の目的を考える）
+【ほかの選択肢】
+1 「生態系の健全さ」は、この実験で調べたこととは違います。実験では、スピーカーで流す音の種類を区画ごとに変えて、スズメの子の数を比べています。生態系全体が健全かどうかは調べていません。
+3 「似た動物がいること」も違います。流したのは predators or non-predators（捕食者か、捕食者でない動物）の音で、スズメに似た動物がいるかどうかを比べた実験ではありません。
+4 「その動物の近くにいる人間の数」は、本文に出てきません。実験で変えたのは聞こえる音の種類で、人間の数ではありません。
+【覚えるポイント】
+・blame A on B：「AをBのせいにする」。only part of the picture：「全体の一部にすぎない」。
+・実験の目的が空所になっているときは、そのあとの「実験で何を変え、何を同じにしたか」（ここでは音だけを変え、本物の捕食者からは守った）を確かめると、答えを決める手がかりになります。

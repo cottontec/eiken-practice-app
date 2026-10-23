@@ -1,0 +1,29 @@
+---
+choices: It helps to promote school programs in the local area. | It can lead to the creation of more jobs in the community. | It teaches children in the community how money works. | It allows people to buy things at a discount from stores in the region.
+answerText: It can lead to the creation of more jobs in the community.
+reviewed: yes
+---
+【正解】2 It can lead to the creation of more jobs in the community.（地域社会でより多くの仕事が生まれることにつながりうる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：地域通貨を使うことのよい点の1つは何ですか。
+1 It helps to promote school programs in the local area.（地元の学校の取り組みを盛んにする助けになる。）
+2 It can lead to the creation of more jobs in the community.（地域社会でより多くの仕事が生まれることにつながりうる。）
+3 It teaches children in the community how money works.（地域社会の子どもたちに、お金のしくみを教える。）
+4 It allows people to buy things at a discount from stores in the region.（人々が、地域の店で物を割引価格で買えるようにする。）
+【考え方】
+設問の benefit は「よい点、利益」という意味です。地域通貨のよい点は、第2段落の初めに書かれています。
+Because a local currency can only be used in one small area, the money stays there.（地域通貨は1つの小さな地域でしか使えないので、お金はその地域にとどまる）
+This can help local businesses and create more jobs, giving people in the area more money to spend.（このことは地元の店や会社を助け、より多くの仕事を生み出すことができ、その地域の人々が使えるお金を増やす）
+本文と選択肢は次のように対応しています。
+本文 can ... create more jobs（より多くの仕事を生み出すことができる）＝ 選択肢 can lead to the creation of more jobs（より多くの仕事が生まれることにつながりうる）
+本文の動詞 create（生み出す）が、選択肢では名詞 creation（生み出すこと）になっています。lead to ～ は「～につながる」という意味です。本文の can も、選択肢の can と対応しています。したがって2が正解です。
+【ほかの選択肢】
+1 本文で学校に関係するのは、キームガウアーを始めたのが a high school teacher（高校の教師）だということだけです。地域通貨が学校の取り組みを盛んにするという話はありません。
+3 子どもたちにお金のしくみを教えるという話は本文にありません。
+4 本文には Each Chiemgauer is worth one euro（1キームガウアーは1ユーロの価値がある）とあり、買うときには3パーセントが慈善団体に渡ると書かれています。地域の店で割引価格で買えるという話はありません。
+【覚えるポイント】
+・benefit：「よい点、利益」。
+・create（生み出す）→ creation（生み出すこと）：動詞と名詞の言いかえに注意します。

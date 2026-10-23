@@ -1,0 +1,26 @@
+---
+choices: In particular | In contrast | For this reason | For instance
+answerText: In contrast
+reviewed: yes
+---
+【正解】2 In contrast（それとは対照的に）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 In particular（特に）
+2 In contrast（それとは対照的に）
+3 For this reason（この理由で）
+4 For instance（たとえば）
+【考え方】
+空所には文と文をつなぐ語句が入ります。前の文と後ろの文で、だれが何をしたのかを比べてみます。
+空所の前の文は Ignoring cues from the researchers, the apes selected boxes at random.（研究者からの合図を無視して、類人猿はでたらめに箱を選んだ）です。cue は「合図、手がかり」、at random は「でたらめに、無作為に」という意味です。
+空所の後ろの文は the dogs closely followed the researchers' body language, and consistently selected the box that was pointed at or even glanced at meaningfully（犬は研究者の身ぶりにしっかり従い、指さされた箱や、意味ありげにちらりと見られた箱をいつも決まって選んだ）です。consistently は「いつも決まって、一貫して」という意味です。
+前の文は「類人猿は合図を無視した」、後ろの文は「犬は合図にしっかり従った」です。主語が類人猿と犬で入れかわり、行動も正反対になっています。このように2つのものの違いを示してつなぐときは、In contrast（それとは対照的に）を使います。よって2が正解です。
+【ほかの選択肢】
+1 In particular は「特に」という意味で、前に述べたことの中から特に目立つものを取り上げるときに使います。犬の行動は類人猿の行動の一部ではないので合いません。
+3 For this reason は「この理由で」という意味で、前の内容が理由、後ろの内容が結果になるときに使います。「類人猿がでたらめに選んだから、犬は合図に従った」では、理由と結果の関係になりません。
+4 For instance は「たとえば」という意味で、前の内容の具体例を出すときに使います。犬の行動は、類人猿がでたらめに選んだことの例ではありません。
+【覚えるポイント】
+・In contrast：「それとは対照的に」。2つのものの違いを示すときに使います。On the other hand（一方）も近い働きをします。
+・接続の語句を選ぶときは、前後の文の主語と内容の向き（同じか、反対か、理由と結果か）を確かめましょう。

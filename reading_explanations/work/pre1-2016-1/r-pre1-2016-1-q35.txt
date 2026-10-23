@@ -1,0 +1,36 @@
+---
+choices: the public was opposed to the government giving funding to schools to promote women's athletics. | there was widespread concern that its focus on sports would lower the quality of math and science programs. | its main goal was to ensure that females and males were given the same chances in the classroom. | most schools were opposed to it because they did not want to have their budgets for athletics cut.
+answerText: its main goal was to ensure that females and males were given the same chances in the classroom.
+reviewed: yes
+---
+【正解】3 its main goal was to ensure that females and males were given the same chances in the classroom.（その主な目的は、女子と男子が教室で同じ機会を与えられるようにすることだった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：When Title IX was passed in 1972,（1972年にタイトル・ナインが成立したとき、）
+1 the public was opposed to the government giving funding to schools to promote women's athletics.（人々は、女子のスポーツを盛んにするために政府が学校に資金を出すことに反対していた。）
+2 there was widespread concern that its focus on sports would lower the quality of math and science programs.（その法律がスポーツを重視することで、数学や理科の課程の質が下がるのではないかという心配が広がっていた。）
+3 its main goal was to ensure that females and males were given the same chances in the classroom.（その主な目的は、女子と男子が教室で同じ機会を与えられるようにすることだった。）
+4 most schools were opposed to it because they did not want to have their budgets for athletics cut.（ほとんどの学校は、スポーツのための予算を削られたくなかったので、その法律に反対していた。）
+【考え方】
+まず見るところ：第1段落の Early on, enforcement focused almost entirely on academic concerns と、An unintended consequence of the law
+第1段落の初めに、タイトル・ナインがどんな法律かが書かれています。
+Title IX, a 1972 law designed to eliminate gender discrimination in education, ～（タイトル・ナインは、教育における性別による差別をなくすことを目的とした1972年の法律で、～）
+designed to ～ は「～することを目的として作られた」、eliminate は「なくす」、discrimination は「差別」です。
+次の文で、初めのころの様子が分かります。
+Early on, enforcement focused almost entirely on academic concerns, such as ensuring that female students had the same access to math and science programs that male students did.（初めのうち、この法律を実際に守らせる取り組みは、女子学生が男子学生と同じように数学や理科の課程を受けられるようにすることなど、ほぼ学業に関することだけに向けられていた）
+academic は「学業の、勉強に関する」です。さらに、次のように続きます。
+An unintended consequence of the law, however, was its huge impact on women's athletics.（しかし、この法律が意図していなかった結果は、女子のスポーツに大きな影響を与えたことだった）
+unintended は「意図していなかった、ねらっていなかった」です。
+スポーツへの影響は「ねらっていなかった結果」なので、法律ができた当初の主なねらいは学業の面だったと読み取れます。本文と選択肢を対にすると、次のようになります。
+本文 focused almost entirely on academic concerns, such as ensuring that female students had the same access to math and science programs that male students did（女子学生が男子学生と同じように数学や理科の課程を受けられるようにすることなど、ほぼ学業に関することだけに向けられていた）→ 読み取れること ＝ 選択肢 its main goal was to ensure that females and males were given the same chances in the classroom（主な目的は、女子と男子が教室で同じ機会を与えられるようにすることだった）
+ですから3が正解です。
+この問題の型：推論（スポーツへの影響は「意図していなかった結果」→ 当初のねらいは学業）
+【ほかの選択肢】
+1 本文には、人々が女子スポーツのための資金に反対していたという話はありません。第2段落には、法律ができたころ public awareness of discrimination against female athletes was growing（女子スポーツ選手に対する差別についての人々の意識が高まりつつあった）とあり、反対していたとは書かれていません。
+2 本文によると、法律ができた当初は、スポーツではなく学業に関することに力が向けられていました。スポーツを重視することで数学や理科の質が下がるという心配は書かれていません。
+4 本文には、1972年に学校がこの法律に反対していたという話はありません。第3段落には予算の問題が出てきますが、それは男子選手の不満として書かれた、男子のスポーツの資金が削られたという話で、法律ができたときの学校の反応ではありません。
+【覚えるポイント】
+・unintended consequence：「意図していなかった結果」。
+・本文に「意図していなかった結果」や「思いがけない結果」が書かれているときは、その反対側に「もともとのねらい」が書かれていることが多いので、両方を見比べると「当初の目的」をたずねる設問に答えやすくなります。

@@ -1,0 +1,31 @@
+---
+choices: alleged | amicable | abusive | adhesive
+answerText: amicable
+reviewed: yes
+---
+【正解】2 amicable（友好的な、仲のよい）
+【和訳】
+（英文）
+Despite the fact that the two countries had once fought each other in a war, they now enjoy an ［amicable］ relationship and are, in fact, allies.
+（訳）
+その2つの国はかつて戦争で戦ったことがあるという事実にもかかわらず、今では（友好的な）関係にあり、実のところ、同盟国です。
+（選択肢の意味）
+1 alleged：（証拠はないが）～だとされている、うわさの
+2 amicable：友好的な、仲のよい
+3 abusive：ひどい扱いをする、口汚い
+4 adhesive：くっつく、粘着性の（ねばりけがあってくっつく）
+【考え方】
+まず見るところ：文の始めの Despite the fact that ～ と、文の最後の allies
+文は Despite the fact that ～（～という事実にもかかわらず）で始まっています。
+Despite the fact that the two countries had once fought each other in a war（その2つの国はかつて戦争で戦ったことがあるという事実にもかかわらず）
+Despite があるので、後ろには「戦争をした」とは反対の、よい関係が続くと考えられます。さらに、文の最後には次のようにあります。
+and are, in fact, allies（そして、実のところ、同盟国である）
+allies は「同盟国（おたがいに助け合う約束をした国）」です。今は仲がよく、同盟まで結んでいるのですから、amicable（友好的な）が合います。2が正解です。
+この問題の型：対比（かつて戦争をした⇔今は友好的で同盟国）
+【ほかの選択肢】
+1 alleged は「～だとされている（本当かどうか分からない）」です。「関係があるとされている」となり、「実のところ同盟国だ」という、関係がはっきりしている内容とつながりません。
+3 abusive は「ひどい扱いをする」です。Despite（～にもかかわらず）の前に「戦争をした」という悪い出来事があるので、後ろには反対のよい関係が入るはずです。ひどい関係では Despite とつながらず、allies（同盟国）とも合いません。
+4 adhesive は「粘着性の」で、テープやのりなどの物について使う語です。「粘着性の関係」となり、意味が通りません。
+【覚えるポイント】
+・amicable：「友好的な、仲のよい」。an amicable relationship で「友好的な関係」です。
+・Despite the fact that ～（～という事実にもかかわらず）で始まる文では、後ろに前半と反対の内容が来るので、前半が悪い出来事なら、後ろにはよい意味の語が入る手がかりになります。

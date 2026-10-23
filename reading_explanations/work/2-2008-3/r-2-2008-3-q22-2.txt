@@ -1,0 +1,21 @@
+---
+choices: strange | it | she | that | thought
+answerText: thought
+order: 3 5 2 1 4
+reviewed: yes
+---
+【正解】5 thought（この問題の2番目）
+【完成文】
+When Linda came home from work on Friday, ( she thought it strange that ) the lights in the living room were on. But then she remembered that her daughter was visiting for a few days.
+並べ方：3 she → 5 thought → 2 it → 1 strange → 4 that（2番目は5、4番目は1）
+【和訳】
+金曜日にリンダが仕事から帰ってくると、彼女は居間の明かりがついているのを変だと思いました。でもそのあと、娘が数日間泊まりに来ていることを思い出しました。
+【考え方】
+まず文の形を確認します。When Linda came home from work on Friday,（金曜日にリンダが仕事から帰ってきたとき）は「～とき」を表す部分で、そのあとに文の中心となる〈主語＋動詞〉が必要です。
+主語は 3 she（彼女）、動詞は 5 thought（思った）で、she thought と並べます。したがって2番目は5 thought です。
+次に、think it ～ that …（…ということを～だと思う）という形を使います。ここでの it は、あとの that 以下の内容を前もって指す仮の語です。本当に「変だ」と思った中身は、that 以下の the lights in the living room were on（居間の明かりがついていた）です。そこで thought のあとに 2 it、1 strange（変な）、4 that と続けます。
+2文目に But then she remembered that her daughter was visiting（でもそのあと娘が泊まりに来ていることを思い出した）とあります。だれもいないはずの家で明かりがついていたので変だと思ったが、理由に気づいた、という流れとも合います。
+まちがえやすいのは、she thought that it strange … のように that を先に置く並べ方です。it strange だけでは動詞がなく、文になりません。
+【覚えるポイント】
+・think it ～ that …：「…ということを～だと思う」。it は that 以下の内容を指します。
+・be on：「（明かりや機械が）ついている」。

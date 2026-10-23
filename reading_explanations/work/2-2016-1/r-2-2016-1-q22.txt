@@ -1,0 +1,27 @@
+---
+choices: In fact | At last | Unfortunately | Traditionally
+answerText: In fact
+reviewed: yes
+---
+【正解】1 In fact（実際、実際に）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 In fact（実際、実際に）
+2 At last（ついに、やっと）
+3 Unfortunately（残念なことに、あいにく）
+4 Traditionally（伝統的に、昔から）
+【考え方】
+空所は第2段落の (22), some experts say that singing can actually be a good alternative to exercise for elderly people who need to improve their weak lungs and hearts. です。「（22）、一部の専門家は、弱った肺や心臓をよくする必要があるお年寄りにとって、歌うことは実際に運動のよい代わりになりうると言っている」という意味です。alternative は「代わりになるもの」です。
+空所の前の文を確かめます。
+It also helps people improve their breathing and strengthens both their lungs and hearts in the same way as aerobic exercise such as jogging.（また、歌うことは人が呼吸をよくするのに役立ち、ジョギングのような有酸素運動と同じように肺と心臓の両方を強くする）
+前の文で「歌うことは有酸素運動と同じように肺と心臓を強くする」と述べ、空所のあとで「専門家は、歌うことが運動の代わりになりうると言っている」と続けています。後ろの文は、前の文の内容を、専門家の意見という具体的な話で裏づけ、さらに強めています。
+このように、前に述べたことを「実際に」と裏づけたり、さらに一歩進めて言ったりするときに使うのが In fact です。ですから1が正解です。
+【ほかの選択肢】
+2 At last は「（長く待ったあとで）ついに、やっと」です。空所の前後は、時間がたって何かが実現した話ではなく、歌うことと運動の効果を説明している部分なので、合いません。
+3 Unfortunately は「残念なことに」です。空所のあとは「歌うことが運動の代わりとしてよいものになりうる」というよい内容なので、「残念なことに」とつなぐと話が合いません。
+4 Traditionally は「伝統的に、昔から」です。本文は、昔からそう言われてきたという話をしていません。空所のあとは、専門家が今そう言っている（some experts say）という内容です。
+【覚えるポイント】
+・In fact：「実際（に）、それどころか」。前の内容を裏づけたり、さらに強めたりするときに使います。
+・alternative to ～：「～の代わりになるもの」。

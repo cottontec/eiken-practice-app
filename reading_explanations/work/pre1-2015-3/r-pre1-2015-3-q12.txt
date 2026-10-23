@@ -1,0 +1,28 @@
+---
+choices: conceded | converged | contrasted | confined
+answerText: converged
+reviewed: yes
+---
+【正解】2 converged（集まった、集中した）
+【和訳】
+（英文）
+At noon, thousands of demonstrators ［converged］ on the town square to protest against the government's foreign policy.
+（訳）
+正午に、何千人ものデモ参加者が、政府の外交政策に抗議するために、町の広場に（集まった）。
+（選択肢の意味）
+1 conceded：（しぶしぶ）認めた、譲った
+2 converged：集まった、集中した
+3 contrasted：対照をなした、比べた
+4 confined：閉じこめた、限った
+【考え方】
+まず見るところ：空所の前の thousands of demonstrators と、空所のあとの on the town square
+主語は thousands of demonstrators（何千人ものデモ参加者）です。demonstrator は、デモ（多くの人が集まって意見をうったえること）に参加する人です。
+空所のあとには on the town square（町の広場に）と to protest against the government's foreign policy（政府の外交政策に抗議するために）が続いています。たくさんの人が、抗議のために広場へ「集まった」と考えると、自然につながります。converge は「（いろいろな方向から）一か所に集まる」という意味で、converge on ～ で「～に集まる」となります。ですから2が正解です。
+この問題の型：語の意味・組み合わせ（converge on ～）
+【ほかの選択肢】
+1 conceded は「（しぶしぶ）認めた、譲った」です。「デモ参加者が広場で認めた」となり、何を認めたのかも分からず、抗議のために集まる場面に合いません。
+3 contrasted は「対照をなした（比べると違いがはっきりした）」です。「何千人ものデモ参加者が広場で対照をなした」となり、意味が通りません。
+4 confined は「～を閉じこめた、限った」です。閉じこめる相手が書かれておらず、「抗議するために閉じこめた」となって意味が通りません。
+【覚えるポイント】
+・converge on ～：「～に（いろいろな方向から）集まる」。
+・主語がたくさんの人（thousands of ～）で、そのあとに場所（on the town square）と目的（to protest）が続くときは、「集まる」という意味の動詞が入ることが多いです。

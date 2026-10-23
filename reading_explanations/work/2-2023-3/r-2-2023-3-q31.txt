@@ -1,0 +1,31 @@
+---
+choices: sources in which the word is used are found to be accurate. | the word is also being used in languages other than English. | a large number of people are using the word in the same way. | dictionary editors and their assistants think the word will be useful.
+answerText: a large number of people are using the word in the same way.
+reviewed: yes
+---
+【正解】3 a large number of people are using the word in the same way.（多くの人々がその語を同じように使っている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：A new word may be added to a dictionary if（新しい語が辞書に加えられるかもしれないのは、～場合です。）
+1 sources in which the word is used are found to be accurate.（その語が使われている情報源が正確だと分かった）
+2 the word is also being used in languages other than English.（その語が英語以外の言語でも使われている）
+3 a large number of people are using the word in the same way.（多くの人々がその語を同じように使っている）
+4 dictionary editors and their assistants think the word will be useful.（辞書の編集者とその助手たちが、その語は役に立つだろうと考える）
+【考え方】
+まず見るところ：第2段落の最後の If the new word is being used by a lot of people to mean the same thing, ～
+If the new word is being used by a lot of people to mean the same thing, there is a good chance that it will be added to dictionaries.（もしその新しい語が多くの人々によって同じ意味で使われていれば、それが辞書に加えられる見こみは十分にある）
+there is a good chance that ～ は「～する見こみが十分にある」という意味で、設問の may be added（加えられるかもしれない）に当たります。
+本文と選択肢を対にすると、次のようになります。
+本文 a lot of people ＝ 選択肢 a large number of people（多くの人々）
+本文 is being used ～ to mean the same thing（同じ意味で使われている）＝ 選択肢 are using the word in the same way（その語を同じように使っている）
+本文は「使われている」という受け身（～される、という形）、選択肢は「人々が使っている」という形ですが、内容は同じです。ですから3が正解です。
+この問題の型：言いかえ（a lot of people ＝ a large number of people）
+【ほかの選択肢】
+1 本文の accurately（正確に）は、コンピューターを使うと情報源を more quickly and more accurately（より速く、より正確に）確認できる、という話で出てきます。情報源が正確だと分かれば辞書に加えられる、とは書かれていません。
+2 英語以外の言語で使われているかどうかについては、本文に書かれていません。
+4 編集者や助手たちが「役に立つだろう」と考えることが条件だとは書かれていません。本文の条件は、広く使われていることと、多くの人に同じ意味で使われていることです。
+【覚えるポイント】
+・there is a good chance that ～：「～する見こみが十分にある」。選択肢や設問では may（～かもしれない）で表されることがあります。
+・設問が if（～なら）で終わっていたら、本文の If ～ や must ～ のような「条件」を表す文をさがすと根拠が見つかりやすくなります。

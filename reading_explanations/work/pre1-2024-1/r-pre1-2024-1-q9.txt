@@ -1,0 +1,31 @@
+---
+choices: admissible | animate | bearable | coherent
+answerText: bearable
+reviewed: yes
+---
+【正解】3 bearable（耐えられる、我慢できる）
+【和訳】
+（英文）
+The man was in a lot of pain after surgery, but the medication he took made it ［bearable］. He was finally able to rest a bit once the pills took effect.
+（訳）
+その男性は手術のあと強い痛みがありましたが、彼が飲んだ薬のおかげで、痛みは（我慢できる）ものになりました。錠剤が効いてくると、彼はようやく少し休むことができました。
+（選択肢の意味）
+1 admissible：（証拠などが）認められる、受け入れられる
+2 animate：生きている、生命のある
+3 bearable：耐えられる、我慢できる
+4 coherent：（話や考えが）筋の通った、まとまりのある
+【考え方】
+まず見るところ：空所の前の made it と、後半の文の He was finally able to rest a bit
+空所のある部分は次のとおりです。
+but the medication he took made it (　)（しかし、彼が飲んだ薬がそれを（　）にした）
+make A ～ は「Aを～（の状態）にする」です。it は前の pain（痛み）を指します。痛みが薬によってどうなったのかを考えます。
+He was finally able to rest a bit once the pills took effect.（錠剤が効いてくると、彼はようやく少し休むことができた）
+take effect は「（薬などが）効く」です。休めるようになったのですから、痛みは「我慢できる程度」になったと考えられます。bearable は「耐えられる、我慢できる」なので、3が正解です。
+この問題の型：指示語（it＝pain）・因果（薬が効いた→少し休めた）
+【ほかの選択肢】
+1 admissible は「（証拠などが）認められる」です。「薬が痛みを認められるものにした」となり、意味が通りません。
+2 animate は「生きている」です。「薬が痛みを生きているものにした」となり、意味が通りません。
+4 coherent は「筋の通った」で、話や考えのまとまりを表します。「薬が痛みを筋の通ったものにした」となり、意味が通りません。
+【覚えるポイント】
+・bearable：「耐えられる」。bear（耐える）に -able（～できる）が付いた語です。
+・make it ～ の it が何を指すか（ここでは pain）を先に確かめると、空所に入る形容詞を決める手がかりになります。

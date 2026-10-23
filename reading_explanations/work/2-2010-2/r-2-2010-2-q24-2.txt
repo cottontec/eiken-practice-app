@@ -1,0 +1,21 @@
+---
+choices: little | of | has | winning | hope
+answerText: little
+order: 3 1 5 2 4
+reviewed: yes
+---
+【正解】1 little（この問題の2番目）
+【完成文】
+She knows that her team ( has little hope of winning ) the game, but she is going to try her best anyway.
+並べ方：3 has → 1 little → 5 hope → 2 of → 4 winning（2番目は1、4番目は2）
+【和訳】
+エミリーのバスケットボールチームは、今夜、ずっと強いチームと対戦することになっています。彼女は自分のチームが試合に勝つ見込みがほとんどないことを分かっていますが、それでも全力を尽くすつもりです。
+【考え方】
+まず流れを確かめます。1文目で、エミリーのチームは a much stronger team（ずっと強いチーム）と対戦すると書かれています。空所の文の後半は but she is going to try her best anyway（しかし、それでも彼女は全力を尽くすつもりだ）です。anyway は「それでも、とにかく」という意味です。ですから前半は「勝てそうにない」という内容になるはずです。
+次に形を考えます。空所の前は that her team で、her team が主語です。そのあとには動詞が必要なので、1番目は 3 has です。has のあとには「何をもっているか」を表す名詞 5 hope（望み、見込み）がきます。
+ここで 1 little を hope の前に置くと、little hope（ほとんど望みがない）となります。little は数えられない名詞の前に置いて「ほとんど～ない」を表します。最後に 2 of と 4 winning を続けると、hope of winning the game（試合に勝つ見込み）となり、空所のあとの the game につながります。
+したがって2番目は1 little です。
+まちがえやすいのは、little を最後のほうに置いて has hope of little winning とする並べ方です。これでは「ほとんど望みがない」という意味にならず、後半の but … anyway（それでも全力を尽くす）ともつながりません。
+【覚えるポイント】
+・have little hope of ～ing：「～する見込みがほとんどない」。
+・try one's best：「全力を尽くす」。

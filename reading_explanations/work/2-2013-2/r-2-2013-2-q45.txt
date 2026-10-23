@@ -1,0 +1,30 @@
+---
+choices: It says it can replace all of Earth's rare metals within the next 60 years. | It says it will be able to begin mining asteroids within the next 20 years. | It will buy used telescopes from government space agencies. | It can pay for its costs by finding billionaires to help the company.
+answerText: It says it will be able to begin mining asteroids within the next 20 years.
+reviewed: yes
+---
+【正解】2 It says it will be able to begin mining asteroids within the next 20 years.（今後20年以内に小惑星の採掘を始められるだろうと言っている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：プラネタリー・リソーシズについて、正しいものはどれですか。
+1 It says it can replace all of Earth's rare metals within the next 60 years.（今後60年以内に、地球の希少な金属をすべて置きかえられると言っている。）
+2 It says it will be able to begin mining asteroids within the next 20 years.（今後20年以内に、小惑星の採掘を始められるだろうと言っている。）
+3 It will buy used telescopes from government space agencies.（政府の宇宙機関から、中古の望遠鏡を買うつもりである。）
+4 It can pay for its costs by finding billionaires to help the company.（会社を助けてくれる億万長者を見つけることで、費用をまかなうことができる。）
+【考え方】
+この設問は本文全体から正しいものを選ぶ問題なので、選択肢の数字や言葉を手がかりに本文と照らし合わせます。
+選択肢2の within the next 20 years（今後20年以内に）に注目すると、第2段落に Planetary Resources ... claims it will be able to start removing valuable metals and other minerals from asteroids within 20 years.（プラネタリー・リソーシズは、20年以内に小惑星から貴重な金属やそのほかの鉱物を取り出し始めることができるだろう、と主張している）とあります。claim は「主張する」です。
+本文と選択肢は次のように対応しています。
+本文 claims（主張している）＝ 選択肢 It says（言っている）
+本文 start removing valuable metals and other minerals from asteroids（小惑星から貴重な金属や鉱物を取り出し始める）＝ 選択肢 begin mining asteroids（小惑星の採掘を始める）
+本文 within 20 years（20年以内に）＝ 選択肢 within the next 20 years（今後20年以内に）
+正解は2です。
+【ほかの選択肢】
+1 60年という数字は第1段落に出てきますが、それは some experts（一部の専門家）が、希少な金属の多くが約60年後には使い果たされていると考えている、という内容です。会社が60年以内に金属をすべて置きかえられると言っているのではありません。
+3 本文では、会社が自分で望遠鏡を開発し、それを政府の宇宙計画に rented out（貸し出す）とあります。政府から中古の望遠鏡を買うのではなく、方向が反対です。
+4 会社は a group of American billionaires（アメリカの億万長者のグループ）によって設立された、とは書かれています。しかし、費用をまかなうために億万長者を見つけるという話はありません。本文で計画のための資金を得る方法として書かれているのは、望遠鏡を貸し出すことです。
+【覚えるポイント】
+・claim (that) ～：「～だと主張する」。
+・rent out ～：「～を貸し出す」。rent だけだと「～を借りる」の意味でもよく使います。

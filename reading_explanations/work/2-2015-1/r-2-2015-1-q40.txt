@@ -1,0 +1,31 @@
+---
+choices: It is becoming more and more important to have left-handed people in society. | People who are born left-handed can train themselves to become right-handed. | There is little evidence that people became left-handed as a result of evolution. | Having some left-handed people in the population has helped humans to survive.
+answerText: Having some left-handed people in the population has helped humans to survive.
+reviewed: yes
+---
+【正解】4 Having some left-handed people in the population has helped humans to survive.（人口の中に左利きの人が何人かいることは、人類が生き残るのに役立ってきた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：左利きと右利きの人についての研究は、何を示していますか。
+1 It is becoming more and more important to have left-handed people in society.（社会に左利きの人がいることは、ますます重要になってきている。）
+2 People who are born left-handed can train themselves to become right-handed.（左利きに生まれた人は、自分を訓練して右利きになることができる。）
+3 There is little evidence that people became left-handed as a result of evolution.（人々が進化の結果として左利きになったという証拠は、ほとんどない。）
+4 Having some left-handed people in the population has helped humans to survive.（人口の中に左利きの人が何人かいることは、人類が生き残るのに役立ってきた。）
+【考え方】
+研究の結果から言えることは、第4段落にまとめられています。
+The researchers believe their results can be applied to human evolution as a whole.（研究者たちは、自分たちの結果は人類の進化全体に当てはめることができると考えている）
+This is because most of the time cooperation was more important to our survival than competition.（これは、ほとんどの場合、私たちが生き残るためには、競争よりも協力のほうが重要だったからだ）
+However, in certain situations, competition was more important. In these cases, having about 10 percent of the population left-handed was an advantage for human beings.（しかし、ある特定の状況では、〈協力より〉競争のほうが重要だった。そのような場合には、人口の約10パーセントが左利きであることが、人類にとって有利だった）
+survival は「生き残ること」、advantage は「有利な点」です。この段落は、人類が生き残るうえで協力と競争のどちらが大切だったかという話の中で、競争が大切な場面では約10パーセントの左利きがいることが有利だった、と述べています。
+本文と選択肢は次のように対応しています。
+本文 having about 10 percent of the population left-handed was an advantage for human beings（生き残るうえで競争が大切な場面で有利だった）→ 読み取れること：左利きの人が何人かいることが人類の生き残りに役立った ＝ 選択肢 Having some left-handed people in the population has helped humans to survive
+本文の about 10 percent（約10パーセント）を、選択肢では some（何人か、いくらか）と言いかえています。正解は4です。
+【ほかの選択肢】
+1 本文は人類の進化の中で左利きが有利だった（was an advantage）という、これまでの話をしています。左利きの人がいることが今「ますます重要になってきている」という変化は本文に書かれていません。
+2 左利きの人が訓練して右利きになるという話は、本文にありません。
+3 本文では、研究の結果を人類の進化全体に当てはめ、進化の中で約10パーセントの左利きがいたことが有利だったと説明しています。「進化の結果として左利きになった証拠はほとんどない」という内容は、本文の流れと反対です。
+【覚えるポイント】
+・be applied to ～：「～に当てはめられる」。
+・A is more important than B：「AのほうがBより重要だ」。比べる相手（than のあと）を落とさずに読みましょう。

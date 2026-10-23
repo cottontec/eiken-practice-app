@@ -1,0 +1,30 @@
+---
+choices: On the other hand | Fortunately | Without this | In particular
+answerText: In particular
+reviewed: yes
+---
+【正解】4 In particular（特に）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 On the other hand（一方で）
+2 Fortunately（幸いなことに）
+3 Without this（これがなければ）
+4 In particular（特に）
+【考え方】
+まず見るところ：第3段落の空所の前の which can lead to problems と、空所のあとの this intense fear can make everyday activities feel overwhelming and difficult
+第3段落は However, fear is not always enjoyable.（しかし、恐怖がいつも楽しいものだとは限らない）で始まり、恐怖のよくない面の話になります。空所の直前の文を見ます。
+In such cases, the brain treats normal events as dangerous, which can lead to problems.（そのような場合、脳はふつうの出来事を危険なものとして扱い、それが問題につながることがある）
+ここでは problems（問題）とだけ書かれていて、どんな問題かはまだ分かりません。空所のあとの文を見ます。
+this intense fear can make everyday activities feel overwhelming and difficult（この強い恐怖は、日常の活動を、圧倒されるような難しいものに感じさせることがある）
+これは、前の文の problems の中身を、1つ取り上げてくわしく述べたものです。
+In particular は「特に」という意味で、前に述べたことの中から1つを取り上げて、くわしく言うときに使います。ですから4が正解です。
+この問題の型：具体例とまとめ（problems → In particular, 日常の活動が難しく感じられる）
+【ほかの選択肢】
+1 On the other hand は「一方で」で、前とちがう面を比べるときに使います。空所の前もあとも恐怖が問題になる話で、ちがう面を比べる関係ではないので合いません。
+2 Fortunately は「幸いなことに」です。空所のあとは「日常の活動が難しく感じられる」というよくない内容なので、合いません。
+3 Without this は「これがなければ」です。this が「脳がふつうの出来事を危険なものとして扱うこと」を指すと、「それがなければ、この強い恐怖は日常の活動を難しく感じさせる」となり、意味が通りません。
+【覚えるポイント】
+・In particular：「特に」。lead to ～ は「～につながる、～を引き起こす」です。
+・前の文に problems のようなまとめの言葉があり、空所のあとにその中身がくわしく書かれているときは、In particular（特に）のような語句が入る手がかりになります。

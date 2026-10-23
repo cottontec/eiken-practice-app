@@ -1,0 +1,30 @@
+---
+choices: excursion | potency | friction | negligence
+answerText: potency
+reviewed: yes
+---
+【正解】2 potency（〔薬などの〕効き目の強さ、効力）
+【和訳】
+（英文）
+Researchers at the drug company have improved the ［potency］ of their headache medicine. The pills are now twice as strong.
+（訳）
+その製薬会社の研究者たちは、自社の頭痛薬の（効き目の強さ）を改良した。その錠剤は、今では（以前の）2倍の強さだ。
+（選択肢の意味）
+1 excursion：小旅行、遠足
+2 potency：（薬などの）効き目の強さ、効力
+3 friction：摩擦（こすれ合うこと）、対立
+4 negligence：怠慢（やるべきことをしないこと）、不注意
+【考え方】
+まず見るところ：後半の文の The pills are now twice as strong.
+空所のある文は「研究者たちは、頭痛薬の（　）を改良した」という意味です。何を改良したのかは、後ろの文に具体的に書かれています。
+The pills are now twice as strong.（その錠剤は、今では（以前の）2倍の強さだ）
+pill は「錠剤（つぶの形の薬）」、twice as strong は「2倍の強さ」です。now（今では）とあるので、改良の前と比べて2倍の強さになった、と読み取れます。
+つまり、研究者たちが改良したのは「薬の強さ」です。potency は「（薬などの）効き目の強さ」なので、2が正解です。
+この問題の型：言いかえ（potency ≒ strong）
+【ほかの選択肢】
+1 excursion は「小旅行、遠足」です。「頭痛薬の小旅行を改良した」となり、意味が通りません。
+3 friction は「摩擦、対立」です。「頭痛薬の摩擦を改良した」では意味が通らず、錠剤が2倍の強さになったこととも結びつきません。
+4 negligence は「怠慢、不注意」です。「頭痛薬の怠慢を改良した」となり、意味が通りません。
+【覚えるポイント】
+・potency：「（薬などの）効き目の強さ」。形容詞の potent（〔薬などが〕よく効く、強力な）と関係のある語です。
+・空所のある文のすぐ後ろに「今ではどうなったか」が書かれているときは、その中の語（ここでは strong）と同じ意味の名詞を選択肢から探すのが手がかりになります。

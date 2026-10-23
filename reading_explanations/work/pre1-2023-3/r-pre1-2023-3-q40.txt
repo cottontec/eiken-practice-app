@@ -1,0 +1,33 @@
+---
+choices: wealthy people have found unfair ways to ensure that they continue to maintain their position without working hard. | the methods that are usually used to evaluate workers are often unfair, especially to members of the upper class. | it has created a sense of constant competition that can have negative effects on people's mental health. | the amount of resentment between members of different social classes has grown significantly because of it.
+answerText: it has created a sense of constant competition that can have negative effects on people's mental health.
+reviewed: yes
+---
+【正解】3 it has created a sense of constant competition that can have negative effects on people's mental health.（能力主義が、人々の心の健康に悪い影響を与えうる、絶え間ない競争の感覚を生み出したことだ。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to Daniel Markovits, one disadvantage of meritocracy is that（ダニエル・マルコビッツによると、能力主義の欠点の1つは、）
+1 wealthy people have found unfair ways to ensure that they continue to maintain their position without working hard.（裕福な人々が、懸命に働かずに自分たちの地位を保ち続けられるようにする不公平な方法を見つけたことだ。）
+2 the methods that are usually used to evaluate workers are often unfair, especially to members of the upper class.（働く人を評価するのにふつう使われる方法が、特に上流階級の人々にとって不公平であることが多いことだ。）
+3 it has created a sense of constant competition that can have negative effects on people's mental health.（能力主義が、人々の心の健康に悪い影響を与えうる、絶え間ない競争の感覚を生み出したことだ。）
+4 the amount of resentment between members of different social classes has grown significantly because of it.（能力主義のせいで、ちがう社会階級の人々の間の恨みが大きく増えたことだ。）
+【考え方】
+まず見るところ：第3段落の They are constantly monitored and assessed と、最後の there is so much pressure from the fear that others will take one's place that ～
+第3段落は、マルコビッツのような批判する人々が、能力主義はエリートにさえ悪い影響を与えていると指摘している、という文で始まります。昔の裕福な人々は時間の大半を娯楽に使えましたが、今は「押しつぶされるほどの激しさで働かなければならない」と書かれています。続く文は次のとおりです。
+They are constantly monitored and assessed, and if their performance slips, they face the threat of demotion or firing.（彼らは常に監視され、評価されていて、成績が落ちれば、降格や解雇の危険にさらされる）
+段落の最後では、中流・下流の人々についても次のように述べています。
+there is so much pressure from the fear that others will take one's place that it seems to be having an effect on people's psychological well-being in all levels of society（他人に自分の地位を取られるのではないかという恐れから来る重圧があまりにも大きいため、それが社会のあらゆる層で、人々の心の健康に影響を与えているようだ）
+so much ～ that ... は「あまりにも～なので…」です。psychological well-being は「心の健康」です。本文と選択肢3を対にすると、次のようになります。
+・本文 constantly monitored and assessed ／ constantly struggling ／ the fear that others will take one's place（常に監視・評価される／常に必死になっている／他人に地位を取られる恐れ）→ 選択肢 a sense of constant competition（絶え間ない競争の感覚）
+・本文 having an effect on people's psychological well-being（心の健康に影響を与えている）→ 選択肢 can have negative effects on people's mental health（心の健康に悪い影響を与えうる）
+本文の an effect は、重圧から来るものなので、悪い影響だと読み取れます。よって3が正解です。
+この問題の型：言いかえ（psychological well-being → mental health）
+【ほかの選択肢】
+1 本文と合いません。マルコビッツは、今の上の層の人々は must work with crushing intensity（押しつぶされるほどの激しさで働かなければならない）と書いています。時間の大半を娯楽に使えたのは、昔の「有閑階級」の話で、今の話ではありません。
+2 本文に書かれていません。上の層の人々が常に監視され、評価されているとはありますが、評価の方法が上流階級にとって不公平だとは書かれていません。
+4 本文に書かれていません。第3段落には、どの階級の人々も重圧を感じていると書かれていますが、ちがう階級の人々の間の恨みが増えたという話はありません。
+【覚えるポイント】
+・psychological well-being：「心の健康」。so much ～ that ...：「あまりにも～なので…」。demotion：「降格（地位を下げられること）」。
+・According to ＋人名 の設問では、その人の名前が出てくる段落（ここでは第3段落）を最後まで読むと、その人の主張の中身をつかむ手がかりになります。

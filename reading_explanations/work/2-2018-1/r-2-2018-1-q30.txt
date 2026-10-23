@@ -1,0 +1,32 @@
+---
+choices: It was not popular in many of the countries where movies are watched. | It cost them money to use it in their movies or TV shows. | They wanted to use songs that were not used frequently by other directors. | They thought that people wanted to hear more interesting songs.
+answerText: It cost them money to use it in their movies or TV shows.
+reviewed: yes
+---
+【正解】2 It cost them money to use it in their movies or TV shows.（自分たちの映画やテレビ番組でその歌を使うと、お金がかかった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：なぜ多くの監督は「ハッピー・バースデー」の歌を使わないことにしたのですか。
+1 It was not popular in many of the countries where movies are watched.（映画が見られている国々の多くで、その歌が人気がなかった。）
+2 It cost them money to use it in their movies or TV shows.（自分たちの映画やテレビ番組でその歌を使うと、お金がかかった。）
+3 They wanted to use songs that were not used frequently by other directors.（ほかの監督があまり使っていない歌を使いたかった。）
+4 They thought that people wanted to hear more interesting songs.（人々はもっとおもしろい歌を聞きたがっていると考えた。）
+【考え方】
+設問の choose not to use（使わないことにした）は、本文の avoided using（使うのを避けた）と同じ内容です。第1段落の最後の文を見ます。
+In order to reduce their expenses, many directors avoided using the song in their shows.（費用を減らすために、多くの監督は自分たちの作品でこの歌を使うのを避けた）
+「費用を減らすため」とあるので、この歌を使うと費用がかかったことが分かります。その理由は、前の2文に書かれています。
+・the copyright for the song belonged to a company（この歌の著作権〔作品の使い方を決められる権利〕は、ある会社のものだった）
+・If somebody has a copyright for a song, they can charge money when other people use it in their movies or TV programs.（だれかが歌の著作権を持っていると、ほかの人がそれを映画やテレビ番組で使うときにお金を請求できる）
+charge money は「お金を請求する」という意味です。
+本文と選択肢を対にすると、次のようになります。
+本文 they can charge money when other people use it ＋ In order to reduce their expenses → 選択肢 It cost them money to use it
+「使うとお金を請求される」「費用を減らしたい」ということが、「使うとお金がかかった」とまとめられています。cost は「（お金が）かかる」という意味です。
+【ほかの選択肢】
+1 第1段落の最初に All around the world people sing the "Happy Birthday" song（世界中で人々は「ハッピー・バースデー」の歌を歌う）とあります。人気がなかったのではなく、世界中で歌われている歌です。
+3 ほかの監督があまり使っていない歌を使いたかった、という話は本文にありません。監督が使わなかった理由は費用です。
+4 人々がもっとおもしろい歌を聞きたがっていた、という話は本文にありません。
+【覚えるポイント】
+・charge money：「お金を請求する」。
+・It costs ＋人＋ money to ～：「～するのに（人に）お金がかかる」。

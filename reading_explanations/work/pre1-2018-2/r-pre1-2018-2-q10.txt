@@ -1,0 +1,32 @@
+---
+choices: projection | petition | reluctance | abundance
+answerText: reluctance
+reviewed: yes
+---
+【正解】3 reluctance（気が進まないこと、ためらい）
+【和訳】
+（英文）
+Roy hated the idea of selling his guitar. However, he needed the money, so he eventually overcame his ［reluctance］ and put an advertisement in the newspaper.
+（訳）
+ロイは、自分のギターを売るという考えがいやでたまりませんでした。しかし、彼はお金が必要だったので、最後には（気の進まない気持ち）を乗りこえて、新聞に広告を出しました。
+（選択肢の意味）
+1 projection：予測；（映像を）映し出すこと
+2 petition：請願（書）（役所などに正式にお願いすること）
+3 reluctance：気が進まないこと、ためらい
+4 abundance：豊富さ、たくさんあること
+【考え方】
+まず見るところ：前半の文の hated the idea of selling his guitar と、空所の前の overcame his
+前半の文で、ロイの気持ちが分かります。
+Roy hated the idea of selling his guitar.（ロイは、自分のギターを売るという考えがいやでたまらなかった）
+hate は「ひどくきらう」です。ロイは、ギターを売りたくないと強く思っていました。
+空所のある文は However（しかし）で始まります。
+However, he needed the money, so he eventually overcame his (　) and put an advertisement in the newspaper.（しかし、彼はお金が必要だったので、最後には（　）を乗りこえて、新聞に広告を出した）
+overcome は「乗りこえる、打ち勝つ」、eventually は「最後には、結局」です。売りたくなかったのに、最後には売るための広告を出したのですから、乗りこえたのは「売りたくない」という気持ちだと分かります。reluctance は「気が進まないこと、ためらい」という意味なので、3が正解です。
+この問題の型：対比（いやでたまらない⇔しかし広告を出した）
+【ほかの選択肢】
+1 projection は「予測」や「（映像を）映し出すこと」です。「予測を乗りこえて広告を出した」となり、ギターを売りたくないという気持ちの話とつながりません。
+2 petition は「請願（書）」です。ロイがだれかに正式なお願いをしたという話は出てこないので、「請願を乗りこえた」は意味が通りません。
+4 abundance は「豊富さ」です。ロイはお金が必要だったので、何かが豊富だったわけではなく、「豊富さを乗りこえた」は意味が通りません。
+【覚えるポイント】
+・reluctance：「気が進まないこと、ためらい」。形容詞は reluctant（気が進まない）です。
+・overcome（乗りこえる）の後ろには、困難や「いやだ」という気持ちを表す語が来ることが多く、前の文の気持ち（ここでは hated）が答えの手がかりになります。

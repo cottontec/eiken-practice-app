@@ -1,0 +1,31 @@
+---
+choices: massive | earnest | assured | captive
+answerText: captive
+reviewed: yes
+---
+【正解】4 captive（とらわれた、捕虜になった）
+【和訳】
+（英文）
+During the war, the journalist was kidnapped by rebels and held ［captive］ in a tiny cell for six months.
+（訳）
+戦争中、その記者は反乱軍に誘拐され、とても小さな部屋に6か月間（とらわれたまま）閉じ込められた。
+（選択肢の意味）
+1 massive：巨大な、大規模な
+2 earnest：まじめな、熱心な
+3 assured：確かな、保証された；自信のある
+4 captive：とらわれた、捕虜になった
+【考え方】
+まず見るところ：空所の前の was kidnapped by rebels and held
+文の前半は、次のようになっています。
+the journalist was kidnapped by rebels（その記者は反乱軍に誘拐された）
+journalist は「記者」、kidnap は「誘拐する（人を無理やり連れ去る）」、rebel は「反乱軍（政府にさからって戦う人々）」です。
+続く held (　) in a tiny cell for six months は、hold A ～（Aを～の状態にしておく）の受け身の形で、「とても小さな部屋に6か月間（　）の状態にされた」という意味です。cell は「独房（1人を閉じ込めておく小さな部屋）」です。
+誘拐されて小さな部屋に閉じ込められているのですから、自由に出られない「とらわれた」状態です。captive は「とらわれた、捕虜になった」という意味で、be held captive で「とらわれの身になる、監禁される」となります。ですから4が正解です。
+この問題の型：熟語・決まった形（be held captive）
+【ほかの選択肢】
+1 massive は「巨大な」です。「記者が巨大な状態で小さな部屋に置かれた」となり、意味が通りません。
+2 earnest は「まじめな、熱心な」です。誘拐されて閉じ込められたという状態を表す語ではありません。
+3 assured は「確かな、自信のある」です。「自信のある状態で閉じ込められた」では、誘拐の話とつながりません。
+【覚えるポイント】
+・be held captive：「とらわれの身になる、監禁される」。
+・was kidnapped（誘拐された）や in a tiny cell（小さな部屋に）のように、自由をうばわれた場面が書かれているときは、その状態を表す語を選ぶ手がかりになります。

@@ -1,0 +1,31 @@
+---
+choices: younger people should use brain training to avoid memory problems later in life. | people under 60 can best take care of their brains by staying physically healthy. | people should avoid doing too many activities at once because it can stress the brain. | older people are less likely to benefit from using computers than younger people are.
+answerText: people under 60 can best take care of their brains by staying physically healthy.
+reviewed: yes
+---
+【正解】2 people under 60 can best take care of their brains by staying physically healthy.（60歳未満の人は、体の健康を保つことで、最もよく脳を大切にすることができる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：マイケル・バレンズエラ准教授は、～と言っている。
+1 younger people should use brain training to avoid memory problems later in life.（若い人は、人生の後半に記憶の問題が起きないように、脳トレーニングを使うべきだ）
+2 people under 60 can best take care of their brains by staying physically healthy.（60歳未満の人は、体の健康を保つことで、最もよく脳を大切にすることができる）
+3 people should avoid doing too many activities at once because it can stress the brain.（一度にあまりに多くの活動をすると脳にストレスを与えることがあるので、それは避けるべきだ）
+4 older people are less likely to benefit from using computers than younger people are.（高齢の人は、若い人と比べて、コンピューターを使うことから恩恵を受けにくい）
+【考え方】
+バレンズエラ准教授の話は第4段落に書かれています。
+まず、the evidence so far shows that people under the age of 60 are not likely to benefit from brain-training computer programs（これまでの証拠からは、60歳未満の人が脳トレーニングのコンピューター・プログラムから恩恵を受ける可能性は低いことが示されている）とあります。be likely to ～ は「～しそうだ、～する可能性が高い」で、not がついているので「～する可能性は低い」となります。
+続けて Rather, for these people, the most effective method of keeping the brain working properly is to keep the body healthy.（むしろ、こうした人たちにとって、脳がきちんと働く状態を保つための最も効果的な方法は、体を健康に保つことだ）とあります。these people は「60歳未満の人」を指します。
+本文と選択肢は次のように対応しています。
+本文 the most effective method（最も効果的な方法）＝ 選択肢 best（最もよく）
+本文 keeping the brain working properly（脳がきちんと働く状態を保つ）＝ 選択肢 take care of their brains（脳を大切にする）
+本文 keep the body healthy（体を健康に保つ）＝ 選択肢 staying physically healthy（体の健康を保つ）
+正解は2です。
+【ほかの選択肢】
+1 バレンズエラ准教授は、60歳未満の人は脳トレーニングのプログラムから恩恵を受ける可能性が低いと言っています。若い人に脳トレーニングをすすめてはいません。また、人生の後半の記憶の問題についての話は本文にありません。
+3 本文では反対に、60歳を超える人にとって the most important thing ～ is doing a lot of different activities（最も大切なのは、たくさんのさまざまな活動をすること）と言っています。活動のしすぎで脳にストレスがかかるという話はありません。
+4 本文では、プログラムは60歳未満の人には効果が出にくい一方で、such programs may help older people（こうしたプログラムは高齢の人の助けになるかもしれない）と言っています。高齢の人のほうが恩恵を受けにくいという選択肢は、本文と反対です。
+【覚えるポイント】
+・be not likely to ～：「～する可能性は低い、～しそうにない」。
+・benefit from ～：「～から恩恵を受ける、～で得をする」。

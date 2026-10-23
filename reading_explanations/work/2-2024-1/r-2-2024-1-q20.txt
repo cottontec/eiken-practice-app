@@ -1,0 +1,30 @@
+---
+choices: in contrast | to begin with | by doing so | for once
+answerText: by doing so
+reviewed: yes
+---
+【正解】3 by doing so（そうすることで）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 in contrast（対照的に、それに対して）
+2 to begin with（まず第一に、そもそも）
+3 by doing so（そうすることで）
+4 for once（今回だけは、一度だけは）
+【考え方】
+まず見るところ：第3段落の空所の直前にある Often, they must travel long distances ～
+空所のある文は次のとおりです。
+However, (20), they meet new people with similar interests in different parts of the country and learn more about their favorite kinds of cars.（しかし、（20）、彼らは国内のいろいろな地域で同じような興味を持つ新しい人々と出会い、大好きな種類の車についてもっと学ぶ）
+空所の直前の文は次のとおりです。
+Often, they must travel long distances to visit special shops to get the parts that they need.（必要な部品を手に入れるために、遠くまで出かけて特別な店を訪れなければならないことがよくある）
+遠くまで出かけるのは大変なことです。However（しかし）は、その大変さと、よいこともあるという内容をつないでいます。
+では、新しい人に出会ったり車について学んだりできるのは、どうしてでしょうか。それは、遠くの特別な店まで出かけるからだと考えられます。by doing so は「そうすることによって」という意味で、doing so（そうすること）が直前の「遠くまで出かけて特別な店を訪れること」を指します。ですから3が正解です。
+この問題の型：指示語（doing so＝遠くの店まで出かけること）／対比（大変なこと⇔よいこと）
+【ほかの選択肢】
+1 in contrast は「対照的に、それに対して」で、2つのものの違いを比べるときに使います。新しい人と出会えることは、遠くまで出かけたことの結果であり、何かと何かの違いを比べているわけではないので合いません。
+2 to begin with は「まず第一に、そもそも」で、いくつかの事がらを順に挙げる最初などに使います。この文は段落の最後で、遠くへ出かけた結果を述べているので合いません。
+4 for once は「今回だけは、一度だけは」です。直前の文に Often（よく）とあり、遠くへ出かけるのはたびたびのことです。「今回だけは」とすると、この流れに合いません。
+【覚えるポイント】
+・by doing so：「そうすることで」。doing so は前に出てきた行動を指します。
+・However のあとにつなぎの語句の空所があるときは、However がすでに「反対向き」を表していることをふまえ、前の文の行動とあとの内容がどうつながるか（ここでは行動→その結果）を考えると手がかりになります。

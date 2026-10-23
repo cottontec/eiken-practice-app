@@ -1,0 +1,30 @@
+---
+choices: fill in | duck out | catch on | give up
+answerText: catch on
+reviewed: yes
+---
+【正解】3 catch on（～に気づく、理解する）
+【和訳】
+（英文）
+Since the CEO's speech was so vague, it took Gina a while to ［catch on］ to the fact that the company was in serious financial trouble.
+（訳）
+最高経営責任者（CEO）の話がとてもあいまいだったので、ジーナは、会社がお金の面で深刻な困難におちいっているという事実に（気づく）までにしばらく時間がかかった。
+（選択肢の意味）
+1 fill in：（用紙などに）記入する、（人の）代わりを務める
+2 duck out：こっそり抜け出す、（責任などから）逃げる
+3 catch on：（to ～で）～に気づく、～を理解する
+4 give up：あきらめる
+【考え方】
+まず見るところ：空所の前の it took Gina a while to と、文の前半の the CEO's speech was so vague
+Since the CEO's speech was so vague,（最高経営責任者の話がとてもあいまいだったので）
+CEO は「最高経営責任者（会社でいちばん上の立場で経営をする人）」、vague は「あいまいな、はっきりしない」という意味です。話がはっきりしないと、内容を理解するのに時間がかかります。
+it took Gina a while to (　) to the fact that ～（ジーナが～という事実に（　）するのに、しばらく時間がかかった）
+it takes ～ a while to ... は「～が…するのにしばらく時間がかかる」という形です。あいまいな話から「会社が困っているという事実」に気づくまで時間がかかった、と考えると話が通ります。catch on to ～ は「～に気づく、～を理解する」なので、3が正解です。
+この問題の型：因果（話があいまい → 気づくのに時間がかかった）
+【ほかの選択肢】
+1 fill in は「記入する、代わりを務める」です。「事実に記入するのに時間がかかった」となり、意味が通りません。
+2 duck out は「こっそり抜け出す、逃げる」です。話があいまいだったことと、抜け出すのに時間がかかったことはつながりません。
+4 give up は「あきらめる」です。「会社が困っているという事実にあきらめる」となり、あいまいな話だったので時間がかかったという流れに合いません。
+【覚えるポイント】
+・catch on (to ～)：「（～に）気づく、（～を）理解する」。vague：「あいまいな」。it takes ～ a while to ...：「～が…するのにしばらく時間がかかる」。
+・文の前半に vague（あいまいな）のような「分かりにくさ」を表す語があり、「時間がかかった」と続くときは、空所に「気づく、理解する」という意味の語句が入る手がかりになります。

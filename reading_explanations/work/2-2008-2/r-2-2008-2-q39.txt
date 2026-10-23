@@ -1,0 +1,31 @@
+---
+choices: will probably be limited to testing products at manufacturing companies. | will become popular with people who want to build their own cars. | has helped doctors create new instruments to use in operations. | has spread to people who need three-dimensional models for their work.
+answerText: has spread to people who need three-dimensional models for their work.
+reviewed: yes
+---
+【正解】4 has spread to people who need three-dimensional models for their work.（仕事で立体的な模型を必要とする人々にまで広がっている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：3Dプリンターの利用は、（　）。
+1 will probably be limited to testing products at manufacturing companies.（おそらく、製造会社で製品をテストすることだけに限られるだろう）
+2 will become popular with people who want to build their own cars.（自分の車を作りたい人々の間で人気が出るだろう）
+3 has helped doctors create new instruments to use in operations.（医師が手術で使う新しい器具を作るのに役立ってきた）
+4 has spread to people who need three-dimensional models for their work.（仕事で立体的な模型を必要とする人々にまで広がっている）
+【考え方】
+3Dプリンターがどこで使われているかは、第3段落に書かれています。
+最初に Industry has been making use of 3-D printers for years.（産業界では何年も前から3Dプリンターが使われてきた）とあり、主な使い方は、開発中・テスト中の自動車や飛行機などの部品を作ることでした。
+そのあと However（しかし）で話が変わり、3-D printers have recently been gaining popularity among designers and architects, who use them to create complex models of products and buildings.（最近、3Dプリンターはデザイナーや建築家の間で人気が高まっていて、彼らはそれを使って製品や建物の複雑な模型を作っている）とあります。architect は「建築家」です。
+さらに Doctors also rely on them to make realistic models of the human body（医師も人体の本物そっくりの模型を作るのに3Dプリンターを頼りにしている）とあります。
+デザイナー・建築家・医師はどれも、仕事のために立体的な模型を作っている人たちです。産業界だけでなく、そうした人々にも利用が広がっていると分かります。本文と選択肢は次のように対応しています。
+本文 have recently been gaining popularity among designers and architects（最近デザイナーや建築家の間で人気が高まっている）＝ 選択肢 has spread to people（人々にまで広がっている）
+本文 complex models of products and buildings / realistic models of the human body（製品や建物の複雑な模型／本物そっくりの人体の模型）＝ 選択肢 three-dimensional models for their work（仕事のための立体的な模型）
+正解は4です。
+【ほかの選択肢】
+1 本文では、製品の部品作りだけでなく、デザイナー・建築家・医師にも使われるようになり、さらに家庭向けの販売も計画されています。製造会社のテストだけに限られるというのは、本文と反対です。
+2 本文にある車の話は、産業界で開発中の自動車の部品を作ってきた、というものです。自分で車を作りたい人々の間で人気が出るとは書かれていません。
+3 医師が3Dプリンターで作っているのは realistic models of the human body（本物そっくりの人体の模型）で、手術の準備のためのものです。手術で使う新しい器具を作るとは書かれていません。
+【覚えるポイント】
+・gain popularity among ～：「～の間で人気が高まる」。
+・rely on ～：「～を頼りにする」。

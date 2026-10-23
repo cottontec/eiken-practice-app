@@ -1,0 +1,34 @@
+---
+choices: spoiled | implied | polished | classified
+answerText: polished
+reviewed: yes
+---
+【正解】3 polished（磨いた）
+【和訳】
+（英文）
+A: Those are nice-looking shoes, Todd. Are they new?
+B: No, they're about two years old, but I just ［polished］ them this morning.
+（訳）
+A：トッド、すてきな靴だね。新しいの？
+B：ううん、2年くらい前の靴だよ。でも、今朝（磨いた）ばかりだよ。
+（選択肢の意味）
+1 spoiled：台無しにした、だめにした
+2 implied：ほのめかした（はっきり言わずに伝えた）
+3 polished：磨いた
+4 classified：分類した
+【考え方】
+まず見るところ：Bの答えの No, they're about two years old, but ～
+Aは、靴がすてきに見えるので「新しいの？」とたずねています。
+No, they're about two years old（ううん、2年くらい前のものだよ）
+古い靴なのに新しく見えるのはなぜか、その理由が but のあとに続くと考えます。
+but I just (　) them this morning（でも、今朝それを（　）したばかりだ）
+just は「ちょうど、～したばかり」という意味です。古い靴が新品のようにきれいに見えるのは、靴を磨いたからだと考えると自然です。
+polish は「（こすって）磨く、つやを出す」という意味の動詞で、polished はその過去形です。ですから3が正解です。
+この問題の型：対比（古い靴⇔新しく見える）／語の意味・組み合わせ（polish shoes）
+【ほかの選択肢】
+1 spoiled は「台無しにした、だめにした」です。「今朝靴をだめにした」では、すてきに見えるというAの言葉と合いません。
+2 implied は「ほのめかした」です。何かをはっきり言わずに伝えることを表す語で、「靴をほのめかした」では意味が通りません。
+4 classified は「分類した（種類ごとに分けた）」です。靴を分類しても、古い靴が新しく見える理由にはなりません。
+【覚えるポイント】
+・polish：「磨く、つやを出す」。polish shoes で「靴を磨く」。
+・but のあとには、前の内容から予想されることとは違う話（ここでは「古いのにきれいな理由」）が来ることが多いので、but の前後を比べて考えましょう。

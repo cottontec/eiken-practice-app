@@ -1,0 +1,31 @@
+---
+choices: cynical | resilient | outdated | assertive
+answerText: cynical
+reviewed: yes
+---
+【正解】1 cynical（疑ってかかる、皮肉な見方をする）
+【和訳】
+（英文）
+The people of the city had been lied to by the mayor many times, so they were ［cynical］ of any claim made by him or his staff.
+（訳）
+その市の人々は市長に何度もうそをつかれてきたので、市長やその職員が言うどんな主張も（疑ってかかっていた）。
+（選択肢の意味）
+1 cynical：（人の言うことを）疑ってかかる、皮肉な見方をする
+2 resilient：立ち直りが早い、くじけない
+3 outdated：時代遅れの
+4 assertive：自己主張の強い
+【考え方】
+まず見るところ：文の前半の had been lied to by the mayor many times
+The people of the city had been lied to by the mayor many times（その市の人々は市長に何度もうそをつかれてきた）
+be lied to は「うそをつかれる」という意味です。had been ～ の形なので、それまでに何度もうそをつかれてきた、ということです。
+そのあとに so（だから）が続きます。何度もうそをつかれた人は、その相手の言うことを信じなくなるはずです。
+they were ( ) of any claim made by him or his staff（市長やその職員が言うどんな主張にも（　）だった）
+cynical は「（人の言うことを）疑ってかかる、素直に信じない」という意味なので、1が正解です。
+この問題の型：因果（何度もうそをつかれた→だから疑う）
+【ほかの選択肢】
+2 resilient は「立ち直りが早い、くじけない」です。うそをつかれた結果として「どんな主張にもくじけない」となり、so の前後がつながりません。
+3 outdated は「時代遅れの」です。「人々が市長の主張について時代遅れだった」となり、意味が通りません。
+4 assertive は「自己主張の強い」です。うそをつかれた結果として相手の主張をどう受け止めたかを述べる文なので、「自己主張が強い」では合いません。
+【覚えるポイント】
+・cynical：「（人の言うことを）疑ってかかる、皮肉な見方をする」。
+・so の前に理由が書かれているときは、その理由から自然に生まれる気持ちや態度を表す語が手がかりになります。

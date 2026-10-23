@@ -1,0 +1,29 @@
+---
+choices: liquefy | swell | lounge | brace
+answerText: swell
+reviewed: yes
+---
+【正解】2 swell（はれる、ふくらむ）
+【和訳】
+（英文）
+After the carpenter hit his thumb with the hammer by mistake, it began to ［swell］. Eventually, the thumb was almost twice its normal size.
+（訳）
+その大工がうっかりかなづちで自分の親指を打ってしまったあと、親指ははれ始めた。最後には、親指はふだんの大きさのほぼ2倍あった。
+（選択肢の意味）
+1 liquefy：液体になる、とける
+2 swell：はれる、ふくらむ
+3 lounge：くつろぐ、ぶらぶら過ごす
+4 brace：支える、（衝撃などに）備える
+【考え方】
+まず見るところ：次の文の almost twice its normal size
+空所のある部分は it began to ( )（それは（　）し始めた）です。it は、かなづちで打ってしまった his thumb（彼の親指）を指しています。
+Eventually, the thumb was almost twice its normal size.（最後には、親指はふだんの大きさのほぼ2倍あった）
+eventually は「最後には、ついに」です。親指がふだんの2倍近くの大きさだったのですから、打ったところがふくらんでいったことが分かります。swell は「はれる、ふくらむ」なので、2が正解です。
+この問題の型：推論（ふだんの2倍近くの大きさになった → はれた）
+【ほかの選択肢】
+1 liquefy は「液体になる、とける」です。親指が液体になるのは不自然で、「ふだんの2倍の大きさ」という次の文とも合いません。
+3 lounge は「くつろぐ」です。人がすることで、「親指がくつろぎ始めた」では意味が通りません。
+4 brace は「支える、備える」です。「親指が支え始めた」となり、大きさが2倍近くになったという次の文とつながりません。
+【覚えるポイント】
+・swell：「はれる、ふくらむ」。by mistake は「うっかり、まちがえて」です。
+・次の文に大きさや量の変化を表す言葉（ここでは twice its normal size）があるときは、それが空所の動詞の結果を表している手がかりになります。

@@ -1,0 +1,31 @@
+---
+choices: Trouble in labor markets will result in people making less money from investments. | While robots will replace humans in many fields, the enormous net increase in jobs will eliminate unemployment. | People will use machine intelligence to enhance their own skills, thereby preserving their value in the labor market. | Although some kinds of work will be worth less, certain specialized areas will see a large rise in wages.
+answerText: Although some kinds of work will be worth less, certain specialized areas will see a large rise in wages.
+reviewed: yes
+---
+【正解】4 Although some kinds of work will be worth less, certain specialized areas will see a large rise in wages.（一部の種類の仕事は価値が下がるが、ある特定の専門的な分野では賃金が大きく上がる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ロビン・ハンソンの考えでは、自動化された労働へ大きく移っていくことの結果として考えられることの一つは何か。
+1 Trouble in labor markets will result in people making less money from investments.（労働市場の混乱によって、人々が投資から得るお金が減る。）
+2 While robots will replace humans in many fields, the enormous net increase in jobs will eliminate unemployment.（ロボットが多くの分野で人間に取って代わる一方で、差し引きで仕事がとても大きく増えるため、失業がなくなる。）
+3 People will use machine intelligence to enhance their own skills, thereby preserving their value in the labor market.（人々は機械知能を使って自分の技能を高め、それによって労働市場での自分の価値を保つ。）
+4 Although some kinds of work will be worth less, certain specialized areas will see a large rise in wages.（一部の種類の仕事は価値が下がるが、ある特定の専門的な分野では賃金が大きく上がる。）
+【考え方】
+ハンソンの考えが書かれているのは第2段落です。設問の a broad shift to automated labor は「自動化された労働への大きな移行」、つまり人の仕事を機械がするようになることです。
+第2段落に、While machines would make the value of some work drop significantly, Hanson believes pay for jobs that require human intelligence would increase greatly.（機械によって一部の仕事の価値は大きく下がるだろうが、人間の知能を必要とする仕事の賃金は大幅に上がるだろう、とハンソンは考えている）とあります。この While は「～だが、～の一方で」と、2つの内容を比べる働きをしています。pay は「賃金、給料」という意味です。
+これを選択肢4と対にすると、次のようになります。
+・本文 While（～だが）＝ 選択肢 Although（～だが）
+・本文 the value of some work drop significantly（一部の仕事の価値が大きく下がる）＝ 選択肢 some kinds of work will be worth less（一部の種類の仕事は価値が下がる）
+・本文 jobs that require human intelligence（人間の知能を必要とする仕事）＝ 選択肢 certain specialized areas（ある特定の専門的な分野）
+・本文 pay ... would increase greatly（賃金が大幅に上がる）＝ 選択肢 will see a large rise in wages（賃金が大きく上がる）
+よって4が正解です。
+【ほかの選択肢】
+1 本文と反対です。ハンソンは、自動化によって the value of stock market and real estate investments（株式市場や不動産への投資の価値）が上がると予測しており、投資から得られる利益は失った収入を補えるかもしれない、とまで述べています。
+2 本文に根拠がなく、言い切りすぎです。ハンソンが言う net positive effect（差し引きでよい効果）は経済全体についての話で、「仕事が大きく増える」とは書かれていません。むしろ本文には the income lost due to the reduced need for human labor（人間の労働の必要が減ったために失われる収入）とあり、人の仕事が減ることを前提にしています。「失業がなくなる」とは書かれていません。
+3 本文には、人々が機械知能を使って自分の技能を高める、という話は出てきません。ハンソンが述べているのは、人間の知能を必要とする仕事の賃金が上がる、ということです。
+【覚えるポイント】
+・While A, B：「Aだが（その一方で）B」。2つの内容を比べるときにも使われ、Although とほぼ同じ働きをします。
+・worth less：「価値が下がる、より価値が低い」。worthless（価値のない）と区別しましょう。

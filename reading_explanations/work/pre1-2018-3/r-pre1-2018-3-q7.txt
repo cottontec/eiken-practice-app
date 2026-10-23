@@ -1,0 +1,31 @@
+---
+choices: idle | corrupt | petty | cordial
+answerText: idle
+reviewed: yes
+---
+【正解】1 idle（仕事がなくて何もしていない）
+【和訳】
+（英文）
+Because of a late delivery of raw materials, the factory's workers were ［idle］ for several days, causing production to fall behind schedule.
+（訳）
+原材料の配達が遅れたため、その工場の作業員たちは数日間仕事がなく、そのせいで生産が予定より遅れた。
+（選択肢の意味）
+1 idle：仕事がなくて何もしていない、手が空いている
+2 corrupt：不正をする、堕落した（心が悪くなった）
+3 petty：ささいな、心の狭い
+4 cordial：心のこもった、友好的な
+【考え方】
+まず見るところ：文の初めの Because of a late delivery of raw materials と、文の最後の causing production to fall behind schedule
+文の初めに、原因が書かれています。
+Because of a late delivery of raw materials（原材料の配達が遅れたため）
+raw materials は「原材料（製品を作るもとになる材料）」です。材料が届かなければ、工場の作業員は製品を作る作業ができません。
+causing production to fall behind schedule（そしてそれが、生産が予定より遅れる原因になった）
+文の最後の causing ～ は、前の内容が引き起こした結果を付け加えています。「材料が届かない → 作業員が働けない → 生産が遅れる」とつながる語は idle（仕事がなくて何もしていない）なので、1が正解です。
+この問題の型：因果（材料が届かない → 作業員が仕事をできない → 生産が遅れる）
+【ほかの選択肢】
+2 corrupt は「不正をする、堕落した」です。材料の配達が遅れたことは、作業員が不正をする理由になりません。
+3 petty は「ささいな、心の狭い」です。「作業員たちは数日間心が狭かった」となり、材料の遅れや生産の遅れとつながりません。
+4 cordial は「心のこもった、友好的な」です。作業員が友好的だったことは、生産が予定より遅れた理由になりません。
+【覚えるポイント】
+・idle：「仕事がなくて何もしていない、手が空いている」。fall behind schedule は「予定より遅れる」です。
+・文の初めに原因（Because of ～）、終わりに結果（causing ～）がある文では、空所が「原因と結果をつなぐ様子」になっているかどうかを確かめると、答えが決まりやすくなります。

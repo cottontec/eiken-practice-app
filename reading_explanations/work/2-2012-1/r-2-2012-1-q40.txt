@@ -1,0 +1,29 @@
+---
+choices: The systems would make ships produce too much carbon dioxide. | The people who work on the ships need training to use the systems. | It was necessary to build new ships to use them. | It took too long to install the systems on existing ships.
+answerText: It was necessary to build new ships to use them.
+reviewed: yes
+---
+【正解】3 It was necessary to build new ships to use them.（それらを使うには、新しい船を造る必要があった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：最近まで空気泡システムを使い始めた会社がほとんどなかったのはなぜですか。
+1 The systems would make ships produce too much carbon dioxide.（そのシステムを使うと、船が二酸化炭素を出しすぎることになるから。）
+2 The people who work on the ships need training to use the systems.（船で働く人々が、そのシステムを使うのに訓練を必要とするから。）
+3 It was necessary to build new ships to use them.（それらを使うには、新しい船を造る必要があったから。）
+4 It took too long to install the systems on existing ships.（今ある船にそのシステムを取り付けるのに、時間がかかりすぎたから。）
+【考え方】
+第4段落を見ます。1文目の very few shipping companies adopted air-bubble systems until recently（最近まで、空気泡システムを取り入れた海運会社はほとんどなかった）が、設問と同じ内容です。adopt は「～を取り入れる」という意味です。
+2文目にその理由が書かれています。This was because it costs a great deal of money to build a new ship, and companies try to use their existing ships for as long as possible.（これは、新しい船を造るには多額のお金がかかり、会社は今ある船をできるだけ長く使おうとするからだった）とあります。existing は「今ある、既存の」という意味です。
+第2段落でも、空気泡システムは some new ships have been built with an "air-bubble system."（「空気泡システム」をそなえた新しい船がいくつか造られた）と、新しく造る船に付けるものとして紹介されています。
+さらに、3文目以降で、DKグループが this problem（この問題）を解決し、an air-bubble kit that can be fitted to an existing ship（今ある船に取り付けられる空気泡キット）を作ったと書かれています。今ある船に取り付けられるキットで問題が解決したということは、それまでは今ある船では使えず、新しい船が必要だったということです。本文と選択肢は次のように対応しています。
+本文 it costs a great deal of money to build a new ship, and companies try to use their existing ships（新しい船を造るのはお金がかかり、会社は今ある船を使おうとする）＝ 選択肢 It was necessary to build new ships to use them.（それらを使うには新しい船を造る必要があった）
+正解は3です。
+【ほかの選択肢】
+1 本文では、空気泡システムは燃料を減らすものとして説明されています。システムのせいで船が二酸化炭素を出しすぎるとは書かれていないので、誤りです。
+2 船で働く人々の訓練については、本文に何も書かれていないので、誤りです。
+4 本文で取り付けにかかる時間が出てくるのは、DKグループのキットが just two weeks（わずか2週間）で取り付けられる、という部分だけです。それより前に、今ある船への取り付けに時間がかかりすぎたとは書かれていません。第4段落が挙げる理由は、新しい船を造るのに多額のお金がかかることと、会社が今ある船をできるだけ長く使おうとすることで、取り付けにかかる時間ではないので、誤りです。
+【覚えるポイント】
+・adopt ～：「～を取り入れる、採用する」。
+・existing：「今ある、既存の」。

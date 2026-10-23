@@ -1,0 +1,30 @@
+---
+choices: restrained | crouched | proclaimed | enveloped
+answerText: proclaimed
+reviewed: yes
+---
+【正解】3 proclaimed（（公式に）宣言された）
+【和訳】
+（英文）
+Shortly after the king died, his eldest daughter was ［proclaimed］ queen, and a crowning ceremony was held for her.
+（訳）
+王が亡くなってまもなく、王のいちばん上の娘が女王であると（宣言され）、彼女のための戴冠式が行われた。
+（選択肢の意味）
+1 restrained：押さえつけた、制止した（restrain の過去形・過去分詞）
+2 crouched：かがんだ、しゃがんだ（crouch の過去形・過去分詞）
+3 proclaimed：（公式に）宣言した（proclaim の過去形・過去分詞）
+4 enveloped：包んだ、おおった（envelop の過去形・過去分詞）
+【考え方】
+まず見るところ：空所の後ろの queen と、後半の a crowning ceremony was held for her
+his eldest daughter was ( ) queen（王のいちばん上の娘は女王と（　））
+eldest daughter は「いちばん上の娘」という意味です。空所のすぐ後ろに queen（女王）があります。proclaim A B で「AがBであると（公式に）宣言する」という意味になり、受け身（～される）の形にすると A was proclaimed B（AがBであると宣言された）となります。
+a crowning ceremony was held for her（彼女のための戴冠式が行われた）
+crowning ceremony は「戴冠式（王や女王が冠を受けて、正式に位につく儀式）」です。王が亡くなったあと、娘が新しい女王になったと発表され、そのための儀式が開かれた、という流れになります。ですから3が正解です。
+この問題の型：文法（受け身 was proclaimed queen）／語の意味・組み合わせ（proclaim A B）
+【ほかの選択肢】
+1 restrained は「押さえつけた、制止した」です。「娘は女王と押さえつけられた」となり、意味が通りません。
+2 crouched は「かがんだ、しゃがんだ」です。crouch は「～を」に当たる語をとらない動詞なので、was crouched queen（女王とかがまれた）という形にはならず、意味も通りません。
+4 enveloped は「包んだ、おおった」です。「娘は女王と包まれた」となり、戴冠式が行われたという後半とつながりません。
+【覚えるポイント】
+・proclaim A B：「AがBであると宣言する」。A was proclaimed queen で「Aが女王であると宣言された」です。
+・空所の後ろに queen のような身分や役職を表す語が直接続くときは、「AをBにする・Bと宣言する」の形をとる動詞かどうかを確かめることが手がかりになります。

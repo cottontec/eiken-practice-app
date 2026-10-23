@@ -1,0 +1,37 @@
+---
+choices: humble | impulsive | desperate | observant
+answerText: observant
+reviewed: yes
+---
+【正解】4 observant（観察力の鋭い、よく気がつく）
+【和訳】
+（英文）
+A: Mary, it was really ［observant］ of you to notice that mistake in the report. Everyone else missed it.
+B: Thanks, Kazu. I've been trying to pay more attention to small details recently.
+（訳）
+A：メアリー、報告書のあの間違いに気づくなんて、本当に（よく気がつく）ね。ほかのみんなは見落としていたよ。
+B：ありがとう、カズ。最近、細かいところにもっと注意を払うようにしているよ。
+（選択肢の意味）
+1 humble：謙虚な、ひかえめな
+2 impulsive：衝動的な（よく考えずにすぐ行動してしまう）
+3 desperate：必死の、絶望的な
+4 observant：観察力の鋭い、よく気がつく
+【考え方】
+まず見るところ：空所のあとの to notice that mistake と、Bの pay more attention to small details
+空所のある文は、次の形になっています。
+it was really ( ) of you to notice that mistake in the report（報告書のあの間違いに気づくなんて、あなたは本当に（　）だ）
+it was ～ of you to do は「…するなんて、あなたは～だ」と、ある行動からその人の性質を言う形です。ここでの行動は「報告書の間違いに気づいたこと」です。
+さらに、Aは次のように続けています。
+Everyone else missed it.（ほかのみんなは見落としていた）
+ほかの人が見落とした間違いに気づいたのですから、「よく見ている、よく気がつく」とほめていると考えられます。
+Bの答えも手がかりになります。
+I've been trying to pay more attention to small details recently.（最近、細かいところにもっと注意を払うようにしている）
+細かいところに注意を払う人は、よく気がつく人です。observant は「観察力の鋭い、よく気がつく」という意味なので、4が正解です。
+この問題の型：語の意味・組み合わせ（気づく・注意を払う→observant）／言いかえ（Bの答えが空所の語を説明している）
+【ほかの選択肢】
+1 humble は「謙虚な、ひかえめな」です。「間違いに気づくなんて謙虚だね」となり、間違いに気づくことと謙虚さが結びつきません。Bの「細かいところに注意を払っている」という答えとも合いません。
+2 impulsive は「衝動的な（よく考えずにすぐ行動してしまう）」です。細かいところに注意を払うというBの説明とは、むしろ反対の性質です。
+3 desperate は「必死の、絶望的な」です。「間違いに気づくなんて必死だね」では、ほかの人が見落とした間違いに気づいたことをほめる言葉になりません。
+【覚えるポイント】
+・observant：「観察力の鋭い、よく気がつく」。
+・it was ～ of you to do：「…するなんて、あなたは～だ」。to のあとの行動（ここでは間違いに気づいたこと）から、その人がどんな性質なのかを考えると、空所に入る形容詞（人や物の様子・性質を表す語）を選ぶ手がかりになります。

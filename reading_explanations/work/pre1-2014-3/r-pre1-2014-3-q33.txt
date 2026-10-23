@@ -1,0 +1,32 @@
+---
+choices: The ships' growing popularity means they are being forced to follow increasingly strict standards for emissions. | The acid rain that damages brick buildings is not caused by sulfur emissions. | The pollution caused by cars is a bigger problem than environmental damage from cruise ship emissions. | The ships' emissions meet the official requirements that have been established.
+answerText: The ships' emissions meet the official requirements that have been established.
+reviewed: yes
+---
+【正解】4 The ships' emissions meet the official requirements that have been established.（船の排出物は、定められている公式の基準を満たしている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one point made in support of the cruise business?（クルーズ事業を支持する立場から述べられている点の一つは何か。）
+1 The ships' growing popularity means they are being forced to follow increasingly strict standards for emissions.（船の人気が高まっているので、船は排出物についてのますます厳しい基準に従わざるをえなくなっている。）
+2 The acid rain that damages brick buildings is not caused by sulfur emissions.（れんがの建物を傷める酸性雨は、硫黄の排出によって起きているのではない。）
+3 The pollution caused by cars is a bigger problem than environmental damage from cruise ship emissions.（車による汚染は、クルーズ船の排出物による環境への害よりも大きな問題である。）
+4 The ships' emissions meet the official requirements that have been established.（船の排出物は、定められている公式の基準を満たしている。）
+【考え方】
+まず見るところ：第2段落の Nevertheless, cruise operators insist that ～
+第2段落の前半は、船を批判する人々の意見です。最大のクルーズ船は1時間に車1万5,000台分の汚染物質を出すこと、排出物の硫黄が酸になって古い建物を傷めているかもしれないことが挙げられています。そのあと、Nevertheless（それにもかかわらず）で、クルーズ事業の側の主張が続きます。
+Nevertheless, cruise operators insist that the contents of their emissions are within European regulations（それにもかかわらず、クルーズ船の運航会社は、排出物の中身はヨーロッパの規制の範囲内だと強く主張している）
+emission は「排出物（外に出されるガスなど）」、regulation は「規制（決まり）」、within ～ は「～の範囲内で」という意味です。
+本文と選択肢4を対にすると、次のようになります。
+・本文 their emissions（船の排出物）＝ 選択肢 The ships' emissions（船の排出物）
+・本文 are within European regulations（ヨーロッパの規制の範囲内である）＝ 選択肢 meet the official requirements that have been established（定められた公式の基準を満たしている）
+よって4が正解です。
+この問題の型：言いかえ（within regulations ＝ meet the official requirements）
+【ほかの選択肢】
+1 本文にありません。運航会社は「将来は硫黄の少ない燃料に切り替える計画がある」と言っていますが、人気が高まったせいで厳しい基準に従わされているという話はありません。
+2 本文にありません。本文では、硫黄が雨水と反応して酸ができると書かれていて、運航会社がそれを否定したという話はありません。
+3 本文と違います。車1万5,000台の話は、地元の抗議団体が「船がそれほど多くの汚染物質を出す」と指摘するために使った比較です。車の汚染のほうが大きな問題だ、という主張ではありません。
+【覚えるポイント】
+・within regulations：「規制の範囲内で」。meet the requirements：「基準を満たす」。
+・「支持する側の意見」をたずねる設問では、批判の意見のあとの Nevertheless（それにもかかわらず）や argue / insist（主張する）が、立場が変わる場所を見つける手がかりになります。

@@ -1,0 +1,30 @@
+---
+choices: relevant | optimistic | justified | permissive
+answerText: optimistic
+reviewed: yes
+---
+【正解】2 optimistic（楽観的な）
+【和訳】
+（英文）
+Don't be too ［optimistic］ at this stage. It's still too early to tell whether you'll get the promotion.
+（訳）
+今の段階では、あまり（楽観的に）なりすぎないで。あなたが昇進できるかどうかを判断するには、まだ早すぎるよ。
+（選択肢の意味）
+1 relevant：関係のある、関連した
+2 optimistic：楽観的な（物事がうまくいくと明るく考える）
+3 justified：正当な、もっともな（ちゃんとした理由がある）
+4 permissive：寛大な、（何でも）許してしまう
+【考え方】
+まず見るところ：2文目の It's still too early to tell whether you'll get the promotion.
+1文目は Don't be too (　) at this stage.（今の段階で、あまり〇〇になりすぎないで）という注意です。なぜそう注意するのかは、2文目に書かれています。
+It's still too early to tell whether you'll get the promotion.（あなたが昇進するかどうかを判断するには、まだ早すぎる）
+too early to tell は「判断するには早すぎる」という意味です。昇進できるかどうか、結果はまだ分かりません。それなのに「なりすぎないで」と注意される気持ちといえば、「きっと昇進できる」と期待しすぎることです。
+optimistic は「楽観的な（物事がうまくいくと明るく考える）」という意味です。「まだ分からないのだから、あまり楽観的になりすぎないで」となり、意味が通ります。よって2が正解です。
+この問題の型：因果（2文目が、1文目の注意の理由になっている）
+【ほかの選択肢】
+1 relevant は「関係のある」です。「あまり関係がありすぎないで」となり、何と関係があるのかも分からず、意味が通りません。
+3 justified は「正当な、もっともな理由がある」です。「あまり正当になりすぎないで」では、昇進の結果がまだ分からないという2文目とつながりません。
+4 permissive は「寛大な、何でも許してしまう」で、ほかの人のふるまいを許すかどうかの話で使います。この文には何かを許す・許さないという話がありません。
+【覚えるポイント】
+・Don't be too ～：「あまり～になりすぎないで」。too early to tell：「判断するには早すぎる、まだ分からない」。
+・Don't be too (　) のような注意の文では、すぐあとの文が「なぜそう注意するのか」の理由になっていることが多いので、そこから気持ちを表す語を選びましょう。

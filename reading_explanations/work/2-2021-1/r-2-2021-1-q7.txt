@@ -1,0 +1,27 @@
+---
+choices: proposing | converting | drowning | exporting
+answerText: drowning
+reviewed: yes
+---
+【正解】3 drowning（おぼれている）
+【和訳】
+（英文）
+The lifeguard ran into the ocean to help a young girl who looked like she was ［drowning］ in the big waves.
+（訳）
+ライフガードは、大きな波の中で（おぼれている）ように見えた幼い女の子を助けるために、海に駆け込みました。
+（選択肢の意味）
+1 proposing：提案している、結婚を申し込んでいる
+2 converting：変えている、変換している
+3 drowning：おぼれている
+4 exporting：輸出している
+【考え方】
+まず lifeguard に注目します。lifeguard は、海やプールで泳ぐ人の安全を見守り、おぼれた人を助ける「監視員、ライフガード」のことです。
+そのライフガードが ran into the ocean to help a young girl（幼い女の子を助けるために海に駆け込んだ）とあります。女の子は in the big waves（大きな波の中で）、助けが必要な様子だったと分かります。
+海の中で助けが必要な状態とは「おぼれている」状態です。drown（おぼれる）の -ing 形を入れて she was drowning（おぼれているところだった）とすると、ライフガードの行動の理由がはっきりします。looked like ～ は「～のように見えた」という意味です。
+【ほかの選択肢】
+1 proposing は「提案している、結婚を申し込んでいる」です。大きな波の中で女の子が提案しているというのは、ライフガードが助けに行く理由になりません。
+2 converting は「（別のものに）変えている、変換している」です。何を変えているのかも分からず、意味が通りません。
+4 exporting は「（外国へ）輸出している」です。会社や国が品物を外国へ売るときに使う語で、海で泳ぐ女の子の様子には合いません。
+【覚えるポイント】
+・drown：「おぼれる、おぼれ死ぬ」。be drowning で「おぼれかけている」。
+・look like ＋主語＋動詞：「～のように見える」。

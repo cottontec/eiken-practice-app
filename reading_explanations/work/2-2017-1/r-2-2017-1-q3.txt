@@ -1,0 +1,27 @@
+---
+choices: train | measure | modify | tolerate
+answerText: modify
+reviewed: yes
+---
+【正解】3 modify（〔一部を〕変える、修正する）
+【和訳】
+（英文）
+After the sales of Creamy Cola fell every year for five years, the company decided to ［modify］ the taste of the drink by adding cherry flavor and making it sweeter.
+（訳）
+クリーミー・コーラの売り上げが5年間、毎年下がったあと、その会社は、さくらんぼの風味を加え、前より甘くすることで、その飲み物の味を（変える）ことにしました。
+（選択肢の意味）
+1 train：訓練する
+2 measure：測る
+3 modify：（一部を）変える、修正する
+4 tolerate：がまんする、大目に見る
+【考え方】
+空所のあとの by adding cherry flavor and making it sweeter（さくらんぼの風味を加え、前より甘くすることで）に注目します。by ～ing は「～することによって」という意味で、味に対して何をするのか、そのやり方を表しています。
+風味を足したり、甘さを強めたりするのは、味を「変える」ことです。また、文の前半には、売り上げが five years（5年間）毎年下がったとあります。売れなくなったので、味を変えて売り上げを取り戻そうとした、という流れが自然です。
+modify は「（一部を）変える、修正する」という意味です。modify the taste で「味を変える」となるので、3が正解です。
+【ほかの選択肢】
+1 train は「訓練する、きたえる」です。人や動物をきたえるときに使う語で、「飲み物の味を訓練する」では意味が通りません。
+2 measure は「測る」です。味を測るのであれば、さくらんぼの風味を加えたり甘くしたりする必要はありません。by 以下のやり方とつながりません。
+4 tolerate は「がまんする、大目に見る」です。「味をがまんすることにした」では、風味を加えて甘くするという内容と合いません。
+【覚えるポイント】
+・modify：「（一部を）変える、修正する」。change（変える）に近い意味です。
+・by ～ing：「～することによって」。何をどうやってしたのかを表します。

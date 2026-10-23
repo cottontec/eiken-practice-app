@@ -1,0 +1,34 @@
+---
+choices: It is possible that Western people's attitudes toward eating insects will change in the future. | The reason that shrimp and lobster are not eaten in certain countries is that they look similar to insects. | People in developing countries only eat insects when their main food sources become difficult to obtain. | The fact that eating insects was common early in human history suggests it will remain a custom in certain countries.
+answerText: It is possible that Western people's attitudes toward eating insects will change in the future.
+reviewed: yes
+---
+【正解】1 It is possible that Western people's attitudes toward eating insects will change in the future.（昆虫を食べることに対する西洋の人々の態度は、将来変わる可能性がある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Which of the following statements would Paul Rozin likely agree with?（次の記述のうち、ポール・ロジンが賛成しそうなのはどれですか。）
+1 It is possible that Western people's attitudes toward eating insects will change in the future.（昆虫を食べることに対する西洋の人々の態度は、将来変わる可能性がある。）
+2 The reason that shrimp and lobster are not eaten in certain countries is that they look similar to insects.（エビやロブスターが一部の国で食べられていない理由は、それらが昆虫に似て見えることだ。）
+3 People in developing countries only eat insects when their main food sources become difficult to obtain.（発展途上国の人々は、主な食料源が手に入りにくくなったときにだけ昆虫を食べる。）
+4 The fact that eating insects was common early in human history suggests it will remain a custom in certain countries.（人類の歴史の初めごろに昆虫を食べることがふつうだったという事実は、一部の国でそれが習慣として残り続けることを示している。）
+【考え方】
+まず見るところ：第3段落の such attitudes are not necessarily set in stone と、段落の最後の Western diets may one day include them
+第3段落の後半で、ロジンの考えが書かれています。
+Psychology professor Paul Rozin of the University of Pennsylvania, however, says that although many people find the idea of eating insects unappetizing, such attitudes are not necessarily set in stone.（しかし、ペンシルベニア大学の心理学の教授ポール・ロジンは、多くの人が昆虫を食べるという考えをおいしそうではないと感じるものの、そうした態度は必ずしも変えられないものではないと言う）
+set in stone は「石に刻まれたように、決して変わらない」という意味です。not necessarily は「必ずしも～ではない」なので、「そうした態度は変わることもありうる」ということです。
+そのあと、エビやロブスターがかつては嫌われていたのに、今では高級な食事になった例が挙げられ、段落は次の文で終わります。
+If prejudices against eating insects can be similarly reversed, Western diets may one day include them.（昆虫を食べることへの偏見が同じようにひっくり返されれば、西洋の食生活にいつか昆虫が含まれるようになるかもしれない）
+本文と選択肢を対にすると、次のようになります。
+本文 such attitudes are not necessarily set in stone（そうした態度は必ずしも変えられないものではない）＝ 選択肢 It is possible that ～ attitudes ～ will change（態度が変わる可能性がある）
+本文 may one day（いつか～かもしれない）＝ 選択肢 in the future（将来）
+本文も選択肢も「変わる可能性がある」という言い方で、言い切ってはいない点が同じです。ですから1が正解です。
+この問題の型：言いかえ（not necessarily set in stone ＝ it is possible that ～ will change）
+【ほかの選択肢】
+2 本文では、エビやロブスターがかつて嫌われていた理由は、ほかに何も買う余裕のない人だけが食べていたからだと書かれています。昆虫に似て見えるからではなく、理由が違います。また、一部の国で今食べられていないという話もありません。
+3 本文で発展途上国について書かれているのは、昆虫が手ごろな値段で手に入る、数少ないたんぱく源の1つだということです。「主な食料源が手に入りにくくなったときにだけ食べる」とは書かれておらず、これはロジンの意見としても述べられていません。
+4 本文には、アフリカやアジアの多くの国々で何千年もの間昆虫が食べられてきたとありますが、ロジンが述べているのは、食べ物の好みは「変わりうる」ということです。昔の習慣がこれからも残り続けるという話はしておらず、ロジンの考えの中心と違います。
+【覚えるポイント】
+・set in stone：「（石に刻まれたように）決して変わらない」。not necessarily ～：「必ずしも～ではない」。
+・「～しそうなのはどれか」をたずねる問題では、その人物の発言だけでなく、その人物が挙げた例（ここではエビやロブスター）が何を言うためのものかを考えることが手がかりになります。

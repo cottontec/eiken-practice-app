@@ -1,0 +1,33 @@
+---
+choices: begun by native populations who lived along the coasts of the southern part of North America. | popular in parts of Europe even before North America was colonized by Europeans. | surprisingly widespread among Native Americans in spite of the plant's Chinese origins. | introduced to Native Americans by Europeans who sought to profit from trade in the beverage.
+answerText: begun by native populations who lived along the coasts of the southern part of North America.
+reviewed: yes
+---
+【正解】1 begun by native populations who lived along the coasts of the southern part of North America.（北アメリカ南部の海岸沿いに住んでいた先住の人々によって始められた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to the author of the passage, the drinking of cassina was（この文章の筆者によると、カッシーナを飲むことは～。）
+1 begun by native populations who lived along the coasts of the southern part of North America.（北アメリカ南部の海岸沿いに住んでいた先住の人々によって始められた。）
+2 popular in parts of Europe even before North America was colonized by Europeans.（北アメリカがヨーロッパ人によって植民地にされる前でさえ、ヨーロッパの一部で人気があった。）
+3 surprisingly widespread among Native Americans in spite of the plant's Chinese origins.（その植物が中国生まれであるにもかかわらず、驚くほどアメリカ先住民の間に広まっていた。）
+4 introduced to Native Americans by Europeans who sought to profit from trade in the beverage.（その飲み物の取引で利益を得ようとしたヨーロッパ人によって、アメリカ先住民に伝えられた。）
+【考え方】
+まず見るところ：第1段落の Cassina, however, does not come from China, ～ but from the southern coastal areas of North America. と Native Americans began ～
+Cassina, however, does not come from China, where tea originated, but from the southern coastal areas of North America.（しかし、カッシーナは、茶が生まれた中国から来たのではなく、北アメリカの南部の海岸地域から来たものだ）
+not A but B は「AではなくB」という意味です。カッシーナの生まれた場所は、北アメリカ南部の海岸地域です。
+Native Americans began drying and roasting cassina leaves over a thousand years ago（アメリカ先住民は1,000年以上前にカッシーナの葉を乾かして焙煎し始めた）
+2つの文を合わせると、カッシーナは北アメリカ南部の海岸地域のもので、それを最初に飲み物にしたのはアメリカ先住民だ、と読み取れます。
+本文と選択肢を対にすると、次のようになります。
+・本文 Native Americans began ～（アメリカ先住民が始めた）＝ 選択肢 begun by native populations（先住の人々によって始められた）
+・本文 the southern coastal areas of North America（北アメリカの南部の海岸地域）→ 選択肢 the coasts of the southern part of North America（北アメリカ南部の海岸沿い）
+ですから1が正解です。
+この問題の型：言いかえ（Native Americans → native populations／southern coastal areas → coasts of the southern part）
+【ほかの選択肢】
+2 本文にありません。ヨーロッパからの入植者が来る前にカッシーナの取引が広がっていたのは the continent（北アメリカ大陸）です。ヨーロッパについては、1700年代に売り出されたが人気を得られなかった、と第3段落に書かれているだけです。
+3 本文と反対です。本文には、カッシーナは does not come from China（中国から来たのではない）とはっきり書かれています。
+4 本文と反対です。カッシーナを飲み始めたのはアメリカ先住民で、ヨーロッパの入植者は The colonizers, too, adopted the beverage（入植者たちもまたこの飲み物を取り入れた）と、あとから取り入れた側です。
+【覚えるポイント】
+・not A but B：「AではなくB」。この文章では、カッシーナの出どころが中国ではなく北アメリカであることを示しています。
+・「だれが始めたか」をたずねる設問では、began（始めた）や the arrival of ～（～の到着）などの時を表す語句を手がかりに、だれが先でだれがあとなのかを本文で確かめることが大切です。

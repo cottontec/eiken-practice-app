@@ -1,0 +1,25 @@
+---
+choices: official | moral | economic | doubtful
+answerText: economic
+reviewed: yes
+---
+【正解】3 economic（経済的な、お金に関わる）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 official：公式の、公の
+2 moral：道徳的な、道徳に関わる
+3 economic：経済的な、お金に関わる
+4 doubtful：疑わしい、はっきりしない
+【考え方】
+空所は第1段落の One reason for this is (　).（このことの理由の1つは（　）だ）という文にあります。this が指すのは、前の文の the industry has come under pressure to change the way it operates（海運業界が仕事のやり方を変えるよう圧力を受けるようになった）ということです。つまり、空所には「やり方を変えるよう迫られている理由」がどういう種類のものかが入ります。
+すぐあとの文を見ます。Over the past few years, shipping companies have found it increasingly difficult to make a profit, mainly because of a sharp rise in fuel costs.（ここ数年、海運会社は、主に燃料費が急に上がったために、利益を上げるのがますます難しくなっている）とあります。make a profit（利益を上げる）や fuel costs（燃料費）は、どちらもお金の話です。
+さらにそのあとに Another reason is environmental.（もう1つの理由は環境に関わるものだ）と続きます。理由を「環境に関わるもの」と種類で言っているので、1つ目の理由も同じように種類を表す語が入ると考えられます。お金に関わる理由なので、economic（経済的な）が当てはまります。正解は3です。
+【ほかの選択肢】
+1 official は「公式の、公の」です。「理由の1つは公式のものだ」となりますが、すぐあとに書かれているのは利益や燃料費というお金の話で、公式かどうかの話ではありません。
+2 moral は「道徳的な（正しいか正しくないかに関わる）」です。あとの文は会社がもうけを出しにくくなったという話で、正しいかどうかの話ではないので合いません。
+4 doubtful は「疑わしい、はっきりしない」です。「理由の1つは疑わしい」となると、理由そのものが確かでないことになってしまいます。本文は燃料費の上昇を理由としてはっきり述べているので、合いません。
+【覚えるポイント】
+・One reason is ～. Another reason is …：「理由の1つは～だ。もう1つの理由は…だ」。理由を2つ並べる形です。
+・make a profit：「利益を上げる、もうける」。

@@ -1,0 +1,26 @@
+---
+choices: reply to | cut down | pay for | work out
+answerText: cut down
+reviewed: yes
+---
+【正解】2 cut down（減らす）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 reply to：～に返事をする
+2 cut down：減らす
+3 pay for：～の代金を払う
+4 work out：（問題などを）解決する、考え出す
+【考え方】
+第2段落は、19世紀の終わりにも宿題が批判されたという話です。前の文に、many doctors and parents became concerned that children were losing physical strength and becoming nervous because of too much homework（多くの医師や親が、宿題が多すぎるせいで子どもたちが体力を失い、神経質になっているのではないかと心配した）とあります。
+空所の文は They demanded that schools (　) the amount of homework they gave to encourage children to play and exercise.（彼らは、子どもたちが遊んだり運動したりするようにうながすために、学校が出す宿題の量を～するよう求めた）です。
+宿題が多すぎることを心配していたのですから、求めたのは宿題の量を「減らす」ことです。また、子どもに遊びや運動をさせるためには、宿題を減らして時間を作る必要があります。cut down ～ は「～を減らす」なので、2が正解です。
+次の文で、カリフォルニア州が15歳未満の子どもへの宿題を禁止する法律まで作ったと書かれていることも、「宿題を減らす」流れと合っています。
+【ほかの選択肢】
+1 reply to は「～に返事をする」です。「宿題の量に返事をする」では意味が通りません。
+3 pay for は「～の代金を払う」です。「学校が宿題の量の代金を払う」となり、宿題が多すぎるという心配とつながりません。
+4 work out は「（問題を）解決する、（方法を）考え出す」です。「宿題の量を考え出す」では、量を少なくしたいという親や医師の願いがはっきり表せず、遊んだり運動したりする時間を作るという目的ともつながりません。
+【覚えるポイント】
+・cut down ～：「～を減らす」。cut down on ～ という形もよく使います。
+・encourage ＋ 人 ＋ to ～：「人が～するようにうながす、励ます」。

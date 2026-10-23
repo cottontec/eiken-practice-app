@@ -1,0 +1,36 @@
+---
+choices: require the development of a larger type of battery with enough capacity to store the energy created at the dam. | use the dam to ensure that the energy from solar and wind power would be available whenever needed. | provide a more efficient method of transferring energy produced at the dam to areas that are upriver from it. | allow the dam to compete with alternative energy sources that are currently able to produce more power than it does.
+answerText: use the dam to ensure that the energy from solar and wind power would be available whenever needed.
+reviewed: yes
+---
+【正解】2 use the dam to ensure that the energy from solar and wind power would be available whenever needed.（ダムを使って、太陽光と風力によるエネルギーが必要なときにいつでも使えるようにする。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：The proposed plan for Hoover Dam would（フーバーダムのために提案された計画は、…だろう。）
+1 require the development of a larger type of battery with enough capacity to store the energy created at the dam.（ダムで作られたエネルギーをためておけるだけの容量を持つ、より大きな種類の電池の開発を必要とする）
+2 use the dam to ensure that the energy from solar and wind power would be available whenever needed.（ダムを使って、太陽光と風力によるエネルギーが必要なときにいつでも使えるようにする）
+3 provide a more efficient method of transferring energy produced at the dam to areas that are upriver from it.（ダムで作られたエネルギーを、ダムより上流の地域に送るための、より効率のよい方法を提供する）
+4 allow the dam to compete with alternative energy sources that are currently able to produce more power than it does.（現在ダムより多くの電力を生み出せる代替エネルギー源と、ダムが競争できるようにする）
+【考え方】
+まず見るところ：第3段落の one serious downside is that the energy they produce is not available when there is little sun or wind
+第3段落は、まず太陽光と風力の欠点を説明しています。
+one serious downside is that the energy they produce is not available when there is little sun or wind（深刻な欠点の一つは、日差しや風が少ないときには、それらが生み出すエネルギーが手に入らないことである）
+つまり、太陽光や風力の電気は、ためておけないと必要なときに使えません。
+次に、提案された計画の中身を見ます。
+It would push water from the river back up to Hoover Dam, refilling the lake behind it.（その揚水場は、川の水をフーバーダムまで押し上げて戻し、ダムの後ろにある湖を再び満たすことになる）
+The water could be released anytime to power the dam's generators in order to reliably meet demand for electricity.（その水は、電気の需要に確実に応えるために、いつでも放流してダムの発電機を動かすことができる）
+太陽光と風力の電気で水をくみ上げておき、必要なときにその水で発電します。ダムが電気をためる大きな電池のような役割を果たすのです。
+本文と選択肢2を対にすると、次のようになります。
+本文 a new pumping station that would be powered by both wind and solar（風力と太陽光の両方を動力とする新しい揚水場）→ 選択肢 the energy from solar and wind power（太陽光と風力によるエネルギー）
+本文 could be released anytime ～ to reliably meet demand（いつでも放流して、需要に確実に応える）→ 選択肢 would be available whenever needed（必要なときにいつでも使える）
+よって2が正解です。
+この問題の型：言いかえ（released anytime to reliably meet demand→available whenever needed）／因果（太陽光・風力はためにくい→ダムで水としてためる）
+【ほかの選択肢】
+1 本文と合いません。サンダース教授は We don't have anything on the horizon as far as batteries of that magnitude.（それほどの規模の電池については、近いうちに出てきそうなものは何もありません）と言っています。計画は、大きな電池の代わりにダムを使ってためるものであり、新しい電池の開発を必要とするのではありません。
+3 本文にない内容です。計画は川の水をダムまで押し上げて戻すもので、ダムで作ったエネルギーを上流の地域に送る方法についての話はありません。
+4 本文にない内容です。計画は水力発電を太陽光・風力と組み合わせるもので、ダムがそれらと競争するためのものではありません。太陽光や風力がダムより多くの電力を作っているという比較も書かれていません。
+【覚えるポイント】
+・whenever needed：「必要なときにいつでも」。本文の anytime（いつでも）や reliably meet demand（需要に確実に応える）と同じ方向の言いかえです。
+・計画や提案についての設問では、その前に書かれた downside（欠点）や challenge（課題）を確かめ、計画がその欠点をどう解決するのかを読み取ると、正解の選択肢を選ぶ手がかりになります。

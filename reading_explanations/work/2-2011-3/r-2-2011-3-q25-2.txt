@@ -1,0 +1,21 @@
+---
+choices: in | now | lives | a | that she
+answerText: that she
+order: 2 5 3 1 4
+reviewed: yes
+---
+【正解】5 that she（この問題の2番目）
+【完成文】
+( Now that she lives in a ) dormitory, though, she has to get up on her own every day.
+並べ方：2 now → 5 that she → 3 lives → 1 in → 4 a（2番目は5、4番目は1）
+【和訳】
+グレースが高校生だったころは、毎朝お父さんが彼女を起こしていました。でも、今は寮に住んでいるので、彼女は毎日自分で起きなければなりません。
+【考え方】
+空所は文の最初にあり、そのあとに dormitory（寮）, though, she has to get up on her own every day.（でも、彼女は毎日自分で起きなければならない）が続きます。文の後半にはもう主語 she と動詞 has to get up がそろっているので、空所には「どんなときか、なぜか」を表す前置きのまとまりが入ると考えます。
+5つの語の中の 2 now と 5 that she に注目します。now that ～ で「今は～なので、今や～だから」という意味になります。そこで 2 now を最初に置き、2番目に 5 that she を続けます。now that のあとには「主語＋動詞」がくるので、that と she がひとまとまりになったこの選択肢がちょうどこの位置に入ります。
+she のあとに動詞の 3 lives を置き、1 in と 4 a を続けて lives in a dormitory（寮に住んでいる）とします。
+2番目は5 that she です。
+1文目は高校時代の話で、2文目は Now that ～ で「今は」に話が移っています。「高校のときは父が起こしてくれた。でも今は寮に住んでいるので自分で起きる」という対比（2つを比べてちがいを示すこと）が、now that から読み取れます。
+【覚えるポイント】
+・now that ＋主語＋動詞：「今は～なので、今や～だから」。
+・on one's own：「自分で、ひとりで」。

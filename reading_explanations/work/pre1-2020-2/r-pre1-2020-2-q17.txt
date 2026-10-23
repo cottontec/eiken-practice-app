@@ -1,0 +1,33 @@
+---
+choices: collage | accordance | privilege | clutter
+answerText: clutter
+reviewed: yes
+---
+【正解】4 clutter（散らかった物）
+【和訳】
+（英文）
+A: I finished cleaning my room, Dad.
+B: It looks better, but what about all that ［clutter］ on your desk? Put those things away in your drawers.
+（訳）
+A：お父さん、部屋の掃除が終わったよ。
+B：前よりよくなったね。でも、机の上の（散らかった物）は全部どうするの？ それらの物は引き出しにしまいなさい。
+（選択肢の意味）
+1 collage：コラージュ（紙や写真などをはり合わせて作る作品）
+2 accordance：一致、調和
+3 privilege：特権（特別に認められた権利）
+4 clutter：散らかった物、ごちゃごちゃした物
+【考え方】
+まず見るところ：Bの最後の Put those things away in your drawers.
+Aは部屋の掃除が終わったと言い、Bは「よくなった」と認めつつ、but で机の上の（　）について問題にしています。
+Bの最後の言葉を見ます。
+Put those things away in your drawers.（それらの物は引き出しにしまいなさい）
+those things（それらの物）は、机の上の（　）を指しています。しまうように言っているので、机の上に物があちこちに置かれて散らかっていると分かります。
+clutter は「散らかった物、ごちゃごちゃした物」という意味なので、4が正解です。
+この問題の型：指示語（those things＝机の上の空所の物）／対比（but：部屋はよくなった⇔机の上は散らかっている）
+【ほかの選択肢】
+1 collage は「コラージュ」です。紙などをはり合わせて作る1つの作品なので、「それらの物を引き出しにしまいなさい」と、いくつもの物を片づけさせる流れに合いません。
+2 accordance は「一致、調和」です。in accordance with ～（～にしたがって）の形で使う語で、机の上にある物を表すことはできません。
+3 privilege は「特権」です。目に見える物ではないので、机の上にあって引き出しにしまう物にはなりません。
+【覚えるポイント】
+・clutter：「散らかった物、ごちゃごちゃした物」。部屋や机の上が散らかっている様子に使います。
+・空所のあとに those things（それらの物）のような指示語（前に出た物を指す言葉）が出てきたら、それが空所の語を指していることが多いので、「それらの物」に何をするように言っているかを手がかりにします。

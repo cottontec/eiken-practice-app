@@ -1,0 +1,29 @@
+---
+choices: chronicled | disguised | rendered | revitalized
+answerText: disguised
+reviewed: yes
+---
+【正解】2 disguised（変装させた）
+【和訳】
+（英文）
+The spies ［disguised］ themselves as army officers in an attempt to enter the military base without being noticed.
+（訳）
+スパイたちは、気づかれずに軍の基地に入ろうとして、陸軍の将校に（変装した）。
+（選択肢の意味）
+1 chronicled：（できごとを順に）記録した
+2 disguised：変装させた（disguise oneself as ～ で「～に変装する」）
+3 rendered：（ある状態に）した、表現した
+4 revitalized：生き返らせた、活気を取りもどさせた
+【考え方】
+まず見るところ：空所のあとの themselves as army officers と、文の最後の without being noticed
+空所のあとは themselves as army officers（自分たち自身を陸軍の将校として）となっています。
+in an attempt to enter the military base without being noticed（気づかれずに軍の基地に入ろうとして）
+in an attempt to ～ は「～しようとして」、without being noticed は「気づかれずに」という意味です。スパイが気づかれないように基地に入るには、本物の将校のような姿になればよいと考えられます。disguise oneself as ～ で「～に変装する」なので、2が正解です。
+この問題の型：熟語・決まった形（disguise oneself as ～：～に変装する）
+【ほかの選択肢】
+1 chronicled は「記録した」です。「自分たちを陸軍の将校として記録した」では、気づかれずに基地に入ろうとした目的とつながりません。
+3 rendered は「（ある状態に）した」です。「自分たちを将校としてした」では意味が通りません。
+4 revitalized は「活気を取りもどさせた」です。「自分たちを将校として生き返らせた」では意味が通りません。
+【覚えるポイント】
+・disguise oneself as ～：「～に変装する」。in an attempt to ～：「～しようとして」。without being noticed：「気づかれずに」。
+・空所のあとが oneself as ～（自分を～として）の形で、目的が「気づかれずに」のときは、「別の人に見せかける」という意味の動詞が入る手がかりになります。

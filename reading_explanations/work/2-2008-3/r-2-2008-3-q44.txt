@@ -1,0 +1,29 @@
+---
+choices: ICANN to test the accuracy of the information on the Internet. | ICANN to end the shortage of domain names in the Roman alphabet. | some countries to create domain names completely in their own characters. | some Internet users to develop websites without domain names.
+answerText: some countries to create domain names completely in their own characters.
+reviewed: yes
+---
+【正解】3 some countries to create domain names completely in their own characters.（いくつかの国が、すべて自分たちの文字でドメイン名を作ること。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：1990年代後半から存在している技術によって、（　）ができるようになった。
+1 ICANN to test the accuracy of the information on the Internet.（ICANNが、インターネット上の情報の正確さを試すこと）
+2 ICANN to end the shortage of domain names in the Roman alphabet.（ICANNが、ローマ字のドメイン名の不足を解消すること）
+3 some countries to create domain names completely in their own characters.（いくつかの国が、すべて自分たちの文字でドメイン名を作ること）
+4 some Internet users to develop websites without domain names.（一部のインターネット利用者が、ドメイン名なしでウェブサイトを作ること）
+【考え方】
+設問の since the late 1990s（1990年代後半から）を手がかりに、第4段落を見ます。
+The technology for creating such names has actually existed since the late 1990s.（そのような名前を作るための技術は、実は1990年代後半から存在していた）とあります。such names（そのような名前）は、前の段落の「ドメイン名全体を自分たちの文字体系で書いた名前」のことです。
+続けて However, because ICANN has been slow to take action, some countries have begun to use this technology to develop their own systems of domain names written entirely in their own characters.（しかし、ICANNが行動を起こすのが遅かったため、いくつかの国はこの技術を使って、すべて自分たちの文字で書かれたドメイン名の独自の仕組みを開発し始めた）とあります。entirely は「完全に、すべて」です。本文と選択肢は次のように対応しています。
+本文 some countries have begun to use this technology to develop（いくつかの国がこの技術を使って開発し始めた）＝ 選択肢 has allowed some countries to create（いくつかの国が作ることを可能にした）
+本文 written entirely in their own characters（すべて自分たちの文字で書かれた）＝ 選択肢 completely in their own characters（すべて自分たちの文字で）
+allow ＋ 人など ＋ to ～ は、ここでは「（人など）が～することを可能にする」という意味です。正解は3です。
+【ほかの選択肢】
+1 ICANNが2007年に始めたのは、いろいろな言語で書かれたドメイン名の「試験」です。インターネット上の情報の正確さを試すという話ではありません。
+2 ローマ字のドメイン名が「不足している」という話は本文にありません。本文の問題は、ローマ字以外の文字でドメイン名を書けないことです。
+4 本文に出てくるのは、自分たちの文字で書かれたドメイン名の仕組みです。ドメイン名を使わずにウェブサイトを作るという話はありません。
+【覚えるポイント】
+・be slow to ～：「～するのが遅い、なかなか～しない」。
+・entirely / completely：どちらも「完全に、すべて」。本文と選択肢での言いかえに注目しましょう。

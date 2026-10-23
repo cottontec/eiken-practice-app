@@ -1,0 +1,23 @@
+---
+choices: her | seems to | train | missed | have
+answerText: her
+order: 2 5 4 1 3
+reviewed: yes
+---
+【正解】1 her（この問題の4番目）
+【完成文】
+B: I got an e-mail from her earlier. She ( seems to have missed her train ).
+並べ方：2 seems to → 5 have → 4 missed → 1 her → 3 train（2番目は5、4番目は1）
+【和訳】
+A：キムはどこにいるのかな。彼女はこれまで一度も仕事に遅れたことがないよ。
+B：さっき彼女からメールが来たよ。電車に乗り遅れたらしいよ。
+【考え方】
+Aは、キムが来ていないことを不思議に思っています。Bは I got an e-mail from her earlier.（さっき彼女からメールが来た）と言い、遅れている理由を伝えようとしています。
+空所の前は She です。そのあとに動詞が必要なので、2 seems to を置きます。seem to ～ は「～するらしい、～のようだ」という意味です。
+電車に乗り遅れたのは、メールが来る前、つまり過去のことです。seem to のあとで過去のことを言うときは、have ＋ 過去分詞（missed のような形）を使います。ですから seems to have missed（乗り遅れたらしい）となります。
+最後に、何に乗り遅れたのかを置きます。1 her と 3 train で her train（彼女の電車、彼女が乗る電車）です。こうして She seems to have missed her train. となります。
+4番目に 1 her が来るのは、missed のあとに「何に乗り遅れたか」を表す her train を続けるとき、her（彼女の）が train の前に来るからです。
+まちがえやすいのは、She seems to have her train missed. とする並べ方です。have ＋ もの ＋ 過去分詞は「～を…してもらう、～を…される」という別の言い方になり、「乗り遅れたらしい」という意味になりません。
+【覚えるポイント】
+・seem to have ＋ 過去分詞：「～したらしい」。すでに起きたことについての推測です。
+・miss a train：「電車に乗り遅れる」。

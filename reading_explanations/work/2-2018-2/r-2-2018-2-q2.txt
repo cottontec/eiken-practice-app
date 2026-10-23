@@ -1,0 +1,27 @@
+---
+choices: deletes | features | monitors | reminds
+answerText: features
+reviewed: yes
+---
+【正解】2 features（〔映画などが〕～を出演させている、目玉として取り上げている）
+【和訳】
+（英文）
+The new movie ［features］ some very famous actors, including Tom MacDonald. Some people are saying they plan to go and see the movie just because he is in it.
+（訳）
+その新しい映画には、トム・マクドナルドをはじめとする、とても有名な俳優が何人か（出演しています）。彼が出ているというだけの理由で、その映画を見に行くつもりだと言っている人もいます。
+（選択肢の意味）
+1 deletes：削除する
+2 features：出演させる、目玉にする
+3 monitors：監視する
+4 reminds：思い出させる
+【考え方】
+空所のあとは some very famous actors, including Tom MacDonald（トム・マクドナルドをはじめとする、何人かのとても有名な俳優）です。主語は The new movie（その新しい映画）なので、「映画が有名な俳優たちを（　）」という関係になります。
+次の文の just because he is in it（彼がそれ〔その映画〕に出ているというだけの理由で）が大きな手がかりです。he はトム・マクドナルド、it は映画を指しています。つまり、この映画には有名な俳優が出ていることが分かります。
+feature は名詞では「特徴」ですが、動詞では「（映画・番組・雑誌などが）～を目玉として出す、出演させる」という意味があります。features を入れると「その新しい映画は有名な俳優たちを出演させている」となり、次の文と自然につながります。主語が3人称単数（話し手・聞き手以外の1つのもの）で現在の話なので、-s がついています。
+【ほかの選択肢】
+1 deletes は「～を削除する、消す」です。「映画が有名な俳優たちを削除する」では、彼が映画に出ているという次の文と反対になります。
+3 monitors は「～を監視する、見守る」です。映画が俳優を監視するという内容は、文の流れに合いません。
+4 reminds は「～に思い出させる」です。remind A of B（AにBを思い出させる）の形で使うことが多く、「映画が有名な俳優たちに思い出させる」では、何を思い出させるのかもなく、意味が通りません。
+【覚えるポイント】
+・feature（動詞）：「（映画などが）～を出演させる、目玉として取り上げる」。名詞の「特徴」と合わせて覚えましょう。
+・just because ～：「～というだけの理由で」。

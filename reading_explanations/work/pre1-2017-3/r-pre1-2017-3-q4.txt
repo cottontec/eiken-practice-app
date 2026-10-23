@@ -1,0 +1,30 @@
+---
+choices: legitimate | aggressive | furious | indifferent
+answerText: indifferent
+reviewed: yes
+---
+【正解】4 indifferent（無関心な）
+【和訳】
+（英文）
+After the company announced more pay cuts, the supervisor could not remain ［indifferent］ about the way workers were being treated. At the next union meeting, he suggested going on strike.
+（訳）
+会社がさらなる給料の引き下げを発表したあと、その監督者は、労働者たちの扱われ方について（無関心な）ままでいることはできませんでした。次の組合の会合で、彼はストライキをすることを提案しました。
+（選択肢の意味）
+1 legitimate：正当な、合法の
+2 aggressive：攻撃的な
+3 furious：激怒した（ひどく怒った）
+4 indifferent：無関心な
+【考え方】
+まず見るところ：could not remain（～のままではいられなかった）と、2文目の he suggested going on strike
+1文目の空所の前は could not remain です。remain ～ は「～のままでいる」なので、could not remain ～ は「～のままではいられなかった」という意味になります。つまり、空所には、監督者がそれまでは続けていたけれど、続けられなくなった態度を表す語が入ります。
+supervisor は「監督者（働く人たちをまとめる立場の人）」です。2文目では、そのあと彼がしたことが書かれています。
+At the next union meeting, he suggested going on strike.（次の組合の会合で、彼はストライキをすることを提案した）
+union は「労働組合（働く人たちが自分たちを守るために作る団体）」、go on strike は「ストライキをする（抗議のために仕事を休む）」です。彼は、労働者の扱われ方に対して行動を起こしました。それまでの「無関心な」状態ではいられなくなった、と考えると話がつながるので、4が正解です。
+この問題の型：文法（could not remain ～ の否定）
+【ほかの選択肢】
+1 legitimate は「正当な、合法の」です。「扱われ方について正当なままではいられなかった」となり、人の気持ちや態度を表す文として意味が通りません。
+2 aggressive は「攻撃的な」です。「攻撃的なままではいられなかった」とすると、攻撃的な態度をやめたことになり、ストライキを提案したという2文目と合いません。
+3 furious は「激怒した」です。「激怒したままではいられなかった」とすると、怒るのをやめたことになり、ストライキを提案したという2文目と合いません。
+【覚えるポイント】
+・remain indifferent：「無関心なままでいる」。indifferent about ～（～に無関心な）。
+・could not remain ～ のように否定の形があるときは、空所に入るのは「続けられなくなった状態」です。後ろに書かれた行動とは反対の態度を表す語を探すのが手がかりになります。

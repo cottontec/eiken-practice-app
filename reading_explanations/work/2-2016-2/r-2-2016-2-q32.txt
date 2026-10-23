@@ -1,0 +1,28 @@
+---
+choices: More of the Mogao Caves have been closed to visitors. | Visitors are being asked to avoid breathing too close to the paintings. | Some of the visitors are being taught new ways to preserve paintings. | The number of visitors has been reduced from 400 to 40 a day.
+answerText: More of the Mogao Caves have been closed to visitors.
+reviewed: yes
+---
+【正解】1 More of the Mogao Caves have been closed to visitors.（莫高窟のうち、〔以前より〕多くの洞窟が訪問者に対して閉じられている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：敦煌の仏教の芸術作品を守るために行われてきたことの1つは何ですか。
+1 More of the Mogao Caves have been closed to visitors.（莫高窟のうち、（以前より）多くの洞窟が訪問者に対して閉じられている。）
+2 Visitors are being asked to avoid breathing too close to the paintings.（訪問者は、絵画にあまり近づいて息をしないように求められている。）
+3 Some of the visitors are being taught new ways to preserve paintings.（訪問者の一部は、絵画を保存する新しい方法を教わっている。）
+4 The number of visitors has been reduced from 400 to 40 a day.（訪問者の数が、1日400人から40人に減らされている。）
+【考え方】
+設問は「敦煌の仏教の芸術作品を守るために行われたこと」です。第3段落に、中国の敦煌にある莫高窟の話が書かれています。
+Originally, 40 of the 400 caves were open to visitors, but this number was reduced by half in 2014.（もともとは、400ある洞窟のうち40が訪問者に公開されていたが、2014年にこの数は半分に減らされた）
+this number は「公開されていた洞窟の数（40）」を指します。それが半分になったので、公開される洞窟は20になりました。公開される洞窟が減ったということは、訪問者が入れなくなった洞窟が、それまでより増えたということです。
+本文 40 of the 400 caves were open to visitors, but this number was reduced by half → 読み取れること：More of the Mogao Caves have been closed to visitors（〔以前より〕多くの洞窟が訪問者に対して閉じられている）
+選択肢の More は「（以前より）多くの」という意味で、公開されていた40から20に減った分だけ、閉じられた洞窟が増えたことを表しています。ですから、1が正解です。
+【ほかの選択肢】
+2 第3段落には、訪問者の息に含まれる二酸化炭素が作品を傷つけている、とは書かれていますが、絵画に近づいて息をしないように求めているという話はありません。
+3 訪問者に絵画を保存する方法を教えているという話は、本文にありません。
+4 400と40は、訪問者の数ではなく洞窟の数です（400ある洞窟のうち40が公開されていた）。また、本文に「1日に」という話はありません。訪問者の数については、has been greatly reduced（大幅に減らされた）とだけ書かれていて、具体的な数は示されていません。
+【覚えるポイント】
+・reduce ～ by half：「～を半分に減らす」。by は「～だけ（差）」を表します。
+・open to ～ ／ closed to ～：「～に公開されている」／「～に対して閉じられている」。

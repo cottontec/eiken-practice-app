@@ -1,0 +1,30 @@
+---
+choices: It can preserve bacteria for thousands of years as long as it maintains a low acidity. | It can exist in solid form even in very high temperatures, such as those in Egyptian burial chambers. | Its high sugar content keeps away certain bacteria that cause foods to spoil. | Its resistance to harmful microorganisms enables it to stay in a fresh state over time.
+answerText: Its resistance to harmful microorganisms enables it to stay in a fresh state over time.
+reviewed: yes
+---
+【正解】4 Its resistance to harmful microorganisms enables it to stay in a fresh state over time.（有害な微生物に強いので、時間がたっても新鮮な状態を保つことができる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：はちみつの特徴の一つは何か。
+1 It can preserve bacteria for thousands of years as long as it maintains a low acidity.（低い酸性度を保っている限り、細菌を何千年も保存することができる。）
+2 It can exist in solid form even in very high temperatures, such as those in Egyptian burial chambers.（エジプトの埋葬室の中のような、とても高い温度の中でも、固体の状態でいられる。）
+3 Its high sugar content keeps away certain bacteria that cause foods to spoil.（糖分が多く含まれているので、食べ物を腐らせるある種の細菌を寄せつけない。）
+4 Its resistance to harmful microorganisms enables it to stay in a fresh state over time.（有害な微生物に強いので、時間がたっても新鮮な状態を保つことができる。）
+【考え方】
+はちみつの性質がくわしく書かれているのは第2段落です。順に確かめます。
+まず、honey left there thousands of years before was still edible（何千年も前にそこに残されたはちみつが、まだ食べられる状態だった）とあります。edible は「食べられる」という意味です。また、honey does not go bad（はちみつは腐らない）ともあります。go bad は「腐る、悪くなる」という意味です。
+その理由として、it is highly acidic, making it a hostile environment for bacteria and other microorganisms（はちみつは強い酸性なので、細菌やほかの微生物にとって住みにくい環境になる）と、honey does not contain enough water for such organisms to survive in（はちみつには、そうした生物が生きていけるほどの水分がない）の2つが挙げられています。acidic は「酸性の」、hostile は「（生き物にとって）住みにくい、敵意のある」、microorganism は「微生物（目に見えないほど小さな生き物）」という意味です。
+これを選択肢4と対にすると、次のようになります。
+・本文 a hostile environment for bacteria and other microorganisms（細菌や微生物にとって住みにくい環境）＝ 選択肢 resistance to harmful microorganisms（有害な微生物への強さ）
+・本文 still edible after thousands of years / does not go bad（何千年たっても食べられる、腐らない）＝ 選択肢 stay in a fresh state over time（時間がたっても新鮮な状態を保つ）
+よって4が正解です。
+【ほかの選択肢】
+1 本文と反対です。本文では、はちみつは highly acidic（強い酸性）だと書かれており、「低い酸性度」ではありません。また、はちみつは細菌を「保存する」のではなく、細菌にとって住みにくい環境を作るのです。
+2 本文には although it is a liquid（はちみつは液体であるが）とあり、「固体の状態」ではありません。また、埋葬室の温度については何も書かれていません。
+3 「糖分が多いから細菌を寄せつけない」という理由が本文と違います。本文には food-spoiling bacteria thrive on sugars（食べ物を腐らせる細菌は糖分をえさにして盛んに増える）とあり、糖分はむしろ細菌が好むものです。はちみつが腐らない理由は、強い酸性であることと水分が少ないことだと書かれています。
+【覚えるポイント】
+・hostile environment for ～：「～にとって住みにくい（生きにくい）環境」。
+・内容一致問題では、「理由」の部分が本文とすり替えられている選択肢（3のように、本文に出てくる語を使いながら原因を変えているもの）に注意しましょう。

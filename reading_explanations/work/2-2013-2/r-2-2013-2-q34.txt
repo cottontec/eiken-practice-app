@@ -1,0 +1,29 @@
+---
+choices: asked Maria Lane to help him choose a new sink. | visited a hardware store to buy ant traps for his kitchen. | found a website where he could buy a pet for his children. | contacted a company that gets rid of unwanted insects or animals.
+answerText: contacted a company that gets rid of unwanted insects or animals.
+reviewed: yes
+---
+【正解】4 contacted a company that gets rid of unwanted insects or animals.（いてほしくない虫や動物を取り除く会社に連絡した。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：昨日、ブラッドリーさんは
+1 asked Maria Lane to help him choose a new sink.（新しい流しを選ぶのを手伝ってくれるよう、マリア・レーンに頼んだ。）
+2 visited a hardware store to buy ant traps for his kitchen.（台所に置くアリ取りを買うために、金物店へ行った。）
+3 found a website where he could buy a pet for his children.（子どもたちのためにペットを買えるウェブサイトを見つけた。）
+4 contacted a company that gets rid of unwanted insects or animals.（いてほしくない虫や動物を取り除く会社に連絡した。）
+【考え方】
+設問の Yesterday（昨日）に注目して、メールの中で「昨日」のことが書かれている部分を探します。最初の文に Thank you for making an appointment through our website yesterday.（昨日は、当社のウェブサイトを通じてご予約いただき、ありがとうございました）とあります。make an appointment は「予約する、会う約束をする」です。
+では、ブラッドリーさんが予約した会社はどんな会社でしょうか。次の文に Our company, Bug Out, provides solutions to a wide range of pest problems, from insects such as ants and cockroaches, to animals like rats and birds.（当社バグアウトは、アリやゴキブリのような昆虫から、ネズミや鳥のような動物まで、さまざまな害虫や害獣の問題の解決策を提供している）とあります。pest は「害虫、害獣（人に害を与える虫や動物）」です。
+本文と選択肢は次のように対応しています。
+本文 making an appointment through our website（ウェブサイトを通じて予約した）＝ 選択肢 contacted a company（会社に連絡した）
+本文 provides solutions to a wide range of pest problems, from insects ... to animals（昆虫から動物まで、さまざまな害虫・害獣の問題の解決策を提供する）＝ 選択肢 gets rid of unwanted insects or animals（いてほしくない虫や動物を取り除く）
+get rid of ～ は「～を取り除く」、unwanted は「いてほしくない、望まれない」です。正解は4です。
+【ほかの選択肢】
+1 メールには the ant problem you're currently having around your kitchen sink（台所の流しのまわりで起きているアリの問題）とあり、流しはアリが出る場所として出てくるだけです。新しい流しを選ぶ手伝いを頼んだという話はないので、誤りです。
+2 アリ取りを買いに金物店へ行ったという話は本文にありません。ブラッドリーさんがしたのは、ウェブサイトでの予約です。
+3 ウェブサイトは出てきますが、それはバグアウト社に予約するためのものです。ペットを買うという話も、子どもたちの話も本文にないので、誤りです。
+【覚えるポイント】
+・make an appointment：「予約する、会う約束をする」。
+・get rid of ～：「～を取り除く、～を処分する」。

@@ -1,0 +1,33 @@
+---
+choices: gratifying | misleading | attentive | defective
+answerText: misleading
+reviewed: yes
+---
+【正解】2 misleading（誤解を招くような、人を思い違いさせる）
+【和訳】
+（英文）
+Consumers should be aware that the rates some companies advertise for their services can be ［misleading］. Various additional charges often have to be paid.
+（訳）
+消費者は、一部の会社がサービスについて広告している料金は（誤解を招くような）ものである場合があることを、知っておくべきです。さまざまな追加料金を払わなければならないことが多いのです。
+（選択肢の意味）
+1 gratifying：満足を与える、喜ばしい
+2 misleading：誤解を招くような、人を思い違いさせる
+3 attentive：注意深い、よく気を配る
+4 defective：欠陥のある、不良の
+【考え方】
+まず見るところ：後半の文の Various additional charges often have to be paid.
+前半の文で、空所は「広告されている料金」がどうなのかを説明しています。
+the rates some companies advertise for their services can be (　)（一部の会社がサービスについて広告している料金は（　）である場合がある）
+rate はここでは「料金」、advertise は「広告する」という意味です。can be ～ は「～である場合がある、～のこともある」という意味です。
+後半の文が、その理由を説明しています。
+Various additional charges often have to be paid.（さまざまな追加料金を払わなければならないことが多い）
+additional charge は「追加料金（あとから付け足される料金）」です。広告で見た料金だけでは済まず、実際にはもっと払うことになる、ということです。
+つまり、広告の料金を見た人は「これだけ払えばよい」と思い違いをしてしまいます。misleading は「誤解を招くような、人を思い違いさせる」という意味なので、2が正解です。
+この問題の型：因果（追加料金がかかる→広告の料金は誤解を招く）
+【ほかの選択肢】
+1 gratifying は「満足を与える、喜ばしい」です。追加料金を払わされるという後半の文とつながらず、消費者が「気をつけるべき」こととも合いません。
+3 attentive は「注意深い、よく気を配る」で、ふつうは人の様子を表します。「料金が注意深い」となり、意味が通りません。
+4 defective は「欠陥のある」で、こわれた製品などに使います。料金が「欠陥がある」とは言わず、追加料金の話ともつながりません。
+【覚えるポイント】
+・misleading：「誤解を招くような」。mislead（誤解させる、まちがった方向へ導く）から来た語です。
+・空所の直後に、具体的な事実（ここでは「追加料金を払わなければならない」）が続くときは、その事実を一言で表す語を選ぶと手がかりになります。

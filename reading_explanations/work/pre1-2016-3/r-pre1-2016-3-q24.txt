@@ -1,0 +1,34 @@
+---
+choices: talked up | tracked down | gave over | took on
+answerText: gave over
+reviewed: yes
+---
+【正解】3 gave over（ゆだねた、引き渡した）
+【和訳】
+（英文）
+When the founder retired, he ［gave over］ control of the company to the vice president until his son was old enough to become CEO himself.
+（訳）
+創業者は引退したとき、自分の息子がCEO（最高経営責任者）になれる年齢になるまで、会社の経営を副社長に（ゆだねました）。
+（選択肢の意味）
+1 talked up：～をほめて宣伝した、大げさにほめた
+2 tracked down：～を（追跡して）見つけ出した
+3 gave over：～をゆだねた、引き渡した
+4 took on：～を引き受けた、（人を）雇った
+【考え方】
+まず見るところ：空所の後ろの control of the company to the vice president
+文の初めは When the founder retired（創業者が引退したとき）です。founder は「創業者（会社をつくった人）」、retire は「引退する」です。
+空所の後ろは次のとおりです。
+( ) control of the company to the vice president（会社の経営を副社長に（　）した）
+control of the company は「会社を動かす力、会社の経営」、vice president は「副社長」です。「AをBに」という形になっていて、引退する人が会社の経営を副社長へ「渡した」と考えられます。
+さらに、次のように続きます。
+until his son was old enough to become CEO himself（息子が自分でCEOになれる年齢になるまで）
+副社長にまかせるのは息子が大きくなるまでの間だと分かります。
+give over A to B は「AをBにゆだねる、引き渡す」という意味です。gave over はその過去形なので、3が正解です。
+この問題の型：熟語・決まった形（give over A to B）
+【ほかの選択肢】
+1 talked up は「～をほめて宣伝した、大げさにほめた」です。「会社の経営を副社長に向けてほめた」となり、意味が通りません。引退するときにすることの説明にもなりません。
+2 tracked down は「～を（追跡して）見つけ出した」です。「会社の経営を副社長に見つけ出した」となり、意味が通りません。
+4 took on は「～を引き受けた」です。引き受けるのは仕事を受け取る側のすることです。主語の he は引退する創業者で、経営を手放す側なので合いません。また、took on ～ to the vice president という形にもなりません。
+【覚えるポイント】
+・give over A to B：「AをBにゆだねる、引き渡す」。give A to B（AをBに与える）と同じように、to のあとに受け取る相手がきます。
+・句動詞（動詞と on・over・down などが組み合わさって1つの意味を表す語句）を選ぶ問題では、空所の後ろの「A to B」のような形と、主語が「渡す側」か「受け取る側」かを確かめると手がかりになります。

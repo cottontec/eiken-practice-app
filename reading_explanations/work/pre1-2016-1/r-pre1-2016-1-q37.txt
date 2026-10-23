@@ -1,0 +1,36 @@
+---
+choices: led a number of states to consider passing a law that guarantees women the right to play on men's sports teams. | helped women remain healthy long after they have graduated from high school or college. | improved overall education levels, even in certain states where access to athletics is still limited. | had a major impact on society because it has helped a large number of women find jobs.
+answerText: had a major impact on society because it has helped a large number of women find jobs.
+reviewed: yes
+---
+【正解】4 had a major impact on society because it has helped a large number of women find jobs.（多くの女性が仕事を見つけるのを助けてきたので、社会に大きな影響を与えてきた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Research by Betsey Stevenson indicates that Title IX has（ベッツィー・スティーブンソンの研究は、タイトル・ナインが～ことを示している。）
+1 led a number of states to consider passing a law that guarantees women the right to play on men's sports teams.（いくつかの州に、女性が男子のスポーツチームでプレーする権利を保障する法律を作ることを検討させてきた。）
+2 helped women remain healthy long after they have graduated from high school or college.（女性が、高校や大学を卒業したずっとあとも健康でいられるよう助けてきた。）
+3 improved overall education levels, even in certain states where access to athletics is still limited.（スポーツに参加する機会が今も限られている一部の州でさえ、全体の教育水準を高めてきた。）
+4 had a major impact on society because it has helped a large number of women find jobs.（多くの女性が仕事を見つけるのを助けてきたので、社会に大きな影響を与えてきた。）
+【考え方】
+まず見るところ：第4段落の Title IX was responsible for about 40 percent of the increase in employment among women
+スティーブンソンの研究は、第4段落に書かれています。まず、次の発見があります。
+She found that in states where females had more chances to participate in sports, women's education levels and likelihood of finding employment were also higher.（彼女は、女子がスポーツに参加する機会がより多い州では、女性の教育水準と、仕事につける可能性もまた（ほかの州より）高いことを発見した）
+likelihood は「可能性」、employment は「仕事につくこと、雇用」です。
+続く文で、さらに具体的な数字が示されています。
+In fact, Stevenson's research indicates that Title IX was responsible for about 40 percent of the increase in employment among women aged 25–34 from 1980 to 2000.（実際、スティーブンソンの研究は、1980年から2000年までの25～34歳の女性の就業者の増加のうち、約40パーセントはタイトル・ナインによるものだったことを示している）
+be responsible for ～ は「～の原因である」です。そして最後に、次のようにまとめています。
+If true, this means the law has contributed significantly to helping women achieve equality with men.（もしこれが本当なら、この法律は、女性が男性との平等を実現するのに大いに貢献してきたことになる）
+本文と選択肢を対にすると、次のようになります。
+本文 Title IX was responsible for about 40 percent of the increase in employment among women（女性の就業者の増加の約40パーセントはタイトル・ナインによるものだった）→ 選択肢 it has helped a large number of women find jobs（多くの女性が仕事を見つけるのを助けてきた）
+本文 the law has contributed significantly to helping women achieve equality with men（女性が男性との平等を実現するのに大いに貢献してきた）→ 選択肢 had a major impact on society（社会に大きな影響を与えてきた）
+ですから4が正解です。
+この問題の型：言いかえ（the increase in employment among women → helped a large number of women find jobs）
+【ほかの選択肢】
+1 本文には、女性が男子のスポーツチームでプレーする権利を保障する法律を、州が検討したという話はありません。スティーブンソンの研究は、州ごとの女性の教育水準や仕事について調べたものです。
+2 第4段落には positive health effects of playing sports（スポーツをすることによる健康へのよい効果）という言葉が出てきますが、法律の利益はそれを far beyond（はるかに超える）と言っているだけです。スティーブンソンの研究が、卒業後も健康でいられることを示したとは書かれていません。
+3 本文にない内容です。本文で教育水準が高かったのは、in states where females had more chances to participate in sports（女子がスポーツに参加する機会がより多い州）です。スポーツの機会が限られている州でも教育水準が上がった、とは書かれていません。
+【覚えるポイント】
+・be responsible for ～：「～の原因である、～によるものだ」。
+・研究の内容をたずねる設問では、In fact（実際）のあとの具体的な数字と、If true, this means ～（もし本当なら、これは～ということになる）のまとめの両方が、選択肢の言いかえの手がかりになります。

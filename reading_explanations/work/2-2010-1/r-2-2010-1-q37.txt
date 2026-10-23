@@ -1,0 +1,29 @@
+---
+choices: They help to repair rough parts of the road. | They protect people from bumps in the road. | They save fuel by helping the engine run faster. | They stop vehicles from causing damage to roads.
+answerText: They protect people from bumps in the road.
+reviewed: yes
+---
+【正解】2 They protect people from bumps in the road.（道路のでこぼこから人々を守る。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ショックアブソーバーがすることの1つは何ですか。
+1 They help to repair rough parts of the road.（道路のでこぼこした部分を直す手助けをする。）
+2 They protect people from bumps in the road.（道路のでこぼこから人々を守る。）
+3 They save fuel by helping the engine run faster.（エンジンを速く動かす手助けをすることで、燃料を節約する。）
+4 They stop vehicles from causing damage to roads.（乗り物が道路を傷つけるのを防ぐ。）
+【考え方】
+ショックアブソーバー（衝撃をやわらげる装置）のふだんの働きは、第1段落に書かれています。
+まず it is impossible to get rid of all the bumps in them（道路のでこぼこをすべてなくすことは不可能だ）とあり、だから乗り物にショックアブソーバーが取り付けられていると説明されています。bump は「でこぼこ」です。
+そして When a vehicle goes over a rough part of the road, these devices protect the vehicle and the people in it from the impact.（乗り物が道路のでこぼこした部分を通るとき、これらの装置が乗り物とそれに乗っている人々を衝撃から守る）とあります。impact は「衝撃」で、ここではでこぼこを通ったときの衝撃のことです。
+本文と選択肢は次のように対応しています。
+本文 protect ... the people in it from the impact（乗っている人々を衝撃から守る）＝ 選択肢 protect people from bumps in the road（道路のでこぼこから人々を守る）
+選択肢の bumps in the road は、でこぼこを通ったときに受ける衝撃のことを言っています。正解は2です。
+【ほかの選択肢】
+1 道路をよい状態に保とうとしているのは governments（政府）です。ショックアブソーバーが道路を直すとは書かれていません。
+3 燃料の節約は、学生たちが発明した新しいしくみの話です。それも、エンジンを速く動かすことで節約するのではなく、電気を作るためのエンジンに頼る装置がいらなくなることで節約する、と書かれています。
+4 ショックアブソーバーが守るのは乗り物と乗っている人々です。乗り物が道路を傷つけるのを防ぐという話は本文にありません。
+【覚えるポイント】
+・protect A from B：「AをBから守る」。
+・get rid of ～：「～を取り除く、なくす」。

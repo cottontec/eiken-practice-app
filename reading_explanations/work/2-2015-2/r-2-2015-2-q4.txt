@@ -1,0 +1,27 @@
+---
+choices: revolved | attached | witnessed | imitated
+answerText: witnessed
+reviewed: yes
+---
+【正解】3 witnessed（目にした、実際に見た）
+【和訳】
+（英文）
+Agnes's grandmother lived from 1907 to 2009. She ［witnessed］ the events of an entire century in her lifetime.
+（訳）
+アグネスの祖母は、1907年から2009年まで生きました。彼女は生涯のうちに、まる1世紀分の出来事を目にしました。
+（選択肢の意味）
+1 revolved：回転した
+2 attached：取り付けた、くっつけた
+3 witnessed：目にした、（出来事を）実際に見た
+4 imitated：まねた
+【考え方】
+1文目の lived from 1907 to 2009（1907年から2009年まで生きた）に注目します。102年間生きたことになるので、100年、つまり1世紀以上生きたということです。
+2文目は She (　) the events of an entire century in her lifetime. です。entire は「まるごとの、全体の」、century は「世紀（100年）」、in her lifetime は「生涯のうちに」です。「彼女は生涯のうちに、まる1世紀分の出来事を（　）」という意味になります。
+100年以上生きた人が、その100年間の出来事にどう関わったかを考えます。witness は「（出来事を）目にする、その場にいて実際に見る」という意味です。witnessed the events で「出来事を目にした」となり、長く生きたという1文目と合うので、正解は3です。
+【ほかの選択肢】
+1 revolved は「回転した」です。revolve はふつう revolve around ～（～の周りを回る）の形で使い、「1世紀分の出来事を回転した」では意味が通りません。
+2 attached は「取り付けた、くっつけた」です。「1世紀分の出来事を取り付けた」となり、長く生きたことの説明になりません。
+4 imitated は「まねた」です。「1世紀分の出来事をまねた」となり、意味が通りません。
+【覚えるポイント】
+・witness ～：「（出来事を）目にする、目撃する」。名詞では「目撃者」という意味もあります。
+・an entire century：「まる1世紀、100年間まるごと」。

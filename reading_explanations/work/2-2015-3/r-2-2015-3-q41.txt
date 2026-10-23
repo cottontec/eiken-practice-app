@@ -1,0 +1,31 @@
+---
+choices: Finnish students regularly perform well on surveys of academic ability. | The government has begun providing free education to all students. | A group of students have been working together to improve their schools. | Most of its 15-year-olds want to study in the fields of math and science.
+answerText: Finnish students regularly perform well on surveys of academic ability.
+reviewed: yes
+---
+【正解】1 Finnish students regularly perform well on surveys of academic ability.（フィンランドの生徒は、学力の調査で、くり返しよい成績を収めている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：フィンランドが最近注目を集めている理由の1つは何ですか。
+1 Finnish students regularly perform well on surveys of academic ability.（フィンランドの生徒は、学力の調査で、くり返しよい成績を収めている。）
+2 The government has begun providing free education to all students.（政府が、すべての生徒に無料の教育を提供し始めた。）
+3 A group of students have been working together to improve their schools.（生徒のグループが、自分たちの学校をよくするために協力して取り組んできた。）
+4 Most of its 15-year-olds want to study in the fields of math and science.（フィンランドの15歳のほとんどが、数学と科学の分野を勉強したいと思っている。）
+【考え方】
+設問の attracting attention（注目を集めている）と同じ言葉が、第1段落の2文目にあります。
+In particular, Finland has been attracting attention for the success of its schools.（特に、フィンランドはその学校の成功で注目を集めている）
+for ～ は「～のことで、～が理由で」という意味です。では、学校の「成功」とは何でしょうか。続く文に書かれています。
+Since 2000, the country often appears near the top of an international survey of educational standards called PISA. This survey measures the academic level of 15-year-olds around the world in science, math, and reading once every three years.（2000年以降、この国は、PISAと呼ばれる教育水準についての国際的な調査で、しばしば上位に入っている。この調査は3年に1度、世界中の15歳の科学、数学、読解の学力の水準を測る）
+フィンランドは、学力を測る国際的な調査でたびたび上位に入っているのです。本文と選択肢の対応は次のとおりです。
+本文 the country often appears near the top of an international survey（その国は国際的な調査でしばしば上位に入っている）→ 選択肢 Finnish students regularly perform well on surveys（フィンランドの生徒は調査で、くり返しよい成績を収めている）
+本文 This survey measures the academic level（この調査は学力の水準を測る）→ 選択肢 surveys of academic ability（学力の調査）
+調査で上位に入るのは、調査を受けたフィンランドの15歳の成績がよいからだと読み取れます。また、PISA は3年に1度行われる調査で、フィンランドは2000年以降 often（しばしば）上位に入っています。このことが regularly（くり返し、決まって）と表されています。正解は1です。
+【ほかの選択肢】
+2 本文には、政府が無料の教育を始めたという話はありません。フィンランド政府について書かれているのは、決まった教科書やテストを義務づけていないことなどです。
+3 本文には、生徒のグループが協力して学校をよくしようとしているという話はありません。フィンランドの学校の成功は、本文では教師を信頼することや、生徒が必要としていることに重点を置くことと結びつけられています。
+4 本文の science, math（科学、数学）は、PISA の調査が測る教科として出てくるだけです。15歳のほとんどが数学と科学を勉強したいと思っている、という話はありません。
+【覚えるポイント】
+・attract attention：「注目を集める」。attract attention for ～ で「～のことで注目を集める」。
+・perform well：「よい成績を収める、うまくやる」。

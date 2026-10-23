@@ -1,0 +1,34 @@
+---
+choices: Consuming alcohol is damaging to their health but overall beneficial when they are infected by parasitic wasps. | The consumption of food containing alcohol weakens them and makes them more vulnerable to parasitic wasps. | They intentionally become infected by parasitic wasps in order to reduce the harmful effects of alcohol. | They have developed a strategy to prevent parasitic wasps from being able to lay eggs inside them.
+answerText: Consuming alcohol is damaging to their health but overall beneficial when they are infected by parasitic wasps.
+reviewed: yes
+---
+【正解】1 Consuming alcohol is damaging to their health but overall beneficial when they are infected by parasitic wasps.（アルコールを体に取り入れることはショウジョウバエの健康に害をあたえるが、寄生バチに寄生されているときには、全体として見れば役に立つ。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one thing the author of the passage says about fruit flies?（筆者がショウジョウバエについて述べていることの一つは何ですか。）
+1 Consuming alcohol is damaging to their health but overall beneficial when they are infected by parasitic wasps.（アルコールを体に取り入れることはショウジョウバエの健康に害をあたえるが、寄生バチに寄生されているときには、全体として見れば役に立つ。）
+2 The consumption of food containing alcohol weakens them and makes them more vulnerable to parasitic wasps.（アルコールを含む食べ物を食べると、ショウジョウバエは弱り、寄生バチにやられやすくなる。）
+3 They intentionally become infected by parasitic wasps in order to reduce the harmful effects of alcohol.（ショウジョウバエは、アルコールの害を減らすために、わざと寄生バチに寄生される。）
+4 They have developed a strategy to prevent parasitic wasps from being able to lay eggs inside them.（ショウジョウバエは、寄生バチが自分たちの体の中に卵を産みつけられないようにする作戦を発達させてきた。）
+【考え方】
+まず見るところ：第4段落の The alcohol prevents the development of the wasp larvae and protects the flies. と Consuming food with high alcohol content is normally harmful to the flies
+第4段落では、ショウジョウバエは寄生バチに体の中へ卵を産みつけられることがあり、寄生されたハエはアルコールを含む食べ物をわざと食べる、と書かれています。続く2つの文が手がかりです。
+The alcohol prevents the development of the wasp larvae and protects the flies.（アルコールはハチの幼虫が育つのを妨げ、ハエを守る）
+larvae は larva（幼虫）の複数形で、development はここでは「成長、育つこと」です。
+Consuming food with high alcohol content is normally harmful to the flies, so they avoid doing so when they are healthy.（アルコールを多く含む食べ物を食べることは、ふだんはハエにとって害になるので、ハエは健康なときにはそうするのを避ける）
+normally は「ふだんは」、harmful は「害になる」です。つまり、アルコールはふだんはハエの体に悪いけれども、寄生バチの幼虫が体の中にいるときは、幼虫が育つのを止めてハエを守ってくれるので、差し引きすれば得になる、ということです。
+本文と選択肢を対にすると、次のようになります。
+本文 is normally harmful to the flies（ふだんはハエにとって害になる）→ 選択肢 is damaging to their health（健康に害をあたえる）
+本文 prevents the development of the wasp larvae and protects the flies（ハチの幼虫が育つのを妨げ、ハエを守る）→ 選択肢 overall beneficial when they are infected by parasitic wasps（寄生バチに寄生されているときには、全体として見れば役に立つ）
+ですから1が正解です。
+この問題の型：言いかえ（harmful ＋ protects the flies → damaging but overall beneficial）
+【ほかの選択肢】
+2 本文とは反対です。第4段落には、アルコールはハチの幼虫が育つのを妨げて protects the flies（ハエを守る）とあります。アルコールを含む食べ物のせいで寄生バチにやられやすくなる、という話ではありません。
+3 本文とは順番が逆です。本文では、寄生バチに寄生されたハエが、そのあとでアルコールを含む食べ物をわざと食べます。アルコールの害を減らすためにわざと寄生される、という話はありません。
+4 本文には、寄生バチが卵を産みつけられないようにする作戦は書かれていません。アルコールが働くのは、卵が産みつけられたあと、体の中の幼虫が育つのを止めるときです。
+【覚えるポイント】
+・larva（複数形 larvae）：「幼虫」。harmful は「害になる」、beneficial は「役に立つ、ためになる」。
+・本文に normally harmful（ふだんは害になる）と、ある場合に protects（守る）の両方が書かれているときは、選択肢の damaging ～ but overall beneficial のように「害はあるが全体としては得」とまとめた形が、言いかえになっていることがあります。

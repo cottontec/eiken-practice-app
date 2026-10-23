@@ -1,0 +1,31 @@
+---
+choices: has led to many evolutionary changes since it affects things like the types of food that are available to a species. | is likely to have a significant effect on species whose populations are restricted to one specific area. | has probably never been the main factor that shaped the evolution of a species. | is likely to lead to permanent changes in species when it results in great temperature differences within a short time.
+answerText: has probably never been the main factor that shaped the evolution of a species.
+reviewed: yes
+---
+【正解】3 has probably never been the main factor that shaped the evolution of a species.（おそらく、種の進化を形づくった主な要因になったことは一度もない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Uyeda believes that climate change（ウエダは、気候変動は～と考えている。）
+1 has led to many evolutionary changes since it affects things like the types of food that are available to a species.（種が手に入れられる食べ物の種類のようなものに影響を与えるので、多くの進化上の変化につながってきた。）
+2 is likely to have a significant effect on species whose populations are restricted to one specific area.（集団が1つの特定の地域に限られている種に、大きな影響を与える可能性が高い。）
+3 has probably never been the main factor that shaped the evolution of a species.（おそらく、種の進化を形づくった主な要因になったことは一度もない。）
+4 is likely to lead to permanent changes in species when it results in great temperature differences within a short time.（短い期間に大きな気温の差を生むと、種に永続的な変化をもたらす可能性が高い。）
+【考え方】
+まず見るところ：第3段落の最後の it is unlikely to lead to evolutionary shifts on its own
+第3段落の後半で、気候変動（climate change）が進化の大きな力かどうかという問いが出てきます。最後の文を見ます。
+He believes that, while it may be one contributing cause, it is unlikely to lead to evolutionary shifts on its own, as many species have remained largely unchanged over periods of greatly differing climate.（彼は、気候変動は原因の1つにはなるかもしれないが、それだけで進化上の変化につながる可能性は低いと考えている。多くの種が、気候が大きく異なる期間を通じて、ほとんど変わらないままだったからである）
+one contributing cause は「原因の1つ、一因」、on its own は「それだけで」です。つまりウエダは、「気候変動は進化に少し関わるかもしれないが、主な原因ではない」と考えています。
+本文と選択肢を対にすると、次のようになります。
+本文 may be one contributing cause（原因の1つにはなるかもしれない）／unlikely to lead to evolutionary shifts on its own（それだけで進化上の変化につながる可能性は低い）→ 選択肢 has probably never been the main factor（おそらく主な要因になったことは一度もない）
+本文の unlikely（ありそうにない）が、選択肢では probably（おそらく）で表されています。言い切ってはいない点も、本文と同じです。ですから3が正解です。
+この問題の型：言いかえ（one contributing cause / not on its own → not the main factor）
+【ほかの選択肢】
+1 本文では、気候変動がそれだけで進化につながる可能性は低いとしており、「多くの進化上の変化につながってきた」は反対の内容です。食料源の話は、進化を起こす要因の例として出てくるもので、気候変動が食べ物の種類に影響するとは書かれていません。
+2 本文で small populations（小さな集団）が出てくるのは第2段落の急速な変化の話で、気候変動の話ではありません。気候変動が特定の地域の種に大きな影響を与えるとは書かれていません。
+4 本文では、多くの種が気候が大きく異なる期間を通じてほとんど変わらなかったと書かれています。気候変動が永続的な変化をもたらす可能性が高いという内容は反対で、「短い期間の気温の差」についても書かれていません。
+【覚えるポイント】
+・one contributing cause：「原因の1つ、一因」。on its own：「それだけで」。
+・本文の「～の一因にはなるかもしれないが、それだけでは～しない」という言い方は、選択肢で「主な要因ではない」と言いかえられることがあります。本文の unlikely と選択肢の probably のように、確かさの程度がそろっているかも確かめましょう。

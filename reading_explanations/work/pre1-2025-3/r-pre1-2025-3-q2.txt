@@ -1,0 +1,32 @@
+---
+choices: reductions | nominations | maneuvers | perspectives
+answerText: perspectives
+reviewed: yes
+---
+【正解】4 perspectives（視点、ものの見方）
+【和訳】
+（英文）
+The novel was fascinating because it told the same story from several different ［perspectives］. Each character saw the events in a very different way.
+（訳）
+その小説は、同じ物語をいくつかの異なる（視点）から語っていたので、とても面白かった。登場人物の一人一人が、出来事をまったく違ったふうに見ていた。
+（選択肢の意味）
+1 reductions：削減、減少
+2 nominations：指名、推薦
+3 maneuvers：（たくみな）操作、作戦の動き
+4 perspectives：視点、ものの見方
+【考え方】
+まず見るところ：次の文の Each character saw the events in a very different way.
+空所のある文は、次のとおりです。
+The novel was fascinating because it told the same story from several different (　).（その小説は、同じ物語をいくつかの異なる（　）から語っていたので、とても面白かった）
+fascinating は「とても興味をそそる、魅力的な」です。空所には、同じ物語を「何から」語ったのかが入ります。
+次の文で、その中身が説明されています。
+Each character saw the events in a very different way.（登場人物の一人一人が、出来事をまったく違ったふうに見ていた）
+つまり、同じ出来事を、登場人物ごとの違う見方で語っていたということです。perspective は「視点、ものの見方」という意味なので、4が正解です。from ～ perspectives で「～の視点から」となります。
+この問題の型：具体例とまとめ（人物ごとに違う見方 → 異なる視点）
+【ほかの選択肢】
+1 reductions は「削減、減少」です。「いくつかの異なる削減から物語を語った」となり、意味が通りません。
+2 nominations は「指名、推薦」です。「異なる推薦から語った」では、次の文の「人物ごとに出来事の見方が違った」という説明とつながりません。
+3 maneuvers は「たくみな操作、作戦の動き」です。「異なる作戦の動きから語った」となり、登場人物の見方の違いを説明する次の文と合いません。
+【覚えるポイント】
+・perspective：「視点、ものの見方」。from several different perspectives で「いくつかの異なる視点から」。
+・空所の次の文が saw the events in a very different way（出来事を違ったふうに見ていた）のように「見方」の説明になっているときは、空所にも「見方・視点」を表す語が入る手がかりになります。

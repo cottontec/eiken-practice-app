@@ -1,0 +1,31 @@
+---
+choices: in common | on duty | at random | by chance
+answerText: on duty
+reviewed: yes
+---
+【正解】2 on duty（勤務中で）
+【和訳】
+（英文）
+Robert is proud to be a firefighter. When he is ［on duty］, he is always ready to help people in an emergency.
+（訳）
+ロバートは消防士であることを誇りに思っています。（勤務中）は、彼はいつでも、緊急のときに人々を助ける準備ができています。
+（選択肢の意味）
+1 in common：共通して
+2 on duty：勤務中で、当番で
+3 at random：無作為に、手当たりしだいに
+4 by chance：偶然に
+【考え方】
+まず見るところ：1文目の a firefighter と、When he is (　)
+Robert is proud to be a firefighter.（ロバートは消防士であることを誇りに思っている）
+ここから、ロバートの仕事が消防士だと分かります。
+When he is (　), he is always ready to help people in an emergency.（彼が（　）のときは、いつでも緊急のときに人々を助ける準備ができている）
+be ready to ～ は「～する準備ができている」という意味です。消防士が人々を助ける準備をしているのは、仕事をしているときだと考えられます。
+on duty は「勤務中で、当番で」という意味です。When he is on duty（彼が勤務中のときは）とすると、「消防士として仕事をしているときは、いつでも人を助けられるようにしている」という意味になります。ですから2が正解です。
+この問題の型：熟語・決まった形（be on duty）
+【ほかの選択肢】
+1 in common は「共通して」で、have ～ in common（～を共通して持っている）の形でよく使います。When he is in common では「彼が共通しているときは」となり、意味が通りません。
+3 at random は「無作為に（決まりなしに）、手当たりしだいに」です。「彼が無作為のときは」となり、意味が通りません。
+4 by chance は「偶然に」です。「彼が偶然のときは」となり、消防士の仕事の話として意味が通りません。
+【覚えるポイント】
+・on duty：「勤務中で、当番で」。反対は off duty（非番で、勤務時間外で）。
+・When he is (　) のように be 動詞のあとに入る熟語は、人の状態を表すものであることが多いです。仕事の話（ここでは firefighter）が出ていれば、勤務の状態を表す on duty が手がかりになります。

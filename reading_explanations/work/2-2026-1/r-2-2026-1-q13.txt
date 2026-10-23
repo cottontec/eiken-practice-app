@@ -1,0 +1,32 @@
+---
+choices: take away from | go along with | bring out in | watch out for
+answerText: go along with
+reviewed: yes
+---
+【正解】2 go along with（～に賛成する、～に従う）
+【和訳】
+（英文）
+In the meeting, the president said that he could not ［go along with］ the plan to expand the office because it would be too expensive.
+（訳）
+会議で社長は、費用がかかりすぎるだろうから、事務所を広げる計画には（賛成）できないと言いました。
+（選択肢の意味）
+1 take away from：～の価値を下げる、～から取り去る
+2 go along with：～に賛成する、～に従う
+3 bring out in：（bring out で）～を引き出す、～を世に出す
+4 watch out for：～に気をつける
+【考え方】
+まず見るところ：文の最後の because it would be too expensive
+社長が計画についてどう言ったのかが空所になっています。he could not ～（～できない）と否定の形になっていることに注意します。
+the plan to expand the office（事務所を広げる計画）
+その理由が文の最後にあります。
+because it would be too expensive（費用がかかりすぎるだろうから）
+it は「事務所を広げる計画」を指しています。お金がかかりすぎる計画なので、社長はその計画を認めない、という流れだと分かります。
+go along with ～ は「～に賛成する、～に従う」という意味です。could not go along with the plan で「その計画に賛成できない」となり、理由の部分とつながります。ですから2が正解です。
+この問題の型：因果（費用がかかりすぎる → 計画に賛成できない）
+【ほかの選択肢】
+1 take away from は「～の価値を下げる、～から取り去る」です。「事務所を広げる計画の価値を下げることはできない」となり、「費用がかかりすぎる」という理由とつながりません。
+3 bring out は「～を引き出す、～を世に出す」ですが、bring out in the plan とすると「計画の中に引き出す」のようになり、何をするのか分からず、意味が通りません。
+4 watch out for は「～に気をつける」です。「費用がかかりすぎるので、計画に気をつけることはできない」となり、意味が通りません。
+【覚えるポイント】
+・go along with ～：「（考えや計画）に賛成する、従う」。expand は「～を広げる、大きくする」です。
+・could not ～ のあとに because ～（～だから）が続くときは、その理由から「何ができないのか」を考えると、否定の文でも答えを選びやすくなります。

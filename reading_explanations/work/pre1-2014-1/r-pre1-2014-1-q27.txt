@@ -1,0 +1,25 @@
+---
+choices: be unrealistic for poor countries | require a big financial investment | pose a serious danger | meet a practical need
+answerText: meet a practical need
+reviewed: yes
+---
+【正解】4 meet a practical need（現実の必要を満たす）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 be unrealistic for poor countries（貧しい国々には現実的ではない）
+2 require a big financial investment（多額の資金の投資を必要とする）
+3 pose a serious danger（深刻な危険をもたらす）
+4 meet a practical need（現実の必要を満たす）
+【考え方】
+空所のある文は、第2段落の最初の文 Events in recent years suggest that plastic homes could ( 27 ).（近年の出来事は、プラスチックの家が〇〇しうることを示している）です。段落の最初の文なので、このあとに続く具体例から、空所の内容を考えます。
+続く文には、2010年にハイチで大地震が起き、more than half a million people were left homeless（50万人を超える人々が家を失った）とあります。そして、Since the country requires low-cost housing that can be constructed quickly（この国は、すばやく建てられる低価格の住宅を必要としているので）、ボランティアや援助団体が建築資材としてプラスチックに目を向けている、と書かれています。さらに、Plastic homes are cost-efficient, and they can withstand various natural disasters.（プラスチックの家は費用の面で効率がよく、さまざまな自然災害に耐えられる）と、よい点が続きます。withstand は「耐える」という意味です。
+家を失った人々のために、安く、すばやく、災害に強い家が必要とされていて、プラスチックの家がそれにこたえている、という流れです。これは「現実の必要を満たす」という4の内容と合います。meet a need は「必要を満たす、ニーズにこたえる」、practical は「現実的な、実際に役立つ」という意味です。
+【ほかの選択肢】
+1 「貧しい国々には現実的ではない」は、本文と反対です。ハイチでは実際にプラスチックの家が避難所や住宅に使われ始めていると書かれています。
+2 「多額の資金の投資を必要とする」も、本文と反対です。本文では、プラスチックの家は low-cost（低価格の）、cost-efficient（費用の面で効率がよい）と説明されています。
+3 「深刻な危険をもたらす」も、本文と反対です。本文には、プラスチックの家は自然災害に耐えられる、とむしろ安全面の長所が書かれています。
+【覚えるポイント】
+・meet a need：「必要を満たす、ニーズにこたえる」。meet は「会う」以外に「（要求や条件を）満たす」という意味でもよく使われます。
+・段落の最初の文に空所があるときは、その後に続く具体例をまとめた内容を選びましょう。

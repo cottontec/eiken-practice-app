@@ -1,0 +1,30 @@
+---
+choices: extension | autopsy | adoption | itinerary
+answerText: autopsy
+reviewed: yes
+---
+【正解】2 autopsy（検死解剖）
+【和訳】
+（英文）
+Doctors had to perform an ［autopsy］ on the famous actor to determine whether he had died of natural causes or from a drug overdose.
+（訳）
+医師たちは、その有名な俳優が自然な原因で亡くなったのか、それとも薬を飲みすぎたために亡くなったのかを明らかにするために、（検死解剖）を行わなければならなかった。
+（選択肢の意味）
+1 extension：延長、拡大
+2 autopsy：検死解剖（亡くなった人の体を調べて死因を明らかにすること）
+3 adoption：養子にすること；採用
+4 itinerary：旅程、旅行の計画
+【考え方】
+まず見るところ：空所のあとの to determine whether he had died of natural causes or from a drug overdose
+空所のあとに、医師たちがそれを行った目的が書かれています。
+to determine whether he had died of natural causes or from a drug overdose（彼が自然な原因で亡くなったのか、それとも薬の飲みすぎで亡くなったのかを明らかにするために）
+determine は「明らかにする、決める」、natural causes は「自然な原因（病気や年をとったことなど）」、drug overdose は「薬の飲みすぎ」です。
+つまり、医師たちは俳優が亡くなった原因を調べようとしています。亡くなった人の死因を調べるために体を調べることを autopsy（検死解剖）と言います。perform an autopsy on ～ で「～の検死解剖を行う」となります。ですから2が正解です。
+この問題の型：語の意味・組み合わせ（perform an autopsy on ～）
+【ほかの選択肢】
+1 extension は「延長、拡大」です。「俳優に延長を行う」では意味が通らず、死因を調べる目的とつながりません。
+3 adoption は「養子にすること、採用」です。亡くなった俳優の死因を明らかにする話には合いません。
+4 itinerary は「旅程（旅行の予定）」です。「俳優に旅程を行う」となり、意味が通りません。
+【覚えるポイント】
+・perform an autopsy on ～：「～の検死解剖を行う」。
+・to determine whether ～ or …（～か…かを明らかにするために）のように目的が書かれているときは、その目的を果たすための行動を表す語を選ぶ手がかりになります。

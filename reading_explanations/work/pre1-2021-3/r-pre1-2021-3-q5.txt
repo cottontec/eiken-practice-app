@@ -1,0 +1,31 @@
+---
+choices: diverge | certify | evade | glorify
+answerText: certify
+reviewed: yes
+---
+【正解】2 certify（証明する、保証する）
+【和訳】
+（英文）
+Because the vegetable stand was unable to ［certify］ that the vegetables it sold were organic, Eddie refused to buy them. It was his strict policy to eat only organic foods.
+（訳）
+その野菜の売店は、売っている野菜が有機栽培のもの（農薬や化学肥料にたよらずに育てたもの）だと（証明する）ことができなかったので、エディはその野菜を買うのを断った。有機食品だけを食べることが、彼の厳しい方針だった。
+（選択肢の意味）
+1 diverge：分かれる、それる
+2 certify：証明する、保証する
+3 evade：（うまく）避ける、のがれる
+4 glorify：ほめたたえる、実際よりよく見せる
+【考え方】
+まず見るところ：空所の後ろの that the vegetables it sold were organic と、最後の It was his strict policy to eat only organic foods.
+最後の文に、エディの考えが書かれています。
+It was his strict policy to eat only organic foods.（有機食品だけを食べることが、彼の厳しい方針だった）
+エディは有機の野菜しか食べません。そのエディが野菜を買うのを断ったのは、その店の野菜が有機だと確かめられなかったからだと考えられます。
+the vegetable stand was unable to (　) that the vegetables it sold were organic（その売店は、売っている野菜が有機だと〇〇できなかった）
+certify は「（正しいと）証明する、保証する」なので、「有機だと証明できなかった」となり、断った理由として筋が通ります。よって2が正解です。
+この問題の型：因果（Because ～, Eddie refused ～）
+【ほかの選択肢】
+1 diverge は「分かれる、それる」です。「有機だということを分かれる」となり、that ～ を後ろに置く使い方として意味が通りません。
+3 evade は「（うまく）避ける」です。「有機だということを避けられなかった」では、エディが買うのを断った理由になりません。
+4 glorify は「ほめたたえる」です。「有機だということをほめたたえられなかった」となり、エディが買わなかった理由としては不自然です。エディにとって大事なのは、野菜が本当に有機かどうかです。
+【覚えるポイント】
+・certify that ～：「～だと証明する、保証する」。organic：「有機の（農薬や化学肥料にたよらない）」。policy：「方針」。
+・Because ～ で始まる文では、後半の結果（ここでは買うのを断った）から考えて、その原因になる語を選ぶのが手がかりになります。

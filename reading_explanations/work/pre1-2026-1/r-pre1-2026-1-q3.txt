@@ -1,0 +1,30 @@
+---
+choices: haul | envy | subtract | censor
+answerText: censor
+reviewed: yes
+---
+【正解】4 censor（～を検閲する）
+【和訳】
+（英文）
+In some countries, governments ［censor］ the media in order to prevent criticism of them from being published.
+（訳）
+一部の国では、政府が、自分たちへの批判が公表されるのを防ぐために、報道機関を（検閲する）。
+（選択肢の意味）
+1 haul：～を（力をこめて）引っぱる、運ぶ
+2 envy：～をうらやむ
+3 subtract：～を引く（引き算する）
+4 censor：～を検閲する
+【考え方】
+まず見るところ：空所の後ろの in order to prevent criticism of them from being published
+政府が報道機関（新聞やテレビなど）に対して何をするのかを考えます。手がかりは、その目的を表す部分です。
+in order to prevent criticism of them from being published（自分たちへの批判が公表されるのを防ぐために）
+prevent A from ～ing は「Aが～するのを防ぐ」という形です。criticism は「批判（悪いところを責めること）」、of them の them は governments（政府）を指しています。
+政府が、自分たちへの批判を世の中に出させないようにするには、報道機関が出す内容を前もって調べ、都合の悪いものを止める必要があります。これを censor（検閲する：出版物や放送の内容を調べて、出してはいけないものを取りしまる）といいます。ですから4が正解です。
+この問題の型：語の意味・組み合わせ（censor the media）／因果（in order to ～ で目的を示す）
+【ほかの選択肢】
+1 haul は「～を引っぱる、運ぶ」です。「報道機関を引っぱる」では、批判が公表されるのを防ぐこととつながりません。
+2 envy は「～をうらやむ」です。報道機関をうらやんでも、自分たちへの批判が出るのを防ぐことにはなりません。
+3 subtract は「～を引く（引き算する）」です。数を引くときに使う語で、「報道機関を引き算する」では意味が通りません。
+【覚えるポイント】
+・censor：「（出版物や放送などを）検閲する」。
+・in order to ～（～するために）があるときは、その目的を果たすためにはどんな行動が必要かを考えると、空所の動詞を決める手がかりになります。

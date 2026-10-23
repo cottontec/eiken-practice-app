@@ -1,0 +1,25 @@
+---
+choices: threats | invitations | additions | keys
+answerText: threats
+reviewed: yes
+---
+【正解】1 threats（脅威、おびやかすもの）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 threats：脅威（危険をもたらすもの、おびやかすもの）
+2 invitations：招待
+3 additions：追加、付け加えたもの
+4 keys：かぎ、手がかり
+【考え方】
+空所の文は Although a large area of the rainforest officially belongs to them, there are many (　) to their tribal home.（熱帯雨林の広い地域は公式には彼らのものだが、彼らの部族の土地には多くの（　）がある）です。Although ～ は「～だけれども」という意味で、前半と後半が反対の向きの内容になることを示します。前半は「土地は公式には彼らのもの」という、スルイ族にとって守られているはずの状態です。そこで後半には、それに反して土地が危ない目にあっている、という内容がくると考えられます。
+すぐあとの2文がその具体例です。Some companies cut down the Surui people's trees for wood even though it is against the law.（法律に反しているにもかかわらず、木材を得るためにスルイ族の人々の木を切り倒す会社もある）、Others dig mines to look for gold.（金を探すために鉱山を掘る会社もある）とあります。どちらも、部族の土地や森をおびやかすものです。
+threat は「脅威（危険をもたらすもの）」という意味で、threats to ～ で「～に対する脅威」となります。many threats to their tribal home で「部族の土地に対する多くの脅威」となり、あとの具体例とつながります。正解は1です。
+【ほかの選択肢】
+2 invitations を入れると「部族の土地への多くの招待がある」となります。あとの文は木を勝手に切ったり鉱山を掘ったりする話なので、招待の話とはつながりません。
+3 additions を入れると「部族の土地に多くの追加がある」となります。木が切り倒されるという、土地が失われていく話と合いません。
+4 keys を入れると「部族の土地への多くのかぎ（手がかり）がある」となります。Although で示される「公式には彼らのものだが」という反対の流れにも、あとの具体例にもつながりません。
+【覚えるポイント】
+・threat to ～：「～に対する脅威」。動詞は threaten（おびやかす）です。
+・Although ～, ...：「～だけれども…」。前半と後半で反対の向きの内容を述べます。

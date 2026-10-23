@@ -1,0 +1,29 @@
+---
+choices: Help the team advertise its event in the newspaper. | Design a T-shirt with a lion on it for the team. | Allow the team to pay a lower price than usual for T-shirts. | Donate money to help the team with its event.
+answerText: Allow the team to pay a lower price than usual for T-shirts.
+reviewed: yes
+---
+【正解】3 Allow the team to pay a lower price than usual for T-shirts.（Tシャツの代金を、チームがふだんより安い値段で払えるようにする。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：シャツ・アンド・スタッフ社は、ホッケーチームのために何をしますか。
+1 Help the team advertise its event in the newspaper.（チームが新聞でイベントを宣伝するのを手伝う。）
+2 Design a T-shirt with a lion on it for the team.（チームのために、ライオンが描かれたTシャツをデザインする。）
+3 Allow the team to pay a lower price than usual for T-shirts.（Tシャツの代金を、チームがふだんより安い値段で払えるようにする。）
+4 Donate money to help the team with its event.（チームのイベントを助けるためにお金を寄付する。）
+【考え方】
+設問の Shirts-n-Stuff という会社の名前を本文で探します。第2段落の最後に、次の文があります。
+Shirts-n-Stuff, a local company, has agreed to print the shirts for a special, discounted price.（地元の会社であるシャツ・アンド・スタッフ社が、特別な割引価格でシャツを印刷することを引き受けてくれました）
+agree to ～ は「～することを引き受ける、～することに同意する」、discounted price は「割引された値段」という意味です。つまり、この会社はシャツを印刷してくれて、その代金をいつもより安くしてくれるということです。
+本文と選択肢を対にすると、次のようになります。
+本文 for a special, discounted price（特別な割引価格で）＝ 選択肢 pay a lower price than usual（ふだんより安い値段で払う）
+discounted（割引された）が、a lower price than usual（ふだんより低い値段）に言いかえられています。ですから、3が正解です。
+【ほかの選択肢】
+1 本文には We've put out an advertisement for the event in the local newspaper.（地元の新聞に、このイベントの広告を出しました）とありますが、広告を出したのは We（チーム）です。シャツ・アンド・スタッフ社が広告を手伝うとは書かれていません。
+2 本文には The boys are designing T-shirts that will show our team's lion mascot.（少年たちが、チームのライオンのマスコットが入ったTシャツをデザインしています）とあります。デザインをしているのはチームの少年たちで、シャツ・アンド・スタッフ社ではありません。
+4 シャツ・アンド・スタッフ社がお金を寄付するという話は、本文にありません。この会社がするのは、割引価格でシャツを印刷することです。
+【覚えるポイント】
+・discounted price：「割引価格」。a lower price than usual（ふだんより安い値段）と言いかえられます。
+・設問に会社や人の名前があるときは、本文でその名前が出てくる文を探し、その人（会社）がしたことだけを確かめましょう。

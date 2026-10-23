@@ -1,0 +1,34 @@
+---
+choices: send someone to help him put the TV back into its box. | solve the problem in time for him to watch a sports event. | tell him about tournaments sponsored by Television Depot. | give him instructions to allow him to fix the problem himself.
+answerText: solve the problem in time for him to watch a sports event.
+reviewed: yes
+---
+【正解】2 solve the problem in time for him to watch a sports event.（彼があるスポーツの催しを見るのに間に合うように、問題を解決してくれる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Michael Green hopes the customer service representative will ～.（マイケル・グリーンは、カスタマーサービスの担当者が～ことを望んでいる。）
+1 send someone to help him put the TV back into its box.（テレビを箱に戻すのを手伝う人を送ってくれる）
+2 solve the problem in time for him to watch a sports event.（彼があるスポーツの催しを見るのに間に合うように、問題を解決してくれる）
+3 tell him about tournaments sponsored by Television Depot.（テレビジョン・デポが協賛している大会について教えてくれる）
+4 give him instructions to allow him to fix the problem himself.（彼が自分で問題を直せるように、やり方を教えてくれる）
+【考え方】
+まず見るところ：第3段落の I hope you are able to solve this problem in the next few days. と、そのあとの I would very much like to use my new TV to watch the European soccer tournament ～
+設問の hopes（望んでいる）に注目して、本文で I hope を探すと、第3段落にあります。
+I hope you are able to solve this problem in the next few days.（数日のうちにこの問題を解決していただけることを願っています）
+そのすぐあとに、こう続きます。
+I would very much like to use my new TV to watch the European soccer tournament that begins next weekend.（来週末に始まるヨーロッパのサッカー大会を、ぜひ新しいテレビで見たいと思っています）
+つまりマイケルは、来週末にサッカー大会が始まる前に、問題を解決してほしいと願っていることが読み取れます。
+本文と選択肢を対にすると、次のようになります。
+本文 the European soccer tournament → 選択肢 a sports event（あるスポーツの催し）
+本文 solve this problem in the next few days（数日のうちに問題を解決する）＋大会は来週末に始まる → 選択肢 solve the problem in time for him to watch ～（～を見るのに間に合うように問題を解決する）
+in time for ～ は「～に間に合うように」という意味です。2が正解です。
+この問題の型：言いかえ（soccer tournament → sports event）、推論（数日のうちに解決してほしい＋大会は来週末に始まる）
+【ほかの選択肢】
+1 本文には it will be difficult to put such a large TV back into its box（こんなに大きなテレビを箱に戻すのは難しい）とあります。しかし、これは It would be good if I don't need to send it back（送り返さなくてすむとありがたい）の理由として書かれています。箱に戻すのを手伝う人を送ってほしいとは頼んでいません。
+3 本文に出てくる tournament（大会）は、来週末に始まるヨーロッパのサッカー大会です。テレビジョン・デポが協賛（お金を出すなどして支えること）している大会の話は、本文にありません。
+4 本文には I looked through the instruction manual, but I could not find a solution.（取扱説明書にひととおり目を通したが、解決方法は見つからなかった）とありますが、自分で直す方法を教えてほしいとは書かれていません。彼がたずねているのは、交換用のリモコンをもらえるか、それともテレビも返品する必要があるか、ということです。
+【覚えるポイント】
+・in time for ～：「～に間に合うように」。
+・I hope ～ や I would like to ～ は書き手の望みを表すので、hope（望む）をたずねる設問の手がかりになります。

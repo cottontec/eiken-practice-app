@@ -1,0 +1,32 @@
+---
+choices: literally | suitably | bitterly | tranquilly
+answerText: literally
+reviewed: yes
+---
+【正解】1 literally（文字どおりに）
+【和訳】
+（英文）
+A: Ellen, did you mean it when you said you wanted to punch your boss?
+B: Of course not, Simon. I was just expressing my anger. Don't take things so ［literally］.
+（訳）
+A：エレン、上司をなぐりたいって言ったのは本気だったの？
+B：もちろん違うよ、サイモン。怒りを表していただけ。物事をそんなに（文字どおりに）受け取らないで。
+（選択肢の意味）
+1 literally：文字どおりに
+2 suitably：ふさわしく、適切に
+3 bitterly：激しく、ひどく（つらく）
+4 tranquilly：静かに、落ち着いて
+【考え方】
+まず見るところ：Aの did you mean it と、Bの I was just expressing my anger.
+did you mean it when you said you wanted to punch your boss?（上司をなぐりたいと言ったのは本気だったのか）
+mean it は「本気で言う」という意味です。Aは、エレンの言葉をそのままの意味で受け止めて心配しています。
+I was just expressing my anger.（怒りを表していただけだ）
+Bは「本当になぐるつもりはなく、気持ちを言葉にしただけ」と答えています。そこで「言葉をそのままの意味に受け取らないで」と言うと話がつながります。take ～ literally で「～を文字どおりに受け取る」という意味になるので、1が正解です。
+この問題の型：対比（本気なのか⇔怒りを表しただけ）／語の意味・組み合わせ（take things literally）
+【ほかの選択肢】
+2 suitably は「ふさわしく、適切に」です。「物事をそんなに適切に受け取らないで」となり、相手に注意する言葉として意味が通りません。
+3 bitterly は「激しく、ひどく（つらく）」です。Aは本気かどうかをたずねているだけで、ひどく傷ついたり怒ったりしている様子は書かれていないので合いません。
+4 tranquilly は「静かに、落ち着いて」です。「そんなに落ち着いて受け取らないで」となり、本気にしたAに言う言葉としては合いません。
+【覚えるポイント】
+・take ～ literally：「～を文字どおりに受け取る」。
+・mean it：「本気で言う」。Aが「本気だったの？」とたずね、Bが「怒りを言葉にしただけ」と答える流れでは、Don't take ～ literally（文字どおりに受け取らないで）の形が手がかりになります。

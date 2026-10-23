@@ -1,0 +1,22 @@
+---
+choices: him | idea | great | to | occurred
+answerText: to
+order: 3 2 5 4 1
+reviewed: yes
+---
+【正解】4 to（この問題の4番目）
+【完成文】
+Then a ( great idea occurred to him ).
+並べ方：3 great → 2 idea → 5 occurred → 4 to → 1 him（2番目は2、4番目は4）
+【和訳】
+ビルは美術コンクールに何を描けばよいか思いつきませんでした。すると、すばらしい考えが浮かびました。彼は地元の教会の絵を描くことにしたのです。
+【考え方】
+まず、前後の文を見ます。1文目は Bill could not think what to paint（ビルは何を描けばいいか思いつかなかった）、空所のあとの文は He decided to paint a picture of a local church.（彼は地元の教会の絵を描くことにした）です。その間に「よい考えが浮かんだ」という内容が入ると考えられます。
+空所の直前に a があります。a のあとには名詞が必要なので、形容詞（名詞を説明する語）の 3 great と名詞の 2 idea を並べて a great idea（すばらしい考え）とします。これが文の主語になります。
+次に動詞です。occur to 人 は「（考えが）人の心に浮かぶ」という意味です。そこで 5 occurred → 4 to → 1 him と続けます。him はビルを指します。
+こうして a great idea occurred to him（すばらしい考えが彼の頭に浮かんだ）が完成します。
+この問題で問われている4番目は 4 to です。occur to 人 の形で、occurred のすぐあとに to、そのあとに思いつく人の him を置くので、to が4番目になります。
+まちがえやすいのは、him を主語のように考えて「彼が考えを思いついた」の語順にしようとすることです。occur は「考え」を主語にして、思いつく人を to のあとに置く動詞なので、この順になります。
+【覚えるポイント】
+・A occur to 人：「A（考えなど）が人の心に浮かぶ」。思いつく人は to のあとに置きます。
+・what to ～：「何を～すればよいか」。what to paint で「何を描けばよいか」。

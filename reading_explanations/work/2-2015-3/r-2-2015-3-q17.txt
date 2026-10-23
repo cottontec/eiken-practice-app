@@ -1,0 +1,27 @@
+---
+choices: mind | word | opinion | back
+answerText: word
+reviewed: yes
+---
+【正解】2 word（be as good as one's word で「約束を守る」）
+【和訳】
+（英文）
+Kent promised to call his wife regularly while he was away on his business trip, and he was as good as his ［word］. He called her every evening.
+（訳）
+ケントは出張で家を離れている間、定期的に妻に電話すると約束しました。そして、その約束を守りました。彼は毎晩、妻に電話したのです。
+（選択肢の意味）
+1 mind：心、考え
+2 word：言葉、約束
+3 opinion：意見
+4 back：背中
+【考え方】
+1文目の前半に Kent promised to call his wife regularly while he was away on his business trip（ケントは出張で家を離れている間、定期的に妻に電話すると約束した）とあります。regularly は「定期的に」です。
+空所を含む and he was as good as his (　) のあとには、He called her every evening.（彼は毎晩、彼女に電話した）と続きます。約束したことを、実際にそのとおり実行したと分かります。
+word には「言葉」のほかに「約束」という意味があります。be as good as one's word は「約束を守る、言ったとおりのことを実行する」という決まった言い方です。正解は2です。
+【ほかの選択肢】
+1 mind は「心、考え」です。as good as one's mind という決まった言い方はなく、「約束どおり毎晩電話した」という内容を表せません。
+3 opinion は「意見」です。as good as his opinion という言い方はせず、約束の話ともつながりません。
+4 back は「背中」です。as good as his back では意味が通りません。
+【覚えるポイント】
+・be as good as one's word：「約束を守る、言ったとおりに実行する」。keep one's word もほぼ同じ意味です。
+・be away on a business trip：「出張で（家を）離れている」。

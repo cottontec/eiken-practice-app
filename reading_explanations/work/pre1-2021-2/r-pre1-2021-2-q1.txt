@@ -1,0 +1,33 @@
+---
+choices: grasps | outweighs | declares | captivates
+answerText: outweighs
+reviewed: yes
+---
+【正解】2 outweighs（～より重要である、～にまさる）
+【和訳】
+（英文）
+Kevin’s boss believes the need for safety ［outweighs］ the time savings that come with taking risks. He would rather deal with delays in construction projects than with careless accidents.
+（訳）
+ケビンの上司は、安全の必要性は、危険をおかすことにともなう時間の節約（にまさる）と考えている。上司は、不注意による事故に対処するよりも、建設工事の遅れに対処するほうがよいと思っている。
+（選択肢の意味）
+1 grasps：（しっかり）つかむ、理解する
+2 outweighs：～より重要である、～にまさる
+3 declares：宣言する、はっきり言う
+4 captivates：心を奪う、魅了する
+【考え方】
+まず見るところ：あとの文の He would rather deal with delays ～ than with careless accidents.
+あとの文を確かめます。
+He would rather deal with delays in construction projects than with careless accidents.（彼は、不注意による事故に対処するよりも、建設工事の遅れに対処するほうがよいと思っている）
+would rather A than B は「BよりもむしろAをしたい」という意味です。上司は「工事が遅れること」のほうが「事故が起こること」よりましだと考えています。
+次に、空所のある文を見ます。
+the need for safety ( ) the time savings that come with taking risks（安全の必要性は、危険をおかすことにともなう時間の節約（　））
+危険をおかせば時間は節約できますが、事故が起こるかもしれません。上司は、時間よりも安全を大切にしているので、「安全の必要性」が「時間の節約」より重い、という意味の動詞が入ります。
+outweigh は「～より重い、～より重要である」という意味です。「安全の必要性は時間の節約にまさる」とつながるので、2が正解です。
+この問題の型：語の意味・組み合わせ（A outweighs B：AはBより重要だ）／言いかえ（would rather ～ than ... の内容を、空所のある文が先に言っている）
+【ほかの選択肢】
+1 grasps は「つかむ、理解する」です。「安全の必要性が時間の節約を理解する」となり、意味が通りません。
+3 declares は「宣言する」です。宣言するのは人や団体で、「安全の必要性が時間の節約を宣言する」では意味が通りません。
+4 captivates は「魅了する（心を引きつける）」です。「安全の必要性が時間の節約を魅了する」では意味が通らず、上司が安全を優先するという話にもつながりません。
+【覚えるポイント】
+・outweigh：「～より重い、～にまさる」。A outweighs B で「AのほうがBより重要だ」となります。
+・would rather A than B（BよりむしろAしたい）のように、2つを比べてどちらを選ぶかが書かれた文は、空所に「どちらが大事か」を表す語が入る手がかりになります。

@@ -1,0 +1,31 @@
+---
+choices: a third of the population suffers from diseases that cannot be cured easily. | experts have become concerned about the increasing number of wealthy people. | the number of people living in poverty is still high despite economic progress. | local officials have started stealing money in order to help poor people in their area.
+answerText: the number of people living in poverty is still high despite economic progress.
+reviewed: yes
+---
+【正解】3 the number of people living in poverty is still high despite economic progress.（経済が発展しているにもかかわらず、貧困の中で暮らす人の数は今でも多い。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：今日のインドでは、（　）。
+1 a third of the population suffers from diseases that cannot be cured easily.（人口の3分の1が、簡単には治せない病気に苦しんでいる。）
+2 experts have become concerned about the increasing number of wealthy people.（専門家たちは、豊かな人の数が増えていることを心配するようになった。）
+3 the number of people living in poverty is still high despite economic progress.（経済が発展しているにもかかわらず、貧困の中で暮らす人の数は今でも多い。）
+4 local officials have started stealing money in order to help poor people in their area.（地方の役人たちが、その地域の貧しい人々を助けるために、お金を盗み始めた。）
+【考え方】
+今のインドのようすは、第1段落に書かれています。
+In recent decades, India has been experiencing very rapid economic growth.（ここ数十年、インドはとても急速な経済成長を続けている）
+Yet, while the country as a whole has grown much wealthier, it still has more poor people than any other country in the world.（しかし、国全体としてはずっと豊かになった一方で、インドには今でも世界のほかのどの国よりも多くの貧しい人々がいる）
+Yet は「しかし」、still は「今でも、まだ」という意味です。経済が成長して国が豊かになったのに、貧しい人は今でも世界でいちばん多い、ということです。さらに around a third of the population suffers from poverty（人口の約3分の1が貧困に苦しんでいる）とも書かれています。
+本文と選択肢を対にすると、次のようになります。
+本文 very rapid economic growth（とても急速な経済成長）＝ 選択肢 economic progress（経済の発展）
+本文 Yet, ... it still has more poor people than any other country（しかし、今でもほかのどの国よりも多くの貧しい人々がいる）→ 選択肢 the number of people living in poverty is still high despite ～（～にもかかわらず、貧困の中で暮らす人の数は今でも多い）
+despite は「～にもかかわらず」という意味で、本文の Yet や while と同じように、2つの反対の内容をつないでいます。ですから、3が正解です。
+【ほかの選択肢】
+1 本文に a third of the population（人口の3分の1）とありますが、苦しんでいるのは poverty（貧困）です。病気に苦しんでいるのではありません。
+2 本文で専門家が意見を一致させているのは、貧しい人が人口の約3分の1だということです。豊かな人の数が増えていることを心配しているとは書かれていません。
+4 本文には local officials sometimes steal this money（地方の役人がときどきこのお金を盗む）とありますが、これは貧しい人々に支援が届かない理由の1つとして、国の政府が考えていることです。貧しい人々を助けるために盗んでいるのではありません。また、盗み「始めた」とも書かれていません。
+【覚えるポイント】
+・despite ～：「～にもかかわらず」。前置詞なので、後ろには economic progress のような名詞が来ます。
+・Yet / still：Yet は文の最初に置くと「しかし」という意味になることがあります。still は「今でも、まだ」という意味です。

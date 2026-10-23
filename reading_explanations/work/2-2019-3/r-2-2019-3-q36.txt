@@ -1,0 +1,30 @@
+---
+choices: learned how to control the surface part of the brain better. | became able to read by using glasses to improve their eyesight. | sent information that they wrote down to the team of researchers. | showed changes in the way the deep areas of their brains worked.
+answerText: showed changes in the way the deep areas of their brains worked.
+reviewed: yes
+---
+【正解】4 showed changes in the way the deep areas of their brains worked.（脳の深い部分の働き方に変化が見られた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：21人の参加者のグループは、
+1 learned how to control the surface part of the brain better.（脳の表面の部分を、よりうまく調節する方法を身につけた。）
+2 became able to read by using glasses to improve their eyesight.（視力をよくするためのめがねを使うことで、読めるようになった。）
+3 sent information that they wrote down to the team of researchers.（自分たちが書き留めた情報を、研究者のチームに送った。）
+4 showed changes in the way the deep areas of their brains worked.（脳の深い部分の働き方に変化が見られた。）
+【考え方】
+21人の参加者は、6か月間読み方を教わった人たちです。第3段落に、その人たちについて次のように書かれています。
+・These showed that changes occurred not only in the surface part of the brain—the part that adults use to learn new facts—but also in the parts deep inside.（その画像は、脳の表面の部分――大人が新しい事実を覚えるのに使う部分――だけでなく、奥深くにある部分にも変化が起きたことを示していた）
+・the scientists believe that the participants' brains began to work in a way that helped their eyes focus clearly on the words written on the page（科学者たちは、参加者の脳が、目がページの言葉にはっきりとピントを合わせるのを助ける働き方をし始めたと考えている）
+These（それら）は、21人の脳のスキャン画像を指します。not only A but also B は「AだけでなくBも」という意味です。
+本文と選択肢を対にすると、次のようになります。
+本文 changes occurred ... in the parts deep inside ＋ the participants' brains began to work in a way ～ → 選択肢 showed changes in the way the deep areas of their brains worked
+脳の奥深くの部分に変化が起き、脳が新しい働き方をし始めた、という2つの内容をまとめると、「脳の深い部分の働き方に変化が見られた」となります。4が正解です。
+【ほかの選択肢】
+1 本文では、脳の表面の部分にも変化が起きたと書かれていますが、参加者が表面の部分を調節する方法を身につけたとは書かれていません。参加者が学んだのは読み方です。
+2 本文の helped their eyes focus clearly on the words（目が言葉にはっきりピントを合わせるのを助けた）は、脳の働き方が変わったことによるものです。めがねを使ったとは書かれていません。
+3 本文の allowed information to be sent to the appropriate parts of the brain easily（情報が脳の適切な部分へ簡単に送られるようにした）は、脳の中で情報が送られる話です。参加者が書き留めた情報を研究者に送ったわけではありません。
+【覚えるポイント】
+・not only A but also B：「AだけでなくBも」。この文では、B（脳の奥深くの部分）にも変化が起きたことが、設問の答えにつながる部分です。
+・the way ～ works：「～の働き方」。

@@ -1,0 +1,30 @@
+---
+choices: theological | biographical | proportional | horizontal
+answerText: biographical
+reviewed: yes
+---
+【正解】2 biographical（伝記の、人の生涯に関する）
+【和訳】
+（英文）
+The article on Isaac Newton contained a few ［biographical］ details, such as his place of birth and his schooling, but it focused mainly on his scientific discoveries.
+（訳）
+アイザック・ニュートンについてのその記事には、生まれた場所や受けた学校教育といった、（彼の生涯に関する）細かい情報がいくつか含まれていたが、記事は主に彼の科学上の発見を取り上げていた。
+（選択肢の意味）
+1 theological：神学の（神や宗教について研究する学問の）
+2 biographical：伝記の、人の生涯に関する
+3 proportional：比例した、つり合った
+4 horizontal：水平の、横の
+【考え方】
+まず見るところ：空所のあとの such as his place of birth and his schooling
+such as ～ は「（たとえば）～のような」で、すぐ前の details（細かい情報）の具体例を挙げています。
+such as his place of birth and his schooling（生まれた場所や受けた学校教育といった）
+生まれた場所や、どんな学校に通ったかは、その人の一生の歩みについての情報です。biographical は「伝記の、人の生涯に関する」という意味なので、biographical details で「生涯に関する細かい情報」となります。ですから2が正解です。
+さらに、but のあとで it focused mainly on his scientific discoveries（記事は主に彼の科学上の発見を取り上げていた）とあり、「生涯の情報は少しだけ、中心は科学の発見」という対比になっていることも確かめられます。
+この問題の型：具体例とまとめ（生まれた場所・学校教育 → 生涯に関する情報）
+【ほかの選択肢】
+1 theological は「神学の（神や宗教について研究する学問の）」です。生まれた場所や学校教育は、宗教についての情報ではないので、具体例と合いません。
+3 proportional は「比例した、つり合った」です。「比例した細かい情報」では、生まれた場所や学校教育の説明になりません。
+4 horizontal は「水平の、横の」です。物の向きを表す語で、「水平の細かい情報」では意味が通りません。
+【覚えるポイント】
+・biographical：「伝記の、人の生涯に関する」。biography は「伝記」。
+・空所のすぐあとに such as ～ があるときは、そこに並ぶ具体例（ここでは place of birth と schooling）をまとめて言いかえる語を選ぶ手がかりになります。

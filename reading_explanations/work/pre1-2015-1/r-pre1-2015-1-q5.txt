@@ -1,0 +1,33 @@
+---
+choices: revolt | flash | decay | eject
+answerText: decay
+reviewed: yes
+---
+【正解】3 decay（腐る、朽ちる）
+【和訳】
+（英文）
+Due to the heat and high moisture in rainforests, dead plants ［decay］ very rapidly. Even a fallen tree can almost completely disappear within months.
+（訳）
+熱帯雨林では暑さと高い湿気のために、枯れた植物はとても速く（腐る）。倒れた木でさえ、数か月のうちにほとんど完全に消えてしまうことがある。
+（選択肢の意味）
+1 revolt：反乱を起こす、そむく
+2 flash：ぴかっと光る、さっと通り過ぎる
+3 decay：腐る、朽ちる
+4 eject：～を追い出す、外へ放り出す
+【考え方】
+まず見るところ：次の文の Even a fallen tree can almost completely disappear within months.
+空所のある文は次のとおりです。
+Due to the heat and high moisture in rainforests, dead plants (　) very rapidly.（熱帯雨林では暑さと高い湿気のために、枯れた植物はとても速く（　））
+Due to ～ は「～のために、～が原因で」です。暑くて湿気が多いことが原因で、枯れた植物に何かが速く起こる、という文です。
+次の文を見ます。
+Even a fallen tree can almost completely disappear within months.（倒れた木でさえ、数か月のうちにほとんど完全に消えてしまうことがある）
+大きな木でさえ数か月で消えるのは、腐ってくずれていくからです。decay は「腐る、朽ちる」なので、3が正解です。
+Even（～でさえ）は、前の文の「枯れた植物」の中でも、なかなか消えそうにない「倒れた木」の例を挙げて、前の文を強めています。
+この問題の型：具体例とまとめ（腐る ← 倒れた木でさえ消える）／因果（Due to 暑さと湿気）
+【ほかの選択肢】
+1 revolt は「反乱を起こす」で、人々が支配する側にそむくときに使います。植物が反乱を起こす、では意味が通りません。
+2 flash は「ぴかっと光る」です。「枯れた植物がとても速く光る」となり、次の文の「消えてしまう」とつながりません。
+4 eject は「～を追い出す、外へ放り出す」で、何を追い出すのかを後ろに続ける語です。空所の後ろには very rapidly しかなく、文の形にも意味にも合いません。
+【覚えるポイント】
+・decay：「腐る、朽ちる」。名詞として「腐ること、おとろえること」の意味でも使います。
+・空所のあとに Even ～（～でさえ）で始まる文があるときは、その例が「何の極端な例か」を考えると、空所に入る動作が分かる手がかりになります。

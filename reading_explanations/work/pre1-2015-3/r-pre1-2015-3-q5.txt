@@ -1,0 +1,30 @@
+---
+choices: hostile | daring | passive | discreet
+answerText: hostile
+reviewed: yes
+---
+【正解】1 hostile（〔環境が〕厳しい、生きものにとってつらい）
+【和訳】
+（英文）
+In preparation for their journey to the North Pole, the exploration team spent weeks testing their equipment to make sure it would work in such a ［hostile］ climate.
+（訳）
+北極への旅の準備として、探検隊は、装備がそのような（厳しい）気候の中で確実に動くようにするために、何週間もかけて装備を試験した。
+（選択肢の意味）
+1 hostile：敵意のある、（環境が）厳しい
+2 daring：大胆な、向こう見ずな
+3 passive：受け身の、消極的な
+4 discreet：慎重な、口が堅い
+【考え方】
+まず見るところ：文の初めの the North Pole と、空所のあとの climate
+空所のあとの climate は「気候」です。どんな気候なのかを説明する語が空所に入ります。
+In preparation for their journey to the North Pole（北極への旅の準備として）
+旅の行き先は北極です。北極は、とても寒い場所です。探検隊は、装備がそこで使えるかどうかを何週間もかけて試験しています。
+hostile は、もとは「敵意のある（敵のように向かってくる）」という意味ですが、climate（気候）や environment（環境）などと使うと「（生きものや機械にとって）厳しい、つらい」という意味になります。such a hostile climate で「そのような厳しい気候」となり、北極の説明として合うので、1が正解です。
+この問題の型：語の意味・組み合わせ（hostile climate）
+【ほかの選択肢】
+2 daring は「大胆な、向こう見ずな」で、ふつう人や行動を説明する語です。「大胆な気候」となり、意味が通りません。
+3 passive は「受け身の、消極的な」です。「受け身の気候」となり、装備を何週間も試験する理由になりません。
+4 discreet は「慎重な、口が堅い」で、人の性格や行動を説明する語です。「慎重な気候」となり、意味が通りません。
+【覚えるポイント】
+・hostile：「敵意のある」に加えて、climate や environment と使うと「（環境が）厳しい、生きるのに適さない」という意味になります。
+・such a (　) climate のような形では、such（そのような）が前に出てきた内容（ここでは北極）を指していることが多いので、その場所の様子に合う語を選びましょう。

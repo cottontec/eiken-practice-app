@@ -1,0 +1,27 @@
+---
+choices: accustomed to | relevant to | guilty of | worthy of
+answerText: accustomed to
+reviewed: yes
+---
+【正解】1 accustomed to（～に慣れて）
+【和訳】
+（英文）
+Victor was very busy with his schedule when he first started college, but he has become ［accustomed to］ it over the last year.
+（訳）
+ビクターは大学に入ったばかりのころ、スケジュールに追われてとても忙しかったのですが、この1年の間にそれに（慣れて）きました。
+（選択肢の意味）
+1 accustomed to：～に慣れて
+2 relevant to：～に関係があって
+3 guilty of：～について罪がある、～をしてしまった
+4 worthy of：～に値する、～にふさわしい
+【考え方】
+文の前半と後半が but（しかし）でつながっています。前半は was very busy with his schedule when he first started college（大学に入ったばかりのころは、予定でとても忙しかった）です。
+後半の it は his schedule（彼の予定）を指します。has become ( ) it over the last year は「この1年の間に、それに～になった」という意味です。has become は現在完了（have ＋過去分詞の形で、過去から今までの変化を表す言い方）で、「（今では）～になっている」ということです。
+はじめは忙しくて大変だった予定に、1年たって「慣れた」と考えると、but の前後の変化が自然につながります。become accustomed to ～ は「～に慣れる」という意味です。ですから、1が正解です。
+【ほかの選択肢】
+2 relevant to は「～に関係があって」です。「1年の間に予定に関係があるようになった」となり、忙しかった前半との変化を表せません。
+3 guilty of は「～について罪がある、（悪いこと）をしてしまった」です。「予定について罪があるようになった」となり、意味が通りません。
+4 worthy of は「～に値する、～にふさわしい」です。「予定に値するようになった」となり、意味が通りません。
+【覚えるポイント】
+・become accustomed to ～：「～に慣れる」。get used to ～ とほぼ同じ意味です。to のあとは名詞や -ing の形が来ます。
+・over the last year：「この1年の間に」。

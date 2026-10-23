@@ -1,0 +1,29 @@
+---
+choices: stand still | take care | pay attention | make sense
+answerText: make sense
+reviewed: yes
+---
+【正解】4 make sense（意味が通じる、理解できる）
+【和訳】
+（英文）
+A: Did my explanation of the new project ［make sense］, Carter?
+B: Yes, it did. You answered all the questions I had.
+（訳）
+A：新しいプロジェクトについての私の説明は（意味が通じた）かな、カーター？
+B：うん、分かったよ。私が持っていた質問に全部答えてくれたね。
+（選択肢の意味）
+1 stand still：じっと動かずにいる
+2 take care：気をつける、注意する
+3 pay attention：注意を払う
+4 make sense：意味が通じる、理解できる
+【考え方】
+まず、空所のある文の主語（文の中で「～は」「～が」に当たる語）を確かめます。Did my explanation of the new project (　)? の主語は my explanation（私の説明）です。人ではなく「説明」が主語になっています。
+次にBの答えを見ます。Yes, it did.（うん、そうだった）のあと、You answered all the questions I had.（私が持っていた質問に、あなたは全部答えてくれた）と言っています。質問がすべて解決したのですから、Bは説明をよく理解できたと分かります。
+make sense は「意味が通じる、筋が通っていて理解できる」という意味で、説明や話などを主語にして使えます。Did my explanation make sense? で「私の説明は意味が通じたか（理解できるものだったか）」となり、Bの答えとも合います。ですから、4が正解です。
+【ほかの選択肢】
+1 stand still は「じっと動かずにいる」です。人や物が動かないことを表し、「私の説明はじっと動かずにいたか」では意味が通りません。
+2 take care は「気をつける、注意する」です。ふつう人が主語になる言い方で、「説明」が気をつけるのは不自然です。
+3 pay attention は「注意を払う」です。これも人が主語になる言い方で、「私の説明は注意を払ったか」では意味が通りません。
+【覚えるポイント】
+・make sense：「意味が通じる、理解できる」。It makes sense.（それはもっともだ、筋が通っている）のようにも使います。
+・Yes, it did. の did は、前の質問の make sense をくり返す代わりに使われています。

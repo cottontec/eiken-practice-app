@@ -1,0 +1,23 @@
+---
+choices: better than | come home | know | you | to
+answerText: know
+order: 4 3 1 5 2
+reviewed: yes
+---
+【正解】3 know（この問題の2番目）
+【完成文】
+Jim, it's nearly midnight! ( You know better than to come home ) so late and not even call.
+並べ方：4 you → 3 know → 1 better than → 5 to → 2 come home（2番目は3、4番目は5）
+【和訳】
+A：お母さん、遅くなってごめんなさい。
+B：ジム、もうすぐ真夜中じゃないの！こんなに遅く帰ってきて、電話もしないなんて、そんなことをしてはいけないと分かっているでしょう。
+【考え方】
+空所の文には主語がないので、まず主語を決めます。選択肢のうち主語になれるのは 4 you です。you のあとには動詞がくるので 3 know を置き、You know とします。
+次に 1 better than を見ます。know better than to ～ は「～するほど愚かではない、～してはいけないことくらい分かっている」という意味の決まった言い方です。そこで You know better than to と並べ、to のあとに動詞の原形 2 come home を置きます。
+空所のあとの so late and not even call（こんなに遅く、そして電話さえしない）は、come home so late と not even call が and で並んでいて、どちらも to に続く形です。
+完成した You know better than to come home so late and not even call. は、直訳すると「あなたはこんなに遅く帰ってきて電話さえしないほど愚かではないはずだ」となり、「そんなことはしてはいけないと分かっているでしょう」としかる言い方になります。真夜中近くに帰ってきたジムへの母親の言葉として自然です。
+You come home better than to know ... のように並べると、know better than to ～ の形がくずれて意味が通りません。
+したがって2番目は3 knowです。
+【覚えるポイント】
+・know better than to ～：「～しないだけの分別がある、～してはいけないことくらい分かっている」。
+・not even ～：「～さえしない」。

@@ -1,0 +1,36 @@
+---
+choices: Since it only had a minor effect on the mice's memory, it cannot really be said to have improved their overall intelligence. | Although it affected one element of the mice's intelligence, it is just an early step in what will most likely be a complicated process. | It demonstrated that the way that mice communicated with each other was more sophisticated than had previously been believed. | It indicates that mice may actually have a form of intelligence that researchers were not aware of in the past.
+answerText: Although it affected one element of the mice's intelligence, it is just an early step in what will most likely be a complicated process.
+reviewed: yes
+---
+【正解】2 Although it affected one element of the mice's intelligence, it is just an early step in what will most likely be a complicated process.（それはマウスの知能の一つの要素に影響を与えたが、おそらく複雑な過程になるであろうものの、初めの一歩にすぎない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one thing that we learn about the research into the FOXP2 gene?（FOXP2遺伝子についての研究について分かることの一つは何か。）
+1 Since it only had a minor effect on the mice's memory, it cannot really be said to have improved their overall intelligence.（それはマウスの記憶力に小さな影響しか与えなかったので、マウスの知能全体を高めたとはとても言えない。）
+2 Although it affected one element of the mice's intelligence, it is just an early step in what will most likely be a complicated process.（それはマウスの知能の一つの要素に影響を与えたが、おそらく複雑な過程になるであろうものの、初めの一歩にすぎない。）
+3 It demonstrated that the way that mice communicated with each other was more sophisticated than had previously been believed.（それは、マウスどうしの意思の伝え方が、以前に考えられていたより高度だったことを示した。）
+4 It indicates that mice may actually have a form of intelligence that researchers were not aware of in the past.（それは、マウスが、研究者たちが以前は気づいていなかった種類の知能を実際に持っているかもしれないことを示している。）
+【考え方】
+まず見るところ：第1段落の This research is preliminary, however, and intelligence depends on a multitude of genes
+FOXP2の研究については、第1段落に書かれています。まず、実験の結果です。
+When mice were genetically altered to produce it, they were able to learn a route through a maze much more rapidly than their unmodified counterparts, indicating that the gene had significantly enhanced their memory, which is an essential component of intelligence.（マウスの遺伝子を変えて、この遺伝子を作り出すようにすると、そのマウスたちは、遺伝子を変えていないマウスたちよりもはるかに速く迷路の道順を覚えることができた。これは、この遺伝子がマウスの記憶力を大きく高めたことを示しており、記憶力は知能に欠かせない要素だ）
+component は「要素（全体を作っている部分の一つ）」です。つまり、この遺伝子は、知能の一部である記憶力を高めました。
+続く文で、この研究の位置づけが書かれています。
+This research is preliminary, however, and intelligence depends on a multitude of genes, so significant technical and ethical hurdles must be overcome before such advancements can be responsibly applied.（しかし、この研究はまだ初期段階のものであり、また知能はとても多くの遺伝子に左右されるため、こうした進歩を責任をもって応用できるようになるまでには、技術面と倫理面の大きな壁を乗り越えなければならない）
+preliminary は「初期段階の、準備的な」、a multitude of ～ は「非常に多くの～」、hurdles は「障害、壁」です。
+本文と選択肢を対にすると、次のようになります。
+本文 enhanced their memory, which is an essential component of intelligence（知能に欠かせない要素である記憶力を高めた）→ 選択肢 affected one element of the mice's intelligence（マウスの知能の一つの要素に影響を与えた）
+本文 This research is preliminary（この研究は初期段階のものだ）＝ 選択肢 it is just an early step（初めの一歩にすぎない）
+本文 intelligence depends on a multitude of genes, so significant technical and ethical hurdles must be overcome（知能は多くの遺伝子に左右されるので、大きな壁を乗り越えなければならない）→ 選択肢 what will most likely be a complicated process（おそらく複雑な過程になるであろうもの）
+ですから2が正解です。
+この問題の型：言いかえ（preliminary ＝ an early step、essential component ＝ one element）
+【ほかの選択肢】
+1 本文には the gene had significantly enhanced their memory（この遺伝子はマウスの記憶力を大きく高めた）とあります。「記憶力に小さな影響しか与えなかった」は、本文の significantly（大きく）と合いません。
+3 FOXP2は、人間が言語の能力を身につけることに関係する遺伝子として紹介されていますが、マウスの実験で分かったのは迷路の道順を覚える速さ、つまり記憶力のことです。マウスどうしの意思の伝え方が以前に考えられていたより高度だった、とは書かれていません。
+4 本文で示されているのは、遺伝子を変えたマウスの記憶力が高まったことです。マウスがもともと、研究者たちの知らなかった種類の知能を持っているかもしれない、とは書かれていません。
+【覚えるポイント】
+・preliminary：「初期段階の、準備的な」。component：「要素」。
+・研究について分かることをたずねる設問では、結果を述べた文のあとの however（しかし）に注意します。そのあとに研究の限界（まだ初期段階、など）が書かれていることがあり、それが選択肢の後半の手がかりになります。

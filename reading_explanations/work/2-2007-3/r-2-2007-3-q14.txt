@@ -1,0 +1,25 @@
+---
+choices: process | standard | matter | value
+answerText: matter
+reviewed: yes
+---
+【正解】3 matter（as a matter of fact で「実は、実際」）
+【和訳】
+A：夕食はどこへ行こうか？　このあたりでいいレストランを一つも知らないんだ。
+B：心配しないで。いくつか知っているよ。実は、角に1軒あるんだ。そこへ行こう。
+（選択肢の意味）
+1 process：過程
+2 standard：基準、水準
+3 matter：事柄、問題
+4 value：価値
+【考え方】
+空所の前後は As a (　) of fact となっています。as a matter of fact は「実は、実際のところ」という決まった言い方（熟語）です。前に言ったことに、具体的な事実をつけ加えるときに使います。
+Bはまず I know several.（いくつか知っている）と言っています。そのあとで「実は、すぐそこの角に1軒ある」と具体的な情報を加えています。as a matter of fact の働きにぴったり合うので、正解は3です。
+fact（事実）という語とセットになるのは matter だけで、ほかの語では決まった言い方になりません。
+【ほかの選択肢】
+1 process は「過程、手順」です。as a process of fact という言い方はなく、意味が通りません。
+2 standard は「基準、水準」です。as a standard of fact という言い方はありません。
+4 value は「価値」です。as a value of fact という言い方はありません。
+【覚えるポイント】
+・as a matter of fact：「実は、実際のところ」。前の話に具体的な事実をつけ加えるときに使います。
+・on the corner：「角に」。

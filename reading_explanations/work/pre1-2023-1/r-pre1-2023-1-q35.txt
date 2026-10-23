@@ -1,0 +1,34 @@
+---
+choices: It is only likely to be effective when it is used together with rewards in order to reduce its negative effects. | Though it may succeed in producing better behavior in the short term, it can actually be harmful in the long term. | There are various new types of punishment that are far more effective than physical punishment. | Using some form of punishment is necessary for forcing students to obey teachers and respect their classmates.
+answerText: Though it may succeed in producing better behavior in the short term, it can actually be harmful in the long term.
+reviewed: yes
+---
+【正解】2 Though it may succeed in producing better behavior in the short term, it can actually be harmful in the long term.（罰は、短い期間ではよりよい行動を生み出すのに成功するかもしれないが、長い期間では実は害になることがある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What has psychological research shown about the use of punishment in schools?（心理学の研究は、学校で罰を使うことについて何を示したか。）
+1 It is only likely to be effective when it is used together with rewards in order to reduce its negative effects.（罰は、その悪い影響を減らすためにほうびといっしょに使われるときにだけ、効果がある可能性が高い。）
+2 Though it may succeed in producing better behavior in the short term, it can actually be harmful in the long term.（罰は、短い期間ではよりよい行動を生み出すのに成功するかもしれないが、長い期間では実は害になることがある。）
+3 There are various new types of punishment that are far more effective than physical punishment.（体罰よりもはるかに効果的な、さまざまな新しい種類の罰がある。）
+4 Using some form of punishment is necessary for forcing students to obey teachers and respect their classmates.（生徒に先生に従わせ、クラスメートを尊重させるには、何らかの形の罰を使うことが必要だ。）
+【考え方】
+まず見るところ：第1段落の Recent psychological studies, however, have determined that
+設問の psychological research（心理学の研究）は、第1段落の終わりの Recent psychological studies（最近の心理学の研究）にあたります。
+Recent psychological studies, however, have determined that as effective as punishment may be in bringing peace to the classroom temporarily, it can intensify the very behavior it is intended to correct when used continually over an extended period of time.（しかし最近の心理学の研究は、罰は、一時的に教室に落ち着きをもたらすことにはどれほど効果的であっても、長い期間にわたって続けて使われると、まさにそれが正そうとしている行動を強めてしまうことがあると明らかにした）
+as effective as punishment may be は「罰がどれほど効果的であっても」という意味です。intensify は「強める」、the very behavior it is intended to correct は「まさにそれ（罰）が正そうとしている行動」です。つまり、罰を長く使い続けると、悪い行動がかえって強まることがある、ということです。
+本文と選択肢を対にすると、次のようになります。
+本文 effective ... in bringing peace to the classroom temporarily（一時的に教室に落ち着きをもたらすことには効果的）→ 選択肢 may succeed in producing better behavior in the short term（短い期間ではよりよい行動を生み出すのに成功するかもしれない）
+本文 when used continually over an extended period of time（長い期間にわたって続けて使われると）＝ 選択肢 in the long term（長い期間では）
+本文 it can intensify the very behavior it is intended to correct（正そうとしている行動を強めてしまうことがある）→ 選択肢 it can actually be harmful（実は害になることがある）
+したがって、2が正解です。
+この問題の型：言いかえ（temporarily → in the short term、over an extended period of time → in the long term）／対比（短い期間⇔長い期間）
+【ほかの選択肢】
+1 本文に書かれていません。罰をほうびといっしょに使えば効果があるという研究の結果はありません。第2段落では、ほうびについても、生徒がただ先生を喜ばせようとするだけになるという問題が書かれています。
+3 本文に書かれていません。本文には physical punishment（体罰）という言葉は出てこず、新しい種類の罰と比べた話もありません。
+4 これは研究が示したことではありません。第1段落の These are designed to teach the students to follow teachers’ instructions and respect classmates.（これらは、生徒に、先生の指示に従い、クラスメートを尊重することを教えるために考えられたものだ）は、罰が何のために使われているかの説明です。研究が明らかにしたのは、むしろ罰を長く使い続けることの問題点です。
+【覚えるポイント】
+・intensify：「強める」。temporarily：「一時的に」。
+・as effective as ～ may be：「～がどれほど効果的であっても」。
+・研究が何を示したかをたずねる設問では、本文の Recent psychological studies, however, have determined that ～（しかし最近の心理学の研究は～を明らかにした）のような部分を探し、その that 以下を選択肢と照らし合わせると手がかりになります。

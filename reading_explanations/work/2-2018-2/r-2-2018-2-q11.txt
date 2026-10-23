@@ -1,0 +1,28 @@
+---
+choices: since | around | from | with
+answerText: from
+reviewed: yes
+---
+【正解】3 from（from time to time で「ときどき」）
+【和訳】
+（英文）
+Annette usually goes on vacation with her friends, but ［from］ time to time, she likes to travel alone.
+（訳）
+アネットはふだん友人たちと休暇の旅行に出かけますが、（ときどき）は一人で旅行するのが好きです。
+（選択肢の意味）
+1 since：～以来、～なので
+2 around：～の周りに、およそ
+3 from：～から
+4 with：～と一緒に、～を使って
+【考え方】
+空所のあとが time to time となっていることに注目します。from time to time は「ときどき、時おり」という意味の決まった言い方（熟語）です。
+文の前半は Annette usually goes on vacation with her friends（アネットはふだん友人たちと休暇に出かける）です。usually は「ふだん、たいてい」という意味です。そのあと but（しかし）でつながり、she likes to travel alone（一人で旅行するのが好きだ）と続きます。
+「ふだんは友人と行くが、ときどきは一人で旅行するのが好き」となれば、usually（ふだん）と from time to time（ときどき）が対になって、自然な文になります。ですから、3が正解です。
+【ほかの選択肢】
+1 since は「～以来、～なので」です。since time to time という言い方はなく、「ときどき」という意味になりません。
+2 around は「～の周りに、およそ」です。around time to time という言い方はありません。
+4 with は「～と一緒に、～を使って」です。with time to time という言い方もなく、文の意味が通りません。
+いずれも、time to time の前に置いて「ときどき」という意味を表す決まった言い方にはなりません。
+【覚えるポイント】
+・from time to time：「ときどき、時おり」。sometimes とほぼ同じ意味です。
+・usually ～, but from time to time ...：「ふだんは～だが、ときどきは…」と、いつものことと時々のことを比べる流れです。

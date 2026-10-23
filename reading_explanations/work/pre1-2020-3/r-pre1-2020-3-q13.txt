@@ -1,0 +1,31 @@
+---
+choices: scrap | propel | encounter | seal
+answerText: encounter
+reviewed: yes
+---
+【正解】3 encounter（出くわす、偶然出会う）
+【和訳】
+（英文）
+On the trail, hikers may occasionally ［encounter］ wild animals. However, it is important not to get too close to them or to offer them food.
+（訳）
+山道では、ハイカーがときどき野生の動物に（出くわす）ことがあります。しかし、動物に近づきすぎたり、えさを与えたりしないことが大切です。
+（選択肢の意味）
+1 scrap：捨てる、（計画などを）取りやめる
+2 propel：推し進める、前へ押し出す
+3 encounter：出くわす、偶然出会う
+4 seal：封をする、密閉する
+【考え方】
+まず見るところ：後半の文の it is important not to get too close to them or to offer them food
+it is important not to get too close to them or to offer them food（動物に近づきすぎたり、えさを与えたりしないことが大切だ）
+them は前の文の wild animals（野生の動物）を指します。「近づきすぎない」「えさを与えない」という注意は、野生の動物を目の前で見かけたときのものです。
+空所のある文は次のとおりです。
+On the trail, hikers may occasionally (　) wild animals.（山道では、ハイカーがときどき野生の動物に（　）かもしれない）
+trail は「（山や森の）小道」、occasionally は「ときどき、たまに」です。山道を歩いていて、たまたま野生の動物に会うことを表すのは encounter（出くわす、偶然出会う）です。ですから3が正解です。
+この問題の型：語の意味・組み合わせ（encounter wild animals）／指示語（them＝wild animals）
+【ほかの選択肢】
+1 scrap は「捨てる、取りやめる」です。「ハイカーがときどき野生の動物を捨てる」となり、意味が通りません。
+2 propel は「推し進める、前へ押し出す」です。「野生の動物を前へ押し出す」となり、意味が通りません。後半の「近づきすぎないことが大切」ともつながりません。
+4 seal は「封をする、密閉する」です。「野生の動物に封をする」となり、意味が通りません。
+【覚えるポイント】
+・encounter：「（偶然）出くわす、出会う」。encounter wild animals（野生の動物に出くわす）のように、思いがけず何かに会うときに使われます。
+・However（しかし）のあとに注意やアドバイスが書かれているときは、その前の文がどんな場面かを考えると、空所に入る動作の手がかりになります。

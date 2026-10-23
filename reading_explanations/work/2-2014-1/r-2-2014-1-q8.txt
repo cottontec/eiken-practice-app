@@ -1,0 +1,27 @@
+---
+choices: sniffed | collapsed | transported | interpreted
+answerText: interpreted
+reviewed: yes
+---
+【正解】4 interpreted（通訳した）
+【和訳】
+（英文）
+Some of the Italian businesspeople visiting Tina's factory could not speak English. Since Tina had studied Italian at college, she ［interpreted］ for them.
+（訳）
+ティナの工場を訪れていたイタリア人の実業家の何人かは、英語を話せませんでした。ティナは大学でイタリア語を勉強していたので、その人たちのために通訳をしました。
+（選択肢の意味）
+1 sniffed：においをかいだ
+2 collapsed：倒れた、崩れた
+3 transported：輸送した、運んだ
+4 interpreted：通訳した
+【考え方】
+1文目から、工場を訪れたイタリア人の中に、英語を話せない人がいたことが分かります。could not speak English は「英語を話せなかった」です。
+2文目は Since Tina had studied Italian at college（ティナは大学でイタリア語を勉強していたので）で始まります。since はここでは「～なので」という理由を表します。
+英語を話せない人がいて、ティナはイタリア語ができるのですから、ティナはイタリア語と英語の間で言葉をつないであげたと考えられます。interpret for ～ で「～のために通訳する」という意味です。正解は4です。
+【ほかの選択肢】
+1 sniffed は「においをかいだ」です。「彼らのためににおいをかいだ」となり、イタリア語を勉強していたという理由とつながりません。
+2 collapsed は「倒れた、崩れた」です。「彼らのために倒れた」となり、意味が通りません。
+3 transported は「輸送した、運んだ」です。何を運んだのかが書かれておらず、イタリア語を勉強していたことが理由になる行動でもないので、合いません。
+【覚えるポイント】
+・interpret：「通訳する」。interpreter は「通訳者」です。
+・since ～：文の初めに置いて「～なので」と理由を表すことがあります。

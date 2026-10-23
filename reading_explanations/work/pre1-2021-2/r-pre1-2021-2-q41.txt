@@ -1,0 +1,35 @@
+---
+choices: Local landowners felt betrayed by Jayavarman, causing many to refuse to support him when the Khmer empire was attacked. | It angered rural people who were forced to move to cities, so they attempted to remove Jayavarman from power. | It required the use of so many resources that it left the Khmer empire unable to deal with problems it faced in the future. | It proved valuable in diverting the attention of Khmer citizens away from the effects of frequent natural disasters in the region.
+answerText: It required the use of so many resources that it left the Khmer empire unable to deal with problems it faced in the future.
+reviewed: yes
+---
+【正解】3 It required the use of so many resources that it left the Khmer empire unable to deal with problems it faced in the future.（それにはとても多くの資源を使う必要があったので、クメール帝国は、のちに直面する問題に対処できなくなった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What was one result of Jayavarman’s temple building?（ジャヤーヴァルマンの寺院建設がもたらした結果の一つは何か。）
+1 Local landowners felt betrayed by Jayavarman, causing many to refuse to support him when the Khmer empire was attacked.（地方の地主たちがジャヤーヴァルマンに裏切られたと感じ、その結果、クメール帝国が攻撃されたとき、多くの地主が彼を支えるのをこばんだ。）
+2 It angered rural people who were forced to move to cities, so they attempted to remove Jayavarman from power.（それは、都市へ移り住むことを強いられた農村部の人々を怒らせたので、彼らはジャヤーヴァルマンを権力の座から引きずりおろそうとした。）
+3 It required the use of so many resources that it left the Khmer empire unable to deal with problems it faced in the future.（それにはとても多くの資源を使う必要があったので、クメール帝国は、のちに直面する問題に対処できなくなった。）
+4 It proved valuable in diverting the attention of Khmer citizens away from the effects of frequent natural disasters in the region.（それは、その地域でたびたび起こる自然災害の影響から、クメールの国民の注意をそらすのに役立った。）
+【考え方】
+まず見るところ：第4段落の the building projects used up a significant amount of the empire’s wealth と The highly centralized system lacked the wealth, agricultural labor force, and flexibility
+寺院建設の結果は、第4段落に書かれています。
+Meanwhile, construction of the temples required that tens of thousands of people relocate to cities, which meant there were far fewer people in rural areas to farm the land and produce food for the empire.（一方で、寺院の建設には、何万人もの人々が都市へ移り住むことが必要だった。それは、農村部で土地を耕し、帝国のための食料を生産する人が、はるかに少なくなるということだった）
+Furthermore, the building projects used up a significant amount of the empire’s wealth.（さらに、建設事業は帝国の富のかなりの部分を使い果たした）
+寺院の建設には、たくさんの人手とお金（富）が使われました。
+The highly centralized system lacked the wealth, agricultural labor force, and flexibility to overcome the effects of these natural disasters, leading to the empire’s eventual collapse.（高度に中央に集められた仕組みには、これらの自然災害の影響を乗りこえるための富も、農業の働き手も、柔軟さもなく、それが最終的な帝国の崩壊につながった）
+lacked は「欠いていた、なかった」、overcome は「乗りこえる」という意味です。のちの王たちの時代に干ばつやモンスーンが起きたとき、帝国は富や働き手が足りず、乗りこえられませんでした。
+本文と選択肢を対にすると、次のようになります。
+本文 used up a significant amount of the empire’s wealth ／ far fewer people in rural areas to farm the land（帝国の富のかなりの部分を使い果たした／農村部で土地を耕す人がはるかに少なくなった）→ 選択肢 required the use of so many resources（とても多くの資源を使う必要があった）
+本文 lacked the wealth, agricultural labor force, and flexibility to overcome the effects of these natural disasters（自然災害の影響を乗りこえるための富、農業の働き手、柔軟さがなかった）→ 選択肢 left the Khmer empire unable to deal with problems it faced in the future（帝国を、のちに直面する問題に対処できない状態にした）
+よって3が正解です。
+この問題の型：言いかえ（lacked ～ to overcome → unable to deal with）／因果（寺院建設で富と人手を使った→のちの自然災害を乗りこえられなかった）
+【ほかの選択肢】
+1 一部だけ本文に合います。地方の地主たちが depriving local landowners of power（力を奪われた）ことは書かれていますが、地主たちが裏切られたと感じたことや、帝国が攻撃されたときに支えるのをこばんだことは書かれていません。
+2 一部だけ本文に合います。何万人もの人々が都市へ移り住んだことは書かれていますが、農村部の人々が怒ったことや、ジャヤーヴァルマンを権力の座から引きずりおろそうとしたことは書かれていません。
+4 本文と内容がちがいます。自然災害は、寺院建設のあと、のちの王たちの時代に起きたもので、帝国はその影響を乗りこえられずに崩壊しました。寺院建設が自然災害から人々の注意をそらすのに役立ったという話はありません。
+【覚えるポイント】
+・resources：「資源（お金・人手・物など、何かをするのに使えるもの）」。本文の wealth（富）や labor force（働き手）をまとめた言い方として使われています。
+・「結果」をたずねる設問では、本文の Meanwhile（一方で）や Furthermore（さらに）で加えられていく要因を順に集め、最後の leading to ～（～につながった）までの流れをたどることが手がかりになります。

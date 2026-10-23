@@ -1,0 +1,25 @@
+---
+choices: color | taste | shape | number
+answerText: taste
+reviewed: yes
+---
+【正解】2 taste（味）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 color：色
+2 taste：味
+3 shape：形
+4 number：数
+【考え方】
+空所の文は Sternheimer claimed he could use this method to control both the size and the (　) of tomatoes.（ステルンハイマーは、この方法を使えば、トマトの大きさと（　）の両方を調節できると主張した）です。both A and B は「AとBの両方」という意味なので、トマトの「大きさ」ともう1つ、何を調節できると言ったのかを探します。
+次の文に答えがあります。when he played the notes to tomatoes, they grew two and a half times bigger than they normally did and that they became sweeter（その音をトマトに演奏して聞かせると、トマトはふつうに育つときの2.5倍の大きさに育ち、より甘くなった）とあります。
+grew two and a half times bigger（2.5倍の大きさに育った）が size（大きさ）に、became sweeter（より甘くなった）が「味」にあたります。甘さは味のことなので、taste（味）が入ります。正解は2です。
+【ほかの選択肢】
+1 color を入れると「トマトの大きさと色の両方を調節できる」となります。次の文では大きさと甘さの話はありますが、色が変わったという話はないので、合いません。
+3 shape を入れると「トマトの大きさと形の両方を調節できる」となります。次の文の bigger は大きさの話であり、形が変わったという話は本文にありません。
+4 number を入れると「トマトの大きさと数の両方を調節できる」となります。トマトの数が増えたという話は本文になく、次の文の sweeter（より甘い）とも合いません。
+【覚えるポイント】
+・both A and B：「AとBの両方」。
+・～ times bigger than ...：「…の～倍の大きさ」。two and a half times は「2.5倍」です。

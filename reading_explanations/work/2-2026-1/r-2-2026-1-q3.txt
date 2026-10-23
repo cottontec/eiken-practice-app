@@ -1,0 +1,32 @@
+---
+choices: glory | balance | difficulty | priority
+answerText: difficulty
+reviewed: yes
+---
+【正解】3 difficulty（困難、苦労）
+【和訳】
+（英文）
+Yuki only started studying Korean two years ago, but she can already read the newspaper without any ［difficulty］. Everyone is surprised by how quickly she has learned the language.
+（訳）
+ユキはたった2年前に韓国語の勉強を始めたばかりですが、もう何の（苦労）もなく新聞を読むことができます。みんな、彼女がどれほど速くその言語を身につけたかに驚いています。
+（選択肢の意味）
+1 glory：栄光、ほまれ
+2 balance：バランス、つり合い
+3 difficulty：困難、苦労
+4 priority：優先（ほかより先にすること）
+【考え方】
+まず見るところ：1文目の only started ～ two years ago, but she can already ～ と、2文目の how quickly
+1文目の前半と後半が but（しかし）でつながっています。
+Yuki only started studying Korean two years ago（ユキはたった2年前に韓国語の勉強を始めたばかりだ）
+but she can already read the newspaper（しかし、もう新聞を読むことができる）
+only（たった）と already（もう）から、「勉強を始めて間もないのに、もう上手だ」という話だと分かります。2文目もそれを支えています。
+Everyone is surprised by how quickly she has learned the language.（みんな、彼女がどれほど速くその言語を身につけたかに驚いている）
+without any ～ は「少しの～もなく」という意味です。difficulty（苦労）を入れると「何の苦労もなく新聞を読める」となり、上達が速いことを表せます。ですから3が正解です。
+この問題の型：熟語・決まった形（without any difficulty）
+【ほかの選択肢】
+1 glory は「栄光、ほまれ」です。「何の栄光もなく新聞を読める」では、上達が速いことを表せず、意味が通りません。
+2 balance は「バランス、つり合い」です。「何のバランスもなく新聞を読める」となり、新聞を読む話として意味が通りません。
+4 priority は「優先（ほかより先にすること）」です。「何の優先もなく新聞を読める」となり、文の意味が通りません。
+【覚えるポイント】
+・without any difficulty：「何の苦労もなく、少しも困らずに」。
+・only（たった）と already（もう）が but でつながっているときは、「短い期間なのに、もうよくできる」という流れになることが多いので、その流れに合う語を選ぶ手がかりになります。

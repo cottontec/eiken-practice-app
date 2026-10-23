@@ -1,0 +1,26 @@
+---
+choices: visual | physical | artificial | cultural
+answerText: physical
+reviewed: yes
+---
+【正解】2 physical（体の、身体の）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 visual：視覚の、目で見る
+2 physical：体の、身体の
+3 artificial：人工の
+4 cultural：文化の
+【考え方】
+空所は第2段落の It also controls other (　) functions.（それはまた、ほかの～機能も調節している）にあります。It は、前の文の This clock、つまり体内時計を指します。function は「機能、働き」という意味です。
+前の文では、体内時計が tells our bodies when it is time to sleep or to wake up（いつ眠る時間で、いつ起きる時間かを私たちの体に伝える）と書かれています。眠ることや起きることは、体の働きです。other（ほかの）と言っているので、空所にはそれと同じ仲間の「体の」働きが入ると考えられます。
+空所のあとの文が具体例になっています。Blood pressure and body temperature, for example, rise and fall in cycles.（たとえば、血圧や体温は一定の周期で上がったり下がったりする）とあります。血圧も体温も体の働きです。
+physical は「体の、身体の」という意味で、other physical functions で「ほかの体の機能」となります。したがって2が正解です。
+【ほかの選択肢】
+1 visual は「視覚の、目で見る」です。入れると「ほかの視覚の機能」となりますが、直後の例は血圧と体温で、目で見ることの働きではありません。
+3 artificial は「人工の」です。体内時計が調節しているのは、血圧や体温のような体にもともとある働きで、人が作った人工の機能ではありません。
+4 cultural は「文化の」です。血圧や体温は文化に関係する働きではないので、合いません。
+【覚えるポイント】
+・physical：「体の、身体の」。physical functions で「体の機能」。
+・rise and fall：「上がったり下がったりする」。in cycles は「一定の周期で」。

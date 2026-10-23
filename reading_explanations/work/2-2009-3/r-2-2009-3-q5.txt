@@ -1,0 +1,24 @@
+---
+choices: judgment | hesitation | confidence | contribution
+answerText: contribution
+reviewed: yes
+---
+【正解】4 contribution（貢献、役に立つ働き）
+【和訳】
+ジェンキンズさんが退職したとき、社長は、長年にわたって彼が会社にしてくれた大きな貢献に対して感謝しました。
+（選択肢の意味）
+1 judgment：判断
+2 hesitation：ためらい
+3 confidence：自信、信頼
+4 contribution：貢献
+【考え方】
+空所のうしろの he had made to the company over the years は「彼が長年にわたって会社に対してしてきた」という意味で、前の名詞（空所の語）を説明しています。つまり「長年、会社に対して彼がしてきた（　）」となります。
+空所の語は、make … to ～（～に対して…をする）の「…」の部分にあたります。make a contribution to ～ で「～に貢献する」という決まった言い方があり、ここではその contribution を the great contribution he had made to the company（彼が会社にしてきた大きな貢献）という形で使っています。
+また、社長が thanked him for ～（～に対して彼に感謝した）と言っているので、空所には感謝されるようなよいことが入るはずです。「長年の会社への大きな貢献」なら、退職する人への感謝の言葉として自然です。正解は4です。
+【ほかの選択肢】
+1 judgment は「判断」です。make a judgment で「判断をする」とは言いますが、「会社に対して判断をした」という言い方はふつうしません。長年の働きへの感謝としても意味がはっきりしません。
+2 hesitation は「ためらい」です。ためらいは感謝される理由にならず、意味が通りません。
+3 confidence は「自信、信頼」です。make a confidence to ～ という言い方はなく、文の形に合いません。
+【覚えるポイント】
+・make a contribution to ～：「～に貢献する」。動詞 contribute to ～ も同じ意味です。
+・thank ＋ 人 ＋ for ～：「～のことで人に感謝する」。for のあとに感謝する理由がきます。

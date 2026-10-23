@@ -1,0 +1,34 @@
+---
+choices: rhyme | justice | legacy | majority
+answerText: legacy
+reviewed: yes
+---
+【正解】3 legacy（遺産）
+【和訳】
+（英文）
+When the pop singer died, she left her favorite charity a ［legacy］ of over $10 million. “We are so grateful for her generosity,” said a charity spokesperson.
+（訳）
+そのポップ歌手は亡くなったとき、お気に入りの慈善団体に、1,000万ドルを超える（遺産）を残した。「私たちは、彼女の寛大さにとても感謝しています」と、その慈善団体の広報担当者は言った。
+（選択肢の意味）
+1 rhyme：韻（詩で、終わりの音をそろえること）、詩
+2 justice：正義、公正
+3 legacy：遺産（亡くなった人が残すお金や財産）
+4 majority：大多数、過半数
+【考え方】
+まず見るところ：空所の前の When the pop singer died, she left と、空所のあとの of over $10 million
+最初に、空所のある文を確かめます。
+When the pop singer died, she left her favorite charity a ( ) of over $10 million.（そのポップ歌手は亡くなったとき、お気に入りの慈善団体に、1,000万ドルを超える（　）を残した）
+charity は「慈善団体（困っている人を助ける活動をする団体）」です。leave A B は「AにBを残す」という形です。歌手が亡くなったときに、お金を団体に残したという内容です。
+次に、あとの文を見ます。
+“We are so grateful for her generosity,” said a charity spokesperson.（「私たちは、彼女の寛大さにとても感謝しています」と、その慈善団体の広報担当者は言った）
+generosity は「寛大さ、気前のよさ」です。団体が大きなお金を受け取って感謝していることが分かります。
+legacy は「遺産（亡くなった人が残すお金や財産）」なので、3が正解です。
+この問題の型：語の意味・組み合わせ（died, left ～ a legacy）
+【ほかの選択肢】
+1 rhyme は「韻、詩」です。「1,000万ドルを超える韻」では意味が通りません。
+2 justice は「正義、公正」です。「1,000万ドルを超える正義を残した」では意味が通りません。
+4 majority は「大多数、過半数」です。majority は「集団の中の半分より多い部分」を表す語で、「1,000万ドルを超える過半数を残した」では、何の過半数なのかが分からず、意味が通りません。
+【覚えるポイント】
+・legacy：「遺産（亡くなった人が残すお金や財産）」。
+・leave A B：「AにBを残す」。
+・died（亡くなった）と left（残した）が同じ文にあり、金額が続くときは、亡くなった人が残すお金を表す語が入ることが多いので、文の中の出来事の組み合わせが手がかりになります。

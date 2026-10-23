@@ -1,0 +1,35 @@
+---
+choices: Increasing levels of wealth in rural areas led to more families wanting their children to receive a college education. | Wealthy landowners built colleges as a way to improve their public image and ensure that they would be remembered after their death. | Europeans living in the United States wanted colleges that would provide the same level of education that was available in their home countries. | Building colleges was a way for people who owned land in rural areas to increase the value of their land and attract more buyers.
+answerText: Building colleges was a way for people who owned land in rural areas to increase the value of their land and attract more buyers.
+reviewed: yes
+---
+【正解】4 Building colleges was a way for people who owned land in rural areas to increase the value of their land and attract more buyers.（大学を建てることは、農村部に土地を持っている人々にとって、土地の価値を上げ、より多くの買い手を引きつけるための方法だった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Why were so many colleges built in the United States in the nineteenth century?（19世紀のアメリカ合衆国では、なぜそれほど多くの大学が建てられたのか。）
+1 Increasing levels of wealth in rural areas led to more families wanting their children to receive a college education.（農村部で富の水準が上がったことで、子どもに大学教育を受けさせたいと思う家庭が増えた。）
+2 Wealthy landowners built colleges as a way to improve their public image and ensure that they would be remembered after their death.（裕福な土地所有者たちが、世間でのイメージをよくし、死後も確実に自分のことを覚えていてもらうための方法として大学を建てた。）
+3 Europeans living in the United States wanted colleges that would provide the same level of education that was available in their home countries.（アメリカ合衆国に住むヨーロッパの人々が、母国で受けられたのと同じ水準の教育を提供する大学を望んだ。）
+4 Building colleges was a way for people who owned land in rural areas to increase the value of their land and attract more buyers.（大学を建てることは、農村部に土地を持っている人々にとって、土地の価値を上げ、より多くの買い手を引きつけるための方法だった。）
+【考え方】
+まず見るところ：第1段落の landowners needed ways to attract buyers と、Doing this made the land in their area more desirable
+第1段落では、まず農村部の土地所有者の悩みが書かれています。
+Rural populations at the time were small, so landowners needed ways to attract buyers.（当時、農村部の人口は少なかったので、土地所有者たちには買い手を引きつける方法が必要だった）
+One method was to keep prices low, but landowners also turned to another strategy: building colleges.（方法の一つは価格を低くしておくことだったが、土地所有者たちは別の戦略にも頼った。大学を建てることである）
+Doing this made the land in their area more desirable, as colleges were centers of culture and learning.（こうすることで、彼らの地域の土地はより望ましいものになった。大学は文化と学問の中心だったからである）
+土地所有者は、土地を買ってもらうために大学を建てたのです。desirable は「望ましい（ほしいと思われる）」という意味です。
+本文と選択肢4を対にすると、次のようになります。
+本文 rural landowners（農村部の土地所有者）＝ 選択肢 people who owned land in rural areas（農村部に土地を持っている人々）
+本文 needed ways to attract buyers（買い手を引きつける方法が必要だった）→ 選択肢 attract more buyers（より多くの買い手を引きつける）
+本文 made the land in their area more desirable（地域の土地をより望ましいものにした）→ 選択肢 increase the value of their land（土地の価値を上げる）
+ほしいと思う人が増えれば土地の価値が上がると考えられるので、「より望ましくする」は「価値を上げる」とまとめられます。ですから4が正解です。
+この問題の型：言いかえ（made the land more desirable → increase the value of their land）／因果（買い手が必要→大学を建てる）
+【ほかの選択肢】
+1 本文に書かれていません。第1段落にあるのは、農村部の人口が少なかったことと、土地所有者が買い手を必要としていたことです。農村部で富が増えたことや、子どもに大学教育を受けさせたい家庭が増えたことは書かれていません。
+2 本文に書かれていません。土地所有者が大学を建てた目的は、買い手を引きつけて土地を売ることで、世間でのイメージをよくすることや、死後に覚えていてもらうことではありません。
+3 本文に書かれていません。第1段落でヨーロッパが出てくるのは、1880年までにアメリカの大学の数がヨーロッパの5倍になったという数の比較だけです。アメリカに住むヨーロッパの人々が大学を望んだという話はありません。
+【覚えるポイント】
+・「なぜ～したのか」という設問では、本文の so（だから）や strategy（戦略）、as（～なので）などの前後にある目的や理由の部分を探すと手がかりになります。
+・desirable（望ましい、ほしいと思われる）のような語は、選択肢で increase the value（価値を上げる）のように、結果を表す言い方に言いかえられることがあります。

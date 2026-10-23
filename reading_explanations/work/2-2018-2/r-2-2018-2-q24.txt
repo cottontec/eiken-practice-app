@@ -1,0 +1,26 @@
+---
+choices: the most difficult | more useful than smell | the most important | more annoying than taste
+answerText: the most important
+reviewed: yes
+---
+【正解】3 the most important（最も重要な）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 the most difficult（最も難しい）
+2 more useful than smell（嗅覚よりも役に立つ）
+3 the most important（最も重要な）
+4 more annoying than taste（味覚よりもわずらわしい）
+【考え方】
+空所は第1段落の Of these, people tend to think hearing and sight are（24）. です。Of these は「これら（5つの感覚）のうちで」、tend to ～ は「～する傾向がある」という意味です。「5つの感覚のうち、人々は聴覚と視覚が（24）だと考える傾向がある」となります。
+次の文が大きな手がかりです。However, some experts believe touch is just as necessary for human communication, relationships, and health.（しかし、一部の専門家は、触覚は人間のコミュニケーション、人間関係、健康にとって、ちょうど同じくらい必要だと考えている）とあります。
+just as necessary は「（～と）ちょうど同じくらい必要だ」という意味です。何と同じくらいかというと、前の文で人々が大切だと考えている聴覚と視覚です。However（しかし）でつながっているので、「人々は聴覚と視覚が一番大事だと思っている。しかし、触覚は（それらと）同じくらい必要だ」という流れだと分かります。
+空所には「大切さ」を表す語が入り、Of these（5つのうちで）とも合う「最も～」の形が自然です。3 the most important を入れると「5つのうち、聴覚と視覚が最も重要だと考える」となり、次の文とつながります。ですから、3が正解です。
+【ほかの選択肢】
+1 「（聴覚と視覚が）最も難しい」では、次の文とつながりません。次の文の just as necessary（同じくらい必要だ）は、大切さについて聴覚・視覚と触覚を比べる言い方です。前の文が「難しさ」の話だと、何と同じくらい必要なのかが分からなくなります。
+2 「（聴覚と視覚が）嗅覚よりも役に立つ」は、嗅覚とだけ比べた内容です。次の文は、触覚が聴覚や視覚と同じくらい必要だと述べて、人々の考えに反論しています。そのためには、前の文で聴覚と視覚がほかの感覚の中で一番大切だと考えられていることが必要で、嗅覚との比べだけでは話がつながりません。
+4 「（聴覚と視覚が）味覚よりもわずらわしい」は、聴覚と視覚をよくないものとする内容です。次の文の「触覚は（聴覚や視覚と）同じくらい必要だ」とは話がかみ合いません。
+【覚えるポイント】
+・just as ～：「（…と）ちょうど同じくらい～」。何と比べているのかを前の文から確かめましょう。
+・Of these, ～：「これらのうちで～」。このあとには、the most ～（最も～）のような形がよく来ます。

@@ -1,0 +1,30 @@
+---
+choices: he should return to the store when a manager was available. | he could not exchange his sweater for one of the same brand. | he might not be able to find a sweater in the same color in the store. | he would have to pay more money to get another Joseph Lamont sweater.
+answerText: he could not exchange his sweater for one of the same brand.
+reviewed: yes
+---
+【正解】2 he could not exchange his sweater for one of the same brand.（セーターを同じブランドのものと交換することはできない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：店員はリチャード・ヘンリーに（　）と言った。
+1 he should return to the store when a manager was available.（責任者がいるときに、店に戻ってくるべきだ）
+2 he could not exchange his sweater for one of the same brand.（セーターを同じブランドのものと交換することはできない）
+3 he might not be able to find a sweater in the same color in the store.（店では同じ色のセーターが見つからないかもしれない）
+4 he would have to pay more money to get another Joseph Lamont sweater.（別のジョゼフ・ラモントのセーターを手に入れるには、もっとお金を払わなければならない）
+【考え方】
+店員が言ったことは、第2段落に書かれています。
+まず First, she told me that the store had sold out of Joseph Lamont sweaters, so she could not replace mine.（まず彼女は、店ではジョゼフ・ラモントのセーターが売り切れたので、私のセーターを取りかえることはできないと言った）とあります。sell out of ～ は「～を売り切る」、replace は「取りかえる」、mine は「私のもの（私のセーター）」です。
+ジョゼフ・ラモントは、リチャードが買ったセーターのブランドです。それが売り切れているので、同じブランドのセーターとは交換できない、ということです。
+本文と選択肢は次のように対応しています。
+本文 she could not replace mine（私のセーターを取りかえられない）＝ 選択肢 he could not exchange his sweater（彼はセーターを交換できない）
+本文 the store had sold out of Joseph Lamont sweaters（ジョゼフ・ラモントのセーターが売り切れた）＝ 選択肢 for one of the same brand（同じブランドのものと）
+正解は2です。
+【ほかの選択肢】
+1 店員は The sales assistant told me none were available（対応できる責任者はだれもいないと言った）とあり、そのあとターナーさんの名前とメールアドレスを教えています。「責任者がいるときに戻ってくるべきだ」とは言っていません。
+3 店員が言ったのは、ジョゼフ・ラモントのセーターが売り切れたということです。色の話はしておらず、「見つからないかもしれない」というあいまいな言い方でもありません。
+4 差額を払わなければならないと言われたのは、a more expensive one of a different brand（別のブランドのもっと高いセーター）と交換する場合です。ジョゼフ・ラモントのセーターは売り切れているので、ブランドが違います。
+【覚えるポイント】
+・sell out of ～：「～を売り切る」。had sold out of ～ で「～が売り切れていた」です。
+・exchange A for B：「AをBと交換する」。

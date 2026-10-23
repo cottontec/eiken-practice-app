@@ -1,0 +1,35 @@
+---
+choices: American diplomats still continue to worry that fighting will break out between Honduras and El Salvador again. | The terrible effects of the Soccer War made Honduras and El Salvador realize that their actions leading up to the war were wrong. | A mistaken belief about the Soccer War meant that its real causes were not recognized, resulting in another conflict. | The US government's policies caused many Central American nations to cut off relations, making the conflict in the region worse.
+answerText: A mistaken belief about the Soccer War meant that its real causes were not recognized, resulting in another conflict.
+reviewed: yes
+---
+【正解】3 A mistaken belief about the Soccer War meant that its real causes were not recognized, resulting in another conflict.（サッカー戦争についての誤った思いこみのせいで、その本当の原因が認識されず、その結果、別の紛争が起きた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What does the author of the passage suggest in the final paragraph?（筆者は最後の段落で何をほのめかしているか。）
+1 American diplomats still continue to worry that fighting will break out between Honduras and El Salvador again.（アメリカの外交官たちは今もなお、ホンジュラスとエルサルバドルの間で再び戦いが起こるのではないかと心配し続けている。）
+2 The terrible effects of the Soccer War made Honduras and El Salvador realize that their actions leading up to the war were wrong.（サッカー戦争のひどい影響によって、ホンジュラスとエルサルバドルは、戦争に至るまでの自分たちの行動がまちがっていたと気づいた。）
+3 A mistaken belief about the Soccer War meant that its real causes were not recognized, resulting in another conflict.（サッカー戦争についての誤った思いこみのせいで、その本当の原因が認識されず、その結果、別の紛争が起きた。）
+4 The US government's policies caused many Central American nations to cut off relations, making the conflict in the region worse.（アメリカ政府の政策のせいで、中央アメリカの多くの国が国交を断ち、その地域の紛争が悪化した。）
+【考え方】
+まず見るところ：第4段落の the term Soccer War was misleading、the inaccurate belief that a sporting event was behind the conflict、remained unresolved と a civil war in El Salvador
+最後の段落では、まず「サッカー戦争」という呼び名が誤解を招いたことが書かれています。
+the inaccurate belief that a sporting event was behind the conflict led the US government to overlook its seriousness（スポーツの試合がこの紛争の裏にあるという不正確な思いこみのせいで、アメリカ政府はその深刻さを見過ごした）
+inaccurate は「不正確な」、overlook は「見過ごす」です。続いて、本当の原因がどうなったかが書かれています。
+Issues such as land ownership, which were the true origin of the conflict, remained unresolved. This led to continued political and social instability and, ultimately, a civil war in El Salvador in the following decades.（土地の所有のような、この紛争の本当の原因であった問題は、解決されないままだった。このことが、政治的・社会的な不安定さが続くことにつながり、最終的には、その後の数十年の間にエルサルバドルで内戦が起きることにつながった）
+civil war は「内戦（1つの国の中で起こる戦争）」です。
+本文と選択肢を対にすると、次のようになります。
+本文 the inaccurate belief（不正確な思いこみ）＝ 選択肢 A mistaken belief（誤った思いこみ）
+本文 led the US government to overlook its seriousness、the true origin ～ remained unresolved（深刻さが見過ごされ、本当の原因は解決されないままだった）→ 読み取れること：its real causes were not recognized（本当の原因が認識されなかった）
+本文 a civil war in El Salvador（エルサルバドルでの内戦）→ 選択肢 another conflict（別の紛争）
+筆者は、誤った呼び名による思いこみが、本当の原因を見えにくくし、のちの内戦につながったと示しています。ですから3が正解です。
+この問題の型：推論（思いこみ → 深刻さの見過ごし・原因の未解決 → 内戦）、言いかえ
+【ほかの選択肢】
+1 本文に書かれていません。本文に出てくるアメリカの外交官の話は、当時アメリカ政府が紛争の深刻さを見過ごしたということで、外交官たちが今も再び戦いが起こると心配しているという話はありません。
+2 本文に書かれていません。両国が自分たちの行動をまちがっていたと気づいたという話は出てきません。本文には、紛争の本当の原因は解決されないままだったと書かれています。
+4 本文に書かれていません。アメリカの政策のせいで多くの国が国交を断ったという話は出てきません。本文で国交を断ったのはエルサルバドル（ホンジュラスとの国交）で、アメリカは戦争に関わらないことを選んだと書かれています。
+【覚えるポイント】
+・misleading：「誤解を招く」。inaccurate（不正確な）、mistaken（誤った）も、同じように「正しくない」ことを表す語です。
+・筆者が「ほのめかしていること」をたずねる設問では、段落の最後の This led to ～（このことが～につながった）のような結果を表す文までたどり、「原因 → 結果」の流れ全体をまとめた選択肢を選ぶのが手がかりになります。

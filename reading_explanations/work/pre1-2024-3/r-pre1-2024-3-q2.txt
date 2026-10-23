@@ -1,0 +1,30 @@
+---
+choices: appliance | generosity | clearance | complexity
+answerText: complexity
+reviewed: yes
+---
+【正解】4 complexity（複雑さ）
+【和訳】
+（英文）
+Tom is very bright for his age. He is able to do math problems of some ［complexity］ although his classmates are still learning the basics.
+（訳）
+トムは年齢のわりにとても頭がよい。クラスメートたちがまだ基礎を学んでいるのに、彼はかなり複雑な数学の問題を解くことができる。
+（選択肢の意味）
+1 appliance：器具、電化製品
+2 generosity：気前のよさ、心の広さ
+3 clearance：片づけ、取りのぞくこと、（在庫の）一掃
+4 complexity：複雑さ
+【考え方】
+まず見るところ：前の文の very bright for his age と、空所のある文の although his classmates are still learning the basics
+前の文に Tom is very bright for his age.（トムは年齢のわりにとても頭がよい）とあります。空所のある文は、その頭のよさを具体的に説明しています。
+He is able to do math problems of some ( ) although his classmates are still learning the basics.（クラスメートたちがまだ基礎を学んでいるのに、彼は（　）の数学の問題を解くことができる）
+although（～だけれども、～なのに）があるので、「クラスメートは基礎を学んでいる」と「トムは（　）の問題が解ける」が比べられています。基礎と比べられるのは、むずかしくて込み入った問題です。
+of some complexity は「かなりの複雑さを持った」、つまり「かなり複雑な」という意味になります。of と性質を表す名詞の組み合わせは、前の名詞（ここでは math problems）がどんな性質を持つかを表します。ですから、4が正解です。
+この問題の型：対比（クラスメートは基礎 ⇔ トムは複雑な問題）
+【ほかの選択肢】
+1 appliance は「器具、電化製品」です。「かなりの電化製品の数学の問題」となり、意味が通りません。
+2 generosity は「気前のよさ」です。数学の問題が気前がよいということはなく、意味が通りません。
+3 clearance は「片づけ、取りのぞくこと」です。「かなりの片づけの数学の問題」となり、トムの頭のよさを説明する文になりません。
+【覚えるポイント】
+・complexity：「複雑さ」。形容詞 complex（複雑な）の名詞の形です。math problems of some complexity で「かなり複雑な数学の問題」です。
+・although の文では、前半と後半が比べられています。片方が「基礎」なら、もう片方には反対の「むずかしい、複雑な」という内容が来る、と考える手がかりになります。

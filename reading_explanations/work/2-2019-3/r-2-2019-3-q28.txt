@@ -1,0 +1,31 @@
+---
+choices: It is sent after the username is changed. | It needs to be at least eight characters long. | Mr. Walters should call the bank to get one. | Mr. Walters needs one to fix his account.
+answerText: Mr. Walters needs one to fix his account.
+reviewed: yes
+---
+【正解】4 Mr. Walters needs one to fix his account.（ウォルターズさんは、口座を直すためにそれが必要だ。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ジェナ・スミスは、再設定コードについて何と言っていますか。
+1 It is sent after the username is changed.（それは、ユーザー名が変更されたあとに送られる。）
+2 It needs to be at least eight characters long.（それは、8文字以上の長さでなければならない。）
+3 Mr. Walters should call the bank to get one.（ウォルターズさんは、それを手に入れるために銀行に電話するべきだ。）
+4 Mr. Walters needs one to fix his account.（ウォルターズさんは、口座を直すためにそれが必要だ。）
+【考え方】
+reset code（再設定コード）は第2段落に出てきます。その前の第1段落から、流れを順に確かめます。
+・第1段落：To fix this, you will have to reset your password.（これを直すには、パスワードを再設定していただく必要があります）　this は、口座がロックされていることを指します。
+・第2段落：please reset your password by clicking on this link（このリンクをクリックしてパスワードを再設定してください）
+・第2段落：From there, you need to get a reset code.（そこから、再設定コードを手に入れる必要があります）
+・第2段落：enter your username and the reset code, and set a new password（ユーザー名と再設定コードを入力し、新しいパスワードを設定してください）
+つまり、ロックされた口座を直すにはパスワードの再設定が必要で、その再設定には再設定コードが必要です。本文と選択肢を対にすると、次のようになります。
+本文 To fix this, you will have to reset your password ＋ you need to get a reset code → 選択肢 Mr. Walters needs one to fix his account
+2つの文を合わせると、「口座を直すために再設定コードが必要」だと読み取れます。選択肢の one は a reset code を指しています。4が正解です。
+【ほかの選択肢】
+1 コードが送られるのは click "send code,"（「コードを送信」をクリックする）としたときで、it will be sent to you in an e-mail（Eメールで送られる）と書かれています。ユーザー名は、コードと一緒に enter（入力する）ものであり、変更するとは書かれていません。
+2 本文の at least eight characters long（8文字以上）は、passwords（パスワード）について書かれた条件です。再設定コードについての条件ではありません。
+3 コードは「コードを送信」をクリックするとEメールで届くと書かれていて、電話で手に入れるとは書かれていません。本文でカスタマーサポートセンターへの連絡や電話が出てくるのは、ほかのだれかがアクセスしようとしたと思う場合と、それでもまだ問題がある場合です。
+【覚えるポイント】
+・To fix this, ～：「これを直すには、～」。to ～ は「～するために」と目的を表します。
+・数字の条件（at least eight characters など）は、何についての条件なのかを確かめることが大切です。

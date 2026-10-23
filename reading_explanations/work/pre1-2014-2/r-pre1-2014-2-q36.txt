@@ -1,0 +1,32 @@
+---
+choices: should be encouraged to improve their athletic ability by joining organized sports programs. | should be able to enjoy electronic entertainment such as video games as a reward for doing well on tests. | need the help of teachers if they are to gain the confidence necessary to perform well in extracurricular activities. | must be allowed to encounter unplanned situations so that they can learn how to handle them.
+answerText: must be allowed to encounter unplanned situations so that they can learn how to handle them.
+reviewed: yes
+---
+【正解】4 must be allowed to encounter unplanned situations so that they can learn how to handle them.（〔子どもたちは〕計画されていない状況への対処のしかたを学べるように、そうした状況に出会うことを許されなければならない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Bob Livingstone suggests that children（ボブ・リビングストンは、子どもたちは～と示唆している。）
+1 should be encouraged to improve their athletic ability by joining organized sports programs.（組織されたスポーツのプログラムに参加して、運動能力を高めるようにすすめられるべきだ。）
+2 should be able to enjoy electronic entertainment such as video games as a reward for doing well on tests.（テストでよい成績をとったごほうびとして、テレビゲームのような電子機器の娯楽を楽しめるようにすべきだ。）
+3 need the help of teachers if they are to gain the confidence necessary to perform well in extracurricular activities.（課外活動でよい成果を上げるのに必要な自信を身につけようとするなら、先生の助けが必要だ。）
+4 must be allowed to encounter unplanned situations so that they can learn how to handle them.（計画されていない状況への対処のしかたを学べるように、そうした状況に出会うことを許されなければならない。）
+【考え方】
+まず見るところ：第2段落の最後の文 According to psychotherapist Bob Livingstone, ～
+リビングストンの意見は、第2段落の最後の文に書かれています。
+According to psychotherapist Bob Livingstone, the combination of a test-focused school curriculum and an overly structured after-school life "prevents [children] from developing important survival skills like thinking on their feet and responding capably in unexpected circumstances."（心理療法士のボブ・リビングストンによれば、テスト中心の学校のカリキュラムと、予定で決められすぎた放課後の生活が組み合わさることで、「（子どもたちが）その場ですばやく考えたり、思いがけない状況でうまく対応したりといった、生きていくうえで重要な力を身につけることが妨げられている」という）
+psychotherapist は「心理療法士（心の悩みを、話を聞くなどして治す専門家）」、overly structured は「予定や内容が決められすぎた」、prevent A from ～ing は「Aが～するのを妨げる」、think on one's feet は「その場ですばやく考える」という意味です。
+リビングストンは、何もかも決められた生活のせいで、子どもたちが「思いがけない状況でうまく対応する力」を身につけられない、と問題にしています。ここから、子どもたちには、予定どおりではない状況を自分で経験する機会が必要だ、と彼が考えていることが読み取れます。
+本文と選択肢を対にすると、次のようになります。
+本文 an overly structured after-school life prevents children from developing ... responding capably in unexpected circumstances（予定で決められすぎた生活が、思いがけない状況でうまく対応する力を身につけるのを妨げている）→ 読み取れること：選択肢 must be allowed to encounter unplanned situations so that they can learn how to handle them（計画されていない状況への対処のしかたを学べるように、そうした状況に出会うことを許されなければならない）
+本文の unexpected circumstances（思いがけない状況）が、選択肢の unplanned situations（計画されていない状況）に当たります。ですから4が正解です。
+この問題の型：推論（決められすぎた生活が力を妨げる→計画されていない状況が必要）
+【ほかの選択肢】
+1 本文と合いません。第2段落では、サッカーの練習のような structured, adult-supervised activities（内容が決められていて大人が監督する活動）が、問題のある放課後の生活の例として挙げられています。リビングストンは、こうした決められすぎた生活を問題にしているので、組織されたスポーツをすすめているとは言えません。
+2 本文に書かれていません。テレビゲームは、親が子どもに何かをさせておくために頼っているものとして出てくるだけで、テストのごほうびにすべきだという話はありません。
+3 本文に書かれていません。リビングストンは、先生の助けや、課外活動で成果を上げるための自信については述べていません。
+【覚えるポイント】
+・prevent A from ～ing：「Aが～するのを妨げる」。何が何を妨げているのかをつかむと、その人の考えが分かります。
+・ある人が「～が…を妨げている」と問題点を言っているときは、「その原因を取り除くべきだ」という考えが読み取れることが多く、設問の suggest（示唆する）の答えを考える手がかりになります。

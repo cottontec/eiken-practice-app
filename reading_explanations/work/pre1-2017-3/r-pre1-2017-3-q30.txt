@@ -1,0 +1,30 @@
+---
+choices: In spite of this | As a result | Furthermore | Similarly
+answerText: In spite of this
+reviewed: yes
+---
+【正解】1 In spite of this（それにもかかわらず）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 In spite of this（それにもかかわらず）
+2 As a result（その結果）
+3 Furthermore（さらに）
+4 Similarly（同じように）
+【考え方】
+まず見るところ：第2段落の空所の前の a symbol of India's economic rise と、空所の後ろの Gurugram lacks reliable basic public services
+空所の前の文では、グルグラムのよい面が書かれています。
+Full of luxury homes and apartment buildings, huge office towers, and fancy shopping malls, it has become a symbol of India's economic rise.（豪華な住宅や集合住宅、巨大なオフィスビル、高級なショッピングモールでいっぱいで、そこはインドの経済的な発展の象徴になっている）
+symbol は「象徴（ある考えや様子を代表して表すもの）」です。
+空所の後ろでは、反対に問題点が書かれています。
+Gurugram lacks reliable basic public services such as electricity and a sewage system, and there are shortages of schools and police（グルグラムには、電気や下水道のような、信頼できる基本的な公共サービスがなく、学校や警察も不足している）
+sewage system は「下水道（使ったあとのよごれた水を流すしくみ）」、shortage は「不足」です。経済が発展した豊かな地域なのに、基本的なサービスが足りない、という予想と反対の内容になっています。前の内容から予想されることと反対のことを述べるときに使う In spite of this（それにもかかわらず）が合うので、1が正解です。
+この問題の型：対比（経済発展の象徴⇔基本的な公共サービスがない）
+【ほかの選択肢】
+2 As a result（その結果）は、前の内容が原因となって後ろの結果が起きたときに使います。豪華な建物が多いことが原因で公共サービスがなくなった、とは書かれていないので、つながりません。
+3 Furthermore（さらに）は、前と同じ方向の内容を付け加えるときに使います。前はよい面、後ろは問題点で、方向が反対なので合いません。
+4 Similarly（同じように）は、前と似た内容を並べるときに使います。前後の内容は似ておらず、反対の関係なので合いません。
+【覚えるポイント】
+・In spite of this：「それにもかかわらず」。this が指す前の内容から予想されることと反対のことを述べるときに使います。
+・つなぎの言葉の空所では、前の文が「よい面」、後ろの文が「問題点」のように方向が変わっているかどうかを確かめるのが手がかりになります。

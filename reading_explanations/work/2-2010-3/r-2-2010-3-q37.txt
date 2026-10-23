@@ -1,0 +1,29 @@
+---
+choices: was first tested on cats but is now also being used for human beings. | relies on the fact that the DNA of each individual is slightly different. | can be used to determine the types of people likely to commit crimes. | is a way of discovering similarities between two separate crime scenes.
+answerText: relies on the fact that the DNA of each individual is slightly different.
+reviewed: yes
+---
+【正解】2 relies on the fact that the DNA of each individual is slightly different.（一人一人のDNAが少しずつ違っているという事実を利用している。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：「遺伝子指紋法」という技術は（　）。
+1 was first tested on cats but is now also being used for human beings.（最初はネコで試されたが、今では人間にも使われている）
+2 relies on the fact that the DNA of each individual is slightly different.（一人一人のDNAが少しずつ違っているという事実を利用している）
+3 can be used to determine the types of people likely to commit crimes.（犯罪を犯しそうな人のタイプを見分けるのに使える）
+4 is a way of discovering similarities between two separate crime scenes.（別々の2つの犯罪現場の似ている点を見つける方法である）
+【考え方】
+「遺伝子指紋法」の説明は、第1段落にあります。本文によると、DNA の中には genetic information（遺伝情報）が入っています。
+Most of the genetic information in DNA is the same in everyone, but a small percentage is unique to each individual.（DNAの中の遺伝情報のほとんどはだれでも同じだが、ごく一部はそれぞれの個人に特有のものだ）とあります。unique to ～ は「～だけが持っている、～に特有の」という意味です。
+続いて By comparing someone's DNA to that found at the scene of a crime, it is possible to prove that he or she was there.（ある人のDNAを犯罪現場で見つかったDNAと比べることで、その人がそこにいたことを証明できる）とあります。一人一人のDNAに違う部分があるからこそ、比べることで「その人のものかどうか」が分かるのです。
+本文と選択肢は次のように対応しています。
+本文 a small percentage is unique to each individual（ごく一部はそれぞれの個人に特有だ）＝ 選択肢 the DNA of each individual is slightly different（一人一人のDNAは少しずつ違う）
+選択肢の rely on ～ は「～に頼る、～をもとにしている」、slightly は「わずかに、少し」です。正解は2です。
+【ほかの選択肢】
+1 本文では、DNA分析はもともと人の犯罪捜査に使われていて、Now, though, the police have begun expanding this DNA analysis to cats.（しかし今、警察はこのDNA分析をネコにまで広げ始めている）とあります。人間が先で、ネコはあとなので、順番が逆です。
+3 本文に書かれているのは、DNAを比べて「その人が現場にいたこと」を証明できるということです。犯罪を犯しそうな人のタイプを見分けるという話はないので、誤りです。
+4 本文で比べるのは、ある人のDNAと、犯罪現場で見つかったDNAです。2つの犯罪現場どうしを比べるという話はないので、誤りです。
+【覚えるポイント】
+・unique to ～：「～に特有の、～だけが持っている」。
+・rely on ～：「～に頼る、～をもとにしている」。

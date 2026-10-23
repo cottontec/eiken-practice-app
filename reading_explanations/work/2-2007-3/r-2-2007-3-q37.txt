@@ -1,0 +1,30 @@
+---
+choices: warned that sales of salt are rapidly decreasing. | advised to double the number of products containing salt. | told to create a new association to improve the taste of salt. | asked to make a new rule concerning the use of salt.
+answerText: asked to make a new rule concerning the use of salt.
+reviewed: yes
+---
+【正解】4 asked to make a new rule concerning the use of salt.（塩の使用に関する新しい規則を作るよう求められてきた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：アメリカ政府は（　）。
+1 warned that sales of salt are rapidly decreasing.（塩の売り上げが急速に減っていると警告されてきた）
+2 advised to double the number of products containing salt.（塩を含む製品の数を2倍にするよう助言されてきた）
+3 told to create a new association to improve the taste of salt.（塩の味をよくするための新しい協会を作るように言われてきた）
+4 asked to make a new rule concerning the use of salt.（塩の使用に関する新しい規則を作るよう求められてきた）
+【考え方】
+設問の主語は The U.S. government（アメリカ政府）で、has been のあとに「～された」という受け身（「～される」という形）が続きます。政府が「だれかに何をされたか」を本文で探します。
+第1段落の2文目に、the American Medical Association (AMA) … requested that the U.S. government begin to limit the amount of salt that food companies are allowed to add to their products（アメリカ医師会は、食品会社が製品に加えることを許される塩の量を制限し始めるよう、アメリカ政府に要請した）とあります。request は「要請する、頼む」という意味です。
+さらに、AMAは食品医薬品局に、塩を a substance that needs to be controlled（規制が必要な物質）として考えてほしいと望んでいる、とも書かれています。
+つまり、政府は「塩の量を制限するきまりを作ってほしい」と頼まれたのです。本文と選択肢は次のように対応しています。
+本文 the AMA requested that the U.S. government ～（AMAはアメリカ政府に～を要請した）＝ 選択肢 has been asked to ～（～するよう求められてきた）
+本文 limit the amount of salt that food companies are allowed to add（食品会社が加えてよい塩の量を制限する）＝ 選択肢 make a new rule concerning the use of salt（塩の使用に関する新しい規則を作る）
+concerning は「～に関する」という意味です。正解は4です。
+【ほかの選択肢】
+1 本文には、塩の市場が年間3億4,000万ドルと大きいことは書かれていますが、塩の売り上げが急に減っているという話はありません。だれかが政府にそう警告したとも書かれていないので、誤りです。
+2 本文に出てくる「2倍」は、アメリカ人が1日に推奨量の2倍を超える塩をとっている、という話です。製品の数を2倍にするよう助言されたのではありません。しかもAMAは塩を減らすよう求めているので、内容が逆です。
+3 本文の association は、すでにある American Medical Association（アメリカ医師会）のことで、新しく作る協会ではありません。また、AMAが求めたのは塩の味をよくすることではなく、塩の量を制限することなので、誤りです。
+【覚えるポイント】
+・request that ～：「～するよう要請する」。本文の requested が、選択肢では asked（頼まれた）と言いかえられています。
+・concerning ～：「～に関する」。about とほぼ同じ意味です。

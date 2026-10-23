@@ -1,0 +1,31 @@
+---
+choices: As a result | On the contrary | Surprisingly | Otherwise
+answerText: As a result
+reviewed: yes
+---
+【正解】1 As a result（その結果）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 As a result（その結果）
+2 On the contrary（それどころか、それとは反対に）
+3 Surprisingly（驚いたことに）
+4 Otherwise（そうでなければ、その他の点では）
+【考え方】
+まず見るところ：第3段落の空所の前の because they did not have the emotional experience of seeing the accident in person
+空所の前の文は次のとおりです。
+They say that the students' memories were more easily influenced because they did not have the emotional experience of seeing the accident in person.（彼らによると、学生たちの記憶がより影響を受けやすかったのは、事故を直接見るという、感情をゆさぶられる体験をしていなかったからだという）
+They は critics（批判する人々）を指します。in person は「直接、実際に自分で」という意味です。学生たちは映像を見ただけで、事故を直接見て心をゆさぶられる体験をしていなかった、ということです。
+空所のある文は次のとおりです。
+( 31 ), the students were likely less motivated to give accurate answers.（（　）、学生たちは、正確な答えをしようという気持ちがおそらくより弱かった）
+motivated は「やる気のある、意欲がある」、accurate は「正確な」です。事故を直接見ていないので、真剣に正確に答えようという気持ちが弱かった、という流れです。前の文の内容が原因で、空所のある文がその結果になっています。
+このように原因から結果へとつなぐ言葉が As a result（その結果）です。ですから1が正解です。
+この問題の型：因果（事故を直接見る体験がなかった→その結果、正確に答える意欲が弱かった）
+【ほかの選択肢】
+2 On the contrary は「それどころか、それとは反対に」です。前の内容を打ち消して反対のことを言うときに使います。空所の前後はどちらも「映像の実験には問題がある」という同じ向きの内容なので、合いません。
+3 Surprisingly は「驚いたことに」です。事故を直接見ていない学生の意欲が弱かったことは、前の文から自然に考えられることなので、「驚いたことに」とつなぐのは合いません。
+4 Otherwise は「そうでなければ」です。ここに入れると「そうでなければ（もし事故を直接見る体験をしていたら）、学生たちは正確な答えをしようという気持ちがおそらくより弱かった」となり、「直接見ていないから意欲が弱かった」という前の文からの流れと合いません。
+【覚えるポイント】
+・As a result：「その結果」。前の文が原因、あとの文が結果になっているときに使います。
+・つなぎの言葉を選ぶときは、空所の前の文に because（～なので）などの理由があるか、あとの文がその理由から自然に出てくる結果かを確かめると手がかりになります。

@@ -1,0 +1,33 @@
+---
+choices: Math and reading should be the core of education, but they do not help students improve their reasoning skills. | Contact with the natural world gives children intellectual skills that help them do better in certain academic subjects. | Current school programs in environmental studies need to be changed to meet the needs of students with disabilities. | Using nature to teach math and reading may help students with psychological problems understand concepts more quickly.
+answerText: Contact with the natural world gives children intellectual skills that help them do better in certain academic subjects.
+reviewed: yes
+---
+【正解】2 Contact with the natural world gives children intellectual skills that help them do better in certain academic subjects.（自然の世界と触れ合うことは、子どもたちに、いくつかの教科でよりよい成績をとるのに役立つ知的な力を与える。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one thing Richard Louv believes is true of education?（リチャード・ルーブが、教育について正しいと考えていることの一つは何か。）
+1 Math and reading should be the core of education, but they do not help students improve their reasoning skills.（数学と読解は教育の中心であるべきだが、それらは生徒が筋道を立てて考える力を伸ばす助けにはならない。）
+2 Contact with the natural world gives children intellectual skills that help them do better in certain academic subjects.（自然の世界と触れ合うことは、子どもたちに、いくつかの教科でよりよい成績をとるのに役立つ知的な力を与える。）
+3 Current school programs in environmental studies need to be changed to meet the needs of students with disabilities.（学校の今の環境学習のプログラムは、障がいのある生徒の必要に合うように変えられる必要がある。）
+4 Using nature to teach math and reading may help students with psychological problems understand concepts more quickly.（自然を使って数学と読解を教えることは、心の問題をかかえた生徒が考え方をより早く理解する助けになるかもしれない。）
+【考え方】
+まず見るところ：第3段落の According to Louv, being in touch with nature improves students' ability to reason ～
+ルーブの教育についての考えは、第3段落の後半に書かれています。
+According to Louv, being in touch with nature improves students' ability to reason about complex causes and effects, and is linked to higher achievement scores on math and reading tests.（ルーブによれば、自然と触れ合うことは、複雑な原因と結果について筋道を立てて考える生徒の力を高め、数学と読解のテストでのより高い成績とも結びついている）
+be in touch with ～ は「～と触れ合う、接する」、reason は動詞で「筋道を立てて考える」、achievement scores は「学力テストの成績」という意味です。higher（より高い）は、ここでは自然と触れ合っていない場合と比べて成績が高いことを表していると考えられます。
+本文と選択肢を対にすると、次のようになります。
+本文 being in touch with nature（自然と触れ合うこと）＝ 選択肢 Contact with the natural world（自然の世界と触れ合うこと）
+本文 students' ability to reason about complex causes and effects（複雑な原因と結果について筋道を立てて考える力）→ 選択肢 intellectual skills（知的な力）
+本文 higher achievement scores on math and reading tests（数学と読解のテストでのより高い成績）→ 選択肢 do better in certain academic subjects（いくつかの教科でよりよい成績をとる）
+数学と読解という特定の教科が、選択肢では certain academic subjects（いくつかの教科）とまとめて言われています。ですから2が正解です。
+この問題の型：言いかえ（自然との触れ合い→考える力・数学と読解の成績）
+【ほかの選択肢】
+1 本文と合いません。ルーブは、数学と読解を教育の中心にすべきだとは述べていません。また、本文では「自然と触れ合うこと」が考える力を高めると言っていて、数学や読解が考える力の助けにならないという話はありません。
+3 本文に書かれていません。今の環境学習のプログラムや、障がいのある生徒の必要についての話は出てきません。本文に出てくる attention disorders（注意の障害）は、自然欠乏障害の症状の例として挙げられているだけです。
+4 本文に書かれていません。本文に出てくる depression（うつ病）や anxiety（不安）は、自然から引き離されたことの結果かもしれない症状として挙げられているだけです。自然を使って数学や読解を教えるという話も、理解が早くなるという話もありません。
+【覚えるポイント】
+・be in touch with nature：「自然と触れ合う」。選択肢では contact with the natural world と言いかえられています。
+・選択肢の certain academic subjects（いくつかの教科）のようなまとめた言い方は、本文の具体的な教科名（数学と読解）を指していることが多いので、具体的な語との対応を確かめるのが手がかりになります。

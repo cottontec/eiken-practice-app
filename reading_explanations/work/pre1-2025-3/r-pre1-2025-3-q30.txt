@@ -1,0 +1,36 @@
+---
+choices: There was considerable pressure to arrest people and conclude the trial, even though doubts emerged about the defendants' direct involvement in the bombing. | Adelman's criticism of the trial proceedings does not take into account the fact that the defendants were planning bomb attacks at other demonstrations. | Although the arrested men were probably innocent, the actions of the police were justified because of the number of people who had been killed on May 4. | Some of the defendants were more directly involved in the bombing than others, so the court was correct to make such a distinction when it sentenced them.
+answerText: There was considerable pressure to arrest people and conclude the trial, even though doubts emerged about the defendants' direct involvement in the bombing.
+reviewed: yes
+---
+【正解】1 There was considerable pressure to arrest people and conclude the trial, even though doubts emerged about the defendants' direct involvement in the bombing.（被告たちが爆破に直接関わっていたかどうかに疑いが出てきたにもかかわらず、人々を逮捕して裁判を終わらせようとするかなりの圧力があった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What does the author of the passage suggest about the events surrounding the trial?（この文章の筆者は、裁判をめぐる出来事について、どのようなことをほのめかしていますか。）
+1 There was considerable pressure to arrest people and conclude the trial, even though doubts emerged about the defendants' direct involvement in the bombing.（被告たちが爆破に直接関わっていたかどうかに疑いが出てきたにもかかわらず、人々を逮捕して裁判を終わらせようとするかなりの圧力があった。）
+2 Adelman's criticism of the trial proceedings does not take into account the fact that the defendants were planning bomb attacks at other demonstrations.（アデルマンによる裁判の進め方への批判は、被告たちがほかのデモでの爆弾攻撃を計画していたという事実を考えに入れていない。）
+3 Although the arrested men were probably innocent, the actions of the police were justified because of the number of people who had been killed on May 4.（逮捕された男たちはおそらく無実だったが、5月4日に殺された人の数を考えれば、警察の行動は正当なものだった。）
+4 Some of the defendants were more directly involved in the bombing than others, so the court was correct to make such a distinction when it sentenced them.（被告の中には、ほかの被告より爆破に直接関わっていた者がいたので、裁判所が刑を言い渡すときにそのような区別をしたのは正しかった。）
+【考え方】
+まず見るところ：第3段落の whipped up public anger、The authorities, who felt compelled to act と、Even though there were concerns about ～
+第3段落の前半では、事件のあとの新聞と当局の動きが書かれています。
+The May 4 incident provoked a strong response from some newspapers, which whipped up public anger and claimed further bombings were planned.（5月4日の出来事は、一部の新聞の強い反応を引き起こし、それらの新聞は人々の怒りをあおり、さらなる爆弾攻撃が計画されていると主張した）
+whip up は「（感情）をあおる」です。
+The authorities, who felt compelled to act, detained well-known radicals.（当局は、行動しなければならないと感じて、よく知られた過激派の人々を拘束した）
+feel compelled to ～ は「～しなければならないと感じる」、detain は「拘束する（自由に動けないようにとどめておく）」です。
+後半では、裁判への疑問が書かれています。
+Even though there were concerns about jury bias, a lack of evidence, and the fact that some of the defendants had not even attended the Haymarket gathering, most of the men were given the death penalty.（陪審のかたより、証拠の不足、そして被告の何人かはヘイマーケットの集会に参加してさえいなかったという事実について懸念があったにもかかわらず、男たちのほとんどに死刑が言い渡された）
+本文と選択肢を対にすると、次のようになります。
+本文 newspapers ～ whipped up public anger ／ The authorities, who felt compelled to act, detained ～（新聞が人々の怒りをあおった／当局は行動しなければならないと感じて拘束した）→ 読み取れること：There was considerable pressure to arrest people（人々を逮捕しようとするかなりの圧力があった）
+本文 a lack of evidence ／ some of the defendants had not even attended the Haymarket gathering（証拠の不足／集会に参加してさえいない被告がいた）→ 選択肢 doubts emerged about the defendants' direct involvement in the bombing（被告たちが爆破に直接関わっていたかどうかに疑いが出てきた）
+筆者は、新聞が怒りをあおり、当局が行動しなければならないと感じて拘束に動いたことを書いたうえで、証拠の不足などの懸念があっても男たちのほとんどに死刑が言い渡されたことを書いています。ここから、疑いがあっても逮捕や裁判の決着を求める強い圧力があったことをほのめかしていると考えられるので、1が正解です。
+この問題の型：推論（怒りをあおる新聞・行動を迫られた当局 → 逮捕への圧力）
+【ほかの選択肢】
+2 本文で「さらなる爆弾攻撃が計画されている」と主張したのは一部の新聞です（claimed further bombings were planned）。被告たちが実際にほかのデモで爆弾攻撃を計画していたとは書かれておらず、アデルマンの批判がそれを考えに入れていないという話もありません。
+3 本文には、警察の行動が正当だったという筆者の考えは書かれていません。筆者は、のちに州知事が the trial had been unfair（その裁判は不公正だった）と結論づけたことを紹介しています。
+4 本文には most of the men were given the death penalty（男たちのほとんどに死刑が言い渡された）とあるだけで、裁判所が関わりの度合いによって刑を区別したとは書かれていません。それが正しかったという筆者の考えもありません。
+【覚えるポイント】
+・feel compelled to ～：「～しなければならないと感じる」。
+・suggest（ほのめかす）を問う設問では、Even though there were concerns about ～（～についての懸念があったにもかかわらず）のように、筆者が出来事にそえた疑問や問題点に注目することが、答えを考える手がかりになります。

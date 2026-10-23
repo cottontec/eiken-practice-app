@@ -1,0 +1,30 @@
+---
+choices: until a healthy replacement for salt is found. | because companies are making salt even tastier. | until more people begin eating preserved foods. | because people do not believe what doctors say.
+answerText: until a healthy replacement for salt is found.
+reviewed: yes
+---
+【正解】1 until a healthy replacement for salt is found.（健康によい塩の代わりのものが見つかるまでは。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：AMAは、（　）人々の食習慣を変えるのは難しいと感じるだろう。
+1 until a healthy replacement for salt is found.（健康によい塩の代わりのものが見つかるまでは）
+2 because companies are making salt even tastier.（企業が塩をさらにおいしくしているので）
+3 until more people begin eating preserved foods.（保存食品を食べ始める人がもっと増えるまでは）
+4 because people do not believe what doctors say.（人々が医師の言うことを信じないので）
+【考え方】
+設問の find it difficult to change people's eating habits（人々の食習慣を変えるのが難しいと感じる）にあたる内容を本文で探します。第4段落の最後の文 it will continue to be difficult to get people to eat less of it（人々に塩をとる量を減らしてもらうのは難しいままだろう）がそれにあたります。
+この文は As long as this is the case（この状況が続く限り）で始まっています。as long as は「～する限り」という条件の言い方です。this（この状況）は、すぐ前の文 Salt remains the cheapest and tastiest way both to preserve food and to improve its flavor.（塩は、食べ物を保存するのにも味をよくするのにも、いちばん安くておいしい方法であり続けている）を指します。
+では、この状況が変わるのはどんなときでしょうか。段落の初めに One answer would be the development of a substance that tastes the same as salt but does not have the same negative effects on people's health.（1つの解決策は、塩と同じ味がするのに、健康に同じような悪い影響を与えない物質を開発することだろう）とあります。しかし so far they have not been successful（今のところ成功していない）とも書かれています。
+つまり、「塩の代わりになる健康的な物質」が見つかるまでは、塩より安くておいしい方法がないので、人々の塩の量を減らすのは難しいということです。本文と選択肢は次のように対応しています。
+本文 a substance that tastes the same as salt but does not have the same negative effects on people's health（塩と同じ味で、健康への悪い影響がない物質）＝ 選択肢 a healthy replacement for salt（健康によい塩の代わりのもの）
+本文 As long as this is the case, it will continue to be difficult（この状況が続く限り、難しいままだ）＝ 選択肢 will find it difficult … until ～ is found（～が見つかるまでは難しいだろう）
+replacement は「代わりのもの」という意味です。正解は1です。
+【ほかの選択肢】
+2 本文で企業がしているのは、塩と同じ味がする「別の物質」を開発しようとすることです。塩そのものをさらにおいしくしているとは書かれていないので、誤りです。
+3 本文には、塩は食べ物を preserve（保存する）ための安い方法だとあります。しかし、保存食品を食べる人が増えることについては何も書かれておらず、それが食習慣を変えるきっかけになるという話もありません。本文の preserve という語を使っただけの、本文にない内容なので誤りです。
+4 本文には、人々が医師の言うことを信じないという内容はありません。食習慣を変えるのが難しい理由として書かれているのは、塩がいちばん安くておいしい方法だからです。本文にない理由なので、誤りです。
+【覚えるポイント】
+・as long as ～：「～する限り」。この状況が続いている間は、という条件を表します。
+・a replacement for ～：「～の代わりのもの」。

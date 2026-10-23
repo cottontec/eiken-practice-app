@@ -1,0 +1,27 @@
+---
+choices: rare idea about | modern cure for | negative view of | common cause of
+answerText: negative view of
+reviewed: yes
+---
+【正解】3 negative view of（～に対する否定的な見方）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 rare idea about（～についてのめずらしい考え）
+2 modern cure for（～の現代的な治療法）
+3 negative view of（～に対する否定的な〔悪いものだとする〕見方）
+4 common cause of（～のよくある原因）
+【考え方】
+空所は第1段落の最後の this (21) stress is actually killing about 20,000 Americans every year です。「ストレス（に対する）この（21）が、毎年およそ2万人のアメリカ人を実際に死なせている」という意味になります。
+this（この）があるので、空所に入るのは直前に書かれた内容をまとめた言葉です。直前の文を見ます。
+She says research shows that people with a lot of stress are more likely to die young but only if they think stress is bad.（彼女によれば、研究から、ストレスの多い人は若くして死ぬ可能性が高いけれども、それはストレスを悪いものだと考えている場合に限られる、ということが分かっている）
+つまり、人を死なせているのはストレスそのものではなく、「ストレスは悪いものだ」という考え方だ、という内容です。マクゴニガルが the way people commonly see stress（人々が一般にストレスをとらえる見方）を変えようとしている、という説明ともつながります。
+「ストレスは悪いものだ」という考えを言いかえたのが、negative view of stress（ストレスに対する否定的な見方）です。ですから、3が正解です。
+【ほかの選択肢】
+1 rare idea about を入れると「ストレスについてのこのめずらしい考え」となります。しかし、本文は人々が commonly（一般に）ストレスを悪いものと見ていると説明しているので、「めずらしい考え」ではありません。
+2 modern cure for を入れると「ストレスのこの現代的な治療法が、毎年2万人を死なせている」となります。本文に治療法の話はなく、治療法が人を死なせるというのも話の流れに合いません。
+4 common cause of を入れると「ストレスのこのよくある原因が、毎年2万人を死なせている」となります。しかし、直前にストレスの原因は書かれていないので、this（この）が指すものがありません。また、本文が問題にしているのはストレスの原因ではなく、ストレスについての考え方です。
+【覚えるポイント】
+・this ＋名詞：直前の内容をまとめて指すことが多いので、前の文から中身を確かめます。
+・negative view of ～：「～に対する否定的な見方」。negative は「否定的な、悪い面を見る」、反対は positive（肯定的な）です。

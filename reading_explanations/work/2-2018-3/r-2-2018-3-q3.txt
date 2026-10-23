@@ -1,0 +1,28 @@
+---
+choices: affection | insurance | violence | mineral
+answerText: insurance
+reviewed: yes
+---
+【正解】2 insurance（保険）
+【和訳】
+（英文）
+Before Tom left for his vacation in Canada, he made sure that his health ［insurance］ would cover him if he got sick overseas.
+（訳）
+トムは、カナダでの休暇に出発する前に、もし外国で病気になったら自分の健康（保険）で費用がまかなわれることを確かめておきました。
+（選択肢の意味）
+1 affection：愛情
+2 insurance：保険
+3 violence：暴力
+4 mineral：鉱物、ミネラル
+【考え方】
+空所のあとの would cover him if he got sick overseas に注目します。cover はここでは「（保険などが）費用をまかなう、補償する（損害のお金を代わりに払う）」という意味です。if he got sick overseas は「もし外国で病気になったら」です。
+「外国で病気になったときに、彼の費用をまかなってくれるもの」とは何かを考えます。病気やけがのときに治療のお金を払ってくれるしくみは「保険」です。health insurance で「健康保険、医療保険」という意味になります。
+また、made sure that ～ は「～を確かめた、確実にした」という意味です。外国へ出かける前に、保険が使えるかどうかを確かめたという、自然な内容になります。ですから、2が正解です。
+【ほかの選択肢】
+1 affection は「愛情」です。「健康の愛情が彼の費用をまかなう」となり、意味が通りません。
+3 violence は「暴力」です。病気のときの費用の話とは関係がありません。
+4 mineral は「鉱物、ミネラル（体に必要な栄養素の1つ）」です。健康に関係のある語ですが、ミネラルが外国で病気になったときの費用をまかなうことはできません。
+【覚えるポイント】
+・health insurance：「健康保険、医療保険」。
+・cover：「（保険が）費用をまかなう、補償する」という意味もあります。
+・make sure that ～：「～を確かめる、確実に～するようにする」。

@@ -1,0 +1,27 @@
+---
+choices: confessed | registered | supposed | repaired
+answerText: confessed
+reviewed: yes
+---
+【正解】1 confessed（白状した、認めた）
+【和訳】
+（英文）
+After being questioned for a long time by the police, the man ［confessed］ to having robbed the jewelry store.
+（訳）
+警察に長い時間取り調べを受けたあと、その男は宝石店に強盗に入ったことを白状しました。
+（選択肢の意味）
+1 confessed：白状した、認めた
+2 registered：登録した
+3 supposed：思った、仮定した
+4 repaired：修理した
+【考え方】
+前半の After being questioned for a long time by the police は「警察に長い時間質問された（取り調べを受けた）あと」という意味です。question はここでは動詞で「質問する、取り調べる」です。
+空所のあとの to having robbed the jewelry store に注目します。rob は「（店や人から）物をうばう、強盗に入る」です。having robbed は「（それより前に）強盗に入ったこと」を表す形です。
+confess to ～ は「～を白状する、（悪いことをしたと）認める」という決まった形です。the man confessed to having robbed the jewelry store で「その男は宝石店に強盗に入ったことを白状した」となります。長い取り調べのあとに罪を認めた、という流れになり、意味が通ります。正解は1です。
+【ほかの選択肢】
+2 registered は「登録した」です。「宝石店に強盗に入ったことに登録した」となり、意味が通りません。
+3 supposed は「思った、仮定した」です。suppose のあとに to having robbed のような形は続かず、文の形に合いません。
+4 repaired は「修理した」です。「強盗に入ったことに修理した」となり、意味が通りません。
+【覚えるポイント】
+・confess to ～：「～を白状する、～を認める」。to のあとは名詞か ～ing の形です。
+・having ＋ 過去分詞：「（それより前に）～したこと」。having robbed で「強盗に入ったこと」。

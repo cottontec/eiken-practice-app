@@ -1,0 +1,29 @@
+---
+choices: are damaged by bubbles | are lighter than they appear | help them save energy | actually frighten predators
+answerText: help them save energy
+reviewed: yes
+---
+【正解】3 help them save energy（アオイガイがエネルギーを節約するのに役立っている）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 are damaged by bubbles（泡によって傷つけられる）
+2 are lighter than they appear（見た目よりも軽い）
+3 help them save energy（アオイガイがエネルギーを節約するのに役立っている）
+4 actually frighten predators（実は捕食者をこわがらせている）
+【考え方】
+まず見るところ：第2段落の without swimming or making any other apparent effort と、空所の前の It therefore appears that the shells
+第2段落は、アオイガイを使った実験の話です。アオイガイは海面で殻に空気を入れたあと、また下へもぐりました。
+They then moved back down and were able to maintain their vertical positions in the ocean without swimming or making any other apparent effort.（その後、3匹は再び下へ移動し、泳いだり、ほかに目に見える努力をしたりすることなく、海の中での上下の位置を保つことができた）
+without ～ing は「～しないで」です。泳がなくても同じ位置にいられるのは、殻の中の空気による圧力が体の重さとつり合っているためであるようだ、と書かれています。
+therefore（したがって）のあとは、この実験から言えるまとめです。泳ぐ力を使わずにすむのですから、殻はエネルギーの節約に役立っていると言えます。
+help them save energy が合うので、3が正解です。them はアオイガイを指します。
+この問題の型：推論（泳がずに位置を保てる → エネルギーを節約できる）
+【ほかの選択肢】
+1 「泡によって傷つけられる」は、本文に書かれていません。第1段落の最後には、泡は役に立つ働きをしていると書かれていて、第2段落も殻に空気を入れて位置を保つ話です。
+2 「見た目よりも軽い」は、本文に書かれていません。本文には、空気による圧力が体の重さとつり合うとあるだけで、殻が見た目より軽いという話はありません。
+4 「実は捕食者をこわがらせている」は、本文に書かれていません。第2段落の実験の話には、捕食者は出てきません。
+【覚えるポイント】
+・without ～ing：「～しないで」。apparent effort：「目に見える努力」。save energy：「エネルギーを節約する」。
+・It therefore appears that ～（したがって～のようだ）の空所には、その前に書かれた実験の結果をまとめた内容が入ることが多いので、結果の文（ここでは「泳がずに位置を保てた」）を言いかえて考えるのが手がかりになります。

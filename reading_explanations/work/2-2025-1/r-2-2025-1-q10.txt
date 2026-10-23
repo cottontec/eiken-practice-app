@@ -1,0 +1,30 @@
+---
+choices: contributions | characteristics | investigations | exhibitions
+answerText: characteristics
+reviewed: yes
+---
+【正解】2 characteristics（特徴）
+【和訳】
+（英文）
+The ［characteristics］ that make rabbits different from other animals are that they have long ears and short tails.
+（訳）
+ウサギをほかの動物と違うものにしている（特徴）は、長い耳と短い尾を持っていることです。
+（選択肢の意味）
+1 contributions：貢献、寄付
+2 characteristics：特徴
+3 investigations：調査
+4 exhibitions：展覧会、展示
+【考え方】
+まず見るところ：空所のあとの that make rabbits different from other animals と、文の最後の long ears and short tails
+The (　) that make rabbits different from other animals（ウサギをほかの動物と違うものにしている（　））
+that 以下が空所の名詞に説明を付け足しています。make A different from B は「AをBと違うものにする」という意味です。
+are that they have long ears and short tails（長い耳と短い尾を持っていることだ）
+空所の名詞の中身は「長い耳と短い尾」です。これは、ウサギの体のほかの動物と違う点、つまり「特徴」です。characteristics は「特徴」という意味なので、2が正解です。
+この問題の型：具体例とまとめ（long ears and short tails ＝ 特徴）
+【ほかの選択肢】
+1 contributions は「貢献、寄付」です。長い耳や短い尾は、ウサギが何かに役立ったことではないので、「貢献」では意味が通りません。
+3 investigations は「調査」です。「ウサギをほかの動物と違うものにしている調査」となり、意味が通りません。
+4 exhibitions は「展覧会、展示」です。「ウサギをほかの動物と違うものにしている展覧会」となり、意味が通りません。
+【覚えるポイント】
+・characteristic：「特徴」。
+・The (　) … are that ～ の形では、that 以下が空所の名詞の中身を表すので、that 以下の内容をひと言でまとめた語を選ぶと答えが決まりやすくなります。

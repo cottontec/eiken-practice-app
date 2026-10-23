@@ -1,0 +1,32 @@
+---
+choices: iron out | toss in | take on | size up
+answerText: take on
+reviewed: yes
+---
+【正解】3 take on（～を引き受ける）
+【和訳】
+（英文）
+Julia has decided her son, Rob, is old enough to ［take on］ more responsibilities at home, so she will give him two additional jobs to do on weekends.
+（訳）
+ジュリアは、息子のロブはもう家でより多くの責任を（引き受け）られる年齢だと判断したので、週末にやる仕事を、さらに2つ彼に与えるつもりだ。
+（選択肢の意味）
+1 iron out：（問題など）を解決する、～を取り除く
+2 toss in：～を投げ入れる、～を付け加える
+3 take on：～を引き受ける
+4 size up：～を見きわめる、～を評価する
+【考え方】
+まず見るところ：so のあとの she will give him two additional jobs
+空所のある部分は、次のとおりです。
+her son, Rob, is old enough to (　) more responsibilities at home（息子のロブは、家でより多くの責任を（　）のに十分な年齢だ）
+old enough to ～ は「～できるくらいの年齢だ」、responsibility は「責任、任された役目」です。
+so のあとには、その結果が書かれています。
+she will give him two additional jobs to do on weekends（彼女は彼に、週末にやる仕事をさらに2つ与えるつもりだ）
+additional は「追加の」です。新しい仕事を2つ任されるのですから、ロブはより多くの責任を「引き受ける」ことになります。take on ～ は「（仕事や責任）を引き受ける」という意味なので、3が正解です。
+この問題の型：因果（引き受けられる年齢だ → だから仕事を2つ追加する）
+【ほかの選択肢】
+1 iron out は「（問題など）を解決する」です。「より多くの責任を解決する」となり、意味が通りません。仕事を追加で任されるという後半ともつながりません。
+2 toss in は「～を投げ入れる、～を付け加える」です。ロブが責任を投げ入れる、となり、仕事を任される話として意味が通りません。
+4 size up は「～を見きわめる、～を評価する」です。「より多くの責任を見きわめられる年齢だ」としても、そのために仕事を2つ与える、という so のあとの内容とつながりません。
+【覚えるポイント】
+・take on ～：「（仕事や責任）を引き受ける」。take on more responsibilities で「より多くの責任を引き受ける」。
+・A, so B（Aなので、B）の形では、B（ここでは仕事を2つ追加で与える）がAの結果なので、Bの内容が空所の語を決める手がかりになります。

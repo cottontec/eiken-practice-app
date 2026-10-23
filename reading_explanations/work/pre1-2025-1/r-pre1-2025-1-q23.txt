@@ -1,0 +1,31 @@
+---
+choices: making gladiators fight to the death | having women fight each other | increasing the prize money for gladiators | banning female gladiators
+answerText: having women fight each other
+reviewed: yes
+---
+【正解】2 having women fight each other（女性どうしを戦わせること）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 making gladiators fight to the death（剣闘士を死ぬまで戦わせること）
+2 having women fight each other（女性どうしを戦わせること）
+3 increasing the prize money for gladiators（剣闘士の賞金を増やすこと）
+4 banning female gladiators（女性の剣闘士を禁止すること）
+【考え方】
+まず見るところ：第2段落の空所の前の audiences demanded novelty and excitement. One way to provide that was by
+まず、第2段落の話題を確かめます。段落の初めは次のとおりです。
+Many people may also be surprised to learn that gladiators were not always men.（また、剣闘士がいつも男性だったわけではないと知ると、多くの人は驚くかもしれない）
+この段落は、女性の剣闘士についての段落です。そのあと、女性の剣闘士が登場した時代の様子が説明されています。
+空所の前を見ます。
+audiences demanded novelty and excitement. One way to provide that was by ( ).（観客は目新しさと興奮を求めていた。それを与える方法の一つが、（　）だった）
+novelty は「目新しさ」です。that は、直前の novelty and excitement（目新しさと興奮）を指しています。
+剣闘士はいつも男性だったわけではない、と驚かれるくらいなので、剣闘士の試合で女性どうしが戦うことは、観客にとって目新しいことだったと考えられます。段落の話題である女性の剣闘士ともつながるので、2が正解です。
+この問題の型：指示語（that ＝ novelty and excitement）／推論（女性の剣闘士 → 目新しさ）
+【ほかの選択肢】
+1 「剣闘士を死ぬまで戦わせること」は、第1段落の、剣闘士が闘技場で死ぬことはめったになかったという内容と合いません。また、この段落の話題である女性の剣闘士ともつながりません。
+3 「剣闘士の賞金を増やすこと」は、本文に賞金の話が書かれておらず、段落の話題である女性の剣闘士ともつながりません。
+4 「女性の剣闘士を禁止すること」を入れると、この段落の、女性の剣闘士が登場したという話と反対になります。第3段落でも、女性の剣闘士の話が続いています。
+【覚えるポイント】
+・novelty：「目新しさ」。have ＋人＋動詞の原形（ここでは having women fight）は「人に～させる」です。
+・空所の文に that（それ）があるときは、まず that が指す語を直前から探し、さらに段落の初めの文で話題を確かめると、答えの手がかりになります。

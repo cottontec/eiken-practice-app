@@ -1,0 +1,32 @@
+---
+choices: At random | In exchange | For instance | On purpose
+answerText: For instance
+reviewed: yes
+---
+【正解】3 For instance（たとえば）
+【和訳】
+（英文）
+Brian learned many things during his year abroad in Brazil. ［For instance］, he learned how to cook a dish called feijoada and how to dance samba.
+（訳）
+ブライアンは、ブラジルで過ごした1年間の外国生活の間に、多くのことを学びました。（たとえば）、フェイジョアーダという料理の作り方や、サンバの踊り方を学びました。
+（選択肢の意味）
+1 At random：無作為に、でたらめに
+2 In exchange：その代わりに、交換に
+3 For instance：たとえば
+4 On purpose：わざと、故意に
+【考え方】
+まず見るところ：1文目の many things と、2文目の具体的な中身
+1文目は大まかな内容です。
+Brian learned many things during his year abroad in Brazil.（ブライアンは、ブラジルで過ごした1年間の外国生活の間に、多くのことを学んだ）
+2文目は次のとおりです。
+he learned how to cook a dish called feijoada and how to dance samba（フェイジョアーダという料理の作り方とサンバの踊り方を学んだ）
+2文目は、1文目の「多くのこと」の中身を具体的に挙げたものです。feijoada（フェイジョアーダ）は料理の名前、samba（サンバ）はおどりの種類です。
+大まかな話のあとに具体例を挙げるときは、For instance（たとえば）を使います。ですから3が正解です。
+この問題の型：具体例とまとめ（many things → 料理とおどり）
+【ほかの選択肢】
+1 At random は「無作為に、でたらめに（決まりなく選んで）」です。「でたらめに、料理の作り方とサンバの踊り方を学んだ」となり、1文目の「多くのことを学んだ」の例を挙げる流れとつながりません。
+2 In exchange は「その代わりに、引きかえに」です。何かと何かを交換する話はないので、合いません。
+4 On purpose は「わざと、故意に」です。「わざと料理の作り方を学んだ」となり、1文目の具体例を示す文の始め方として合いません。
+【覚えるポイント】
+・For instance：「たとえば」。For example と同じ意味です。
+・空所が2文目の初めにあるときは、1文目と2文目の関係（例を挙げているのか、反対のことを言っているのか、など）を確かめると、つなぎの語句を選ぶ手がかりになります。

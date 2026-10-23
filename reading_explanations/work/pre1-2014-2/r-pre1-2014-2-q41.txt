@@ -1,0 +1,36 @@
+---
+choices: Shipping routes with currently limited availability could become accessible year-round, reducing traffic elsewhere. | New types of ships are being developed that will be able to travel safely through shipping routes covered by ice. | A general slowdown in international trade is predicted as countries struggle to deal with global climate change. | Ongoing delays in the expansion of the Panama Canal will drive shipping away from the area altogether.
+answerText: Shipping routes with currently limited availability could become accessible year-round, reducing traffic elsewhere.
+reviewed: yes
+---
+【正解】1 Shipping routes with currently limited availability could become accessible year-round, reducing traffic elsewhere.（今は使える時期が限られている航路が一年中使えるようになり、ほかの場所の交通量が減るかもしれない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What factor may affect future demand for the proposed canal?（計画されている運河の将来の需要に影響するかもしれない要因は何か。）
+1 Shipping routes with currently limited availability could become accessible year-round, reducing traffic elsewhere.（今は使える時期が限られている航路が一年中使えるようになり、ほかの場所の交通量が減るかもしれない。）
+2 New types of ships are being developed that will be able to travel safely through shipping routes covered by ice.（氷におおわれた航路を安全に進むことのできる新しい種類の船が開発されている。）
+3 A general slowdown in international trade is predicted as countries struggle to deal with global climate change.（国々が地球の気候変動への対応に苦しむにつれて、国際貿易が全体的に落ちこむと予測されている。）
+4 Ongoing delays in the expansion of the Panama Canal will drive shipping away from the area altogether.（パナマ運河の拡張が遅れ続けていることで、海運がその地域からすっかり離れていくだろう。）
+【考え方】
+まず見るところ：第4段落の Moreover, demand for shipping routes across Central America could fall sharply in the future. とその後ろの2つの文
+第4段落では、将来の需要について次のように書かれています。
+Moreover, demand for shipping routes across Central America could fall sharply in the future.（さらに、中央アメリカを横切る航路の需要は、将来大きく落ちこむかもしれない）
+demand は「需要（ほしい、使いたいと思われる量）」、fall sharply は「大きく落ちこむ」という意味です。その理由が次の2つの文です。
+Commercial freighters have begun attempting to use Arctic shipping routes during the summer.（商業用の貨物船は、夏の間、北極海の航路を使おうと試み始めている）
+Climate change experts predict an increase in northern sea temperatures, which could eventually mean the Arctic routes will be open continuously.（気候変動の専門家たちは北の海の水温が上がると予測しており、それはやがて、北極海の航路が一年中通れるようになることを意味するかもしれない）
+Arctic は「北極の」、continuously は「絶え間なく、ずっと」という意味です。今は夏にしか使えない北極海の航路が、いつでも使えるようになれば、中央アメリカの運河を通る船は減ると考えられます。
+本文と選択肢を対にすると、次のようになります。
+本文 Arctic shipping routes during the summer（夏の間の北極海の航路）→ 選択肢 Shipping routes with currently limited availability（今は使える時期が限られている航路）
+本文 will be open continuously（一年中通れるようになる）＝ 選択肢 could become accessible year-round（一年中使えるようになるかもしれない）
+本文 demand for shipping routes across Central America could fall sharply（中央アメリカを横切る航路の需要は大きく落ちこむかもしれない）→ 選択肢 reducing traffic elsewhere（ほかの場所の交通量が減る）
+ですから1が正解です。
+この問題の型：言いかえ（夏だけの北極海の航路→今は使える時期が限られている航路）
+【ほかの選択肢】
+2 本文に書かれていません。本文にあるのは、北の海の水温が上がるという専門家の予測です。氷におおわれた航路を進める新しい船が開発されているという話は出てきません。
+3 本文に書かれていません。気候変動は北の海の水温が上がる原因として出てくるだけで、国際貿易が全体的に落ちこむという予測は述べられていません。第2段落では、むしろ海運の量が着実に増えていると書かれています。
+4 本文に書かれていません。本文には、パナマ運河は already undergoing a $5 billion expansion（すでに50億ドルの拡張工事を進めている）とあるだけで、工事が遅れているという話はありません。
+【覚えるポイント】
+・year-round：「一年中」。本文の continuously（絶え間なく）や open continuously（いつでも通れる）と同じ内容を表しています。
+・選択肢では、本文の具体的な名前（ここでは Arctic shipping routes）が、ぼかした言い方（with currently limited availability）に変えられていることがあります。説明の中身が本文と合っているかを確かめるのが手がかりになります。

@@ -1,0 +1,38 @@
+---
+choices: The Russian children were more likely to have celiac disease because of the high amount of bread in their diet. | The symptoms of celiac disease were more severe in the Finnish children because they ate a certain type of wheat. | The Russian children's living circumstances were responsible for their lower rates of celiac disease. | The Finnish children got sicker because they were exposed to bacteria known to cause allergic reactions.
+answerText: The Russian children's living circumstances were responsible for their lower rates of celiac disease.
+reviewed: yes
+---
+【正解】3 The Russian children's living circumstances were responsible for their lower rates of celiac disease.（ロシアの子どもたちの生活環境が、彼らのセリアック病の割合が（フィンランドの子どもたちより）低いことの原因だった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What do the researchers who studied children in neighboring Russian and Finnish towns believe?（となり合うロシアとフィンランドの町の子どもたちを調べた研究者たちは、どう考えているか。）
+1 The Russian children were more likely to have celiac disease because of the high amount of bread in their diet.（ロシアの子どもたちは、食事の中のパンの量が多いために、（フィンランドの子どもたちより）セリアック病にかかりやすかった。）
+2 The symptoms of celiac disease were more severe in the Finnish children because they ate a certain type of wheat.（フィンランドの子どもたちは、ある種類の小麦を食べていたので、セリアック病の症状がより重かった。）
+3 The Russian children's living circumstances were responsible for their lower rates of celiac disease.（ロシアの子どもたちの生活環境が、彼らのセリアック病の割合が（フィンランドの子どもたちより）低いことの原因だった。）
+4 The Finnish children got sicker because they were exposed to bacteria known to cause allergic reactions.（フィンランドの子どもたちは、アレルギー反応を引き起こすことで知られる細菌にさらされたため、さらに具合が悪くなった。）
+【考え方】
+まず見るところ：第3段落の five times as many Finnish children と、because sanitation practices are poorer, the Russian children are exposed to more bacteria
+第3段落の研究の結果を見ます。
+A study of children living in towns across the border from each other in Finland and Russia showed that five times as many Finnish children suffered from celiac disease.（フィンランドとロシアの国境をはさんで向かい合う町に住む子どもたちを調べた研究では、セリアック病にかかっていたフィンランドの子どもは、ロシアの子どもの5倍の人数だったことが分かった）
+つまり、ロシアの子どもたちのほうがセリアック病にかかる割合が低い、ということです。
+その理由として、ロシアの町の生活の様子が書かれています。
+The average income in the Russian town, however, is one-fifteenth that of the neighboring Finns, and because sanitation practices are poorer, the Russian children are exposed to more bacteria.（しかし、ロシアの町の平均収入はとなりのフィンランドの人々の15分の1であり、衛生習慣がより劣っているため、ロシアの子どもたちはより多くの細菌にさらされている）
+The researchers suspect this is behind the higher incidence of celiac disease in developed countries.（研究者たちは、これが、先進国でセリアック病の発生率がより高いことの背景にあるのではないかと考えている）
+sanitation は「衛生（清潔に保つこと）」、be exposed to ～ は「～にさらされる、ふれる」です。
+本文と選択肢を対にすると、次のようになります。
+本文 The researchers suspect（研究者たちは～ではないかと考えている）≒ 設問 believe（考えている）
+本文 sanitation practices are poorer, exposed to more bacteria（衛生習慣が劣り、より多くの細菌にさらされている）→ 選択肢 living circumstances（生活環境）
+本文 five times as many Finnish children suffered（フィンランドの子どもが5倍かかっていた）→ 選択肢 their lower rates of celiac disease（ロシアの子どもたちのセリアック病の割合が低い）
+本文 this is behind ～（これが～の背景にある）≒ 選択肢 were responsible for ～（～の原因だった）
+細菌にふれる生活環境のために、ロシアの子どもたちはセリアック病が少ない、というのが研究者たちの考えです。ですから3が正解です。
+この問題の型：因果（細菌の多い環境 → セリアック病が少ない）／言いかえ（five times as many Finnish children → lower rates）
+【ほかの選択肢】
+1 本文では、セリアック病にかかっていたのはフィンランドの子どものほうが5倍多かったので、ロシアの子どもたちのほうがかかりやすいというのは反対です。また、パンの量の話も書かれていません。
+2 本文には similar types of wheat are eaten in the towns（どちらの町でも似た種類の小麦が食べられている）とあり、ある種類の小麦が原因だとは書かれていません。症状の重さを比べた話もありません。
+4 本文で、より多くの細菌にさらされているのはロシアの子どもたちです。また本文では、細菌に「ふれないこと」が免疫系の過剰な反応につながるかもしれないと書かれていて、細菌がアレルギーを起こすという話ではありません。
+【覚えるポイント】
+・five times as many ～：「5倍の数の～」。何と比べているか（ここではロシアの子ども）を必ず確かめましょう。
+・本文で「Aのほうが5倍多い」と書かれていれば、選択肢では「Bのほうが少ない（lower）」と言いかえられることがあります。比べる向きが反対になっても同じ意味かどうかを確かめるのが手がかりになります。

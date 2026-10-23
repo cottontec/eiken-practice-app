@@ -1,0 +1,33 @@
+---
+choices: It happened due to an important change in society. | It led to the development of TVs, computers, and smartphones. | It has had a major impact on the natural environment. | It has had a greater effect on society than other modern inventions.
+answerText: It has had a greater effect on society than other modern inventions.
+reviewed: yes
+---
+【正解】4 It has had a greater effect on society than other modern inventions.（それは、ほかの現代の発明よりも大きな影響を社会に与えてきた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What do some historians say about the invention of washing machines?（一部の歴史家は、洗濯機の発明について何と言っていますか。）
+1 It happened due to an important change in society.（それは、社会の重要な変化が原因で起きた。）
+2 It led to the development of TVs, computers, and smartphones.（それは、テレビ、コンピューター、スマートフォンの開発につながった。）
+3 It has had a major impact on the natural environment.（それは、自然環境に大きな影響を与えてきた。）
+4 It has had a greater effect on society than other modern inventions.（それは、ほかの現代の発明よりも大きな影響を社会に与えてきた。）
+【考え方】
+まず見るところ：第1段落の最後の some historians argue that ～
+第1段落では、まず次のように問いかけています。
+However, which of these machines has changed society the most?（しかし、これらの機械のうち、社会を最も大きく変えたのはどれだろうか）
+その答えとして、次の文があります。
+Even though people spend more time with their TVs, computers, and smartphones, some historians argue that the impact of these inventions has been small compared with that of washing machines.（人々はテレビやコンピューター、スマートフォンにより多くの時間を使っているにもかかわらず、一部の歴史家は、こうした発明の影響は、洗濯機の影響と比べると小さいと主張している）
+that of washing machines の that は the impact（影響）のことで、「洗濯機の影響」という意味です。compared with ～ は「～と比べると」です。「テレビなどの影響は、洗濯機の影響と比べると小さい」ということは、裏返すと「洗濯機の影響は、テレビなどの影響より大きい」ということです。
+本文と選択肢を対にすると、次のようになります。
+本文 the impact of these inventions has been small compared with that of washing machines（こうした発明の影響は、洗濯機の影響と比べると小さい）→ 裏返した言い方 ＝ 選択肢 It has had a greater effect on society than other modern inventions（ほかの現代の発明よりも大きな影響を社会に与えてきた）
+impact（影響）が effect（影響）に、TVs, computers, and smartphones が other modern inventions（ほかの現代の発明）に言いかえられています。greater は great（大きい）の比較級（「より～」を表す形）で、比べる相手は than のあとの other modern inventions です。ですから4が正解です。
+この問題の型：言いかえ（small compared with ～ を裏返して greater than ～）
+【ほかの選択肢】
+1 本文では、洗濯機が社会を変えたと述べています。社会の変化が原因で洗濯機が発明された、という話は書かれておらず、原因と結果が逆になっています。
+2 本文では、テレビ、コンピューター、スマートフォンは、洗濯機と影響の大きさを比べる相手として出てくるだけです。洗濯機がそれらの開発につながったとは書かれていません。
+3 本文が述べている洗濯機の影響は、社会や人々の生活への影響です。自然環境への影響については書かれていません。
+【覚えるポイント】
+・compared with ～：「～と比べると」。
+・本文が「AはBと比べると小さい」と書いているとき、選択肢では「BはAより大きい」と裏返して言いかえられていることがあります。何と何を比べているかを確かめましょう。

@@ -1,0 +1,30 @@
+---
+choices: resigning | lobbying | violating | exhibiting
+answerText: lobbying
+reviewed: yes
+---
+【正解】2 lobbying（（政府や議員に）働きかけている）
+【和訳】
+（英文）
+Various environmental groups are ［lobbying］ the government to pass laws that will do more to prevent pollution.
+（訳）
+さまざまな環境保護団体が、汚染を防ぐためにより多くのことをする法律を成立させるよう、政府に（働きかけて）います。
+（選択肢の意味）
+1 resigning：（仕事や役職を）辞めている
+2 lobbying：（政府や議員に）働きかけている、ロビー活動をしている
+3 violating：（法律や約束を）破っている
+4 exhibiting：展示している、（感情などを）表に出している
+【考え方】
+まず見るところ：空所の後ろの the government to pass laws
+空所のある文は次のとおりです。
+Various environmental groups are (　) the government to pass laws that will do more to prevent pollution.（さまざまな環境保護団体が、汚染を防ぐためにより多くのことをする法律を成立させるよう、政府に（　）いる）
+pass a law は「法律を成立させる（議会で決めて正式な法律にする）」です。空所の後ろは「政府に、法律を成立させるように」という形になっています。
+環境保護団体が、政府に法律を作ってほしいと求めている場面だと考えられます。lobby は「（政府や議員に）働きかける」という意味なので、2が正解です。ロビー活動とは、自分たちの考えに合う法律や政策を作ってもらえるように、政治家などに働きかけることです。
+この問題の型：語の意味・組み合わせ（lobby the government to ～）
+【ほかの選択肢】
+1 resigning は「（仕事や役職を）辞めている」です。「団体が政府を辞めている」となり、意味が通りません。
+3 violating は「（法律や約束を）破っている」です。「団体が政府を破っている」となり、法律を成立させてほしいという内容とつながりません。
+4 exhibiting は「展示している」です。「団体が政府を展示している」となり、意味が通りません。
+【覚えるポイント】
+・lobby 人 to ～：「人に～するよう働きかける」。
+・空所の後ろが「人＋to ～（～するように）」の形になっているときは、「人に何かをするよう求める」意味の動詞かどうかを考えると手がかりになります。

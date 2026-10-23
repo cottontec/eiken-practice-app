@@ -1,0 +1,27 @@
+---
+choices: running | ran | to run | run
+answerText: running
+reviewed: yes
+---
+【正解】1 running（流れている）
+【和訳】
+（英文）
+The little boy just stood there with tears ［running］ down his face as his mother yelled at him for breaking the vase.
+（訳）
+花びんを割ったことで母親にどなられている間、その小さな男の子は、顔に涙を（流し）ながら、ただそこに立っていました。
+（選択肢の意味）
+1 running：流れている（-ing 形）
+2 ran：流れた（過去形）
+3 to run：流れること、流れるために（to ＋動詞の原形）
+4 run：流れる（原形）、流れた（過去分詞）
+【考え方】
+空所の前の with tears（涙と一緒に）に注目します。with ＋名詞＋ -ing は「（名詞）が～している状態で」という意味の形で、そのとき同時に起きている様子を付け加える働きをします。
+ここでは tears（涙）が「流れている」状態です。涙は自分で流れていくものなので、「～している」を表す -ing 形の running を使います。with tears running down his face で「涙が顔を流れ落ちている状態で」となります。ですから1が正解です。
+文の後ろの as his mother yelled at him for breaking the vase の as は「～している間、～しているときに」という意味で、母親にどなられていたのと同じ時に、男の子が泣きながら立っていたことを表しています。yell at ～ は「～をどなる」、for ～ は「～のことで」です。
+【ほかの選択肢】
+2 ran は過去形です。with ＋名詞のあとに過去形をそのまま置く形はないので、ここには入りません。
+3 to run は「to ＋動詞の原形」の形です。with tears to run では「流れるための涙と一緒に」のような意味になってしまい、涙が流れている様子を表せません。
+4 run は原形・過去分詞です。過去分詞を入れると with ＋名詞＋過去分詞（「（名詞）が～された状態で」）の形になりますが、涙は「流される」ものではないので合いません。
+【覚えるポイント】
+・with ＋名詞＋ -ing：「（名詞）が～している状態で」。例：with tears running down his face（涙を流しながら）。
+・with ＋名詞＋過去分詞は「（名詞）が～された状態で」。例：with his eyes closed（目を閉じて）。

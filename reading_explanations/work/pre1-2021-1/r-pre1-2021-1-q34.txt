@@ -1,0 +1,32 @@
+---
+choices: Individuals who avoid discrimination at school are less likely to have impostor syndrome when they start working. | Minorities are more likely to suffer from impostor syndrome if they are treated in the same way as those in the majority. | People who do not see others like themselves in higher positions are more likely to lose hope that they will be promoted. | Minorities are less likely to experience discrimination in schools with a greater amount of diversity.
+answerText: People who do not see others like themselves in higher positions are more likely to lose hope that they will be promoted.
+reviewed: yes
+---
+【正解】3 People who do not see others like themselves in higher positions are more likely to lose hope that they will be promoted.（自分と似た人がより高い地位にいるのを見ない人々は、自分が昇進するという希望を失いやすい。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to Thema Bryant-Davis, which of the following is true?（シーマ・ブライアント＝デイビスによると、次のうちどれが正しいか。）
+1 Individuals who avoid discrimination at school are less likely to have impostor syndrome when they start working.（学校で差別を受けずにすむ人は、働き始めたときにインポスター症候群になりにくい。）
+2 Minorities are more likely to suffer from impostor syndrome if they are treated in the same way as those in the majority.（少数派の人々は、多数派の人々と同じように扱われると、インポスター症候群に苦しみやすくなる。）
+3 People who do not see others like themselves in higher positions are more likely to lose hope that they will be promoted.（自分と似た人がより高い地位にいるのを見ない人々は、自分が昇進するという希望を失いやすい。）
+4 Minorities are less likely to experience discrimination in schools with a greater amount of diversity.（少数派の人々は、多様性がより大きい学校では差別を経験しにくい。）
+【考え方】
+まず見るところ：第3段落の According to psychology professor Thema Bryant-Davis, ～
+設問の According to Thema Bryant-Davis（シーマ・ブライアント＝デイビスによると）と同じ語句が、第3段落にあります。
+According to psychology professor Thema Bryant-Davis, when people in the working world do not see others of their gender or race in positions of power, there is no "signal of the possibility of advancement."（心理学教授のシーマ・ブライアント＝デイビスによると、職場の人々が、自分と同じ性別や人種の人が権力のある地位にいるのを見ないと、「昇進の可能性を示すサイン」がない）
+advancement は「昇進、出世」という意味です。続く文では、Without this, it is often difficult to have self-confidence and maintain a positive attitude in life.（これがないと、自信を持ち、人生に対して前向きな態度を保つことが難しいことが多い）と述べられています。
+本文と選択肢3を対にすると、次のようになります。
+本文 do not see others of their gender or race in positions of power（自分と同じ性別や人種の人が権力のある地位にいるのを見ない）＝ 選択肢 do not see others like themselves in higher positions（自分と似た人がより高い地位にいるのを見ない）
+本文 there is no "signal of the possibility of advancement"（昇進の可能性を示すサインがない）と、前向きな態度を保つのが難しいこと → 選択肢 are more likely to lose hope that they will be promoted（自分が昇進するという希望を失いやすい）
+本文の内容から読み取れることをまとめた言い方なので、3が正解です。
+この問題の型：言いかえ（others of their gender or race ＝ others like themselves）／推論（昇進のサインがない→昇進の希望を失いやすい）
+【ほかの選択肢】
+1 本文にありません。第2段落に academic environment（学問の場）での差別の話はありますが、学校で差別を受けずにすんだ人が、働き始めてからインポスター症候群になりにくいとは書かれていません。また、ブライアント＝デイビスの言葉でもありません。
+2 本文にありません。少数派の人々が多数派と同じように扱われるとどうなるかについては、何も書かれていません。
+4 本文にありません。多様性の大きい学校で差別が少なくなるかどうかは、ブライアント＝デイビスの言葉にも本文のほかの部分にも出てきません。
+【覚えるポイント】
+・According to ～（～によると）で人の名前が出てくる設問では、本文で同じ名前が出てくる場所を探し、その人の言葉の部分だけを根拠にします。
+・in positions of power（権力のある地位に）＝ in higher positions（より高い地位に）、advancement（昇進）＝ be promoted（昇進する）のように、言いかえの組み合わせが答えを見つける手がかりになります。

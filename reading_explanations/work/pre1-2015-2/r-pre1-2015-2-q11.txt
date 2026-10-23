@@ -1,0 +1,32 @@
+---
+choices: verify | thaw | lease | perspire
+answerText: verify
+reviewed: yes
+---
+【正解】1 verify（確かめる、確認する）
+【和訳】
+（英文）
+When you pick up your passport, embassy staff will need to ［verify］ your identity, so be sure to bring some kind of photo ID.
+（訳）
+パスポートを受け取るときには、大使館の職員があなたの身元を（確認する）必要があるので、写真つきの身分証明書を必ず何か持ってきてください。
+（選択肢の意味）
+1 verify：（本当かどうかを）確かめる、確認する
+2 thaw：（凍ったものを）とかす
+3 lease：（土地・建物などを）賃貸しする、賃借りする
+4 perspire：汗をかく
+【考え方】
+まず見るところ：空所のあとの your identity と、文の最後の be sure to bring some kind of photo ID
+空所の直後を見ます。
+your identity（あなたの身元）
+identity は「身元、本人であること」です。空所には、身元をどうするのかを表す動詞が入ります。
+次に、文の最後を見ます。
+so be sure to bring some kind of photo ID（だから、写真つきの身分証明書を必ず何か持ってきてください）
+ID は身分証明書のことです。身分証明書を持ってくるよう言っているのは、職員が「この人が本当に本人か」を確かめるためだと考えられます。verify は「確かめる、確認する」なので、1が正解です。
+この問題の型：因果（身元を確かめる必要がある→so→身分証明書を持ってくる）
+【ほかの選択肢】
+2 thaw は「（凍ったものを）とかす」です。「あなたの身元をとかす」では意味が通りません。
+3 lease は「賃貸しする、賃借りする」です。「あなたの身元を貸し借りする」では意味が通らず、身分証明書を持ってくる理由にもなりません。
+4 perspire は「汗をかく」で、ふつう目的語（動詞の「何を」に当たる語）をとりません。空所のすぐあとに your identity があるので、この文には入りません。
+【覚えるポイント】
+・verify one's identity：「身元を確認する」。
+・空所のあとに so（だから）で続く部分（ここでは身分証明書を持ってくること）は、空所の動詞が表す行動の目的を考える手がかりになります。

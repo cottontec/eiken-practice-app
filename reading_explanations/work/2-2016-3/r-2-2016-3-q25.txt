@@ -1,0 +1,27 @@
+---
+choices: reduce the wind needed | increase the space needed | are a less attractive way | are a more efficient way
+answerText: are a more efficient way
+reviewed: yes
+---
+【正解】4 are a more efficient way（より効率のよい方法である）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 reduce the wind needed（〔エネルギーを生み出すのに〕必要な風を減らす）
+2 increase the space needed（〔エネルギーを生み出すのに〕必要な空間を増やす）
+3 are a less attractive way（〔エネルギーを生み出すための、従来の風力発電より〕魅力の少ない方法である）
+4 are a more efficient way（〔エネルギーを生み出すための、従来の風力発電より〕効率のよい方法である）
+【考え方】
+空所は第2段落の最後の In other words, these balloons (25) to produce energy. です。In other words は「言いかえれば」という意味なので、空所を含む文は直前の文を言いかえたものになります。
+直前の文は次のとおりです。
+As the wind is much stronger at 600 meters, these balloons can create more than twice as much electricity as traditional wind power at a lower cost.（600メートルの高さでは風が〔地表近くよりも〕ずっと強いので、これらの気球は、従来の風力発電の2倍を超える量の電気を、〔従来の風力発電より〕低い費用で作り出すことができる）
+「より多くの電気を、より少ない費用で作れる」ということは、むだが少なく、効率がよい（使ったお金や手間に対して得られるものが多い）ということです。
+are a more efficient way to produce energy（エネルギーを生み出すための、より効率のよい方法である）を入れると、直前の文の言いかえになります。ですから、4が正解です。
+【ほかの選択肢】
+1 「必要な風を減らす」は、本文に書かれていません。気球は、風の量を減らすのではなく、高い所の強い風を使うことで多くの電気を作っています。
+2 「必要な空間を増やす」は、本文に書かれていません。また、これは欠点にあたる内容なので、「2倍を超える電気を低い費用で作れる」というよい点の言いかえになりません。
+3 「魅力の少ない方法である」は、本文と反対です。気球は従来の風力発電より多くの電気を低い費用で作れるので、魅力が少ないとは言えません。第3段落でも大企業が投資していると書かれています。
+【覚えるポイント】
+・In other words：「言いかえれば」。直前の内容を別の言葉で言い直すときに使います。
+・efficient：「効率のよい（むだが少ない）」。more than twice as much ～ as …（…の2倍を超える量の～）のような比べる表現が手がかりになります。

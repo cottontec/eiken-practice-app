@@ -1,0 +1,32 @@
+---
+choices: Consequently | On the contrary | Similarly | For instance
+answerText: Consequently
+reviewed: yes
+---
+【正解】1 Consequently（その結果）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Consequently（その結果）
+2 On the contrary（それどころか、反対に）
+3 Similarly（同じように）
+4 For instance（たとえば）
+【考え方】
+まず見るところ：第2段落の空所の前の However, the experiment showed the drug actually decreased patients’ life expectancy.
+第2段落の流れを順に確かめます。
+This drug had been shown to prevent abnormal heart rhythms, so it was widely assumed it would also reduce the risk of future heart attacks.（この薬は、心臓の異常なリズムを防ぐことが示されていたので、将来の心臓発作の危険も減らすだろうと広く考えられていた）
+However, the experiment showed the drug actually decreased patients’ life expectancy.（しかし、その実験によって、この薬が実際には患者の平均余命を縮めることが分かった）
+life expectancy は「平均余命（これから生きられると見こまれる年数）」です。多くの人が「よい薬だ」と信じていたのに、実験でその反対のことが分かった、という出来事です。
+次に、空所のあとを見ます。
+( 30 ), doctors became more aware that randomized controlled experiments can disprove commonly held beliefs.（（30）、医師たちは、ランダム化比較実験が、一般に信じられている考えの誤りを証明しうることを、（それまでより）強く意識するようになった）
+disprove は「誤りを証明する」という意味です。空所の後ろは、前の出来事を経験したことで医師たちの意識が変わった、という内容です。前が原因、後ろが結果の関係になっています。
+Consequently は「その結果」という意味なので、1が正解です。
+この問題の型：因果（実験で広く信じられた考えがくつがえる→その結果、医師が実験の力を意識する）
+【ほかの選択肢】
+2 On the contrary は「それどころか、反対に」です。前の内容を打ち消して、反対のことを言うときに使います。後ろの「医師たちが実験の力を意識するようになった」は、前の出来事を打ち消す内容ではないので、合いません。
+3 Similarly は「同じように」です。前と似た別の例を並べるときに使いますが、後ろは別の似た例ではなく、前の出来事から生まれた変化なので、合いません。
+4 For instance は「たとえば」です。後ろに具体例が来るときに使います。後ろは具体例ではなく、出来事のあとに医師たちの意識が変わったというまとめなので、合いません。
+【覚えるポイント】
+・Consequently：「その結果」。前が原因、後ろが結果になるときに使うつなぎの語です。
+・つなぎの語を選ぶときは、空所の前と後ろを1文ずつ短くまとめ、「原因→結果」「反対」「例」のどの関係かを確かめると手がかりになります。

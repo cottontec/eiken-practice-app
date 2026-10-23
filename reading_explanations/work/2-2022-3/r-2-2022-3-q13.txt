@@ -1,0 +1,30 @@
+---
+choices: balanced on | opposed to | inherited from | prohibited by
+answerText: inherited from
+reviewed: yes
+---
+【正解】3 inherited from（～から受け継がれた）
+【和訳】
+（英文）
+The current president of Baxter's Boxes is Mike Baxter. His business was ［inherited from］ his father, Peter, who retired 15 years ago.
+（訳）
+バクスターズ・ボクシーズの現在の社長は、マイク・バクスターです。彼の会社は、15年前に引退した父親のピーターから（受け継いだ）ものです。
+（選択肢の意味）
+1 balanced on：～の上でバランスをとった
+2 opposed to：～に反対した
+3 inherited from：～から受け継がれた
+4 prohibited by：～によって禁止された
+【考え方】
+まず見るところ：空所のあとの his father, Peter, who retired 15 years ago
+His business was (　) his father, Peter, who retired 15 years ago.（彼の会社は、15年前に引退した父親のピーターから（　）された）
+マイクは今の社長で、父親のピーターは15年前に引退しています。ここから、父親が引退したときに、息子のマイクが会社を引き継いだと考えると、話が自然につながります。
+inherit は「（財産や仕事などを）受け継ぐ」という意味で、be inherited from ～ で「～から受け継がれる」となります。His business was inherited from his father で「彼の会社は父親から受け継がれた」となるので、3が正解です。
+この問題の型：推論（引退した父親と今の社長の関係から考える）、語の意味・組み合わせ
+【ほかの選択肢】
+1 balanced on は「～の上でバランスをとった」です。「彼の会社は父親の上でバランスをとっていた」となり、意味が通りません。
+2 opposed to は「～に反対した」です。be opposed to ～ は「～に反対している」なので、「彼の会社は父親に反対していた」となり、会社を主語にした文として不自然です。父親が引退したこととのつながりも説明できません。
+4 prohibited by は「～によって禁止された」です。「彼の会社は父親によって禁止された」となりますが、マイクは今その会社の社長なので、話と合いません。
+【覚えるポイント】
+・inherit A from B：「BからAを受け継ぐ」。受け身にすると A is inherited from B です。
+・retire：「（仕事を）引退する、退職する」。
+・「前の人が引退した」「今の人が社長だ」のように人が入れかわる話では、「受け継ぐ」という意味の語が合わないかを考えます。

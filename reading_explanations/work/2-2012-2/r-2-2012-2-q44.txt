@@ -1,0 +1,29 @@
+---
+choices: People who use them would wash their clothes less often. | They could reduce the amount of carbon dioxide being released. | The plastic beads from them can be used for other purposes. | The water in them is recycled over and over until it is dirty.
+answerText: They could reduce the amount of carbon dioxide being released.
+reviewed: yes
+---
+【正解】2 They could reduce the amount of carbon dioxide being released.（それらは、放出される二酸化炭素の量を減らせるかもしれない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：新しい洗濯機が環境によいかもしれない理由の1つは何ですか。
+1 People who use them would wash their clothes less often.（それを使う人は、衣服を洗う回数が（今より）少なくなるだろう。）
+2 They could reduce the amount of carbon dioxide being released.（それらは、放出される二酸化炭素の量を減らせるかもしれない。）
+3 The plastic beads from them can be used for other purposes.（それらから出るプラスチックのビーズは、ほかの目的に使うことができる。）
+4 The water in them is recycled over and over until it is dirty.（その中の水は、汚れるまで何度も再利用される。）
+【考え方】
+設問の good for the environment（環境によい）という言葉は、第4段落の2文目に At the same time, the machines are very good for the environment.（同時に、この機械は環境にもとてもよい）として出てきます。そのあとに、環境によい理由が書かれています。
+1つは水の節約で、アメリカで新しい機械が取り入れられたら 90 percent of this water could be saved（この水の90パーセントを節約できるだろう）とあります。
+もう1つが The saving of electricity, meanwhile, would help decrease the amount of carbon dioxide produced by power plants.（一方、電気の節約は、発電所で生み出される二酸化炭素の量を減らすのに役立つだろう）です。carbon dioxide は「二酸化炭素」、power plant は「発電所」です。新しい機械は電気の節約になり、それが二酸化炭素を減らすことにつながる、ということです。本文と選択肢は次のように対応しています。
+本文 would help decrease the amount of carbon dioxide（二酸化炭素の量を減らすのに役立つだろう）＝ 選択肢 could reduce the amount of carbon dioxide（二酸化炭素の量を減らせるかもしれない）
+本文 produced by power plants（発電所で生み出される）二酸化炭素 → 選択肢では being released（放出される）二酸化炭素と表されています
+したがって、2が正解です。
+【ほかの選択肢】
+1 衣服を洗う回数が減るという話は、本文に書かれていません。本文が述べているのは、1回の洗濯で使う水やエネルギーが少なくてすむということです。
+3 ビーズについては、洗濯機の中で over and over（何度も）使えると書かれているだけで、ほかの目的に使えるという話はありません。
+4 本文で何度も繰り返し使えるとされているのは「ビーズ」で、「水」ではありません。beads made of nylon can be used repeatedly until they are completely full of dirt（ナイロンのビーズは汚れでいっぱいになるまで繰り返し使える）とあります。水を再利用するという話はないので、物が取り違えられています。
+【覚えるポイント】
+・carbon dioxide：「二酸化炭素」。release は「（気体などを）放出する、出す」です。
+・help ＋ 動詞の原形：「～するのに役立つ」。help decrease ～ で「～を減らすのに役立つ」です。

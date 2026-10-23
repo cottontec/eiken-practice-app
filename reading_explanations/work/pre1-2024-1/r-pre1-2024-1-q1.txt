@@ -1,0 +1,32 @@
+---
+choices: defensive | innovative | abrupt | mournful
+answerText: innovative
+reviewed: yes
+---
+【正解】2 innovative（革新的な）
+【和訳】
+（英文）
+All of Raoul’s coworkers respect him for his ［innovative］ ideas. He has suggested many new and creative ways to improve his team’s performance.
+（訳）
+ラウールの同僚は皆、彼の（革新的な）アイデアのことで彼を尊敬しています。彼はこれまでに、チームの成果を高めるための新しく独創的な方法をたくさん提案してきました。
+（選択肢の意味）
+1 defensive：防御的な、（批判されると）むきになって自分を守ろうとする
+2 innovative：革新的な（今までにない新しい工夫のある）
+3 abrupt：突然の、（態度が）ぶっきらぼうな
+4 mournful：悲しげな、悲しみに沈んだ
+【考え方】
+まず見るところ：後半の文の many new and creative ways
+空所のある文は次のとおりです。
+All of Raoul’s coworkers respect him for his (　) ideas.（ラウールの同僚は皆、彼の（　）アイデアのことで彼を尊敬している）
+coworker は「同僚（同じ職場で働く仲間）」です。respect A for B で「BのことでAを尊敬する」という意味になります。どんなアイデアなのかは、後半の文で説明されています。
+He has suggested many new and creative ways to improve his team’s performance.（彼はこれまでに、チームの成果を高めるための新しく独創的な方法をたくさん提案してきた）
+creative は「独創的な（自分で新しいものを考え出す）」です。この文は、前の文の「アイデア」がどんなものかを具体的に説明していると考えられます。
+ですから、空所には「新しく独創的な」に近い意味の語が入ります。innovative は「革新的な（今までにない新しい工夫のある）」という意味なので、2が正解です。
+この問題の型：言いかえ（innovative ideas → new and creative ways）
+【ほかの選択肢】
+1 defensive は「防御的な、むきになって自分を守ろうとする」です。「防御的なアイデアで尊敬されている」となり、新しく独創的な方法を提案してきたという後半の文と合いません。
+3 abrupt は「突然の、ぶっきらぼうな」です。「ぶっきらぼうなアイデアで尊敬されている」となり、意味が通りません。
+4 mournful は「悲しげな」です。「悲しげなアイデアで尊敬されている」となり、意味が通りません。
+【覚えるポイント】
+・innovative：「革新的な」。この問題では、後半の new and creative（新しく独創的な）とほぼ同じ内容を表しています。
+・空所のある文のあとに、その人がしてきたことを具体的に説明する文が続くときは、その説明の語（ここでは new and creative）と同じ方向の意味の語を選ぶと手がかりになります。

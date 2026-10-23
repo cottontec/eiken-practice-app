@@ -1,0 +1,32 @@
+---
+choices: In spite of this | Therefore | Likewise | In particular
+answerText: In spite of this
+reviewed: yes
+---
+【正解】1 In spite of this（それにもかかわらず）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 In spite of this（それにもかかわらず）
+2 Therefore（したがって、そのため）
+3 Likewise（同じように）
+4 In particular（特に）
+【考え方】
+まず見るところ：空所の前の環境保護団体の取り組みと、空所のあとの people continue to throw away plastic
+many environmental protection organizations are making efforts to get governments to do something about the plastic in the ocean（多くの環境保護団体が、海のプラスチックについて政府に何か対策をとってもらおうと努力している）
+get ＋人＋ to ～ は「（人）に～してもらう」という意味です。団体が政府に働きかけていることが分かります。
+Such groups are also trying to educate the public about the problem.（そうした団体は、この問題について一般の人々に教えようともしている）
+ここまでは、問題を減らそうとする努力が書かれています。
+(　), people continue to throw away plastic, and the amount of plastic in the ocean continues to increase.（（　）、人々はプラスチックを捨て続けており、海のプラスチックの量は増え続けている）
+団体がこれだけ努力しているのに、プラスチックの量は増え続けています。前の内容から予想されることと、反対の結果です。
+in spite of ～ は「～にもかかわらず」という意味で、this は前に書かれた団体の努力を指します。1が正解です。
+この問題の型：対比（努力⇔増え続ける結果）、指示語（this）
+【ほかの選択肢】
+2 Therefore は「したがって、そのため」と、前の内容の結果を続けるときに使います。「団体が人々に教えようとしている。そのため、人々はプラスチックを捨て続けている」となり、話のつながりがおかしくなります。
+3 Likewise は「同じように」と、前と似た内容を付け加えるときに使います。前は問題を解決しようとする努力、後ろはその問題が続いているという内容で、似た内容ではありません。
+4 In particular は「特に」と、前の話の中から1つを取り出してくわしく言うときに使います。後ろの文は団体の努力の具体例ではないので、合いません。
+【覚えるポイント】
+・in spite of ～：「～にもかかわらず」。前の内容から予想されることと反対の結果が後ろに来ます。
+・get ＋人＋ to ～：「（人）に～してもらう、～させる」。
+・つなぎの言葉が文の最初にある空所では、前の内容と空所の文の内容が「順当な続き」か「反対」かを比べて選びます。

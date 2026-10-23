@@ -1,0 +1,30 @@
+---
+choices: The games that Breen created for Freerice were not very popular with teenagers at first. | The idea for Freerice was first thought of by two boys who were living in the U.S. | Some people think Freerice is successful because its users can enjoy helping people. | Charities get donations even when visitors to Freerice's website do not play the games.
+answerText: Some people think Freerice is successful because its users can enjoy helping people.
+reviewed: yes
+---
+【正解】3 Some people think Freerice is successful because its users can enjoy helping people.（フリーライスが成功しているのは、利用者が人を助けることを楽しめるからだと考える人もいる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：次の記述のうち、正しいものはどれですか。
+1 The games that Breen created for Freerice were not very popular with teenagers at first.（ブリーンがフリーライスのために作ったゲームは、初めのうちは10代の若者にあまり人気がなかった。）
+2 The idea for Freerice was first thought of by two boys who were living in the U.S.（フリーライスのアイデアを最初に思いついたのは、アメリカに住んでいた2人の男の子だった。）
+3 Some people think Freerice is successful because its users can enjoy helping people.（フリーライスが成功しているのは、利用者が人を助けることを楽しめるからだと考える人もいる。）
+4 Charities get donations even when visitors to Freerice's website do not play the games.（フリーライスのウェブサイトを訪れた人がゲームをしなくても、慈善団体は寄付を受け取れる。）
+【考え方】
+本文の最後の文を見ます。Breen and others believe that the secret of the site's popularity is that players enjoy not only trying to get a high score but also donating as much rice as possible.（ブリーンやほかの人たちは、このサイトが人気である秘密は、プレーヤーが高い得点をとろうとすることだけでなく、できるだけ多くの米を寄付することも楽しんでいる点にあると考えている）とあります。not only A but also B は「AだけでなくBも」という意味です。
+同じ段落の初めには From the beginning, the website has been very successful.（初めから、このウェブサイトは大成功している）とあり、サイトが成功していることも分かります。
+本文と選択肢は次のように対応しています。
+本文 Breen and others believe（ブリーンやほかの人たちは考えている）＝ 選択肢 Some people think（～と考える人もいる）
+本文 the secret of the site's popularity（サイトが人気である秘密）＝ 選択肢 Freerice is successful because ～（フリーライスが成功しているのは～だから）
+本文 players enjoy ～ donating as much rice as possible（プレーヤーはできるだけ多くの米を寄付することを楽しんでいる）＝ 選択肢 its users can enjoy helping people（利用者は人を助けることを楽しめる）
+米を寄付することは、食べ物に困っている人を助けることにあたります。正解は3です。
+【ほかの選択肢】
+1 本文には From the beginning, the website has been very successful.（初めから、このウェブサイトは大成功している）とあり、1年もたたないうちに1日に最大1億粒が寄付されていました。初めは人気がなかったという内容は、本文と反対です。
+2 本文の two boys（2人の男の子）は、Breen, who is the father of two boys（2人の男の子の父親であるブリーン）として出てくるだけです。アイデアを思いついたのはブリーン本人なので、合いません。
+4 本文では、米が寄付されるのは Each time the player answers a problem correctly（プレーヤーが問題に正しく答えるたびに）です。ゲームをしなくても寄付が届くという話は本文にありません。
+【覚えるポイント】
+・not only A but also B：「AだけでなくBも」。
+・popularity：「人気」。popular（人気がある）の名詞の形です。

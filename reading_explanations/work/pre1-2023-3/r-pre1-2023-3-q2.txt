@@ -1,0 +1,32 @@
+---
+choices: interpreted | facilitated | reprimanded | devastated
+answerText: devastated
+reviewed: yes
+---
+【正解】4 devastated（荒らされる、ひどく破壊される）
+【和訳】
+（英文）
+Rainforests are disappearing faster than ever, but many environmental groups are working to save them from being ［devastated］ by agriculture.
+（訳）
+熱帯雨林はこれまでにない速さで消えつつあるが、多くの環境保護団体が、熱帯雨林が農業によって（荒らされる）ことのないよう守ろうと活動している。
+（選択肢の意味）
+1 interpreted：解釈される（意味を読み取られる）
+2 facilitated：容易にされる、促進される
+3 reprimanded：（厳しく）しかられる
+4 devastated：荒らされる、ひどく破壊される
+【考え方】
+まず見るところ：文の前半の Rainforests are disappearing faster than ever と、空所の前の save them from being
+前半では、熱帯雨林が消えつつあると書かれています。
+Rainforests are disappearing faster than ever（熱帯雨林はこれまでにない速さで消えつつある）
+faster than ever は「これまでのどのときよりも速く」です。後半はそれに対して、環境保護団体が守ろうとしているという内容です。
+save them from being (　) by agriculture（熱帯雨林が農業によって〇〇されることから守る）
+save A from ～ing は「Aが～しないように守る」です。them は Rainforests（熱帯雨林）を指します。
+熱帯雨林が消えつつあるのですから、守る相手は「農業によって荒らされること」と考えられます。devastate は「荒らす、ひどく破壊する」で、being devastated で「荒らされること」になるので、4が正解です。
+この問題の型：語の意味・組み合わせ（save ～ from being ＋ 悪いこと）
+【ほかの選択肢】
+1 interpreted は「解釈される」です。「熱帯雨林が農業によって解釈されることから守る」となり、意味が通りません。
+2 facilitated は「容易にされる、促進される」です。「熱帯雨林が農業によって促進されることから守る」となり、消えつつある熱帯雨林を守るという話と合いません。
+3 reprimanded は「しかられる」で、ふつう人について使います。「熱帯雨林が農業にしかられることから守る」となり、意味が通りません。
+【覚えるポイント】
+・devastate：「荒らす、ひどく破壊する」。save A from ～ing：「Aが～しないように守る」。
+・save ～ from being の後ろには、守りたいものが受けると困ること（悪いこと）が入ります。前の文に disappearing（消えつつある）のような悪い変化があれば、それが手がかりになります。

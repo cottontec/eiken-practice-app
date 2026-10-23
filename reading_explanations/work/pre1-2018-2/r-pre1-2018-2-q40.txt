@@ -1,0 +1,35 @@
+---
+choices: It is a mistake to assume large-scale immigration will have a negative effect on wage levels in the cities that immigrants come to live in. | Large-scale immigration is only beneficial when those supplying the additional labor are not competing with highly skilled workers. | When wages for unskilled workers in a city are already very low, large-scale immigration will likely have a positive effect on them. | Large-scale immigration to a city can have a lasting influence on education and employment there even if its short-term effects are minor.
+answerText: It is a mistake to assume large-scale immigration will have a negative effect on wage levels in the cities that immigrants come to live in.
+reviewed: yes
+---
+【正解】1 It is a mistake to assume large-scale immigration will have a negative effect on wage levels in the cities that immigrants come to live in.（大規模な移民が、移民の住むようになった都市の賃金の水準に悪い影響を与えると思いこむのはまちがいだ。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Which of the following statements is supported by David Card’s study?（デビッド・カードの研究によって裏づけられるのは、次のどの意見か。）
+1 It is a mistake to assume large-scale immigration will have a negative effect on wage levels in the cities that immigrants come to live in.（大規模な移民が、移民の住むようになった都市の賃金の水準に悪い影響を与えると思いこむのはまちがいだ。）
+2 Large-scale immigration is only beneficial when those supplying the additional labor are not competing with highly skilled workers.（大規模な移民がためになるのは、増えた労働力を提供する人々が、高い技能を持つ労働者と競争していない場合だけだ。）
+3 When wages for unskilled workers in a city are already very low, large-scale immigration will likely have a positive effect on them.（都市の技能を持たない労働者の賃金がすでにとても低い場合、大規模な移民は、その賃金によい影響を与える可能性が高い。）
+4 Large-scale immigration to a city can have a lasting influence on education and employment there even if its short-term effects are minor.（都市への大規模な移民は、短期的な影響は小さくても、その都市の教育と雇用に長く続く影響を与えることがある。）
+【考え方】
+まず見るところ：第3段落の there should have been, in theory, a significant negative impact ～ と Yet according to a study by economist David Card, ～ “virtually no effect” on wages in the long run
+第3段落では、まず「理論上はこうなるはずだった」という考えが示されます。
+As most of the refugees were uneducated and had few skills, there should have been, in theory, a significant negative impact on the wages of Miami’s unskilled workers resulting from the large increase in supply.（難民の大半は教育を受けておらず、技能もほとんどなかったので、理論上は、労働力の供給が大きく増えた結果として、マイアミの技能を持たない労働者の賃金に、大きな悪い影響があったはずだった）
+should have been ～ は「～だったはずだ」、in theory は「理論上は」、wage は「賃金（働いてもらうお金）」です。
+次の文は Yet（しかし）で始まり、カードの研究の結果を述べています。
+Yet according to a study by economist David Card, although there was a slight increase in the unemployment rate between April and July 1980, there was “virtually no effect” on wages in the long run（しかし、経済学者デビッド・カードの研究によると、1980年の4月から7月の間に失業率がわずかに上がったものの、長い目で見ると、賃金には「事実上影響がなかった」）
+virtually は「事実上、ほとんど」という意味です。さらに、キューバ系ではない技能を持たない労働者の収入は安定していた、とも書かれています。
+本文と選択肢を対にすると、次のようになります。
+本文 there should have been, in theory, a significant negative impact（理論上は大きな悪い影響があったはずだった）→ 選択肢 assume large-scale immigration will have a negative effect on wage levels（大規模な移民が賃金の水準に悪い影響を与えると思いこむ）
+本文 “virtually no effect” on wages in the long run（長い目で見ると賃金には事実上影響がなかった）→ 読み取れること：そう思いこむのはまちがいだ（選択肢 It is a mistake）
+理論の予想が、カードの研究では当てはまらなかったので、1がカードの研究に裏づけられる意見だと読み取れます。1が正解です。
+この問題の型：対比（理論上は悪い影響のはず⇔実際には事実上影響なし）
+【ほかの選択肢】
+2 本文に書かれていません。カードの研究では、高い技能を持つ労働者との競争については調べられておらず、移民がためになる条件についても述べられていません。
+3 本文に書かれていません。カードの研究の結果は「事実上影響がなかった」で、賃金によい影響があったとは書かれていません。また、賃金がもともと低い場合という条件の話も出てきません。
+4 本文に書かれていません。カードの研究が示したのは、短い期間に失業率がわずかに上がったものの、長い目で見ると賃金には事実上影響がなかったという結果です。教育や雇用に長く続く影響があるという話は出てきません。
+【覚えるポイント】
+・in theory（理論上は）や should have been（～だったはずだ）のあとに Yet（しかし）が続くときは、「予想」と「実際の結果」が食い違っていることを示す手がかりになります。
+・virtually：「事実上、ほとんど」。virtually no effect で「事実上影響がない」。

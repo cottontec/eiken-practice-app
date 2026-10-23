@@ -1,0 +1,22 @@
+---
+choices: impossible | at | had | what | seemed
+answerText: impossible
+order: 4 3 5 1 2
+reviewed: yes
+---
+【正解】1 impossible（この問題の4番目）
+【完成文】
+Yoshi thought he was too old to learn Spanish. However, ( what had seemed impossible at ) first was not that difficult. After a few months, he could have a simple conversation in the language.
+並べ方：4 what → 3 had → 5 seemed → 1 impossible → 2 at（2番目は3、4番目は1）
+【和訳】
+ヨシは、自分はスペイン語を学ぶには年をとりすぎていると思っていました。しかし、最初は不可能に思えたことは、それほど難しくありませんでした。数か月後には、彼はスペイン語で簡単な会話ができました。
+【考え方】
+今回は、まず決まった言い方を見つけるところから始めます。空所のすぐあとに first があるので、2 at と組み合わせて at first（最初は）とします。空所の最後は at です。
+次に、残りの 4 what、3 had、5 seemed、1 impossible で、was not that difficult の主語を作ります。not that difficult は「それほど難しくない」で、that は「それほど」の意味です。
+「それほど難しくなかった」と言える主語として、1文目の内容から「スペイン語を学ぶこと」に関する、最初に思っていたことが考えられます。what を先頭に置き、what had seemed impossible（不可能に思えていたこと）とします。seem のあとには「どのように思えるか」を表す語が来るので、seemed のすぐあとに impossible（不可能な）を置きます。had seemed は、「難しくなかった」と分かったときよりも前に、そう思えていたことを表します。
+こうして what had seemed impossible at first（最初は不可能に思えていたこと）となり、「不可能だと思っていたが、実際にはそれほど難しくなかった」という、However（しかし）の前後の対比（2つを比べて違いを示すこと）ができます。
+したがって4番目は1 impossible です。
+impossible を what のすぐあとに置いて what impossible had seemed とすることはできません。seem ～（～に思える）の「～」にあたる impossible は、seemed のあとに置きます。
+【覚えるポイント】
+・seem ＋ 形容詞：「～のように思える」。seemed impossible で「不可能に思えた」。
+・not that ～：「それほど～ではない」。

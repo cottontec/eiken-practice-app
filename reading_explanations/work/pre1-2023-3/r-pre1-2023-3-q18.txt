@@ -1,0 +1,29 @@
+---
+choices: monetary | judicial | mutual | indifferent
+answerText: mutual
+reviewed: yes
+---
+【正解】3 mutual（お互いの、双方の）
+【和訳】
+（英文）
+John and Tina made the ［mutual］ decision to end their relationship. Neither one was happy, and they both wanted to start dating other people.
+（訳）
+ジョンとティナは、交際を終わりにするという（お互いの）決断をした。どちらも幸せではなく、二人ともほかの人と付き合い始めたいと思っていた。
+（選択肢の意味）
+1 monetary：お金の、金銭の
+2 judicial：裁判の、司法の
+3 mutual：お互いの、双方の
+4 indifferent：無関心な
+【考え方】
+まず見るところ：次の文の Neither one was happy と they both wanted
+どんな決断だったのかは、次の文で説明されています。
+Neither one was happy, and they both wanted to start dating other people.（どちらも幸せではなく、二人ともほかの人と付き合い始めたいと思っていた）
+neither one は「どちらも～ない」、they both は「二人とも」です。つまり、どちらか一方だけでなく、二人とも別れたいと思っていたことが分かります。mutual は「お互いの、双方の」で、the mutual decision で「お互いが同じ考えでした決断」となるので、3が正解です。
+この問題の型：言いかえ（Neither one ／ they both → mutual）
+【ほかの選択肢】
+1 monetary は「お金の」です。「お金の決断」では、次の文の「二人とも幸せでなかった」という説明とつながりません。
+2 judicial は「裁判の」です。交際を終わりにすることを裁判で決めたとは書かれておらず、合いません。
+4 indifferent は「無関心な」です。「無関心な決断」では、二人ともほかの人と付き合いたいと思って決めたという次の文と合いません。
+【覚えるポイント】
+・mutual：「お互いの、双方の」。neither one：「どちらも～ない」。
+・次の文に both（両方）や neither（どちらも～ない）があり、二人が同じ気持ちだと書かれているときは、「お互いの」を表す語が手がかりになります。

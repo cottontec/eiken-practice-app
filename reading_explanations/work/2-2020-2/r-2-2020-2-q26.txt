@@ -1,0 +1,28 @@
+---
+choices: Fortunately | In this way | On the other hand | As a result
+answerText: On the other hand
+reviewed: yes
+---
+【正解】3 On the other hand（一方で）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Fortunately（幸いにも）
+2 In this way（このようにして）
+3 On the other hand（一方で）
+4 As a result（その結果）
+【考え方】
+空所は第3段落の (26), the leaves on trees are too high to protect people near the road from pollution caused by cars.（（26）、木の葉は高すぎて、車による汚染から道路の近くにいる人々を守ることができない）の文頭にあります。too ～ to ... は「～すぎて…できない」という意味です。
+空所の前の文は This is because hedges stand at the same "breathing height" as pedestrians and cyclists.（これは、生け垣が歩行者や自転車に乗る人と同じ「呼吸の高さ」にあるからだ）です。
+2つの文を比べると、次のようになります。
+・前の文：生け垣は、人と同じ「呼吸の高さ」にある（だから汚染を減らすのに効果的）
+・空所の文：木の葉は高すぎて、人を守れない
+生け垣と木という2つのものについて、反対の性質を並べて比べています。このように、前の内容と対比（2つを比べて違いを示すこと）させるときに使うのが On the other hand（一方で）です。ですから3が正解です。
+【ほかの選択肢】
+1 Fortunately は「幸いにも」と、よいことを述べるときに使います。「木の葉が高すぎて人を守れない」はよいことではないので、合いません。
+2 In this way は「このようにして」と、前に述べた方法や様子をまとめるときに使います。「木の葉が高すぎる」ことは、前の文の「生け垣が呼吸の高さにある」ことのまとめではないので、合いません。
+4 As a result は「その結果」と、前の内容から起こったことを述べるときに使います。生け垣が呼吸の高さにあるせいで木の葉が高くなるわけではないので、原因と結果の関係になりません。
+【覚えるポイント】
+・On the other hand：「一方で」。2つのものを比べて、違いを示すときに使います。
+・too ～ to ...：「～すぎて…できない」。

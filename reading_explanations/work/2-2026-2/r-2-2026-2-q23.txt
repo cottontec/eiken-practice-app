@@ -1,0 +1,30 @@
+---
+choices: travel to warmer countries | survive the cold winter | give birth in the caves | sleep in large groups
+answerText: survive the cold winter
+reviewed: yes
+---
+【正解】2 survive the cold winter（寒い冬を生きのびる）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 travel to warmer countries（（今いる場所より）暖かい国へ移動する）
+2 survive the cold winter（寒い冬を生きのびる）
+3 give birth in the caves（洞窟で子どもを産む）
+4 sleep in large groups（大きな群れで眠る）
+【考え方】
+まず見るところ：第3段落の空所の直後の how these bats maintain energy during the winter months
+空所のある文は次のとおりです。
+Also, experts are studying what various bats need to (23).（また、専門家たちは、さまざまなコウモリが（23）ために何を必要としているのかを研究している）
+空所の直後の文は、その研究の中身を説明しています。
+They attach small tracking devices to monitor their activities and understand how these bats maintain energy during the winter months.（彼らは、小さな追跡装置を取りつけて、その活動を見守り、これらのコウモリが冬の何か月もの間、どのようにエネルギーを保っているのかを理解しようとしている）
+研究しているのは、コウモリが冬の間にどうやってエネルギーを保つかです。第2段落には、病気で冬に目覚めて動き回ったコウモリが体の脂肪を失い、冬は食べ物が十分にないために多くが死んでしまう、と書かれていました。
+冬の間にエネルギーを保てるかどうかが、生きのびられるかどうかに関わっていると読み取れます。survive は「生きのびる、（困難を）乗りこえて生き残る」という意味なので、2が正解です。
+この問題の型：具体例とまとめ（直後の研究内容をまとめる）／推論（冬のエネルギーと生きのびることの関係）
+【ほかの選択肢】
+1 「（今いる場所より）暖かい国へ移動する」という話は本文にありません。本文のコウモリは、冬の間は洞窟やトンネルで眠ると書かれていて、研究の中身も冬にエネルギーを保つ方法です。
+3 「洞窟で子どもを産む」という話は本文にありません。空所の直後の文は、冬の間のエネルギーについての研究で、子どもを産むこととは関係がありません。
+4 「大きな群れで眠る」という話は本文にありません。研究の中身は、追跡装置で活動を見守り、冬のエネルギーの保ち方を知ることで、群れで眠ることではありません。
+【覚えるポイント】
+・survive：「生きのびる、生き残る」。survive the cold winter で「寒い冬を生きのびる」。
+・空所の直後に研究や調査の具体的な中身が書かれているときは、その中身をまとめて言える選択肢を選ぶと手がかりになります。

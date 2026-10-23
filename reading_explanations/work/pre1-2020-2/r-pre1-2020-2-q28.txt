@@ -1,0 +1,31 @@
+---
+choices: Therefore | Nonetheless | Alternatively | Regrettably
+answerText: Therefore
+reviewed: yes
+---
+【正解】1 Therefore（したがって、それゆえ）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Therefore（したがって、それゆえ）
+2 Nonetheless（それにもかかわらず）
+3 Alternatively（あるいは、その代わりに）
+4 Regrettably（残念なことに）
+【考え方】
+まず見るところ：第3段落の空所の前の every pound invested in bus services generates eight pounds' worth of wider benefits
+空所の前には、バスの運行がどれだけ大切かが書かれています。
+Claire Haigh ～ believes bus services are crucial to Britain's economic health.（クレア・ヘイグは、バスの運行はイギリス経済の健全さにとって極めて重要だと考えている）
+every pound invested in bus services generates eight pounds' worth of wider benefits to the economy（バスの運行に投資された1ポンドごとに、経済に対して8ポンド分の、より幅広い利益が生み出される）
+1ポンド使うと8ポンド分の利益が生まれるのですから、バスにお金を使うことは得になる、という内容です。
+空所のあとを見ます。
+it seems that local governments must make every effort to restore and even increase their local bus routes（地方自治体は、地域のバス路線を復活させ、さらには増やすために、あらゆる努力をしなければならないように思われる）
+「バスは大きな利益を生む」という理由から、「だからバス路線を復活させるべきだ」という結論が出ています。理由と結論をつなぐ Therefore（したがって）が入るので、1が正解です。
+この問題の型：因果（バスは大きな利益を生む→だから路線を増やすべき）
+【ほかの選択肢】
+2 Nonetheless（それにもかかわらず）は、前と反対の向きの内容が続くときに使います。「利益が大きい」と「路線を増やす努力をすべき」は同じ向きなので、合いません。
+3 Alternatively（あるいは、その代わりに）は、別の選択肢を示すときに使います。空所のあとは前の文とは別の案ではなく、前の文から出てくる結論なので、合いません。
+4 Regrettably（残念なことに）は、前の文の「8ポンド分の利益が生まれる」というよい内容から、路線を増やすべきだという結論につなぐ言葉になりません。この文は前の内容を受けた結論なので、残念な気持ちを表す語は合いません。
+【覚えるポイント】
+・Therefore：「したがって、それゆえ」。理由のあとに結論を述べるときに使います。
+・段落の最後の空所のあとが must make every effort to ～（～するためにあらゆる努力をしなければならない）のような主張になっているときは、前に書かれた根拠と同じ向きかどうかを確かめると、Therefore が入るかどうかの手がかりになります。

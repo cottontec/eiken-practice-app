@@ -1,0 +1,33 @@
+---
+choices: infected | recited | galloped | diverted
+answerText: diverted
+reviewed: yes
+---
+【正解】4 diverted（～の向きを変えた、～をう回させた）
+【和訳】
+（英文）
+Emergency services were having difficulty getting to the scene of the accident, so the police ［diverted］ traffic to another road to make space for ambulances and fire trucks.
+（訳）
+緊急出動の隊（救急隊や消防隊など）が事故の現場にたどり着くのに苦労していたので、警察は、救急車と消防車のための場所を空けるために、車の流れを別の道路へ（う回させた）。
+（選択肢の意味）
+1 infected：～に感染させた、（病気を）うつした
+2 recited：～を暗唱した、読み上げた
+3 galloped：（馬が）全速力で走った
+4 diverted：～の向きを変えた、～をう回させた（回り道をさせた）
+【考え方】
+まず見るところ：空所の後ろの traffic to another road と、to make space for ambulances and fire trucks
+空所の後ろは、次のようになっています。
+traffic to another road（車の流れを別の道路へ）
+traffic は、ここでは「道路を通る車の流れ、交通」という意味です。「車の流れを別の道路へ～した」という形なので、流れの向きを変える意味の動詞が入ると考えられます。
+文の最後の部分も確かめます。
+to make space for ambulances and fire trucks（救急車と消防車のための場所を空けるために）
+この to ～ は「～するために」と目的を表しています。ふだんの車を別の道へ回せば、救急車や消防車が通れる場所ができます。
+また、前半の「緊急出動の隊が現場にたどり着くのに苦労していた」が、so（だから）の前の理由になっています。divert は「～の向きを変える、～を回り道させる」なので、4が正解です。
+この問題の型：語の意味・組み合わせ（divert traffic to ～）／因果（so）
+【ほかの選択肢】
+1 infected は「～に感染させた」です。「車の流れを別の道路へ感染させた」となり、意味が通りません。
+2 recited は「～を暗唱した、読み上げた」です。詩や文章などに使う語で、「車の流れを別の道路へ読み上げた」では意味が通りません。
+3 galloped は「（馬が）全速力で走った」です。主に馬が走る様子を表す語で、車の流れを別の道路へ動かすという意味にはなりません。
+【覚えるポイント】
+・divert A to B：「AをBへそらす、AをBへう回させる」。
+・空所の後ろが「名詞＋to＋行き先」の形になっているときは、その名詞をどこかへ動かす意味の動詞が入らないかを考えると、答えの手がかりになります。

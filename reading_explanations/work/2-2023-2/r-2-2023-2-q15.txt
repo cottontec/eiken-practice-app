@@ -1,0 +1,33 @@
+---
+choices: typical of | inferior to | grateful for | patient with
+answerText: typical of
+reviewed: yes
+---
+【正解】1 typical of（～らしい、～によくある）
+【和訳】
+（英文）
+A: Where's Gerald? He should have been here half an hour ago.
+B: That's ［typical of］ him. I don't think he ever arrives on time.
+（訳）
+A：ジェラルドはどこ？ 30分前にはここに来ているはずだったのに。
+B：それはいかにも彼（らしい）ね。彼が時間どおりに来ることなんて、一度もないと思うよ。
+（選択肢の意味）
+1 typical of：～らしい、～によくある
+2 inferior to：～より劣っている
+3 grateful for：～に感謝している
+4 patient with：～に対してがまん強い
+【考え方】
+まず見るところ：Bの2つ目の文 I don't think he ever arrives on time.
+He should have been here half an hour ago.（彼は30分前にはここにいるはずだった）
+should have ＋過去分詞（been など）は「～しているはずだった（のに、そうなっていない）」という意味です。ジェラルドが遅れているということです。
+I don't think he ever arrives on time.（彼が時間どおりに着くことは一度もないと思う）
+ジェラルドはいつも遅れてくる人だ、ということです。
+typical of ～ は「～らしい、～によくある」という意味です。That's typical of him. で「それはいかにも彼らしい」となり、いつも遅れてくる彼がまた遅れている、という内容に合います。ですから1が正解です。
+この問題の型：熟語・決まった形（be typical of ～）
+【ほかの選択肢】
+2 inferior to は「～より劣っている」です。「それ（遅れていること）は彼より劣っている」となり、意味が通りません。
+3 grateful for は「～に感謝している」です。感謝するのは人なので、主語が That（それ）では合わず、「それは彼に感謝している」となって意味が通りません。
+4 patient with は「～に対してがまん強い」です。これも人について使う言い方で、「それは彼に対してがまん強い」となり、意味が通りません。
+【覚えるポイント】
+・be typical of ～：「～らしい、～によくある」。That's typical of him. で「いかにも彼らしい」。
+・That's (　) him. のように That（それ）が主語のときは、選択肢を入れて「それは彼～だ」と言えるかどうか確かめると、人が主語の言い方を外すことができます。

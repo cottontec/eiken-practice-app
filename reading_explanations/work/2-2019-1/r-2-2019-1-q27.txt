@@ -1,0 +1,30 @@
+---
+choices: Its writers volunteer to help clean the environment each month. | Its readers pay to read its articles that are not on the Internet. | It is sent to readers in the mail once a month. | It does not pay its writers any money.
+answerText: It does not pay its writers any money.
+reviewed: yes
+---
+【正解】4 It does not pay its writers any money.（その雑誌は書き手にお金をまったく払っていない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：『グリーンジン』について正しいことは何ですか。
+1 Its writers volunteer to help clean the environment each month.（その雑誌の書き手は、毎月、環境をきれいにする手伝いをボランティアでしている。）
+2 Its readers pay to read its articles that are not on the Internet.（その雑誌の読者は、インターネットに載っていない記事を読むためにお金を払っている。）
+3 It is sent to readers in the mail once a month.（その雑誌は、月に1回、郵便で読者に送られている。）
+4 It does not pay its writers any money.（その雑誌は、書き手にお金をまったく払っていない。）
+【考え方】
+『グリーンジン』の説明は、第1段落にまとめて書かれています。
+It's a nonprofit magazine, so we offer all of our material to readers for free every month.（非営利の雑誌なので、毎月、すべての記事などを読者に無料で提供している）
+Because of this, we ask volunteers to write all our articles instead of hiring paid writers.（このため、お金を払って書き手を雇うのではなく、すべての記事をボランティアに書いてもらっている）
+paid writers は「お金を払われる書き手」、instead of ～ は「～ではなく、～の代わりに」です。つまり、お金を払って書き手を雇うことはせず、すべての記事をボランティアが書いています。ボランティアは、お金をもらわずに自分から活動する人のことです。
+本文と選択肢を対にすると、次のようになります。
+本文 ask volunteers to write all our articles instead of hiring paid writers（お金を払う書き手を雇わず、すべての記事をボランティアに書いてもらう）→ 読み取れること：It does not pay its writers any money（書き手にお金を払っていない）
+ですから、4が正解です。
+【ほかの選択肢】
+1 書き手がボランティアなのは「記事を書くこと」についてです。環境をきれいにする活動をボランティアでしているとは書かれていません。every month（毎月）という語は本文にありますが、それは読者に無料で記事を提供するという話です。
+2 本文では、『グリーンジン』は an online magazine（オンライン雑誌）で、記事は for free（無料で）提供されています。「インターネットに載っていない」「お金を払っている」の両方が本文と反対です。
+3 『グリーンジン』は an online magazine（オンライン雑誌）で、郵便で送られるとはどこにも書かれていません。every month（毎月）とはありますが、それは毎月無料で記事を提供するということです。
+【覚えるポイント】
+・instead of ～：「～ではなく、～の代わりに」。
+・for free：「無料で」。nonprofit は「非営利の（お金をもうけることを目的としない）」です。

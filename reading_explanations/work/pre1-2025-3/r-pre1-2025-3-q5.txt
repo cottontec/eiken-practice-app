@@ -1,0 +1,32 @@
+---
+choices: inhale | haunt | obstruct | compress
+answerText: compress
+reviewed: yes
+---
+【正解】4 compress（～を圧縮する、～を詰め込む）
+【和訳】
+（英文）
+Although the actual battle lasted for almost a week, the writer decided to ［compress］ all the events into one day in his novel to make it more dramatic.
+（訳）
+実際の戦いはほぼ1週間続いたが、その作家は、小説をより劇的にするために、小説の中ですべての出来事を1日に（詰め込む）ことにした。
+（選択肢の意味）
+1 inhale：～を吸いこむ
+2 haunt：（幽霊が）～に出る、（考えなどが）～につきまとう
+3 obstruct：～をふさぐ、～をじゃまする
+4 compress：～を圧縮する、～を詰め込む
+【考え方】
+まず見るところ：Although の部分の almost a week と、空所のあとの all the events into one day
+前半には、次のように書かれています。
+Although the actual battle lasted for almost a week（実際の戦いはほぼ1週間続いたが）
+Although は「～だけれども」と、後ろに反対の内容が続く合図です。
+空所のある部分は、次のとおりです。
+the writer decided to (　) all the events into one day in his novel（その作家は、小説の中ですべての出来事を1日に（　）ことにした）
+実際には「ほぼ1週間」かかった出来事を、小説では one day（1日）の中に入れたという話です。長いものを短く縮めて入れる意味の語が必要です。compress A into B は「AをBに圧縮する、詰め込む」という意味なので、4が正解です。
+この問題の型：対比（実際はほぼ1週間⇔小説では1日）
+【ほかの選択肢】
+1 inhale は「～を吸いこむ」です。「すべての出来事を1日に吸いこむ」となり、作家が小説を書くときの行動として意味が通りません。
+2 haunt は「（幽霊が）～に出る、～につきまとう」です。「すべての出来事を1日に出る」となり、into one day ともつながらず、意味が通りません。
+3 obstruct は「～をふさぐ、～をじゃまする」です。「すべての出来事をじゃまする」となり、1週間の出来事を1日にまとめたという話になりません。
+【覚えるポイント】
+・compress A into B：「AをBに圧縮する、詰め込む」。
+・almost a week（ほぼ1週間）と one day（1日）のように、空所の前後で長さや量がはっきり変わっているときは、その変わり方（ここでは短く縮める）を表す語が入る手がかりになります。

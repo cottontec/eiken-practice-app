@@ -1,0 +1,31 @@
+---
+choices: passionate | obscure | uncomfortable | feeble
+answerText: passionate
+reviewed: yes
+---
+【正解】1 passionate（熱心な、情熱的な）
+【和訳】
+（英文）
+Henrietta is a very ［passionate］ reader. She loves books, and it is not unusual for her to finish several in a week.
+（訳）
+ヘンリエッタはとても（熱心な）読書家です。彼女は本が大好きで、1週間に数冊を読み終えることは珍しくありません。
+（選択肢の意味）
+1 passionate：熱心な、情熱的な
+2 obscure：世に知られていない、あいまいな
+3 uncomfortable：心地よくない、落ち着かない
+4 feeble：弱々しい、力のない
+【考え方】
+まず見るところ：後半の文の She loves books, and it is not unusual for her to finish several in a week.
+She loves books, and it is not unusual for her to finish several in a week.（彼女は本が大好きで、1週間に数冊を読み終えることは珍しくない）
+it is not unusual for her to ～ は「彼女が～することは珍しくない」、several は「いくつか（ここでは数冊の本）」という意味です。本が大好きで、よくたくさん読むということが分かります。
+空所のある文は次のとおりです。
+Henrietta is a very (　) reader.（ヘンリエッタはとても（　）読書家だ）
+reader は「読者、読書をする人」です。本が大好きで1週間に数冊読む人を表すには、「熱心な」という意味の passionate が合います。ですから1が正解です。
+この問題の型：言いかえ（passionate reader ＝ loves books, finish several in a week）
+【ほかの選択肢】
+2 obscure は「世に知られていない、あいまいな」です。「とても世に知られていない読書家」となり、本が大好きでたくさん読むという後半の文と合いません。
+3 uncomfortable は「心地よくない、落ち着かない」です。「とても落ち着かない読書家」となり、本が大好きだという後半の文と合いません。
+4 feeble は「弱々しい、力のない」です。「とても弱々しい読書家」となり、1週間に数冊読み終えるという後半の文と反対の印象になります。
+【覚えるポイント】
+・passionate：「熱心な、情熱的な」。a passionate reader で「熱心な読書家」です。
+・空所のある文のすぐあとに、その人がどんな人かをくわしく説明する文がくることがあります。loves books（本が大好き）のような説明が、空所の形容詞（名詞のようすを表す語）の手がかりになります。

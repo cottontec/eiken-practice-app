@@ -1,0 +1,33 @@
+---
+choices: The number of boats coming to Peru to hunt them has risen recently. | Fishermen are destroying the places where the seabirds live. | Many of the fish they eat are being caught for the meat industry. | Some of them are being killed by farmers to feed their animals.
+answerText: Many of the fish they eat are being caught for the meat industry.
+reviewed: yes
+---
+【正解】3 Many of the fish they eat are being caught for the meat industry.（海鳥が食べる魚の多くが、食肉産業のためにとられている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：グアノを生み出す海鳥にとっての新たな脅威の1つは何ですか。
+1 The number of boats coming to Peru to hunt them has risen recently.（海鳥をとるためにペルーにやってくる船の数が、最近増えている。）
+2 Fishermen are destroying the places where the seabirds live.（漁師たちが、海鳥のすむ場所を破壊している。）
+3 Many of the fish they eat are being caught for the meat industry.（海鳥が食べる魚の多くが、食肉産業のためにとられている。）
+4 Some of them are being killed by farmers to feed their animals.（海鳥の一部が、農家によって、動物のえさにするために殺されている。）
+【考え方】
+new threat（新たな脅威）という言葉は、第4段落の1文目に出てきます。threat は「脅威（危険をもたらすもの、おびやかすもの）」です。その中身が、2文目以降に順に書かれています。
+2文目：The seabirds that produce guano mainly eat a small kind of fish called anchoveta（グアノを生み出す海鳥は、主にアンチョベータと呼ばれる小さな種類の魚を食べている）。
+3文目：Anchoveta, though, are also often used to feed animals that are being raised for meat.（しかし、アンチョベータは、食肉用に育てられている動物のえさとしてもよく使われている）。feed は「えさを与える」、be raised for meat は「食肉用に育てられる」です。
+4文目：肉の消費が増えるにつれてアンチョベータの需要も高まり、now fishing boats from many countries come to the area to catch them（今では多くの国の漁船が、アンチョベータをとるためにその海域にやってくる）。
+つまり、海鳥のえさであるアンチョベータが、肉用の動物のえさにするために多くの国の漁船にとられていることが、海鳥にとっての脅威になっていると読み取れます。
+本文と選択肢は次のように対応しています。
+本文 a small kind of fish called anchoveta（海鳥が主に食べるアンチョベータという魚）＝ 選択肢 the fish they eat（海鳥が食べる魚）
+本文 fishing boats from many countries come to the area to catch them（多くの国の漁船がアンチョベータをとりに来ている）＝ 選択肢 are being caught（とられている）
+本文 used to feed animals that are being raised for meat（食肉用に育てられている動物のえさに使われる）→ 選択肢 for the meat industry（食肉産業のために）
+正解は3です。
+【ほかの選択肢】
+1 本文には、多くの国の漁船がペルー沖にやってくると書かれています。しかし、その船がとっているのは魚（アンチョベータ）で、海鳥ではありません。船について一部は本文と合っていますが、何をとっているかが違います。
+2 本文には、漁師が海鳥のすむ場所を破壊しているとは書かれていません。
+4 本文で動物のえさに使われているのは、アンチョベータという魚です。海鳥が農家に殺されて動物のえさにされるとは書かれていません。
+【覚えるポイント】
+・threat：「脅威、おびやかすもの」。a new threat to ～ で「～にとっての新たな脅威」。
+・be raised for meat：「食肉用に育てられる」。raise には「（動物を）育てる」という意味があります。

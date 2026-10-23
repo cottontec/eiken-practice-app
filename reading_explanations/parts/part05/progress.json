@@ -1,0 +1,84 @@
+{
+  "part": 5,
+  "targetAnswerSlots": 350,
+  "batches": [
+    {
+      "batchId": "2-2009-2",
+      "target": 50,
+      "written": 50,
+      "contentReviewed": 50,
+      "status": "complete_reviewed",
+      "blank": 0,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 0
+    },
+    {
+      "batchId": "2-2009-3",
+      "target": 50,
+      "written": 50,
+      "contentReviewed": 50,
+      "status": "complete_reviewed",
+      "blank": 0,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 0
+    },
+    {
+      "batchId": "2-2010-1",
+      "target": 50,
+      "written": 50,
+      "contentReviewed": 50,
+      "status": "complete_reviewed",
+      "blank": 0,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 0
+    },
+    {
+      "batchId": "2-2010-2",
+      "target": 50,
+      "written": 50,
+      "contentReviewed": 50,
+      "status": "complete_reviewed",
+      "blank": 0,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 0
+    },
+    {
+      "batchId": "2-2010-3",
+      "target": 50,
+      "written": 50,
+      "contentReviewed": 50,
+      "status": "complete_reviewed",
+      "blank": 0,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 0
+    },
+    {
+      "batchId": "2-2011-1",
+      "target": 50,
+      "written": 50,
+      "contentReviewed": 50,
+      "status": "complete_reviewed",
+      "blank": 0,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 0
+    },
+    {
+      "batchId": "2-2011-2",
+      "target": 50,
+      "written": 50,
+      "contentReviewed": 50,
+      "status": "complete_reviewed",
+      "blank": 0,
+      "issues": 0,
+      "checkErrors": 0,
+      "checkWarnings": 0
+    }
+  ],
+  "updatedAt": "2026-10-22T22:18:36+00:00"
+}

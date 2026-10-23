@@ -1,0 +1,32 @@
+---
+choices: went for | let up | picked over | set off
+answerText: went for
+reviewed: yes
+---
+【正解】1 went for（～を取ろうとした、～に飛びかかった）
+【和訳】
+（英文）
+As the suspect was being arrested by the police, he ［went for］ an officer's gun. Luckily, he was stopped before he could get it.
+（訳）
+容疑者は警察に逮捕されているときに、警察官の銃を（取ろうとし）ました。幸いなことに、彼はそれを手に入れる前に止められました。
+（選択肢の意味）
+1 went for：～を取ろうとした、～に飛びかかった
+2 let up：（雨などが）弱まった、手をゆるめた
+3 picked over：（よいものを選ぶために）よく調べた、より分けた
+4 set off：出発した、（爆発物や警報などを）作動させた
+【考え方】
+まず見るところ：あとの文の he was stopped before he could get it
+空所のある文は次のとおりです。
+As the suspect was being arrested by the police, he ( ) an officer's gun.（容疑者は警察に逮捕されているときに、警察官の銃を（　））
+suspect は「容疑者（罪をおかした疑いのある人）」、was being arrested は「逮捕されている最中だった」という意味です。
+あとの文は次のとおりです。
+Luckily, he was stopped before he could get it.（幸いなことに、彼はそれを手に入れる前に止められた）
+it は an officer's gun（警察官の銃）を指します。容疑者は銃を「手に入れる前に止められた」ので、銃を手に入れようとしていたことが分かります。go for ～ は「～を取ろうとする、～に飛びかかる」なので、1が正解です。
+この問題の型：指示語（it ＝ an officer's gun）／推論（手に入れる前に止められた→取ろうとした）
+【ほかの選択肢】
+2 let up は「弱まる、手をゆるめる」です。あとに「～を」に当たる語を置いて使う形ではなく、「警察官の銃を弱まった」となり、意味が通りません。
+3 picked over は「よく調べた、より分けた」です。たくさんのものの中からよいものを選ぶときに使う語句なので、「警察官の銃をより分けた」となり、意味が通りません。
+4 set off は「（爆発物や警報などを）作動させた」です。あとの文から、容疑者はまだ銃を手に入れていないと分かるので、「警察官の銃を作動させた」では前後が合いません。
+【覚えるポイント】
+・go for ～：「～を取ろうとする、～に飛びかかる」。ものをつかもうとしたり、人に襲いかかろうとしたりするときに使われます。
+・あとの文の before he could get it（それを手に入れる前に）のように、「実際にはできなかった」ことが書かれているときは、空所に「～しようとした」という意味の語句が入る手がかりになります。

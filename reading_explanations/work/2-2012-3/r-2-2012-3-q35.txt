@@ -1,0 +1,29 @@
+---
+choices: She works for a company that moved to Grantville. | She is making efforts to save the old City Hall. | She has been trying to bring more people into Grantville. | She runs an organization that is cleaning up city parks.
+answerText: She is making efforts to save the old City Hall.
+reviewed: yes
+---
+【正解】2 She is making efforts to save the old City Hall.（彼女は古い市庁舎を守るために努力している。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：カーラ・テイラーについて分かることの1つは何ですか。
+1 She works for a company that moved to Grantville.（彼女はグラントビルに移ってきた会社で働いている。）
+2 She is making efforts to save the old City Hall.（彼女は古い市庁舎を守るために努力している。）
+3 She has been trying to bring more people into Grantville.（彼女はグラントビルにもっと多くの人を呼びこもうとしてきた。）
+4 She runs an organization that is cleaning up city parks.（彼女は市の公園をそうじしている団体を運営している。）
+【考え方】
+カーラ・テイラーは第2段落に出てきます。At the event, the new mayor of Grantville City, Carla Taylor, will give a speech on the history of the old City Hall building.（催しでは、グラントビル市の新しい市長カーラ・テイラーが、古い市庁舎の建物の歴史についてスピーチをする）とあります。mayor は「市長」です。
+次の文で、そのスピーチのねらいが書かれています。She hopes that this will help more people in town understand why this building is so important, and that more of them will be interested in saving it.（彼女は、これによって、この建物がなぜそれほど大切なのかを町のより多くの人が理解し、より多くの人がそれを守ることに関心を持つことを願っている）。
+第1段落によると、この催しは古い市庁舎が取り壊されないように署名を集めるためのものです。テイラーさんはその催しでスピーチをし、より多くの人に市庁舎を守ることに関心を持ってもらおうとしています。これは、古い市庁舎を守るための働きかけです。
+本文と選択肢は次のように対応しています。
+本文 will give a speech ／ hopes that ～ more of them will be interested in saving it ＝ 選択肢 is making efforts to save the old City Hall
+正解は2です。
+【ほかの選択肢】
+1 テイラーさんはグラントビル市の新しい市長です。グラントビルに移ってきた会社で働いているという話は本文にありません。
+3 本文の more people in town は「町のより多くの人が（建物の大切さを理解する）」という意味で、町の外から人を呼びこむという話ではありません。
+4 公園のそうじは、催しのあとにボランティアに手伝ってほしいこととして書かれています。テイラーさんが公園をそうじする団体を運営しているという話は本文にありません。
+【覚えるポイント】
+・make efforts to ～：「～しようと努力する」。
+・help ＋ 人 ＋ 動詞のもとの形：「人が～するのを助ける」。本文では help more people in town understand ～ の形で使われています。

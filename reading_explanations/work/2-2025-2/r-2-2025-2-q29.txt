@@ -1,0 +1,31 @@
+---
+choices: They tried to get rid of the mark on their body. | They escaped from the picture and hid behind a rock. | They ignored the picture and showed no interest in it. | They began swimming with other fish in the tank.
+answerText: They tried to get rid of the mark on their body.
+reviewed: yes
+---
+【正解】1 They tried to get rid of the mark on their body.（自分の体の印を取り除こうとした。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What behavior did the cleaner wrasses take when they were shown a picture of themselves with a mark?（印のついた自分自身の写真を見せられたとき、ホンソメワケベラはどのような行動をとりましたか。）
+1 They tried to get rid of the mark on their body.（自分の体の印を取り除こうとした。）
+2 They escaped from the picture and hid behind a rock.（写真から逃げて、岩の後ろに隠れた。）
+3 They ignored the picture and showed no interest in it.（写真を無視して、まったく興味を示さなかった。）
+4 They began swimming with other fish in the tank.（水槽の中でほかの魚といっしょに泳ぎ始めた。）
+【考え方】
+まず見るところ：第3段落の When they were shown a picture of themselves with a mark on their body, ～
+When they were shown a picture of themselves with a mark on their body, they tried to remove the mark from their body.（体に印のついた自分自身の写真を見せられると、魚たちは自分の体から印を取り除こうとした。）
+設問の when they were shown a picture of themselves with a mark は、この文の前半とほぼ同じ言葉です。答えは、この文の後半に書かれています。
+本文と選択肢を対にすると、次のようになります。
+本文 they tried to remove the mark from their body ＝ 選択肢 They tried to get rid of the mark on their body
+remove（取り除く）が get rid of（～を取り除く）に言いかえられています。ですから1が正解です。
+なお、写真に印がついていても、魚たちが取ろうとしたのは写真の印ではなく、自分の体の印です。第3段落の始めの They also recognized themselves in photographs.（魚たちは、写真の中の自分も認識した）という内容と合う行動です。
+この問題の型：言いかえ（remove ＝ get rid of）
+【ほかの選択肢】
+2 写真から逃げて岩の後ろに隠れたとは、本文に書かれていません。本文に岩は出てきません。
+3 写真を無視して興味を示さなかったのではなく、自分の写真を見て体の印を取ろうとしたので、本文と反対です。なお、印のついたほかの魚の写真のときは did not act the same way（同じような行動はとらなかった）とありますが、それは自分の写真のときの話ではなく、「無視した」とも書かれていません。
+4 水槽の中でほかの魚といっしょに泳ぎ始めたとは、本文に書かれていません。
+【覚えるポイント】
+・get rid of ～：「～を取り除く」。本文の remove（取り除く）と同じ意味です。
+・設問の言葉が本文の文の前半とほぼ同じなら、その文の後半に答えがあることが多いです。後半の動詞（ここでは remove）が選択肢でどう言いかえられているかを探しましょう。

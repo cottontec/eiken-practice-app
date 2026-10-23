@@ -1,0 +1,30 @@
+---
+choices: It can greatly reduce how much stress people feel. | It can increase the speed at which the heart beats. | It should be done six minutes after physical exercise. | It has fewer benefits than listening to music.
+answerText: It can greatly reduce how much stress people feel.
+reviewed: yes
+---
+【正解】1 It can greatly reduce how much stress people feel.（それは人々が感じるストレスの量を大きく減らすことができる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：デイビッド・ルイスは、黙読（声を出さずに読むこと）について何を発見しましたか。
+1 It can greatly reduce how much stress people feel.（それは人々が感じるストレスの量を大きく減らすことができる。）
+2 It can increase the speed at which the heart beats.（それは心臓の鼓動の速さを上げることができる。）
+3 It should be done six minutes after physical exercise.（それは運動をした6分後にするべきである。）
+4 It has fewer benefits than listening to music.（それは音楽を聴くことよりも、よい効果が少ない。）
+【考え方】
+David Lewis（デイビッド・ルイス）は第2段落に出てきます。彼が発見したことを順に確かめます。
+He found that reading silently for six minutes slowed down the rate at which the heart beats and helped the muscles relax.（彼は、6分間黙読すると、心臓の鼓動の速さがゆっくりになり、筋肉の緊張がほぐれるのに役立つことを発見した）
+Indeed, Lewis learned that reading can reduce stress levels by more than 60 percent.（実際、ルイスは、読書によってストレスの度合いが60パーセント以上下がりうることを知った）
+by more than 60 percent（60パーセント以上）は、ストレスがとても大きく減ることを表しています。
+本文と選択肢を対にすると、次のようになります。
+本文 reduce stress levels by more than 60 percent（ストレスの度合いを60パーセント以上下げる）＝ 選択肢 greatly reduce how much stress people feel（人々が感じるストレスの量を大きく減らす）
+「60パーセント以上」が greatly（大きく）に、stress levels（ストレスの度合い）が how much stress people feel（人々がどれくらいストレスを感じるか）に言いかえられています。1が正解です。
+【ほかの選択肢】
+2 本文には slowed down the rate at which the heart beats（心臓の鼓動の速さをゆっくりにした）とあります。速さを上げるのではなく下げたので、本文と反対です。
+3 six minutes（6分）は、黙読をした時間の長さです。運動の6分後に読むべきだという話ではなく、運動については本文に書かれていません。
+4 本文には This is much more effective than other methods of reducing stress, such as listening to music.（これは、音楽を聴くことなど、ストレスを減らすほかの方法よりもずっと効果的だ）とあります。読書のほうが音楽を聴くよりずっと効果的なので、本文と反対です。
+【覚えるポイント】
+・reduce ～ by …：「～を…だけ減らす」。by more than 60 percent で「60パーセント以上（減らす）」。
+・the rate at which the heart beats：「心臓が鼓動する速さ」。rate は「速さ、割合」です。

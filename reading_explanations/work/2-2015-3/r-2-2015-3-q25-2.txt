@@ -1,0 +1,22 @@
+---
+choices: it's | unless | talk | I | can't
+answerText: can't
+order: 4 5 3 2 1
+reviewed: yes
+---
+【正解】5 can't（この問題の2番目）
+【完成文】
+Sorry, Paul. I'm really busy now. ( I can't talk unless it's ) urgent.
+並べ方：4 I → 5 can't → 3 talk → 2 unless → 1 it's（2番目は5、4番目は2）
+【和訳】
+A：ジャクソンさん、少しお話ししてもいいですか。
+B：ごめんなさい、ポール。今、本当に忙しいのです。急ぎの用事でないかぎり、お話しできません。
+【考え方】
+Aは could I speak with you for a moment?（少しお話ししてもいいですか）とたずねています。Bは Sorry（ごめんなさい）と言い、I'm really busy now.（今、本当に忙しい）と続けています。ですから空所には、「今は話せない」という内容が入ると考えられます。
+空所の文は、主語と動詞のそろったふつうの文にします。主語は 4 I、そのあとに 5 can't（～できない）を置き、3 talk（話す）を続けて I can't talk（私は話せない）とします。can't は助動詞（動詞の前に置いて意味を付け足す語）の否定の形なので、すぐあとに動詞の元の形 talk が来ます。
+残った 2 unless と 1 it's で、unless it's urgent（それが急ぎでないかぎり）を作ります。
+したがって2番目は5 can't です。
+まちがえやすいのは、5 can't → 4 I → 3 talk → 2 unless → 1 it's（Can't I talk unless it's urgent?）のように can't を先に置く並べ方です。これは「急ぎでないと話せないのですか」とたずねる疑問文の語順になり、忙しいと断っているBの言葉に合いません。
+【覚えるポイント】
+・could I ～?：「～してもいいですか」とていねいに許可を求める言い方です。
+・主語 ＋ can't ＋ 動詞の元の形：「…は～できない」。

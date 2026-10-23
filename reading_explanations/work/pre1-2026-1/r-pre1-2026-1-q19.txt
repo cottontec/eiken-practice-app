@@ -1,0 +1,31 @@
+---
+choices: Consequently | Specifically | Nonetheless | Otherwise
+answerText: Specifically
+reviewed: yes
+---
+【正解】2 Specifically（具体的に言うと）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Consequently（その結果）
+2 Specifically（具体的に言うと）
+3 Nonetheless（それにもかかわらず）
+4 Otherwise（そうでなければ、それ以外の点では）
+【考え方】
+まず見るところ：第1段落の空所の前の The idea that the order in which children are born can have a lasting and dramatic effect on their personalities と、空所の後ろの Adler believed that ～
+空所の前の文は、アドラーが生み出した考えを、大まかに紹介しています。
+The idea that the order in which children are born can have a lasting and dramatic effect on their personalities was developed by the Austrian psychologist Alfred Adler more than a century ago.（子どもが生まれた順番が、その子たちの性格に、長く続く大きな影響を与えることがあるという考えは、1世紀以上前に、オーストリアの心理学者アルフレッド・アドラーによって生み出された）
+ここでは「生まれた順番が性格に影響する」と言っているだけで、どう影響するのかはまだ書かれていません。
+空所の後ろを見ます。
+Adler believed that firstborns tended to be responsible yet anxious, that middle children were more diplomatic, and that youngest siblings were more rebellious（アドラーは、最初に生まれた子どもは責任感が強い一方で心配性になる傾向があり、真ん中の子どもはより人あたりがよく、いちばん下のきょうだいはより反抗的だと考えていた）
+ここでは、最初の子・真ん中の子・いちばん下の子のそれぞれについて、どんな性格になるのかがくわしく書かれています。
+前の文の大まかな考えを、後ろの文で細かく説明する流れなので、Specifically（具体的に言うと）が合います。ですから2が正解です。
+この問題の型：具体例とまとめ（大まかな考え → 生まれた順番ごとの具体的な性格）
+【ほかの選択肢】
+1 Consequently（その結果）を入れると、アドラーの考えが、何かの「結果」として生まれたことになります。後ろの文は前の文の結果ではなく、前の文の考えの中身そのものなので合いません。
+3 Nonetheless（それにもかかわらず）は、前と反対の向きの内容が続くときに使います。後ろの文は前の文の考えをくわしく言っているだけで、反対の内容ではないので合いません。
+4 Otherwise（そうでなければ、それ以外の点では）は、前に述べたことと別の場合や別の点を示すときに使います。後ろの文は前の考えと同じ話を続けているので合いません。
+【覚えるポイント】
+・Specifically：「具体的に言うと」。前の大まかな内容を、後ろでくわしく説明するときに使います。
+・つなぎの語を選ぶ空所では、空所の前が「大まかな話」で後ろが「細かい中身」になっていないかを確かめると、手がかりになります。

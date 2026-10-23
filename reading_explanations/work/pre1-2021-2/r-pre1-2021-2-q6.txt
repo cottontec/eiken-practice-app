@@ -1,0 +1,32 @@
+---
+choices: tickle | swallow | litter | nurture
+answerText: nurture
+reviewed: yes
+---
+【正解】4 nurture（育てる、はぐくむ）
+【和訳】
+（英文）
+The ambassador worked hard to ［nurture］ a close relationship between the two countries so that they would never go to war again.
+（訳）
+その大使は、2つの国が二度と戦争をすることがないように、両国の間の親しい関係を（はぐくむ）ために懸命に努力した。
+（選択肢の意味）
+1 tickle：くすぐる
+2 swallow：飲みこむ
+3 litter：（ごみなどを）散らかす
+4 nurture：育てる、はぐくむ
+【考え方】
+まず見るところ：文の後半の so that they would never go to war again
+文の後半を確かめます。
+so that they would never go to war again（2つの国が二度と戦争をすることがないように）
+so that ～ は「～するように」と目的を表します。大使（外国に送られて、自分の国を代表する役人）は、2つの国が戦争をしないことを目指していました。
+次に、空所のある部分を見ます。
+worked hard to ( ) a close relationship between the two countries（両国の間の親しい関係を（　）ために懸命に努力した）
+戦争をしないようにするために、大使は親しい関係を「作って大きくしていく」必要があります。nurture は「（子どもや植物を）育てる」から広がって、「（関係や気持ちを）はぐくむ」という意味でも使うので、4が正解です。
+この問題の型：語の意味・組み合わせ（nurture a close relationship：親しい関係をはぐくむ）／因果（親しい関係→二度と戦争をしない）
+【ほかの選択肢】
+1 tickle は「くすぐる」です。「親しい関係をくすぐる」とは言わず、意味が通りません。
+2 swallow は「飲みこむ」です。「親しい関係を飲みこむ」では意味が通りません。
+3 litter は「（ごみなどを）散らかす」です。「関係を散らかす」とは言わず、戦争を防ぐという目的にもつながりません。
+【覚えるポイント】
+・nurture：「育てる、はぐくむ」。relationship（関係）のような目に見えないものにも使います。
+・so that ～（～するように）で目的が書かれているときは、その目的のために何をするかを考えると、空所の動詞を決める手がかりになります。

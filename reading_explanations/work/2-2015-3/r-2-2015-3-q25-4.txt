@@ -1,0 +1,22 @@
+---
+choices: it's | unless | talk | I | can't
+answerText: unless
+order: 4 5 3 2 1
+reviewed: yes
+---
+【正解】2 unless（この問題の4番目）
+【完成文】
+Sorry, Paul. I'm really busy now. ( I can't talk unless it's ) urgent.
+並べ方：4 I → 5 can't → 3 talk → 2 unless → 1 it's（2番目は5、4番目は2）
+【和訳】
+A：ジャクソンさん、少しお話ししてもいいですか。
+B：ごめんなさい、ポール。今、本当に忙しいのです。急ぎの用事でないかぎり、お話しできません。
+【考え方】
+この問題のかぎは 2 unless です。unless は「～でないかぎり、もし～でなければ」という意味で、後ろに主語と動詞の文を続けます。
+空所のあとの urgent（急ぎの、緊急の）に注目します。urgent は人や物のようすを表す語なので、前に it's（it is）を置いて it's urgent（それは急ぎだ）とします。it は、Aが話したい用事を指していると考えられます。unless の後ろに it's urgent を置くと、unless it's urgent（それが急ぎでないかぎり）となります。
+残りの 4 I → 5 can't → 3 talk で I can't talk（私は話せない）を作り、その後ろに unless it's urgent を続けます。「忙しいので、急ぎの用でなければ話せない」となり、Bの I'm really busy now.（今、本当に忙しい）とつながります。
+したがって4番目は2 unless です。
+まちがえやすいのは、2 unless → 4 I → 5 can't → 3 talk → 1 it's（Unless I can't talk, it's urgent.）のように unless を先頭に置く並べ方です。これでは「私が話せないのでなければ、それは急ぎだ」となり、意味が通りません。unless のあとには、「話せない」ことの条件になる it's urgent を置きます。
+【覚えるポイント】
+・unless ～：「～でないかぎり、もし～でなければ」。if ～ not とほぼ同じ意味です。
+・urgent：「急ぎの、緊急の」。

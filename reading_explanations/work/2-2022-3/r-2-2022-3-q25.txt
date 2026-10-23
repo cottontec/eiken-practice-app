@@ -1,0 +1,32 @@
+---
+choices: keep a steady rhythm | learn how to build ships | get to know one another | scare sharks away
+answerText: keep a steady rhythm
+reviewed: yes
+---
+【正解】1 keep a steady rhythm（一定のリズムを保つ）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 keep a steady rhythm（一定のリズムを保つ）
+2 learn how to build ships（船の造り方を学ぶ）
+3 get to know one another（お互いに知り合いになる）
+4 scare sharks away（サメをおどして追い払う）
+【考え方】
+まず見るところ：第2段落の最後の This helped them to (25).
+During these shanties, one of the sailors, known as the "shantyman," would sing out a line.（これらのシャンティの間、「シャンティマン」と呼ばれる船乗りの1人が、歌の1行を大きな声で歌った）
+The other sailors would all sing the next line together.（ほかの船乗りたちは、全員で次の1行をいっしょに歌った）
+This（これ）が指すのは、この2つの文の内容です。1人が歌い、全員がそれに続いて歌うことをくり返していました。help ＋人＋ to ～ は「（人）が～するのに役立つ」という意味です。
+さらに、第2段落の前半には、シャンティがどんな作業に使われたかが書かれています。
+work that needed a regular pace without stopping（止まらずに一定の速さで続ける必要がある作業）
+They sang these shanties as they worked together for a few seconds, stopped to take a breath, and then started again.（彼らは、数秒間いっしょに作業をし、息をつくために止まり、それからまた始めながら、これらのシャンティを歌った）
+みんなで同じタイミングで動くための歌だと分かります。steady は「一定の、安定した」という意味なので、keep a steady rhythm（一定のリズムを保つ）が入り、1が正解です。
+この問題の型：指示語（This）、言いかえ（regular pace ≒ steady rhythm）
+【ほかの選択肢】
+2 「船の造り方を学ぶ」は、本文に書かれていません。シャンティは船の上で錨を上げたり帆を上げたりする作業のときに歌われたもので、船を造る話ではありません。
+3 「お互いに知り合いになる」も、本文には書かれていません。together（いっしょに）という言葉はありますが、それは全員で同じ行を歌うことを表していて、知り合いになることではありません。
+4 「サメをおどして追い払う」は、本文にサメの話が出てこないので合いません。
+【覚えるポイント】
+・steady：「一定の、安定した」。a steady rhythm で「一定のリズム」。
+・help ＋人＋ to ～：「（人）が～するのに役立つ」。to を省いた help ＋人＋動詞の原形の形もあります。
+・This で始まる文の空所では、This が指す内容（ここでは「1人が歌い、全員が続く」）と、段落の前半の説明（「一定の速さで続ける作業」）を読み合わせて、何に役立つのかを考えます。

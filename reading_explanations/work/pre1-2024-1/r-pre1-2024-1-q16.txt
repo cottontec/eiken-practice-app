@@ -1,0 +1,31 @@
+---
+choices: ran out of | came up with | got down to | looked in on
+answerText: got down to
+reviewed: yes
+---
+【正解】3 got down to（～に（本気で）取りかかった）
+【和訳】
+（英文）
+Kelsey took a client to dinner to discuss a new project, but they only ［got down to］ business after they finished their meal.
+（訳）
+ケルシーは、新しい企画について話し合うために取引先の客を夕食に連れて行きましたが、二人が仕事の話に（取りかかった）のは、食事を終えてからでした。
+（選択肢の意味）
+1 ran out of：～を使い果たした、～がなくなった
+2 came up with：（考えなど）を思いついた
+3 got down to：～に（本気で）取りかかった
+4 looked in on：～の様子を見に立ち寄った
+【考え方】
+まず見るところ：空所の後ろの business と、文の前半の to discuss a new project
+文の前半は次のとおりです。
+Kelsey took a client to dinner to discuss a new project（ケルシーは、新しい企画について話し合うために取引先の客を夕食に連れて行った）
+client は「（仕事の）顧客、取引先の客」です。夕食の目的は、新しい企画の話し合いでした。
+but they only (　) business after they finished their meal（しかし、二人は食事を終えてからやっと仕事の話に（　））
+only after ～ は「～してからやっと」です。食事中は仕事の話をせず、食事のあとで本題に入ったということです。get down to business は「（本題の）仕事に取りかかる」という決まった言い方なので、3が正解です。
+この問題の型：熟語・決まった形（get down to business）
+【ほかの選択肢】
+1 ran out of は「～を使い果たした」です。「食事を終えてからやっと仕事を使い果たした」となり、話し合うために夕食に行ったという前半とつながりません。
+2 came up with は「（考えなど）を思いついた」です。「食事を終えてからやっと仕事を思いついた」となり、もともと話し合いのために夕食に行ったという内容と合いません。
+4 looked in on は「～の様子を見に立ち寄った」です。「仕事の様子を見に立ち寄った」となり、意味が通りません。
+【覚えるポイント】
+・get down to business：「（本題の）仕事に取りかかる」。
+・but they only ～ after ...（…してからやっと～した）の形では、前半で予定していたこと（ここでは話し合い）が遅れて始まったと考えると手がかりになります。

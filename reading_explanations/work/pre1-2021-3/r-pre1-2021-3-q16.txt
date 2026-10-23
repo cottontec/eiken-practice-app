@@ -1,0 +1,29 @@
+---
+choices: congestion | drainage | optimism | punctuality
+answerText: punctuality
+reviewed: yes
+---
+【正解】4 punctuality（時間を守ること）
+【和訳】
+（英文）
+After Wanda was late for the third time in one month, her manager had a long talk with her about the importance of ［punctuality］.
+（訳）
+ワンダが1か月のうちに3回目の遅刻をした後、上司は彼女と、（時間を守ること）の大切さについて長い話をした。
+（選択肢の意味）
+1 congestion：混雑、渋滞
+2 drainage：排水（いらない水を流し出すこと）
+3 optimism：楽観主義（物事をよいほうに考えること）
+4 punctuality：時間を守ること
+【考え方】
+まず見るところ：文の最初の After Wanda was late for the third time in one month
+文の前半に、ワンダがしたことが書かれています。
+After Wanda was late for the third time in one month（ワンダが1か月のうちに3回目の遅刻をした後）
+be late は「遅れる、遅刻する」です。何度も遅刻したワンダに、上司が長い話をしました。話の中身は the importance of (　)（〇〇の大切さ）です。遅刻をくり返す人に話すのは、時間を守ることの大切さだと考えられます。punctuality は「時間を守ること」なので、4が正解です。
+この問題の型：因果（3回目の遅刻 → 時間を守ることの大切さを話した）
+【ほかの選択肢】
+1 congestion は「混雑、渋滞」です。「渋滞の大切さ」となり、渋滞は大切なものではないので、上司が話す内容として意味が通りません。
+2 drainage は「排水」です。遅刻をくり返したことと関係がありません。
+3 optimism は「楽観主義」です。何度も遅刻した人に「物事をよいほうに考えることの大切さ」を話すのは、遅刻の話とつながりません。
+【覚えるポイント】
+・punctuality：「時間を守ること」（形容詞は punctual：時間を守る）。be late：「遅刻する」。
+・空所の前に the importance of（～の大切さ）があるときは、前に書かれた出来事（ここでは遅刻）から、何が大切だと言われているのかを考えるのが手がかりになります。

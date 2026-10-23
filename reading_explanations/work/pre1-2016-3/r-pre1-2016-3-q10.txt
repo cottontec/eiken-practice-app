@@ -1,0 +1,31 @@
+---
+choices: jumbled | revolved | wandered | erupted
+answerText: erupted
+reviewed: yes
+---
+【正解】4 erupted（（怒りなどが）爆発した）
+【和訳】
+（英文）
+Donald often ［erupted］ with anger when his co-workers disagreed with him. His boss warned him he would be fired if he could not keep his temper under control.
+（訳）
+ドナルドは、同僚たちが自分と意見が合わないと、よく怒りを（爆発させ）ました。上司は彼に、かんしゃくを抑えられないならクビになるだろうと警告しました。
+（選択肢の意味）
+1 jumbled：ごちゃまぜにした
+2 revolved：回転した
+3 wandered：歩き回った、さまよった
+4 erupted：（火山が）噴火した、（怒りなどが）爆発した
+【考え方】
+まず見るところ：空所の後ろの with anger と、2文目の keep his temper under control
+1文目の空所の後ろには with anger（怒りで）があります。ドナルドは、同僚に反対されると、怒りでどうしたのかを考えます。
+2文目は次のとおりです。
+His boss warned him he would be fired if he could not keep his temper under control.（上司は彼に、かんしゃくを抑えられないならクビになるだろうと警告した）
+temper は「かんしゃく、怒りっぽい気分」、keep ～ under control は「～を抑える」という意味です。上司が「抑えろ」と注意しているのですから、ドナルドはよく怒りを外に出していたと分かります。
+erupt は、もとは「（火山が）噴火する」という意味で、erupt with anger で「怒りを爆発させる」になります。火山が噴火するように激しく怒る様子を表すので、4が正解です。
+この問題の型：語の意味・組み合わせ（erupt with anger）／因果（怒りを爆発させる→クビになると警告される）
+【ほかの選択肢】
+1 jumbled は「ごちゃまぜにした」です。jumble は物をごちゃごちゃに混ぜることを表すので、「怒りでごちゃまぜにした」となり、意味が通りません。
+2 revolved は「回転した」です。「怒りで回転した」となり、意味が通りません。
+3 wandered は「歩き回った、さまよった」です。「怒りでさまよった」では、上司がかんしゃくを抑えるように注意する理由になりません。
+【覚えるポイント】
+・erupt：「（火山が）噴火する」。erupt with anger で「怒りを爆発させる」です。
+・空所の文に with anger のような感情の語があり、次の文に keep his temper under control（かんしゃくを抑える）のような言葉があるときは、感情を「抑えられずに外に出す」意味の語が入ると考えると手がかりになります。

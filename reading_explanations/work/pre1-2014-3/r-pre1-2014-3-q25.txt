@@ -1,0 +1,32 @@
+---
+choices: carried over | played up | won back | bought out
+answerText: bought out
+reviewed: yes
+---
+【正解】4 bought out（（ほかの所有者）の持ち分を買い取った）
+【和訳】
+（英文）
+Mr. Grieg started Tekno Holdings Inc. with his friends from college, but he gradually ［bought out］ all of the other owners. Now, he controls the whole company.
+（訳）
+グリーグさんは大学時代の友人たちとテクノ・ホールディングス社を始めたが、少しずつ、ほかのすべての所有者の（持ち分を買い取った）。今では、彼が会社全体を支配している。
+（選択肢の意味）
+1 carried over：～を持ち越した、～を繰り越した
+2 played up：～を大げさに言った、～を強調した
+3 won back：～を取り戻した
+4 bought out：（ほかの所有者）の持ち分を買い取った
+【考え方】
+まず見るところ：最後の文の Now, he controls the whole company.
+1文目の前半では、グリーグさんは大学時代の友人たちと会社を始めた、と書かれています。つまり、初めは友人たちも会社の owners（所有者）でした。but（しかし）のあとに変化が続きます。
+he gradually (　) all of the other owners（彼は少しずつ、ほかのすべての所有者を〇〇した）
+そして、最後の文にその結果が書かれています。
+Now, he controls the whole company.（今では、彼が会社全体を支配している）
+初めは何人もいた所有者が、今では彼一人になっています。そうなるためには、ほかの所有者が持っていた会社の権利を買い取る必要があります。
+buy out は「（ほかの所有者）の持ち分を買い取る」という意味です。「少しずつほかの所有者全員の持ち分を買い取り、今では会社全体を支配している」となり、意味が通ります。よって4が正解です。
+この問題の型：因果（空所の行動の結果が Now, he controls the whole company）
+【ほかの選択肢】
+1 carried over は「～を持ち越した、～を繰り越した」です。「ほかの所有者を繰り越した」では意味が通らず、会社全体を支配するようになった理由になりません。
+2 played up は「～を大げさに言った、～を強調した」です。ほかの所有者を強調しても、会社全体を一人で支配することにはつながりません。
+3 won back は「（失ったもの）を取り戻した」です。ほかの所有者はもともと彼が失ったものではなく、取り戻したとしても、彼一人が会社全体を支配する理由にはなりません。
+【覚えるポイント】
+・buy out ～：「～の持ち分を買い取る」。gradually：「少しずつ、だんだんと」。
+・最後の文に Now, ～（今では～）とあるときは、それが空所の行動の結果になっていることが多いので、「どうすればその結果になるか」を考えるのが手がかりになります。

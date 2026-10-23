@@ -1,0 +1,30 @@
+---
+choices: questioned religious ideas | lost interest in raising cattle | experienced serious internal conflicts | developed a sophisticated society
+answerText: developed a sophisticated society
+reviewed: yes
+---
+【正解】4 developed a sophisticated society（高度に発達した社会を築いた）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 questioned religious ideas（宗教的な考えに疑問をもった）
+2 lost interest in raising cattle（牛を育てることへの関心を失った）
+3 experienced serious internal conflicts（内部で深刻な争いを経験した）
+4 developed a sophisticated society（高度に発達した社会を築いた）
+【考え方】
+まず見るところ：第2段落の空所の直前の These discoveries are evidence that ～
+These discoveries are evidence that the settlers (　).（これらの発見は、移住者たちが（　）ことの証拠である）
+These discoveries（これらの発見）は、第2段落でそれまでに書かれた発見を指します。そこで、その発見の中身を確かめます。
+these settlers created a system of deep wells that gave them access to water year-round（これらの移住者たちは、一年中水を手に入れられるようにする深い井戸のしくみを作った）
+they arranged their homes in straight rows and equipped them with storage spaces（彼らは家をまっすぐな列に並べ、家に物をしまっておく場所を備えつけた）
+They also practiced a religion that focused on the worship of cattle（彼らはまた、牛を崇拝することを中心とする宗教を信仰していた）
+井戸のしくみ、整った家並み、物をしまう場所、牛を中心とする宗教と、進んだ暮らしをしていたことをうかがわせる発見が並んでいます。これらをまとめると「高度に発達した社会を築いた」と言えます。sophisticated は「高度な、洗練された（よく工夫されて進んでいる）」という意味なので、4が正解です。
+この問題の型：具体例とまとめ（井戸・家並み・宗教 → 高度に発達した社会）
+【ほかの選択肢】
+1 questioned religious ideas は「宗教的な考えに疑問をもった」です。本文には、移住者たちが宗教を信仰していた（practiced a religion）とは書かれていますが、宗教に疑問をもったとは書かれていません。
+2 lost interest in raising cattle は「牛を育てることへの関心を失った」です。本文には、牛は彼らの暮らしの中心だった（which were central to their lives）とあり、関心を失ったとは書かれていません。
+3 experienced serious internal conflicts は「内部で深刻な争いを経験した」です。争いについては本文に書かれておらず、井戸や家並み、宗教という発見からは、この内容は導けません。
+【覚えるポイント】
+・sophisticated：「高度な、洗練された」。evidence：「証拠」。settler：「移住者、住みついた人」。
+・These discoveries（これらの発見）のように、前の内容をまとめて指す言葉のあとに空所があるときは、前に並んだ具体例に共通することを1つの言葉でまとめた選択肢を選びます。

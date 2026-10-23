@@ -1,0 +1,30 @@
+---
+choices: treacherous | momentous | flirtatious | notorious
+answerText: notorious
+reviewed: yes
+---
+【正解】4 notorious（悪いことで有名な、悪名高い）
+【和訳】
+（英文）
+No one was surprised when the famous scientist made many mistakes during his speech. He is ［notorious］ for his poor speaking skills.
+（訳）
+その有名な科学者が講演の間に多くのまちがいをしたとき、だれも驚かなかった。彼は話すのが下手なことで（悪名高い）。
+（選択肢の意味）
+1 treacherous：裏切りの、（道などが）危険な
+2 momentous：きわめて重大な
+3 flirtatious：（異性の）気を引こうとする
+4 notorious：（悪いことで）有名な、悪名高い
+【考え方】
+まず見るところ：前の文の No one was surprised と、空所のあとの for his poor speaking skills
+No one was surprised when the famous scientist made many mistakes during his speech.（その有名な科学者が講演の間に多くのまちがいをしたとき、だれも驚かなかった）
+だれも驚かなかったのは、その科学者の話が下手なことを、みんながもともと知っていたからだと考えられます。
+He is (　) for his poor speaking skills.（彼は話すのが下手なことで（　）だ）
+be (　) for ～ で「～のことで…だ」という形です。poor speaking skills（話す力が低いこと）は悪い点なので、「悪いことで有名な」という意味の notorious が入ります。よって4が正解です。
+この問題の型：因果（悪名高い → だれも驚かなかった）
+【ほかの選択肢】
+1 treacherous は「裏切りの、（道などが）危険な」です。話すのが下手なことと、裏切りや危険は関係がありません。
+2 momentous は「きわめて重大な」です。出来事や決定について使う語で、「彼は下手な話し方で重大だ」では意味が通りません。
+3 flirtatious は「（異性の）気を引こうとする」です。話すのが下手なことや、だれも驚かなかったこととつながりません。
+【覚えるポイント】
+・be notorious for ～：「～のことで悪名高い（悪い意味で有名だ）」。poor：「下手な、劣った」。
+・No one was surprised（だれも驚かなかった）とあるときは、「そのことがもともと知られていた」と考えると、空所に入る語の手がかりになります。

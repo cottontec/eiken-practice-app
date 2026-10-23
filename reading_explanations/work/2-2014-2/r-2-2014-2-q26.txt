@@ -1,0 +1,26 @@
+---
+choices: bothered | observed | ignored | guided
+answerText: bothered
+reviewed: yes
+---
+【正解】1 bothered（悩ませた、手出しをした）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 bothered：悩ませた、迷惑をかけた、手出しをした
+2 observed：観察した
+3 ignored：無視した
+4 guided：案内した
+【考え方】
+空所の文は In the past, though, they very rarely (　) human beings.（しかし、昔は、サメは人間をめったに（　）しなかった）です。they は前の文の Sharks（サメ）を指します。very rarely は「めったに～しない」という意味です。
+though はここでは「しかし」の意味で、前の文の内容と反対のことを言う合図です。前の文は Sharks are often thought of as dangerous fish that attack and kill people.（サメは、人を襲って殺す危険な魚だとよく考えられている）です。ですから、空所の文は「でも、昔は人間に害をあたえることはめったになかった」という内容になると考えられます。
+次の文も確かめます。In Australia, where there are many sharks, on average only about four people a year used to be attacked.（サメがたくさんいるオーストラリアでは、以前は、襲われる人は平均して1年に約4人だけだった）とあります。used to ～ は「以前は～だった」です。サメが多い場所でも、襲われる人はとても少なかったのです。
+bother は「（人を）悩ませる、困らせる、～に手出しをする」という意味です。very rarely bothered human beings で「人間に手出しをすることはめったになかった」となり、前後の文とつながります。正解は1です。
+【ほかの選択肢】
+2 observed は「観察した」です。「サメは人間をめったに観察しなかった」となりますが、次の文は「襲われた人が少なかった」という話なので、観察するかどうかの説明にはなりません。
+3 ignored は「無視した」です。very rarely ignored とすると「人間を無視することはめったになかった」、つまり「たいてい人間にかまっていた」という意味になり、「襲われる人は1年に約4人だけだった」という次の文と反対の内容になってしまいます。
+4 guided は「案内した」です。「サメが人間をめったに案内しなかった」となり、意味が通りません。
+【覚えるポイント】
+・bother：「（人を）悩ませる、困らせる、～に手出しをする」。
+・very rarely ～：「めったに～しない」。rarely は「ほとんど～ない」という否定に近い意味をふくむので、空所に入れた語と合わせて、文全体がどんな意味になるかを確かめます。

@@ -1,0 +1,31 @@
+---
+choices: That the white hairs found on a jacket belonged to the victim of a murder. | That the jacket found at the crime scene belonged to the murderer's father. | That a man they suspected of murder had been at the scene of the crime. | That a man had been wrongly sent to prison for murdering someone.
+answerText: That a man they suspected of murder had been at the scene of the crime.
+reviewed: yes
+---
+【正解】3 That a man they suspected of murder had been at the scene of the crime.（殺人の疑いをかけていた男が、犯行現場にいたということ。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：遺伝子指紋法は、カナダの警察に何を示しましたか。
+1 That the white hairs found on a jacket belonged to the victim of a murder.（上着に付いていた白い毛が、殺人の被害者のものだったということ。）
+2 That the jacket found at the crime scene belonged to the murderer's father.（犯行現場で見つかった上着が、殺人犯の父親のものだったということ。）
+3 That a man they suspected of murder had been at the scene of the crime.（殺人の疑いをかけていた男が、犯行現場にいたということ。）
+4 That a man had been wrongly sent to prison for murdering someone.（ある男が、人を殺した罪でまちがって刑務所に送られていたということ。）
+【考え方】
+カナダの話は第2段落にあります。順番に確かめます。
+The police there suspected a man of carrying out a murder, but they had no evidence that he was present at the crime.（カナダの警察は、ある男が殺人を犯したと疑っていたが、その男が犯行の場にいたという証拠がなかった）とあります。suspect ＋ 人 ＋ of ～ は「人に～の疑いをかける」、evidence は「証拠」です。
+そのあと、警察は近くで白い毛の付いた上着を見つけ、男の両親が白いネコを飼っていたことを思い出しました。DNAを比べると、The DNA from the hairs and the parents' cat turned out to be the same（毛と両親のネコのDNAは同じだと分かった）のです。
+そして This showed that the jacket belonged to the man, and he was sent to prison for the crime.（このことから、上着がその男のものだと分かり、男はその罪で刑務所に送られた）とあります。初めは「男が犯行の場にいた証拠」がなかったのに、DNAによって、現場の近くにあった上着が男のものだと分かり、男は罪に問われました。つまり遺伝子指紋法は、男が犯行の場にいたことを示す証拠になったと読み取れます。第1段落にも By comparing someone's DNA to that found at the scene of a crime, it is possible to prove that he or she was there.（ある人のDNAを犯罪現場で見つかったDNAと比べることで、その人がそこにいたことを証明できる）とあり、この技術が「その人が現場にいたこと」を示すためのものだと説明されています。
+本文と選択肢は次のように対応しています。
+本文 suspected a man of carrying out a murder（ある男が殺人を犯したと疑った）＝ 選択肢 a man they suspected of murder（殺人の疑いをかけていた男）
+本文 he was present at the crime（彼が犯行の場にいた）＝ 選択肢 had been at the scene of the crime（犯行現場にいた）
+正解は3です。
+【ほかの選択肢】
+1 白い毛のDNAが同じだったのは、男の両親が飼っていたネコです。被害者のものだったとは書かれていないので、誤りです。
+2 上着は the man（疑われていた男）のものだと分かりました。父親のものではないので、人物が違います。父親（両親）が関係するのは、白いネコを飼っていたという点だけです。
+4 本文では、男はその罪で刑務所に送られたとあるだけです。まちがって送られたとは書かれていないので、誤りです。
+【覚えるポイント】
+・suspect ＋ 人 ＋ of ～：「人に～の疑いをかける」。
+・belong to ～：「～のものである」。

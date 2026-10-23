@@ -1,0 +1,30 @@
+---
+choices: It prints layers of materials and shapes them into objects. | It creates designs for manufacturers to use when making parts. | It joins together sheets of paper with heat and pressure. | It produces a paper pattern and adds powdered nylon and aluminum.
+answerText: It prints layers of materials and shapes them into objects.
+reviewed: yes
+---
+【正解】1 It prints layers of materials and shapes them into objects.（材料の層を印刷し、それらを物の形にする。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：3Dプリンターはどのようなしくみで動きますか。
+1 It prints layers of materials and shapes them into objects.（材料の層を印刷し、それらを物の形にする。）
+2 It creates designs for manufacturers to use when making parts.（製造元が部品を作るときに使う設計図を作り出す。）
+3 It joins together sheets of paper with heat and pressure.（紙を熱と圧力でつなぎ合わせる。）
+4 It produces a paper pattern and adds powdered nylon and aluminum.（紙の型紙を作り、粉末状のナイロンやアルミニウムを加える。）
+【考え方】
+3Dプリンターのしくみは、第2段落に書かれています。
+まず材料について、While traditional printers use paper and ink, 3-D printers reproduce objects using materials such as powdered nylon and aluminum.（これまでのプリンターは紙とインクを使うが、3Dプリンターは粉末状のナイロンやアルミニウムなどの材料を使って物を再現する）とあります。While ～ は、ここでは「～だが一方で」と2つを比べる働きをしています。
+次に作り方について、3-D printers print out a series of thin layers. These layers are then joined together by heat and pressure to form a 3-D object.（3Dプリンターは薄い層を次々に印刷する。そして、これらの層が熱と圧力でつなぎ合わされ、立体的な物ができる）とあります。a series of ～ は「一続きの～、次々の～」です。
+つまり、ナイロンやアルミニウムなどの材料で薄い層を印刷し、それをつなげて形を作るのです。本文と選択肢は次のように対応しています。
+本文 print out a series of thin layers（薄い層を次々に印刷する）＋ materials such as powdered nylon and aluminum（粉末状のナイロンやアルミニウムなどの材料）＝ 選択肢 prints layers of materials（材料の層を印刷する）
+本文 joined together by heat and pressure to form a 3-D object（熱と圧力でつなぎ合わされて立体的な物になる）＝ 選択肢 shapes them into objects（それらを物の形にする）
+正解は1です。
+【ほかの選択肢】
+2 本文では The design for the object can be downloaded from the manufacturer's website.（物の設計図は製造元のウェブサイトからダウンロードできる）とあります。設計図を用意するのは製造元のほうで、3Dプリンターが製造元のために設計図を作るのではありません。向きが逆です。
+3 熱と圧力でつなぎ合わせるのは、ナイロンやアルミニウムなどの材料の層です。紙を使うのは traditional printers（これまでのプリンター）のほうなので、誤りです。
+4 粉末状のナイロンやアルミニウムを使う点は本文と合いますが、紙を使うのは traditional printers（これまでのプリンター）で、3Dプリンターは紙を使いません。紙の型紙を作ってから材料を加える、という手順も本文には書かれていないので、一部だけ正しい選択肢です。
+【覚えるポイント】
+・a series of ～：「一続きの～、次々の～」。
+・join ～ together：「～をつなぎ合わせる」。

@@ -1,0 +1,29 @@
+---
+choices: The number of diseases that threaten cocoa trees is decreasing. | Cocoa trees that can protect themselves against diseases are being developed. | People in China and India have stopped believing that chocolate is a luxury food. | Chocolate will probably become the world's best-loved food in the near future.
+answerText: Cocoa trees that can protect themselves against diseases are being developed.
+reviewed: yes
+---
+【正解】2 Cocoa trees that can protect themselves against diseases are being developed.（病気から自分の身を守ることのできるカカオの木が開発されつつある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：次の記述のうち、正しいものはどれですか。
+1 The number of diseases that threaten cocoa trees is decreasing.（カカオの木をおびやかす病気の数は減ってきている。）
+2 Cocoa trees that can protect themselves against diseases are being developed.（病気から自分の身を守ることのできるカカオの木が開発されつつある。）
+3 People in China and India have stopped believing that chocolate is a luxury food.（中国とインドの人々は、チョコレートがぜいたくな食べ物だと考えるのをやめた。）
+4 Chocolate will probably become the world's best-loved food in the near future.（チョコレートは、近い将来、おそらく世界で最も愛される食べ物になるだろう。）
+【考え方】
+本文全体と照らし合わせて、正しいものを選ぶ問題です。選択肢2の cocoa trees ... being developed（開発されつつあるカカオの木）にあたる内容が、第4段落の始めにあります。
+Cocoa bean farmers have been responding by developing new kinds of cocoa trees. These new kinds are stronger against disease and produce more beans than normal trees.（カカオ豆の農家は、新しい種類のカカオの木を開発することで対応してきた。これらの新しい種類は、ふつうの木よりも病気に強く、ふつうの木よりも多くの豆を実らせる）
+本文と選択肢を対にすると、次のようになります。
+本文 developing new kinds of cocoa trees（新しい種類のカカオの木を開発している）＝ 選択肢 Cocoa trees ... are being developed（カカオの木が開発されつつある）
+本文 stronger against disease（〔ふつうの木よりも〕病気に強い）→ 選択肢 can protect themselves against diseases（病気から自分の身を守ることができる）
+病気に強い木は、病気にかかりにくく、病気から身を守れる木だと言えます。ですから、2が正解です。
+【ほかの選択肢】
+1 本文には cocoa trees are being threatened by various diseases that attack them（カカオの木は、それを襲うさまざまな病気におびやかされている）とありますが、病気の数が減っているとは書かれていません。
+3 中国とインドの人々がチョコレートをぜいたく品だと考えなくなったという話は、本文にありません。本文では、Chocolate is a luxury item（チョコレートはぜいたく品だ）と説明したうえで、中国とインドで中流階級が育ち、チョコレートの消費が増えたと書かれています。
+4 本文の最初に、チョコレートはすでに one of the world's best-loved foods（世界で最も愛されている食べ物の1つ）だと書かれています。近い将来「最も愛される食べ物になるだろう」という予想は、本文にありません。
+【覚えるポイント】
+・be being ＋過去分詞：「～されつつある、～されているところだ」。are being developed で「開発されつつある」。
+・be stronger against disease：「病気に（より）強い」。選択肢では can protect themselves against diseases と言いかえられています。

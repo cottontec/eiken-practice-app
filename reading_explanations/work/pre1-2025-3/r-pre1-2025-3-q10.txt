@@ -1,0 +1,32 @@
+---
+choices: abide | collide | subside | preside
+answerText: collide
+reviewed: yes
+---
+【正解】2 collide（衝突する、ぶつかる）
+【和訳】
+（英文）
+The two fighter jets were flying so close to one another that the pilot of one of them was afraid they would ［collide］.
+（訳）
+2機の戦闘機がお互いにとても近づいて飛んでいたので、そのうちの1機のパイロットは、2機が（衝突する）のではないかと心配した。
+（選択肢の意味）
+1 abide：がまんする、（規則などに）従う
+2 collide：衝突する、ぶつかる
+3 subside：（嵐や痛みなどが）おさまる
+4 preside：議長を務める、（会を）取りしきる
+【考え方】
+まず見るところ：文の前半の flying so close to one another
+前半には、次のように書かれています。
+The two fighter jets were flying so close to one another（2機の戦闘機がお互いにとても近づいて飛んでいた）
+fighter jet は「戦闘機」、one another は「お互い」です。so ～ that ... は「とても～なので…」という形です。
+空所のある部分は、次のとおりです。
+the pilot of one of them was afraid they would (　)（そのうちの1機のパイロットは、それらが（　）のではないかと心配した）
+they は2機の戦闘機を指しています。とても近くを飛んでいた結果として心配することは、2機がぶつかることです。collide は「衝突する、ぶつかる」という意味なので、2が正解です。
+この問題の型：因果（とても近くを飛んでいた → ぶつかるのが心配）
+【ほかの選択肢】
+1 abide は「がまんする、（規則などに）従う」です。「2機ががまんするのではないかと心配した」となり、近くを飛んでいたことの結果として意味が通りません。
+3 subside は「（嵐や痛みなどが）おさまる」です。「2機がおさまるのではないかと心配した」となり、意味が通りません。
+4 preside は「議長を務める」です。「2機が議長を務めるのではないか」となり、意味が通りません。
+【覚えるポイント】
+・collide：「衝突する、ぶつかる」。
+・so close to one another that ...（とても近いので…）のように so ～ that の形があるときは、that のあとに「その結果どうなるか」が来るので、so の部分（ここではとても近い）が空所の語を決める手がかりになります。

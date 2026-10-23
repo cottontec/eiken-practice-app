@@ -1,0 +1,32 @@
+---
+choices: majority | similarity | quantity | flexibility
+answerText: flexibility
+reviewed: yes
+---
+【正解】4 flexibility（柔軟性、融通がきくこと）
+【和訳】
+（英文）
+These days, many companies are offering their employees a lot of ［flexibility］. For example, staff members can sometimes work from home or choose what time to start and finish.
+（訳）
+最近、多くの会社が、従業員に多くの（柔軟性）を与えています。たとえば、社員が家で仕事をしたり、何時に仕事を始めて何時に終えるかを選んだりできることがあります。
+（選択肢の意味）
+1 majority：大多数、過半数
+2 similarity：似ていること、類似点
+3 quantity：量
+4 flexibility：柔軟性、融通がきくこと
+【考え方】
+まず見るところ：空所の次の文の For example, staff members can sometimes work from home or choose what time to start and finish.
+These days, many companies are offering their employees a lot of (　).（最近、多くの会社が、従業員に多くの（　）を与えている）
+空所には、会社が従業員に与えているものが入ります。
+For example, staff members can sometimes work from home or choose what time to start and finish.（たとえば、社員が家で仕事をしたり、何時に始めて何時に終えるかを選んだりできることがある）
+For example（たとえば）のあとの例から、空所に入る言葉が分かります。働く場所や時間を、社員が自分の都合に合わせて決められる、ということです。
+flexibility は「柔軟性（決まった形にしばられず、状況に合わせて変えられること）」という意味です。offering their employees a lot of flexibility で、あとの例とぴったり合います。4が正解です。
+この問題の型：具体例とまとめ（For example の例→空所）、語の意味・組み合わせ
+【ほかの選択肢】
+1 majority は「大多数、過半数」です。「従業員に多くの大多数を与える」となり、意味が通りません。
+2 similarity は「似ていること、類似点」です。家で働くことや時間を選べることは、何かと似ていることの例ではありません。
+3 quantity は「量」です。何の量なのかが分からず、「多くの量を与える」では、働き方を選べるという例とつながりません。
+【覚えるポイント】
+・flexibility：「柔軟性、融通がきくこと」。形容詞の flexible は「柔軟な、融通のきく」。
+・work from home：「家で仕事をする、在宅勤務をする」。
+・For example が空所の次の文にあるときは、例をまとめた言葉が空所に入ることが多いので、例の共通点を一言で言ってから選択肢を見ます。

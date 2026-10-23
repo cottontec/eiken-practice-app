@@ -1,0 +1,29 @@
+---
+choices: The city wants to build several new parks around town. | The city wants to open a library with books about local history. | The GHS has to pay its full-time employees. | The GHS has to move to a new office building.
+answerText: The GHS has to pay its full-time employees.
+reviewed: yes
+---
+【正解】3 The GHS has to pay its full-time employees.（GHSは常勤の従業員に給料を払わなければならない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：GHSがお金を求めている理由の1つは何ですか。
+1 The city wants to build several new parks around town.（市は町のあちこちにいくつか新しい公園を作りたいと思っている。）
+2 The city wants to open a library with books about local history.（市は地域の歴史についての本がある図書館を開きたいと思っている。）
+3 The GHS has to pay its full-time employees.（GHSは常勤の従業員に給料を払わなければならない。）
+4 The GHS has to move to a new office building.（GHSは新しい事務所の建物に移らなければならない。）
+【考え方】
+お金の話は第3段落に出てきます。I'd also like to ask that you consider donating again to the GHS.（GHSへの寄付をもう一度考えていただけないかもお願いしたい）とあり、そのあとに、お金が必要な理由が並んでいます。
+1つ目は It costs a lot of money to buy and fix up older buildings in town, as well as to hold events（町の古い建物を買って修理するには、また催しを開くには、多くのお金がかかる）です。
+2つ目は Also, we need money to print books about local history, rent the society's office, and pay the full-time staff.（また、地域の歴史についての本を印刷し、協会の事務所を借り、常勤の職員に給料を払うためにお金が必要だ）です。
+この最後の pay the full-time staff（常勤の職員に給料を払う）が、選択肢3と同じ内容です。
+本文 pay the full-time staff ＝ 選択肢 pay its full-time employees（staff も employees も「職員、従業員」という意味です）
+正解は3です。
+【ほかの選択肢】
+1 本文の公園はセント・フランシス公園で、催しを開く場所として出てくるだけです。市が新しい公園を作りたいという話は本文にありません。
+2 本文には books about local history（地域の歴史についての本）が出てきますが、それはGHSが本を印刷するためにお金が必要だという話です。市が図書館を開きたいという話ではありません。
+4 本文は rent the society's office（協会の事務所を借りる）ためにお金が必要だと述べているだけです。新しい事務所の建物に移らなければならないとは書かれていません。
+【覚えるポイント】
+・consider ～ing：「～することをよく考える、検討する」。本文では consider donating（寄付することを検討する）の形で使われています。
+・A as well as B：「Bだけでなく A も、A も B も」。

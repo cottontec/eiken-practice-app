@@ -1,0 +1,33 @@
+---
+choices: quest | legacy | exposure | potency
+answerText: quest
+reviewed: yes
+---
+【正解】1 quest（探求、長い間探し求めること）
+【和訳】
+（英文）
+Jan and Dave spent over a year searching for their dream house. Their ［quest］ finally ended when they found a lovely little cottage in a quiet village.
+（訳）
+ジャンとデイブは、夢の家を探すのに1年以上を費やした。静かな村にすてきな小さい田舎家を見つけたとき、二人の（探求）はついに終わった。
+（選択肢の意味）
+1 quest：探求、（長い間）探し求めること
+2 legacy：遺産、後の世に残したもの
+3 exposure：（危険・日光などに）さらされること、（人目に）出ること
+4 potency：（薬などの）効き目、力の強さ
+【考え方】
+まず見るところ：前の文の spent over a year searching for their dream house
+空所のある文は次のとおりです。
+Their (　) finally ended when they found a lovely little cottage in a quiet village.（静かな村にすてきな小さい田舎家を見つけたとき、二人の（　）はついに終わった）
+cottage は「（小さな）田舎家、小さな家」です。家を見つけたときに「終わった」ものは何か、と考えます。
+前の文を見ます。
+Jan and Dave spent over a year searching for their dream house.（ジャンとデイブは、夢の家を探すのに1年以上を費やした）
+二人は1年以上、家を探していました。家を見つけたことで終わったのは、この「探すこと」です。
+quest は「探求（長い間、何かを探し求めること）」という意味で、前の文の searching を言いかえた語になります。ですから1が正解です。
+この問題の型：言いかえ（searching for ～ ＝ quest）
+【ほかの選択肢】
+2 legacy は「遺産、後の世に残したもの」です。「二人の遺産は、家を見つけたときについに終わった」となり、家探しの話とつながりません。
+3 exposure は「さらされること、人目に出ること」です。「二人の、さらされることが終わった」では、何にさらされていたのか本文に書かれておらず、意味が通りません。
+4 potency は「（薬などの）効き目、力の強さ」です。「二人の効き目が終わった」となり、家探しの話に合いません。
+【覚えるポイント】
+・quest：「探求、（長い間）探し求めること」。search（探すこと）より、長く苦労して求める感じがあります。
+・空所の文の前に同じ内容を表す語句（ここでは searching for ～）があれば、それを1語で言いかえた名詞を選ぶことが手がかりになります。

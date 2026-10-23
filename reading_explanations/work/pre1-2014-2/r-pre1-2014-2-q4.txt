@@ -1,0 +1,31 @@
+---
+choices: Demoted | Fumigated | Delegated | Intoxicated
+answerText: Intoxicated
+reviewed: yes
+---
+【正解】4 Intoxicated（酔って）
+【和訳】
+（英文）
+［Intoxicated］ by the wine he had with his meal, the man revealed to his boss his true opinion of the company's policies.
+（訳）
+食事といっしょに飲んだワインに（酔って）、その男性は上司に、会社の方針についての本当の意見を明かしました。
+（選択肢の意味）
+1 Demoted：降格させられて（地位を下げられて）
+2 Fumigated：（煙や薬で）いぶして消毒されて
+3 Delegated：（仕事や権限を）任されて；代表として送られて
+4 Intoxicated：酔って
+【考え方】
+まず見るところ：空所の後ろの by the wine he had with his meal
+空所から meal までは、文の主語 the man（その男性）がどんな状態だったかを説明する部分です。文の頭の空所に入るのは、「～されて」という意味の過去分詞（動詞が -ed などの形になったもの）です。
+(　) by the wine he had with his meal（食事といっしょに飲んだワインによって（　）されて）
+ワインによって人がどうなるかを考えると、「酔う」が自然です。intoxicated は「酒に酔った」という意味で、by the wine（ワインによって）とうまく結びつきます。
+the man revealed to his boss his true opinion of the company's policies（その男性は上司に、会社の方針についての本当の意見を明かした）
+reveal は「明かす、打ち明ける」という意味です。ワインに酔ったせいで、本音を上司に言ってしまった、という流れになります。ですから4が正解です。
+この問題の型：因果（酔った→本音を明かした）
+【ほかの選択肢】
+1 Demoted は「降格させられて」という意味です。「ワインによって降格させられて」となり、意味が通りません。
+2 Fumigated は「（害虫を退治するために）煙や薬でいぶして消毒されて」という意味で、建物などについて使います。「ワインによって消毒されて」では、人のようすとして意味が通りません。
+3 Delegated は「（仕事や権限を）任されて」や「代表として送られて」という意味です。「ワインによって任されて」となり、意味が通りません。
+【覚えるポイント】
+・intoxicated：「酒に酔った」。be intoxicated by ～ で「～に酔う」。
+・文の頭に過去分詞と by ～ があるときは、by の後ろのもの（ここでは the wine）によって主語がどうなったかを考えると、答えを選ぶ手がかりになります。

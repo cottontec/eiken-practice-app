@@ -1,0 +1,34 @@
+---
+choices: As someone could be infected in the process of destroying the samples, there is less risk involved in keeping them. | The samples may be needed in the event that the disease somehow makes a reappearance in the future. | Routine vaccination over the past few decades has given humans complete immunity, so the samples are not dangerous anymore. | The samples held by the two countries have been altered so that they no longer have the capability to infect people.
+answerText: The samples may be needed in the event that the disease somehow makes a reappearance in the future.
+reviewed: yes
+---
+【正解】2 The samples may be needed in the event that the disease somehow makes a reappearance in the future.（将来、この病気が何らかの形で再び現れた場合に、サンプルが必要になるかもしれない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What reason is given for the United States and Russia continuing to maintain samples of the Variola virus?（アメリカとロシアがバリオラウイルスのサンプルを保管し続けている理由として、何が挙げられていますか。）
+1 As someone could be infected in the process of destroying the samples, there is less risk involved in keeping them.（サンプルを廃棄する作業の中でだれかが感染するおそれがあるので、保管しておくほうが（廃棄するよりも）危険が少ない。）
+2 The samples may be needed in the event that the disease somehow makes a reappearance in the future.（将来、この病気が何らかの形で再び現れた場合に、サンプルが必要になるかもしれない。）
+3 Routine vaccination over the past few decades has given humans complete immunity, so the samples are not dangerous anymore.（ここ数十年の定期的な予防接種によって人間は完全な免疫を得たので、サンプルはもう危険ではない。）
+4 The samples held by the two countries have been altered so that they no longer have the capability to infect people.（2つの国が保管しているサンプルは、もう人に感染する力がないように作り変えられている。）
+【考え方】
+まず見るところ：第4段落の Yet samples of the Variola virus are still kept ～ in case smallpox returns
+第4段落を見ます。WHO が天然痘がなくなったと宣言したあとの話です。
+Yet samples of the Variola virus are still kept in labs in the United States and Russia in case smallpox returns.（しかし、天然痘が再び現れた場合に備えて、バリオラウイルスのサンプルは今もアメリカとロシアの研究所に保管されている）
+in case ～ は「～する場合に備えて」です。ここに、サンプルを保管している理由がはっきり書かれています。
+さらに、アメリカとロシアの政府の言い分も書かれています。
+no one can be sure that secret or forgotten samples do not still exist somewhere in the world（秘密の、あるいは忘れられたサンプルが世界のどこかにまだ存在していないとは、だれにも言い切れない）
+A new outbreak, whether accidental or the result of an act of bioterrorism, could cause an epidemic.（新たな流行が、事故によるものであれ、生物テロの結果であれ、大流行を引き起こすかもしれない）
+つまり、サンプルを保管しているのは、天然痘が再び現れた場合に備えるためです。そのうえで、アメリカとロシアは、どこかに残っているかもしれないサンプルによる新たな流行の危険も心配している、と読み取れます。
+本文 in case smallpox returns（天然痘が再び現れた場合に備えて）＝ 選択肢 in the event that the disease somehow makes a reappearance（この病気が何らかの形で再び現れた場合に）
+in the event that ～ は「～の場合には」で、in case ～ とほぼ同じ意味です。ですから2が正解です。
+この問題の型：言いかえ（in case smallpox returns ＝ in the event that the disease makes a reappearance）
+【ほかの選択肢】
+1 本文でアメリカとロシアの政府が廃棄は「非常に危険だ」と言う理由は、秘密の、あるいは忘れられたサンプルが世界のどこかにまだあるかもしれないからです。廃棄する作業中にだれかが感染するという話は書かれていません。
+3 本文には、人間が完全な免疫を得たという話はありません。むしろ、新たな流行が could cause an epidemic（大流行を引き起こすかもしれない）と書かれており、まだ危険があるという内容です。
+4 本文には、サンプルが感染する力をなくすように作り変えられたという話はありません。本文は、新たな流行が could cause an epidemic（大流行を引き起こすかもしれない）と心配しており、危険がなくなったという書き方ではありません。
+【覚えるポイント】
+・in case ～：「～する場合に備えて」。in the event that ～：「～の場合には」。
+・理由をたずねる問題では、in case ～（～に備えて）や as ～（～なので）のように、理由や目的を表す語のある部分を探すと、根拠となる文を見つける手がかりになります。

@@ -1,0 +1,31 @@
+---
+choices: lawfully | stealthily | dreadfully | invariably
+answerText: invariably
+reviewed: yes
+---
+【正解】4 invariably（いつも決まって、例外なく）
+【和訳】
+（英文）
+When Gary goes shopping, he ［invariably］ spends more than he planned to. He cannot stop himself, even when he is trying to save money.
+（訳）
+ゲーリーは買い物に行くと、（決まって）予定していたよりも多くのお金を使ってしまう。お金をためようとしているときでさえ、自分を止められない。
+（選択肢の意味）
+1 lawfully：合法的に、法律にしたがって
+2 stealthily：こっそりと
+3 dreadfully：ひどく、ものすごく
+4 invariably：いつも決まって、例外なく
+【考え方】
+まず見るところ：後ろの文の He cannot stop himself, even when he is trying to save money.
+空所のある文は、ゲーリーが買い物に行くと、予定していたより多く使ってしまう、と言っています。When Gary goes shopping（ゲーリーが買い物に行くと）は、くり返し起こることを表しています。
+後ろの文を見ます。
+He cannot stop himself, even when he is trying to save money.（お金をためようとしているときでさえ、自分を止められない）
+even when（～ときでさえ）は、「ふつうなら止められそうなときも、やはりそうなる」ことを表します。つまり、ゲーリーは買い物のたびに、例外なく使いすぎてしまうのです。
+invariably は「いつも決まって、例外なく」という意味なので、4が正解です。
+この問題の型：語の意味・組み合わせ（When ～ goes shopping＋invariably）／推論（even when ～ でもそうなる→例外がない）
+【ほかの選択肢】
+1 lawfully は「合法的に」です。「合法的に予定より多く使う」となり、自分を止められないという後ろの文と結びつきません。
+2 stealthily は「こっそりと」です。だれかにかくれて使っているという話は文中になく、「自分を止められない」という後ろの文が説明している内容とずれます。
+3 dreadfully は「ひどく、ものすごく」です。おもに様子を表す語を強めるときに使う語で、「ひどく予定より多く使う」となり、後ろの文の「ためようとしているときでさえ」（いつもそうなる）という説明と合いません。
+【覚えるポイント】
+・invariably：「いつも決まって、例外なく」。always に近い意味です。
+・後ろの文に even when ～（～ときでさえ）があり「どんなときもそうなる」と説明しているときは、空所に「いつも、例外なく」という回数・ひん度を表す語が入る手がかりになります。

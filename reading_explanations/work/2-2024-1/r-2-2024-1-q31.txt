@@ -1,0 +1,31 @@
+---
+choices: Technology developed in the nineteenth century had a significant effect on UK society. | Many artists and designers were not allowed to join the Arts and Crafts movement. | William Morris thought that it was wrong to use machines to produce items. | Items made by the Arts and Crafts movement have never been exhibited in public.
+answerText: Technology developed in the nineteenth century had a significant effect on UK society.
+reviewed: yes
+---
+【正解】1 Technology developed in the nineteenth century had a significant effect on UK society.（19世紀に発達した技術は、イギリスの社会に大きな影響を与えた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Which of the following statements is true?（次の記述のうち、正しいものはどれですか。）
+1 Technology developed in the nineteenth century had a significant effect on UK society.（19世紀に発達した技術は、イギリスの社会に大きな影響を与えた。）
+2 Many artists and designers were not allowed to join the Arts and Crafts movement.（多くの芸術家やデザイナーは、アーツ・アンド・クラフツ運動に加わることを許されなかった。）
+3 William Morris thought that it was wrong to use machines to produce items.（ウィリアム・モリスは、品物を作るのに機械を使うのはまちがっていると考えていた。）
+4 Items made by the Arts and Crafts movement have never been exhibited in public.（アーツ・アンド・クラフツ運動で作られた品物は、一度も公開の場で展示されたことがない。）
+【考え方】
+まず見るところ：第1段落の最初の文 In the United Kingdom during the nineteenth century, new technology greatly changed how people lived.
+本文全体と照らし合わせる設問なので、選択肢を1つずつ本文と比べます。1は第1段落の最初の文と合います。
+In the United Kingdom during the nineteenth century, new technology greatly changed how people lived.（19世紀のイギリスでは、新しい技術が人々の暮らし方を大きく変えた）
+本文と選択肢を対にすると、次のようになります。
+本文 greatly changed（大きく変えた）→ 選択肢 had a significant effect（大きな影響を与えた）
+本文 In the United Kingdom ～ how people lived（イギリスの人々の暮らし方）→ 選択肢 UK society（イギリスの社会）
+暮らし方を大きく変えたということは、社会に大きな影響を与えたということです。第1段落では、人々が都市へ移り住んで工場で働くようになったという具体的な変化も書かれています。ですから1が正解です。
+この問題の型：言いかえ（greatly changed → had a significant effect）
+【ほかの選択肢】
+2 本文にありません。芸術家やデザイナーのグループが運動を作ったとは書かれていますが、加わることを許されなかった人がいたという話はありません。
+3 本文と反対の内容です。第3段落に He was not against the use of machines.（彼は、機械を使うことに反対していたわけではない）とあります。モリスが賛成しなかったのは、工場での作業の分け方です。
+4 本文と反対の内容です。第4段落に Public exhibitions were held to display and sell the products（製品を展示して売るための、だれでも見られる展覧会が開かれた）とあります。
+【覚えるポイント】
+・significant：「大きな、重要な」。have a significant effect on ～ で「～に大きな影響を与える」。
+・Which of the following statements is true? の問題では、選択肢の語句（ここでは machines、exhibited）が出てくる段落を探し、not や never の有無が本文と合っているかを確かめると、反対の内容の選択肢を見分ける手がかりになります。

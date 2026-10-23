@@ -1,0 +1,29 @@
+---
+choices: has led to conflict between countries | has caused financial losses | could reduce some countries' territory | can be difficult to measure
+answerText: can be difficult to measure
+reviewed: yes
+---
+【正解】4 can be difficult to measure（測るのが難しいことがある）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 has led to conflict between countries（国どうしの争いにつながってきた）
+2 has caused financial losses（金銭的な損失を引き起こしてきた）
+3 could reduce some countries' territory（一部の国の領土を減らすかもしれない）
+4 can be difficult to measure（測るのが難しいことがある）
+【考え方】
+まず見るところ：第2段落の空所の前の However と、空所のあとの Information about forest resources in Africa is often unreliable
+空所のある文は However, progress (27).（しかし、進み具合は（27））です。前の文では、アフリカについてよくない報告が書かれています。
+REDD+ seems to have had less success in African nations, where deforestation is reported to be on the rise.（アフリカの国々では、REDD+は（これらの例に比べて）成功が少ないようで、そこでは森林破壊が増えていると報告されている）
+However（しかし）があるので、この「アフリカではうまくいっていない」という報告に、待ったをかける内容が続くと考えられます。そこで、空所のあとの文を読みます。
+Information about forest resources in Africa is often unreliable, and the deforestation rate across the continent is thought to be exaggerated, with the real figure possibly being half of what is reported.（アフリカの森林資源についての情報は信頼できないことが多く、大陸全体の森林破壊の割合は大げさに伝えられていると考えられていて、実際の数字は報告されている数字の半分かもしれない）
+unreliable は「信頼できない」、exaggerated は「大げさに伝えられた」です。情報が正確でなく、本当の数字が分からないのですから、「進み具合を正しく測るのは難しい」ということになります。ですから4が正解です。
+この問題の型：対比（成功していないと報告されている ⇔ しかし、その情報は正確でないかもしれない）
+【ほかの選択肢】
+1 has led to conflict between countries（国どうしの争いにつながってきた）を入れると、次の文とつながりません。次の文は、情報が信頼できず数字が大げさかもしれないという話で、国どうしの争いについては書かれていません。
+2 has caused financial losses（金銭的な損失を引き起こしてきた）を入れても、次の文で説明されるのは情報や数字の不確かさで、お金の損失の話は書かれていません。
+3 could reduce some countries' territory（一部の国の領土を減らすかもしれない）を入れると、森林を守る計画の進み具合が国の土地の広さを減らすという話になります。本文には領土の話はなく、次の文ともつながりません。
+【覚えるポイント】
+・measure：「測る」。unreliable は「信頼できない」、exaggerated は「大げさに伝えられた」です。
+・空所のあとの文が空所の内容を説明していることはよくあります。However のあとの空所では、前の内容を打ち消す方向になっているか、そして次の文（ここでは情報が信頼できないこと）の説明になっているかを確かめましょう。

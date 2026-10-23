@@ -1,0 +1,29 @@
+---
+choices: The Spanish brought the churro with them to North and South America. | Tourists are not allowed to attend Navajo religious ceremonies. | Navajo shepherds sell wool to tourists who want to weave blankets. | Lyle McNeal believes sheep cause too much damage to the environment.
+answerText: The Spanish brought the churro with them to North and South America.
+reviewed: yes
+---
+【正解】1 The Spanish brought the churro with them to North and South America.（スペイン人がチュロを北アメリカと南アメリカに連れてきた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：次の記述のうち正しいものはどれですか。
+1 The Spanish brought the churro with them to North and South America.（スペイン人がチュロを北アメリカと南アメリカに連れてきた。）
+2 Tourists are not allowed to attend Navajo religious ceremonies.（観光客は、ナバホ族の宗教の儀式に参加することを許されていない。）
+3 Navajo shepherds sell wool to tourists who want to weave blankets.（ナバホ族の羊飼いは、毛布を織りたい観光客に毛を売っている。）
+4 Lyle McNeal believes sheep cause too much damage to the environment.（ライル・マクニールは、羊が環境にあまりにも多くの害を与えると考えている。）
+【考え方】
+このような問題では、選択肢を1つずつ本文と照らし合わせます。
+選択肢1のチュロとスペイン人については、第1段落に書かれています。the churro, a type of sheep which was first introduced to North and South America by the Spanish in the 16th century（チュロは羊の一種で、16世紀にスペイン人によって初めて北アメリカと南アメリカに持ちこまれた）とあります。
+was introduced ... by the Spanish は受け身（「～される」という意味を表す形）で、「スペイン人によって持ちこまれた」という意味です。選択肢1は、これを The Spanish brought ～（スペイン人が～を連れてきた）と、スペイン人を主語にした形で言いかえています。
+本文と選択肢を対にすると、次のようになります。
+本文 was first introduced to North and South America by the Spanish（スペイン人によって初めて北アメリカと南アメリカに持ちこまれた）＝ 選択肢 The Spanish brought the churro with them to North and South America（スペイン人がチュロを北アメリカと南アメリカに連れてきた）
+1が正解です。
+【ほかの選択肢】
+2 第4段落には、behaving badly during religious ceremonies（宗教の儀式の間に行儀の悪いふるまいをした）観光客がいたとあります。また、指導者たちが規則を作ったとありますが、その規則の中身は書かれていません。観光客が儀式に参加できないとは書かれていないので、言い切ることはできません。
+3 第3段落には、観光客が weaving skills（機織りの技術）を学べるとありますが、羊飼いが観光客に毛を売っているとは書かれていません。
+4 ライル・マクニールは、第2段落で began working to save the sheep（羊を救うための活動を始めた）人として出てきます。羊が環境に害を与えていると判断したのは、1930年代のアメリカ政府です。人物が違います。
+【覚えるポイント】
+・introduce A to B：「AをBに持ちこむ、紹介する」。
+・受け身（A was introduced by B）と、ふつうの形（B brought A）は、同じ出来事を別の向きから言いかえたものです。

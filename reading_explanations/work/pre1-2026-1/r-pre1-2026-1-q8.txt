@@ -1,0 +1,31 @@
+---
+choices: nutritious | diverse | barren | coincidental
+answerText: barren
+reviewed: yes
+---
+【正解】3 barren（不毛の、植物が育たない）
+【和訳】
+（英文）
+After several years with almost no rain, the area became a ［barren］ wasteland where no trees or other plants could survive.
+（訳）
+ほとんど雨の降らない年が数年続いたあと、その地域は、木もほかの植物も生き残ることのできない（不毛の）荒れ地になった。
+（選択肢の意味）
+1 nutritious：栄養のある
+2 diverse：多様な、さまざまな
+3 barren：不毛の（作物や植物が育たない）、やせた
+4 coincidental：偶然の
+【考え方】
+まず見るところ：空所の後ろの wasteland where no trees or other plants could survive
+空所は、後ろの wasteland（荒れ地）を説明する語です。その荒れ地がどんな場所かは、where 以下に書かれています。
+wasteland where no trees or other plants could survive（木もほかの植物も生き残ることのできない荒れ地）
+where は、前の wasteland に説明をつけ足す働きをしています。
+文の初めの After several years with almost no rain（ほとんど雨の降らない年が数年続いたあと）も、雨がなくて植物が育たなくなったことを表しています。
+植物が育たない土地のようすを表すのは barren（不毛の：作物や植物が育たない）です。ですから3が正解です。
+この問題の型：語の意味・組み合わせ（barren wasteland）／因果（雨がほとんどない → 植物が育たない）
+【ほかの選択肢】
+1 nutritious は「栄養のある」です。木も植物も育たない荒れ地を「栄養のある」と言うのは、話の流れと合いません。
+2 diverse は「多様な、さまざまな」です。植物が1本も生き残れない土地は「多様な」とは言えず、合いません。
+4 coincidental は「偶然の」です。雨が数年降らなかったために荒れ地になったので、「偶然の荒れ地」では意味が通りません。
+【覚えるポイント】
+・barren：「不毛の（植物や作物が育たない）」。wasteland（荒れ地）といっしょに使われることがあります。
+・名詞の前の空所では、その名詞のあとの where ～ や that ～ の説明に、空所の語の言いかえが書かれていることがあります。そこを読むのが手がかりになります。

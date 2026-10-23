@@ -1,0 +1,28 @@
+---
+choices: tube | loan | unit | pile
+answerText: loan
+reviewed: yes
+---
+【正解】2 loan（ローン、貸付金）
+【和訳】
+（英文）
+Nate's parents could not pay for his college education, so he had to get a student ［loan］. After graduating, he will have to pay back $100 every month.
+（訳）
+ネイトの両親は彼の大学の教育費を払うことができなかったので、彼は学生（ローン）を借りなければなりませんでした。卒業したあと、彼は毎月100ドルを返さなければなりません。
+（選択肢の意味）
+1 tube：管、筒
+2 loan：ローン、貸付金（貸してもらうお金）
+3 unit：単位、ひとまとまり
+4 pile：積み重ねた山
+【考え方】
+空所は get a student (　) です。手がかりは前後の文にあります。
+前の部分の Nate's parents could not pay for his college education（ネイトの両親は彼の大学の教育費を払えなかった）から、ネイトには学費のお金が足りなかったことが分かります。
+あとの文の After graduating, he will have to pay back $100 every month.（卒業後、彼は毎月100ドルを返さなければならない）にある pay back は「（借りたお金を）返す」という意味です。
+お金が足りないので何かを手に入れ、卒業後に毎月返すのですから、空所には「借りたお金」を表す語が入ります。loan（ローン、貸付金）を入れると student loan（学生ローン、学費のために借りるお金）となり、話がつながります。ですから2が正解です。
+【ほかの選択肢】
+1 tube は「管、筒」です。「学生の管を手に入れる」となり、学費の話にも「毎月返す」ことにも合いません。
+3 unit は「単位、ひとまとまり」です。「学生の単位」としても、それを卒業後に毎月100ドルずつ返すことにはなりません。
+4 pile は「積み重ねた山」です。「学生の山を手に入れる」となり、意味が通りません。
+【覚えるポイント】
+・student loan：「学生ローン（学費などのために借りるお金）」。
+・pay back：「（借りたお金を）返す」。

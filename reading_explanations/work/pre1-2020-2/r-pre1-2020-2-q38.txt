@@ -1,0 +1,34 @@
+---
+choices: Installing generators in dams requires a significantly larger investment of resources than other forms of renewable energy. | When there is not enough water in rivers to be stored behind dams, it affects the amount of electricity that can be generated. | Although dams reduce some types of pollution, they negatively affect the quality of water that flows into river systems. | It is becoming more difficult to construct dams that are large enough to generate the amount of electricity currently required.
+answerText: When there is not enough water in rivers to be stored behind dams, it affects the amount of electricity that can be generated.
+reviewed: yes
+---
+【正解】2 When there is not enough water in rivers to be stored behind dams, it affects the amount of electricity that can be generated.（ダムの後ろにためておくのに十分な水が川にないと、作ることのできる電気の量に影響が出る。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one problem with hydropower as a source of energy?（エネルギー源としての水力発電の問題の一つは何か。）
+1 Installing generators in dams requires a significantly larger investment of resources than other forms of renewable energy.（ダムに発電機を取りつけるには、ほかの形の再生可能エネルギーよりもかなり多くの資源をつぎこむ必要がある。）
+2 When there is not enough water in rivers to be stored behind dams, it affects the amount of electricity that can be generated.（ダムの後ろにためておくのに十分な水が川にないと、作ることのできる電気の量に影響が出る。）
+3 Although dams reduce some types of pollution, they negatively affect the quality of water that flows into river systems.（ダムはある種の汚染を減らすが、川の流れに入っていく水の質に悪い影響を与える。）
+4 It is becoming more difficult to construct dams that are large enough to generate the amount of electricity currently required.（現在必要とされている量の電気を作れるほど大きなダムを建設することが、以前より難しくなってきている。）
+【考え方】
+まず見るところ：第1段落の However, hydropower has its drawbacks.
+第1段落の後半に、水力発電の欠点が書かれています。
+However, hydropower has its drawbacks.（しかし、水力発電には欠点がある）
+drawback は「欠点」です。このあとに、欠点の中身が続きます。
+Droughts and increased water consumption have reduced the flow of many rivers.（干ばつと水の消費量の増加によって、多くの川の流れが減ってきた）
+As rivers become shallower, the necessary volume of water for electricity generation is more difficult to maintain, and power supply and dependability are negatively impacted.（川が浅くなるにつれて、発電に必要な量の水を保つのがより難しくなり、電力の供給と安定性が悪い影響を受ける）
+本文と選択肢2を対にすると、次のようになります。
+本文 the necessary volume of water for electricity generation is more difficult to maintain（発電に必要な量の水を保つのがより難しくなる）→ 選択肢 there is not enough water in rivers to be stored behind dams（ダムの後ろにためておくのに十分な水が川にない）
+本文 power supply ～ are negatively impacted（電力の供給が悪い影響を受ける）→ 選択肢 it affects the amount of electricity that can be generated（作ることのできる電気の量に影響が出る）
+よって2が正解です。
+この問題の型：対比（However：よい投資⇔欠点がある）／言いかえ（power supply is negatively impacted→affects the amount of electricity）
+【ほかの選択肢】
+1 本文にない内容です。本文は水力発電施設について usually good investments（たいてい良い投資）と述べており、ほかの再生可能エネルギーより多くの資源が必要だという比較は書かれていません。
+3 本文にない内容です。本文は、水力発電が出す大気汚染やCO2の排出が化石燃料よりはるかに少ないことには触れていますが、川に流れこむ水の質が悪くなるという話はありません。
+4 本文にない内容です。大きなダムを建てるのが難しくなってきたという話はありません。本文が挙げている欠点は、川の水が減って発電に必要な水が保ちにくいことです。
+【覚えるポイント】
+・drawback：「欠点、不利な点」。has its drawbacks で「（よい点もあるが）欠点もある」という意味になります。
+・設問が one problem（問題の一つ）をたずねるときは、本文で However のあとに drawbacks（欠点）や downside（よくない点）のような語が出てくる所を探し、その直後の説明と選択肢を対にすると手がかりになります。

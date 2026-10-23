@@ -1,0 +1,23 @@
+---
+choices: point | in | no | there's | going inside
+answerText: no
+order: 4 3 1 2 5
+reviewed: yes
+---
+【正解】3 no（この問題の2番目）
+【完成文】
+B: Well, ( there's no point in going inside ) if we only have a few minutes to look around. Let's come back again some other day.
+並べ方：4 there's → 3 no → 1 point → 2 in → 5 going inside（2番目は3、4番目は2）
+【和訳】
+A：あれ、困ったな。ドアの掲示に、博物館は4時に閉まると書いてあるよ。
+B：うーん、見て回る時間が数分しかないなら、中に入っても意味がないね。また別の日に来よう。
+【考え方】
+Aは、博物館が4時に閉まると知って Oh, no.（あれ、困った）と言っています。Bは最後に Let's come back again some other day.（また別の日に来よう）と言っているので、今日は入らないことにしたと分かります。
+選択肢の there's、no、point、in を使うと、there's no point in ～ing（～しても意味がない、むだだ）という決まった言い方が作れます。point はここでは「意味、目的」という意味です。
+4 there's で始め、3 no、1 point と続けて there's no point（意味がない）とします。そのあとに 2 in を置き、in のあとには「何をしても意味がないのか」を表す 5 going inside（中に入ること）を置きます。in のような前置詞（名詞の前に置いて場所や関係を表す語）のあとには、動詞は ～ing の形で続きます。
+「見て回る時間が数分しかないなら、中に入っても意味がない」となり、「また別の日に来よう」というBの提案とつながります。
+there's point no のように no を後ろに置くと、「意味がない」という形にならないので注意しましょう。
+2番目に来るのは 3 no です。there's no ～ で「～がない」となるので、there's のすぐあとに no を置き、そのあとに point を続けます。
+【覚えるポイント】
+・there's no point in ～ing：「～しても意味がない、むだだ」。
+・look around：「見て回る」。

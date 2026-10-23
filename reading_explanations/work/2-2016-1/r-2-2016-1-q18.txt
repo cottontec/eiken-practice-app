@@ -1,0 +1,27 @@
+---
+choices: was checking | was being checked | had been checked | would be checking
+answerText: was being checked
+reviewed: yes
+---
+【正解】2 was being checked（点検されているところだった）
+【和訳】
+（英文）
+Patricia took her car to a repair shop because the engine was making strange noises. She read some magazines inside the shop while her car ［was being checked］.
+（訳）
+パトリシアは、エンジンが変な音を立てていたので、車を修理工場へ持っていきました。車が（点検されている）間、彼女は工場の中で雑誌を何冊か読みました。
+（選択肢の意味）
+1 was checking：点検していた
+2 was being checked：点検されているところだった
+3 had been checked：（すでに）点検されていた
+4 would be checking：点検しているだろう
+【考え方】
+まず、主語の her car（彼女の車）と check（点検する）の関係を考えます。車は自分で点検をするのではなく、修理工場の人に点検される側です。ですから「～される」という受け身（be ＋過去分詞）の形が必要です。受け身になっているのは2と3です。
+次に、空所の前の while（～している間）に注目します。She read some magazines inside the shop while her car (　).（車が（　）している間、彼女は店の中で雑誌を読んだ）という文なので、雑誌を読んでいるのと同じ時に、車の点検が行われている最中だったことを表す形が必要です。
+was being checked は「過去進行形（was ＋ -ing：～しているところだった）」と受け身が組み合わさった形で、「（そのとき）点検されているところだった」という意味です。これを入れると「車が点検されている間、雑誌を読んだ」となり、意味が通ります。ですから2が正解です。
+【ほかの選択肢】
+1 was checking は過去進行形で「点検しているところだった」です。主語が車なので「車が（何かを）点検していた」となってしまい、意味が通りません。
+3 had been checked は過去完了の受け身で、「（そのときより前に）すでに点検されていた」という意味です。while（～している間）と組み合わせると、雑誌を読んでいる最中に点検が進んでいたことを表せません。
+4 would be checking は「点検しているだろう」です。主語が車なので「車が点検する」となるうえ、受け身でもないので意味が通りません。
+【覚えるポイント】
+・be being ＋過去分詞：「～されているところだ」。進行形と受け身が組み合わさった形です。
+・主語が「する側」か「される側」かを考えると、受け身にすべきかどうかが分かります。

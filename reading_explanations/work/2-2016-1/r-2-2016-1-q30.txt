@@ -1,0 +1,30 @@
+---
+choices: make more space for the whole animals that they eat. | better digest the blood of the animals that they eat. | be able to catch more food more quickly. | help them digest large meals more quickly.
+answerText: help them digest large meals more quickly.
+reviewed: yes
+---
+【正解】4 help them digest large meals more quickly.（大量の食事をより速く消化するのに役立てる（ために）。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：多くの大型のヘビが心臓の大きさを変えるのは、
+1 make more space for the whole animals that they eat.（食べる動物を丸ごと入れる場所を（今より）多く作るためだ。）
+2 better digest the blood of the animals that they eat.（食べる動物の血液をよりよく消化するためだ。）
+3 be able to catch more food more quickly.（より多くの食べ物をより速くつかまえられるようにするためだ。）
+4 help them digest large meals more quickly.（大量の食事をより速く消化するのに役立てるためだ。）
+【考え方】
+設問の in order to ～ は「～するために」という目的を表します。ヘビが心臓を大きくする目的を、第1段落から探します。
+In order to digest these large meals, the heart and other organs inside the snake's body suddenly grow much larger.（こうした大量の食事を消化するために、ヘビの体の中の心臓やほかの器官が、急に（ふだんより）ずっと大きくなる）
+The heart, for example, does this so that it can pump blood around the body much faster. This allows the snake to digest food more quickly.（たとえば心臓は、血液をずっと速く体中に送り出せるように、こうして大きくなる。これによって、ヘビは食べ物をより速く消化できるようになる）
+心臓が大きくなると、血液が速く体中に送られ、その結果、食べ物を速く消化できる、という順序です。
+本文と選択肢を対にすると、次のようになります。
+本文 to digest these large meals ／ allows the snake to digest food more quickly ＝ 選択肢 help them digest large meals more quickly
+ですから4が正解です。
+【ほかの選択肢】
+1 本文に whole animals（動物を丸ごと）という語句は出てきますが、それはヘビが何を食べるかの説明です。心臓が大きくなるのは食べ物の場所を作るためではなく、血液を速く送り出して消化を速めるためです。
+2 本文で心臓が速く送り出すのは、ヘビ自身の血液です（pump blood around the body）。食べた動物の血液を消化するという話は、本文にありません。
+3 心臓が大きくなるのは、食べたあとにその食事を消化するためです。食べ物をつかまえるため、という話は本文にありません。
+【覚えるポイント】
+・in order to ～：「～するために」（目的）。so that ～ can ...（～が…できるように）も目的を表します。
+・digest：「（食べ物を）消化する」。

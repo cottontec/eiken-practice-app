@@ -1,0 +1,32 @@
+---
+choices: They used it as food for their animals or turned it into new products. | They took it to garbage collection facilities using their donkeys and carts. | The women sorted it and the men took it back to where it came from. | The men used it to produce the materials they needed to build their farms.
+answerText: They used it as food for their animals or turned it into new products.
+reviewed: yes
+---
+【正解】1 They used it as food for their animals or turned it into new products.（自分たちの動物のえさとして使ったり、新しい製品に変えたりした。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ザバリーンは、集めたごみのほとんどをどうしましたか。
+1 They used it as food for their animals or turned it into new products.（自分たちの動物のえさとして使ったり、新しい製品に変えたりした。）
+2 They took it to garbage collection facilities using their donkeys and carts.（ロバと荷車を使って、ごみ収集施設に運んだ。）
+3 The women sorted it and the men took it back to where it came from.（女性たちがそれを分別し、男性たちがそれを元の場所へ戻した。）
+4 The men used it to produce the materials they needed to build their farms.（男性たちがそれを使って、自分たちの農場を建てるのに必要な材料を作った。）
+【考え方】
+集めたごみをどうしたかは、第2段落の後半に書かれています。
+・Any food that was collected was fed to their pigs and chickens（集められた食べ物はどれも、自分たちのブタやニワトリのえさにされた）
+・other materials were used to make cloth and other goods（そのほかの材料は、布やほかの品物を作るのに使われた）
+・In this way, over 80 percent of the garbage was recycled.（このようにして、ごみの80パーセント以上がリサイクルされた）
+本文と選択肢を対にすると、次のようになります。
+本文 was fed to their pigs and chickens ＝ 選択肢 used it as food for their animals
+本文 were used to make cloth and other goods ＝ 選択肢 turned it into new products
+本文 over 80 percent of the garbage ＝ 設問 most of the garbage
+ブタやニワトリが their animals（自分たちの動物）に、布や品物を作ることが turned it into new products（新しい製品に変えた）に言いかえられています。また、80パーセント以上がこのように使われたので、設問の「ほとんどのごみ」に当たります。よって1が正解です。
+【ほかの選択肢】
+2 本文では、ロバが引く荷車は、家から家へとごみを集めて回るのに使われました。ごみ収集施設に運んだという話はありません。
+3 女性たちが分別したのは本文と合っていますが、本文では男性たちはごみを家に brought back（持ち帰った）とあります。ごみを元の場所に戻したのではありません。一部だけ本文と合っている選択肢です。
+4 ザバリーンは貧しい農民の子孫だと書かれていますが、ごみから農場を建てる材料を作ったという話はありません。ごみから作ったのは布やほかの品物です。
+【覚えるポイント】
+・turn A into B：「AをBに変える」。
+・feed A to B：「AをBにえさとして与える」。本文では A was fed to B（AがBに与えられた）の形です。

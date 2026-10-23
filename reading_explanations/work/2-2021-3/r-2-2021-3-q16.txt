@@ -1,0 +1,32 @@
+---
+choices: blame for | begin at | add to | act on
+answerText: blame for
+reviewed: yes
+---
+【正解】1 blame for（～の責任がある、～の原因である。be to blame for ～ の形）
+【和訳】
+（英文）
+The power company said that rats were to ［blame for］ the blackout. The animals had eaten through wires connecting houses to the electricity supply.
+（訳）
+電力会社は、ネズミが停電の（原因だ）と言いました。その動物たちが、家々と電気の供給元をつなぐ電線をかじって切っていたのです。
+（選択肢の意味）※空所の前の were to とつなげて考えます。
+1 blame for：（be to blame for ～で）～の責任がある、～の原因である
+2 begin at：～から始まる
+3 add to：～を増やす、～に加える
+4 act on：～に基づいて行動する、～に作用する
+【考え方】
+まず見るところ：2つ目の文 The animals had eaten through wires connecting houses to the electricity supply.
+The animals had eaten through wires connecting houses to the electricity supply.（その動物たちは、家々と電気の供給元をつなぐ電線をかじって切っていた）
+The animals は前の文の rats（ネズミ）を指します。eat through ～ は「～をかじって穴をあける、食い破る」です。
+電線が切れれば、電気が家に届かなくなります。つまりこの文は、blackout（停電）が起きた原因を説明しています。
+The power company said that rats were to (　) the blackout.（電力会社は、ネズミが停電の（　）と言った）
+ですからこの文は「停電はネズミのせいだ」という意味になると考えられます。be to blame for ～ は「～の責任がある、～の原因である」という決まった言い方で、rats were to blame for the blackout で「ネズミが停電の原因だった」となるので、1が正解です。
+この問題の型：熟語・決まった形（be to blame for ～）、因果（電線をかじった→停電の原因）
+【ほかの選択肢】
+2 begin at は「～から始まる」です。「ネズミが停電から始まる」のような意味になり、ネズミが電線をかじったという次の文の原因の説明とつながりません。
+3 add to は「～を増やす、～に加える」です。「ネズミが停電を増やす」のような意味になり、停電がなぜ起きたのかの説明になりません。
+4 act on は「～に基づいて行動する、～に作用する」です。「ネズミが停電に基づいて行動する」のような意味になり、文が通じません。
+【覚えるポイント】
+・be to blame for ～：「～の責任がある、～の原因である」。blame は「（人に）責任があるとする、～のせいにする」です。
+・次に同じ形が出たら：あとの文が「何が起きたか」の説明になっているときは、その説明が前の文の「原因」を表していないか確かめると、空所に入る語句の手がかりになります。
+・eat through ～：「～をかじって穴をあける、食い破る」。

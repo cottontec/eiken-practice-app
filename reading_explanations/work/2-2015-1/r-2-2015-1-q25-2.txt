@@ -1,0 +1,21 @@
+---
+choices: so many | eaten | of | them | having
+answerText: eaten
+order: 5 2 1 3 4
+reviewed: yes
+---
+【正解】2 eaten（この問題の2番目）
+【完成文】
+Josh is on a diet, but he ate a big bag of potato chips. Now he feels bad about ( having eaten so many of them ).
+並べ方：5 having → 2 eaten → 1 so many → 3 of → 4 them（2番目は2、4番目は3）
+【和訳】
+ジョシュはダイエット中なのに、ポテトチップスの大きな袋を1つ食べてしまいました。今、彼はそれをそんなにたくさん食べてしまったことを、悪かったと思っています。
+【考え方】
+空所の前の feel bad about ～ は「～のことを悪かったと思う、～で気がとがめる」という意味です。about は前置詞（名詞の前に置いて意味を付け加える語）なので、あとには名詞か ～ing の形がきます。選択肢のうち ～ing の形は 5 having です。
+having のあとには 2 eaten（eat の過去分詞）を置きます。〈having＋過去分詞〉は、「～してしまったこと」という意味の ～ing の形です。食べたのは過去（ate）で、悪かったと思っているのは今（Now he feels）なので、気持ちより前にしたことを表すこの形がぴったりです。
+eaten のあとには「何を食べたか」がきます。1 so many（そんなにたくさん）→ 3 of → 4 them とつなげて so many of them（それらのうちのそんなに多く）とします。them は前の文の potato chips（ポテトチップス）を指しています。
+したがって2番目は2 eaten です。
+まちがえやすいのは、having so many of them eaten（5 1 3 4 2）のように eaten を最後に回す並べ方です。〈have＋物＋過去分詞〉は「物を～される、～してもらう」という意味になるので、「それらをたくさん食べられてしまったこと」となり、ジョシュが自分で食べたという話と合わなくなります。
+【覚えるポイント】
+・feel bad about ～：「～のことを悪かったと思う、～で気がとがめる」。
+・having＋過去分詞：「（それより前に）～してしまったこと」。

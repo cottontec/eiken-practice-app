@@ -1,0 +1,27 @@
+---
+choices: Been designed | Designed | Been designing | Designing
+answerText: Designed
+reviewed: yes
+---
+【正解】2 Designed（設計されて、作られて）
+【和訳】
+（英文）
+Rebecca bought a new jacket yesterday. ［Designed］ for outdoor use, it is waterproof and excellent for hiking.
+（訳）
+レベッカは昨日、新しい上着を買いました。屋外で使うように作られていて、その上着は防水で、ハイキングにうってつけです。
+（選択肢の意味）
+1 Been designed
+2 Designed（設計されて、作られて）
+3 Been designing
+4 Designing（設計して）
+【考え方】
+2文目の形を確かめます。(　) for outdoor use, it is waterproof and excellent for hiking. のコンマのあとに it is waterproof（それは防水だ）という文があります。it は1文目の a new jacket（新しい上着）を指します。waterproof は「防水の（水を通さない）」です。
+コンマの前は、主語のないまとまりで、あとの文の主語 it（上着）に説明を付け足しています。このように、動詞の ing 形や過去分詞（「～された」を表す形）で始まるまとまりで説明を付け足す形を、分詞構文といいます。
+ここで大事なのは、上着が「設計する」側か「設計される」側かです。上着は人によって設計されるものなので、「～された」を表す過去分詞 Designed を使います。Designed for outdoor use で「屋外で使うように設計されて（作られて）」となり、防水でハイキングに向いているという内容とつながります。正解は2です。
+【ほかの選択肢】
+1 Been designed は、been で始まっています。分詞構文で Having been designed（設計されていて）のような形はありますが、Been だけで始める形はありません。
+3 Been designing も Been で始まっており、同じ理由で分詞構文の形として成り立ちません。
+4 Designing は「設計して」と、自分が設計する側を表す形です。主語の it（上着）が何かを設計することはないので、意味が合いません。
+【覚えるポイント】
+・分詞構文の過去分詞：Designed for ～, it is … のように、主語が「～される」側のときは過去分詞で始めます。
+・waterproof：「防水の」。proof は「～を防ぐ」という意味を付け加えます。

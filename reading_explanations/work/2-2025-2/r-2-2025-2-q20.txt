@@ -1,0 +1,29 @@
+---
+choices: people owned one already | the store did not have space | people might not come to buy one | the store would run out of stock
+answerText: people might not come to buy one
+reviewed: yes
+---
+【正解】3 people might not come to buy one（人々は買いに来ないかもしれない）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 people owned one already（人々はすでに1つ持っていた）
+2 the store did not have space（店に場所がなかった）
+3 people might not come to buy one（人々は買いに来ないかもしれない）
+4 the store would run out of stock（店の在庫がなくなるだろう）
+【考え方】
+まず見るところ：第3段落の空所の前の he was worried と、うしろの However, ～
+When James tried to demonstrate and sell it at a department store, he was worried.（ジェームズがデパートでそれを実演して売ろうとしたとき、彼は心配していた。）
+空所の文 He thought that ( 20 ).（彼は（20）と思っていた）は、ジェームズが何を心配していたのかの説明だと考えられます。
+However, when he arrived, many shoppers were there to buy the toy.（しかし、彼が着いてみると、そのおもちゃを買うために多くの買い物客がそこに来ていた。）
+However（しかし）があるので、前の心配と、後ろの実際のできごとは反対の内容になります。実際には「多くの客が買いに来ていた」のですから、心配していたのは「客が買いに来ないこと」だと分かります。
+people might not come to buy one（人々は買いに来ないかもしれない）を入れると、「来ないかもしれないと心配した→しかし、多くの客が来ていた」という流れになります。ですから3が正解です。one は「（そのおもちゃの）1つ」という意味です。
+この問題の型：対比（心配〔客が来ない〕⇔実際〔多くの客が来た〕）
+【ほかの選択肢】
+1 「人々はすでに1つ持っていた」は、本文の流れと合いません。スリンキーはジェームズが発見して、これからおもちゃにして売り出すところだったので、人々がすでに持っているとは書かれていません。
+2 「店に場所がなかった」は、本文にない内容です。However のあとの「多くの客が来ていた」とも反対の関係になりません。
+4 「店の在庫（店にある売り物）がなくなるだろう」は、客がたくさん来ると考えたときにする心配です。However のあとの「多くの客が来ていた」とは反対の内容にならないので、流れが合いません。
+【覚えるポイント】
+・worried（心配して）のあとに However が続くときは、However の後ろの「実際に起きたこと」の反対を考えると、何を心配していたかが分かることが多いです。
+・run out of ～：「～を使い果たす、～がなくなる」。stock は「在庫」です。

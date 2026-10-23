@@ -1,0 +1,30 @@
+---
+choices: set about | took after | brought down | called on
+answerText: set about
+reviewed: yes
+---
+【正解】1 set about（～に取りかかった）
+【和訳】
+（英文）
+When the villagers heard a major typhoon was coming, they ［set about］ preparing for the storm. They knew they had to hurry for their own safety.
+（訳）
+大型の台風が近づいていると聞いたとき、村人たちは嵐への備えに取りかかった。彼らは、自分たちの安全のために急がなければならないと分かっていた。
+（選択肢の意味）
+1 set about：～に取りかかった
+2 took after：～に似ていた
+3 brought down：～を倒した、～を下げた
+4 called on：～を訪ねた、～に求めた
+【考え方】
+まず見るところ：空所の後ろの preparing for the storm と、後ろの文の They knew they had to hurry
+they ( ) preparing for the storm（村人たちは嵐への備え（　））
+空所の後ろには preparing（備えること）という ～ing の形が続いています。台風が来ると聞いた村人たちが、備えることに対して何をしたのかが入ります。
+They knew they had to hurry for their own safety.（彼らは、自分たちの安全のために急がなければならないと分かっていた）
+急がなければならないと分かっていたのですから、村人たちはすぐに準備を始めたと考えられます。set about ～ing で「～に取りかかる」という意味になるので、1が正解です。set は過去形も set なので、ここでは「取りかかった」と過去を表しています。
+この問題の型：熟語・決まった形（set about ～ing）／因果（急がなければならない→準備に取りかかった）
+【ほかの選択肢】
+2 took after は「（親などに）似ていた」です。「嵐への備えに似ていた」となり、意味が通りません。
+3 brought down は「～を倒した、～を下げた」です。「嵐への備えを倒した」となり、急いで準備をしなければならないという後ろの文とつながりません。
+4 called on は「～を訪ねた、～に求めた」です。「嵐への備えを訪ねた」となり、意味が通りません。
+【覚えるポイント】
+・set about ～ing：「～に取りかかる、～し始める」。
+・空所の後ろの文に had to hurry（急がなければならなかった）のような「すぐに行動する理由」があるときは、行動を「始める」ことを表す語句が入るかを考えることが手がかりになります。

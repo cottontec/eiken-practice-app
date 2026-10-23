@@ -1,0 +1,27 @@
+---
+choices: took | broke | drew | came
+answerText: came
+reviewed: yes
+---
+【正解】4 came（come into being で「生まれる、生じる」）
+【和訳】
+（英文）
+Adam had been called "Legs" since he was young, but no one remembered how his nickname ［came］ into being. He could not run fast, and his legs were not long.
+（訳）
+アダムは幼いころから「レッグズ（脚）」と呼ばれていましたが、そのあだ名がどのようにして（生まれた）のか、だれも覚えていませんでした。アダムは速く走れませんでしたし、脚は長くありませんでした。
+（選択肢の意味）
+1 took：取った（take の過去形）
+2 broke：こわした（break の過去形）
+3 drew：引いた、描いた（draw の過去形）
+4 came：来た（come の過去形）
+【考え方】
+空所の後ろの into being に注目します。come into being は「生まれる、生じる、存在するようになる」という決まった言い方です。being はここでは「存在」という意味の名詞です。
+how his nickname came into being で「彼のあだ名がどのようにして生まれたのか」となります。no one remembered（だれも覚えていなかった）とつながり、「あだ名の始まりをだれも覚えていない」という意味になります。
+次の文 He could not run fast, and his legs were not long.（彼は速く走れず、脚は長くなかった）から、Legs（脚）というあだ名が、足の速さや脚の長さに合っていなかったことが分かります。だからこそ、なぜそう呼ばれるようになったのか分からない、という話だと考えられます。came を入れると文の意味が通るので、4が正解です。
+【ほかの選択肢】
+1 took は take の過去形です。take into ～ は「～の中へ持ちこむ」のような意味で、take into being という言い方はありません。
+2 broke は break の過去形です。break into ～ は「～に押し入る」という意味で、「あだ名が存在に押し入った」では意味が通りません。
+3 drew は draw の過去形です。draw into ～ は「～に引きこむ」という意味で、draw into being という決まった言い方はなく、ここでは意味が通りません。
+【覚えるポイント】
+・come into being：「生まれる、生じる、存在するようになる」。
+・come を使った似た表現に come into existence（存在するようになる）もあります。

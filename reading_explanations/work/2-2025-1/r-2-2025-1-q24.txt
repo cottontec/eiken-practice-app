@@ -1,0 +1,33 @@
+---
+choices: more students liked to read science fiction novels than nonfiction short stories. | students from other schools joined the reading week event at her school. | reading was one of the most common conversation topics among students. | a lot of students in her school were actually interested in reading.
+answerText: a lot of students in her school were actually interested in reading.
+reviewed: yes
+---
+【正解】4 a lot of students in her school were actually interested in reading.（自分の学校の多くの生徒が、実は読書に興味を持っていること。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Last month, Jessica discovered that（先月、ジェシカは～ということに気づいた。）
+1 more students liked to read science fiction novels than nonfiction short stories.（ノンフィクション（事実にもとづく話）の短編よりも、SF小説を読むのが好きな生徒のほうが多いこと。）
+2 students from other schools joined the reading week event at her school.（ほかの学校の生徒たちが、自分の学校の読書週間のイベントに参加したこと。）
+3 reading was one of the most common conversation topics among students.（読書が、生徒たちの間で最もよくある会話の話題の1つであること。）
+4 a lot of students in her school were actually interested in reading.（自分の学校の多くの生徒が、実は読書に興味を持っていること。）
+【考え方】
+まず見るところ：第1段落の This event helped me realize that many students were interested in reading
+I attended the reading week event you organized last month.（私は、先月皆さんが企画した読書週間のイベントに参加した）
+設問の Last month（先月）は、この読書週間のイベントがあった時期です。
+We seldom talk about reading books in our daily conversations.（私たちは、ふだんの会話で本を読むことについてめったに話さない）
+This event helped me realize that many students were interested in reading（このイベントのおかげで、多くの生徒が読書に興味を持っていると気づいた）
+help ～ realize は「～が気づくのを助ける」、つまり「～のおかげで気づく」という意味です。ふだんは本の話をしないのに、実は多くの生徒が読書に興味を持っていた、という流れです。
+本文 helped me realize ＝ 設問 discovered（気づいた）
+本文 many students were interested in reading ＝ 選択肢 a lot of students in her school were actually interested in reading
+選択肢の actually（実は）は、「ふだんは本の話をしないけれど、本当は」という第1段落の流れを表しています。ですから4が正解です。
+この問題の型：言いかえ（realize → discovered、many → a lot of）
+【ほかの選択肢】
+1 SF小説とノンフィクションの短編を比べる話は、本文のどこにもありません。
+2 イベントは you organized（皆さん〔図書館の職員〕が企画した）ものと書かれていますが、ほかの学校の生徒が参加したとは書かれていません。
+3 本文には We seldom talk about reading books in our daily conversations.（ふだんの会話で本を読むことについてめったに話さない）とあり、「最もよくある会話の話題の1つ」とは反対の内容です。
+【覚えるポイント】
+・help ～ realize that …：「～が…と気づくのを助ける（～のおかげで…と気づく）」。設問の discover（気づく、発見する）と言いかえられることがあります。
+・seldom（めったに～ない）のような否定の語がある文は、選択肢で反対の内容（most common など）に変えられていないかを確かめる手がかりになります。

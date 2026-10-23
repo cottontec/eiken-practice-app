@@ -1,0 +1,32 @@
+---
+choices: enhanced | affiliated | bothered | evaluated
+answerText: affiliated
+reviewed: yes
+---
+【正解】2 affiliated（提携している、つながりがある）
+【和訳】
+（英文）
+A: Have you decided where to go for your study-abroad program, Ann?
+B: I'd like to go to Italy, so I'm going to find out if my university is ［affiliated］ with any schools there.
+（訳）
+A：アン、留学プログラムでどこへ行くか決めた？
+B：イタリアに行きたいから、私の大学があちらのどこかの学校と（提携している）かどうか調べてみるつもりだよ。
+（選択肢の意味）
+1 enhanced：高められた、強化された
+2 affiliated：提携している、つながりがある
+3 bothered：悩まされた、わずらわされた
+4 evaluated：評価された
+【考え方】
+まず見るところ：空所のすぐ後ろの with any schools there
+Aは、留学プログラムでどこへ行くかをたずねています。Bは「イタリアに行きたい」と答え、続けて次のように言います。
+I'm going to find out if my university is ( ) with any schools there（私の大学があちら（イタリア）のどこかの学校と（　）かどうか調べてみるつもりだ）
+find out if ～ は「～かどうかを調べる」という意味です。留学先を探すために、自分の大学とイタリアの学校との関係を調べようとしている、と考えられます。
+be affiliated with ～ で「～と提携している（協力の約束を結んでいる）、～とつながりがある」という意味になります。「私の大学がイタリアの学校と提携しているかどうか」となり、留学先探しの話とつながるので、2が正解です。
+この問題の型：熟語・決まった形（be affiliated with ～）
+【ほかの選択肢】
+1 enhanced は「高められた、強化された」です。「私の大学がイタリアの学校で強化されているかどうか」となり、留学先を探す話として意味が通りません。
+3 bothered は「悩まされた、わずらわされた」です。「私の大学がイタリアの学校に悩まされているかどうか」となり、留学先探しにつながりません。
+4 evaluated は「評価された」です。「私の大学がイタリアの学校で評価されているかどうか」となり、意味がはっきりせず、自分がどこへ留学できるかを調べる話にもなりません。
+【覚えるポイント】
+・be affiliated with ～：「～と提携している、～とつながりがある」。大学や会社どうしの関係を表すときに使われます。
+・空所のすぐ後ろの前置詞（ここでは with）は、空所の語と組になる形を見分ける手がかりになります。

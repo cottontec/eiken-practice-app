@@ -1,0 +1,29 @@
+---
+choices: The gift shop is having a sale because it is closing soon. | Golfers will get a discount if they buy a 5-year membership. | The cost for a daily pass is going to increase by 15 percent. | Members will be able to bring some guests for free.
+answerText: Members will be able to bring some guests for free.
+reviewed: yes
+---
+【正解】4 Members will be able to bring some guests for free.（会員は何人かのゲストを無料で連れてこられるようになる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：マートル・カントリークラブでは何が変わることになっていますか。
+1 The gift shop is having a sale because it is closing soon.（ギフトショップは、まもなく閉店するので、セールを行っている。）
+2 Golfers will get a discount if they buy a 5-year membership.（ゴルフをする人は、5年間の会員資格を買えば、割引を受けられる。）
+3 The cost for a daily pass is going to increase by 15 percent.（1日券の料金が15パーセント上がる。）
+4 Members will be able to bring some guests for free.（会員は何人かのゲストを無料で連れてこられるようになる。）
+【考え方】
+設問は「何が変わるか」です。第2段落の初めに We would also like to let you know about some new benefits for our members.（会員の皆様への新しい特典についてもお知らせいたします）とあり、この段落で変更点が説明されています。
+1つ目の変更点は次の部分です。
+Until now, members had to purchase a pass if they wanted to bring guests. From now on, however, we'll be giving each member 12 free guest passes per year.（これまでは、会員がゲストを連れてきたい場合、パスを購入しなければならなかった。しかし、これからは、会員1人につき1年に12枚の無料ゲストパスを渡す）
+Until now（これまでは）と From now on（これからは）を比べると、「ゲスト用のパスを買う必要があった」→「1年に12枚まで無料でもらえる」と変わることが分かります。
+本文 we'll be giving each member 12 free guest passes per year ＝ 選択肢 Members will be able to bring some guests for free
+12 free guest passes（12枚の無料ゲストパス）が bring some guests for free（何人かのゲストを無料で連れてこられる）に言いかえられています。ですから、4が正解です。
+【ほかの選択肢】
+1 ギフトショップについては、5年を超えて会員である人の割引が15パーセントから20パーセントに上がる、とだけ書かれています。閉店するという話やセールの話はありません。
+2 5年という数字は出てきますが、本文は「会員になって5年を超える人（people who have been members for over 5 years）」のギフトショップの割引の話です。「5年間の会員資格を買えば割引になる」とは書かれていません。
+3 15パーセントという数字は、これまでのギフトショップの割引の割合です。1日券（daily pass）の料金や、それが上がることについては、本文に書かれていません。
+【覚えるポイント】
+・Until now ～. From now on, ～.：「これまでは～。これからは～」。変更点を説明するときによく使われる組み合わせです。
+・for free：「無料で」。free だけでも「無料の」という意味があります。

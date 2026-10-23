@@ -1,0 +1,25 @@
+---
+choices: ability | comfort | peace | knowledge
+answerText: knowledge
+reviewed: yes
+---
+【正解】4 knowledge（知識、知っていること）
+【和訳】
+A：マーク・ランデンが大学を出てから何をしているか知ってる？
+B：私の知っている限りでは、お父さんの保険会社で働いているよ。でも、確かではないんだ。
+（選択肢の意味）
+1 ability：能力
+2 comfort：快適さ、なぐさめ
+3 peace：平和、安らぎ
+4 knowledge：知識、知っていること
+【考え方】
+Aは「マーク・ランデンが大学以来何をしているか知っているか」とたずねています。
+Bは To the best of my (　), he's been working for his father's insurance company.（私の～の限りでは、彼は父親の保険会社で働いている）と答え、そのあとに But I'm not sure.（でも、確かではない）と付け加えています。
+「確かではない」と言っているので、Bは「自分が知っている範囲では」と、断定をさけて答えていると考えられます。to the best of my knowledge で「私の知る限りでは」という決まった言い方になります。正解は4です。
+【ほかの選択肢】
+1 ability は「能力」です。to the best of my ability という言い方もありますが、「力の限り（できるだけがんばって）」という意味で、ふつう I'll do it to the best of my ability.（力の限りやります）のように、何かをするときに使います。ここに入れると「力の限り、彼は保険会社で働いている」となり、「確かではない」という言葉とつながりません。
+2 comfort は「快適さ、なぐさめ」です。「私の快適さの限りでは」となり、意味が通りません。
+3 peace は「平和、安らぎ」です。「私の平和の限りでは」となり、意味が通りません。
+【覚えるポイント】
+・to the best of my knowledge：「私の知る限りでは」。確かではないときに、断定をさけて言う表現です。
+・have been ～ing：「（今まで）ずっと～している」。

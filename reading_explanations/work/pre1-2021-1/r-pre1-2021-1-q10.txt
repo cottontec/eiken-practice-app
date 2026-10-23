@@ -1,0 +1,30 @@
+---
+choices: spotless | minute | rugged | impartial
+answerText: spotless
+reviewed: yes
+---
+【正解】1 spotless（しみ一つない、とても清潔な）
+【和訳】
+（英文）
+Nadine spends an hour thoroughly cleaning her apartment every day, so the entire place is ［spotless］.
+（訳）
+ナディーンは毎日1時間かけて自分のアパート（の部屋）を徹底的に掃除しているので、部屋全体が（しみ一つないほどきれい）です。
+（選択肢の意味）
+1 spotless：しみ一つない、とても清潔な
+2 minute：（形容詞で）ごく小さい、細かい
+3 rugged：ごつごつした、でこぼこの
+4 impartial：公平な、かたよらない
+【考え方】
+まず見るところ：文の前半の thoroughly cleaning her apartment every day と、so
+前半は次のとおりです。
+Nadine spends an hour thoroughly cleaning her apartment every day（ナディーンは毎日1時間かけて自分のアパートを徹底的に掃除している）
+thoroughly は「徹底的に、すみずみまで」という意味です。そのあとに so（だから）が続くので、後半は「毎日徹底的に掃除している」ことの結果になります。
+後半の the entire place は「その場所全体（部屋全体）」です。毎日すみずみまで掃除していれば、部屋全体がとてもきれいになっていると考えられます。spotless は「しみ一つない、とても清潔な」なので、1が正解です。
+この問題の型：因果（毎日徹底的に掃除する→だから部屋全体がとても清潔）
+【ほかの選択肢】
+2 minute は形容詞では「ごく小さい、細かい」という意味です（「分」の minute とは発音も違います）。「毎日掃除しているので部屋全体がごく小さい」となり、掃除の結果になりません。
+3 rugged は「ごつごつした、でこぼこの」です。「毎日掃除しているので部屋全体がでこぼこだ」となり、意味が通りません。
+4 impartial は「公平な、かたよらない」です。人の考え方や判断について使う語なので、「部屋全体が公平だ」となり、意味が通りません。
+【覚えるポイント】
+・spotless：「しみ一つない、とても清潔な」。spot（しみ、汚れ）が less（ない）と考えると覚えやすい語です。
+・A, so B（Aだから、B）の文では、Bの空所にはAの結果が入ります。Aの具体的な行動（ここでは thoroughly cleaning）から、どんな結果になるかを考えると手がかりになります。

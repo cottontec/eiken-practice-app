@@ -1,0 +1,26 @@
+---
+choices: ideas | prices | mistakes | advantages
+answerText: advantages
+reviewed: yes
+---
+【正解】4 advantages（利点、よい点）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 ideas：考え、アイデア
+2 prices：値段
+3 mistakes：誤り、まちがい
+4 advantages：利点、よい点
+【考え方】
+空所は第3段落の People who use such sites report many (　).（そうしたサイトを使う人々は、多くの（　）を報告している）という文にあります。
+そのあとの文を順に見ます。An obvious one is financial.（分かりやすいものの1つはお金の面だ）の one は、空所の語の1つを指しています。そのあと、数回しか使わない物に大金を払わず、必要なときだけ安く借りられる、という説明が続きます。これはサイトを使う人にとってのよい点です。
+さらに Another benefit is that these websites allow people to meet others in their community.（もう1つの benefit は、これらのサイトによって人々が地域のほかの人と知り合えることだ）とあります。benefit は「利点、恩恵」という意味です。Another benefit（もう1つの利点）とあるので、前の one も「利点」の1つだったと分かります。
+benefit と同じような意味を持つのは advantage（利点、よい点）です。正解は4です。
+【ほかの選択肢】
+1 ideas は「考え、アイデア」です。あとの文に Another benefit（もう1つの利点）とあるので、ここで並べられているのは「考え」ではなく「よい点」です。
+2 prices は「値段」です。「お金の面」の話は出てきますが、「分かりやすい値段の1つはお金の面だ」では意味が通らず、地域の人と知り合えるという2つ目の内容も値段ではありません。
+3 mistakes は「誤り、まちがい」です。あとに書かれているのは、必要なときだけ安く借りられることや地域の人と知り合えることなど、よい点ばかりなので合いません。
+【覚えるポイント】
+・advantage：「利点、よい点」。benefit も近い意味で使われます。反対は disadvantage（不利な点）です。
+・An obvious one is ～. Another … is ～：「分かりやすいものの1つは～だ。もう1つの…は～だ」。前の名詞の具体例を並べる形です。

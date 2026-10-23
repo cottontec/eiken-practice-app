@@ -1,0 +1,32 @@
+---
+choices: She wants to introduce her friend to him. | She wants his company to publish her book. | He edited another children's book that she wrote. | He gave her his e-mail address at a book event last year.
+answerText: She wants his company to publish her book.
+reviewed: yes
+---
+【正解】2 She wants his company to publish her book.（彼女は、彼の会社に自分の本を出版してほしいと思っている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ジェーン・ブルックスは、なぜフィールズさんにEメールを書いているのですか。
+1 She wants to introduce her friend to him.（彼女は、自分の友人を彼に紹介したいと思っている。）
+2 She wants his company to publish her book.（彼女は、彼の会社に自分の本を出版してほしいと思っている。）
+3 He edited another children's book that she wrote.（彼は、彼女が書いたほかの子ども向けの本を編集した。）
+4 He gave her his e-mail address at a book event last year.（彼は昨年、本のイベントで、彼女に自分のEメールアドレスを教えた。）
+【考え方】
+Eメールを書いた理由を考えるために、まず第1段落を順に見ていきます。
+・I have recently finished writing a children's book.（最近、子ども向けの本を書き終えた）
+・This is the first book I have ever written, so I do not have a publisher yet.（これは初めて書いた本なので、まだ出版社がない）
+・last year your company published his book（昨年、御社が彼〔友人のグレン〕の本を出版した）
+・He gave me your e-mail address and recommended that I contact you.（彼があなたのEメールアドレスを教えてくれて、あなたに連絡するよう勧めてくれた）
+ジェーンは本を書き終えたのに、まだ出版社がありません。そこで、友人の本を出版したフィールズさんの会社に連絡したのです。さらに第3段落で I have attached a copy of the book to this e-mail.（このEメールに本の写しを添付した）と言い、Please have a look at them and let me know what you think.（それらを見て、どう思うか教えてほしい）と頼んでいます。
+本文には「出版してください」とそのまま書かれてはいませんが、これらの内容から、次のことが読み取れます。
+本文 I do not have a publisher yet ＋ your company published his book ＋ 本の写しを添付 → 読み取れること：She wants his company to publish her book.（彼の会社に自分の本を出版してほしい）
+よって2が正解です。
+【ほかの選択肢】
+1 友人のグレン・ハドソンの名前は出てきますが、グレンは、すでにフィールズさんの会社から本を出していて、ジェーンにフィールズさんへの連絡を勧めた人として書かれています。Eメールの中身はジェーン自身の本の話で、グレンを紹介したいとはどこにも書かれていません。
+3 本文に This is the first book I have ever written（これは私がこれまでに書いた初めての本だ）とあります。ジェーンにはこれより前に書いた本がないので、「彼女が書いたほかの子ども向けの本」を彼が編集したということはありえません。
+4 本文では、He gave me your e-mail address（彼があなたのEメールアドレスを教えてくれた）の He は友人のグレンです。フィールズさん本人が教えたのではなく、本のイベントの話も本文にはありません。
+【覚えるポイント】
+・publisher：「出版社」。publish（出版する）に -er がついた語です。
+・recommend that ＋主語＋動詞：「～するよう勧める」。recommended that I contact you で「私があなたに連絡するよう勧めた」。

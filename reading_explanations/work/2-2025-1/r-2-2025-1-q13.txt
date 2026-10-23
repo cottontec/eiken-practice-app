@@ -1,0 +1,30 @@
+---
+choices: covers up | relies on | does with | approves of
+answerText: relies on
+reviewed: yes
+---
+【正解】2 relies on（～に頼る）
+【和訳】
+（英文）
+Bill is a university student. He has a part-time job, but he still ［relies on］ his parents for most of his money.
+（訳）
+ビルは大学生です。彼はアルバイトをしていますが、それでもまだ、お金のほとんどを両親に（頼って）います。
+（選択肢の意味）
+1 covers up：～を隠す、～をおおう
+2 relies on：～に頼る
+3 does with：～を処理する、（could do with で）～があるとありがたい
+4 approves of：～に賛成する、～を認める
+【考え方】
+まず見るところ：He has a part-time job, but he still と、空所のあとの for most of his money
+He has a part-time job, but he still (　) his parents（彼はアルバイトをしているが、それでもまだ両親に（　））
+but（しかし）と still（それでもまだ）があるので、「アルバイトをしている」ことから予想されることとは反対の内容が続きます。アルバイトをしていれば自分でお金をかせげるはずですが、そうではない、という流れです。
+for most of his money（お金のほとんどについて）
+rely on A for B は「BをAに頼る」という決まった形です。relies on his parents for most of his money で「お金のほとんどを両親に頼っている」となり、「アルバイトはしているが、それでもまだ」という流れに合います。ですから2が正解です。
+この問題の型：熟語・決まった形（rely on A for B）／対比（but … still）
+【ほかの選択肢】
+1 covers up は「～を隠す、～をおおう」です。「お金のほとんどについて両親を隠す」となり、意味が通りません。
+3 does with は「～を処理する」などの意味で、ふつう what to do with ～（～をどうするか）や could do with ～（～があるとありがたい）の形で使います。「両親をお金について処理する」となり、意味が通りません。
+4 approves of は「～に賛成する、～を認める」です。「お金のほとんどについて両親に賛成する」となり、アルバイトをしているのにまだ、という流れとつながりません。
+【覚えるポイント】
+・rely on A for B：「BをAに頼る」。depend on A for B も同じような意味です。
+・but … still（しかし、それでもまだ）が出てきたら、前の内容から予想されることと反対のことが続くと考えると、空所の意味を決める手がかりになります。

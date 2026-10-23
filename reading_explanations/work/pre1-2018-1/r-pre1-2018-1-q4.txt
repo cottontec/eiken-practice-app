@@ -1,0 +1,31 @@
+---
+choices: simulation | excess | sincerity | conservation
+answerText: conservation
+reviewed: yes
+---
+【正解】4 conservation（大切に使うこと、節約、保護）
+【和訳】
+（英文）
+The city introduced strict water ［conservation］ measures because of unusually low rainfall. For instance, residents were told they could not water their lawns.
+（訳）
+市は、雨がいつになく少なかったため、厳しい（節水）対策を取り入れた。たとえば、住民は芝生に水をまいてはいけないと言われた。
+（選択肢の意味）
+1 simulation：模擬実験、シミュレーション（本物に似せて試すこと）
+2 excess：多すぎること、余分
+3 sincerity：誠実さ、まじめさ
+4 conservation：大切に使うこと、節約、保護
+【考え方】
+まず見るところ：空所の後ろの because of unusually low rainfall と、次の文の For instance, ～
+空所の文は「市は厳しい水の〇〇対策を取り入れた」という意味です。measures は「対策」です。その理由は次のとおりです。
+because of unusually low rainfall（雨量がいつになく少なかったため）
+雨が少ないと水が足りなくなるので、市は水を大切に使うための対策をとったと考えられます。次の文がその具体例です。
+For instance, residents were told they could not water their lawns.（たとえば、住民は芝生に水をまいてはいけないと言われた）
+芝生への水まきを禁止するのは、水を節約するための対策です。conservation は「大切に使うこと、節約」なので、water conservation measures で「節水対策」となります。よって4が正解です。
+この問題の型：具体例とまとめ（For instance のあとの例が、空所の対策の中身）
+【ほかの選択肢】
+1 simulation は「模擬実験」です。「水の模擬実験対策」では、芝生への水まき禁止という例と合いません。
+2 excess は「多すぎること」です。雨が少なくて水が足りないという状況と反対になってしまいます。
+3 sincerity は「誠実さ」で、人の性格や態度を表す語です。「水の誠実さ対策」では意味が通りません。
+【覚えるポイント】
+・water conservation measures：「節水対策」。conservation は「（資源などを）大切に使うこと、保護」です。
+・For instance（たとえば）のあとの具体例は、その前の文の空所に何が入るかを確かめる手がかりになります。

@@ -1,0 +1,29 @@
+---
+choices: It is easy for mistakes to be made when people stare at the screen. | It is difficult for the camera to see where the user's eyes are looking. | The Tobii Group was worried that users would accidentally break their computers. | The Tobii Group wanted to find a faster way to open programs that people wanted to use.
+answerText: It is easy for mistakes to be made when people stare at the screen.
+reviewed: yes
+---
+【正解】1 It is easy for mistakes to be made when people stare at the screen.（人々が画面をじっと見つめると、まちがいが起こりやすい。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：トビー・グループが、PCEyeでものをクリックするための2つ目の方法を開発したのはなぜですか。
+1 It is easy for mistakes to be made when people stare at the screen.（人々が画面をじっと見つめると、まちがいが起こりやすい。）
+2 It is difficult for the camera to see where the user's eyes are looking.（利用者の目がどこを見ているのかを、カメラがとらえるのが難しい。）
+3 The Tobii Group was worried that users would accidentally break their computers.（トビー・グループは、利用者がうっかりコンピューターをこわしてしまうのではないかと心配した。）
+4 The Tobii Group wanted to find a faster way to open programs that people wanted to use.（トビー・グループは、人々が使いたいプログラムを（今までより）速く開く方法を見つけたかった。）
+【考え方】
+クリックの方法については、第2段落に書かれています。There are two ways for users to click on what they would like to use.（利用者が使いたいものをクリックする方法は2つある）とあり、そのあとに1つ目と2つ目の方法が説明されています。
+1つ目の方法は One way is just to stare at a part of the screen until it is clicked.（1つの方法は、画面のある部分を、それがクリックされるまでじっと見つめるだけというものだ）です。stare at ～ は「～をじっと見つめる」という意味です。
+そのすぐあとに、However, this can easily lead to mistakes, and so the company has developed another way.（しかし、この方法はまちがいにつながりやすいので、会社は別の方法を開発した）とあります。this は1つ目の方法（じっと見つめる方法）を指し、and so は「それで、だから」という意味です。つまり、「見つめる方法はまちがいが起こりやすい」ことが、別の方法を開発した理由になっています。
+本文と選択肢を対にすると、次のようになります。
+本文 this（画面をじっと見つめる方法）can easily lead to mistakes（簡単にまちがいにつながりうる）＝ 選択肢 It is easy for mistakes to be made when people stare at the screen（画面をじっと見つめると、まちがいが起こりやすい）
+ですから、1が正解です。
+【ほかの選択肢】
+2 本文には、カメラは the movements of a person's eyes（人の目の動き）を見るとあり、目の動きに合わせてカーソルが動くと説明されています。カメラが目の向きをとらえにくいという話は本文にありません。
+3 利用者がうっかりコンピューターをこわすことを心配したという話は、本文にありません。2つ目の方法を作った理由は、まちがってクリックしてしまうことでした。
+4 2つ目の方法について、本文には The timing can be changed so that it is clear when the user intends to click on something.（利用者がいつ何かをクリックするつもりなのかがはっきり分かるように、タイミングを変えられる）とあります。目的は、クリックしたいときがはっきり分かるようにすることで、速くプログラムを開くことではありません。
+【覚えるポイント】
+・lead to ～：「～につながる、～を引き起こす」。lead to mistakes で「まちがいにつながる」。
+・and so ～：「それで～、だから～」。前が理由、あとが結果です。

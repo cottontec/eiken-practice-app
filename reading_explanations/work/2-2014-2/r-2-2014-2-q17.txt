@@ -1,0 +1,29 @@
+---
+choices: head | nerves | stomach | bones
+answerText: nerves
+reviewed: yes
+---
+【正解】2 nerves（神経）
+【和訳】
+（英文）
+A: Janice, what's wrong? You look annoyed.
+B: Oh, it's Sally, that girl from my math class. She always says things that get on my ［nerves］.
+（訳）
+A：ジャニス、どうしたの？いらいらしているみたいだね。
+B：ああ、サリーのことだよ。数学のクラスの、あの女の子。いつも、私をいらいらさせるようなことを言うんだ。
+（選択肢の意味）
+1 head：頭
+2 nerves：神経
+3 stomach：胃、おなか
+4 bones：骨
+【考え方】
+Aの You look annoyed. に注目します。annoyed は「いらいらした、むっとした」という意味で、「いらいらしているように見える」となります。
+Bは、その理由としてサリーのことを話しています。She always says things that get on my (　). の that は前の things（こと）に説明を付け足しています。「彼女はいつも、私の（　）に get on することを言う」という形です。
+get on one's nerves は「人の神経にさわる、人をいらいらさせる」という決まった言い方です。nerve は「神経」で、複数形の nerves で使います。「いつも私をいらいらさせることを言う」となり、Aの「いらいらしているみたいだね」とつながります。正解は2です。
+【ほかの選択肢】
+1 head は「頭」です。get on my head では「人をいらいらさせる」という意味にならず、Aの You look annoyed. の理由として通りません。
+3 stomach は「胃、おなか」です。get on my stomach では「いらいらさせる」という意味になりません。
+4 bones は「骨」です。get on my bones でも「いらいらさせる」という意味にならず、会話の流れに合いません。
+【覚えるポイント】
+・get on one's nerves：「人の神経にさわる、人をいらいらさせる」。
+・annoyed：「いらいらした、むっとした」。

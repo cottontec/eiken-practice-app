@@ -1,0 +1,33 @@
+---
+choices: renovate | elaborate | ventilate | generate
+answerText: generate
+reviewed: yes
+---
+【正解】4 generate（生み出す、起こす）
+【和訳】
+（英文）
+The real estate agent warned her client that it would be difficult to ［generate］ interest in his house without lowering the price.
+（訳）
+その不動産業者は依頼人に、値段を下げなければ、彼の家への関心を（生み出す）のは難しいだろうと注意した。
+（選択肢の意味）
+1 renovate：（建物などを）修理して新しくする、改装する
+2 elaborate：詳しく述べる、念入りに作り上げる
+3 ventilate：換気する（部屋の空気を入れかえる）
+4 generate：生み出す、起こす
+【考え方】
+まず見るところ：空所の直後の interest in his house と、文の最後の without lowering the price
+real estate agent は「不動産業者（家や土地の売り買いの間に立つ仕事の人）」、client は「依頼人、客」です。この依頼人は家を売ろうとしている人だと考えられます。
+空所の直後を見ます。
+interest in his house（彼の家への関心）
+ここでの interest は「利子」ではなく「関心、興味」です。空所には、interest を目的語（動詞の「何を」に当たる語）にとる動詞が入ります。
+次に、文の最後を見ます。
+without lowering the price（値段を下げずに）
+値段が高いままでは、買いたいと思う人が現れにくくなります。つまり「値段を下げなければ、家に関心を持ってもらうのは難しい」という意味になるはずです。generate interest で「関心を生み出す、興味を持たせる」となるので、4が正解です。
+この問題の型：語の意味・組み合わせ（generate interest）
+【ほかの選択肢】
+1 renovate は「改装する」です。家を改装することはできますが、この文で空所のあとにあるのは interest（関心）です。「関心を改装する」では意味が通りません。
+2 elaborate は「詳しく述べる、念入りに作り上げる」です。「家への関心を詳しく述べるのは難しい」となり、値段を下げるかどうかの話とつながりません。
+3 ventilate は「換気する」です。これも家に関わる語ですが、「関心を換気する」では意味が通りません。
+【覚えるポイント】
+・generate interest in ～：「～への関心を生み出す、～に興味を持ってもらう」。
+・家の話だからといって、家に関係しそうな語（renovate や ventilate）にすぐ飛びつかず、空所の直後の名詞（ここでは interest）と組み合わせて意味が通るかを確かめることが大切です。

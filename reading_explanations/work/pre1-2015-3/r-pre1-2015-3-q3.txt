@@ -1,0 +1,32 @@
+---
+choices: livestock | fertilizer | compulsion | burden
+answerText: fertilizer
+reviewed: yes
+---
+【正解】2 fertilizer（肥料）
+【和訳】
+（英文）
+A: Evan, your vegetable garden looks fantastic this year. Did you do something different?
+B: Yeah, I added a new kind of ［fertilizer］ to the soil, and it really made the plants grow well.
+（訳）
+A：エバン、今年はあなたの野菜畑、すばらしいね。何かいつもと違うことをしたの？
+B：うん、新しい種類の（肥料）を土に加えたんだ。そうしたら、それが本当に植物をよく育ててくれたよ。
+（選択肢の意味）
+1 livestock：家畜（牛・豚・ニワトリなど、人が飼って育てる動物）
+2 fertilizer：肥料
+3 compulsion：強制、どうしてもしたくなる気持ち
+4 burden：重荷、負担
+【考え方】
+まず見るところ：Bの文の to the soil と made the plants grow well
+Aは、野菜畑がすばらしいので「何か違うことをしたのか」とたずねています。Bの答えを見ます。
+I added a new kind of (　) to the soil（新しい種類の（　）を土に加えた）
+it really made the plants grow well（それが本当に植物をよく育てた）
+土に加えるもので、植物をよく育てるものは「肥料」です。fertilizer は、作物がよく育つように土に混ぜる栄養のことです。ですから2が正解です。
+この問題の型：語の意味・組み合わせ（add ～ to the soil）
+【ほかの選択肢】
+1 livestock は「家畜」です。「新しい種類の家畜を土に加えた」となり、意味が通りません。
+3 compulsion は「強制、どうしてもしたくなる気持ち」です。土に加えるものではないので、意味が通りません。
+4 burden は「重荷、負担」です。「新しい種類の負担を土に加えたら植物がよく育った」となり、意味が通りません。
+【覚えるポイント】
+・fertilizer：「肥料」。作物がよく育つように土に加えるものです。
+・空所のあとの to the soil（土に）や、その結果を表す made the plants grow well（植物をよく育てた）のように、「どこに加えて、どうなったか」は、入る物を決める手がかりになります。

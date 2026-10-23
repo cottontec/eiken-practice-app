@@ -1,0 +1,25 @@
+---
+choices: circumstances | bargains | attractions | policies
+answerText: circumstances
+reviewed: yes
+---
+【正解】1 circumstances（状況、事情）
+【和訳】
+カーニー山に登るのは、ふつうの状況ならかなり簡単です。しかし先週末は天気がひどかったので、ロイと友人たちは頂上にたどり着けませんでした。
+（選択肢の意味）
+1 circumstances：状況、事情
+2 bargains：お買い得品、安売り品
+3 attractions：呼び物、人を引きつけるもの
+4 policies：方針、政策
+【考え方】
+まず文の前半 Climbing Mt. Carney is fairly easy under normal (　) を見ます。「カーニー山に登るのは、ふつうの（　）のもとではかなり簡単だ」という意味です。
+次に but のあとを見ます。last weekend the weather was terrible（先週末は天気がひどかった）とあり、そのために頂上に着けなかったと書かれています。
+つまりこの文は、「いつもなら簡単だが、先週末は天気が悪いという特別な事情があった」と比べています。ですから空所には、天気などをふくむ「その時のまわりの様子」を表す語が入ると考えられます。
+circumstances は「状況、事情」という意味で、under normal circumstances で「ふつうの状況なら、ふだんなら」という決まった言い方になります。正解は1です。
+【ほかの選択肢】
+2 bargains は「お買い得品、安売り品」です。「ふつうのお買い得品のもとでは登るのが簡単」となり、山登りや天気の話とつながりません。
+3 attractions は「呼び物、人を引きつけるもの」です。「ふつうの呼び物のもとで」では、天気が悪かったという後半との比べ方が成り立ちません。
+4 policies は「方針、政策」です。山に登るのが簡単かどうかは方針で決まる話ではなく、後半の天気の話とも合いません。
+【覚えるポイント】
+・under normal circumstances：「ふつうの状況なら、ふだんなら」。under ～ circumstances の形で「～な状況のもとで」と言います。
+・fail to ～：「～できない、～しそこなう」。

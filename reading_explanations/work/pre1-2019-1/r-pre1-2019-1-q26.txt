@@ -1,0 +1,32 @@
+---
+choices: For instance | Rather | Nevertheless | What is more
+answerText: What is more
+reviewed: yes
+---
+【正解】4 What is more（そのうえ、さらに）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 For instance（たとえば）
+2 Rather（むしろ、それどころか）
+3 Nevertheless（それにもかかわらず）
+4 What is more（そのうえ、さらに）
+【考え方】
+まず見るところ：第1段落の空所の前の Dozens died, and around 5,000 families lost their homes.
+空所の前では、洪水による被害が書かれています。
+In 1966, however, steady rains caused the Arno River to flood, burying the city in mud.（しかし1966年、降り続いた雨によってアルノ川が洪水を起こし、町は泥にうもれた）
+Dozens died, and around 5,000 families lost their homes.（数十人が亡くなり、およそ5,000の家族が家を失った）
+ここまでは、人々が受けた被害です。
+空所の後ろを見ます。
+huge numbers of priceless books and artworks in churches, museums, and libraries were damaged and in danger of being lost forever（教会や美術館、図書館にあった、値段がつけられないほど貴重な本や美術品が大量に被害を受け、永遠に失われる危険にさらされた）
+priceless は「値段がつけられないほど貴重な」です。こちらは本や美術品の被害です。
+人々の被害に、さらに美術品の被害がつけ加えられています。同じ向きの内容を「そのうえ」と足していく流れなので、What is more（そのうえ、さらに）が合います。ですから4が正解です。
+この問題の型：熟語・決まった形（What is more で同じ向きの内容をつけ加える）／具体例とまとめ（人の被害＋美術品の被害）
+【ほかの選択肢】
+1 For instance（たとえば）を入れると、本や美術品の被害が、人が亡くなったり家を失ったりしたことの「例」になってしまいます。美術品の被害は人の被害の例ではなく、別の被害なので合いません。
+2 Rather（むしろ）は、前の内容を打ち消して言い直すときに使います。ここでは人々の被害を打ち消しているわけではないので、合いません。
+3 Nevertheless（それにもかかわらず）は、前と反対の向きの内容が続くときに使います。人々の被害のあとに美術品の被害が続くのは同じ向きの内容なので、合いません。
+【覚えるポイント】
+・What is more：「そのうえ、さらに」。前の内容に同じ向きの内容をつけ加えるときの言い方です。
+・つなぎの語を選ぶ空所では、前と後ろが「同じ向き」「反対の向き」「例」のどれになっているかを確かめるのが手がかりになります。

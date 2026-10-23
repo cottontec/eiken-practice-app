@@ -1,0 +1,28 @@
+---
+choices: The clothing company forgot to give them a discount. | Their order arrived two weeks later than expected. | Many of the shirts sent to them were the wrong color. | Some of the clothing they received was damaged.
+answerText: Some of the clothing they received was damaged.
+reviewed: yes
+---
+【正解】4 Some of the clothing they received was damaged.（彼らが受け取った衣類の一部が傷んでいた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：カーマイン百貨店の注文には、どんな問題がありましたか。
+1 The clothing company forgot to give them a discount.（その衣料品会社は、彼らに割引をするのを忘れた。）
+2 Their order arrived two weeks later than expected.（彼らの注文品が、予定より2週間遅れて届いた。）
+3 Many of the shirts sent to them were the wrong color.（彼らに送られたシャツの多くが、まちがった色だった。）
+4 Some of the clothing they received was damaged.（彼らが受け取った衣類の一部が傷んでいた。）
+【考え方】
+カーマイン百貨店の注文の問題は、メールの第1段落に書かれています。
+You mentioned that Carmine's staff had found holes in some of the shirts they ordered from us.（カーマインのスタッフが、当社に注文したシャツの一部に穴を見つけたと、あなたは書いていましたね）とあります。hole は「穴」、some of ～ は「～の一部、～のいくつか」です。
+シャツに穴があいていたということは、届いた商品が傷んでいたということです。本文と選択肢は次のように対応しています。
+本文 found holes in some of the shirts（シャツの一部に穴を見つけた）＝ 選択肢 Some of the clothing they received was damaged（受け取った衣類の一部が傷んでいた）
+shirts（シャツ）が clothing（衣類）に、holes（穴がある）が damaged（傷んでいる、損傷している）に言いかえられています。正解は4です。
+【ほかの選択肢】
+1 割引の話は本文にありますが、we will give his company a 10 percent discount（彼の会社に10パーセントの割引をする）と、これから割引をするという内容です。割引を忘れたことが問題だったわけではありません。
+2 本文の a week（1週間）は、it will take about a week for their replacement order to arrive（代わりの注文品が届くまでに1週間ほどかかる）という、これからの取り替えの話です。注文品が2週間遅れて届いたとは書かれていません。
+3 シャツの色についての話は本文にありません。問題は、シャツの一部に穴があったことです。
+【覚えるポイント】
+・damaged：「傷んだ、損傷した」。
+・some of ～：「～の一部、～のいくつか」。

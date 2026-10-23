@@ -1,0 +1,29 @@
+---
+choices: sloppy | rotten | victorious | exclusive
+answerText: exclusive
+reviewed: yes
+---
+【正解】4 exclusive（限られた人しか利用できない、高級な）
+【和訳】
+（英文）
+Only very wealthy guests can afford a room at the Ocean Point Inn. In fact, the inn is so ［exclusive］ that only people who know the owner are allowed to stay there.
+（訳）
+オーシャン・ポイント・インの部屋に泊まるお金の余裕があるのは、とても裕福な客だけだ。実際、その宿はとても（限られた人しか利用できない）ので、オーナーの知り合いしか泊まることを許されていない。
+（選択肢の意味）
+1 sloppy：だらしない、いいかげんな
+2 rotten：腐った
+3 victorious：勝利を得た
+4 exclusive：限られた人しか利用できない、高級な
+【考え方】
+まず見るところ：that のあとの only people who know the owner are allowed to stay there
+the inn is so ( ) that only people who know the owner are allowed to stay there（その宿はとても（　）なので、オーナーの知り合いしか泊まることを許されていない）
+so ～ that ... は「とても～なので…」という意味の決まった形です。that のあとに「オーナーの知り合いしか泊まれない」と書かれているので、空所には「限られた人しか泊まれない」ことにつながる語が入ります。
+前の文の Only very wealthy guests can afford a room（とても裕福な客だけが部屋に泊まる余裕がある）とも合います。afford は「（お金の）余裕がある」という意味です。exclusive は「限られた人しか利用できない、高級な」なので、4が正解です。
+この問題の型：熟語・決まった形（so ～ that ...）／言いかえ（exclusive → only people who know the owner）
+【ほかの選択肢】
+1 sloppy は「だらしない、いいかげんな」です。だらしない宿だからオーナーの知り合いしか泊まれない、では理由にならず、裕福な客だけが泊まれるという前の文とも合いません。
+2 rotten は「腐った」です。「宿がとても腐っているので知り合いしか泊まれない」となり、意味が通りません。
+3 victorious は「勝利を得た」です。宿について言う言葉として意味が通りません。
+【覚えるポイント】
+・exclusive：「限られた人しか利用できない、高級な」。「ほかを締め出す」という意味の exclude と関係のある語です。
+・so ～ that ... の空所では、that のあとの結果（ここでは only people who know the owner）から、その原因となる様子を考えると手がかりになります。

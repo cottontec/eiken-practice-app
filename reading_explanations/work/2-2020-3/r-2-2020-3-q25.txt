@@ -1,0 +1,28 @@
+---
+choices: damages crops | is difficult to find | attracts more insects | makes vegetables taste bad
+answerText: damages crops
+reviewed: yes
+---
+【正解】1 damages crops（作物を傷める）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 damages crops（作物を傷める）
+2 is difficult to find（見つけるのが難しい）
+3 attracts more insects（より多くの虫を引き寄せる）
+4 makes vegetables taste bad（野菜の味を悪くする）
+【考え方】
+空所は第2段落の One common challenge in farming is that a lot of direct sunlight (25).（農業でよくある課題の1つは、たくさんの直射日光が（25）ことだ）です。challenge はここでは「課題、難しい問題」という意味です。
+空所のすぐあとの文に注目します。
+Not only can it cause the leaves to turn brown and dry, but the heat from the sunlight also quickly dries up the water in the ground.（それは葉を茶色にして乾かすだけでなく、日光の熱が地面の水分もすぐに干上がらせる）
+This means that the plants do not get enough water to survive.（これは、植物が生きていくのに十分な水を得られないということだ）
+it は a lot of direct sunlight（たくさんの直射日光）のことです。葉が茶色く乾いたり、水が足りなくなって植物が生きられなくなったりするのは、直射日光が作物に害を与えているということです。
+damages crops は「作物を傷める」という意味なので、あとの具体的な説明とつながります。さらに、研究者がソーラーパネルで日陰をつくったら作物の生産が増えたという話とも合います。ですから1が正解です。
+【ほかの選択肢】
+2 「たくさんの直射日光が見つけにくい」となります。本文の問題は、日光が足りないことではなく、日光が強すぎて葉が乾いたり水が干上がったりすることです。反対の内容になるので合いません。
+3 「たくさんの直射日光がより多くの虫を引き寄せる」となります。虫の話は本文のどこにもありません。あとの文は、葉が乾くことと水が干上がることの説明です。
+4 「たくさんの直射日光が野菜の味を悪くする」となります。味の話は本文にありません。あとの文は、植物が生きていくのに十分な水を得られないという話です。
+【覚えるポイント】
+・Not only A but also B：「AだけでなくBも」。この文では Not only が文の初めに出たため、can it cause のように語順が入れかわっています。
+・空所のあとに具体的な説明が続くときは、その説明をまとめた語句を選びます。

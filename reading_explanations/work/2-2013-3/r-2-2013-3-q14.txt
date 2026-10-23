@@ -1,0 +1,25 @@
+---
+choices: head | foot | mind | hand
+answerText: hand
+reviewed: yes
+---
+【正解】4 hand（close at hand で「すぐ近くに」）
+【和訳】
+エレベーターに閉じこめられていた人たちは、助けが（すぐ近くに）来ていると聞いて喜びました。消防隊がちょうど到着したところだったのです。
+（選択肢の意味）
+1 head：頭
+2 foot：足
+3 mind：心、精神
+4 hand：手
+【考え方】
+2文目の The fire department had just arrived.（消防隊がちょうど到着したところだった）に注目します。had just arrived は「ちょうど着いたところだった」という意味です。
+閉じこめられた人たちは、助けがすぐそばまで来ていると言われて喜んだのです。
+close at hand は「すぐ近くに」という決まった言い方です。help was close at hand で「助けがすぐ近くにある（来ている）」となり、消防隊が到着したという2文目とつながります。したがって4が正解です。
+【ほかの選択肢】
+1 head は「頭」です。close at head という言い方はなく、意味の通る文になりません。
+2 foot は「足」です。close at foot という言い方もなく、文が成り立ちません。
+3 mind は「心、精神」です。close at mind という言い方はなく、「助けが近くに来ている」という意味になりません。
+どれも体などを表す語なので、意味だけで選ぶのは難しい問題です。close at hand という決まった言い方を知っているかどうかが決め手です。
+【覚えるポイント】
+・close at hand / near at hand：「すぐ近くに、手の届くところに」。
+・be trapped in ～：「～に閉じこめられる」。

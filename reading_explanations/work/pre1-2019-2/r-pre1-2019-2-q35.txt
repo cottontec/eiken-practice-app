@@ -1,0 +1,33 @@
+---
+choices: must involve particles that are both large and warm enough to create electricity in a cold environment. | is more likely to occur when water vapor turns into a relatively small number of water droplets in the atmosphere. | requires water droplets to rise to a height where they freeze and create electricity through contact with each other. | can happen only when greenhouse gases are present in areas of the atmosphere that are not already heavily polluted.
+answerText: requires water droplets to rise to a height where they freeze and create electricity through contact with each other.
+reviewed: yes
+---
+【正解】3 requires water droplets to rise to a height where they freeze and create electricity through contact with each other.（水滴が、凍る高さまで上がり、たがいにぶつかり合うことで電気を生み出すことが必要である。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：The process by which clouds produce lightning（雲が稲妻を生み出す過程は、）
+1 must involve particles that are both large and warm enough to create electricity in a cold environment.（寒い環境の中で電気を生み出せるほど、大きくて温かい粒子が関わっていなければならない。）
+2 is more likely to occur when water vapor turns into a relatively small number of water droplets in the atmosphere.（大気中で、水蒸気が比較的少ない数の水滴に変わるときのほうが起こりやすい。）
+3 requires water droplets to rise to a height where they freeze and create electricity through contact with each other.（水滴が、凍る高さまで上がり、たがいにぶつかり合うことで電気を生み出すことが必要である。）
+4 can happen only when greenhouse gases are present in areas of the atmosphere that are not already heavily polluted.（まだひどく汚染されていない大気の領域に温室効果ガスがあるときにだけ起こりうる。）
+【考え方】
+まず見るところ：第1段落の they can be lifted high enough in the atmosphere that they turn to ice と、When this happens, they make contact with other frozen droplets and generate electricity, ～
+第1段落の後半で、稲妻ができるまでの流れが説明されています。
+When aerosols are present in greater numbers, however, the water droplets are smaller, and there are more of them.（しかし、エアロゾルがより多く存在するときは、水滴は小さくなり、その数も多くなる）
+And because these droplets are lighter, they can be lifted high enough in the atmosphere that they turn to ice.（そして、これらの水滴はより軽いため、大気中の、氷になるほどの高さまで持ち上げられることがある）
+When this happens, they make contact with other frozen droplets and generate electricity, which is released as lightning.（こうなると、水滴はほかの凍った水滴とぶつかって電気を生み出し、その電気が稲妻として放たれる）
+make contact with ～ は「～と触れ合う、ぶつかる」、generate は「生み出す」です。本文と選択肢を対にすると、次のようになります。
+本文 be lifted high enough in the atmosphere that they turn to ice（氷になるほどの高さまで持ち上げられる）＝ 選択肢 rise to a height where they freeze（凍る高さまで上がる）
+本文 make contact with other frozen droplets and generate electricity（ほかの凍った水滴とぶつかって電気を生み出す）＝ 選択肢 create electricity through contact with each other（たがいにぶつかり合うことで電気を生み出す）
+ですから3が正解です。
+この問題の型：言いかえ（turn to ice ＝ freeze、make contact with ＝ through contact）
+【ほかの選択肢】
+1 本文で、稲妻につながるのは smaller（より小さい）、lighter（より軽い）水滴です。大きく重い水滴は low clouds that release warm rain（温かい雨を降らせる低い雲）をつくると書かれています。「大きくて温かい粒子が必要」は本文と合いません。
+2 本文では、エアロゾルが多いときに水滴は小さく、数が多くなり、それが高く上がって稲妻につながると書かれています。水滴の数が少ないときは、大きく重い水滴が温かい雨を降らせる低い雲をつくるので、「少ない数の水滴のときのほうが起こりやすい」は本文と合いません。
+4 本文では、稲妻が温室効果ガスを生み出す一因になると書かれていますが、稲妻ができるのに温室効果ガスが必要だとは書かれていません。また、汚染されていない場所でだけ起こるという話もありません。本文にない内容です。
+【覚えるポイント】
+・turn to ice：「氷になる」。選択肢では freeze（凍る）と言いかえられています。
+・設問が The process（過程）をたずねているときは、本文の When this happens（こうなると）のような、順番を示す言葉をたどって流れを確かめることが答えの手がかりになります。

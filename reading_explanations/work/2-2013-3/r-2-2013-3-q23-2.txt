@@ -1,0 +1,22 @@
+---
+choices: will | in | an increase | result | the commercial
+answerText: will
+order: 5 1 4 2 3
+reviewed: yes
+---
+【正解】1 will（この問題の2番目）
+【完成文】
+They hope that ( the commercial will result in an increase ) in sales.
+並べ方：5 the commercial → 1 will → 4 result → 2 in → 3 an increase（2番目は1、4番目は2）
+【和訳】
+フローラル・デザインズ社は、新しいテレビコマーシャルを作りました。同社は、そのコマーシャルが売り上げの増加につながることを期待しています。
+【考え方】
+まず空所の前を見ます。They hope that（彼らは～ということを期待している）とあり、that のあとには「主語 ＋ 動詞」の文が続きます。They はフローラル・デザインズ社（の人たち）のことです。
+1文目に a new TV commercial（新しいテレビコマーシャル）とあるので、期待の中身は「そのコマーシャルがどうなるか」だと考えられます。そこで 5 the commercial を主語として先頭に置きます。
+主語のあとには動詞のまとまりがきます。1 will（～だろう）は、動詞の元の形の前に置いて、これから先のことを表す語です。そのため will は主語 the commercial の直後、2番目に入り、その次に動詞の 4 result がきます。
+result in ～ は「～という結果になる、～につながる」という意味です。in のあとに 3 an increase（増加）を置くと、空所のあとの in sales とつながって an increase in sales（売り上げの増加）となります。
+これで the commercial will result in an increase in sales（そのコマーシャルが売り上げの増加につながるだろう）となります。したがって2番目は1 will です。
+まちがえやすいのは、An increase will result in the commercial のように an increase を主語にする並べ方です。「増加がコマーシャルという結果になる」となり、原因と結果が逆になってしまいます。
+【覚えるポイント】
+・result in ～：「～という結果になる、～につながる」。
+・an increase in ～：「～の増加」。

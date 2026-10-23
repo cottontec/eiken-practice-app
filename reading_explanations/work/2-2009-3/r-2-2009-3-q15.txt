@@ -1,0 +1,24 @@
+---
+choices: word | hand | place | step
+answerText: place
+reviewed: yes
+---
+【正解】3 place（take one's place で「～の代わりをする」）
+【和訳】
+テレンスはこの前の金曜日に具合が悪かったので、学校の劇に出ることができませんでした。幸い、別の生徒が舞台で彼の代わりをすることができました。
+（選択肢の意味）
+1 word：言葉
+2 hand：手
+3 place：場所、立場
+4 step：歩み、段階
+【考え方】
+1文目は Terrence was sick last Friday, so he could not perform in the school play.（テレンスは金曜日に具合が悪かったので、学校の劇に出られなかった）です。
+2文目は Luckily（幸い）で始まっています。テレンスが劇に出られなかったという困った状況に対して、よいことが起きたと分かります。another student was able to take his (　) on stage は「別の生徒が舞台で彼の（　）をとることができた」です。
+劇に出られない人がいたときに助かることといえば、ほかの人が代わりに出てくれることです。take one's place は「～の代わりをする、～の位置につく」という決まった言い方です。「別の生徒が舞台でテレンスの代わりをした」となるので、正解は3です。
+【ほかの選択肢】
+1 word は「言葉、約束」です。take one's word は「～の言うことを信じる」という意味になり、劇の代役の話とつながりません。
+2 hand は「手」です。take one's hand は「～の手をとる」で、「舞台で彼の手をとった」では、テレンスが劇に出られなかったという話と合いません。
+4 step は「歩み、段階」です。take one's step という決まった言い方はなく、意味が通りません。
+【覚えるポイント】
+・take one's place：「～の代わりをする」。take the place of ～ も同じ意味です。
+・perform in a play：「劇に出演する」。

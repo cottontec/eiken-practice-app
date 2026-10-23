@@ -1,0 +1,28 @@
+---
+choices: their exact numbers are unknown | there were many more in the past | the groups have no government | they all meet once every year
+answerText: their exact numbers are unknown
+reviewed: yes
+---
+【正解】1 their exact numbers are unknown（彼らの正確な数は分かっていない）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 their exact numbers are unknown（彼らの正確な数は分かっていない）
+2 there were many more in the past（昔はもっとずっと多くいた）
+3 the groups have no government（その集団には政府がない）
+4 they all meet once every year（彼らは全員が毎年1回集まる）
+【考え方】
+空所の前後の文を順に見ていきます。
+前の文：Some people estimate that there are around 20 million Bedouins in the world today.（今日、世界には約2,000万人のベドウィンがいると見積もる人もいる）
+空所の文：However, (25).（しかし、（25））
+後の文：Because many of them are traveling, it is impossible to count them all.（彼らの多くは移動しているので、全員を数えることは不可能だ）
+前の文の estimate は「見積もる、おおよその数を推測する」という意味で、around（約）とあることからも、2,000万人はおおよその数だと分かります。そのあとに However（しかし）が来ているので、「その数は確かではない」という内容が続くと考えられます。
+さらに後の文で「全員を数えることは不可能だ」と理由が述べられています。数えられないのですから、「正確な数は分かっていない」が入ります。exact は「正確な」、unknown は「知られていない、分かっていない」という意味です。
+【ほかの選択肢】
+2 「昔はもっとずっと多くいた」は、本文に昔の人数との比較がありません。また、後の文の「全員を数えるのは不可能だ」という理由とつながりません。
+3 「その集団には政府がない」は、本文にそうした記述がありません。政府については、あとで「政府が管理する土地が増えた」という話が出てきますが、ベドウィンの集団に政府があるかどうかは書かれていません。
+4 「彼らは全員が毎年1回集まる」は、本文にありません。もし全員が集まるなら数えやすくなるはずで、「全員を数えるのは不可能だ」という後の文とも合いません。
+【覚えるポイント】
+・estimate：「見積もる、おおよその数を推測する」。around（約）とともに使われることが多いです。
+・However のあとは、前の文と反対・食い違う内容が来ます。空所の後の文で理由が説明されていないかも確かめましょう。

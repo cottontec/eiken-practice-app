@@ -1,0 +1,29 @@
+---
+choices: Read the rules on Bixley Insurance's website. | Apply for a new health-insurance card. | Send a copy of her medical form to the hospital. | Go back to the hospital for a checkup.
+answerText: Apply for a new health-insurance card.
+reviewed: yes
+---
+【正解】2 Apply for a new health-insurance card.（新しい健康保険証を申し込む。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：カウフマンさんがするよう頼まれていることの1つは何ですか。
+1 Read the rules on Bixley Insurance's website.（ビクスリー保険のウェブサイトで規則を読む。）
+2 Apply for a new health-insurance card.（新しい健康保険証を申し込む。）
+3 Send a copy of her medical form to the hospital.（医療用の書類のコピーを病院に送る。）
+4 Go back to the hospital for a checkup.（健康診断のために病院にもう一度行く。）
+【考え方】
+カウフマンさんがすることは、第3段落の There are a few things you will need to do.（あなたにしていただく必要のあることがいくつかあります）のあとに並べられています。
+1つ目は First, you will need to fill out a medical form. Please send it along with the receipt you received from the hospital.（まず、医療用の書類に記入していただく必要があります。それを、病院から受け取った領収書といっしょに送ってください）です。
+2つ目は You should also complete an application form for a new insurance card.（また、新しい保険証の申込書にも記入してください）です。complete は「（用紙に）すべて記入する」、application form は「申込書」という意味です。
+本文と選択肢は次のように対応しています。
+本文 complete an application form for a new insurance card（新しい保険証の申込書に記入する）＝ 選択肢 Apply for a new health-insurance card（新しい健康保険証を申し込む）
+申込書に記入することは、申し込むことです。また、第2段落でカウフマンさんが health-insurance card（健康保険証）をなくしたと書かれているので、ここでの new insurance card は新しい健康保険証のことです。したがって2が正解です。
+【ほかの選択肢】
+1 ウェブサイトについては You can print out both forms from our company's website.（どちらの用紙も当社のウェブサイトから印刷できます）と書かれています。ウェブサイトは用紙を印刷するためのもので、規則を読むようにとは書かれていません。
+3 本文では、医療用の書類に記入して「病院から受け取った領収書といっしょに送って」と頼まれているだけで、書類の「コピー」を送るという話はありません。また、病院から受け取った領収書をいっしょに送るのですから、送り先は病院ではなく、メールを書いている保険会社のラッセルさんだと考えられます。病院に連絡するのは、ラッセルさん自身です。
+4 健康診断のためにもう一度病院へ行くという話は本文にありません。
+【覚えるポイント】
+・fill out / complete ＋ 用紙：「（用紙）に記入する」。
+・apply for ～：「～を申し込む」。application form は「申込書」。

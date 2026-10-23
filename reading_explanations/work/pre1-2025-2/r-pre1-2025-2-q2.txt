@@ -1,0 +1,32 @@
+---
+choices: commendable | impressionable | audible | eligible
+answerText: audible
+reviewed: yes
+---
+【正解】3 audible（〔耳に〕聞こえる）
+【和訳】
+（英文）
+Dogs have excellent hearing compared with humans. There are many sounds that cannot be heard by people but are ［audible］ to dogs.
+（訳）
+犬は人間に比べて、すばらしい聴覚を持っている。人には聞こえないが、犬には（聞こえる）音がたくさんある。
+（選択肢の意味）
+1 commendable：ほめるに値する、立派な
+2 impressionable：影響を受けやすい、感じやすい
+3 audible：（耳に）聞こえる
+4 eligible：資格のある、ふさわしい
+【考え方】
+まず見るところ：空所の前の cannot be heard by people but
+最初の文は、次のとおりです。
+Dogs have excellent hearing compared with humans.（犬は人間に比べて、すばらしい聴覚を持っている）
+hearing は「聴覚（音を聞く力）」です。犬は人間より耳がよい、という話だと分かります。
+空所のある部分は、次のとおりです。
+There are many sounds that cannot be heard by people but are (　) to dogs.（人には聞こえないが、犬には（　）音がたくさんある）
+cannot be heard by people（人には聞こえない）と but（しかし）でつながっているので、空所には反対の「犬には聞こえる」という意味が入ると考えられます。audible は「（耳に）聞こえる」という意味で、audible to ～ で「～に聞こえる」となるので、3が正解です。
+この問題の型：対比（人には聞こえない ⇔ 犬には聞こえる）
+【ほかの選択肢】
+1 commendable は「ほめるに値する、立派な」です。「人には聞こえないが、犬にとっては立派な音」となり、but の前の「聞こえない」と反対の内容になりません。
+2 impressionable は「影響を受けやすい、感じやすい」です。人や心の性質を表す語で、「音が犬にとって影響を受けやすい」となり、意味が通りません。
+4 eligible は「資格のある、ふさわしい」です。「音が犬にとって資格がある」となり、意味が通りません。
+【覚えるポイント】
+・audible：「（耳に）聞こえる」。audible to ～ で「～に聞こえる」。
+・cannot ～ but are (　) のように but で前後が結ばれているときは、but の前の内容（ここでは cannot be heard）と反対の意味の語が入る手がかりになります。

@@ -1,0 +1,32 @@
+---
+choices: encode | disguise | enlist | depict
+answerText: enlist
+reviewed: yes
+---
+【正解】3 enlist（（助けや協力）を求めて得る）
+【和訳】
+（英文）
+As the deadline for the report approached, Steve had to ［enlist］ the help of his co-workers to get it done in time.
+（訳）
+報告書の締め切りが近づいてきて、スティーブは期限に間に合うように報告書を仕上げるため、同僚たちの助けを（借り）なければならなかった。
+（選択肢の意味）
+1 encode：～を暗号にする、～を符号に変える
+2 disguise：～を変装させる、～をごまかして隠す
+3 enlist：（助けや協力）を求めて得る、（人）を軍隊などに入れる
+4 depict：～を描く、～を描写する
+【考え方】
+まず見るところ：空所のあとの the help of his co-workers と、文の最後の to get it done in time
+文の初めの As the deadline for the report approached は「報告書の締め切りが近づいてきて」という意味です。締め切りが近いので、スティーブは急いで報告書を仕上げる必要があります。
+空所のあとを見ます。
+the help of his co-workers（同僚たちの助け）
+to get it done in time（それを間に合うように仕上げるために）
+it は the report（報告書）を指し、get ～ done は「～を終わらせる」という意味です。報告書を間に合わせるために、同僚の「助け」をどうしたのかを考えると、「助けを求めて手に入れた」が自然です。
+enlist は「（助けや協力）を求めて得る」という意味で、enlist the help of ～ で「～の助けを借りる」となります。よって3が正解です。
+この問題の型：語の意味・組み合わせ（enlist the help of ～：～の助けを借りる）
+【ほかの選択肢】
+1 encode は「～を暗号にする」です。「同僚たちの助けを暗号にする」となり、報告書を仕上げることにつながりません。
+2 disguise は「～をごまかして隠す」です。同僚の助けを隠しても、報告書を早く仕上げることにはつながりません。
+4 depict は「～を描く、～を描写する」です。「同僚たちの助けを描く」となり、締め切りに間に合わせる行動として意味が通りません。
+【覚えるポイント】
+・enlist the help of ～：「～の助けを借りる、～に協力してもらう」。get ～ done in time：「～を間に合うように終わらせる」。
+・動詞の空所では、あとに続く語（ここでは the help）と組み合わせて意味が通るか、さらに文の最後の目的（to get it done in time）に合うかを確かめるのが手がかりになります。

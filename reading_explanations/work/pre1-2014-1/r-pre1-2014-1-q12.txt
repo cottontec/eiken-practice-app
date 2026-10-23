@@ -1,0 +1,29 @@
+---
+choices: courteous | redundant | paranoid | inclusive
+answerText: paranoid
+reviewed: yes
+---
+【正解】3 paranoid（被害妄想の、疑いすぎる）
+【和訳】
+（英文）
+A: The boss just criticized me in front of the whole department. Maybe he's planning to fire me.
+B: Don't be so ［paranoid］. He does that to everyone.
+（訳）
+A：上司がたった今、部署のみんなの前で私を批判したんだ。もしかしたら、私をクビにするつもりなのかもしれない。
+B：そんなに（被害妄想に）ならないで。あの人はだれにでもああするんだから。
+（選択肢の意味）
+1 courteous：礼儀正しい
+2 redundant：余分な、不要な
+3 paranoid：被害妄想の、疑いすぎる
+4 inclusive：すべてを含んだ、だれでも受け入れる
+【考え方】
+Aは、上司にみんなの前で批判されたことから、Maybe he's planning to fire me.（もしかしたら自分をクビにするつもりなのかもしれない）と心配しています。fire はここでは「クビにする、解雇する」という意味です。
+Bは Don't be so ( ).（そんなに〇〇にならないで）と言い、その理由として He does that to everyone.（彼はだれにでもそうする）と続けます。つまり、批判されたのはAだけが特別に嫌われているからではない、とBは言っているのです。
+Aは、実際にはそれほど心配しなくてよいことを「自分がねらわれている」と悪いほうへ考えすぎています。このように「自分が害を受けると、根拠もなく思いこむ」様子を paranoid と言います（日本語では「被害妄想の」と言います）。よって3が正解です。
+【ほかの選択肢】
+1 courteous は「礼儀正しい」という意味です。「そんなに礼儀正しくしないで」では、「だれにでもああする」というBの理由とつながりません。
+2 redundant は「余分な、不要な」という意味です。イギリス英語では be made redundant で「（人員が余って）解雇される」という使い方もあるため、クビの話題と結びつけたくなるかもしれません。しかし、Don't be so redundant.（そんなに余分にならないで）では、心配しすぎているAをなだめる言葉になりません。
+4 inclusive は「すべてを含んだ、だれでも受け入れる」という意味です。クビになるのではと心配するAへの言葉としては合いません。
+【覚えるポイント】
+・paranoid：「被害妄想の、（根拠もなく）疑いすぎる」。
+・Don't be so ～.：「そんなに～にならないで」。相手の考えすぎや態度をやわらかく注意する言い方です。

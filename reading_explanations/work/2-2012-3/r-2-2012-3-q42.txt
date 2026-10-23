@@ -1,0 +1,31 @@
+---
+choices: The food is cheaper there than in the countryside. | There has not been enough grass to feed their animals. | They want to escape the cold weather of the grasslands. | Large groups of animals have damaged the countryside.
+answerText: There has not been enough grass to feed their animals.
+reviewed: yes
+---
+【正解】2 There has not been enough grass to feed their animals.（動物に食べさせる草が十分になかったから。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：なぜ多くのモンゴルの人々が都市へ移り住んだのですか。
+1 The food is cheaper there than in the countryside.（都市では、いなかよりも食べ物が安いから。）
+2 There has not been enough grass to feed their animals.（動物に食べさせる草が十分になかったから。）
+3 They want to escape the cold weather of the grasslands.（草原の寒い天候から逃れたいから。）
+4 Large groups of animals have damaged the countryside.（たくさんの動物の群れが、いなかをあらしてしまったから。）
+【考え方】
+都市へ移る話は第2段落の最後に出てきます。原因から順にたどります。
+まず、モンゴルの人々は牛や羊などを飼って暮らし、These animals feed on the huge grasslands（これらの動物は広大な草原の草を食べる）と書かれています。feed on ～ は「～をえさにする」という意味です。
+次に However, in the warmer months, the higher temperatures caused by global warming dry out the soil, making it hard for the grass to grow.（しかし、暖かい季節には、地球温暖化によって高くなった気温が土を乾かし、草が育ちにくくなる）とあります。
+そして As a result, there have been shortages of food for the cows and sheep, and more and more Mongolians have had to sell their animals and move into the cities.（その結果、牛や羊のえさが不足し、動物を売って都市に移り住まなければならなくなったモンゴルの人々がますます増えている）と続きます。shortage は「不足」という意味です。
+つまり、草が育たず、動物のえさが足りなくなったことが、都市へ移る原因です。
+本文と選択肢は次のように対応しています。
+本文 making it hard for the grass to grow ／ shortages of food for the cows and sheep ＝ 選択肢 There has not been enough grass to feed their animals
+正解は2です。
+【ほかの選択肢】
+1 本文の food（えさ、食べ物）は、牛や羊のえさが足りないという話です。都市の食べ物が安いという話は本文にありません。
+3 本文で問題になっているのは、地球温暖化で気温が高くなり、土が乾くことです。草原の寒さから逃れたいという話ではありません。
+4 本文では、草が育たない原因は、高い気温が土を乾かすことだと書かれています。動物の群れがいなかをあらしたという話はありません。
+【覚えるポイント】
+・As a result, ～：「その結果、～」。前に書かれた原因から起きたことを述べるときに使います。
+・make it hard for ～ to …：「～が…するのを難しくする」。

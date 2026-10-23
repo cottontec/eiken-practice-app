@@ -1,0 +1,24 @@
+---
+choices: statement | experiment | replacement | entertainment
+answerText: experiment
+reviewed: yes
+---
+【正解】2 experiment（実験）
+【和訳】
+カルロスは、電灯の光が花に与える影響を調べる、よく計画された実験で、学校の科学賞を受賞しました。
+（選択肢の意味）
+1 statement：声明、述べたこと
+2 experiment：実験
+3 replacement：取りかえ、交換
+4 entertainment：娯楽、楽しみ
+【考え方】
+まず the school science prize（学校の科学賞）に注目します。科学の賞なので、カルロスは何か科学的なことをしてほめられたと分かります。
+次に、空所のあとの that tested the effect of electric light on flowers を見ます。that は前の名詞（空所の語）に説明を付け足す働きをしていて、「電灯の光が花に与える影響を調べた（　）」という意味になります。test は「～を調べる、試す」、the effect of A on B は「AがBに与える影響」です。
+科学賞をもらい、しかも光が花にどう影響するかを「調べた」ものといえば「実験」です。well-planned（よく計画された）ともよく合います。正解は2です。
+【ほかの選択肢】
+1 statement は「声明、述べたこと」です。何かを言葉で述べることで、「光の影響を調べた」とはつながりません。
+3 replacement は「取りかえ、交換」です。「よく計画された交換」では科学賞の理由になりません。
+4 entertainment は「娯楽、楽しみ」です。人を楽しませるもので、「影響を調べた」という説明とも、科学賞とも合いません。
+【覚えるポイント】
+・experiment：「実験」。do an experiment で「実験をする」。
+・the effect of A on B：「AがBに与える影響」。

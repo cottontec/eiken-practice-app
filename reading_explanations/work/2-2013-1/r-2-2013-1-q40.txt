@@ -1,0 +1,29 @@
+---
+choices: She offered childcare services to the women who worked for her. | She gave free bottles of Liquid Paper to her factory workers. | She paid for research that made personal computers better. | She hired workers who had lost their jobs at other companies.
+answerText: She offered childcare services to the women who worked for her.
+reviewed: yes
+---
+【正解】1 She offered childcare services to the women who worked for her.（自分のところで働く女性たちに、子どもを預かるサービスを提供した。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：グラハムが人々を助けるために自分のお金を使った方法の1つは何ですか。
+1 She offered childcare services to the women who worked for her.（自分のところで働く女性たちに、子どもを預かるサービスを提供した。）
+2 She gave free bottles of Liquid Paper to her factory workers.（自分の工場の従業員に、リキッド・ペーパーのびんを無料で配った。）
+3 She paid for research that made personal computers better.（パソコンをよりよくする研究のためにお金を出した。）
+4 She hired workers who had lost their jobs at other companies.（ほかの会社で仕事を失った人たちを雇った。）
+【考え方】
+グラハムが人を助けた話は、第4段落の後半にあります。
+Although Graham was very successful, she was not only interested in making money.（グラハムは大成功を収めたが、お金をもうけることだけに関心があったわけではない）
+She also wanted to help other women in the workplace, so she set up a library and a childcare center in her factory.（彼女は職場のほかの女性たちを助けたいとも思っていたので、自分の工場に図書室と保育所を設けた）
+childcare center は「保育所（子どもを預かって世話をする所）」です。グラハムは自分の工場、つまり自分の会社の働く場所に保育所を作りました。そこで働く女性たちのための保育所なので、「自分のところで働く女性たちに、子どもを預かるサービスを提供した」と言いかえることができます。本文と選択肢は次のように対応しています。
+本文 set up a ～ childcare center in her factory（自分の工場に保育所を設けた）＝ 選択肢 offered childcare services to the women who worked for her（自分のところで働く女性たちに、子どもを預かるサービスを提供した）
+正解は1です。
+【ほかの選択肢】
+2 グラハムが液体のびんを配ったのは、事業を始める前に、ほかの秘書たちに対してです。工場の従業員に無料で配ったという話は本文にありません。
+3 本文の最後に「タイプライターは今ではコンピューターに取って代わられた」とありますが、グラハムがコンピューターの研究にお金を出したという話はありません。
+4 本文には、女性が仕事を得るための新しい方法を見つける手助けをする団体を作ったとありますが、ほかの会社で仕事を失った人を雇ったとは書かれていません。
+【覚えるポイント】
+・not only ～：「～だけではない」。she was not only interested in making money で「お金もうけだけに関心があったわけではない」。
+・set up ～：「～を設ける、～を作る」。

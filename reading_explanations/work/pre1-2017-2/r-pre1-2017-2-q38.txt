@@ -1,0 +1,36 @@
+---
+choices: They exaggerate the number of battles that the Jews won against the Philistines and other enemies. | They may give modern people an inaccurate image of what Philistine civilization was like. | The dates they give for the period when the Philistines became powerful and warlike are likely incorrect. | Their descriptions of the rivalry between the Jews and the Philistines have been incorrectly interpreted by scholars.
+answerText: They may give modern people an inaccurate image of what Philistine civilization was like.
+reviewed: yes
+---
+【正解】2 They may give modern people an inaccurate image of what Philistine civilization was like.（それらは、ペリシテ人の文明がどのようなものだったかについて、現代の人々に不正確なイメージを与えているかもしれない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What does the passage suggest about the Torah and the Old Testament?（この文章は、トーラーと旧約聖書について、どのようなことを示していますか。）
+1 They exaggerate the number of battles that the Jews won against the Philistines and other enemies.（それらは、ユダヤ人がペリシテ人やほかの敵に勝った戦いの数を、大げさに書いている。）
+2 They may give modern people an inaccurate image of what Philistine civilization was like.（それらは、ペリシテ人の文明がどのようなものだったかについて、現代の人々に不正確なイメージを与えているかもしれない。）
+3 The dates they give for the period when the Philistines became powerful and warlike are likely incorrect.（それらに書かれている、ペリシテ人が強く好戦的になった時期の年代は、まちがっている可能性が高い。）
+4 Their descriptions of the rivalry between the Jews and the Philistines have been incorrectly interpreted by scholars.（ユダヤ人とペリシテ人の対立についてのそれらの記述は、学者たちにまちがって解釈されてきた。）
+【考え方】
+まず見るところ：第1段落の the sources for much of what people believe today と、最後の there is reason to question the trustworthiness of potentially biased writings
+第1段落の流れを順に確かめます。
+History, it is often said, is written by the winners—a saying that suggests bias in historical records.（歴史は勝者によって書かれる、とよく言われる。これは、歴史の記録にかたよりがあることを示すことわざである）
+bias は「かたより（一方に味方した、公平でない見方）」です。続く文で、トーラーと旧約聖書は the sources for much of what people believe today about the ancient history of the Middle East（中東の古代の歴史について今日の人々が信じていることの多くの出どころ）であり、そのよい例だと書かれています。
+Not surprisingly, the Jewish writings describe the Philistines as warlike and uncultured.（驚くことではないが、ユダヤ人の書物はペリシテ人を、好戦的で文化のない民族として描いている）
+Given this situation, there is reason to question the trustworthiness of potentially biased writings by the Philistines’ enemies.（こうした状況を考えると、ペリシテ人の敵によって書かれた、かたよっているかもしれない書物が信頼できるかどうかを疑う理由がある）
+trustworthiness は「信頼できること」、potentially は「～かもしれない、～の可能性がある」です。
+本文と選択肢を対にすると、次のようになります。
+本文 the sources for much of what people believe today（今日の人々が信じていることの多くの出どころ）→ 選択肢 They may give modern people（それらは現代の人々に～を与えているかもしれない）
+本文 describe the Philistines as warlike and uncultured（ペリシテ人を好戦的で文化がないと描く）→ 選択肢 image of what Philistine civilization was like（ペリシテ人の文明がどのようなものだったかのイメージ）
+本文 potentially biased / question the trustworthiness（かたよっているかもしれない／信頼できるか疑う）→ 選択肢 may（かもしれない）と inaccurate（不正確な）
+本文は「まちがっている」と言い切らず、「疑う理由がある」と述べています。選択肢2も may（かもしれない）を使っていて、程度が合っています。よって2が正解です。
+この問題の型：言いかえ（potentially biased → may give modern people an inaccurate image）／推論（勝者が歴史を書く→敵の書物は信頼できないかもしれない）
+【ほかの選択肢】
+1 本文にありません。ユダヤ人の書物について書かれているのは、ペリシテ人を好戦的で文化がないと描いていることで、勝った戦いの数を大げさに書いているという話はありません。
+3 本文にありません。紀元前12世紀から紀元前8世紀という時期は筆者の説明として出てくるだけで、書物に書かれた年代がまちがっているという話はありません。
+4 本文にありません。疑われているのは書物そのものが信頼できるかどうかで、学者たちが書物の記述をまちがって解釈してきたという話はありません。
+【覚えるポイント】
+・bias：「かたより（公平でない見方）」。biased で「かたよった」。
+・本文が「～を疑う理由がある」のように言い切っていないときは、選択肢でも may（かもしれない）などで程度が合っているものを選ぶことが手がかりになります。言い切りすぎた選択肢には注意しましょう。

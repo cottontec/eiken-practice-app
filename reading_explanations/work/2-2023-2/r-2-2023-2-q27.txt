@@ -1,0 +1,31 @@
+---
+choices: giving children a chance to explain their goals to their parents. | allowing parents and children to develop better connections. | improving parents' chances of getting well-paid jobs. | reducing the amount of time that children spend watching TV.
+answerText: allowing parents and children to develop better connections.
+reviewed: yes
+---
+【正解】2 allowing parents and children to develop better connections.（親と子どもがよりよいつながりを築けるようにすること。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to Melissa, one way that reading can help families is by（メリッサによると、読書が家族の役に立つ方法の1つは、～ことによってです。）
+1 giving children a chance to explain their goals to their parents.（子どもたちに、自分の目標を親に説明する機会を与える）
+2 allowing parents and children to develop better connections.（親と子どもがよりよいつながりを築けるようにする）
+3 improving parents' chances of getting well-paid jobs.（親がよい給料の仕事に就く可能性を高める）
+4 reducing the amount of time that children spend watching TV.（子どもがテレビを見て過ごす時間の量を減らす）
+【考え方】
+まず見るところ：第1段落の If parents and children read books together, ～
+設問は「読書が家族の役に立つ方法」です。メリッサがメールの中で、読書のよい点を書いている部分を探します。
+If parents and children read books together, they will share happy memories and build better relationships.（親と子どもがいっしょに本を読めば、楽しい思い出を分かち合い、よりよい関係を築くことでしょう）
+読書によって親子が「よりよい関係を築く」と述べられています。relationship は「関係、つながり」という意味です。
+本文と選択肢を対にすると、次のようになります。
+本文 parents and children ... build better relationships（親と子どもがよりよい関係を築く）＝ 選択肢 allowing parents and children to develop better connections（親と子どもがよりよいつながりを築けるようにする）
+build（築く）が develop（発展させる、築く）に、relationships（関係）が connections（つながり）に言いかえられています。allow ～ to ... は「～が…できるようにする」という意味です。ですから2が正解です。
+この問題の型：言いかえ（build better relationships ＝ develop better connections）
+【ほかの選択肢】
+1 本文の goals（目標）は、One of my goals as the director（館長としての私の目標の1つ）という、メリッサ自身の目標のことです。子どもが親に自分の目標を説明するという話は書かれていません。
+3 第1段落には reading is a great way for parents to help with their children's education（読書は親が子どもの教育を手助けするすばらしい方法だ）とありますが、これは子どもの教育の話です。親がよい給料の仕事に就けるようになるという話は本文にありません。
+4 テレビを見る時間についての話は、本文のどこにも書かれていません。
+【覚えるポイント】
+・build better relationships：「よりよい関係を築く」。relationship と connection はどちらも「関係、つながり」を表します。
+・本文と同じ語（ここでは goals）が入った選択肢は、だれの・何の話なのかを本文で確かめると、正しいかどうかを見分ける手がかりになります。

@@ -1,0 +1,24 @@
+---
+choices: way | place | idea | use
+answerText: use
+reviewed: yes
+---
+【正解】4 use（役に立つこと、使い道）
+【和訳】
+ジェーンは大学を卒業したあと、教科書がもう自分には役に立たなかったので、それらを古本屋に売りました。
+（選択肢の意味）
+1 way：方法、道
+2 place：場所
+3 idea：考え
+4 use：役に立つこと、使い道
+【考え方】
+文の前半は After Jane finished college, her textbooks were of no (　) to her（ジェーンが大学を終えたあと、教科書は彼女にとって何の〜でもなかった）です。
+後半は so she sold them to a secondhand bookstore（だから彼女はそれらを古本屋に売った）です。so は「だから」で、前半が理由になっています。secondhand は「中古の」です。
+大学を卒業すると、授業で使っていた教科書はもういらなくなります。だから売った、と考えると話が通ります。of use は「役に立つ」という意味で、of no use は「まったく役に立たない」です。were of no use to her で「彼女にとってもう役に立たなかった」となります。正解は4です。
+【ほかの選択肢】
+1 way は「方法、道」です。of no way という言い方はせず、教科書を売った理由にもなりません。
+2 place は「場所」です。of no place という言い方はせず、意味が通りません。
+3 idea は「考え」です。「教科書は彼女にとって何の考えでもなかった」となり、意味が通りません。
+【覚えるポイント】
+・of no use：「まったく役に立たない」（＝ useless）。of use は「役に立つ」。
+・secondhand bookstore：「古本屋」。

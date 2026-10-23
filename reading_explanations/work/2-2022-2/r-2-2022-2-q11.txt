@@ -1,0 +1,32 @@
+---
+choices: read through | refrain from | reflect on | refer to
+answerText: refrain from
+reviewed: yes
+---
+【正解】2 refrain from（～を控える）
+【和訳】
+（英文）
+Sarah has been told to ［refrain from］ running until her foot is better. Otherwise, she might make her injury worse.
+（訳）
+サラは、足がよくなるまで走るのを（控える）ように言われています。そうしないと、けがを悪化させてしまうかもしれません。
+（選択肢の意味）
+1 read through：～を（最後まで）読み通す
+2 refrain from：～を控える
+3 reflect on：～をよく考える、振り返る
+4 refer to：～に言及する、～を参照する
+【考え方】
+まず見るところ：次の文の Otherwise, she might make her injury worse.
+Sarah has been told to (　) running until her foot is better.（サラは、足がよくなるまで走ることを（　）ように言われている）
+until her foot is better は「足がよくなるまで」という意味で、足の具合が悪いことが分かります。
+Otherwise, she might make her injury worse.（そうしないと、けがを悪化させてしまうかもしれない）
+Otherwise は「そうしないと、さもないと」、injury は「けが」です。「そうしないと悪化する」のですから、足が治るまでは走らないように言われていると考えられます。
+refrain from ～ing は「～することを控える」という意味で、refrain from running で「走るのを控える」となります。2が正解です。
+この問題の型：熟語・決まった形（refrain from ～ing）、因果（Otherwise：しないと悪化する）
+【ほかの選択肢】
+1 read through は「～を（最後まで）読み通す」です。「走ることを読み通す」となり、意味が通りません。
+3 reflect on は「～をよく考える、～を振り返る」です。「走ることを振り返るように言われた」では、Otherwise（そうしないと）けがが悪化する、という次の文とつながりません。
+4 refer to は「～に言及する、～を参照する」です。「走ることに言及するように言われた」となり、けがを悪化させないための注意として意味が通りません。
+【覚えるポイント】
+・refrain from ～ing：「～することを控える」。
+・Otherwise：「そうしないと、さもないと」。
+・Otherwise のあとに悪い結果（けがの悪化など）が書かれているときは、その前の内容は「それを避けるための注意」になっていることが多いので、「やる」「やらない」のどちらが合うかを考える手がかりになります。

@@ -1,0 +1,30 @@
+---
+choices: Her baby needs special help that other babies do not need. | The Clayton County Health Department sends e-mails to all new mothers. | She asked him questions about the health department's services. | He is concerned that she is not taking good enough care of her baby.
+answerText: She asked him questions about the health department's services.
+reviewed: yes
+---
+【正解】3 She asked him questions about the health department's services.（彼女が彼に、保健局のサービスについて質問した。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ピーター・ウィルカーソンはなぜエミリーにEメールを書いているのですか。
+1 Her baby needs special help that other babies do not need.（彼女の赤ちゃんは、ほかの赤ちゃんには必要のない特別な援助を必要としている。）
+2 The Clayton County Health Department sends e-mails to all new mothers.（クレイトン郡保健局は、新しく母親になった人全員にEメールを送っている。）
+3 She asked him questions about the health department's services.（彼女が彼に、保健局のサービスについて質問した。）
+4 He is concerned that she is not taking good enough care of her baby.（彼は、彼女が赤ちゃんの世話を十分にしていないのではないかと心配している。）
+【考え方】
+設問はEメールを書いた理由をたずねています。メールの目的は、ふつう書き出しの部分に書かれています。第1段落の始めを見ます。
+Thank you for your e-mail. We at the Clayton County Health Department are more than happy to answer all of your questions about health services for children.（Eメールをありがとうございます。私たちクレイトン郡保健局は、子ども向けの保健サービスについてのあなたのご質問すべてに、喜んでお答えします）
+さらに第2段落は To answer your first question（最初のご質問にお答えしますと）、第3段落は You also asked about vaccines（あなたはまたワクチンについてもおたずねになりました）で始まり、保健局で健康診断やワクチンを受けられるかどうかに答えています。
+本文と選択肢を対にすると、次のようになります。
+本文 Thank you for your e-mail ... answer all of your questions about health services for children ／ To answer your first question, no, we do not perform health checks for newborns at the health department
+→ 読み取れること：エミリーが先にEメールで、保健局が行っている子ども向けのサービスについて質問し、ピーターがそれに答えている
+これを表しているのが 3 She asked him questions about the health department's services. です。ですから、3が正解です。
+【ほかの選択肢】
+1 本文の we have to take special care of their health（その健康に特別な注意を払わなければならない）の their は、直前の Newborn babies（生まれたばかりの赤ちゃん）全体を指しています。エミリーの赤ちゃんだけがほかの赤ちゃんと違う特別な援助を必要としているとは書かれていません。
+2 保健局が新しく母親になった人全員にEメールを送っているという話は、本文にありません。このメールは、エミリーから届いたEメールへの返事です。
+4 ピーターが、エミリーの赤ちゃんの世話が足りないと心配しているという話は、本文にありません。ピーターは男の赤ちゃんの誕生を祝い、エミリーの質問に答えています。
+【覚えるポイント】
+・Thank you for your e-mail. ～ answer your questions：返事のメールでは、最初の部分に「何への返事か」が書かれていることが多いです。
+・more than happy to ～：「喜んで～する」。

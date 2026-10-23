@@ -1,0 +1,29 @@
+---
+choices: should be named as a new species | had to be eliminated | needed to be studied more | could be helped to recover
+answerText: had to be eliminated
+reviewed: yes
+---
+【正解】2 had to be eliminated（取り除かれなければならない）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 should be named as a new species（新しい種として名前をつけられるべきだ）
+2 had to be eliminated（取り除かれなければならない）
+3 needed to be studied more（もっと研究される必要がある）
+4 could be helped to recover（回復するのを助けてもらうことができる）
+【考え方】
+まず見るところ：空所の前の It crowded out native seaweed species と、空所のあとの This was easier said than done, however
+空所は第2段落の Many experts began arguing that Caulerpa (30).（多くの専門家が、カウレルパは（30）と主張し始めた）です。その前には、カウレルパが引き起こした問題が書かれています。
+It crowded out native seaweed species and threatened organisms that depended on those plants for food and habitat.（それは在来の海藻の種を押しのけ、それらの植物を食べ物やすみかとして頼っていた生物をおびやかした）
+crowd out は「押しのける」、threaten は「おびやかす」です。こんなに害のある海藻について、専門家が主張するのは「取り除くべきだ」ということだと考えられます。空所のあとの文も確かめます。
+This was easier said than done, however, because it had already spread to so many different areas.（しかし、これは言うのは簡単でも、行うのは難しかった。それがすでにとても多くの異なる地域に広がっていたからだ）
+「広がりすぎていたので難しい」という理由は、「取り除く」ことの難しさに当てはまります。さらに、「海の動物が食べないので自然に抑えられない」という文や、第3段落でカリフォルニアがカウレルパを枯らした話も、取り除くことにつながっています。eliminate は「取り除く、根絶する（すっかりなくす）」という意味なので、2が正解です。
+この問題の型：因果（在来の生物をおびやかす → 取り除くべきだ）
+【ほかの選択肢】
+1 「新しい種として名前をつけられるべきだ」では、在来の生物をおびやかしているという問題への対策になりません。また、「広がりすぎているので難しい」という次の文ともつながりません。
+3 「もっと研究される必要がある」と入れると、次の文の「すでにとても多くの地域に広がっていたので、言うのは簡単でも行うのは難しかった」という理由とうまく合いません。また、第3段落でも、研究ではなく取り除く話が続いています。
+4 「回復するのを助けてもらうことができる」は、カウレルパが弱っているかのような内容です。本文ではカウレルパは広がり続けて害を与えているので、反対の内容になります。
+【覚えるポイント】
+・eliminate：「取り除く、すっかりなくす」。easier said than done は「言うは易く行うは難し（言うのは簡単だが、実行するのは難しい）」です。
+・空所の文のあとに This was easier said than done（言うのは簡単でも、行うのは難しかった）が続くときは、This が空所の内容を指しているので、「なぜ難しいのか」の理由に合うかどうかで選択肢を確かめましょう。

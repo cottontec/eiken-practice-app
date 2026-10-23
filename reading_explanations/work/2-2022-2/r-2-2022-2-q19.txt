@@ -1,0 +1,32 @@
+---
+choices: as to | as if | if only | if not
+answerText: as if
+reviewed: yes
+---
+【正解】2 as if（まるで～のように）
+【和訳】
+（英文）
+Somebody had broken one of the windows in Michelle's classroom. Michelle had not done it, but some of the other students looked at her ［as if］ she had.
+（訳）
+だれかが、ミシェルの教室の窓の1つを割っていました。ミシェルがやったのではありませんでしたが、ほかの生徒の何人かは、（まるで）彼女がやった（かのように）彼女を見ました。
+（選択肢の意味）
+1 as to：～に関して
+2 as if：まるで～のように
+3 if only：～でさえあればよいのに
+4 if not：そうでないなら、～ではないにしても
+【考え方】
+まず見るところ：but のあとの some of the other students looked at her (　) she had と、前の文の Michelle had not done it
+Michelle had not done it（ミシェルはそれをしていなかった）
+窓を割ったのは、ミシェルではありませんでした。
+but some of the other students looked at her (　) she had（しかし、ほかの生徒の何人かは、彼女がそうした（　）彼女を見た）
+she had は she had done it（彼女がそれをした）の done it が省かれた形です。前に出た done it のくり返しを避けています。
+as if ～ は「まるで～のように」という意味で、事実とは違うことを「～であるかのように」と言うときによく使います。looked at her as if she had (done it) で「まるで彼女がやったかのように彼女を見た」となり、本当はやっていないのに疑われた場面に合います。2が正解です。
+この問題の型：文法（as if の形・省略）、対比（やっていない⇔やったかのように）
+【ほかの選択肢】
+1 as to は「～に関して」です。後ろには名詞などを続けて使い、she had のような主語と動詞の形は続きません。文の形も意味も合いません。
+3 if only は「～でさえあればよいのに」と願う気持ちを表す言い方です。「ほかの生徒が彼女を見た」という文の途中に入れても、意味がつながりません。
+4 if not は「そうでないなら」「～ではないにしても」という意味です。後ろに she had を続けても、彼女を見た様子の説明にならず、意味が通りません。
+【覚えるポイント】
+・as if ～：「まるで～のように」。事実と違うことを表すときによく使います。
+・同じ言葉のくり返しを避けるため、she had (done it) のように後ろの部分が省かれることがあります。
+・空所の前後で「事実」と「周りの見方や反応」がずれているときは、「まるで～のように」の as if が手がかりになります。

@@ -1,0 +1,26 @@
+---
+choices: unnatural | unclear | unfair | unlimited
+answerText: unclear
+reviewed: yes
+---
+【正解】2 unclear（はっきりしない）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 unnatural：不自然な
+2 unclear：はっきりしない、明らかでない
+3 unfair：不公平な
+4 unlimited：限りのない、無制限の
+【考え方】
+空所は第2段落の Researchers have tried to find out whether this will actually happen, but the evidence is (　).（研究者たちは、実際にそうなるのかどうかを調べようとしてきたが、その証拠は（　）だ）という文にあります。
+this が指すのは、前の文の customers might stop buying items with many calories in them（客がカロリーの高い品を買わなくなるかもしれない）ということです。研究者はそれが本当に起こるかどうかを調べている、という話です。
+空所のあとの文を見ます。Some surveys suggest that customers may choose items with fewer calories（客はカロリーの低い品を選ぶかもしれないと示す調査もある）、but others indicate that the new law is unlikely to have much long-term effect on people's choices（新しい法律が人々の選択に長い期間大きな影響を与えることはなさそうだと示す調査もある）とあります。
+調査によって結果がばらばらで、「客の行動が変わる」とも「あまり変わらない」とも言い切れないのです。ですから、証拠は「はっきりしない」と言えます。unclear は「はっきりしない、明らかでない」という意味なので、正解は2です。
+【ほかの選択肢】
+1 unnatural は「不自然な」です。あとの文は調査の結果が分かれていることを述べているだけで、証拠が「不自然だ」という話はありません。
+3 unfair は「不公平な」です。証拠がだれかにとって公平かどうかという話は本文にないので、合いません。
+4 unlimited は「限りのない、無制限の」です。証拠が限りなくあるという話ではなく、結果が分かれていてはっきりしない、という話なので合いません。
+【覚えるポイント】
+・find out whether ～：「～かどうかを調べる、明らかにする」。
+・Some ～, but others …：「～するものもあれば、…するものもある」。2つの違う意見や結果を並べるときの形です。

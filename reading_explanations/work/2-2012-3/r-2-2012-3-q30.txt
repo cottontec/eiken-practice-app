@@ -1,0 +1,25 @@
+---
+choices: trust | status | youth | friendship
+answerText: status
+reviewed: yes
+---
+【正解】2 status（（社会的な）地位）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 trust：信頼
+2 status：（社会的な）地位
+3 youth：若さ、青年時代
+4 friendship：友情
+【考え方】
+空所は第1段落の People bought these things not only because they made their lives easier and more enjoyable, but also because they were a sign of (　).（人々がこうした物を買ったのは、それらが生活をより楽で楽しくしてくれるからだけでなく、それらが（　）のしるしだったからでもある）という文にあります。not only A but also B は「AだけでなくBも」という意味です。
+すぐあとの文が手がかりです。Owning them showed that you were a successful member of society.（それらを持っていることは、社会の中で成功した一員であることを示していた）とあります。さらに Many people felt ashamed if they did not have such consumer goods in their homes.（家にそうした消費財がないと、恥ずかしく感じる人が多かった）と続きます。
+つまり、テレビや冷蔵庫などを持っていることは、「社会の中で成功している」ことを表すしるしだったのです。社会の中での立場を表す語は status（地位）です。a sign of status で「地位のしるし」となるので、正解は2です。
+【ほかの選択肢】
+1 trust は「信頼」です。「信頼のしるし」となりますが、あとの文は「社会で成功した一員であること」を示すという話で、だれかを信頼するという話ではありません。
+3 youth は「若さ」です。家電製品が若さのしるしだったという話は本文になく、「成功した一員」という説明と合いません。
+4 friendship は「友情」です。物を持つことが友情を表すという話は本文にありません。持っていないと恥ずかしいという内容ともつながりません。
+【覚えるポイント】
+・status：「（社会的な）地位、身分」。status symbol（地位を示すもの）という言い方もあります。
+・not only A but also B：「AだけでなくBも」。

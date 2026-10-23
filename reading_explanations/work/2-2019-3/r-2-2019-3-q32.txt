@@ -1,0 +1,32 @@
+---
+choices: They have harmed their bodies by doing too much exercise. | They are unable to produce as much DNA as they were able to do in the past. | Their DNA gets older and loses the ability to manage how the body works. | Their bodies need more food than the amount they are eating.
+answerText: Their DNA gets older and loses the ability to manage how the body works.
+reviewed: yes
+---
+【正解】3 Their DNA gets older and loses the ability to manage how the body works.（その人たちのDNAが年をとり、体の働きを調節する力を失う。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：健康的に暮らしてきた人々でさえ重い病気になる理由の1つは何ですか。
+1 They have harmed their bodies by doing too much exercise.（運動のしすぎで、自分の体を傷つけてしまった。）
+2 They are unable to produce as much DNA as they were able to do in the past.（以前ほど多くのDNAを作り出すことができない。）
+3 Their DNA gets older and loses the ability to manage how the body works.（その人たちのDNAが年をとり、体の働きを調節する力を失う。）
+4 Their bodies need more food than the amount they are eating.（その人たちの体は、食べている量よりも多くの食べ物を必要としている。）
+【考え方】
+設問の even people who have lived healthily（健康的に暮らしてきた人々でさえ）と同じ言い方が、第3段落にあります。
+However, as the body gets older, even people who have lived healthily are likely to become ill.（しかし、体が年をとるにつれて、健康的に暮らしてきた人々でさえ病気になりやすくなる）
+その理由が、すぐあとに書かれています。
+・Recently, research has begun to show that this is the result of people's DNA getting older.（最近の研究によって、これは人々のDNAが年をとることの結果であることが示され始めている）
+・When DNA breaks down, important information to control the body's functions is lost.（DNAが壊れると、体の働きを調節するための重要な情報が失われる）
+DNA は、体のつくりや働きを決める情報を持った物質です。本文と選択肢を対にすると、次のようになります。
+本文 people's DNA getting older ＝ 選択肢 Their DNA gets older
+本文 important information to control the body's functions is lost → 選択肢 loses the ability to manage how the body works
+本文の control the body's functions（体の働きを調節する）が、選択肢では manage how the body works（体がどう働くかを管理する）に言いかえられています。本文では「調節するための情報が失われる」と書かれていて、選択肢ではそれを「調節する力を失う」とまとめています。3が正解です。
+【ほかの選択肢】
+1 本文では exercising regularly（定期的に運動すること）は健康的な生活のしかたとして勧められています。運動のしすぎで体を傷つけたという話は、本文にありません。
+2 本文に書かれているのは、DNAが getting older（年をとる）、breaks down（壊れる）ということです。以前と比べて作り出せるDNAの量が少なくなった、という話は書かれていません。
+4 食べる量が足りないという話は、本文にありません。本文で食べ物に関係するのは、losing weight（体重を減らすこと）が健康的な生活のしかたとして挙げられていることだけです。
+【覚えるポイント】
+・this is the result of ～：「これは～の結果だ」。this が何を指すかを前の文で確かめ、of のあとから原因を読み取ります。
+・even ～：「～でさえ」。even people who have lived healthily で「健康的に暮らしてきた人々でさえ」。

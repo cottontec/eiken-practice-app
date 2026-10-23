@@ -1,0 +1,25 @@
+---
+choices: constantly | greatly | mentally | strictly
+answerText: constantly
+reviewed: yes
+---
+【正解】1 constantly（絶えず、しょっちゅう）
+【和訳】
+ジュリーは、弟がしょっちゅう断りもなく彼女の物を借りていたので、腹を立てました。彼はほとんど毎日、彼女の部屋から何かを持っていきました。
+（選択肢の意味）
+1 constantly：絶えず、しょっちゅう
+2 greatly：大いに
+3 mentally：精神的に、心の中で
+4 strictly：厳しく
+【考え方】
+1文目は Julie got angry because her brother was (　) borrowing her things without asking.（ジュリーは、弟が断りもなく（　）彼女の物を借りていたので腹を立てた）です。without asking は「たずねずに、断りもなく」という意味です。
+決め手は2文目の Almost every day he took something from her room.（彼はほとんど毎日、彼女の部屋から何かを持っていった）です。「ほとんど毎日」ということは、何度もくり返し借りていたことになります。
+constantly は「絶えず、しょっちゅう」という意味で、was constantly borrowing で「しょっちゅう借りてばかりいた」となり、2文目とつながります。正解は1です。
+なお brother は兄か弟か英文だけでは分かりません。ここでは「弟」と訳しています。
+【ほかの選択肢】
+2 greatly は「大いに、非常に」です。程度の大きさを表す語で、「何度もくり返す」という2文目の内容を表すことはできません。
+3 mentally は「精神的に、心の中で」です。「心の中で借りていた」となり、実際に物を持っていった話と合いません。
+4 strictly は「厳しく」です。「厳しく物を借りていた」となり、意味が通りません。
+【覚えるポイント】
+・constantly：「絶えず、しょっちゅう」。be constantly ～ing で「しょっちゅう～してばかりいる」と、くり返される行動（ときに不満）を表します。
+・without asking：「断りもなく、たずねずに」。

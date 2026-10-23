@@ -1,0 +1,28 @@
+---
+choices: help poor people find jobs | meet a wide range of needs | improve the health of young people | protect the environment from harm
+answerText: meet a wide range of needs
+reviewed: yes
+---
+【正解】2 meet a wide range of needs（幅広いさまざまな必要を満たす）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 help poor people find jobs（貧しい人々が仕事を見つける手助けをする）
+2 meet a wide range of needs（幅広いさまざまな必要を満たす）
+3 improve the health of young people（若い人々の健康をよくする）
+4 protect the environment from harm（環境を害から守る）
+【考え方】
+空所は第2段落の This means it can be used to (25).（これは、この装置が（25）ために使えるということだ）です。This（これ）は、前の文の内容を指しています。前の文は Because the device is very flexible, the Portable Light can be rolled or folded into different shapes.（この装置はとても柔らかく曲げやすいので、丸めたり折りたたんだりして、さまざまな形にできる）です。
+空所のあとは For instance（たとえば）で始まり、具体例が3つ続きます。
+・メキシコでは、伝統的なかばんに取りつけて、携帯電話を動かす電池を充電している。
+・ニカラグアでは、丸めて、海岸でウミガメを守るのに役立つ明かりにしている。
+・南アフリカでは、病気の患者を暖かく保つ毛布にしている。
+この3つの例は、携帯電話の充電、ウミガメを守る明かり、患者のための毛布と、使い道がそれぞれまったく違います。さまざまな形にできるので、いろいろな目的に使えるということです。meet a wide range of needs（幅広いさまざまな必要を満たす）を入れると、前の文の「さまざまな形にできる」とも、あとの3つの例ともつながります。meet はここでは「（必要や希望を）満たす」、a wide range of ～ は「幅広い～」という意味です。2が正解です。
+【ほかの選択肢】
+1 「貧しい人々が仕事を見つける手助けをする」は、本文に書かれていません。3つの例のどれも、仕事を見つける話ではありません。
+3 「若い人々の健康をよくする」は本文にありません。南アフリカの例は「病気の患者を暖かく保つ毛布」ですが、若い人々に限った話ではなく、ほかの2つの例とも合いません。
+4 「環境を害から守る」は、ニカラグアのウミガメを守る例には近いですが、携帯電話の充電や患者の毛布の例は環境を守る話ではありません。3つの例のうち一部にしか当てはまらないので、空所に入れる語句として合いません。
+【覚えるポイント】
+・For instance（たとえば）のあとに例がいくつか続くときは、それらの例に共通することをまとめた語句が、前の空所に入ることが多いです。
+・a wide range of ～：「幅広い～、さまざまな～」。meet needs で「必要を満たす」。

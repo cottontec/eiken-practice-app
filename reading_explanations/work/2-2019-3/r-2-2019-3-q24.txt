@@ -1,0 +1,29 @@
+---
+choices: needs batteries and wood | uses less money and more oil | is healthy and easy to use | is cheap and environmentally friendly
+answerText: is cheap and environmentally friendly
+reviewed: yes
+---
+【正解】4 is cheap and environmentally friendly（安くて環境に優しい）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 needs batteries and wood（電池とまきを必要とする）
+2 uses less money and more oil（〔これまでより〕使うお金が少なく、使う石油が多い）
+3 is healthy and easy to use（健康によく、使いやすい）
+4 is cheap and environmentally friendly（安くて環境に優しい）
+【考え方】
+空所は第1段落の They have developed a new device that (24).（2人は、（24）新しい装置を開発した）です。that 以下が a new device（新しい装置）を説明しています。
+空所の前の流れを確かめます。
+・they rely on things like batteries, oil lamps, or wood（電気を使えない人々は、電池や石油ランプ、まきのようなものに頼っている）
+・However, these are often expensive and cause damage to the environment.（しかし、これらは多くの場合、費用が高く、環境に害を与える）
+・Now, Sheila Kennedy and Juan Frano Violich have come up with a solution to these problems.（今、2人がこうした問題の解決策を考え出した）
+these problems（こうした問題）は、「費用が高い」と「環境に害を与える」の2つを指しています。新しい装置はその解決策なので、「費用が高い」の反対の「安い」と、「環境に害を与える」の反対の「環境に優しい」という特徴を持つと考えられます。
+空所のあとの uses solar energy（太陽エネルギーを使う）も、環境に優しい装置であることと合っています。is cheap and environmentally friendly（安くて環境に優しい）を入れると、問題と解決策がきれいに対応します。4が正解です。environmentally friendly は「環境に優しい」という意味です。
+【ほかの選択肢】
+1 「電池とまきを必要とする」は、本文で費用が高く環境に害を与えると書かれた、これまでのやり方そのものです。解決策として開発された新しい装置の説明にはなりません。また、新しい装置は太陽エネルギーを使うと書かれています。
+2 「使うお金が少なく、使う石油が多い」は、前半の「お金が少ない」は問題の解決になりますが、後半の「石油を多く使う」は環境への害を増やすことになり、解決策になりません。また、新しい装置は石油ではなく太陽エネルギーを使います。一部だけ合っている選択肢です。
+3 「健康によく、使いやすい」は本文に書かれていません。空所の前で挙げられた問題は「費用が高い」「環境に害を与える」の2つで、健康や使いやすさの問題ではないので、these problems の解決策の説明になりません。
+【覚えるポイント】
+・a solution to ～：「～の解決策」。問題が書かれたあとに solution が出てきたら、問題の反対の内容が解決策になることが多いです。
+・environmentally friendly：「環境に優しい」。

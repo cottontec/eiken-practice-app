@@ -1,0 +1,30 @@
+---
+choices: reversals are not a serious issue | doctors should listen to patients | more needs to be done | many reversals have been unnecessary
+answerText: more needs to be done
+reviewed: yes
+---
+【正解】3 more needs to be done（もっと多くのことがなされる必要がある）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 reversals are not a serious issue（逆転は深刻な問題ではない）
+2 doctors should listen to patients（医師は患者の話を聞くべきだ）
+3 more needs to be done（もっと多くのことがなされる必要がある）
+4 many reversals have been unnecessary（多くの逆転は不必要だった）
+【考え方】
+まず見るところ：第3段落の空所のあとの the importance of analyzing data is overlooked と medical schools’ curriculums should be altered
+空所のある文は Dr. Vinay Prasad of the Oregon Health and Science University believes that ( 31 ).（オレゴン健康科学大学のビナイ・プラサドさんは、（31）と考えている）です。プラサドさんの考えの中身は、続く2つの文で説明されています。
+He says first- and second-year medical students receive a solid education when it comes to the human body, but the importance of analyzing data is overlooked.（彼によると、医学部の1年生と2年生は、人間の体に関してはしっかりとした教育を受けているが、データを分析することの大切さは見過ごされている）
+overlook は「見過ごす」という意味です。今の医学部の教育には足りないところがある、と言っています。
+Prasad believes that to reduce the number of medical practices that turn out to be ineffective, medical schools’ curriculums should be altered（プラサドさんは、効果がないと分かる医療のやり方の数を減らすためには、医学部の教育課程を変えるべきだと考えている）
+alter は「変える」、curriculum は「教育課程（学校で何をどの順に教えるかの計画）」です。「今の教育では足りないので、変えるべきだ」という意見です。
+これをまとめると、「今のままでは不十分で、もっと何かをする必要がある」ということになります。more needs to be done はこの内容を表すので、3が正解です。
+この問題の型：具体例とまとめ（データ分析が見過ごされている・教育課程を変えるべき→もっと多くのことが必要）
+【ほかの選択肢】
+1 「逆転は深刻な問題ではない」は、プラサドさんの考えと合いません。彼は、効果がないと分かる医療のやり方の数を減らすために教育課程を変えるべきだと言っており、問題を軽く見てはいません。
+2 「医師は患者の話を聞くべきだ」は、本文にありません。プラサドさんが大切だと言っているのは、患者の話を聞くことではなく、データを分析することです。
+4 「多くの逆転は不必要だった」は、本文にありません。プラサドさんが減らしたいのは「効果がないと分かる医療のやり方の数」で、これまでの逆転が不必要だったとは言っていません。
+【覚えるポイント】
+・more needs to be done：「もっと多くのことがなされる必要がある（今のままでは不十分だ）」。
+・「～は…と考えている」の…が空所のときは、そのあとに続く、その人の意見（ここでは should be altered）を短くまとめた選択肢を選ぶと手がかりになります。

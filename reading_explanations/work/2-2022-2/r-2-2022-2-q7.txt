@@ -1,0 +1,33 @@
+---
+choices: fulfill | cheat | heal | retire
+answerText: heal
+reviewed: yes
+---
+【正解】3 heal（〔けがなどが〕治る）
+【和訳】
+（英文）
+After Kai broke his arm, it took about three months to ［heal］ completely. Now he can play tennis again without any problems.
+（訳）
+カイが腕を骨折したあと、完全に（治る）までに約3か月かかりました。今では、彼は何の問題もなく再びテニスができます。
+（選択肢の意味）
+1 fulfill：（約束・夢などを）果たす、かなえる
+2 cheat：ずるをする、だます
+3 heal：（けがなどが）治る
+4 retire：引退する
+【考え方】
+まず見るところ：空所の前後の it took about three months to (　) completely と、次の文の Now he can play tennis again
+After Kai broke his arm（カイが腕を骨折したあと）
+腕の骨折から話が始まります。
+it took about three months to (　) completely（完全に（　）するのに約3か月かかった）
+it takes ＋期間＋ to ～ は「～するのに（期間）がかかる」という意味です。
+Now he can play tennis again without any problems.（今では、何の問題もなく再びテニスができる）
+今は問題なくテニスができるのですから、その3か月は、腕が治るまでの期間だと考えられます。heal は「（けがなどが）治る」という意味で、heal completely で「完全に治る」となります。3が正解です。
+この問題の型：語の意味・組み合わせ（heal completely）、因果（骨折→治るまで3か月→テニスができる）
+【ほかの選択肢】
+1 fulfill は「（約束・夢などを）果たす、かなえる」です。fulfill a dream（夢をかなえる）のように、後ろに果たす対象が必要です。腕の骨折が治るまでの話には合いません。
+2 cheat は「ずるをする、だます」です。「完全にずるをするのに3か月かかった」となり、意味が通りません。
+4 retire は「引退する」です。後ろの文で、今は再びテニスができると言っているので、引退したという話とは合いません。
+【覚えるポイント】
+・heal：「（けがなどが）治る」。
+・it takes ＋期間＋ to ～：「～するのに（期間）がかかる」。
+・最初に出来事（骨折）、最後に今の状態（問題なくテニスができる）が書かれているときは、間の空所には「その出来事がどうなったか」を表す語が入る、と考えると手がかりになります。

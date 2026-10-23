@@ -1,0 +1,23 @@
+---
+choices: fall back on | live up to | go through with | look out for
+answerText: fall back on
+reviewed: yes
+---
+【正解】1 fall back on（困ったときに～に頼る）
+【和訳】
+（英文）
+Anita is a professional artist, but she also works part time at an office so she will have money to ［fall back on］ if her paintings ever fail to sell.
+（訳）
+アニタはプロの画家だが、万一自分の絵が売れなくなったときに（頼れる）お金があるように、会社でパートタイムでも働いている。
+（選択肢の意味）1（困ったときに）～に頼る　2（期待など）に応える、ふさわしい行いをする　3（いやなことや難しいことを）最後までやりとげる　4 ～に気をつける、～の面倒をみる
+【考え方】
+まず文の流れを見ます。アニタはプロの画家ですが、パートタイムでも働いています。その目的が so she will have money to ( ) if her paintings ever fail to sell（万一絵が売れなくなったときに〇〇するお金があるように）です。ここでの so は「～するように」と目的を表しています。また、if ～ ever は「万一～したら」という意味です。
+絵が売れないという困った状況になったときのために、別のお金を用意しておく、という話です。ですから、空所には「（困ったときに）頼る」という意味の語句が入ります。
+money to fall back on は、「（困ったときに）頼るためのお金」という意味です。to fall back on が後ろから money を説明していて、on の目的語（on の後ろにくるはずの語）が money にあたります。よって1が正解です。
+【ほかの選択肢】
+2 live up to は「（期待や評判など）に応える」という意味です。「お金に応える」では意味が通りません。
+3 go through with は「（計画など、難しいことを）最後までやりとげる」という意味です。「お金をやりとげる」となり、意味が通りません。
+4 look out for は「～に気をつける、～の面倒をみる」という意味です。「絵が売れないときに気をつけるお金」では、目的として意味がはっきりしません。
+【覚えるポイント】
+・fall back on ～：「（困ったときに）～に頼る、～を当てにする」。
+・名詞 + to do（前置詞で終わる形）：money to fall back on のように、後ろの前置詞の相手が前の名詞になります。

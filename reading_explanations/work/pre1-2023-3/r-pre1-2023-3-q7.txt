@@ -1,0 +1,29 @@
+---
+choices: treaty | inclusion | fortune | aftermath
+answerText: aftermath
+reviewed: yes
+---
+【正解】4 aftermath（〈災害などの〉直後の時期、余波〈あとに残る影響〉）
+【和訳】
+（英文）
+The mayor announced that in the ［aftermath］ of the huge storm, government offices and schools would be closed until the town was cleaned up.
+（訳）
+町長は、大きな嵐の（直後の時期）には、町の片づけが終わるまで、役所と学校を閉めると発表した。
+（選択肢の意味）
+1 treaty：条約（国と国との取り決め）
+2 inclusion：含めること
+3 fortune：運、財産
+4 aftermath：（災害などの）直後の時期、余波（あとに残る影響）
+【考え方】
+まず見るところ：空所の後ろの of the huge storm と、文の最後の until the town was cleaned up
+町長が発表した内容は、役所と学校を閉めることです。いつまで閉めるのかは、文の最後に書かれています。
+until the town was cleaned up（町が片づけられるまで）
+片づけが必要なのは、大きな嵐が通りすぎたあと、町が散らかったり壊れたりしている時期です。aftermath は「（災害などの）直後の時期、余波」で、in the aftermath of ～ で「～の直後に、～の影響が残る中で」となるので、4が正解です。
+この問題の型：熟語・決まった形（in the aftermath of ～）
+【ほかの選択肢】
+1 treaty は「条約」です。「大きな嵐の条約の中で」となり、意味が通りません。
+2 inclusion は「含めること」です。「大きな嵐を含めることの中で」となり、片づけが終わるまで閉めるという内容とつながりません。
+3 fortune は「運、財産」です。「大きな嵐の運の中で」となり、意味が通りません。
+【覚えるポイント】
+・in the aftermath of ～：「（災害・事件など）の直後に、～の影響が残る中で」。
+・空所の後ろに of the huge storm のような出来事があり、文の後半に「片づけ」などのあとしまつが書かれているときは、「その出来事のあと」を表す語が入る手がかりになります。

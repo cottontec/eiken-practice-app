@@ -1,0 +1,32 @@
+---
+choices: following the discovery of holes in the concrete. | following accidents in which people died. | after a metal fence fell onto it. | after the cost of looking after it increased.
+answerText: following accidents in which people died.
+reviewed: yes
+---
+【正解】2 following accidents in which people died.（人が亡くなった事故のあとで。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：A decision was made to close the walkway（その歩道を閉鎖する決定が下されたのは、～である。）
+1 following the discovery of holes in the concrete.（コンクリートに穴が見つかったあと）
+2 following accidents in which people died.（人が亡くなった事故のあと）
+3 after a metal fence fell onto it.（金属の柵が歩道の上に落ちてきたあと）
+4 after the cost of looking after it increased.（歩道の手入れにかかる費用が増えたあと）
+【考え方】
+まず見るところ：第3段落の最後の after four deaths in two years, the government decided to close the walkway in 2001
+However, after four deaths in two years, the government decided to close the walkway in 2001.（しかし、2年間で4人が亡くなったあと、政府は2001年にこの歩道を閉鎖することに決めた）
+following ～ は、ここでは「～のあとで、～に続いて」という意味です。death は「死」という意味で、four deaths は「4人の死」です。
+この直前には、El Caminito del Rey became famous as the most dangerous hiking path in the world（世界で最も危険なハイキング道として有名になった）とあり、手入れされずに穴があき、柵もなくなっていたことが書かれています。本文に亡くなった原因は書かれていませんが、世界で最も危険なハイキング道で起きたことなので、事故によるものと考えられます。
+本文と選択肢を対にすると、次のようになります。
+本文 after four deaths in two years（2年間で4人が亡くなったあと）→ 選択肢 following accidents in which people died（人が亡くなった事故のあとで）
+the government decided to close（政府は閉鎖することに決めた）が、設問では A decision was made to close（閉鎖する決定が下された）と言いかえられています。ですから2が正解です。
+この問題の型：因果（4人が亡くなった → 閉鎖）、推論（亡くなった原因を事故と考える）
+【ほかの選択肢】
+1 本文に Holes appeared（穴があいた）とはありますが、それは歩道が手入れされていなかった様子として書かれています。閉鎖が決まったのは、穴があいたあとではなく、4人が亡くなったあとです。
+3 金属の柵は、壊れて fell to the bottom of the valley（谷底に落ちた）と書かれています。歩道の上に落ちたのではありません。また、柵が落ちたことが閉鎖の理由とは書かれていません。
+4 手入れの費用が増えたという話は、本文にありません。お金の話として出てくるのは、閉鎖のあとで歩道を造り直すのに220万ユーロが使われたということです。
+【覚えるポイント】
+・following ～：「～のあとで、～に続いて」。after とほぼ同じ意味で使われます。
+・make a decision：「決定する」。A decision was made to ～ で「～する決定が下された」。
+・決定が下された理由やきっかけを問う問題では、decided のすぐ前後にある after ～ のような時を表す言葉を見て、何が起きたあとなのかを確かめます。

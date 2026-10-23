@@ -1,0 +1,33 @@
+---
+choices: intentionally | divinely | foolishly | brilliantly
+answerText: intentionally
+reviewed: yes
+---
+【正解】1 intentionally（わざと、意図的に）
+【和訳】
+（英文）
+A: James is so rude. Today, he walked right past me without saying hello.
+B: I'm sure he didn't do it ［intentionally］. He probably just didn't notice you.
+（訳）
+A：ジェームズって本当に失礼だよ。今日、あいさつもしないで、私のすぐ横を通り過ぎていったんだ。
+B：きっと（わざと）やったんじゃないよ。たぶん、あなたに気づかなかっただけだよ。
+（選択肢の意味）
+1 intentionally：わざと、意図的に
+2 divinely：神のように、すばらしく
+3 foolishly：愚かにも、ばかなことに
+4 brilliantly：見事に、すばらしく
+【考え方】
+まず見るところ：Bの2文目の He probably just didn't notice you.
+Aは、ジェームズがあいさつもせずに自分の横を通り過ぎたことを、rude（失礼だ）と怒っています。walk right past ～ は「～のすぐ横を通り過ぎる」という意味です。
+Bは I'm sure he didn't do it ( ).（きっと彼は（　）それをしたのではない）と言い、続けて次のように言います。
+He probably just didn't notice you.（たぶん、あなたに気づかなかっただけだよ）
+just は「ただ～だけ」という意味です。Bは「ジェームズは気づかなかっただけ」と言って、ジェームズをかばっています。気づかなかったのなら、あいさつをしなかったのは「わざと」ではありません。
+intentionally は「わざと、意図的に（そうしようと思って）」という意味なので、didn't do it intentionally で「わざとやったのではない」となります。次の文の内容とぴったり合うので、1が正解です。
+この問題の型：対比（わざと⇔気づかなかっただけ）
+【ほかの選択肢】
+2 divinely は「神のように、すばらしく」です。「すばらしくやったのではない」となり、「気づかなかっただけ」という説明とつながりません。
+3 foolishly は「愚かにも、ばかなことに」です。「愚かにもやったのではない」では、Bがジェームズをかばう理由として「気づかなかっただけ」とつながりません。
+4 brilliantly は「見事に、すばらしく」です。「見事にやったのではない」となり、あいさつをせずに通り過ぎたことについての話として意味が通りません。
+【覚えるポイント】
+・intentionally：「わざと、意図的に」。didn't do it intentionally で「わざとやったのではない」です。
+・相手の不満に対して「たぶん～しただけだよ」と別の理由を挙げている場面では、「わざとではない」という内容になることが多いので、just（ただ～だけ）のあとの理由を手がかりにします。

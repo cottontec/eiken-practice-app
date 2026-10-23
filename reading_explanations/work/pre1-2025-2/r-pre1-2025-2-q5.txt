@@ -1,0 +1,32 @@
+---
+choices: virtue | fatigue | oversight | perception
+answerText: fatigue
+reviewed: yes
+---
+【正解】2 fatigue（疲労）
+【和訳】
+（英文）
+The doctor told Emma she was suffering from ［fatigue］ due to overwork. He said that with a break and plenty of rest, however, she would recover quickly.
+（訳）
+医師はエマに、働きすぎによる（疲労）に苦しんでいると伝えた。しかし医師は、休みを取ってたっぷり休めば、すぐに回復するだろうと言った。
+（選択肢の意味）
+1 virtue：美徳、長所
+2 fatigue：疲労
+3 oversight：見落とし、うっかりしたまちがい
+4 perception：知覚、受け止め方
+【考え方】
+まず見るところ：空所のあとの due to overwork と、次の文の with a break and plenty of rest
+空所のある部分は、次のとおりです。
+she was suffering from (　) due to overwork（彼女は働きすぎによる（　）に苦しんでいる）
+suffer from ～ は「～に苦しむ、～をわずらう」、due to ～ は「～が原因で」、overwork は「働きすぎ」です。働きすぎが原因で起こる、つらい体の状態が入ると考えられます。
+次の文は、次のとおりです。
+He said that with a break and plenty of rest, however, she would recover quickly.（しかし医師は、休みを取ってたっぷり休めば、すぐに回復するだろうと言った）
+break は「休み」、rest は「休養」、recover は「回復する」です。休めば治る状態なので、「疲れ」が入ると分かります。fatigue は「疲労」という意味なので、2が正解です。
+この問題の型：因果（働きすぎ → 疲労）
+【ほかの選択肢】
+1 virtue は「美徳、長所」です。「働きすぎによる美徳に苦しんでいる」となり、意味が通りません。suffer from（～に苦しむ）とも合いません。
+3 oversight は「見落とし、うっかりしたまちがい」です。働きすぎで見落としをすることはありえますが、「休めばすぐに回復する」のは体の状態であり、見落としに「回復する」は合いません。
+4 perception は「知覚、受け止め方」です。「働きすぎによる知覚に苦しんでいる」となり、意味が通りません。
+【覚えるポイント】
+・fatigue：「疲労」。suffer from fatigue で「疲労に苦しむ」。
+・suffer from (　) due to ～ の形では、due to のあとの原因（ここでは overwork）と、あとの文の治し方（ここでは rest）が、どんな状態の語が入るかの手がかりになります。

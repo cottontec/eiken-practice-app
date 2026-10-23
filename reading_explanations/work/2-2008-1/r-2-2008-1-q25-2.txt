@@ -1,0 +1,22 @@
+---
+choices: the | look | for | into | problem
+answerText: into
+order: 2 4 1 5 3
+reviewed: yes
+---
+【正解】4 into（この問題の2番目）
+【完成文】
+I'm a little busy now, but I'll ( look into the problem for ) you later.
+並べ方：2 look → 4 into → 1 the → 5 problem → 3 for（2番目は4、4番目は5）
+【和訳】
+A：私のコンピューター、どこかおかしいと思うんだ。取引先のお客さんにEメールが送れないんだ。直してみてくれない、サリー？
+B：今は少し忙しいけれど、あとであなたのためにその問題を調べてあげるよ。
+【考え方】
+空所の前は I'll（I will）なので、すぐあとには動詞の原形がきます。動詞は 2 look だけなので、look を最初に置きます。
+次に look のあとに何を続けるかを考えます。look into ～ は「～を調べる、～を詳しく調べる」という意味です。Aは「コンピューターがおかしい、直してみてくれない？」と頼んでいるので、Bは「あとでその問題を調べる」と答えていると考えられます。そこで 4 into のあとに 1 the と 5 problem を続け、look into the problem（その問題を調べる）とします。
+残った 3 for は、空所のあとの you とつながって for you（あなたのために）となります。
+look for ～（～を探す）とまちがえて look for the problem into you のようにすると、意味も形も通りません。for は最後に置いて for you とするのが正しい形です。
+したがって2番目は4 into です。
+【覚えるポイント】
+・look into ～：「～を調べる、詳しく調べる」。look for ～（～を探す）とのちがいに注意。
+・there's something wrong with ～：「～はどこかおかしい」。

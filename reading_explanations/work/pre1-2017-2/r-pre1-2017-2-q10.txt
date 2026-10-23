@@ -1,0 +1,33 @@
+---
+choices: fussy | villainous | scarce | adolescent
+answerText: scarce
+reviewed: yes
+---
+【正解】3 scarce（少ない、乏しい）
+【和訳】
+（英文）
+Permanent positions at some companies are becoming increasingly ［scarce］. Instead, temporary workers are being used in an attempt to save money.
+（訳）
+一部の会社では、期間の決まっていない正規の職が、ますます（少なく）なってきている。その代わりに、お金を節約しようとして、臨時の労働者が使われている。
+（選択肢の意味）
+1 fussy：（好みに）うるさい、細かいことにこだわる
+2 villainous：悪人のような、極悪な
+3 scarce：少ない、乏しい
+4 adolescent：思春期の、10代の若者の
+【考え方】
+まず見るところ：あとの文の Instead, temporary workers are being used
+最初に、空所のある文の主語を確かめます。
+Permanent positions at some companies（一部の会社の、期間の決まっていない正規の職）
+permanent は「永続的な、期間の決まっていない」という意味で、permanent positions は、いわゆる正社員の職のことです。
+次に、あとの文を見ます。
+Instead, temporary workers are being used in an attempt to save money.（その代わりに、お金を節約しようとして、臨時の労働者が使われている）
+temporary は「一時的な、臨時の」で、permanent と反対の意味です。Instead（その代わりに）は、「正規の職ではなく、代わりに臨時の労働者を使っている」ことを表しています。ですから、正規の職は減ってきていると考えられます。
+scarce は「少ない、乏しい」なので、「正規の職がますます少なくなってきている」となり、3が正解です。
+この問題の型：対比（permanent 正規の職⇔temporary 臨時の労働者）／言いかえ（Instead → 正規の職が減っている）
+【ほかの選択肢】
+1 fussy は「（好みに）うるさい、細かいことにこだわる」です。人の性格を表す語で、「正規の職がますますうるさくなっている」では意味が通りません。
+2 villainous は「悪人のような、極悪な」です。職そのものが悪人のようになる、という意味になり、あとの文の「代わりに臨時の労働者を使う」という話とつながりません。
+4 adolescent は「思春期の、10代の若者の」です。年齢について使う語で、職の説明には合いません。
+【覚えるポイント】
+・scarce：「少ない、乏しい」。become scarce で「少なくなる」。
+・permanent（期間の決まっていない）と temporary（臨時の）は反対の意味の組です。Instead（その代わりに）のあとに一方が増えているとあれば、もう一方は減っていると読む手がかりになります。

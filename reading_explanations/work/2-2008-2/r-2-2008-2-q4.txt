@@ -1,0 +1,24 @@
+---
+choices: broadcast | overcome | listed | represented
+answerText: broadcast
+reviewed: yes
+---
+【正解】1 broadcast（放送される）
+【和訳】
+オリンピックはいつも生中継で放送されるので、人々は競技が行われているそのときに、それを見ることができます。
+（選択肢の意味）
+1 broadcast：放送される
+2 overcome：克服される、打ち負かされる
+3 listed：一覧表に載せられる
+4 represented：代表される、表される
+【考え方】
+文の形は The Olympic Games are always (　) live です。are のあとに動詞の過去分詞（受け身「～される」を作る形）を入れて、「オリンピックはいつも～される」という意味にします。broadcast は過去形・過去分詞も broadcast と同じ形です。
+空所のあとの live は、ここでは「ライブ」と読み、「生で、生中継で」という意味の副詞（動詞などを説明する語）です。さらに so that people can watch the events as they happen（人々が競技をそれが起こっているときに見られるように）と目的が続きます。
+テレビなどで生中継され、その場で見られる、という流れなので、are broadcast live（生放送される）となる1が正解です。
+【ほかの選択肢】
+2 overcome は「～を克服する、打ち負かす」で、過去分詞も overcome です。「オリンピックがいつも生で克服される」となり、意味が通りません。
+3 listed は「一覧表に載せられる」です。一覧表に載ることと、競技を起こっているときに見られることは結びつきません。
+4 represented は「代表される、表される」です。「生で代表される」となり、人々が競技を見られる理由になりません。
+【覚えるポイント】
+・broadcast ～ live：「～を生中継で放送する」。broadcast は原形・過去形・過去分詞がすべて同じ形です。
+・so that ～ can ...：「～が…できるように」と目的を表します。

@@ -1,0 +1,27 @@
+---
+choices: laws | customs | clinics | techniques
+answerText: techniques
+reviewed: yes
+---
+【正解】4 techniques（技術、方法）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 laws：法律
+2 customs：習慣、慣習
+3 clinics：診療所
+4 techniques：技術、方法、やり方
+【考え方】
+空所は本文の最後の文 Scientists believe that, one day, using such (　) may make this problem a thing of the past.（科学者たちは、いつの日か、このような～を使うことで、この問題が過去のものになるかもしれないと信じている）にあります。a thing of the past は「過去のもの（もうなくなったもの）」という意味です。
+such（このような）とあるので、空所には直前に書かれていたものをまとめる語が入ります。第3段落では、体内時計の調整を速める方法が2つ紹介されています。
+1つ目は One method is to control the release of melatonin.（方法の1つは、メラトニンの放出を調節することだ）で、体をより多くの光に当てるやり方です。
+2つ目は Another method is to use special medicine that acts just like melatonin in the brain.（もう1つの方法は、脳の中でメラトニンとまったく同じように働く特別な薬を使うことだ）です。
+どちらも method（方法）と呼ばれています。technique は「技術、方法、やり方」という意味で、using such techniques で「このような方法を使うこと」となり、2つの method をまとめて言いかえています。したがって4が正解です。
+【ほかの選択肢】
+1 laws を入れると「このような法律を使うこと」となります。本文で紹介されているのは光に当てることと薬を使うことで、法律の話は出てきません。
+2 customs を入れると「このような習慣を使うこと」となります。本文の2つは科学者たちが研究している方法で、人々の間に昔からある習慣として書かれているわけではありません。
+3 clinics を入れると「このような診療所を使うこと」となります。本文に診療所の話は出てこず、such（このような）が指すものがありません。
+【覚えるポイント】
+・technique：「技術、方法」。本文の method（方法）の言いかえとして使われています。
+・a thing of the past：「過去のもの」。make ～ a thing of the past で「～を過去のものにする（なくす）」。

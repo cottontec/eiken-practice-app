@@ -1,0 +1,29 @@
+---
+choices: edition | notion | contact | instinct
+answerText: notion
+reviewed: yes
+---
+【正解】2 notion（考え、概念）
+【和訳】
+（英文）
+Many science-fiction authors have written about the ［notion］ of traveling at the speed of light. With future developments in technology, this idea could become a reality.
+（訳）
+多くのSF作家が、光の速さで旅をするという（考え）について書いてきました。将来の技術の発展によって、この考えは現実になるかもしれません。
+（選択肢の意味）
+1 edition：（本などの）版
+2 notion：考え、概念
+3 contact：接触、連絡
+4 instinct：本能
+【考え方】
+まず見るところ：次の文の this idea could become a reality
+this idea could become a reality（この考えは現実になるかもしれない）
+this idea（この考え）は、前の文の the (　) of traveling at the speed of light（光の速さで旅をすることの（　））を指していると考えられます。つまり、空所には idea（考え）とほぼ同じ意味の名詞が入ります。
+notion は「考え、概念（あることについての考え方）」という意味です。the notion of traveling at the speed of light で「光の速さで旅をするという考え」となり、次の文の this idea と言いかえの関係になるので、2が正解です。
+この問題の型：指示語（this idea）、言いかえ（notion ≒ idea）
+【ほかの選択肢】
+1 edition は「（本などの）版」です。a new edition（新版）のように使います。「光の速さで旅をすることの版」となり、意味が通りません。
+3 contact は「接触、連絡」です。「光の速さで旅をすることの接触」となり、次の文の this idea（この考え）につながりません。
+4 instinct は「本能（生まれつき持っている性質）」です。作家が書いてきたものが「光の速さで旅をする本能」では意味が通らず、this idea ともつながりません。
+【覚えるポイント】
+・the notion of -ing：「～するという考え」。the idea of -ing とほぼ同じ意味です。
+・this ＋名詞は、前に出た内容をまとめて指すことが多い言い方です。空所の名詞が、あとの文で this idea のように言いかえられていないかを確かめると、答えの手がかりになります。

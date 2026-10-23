@@ -1,0 +1,31 @@
+---
+choices: unconscious | immaterial | unreasonable | inventive
+answerText: inventive
+reviewed: yes
+---
+【正解】4 inventive（創意に富んだ、発想が豊かな）
+【和訳】
+（英文）
+Critics agreed the author's first novel was the most ［inventive］ to have appeared for years. It had a complex and original plot with unique characters.
+（訳）
+批評家たちは、その作家の最初の小説が、ここ何年かで出てきた中で最も（創意に富んだ）ものだという点で意見が一致した。その小説は、複雑でほかにない筋書きと、個性的な登場人物を持っていた。
+（選択肢の意味）
+1 unconscious：意識のない、無意識の
+2 immaterial：重要でない、取るに足らない
+3 unreasonable：筋の通らない、理不尽な
+4 inventive：創意に富んだ、発想が豊かな
+【考え方】
+まず見るところ：次の文の a complex and original plot with unique characters
+空所のある文は「批評家たちは、その作家の最初の小説が、ここ何年かで最も（　）なものだと意見が一致した」です。critic は「批評家（作品のよしあしを評価する人）」です。
+次の文で、その小説がどのようなものかが具体的に書かれています。
+It had a complex and original plot with unique characters.（その小説は、複雑でほかにない筋書きと、個性的な登場人物を持っていた）
+original は「独創的な、ほかにない」、unique は「独特の、個性的な」という意味です。どちらも「新しい発想がある」というほめ言葉です。
+inventive は「創意に富んだ（新しいものを考え出す力がある）」という意味で、次の文の内容をまとめた言葉になります。ですから4が正解です。
+この問題の型：具体例とまとめ（original・unique→inventive）
+【ほかの選択肢】
+1 unconscious は「意識のない、無意識の」です。「最も意識のない小説」では意味が通らず、次の文の「独創的な筋書き」という説明とも結びつきません。
+2 immaterial は「重要でない、取るに足らない」です。次の文は筋書きや登場人物をほめる内容なので、「取るに足らない」では評価の向きが逆になります。
+3 unreasonable は「筋の通らない、理不尽な」です。次の文には筋の通らない点は書かれておらず、よい点が挙げられているので合いません。
+【覚えるポイント】
+・inventive：「創意に富んだ、発想が豊かな」。
+・空所に人や作品を評価する語が入るときは、すぐあとの文に具体的な特徴（ここでは original や unique）が書かれていることが多いので、それをまとめた語を選ぶと手がかりになります。

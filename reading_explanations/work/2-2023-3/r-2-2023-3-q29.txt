@@ -1,0 +1,31 @@
+---
+choices: Work with two other employees to prepare for February 24. | Give out materials to all the employees in his department. | Make a decision about who will attend the event. | Send another e-mail to tell the staff who was selected.
+answerText: Work with two other employees to prepare for February 24.
+reviewed: yes
+---
+【正解】1 Work with two other employees to prepare for February 24.（2月24日に向けて準備するために、ほかの2人の社員といっしょに作業する。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What does Stan Finley say he will do on Friday morning?（スタン・フィンリーは金曜日の午前中に何をすると言っていますか。）
+1 Work with two other employees to prepare for February 24.（2月24日に向けて準備するために、ほかの2人の社員といっしょに作業する。）
+2 Give out materials to all the employees in his department.（自分の部門のすべての社員に資料を配る。）
+3 Make a decision about who will attend the event.（だれが催しに参加するかを決める。）
+4 Send another e-mail to tell the staff who was selected.（だれが選ばれたかをスタッフに伝えるために、もう1通メールを送る。）
+【考え方】
+まず見るところ：第3段落の The two employees and I will have an extra meeting on Friday morning
+The two employees and I will have an extra meeting on Friday morning to get started on preparing materials for the fair.（その2人の社員と私は、金曜日の午前中に追加の会議を開き、フェアのための資料の準備に取りかかる）
+The two employees は、フェアに行く2人の社員です。I はメールを書いたスタン・フィンリーです。
+本文と選択肢を対にすると、次のようになります。
+本文 The two employees and I will have an extra meeting（その2人の社員と私は追加の会議を開く）→ 選択肢 Work with two other employees（ほかの2人の社員といっしょに作業する）
+本文 to get started on preparing materials for the fair（フェアのための資料の準備に取りかかる）＝ 選択肢 to prepare for February 24（2月24日に向けて準備する）
+フェアは2月24日に開かれるので、the fair が February 24 と言いかえられています。2人と会議を開いて準備に取りかかることを、選択肢では「いっしょに作業する」とまとめています。ですから1が正解です。
+この問題の型：言いかえ（the fair → February 24）
+【ほかの選択肢】
+2 金曜日は資料の準備に取りかかる日で、部門のすべての社員に資料を配るとは書かれていません。金曜日の会議に出ると書かれているのは、2人の社員とフィンリーさんです。
+3 だれが行くかを決めるのは、水曜日の部門会議です（we can decide who will go then, too）。曜日が違います。
+4 もう1通メールを送るという話は本文にありません。本文にあるのは、興味がある人は火曜日の午後5時までにこのメールに返信してほしい、ということです。
+【覚えるポイント】
+・get started on ～：「～に取りかかる」。
+・メールに曜日がいくつも出てくるときは、「水曜日→だれが行くか決める」「金曜日→準備を始める」のように、曜日とすることを組にして確かめると取り違えをふせげます。

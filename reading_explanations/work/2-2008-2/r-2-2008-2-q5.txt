@@ -1,0 +1,25 @@
+---
+choices: instruments | emotions | monuments | organizations
+answerText: emotions
+reviewed: yes
+---
+【正解】2 emotions（感情）
+【和訳】
+A：ジェイソンはレイチェルの送別会の間、とても動揺しているようだったね。泣き出すんじゃないかと思ったよ。
+B：うん、私も驚いたよ。彼はふだん、あんなにあからさまに感情を表に出さないからね。
+（選択肢の意味）
+1 instruments：道具、楽器
+2 emotions：感情
+3 monuments：記念碑
+4 organizations：組織、団体
+【考え方】
+Aの言葉から見ます。Jason seemed really upset（ジェイソンはとても動揺しているようだった）、I thought he was going to cry（泣き出すと思った）とあります。upset は「気持ちが乱れた、動揺した」という意味です。
+Bは I was surprised（驚いた）と答え、その理由として He doesn't usually show his (　) so openly.（彼はふだん、あんなにあからさまに自分の（　）を見せない）と言っています。openly は「隠さずに、あからさまに」です。
+泣きそうなほど動揺した様子を見せたことについて話しているので、見せたものは「気持ち」です。show one's emotions で「感情を表に出す」となるので、2が正解です。
+【ほかの選択肢】
+1 instruments は「道具、楽器」です。「楽器をあからさまに見せない」では、動揺して泣きそうだったという話とつながりません。
+3 monuments は「記念碑、記念の建物」です。人が送別会で見せるものではないので、合いません。
+4 organizations は「組織、団体」です。動揺している気持ちの話とは関係がありません。
+【覚えるポイント】
+・show one's emotions：「感情を表に出す」。
+・farewell party：「送別会（去っていく人を送る会）」。

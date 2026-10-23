@@ -1,0 +1,29 @@
+---
+choices: to inform | informed | have informed | inform
+answerText: to inform
+reviewed: yes
+---
+【正解】1 to inform（〔regret to inform で〕残念ながらお知らせする）
+【和訳】
+（英文）
+A: Mr. McMillan, welcome to AirBed Hotel. We regret ［to inform］ you that the pool will be closed for repairs this evening.
+B: That's OK. I wasn't planning to swim tonight.
+（訳）
+A：マクミランさん、エアベッド・ホテルへようこそ。残念ながら、今晩はプールが修理のため閉まることを（お知らせいたします）。
+B：かまいませんよ。今夜は泳ぐつもりはありませんでしたから。
+（選択肢の意味）
+1 to inform：知らせること（to ＋動詞の原形）
+2 informed：知らせた（過去形・過去分詞）
+3 have informed：知らせた（have ＋過去分詞）
+4 inform：知らせる（動詞の原形）
+【考え方】
+空所の前は We regret で、regret は「残念に思う、後悔する」という意味の動詞です。空所のあとは you that the pool will be closed for repairs this evening（あなたに、今晩プールが修理のため閉まるということを）です。inform A that ～ で「Aに～ということを知らせる」となります。
+ホテルの人はこれから先のこと（今晩プールが閉まること）を、今、お客さんに伝えています。regret to ＋動詞の原形 は「残念ながら～する」という意味で、これから伝える残念な知らせの前置きとしてよく使われます。We regret to inform you that ～ で「残念ながら～をお知らせします」となります。
+Bも That's OK. I wasn't planning to swim tonight.（かまいません。今夜は泳ぐつもりはなかった）と答えていて、残念な知らせを受け取った返事になっています。ですから、1が正解です。
+【ほかの選択肢】
+2 informed は inform の過去形・過去分詞です。We regret informed you という形では、regret のあとに動詞をそのまま続けることになり、文として成り立ちません。
+3 have informed も、regret のあとに have ＋過去分詞をそのまま続ける形になり、文として成り立ちません。
+4 inform は動詞の原形です。regret のあとに原形をそのまま置くことはできず、We regret inform you は正しい文になりません。
+【覚えるポイント】
+・regret to ＋動詞の原形：「残念ながら～する」。We regret to inform you that ～（残念ながら～をお知らせします）は、決まった言い方として覚えましょう。
+・regret -ing は「～したことを後悔する」で、意味が違うので注意しましょう。

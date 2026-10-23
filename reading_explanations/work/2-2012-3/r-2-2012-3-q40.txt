@@ -1,0 +1,30 @@
+---
+choices: It reduces the amount of acid in the ocean. | It can be produced in laboratories using rats. | It is not affected by the surrounding temperature. | It does not need air to become hard.
+answerText: It does not need air to become hard.
+reviewed: yes
+---
+【正解】4 It does not need air to become hard.（固まるのに空気を必要としない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ラッセル・J・スチュワートが、自分の接着剤が役に立つかもしれないと考える理由の1つは何ですか。
+1 It reduces the amount of acid in the ocean.（海の中の酸の量を減らすから。）
+2 It can be produced in laboratories using rats.（ネズミを使って研究所で作ることができるから。）
+3 It is not affected by the surrounding temperature.（まわりの温度の影響を受けないから。）
+4 It does not need air to become hard.（固まるのに空気を必要としないから。）
+【考え方】
+スチュワートさんたちが作った接着剤については第4段落に書かれています。
+1文目に Stewart and his team of scientists have now also produced an artificial glue that hardens in water.（スチュワートさんと彼のチームは、水の中で固まる人工の接着剤も作り出した）とあります。harden は「固まる」という意味です。
+第3段落の最後には、ふつうの接着剤について normal glue, which hardens as it dries out in the air（空気の中で乾くにつれて固まるふつうの接着剤）と書かれていました。ふつうの接着剤は空気の中で乾くことで固まりますが、スチュワートさんの接着剤は水の中で固まります。つまり、固まるのに空気を必要としないのです。
+第1段落には、これまで no glue has been invented that can work in the wet conditions of the human body（人間の体の中のぬれた状態で働く接着剤は発明されていない）とありました。体の中で使う接着剤には、ぬれた所でも固まることが求められていたのです。スチュワートさんの接着剤は水の中で固まるので、この点に当てはまります。また、第4段落では、この接着剤が温度が上がると固まることについて、This would make it ideal for use inside the body, where the temperature is higher than in the surrounding air.（このことで、まわりの空気よりも温度が高い体の中で使うのに理想的なものになるだろう）とも述べられています。
+本文と選択肢は次のように対応しています。
+本文 hardens in water（水の中で固まる）／ normal glue は in the air で乾いて固まる ＝ 選択肢 does not need air to become hard（固まるのに空気を必要としない）
+正解は4です。
+【ほかの選択肢】
+1 本文の acid（酸）は、サンドキャッスル・ワームの接着剤が、まわりの水の酸の量が変わると固まるという話で出てきます。スチュワートさんの接着剤が海の酸の量を減らすという話はありません。
+2 本文の rats（ネズミ）は、スチュワートさんが接着剤を試した相手として出てきます（Stewart has successfully tried it on rats）。ネズミを使って接着剤を作るという話ではありません。
+3 本文には the glue that they have created hardens when the temperature rises（彼らが作った接着剤は温度が上がると固まる）とあります。温度の影響を受けて固まるのですから、「温度の影響を受けない」は本文と反対です。
+【覚えるポイント】
+・harden：「固まる、固くなる」。hard（固い）に en が付いてできた語です。
+・unlike ～：「～とは違って」。本文では Unlike the worm's glue（その虫の接着剤とは違って）の形で使われています。

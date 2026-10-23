@@ -1,0 +1,32 @@
+---
+choices: They sent the tea samples back to him without opening them. | They asked for bigger bags to make it easier to make tea. | They used the tea leaves in the bags just as they were delivered. | They mixed different types of tea from different bags together.
+answerText: They used the tea leaves in the bags just as they were delivered.
+reviewed: yes
+---
+【正解】3 They used the tea leaves in the bags just as they were delivered.（客たちは、袋の中の茶葉を、届けられたままの状態で使った。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Why was Thomas Sullivan surprised at his customers?（トーマス・サリバンは、なぜ客たちに驚いたのですか。）
+1 They sent the tea samples back to him without opening them.（客たちは、茶の見本を開けずに彼に送り返した。）
+2 They asked for bigger bags to make it easier to make tea.（客たちは、お茶をいれやすくするために、もっと大きな袋を求めた。）
+3 They used the tea leaves in the bags just as they were delivered.（客たちは、袋の中の茶葉を、届けられたままの状態で使った。）
+4 They mixed different types of tea from different bags together.（客たちは、別々の袋に入った違う種類のお茶を混ぜ合わせた。）
+【考え方】
+まず見るところ：第1段落の He believed that ～ と To his surprise, ～
+He delivered tea leaf samples to his customers in small silk bags.（彼は、茶葉の見本を小さな絹の袋に入れて客に届けた）
+He believed that they would take the leaves out of the bags before use.（彼は、客たちが使う前に茶葉を袋から取り出すだろうと思っていた）
+サリバンは、客は茶葉を袋から出して使うものだと思っていました。
+To his surprise, the customers thought it would be more convenient to pour hot water over the tea leaves while they were still in the bag.（驚いたことに、客たちは、茶葉がまだ袋に入ったままの状態でお湯を注ぐほうが便利だろうと考えた）
+To his surprise は「彼が驚いたことに」という意味です。サリバンが驚いたのは、客たちが茶葉を袋から出さず、袋に入ったままお湯を注ぐほうが便利だと考えたことです。本文は「便利だろうと考えた」という書き方ですが、そのあとに His invention（彼の発明）とティーバッグの利点が書かれているので、客たちは実際にそのように使ったと読み取れます。
+本文 while they were still in the bag（まだ袋に入ったままの状態で）＝ 選択肢 just as they were delivered（届けられたままの状態で）
+ですから3が正解です。
+この問題の型：対比（サリバンの思いこみ⇔客の実際の使い方）／言いかえ
+【ほかの選択肢】
+1 客たちが見本を開けずに送り返したという話は、本文にありません。客たちは、袋に入ったままお湯を注ぐほうが便利だと考えています。
+2 客たちがもっと大きな袋を求めたという話は、本文にありません。第2段落にある客の不満は、絹の袋がお茶をいれるのに最適ではないということで、袋の大きさの話ではありません。
+4 違う種類のお茶を混ぜたという話は、本文にありません。
+【覚えるポイント】
+・To one's surprise：「（その人が）驚いたことに」。
+・「なぜ驚いたのか」という設問では、その前に書かれた「思っていたこと（He believed that ～）」と、実際に起きたことの違いを見ると、答えが分かることが多いです。

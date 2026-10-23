@@ -1,0 +1,32 @@
+---
+choices: people have difficulty finding a job, mainly due to companies discriminating against them. | adults tend to worry more than they should about criticism they received when they were young. | companies refuse to seriously consider workers' claims that they are feeling anxious or worried. | children are given praise too frequently, even for things that are not actually difficult to do.
+answerText: children are given praise too frequently, even for things that are not actually difficult to do.
+reviewed: yes
+---
+【正解】4 children are given praise too frequently, even for things that are not actually difficult to do.（子どもが、実際には難しくないことに対してさえ、あまりにひんぱんにほめられること。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：One possible cause of impostor syndrome is when（インポスター症候群の考えられる原因の一つは、～ときである。）
+1 people have difficulty finding a job, mainly due to companies discriminating against them.（主に会社が差別するせいで、人々が仕事を見つけるのに苦労する。）
+2 adults tend to worry more than they should about criticism they received when they were young.（大人が、若いころに受けた批判について、必要以上に心配しがちである。）
+3 companies refuse to seriously consider workers' claims that they are feeling anxious or worried.（会社が、不安や心配を感じているという働く人々の訴えを、真剣に考えようとしない。）
+4 children are given praise too frequently, even for things that are not actually difficult to do.（子どもが、実際には難しくないことに対してさえ、あまりにひんぱんにほめられる。）
+【考え方】
+まず見るところ：第2段落の For instance, when children are constantly praised, even for minor achievements, ～
+第2段落は、インポスター症候群の原因についての段落です。原因の一つとして、an individual's upbringing（その人の育てられ方）が挙げられ、その例がすぐあとに書かれています。
+For instance, when children are constantly praised, even for minor achievements, it can cause them to lose faith in their real abilities.（たとえば、子どもがささいなことを達成したときでさえ絶えずほめられていると、そのことによって、子どもが自分の本当の能力を信じられなくなることがある）
+constantly は「絶えず、いつも」、minor は「ささいな、小さな」、achievement は「なしとげたこと」という意味です。
+本文と選択肢4を対にすると、次のようになります。
+本文 children are constantly praised（子どもが絶えずほめられる）＝ 選択肢 children are given praise too frequently（子どもがあまりにひんぱんにほめられる）
+本文 even for minor achievements（ささいなことを達成したときでさえ）＝ 選択肢 even for things that are not actually difficult to do（実際には難しくないことに対してさえ）
+ですから4が正解です。
+この問題の型：言いかえ（constantly praised ＝ given praise too frequently／minor achievements ＝ things that are not actually difficult to do）
+【ほかの選択肢】
+1 本文にありません。第2段落には institutional discrimination（制度的差別）が原因の一つとして出てきますが、それは職場や学問の場で特定の人が目立ってしまう雰囲気のことです。仕事を見つけるのに苦労するという話は書かれていません。
+2 本文にありません。本文には a tendency to worry（心配しやすい傾向）という性格の特徴は出てきますが、若いころに受けた批判を心配するという話は書かれていません。また、子どものころの話として本文にあるのは、批判されることではなく、ほめられることです。
+3 本文にありません。会社が働く人々の不安の訴えを真剣に考えない、という話は出てきません。
+【覚えるポイント】
+・原因をたずねる設問では、本文の For instance（たとえば）のあとにある具体例が、選択肢で別の言葉に言いかえられていることがよくあります。
+・本文の even for ～（～に対してさえ）のような語句は、選択肢でもそのまま even for ～ の形で残っていることがあり、対応を見つける手がかりになります。

@@ -1,0 +1,33 @@
+---
+choices: sheltered | intrigued | modified | dreaded
+answerText: intrigued
+reviewed: yes
+---
+【正解】2 intrigued（興味をそそられた）
+【和訳】
+（英文）
+A: Why did you choose to major in psychology, Tara?
+B: I became ［intrigued］ by it when I took a psychology class during my first year. Every textbook I read made me want to learn more.
+（訳）
+A：ターラ、どうして心理学を専攻することにしたの？
+B：1年生のときに心理学の授業をとって、心理学に（興味をそそられた）んだ。読んだ教科書はどれも、もっと学びたいという気持ちにさせてくれたよ。
+（選択肢の意味）
+1 sheltered：守られた、保護された
+2 intrigued：興味をそそられた
+3 modified：修正された、変えられた
+4 dreaded：ひどく恐れられた
+【考え方】
+まず見るところ：Bの2つ目の文 Every textbook I read made me want to learn more.
+Aは、ターラが psychology（心理学。人の心の働きを研究する学問）を major in（専攻する）ことにした理由をたずねています。Bは、1年生のときの授業でどうなったかを答えています。
+I became (　) by it（私はそれによって〇〇になった）
+it は psychology（心理学）を指します。次の文を見ます。
+Every textbook I read made me want to learn more.（読んだ教科書のどれもが、私にもっと学びたいと思わせた）
+もっと学びたくなったのですから、心理学にとても興味を持ったと分かります。intrigue は「興味をそそる」で、be (become) intrigued by ～ で「～に興味をそそられる」となります。よって2が正解です。
+この問題の型：因果（興味をそそられた → もっと学びたくなった）
+【ほかの選択肢】
+1 sheltered は「守られた」です。「心理学に守られるようになった」では、専攻を選んだ理由にも、もっと学びたいという気持ちにもつながりません。
+3 modified は「変えられた」です。「心理学によって変えられた」だけでは、なぜ専攻にしたのかの答えにならず、次の文の「もっと学びたい」ともつながりません。
+4 dreaded は「ひどく恐れられた」です。心理学を怖がったのなら、もっと学びたくなったという次の文と反対になります。
+【覚えるポイント】
+・be intrigued by ～：「～に興味をそそられる」。major in ～：「～を専攻する」。
+・気持ちを表す空所では、そのあとの文の行動や気持ち（ここでは want to learn more）が、プラスの気持ちかマイナスの気持ちかを決める手がかりになります。

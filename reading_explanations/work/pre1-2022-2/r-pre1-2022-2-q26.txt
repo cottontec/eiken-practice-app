@@ -1,0 +1,29 @@
+---
+choices: On the other hand | In fact | Despite this | Similarly
+answerText: In fact
+reviewed: yes
+---
+【正解】2 In fact（実際、実際に）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 On the other hand（一方で、それに対して）
+2 In fact（実際、実際に）
+3 Despite this（これにもかかわらず）
+4 Similarly（同じように）
+【考え方】
+まず見るところ：第1段落の空所の前の Nabta Playa's climate is extremely dry today, but this was not always the case.
+Nabta Playa's climate is extremely dry today, but this was not always the case.（ナブタ・プラヤの気候は今日ではきわめて乾燥しているが、いつもそうだったわけではない）
+not always ～ は「いつも～というわけではない」という意味です。this was not always the case で「昔は乾燥していなかった時期もあった」ということを、まず大まかに述べています。
+空所のあとは、次のとおりです。
+heavy seasonal rainfall during the period when the circle was built led to the formation of temporary lakes（このストーンサークルが造られた時期には、季節ごとの大雨によって一時的な湖ができた）
+「大雨が降り、湖ができた」というのは、「いつも乾燥していたわけではない」ことを具体的に示す事実です。In fact は、前に述べたことを、くわしい事実で裏づけるときによく使われます。よって2が正解です。
+この問題の型：具体例とまとめ（いつも乾燥していたわけではない → 実際に大雨と湖があった）
+【ほかの選択肢】
+1 On the other hand は「一方で、それに対して」です。前の内容と反対のことを比べるときに使います。大雨の話は「いつも乾燥していたわけではない」と同じ向きの内容なので、対比にはなりません。
+3 Despite this は「これにもかかわらず」です。前に述べたことに反する内容があとに続くときに使います。大雨と湖の話は「いつも乾燥していたわけではない」に反するのではなく、それを裏づける事実なので合いません。
+4 Similarly は「同じように」です。前とは別の、似た例を付け加えるときに使います。大雨の話は別の似た例ではなく、前の文の内容をくわしく説明するものなので合いません。
+【覚えるポイント】
+・In fact：「実際（に）」。前に述べた大まかな内容を、具体的な事実で裏づけるときに使います。not always ～：「いつも～というわけではない」。
+・空所の前に「大まかな言い方」（ここでは this was not always the case）があり、あとに「くわしい事実」が続くときは、In fact が入る手がかりになります。

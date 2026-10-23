@@ -1,0 +1,28 @@
+---
+choices: be good for people's health | be a problem for relationships | improve the quality of sleep | increase the heart's speed
+answerText: be good for people's health
+reviewed: yes
+---
+【正解】1 be good for people's health（人々の健康によいものになる）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 be good for people's health（人々の健康によいものになる）
+2 be a problem for relationships（人間関係の問題になる）
+3 improve the quality of sleep（睡眠の質を高める）
+4 increase the heart's speed（心臓の〔脈打つ〕速さを上げる）
+【考え方】
+空所は第3段落の This means that stress can (23).（これは、ストレスが（23）しうるということを意味する）です。This は直前までの内容を指すので、第3段落の前半を確かめます。
+・oxytocin, a chemical produced by the body during stress, may have a positive impact on the heart（ストレスを受けている間に体が作り出す化学物質であるオキシトシンが、心臓によい影響を与えるかもしれない）
+・it also encourages the heart to relax during times of stress（ストレスを受けている間に心臓がリラックスするよう促す働きもある）
+・it can even help the heart recover from damage（心臓が損傷から回復するのを助けることさえできる）
+ストレスを受けると、体の中で心臓によい働きをする物質が作られる、という内容です。ここから「ストレスは健康によいものにもなりうる」とまとめることができます。
+be good for people's health（人々の健康によいものになる）を入れると、この流れに合います。ですから、1が正解です。
+【ほかの選択肢】
+2 「人間関係の問題になる」は、本文と反対の方向です。本文では、オキシトシンは人を more social（より社交的に、人とかかわるのを好むように）すると書かれていて、人間関係に悪い影響があるとは書かれていません。
+3 「睡眠の質を高める」は、本文に書かれていません。第3段落は心臓への影響についての話で、睡眠の話は出てきません。
+4 「心臓の速さを上げる」については、第2段落に「心臓が速く脈打つ」という話があります。しかし、空所の直前ではオキシトシンが心臓をリラックスさせ、回復を助けると書かれていて、This（これ）が指す内容は心臓の速さの話ではありません。
+【覚えるポイント】
+・This means that ～：「これは～ということを意味する」。直前の内容をまとめる言い方なので、前の文から答えを考えます。
+・have a positive impact on ～：「～によい影響を与える」。

@@ -1,0 +1,29 @@
+---
+choices: herds | lumps | gulps | sacks
+answerText: gulps
+reviewed: yes
+---
+【正解】3 gulps（ごくりと飲むこと、ひと飲み）
+【和訳】
+（英文）
+The marathon runner was so thirsty after the race that she drank a large sports drink in just a few ［gulps］ and then quickly asked for another one.
+（訳）
+そのマラソン選手はレースの後とてものどがかわいていたので、大きなスポーツドリンクをほんの数回の（ひと飲み）で飲み、それからすぐにもう1本ほしいと頼んだ。
+（選択肢の意味）
+1 herds：（動物の）群れ
+2 lumps：かたまり
+3 gulps：ごくりと飲むこと、ひと飲み
+4 sacks：袋
+【考え方】
+まず見るところ：文の前半の was so thirsty と、空所の前の drank ～ in just a few
+文は so ～ that …（とても～なので…）の形です。
+The marathon runner was so thirsty after the race that she drank a large sports drink in just a few (　)（そのマラソン選手はレースの後とてものどがかわいていたので、大きなスポーツドリンクをほんの数〇〇で飲んだ）
+とてものどがかわいていた人は、飲み物を勢いよく飲むと考えられます。in just a few (　) は「ほんの数〇〇で」なので、空所には「飲む回数」を数える語が入ります。gulp は「ごくりと飲むこと、ひと飲み」なので、in just a few gulps で「ほんの数回ごくりと飲んで」となり、3が正解です。
+この問題の型：語の意味・組み合わせ（drink ＋ gulps）
+【ほかの選択肢】
+1 herds は「（動物の）群れ」です。「ほんの数群れで飲んだ」では、飲み物を飲むようすを表せません。
+2 lumps は「かたまり」です。砂糖や土などのかたまりを数える語で、液体のスポーツドリンクを飲むようすには合いません。
+4 sacks は「袋」です。「ほんの数袋で飲んだ」となり、1本の大きなスポーツドリンクを飲むようすとは合いません。
+【覚えるポイント】
+・gulp：「ごくりと飲むこと、ひと飲み」。so ～ that …：「とても～なので…」。
+・in just a few (　) のように「ほんの数〇〇で」と回数を表す形では、前の動詞（ここでは drank）と組み合わせて意味が通る語を選ぶのが手がかりになります。

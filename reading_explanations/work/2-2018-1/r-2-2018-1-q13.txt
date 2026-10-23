@@ -1,0 +1,27 @@
+---
+choices: make | keep | do | go
+answerText: go
+reviewed: yes
+---
+【正解】4 go（go wrong で「故障する、調子が悪くなる」）
+【和訳】
+（英文）
+It seems like things often ［go］ wrong with Brad's car. Last month, one of the seatbelts broke, and then the horn stopped working. Yesterday, the car's battery died.
+（訳）
+ブラッドの車は、よく（故障する）ようです。先月はシートベルトの1つが壊れ、そのあとクラクションが鳴らなくなりました。昨日は、車のバッテリーが上がって（使えなくなって）しまいました。
+（選択肢の意味）
+1 make：～を作る、～させる
+2 keep：～のままにしておく
+3 do：～をする
+4 go：行く（go wrong で「故障する、うまくいかなくなる」）
+【考え方】
+空所のあとに wrong（具合の悪い、まちがった）があることに注目します。things often (　) wrong with Brad's car で「ブラッドの車は、よくいろいろなことが（　）wrong になる」という意味です。
+2文目以降に、シートベルトが壊れた、クラクションが鳴らなくなった、バッテリーが上がった（died）と、車の故障が次々に書かれています。
+go wrong は「（機械などが）故障する、（物事が）うまくいかなくなる」という決まった言い方です。go には「（よくない状態に）なる」という意味があります。things go wrong with ～ で「～の調子が悪くなる」となり、続く故障の例とつながります。よって4が正解です。
+【ほかの選択肢】
+1 make は「～を作る、～させる」です。make ＋ wrong では、主語の things（物事）が故障するという意味にはなりません。
+2 keep は「～のままでいる、～し続ける」です。keep wrong という言い方はふつうせず、「次々に故障が起こる」という意味を表せません。
+3 do は「～をする」です。do wrong は「悪いことをする」という意味で、人が主語のときに使います。車の故障の話には合いません。
+【覚えるポイント】
+・go wrong (with ～)：「（～が）故障する、うまくいかなくなる」。
+・die：人や生き物だけでなく、電池などが「切れる、動かなくなる」ときにも使います。

@@ -1,0 +1,28 @@
+---
+choices: incredible | artificial | innocent | arrogant
+answerText: incredible
+reviewed: yes
+---
+【正解】1 incredible（信じられないほどの、すばらしい）
+【和訳】
+（英文）
+My mother has an ［incredible］ memory. She can easily remember phone numbers after hearing them just once.
+（訳）
+私の母は（信じられないほどすばらしい）記憶力を持っています。電話番号を、たった一度聞いただけで簡単に覚えることができるのです。
+（選択肢の意味）
+1 incredible：信じられないほどの、すばらしい
+2 artificial：人工の、人が作った
+3 innocent：罪のない、無邪気な
+4 arrogant：いばった、偉そうな
+【考え方】
+空所は memory（記憶力）を説明する語です。どんな記憶力なのかは、あとの文で説明されています。
+She can easily remember phone numbers after hearing them just once.（彼女は電話番号を、たった一度聞いただけで簡単に覚えることができる）
+just once（たった一度）、easily（簡単に）とあるので、母の記憶力はふつうの人よりずっとすぐれていることが分かります。incredible は「信じられないほどの、すばらしい」という意味なので、an incredible memory で「信じられないほどすばらしい記憶力」となり、あとの文とつながります。1が正解です。
+なお、空所の前は an ですが、4つの選択肢はどれも母音（ア・イ・ウ・エ・オに近い音）で始まるので、an からは答えを決められません。意味で選ぶ問題です。
+【ほかの選択肢】
+2 artificial は「人工の、人が作った」です。「母は人工の記憶力を持っている」となり、人の記憶力の説明として意味が通りません。
+3 innocent は「罪のない、無邪気な」です。人の性格などに使う語で、「無邪気な記憶力」では電話番号をすぐ覚えられるという説明とつながりません。
+4 arrogant は「いばった、偉そうな」です。人の態度を表す語で、「いばった記憶力」では意味が通りません。
+【覚えるポイント】
+・incredible：「信じられないほどの、すばらしい」。credible（信じられる）に in-（～でない）が付いた形です。
+・have a good memory のように、memory は「記憶力」の意味で have と一緒によく使われます。

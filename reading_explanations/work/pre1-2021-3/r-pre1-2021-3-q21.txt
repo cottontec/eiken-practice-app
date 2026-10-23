@@ -1,0 +1,31 @@
+---
+choices: capacity | novelty | bait | chunk
+answerText: capacity
+reviewed: yes
+---
+【正解】1 capacity（能力）
+【和訳】
+（英文）
+After Bill began university, he quickly realized that he did not have the ［capacity］ to study advanced math, so he changed his major to geography.
+（訳）
+ビルは大学に入った後、自分には高度な数学を学ぶ（能力）がないとすぐに気づいたので、専攻を地理学に変えた。
+（選択肢の意味）
+1 capacity：能力、（入れられる）量
+2 novelty：目新しさ
+3 bait：（魚などをつる）えさ
+4 chunk：（大きな）かたまり
+【考え方】
+まず見るところ：空所の前の he did not have the と、後ろの to study advanced math, so he changed his major
+ビルが気づいたことは、次の部分です。
+he did not have the (　) to study advanced math（彼には、高度な数学を学ぶ〇〇がなかった）
+そして so のあとに、その結果が書かれています。
+so he changed his major to geography（だから、彼は専攻を地理学に変えた）
+major は「専攻（大学で中心に学ぶ分野）」です。数学をやめて地理学に変えたのですから、数学を学ぶ力が足りないと気づいたと考えられます。have the capacity to ～ で「～する能力がある」となるので、1が正解です。
+この問題の型：因果（能力がない → so 専攻を変えた）
+【ほかの選択肢】
+2 novelty は「目新しさ」です。「高度な数学を学ぶ目新しさがなかった」では、専攻を変えた理由として意味が通りません。
+3 bait は「えさ」です。「数学を学ぶえさがなかった」となり、意味が通りません。
+4 chunk は「かたまり」です。「数学を学ぶかたまりがなかった」となり、意味が通りません。
+【覚えるポイント】
+・have the capacity to ～：「～する能力がある」。major：「専攻」。advanced：「高度な、上級の」。
+・not have the (　) to ～ のあとに so ～ changed（だから変えた）が続くときは、「～する力・能力」を表す語が入る手がかりになります。

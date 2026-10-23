@@ -1,0 +1,28 @@
+---
+choices: plain | due | solid | wise
+answerText: due
+reviewed: yes
+---
+【正解】2 due（〔提出や支払いの〕期限が来て、期限である）
+【和訳】
+（英文）
+A: Theresa, do you know when our history reports are ［due］?
+B: Yeah. Mr. Maples said we have to hand them in by Friday.
+（訳）
+A：テレサ、歴史のレポートの提出期限がいつか知ってる？
+B：うん。メイプルズ先生が、金曜日までに提出しなければならないと言っていたよ。
+（選択肢の意味）
+1 plain：飾りのない、分かりやすい
+2 due：（提出の）期限である
+3 solid：かたい、しっかりした
+4 wise：賢い
+【考え方】
+Bの答えに注目します。Mr. Maples said we have to hand them in by Friday.（メイプルズ先生が、金曜日までにそれらを提出しなければならないと言っていた）とあります。hand ～ in は「～を提出する」、by Friday は「金曜日までに」です。them は Aの言う our history reports（私たちの歴史のレポート）を指しています。
+Bは「いつまでに出すか」を答えているので、Aは「レポートの期限はいつか」をたずねていたと考えられます。due は「（提出や支払いの）期限が来て」という意味で、when our history reports are due で「歴史のレポートの期限がいつか」となります。Bの答えとぴったり合うので、2が正解です。
+【ほかの選択肢】
+1 plain は「飾りのない、分かりやすい」です。「レポートがいつ飾りのないものになるか」となり、金曜日までに提出するという答えと合いません。
+3 solid は「かたい、しっかりした」です。「レポートがいつかたいか」となり、意味が通りません。
+4 wise は「賢い」です。「レポートがいつ賢いか」となり、意味が通りません。
+【覚えるポイント】
+・be due：「（提出・支払いなどの）期限である」。The report is due on Friday.（レポートは金曜日が期限です）のように使います。
+・hand ～ in：「～を提出する」。

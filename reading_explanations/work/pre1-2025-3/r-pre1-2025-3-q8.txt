@@ -1,0 +1,32 @@
+---
+choices: reprimand | anatomy | esteem | distress
+answerText: anatomy
+reviewed: yes
+---
+【正解】2 anatomy（解剖学、体の構造）
+【和訳】
+（英文）
+Medical students spend a lot of time studying human ［anatomy］. They must memorize the terms for even the smallest parts of the body.
+（訳）
+医学生は、人体の（構造）を学ぶのに多くの時間を費やす。彼らは、体の最も小さな部分を表す用語でさえ覚えなければならない。
+（選択肢の意味）
+1 reprimand：叱責（きびしくしかること）
+2 anatomy：解剖学、体の構造
+3 esteem：尊敬、高い評価
+4 distress：苦痛、悩み
+【考え方】
+まず見るところ：次の文の the terms for even the smallest parts of the body
+空所のある文は、次のとおりです。
+Medical students spend a lot of time studying human (　).（医学生は、人間の（　）を学ぶのに多くの時間を費やす）
+空所には、医学生が時間をかけて学ぶものが入ります。
+次の文で、その中身が説明されています。
+They must memorize the terms for even the smallest parts of the body.（彼らは、体の最も小さな部分を表す用語でさえ覚えなければならない）
+term は「用語」、memorize は「暗記する」です。体の部分の名前を細かく覚えるのですから、学んでいるのは体のつくりだと分かります。anatomy は「解剖学（体のつくりを調べる学問）、体の構造」という意味なので、2が正解です。
+この問題の型：具体例とまとめ（体の部分の用語を覚える → 体の構造を学ぶ）
+【ほかの選択肢】
+1 reprimand は「叱責（きびしくしかること）」です。「人間の叱責を学ぶ」となり、医学生が学ぶ内容として意味が通りません。
+3 esteem は「尊敬、高い評価」です。「人間の尊敬を学ぶ」では、次の文の「体の部分の用語を覚える」とつながりません。
+4 distress は「苦痛、悩み」です。人間の苦痛を学ぶ、としても、次の文の「体の最も小さな部分の用語を覚える」という説明には合いません。
+【覚えるポイント】
+・anatomy：「解剖学、体の構造」。human anatomy で「人体の構造、人体解剖学」。
+・空所の次の文が the smallest parts of the body（体の最も小さな部分）のように具体的な中身を説明しているときは、それをまとめた語が空所に入る手がかりになります。

@@ -1,0 +1,27 @@
+---
+choices: instructions | campaigns | lifestyles | stocks
+answerText: instructions
+reviewed: yes
+---
+【正解】1 instructions（説明書、指示）
+【和訳】
+（英文）
+Rachel bought a new bookshelf yesterday. When she got home, she read the ［instructions］ carefully so that she would not make any mistakes while putting it together.
+（訳）
+レイチェルはきのう、新しい本棚を買いました。家に帰ると、組み立てている間にまちがいをしないように、彼女は（説明書）を注意深く読みました。
+（選択肢の意味）
+1 instructions：説明書、指示
+2 campaigns：（社会的な）運動、キャンペーン
+3 lifestyles：生活様式、暮らし方
+4 stocks：在庫、株
+【考え方】
+まず、レイチェルが新しい本棚を買ったことを確かめます。
+空所のあとに so that she would not make any mistakes while putting it together とあります。so that ～ は「～するように」という目的を表す言い方です。put ～ together は「～を組み立てる」という意味で、it は買った本棚を指します。つまり「本棚を組み立てている間にまちがいをしないように」という意味です。
+組み立てでまちがえないために注意深く読むものは、組み立て方が書かれたものです。instructions は「説明書、指示」という意味なので、read the instructions carefully で「説明書を注意深く読んだ」となります。1が正解です。
+【ほかの選択肢】
+2 campaigns は「（社会的な）運動、キャンペーン」です。本棚を組み立てるために読むものではありません。
+3 lifestyles は「生活様式、暮らし方」です。「暮らし方を注意深く読んだ」となり、意味が通りません。
+4 stocks は「在庫、株」です。組み立て方のまちがいを防ぐことにはつながりません。
+【覚えるポイント】
+・instructions：「説明書、指示」。この意味では、ふつう複数形の instructions で使います。
+・put ～ together：「～を組み立てる」。

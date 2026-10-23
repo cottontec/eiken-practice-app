@@ -1,0 +1,33 @@
+---
+choices: fragments | diagrams | monarchs | novelties
+answerText: fragments
+reviewed: yes
+---
+【正解】1 fragments（破片、かけら）
+【和訳】
+（英文）
+When Horst dropped his plate on the floor, it broke into many small ［fragments］. He cleaned them all up carefully so that he would not step on one and hurt his foot.
+（訳）
+ホルストが皿を床に落とすと、皿は割れて、たくさんの小さな（破片）になった。彼は、その1つをふんで足をけがしないように、それらを全部ていねいに片づけた。
+（選択肢の意味）
+1 fragments：破片、かけら
+2 diagrams：図、図表
+3 monarchs：君主、国王
+4 novelties：目新しいもの、珍しい品
+【考え方】
+まず見るところ：空所の前の broke into many small と、後半の文の step on one and hurt his foot
+空所のある部分は、次のようになっています。
+it broke into many small (　)（皿は割れて、たくさんの小さな（　）になった）
+it は his plate（彼の皿）を指します。break into ～ は「割れて～になる」です。皿が割れるとできるものが入ります。
+後半の文も見ます。
+He cleaned them all up carefully so that he would not step on one and hurt his foot.（彼は、その1つをふんで足をけがしないように、それらを全部ていねいに片づけた）
+them（それら）と one（その1つ）は、空所の語を指しています。ふむと足をけがするものなので、割れた皿のかけらだと分かります。
+fragment は「破片、かけら」なので、1が正解です。
+この問題の型：指示語（them・one ＝ 皿の破片）／語の意味・組み合わせ（break into fragments）
+【ほかの選択肢】
+2 diagram は「図、図表」です。「皿が割れて小さな図になった」となり、意味が通りません。
+3 monarch は「君主、国王」です。「皿が割れて小さな国王になった」となり、意味が通りません。
+4 novelty は「目新しいもの、珍しい品」です。皿が割れてできるものではなく、ふむとけがをするという後半の文にも合いません。
+【覚えるポイント】
+・break into fragments：「割れて破片になる」。
+・後ろの文の them や one（それら、その1つ）が空所の語を指しているときは、その文に答えの語を当てはめて意味が通るか確かめるのが手がかりになります。

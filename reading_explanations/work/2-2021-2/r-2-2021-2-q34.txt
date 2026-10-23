@@ -1,0 +1,33 @@
+---
+choices: Changes in technology have made it easy and cheap to do so. | The metals needed for manufacturing goods cannot be found on land. | There is more demand for certain kinds of metals which are hard to find. | They cannot dig any deeper into the ground to find rare metals.
+answerText: There is more demand for certain kinds of metals which are hard to find.
+reviewed: yes
+---
+【正解】3 There is more demand for certain kinds of metals which are hard to find.（見つけるのが難しい、ある種の金属の需要が（前より）高まっている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：なぜ、より多くの会社が海から金属を手に入れる方法を探しているのですか。
+1 Changes in technology have made it easy and cheap to do so.（技術の変化によって、それが簡単で安くできるようになったから。）
+2 The metals needed for manufacturing goods cannot be found on land.（製品を作るのに必要な金属が、陸上では見つからないから。）
+3 There is more demand for certain kinds of metals which are hard to find.（見つけるのが難しい、ある種の金属の需要が（前より）高まっているから。）
+4 They cannot dig any deeper into the ground to find rare metals.（希少な金属を見つけるために、地中をこれ以上深く掘ることができないから。）
+【考え方】
+第1段落の最後に For these reasons, mining companies are now looking for metals under the sea.（こうした理由から、採掘会社は今、海の下で金属を探している）とあります。these reasons（こうした理由）は、その前に書かれた内容を指すので、第1段落の前半を順に確かめます。
+・there is a constant need for metals（金属は絶えず必要とされている）
+・Changes in technology have further increased this demand.（技術の変化によって、この需要はさらに高まった）
+・computers and smartphones require rare metals such as gold（コンピューターやスマートフォンには、金のような希少な金属が必要だ）
+・The amount of metal available on land, however, is limited.（しかし、陸上で手に入る金属の量には限りがある）
+demand は「需要（必要とされる量）」、rare は「希少な、めったに手に入らない」という意味です。
+本文と選択肢を対にすると、次のようになります。
+本文 have further increased this demand ＝ 選択肢 There is more demand
+本文 rare metals such as gold ＝ 選択肢 certain kinds of metals which are hard to find
+「需要がさらに高まった」が「（前より）需要が多い」に、「金のような希少な金属」が「見つけるのが難しい、ある種の金属」に言いかえられています。ですから3が正解です。
+【ほかの選択肢】
+1 本文で技術の変化がしたことは、金属の需要をさらに高めたことです。海から金属を取るのが簡単で安くなったとは書かれていません。それどころか、第4段落には The technology to mine close to the vents now exists, but it is still very expensive.（噴出孔の近くで採掘する技術は今では存在するが、まだとても費用がかかる）とあります。
+2 本文には The amount of metal available on land, however, is limited.（陸上で手に入る金属の量には限りがある）とあります。量に限りがあるというだけで、陸上ではまったく見つからないとは書かれていません。言い切りすぎです。
+4 本文には It is expensive for mining companies to dig deep into the ground to find metals.（金属を見つけるために地中深くまで掘るのはお金がかかる）とあります。お金がかかるということで、これ以上深く掘れないとは書かれていません。
+【覚えるポイント】
+・demand：「需要（必要とされる量）」。demand for ～ で「～の需要」。
+・For these reasons：「こうした理由から」。these が指す前の内容に、答えの根拠があります。

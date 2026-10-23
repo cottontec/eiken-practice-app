@@ -1,0 +1,28 @@
+---
+choices: to have lied | have lied | had lied | having lied
+answerText: having lied
+reviewed: yes
+---
+【正解】4 having lied（うそをついたこと）
+【和訳】
+（英文）
+Brenda felt bad about ［having lied］ to her mother last night, so she promised herself that she would always tell the truth in the future.
+（訳）
+ブレンダは昨夜母親にうそをついたことを悪かったと思ったので、これからはいつも本当のことを言おうと、自分自身に誓いました。
+（選択肢の意味）
+1 to have lied：うそをついたこと（to不定詞の完了形）
+2 have lied：うそをついた（現在完了の形）
+3 had lied：（それより前に）うそをついていた（過去完了の形）
+4 having lied：うそをついたこと（動名詞の完了形）
+【考え方】
+空所の前の feel bad about ～（～のことで悪かったと思う）の about に注目します。about は前置詞（名詞の前に置いて、場所・時・関係などを表す語）です。前置詞のあとに動詞を置くときは、～ing の形（動名詞：動詞に ing を付けて「～すること」という名詞の働きをさせた形）にします。
+次に時の関係を考えます。ブレンダが「悪かった」と思ったのは、last night（昨夜）うそをついたあとのことです。うそをついたのは、悪かったと感じた（felt bad）ときよりも前の出来事です。このように、文の動詞が表す時よりも前のことを動名詞で表すときは、having ＋ 過去分詞 の形を使うことができます。
+having lied で「うそをついたこと」となり、felt bad about having lied で「うそをついたことを悪かったと思った」となります。正解は4です。
+なお、lying（うそをつくこと）の形でも意味は通じますが、選択肢にはありません。
+【ほかの選択肢】
+1 to have lied は to不定詞（to ＋ 動詞の元の形）の完了形です。前置詞 about のあとに to不定詞を置くことはできません。
+2 have lied は現在完了の形で、主語の後ろに置いて文の動詞として使う形です。前置詞 about のすぐあとに置くことはできません。
+3 had lied も過去完了の形で、文の動詞として使う形です。about のあとに主語なしで置くことはできません。
+【覚えるポイント】
+・前置詞（about、of、for など）のあとに動詞を置くときは、～ing の形（動名詞）にします。
+・having ＋ 過去分詞：文の動詞が表す時よりも前のことを「～したこと」と表す動名詞の形です。

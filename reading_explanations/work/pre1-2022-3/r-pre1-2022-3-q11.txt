@@ -1,0 +1,29 @@
+---
+choices: deprived | revived | obstructed | agitated
+answerText: revived
+reviewed: yes
+---
+【正解】2 revived（復活させられた、よみがえった）
+【和訳】
+（英文）
+The plan for a new library was put on hold because of a lack of funds. A few years later, however, the plan was ［revived］, and construction work started.
+（訳）
+新しい図書館の計画は、資金不足のために保留になりました。しかし数年後、その計画は（復活し）、建設工事が始まりました。
+（選択肢の意味）
+1 deprived：奪われた
+2 revived：復活させられた、よみがえった
+3 obstructed：妨げられた、じゃまされた
+4 agitated：（心を）かき乱された、動揺させられた
+【考え方】
+まず見るところ：最初の文の was put on hold と、空所の文の however と construction work started
+最初の文では、計画が止まったことが書かれています。
+The plan for a new library was put on hold because of a lack of funds.（新しい図書館の計画は、資金不足のために保留になった）
+put ～ on hold は「～を保留にする（いったん止めておく）」です。空所の文は however（しかし）があるので、前とは反対の流れになります。そして文の最後に and construction work started（そして建設工事が始まった）とあります。止まっていた計画がまた動き出したのですから、revived（復活させられた）が合います。2が正解です。
+この問題の型：対比（保留になった⇔however のあと工事が始まった）
+【ほかの選択肢】
+1 deprived は「奪われた」です。「その計画は奪われ、建設工事が始まった」となり、意味がつながりません。
+3 obstructed は「妨げられた」です。「その計画は妨げられ、建設工事が始まった」となり、後半の「工事が始まった」とつながりません。また、however（しかし）があるので、前の「保留になった」と同じような悪い流れは続きません。
+4 agitated は「動揺させられた」で、ふつう人の気持ちについて使う語です。「その計画は動揺させられた」となり、意味が通りません。
+【覚えるポイント】
+・revive：「復活させる、よみがえらせる」。re-（再び）がついて「再び生き返らせる」という意味になっています。
+・put ～ on hold：「～を保留にする」。however（しかし）のあとでは前と反対の流れになるので、「止まった」の反対である「再び動き出す」という意味の語が入る手がかりになります。

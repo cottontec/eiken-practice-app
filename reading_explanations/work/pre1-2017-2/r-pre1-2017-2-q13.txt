@@ -1,0 +1,33 @@
+---
+choices: rotating | fostering | wounding | disrupting
+answerText: disrupting
+reviewed: yes
+---
+【正解】4 disrupting（（物事の進行を）妨げること、混乱させること）
+【和訳】
+（英文）
+The protesters were removed from the city hall building for ［disrupting］ the event. They had been shouting so loudly that no one could hear the speeches.
+（訳）
+抗議していた人々は、その催しを（妨害した）ために、市役所の建物から退出させられた。彼らはあまりにも大きな声で叫び続けていたので、だれも演説を聞くことができなかった。
+（選択肢の意味）
+1 rotating：回転させること、交代させること
+2 fostering：育てること、促進すること
+3 wounding：傷つけること、けがをさせること
+4 disrupting：（物事の進行を）妨げること、混乱させること
+【考え方】
+まず見るところ：あとの文の They had been shouting so loudly that no one could hear the speeches.
+最初に、空所の前の for を確かめます。
+were removed from the city hall building for ( ) the event（その催しを（　）したために、市役所の建物から退出させられた）
+ここでの for ～ing は「～したために」と理由を表しています。protesters は「抗議する人々（反対の意見を訴える人々）」です。
+次に、あとの文を見ます。
+They had been shouting so loudly that no one could hear the speeches.（彼らはあまりにも大きな声で叫び続けていたので、だれも演説を聞くことができなかった）
+had been shouting は、退出させられる前まで「ずっと叫び続けていた」ことを表します。大声のせいで演説が聞こえず、催しがきちんと進まなかったことが分かります。
+disrupt は「（物事の進行を）妨げる、混乱させる」という意味です。「催しを妨害したので退出させられた」となるので、4が正解です。
+この問題の型：因果（大声で叫ぶ→演説が聞こえない→退出させられる）／文法（理由を表す for ～ing）
+【ほかの選択肢】
+1 rotating は「回転させること、（役割などを）交代させること」です。「催しを回転させたために」では意味が通りません。
+2 fostering は「育てること、促進すること（物事が進むよう助けること）」です。催しを盛り上げた人が退出させられることはないので、話が逆になります。
+3 wounding は「（体に）傷を負わせること、けがをさせること」です。あとの文は大声で叫んでいた話で、だれかにけがをさせたとは書かれていません。また、「催しにけがをさせる」という言い方も不自然です。
+【覚えるポイント】
+・disrupt：「（物事の進行を）妨げる、混乱させる」。
+・be removed for ～ing（～したために退出させられる）のように for ～ing が理由を表すときは、あとの文に書かれた「何をしたか」が、空所の動詞の手がかりになります。

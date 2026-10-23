@@ -1,0 +1,30 @@
+---
+choices: the U.S. Navy began using whales to explore the ocean. | an environmental group discovered a new kind of whale. | some whales died because of sonar used by the U.S. Navy. | a new sonar system was used to find some lost whales.
+answerText: some whales died because of sonar used by the U.S. Navy.
+reviewed: yes
+---
+【正解】3 some whales died because of sonar used by the U.S. Navy.（アメリカ海軍が使ったソナーのせいで、何頭かのクジラが死んだ。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：2000年にバハマ諸島で、
+1 the U.S. Navy began using whales to explore the ocean.（アメリカ海軍が、海を探検するためにクジラを使い始めた。）
+2 an environmental group discovered a new kind of whale.（ある環境保護団体が、新しい種類のクジラを発見した。）
+3 some whales died because of sonar used by the U.S. Navy.（アメリカ海軍が使ったソナーのせいで、何頭かのクジラが死んだ。）
+4 a new sonar system was used to find some lost whales.（迷子になったクジラを見つけるために、新しいソナーの仕組みが使われた。）
+【考え方】
+設問の In the Bahamas in 2000 と同じ語句を本文で探すと、第1段落の初めに One day in 2000, something strange happened in the islands of the Bahamas in the Caribbean.（2000年のある日、カリブ海のバハマ諸島で奇妙なことが起こった）とあります。
+そのあとを読むと、A number of whales landed on the beaches. Although some were saved, six of them died.（何頭ものクジラが浜辺に打ち上げられた。何頭かは救われたが、そのうち6頭が死んだ）とあります。
+さらに Later, the United States government found that the cause was the U.S. Navy's use of sonar.（のちに、アメリカ政府は、その原因がアメリカ海軍によるソナーの使用だったことを突き止めた）と続きます。sonar（ソナー）は、音波を海に送って水中の物体を見つける仕組みだと、次の文で説明されています。
+本文と選択肢は次のように対応しています。
+本文 six of them died（そのうち6頭が死んだ）＝ 選択肢 some whales died（何頭かのクジラが死んだ）
+本文 the cause was the U.S. Navy's use of sonar（原因はアメリカ海軍によるソナーの使用だった）＝ 選択肢 because of sonar used by the U.S. Navy（アメリカ海軍が使ったソナーのせいで）
+正解は3です。
+【ほかの選択肢】
+1 アメリカ海軍が使ったのはソナーで、クジラを使って海を探検したという話は本文にありません。
+2 本文で環境保護団体が出てくるのは、today environmental groups are fighting to limit the use of sonar（今日、環境保護団体がソナーの使用を制限しようと闘っている）という部分だけです。新しい種類のクジラを発見したという話はありません。
+4 ソナーはクジラが死んだ原因として書かれています。迷子のクジラを見つけるためにソナーが使われたという話は本文にありません。
+【覚えるポイント】
+・the cause was ～：「原因は～だった」。選択肢では because of ～（～のせいで）と言いかえられています。
+・a number of ～：「いくつもの～、何頭もの～」。

@@ -1,0 +1,33 @@
+---
+choices: It is likely to replace a number of current projects that focus primarily on generating electricity using solar and wind power. | The environmental damage it would cause is serious enough that the proposed methods will have to be altered to some degree. | The current push to find sources of alternative energy will likely contribute to making the project a reality. | Although it might be beneficial to local communities, the planners will need to find a way to significantly lower construction costs.
+answerText: The current push to find sources of alternative energy will likely contribute to making the project a reality.
+reviewed: yes
+---
+【正解】3 The current push to find sources of alternative energy will likely contribute to making the project a reality.（代替エネルギー源を見つけようとする現在の動きが、この計画の実現を後押しすることになりそうだ。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What conclusion does the author of the passage come to concerning the future of the Hoover Dam project?（この文章の筆者は、フーバーダムの計画の将来について、どんな結論に達しているか。）
+1 It is likely to replace a number of current projects that focus primarily on generating electricity using solar and wind power.（太陽光と風力を使った発電におもに力を入れている、現在のいくつもの計画に取って代わりそうだ。）
+2 The environmental damage it would cause is serious enough that the proposed methods will have to be altered to some degree.（この計画が引き起こす環境への被害はとても深刻なので、提案された方法をある程度変えなければならなくなるだろう。）
+3 The current push to find sources of alternative energy will likely contribute to making the project a reality.（代替エネルギー源を見つけようとする現在の動きが、この計画の実現を後押しすることになりそうだ。）
+4 Although it might be beneficial to local communities, the planners will need to find a way to significantly lower construction costs.（地域社会にとっては有益かもしれないが、計画を立てる人たちは、建設費用を大きく下げる方法を見つける必要があるだろう。）
+【考え方】
+まず見るところ：第4段落の With the urgent need to secure energy sources that can replace fossil fuels, however, ～ seems sure to intensify.
+第4段落の前半には、計画への反対意見が書かれています。下流の地域社会は観光などの仕事を心配し、環境保護の活動家は野生生物や湿地への影響を心配しています。
+そのあとに however（しかし）があり、筆者の見通しが続きます。
+With the urgent need to secure energy sources that can replace fossil fuels, however, the pressure to use hydropower to supplement solar and wind power sources seems sure to intensify.（しかし、化石燃料に代わるエネルギー源を確保することが急いで求められている中で、太陽光と風力の電源を補うために水力発電を使おうという圧力は、強まることが確実だと思われる）
+最後の文では、すべてが予定どおりに進めば2028年までに完成するかもしれない、と述べています。反対はあっても、代わりのエネルギーを求める流れが計画を前に進めるだろう、というのが筆者の結論です。
+本文と選択肢3を対にすると、次のようになります。
+本文 the urgent need to secure energy sources that can replace fossil fuels（化石燃料に代わるエネルギー源を確保する急ぎの必要）→ 選択肢 The current push to find sources of alternative energy（代替エネルギー源を見つけようとする現在の動き）
+本文 the pressure to use hydropower ～ seems sure to intensify（水力発電を使おうという圧力は強まることが確実だと思われる）→ 選択肢 will likely contribute to making the project a reality（計画の実現を後押しすることになりそうだ）
+よって3が正解です。
+この問題の型：対比（反対意見⇔however：圧力は強まる）／推論（圧力が強まる→計画の実現に役立つ）
+【ほかの選択肢】
+1 本文と合いません。本文は、水力発電を使って太陽光と風力の電源を supplement（補う）と述べています。太陽光や風力の計画に取って代わるのではなく、組み合わせて使う計画です。
+2 言い切りすぎです。本文には、環境保護の活動家が野生生物や湿地への影響に concern（懸念）を示しているとありますが、筆者が「被害が深刻なので方法を変えなければならない」と結論づけてはいません。
+4 本文にない内容です。地域社会については、下流の地域が観光などの仕事が危うくなることを心配していると書かれているだけで、「有益かもしれない」とは述べられていません。また、建設費用を大きく下げる必要があるという話もありません。
+【覚えるポイント】
+・supplement：「補う、付け足す」。replace（取って代わる）とは意味が違うので注意します。
+・筆者の結論をたずねる設問では、最後の段落の反対意見のあとに来る however（しかし）の文が筆者の見通しを表していることが多いので、その文の seems sure to ～（～するのは確実だと思われる）のような言い方を手がかりにします。

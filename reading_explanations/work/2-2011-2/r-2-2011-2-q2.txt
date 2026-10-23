@@ -1,0 +1,25 @@
+---
+choices: attempt | claim | argue | hesitate
+answerText: hesitate
+reviewed: yes
+---
+【正解】4 hesitate（ためらう、遠慮する）
+【和訳】
+A：いろいろと手伝ってくれて、本当にありがとう。
+B：どういたしまして。ほかに何か必要なことがあれば、遠慮しないでまた電話してください。
+（選択肢の意味）
+1 attempt：試みる、やってみる
+2 claim：主張する
+3 argue：言い争う、論じる
+4 hesitate：ためらう、遠慮する
+【考え方】
+Aは Thank you so much for all your help.（いろいろ手伝ってくれて本当にありがとう）とお礼を言っています。Bは It was my pleasure.（どういたしまして、喜んでしたことです）と答えています。
+そのあとBは If you need anything else, please don't (　) to call me again.（ほかに何か必要なら、また電話するのを〜しないでください）と続けます。
+お礼に対して「喜んで手伝った」と言ったあとなので、Bは「また気軽に頼んでね」と言いたいのだと分かります。don't hesitate to ～ は「～するのをためらわないで、遠慮なく～して」という決まった言い方です。please don't hesitate to call me again で「遠慮なくまた電話してください」となり、自然な流れになります。正解は4です。
+【ほかの選択肢】
+1 attempt は「試みる」です。please don't attempt to call me again は「もう私に電話しようとしないでください」という意味になり、「喜んで手伝った」というBの言葉と反対の内容になってしまいます。
+2 claim は「主張する」です。「また電話すると主張しないで」のような意味になり、会話の流れに合いません。
+3 argue は「言い争う、論じる」です。「電話することを言い争わないで」のようになり、意味が通りません。
+【覚えるポイント】
+・Please don't hesitate to ～.：「遠慮なく～してください」。
+・It was my pleasure.：「どういたしまして（喜んでしたことです）」。お礼への返事です。

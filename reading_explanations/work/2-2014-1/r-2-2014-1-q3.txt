@@ -1,0 +1,28 @@
+---
+choices: renovations | relatives | ingredients | institutions
+answerText: relatives
+reviewed: yes
+---
+【正解】2 relatives（親戚）
+【和訳】
+（英文）
+A: Were you born here in Canada, George?
+B: No, actually my family came here from France when I was three. Most of my ［relatives］ still live there.
+（訳）
+A：ジョージ、あなたはここカナダで生まれたの？
+B：いや、実は私が3歳のときに、家族でフランスからここに来たんだ。親戚のほとんどは、今でもフランスに住んでいるよ。
+（選択肢の意味）
+1 renovations：改装、修理
+2 relatives：親戚
+3 ingredients：（料理の）材料
+4 institutions：機関、施設
+【考え方】
+空所の文は Most of my (　) still live there.（私の（　）のほとんどは、今でもそこに住んでいる）です。there は前の文の France（フランス）を指しています。
+live（住む）の主語になるのは、ふつう人や動物です。Bは「3歳のときに家族でフランスからカナダに来た」と言っているので、フランスに残っている人たち、つまり親戚の話をしていると考えられます。relative は「親戚」という意味です。my relatives still live there で「私の親戚は今でもフランスに住んでいる」となり、話がつながります。正解は2です。
+【ほかの選択肢】
+1 renovations は「改装、修理」です。「私の改装のほとんどは今でもフランスに住んでいる」となり、意味が通りません。
+3 ingredients は「（料理の）材料」です。材料が「住んでいる」ことはないので、合いません。
+4 institutions は「（学校や病院などの）機関、施設」です。建物や組織が「住んでいる」とは言わないので、合いません。
+【覚えるポイント】
+・relative：「親戚」。ここでは複数形の relatives が使われています。
+・still：「今でも、まだ」。

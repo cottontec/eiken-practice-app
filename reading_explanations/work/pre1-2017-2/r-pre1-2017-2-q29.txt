@@ -1,0 +1,31 @@
+---
+choices: new ways of training doctors | a greater emphasis on scientific studies | increasing treatment costs | concerns about patients’ rights
+answerText: a greater emphasis on scientific studies
+reviewed: yes
+---
+【正解】2 a greater emphasis on scientific studies（科学的な研究が（以前より）重視されていること）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 new ways of training doctors（医師を育てる新しい方法）
+2 a greater emphasis on scientific studies（科学的な研究が（以前より）重視されていること）
+3 increasing treatment costs（増えていく治療費）
+4 concerns about patients’ rights（患者の権利についての心配）
+【考え方】
+まず見るところ：第1段落の空所のあとの In the past, ～ と In recent decades, however, there has been a trend toward randomized controlled experiments
+空所のある文は次のとおりです。
+Medical reversals are increasingly common today, mainly because of ( 29 ).（医療の逆転は今日ますますよく起こるようになっているが、その主な理由は（29）である）
+空所には、医療の逆転が増えている理由が入ります。その理由は、続く文で「昔」と「最近」を比べて説明されています。
+In the past, medical treatments were based on the opinions of veteran doctors whose knowledge came from observing limited numbers of patients, or on untested theories about how medicines would affect the body.（かつて、医療の治療は、限られた数の患者を観察することから知識を得たベテランの医師たちの意見や、薬が体にどのように作用するかについての、検証されていない理論に基づいていた）
+In recent decades, however, there has been a trend toward randomized controlled experiments with large numbers of participants（しかし、ここ数十年の間に、多くの参加者によるランダム化比較実験へと向かう流れが生まれている）
+untested は「検証されていない（試して確かめていない）」という意味です。昔は医師の経験や確かめていない理論に頼っていたのが、最近は多くの人で行う科学的な実験が使われるようになった、という変化です。科学的な実験で確かめるようになったので、信じられていた治療が実は効果がないと分かる例が増えた、と考えられます。
+emphasis は「重視（大切だと考えて力を入れること）」で、a greater emphasis on scientific studies は「科学的な研究が（以前より）重視されていること」です。In recent decades の流れをまとめた内容なので、2が正解です。
+この問題の型：対比（In the past 経験や理論⇔In recent decades 科学的な実験）／具体例とまとめ（ランダム化比較実験への流れ→科学的研究の重視）
+【ほかの選択肢】
+1 「医師を育てる新しい方法」は、逆転が増えている理由として書かれていません。第3段落にプラサドさんが医学部の教育課程を変えるべきだと考えているとありますが、それはこれから変えるべきだという意見で、逆転が増えている理由ではありません。
+3 「増えていく治療費」は、本文にありません。治療の費用については何も書かれていません。
+4 「患者の権利についての心配」も、本文にありません。空所のあとで説明されているのは、治療がどのような根拠に基づいているかの変化です。
+【覚えるポイント】
+・emphasis on ～：「～の重視、～に力を入れること」。a greater emphasis で「（以前より）大きな重視」。
+・空所に理由が入るとき、あとに In the past（かつて）と In recent decades, however（しかし、ここ数十年）のような昔と今の対比が続いていれば、「今」の側の変化をまとめた選択肢が手がかりになります。

@@ -1,0 +1,34 @@
+---
+choices: By successfully making the Cham people allies rather than enemies, he was able to take control of the Khmer empire. | He was able to become the king of the Khmer empire by cooperating with other leaders in the region. | After tricking the previous king into attacking an enemy kingdom, he was able to take over that region as well as his own. | He gradually strengthened the Khmer empire in order to make it powerful enough to invade and defeat the neighboring kingdom.
+answerText: He was able to become the king of the Khmer empire by cooperating with other leaders in the region.
+reviewed: yes
+---
+【正解】2 He was able to become the king of the Khmer empire by cooperating with other leaders in the region.（彼は、その地域のほかの指導者たちと協力することによって、クメール帝国の王になることができた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one thing that we learn about Jayavarman VII?（ジャヤーヴァルマン7世について分かることの一つは何か。）
+1 By successfully making the Cham people allies rather than enemies, he was able to take control of the Khmer empire.（チャム人を敵ではなく味方にすることに成功したことで、彼はクメール帝国を支配することができた。）
+2 He was able to become the king of the Khmer empire by cooperating with other leaders in the region.（彼は、その地域のほかの指導者たちと協力することによって、クメール帝国の王になることができた。）
+3 After tricking the previous king into attacking an enemy kingdom, he was able to take over that region as well as his own.（前の王をだまして敵の王国を攻撃させたあと、彼は自分の地域に加えて、その地域も手に入れることができた。）
+4 He gradually strengthened the Khmer empire in order to make it powerful enough to invade and defeat the neighboring kingdom.（彼は、隣の王国に攻めこんで打ち負かせるほど強くするために、少しずつクメール帝国を強くした。）
+【考え方】
+まず見るところ：第1段落の Jayavarman and his allies not only drove out the invaders but also managed to crush other warlords
+ジャヤーヴァルマンが王になるまでのことは、第1段落の後半に書かれています。
+After a Cham invasion defeated the Khmer empire’s previous ruler, however, Jayavarman and his allies not only drove out the invaders but also managed to crush other warlords who hoped to rule the empire themselves.（しかし、チャム人の侵攻によってクメール帝国の前の支配者が打ち負かされたあと、ジャヤーヴァルマンと彼の味方たちは、侵略者を追い出しただけでなく、自分たちで帝国を支配しようとしていたほかの武将たちを打ち破ることにも成功した）
+Jayavarman gained the throne in 1181.（ジャヤーヴァルマンは1181年に王位についた）
+allies は「味方、同盟を組んだ仲間」、drove out は「追い出した」、crush は「打ち破る」、gained the throne は「王位についた」という意味です。ジャヤーヴァルマンは一人で戦ったのではなく、味方たちといっしょに敵を倒し、そのあと王になりました。
+味方がだれだったかは、本文にくわしく書かれていません。ただ、同じ段落には、この地域では alliances of powerful local warlords（力を持つ地方の武将たちの同盟）が争っていたとあるので、味方も地域の有力者たちだったと考えるのが自然です。選択肢2の other leaders in the region は、このことを指していると考えられます。
+本文と選択肢を対にすると、次のようになります。
+本文 Jayavarman and his allies not only drove out the invaders but also managed to crush other warlords（ジャヤーヴァルマンと彼の味方たちは、侵略者を追い出し、ほかの武将たちも打ち破った）→ 読み取れること：味方と協力して王位についた → 選択肢 by cooperating with other leaders in the region（その地域のほかの指導者たちと協力することによって）
+本文 gained the throne（王位についた）→ 選択肢 become the king of the Khmer empire（クメール帝国の王になる）
+よって2が正解です。
+この問題の型：言いかえ（gained the throne → become the king）／推論（his allies と戦った→地域のほかの指導者たちと協力した）
+【ほかの選択肢】
+1 本文と内容がちがいます。チャム人は帝国に攻めこんできた侵略者で、ジャヤーヴァルマンたちは drove out the invaders（侵略者を追い出した）とあります。チャム人を味方にしたのではありません。
+3 本文にありません。前の王をだまして敵を攻撃させたという話はありません。前の支配者は、チャム人の侵攻によって打ち負かされたと書かれています。
+4 本文にありません。ジャヤーヴァルマンが隣の王国に攻めこむために帝国を強くしたという話はありません。本文にあるのは、攻めこんできたチャム人を追い出したことです。
+【覚えるポイント】
+・ally：「味方、同盟を組んだ仲間」。複数形は allies。
+・人物が「どのようにして王（リーダー）になったか」をたずねる設問では、gained the throne（王位についた）の直前に書かれた行動と、だれといっしょに行ったか（his allies など）を確かめることが手がかりになります。

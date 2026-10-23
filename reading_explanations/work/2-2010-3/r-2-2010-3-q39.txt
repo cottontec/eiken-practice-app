@@ -1,0 +1,31 @@
+---
+choices: Show which genes are shared by genetically related animals. | Provide a list of cats that have been at crime scenes around the world. | Store information about experts on genetic fingerprinting. | Identify which types of DNA are unique to humans.
+answerText: Show which genes are shared by genetically related animals.
+reviewed: yes
+---
+【正解】1 Show which genes are shared by genetically related animals.（遺伝的に近い関係にある動物どうしで、どの遺伝子が共通しているかを示す。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：新しいデータベースがすることの1つは何ですか。
+1 Show which genes are shared by genetically related animals.（遺伝的に近い関係にある動物どうしで、どの遺伝子が共通しているかを示す。）
+2 Provide a list of cats that have been at crime scenes around the world.（世界中の犯罪現場にいたことのあるネコの一覧を提供する。）
+3 Store information about experts on genetic fingerprinting.（遺伝子指紋法の専門家についての情報を保存する。）
+4 Identify which types of DNA are unique to humans.（どの種類のDNAが人間に特有なのかを見分ける。）
+【考え方】
+データベースの話は第3段落にあります。database は「データベース（たくさんの情報を整理して集めたもの）」です。
+まず The biggest difficulty with genetic fingerprinting is making sure which part of the DNA is unique.（遺伝子指紋法のいちばんの難しさは、DNAのどの部分が特有なのかを確かめることだ）とあります。
+続いて For this reason, it is important to have examples of the DNA of genetically related animals to identify which genes are shared and which are not.（このため、どの遺伝子が共通していて、どれが共通していないかを見分けるために、遺伝的に近い関係にある動物のDNAの例を持っておくことが大切だ）とあります。genetically related は「遺伝的に近い関係にある」、shared は「共通している、共有されている」です。
+そして With this in mind（このことを考えて）、FBIは動物のDNAのデータベースを作るよう科学者に頼みました。つまりデータベースは、近い関係の動物どうしでどの遺伝子が共通しているかを見分けるためのものです。
+本文と選択肢は次のように対応しています。
+本文 to identify which genes are shared（どの遺伝子が共通しているかを見分けるために）＝ 選択肢 Show which genes are shared（どの遺伝子が共通しているかを示す）
+本文 the DNA of genetically related animals（遺伝的に近い関係にある動物のDNA）＝ 選択肢 by genetically related animals（遺伝的に近い関係にある動物どうしで）
+正解は1です。
+【ほかの選択肢】
+2 チームは collect DNA from cats around the world（世界中のネコからDNAを集める）とあります。集めたのは世界中のネコのDNAで、犯罪現場にいたネコに限った話ではないので、誤りです。
+3 データベースに入っているのはネコのDNAです。専門家についての情報を集めるという話は本文にないので、誤りです。
+4 FBIが頼んだのは databases of animal DNA（動物のDNAのデータベース）で、チームが集めているのもネコのDNAです。人間に特有のDNAを見分けるという話ではないので、誤りです。
+【覚えるポイント】
+・genetically related：「遺伝的に近い関係にある」。
+・identify：「見分ける、特定する」。

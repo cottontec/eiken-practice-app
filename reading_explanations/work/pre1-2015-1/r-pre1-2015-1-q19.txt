@@ -1,0 +1,30 @@
+---
+choices: ruined | leaked | subscribed | endorsed
+answerText: leaked
+reviewed: yes
+---
+【正解】2 leaked（〔秘密が〕漏らされた）
+【和訳】
+（英文）
+Protesters gathered in front of Parliament after the government's secret plans to build more nuclear power plants were ［leaked］ to the press.
+（訳）
+原子力発電所をさらに増やして建設するという政府の秘密の計画が、報道機関に（漏らされた）あと、抗議する人々が議会の前に集まった。
+（選択肢の意味）
+1 ruin：～を台なしにする、破壊する
+2 leak：（秘密などを）漏らす
+3 subscribe：（新聞などを）定期購読する（subscribe to ～ の形で使う）
+4 endorse：～を（公に）支持する、承認する
+【考え方】
+まず見るところ：空所の前の secret plans と、空所の後ろの to the press
+主語は the government's secret plans to build more nuclear power plants（原子力発電所をさらに増やして建設するという政府の秘密の計画）です。
+空所の後ろには to the press（報道機関に）があります。the press は「新聞・テレビなどの報道機関」です。
+秘密の計画が報道機関に伝わるのは、だれかが秘密を外へ漏らしたときです。leak は「（秘密などを）漏らす」で、be leaked to ～ で「～に漏らされる」となります。ですから2が正解です。
+文の前半の Protesters gathered in front of Parliament（抗議する人々が議会の前に集まった）も、秘密の計画が人々に知られたからだと考えると、流れが自然になります。
+この問題の型：語の意味・組み合わせ（secret plans were leaked to the press）
+【ほかの選択肢】
+1 ruined（台なしにされた）を入れると、「計画が報道機関に台なしにされた」となります。計画がこわされたのなら、人々が抗議に集まる理由になりにくく、to the press ともつながりません。
+3 subscribed は、subscribe to ～（～を定期購読する）の形で人が新聞などを取るときに使います。「計画が報道機関に定期購読された」では意味が通りません。
+4 endorsed（支持された、承認された）を入れると、「秘密の計画が報道機関に支持された」となります。秘密の計画は、まだ報道機関に知られていないはずの計画です。これでは秘密がどうやって外に出たのかが分からず、人々が議会の前に集まったきっかけの説明として不自然です。
+【覚えるポイント】
+・leak：「（秘密などを）漏らす」。be leaked to the press で「報道機関に漏らされる」。
+・secret（秘密の）という語があるときは、その秘密が「どうして人々に知られたのか」を考えると、空所に入る語を決める手がかりになります。

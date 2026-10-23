@@ -1,0 +1,29 @@
+---
+choices: Design an electric car that can charge itself when parked. | Tell her about what the city of Walkerton needs the cars to do. | Send her a list of the police officers who will drive the cars. | Come to her office to learn more about electric cars.
+answerText: Tell her about what the city of Walkerton needs the cars to do.
+reviewed: yes
+---
+【正解】2 Tell her about what the city of Walkerton needs the cars to do.（ウォーカートン市が車にどんなことをさせる必要があるのかを彼女に伝える。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ウェンディ・ザッカーマンはミラーさんに何をしてほしいと思っていますか。
+1 Design an electric car that can charge itself when parked.（止めてある間に自分で充電できる電気自動車を設計する。）
+2 Tell her about what the city of Walkerton needs the cars to do.（ウォーカートン市が車にどんなことをさせる必要があるのかを彼女に伝える。）
+3 Send her a list of the police officers who will drive the cars.（車を運転する警察官の一覧を彼女に送る。）
+4 Come to her office to learn more about electric cars.（電気自動車についてもっと知るために、彼女の事務所に来る。）
+【考え方】
+ザッカーマンさんがミラーさんに頼んでいることは、メールの最後の段落の終わりに書かれています。
+I would like to come to your office to give a presentation, so please let me know when would be a convenient time.（プレゼンテーションをするために、そちらの事務所にうかがいたいので、都合のよい時を知らせてほしい）
+If you could give me detailed information about what you need the vehicles to do, I would be able to talk more about those things in our meeting.（車両にどんなことをさせる必要があるのかについて詳しい情報をもらえれば、打ち合わせのときに、そうしたことについてもっと話せるだろう）
+2つ目の文は、If you could ～（もし～していただければ）という、ていねいにお願いする言い方です。ザッカーマンさんは、市が車にどんな仕事をさせたいのかを教えてほしいと頼んでいます。本文と選択肢は次のように対応しています。
+本文 give me detailed information about what you need the vehicles to do（車両にどんなことをさせる必要があるのかについて詳しい情報をください）＝ 選択肢 Tell her about what the city of Walkerton needs the cars to do（市が車にどんなことをさせる必要があるのかを彼女に伝える）
+本文の vehicles（車両）が、選択肢では cars（車）に言いかえられています。正解は2です。
+【ほかの選択肢】
+1 自分で充電できる電気自動車を設計してほしいという話は、本文にありません。また、車を作っているのはザッカーマンさんの会社のほうです。
+3 警察官の一覧を送ってほしいという話は、本文にありません。
+4 本文では、ザッカーマンさんのほうが I would like to come to your office（そちらの事務所にうかがいたい）と言っています。ミラーさんが彼女の事務所に来るのではないので、人物の動きが逆です。
+【覚えるポイント】
+・If you could ～, I would ...：「～していただければ、…できるでしょう」。ていねいにお願いするときの言い方です。
+・need ～ to ...：「～に…してもらう必要がある」。what you need the vehicles to do で「車両に何をさせる必要があるか」。

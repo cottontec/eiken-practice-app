@@ -1,0 +1,29 @@
+---
+choices: It allows people to see and change how much energy they are using. | It reduces the amount of heat escaping through the walls of the apartments. | It controls the amount of electricity produced by the solar panels. | It lets residents choose whether to use gas or electricity to heat their apartments.
+answerText: It allows people to see and change how much energy they are using.
+reviewed: yes
+---
+【正解】1 It allows people to see and change how much energy they are using.（人々が自分の使っているエネルギーの量を見て、変えられるようにする。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：タルトゥのアパートにある操作パネルは何のためのものですか。
+1 It allows people to see and change how much energy they are using.（人々が自分の使っているエネルギーの量を見て、変えられるようにする。）
+2 It reduces the amount of heat escaping through the walls of the apartments.（アパートの壁から逃げる熱の量を減らす。）
+3 It controls the amount of electricity produced by the solar panels.（太陽光パネルが作り出す電気の量を調節する。）
+4 It lets residents choose whether to use gas or electricity to heat their apartments.（住民が、部屋の暖房にガスと電気のどちらを使うかを選べるようにする。）
+【考え方】
+control panel（操作パネル）という語は、第3段落に出てきます。
+Each apartment has a control panel which lets residents monitor and control the amount of energy they consume.（それぞれの住戸〔1世帯ごとの住まい〕には、住民が自分の消費するエネルギーの量を見守り、調節できる操作パネルがある）
+which は前の a control panel に説明を付け足す語で、「住民が～できるようにする操作パネル」という意味になります。let ＋人＋動詞の原形 は「（人）に～させる、～できるようにする」です。monitor は「（様子を）見守る、監視する」、control は「調節する、管理する」、consume は「消費する、使う」という意味です。
+本文と選択肢を対にすると、次のようになります。
+本文 lets residents monitor and control the amount of energy they consume ＝ 選択肢 allows people to see and change how much energy they are using
+lets が allows（～できるようにする）に、monitor が see（見る）に、control が change（変える）に、the amount of energy they consume（消費するエネルギーの量）が how much energy they are using（どれくらいのエネルギーを使っているか）に言いかえられています。
+【ほかの選択肢】
+2 壁から熱が逃げるのを防ぐことは、本文の Changes have been made to prevent heat from escaping through the walls and windows.（壁や窓から熱が逃げるのを防ぐための改修が行われた）に書かれています。しかし、これは操作パネルとは別の工事で、パネルの働きではありません。
+3 太陽光パネルについては、these produce three times more electricity than the residents need（住民が必要とする量の3倍の電気を作り出している）とあるだけです。操作パネルが太陽光パネルの電気の量を調節するとは書かれていません。
+4 暖房にガスを使う量が80パーセント減ったことは書かれていますが、ガスと電気のどちらを使うかを選べるという話は本文にありません。
+【覚えるポイント】
+・let ＋人＋動詞の原形：「（人）に～させる、～できるようにする」。allow ＋人＋to ～ もほぼ同じ意味です。
+・monitor：「見守る、監視する」。consume：「消費する」。

@@ -1,0 +1,29 @@
+---
+choices: Call him on the phone to tell him about the car. | Bring the car to his house so he can look at it. | Send him an e-mail with answers to his questions. | Tell him her work schedule so that they can meet.
+answerText: Send him an e-mail with answers to his questions.
+reviewed: yes
+---
+【正解】3 Send him an e-mail with answers to his questions.（彼の質問への答えを書いたEメールを彼に送る。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ジョン・ホルターは、マイランさんに今度の木曜日までに何をしてほしいと思っていますか。
+1 Call him on the phone to tell him about the car.（車について伝えるために、彼に電話をかける。）
+2 Bring the car to his house so he can look at it.（彼が車を見られるように、車を彼の家まで持ってくる。）
+3 Send him an e-mail with answers to his questions.（彼の質問への答えを書いたEメールを彼に送る。）
+4 Tell him her work schedule so that they can meet.（会えるように、自分の仕事の予定を彼に伝える。）
+【考え方】
+設問の by next Thursday（今度の木曜日までに）に注目して、本文で Thursday が出てくる部分を探します。第3段落の最初にあります。
+It would be great if you could answer my questions by e-mail by Thursday.（木曜日までに私の質問にEメールで答えてもらえると、大変ありがたい）
+It would be great if you could ～ は「～していただけるとありがたい」と、ていねいにお願いする言い方です。
+本文と選択肢を対にすると、次のようになります。
+本文 answer my questions by e-mail（私の質問にEメールで答える）＝ 選択肢 Send him an e-mail with answers to his questions（彼の質問への答えを書いたEメールを彼に送る）
+ですから3が正解です。
+【ほかの選択肢】
+1 電話をかけるのはマイランさんではなく、ホルターさんのほうです。本文には perhaps I can call you（私からあなたに電話できるかもしれない）とあります。また、それはEメールの返事をもらった「そのあと（Then）」の話です。
+2 車を見に行くのはホルターさん夫妻です。本文には arrange a day next week when my wife and I could come to look at the car（来週、妻と私が車を見に行ける日を決める）とあり、車を家まで持ってきてほしいとは書かれていません。
+4 仕事の予定を伝えているのは、ホルターさんのほうです。本文の We both work during the day but are usually free after 6 p.m.（私たちは2人とも昼間は働いているが、たいてい午後6時以降は空いている）は、ホルターさん夫妻の予定です。マイランさんの予定をたずねてはいません。
+【覚えるポイント】
+・It would be great if you could ～：「～していただけるとありがたいです」というていねいなお願い。
+・by ～ は「～までに」（期限）。by e-mail の by は「～で（手段）」です。同じ by でも意味が違うので注意します。

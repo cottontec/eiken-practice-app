@@ -1,0 +1,30 @@
+---
+choices: gave plant samples from Kew Gardens to experts in other countries. | sent people to different places around the world to gather plant samples. | employed scientists to find new ways to display dried flowers. | built the Herbarium to keep plants that were in danger of extinction.
+answerText: sent people to different places around the world to gather plant samples.
+reviewed: yes
+---
+【正解】2 sent people to different places around the world to gather plant samples.（植物の標本を集めるために、世界中のさまざまな場所へ人々を送った。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ウィリアム・フッカーは、キュー・ガーデンズの園長になったあと、
+1 gave plant samples from Kew Gardens to experts in other countries.（キュー・ガーデンズの植物標本を、ほかの国の専門家にあげた。）
+2 sent people to different places around the world to gather plant samples.（植物の標本を集めるために、世界中のさまざまな場所へ人々を送った。）
+3 employed scientists to find new ways to display dried flowers.（乾燥させた花の新しい展示方法を見つけるために、科学者を雇った。）
+4 built the Herbarium to keep plants that were in danger of extinction.（絶滅の危機にある植物を保管するために、ハーバリウムを建てた。）
+【考え方】
+ウィリアム・フッカーは、第2段落に出てきます。
+2文目に The first director of Kew Gardens, William Hooker, determined to collect examples of plants from all parts of the globe.（キュー・ガーデンズの初代園長ウィリアム・フッカーは、地球上のあらゆる地域から植物の見本を集めようと決心した）とあります。globe は「地球」です。
+3文目に He sent out collectors to gather samples for the Herbarium.（彼は、ハーバリウムのための標本を集めさせるために、収集する人々を送り出した）とあります。collector は「収集する人」、to gather samples は「標本を集めるために」と、送り出した目的を表しています。本文と選択肢は次のように対応しています。
+本文 sent out collectors（収集する人々を送り出した）＝ 選択肢 sent people（人々を送った）
+本文 from all parts of the globe（地球上のあらゆる地域から）＝ 選択肢 to different places around the world（世界中のさまざまな場所へ）
+本文 to gather samples（標本を集めるために）＝ 選択肢 to gather plant samples（植物の標本を集めるために）
+正解は2です。
+【ほかの選択肢】
+1 世界中の専門家が出てくるのは第3段落で、最近の調査で科学者たちが、種が危機にあるかどうかを調べるよう頼んだ相手です。フッカーが標本をほかの国の専門家にあげたという話は本文にありません。
+3 本文で180人の科学者が雇われているのは、今日（now）のハーバリウムの話です。また、その科学者たちは新しい標本を集めていて、乾燥させた花の展示方法を見つけるためではありません。時期も目的もちがいます。
+4 ハーバリウムは1852年に設立されましたが、絶滅の危機にある植物を保管するために建てられたとは書かれていません。野生の植物を絶滅から救う役割を果たしているのは、今日（Today）のコレクションについての話です。
+【覚えるポイント】
+・send out ～：「～を送り出す、派遣する」。
+・determine to ～：「～しようと決心する」。

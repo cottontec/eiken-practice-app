@@ -1,0 +1,29 @@
+---
+choices: Print out surveys about childcare for his team members. | Ask his team members to update their online profiles. | Find out how many of his team members need childcare. | Tell his team members to fill out an online survey.
+answerText: Tell his team members to fill out an online survey.
+reviewed: yes
+---
+【正解】4 Tell his team members to fill out an online survey.（チームのメンバーに、オンラインのアンケートに記入するよう伝える。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：エレンはエドに何をするよう頼んでいますか。
+1 Print out surveys about childcare for his team members.（チームのメンバーのために、保育についてのアンケートを印刷する。）
+2 Ask his team members to update their online profiles.（チームのメンバーに、オンラインのプロフィールを更新するよう頼む。）
+3 Find out how many of his team members need childcare.（チームのメンバーのうち何人が保育を必要としているかを調べる。）
+4 Tell his team members to fill out an online survey.（チームのメンバーに、オンラインのアンケートに記入するよう伝える。）
+【考え方】
+第3段落に注目します。まず In the new building, there will be childcare facilities.（新しいビルには保育施設ができる）とあります。childcare は「保育（子どもの世話）」、facilities は「施設、設備」です。
+続いて We would like employees to answer an online survey about how we can improve all of our childcare services.（当社のすべての保育サービスをどのようによくしていけるかについて、社員にオンラインのアンケートに答えてほしい）とあります。survey は「アンケート、調査」です。そして最後に Please have your team fill it out by October 20.（10月20日までに、あなたのチームの人たちにそれに記入してもらってください）と、エドへのお願いが書かれています。
+have ＋ 人 ＋ 動詞の元の形 は「人に～してもらう」、fill out ～ は「（用紙などに）記入する」です。it は前の文の the survey（オンラインのアンケート）を指しています。
+本文と選択肢を対にすると、次のようになります。
+本文 Please have your team fill it out（あなたのチームの人たちにそれ（オンラインのアンケート）に記入してもらってください）→ 選択肢 Tell his team members to fill out an online survey（チームのメンバーにオンラインのアンケートに記入するよう伝える）
+エレンは、エドのチームの人たちにアンケートに記入してもらうよう、エドに頼んでいます。そのためには、エドがチームの人たちに記入するよう伝えることになる、と読み取れます。fill out（記入する）と online survey（オンラインのアンケート）は本文と同じ語です。正解は4です。
+【ほかの選択肢】
+1 アンケートは The survey can be found on our company website.（アンケートは当社のウェブサイトにある）とあるように、オンラインで答えるものです。印刷するようにとは書かれていません。
+2 本文で答えるように頼まれているのはオンラインのアンケートで、オンラインのプロフィールを更新する話は出てきません。
+3 アンケートの内容は how we can improve all of our childcare services（保育サービスをどのようによくしていけるか）です。何人が保育を必要としているかを調べるようにとは書かれていません。
+【覚えるポイント】
+・have ＋ 人 ＋ 動詞の元の形：「人に～してもらう」。
+・fill out ～：「（用紙やアンケートなどに）記入する」。

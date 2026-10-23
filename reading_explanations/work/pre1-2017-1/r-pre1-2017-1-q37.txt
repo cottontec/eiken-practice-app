@@ -1,0 +1,33 @@
+---
+choices: Lasting memories are not stored in the hippocampus, so what happens to neurons there is unlikely to affect those memories. | Very young children's senses are not fully developed, so their brains cannot process sensory information. | It is unlikely that the hippocampus would begin to function as early as Frankland and Josselyn say it does. | Since Frankland and Josselyn only examined the brains of mice, their results cannot yet be considered relevant.
+answerText: Lasting memories are not stored in the hippocampus, so what happens to neurons there is unlikely to affect those memories.
+reviewed: yes
+---
+【正解】1 Lasting memories are not stored in the hippocampus, so what happens to neurons there is unlikely to affect those memories.（長く続く記憶は海馬にたくわえられていないので、そこでニューロンに起こることが、それらの記憶に影響を与えるとは考えにくい。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What criticism does Justin Rhodes make of Frankland and Josselyn's theory?（ジャスティン・ローズは、フランクランドとジョスリンの説に対して、どのような批判をしていますか。）
+1 Lasting memories are not stored in the hippocampus, so what happens to neurons there is unlikely to affect those memories.（長く続く記憶は海馬にたくわえられていないので、そこでニューロンに起こることが、それらの記憶に影響を与えるとは考えにくい。）
+2 Very young children's senses are not fully developed, so their brains cannot process sensory information.（ごく幼い子どもの感覚は十分に発達していないので、その脳は感覚の情報を処理することができない。）
+3 It is unlikely that the hippocampus would begin to function as early as Frankland and Josselyn say it does.（海馬が、フランクランドとジョスリンが言うほど早い時期に働き始めるとは考えにくい。）
+4 Since Frankland and Josselyn only examined the brains of mice, their results cannot yet be considered relevant.（フランクランドとジョスリンはマウスの脳しか調べていないので、その結果はまだ（人間に）当てはまるとは考えられない。）
+【考え方】
+まず見るところ：第4段落の Justin Rhodes, ～, believes the hippocampus holds only short-term memories ～
+第4段落で、ローズの考えは次のように書かれています。
+Justin Rhodes, a psychologist at the University of Illinois at Urbana-Champaign, believes the hippocampus holds only short-term memories, whereas long-term memories are kept elsewhere in the brain.（イリノイ大学アーバナ・シャンペーン校の心理学者ジャスティン・ローズは、海馬は短期の記憶しか保持しておらず、一方、長期の記憶は脳のほかの場所にしまわれていると考えている）
+Because of this, he doubts that the formation of new neurons in the hippocampus has much effect on established memories.（このため彼は、海馬で新しいニューロンができることが、すでにできあがった記憶に大きな影響を与えるとは考えにくいとしている）
+short-term は「短期の」、long-term は「長期の」、established memories は「すでにできあがった（定着した）記憶」です。フランクランドとジョスリンは「海馬でニューロンが増えると記憶が消える」と考えましたが、ローズは「長く残る記憶はそもそも海馬にはない」と反論しています。
+本文と選択肢1を対にすると、次のようになります。
+本文 long-term memories are kept elsewhere in the brain（長期の記憶は脳のほかの場所にしまわれている）＝ 選択肢 Lasting memories are not stored in the hippocampus（長く続く記憶は海馬にたくわえられていない）
+本文 he doubts that the formation of new neurons in the hippocampus has much effect on established memories（海馬で新しいニューロンができることが、すでにできあがった記憶に大きな影響を与えるとは考えにくい）＝ 選択肢 what happens to neurons there is unlikely to affect those memories（そこでニューロンに起こることが、それらの記憶に影響を与えるとは考えにくい）
+よって1が正解です。
+この問題の型：言いかえ（long-term memories are kept elsewhere→Lasting memories are not stored in the hippocampus）／因果（Because of this）
+【ほかの選択肢】
+2 ローズの批判ではありません。ローズが述べているのは、記憶がしまわれる脳の場所のことです。幼い子どもの感覚が十分に発達していないという話は本文にありません。
+3 本文にない内容です。ローズは、海馬が新しい記憶の処理と形成に活発に働いていることは認めています。海馬が働き始める時期について、フランクランドとジョスリンの考えを批判してはいません。
+4 本文にない内容です。フランクランドとジョスリンがマウスで実験したことは書かれていますが、ローズが「マウスしか調べていない」ことを批判したとは書かれていません。
+【覚えるポイント】
+・short-term memory／long-term memory：「短期の記憶／長期の記憶」。
+・ある説への批判を問う設問では、批判する人の考え（ここでは「長期の記憶はほかの場所にある」）と、相手の説（「海馬のニューロンが記憶を消す」）のどこがぶつかっているのかを確かめると手がかりになります。

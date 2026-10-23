@@ -1,0 +1,28 @@
+---
+choices: reason for making a purchase | amount of money spent | time spent deciding what to purchase | amount of demand for an item
+answerText: reason for making a purchase
+reviewed: yes
+---
+【正解】1 reason for making a purchase（買い物をする理由）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 reason for making a purchase（買い物をする理由）
+2 amount of money spent（使ったお金の額）
+3 time spent deciding what to purchase（何を買うかを決めるのにかけた時間）
+4 amount of demand for an item（ある品物に対する需要〔ほしいと思う人〕の量）
+【考え方】
+まず見るところ：第3段落の For example, when people decided to buy an experience based on their personal interests and values と、On the other hand, when people were motivated to ～
+空所は第3段落の Howell also found that the (28) is strongly related to how much satisfaction people get from their purchases.（ハウエルはまた、（28）が、人々が買ったものからどれだけの満足を得るかと強く関係していることも発見した）です。そのあとの For example（たとえば）以下に、具体的な例が2つ書かれています。
+For example, when people decided to buy an experience based on their personal interests and values, it made them feel better about themselves and more connected to others.（たとえば、人々が自分の個人的な興味や価値観にもとづいて経験を買うことに決めたとき、そのことによって、彼らは自分自身についてより前向きな気持ちになり、ほかの人たちとより強くつながっていると感じた）
+On the other hand, when people were motivated to spend money to gain recognition from other people, they reported feeling less satisfaction.（一方、ほかの人から認められるためにお金を使おうという動機があったとき、人々は満足が少ないと答えた）
+2つの例で比べられているのは、「自分の興味や価値観にもとづいて買う」か、「ほかの人から認められるために買う」か、つまり「なぜ買うのか」です。motivated（動機を持った、～しようという気持ちになった）という語も、買う理由の話であることを示しています。ですから1が正解です。
+この問題の型：具体例とまとめ（2つの例 → 買い物をする理由）
+【ほかの選択肢】
+2 「使ったお金の額」は、例の中に出てきません。例で比べられているのは金額の大きさではなく、何のために買ったかです。
+3 「何を買うかを決めるのにかけた時間」も、例の中に出てきません。決めるまでにどれだけ時間がかかったかは書かれていません。
+4 「品物に対する需要の量」は、例の中に出てきません。例に書かれているのは買う人自身の気持ちや動機で、ほかの人たちがその品物をどれだけほしがっているかは書かれていません。
+【覚えるポイント】
+・be related to ～：「～と関係している」。motivated to ～ は「～しようという動機を持った」です。
+・空所のあとに For example と On the other hand で2つの例が続くときは、その2つの例が「何の点で違うのか」をまとめた語句を選ぶのが手がかりになります。

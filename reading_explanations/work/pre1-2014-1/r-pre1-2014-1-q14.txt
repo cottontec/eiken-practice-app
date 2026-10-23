@@ -1,0 +1,27 @@
+---
+choices: disgrace | refuge | bundle | scarcity
+answerText: scarcity
+reviewed: yes
+---
+【正解】4 scarcity（不足、少ないこと）
+【和訳】
+（英文）
+People are relying on electronic devices more and more. However, the ［scarcity］ of some of the raw materials used to make them may raise prices in the future.
+（訳）
+人々はますます電子機器に頼るようになっている。しかし、それらを作るのに使われる原料の一部が（不足していること）によって、将来、価格が上がるかもしれない。
+（選択肢の意味）
+1 disgrace：不名誉、恥
+2 refuge：避難所、保護
+3 bundle：束、ひとまとまり
+4 scarcity：不足、少ないこと
+【考え方】
+1文目では、People are relying on electronic devices more and more.（人々はますます電子機器に頼っている）と、電子機器がたくさん必要とされていることが書かれています。
+2文目は However（しかし）で始まり、the ( ) of some of the raw materials（原料の一部の〇〇）が may raise prices in the future（将来、価格を上げるかもしれない）と続きます。raw material は「原料（ものを作るもとになる材料）」です。
+物の値段が上がるのは、欲しい人が多いのに、材料が少ないときです。電子機器がますます必要とされる中で、その原料が「足りない」ことが値上がりの原因になる、と考えると筋が通ります。scarcity は「不足、乏しさ」という意味なので、4が正解です。
+【ほかの選択肢】
+1 disgrace は「不名誉、恥」という意味です。原料が「不名誉」であることは、価格が上がる理由になりません。
+2 refuge は「避難所、（危険からの）保護」という意味です。「原料の避難所が価格を上げる」では意味が通りません。
+3 bundle は「束、ひとまとまり」という意味です。原料の「束」が価格を上げる、では理由になりません。
+【覚えるポイント】
+・scarcity：「不足、乏しさ」。形容詞は scarce（不足している、少ない）です。
+・rely on ～：「～に頼る」。more and more で「ますます」。

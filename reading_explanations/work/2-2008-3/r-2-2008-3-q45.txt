@@ -1,0 +1,28 @@
+---
+choices: ICANN now has branches in many countries around the world. | ICANN has already started testing non-Roman-alphabet domain names. | The majority of the world's population uses the same writing system. | Some governments plan to ban the use of the Internet.
+answerText: ICANN has already started testing non-Roman-alphabet domain names.
+reviewed: yes
+---
+【正解】2 ICANN has already started testing non-Roman-alphabet domain names.（ICANNはすでに、ローマ字以外のドメイン名の試験を始めている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：次の記述のうち正しいものはどれですか。
+1 ICANN now has branches in many countries around the world.（ICANNは現在、世界の多くの国々に支部をもっている。）
+2 ICANN has already started testing non-Roman-alphabet domain names.（ICANNはすでに、ローマ字以外の文字のドメイン名の試験を始めている。）
+3 The majority of the world's population uses the same writing system.（世界の人口の大多数は、同じ文字体系を使っている。）
+4 Some governments plan to ban the use of the Internet.（いくつかの政府は、インターネットの使用を禁止することを計画している。）
+【考え方】
+本文全体と照らし合わせて、正しい記述を選ぶ問題です。1つずつ本文の該当箇所を確認します。
+第4段落の後半に In 2007, ICANN finally began testing domain names written in Arabic, Persian, Russian, Hindi, Greek, Korean, Hebrew, Japanese, Tamil, and two forms of Chinese.（2007年、ICANNはついに、アラビア語、ペルシャ語、ロシア語、ヒンディー語、ギリシャ語、韓国語、ヘブライ語、日本語、タミル語、そして2種類の中国語で書かれたドメイン名の試験を始めた）とあります。これらの言語は、どれもローマ字以外の文字を使う言語です。本文と選択肢は次のように対応しています。
+本文 In 2007, ICANN finally began testing（2007年、ICANNはついに試験を始めた）＝ 選択肢 ICANN has already started testing（ICANNはすでに試験を始めている）
+本文 domain names written in Arabic, Persian, Russian, …（アラビア語、ペルシャ語、ロシア語…で書かれたドメイン名）＝ 選択肢 non-Roman-alphabet domain names（ローマ字以外の文字のドメイン名）
+正解は2です。
+【ほかの選択肢】
+1 本文には、ICANNは a U.S.-based organization（アメリカに本部をおく組織）とあるだけです。世界の多くの国に支部があるとは書かれていません。
+3 第2段落に The majority of the world's population uses other systems of writing（世界の人口の大多数はほかの文字体系を使っている）とあります。ここでの other は「ローマ字以外の」という意味で、さまざまな文字が使われていることを示しています。「同じ文字体系を使っている」は本文と合いません。
+4 本文には、インターネットを利用できない原因の1つとして government control（政府による規制）が出てきます。しかし、政府がインターネットの使用を禁止しようと計画しているという話は書かれておらず、言い過ぎです。
+【覚えるポイント】
+・the majority of ～：「～の大多数、大部分」。
+・non-：「～でない」という意味をそえる部分です。non-Roman-alphabet で「ローマ字以外の」。

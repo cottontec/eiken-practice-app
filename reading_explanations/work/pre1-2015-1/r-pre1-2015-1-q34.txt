@@ -1,0 +1,33 @@
+---
+choices: It should be stopped until its effects on the size of whale and dolphin populations are fully understood. | Tour operators should report their schedules to authorities before entering protected areas. | Current guidelines should be relaxed because they encourage illegal whale and dolphin watching. | Boats should be subject to a speed limit in order to allow whales and dolphins time to escape from them.
+answerText: Boats should be subject to a speed limit in order to allow whales and dolphins time to escape from them.
+reviewed: yes
+---
+【正解】4 Boats should be subject to a speed limit in order to allow whales and dolphins time to escape from them.（クジラやイルカが船から逃げる時間を持てるように、船には速度制限をかけるべきだ。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one recommendation that scientists have made regarding whale and dolphin watching?（クジラとイルカのウォッチングについて、科学者たちが行った提言の一つは何か。）
+1 It should be stopped until its effects on the size of whale and dolphin populations are fully understood.（クジラとイルカの数への影響が十分に分かるまで、それは中止されるべきだ。）
+2 Tour operators should report their schedules to authorities before entering protected areas.（ツアー会社は、保護区域に入る前に、当局へ予定を報告するべきだ。）
+3 Current guidelines should be relaxed because they encourage illegal whale and dolphin watching.（今の指針は、違法なクジラとイルカのウォッチングをうながしているので、ゆるめられるべきだ。）
+4 Boats should be subject to a speed limit in order to allow whales and dolphins time to escape from them.（クジラやイルカが船から逃げる時間を持てるように、船には速度制限をかけるべきだ。）
+【考え方】
+まず見るところ：第3段落の requiring boats to slow down would be effective
+設問の scientists（科学者たち）の提言は、第3段落の Biologists say authorities should ～（生物学者たちは、当局が～するべきだと言っている）から書かれています。recommendation は「提言、勧め」です。
+提言の一つとして、次の文があります。
+Additionally, requiring boats to slow down would be effective, as it would give the animals a chance to get away when they feel threatened.（さらに、船に速度を落とすよう義務づけることも効果的だろう。そうすれば、動物たちが危険を感じたときに逃げる機会が得られるからである）
+require A to ～ は「Aに～するよう義務づける」、get away は「逃げる」です。
+本文と選択肢を対にすると、次のようになります。
+本文 requiring boats to slow down（船に速度を落とすよう義務づける）→ 選択肢 Boats should be subject to a speed limit（船には速度制限をかけるべきだ）
+本文 give the animals a chance to get away（動物たちに逃げる機会を与える）＝ 選択肢 allow whales and dolphins time to escape（クジラやイルカに逃げる時間を与える）
+be subject to ～ は「～を受ける、～の対象になる」です。ですから4が正解です。
+この問題の型：言いかえ（slow down → speed limit、get away ＝ escape）
+【ほかの選択肢】
+1 本文の提言は、危険が大きい地域をツアーの立ち入り禁止にすること、最低限の距離などの指針を作ること、速度を落とさせることです。ウォッチングそのものを、影響が十分に分かるまで中止するべきだ、とは書かれていません。
+2 本文には、ツアー会社が当局へ予定を報告するべきだ、という話はありません。保護に関わる地域について書かれているのは、そこを making them off-limits to tours（ツアーの立ち入り禁止にする）ことです。
+3 本文と反対です。本文には、指針の一部はすでにあるが they are not strictly enforced（厳しく守らせられていない）とあり、厳しい規則を定めて一貫して適用するべきだと述べています。指針をゆるめるべきだという話はなく、指針が違法なウォッチングをうながすとも書かれていません。
+【覚えるポイント】
+・require A to ～：「Aに～するよう義務づける」。be subject to a speed limit（速度制限を受ける）とほぼ同じ内容に言いかえられています。
+・提言をたずねる設問では、should、recommended、would be effective などの語がある文を探すことが、答えの場所を見つける手がかりになります。

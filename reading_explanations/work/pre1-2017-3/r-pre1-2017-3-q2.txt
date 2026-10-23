@@ -1,0 +1,32 @@
+---
+choices: degrade | deprive | detach | decline
+answerText: detach
+reviewed: yes
+---
+【正解】3 detach（切り離す、取り外す）
+【和訳】
+（英文）
+Please ［detach］ the lower half of the form and send it with your payment in the enclosed envelope. Keep the upper half for your reference.
+（訳）
+用紙の下半分を（切り離して）、同封の封筒に入れて、お支払いといっしょに送ってください。上半分は、あとで確かめるための控えとして保管してください。
+（選択肢の意味）
+1 degrade：（質や価値を）下げる、おとしめる
+2 deprive：奪う（deprive A of B で「AからBを奪う」）
+3 detach：切り離す、取り外す
+4 decline：断る；減る
+【考え方】
+まず見るところ：the lower half（下半分）と、2文目の Keep the upper half（上半分は保管して）
+1文目では、用紙の下半分をどうしたうえで送るのかが問われています。
+Please (　) the lower half of the form and send it with your payment in the enclosed envelope.（用紙の下半分を（　）、同封の封筒に入れて、お支払いといっしょに送ってください）
+enclosed は「同封された（いっしょに入れてある）」という意味です。
+2文目では、上半分について次のように言っています。
+Keep the upper half for your reference.（上半分は控えとして保管してください）
+for your reference は「あとで見て確かめるために」という意味です。下半分は送り、上半分は手元に残すのですから、用紙を上と下に分ける必要があります。detach は「切り離す、取り外す」という意味なので、3が正解です。
+この問題の型：対比（送る下半分⇔残す上半分）
+【ほかの選択肢】
+1 degrade は「（質や価値を）下げる」です。「用紙の下半分の質を下げて送る」となり、意味が通りません。
+2 deprive は「奪う」で、deprive A of B（AからBを奪う）の形で使います。この文には of がなく、「用紙の下半分を奪う」では、上半分を残すという2文目ともつながりません。
+4 decline は「断る」です。「用紙の下半分を断って、それを送る」となり、断ったものを送るという、おかしな文になります。
+【覚えるポイント】
+・detach：「切り離す、取り外す」。反対の意味の語は attach（取りつける、添付する）です。
+・「下半分」と「上半分」のように、前後の文で別々の扱いをされているものがあるときは、それらを「分ける」意味の語が入る手がかりになります。

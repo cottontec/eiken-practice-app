@@ -1,0 +1,30 @@
+---
+choices: benefited from legal protection | supported government policies | faced economic hardship | did not have to pay taxes
+answerText: faced economic hardship
+reviewed: yes
+---
+【正解】3 faced economic hardship（経済的な苦しさに直面していた）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 benefited from legal protection（法律による保護の恩恵を受けていた）
+2 supported government policies（政府の政策を支持していた）
+3 faced economic hardship（経済的な苦しさに直面していた）
+4 did not have to pay taxes（税金を払う必要がなかった）
+【考え方】
+まず見るところ：第1段落の空所のあとの many workers struggled to take enough money home to feed their families
+空所のある文は、次のとおりです。
+Like people in some other areas of England in the eighteenth century, residents of coastal communities in Cornwall (22).（18世紀のイングランドのほかのいくつかの地域の人々と同じように、コーンウォールの沿岸部の地域社会の住民たちは（22））
+resident は「住民」、coastal は「沿岸の、海岸ぞいの」です。空所には、住民たちがどんな状態だったかが入ります。
+次の文で、住民の暮らしが具体的に書かれています。
+Fishing, farming, and mining were important industries in Cornwall, but many workers struggled to take enough money home to feed their families.（漁業、農業、鉱業はコーンウォールの重要な産業だったが、多くの労働者は、家族を養うのに十分なお金を家に持ち帰るのに苦労していた）
+struggle to ～ は「～しようと苦労する」です。家族を養うお金をかせぐのに苦労していたのですから、生活が苦しかったと分かります。さらに、そのあとの As a result（その結果）で、密輸に手を出す人が出たことにつながっています。face economic hardship は「経済的な苦しさに直面する」という意味なので、3が正解です。
+この問題の型：具体例とまとめ（家族を養うお金に苦労 → 経済的な苦しさ）
+【ほかの選択肢】
+1 benefited from legal protection は「法律による保護の恩恵を受けていた」です。本文には、住民が法律に守られていたという話はありません。あとに続くのは、お金に困って違法な取引である密輸に手を出す話です。
+2 supported government policies は「政府の政策を支持していた」です。本文では、貧しい人々の中には政府の関税を unfair（不公平）だと感じた人がいたと書かれており、住民が政府の政策を支持していたという流れにはなりません。
+4 did not have to pay taxes は「税金を払う必要がなかった」です。本文には、密輸は try to avoid paying duties（関税を払わずに済ませようとする）方法だったとあります。払う必要がなかったのではなく、払うのを避けようとしていたので合いません。
+【覚えるポイント】
+・hardship：「苦しさ、苦難」。face economic hardship で「経済的な苦しさに直面する」。
+・空所のある文のあとに、but many workers struggled ～（しかし多くの労働者は苦労していた）のような具体的な説明が続くときは、その説明をまとめた内容が空所に入る手がかりになります。

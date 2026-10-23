@@ -1,0 +1,27 @@
+---
+choices: provided | dedicated | estimated | achieved
+answerText: estimated
+reviewed: yes
+---
+【正解】3 estimated（見積もった、およその見当をつけた）
+【和訳】
+（英文）
+After looking at the map, Arnold ［estimated］ that it would take about three hours to drive to Pittsburgh. However, there was a lot of traffic, so it took more than four hours.
+（訳）
+地図を見たあと、アーノルドは、ピッツバーグまで車で約3時間かかるだろうと見積もりました。しかし、道がとても混んでいたので、4時間以上かかりました。
+（選択肢の意味）
+1 provided：提供した
+2 dedicated：ささげた
+3 estimated：見積もった、およその見当をつけた
+4 achieved：達成した
+【考え方】
+1文目は、アーノルドが地図を見て、that it would take about three hours（約3時間かかるだろうということ）を「どうした」のかを考える問題です。about（約、およそ）や would（～だろう）から、まだ実際には行っていない時点での「予想」だと分かります。
+2文目は However（しかし）で始まり、実際には there was a lot of traffic（交通量がとても多かった）ので、more than four hours（4時間以上）かかったと書かれています。予想と結果がちがった、という流れです。
+estimate は「（数や量、時間などを）見積もる、だいたいの見当をつける」という意味です。estimated that ～ で「～だろうと見積もった」となり、地図を見て時間を予想したという内容にぴったり合います。正解は3です。
+【ほかの選択肢】
+1 provided は「（物などを）提供した、与えた」です。「3時間かかるということを提供した」となり、意味が通りません。
+2 dedicated は「（時間や努力を）ささげた」です。dedicate A to B（AをBにささげる）の形で使い、that ～ の内容を続けることはできません。
+4 achieved は「（目標などを）達成した」です。「約3時間かかるだろうということを達成した」となり、意味が通りません。しかも実際には4時間以上かかっています。
+【覚えるポイント】
+・estimate that ～：「～だと見積もる、～だろうと見当をつける」。名詞の estimate は「見積もり」です。
+・it takes ＋ 時間 ＋ to ～：「～するのに（時間が）かかる」。

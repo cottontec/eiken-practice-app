@@ -1,0 +1,32 @@
+---
+choices: eating | to eat | eat | eaten
+answerText: eating
+reviewed: yes
+---
+【正解】1 eating（can't help eating で「食べずにはいられない」）
+【和訳】
+（英文）
+A: I can't help ［eating］ these peanuts. They're so delicious!
+B: I know. Once you start, it's very, very difficult to stop.
+（訳）
+A：このピーナッツ、（食べ）ずにはいられないよ。すごくおいしい！
+B：分かる。一度食べ始めると、やめるのが本当に、本当に難しいよね。
+（選択肢の意味）
+1 eating：食べること（動名詞）
+2 to eat：食べること、食べるために（to 不定詞）
+3 eat：食べる（原形）
+4 eaten：食べられた（過去分詞）
+【考え方】
+まず見るところ：空所の前の I can't help
+I can't help (　) these peanuts.（このピーナッツを（　）ずにはいられない）
+can't help -ing は「～せずにはいられない」という意味の決まった形です。ここでの help は「手伝う」ではなく、「避ける、こらえる」という意味です。
+help のあとには動名詞（動詞に ing を付けて「～すること」という名詞の働きをさせた形）が来るので、eating を入れます。Bの Once you start, it's very, very difficult to stop.（一度始めると、やめるのが本当に難しい）とも話が合うので、1が正解です。
+この問題の型：熟語・決まった形（can't help -ing）、文法（語の形）
+【ほかの選択肢】
+2 to eat は to 不定詞（to ＋動詞の原形）です。can't help のあとは eating のような -ing 形と決まっているので、to eat は入りません。
+3 eat は動詞の原形です。can't help のあとは -ing 形と決まっているので、原形の eat は入りません。
+4 eaten は過去分詞（「～された」という受け身などに使う形）です。「ピーナッツを食べられた」となり、意味も文の形も合いません。
+【覚えるポイント】
+・can't help -ing：「～せずにはいられない」。
+・Once ～：「いったん～すると、一度～すると」。
+・空所の前が can't help のように決まった形のときは、そのあとに続く語の形（ここでは -ing）を、選択肢の形から見分けます。

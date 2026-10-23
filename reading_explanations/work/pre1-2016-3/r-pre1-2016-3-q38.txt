@@ -1,0 +1,37 @@
+---
+choices: whether Inuit peoples receive enough nutrients to stay healthy depends largely on the geographical area they inhabit. | the red meats that make up the majority of the Inuit diet have both a harmful and a beneficial effect on the health of Inuit peoples. | Inuit peoples are able to meet important nutritional requirements by consuming a limited range of foods. | the quantity of fresh fruit and vegetables in the Inuit diet in warm months is enough to guarantee Inuit peoples' health year-round.
+answerText: Inuit peoples are able to meet important nutritional requirements by consuming a limited range of foods.
+reviewed: yes
+---
+【正解】3 Inuit peoples are able to meet important nutritional requirements by consuming a limited range of foods.（イヌイットの人々は、限られた種類の食べ物をとることで、大切な栄養の必要を満たすことができている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Harold Draper's statement is supported by the fact that（ハロルド・ドレイパーの言葉は、～という事実によって裏づけられている。）
+1 whether Inuit peoples receive enough nutrients to stay healthy depends largely on the geographical area they inhabit.（イヌイットの人々が健康を保つのに十分な栄養素をとれるかどうかは、主に彼らが住んでいる地域によって決まる。）
+2 the red meats that make up the majority of the Inuit diet have both a harmful and a beneficial effect on the health of Inuit peoples.（イヌイットの食事の大部分をしめる赤肉は、イヌイットの人々の健康に、害になる影響とためになる影響の両方を与えている。）
+3 Inuit peoples are able to meet important nutritional requirements by consuming a limited range of foods.（イヌイットの人々は、限られた種類の食べ物をとることで、大切な栄養の必要を満たすことができている。）
+4 the quantity of fresh fruit and vegetables in the Inuit diet in warm months is enough to guarantee Inuit peoples' health year-round.（暖かい月にイヌイットの食事に含まれる新鮮な果物や野菜の量は、イヌイットの人々の1年じゅうの健康を保証するのに十分である。）
+【考え方】
+まず見るところ：第2段落の "There are no essential foods—only essential nutrients." と、They have one of the most restricted diets ～
+ドレイパーの言葉は第2段落の初めにあります。
+"There are no essential foods—only essential nutrients."（「欠かせない食べ物というものはない。あるのは欠かせない栄養素だけだ」）
+essential は「欠かせない」、nutrient は「栄養素」です。つまり、「どの食べ物を食べるか」よりも、「必要な栄養素がとれているか」が大切だ、という考えです。
+次の文は次のとおりです。
+This principle is demonstrated by the Inuit peoples（この原則はイヌイットの人々によって示されている）
+ここから、イヌイットがこの言葉を裏づける例だと分かります。その内容は次のとおりです。
+They have one of the most restricted diets in the world ..., but they are able to take in the vitamins, minerals, proteins, and other nutrients they need to stay healthy.（彼らは世界で最も限られた食事をしている人々の一つだが、健康を保つのに必要なビタミン、ミネラル、たんぱく質、その他の栄養素をとることができている）
+restricted は「限られた」という意味です。
+本文と選択肢3を対にすると、次のようになります。
+本文 one of the most restricted diets（最も限られた食事の一つ）＝ 選択肢 consuming a limited range of foods（限られた種類の食べ物をとること）
+本文 are able to take in ... nutrients they need to stay healthy（健康を保つのに必要な栄養素をとることができる）＝ 選択肢 are able to meet important nutritional requirements（大切な栄養の必要を満たすことができる）
+食べ物の種類は限られていても必要な栄養素はとれている、という事実は、「欠かせないのは食べ物ではなく栄養素だ」という言葉を裏づけます。ですから3が正解です。
+この問題の型：言いかえ（restricted diets ＝ a limited range of foods）／具体例とまとめ（This principle is demonstrated by ～）
+【ほかの選択肢】
+1 本文にありません。本文には、農業ができないのは climatic conditions（気候条件）のためだと書かれていますが、栄養素を十分にとれるかどうかが住む地域で決まる、とは書かれていません。また、この内容ではドレイパーの言葉を裏づけることになりません。
+2 本文と合いません。イヌイットが主に食べているのは seals, caribou, and fish（アザラシ、カリブー、魚）の肉です。red meat（赤肉）が出てくるのは第1段落の一般的な食事の話で、イヌイットの食事の大部分が赤肉だとも、害とためになる影響の両方があるとも書かれていません。
+4 本文と合いません。本文では、Greens and berries are only available briefly in the summer（青菜やベリーは夏の短い間しか手に入らない）とあります。また、壊血病を防いでいるビタミンCは、第3段落によると raw organ meats（生の内臓の肉）からとられています。夏の果物や野菜で1年じゅうの健康が保証される、とは書かれていません。
+【覚えるポイント】
+・「ある人の言葉が～によって裏づけられる」という設問では、その言葉のすぐあとにある This principle is demonstrated by ～（この原則は～によって示される）のような文が、根拠の場所を探す手がかりになります。
+・restricted（限られた）＝ limited（限られた）のように、内容一致問題では同じ意味の別の語に言いかえられることがよくあります。

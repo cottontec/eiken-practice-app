@@ -1,0 +1,33 @@
+---
+choices: the group of animals that developed into the earliest kinds of fish. | the only animals without backbones that have developed arms and legs. | animals with a backbone and four limbs which allow them to walk or fly. | animals that lived both in the sea and on land about 374 million years ago.
+answerText: animals with a backbone and four limbs which allow them to walk or fly.
+reviewed: yes
+---
+【正解】3 animals with a backbone and four limbs which allow them to walk or fly.（背骨と、歩いたり飛んだりすることを可能にする4本の手足を持つ動物（である）。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問："Tetrapods" are（「四肢動物」とは）
+1 the group of animals that developed into the earliest kinds of fish.（進化して最も初期の種類の魚になった動物のグループである。）
+2 the only animals without backbones that have developed arms and legs.（腕と脚を発達させた、背骨を持たない唯一の動物である。）
+3 animals with a backbone and four limbs which allow them to walk or fly.（背骨と、歩いたり飛んだりすることを可能にする4本の手足を持つ動物である。）
+4 animals that lived both in the sea and on land about 374 million years ago.（約3億7,400万年前に、海と陸の両方に住んでいた動物である。）
+【考え方】
+まず見るところ：第1段落の A tetrapod is a creature which has four limbs ... and a backbone.
+設問の "Tetrapods"（四肢動物）がどんな動物かは、第1段落に説明があります。
+A tetrapod is a creature which has four limbs—legs and either wings or arms, depending on the kind of animal—and a backbone.（四肢動物とは、4本の手足――動物の種類によって、脚と、翼か腕のどちらか――と、背骨を持つ生き物のことだ）
+limb は「手足（腕・脚・翼など）」です。A is B（AとはBのことだ）という形で、言葉の意味をはっきり説明しています。
+本文と選択肢を対にすると、次のようになります。
+本文 has four limbs ... and a backbone（4本の手足と背骨を持つ）＝ 選択肢 animals with a backbone and four limbs（背骨と4本の手足を持つ動物）
+本文 legs and either wings or arms（脚と、翼か腕）→ 読み取れること：脚で歩いたり、翼で飛んだりできる動物がいる → 選択肢 which allow them to walk or fly（歩いたり飛んだりすることを可能にする）
+本文の例に birds（鳥類）や human beings（人間）が挙げられていることも、歩く動物と飛ぶ動物がふくまれることに合っています。ですから3が正解です。
+この問題の型：言いかえ（four limbs and a backbone ＝ a backbone and four limbs）、推論（legs・wings から walk or fly を考える）
+【ほかの選択肢】
+1 本文では、魚が先に現れ、その一部が海から出て最初の四肢動物になったと書かれています。四肢動物が魚になったのではなく、魚から四肢動物が生まれたので、順番が反対です。
+2 四肢動物は a backbone（背骨）を持つ動物です。「背骨を持たない」は本文と反対です。
+4 本文の around 374 million years ago, some of these fish moved out of the sea and began living on land（約3億7,400万年前に、これらの魚の一部が海から出て陸上で暮らし始めた）に、約3億7,400万年前という時期は出てきます。しかし、それは魚の一部が陸上で暮らし始めた時期の話で、四肢動物の説明ではありません。本文で四肢動物は「4本の手足と背骨を持つ生き物」と説明されていて、今の鳥類や人間もふくまれます。
+【覚えるポイント】
+・limb：「手足（腕・脚・翼など）」。four limbs は「4本の手足」です。
+・次に同じ形が出たら：設問が "～" are のように言葉の意味をたずねているときは、本文の A is B（AとはBのことだ）の形の文を探すと手がかりになります。
+・vertebrate：「脊椎動物（背骨を持つ動物）」。

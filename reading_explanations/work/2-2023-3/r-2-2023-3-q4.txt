@@ -1,0 +1,33 @@
+---
+choices: negotiate | identify | translate | revise
+answerText: identify
+reviewed: yes
+---
+【正解】2 identify（見分ける、特定する）
+【和訳】
+（英文）
+A: Can you ［identify］ your umbrella among the ones on this shelf?
+B: Yes. Mine is the red-and-white one.
+（訳）
+A：この棚にあるかさの中から、自分のかさを（見分ける）ことができますか。
+B：はい。私のは赤と白のかさです。
+（選択肢の意味）
+1 negotiate：交渉する
+2 identify：見分ける、特定する
+3 translate：翻訳する
+4 revise：修正する、改訂する
+【考え方】
+まず見るところ：空所のあとの among the ones on this shelf と、Bの Mine is the red-and-white one.
+your umbrella among the ones on this shelf（この棚にあるかさの中から、あなたのかさを）
+among は「（3つ以上のもの）の中で」、the ones は umbrellas（かさ）のくり返しをさけた言い方です。たくさんのかさの中から、自分のかさを（　）できるかという質問です。
+Mine is the red-and-white one.（私のは赤と白のかさです）
+Bは、たくさんのかさの中から、どれが自分のものかを示しています。
+identify は「（どれなのかを）見分ける、特定する」という意味です。これを入れると「自分のかさを見分けられますか」→「私のは赤と白のです」となり、会話がつながります。ですから2が正解です。
+この問題の型：語の意味・組み合わせ（identify ～ among ...）
+【ほかの選択肢】
+1 negotiate は「交渉する（話し合って取り決める）」です。「自分のかさを交渉できますか」となり、Bが色を答えていることとつながりません。
+3 translate は「翻訳する（別の言語に直す）」です。かさは言葉ではないので、「自分のかさを翻訳する」では意味が通りません。
+4 revise は「（文章や計画を）修正する、改訂する」です。「自分のかさを修正できますか」となり、どれが自分のかさかを答えているBの返事と合いません。
+【覚えるポイント】
+・identify：「見分ける、特定する」。名詞の identification（身元確認）や ID も同じ仲間の語です。
+・答えの文が「どれか」を示していれば、質問は「見分けられるか」をたずねている手がかりになります。

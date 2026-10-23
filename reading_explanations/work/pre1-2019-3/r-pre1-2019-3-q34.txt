@@ -1,0 +1,31 @@
+---
+choices: Drinking cassina offers greater health benefits than consuming other kinds of caffeinated beverages. | Chefs often claim that it goes better with their dishes than beverages such as tea and coffee do. | Increasing numbers of people want to consume products that are grown in their local area. | As droughts have caused tea and coffee production to decline, cassina should offer an affordable alternative.
+answerText: Increasing numbers of people want to consume products that are grown in their local area.
+reviewed: yes
+---
+【正解】3 Increasing numbers of people want to consume products that are grown in their local area.（自分の住む地域で育てられた産物を消費したいと思う人が増えている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to the author of the passage, what is one reason that modern-day consumers have a new interest in cassina?（この文章の筆者によると、現代の消費者がカッシーナに新たに関心を持っている理由の一つは何か。）
+1 Drinking cassina offers greater health benefits than consuming other kinds of caffeinated beverages.（カッシーナを飲むことは、ほかの種類のカフェイン入りの飲み物をとるより大きな健康上の利点がある。）
+2 Chefs often claim that it goes better with their dishes than beverages such as tea and coffee do.（料理人たちは、カッシーナは茶やコーヒーのような飲み物よりも自分たちの料理によく合うとしばしば主張している。）
+3 Increasing numbers of people want to consume products that are grown in their local area.（自分の住む地域で育てられた産物を消費したいと思う人が増えている。）
+4 As droughts have caused tea and coffee production to decline, cassina should offer an affordable alternative.（日照りのせいで茶やコーヒーの生産が減ってきたので、カッシーナは手ごろな値段の代わりになるはずだ。）
+【考え方】
+まず見るところ：第3段落の In recent years, however, chefs and consumers in the southern United States have rediscovered it as part of the growing movement ～
+In recent years, however, chefs and consumers in the southern United States have rediscovered it as part of the growing movement to consume sustainable items obtained from local sources.（しかし近年、アメリカ南部の料理人や消費者が、地元から手に入る持続可能な品物を消費しようという、広がりつつある運動の一部として、カッシーナを再発見した）
+rediscover は「再発見する（忘れられていたものの良さにまた気づく）」、growing movement は「広がりつつある運動」、local sources は「地元の産地」という意味です。地元のものを使おうという動きが広がっていて、その中でカッシーナが見直されています。
+本文と選択肢を対にすると、次のようになります。
+・本文 the growing movement（広がりつつある運動）→ 選択肢 Increasing numbers of people want ～（～したいと思う人が増えている）
+・本文 items obtained from local sources（地元から手に入る品物）→ 選択肢 products that are grown in their local area（自分の地域で育てられた産物）
+ですから3が正解です。
+この問題の型：言いかえ（growing movement → increasing numbers of people／local sources → local area）
+【ほかの選択肢】
+1 本文にありません。カッシーナがほかのカフェイン入りの飲み物より健康によいとは書かれていません。
+2 本文にありません。料理人（chefs）がカッシーナを再発見したことは書かれていますが、料理によく合うと主張しているとは書かれていません。
+4 本文にありません。本文の drought（日照り）は、カッシーナが resistant to drought（日照りに強い）という魅力の説明に出てくるだけです。日照りで茶やコーヒーの生産が減ったことや、カッシーナの値段のことは書かれていません。
+【覚えるポイント】
+・obtained from local sources：「地元の産地から手に入る」。選択肢では grown in their local area（地域で育てられた）と言いかえられています。
+・選択肢に本文の語（ここでは drought）が出てきても、本文ではその語がどんな話の中で使われているかを確かめることが大切です。

@@ -1,0 +1,32 @@
+---
+choices: correctly | eventually | loudly | obviously
+answerText: correctly
+reviewed: yes
+---
+【正解】1 correctly（正しく）
+【和訳】
+（英文）
+Janet answered every question on her history test ［correctly］, so the teacher gave her a perfect score.
+（訳）
+ジャネットは歴史のテストのすべての問題に（正しく）答えたので、先生は彼女に満点をつけました。
+（選択肢の意味）
+1 correctly：正しく
+2 eventually：最後には、結局は
+3 loudly：大きな声で
+4 obviously：明らかに
+【考え方】
+まず見るところ：文の後半の so the teacher gave her a perfect score
+後半は次のとおりです。
+so the teacher gave her a perfect score（だから先生は彼女に満点をつけた）
+so は「だから」という意味で、前半が満点の理由になっています。
+前半は次のとおりです。
+Janet answered every question on her history test ( )（ジャネットは歴史のテストのすべての問題に（　）答えた）
+テストで満点になるのは、すべての問題に「正しく」答えたときです。correctly は「正しく」という意味の副詞（動詞などをくわしく説明する語）なので、1が正解です。
+この問題の型：因果（正しく答えた→満点）
+【ほかの選択肢】
+2 eventually は「最後には、結局は」です。「すべての問題に最後には答えた」となりますが、答えただけでは正しいかどうかは分からず、満点の理由になりません。
+3 loudly は「大きな声で」です。テストの答えを大きな声で言っても、満点になる理由にはなりません。
+4 obviously は「明らかに、見るからに」です。「すべての問題に明らかに答えた」では何が明らかなのか分からず、満点の理由になりません。
+【覚えるポイント】
+・correctly：「正しく」。形容詞 correct（正しい）に -ly がついた副詞です。
+・A, so B の文では、Bが結果になります。結果（ここでは満点）から逆に、その理由になる語を選ぶと手がかりになります。

@@ -1,0 +1,30 @@
+---
+choices: archaic | scenic | sinister | muddy
+answerText: archaic
+reviewed: yes
+---
+【正解】1 archaic（古風な、古い時代の）
+【和訳】
+（英文）
+Some of the ［archaic］ English used in fourteenth-century texts would not be understandable to native English speakers today.
+（訳）
+14世紀の文書で使われている（古風な）英語の中には、今日の英語を母語とする人々には理解できないものもあるだろう。
+（選択肢の意味）
+1 archaic：古風な、古い時代の（今ではもう使われない）
+2 scenic：景色のよい
+3 sinister：不吉な、悪意のある
+4 muddy：泥だらけの、（色や音が）にごった
+【考え方】
+まず見るところ：空所の後ろの English used in fourteenth-century texts と、文の最後の would not be understandable to native English speakers today
+Some of the ( ) English used in fourteenth-century texts（14世紀の文書で使われている（　）英語の一部は）
+fourteenth-century は「14世紀の」、texts は「文書、書かれたもの」という意味です。
+would not be understandable to native English speakers today（今日の英語を母語とする人々には理解できないだろう）
+native English speakers は「英語を母語とする（生まれたときから話している）人々」です。today（今日）と比べて、ずっと昔の英語なので、今の人には分からない部分がある、という内容です。archaic は「古風な、古い時代の」なので、1が正解です。
+この問題の型：語の意味・組み合わせ（archaic English）／対比（14世紀⇔今日）
+【ほかの選択肢】
+2 scenic は「景色のよい」です。英語という言葉について「景色のよい英語」とは言えず、意味が通りません。
+3 sinister は「不吉な、悪意のある」です。今の人に理解できない理由は「古いから」であり、不吉だからではないので合いません。
+4 muddy は「泥だらけの」です。「泥だらけの英語」となり、意味が通りません。
+【覚えるポイント】
+・archaic：「古風な、古い時代の」。archaic English で「古い時代の英語」です。
+・文の中に昔の時代（ここでは fourteenth-century）と today（今日）が並んでいるときは、その時代の差を表す語を考えることが手がかりになります。

@@ -1,0 +1,31 @@
+---
+choices: break up with | fall back on | come over to | speak ill of
+answerText: fall back on
+reviewed: yes
+---
+【正解】2 fall back on（（いざというときに）～に頼る）
+【和訳】
+（英文）
+When Julia lost her job, she had to ［fall back on］ her savings for a few months until she found a new one.
+（訳）
+ジュリアは仕事を失ったとき、新しい仕事が見つかるまでの数か月間、自分の貯金に（頼ら）なければなりませんでした。
+（選択肢の意味）
+1 break up with：～と別れる、～との関係を終わらせる
+2 fall back on：（いざというときに）～に頼る
+3 come over to：～のところへやって来る
+4 speak ill of：～の悪口を言う
+【考え方】
+まず見るところ：When Julia lost her job と、空所のあとの her savings
+When Julia lost her job（ジュリアが仕事を失ったとき）
+仕事を失うと、給料が入ってこなくなります。
+she had to (　) her savings for a few months until she found a new one（新しい仕事が見つかるまでの数か月間、貯金を（　）しなければならなかった）
+savings は「貯金」です。one は前に出た job の代わりで、a new one は「新しい仕事」です。給料がない間、ジュリアは貯金を使って暮らすしかなかったと考えられます。
+fall back on ～ は「（いざというときに）～に頼る」という意味です。「数か月間、貯金に頼らなければならなかった」となり、意味が通ります。ですから2が正解です。
+この問題の型：熟語・決まった形（fall back on ～）
+【ほかの選択肢】
+1 break up with ～ は「～と別れる、～との関係を終わらせる」で、ふつう恋人などの人について使います。「貯金と別れる」となり、仕事を失った場面に合いません。
+3 come over to ～ は「～のところへやって来る」です。「貯金のところへやって来る」となり、意味が通りません。
+4 speak ill of ～ は「～の悪口を言う」です。「貯金の悪口を言わなければならなかった」となり、意味が通りません。
+【覚えるポイント】
+・fall back on ～：「（いざというときに）～に頼る」。savings（貯金）のように、困ったときの備えと一緒に使われることがあります。
+・「仕事を失った」「新しい仕事が見つかるまで」のように困った期間が書かれているときは、その間どうやって乗り切ったかを表す語句を選ぶと答えにつながります。

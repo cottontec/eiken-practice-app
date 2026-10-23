@@ -1,0 +1,31 @@
+---
+choices: ratio | preview | consensus | simulation
+answerText: consensus
+reviewed: yes
+---
+【正解】3 consensus（意見の一致、合意）
+【和訳】
+（英文）
+The board members failed to reach a ［consensus］ on how much to pay the new CEO. Some felt the initial figure suggested was too high.
+（訳）
+取締役会のメンバーたちは、新しいCEO（最高経営責任者）にいくら払うかについて、（意見の一致）に達することができませんでした。最初に提案された金額は高すぎると感じた人もいました。
+（選択肢の意味）
+1 ratio：比率、割合
+2 preview：下見、（映画の）試写、予告
+3 consensus：意見の一致、合意
+4 simulation：模擬実験、シミュレーション
+【考え方】
+まず見るところ：後半の文の Some felt the initial figure suggested was too high.
+Some felt the initial figure suggested was too high.（最初に提案された金額は高すぎると感じた人もいた）
+initial は「最初の」、figure はここでは「金額、数字」という意味です。「高すぎると感じた人もいた」ということは、ほかの人は高すぎるとは思っていなかったと考えられます。つまり、メンバーの意見が分かれていたことが分かります。
+空所のある文は次のとおりです。
+The board members failed to reach a (　) on how much to pay the new CEO.（取締役会のメンバーたちは、新しいCEOにいくら払うかについて、（　）に達することができなかった）
+board は「取締役会（会社の大事なことを決める役員の集まり）」、fail to ～ は「～できない、～しそこなう」です。意見が分かれていたので、「意見の一致に達することができなかった」とすると話がつながります。reach a consensus で「合意に達する」という意味になるので、3が正解です。
+この問題の型：語の意味・組み合わせ（reach a consensus）／推論（高すぎると感じた人もいた→意見が分かれた）
+【ほかの選択肢】
+1 ratio は「比率、割合」です。「いくら払うかについての比率に達することができなかった」となり、意味が通りません。
+2 preview は「下見、予告」です。「いくら払うかについての下見に達することができなかった」となり、意味が通りません。
+4 simulation は「模擬実験、シミュレーション」です。「いくら払うかについてのシミュレーションに達することができなかった」となり、意見が分かれていたという後半の文とつながりません。
+【覚えるポイント】
+・reach a consensus（on ～）：「（～について）合意に達する、意見がまとまる」。fail to reach a consensus なら「意見がまとまらなかった」です。
+・Some felt ～（～と感じた人もいた）のように一部の人の意見が書かれているときは、ほかの人の意見とは違っていた、つまり意見が分かれていたことの手がかりになります。

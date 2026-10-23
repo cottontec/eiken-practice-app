@@ -1,0 +1,25 @@
+---
+choices: moral | medical | historical | educational
+answerText: educational
+reviewed: yes
+---
+【正解】4 educational（教育の）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 moral：道徳の
+2 medical：医療の
+3 historical：歴史の
+4 educational：教育の
+【考え方】
+空所の前に Later, however, American attitudes changed again.（しかしその後、アメリカ人の考え方はまた変わった）とあります。それまでの「宿題を減らそう」という考え方が変わった、ということです。
+空所の文は Americans became worried that (　) standards were falling below those of other countries.（アメリカ人は、～水準がほかの国々の水準より下がってきているのではないかと心配するようになった）です。standards は「水準、基準」、those は standards のくり返しをさけた言い方です。
+次の文は Homework began to increase again.（宿題は再び増え始めた）です。心配した結果として宿題が増えたのですから、心配していたのは学校の勉強に関わる水準、つまり「教育の水準」だと考えられます。educational は「教育の」なので、4が正解です。
+【ほかの選択肢】
+1 moral は「道徳の」です。道徳の水準が下がったことを心配して宿題を増やした、とは書かれておらず、勉強の量を増やす理由としてもつながりません。
+2 medical は「医療の」です。医療の水準が下がることが心配なら、宿題を増やすことにはつながりません。
+3 historical は「歴史の」です。歴史の水準という言い方では何の水準か分からず、宿題が増え始めたという次の文とも結びつきません。
+【覚えるポイント】
+・educational standards：「教育の水準」。
+・those of ～：「～のそれ（ら）」。前に出た名詞のくり返しをさけるときに使います。ここでは the standards of other countries のことです。

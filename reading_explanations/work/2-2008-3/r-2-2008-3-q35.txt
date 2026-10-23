@@ -1,0 +1,28 @@
+---
+choices: the fact that she wears clothing from the store. | the time that she spends learning about clothes and fashion. | the careful attention that she pays to advice from her co-workers. | the way that she treats customers who come to the store.
+answerText: the way that she treats customers who come to the store.
+reviewed: yes
+---
+【正解】4 the way that she treats customers who come to the store.（彼女が店に来るお客に接するやり方。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ローザ・レイノルズは、ジーナ・テイトのよい販売成績は（　）のためだと言っています。
+1 the fact that she wears clothing from the store.（彼女がその店の服を着ているという事実）
+2 the time that she spends learning about clothes and fashion.（彼女が服やファッションについて学ぶのに使っている時間）
+3 the careful attention that she pays to advice from her co-workers.（彼女が同僚からの助言に払っている細心の注意）
+4 the way that she treats customers who come to the store.（彼女が店に来るお客に接するやり方）
+【考え方】
+設問の a good sales record（よい販売成績）という言葉を本文で探します。
+第2段落に As a result of this, she has a good monthly sales record.（この結果として、彼女は毎月よい販売成績をあげている）とあります。As a result of this は「このことの結果として」なので、this（このこと）が、よい販売成績の理由です。
+this が指すのは、直前の文 She pays careful attention to the needs of customers, and she enjoys talking with them about the clothes in the store.（彼女はお客の要望によく注意を払い、店の服についてお客と話すことを楽しんでいる）です。needs は「必要としていること、要望」です。つまり、よい成績の理由は、ジーナさんのお客への接し方です。本文と選択肢は次のように対応しています。
+本文 pays careful attention to the needs of customers / enjoys talking with them（お客の要望に注意を払う／お客と話すことを楽しむ）＝ 選択肢 the way that she treats customers（お客に接するやり方）
+treat は「（人を）扱う、接する」という意味です。正解は4です。
+【ほかの選択肢】
+1 ジーナさんが店の服を着ているという話は本文にありません。
+2 ジーナさんは店の服について「お客と話すこと」を楽しんでいますが、服やファッションについて「学ぶのに時間を使っている」とは書かれていません。
+3 本文で careful attention（細心の注意）を払っている相手は、同僚の助言ではなく、お客の要望です。注意を向ける相手が違うので誤りです。
+【覚えるポイント】
+・As a result of this, ～：「この結果として～」。this が指す前の文に理由が書かれています。
+・pay attention to ～：「～に注意を払う」。careful をつけると「よく注意を払う」。

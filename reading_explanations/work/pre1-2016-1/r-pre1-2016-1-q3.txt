@@ -1,0 +1,33 @@
+---
+choices: span | sphere | token | curb
+answerText: token
+reviewed: yes
+---
+【正解】3 token（しるし）
+【和訳】
+（英文）
+A: Roger, please accept this watch as a small ［token］ of appreciation for your many years of service to our organization.
+B: Thank you, Mr. Cruz. That means a lot to me.
+（訳）
+A：ロジャー、私たちの団体での長年の勤務に対する、ささやかな感謝の（しるし）として、この腕時計を受け取ってください。
+B：ありがとうございます、クルーズさん。私にとって、とても大きな意味があります。
+（選択肢の意味）
+1 span：期間、（時間や長さの）幅
+2 sphere：球、（活動の）領域
+3 token：しるし、記念の品
+4 curb：（歩道の）縁石；抑えること
+【考え方】
+まず見るところ：空所のあとの of appreciation
+Aは、次のように言っています。
+please accept this watch as a small (　) of appreciation（ささやかな感謝の（　）として、この腕時計を受け取ってください）
+appreciation は「感謝」です。as ～ は「～として」なので、腕時計が「感謝の何か」として渡されていると分かります。
+理由は for your many years of service to our organization（私たちの団体での長年の勤務に対して）です。長く働いてくれたことへの感謝を、腕時計という形にして渡しているのです。
+token は「（気持ちなどを表す）しるし」という意味で、a token of appreciation で「感謝のしるし」となります。ですから3が正解です。
+この問題の型：熟語・決まった形（a token of appreciation）
+【ほかの選択肢】
+1 span は「期間、幅」です。「ささやかな感謝の期間として腕時計を受け取って」となり、意味が通りません。
+2 sphere は「球、領域」です。「感謝の球として」では、腕時計を贈る気持ちを表す言い方になりません。
+4 curb は「縁石、抑えること」です。「感謝を抑えるものとして」となり、お礼の品を渡す場面に合いません。
+【覚えるポイント】
+・a (small) token of appreciation：「（ささやかな）感謝のしるし」。
+・空所のあとの of appreciation（感謝の）や、お礼の品を渡す場面は、気持ちを形にした「しるし」を表す語を選ぶ手がかりになります。

@@ -1,0 +1,32 @@
+---
+choices: the history of cats as pets | how to take care of cats | the personalities of some cats | how cats' bodies work
+answerText: the personalities of some cats
+reviewed: yes
+---
+【正解】3 the personalities of some cats（何匹かのネコの性格）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 the history of cats as pets（ペットとしてのネコの歴史）
+2 how to take care of cats（ネコの世話のしかた）
+3 the personalities of some cats（何匹かのネコの性格）
+4 how cats' bodies work（ネコの体の仕組み）
+【考え方】
+まず見るところ：空所の直後の For example（たとえば）のあとの、2つの例
+This is a collection of poems that describe (25).（これは、（　）を描いた詩を集めたものだ）
+This は T・S・エリオットの詩集（Old Possum's Book of Practical Cats）を指します。a collection of poems は「詩を集めたもの」で、that 以下が poems に説明を付け足しています。
+For example, one of the characters likes to be the focus of everyone's attention.（たとえば、登場するキャラクターの1匹は、みんなの注目の的になるのが好きだ）
+focus of attention は「注目の的」という意味です。
+Another seems to be lazy during the daytime, but at night, she secretly works hard to stop mice and insects from causing trouble.（別の1匹は、昼間は怠けているように見えるが、夜になると、ネズミや虫が騒ぎを起こさないよう、こっそり一生懸命に働いている）
+stop A from ～ing は「Aが～するのを防ぐ」という意味です。どちらの例も、ネコ1匹1匹の好みや行動のしかた、つまり「性格」を表しています。
+personality は「性格、個性」という意味なので、「何匹かのネコの性格を描いた詩」とする3が正解です。
+この問題の型：具体例とまとめ（For example の例→空所）、語の意味・組み合わせ（personality）
+【ほかの選択肢】
+1 「ペットとしてのネコの歴史」は、例の内容と合いません。例に挙げられているのは、注目されたがるネコや夜に働くネコの様子で、人がネコを飼ってきた歴史の話ではありません。
+2 「ネコの世話のしかた」は、例の内容と合いません。例はネコ自身の行動や好みの説明で、人がネコをどう世話するかの説明ではありません。
+4 「ネコの体の仕組み」は、例の内容と合いません。注目の的になるのが好きなことや、昼は怠けて見えて夜に働くことは、体の仕組みではなく性格の話です。
+【覚えるポイント】
+・personality：「性格、個性」。
+・For example のあとの例をまとめると、その前の空所に入る内容が分かることが多いです。
+・空所の直後に For example があるときは、先に例を読み、「例に共通することは何か」を一言で言ってから選択肢を見ます。

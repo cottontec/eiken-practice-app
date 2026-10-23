@@ -1,0 +1,32 @@
+---
+choices: is not seen with every sport | could actually be harmful | is based on evidence of its benefits | could be slightly exaggerated
+answerText: could actually be harmful
+reviewed: yes
+---
+【正解】2 could actually be harmful（実は害になるおそれがある）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 is not seen with every sport（すべてのスポーツで見られるわけではない）
+2 could actually be harmful（実は害になるおそれがある）
+3 is based on evidence of its benefits（その利点を示す証拠にもとづいている）
+4 could be slightly exaggerated（少し大げさに言われているかもしれない）
+【考え方】
+まず見るところ：第2段落の最後の文 It therefore seems that teenage athletes’ physical and mental health benefit when they play a range of sports.
+空所のある文は、第2段落の最初の文です。
+The trend to specialize early ( 30 ).（早くから専念するという傾向は、（30））
+trend は「傾向、はやり」です。この段落で何が言われるのかは、続く2つの研究を見ると分かります。
+1つ目の研究は、複数のスポーツをしていた少女たちと、サッカーだけをしていた少女たちを比べたものです。
+the girls who played multiple sports reported higher-quality sleep, better mood, lower stress, and less fatigue and soreness than the girls who played only soccer（複数のスポーツをしていた少女たちは、サッカーだけをしていた少女たちよりも、睡眠の質が高く、気分がよく、ストレスが低く、疲れや筋肉の痛みが少ないと報告した）
+fatigue は「疲れ」、soreness は「（筋肉などの）痛み」です。
+2つ目の研究では、specializing in just one sport increased high school athletes’ chances of suffering a sports-related injury by around 50 percent（1つのスポーツだけに専念すると、高校生の選手がスポーツに関連するけがをする可能性が、およそ50パーセント高まる）ことが分かりました。
+そして段落の最後で、さまざまなスポーツをすると体と心の健康によい影響があるようだ、とまとめています。どちらの研究も、早くから1つのスポーツに専念することの悪い面を示しています。ですから、段落の最初の文は「実は害になるおそれがある」となる2が正解です。
+この問題の型：具体例とまとめ（2つの研究→専念は害になるおそれ）
+【ほかの選択肢】
+1 「すべてのスポーツで見られるわけではない」は、本文に書かれていません。第2段落では、どのスポーツでこの傾向が見られるかではなく、専念することが体と心にどう影響するかが述べられています。
+3 「その利点を示す証拠にもとづいている」は、第2段落の流れと合いません。第2段落の研究が示しているのは、1つのスポーツに専念した選手のほうが疲れやけがが多いという悪い面です。
+4 「少し大げさに言われているかもしれない」も、第2段落の内容と合いません。第2段落は、傾向が大げさに言われているかどうかではなく、その傾向が健康に悪い影響を与えるおそれがあることを、2つの研究で示しています。
+【覚えるポイント】
+・harmful：「有害な、害になる」。could actually be ～ で「実は～かもしれない」と、それまでの考えとちがう見方を示す言い方です。
+・段落の最初の文が空所のときは、そのあとに続く研究や例の内容と、段落の最後のまとめの文を見ると、空所の内容を決める手がかりになります。

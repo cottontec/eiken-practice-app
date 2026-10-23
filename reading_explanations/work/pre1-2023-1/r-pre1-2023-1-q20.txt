@@ -1,0 +1,34 @@
+---
+choices: affection | circulation | oppression | coalition
+answerText: affection
+reviewed: yes
+---
+【正解】1 affection（愛情）
+【和訳】
+（英文）
+Although Pieter was a private, quiet man who rarely showed his ［affection］ for his children, they knew that he truly loved them.
+（訳）
+ピーター（ピーテルとも）は、子どもたちへの（愛情）をめったに表に出さない、自分のことをあまり人に見せない物静かな男性だったが、子どもたちは、彼が自分たちを心から愛していることを知っていた。
+（選択肢の意味）
+1 affection：愛情
+2 circulation：循環、（新聞などの）発行部数
+3 oppression：圧迫、（力で）おさえつけること
+4 coalition：連立、連合
+【考え方】
+まず見るところ：文の初めの Although と、後半の they knew that he truly loved them
+最初に、空所のある部分を確かめます。
+Pieter was a private, quiet man who rarely showed his ( ) for his children（ピーターは、子どもたちへの（　）をめったに表に出さない、自分のことをあまり人に見せない物静かな男性だった）
+private はここでは「自分のことをあまり人に見せない」、rarely は「めったに～ない」です。
+次に、文の後半を見ます。
+they knew that he truly loved them（子どもたちは、彼が自分たちを心から愛していることを知っていた）
+文の初めの Although（～だけれども）は、前と後ろが反対の向きになることを示します。「子どもたちへの（　）をめったに見せない。けれども、子どもたちは愛されていると知っていた」という流れなので、空所には「愛情」が入ると考えられます。
+affection は「愛情」で、affection for ～ で「～への愛情」となります。1が正解です。
+この問題の型：対比（Although：愛情をめったに見せない⇔心から愛していると知っていた）
+【ほかの選択肢】
+2 circulation は「循環、（新聞などの）発行部数」です。「子どもたちへの循環をめったに見せない」では意味が通りません。
+3 oppression は「圧迫、（力で）おさえつけること」です。「おさえつけることをめったに見せない」と「心から愛していると知っていた」は反対の向きにならないので、Although（～だけれども）でつなぐ形と合いません。
+4 coalition は「連立、連合」です。「子どもたちへの連合」では意味が通りません。
+【覚えるポイント】
+・affection for ～：「～への愛情」。
+・rarely：「めったに～ない」。
+・Although（～だけれども）の文では、前半と後半が反対の向きになるので、後半の内容（ここでは truly loved）とくらべて、前半の空所に何が入れば「見せないけれど、本当は～」となるかを考えると手がかりになります。

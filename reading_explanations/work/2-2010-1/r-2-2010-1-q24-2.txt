@@ -1,0 +1,22 @@
+---
+choices: faster | is | than | student | no other
+answerText: student
+order: 5 4 2 1 3
+reviewed: yes
+---
+【正解】4 student（この問題の2番目）
+【完成文】
+Oh, definitely Becky. ( No other student is faster than ) she is. She easily won the last three races.
+並べ方：5 no other → 4 student → 2 is → 1 faster → 3 than（2番目は4、4番目は1）
+【和訳】
+A：土曜日の自転車レースではだれが勝つと思う？
+B：ああ、絶対にベッキーだよ。彼女より速い生徒はほかにいないからね。この前の3つのレースで楽に勝ったんだ。
+【考え方】
+Aは「だれが勝つと思うか」とたずね、Bは definitely Becky（絶対にベッキーだ）と答えています。空所の文は、ベッキーが勝つと考える理由です。最後の文でも「この前の3つのレースに楽に勝った」と言っているので、「ベッキーがいちばん速い」という内容になると考えられます。
+選択肢に no other と faster（より速い）と than（～より）があります。No other ＋ 名詞 ＋ is ＋ 比較級（「より～」を表す形）＋ than … は「…より～な（名詞）はほかにない」という言い方で、「…がいちばん～だ」という意味を表します。
+そこで 5 no other のあとに名詞の 4 student を置き、No other student（ほかのどの生徒も～ない）を主語にします。そのあとに 2 is、1 faster、3 than を続けます。空所のあとの she is とつながり、No other student is faster than she is.（彼女より速い生徒はほかにいない）となります。
+したがって2番目は4 student です。
+no other のあとに is を置いて No other is student … とすると、no other（ほかの～ない）がかかる名詞がなくなり、文が成り立ちません。
+【覚えるポイント】
+・No other ＋ 名詞 ＋ is ＋ 比較級 ＋ than …：「…より～な（名詞）はほかにない」＝「…がいちばん～だ」。
+・definitely：「絶対に、きっと」。

@@ -1,0 +1,33 @@
+---
+choices: not developed as quickly as expected | provided a solution to the problem | not had the effect that was intended | benefited from lessons learned by fishermen
+answerText: not had the effect that was intended
+reviewed: yes
+---
+【正解】3 not had the effect that was intended（意図された効果をあげていない）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 not developed as quickly as expected（予想されていたほど速くは発展していない）
+2 provided a solution to the problem（その問題の解決策となった）
+3 not had the effect that was intended（意図された効果をあげていない）
+4 benefited from lessons learned by fishermen（漁師たちが学んだ教訓から利益を得た）
+【考え方】
+まず見るところ：第1段落の空所の前の It appears, however と、最後の文の aquaculture did nothing to relieve the pressure
+空所の前の文を確かめます。
+As the situation has become increasingly serious, it has often been suggested that aquaculture, also known as fish farming, should be promoted as an alternative to commercial fishing.（状況がますます深刻になるにつれて、魚の養殖とも呼ばれる水産養殖を、商業漁業に代わるものとして推し進めるべきだということが、たびたび提案されてきた）
+alternative は「代わりになるもの」です。養殖をすれば、海の魚をとる量が減り、天然の魚が守られる、という期待があったことが分かります。
+次に、空所のある文と、そのあとの文を見ます。
+It appears, however, that the aquaculture industry has ( 29 ).（しかし、水産養殖業は（29）ようである）
+In eight out of nine cases, aquaculture did nothing to relieve the pressure on wild fish populations, despite having greatly increased the production of farmed fish.（9つの事例のうち8つで、水産養殖は、養殖された魚の生産量を大きく増やしたにもかかわらず、天然の魚の数にかかる負担を少しも軽くしていなかった）
+did nothing to relieve は「軽くすることに何の役にも立たなかった」という意味です。however（しかし）のあとで、期待していた「天然の魚を守る」効果がなかったと述べています。
+本文 did nothing to relieve the pressure on wild fish populations（天然の魚にかかる負担を少しも軽くしなかった）→ 選択肢 not had the effect that was intended（意図された効果をあげていない）
+と言いかえられるので、3が正解です。
+この問題の型：対比（however：期待された代わりの方法⇔効果がなかった）／言いかえ（did nothing to relieve → not had the effect）
+【ほかの選択肢】
+1 not developed as quickly as expected は「予想されていたほど速くは発展していない」です。本文には despite having greatly increased the production of farmed fish（養殖された魚の生産量を大きく増やしたにもかかわらず）とあり、養殖業そのものの発展が遅いという話ではありません。
+2 provided a solution to the problem は「その問題の解決策となった」です。however のあとで、天然の魚への負担を軽くしなかったと述べているので、流れが逆になります。
+4 benefited from lessons learned by fishermen は「漁師たちが学んだ教訓から利益を得た」です。漁師の教訓についての話は本文になく、あとの研究結果の説明にもつながりません。
+【覚えるポイント】
+・the effect that was intended：「意図された（ねらっていた）効果」。
+・「～すべきだと提案されてきた」のあとに however が来たら、その提案が期待どおりにいかなかったという内容が続く手がかりになります。そのあとの研究結果の文で、中身を確かめましょう。

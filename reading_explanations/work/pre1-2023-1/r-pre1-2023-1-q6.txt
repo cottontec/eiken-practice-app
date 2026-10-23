@@ -1,0 +1,34 @@
+---
+choices: slaughtered | administered | ejected | conceived
+answerText: ejected
+reviewed: yes
+---
+【正解】3 ejected（追い出した、退場させた）
+【和訳】
+（英文）
+The umpire ［ejected］ the two players for fighting. They were not allowed to play in the rest of the game.
+（訳）
+審判は、けんかをしたことで、その二人の選手を（退場させた）。二人は、試合の残りに出ることを許されなかった。
+（選択肢の意味）
+1 slaughtered：（動物を）食用に殺した、大量に殺した
+2 administered：管理した、（薬などを）与えた
+3 ejected：追い出した、退場させた
+4 conceived：（考えを）思いついた、心に抱いた
+【考え方】
+まず見るところ：あとの文の They were not allowed to play in the rest of the game
+最初に、空所のある文を確かめます。
+The umpire ( ) the two players for fighting.（審判は、けんかをしたことで、その二人の選手を（　））
+umpire は「（野球などの）審判」です。for fighting は「けんかをしたことで」と理由を表します。
+次に、あとの文を見ます。
+They were not allowed to play in the rest of the game.（二人は、試合の残りに出ることを許されなかった）
+They は the two players（その二人の選手）を指します。けんかをした罰として、二人は試合の途中から出られなくなったと分かります。
+eject は「（場所から人を）追い出す」という意味で、スポーツでは「（選手を）退場させる」として使われます。あとの文の内容と合うので、3が正解です。
+この問題の型：言いかえ（ejected → were not allowed to play in the rest of the game）
+【ほかの選択肢】
+1 slaughtered は「（動物を）食用に殺した、大量に殺した」です。審判が選手にすることではなく、あとの文の「試合の残りに出られなかった」ともつながりません。
+2 administered は「（組織などを）管理した、（薬や罰などを）与えた」です。「審判がけんかをした二人の選手を管理した」では、二人が試合に出られなくなった理由になりません。
+4 conceived は「（考えを）思いついた、心に抱いた」です。「審判が二人の選手を思いついた」では意味が通りません。
+【覚えるポイント】
+・eject：「追い出す、（選手を）退場させる」。
+・umpire：「審判」。
+・空所のある文のあとに「～を許されなかった」のような結果が書かれているときは、その結果を生む動作を表す語を選ぶと手がかりになります。

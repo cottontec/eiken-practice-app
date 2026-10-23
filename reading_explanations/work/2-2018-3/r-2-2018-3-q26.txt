@@ -1,0 +1,27 @@
+---
+choices: going to disappear soon | caused mainly by volcanoes | dangerous for humans | related to global warming
+answerText: related to global warming
+reviewed: yes
+---
+【正解】4 related to global warming（地球温暖化と関係がある）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 going to disappear soon（もうすぐ消えようとしている）
+2 caused mainly by volcanoes（主に火山によって引き起こされる）
+3 dangerous for humans（人間にとって危険である）
+4 related to global warming（地球温暖化と関係がある）
+【考え方】
+空所は第3段落の Some scientists now believe that NLCs are (26).（現在、一部の科学者は、NLCは（26）と考えている）です。
+このあとに、その考えの理由が2つ続きます。For one thing（1つには）、For another（もう1つには）という言い方で、理由を2つ並べています。
+・For one thing, NLCs did not start to appear until the modern age, when carbon dioxide and other gases began to increase.（1つには、NLCは、二酸化炭素やほかの気体が増え始めた近代になるまで現れなかった）
+・For another, they are becoming more frequent and widespread as temperatures rise.（もう1つには、気温が上がるにつれて、NLCはより頻繁に、より広い範囲で起こるようになっている）
+not ～ until ... は「…になるまで～しない」、つまり「…になって初めて～する」という意味です。二酸化炭素などの気体が増えたことと、気温が上がっていることは、どちらも地球温暖化（二酸化炭素などが増えて、地球全体の気温が上がること）に関わることです。NLCはそれらと同じ時期に現れ、気温が上がるにつれて増えているので、地球温暖化と関係があると考えられているのです。ですから、4が正解です。
+【ほかの選択肢】
+1 「もうすぐ消えようとしている」は、本文と反対です。本文では、NLCは more frequent and widespread（より頻繁に、より広い範囲で）起こるようになっていると書かれています。
+2 「主に火山によって引き起こされる」も、本文と合いません。直前で、火山の噴火は、噴火のあとにNLCが見られた理由の説明にはなるかもしれないが、it does not explain the NLCs that occur today（今日起きているNLCの説明にはならない）と述べています。空所は、今日のNLCについての新しい考えです。
+3 「人間にとって危険である」は本文に書かれていません。あとに続く2つの理由も、危険かどうかの話ではありません。
+【覚えるポイント】
+・For one thing, ～. For another, ～.：「1つには～。もう1つには～」と、理由を2つ並べる言い方です。
+・not ～ until ...：「…になるまで～しない」＝「…になって初めて～する」。

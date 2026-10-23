@@ -1,0 +1,32 @@
+---
+choices: remote | virtual | blunt | swift
+answerText: remote
+reviewed: yes
+---
+【正解】1 remote（人里離れた、遠く離れた）
+【和訳】
+（英文）
+Robert lives in a log cabin in a very ［remote］ area. The nearest village is more than 90 minutes away by car.
+（訳）
+ロバートは、とても（人里離れた）地域にある丸太小屋に住んでいる。いちばん近い村は、車で90分以上かかるところにある。
+（選択肢の意味）
+1 remote：人里離れた、遠く離れた
+2 virtual：仮想の、事実上の
+3 blunt：（刃が）鈍い、ぶっきらぼうな
+4 swift：すばやい
+【考え方】
+まず見るところ：あとの文の The nearest village is more than 90 minutes away by car.
+あとの文を確かめます。
+The nearest village is more than 90 minutes away by car.（いちばん近い村は、車で90分以上かかるところにある）
+nearest は「いちばん近い」、90 minutes away は「90分離れている」という意味です。いちばん近い村まで、車で90分（1時間半）以上かかります。
+次に、空所のある文を見ます。
+Robert lives in a log cabin in a very ( ) area.（ロバートは、とても（　）地域にある丸太小屋に住んでいる）
+いちばん近い村まで90分以上かかる場所に住んでいるので、空所には「ほかの町や村から離れた」という意味の語が入ります。remote は「人里離れた」なので、1が正解です。
+この問題の型：具体例とまとめ（車で90分以上かかる→remote）
+【ほかの選択肢】
+2 virtual は「仮想の（コンピューターの中だけにある）」です。実際に丸太小屋に住んでいる地域を「仮想の地域」とは言えず、意味が通りません。
+3 blunt は「（刃が）鈍い、ぶっきらぼうな」です。地域のようすを表す語ではなく、意味が通りません。
+4 swift は「すばやい」です。動きの速さを表す語で、「とてもすばやい地域」では意味が通りません。
+【覚えるポイント】
+・remote：「人里離れた、遠く離れた」。remote area で「へんぴな地域」。
+・空所のあとに「いちばん近い～まで○分」のような距離の説明があるときは、場所が遠いことを表す語が入る手がかりになります。

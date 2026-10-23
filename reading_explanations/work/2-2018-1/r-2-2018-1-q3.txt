@@ -1,0 +1,27 @@
+---
+choices: punctual | responsible | isolated | frightened
+answerText: isolated
+reviewed: yes
+---
+【正解】3 isolated（孤立した、人里離れた）
+【和訳】
+（英文）
+Last week, some hikers got lost in the mountains, hundreds of kilometers from the nearest town. It took a long time for the rescuers to find them because the area was so ［isolated］.
+（訳）
+先週、何人かのハイカー（山歩きをする人）が、いちばん近い町から何百キロメートルも離れた山の中で道に迷いました。その地域はとても（人里離れて）いたので、救助隊が彼らを見つけるのに長い時間がかかりました。
+（選択肢の意味）
+1 punctual：時間を守る
+2 responsible：責任がある
+3 isolated：孤立した、人里離れた
+4 frightened：おびえた
+【考え方】
+1文目の hundreds of kilometers from the nearest town（いちばん近い町から何百キロメートルも離れて）に注目します。ハイカーが迷った場所は、町からとても遠い所だと分かります。
+2文目は It took a long time for the rescuers to find them because the area was so (　).（その地域がとても（　）だったので、救助隊が彼らを見つけるのに長い時間がかかった）です。because のあとは、時間がかかった理由です。空所に入る語は the area（その地域）の様子を表しています。
+町から何百キロも離れているので、その地域は「人里離れていた（ほかの場所から切りはなされていた）」と考えられます。isolated を入れると、遠く離れた場所だから見つけるのに時間がかかった、と理由がはっきりします。よって3が正解です。
+【ほかの選択肢】
+1 punctual は「時間を守る」で、ふつう人について使います。「地域が時間を守る」では意味が通りません。
+2 responsible は「責任がある」です。「地域に責任があったので見つけるのに時間がかかった」では理由になりません。
+4 frightened は「おびえた、こわがった」で、人や動物の気持ちを表します。迷ったハイカーがおびえていたことはありえますが、この文の主語は the area（その地域）なので合いません。
+【覚えるポイント】
+・isolated：「孤立した、人里離れた」。an isolated village（人里離れた村）のように使います。
+・It takes ＋時間＋ for 人 to ～：「人が～するのに（時間）がかかる」。

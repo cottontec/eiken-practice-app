@@ -1,0 +1,37 @@
+---
+choices: it would be better for local environmental initiatives to focus on removing invasive species that have caused damage rather than spending money on replanting efforts. | efforts by Saint Helena islanders to restore forests damaged by centuries of exploitation could contribute to improvements in the island's natural environment. | the interior highlands have likely been able to avoid the environmental damage that other areas have suffered from due to their inaccessibility. | the local community should consider introducing animal species from other South Atlantic islands that are similar to those that have become extinct on Saint Helena.
+answerText: efforts by Saint Helena islanders to restore forests damaged by centuries of exploitation could contribute to improvements in the island's natural environment.
+reviewed: yes
+---
+【正解】2 efforts by Saint Helena islanders to restore forests damaged by centuries of exploitation could contribute to improvements in the island's natural environment.（何世紀にもわたる乱用で損なわれた森を元に戻そうとするセントヘレナ島の人々の取り組みが、島の自然環境をよくすることにつながる可能性がある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Regarding Saint Helena's environment, the author of the passage concludes that（セントヘレナ島の環境について、筆者が結論づけているのは、）
+1 it would be better for local environmental initiatives to focus on removing invasive species that have caused damage rather than spending money on replanting efforts.（地域の環境への取り組みは、木を植え直す活動にお金を使うよりも、被害をもたらしてきた侵入種を取り除くことに力を入れたほうがよいだろうということだ。）
+2 efforts by Saint Helena islanders to restore forests damaged by centuries of exploitation could contribute to improvements in the island's natural environment.（何世紀にもわたる乱用で損なわれた森を元に戻そうとするセントヘレナ島の人々の取り組みが、島の自然環境をよくすることにつながる可能性があるということだ。）
+3 the interior highlands have likely been able to avoid the environmental damage that other areas have suffered from due to their inaccessibility.（内陸の高地は、人が近づきにくいために、ほかの地域が受けてきた環境の被害をおそらくまぬがれてきただろうということだ。）
+4 the local community should consider introducing animal species from other South Atlantic islands that are similar to those that have become extinct on Saint Helena.（地域社会は、セントヘレナ島で絶滅した動物に似た動物の種を、南大西洋のほかの島々から持ちこむことを考えるべきだということだ。）
+【考え方】
+まず見るところ：第4段落の最後の2つの文 Nevertheless, community initiatives have been established ～ と there is optimism that ～
+Since the discovery of the island, however, its environment has been undermined. The introduction of invasive species and livestock, and resource exploitation through deforestation, have taken their toll（しかし、島が発見されて以来、その環境はむしばまれてきた。侵入種や家畜が持ちこまれたことと、森林伐採による資源の乱用が大きな打撃を与えた）
+undermine は「むしばむ、少しずつ損なう」、exploitation は「乱用（取りつくすように使うこと）」、deforestation は「森林伐採」という意味です。1502年の発見から長い間、森が切られて環境が悪くなってきたことが分かります。
+Nevertheless, community initiatives have been established to turn the tide on this habitat loss by replanting native trees.（それでも、在来の木を植え直すことで、この生息地の喪失の流れを変えようとする地域の取り組みが始められている）
+turn the tide は「流れを変える、形勢を逆転させる」という意味です。島の人々が、森を取り戻す活動をしていることが書かれています。
+there is optimism that recreating the forests that existed before colonization can secure the future of surviving native species（植民地化される前にあった森をよみがえらせることで、生き残っている在来種の将来を守ることができるという楽観的な見方がある）
+optimism は「楽観（物事がよい方向へ進むと考えること）」という意味です。森をよみがえらせればよい結果が期待できる、という見方があることを、筆者は文章の最後に述べています。
+本文と選択肢を対にすると、次のようになります。
+・本文 community initiatives（地域の取り組み）→ 選択肢 efforts by Saint Helena islanders（セントヘレナ島の人々の取り組み）
+・本文 replanting native trees（在来の木を植え直すこと）、recreating the forests（森をよみがえらせること）→ 選択肢 restore forests（森を元に戻す）
+・本文 Since the discovery of the island（島が発見されて以来）の resource exploitation through deforestation（森林伐採による資源の乱用）→ 選択肢 damaged by centuries of exploitation（何世紀にもわたる乱用で損なわれた）
+・本文 there is optimism that ～ can secure the future of surviving native species（生き残っている在来種の将来を守ることができるという楽観的な見方がある）→ 選択肢 could contribute to improvements in the island's natural environment（島の自然環境をよくすることにつながる可能性がある）
+本文の optimism（楽観的な見方）と選択肢の could（～する可能性がある）は、どちらも「よい結果が期待できる」という程度の言い方で、確かさの度合いも合っています。ですから2が正解です。
+この問題の型：言いかえ（replanting native trees → restore forests）／推論（在来種の将来を守る見通し→自然環境がよくなる可能性）
+【ほかの選択肢】
+1 本文にありません。本文では侵入種が環境に打撃を与えたことは書かれていますが、侵入種を取り除くことに力を入れたほうがよいという意見は書かれていません。また、本文は木を植え直す取り組みに楽観的な見方を示しています。
+3 本文にありません。第4段落には forested interior highlands（森林におおわれた内陸の高地）があると書かれているだけで、高地が近づきにくいために被害をまぬがれたとは書かれていません。
+4 本文にありません。ほかの島から動物を持ちこむという話は書かれていません。本文で述べられている取り組みは、在来の木を植え直すことです。
+【覚えるポイント】
+・turn the tide：「流れを変える、形勢を逆転させる」。ここでは、すみかが失われていく流れを、木を植え直すことで変えようとしていることを表しています。
+・設問が concludes that（結論づけている）で終わるときは、段落や文章の最後の文（ここでは there is optimism that ～）に筆者のまとめが書かれていることが多いので、そこを中心に選択肢と比べることが手がかりになります。

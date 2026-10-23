@@ -1,0 +1,33 @@
+---
+choices: adding vitamin C to chocolate can make it even healthier than adding fruit juice alone. | water and vitamin C can be used to make chocolate healthier without changing the taste. | the combination of fat and sugar in chocolate is the main reason that people enjoy eating it. | chocolate that tastes like fruit is naturally healthier than other types of chocolate.
+answerText: water and vitamin C can be used to make chocolate healthier without changing the taste.
+reviewed: yes
+---
+【正解】2 water and vitamin C can be used to make chocolate healthier without changing the taste.（水とビタミンCを使って、味を変えずにチョコレートをより健康的にすることができる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：科学者チームが見つけたのは、
+1 adding vitamin C to chocolate can make it even healthier than adding fruit juice alone.（チョコレートにビタミンCを加えると、果物のジュースだけを加える場合よりも、さらに健康的にすることができるということだ。）
+2 water and vitamin C can be used to make chocolate healthier without changing the taste.（水とビタミンCを使って、味を変えずにチョコレートをより健康的にすることができるということだ。）
+3 the combination of fat and sugar in chocolate is the main reason that people enjoy eating it.（チョコレートの中の脂肪と砂糖の組み合わせが、人々がチョコレートを食べるのを楽しむ主な理由だということだ。）
+4 chocolate that tastes like fruit is naturally healthier than other types of chocolate.（果物の味がするチョコレートは、もともとほかの種類のチョコレートよりも健康的だということだ。）
+【考え方】
+選択肢に出てくる vitamin C（ビタミンC）は、第4段落に出てきます。
+More recently, the scientists have found that it is possible to replace the fruit juice with water and vitamin C in order to maintain a purely chocolate flavor.（さらに最近になって、科学者たちは、純粋なチョコレートの味を保つために、果物のジュースを水とビタミンCに置きかえることができると分かった）
+これまでの方法では、脂肪の代わりに果物のジュースを使っていました。その果物のジュースを、さらに水とビタミンCに置きかえられるということです。果物のジュースは脂肪の代わりに使われていたので、水とビタミンCも脂肪の代わりになると読み取れます。in order to maintain a purely chocolate flavor は「純粋なチョコレートの味を保つために」で、果物の味を混ぜず、チョコレートだけの味のままにするためだということです。
+また、第4段落には、今回の研究について the aim is not to improve the flavor of the chocolate but to make it healthier（目的はチョコレートの味をよくすることではなく、より健康的にすること）とあり、最後にも The new method, however, will make it much healthier than before.（しかし、新しい方法によって、チョコレートは以前よりもずっと健康的になる）とあります。
+本文と選択肢を対にすると、次のようになります。
+本文 replace the fruit juice with water and vitamin C（果物のジュースを水とビタミンCに置きかえる）→ 選択肢 water and vitamin C can be used（水とビタミンCを使うことができる）
+本文 maintain a purely chocolate flavor（純粋なチョコレートの味を保つ）＝ 選択肢 without changing the taste（味を変えずに）
+本文 to make it healthier / much healthier than before（より健康的にする／以前よりずっと健康的）→ 選択肢 make chocolate healthier（チョコレートをより健康的にする）
+水とビタミンCを使うやり方も、脂肪を置きかえる新しい方法の1つなので、味を保ったままチョコレートをより健康的にできると読み取れます。
+ですから、2が正解です。
+【ほかの選択肢】
+1 本文では、水とビタミンCは、チョコレートの味を保つために果物のジュースの代わりに使われるものです。ビタミンCを加えると、果物のジュースだけの場合よりさらに健康的になる、という比較は本文に書かれていません。
+3 脂肪と砂糖の組み合わせが、人々がチョコレートを楽しむ主な理由だとは書かれていません。本文では、脂肪と砂糖は体に害になることがある材料として出てきます。
+4 第4段落に fruit-flavored chocolate has been available for some time（果物の味のチョコレートは以前からあった）とありますが、それがほかのチョコレートより健康的だとは書かれていません。今回の方法は、味ではなく健康のための工夫だと説明されています。
+【覚えるポイント】
+・in order to ～：「～するために」と目的を表します。
+・maintain：「保つ、維持する」。maintain the flavor＝味を保つ。

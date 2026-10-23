@@ -1,0 +1,26 @@
+---
+choices: admitted | revealed | determined | frightened
+answerText: determined
+reviewed: yes
+---
+【正解】3 determined（固く決心している）
+【和訳】
+（英文）
+Lisa is ［determined］ to become a professional pianist, so she practices for many hours every day.
+（訳）
+リサはプロのピアニストになると（固く決心している）ので、毎日何時間も練習しています。
+（選択肢の意味）
+1 admitted：（入ることを）許された、認められた
+2 revealed：明らかにされた
+3 determined：固く決心している
+4 frightened：おびえた、こわがった
+【考え方】
+空所のあとは to become a professional pianist（プロのピアニストになること）です。be determined to ～ で「～しようと固く決心している」という意味になります。
+次に、so のあとの she practices for many hours every day（毎日何時間も練習している）を見ます。so は「だから」と、前の内容の結果を述べる語です。「プロのピアニストになると固く決めている→だから毎日何時間も練習している」と、自然につながります。ですから、3が正解です。
+【ほかの選択肢】
+1 admitted は admit（認める、入ることを許す）の -ed 形で、be admitted to ～ は「（学校など）への入学を許される」という意味です。to のあとには場所や学校を表す名詞が来ます。「プロのピアニストになることを許されている」という意味にはならず、文が成り立ちません。
+2 revealed は reveal（明らかにする）の -ed 形で、be revealed は「明らかにされる」です。「リサはプロのピアニストになることを明らかにされている」となり、意味が通りません。
+4 frightened は「おびえた、こわがった」です。be frightened to ～ は「こわくて～できない、～するのがこわい」という意味になります。プロのピアニストになるのがこわいのなら、「だから毎日何時間も練習している」という後半とつながりません。
+【覚えるポイント】
+・be determined to ～：「～しようと固く決心している」。
+・～, so ...：「～だ。だから…」。so の前が理由、あとが結果です。

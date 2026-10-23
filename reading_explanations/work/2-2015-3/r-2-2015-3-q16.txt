@@ -1,0 +1,27 @@
+---
+choices: helped | played | seen | made
+answerText: played
+reviewed: yes
+---
+【正解】2 played（play a role で「役割を果たす」）
+【和訳】
+（英文）
+Bert Thomas's good looks certainly have ［played］ a role in his success as a politician, but he is also a very good speaker.
+（訳）
+バート・トーマスの見た目のよさは、政治家としての彼の成功に確かに一役買ってきましたが、彼はとても話がうまい人でもあります。
+（選択肢の意味）
+1 helped：助けた
+2 played：（役割を）果たした
+3 seen：見た
+4 made：作った
+【考え方】
+空所は Bert Thomas's good looks certainly have (　) a role in his success as a politician（バート・トーマスの見た目のよさは、政治家としての成功において、確かに役割を（　））の部分です。good looks は「見た目のよさ、整った顔立ち」です。have のあとなので、空所には過去分詞（have と組んで「～してきた」を表す形）が入ります。
+空所のすぐあとの a role（役割）に注目します。play a role in ～ で「～において役割を果たす」という決まった言い方になります。「見た目のよさが、政治家として成功するのに役立ってきた」という意味になります。
+文の後半は but he is also a very good speaker（しかし、彼はとても話がうまい人でもある）です。certainly ～, but …（確かに～だが、…）の形で、まず「見た目も成功の理由の1つだ」と認めたうえで、「話のうまさもある」と付け加えています。この流れにも合います。正解は2です。
+【ほかの選択肢】
+1 helped は「助けた」です。help a role という言い方はしません。「見た目のよさが役割を助けてきた」となり、意味も通りません。
+3 seen は「見た」です。「見た目のよさが役割を見てきた」となり、意味が通りません。
+4 made は「作った」です。「役割を果たす」は play を使って表し、make a role とは言いません。
+【覚えるポイント】
+・play a role in ～：「～において役割を果たす」。play a part in ～ も同じ意味です。
+・certainly ～, but …：「確かに～だが、…」。まず一方を認めてから、別のことを付け加える言い方です。

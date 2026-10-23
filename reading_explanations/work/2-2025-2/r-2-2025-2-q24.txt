@@ -1,0 +1,32 @@
+---
+choices: To prepare a short video to show in the class. | To check their understanding of the content of the video. | To help participants prepare their presentations. | To divide participants into groups based on their understanding.
+answerText: To check their understanding of the content of the video.
+reviewed: yes
+---
+【正解】2 To check their understanding of the content of the video.（動画の内容について、参加者の理解を確かめるため。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Why does Sarah Freeman want course participants to take the quiz?（サラ・フリーマンは、なぜ講座参加者にクイズを受けてほしいのですか。）
+1 To prepare a short video to show in the class.（授業で見せる短い動画を準備するため。）
+2 To check their understanding of the content of the video.（動画の内容について、参加者の理解を確かめるため。）
+3 To help participants prepare their presentations.（参加者が発表の準備をするのを手助けするため。）
+4 To divide participants into groups based on their understanding.（理解の度合いをもとに、参加者をグループに分けるため。）
+【考え方】
+まず見るところ：第1段落の最後の After watching it, there will be a short quiz to test your understanding.
+please watch a fifteen-minute video of basic concepts and practical examples before the first class on April 6（4月6日の最初の授業の前に、基本的な考え方と実際の例を紹介する15分間の動画を見てください）
+サラは参加者に、最初の授業の前に動画を見るよう頼んでいます。
+After watching it, there will be a short quiz to test your understanding.（それを見たあとには、皆さんの理解を確かめるための短いクイズがある。）
+it（それ）は、前の文の「15分間の動画」を指しています。to test your understanding（皆さんの理解を確かめるために）が、クイズの目的です。
+本文と選択肢を対にすると、次のようになります。
+本文 After watching it（動画を見たあと）～ to test your understanding（理解を確かめるために） ＝ 選択肢 To check their understanding of the content of the video（動画の内容についての理解を確かめるため）
+test（試す、確かめる）が check（確かめる）に、your（皆さんの）が their（参加者の）に言いかえられています。ですから2が正解です。
+この問題の型：言いかえ（test your understanding ＝ check their understanding）
+【ほかの選択肢】
+1 動画は、参加者が最初の授業の前に見るものとして出てきます。クイズが「授業で見せる動画を準備するため」だとは書かれていません。
+3 「発表（プレゼンテーション）」については、メールのどこにも書かれていません。
+4 「理解の度合いでグループに分ける」ことは、本文にありません。understanding（理解）という語は本文にも出てきますが、クイズの目的は理解を確かめることだけで、グループ分けの話はありません。
+【覚えるポイント】
+・test your understanding：「理解を確かめる」。設問では check their understanding と言いかえられていました。
+・Why ～? の設問では、本文の to ～（～するために）の部分が目的を表していることが多く、答えの手がかりになります。

@@ -1,0 +1,32 @@
+---
+choices: prevalent | trivial | savage | arrogant
+answerText: prevalent
+reviewed: yes
+---
+【正解】1 prevalent（広く行われている、普及している）
+【和訳】
+（英文）
+Some traditions in Japan have disappeared, but taking off one's shoes at the entrance of homes is still ［prevalent］.
+（訳）
+日本のいくつかの伝統はなくなってしまったが、家の玄関で靴を脱ぐことは今でも（広く行われている）。
+（選択肢の意味）
+1 prevalent：広く行われている、普及している
+2 trivial：ささいな、取るに足らない
+3 savage：野蛮な、どう猛な
+4 arrogant：傲慢な（いばって人を見下す）
+【考え方】
+まず見るところ：文の中ほどの but と、空所の直前の still
+前半は次のとおりです。
+Some traditions in Japan have disappeared（日本のいくつかの伝統はなくなってしまった）
+後半は次のとおりです。
+taking off one's shoes at the entrance of homes is still ( )（家の玄関で靴を脱ぐことは今でも（　）だ）
+but（しかし）でつながれているので、後半は前半の「なくなった」と反対の内容になると考えられます。still は「今でも、まだ」という意味です。
+「なくなった伝統もあるが、靴を脱ぐことは今でもなくなっていない」という流れにするには、「広く行われている」という意味の語が入ります。prevalent は「広く行われている、普及している」なので、1が正解です。
+この問題の型：対比（なくなった伝統⇔今でも広く行われている習慣）
+【ほかの選択肢】
+2 trivial は「ささいな、取るに足らない」です。「靴を脱ぐことは今でもささいなことだ」では、前半の「なくなった」との対比になりません。
+3 savage は「野蛮な、どう猛な」です。靴を脱ぐ習慣を野蛮だと言う理由は文中になく、「なくなった」との対比にもなりません。
+4 arrogant は「傲慢な（いばって人を見下す）」で、ふつう人の態度について使う語です。家で靴を脱ぐという習慣を表す語としては合いません。
+【覚えるポイント】
+・prevalent：「広く行われている、普及している」。
+・A, but B is still ～ の形では、B が「今もなくならずに続いている」という向きになることが多いので、A とは反対の意味の語を選ぶと手がかりになります。

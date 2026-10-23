@@ -1,0 +1,27 @@
+---
+choices: the other | another | either | both
+answerText: the other
+reviewed: yes
+---
+【正解】1 the other（〔2つのうちの〕もう一方）
+【和訳】
+（英文）
+Sally looked at two laptops and decided to buy the smaller one. She thought it would be more convenient than ［the other］ because she was going to take it to her college every day.
+（訳）
+サリーは2台のノートパソコンを見て、小さいほうを買うことに決めました。毎日大学に持っていくつもりだったので、彼女は、そのほうが（もう一方）より便利だろうと考えました。
+（選択肢の意味）
+1 the other：（2つのうちの）もう一方
+2 another：（ほかの）もう1つ、別のもの
+3 either：（2つのうちの）どちらか一方、どちらでも
+4 both：両方
+【考え方】
+最初の文の two laptops（2台のノートパソコン）と、decided to buy the smaller one（小さいほうを買うことに決めた）に注目します。比べているのは2台だけです。
+空所のある文は She thought it would be more convenient than (　).（そのほうが（　）より便利だろうと考えた）です。it は小さいほうのノートパソコンを指しています。more convenient than ～ は「～より便利だ」という比較の言い方なので、空所には比べる相手が入ります。
+2台のうち、小さいほうと比べる相手は残りの1台、つまり大きいほうです。2つのうちの「もう一方」は the other で表します。1が正解です。
+【ほかの選択肢】
+2 another は「（ほかの）もう1つ、別のもの」です。どれと決まっていない「別の1つ」を指す語なので、2台のうちの決まった残りの1台（大きいほう）を指すこの文には合いません。
+3 either は「（2つのうちの）どちらか一方、どちらでも」です。「どちらと比べても便利だ」となると、小さいほう自身も比べる相手に入ってしまい、意味が通りません。
+4 both は「両方」です。「両方より便利だ」としても、小さいほう自身が「両方」に入ってしまうので、意味が通りません。
+【覚えるポイント】
+・2つのうち1つを one と言ったら、残りの1つは the other と言います。
+・more ～ than …：「…より～だ」。than のあとには比べる相手が来ます。

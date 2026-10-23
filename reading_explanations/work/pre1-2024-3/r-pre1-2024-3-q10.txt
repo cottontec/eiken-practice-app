@@ -1,0 +1,30 @@
+---
+choices: revolve | digest | compile | afflict
+answerText: revolve
+reviewed: yes
+---
+【正解】1 revolve（回転する）
+【和訳】
+（英文）
+The Ferris wheel began to ［revolve］ slowly, lifting the carriages and their passengers high above the city and then down again.
+（訳）
+観覧車がゆっくりと回り始め、ゴンドラとその乗客を街の上高くまで持ち上げ、それからまた下ろしていった。
+（選択肢の意味）
+1 revolve：回転する、回る
+2 digest：（食べ物を）消化する、（内容を）よく理解する
+3 compile：（資料を集めて）まとめる、編集する
+4 afflict：苦しめる
+【考え方】
+まず見るところ：主語の The Ferris wheel と、あとの lifting ～ high above the city and then down again
+主語は The Ferris wheel（観覧車）です。観覧車がどう動き始めたのかを表す動詞を選びます。
+lifting the carriages and their passengers high above the city and then down again（ゴンドラとその乗客を街の上高くまで持ち上げ、それからまた下ろしていった）
+ゴンドラ（人が乗る箱）が高く上がって、また下りてくる、というのは、観覧車が輪のように回るときの動きです。
+revolve は「回転する」という意味なので、「観覧車がゆっくりと回り始めた」となり、あとの説明とも合います。ですから、1が正解です。
+この問題の型：語の意味・組み合わせ（Ferris wheel ＋ revolve）
+【ほかの選択肢】
+2 digest は「消化する」です。「観覧車がゆっくりと消化し始めた」となり、意味が通りません。
+3 compile は「（資料を）まとめる、編集する」です。人が本や資料について行う動作で、観覧車の動きにはなりません。
+4 afflict は「苦しめる」です。「観覧車がゆっくりと苦しめ始めた」となり、ゴンドラが上がって下りる動きとつながりません。
+【覚えるポイント】
+・revolve：「回転する」。観覧車や車輪のように、軸の周りを回ることを表します。
+・動作を表す動詞の空所では、主語が何か（ここでは観覧車）と、そのあとに書かれた動きの説明（上がってまた下りる）を合わせて考えると、答えを選ぶ手がかりになります。

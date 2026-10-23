@@ -1,0 +1,31 @@
+---
+choices: could only get a small amount of purple straw wheat seeds. | tested it in several different locations in the United States. | offered flour made from the wheat to chefs, bakers, and whiskey makers. | were surprised at how quickly they were able to produce enough to sell.
+answerText: could only get a small amount of purple straw wheat seeds.
+reviewed: yes
+---
+【正解】1 could only get a small amount of purple straw wheat seeds.（パープルストロー小麦の種子を少しの量しか手に入れることができなかった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Researchers who have been growing purple straw wheat（パープルストロー小麦を育ててきた研究者たちは、）
+1 could only get a small amount of purple straw wheat seeds.（パープルストロー小麦の種子を少しの量しか手に入れることができなかった。）
+2 tested it in several different locations in the United States.（アメリカのいくつかの異なる場所でそれを試験した。）
+3 offered flour made from the wheat to chefs, bakers, and whiskey makers.（その小麦から作った小麦粉を、料理人、パン職人、ウイスキーの製造者に提供した。）
+4 were surprised at how quickly they were able to produce enough to sell.（売るのに十分な量をどれほど早く生産できたかに驚いた。）
+【考え方】
+まず見るところ：第4段落の its seeds were not easy to obtain と a few grams
+However, its seeds were not easy to obtain because there were only a few sources.（しかし、入手先がほんの少ししかなかったため、その種子を手に入れるのは簡単ではなかった）
+The researchers finally managed to get a few grams of purple straw wheat seeds ～（研究者たちはついに数グラムのパープルストロー小麦の種子をなんとか手に入れ～）
+obtain は「手に入れる」、source は「（ものを手に入れる）元、入手先」、manage to ～ は「なんとか～する」という意味です。研究者たちは苦労して、わずか数グラムの種子を手に入れたということです。
+本文と選択肢を対にすると、次のようになります。
+本文 its seeds were not easy to obtain ／ managed to get a few grams of purple straw wheat seeds（種子は手に入りにくく、数グラムをなんとか手に入れた）→ 選択肢 could only get a small amount of purple straw wheat seeds（種子を少しの量しか手に入れられなかった）
+a few grams（数グラム）が a small amount（少しの量）に言いかえられています。ですから1が正解です。
+この問題の型：言いかえ（a few grams → a small amount）
+【ほかの選択肢】
+2 本文では、研究者たちは種子を planted them at Clemson University in South Carolina（サウスカロライナ州のクレムソン大学で植えた）とあります。いくつかの異なる場所で試験したとは書かれていません。
+3 本文には it is still not enough to make and sell flour（それでもまだ小麦粉を作って売るには足りない）とあります。また、料理人やパン職人、ウイスキーの製造者は are looking forward to being able to use（使えるようになるのを楽しみにしている）とあり、まだ使えていないことが分かります。小麦粉を提供したという話とは合いません。
+4 本文では、研究者たちは gradually increasing（少しずつ増やしている）とあり、まだ売るのに十分な量にはなっていません。早く十分な量を生産できて驚いた、という内容は本文と反対です。
+【覚えるポイント】
+・manage to ～：「なんとか～する、どうにか～できる」。
+・looking forward to（～を楽しみにしている）や still not enough（まだ足りない）のような語句は、「まだ実現していない」ことを表す手がかりになります。

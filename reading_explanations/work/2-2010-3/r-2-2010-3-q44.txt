@@ -1,0 +1,32 @@
+---
+choices: His airplane never flew again after its first flight across the sea. | The war finished long before his airplane was ready to be used. | A test flight showed that his airplane was able to fly despite its size. | He successfully flew his airplane from California to Washington, D.C.
+answerText: A test flight showed that his airplane was able to fly despite its size.
+reviewed: yes
+---
+【正解】3 A test flight showed that his airplane was able to fly despite its size.（試験飛行によって、彼の飛行機があの大きさにもかかわらず飛べることが示されたから。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：政府はなぜヒューズについての調査を終えたのですか。
+1 His airplane never flew again after its first flight across the sea.（彼の飛行機は、海をこえる初めての飛行のあと、二度と飛ばなかったから。）
+2 The war finished long before his airplane was ready to be used.（彼の飛行機が使えるようになるずっと前に、戦争が終わったから。）
+3 A test flight showed that his airplane was able to fly despite its size.（試験飛行によって、彼の飛行機があの大きさにもかかわらず飛べることが示されたから。）
+4 He successfully flew his airplane from California to Washington, D.C.（彼は飛行機でカリフォルニアからワシントンD.C.まで飛ぶことに成功したから。）
+【考え方】
+調査の話は第4段落にあります。
+まず Many people doubted that such a huge airplane could fly, and they criticized Hughes for spending so much public money on it.（多くの人々は、そのような巨大な飛行機が飛べるのかを疑い、それほど多くの公のお金を使ったことでヒューズを批判した）とあります。doubt は「疑う」、criticize は「批判する」です。そして1947年、ヒューズは政府の取り調べのためにワシントンD.C.に呼ばれました。
+ところが、調査の夏休みの間に、ヒューズはカリフォルニアに戻って試験飛行を行い、the huge plane rose 21 meters above the water and flew for about 1.6 kilometers（その巨大な飛行機は水面から21メートル上がり、約1.6キロメートル飛んだ）のです。
+そして Hughes had shown his critics that the airplane could fly, and the government ended the investigation.（ヒューズは、批判していた人々にその飛行機が飛べることを示し、政府は調査を終えた）とあります。critics は「批判する人々」です。
+本文と選択肢は次のように対応しています。
+本文 take the Hercules on a test flight（ハーキュリーズの試験飛行をする）＝ 選択肢 A test flight（試験飛行）
+本文 Hughes had shown his critics that the airplane could fly（ヒューズは飛行機が飛べることを示した）＝ 選択肢 showed that his airplane was able to fly（飛行機が飛べることを示した）
+本文 such a huge airplane（そのような巨大な飛行機）＝ 選択肢 despite its size（あの大きさにもかかわらず）
+despite ～ は「～にもかかわらず」です。正解は3です。
+【ほかの選択肢】
+1 ハーキュリーズが二度と飛ばなかったことは本文にありますが、試験飛行は水面の上を約1.6キロメートル飛んだだけで、海をこえたわけではありません。また、二度と飛ばなかったことは、調査が終わった理由として書かれていないので、誤りです。
+2 ヒューズが完成させたころには戦争が終わっていた、とは書かれていますが、それが調査を終えた理由ではありません。調査が終わったのは、試験飛行で飛べることを示したあとなので、誤りです。
+4 ヒューズはワシントンD.C.から試験飛行のためにカリフォルニアへ戻っています。カリフォルニアからワシントンD.C.まで飛んだという話はないので、誤りです。
+【覚えるポイント】
+・despite ～：「～にもかかわらず」。in spite of ～ と同じ意味です。
+・criticize ＋ 人 ＋ for ～：「～のことで人を批判する」。

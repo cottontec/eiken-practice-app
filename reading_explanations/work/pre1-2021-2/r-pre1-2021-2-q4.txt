@@ -1,0 +1,32 @@
+---
+choices: holistic | fanatical | mellow | illogical
+answerText: fanatical
+reviewed: yes
+---
+【正解】2 fanatical（熱狂的な）
+【和訳】
+（英文）
+The young politician has a small but ［fanatical］ following. His supporters are extremely enthusiastic at his campaign events, and they travel long distances just to hear him speak.
+（訳）
+その若い政治家には、少ないが（熱狂的な）支持者たちがいる。彼の支持者たちは選挙運動の催しでたいへん熱心で、彼が話すのを聞くためだけに、長い距離を移動してやって来る。
+（選択肢の意味）
+1 holistic：全体的な、全体をひとまとまりとして見る
+2 fanatical：熱狂的な
+3 mellow：穏やかな、落ち着いた
+4 illogical：筋の通らない、非論理的な
+【考え方】
+まず見るところ：あとの文の extremely enthusiastic と travel long distances just to hear him speak
+あとの文を確かめます。
+His supporters are extremely enthusiastic at his campaign events, and they travel long distances just to hear him speak.（彼の支持者たちは選挙運動の催しでたいへん熱心で、彼が話すのを聞くためだけに、長い距離を移動してやって来る）
+enthusiastic は「熱心な、夢中になっている」という意味です。話を聞くためだけに遠くから来るほど、支持者たちは熱心だということが分かります。
+次に、空所のある文を見ます。
+The young politician has a small but ( ) following.（その若い政治家には、少ないが（　）支持者たちがいる）
+following はここでは名詞で「支持者たち、ファンの集まり」という意味です。small but（少ないが）のあとなので、「数は少ないけれど、こういう点はすごい」という語が入ります。あとの文の内容から、fanatical（熱狂的な）が合うので、2が正解です。
+この問題の型：言いかえ（extremely enthusiastic → fanatical）／対比（small but ～：数は少ないが熱心）
+【ほかの選択肢】
+1 holistic は「全体的な」です。「少ないが全体的な支持者たち」では意味が通らず、支持者が熱心だという話ともつながりません。
+3 mellow は「穏やかな、落ち着いた」です。遠くから話を聞きに来るほど熱心な支持者のようすとは、むしろ合いません。
+4 illogical は「筋の通らない」です。あとの文には支持者の熱心さが書かれているだけで、考え方が筋が通らないという話はありません。
+【覚えるポイント】
+・following：名詞で「支持者たち、ファン」。has a small but fanatical following で「少ないが熱狂的な支持者がいる」。
+・small but ( ) のような形では、but のあとに「数は少ないが、そのかわりに目立つ性質」が来ることが多く、あとの文の説明が手がかりになります。

@@ -1,0 +1,30 @@
+---
+choices: Designers should limit the number of technical nutrients used in their products to two. | Publishers should try to plant new trees to replace the ones they cut down to make paper. | People should only buy products that are biological and can be returned to nature. | Metals and plastics should only be used if they can be recycled without damaging the environment.
+answerText: Metals and plastics should only be used if they can be recycled without damaging the environment.
+reviewed: yes
+---
+【正解】4 Metals and plastics should only be used if they can be recycled without damaging the environment.（金属やプラスチックは、環境に害を与えずにリサイクルできる場合にだけ使われるべきだ。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ウィリアム・マクダナーとマイケル・ブラウンガートが本の中で述べていることの1つは何ですか。
+1 Designers should limit the number of technical nutrients used in their products to two.（デザイナーは、製品に使う技術的な栄養素の数を2つに限るべきだ。）
+2 Publishers should try to plant new trees to replace the ones they cut down to make paper.（出版社は、紙を作るために切った木の代わりに、新しい木を植えるよう努めるべきだ。）
+3 People should only buy products that are biological and can be returned to nature.（人々は、生物的で自然に戻すことができる製品だけを買うべきだ。）
+4 Metals and plastics should only be used if they can be recycled without damaging the environment.（金属やプラスチックは、環境に害を与えずにリサイクルできる場合にだけ使われるべきだ。）
+【考え方】
+2人の本の内容は、第2段落に書かれています。In a book published in 2002, they suggested an approach which they called Cradle to Cradle (C2C).（2002年に出版された本の中で、2人はC2Cと名づけた考え方を提案した）とあります。approach は「考え方、取り組み方」です。
+続けて、With C2C, the materials used in manufacturing are limited to two types—technical and biological "nutrients."（C2Cでは、製造に使われる材料は、技術的な「栄養素」と生物的な「栄養素」の2種類に限られる）と説明されています。
+そして、Technical nutrients are things such as metal and plastic, but only those that can be used again and again without harming the environment.（技術的な栄養素とは、金属やプラスチックのようなものだが、環境に害を与えずに何度もくり返し使えるものだけだ）とあります。but only those that ～ は「ただし、～するものだけ」という意味で、金属やプラスチックの中でも条件に合うものだけが使える、ということです。
+本文と選択肢は次のように対応しています。
+本文 only those that can be used again and again（何度もくり返し使えるものだけ）→ 選択肢 should only be used if they can be recycled（リサイクルできる場合にだけ使われるべきだ）
+本文 without harming the environment → 選択肢 without damaging the environment（どちらも「環境に害を与えずに」）
+本文の「何度もくり返し使える」を、選択肢では「リサイクルできる」と言いかえています。正解は4です。
+【ほかの選択肢】
+1 本文の two（2）は、材料の種類が「技術的な栄養素」と「生物的な栄養素」の2種類だという意味です。技術的な栄養素の数を2つに限るという話ではありません。
+2 紙は、生物的な栄養素の例として出てくるだけです。出版社が新しい木を植えるべきだとは書かれていません。
+3 C2Cでは、生物的な栄養素だけでなく、条件に合う技術的な栄養素（金属やプラスチック）も使われます。生物的な製品「だけ」を買うべきだとは書かれていません。
+【覚えるポイント】
+・be limited to ～：「～に限られる」。
+・only those that ～：「～するものだけ」。those は「（そういう）もの」を表し、that 以下で説明が付け足されています。

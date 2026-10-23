@@ -1,0 +1,30 @@
+---
+choices: catch on | throw off | fix up | back down
+answerText: back down
+reviewed: yes
+---
+【正解】4 back down（引き下がる、主張をゆずる）
+【和訳】
+（英文）
+Neither side was willing to ［back down］ during the trade negotiations, so the two countries could not reach an agreement.
+（訳）
+貿易交渉の間、どちらの側も引き下がろうとしなかったので、その2か国は合意に達することができなかった。
+（選択肢の意味）
+1 catch on：流行する、（意味を）理解する
+2 throw off：振り払う、（追ってくる人を）まく
+3 fix up：修理する、整える、手配する
+4 back down：（主張や要求から）引き下がる、ゆずる
+【考え方】
+まず見るところ：文の初めの Neither side was willing to と、後半の so the two countries could not reach an agreement
+文の後半は so（だから）で始まり、「その2か国は合意に達することができなかった」という結果が書かれています。
+Neither side was willing to ( ) during the trade negotiations（貿易交渉の間、どちらの側も（　）しようとしなかった）
+Neither side は「どちらの側も～ない」、be willing to ～ は「～する気がある」という意味です。合意できなかった原因は、「どちらも（　）しようとしなかったから」です。
+交渉で合意するには、どちらかが自分の主張を少しゆずる必要があります。back down は「（主張から）引き下がる、ゆずる」という意味なので、「どちらの側もゆずろうとしなかったので、合意できなかった」となります。ですから、4が正解です。
+この問題の型：因果（どちらもゆずらなかった → 合意できなかった）
+【ほかの選択肢】
+1 catch on は「流行する、理解する」です。「どちらの側も流行しようとしなかった」となり、合意できなかった原因になりません。
+2 throw off は「振り払う、（追ってくる人を）まく」です。何を振り払うのかを表す語もなく、交渉で合意できなかった理由として意味が通りません。
+3 fix up は「修理する、整える」です。「どちらの側も修理しようとしなかった」となり、意味が通りません。
+【覚えるポイント】
+・back down：「（主張や要求から）引き下がる、ゆずる」。
+・Neither side（どちらの側も～ない）のような否定の文の空所では、so のあとの結果（ここでは合意できなかった）から「何をしなかったから、そうなったのか」を逆に考えると、答えの手がかりになります。

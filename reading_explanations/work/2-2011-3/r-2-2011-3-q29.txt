@@ -1,0 +1,26 @@
+---
+choices: reserve | delay | replace | encourage
+answerText: encourage
+reviewed: yes
+---
+【正解】4 encourage（促す、勧める）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 reserve：予約する、取っておく
+2 delay：遅らせる
+3 replace：取りかえる、～に取って代わる
+4 encourage：促す、勧める、はげます
+【考え方】
+空所は本文の最後の文 According to Attari, it is important that governments (　) people to invest in the new fuel-saving inventions that are now available.（アッタリによると、今手に入るようになっている、燃料を節約する新しい発明品にお金を使うよう、政府が人々に～することが大切だ）にあります。invest in ～ は「～にお金を使う、投資する（あとで利益が得られるように、お金を出す）」という意味です。
+空所のあとの形 (　) people to invest に注目します。「動詞＋人＋ to ～」の形で「人に～するように…する」という意味になる動詞が入ります。
+内容も確かめます。第3段落では、新しい技術に切りかえれば、暮らし方を変えずにずっと少ないエネルギーですむと書かれていました。そうした新しい発明品を人々に使ってもらうために、政府がすべきことは、人々にそれを「勧める、促す」ことです。また、第1段落にも governments have been trying hard to get people to reduce the amount of energy they use（政府は人々にエネルギーの量を減らしてもらおうと懸命に努力してきた）とあり、政府が人々に働きかける役目をもっていることが分かります。
+encourage ＋人＋ to ～ で「人に～するように促す、勧める」となるので、4が正解です。
+【ほかの選択肢】
+1 reserve は「予約する、取っておく」です。「政府が人々を予約する」となり、意味が通りません。reserve ＋人＋ to ～ の形でも使いません。
+2 delay は「遅らせる」です。「政府が、人々の投資を遅らせる」ことが大切だとすると、新しい技術に切りかえるべきだという本文の主張と反対になってしまいます。
+3 replace は「取りかえる、～に取って代わる」です。「政府が人々に取って代わる」となり、意味が通りません。replace ＋人＋ to ～ の形でも使いません。
+【覚えるポイント】
+・encourage ＋人＋ to ～：「人に～するように促す、勧める」。
+・invest in ～：「～にお金を使う、投資する」。

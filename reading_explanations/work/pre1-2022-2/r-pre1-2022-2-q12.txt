@@ -1,0 +1,30 @@
+---
+choices: merged | posed | conformed | flocked
+answerText: merged
+reviewed: yes
+---
+【正解】1 merged（合併した、1つになった）
+【和訳】
+（英文）
+After the two companies ［merged］, several senior employees became unnecessary and lost their jobs.
+（訳）
+その2つの会社が（合併した）あと、何人かの地位の高い社員が不要になり、職を失った。
+（選択肢の意味）
+1 merged：合併した、1つになった
+2 posed：ポーズをとった、（問題などを）引き起こした
+3 conformed：（決まりなどに）従った
+4 flocked：群がった、集まった
+【考え方】
+まず見るところ：空所の前の the two companies と、あとの became unnecessary and lost their jobs
+After the two companies (　),（その2つの会社が（　）したあと）
+主語は the two companies（その2つの会社）です。2つの会社がいっしょにすることを表す語が入ると考えられます。
+several senior employees became unnecessary and lost their jobs（何人かの地位の高い社員が不要になり、職を失った）
+2つの会社が1つになると、同じような仕事をする人が重なるので、一部の社員がいらなくなることがあると考えられます。merge は「（会社などが）合併する、1つになる」なので、1が正解です。
+この問題の型：因果（合併した → 社員が不要になった）
+【ほかの選択肢】
+2 posed は「ポーズをとった」です。「2つの会社がポーズをとったあと」となり、意味が通りません。
+3 conformed は「（決まりなどに）従った」です。何に従ったのかが書かれておらず、社員が不要になった理由にもなりません。
+4 flocked は「群がった」です。人や鳥などが集まるときに使う語で、「2つの会社が群がった」では意味が通りません。
+【覚えるポイント】
+・merge：「（会社などが）合併する、1つになる」。senior employees：「地位の高い社員」。lose one's job：「職を失う」。
+・the two ～（その2つの～）が主語になっていて、そのあとに「人がいらなくなった」という結果が続くときは、「2つが1つになる」という意味の語が手がかりになります。

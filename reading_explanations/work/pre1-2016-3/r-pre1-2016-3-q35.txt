@@ -1,0 +1,35 @@
+---
+choices: Nicaragua was encouraging its citizens to move to Isla Portillos illegally and live there permanently. | The Nicaraguan military had done environmental damage to Isla Portillos during a historical battle over a border area. | Nicaraguan soldiers had been sent into an area of Costa Rican territory to take it over by force. | The Nicaraguan government was forcibly preventing Costa Rican river traffic from accessing the San Juan River.
+answerText: Nicaraguan soldiers had been sent into an area of Costa Rican territory to take it over by force.
+reviewed: yes
+---
+【正解】3 Nicaraguan soldiers had been sent into an area of Costa Rican territory to take it over by force.（ニカラグアの兵士たちが、コスタリカの領土のある地域に、そこを力ずくで奪うために送りこまれていた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What was one complaint that Costa Rica made against Nicaragua?（コスタリカがニカラグアに対して行った訴えの一つは何だったか。）
+1 Nicaragua was encouraging its citizens to move to Isla Portillos illegally and live there permanently.（ニカラグアは自国の国民に、イスラ・ポルティージョスへ不法に移り住み、そこにずっと住み続けるよう勧めていた。）
+2 The Nicaraguan military had done environmental damage to Isla Portillos during a historical battle over a border area.（ニカラグアの軍は、国境地域をめぐる歴史上の戦いの間に、イスラ・ポルティージョスに環境上の損害を与えていた。）
+3 Nicaraguan soldiers had been sent into an area of Costa Rican territory to take it over by force.（ニカラグアの兵士たちが、コスタリカの領土のある地域に、そこを力ずくで奪うために送りこまれていた。）
+4 The Nicaraguan government was forcibly preventing Costa Rican river traffic from accessing the San Juan River.（ニカラグア政府は、コスタリカの船がサンフアン川に入るのを力ずくで妨げていた。）
+【考え方】
+まず見るところ：第1段落の In an aggressive move, Nicaragua had sent armed troops in to claim and occupy the territory.
+コスタリカの訴えは第1段落に書かれています。1つ目の訴えは、ニカラグアがイスラ・ポルティージョスという土地を不法に占領していることでした。その土地については、次のように書かれています。
+it is officially part of Costa Rica（それは公式にはコスタリカの一部である）
+そして、ニカラグアがしたことは次のとおりです。
+In an aggressive move, Nicaragua had sent armed troops in to claim and occupy the territory.（攻撃的な行動として、ニカラグアは武装した部隊を送りこみ、その領土を自国のものだと主張して占領していた）
+armed troops は「武装した部隊」、occupy は「占領する（その土地を自分たちのものとして居すわる）」という意味です。
+本文と選択肢3を対にすると、次のようになります。
+本文 had sent armed troops in（武装した部隊を送りこんでいた）＝ 選択肢 Nicaraguan soldiers had been sent into（ニカラグアの兵士たちが送りこまれていた）
+本文 officially part of Costa Rica（公式にはコスタリカの一部）＝ 選択肢 an area of Costa Rican territory（コスタリカの領土のある地域）
+本文 to claim and occupy the territory（その領土を自国のものだと主張して占領するために）→ 選択肢 to take it over by force（力ずくでそこを奪うために）
+本文は「ニカラグアが部隊を送った」という能動の形、選択肢は「兵士たちが送られた」という受け身の形（「～される」の形）で、同じ出来事を表しています。ですから3が正解です。
+この問題の型：言いかえ（armed troops ＝ soldiers、claim and occupy → take it over by force）
+【ほかの選択肢】
+1 本文にありません。ニカラグアが送りこんだのは armed troops（武装した部隊）で、国民に移り住むよう勧めたとは書かれていません。
+2 本文と合いません。コスタリカが訴えた環境の損害は、ニカラグアが three artificial waterways（3本の人工の水路）を掘ったことによるものです。歴史上の戦いの間に損害を与えたとは書かれていません。本文の historic rights（歴史的な権利）は、ニカラグアの主張の中身で、戦いの話ではありません。
+4 本文にありません。船の航行の話が出てくるのは第2段落で、ニカラグアが「コスタリカの道路のせいで川が浅くなり、航行が難しくなった」と主張した部分です。ニカラグアがコスタリカの船を妨げたという訴えはありません。
+【覚えるポイント】
+・「Aが～を送りこんだ」（能動の形）は、選択肢で「～がAに送りこまれた」（受け身の形）に言いかえられることがあります。主語が変わっても、誰が何をしたかが同じかを確かめましょう。
+・2つの国が互いに訴え合う文章では、段落ごとに「どちらの国の訴えか」を確かめながら読むと、選択肢4のように相手の国の主張と取り違えるのを防ぐ手がかりになります。

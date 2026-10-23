@@ -1,0 +1,30 @@
+---
+choices: kept bothering him and his friend during their meal. | seemed to know very little about the items on the menu. | let him and his friend choose which table to sit at. | made some recommendations to him and his friend.
+answerText: made some recommendations to him and his friend.
+reviewed: yes
+---
+【正解】4 made some recommendations to him and his friend.（彼と友人にいくつかおすすめをした。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Derek Lyle mentions that the server（デレク・ライルは、給仕係が～と述べている。）
+1 kept bothering him and his friend during their meal.（食事の間、彼と友人のじゃまをし続けた。）
+2 seemed to know very little about the items on the menu.（メニューの品についてほとんど知らないようだった。）
+3 let him and his friend choose which table to sit at.（彼と友人に、どのテーブルに座るかを選ばせてくれた。）
+4 made some recommendations to him and his friend.（彼と友人にいくつかおすすめをした。）
+【考え方】
+まず見るところ：第1段落の The server, Beth, was excellent. からあとの部分
+給仕係（the server）のベスさんについては、第1段落に書かれています。その中の次の文に注目します。
+She also gave us some suggestions about what to order（彼女はまた、何を注文するとよいかについていくつか提案をしてくれた）
+「何を注文するとよいか」を提案することは、料理をすすめることです。本文と選択肢を対にすると、次のようになります。
+本文 gave us some suggestions about what to order（何を注文するとよいかについて提案をしてくれた）＝ 選択肢 made some recommendations to him and his friend（彼と友人にいくつかおすすめをした）
+suggestion は「提案」、recommendation は「おすすめ、推薦」で、ここではどちらも「何を注文するとよいかを教えること」を表しています。ですから4が正解です。
+この問題の型：言いかえ（suggestions → recommendations）
+【ほかの選択肢】
+1 本文の内容と合いません。本文には made sure that we had everything we needed during our meal（食事の間、私たちに必要なものがすべてそろっているように気を配ってくれた）とあり、ほめている内容です。じゃまをし続けたという話はありません。
+2 本文と反対の内容です。本文には she was able to answer all our questions about items on the menu（メニューの品についての私たちの質問すべてに答えることができた）とあります。
+3 どのテーブルに座るかを選ばせてくれたという話は、本文にありません。
+【覚えるポイント】
+・make a recommendation：「おすすめをする」。本文の give a suggestion（提案をする）が、選択肢ではこの形に言いかえられています。
+・人物について述べた選択肢を選ぶときは、その人物の名前（ここでは Beth）や役割（the server）が出てくる部分を見つけ、そこに書かれた行動と1つずつ照らし合わせると確かめやすくなります。

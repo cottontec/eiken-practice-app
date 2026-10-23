@@ -1,0 +1,27 @@
+---
+choices: implied | observed | pretended | featured
+answerText: featured
+reviewed: yes
+---
+【正解】4 featured（特集した、大きく取り上げた）
+【和訳】
+（英文）
+The TV news show ［featured］ a report on the country's economic problems. The report included an interview with a leading member of the government.
+（訳）
+そのテレビのニュース番組は、その国の経済問題についての報道を特集しました。その報道には、政府の有力なメンバーへのインタビューが含まれていました。
+（選択肢の意味）
+1 implied：それとなく示した、ほのめかした
+2 observed：観察した、気づいた
+3 pretended：ふりをした
+4 featured：特集した、大きく取り上げた
+【考え方】
+1文目は The TV news show (　) a report on the country's economic problems.（そのテレビのニュース番組は、その国の経済問題についての報道を（　））です。主語は「ニュース番組」、目的語（「～を」にあたる語）は a report（報道）です。番組が報道をどうしたのかを考えます。
+2文目は The report included an interview with a leading member of the government.（その報道には、政府の有力なメンバーへのインタビューが含まれていた）です。included は「含んでいた」、leading は「有力な、主要な」という意味です。政府の有力なメンバーへのインタビューを含む報道だったことが分かります。
+feature は「（番組や雑誌が）～を特集する、大きく取り上げる」という意味です。The TV news show featured a report で「ニュース番組が報道を特集した」となり、意味が通ります。正解は4です。
+【ほかの選択肢】
+1 implied は imply（それとなく示す、ほのめかす）の過去形です。imply は、はっきり言わずにある考えを伝えるときに使う語です。「番組が報道をほのめかした」となり、意味が通りません。
+2 observed は observe（観察する、気づく）の過去形です。「番組が報道を観察した」となり、番組が報道を放送したという話になりません。
+3 pretended は pretend（ふりをする）の過去形です。「番組が報道のふりをした」となり、意味が通りません。
+【覚えるポイント】
+・feature：「～を特集する、大きく取り上げる」。名詞では「特徴、特集記事」という意味もあります。
+・a report on ～：「～についての報道、報告」。

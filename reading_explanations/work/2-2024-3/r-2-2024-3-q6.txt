@@ -1,0 +1,31 @@
+---
+choices: outcome | appetite | victim | conflict
+answerText: outcome
+reviewed: yes
+---
+【正解】1 outcome（結果）
+【和訳】
+（英文）
+Kelly had to leave the arena before the hockey game finished, so Sam told her the ［outcome］ the next day. The Wolves had won 5 to 3.
+（訳）
+ケリーはホッケーの試合が終わる前に競技場を出なければならなかったので、サムが次の日に彼女に（結果）を教えました。ウルブズが5対3で勝ったのでした。
+（選択肢の意味）
+1 outcome：結果
+2 appetite：食欲
+3 victim：被害者、犠牲者
+4 conflict：争い、対立
+【考え方】
+まず見るところ：1文目の before the hockey game finished と、2文目の The Wolves had won 5 to 3.
+Kelly had to leave the arena before the hockey game finished（ケリーはホッケーの試合が終わる前に競技場を出なければならなかった）
+ケリーは試合の最後まで見られなかったので、どちらが勝ったのかを知りません。そこで so（だから）のあとで、サムが次の日に彼女に何かを教えます。
+The Wolves had won 5 to 3.（ウルブズが5対3で勝った）
+had won は「（サムが教えたときより前に）勝っていた」ということを表しています。サムが伝えたのは、試合の勝ち負けと点数、つまり試合の結果です。
+「結果」という意味の outcome を入れると、told her the outcome（彼女に結果を教えた）となり、話がつながります。ですから1が正解です。
+この問題の型：具体例とまとめ（5対3で勝った＝試合の結果）
+【ほかの選択肢】
+2 appetite は「食欲」です。「彼女に食欲を教えた」となり、意味が通りません。
+3 victim は「被害者、犠牲者」です。2文目は試合の点数の話で、だれかが被害を受けたという話ではありません。
+4 conflict は「争い、対立」です。サムが伝えているのは「5対3でウルブズが勝った」という試合の結末です。「争いを教えた」では、ケリーが知らなかった勝ち負けを伝えたことになりません。
+【覚えるポイント】
+・outcome：「結果」。result とほぼ同じ意味です。
+・空所のあとの文が具体的な内容（ここでは点数）を示しているときは、それを一言でまとめる語を選ぶと答えにつながります。

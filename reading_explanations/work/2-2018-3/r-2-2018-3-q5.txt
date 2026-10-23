@@ -1,0 +1,27 @@
+---
+choices: signature | disaster | emotion | occupation
+answerText: occupation
+reviewed: yes
+---
+【正解】4 occupation（職業）
+【和訳】
+（英文）
+When people ask Lori what her ［occupation］ is, she usually says that she is an office worker. It is easier than explaining what her job actually is.
+（訳）
+人々がローリに、あなたの（職業）は何かとたずねると、彼女はたいてい、会社員だと答えます。そのほうが、自分の仕事が実際にどういうものかを説明するよりも簡単なのです。
+（選択肢の意味）
+1 signature：署名、サイン
+2 disaster：災害
+3 emotion：感情
+4 occupation：職業
+【考え方】
+空所に入るものを聞かれたとき、ローリは she is an office worker（自分は会社員だ）と答えています。office worker は「会社員、事務員」で、仕事の種類を表す言葉です。
+さらに、続く文の It is easier than explaining what her job actually is.（そのほうが、自分の仕事が実際に何であるかを説明するよりも簡単だ）では、job（仕事）という語が使われています。くわしく説明すると大変なので、「会社員です」と短く答えている、という話です。
+答えが「会社員」になるのは、「あなたの職業は何ですか」とたずねられたときです。ですから、4 occupation（職業）が正解です。
+【ほかの選択肢】
+1 signature は「署名、サイン」です。「あなたのサインは何ですか」と聞かれて「会社員です」と答えるのは合いません。
+2 disaster は「災害、大失敗」です。「あなたの災害は何ですか」となり、意味が通りません。
+3 emotion は「感情」です。「あなたの感情は何ですか」と聞かれて「会社員です」と答えるのは合いません。
+【覚えるポイント】
+・occupation：「職業」。書類の記入欄などでもよく使われます。
+・比較級 easier（より簡単な）＋ than ～：「～よりも簡単だ」。ここでは「仕事を実際にくわしく説明すること」と比べています。

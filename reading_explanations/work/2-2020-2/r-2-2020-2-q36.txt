@@ -1,0 +1,31 @@
+---
+choices: Local people gained new techniques and information to improve their lives. | Many of the large houses were destroyed and rebuilt by Viking architects. | They were turned into places where Vikings could make their cloth and weapons. | The communities already living there were forced to move to Ireland, Britain, and France.
+answerText: Local people gained new techniques and information to improve their lives.
+reviewed: yes
+---
+【正解】1 Local people gained new techniques and information to improve their lives.（地元の人々が、暮らしをよくするための新しい技術や情報を得た。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：バイキングが住んだ多くの町や村では、何が起こりましたか。
+1 Local people gained new techniques and information to improve their lives.（地元の人々が、暮らしをよくするための新しい技術や情報を得た。）
+2 Many of the large houses were destroyed and rebuilt by Viking architects.（大きな家の多くが壊され、バイキングの建築家によって建て直された。）
+3 They were turned into places where Vikings could make their cloth and weapons.（それらは、バイキングが布や武器を作ることのできる場所に変えられた。）
+4 The communities already living there were forced to move to Ireland, Britain, and France.（そこにすでに住んでいた人々は、アイルランド、イギリス、フランスへ移ることを強いられた。）
+【考え方】
+設問の the towns and villages where the Vikings lived（バイキングが住んだ町や村）と同じ語句が、第3段落に出てきます。この段落の内容を順に見ます。
+・Archaeological studies of the towns and villages where they lived have shown their advanced skills in many aspects of civilization.（彼らが住んだ町や村についての考古学の研究によって、文明の多くの面で彼らが進んだ技術を持っていたことが分かっている）
+・They were skilled architects ... They were also experts at making cloth and weapons.（彼らは腕のよい建築家だった。また、布や武器を作る名人でもあった）
+・Contrary to their violent image, they actually shared their knowledge with the people already living in those areas.（乱暴だというイメージとは反対に、彼らは実際には、その地域にすでに住んでいた人々と知識を分かち合った）
+本文と選択肢を対にすると、次のようになります。
+本文 the people already living in those areas（その地域にすでに住んでいた人々）＝ 選択肢 Local people（地元の人々）
+本文 they actually shared their knowledge with ～（～と知識を分かち合った）→ 選択肢 gained new techniques and information（新しい技術や情報を得た）
+バイキングが進んだ技術を持ち、その知識を地元の人々と分かち合ったので、地元の人々は新しい技術や情報を得たことになります。選択肢の to improve their lives（暮らしをよくするための）は本文にそのままの言葉はありませんが、家を建てる、布や武器を作るといった技術は暮らしに役立つものだと考えられます。ですから1が正解です。
+【ほかの選択肢】
+2 本文には They were skilled architects, for example, and built many large houses.（彼らは腕のよい建築家で、大きな家をたくさん建てた）とあるだけです。家が壊されて建て直されたとは書かれていません。
+3 本文にあるのは、バイキングが布や武器を作る名人だったということです。町や村が布や武器を作る場所に変えられたとは書かれていません。
+4 本文では、アイルランド、イギリス、フランスは Large Viking communities were established（大きなバイキングの共同体が作られた）場所として出てきます。もとの住民がそこへ移るよう強いられたという話はなく、むしろバイキングは地元の人々と知識を分かち合っています。
+【覚えるポイント】
+・share A with B：「AをBと分かち合う、Bに伝える」。
+・contrary to ～：「～とは反対に」。

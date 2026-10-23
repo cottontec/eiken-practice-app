@@ -1,0 +1,28 @@
+---
+choices: Using a currency such as the euro is important for protecting jobs. | Banks will not trade local money for major currencies. | Local currencies are often not accepted by businesses in a region. | The Chiemgauer is mainly used at German high schools.
+answerText: Local currencies are often not accepted by businesses in a region.
+reviewed: yes
+---
+【正解】3 Local currencies are often not accepted by businesses in a region.（地域通貨は、その地域の店や会社に受け取ってもらえないことが多い。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：次の記述のうち、正しいものはどれですか。
+1 Using a currency such as the euro is important for protecting jobs.（ユーロのような通貨を使うことは、仕事を守るために大切である。）
+2 Banks will not trade local money for major currencies.（銀行は、地域のお金を主要な通貨と交換しない。）
+3 Local currencies are often not accepted by businesses in a region.（地域通貨は、その地域の店や会社に受け取ってもらえないことが多い。）
+4 The Chiemgauer is mainly used at German high schools.（キームガウアーは主にドイツの高校で使われている。）
+【考え方】
+本文全体の内容と合うものを選ぶ問題なので、選択肢を1つずつ本文と照らし合わせます。
+選択肢3に関係するのは、第2段落の It is often difficult for a local currency to succeed, though, because it cannot be used outside of that region and few stores in the community will accept it.（しかし、地域通貨がうまくいくのは難しいことがよくある。その地域の外では使えず、また地域社会の中でそれを受け取る店はわずかしかないからだ）です。few は「ほとんど～ない、わずかしかない」という意味で、accept は「受け取る、受け入れる」という意味です。
+本文と選択肢は次のように対応しています。
+本文 few stores in the community will accept it（地域社会の中でそれを受け取る店はわずかしかない）＝ 選択肢 Local currencies are often not accepted by businesses in a region（地域通貨はその地域の店や会社に受け取ってもらえないことが多い）
+受け取る店が少ないということは、地域の店や会社の多くに受け取ってもらえないということです。本文の「店（stores）が受け取る」という形が、選択肢では「地域通貨が受け取られない」という受け身の形（～される、という形）で言いかえられています。したがって3が正解です。
+【ほかの選択肢】
+1 本文には、ユーロのように多くの地域が同じ通貨を使っていると、ほかの場所の経済問題から自分たちを守るのが難しいと書かれています。仕事を生み出すと書かれているのは地域通貨のほうで、ユーロのような通貨が仕事を守るのに大切だという話はありません。
+2 本文には if businesses change the money back to euros, a fee of 5 percent is collected by the bank（店や会社がこのお金をユーロに両替して戻すと、銀行によって5パーセントの手数料が取られる）とあります。手数料はかかりますが、銀行は地域のお金をユーロに交換しているので、本文と合いません。
+4 キームガウアーを始めたのは高校の教師ですが、受け取っているのは Over 600 local businesses（600を超える地元の店や会社）です。高校で主に使われているという話は本文にありません。
+【覚えるポイント】
+・few ＋ 名詞：「ほとんど～ない、わずかしかない」。a few（少しはある）との違いに注意します。
+・accept：「受け取る、受け入れる」。be accepted で「受け取られる」。

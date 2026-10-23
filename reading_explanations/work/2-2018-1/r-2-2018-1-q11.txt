@@ -1,0 +1,27 @@
+---
+choices: over the edge | all the way | at one time | in the air
+answerText: at one time
+reviewed: yes
+---
+【正解】3 at one time（一度に、同時に）
+【和訳】
+（英文）
+There are enough computers in the IT room for 30 students to work there ［at one time］. When there are more students than that, some have to wait.
+（訳）
+IT室には、30人の生徒が（一度に）そこで作業できるだけのコンピューターがあります。それより多くの生徒がいるときは、何人かは待たなければなりません。
+（選択肢の意味）
+1 over the edge：端を越えて、限度を越えて
+2 all the way：はるばる、ずっと
+3 at one time：一度に、同時に
+4 in the air：空中に、（うわさなどが）広まって
+【考え方】
+1文目は There are enough computers in the IT room for 30 students to work there (　).（IT室には、30人の生徒が（　）そこで作業するのに十分なコンピューターがある）です。enough ～ for 人 to … は「人が…するのに十分な～」という意味です。
+2文目の When there are more students than that, some have to wait.（それより多くの生徒がいるときは、何人かは待たなければならない）に注目します。that は「30人」を指します。30人を超えると待つ人が出るのは、同時に使えるコンピューターが30人分しかないからです。
+at one time は「一度に、同時に」なので、「30人が一度に作業できる」となり、2文目とつながります。よって3が正解です。
+【ほかの選択肢】
+1 over the edge は「端を越えて、（気持ちなどが）限度を越えて」です。「30人が端を越えて作業できる」となり、意味が通りません。
+2 all the way は「はるばる、（始めから終わりまで）ずっと」です。「30人がずっと作業できる」では、30人を超えると待たなければならないという2文目の説明になりません。
+4 in the air は「空中に、（うわさや気配が）広まって」です。「30人が空中で作業できる」となり、意味が通りません。
+【覚えるポイント】
+・at one time：「一度に、同時に」。at once や at the same time もほぼ同じ意味です。
+・enough ～ for 人 to …：「人が…するのに十分な～」。

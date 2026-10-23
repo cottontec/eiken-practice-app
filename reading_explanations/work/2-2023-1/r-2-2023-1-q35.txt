@@ -1,0 +1,31 @@
+---
+choices: people discovered the reason that we have dreams thousands of years ago. | people's brains are able to exercise and grow larger by having dreams. | dreams allow people to hide parts of their personalities that they do not like. | dreams give people an opportunity to make their memories stronger.
+answerText: dreams give people an opportunity to make their memories stronger.
+reviewed: yes
+---
+【正解】4 dreams give people an opportunity to make their memories stronger.（夢は、人々に記憶を強める機会を与える。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Modern psychologists think that（現代の心理学者たちは、～と考えている。）
+1 people discovered the reason that we have dreams thousands of years ago.（人々は何千年も前に、私たちが夢を見る理由を発見した。）
+2 people's brains are able to exercise and grow larger by having dreams.（人の脳は、夢を見ることで運動して大きくなることができる。）
+3 dreams allow people to hide parts of their personalities that they do not like.（夢によって、人々は自分の性格の好きではない部分を隠すことができる。）
+4 dreams give people an opportunity to make their memories stronger.（夢は、人々に記憶を強める機会を与える。）
+【考え方】
+まず見るところ：第2段落の These days, most psychologists believe that ～
+設問の Modern psychologists（現代の心理学者たち）は、第2段落の These days, most psychologists（今日では、ほとんどの心理学者）に当たります。psychologist は「心理学者（人の心の働きを研究する学者）」です。
+These days, most psychologists believe that one of the principal functions of dreaming is to review memories and strengthen them.（今日では、ほとんどの心理学者が、夢を見ることの主な働きの1つは、記憶を見直して強めることだと考えている）
+principal は「主な」、function は「働き」、strengthen は「～を強める」という意味です。them は memories（記憶）を指しています。
+本文と選択肢を対にすると、次のようになります。
+本文 one of the principal functions of dreaming is to review memories and strengthen them（夢を見ることの主な働きの1つは、記憶を見直して強めること）→ 選択肢 dreams give people an opportunity to make their memories stronger（夢は、人々に記憶を強める機会を与える）
+strengthen them（記憶を強める）が make their memories stronger（記憶をより強くする）に言いかえられています。本文の「夢の働き」を、選択肢では「夢が機会を与える」と表しています。ですから4が正解です。
+この問題の型：言いかえ（strengthen ＝ make ～ stronger）
+【ほかの選択肢】
+1 本文には People have been trying to explain why we dream for thousands of years.（人々は何千年もの間、私たちがなぜ夢を見るのかを説明しようとしてきた）とあります。「説明しようとしてきた」のであって、「理由を発見した」とは書かれていません。第1段落にも、科学者たちは夢の目的がいまだにはっきり分からないとあります。
+2 脳が運動して大きくなる、という話は本文にありません。本文の strengthen（強める）は記憶についての言葉で、脳が大きくなることではありません。
+3 本文の More recently, it was suggested that dreams could tell us about hidden parts of our personalities.（もっと最近になると、夢は私たちの性格の隠れた部分について教えてくれるかもしれない、という説が出された）は、「隠れた部分について教えてくれる」という説です。「好きではない部分を隠す」とは書かれておらず、今日のほとんどの心理学者の考えとして書かれているのでもありません。
+【覚えるポイント】
+・strengthen ～：「～を強める」。make ～ stronger と言いかえられます。
+・本文に、昔の考え・最近の考え・今日の考えが順に並んでいるときは、設問がどの時代の人の考えをたずねているか（ここでは Modern ＝ These days）を確かめることが手がかりになります。

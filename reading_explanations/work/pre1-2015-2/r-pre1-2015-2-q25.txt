@@ -1,0 +1,32 @@
+---
+choices: die down | pass for | hold off | turn around
+answerText: turn around
+reviewed: yes
+---
+【正解】4 turn around（好転する、立ち直る）
+【和訳】
+（英文）
+The country's economy was very bad for more than 20 years, but it finally began to ［turn around］ last year, and it is continuing to improve.
+（訳）
+その国の経済は20年以上の間とても悪かったが、昨年ついに（好転し）始め、今も良くなり続けている。
+（選択肢の意味）
+1 die down：（風・音・騒ぎなどが）おさまる、弱まる
+2 pass for：～として通る、～に見える
+3 hold off：延期する；（雨などが）降らないでいる
+4 turn around：（悪い状態から）好転する、立ち直る
+【考え方】
+まず見るところ：空所の前の but it finally と、文の最後の it is continuing to improve
+文の初めを見ます。
+The country's economy was very bad for more than 20 years（その国の経済は20年以上の間とても悪かった）
+そのあとに but（しかし）と finally（ついに）が続くので、悪かった状態が変わったという話になると考えられます。
+文の最後を見ます。
+and it is continuing to improve（そして、今も良くなり続けている）
+improve は「良くなる」です。「昨年良くなり始め、今も良くなり続けている」という流れになるので、空所には「良い方向へ変わる」という意味の語句が入ります。turn around は「好転する」なので、4が正解です。
+この問題の型：対比（とても悪かった⇔but finally→良くなり始めた）
+【ほかの選択肢】
+1 die down は「おさまる、弱まる」です。「経済が昨年ついに弱まり始めた」では、but のあとの「良くなり続けている」とつながりません。
+2 pass for は「～として通る」で、うしろに「何として通るのか」を表す語が必要です。この文では空所のあとに last year が続くだけなので、文の形に合いません。
+3 hold off は「延期する」や「（雨などが）降らないでいる」です。「経済が昨年ついに延期し始めた」では意味が通りません。
+【覚えるポイント】
+・turn around：「（悪い状態から）好転する、立ち直る」。
+・but のあとに finally（ついに）があり、文の最後に improve（良くなる）があるときは、空所に「悪い状態から良い方へ変わる」という意味の語句が入る手がかりになります。

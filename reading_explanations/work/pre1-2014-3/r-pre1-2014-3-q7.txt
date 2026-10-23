@@ -1,0 +1,30 @@
+---
+choices: testament | foundation | bureau | deficiency
+answerText: testament
+reviewed: yes
+---
+【正解】1 testament（証し、証拠となるもの）
+【和訳】
+（英文）
+The mayor presented the woman with a Good Citizen Award as a ［testament］ to her efforts to help the homeless in her area.
+（訳）
+市長はその女性に、地域のホームレスの人々を助けようとする彼女の努力の（証し）として、優良市民賞を贈った。
+（選択肢の意味）
+1 testament：証し、証拠となるもの（あることが本当だと示すもの）
+2 foundation：基礎、土台、財団
+3 bureau：（役所の）局、事務所
+4 deficiency：不足、欠乏
+【考え方】
+まず見るところ：空所の前の as a と、空所のあとの to her efforts
+まず文の骨組みを確かめます。present A with B は「AにBを贈る」という意味です。
+The mayor presented the woman with a Good Citizen Award（市長はその女性に優良市民賞を贈った）
+そのあとに、賞を贈った理由が as a (　) to her efforts to help the homeless（ホームレスの人々を助けようとする彼女の努力への〇〇として）と続きます。
+賞は、その人のよい行いを認めて贈るものです。ここでは、賞が「彼女がよい努力をしてきた」ことを示すしるしになっています。testament は「証し（あることが本当だと示すもの）」という意味で、a testament to ～ で「～の証し」となります。「彼女の努力の証しとして賞を贈った」となり、意味が通ります。よって1が正解です。
+この問題の型：熟語・決まった形（a testament to ～：～の証し）
+【ほかの選択肢】
+2 foundation は「基礎、土台、財団」です。「彼女の努力への土台として賞を贈った」では、賞がなぜ贈られたのかがはっきりせず、意味が通りません。
+3 bureau は「（役所の）局、事務所」で、組織を表す語です。「努力への局として賞を贈った」となり、意味が通りません。
+4 deficiency は「不足、欠乏」です。「努力の不足として賞を贈った」となり、よい行いをたたえる賞の意味と反対になってしまいます。
+【覚えるポイント】
+・a testament to ～：「～の証し、～をよく示すもの」。present A with B：「AにBを贈る」。
+・賞を贈る文で as a (　) to ～ が続くときは、賞が「その人の何を表すしるしなのか」を考えると、答えを決める手がかりになります。

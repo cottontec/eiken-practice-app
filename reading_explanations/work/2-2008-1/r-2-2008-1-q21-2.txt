@@ -1,0 +1,22 @@
+---
+choices: hard | long as | studied | they | so
+answerText: long as
+order: 5 2 4 3 1
+reviewed: yes
+---
+【正解】2 long as（この問題の2番目）
+【完成文】
+The professor told her students that no one would fail the class ( so long as they studied hard ) throughout the semester. She said they shouldn't try to learn everything just before the final exam.
+並べ方：5 so → 2 long as → 4 they → 3 studied → 1 hard（2番目は2、4番目は3）
+【和訳】
+教授は学生たちに、学期を通してしっかり勉強しさえすれば、だれもその授業で落第しないだろうと言いました。彼女は、期末試験の直前にすべてを覚えようとするべきではない、と言いました。
+【考え方】
+まず、選択肢の中の 5 so と 2 long as に注目します。so long as ～ は「～しさえすれば、～する限りは」という条件を表す言い方で、as long as ～ と同じ意味です。そこで 5 so → 2 long as と並べます。
+so long as のあとには〈主語＋動詞〉が続きます。主語は 4 they（学生たち）、動詞は 3 studied（勉強した）です。最後に 1 hard（一生懸命に、しっかりと）を置くと they studied hard（しっかり勉強する）となります。hard は動詞 studied のあとに置いて「どのように勉強するか」を説明します。
+空所の前は no one would fail the class（だれもその授業で落第しないだろう）です。fail は「（試験や授業に）落ちる、落第する」です。「しっかり勉強しさえすれば、だれも落第しない」となり、2文目の「試験の直前に全部覚えようとするべきではない（ふだんから勉強しなさい）」という話ともつながります。
+なお studied が過去形なのは、told（言った）という過去の話の中で使われているからです。
+long as を so と離して they studied so hard long as のようにすると、文として成り立ちません。so long as をひとまとまりで見抜くことが決め手です。
+したがって2番目は2 long as です。
+【覚えるポイント】
+・so long as ～：「～しさえすれば、～する限りは」。as long as ～ と同じく、条件を表します。
+・fail the class：「その授業で落第する、単位を落とす」。

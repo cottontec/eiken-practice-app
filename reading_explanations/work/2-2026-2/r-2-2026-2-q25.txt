@@ -1,0 +1,33 @@
+---
+choices: she cannot transport all five items without the shop's help. | she cannot sell the items without having them checked beforehand. | the shop cannot receive her payment through an online system. | the shop cannot accept items delivered by mail or in person.
+answerText: she cannot transport all five items without the shop's help.
+reviewed: yes
+---
+【正解】1 she cannot transport all five items without the shop's help.（彼女は、その店の助けがなければ、5点の品物すべてを運ぶことができない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Katy wishes somebody from George's shop would visit her because（ケイティがジョージの店のだれかに自分のところへ来てほしいと思っているのは、～からです。）
+1 she cannot transport all five items without the shop's help.（彼女は、その店の助けがなければ、5点の品物すべてを運ぶことができない）
+2 she cannot sell the items without having them checked beforehand.（彼女は、前もって品物を調べてもらわなければ、それらを売ることができない）
+3 the shop cannot receive her payment through an online system.（その店は、オンラインのしくみで彼女からの支払いを受け取ることができない）
+4 the shop cannot accept items delivered by mail or in person.（その店は、郵便や持ちこみで届けられる品物を受け取ることができない）
+【考え方】
+まず見るところ：第2段落の all five together are still too heavy to carry without a truck
+第2段落の後半に、次の文があります。
+Even though each one isn't very large, all five together are still too heavy to carry without a truck.（1つ1つはそれほど大きくないが、5点全部を合わせると、それでもトラックなしで運ぶには重すぎる）
+too ～ to ... は「…するには～すぎる」という意味です。ケイティは、5点の家具をトラックなしでは運べないと言っています。そのすぐあとで、次のようにたずねています。
+Could you come to pick them up?（引き取りに来ていただけますか）
+運べないので、ジョージの店に取りに来てほしいとお願いしているのです。
+本文と選択肢を対にすると、次のようになります。
+本文 all five together are still too heavy to carry without a truck（5点全部を合わせると、トラックなしで運ぶには重すぎる）→ 選択肢 she cannot transport all five items without the shop's help（店の助けがなければ5点すべてを運ぶことができない）
+transport は「運ぶ、輸送する」という意味です。本文の「取りに来てほしい」というお願いから、店の助けが必要だと読み取れるので、1が正解です。
+この問題の型：言いかえ（too heavy to carry → cannot transport）／因果（重すぎて運べない→取りに来てほしい）
+【ほかの選択肢】
+2 本文にありません。ケイティは家具を give away（無料で譲る）つもりで、売るとは書いていません。前もって品物を調べてもらう必要があるという話もありません。
+3 本文にありません。ケイティは Would there be a cost for doing that?（そうしていただくのに、費用はかかりますか）とたずねていますが、オンラインでの支払いの話はありません。
+4 本文にありません。ジョージの店が郵便や持ちこみの品物を受け取れないという話は書かれていません。来てほしい理由は、ケイティの側で品物が重すぎて運べないことです。
+【覚えるポイント】
+・too ～ to ...：「…するには～すぎる（だから…できない）」。
+・お願いの文（Could you ～?）の理由をたずねる設問では、そのお願いのすぐ前の文に理由が書かれていることが多いので、そこを確かめると手がかりになります。

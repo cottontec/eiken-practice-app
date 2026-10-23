@@ -1,0 +1,29 @@
+---
+choices: He does not know how to set up online banking. | He cannot log in to his online bank account. | He thinks someone tried to access his account. | He forgot to set a new password for his account.
+answerText: He cannot log in to his online bank account.
+reviewed: yes
+---
+【正解】2 He cannot log in to his online bank account.（彼は、オンラインの銀行口座にログインできない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ウォルターズさんは、なぜARP銀行に連絡したのですか。
+1 He does not know how to set up online banking.（彼は、オンラインバンキングの設定のしかたが分からない。）
+2 He cannot log in to his online bank account.（彼は、オンラインの銀行口座にログインできない。）
+3 He thinks someone tried to access his account.（彼は、だれかが自分の口座にアクセスしようとしたと思っている。）
+4 He forgot to set a new password for his account.（彼は、自分の口座の新しいパスワードを設定するのを忘れた。）
+【考え方】
+このEメールは、ARP銀行のジェナ・スミスさんが、ウォルターズさんに返事として送ったものです。第1段落の始めに Thank you for contacting ARP Bank.（ARP銀行にご連絡いただき、ありがとうございます）とあるので、ウォルターズさんが先に銀行へ連絡していたことが分かります。
+連絡の内容は、そのあとの文に書かれています。
+You said in your e-mail that you have recently been unable to log in to our online banking system.（お客様はEメールで、最近、当行のオンラインバンキングにログインできなくなっているとおっしゃっていました）
+be unable to ～ は「～できない」という意味です。本文と選択肢を対にすると、次のようになります。
+本文 you have recently been unable to log in to our online banking system ＝ 選択肢 He cannot log in to his online bank account
+be unable to が cannot に、our online banking system（当行のオンラインバンキング）が his online bank account（彼のオンラインの銀行口座）に言いかえられています。2が正解です。
+【ほかの選択肢】
+1 「オンラインバンキングの設定のしかたが分からない」とは書かれていません。ウォルターズさんにはすでに口座があり、その口座がロックされていると書かれているので、設定の段階の話ではありません。
+3 本文の If you did not try to access your account and think that someone else did, please contact ～（もしご自身でアクセスしようとしたのではなく、ほかのだれかがしたとお考えなら、～にご連絡ください）は、「もし～なら」という条件の話です。ウォルターズさんがそう思っていると書かれてはいないので、連絡した理由にはなりません。
+4 「新しいパスワードを設定し忘れた」とは書かれていません。口座がロックされたのは an incorrect password was entered three times（間違ったパスワードが3回入力された）からです。新しいパスワードの設定は、ロックを直すためにこれからするように言われていることです。
+【覚えるポイント】
+・be unable to ～：「～できない」。cannot ～ とほぼ同じ意味です。
+・Thank you for contacting ～ で始まるメールは返事なので、相手が何と言って連絡してきたか（You said ～）を探すと、連絡の理由が分かります。

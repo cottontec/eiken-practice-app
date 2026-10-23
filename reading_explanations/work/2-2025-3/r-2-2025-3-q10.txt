@@ -1,0 +1,33 @@
+---
+choices: innocently | thankfully | traditionally | resentfully
+answerText: thankfully
+reviewed: yes
+---
+【正解】2 thankfully（ありがたいことに、幸いにも）
+【和訳】
+（英文）
+A: I heard you got lost in the mountains last weekend. That sounds scary!
+B: It was, but ［thankfully］, I found a stream and followed it down to the road.
+（訳）
+A：先週末、山で道に迷ったって聞いたよ。こわそうだね！
+B：こわかったよ。でも、（ありがたいことに）小川を見つけて、それに沿って道路まで下りたんだ。
+（選択肢の意味）
+1 innocently：無邪気に、悪気なく
+2 thankfully：ありがたいことに、幸いにも
+3 traditionally：伝統的に、昔から
+4 resentfully：腹を立てて、うらみをもって
+【考え方】
+まず見るところ：Bの答えの It was, but と、そのあとの I found a stream
+Aは「山で道に迷ったなんてこわそうだね」と言っています。
+Bは It was（こわかった）と認めたあとに、but（でも）で話を続けています。
+I found a stream and followed it down to the road（小川を見つけて、それに沿って道路まで下りた）
+stream は「小川」です。道に迷ったけれど、小川をたどって道路に出られたという、よい結果が書かれています。
+thankfully は「ありがたいことに、幸いにも」で、よい結果を話す前に置く語です。ですから2が正解です。
+この問題の型：対比（こわかった⇔でも幸いにも助かった）
+【ほかの選択肢】
+1 innocently は「無邪気に、悪気なく」です。「悪気なく小川を見つけた」となり、こわい体験から助かったという話の流れに合いません。
+3 traditionally は「伝統的に、昔から」です。「伝統的に小川を見つけた」となり、意味が通りません。
+4 resentfully は「腹を立てて、うらみをもって」です。小川を見つけて道路に出られたというよい出来事を、腹を立てて話す理由がないので合いません。
+【覚えるポイント】
+・thankfully：「ありがたいことに、幸いにも」。fortunately（幸運にも）に近い意味です。
+・It was, but ( ), ～ のように、つらかったことを認めたあとに but が続くときは、そのあとによい結果がくることが多く、「幸いにも」のような語が入る手がかりになります。

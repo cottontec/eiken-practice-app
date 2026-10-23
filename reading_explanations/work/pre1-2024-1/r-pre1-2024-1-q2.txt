@@ -1,0 +1,32 @@
+---
+choices: execution | vaccination | diagnosis | tendency
+answerText: diagnosis
+reviewed: yes
+---
+【正解】3 diagnosis（診断）
+【和訳】
+（英文）
+The doctor was unable to give a specific ［diagnosis］ of what was causing the woman’s headaches. He decided to send her to a specialist for further tests.
+（訳）
+その医師は、女性の頭痛を引き起こしているものが何なのかについて、はっきりした（診断）を下すことができませんでした。彼は、さらに詳しい検査のために、彼女を専門医に回すことにしました。
+（選択肢の意味）
+1 execution：実行；死刑の執行
+2 vaccination：予防接種、ワクチン接種
+3 diagnosis：診断（医師が病気の種類や原因を判断すること）
+4 tendency：傾向（そうなりやすいこと）
+【考え方】
+まず見るところ：空所の後ろの of what was causing the woman’s headaches と、後半の文の send her to a specialist
+空所のある文は次のとおりです。
+The doctor was unable to give a specific (　) of what was causing the woman’s headaches.（その医師は、女性の頭痛を引き起こしているものが何なのかについて、はっきりした（　）をすることができなかった）
+was unable to ～ は「～できなかった」、specific は「はっきりした、具体的な」です。頭痛の原因が何なのかについて医師がすることなので、病気を判断する「診断」が合いそうです。
+後半の文も確かめます。
+He decided to send her to a specialist for further tests.（彼は、さらに詳しい検査のために、彼女を専門医に回すことにした）
+specialist は「専門医（ある病気を専門にする医者）」です。自分では原因を判断できなかったので、専門医に任せたという流れになります。diagnosis は「診断」なので、3が正解です。
+この問題の型：因果（診断できなかった→専門医に回した）
+【ほかの選択肢】
+1 execution は「実行」や「死刑の執行」です。「頭痛の原因についてのはっきりした実行」となり、意味が通りません。
+2 vaccination は「予防接種」です。予防接種は病気にかからないように前もってするもので、「頭痛の原因についてのはっきりした予防接種」となり、意味が通りません。
+4 tendency は「傾向（そうなりやすいこと）」です。「頭痛の原因についてのはっきりした傾向」となり、原因が分からずに専門医に回したという流れとうまくつながりません。
+【覚えるポイント】
+・give a diagnosis of ～：「～について診断を下す」。
+・後ろの文に「専門医に回した」のような結果が書かれているときは、前の文で医師が「何をできなかったのか」を考えると、空所の語を決める手がかりになります。

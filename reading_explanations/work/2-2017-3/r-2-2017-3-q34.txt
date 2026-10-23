@@ -1,0 +1,31 @@
+---
+choices: been able to bring a number of ancient animals back to life. | begun using genetics to learn more about ancient plants and animals. | started to create a dinosaur that could live on Earth today. | tried to create new types of fossils to study how animals used to live.
+answerText: begun using genetics to learn more about ancient plants and animals.
+reviewed: yes
+---
+【正解】2 begun using genetics to learn more about ancient plants and animals.（大昔の植物や動物についてもっと知るために、遺伝学を使い始めた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：最近、科学者たちは
+1 been able to bring a number of ancient animals back to life.（いくつもの大昔の動物をよみがえらせることができた。）
+2 begun using genetics to learn more about ancient plants and animals.（大昔の植物や動物についてもっと知るために、遺伝学を使い始めた。）
+3 started to create a dinosaur that could live on Earth today.（今日の地球で生きられる恐竜を作り始めた。）
+4 tried to create new types of fossils to study how animals used to live.（動物が昔どのように暮らしていたかを研究するために、新しい種類の化石を作ろうとした。）
+【考え方】
+設問の Recently（最近）に近い言い方を本文で探します。第1段落に In recent years（近年）があります。
+To learn more about the plants and animals that lived during that time, scientists examine their fossils or other remains.（その時代に生きていた植物や動物についてもっと知るために、科学者たちはそれらの化石やその他の遺骸を調べる）
+In recent years, genetics, and in particular the study of DNA, has become an important tool for these scientists.（近年、遺伝学、特にDNAの研究が、こうした科学者たちにとって重要な道具になっている）
+genetics（遺伝学）は、親から子へ特徴が伝わるしくみを研究する学問です。these scientists（こうした科学者たち）は、前の文の「大昔の植物や動物についてもっと知るために調べている科学者たち」を指しています。
+本文と選択肢を対にすると、次のようになります。
+本文 In recent years, genetics … has become an important tool for these scientists（近年、遺伝学がこうした科学者たちにとって重要な道具になった）→ 選択肢 Recently, scientists have begun using genetics（最近、科学者たちは遺伝学を使い始めた）
+本文 To learn more about the plants and animals that lived during that time（その時代に生きていた植物や動物についてもっと知るために）＝ 選択肢 to learn more about ancient plants and animals（大昔の植物や動物についてもっと知るために）
+「近年、重要な道具になった」ということから、最近使われるようになったと読み取れます。2が正解です。
+【ほかの選択肢】
+1 本文に Although no animals have been brought back yet（まだどの動物もよみがえらせられてはいないが）とあります。よみがえらせることができたのは動物ではなく植物なので、本文と違います。
+3 本文には Some people even dream of bringing ancient creatures such as dinosaurs back to life.（恐竜のような大昔の生き物をよみがえらせることを夢見ている人さえいる）とあるだけです。夢見ている人がいるというだけで、恐竜を作り始めたとは書かれていないので、言い過ぎです。
+4 本文では、科学者たちは化石を examine（調べる）とあります。新しい種類の化石を作ろうとしたという話は本文にありません。
+【覚えるポイント】
+・In recent years：「近年、ここ数年」。設問の Recently（最近）と同じような意味です。
+・bring ～ back to life：「～を生き返らせる、よみがえらせる」。

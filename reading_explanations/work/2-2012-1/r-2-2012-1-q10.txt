@@ -1,0 +1,24 @@
+---
+choices: immigrated | collapsed | negotiated | whistled
+answerText: collapsed
+reviewed: yes
+---
+【正解】2 collapsed（崩れた、倒れた）
+【和訳】
+デニスはトランプのカードで慎重に塔を作っていましたが、最後のカードをいちばん上に置こうとしたとき、塔が崩れてしまいました。彼はカードを拾い集めて、最初からやり直さなければなりませんでした。
+（選択肢の意味）
+1 immigrated：（外国から）移住してきた
+2 collapsed：崩れた、倒れた
+3 negotiated：交渉した
+4 whistled：口笛を吹いた
+【考え方】
+1文目の前半は Dennis was carefully building a tower out of playing cards（デニスはトランプのカードで慎重に塔を作っていた）です。そのあとに but（しかし）が続くので、うまくいかなかったことが書かれると予想できます。
+空所の主語の it は、前に出てきた a tower（塔）を指しています。「塔が～した、最後のカードを置こうとしたとき」という意味になります。
+次の文の He had to pick up the cards and start all over.（カードを拾い集めて、最初からやり直さなければならなかった）が決め手です。カードを拾い集めることになったのは、塔が「崩れた」からだと分かります。collapse は「崩れる、倒れる」という意味です。正解は2です。
+【ほかの選択肢】
+1 immigrated は immigrate（〔外国から〕移住してくる）の過去形です。「塔が移住してきた」となり、意味が通りません。
+3 negotiated は negotiate（交渉する、話し合って決める）の過去形です。塔が交渉することはないので、合いません。
+4 whistled は whistle（口笛を吹く、〔風などが〕ヒューッと鳴る）の過去形です。「塔がヒューッと鳴った」としても、カードを拾ってやり直す理由にはなりません。
+【覚えるポイント】
+・collapse：「崩れる、倒れる」。建物や計画などが「崩れる」ときにも使います。
+・start all over：「最初からやり直す」。

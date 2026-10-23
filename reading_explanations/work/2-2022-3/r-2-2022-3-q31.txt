@@ -1,0 +1,33 @@
+---
+choices: Because the king of Spain walked along it after he opened it. | Because of the uniforms worn by the engineers who built it. | Because of the amazing views that could be seen from it. | Because local people wanted it to be attractive to tourists.
+answerText: Because the king of Spain walked along it after he opened it.
+reviewed: yes
+---
+【正解】1 Because the king of Spain walked along it after he opened it.（スペイン国王が、開通させたあとにそこを歩いたから。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Why was the walkway called El Caminito del Rey?（その歩道は、なぜエル・カミニート・デル・レイと呼ばれたのですか。）
+1 Because the king of Spain walked along it after he opened it.（スペイン国王が、開通させたあとにそこを歩いたから。）
+2 Because of the uniforms worn by the engineers who built it.（それを造った技術者たちが着ていた制服のため。）
+3 Because of the amazing views that could be seen from it.（そこから見ることができたすばらしい眺めのため。）
+4 Because local people wanted it to be attractive to tourists.（地元の人々が、それを観光客にとって魅力的なものにしたいと思ったから。）
+【考え方】
+まず見るところ：第2段落の After the ceremony, the king walked the eight-kilometer route, and it became known as El Caminito del Rey
+in 1921, it was officially opened by King Alfonso XIII of Spain（1921年に、歩道はスペイン国王アルフォンソ13世によって正式に開通した）
+After the ceremony, the king walked the eight-kilometer route, and it became known as El Caminito del Rey, meaning "the king's little path."（式典のあと、国王はこの8キロメートルの道を歩いた。そして、この歩道は「王様の小道」という意味の「エル・カミニート・デル・レイ」として知られるようになった）
+名前の意味は「王様の小道」です。国王が開通させ、式典のあとでその道を歩いたことが述べられ、そのすぐあとに、この名前で知られるようになったと続いています。ここから、国王が歩いた道だから「王様の小道」と呼ばれるようになった、と読み取れます。
+本文と選択肢を対にすると、次のようになります。
+本文 it was officially opened by King Alfonso XIII of Spain（スペイン国王アルフォンソ13世によって正式に開通した）＝ 選択肢 he opened it（国王がそれを開通させた）
+本文 After the ceremony, the king walked the eight-kilometer route（式典のあと、国王はこの8キロメートルの道を歩いた）＝ 選択肢 the king of Spain walked along it after he opened it（スペイン国王が、開通させたあとにそこを歩いた）
+ですから1が正解です。
+この問題の型：因果（国王が歩いた → その名で知られる）、言いかえ
+【ほかの選択肢】
+2 技術者たちの制服の話は、本文にありません。技術者は、ダムを造る場所を決めたことや、歩道を改良したことで出てきます。
+3 すばらしい眺め（amazing views）は本文に出てきますが、それはハイキングをする人々の間で歩道が人気になった理由として書かれています。名前の理由ではありません。
+4 観光客にとって魅力的にしようとしたのは、地元の人々ではなく The engineers（技術者たち）です。また、それは歩道を改良した理由で、名前の理由ではありません。
+【覚えるポイント】
+・be known as ～：「～として知られている」。become known as ～ で「～として知られるようになる」。
+・meaning ～：名前のあとに置いて「～という意味の」と説明を加える形です。
+・名前の由来を問う問題では、その名前が初めて出てくる文のすぐ前に、きっかけになる出来事（ここでは国王が歩いたこと）が書かれていないかを探します。

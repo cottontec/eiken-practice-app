@@ -1,0 +1,29 @@
+---
+choices: fatigue | petition | deficit | conspiracy
+answerText: deficit
+reviewed: yes
+---
+【正解】3 deficit（赤字、不足額）
+【和訳】
+（英文）
+After years of spending more money than taxes brought in, the government now has a ［deficit］ of trillions of dollars.
+（訳）
+税金で入ってくるよりも多くのお金を何年も使い続けたあとで、政府は今、何兆ドルもの（赤字）を抱えています。
+（選択肢の意味）
+1 fatigue：疲労、疲れ
+2 petition：嘆願書、請願（お願いを書いて差し出すもの）
+3 deficit：赤字、不足額（入ってくるお金より出ていくお金が多いときの足りない分）
+4 conspiracy：陰謀（ひそかに悪いことをたくらむこと）
+【考え方】
+まず見るところ：文の始めの spending more money than taxes brought in
+文の始めに、政府がどんなお金の使い方をしてきたかが書かれています。
+After years of spending more money than taxes brought in（税金で入ってくるよりも多くのお金を何年も使い続けたあとで）
+bring in は「（お金を）もたらす、入れる」です。入ってくる税金よりも多くのお金を使うと、お金が足りなくなります。その足りない分が「何兆ドル」もあるということですから、空所には「赤字」が入ります。deficit は「赤字、不足額」という意味なので、3が正解です。
+この問題の型：因果（入るより多く使う → 赤字）
+【ほかの選択肢】
+1 fatigue は「疲労」です。「何兆ドルもの疲労」となり、意味が通りません。
+2 petition は「嘆願書」です。「何兆ドルもの嘆願書」となり、お金を使いすぎた結果として意味が通りません。
+4 conspiracy は「陰謀」です。「何兆ドルもの陰謀」となり、お金を使いすぎた結果として意味が通りません。
+【覚えるポイント】
+・deficit：「赤字、不足額」。a deficit of ～ dollars で「～ドルの赤字」です。
+・spending more money than ～ brought in（入ってくるよりも多くのお金を使う）のように、入るお金と出るお金を比べる表現があるときは、その結果としてお金が足りない状態を表す語が入る手がかりになります。

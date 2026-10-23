@@ -1,0 +1,32 @@
+---
+choices: gratitude | ordeal | murmur | rubbish
+answerText: ordeal
+reviewed: yes
+---
+【正解】2 ordeal（つらい試練、苦しい体験）
+【和訳】
+（英文）
+The little girl who wandered into the forest alone six days ago was found today alive and well. It is not yet clear how she managed to survive her ［ordeal］.
+（訳）
+6日前に1人で森の中に迷いこんだ小さな女の子が、今日、元気に生きているところを発見されました。彼女がどのようにしてその（苦しい体験）を生きのびたのかは、まだはっきりしていません。
+（選択肢の意味）
+1 gratitude：感謝
+2 ordeal：つらい試練、苦しい体験
+3 murmur：ささやき、つぶやき
+4 rubbish：ごみ；くだらないもの
+【考え方】
+まず見るところ：前半の文の wandered into the forest alone six days ago と、空所の前の survive her
+前半の文で、女の子に何があったかが分かります。
+The little girl who wandered into the forest alone six days ago was found today alive and well.（6日前に1人で森の中に迷いこんだ小さな女の子が、今日、元気に生きているところを発見された）
+wander は「さまよう、迷いこむ」、alive and well は「元気に生きて」という意味です。小さな子どもが1人で6日間も森の中にいたのは、とても苦しく危険な体験です。
+後半の文は次のとおりです。
+It is not yet clear how she managed to survive her (　).（彼女がどのようにして（　）を生きのびたのかは、まだはっきりしていない）
+manage to ～ は「なんとか～する」、survive ～ は「～を生きのびる、乗りこえる」という意味です。her (　) は、前半の文の「1人で6日間森で過ごしたこと」を指しています。ordeal は「つらい試練、苦しい体験」という意味なので、2が正解です。
+この問題の型：言いかえ（6日間1人で森にいたこと＝her ordeal）
+【ほかの選択肢】
+1 gratitude は「感謝」です。「感謝を生きのびた」となり、意味が通りません。
+3 murmur は「ささやき、つぶやき」です。「ささやきを生きのびた」では、森で迷った話とつながりません。
+4 rubbish は「ごみ」や「くだらないもの」です。「ごみを生きのびた」となり、意味が通りません。
+【覚えるポイント】
+・ordeal：「つらい試練、苦しい体験」。survive one's ordeal で「つらい体験を生きのびる」。
+・her ～ や the ～ のような空所は、前の文で述べられた出来事をひとことで言いかえていることがあります。前の文の内容をまとめる語を探すのが手がかりになります。

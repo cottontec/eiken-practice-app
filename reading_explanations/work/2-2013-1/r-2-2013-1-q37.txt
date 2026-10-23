@@ -1,0 +1,29 @@
+---
+choices: People did not think she was a hard worker. | Typewriters were still very expensive to buy. | She spent a lot of time typing pages over again. | She was too busy to get a high school degree.
+answerText: She spent a lot of time typing pages over again.
+reviewed: yes
+---
+【正解】3 She spent a lot of time typing pages over again.（彼女は、ページを打ち直すのに多くの時間を使った。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：1950年代にベティ・ネスミス・グラハムが抱えていた問題の1つは何でしたか。
+1 People did not think she was a hard worker.（人々は彼女が働き者だと思っていなかった。）
+2 Typewriters were still very expensive to buy.（タイプライターは、買うにはまだとても高かった。）
+3 She spent a lot of time typing pages over again.（彼女は、ページを打ち直すのに多くの時間を使った。）
+4 She was too busy to get a high school degree.（彼女は忙しすぎて、高校の卒業資格を取ることができなかった。）
+【考え方】
+設問の in the 1950s（1950年代に）という言葉は、第1段落の後半に出てきます。
+At this time, in the 1950s, electric typewriters had just been invented, and secretaries were finding it difficult to get used to them.（このころ、つまり1950年代には、電動タイプライターが発明されたばかりで、秘書たちはそれに慣れるのに苦労していた）
+Because it was almost impossible to erase mistakes, Graham and her co-workers often had to retype a whole page just because of one mistake.（間違いを消すことがほとんど不可能だったので、グラハムと同僚たちは、たった1つの間違いのためにページ全体を打ち直さなければならないことがよくあった）
+retype は「打ち直す」という意味です。1つの間違いのためにページ全体を打ち直すことが「よくあった（often）」のですから、打ち直しにたくさんの時間を使っていたことになります。本文と選択肢は次のように対応しています。
+本文 often had to retype a whole page（ページ全体を打ち直さなければならないことがよくあった）＝ 選択肢 spent a lot of time typing pages over again（ページを打ち直すのに多くの時間を使った）
+type ～ over again は「～をもう一度打ち直す」という意味で、retype の言いかえです。正解は3です。
+【ほかの選択肢】
+1 本文には She was good at her job（彼女は仕事がよくできた）とあり、人々が彼女を働き者だと思っていなかったという話はありません。文章の初めの「大金持ちになると予想した人はほとんどいなかった」は、お金持ちになることについての話で、働きぶりについての話ではありません。
+2 本文で問題とされているのは、タイプライターに慣れるのが難しく、間違いを消せなかったことです。値段が高かったという話はありません。
+4 本文には、グラハムが高校を中退したあと、高校を修了するために夜間の授業を受けたと書かれています。忙しすぎて卒業資格を取れなかったとは書かれておらず、1950年代の問題として述べられているのはタイプライターの打ち直しのことです。
+【覚えるポイント】
+・find it difficult to ～：「～するのが難しいと感じる」。it は to ～ の内容を先に指しています。
+・get used to ～：「～に慣れる」。

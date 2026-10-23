@@ -1,0 +1,29 @@
+---
+choices: denied the air bubble theory | also made another prediction | had been confused by the eggs | was only partially correct
+answerText: was only partially correct
+reviewed: yes
+---
+【正解】4 was only partially correct（部分的にしか正しくなかった）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 denied the air bubble theory（空気の泡の説を否定した）
+2 also made another prediction（別の予測もした）
+3 had been confused by the eggs（卵のせいで混乱していた）
+4 was only partially correct（部分的にしか正しくなかった）
+【考え方】
+まず見るところ：第1段落の空所の直後の Modern research has confirmed that although ～ accurate, the air bubbles do indeed serve a beneficial function.
+第1段落では、ネフの考えが2つ書かれています。1つは「殻は卵を守るために進化した」という説、もう1つは「殻にたまる空気の泡のせいで海面に浮かび、食べられやすくなる」という考えです。
+空所は However（しかし）のあとなので、ネフの考えについての評価が入ると考えられます。空所の直後の文を見ます。
+Modern research has confirmed that although Naef's theory about the protective nature of the shell was accurate, the air bubbles do indeed serve a beneficial function.（現代の研究によって、殻が卵を守る働きをもつというネフの説は正確だったものの、空気の泡は実際に役に立つ働きをしていることが確かめられている）
+although ～ は「～だけれども」です。「殻が卵を守る」という説は正しかったけれど、「泡は悪い影響を与える」という考えはまちがいで、泡は実は役に立っていた、ということです。
+つまり、ネフの考えは一部だけが正しかったことになります。was only partially correct（部分的にしか正しくなかった）が合うので、4が正解です。
+この問題の型：具体例とまとめ（卵を守る説は正確 ＋ 泡の考えはまちがい → 部分的にしか正しくなかった）
+【ほかの選択肢】
+1 「空気の泡の説を否定した」とすると、ネフ自身が「泡のせいで海面に浮かび、食べられやすくなる」と考えていたという第1段落の内容と合いません。泡の考えを示したのはネフ本人です。
+2 「別の予測もした」は、本文に書かれていません。空所の直後の文は、ネフの説のどこが正しくてどこがまちがっていたかを述べていて、別の予測の話にはつながりません。
+3 「卵のせいで混乱していた」は、本文に書かれていません。卵を守るという点については、ネフの説は accurate（正確だった）と書かれています。
+【覚えるポイント】
+・partially：「部分的に」。only partially correct：「部分的にしか正しくない」。accurate：「正確な」。
+・空所のすぐあとに although A, B（Aだけれども、B）の形で「正しかった点」と「ちがっていた点」が並んでいるときは、「一部だけ正しい」という評価が入る手がかりになります。

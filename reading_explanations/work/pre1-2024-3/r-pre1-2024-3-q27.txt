@@ -1,0 +1,32 @@
+---
+choices: Trouvelot's work would likely have been less accurate if he had been able to use the materials that are available today. | Trouvelot never became well-known during his lifetime because most people had little interest in astronomy. | The scientific value of Trouvelot's drawings prevents them from being put on public display for people to enjoy. | The technology that proved the high quality of Trouvelot's illustrations was also responsible for them becoming unnecessary.
+answerText: The technology that proved the high quality of Trouvelot's illustrations was also responsible for them becoming unnecessary.
+reviewed: yes
+---
+【正解】4 The technology that proved the high quality of Trouvelot's illustrations was also responsible for them becoming unnecessary.（トルーヴェロの絵の質の高さを証明した技術が、それらの絵が不要になった原因でもあった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What does the author of the passage describe as ironic?（この文章の筆者は、何を皮肉なことだと述べているか。）
+1 Trouvelot's work would likely have been less accurate if he had been able to use the materials that are available today.（もしトルーヴェロが今日手に入る材料を使うことができていたら、彼の作品はおそらくより不正確になっていただろう。）
+2 Trouvelot never became well-known during his lifetime because most people had little interest in astronomy.（ほとんどの人が天文学にほとんど興味を持っていなかったので、トルーヴェロは生きている間に有名になることは一度もなかった。）
+3 The scientific value of Trouvelot's drawings prevents them from being put on public display for people to enjoy.（トルーヴェロの絵は、その科学的な価値のために、人々が楽しめるように一般に展示されることがない。）
+4 The technology that proved the high quality of Trouvelot's illustrations was also responsible for them becoming unnecessary.（トルーヴェロの絵の質の高さを証明した技術が、それらの絵が不要になった原因でもあった。）
+【考え方】
+まず見るところ：第3段落の Ironically, it was the same astrophotography that made his drawings unnecessary.
+設問の ironic は「皮肉な（思っていたことと逆の結果になって、おかしみや意外さがある）」という意味です。本文の Ironically（皮肉なことに）の前後を見ます。
+Modern astrophotography technology, which allows astronomers to take high-quality photographs with telescopes, has also revealed the astounding accuracy of Trouvelot's drawings.（天文学者が望遠鏡で質の高い写真をとることを可能にする、現代の天体写真の技術も、トルーヴェロの絵の驚くべき正確さを明らかにした）
+Ironically, it was the same astrophotography that made his drawings unnecessary.（皮肉なことに、彼の絵を不要なものにしたのは、その同じ天体写真だった）
+天体写真の技術は、トルーヴェロの絵がどれほど正確かを明らかにしました。ところが、その同じ天体写真が、彼の絵を不要にしました。絵のよさを示したものが、絵をいらなくしたものでもあった、という点が「皮肉」です。本文と選択肢を対にすると、次のようになります。
+・本文 has also revealed the astounding accuracy of Trouvelot's drawings（トルーヴェロの絵の驚くべき正確さを明らかにした）→ 言いかえると → 選択肢 proved the high quality of Trouvelot's illustrations（トルーヴェロの絵の質の高さを証明した）
+・本文 it was the same astrophotography that made his drawings unnecessary（彼の絵を不要にしたのは、その同じ天体写真だった）→ 言いかえると → 選択肢 was also responsible for them becoming unnecessary（それらの絵が不要になった原因でもあった）
+ですから、4が正解です。
+この問題の型：言いかえ（the same astrophotography ＝ The technology that proved the high quality）
+【ほかの選択肢】
+1 本文には、彼の絵は regular art materials（ふつうの画材）で作られたのに、最近の写真とよく一致していると書かれています。しかし、今日の材料を使っていたらより不正確になっていただろう、という内容は書かれていません。
+2 トルーヴェロが生きている間に有名にならなかったとは、本文に書かれていません。本文に書かれているのは、天文学はそれまでほとんどの人には手の届かない分野だったこと、そして今日、彼の作品が天文学への関心を高めたと認められていることです。
+3 本文の最後に they are now exhibited in museums for people to enjoy（彼の絵は今、人々が楽しめるように博物館に展示されている）と書かれています。展示することができないという内容は、この説明と合いません。
+【覚えるポイント】
+・ironic / ironically：「皮肉な／皮肉なことに」。ある物事が、期待とは逆の結果を生んだときに使われることが多い語です。
+・設問に ironic があるときは、本文の Ironically のある文と、その前の文を比べて読みましょう。「前の文のよいこと」と「Ironically の文の、逆の結果」が、同じもの（ここでは the same astrophotography）から生まれていることが手がかりになります。

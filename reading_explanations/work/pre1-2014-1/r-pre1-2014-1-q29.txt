@@ -1,0 +1,27 @@
+---
+choices: capacity for self-awareness | memory for details | curiosity about their surroundings | sense of direction
+answerText: capacity for self-awareness
+reviewed: yes
+---
+【正解】1 capacity for self-awareness（自分を自分だと認識する能力）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 capacity for self-awareness（自分を自分だと認識する能力）
+2 memory for details（細かいことを覚えている記憶力）
+3 curiosity about their surroundings（周りのものごとへの好奇心）
+4 sense of direction（方向感覚）
+【考え方】
+空所のある文は For example, they have a ( 29 ) that many other animals seem to lack.（たとえば、類人猿は、ほかの多くの動物には欠けているように思われる〇〇を持っている）です。they は前の文の apes（類人猿）を指します。lack は「欠けている、持っていない」という意味です。
+空所の中身は、すぐ後ろの2つの文で具体的に説明されています。
+まずチンパンジーについて、When a colored mark is placed on a chimpanzee's nose, the animal notices the mark in its mirror-reflected image and rubs its nose.（鼻に色の印をつけると、チンパンジーは鏡に映った自分の姿の印に気づき、自分の鼻をこする）とあります。鏡に映っているのが自分だと分かっているから、鏡ではなく自分の鼻をこするのです。
+次に犬については、a dog ignores a mark placed on its nose, likely because it fails to recognize the animal it sees in the mirror as itself（犬は鼻の印を無視する。おそらく、鏡の中に見える動物を自分自身だと認識できないからだ）とあります。recognize A as B は「AをBだと分かる」という意味です。
+この2つを比べると、類人猿にあって犬にないのは「鏡に映った姿を自分だと分かる力」です。これは self-awareness（自己認識、自分を自分として意識すること）にあたるので、1が正解です。capacity は「能力」という意味です。
+【ほかの選択肢】
+2 「細かいことを覚えている記憶力」は、鏡の実験とは関係がありません。本文には、何かを覚えていられるかどうかを調べた話は出てきません。
+3 「周りのものごとへの好奇心」は、チンパンジーが印に気づく様子と少し似ているように見えますが、本文の説明は「鏡の中の動物を自分だと認識できるかどうか」です。犬が印を無視する理由も、好奇心がないからではなく、鏡の姿を自分だと分からないから、と書かれています。
+4 「方向感覚」も、本文の実験とは関係がありません。道や方角が分かるかどうかについての話は出てきません。
+【覚えるポイント】
+・self-awareness：「自己認識（自分を自分として意識すること）」。self-（自分）+ awareness（気づいていること）。
+・recognize A as B：「AをBだと認識する、分かる」。

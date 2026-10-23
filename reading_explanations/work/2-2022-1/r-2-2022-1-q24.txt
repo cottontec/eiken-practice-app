@@ -1,0 +1,31 @@
+---
+choices: On the contrary | Under this | What is worse | Like before
+answerText: What is worse
+reviewed: yes
+---
+【正解】3 What is worse（さらに悪いことに）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 On the contrary（それどころか、反対に）
+2 Under this（この下で、このもとで）
+3 What is worse（さらに悪いことに）
+4 Like before（以前のように）
+【考え方】
+まず見るところ：第1段落の ( 24 ), many are dying because the forests ～ と、その前の文
+Each year, some of these birds are caught and sold illegally as pets.（毎年、これらの鳥の一部が捕まえられ、ペットとして違法に売られている）
+( 24 ), many are dying because the forests where they live are being cleared to create farmland and to get wood.（（24）、すんでいる森が、農地を作るためや木材を手に入れるために切り開かれているせいで、多くが死んでいる）
+2つの文を比べると、どちらもコンゴウインコ（オウムのなかまの鳥）にとって悪い出来事です。
+・前の文：捕まえられて違法に売られる（悪いこと1つ目）
+・空所の文：すむ森が切り開かれて多くが死んでいる（悪いこと2つ目）
+悪いことに、さらに別の悪いことを付け加える流れです。What is worse は「さらに悪いことに」という意味で、まさにこの流れに合います。ですから、3が正解です。
+この問題の型：熟語・決まった形（What is worse）、推論（前後の文の関係を考える）
+【ほかの選択肢】
+1 On the contrary は「それどころか、反対に」と、前の内容を打ち消して反対のことを言うときに使います。前の文も空所の文も「鳥にとって悪いこと」で、反対の内容ではないので、合いません。
+2 Under this は「この下で、このもとで」です。this が前の文の何を指すのかがはっきりせず、「違法に売られていることのもとで、森が切り開かれて死んでいる」となり、つながりません。
+4 Like before は「以前のように」です。本文には「以前」と比べる話は出てきません。前の文と空所の文は、悪いことを2つ並べているだけなので、合いません。
+【覚えるポイント】
+・What is worse：「さらに悪いことに」。悪いことにもう1つ悪いことを付け加えるときに使います。
+・つなぎ言葉の空所では、前の文と空所の文が「同じ向きのこと（ここでは両方とも悪いこと）」か「反対のこと」かを見ます。同じ向きなら、反対の意味の On the contrary は合いません。
+・be in danger of dying out：「絶滅の危機にある」。

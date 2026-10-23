@@ -1,0 +1,29 @@
+---
+choices: overlaps | emphasizes | identifies | organizes
+answerText: overlaps
+reviewed: yes
+---
+【正解】1 overlaps（〔時間などが〕重なる）
+【和訳】
+（英文）
+A: Are you going to the presentation on New Zealand wildlife? It starts at 3:00.
+B: No. That ［overlaps］ with a presentation on mountain climbing that starts at 2:45. I can't go to both.
+（訳）
+A：ニュージーランドの野生生物についての発表に行く？　3時に始まるよ。
+B：行かないよ。その発表は、2時45分に始まる登山についての発表と（重なっている）よ。両方には行けないね。
+（選択肢の意味）
+1 overlaps：重なる
+2 emphasizes：強調する
+3 identifies：特定する、だれ（何）であるかを確かめる
+4 organizes：準備する、まとめる
+【考え方】
+まず、2つの発表の始まる時刻を比べます。Aが話している野生生物の発表は It starts at 3:00.（3時に始まる）です。Bが話している登山の発表は that starts at 2:45（2時45分に始まる）です。
+登山の発表は2時45分に始まるので、3時になってもまだ続いていると考えられます。つまり、2つの発表は時間が重なっています。最後の I can't go to both.（両方には行けない）も、時間が重なっているから行けない、という流れに合います。
+overlap は「重なる」という意味で、overlap with ～ で「～と重なる」となります。That overlaps with a presentation on mountain climbing ... で「それ（野生生物の発表）は登山の発表と重なっている」となり、意味が通るので、1が正解です。
+【ほかの選択肢】
+2 emphasizes は「強調する（特に大事だと示す）」です。「その発表は登山の発表と一緒に強調する」となり、両方に行けない理由になりません。
+3 identifies は「特定する、だれ（何）であるかを確かめる」です。発表が何かを確かめるという話ではなく、両方に行けない理由とつながりません。
+4 organizes は「準備する、まとめる」です。発表が何かを準備するという話はしておらず、2つの発表の時刻とも関係がありません。
+【覚えるポイント】
+・overlap with ～：「（時間・内容などが）～と重なる」。予定がぶつかるときによく使います。
+・I can't go to both.：「両方には行けない」。both は「両方」。

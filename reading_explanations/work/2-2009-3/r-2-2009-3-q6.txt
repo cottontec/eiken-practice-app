@@ -1,0 +1,24 @@
+---
+choices: fastened | delayed | adjusted | banned
+answerText: banned
+reviewed: yes
+---
+【正解】4 banned（～を禁止した）
+【和訳】
+最近、いくつかの都市では、バーやレストランのような公共の場所での喫煙を禁止しています。たばこを吸いたい人は外に出なければなりません。
+（選択肢の意味）
+1 fastened：～を固定した、しめた
+2 delayed：～を遅らせた
+3 adjusted：～を調整した
+4 banned：～を禁止した
+【考え方】
+空所の文は some cities have (　) smoking in public places such as bars and restaurants（いくつかの都市が、バーやレストランのような公共の場所での喫煙を（　）した）です。
+決め手は2文目の People who want to smoke have to go outside.（たばこを吸いたい人は外に出なければならない）です。店の中でたばこを吸えなくなったから、外に出なければならないのです。つまり、都市は店の中での喫煙を「禁止した」と考えられます。
+ban は「～を（規則などで）禁止する」という意味です。have banned で「（これまでに）禁止してきた、禁止している」となります。正解は4です。
+【ほかの選択肢】
+1 fastened は fasten（～を固定する、しめる）の過去分詞です。fasten one's seat belt（シートベルトをしめる）のように使う語で、「喫煙をしめた」では意味が通りません。
+2 delayed は delay（～を遅らせる）の過去分詞です。喫煙を遅らせても、外に出なければならない理由にはなりません。
+3 adjusted は adjust（～を調整する）の過去分詞です。「喫煙を調整した」では、なぜ外に出なければならないのかがはっきりせず、2文目とつながりません。
+【覚えるポイント】
+・ban：「～を禁止する」。名詞として a ban on ～（～の禁止）とも使います。
+・public places：「公共の場所」。多くの人が利用する場所のことです。

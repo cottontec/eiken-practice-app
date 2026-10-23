@@ -1,0 +1,32 @@
+---
+choices: Finding metals in the ocean was thought to be too difficult to do in the past. | New computers and smartphones use smaller amounts of rare metals than old ones. | Scientists discovered how to get metals from hydrothermal sea vents in the 1970s. | Some countries have made it illegal for companies to carry out deep-sea mining.
+answerText: Finding metals in the ocean was thought to be too difficult to do in the past.
+reviewed: yes
+---
+【正解】1 Finding metals in the ocean was thought to be too difficult to do in the past.（かつては、海の中で金属を見つけることはあまりにも難しいと考えられていた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：次の記述のうち、正しいものはどれですか。
+1 Finding metals in the ocean was thought to be too difficult to do in the past.（かつては、海の中で金属を見つけることはあまりにも難しいと考えられていた。）
+2 New computers and smartphones use smaller amounts of rare metals than old ones.（新しいコンピューターやスマートフォンは、古いものより少ない量の希少な金属しか使わない。）
+3 Scientists discovered how to get metals from hydrothermal sea vents in the 1970s.（科学者たちは、1970年代に熱水噴出孔から金属を取り出す方法を発見した。）
+4 Some countries have made it illegal for companies to carry out deep-sea mining.（いくつかの国は、会社が深海で採掘を行うことを違法にした（法律で禁止した）。）
+【考え方】
+この設問は本文全体から正しいものを選ぶ問題なので、選択肢を1つずつ本文と照らし合わせます。
+選択肢1は、第2段落の初めの文と対応しています。
+In the past, finding metals under the sea was considered to be too much of a challenge.（かつては、海の下で金属を見つけることは、あまりにも難しいことだと考えられていた）
+be considered to be ～ は「～だと考えられている」、too much of a challenge は「難しすぎること、手に負えない挑戦」という意味です。
+本文と選択肢を対にすると、次のようになります。
+本文 In the past ＝ 選択肢 in the past
+本文 finding metals under the sea ＝ 選択肢 Finding metals in the ocean
+本文 was considered to be too much of a challenge ＝ 選択肢 was thought to be too difficult
+「海の下で」が「海の中で」に、「考えられていた（was considered）」が「考えられていた（was thought）」に、「難しすぎること（too much of a challenge）」が「難しすぎる（too difficult）」に言いかえられています。ですから1が正解です。
+【ほかの選択肢】
+2 第1段落には computers and smartphones require rare metals such as gold（コンピューターやスマートフォンには、金のような希少な金属が必要だ）とあり、技術の変化が金属の需要を further increased（さらに高めた）と書かれています。新しいものが古いものより少ない量しか使わないとは書かれていません。
+3 第3段落の1970年代は、hydrothermal sea vents were not discovered until the 1970s（熱水噴出孔は1970年代まで発見されなかった）とあるように、噴出孔そのものが見つかった時期です。金属を取り出す方法を発見したのではありません。採掘の技術については、第4段落に now exists（今では存在する）とあるだけです。
+4 第4段落には governments and environmental groups might ... perhaps even try to ban it（政府や環境保護団体が、もしかするとそれを禁止しようとさえするかもしれない）とあります。これはこれから起こるかもしれないことで、すでに禁止した国があるとは書かれていません。時期が違います。
+【覚えるポイント】
+・too much of a challenge：「難しすぎること、手に負えないこと」。too difficult とほぼ同じ意味です。
+・might ～ ／ perhaps：「～かもしれない」「もしかすると」。まだ起きていない可能性を表すので、「すでに起きた」と読みちがえないようにしましょう。

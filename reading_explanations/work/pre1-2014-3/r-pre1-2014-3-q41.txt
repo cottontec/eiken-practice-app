@@ -1,0 +1,34 @@
+---
+choices: visitors could have the chance to view British artworks that the museum was able to borrow from London. | a safe location could be established for housing and displaying the Elgin Marbles if Greece were able to recover them. | pieces of the Elgin Marbles that remained in Greece could be moved to a facility partly controlled by Britain. | a part of the museum that had suffered damage in the 1970s as a result of air pollution could be replaced.
+answerText: a safe location could be established for housing and displaying the Elgin Marbles if Greece were able to recover them.
+reviewed: yes
+---
+【正解】2 a safe location could be established for housing and displaying the Elgin Marbles if Greece were able to recover them.（ギリシャがエルギン・マーブルを取り戻せた場合に、それを収めて展示するための安全な場所を用意できるようにする。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Construction of a new building for the Acropolis Museum was begun so that（アクロポリス博物館の新しい建物の建設が始められたのは、～ためである。）
+1 visitors could have the chance to view British artworks that the museum was able to borrow from London.（博物館がロンドンから借りることのできたイギリスの美術品を、訪れる人が見る機会を持てるようにする）
+2 a safe location could be established for housing and displaying the Elgin Marbles if Greece were able to recover them.（ギリシャがエルギン・マーブルを取り戻せた場合に、それを収めて展示するための安全な場所を用意できるようにする）
+3 pieces of the Elgin Marbles that remained in Greece could be moved to a facility partly controlled by Britain.（ギリシャに残ったエルギン・マーブルの部分を、イギリスが一部を管理する施設へ移せるようにする）
+4 a part of the museum that had suffered damage in the 1970s as a result of air pollution could be replaced.（1970年代に大気汚染によって傷んでいた博物館の一部を建て替えられるようにする）
+【考え方】
+まず見るところ：第4段落の To address this, Greece began the construction of a new building ～ の this が指す内容
+新しい建物の建設については、第4段落に書かれています。
+To address this, Greece began the construction of a new building for the Acropolis Museum in 1999.（この問題に対処するため、ギリシャは1999年にアクロポリス博物館の新しい建物の建設を始めた）
+address は「（問題）に取り組む、対処する」という意味です。this（この問題）が何を指すかを、前にさかのぼって確かめます。
+Further complicating the debate for several decades was the question of whether Greece could properly care for and display the marbles if they were returned.（数十年の間、論争をさらに複雑にしていたのは、もし大理石彫刻が返されたら、ギリシャがそれをきちんと管理して展示できるのかという問題だった）
+そのあとに、アクロポリス博物館は広さが限られていたこと、大気汚染がひどく、彫刻をパルテノン神殿に戻せば大きな損傷が生じていただろうことが書かれています。つまり this は、「返されたときに、ギリシャが彫刻を安全に保管・展示できる場所がない」という問題です。
+本文と選択肢2を対にすると、次のようになります。
+・本文 properly care for and display the marbles（彫刻をきちんと管理して展示する）→ 選択肢 a safe location ... for housing and displaying the Elgin Marbles（彫刻を収めて展示する安全な場所）。「きちんと管理できる」ことを「安全な場所」と言いかえています。
+・本文 if they were returned（もし彫刻が返されたら）＝ 選択肢 if Greece were able to recover them（ギリシャが取り戻せた場合に）
+よって2が正解です。
+この問題の型：指示語（To address this の this が前の文の問題を指す）
+【ほかの選択肢】
+1 本文にありません。新しい博物館で見られるのは、エルギン・マーブルの石こうの複製と、ギリシャに残っていた部分です。ロンドンから借りたイギリスの美術品を展示するという話はありません。
+3 本文にありません。ギリシャに残った部分は新しい博物館で複製と並べて展示されていて、イギリスが一部を管理する施設に移すという話は書かれていません。
+4 本文と違います。大気汚染で心配されていたのは、彫刻をパルテノン神殿に戻した場合に彫刻が受けるであろう損傷です。博物館の一部が1970年代に傷んだとは書かれていません。
+【覚えるポイント】
+・address：「（問題）に対処する」。care for ～：「～を管理する、世話する」。
+・To address this（この問題に対処するため）のように目的を表す文では、this が指す前の文の「問題」を確かめると、何のために行われたのかが分かる手がかりになります。

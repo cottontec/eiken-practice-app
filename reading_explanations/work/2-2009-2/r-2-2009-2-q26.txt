@@ -1,0 +1,26 @@
+---
+choices: Similarly | Usually | Surprisingly | Recently
+answerText: Surprisingly
+reviewed: yes
+---
+【正解】3 Surprisingly（意外なことに、驚いたことに）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Similarly：同じように
+2 Usually：ふだんは、たいてい
+3 Surprisingly：意外なことに、驚いたことに
+4 Recently：最近
+【考え方】
+空所は第1段落の (　), though, Cochrane's aim was not to cut the amount of housework she had to do.（～、しかし、コクランのねらいは、自分がしなければならない家事の量を減らすことではなかった）という文の初めにあります。though はここでは「しかし、でも」という意味で、前の文と反対の内容がくることを示しています。
+前の文を見ます。Since washing dishes was traditionally seen as a woman's job, it may seem natural that the inventor of the automatic dishwasher, Josephine Cochrane, was a woman.（皿洗いは昔から女性の仕事と見なされてきたので、自動食器洗い機の発明者ジョセフィン・コクランが女性だったのは自然に思えるかもしれない）とあります。
+この文を読むと、読む人は「女性が自分の皿洗いを楽にするために発明したのだろう」と予想します。ところが空所の文では、コクランのねらいは家事を減らすことではなかった、と予想とは反対のことが書かれています。さらに次の文で、彼女の家では使用人が皿を洗っていたと説明されています。
+このように、予想していたことと違う内容を紹介するときに合うのが Surprisingly（意外なことに）です。正解は3です。
+【ほかの選択肢】
+1 Similarly は「同じように」です。前の文と同じ方向の内容を付け加えるときに使います。空所の文は前の文から予想されることと反対の内容で、though（しかし）ともつながらないので合いません。
+2 Usually は「ふだんは、たいてい」です。空所の文は、コクラン1人が発明したときのねらいについて述べています。「ふだんは、ねらいは家事を減らすことではなかった」となり、意味が通りません。
+4 Recently は「最近」です。コクランは1839年生まれで、発明は1800年代のことです。「最近」では時期が合いません。
+【覚えるポイント】
+・Surprisingly：「意外なことに、驚いたことに」。予想と違う内容を紹介するときに文の初めに置きます。
+・, though,：文の途中に入れて「しかし、でも」という意味を表します。

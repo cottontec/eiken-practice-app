@@ -1,0 +1,30 @@
+---
+choices: bulk up | track down | lay off | pick on
+answerText: track down
+reviewed: yes
+---
+【正解】2 track down（～を〔追跡して〕見つけ出す）
+【和訳】
+（英文）
+It took two weeks, but police were finally able to ［track down］ the thieves using video from a security camera and fingerprints left at the crime scene.
+（訳）
+2週間かかったが、警察は、防犯カメラの映像と犯行現場に残された指紋を使って、ついに泥棒たちを（見つけ出す）ことができた。
+（選択肢の意味）
+1 bulk up：（筋肉をつけて）体を大きくする、～を増やす
+2 track down：～を（追跡して）見つけ出す
+3 lay off：～を（一時的に）解雇する
+4 pick on：～をいじめる、～にばかり文句を言う
+【考え方】
+まず見るところ：空所の後ろの the thieves using video from a security camera and fingerprints left at the crime scene
+空所の後ろには、警察が泥棒たちに対して何をしたか、そのときに何を使ったかが書かれています。
+using video from a security camera and fingerprints left at the crime scene（防犯カメラの映像と犯行現場に残された指紋を使って）
+security camera は「防犯カメラ」、fingerprint は「指紋」、crime scene は「犯行現場（事件が起きた場所）」です。どれも犯人を探すための手がかりです。
+文の初めの It took two weeks, but ～ finally（2週間かかったが、ついに）からも、警察が時間をかけて何かをやりとげたことが分かります。手がかりを使って、時間をかけて泥棒たちを探し出したと考えられます。track down は「～を（追跡して）見つけ出す」なので、2が正解です。
+この問題の型：熟語・決まった形（track down ～）／語の意味・組み合わせ（警察が手がかりを使って泥棒を見つけ出す）
+【ほかの選択肢】
+1 bulk up は「体を大きくする、増やす」です。「警察は泥棒たちを大きくすることができた」となり、意味が通りません。
+3 lay off は「～を解雇する」です。会社などが雇っている人をやめさせるときに使う語で、警察と泥棒の話には合いません。
+4 pick on は「～をいじめる」です。防犯カメラの映像や指紋を使って、2週間かけていじめるという話にはならず、意味が通りません。
+【覚えるポイント】
+・track down ～：「～を（追跡して）見つけ出す」。track は「足あと、跡をたどる」という意味もある語です。
+・「時間がかかったが、ついに」と、手がかり（映像・指紋）を使った話があるときは、「探し出す、つきとめる」向きの語が入る手がかりになります。

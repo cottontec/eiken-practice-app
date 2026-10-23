@@ -1,0 +1,29 @@
+---
+choices: With this | Similarly | For a while | In contrast
+answerText: With this
+reviewed: yes
+---
+【正解】1 With this（これによって、これを使って）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 With this（これによって、これを使って）
+2 Similarly（同じように）
+3 For a while（しばらくの間）
+4 In contrast（対照的に、それに対して）
+【考え方】
+まず見るところ：第3段落の空所の前の special computer software was used to analyze the sounds
+Microphones in the forests recorded the sounds made by animals at night, and special computer software was used to analyze the sounds.（森の中のマイクが夜に動物が出す音を録音し、その音を分析するために特別なコンピューターソフトが使われた）
+analyze は「分析する（細かく調べる）」という意味です。この文は、科学者たちが使った「方法」の説明です。
+(26), the scientists were able to pick out the ones made by the owls.（（26）、科学者たちはフクロウが出したものを選び出すことができた）
+the ones は the sounds（音）のくり返しをさけた言い方で、pick out は「選び出す」です。この文は、その方法で「できたこと」になっています。
+With this は「これによって、これを使って」という意味で、this は前の文の録音と分析を指します。これを入れると「これによって、科学者たちはフクロウが出した音を選び出せた」となるので、1が正解です。
+この問題の型：指示語（this が前の文の方法を指す）／因果（方法→できたこと）
+【ほかの選択肢】
+2 Similarly は「同じように」です。前の内容と似た別の例を挙げるときに使います。空所のあとは、前の文の録音と分析によってできたことなので、つながりません。
+3 For a while は「しばらくの間」です。「しばらくの間、フクロウの音を選び出すことができた」となると、その後はできなくなったように聞こえます。本文にそのような話はなく、次の文でも集めたデータから数を推定できたと続いています。
+4 In contrast は「対照的に、それに対して」です。前の内容と反対のことを述べるときに使います。録音と分析をしたことと、フクロウの音を選び出せたことは反対の内容ではないので、合いません。
+【覚えるポイント】
+・With this：「これによって、これを使って」。
+・前の文が「何を使ったか（方法）」、空所のあとが「何ができたか」になっていれば、方法と結果をつなぐ言葉を選ぶ手がかりになります。

@@ -1,0 +1,26 @@
+---
+choices: be a good thing for cities | make business worse | clean up the environment | result in more crime
+answerText: be a good thing for cities
+reviewed: yes
+---
+【正解】1 be a good thing for cities（都市にとってよいものになる）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 be a good thing for cities（都市にとってよいものになる）
+2 make business worse（商売を悪くする）
+3 clean up the environment（環境をきれいにする）
+4 result in more crime（より多くの犯罪につながる）
+【考え方】
+空所は第3段落の最後の Instead, slums can (26).（そうではなく、スラムは（26）することができる）です。
+まず、直前の文を見ます。This suggests that cities do not need to get rid of slums.（このことは、都市がスラムをなくす必要はないということを示している）とあります。Instead は「そうではなく、その代わりに」という意味です。つまり、空所には「スラムはなくすべき悪いもの」とは反対の、スラムのよい面が入ると考えられます。
+This（このこと）が指す内容も確かめます。第3段落には、When slums are more organized, people create businesses, which leads to more jobs and more money.（スラムがもっと整えられると、人々は商売を始め、それがより多くの仕事とお金につながる）とあります。さらに、ダラビというスラムでは small businesses owned by local residents add about $1 billion to the local economy each year（地元の住民が経営する小さな商売が、毎年約10億ドルを地域の経済にもたらしている）と書かれています。
+スラムは仕事やお金を生み出し、地域の経済の役に立っているのですから、be a good thing for cities（都市にとってよいものになる）が合います。ですから、1が正解です。
+【ほかの選択肢】
+2 「商売を悪くする」は、本文と反対です。本文では、スラムで人々が商売を始め、仕事やお金が増えると書かれています。
+3 「環境をきれいにする」は、本文に書かれていません。第3段落で述べられているのは、商売や仕事、お金の話で、環境の話はありません。
+4 「より多くの犯罪につながる」は、本文に書かれていません。また、Instead（そうではなく）のあとにスラムの悪い面が来ると、「スラムをなくす必要はない」という前の文とつながりません。
+【覚えるポイント】
+・This suggests that ～：「このことは～ということを示している」。This が指す前の内容を確かめると、話の流れがつかめます。
+・lead to ～：「～につながる、～を引き起こす」。result in ～ も似た意味です。

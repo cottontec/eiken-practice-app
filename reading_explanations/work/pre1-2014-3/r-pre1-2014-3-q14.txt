@@ -1,0 +1,31 @@
+---
+choices: component | pileup | detergent | shortfall
+answerText: shortfall
+reviewed: yes
+---
+【正解】4 shortfall（不足、不足額）
+【和訳】
+（英文）
+The predicted ［shortfall］ in this year's budget means the government will be forced to find alternative ways to finance its spending programs.
+（訳）
+今年度の予算に（不足）が出ると予測されていることは、政府が支出計画の資金をまかなうための別の方法を見つけざるをえなくなるということだ。
+（選択肢の意味）
+1 component：構成要素、部品
+2 pileup：玉突き事故、（物の）山
+3 detergent：洗剤
+4 shortfall：不足、不足額
+【考え方】
+まず見るところ：動詞 means のあとの the government will be forced to find alternative ways to finance its spending programs
+文の主語は The predicted (　) in this year's budget（今年度の予算で予測されている〇〇）で、動詞は means（～ということになる）です。means のあとに、その結果が書かれています。
+the government will be forced to find alternative ways（政府は別の方法を見つけざるをえなくなるだろう）
+to finance its spending programs（支出計画の資金をまかなうための）
+be forced to ～ は「～せざるをえない」、finance は「～の資金を出す、まかなう」という意味です。お金を出す別の方法を探さなければならないのは、予算のお金が足りないからだと考えられます。
+shortfall は「不足、不足額」という意味です。「予算に不足が出ると予測されているので、資金をまかなう別の方法を探さなければならない」となり、意味が通ります。よって4が正解です。
+この問題の型：因果（means のあとが、空所の内容から起きる結果）
+【ほかの選択肢】
+1 component は「構成要素、部品」です。「予算の中に予測された構成要素がある」だけでは、政府が別の資金の集め方を探さなければならない理由になりません。
+2 pileup は「玉突き事故」や「（物が積み重なった）山」です。予算の話とは関係がなく、意味が通りません。
+3 detergent は「洗剤」です。予算の話とは関係がなく、意味が通りません。
+【覚えるポイント】
+・shortfall：「不足、不足額」。be forced to ～：「～せざるをえない」。
+・主語＋ means ＋結果 の文では、means のあとの結果（ここでは「別の資金の集め方が必要になる」）から逆にたどって、主語の空所を考えるのが手がかりになります。

@@ -1,0 +1,22 @@
+---
+choices: sofa | I | is | saw | the very
+answerText: the very
+order: 3 5 1 2 4
+reviewed: yes
+---
+【正解】5 the very（この問題の2番目）
+【完成文】
+Actually, this ( is the very sofa I saw ) online. I'm surprised we found it at this store.
+並べ方：3 is → 5 the very → 1 sofa → 2 I → 4 saw（2番目は5、4番目は2）
+【和訳】
+A：エレン、このソファどう思う？　昨日あなたがインターネットで見ていたソファに似ているね。
+B：実は、これこそまさに私がネットで見たソファなんだ。このお店で見つかるなんてびっくりだよ。
+【考え方】
+空所の前は this（これは）です。this が主語なので、すぐあとには動詞がきます。5つの中で this に合う動詞は 3 is なので、this is ～（これは～だ）から始めます。
+is のあとには「これは何なのか」を表す名詞のまとまりがきます。ここで 5 the very に注目します。very は「とても」の意味だけでなく、the very ＋名詞の形で「まさにその～」という意味になります。そこで 5 the very を2番目に置き、名詞の 1 sofa を続けて the very sofa（まさにそのソファ）とします。the very は名詞の前に置く語なので、is の直後、sofa の前というこの位置に入ります。
+最後に 2 I と 4 saw を sofa のうしろに置きます。the very sofa I saw online で「私がネットで見た、まさにそのソファ」となり、I saw ～ が前の sofa を説明しています。
+2番目は5 the very です。
+1 sofa を最初に置いて ( sofa is the very I saw ) とすると、this sofa is ～（このソファは～だ）とは読めますが、the very のあとに名詞がなくなり、「まさにその」が何を指すのか分かりません。「まさにその～」という意味の the very のあとには名詞を続ける、という点が決め手です。
+【覚えるポイント】
+・the very ＋名詞：「まさにその～」。the very sofa I saw で「私が見たまさにそのソファ」。
+・名詞＋主語＋動詞：the sofa I saw のように、名詞のすぐあとに「主語＋動詞」を続けて「～が…した（名詞）」と説明できます。

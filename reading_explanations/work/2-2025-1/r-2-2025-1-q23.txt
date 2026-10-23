@@ -1,0 +1,29 @@
+---
+choices: On the contrary | To begin with | In general | As a consequence
+answerText: As a consequence
+reviewed: yes
+---
+【正解】4 As a consequence（その結果）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 On the contrary（それどころか、それとは反対に）
+2 To begin with（まず第一に、そもそも）
+3 In general（一般に、たいていは）
+4 As a consequence（その結果）
+【考え方】
+まず見るところ：第3段落の空所の前に書かれた出来事と、空所のあとの because of the lack of workers and water
+However, young people from the island recently moved to the city.（しかし、最近、島の若者たちは都市へ移り住んだ）
+Some of them cleared forest areas to make their own vegetable fields and took away natural water sources from the rice fields.（彼らの中には、森林を切り開いて自分たちの野菜畑を作り、田んぼから自然の水源を奪った人もいる）
+空所の前には、若者がいなくなったこと（働き手が減ったこと）と、田んぼの水源が奪われたこと（水が減ったこと）が書かれています。
+(23), a large quantity of the rice fields was damaged because of the lack of workers and water.（（23）、働き手と水が足りないために、多くの田んぼが損なわれた）
+空所のあとは、働き手と水が足りなくなったことで田んぼが損なわれた、という結果です。前に原因、あとに結果が書かれているので、As a consequence（その結果）を入れると前後がつながります。ですから4が正解です。
+この問題の型：因果（働き手と水が減った → 田んぼが損なわれた）
+【ほかの選択肢】
+1 On the contrary は「それどころか、それとは反対に」で、前の内容を打ち消して反対のことを言うときに使います。空所の前後は「働き手と水が減った」と「田んぼが損なわれた」で、反対の内容ではないので合いません。
+2 To begin with は「まず第一に、そもそも」で、いくつかのことを順に挙げるときの最初などに使います。空所のあとの文は、前に書かれた出来事から起きた結果であり、最初に挙げる話ではないので合いません。
+3 In general は「一般に、たいていは」です。空所のあとはイフガオの田んぼで実際に起きたことであり、「一般的にはそうだ」という話ではないので合いません。
+【覚えるポイント】
+・As a consequence：「その結果」。As a result と同じような意味です。
+・空所の前に原因（若者の移住や水源が奪われたこと）、あとに because of ～（～のために）を含む結果が書かれていたら、結果を表すつなぎの語句が入る手がかりになります。

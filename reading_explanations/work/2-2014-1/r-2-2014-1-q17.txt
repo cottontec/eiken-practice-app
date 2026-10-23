@@ -1,0 +1,26 @@
+---
+choices: case | person | place | control
+answerText: person
+reviewed: yes
+---
+【正解】2 person（人、本人。in person で「直接、じかに」）
+【和訳】
+（英文）
+Jerry and Steve work for the same company, but they are in different cities and have only talked to each other on the telephone. Next week, they will finally meet in ［person］ at Steve's office.
+（訳）
+ジェリーとスティーブは同じ会社で働いていますが、別々の都市にいて、これまでお互いに電話でしか話したことがありません。来週、2人はついに、スティーブの職場で直接会います。
+（選択肢の意味）
+1 case：場合
+2 person：人、本人
+3 place：場所
+4 control：支配、管理
+【考え方】
+1文目の have only talked to each other on the telephone（お互いに電話でしか話したことがない）に注目します。only は「～だけ」なので、2人はまだ顔を合わせたことがないと分かります。
+2文目の finally（ついに）から、来週は初めて顔を合わせて会うのだと考えられます。in person は「（電話や手紙ではなく）直接、本人が」という意味です。they will finally meet in person で「2人はついに直接会う」となり、1文目の「電話でしか話したことがない」とつながります。正解は2です。
+【ほかの選択肢】
+1 case は「場合」です。in case は「～の場合に備えて」という意味で、meet in case では意味が通りません。
+3 place は「場所」です。in place は「決まった位置に、きちんと」という意味で、「直接会う」という意味になりません。また、会う場所は at Steve's office ですでに示されています。
+4 control は「支配、管理」です。in control は「管理して、支配して」という意味で、会うことの説明になりません。
+【覚えるポイント】
+・in person：「（電話などではなく）直接、本人が」。
+・each other：「お互い」。

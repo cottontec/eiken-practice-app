@@ -1,0 +1,30 @@
+---
+choices: Have a volunteer explain more about Arnfield Action's work. | Take some tickets to the store to give to Mr. Simmons's staff. | Attend a party that is going to be held at Waverly Electronics. | Put some information about Rachel Stone on her college's website.
+answerText: Have a volunteer explain more about Arnfield Action's work.
+reviewed: yes
+---
+【正解】1 Have a volunteer explain more about Arnfield Action's work.（ボランティアの人に、アーンフィールド・アクションの活動についてさらに説明してもらう。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ジャッキー・ゴールディングが来週したいと言っていることの1つは何ですか。
+1 Have a volunteer explain more about Arnfield Action's work.（ボランティアの人に、アーンフィールド・アクションの活動についてさらに説明してもらう。）
+2 Take some tickets to the store to give to Mr. Simmons's staff.（シモンズさんの店の従業員に渡すために、チケットを何枚か店に持っていく。）
+3 Attend a party that is going to be held at Waverly Electronics.（ウェイバリー・エレクトロニクスで開かれる予定のパーティーに出席する。）
+4 Put some information about Rachel Stone on her college's website.（レイチェル・ストーンについての情報を、自分の大学のウェブサイトに載せる。）
+【考え方】
+設問の next week（来週）という語を、本文の中で探します。第3段落の初めにあります。
+If you are available sometime next week, I would like to come to your store with Rachel Stone, who has been volunteering at Arnfield Action for over five years.（来週のどこかで都合がよければ、5年以上アーンフィールド・アクションでボランティアをしているレイチェル・ストーンといっしょに、お店にうかがいたい）とあります。available は「都合がつく」という意味です。
+続いて She will be able to give you more details about the charity's activities.（彼女が、この慈善団体の活動についてさらに詳しく説明できるだろう）とあります。details は「詳しいこと」です。
+つまりジャッキーさんは来週、ボランティアのレイチェルさんを連れて店に行き、団体の活動を詳しく説明してもらいたいと考えています。本文と選択肢は次のように対応しています。
+本文 Rachel Stone, who has been volunteering at Arnfield Action（アーンフィールド・アクションでボランティアをしているレイチェル・ストーン）＝ 選択肢 a volunteer（ボランティアの人）
+本文 give you more details about the charity's activities（団体の活動についてさらに詳しく伝える）＝ 選択肢 explain more about Arnfield Action's work（アーンフィールド・アクションの活動についてさらに説明する）
+選択肢の have ＋ 人 ＋ 動詞の元の形 は「人に～してもらう」という意味です。正解は1です。
+【ほかの選択肢】
+2 チケットについては Tickets are $10 and can be bought on the Peterson College website.（チケットは10ドルで、ピーターソン大学のウェブサイトで買える）とあるだけです。チケットを店に持っていくという話はないので、誤りです。
+3 パーティーが開かれるのはアーンフィールド地域センターで、日にちも3月15日です。ウェイバリー・エレクトロニクスで開かれるパーティーではなく、来週のことでもないので、誤りです。
+4 本文でウェブサイトが出てくるのは、チケットを買える場所としてだけです。レイチェルさんの情報をウェブサイトに載せるという話はないので、誤りです。
+【覚えるポイント】
+・have ＋ 人 ＋ 動詞の元の形：「人に～してもらう」。
+・available：「（人の）都合がつく、手があいている」。

@@ -1,0 +1,27 @@
+---
+choices: Meanwhile | Overall | Certainly | Similarly
+answerText: Meanwhile
+reviewed: yes
+---
+【正解】1 Meanwhile（その間に）
+【和訳】
+（英文）
+Brenda sent her son to the park to play basketball with his friends. ［Meanwhile］, she got dinner ready for the family. When her son came home, they ate dinner together.
+（訳）
+ブレンダは、息子を友だちとバスケットボールをさせるために公園へ行かせました。（その間に）、彼女は家族のために夕食の準備をしました。息子が帰ってくると、彼らは一緒に夕食を食べました。
+（選択肢の意味）
+1 Meanwhile：その間に
+2 Overall：全体として、全体的に見て
+3 Certainly：確かに、きっと
+4 Similarly：同様に
+【考え方】
+空所は文の最初にあり、前の文と後ろの文をつなぐ言葉が入ります。そこで、前後の内容の関係を確かめます。
+前の文は Brenda sent her son to the park to play basketball with his friends.（ブレンダは息子を、友だちとバスケットボールをさせるために公園へ行かせた）です。後ろの文は she got dinner ready for the family（彼女は家族のために夕食の準備をした）です。さらに次の文に When her son came home, they ate dinner together.（息子が帰ってくると、一緒に夕食を食べた）とあります。
+つまり、息子が公園で遊んでいる時間と、ブレンダが夕食を準備している時間は同じころだと分かります。「その間に」という意味の Meanwhile を入れると、「息子が公園にいる間に、母親は夕食を準備した」という流れになり、息子の帰宅後に一緒に食べたこととも自然につながります。ですから、1が正解です。
+【ほかの選択肢】
+2 Overall は「全体として、全体的に見て」です。それまでの話をまとめるときに使います。ここでは前の話をまとめているわけではなく、「全体として、彼女は夕食の準備をした」では意味が通りません。
+3 Certainly は「確かに、きっと」です。「確かに、彼女は夕食の準備をした」となりますが、前の文の「息子を公園へ行かせた」とのつながりが分かりません。
+4 Similarly は「同様に」です。前と同じような内容を続けるときに使います。息子を公園へ行かせたことと夕食の準備をしたことは同じような内容ではないので、合いません。
+【覚えるポイント】
+・meanwhile：「その間に、一方で」。2つのことが同じころに起きていることを表します。
+・get dinner ready：「夕食の準備をする」。get ～ ready で「～を用意する」です。

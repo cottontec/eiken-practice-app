@@ -1,0 +1,32 @@
+---
+choices: steady | hasty | weary | sly
+answerText: weary
+reviewed: yes
+---
+【正解】3 weary（疲れきった、うんざりした）
+【和訳】
+（英文）
+Martin had spent four hours cleaning up his yard. When he realized that he was only half finished, he suddenly felt very ［weary］.
+（訳）
+マーティンは庭の片付けに4時間を費やしていた。まだ半分しか終わっていないと気づいたとき、彼は急にひどく（疲れた）と感じた。
+（選択肢の意味）
+1 steady：安定した、落ち着いた
+2 hasty：急いだ、軽はずみな
+3 weary：疲れきった、うんざりした
+4 sly：ずるい、こっそりした
+【考え方】
+まず見るところ：前の文の four hours と、空所のある文の only half finished
+前の文を確かめます。
+Martin had spent four hours cleaning up his yard.（マーティンは庭の片付けに4時間を費やしていた）
+spend ～ ing は「～することに（時間）を使う」という意味です。もう4時間も片付けをしていました。
+次に、空所のある文を見ます。
+When he realized that he was only half finished, he suddenly felt very ( ).（まだ半分しか終わっていないと気づいたとき、彼は急にひどく（　）と感じた）
+only half finished は「半分しか終わっていない」という意味です。4時間働いたのに、まだ同じくらいの作業が残っていると分かったので、どっと疲れが出たと考えられます。weary は「疲れきった、うんざりした」なので、3が正解です。
+この問題の型：因果（4時間働いたのに半分しか終わっていない→疲れを感じた）
+【ほかの選択肢】
+1 steady は「安定した、落ち着いた」です。まだ半分しか終わっていないと気づいて、急に落ち着いた気分になる、という流れは不自然です。
+2 hasty は「急いだ、軽はずみな」です。「急いだと感じた」では、気持ちの表し方として意味が通りません。
+4 sly は「ずるい」です。人の性格や態度を表す語で、作業が半分しか終わっていないと気づいたときの気持ちには合いません。
+【覚えるポイント】
+・weary：「疲れきった、うんざりした」。
+・空所が「急にどう感じたか」をたずねているときは、前に書かれた出来事（ここでは長い時間働いたのに半分しか終わっていないこと）から、自然に生まれる気持ちを考えることが手がかりになります。

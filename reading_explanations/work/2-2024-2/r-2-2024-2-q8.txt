@@ -1,0 +1,31 @@
+---
+choices: postponed | obeyed | recovered | tricked
+answerText: postponed
+reviewed: yes
+---
+【正解】1 postponed（延期された）
+【和訳】
+（英文）
+The soccer game was supposed to be held this Saturday, but it was ［postponed］ because of the heavy rain. It will be held next weekend instead.
+（訳）
+そのサッカーの試合は今週の土曜日に行われる予定でしたが、大雨のために（延期されました）。代わりに来週末に行われます。
+（選択肢の意味）
+1 postponed：延期された
+2 obeyed：従われた
+3 recovered：回復された、取り戻された
+4 tricked：だまされた
+【考え方】
+まず見るところ：2文目の It will be held next weekend instead.
+The soccer game was supposed to be held this Saturday（そのサッカーの試合は今週の土曜日に行われる予定だった）
+be supposed to ～ は「～することになっている、～する予定だ」という意味です。そのあとに but（しかし）があるので、予定どおりにはいかなかったことが分かります。
+It will be held next weekend instead.（代わりに来週末に行われる）
+instead は「その代わりに」という意味です。つまり、試合は中止ではなく、日にちを後ろにずらしたことになります。
+postpone は「延期する（予定を後の日にずらす）」という意味の動詞です。it was postponed で「それ（試合）は延期された」となり、because of the heavy rain（大雨のために）とも合います。ですから1が正解です。
+この問題の型：語の意味・組み合わせ（予定→来週末に→延期）
+【ほかの選択肢】
+2 obeyed は「従われた」です。obey は「（命令や規則に）従う」という意味なので、「試合は大雨のために従われた」となり、意味が通りません。
+3 recovered は「回復された、取り戻された」です。「試合が大雨のために取り戻された」では、来週末に行われるという2文目とつながりません。
+4 tricked は「だまされた」です。だまされるのは人なので、「試合がだまされた」となり、意味が通りません。
+【覚えるポイント】
+・postpone：「延期する」。be postponed で「延期される」。
+・予定が変わった話では、あとの文に新しい日にち（ここでは next weekend instead）が書かれているかを見ると、「中止」なのか「延期」なのかを見分ける手がかりになります。

@@ -1,0 +1,31 @@
+---
+choices: It gives job training to students who need extra help. | It rewards students who achieve high scores on tests. | It requires all teachers to teach the same lessons. | It values and trusts the abilities of its teachers.
+answerText: It values and trusts the abilities of its teachers.
+reviewed: yes
+---
+【正解】4 It values and trusts the abilities of its teachers.（自国の教師の能力を大切にし、信頼している。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：フィンランドの教育の成功につながってきたことの1つは何ですか。
+1 It gives job training to students who need extra help.（特別な手助けが必要な生徒に、職業訓練を行っている。）
+2 It rewards students who achieve high scores on tests.（テストで高い点をとった生徒にほうびを与えている。）
+3 It requires all teachers to teach the same lessons.（すべての教師に同じ授業をするよう義務づけている。）
+4 It values and trusts the abilities of its teachers.（自国の教師の能力を大切にし、信頼している。）
+【考え方】
+設問の has led to Finland's educational success（フィンランドの教育の成功につながってきた）と似た言い方が、第4段落にあります。This focus on students' needs and high-quality teaching has led to Finland's success.（このように、生徒が必要としていることと質の高い教育に重点を置いてきたことが、フィンランドの成功につながってきた）です。lead to ～ は「～につながる、～をもたらす」です。
+This（このこと）が何を指しているかを、第4段落の初めから確かめます。
+the Finnish government relies greatly on individual teachers and trusts them to make the best decisions for their classes（フィンランド政府は個々の教師に大きく頼り、教師がクラスのために最善の判断をすると信頼している）
+These teachers are, in turn, rewarded with high salaries and social status.（そのかわりに、これらの教師たちは、高い給料と社会的な地位で報われている）
+フィンランドでは、政府が教師を信頼して判断を任せ、教師は高い給料と社会的な地位で報われています。そのため教師の仕事をめぐる競争が激しくなり、最も高度な訓練を受けた、能力と資格のある候補者しか教師になれません。こうした質の高い教育が、成功につながってきたと書かれています。本文と選択肢の対応は次のとおりです。
+本文 trusts them to make the best decisions（教師が最善の判断をすると信頼している）→ 選択肢 trusts the abilities of its teachers（教師の能力を信頼している）
+本文 relies greatly on individual teachers（個々の教師に大きく頼る）、teachers are … rewarded with high salaries and social status（教師は高い給料と社会的な地位で報われている）→ 選択肢 values（大切にしている）
+教師が最善の判断をすると信頼しているということは、教師の能力を信頼しているということです。また、教師に大きく頼り、教師が高い給料と地位で報われていることから、教師を大切にしていると読み取れます。正解は4です。
+【ほかの選択肢】
+1 本文の trained は、the most highly trained and qualified candidates（最も高度な訓練を受け、最も能力と資格のある候補者）という部分に出てくる語で、教師になる人についての説明です。生徒に職業訓練を行うという話ではありません。
+2 本文で reward（報いる）されているのは、生徒ではなく教師です。また、フィンランドの制度は高い点数に重点を置かないと書かれているので、高い点をとった生徒にほうびを与えるというのは本文と合いません。
+3 本文には teachers are allowed to plan lessons using whatever materials they think will be best for their students（教師たちは、自分の生徒にとっていちばんよいと思う教材なら何でも使って、授業を計画することが認められている）とあります。すべての教師に同じ授業をさせるというのは、本文と反対です。
+【覚えるポイント】
+・lead to ～：「～につながる、～をもたらす」。has led to ～ で「～につながってきた」。
+・rely on ～：「～に頼る」。trust ＋ 人 ＋ to ～ は「人が～すると信頼する、信頼して～を任せる」。

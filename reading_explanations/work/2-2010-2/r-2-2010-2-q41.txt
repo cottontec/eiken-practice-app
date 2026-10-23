@@ -1,0 +1,30 @@
+---
+choices: encourage a group of 20 German companies to clean up the Sahara Desert. | make use of carbon dioxide found in North Africa to produce clean energy. | use the desert sun to provide energy without damaging the environment. | find a way to lessen the total amount of electricity that people consume each year.
+answerText: use the desert sun to provide energy without damaging the environment.
+reviewed: yes
+---
+【正解】3 use the desert sun to provide energy without damaging the environment.（環境を傷つけずにエネルギーを供給するために、砂漠の太陽を利用すること。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：デザーテック財団が目指しているのは
+1 encourage a group of 20 German companies to clean up the Sahara Desert.（ドイツの企業20社のグループに、サハラ砂漠をきれいにするよう働きかけること。）
+2 make use of carbon dioxide found in North Africa to produce clean energy.（クリーンなエネルギーを作るために、北アフリカで見つかる二酸化炭素を利用すること。）
+3 use the desert sun to provide energy without damaging the environment.（環境を傷つけずにエネルギーを供給するために、砂漠の太陽を利用すること。）
+4 find a way to lessen the total amount of electricity that people consume each year.（人々が毎年消費する電気の総量を減らす方法を見つけること。）
+【考え方】
+設問の aims to ～ は「～することを目指している」です。デザーテック財団が何をしようとしているのかを、第1段落で確かめます。
+第1段落には a plan to use the Sahara Desert in North Africa to provide clean electricity to Europe（北アフリカのサハラ砂漠を使ってヨーロッパにクリーンな電気を供給する計画）とあり、この計画を the Desertec Foundation, which is running the project（この計画を運営しているデザーテック財団）が進めています。
+さらに、クニースの言葉のあとに The companies hope to use this energy to create electricity in a way that will not harm the environment.（企業は、このエネルギーを使って、環境を害さない方法で電気を作り出したいと考えている）とあります。this energy は、砂漠が太陽から受け取るエネルギーのことです。本文と選択肢は次のように対応しています。
+本文 use the Sahara Desert（サハラ砂漠を使う）と use this energy（このエネルギー、つまり砂漠が太陽から受け取るエネルギーを使う）＝ 選択肢 use the desert sun（砂漠の太陽を利用する）
+本文 to provide clean electricity to Europe（ヨーロッパにクリーンな電気を供給するために）＝ 選択肢 to provide energy（エネルギーを供給するために）
+本文 in a way that will not harm the environment（環境を害さない方法で）＝ 選択肢 without damaging the environment（環境を傷つけずに）
+正解は3です。
+【ほかの選択肢】
+1 ドイツの企業20社は、この計画を考え出した側です。財団がその企業に「サハラ砂漠をきれいにするよう働きかける」という話は本文にありません。本文の clean は clean electricity（クリーンな電気）で、砂漠を掃除するという意味ではありません。
+2 本文では、二酸化炭素は the amount of carbon dioxide being produced（排出される二酸化炭素の量）を減らしたいものとして出てきます。北アフリカの二酸化炭素を利用するという話はありません。
+4 本文の humankind consumes within a year（人類が1年間に消費する）は、砂漠が受け取る太陽のエネルギーがどれほど多いかを比べるために出てくる言葉です。電気の使用量を減らす方法を見つけるという話ではありません。
+【覚えるポイント】
+・aim to ～：「～することを目指す」。
+・in a way that will not harm ～：「～を害さない方法で」。選択肢では without damaging ～（～を傷つけずに）と言いかえられています。

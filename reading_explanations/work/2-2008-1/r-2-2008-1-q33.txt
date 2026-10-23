@@ -1,0 +1,25 @@
+---
+choices: command | select | judge | encourage
+answerText: encourage
+reviewed: yes
+---
+【正解】4 encourage（～をうながす、～する気にさせる）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 command：～に命令する
+2 select：～を選ぶ
+3 judge：～を判断する、評価する
+4 encourage：～をうながす、～する気にさせる、はげます
+【考え方】
+空所は第3段落の By improving things, they can make patients' visits more pleasant and so (　) them to return in the future.（いろいろなことを改善することで、医者は患者の通院をより快適なものにでき、そうして患者が今後また来るように（　）できる）にあります。they は doctors（医者たち）、them は patients（患者たち）を指しています。
+前の文には、doctors want their patients to keep coming back（医者は患者にくり返し来てもらいたいと思っている）とあります。また so は「だから、そうして」という意味で、「通院を快適にすること」が「また来てもらうこと」につながる、という関係を示しています。
+通院が快適になれば、患者は「また来よう」という気持ちになります。〈encourage ＋人＋to ～〉は「（人）が～するようにうながす、（人）を～する気にさせる」という意味です。encourage them to return で「患者がまた来る気になるようにする」となるので、4が正解です。
+【ほかの選択肢】
+1 command は「～に命令する」です。command them to return だと「また来るように患者に命令する」となり、通院を快適にすることで自然に来てもらう、という流れと合いません。
+2 select は「～を選ぶ」です。select them to return は「また来る人として患者を選ぶ」となり、意味が通りません。
+3 judge は「～を判断する、評価する」です。通院を快適にした結果として「患者を評価する」ことにはならず、うしろの to return（また来る）ともうまくつながりません。
+【覚えるポイント】
+・encourage ＋人＋to ～：「（人）が～するようにうながす、（人）を～する気にさせる」。
+・keep ～ing：「～し続ける」。keep coming back で「何度も戻ってくる、通い続ける」。

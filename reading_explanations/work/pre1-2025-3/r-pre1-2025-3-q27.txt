@@ -1,0 +1,36 @@
+---
+choices: There is a need for further research into it because researchers have yet to prove that it works in the field. | There is a reluctance to use it because attempts to switch to other kinds of natural crop-protection methods have been unsuccessful. | It is a complicated process, so many factors have to be carefully balanced for it to be used successfully. | It will only work if it is combined with the use of pesticides, so it will fail to make agriculture sustainable in the long term.
+answerText: It is a complicated process, so many factors have to be carefully balanced for it to be used successfully.
+reviewed: yes
+---
+【正解】3 It is a complicated process, so many factors have to be carefully balanced for it to be used successfully.（それは複雑な過程なので、うまく使うためには、多くの要素が注意深く調整されなければならない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What did one biologist say about induced resistance?（ある生物学者は、誘導抵抗性について何と言いましたか。）
+1 There is a need for further research into it because researchers have yet to prove that it works in the field.（研究者たちは、それが畑で効果があることをまだ証明していないので、それについてさらに研究する必要がある。）
+2 There is a reluctance to use it because attempts to switch to other kinds of natural crop-protection methods have been unsuccessful.（ほかの種類の自然な作物の守り方に切りかえる試みがうまくいかなかったので、それを使うことがためらわれている。）
+3 It is a complicated process, so many factors have to be carefully balanced for it to be used successfully.（それは複雑な過程なので、うまく使うためには、多くの要素が注意深く調整されなければならない。）
+4 It will only work if it is combined with the use of pesticides, so it will fail to make agriculture sustainable in the long term.（それは農薬の使用と組み合わせたときにしか効果がないので、長い目で見て農業を持続可能にすることはできないだろう。）
+【考え方】
+まず見るところ：第3段落の According to one biologist, ～ から始まる、生物学者の言葉
+第3段落では、ある生物学者の考えが紹介されています。
+"Induced resistance is the result of a complex network of developmental and environmental pathways in the plant."（「誘導抵抗性は、植物の中の、成長にかかわる経路と環境にかかわる経路が複雑に結びついたネットワークの結果」である）
+complex は「複雑な」、pathway は「経路（体の中で反応が伝わっていく道すじ）」です。
+続けて、彼女はこう述べています。
+She pointed out that using induced resistance effectively was not as simple as introducing a gene for a specific characteristic or using a pesticide with a particular action.（彼女は、誘導抵抗性を効果的に使うことは、特定の性質を生む遺伝子を組み込んだり、特定の作用を持つ農薬を使ったりするほど単純ではないと指摘した）
+She added that many aspects needed to be just right for this method to work, including the growing conditions and agricultural methods used.（彼女はさらに、この方法がうまく働くためには、栽培の条件や用いられる農法など、多くの面がちょうどよい状態になっている必要があると付け加えた）
+本文と選択肢を対にすると、次のようになります。
+本文 a complex network ／ not as simple as ～（複雑なネットワーク／～ほど単純ではない）→ 選択肢 It is a complicated process（それは複雑な過程だ）
+本文 many aspects needed to be just right（多くの面がちょうどよい状態になっている必要がある）→ 選択肢 many factors have to be carefully balanced（多くの要素が注意深く調整されなければならない）
+本文 for this method to work（この方法がうまく働くためには）→ 選択肢 for it to be used successfully（それをうまく使うためには）
+ですから3が正解です。
+この問題の型：言いかえ（needed to be just right → have to be carefully balanced）
+【ほかの選択肢】
+1 生物学者は、誘導抵抗性が複雑で、多くの面がちょうどよくなければならないと述べていますが、畑で効果があることがまだ証明されていないので研究が必要だ、とは言っていません。第2段落の has yet to be determined（まだ明らかになっていない）は、守りが次の世代に受け継がれる遺伝のしくみについての話です。
+2 本文には、誘導抵抗性を使うのがためらわれているという話も、ほかの自然な方法への切りかえが失敗したという話もありません。段落の最後には、ほかの自然な守り方と組み合わせることへの希望が書かれています。
+4 本文の最後には、when combined with other forms of natural crop protection（ほかの種類の自然な作物の守り方と組み合わせれば）、誘導抵抗性は minimize the need for pesticides（農薬の必要を最小限に抑え）、農業を more sustainable（より持続可能）にする助けになりうると書かれています。組み合わせる相手は農薬ではなく、持続可能にできないという内容も本文と合いません。
+【覚えるポイント】
+・not as simple as ～：「～ほど単純ではない」。比べる相手（ここでは遺伝子を組み込むことや農薬を使うこと）が as のあとに書かれています。
+・「ある人物が何と言ったか」を問う設問では、According to ～ や She pointed out ／ She added のように、その人物の言葉を伝える部分をすべて読み、選択肢と比べることが手がかりになります。

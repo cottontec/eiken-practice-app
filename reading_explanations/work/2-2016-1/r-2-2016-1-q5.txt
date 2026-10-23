@@ -1,0 +1,28 @@
+---
+choices: climate | border | habit | welfare
+answerText: welfare
+reviewed: yes
+---
+【正解】4 welfare（福祉、幸福）
+【和訳】
+（英文）
+The politician said that the ［welfare］ of the people was very important, so the government should spend more money on education and social services.
+（訳）
+その政治家は、国民の（福祉、幸福）はとても重要なので、政府は教育や社会福祉事業にもっと多くのお金を使うべきだと言いました。
+（選択肢の意味）
+1 climate：気候
+2 border：国境、境界
+3 habit：習慣、くせ
+4 welfare：福祉、幸福
+【考え方】
+文は the (　) of the people was very important, so the government should spend more money on education and social services（国民の（　）がとても重要なので、政府は教育や社会福祉事業にもっとお金を使うべきだ）という形です。
+so（だから）の前が理由、後ろが結論です。結論は「教育や社会福祉事業にお金を使うべきだ」なので、理由の部分には、教育や社会福祉事業によって守られ、よくなるものが入ると考えます。
+welfare は「福祉、幸福（人々が健康で安心して暮らせること）」という意味の名詞です。the welfare of the people で「国民の福祉、人々の幸せな暮らし」となり、教育や社会福祉事業にお金を使う理由として自然につながります。ですから4が正解です。
+social services は「社会福祉事業（国や自治体が、お年寄りや困っている人の生活を支えるための仕事）」という意味です。
+【ほかの選択肢】
+1 climate は「気候」です。「国民の気候」という言い方はせず、教育や社会福祉事業にお金を使う理由にもなりません。
+2 border は「国境、境界」です。「国民の国境が重要だ」となり、教育や社会福祉事業にお金を使うこととつながりません。
+3 habit は「習慣、くせ」です。「国民の習慣が重要なので、教育や社会福祉事業にお金を使うべきだ」では、理由と結論がうまく結びつきません。
+【覚えるポイント】
+・welfare：「福祉、幸福」。social welfare で「社会福祉」です。
+・A, so B：「Aだから、B」。so の前が理由、後ろが結果・結論です。

@@ -1,0 +1,25 @@
+---
+choices: realistic | mysterious | negative | convenient
+answerText: negative
+reviewed: yes
+---
+【正解】3 negative（悪い、否定的な）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 realistic：現実的な
+2 mysterious：なぞめいた、不思議な
+3 negative：悪い、否定的な
+4 convenient：便利な
+【考え方】
+空所は本文の最後の The TLC is confident that this will finally put an end to the (　) image of the yellow cabs.（TLCは、これによってついにイエローキャブの〜なイメージを終わらせることができると確信している）という文にあります。put an end to ～ は「～を終わらせる」という意味です。
+TLCが終わらせたいと考えるイメージなので、よくないイメージだと考えられます。本文の最初の段落を見返すと、the city's residents do not always have a positive view of the service they provide（市の住民は、そのタクシーが提供するサービスについて、いつもよい印象をもっているわけではない）とあり、客の苦情がとても多かったことも書かれています。positive は「よい、肯定的な」という意味です。
+negative は positive の反対で「悪い、否定的な」という意味です。the negative image of the yellow cabs で「イエローキャブの悪いイメージ」となり、文章の始めの内容と対応します。正解は3です。
+【ほかの選択肢】
+1 realistic は「現実的な」です。TLCが現実的なイメージを終わらせたいと考える理由は本文になく、苦情の多さという流れとも合いません。
+2 mysterious は「なぞめいた、不思議な」です。イエローキャブになぞめいたイメージがあるという話は本文にありません。
+4 convenient は「便利な」です。便利なイメージなら終わらせる必要はなく、TLCが取りしまりをする目的と反対になります。
+【覚えるポイント】
+・put an end to ～：「～を終わらせる」。
+・negative と positive：「悪い、否定的な」と「よい、肯定的な」。対になる語として覚えましょう。

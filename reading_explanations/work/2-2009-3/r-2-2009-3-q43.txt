@@ -1,0 +1,29 @@
+---
+choices: Planting seeds in places where trees had never grown before. | Dropping the seeds of trees over mountain areas from airplanes. | Using airplanes to check how quickly forests were growing. | Studying the types of seeds eaten by animals in forests.
+answerText: Dropping the seeds of trees over mountain areas from airplanes.
+reviewed: yes
+---
+【正解】2 Dropping the seeds of trees over mountain areas from airplanes.（飛行機から山の地域の上に木の種を落とすこと。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：1940年代にアメリカで試されたことは何ですか。
+1 Planting seeds in places where trees had never grown before.（それまで木が一度も育ったことのない場所に種を植えること。）
+2 Dropping the seeds of trees over mountain areas from airplanes.（飛行機から山の地域の上に木の種を落とすこと。）
+3 Using airplanes to check how quickly forests were growing.（森林がどれくらい速く育っているかを調べるために、飛行機を使うこと。）
+4 Studying the types of seeds eaten by animals in forests.（森林で動物に食べられる種の種類を研究すること。）
+【考え方】
+設問の in the 1940s（1940年代に）という時期を手がかりに本文を探します。第3段落に In the 1940s, airplanes were used to spread seeds over mountains in the United States.（1940年代に、アメリカでは山々の上に種をまくために飛行機が使われた）とあります。
+これは、その直前の In fact, this is not a new idea.（実は、これは新しい考えではない）の this、つまり第2段落の最後に出てきた using airplanes to replant the forests（飛行機を使って森林を植え直すこと）を、昔すでに行っていたという話です。
+本文と選択肢は次のように対応しています。
+本文 airplanes were used to spread seeds（種をまくために飛行機が使われた）＝ 選択肢 Dropping the seeds of trees ～ from airplanes（飛行機から木の種を落とすこと）
+本文 over mountains（山々の上に）＝ 選択肢 over mountain areas（山の地域の上に）
+spread は「まく、広げる」という意味です。正解は2です。
+【ほかの選択肢】
+1 1940年代の種まきは山々の上で行われました。それまで木が一度も育ったことのない場所に植えた、という話は本文にありません。
+3 飛行機は種をまくために使われたのであり、森林の育つ速さを調べるために使われたのではないので、誤りです。
+4 種の一部が動物に食べられたことは書かれていますが、それは種まきがうまくいかなかった理由です。動物に食べられる種の種類を研究したという話ではないので、誤りです。
+【覚えるポイント】
+・be used to ＋ 動詞の元の形：「～するために使われる」。be used to ～ing（～に慣れている）とは別の言い方です。
+・spread seeds：「種をまく」。

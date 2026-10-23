@@ -1,0 +1,32 @@
+---
+choices: commission | script | fragment | molecule
+answerText: commission
+reviewed: yes
+---
+【正解】1 commission（歩合、手数料）
+【和訳】
+（英文）
+Roger was eager to sell as many cars as possible because he earned a 20 percent ［commission］ on every sale. He planned to use the extra money to travel around the world.
+（訳）
+ロジャーは、できるだけ多くの車を売りたいと強く思っていた。販売1件ごとに、20パーセントの（歩合）を得ていたからだ。彼は、その余分なお金を使って世界を旅して回るつもりだった。
+（選択肢の意味）
+1 commission：歩合、手数料（売った額に応じてもらえるお金）
+2 script：台本、脚本
+3 fragment：かけら、断片
+4 molecule：分子
+【考え方】
+まず見るところ：空所の前後の earned a 20 percent (　) on every sale と、次の文の the extra money
+空所のある部分は、次のとおりです。
+he earned a 20 percent (　) on every sale（彼は、販売1件ごとに20パーセントの（　）を得ていた）
+earn は「（お金を）かせぐ、得る」、sale は「販売、売れること」です。売るたびに「20パーセントの何か」をかせいでいたのですから、空所には売った額に応じてもらえるお金が入ると考えられます。
+次の文も手がかりになります。
+He planned to use the extra money to travel around the world.（彼は、その余分なお金を使って世界を旅して回るつもりだった）
+the extra money（その余分なお金）は、売るたびにもらえるお金のことです。commission は「歩合、手数料（売った額に応じてもらえるお金）」なので、1が正解です。たくさん売るほど多くもらえるので、できるだけ多く売りたいと思っていた、という流れにも合います。
+この問題の型：因果（歩合がもらえる → できるだけ多く売りたい）
+【ほかの選択肢】
+2 script は「台本、脚本」です。「売るたびに20パーセントの台本を得た」となり、意味が通りません。
+3 fragment は「かけら、断片」です。「売るたびに20パーセントのかけらを得た」となり、次の文の the extra money（その余分なお金）ともつながりません。
+4 molecule は「分子（物質をつくる小さな粒）」です。車の販売やお金の話とは関係がありません。
+【覚えるポイント】
+・commission：「歩合、手数料」。earn a 20 percent commission on every sale で「販売1件ごとに20パーセントの歩合を得る」。
+・空所の前に earn（かせぐ）があり、あとの文に money があるときは、お金に関係する語が入る手がかりになります。

@@ -1,0 +1,30 @@
+---
+choices: pinpoint | suppress | reroute | deceive
+answerText: deceive
+reviewed: yes
+---
+【正解】4 deceive（だます）
+【和訳】
+（英文）
+Mrs. Wilson was angry when her son broke the window, but she was more disappointed that he tried to ［deceive］ her by telling her that someone else had done it.
+（訳）
+ウィルソンさんは、息子が窓を割ったときに腹を立てたが、腹を立てた以上にがっかりしたのは、息子が、ほかのだれかがやったと言って彼女を（だまそう）としたことだった。
+（選択肢の意味）
+1 pinpoint：正確に指し示す、突き止める
+2 suppress：おさえつける、（気持ちなどを）おさえる
+3 reroute：別の道を通らせる
+4 deceive：だます
+【考え方】
+まず見るところ：空所の後ろの by telling her that someone else had done it
+by ～ing は「～することによって」です。空所の後ろに、息子が何をしたのかが書かれています。
+by telling her that someone else had done it（ほかのだれかがそれをやったと彼女に言うことによって）
+it は「窓を割ったこと」を指します。実際には息子が割ったのに、「ほかの人がやった」と言ったのですから、うそをついたことになります。うそによってお母さんにしようとしたことは「だますこと」です。deceive は「だます」なので、4が正解です。
+また、but のあとの more disappointed（腹を立てた以上にがっかりした）からも、怒りよりも強くがっかりさせた行動、つまりうそをついてだまそうとしたことが空所の内容だと分かります。
+この問題の型：語の意味・組み合わせ（deceive ～ by telling …）
+【ほかの選択肢】
+1 pinpoint は「正確に指し示す、突き止める」です。「ほかの人がやったと言うことで、お母さんを突き止めようとした」では意味が通りません。
+2 suppress は「おさえつける」です。「ほかの人がやったと言うことで、お母さんをおさえつけようとした」となり、うそをついたという行動と合いません。
+3 reroute は「別の道を通らせる」です。車や荷物などの道筋を変える語で、「お母さんに別の道を通らせようとした」では意味が通りません。
+【覚えるポイント】
+・deceive：「だます」。by ～ing：「～することによって」。
+・by ～ing のあとに、うそや本当でないことを言う内容があるときは、「だます」のような意味の語が入る手がかりになります。

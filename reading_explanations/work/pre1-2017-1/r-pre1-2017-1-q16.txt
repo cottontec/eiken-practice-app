@@ -1,0 +1,32 @@
+---
+choices: disarray | permanence | friction | precision
+answerText: precision
+reviewed: yes
+---
+【正解】4 precision（正確さ、精密さ）
+【和訳】
+（英文）
+Being a surgeon requires ［precision］. One tiny mistake during surgery can put the patient's life at risk.
+（訳）
+外科医であるには（正確さ）が求められる。手術中のほんの小さなミスひとつが、患者の命を危険にさらすことがある。
+（選択肢の意味）
+1 disarray：混乱、乱雑
+2 permanence：永続性（ずっと変わらずに続くこと）
+3 friction：摩擦、（人どうしの）あつれき
+4 precision：正確さ、精密さ
+【考え方】
+まず見るところ：次の文の One tiny mistake
+空所のある文は次のとおりです。
+Being a surgeon requires ( ).（外科医であるには（　）が求められる）
+surgeon は「外科医（手術をする医者）」、require は「必要とする、求める」です。
+次の文に、その理由が書かれています。
+One tiny mistake during surgery can put the patient's life at risk.（手術中のほんの小さなミスひとつが、患者の命を危険にさらすことがある）
+put ～ at risk は「～を危険にさらす」です。小さなミスも許されないのですから、外科医に求められるのは「ミスをしない正確さ」だと分かります。precision は「正確さ、精密さ」なので、4が正解です。
+この問題の型：因果（小さなミスが命にかかわる→正確さが必要）
+【ほかの選択肢】
+1 disarray は「混乱、乱雑」です。小さなミスが命にかかわるのですから、外科医に混乱が求められることはなく、話が逆になります。
+2 permanence は「永続性（ずっと変わらずに続くこと）」です。次の文はミスの話で、ずっと続くことについては書かれていないので合いません。
+3 friction は「摩擦、あつれき」です。外科医に摩擦が求められるという話は、小さなミスが危険だという次の文とつながりません。
+【覚えるポイント】
+・precision：「正確さ、精密さ」。
+・「～には（　）が必要だ」という文のあとに、失敗したときの危険が書かれていることがあります。その危険を防ぐために必要なもの（ここでは正確さ）を考えると手がかりになります。

@@ -1,0 +1,26 @@
+---
+choices: similar | basic | cheap | liquid
+answerText: similar
+reviewed: yes
+---
+【正解】1 similar（似た）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 similar：似た、同じような
+2 basic：基本的な
+3 cheap：安い
+4 liquid：液体の
+【考え方】
+空所は第3段落の最初の文、Brennan decided to create a (　) surface that could be used in hospitals.（ブレナンは、病院で使うことのできる〜な表面を作ろうと決めた）にあります。surface は「表面」です。
+第2段落では、サメの皮膚には小さなでこぼこの模様があり、そのおかげで小さな生き物や植物がくっつきにくい、と説明されていました。
+空所のすぐあとの文を見ると、Eventually, he created a plastic layer on which patterns like those on shark skin are printed.（最終的に、彼はサメの皮膚にあるような模様が印刷されたプラスチックの層を作った）とあります。patterns like those on shark skin は「サメの皮膚の上の模様のような模様」という意味です。
+つまり、ブレナンが作ろうとしたのは、サメの皮膚に「似た」表面です。similar は「似た」なので、「病院で使える、（サメの皮膚に）似た表面」となり、あとの文とつながります。したがって1が正解です。
+【ほかの選択肢】
+2 basic は「基本的な」です。「基本的な表面」では、サメの皮膚の模様をまねたという次の文の内容とつながりません。
+3 cheap は「安い」です。値段については本文に何も書かれていないので、ここに入れる理由がありません。
+4 liquid は「液体の」です。ブレナンが作ったのは plastic layer（プラスチックの層）なので、液体の表面ではありません。
+【覚えるポイント】
+・similar：「似た」。similar to ～ で「～に似た」。
+・patterns like those on ～：「～の上にあるもののような模様」。those は patterns のくり返しをさけるための語です。

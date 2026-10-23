@@ -1,0 +1,29 @@
+---
+choices: worshiped | perished | haunted | jeered
+answerText: perished
+reviewed: yes
+---
+【正解】2 perished（死んだ、命を落とした）
+【和訳】
+（英文）
+More than 50 million people ［perished］ during World War II. That is more deaths than in any other war in history.
+（訳）
+第二次世界大戦の間に、5,000万人を超える人々が（命を落としました）。それは、歴史上のほかのどの戦争よりも多い死者の数です。
+（選択肢の意味）
+1 worshiped：崇拝した、礼拝した（神などをうやまって拝んだ）
+2 perished：（戦争・事故などで）死んだ、命を落とした
+3 haunted：（幽霊などが）出た、（考えなどが）つきまとった
+4 jeered：やじった、あざけった（ばかにして笑った）
+【考え方】
+まず見るところ：空所のあとの That is more deaths
+空所のあとの文を見ます。
+That is more deaths than in any other war in history.（それは、歴史上のほかのどの戦争よりも多い死者の数だ）
+deaths は「死者、死」です。That（それ）は、前の文の「5,000万人を超える人々が（　）した」という内容を指しています。それが「死者の数」だと言いかえられているので、空所には「死んだ」という意味の語が入ります。perish は die（死ぬ）のかたい言い方なので、2が正解です。
+この問題の型：指示語（That が前の文の内容を指す）、言いかえ（perished → deaths）
+【ほかの選択肢】
+1 worshiped は「礼拝した」です。「5,000万人を超える人々が礼拝した」となり、続く文の「それはほかのどの戦争よりも多い死者の数だ」とつながりません。
+3 haunted は「（幽霊などが）出た」です。「5,000万人を超える人々が出た」という意味にはならず、deaths（死者）ともつながりません。
+4 jeered は「やじった」です。「5,000万人を超える人々がやじった」となり、死者の数の話とつながりません。
+【覚えるポイント】
+・perish：「（戦争・事故などで）死ぬ」。die のかたい言い方です。
+・空所のあとの文が That is ～ のように前の文を受けているときは、That のあとの語（ここでは deaths）が空所の内容の言いかえになっていることが多いので、そこを手がかりにします。

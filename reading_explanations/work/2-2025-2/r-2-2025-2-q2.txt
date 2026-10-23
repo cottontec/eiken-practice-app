@@ -1,0 +1,31 @@
+---
+choices: suffered | reflected | expanded | influenced
+answerText: expanded
+reviewed: yes
+---
+【正解】3 expanded（拡大した、大きくなった）
+【和訳】
+（英文）
+The IT company has greatly ［expanded］ since it opened five years ago. It now has offices in over 30 cities.
+（訳）
+そのIT企業は、5年前に開業してから大きく（拡大して）きました。今では、30を超える都市に事務所があります。
+（選択肢の意味）
+1 suffered：苦しんだ、損害を受けた
+2 reflected：反映した、反射した
+3 expanded：拡大した、大きくなった
+4 influenced：影響を与えた
+【考え方】
+まず見るところ：うしろの文の It now has offices in over 30 cities.
+It now has offices in over 30 cities.（今では、30を超える都市に事務所がある。）
+now（今では）とあるので、開業したころと比べて、会社が今はとても大きくなっていることが分かります。
+The IT company has greatly ( ) since it opened five years ago.（そのIT企業は、5年前に開業して以来、大いに（　）してきた。）
+has ＋過去分詞（動詞の変化した形の1つ）と since ～（～以来）を組み合わせると、「～以来ずっと…してきた」という意味になります。開業してから今までの間に、事務所を30を超える都市に広げたのですから、「拡大する、大きくなる」という意味の expand が合います。
+has greatly expanded で「大きく拡大してきた」となるので、3が正解です。
+この問題の型：語の意味・組み合わせ（うしろの文の具体的な様子から動詞を選ぶ）
+【ほかの選択肢】
+1 suffered は suffer（苦しむ、損害を受ける）の過去分詞です。「開業以来、大いに苦しんできた」では、今は30を超える都市に事務所があるという、会社が成長した話とつながりません。
+2 reflected は reflect（反映する、映す、反射する）の過去分詞です。「開業以来、大いに反映してきた」となり、会社が大きくなった様子を表せません。
+4 influenced は influence（影響を与える）の過去分詞です。influence はふつう、うしろに「何に影響を与えたか」を続けて使いますが、この文にはそれがありません。また、事務所が増えたという話の説明にもなりません。
+【覚えるポイント】
+・expand：「拡大する、広がる、広げる」。名詞は expansion（拡大）です。
+・空所のうしろに now（今では）を使った文があれば、「前と比べてどう変わったか」を考えると、空所の動詞を選ぶ手がかりになります。

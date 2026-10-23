@@ -1,0 +1,29 @@
+---
+choices: make out | tune up | draw up | blow out
+answerText: make out
+reviewed: yes
+---
+【正解】1 make out（〔見えにくいものを〕読み取る、見分ける）
+【和訳】
+（英文）
+The print on the contract was so small that Gus needed a magnifying glass to ［make out］ the words.
+（訳）
+契約書の文字がとても小さかったので、ガスはその言葉を（読み取る）のに虫めがねが必要でした。
+（選択肢の意味）
+1 make out：（見えにくいもの・聞こえにくいものを）なんとか見分ける、読み取る
+2 tune up：（楽器の）音を合わせる、（機械を）調整する
+3 draw up：（書類などを）作成する
+4 blow out：（火を）吹き消す
+【考え方】
+まず見るところ：文の始めの The print on the contract was so small と、a magnifying glass
+この文は so ～ that ...（とても～なので…）の形です。
+The print on the contract was so small that Gus needed a magnifying glass（契約書の文字がとても小さかったので、ガスは虫めがねが必要だった）
+print は「印刷された文字」、contract は「契約書（約束ごとを書いた書類）」、magnifying glass は「虫めがね、拡大鏡」です。文字が小さくて虫めがねが必要だったのは、言葉を「読み取る」ためだと分かります。make out は「（見えにくいものを）なんとか見分ける、読み取る」という意味なので、1が正解です。
+この問題の型：因果（文字がとても小さい → 虫めがねで読み取る）
+【ほかの選択肢】
+2 tune up は「（楽器や機械を）調整する」です。「言葉を調整するために虫めがねが必要だった」となり、意味が通りません。
+3 draw up は「（書類を）作成する」です。文字が小さすぎて虫めがねが必要だったという流れは、すでにある契約書の文字を見るための話なので、「言葉を作成する」とはつながりません。
+4 blow out は「（火を）吹き消す」です。「言葉を吹き消すために虫めがねが必要だった」となり、意味が通りません。
+【覚えるポイント】
+・make out：「（見えにくいもの・聞こえにくいものを）なんとか見分ける、読み取る」。
+・so ～ that ...（とても～なので…）の文では、～の部分（ここでは文字がとても小さい）が原因なので、その原因に合う行動（ここでは虫めがねで読み取る）を考えるのが手がかりになります。

@@ -1,0 +1,21 @@
+---
+choices: should | come | to | have | my party
+answerText: have
+order: 1 4 2 3 5
+reviewed: yes
+---
+【正解】4 have（この問題の2番目）
+【完成文】
+Where were you last night, Ashley? You ( should have come to my party ).
+並べ方：1 should → 4 have → 2 come → 3 to → 5 my party（2番目は4、4番目は3）
+【和訳】
+A：アシュリー、昨夜はどこにいたの？私のパーティーに来るべきだったのに。
+B：ごめんね、スティーブ。妹の世話をしなければならなかったんだ。また今度ね！
+【考え方】
+まず会話の流れを確かめます。Aは Where were you last night?（昨夜はどこにいたの？）とたずねています。Bは Sorry（ごめんね）とあやまり、I had to take care of my little sister.（妹の世話をしなければならなかった）と理由を言っています。ここから、Bは昨夜のAのパーティーに行かなかったと分かります。
+Aは、来なかったBに対して「来ればよかったのに」と言っていると考えられます。過去に実際にはしなかったことについて「～すべきだったのに」と言うときは、should have ＋ 過去分詞 の形を使います。そこで、1 should、4 have を並べ、そのあとに過去分詞を置きます。come は「来る」の元の形ですが、過去分詞も同じ come という形です。
+come のあとに「どこへ」を表す 3 to と 5 my party を続けて、come to my party（私のパーティーに来る）とします。完成文は You should have come to my party.（私のパーティーに来るべきだったのに）で、2番目は4 have です。
+まちがえやすいのは、should have to come my party のように have to（～しなければならない）を作ってしまう並べ方です。これでは「パーティーに来なければならないはずだ」という今や未来の話になり、昨夜のことを言う流れに合いません。また、come のあとに to がないので my party にもつながりません。
+【覚えるポイント】
+・should have ＋ 過去分詞：「～すべきだったのに（実際にはしなかった）」。
+・come to ～：「～に来る」。come の過去分詞は come と同じ形です。

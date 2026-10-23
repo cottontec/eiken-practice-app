@@ -1,0 +1,31 @@
+---
+choices: fusion | coverage | nonsense | retreat
+answerText: coverage
+reviewed: yes
+---
+【正解】2 coverage（報道、取材）
+【和訳】
+（英文）
+Some Olympic athletes complain their sports do not receive any media ［coverage］. However, the large number of events makes reporting on all of them impossible.
+（訳）
+オリンピック選手の中には、自分たちの競技がメディアの（報道）をまったく受けていないと不満を言う人もいます。しかし、競技種目の数が多いので、そのすべてを報道することは不可能です。
+（選択肢の意味）
+1 fusion：融合（2つ以上のものが1つにとけ合うこと）
+2 coverage：（新聞・テレビなどの）報道、取材
+3 nonsense：ばかげたこと、無意味なこと
+4 retreat：退却（後ろへ下がること）、引きこもること
+【考え方】
+まず見るところ：2文目の reporting on all of them impossible
+1文目では、オリンピック選手が何かを受けていないと不満を言っています。空所の前には media（メディア：新聞やテレビなど、情報を伝えるもの）があります。
+do not receive any media (　)（メディアの（　）をまったく受けていない）
+2文目は However（しかし）で始まり、選手たちの不満に対して、そうなる事情を説明しています。
+the large number of events makes reporting on all of them impossible（種目の数が多いので、そのすべてを報道することは不可能だ）
+reporting は「報道すること」です。2文目が「すべては報道できない」と説明しているので、1文目の不満は「自分たちの競技が報道されない」という内容だと分かります。media coverage で「メディアによる報道」という意味になるので、2が正解です。
+この問題の型：言いかえ（media coverage → reporting）
+【ほかの選択肢】
+1 fusion は「融合」です。「メディアの融合をまったく受けていない」となり、2文目の「すべてを報道するのは不可能だ」という説明とつながりません。
+3 nonsense は「ばかげたこと」です。「メディアのばかげたことを受けていない」では意味が通らず、選手の不満にもなりません。
+4 retreat は「退却」です。「メディアの退却を受けていない」となり、意味が通りません。
+【覚えるポイント】
+・media coverage：「メディアによる報道」。receive media coverage で「報道される、取り上げられる」という意味です。
+・空所の文のあとに However（しかし）があるときは、その後ろの文が前の文に答える形になっていることが多いので、後ろの文の語（ここでは reporting）が空所の手がかりになります。

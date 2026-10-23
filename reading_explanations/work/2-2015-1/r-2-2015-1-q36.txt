@@ -1,0 +1,31 @@
+---
+choices: able to be checked out with permission from the staff. | too delicate to be handled by visitors to the library. | being moved to the basement by the staff at the library. | going to be taken to another building to be preserved.
+answerText: being moved to the basement by the staff at the library.
+reviewed: yes
+---
+【正解】3 being moved to the basement by the staff at the library.（図書館の職員によって地下へ移されているところだ。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：図書館の古い本は、
+1 able to be checked out with permission from the staff.（職員の許可があれば借りることができる。）
+2 too delicate to be handled by visitors to the library.（傷みやすすぎて、図書館を訪れる人が扱うことはできない。）
+3 being moved to the basement by the staff at the library.（図書館の職員によって地下へ移されているところだ。）
+4 going to be taken to another building to be preserved.（保存するために、別の建物へ運ばれる予定だ。）
+【考え方】
+the older books（古い本）は、第3段落に出てきます。
+Also, the older books in the library are being moved to a special storage area in the basement of the building to preserve them.（また、図書館の古い本は、保存するために、建物の地下にある特別な保管場所へ移されているところだ）
+The library staff are already moving these delicate items（図書館の職員がすでにこれらの傷みやすい本を移動させている）
+are being moved は「（今）移されているところだ」という意味です。basement は「地下（の階）」、storage area は「保管場所」、preserve は「保存する」です。2文目から、本を移しているのは図書館の職員だと分かります。
+本文と選択肢は次のように対応しています。
+本文 are being moved to a special storage area in the basement ＝ 選択肢 being moved to the basement
+本文 The library staff are already moving these delicate items ＝ 選択肢 by the staff at the library
+正解は3です。
+【ほかの選択肢】
+1 本文には、職員が本を取ってきて、which you can read while you are in the library（図書館の中にいる間に読める）と書かれています。職員の許可があれば借りられるとは書かれておらず、さらに library users may not take rare books out of the library（利用者は珍しい本を図書館の外へ持ち出せない）ともあります。
+2 本文で古い本は delicate items（傷みやすい物）と呼ばれていますが、利用者が扱えないほどだとは書かれていません。職員が取ってきた本を、利用者は図書館の中で読むことができます。too ～ to ... は「～すぎて…できない」という意味で、本文より言い過ぎです。
+4 本文には in the basement of the building（その建物の地下）とあり、図書館と同じ建物の地下に移されています。別の建物へ運ばれるのではありません。「保存するために」という部分だけは本文と同じです。
+【覚えるポイント】
+・be being＋過去分詞：「（今）～されているところだ」。are being moved で「移されているところだ」。
+・basement：「地下（の階）」。

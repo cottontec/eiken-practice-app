@@ -1,0 +1,33 @@
+---
+choices: inconsiderate | fundamental | generic | plentiful
+answerText: inconsiderate
+reviewed: yes
+---
+【正解】1 inconsiderate（思いやりのない）
+【和訳】
+（英文）
+A: Tom, it was really ［inconsiderate］ of you not to offer Stan a ride after the game. He had to walk three kilometers to get home!
+B: Sorry. I thought he would have asked if he wanted a ride.
+（訳）
+A：トム、試合のあとでスタンを車に乗せてあげようと申し出なかったなんて、本当に（思いやりがなかった）ね。彼は家に帰るのに3キロメートル歩かなければならなかったんだよ！
+B：ごめん。乗せてほしいなら、彼のほうから頼んできただろうと思ったんだ。
+（選択肢の意味）
+1 inconsiderate：思いやりのない
+2 fundamental：基本的な、根本的な
+3 generic：一般的な；（商品が）ブランド名のない
+4 plentiful：たくさんある、豊富な
+【考え方】
+まず見るところ：空所の後ろの of you not to offer Stan a ride と、Bの Sorry.
+空所のある文は次のとおりです。
+it was really (　) of you not to offer Stan a ride after the game（試合のあとでスタンを車に乗せてあげようと申し出なかったのは、本当に（　）だった）
+offer ～ a ride は「～に車に乗せてあげようと申し出る」です。not to offer なので、トムは「申し出なかった」のです。it was ～ of you to ... は「…するなんて、あなたは～だ」と、その人の性質や態度を言う形です。
+Aは続けて、He had to walk three kilometers to get home!（彼は家に帰るのに3キロメートル歩かなければならなかった）と言っています。Aはトムを責めていて、Bのトムも Sorry.（ごめん）とあやまっています。
+ですから、空所には相手を責める悪い意味の語が入ります。inconsiderate は「思いやりのない」という意味なので、1が正解です。
+この問題の型：熟語・決まった形（it was ～ of you to ...）
+【ほかの選択肢】
+2 fundamental は「基本的な、根本的な」です。人の態度を表す語ではないので、「申し出なかったのは本当に基本的だった」となり、意味が通りません。
+3 generic は「一般的な」です。これも人の態度を表す語ではなく、トムを責めるAの言葉になりません。
+4 plentiful は「たくさんある」で、物の量を表す語です。トムの行動を責める言葉として意味が通りません。
+【覚えるポイント】
+・inconsiderate：「思いやりのない」。in-（～でない）＋ considerate（思いやりのある）でできた語です。
+・it was ～ of you to ... の形の空所には、その人の性質や態度を表す語が入ることが多く、相手があやまっているかどうかで、よい意味か悪い意味かを見分ける手がかりになります。

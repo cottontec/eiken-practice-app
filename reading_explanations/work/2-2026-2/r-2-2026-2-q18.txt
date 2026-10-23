@@ -1,0 +1,31 @@
+---
+choices: check the current weather | carry extra equipment | take photos of the mountain | arrange accommodation in town
+answerText: check the current weather
+reviewed: yes
+---
+【正解】1 check the current weather（現在の天気を確認する）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 check the current weather（現在の天気を確認する）
+2 carry extra equipment（予備の道具を運ぶ）
+3 take photos of the mountain（山の写真を撮る）
+4 arrange accommodation in town（町で宿泊先を手配する）
+【考え方】
+まず見るところ：第1段落の空所の直後の This can prepare them for sudden changes on the mountain
+空所のある文は次のとおりです。
+It also enabled mountain workers to communicate about navigation and to (18).（それはまた、山で働く人々が、進む道について連絡を取り合ったり、（18）したりすることも可能にした）
+It は、前の文までに書かれた「登山ルートに沿ってインターネットの接続地点が置かれたこと」を指しています。インターネットのおかげで、山で働く人々ができるようになったことが空所に入ります。
+次に、空所の直後の文を見ます。
+This can prepare them for sudden changes on the mountain, ensuring their safety.（このことによって、彼らは山での急な変化に備えることができ、それが彼らの安全を確かなものにする）
+空所の内容は、「山での急な変化に備える」ことにつながるものです。インターネットで今の天気を確かめられれば、天気が急に変わることに備えられると考えられます。
+ですから、1 check the current weather（現在の天気を確認する）が正解です。current は「現在の、今の」という意味です。
+この問題の型：因果（天気を確認する→急な変化に備えられる）／指示語（This ＝道の連絡と天気の確認ができること）
+【ほかの選択肢】
+2 「予備の道具を運ぶ」は、インターネットの接続によってできるようになることではありません。空所の文は、インターネットで「連絡を取り合う」などができるようになったという話なので合いません。
+3 「山の写真を撮る」は、空所の直後の「山での急な変化に備える」「安全を確かなものにする」につながりません。写真を投稿する話は、第2段落の観光客についての説明に出てきます。
+4 「町で宿泊先を手配する」は、山で働く人々が山での急な変化に備えることとは関係がありません。町の宿の話は本文にありません。
+【覚えるポイント】
+・current：「現在の、今の」。check the current weather で「現在の天気を確認する」。
+・空所の直後に This can ～（このことによって～できる）があるときは、This が指す空所の内容が、その結果につながるものになっているかを確かめると手がかりになります。

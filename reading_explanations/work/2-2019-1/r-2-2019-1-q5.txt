@@ -1,0 +1,27 @@
+---
+choices: commute | appeal | behave | qualify
+answerText: commute
+reviewed: yes
+---
+【正解】1 commute（通勤する、通う）
+【和訳】
+（英文）
+Andy's house is far from his office. It takes him more than an hour to ［commute］ to work every morning.
+（訳）
+アンディの家は会社から遠いです。毎朝、仕事に（通う）のに1時間より長くかかります。
+（選択肢の意味）
+1 commute：通勤する、通う
+2 appeal：訴える、気に入られる
+3 behave：ふるまう
+4 qualify：資格を得る
+【考え方】
+最初の文に Andy's house is far from his office.（アンディの家は会社から遠い）とあります。
+空所のある文は It takes him more than an hour to (　) to work every morning. です。It takes ＋人＋時間＋ to ～ は「（人）が～するのに（時間）がかかる」という意味です。つまり「アンディが毎朝、仕事に（　）するのに1時間より長くかかる」となります。more than an hour は「1時間より多く」という意味です。
+家から会社まで遠いので、毎朝の行き来に時間がかかる、という流れです。commute は「（家から職場や学校へ）通う、通勤する」という意味で、commute to work で「仕事に通う」となります。ですから、1が正解です。
+【ほかの選択肢】
+2 appeal は「訴える、（人の）心を引きつける」です。appeal to ～ で「～に訴える、～に気に入られる」となりますが、「仕事に訴えるのに1時間より長くかかる」では意味が通りません。
+3 behave は「ふるまう、行儀よくする」です。「仕事にふるまうのに1時間より長くかかる」となり、家が遠いという話とつながりません。
+4 qualify は「資格を得る」です。「毎朝、仕事の資格を得るのに1時間かかる」となり、意味が通りません。
+【覚えるポイント】
+・commute to ～：「～に通う、通勤（通学）する」。通勤する人は commuter です。
+・It takes ＋人＋時間＋ to ～：「（人）が～するのに（時間）がかかる」。

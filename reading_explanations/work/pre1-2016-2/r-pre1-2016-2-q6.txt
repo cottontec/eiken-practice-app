@@ -1,0 +1,30 @@
+---
+choices: overhaul | compliment | disown | surrender
+answerText: compliment
+reviewed: yes
+---
+【正解】2 compliment（ほめる）
+【和訳】
+（英文）
+The teacher made sure to ［compliment］ her students on a regular basis. Saying nice things about their work seemed to motivate them to try harder.
+（訳）
+その先生は、必ず定期的に生徒たちを（ほめる）ようにしていた。生徒たちの取り組み（課題など）についてよいことを言うと、生徒たちはもっとがんばろうという気持ちになったようだった。
+（選択肢の意味）
+1 overhaul：（機械などを）分解して点検する、全面的に見直す
+2 compliment：ほめる
+3 disown：（自分のものと）認めない、縁を切る
+4 surrender：降参する、引き渡す
+【考え方】
+まず見るところ：後ろの文の Saying nice things about their work
+Saying nice things about their work seemed to motivate them to try harder.（生徒たちの取り組みについてよいことを言うと、生徒たちはもっとがんばろうという気持ちになったようだった）
+Saying nice things は「よいことを言うこと」です。motivate A to do は「Aに～しようという気持ちを起こさせる」という意味です。
+空所のある文は The teacher made sure to ( ) her students on a regular basis.（その先生は、必ず定期的に生徒たちを（　）ようにしていた）です。make sure to ～ は「必ず～するようにする」、on a regular basis は「定期的に」という意味です。
+後ろの文の「よいことを言う」を一語で表すと「ほめる」になります。compliment は「ほめる」なので、2が正解です。
+この問題の型：言いかえ（compliment → Saying nice things）
+【ほかの選択肢】
+1 overhaul は「（機械などを）分解して点検する、全面的に見直す」です。「生徒たちを分解して点検する」となり、人に対する行動として意味が通りません。後ろの文の「よいことを言う」ともつながりません。
+3 disown は「縁を切る、自分のものと認めない」です。生徒と縁を切ることは、よいことを言ってやる気を出させることとは反対です。
+4 surrender は「降参する、引き渡す」です。「生徒たちを引き渡す」となり、後ろの文の内容とつながりません。
+【覚えるポイント】
+・compliment：「ほめる」。名詞で「ほめ言葉」の意味もあります。
+・空所の文の次の文が -ing で始まって具体的な行動（ここでは Saying nice things）を説明しているときは、その行動を一語で表す動詞が答えの手がかりになります。

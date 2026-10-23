@@ -1,0 +1,35 @@
+---
+choices: Mistaken ideas about the effects of an aging workforce lead to companies losing some of their most valuable workers. | A lack of government spending on health care will cause a rise in the number of older people who are unable to work due to poor health. | Because younger workers have to make up for the low productivity of their older colleagues, the chance of innovations occurring is reduced. | Rather than slowing down innovation, an aging workforce may make it more likely to happen.
+answerText: Rather than slowing down innovation, an aging workforce may make it more likely to happen.
+reviewed: yes
+---
+【正解】4 Rather than slowing down innovation, an aging workforce may make it more likely to happen.（働き手の高齢化は、技術革新を遅らせるのではなく、それをより起こりやすくするかもしれない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to the final paragraph, what do some experts believe?（最後の段落によると、一部の専門家はどう考えているか。）
+1 Mistaken ideas about the effects of an aging workforce lead to companies losing some of their most valuable workers.（働き手の高齢化の影響についてのまちがった考えが原因で、会社はいちばん貴重な働き手の何人かを失うことになっている。）
+2 A lack of government spending on health care will cause a rise in the number of older people who are unable to work due to poor health.（政府が医療にお金を使わないことで、健康状態が悪いために働けない高齢者の数が増えるだろう。）
+3 Because younger workers have to make up for the low productivity of their older colleagues, the chance of innovations occurring is reduced.（より若い働き手が、年配の同僚の低い生産性を補わなければならないので、技術革新が起こる可能性が下がる。）
+4 Rather than slowing down innovation, an aging workforce may make it more likely to happen.（働き手の高齢化は、技術革新を遅らせるのではなく、それをより起こりやすくするかもしれない。）
+【考え方】
+まず見るところ：最後の段落の However, some experts believe the opposite to be true.
+最後の段落では、まず一部の人の考えが書かれています。
+It is believed by some that an aging workforce holds back new discoveries（働き手の高齢化は新しい発見をさまたげると考える人もいる）
+hold back は「さまたげる、おさえる」です。そのあとに、専門家の考えが続きます。
+However, some experts believe the opposite to be true.（しかし、その反対が正しいと考える専門家もいる）
+the opposite（その反対）は、「働き手の高齢化は新しい発見をさまたげる」の反対、つまり「高齢化はさまたげにならず、むしろ助けになる」という考えです。段落の最後でも、年配の働き手について次のようにまとめています。
+These factors help to promote innovation（こうした要因は、技術革新を促進するのに役立つ）
+本文と選択肢4を対にすると、次のようになります。
+・本文 the opposite（「さまたげる」の反対）→ 選択肢 Rather than slowing down innovation（技術革新を遅らせるのではなく）
+・本文 help to promote innovation（技術革新を促進するのに役立つ）→ 選択肢 may make it more likely to happen（それをより起こりやすくするかもしれない）
+よって4が正解です。
+この問題の型：対比（高齢化は発見をさまたげる⇔その反対が正しい）
+【ほかの選択肢】
+1 本文に書かれていません。最後の段落には、年配の働き手が経験のおかげで効率がよいことは書かれていますが、まちがった考えのせいで会社が貴重な働き手を失っているという話はありません。
+2 本文に書かれていません。本文では improved health care（医療の向上）によって人々がより高い年齢まで活発でいられると書かれており、政府が医療にお金を使わないことや、働けない高齢者が増えることは書かれていません。
+3 本文と合いません。本文には older workers are more efficient—and therefore more productive—than their younger colleagues（年配の働き手は、より若い同僚よりも効率がよく、したがって生産性が高い）とあり、年配の働き手の生産性が低いという部分が本文と食いちがいます。
+【覚えるポイント】
+・hold back：「さまたげる」。the opposite：「その反対」。promote innovation：「技術革新を促進する」。
+・本文に However, some experts believe the opposite（しかし、その反対だと考える専門家もいる）とあるときは、直前の考えを反対にした内容が、専門家の考えとして選択肢に出てくる手がかりになります。

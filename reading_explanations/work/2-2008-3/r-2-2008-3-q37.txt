@@ -1,0 +1,29 @@
+---
+choices: believe it is not as tall as people once thought. | believe it was built over a period of 4,000 years. | are still unable to explain how it was constructed. | are not sure why the pharaoh Khufu wanted it made.
+answerText: are still unable to explain how it was constructed.
+reviewed: yes
+---
+【正解】3 are still unable to explain how it was constructed.（それがどのように建設されたのかを、まだ説明できていない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：大ピラミッドについての現代の専門家は（　）。
+1 believe it is not as tall as people once thought.（それはかつて人々が思っていたほど高くないと考えている）
+2 believe it was built over a period of 4,000 years.（それは4,000年の期間をかけて建てられたと考えている）
+3 are still unable to explain how it was constructed.（それがどのように建設されたのかを、まだ説明できていない）
+4 are not sure why the pharaoh Khufu wanted it made.（クフ王がなぜそれを作らせたかったのか、はっきり分かっていない）
+【考え方】
+設問の Modern experts（現代の専門家）という言葉を本文で探すと、第1段落の後半に出てきます。
+Although modern experts have learned much about this huge structure, one obvious question has not yet been answered.（現代の専門家はこの巨大な建造物について多くのことを知ったが、だれもが思いつくある疑問にはまだ答えが出ていない）とあります。Although は「～だけれども」、has not yet been answered は「まだ答えられていない」です。
+その疑問は、次の文に How did the ancient Egyptians manage to lift such heavy stones so high in the air?（古代エジプト人は、どのようにしてそれほど重い石をあんなに高いところまで持ち上げることができたのか）と書かれています。つまり、ピラミッドの作り方がまだ分かっていないのです。本文と選択肢は次のように対応しています。
+本文 one obvious question has not yet been answered（ある疑問にまだ答えが出ていない）＝ 選択肢 are still unable to explain（まだ説明できていない）
+本文 How did the ancient Egyptians manage to lift such heavy stones so high（どのようにして重い石を高く持ち上げたのか）＝ 選択肢 how it was constructed（それがどのように建設されたのか）
+正解は3です。
+【ほかの選択肢】
+1 本文には、ピラミッドの高さは146メートルで、4,000年近く世界で最も高い建物だったと書かれています。「思っていたより高くない」と専門家が考えているという話はありません。
+2 本文の4,000年は、ピラミッドが世界で最も高い建物であり続けた期間です。建てるのにかかった期間ではないので、数字の使い方が違います。
+4 ピラミッドがクフ王のために建てられたことは書かれていますが、なぜ王がそれを作らせたかったのかが分からない、という話は本文にありません。
+【覚えるポイント】
+・have not yet been ～ed：「まだ～されていない」。has not yet been answered で「まだ答えられていない」。
+・manage to ～：「なんとか～する、うまく～できる」。

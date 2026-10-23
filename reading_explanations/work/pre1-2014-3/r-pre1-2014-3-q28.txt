@@ -1,0 +1,34 @@
+---
+choices: took too much time | had lasting effects | was attacked by critics | continued in later years
+answerText: had lasting effects
+reviewed: yes
+---
+【正解】2 had lasting effects（長く続く影響を残した）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 took too much time（時間がかかりすぎた）
+2 had lasting effects（長く続く影響を残した）
+3 was attacked by critics（批判する人々に攻撃された）
+4 continued in later years（その後の年月も続いた）
+【考え方】
+まず見るところ：第3段落の空所の文の however と、段落の最後の In these ways, ～
+空所の文は次のとおりです。
+The Brabazon's development, however, ( 28 ).（しかし、ブラバゾンの開発は〇〇）
+however（しかし）があるので、第2段落の「商業的に失敗した」という内容とは反対の、よい面の話が続くと考えられます。
+続く文を見ます。計画の資金の半分近くは試作機のための施設に使われていて、その施設が後で役立ちました。
+Engineers were able to use the large storage building and extra-long runway built for the Brabazon to accommodate more-successful aircraft designs.（技術者たちは、ブラバゾンのために建てられた大きな格納用の建物と特別に長い滑走路を、もっと成功した設計の飛行機を受け入れるために使うことができた）
+さらに、技術についても書かれています。
+Moreover, the technology that had been used in the Brabazon could be applied to any aircraft.（さらに、ブラバゾンに使われていた技術は、どんな飛行機にも応用できた）
+そして段落の最後で、次のようにまとめています。
+In these ways, the Brabazon helped pave the way for the future of Britain's transport aircraft industry.（こうして、ブラバゾンはイギリスの輸送機産業の未来への道を開く手助けをした）
+pave the way for ～ は「～への道を開く」という意味です。ブラバゾンそのものは失敗しても、施設や技術はその後も役立ち続けたのですから、2の「長く続く影響を残した」が合います。lasting は「長く続く」という意味です。よって2が正解です。
+この問題の型：具体例とまとめ（施設と技術の例を In these ways でまとめている）
+【ほかの選択肢】
+1 「時間がかかりすぎた」は、空所のあとの内容と合いません。空所のあとには、施設や技術がほかの飛行機に役立ったというよい面が書かれていて、開発の時間が長すぎたという話はありません。
+3 「批判する人々に攻撃された」も本文にありません。however のあとは、ブラバゾンの開発が将来に役立ったというよい面の話です。
+4 「その後の年月も続いた」は、ブラバゾンの開発そのものが続いたという意味になります。本文では、続いて使われたのは施設と技術で、航空会社はこの設計を受け入れなかったとあり、開発が続いたとは書かれていません。
+【覚えるポイント】
+・lasting effects：「長く続く影響」。pave the way for ～：「～への道を開く」。
+・段落の初めの空所のあとに In these ways（こうして）でまとめる文があるときは、そのまとめの内容が空所の答えにつながる手がかりになります。

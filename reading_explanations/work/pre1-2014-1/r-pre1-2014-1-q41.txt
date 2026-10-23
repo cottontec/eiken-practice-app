@@ -1,0 +1,30 @@
+---
+choices: the elimination of workers' jobs due to automation will be a slow process that governments will be able to reverse. | the degree of economic decline that could occur in the near future has been exaggerated by most economists. | the potential consequences of widespread automation should make economists reconsider their theories. | the unavoidable reduction in workers' wages will ultimately hurt economic growth around the world.
+answerText: the potential consequences of widespread automation should make economists reconsider their theories.
+reviewed: yes
+---
+【正解】3 the potential consequences of widespread automation should make economists reconsider their theories.（広い範囲での自動化がもたらしうる結果を考えて、経済学者は自分たちの理論を考え直すべきだ）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：フォードとハンソンが同じ意見を持っているのは、（　）ということである。
+1 the elimination of workers' jobs due to automation will be a slow process that governments will be able to reverse.（自動化によって労働者の仕事がなくなっていくのはゆっくりとした過程であり、政府はそれを元に戻すことができるだろう）
+2 the degree of economic decline that could occur in the near future has been exaggerated by most economists.（近い将来に起こりうる経済の落ちこみの程度は、ほとんどの経済学者によって大げさに言われてきた）
+3 the potential consequences of widespread automation should make economists reconsider their theories.（広い範囲での自動化がもたらしうる結果を考えて、経済学者は自分たちの理論を考え直すべきだ）
+4 the unavoidable reduction in workers' wages will ultimately hurt economic growth around the world.（避けられない労働者の賃金の低下は、最終的には世界中の経済成長に悪い影響を与えるだろう）
+【考え方】
+二人に共通する意見は、最後の第4段落に書かれています。
+While Hanson's outlook is more optimistic, both insist the transition from a human labor force to an automated one could create widespread social upheaval, and they conclude that standard economic models need reexamination.（ハンソンの見通しのほうが楽観的ではあるが、二人とも、人間の労働力から自動化された労働力への移行は広い範囲に及ぶ社会の大混乱を引き起こしうると強く主張し、標準的な経済モデルは見直す必要があると結論づけている）
+upheaval は「大混乱、激変」、reexamination は「見直し、再検討」という意味です。both（二人とも）や they conclude（彼らは結論づけている）とあるので、ここが二人に共通する意見だと分かります。
+これを選択肢3と対にすると、次のようになります。
+・本文 the transition ... could create widespread social upheaval（移行が社会の大混乱を引き起こしうる）＝ 選択肢 the potential consequences of widespread automation（広い範囲での自動化がもたらしうる結果）
+・本文 standard economic models need reexamination（標準的な経済モデルは見直す必要がある）＝ 選択肢 should make economists reconsider their theories（経済学者に自分たちの理論を考え直させるべきだ）
+よって3が正解です。
+【ほかの選択肢】
+1 本文と食い違っています。フォードは increasingly rapid advances in software（ますます速く進むソフトウェアの進歩）と言い、ハンソンも機械が人間に取って代わる速さを大げさに言っていると評されるほどです。二人とも変化は速いと考えており、「ゆっくりとした過程」ではありません。政府が元に戻せるという話も本文にありません。
+2 本文の内容と向きが逆です。本文で「大げさに言っている」と言われているのは、主流派の経済学者たちから見たフォードやハンソンのほうです。経済学者たちが経済の落ちこみを大げさに言ってきた、という話ではありません。
+4 二人の共通の意見ではありません。賃金が下がって経済成長が損なわれる、というのはフォードの悲観的な見方に近いですが、ハンソンはむしろ、自動化で経済成長率が大きく高まり、人間の知能を必要とする仕事の賃金は上がると考えています。二人の一方の考えにしか当てはまらないので合いません。
+【覚えるポイント】
+・Both A and B ～ / both ...：「AもBも」。「二人が同じ意見なのは」という設問では、both や agree などの語が出てくる場所を探しましょう。
+・reexamination ＝ reconsider（見直し＝考え直す）のように、名詞と動詞の形を変えた言いかえに気づけるようにしましょう。

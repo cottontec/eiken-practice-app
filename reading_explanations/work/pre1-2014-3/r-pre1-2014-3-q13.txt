@@ -1,0 +1,32 @@
+---
+choices: disobedience | eloquence | surveillance | sacrifice
+answerText: disobedience
+reviewed: yes
+---
+【正解】1 disobedience（言うことに従わないこと、規則違反）
+【和訳】
+（英文）
+Giovanni was given a very strict punishment for breaking the school's no-smoking rules. "Such ［disobedience］ is unacceptable," said the principal.
+（訳）
+ジョバンニは、学校の禁煙の規則を破ったことで、とても厳しい罰を受けた。「そのような（規則に従わない行い）は許されません」と校長は言った。
+（選択肢の意味）
+1 disobedience：（言うことや規則に）従わないこと
+2 eloquence：雄弁（話がうまく、人の心を動かすこと）
+3 surveillance：監視（見張ること）
+4 sacrifice：犠牲、ぎせいにすること
+【考え方】
+まず見るところ：1文目の for breaking the school's no-smoking rules と、空所の前の Such
+1文目で、ジョバンニが厳しい罰を受けた理由が書かれています。
+for breaking the school's no-smoking rules（学校の禁煙の規則を破ったことで）
+次に、校長の言葉を見ます。
+"Such (　) is unacceptable,"（「そのような〇〇は許されない」）
+such は「そのような」という意味で、前に出てきた内容を指します。ここで指しているのは、1文目の「規則を破ったこと」です。unacceptable は「受け入れられない、許されない」という意味です。
+disobedience は「（言うことや規則に）従わないこと」という意味です。「規則を破った」ことを「そのような規則に従わない行い」と言いかえていることになります。よって1が正解です。
+この問題の型：指示語（Such ～ が1文目の breaking the rules を指す）
+【ほかの選択肢】
+2 eloquence は「雄弁（話がうまいこと）」で、ふつうはほめる言葉です。規則を破って罰を受けた話を「そのような雄弁」と言うことはできません。
+3 surveillance は「監視」です。見張るのは学校の側の行いなので、ジョバンニが規則を破ったことを指す Such ～ に入れると、話が合いません。
+4 sacrifice は「犠牲」です。規則を破ってたばこを吸うことは、だれかのために何かをぎせいにする行いではないので、意味が通りません。
+【覚えるポイント】
+・disobedience：「従わないこと、不服従」。反対は obedience（従うこと）です。unacceptable：「許されない」。
+・Such (　) の空所は、前の文の出来事をひと言で言いかえた語になることが多いので、前の文で「何をしたか」を確かめるのが手がかりになります。

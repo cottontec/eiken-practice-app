@@ -1,0 +1,23 @@
+---
+choices: picture | think | fine | would be | either
+answerText: either
+order: 2 5 1 4 3
+reviewed: yes
+---
+【正解】5 either（この問題の2番目）
+【完成文】
+I ( think either picture would be fine ). They both look nice.
+並べ方：2 think → 5 either → 1 picture → 4 would be → 3 fine（2番目は5、4番目は4）
+【和訳】
+A：ウェブサイトには、これらの写真のうちどれを使うべきだと思う？
+B：どちらの写真でもいいと思うよ。どちらもすてきに見えるね。
+【考え方】
+空所のあとの They both look nice.（どちらもすてきに見える）が手がかりです。Bは、2枚の写真のどちらもよいと考えていることが分かります。
+まず、空所の前は I なので、動詞の 2 think を置いて I think（～だと思う）とします。think のあとには「主語＋動詞」が続きます。
+主語は「どちらの写真でも」です。either は「（2つのうち）どちらの～でも」という意味で、either picture のように either のあとに名詞の単数形を置きます。そこで 5 either、1 picture の順に並べます。
+動詞の部分は 4 would be ＋ 3 fine で「よいだろう、かまわないだろう」です。
+並びは think → either → picture → would be → fine で、2番目は5 either です。
+まちがえやすいのは、I think picture either would be fine のように picture を either より先に置く並べ方です。either は名詞の前に置くので、この順番にはなりません。
+【覚えるポイント】
+・either ＋ 名詞の単数形：「（2つのうち）どちらの～でも」。
+・They both ～：「それらは両方とも～」。

@@ -1,0 +1,29 @@
+---
+choices: Typing helps students come up with more ideas and organize them better. | Children use a larger variety of words when writing by hand. | Good handwriting has recently become an important skill. | Teachers spend a lot of time preparing for classes that teach typing.
+answerText: Children use a larger variety of words when writing by hand.
+reviewed: yes
+---
+【正解】2 Children use a larger variety of words when writing by hand.（子どもたちは、手で書くときのほうがより多くの種類の言葉を使う。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：次の記述のうち、正しいものはどれですか。
+1 Typing helps students come up with more ideas and organize them better.（キーボードで打つことは、生徒がより多くの考えを思いつき、それらをよりうまくまとめるのに役立つ。）
+2 Children use a larger variety of words when writing by hand.（子どもたちは、手で書くときのほうが、より多くの種類の言葉を使う。）
+3 Good handwriting has recently become an important skill.（上手な手書きの技能は、最近になって大切な技能になった。）
+4 Teachers spend a lot of time preparing for classes that teach typing.（先生たちは、キーボードの打ち方を教える授業の準備に多くの時間をかけている。）
+【考え方】
+本文全体と照らし合わせて、正しいものを探す問題です。選択肢2の「手で書くときに使う言葉の種類」について、第3段落のバージニア・バーニンガーの研究に次のように書かれています。
+Even more importantly, she found that when children wrote by hand, they used a wider range of vocabulary and expressed more complex ideas.（さらに重要なことに、彼女は、子どもたちは手で書いたとき、（キーボードを使うときより）幅広い語彙を使い、より複雑な考えを表現したことを発見した）
+vocabulary は「語彙（使うことばの全体、ことばの種類）」です。a wider range of vocabulary は「より幅広い語彙」、つまり「より多くの種類の言葉」ということです。
+本文と選択肢を対にすると、次のようになります。
+本文 when children wrote by hand, they used a wider range of vocabulary ＝ 選択肢 Children use a larger variety of words when writing by hand
+a wider range of ～（より幅広い～）が a larger variety of ～（より多くの種類の～）に、vocabulary が words に言いかえられています。ですから2が正解です。
+【ほかの選択肢】
+1 本文の内容と合いません。本文では、より複雑な考えを表現したのは手で書いたとき（when children wrote by hand ... expressed more complex ideas）です。キーボードで打つことが考えを増やしたりまとめたりするのに役立つ、とはどこにも書かれていません。
+3 時期が違います。第2段落には In the past, learning good handwriting was considered a necessary part of a good education（昔は、上手な字を書けるようになることは、よい教育に欠かせない一部だと考えられていた）とあります。上手な手書きが大切だと考えられていたのは「昔」で、「最近になって」大切になったのではありません。
+4 先生がキーボードの授業の準備に多くの時間をかけている、という話は本文にありません。本文の時間の話は、学校が手書きを教える時間が（以前より）ずっと少なくなっている、という内容です。
+【覚えるポイント】
+・a wide range of ～ ＝ a large variety of ～：「幅広い～、さまざまな種類の～」。比較級にすると「より幅広い～」になります。
+・「正しいものはどれか」という問題では、選択肢ごとに本文の該当部分を探し、人物・時期・比べる相手が合っているかを確かめます。

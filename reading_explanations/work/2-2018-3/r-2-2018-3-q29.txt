@@ -1,0 +1,29 @@
+---
+choices: It will become cheaper next month. | Customers receive five books each month. | Maze chooses the book of the month randomly. | Mr. Smith can get 10 percent off for the whole year.
+answerText: It will become cheaper next month.
+reviewed: yes
+---
+【正解】1 It will become cheaper next month.（それは来月、（今より）安くなる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：メイズの「今月の本」サービスについて正しいのはどれですか。
+1 It will become cheaper next month.（それは来月、（今より）安くなる。）
+2 Customers receive five books each month.（客は毎月5冊の本を受け取る。）
+3 Maze chooses the book of the month randomly.（メイズは「今月の本」を無作為に（何かをもとにせず、でたらめに）選ぶ。）
+4 Mr. Smith can get 10 percent off for the whole year.（スミスさんは1年間ずっと10パーセント引きを受けられる。）
+【考え方】
+book-of-the-month service（「今月の本」サービス）は第3段落に出てきます。
+Also, from next month, Maze will be lowering the price of our book-of-the-month service to only $10 per month.（また、来月から、メイズは「今月の本」サービスの料金を、わずか月10ドルに値下げする）
+lower は「下げる」という動詞で、lowering the price は「料金を下げること」です。料金が下がるということは、今より安くなるということです。
+本文と選択肢を対にすると、次のようになります。
+本文 from next month ～ lowering the price ＝ 選択肢 will become cheaper next month
+cheaper は cheap（安い）の比較級（「より～」を表す形）で、「今の料金より安く」という意味です。ですから、1が正解です。
+【ほかの選択肢】
+2 本文は you can choose one of five different books（5冊の異なる本の中から1冊を選べる）です。5冊は選ぶ候補の数で、受け取るのは1冊です。
+3 本文では、5冊は recommended based on the books that you like（客の好きな本をもとにおすすめされる）とあり、その中から客が1冊を選びます。客の好みをもとにしているので、メイズが無作為に選ぶのではありません。
+4 本文は get 10 percent off your first month（最初の月が10パーセント引きになる）です。10パーセント引きになるのは最初の1か月だけで、1年間ずっとではありません。
+【覚えるポイント】
+・lower：形容詞では「より低い」ですが、動詞では「下げる」という意味になります。lower the price＝料金を下げる。
+・～ percent off：「～パーセント引き」。

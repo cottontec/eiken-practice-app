@@ -1,0 +1,34 @@
+---
+choices: forceful | merciful | futile | tranquil
+answerText: forceful
+reviewed: yes
+---
+【正解】1 forceful（力強い、説得力のある）
+【和訳】
+（英文）
+The mayor used ［forceful］ language in his speech because he thought it was extremely important that the citizens support his plan for public transportation.
+（訳）
+市長は、市民が自分の公共交通機関の計画を支持することがきわめて重要だと考えたので、演説の中で（力強い）言葉を使った。
+（選択肢の意味）
+1 forceful：力強い、説得力のある
+2 merciful：慈悲深い、情け深い
+3 futile：むだな、効果のない
+4 tranquil：静かな、穏やかな
+【考え方】
+まず見るところ：because のあとの he thought it was extremely important that the citizens support his plan
+最初に、空所のある部分を見ます。
+The mayor used ( ) language in his speech（市長は、演説の中で（　）言葉を使った）
+mayor は「市長」です。空所には、どんな言葉を使ったかを表す形容詞（様子や性質を表す語）が入ります。
+次に、because（～なので）のあとの理由を見ます。
+because he thought it was extremely important that the citizens support his plan for public transportation（市民が自分の公共交通機関の計画を支持することがきわめて重要だと考えたので）
+extremely important は「きわめて重要な」です。市民にどうしても計画を支持してもらいたいので、人の心を強く動かす言葉を使ったと考えられます。
+forceful は「力強い、説得力のある」なので、1が正解です。
+この問題の型：因果（because：支持がきわめて重要 → 力強い言葉を使った）
+【ほかの選択肢】
+2 merciful は「慈悲深い、情け深い」です。相手を許したり思いやったりする様子を表す語で、計画への支持を強く求める理由とはつながりません。
+3 futile は「むだな、効果のない」です。支持がきわめて重要だと考えた市長が、わざと効果のない言葉を使うことになり、理由と合いません。
+4 tranquil は「静かな、穏やかな」です。「きわめて重要だと考えたので、穏やかな言葉を使った」では、理由と結果がうまくつながりません。
+【覚えるポイント】
+・forceful：「力強い、説得力のある」。forceful language で「力強い言葉」。
+・public transportation：「公共交通機関（バスや電車など）」。
+・because ～ で「強く～したい」という理由が書かれているときは、その気持ちの強さに合う語が空所に入ることが多いので、extremely のような程度を表す語が手がかりになります。

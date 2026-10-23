@@ -1,0 +1,22 @@
+---
+choices: that | there | doubt | is | little
+answerText: is
+order: 2 4 5 3 1
+reviewed: yes
+---
+【正解】4 is（この問題の2番目）
+【完成文】
+( There is little doubt that ) the best school in the area is Riverside High School. It has good academic programs, and the sports teams are usually very successful.
+並べ方：2 there → 4 is → 5 little → 3 doubt → 1 that（2番目は4、4番目は3）
+【和訳】
+その地域でいちばんよい学校がリバーサイド高校であることは、ほとんど疑いがありません。勉強の内容が充実していますし、運動部もたいていとても好成績をあげています。
+【考え方】
+まず、空所のあとを見ます。the best school in the area is Riverside High School（その地域でいちばんよい学校はリバーサイド高校だ）と、それだけで1つの文の形になっています。そのあとの文では、その学校のよいところ（勉強の内容がよい、運動部が強い）を挙げています。ですから、空所は「～ということはまちがいない」のように、あとの文の内容を強く認める言葉になると考えられます。
+選択肢に 2 there と 4 is があるので、There is ～（～がある）という形から始めます。
+is のあとには名詞がきます。名詞は 3 doubt（疑い）です。5 little は名詞の前に置いて「ほとんど～ない」という意味を表すので、little doubt（ほとんど疑いがない）とします。a のつかない little は「少しある」ではなく「ほとんどない」という意味になる点に注意しましょう。
+最後に 1 that を置きます。この that は、doubt（疑い）の中身を説明する文をあとに続けるための語です。There is little doubt that ～ で「～ということには、ほとんど疑いがない」となり、あとの the best school ～ につながります。
+まちがえやすいのは There is doubt little that ～ のように、little を doubt のあとに置く並べ方です。little は名詞の前に置くので、little doubt の順になります。
+したがって、2番目は 4 is です。
+【覚えるポイント】
+・There is little doubt that ～：「～ということには、ほとんど疑いがない（～はまずまちがいない）」。
+・little ＋ 名詞：「ほとんど～ない」。a little ＋ 名詞（少しある）とは意味が違います。

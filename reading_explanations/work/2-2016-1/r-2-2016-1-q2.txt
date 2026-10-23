@@ -1,0 +1,28 @@
+---
+choices: field | brand | range | sphere
+answerText: range
+reviewed: yes
+---
+【正解】3 range（範囲、幅）
+【和訳】
+（英文）
+The shop stocked a wide ［range］ of fabrics for dressmaking, from plain cotton to the most expensive silks.
+（訳）
+その店は、ふつうの木綿から最も高価な絹まで、洋服作り用の幅広い（種類の）布地を仕入れてそろえていました。
+（選択肢の意味）
+1 field：分野、畑
+2 brand：銘柄、ブランド
+3 range：範囲、幅
+4 sphere：球、（活動の）領域
+【考え方】
+空所の前後は a wide (　) of fabrics（布地の広い（　））です。
+文の後半の from plain cotton to the most expensive silks（ふつうの木綿から最も高価な絹まで）に注目します。from A to B は「AからBまで」という意味で、安いものから高いものまで、いろいろな布地があったことを表しています。
+range は「範囲、幅」という意味の名詞です。a wide range of ～ で「幅広い種類の～、さまざまな～」という決まった言い方になります。a wide range of fabrics とすると「さまざまな種類の布地」となり、「木綿から絹まで」という後半の内容とぴったり合います。ですから3が正解です。
+stocked は stock（店に商品を仕入れておく、在庫として置く）の過去形です。
+【ほかの選択肢】
+1 field は「分野、畑、競技場」です。a wide field of fabrics では「布地の広い分野（畑）」となり、店にそろえていた布地の種類の多さを表せません。
+2 brand は「銘柄、ブランド（商品の名前）」です。a wide brand という言い方はしません。また、この文は木綿や絹という布地の種類を並べていて、商品の名前の話ではありません。
+4 sphere は「球、（活動や影響の）範囲・領域」です。sphere of influence（勢力範囲）のように使う語で、a wide sphere of fabrics と言って店の品ぞろえの多さを表すことはしません。
+【覚えるポイント】
+・a wide range of ～：「幅広い種類の～、さまざまな～」。
+・from A to B：「AからBまで」。いろいろなものが含まれていることを示す手がかりになります。

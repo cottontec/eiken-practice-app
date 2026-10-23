@@ -1,0 +1,31 @@
+---
+choices: To remind him to renew his golf membership. | To show him how to replace his golf member's card. | To tell him the fees for his golf membership are decreasing. | To answer his questions about how to become a golf member.
+answerText: To remind him to renew his golf membership.
+reviewed: yes
+---
+【正解】1 To remind him to renew his golf membership.（彼にゴルフ会員資格を更新するよう念を押すため。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ジェニー・マイヤーズは、なぜチョウさんにメールを送っているのですか。
+1 To remind him to renew his golf membership.（彼にゴルフ会員資格を更新するよう念を押すため。）
+2 To show him how to replace his golf member's card.（彼にゴルフ会員証の取りかえ方を教えるため。）
+3 To tell him the fees for his golf membership are decreasing.（彼のゴルフ会員資格の料金が下がることを伝えるため。）
+4 To answer his questions about how to become a golf member.（ゴルフ会員になる方法についての彼の質問に答えるため。）
+【考え方】
+メールの目的は、ふつう件名と書き出しに表れます。件名は Golf membership renewal（ゴルフ会員資格の更新）です。renewal は「更新（期限が来たものを続けられるように新しくすること）」という意味です。
+第1段落の書き出しを見ます。
+I'd like to inform you that your golf membership is going to expire at the end of next month.（お客様のゴルフ会員資格が来月末で期限切れになることをお知らせいたします）
+expire は「期限が切れる」という意味です。続けて、10月31日までに更新しないと新規会員の料金（4,500ドル）を払わなければならない、と注意しています。
+さらに第3段落では We hope you will choose to renew your membership.（会員資格を更新していただけることを願っております）と書き、オンラインや郵送での更新のしかたを説明しています。
+これらから、メールの目的は、期限が近いことを知らせて、更新を忘れないように伝えることだと読み取れます。remind ＋人＋ to ～ は「（人）に～するよう念を押す、～することを思い出させる」という意味です。
+本文 your golf membership is going to expire ／ We hope you will choose to renew your membership → 読み取れること：To remind him to renew his golf membership（会員資格を更新するよう念を押すため）
+ですから、1が正解です。
+【ほかの選択肢】
+2 会員証（member's card）の取りかえについては、メールのどこにも書かれていません。メールが説明しているのは「会員資格の更新」のしかたで、カードの取りかえ方ではありません。
+3 料金が下がるという話はありません。現会員の料金は1年に4,000ドルで、更新が遅れると新規会員の4,500ドルを払うことになる、と書かれています。料金が下がるのではなく、期限までに更新しないと高くなるという内容です。
+4 チョウさんが質問をしたという話は本文にありません。また、チョウさんはすでに会員で、メールは「会員になる方法」ではなく「会員資格の更新」について書かれています。
+【覚えるポイント】
+・remind ＋人＋ to ～：「（人）に～するよう念を押す、～することを思い出させる」。
+・expire：「期限が切れる」。renew（更新する）と組み合わせて、会員資格や契約の話によく出てきます。

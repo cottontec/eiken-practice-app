@@ -1,0 +1,31 @@
+---
+choices: robbed | qualified | weighed | disappeared
+answerText: qualified
+reviewed: yes
+---
+【正解】2 qualified（資格を得た）
+【和訳】
+（英文）
+Because Westbrook Junior High School's softball team won the state championship, they have ［qualified］ for next month's national finals.
+（訳）
+ウェストブルック中学校のソフトボール部は州の選手権大会で優勝したので、来月の全国決勝大会への出場（資格を得ました）。
+（選択肢の意味）
+1 robbed：（人から物を）奪った
+2 qualified：資格を得た
+3 weighed：重さを量った、重さが～あった
+4 disappeared：消えた、いなくなった
+【考え方】
+まず見るところ：文の前半の Because ～ won the state championship と、空所のうしろの for next month's national finals
+Because Westbrook Junior High School's softball team won the state championship（ウェストブルック中学校のソフトボール部は州の選手権大会で優勝したので）
+Because ～ は「～なので」と理由を表します。州（アメリカなどの国の中の大きな地域）の大会で優勝したことが理由になって、何かが起きたということです。
+they have ( ) for next month's national finals（彼らは来月の全国決勝大会に（　）した）
+州の大会で優勝したチームは、その上の全国大会に進めるようになると考えられます。qualify for ～ は「～の資格を得る、～に出場する権利を得る」という意味です。
+have qualified for next month's national finals で「来月の全国決勝大会への出場資格を得た」となり、優勝という理由とつながります。ですから2が正解です。
+この問題の型：因果（because のあとの理由と、その結果）
+【ほかの選択肢】
+1 robbed は rob（〔人から物を〕奪う）の過去分詞です。rob はふつう「だれから奪ったか」を後ろに続けますが、この文にはそれがありません。「優勝したので全国決勝大会のために奪った」では意味も通りません。
+3 weighed は weigh（重さを量る、重さが～ある）の過去分詞です。「優勝したので全国決勝大会のために重さを量った」となり、優勝という理由とつながりません。
+4 disappeared は disappear（消える、いなくなる）の過去分詞です。「優勝したので全国決勝大会のためにいなくなった」となり、意味が通りません。
+【覚えるポイント】
+・qualify for ～：「～の資格を得る、～に出場する権利を得る」。
+・空所のうしろに for ～ があるときは、「動詞＋for」で決まった意味になる組み合わせがないかを確かめると、答えを選ぶ手がかりになります。

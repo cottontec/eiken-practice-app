@@ -1,0 +1,22 @@
+---
+choices: rid | some things | get | that | of
+answerText: rid
+order: 3 1 5 2 4
+reviewed: yes
+---
+【正解】1 rid（この問題の2番目）
+【完成文】
+Miranda's apartment is very small, so she decided to ( get rid of some things that ) she no longer uses in order to make more space.
+並べ方：3 get → 1 rid → 5 of → 2 some things → 4 that（2番目は1、4番目は2）
+【和訳】
+ミランダのアパートはとても狭いので、彼女は、もっとスペースを作るために、もう使っていない物をいくつか処分することにしました。
+【考え方】
+まず文の流れを確かめます。アパートが狭いので、in order to make more space（もっとスペースを作るために）何かをすることにした、という内容です。部屋を広く使うには、物を減らすのが自然です。
+空所の前は decided to です。decide to ～ は「～することに決める」で、to のあとには動詞の元の形が来ます。選択肢の中の動詞は 3 get です。get と 1 rid と 5 of を組み合わせると、get rid of ～（～を処分する、取り除く）という決まった言い方になります。そこで 3 get → 1 rid → 5 of と並べます。
+of のあとには、処分する物を表す名詞が来るので、2 some things（いくつかの物）を置きます。
+最後に 4 that です。空所のあとの she no longer uses（彼女がもう使っていない）は、主語と動詞がありますが、uses の後ろに「何を」が欠けています。that をここに置くと、that she no longer uses が前の some things に説明を付け足し、「彼女がもう使っていない物」となります。このように前の名詞に説明を付け足す that を関係代名詞といいます。
+したがって2番目は1 rid です。
+まちがえやすいのは、that を「あの、その」の意味だと考えて get rid of that some things のように並べてしまうことです。that は「あの」の意味では1つの物を指すので複数の things とは合わず、そのあとの she no longer uses もつながらなくなります。
+【覚えるポイント】
+・get rid of ～：「～を処分する、～を取り除く」。
+・名詞 ＋ that ＋ 主語 ＋ 動詞：「（主語）が～する（名詞）」。some things that she no longer uses で「彼女がもう使っていない物」。

@@ -1,0 +1,29 @@
+---
+choices: ministers | butlers | burglars | rangers
+answerText: rangers
+reviewed: yes
+---
+【正解】4 rangers（公園の監視員、レンジャー）
+【和訳】
+（英文）
+National parks in the United States usually employ ［rangers］ whose job is to help visitors and make sure they follow the rules.
+（訳）
+アメリカの国立公園はふつう、訪れる人を手助けし、その人たちが規則を守るように気を配ることを仕事とする（レンジャー）を雇っている。
+（選択肢の意味）
+1 ministers：大臣、牧師
+2 butlers：執事（大きな家で、使用人をまとめて家の仕事を取りしきる人）
+3 burglars：強盗、空き巣（家などに忍びこんで物を盗む人）
+4 rangers：公園の監視員、レンジャー
+【考え方】
+まず見るところ：空所のあとの whose job is to help visitors and make sure they follow the rules
+空所のあとの whose は関係代名詞（前の名詞に説明を付け足す働きをする語）で、「その人たちの仕事は～である」と、空所に入る人がどんな人かを説明しています。
+whose job is to help visitors and make sure they follow the rules（その仕事は、訪れる人を手助けし、彼らが規則を守るように気を配ることである）
+国立公園で、来た人の手助けをしたり、規則を守らせたりする人は、rangers（公園の監視員、レンジャー）です。ですから4が正解です。
+この問題の型：語の意味・組み合わせ（National parks ～ employ rangers）
+【ほかの選択肢】
+1 ministers は「大臣、牧師」です。国立公園で訪れる人の手助けをする仕事の人ではないので、合いません。
+2 butlers は「執事」です。大きな家の中で家の仕事を取りしきる人なので、国立公園の仕事とは合いません。
+3 burglars は「強盗、空き巣」です。公園が雇う人でも、規則を守らせる人でもないので、合いません。
+【覚えるポイント】
+・ranger：「（国立公園などの）監視員、レンジャー」。訪れる人の案内や、自然や規則を守る仕事をする人です。
+・人を表す名詞のあとに whose job is to ～（その仕事は～すること）が続くときは、その仕事の説明が空所の語を決める手がかりになります。

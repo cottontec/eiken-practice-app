@@ -1,0 +1,33 @@
+---
+choices: underdog | overhead | upheaval | oversight
+answerText: oversight
+reviewed: yes
+---
+【正解】4 oversight（見落とし、うっかりミス）
+【和訳】
+（英文）
+A: James, our supplier said they didn't receive a payment this month.
+B: Yes, I know. There was an ［oversight］ by the accounting department. I'll call the supplier and apologize.
+（訳）
+A：ジェームズ、うちの仕入れ先が、今月は支払いを受け取っていないと言っていましたよ。
+B：ええ、知っています。経理部の（見落とし）がありました。仕入れ先に電話して謝っておきます。
+（選択肢の意味）
+1 underdog：勝ち目のない側、弱い立場の人
+2 overhead：（会社の）諸経費、間接費
+3 upheaval：大変動、激変
+4 oversight：見落とし、うっかりミス
+【考え方】
+まず見るところ：Bの最後の I'll call the supplier and apologize.
+I'll call the supplier and apologize.（仕入れ先に電話して謝っておく）
+supplier は「仕入れ先（品物を納めてくれる会社）」、apologize は「謝る」です。謝るということは、こちら側に何かミスがあったと考えられます。
+Aの話では、仕入れ先が今月の支払いを受け取っていないと言っていました。空所のある文は次のとおりです。
+There was an (　) by the accounting department.（経理部による（　）があった）
+accounting department は「経理部（会社のお金の出入りを管理する部署）」です。支払いがされていなかったのは、経理部がうっかり見落としたからだと考えると、謝るという話にもつながります。oversight は「見落とし、うっかりミス」という意味なので、4が正解です。
+この問題の型：推論（支払いが届いていない・謝る→こちらのミス）
+【ほかの選択肢】
+1 underdog は「勝ち目のない側、弱い立場の人」です。「経理部による勝ち目のない側があった」となり、意味が通りません。
+2 overhead は「（会社の）諸経費、間接費（家賃や電気代など、会社を動かすのにかかる費用）」です。お金に関係する語ですが、「経理部による諸経費があった」では支払いが届いていない理由にならず、謝る話ともつながりません。
+3 upheaval は「大変動、激変」です。社会や生活が大きく変わることを表す語で、支払いが1回抜けたという話には大げさすぎて合いません。
+【覚えるポイント】
+・oversight：「見落とし、うっかりミス」。There was an oversight by ～ で「～の見落としがあった」とミスを認める言い方になります。
+・会話で「謝る（apologize）」と言っていれば、その前に自分の側のミスが書かれていることが多いので、ミスを表す語を探す手がかりになります。

@@ -1,0 +1,20 @@
+---
+choices: of | periods | two | consists | it
+answerText: two
+order: 5 4 1 3 2
+reviewed: yes
+---
+【正解】3 two（この問題の4番目）
+【完成文】
+Soccer is a game that is played between two teams of eleven players. ( It consists of two periods ), and each period is 45 minutes long.
+並べ方：5 it → 4 consists → 1 of → 3 two → 2 periods（2番目は4、4番目は3）
+【和訳】
+サッカーは、11人の選手から成る2つのチームの間で行われる競技です。サッカー（の試合）は2つのピリオド（試合時間の区切り）から成り、それぞれのピリオドは45分間です。
+【考え方】
+まず文の骨組みを作ります。主語（「何が」にあたる語）は、前の文の Soccer を指す 5 it です。動詞は 4 consists で、consist of ～（～から成り立つ）の形にするため 1 of を続けます。ここまでで It consists of となり、これが1番目から3番目です。
+4番目と5番目には、of のあとの「何から成り立つか」が入ります。残っているのは 3 two と 2 periods です。英語では、数を表す語は名詞の前に置くので two periods（2つのピリオド）の順になります。
+したがって4番目は3 two です。
+空所のあとの each period is 45 minutes long（それぞれのピリオドは45分間）からも、「ピリオドがいくつかある」ことが分かり、two periods がぴったり合います。periods two のように逆に並べると、英語の正しい語順になりません。
+【覚えるポイント】
+・数 ＋ 名詞の複数形：two periods のように、数は名詞の前に置きます。
+・consist of ～：「～から成り立つ」。

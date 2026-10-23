@@ -1,0 +1,34 @@
+---
+choices: organize their groups in the same way that bonobo groups organize themselves. | tend to be less friendly because there is a strong leader among them. | form a larger group than bonobos to maintain strong connections between individuals. | move from one place to another to find a better living environment.
+answerText: tend to be less friendly because there is a strong leader among them.
+reviewed: yes
+---
+【正解】2 tend to be less friendly because there is a strong leader among them.（チンパンジーは、仲間の中に強いリーダーがいるため、（ボノボより）友好的でない傾向がある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Chimpanzees（チンパンジーは、）
+1 organize their groups in the same way that bonobo groups organize themselves.（ボノボの集団がまとまるのと同じやり方で、自分たちの集団をまとめている）
+2 tend to be less friendly because there is a strong leader among them.（仲間の中に強いリーダーがいるため、（ボノボより）友好的でない傾向がある）
+3 form a larger group than bonobos to maintain strong connections between individuals.（一頭一頭の強いつながりを保つために、ボノボより大きな集団を作る）
+4 move from one place to another to find a better living environment.（よりよい生活環境を見つけるために、ある場所から別の場所へ移動する）
+【考え方】
+まず見るところ：第4段落の However, there is a distinct power structure within a chimpanzee group, ～ と Because of this, they have less reason to be friendly.
+チンパンジーについては、第4段落でボノボと比べながら書かれています。
+However, there is a distinct power structure within a chimpanzee group, and a large, strong male takes on a leadership role.（しかし、チンパンジーの集団の中には、はっきりとした力の上下関係があり、大きくて強いオスがリーダーの役割を担う）
+Because of this, they have less reason to be friendly.（このため、チンパンジーには、友好的にふるまう理由が少ない）
+Because of this（このため）の this は、前の文の「強いオスがリーダーになる、はっきりした力の上下関係があること」を指します。段落の最後にも chimpanzees are more unfriendly（チンパンジーは〔ボノボより〕友好的ではない）とあります。
+本文 a large, strong male takes on a leadership role（大きくて強いオスがリーダーの役割を担う）＝ 選択肢 there is a strong leader among them（仲間の中に強いリーダーがいる）
+本文 Because of this, they have less reason to be friendly（このため、友好的にふるまう理由が少ない）
+→ 読み取れること：チンパンジーは（ボノボより）友好的でないことが多い
+選択肢 tend to be less friendly（〔ボノボより〕友好的でない傾向がある）
+「強いリーダーがいる」ことが原因で「友好的でない」という因果関係も、本文と同じです。ですから2が正解です。
+この問題の型：因果（Because of this：強いリーダー→友好的でない）／指示語（this が指す内容）
+【ほかの選択肢】
+1 本文の内容と合いません。ボノボの集団には no clear leadership（はっきりしたリーダーがいない）のに対し、チンパンジーの集団には distinct power structure（はっきりした力の上下関係）があり、集団のしくみは違います。
+3 チンパンジーがボノボより大きな集団を作る、という話は本文にありません。本文で large groups（大きな集団）で暮らしていると書かれているのは、ボノボのほうです。また、一頭一頭の強いつながりを保つという話もありません。
+4 よりよい生活環境を求めて移動するという話は、本文にありません。
+【覚えるポイント】
+・take on a role：「役割を担う、引き受ける」。less reason to ～ は「～する理由が（比べる相手より）少ない」。
+・2つの動物を比べる文章では、However や while の前後で「どちらの動物の話か」が入れかわることが多いので、選択肢の内容がどちらの動物について書かれていたかを確かめましょう。

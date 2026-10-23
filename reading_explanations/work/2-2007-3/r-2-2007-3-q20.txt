@@ -1,0 +1,24 @@
+---
+choices: leaving | left | leave | had left
+answerText: left
+reviewed: yes
+---
+【正解】2 left（残された）
+【和訳】
+メアリーは仕事が忙しかったので、パーティーに1時間遅れて着きました。彼女が着いたころには、食べる物は何も残っていませんでした。
+（選択肢の意味）
+1 leaving：残している（leaving）
+2 left：残された（left）
+3 leave：残す（leave）
+4 had left：残してしまっていた（had left）
+【考え方】
+メアリーはパーティーに1時間遅れて着きました。By the time she arrived（彼女が着いたころには）、食べ物はもうなくなっていた、という流れです。
+there was nothing (　) to eat の nothing（何もない）を、空所の語が後ろから説明する形になります。leave は「残す」という意味の動詞です。その過去分詞（「～された」という意味を表す形）left を使うと、nothing left で「残されたものが何もない」となります。
+食べ物は人に「残される」側なので、「～された」の意味をもつ left が合います。there was nothing left to eat で「食べる物は何も残っていなかった」という意味になります。正解は2です。
+【ほかの選択肢】
+1 leaving は「残している」という意味の形（現在分詞）です。nothing leaving だと「（何かを）残している物は何もない」となり、食べ物の側が何かを残すという意味になってしまうので合いません。
+3 leave は動詞の元の形（原形）です。there was nothing leave という形はなく、文として成り立ちません。
+4 had left は「残してしまっていた」という形（過去完了）です。この文にはすでに was という動詞があるので、さらに had left を入れると動詞が2つ並んでしまい、文として成り立ちません。
+【覚えるポイント】
+・there is nothing left：「何も残っていない」。left が nothing を後ろから説明しています。
+・by the time ～：「～するころには、～するまでに」。

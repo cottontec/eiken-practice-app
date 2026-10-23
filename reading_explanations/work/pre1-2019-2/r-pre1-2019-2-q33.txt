@@ -1,0 +1,33 @@
+---
+choices: Advertising a character who was based on Vlad III would suggest there was official praise for the acts he committed. | Vlad III's negative image abroad meant that such attractions would likely be unpopular with tourists. | Promoting the Dracula legend would create an image of Vlad III that differed from the one the government wanted to show. | Allowing people to learn more about Vlad III's actions would cause interest in the Dracula legend to decrease.
+answerText: Promoting the Dracula legend would create an image of Vlad III that differed from the one the government wanted to show.
+reviewed: yes
+---
+【正解】3 Promoting the Dracula legend would create an image of Vlad III that differed from the one the government wanted to show.（ドラキュラ伝説を宣伝すると、政府が示したいと思っていたものとは違うヴラド3世のイメージができてしまうから。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What was one reason Romanian officials did not want to support Dracula-themed attractions in the early 1970s?（1970年代初め、ルーマニアの政府当局者がドラキュラをテーマにした観光名所を支援したくなかった理由の1つは何ですか。）
+1 Advertising a character who was based on Vlad III would suggest there was official praise for the acts he committed.（ヴラド3世をもとにした登場人物を宣伝すると、彼がした行いを政府がほめているとほのめかすことになるから。）
+2 Vlad III's negative image abroad meant that such attractions would likely be unpopular with tourists.（外国でのヴラド3世の悪いイメージのために、そのような観光名所は観光客に人気が出ないだろうと考えられたから。）
+3 Promoting the Dracula legend would create an image of Vlad III that differed from the one the government wanted to show.（ドラキュラ伝説を宣伝すると、政府が示したいと思っていたものとは違うヴラド3世のイメージができてしまうから。）
+4 Allowing people to learn more about Vlad III's actions would cause interest in the Dracula legend to decrease.（人々がヴラド3世の行いについてもっと知ることを許すと、ドラキュラ伝説への関心が下がってしまうから。）
+【考え方】
+まず見るところ：第2段落の This went against official history, which promoted Romania's identity ～ by presenting Vlad III as a powerful leader ～
+第2段落によると、1972年の本『In Search of Dracula』が、ドラキュラと、残酷で厳しい法の取りしまりで知られるヴラド3世とを強く結びつけました。続く文は、次のとおりです。
+This went against official history, which promoted Romania's identity as an independent Communist country by presenting Vlad III as a powerful leader who successfully defended his land against outside threats.（これは公式の歴史に反していた。公式の歴史は、ヴラド3世を、外からの脅威から自分の国をうまく守った力強い指導者として示すことで、独立した共産主義国というルーマニアの国としての姿を広めていたのである）
+go against ～ は「～に反する」です。政府はヴラド3世を「国を守った力強い指導者」として見せたかったのに、ドラキュラ伝説は彼を、残酷で厳しいやり方で知られる人物として結びつけてしまいます。そして、段落の最後に Therefore（そのため）とあり、当局者はドラキュラ観光を奨励しないことに決めた、と書かれています。
+本文と選択肢を対にすると、次のようになります。
+本文 This went against official history（これは公式の歴史に反していた）→ 選択肢 differed from the one the government wanted to show（政府が示したいと思っていたものとは違う）
+本文 presenting Vlad III as a powerful leader（ヴラド3世を力強い指導者として示す）→ 選択肢 the one the government wanted to show（政府が示したかったヴラド3世のイメージ）
+ですから3が正解です。
+（なお本文では、トランシルバニアが遅れた恐ろしい場所に見えてしまい、国が伝えたい近代的なイメージと食い違う、というもう1つの理由も挙げられています。設問は one reason〔理由の1つ〕をたずねているので、3で答えになります。）
+この問題の型：言いかえ（went against official history → differed from the one the government wanted to show）
+【ほかの選択肢】
+1 本文には、ドラキュラを宣伝すると政府がヴラド3世の行いをほめているように見える、という話はありません。本文の理由は、ヴラド3世を残酷で厳しい人物と結びつけるイメージが、政府の示したい「国を守った力強い指導者」というイメージに反することです。
+2 本文には、外国でのヴラド3世の悪いイメージのせいで観光名所に人気が出ないだろう、という話はありません。第2段落の最後には in spite of its potential economic benefits（経済的な利益をもたらす可能性があるにもかかわらず）とあり、観光としては利益が見込めると書かれています。
+4 本文には、ヴラド3世の行いを知るとドラキュラ伝説への関心が下がる、という話はありません。第2段落の最初には、ヴラド3世とドラキュラを結びつけた本によって、ドラキュラ観光への関心が高まったと書かれています。
+【覚えるポイント】
+・go against ～：「～に反する」。選択肢では differ from ～（～と違う）と言いかえられています。
+・設問が理由をたずねていて、本文に Therefore（そのため）があるときは、その直前に書かれた内容が理由にあたることが多いので、答えの手がかりになります。

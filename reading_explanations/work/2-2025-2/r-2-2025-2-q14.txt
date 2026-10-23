@@ -1,0 +1,31 @@
+---
+choices: because of | provided that | rather than | even though
+answerText: rather than
+reviewed: yes
+---
+【正解】3 rather than（～ではなく、～よりむしろ）
+【和訳】
+（英文）
+The teacher advised Emma to review her notes ［rather than］ relying only on the textbook. He said it would help her understand the material better and prepare well for the test.
+（訳）
+先生はエマに、教科書だけに頼るのではなく、自分のノートを復習するよう助言しました。そうすることで学習内容をよりよく理解でき、テストにしっかり備えられるだろうと、彼は言いました。
+（選択肢の意味）
+1 because of：～のために、～が原因で
+2 provided that：～という条件で、もし～ならば
+3 rather than：～ではなく、～よりむしろ
+4 even though：～にもかかわらず、～ではあるが
+【考え方】
+まず見るところ：空所の前の review her notes と、うしろの relying only on the textbook
+The teacher advised Emma to review her notes ( ) relying only on the textbook.（先生はエマに、教科書だけに頼る（　）、ノートを復習するよう助言した。）
+空所の前は「ノートを復習すること」、後ろは「教科書だけに頼ること」です。先生がすすめたのは、このうちのどちらなのかを考えます。
+He said it would help her understand the material better and prepare well for the test.（彼は、それが彼女が学習内容をよりよく理解し、テストにしっかり備える助けになるだろうと言った。）
+it（それ）は、先生がすすめた「ノートを復習すること」を指しています。only（～だけ）とあるので、教科書だけに頼るのはよくないと先生は考えていることが分かります。
+「～ではなく、～よりむしろ」という意味の rather than を入れると、「教科書だけに頼るのではなく、ノートを復習する」となります。また、rather than は後ろに relying のような -ing の形を続けることができます。ですから3が正解です。
+この問題の型：対比（ノートを復習する⇔教科書だけに頼る）
+【ほかの選択肢】
+1 because of は「～のために、～が原因で」と理由を表します。「教科書だけに頼ることが原因で、ノートを復習するよう助言した」となり、2つの勉強のしかたを比べる文になりません。
+2 provided that は「～という条件で」です。ふつう後ろに主語と動詞のそろった文を続けるので、relying から始まるこの文には形が合いにくいです。意味の面でも、「教科書だけに頼るという条件で、ノートを復習する」となり、only を使った先生の考えと合いません。
+4 even though は「～にもかかわらず」です。これもふつう後ろに主語と動詞のそろった文を続けるので、relying から始まるこの文には形が合いにくいです。意味の面でも、「教科書だけに頼っているにもかかわらず、ノートを復習する」となり、先生が2つのやり方を比べて助言した内容と合いません。
+【覚えるポイント】
+・A rather than B：「Bではなく A、B よりむしろ A」。A と B に同じような形（ここでは review と relying）を並べることがあります。
+・空所の前と後ろに「2つのやり方」が並んでいるときは、どちらがすすめられているのかを、後ろの説明の文から確かめましょう。

@@ -1,0 +1,24 @@
+---
+choices: intention | suspicion | exception | demonstration
+answerText: intention
+reviewed: yes
+---
+【正解】1 intention（意図、つもり）
+【和訳】
+カオリがダンス教室に通い始めたとき、彼女の意図（つもり）はバレエダンサーになることでしたが、彼女はすぐにタップダンスのほうが好きだと気づきました。
+（選択肢の意味）
+1 intention：意図、つもり
+2 suspicion：疑い
+3 exception：例外
+4 demonstration：実演、デモ
+【考え方】
+空所のある部分は her (　) was to become a ballet dancer（彼女の～はバレエダンサーになることだった）です。「～は…することだった」の「～」に入る語を考えます。
+but のあとには she soon realized that she liked tap dancing more（すぐにタップダンスのほうが好きだと気づいた）とあります。初めは「バレエダンサーになるつもりだった」けれど、あとで気持ちが変わった、という流れだと分かります。
+intention は「意図、つもり（何かをしようと思っている気持ち）」です。her intention was to become a ballet dancer で「彼女はバレエダンサーになるつもりだった」となり、but 以下とも自然につながるので、1が正解です。
+【ほかの選択肢】
+2 suspicion は「疑い」です。「彼女の疑いはバレエダンサーになることだった」となり、意味が通りません。
+3 exception は「例外」です。「彼女の例外はバレエダンサーになることだった」となり、意味が通りません。
+4 demonstration は「実演、デモ」です。「彼女の実演はバレエダンサーになることだった」となり、ダンス教室を始めたときの目標を表すことができません。
+【覚えるポイント】
+・one's intention is to ～：「～の意図は…することだ、…するつもりだ」。
+・realize that ～：「～だと気づく、分かる」。

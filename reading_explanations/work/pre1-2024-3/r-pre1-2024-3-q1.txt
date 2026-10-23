@@ -1,0 +1,30 @@
+---
+choices: needlessly | aggressively | cautiously | helplessly
+answerText: aggressively
+reviewed: yes
+---
+【正解】2 aggressively（積極的に、攻撃的に）
+【和訳】
+（英文）
+Walter's soccer team lost the game because they did not play ［aggressively］ enough. If they had worried less about defense and had tried to score more goals, they probably would have won.
+（訳）
+ウォルターのサッカーチームは、十分に積極的にプレーしなかったので、試合に負けた。もし守備について心配するのをもっと少なくして、もっと多くのゴールを決めようとしていたら、おそらく勝っていただろう。
+（選択肢の意味）
+1 needlessly：不必要に、むだに
+2 aggressively：積極的に、攻撃的に（自分から強く攻めていくように）
+3 cautiously：用心深く、慎重に
+4 helplessly：どうすることもできずに、無力に
+【考え方】
+まず見るところ：あとの文の worried less about defense と tried to score more goals
+空所のある文は「チームは十分に（　）プレーしなかったので負けた」という意味です。どんなプレーが足りなかったのかは、次の文に書かれています。
+If they had worried less about defense and had tried to score more goals, they probably would have won.（もし守備について心配するのをもっと少なくして、もっと多くのゴールを決めようとしていたら、おそらく勝っていただろう）
+If ～ had ～, ... would have ～ は「もし～していたら、…していただろう」と、実際とはちがう場合を考える言い方です。つまり実際のチームは、守備ばかり気にして、ゴールをねらう攻めが足りなかったということです。
+「攻めが足りなかった」を空所のある文に当てはめると「十分に積極的に（攻撃的に）プレーしなかった」となります。ですから、2 aggressively が正解です。
+この問題の型：言いかえ（守備を気にしすぎず、ゴールをねらう ＝ 積極的にプレーする）
+【ほかの選択肢】
+1 needlessly は「不必要に」です。「十分に不必要にプレーしなかったので負けた」となり、意味が通りません。
+3 cautiously は「用心深く、慎重に」です。「十分に慎重にプレーしなかった」とすると、もっと守りを固めるべきだったという意味になります。しかし次の文では、守備を気にするのをもっと少なくすればよかったと言っているので、合いません。
+4 helplessly は「どうすることもできずに」です。「十分にどうすることもできずにプレーしなかった」となり、意味が通りません。
+【覚えるポイント】
+・aggressively：「積極的に、攻撃的に」。スポーツでは、自分から攻めていくプレーを表します。
+・not ～ enough（十分に～ではない）の空所では、あとの文の「もし～していたら」の部分に、足りなかったことが書かれていることが多いです。そこを空所の語と結びつけて考えると、答えを選びやすくなります。

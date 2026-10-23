@@ -1,0 +1,31 @@
+---
+choices: circumstance | sentiment | appliance | submission
+answerText: submission
+reviewed: yes
+---
+【正解】4 submission（提出物、出品作品）
+【和訳】
+（英文）
+Takeshi's ［submission］ to his school's science competition was a robot that picked up trash. When he entered it, he was confident he would win.
+（訳）
+タケシが学校の科学コンテストに（出品したもの）は、ごみを拾うロボットだった。彼はそれを出品したとき、自分が優勝すると自信を持っていた。
+（選択肢の意味）
+1 circumstance：状況、事情
+2 sentiment：感情、気持ち
+3 appliance：（家庭用の）電気器具
+4 submission：提出物、出品作品
+【考え方】
+まず見るところ：空所のあとの to his school's science competition と、後ろの文の When he entered it
+空所のある文は、タケシの（　）は、ごみを拾うロボットだったと言っています。（　）to his school's science competition（学校の科学コンテストへの（　））の形です。
+後ろの文を見ます。
+When he entered it, he was confident he would win.（彼はそれを出品したとき、自分が優勝すると自信を持っていた）
+enter ～ は、ここでは「（コンテストに）～を出品する」という意味です。it はロボットを指しています。つまり、ロボットはタケシがコンテストに出したものです。
+submission は「提出物、出品作品」という意味で、submission to ～ で「～への提出物」となります。よって4が正解です。
+この問題の型：語の意味・組み合わせ（submission to ～ competition）／指示語（it＝ロボット）
+【ほかの選択肢】
+1 circumstance は「状況、事情」です。「コンテストへのタケシの状況はロボットだった」となり、意味が通りません。
+2 sentiment は「感情、気持ち」です。「タケシの感情はロボットだった」となり、意味が通りません。
+3 appliance は「（家庭用の）電気器具」です。ロボットは機械ですが、appliance は冷蔵庫や洗濯機のような家庭の電気製品を指す語です。to his school's science competition（科学コンテストへの）とつながらず、「コンテストに出したもの」という意味になりません。
+【覚えるポイント】
+・submission：「提出物、出品作品」。動詞 submit（提出する）の名詞の形です。
+・後ろの文に entered it（それを出品した）のような動きがあるときは、空所の名詞がその動きの対象を表していることが多いので、it が指すものと空所の語を結びつけると手がかりになります。

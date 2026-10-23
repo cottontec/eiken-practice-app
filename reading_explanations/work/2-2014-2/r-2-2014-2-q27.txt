@@ -1,0 +1,26 @@
+---
+choices: question | shortage | responsibility | solution
+answerText: solution
+reviewed: yes
+---
+【正解】4 solution（解決策）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 question：質問、疑問
+2 shortage：不足
+3 responsibility：責任
+4 solution：解決策
+【考え方】
+空所の文は Now, an Australian company called Shark Attack Mitigation Systems (SAMS) has a (　).（今、SAMSというオーストラリアの会社が（　）を持っている）です。
+空所の前で、どんな問題が述べられているかを確かめます。the number of shark attacks has gone up dramatically（サメに襲われる件数が劇的に増えた）、many people feel worried about their safety（多くの人が自分の安全について不安を感じている）とあります。つまり、「サメの襲撃が増えて、人々が不安に思っている」という問題があります。
+空所のあとの文は They have designed wet suits which may help prevent attacks by sharks.（その会社は、サメの襲撃を防ぐのに役立つかもしれないウェットスーツをデザインした）です。help ～ は「～するのに役立つ」、prevent は「防ぐ」です。サメの襲撃という問題に対して、それを防ぐ方法を考えたことが分かります。
+solution は「解決策（問題を解決する方法）」という意味です。「その会社には解決策がある」として、次の文でその中身（ウェットスーツ）を説明する流れになります。正解は4です。
+【ほかの選択肢】
+1 question は「質問、疑問」です。「その会社は疑問を持っている」とすると、次の文で襲撃を防ぐスーツを作ったと述べていることとつながりません。
+2 shortage は「不足」です。「その会社には不足がある」となり、何が足りないのかも書かれておらず、次の文の内容ともつながりません。
+3 responsibility は「責任」です。「その会社に責任がある」とすると、サメの襲撃が増えたのはその会社のせいだという意味になりかねませんが、本文はそのような話ではありません。
+【覚えるポイント】
+・solution：「解決策」。動詞の solve（解決する）と関係のある語です。
+・help ～（動詞の元の形）：「～するのに役立つ」。help prevent attacks で「襲撃を防ぐのに役立つ」。

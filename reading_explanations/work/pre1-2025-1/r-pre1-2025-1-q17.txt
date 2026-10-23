@@ -1,0 +1,31 @@
+---
+choices: pressed for | put through | forked over | set off
+answerText: set off
+reviewed: yes
+---
+【正解】4 set off（〔警報など〕を鳴らした、作動させた）
+【和訳】
+（英文）
+Three boys were trying to enter the park late at night when they ［set off］ an alarm. They ran away as soon as they heard it.
+（訳）
+3人の少年が夜遅くに公園に入ろうとしていたとき、彼らは警報装置を（鳴らした）。彼らはその音を聞くとすぐに逃げ出した。
+（選択肢の意味）
+1 pressed for：～を強く求めた
+2 put through：（電話を）つないだ、～を（苦しい目に）あわせた
+3 forked over：（お金を）しぶしぶ払った
+4 set off：（警報など）を鳴らした、作動させた（set off の過去形。set は過去形でも形が変わらない）
+【考え方】
+まず見るところ：空所の後ろの an alarm と、後半の文の They ran away as soon as they heard it.
+空所の後ろの an alarm は「警報装置、警報」です。
+後半の文を見ます。
+They ran away as soon as they heard it.（彼らはその音を聞くとすぐに逃げ出した）
+as soon as ～ は「～するとすぐに」です。it は an alarm（警報）を指しています。少年たちは警報が聞こえたので逃げた、ということです。
+聞こえたということは、警報が鳴ったということです。夜の公園に入ろうとしたときに、少年たちが警報を鳴らしてしまったと考えると、話がつながります。set off は「（警報など）を鳴らす、作動させる」なので、4が正解です。
+この問題の型：熟語・決まった形（set off an alarm）／指示語（it ＝ an alarm）
+【ほかの選択肢】
+1 pressed for は「～を強く求めた」です。「少年たちが警報を強く求めた」となり、警報が聞こえてすぐ逃げ出したという後ろの文ともつながりません。
+2 put through は「（電話を）つないだ」です。「警報をつないだ」では意味が通らず、警報が聞こえて逃げたこととも結びつきません。
+3 forked over は「（お金を）しぶしぶ払った」です。お金の話ではないので、合いません。
+【覚えるポイント】
+・set off ～：「（警報など）を鳴らす、作動させる」。
+・空所の後ろの文に heard it（それを聞いた）のように音が聞こえたことが書かれているときは、空所に「音を鳴らす」向きの語が入る手がかりになります。

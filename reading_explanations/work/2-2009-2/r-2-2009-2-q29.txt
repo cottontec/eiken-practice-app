@@ -1,0 +1,26 @@
+---
+choices: counted | described | delayed | reduced
+answerText: reduced
+reviewed: yes
+---
+【正解】4 reduced（～を減らした）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 counted：～を数えた
+2 described：～を説明した、～の特徴を述べた
+3 delayed：～を遅らせた
+4 reduced：～を減らした
+【考え方】
+空所は第3段落の However, hotels and restaurants found that buying one was worth the money because it (　) the number of workers needed.（しかし、ホテルやレストランは、食器洗い機を買うのはお金を出す価値があると気づいた。それが必要な働き手の数を～したからだ）という文にあります。one は「食器洗い機1台」、it はその食器洗い機を指します。be worth the money は「お金を出す価値がある」という意味です。
+前の文には The dishwashers were also expensive to buy.（食器洗い機は買うのにもお金がかかった）とあります。However（しかし）があるので、空所の文では「高くても買うだけの得があった」という内容がくると分かります。その理由が because 以下です。
+食器洗い機が皿を洗ってくれれば、皿洗いをする人をたくさん置いておく必要がなくなります。これは、高い機械を買うだけの得があった理由として自然です。reduce は「～を減らす」という意味なので、it reduced the number of workers needed で「それが必要な働き手の数を減らした」となります。
+次の文も In addition, fewer plates and cups were broken.（さらに、割れる皿やカップも少なくなった）と、もう1つのよい点を In addition（さらに）で付け加えています。正解は4です。
+【ほかの選択肢】
+1 counted は「～を数えた」です。働き手の数を数えるだけでは、お金を出す価値があった理由になりません。
+2 described は「～を説明した」です。機械が働き手の数を説明することはなく、意味が通りません。
+3 delayed は「～を遅らせた」です。「働き手の数を遅らせた」となり、意味が通りません。
+【覚えるポイント】
+・reduce：「～を減らす」。reduce the number of ～ で「～の数を減らす」。
+・be worth the money：「お金を出す価値がある」。

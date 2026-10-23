@@ -1,0 +1,22 @@
+---
+choices: office | from | away | get | the
+answerText: away
+order: 4 3 2 5 1
+reviewed: yes
+---
+【正解】3 away（この問題の2番目）
+【完成文】
+Carol's friends told her that she had been working too hard and that it would be a good idea for her to ( get away from the office ). She decided to take a week off work and go to a hot-spring resort.
+並べ方：4 get → 3 away → 2 from → 5 the → 1 office（2番目は3、4番目は5）
+【和訳】
+キャロルの友人たちは彼女に、ずっと働きすぎているし、会社から離れるのはよい考えだろうと言いました。彼女は1週間仕事を休んで、温泉地に行くことにしました。
+【考え方】
+空所の前は it would be a good idea for her to（彼女にとって～するのはよい考えだろう）です。it ～ for 人 to ... は「人にとって…するのは～だ」という形で、to のあとには動詞の元の形がきます。5つの語のうち動詞は get だけなので、最初に 4 get を置きます。
+次に、残りの away と from を見ます。get away from ～ は「～から離れる、～をのがれる」という決まった言い方です。get のあとに 3 away、2 from と続けます。
+from のあとには「どこから離れるのか」を表す名詞のまとまりがきます。5 the と 1 office で the office（会社、職場）とし、最後に置きます。
+get away from the office で「会社から離れる」となります。後ろの文の「1週間仕事を休んで温泉地へ行くことにした」という内容ともつながります。
+get from the office away のように away をうしろに回すと、get away from という決まった形がくずれてしまうので注意しましょう。
+2番目に away が来るのは、get away from という決まった形では、get のすぐあとに away が続くからです。したがって2番目は3 awayです。
+【覚えるポイント】
+・get away from ～：「～から離れる、～をのがれる」。
+・it would be a good idea for 人 to ～：「人にとって～するのはよい考えだろう」。

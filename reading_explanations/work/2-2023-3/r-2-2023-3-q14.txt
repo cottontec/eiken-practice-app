@@ -1,0 +1,33 @@
+---
+choices: back and forth | touch and go | by and large | give and take
+answerText: by and large
+reviewed: yes
+---
+【正解】3 by and large（全体的に見て、だいたいにおいて）
+【和訳】
+（英文）
+A: How's your new apartment, George?
+B: Well, it's a little far from the station, but ［by and large］, I think it's pretty good. It's a nice size, and my neighbors are very friendly.
+（訳）
+A：新しいアパートはどう、ジョージ？
+B：そうだね、駅から少し遠いけど、（全体的に見て）かなりいいと思うよ。ちょうどいい広さだし、近所の人たちもとても親切なんだ。
+（選択肢の意味）
+1 back and forth：行ったり来たり
+2 touch and go：どうなるか分からない、危うい
+3 by and large：全体的に見て、だいたいにおいて
+4 give and take：譲り合い、持ちつ持たれつ
+【考え方】
+まず見るところ：Bの it's a little far from the station, but と、そのあとの I think it's pretty good
+it's a little far from the station, but (　), I think it's pretty good（駅から少し遠いけど、（　）かなりいいと思う）
+Bはまず、よくない点を1つ挙げています。そのあと but（しかし）で話を切りかえ、「かなりいい」と評価しています。
+It's a nice size, and my neighbors are very friendly.（ちょうどいい広さで、近所の人たちもとても親切だ）
+続けて、よい点を2つ挙げています。つまりBは「よくない点もあるが、いろいろ合わせて考えると、かなりよい」と言っているのです。
+by and large は「全体的に見て、だいたいにおいて」という意味です。これを入れると「駅から少し遠いけれど、全体的に見てかなりいいと思う」となり、話の流れに合います。ですから3が正解です。
+この問題の型：対比（but の前のよくない点⇔あとの全体の評価）
+【ほかの選択肢】
+1 back and forth は「行ったり来たり」です。「駅から少し遠いけど、行ったり来たり、かなりいいと思う」となり、アパートの感想として意味が通りません。
+2 touch and go は「どうなるか分からない、危うい」です。そのあとの「かなりいいと思う」とつながりません。
+4 give and take は「譲り合い、持ちつ持たれつ」です。「譲り合い、かなりいいと思う」となり、アパートの感想として意味が通りません。
+【覚えるポイント】
+・by and large：「全体的に見て、だいたいにおいて」。
+・よくない点＋ but ＋よい評価という流れでは、but のあとに「全体として見ると」のような、まとめの言葉が入ることがあります。

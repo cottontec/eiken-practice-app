@@ -1,0 +1,30 @@
+---
+choices: A judge decided that there was no longer any copyright on the song. | Filmmakers bought the copyright for the song from the company that owned it. | There is evidence that the song was used most frequently in September 2015. | The company that owns it has started to freely share the song with other people.
+answerText: A judge decided that there was no longer any copyright on the song.
+reviewed: yes
+---
+【正解】1 A judge decided that there was no longer any copyright on the song.（裁判官が、その歌にはもう著作権がないと判断した。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：なぜ「ハッピー・バースデー」は、今後（今より）もっと人気が出そうなのですか。
+1 A judge decided that there was no longer any copyright on the song.（裁判官が、その歌にはもう著作権がないと判断した。）
+2 Filmmakers bought the copyright for the song from the company that owned it.（映画製作者たちが、その歌の著作権を、それを持っていた会社から買った。）
+3 There is evidence that the song was used most frequently in September 2015.（その歌が2015年9月に最もよく使われたという証拠がある。）
+4 The company that owns it has started to freely share the song with other people.（その歌を持っている会社が、ほかの人々とその歌を自由に分け合い始めた。）
+【考え方】
+設問の likely to become more popular in the future（今後〔今より〕もっと人気が出そうだ）に当たるのは、第4段落の最後の文です。
+As a result, it will probably become much more common to hear the song in movies or on TV.（その結果、映画やテレビでこの歌を耳にすることは、おそらく〔これまでより〕ずっとよくあることになるだろう）
+As a result（その結果）とあるので、その前の文が理由です。
+In September 2015, the judge in charge of the case agreed with the filmmakers. He said that the copyright for the song was no longer owned by any company and that anyone could use it freely.（2015年9月、この裁判を担当した裁判官は、映画製作者たちの意見を認めた。裁判官は、この歌の著作権はもはやどの会社のものでもなく、だれでも自由に使えると述べた）
+本文と選択肢を対にすると、次のようになります。
+本文 the judge ... said that the copyright for the song was no longer owned by any company and that anyone could use it freely → 選択肢 A judge decided that there was no longer any copyright on the song
+裁判官が「どの会社も著作権を持っておらず、だれでも自由に使える」と述べたことが、選択肢では「もう著作権がないと判断した」とまとめられています。no longer は「もはや～ない」という意味です。
+【ほかの選択肢】
+2 映画製作者たちは、著作権を買ったのではなく、They took the company to court（その会社を訴えた）とあるように、裁判を起こしました。本文と違います。
+3 2015年9月は、裁判官が判断を出した時期です。その月に歌が最もよく使われたという証拠は、本文にありません。
+4 裁判官は、この歌の著作権はもはやどの会社のものでもないと述べています。今その歌を持っている会社はないので、本文と合いません。
+【覚えるポイント】
+・no longer ～：「もはや～ない」。
+・take ～ to court：「～を訴える（裁判に持ちこむ）」。

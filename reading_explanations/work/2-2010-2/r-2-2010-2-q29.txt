@@ -1,0 +1,27 @@
+---
+choices: unofficial | temporary | ordinary | unnecessary
+answerText: unnecessary
+reviewed: yes
+---
+【正解】4 unnecessary（不必要な）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 unofficial：非公式の、正式ではない
+2 temporary：一時的な
+3 ordinary：ふつうの
+4 unnecessary：不必要な、いらない
+【考え方】
+空所は第3段落の In the United States, for example, it is estimated that 2 million barrels of oil are used every day for the production of (　) light.（たとえばアメリカでは、〜光を作るために毎日200万バレルの石油が使われていると推定されている）にあります。
+空所の前後に、大きな手がかりが2つあります。
+1つ目は少し前の文 At present, much of the light we produce is not actually needed.（現在、私たちが作り出す光の多くは、実際には必要とされていない）です。
+2つ目は空所の次の文 Stopping this waste of fuel（この燃料のむだをやめれば）です。this waste（このむだ）は、直前の文で説明された「石油の使い方」を指しています。石油を使うことが「むだ」と呼ばれているのですから、その石油で作っている光は、いらない光だということになります。
+「必要とされていない光」と「燃料のむだ」の両方に合うのは unnecessary（不必要な）です。正解は4です。
+【ほかの選択肢】
+1 unofficial は「非公式の、正式ではない」です。光が正式かどうかという話は本文にありません。また、次の文の「燃料のむだ」とつながりません。
+2 temporary は「一時的な」です。光が一時的かどうかは本文で問題にされていません。「一時的な光を作るための石油」では、なぜそれが「むだ」なのかの説明になりません。
+3 ordinary は「ふつうの」です。「ふつうの光を作るための石油」では、それを「むだ」と呼ぶ理由がなくなり、前の文の「実際には必要とされていない」ともつながりません。
+【覚えるポイント】
+・unnecessary：「不必要な」。necessary（必要な）に un（～でない）がついた語です。
+・this waste of ～：「この～のむだ」。this がどの内容を指すかを前の文で確かめると、空所の手がかりになる。

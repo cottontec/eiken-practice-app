@@ -1,0 +1,29 @@
+---
+choices: couch | sip | glimpse | pinch
+answerText: glimpse
+reviewed: yes
+---
+【正解】3 glimpse（ちらりと見ること）
+【和訳】
+（英文）
+Hundreds of fans waited for hours outside the band's hotel hoping to get even a brief ［glimpse］ of the famous rock stars.
+（訳）
+何百人ものファンが、その有名なロックスターたちをほんの短い間でも（ちらりと見る）ことができればと願って、バンドのホテルの外で何時間も待った。
+（選択肢の意味）
+1 couch：ソファー、長いす
+2 sip：（飲み物の）ひと口
+3 glimpse：ちらりと見ること
+4 pinch：つまむこと、ひとつまみ
+【考え方】
+まず見るところ：空所の前の hoping to get even a brief と、後ろの of the famous rock stars
+ファンたちはホテルの外で何時間も待っていました。何を願って待っていたのかが、後半に書かれています。
+hoping to get even a brief (　) of the famous rock stars（有名なロックスターたちの、ほんの短い〇〇でも得られればと願って）
+even は「～でさえ」、brief は「短い」です。ファンがホテルの外で待つのは、スターの姿を見るためだと考えられます。glimpse は「ちらりと見ること」で、get a glimpse of ～ で「～をちらりと見る」となるので、3が正解です。
+この問題の型：熟語・決まった形（get a glimpse of ～）
+【ほかの選択肢】
+1 couch は「ソファー」です。「ロックスターたちの短いソファー」となり、意味が通りません。
+2 sip は「（飲み物の）ひと口」です。「ロックスターたちのひと口を得る」となり、意味が通りません。
+4 pinch は「つまむこと、ひとつまみ」です。「ロックスターたちのひとつまみを得る」となり、意味が通りません。
+【覚えるポイント】
+・get a glimpse of ～：「～をちらりと見る」。even a brief ～：「ほんの短い～でも」。
+・ファンが何時間も待っている、という場面では、待つ目的（スターの姿を見る）を考えると、空所の名詞を選ぶ手がかりになります。

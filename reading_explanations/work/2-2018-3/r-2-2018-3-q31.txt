@@ -1,0 +1,30 @@
+---
+choices: To add a harder feeling to some types of chocolate. | To improve the taste of the milk used in chocolate. | To reduce the amount of sugar that is necessary. | To prevent the various ingredients from separating.
+answerText: To prevent the various ingredients from separating.
+reviewed: yes
+---
+【正解】4 To prevent the various ingredients from separating.（さまざまな材料が分かれるのを防ぐため。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：昔ながらのチョコレートに余分な脂肪が加えられるのはなぜですか。
+1 To add a harder feeling to some types of chocolate.（いくつかの種類のチョコレートに、より硬い食感を加えるため。）
+2 To improve the taste of the milk used in chocolate.（チョコレートに使われる牛乳の味をよくするため。）
+3 To reduce the amount of sugar that is necessary.（必要な砂糖の量を減らすため。）
+4 To prevent the various ingredients from separating.（さまざまな材料が分かれるのを防ぐため。）
+【考え方】
+設問の extra fat is added（余分な脂肪が加えられる）と同じ言い方が、第2段落にあります。その前後を確かめます。
+The reason that traditional chocolate has so much fat in it is that the fat is needed to keep all the ingredients combined together.（昔ながらのチョコレートにこれほど多くの脂肪が入っている理由は、すべての材料を混ぜ合わせたままにしておくのに脂肪が必要だからだ）
+These ingredients separate easily. Therefore, extra fat is added to keep all these different ingredients together.（これらの材料は簡単に分かれてしまう。そのため、これらのさまざまな材料をまとめておくために、余分な脂肪が加えられる）
+材料は放っておくと分かれてしまうので、それをまとめておくために脂肪を加えているのです。
+本文と選択肢を対にすると、次のようになります。
+本文 to keep all these different ingredients together（さまざまな材料をまとめておくため）＝ 選択肢 To prevent the various ingredients from separating（さまざまな材料が分かれるのを防ぐため）
+prevent A from -ing は「Aが～するのを防ぐ」という意味です。「まとめておく」と「分かれるのを防ぐ」は、同じことを別の言い方で表しています。また、different（さまざまな）は various と言いかえられています。ですから、4が正解です。
+【ほかの選択肢】
+1 第2段落には The fat also creates the smooth feeling of chocolate.（脂肪はまた、チョコレートのなめらかな食感も生み出す）とあります。脂肪が生むのは「なめらかな」食感で、「より硬い」食感ではありません。
+2 fat from milk（牛乳の脂肪）はチョコレートの材料の1つとして出てくるだけです。牛乳の味をよくするために脂肪を加えるとは書かれていません。
+3 砂糖の量を減らすために脂肪を加えるとは、どこにも書かれていません。砂糖は、脂肪とともに体に害になることがある材料として出てくるだけです。
+【覚えるポイント】
+・prevent A from -ing：「Aが～するのを防ぐ」。keep A together（Aをまとめておく）と同じことを表せます。
+・Therefore：「そのため、したがって」。この語のあとに、前の内容から生まれる結果が書かれます。

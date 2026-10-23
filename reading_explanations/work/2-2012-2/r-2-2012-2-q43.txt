@@ -1,0 +1,29 @@
+---
+choices: It absorbs dirt from other objects in certain conditions. | It causes other plastic objects to stick to wet clothes. | It can be made into clothes that can be washed very easily. | It changes color when it comes into contact with dirty clothes.
+answerText: It absorbs dirt from other objects in certain conditions.
+reviewed: yes
+---
+【正解】1 It absorbs dirt from other objects in certain conditions.（ある条件のもとでは、ほかの物から汚れを吸収する。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：スティーブン・バーキンショーは、ナイロンについて何を知りましたか。
+1 It absorbs dirt from other objects in certain conditions.（ある条件のもとでは、ほかの物から汚れを吸収する。）
+2 It causes other plastic objects to stick to wet clothes.（ほかのプラスチックの物を、ぬれた衣服にくっつかせる。）
+3 It can be made into clothes that can be washed very easily.（とても簡単に洗える衣服にすることができる。）
+4 It changes color when it comes into contact with dirty clothes.（汚れた衣服にふれると色が変わる。）
+【考え方】
+バーキンショーについては、第3段落に書かれています。設問の learn（知る、分かる）と似た意味の noticed（気づいた）や found（発見した）を手がかりに読みます。
+3文目に he noticed that many kinds of plastic, especially nylon, attract dirt from other objects（彼は、多くの種類のプラスチック、特にナイロンが、ほかの物から汚れを引きつけることに気づいた）とあります。
+4文目には He found that although the nylon absorbs dirt in warm and wet conditions, the surface of the nylon remains clean.（彼は、ナイロンは温かくてぬれた状態では汚れを吸収するけれども、ナイロンの表面はきれいなままであることを発見した）とあります。absorb は「吸収する、吸い取る」という意味です。本文と選択肢は次のように対応しています。
+本文 attract dirt from other objects（ほかの物から汚れを引きつける）／ absorbs dirt（汚れを吸収する）＝ 選択肢 absorbs dirt from other objects（ほかの物から汚れを吸収する）
+本文 in warm and wet conditions（温かくてぬれた状態で）＝ 選択肢 in certain conditions（ある条件のもとで）
+したがって、1が正解です。
+【ほかの選択肢】
+2 ナイロンがほかのプラスチックを衣服にくっつかせるという話は、本文に書かれていません。
+3 本文で使われているのは nylon でできたビーズで、ナイロンを衣服にするという話はありません。洗いやすい衣服になるとも書かれていません。
+4 バーキンショーが長い間研究していたのは ways to make plastic materials a different color（プラスチック素材を別の色にする方法）です。しかし、ナイロンが汚れた衣服にふれると色が変わる、とは書かれていません。本文の「色」と「汚れ」の話を組み合わせただけの内容です。
+【覚えるポイント】
+・absorb：「吸収する、吸い取る」。
+・in ～ conditions：「～の状態（条件）で」。

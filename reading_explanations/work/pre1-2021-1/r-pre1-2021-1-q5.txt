@@ -1,0 +1,32 @@
+---
+choices: temptation | barricade | phobia | famine
+answerText: phobia
+reviewed: yes
+---
+【正解】3 phobia（恐怖症）
+【和訳】
+（英文）
+Some say the best way to overcome a ［phobia］ is to expose oneself to what one fears. For example, people who are afraid of mice should try holding one.
+（訳）
+（恐怖症）を克服する最もよい方法は、自分が怖がっているものに自分をさらすこと（あえて近づくこと）だと言う人がいます。たとえば、ネズミが怖い人は、ネズミを1匹手に持ってみるべきです。
+（選択肢の意味）
+1 temptation：誘惑（何かをしたくなるように心を引きつけるもの）
+2 barricade：バリケード（通れないようにするための障害物）
+3 phobia：恐怖症（あるものを必要以上に強く怖がること）
+4 famine：飢饉（ききん、食べ物がひどく足りなくなること）
+【考え方】
+まず見るところ：空所のあとの what one fears と、あとの文の people who are afraid of mice
+空所のある文は次のとおりです。
+the best way to overcome a ( ) is to expose oneself to what one fears（（　）を克服する最もよい方法は、自分が怖がっているものに自分をさらすことだ）
+overcome は「克服する、乗り越える」、expose oneself to ～ は「自分を～にさらす（～に近づいて向き合う）」という意味です。怖いものに向き合うことで克服するものなので、空所には「怖がること」に関係する語が入ると考えられます。
+あとの文は次のとおりです。
+For example, people who are afraid of mice should try holding one.（たとえば、ネズミが怖い人は、1匹手に持ってみるべきだ）
+「ネズミが怖い」という具体例が挙げられています。phobia は「恐怖症（あるものを必要以上に強く怖がること）」なので、3が正解です。
+この問題の型：具体例とまとめ（ネズミが怖い→phobia）
+【ほかの選択肢】
+1 temptation は「誘惑」です。「誘惑を克服する最もよい方法は、自分が怖がっているものに自分をさらすことだ」となり、誘惑と「怖がっているもの」が結びつきません。ネズミが怖いという例とも合いません。
+2 barricade は「バリケード（障害物）」です。「バリケードを克服するには、怖いものに近づくのがよい」となり、意味が通りません。
+4 famine は「飢饉」です。食べ物が足りなくなることなので、「怖いものに近づく」方法で乗り越えるものではなく、ネズミの例ともつながりません。
+【覚えるポイント】
+・phobia：「恐怖症」。あるものを必要以上に強く怖がることです。
+・For example（たとえば）のあとの具体例（ここでは afraid of mice）は、前の文の空所に入る語をまとめて言った形のことが多いので、具体例から空所の語を考えると手がかりになります。

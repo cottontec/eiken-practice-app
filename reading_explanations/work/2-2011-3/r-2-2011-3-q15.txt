@@ -1,0 +1,25 @@
+---
+choices: appearance | experience | account | export
+answerText: account
+reviewed: yes
+---
+【正解】3 account（考慮）
+【和訳】
+A：一晩200ドルだって！　ホテルにしては高いみたいだね。
+B：実は、料金に2食がふくまれているということを考えに入れれば、かなり安いんだよ。
+（選択肢の意味）
+1 appearance：外見、出現
+2 experience：経験
+3 account：考慮、勘定、説明
+4 export：輸出
+【考え方】
+Aは「一晩200ドルはホテルにしては高い」と言っています。Bは Actually, it's pretty cheap（実は、かなり安い）と反対の意見を述べ、その理由を if 以下で説明しています。
+if you take into (　) the fact that the price includes two meals の部分を見ます。the fact that ～ は「～という事実」で、その中身は「料金に2食がふくまれている」です。
+take ～ into account で「～を考えに入れる、考慮する」という決まった言い方になります。ここでは「～」に当たる the fact that ～ が長いので、後ろに回されて take into account the fact that ～ の語順になっています。「料金に2食がふくまれていることを考えに入れれば、かなり安い」となり、意味が通るので、3が正解です。
+【ほかの選択肢】
+1 appearance は「外見、出現」です。take into appearance という言い方はなく、意味が通りません。
+2 experience は「経験」です。take into experience という言い方はせず、「2食つきだという事実を経験に取る」となり、意味が通りません。
+4 export は「輸出」です。take into export という言い方はなく、ホテル代の話とも合いません。
+【覚えるポイント】
+・take ～ into account：「～を考えに入れる、考慮する」。「～」が長いときは take into account ～ の語順になります。
+・the fact that ～：「～という事実」。

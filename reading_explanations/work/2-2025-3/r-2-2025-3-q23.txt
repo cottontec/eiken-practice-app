@@ -1,0 +1,30 @@
+---
+choices: On the contrary | Meanwhile | Fortunately | Moreover
+answerText: Moreover
+reviewed: yes
+---
+【正解】4 Moreover（さらに、そのうえ）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 On the contrary（それどころか、反対に）
+2 Meanwhile（その間に、一方で）
+3 Fortunately（幸いにも）
+4 Moreover（さらに、そのうえ）
+【考え方】
+まず見るところ：第3段落の空所の前の if they ignore it, they will not be able to make a correct decision
+つなぎの言葉を選ぶ問題なので、空所の前と後ろの関係を考えます。空所の前の文は次のとおりです。
+While this effect is not always negative, if they ignore it, they will not be able to make a correct decision.（この効果はいつも悪いものだというわけではないが、もしそれを無視すれば、正しい決定をすることはできないだろう）
+空所の後ろの文は次のとおりです。
+(23), when people just choose the familiar options again and again, they will narrow their views.（（23）、人がなじみのある選択肢ばかりを何度もくり返し選んでいると、ものの見方がせまくなってしまうだろう）
+前の文は「この効果を無視すると正しく決められない」というよくない点です。後ろの文も「なじみのあるものばかり選ぶと見方がせまくなる」というよくない点です。
+よくない点をもう1つつけ加えているので、Moreover（さらに、そのうえ）が合い、4が正解です。
+この問題の型：語の意味・組み合わせ（つなぎの言葉：よくない点＋よくない点→Moreover）
+【ほかの選択肢】
+1 On the contrary は「それどころか、反対に」で、前に述べたことを打ち消して反対のことを言うときに使います。前の文も後ろの文も「よくない点」で同じ方向なので、合いません。
+2 Meanwhile は「その間に、一方で」で、同じころに起きている別のことや、別の話題に移るときに使います。後ろの文は、同じ効果について別のよくない点をつけ加えているので、合いません。
+3 Fortunately は「幸いにも」で、よいことを言う前に置きます。後ろの文は「見方がせまくなる」というよくない内容なので、合いません。
+【覚えるポイント】
+・Moreover：「さらに、そのうえ」。前と同じ方向の内容（ここではよくない点）をつけ加えるときに使います。
+・つなぎの言葉の問題では、前の文と後ろの文がそれぞれ「よい内容」か「よくない内容」かを確かめると、Fortunately や On the contrary を外す手がかりになります。

@@ -1,0 +1,30 @@
+---
+choices: directly | severely | frequently | probably
+answerText: frequently
+reviewed: yes
+---
+【正解】3 frequently（ひんぱんに、よく）
+【和訳】
+（英文）
+In order to reduce the number of customer inquiries, Yamakom Inc. has added a page to its website with answers to the questions that customers ask most ［frequently］.
+（訳）
+客からの問い合わせの数を減らすために、ヤマコム社は、客が最も（ひんぱんに）たずねる質問への答えを載せたページを、自社のウェブサイトに加えました。
+（選択肢の意味）
+1 directly：直接に
+2 severely：厳しく、ひどく
+3 frequently：ひんぱんに、よく
+4 probably：たぶん
+【考え方】
+まず見るところ：文の初めの In order to reduce the number of customer inquiries
+In order to reduce the number of customer inquiries（客からの問い合わせの数を減らすために）
+inquiry は「問い合わせ、質問」という意味です。この目的のために、会社は質問への答えを載せたページを加えました。
+では、どんな質問の答えを載せれば、問い合わせが減るでしょうか。多くの客が何度もたずねてくる質問の答えを先に見せておけば、客は問い合わせをしなくてすむと考えられます。
+frequently は「ひんぱんに、よく」という意味で、ask most frequently で「最もひんぱんにたずねる」となります。これを入れると、問い合わせを減らすという目的とつながるので、3が正解です。
+この問題の型：因果（目的 In order to ～ と、そのための工夫）
+【ほかの選択肢】
+1 directly は「直接に」です。「客が最も直接にたずねる質問」となり、たずねる回数の多さを表せません。問い合わせを減らすために答えを載せる質問を選ぶ理由として、つながりません。
+2 severely は「厳しく、ひどく」です。「客が最も厳しくたずねる質問」となり、意味が通りません。
+4 probably は「たぶん」です。話し手の推測を表す語なので、「客が最もたぶんたずねる質問」となり、意味が通りません。
+【覚えるポイント】
+・frequently：「ひんぱんに、よく」。形容詞は frequent（ひんぱんな）です。
+・In order to ～（～するために）で始まる文では、その目的に合う工夫になる語を選ぶと考えると、答えを決めやすくなります。

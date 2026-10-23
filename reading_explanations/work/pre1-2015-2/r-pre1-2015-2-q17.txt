@@ -1,0 +1,30 @@
+---
+choices: compelling | scented | tame | petty
+answerText: compelling
+reviewed: yes
+---
+【正解】1 compelling（説得力のある、思わず納得させられる）
+【和訳】
+（英文）
+The president made a ［compelling］ argument in support of the company's new healthcare plan. He even convinced the union leaders who had previously opposed it.
+（訳）
+社長は、会社の新しい医療保険の制度を支持する、（説得力のある）主張をした。社長は、以前はその制度に反対していた労働組合の指導者たちさえも納得させた。
+（選択肢の意味）
+1 compelling：説得力のある、思わず納得させられる
+2 scented：香りのついた
+3 tame：飼いならされた、おとなしい；迫力のない
+4 petty：ささいな、つまらない
+【考え方】
+まず見るところ：あとの文の He even convinced the union leaders
+空所は argument（主張、議論）の前にあり、社長の主張がどんなものだったかを表す語が入ります。あとの文を見ます。
+He even convinced the union leaders who had previously opposed it.（社長は、以前はその制度に反対していた労働組合の指導者たちさえも納得させた）
+convince は「納得させる」、union は「労働組合（働く人たちが自分たちの権利を守るために作る団体）」です。even（～さえ）とあるので、反対していた人までもが納得したことが強調されています。
+反対していた人まで納得させたのですから、社長の主張はとても説得力があったと分かります。compelling は「説得力のある」なので、1が正解です。
+この問題の型：推論（反対していた人さえ納得した→説得力があった）
+【ほかの選択肢】
+2 scented は「香りのついた」で、せっけんや花などに使う語です。主張について「香りのついた」と言っても意味が通りません。
+3 tame は「おとなしい」や「迫力のない」です。迫力のない主張では、反対していた人たちまで納得させたというあとの文と合いません。
+4 petty は「ささいな、つまらない」です。つまらない主張では、反対していた人たちを納得させた理由になりません。
+【覚えるポイント】
+・a compelling argument：「説得力のある主張」。
+・あとの文に even（～さえ）があるときは、話がいちばん強い例まで進んでいることを表すので、空所の語の程度（どれくらい強いか）を決める手がかりになります。

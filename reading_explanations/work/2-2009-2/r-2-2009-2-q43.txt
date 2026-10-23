@@ -1,0 +1,31 @@
+---
+choices: The electric poles and motels are too useful to be removed. | More people, roads, and stores should be allowed in the park. | "Witness trees" should be cut down after 100 years have passed. | The trees that have grown since the battle are also part of history.
+answerText: The trees that have grown since the battle are also part of history.
+reviewed: yes
+---
+【正解】4 The trees that have grown since the battle are also part of history.（戦いのあとに育った木も、歴史の一部である。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：この事業に反対する人たちの一部は、どう考えていますか。
+1 The electric poles and motels are too useful to be removed.（電柱やモーテルは便利すぎて、取り除くことができない。）
+2 More people, roads, and stores should be allowed in the park.（もっと多くの人や道路、店が公園の中に認められるべきだ。）
+3 "Witness trees" should be cut down after 100 years have passed.（「目撃者の木」は、100年たったら切り倒すべきだ。）
+4 The trees that have grown since the battle are also part of history.（戦いのあとに育った木も、歴史の一部である。）
+【考え方】
+設問の critics は「批判する人、反対する人」という意味です。事業に反対している人たちを本文で探すと、第3段落に出てきます。
+まず、the plan involves cutting down a large number of trees, some of which are more than 100 years old（この計画には多くの木を切り倒すことがふくまれ、その中には樹齢100年を超えるものもある）とあり、Only trees that were actually growing at the time of the battle, known as "witness trees," will be left standing.（戦いの当時に実際に生えていた「目撃者の木」だけが残される）と続きます。つまり、戦いのあとに生えてきた木は切られることになります。
+これについて This has angered environmentalists, who say that the way nature has developed is also part of history.（このことは環境保護を主張する人々を怒らせた。彼らは、自然がどのように育ってきたかも歴史の一部だと言っている）とあります。environmentalists は「環境保護を主張する人々」で、計画に反対している人たちです。
+本文と選択肢は次のように対応しています。
+本文 environmentalists（環境保護を主張する人々）＝ 設問 some critics of the project（事業に反対する人たちの一部）
+本文 the way nature has developed（自然がどのように育ってきたか）＝ 選択肢 The trees that have grown since the battle（戦いのあとに育った木）
+本文 is also part of history ＝ 選択肢 are also part of history（～も歴史の一部だ）
+切り倒されるのは戦いのあとに育った木なので、反対する人たちは「その木々の育ち方も歴史の一部だ」と考えていると分かります。正解は4です。
+【ほかの選択肢】
+1 本文には、電柱やモーテルを取り除くことは obvious（当然と思える）決定だったとあります。反対する人たちが、便利だから残すべきだと言っているわけではありません。
+2 反対する人たちは、きちんと元に戻すには remove all the people, roads, and stores that are there now（今そこにあるすべての人々や道路、店を取り除く）しかないだろう、と指摘しています。これは計画の考え方を批判するために言ったことで、人や道路、店を増やすべきだという意見ではありません。
+3 本文では、「目撃者の木」は切られずに残されます。100年という数字は、切り倒される予定の木の中に樹齢100年を超えるものがあるという話で出てくるもので、「目撃者の木」を100年たったら切り倒すという話ではありません。
+【覚えるポイント】
+・critic：「批判する人、反対する人」。
+・part of history：「歴史の一部」。

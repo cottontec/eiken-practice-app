@@ -1,0 +1,33 @@
+---
+choices: Economic changes made it possible for workers to buy cars, giving them more options regarding their place of work. | A series of strikes hurt business owners, making them realize workers would no longer accept the conditions in company towns. | The government made laws restricting the ability of companies to set overly high prices at company stores. | Changes in public opinion about company towns convinced industrialists to look for new ways to bring workers to isolated areas.
+answerText: Economic changes made it possible for workers to buy cars, giving them more options regarding their place of work.
+reviewed: yes
+---
+【正解】1 Economic changes made it possible for workers to buy cars, giving them more options regarding their place of work.（経済の変化によって、労働者は自動車を買えるようになり、働く場所について（以前より）多くの選択肢を持てるようになった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one reason behind the disappearance of company towns?（企業町がなくなった背景にある理由の1つは何ですか。）
+1 Economic changes made it possible for workers to buy cars, giving them more options regarding their place of work.（経済の変化によって、労働者は自動車を買えるようになり、働く場所について（以前より）多くの選択肢を持てるようになった。）
+2 A series of strikes hurt business owners, making them realize workers would no longer accept the conditions in company towns.（一連のストライキが経営者たちに打撃を与え、労働者がもはや企業町の条件を受け入れないだろうと気づかせた。）
+3 The government made laws restricting the ability of companies to set overly high prices at company stores.（政府が、会社の店で会社が高すぎる値段をつけることを制限する法律を作った。）
+4 Changes in public opinion about company towns convinced industrialists to look for new ways to bring workers to isolated areas.（企業町についての世論の変化によって、実業家たちは、孤立した地域に働き手を連れてくる新しい方法を探そうと考えるようになった。）
+【考え方】
+まず見るところ：第4段落の The towns did not begin to decline until ～ と、Automobiles, in particular, were significant
+企業町が衰えた理由は、第4段落の後半と第5段落に書かれています。
+The towns did not begin to decline until increased prosperity and new credit systems allowed Americans to purchase previously unaffordable items.（企業町が衰え始めたのは、豊かさが増し、新しい信用の制度によって、アメリカ人がそれまで手の届かなかった品物を買えるようになってからだった）
+Automobiles, in particular, were significant as they meant employees were no longer tied to jobs close to their homes.（特に自動車は重要だった。自動車によって、従業員は家の近くの仕事に縛りつけられなくなったからだ）
+not ～ until ... は「…して初めて～する」という意味です。本文と選択肢を対にすると、次のようになります。
+・本文 increased prosperity and new credit systems（豊かさの増加と新しい信用の制度）→ まとめると → 選択肢 Economic changes（経済の変化）
+・本文 allowed Americans to purchase previously unaffordable items ／ Automobiles, in particular（それまで手の届かなかった品物を買えるようにした／特に自動車）→ 自動車も買えるようになった、と読み取れること → 選択肢 made it possible for workers to buy cars（労働者が自動車を買えるようにした）
+・本文 employees were no longer tied to jobs close to their homes（従業員は家の近くの仕事に縛りつけられなくなった）→ 言いかえると → 選択肢 giving them more options regarding their place of work（働く場所について多くの選択肢を与えた）
+ですから1が正解です。
+この問題の型：言いかえ（no longer tied to jobs close to their homes → more options regarding their place of work）
+【ほかの選択肢】
+2 本文では、プルマンのようにストライキが起きた町もありましたが、大多数の企業町では1920年代まで商売がいつもどおり続いたと書かれています。ストライキが企業町がなくなる理由になったとは書かれていません。
+3 会社の店の値段を制限する法律の話は、本文にありません。第5段落の政府の政策（ニューディール）がしたことは、賃金を引き上げ、労働者が自分の家を買いやすくしたことです。
+4 世論の変化によって実業家が新しい方法を探した、という話は本文にありません。第5段落にある「企業町がなくなったことはよい変化だと見なされている」は、今日の評価についての話です。
+【覚えるポイント】
+・be tied to ～：「～に縛りつけられている」。no longer は「もはや～ない」です。
+・not ～ until ...（…して初めて～する）の文は、until のあとに「きっかけ（原因）」が書かれている手がかりになるので、「理由」をたずねる設問ではそこを読みましょう。

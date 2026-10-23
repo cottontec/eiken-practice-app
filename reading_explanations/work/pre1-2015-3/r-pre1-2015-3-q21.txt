@@ -1,0 +1,29 @@
+---
+choices: transactions | annotations | stances | ridges
+answerText: transactions
+reviewed: yes
+---
+【正解】1 transactions（取引、売り買い）
+【和訳】
+（英文）
+The jewelry company's website has become so popular that the number of online ［transactions］ is now higher than that of regular in-store sales.
+（訳）
+その宝石会社のウェブサイトはとても人気になったので、今では、オンラインでの（取引）の数のほうが、ふつうの店での販売の数よりも多い。
+（選択肢の意味）
+1 transactions：取引、売り買い
+2 annotations：注釈（文章につける説明の書きこみ）
+3 stances：立場、姿勢
+4 ridges：尾根（山の頂上が続いているところ）、うね
+【考え方】
+まず見るところ：文の後半の than that of regular in-store sales
+この文は so ～ that ...（とても～なので…）の形です。ウェブサイトがとても人気になった結果が that のあとに書かれています。
+the number of online (　) is now higher than that of regular in-store sales（今では、オンラインでの（　）の数のほうが、ふつうの店での販売の数よりも多い）
+that of ～ の that は、前に出た the number（数）をくり返さないための語で、「～の数」という意味です。つまり、オンラインでの（　）の数と、店での sales（販売）の数を比べています。比べる相手が「販売」なので、空所にも売り買いを表す語が入ります。transaction は「取引、売り買い」なので、1が正解です。
+この問題の型：指示語（that of ～ ＝ the number of ～）
+【ほかの選択肢】
+2 annotations は「注釈（説明の書きこみ）」です。店での販売の数と比べるものとして合いません。
+3 stances は「立場、姿勢」です。「オンラインでの立場の数」となり、販売の数と比べるものとして意味が通りません。
+4 ridges は「尾根、うね」です。ウェブサイトの話とは関係がなく、意味が通りません。
+【覚えるポイント】
+・transaction：「取引、売り買い」。online transactions は「オンラインでの取引」です。
+・比べる文で than that of ～ が出てきたら、that が前の名詞（ここでは the number）を指していることが多いので、比べている2つが同じ種類のものになるように考えましょう。

@@ -1,0 +1,27 @@
+---
+choices: peacefully | voluntarily | consciously | approximately
+answerText: approximately
+reviewed: yes
+---
+【正解】4 approximately（およそ、約）
+【和訳】
+（英文）
+The builder did not give an exact date for when the work on Mary's house would be finished, but he said it would take ［approximately］ three weeks.
+（訳）
+建築業者は、メアリーの家の工事がいつ終わるのかについて正確な日付は言いませんでしたが、（およそ）3週間かかるだろうと言いました。
+（選択肢の意味）
+1 peacefully：平和に、穏やかに
+2 voluntarily：自分から進んで
+3 consciously：意識して、わざと
+4 approximately：およそ、約
+【考え方】
+文の前半 The builder did not give an exact date（建築業者は正確な日付を言わなかった）に注目します。exact は「正確な、ぴったりの」という意味です。
+後半は but（しかし）でつながり、he said it would take (　) three weeks（（　）3週間かかるだろうと言った）と続きます。「正確な日付は言わなかった。しかし～3週間と言った」という流れなので、空所には「正確ではない、だいたいの」という意味の語が入ると考えられます。
+approximately は「およそ、約」という意味で、three weeks（3週間）という数の前に置いて「約3週間」となります。exact（正確な）と反対の内容を but のあとで示す形になり、文がうまくつながるので、4が正解です。
+【ほかの選択肢】
+1 peacefully は「平和に、穏やかに」です。「平和に3週間かかる」となり、工事の期間を表す言い方として意味が通りません。
+2 voluntarily は「自分から進んで、自発的に」です。人の行動について使う語で、「自分から進んで3週間かかる」では意味が通りません。
+3 consciously は「意識して、わざと」です。「わざと3週間かかる」では、正確な日付を言わなかったことと but でつながりません。
+【覚えるポイント】
+・approximately：「およそ、約」。about とほぼ同じ意味で、数や量の前によく置かれます。
+・exact：「正確な」。approximately（だいたい）と反対の意味として覚えておくと便利です。

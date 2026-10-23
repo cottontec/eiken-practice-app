@@ -1,0 +1,24 @@
+---
+choices: probability | consumption | magnificence | frequency
+answerText: consumption
+reviewed: yes
+---
+【正解】2 consumption（消費、消費量）
+【和訳】
+値段が安いので、日本ではアメリカ産の米の（消費量）が着実に増えてきました。
+（選択肢の意味）
+1 probability：見込み、確率
+2 consumption：消費、消費量
+3 magnificence：壮大さ、立派さ
+4 frequency：頻度、回数の多さ
+【考え方】
+文の初めの Because of the low price（値段が安いので）に注目します。
+空所のあとは of American rice has grown steadily in Japan（日本でアメリカ産の米の～が着実に増えてきた）です。grow は「増える、大きくなる」、steadily は「着実に、少しずつ確実に」という意味です。
+値段が安ければ、多くの人が買って食べるようになると考えられます。つまり、増えたのは米を食べる量、使われる量です。consumption は「消費（物を使ったり食べたりすること）、消費量」という意味で、the consumption of American rice で「アメリカ産の米の消費量」となります。したがって2が正解です。
+【ほかの選択肢】
+1 probability は「見込み、確率」です。「アメリカ産の米の確率が増えた」となり、何が起こる確率なのかが分からないので、意味が通りません。
+3 magnificence は「壮大さ、立派さ」です。値段が安いことは、米の立派さが増える理由になりません。
+4 frequency は「頻度、起こる回数の多さ」です。「アメリカ産の米の頻度」では、何をする回数なのかが分からず、意味が通りません。
+【覚えるポイント】
+・consumption：「消費、消費量」。動詞は consume（消費する）。
+・grow steadily：「着実に増える」。

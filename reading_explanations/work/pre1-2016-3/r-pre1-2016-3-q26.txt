@@ -1,0 +1,31 @@
+---
+choices: boosted species diversity in | had only a slight effect on | led scientists to stop studying | kept people away from
+answerText: boosted species diversity in
+reviewed: yes
+---
+【正解】1 boosted species diversity in（～の種の多様性を高めた）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 boosted species diversity in（～の種の多様性を高めた）
+2 had only a slight effect on（～にわずかな影響しか与えなかった）
+3 led scientists to stop studying（科学者たちに～の研究をやめさせた）
+4 kept people away from（人々を～から遠ざけた）
+【考え方】
+まず見るところ：第1段落の空所の直前の beavers create habitats for numerous other animals
+空所のある文は次のとおりです。
+Not surprisingly, then, reintroducing them has ( 26 ) the area.（それならば、驚くことではないが、それらを再導入したことは、その地域（　）した）
+them は beavers（ビーバー）を指します。Not surprisingly は「驚くことではないが、当然のことながら」、then は「それならば」という意味です。つまり、空所には直前の文から「当然そうなる」と考えられる結果が入ります。
+直前の文は次のとおりです。
+By cutting down trees and building dams on streams, beavers create habitats for numerous other animals.（ビーバーは木を切り倒し、小川にダムを作ることで、ほかの数多くの動物のすみかを作り出す）
+habitat は「すみか、生息地」、numerous は「数多くの」という意味です。ビーバーがいると、ほかの多くの動物のすみかができます。すみかが増えれば、いろいろな種類の動物がその地域で暮らせるようになると考えられます。
+boost は「高める、増やす」、species diversity は「種の多様性（いろいろな種類の生き物がいること）」です。「ビーバーの再導入はその地域の種の多様性を高めた」となり、直前の文から当然考えられる結果になるので、1が正解です。
+この問題の型：因果（ほかの動物のすみかを作る→種の多様性が高まる）
+【ほかの選択肢】
+2 「その地域にわずかな影響しか与えなかった」は、直前の文と合いません。ビーバーは数多くの動物のすみかを作り出すと書かれているので、影響が小さかったとすると、Not surprisingly（当然のことながら）とつながりません。
+3 「科学者たちにその地域の研究をやめさせた」は、本文に根拠がありません。ビーバーが動物のすみかを作ることから、科学者が研究をやめるという結果は出てきません。
+4 「人々をその地域から遠ざけた」も、本文に根拠がありません。直前の文はほかの動物のすみかについての話で、人がその地域に近づけなくなったという話は出てきません。
+【覚えるポイント】
+・Not surprisingly, then,（それならば、驚くことではないが）のあとには、直前に書かれた事実から当然考えられる結果がきます。直前の文の内容をそのまま結果につなげて考えると手がかりになります。
+・species diversity：「種の多様性」。habitats for numerous other animals（ほかの数多くの動物のすみか）のような内容とつながりやすい語句です。

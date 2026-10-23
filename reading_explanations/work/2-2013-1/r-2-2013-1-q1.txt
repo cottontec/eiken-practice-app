@@ -1,0 +1,27 @@
+---
+choices: preservations | limitations | enemies | categories
+answerText: categories
+reviewed: yes
+---
+【正解】4 categories（分類、種類）
+【和訳】
+（英文）
+When Tom organized his CD collection, he decided on four ［categories］. He had different shelves for classical, rock, pop, and jazz.
+（訳）
+トムは自分のCDのコレクションを整理したとき、4つの分類に分けることに決めました。クラシック、ロック、ポップス、ジャズのそれぞれに、別々の棚を用意していました。
+（選択肢の意味）
+1 preservations：保存
+2 limitations：制限
+3 enemies：敵
+4 categories：分類、種類
+【考え方】
+2文目の He had different shelves for classical, rock, pop, and jazz.（彼は、クラシック、ロック、ポップス、ジャズのそれぞれに別々の棚を用意していた）に注目します。
+ここには音楽のジャンル（種類）がちょうど4つ並んでいます。トムはCDを「クラシック」「ロック」「ポップス」「ジャズ」の4つに分けて、それぞれ別の棚に置いたということです。
+1文目の decided on four (　) は「4つの（　）に決めた」という意味です。decide on ～ は「～に決める」という言い方です。2文目の内容から、トムが決めたのは「CDを分ける4つのグループ」だと分かります。categories は category（分類、種類）の複数形なので、「4つの分類に決めた（4つの分類で分けることにした）」となり、2文目とぴったり合います。正解は4です。
+【ほかの選択肢】
+1 preservations は「保存」です。「4つの保存に決めた」となり、2文目の「ジャンルごとの棚」とつながりません。
+2 limitations は「制限」です。「4つの制限に決めた」では、何を制限したのかが分からず、2文目のジャンルの話と合いません。
+3 enemies は「敵」です。CDの整理の話に「敵」は関係がなく、意味が通りません。
+【覚えるポイント】
+・category：「分類、種類」。複数形は categories です。
+・decide on ～：「～に決める」。いくつかの考えの中から選んで決めるときに使います。

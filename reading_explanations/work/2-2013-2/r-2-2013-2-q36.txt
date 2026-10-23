@@ -1,0 +1,29 @@
+---
+choices: have to pay the full price of $240 for the work done at his home. | get a coupon for 10 percent off that he can use in the future. | tell his friends about the company so that he can receive a discount. | save money because he made his appointment over the Internet.
+answerText: save money because he made his appointment over the Internet.
+reviewed: yes
+---
+【正解】4 save money because he made his appointment over the Internet.（インターネットで予約したので、お金を節約できる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ブラッドリーさんは
+1 have to pay the full price of $240 for the work done at his home.（家で行われる作業に対して、240ドルの全額を払わなければならない。）
+2 get a coupon for 10 percent off that he can use in the future.（今後使える、10パーセント引きのクーポンをもらう。）
+3 tell his friends about the company so that he can receive a discount.（割引を受けられるように、友人たちにその会社のことを話す。）
+4 save money because he made his appointment over the Internet.（インターネットで予約したので、お金を節約できる。）
+【考え方】
+選択肢はどれも料金や割引についての内容なので、メールの中で料金について書かれた部分を探します。第3段落の最初に The cost for this is normally $240, but since you made your appointment using our online form, you'll receive a 10 percent discount.（この作業の料金は通常240ドルだが、お客様はオンラインの申込用紙を使って予約したので、10パーセントの割引を受けられる）とあります。
+since はここでは「～なので」と理由を表します。online form は「オンラインの申込用紙（インターネット上で書きこむ用紙）」です。
+本文と選択肢は次のように対応しています。
+本文 since you made your appointment using our online form（オンラインの申込用紙を使って予約したので）＝ 選択肢 because he made his appointment over the Internet（インターネットで予約したので）
+本文 you'll receive a 10 percent discount（10パーセントの割引を受けられる）＝ 選択肢 save money（お金を節約できる）
+正解は4です。
+【ほかの選択肢】
+1 240ドルは normally（通常は）の料金です。ブラッドリーさんはオンラインで予約したので割引を受けられ、全額を払うわけではありません。
+2 10パーセントの割引は、今回の作業の料金に対するものです。今後使えるクーポンをもらうという話は本文にありません。
+3 メールの最後に hope you'll recommend our services to friends and family（友人や家族に当社のサービスを勧めてくれるとうれしい）とありますが、これは会社の希望を述べているだけです。友人に話せば割引になるとは書かれておらず、割引の理由はオンラインで予約したことです。
+【覚えるポイント】
+・since ～：「～なので」。「～以来」の意味もあるので、文の流れで判断します。
+・receive a discount：「割引を受ける」。

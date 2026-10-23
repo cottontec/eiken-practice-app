@@ -1,0 +1,29 @@
+---
+choices: instilled | harassed | presumed | disregarded
+answerText: presumed
+reviewed: yes
+---
+【正解】3 presumed（推定される、一応そうだとみなされる）
+【和訳】
+（英文）
+Under the law of some countries, suspected criminals are ［presumed］ innocent until proven guilty in court.
+（訳）
+いくつかの国の法律では、犯罪の疑いをかけられた人は、裁判で有罪と証明されるまでは、無罪と（推定されます）。
+（選択肢の意味）
+1 instilled：（考えなどを）しみこませられた、教えこまれた
+2 harassed：いやがらせを受けた
+3 presumed：推定された（はっきりした証拠がなくても、一応そうだとみなされた）
+4 disregarded：無視された
+【考え方】
+まず見るところ：空所の後ろの innocent until proven guilty in court
+空所の後ろには innocent（無罪の）という形容詞（人や物の様子を表す語）がすぐ続いています。そして until proven guilty in court（裁判で有罪と証明されるまで）とあります。
+suspected criminals は「犯罪の疑いをかけられた人」で、まだ罪が決まっていない人です。有罪と証明されるまでの間、その人をどう扱うかという文なので、「無罪とみなされる」という意味になれば話が通ります。
+presume は「推定する、（証拠がなくても）一応そうだとみなす」という意味で、be presumed innocent で「無罪と推定される」となります。後ろに innocent をそのまま置ける形にも合うので、3が正解です。
+この問題の型：熟語・決まった形（be presumed innocent）
+【ほかの選択肢】
+1 instilled は「教えこまれた」です。考えや気持ちを人にしみこませるときに使う語で、「容疑者は無罪を教えこまれる」では意味が通りません。
+2 harassed は「いやがらせを受けた」です。後ろに innocent をそのまま置く形では使わず、「有罪と証明されるまで」という条件ともつながりません。
+4 disregarded は「無視された」です。「容疑者は有罪と証明されるまで無罪と無視される」となり、意味が通りません。
+【覚えるポイント】
+・be presumed innocent until proven guilty：「有罪と証明されるまでは無罪と推定される」。この文では、法律の決まりを表す言い方として使われています。
+・空所のすぐ後ろに innocent のような様子を表す語が続いているときは、「AをBとみなす」の形をとれる動詞かどうかが、答えを決める手がかりになります。

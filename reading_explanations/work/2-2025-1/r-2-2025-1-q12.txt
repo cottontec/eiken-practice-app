@@ -1,0 +1,30 @@
+---
+choices: some hardly | only a little | only a few | some seldom
+answerText: only a few
+reviewed: yes
+---
+【正解】3 only a few（ほんの少ししか～ない（数））
+【和訳】
+（英文）
+The farmer took his apples to the market on Sunday, but because his prices were too high, ［only a few］ of them could be sold.
+（訳）
+その農家の人は日曜日にリンゴを市場へ持って行きましたが、値段が高すぎたので、そのうち（ほんの少ししか）売れませんでした。
+（選択肢の意味）
+1 some hardly：some（いくつか）＋ hardly（ほとんど～ない）
+2 only a little：（量が）ほんの少しだけ
+3 only a few：（数が）ほんの少しだけ
+4 some seldom：some（いくつか）＋ seldom（めったに～ない）
+【考え方】
+まず見るところ：because his prices were too high と、空所のあとの of them
+because his prices were too high（値段が高すぎたので）
+値段が高すぎたのですから、リンゴはあまり売れなかったと考えられます。
+(　) of them could be sold（それらのうちの（　）が売れた）
+them は his apples（彼のリンゴ）を指します。リンゴは1個、2個と数えられる名詞です。数えられるものの数が少ないことを表すのは a few（少しの数の）で、only a few で「ほんの少しだけ」となります。「リンゴのうち、ほんの少ししか売れなかった」となり、値段が高すぎたという理由とつながるので、3が正解です。
+この問題の型：文法（a few と a little の使い分け）／因果（because の理由と結果）
+【ほかの選択肢】
+1 some hardly は some（いくつか）と hardly（ほとんど～ない）を並べたものです。「いくつか」と「ほとんど～ない」は意味がぶつかり、some hardly of them という言い方もしないので、正しい文になりません。
+2 only a little は「（量が）ほんの少しだけ」です。a little は水やお金のように数えられないものの量に使う言い方なので、1個、2個と数えるリンゴには合いません。
+4 some seldom は some（いくつか）と seldom（めったに～ない）を並べたものです。seldom は「めったに～ない」という回数を表す語で、some seldom of them という言い方はしないので、正しい文になりません。
+【覚えるポイント】
+・a few（数が少し）と a little（量が少し）：of のあとのものが数えられるかどうかで使い分けます。
+・only a few of ～：「～のうちほんの少しだけ」。because の部分に「値段が高すぎた」などの理由があれば、少ないことを表す語が入る手がかりになります。

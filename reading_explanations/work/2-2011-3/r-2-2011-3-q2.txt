@@ -1,0 +1,24 @@
+---
+choices: permit | restore | suggest | fail
+answerText: permit
+reviewed: yes
+---
+【正解】1 permit（許す、許可する）
+【和訳】
+トンプソン先生はとても厳しい先生です。生徒が教室でおしゃべりすることを許さず、テストもとても難しいです。
+（選択肢の意味）
+1 permit：許す、許可する
+2 restore：元に戻す、回復させる
+3 suggest：提案する
+4 fail：失敗する、（試験で）落とす
+【考え方】
+最初の文 Mr. Thompson is a very strict teacher.（トンプソン先生はとても厳しい先生だ）がヒントです。2文目は、その「厳しさ」の具体例を述べていると考えられます。and のあとの his tests are very difficult（テストがとても難しい）も、厳しさの例です。
+空所の文は He does not (　) students to talk in the classroom. です。「生徒が教室で話すことを～しない」の「～」に何が入れば、厳しい先生の例になるかを考えます。permit を入れると「生徒が教室で話すことを許さない」となり、厳しさの例として自然です。
+また、permit は permit ＋人＋ to ～ の形で「（人）が～するのを許す」という意味になります。空所のあとの students to talk という形にも合うので、1が正解です。
+【ほかの選択肢】
+2 restore は「元に戻す、回復させる」です。「生徒が話すことを元に戻さない」となり、意味が通りません。restore ＋人＋ to ～ の形で「人が～するのを」という意味にもなりません。
+3 suggest は「提案する」です。suggest は「人に～するように」と言うとき、suggest ＋人＋ to ～ の形をとらないので、ここには入りません。意味の上でも「話すことを提案しない」では厳しさの例として弱く、つながりません。
+4 fail は「失敗する、（試験で）落とす」です。fail students は「生徒を落第させる」となりますが、そのあとに to talk in the classroom を続けると意味が通りません。
+【覚えるポイント】
+・permit ＋人＋ to ～：「（人）が～するのを許す」。allow ＋人＋ to ～ とほぼ同じ意味です。
+・strict：「厳しい」。

@@ -1,0 +1,25 @@
+---
+choices: unfair | flexible | convenient | invisible
+answerText: unfair
+reviewed: yes
+---
+【正解】1 unfair（不公平な）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 unfair：不公平な
+2 flexible：柔軟な、融通がきく
+3 convenient：便利な、都合のよい
+4 invisible：目に見えない
+【考え方】
+空所は第3段落の She feels that the new fees are (　) to people in similar situations.（彼女は、新しい料金は同じような状況にある人々にとって（　）と感じている）という文にあります。She はすぐ前の文に出てくるサラ・アダムズです。
+その前の文を見ると、But not all residents agree with the new policy.（しかし、すべての住民が新しい方針に賛成しているわけではない）とあり、続いて Sarah Adams complains that a small car is not practical for her family and pet.（サラ・アダムズは、小さな車は自分の家族とペットにとって実用的ではないと不満を言っている）と書かれています。complain は「不満を言う」、practical は「実用的な、役に立つ」です。
+サラは、家族とペットがいるので小さな車では役に立たない、と言っています。つまり、大きな車に乗るしかないのに、新しい規則ではそのぶん高い料金を払うことになる、と不満をもっていると考えられます。in similar situations（同じような状況にある）とは、サラのように「小さな車では間に合わない事情がある人々」のことです。そうした人にとって新しい料金は「不公平だ」と感じている、と考えると流れが合います。正解は1です。
+【ほかの選択肢】
+2 flexible は「柔軟な、融通がきく」です。新しい料金が柔軟だと感じているなら、サラが不満を言う理由になりません。
+3 convenient は「便利な、都合のよい」です。新しい方針に賛成していない人の意見として、反対向きの内容になってしまいます。
+4 invisible は「目に見えない」です。料金が目に見えないという話は本文になく、意味が通りません。
+【覚えるポイント】
+・unfair：「不公平な」。fair（公平な）に un-（「～でない」という意味をつける部分）がついた語です。be unfair to ～ で「～にとって不公平だ」。
+・complain that ～：「～だと不満を言う」。

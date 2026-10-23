@@ -1,0 +1,32 @@
+---
+choices: Changing the tolls on bridges so they are based on the total distance driven would discourage people from driving. | Having tolls on all of Manhattan's bridges would help to prevent people from taking indirect routes. | Replacing some roads with public transportation services would enable the city to make a larger income. | Making Manhattan's less crowded bridges free would reduce traffic in the business district.
+answerText: Having tolls on all of Manhattan's bridges would help to prevent people from taking indirect routes.
+reviewed: yes
+---
+【正解】2 Having tolls on all of Manhattan's bridges would help to prevent people from taking indirect routes.（マンハッタンのすべての橋に通行料をかけることで、人々が遠回りの道を通るのを防ぐ助けになるだろう。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one advantage of the Move NY plan?（ムーブ・NYの計画のよい点の一つは何か。）
+1 Changing the tolls on bridges so they are based on the total distance driven would discourage people from driving.（橋の通行料を、運転した距離の合計にもとづくように変えることで、人々が車を運転する気をなくさせるだろう。）
+2 Having tolls on all of Manhattan's bridges would help to prevent people from taking indirect routes.（マンハッタンのすべての橋に通行料をかけることで、人々が遠回りの道を通るのを防ぐ助けになるだろう。）
+3 Replacing some roads with public transportation services would enable the city to make a larger income.（いくつかの道路を公共交通機関のサービスに置きかえることで、市はより多くの収入を得られるだろう。）
+4 Making Manhattan's less crowded bridges free would reduce traffic in the business district.（マンハッタンの、あまり混んでいない橋を無料にすることで、ビジネス街の交通量が減るだろう。）
+【考え方】
+まず見るところ：第3段落の Because there would be tolls on all of Manhattan's bridges, it would also discourage people from driving far out of their way ～
+第3段落では、2016年のムーブ・NYという提案のよい点が書かれています。その一つが次の文です。
+Because there would be tolls on all of Manhattan's bridges, it would also discourage people from driving far out of their way to use currently free bridges to the business district（マンハッタンのすべての橋に通行料がかかるようになるので、現在は無料の橋を使ってビジネス街へ行くために、人々がわざわざ大きく遠回りして車を走らせることも思いとどまらせるだろう）
+discourage A from ～ing は「Aに～する気をなくさせる」、drive out of one's way は「わざわざ回り道をして運転する」です。今は無料の橋があるので、お金を払いたくない人がその橋まで遠回りしています。すべての橋が有料になれば、遠回りする理由がなくなります。
+本文と選択肢2を対にすると、次のようになります。
+・本文 there would be tolls on all of Manhattan's bridges（マンハッタンのすべての橋に通行料がかかる）＝ 選択肢 Having tolls on all of Manhattan's bridges（マンハッタンのすべての橋に通行料をかけること）
+・本文 discourage people from driving far out of their way（人々が大きく遠回りして運転するのを思いとどまらせる）→ 選択肢 prevent people from taking indirect routes（人々が遠回りの道を通るのを防ぐ）
+よって2が正解です。
+この問題の型：言いかえ（driving far out of their way → taking indirect routes）
+【ほかの選択肢】
+1 本文にありません。ムーブ・NYでは、場所によって橋の通行料を上げたり下げたりしますが、運転した距離の合計にもとづいて料金を決めるという話はありません。
+3 本文と違います。集めたお金は公共交通機関に投資されると書かれていますが、道路を公共交通機関に置きかえるという話も、市の収入を増やすことがよい点だという話もありません。
+4 本文と違います。ムーブ・NYでは、現在無料のマンハッタンの橋を有料にし、ビジネス街の外の混んでいない地域の橋は通行料を下げるとされています。混んでいない橋を無料にするとは書かれていません。
+【覚えるポイント】
+・discourage A from ～ing：「Aに～する気をなくさせる」。drive out of one's way：「わざわざ回り道をして運転する」。indirect route：「遠回りの道」。
+・「よい点」をたずねる設問では、Because ～, it would also ...（～なので、…にもなるだろう）のように、理由と効果を述べている文が答えの手がかりになります。

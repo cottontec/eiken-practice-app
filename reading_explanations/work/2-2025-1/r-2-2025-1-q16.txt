@@ -1,0 +1,32 @@
+---
+choices: takes a good look at | pays a good price for | has a good command of | gives a good reason of
+answerText: has a good command of
+reviewed: yes
+---
+【正解】3 has a good command of（～を自由に使いこなす）
+【和訳】
+（英文）
+A: What do you think of Alice's Spanish?
+B: It's very good. She'll be able to live and work in Spain without any problems. She really ［has a good command of］ it.
+（訳）
+A：アリスのスペイン語をどう思う？
+B：とても上手だよ。スペインで何の問題もなく暮らしたり働いたりできるだろうね。彼女は本当にスペイン語を（自由に使いこなしている）よ。
+（選択肢の意味）
+1 takes a good look at：～をよく見る
+2 pays a good price for：～にかなりの代金を払う
+3 has a good command of：～を自由に使いこなす
+4 gives a good reason of：～のもっともな理由を言う
+【考え方】
+まず見るところ：Bの It's very good. と She'll be able to live and work in Spain without any problems.
+It's very good.（とても上手だ）
+It は Alice's Spanish（アリスのスペイン語）を指します。Bはアリスのスペイン語をほめています。
+She'll be able to live and work in Spain without any problems.（彼女はスペインで何の問題もなく暮らしたり働いたりできるだろう）
+スペイン語が十分に使えるということです。空所のあとの it もスペイン語を指すので、「スペイン語が上手に使える」という内容の語句が入ります。have a good command of ～ は「（言語など）を自由に使いこなす」という意味なので、3が正解です。
+この問題の型：熟語・決まった形（have a good command of ～）／指示語（it ＝ Alice's Spanish）
+【ほかの選択肢】
+1 takes a good look at は「～をよく見る」です。「スペイン語をよく見る」では、スペインで問題なく暮らせるほど上手だという話とつながりません。
+2 pays a good price for は「～にかなりの代金を払う」です。「スペイン語にかなりのお金を払う」となり、スペイン語が上手だという話とつながりません。
+4 gives a good reason of は「～のもっともな理由を言う」という内容ですが、「スペイン語のもっともな理由を言う」では意味が通りません。
+【覚えるポイント】
+・have a good command of ～：「（言語など）を自由に使いこなす」。
+・会話の最後の文の it が何を指すか（ここでは Alice's Spanish）を確かめ、その前のほめ言葉と同じ内容になる語句を選ぶと、答えを決める手がかりになります。

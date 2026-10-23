@@ -1,0 +1,25 @@
+---
+choices: keep | make | take | hold
+answerText: take
+reviewed: yes
+---
+【正解】3 take（take your time で「ゆっくりやってください、急がなくていいです」）
+【和訳】
+A：お待たせしてごめんなさい、アダム。
+B：気にしないで、リズ。急いでいないから。どうぞゆっくりしてください。
+（選択肢の意味）
+1 keep：～を保つ
+2 make：～を作る
+3 take：～を取る（take one's time で「ゆっくりやる」）
+4 hold：～を持つ、～を開く
+【考え方】
+Aは I'm sorry to keep you waiting（お待たせしてごめんなさい）とあやまっています。keep 人 waiting は「人を待たせる」という意味です。
+Bは Don't worry（気にしないで）、I'm not in a hurry（急いでいない）と答えています。つまりBは、「急がなくても大丈夫です」とAを安心させようとしています。
+take one's time は「（急がずに）ゆっくりやる、時間をかける」という意味の決まった言い方です。Please take your time. で「どうぞゆっくりしてください、急がなくていいですよ」となり、Bの気持ちにぴったり合います。正解は3です。
+【ほかの選択肢】
+1 keep を入れた Please keep your time. という決まった言い方はなく、「ゆっくりでいい」という意味になりません。
+2 make を入れた Please make your time. という決まった言い方はありません。make time（時間を作る）という表現はありますが、ここでは意味が合いません。
+4 hold を入れた Please hold your time. という決まった言い方はなく、意味が通りません。
+【覚えるポイント】
+・take one's time：「ゆっくりやる、時間をかける」。Take your time. で「急がなくていいですよ」。
+・keep 人 waiting：「人を待たせる」。

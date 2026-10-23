@@ -1,0 +1,29 @@
+---
+choices: processions | commissions | alterations | estimations
+answerText: alterations
+reviewed: yes
+---
+【正解】3 alterations（変更、修正）
+【和訳】
+（英文）
+In his introduction to the new edition of the textbook, the author said he had made some ［alterations］ to bring it up to date.
+（訳）
+その教科書の新しい版の序文で、著者は、それを最新のものにするために、いくつかの（変更）を加えたと述べた。
+（選択肢の意味）
+1 processions：行列、行進
+2 commissions：委員会、手数料、（仕事の）依頼
+3 alterations：変更、修正
+4 estimations：見積もり、評価
+【考え方】
+まず見るところ：空所のあとの to bring it up to date
+introduction は、ここでは「序文（本の初めに置かれる文章）」、edition は「（本の）版」です。著者が新しい版について説明している場面です。
+he had made some (　) to bring it up to date（それを最新のものにするために、いくつかの（　）をした）
+bring ～ up to date は「～を最新のものにする」という意味で、it は the textbook（その教科書）を指しています。古くなった教科書を最新にするためにすることは、内容を変えることです。alteration は「変更、修正」で、make alterations で「変更を加える」となります。ですから3が正解です。
+この問題の型：熟語・決まった形（bring ～ up to date）
+【ほかの選択肢】
+1 processions は「行列、行進」です。「教科書を最新にするために行列をした」となり、意味が通りません。
+2 commissions は「委員会、手数料、依頼」です。「いくつかの手数料をした」となり、教科書を最新にするための作業として意味が通りません。
+4 estimations は「見積もり、評価」です。見積もりをしても教科書が最新になるわけではないので、目的と合いません。
+【覚えるポイント】
+・make alterations：「変更を加える」。
+・bring ～ up to date：「～を最新のものにする」。空所のあとの to ～（～するために）が表す目的は、どんな行動が入るかを考える手がかりになります。

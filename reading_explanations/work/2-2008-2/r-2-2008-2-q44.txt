@@ -1,0 +1,31 @@
+---
+choices: cover implants with spider silk to prevent rejection by the body. | find a way to cause the human immune system to react to spider silk. | show that human bodies contain a material similar to spider silk. | make a new type of silk that is safer than spider silk.
+answerText: cover implants with spider silk to prevent rejection by the body.
+reviewed: yes
+---
+【正解】1 cover implants with spider silk to prevent rejection by the body.（体による拒絶を防ぐために、インプラントをクモの糸でおおう）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ルイスは、将来（　）ことが可能になるかもしれないと言っています。
+1 cover implants with spider silk to prevent rejection by the body.（体による拒絶を防ぐために、インプラントをクモの糸でおおう）
+2 find a way to cause the human immune system to react to spider silk.（人間の免疫システムをクモの糸に反応させる方法を見つける）
+3 show that human bodies contain a material similar to spider silk.（人間の体にクモの糸に似た素材が含まれていることを示す）
+4 make a new type of silk that is safer than spider silk.（クモの糸よりも安全な新しい種類の糸を作る）
+【考え方】
+ルイスの将来についての考えは、第4段落に書かれています。
+まず Recent research has shown, however, that the immune systems of rats and pigs show no reaction to spider silk that has been inserted into their bodies.（しかし最近の研究で、ネズミやブタの免疫システムは、体内に入れられたクモの糸に何の反応も示さないことが分かった）とあります。insert は「差しこむ、入れる」です。
+続いて Lewis believes that it might be possible to do the same thing with humans.（ルイスは、人間でも同じことができるかもしれないと考えている）とあります。
+さらに He says that by wrapping an implant in spider silk, the body may accept it without a negative response from the immune system.（インプラントをクモの糸で包めば、体は免疫システムのよくない反応なしにそれを受け入れるかもしれない、と彼は言う）とあります。wrap は「包む」です。
+第3段落で説明されていたとおり、免疫システムのせいで体がインプラントを拒絶することがあります。クモの糸で包めばそれを防げるかもしれない、というのがルイスの考えです。本文と選択肢は次のように対応しています。
+本文 by wrapping an implant in spider silk（インプラントをクモの糸で包むことで）＝ 選択肢 cover implants with spider silk（インプラントをクモの糸でおおう）
+本文 the body may accept it without a negative response（体はよくない反応なしにそれを受け入れるかもしれない）＝ 選択肢 to prevent rejection by the body（体による拒絶を防ぐために）
+正解は1です。
+【ほかの選択肢】
+2 ルイスが望んでいるのは、免疫システムがクモの糸に「反応しない」ことです。反応させる方法を見つけるというのは、本文と反対です。
+3 人間の体にクモの糸に似た素材が含まれているという話は、本文にありません。
+4 クモの糸よりも安全な新しい糸を作るという話は本文にありません。ルイスはクモの糸そのものを医療に使うことを考えています。
+【覚えるポイント】
+・wrap A in B：「AをBで包む」。cover A with B（AをBでおおう）と同じような意味です。
+・reject（拒絶する）→ rejection（拒絶）。体が人工の部品を受け入れないことを表します。

@@ -1,0 +1,31 @@
+---
+choices: Many people thought that they would not be as effective as washing laundry by hand. | The use of electricity was limited to a few homes in wealthier parts of the world. | They could not discover how to make a machine to do all the steps involved in washing. | Machines that involve both electricity and water can be very unsafe to work with.
+answerText: Machines that involve both electricity and water can be very unsafe to work with.
+reviewed: yes
+---
+【正解】4 Machines that involve both electricity and water can be very unsafe to work with.（電気と水の両方を使う機械は、扱うのにとても危険なことがある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What was one challenge faced by people trying to invent electric washing machines?（電気で動く洗濯機を発明しようとしていた人々が直面した難しい課題の1つは、何でしたか。）
+1 Many people thought that they would not be as effective as washing laundry by hand.（多くの人々が、それらは手で洗濯物を洗うほど効果がないだろうと思っていた。）
+2 The use of electricity was limited to a few homes in wealthier parts of the world.（電気の利用は、世界の（ほかの地域より）豊かな地域の、少しの家庭に限られていた。）
+3 They could not discover how to make a machine to do all the steps involved in washing.（彼らは、洗濯に関わるすべての工程を行う機械の作り方を見つけられなかった。）
+4 Machines that involve both electricity and water can be very unsafe to work with.（電気と水の両方を使う機械は、扱うのにとても危険なことがある。）
+【考え方】
+まず見るところ：第3段落の ～ was a challenge because the combination of water and electricity is very dangerous.
+設問の challenge（難しい課題）という語は、第3段落に出てきます。
+Discovering how to use electricity to power these machines was a challenge because the combination of water and electricity is very dangerous.（これらの機械を電気で動かす方法を見つけることは、難しい課題だった。水と電気の組み合わせはとても危険だからだ）
+because（～なので）のあとに、なぜ難しかったのかという理由が書かれています。それは、水と電気をいっしょに使うととても危険だ、ということです。
+本文と選択肢を対にすると、次のようになります。
+本文 the combination of water and electricity is very dangerous（水と電気の組み合わせはとても危険だ）＝ 選択肢 Machines that involve both electricity and water can be very unsafe to work with（電気と水の両方を使う機械は、扱うのにとても危険なことがある）
+the combination of water and electricity（水と電気の組み合わせ）が machines that involve both electricity and water（電気と水の両方を使う機械）に、very dangerous（とても危険な）が very unsafe（とても安全でない）に言いかえられています。ですから4が正解です。
+この問題の型：因果（because のあとに課題の理由）
+【ほかの選択肢】
+1 電気の洗濯機が手洗いほど効果がないと多くの人が思っていた、という話は本文にありません。not as ～ as ...（…ほど～ない）を使った比べ方も、本文には出てきません。
+2 本文の wealthier parts of the world（世界の豊かな地域）は、電気の洗濯機ができたあとに、Before long, these machines became common in homes in wealthier parts of the world.（まもなく、これらの機械は世界の豊かな地域の家庭でふつうに見られるものになった）という場面で出てきます。電気の利用が限られていたことが、発明する人々の課題だったとは書かれていません。
+3 本文に書かれている課題は、水と電気の組み合わせが危険なことです。本文には、発明家たちが electric machines that were able to automatically do most of the steps involved in washing（洗濯に関わる工程のほとんどを自動で行うことのできる電気の機械）を作り出したとあり、「すべての工程を行う機械の作り方が見つからない」ことが課題だったとは書かれていません。
+【覚えるポイント】
+・challenge：「難しい課題」。dangerous（危険な）は unsafe（安全でない）と言いかえられることがあります。
+・設問の語（ここでは challenge）と同じ語を本文で探し、そのあとの because などで書かれた理由を確かめると、答えの手がかりになります。

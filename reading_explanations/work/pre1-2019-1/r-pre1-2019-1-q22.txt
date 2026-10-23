@@ -1,0 +1,33 @@
+---
+choices: stuck up for | slipped by | talked down to | grew into
+answerText: stuck up for
+reviewed: yes
+---
+【正解】1 stuck up for（～をかばった、～の味方をした）
+【和訳】
+（英文）
+Rodolfo's boss, Susan, was angry with him when the client canceled the contract, but his colleagues ［stuck up for］ him. They told the boss it was not his fault.
+（訳）
+顧客が契約を取り消したとき、ロドルフォの上司のスーザンは彼に腹を立てたが、彼の同僚たちは彼を（かばった）。同僚たちは上司に、それは彼のせいではないと言った。
+（選択肢の意味）
+1 stuck up for：～をかばった、～の味方をした（stick up for の過去形）
+2 slipped by：（時が）過ぎ去った、～のそばをすり抜けた
+3 talked down to：～を見下して話した
+4 grew into：成長して～になった
+【考え方】
+まず見るところ：空所の前の but と、後半の文の They told the boss it was not his fault.
+前半では、上司のスーザンがロドルフォに腹を立てた、と書かれています。
+Rodolfo's boss, Susan, was angry with him when the client canceled the contract（顧客が契約を取り消したとき、ロドルフォの上司のスーザンは彼に腹を立てた）
+client は「顧客（お客さん）」、contract は「契約」です。そのあとに but（しかし）があるので、同僚たちは上司とは反対の向きの態度をとったと考えられます。
+後半の文を見ます。
+They told the boss it was not his fault.（同僚たちは上司に、それは彼のせいではないと言った）
+fault は「責任、落ち度」です。同僚たちは、上司に向かって「彼のせいではない」と言いました。
+stick up for ～ は「～をかばう、～の味方をする」なので、1が正解です。
+この問題の型：対比（but 上司は怒った ⇔ 同僚はかばった）／言いかえ（stuck up for ≒ 彼のせいではないと言った）
+【ほかの選択肢】
+2 slipped by は「（時が）過ぎ去った、そばをすり抜けた」です。「同僚たちは彼のそばをすり抜けた」となり、彼のせいではないと上司に言ったという後半の文と合いません。
+3 talked down to は「見下して話した」です。後半の文で同僚たちは彼をかばっているので、反対の態度になります。
+4 grew into は「成長して～になった」です。「同僚たちは成長して彼になった」となり、意味が通りません。
+【覚えるポイント】
+・stick up for ～：「～をかばう、～の味方をする」。
+・空所の直後の文が、空所の行動の中身を具体的に説明していることがよくあります（ここでは「彼のせいではないと言った」）。but の前後の向きと合わせて考えましょう。

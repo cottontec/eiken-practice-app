@@ -1,0 +1,31 @@
+---
+choices: tolerant | classified | vacant | biased
+answerText: biased
+reviewed: yes
+---
+【正解】4 biased（かたよった、えこひいきをする）
+【和訳】
+（英文）
+As a former construction company president, the mayor was ［biased］ in choosing the members of the city council. He mainly selected people who had ties to the industry.
+（訳）
+元建設会社の社長として、その市長は、市議会のメンバーを選ぶときに（かたよっていました）。彼は主に、その業界とつながりのある人々を選びました。
+（選択肢の意味）
+1 tolerant：寛容な（心が広く、自分とちがう考えも受け入れる）
+2 classified：機密の（秘密にされている）；分類された
+3 vacant：空いている
+4 biased：かたよった、えこひいきをする
+【考え方】
+まず見るところ：2文目の He mainly selected people who had ties to the industry.
+1文目は、市長が市議会のメンバーを選ぶときにどうだったかを述べています。その前に、As a former construction company president（元建設会社の社長として）と、市長の経歴が書かれています。
+2文目で、実際にどんな人を選んだのかが説明されています。
+He mainly selected people who had ties to the industry.（彼は主に、その業界とつながりのある人々を選んだ）
+the industry（その業界）は、1文目に出てきた建設業のことです。市長は、自分がいた建設業に関係のある人ばかりを選んだということです。
+これは、選び方がかたよっていた、えこひいきをしていたということになります。biased は「かたよった」という意味なので、4が正解です。
+この問題の型：具体例とまとめ（業界の人ばかり選んだ→biased）
+【ほかの選択肢】
+1 tolerant は「寛容な」です。いろいろな考えの人を受け入れるという意味になり、自分の業界の人ばかりを選んだという2文目と反対になります。
+2 classified は「機密の、分類された」です。「市長は選ぶときに機密だった」となり、人について使っても意味が通りません。
+3 vacant は「空いている」です。部屋や席などについて使う語で、「市長が選ぶときに空いていた」では意味が通りません。
+【覚えるポイント】
+・biased：「かたよった、えこひいきをする」。名詞は bias（かたより、偏見）です。
+・空所の文のあとに、その人が実際にしたこと（ここでは mainly selected ～）が書かれているときは、その行動をひとことで表す語を選ぶと考えるのが手がかりになります。

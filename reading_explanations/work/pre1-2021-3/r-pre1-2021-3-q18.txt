@@ -1,0 +1,31 @@
+---
+choices: coarse | fragile | immovable | glossy
+answerText: fragile
+reviewed: yes
+---
+【正解】2 fragile（こわれやすい）
+【和訳】
+（英文）
+The items in the box were packaged carefully because they were ［fragile］, but some of them were still damaged when they were being delivered.
+（訳）
+箱の中の品物は（こわれやすかった）ので、ていねいに包装されていたが、それでも、配達されている間にそのうちのいくつかが傷ついてしまった。
+（選択肢の意味）
+1 coarse：きめの粗い、ざらざらした
+2 fragile：こわれやすい
+3 immovable：動かせない
+4 glossy：つやのある
+【考え方】
+まず見るところ：空所の前の were packaged carefully because と、後ろの but some of them were still damaged
+品物がていねいに包装された理由が、because のあとに書かれています。
+The items in the box were packaged carefully because they were (　)（箱の中の品物は〇〇だったので、ていねいに包装されていた）
+そして but のあとに、次のように続きます。
+some of them were still damaged when they were being delivered（それでも、配達されている間にそのうちのいくつかが傷ついた）
+still は「それでも」です。ていねいに包んだのに傷ついたのですから、品物はもともと傷つきやすいものだったと分かります。fragile は「こわれやすい」なので、2が正解です。
+この問題の型：因果（because ～ fragile → packaged carefully）
+【ほかの選択肢】
+1 coarse は「きめの粗い、ざらざらした」です。手ざわりがざらざらしていることは、ていねいに包む理由になりません。
+3 immovable は「動かせない」です。配達された品物なので、動かせないものではありません。また、ていねいに包む理由にもなりません。
+4 glossy は「つやのある」です。つやがあることは、ていねいに包んだのに傷ついたという話とつながりません。
+【覚えるポイント】
+・fragile：「こわれやすい」。be packaged：「包装される」。be damaged：「傷つく、こわれる」。
+・because のあとの空所は、その前の結果（ここではていねいに包装された）の理由になる語を選びます。後ろの but ～ still（それでも）も手がかりになります。

@@ -1,0 +1,28 @@
+---
+choices: Wolverton reduced pollution by teaching people to use energy efficiently. | Wolverton developed plants that are more effective at removing poisons from the air. | Wolverton wrote a book that recommends the safest building materials to use. | Wolverton created a container that helps plants reduce dangerous chemicals in buildings.
+answerText: Wolverton created a container that helps plants reduce dangerous chemicals in buildings.
+reviewed: yes
+---
+【正解】4 Wolverton created a container that helps plants reduce dangerous chemicals in buildings.（ウォルバートンは、植物が建物の中の危険な化学物質を減らすのを助ける容器を作った。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ウォルバートンの研究の成果の1つは何でしたか。
+1 Wolverton reduced pollution by teaching people to use energy efficiently.（ウォルバートンは、人々にエネルギーを効率よく使うことを教えて、汚染を減らした。）
+2 Wolverton developed plants that are more effective at removing poisons from the air.（ウォルバートンは、空気から毒を取り除くのに（ほかの植物より）効果のある植物を開発した。）
+3 Wolverton wrote a book that recommends the safest building materials to use.（ウォルバートンは、使うのに最も安全な建築材料をすすめる本を書いた。）
+4 Wolverton created a container that helps plants reduce dangerous chemicals in buildings.（ウォルバートンは、植物が建物の中の危険な化学物質を減らすのを助ける容器を作った。）
+【考え方】
+設問は「研究の成果の1つ」です。第4段落に、ウォルバートンの研究から生まれたものが書かれています。
+He also developed a new kind of container for plants that makes them even more effective in removing poisons.（彼はまた、植物が毒を取り除くのにさらに効果を発揮するようにする、新しい種類の植物用の容器も開発した）
+that makes them ～ の that は a new kind of container（新しい種類の容器）を説明しています。them は plants（植物）を指します。つまり、「植物が毒を取り除く働きを、さらに強める容器」です。
+本文 developed a new kind of container for plants that makes them even more effective in removing poisons ＝ 選択肢 created a container that helps plants reduce dangerous chemicals in buildings
+developed（開発した）が created（作った）に、removing poisons（毒を取り除く）が reduce dangerous chemicals（危険な化学物質を減らす）に言いかえられています。ですから、4が正解です。
+【ほかの選択肢】
+1 ウォルバートンが人々にエネルギーを効率よく使うことを教えた、という話は本文にありません。エネルギーの話は第1段落の建物の作り方についてで、ウォルバートンの研究の成果ではありません。
+2 ウォルバートンが開発したのは「容器」で、「植物」そのものではありません。本文では、植物を入れてみて効果があると分かったことと、どの植物が最も効果があるかを本に書いたことが述べられているだけです。
+3 ウォルバートンが書いた本は、which plants are most effective（どの植物が最も効果があるか）を説明するものです。最も安全な建築材料をすすめる本ではありません。
+【覚えるポイント】
+・名詞＋ that ～：「～する（名詞）」。that 以下が前の名詞（ここでは container）を説明しています。
+・effective in -ing ／ effective at -ing：「～するのに効果がある」。

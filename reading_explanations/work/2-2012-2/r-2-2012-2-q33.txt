@@ -1,0 +1,25 @@
+---
+choices: position | appearance | security | benefit
+answerText: appearance
+reviewed: yes
+---
+【正解】2 appearance（外観、見た目）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 position：位置
+2 appearance：外観、見た目
+3 security：安全、警備
+4 benefit：利益、恩恵
+【考え方】
+空所は第3段落の終わり近く、They say that there are other ways to save energy without changing the (　) of old buildings and other structures.（彼らは、古い建物やほかの建造物の～を変えずにエネルギーを節約する方法はほかにもあると言っている）にあります。They は、前の文の Many people（多くの人々）です。
+前の文で、その人々は are worried about placing modern technology, such as solar panels, on historic buildings（ソーラーパネルのような現代の技術を歴史的な建造物に取りつけることを心配している）とあります。さらにその前には、The new station ... will completely change the way the bridge looks.（新しい駅は橋の見た目をすっかり変えてしまう）と書かれています。the way the bridge looks は「橋の見え方」、つまり見た目のことです。
+人々が心配しているのは、古い建物にソーラーパネルを取りつけると、その見た目が変わってしまうことです。appearance は「外観、見た目」という意味なので、without changing the appearance で「見た目を変えずに」となり、前の内容と合います。2が正解です。
+【ほかの選択肢】
+1 position は「位置」です。新しい駅は古い橋をそのまま使うので、建物の位置を変えるという話は本文にありません。
+3 security は「安全、警備」です。人々が心配しているのは見た目の変化で、安全や警備については書かれていません。
+4 benefit は「利益、恩恵」です。「古い建物の利益を変えずに」となり、橋の見た目が変わることへの心配とつながりません。
+【覚えるポイント】
+・appearance：「外観、見た目」。動詞 appear（現れる、～のように見える）の名詞です。
+・the way ～ looks：「～の見た目、～の見え方」。

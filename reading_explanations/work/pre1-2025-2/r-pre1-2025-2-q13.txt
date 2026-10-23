@@ -1,0 +1,32 @@
+---
+choices: aggression | substitute | relegation | batch
+answerText: batch
+reviewed: yes
+---
+【正解】4 batch（〔一度に作る〕一回分、ひとまとまり）
+【和訳】
+（英文）
+The cookie factory made one ［batch］ of cookies with salt instead of sugar. They had to throw the entire lot away.
+（訳）
+そのクッキー工場は、クッキーの（一回分）を、砂糖の代わりに塩を使って作った。工場は、そのひとまとまりを全部捨てなければならなかった。
+（選択肢の意味）
+1 aggression：攻撃、攻撃的な態度
+2 substitute：代わりのもの、代用品
+3 relegation：格下げ、（下の地位への）降格
+4 batch：（一度に作る）一回分、ひとまとまり
+【考え方】
+まず見るところ：空所の前後の one (　) of cookies と、次の文の the entire lot
+空所のある部分は、次のとおりです。
+The cookie factory made one (　) of cookies with salt instead of sugar.（そのクッキー工場は、クッキーの1つの（　）を、砂糖の代わりに塩を使って作った）
+instead of ～ は「～の代わりに」です。one (　) of cookies という形なので、空所にはクッキーの「量のまとまり」を表す語が入ると考えられます。
+次の文は、次のとおりです。
+They had to throw the entire lot away.（工場は、そのひとまとまりを全部捨てなければならなかった）
+lot はここでは「（品物の）ひと組、ひとまとまり」、entire は「全部の」です。塩を入れてしまったひとまとまりを全部捨てたのですから、前の文の空所も「一度に作ったひとまとまり」を表す語だと分かります。batch は「（一度に作る）一回分、ひとまとまり」なので、4が正解です。
+この問題の型：言いかえ（one batch of cookies → the entire lot）
+【ほかの選択肢】
+1 aggression は「攻撃、攻撃的な態度」です。「クッキーの1つの攻撃を作った」となり、意味が通りません。
+2 substitute は「代わりのもの、代用品」です。文の中の instead of（～の代わりに）につられそうですが、「クッキーの1つの代用品を塩で作った」となり、次の文の「そのひとまとまりを全部捨てた」ともつながりません。
+3 relegation は「格下げ、降格（下の地位やリーグに落とされること）」です。クッキーの量を表す語ではなく、意味が通りません。
+【覚えるポイント】
+・batch：「（一度に作る）一回分、ひとまとまり」。one batch of cookies で「クッキーの一回分」。
+・one (　) of ～ の空所では、あとの文で同じものを指す語（ここでは the entire lot）が、どんな「まとまり」を表す語が入るかの手がかりになります。

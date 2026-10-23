@@ -1,0 +1,31 @@
+---
+choices: roster | grant | domain | porch
+answerText: roster
+reviewed: yes
+---
+【正解】1 roster（〔選手などの〕名簿）
+【和訳】
+（英文）
+A: Will you be playing in Saturday's game?
+B: I don't know yet. I think the coach is going to put the ［roster］ on the notice board today.
+（訳）
+A：土曜日の試合には出るの？
+B：まだ分からないよ。コーチが今日、掲示板に（選手名簿）をはり出すと思うよ。
+（選択肢の意味）
+1 roster：（選手などの）名簿、勤務表
+2 grant：補助金、（国などが）与えるお金
+3 domain：領域、領地、ドメイン
+4 porch：ポーチ（玄関の前の屋根のある場所）
+【考え方】
+まず見るところ：Aの Will you be playing in Saturday's game? と、Bの I don't know yet.
+Aは、Bが土曜日の試合に出るのかどうかをたずねています。Bは「まだ分からない」と答えています。
+I think the coach is going to put the (　) on the notice board today.（コーチが今日、掲示板に（　）をはり出すと思う）
+試合に出るかどうかが分かるものを、コーチが掲示板にはり出すという流れです。だれが試合に出るかを知らせるのは「選手名簿」です。roster は「（選手や係の人の）名簿」という意味なので、1が正解です。
+この問題の型：推論（試合に出るかどうかが分かるもの → 名簿）
+【ほかの選択肢】
+2 grant は「補助金」です。掲示板にはり出しても、試合に出るかどうかは分からないので、合いません。
+3 domain は「領域、領地」です。掲示板にはり出すものではないので、意味が通りません。
+4 porch は「ポーチ（玄関前の屋根のある場所）」です。場所なので、掲示板にはり出すことはできません。
+【覚えるポイント】
+・roster：「（選手や勤務する人の）名簿」。スポーツでは、試合に出る選手の一覧を表すことがあります。
+・「まだ分からない」と答えたあとに続く文は、「どうすれば分かるか」を説明していることが多いので、その内容に合う語を選びましょう。

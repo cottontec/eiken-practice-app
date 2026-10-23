@@ -1,0 +1,29 @@
+---
+choices: Some of the food waste in Mamallapuram is made into fertilizer. | Mamallapuram was the capital of India in the 7th century. | People in Mamallapuram had not used plastic until 2011. | People stopped building new restaurants in Mamallapuram in 2008.
+answerText: Some of the food waste in Mamallapuram is made into fertilizer.
+reviewed: yes
+---
+【正解】1 Some of the food waste in Mamallapuram is made into fertilizer.（ママッラプラムの食べ物のごみの一部は、肥料にされている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：次の記述のうち、正しいものはどれですか。
+1 Some of the food waste in Mamallapuram is made into fertilizer.（ママッラプラムの食べ物のごみの一部は、肥料にされている。）
+2 Mamallapuram was the capital of India in the 7th century.（ママッラプラムは、7世紀にインドの首都だった。）
+3 People in Mamallapuram had not used plastic until 2011.（ママッラプラムの人々は、2011年までプラスチックを使っていなかった。）
+4 People stopped building new restaurants in Mamallapuram in 2008.（2008年に、ママッラプラムでは新しいレストランを建てるのをやめた。）
+【考え方】
+本文全体から正しいものを選ぶ問題なので、選択肢ごとに本文の該当する場所と比べます。選択肢1の fertilizer（肥料：作物がよく育つように土に加えるもの）は、第3段落に出てきます。
+The remaining food waste is turned into fertilizer for use in growing crops.（残りの食べ物のごみは、作物を育てるのに使う肥料に変えられる）
+remaining は「残りの」という意味です。食べ物のごみの一部はバイオガスという燃料にされ、残りが肥料にされています。
+本文と選択肢を対にすると、次のようになります。
+本文 The remaining food waste is turned into fertilizer → 選択肢 Some of the food waste ... is made into fertilizer
+「残りの食べ物のごみ」は食べ物のごみ全体の一部なので Some of the food waste（食べ物のごみの一部）と表されています。is turned into（～に変えられる）は is made into（～にされる）と言いかえられています。
+【ほかの選択肢】
+2 7世紀については、The town was first built in the 7th century（この町は7世紀に初めて築かれた）とあるだけです。インドの首都だったとは書かれていません。
+3 本文には In 2011, the town also banned the use of plastic.（2011年に、町はプラスチックの使用も禁止した）とあります。2011年に使用を禁止したということは、それまではプラスチックが使われていたと考えられます。また、Plastic bags, cups, and other items have been replaced by ones made of cloth or paper.（プラスチックの袋やカップなどの品物は、布や紙でできたものに置きかえられた）とあり、置きかえられる前はプラスチックの品物が使われていたことが読み取れます。「2011年まで使っていなかった」は本文と合いません。
+4 2008年は、ハンド・イン・ハンドがごみのリサイクル計画を考え出した年です。新しいレストランを建てるのをやめたという話は本文にありません。
+【覚えるポイント】
+・be turned into ～ / be made into ～：「～に変えられる、～にされる」。
+・remaining：「残りの」。the remaining ～ は全体のうちの一部を指すので、some of ～ と言いかえられることがあります。

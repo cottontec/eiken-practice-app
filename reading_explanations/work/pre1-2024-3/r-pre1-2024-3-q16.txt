@@ -1,0 +1,30 @@
+---
+choices: turn over | ring in | hold off | rain down
+answerText: hold off
+reviewed: yes
+---
+【正解】3 hold off（先に延ばす、見合わせる）
+【和訳】
+（英文）
+The Nelsons tried to sell their house earlier this year, but few people were interested in buying it. They have decided to ［hold off］ until the market improves.
+（訳）
+ネルソン家の人たちは、今年に入ってから家を売ろうとしたが、買うことに興味を持つ人はほとんどいなかった。彼らは、市場がよくなるまで（売るのを）見合わせることに決めた。
+（選択肢の意味）
+1 turn over：ひっくり返す、引き渡す
+2 ring in：（新年などを）鐘を鳴らして迎える
+3 hold off：（行動を）先に延ばす、見合わせる
+4 rain down：雨のように降り注ぐ
+【考え方】
+まず見るところ：空所のあとの until the market improves と、前の文の few people were interested in buying it
+前の文で、家を売ろうとしたけれども、買いたい人はほとんどいなかったと書かれています。few は「ほとんど～ない」という意味です。
+They have decided to ( ) until the market improves.（彼らは、市場がよくなるまで（　）することに決めた）
+market（市場）は、ここでは家の売り買いの様子のことです。until（～まで）があるので、「市場がよくなるまでは、ある行動を待つ」という意味になると考えられます。
+hold off は「（行動を）先に延ばす、見合わせる」という意味なので、「市場がよくなるまで、売るのを見合わせる」となります。ですから、3が正解です。
+この問題の型：因果（買い手がほとんどいない → 市場がよくなるまで売るのを延ばす）
+【ほかの選択肢】
+1 turn over は「ひっくり返す、引き渡す」です。「市場がよくなるまでひっくり返す（引き渡す）」となり、売れなかった家をどうするかという話として意味が通りません。
+2 ring in は「（新年などを）鐘を鳴らして迎える」です。家を売る話とつながらず、意味が通りません。
+4 rain down は「雨のように降り注ぐ」です。物が上から降ってくる様子を表す語で、ネルソン家の人たちが決めたことになりません。
+【覚えるポイント】
+・hold off：「（行動を）先に延ばす、見合わせる」。
+・空所のあとに until ～（～まで）があるときは、「～になるまで、何かを待つ・続ける」という意味の語が入ることが多いです。前の文の「うまくいかなかったこと」と合わせて考えると、答えの手がかりになります。

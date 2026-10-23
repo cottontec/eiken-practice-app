@@ -1,0 +1,29 @@
+---
+choices: Her boss was angry because she made a lot of mistakes. | Her own company took away many of the bank's customers. | The other secretaries became jealous of her success. | The bank discovered that she had started her own business.
+answerText: The bank discovered that she had started her own business.
+reviewed: yes
+---
+【正解】4 The bank discovered that she had started her own business.（銀行が、彼女が自分の事業を始めたことを知った。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：グラハムはなぜ銀行の仕事を失ったのですか。
+1 Her boss was angry because she made a lot of mistakes.（彼女がたくさん間違いをしたので、上司が怒った。）
+2 Her own company took away many of the bank's customers.（彼女自身の会社が、銀行の客を多く奪った。）
+3 The other secretaries became jealous of her success.（ほかの秘書たちが、彼女の成功をねたむようになった。）
+4 The bank discovered that she had started her own business.（銀行が、彼女が自分の事業を始めたことを知った。）
+【考え方】
+グラハムが仕事を失った話は、第3段落にあります。
+その前の部分では、she decided to start a business from her home（彼女は自宅で事業を始めることにした）、She worked hard to make her product better and began selling it.（彼女は製品をよりよくするために懸命に努力し、それを売り始めた）と書かれています。
+そのあとに Eventually, the bank found out about her business, and she lost her job.（やがて、銀行が彼女の事業のことを知り、彼女は仕事を失った）と続きます。find out about ～ は「～について知る、～に気づく」という意味です。
+この文は and で2つのことをつないでいるだけですが、仕事を失ったことについて本文が述べているのはこの文だけで、ほかの理由は書かれていません。「銀行が事業のことを知った」すぐあとに「仕事を失った」と続くので、事業のことが知られたことが仕事を失うきっかけになったと読み取れます。本文と選択肢は次のように対応しています。
+本文 the bank found out about her business（銀行が彼女の事業のことを知った）＝ 選択肢 The bank discovered that she had started her own business（銀行が、彼女が自分の事業を始めたことを知った）
+found out about が discovered に言いかえられています。正解は4です。
+【ほかの選択肢】
+1 本文で間違いの話が出てくるのは、タイプライターで間違いを消すのが難しかったことについてです。間違いが多くて上司が怒ったという話はありません。
+2 グラハムの会社が売っていたのは間違いを直す液体で、銀行の客を奪ったという話は本文にありません。
+3 本文では、ほかの秘書たちはグラハムに液体を分けてほしいと頼んでいます。ねたんだという話はありません。
+【覚えるポイント】
+・find out about ～：「～について知る、～に気づく」。
+・start a business：「事業を始める、商売を始める」。

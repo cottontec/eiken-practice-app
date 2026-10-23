@@ -1,0 +1,20 @@
+---
+choices: chemicals | of | be | free | to
+answerText: of
+order: 5 3 4 2 1
+reviewed: yes
+---
+【正解】2 of（この問題の4番目）
+【完成文】
+She wants her food ( to be free of chemicals ).
+並べ方：5 to → 3 be → 4 free → 2 of → 1 chemicals（2番目は3、4番目は2）
+【和訳】
+デボラは自分の健康に気をつかっていて、健康食品の店で自然の材料を買います。彼女は、自分の食べ物に化学物質が入っていないことを望んでいます。
+【考え方】
+4番目を決めるには、まず free の使い方に注目します。free of ～ は「～が含まれていない、～がない」という意味です。この文では、健康に気をつかうデボラが、食べ物に chemicals（化学物質）が入っていないことを望んでいる、という内容になります。そこで free → of → chemicals の順が決まります。
+次に前半です。空所の前は She wants her food なので、want ＋ もの ＋ to ～（ものが～であってほしい）の形を使います。to のあとには動詞の元の形 be を置き、to be free of chemicals とします。
+並びは 1番目 to、2番目 be、3番目 free、4番目 of、5番目 chemicals です。したがって4番目は2 of です。
+of を free の前に置いて of free とすると、free of ～ の形がくずれて意味が通りません。of は「何がないのか」を示すために free のすぐあとに置き、その次に chemicals を続けます。
+【覚えるポイント】
+・be free of ～：「～が含まれていない、～がない」。
+・natural ingredients：「自然の材料」。

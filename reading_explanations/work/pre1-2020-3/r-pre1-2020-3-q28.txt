@@ -1,0 +1,32 @@
+---
+choices: how hard it was to return the wallet | whether they knew the wallet owner | how much they care about others | whether they would receive a reward
+answerText: how much they care about others
+reviewed: yes
+---
+【正解】3 how much they care about others（自分がほかの人をどれだけ思いやっているか）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 how hard it was to return the wallet（財布を返すのがどれほど大変だったか）
+2 whether they knew the wallet owner（財布の持ち主を知っているかどうか）
+3 how much they care about others（自分がほかの人をどれだけ思いやっているか）
+4 whether they would receive a reward（お礼を受け取れるかどうか）
+【考え方】
+まず見るところ：第3段落の some of the wallets contained a key—something that would only be important to the person who lost it
+第3段落の追加の実験では、財布に入れるお金の額はすべて同じにして、鍵が入っているかどうかだけを変えています。
+some of the wallets contained a key—something that would only be important to the person who lost it—while others did not（財布の中に、鍵――落とした本人にとってだけ大切なもの――が入っているものと、入っていないものがあった）
+鍵は、拾った人にとっては何の役にも立ちませんが、落とした人にとってはとても大切なものです。
+Return rates for wallets containing a key were significantly higher.（鍵が入っている財布が返された割合は、（鍵が入っていない財布より）大幅に高かった）
+自分には得にならないのに財布を返した人が多かったことから、落とした人のことを考えて返した人が多かったと考えられます。
+空所のある文は次のとおりです。
+the most likely reason for this result is that people's honesty was strongly affected by (28)（この結果の最も考えられる理由は、人々の正直さが（28）に強く影響されていたことだ）
+「落とした人にとって大切なものが入っていると、よく返す」という結果の理由としては、「ほかの人をどれだけ思いやっているか」が合います。ですから3が正解です。
+この問題の型：推論（落とした本人にだけ大切な鍵→持ち主を思いやって返す）
+【ほかの選択肢】
+1 「財布を返すのがどれほど大変だったか」は、本文に根拠がありません。追加の実験で変えたのは鍵が入っているかどうかで、返す手間が変わったという話は書かれていません。
+2 「財布の持ち主を知っているかどうか」も、本文に根拠がありません。財布は研究者が道で拾ったふりをして持ち込んだもので、拾った人が持ち主を知っていたかどうかで比べた話は出てきません。
+4 「お礼を受け取れるかどうか」も、本文に根拠がありません。本文にはお礼や報酬の話は出てこず、鍵が入っていると返す割合が高くなったという結果の説明になりません。
+【覚えるポイント】
+・care about ～：「～を気にかける、～を思いやる」。how much they care about others で「ほかの人をどれだけ思いやっているか」です。
+・実験の話では、「何を変えて、結果がどうなったか」を確かめることが大切です。ここでは「鍵（持ち主にだけ大切なもの）があるかどうか」を変えたので、その違いから理由を考えるのが手がかりになります。

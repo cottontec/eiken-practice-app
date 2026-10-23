@@ -1,0 +1,31 @@
+---
+choices: baseline | detention | foresight | refuge
+answerText: refuge
+reviewed: yes
+---
+【正解】4 refuge（保護区、避難所）
+【和訳】
+（英文）
+The local government has just declared Greenwich Valley a wildlife ［refuge］. In an effort to protect animal populations, no hunting will be allowed in the area.
+（訳）
+地元の自治体は、グリニッジ・バレーを野生生物の（保護区）とすると宣言したところだ。動物の数を守ろうとする取り組みとして、その地域では狩りは許されないことになる。
+（選択肢の意味）
+1 baseline：基準線、基準
+2 detention：拘留（人を一定の場所に閉じこめておくこと）、居残り
+3 foresight：先見の明（先のことを見通す力）
+4 refuge：保護区、避難所
+【考え方】
+まず見るところ：後ろの文の In an effort to protect animal populations, no hunting will be allowed
+空所のある文は、自治体がグリニッジ・バレーを野生生物の（　）とすると宣言した、と言っています。declare A B は「AをBだと宣言する」という意味です。
+後ろの文を見ます。
+In an effort to protect animal populations, no hunting will be allowed in the area.（動物の数を守ろうとする取り組みとして、その地域では狩りは許されないことになる）
+狩りを禁止して動物を守る地域なので、「動物が安全に暮らせる場所」だと分かります。
+refuge は「避難所、保護区」という意味で、wildlife refuge で「野生生物の保護区」となります。よって4が正解です。
+この問題の型：言いかえ（wildlife refuge→動物を守り、狩りを禁止する地域）／語の意味・組み合わせ（wildlife refuge）
+【ほかの選択肢】
+1 baseline は「基準線、基準」です。「野生生物の基準」となり、狩りを禁止して動物を守る地域という後ろの文の説明と合いません。
+2 detention は「拘留、居残り」です。人を閉じこめておくことを表す語で、動物を守るために狩りを禁止する場所の名前としては意味が通りません。
+3 foresight は「先見の明」です。人の能力を表す語です。「谷を野生生物の先見の明だと宣言した」では意味が通りません。
+【覚えるポイント】
+・refuge：「避難所、保護区」。wildlife refuge（野生生物の保護区）の組み合わせで覚えるとよいです。
+・declare A B（AをBだと宣言する）のBが空所のときは、後ろの文でその場所がどういう所かを説明していることが多いので、説明の中身（ここでは「動物を守る」「狩り禁止」）から場所を表す語を選ぶと手がかりになります。

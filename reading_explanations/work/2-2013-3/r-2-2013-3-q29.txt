@@ -1,0 +1,27 @@
+---
+choices: regret | research | donate | correct
+answerText: donate
+reviewed: yes
+---
+【正解】3 donate（寄付する）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 regret：後悔する
+2 research：研究する、調べる
+3 donate：寄付する
+4 correct：訂正する、直す
+【考え方】
+空所は本文の最後の文 They usually know how to meet their own needs better than those who (　) it.（彼らはふつう、それを～する人々よりも、自分たち自身の必要をどう満たせばよいかをよく分かっている）にあります。
+They は、直前の文の local people（地元の人々）を指します。直前の文には、the need to allow local people to decide how to spend money（お金の使い方を地元の人々に決めさせる必要）とあります。最後の文の it は、この money（お金）を指すと考えられます。
+最後の文では、地元の人々と those who (　) it（そのお金を～する人々）を比べています。本文で地元の人々と比べられているのは、第1段落の the people giving the money are often not familiar with the actual conditions in a local place（お金を出す人々は、その土地の実際の状況をよく知らないことが多い）に出てくる「お金を出す人々」です。
+donate は「寄付する（お金や品物を差し出す）」という意味で、those who donate it で「そのお金を寄付する人々」となります。お金を出す人よりも、地元の人々のほうが自分たちに必要なことをよく分かっている、という筋が通ります。したがって3が正解です。
+【ほかの選択肢】
+1 regret を入れると「そのお金を後悔する人々」となり、意味が通りません。本文で地元の人々と比べられているのは、お金を出す人々です。
+2 research を入れると「そのお金を研究する人々」となります。お金について研究する人の話は本文になく、第1段落の「お金を出す人々」とのつながりもなくなります。
+4 correct を入れると「そのお金を訂正する人々」となり、意味が通りません。
+【覚えるポイント】
+・donate：「寄付する」。名詞は donation（寄付）。
+・those who ～：「～する人々」。
+・meet one's needs：「（人の）必要を満たす」。

@@ -1,0 +1,30 @@
+---
+choices: segment | maze | accent | elegance
+answerText: segment
+reviewed: yes
+---
+【正解】1 segment（区切り、区間、部分）
+【和訳】
+（英文）
+It took the scientist two weeks to get to the jungle village where he would be doing research. The last ［segment］ of the voyage was a long ride up a river in a small boat.
+（訳）
+その科学者が、研究をすることになっていたジャングルの村にたどり着くまでには、2週間かかった。その旅の最後の（区間）は、小さなボートに乗って川を長くさかのぼるものだった。
+（選択肢の意味）
+1 segment：区切り、区間、部分
+2 maze：迷路
+3 accent：なまり、強調
+4 elegance：上品さ、優雅さ
+【考え方】
+まず見るところ：空所のあとの of the voyage と、その後ろの a long ride up a river
+前半の文で、科学者が村に着くまでに2週間かかったことが書かれています。とても長い旅だったと分かります。
+空所のある文は、次のとおりです。
+The last (　) of the voyage was a long ride up a river in a small boat.（その旅の最後の（　）は、小さなボートに乗って川を長くさかのぼるものだった）
+voyage は「（長い）旅、航海」です。2週間の旅をいくつかに区切ったうち、「最後の部分」が川をボートで進む移動だった、という流れになります。segment は「区切られた一つの部分、区間」という意味なので、the last segment of the voyage で「旅の最後の区間」となり、1が正解です。
+この問題の型：語の意味・組み合わせ（the last segment of the voyage）
+【ほかの選択肢】
+2 maze は「迷路」です。「旅の最後の迷路は、川を長くさかのぼることだった」となり、川をボートで進む移動を「迷路」と呼ぶことになって、意味が通りません。
+3 accent は「なまり、強調」です。「旅の最後のなまり」では意味が通りません。
+4 elegance は「上品さ、優雅さ」です。「旅の最後の上品さは、川を長くさかのぼることだった」となり、旅の一部分を表す言葉になりません。
+【覚えるポイント】
+・segment：「区切り、区間、部分」。the last segment of the voyage で「旅の最後の区間」。
+・The last (　) of ～ was ～ のように、長い出来事の「最後の～は…だった」と説明している文では、全体の中の一部分を表す名詞が入ることが多いです。

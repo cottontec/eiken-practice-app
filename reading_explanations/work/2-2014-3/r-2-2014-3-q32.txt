@@ -1,0 +1,25 @@
+---
+choices: results | experiments | designs | courses
+answerText: results
+reviewed: yes
+---
+【正解】1 results（結果）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 results：結果
+2 experiments：実験
+3 designs：設計、デザイン
+4 courses：講座、進路
+【考え方】
+空所の前の文は The biggest of these is the 1940 census, a study in which officials visited every house in the United States and asked detailed questions about the people who lived there.（その中で最大のものは1940年の国勢調査で、これは、役人がアメリカ合衆国のすべての家を訪れ、そこに住む人々について詳しい質問をした調査だ）です。census は「国勢調査（国が国民の数や暮らしなどを調べる調査）」です。a study in which ～ は「～した調査」と、study（調査）を説明しています。
+空所の文は The (　) can now be accessed for free on the Internet.（その（　）は今では、インターネット上で無料で見ることができる）です。be accessed は「見ることができる、利用できる」、for free は「無料で」です。さらに次の文に Many people use this information to find out more about their ancestors.（多くの人がこの情報を使って、自分の祖先についてもっと知ろうとしている）とあります。
+調査で役人が家々を訪れて質問をすれば、その答えをまとめたものができます。インターネットで見られ、「この情報」として祖先調べに使えるのは、調査の結果です。results は「結果」という意味なので、The results（その調査の結果）となり、前後の文とつながります。正解は1です。
+【ほかの選択肢】
+2 experiments（実験）を入れると「その実験が無料で見られる」となります。しかし国勢調査は、家を訪れて質問をした調査で、実験ではありません。
+3 designs（設計、デザイン）を入れると「その設計が無料で見られる」となります。調査のやり方の設計を見ても、親類の名前などは分からないので、次の文の「この情報を使って祖先を知る」とつながりません。
+4 courses（講座、進路）を入れると「その講座が無料で受けられる」となります。本文には講座の話はなく、意味が通りません。
+【覚えるポイント】
+・census：「国勢調査」。the 1940 census で「1940年の国勢調査」。
+・for free：「無料で」。

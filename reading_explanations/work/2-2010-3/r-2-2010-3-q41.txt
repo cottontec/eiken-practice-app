@@ -1,0 +1,31 @@
+---
+choices: He hoped to sell them to Howard Hughes's airline company. | Ships carrying men and equipment were often attacked. | Such airplanes could be used to sink enemy submarines. | It was becoming expensive for him to make ships.
+answerText: Ships carrying men and equipment were often attacked.
+reviewed: yes
+---
+【正解】2 Ships carrying men and equipment were often attacked.（兵士や装備を運ぶ船が、たびたび攻撃されていたから。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ヘンリー・J・カイザーは、なぜ第二次世界大戦中に巨大な飛行機を造りたいと思ったのですか。
+1 He hoped to sell them to Howard Hughes's airline company.（ハワード・ヒューズの航空会社に売りたいと思ったから。）
+2 Ships carrying men and equipment were often attacked.（兵士や装備を運ぶ船が、たびたび攻撃されていたから。）
+3 Such airplanes could be used to sink enemy submarines.（そのような飛行機は、敵の潜水艦を沈めるのに使えるから。）
+4 It was becoming expensive for him to make ships.（船を造るのが、彼にとってお金のかかることになってきていたから。）
+【考え方】
+カイザーのアイデアは、第1段落に書かれています。
+まず、アメリカは the country found it necessary to send soldiers and supplies across the Atlantic Ocean to Europe（兵士と物資を大西洋の向こうのヨーロッパへ送る必要があると気づいた）とあります。supplies は「物資（必要な品物）」です。
+次に Many of the ships it used, however, were sunk by German submarines.（しかし、アメリカが使った船の多くは、ドイツの潜水艦に沈められた）とあります。sunk は sink（沈める）が「～される」の形になったもので、were sunk で「沈められた」です。submarine は「潜水艦（海の中を進む船）」です。
+そこでカイザーは came up with the idea of building huge airplanes that could be used instead of ships to carry the troops and equipment（兵隊と装備を運ぶために、船の代わりに使える巨大な飛行機を造るというアイデアを思いついた）のです。instead of ～ は「～の代わりに」です。
+つまり、兵士や物資を運ぶ船が潜水艦に次々と沈められていたので、船の代わりに飛行機で運ぼうと考えたのです。本文と選択肢は次のように対応しています。
+本文 Many of the ships it used ～ were sunk by German submarines（使った船の多くはドイツの潜水艦に沈められた）＝ 選択肢 Ships ～ were often attacked（船がたびたび攻撃された）
+本文 to send soldiers and supplies（兵士と物資を送る）／ to carry the troops and equipment（兵隊と装備を運ぶ）＝ 選択肢 carrying men and equipment（兵士や装備を運ぶ）
+正解は2です。
+【ほかの選択肢】
+1 カイザーはヒューズに suggested that they build such a plane together（2人でそのような飛行機を造ろうと提案した）とあります。ヒューズに売るのではなく、いっしょに造ろうとしたのです。また、ヒューズは「大富豪で飛行機の設計者」と紹介されていて、航空会社の話は本文にありません。
+3 飛行機を造る目的は、船の代わりに兵隊と装備を運ぶことです。潜水艦を沈めるために使うという話はないので、誤りです。
+4 カイザーは造船業者ですが、船を造るのにお金がかかるようになったという話は本文にありません。理由は、船が潜水艦に沈められたことなので、誤りです。
+【覚えるポイント】
+・come up with ～：「（考えなど）を思いつく」。
+・instead of ～：「～の代わりに」。

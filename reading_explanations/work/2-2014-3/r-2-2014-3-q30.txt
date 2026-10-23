@@ -1,0 +1,26 @@
+---
+choices: disappointing | complicated | helpful | available
+answerText: complicated
+reviewed: yes
+---
+【正解】2 complicated（複雑な、こみ入った）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 disappointing：がっかりさせる
+2 complicated：複雑な、こみ入った
+3 helpful：役に立つ
+4 available：手に入る、利用できる
+【考え方】
+第1段落の2文目に、Finding out about one's ancestors, though, was often very difficult in the past.（しかし、昔は、自分の祖先について調べることはとても難しい場合が多かった）とあります。ancestors は「祖先」です。ここから、そのあとには「なぜ難しかったのか」の説明が続くと考えられます。
+空所の前の文は Nearly all Americans have ancestors who were immigrants from various countries.（ほぼすべてのアメリカ人には、さまざまな国からやってきた移民の祖先がいる）です。immigrants は「移民（ほかの国から移り住んできた人）」です。空所の文は Because of this, their family histories are often (　).（このため、彼らの家族の歴史は（　）ことが多い）で、this は「祖先がさまざまな国から来た移民であること」を指しています。
+祖先がいろいろな国から来ていれば、家族の歴史をたどるのは入り組んでいて分かりにくくなります。さらに、次の文は Moreover（さらに）で始まり、「記録が国内の別々の場所に保管されていた」という、もう1つの調べにくさを付け加えています。Moreover は前と同じ向きの内容を付け足す語なので、空所の文も「調べにくさ」を表しているはずです。
+complicated は「複雑な、こみ入った」という意味です。their family histories are often complicated で「家族の歴史は複雑なことが多い」となり、祖先を調べるのが難しかった理由として自然です。正解は2です。
+【ほかの選択肢】
+1 disappointing（がっかりさせる）を入れると「家族の歴史はがっかりさせるものであることが多い」となります。祖先がさまざまな国から来たことは、がっかりする理由にはなりません。また、調べるのが難しかった理由の説明にもなりません。
+3 helpful（役に立つ）を入れると「家族の歴史は役に立つことが多い」となります。「調べるのが難しかった」という流れや、Moreover のあとの調べにくさの話と合いません。
+4 available（手に入る、利用できる）を入れると「家族の歴史は手に入ることが多い」となります。これは「調べるのが難しかった」という内容と反対になります。
+【覚えるポイント】
+・complicated：「複雑な、こみ入った」。
+・Moreover：「さらに、そのうえ」。前と同じ向きの内容を付け加えるときに使います。

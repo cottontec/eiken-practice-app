@@ -1,0 +1,22 @@
+---
+choices: to study | rather | decided | than | economics
+answerText: to study
+order: 3 1 5 2 4
+reviewed: yes
+---
+【正解】1 to study（この問題の2番目）
+【完成文】
+Jessica thought about studying art in college, but she was worried that it would be difficult to find a job after graduating. In the end, she ( decided to study economics rather than ) art.
+並べ方：3 decided → 1 to study → 5 economics → 2 rather → 4 than（2番目は1、4番目は2）
+【和訳】
+ジェシカは大学で美術を勉強することを考えましたが、卒業したあとに仕事を見つけるのが難しいだろうと心配していました。結局、彼女は美術ではなく経済学を勉強することに決めました。
+【考え方】
+最初の文で、ジェシカは美術を勉強しようと考えたものの、卒業後に仕事を見つけるのが難しいのではないかと心配していました。次の文の In the end（結局）のあとで、どうしたかが書かれます。
+空所の前は she なので、まず動詞の 3 decided（決めた）を置きます。decide to ～ で「～することに決める」となるので、続けて 1 to study を置きます。
+次に、何を勉強することに決めたのかです。選択肢に 5 economics（経済学）と 2 rather、4 than があります。A rather than B は「BよりもむしろA、BではなくA」という意味です。空所のあとに art があるので、economics rather than art（美術ではなく経済学）とします。
+こうして she decided to study economics rather than art（美術ではなく経済学を勉強することに決めた）となり、仕事を見つけるのが心配だったという最初の文ともつながります。
+2番目に 1 to study が来るのは、decided（決めた）のあとには「何をすることに決めたか」を to ＋ 動詞の形で続けるからです。
+まちがえやすいのは、decided to study rather than economics とする並べ方です。こうすると「経済学よりも」となってしまい、空所のあとの art が文の最後に余って、文がつながりません。rather than のあとに来るのは、選ばなかったほうの art です。
+【覚えるポイント】
+・A rather than B：「BよりもむしろA、BではなくA」。
+・decide to ～：「～することに決める」。

@@ -1,0 +1,27 @@
+---
+choices: to visit | visiting | been visited | visited
+answerText: visited
+reviewed: yes
+---
+【正解】4 visited（訪れた（having visited で「訪れたことがあったので」））
+【和訳】
+（英文）
+Having ［visited］ London before, Harry knew how to get from the airport to his hotel.
+（訳）
+ハリーは以前ロンドンを訪れたことがあったので、空港からホテルへの行き方を知っていました。
+（選択肢の意味）
+1 to visit：訪れること、訪れるために
+2 visiting：訪れること、訪れている
+3 been visited：（having been visited で）訪れられたことがあったので
+4 visited：（having visited で）訪れたことがあったので
+【考え方】
+この文は Having (　) London before, で始まり、そのあとに Harry knew how to get from the airport to his hotel（ハリーは空港からホテルへの行き方を知っていた）が続きます。how to get from A to B は「AからBへの行き方」です。
+文のはじめの Having ～, は、分詞構文（接続詞と主語を省いて、～ing の形で文の前半を作る形）です。Having ＋ 過去分詞（visited などの形）にすると、「（それより前に）～したことがあったので」という意味になり、文の中心の knew（知っていた）よりも前の出来事を表します。
+ハリーが行き方を知っていたのは、以前にロンドンを訪れたことがあったからだと考えると、話がつながります。Having visited London before で「以前ロンドンを訪れたことがあったので」となり、Because he had visited London before と同じような意味になります。正解は4です。
+【ほかの選択肢】
+1 to visit を入れると Having to visit London となり、「ロンドンを訪れなければならないので」という意味になります。before（以前に）とも、「行き方を知っていた」という後半ともつながりません。
+2 visiting を入れると Having visiting となります。having のあとに ～ing の形を続ける言い方はしないので、文が成り立ちません。
+3 been visited を入れると Having been visited London となり、「訪れられた」という受け身（～される、という形）になります。ハリーは自分でロンドンを訪れた人なので、受け身では合いません。また、受け身のあとに London を続けることもできません。
+【覚えるポイント】
+・Having ＋ 過去分詞, ～：「（前に）…したことがあったので、～」。文の中心の動詞より前のことを表します。
+・how to get from A to B：「AからBへの行き方」。

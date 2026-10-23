@@ -1,0 +1,24 @@
+---
+choices: danger | place | front | spite
+answerText: spite
+reviewed: yes
+---
+【正解】4 spite（in spite of ～で「～にもかかわらず」）
+【和訳】
+晴れたすばらしい天気だったにもかかわらず、ジョンと私は一日じゅう家にいて、本を読んでいました。
+（選択肢の意味）
+1 danger：危険（in danger of ～：～の危険がある）
+2 place：場所（in place of ～：～の代わりに）
+3 front：前（in front of ～：～の前に）
+4 spite：悪意（in spite of ～：～にもかかわらず）
+【考え方】
+空所は In (　) of ～ の形の中にあります。どの語を入れても「in ＋ 名詞 ＋ of」の決まった言い方になるので、それぞれの意味を文に当てはめて考えます。
+of のあとは the beautiful sunny weather（晴れたすばらしい天気）です。そのあとの文は John and I stayed in the house all day reading books（ジョンと私は一日じゅう家にいて本を読んでいた）です。
+晴れた日なら、ふつうは外に出かけたくなるはずです。それなのに家にいた、というのは、予想と反対のことです。このように「～なのに、～にもかかわらず」を表すのが in spite of ～ です。正解は4です。
+【ほかの選択肢】
+1 in danger of ～ は「～の危険がある」です。「すばらしい天気の危険があって」となり、意味が通りません。
+2 in place of ～ は「～の代わりに」です。「すばらしい天気の代わりに家にいた」となり、天気と家にいることは取りかえられるものではないので合いません。
+3 in front of ～ は「～の前に」で、場所を表します。「すばらしい天気の前で家にいた」となり、意味が通りません。
+【覚えるポイント】
+・in spite of ～：「～にもかかわらず」。despite ～ とほぼ同じ意味です。
+・stay in the house all day ～ing：「一日じゅう家で～して過ごす」。

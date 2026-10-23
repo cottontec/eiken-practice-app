@@ -1,0 +1,32 @@
+---
+choices: will create jobs | costs less money | is better for people's health | is just the beginning
+answerText: will create jobs
+reviewed: yes
+---
+【正解】1 will create jobs（仕事を生み出すだろう）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 will create jobs（仕事を生み出すだろう）
+2 costs less money（お金がかからない）
+3 is better for people’s health（人々の健康によい）
+4 is just the beginning（ほんの始まりにすぎない）
+【考え方】
+まず見るところ：第3段落の Finally, using kulhads ( 23 ). のあとの2つの文
+Finally, using kulhads ( 23 ).（最後に、クルハッドを使うことは（23））
+第3段落は There are several reasons why kulhads are better than plastic teacups.（クルハッドがプラスチックのティーカップよりすぐれている理由がいくつかある）で始まり、First（第一に）、Second（第二に）、Finally（最後に）と理由を順に挙げています。空所には3つ目の理由が入ります。
+その中身は、空所のあとの2つの文で説明されています。
+Plastic cups are made with machines, but kulhads are made by hand.（プラスチックのカップは機械で作られるが、クルハッドは手で作られる）
+The Indian government estimates that hundreds of thousands of people will get extra work because of this change.（インド政府は、この変化によって何十万人もの人々が追加の仕事を得るだろうと見積もっている）
+手で作るクルハッドを使えば、それを作る人の仕事が増えます。「何十万人もの人々が追加の仕事を得る」は、「仕事を生み出す」ということです。
+本文 hundreds of thousands of people will get extra work ＝ 選択肢 will create jobs
+ですから、1が正解です。
+この問題の型：言いかえ（追加の仕事を得る ＝ 仕事を生み出す）、具体例とまとめ（空所のあとの説明から理由をまとめる）
+【ほかの選択肢】
+2 「お金がかからない」は、本文に書かれていません。値段の比較は出てこず、空所のあとの「手で作られる」「追加の仕事を得る」という説明ともつながりません。
+3 「人々の健康によい」も、本文にはありません。第二の理由に the clay that kulhads are made from actually improves the flavor of the tea（粘土がお茶の風味をよくする）とありますが、これは味の話で、健康の話ではありません。
+4 「ほんの始まりにすぎない」は、Finally（最後に）で始まる3つ目の「すぐれている理由」になりません。また、空所のあとの「手で作られる」「追加の仕事を得る」という説明ともつながりません。
+【覚えるポイント】
+・First, Second, Finally：理由を順に挙げる合図です。空所があとの文の内容をまとめる位置にあるときは、空所のあとの文が、その理由の中身を説明している手がかりになります。
+・hundreds of thousands of ～：「何十万もの～」。

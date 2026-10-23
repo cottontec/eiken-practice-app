@@ -1,0 +1,31 @@
+---
+choices: began showing signs of disease | began making the aquarium fish sick | was used for another purpose | seems to have been accidentally released
+answerText: seems to have been accidentally released
+reviewed: yes
+---
+【正解】4 seems to have been accidentally released（誤って外に放たれてしまったようだ）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 began showing signs of disease（病気の兆候〔しるし〕を見せ始めた）
+2 began making the aquarium fish sick（水族館の魚を病気にし始めた）
+3 was used for another purpose（別の目的に使われた）
+4 seems to have been accidentally released（誤って外に放たれてしまったようだ）
+【考え方】
+まず見るところ：空所のあとの found growing in the Mediterranean Sea outside an aquarium と、as a result of human carelessness
+空所は第1段落の At some point, however, the seaweed (29).（しかし、ある時点で、その海藻は（29））です。however（しかし）があるので、その前の「水族館で役に立ち、ほかの施設でも使われた」という話とは違う方向の出来事が続くと考えられます。
+In 1984, a single square meter of Caulerpa was found growing in the Mediterranean Sea outside an aquarium in Monaco.（1984年、モナコの水族館の外の地中海で、わずか1平方メートルのカウレルパが生えているのが見つかった）
+It had most likely entered the ecosystem by being washed down a drain as a result of human carelessness.（それはおそらく、人間の不注意の結果として、排水口から流されることによって生態系に入りこんだのだろう）
+水族館の中で育てられていた海藻が、水族館の「外の海」で見つかっています。しかも、人の不注意で排水口から流されたと考えられています。本文と選択肢を対にすると、次のようになります。
+・本文 as a result of human carelessness（人間の不注意の結果として）→ 言いかえると → 選択肢 accidentally（誤って、うっかり）
+・本文 found growing in the Mediterranean Sea outside an aquarium（水族館の外の海で生えているのが見つかった）→ 読み取れること → 選択肢 released（外に放たれた）
+また、本文の most likely（おそらく）という言い方に合わせて、選択肢でも seems to（～のようだ）と、言い切らない形になっています。ですから4が正解です。
+この問題の型：具体例とまとめ（排水口から海へ流された → 誤って放たれた）
+【ほかの選択肢】
+1 「病気の兆候を見せ始めた」という話は、本文にありません。むしろカウレルパは海で広がり続けています。
+2 「水族館の魚を病気にし始めた」という話も、本文にありません。第2段落で書かれているのは、海の中で在来の海藻を押しのけ、生物をおびやかしたことです。
+3 「別の目的に使われた」では、空所のあとの「水族館の外の海で見つかった」「人間の不注意で排水口から流された」という内容につながりません。
+【覚えるポイント】
+・accidentally：「誤って、うっかり」。release は「放す、外に出す」です。
+・however のあとの空所は、そのすぐあとに続く具体的な出来事（ここでは、水族館の外の海で見つかったこと）をまとめた内容になることが多いので、あとの文を先に読んでから選びましょう。

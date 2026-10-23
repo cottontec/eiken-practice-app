@@ -1,0 +1,32 @@
+---
+choices: violence | affection | insurance | punishment
+answerText: insurance
+reviewed: yes
+---
+【正解】3 insurance（保険）
+【和訳】
+（英文）
+Before Sylvia traveled to Canada, she made sure to get some good ［insurance］ for overseas travel in case something happened to her or her baggage.
+（訳）
+シルビアはカナダへ旅行する前に、自分自身や自分の荷物に何かが起こった場合に備えて、必ずしっかりした海外旅行の（保険）に入るようにしました。
+（選択肢の意味）
+1 violence：暴力
+2 affection：愛情
+3 insurance：保険
+4 punishment：罰
+【考え方】
+まず見るところ：空所のあとの for overseas travel と、in case something happened to her or her baggage
+in case something happened to her or her baggage（彼女自身や彼女の荷物に何かが起こった場合に備えて）
+in case ～ は「～する場合に備えて」という意味です。旅行の前に、けがや病気、荷物がなくなるなどの「もしものとき」に備えて手に入れておくものが、空所に入ります。
+Sylvia made sure to get some good (　) for overseas travel（シルビアは、海外旅行のためのよい（　）を必ず手に入れるようにした）
+made sure to ～ は「必ず～するようにした」です。
+insurance は「保険（お金をはらっておき、事故や病気などのときにお金を受け取れるしくみ）」です。「何かあった場合に備えて、よい海外旅行保険に入った」となり、文の意味が自然につながるので、3が正解です。
+この問題の型：因果（もしもに備える→保険）、語の意味・組み合わせ（insurance for ～）
+【ほかの選択肢】
+1 violence は「暴力」です。旅行の前に暴力を手に入れるという話は意味が通らず、「もしものときに備える」こととも合いません。
+2 affection は「愛情」です。「海外旅行のための愛情を得る」では意味が通らず、荷物に何かあった場合の備えにもなりません。
+4 punishment は「罰」です。旅行の前に罰を得るのは、何かあった場合の備えになりません。
+【覚えるポイント】
+・insurance：「保険」。travel insurance は「旅行保険」です。
+・次に同じ形が出たら：in case ～（～に備えて）のあとに「何か起こるかもしれないこと」が書かれているときは、その備えとして前もって手に入れておくものは何かを考えると、手がかりになります。
+・made sure to ～：「必ず～するようにした」。

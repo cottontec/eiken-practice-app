@@ -1,0 +1,28 @@
+---
+choices: a new hope for | less common in | a big concern for | easier to cure in
+answerText: a big concern for
+reviewed: yes
+---
+【正解】3 a big concern for（～にとっての大きな心配の種）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 a new hope for（～にとっての新しい希望）
+2 less common in（～では以前ほど多く見られない）
+3 a big concern for（～にとっての大きな心配の種）
+4 easier to cure in（～では以前より治しやすい）
+【考え方】
+空所は第1段落の One type of bacteria, called MRSA, has become (21) hospitals and nursing homes.（MRSAと呼ばれるある種類の細菌は、病院や老人ホームにとって（21）になっている）です。MRSAが病院や老人ホームにとってどんなものになったのかを考えます。
+まず、空所の前の文に there are now many new types of bacteria that cannot be killed with antibiotics（今では抗生物質で殺せない新しい種類の細菌がたくさんある）とあります。MRSAは、その例として出てきています。
+次に、空所のすぐあとの文を見ます。
+・MRSA spreads easily where there are many sick people in one place（MRSAは病気の人が1か所にたくさんいる場所で簡単に広がる）
+・it cannot be treated using traditional antibiotic drugs（従来の抗生物質の薬では治療できない）
+病院や老人ホームは、病気の人が1か所にたくさんいる場所です。そこで簡単に広がり、しかも治療できないのですから、MRSAは病院や老人ホームにとって大きな心配ごとだと考えられます。さらに、As a result（その結果）、科学者が新しい薬を探しているという流れにもつながります。よって3が正解です。
+【ほかの選択肢】
+1 「～にとっての新しい希望」を入れると、「MRSAは病院や老人ホームにとって新しい希望になっている」となります。MRSAは簡単に広がって治療できない細菌なので、希望とは反対です。
+2 「～では以前ほど多く見られない」を入れると、「MRSAは病院や老人ホームでは以前ほど見られなくなった」となります。しかし、すぐあとに MRSA spreads easily（簡単に広がる）とあり、食い違います。
+4 「～では以前より治しやすい」を入れると、「病院や老人ホームでは以前より治しやすくなった」となります。しかし、すぐあとに it cannot be treated using traditional antibiotic drugs（従来の抗生物質では治療できない）とあり、反対の内容です。
+【覚えるポイント】
+・concern：「心配（ごと）、気がかり」。a big concern for ～ で「～にとっての大きな心配の種」。
+・空所のすぐあとの文が、空所の内容をくわしく説明していることがよくあります。

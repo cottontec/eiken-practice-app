@@ -1,0 +1,29 @@
+---
+choices: Some people think that making healthy foods cheaper would work better than a tax. | Health experts say that we should eat more dairy products than other foods. | Some kinds of fruit and vegetables are as unhealthy as meat. | Many people buy unhealthy foods to avoid paying high taxes.
+answerText: Some people think that making healthy foods cheaper would work better than a tax.
+reviewed: yes
+---
+【正解】1 Some people think that making healthy foods cheaper would work better than a tax.（健康的な食べ物をもっと安くするほうが、税金よりもうまくいくだろうと考える人もいる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：次の記述のうち正しいものはどれですか。
+1 Some people think that making healthy foods cheaper would work better than a tax.（健康的な食べ物をもっと安くするほうが、税金よりもうまくいくだろうと考える人もいる。）
+2 Health experts say that we should eat more dairy products than other foods.（健康の専門家たちは、私たちはほかの食べ物よりも乳製品を多く食べるべきだと言っている。）
+3 Some kinds of fruit and vegetables are as unhealthy as meat.（ある種の果物や野菜は、肉と同じくらい健康によくない。）
+4 Many people buy unhealthy foods to avoid paying high taxes.（多くの人は、高い税金を払うのを避けるために、健康によくない食べ物を買う。）
+【考え方】
+本文全体の内容と、1つずつ照らし合わせます。手がかりは第2段落の最後の文です。
+Such critics believe that the government should instead try to make healthy foods, such as vegetables, cheaper.（こうした批判をする人々は、政府はそうする代わりに、野菜のような健康的な食べ物をもっと安くしようとするべきだと考えている）
+critic は「批判する人」です。この段落では、脂肪への税金に反対する健康の専門家や酪農家のことを指しています。instead（その代わりに）は、「脂肪に税金をかける代わりに」という意味です。この人々は、税金ではなく健康的な食べ物をもっと安くするほうがよい、と考えています。本文と選択肢は次のように対応しています。
+本文 Such critics believe（こうした批判をする人々は考えている）＝ 選択肢 Some people think（考える人もいる）
+本文 should instead try to make healthy foods ～ cheaper（その代わりに健康的な食べ物をもっと安くしようとするべきだ）＝ 選択肢 making healthy foods cheaper would work better than a tax（健康的な食べ物をもっと安くするほうが税金よりもうまくいくだろう）
+正解は1です。
+【ほかの選択肢】
+2 健康の専門家たちは「それぞれの食べ物を別々に考えるべきで、脂肪の量だけを気にするべきではない」と言っています。乳製品をほかの食べ物より多く食べるべきだとは言っていません。
+3 本文では、野菜は healthy foods（健康的な食べ物）の例として挙げられています。また、肉の話は本文に出てきません。
+4 本文では、多くの人が税金のせいで高くなった食べ物を、外国で買うようになったと書かれています。高い税金を避けるために健康によくない食べ物を買う、という話はありません。
+【覚えるポイント】
+・instead：「その代わりに、そうではなく」。前に述べたことの代わりになる考えを示します。
+・make ～ cheaper：「～をより安くする」。make A B（AをBにする）の形です。

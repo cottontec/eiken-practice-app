@@ -1,0 +1,34 @@
+---
+choices: Landowners ordered many of their workers to cross the border to farm in order to increase certain harvests. | A legal ruling in 1992 forced wealthy landowners to give up some of their land in border areas. | The Salvadoran government began taking possession of land that belonged to both rich people and poor villagers. | Poor Salvadoran farmers were unable to secure land for themselves and so were forced to farm there.
+answerText: Poor Salvadoran farmers were unable to secure land for themselves and so were forced to farm there.
+reviewed: yes
+---
+【正解】4 Poor Salvadoran farmers were unable to secure land for themselves and so were forced to farm there.（貧しいエルサルバドルの農民たちは、自分たちの土地を確保できず、そのため、そこで農業をせざるをえなかった。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What was the reason people originally began migrating to La Nahuaterique?（人々がもともとラ・ナワテリケへ移り住み始めた理由は何でしたか。）
+1 Landowners ordered many of their workers to cross the border to farm in order to increase certain harvests.（地主たちが、ある作物の収穫を増やすために、多くの労働者に、国境を越えて農業をするよう命じた。）
+2 A legal ruling in 1992 forced wealthy landowners to give up some of their land in border areas.（1992年の法的な判決によって、裕福な地主たちは、国境地域にある土地の一部を手放さざるをえなくなった。）
+3 The Salvadoran government began taking possession of land that belonged to both rich people and poor villagers.（エルサルバドル政府が、裕福な人々と貧しい村人の両方が持っていた土地を、自分のものにし始めた。）
+4 Poor Salvadoran farmers were unable to secure land for themselves and so were forced to farm there.（貧しいエルサルバドルの農民たちは、自分たちの土地を確保できず、そのため、そこで農業をせざるをえなかった。）
+【考え方】
+まず見るところ：第1段落の the shortage of land left many farmers no choice but to migrate to the borderlands
+設問の began migrating（移り住み始めた）は、第1段落に出てきます。ancestors began migrating to La Nahuaterique and the surrounding area a century ago（祖先は100年前に、ラ・ナワテリケとその周りの地域へ移り住み始めた）とあり、その理由が次の文に書かれています。
+The best agricultural land in El Salvador at the time was generally controlled by wealthy landowners, and the shortage of land left many farmers no choice but to migrate to the borderlands to support themselves.（当時、エルサルバドルの最もよい農地は、たいてい裕福な地主たちに支配されており、土地が足りないために、多くの農民には、自分たちの生活を支えるために国境地帯へ移り住むしか道がなかった）
+leave ～ no choice but to … は「～に…するしか道を残さない」、つまり「～は…するしかなかった」という意味です。
+There, they created farms where their families managed to survive by growing corn, coffee, and beans.（そこで彼らは農場を作り、彼らの家族は、トウモロコシやコーヒー、豆を育てることで、なんとか生き延びた）
+本文と選択肢を対にすると、次のようになります。
+本文 the shortage of land（土地が足りないこと）→ 選択肢 were unable to secure land for themselves（自分たちの土地を確保できなかった）
+本文 left many farmers no choice but to migrate（多くの農民には移り住むしか道がなかった）→ 選択肢 were forced to（～せざるをえなかった）
+本文 they created farms（農場を作った）→ 選択肢 farm there（そこで農業をする）
+よって4が正解です。
+この問題の型：言いかえ（no choice but to → were forced to）／因果（土地が足りない→国境地帯へ移り住む）
+【ほかの選択肢】
+1 本文にありません。地主たちはよい土地を支配していたと書かれているだけで、労働者に国境を越えて農業をするよう命じたという話はありません。
+2 時期と内容が違います。1992年の判決は、この地域を正式にホンジュラスの一部としたもので、移住が始まったのは、それよりずっと前の約100年前です。また、地主が土地を手放したという話もありません。
+3 本文にありません。エルサルバドル政府が人々の土地を取り上げたという話はなく、土地を支配していたのは裕福な地主たちです。
+【覚えるポイント】
+・leave ～ no choice but to …：「～は…するしかない」。選択肢では be forced to …（…せざるをえない）と言いかえられています。
+・「理由」をたずねる設問では、設問の言葉（ここでは began migrating）が本文のどこにあるかを見つけ、その前後の文に書かれた事情を確かめると手がかりになります。年や時期が出てくる選択肢は、本文の時期と合っているかも確かめましょう。

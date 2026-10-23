@@ -1,0 +1,30 @@
+---
+choices: detain | deflect | uphold | elect
+answerText: uphold
+reviewed: yes
+---
+【正解】3 uphold（（約束・決まりなどを）守る、支持する）
+【和訳】
+（英文）
+The university's new president said she will ［uphold］ her promise to protect academic freedom. "Staff and students," she said, "should be able to discuss their views openly."
+（訳）
+その大学の新しい学長は、学問の自由を守るという約束を（守る）と言った。「教職員と学生は」と彼女は言った。「自分の意見を自由に話し合えるべきです。」
+（選択肢の意味）
+1 detain：引き止める、（人を）とらえておく
+2 deflect：（向きを）そらす
+3 uphold：（約束・決まりなどを）守る、支持する
+4 elect：（投票で）選ぶ
+【考え方】
+まず見るところ：空所の後ろの her promise to protect academic freedom
+she will ( ) her promise to protect academic freedom（学問の自由を守るという約束を（　）するつもりだ）
+president はここでは「学長」、academic freedom は「学問の自由（研究したり意見を述べたりすることを、外からおさえつけられない自由）」という意味です。空所に入る動詞の目的語（動詞の後ろにきて「～を」に当たる語）は her promise（彼女の約束）です。
+"Staff and students," she said, "should be able to discuss their views openly."（「教職員と学生は、自分の意見を自由に話し合えるべきです」と彼女は言った）
+学長は、学問の自由を大切にする考えをはっきり述べています。ですから、その約束を「守る」と言ったと考えられます。uphold は「（約束・決まりなどを）守る、支持する」なので、3が正解です。
+この問題の型：語の意味・組み合わせ（uphold a promise）
+【ほかの選択肢】
+1 detain は「引き止める、（人を）とらえておく」です。「約束を引き止める」となり、意味が通りません。
+2 deflect は「（向きを）そらす」です。「約束をそらす」となり、後ろの発言で学問の自由を大切にすると述べていることと合いません。
+4 elect は「（投票で）選ぶ」です。学長が「約束を投票で選ぶ」となり、意味が通りません。
+【覚えるポイント】
+・uphold：「（約束・決まり・考えなどを）守る、支持する」。uphold a promise で「約束を守る」。
+・promise（約束）と組む動詞の空所では、後ろの発言がその約束を大切にしているかどうかを確かめると手がかりになります。

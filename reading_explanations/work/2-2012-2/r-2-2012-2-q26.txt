@@ -1,0 +1,25 @@
+---
+choices: scientific | embarrassing | scary | temporary
+answerText: scary
+reviewed: yes
+---
+【正解】3 scary（恐ろしい、怖い）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 scientific：科学的な
+2 embarrassing：恥ずかしい、きまりの悪い
+3 scary：恐ろしい、怖い
+4 temporary：一時的な
+【考え方】
+空所は第1段落の3文目、Historians say this (　) image began when Theodore Roosevelt ... visited Brazil in 1913.（歴史家たちは、この～なイメージは、セオドア・ルーズベルトが1913年にブラジルを訪れたときに始まったと言っている）にあります。
+this image（このイメージ）とあるので、その前の文で説明されたピラニアのイメージを指していると考えます。前の文には People think of them as aggressive and dangerous（人々はピラニアを攻撃的で危険なものと考えている）、they are often shown attacking and eating people in novels and films（小説や映画では人を襲って食べる姿がよく描かれる）とあります。どちらも、ピラニアが「恐ろしい」というイメージです。
+また、第2段落の1文目では、同じイメージが this frightening reputation（この恐ろしい評判）と言いかえられています。frightening は「恐ろしい」という意味で、scary とほぼ同じ意味です。scary を入れると「この恐ろしいイメージ」となり、前後の内容と合うので、3が正解です。
+【ほかの選択肢】
+1 scientific は「科学的な」です。このイメージは小説や映画、漁師の見せた出来事から生まれたもので、第2段落では研究者たちが「大げさだ」と言っています。「この科学的なイメージ」とすると、本文の内容と反対になります。
+2 embarrassing は「恥ずかしい、きまりの悪い」です。前の文で述べられているのは「攻撃的で危険」というイメージで、恥ずかしいという内容ではありません。
+4 temporary は「一時的な」です。このイメージは1913年に始まり、第1段落の1文目で generally have a very bad reputation（一般にとても評判が悪い）と今のこととして書かれています。今も続いているので、「一時的な」では合いません。
+【覚えるポイント】
+・scary：「恐ろしい、怖い」。frightening、terrifying なども似た意味です。
+・think of A as B：「AをBだと考える」。

@@ -1,0 +1,32 @@
+---
+choices: Bring their baby to the health department on a specific day of the month. | Take their health insurance information with them to the health department. | Get an e-mail from the doctor's office saying that the baby needs vaccines. | Bring their baby to the doctor's office when he or she has a high temperature.
+answerText: Bring their baby to the health department on a specific day of the month.
+reviewed: yes
+---
+【正解】1 Bring their baby to the health department on a specific day of the month.（月の決まった日に、赤ちゃんを保健局へ連れて行く。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：赤ちゃんに無料のワクチンを受けさせたい場合、親はどうすればよいですか。
+1 Bring their baby to the health department on a specific day of the month.（月の決まった日に、赤ちゃんを保健局へ連れて行く。）
+2 Take their health insurance information with them to the health department.（健康保険の情報を保健局へ持って行く。）
+3 Get an e-mail from the doctor's office saying that the baby needs vaccines.（赤ちゃんにワクチンが必要だという内容のEメールを、お医者さんの診療所から受け取る。）
+4 Bring their baby to the doctor's office when he or she has a high temperature.（赤ちゃんの体温が高いときに、お医者さんの診療所へ連れて行く。）
+【考え方】
+設問のキーワードは free vaccine（無料のワクチン）です。第3段落を見ます。
+・We do give vaccines for babies for free（私たちは赤ちゃん向けのワクチンを確かに無料で接種しています）
+・if you do not have health insurance, you can bring your baby here for his vaccines（健康保険に入っていない場合は、ワクチンのために赤ちゃんをこちらへ連れて来ることができます）
+・Vaccines are only given on the first Tuesday of every month.（ワクチンは毎月第1火曜日にだけ接種しています）
+We（私たち）と here（こちら）は、このメールを書いている保健局のことです。保健局では無料でワクチンを受けられますが、接種する日は毎月第1火曜日だけと決まっています。
+本文と選択肢を対にすると、次のようになります。
+本文 bring your baby here（こちら〔保健局〕へ赤ちゃんを連れて来る）＝ 選択肢 Bring their baby to the health department
+本文 the first Tuesday of every month（毎月第1火曜日）→ 選択肢 a specific day of the month（月の決まった日）
+ですから、1が正解です。
+【ほかの選択肢】
+2 健康保険の情報を持って行くという話は、本文にありません。本文では、保健局でワクチンを受けられるのは if you do not have health insurance（健康保険に入っていない場合）と書かれています。
+3 診療所からEメールを受け取るという話は、本文にありません。
+4 本文には The baby's temperature must be under 37.5°C in order to get the vaccine.（ワクチンを受けるためには、赤ちゃんの体温が37.5℃未満でなければならない）とあります。体温が高いときに連れて行くのは、この条件と反対です。
+【覚えるポイント】
+・for free：「無料で」。
+・the first Tuesday of every month：「毎月第1火曜日」。選択肢では a specific day of the month（月の決まった日）と、まとめた言い方に変わっています。

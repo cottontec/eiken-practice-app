@@ -1,0 +1,33 @@
+---
+choices: move things in a computer game using a device that recognizes what people are saying. | provide medical treatment to people who have problems using their throats to make sounds. | protect newborn babies who are likely to get dangerous diseases. | help people who are trying to increase the size of their muscles.
+answerText: move things in a computer game using a device that recognizes what people are saying.
+reviewed: yes
+---
+【正解】1 move things in a computer game using a device that recognizes what people are saying.（人が言っていることを見分ける機器を使って、コンピューターゲームの中の物を動かす）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：研究の中で、ロジャーズは～方法を見つけることができた。
+1 move things in a computer game using a device that recognizes what people are saying.（人が言っていることを見分ける機器を使って、コンピューターゲームの中の物を動かす（方法））
+2 provide medical treatment to people who have problems using their throats to make sounds.（声を出すのにのどをうまく使えない人に、治療を行う（方法））
+3 protect newborn babies who are likely to get dangerous diseases.（危険な病気にかかりやすい、生まれたばかりの赤ちゃんを守る（方法））
+4 help people who are trying to increase the size of their muscles.（筋肉を大きくしようとしている人を手助けする（方法））
+【考え方】
+ロジャーズが行った研究は、第3段落の For example（たとえば）のあとに書かれています。順に見ていきます。
+・Rogers placed one of the electronic stickers onto a person's throat.（ロジャーズは、電子ステッカーの1つをある人ののどに貼った）
+・The sticker recorded the movements of the muscles in the throat when the person said certain words.（ステッカーは、その人が特定の言葉を言ったときの、のどの筋肉の動きを記録した）
+・When these words were said again, the sticker recognized the pattern and sent a signal to a computer.（それらの言葉がもう一度言われると、ステッカーはその動きのパターンを見分け、コンピューターに信号を送った）
+・In this way, the person was able to use certain words to control the movements of objects in a computer game.（このようにして、その人は特定の言葉を使って、コンピューターゲームの中の物の動きを操作することができた）
+ステッカーは、言葉を言うときののどの筋肉の動きのパターンを見分けることで、どの言葉が言われたかを見分けています。そして、その人は言葉を使ってゲームの中の物を動かしました。
+本文と選択肢を対にすると、次のようになります。
+本文 control the movements of objects in a computer game ＝ 選択肢 move things in a computer game
+本文 the sticker recognized the pattern（言葉を言うときの筋肉の動きのパターンを見分けた）→ 選択肢 a device that recognizes what people are saying
+ですから、1が正解です。
+【ほかの選択肢】
+2 本文にありません。のどにステッカーを貼る実験は出てきますが、声を出すのに困っている人の治療をしたという話ではありません。
+3 本文と合いません。第3段落に newborn babies（生まれたばかりの赤ちゃん）は出てきますが、たくさん眠る必要があるのでじゃまにならないステッカーが役立つ、という話です。危険な病気から守るとは書かれていません。
+4 本文にありません。ステッカーは muscle movement（筋肉の動き）を記録できますが、筋肉を大きくしようとしている人を助ける話は出てきません。
+【覚えるポイント】
+・recognize：「（見たり聞いたりして）それと分かる、見分ける」。
+・control the movements of ～：「～の動きを操作する」。move（動かす）と言いかえられています。

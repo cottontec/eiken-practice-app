@@ -1,0 +1,27 @@
+---
+choices: can | to be | will | were to
+answerText: were to
+reviewed: yes
+---
+【正解】4 were to（If ～ were to … で「万一～が…するとしたら」）
+【和訳】
+（英文）
+All the students have practiced getting out of the school quickly and safely during fire drills. If a fire ［were to］ start, they would know exactly what to do.
+（訳）
+生徒たちは全員、火災の避難訓練で、学校から素早く安全に外へ出る練習をしてきました。万一火事が起きたら、彼らは何をすべきかを正確に分かっているでしょう。
+（選択肢の意味）
+1 can：～できる
+2 to be：（to be の形）
+3 will：～だろう
+4 were to：（If ～ were to … で）万一～が…するとしたら
+【考え方】
+まず文の後半を見ます。they would know exactly what to do（彼らは何をすべきかを正確に分かっているだろう）と、would が使われています。
+If で始まる文で、後半に would ＋ 動詞の原形がくるときは、「実際には起きていないこと、起きるかどうか分からないことを、仮に考えてみる」言い方になります。この文では「火事が起きる」ことを仮に考えています。
+If ＋ 主語 ＋ were to ＋ 動詞の原形 は「万一～するとしたら」という意味で、これから先に起こるかどうか分からないことを仮に考えるときに使います。If a fire were to start, ～ で「万一火事が起きたとしたら」となり、後半の would know とも形が合います。1文目の「避難訓練で練習してきた」という内容とも自然につながります。正解は4です。
+【ほかの選択肢】
+1 can を入れると If a fire can start（火事が起こりうるなら）となります。後半の would know と組み合わせると、「仮に考える」形がそろわず、「万一火事が起きたら」という意味になりません。
+2 to be を入れると If a fire to be start となり、主語のあとに動詞がないので文として成り立ちません。
+3 will を入れると If a fire will start となります。「もし～なら」の if のあとでは、これから先のことでもふつう will を使わずに表します。また、後半が would なので、形もそろいません。
+【覚えるポイント】
+・If ＋ 主語 ＋ were to ～, 主語 ＋ would …：「万一～するとしたら、…だろう」。
+・what to do：「何をすべきか」。know what to do で「何をすべきか分かっている」。

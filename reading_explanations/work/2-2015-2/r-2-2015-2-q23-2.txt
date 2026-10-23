@@ -1,0 +1,20 @@
+---
+choices: computer | some | using | his | trouble
+answerText: trouble
+order: 2 5 3 4 1
+reviewed: yes
+---
+【正解】5 trouble（この問題の2番目）
+【完成文】
+When Dave first started his new job, he had ( some trouble using his computer ). Now that he has had lots of training, though, it is no problem at all.
+並べ方：2 some → 5 trouble → 3 using → 4 his → 1 computer（2番目は5、4番目は4）
+【和訳】
+デイブは新しい仕事を始めたばかりのころ、コンピューターを使うのに少し苦労しました。しかし、たくさん研修を受けた今では、まったく問題ありません。
+【考え方】
+まず話の流れを確かめます。2文目の Now that he has had lots of training, though, it is no problem at all. は「しかし、たくさん研修を受けた今では、それはまったく問題ではない」という意味です。Now that ～ は「今や～なので」、training は「研修、訓練」です。今は問題がないと言っているので、1文目では、仕事を始めたころには何かに困っていたと考えられます。
+空所の前の he had に注目します。have trouble ～ing で「～するのに苦労する」という決まった言い方があります。そこで had のあとに 2 some と 5 trouble を置いて had some trouble（少し苦労した）とします。some は「いくらかの、少しの」です。
+trouble のあとには ～ing の形がくるので、3 using を続けます。using のあとには「何を使うのか」がくるので、4 his ＋ 1 computer で his computer（彼のコンピューター）とします。完成文は he had some trouble using his computer（彼はコンピューターを使うのに少し苦労した）で、2番目は5 trouble です。
+まちがえやすいのは、some のあとに computer を置いて had some computer trouble using his とする並べ方です。computer trouble（コンピューターの故障）という言い方はありますが、最後が his で終わってしまい、his のあとに名詞がないので文が成り立ちません。
+【覚えるポイント】
+・have trouble ～ing：「～するのに苦労する」。some を入れて have some trouble ～ing（少し苦労する）とも言います。
+・Now that ～：「今や～なので」。

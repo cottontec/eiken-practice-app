@@ -1,0 +1,27 @@
+---
+choices: reduced | achieved | postponed | completed
+answerText: postponed
+reviewed: yes
+---
+【正解】3 postponed（延期された）
+【和訳】
+（英文）
+The sports day at Amanda's school was ［postponed］ because of rain. The school will hold it next week instead.
+（訳）
+アマンダの学校の運動会は、雨のために（延期され）ました。学校は代わりに、来週それを行う予定です。
+（選択肢の意味）
+1 reduced：減らされた
+2 achieved：達成された
+3 postponed：延期された（予定より先に延ばされた）
+4 completed：完了した、仕上げられた
+【考え方】
+空所のあとの because of rain（雨のために）と、次の文の The school will hold it next week instead.（学校は代わりに来週それを行う予定です）に注目します。
+it は運動会を指します。instead は「その代わりに」という意味です。つまり、予定していた日には運動会をせず、代わりに来週行うことになったという話です。
+雨のせいで予定の日にできず、別の日に回すことを postpone（延期する、先に延ばす）といいます。was postponed で「延期された」となり、次の文の内容とぴったり合います。ですから、3が正解です。
+【ほかの選択肢】
+1 reduced は「減らされた、小さくされた」です。「運動会が雨のために減らされた」では、なぜ来週に行うのかが説明できません。
+2 achieved は「（努力して）達成された、成しとげられた」です。雨のせいで運動会が達成されたというのは意味が通らず、来週行うという話ともつながりません。
+4 completed は「完了した、終えられた」です。運動会がもう終わったのなら、来週もう一度行う理由がありません。
+【覚えるポイント】
+・postpone：「延期する、先に延ばす」。be postponed で「延期される」。
+・instead：「その代わりに」。前の内容と入れかわりになることを示します。

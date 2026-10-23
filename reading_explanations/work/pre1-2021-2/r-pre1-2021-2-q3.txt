@@ -1,0 +1,32 @@
+---
+choices: aviation | circulation | commencement | imprisonment
+answerText: circulation
+reviewed: yes
+---
+【正解】2 circulation（発行部数）
+【和訳】
+（英文）
+The publishers of Nature Lover magazine are worried about its ［circulation］. The number of readers has declined from over 40,000 five years ago to 15,000 today.
+（訳）
+『ネイチャー・ラバー』誌の発行元の人たちは、その（発行部数）を心配している。読者の数は、5年前の4万人以上から、今日では1万5,000人に減った。
+（選択肢の意味）
+1 aviation：航空、飛行機の運航
+2 circulation：（新聞・雑誌の）発行部数、（血液などの）循環
+3 commencement：開始、（アメリカの）卒業式
+4 imprisonment：刑務所に入れること、投獄
+【考え方】
+まず見るところ：あとの文の The number of readers has declined
+あとの文を確かめます。
+The number of readers has declined from over 40,000 five years ago to 15,000 today.（読者の数は、5年前の4万人以上から、今日では1万5,000人に減った）
+declined は「減った」という意味です。雑誌の読者が大きく減っていることが分かります。
+次に、空所のある文を見ます。
+The publishers of Nature Lover magazine are worried about its ( ).（『ネイチャー・ラバー』誌の発行元の人たちは、その（　）を心配している）
+its は「その雑誌の」を指します。読者の数が減っているので、心配しているのは「雑誌がどれだけ売れて出回っているか」です。circulation は、新聞や雑誌について使うと「発行部数（どれだけの数が人々の手に渡っているか）」という意味になるので、2が正解です。
+この問題の型：語の意味・組み合わせ（magazine の circulation＝発行部数）／言いかえ（読者の数が減った→発行部数の心配）
+【ほかの選択肢】
+1 aviation は「航空」です。雑誌の発行元が「雑誌の航空」を心配するのでは意味が通らず、読者が減ったという話ともつながりません。
+3 commencement は「開始、卒業式」です。「雑誌の開始を心配している」では、すでに5年以上出ている雑誌の読者が減ったという話と合いません。
+4 imprisonment は「投獄（刑務所に入れること）」です。雑誌について使う語ではなく、意味が通りません。
+【覚えるポイント】
+・circulation：雑誌や新聞の話では「発行部数」。もとは「ぐるぐる回ること、循環」という意味です。
+・空所のあとに数字の変化（ここでは読者数が減ったこと）が書かれているときは、その数字が何を表しているかを考えることが、空所の語を決める手がかりになります。

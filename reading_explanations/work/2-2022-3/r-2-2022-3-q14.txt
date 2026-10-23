@@ -1,0 +1,30 @@
+---
+choices: separate from | familiar with | anxious for | equal to
+answerText: separate from
+reviewed: yes
+---
+【正解】1 separate from（～から離れた、～と別の）
+【和訳】
+（英文）
+Neil tries to keep his work ［separate from］ his private life. He does not like to mix them, so he never takes work home or talks about his family with his colleagues.
+（訳）
+ニールは、仕事を私生活と（切り離して）おくようにしています。彼はその2つを混ぜるのが好きではないので、決して仕事を家に持ち帰らず、同僚と家族の話をすることもありません。
+（選択肢の意味）
+1 separate from：～から離れた、～と別の
+2 familiar with：～をよく知っている
+3 anxious for：～を強く望んで
+4 equal to：～と等しい
+【考え方】
+まず見るところ：次の文の He does not like to mix them
+He does not like to mix them（彼はその2つを混ぜるのが好きではない）
+them は「仕事」と「私生活」の2つです。さらに never takes work home（決して仕事を家に持ち帰らない）、never ... talks about his family with his colleagues（同僚と家族の話を決してしない）と、具体的な例が続いています。
+空所を含む文は keep his work (　) his private life で、keep A ＋形容詞（様子を表す言葉）は「Aを～の状態にしておく」という意味です。仕事と私生活を混ぜず、分けておきたいということなので、separate from ～（～から離れた、～と別の）を入れて「仕事を私生活と切り離しておく」となり、1が正解です。
+この問題の型：具体例とまとめ（持ち帰らない・話さない → 切り離す）、語の意味・組み合わせ
+【ほかの選択肢】
+2 familiar with は「～をよく知っている」です。「仕事を私生活をよく知っている状態にしておく」となり、意味が通りません。
+3 anxious for は「～を強く望んで」です。「仕事を私生活を強く望む状態にしておく」となり、意味が通りません。
+4 equal to は「～と等しい」です。「仕事を私生活と等しくしておく」では、2つを混ぜないで分けておくという次の文の内容と合いません。
+【覚えるポイント】
+・keep A separate from B：「AをBと切り離しておく」。
+・colleague：「同僚（同じ職場で働く仲間）」。
+・空所を含む文だけでは意味が決まらないときは、次の文の具体例（ここでは never ～ が2つ）をまとめて、「結局どうしたいのか」を考えます。

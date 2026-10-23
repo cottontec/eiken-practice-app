@@ -1,0 +1,29 @@
+---
+choices: to | from | by | out
+answerText: from
+reviewed: yes
+---
+【正解】2 from（～から（区別して））
+【和訳】
+（英文）
+A: Mr. Lee, how do you distinguish male turtles ［from］ female turtles?
+B: There are a number of ways to do that, William, but one is to look at the turtle's tail. Males usually have longer tails than females do.
+（訳）
+A：リーさん、オスのカメとメスのカメは、どうやって見分けるのですか。
+B：その方法はいくつもあるよ、ウィリアム。でも、1つはカメのしっぽを見ることだね。オスはふつう、メスよりも長いしっぽを持っているんだ。
+（選択肢の意味）
+1 to：～へ、～に
+2 from：～から
+3 by：～によって、～のそばに
+4 out：外へ
+【考え方】
+空所の前の distinguish に注目します。distinguish は「区別する、見分ける」という意味で、distinguish A from B の形で「AとBを区別する（見分ける）」となります。from は「～から」で、「BからAを分けて区別する」という感じです。
+how do you distinguish male turtles from female turtles? は「オスのカメとメスのカメをどうやって見分けるのですか」となります。male は「オス（男性）の」、female は「メス（女性）の」です。
+Bの答えも確かめます。one is to look at the turtle's tail（1つはカメのしっぽを見ることだ）、Males usually have longer tails than females do.（オスはふつう、メスより長いしっぽを持っている）と、オスとメスの見分け方を説明しています。Aの質問が「オスとメスの見分け方」であることと合います。正解は2です。
+【ほかの選択肢】
+1 to は「～へ、～に」です。distinguish A to B という形はなく、「オスとメスを見分ける」という意味になりません。
+3 by は「～によって」です。distinguish by ～ は「～によって（～を手がかりに）見分ける」という使い方はできますが、ここで入れると「メスのカメを手がかりにオスのカメを見分ける」となり、Bの答え（しっぽの長さで見分ける）と合いません。
+4 out は「外へ」です。distinguish A out B という形はなく、文として成り立ちません。
+【覚えるポイント】
+・distinguish A from B：「AとBを区別する、見分ける」。tell A from B も同じ意味です。
+・male / female：「オス（男性）の／メス（女性）の」。

@@ -1,0 +1,26 @@
+---
+choices: sharp | wild | quiet | pure
+answerText: pure
+reviewed: yes
+---
+【正解】4 pure（純粋な、まじりけのない）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 sharp：鋭い
+2 wild：野生の、荒れた
+3 quiet：静かな
+4 pure：純粋な、まじりけのない
+【考え方】
+第2段落の1文目は One country that has tried hard to protect its language from English influence is France.（英語の影響から自国の言語を守ろうと懸命に努力してきた国の1つがフランスだ）です。
+空所の文は France has an organization known as the Académie Française, whose main task is to keep the language (　).（フランスにはアカデミー・フランセーズとして知られる組織があり、その主な仕事は、その言語を～に保つことだ）です。whose main task は「その組織の主な仕事」という意味です。keep ～ ＋ 様子を表す語 で「～を…の状態に保つ」となります。
+そのあとの文には、英単語の代わりにフランス語版の単語を広めていることや、英語の使用を制限する法律があることが書かれています。どれも、英語がまじらないようにフランス語を守る取り組みです。
+pure は「純粋な、まじりけのない」という意味です。keep the language pure（言語を純粋なまま保つ）は、英語がまじらないように守るという内容と合うので、4が正解です。タイトルの Keeping French "French"（フランス語を「フランス語」のままに保つ）とも合います。
+【ほかの選択肢】
+1 sharp は「鋭い」です。「言語を鋭く保つ」では、英語の影響から守るという話とつながりません。
+2 wild は「野生の、荒れた」です。「言語を荒れたままにする」では、守ろうとする取り組みと反対の意味になってしまいます。
+3 quiet は「静かな」です。「言語を静かに保つ」となり、英単語の代わりにフランス語版を広めるという、あとの具体的な取り組みと結びつきません。
+【覚えるポイント】
+・keep ～ pure：「～を純粋なまま保つ」。keep ＋ もの ＋ 様子を表す語 で「ものを…の状態に保つ」です。
+・protect A from B：「AをBから守る」。

@@ -1,0 +1,21 @@
+---
+choices: remembered | she | then | only | that
+answerText: she
+order: 4 3 5 2 1
+reviewed: yes
+---
+【正解】2 she（この問題の4番目）
+【完成文】
+It was ( only then that she remembered ) that it was a holiday and she did not have to work.
+並べ方：4 only → 3 then → 5 that → 2 she → 1 remembered（2番目は3、4番目は2）
+【和訳】
+昨日の朝、ジルは早起きして仕事に出かけました。職場に着くと、明かりはすべて消えていて、だれもいませんでした。そのときになって初めて、彼女はその日が祝日で、働かなくてよいことを思い出しました。
+【考え方】
+この文には that が2つ出てきます。1つは選択肢の 5 that、もう1つは空所のあとの that it was a holiday … です。それぞれの働きを分けて考えます。
+空所のあとの that it was a holiday and she did not have to work は「その日が祝日で、働かなくてよいということ」という意味のまとまりで、remembered（思い出した）の目的語（「～を」にあたる部分）になります。そこで、remembered は空所の最後に置き、空所のあとの that とつなげます。
+空所の前の It was と選択肢の that は、強調構文（It was と that の間に、特に強調したい語句をはさむ形）を作ります。強調するのは only then（そのときになって初めて）です。It was only then that のあとには、「主語＋動詞」の文が続きます。主語は 2 she、動詞は 1 remembered なので、that → she → remembered の順になります。並べると only → then → that → she → remembered となり、4番目には 2 she が入ります。
+したがって4番目は2 she です。
+まちがえやすいのは、It was only then that remembered she のように動詞を主語より前に置く並べ方です。that のあとは「主語 she＋動詞 remembered」の順にします。
+【覚えるポイント】
+・It was ～ that …（強調構文）：「…したのは～だった」。～の部分に、強調したい時や場所などの語句を入れます。
+・remember that ～：「～ということを思い出す」。

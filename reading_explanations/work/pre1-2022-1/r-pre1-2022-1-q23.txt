@@ -1,0 +1,29 @@
+---
+choices: fall for | hang on | see out | flag down
+answerText: fall for
+reviewed: yes
+---
+【正解】1 fall for（〈うそなどに〉だまされる）
+【和訳】
+（英文）
+The young boy tried to blame his dog for the broken vase. However, his mother did not ［fall for］ the lie and sent him to his room.
+（訳）
+その幼い男の子は、割れた花びんを自分の犬のせいにしようとした。しかし、母親はそのうそに（だまされ）ず、男の子を自分の部屋へ行かせた。
+（選択肢の意味）
+1 fall for：（うそなどに）だまされる
+2 hang on：しがみつく、（電話などで）待つ
+3 see out：最後までやり通す、（客を）見送る
+4 flag down：（車などを）手をふって止める
+【考え方】
+まず見るところ：空所のあとの the lie と、and sent him to his room
+男の子は、花びんを割ったのを自分の犬のせいにしようとしました。blame A for B は「BをAのせいにする」という意味です。それは the lie（そのうそ）でした。
+However, his mother did not fall for the lie and sent him to his room.（しかし、母親はそのうそにだまされず、男の子を自分の部屋へ行かせた）
+文の始めの However（しかし）は、前の文とは反対の流れを表します。男の子はうそをつこうとしましたが、母親は男の子を部屋へ行かせています。母親がうそを信じたのなら、部屋へ行かせることは考えにくいので、「うそにだまされなかった」という流れが合います。fall for ～ は「～にだまされる」なので、did not fall for で「だまされなかった」となり、1が正解です。
+この問題の型：熟語・決まった形（fall for ～：～にだまされる）
+【ほかの選択肢】
+2 hang on は「しがみつく、待つ」です。「うそにしがみつかなかった」では、母親の行動として意味が通りません。
+3 see out は「最後までやり通す、見送る」です。「うそを見送らなかった」では意味が通りません。
+4 flag down は「手をふって止める」です。車やタクシーなどを止めるときに使う言い方で、「うそを手をふって止めなかった」では意味が通りません。
+【覚えるポイント】
+・fall for ～：「～にだまされる」。blame A for B：「BをAのせいにする」。
+・空所のあとに the lie（うそ）があり、その人がうそをついた相手をしかっているときは、「だまされない、信じない」という流れになる語を探すのが手がかりになります。

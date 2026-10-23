@@ -1,0 +1,32 @@
+---
+choices: dyed | peeled | buried | honored
+answerText: buried
+reviewed: yes
+---
+【正解】3 buried（埋もれて）
+【和訳】
+（英文）
+A: Is that the document you were looking for earlier?
+B: Yes, it is. It was ［buried］ under a pile of papers on my desk. I really need to be more organized.
+（訳）
+A：それは、さっきあなたが探していた書類？
+B：うん、そうだよ。机の上の書類の山の下に（埋もれて）いたんだ。本当に、もっと整理整とんができるようにならないとね。
+（選択肢の意味）
+1 dyed：染められた
+2 peeled：皮をむかれた
+3 buried：埋められた、埋もれた
+4 honored：たたえられた、名誉を与えられた
+【考え方】
+まず見るところ：空所のあとの under a pile of papers on my desk
+under a pile of papers on my desk（机の上の書類の山の下に）
+a pile of ～ は「～の山、積み重ね」という意味です。探していた書類が、ほかの紙の山の下にあって見えなくなっていた場面です。最後の I really need to be more organized.（本当にもっと整理整とんができるようにならないと）からも、机の上が散らかっていたと分かります。
+buried は bury（埋める）の過去分詞（受け身などに使う形）で、be buried under ～ で「～の下に埋もれている」という意味です。書類が紙の山に埋もれていたことを表せるので、3が正解です。
+この問題の型：語の意味・組み合わせ（be buried under ～）、推論（散らかった机）
+【ほかの選択肢】
+1 dyed は dye（染める）の過去分詞で、「染められた」です。「書類が紙の山の下で染められていた」となり、意味が通りません。
+2 peeled は peel（皮をむく）の過去分詞で、「皮をむかれた」です。果物などについて使う言葉で、書類には合いません。
+4 honored は honor（たたえる、名誉を与える）の過去分詞で、「たたえられた」です。「書類が紙の山の下でたたえられていた」となり、意味が通りません。
+【覚えるポイント】
+・be buried under ～：「～の下に埋もれている」。bury の発音は「ベリー」に近い音です。
+・a pile of ～：「～の山」。a pile of papers で「書類の山」。
+・空所のあとが under のような場所を表す言葉のときは、「どこにどんな状態であったか」を表す語を探し、場面（ここでは散らかった机）に合うかを確かめます。

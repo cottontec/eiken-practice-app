@@ -1,0 +1,30 @@
+---
+choices: distress | referral | detention | prominence
+answerText: prominence
+reviewed: yes
+---
+【正解】4 prominence（有名であること、目立つ地位）
+【和訳】
+（英文）
+The CEO of the company was a man of great ［prominence］ in society. His connections with famous politicians and celebrities were well-known.
+（訳）
+その会社のCEO（最高経営責任者）は、社会でとても名の知られた人物だった。彼が有名な政治家や著名人とつながりを持っていることは、よく知られていた。
+（選択肢の意味）
+1 distress：苦しみ、悩み
+2 referral：（専門家などへの）紹介、照会
+3 detention：拘留（人を留めておくこと）、居残り
+4 prominence：有名であること、目立つ地位
+【考え方】
+まず見るところ：後ろの文の His connections with famous politicians and celebrities were well-known.
+The CEO of the company was a man of great ( ) in society.（その会社のCEOは、社会でとても（　）のある人物だった）
+a man of ～ は「～を持つ人、～のある人」という意味です。空所には、このCEOが社会でどんな人だったのかを表す語が入ります。
+His connections with famous politicians and celebrities were well-known.（彼が有名な政治家や著名人とつながりを持っていることは、よく知られていた）
+celebrity は「有名人、著名人」、well-known は「よく知られた」という意味です。有名な人たちとのつながりが広く知られているのですから、このCEO自身も社会で目立つ、名の知られた人物だと分かります。prominence は「有名であること、目立つ地位」という意味なので、4が正解です。
+この問題の型：具体例とまとめ（有名人とのつながりがよく知られている→社会で著名な人物）／熟語・決まった形（a man of great ～）
+【ほかの選択肢】
+1 distress は「苦しみ、悩み」です。「大きな苦しみを抱えた人物」となり、有名人とのつながりがよく知られているという後ろの文とつながりません。
+2 referral は「（専門家などへの）紹介、照会」です。「社会で大きな紹介の人物」となり、意味が通りません。
+3 detention は「拘留（人を留めておくこと）、居残り」です。「社会で大きな拘留の人物」となり、意味が通りません。
+【覚えるポイント】
+・a man of great prominence：「とても著名な人物」。a man of ～ で「～を持つ人」という意味です。
+・空所の後ろの文が、前の文の人物について具体的な様子（ここでは有名人とのつながりが well-known）を述べているときは、その様子をまとめて表す語を選ぶことが手がかりになります。

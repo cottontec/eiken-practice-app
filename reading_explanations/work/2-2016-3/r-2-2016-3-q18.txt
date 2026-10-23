@@ -1,0 +1,29 @@
+---
+choices: other | another | nothing | anything
+answerText: another
+reviewed: yes
+---
+【正解】2 another（別のもの）
+【和訳】
+（英文）
+A: I saw a show about skydiving yesterday, Dad. Can I try it?
+B: It's one thing to watch a TV program about skydiving, but it's quite ［another］ to do it yourself.
+（訳）
+A：お父さん、昨日スカイダイビングについての番組を見たよ。やってみてもいい？
+B：スカイダイビングについてのテレビ番組を見るのと、自分でそれをやるのとは、まったく（別のこと）だよ。
+（選択肢の意味）
+1 other：ほかの（もの）
+2 another：別のもの、もう1つのもの
+3 nothing：何も～ない
+4 anything：何でも、何か
+【考え方】
+Bの文の形に注目します。It's one thing to watch a TV program about skydiving, but it's quite (　) to do it yourself. となっています。
+A is one thing, (but) B is another. は「AとBは別のことだ」という決まった言い方です。one thing（1つのこと）と another（もう1つの別のこと）を組み合わせて、2つのことが違うと強く言います。ここでは quite（まったく）がついて、さらに違いを強めています。
+父親は、テレビで見るのと実際に自分でやるのとでは大きく違うと言って、「やってみたい」という子どもの頼みに慎重な答えをしていると考えられます。ですから、2が正解です。
+【ほかの選択肢】
+1 other は「ほかの」です。one thing と組み合わせる決まった言い方では another を使います。other は1語だけで「別のこと」を表すことはふつうなく、other things や the other のような形で使います。
+3 nothing は「何も～ない」です。「自分でやるのはまったく何でもない（簡単だ）」という意味になってしまい、but でテレビを見ることと比べる流れに合いません。
+4 anything は「何でも、何か」です。it's quite anything という言い方はせず、意味が通りません。
+【覚えるポイント】
+・A is one thing, but B is (quite) another：「AとBは（まったく）別のことだ」。
+・do it yourself：「自分でそれをやる」。

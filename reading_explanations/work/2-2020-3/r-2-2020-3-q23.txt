@@ -1,0 +1,28 @@
+---
+choices: during the warm months | together with friends | in order to keep fit | while staying safe
+answerText: while staying safe
+reviewed: yes
+---
+【正解】4 while staying safe（安全を保ちながら）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 during the warm months（暖かい季節の間に）
+2 together with friends（友達といっしょに）
+3 in order to keep fit（健康を保つために）
+4 while staying safe（安全を保ちながら）
+【考え方】
+空所は第3段落の最後の文 The important thing is to enjoy cycling (23).（大切なのは、（23）サイクリングを楽しむことだ）です。
+第3段落は、eバイクの問題点の話です。まず、For one, riders of e-bikes are more likely to be involved in accidents.（1つには、eバイクに乗る人は〔ふつうの自転車に乗る人より〕事故に巻き込まれやすい）とあります。それを受けて、速度制限を下げることや自転車専用道路など、安全性を高める対策を求める人がいると書かれています。
+そして、空所の直前の2つの文に注目します。
+Most importantly, experts say riders of both e-bikes and regular bikes should be careful.（最も大切なこととして、専門家たちは、eバイクに乗る人もふつうの自転車に乗る人も注意するべきだと言っている）
+It does not matter if a bike has a motor or not.（自転車にモーターがあるかどうかは問題ではない）
+つまり、どちらの自転車でも「注意すること」「安全であること」が大切だという流れです。while staying safe は「安全を保ちながら」という意味で、enjoy cycling while staying safe で「安全を保ちながらサイクリングを楽しむ」となります。段落全体の「安全」の話のまとめになるので、4が正解です。
+【ほかの選択肢】
+1 「暖かい季節の間にサイクリングを楽しむ」となります。季節の話は本文のどこにもなく、事故や安全の話をしている第3段落のまとめになりません。
+2 「友達といっしょにサイクリングを楽しむ」となります。友達と乗るという話は本文になく、直前の「注意するべきだ」という専門家の意見とつながりません。
+3 「健康を保つためにサイクリングを楽しむ」となります。第2段落には健康によい影響の話がありますが、第3段落は事故や安全の話です。直前の「注意するべきだ」とつながらないので、合いません。
+【覚えるポイント】
+・while -ing：「～しながら」。while staying safe は「安全を保ちながら」です。
+・段落の最後の空所は、その段落の話題（ここでは事故と安全）をまとめる内容になることが多いです。

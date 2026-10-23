@@ -1,0 +1,28 @@
+---
+choices: It is difficult for veterinarians to decide which animals to treat first. | Its equipment is too expensive for most veterinarians to buy. | There are not enough veterinarians who can use its products. | Few veterinarians have shown interest in its training program.
+answerText: There are not enough veterinarians who can use its products.
+reviewed: yes
+---
+【正解】3 There are not enough veterinarians who can use its products.（その会社の製品を使える獣医が十分にいない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：S&Vテクノロジーズが気づいた最大の問題は何ですか。
+1 It is difficult for veterinarians to decide which animals to treat first.（獣医にとって、どの動物を先に治療するかを決めるのが難しい。）
+2 Its equipment is too expensive for most veterinarians to buy.（その会社の機器は、ほとんどの獣医にとって高価すぎて買えない。）
+3 There are not enough veterinarians who can use its products.（その会社の製品を使える獣医が十分にいない。）
+4 Few veterinarians have shown interest in its training program.（その会社の訓練の講座に興味を示した獣医はほとんどいない。）
+【考え方】
+設問の the biggest difficulty（最大の問題）と同じような言葉を本文で探します。第4段落に according to S&V Technologies, the main problem now is that there are still so few veterinarians who know how to treat animal cataracts with its equipment（S&Vテクノロジーズによると、現在の主な問題は、この会社の機器を使って動物の白内障を治療する方法を知っている獣医が、まだとても少ないことだ）とあります。
+the main problem（主な問題）が、設問の the biggest difficulty（最大の問題）にあたります。so few ～ は「とても少ない～」です。本文と選択肢は次のように対応しています。
+本文 there are still so few veterinarians（獣医がまだとても少ない）＝ 選択肢 There are not enough veterinarians（獣医が十分にいない）
+本文 who know how to treat animal cataracts with its equipment（その機器で動物の白内障を治療する方法を知っている）＝ 選択肢 who can use its products（その製品を使える）
+次の文に For this reason, the company has started training veterinarians how to use its products.（このため、会社は獣医たちに製品の使い方を教える訓練を始めた）とあることからも、使い方を知る獣医が足りないことが問題だと確かめられます。正解は3です。
+【ほかの選択肢】
+1 どの動物を先に治療するかを決めるのが難しいという話は、本文のどこにも書かれていません。
+2 第4段落に Although the equipment is expensive（この機器は高価だが）とあり、高価であること自体は本文にあります。しかし続けて there are many people who want to use it（使いたい人はたくさんいる）とあり、高すぎて買えないことが問題だとは書かれていません。会社が主な問題としているのは、使い方を知る獣医が少ないことです。
+4 本文の最後に Many people have applied to learn（多くの人が学ぶために申し込んでいる）とあります。訓練に興味を示した獣医がほとんどいないという内容は、本文と反対です。
+【覚えるポイント】
+・so few ～：「とても少ない～」。few は「ほとんど～ない、少ししかない」を表します。
+・the main problem is that ～：「主な問題は～ということだ」。

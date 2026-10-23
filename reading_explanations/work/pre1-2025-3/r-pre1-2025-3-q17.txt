@@ -1,0 +1,32 @@
+---
+choices: sound off | draw back | turn up | rule out
+answerText: rule out
+reviewed: yes
+---
+【正解】4 rule out（～を除外する、～の可能性を捨てる）
+【和訳】
+（英文）
+The company wants to try all other options first, but it cannot ［rule out］ reducing its staff if its poor sales continue.
+（訳）
+その会社は、まずはほかのあらゆる選択肢を試したいと考えているが、売り上げの不振が続けば、従業員を減らす可能性を（除外する）ことはできない。
+（選択肢の意味）
+1 sound off：（意見）を大声で言い立てる
+2 draw back：後ずさりする、手を引く
+3 turn up：現れる、（音量など）を上げる
+4 rule out：～を除外する、～の可能性を捨てる
+【考え方】
+まず見るところ：前半の try all other options first と、but のあとの if its poor sales continue
+前半には、次のように書かれています。
+The company wants to try all other options first（その会社は、まずはほかのあらゆる選択肢を試したい）
+option は「選択肢、取りうる方法」です。other（ほかの）とあるので、従業員を減らすこと以外の方法を先に試したいという意味です。
+but のあとは、次のとおりです。
+it cannot (　) reducing its staff if its poor sales continue（売り上げの不振が続けば、従業員を減らすことを（　）できない）
+「できれば従業員は減らしたくない。しかし、売り上げが悪いままなら、その方法も考えに入れておかなければならない」という流れです。rule out ～ は「～を除外する、～の可能性を捨てる」という意味で、cannot rule out ～ で「～の可能性を捨てられない」となるので、4が正解です。
+この問題の型：対比（まずほかの方法を試したい⇔従業員を減らすことも捨てられない）
+【ほかの選択肢】
+1 sound off は「（意見）を大声で言い立てる」です。「従業員を減らすことを大声で言い立てられない」となり、売り上げが続けて悪い場合の話として意味が通りません。
+2 draw back は「後ずさりする、手を引く」です。「従業員を減らすことを後ずさりできない」となり、意味が通りません。
+3 turn up は「現れる、（音量など）を上げる」です。「従業員を減らすことを上げられない」となり、意味が通りません。
+【覚えるポイント】
+・rule out ～：「～を除外する、～の可能性を捨てる」。cannot rule out ～ing で「～することの可能性を捨てられない」。
+・try all other options first（まずほかのすべての方法を試したい）, but ～ のように、but の前に「できれば避けたい」気持ちがあるときは、but のあとに「それでも可能性は残る」という内容が来る手がかりになります。

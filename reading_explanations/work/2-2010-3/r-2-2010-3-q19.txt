@@ -1,0 +1,25 @@
+---
+choices: repair | repaired | repairing | to repair
+answerText: repaired
+reviewed: yes
+---
+【正解】2 repaired（修理される）
+【和訳】
+A：マーサ、明日は何をするの？
+B：洗濯機を修理してもらうんだ。だから、家にいて修理の人たちが来るのを待っていなければならないんだよ。
+（選択肢の意味）
+1 repair：修理する（元の形）
+2 repaired：修理される（過去分詞）
+3 repairing：修理している（～ing の形）
+4 to repair：修理すること、修理するために（to ～ の形）
+【考え方】
+空所の前の I'm having my washing machine (　) に注目します。have ＋ もの ＋ ～ の形で、「ものを～してもらう」と言う文です。なお I'm having は「（明日）～することになっている」という予定を表しています。
+このとき、もの（my washing machine：洗濯機）と、そのあとの動詞の関係を考えます。洗濯機は自分で修理をするのではなく、人によって「修理される」側です。
+「～される」という意味を表すには、過去分詞（「～される」「～された」の意味を表す形）を使います。repair の過去分詞は repaired です。have my washing machine repaired で「洗濯機を修理してもらう」となります。あとの wait for the service people to come（修理の人たちが来るのを待つ）とも合うので、正解は2です。
+【ほかの選択肢】
+1 repair は動詞の元の形です。have ＋ 人 ＋ 動詞の元の形 なら「人に～させる、してもらう」になりますが、ここで have のあとにあるのは人ではなく洗濯機です。洗濯機が何かを修理するわけではないので、合いません。
+3 repairing は「修理している」です。have my washing machine repairing では、洗濯機が修理をしている、という関係になってしまい、意味が通りません。
+4 to repair は to ～ の形です。have ＋ もの ＋ to ～ の形で「ものを修理してもらう」という意味にはなりません。
+【覚えるポイント】
+・have ＋ もの ＋ 過去分詞：「ものを～してもらう」。have my hair cut（髪を切ってもらう）なども同じ形です。
+・wait for ＋ 人 ＋ to ～：「人が～するのを待つ」。

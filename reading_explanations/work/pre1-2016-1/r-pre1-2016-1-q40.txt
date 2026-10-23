@@ -1,0 +1,33 @@
+---
+choices: Further surgeries actually did little to increase patients' chances of losing a significant amount of weight. | Because the silicone bands are not designed to be long-lasting, it is no surprise that patients needed more than one operation. | The surgery did not improve important health indicators as much as had been originally predicted. | Those in the lifestyle-change group were able to improve certain aspects of their health without the dangers of surgery.
+answerText: Those in the lifestyle-change group were able to improve certain aspects of their health without the dangers of surgery.
+reviewed: yes
+---
+【正解】4 Those in the lifestyle-change group were able to improve certain aspects of their health without the dangers of surgery.（生活習慣改善グループの人たちは、手術の危険なしに、健康のある面を改善することができた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one thing Dr. Edward Livingston says regarding O'Brien's study?（オブライエンの研究について、エドワード・リビングストン博士が言っていることの1つは何ですか。）
+1 Further surgeries actually did little to increase patients' chances of losing a significant amount of weight.（追加の手術は、実際には、患者が大幅に体重を減らせる可能性を高めるのにほとんど役立たなかった。）
+2 Because the silicone bands are not designed to be long-lasting, it is no surprise that patients needed more than one operation.（シリコーン製のバンドは長持ちするように作られていないので、患者が2回以上の手術を必要としたのは驚くことではない。）
+3 The surgery did not improve important health indicators as much as had been originally predicted.（手術は、もともと予測されていたほどには、重要な健康の指標を改善しなかった。）
+4 Those in the lifestyle-change group were able to improve certain aspects of their health without the dangers of surgery.（生活習慣改善グループの人たちは、手術の危険なしに、健康のある面を改善することができた。）
+【考え方】
+まず見るところ：第3段落の最後の Further, he argues that ～
+リビングストン博士の意見は、第3段落に書かれています。まず、手術を受けた青年のほぼ3分の1が、バンドを調整するために2回目の手術を受けなければならなかったことを指摘しています。
+段落の最後の文で、もう1つの点を挙げています。
+Further, he argues that though their weight loss was less extreme, adolescents in the lifestyle-change group showed improvement in terms of blood pressure and other important health indicators, without the possibility of harm the surgery group faced.（さらに彼は、生活習慣改善グループの青年は、体重の減り方は（手術グループほど）大きくなかったものの、手術グループが直面したような害の可能性なしに、血圧やその他の重要な健康の指標の面で改善が見られたと主張している）
+in terms of ～ は「～の面で」、health indicator は「健康の指標（健康の状態を示すめやす）」です。less extreme は「（手術グループより）極端ではない、大きくない」という比較の言い方です。
+本文と選択肢を対にすると、次のようになります。
+本文 showed improvement in terms of blood pressure and other important health indicators（血圧やその他の重要な健康の指標の面で改善が見られた）＝ 選択肢 were able to improve certain aspects of their health（健康のある面を改善することができた）
+本文 without the possibility of harm the surgery group faced（手術グループが直面したような害の可能性なしに）＝ 選択肢 without the dangers of surgery（手術の危険なしに）
+ですから4が正解です。
+この問題の型：言いかえ（the possibility of harm ＝ the dangers）
+【ほかの選択肢】
+1 リビングストン博士は、2回目の手術はバンドを調整するためだったと言っているだけです。追加の手術が体重を減らす可能性を高めたかどうかについては、何も述べていません。
+2 本文と反対です。リビングストン博士は、バンドは a human-made device that will potentially remain in the body for life（一生体の中に残るかもしれない人工の器具）だと言っています。長持ちしないように作られているとは言っていません。
+3 本文には、もともとの予測についての話はありません。リビングストン博士が健康の指標について述べているのは、生活習慣改善グループに改善が見られたということです。
+【覚えるポイント】
+・in terms of ～：「～の面で、～の点から」。
+・人物の意見をたずねる設問では、Further（さらに）や however（しかし）のあとに、その人の大事な主張が続くことが多いので、そこを中心に選択肢と照らし合わせましょう。

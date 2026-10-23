@@ -1,0 +1,29 @@
+---
+choices: eliminate | expend | stabilize | oppress
+answerText: eliminate
+reviewed: yes
+---
+【正解】1 eliminate（取り除く、なくす）
+【和訳】
+（英文）
+Good writers make every effort to ［eliminate］ mistakes from their work, but occasionally they miss some errors and have to make corrections later.
+（訳）
+よい書き手は、自分の作品からまちがいを（取り除く）ためにあらゆる努力をするが、ときどきいくつかのまちがいを見落とし、あとで訂正しなければならなくなる。
+（選択肢の意味）
+1 eliminate：取り除く、なくす
+2 expend：（お金や力を）使う、費やす
+3 stabilize：安定させる
+4 oppress：（力で）おさえつける、苦しめる
+【考え方】
+まず見るところ：空所のあとの mistakes from their work と、but 以下の they miss some errors
+空所のあとは mistakes from their work（作品からまちがいを）となっています。〇〇 A from B の形で、「BからAを～する」という意味になる語を考えます。
+but occasionally they miss some errors and have to make corrections later（しかし、ときどきいくつかのまちがいを見落とし、あとで訂正しなければならなくなる）
+but（しかし）のあとで「まちがいを見落とす」と言っているので、前半は「まちがいをなくそうと努力する」という内容だと分かります。eliminate は「取り除く」なので、1が正解です。
+この問題の型：対比（まちがいを取り除こうとする⇔見落とすこともある）
+【ほかの選択肢】
+2 expend は「使う、費やす」です。「作品からまちがいを費やす」では意味が通りません。
+3 stabilize は「安定させる」です。「まちがいを安定させる」では、よい書き手の努力として意味が通りません。
+4 oppress は「おさえつける、苦しめる」です。ふつう人々を力でおさえつけるときに使う語で、「まちがいを苦しめる」では意味が通りません。
+【覚えるポイント】
+・eliminate A from B：「BからAを取り除く」。make every effort to ～：「～するためにあらゆる努力をする」。
+・but のあとに「見落とす」「失敗する」などが続くときは、前半には「そうならないようにする努力」が書かれていることが多いので、反対の流れを手がかりにします。

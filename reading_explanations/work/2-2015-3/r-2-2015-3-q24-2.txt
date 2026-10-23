@@ -1,0 +1,21 @@
+---
+choices: brush | before | Korean | up on | her
+answerText: up on
+order: 1 4 5 3 2
+reviewed: yes
+---
+【正解】4 up on（この問題の2番目）
+【完成文】
+Betsy wants to ( brush up on her Korean before ) she goes to Korea, so she bought some language CDs to listen to on her way to work.
+並べ方：1 brush → 4 up on → 5 her → 3 Korean → 2 before（2番目は4、4番目は3）
+【和訳】
+ベッツィーは、韓国に行く前に自分の韓国語を磨き直したいと思っています。それで、通勤の途中で聞くための語学CDを何枚か買いました。
+【考え方】
+文の後半に、she bought some language CDs to listen to on her way to work（通勤の途中で聞くための語学CDを買った）とあります。前半はその理由にあたり、「韓国語の勉強をしたい」という内容になると考えられます。
+空所の前の wants to のあとには、動詞の元の形が来ます。選択肢の中で動詞は 1 brush です。brush up on ～ は「（一度学んだことを）もう一度勉強して磨き直す」という決まった言い方なので、1 brush → 4 up on と並べます。
+up on のあとには、磨き直すものを置きます。5 her → 3 Korean で her Korean（彼女の韓国語）とし、最後に 2 before を置きます。before はここでは「～する前に」という意味で、空所のあとの she goes to Korea（彼女が韓国に行く）とつながります。
+したがって2番目は4 up on です。
+まちがえやすいのは、1 brush → 5 her → 4 up on → 3 Korean → 2 before（brush her up on Korean before …）のように、brush と up on の間に her を入れる並べ方です。brush up on ～ はひとまとまりで使い、磨き直す対象は on のあとに置きます。
+【覚えるポイント】
+・brush up on ～：「（忘れかけた知識や技術を）もう一度勉強して磨き直す」。
+・before ＋ 主語 ＋ 動詞：「…が～する前に」。

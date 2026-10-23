@@ -1,0 +1,31 @@
+---
+choices: prescription | detection | sensation | dimension
+answerText: prescription
+reviewed: yes
+---
+【正解】1 prescription（処方箋）
+【和訳】
+（英文）
+A: I need some of that medicine, please.
+B: Sorry, but I can't sell this to you unless you have a ［prescription］ from your doctor.
+（訳）
+A：その薬をください。
+B：申し訳ありませんが、お医者さんからの処方箋がない限り、これをお売りすることはできません。
+（選択肢の意味）
+1 prescription：処方箋（医師が出す、薬の種類や量を書いた書類）
+2 detection：発見、検出（かくれたものを見つけ出すこと）
+3 sensation：感覚、大評判
+4 dimension：寸法、次元、（物事の）側面
+【考え方】
+まず見るところ：Bの文の unless you have a ( ) from your doctor
+Aは薬を買おうとしていますが、Bは売れないと答えています。その条件が unless のあとに書かれています。
+Sorry, but I can't sell this to you unless you have a ( ) from your doctor.（申し訳ありませんが、お医者さんからの（　）がない限り、これをお売りすることはできません）
+unless は「～しない限り、～でなければ」という意味です。「医師から受け取る物で、それがあれば薬を買える物」を考えると、prescription（処方箋）が当てはまります。薬局では、医師の処方箋がないと売れない薬があるので、1が正解です。
+この問題の型：語の意味・組み合わせ（a prescription from your doctor）
+【ほかの選択肢】
+2 detection は「発見、検出」です。「医師からの発見がない限り」となり、薬を売るための条件として意味が通りません。
+3 sensation は「感覚、大評判」です。「医師からの感覚がない限り」となり、意味が通りません。
+4 dimension は「寸法、次元」です。「医師からの寸法がない限り」となり、薬を買うことと関係がありません。
+【覚えるポイント】
+・prescription：「処方箋」。a prescription from your doctor で「医師からの処方箋」です。
+・unless（～しない限り）のあとには「条件」が来ます。空所が unless のあとにあるときは、「それがあれば前の文の内容（ここでは薬を売ること）ができる物は何か」と考えると、答えを選びやすくなります。

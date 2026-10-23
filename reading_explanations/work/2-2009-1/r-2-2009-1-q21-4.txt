@@ -1,0 +1,23 @@
+---
+choices: look | to | on | down | seems
+answerText: down
+order: 5 2 1 4 3
+reviewed: yes
+---
+【正解】4 down（この問題の4番目）
+【完成文】
+I know. She ( seems to look down on ) the other players because they've never won a tournament like she has.
+並べ方：5 seems → 2 to → 1 look → 4 down → 3 on（2番目は2、4番目は4）
+【和訳】
+A：ジェーンはいつも、バドミントン部にはだれも自分ほどうまい人はいない、と言っているね。
+B：そうなんだ。ほかの選手たちは、彼女のようにトーナメント（勝ち抜き戦の大会）で優勝したことがないから、彼女はほかの選手を見下しているようだね。
+【考え方】
+まず、空所の前の主語 She と、空所のあとの the other players（ほかの選手たち）に注目します。主語のあとには動詞がくるので、選択肢の中で主語 She に合う形の動詞をさがします。seems は s が付いた形なので、She のすぐあとに置けます。
+seem to ～ は「～するようだ、～するように見える」という意味です。そこで She seems to と並べ、to のあとには動詞の原形 look を続けます。
+残った down と on は look と組み合わせます。look down on ～ は「～を見下す（自分より下だと思ってばかにする）」という意味の熟語（いくつかの語がまとまって1つの意味を表すもの）です。on のあとに目的語の the other players がくるので、look down on the other players（ほかの選手たちを見下す）となります。
+Aの「だれも自分ほどうまくないと言っている」という話や、because 以下の「ほかの選手は優勝したことがないから」という理由とも内容がつながります。
+look on down のように on と down を入れかえると、熟語の形がくずれて意味が通らなくなります。look down on の順番をそのまま覚えておきましょう。
+したがって4番目は4 downです。
+【覚えるポイント】
+・look down on ～：「～を見下す」。反対は look up to ～（～を尊敬する）です。
+・seem to ～：「～するようだ」。to のあとは動詞の原形にします。

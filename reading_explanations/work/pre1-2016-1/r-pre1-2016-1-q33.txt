@@ -1,0 +1,36 @@
+---
+choices: Museum visitors become upset if they feel that their access to the artworks on display is being limited. | Fewer people visit the museums because the public is reminded that museums can be targets for criminals. | Improvements in the equipment used by thieves have made it harder for security systems to detect them. | Some kinds of technology used in security systems can cause damage to the artworks they are supposed to protect.
+answerText: Museum visitors become upset if they feel that their access to the artworks on display is being limited.
+reviewed: yes
+---
+【正解】1 Museum visitors become upset if they feel that their access to the artworks on display is being limited.（美術館の来館者は、展示されている美術品に近づくことが制限されていると感じると、気分を害する。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is one problem with installing security measures at museums?（美術館に警備のための対策を取り入れることの問題点の1つは何ですか。）
+1 Museum visitors become upset if they feel that their access to the artworks on display is being limited.（美術館の来館者は、展示されている美術品に近づくことが制限されていると感じると、気分を害する。）
+2 Fewer people visit the museums because the public is reminded that museums can be targets for criminals.（美術館が犯罪者に狙われることがあると人々が思い出してしまうので、美術館を訪れる人が減る。）
+3 Improvements in the equipment used by thieves have made it harder for security systems to detect them.（泥棒が使う道具が進歩したことで、警備システムが泥棒を見つけるのがより難しくなった。）
+4 Some kinds of technology used in security systems can cause damage to the artworks they are supposed to protect.（警備システムで使われる技術の中には、守るはずの美術品に損害を与えることがあるものもある。）
+【考え方】
+まず見るところ：第2段落の “When institutions don't provide an intimate, nose-to-the-canvas environment, visitors complain,”
+第2段落の最初の文は、次のとおりです。
+One challenge for museum administrators is finding a balance between protecting artworks on display and making art accessible to the public.（美術館の管理者にとっての課題の1つは、展示されている美術品を守ることと、一般の人々が美術品に近づけるようにすることの間で、バランスを見つけることだ）
+accessible は「近づきやすい、利用しやすい」です。守ることばかり考えると、人々が美術品に近づきにくくなる、という問題があると分かります。
+続いて、記者のボーザーの言葉が引用されています。
+“When institutions don't provide an intimate, nose-to-the-canvas environment, visitors complain,”（「施設が、キャンバスに鼻がつくほど近くで見られるような、親しみのある環境を用意しないと、来館者は不満を言います」）
+さらに、ムンク美術館が2004年の強盗事件のあとに警備を強化したとき、多くの美術愛好家や評論家が次のように言った、という例が挙げられています。
+the new measures, which included metal detectors and glass barriers, had ruined the experience of visiting the museum（金属探知機やガラスの仕切りを含むその新しい対策が、美術館を訪れる体験を台無しにした）
+本文と選択肢を対にすると、次のようになります。
+本文 don't provide an intimate, nose-to-the-canvas environment（キャンバスに鼻がつくほど近くで見られる環境を用意しない）→ 選択肢 their access to the artworks on display is being limited（展示されている美術品に近づくことが制限されている）
+本文 visitors complain（来館者は不満を言う）→ 選択肢 Museum visitors become upset（来館者は気分を害する）
+ですから1が正解です。
+この問題の型：言いかえ（visitors complain → visitors become upset）
+【ほかの選択肢】
+2 本文では、警備の強化について人々が「体験を台無しにした」と言ったことは書かれていますが、訪れる人が減ったという話や、犯罪の標的になることを思い出すという話はありません。本文にない内容です。
+3 本文には、泥棒の道具が進歩して警備システムが泥棒を見つけにくくなったという話はありません。第2段落の metal detectors（金属探知機）は警備のための道具として出てくるだけです。
+4 本文で台無しになったと言われているのは the experience of visiting the museum（美術館を訪れる体験）であり、美術品そのものではありません。警備の技術が美術品に損害を与えるとは書かれていません。
+【覚えるポイント】
+・accessible：「近づきやすい、利用しやすい」。access は「近づくこと、利用する権利」。
+・設問が「問題点」をたずねているときは、本文の challenge（課題）、complain（不満を言う）、ruined（台無しにした）のような語の近くに答えの手がかりがあることが多いです。

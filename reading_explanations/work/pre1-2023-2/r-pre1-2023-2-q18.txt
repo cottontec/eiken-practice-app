@@ -1,0 +1,29 @@
+---
+choices: bothersome | compelling | flattering | daring
+answerText: bothersome
+reviewed: yes
+---
+【正解】1 bothersome（わずらわしい、迷惑な）
+【和訳】
+（英文）
+During her commute, Josie found the noise from the earphones of the train passenger next to her so ［bothersome］ that she decided to move to another seat.
+（訳）
+通勤の途中、ジョージーは、電車で隣にいた乗客のイヤホンから出る音をとても（わずらわしく）感じたので、別の席に移ることにしました。
+（選択肢の意味）
+1 bothersome：わずらわしい、迷惑な
+2 compelling：（思わず引きつけられるほど）魅力的な、説得力のある
+3 flattering：（人を）おだてるような、実物よりよく見せる
+4 daring：大胆な、思い切った
+【考え方】
+まず見るところ：文の後半の so ～ that she decided to move to another seat
+so ( ) that she decided to move to another seat（とても（　）なので、彼女は別の席に移ることにした）
+so ～ that ... は「とても～なので…」という意味で、that の後ろが結果になります。commute は「通勤（仕事に通うこと）」です。
+ジョージーは、隣の乗客のイヤホンから出る音のせいで、席を移ることにしました。席を移りたくなるのは、その音がいやだったからだと考えられます。bothersome は「わずらわしい、迷惑な」なので、1が正解です。
+この問題の型：熟語・決まった形（so ～ that ...）／因果（音がわずらわしい→席を移る）
+【ほかの選択肢】
+2 compelling は「（思わず引きつけられるほど）魅力的な」です。音が魅力的なら、離れようとして別の席に移る理由になりません。
+3 flattering は「（人を）おだてるような、実物よりよく見せる」です。イヤホンから出る音の説明として意味が通りません。
+4 daring は「大胆な、思い切った」です。人や行動の様子を表す語で、「音がとても大胆なので席を移った」では意味が通りません。
+【覚えるポイント】
+・bothersome：「わずらわしい、迷惑な」。noise（音、騒音）といっしょに使われることが多い語です。
+・find A so ～ that ...（Aがとても～だと感じたので…）では、that の後ろの行動（ここでは「別の席に移る」）から、Aに対してどんな気持ちだったかを考えると手がかりになります。

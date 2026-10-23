@@ -1,0 +1,25 @@
+---
+choices: spirit | guilt | harm | value
+answerText: harm
+reviewed: yes
+---
+【正解】3 harm（害、危害）
+【和訳】
+A：あなたの犬、ちょっとこわそうだね。
+B：心配しないで。この犬は、あなたに何も危害を加えないよ。人をかむことは絶対にないから。
+（選択肢の意味）
+1 spirit：精神、元気
+2 guilt：罪、罪悪感
+3 harm：害、危害
+4 value：価値
+【考え方】
+Aは Your dog looks a bit scary.（あなたの犬、少しこわそうだね）と言っています。Bは Don't worry.（心配しないで）と答え、最後に He never bites people.（その犬は決して人をかまない）と言っています。He はBの犬を指しています。
+つまりBは「こわがらなくても大丈夫、この犬は人を傷つけない」と伝えたいのです。do ＋ 人 ＋ harm は「人に害を与える」という決まった言い方です。not ～ any harm で「少しも害を与えない」となります。
+He won't do you any harm.（その犬はあなたに何の害も与えない）とすると、「心配しないで」「決して人をかまない」の両方と話がつながるので、3が正解です。
+【ほかの選択肢】
+1 spirit は「精神、元気」です。do you any spirit という言い方はなく、人をかまないという話ともつながりません。
+2 guilt は「罪、罪悪感」です。do you any guilt という言い方はなく、意味が通りません。
+4 value は「価値」です。do you any value という言い方はなく、「心配しないで」という返事の理由になりません。
+【覚えるポイント】
+・do ＋ 人 ＋ harm：「人に害を与える」。won't do you any harm で「あなたに何の害も与えない」。
+・bite：「かむ」。

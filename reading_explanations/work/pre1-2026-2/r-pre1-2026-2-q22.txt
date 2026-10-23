@@ -1,0 +1,30 @@
+---
+choices: In exchange | Consequently | Nevertheless | In short
+answerText: Nevertheless
+reviewed: yes
+---
+【正解】3 Nevertheless（それにもかかわらず）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 In exchange（その代わりに、引きかえに）
+2 Consequently（その結果）
+3 Nevertheless（それにもかかわらず）
+4 In short（要するに）
+【考え方】
+まず見るところ：第1段落の空所の前の People had consumed foods rich in umami for centuries と、空所のあとの scientific agreement on umami's status was difficult to reach
+People had consumed foods rich in umami for centuries, including kombu, mushrooms, and fermented sauces.（人々は、昆布やキノコ、発酵させた調味料などをはじめとする、うま味の豊富な食べ物を何世紀にもわたって食べてきていた）
+空所の前では、うま味のある食べ物が、昔から長い間ずっと食べられてきたことが述べられています。
+( 22 ), scientific agreement on umami's status was difficult to reach.（（22）、うま味の位置づけについて科学的な合意に達するのは難しかった）
+status は「位置づけ、地位」、agreement は「合意（意見が一致すること）」という意味です。何百年も食べられてきたのなら、うま味は当然認められそうなのに、科学者の意見はなかなかまとまらなかった、という予想と反対の流れになっています。前の内容から予想されることと反対のことを述べるときに使う Nevertheless（それにもかかわらず）が入るので、3が正解です。
+In fact, it took nearly a hundred years of debate and experimental research（実際、100年近くにわたる議論と実験的な研究が必要だった）
+このあとの In fact（実際）の文も、合意が難しかったことを具体的に示していて、この読み方と合います。
+この問題の型：対比（昔から食べられてきた⇔科学的な合意は難しかった）
+【ほかの選択肢】
+1 In exchange（その代わりに、引きかえに）は、何かと何かを取りかえる関係を表します。「うま味の食べ物を食べてきた代わりに、合意は難しかった」となり、意味が通りません。
+2 Consequently（その結果）は、前の内容が原因で、あとの内容が結果になる関係を表します。昔から食べられてきたことが原因で合意が難しくなった、という関係は本文に書かれておらず、つながりません。
+4 In short（要するに）は、前の内容をまとめるときに使います。空所のあとの「合意が難しかった」は、前の「昔から食べられてきた」をまとめた内容ではないので合いません。
+【覚えるポイント】
+・Nevertheless：「それにもかかわらず」。前の内容から予想されることと反対のことを述べるときに使います。
+・つなぎの言葉の空所では、空所の前から「ふつうはこうなるはず」と予想し、あとの内容がその予想どおりか反対かを確かめることが手がかりになります。

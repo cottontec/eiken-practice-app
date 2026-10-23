@@ -1,0 +1,34 @@
+---
+choices: the steadily increasing demand for Nicaraguan goods and services will ensure that the project is profitable. | if Nicaragua does not take advantage of the opportunity to host the project, another Central American country will do so. | a canal across Nicaragua would eliminate the need for any other shipping route between the Atlantic and Pacific Oceans. | increases in the size of cargo ships and the amount of cargo being carried mean an alternative to the Panama Canal is necessary.
+answerText: increases in the size of cargo ships and the amount of cargo being carried mean an alternative to the Panama Canal is necessary.
+reviewed: yes
+---
+【正解】4 increases in the size of cargo ships and the amount of cargo being carried mean an alternative to the Panama Canal is necessary.（貨物船の大きさと、運ばれる貨物の量が増えていることは、パナマ運河に代わるものが必要だということを意味する。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Supporters of Wang Jing's proposal believe that（ワン・ジンの提案を支持する人たちは、～と考えている。）
+1 the steadily increasing demand for Nicaraguan goods and services will ensure that the project is profitable.（ニカラグアの商品やサービスへの需要が着実に増えていることで、その事業はきっと利益を上げるだろう。）
+2 if Nicaragua does not take advantage of the opportunity to host the project, another Central American country will do so.（もしニカラグアがその事業を受け入れる機会を生かさなければ、中央アメリカの別の国がそうするだろう。）
+3 a canal across Nicaragua would eliminate the need for any other shipping route between the Atlantic and Pacific Oceans.（ニカラグアを横切る運河ができれば、大西洋と太平洋の間のほかのどんな航路も必要なくなるだろう。）
+4 increases in the size of cargo ships and the amount of cargo being carried mean an alternative to the Panama Canal is necessary.（貨物船の大きさと、運ばれる貨物の量が増えていることは、パナマ運河に代わるものが必要だということを意味する。）
+【考え方】
+まず見るところ：第2段落の Proponents of Wang's plan note that ～ と Pointing also to steadily rising shipping traffic ～
+設問の Supporters（支持する人たち）は、第2段落の Proponents（支持者）と同じ人たちです。彼らの考えは次の2つの文に書かれています。
+Proponents of Wang's plan note that "Supermax" cargo ships are too large to use the existing Panama Canal.（ワン氏の計画を支持する人たちは、「スーパーマックス」級の貨物船は大きすぎて、今あるパナマ運河を使えないと指摘する）
+Pointing also to steadily rising shipping traffic, they say a new canal is not only economically sensible, but essential.（また、海運の量が着実に増え続けていることも挙げて、新しい運河は経済的に理にかなっているだけでなく、絶対に必要なものだと彼らは言う）
+cargo ship は「貨物船（荷物を運ぶ船）」、too ～ to ... は「～すぎて…できない」、shipping traffic は「海運の量（船で運ばれる荷物や船の行き来の量）」、essential は「絶対に必要な」という意味です。
+本文と選択肢を対にすると、次のようになります。
+本文 "Supermax" cargo ships are too large to use the existing Panama Canal（スーパーマックス級の貨物船は大きすぎて今のパナマ運河を使えない）→ 選択肢 increases in the size of cargo ships（貨物船の大きさが増していること）
+本文 steadily rising shipping traffic（着実に増え続けている海運の量）→ 選択肢 the amount of cargo being carried（運ばれる貨物の量が増えていること）
+本文 a new canal is ... essential（新しい運河は絶対に必要だ）＝ 選択肢 an alternative to the Panama Canal is necessary（パナマ運河に代わるものが必要だ）
+支持者が挙げている2つの理由と結論が、選択肢4にまとめられています。ですから4が正解です。
+この問題の型：言いかえ（大きすぎる船・増える海運→パナマ運河に代わるものが必要）
+【ほかの選択肢】
+1 本文と合いません。支持者が挙げているのは、海運の量が増えていることです。ニカラグアの商品やサービスへの需要が増えているとは書かれていません。
+2 本文に書かれていません。ニカラグアが機会を生かさなければ中央アメリカの別の国が運河を造る、という話は出てきません。
+3 言い切りすぎです。支持者は新しい運河が「必要だ」と言っているだけで、ほかのどんな航路も必要なくなるとは言っていません。
+【覚えるポイント】
+・too ～ to ...：「～すぎて…できない」。not only A but (also) B：「AだけでなくBも」。
+・設問の Supporters（支持する人たち）が、本文では Proponents（支持者）のように別の語で書かれていることがあります。同じ意味の語を探して、その人たちの意見の部分を読むのが手がかりになります。

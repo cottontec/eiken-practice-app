@@ -1,0 +1,23 @@
+---
+choices: to | wanted | team | whoever | join the
+answerText: join the
+order: 4 2 1 5 3
+reviewed: yes
+---
+【正解】5 join the（この問題の4番目）
+【完成文】
+Laura wants to start a softball team at her company. Today, she told her co-workers in an e-mail that ( whoever wanted to join the team ) should let her know by this Friday.
+並べ方：4 whoever → 2 wanted → 1 to → 5 join the → 3 team（2番目は2、4番目は5）
+【和訳】
+ローラは会社でソフトボールのチームを作りたいと思っています。今日、彼女は同僚たちにEメールで、チームに入りたい人はだれでも、今週の金曜日までに自分に知らせてほしいと伝えました。
+【考え方】
+空所のあとは should let her know by this Friday（今週の金曜日までに彼女に知らせるべきだ）です。should の前には「だれが知らせるのか」という主語が必要です。ですから、空所全体が主語のまとまりになると考えます。
+選択肢の 4 whoever は「～する人はだれでも」という意味で、whoever ＋ 動詞 ～ の形で「～する人はだれでも」という主語のまとまりを作ることができます。そこで最初に whoever を置き、次に動詞 2 wanted を置きます。
+want to ～ は「～したい」なので、wanted のあとに 1 to、そのあとに 5 join the を置き、最後に 3 team を続けます。join the team は「チームに入る」です。
+whoever wanted to join the team（チームに入りたい人はだれでも）が主語になり、「チームに入りたい人はだれでも、金曜日までに知らせてほしい」となります。ローラがチームを作りたいという1文目ともつながります。
+wanted が want ではないのは、文全体が she told（彼女は伝えた）という過去の話の中で述べられているからです。
+4番目に join the が来るのは、wanted to のあとに「何をしたいのか」を表す動詞 join を置き、最後の team につなげるためです。
+したがって4番目は5 join theです。
+【覚えるポイント】
+・whoever ～：「～する人はだれでも」。anyone who ～ とほぼ同じ意味です。
+・let ＋ 人 ＋ know：「人に知らせる」。

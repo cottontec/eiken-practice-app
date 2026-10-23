@@ -1,0 +1,29 @@
+---
+choices: Alternatively | Despite this | For instance | As a result
+answerText: As a result
+reviewed: yes
+---
+【正解】4 As a result（その結果）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Alternatively（あるいは、その代わりに）
+2 Despite this（これにもかかわらず）
+3 For instance（たとえば）
+4 As a result（その結果）
+【考え方】
+まず見るところ：第2段落の空所の前の cause the body's cells to become resistant to the effects of insulin と、後ろの the body can no longer adjust sugar levels
+第2段落では、まずインスリンの働きが説明されています。インスリンは、血液から細胞に取りこまれる糖の量をコントロールするホルモンです。空所の前の文は、2型糖尿病がどうやって起きるかの説明です。
+Type 2 diabetes develops when high blood sugar levels over a long period—often due to overconsumption—cause the body's cells to become resistant to the effects of insulin.（2型糖尿病は、長い期間にわたって血液中の糖の量が多いこと――多くの場合、食べすぎによるもの――が原因で、体の細胞がインスリンの働きに反応しにくくなるときに発症する）
+resistant to ～ は「～に抵抗する、～が効きにくい」です。細胞にインスリンが効きにくくなると、インスリンによる糖の調節がうまくいかなくなります。空所の後ろはその結果です。
+the body can no longer adjust sugar levels（体はもう糖の量を調節できなくなる）
+「インスリンが効きにくくなる」が原因で、「糖の量を調節できなくなる」が結果です。As a result は「その結果」なので、4が正解です。
+この問題の型：因果（インスリンが効きにくくなる → その結果、糖の量を調節できない）
+【ほかの選択肢】
+1 Alternatively は「あるいは、その代わりに」で、別のやり方や別の可能性を挙げるときに使います。空所の後ろは前の文と別の可能性ではなく、前の文から起きることなので合いません。
+2 Despite this は「これにもかかわらず」で、前の内容から予想されることと反対のことが続くときに使います。インスリンが効きにくくなれば糖の量を調節できなくなるのは自然な流れなので、「にもかかわらず」ではつながりません。
+3 For instance は「たとえば」で、前の内容の具体例を挙げるときに使います。「糖の量を調節できなくなる」は、前の文の具体例ではなく、そこから起きる結果なので合いません。
+【覚えるポイント】
+・As a result：「その結果」。resistant to ～：「～が効きにくい、～に抵抗する」。can no longer ～：「もう～できない」。
+・空所の前が「AがBを引き起こす」という仕組みの説明で、後ろが「もう～できない」のような困った状態なら、原因と結果の関係を考えるのが手がかりになります。

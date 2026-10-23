@@ -1,0 +1,34 @@
+---
+choices: goes for | brings up | takes out | comes to
+answerText: comes to
+reviewed: yes
+---
+【正解】4 comes to（〔ある状態〕に至る。come to an end で「終わる」）
+【和訳】
+（英文）
+A: Well, tomorrow our vacation ［comes to］ an end, and we have to fly back home.
+B: I know. I don't want to leave. I wish we could stay here longer.
+（訳）
+A：さて、明日で私たちの休暇は（終わり）、飛行機で家に帰らなければならないね。
+B：そうだね。帰りたくないな。ここにもっと長くいられたらいいのに。
+（選択肢の意味）
+1 goes for：～を取りに行く、～を選ぶ
+2 brings up：（子どもを）育てる、（話題を）持ち出す
+3 takes out：取り出す、連れ出す
+4 comes to：（ある状態）に至る
+【考え方】
+まず見るところ：空所のすぐあとの an end
+come to an end で「終わる、終わりになる」という決まった言い方です。
+tomorrow our vacation comes to an end, and we have to fly back home（明日で私たちの休暇は終わり、飛行機で家に帰らなければならない）
+空所に comes to を入れると、このように意味が通ります。
+I don't want to leave. I wish we could stay here longer.（帰りたくない。ここにもっと長くいられたらいいのに）
+Bの言葉も、休暇が終わってしまうのを残念に思う気持ちを表していて、Aの発言とつながります。ですから4が正解です。
+なお、tomorrow（明日）のことなのに comes と現在形になっています。これは、休暇が明日終わることがすでに決まっている予定だからです。
+この問題の型：熟語・決まった形（come to an end）
+【ほかの選択肢】
+1 goes for は go for（～を取りに行く、～を選ぶ）に s が付いた形です。「休暇が終わりを取りに行く」となり、意味が通りません。
+2 brings up は bring up（〔子どもを〕育てる、〔話題を〕持ち出す）に s が付いた形です。「休暇が終わりを持ち出す」となり、意味が通りません。
+3 takes out は take out（取り出す、連れ出す）に s が付いた形です。「休暇が終わりを取り出す」となり、意味が通りません。
+【覚えるポイント】
+・come to an end：「終わる、終わりになる」。
+・選択肢がどれも「動詞＋短い語」のときは、空所のすぐあとの語（ここでは an end）と組み合わせて決まった言い方になるものを探すのが近道です。

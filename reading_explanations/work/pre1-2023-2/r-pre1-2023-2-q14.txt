@@ -1,0 +1,30 @@
+---
+choices: obedient | flexible | sinful | nosy
+answerText: nosy
+reviewed: yes
+---
+【正解】4 nosy（（他人のことを）知りたがる、せんさく好きな）
+【和訳】
+（英文）
+Akiko could not help but be ［nosy］ when she saw her colleagues having a quiet conversation. She moved closer to them to hear what they were talking about.
+（訳）
+アキコは、同僚たちが静かに話をしているのを見たとき、（人のことを知りたがる気持ち）をおさえられませんでした。彼女は、同僚たちが何について話しているのかを聞くために、彼らのもっと近くへ移動しました。
+（選択肢の意味）
+1 obedient：従順な（言われたことによく従う）
+2 flexible：柔軟な、融通がきく
+3 sinful：罪深い
+4 nosy：（他人のことを）知りたがる、せんさく好きな
+【考え方】
+まず見るところ：次の文の She moved closer to them to hear what they were talking about
+She moved closer to them to hear what they were talking about.（彼女は、彼らが何について話しているのかを聞くために、彼らのもっと近くへ移動した）
+to hear ～ は「～を聞くために」という目的を表します。アキコは、同僚の会話の中身を知りたくて近づいたことが分かります。
+Akiko could not help but be ( ) when she saw her colleagues having a quiet conversation.（アキコは、同僚たちが静かに話をしているのを見たとき、（　）にならずにはいられなかった）
+could not help but ～ は「～せずにはいられなかった」という意味です。nosy は「（他人のことを）知りたがる、せんさく好きな（あれこれ知ろうとする）」なので、次の文の行動とつながります。ですから4が正解です。
+この問題の型：推論（近づいて会話を聞こうとした→人のことを知りたがっていた）
+【ほかの選択肢】
+1 obedient は「従順な（言われたことによく従う）」です。この文にはアキコに何かを言いつけた人は出てこないので、「従順にならずにはいられなかった」では、会話を聞こうと近づいた行動とつながりません。
+2 flexible は「柔軟な、融通がきく」です。「柔軟にならずにはいられなかった」では、会話の中身を知りたくて近づいた理由になりません。
+3 sinful は「罪深い」です。重い罪や悪い行いについて使う語で、同僚の会話を聞こうと近づく気持ちを表す語としては合いません。
+【覚えるポイント】
+・nosy：「（他人のことを）知りたがる、せんさく好きな」。人の話をこっそり聞こうとするような様子を表します。
+・could not help but be ～（～にならずにはいられなかった）の空所は、次の文に書かれた行動（ここでは「会話を聞こうと近づいた」）から、その気持ちを表す形容詞を選ぶと手がかりになります。

@@ -1,0 +1,33 @@
+---
+choices: skimmed over | branched off | tipped over | scratched out
+answerText: branched off
+reviewed: yes
+---
+【正解】2 branched off（枝分かれした、別の方向へ分かれた）
+【和訳】
+（英文）
+The musician started his career as a traditional jazz pianist, but his music later ［branched off］ and developed into a unique style of jazz.
+（訳）
+その音楽家は伝統的なジャズのピアニストとして活動を始めたが、彼の音楽はのちに（枝分かれして）、独自のスタイルのジャズへと発展した。
+（選択肢の意味）
+1 skimmed over：～にざっと目を通した、（表面を）かすめて進んだ
+2 branched off：枝分かれした、別の方向へ分かれた
+3 tipped over：ひっくり返った
+4 scratched out：（線を引いて）～を消した
+【考え方】
+まず見るところ：空所の前の but と、後ろの developed into a unique style of jazz
+前半では、音楽家の始まりが書かれています。
+The musician started his career as a traditional jazz pianist（その音楽家は伝統的なジャズのピアニストとして活動を始めた）
+career は「（仕事としての）経歴、活動」、traditional は「伝統的な（昔からの決まった形の）」です。
+but のあとは、次のようになっています。
+his music later (　) and developed into a unique style of jazz（彼の音楽はのちに（　）、独自のスタイルのジャズへと発展した）
+unique は「独自の、ほかにない」です。traditional（伝統的な）と unique（独自の）が but で対比されています。伝統的なジャズから離れて、新しい形へ進んだという流れです。
+branch は「木の枝」で、branch off は「枝分かれする、本流から分かれる」という意味です。伝統的なジャズから分かれて独自の方向へ発展した、となるので、2が正解です。
+この問題の型：対比（but 伝統的 ⇔ 独自）／熟語・決まった形（branch off）
+【ほかの選択肢】
+1 skimmed over は「ざっと目を通した、かすめて進んだ」です。「彼の音楽はざっと目を通して独自のジャズへ発展した」となり、意味が通りません。
+3 tipped over は「ひっくり返った」です。音楽がひっくり返って独自のスタイルに発展した、では意味が通りません。
+4 scratched out は「線を引いて消した」です。音楽が消えたのでは、「独自のスタイルへ発展した」とつながりません。
+【覚えるポイント】
+・branch off：「枝分かれする、別の方向へ分かれる」。branch（枝）から意味を考えられます。
+・traditional（伝統的な）と unique（独自の）のように、but の前後で反対の性質が並ぶときは、「元のものから分かれる、離れる」という意味の語が入る手がかりになります。

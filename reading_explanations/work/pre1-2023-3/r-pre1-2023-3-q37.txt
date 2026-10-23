@@ -1,0 +1,33 @@
+---
+choices: They have made it clear that finding alternatives to common metals will become important in the very near future. | They have made people realize that the way common metals are used has more effect on the environment than had previously been known. | They have increased debates about how current population increases are going to affect the supply of necessary materials in the future. | They have influenced the way that people see modern environmental problems and made it more difficult to have meaningful communication about them.
+answerText: They have influenced the way that people see modern environmental problems and made it more difficult to have meaningful communication about them.
+reviewed: yes
+---
+【正解】4 They have influenced the way that people see modern environmental problems and made it more difficult to have meaningful communication about them.（そうした議論は、人々が現代の環境問題をどう見るかに影響を与え、環境問題について意味のある話し合いをするのをより難しくしてきた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to the author of the passage, what impact do debates like the one between Simon and Ehrlich seem to have had on modern society?（この文章の筆者によると、サイモンとエーリックの議論のような議論は、現代の社会にどんな影響を与えてきたようか。）
+1 They have made it clear that finding alternatives to common metals will become important in the very near future.（そうした議論は、よく使われる金属の代わりになるものを見つけることが、ごく近い将来に重要になると明らかにしてきた。）
+2 They have made people realize that the way common metals are used has more effect on the environment than had previously been known.（そうした議論は、よく使われる金属の使われ方が、以前に知られていたよりも大きな影響を環境に与えていることを、人々に気づかせてきた。）
+3 They have increased debates about how current population increases are going to affect the supply of necessary materials in the future.（そうした議論は、現在の人口の増加が、将来の必要な材料の供給にどう影響するかについての議論を増やしてきた。）
+4 They have influenced the way that people see modern environmental problems and made it more difficult to have meaningful communication about them.（そうした議論は、人々が現代の環境問題をどう見るかに影響を与え、環境問題について意味のある話し合いをするのをより難しくしてきた。）
+【考え方】
+まず見るところ：第3段落の there are worries about the impact of debates like Ehrlich and Simon's のあとの2つの文
+第3段落の後半で、筆者は、二人の議論のような議論が与える影響について心配な点があると述べ、2つの点を挙げています。1つ目は次の文です。
+The fact that technology appears to have lessened the effects of population growth is often taken as evidence that humans will also be able to overcome environmental problems in the same way.（技術が人口増加の影響をやわらげてきたように見えるという事実は、人間が同じようにして環境問題も乗りこえられるだろうという証拠だと受け取られることが多い）
+2つ目は Furthermore（さらに）で始まる文です。
+Furthermore, the fact that environmental debates are set out in the same way, with extreme warnings of catastrophe, such as global warming, being countered by incredibly optimistic predictions, tends to make constructive dialogue impossible and divide people into two opposing camps.（さらに、環境についての議論が同じ形で示される――地球温暖化のような大惨事についての極端な警告に、信じられないほど楽観的な予測が反論する――という事実は、建設的な話し合いをできなくし、人々を対立する2つの陣営に分けてしまう傾向がある）
+本文と選択肢4を対にすると、次のようになります。
+・本文 is often taken as evidence that humans will also be able to overcome environmental problems（環境問題も乗りこえられる証拠だと受け取られる）→ 選択肢 have influenced the way that people see modern environmental problems（人々が現代の環境問題をどう見るかに影響を与えた）
+・本文 tends to make constructive dialogue impossible（建設的な話し合いをできなくする傾向がある）→ 選択肢 made it more difficult to have meaningful communication（意味のある話し合いをより難しくした）
+本文の impossible（できない）を、選択肢は more difficult（より難しい）とやわらかく言っていますが、話し合いがうまくいかなくなるという向きは同じです。よって4が正解です。
+この問題の型：言いかえ（make constructive dialogue impossible → made it more difficult to have meaningful communication）
+【ほかの選択肢】
+1 本文に書かれていません。第3段落には、技術のおかげで代わりのものが見つかる傾向があるとありますが、議論のせいで「ごく近い将来に代わりのものを見つけることが重要になる」と明らかになったとは書かれていません。
+2 本文に書かれていません。金属の使われ方が環境に与える影響については、本文に何も書かれていません。
+3 本文に書かれていません。本文では、そうした議論が建設的な話し合いをできなくし、人々を2つの陣営に分けると書かれています。人口と材料の供給についての議論が増えたという話はありません。
+【覚えるポイント】
+・be taken as evidence that ～：「～という証拠だと受け取られる」。constructive dialogue：「建設的な話し合い」。
+・筆者の意見をたずねる設問では、worries（心配）や Furthermore（さらに）のように、筆者が自分の考えを付け加えていく語の後ろを見ると、根拠の文を見つける手がかりになります。

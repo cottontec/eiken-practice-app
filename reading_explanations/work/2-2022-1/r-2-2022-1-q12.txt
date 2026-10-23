@@ -1,0 +1,30 @@
+---
+choices: came close to | made fun of | took pride in | found fault with
+answerText: came close to
+reviewed: yes
+---
+【正解】1 came close to（もう少しで～するところだった）
+【和訳】
+（英文）
+Derek ［came close to］ winning his company’s golf tournament. However, he played a bad shot on the last hole, and he ended up finishing second.
+（訳）
+デレクは、会社のゴルフ大会で（もう少しで）優勝する（ところでした）。しかし、最後のホールで悪いショットを打ってしまい、結局2位で終わりました。
+（選択肢の意味）
+1 came close to：もう少しで～するところだった
+2 made fun of：～をからかった
+3 took pride in：～を誇りに思った
+4 found fault with：～のあら探しをした、～にけちをつけた
+【考え方】
+まず見るところ：次の文の However, he played a bad shot on the last hole, and he ended up finishing second.
+However, he played a bad shot on the last hole, and he ended up finishing second.（しかし、最後のホールで悪いショットを打ち、結局2位で終わった）
+However（しかし）のあとで、優勝ではなく2位で終わったと言っています。end up -ing は「結局～することになる」という意味です。
+前の文は「優勝」の話で、However のあとが「2位」なので、前の文は「優勝しそうだった（けれど優勝しなかった）」という内容だと考えられます。
+come close to -ing は「もう少しで～するところだ」という意味です。came close to winning で「もう少しで優勝するところだった（でも、実際には優勝しなかった）」となり、However 以下の内容とつながります。ですから、1が正解です。
+この問題の型：対比（However：優勝しそうだった⇔2位で終わった）、熟語・決まった形（come close to -ing）
+【ほかの選択肢】
+2 made fun of は make fun of ～（～をからかう）の過去形です。「優勝することをからかった」となり、However 以下の「最後に失敗して2位になった」という話とつながりません。
+3 took pride in は take pride in ～（～を誇りに思う）の過去形です。「優勝することを誇りに思った」とすると、実際には2位で終わったという However 以下の内容と合いません。
+4 found fault with は find fault with ～（～のあら探しをする、～にけちをつける）の過去形です。「優勝することにけちをつけた」となり、意味が通りません。
+【覚えるポイント】
+・come close to -ing：「もう少しで～するところだ」。実際にはそうならなかったことを表します。
+・However のあとの結果（ここでは2位）が分かったら、空所の文は「その反対」の内容かどうかを考えます。end up -ing：「結局～することになる」。

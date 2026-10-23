@@ -1,0 +1,30 @@
+---
+choices: descendant | triumph | emission | deficiency
+answerText: deficiency
+reviewed: yes
+---
+【正解】4 deficiency（不足、欠乏）
+【和訳】
+（英文）
+The patient was diagnosed with a vitamin ［deficiency］. The doctor said she would need to take supplements until her vitamin levels were normal again.
+（訳）
+その患者はビタミン（不足）と診断された。医師は、ビタミンの値が再び正常に戻るまで、彼女はサプリメントを飲む必要があるだろうと言った。
+（選択肢の意味）
+1 descendant：子孫
+2 triumph：大勝利、大成功
+3 emission：排出、放出
+4 deficiency：不足、欠乏
+【考え方】
+まず見るところ：後ろの文の take supplements until her vitamin levels were normal again
+was diagnosed with ～ は「～と診断された（医師に、～という病気や状態だと判断された）」です。どんな状態なのかは、後ろの文の医師の言葉から分かります。
+The doctor said she would need to take supplements until her vitamin levels were normal again.（医師は、ビタミンの値が再び正常に戻るまで、彼女はサプリメントを飲む必要があるだろうと言った）
+supplements は「サプリメント（足りない栄養を補うための錠剤など）」です。「値が正常に戻るまで補う必要がある」ということは、今はビタミンが足りていないということです。
+足りない状態を表すのは deficiency（不足、欠乏）です。ですから4が正解です。
+この問題の型：語の意味・組み合わせ（vitamin deficiency）／推論（補う必要がある → 足りていない）
+【ほかの選択肢】
+1 descendant は「子孫」です。「ビタミンの子孫と診断された」となり、意味が通りません。
+2 triumph は「大勝利、大成功」です。病気や体の状態を診断する話には合わず、サプリメントで補う必要とも結びつきません。
+3 emission は「排出、放出（外に出すこと）」です。「ビタミンの排出と診断された」では病気の状態を表す言い方にならず、「値が正常に戻るまで補う」という医師の話とも合いません。
+【覚えるポイント】
+・deficiency：「不足、欠乏」。vitamin deficiency で「ビタミン不足」。
+・病名や体の状態を答える空所では、医師がどんな治療をすすめているか（ここでは「補う」）を見ると、何が起きているのかを考える手がかりになります。

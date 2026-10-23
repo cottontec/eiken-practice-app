@@ -1,0 +1,33 @@
+---
+choices: token | lease | vicinity | dialect
+answerText: lease
+reviewed: yes
+---
+【正解】2 lease（賃貸契約）
+【和訳】
+（英文）
+A: I've been living in this apartment for a year now, and the ［lease］ is about to end. I have to decide if I should stay or move.
+B: If your rent will be the same, I recommend renewing your contract and staying.
+（訳）
+A：このアパートに住んで、もう1年になるよ。そして、（賃貸契約）がもうすぐ終わる。住み続けるか、引っ越すかを決めないといけないね。
+B：家賃が同じなら、契約を更新して住み続けることをすすめるよ。
+（選択肢の意味）
+1 token：しるし、記念の品
+2 lease：賃貸契約（家や土地などを借りる約束）
+3 vicinity：近所、付近
+4 dialect：方言
+【考え方】
+まず見るところ：空所の後ろの is about to end と、Bの答えの renewing your contract
+Aは、アパートに1年住んできて、何かが「もうすぐ終わる」と言っています。
+the (　) is about to end（〇〇がもうすぐ終わる）
+be about to ～ は「もうすぐ～する」です。Bの答えを見ると、何が終わるのかが分かります。
+I recommend renewing your contract and staying.（契約を更新して住み続けることをすすめるよ）
+renew は「更新する（期限が来たものを新しく続ける）」、contract は「契約」です。Bは「契約を更新して」と言っているので、Aの言う「もうすぐ終わるもの」は、アパートを借りる契約だと分かります。lease は「賃貸契約」なので、2が正解です。
+この問題の型：言いかえ（lease → your contract）
+【ほかの選択肢】
+1 token は「しるし、記念の品」です。「記念の品がもうすぐ終わる」では、Bの「契約を更新する」という答えとつながりません。
+3 vicinity は「近所、付近」です。「近所がもうすぐ終わる」となり、意味が通りません。
+4 dialect は「方言」です。アパートに住み続けるか引っ越すかという話と関係がなく、意味が通りません。
+【覚えるポイント】
+・lease：「賃貸契約」。be about to ～：「もうすぐ～する」。renew a contract：「契約を更新する」。rent：「家賃」。
+・会話の空所は、相手の答えの中に同じものを指す語（ここでは contract）が出てくることが多いので、Bの言葉を手がかりにします。

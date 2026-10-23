@@ -1,0 +1,31 @@
+---
+choices: eat in the main hall of the convention center. | use the parking lot in the square outside the center. | take a picture of another visitor’s costume. | bring their own snacks and drinks to the show.
+answerText: take a picture of another visitor’s costume.
+reviewed: yes
+---
+【正解】3 take a picture of another visitor's costume.（ほかの来場者の衣装の写真を撮る。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Visitors to the Gravelton Comic Show must ask to be allowed to（グラベルトン・コミック・ショーの来場者は、～ための許可を求めなければならない。）
+1 eat in the main hall of the convention center.（コンベンションセンターのメインホールで食べる）
+2 use the parking lot in the square outside the center.（センターの外の広場にある駐車場を使う）
+3 take a picture of another visitor’s costume.（ほかの来場者の衣装の写真を撮る）
+4 bring their own snacks and drinks to the show.（自分の軽食や飲み物をショーに持ってくる）
+【考え方】
+まず見るところ：第3段落の Please do not touch other people's costumes or take photos of them without getting permission first.
+Please do not touch other people's costumes or take photos of them without getting permission first.（ほかの人の衣装にさわったり、先に許可をもらわずにその写真を撮ったりしないでください）
+設問の must ask to be allowed to ～ は「～してよいか、許可を求めなければならない」という意味です。without getting permission first は「先に許可をもらわずに」という意味なので、ほかの人の衣装の写真を撮りたいときは、先に許可をもらう必要があります。
+本文と選択肢を対にすると、次のようになります。
+本文 do not ... take photos of them without getting permission first（先に許可をもらわずに、その〔ほかの人の衣装の〕写真を撮らないでください） → 設問と選択肢 must ask to be allowed to take a picture of another visitor's costume（ほかの来場者の衣装の写真を撮ってよいか、許可を求めなければならない）
+「許可なしにしてはいけない」を、「許可を求めなければならない」と裏返して言いかえています。ですから3が正解です。
+この問題の型：言いかえ（許可なしにしない → 許可を求める）
+【ほかの選択肢】
+1 本文には eating and drinking are not allowed in the main hall（メインホールでは飲食が禁止されている）とあります。許可を求めれば食べられるのではなく、そもそも禁止されています。
+2 駐車場の話は本文にありません。センターの外の広場（square）は、フードトラックが来る場所として出てきます。
+4 自分の軽食や飲み物を持ってくるという話は本文にありません。本文にあるのは、カフェテリアやフードトラックで軽食や飲み物が売られるということです。
+【覚えるポイント】
+・without getting permission：「許可をもらわずに」。permission は「許可」です。
+・be allowed to ～：「～することが許されている」。ask to be allowed to ～ で「～してよいか許可を求める」。
+・本文の「許可なしに～しないで」のような否定の形は、設問では「許可を求めなければならない」のような肯定の形に言いかえられることがあります。

@@ -1,0 +1,31 @@
+---
+choices: Similarly | Regardless | In contrast | For one thing
+answerText: Similarly
+reviewed: yes
+---
+【正解】1 Similarly（同じように）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 Similarly（同じように）
+2 Regardless（それでも、それとは関係なく）
+3 In contrast（それとは対照的に）
+4 For one thing（一つには）
+【考え方】
+まず見るところ：第2段落の空所の前の For example, ～ led to greater overall energy consumption と、空所のあとの encouraged people to consume fish in greater quantities
+空所の前の文を確かめます。
+For example, it was once assumed that replacing traditional energy sources with renewable ones would lower demand for fossil fuels, but the increased supply has actually led to greater overall energy consumption.（たとえば、かつては、従来のエネルギー源を再生可能なエネルギー源に置きかえれば化石燃料の需要が下がるだろうと考えられていたが、供給が増えたことは、実際には、エネルギー全体の消費がより大きくなることにつながった）
+エネルギーの例です。「代わりのものを増やせば、もとの物を使う量が減る」と思われていたのに、実際には全体で使う量が増えた、という話です。
+次に、空所のあとを見ます。
+( 30 ), it is now believed that the availability of farmed fish has merely encouraged people to consume fish in greater quantities.（（30）、今では、養殖された魚が手に入ることは、人々がより多くの量の魚を食べるよううながしたにすぎないと考えられている）
+魚の場合も、「養殖の魚を増やせば、天然の魚をとる量が減る」と思われていたのに、実際には人々が食べる魚の量が増えた、という同じ形の話です。
+Similarly は「同じように」という意味で、前の例と同じことが別のものにも言えるときに使います。エネルギーの例と魚の例が同じ形なので、1が正解です。
+この問題の型：具体例とまとめ（For example のエネルギーの話と同じことが魚にも起きている）／言いかえ（greater overall energy consumption → consume fish in greater quantities）
+【ほかの選択肢】
+2 Regardless は「それでも、それとは関係なく」です。空所の前後は「関係ない」話ではなく、同じことが起きているという話なので、合いません。
+3 In contrast は「それとは対照的に」です。エネルギーの例と魚の例はどちらも「使う量が全体で増えた」という同じ結果で、反対の内容ではないので、合いません。
+4 For one thing は「一つには」です。理由をいくつか挙げるときの最初に使う言い方ですが、空所のあとは理由の1つ目ではなく、エネルギーの例と同じことが魚にも起きているという内容なので、合いません。
+【覚えるポイント】
+・Similarly：「同じように」。前の例と同じことが、別のものにも当てはまるときに使います。
+・For example のあとに別の分野（ここではエネルギー）の例が出て、空所のあとで本題（ここでは魚）にもどるときは、2つが同じ形かどうかを比べることが、つなぎの語を決める手がかりになります。

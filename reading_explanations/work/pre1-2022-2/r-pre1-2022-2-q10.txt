@@ -1,0 +1,30 @@
+---
+choices: gloomy | compulsory | reminiscent | muddled
+answerText: compulsory
+reviewed: yes
+---
+【正解】2 compulsory（義務の、必ずしなければならない）
+【和訳】
+（英文）
+All employees have a ［compulsory］ medical checkup every year. Companies are required by law to make sure all their workers do it.
+（訳）
+すべての従業員は毎年、（義務の）健康診断を受ける。会社は、働く人全員が必ずそれを受けるようにすることを、法律によって求められている。
+（選択肢の意味）
+1 gloomy：暗い、陰気な
+2 compulsory：義務の、必ずしなければならない
+3 reminiscent：（～を）思い出させる
+4 muddled：混乱した、ごちゃごちゃの
+【考え方】
+まず見るところ：あとの文の are required by law
+Companies are required by law to make sure all their workers do it.（会社は、働く人全員が必ずそれを受けるようにすることを、法律によって求められている）
+be required by law to ～ は「法律によって～することを求められている」、make sure ～ は「確実に～するようにする」という意味です。it は前の文の健康診断を指します。
+All employees have a (　) medical checkup every year.（すべての従業員は毎年、（　）健康診断を受ける）
+法律で会社に求められていて、全員が受けるのですから、この健康診断は受けなければならないものです。compulsory は「義務の」なので、2が正解です。
+この問題の型：言いかえ（compulsory → required by law）
+【ほかの選択肢】
+1 gloomy は「暗い、陰気な」です。健康診断の雰囲気についての話はなく、法律で求められているという説明とつながりません。
+3 reminiscent は「（～を）思い出させる」です。何を思い出させるのかが書かれておらず、法律で求められているという説明ともつながりません。
+4 muddled は「混乱した」です。健康診断が混乱しているという話はなく、意味が通りません。
+【覚えるポイント】
+・compulsory：「義務の、必ずしなければならない」。be required by law to ～：「法律によって～することを求められている」。
+・空所のあとの文に required（求められている）や by law（法律で）があるときは、空所に「しなければならない」という意味の語が入る手がかりになります。

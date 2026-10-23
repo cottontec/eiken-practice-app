@@ -1,0 +1,27 @@
+---
+choices: To some extent | At any cost | In the meantime | On the contrary
+answerText: In the meantime
+reviewed: yes
+---
+【正解】3 In the meantime（その間に）
+【和訳】
+（英文）
+Donna had to wait at home until the computer repairman came. ［In the meantime］, she washed the dishes and cleaned the bedroom.
+（訳）
+ドナは、コンピューターの修理の人が来るまで、家で待っていなければなりませんでした。（その間に）、彼女は皿を洗い、寝室を掃除しました。
+（選択肢の意味）
+1 To some extent：ある程度は
+2 At any cost：どんなことをしても、何としても
+3 In the meantime：その間に
+4 On the contrary：それどころか、それとは反対に
+【考え方】
+最初の文は Donna had to wait at home until the computer repairman came.（ドナは、コンピューターの修理の人が来るまで家で待っていなければならなかった）です。until ～ は「～するまで（ずっと）」という意味です。
+あとの文は she washed the dishes and cleaned the bedroom（彼女は皿を洗い、寝室を掃除した）です。修理の人を待っている時間を使って、家事をしたという流れだと考えられます。
+In the meantime は「その間に、そうしているうちに」という意味で、ある出来事が起こるまでの時間を指します。これを入れると「修理の人が来るまで待つ必要があった。その間に、皿を洗って寝室を掃除した」となり、2つの文が時間の流れでつながります。ですから、3が正解です。
+【ほかの選択肢】
+1 To some extent は「ある程度は」です。「ある程度は、皿を洗い寝室を掃除した」となり、待っていた話とつながりません。
+2 At any cost は「どんなことをしても、何としても」です。皿洗いや掃除を「何としても」したという強い意味は、待ち時間の話の流れに合いません。
+4 On the contrary は「それどころか、それとは反対に」で、前の内容を打ち消すときに使います。あとの文は最初の文を打ち消す内容ではないので、合いません。
+【覚えるポイント】
+・in the meantime：「その間に、そうしているうちに」。meanwhile とほぼ同じ意味です。
+・until ～：「～するまで（ずっと）」。

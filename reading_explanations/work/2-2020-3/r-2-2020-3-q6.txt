@@ -1,0 +1,27 @@
+---
+choices: rating | sense | basis | charge
+answerText: basis
+reviewed: yes
+---
+【正解】3 basis（基準、方式〔on a ～ basis：～の形で〕）
+【和訳】
+（英文）
+After Susan got married, she chose to keep working at the same company, but on a part-time ［basis］.
+（訳）
+スーザンは結婚した後、同じ会社で働き続けることを選びましたが、パートタイムの（形）で働くことにしました。
+（選択肢の意味）
+1 rating：評価、格付け
+2 sense：感覚、意味
+3 basis：基礎、基準、方式
+4 charge：料金、責任
+【考え方】
+空所の前は but on a part-time (　) です。on a ～ basis は「～の形で、～の方式で」という決まった言い方です。on a part-time basis で「パートタイムの形で（短い時間だけ働く形で）」という意味になります。
+文の前半は she chose to keep working at the same company（同じ会社で働き続けることを選んだ）です。but（しかし）のあとで「ただし、働き方はパートタイムの形だった」と、働き方の条件を付け加えています。
+basis を入れると、「同じ会社で働き続けたが、パートタイムで」と、働き方を説明する文として自然につながります。ですから3が正解です。
+【ほかの選択肢】
+1 rating は「評価、格付け」です。on a part-time rating という言い方はせず、「パートタイムの評価で働き続けた」では意味が通りません。
+2 sense は「感覚、意味」です。in a sense（ある意味では）という言い方はありますが、on a part-time sense とは言いません。「パートタイムの感覚で」では働き方の説明になりません。
+4 charge は「料金、責任」です。in charge of ～（～を担当して）のように使いますが、on a part-time charge とは言わず、この文では意味が通りません。
+【覚えるポイント】
+・on a ～ basis：「～の形で、～の方式で」。on a part-time basis（パートタイムで）、on a daily basis（毎日）のように使います。
+・keep -ing：「～し続ける」。keep working は「働き続ける」です。

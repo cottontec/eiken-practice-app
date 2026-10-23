@@ -1,0 +1,29 @@
+---
+choices: sense | number | title | matter
+answerText: matter
+reviewed: yes
+---
+【正解】4 matter（〔as a matter of course で〕当然のこととして）
+【和訳】
+（英文）
+A: Why do I have to show my ID every time I visit this company?
+B: We ask all visitors to show their ID as a ［matter］ of course.
+（訳）
+A：この会社を訪れるたびに、どうして身分証明書を見せなければならないのですか。
+B：（当然のこと）として、すべての訪問者の方に身分証明書を見せていただくようお願いしています。
+（選択肢の意味）
+1 sense：感覚、意味
+2 number：数、番号
+3 title：題名、肩書き
+4 matter：事柄、問題
+【考え方】
+Aは every time I visit this company（この会社を訪れるたびに）身分証明書を見せることに、Why ～?（どうして～？）と疑問を持っています。
+Bは We ask all visitors to show their ID（すべての訪問者に身分証明書を見せるようお願いしている）と答えています。all visitors（すべての訪問者）とあるので、Aだけが特別に求められているのではなく、決まりとして全員にお願いしていることが分かります。
+as a matter of course は「当然のこととして、決まりきったこととして」という熟語（決まった言い方）です。「当然のこととして、すべての訪問者にお願いしている」となり、Aの疑問への答えとして自然です。ですから、4が正解です。
+【ほかの選択肢】
+1 sense は「感覚、意味」です。as a sense of course という言い方はなく、意味が通りません。
+2 number は「数、番号」です。a number of ～ は「いくつかの～」という意味になりますが、as a number of course では文として意味が通りません。
+3 title は「題名、肩書き」です。as a title of course では「当然の題名として」のようになり、身分証明書の話と合いません。
+【覚えるポイント】
+・as a matter of course：「当然のこととして」。of course（もちろん）を含む熟語です。
+・ask ＋人＋ to ～：「（人）に～するよう頼む」。

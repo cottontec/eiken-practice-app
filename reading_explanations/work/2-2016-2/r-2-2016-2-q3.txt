@@ -1,0 +1,27 @@
+---
+choices: poverty | publicity | solution | separation
+answerText: publicity
+reviewed: yes
+---
+【正解】2 publicity（世間の注目、宣伝）
+【和訳】
+（英文）
+Bruce Machado received a lot of ［publicity］ for his new album when he gave a free concert in the park. The concert was even shown on TV.
+（訳）
+ブルース・マチャドは、公園で無料コンサートを開いたとき、新しいアルバムについて多くの（世間の注目）を集めました。そのコンサートはテレビで放送されさえしました。
+（選択肢の意味）
+1 poverty：貧困、貧しさ
+2 publicity：世間の注目、宣伝
+3 solution：解決策、答え
+4 separation：分離、別れ
+【考え方】
+空所は received a lot of (　) for his new album（新しいアルバムについて多くの（　）を受けた）の部分です。何を受けたのかを考えます。
+手がかりは、when he gave a free concert in the park（公園で無料コンサートを開いたとき）と、2文目の The concert was even shown on TV.（そのコンサートはテレビで放送されさえした）です。even は「～さえ」という意味で、テレビで放送されるほど多くの人に知られたことを表しています。
+無料コンサートを開き、テレビにまで映れば、アルバムは多くの人に知られ、注目されます。publicity は「世間の注目、宣伝」という意味で、receive publicity で「注目を集める、宣伝になる」となります。ですから、2が正解です。
+【ほかの選択肢】
+1 poverty は「貧困、貧しさ」です。「アルバムについて多くの貧困を受けた」となり、意味が通りません。
+3 solution は「解決策、（問題の）答え」です。この文には解決すべき問題が出てこないので、「多くの解決策を受けた」ではつながりません。
+4 separation は「分離、離れること、別れ」です。コンサートやテレビ放送の話とは関係がありません。
+【覚えるポイント】
+・publicity：「世間の注目、宣伝、評判」。public（人々の、公の）と関係のある語です。
+・even：「～さえ」。思っていた以上のことを付け加えるときに使います。

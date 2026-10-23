@@ -1,0 +1,26 @@
+---
+choices: thought up | looked up | ended up | brought up
+answerText: brought up
+reviewed: yes
+---
+【正解】4 brought up（was brought up で「育てられた、育った」）
+【和訳】
+（英文）
+Ellie was born in Canada but she was ［brought up］ in Japan, so her English is not perfect.
+（訳）
+エリーはカナダで生まれましたが、日本で育ったので、英語が完ぺきではありません。
+（選択肢の意味）
+1 thought up：考え出された（think up：考え出す）
+2 looked up：調べられた（look up：調べる）
+3 ended up：結局～になった（end up：結局～になる）
+4 brought up：育てられた（bring up：育てる）
+【考え方】
+文の形を確かめます。Ellie was born in Canada but she was (　) in Japan, so her English is not perfect. となっています。but（しかし）があるので、「カナダで生まれた」とは違う向きの内容が続きます。さらに so（だから）のあとに「英語が完ぺきではない」という結果があります。
+so の前の部分が「英語が完ぺきではない」理由になるはずなので、空所には「日本で（　）された」ことが英語に影響する内容が入ると考えます。生まれた場所と対比されて（2つを比べて違いを示して）いるので、「日本で育った」とすると筋が通ります。bring up は「（子ども）を育てる」で、受け身（「～される」という形）の be brought up で「育てられる、育つ」となります。she was brought up in Japan で「彼女は日本で育てられた」となり、文の流れがつながるので、4が正解です。
+【ほかの選択肢】
+1 thought up は think up（考え出す）の過去分詞です。was thought up で「考え出された」となり、「エリーは日本で考え出された」と、人について使うと意味が通りません。
+2 looked up は look up（調べる）の過去分詞です。was looked up で「調べられた」となり、「エリーは日本で調べられた」では、英語が完ぺきではない理由になりません。
+3 ended up は end up（結局～になる、最後には～に行き着く）の過去形・過去分詞です。end up は受け身の形にしないので、was ended up とは言いません。
+【覚えるポイント】
+・bring up：「（子ども）を育てる」。be brought up で「育てられる、育つ」。
+・be born in ～：「～で生まれる」。

@@ -1,0 +1,31 @@
+---
+choices: wiped out | broken up | fixed up | turned down
+answerText: wiped out
+reviewed: yes
+---
+【正解】1 wiped out（全滅させられた）
+【和訳】
+（英文）
+Over the past few decades, many species have nearly been ［wiped out］ by pollution. However, recent conservation efforts are helping some of them to recover.
+（訳）
+この数十年の間に、多くの種（生き物の種類）が汚染によって、あやうく（全滅させられる）ところでした。しかし、最近の保護の取り組みが、そのうちのいくつかの種が回復するのを助けています。
+（選択肢の意味）
+1 wiped out：全滅させられた、一掃された
+2 broken up：ばらばらにされた、解散させられた
+3 fixed up：修理された、整えられた
+4 turned down：断られた、（音量などを）下げられた
+【考え方】
+まず見るところ：次の文の However と helping some of them to recover
+However, recent conservation efforts are helping some of them to recover.（しかし、最近の保護の取り組みが、そのうちのいくつかが回復するのを助けている）
+conservation は「（自然や生き物の）保護」、recover は「回復する（元の状態にもどる）」です。them は前の文の many species（多くの種）を指します。
+回復する、ということは、その前に数が大きく減っていたということです。However（しかし）の前の文には、汚染によって種が危ない状態になった、という内容がくると考えられます。
+many species have nearly been ( ) by pollution（多くの種が、汚染によってあやうく（　）ところだった）
+nearly は「あやうく～するところで、ほとんど」です。wipe out は「～を全滅させる」なので、have nearly been wiped out で「あやうく全滅させられるところだった」となり、次の文の「回復」と対比になります。ですから1が正解です。
+この問題の型：対比（あやうく全滅⇔回復しつつある）／熟語・決まった形（wipe out）
+【ほかの選択肢】
+2 broken up は「ばらばらにされた、解散させられた」です。「多くの種が汚染によってあやうく解散させられるところだった」となり、生き物の数の話として意味がはっきり通りません。
+3 fixed up は「修理された、整えられた」です。「汚染によってあやうく修理されるところだった」となり、意味が通りません。However のあとの「回復」とも対比になりません。
+4 turned down は「断られた、（音量などを）下げられた」です。「多くの種が汚染によってあやうく断られるところだった」となり、意味が通りません。
+【覚えるポイント】
+・wipe out：「～を全滅させる、一掃する」。be nearly wiped out で「あやうく全滅させられるところだ」となります。
+・空所の次の文が However, ～ recover（しかし～回復する）のように「よくなる」話なら、空所の文はその反対の「ひどく悪くなった」話になると考えると手がかりになります。

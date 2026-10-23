@@ -1,0 +1,29 @@
+---
+choices: read out parts of his book during the interview. | bring a copy of his book to show members of the audience. | avoid telling viewers too much about the story in his book. | tell viewers that he has not appeared on a talk show before.
+answerText: avoid telling viewers too much about the story in his book.
+reviewed: yes
+---
+【正解】3 avoid telling viewers too much about the story in his book.（自分の本の物語について、視聴者に話しすぎないようにする（ように助言している）。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ケイト・スティーブンスはブラッドストック氏に、～するよう助言している。
+1 read out parts of his book during the interview.（インタビューの間に、自分の本の一部を読み上げる）
+2 bring a copy of his book to show members of the audience.（観客に見せるために、自分の本を1冊持ってくる）
+3 avoid telling viewers too much about the story in his book.（自分の本の物語について、視聴者に話しすぎないようにする）
+4 tell viewers that he has not appeared on a talk show before.（以前にトーク番組に出たことがないと視聴者に伝える）
+【考え方】
+設問の advises（助言する）に注目して、ケイトがブラッドストック氏に「こうしてください」とすすめている部分を探します。
+第3段落に Viewers will be interested to hear about your book, but be careful not to give away too many details.（視聴者はあなたの本についての話を聞くことに興味を持つでしょうが、細かいことを明かしすぎないように気をつけてください）とあります。give away はここでは「（秘密などを）明かす、もらす」という意味です。
+そのあと Some people may complain if they hear how it ends.（結末を聞いたら文句を言う人もいるかもしれない）と、その理由も書かれています。第1段落にあるとおり、この本は mystery novel（推理小説）です。
+本文と選択肢は次のように対応しています。
+本文 be careful not to give away too many details（細かいことを明かしすぎないように気をつける）＝ 選択肢 avoid telling viewers too much about the story in his book（本の物語について、視聴者に話しすぎないようにする）
+avoid -ing は「～するのを避ける」という意味です。正解は3です。
+【ほかの選択肢】
+1 本の一部を読み上げるようにという助言は、本文にありません。
+2 本を持ってきて観客に見せるようにという助言は、本文にありません。
+4 本文の You mentioned that this will be your first appearance on a TV talk show.（これがテレビのトーク番組への初めての出演になるとおっしゃっていましたね）は、ブラッドストック氏が以前ケイトに話したことです。ケイトはそのあと Please relax（気楽にしてください）と言っていますが、初めての出演であることを視聴者に伝えるようにとは言っていません。
+【覚えるポイント】
+・give away ～：「（秘密など）を明かす、もらす」。
+・be careful not to ～：「～しないように気をつける」。

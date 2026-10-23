@@ -1,0 +1,29 @@
+---
+choices: movement | operation | benefit | quantity
+answerText: quantity
+reviewed: yes
+---
+【正解】4 quantity（量）
+【和訳】
+（英文）
+Susan bought a large ［quantity］ of paper towels at the supermarket because they were on sale. However, she did not have enough space for all of them, so she gave some to her sister.
+（訳）
+スーザンは、ペーパータオルが特売になっていたので、スーパーマーケットで（大量の）ペーパータオルを買いました。しかし、そのすべてを置いておけるだけの場所がなかったので、一部を姉（妹）にあげました。
+（選択肢の意味）
+1 movement：動き、運動
+2 operation：操作、手術、運営
+3 benefit：利益、恩恵
+4 quantity：量
+【考え方】
+空所は a large (　) of paper towels（大きな（　）のペーパータオル）の部分です。スーザンがどんなふうにペーパータオルを買ったのかを考えます。
+手がかりは2つあります。
+・because they were on sale（それらが特売だったので）：on sale はここでは「特売で、安く売られて」という意味です。安かったので、たくさん買ったと考えられます。
+・she did not have enough space for all of them（そのすべてを置く十分な場所がなかった）、so she gave some to her sister（だから一部を姉〔妹〕にあげた）：置き場所が足りなくなるほど、数が多かったことが分かります。なお、sister は年上か年下かがこの文からは分からないので、和訳では「姉（妹）」としています。
+quantity は「量」という意味で、a large quantity of ～ で「大量の～」という決まった言い方になります。「大量のペーパータオルを買った」とすると、置き場所が足りなくなったこととつながります。4が正解です。
+【ほかの選択肢】
+1 movement は「動き、運動」です。「ペーパータオルの大きな動きを買った」となり、意味が通りません。
+2 operation は「操作、手術、（会社などの）運営」です。「ペーパータオルの大きな手術を買った」となり、買い物の話として成り立ちません。
+3 benefit は「利益、恩恵（ためになること）」です。「ペーパータオルの大きな利益を買った」となり、買った量を表せないので、置き場所が足りなくなった話とつながりません。
+【覚えるポイント】
+・a large quantity of ～：「大量の～」。
+・on sale：「特売で、安く売られて」（「売りに出されて」の意味で使うこともあります）。

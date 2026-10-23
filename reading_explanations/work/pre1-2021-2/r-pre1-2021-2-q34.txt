@@ -1,0 +1,35 @@
+---
+choices: The foreign market has shrunk because most whiskey drinkers in other countries prefer single-malt whiskeys over other types. | Whiskey consumers have become more aware of the value of single-malt whiskeys and are willing to pay higher prices for them. | Although the popularity of Scottish whiskey has been reestablished, makers in other countries have yet to experience similar growth. | Competition between whiskey makers has led to lower prices, which has caused overall whiskey sales to rise again.
+answerText: Whiskey consumers have become more aware of the value of single-malt whiskeys and are willing to pay higher prices for them.
+reviewed: yes
+---
+【正解】2 Whiskey consumers have become more aware of the value of single-malt whiskeys and are willing to pay higher prices for them.（ウイスキーの消費者は、シングルモルト・ウイスキーの価値をより意識するようになり、そのウイスキーに、より高い値段を払ってもよいと思っている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What conclusion can be made about the changes to whiskey production that have taken place since the 1980s?（1980年代以降に起こったウイスキー生産の変化について、どのような結論が導き出せるか。）
+1 The foreign market has shrunk because most whiskey drinkers in other countries prefer single-malt whiskeys over other types.（ほかの国のウイスキーを飲む人の大部分が、ほかの種類よりシングルモルト・ウイスキーを好むため、外国の市場は縮小した。）
+2 Whiskey consumers have become more aware of the value of single-malt whiskeys and are willing to pay higher prices for them.（ウイスキーの消費者は、シングルモルト・ウイスキーの価値をより意識するようになり、そのウイスキーに、より高い値段を払ってもよいと思っている。）
+3 Although the popularity of Scottish whiskey has been reestablished, makers in other countries have yet to experience similar growth.（スコットランドのウイスキーの人気は回復したが、ほかの国の製造会社は、まだ同じような成長を経験していない。）
+4 Competition between whiskey makers has led to lower prices, which has caused overall whiskey sales to rise again.（ウイスキー製造会社どうしの競争が値下げにつながり、そのことによってウイスキー全体の売り上げが再び伸びた。）
+【考え方】
+まず見るところ：第3段落の their efforts to inform consumers about the merits of these whiskeys, why they commanded a higher price と open their wallets for premium Scottish whiskeys
+第3段落には、1980年代の不振のあと、業界が立ち直ったようすが書かれています。
+Scottish whiskey producers started focusing on promoting high-quality products known as single-malt whiskeys.（スコットランドのウイスキー生産者たちは、シングルモルト・ウイスキーとして知られる高品質の製品を売りこむことに力を入れ始めた）
+Also important were their efforts to inform consumers about the merits of these whiskeys, why they commanded a higher price, and how they could be paired with food or cigars.（また、これらのウイスキーの長所や、なぜそれらにより高い値段がつくのか、そして料理や葉巻とどのように組み合わせて楽しめるのかを、消費者に伝える取り組みも重要だった）
+merits は「長所、よいところ」、commanded a higher price は「より高い値段がついた」という意味です。業界は、シングルモルト・ウイスキーのよさと値段が高い理由を、消費者に教えました。
+This strategy was highly successful and encouraged consumers abroad to open their wallets for premium Scottish whiskeys.（この戦略は大きな成功をおさめ、外国の消費者が、高級なスコットランドのウイスキーにお金を出すようにうながした）
+open their wallets は「財布を開く」、つまり「お金を出す」という意味です。消費者が高級なウイスキーにお金を払うようになったことが分かります。
+本文と選択肢を対にすると、次のようになります。
+本文 efforts to inform consumers about the merits of these whiskeys（これらのウイスキーの長所を消費者に伝える取り組み）が成功した → 選択肢 have become more aware of the value of single-malt whiskeys（シングルモルト・ウイスキーの価値をより意識するようになった）
+本文 open their wallets for premium Scottish whiskeys（高級なスコットランドのウイスキーにお金を出す）→ 選択肢 are willing to pay higher prices for them（そのウイスキーに、より高い値段を払ってもよいと思っている）
+設問は「どのような結論が導き出せるか」をたずねているので、本文から読み取れる2が正解です。
+この問題の型：言いかえ（open their wallets → willing to pay higher prices）／推論（伝える取り組みが成功した→価値を意識するようになった）
+【ほかの選択肢】
+1 本文と内容がちがいます。外国の消費者は高級なスコットランドのウイスキーにお金を出すようになり、最後に Today, interest in and demand for whiskey has never been stronger.（今日ほどウイスキーへの関心と需要が強かったことはない）とあるので、外国の市場が縮小したとは言えません。
+3 本文からは言えません。ほかの国の製造会社については、スコットランドの戦略をまねて、独自の高級ブランドを作ったとだけ書かれています。それらの会社がまだ成長していないという話はありません。
+4 本文と内容がちがいます。競争による値下げは、第2段落で、1980年代の不振の時期に起こったこととして書かれています。第3段落で売り上げが回復した理由として書かれているのは、高品質の製品を売りこんだ戦略であり、値下げではありません。
+【覚えるポイント】
+・be willing to ～：「～してもかまわないと思う、進んで～する」。
+・「どのような結論が導き出せるか」という設問では、本文の比喩的な表現（ここでは open their wallets：財布を開く）を、選択肢がふつうの言い方（pay higher prices）に言いかえていることがよくあるので、言いかえを見つけることが手がかりになります。

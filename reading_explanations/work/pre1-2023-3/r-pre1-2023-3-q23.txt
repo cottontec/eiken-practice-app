@@ -1,0 +1,31 @@
+---
+choices: see out | pin down | juice up | book in
+answerText: pin down
+reviewed: yes
+---
+【正解】2 pin down（〈原因などを〉はっきり突き止める）
+【和訳】
+（英文）
+Scientists have yet to ［pin down］ an exact cause for food allergies, but they believe that both genetics and the environment play a role.
+（訳）
+科学者たちは、食物アレルギーの正確な原因をまだ（突き止め）ていないが、遺伝と環境の両方が関係していると考えている。
+（選択肢の意味）
+1 see out：最後まで見届ける、（客を）玄関まで見送る
+2 pin down：（原因などを）はっきり突き止める
+3 juice up：活気づける、（性能などを）高める
+4 book in：（ホテルなどで）チェックインする、予約を入れる
+【考え方】
+まず見るところ：空所の前の have yet to と、後ろの an exact cause for food allergies
+have yet to ～ は「まだ～していない」という意味で、否定の意味をふくみます。空所の後ろは目的語（動作を受ける語）です。
+an exact cause for food allergies（食物アレルギーの正確な原因）
+後半は but（しかし）で始まり、次のように続きます。
+they believe that both genetics and the environment play a role（遺伝と環境の両方が関係していると考えている）
+genetics は「遺伝（親から子へ体の性質が伝わること）」、play a role は「役割を果たす、関係している」です。「たぶんこれとこれが関係している」とは考えているけれど、「正確な原因」はまだはっきりしていない、という流れです。pin down は「（原因などを）はっきり突き止める」なので、2が正解です。
+この問題の型：対比（正確な原因はまだ分からない ⇔ but 遺伝と環境が関係していると考えている）
+【ほかの選択肢】
+1 see out は「最後まで見届ける、見送る」です。「食物アレルギーの正確な原因をまだ見送っていない」となり、意味が通りません。
+3 juice up は「活気づける、高める」です。「正確な原因をまだ活気づけていない」となり、意味が通りません。
+4 book in は「チェックインする、予約を入れる」です。「正確な原因をまだ予約していない」となり、意味が通りません。
+【覚えるポイント】
+・pin down：「（原因・事実などを）はっきり突き止める」。have yet to ～：「まだ～していない」。
+・an exact cause（正確な原因）のような語が目的語にあるときは、「突き止める・明らかにする」の意味の語句が入る手がかりになります。

@@ -1,0 +1,33 @@
+---
+choices: frighten | grasp | harm | lack
+answerText: grasp
+reviewed: yes
+---
+【正解】2 grasp（理解する、つかむ）
+【和訳】
+（英文）
+Neal went to his first nuclear physics lecture yesterday. He could not ［grasp］ many of the ideas in the lecture, so he went to the library to study what he did not understand.
+（訳）
+ニールは昨日、初めての原子核物理学の講義に出ました。彼は講義で出てきた考えの多くを（理解する）ことができなかったので、分からなかったことを勉強するために図書館に行きました。
+（選択肢の意味）
+1 frighten：怖がらせる
+2 grasp：理解する、つかむ
+3 harm：害を与える
+4 lack：欠いている、足りない
+【考え方】
+まず見るところ：2文目の後半の what he did not understand
+2文目の後半は次のとおりです。
+so he went to the library to study what he did not understand（だから、分からなかったことを勉強するために図書館に行った）
+so は「だから」で、前半がその理由です。
+前半は次のとおりです。
+He could not ( ) many of the ideas in the lecture（彼は講義で出てきた考えの多くを（　）できなかった）
+図書館で「分からなかったこと」を勉強したのですから、講義の内容を「理解できなかった」と考えられます。grasp はもともと「しっかりつかむ」という意味で、そこから「（意味や考えを）理解する」という意味でも使います。
+could not grasp many of the ideas で「考えの多くを理解できなかった」となるので、2が正解です。
+この問題の型：言いかえ（could not grasp ＝ did not understand）／因果（理解できなかった→図書館で勉強）
+【ほかの選択肢】
+1 frighten は「怖がらせる」です。「講義の考えの多くを怖がらせることができなかった」となり、意味が通りません。
+3 harm は「害を与える、傷つける」です。「考えの多くを傷つけることができなかった」となり、図書館で分からなかったことを勉強した理由になりません。
+4 lack は「欠いている、足りない」です。「講義の考えの多くを欠くことができなかった」となり、意味が通りません。後半の「分からなかったことを勉強した」ともつながりません。
+【覚えるポイント】
+・grasp：「しっかりつかむ」のほかに「（意味を）理解する」の意味があります。understand に近い使い方です。
+・空所のある文の後半に so ～ が続くときは、後半に空所の語の言いかえ（ここでは did not understand）が出てくることがあり、手がかりになります。

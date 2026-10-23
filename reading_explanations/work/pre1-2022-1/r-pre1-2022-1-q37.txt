@@ -1,0 +1,34 @@
+---
+choices: Members of the community are allowed to exchange their responsibilities from time to time to prevent them from becoming exhausted. | The type of work the community does to earn income changes periodically so that members can learn new skills. | Members of the community take turns carrying out maintenance on the buildings and equipment that are owned collectively. | The community continually finds ways to satisfy the needs of its members rather than simply reacting to problems when they arise.
+answerText: The community continually finds ways to satisfy the needs of its members rather than simply reacting to problems when they arise.
+reviewed: yes
+---
+【正解】4 The community continually finds ways to satisfy the needs of its members rather than simply reacting to problems when they arise.（その共同体は、問題が起きたときにただそれに対応するのではなく、メンバーの要求を満たす方法を絶えず見つけている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：According to the passage, how is Damanhur similar to other successful intentional communities?（本文によると、ダマヌールは、ほかの成功している意図的共同体とどのような点で似ているか。）
+1 Members of the community are allowed to exchange their responsibilities from time to time to prevent them from becoming exhausted.（共同体のメンバーは、疲れきってしまわないように、ときどき自分の役割を交換することが許されている。）
+2 The type of work the community does to earn income changes periodically so that members can learn new skills.（共同体が収入を得るために行う仕事の種類は、メンバーが新しい技術を身につけられるように、定期的に変わる。）
+3 Members of the community take turns carrying out maintenance on the buildings and equipment that are owned collectively.（共同体のメンバーは、共同で所有している建物や設備の手入れを交代で行っている。）
+4 The community continually finds ways to satisfy the needs of its members rather than simply reacting to problems when they arise.（その共同体は、問題が起きたときにただそれに対応するのではなく、メンバーの要求を満たす方法を絶えず見つけている。）
+【考え方】
+まず見るところ：第4段落の It seems that all successful intentional communities share a common trait: the ability to constantly think ahead.
+設問は、ダマヌールとほかの成功している共同体の共通点をたずねています。第4段落の始めに、成功している共同体の共通の特徴が書かれています。
+It seems that all successful intentional communities share a common trait: the ability to constantly think ahead.（成功しているすべての意図的共同体には、共通する特徴が一つあるようだ。それは、常に先のことを考える力である）
+段落の最後の文では、それがどのような方法かがまとめられています。
+This strategy of making changes before problems occur has worked well for Damanhur and other successful communities, which suggests it is an effective way for intentional communities to fulfill the needs of their members in the long term.（問題が起こる前に変化を起こすというこの方法は、ダマヌールやほかの成功している共同体でうまくいっており、このことは、それが、意図的共同体が長い期間にわたってメンバーの要求を満たすための効果的な方法であることを示している）
+本文と選択肢4を対にすると、次のようになります。
+・本文 the ability to constantly think ahead（常に先のことを考える力）→ 選択肢 continually finds ways（絶えず方法を見つけている）
+・本文 making changes before problems occur（問題が起こる前に変化を起こす）→ 選択肢 rather than simply reacting to problems when they arise（問題が起きたときにただ対応するのではなく）
+・本文 fulfill the needs of their members（メンバーの要求を満たす）＝ 選択肢 satisfy the needs of its members（メンバーの要求を満たす）
+よって4が正解です。
+この問題の型：言いかえ（fulfill the needs → satisfy the needs）
+【ほかの選択肢】
+1 本文に書かれていません。メンバーが疲れないように役割を交換するという話は、本文にはありません。
+2 本文に書かれていません。共同体が収入を得るための仕事や、新しい技術を身につけることについては、本文で触れられていません。
+3 本文に書かれていません。第1段落には意図的共同体の特徴として collective ownership（共同での所有）とありますが、建物や設備の手入れを交代で行うという話はありません。
+【覚えるポイント】
+・think ahead：「先のことを考える」。fulfill / satisfy the needs：「要求を満たす」。arise：「（問題などが）起こる」。
+・設問が「ほかの～とどう似ているか」をたずねるときは、本文の all ～ share a common trait（すべての～に共通する特徴）のような「共通点」を表す言葉を探すのが手がかりになります。

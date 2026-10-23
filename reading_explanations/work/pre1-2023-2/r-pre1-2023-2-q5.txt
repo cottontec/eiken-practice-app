@@ -1,0 +1,30 @@
+---
+choices: estimation | partition | assumption | notion
+answerText: partition
+reviewed: yes
+---
+【正解】2 partition（仕切り）
+【和訳】
+（英文）
+Our local community center usually has one main room, but when necessary, we can close the ［partition］ and create two smaller rooms.
+（訳）
+私たちの地域のコミュニティーセンターには、ふだんは大きな部屋が1つありますが、必要なときには（仕切り）を閉めて、より小さな部屋を2つ作ることができます。
+（選択肢の意味）
+1 estimation：見積もり、評価
+2 partition：仕切り（部屋を分けるための壁やカーテンなど）
+3 assumption：思いこみ、仮定
+4 notion：考え、観念
+【考え方】
+まず見るところ：空所の後ろの and create two smaller rooms
+usually has one main room（ふだんは大きな部屋が1つある）
+but when necessary, we can close the ( ) and create two smaller rooms（しかし必要なときには、（　）を閉めて、より小さな部屋を2つ作ることができる）
+but（しかし）の前後で、「ふだんは1つの部屋」と「必要なときは2つの部屋」が対比（2つを比べて違いを示すこと）されています。
+1つの部屋を2つに分けるには、間を区切るものが必要です。partition は「仕切り（部屋を分けるための壁やカーテンなど）」なので、「仕切りを閉めて2つの部屋を作る」となり、意味が通ります。ですから2が正解です。
+この問題の型：対比（ふだんは1部屋⇔必要なときは2部屋）／語の意味・組み合わせ（close the partition）
+【ほかの選択肢】
+1 estimation は「見積もり、評価」です。考えや計算を表す語なので、「見積もりを閉めて部屋を2つ作る」では意味が通りません。
+3 assumption は「思いこみ、仮定」です。「思いこみを閉めて部屋を作る」となり、意味が通りません。
+4 notion は「考え、観念」です。「考えを閉めて部屋を作る」となり、意味が通りません。
+【覚えるポイント】
+・partition：「仕切り」。close the partition（仕切りを閉める）で、1つの部屋を分けることを表します。
+・空所の語が close（閉める）の目的語（動作を受ける語）なら、実際に手で閉められる物を表す名詞かどうかを確かめると、1・3・4のような考えを表す名詞を外す手がかりになります。

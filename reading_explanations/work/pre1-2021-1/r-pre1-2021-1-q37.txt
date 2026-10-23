@@ -1,0 +1,34 @@
+---
+choices: Concerns expressed by the Sámi are being used to shape government policies and actions as a way to avoid causing them further harm. | Volunteer groups are being established to promote wider understanding of Sámi culture throughout countries with large Sámi populations. | Greater efforts are being made to encourage younger Sámi to enter politics and represent their communities in local governments. | Financial support is being offered to Sámi suffering from mental health issues that arise due to the stress of living in urban areas.
+answerText: Concerns expressed by the Sámi are being used to shape government policies and actions as a way to avoid causing them further harm.
+reviewed: yes
+---
+【正解】1 Concerns expressed by the Sámi are being used to shape government policies and actions as a way to avoid causing them further harm.（サーミの人々がさらなる害を受けないようにする方法として、サーミの人々が示した心配ごとが、政府の政策や行動を形づくるのに役立てられている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What is being done to help the Sámi?（サーミの人々を助けるために、何が行われているか。）
+1 Concerns expressed by the Sámi are being used to shape government policies and actions as a way to avoid causing them further harm.（サーミの人々がさらなる害を受けないようにする方法として、サーミの人々が示した心配ごとが、政府の政策や行動を形づくるのに役立てられている。）
+2 Volunteer groups are being established to promote wider understanding of Sámi culture throughout countries with large Sámi populations.（サーミの人々が多く住む国々の全体で、サーミの文化をより広く理解してもらうために、ボランティア団体が作られている。）
+3 Greater efforts are being made to encourage younger Sámi to enter politics and represent their communities in local governments.（若いサーミの人々が政治の世界に入り、地方の政府で自分たちの共同体を代表するよう促すために、より大きな努力がなされている。）
+4 Financial support is being offered to Sámi suffering from mental health issues that arise due to the stress of living in urban areas.（都市部で暮らすストレスから生じる心の健康の問題に苦しむサーミの人々に、経済的な支援が提供されている。）
+【考え方】
+まず見るところ：第3段落の politicians have been listening to the Sámi and taking greater care to consider the potential consequences that government decisions may have on their communities
+第3段落は、サーミの人々の問題に取り組む努力についての段落です。経済的な先行きの不安や気候変動の影響への心配に対処するため、次のことが行われています。
+To address these fears, politicians have been listening to the Sámi and taking greater care to consider the potential consequences that government decisions may have on their communities.（こうした不安に対処するため、政治家たちはサーミの人々の声に耳を傾け、政府の決定が彼らの共同体に与えるかもしれない影響を、より注意深く考えるようにしてきている）
+address は「（問題などに）対処する」、consequence は「（よくない）結果、影響」という意味です。
+次の文には、By giving the Sámi a way to influence decisions that affect them directly（自分たちに直接影響する決定に意見を反映させる手段をサーミの人々に与えることで）、ストレスや苦しみを減らすことができると書かれています。
+本文と選択肢1を対にすると、次のようになります。
+本文 listening to the Sámi（サーミの人々の声に耳を傾ける）→ 選択肢 Concerns expressed by the Sámi（サーミの人々が示した心配ごと）を取り上げる
+本文 a way to influence decisions that affect them directly（直接影響する決定に意見を反映させる手段）→ 選択肢 are being used to shape government policies and actions（政府の政策や行動を形づくるのに役立てられている）
+本文 consider the potential consequences ～ on their communities（共同体への影響を注意深く考える）→ 選択肢 avoid causing them further harm（さらなる害を与えないようにする）
+ですから1が正解です。
+この問題の型：言いかえ（influence decisions → shape government policies）
+【ほかの選択肢】
+2 本文にありません。ボランティア団体を作ってサーミの文化への理解を広めるという話は出てきません。本文にある Social programs（社会的な取り組み）は、若いサーミの人々に精神的な支えを提供し、差別について話し合うことを促すものです。
+3 本文にありません。若いサーミの人々に政治の世界に入るよう促すとは書かれていません。本文で行動しているのは politicians（政治家たち）で、サーミの人々の声に耳を傾けているのです。
+4 本文にありません。本文で若いサーミの人々に提供されているのは emotional support（精神的な支え）で、経済的な支援（Financial support）ではありません。
+【覚えるポイント】
+・「何が行われているか」という設問では、本文の Efforts are under way（努力が進められている）や To address these fears（こうした不安に対処するため）のような、取り組みを紹介する語句のあとを探すと手がかりになります。
+・emotional support（精神的な支え）と financial support（経済的な支援）のように、似た形の語句は意味の違いに気をつけて読み分けます。

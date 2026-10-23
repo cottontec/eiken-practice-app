@@ -1,0 +1,32 @@
+---
+choices: It is the best way to get certain metals that are illegal to mine. | It is much cheaper than buying materials made of recycled products. | They are being offered money by governments to clean up the waste. | They can dig up materials that are becoming rare and expensive.
+answerText: They can dig up materials that are becoming rare and expensive.
+reviewed: yes
+---
+【正解】4 They can dig up materials that are becoming rare and expensive.（珍しく、高価になりつつある材料を掘り出すことができるから。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：なぜ一部の会社は、埋め立て地からごみを取り出すという考えにひかれているのですか。
+1 It is the best way to get certain metals that are illegal to mine.（それが、採掘することが法律で禁じられている、ある種の金属を手に入れる最もよい方法だから。）
+2 It is much cheaper than buying materials made of recycled products.（それが、リサイクル製品から作られた材料を買うよりもずっと安いから。）
+3 They are being offered money by governments to clean up the waste.（ごみを片づけるために、政府からお金を提供されているから。）
+4 They can dig up materials that are becoming rare and expensive.（珍しく、高価になりつつある材料を掘り出すことができるから。）
+【考え方】
+設問の removing waste from landfills（埋め立て地からごみを取り出すこと）は、第2段落の「ランドフィル・マイニング」のことです。2文目に This means removing waste from landfills in order to recycle metals and other materials that have been buried in them.（これは、埋め立て地に埋められた金属やほかの材料をリサイクルするために、埋め立て地からごみを取り出すことを意味する）とあります。
+会社がこの考えにひかれる理由は、3文目に書かれています。As resources such as metals become harder to find and more expensive to buy, a number of companies are finding the idea of landfill mining attractive.（金属などの資源を見つけるのがより難しくなり、買うときの値段がより高くなるにつれて、いくつもの会社が、ランドフィル・マイニングという考えを魅力的だと感じるようになっている）。as ～ は「～するにつれて」、attractive は「魅力的な」です。
+つまり、金属などの資源が手に入りにくく高くなってきたので、埋め立て地に埋まっている金属などを取り出して使えることが魅力になっているのです。
+本文と選択肢は次のように対応しています。
+本文 resources such as metals（金属などの資源）→ 選択肢 materials（材料）
+本文 become harder to find（見つけるのがより難しくなる）→ 選択肢 are becoming rare（珍しくなりつつある）
+本文 more expensive to buy（買うときの値段がより高くなる）＝ 選択肢 are becoming … expensive（高価になりつつある）
+本文 removing waste from landfills（埋め立て地からごみを取り出す）→ 選択肢 dig up（掘り出す）
+正解は4です。
+【ほかの選択肢】
+1 本文には、採掘することが法律で禁じられている金属の話は書かれていません。また、ランドフィル・マイニングが「最もよい方法」だとも書かれていません。
+2 第2段落の最後の文には、landfill mining remains uncommon because it is still relatively expensive（ランドフィル・マイニングは、まだ比較的費用がかかるため、一般的になっていない）とあります。「ずっと安い」とは書かれておらず、リサイクル製品の材料を買う場合と比べる話も本文にありません。
+3 第2段落の4文目には、governments want the poisonous chemicals contained in many landfills to be removed and treated（政府は、多くの埋め立て地に含まれる有毒な化学物質が取り除かれ、処理されることを望んでいる）とあるだけです。政府が会社にお金を出しているとは書かれていません。
+【覚えるポイント】
+・as ～（比較級）：「～になるにつれて」。As resources become harder to find で「資源が見つけにくくなるにつれて」。
+・find ～ attractive：「～を魅力的だと感じる、思う」。

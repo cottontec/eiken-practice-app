@@ -1,0 +1,24 @@
+---
+choices: perform | contribute | concentrate | preview
+answerText: contribute
+reviewed: yes
+---
+【正解】2 contribute（寄付する）
+【和訳】
+トムの同僚の何人かが、貧しい国々に学校を建てる慈善団体のためにお金を集めようとしていました。トムは50ドル寄付することに決めました。
+（選択肢の意味）
+1 perform：演じる、行う
+2 contribute：寄付する、貢献する
+3 concentrate：集中する
+4 preview：下見する、試写する
+【考え方】
+1文目に、同僚たちが were trying to raise money for a charity（慈善団体のためにお金を集めようとしていた）とあります。raise money は「お金を集める」、charity は「慈善団体（困っている人を助ける活動をする団体）」です。
+2文目では、トムが空所のあとの $50（50ドル）をどうすることに決めたかが書かれています。同僚が募金を集めている流れなので、トムはそのお金を「寄付する」ことにしたと考えると自然です。
+contribute は「（お金などを）寄付する、出す」という意味です。contribute $50 で「50ドルを寄付する」となり、2が正解です。
+【ほかの選択肢】
+1 perform は「演じる、行う」です。「50ドルを演じる」となり、意味が通りません。
+3 concentrate は「集中する」です。ふつう concentrate on ～（～に集中する）の形で使い、「50ドルに集中する」としても募金の話とつながりません。
+4 preview は「下見する、試写する」です。「50ドルを下見する」となり、意味が通りません。
+【覚えるポイント】
+・contribute：「（お金などを）寄付する、出す」。contribute to ～ で「～に貢献する」という意味にもなります。
+・raise money for ～：「～のためにお金を集める」。

@@ -1,0 +1,32 @@
+---
+choices: theme | treasure | pleasure | murder
+answerText: murder
+reviewed: yes
+---
+【正解】4 murder（殺人、殺人事件）
+【和訳】
+（英文）
+The detective was trying to solve a ［murder］, but he could not find any clues. Then, a witness came forward and told him what she had seen.
+（訳）
+その刑事は（殺人事件）を解決しようとしていましたが、手がかりを何も見つけることができませんでした。それから、1人の目撃者が名乗り出て、自分が見たことを彼に話しました。
+（選択肢の意味）
+1 theme：テーマ、主題
+2 treasure：宝物
+3 pleasure：楽しみ、喜び
+4 murder：殺人、殺人事件
+【考え方】
+まず見るところ：文の初めの The detective と、clues・witness
+空所のある文は次のとおりです。
+The detective was trying to solve a ( ), but he could not find any clues.（その刑事は（　）を解決しようとしていたが、手がかりを何も見つけることができなかった）
+detective は「刑事、探偵」です。solve は「解決する」、clues は「手がかり」です。
+次の文には witness（目撃者）が出てきます。
+Then, a witness came forward and told him what she had seen.（それから、1人の目撃者が名乗り出て、自分が見たことを彼に話した）
+刑事が手がかりを探し、目撃者が見たことを話すのは、事件を調べている場面です。murder は「殺人、殺人事件」という意味で、solve a murder で「殺人事件を解決する」となります。ですから4が正解です。
+この問題の型：語の意味・組み合わせ（solve a murder）
+【ほかの選択肢】
+1 theme は「テーマ、主題」です。「テーマを解決する」となり、意味が通りません。手がかりや目撃者の話ともつながりません。
+2 treasure は「宝物」です。「宝物を解決する」となり、意味が通りません。
+3 pleasure は「楽しみ、喜び」です。「楽しみを解決する」となり、意味が通りません。
+【覚えるポイント】
+・solve a murder：「殺人事件を解決する」。
+・detective（刑事、探偵）、clues（手がかり）、witness（目撃者）のように同じ場面の語がいくつも出てきたら、その場面に合う語を選ぶと手がかりになります。

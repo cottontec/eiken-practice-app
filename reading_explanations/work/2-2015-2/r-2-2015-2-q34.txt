@@ -1,0 +1,30 @@
+---
+choices: He is a security guard for a company called Citiborg. | He is in charge of a new building project outside the city. | He helped his company get a new client to use its services. | He made a new moving schedule for his team members.
+answerText: He helped his company get a new client to use its services.
+reviewed: yes
+---
+【正解】3 He helped his company get a new client to use its services.（彼は、自分の会社が新しい顧客にサービスを利用してもらえるように手助けした。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：エドについて分かることの1つは何ですか。
+1 He is a security guard for a company called Citiborg.（彼は、シティボーグという会社の警備員である。）
+2 He is in charge of a new building project outside the city.（彼は、市外の新しいビルの建設計画の責任者である。）
+3 He helped his company get a new client to use its services.（彼は、自分の会社が新しい顧客にサービスを利用してもらえるように手助けした。）
+4 He made a new moving schedule for his team members.（彼は、チームのメンバーのために新しい引っ越しの予定表を作った。）
+【考え方】
+このメールは、エレンからエドにあてたものです。エドについての情報は、第1段落の最初に書かれています。
+まず Thank you for your hard work as the leader of the sales department at PGH Security.（PGHセキュリティーの営業部の責任者としての、あなたの熱心な働きに感謝しています）とあり、エドがPGHセキュリティーの営業部の責任者だと分かります。sales department は「営業部（商品やサービスを売る部署）」です。
+続いて Thanks to your efforts, PGH has just signed a contract with a new client, Citiborg.（あなたの努力のおかげで、PGHは新しい顧客であるシティボーグ社と契約を結んだところだ）とあり、さらに They will be using our security services for the next two years.（同社はこれから2年間、当社の警備サービスを利用する）と続きます。thanks to ～ は「～のおかげで」、client は「顧客（お金を払ってサービスを受ける相手）」、sign a contract は「契約を結ぶ」です。
+本文と選択肢を対にすると、次のようになります。
+本文 Thanks to your efforts（あなたの努力のおかげで）→ 選択肢 He helped（彼が手助けした）
+本文 signed a contract with a new client ... will be using our security services（新しい顧客と契約を結び、その顧客が警備サービスを利用する）＝ 選択肢 get a new client to use its services（新しい顧客にサービスを利用してもらう）
+選択肢の get ＋ 人 ＋ to ～ は「人に～してもらう」です。正解は3です。
+【ほかの選択肢】
+1 シティボーグは、PGHの新しい顧客の会社の名前です。エドはPGHセキュリティーの営業部の責任者なので、シティボーグの警備員ではありません。人物と会社の関係が本文と違います。
+2 本文には、会社が市外の新しいオフィスビルへ移転すると書かれていますが、エドが新しいビルの建設計画の責任者だとは書かれていません。エドは営業部の責任者です。
+4 引っ越しの手順はエレンがこのメールで伝えていて、エドはそれをチームに伝えるように頼まれています（Can you share the following moving procedures with your team?）。エドが引っ越しの予定表を作ったとは書かれていません。
+【覚えるポイント】
+・thanks to ～：「～のおかげで」。
+・get ＋ 人 ＋ to ～：「人に～してもらう」。

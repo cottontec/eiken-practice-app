@@ -1,0 +1,32 @@
+---
+choices: picked through | carried through | pulled in | tidied up
+answerText: pulled in
+reviewed: yes
+---
+【正解】3 pulled in（（列車が）駅に入ってきた、到着した）
+【和訳】
+（英文）
+The train was supposed to arrive at four o'clock, so when it finally ［pulled in］ at five-thirty, many of the passengers were very angry.
+（訳）
+その列車は4時に到着するはずだったので、ようやく5時半に（駅に入ってきた）とき、乗客の多くはとても怒っていました。
+（選択肢の意味）
+1 picked through：（たくさんの中から）よく調べて選んだ
+2 carried through：（計画などを）やりとげた
+3 pulled in：（列車などが）駅に入ってきた、到着した
+4 tidied up：片づけた
+【考え方】
+まず見るところ：文の初めの was supposed to arrive at four o'clock と、空所の前の finally
+文の初めで、列車の予定が書かれています。
+The train was supposed to arrive at four o'clock（その列車は4時に到着するはずだった）
+be supposed to ～ は「～することになっている、～するはずだ」です。後半では、実際の時刻が書かれています。
+when it finally (　) at five-thirty（ようやく5時半に（　）とき）
+finally は「ようやく、やっと」という意味です。
+4時に着くはずの列車が、ようやく5時半に「着いた」ので、乗客が怒ったという流れです。it は the train を指しています。pull in は、列車などが「駅に入ってくる、到着する」という意味なので、3が正解です。
+この問題の型：言いかえ（arrive → pulled in）
+【ほかの選択肢】
+1 picked through は「よく調べて選んだ」です。「列車がようやく5時半によく調べて選んだ」となり、意味が通りません。
+2 carried through は「やりとげた」です。計画などについて使う語句で、列車が駅に着いたことを表せません。
+4 tidied up は「片づけた」です。「列車がようやく5時半に片づけた」となり、意味が通りません。
+【覚えるポイント】
+・pull in：「（列車などが）駅に入ってくる、到着する」。この文のように、arrive（到着する）と同じ意味で使われることがあります。
+・前半に予定（was supposed to arrive）があり、後半に finally（ようやく）と実際の時刻が書かれているときは、予定と同じ動作を表す語句が空所に入ると考えるのが手がかりになります。

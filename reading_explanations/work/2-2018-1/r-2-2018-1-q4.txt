@@ -1,0 +1,28 @@
+---
+choices: blame | license | guarantee | spell
+answerText: guarantee
+reviewed: yes
+---
+【正解】3 guarantee（保証）
+【和訳】
+（英文）
+A: Steve, you are spending too much time playing video games. I know you've been doing well in class all year, but there's no ［guarantee］ that you'll pass the final exam.
+B: I'm sorry, Mom. I'll try to study more.
+（訳）
+A：スティーブ、テレビゲームをする時間が長すぎるよ。1年間ずっと授業でうまくやってきたのは分かっているけれど、期末試験に合格するという（保証）はないよ。
+B：ごめんなさい、お母さん。もっと勉強するようにするね。
+（選択肢の意味）
+1 blame：非難、責任
+2 license：免許、許可証
+3 guarantee：保証
+4 spell：つづり、呪文
+【考え方】
+Aは母親で、ゲームばかりしている息子のスティーブに注意しています。I know you've been doing well in class all year, but ～（1年間ずっと授業でうまくやってきたのは分かっているけれど、～）の but に注目します。but のあとには「でも油断はできない」という内容が来ると考えられます。
+空所のあとの that you'll pass the final exam は「あなたが期末試験に合格するという」と、空所の名詞の中身を説明しています。guarantee（保証、確かだと約束すること）を入れると、there's no guarantee that ～ で「～という保証はない」となります。「これまでよくできていても、合格できると決まっているわけではない」という注意になり、Bの I'll try to study more.（もっと勉強するようにする）という返事ともつながります。よって3が正解です。
+【ほかの選択肢】
+1 blame は「非難、（悪いことの）責任」です。「試験に合格するという非難はない」となり、意味が通りません。
+2 license は「免許、許可証」です。「試験に合格するという免許はない」では、母親の注意の内容になりません。
+4 spell は「つづり、呪文（まじないの言葉）」などの意味です。「試験に合格するという呪文はない」となり、話がつながりません。
+【覚えるポイント】
+・There's no guarantee that ～：「～という保証はない、～とは限らない」。
+・名詞＋that ～：「～という（名詞）」と、名詞の中身を説明する形です。

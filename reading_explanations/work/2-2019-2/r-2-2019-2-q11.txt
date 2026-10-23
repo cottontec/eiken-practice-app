@@ -1,0 +1,27 @@
+---
+choices: caught up | got away | kept up | did away
+answerText: did away
+reviewed: yes
+---
+【正解】4 did away（do away with ～で「～を廃止する」）
+【和訳】
+（英文）
+Greg was pleased when his school ［did away］ with its uniform. He prefers wearing casual clothes to school.
+（訳）
+グレッグは、学校が制服を（廃止した）とき、喜びました。彼は、学校へはふだん着を着ていくほうが好きなのです。
+（選択肢の意味）
+1 caught up with ～：～に追いつく
+2 got away with ～：（悪いことをして）罰を受けずにすむ
+3 kept up with ～：～に遅れずについていく
+4 did away with ～：～を廃止する、なくす
+【考え方】
+4つの選択肢はどれも、空所のあとの with といっしょに1つのまとまった意味を作る語句です。ですから、「（　）with its uniform」全体の意味で考えます。
+手がかりは次の文の He prefers wearing casual clothes to school.（彼は学校へはふだん着を着ていくほうが好きだ）です。prefer は「（ほかのものより）～のほうを好む」という意味で、ここでは制服よりもふだん着を着たいということです。なお、この文の to school は「学校へ」という意味で、「AよりもBを好む」の prefer A to B の形ではありません。
+ふだん着が好きなグレッグが喜ぶのは、学校が制服をやめたときです。do away with ～ は「～を廃止する、なくす」という意味です。過去の文なので did away with となり、「学校が制服を廃止したとき、グレッグは喜んだ」となります。ですから、4が正解です。
+【ほかの選択肢】
+1 caught up with ～ は「～に追いつく」です。「学校が制服に追いついた」となり、意味が通りません。
+2 got away with ～ は「（悪いことをしたのに）罰を受けずにすむ」「～を持ち逃げする」です。「学校が制服を持ち逃げした」などとなり、グレッグが喜んだ理由になりません。
+3 kept up with ～ は「～に遅れずについていく」です。「学校が制服に遅れずについていった」となり、意味が通りません。
+【覚えるポイント】
+・do away with ～：「～を廃止する、なくす」。get rid of ～（～を取り除く）と近い意味です。
+・動詞＋ away / up ＋ with のような3語のまとまりは、全体で1つの意味として覚えましょう。

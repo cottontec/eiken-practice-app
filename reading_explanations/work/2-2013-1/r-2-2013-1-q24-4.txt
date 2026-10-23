@@ -1,0 +1,23 @@
+---
+choices: have | sent | to | appears | been
+answerText: been
+order: 4 3 1 5 2
+reviewed: yes
+---
+【正解】5 been（この問題の4番目）
+【完成文】
+B : I see, sir. Let me check our records to see where it is. Hmm. I'm sorry, but your suitcase ( appears to have been sent ) to another airport.
+並べ方：4 appears → 3 to → 1 have → 5 been → 2 sent（2番目は3、4番目は5）
+【和訳】
+A：すみません。東京から着いたばかりなのですが、スーツケースが見つからないんです。
+B：分かりました、お客様。どこにあるかを確かめるために、こちらの記録を調べさせてください。うーん。申し訳ありませんが、お客様のスーツケースは別の空港へ送られてしまったようです。
+【考え方】
+空所の前の your suitcase（お客様のスーツケース）が主語です。そのすぐあとには動詞がきます。4 appears は「～のようだ」という意味で、appear to ～ の形で「～するようだ、～したようだ」となります。主語が your suitcase（1つのもの）なので、appear に s が付いた appears になっています。
+appear to のあとには、to に続く動詞の原形（変化しない元の形）として 1 have を置きます。
+スーツケースは自分で空港へ行くのではなく、だれかに「送られる」ものです。ですから、受け身（「～される」という形）の been sent（送られた）を使います。have been sent で「（すでに）送られてしまった」となります。to have ＋ 過去分詞 は、「～のようだ」と思っている今より前にすでに起きたことを表す形です。
+こうして your suitcase appears to have been sent to another airport（お客様のスーツケースは別の空港へ送られてしまったようだ）となり、スーツケースが見つからないというAの話とつながります。
+4番目に 5 been が来るのは、have と sent の間に been を入れることで、「送った」ではなく「送られた」という受け身の意味になるからです。
+have sent been のように並べるのはまちがいです。have のあとに sent を置くと「スーツケースが（何かを）送った」という意味の形になってしまいます。「送られた」とするには、been を sent の前に置いて have been sent とします。
+【覚えるポイント】
+・appear to ～：「～するようだ」。appear to have ＋ 過去分詞 で「～したようだ」。
+・have been ＋ 過去分詞：「（すでに）～されてしまった」。

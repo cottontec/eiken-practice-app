@@ -1,0 +1,25 @@
+---
+choices: improved | exported | protected | offered
+answerText: protected
+reviewed: yes
+---
+【正解】3 protected（保護された）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 improved：改良された、よくされた
+2 exported：輸出された
+3 protected：保護された
+4 offered：提供された、申し出られた
+【考え方】
+空所は第3段落の2文目、Blackfriars Railway Bridge was built about 140 years ago and has been (　) by the British government as a historic building.（ブラックフライアーズ鉄道橋はおよそ140年前に建てられ、歴史的な建造物としてイギリス政府に～されてきた）にあります。
+段落の1文目には The new design, however, raises one difficult issue.（しかし、この新しい設計には1つの難しい問題がある）とあります。その問題とは何かを、続きの文から読み取ります。3文目に The new station, however, will completely change the way the bridge looks.（ところが新しい駅は、橋の見た目をすっかり変えてしまう）、4文目に This would not normally be allowed（ふつうならこれは許されないだろう）とあります。
+橋の見た目を変えることがふつうは許されないのは、この橋が歴史的な建造物として大切に守られているからだと考えられます。protect は「保護する、守る」という意味なので、has been protected で「保護されてきた」となり、「見た目を変えるのはふつう許されない」という内容とつながります。3が正解です。
+【ほかの選択肢】
+1 improved は「改良された」です。政府が橋を改良してきたという話は本文になく、「見た目を変えることはふつう許されない」という理由にもなりません。
+2 exported は「輸出された」です。橋はロンドンのテムズ川にかかっているので、政府によって輸出されたという内容は合いません。
+4 offered は「提供された」です。「歴史的な建造物として政府に提供されてきた」となり、見た目を変えることがふつうは許されない理由の説明になりません。
+【覚えるポイント】
+・be protected as ～：「～として保護されている」。
+・raise an issue：「問題を引き起こす、問題を持ち出す」。

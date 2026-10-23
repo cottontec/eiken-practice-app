@@ -1,0 +1,25 @@
+---
+choices: income | exhibit | industry | account
+answerText: account
+reviewed: yes
+---
+【正解】4 account（口座）
+【和訳】
+ハリーは初めてのアルバイトを見つけたばかりです。彼はかせいだお金の一部を貯金したいので、地元の銀行で口座を開くつもりです。
+（選択肢の意味）
+1 income：収入
+2 exhibit：展示品
+3 industry：産業、工業
+4 account：口座
+【考え方】
+2文目の前半 He wants to save some of the money he earns（かせいだお金の一部を貯金したい）に注目します。save は「（お金を）たくわえる、貯金する」、earn は「（働いて）かせぐ」です。
+続いて so he plans to open an (　) at his local bank（だから地元の銀行で（　）を開くつもりだ）とあります。so は「だから」で、貯金したいことが理由になっています。
+貯金するために銀行で「開く」ものは「口座」です。open an account で「口座を開く」という決まった言い方になります。正解は4です。
+なお、どの選択肢も母音で始まるので an はどれにも付けられます。冠詞（a や an のこと）では決められないので、意味で選びましょう。
+【ほかの選択肢】
+1 income は「収入」です。収入はアルバイトでかせぐものなので、銀行で「開く」ものではありません。
+2 exhibit は「展示品、展覧会」です。銀行で展示品を開いても貯金にはつながりません。
+3 industry は「産業、工業」です。「地元の銀行で産業を開く」となり、意味が通りません。
+【覚えるポイント】
+・open an account：「（銀行に）口座を開く」。bank account で「銀行口座」。
+・part-time job：「アルバイト、パートの仕事」。

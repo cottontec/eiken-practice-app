@@ -1,0 +1,26 @@
+---
+choices: organized | copied | recorded | shortened
+answerText: organized
+reviewed: yes
+---
+【正解】1 organized（計画された、仕組まれた）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 organized：計画された、仕組まれた
+2 copied：まねされた、写された
+3 recorded：記録された
+4 shortened：短くされた
+【考え方】
+空所は第3段落の2文目、Research has shown that this was actually (　) by Brazilians to make the piranhas seem dangerous.（研究によって、これは実はピラニアを危険に見せるためにブラジルの人々によって～されたことが分かっている）にあります。this は、1文目の the dramatic event that Roosevelt witnessed（ルーズベルトが目撃した劇的な出来事）、つまり牛がピラニアに襲われた出来事を指します。
+to make the piranhas seem dangerous（ピラニアを危険に見せるために）は、目的を表しています。ブラジルの人々がわざとそう見せようとしたことが分かります。
+次の文で、そのやり方が説明されています。Weeks before Roosevelt's visit, the fishermen collected piranhas and kept them without any food in one part of the river.（ルーズベルトが訪れる数週間前、漁師たちはピラニアを集め、川の一部でえさを与えずにおいた）とあります。漁師たちは前もって準備していたのです。
+organize は「計画して準備する、仕組む」という意味です。was organized で「仕組まれた」となり、数週間前から準備していたという内容と合うので、1が正解です。
+【ほかの選択肢】
+2 copied は「まねされた」です。何をまねしたのかは本文に書かれておらず、次の文の「前もってピラニアを飢えさせておいた」という準備の説明ともつながりません。
+3 recorded は「記録された」です。この出来事を本に書いたのは、第1段落にあるように Roosevelt wrote about this incident in a book（ルーズベルトが本に書いた）で、ブラジルの人々ではありません。また、次の文は記録のことではなく、前もって準備したことの説明です。
+4 shortened は「短くされた」です。出来事が短くされたという話は本文になく、ピラニアを危険に見せるという目的ともつながりません。
+【覚えるポイント】
+・organize：「計画して準備する、組織する」。
+・make ～ seem ...：「～を…のように見せる」。

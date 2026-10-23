@@ -1,0 +1,31 @@
+---
+choices: stumble on | trade in | rip off | straighten out
+answerText: straighten out
+reviewed: yes
+---
+【正解】4 straighten out（解決する、きちんと直す）
+【和訳】
+（英文）
+The web developer hired to update the company's website did a terrible job. It took months to ［straighten out］ all the problems he had caused.
+（訳）
+会社のウェブサイトを更新するために雇われたウェブ開発者は、ひどい仕事をしました。彼が引き起こした問題をすべて（解決する）のに何か月もかかりました。
+（選択肢の意味）
+1 stumble on：偶然見つける
+2 trade in：下取りに出す
+3 rip off：（お金を）だまし取る、ぼったくる
+4 straighten out：解決する、きちんと直す
+【考え方】
+まず見るところ：前半の文の did a terrible job と、空所の後ろの all the problems he had caused
+The web developer hired to update the company's website did a terrible job.（会社のウェブサイトを更新するために雇われたウェブ開発者は、ひどい仕事をした）
+web developer は「ウェブ開発者（ウェブサイトを作る人）」、update は「新しくする、更新する」です。この人の仕事がひどかったので、問題がたくさん起きたことが分かります。
+空所のある文は次のとおりです。
+It took months to (　) all the problems he had caused.（彼が引き起こした問題をすべて（　）のに何か月もかかった）
+It took months to ～ は「～するのに何か月もかかった」です。ひどい仕事のせいで起きた問題に対して何か月もかけてすることとしては、「解決する、きちんと直す」が自然です。straighten out は「（もつれたものを）まっすぐにする」から「（問題を）解決する」という意味になるので、4が正解です。
+この問題の型：熟語・決まった形（straighten out all the problems）／因果（ひどい仕事→問題を直すのに何か月もかかった）
+【ほかの選択肢】
+1 stumble on は「偶然見つける」です。「彼が引き起こした問題をすべて偶然見つけるのに何か月もかかった」となり、すでに引き起こされた問題に対する行動として自然ではありません。
+2 trade in は「（古い物を）下取りに出す」です。「問題をすべて下取りに出す」となり、意味が通りません。
+3 rip off は「（お金を）だまし取る、ぼったくる」です。「問題をすべてだまし取る」となり、意味が通りません。
+【覚えるポイント】
+・straighten out：「（問題を）解決する、きちんと直す」。straight（まっすぐな）からできた語で、もつれたものをまっすぐにするイメージです。
+・前の文に失敗やひどい結果（ここでは did a terrible job）が書かれているときは、そのあとに「それをどう直したか」が続くことが多く、空所の手がかりになります。

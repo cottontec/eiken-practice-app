@@ -1,0 +1,34 @@
+---
+choices: up until now | up in the air | at the bottom | at the same time
+answerText: up until now
+reviewed: yes
+---
+【正解】1 up until now（今までは）
+【和訳】
+（英文）
+A: Sorry I'm late for class again, Ms. Simmons. My alarm clock didn't go off.
+B: I've been patient with you ［up until now］, Jamie, but this is the last time. Next time, I'm going to call your parents.
+（訳）
+A：また授業に遅れてすみません、シモンズさん。目覚まし時計が鳴らなかったんです。
+B：ジェイミー、（今までは）あなたのことをがまんしてきましたが、これが最後ですよ。次は、あなたのご両親に電話します。
+（選択肢の意味）
+1 up until now：今までは
+2 up in the air：未定で、宙に浮いて
+3 at the bottom：いちばん下で、底で
+4 at the same time：同時に
+【考え方】
+まず見るところ：Bの空所のあとの but this is the last time
+Aの Sorry I'm late for class again（また授業に遅れてすみません）の again（また）から、ジェイミーは何度も遅刻していることが分かります。Bのシモンズさんは授業の遅刻をとがめているので、このクラスの先生だと考えられます。
+Bの文は次のとおりです。
+I've been patient with you ( ), Jamie, but this is the last time.（ジェイミー、（　）あなたのことをがまんしてきたが、これが最後だ）
+I've been patient は現在完了（have ＋過去分詞で、過去から今まで続いていることを表す形）で、「今までずっとがまんしてきた」という意味です。
+そのあとに but this is the last time（でも、これが最後だ）と続き、次は両親に電話すると言っています。「今まではがまんしてきたが、もうがまんしない」という流れなので、up until now（今までは）が入ります。ですから1が正解です。
+この問題の型：文法（現在完了＝今まで続いてきたこと）／対比（今までは⇔これが最後）
+【ほかの選択肢】
+2 up in the air は「（計画などが）未定で、宙に浮いて」です。「未定の状態であなたに対してがまんしてきた」となり、意味が通りません。
+3 at the bottom は「いちばん下で、底で」です。「底であなたに対してがまんしてきた」となり、遅刻をとがめる話とつながりません。
+4 at the same time は「同時に」です。何と同時なのかが分からず、「今までがまんしてきたが、これが最後」という流れに合いません。
+【覚えるポイント】
+・up until now：「今までは」。このあとに「でもこれからは違う」という内容が続くことが多いです。
+・be patient with ～：「～に対してがまんする、しんぼう強く接する」。
+・I've been ～（現在完了）の文のあとに but が続くときは、「今まではそうだったが、これからは違う」という流れになることが多く、時を表す語句を選ぶ手がかりになります。

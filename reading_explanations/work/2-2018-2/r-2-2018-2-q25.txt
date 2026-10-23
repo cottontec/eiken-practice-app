@@ -1,0 +1,26 @@
+---
+choices: she became cold | she felt pain | feelings became clearer | brain activity dropped
+answerText: brain activity dropped
+reviewed: yes
+---
+【正解】4 brain activity dropped（脳の活動が低下した）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 she became cold（彼女は寒くなった、体が冷たくなった）
+2 she felt pain（彼女は痛みを感じた）
+3 feelings became clearer（感情が〔以前より〕はっきりした）
+4 brain activity dropped（脳の活動が低下した）
+【考え方】
+空所は第2段落の However, when her husband touched her hand,（25）in those areas. です。「しかし、夫が彼女の手に触れると、それらの部分で（25）」という意味です。those areas（それらの部分）は、前の文の the areas of her brain related to fear（脳の、恐怖に関係する部分）を指しています。
+空所の前の文は When a woman knew she would receive an electric shock to her ankle, the areas of her brain related to fear became active.（足首に電気ショックを受けると分かっているとき、女性の脳の、恐怖に関係する部分が活発になった）です。そして空所の文は However（しかし）で始まっています。However のあとは、前と反対の内容になると考えられます。前が「恐怖の部分が活発になった」なので、反対は「その部分の活動がおさまった」です。
+さらに、空所のあとの Coen found that the women also felt less fear even when their hand was touched by a stranger（コーエンは、知らない人に手を触れられたときでさえ、女性たちが感じる恐怖が少なくなることも発見した）も手がかりです。also（～も）とあるので、夫に手を触れられたときにも恐怖が少なくなっていたことが分かります。
+4を入れると「夫が手に触れると、恐怖に関係する部分で脳の活動が低下した」となり、前の文との反対の関係にも、あとの文の also にも合います。ですから、4が正解です。
+【ほかの選択肢】
+1 「彼女は寒くなった」は、本文にありません。また「それらの部分（恐怖に関係する脳の部分）で寒くなった」となり、意味が通りません。
+2 「彼女は痛みを感じた」では、However（しかし）で前の文と反対の内容にならず、手を握るとストレスが減るという段落の最初の内容とも合いません。
+3 「感情がはっきりした」は、本文にありません。あとの文では恐怖が少なくなったと書かれており、感情がはっきりしたという話ではありません。
+【覚えるポイント】
+・However のあとは前と反対の内容が来ます。前の文の became active（活発になった）と、正解の dropped（下がった）が対になっています。
+・related to ～：「～に関係する」。the areas of her brain related to fear で「恐怖に関係する脳の部分」。

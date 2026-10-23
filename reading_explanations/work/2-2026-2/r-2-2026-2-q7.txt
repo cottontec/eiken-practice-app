@@ -1,0 +1,31 @@
+---
+choices: squeeze | predict | reject | execute
+answerText: predict
+reviewed: yes
+---
+【正解】2 predict（予測する）
+【和訳】
+（英文）
+These days, scientists can ［predict］ how the weather will be in the near future by using technology like satellites and radar.
+（訳）
+今日では、科学者たちは、人工衛星やレーダーのような技術を使うことによって、近い将来に天気がどうなるかを（予測する）ことができます。
+（選択肢の意味）
+1 squeeze：しぼる、押しこむ
+2 predict：予測する
+3 reject：断る、受け入れない
+4 execute：実行する
+【考え方】
+まず見るところ：空所のあとの how the weather will be in the near future
+空所のある文は次のとおりです。
+scientists can ( ) how the weather will be in the near future（科学者たちは、近い将来に天気がどうなるかを（　）できる）
+空所のあとの how the weather will be は「天気がどうなるか」で、will be（～になるだろう）とあるので、これから先のことです。さらに in the near future（近い将来に）とあります。
+まだ起きていない先のことについて、科学者ができるのは「前もって考えて言い当てること」です。predict は「予測する（これから起こることを前もって言う）」という意味なので、2が正解です。
+文の後半の by using technology like satellites and radar（人工衛星やレーダーのような技術を使って）は、予測するための手段を表していて、意味がつながります。
+この問題の型：語の意味・組み合わせ（predict how the weather will be）
+【ほかの選択肢】
+1 squeeze は「しぼる、押しこむ」です。「天気がどうなるかをしぼる」となり、意味が通りません。
+3 reject は「断る、受け入れない」です。「近い将来に天気がどうなるかを断る」となり、人工衛星やレーダーを使って科学者がすることとして意味が通りません。
+4 execute は「実行する」です。「天気がどうなるかを実行する」となり、意味が通りません。天気は人が実行するものではありません。
+【覚えるポイント】
+・predict：「予測する」。
+・空所のあとに will や in the future のような「これから先」を表す語句があるときは、先のことについてする動作（予測する、など）が入る手がかりになります。

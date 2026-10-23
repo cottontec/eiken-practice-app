@@ -1,0 +1,35 @@
+---
+choices: Scotland was able to trick King Edward I into choosing John Balliol even though it was not in Edward’s interest to do so. | King Edward I began to question the loyalty of the Scottish nobles who had not supported John Balliol’s attempt to become king. | King Edward I attempted to use the situation to his advantage in order to increase his power over Scotland. | Scotland felt so threatened by France’s military power that diplomatic relations between the countries worsened.
+answerText: King Edward I attempted to use the situation to his advantage in order to increase his power over Scotland.
+reviewed: yes
+---
+【正解】3 King Edward I attempted to use the situation to his advantage in order to increase his power over Scotland.（エドワード1世は、スコットランドに対する自分の力を強めるために、その状況を自分に有利になるよう利用しようとした。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What happened following the death of King Alexander III of Scotland?（スコットランド王アレグザンダー3世が亡くなったあと、何が起こったか。）
+1 Scotland was able to trick King Edward I into choosing John Balliol even though it was not in Edward’s interest to do so.（スコットランドは、エドワード1世にとって得にならないにもかかわらず、エドワード1世をだましてジョン・ベイリャルを選ばせることができた。）
+2 King Edward I began to question the loyalty of the Scottish nobles who had not supported John Balliol’s attempt to become king.（エドワード1世は、ジョン・ベイリャルが王になろうとするのを支持しなかったスコットランドの貴族たちの忠誠を、疑い始めた。）
+3 King Edward I attempted to use the situation to his advantage in order to increase his power over Scotland.（エドワード1世は、スコットランドに対する自分の力を強めるために、その状況を自分に有利になるよう利用しようとした。）
+4 Scotland felt so threatened by France’s military power that diplomatic relations between the countries worsened.（スコットランドはフランスの軍事力にとても脅威を感じたので、両国の外交関係が悪化した。）
+【考え方】
+まず見るところ：第1段落の Edward, who himself had ambitions to ultimately rule Scotland, agreed only on the condition that
+アレグザンダー3世が亡くなったあとのことは、第1段落に書かれています。王の死のあと、貴族たちの権力争いをおさめるため、イングランドのエドワード1世が新しい支配者を選ぶよう頼まれました。そのときのエドワードの様子が、次のように書かれています。
+Edward, who himself had ambitions to ultimately rule Scotland, agreed only on the condition that the new leader pledged loyalty to him.（エドワードは、自分自身も最終的にはスコットランドを支配したいという野心を持っており、新しい指導者が自分に忠誠を誓うという条件でのみ、それを引き受けた）
+ambition は「野心（大きな望み）」、pledge loyalty は「忠誠を誓う（従うと約束する）」です。エドワードは、頼まれた機会を利用して、新しい王を自分に従わせようとしたと読み取れます。
+さらに、その後のことも書かれています。
+resentment soon grew as England repeatedly exerted its authority over Scotland’s affairs（イングランドがスコットランドの問題にくり返し権力をふるうにつれて、まもなく反感が高まった）
+本文と選択肢を対にすると、次のようになります。
+本文 had ambitions to ultimately rule Scotland（最終的にスコットランドを支配したいという野心を持っていた）→ 選択肢 in order to increase his power over Scotland（スコットランドに対する自分の力を強めるために）
+本文 agreed only on the condition that the new leader pledged loyalty to him（新しい指導者が自分に忠誠を誓うという条件でのみ引き受けた）→ 選択肢 attempted to use the situation to his advantage（その状況を自分に有利になるよう利用しようとした）
+本文の内容から読み取れることなので、3が正解です。
+この問題の型：推論（野心＋忠誠を条件にした → 状況を利用して力を強めようとした）／言いかえ
+【ほかの選択肢】
+1 本文に書かれていません。ベイリャルを選んだのはエドワード自身で、しかも自分に忠誠を誓うという条件をつけていました。スコットランドがエドワードをだましたという話はありません。
+2 本文に書かれていません。ベイリャルを支持しなかった貴族たちの忠誠をエドワードが疑ったという話はありません。エドワードが求めたのは、新しい指導者が自分に忠誠を誓うことです。
+4 本文と合いません。第1段落では、ベイリャルはエドワードの求めに応じる代わりに allied his nation with France（自分の国をフランスと同盟させた）とあり、スコットランドがフランスを脅威に感じて関係が悪化したわけではありません。
+【覚えるポイント】
+・ambition：「野心（大きな望み）」。pledge loyalty to ～：「～に忠誠を誓う」。
+・on the condition that ～：「～という条件で」。
+・人物の行動の目的をたずねる設問では、本文で who himself had ambitions のように、その人物の考えや望みを説明している部分を探し、行動とあわせて考えると手がかりになります。

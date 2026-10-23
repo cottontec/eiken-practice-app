@@ -1,0 +1,31 @@
+---
+choices: compensated | deployed | amended | worshipped
+answerText: compensated
+reviewed: yes
+---
+【正解】1 compensated（補償した）
+【和訳】
+（英文）
+After a number of miners died in an accident, the mining company ［compensated］ their families. No amount of money, however, could replace the men whose lives had been lost.
+（訳）
+事故で何人もの鉱山労働者が亡くなったあと、鉱山会社はその家族に（補償をした）。しかし、どれだけのお金も、命を失った男性たちの代わりにはなれなかった。
+（選択肢の意味）
+1 compensated：補償した（損害のつぐないとしてお金などを払った）
+2 deployed：配置した、配備した
+3 amended：修正した、改正した
+4 worshipped：崇拝した、あがめた
+【考え方】
+まず見るところ：後ろの文の No amount of money, however, could replace ～
+空所のある文は、事故で労働者が亡くなったあと、鉱山会社がその家族に（　）した、と言っています。
+後ろの文を見ます。
+No amount of money, however, could replace the men whose lives had been lost.（しかし、どれだけのお金も、命を失った男性たちの代わりにはなれなかった）
+however（しかし）があるので、この文は前の文と反対の向きの内容です。「お金では亡くなった人の代わりにならない」と言っているので、前の文では、会社が家族にお金を払ったことが書かれていると考えられます。
+compensate は「（損害のつぐないとして）補償する」という意味なので、1が正解です。
+この問題の型：対比（however：お金を払った⇔お金では代わりにならない）／語の意味・組み合わせ（money→compensate）
+【ほかの選択肢】
+2 deployed は「配置した、配備した」です。兵士や機械などを持ち場に置くときに使う語で、「家族を配置した」では、後ろの文の「お金」の話につながりません。
+3 amended は「修正した、改正した」です。法律や文書を直すときに使う語で、「家族を修正した」では意味が通りません。
+4 worshipped は「崇拝した、あがめた」です。神などをうやまうときに使う語で、亡くなった労働者の家族に対して会社がすることとして意味が通らず、お金の話ともつながりません。
+【覚えるポイント】
+・compensate：「補償する、つぐなう」。事故や損害のあとに、お金を払う場面でよく使われます。
+・後ろの文に however と money があり「お金では代わりにならない」と言っているときは、前の文で「お金を払った」内容が書かれていると考えるのが手がかりになります。

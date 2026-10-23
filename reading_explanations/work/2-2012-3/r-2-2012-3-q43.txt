@@ -1,0 +1,31 @@
+---
+choices: were an early sign of global warming in Mongolia. | can be broken up into pieces and transported to other areas. | are created when water freezes repeatedly on top of a river. | become much thicker when they form in the summer.
+answerText: are created when water freezes repeatedly on top of a river.
+reviewed: yes
+---
+【正解】3 are created when water freezes repeatedly on top of a river.（川の上で水がくり返し凍るときにできる。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：「ナレド」は…
+1 were an early sign of global warming in Mongolia.（モンゴルにおける地球温暖化の初期のしるしだった。）
+2 can be broken up into pieces and transported to other areas.（くだいて、ほかの地域へ運ぶことができる。）
+3 are created when water freezes repeatedly on top of a river.（川の上で水がくり返し凍るときにできる。）
+4 become much thicker when they form in the summer.（夏にできると、（冬にできるときよりも）ずっと厚くなる。）
+【考え方】
+ナレドについては第3段落に説明があります。
+まず what are called "naleds"—thick bodies of ice that form on rivers in the winter（「ナレド」と呼ばれるもの、つまり冬に川の上にできる厚い氷のかたまり）とあります。
+次に、どのようにできるかが書かれています。After a river freezes over, pressure grows in the water below until the water breaks through the ice.（川が一面に凍ると、その下の水の中で圧力が高まっていき、やがて水が氷を突き破る）、This forms a new layer of ice, making the naled thicker.（これが新しい氷の層を作り、ナレドを厚くする）。氷を突き破って出てきた水が、氷の上で新しい氷の層になるということです。
+さらに This happens again and again over the winter（冬の間、このことが何度もくり返される）とあります。
+本文と選択肢は次のように対応しています。
+本文 form on rivers（川の上にできる）＝ 選択肢 on top of a river（川の上で）
+本文 This forms a new layer of ice（新しい氷の層ができる）／ This happens again and again（何度もくり返される）＝ 選択肢 water freezes repeatedly（水がくり返し凍る）
+正解は3です。
+【ほかの選択肢】
+1 ナレドは冬に川の上にできる氷のかたまりとして説明されています。地球温暖化の初期のしるしだったという話は本文にありません。
+2 本文では、グレイソンさんの計画として、ウランバートルの近くに人工のナレドを作ることが書かれています。ナレドをくだいてほかの地域へ運ぶという話はありません。
+4 本文には thick bodies of ice that form on rivers in the winter（冬に川の上にできる厚い氷のかたまり）とあり、ナレドができるのは冬です。夏については、夏の間ずっと残るほど厚いナレドを作るという話が出てくるだけで、夏にできるとは書かれていません。
+【覚えるポイント】
+・freeze over：「一面に凍る、すっかり凍る」。
+・again and again：「何度も、くり返し」。repeatedly とほぼ同じ意味です。

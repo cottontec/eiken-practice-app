@@ -1,0 +1,29 @@
+---
+choices: overtaken | overridden | underfed | underrated
+answerText: underrated
+reviewed: yes
+---
+【正解】4 underrated（過小評価された）
+【和訳】
+（英文）
+Some people feel the film was ［underrated］. Although it did not win any awards, there are those who believe it was a great work of art.
+（訳）
+その映画は（過小評価されていた）と感じている人もいます。その映画は賞を1つも取りませんでしたが、すばらしい芸術作品だったと信じている人たちがいるのです。
+（選択肢の意味）
+1 overtaken：追い抜かれた、（感情などに）突然襲われた
+2 overridden：（決定などが）くつがえされた、無効にされた
+3 underfed：食べ物を十分に与えられていない、栄養不足の
+4 underrated：過小評価された（本当の値打ちよりも低く見られた）
+【考え方】
+まず見るところ：空所のあとの Although it did not win any awards と a great work of art
+空所の文に続く文は、Although（～だけれども）で始まっています。
+Although it did not win any awards, there are those who believe it was a great work of art.（その映画は賞を1つも取らなかったけれども、すばらしい芸術作品だったと信じている人たちがいる）
+「賞を取らなかった」は世の中の評価が低かったこと、「すばらしい芸術作品だった」はそう信じる人たちの評価が高いことを表しています。つまり、その人たちは「本当はすばらしいのに、低く評価された」と感じているのです。underrated は under-（足りない）＋ rated（評価された）で「過小評価された」という意味なので、4が正解です。
+この問題の型：対比（賞を取らなかった⇔すばらしい作品だと信じる人がいる）
+【ほかの選択肢】
+1 overtaken は「追い抜かれた」です。映画が何に追い抜かれたのかが書かれておらず、続く文の「賞は取らなかったが、すばらしい作品だと信じる人がいる」という説明ともつながりません。
+2 overridden は「くつがえされた、無効にされた」で、決定や命令などについて使うことが多い語です。「その映画はくつがえされた」となり、意味が通りません。
+3 underfed は「栄養不足の」で、人や動物について使う語です。「その映画は栄養不足だった」となり、意味が通りません。
+【覚えるポイント】
+・underrated：「過小評価された」。under-（足りない）がつく語は「十分でない」、over-（上に、こえて）がつく語は「上をこえる、やりすぎる」という意味になることが多いので、語の前半が手がかりになります。
+・Although ～（～だけれども）のあとに「評価が低かった事実」と「高く評価する意見」が並んでいるときは、「本当の値打ちより低く見られた」という意味の語が入る手がかりになります。

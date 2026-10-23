@@ -1,0 +1,23 @@
+---
+choices: will have been | has been | will be | was
+answerText: will have been
+reviewed: yes
+---
+【正解】1 will have been（〔未来のある時点までに〕ずっと～していることになる）
+【和訳】
+（英文）
+Greg started playing the violin when he was a child. By the time he graduates from high school this spring, he ［will have been］ playing it for 15 years.
+（訳）
+グレッグは子どものころにバイオリンを弾き始めました。この春に高校を卒業するときには、彼はバイオリンを15年間（弾き続けてきたことになります）。
+（選択肢の意味）空所のあとの playing と合わせて考えます。1 will have been playing（未来のある時点まで）ずっと弾き続けていることになる　2 has been playing（今まで）ずっと弾いている　3 will be playing（未来のある時点に）弾いているだろう　4 was playing（過去のある時点に）弾いていた
+【考え方】
+まず、時を表す語句を確かめます。By the time he graduates from high school this spring（この春に高校を卒業するときまでに）とあります。this spring（この春）の卒業は、これから先のことです。by the time ～ は「～するときまでに」という意味です。by the time のあとでは、未来のことでも graduates のように現在の形を使います。
+次に for 15 years（15年間）に注目します。子どものころに始めたバイオリンを、卒業するときまで続けていれば、その時点で15年間弾いてきたことになります。
+このように「未来のある時点まで、ずっと～し続けていることになる」は、will have been ＋ -ing の形で表します。will have been playing it for 15 years で「15年間弾き続けてきたことになる」となるので、1が正解です。
+【ほかの選択肢】
+2 has been playing は「（今まで）ずっと弾いている」と、今の時点までの継続を表します。この文で区切りになっているのは「この春の卒業」という未来の時点なので、合いません。
+3 will be playing は「（未来のある時点に）弾いているところだろう」という意味です。「卒業するときまでに15年間」という、それまでの長さを表すことができないので合いません。
+4 was playing は「（過去のある時点に）弾いていた」という過去の形です。卒業はこれから先のことなので、時が合いません。
+【覚えるポイント】
+・will have been ＋ -ing ＋ for ～：「（未来のある時点までに）～の間ずっと…し続けていることになる」。
+・by the time ～：「～するときまでに」。未来のことでも、あとの動詞は現在の形にします。

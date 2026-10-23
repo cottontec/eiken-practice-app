@@ -1,0 +1,31 @@
+---
+choices: indebted | integral | mediocre | primitive
+answerText: integral
+reviewed: yes
+---
+【正解】2 integral（欠かせない、なくてはならない）
+【和訳】
+（英文）
+The company president knew that using the latest information technology would be costly, but he believed it was ［integral］ to the company's new strategy.
+（訳）
+その社長は、最新の情報技術を使うにはお金がかかるだろうと分かっていたが、それは会社の新しい戦略に（欠かせない）と信じていた。
+（選択肢の意味）
+1 indebted：借金がある、（人に）恩を受けている
+2 integral：欠かせない（全体を作るのに必要な一部である）
+3 mediocre：平凡な、並みの（よくも悪くもない）
+4 primitive：原始的な、初期の
+【考え方】
+まず見るところ：文の真ん中の but と、その前の would be costly
+文は but（しかし）で2つに分かれています。
+knew that using the latest information technology would be costly（最新の情報技術を使うにはお金がかかるだろうと分かっていた）
+but he believed it was (　) to the company's new strategy（しかし、それは会社の新しい戦略に〇〇だと信じていた）
+it は「最新の情報技術を使うこと」を指しています。but があるので、前の「お金がかかる」という悪い点と反対の、「それでも使う価値がある」という内容が続くと考えられます。
+integral は「欠かせない（全体を作るのに必要な一部である）」という意味で、be integral to ～ で「～に欠かせない」となります。「お金はかかるが、新しい戦略に欠かせない」となり、but の前後が対比（2つを比べて違いを示すこと）になります。よって2が正解です。
+この問題の型：対比（costly ⇔ but ～）
+【ほかの選択肢】
+1 indebted は「借金がある、恩を受けている」で、be indebted to ～ は「～に恩がある」という意味です。「情報技術を使うことが新しい戦略に恩がある」となり、意味が通りません。
+3 mediocre は「平凡な、並みの」です。「お金はかかるが、平凡だ」では、but の前後が「それでも使う理由」の対比になりません。
+4 primitive は「原始的な、初期の」です。最新の（latest）情報技術を「原始的」と言うのは食いちがっていて、意味が通りません。
+【覚えるポイント】
+・be integral to ～：「～に欠かせない、～の重要な一部である」。
+・「悪い点, but ～」の形では、but のあとに「それでもよい点・必要な理由」が来ることが多いので、悪い点と反対向きの語を探すのが手がかりになります。

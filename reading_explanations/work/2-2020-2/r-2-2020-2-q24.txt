@@ -1,0 +1,26 @@
+---
+choices: largest factors in global warming | most expensive problems to solve | important reasons to move | main causes of health problems
+answerText: main causes of health problems
+reviewed: yes
+---
+【正解】4 main causes of health problems（健康問題の主な原因）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 largest factors in global warming（地球温暖化の最大の要因）
+2 most expensive problems to solve（解決するのに最もお金がかかる問題）
+3 important reasons to move（引っ越す重要な理由）
+4 main causes of health problems（健康問題の主な原因）
+【考え方】
+空所は第1段落の According to the European Environment Agency, it is one of the (24) for people living in cities.（欧州環境機関によると、それは都市に住む人々にとっての（24）の1つだ）です。it は前の文の Air pollution in urban areas（都市部の大気汚染）を指しています。
+空所のすぐあとが For instance（たとえば）で始まっていることに注目します。For instance のあとには、空所の内容の具体例が来ます。
+その具体例は breathing polluted air on a regular basis can eventually result in lung diseases or cancers（汚れた空気を日常的に吸っていると、最終的に肺の病気やがんになることがある）です。result in ～ は「（結果として）～をもたらす」という意味です。
+肺の病気やがんは「健康問題」の例で、汚れた空気はその「原因」になっています。4を入れると「大気汚染は、都市に住む人々にとって健康問題の主な原因の1つだ。たとえば～」となり、例とぴったり合います。ですから4が正解です。
+【ほかの選択肢】
+1 「地球温暖化の最大の要因」を入れると、For instance のあとの例は温暖化の話でなければなりません。しかし実際の例は肺の病気やがんの話なので、つながりません。
+2 「解決するのに最もお金がかかる問題」を入れると、例は費用の話になるはずです。本文には汚染を減らす費用についての記述はなく、例とつながりません。
+3 「引っ越す重要な理由」は本文にありません。例は病気の話で、人々が引っ越すという話は出てきません。
+【覚えるポイント】
+・For instance：「たとえば」。直前の内容の具体例を示します。For example と同じ意味です。
+・result in ～：「（結果として）～をもたらす、～につながる」。

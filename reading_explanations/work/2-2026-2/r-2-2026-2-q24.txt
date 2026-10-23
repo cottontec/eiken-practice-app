@@ -1,0 +1,34 @@
+---
+choices: Because she is searching for furniture that suits her new layout. | Because she is planning to sell her shop to someone in the city. | Because she wants to offer some used items for his shop. | Because she hopes to sell handmade items at his secondhand shop.
+answerText: Because she wants to offer some used items for his shop.
+reviewed: yes
+---
+【正解】3 Because she wants to offer some used items for his shop.（彼女は、彼の店に中古の品物をいくつか提供したいから。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Why does Katy Lewis write this email to George Henderson?（ケイティ・ルイスはなぜ、ジョージ・ヘンダーソンにこのEメールを書いているのですか。）
+1 Because she is searching for furniture that suits her new layout.（彼女は、新しい配置に合う家具を探しているから。）
+2 Because she is planning to sell her shop to someone in the city.（彼女は、自分の店を市内のだれかに売るつもりだから。）
+3 Because she wants to offer some used items for his shop.（彼女は、彼の店に中古の品物をいくつか提供したいから。）
+4 Because she hopes to sell handmade items at his secondhand shop.（彼女は、彼の中古品店で手作りの品物を売りたいと思っているから。）
+【考え方】
+まず見るところ：第1段落の want to give away some of the furniture と a secondhand shop like yours might be able to accept it
+Eメールを書いた目的は、第1段落に書かれています。
+We are going to renovate our shop and want to give away some of the furniture.（私たちは店を改装する予定で、家具の一部を無料でお譲りしたいと思っている）
+give away は「無料で譲る、ただであげる」という意味です。さらに、第1段落の最後に次の文があります。
+The furniture is all in good condition, and I thought a secondhand shop like yours might be able to accept it.（家具はどれも状態がよく、あなたのお店のような中古品店なら、それを引き取っていただけるかもしれないと思った）
+ケイティは、もう使わなくなる店の家具を、ジョージの中古品店に引き取ってもらいたいと考えています。
+本文と選択肢を対にすると、次のようになります。
+本文 give away some of the furniture（家具の一部を無料で譲る）→ 選択肢 offer some used items（中古の品物をいくつか提供する）
+本文 a secondhand shop like yours might be able to accept it（あなたのお店のような中古品店なら引き取ってもらえるかもしれない）→ 選択肢 for his shop（彼の店に）
+ケイティの店で使ってきた家具なので、used items（中古の品物）と言いかえられています。ですから3が正解です。
+この問題の型：言いかえ（give away some of the furniture → offer some used items）
+【ほかの選択肢】
+1 本文と反対の内容です。ケイティは家具を探しているのではなく、店の配置が変わるので We'll no longer need them（それらはもう必要なくなる）と書き、家具を手放そうとしています。
+2 本文にありません。ケイティは店を renovate（改装する）予定だと書いていて、店を売るという話はありません。
+4 本文にありません。ケイティはクラフトショップを経営していますが、ジョージの店で手作りの品物を売りたいとは書いていません。ジョージの店に引き取ってほしいのは、テーブルや棚などの家具です。
+【覚えるポイント】
+・give away ～：「～を無料で譲る、ただであげる」。
+・Eメールの目的をたずねる設問では、第1段落の want to ～ や I thought ～ のように、書き手の願いや考えを表す部分を探すと手がかりになります。

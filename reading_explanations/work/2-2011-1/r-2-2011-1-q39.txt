@@ -1,0 +1,28 @@
+---
+choices: felt that the way TUG acted was impolite. | disliked it when TUG came too close to them. | refused to listen to TUG's messages. | thought that TUG worked too hard.
+answerText: felt that the way TUG acted was impolite.
+reviewed: yes
+---
+【正解】1 felt that the way TUG acted was impolite.（TUGのふるまい方は失礼だと感じていた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ビルゲ・ムトゥルは、ある病院の人々が（　）ことに気づいた。
+1 felt that the way TUG acted was impolite.（TUGのふるまい方は失礼だと感じていた）
+2 disliked it when TUG came too close to them.（TUGが自分たちに近づきすぎるのをいやがっていた）
+3 refused to listen to TUG's messages.（TUGの伝言を聞くのを拒んでいた）
+4 thought that TUG worked too hard.（TUGは働きすぎだと思っていた）
+【考え方】
+ムトゥルの研究は第3段落に書かれています。Bilge Mutlu ... studied the reactions of workers to TUG in one hospital.（ムトゥルは、ある病院で働く人たちのTUGに対する反応を調べた）とあり、続いて He found that many people disliked the robot's lack of manners.（彼は、多くの人がこのロボットの礼儀のなさをいやがっていることに気づいた）とあります。lack は「足りないこと、ないこと」、manners は「礼儀、行儀」です。
+そのあとに例があります。人間は電話中の人に伝言を届けるとき、電話が終わるまで待ちますが、TUG simply interrupts the call and loudly announces, "TUG has arrived."（TUGはおかまいなしに電話をさえぎり、「TUGが到着しました」と大きな声で知らせる）。interrupt は「（話などを）さえぎる、じゃまする」です。
+つまり、人々はTUGのふるまいを「礼儀がない」と感じていたのです。本文と選択肢は次のように対応しています。
+本文 disliked the robot's lack of manners（ロボットの礼儀のなさをいやがった）＝ 選択肢 felt that the way TUG acted was impolite（TUGのふるまい方は失礼だと感じた）
+impolite は「失礼な、無礼な」です。したがって1が正解です。
+【ほかの選択肢】
+2 TUGが人に近づきすぎるという話は本文にありません。いやがられていたのは、電話をさえぎって大声で話すような、礼儀のないふるまいです。
+3 人々がTUGの伝言を聞くのを拒んだという話は本文にありません。
+4 本文の第1段落に、ロボットは They work hard（よく働く）とありますが、それは人間より優れた点として書かれています。働きすぎだと思われていたという話はありません。
+【覚えるポイント】
+・lack of ～：「～が足りないこと、～がないこと」。lack of manners で「礼儀のなさ」。
+・impolite：「失礼な」。polite（礼儀正しい）の反対の意味です。

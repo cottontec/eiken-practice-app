@@ -1,0 +1,27 @@
+---
+choices: be against the rules | cause problems for airlines | damage some instruments | make listeners angry
+answerText: cause problems for airlines
+reviewed: yes
+---
+【正解】2 cause problems for airlines（航空会社にとって問題を引き起こす）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 be against the rules（規則に反する）
+2 cause problems for airlines（航空会社にとって問題を引き起こす）
+3 damage some instruments（一部の楽器を傷つける）
+4 make listeners angry（聴衆を怒らせる）
+【考え方】
+空所は第2段落の While this is good news for musicians, it may ( 22 ). です。While は「～だけれども」と、前とあとを比べて反対の面を示す語です。this と it は、前の文の「楽器をほかの機内持ちこみ手荷物と同じように扱うべきだ」という規則を指します。ですから、「この規則は音楽家にはよい知らせだが、（22）かもしれない」と、規則のよくない面が空所に入ると考えられます。
+空所のあとに、そのよくない面が具体的に書かれています。
+・other passengers' luggage may not fit, making them angry（ほかの乗客の荷物が入らず、乗客たちを怒らせるかもしれない）
+・the airline staff members must find some other way of storing it safely on board（航空会社の職員は、機内で楽器を安全に保管する別の方法を見つけなければならない）
+乗客が怒ることも、職員が別の保管方法を考えなければならないことも、飛行機を運航する航空会社にとっての困りごとです。cause problems for airlines（航空会社にとって問題を引き起こす）を入れると、「音楽家にはよい知らせだが、航空会社には問題を引き起こすかもしれない」となり、空所のあとの具体例とつながります。ですから、2が正解です。
+【ほかの選択肢】
+1 「規則に反する」は合いません。空所に入れると「この規則は規則に反するかもしれない」となり、運輸省が作った規則そのものについての文として意味が通りません。空所のあとに書かれているのも、荷物が入らずに乗客が怒ることや、職員が別の保管方法を探さなければならないことで、規則違反の話は出てきません。
+3 「一部の楽器を傷つける」は合いません。楽器が傷つくのは、第1段落にある貨物室に入れた場合の話です。この規則は楽器を機内に持ちこめるようにするもので、空所のあとにも楽器が傷つく話はありません。
+4 「聴衆を怒らせる」は合いません。空所のあとで怒るかもしれないとされているのは、荷物が入らない other passengers（ほかの乗客）です。演奏を聞く人（聴衆）の話ではありません。
+【覚えるポイント】
+・While ～, ...：「～だけれども…」。よい面と悪い面など、反対のことを並べるときに使います。
+・空所のあとに具体例が続くときは、その例をまとめた言葉を選びましょう。

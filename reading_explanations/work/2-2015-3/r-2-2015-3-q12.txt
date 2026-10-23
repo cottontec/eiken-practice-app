@@ -1,0 +1,27 @@
+---
+choices: chance | far | turns | heart
+answerText: heart
+reviewed: yes
+---
+【正解】4 heart（by heart で「暗記して」）
+【和訳】
+（英文）
+Nathan did not want to use notes when he gave his speech, so he spent many hours learning it by ［heart］.
+（訳）
+ネイサンはスピーチをするときにメモを使いたくなかったので、何時間もかけてそれを暗記しました。
+（選択肢の意味）
+1 chance：偶然（by chance で「偶然に」）
+2 far：遠く（by far で「断然、ずっと」）
+3 turns：順番（by turns で「代わる代わる」）
+4 heart：心（by heart で「暗記して」）
+【考え方】
+前半に Nathan did not want to use notes when he gave his speech（ネイサンはスピーチをするときにメモを使いたくなかった）とあります。notes は「メモ」です。
+後半は so（だから）のあとに he spent many hours learning it by (　)（何時間もかけて、それを（　）で覚えた）と続きます。it は his speech（彼のスピーチ）を指しています。
+メモを見ないで話すためには、スピーチの内容をすべて覚えておく必要があります。learn ～ by heart で「～を暗記する」という決まった言い方になります。正解は4です。
+【ほかの選択肢】
+1 by chance は「偶然に」です。「何時間もかけて偶然に覚えた」となり、意味が通りません。
+2 by far は「断然、ずっと」で、the best などの最上級（「いちばん～」を表す形）や比較の言葉を強めるときに使います。learn it by far という言い方はしません。
+3 by turns は「代わる代わる、交代で」です。ネイサンは一人でスピーチを覚えているので、交代でという話には合いません。
+【覚えるポイント】
+・learn ～ by heart：「～を暗記する」。memorize ～ とほぼ同じ意味です。
+・by chance（偶然に）、by far（断然）など、by ＋ 名詞 の決まった言い方はまとめて覚えておくと便利です。

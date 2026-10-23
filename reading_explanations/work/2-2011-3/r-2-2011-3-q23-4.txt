@@ -1,0 +1,21 @@
+---
+choices: not | the | to | money | mention
+answerText: the
+order: 1 3 5 2 4
+reviewed: yes
+---
+【正解】2 the（この問題の4番目）
+【完成文】
+However, she does not have the time, ( not to mention the money ), to go anywhere this year.
+並べ方：1 not → 3 to → 5 mention → 2 the → 4 money（2番目は3、4番目は2）
+【和訳】
+サリーはもっとたびたび旅行したいと思っています。しかし彼女には、お金は言うまでもなく、今年どこかへ出かける時間もありません。
+【考え方】
+空所は、she does not have the time,（彼女には時間がない）と , to go anywhere this year の間にコンマではさまれています。ここには文の途中に差しこむ付け足しの説明が入ります。
+not, to, mention を並べると、not to mention ～（～は言うまでもなく）という決まった言い方ができます。そこで 1 not → 3 to → 5 mention の順に置きます。
+残りは 2 the と 4 money です。mention のあとには「何が言うまでもないのか」を表す名詞のまとまりがきます。the は「その」を表し、名詞の前に置く語なので、4番目に 2 the、最後に 4 money を置いて the money とします。これは前の the time と同じ形で、「時間」と「お金」が並べられています。
+4番目は2 the です。
+mention money the のように the を最後にすると、the のあとに名詞がなく、文の形が成り立ちません。the は必ず名詞の前に置きます。
+【覚えるポイント】
+・not to mention ～：「～は言うまでもなく」。
+・the ＋名詞：the は名詞の前に置きます。the time と the money のように、同じ形で並べると読みやすくなります。

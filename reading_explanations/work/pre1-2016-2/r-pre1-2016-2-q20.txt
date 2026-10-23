@@ -1,0 +1,30 @@
+---
+choices: comprehended | eliminated | pierced | enriched
+answerText: eliminated
+reviewed: yes
+---
+【正解】2 eliminated（（試合で）敗退させられた、除かれた）
+【和訳】
+（英文）
+Everyone was shocked when Jack was ［eliminated］ from the badminton tournament in the first round. As one of the best players in the state, he was expected to reach the finals.
+（訳）
+ジャックがバドミントンのトーナメントの1回戦で（敗退した）とき、みんなはショックを受けた。州で最も優れた選手の一人として、彼は決勝まで進むと期待されていたのだ。
+（選択肢の意味）
+1 comprehended：理解された
+2 eliminated：（試合で）敗退させられた、除かれた
+3 pierced：突き刺された、穴をあけられた
+4 enriched：豊かにされた
+【考え方】
+まず見るところ：Everyone was shocked と、後ろの文の he was expected to reach the finals
+As one of the best players in the state, he was expected to reach the finals.（州で最も優れた選手の一人として、彼は決勝まで進むと期待されていた）
+ジャックは強い選手で、決勝まで行くと思われていました。それなのに、みんながショックを受けた出来事が in the first round（1回戦で）起きています。
+Jack was ( ) from the badminton tournament in the first round（ジャックは1回戦でバドミントンのトーナメントから（　）された）
+期待に反して1回戦で負けた、と考えると話がつながります。be eliminated from ～ は「～から除かれる、（大会などで）敗退する」という意味なので、2が正解です。
+この問題の型：対比（決勝まで行くと期待されていた⇔1回戦で）
+【ほかの選択肢】
+1 comprehended は「理解された」です。「トーナメントから理解された」となり、意味が通りません。
+3 pierced は「突き刺された、穴をあけられた」です。「トーナメントから突き刺された」となり、意味が通りません。
+4 enriched は「豊かにされた」です。「トーナメントから豊かにされた」となり、みんながショックを受ける理由にもなりません。
+【覚えるポイント】
+・be eliminated from ～：「～から除かれる、（大会などで）敗退する」。
+・Everyone was shocked（みんながショックを受けた）のような言葉があるときは、期待や予想と反対のことが起きたと考えると、空所の語を選ぶ手がかりになります。

@@ -1,0 +1,28 @@
+---
+choices: Solar panels can heat larger quantities of water. | Solar panels are able to produce much more energy. | Solar power stations are more common in Europe. | Solar power stations continue to work after dark.
+answerText: Solar power stations continue to work after dark.
+reviewed: yes
+---
+【正解】4 Solar power stations continue to work after dark.（太陽熱発電所は暗くなったあとも動き続ける。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：ソーラーパネルと太陽熱発電所の違いの1つは何ですか。
+1 Solar panels can heat larger quantities of water.（ソーラーパネルのほうが、大量の水を熱することができる。）
+2 Solar panels are able to produce much more energy.（ソーラーパネルのほうが、ずっと多くのエネルギーを作り出すことができる。）
+3 Solar power stations are more common in Europe.（太陽熱発電所のほうが、ヨーロッパでよく見られる。）
+4 Solar power stations continue to work after dark.（太陽熱発電所は、暗くなったあとも動き続ける。）
+【考え方】
+ソーラーパネルと太陽熱発電所を比べているのは第3段落です。According to Desertec, solar power stations have many good points compared with solar panels.（デザーテックによると、太陽熱発電所にはソーラーパネルと比べて多くの利点がある）とあり、そのあとに利点が並んでいます。
+その1つが they are also able to store the sun's heat, allowing electricity to be produced at night as well as during the day（太陽の熱をためておくこともできるので、昼間だけでなく夜にも電気を作ることができる）です。store は「～をためておく」、A as well as B は「BだけでなくAも」です。
+夜にも電気を作れるということは、暗くなっても働き続けるということです。本文と選択肢は次のように対応しています。
+本文 allowing electricity to be produced at night（夜にも電気を作ることができる）＝ 選択肢 continue to work after dark（暗くなったあとも動き続ける）
+after dark は「暗くなってから、夜に」という意味です。正解は4です。
+【ほかの選択肢】
+1 水を熱して蒸気にするのは、太陽熱発電所のしくみです。ソーラーパネルは日光を直接電気に変えるもので、水を熱するとは書かれていません。
+2 第3段落には、太陽熱発電所のほうが produce electricity in much larger quantities（ずっと大量の電気を作り出せる）とあります。ソーラーパネルのほうが多くのエネルギーを作るという選択肢は、本文と逆です。
+3 本文で、すでに動いている太陽熱発電所として出てくるのはカリフォルニアの砂漠の4か所です。ヨーロッパでよく見られるとは書かれていません。発電所はサハラ砂漠に建てる計画で、ヨーロッパへは電気を送るのです。
+【覚えるポイント】
+・A as well as B：「BだけでなくAも」。at night as well as during the day で「昼間だけでなく夜も」。
+・after dark：「暗くなってから、夜に」。at night の言いかえとして使われています。

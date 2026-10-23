@@ -1,0 +1,30 @@
+---
+choices: conceal | convince | contemplate | conclude
+answerText: convince
+reviewed: yes
+---
+【正解】2 convince（説得する、納得させる）
+【和訳】
+（英文）
+Rachel wants to go to India, but first she needs to ［convince］ her parents to let her travel alone.
+（訳）
+レイチェルはインドに行きたいが、まず、1人で旅行させてくれるように両親を（説得する）必要がある。
+（選択肢の意味）
+1 conceal：隠す
+2 convince：説得する、納得させる
+3 contemplate：じっくり考える
+4 conclude：結論を出す；終える
+【考え方】
+まず見るところ：空所のあとの her parents to let her travel alone
+空所のあとは、次のような形になっています。
+(　) her parents to let her travel alone（1人で旅行させてくれるように両親を（　））
+「動詞＋人＋to do」の形で、let her travel alone は「彼女に1人で旅行させる」という意味です。
+レイチェルはインドに行きたいのですが、そのためには両親に許してもらわなければなりません。convince A to do は「Aを説得して～させる」という意味です。「1人で旅行させてくれるよう両親を説得する必要がある」となり、意味が通ります。ですから2が正解です。
+この問題の型：文法（動詞＋人＋to do の形）
+【ほかの選択肢】
+1 conceal は「隠す」です。「両親を隠す」では意味が通らず、conceal は「人＋to do」の形もとりません。
+3 contemplate は「じっくり考える」です。「両親をじっくり考える」となり、旅行を許してもらう話とつながりません。
+4 conclude は「結論を出す、終える」です。「両親を終える」では意味が通りません。
+【覚えるポイント】
+・convince A to do：「Aを説得して～させる」。
+・空所のあとが「人＋to do」の形になっているときは、相手に何かをしてもらうよう働きかける動詞（ここでは convince）が入る手がかりになります。

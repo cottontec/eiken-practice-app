@@ -1,0 +1,32 @@
+---
+choices: It wants to make the country famous for producing high-quality cloth. | It believes that his project will create new jobs for Bangladeshis. | Because he will quit unless he gets additional financial support. | Because he may discover a way to produce cheap clothes more easily.
+answerText: It wants to make the country famous for producing high-quality cloth.
+reviewed: yes
+---
+【正解】1 It wants to make the country famous for producing high-quality cloth.（政府は、その国を高品質の布の生産で有名にしたいと考えている。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Why is the government of Bangladesh supporting Islam's efforts?（なぜバングラデシュ政府は、イスラムの取り組みを支援しているのですか。）
+1 It wants to make the country famous for producing high-quality cloth.（政府は、その国を高品質の布の生産で有名にしたいと考えている。）
+2 It believes that his project will create new jobs for Bangladeshis.（政府は、彼の計画がバングラデシュの人々に新しい仕事を生み出すと信じている。）
+3 Because he will quit unless he gets additional financial support.（追加の資金援助を受けなければ、彼がやめてしまうから。）
+4 Because he may discover a way to produce cheap clothes more easily.（彼が安い服をもっと簡単に作る方法を見つけるかもしれないから。）
+【考え方】
+まず見るところ：第4段落の最後の The government of Bangladesh is supporting him because ～
+設問は、政府が支援する理由をたずねています。理由は、第4段落の最後にある because のあとに書かれています。
+The government of Bangladesh is supporting him because it wants the country to be known as the producer of the finest cloth in the world.（バングラデシュ政府は彼を支援している。この国が世界で最も上質な布の生産国として知られるようになってほしいと考えているからだ）
+because（なぜなら）のあとが理由です。it は the government of Bangladesh（バングラデシュ政府）を指します。want ＋人・物＋ to ～ は「（人・物）に～してほしい」という意味です。
+本文と選択肢を対にすると、次のようになります。
+本文 wants the country to be known as the producer of the finest cloth in the world（この国が世界で最も上質な布の生産国として知られてほしい）→ 選択肢 wants to make the country famous for producing high-quality cloth（この国を高品質の布の生産で有名にしたい）
+be known as ～（～として知られる）が famous（有名な）に、the finest cloth（最も上質な布）が high-quality cloth（高品質の布）に言いかえられています。言葉は少し違いますが、「上質な布を作る国として有名にしたい」という中身は同じです。1が正解です。
+この問題の型：因果（because のあとが理由）、言いかえ（be known as → famous）
+【ほかの選択肢】
+2 新しい仕事を生み出すという話は、本文にありません。政府が支援する理由として書かれているのは、国が最も上質な布の生産国として知られるようになってほしい、ということです。
+3 資金援助がなければやめてしまうという話は、本文にありません。本文には He wants to keep improving the production technique.（彼は製法をさらに改良し続けたいと考えている）とあり、彼は取り組みを続けたいと思っています。
+4 安い服を作ることは、第1段落に書かれている、今のバングラデシュの衣料品工場の話です。イスラムが目指しているのは、高級な布であるダッカ・モスリンを再び作ることで、安い服を簡単に作る方法ではありません。
+【覚えるポイント】
+・want ＋人・物＋ to ～：「（人・物）に～してほしい」。
+・be known as ～：「～として知られている」。
+・Why ～? の設問では、because のあとが答えの手がかりになることが多いです。選択肢のうち、because のあとの内容と合うものだけを選び、本文にない理由（新しい仕事、資金援助など）は選びません。

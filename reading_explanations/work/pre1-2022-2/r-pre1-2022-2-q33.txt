@@ -1,0 +1,32 @@
+---
+choices: people's judgments about what emotions real faces are expressing are influenced by other real faces they have seen immediately before. | people attach emotional meaning to false faces more quickly than they do to real faces. | people tend to judge the emotions expressed by false faces as happier and more positive than those expressed by real faces. | people take longer to distinguish false faces when the faces are not expressing any emotions.
+answerText: people's judgments about what emotions real faces are expressing are influenced by other real faces they have seen immediately before.
+reviewed: yes
+---
+【正解】1 people's judgments about what emotions real faces are expressing are influenced by other real faces they have seen immediately before.（本物の顔がどんな感情を表しているかについての人々の判断は、その直前に見たほかの本物の顔に影響される。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Previous studies have shown that（これまでの研究で明らかになっているのは、）
+1 people's judgments about what emotions real faces are expressing are influenced by other real faces they have seen immediately before.（本物の顔がどんな感情を表しているかについての人々の判断は、その直前に見たほかの本物の顔に影響される。）
+2 people attach emotional meaning to false faces more quickly than they do to real faces.（人々は、本物の顔に対してよりも、偽の顔に対してのほうが、すばやく感情の意味を結びつける。）
+3 people tend to judge the emotions expressed by false faces as happier and more positive than those expressed by real faces.（人々は、偽の顔が表す感情を、本物の顔が表す感情よりも、幸せで前向きなものだと判断しがちである。）
+4 people take longer to distinguish false faces when the faces are not expressing any emotions.（偽の顔が何の感情も表していないとき、人々はそれを見分けるのにより長く時間がかかる。）
+【考え方】
+まず見るところ：第2段落の Previous studies have revealed that for real faces, ～
+Previous studies have revealed that for real faces, people's judgment of what emotion a face is expressing is affected by the faces they have just seen.（これまでの研究で、本物の顔については、ある顔がどんな感情を表しているかについての人々の判断が、その人がたった今見た顔に影響されることが明らかになっている）
+設問の Previous studies have shown（これまでの研究で明らかになっている）は、本文の Previous studies have revealed とほぼ同じ意味です。この文の中身を選択肢と比べます。
+本文と選択肢1を対にすると、次のようになります。
+・本文 for real faces, people's judgment of what emotion a face is expressing ＝ 選択肢 people's judgments about what emotions real faces are expressing（本物の顔が表す感情についての人々の判断）
+・本文 is affected by ＝ 選択肢 are influenced by（～に影響される）
+・本文 the faces they have just seen ＝ 選択肢 other real faces they have seen immediately before（直前に見たほかの本物の顔）
+すぐあとの「幸せそうな顔を続けて見ると、次の顔も幸せそうだと判断しやすい」という例も、この内容を具体的に示しています。よって1が正解です。
+この問題の型：言いかえ（is affected by → are influenced by、just seen → seen immediately before）
+【ほかの選択肢】
+2 本文に書かれていません。これまでの研究は本物の顔についてのもので、偽の顔と本物の顔のどちらがすばやく感情と結びつくかという比べ方はされていません。
+3 本文に書かれていません。本文の幸せそうな顔の例は、「直前に見た顔が次の顔の判断に影響する」ことの例です。偽の顔の感情のほうが幸せそうに見える、という比べ方は書かれていません。
+4 本文に書かれていません。感情を表していない偽の顔を見分けるのにかかる時間についての話は、本文に出てきません。
+【覚えるポイント】
+・be affected by ～ ＝ be influenced by ～：「～に影響される」。just ＝ immediately before：「たった今、直前に」。
+・設問が Previous studies（これまでの研究）のように特定の研究をたずねているときは、本文で同じ語句が出てくる文を探し、その研究の内容と、オーストラリアの研究のような新しい研究の内容を区別して読みます。

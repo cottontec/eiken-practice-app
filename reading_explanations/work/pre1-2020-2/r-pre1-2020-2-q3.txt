@@ -1,0 +1,31 @@
+---
+choices: reign | trace | slump | chore
+answerText: reign
+reviewed: yes
+---
+【正解】1 reign（治世、在位期間）
+【和訳】
+（英文）
+Queen Elizabeth I's ［reign］ lasted from 1558 to 1603. This long period of rule helped to create political stability in England.
+（訳）
+エリザベス1世の（治世）は、1558年から1603年まで続いた。この長い統治の期間は、イングランドに政治的な安定を生み出すのに役立った。
+（選択肢の意味）
+1 reign：治世、在位期間（王や女王が国を治めている期間）
+2 trace：跡、形跡
+3 slump：不振、急落
+4 chore：雑用、家事
+【考え方】
+まず見るところ：後ろの文の This long period of rule
+空所のある文は、エリザベス1世の（　）が1558年から1603年まで続いたと言っています。lasted from A to B は「AからBまで続いた」という意味です。
+後ろの文を見ます。
+This long period of rule helped to create political stability in England.（この長い統治の期間は、イングランドに政治的な安定を生み出すのに役立った）
+This（この）は、前の文の内容を指しています。つまり、空所に入る語は「長い統治の期間（period of rule）」と言いかえられるものです。
+reign は「治世（王や女王が国を治めている期間）」という意味なので、1が正解です。
+この問題の型：指示語（This long period of rule が空所の語を指す）／言いかえ（reign＝period of rule）
+【ほかの選択肢】
+2 trace は「跡、形跡」です。「エリザベス1世の跡が1558年から1603年まで続いた」となり、後ろの文の「統治の期間」という言いかえと合いません。
+3 slump は「不振、急落」です。後ろの文では、その期間が政治的な安定を生み出したと言っているので、「不振」という悪い意味の語とは合いません。
+4 chore は「雑用、家事」です。女王の雑用が45年続いたという意味になり、「統治の期間」とは言いかえられません。
+【覚えるポイント】
+・reign：「治世、在位期間」。rule（統治、治めること）とあわせて覚えるとよいです。
+・空所のあとの文が This ～ で始まるときは、その This ～ の部分が空所の語を言いかえていることが多いので、This のあとの名詞を手がかりに選びます。

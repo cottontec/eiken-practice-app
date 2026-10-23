@@ -1,0 +1,33 @@
+---
+choices: Governments of towns and cities believed they could gain influence in technology industries if they shared more information. | Governments thought cultural-exchange programs should be handled by towns and cities rather than by countries. | Creating relationships between towns and cities was seen as a way to repair damaged relations between countries. | It was thought that business partnerships between towns and cities could improve economic conditions after World War II.
+answerText: Creating relationships between towns and cities was seen as a way to repair damaged relations between countries.
+reviewed: yes
+---
+【正解】3 Creating relationships between towns and cities was seen as a way to repair damaged relations between countries.（町や市の間に関係を作ることが、損なわれた国と国との関係を修復する方法だと考えられた。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Why did town twinning first become popular in Europe?（ヨーロッパで姉妹都市提携が最初に広まったのはなぜか。）
+1 Governments of towns and cities believed they could gain influence in technology industries if they shared more information.（町や市の行政は、より多くの情報を共有すれば、技術産業での影響力を得られると考えた。）
+2 Governments thought cultural-exchange programs should be handled by towns and cities rather than by countries.（政府は、文化交流のプログラムは国ではなく町や市が担うべきだと考えた。）
+3 Creating relationships between towns and cities was seen as a way to repair damaged relations between countries.（町や市の間に関係を作ることが、損なわれた国と国との関係を修復する方法だと考えられた。）
+4 It was thought that business partnerships between towns and cities could improve economic conditions after World War II.（町や市の間の事業での協力関係が、第二次世界大戦後の経済状況をよくすることができると考えられた。）
+【考え方】
+まず見るところ：第1段落の It was originally hoped that creating connections at a local level ～
+設問の first become popular（最初に広まった）は、第1段落の became popular following World War II（第二次世界大戦のあとに広まった）に当たります。その理由は、すぐあとの文に書かれています。
+It was originally hoped that creating connections at a local level would be effective in undoing some of the harm that had been done to international relations by six years of conflict.（当初は、地域のレベルでつながりを作ることが、6年間の戦争によって国と国との関係に与えられた損害の一部を元に戻すのに効果があるだろうと期待されていた）
+originally は「当初は、もともとは」、undo は「元に戻す」、harm は「損害、害」、conflict は「争い、戦争」という意味です。
+本文と選択肢3を対にすると、次のようになります。
+本文 creating connections at a local level（地域のレベルでつながりを作ること）＝ 選択肢 Creating relationships between towns and cities（町や市の間に関係を作ること）
+本文 undoing some of the harm that had been done to international relations（国と国との関係に与えられた損害の一部を元に戻すこと）＝ 選択肢 repair damaged relations between countries（損なわれた国と国との関係を修復すること）
+本文 It was originally hoped（当初は期待されていた）→ 選択肢 was seen as a way（方法だと考えられた）
+ですから3が正解です。
+この問題の型：言いかえ（undo the harm to international relations ＝ repair damaged relations between countries）
+【ほかの選択肢】
+1 時期が違います。technology sharing（技術の共有）が出てくるのは、Since then（それ以来）のあとで、関係が広がってから見られるようになったこととして書かれています。最初に広まった理由ではありません。また、技術産業での影響力を得るという話は本文にありません。
+2 本文にありません。cultural exchanges（文化の交流）という語は出てきますが、文化交流を国ではなく町や市が担うべきだと政府が考えた、とは書かれていません。
+4 時期と内容が違います。business-promotion plans（事業をさかんにするための計画）は、1と同じく、のちに広がった関係の例として書かれています。戦後の経済をよくするために始まったとは書かれていません。
+【覚えるポイント】
+・設問の first（最初に）や originally（当初は）は、「始まりの理由」と「その後に広がったこと」を区別する手がかりになります。Since then（それ以来）のあとは、その後の話だと考えます。
+・international relations ＝ relations between countries（国と国との関係）のように、本文の語は選択肢で別の言い方に言いかえられることがあります。

@@ -1,0 +1,33 @@
+---
+choices: rotate | spoil | rehabilitate | gargle
+answerText: spoil
+reviewed: yes
+---
+【正解】2 spoil（～を甘やかしてだめにする）
+【和訳】
+（英文）
+A: I really think the Johnsons ［spoil］ their daughter.
+B: Yes, they give her whatever she wants. She never has to work for anything.
+（訳）
+A：ジョンソンさんたちは、本当に娘を（甘やかしている）と思うよ。
+B：そうだね。娘がほしがるものは何でも与えているよね。あの子は、何かを手に入れるために努力しなければならないことが一度もないんだ。
+（選択肢の意味）
+1 rotate：～を回転させる、交代させる
+2 spoil：～を甘やかしてだめにする
+3 rehabilitate：～を社会復帰させる、（健康などを）回復させる
+4 gargle：うがいをする
+【考え方】
+まず見るところ：B の答えの they give her whatever she wants と She never has to work for anything.
+A は、ジョンソンさんたちが娘に対して何かをしている、と言っています。B は Yes（そうだね）と賛成して、その様子を具体的に説明しています。
+they give her whatever she wants（娘がほしがるものは何でも与えている）
+She never has to work for anything.（あの子は、何かを手に入れるために努力しなければならないことが一度もない）
+whatever she wants は「彼女がほしがるものは何でも」、work for ～ は「～を得るために努力する」です。ほしいものを何でももらえて、努力する必要がない、という様子です。
+これは、親が子どもを甘やかしている様子です。spoil は「（子どもを）甘やかしてだめにする」なので、2が正解です。
+この問題の型：具体例とまとめ（何でも与える・努力しなくてよい → 甘やかす）
+【ほかの選択肢】
+1 rotate は「～を回転させる、交代させる」です。「娘を回転させている」となり、B の説明と合いません。
+3 rehabilitate は「～を社会復帰させる、回復させる」です。けがや病気から立ち直らせる話になり、「何でも与えている」という B の説明とつながりません。
+4 gargle は「うがいをする」です。「娘をうがいする」となり、意味が通りません。
+【覚えるポイント】
+・spoil：「（子どもを）甘やかしてだめにする」。
+・会話で B が Yes のあとに具体的な様子を説明しているときは、その説明が A の空所の言いかえ（具体例）になっていることが多いので、そこから空所の語を考えましょう。

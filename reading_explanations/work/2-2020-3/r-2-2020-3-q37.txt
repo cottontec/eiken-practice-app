@@ -1,0 +1,31 @@
+---
+choices: By trying to recycle small electronics instead of throwing them away. | By replacing their old phones with ones that run more efficiently. | By increasing the number of large appliances used for recycling. | By leaving devices that contain gold and silver in landfills.
+answerText: By trying to recycle small electronics instead of throwing them away.
+reviewed: yes
+---
+【正解】1 By trying to recycle small electronics instead of throwing them away.（小さな電子機器を捨てずに、リサイクルしようとすることによって。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：人々は、どのようにすればレアメタルの供給を守ることができますか。
+1 By trying to recycle small electronics instead of throwing them away.（小さな電子機器を捨てずに、リサイクルしようとすることによって。）
+2 By replacing their old phones with ones that run more efficiently.（古い電話を、（古い電話より）効率よく動く電話に買い替えることによって。）
+3 By increasing the number of large appliances used for recycling.（リサイクルに使われる大型の家電製品の数を増やすことによって。）
+4 By leaving devices that contain gold and silver in landfills.（金や銀を含む機器を、埋め立て地に置いたままにすることによって。）
+【考え方】
+レアメタル（量が少なく貴重な金属）の話は、第4段落にあります。
+These days, such items include devices like smartphones, which must be replaced every few years. They also contain many rare metals.（今日では、そうした品物には、数年ごとに買い替えなければならないスマートフォンのような機器が含まれる。また、それらにはたくさんのレアメタルが含まれている）
+In fact, Americans put around $60 million worth of gold and silver into landfills each year just by throwing away used phones.（実際、アメリカ人は、使い終わった携帯電話を捨てるだけで、毎年約6,000万ドル分の金と銀を埋め立て地に捨てている）
+Although many people already see the importance of recycling large appliances such as refrigerators and washing machines, some do not understand why smaller electronics should be recycled.（冷蔵庫や洗濯機のような大型の家電製品をリサイクルする大切さは、すでに多くの人が分かっているが、なぜ〔それより〕小さな電子機器をリサイクルすべきなのかを理解していない人もいる）
+The amount of metal in the world is limited, so it may be better to learn from old ideas to preserve the world's supply.（世界の金属の量は限られているので、世界の供給を守るために、昔の考え方から学ぶほうがよいかもしれない）
+ここでの old ideas（昔の考え方）は、第2段落で説明された、金属を再利用する（リサイクルする）という昔からの考え方を指していると考えられます。スマートフォンのような小さな電子機器にはレアメタルが入っているのに、捨てられてしまっています。ここから、次のことが読み取れます。
+本文 smaller electronics should be recycled（小さな電子機器はリサイクルされるべきだ）／ learn from old ideas to preserve the world's supply（供給を守るために昔の考え方〔リサイクル〕から学ぶ）→ 読み取れること：By trying to recycle small electronics instead of throwing them away（小さな電子機器を捨てずにリサイクルしようとすることによって）
+ですから1が正解です。
+【ほかの選択肢】
+2 本文では、スマートフォンを数年ごとに買い替えなければならないことは、計画的陳腐化の例として書かれています。買い替えることでレアメタルの供給が守られるという話はありません。
+3 本文では、大型の家電製品をリサイクルする大切さは、すでに多くの人が分かっていると書かれています。「大型の家電製品の数を増やす」という話はなく、本文が問題にしているのは小さな電子機器です。
+4 本文では、携帯電話を捨てることで、毎年約6,000万ドル分の金と銀が埋め立て地に捨てられていると書かれています。これは貴重な金属がむだになっている例で、供給を守る方法とは反対です。
+【覚えるポイント】
+・preserve：「守る、保存する」。preserve the supply は「供給（使える量）を守る」です。
+・instead of -ing：「～しないで、～する代わりに」。instead of throwing them away は「それらを捨てずに」です。

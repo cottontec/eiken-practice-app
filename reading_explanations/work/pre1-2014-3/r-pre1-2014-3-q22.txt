@@ -1,0 +1,32 @@
+---
+choices: shake up | flood back | blow over | hire out
+answerText: blow over
+reviewed: yes
+---
+【正解】3 blow over（（騒ぎなどが）おさまる、過ぎ去る）
+【和訳】
+（英文）
+The government did not have to wait long for the scandal to ［blow over］. After only a couple of months, the public seemed to have forgotten all about it.
+（訳）
+政府は、その不祥事（スキャンダル）が（おさまる）のを長く待つ必要はなかった。わずか2、3か月で、世間の人々はそのことをすっかり忘れてしまったようだった。
+（選択肢の意味）
+1 shake up：～を大きく揺さぶる、（組織など）を刷新する
+2 flood back：（記憶などが）どっとよみがえる
+3 blow over：（嵐や騒ぎなどが）おさまる、過ぎ去る
+4 hire out：～を賃貸しする、（人）を派遣する
+【考え方】
+まず見るところ：2文目の the public seemed to have forgotten all about it
+1文目は wait for A to ～（Aが～するのを待つ）の形です。
+The government did not have to wait long for the scandal to (　).（政府は、不祥事が〇〇するのを長く待つ必要はなかった）
+scandal は「不祥事（世間から非難される出来事）」です。2文目で、その結果がくわしく説明されています。
+After only a couple of months, the public seemed to have forgotten all about it.（わずか2、3か月で、世間の人々はそのことをすっかり忘れてしまったようだった）
+it は the scandal を指しています。人々が不祥事を忘れたということは、不祥事の騒ぎがおさまったということです。
+blow over は「（嵐や騒ぎなどが）おさまる、過ぎ去る」という意味です。「不祥事がおさまるのを長く待つ必要はなかった。2、3か月で人々は忘れたようだった」となり、2つの文がつながります。よって3が正解です。
+この問題の型：言いかえ（2文目の forgotten all about it が、空所の内容をくわしく言っている）
+【ほかの選択肢】
+1 shake up は「～を大きく揺さぶる、刷新する」で、ふつうはあとに「何を」が続きます。この文には揺さぶる相手がなく、「不祥事が（自然に）おさまる」という内容にも、人々が忘れてしまったという2文目にもつながりません。
+2 flood back は「（記憶などが）どっとよみがえる」です。「不祥事がよみがえるのを待つ」となり、人々が忘れてしまったという2文目と反対です。
+4 hire out は「～を賃貸しする、（人）を派遣する」です。不祥事が賃貸しするというのは意味が通りません。
+【覚えるポイント】
+・blow over：「（嵐や騒ぎなどが）おさまる、過ぎ去る」。scandal：「不祥事、スキャンダル」。
+・句動詞（動詞と over・up などが組み合わさって、1つの意味になる語句）の空所では、あとの文で起きた結果（ここでは「人々が忘れた」）と合うものを選ぶのが手がかりになります。

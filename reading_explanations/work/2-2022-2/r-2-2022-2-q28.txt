@@ -1,0 +1,32 @@
+---
+choices: The sound level cannot be changed with the remote control. | The remote control uses up its batteries in just a few hours. | The buttons on the TV do not seem to be working. | The TV sometimes turns itself off unexpectedly.
+answerText: The sound level cannot be changed with the remote control.
+reviewed: yes
+---
+【正解】1 The sound level cannot be changed with the remote control.（リモコンで音の大きさを変えることができない。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What problem does Michael Green say the TV has?（マイケル・グリーンは、テレビにどんな問題があると言っていますか。）
+1 The sound level cannot be changed with the remote control.（リモコンで音の大きさを変えることができない。）
+2 The remote control uses up its batteries in just a few hours.（リモコンがほんの数時間で電池を使い切ってしまう。）
+3 The buttons on the TV do not seem to be working.（テレビ本体のボタンが動いていないようだ。）
+4 The TV sometimes turns itself off unexpectedly.（テレビがときどき、思いがけず勝手に電源が切れる。）
+【考え方】
+まず見るところ：第2段落の初めの I was unable to adjust the volume of the TV with the remote control.
+設問は、テレビにある問題をたずねています。第1段落の最後で問題があることに気づいたと述べ、続く第2段落の初めで、その問題の中身を説明しています。
+I was unable to adjust the volume of the TV with the remote control.（リモコンでテレビの音量を調節することができなかった）
+be unable to ～ は「～できない」、adjust は「調節する」、volume は「音量」です。
+本文と選択肢を対にすると、次のようになります。
+本文 was unable to adjust the volume of the TV with the remote control ＝ 選択肢 The sound level cannot be changed with the remote control
+the volume（音量）が the sound level（音の大きさ）に、adjust（調節する）が change（変える）に言いかえられています。with the remote control（リモコンで）は同じです。1が正解です。
+この問題の型：言いかえ（volume → sound level、adjust → change）
+【ほかの選択肢】
+2 本文には I tried replacing the batteries in the remote control, but this did not fix the problem.（リモコンの電池を交換してみたが、問題は直らなかった）とあります。電池を交換したことは書かれていますが、電池がすぐになくなるという話はありません。
+3 本文には Although I can adjust the volume with the buttons on the TV（テレビ本体のボタンで音量を調節することはできるが）とあります。本体のボタンは使えているので、本文と反対の内容です。
+4 テレビの電源が勝手に切れるという話は、本文のどこにもありません。
+【覚えるポイント】
+・adjust the volume：「音量を調節する」。
+・be unable to ～：「～できない」。
+・problem（問題）をたずねる設問では、本文の「問題がある」という文のすぐあとに、中身が書かれていることが多いです。選択肢は言いかえ（ここでは volume → sound level）になっていることがあります。

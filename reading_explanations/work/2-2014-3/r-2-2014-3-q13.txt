@@ -1,0 +1,29 @@
+---
+choices: On the whole | Just in time | In any event | In most cases
+answerText: In any event
+reviewed: yes
+---
+【正解】3 In any event（いずれにしても、どちらにしても）
+【和訳】
+（英文）
+A: Why don't you ask your friend John to play tennis this afternoon?
+B: John doesn't really like tennis. ［In any event］, he's at the beach with his family today.
+（訳）
+A：今日の午後、友達のジョンをテニスに誘ったらどう？
+B：ジョンはテニスがあまり好きじゃないんだ。いずれにしても、今日は家族と海辺に行っているよ。
+（選択肢の意味）
+1 On the whole：全体として、概して
+2 Just in time：ちょうど間に合って
+3 In any event：いずれにしても、どちらにしても
+4 In most cases：たいていの場合
+【考え方】
+Aは Why don't you ～?（～したらどう？）を使って、「ジョンをテニスに誘ったらどうか」と提案しています。
+Bは、ジョンを誘わない理由を2つ言っています。1つ目は John doesn't really like tennis.（ジョンはテニスがあまり好きではない）です。not really は「あまり～ない」という意味です。2つ目は he's at the beach with his family today（今日は家族と海辺にいる）です。
+2つ目の理由は、1つ目より決定的です。ジョンがテニスを好きかどうかに関係なく、今日はそもそも近くにいないので誘えません。In any event は「いずれにしても、どちらにしても（前に言ったことがどうであれ）」という意味で、「好きかどうかは別として、どのみち今日は海辺にいる」という流れを作ります。正解は3です。
+【ほかの選択肢】
+1 On the whole は「全体として、概して」です。それまでの話をまとめて言うときに使います。後ろの「今日は家族と海辺にいる」は、テニスが好きでないことをまとめた内容ではないので、合いません。
+2 Just in time は「ちょうど間に合って」です。「ちょうど間に合って、彼は今日家族と海辺にいる」となり、意味が通りません。
+4 In most cases は「たいていの場合」です。いつもくり返されることについて言う語句なので、today（今日）という1回のことを述べる文とは合いません。
+【覚えるポイント】
+・In any event：「いずれにしても、どちらにしても」。In any case も同じような意味です。
+・Why don't you ～?：「～したらどうですか」と相手に提案する言い方です。

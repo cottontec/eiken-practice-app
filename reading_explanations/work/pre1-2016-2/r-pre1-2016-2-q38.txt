@@ -1,0 +1,33 @@
+---
+choices: Depression and anxiety could be a more significant cause of digestive problems than previously thought. | There is a possibility that altering the gut microbiome could successfully treat various mood disorders in humans. | Dietary supplements commonly used to treat stomach illnesses can prevent the stomach from functioning properly. | The gut microbiome of people who use dietary supplements tends to contain a number of chemicals that negatively affect mood.
+answerText: There is a possibility that altering the gut microbiome could successfully treat various mood disorders in humans.
+reviewed: yes
+---
+【正解】2 There is a possibility that altering the gut microbiome could successfully treat various mood disorders in humans.（腸内マイクロバイオームを変えることで、人間のさまざまな気分の障害をうまく治療できる可能性がある。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：What has research into the gut microbiome caused a growing number of scientists to believe?（腸内マイクロバイオームについての研究によって、ますます多くの科学者が何を信じるようになったか。）
+1 Depression and anxiety could be a more significant cause of digestive problems than previously thought.（うつ病や不安症は、以前に考えられていたよりも重大な、消化の問題の原因であるかもしれない。）
+2 There is a possibility that altering the gut microbiome could successfully treat various mood disorders in humans.（腸内マイクロバイオームを変えることで、人間のさまざまな気分の障害をうまく治療できる可能性がある。）
+3 Dietary supplements commonly used to treat stomach illnesses can prevent the stomach from functioning properly.（胃の病気の治療によく使われる栄養補助食品が、胃が正常に働くのをさまたげることがある。）
+4 The gut microbiome of people who use dietary supplements tends to contain a number of chemicals that negatively affect mood.（栄養補助食品をとっている人の腸内マイクロバイオームには、気分に悪い影響を与える化学物質が多く含まれている傾向がある。）
+【考え方】
+まず見るところ：第1段落の最後の According to a growing number of scientists, ～
+設問の a growing number of scientists（ますます多くの科学者）は、第1段落の最後の文にそのまま出てきます。
+According to a growing number of scientists, it is therefore likely that foods and dietary supplements that encourage the growth of certain bacteria in our stomach could be used to reduce the effects of mood disorders such as depression and anxiety.（そのため、ますます多くの科学者によると、おなかの中の特定の細菌が増えるのを促す食べ物や栄養補助食品は、うつ病や不安症のような気分の障害の影響を減らすのに使える可能性が高いという）
+dietary supplements は「栄養補助食品（サプリメント）」、mood disorders は「気分の障害（気持ちが落ちこみすぎるなど、心の調子がくずれる病気）」という意味です。therefore（そのため）の前には、腸内マイクロバイオームが脳で幸福感や落ち着きを生むセロトニンやドーパミンを作る、と書かれています。
+本文と選択肢を対にすると、次のようになります。
+・本文 encourage the growth of certain bacteria in our stomach（おなかの中の特定の細菌が増えるのを促す）→ 選択肢 altering the gut microbiome（腸内マイクロバイオームを変える）
+・本文 reduce the effects of mood disorders such as depression and anxiety（うつ病や不安症のような気分の障害の影響を減らす）→ 選択肢 successfully treat various mood disorders（さまざまな気分の障害をうまく治療する）
+・本文 it is likely that ～ could ～（～できる可能性が高い）→ 選択肢 There is a possibility that ～（～の可能性がある）
+ですから2が正解です。
+この問題の型：言いかえ（encourage the growth of certain bacteria → altering the gut microbiome）
+【ほかの選択肢】
+1 本文と向きが違います。本文は、腸の微生物が脳（気分）に影響を与えるという話です。うつ病や不安症が消化の問題の原因になるという話は書かれていません。
+3 本文にありません。本文の栄養補助食品は、特定の細菌を増やして気分の障害の影響を減らすためのものです。胃の病気の治療に使われる栄養補助食品が胃の働きをさまたげるという話は出てきません。
+4 本文と合いません。本文には、腸内マイクロバイオームが幸福感や落ち着いた気持ちを生む物質を作ると書かれています。気分に悪い影響を与える化学物質が含まれているという話はありません。
+【覚えるポイント】
+・mood disorders：「気分の障害」。depression（うつ病）と anxiety（不安症）はその例として挙げられています。
+・設問に a growing number of scientists のような本文と同じ語句があるときは、まずその語句を本文で探し、その文の内容が選択肢でどう言いかえられているかを確かめると手がかりになります。

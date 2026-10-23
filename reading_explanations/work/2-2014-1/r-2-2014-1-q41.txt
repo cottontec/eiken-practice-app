@@ -1,0 +1,33 @@
+---
+choices: make more children in the United States interested in donating money. | let Americans know about the problem of hunger in poor countries. | teach English to children in poor countries around the world. | find a way for young people to both learn and help others.
+answerText: find a way for young people to both learn and help others.
+reviewed: yes
+---
+【正解】4 find a way for young people to both learn and help others.（若者が、学ぶことと他人を助けることの両方をできる方法を見つける。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：2007年、ジョン・ブリーンは～したいと思っていた。
+1 make more children in the United States interested in donating money.（アメリカのより多くの子どもたちに、お金を寄付することに興味を持たせる）
+2 let Americans know about the problem of hunger in poor countries.（アメリカ人に、貧しい国々の飢えの問題について知らせる）
+3 teach English to children in poor countries around the world.（世界中の貧しい国々の子どもたちに、英語を教える）
+4 find a way for young people to both learn and help others.（若者が、学ぶことと他人を助けることの両方をできる方法を見つける）
+【考え方】
+ブリーンが2007年にしたいと思っていたことは、第1段落に書かれています。
+1つ目は wanted to create a website that would help teenagers study（10代の若者の勉強に役立つウェブサイトを作りたいと思っていた）です。
+2つ目は He wanted to find a way for people, especially teens, to help solve the problem of world hunger without having to spend their own money.（彼は、人々、特に10代の若者が、自分のお金を使わずに、世界の飢餓の問題を解決する手助けができる方法を見つけたいと思っていた）です。
+そして One day, he came up with a way to achieve both of these goals at once.（ある日、彼はこの2つの目標を一度に達成する方法を思いついた）と続きます。come up with ～ は「～を思いつく」です。
+本文と選択肢は次のように対応しています。
+本文 teenagers / teens（10代の若者）＝ 選択肢 young people（若者）
+本文 study（勉強する）＝ 選択肢 learn（学ぶ）
+本文 help solve the problem of world hunger（世界の飢餓の問題を解決する手助けをする）＝ 選択肢 help others（他人を助ける）
+本文 both of these goals at once（この2つの目標を一度に）＝ 選択肢 both learn and help others（学ぶことと他人を助けることの両方）
+正解は4です。
+【ほかの選択肢】
+1 ブリーンは、若者が without having to spend their own money（自分のお金を使わずに）飢餓の問題の解決を手伝える方法を探していました。お金の寄付に興味を持たせたいとは書かれていないので、合いません。
+2 ブリーンは世界中の飢えた人々の状況を心配していましたが、アメリカ人に飢えの問題を知らせたいとは書かれていません。
+3 ブリーンが作りたかったのは、10代の若者の勉強に役立つウェブサイトです。貧しい国々の子どもたちに英語を教えたいとは書かれていません。
+【覚えるポイント】
+・come up with ～：「～を思いつく」。
+・both A and B：「AとBの両方」。

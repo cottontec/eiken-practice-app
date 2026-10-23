@@ -1,0 +1,25 @@
+---
+choices: recovery | chance | impact | loss
+answerText: impact
+reviewed: yes
+---
+【正解】3 impact（影響、効果）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 recovery：回復
+2 chance：機会、見込み
+3 impact：（強い）影響、効果
+4 loss：損失、失うこと
+【考え方】
+第3段落の1文目に、エルヴェ・ティスが研究してきたことが書かれています。the effects of different flavors on one another（さまざまな風味がおたがいに与える効果）を研究し、suggestions for new combinations of ingredients（材料の新しい組み合わせの提案）をしてきた、という内容です。
+空所の文は It is this aspect of his work that has had the biggest (　).（彼の仕事の中で最も大きな（　）を持ってきたのは、この面だ）です。aspect は「面、側面」で、this aspect は前の文の「風味の研究と、材料の新しい組み合わせの提案」を指しています。It is ～ that … は「…なのは～だ」と、～の部分を強調する形です。
+次の文は For example（たとえば）で始まり、エルヴェ・ティスから特に影響を受けたシェフのヘストン・ブルメンタールが、変わった料理で有名になったと書かれています。そうした料理は批評家にもお客さんにもとても人気がありました。つまり、彼の研究のこの面は、料理の世界に大きな影響を与えたのです。impact は「（強い）影響」という意味で、have an impact で「影響を与える」となります。has had the biggest impact で「最も大きな影響を与えてきた」となり、For example 以下の具体例とつながります。正解は3です。
+【ほかの選択肢】
+1 recovery（回復）を入れると「最も大きな回復を持ってきた」となります。本文には、何かが悪い状態から回復したという話はないので合いません。
+2 chance（機会、見込み）を入れると「最も大きな機会を持ってきた」となり、何の機会なのかが分かりません。For example 以下は、研究の影響を受けたシェフが有名になった例なので、「影響」を表す語が必要です。
+4 loss（損失）を入れると「最も大きな損失をもたらしてきた」となります。しかし、For example 以下は、料理が人気になったという成功の例なので、反対の内容になります。
+【覚えるポイント】
+・have an impact (on ～)：「（～に）影響を与える」。have the biggest impact で「最も大きな影響を与える」。
+・It is ～ that …：「…なのは～だ」と、～の部分を強調する形です。

@@ -1,0 +1,33 @@
+---
+choices: reptile | summit | curse | correlation
+answerText: correlation
+reviewed: yes
+---
+【正解】4 correlation（相関関係、2つのものの結びつき）
+【和訳】
+（英文）
+A recent study of surgeons found a significant ［correlation］ between age and knowledge of the latest surgical techniques. Younger surgeons seem to be much more familiar with new techniques.
+（訳）
+外科医についての最近の研究で、年齢と最新の手術技術についての知識との間に、はっきりとした（相関関係）があることが分かりました。より若い外科医のほうが、新しい技術にずっとよく通じているようです。
+（選択肢の意味）
+1 reptile：爬虫類（ヘビやトカゲなどの仲間）
+2 summit：頂上、首脳会議
+3 curse：のろい、悪態
+4 correlation：相関関係、2つのものの結びつき
+【考え方】
+まず見るところ：空所の後ろの between age and knowledge と、2文目の Younger surgeons seem to be much more familiar
+空所の後ろは次のとおりです。
+between age and knowledge of the latest surgical techniques（年齢と最新の手術技術についての知識との間の）
+between A and B（AとBの間の）があるので、空所には「2つのものの間にある何か」が入ります。
+2文目は次のとおりです。
+Younger surgeons seem to be much more familiar with new techniques.（より若い外科医のほうが、新しい技術にずっとよく通じているようだ）
+be familiar with ～ は「～をよく知っている、～に通じている」という意味です。若い外科医ほど新しい技術をよく知っている、という「年齢」と「知識」の結びつきが書かれています。
+correlation は「相関関係（一方が変わると、もう一方も変わるという結びつき）」という意味で、a correlation between A and B で「AとBの間の相関関係」になります。ですから4が正解です。significant は「（偶然とは言えないほど）はっきりした、重要な」という意味です。
+この問題の型：具体例とまとめ（若いほど新しい技術に詳しい→年齢と知識の相関関係）／語の意味・組み合わせ（a correlation between A and B）
+【ほかの選択肢】
+1 reptile は「爬虫類」です。「年齢と知識の間に爬虫類が見つかった」となり、意味が通りません。
+2 summit は「頂上」や「首脳会議（国の代表どうしの会議）」です。「年齢と知識の間の首脳会議」となり、研究で分かったことの内容になりません。
+3 curse は「のろい、悪態（相手をののしる言葉）」です。「年齢と知識の間ののろい」となり、意味が通りません。
+【覚えるポイント】
+・a correlation between A and B：「AとBの間の相関関係」。研究や調査の話題でよく使われます。
+・空所の後ろに between A and B があり、次の文に「Aが～なほどBが…」という具体的な説明が続くときは、2つの結びつきを表す名詞が入ると考えると手がかりになります。

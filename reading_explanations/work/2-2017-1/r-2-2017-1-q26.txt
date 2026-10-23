@@ -1,0 +1,26 @@
+---
+choices: hire new employees | invite more customers | ask for advice | get rid of tipping
+answerText: get rid of tipping
+reviewed: yes
+---
+【正解】4 get rid of tipping（チップをなくす）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この空所の選択肢の意味＞
+1 hire new employees（新しい従業員を雇う）
+2 invite more customers（より多くの客を招く）
+3 ask for advice（助言を求める）
+4 get rid of tipping（チップをなくす）
+【考え方】
+空所は第3段落の he decided to (26) in his restaurant（彼は自分のレストランで（26）ことにした）です。he は、サンディエゴのレストラン経営者ジェイ・ポーターです。
+まず、空所の前を見ます。his waiters were arguing with each other about their tips（店のウェイターたちが、チップのことでおたがいに言い争っていた）とあり、This was creating problems for his business（このことが店の商売に問題を起こしていた）と続きます。チップが原因で問題が起きていたので、ポーターはチップについて何かを決めたと考えられます。
+次に、空所のすぐあとの文を見ます。Instead, he added a fixed service charge to each bill and raised the waiters' wages.（その代わりに、彼はそれぞれの会計に決まった額のサービス料を加え、ウェイターの給料を上げた）とあります。Instead（その代わりに）は、前に述べたことをやめて、別のことをする、という意味を表します。チップの代わりにサービス料を取り、給料を上げたのですから、空所はチップをやめることだと分かります。
+さらに、段落の終わりにも anti-tipping policies（チップをなくす方針）ということばがあります。よって4が正解です。
+【ほかの選択肢】
+1 「新しい従業員を雇う」を入れると、言い争いの問題を新しい人を雇って解決したことになります。しかし、そのあとの Instead（その代わりに）サービス料を加えた、という文とつながりません。
+2 「より多くの客を招く」を入れると、客を増やす話になります。チップをめぐる言い争いとは関係がなく、Instead 以下のサービス料の話ともつながりません。
+3 「助言を求める」を入れると、だれかに相談したことになります。本文にはそのような話はなく、Instead のあとの「決まった額のサービス料を加えた」とつながりません。
+【覚えるポイント】
+・get rid of ～：「～を取り除く、～をなくす」。
+・instead：「その代わりに」。何をやめて、その代わりに何をしたのかを確かめると、空所の内容が分かります。

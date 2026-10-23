@@ -1,0 +1,33 @@
+---
+choices: equivalent | ethical | extravagant | ethnic
+answerText: ethical
+reviewed: yes
+---
+【正解】2 ethical（倫理的な、人として正しい）
+【和訳】
+（英文）
+Despite the benefits for humans, many people say medical experiments on animals are not ［ethical］ because they cause too much suffering.
+（訳）
+人間にとっての利益があるにもかかわらず、動物を使った医学の実験は、あまりに大きな苦しみを与えるので（倫理的に正しく）ない、と多くの人が言っている。
+（選択肢の意味）
+1 equivalent：同等の、等しい
+2 ethical：倫理的な（人として正しい、道徳にかなった）
+3 extravagant：ぜいたくな、むだづかいの
+4 ethnic：民族の
+【考え方】
+まず見るところ：文の初めの Despite the benefits for humans と、最後の because they cause too much suffering
+Despite ～ は「～にもかかわらず」という意味です。前の内容と反対の向きの内容が後ろに来ます。
+Despite the benefits for humans（人間にとっての利益があるにもかかわらず）
+「利益がある」の反対の向きなので、後ろには実験についてのよくない評価が来ると考えられます。
+さらに、理由が書かれています。
+because they cause too much suffering（あまりに大きな苦しみを与えるので）
+they は medical experiments on animals（動物を使った医学の実験）を指します。動物にひどい苦しみを与えることは、人として正しいことではない、という考えです。
+ethical は「倫理的な（人として正しい）」なので、not ethical で「倫理的に正しくない」となります。ですから2が正解です。
+この問題の型：対比（Despite 利益がある ⇔ 正しくない）／因果（because 苦しみを与える）
+【ほかの選択肢】
+1 equivalent は「同等の、等しい」です。「実験は等しくない」では何と比べているのか分からず、苦しみを与えるという理由ともつながりません。
+3 extravagant は「ぜいたくな」です。「実験はぜいたくではない」となり、苦しみを与えるという理由と合いません。
+4 ethnic は「民族の」です。「実験は民族のものではない」となり、意味が通りません。ethical と形が似ているので気をつけましょう。
+【覚えるポイント】
+・ethical：「倫理的な（人として正しい）」。
+・Despite ～（～にもかかわらず）で始まる文は、後半がその反対の向きになります。ここでは「利益がある」の反対で「よくない」という評価が入ると考えるのが手がかりです。

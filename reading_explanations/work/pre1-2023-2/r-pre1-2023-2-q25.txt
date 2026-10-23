@@ -1,0 +1,30 @@
+---
+choices: went back on | sat in on | spoke down to | looked up to
+answerText: sat in on
+reviewed: yes
+---
+【正解】2 sat in on（（見学などのために）～に同席した）
+【和訳】
+（英文）
+The regional manager visited the small branch office last week and ［sat in on］ a few meetings to observe how things were going there.
+（訳）
+地域の責任者は先週その小さな支店を訪れ、そこでの物事の進み具合を観察するために、いくつかの会議に（同席しました）。
+（選択肢の意味）
+1 went back on：（約束など）を破った
+2 sat in on：（見学などのために）～に同席した
+3 spoke down to：～に見下した話し方をした
+4 looked up to：～を尊敬した
+【考え方】
+まず見るところ：空所の後ろの a few meetings と to observe how things were going there
+regional manager は「地域の責任者（その地域の支店などをまとめる人）」、branch office は「支店」です。
+( ) a few meetings to observe how things were going there（そこでの物事の進み具合を観察するために、いくつかの会議に（　））
+observe は「観察する、よく見る」、how things were going は「物事がどう進んでいるか」です。to observe ～ は「～を観察するために」という目的を表します。
+支店の様子を観察するためには、会議の場にいて、様子を見るのが自然です。sit in on ～ は「（見学などのために）～に同席する、出席して見る」という意味なので、2が正解です。
+この問題の型：熟語・決まった形（sit in on ～）／語の意味・組み合わせ（sat in on ＋ meetings ＋ to observe）
+【ほかの選択肢】
+1 went back on は「（約束など）を破った」です。「いくつかの会議を破った」となり、意味が通りません。
+3 spoke down to は「～に見下した話し方をした」で、ふつう人に対して使う言い方です。「いくつかの会議に見下した話し方をした」となり、意味が通りません。物事の進み具合を観察するという目的ともつながりません。
+4 looked up to は「～を尊敬した」で、これも人に対して使う言い方です。「いくつかの会議を尊敬した」となり、意味が通りません。
+【覚えるポイント】
+・sit in on ～：「（見学などのために）～に同席する」。meeting（会議）や class（授業）と組み合わせて使われます。
+・sat in on のように、動詞のあとに短い語が2つ続く熟語の空所では、後ろの名詞（ここでは meetings）と目的（to observe ～）に合うかを1つずつ確かめると、人に対して使う熟語を外す手がかりになります。

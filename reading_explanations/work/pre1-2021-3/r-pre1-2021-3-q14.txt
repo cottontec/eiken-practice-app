@@ -1,0 +1,31 @@
+---
+choices: rigid | rash | cozy | clumsy
+answerText: cozy
+reviewed: yes
+---
+【正解】3 cozy（居心地のよい、暖かくくつろげる）
+【和訳】
+（英文）
+Houses built in cold regions can be surprisingly ［cozy］ during the winter. Fireplaces, wood furniture, and nice carpets give the homes a warm, comfortable feeling.
+（訳）
+寒い地域に建てられた家は、冬の間、驚くほど（居心地がよい）ことがある。暖炉や木の家具、すてきなじゅうたんが、家に暖かく心地よい感じを与えている。
+（選択肢の意味）
+1 rigid：かたい、曲がらない、きびしい
+2 rash：軽はずみな、むちゃな
+3 cozy：居心地のよい、暖かくくつろげる
+4 clumsy：不器用な、ぶかっこうな
+【考え方】
+まず見るところ：次の文の give the homes a warm, comfortable feeling
+空所のある文は、寒い地域の家が冬の間どんな感じなのかを述べています。
+Houses built in cold regions can be surprisingly (　) during the winter.（寒い地域に建てられた家は、冬の間、驚くほど〇〇なことがある）
+次の文が、その説明になっています。
+Fireplaces, wood furniture, and nice carpets give the homes a warm, comfortable feeling.（暖炉や木の家具、すてきなじゅうたんが、家に暖かく心地よい感じを与えている）
+warm（暖かい）、comfortable（心地よい）と言いかえられる語が空所に入ります。cozy は「居心地のよい、暖かくくつろげる」なので、3が正解です。surprisingly（驚くほど）は、「寒い地域なのに」という意外さを表しています。
+この問題の型：言いかえ（cozy → warm, comfortable）
+【ほかの選択肢】
+1 rigid は「かたい、曲がらない」です。次の文の「暖かく心地よい感じ」とは合いません。
+2 rash は「軽はずみな」です。人の行動について使う語で、「家が軽はずみだ」では意味が通りません。
+4 clumsy は「不器用な、ぶかっこうな」です。暖炉やじゅうたんで暖かく心地よくなっている家のようすの説明になりません。
+【覚えるポイント】
+・cozy：「居心地のよい、暖かくくつろげる」。region：「地域」。fireplace：「暖炉」。
+・空所の文のあとに、具体的なもの（暖炉・家具・じゅうたん）とその感じ（warm, comfortable）が並ぶときは、その感じをまとめた語が空所に入る手がかりになります。

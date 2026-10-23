@@ -1,0 +1,30 @@
+---
+choices: filthy | cuddly | floppy | solitary
+answerText: filthy
+reviewed: yes
+---
+【正解】1 filthy（ひどく汚い）
+【和訳】
+（英文）
+The windows in the apartment were ［filthy］. In fact, it was almost impossible to see through them to the street outside.
+（訳）
+そのアパートの窓は（ひどく汚れて）いました。実際、窓を通して外の通りを見ることは、ほとんどできませんでした。
+（選択肢の意味）
+1 filthy：ひどく汚い
+2 cuddly：抱きしめたくなるような、かわいらしい
+3 floppy：だらりと垂れた、ふにゃふにゃの
+4 solitary：ひとつだけの、ぽつんと離れた
+【考え方】
+まず見るところ：2文目の it was almost impossible to see through them
+2文目は次のとおりです。
+In fact, it was almost impossible to see through them to the street outside.（実際、それらを通して外の通りを見ることは、ほとんど不可能だった）
+them は1文目の The windows（窓）を指します。In fact（実際）は、前の文の内容をさらに強めて具体的に付け足すときの言い方です。
+窓から外がほとんど見えない理由として考えられるのは、窓がとても汚れていることです。filthy は「ひどく汚い」という意味の形容詞（名詞のようすや性質を表す語）なので、「窓はひどく汚れていた。実際、外がほとんど見えなかった」となり、自然につながります。ですから1が正解です。
+この問題の型：言いかえ（filthy → 外がほとんど見えない、と In fact で具体的に付け足す）
+【ほかの選択肢】
+2 cuddly は「抱きしめたくなるような、かわいらしい」で、ぬいぐるみや小さな動物などに使う語です。窓について言う言葉ではなく、「外が見えない」ともつながりません。
+3 floppy は「だらりと垂れた、ふにゃふにゃの」です。かたい窓の様子には合わず、外が見えない理由にもなりません。
+4 solitary は「ひとつだけの、ぽつんと離れた」です。主語は The windows と複数で、「窓がひとつだけだった」とは合いません。また、窓の数や位置は、外がほとんど見えない理由になりません。
+【覚えるポイント】
+・filthy：「ひどく汚い」。dirty（汚い）よりも強い言い方です。
+・In fact のあとの文は、前の文を強めて具体的に言い直していることが多いです。In fact のあとの具体的な様子（ここでは外がほとんど見えない）から、空所の語を考えると手がかりになります。

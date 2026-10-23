@@ -1,0 +1,31 @@
+---
+choices: dullness | syndrome | hospitality | infinity
+answerText: hospitality
+reviewed: yes
+---
+【正解】3 hospitality（客へのあたたかいもてなし）
+【和訳】
+（英文）
+The Johnsons are well known for their ［hospitality］. They invite friends over for dinner once a week, and they treat all their guests like family.
+（訳）
+ジョンソン家の人たちは、その（もてなしのよさ）でよく知られている。彼らは週に1回、友人を夕食に招き、すべての客を家族のように扱う。
+（選択肢の意味）
+1 dullness：退屈さ、にぶさ
+2 syndrome：症候群（いくつかの症状がまとまって表れる状態）
+3 hospitality：（客への）あたたかいもてなし、歓待
+4 infinity：無限
+【考え方】
+まず見るところ：次の文の invite friends over for dinner と treat all their guests like family
+The Johnsons は「ジョンソン家の人たち（ジョンソンさん一家）」です。be well known for ～ は「～でよく知られている」で、空所には一家の特徴が入ります。
+次の文が、その特徴の具体的な説明になっています。
+They invite friends over for dinner once a week（彼らは週に1回、友人を夕食に招く）
+they treat all their guests like family（すべての客を家族のように扱う）
+友人をよく招き、客を家族のように大切にするのは、「客をあたたかくもてなすこと」です。hospitality は「（客への）あたたかいもてなし」なので、3が正解です。
+この問題の型：具体例とまとめ（夕食に招く・家族のように扱う → もてなし）
+【ほかの選択肢】
+1 dullness は「退屈さ」です。友人をよく招いて家族のように扱う、という次の文の説明は、退屈さの例になりません。
+2 syndrome は「症候群」で、病気などの症状について使う語です。客をもてなす話とは関係がありません。
+4 infinity は「無限」です。「ジョンソン家は無限で知られている」となり、意味が通りません。
+【覚えるポイント】
+・hospitality：「（客への）あたたかいもてなし」。be known for one's hospitality で「もてなしのよさで知られている」。
+・be well known for ～ の文のあとに具体的な行動が書かれているときは、その行動をまとめた語を選ぶことが手がかりになります。

@@ -1,0 +1,34 @@
+---
+choices: measure the signals in humans’ brains when they laugh. | recognize the different noises made by dolphins. | observe the laughter-like noises of a kind of animal. | identify the exact reason that a human is laughing.
+answerText: observe the laughter-like noises of a kind of animal.
+reviewed: yes
+---
+【正解】3 observe the laughter-like noises of a kind of animal.（ある種類の動物の、笑いに似た声を観察する。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：Special equipment needs to be used in order to（～ためには、特別な機器を使う必要がある。）
+1 measure the signals in humans’ brains when they laugh.（人間が笑うときの、脳の中の信号を測る）
+2 recognize the different noises made by dolphins.（イルカが出すいろいろな音を聞き分ける）
+3 observe the laughter-like noises of a kind of animal.（ある種類の動物の、笑いに似た声を観察する）
+4 identify the exact reason that a human is laughing.（人間が笑っている正確な理由を特定する）
+【考え方】
+まず見るところ：第4段落の the sounds can be detected with special equipment
+In the case of rats, the laughter-like sounds they make when they are touched gently are too high for humans to hear.（ネズミの場合、やさしくさわられたときに出す笑いに似た声は、高すぎて人間には聞こえない）
+However, the sounds can be detected with special equipment.（しかし、その音は特別な機器を使えば感知することができる）
+too ～ for ＋人＋ to ... は「～すぎて（人）は…できない」という意味です。ネズミの笑い声は高すぎて人間の耳には聞こえないので、特別な機器を使ってとらえる、ということです。detect は「感知する、見つけ出す」という意味です。
+本文と選択肢を対にすると、次のようになります。
+本文 rats（ネズミ）→ 選択肢 a kind of animal（ある種類の動物）
+本文 the laughter-like sounds（笑いに似た声）＝ 選択肢 the laughter-like noises（笑いに似た声）
+本文 can be detected with special equipment（特別な機器で感知できる）→ 選択肢 observe（観察する）
+ですから3が正解です。
+この問題の型：指示語（the sounds ＝ ネズミの声）、言いかえ（detected → observe）
+【ほかの選択肢】
+1 人間の脳の信号を測るという話は、本文にありません。本文で特別な機器が出てくるのは、ネズミの声についてだけです。
+2 イルカは make special clicking noises（特別なカチカチという音を出す）と書かれていますが、その音を聞き分けるのに特別な機器が必要だとは書かれていません。special（特別な）という語が、機器ではなくイルカの音のほうに使われている点に注意しましょう。
+4 人間はさまざまな理由で笑い、研究者にはまだ学ぶことが多いとは書かれていますが、笑っている理由を特定するのに特別な機器を使うという話はありません。
+【覚えるポイント】
+・too ～ for ＋人＋ to ...：「～すぎて（人）は…できない」。
+・detect：「感知する、見つけ出す」。目や耳では気づけないものをとらえるときによく使います。
+・special equipment のような手がかりの語がある問題では、その語がある文だけでなく、直前の文（何が聞こえないのか）も合わせて読みます。

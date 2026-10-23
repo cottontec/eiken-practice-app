@@ -1,0 +1,31 @@
+---
+choices: storage | reverse | heaven | denial
+answerText: storage
+reviewed: yes
+---
+【正解】1 storage（収納、保管）
+【和訳】
+（英文）
+Greg likes his new apartment because it has a lot of room for ［storage］. His last place did not have enough closet space for all of his things.
+（訳）
+グレッグは新しいアパートを気に入っています。（収納）のための場所がたくさんあるからです。前の住まいには、彼の持ち物すべてをしまえるだけの十分なクローゼットの広さがありませんでした。
+（選択肢の意味）
+1 storage：収納、保管
+2 reverse：逆、反対
+3 heaven：天国
+4 denial：否定
+【考え方】
+まず見るところ：2文目の did not have enough closet space for all of his things
+it has a lot of room for (　)（（　）のための場所がたくさんある）
+because 以下が、グレッグが新しいアパートを気に入っている理由です。この room は「部屋」ではなく「場所、空間」という意味です。
+His last place did not have enough closet space for all of his things.（前の住まいには、持ち物すべてのための十分なクローゼットの広さがなかった）
+前の住まいでは物をしまう場所が足りませんでした。新しいアパートはその反対に、物をしまう場所がたくさんある、という対比（2つを比べて違いを示すこと）になっていると考えられます。
+「物をしまっておくこと」を表す storage を入れると、room for storage（収納のための場所）となり、2文目とつながります。ですから1が正解です。
+この問題の型：対比（前の住まい⇔新しいアパート）
+【ほかの選択肢】
+2 reverse は「逆、反対」です。「逆のための場所がたくさんある」となり、意味が通りません。
+3 heaven は「天国」です。「天国のための場所」では、クローゼットが足りなかったという2文目とつながりません。
+4 denial は「否定（そうではないと言うこと）」です。「否定のための場所」となり、意味が通りません。
+【覚えるポイント】
+・storage：「収納、保管」。動詞 store（しまっておく、保管する）の名詞形です。
+・room for ～ の room は「場所、空間」の意味のことがあります。「部屋」で意味が通らないときは、この意味を考えてみましょう。

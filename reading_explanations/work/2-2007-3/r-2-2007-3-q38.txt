@@ -1,0 +1,29 @@
+---
+choices: The change in the amount of processed food used in restaurants. | The average amount of salt wasted in the United States each day. | The 75-percent increase in people with high blood pressure. | The bad effect of salt on the health of Americans.
+answerText: The bad effect of salt on the health of Americans.
+reviewed: yes
+---
+【正解】4 The bad effect of salt on the health of Americans.（塩がアメリカ人の健康に与える悪い影響。）
+【和訳】
+＜本文の全訳＞
+{{本文全訳}}
+＜この設問と選択肢の訳＞
+設問：アメリカ医師会は何について心配していますか。
+1 The change in the amount of processed food used in restaurants.（レストランで使われる加工食品の量の変化。）
+2 The average amount of salt wasted in the United States each day.（アメリカで毎日むだにされている塩の平均量。）
+3 The 75-percent increase in people with high blood pressure.（高血圧の人が75パーセント増えたこと。）
+4 The bad effect of salt on the health of Americans.（塩がアメリカ人の健康に与える悪い影響。）
+【考え方】
+設問の worried about（～について心配している）と同じような意味の言葉を本文で探します。
+第2段落の2文目に Since eating too much salt has been connected to high blood pressure, doctors have become increasingly concerned about how to reduce the amount of salt in the diet of the average American.（塩のとりすぎは高血圧と結びつけられてきたので、医師たちは、平均的なアメリカ人の食事に含まれる塩の量をどう減らすかについて、ますます心配するようになっている）とあります。Since はここでは「～なので」と理由を表す語です。
+AMAはアメリカ最大の医師の団体です。また、この段落は Behind the AMA's request lies the fact that ～（AMAの要請の背景には、～という事実がある）という文で始まり、段落全体でAMAが要請した理由を説明しています。ですから、ここで述べられている医師たちの心配は、AMAの心配と考えられます。医師たちが心配しているのは、塩のとりすぎが高血圧という体の問題につながることです。本文と選択肢は次のように対応しています。
+本文 doctors have become increasingly concerned（医師たちはますます心配するようになっている）＝ 設問 What is the AMA worried about?（AMAは何を心配しているか）
+本文 eating too much salt has been connected to high blood pressure（塩のとりすぎは高血圧と結びつけられてきた）＝ 選択肢 The bad effect of salt on the health of Americans（塩がアメリカ人の健康に与える悪い影響）
+第4段落にも、塩が the same negative effects on people's health（人々の健康への悪い影響）をもつことが書かれています。正解は4です。
+【ほかの選択肢】
+1 本文では、塩の75パーセント以上が processed food and restaurant meals（加工食品とレストランの食事）から来ていると書かれています。しかし、レストランで使われる加工食品の量が「変化した」という話はないので、誤りです。
+2 本文で問題にされているのは、人々が食べている塩の量です。塩が「むだにされている」量については何も書かれていないので、誤りです。
+3 本文の75パーセントは、人々がとる塩のうち加工食品とレストランの食事から来ている割合です。高血圧の人が75パーセント増えたという意味ではないので、数字の使い方が違います。
+【覚えるポイント】
+・be concerned about ～：「～について心配している」。設問の be worried about ～ とほぼ同じ意味です。
+・be connected to ～：「～と関係がある、～と結びついている」。
