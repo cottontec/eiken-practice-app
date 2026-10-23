@@ -1,0 +1,1112 @@
+{
+  "parts": [
+    {
+      "part": 1,
+      "targetAnswerSlots": 50,
+      "batches": [
+        {
+          "batchId": "2-2007-3",
+          "target": 50,
+          "written": 50,
+          "contentReviewed": 50,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        }
+      ],
+      "updatedAt": "2026-10-22T22:18:35+00:00"
+    },
+    {
+      "part": 2,
+      "targetAnswerSlots": 50,
+      "batches": [
+        {
+          "batchId": "2-2008-1",
+          "target": 50,
+          "written": 50,
+          "contentReviewed": 50,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        }
+      ],
+      "updatedAt": "2026-10-22T22:18:35+00:00"
+    },
+    {
+      "part": 3,
+      "targetAnswerSlots": 50,
+      "batches": [
+        {
+          "batchId": "2-2008-2",
+          "target": 50,
+          "written": 50,
+          "contentReviewed": 50,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        }
+      ],
+      "updatedAt": "2026-10-22T22:18:35+00:00"
+    },
+    {
+      "part": 4,
+      "targetAnswerSlots": 100,
+      "batches": [
+        {
+          "batchId": "2-2008-3",
+          "target": 50,
+          "written": 50,
+          "contentReviewed": 50,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2009-1",
+          "target": 50,
+          "written": 50,
+          "contentReviewed": 50,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        }
+      ],
+      "updatedAt": "2026-10-22T22:18:35+00:00"
+    },
+    {
+      "part": 5,
+      "targetAnswerSlots": 350,
+      "batches": [
+        {
+          "batchId": "2-2009-2",
+          "target": 50,
+          "written": 50,
+          "contentReviewed": 50,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2009-3",
+          "target": 50,
+          "written": 50,
+          "contentReviewed": 50,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2010-1",
+          "target": 50,
+          "written": 50,
+          "contentReviewed": 50,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2010-2",
+          "target": 50,
+          "written": 50,
+          "contentReviewed": 50,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2010-3",
+          "target": 50,
+          "written": 50,
+          "contentReviewed": 50,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2011-1",
+          "target": 50,
+          "written": 50,
+          "contentReviewed": 50,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2011-2",
+          "target": 50,
+          "written": 50,
+          "contentReviewed": 50,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        }
+      ],
+      "updatedAt": "2026-10-22T22:18:36+00:00"
+    },
+    {
+      "part": 6,
+      "targetAnswerSlots": 100,
+      "batches": [
+        {
+          "batchId": "2-2011-3",
+          "target": 50,
+          "written": 50,
+          "contentReviewed": 50,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2012-1",
+          "target": 50,
+          "written": 50,
+          "contentReviewed": 50,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        }
+      ],
+      "updatedAt": "2026-10-22T22:18:36+00:00"
+    },
+    {
+      "part": 7,
+      "targetAnswerSlots": 350,
+      "batches": [
+        {
+          "batchId": "2-2012-2",
+          "target": 50,
+          "written": 50,
+          "contentReviewed": 50,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2012-3",
+          "target": 50,
+          "written": 50,
+          "contentReviewed": 50,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2013-1",
+          "target": 50,
+          "written": 50,
+          "contentReviewed": 50,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2013-2",
+          "target": 50,
+          "written": 50,
+          "contentReviewed": 50,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2013-3",
+          "target": 50,
+          "written": 50,
+          "contentReviewed": 50,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2014-1",
+          "target": 50,
+          "written": 50,
+          "contentReviewed": 50,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2014-2",
+          "target": 50,
+          "written": 50,
+          "contentReviewed": 50,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        }
+      ],
+      "updatedAt": "2026-10-22T23:12:41+00:00"
+    },
+    {
+      "part": 8,
+      "targetAnswerSlots": 732,
+      "batches": [
+        {
+          "batchId": "2-2014-3",
+          "target": 50,
+          "written": 50,
+          "contentReviewed": 50,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2015-1",
+          "target": 50,
+          "written": 50,
+          "contentReviewed": 50,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2015-2",
+          "target": 50,
+          "written": 50,
+          "contentReviewed": 50,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2015-3",
+          "target": 50,
+          "written": 50,
+          "contentReviewed": 50,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2016-1",
+          "target": 38,
+          "written": 38,
+          "contentReviewed": 38,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2016-2",
+          "target": 38,
+          "written": 38,
+          "contentReviewed": 38,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2016-3",
+          "target": 38,
+          "written": 38,
+          "contentReviewed": 38,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2017-1",
+          "target": 38,
+          "written": 38,
+          "contentReviewed": 38,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2017-2",
+          "target": 38,
+          "written": 38,
+          "contentReviewed": 38,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2017-3",
+          "target": 38,
+          "written": 38,
+          "contentReviewed": 38,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2018-1",
+          "target": 38,
+          "written": 38,
+          "contentReviewed": 38,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 2
+        },
+        {
+          "batchId": "2-2018-2",
+          "target": 38,
+          "written": 38,
+          "contentReviewed": 38,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2018-3",
+          "target": 38,
+          "written": 38,
+          "contentReviewed": 38,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2019-1",
+          "target": 38,
+          "written": 38,
+          "contentReviewed": 38,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2019-2",
+          "target": 38,
+          "written": 38,
+          "contentReviewed": 38,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2019-3",
+          "target": 38,
+          "written": 38,
+          "contentReviewed": 38,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2020-2",
+          "target": 38,
+          "written": 38,
+          "contentReviewed": 38,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2020-3",
+          "target": 38,
+          "written": 38,
+          "contentReviewed": 38,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        }
+      ],
+      "updatedAt": "2026-10-22T23:12:41+00:00"
+    },
+    {
+      "part": 9,
+      "targetAnswerSlots": 590,
+      "batches": [
+        {
+          "batchId": "2-2021-1",
+          "target": 38,
+          "written": 38,
+          "contentReviewed": 38,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2021-2",
+          "target": 38,
+          "written": 38,
+          "contentReviewed": 38,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2021-3",
+          "target": 38,
+          "written": 38,
+          "contentReviewed": 38,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2022-1",
+          "target": 38,
+          "written": 38,
+          "contentReviewed": 38,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2022-2",
+          "target": 38,
+          "written": 38,
+          "contentReviewed": 38,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2022-3",
+          "target": 38,
+          "written": 38,
+          "contentReviewed": 38,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2023-1",
+          "target": 38,
+          "written": 38,
+          "contentReviewed": 38,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2023-2",
+          "target": 38,
+          "written": 38,
+          "contentReviewed": 38,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2023-3",
+          "target": 38,
+          "written": 38,
+          "contentReviewed": 38,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2024-1",
+          "target": 31,
+          "written": 31,
+          "contentReviewed": 31,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2024-2",
+          "target": 31,
+          "written": 31,
+          "contentReviewed": 31,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2024-3",
+          "target": 31,
+          "written": 31,
+          "contentReviewed": 31,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2025-1",
+          "target": 31,
+          "written": 31,
+          "contentReviewed": 31,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2025-2",
+          "target": 31,
+          "written": 31,
+          "contentReviewed": 31,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2025-3",
+          "target": 31,
+          "written": 31,
+          "contentReviewed": 31,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2026-1",
+          "target": 31,
+          "written": 31,
+          "contentReviewed": 31,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "2-2026-2",
+          "target": 31,
+          "written": 31,
+          "contentReviewed": 31,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        }
+      ],
+      "updatedAt": "2026-10-22T23:12:42+00:00"
+    },
+    {
+      "part": 10,
+      "targetAnswerSlots": 574,
+      "batches": [
+        {
+          "batchId": "pre1-2014-1",
+          "target": 41,
+          "written": 41,
+          "contentReviewed": 41,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "pre1-2014-2",
+          "target": 41,
+          "written": 41,
+          "contentReviewed": 41,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "pre1-2014-3",
+          "target": 41,
+          "written": 41,
+          "contentReviewed": 41,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "pre1-2015-1",
+          "target": 41,
+          "written": 41,
+          "contentReviewed": 41,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "pre1-2015-2",
+          "target": 41,
+          "written": 41,
+          "contentReviewed": 41,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "pre1-2015-3",
+          "target": 41,
+          "written": 41,
+          "contentReviewed": 41,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "pre1-2016-1",
+          "target": 41,
+          "written": 41,
+          "contentReviewed": 41,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "pre1-2016-2",
+          "target": 41,
+          "written": 41,
+          "contentReviewed": 41,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "pre1-2016-3",
+          "target": 41,
+          "written": 41,
+          "contentReviewed": 41,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "pre1-2017-1",
+          "target": 41,
+          "written": 41,
+          "contentReviewed": 41,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "pre1-2017-2",
+          "target": 41,
+          "written": 41,
+          "contentReviewed": 41,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "pre1-2017-3",
+          "target": 41,
+          "written": 41,
+          "contentReviewed": 41,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "pre1-2018-1",
+          "target": 41,
+          "written": 41,
+          "contentReviewed": 41,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "pre1-2018-2",
+          "target": 41,
+          "written": 41,
+          "contentReviewed": 41,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        }
+      ],
+      "updatedAt": "2026-10-22T23:12:43+00:00"
+    },
+    {
+      "part": 11,
+      "targetAnswerSlots": 574,
+      "batches": [
+        {
+          "batchId": "pre1-2018-3",
+          "target": 41,
+          "written": 41,
+          "contentReviewed": 41,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "pre1-2019-1",
+          "target": 41,
+          "written": 41,
+          "contentReviewed": 41,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "pre1-2019-2",
+          "target": 41,
+          "written": 41,
+          "contentReviewed": 41,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "pre1-2019-3",
+          "target": 41,
+          "written": 41,
+          "contentReviewed": 41,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "pre1-2020-2",
+          "target": 41,
+          "written": 41,
+          "contentReviewed": 41,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "pre1-2020-3",
+          "target": 41,
+          "written": 41,
+          "contentReviewed": 41,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "pre1-2021-1",
+          "target": 41,
+          "written": 41,
+          "contentReviewed": 41,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "pre1-2021-2",
+          "target": 41,
+          "written": 41,
+          "contentReviewed": 41,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "pre1-2021-3",
+          "target": 41,
+          "written": 41,
+          "contentReviewed": 41,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "pre1-2022-1",
+          "target": 41,
+          "written": 41,
+          "contentReviewed": 41,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "pre1-2022-2",
+          "target": 41,
+          "written": 41,
+          "contentReviewed": 41,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "pre1-2022-3",
+          "target": 41,
+          "written": 41,
+          "contentReviewed": 41,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "pre1-2023-1",
+          "target": 41,
+          "written": 41,
+          "contentReviewed": 41,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "pre1-2023-2",
+          "target": 41,
+          "written": 41,
+          "contentReviewed": 41,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        }
+      ],
+      "updatedAt": "2026-10-22T23:12:43+00:00"
+    },
+    {
+      "part": 12,
+      "targetAnswerSlots": 289,
+      "batches": [
+        {
+          "batchId": "pre1-2023-3",
+          "target": 41,
+          "written": 41,
+          "contentReviewed": 41,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "pre1-2024-1",
+          "target": 31,
+          "written": 31,
+          "contentReviewed": 31,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "pre1-2024-2",
+          "target": 31,
+          "written": 31,
+          "contentReviewed": 31,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "pre1-2024-3",
+          "target": 31,
+          "written": 31,
+          "contentReviewed": 31,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "pre1-2025-1",
+          "target": 31,
+          "written": 31,
+          "contentReviewed": 31,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "pre1-2025-2",
+          "target": 31,
+          "written": 31,
+          "contentReviewed": 31,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "pre1-2025-3",
+          "target": 31,
+          "written": 31,
+          "contentReviewed": 31,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "pre1-2026-1",
+          "target": 31,
+          "written": 31,
+          "contentReviewed": 31,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        },
+        {
+          "batchId": "pre1-2026-2",
+          "target": 31,
+          "written": 31,
+          "contentReviewed": 31,
+          "status": "complete_reviewed",
+          "blank": 0,
+          "issues": 0,
+          "checkErrors": 0,
+          "checkWarnings": 0
+        }
+      ],
+      "updatedAt": "2026-10-22T23:12:44+00:00"
+    }
+  ],
+  "totalAnswerSlots": 3809
+}
